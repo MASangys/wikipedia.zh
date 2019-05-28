@@ -175,7 +175,7 @@ Oculus表示，Rift主要是款遊戲裝置，且他們的主要核心也將是�
 
 既有第一人稱或固定視角的遊戲可經過一些程式修正後，移植到VR上，但Oculus表示，最好的虛擬實鏡遊戲將是那些從一開始即設定為Rift之用的遊戲\[55\]。
 
-許多被評為[AAA的遊戲都已加入對Rift的支援](https://zh.wikipedia.org/wiki/AAA "wikilink")（並可使用DK2來遊玩），包括[賽車計劃](../Page/賽車計劃.md "wikilink")、[精英：危機四伏](../Page/精英：危機四伏.md "wikilink")、[歐洲卡車模擬2](https://zh.wikipedia.org/wiki/歐洲卡車模擬2 "wikilink")、[Dirt
+許多被評為[AAA的遊戲都已加入對Rift的支援](https://zh.wikipedia.org/wiki/AAA "wikilink")（並可使用DK2來遊玩），包括[賽車計劃](../Page/賽車計劃.md "wikilink")、[精英：危機四伏](../Page/精英：危機四伏.md "wikilink")、[歐洲卡車模擬2](../Page/歐洲卡車模擬2.md "wikilink")、[Dirt
 Rally](https://zh.wikipedia.org/wiki/Dirt_Rally "wikilink")，以及[輕率漠視重力](https://zh.wikipedia.org/wiki/輕率漠視重力 "wikilink")、[Ether
 One等](https://zh.wikipedia.org/wiki/Ether_One "wikilink")[獨立遊戲](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")。玩家與愛好者也會修改一些知名的遊戲，使其能支援Rift，包括[我的世界及](../Page/我的世界.md "wikilink")[微軟模擬飛行
 X](../Page/微軟模擬飛行.md "wikilink")\[56\]\[57\]。
@@ -183,12 +183,10 @@ X](../Page/微軟模擬飛行.md "wikilink")\[56\]\[57\]。
 2015年6月，[Crytek公布了一款虛擬實境遊戲](../Page/Crytek.md "wikilink")《羅賓森：旅途》，為第一款由[第三方開發商生產的AAA虛擬實境](https://zh.wikipedia.org/wiki/遊戲開發者#第三方開發商 "wikilink")[獨占遊戲](https://zh.wikipedia.org/wiki/獨占遊戲 "wikilink")\[58\]。
 
 2015年6月，Oculus公布了9款用於Rift的遊戲，包括[CCP開發的](https://zh.wikipedia.org/wiki/CCP "wikilink")《[EVE：Valkyrie](https://zh.wikipedia.org/wiki/EVE：Valkyrie "wikilink")》及[Insomniac
-Games開發的](https://zh.wikipedia.org/wiki/Insomniac_Games "wikilink")《Edge
-of
+Games開發的](../Page/Insomniac_Games.md "wikilink")《Edge of
 Nowhere》。此外，Oculus還宣布該公司正與其他開發商合作，包括《[最終幻想](https://zh.wikipedia.org/wiki/最終幻想 "wikilink")》的開發商[Square
 Enix](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")、《吉他英雄》的開發商[Harmonix](https://zh.wikipedia.org/wiki/Harmonix "wikilink")，以及《教​​團：1886》的開發商[Ready
-at
-Dawn](https://zh.wikipedia.org/wiki/Ready_at_Dawn "wikilink")\[59\]\[60\]。
+at Dawn](../Page/Ready_at_Dawn.md "wikilink")\[59\]\[60\]。
 
 2015年7月，Oculus透露，該公司已資助20家以上的公司，製作Rift獨占的高品質遊戲，其中一個即是Insomniac的《Edge of
 Nowhere》\[61\]。
@@ -237,7 +235,7 @@ VR等虛擬實境頭套而設計](../Page/三星Gear_VR.md "wikilink")。如同�
 DK2，以協助其客戶配置他們感興趣的車子，並觀看賽車時車子裡看到的景象\[79\]\[80\]。
 
 [挪威陸軍已開始利用Rift](https://zh.wikipedia.org/wiki/挪威陸軍 "wikilink")
-DK2進行實驗，以讓裝甲車輛駕駛員與指揮官能有最好的[状态意识能力](https://zh.wikipedia.org/wiki/状态意识 "wikilink")\[81\]。
+DK2進行實驗，以讓裝甲車輛駕駛員與指揮官能有最好的[状态意识能力](../Page/状态意识.md "wikilink")\[81\]。
 
 ## 另見
 

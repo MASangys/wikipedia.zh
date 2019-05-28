@@ -1,6 +1,6 @@
 **élf**（エルフ）是一家[日本成人遊戲公司](../Page/日本成人遊戲.md "wikilink")，總部位在[東京都](../Page/東京都.md "wikilink")，成立於1989年4月27日。過去在1990年代曾經和[AliceSoft有](https://zh.wikipedia.org/wiki/AliceSoft "wikilink")「東elf，西Alice」（東のエルフ、西のアリス）的齊名稱號。\[1\]
 絕大部分élf遊戲也曾被改編為[成人動畫](../Page/成人動畫.md "wikilink")。有三部élf遊戲系列更曾被改編為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")：《[下級生](../Page/下級生.md "wikilink")》、《[萊姆色戰奇譚](https://zh.wikipedia.org/wiki/萊姆色戰奇譚 "wikilink")》、《[YU-NO
-在這世界盡頭詠唱愛的少女](https://zh.wikipedia.org/wiki/YU-NO_在這世界盡頭詠唱愛的少女 "wikilink")》。
+在這世界盡頭詠唱愛的少女](../Page/YU-NO_在這世界盡頭詠唱愛的少女.md "wikilink")》。
 
 élf在2016年停止獨立營運，旗下遊戲的版權分別則賣給[DMM.com和](../Page/DMM.com.md "wikilink")[MAGES.](https://zh.wikipedia.org/wiki/MAGES. "wikilink")。\[2\]\[3\]
 
@@ -13,7 +13,7 @@
   - 2006年成立新品牌**BANANA Shu-Shu**。
   - 2008年1月31日BANANA Shu-Shu停止營運。
   - 2014年1月《[YU-NO
-    在這世界盡頭詠唱愛的少女](https://zh.wikipedia.org/wiki/YU-NO_在這世界盡頭詠唱愛的少女 "wikilink")》的版權轉讓給MAGES，並宣布製作完全[重製版](https://zh.wikipedia.org/wiki/重製版 "wikilink")。\[4\]預定在2017年3月16日發售PS4版和PSV版。\[5\]
+    在這世界盡頭詠唱愛的少女](../Page/YU-NO_在這世界盡頭詠唱愛的少女.md "wikilink")》的版權轉讓給MAGES，並宣布製作完全[重製版](https://zh.wikipedia.org/wiki/重製版 "wikilink")。\[4\]預定在2017年3月16日發售PS4版和PSV版。\[5\]
   - 2014年6月SILKY'S停止營運，原工作團隊另外在NightWind公司成立新品牌****（）。\[6\]\[7\]
   - 2016年3月1日élf和SILKY'S在官方網站公告將在3月31日關閉官方網站。\[8\]\[9\]
 
@@ -37,7 +37,7 @@
 </dd>
 <dd>1991年12月14日 ドラゴンナイトIII
 </dd>
-<dd>1994年2月25日 <a href="https://zh.wikipedia.org/wiki/龍騎士4" title="wikilink">龍騎士4</a>（DOS版）
+<dd>1994年2月25日 <a href="../Page/龍騎士4.md" title="wikilink">龍騎士4</a>（DOS版）
 </dd>
 <dd>2007年6月29日 ドラゴンナイト4（Windows版）
 </dd>
@@ -241,7 +241,7 @@
 </dd>
 <dd>1992年3月18日
 </dd>
-<dd>1993年7月22日 <a href="https://zh.wikipedia.org/wiki/WORDS_WORTH" title="wikilink">WORDS WORTH</a>（DOS版）
+<dd>1993年7月22日 <a href="../Page/WORDS_WORTH.md" title="wikilink">WORDS WORTH</a>（DOS版）
 </dd>
 <dd>1995年5月19日 エルフスクリーンセーバーコレクション Volume.1
 </dd>
@@ -258,7 +258,7 @@
 </dl></td>
 <td><dl>
 <dt></dt>
-<dd>2000年5月26日 <a href="https://zh.wikipedia.org/wiki/愛姊妹_二人的果實" title="wikilink">愛姊妹 二人的果實</a>（Windows版）
+<dd>2000年5月26日 <a href="../Page/愛姊妹_二人的果實.md" title="wikilink">愛姊妹 二人的果實</a>（Windows版）
 </dd>
 <dd>2000年7月19日 BE-YOND（Windows版）
 </dd>

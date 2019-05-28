@@ -88,8 +88,7 @@
 
 ## 參考資料
 
-  - [古粟特字母
-    (Unicode區段)](https://zh.wikipedia.org/wiki/古粟特字母_\(Unicode區段\) "wikilink")
+  - [古粟特字母 (Unicode區段)](../Page/古粟特字母_\(Unicode區段\).md "wikilink")
 
 ## 參考資料
 

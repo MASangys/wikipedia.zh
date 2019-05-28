@@ -98,8 +98,7 @@ clustering](https://zh.wikipedia.org/wiki/Gaussian_Mixture_EM_clustering "wikili
 3.  DBSCAN 能分辨噪音（局外點）。
 4.  DBSCAN
     只需兩個參數，且對資料庫內的點的次序幾乎不敏感（兩個聚類之間邊緣的點有機會受次序的影響被分到不同的聚類，另外聚類的次序會受點的次序的影響）。
-5.  DBSCAN
-    被設計成能配合可加速範圍訪問的資料庫結構，例如 [R\*樹](https://zh.wikipedia.org/wiki/R*树 "wikilink")。
+5.  DBSCAN 被設計成能配合可加速範圍訪問的資料庫結構，例如 [R\*樹](../Page/R*树.md "wikilink")。
 6.  如果對資料有足夠的了解，可以選擇適當的參數以獲得最佳的分類。
 
 ## 缺點

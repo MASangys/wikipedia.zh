@@ -13,7 +13,7 @@ SELECT * FROM Win32_LogicalDisk WHERE FreeSpace < 2097152
 
 ## 参见
 
-  - [Windows管理规范](https://zh.wikipedia.org/wiki/Windows管理规范 "wikilink")（WMI）
+  - [Windows管理规范](../Page/Windows管理规范.md "wikilink")（WMI）
 
   - [通用信息模型](../Page/通用信息模型.md "wikilink")（CIM）
 

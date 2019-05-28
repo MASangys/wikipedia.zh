@@ -44,7 +44,7 @@ Metalowe ‘Mesko’工廠所生產。\[6\]
 ## 衍生型
 
 「鉭」式步槍被用以發展出[Skbk wz.
-1989「縞瑪瑙」](https://zh.wikipedia.org/wiki/Wz._1989縞瑪瑙卡賓槍 "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")、[karabinek-granatnik
+1989「縞瑪瑙」](../Page/Wz._1989縞瑪瑙卡賓槍.md "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")、[karabinek-granatnik
 wz. 1974步槍](../Page/Wz._1974鈀式附加型榴彈發射器.md "wikilink")／榴彈發射器組合；以及Wz.
 1988的夜間型，藉由在[機匣側面安裝的](https://zh.wikipedia.org/wiki/機匣 "wikilink")用於安裝苏联[NSP-3](https://zh.wikipedia.org/wiki/NSP-3夜視鏡 "wikilink")[夜視瞄準鏡或是波蘭PCS](../Page/夜視鏡.md "wikilink")-5夜視鏡。除此以外還有發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子弹的原型槍Kbk](https://zh.wikipedia.org/wiki/子弹 "wikilink")
 wz. 1990，但當時的波蘭軍隊並沒有興趣發展這個想法。
@@ -61,10 +61,8 @@ wz. 1990，但當時的波蘭軍隊並沒有興趣發展這個想法。
 
 ## 參見
 
-  - [Kbkg wz.
-    1960](https://zh.wikipedia.org/wiki/Kbkg_wz._1960槍榴彈發射步槍 "wikilink")
-  - [Skbk wz.
-    1989「縞瑪瑙」](https://zh.wikipedia.org/wiki/Wz._1989縞瑪瑙卡賓槍 "wikilink")
+  - [Kbkg wz. 1960](../Page/Kbkg_wz._1960槍榴彈發射步槍.md "wikilink")
+  - [Skbk wz. 1989「縞瑪瑙」](../Page/Wz._1989縞瑪瑙卡賓槍.md "wikilink")
   - [Kbk wz. 1996「鈹」](../Page/Wz._1996鈹式突擊步槍.md "wikilink")
   - [Kbk wz. 2005 Jantar](../Page/Wz._2005_Jantar突擊步槍.md "wikilink")
   - [MSBS Radon](../Page/MSBS_Radon突擊步槍.md "wikilink")

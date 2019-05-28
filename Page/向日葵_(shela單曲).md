@@ -13,7 +13,7 @@ trax發行](https://zh.wikipedia.org/wiki/avex_trax "wikilink")\[1\]。
 2.  **Crystal Moon** \[4:46\]
       - 作詞：仮谷佳未，作曲、編曲：迫茂樹
 3.  **Precious Moment** \[4:20\]
-      - 作詞：shela，作曲：SOTARO@ZZ，編曲：[安部潤](https://zh.wikipedia.org/wiki/安部潤 "wikilink")
+      - 作詞：shela，作曲：SOTARO@ZZ，編曲：[安部潤](../Page/安部潤.md "wikilink")
 4.  Days（Instrumental） \[4:27\]
 5.  Crystal Moon（Instrumental） \[4:46\]
 6.  Precious Moment（Instrumental） \[4:15\]

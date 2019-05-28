@@ -19,7 +19,7 @@ Taylor創立。\[3\]在其成立之初，Gogoro從[尹衍樑和](../Page/尹衍�
 
 2014年10月，Gogoro從一批投資者募集了額外的1億美元的[B輪融資](https://zh.wikipedia.org/wiki/B輪融資 "wikilink")。
 
-2015年11月，Gogoro宣布了[Panasonic與](../Page/松下電器.md "wikilink")[行政院國家發展基金](https://zh.wikipedia.org/wiki/行政院國家發展基金 "wikilink")\[5\]的新一輪投資，將Smartscooter的創新者資本增加到1.8億美元\[6\]。
+2015年11月，Gogoro宣布了[Panasonic與](../Page/松下電器.md "wikilink")[行政院國家發展基金](../Page/行政院國家發展基金.md "wikilink")\[5\]的新一輪投資，將Smartscooter的創新者資本增加到1.8億美元\[6\]。
 
 2015年3月30日，Gogoro全球體驗中心（Global Experience
 Center，GEC）於台北市信義區松壽路18號開幕\[7\]，同時這天也被設定為
@@ -191,7 +191,7 @@ S2僅配備電子油門，並無搭載Saferide線傳電子油門，因此在不�
 
 對於首次開發電動機車的Gogoro團隊而言，由於能源、動力的不確定性，使其十分重視車體的輕量化，為此重金購入了全台噸位最大的九軸沖壓機\[50\]，製造AeroFrame一體成形鋁合金車架。AeroFrame鋁合金單體車架外露的設計使其兼具外觀件及結構件功能，經過九次沖程製成，並使用[DOW
 Chemical](../Page/陶氏化工.md "wikilink")
-航太結構膠結合其餘結構件，而非焊接，其表面經[陽極氧化上色](https://zh.wikipedia.org/wiki/陽極處理 "wikilink")（Gogoro
+航太結構膠結合其餘結構件，而非焊接，其表面經[陽極氧化上色](../Page/陽極處理.md "wikilink")（Gogoro
 Lite使用粉體烤漆）。採用AeroFrame鋁合金單體車架帶給Gogoro 1
 Series絕佳的操控性及路感反饋，更有著高剛性高回收使用率的優點，呼應Gogoro的Eco-Friendly口號，成為Gogoro自豪的技術之一。不僅如此，AeroFrame鋁合金單體車架更構成聲學共振車體，能夠配合G1馬達及喇叭發出特別的音效\[51\]。
 
@@ -463,7 +463,7 @@ Gogoro Energy Network既為英屬開曼群島商睿能新動力股份有限公�
 2017年7月28日，Gogoro 在臺灣新北市八里正式啟用首座太陽能 GoStation
 ，該站附有一面獨立的螢幕，顯示能源的使用情況\[70\]。
 
-2017年8月15日，發生了[全台大停電](https://zh.wikipedia.org/wiki/815全臺大停電 "wikilink")，造成全台近四分之一的GoStation暫停服務（含停電前就已停機維修）\[71\]。
+2017年8月15日，發生了[全台大停電](../Page/815全臺大停電.md "wikilink")，造成全台近四分之一的GoStation暫停服務（含停電前就已停機維修）\[71\]。
 
 2018年3月30日，Gogoro在Born Ready媒體記者會中發表Gogoro Energy Network 2.0。
 
@@ -526,7 +526,7 @@ App或使用iQ智慧鑰匙進行電池預約。
 不論母機子機，單機輸入電力規格皆為220V
 50-60Hz三相三線、最高30A，最大消耗功率為10kW。其散熱風扇及喇叭位於機器後方上部，整座站體的耐候標準為IPX4\[75\]，可以承受多變的天氣情況，根據在台灣地區營運的經驗，至今為止尚無因機體受天氣因素而停止運作的案例，而是由於台電的電力供應出現問題而不得不停止運作。
 
-在2017年8月15日發生的[全台大停電同時造成近全台四分之一的GoStation暫停服務](https://zh.wikipedia.org/wiki/815全臺大停電 "wikilink")\[76\]。
+在2017年8月15日發生的[全台大停電同時造成近全台四分之一的GoStation暫停服務](../Page/815全臺大停電.md "wikilink")\[76\]。
 
 在CES 2018展會的停電中，GoStation就成功以自身電力持續供應機台運作，成為展場中少數仍保持電力運作的機器。
 
@@ -568,7 +568,7 @@ Here」圓圈，完成身分認證並進行電池預約\[81\]；2018年回歸的
 ##### GoStation 2.0
 
 2018年3月30日，Gogoro 在 Born Ready 媒體記者會中發表 GoStation
-2.0，以[815全台大停電事件說明穩定供應服務的重要性](https://zh.wikipedia.org/wiki/815全臺大停電 "wikilink")，GoStation
+2.0，以[815全台大停電事件說明穩定供應服務的重要性](../Page/815全臺大停電.md "wikilink")，GoStation
 2.0外觀不變，但更改了內部，即便在市電供應異常時，也能依賴自主電力維持最長48小時的營運，Gogoro CEO陸學森Horace
 Luke現場示範拔除GoStaiton電源接頭，此時螢幕會顯示「獨立供電中
 市電供應中斷GoStation獨立供電並提供換電」，然而根據回放畫面，在
@@ -648,7 +648,7 @@ Mobile，反觀 GoCharger 則具有共享性。
 ### Gogoro 智慧電池 Gogoro Smart Battery
 
 一個 Gogoro
-智慧電池模組由頂部綠色提把、30個感應器\[91\]、電腦系統、18650[鋰離子電池](../Page/锂离子电池.md "wikilink")、[NFC模組及](../Page/近場通訊.md "wikilink")[BMS系統組成](https://zh.wikipedia.org/wiki/电池管理系统 "wikilink")。單個重量約9公斤，以黑色鋁合金外殼包覆，並印有「Property
+智慧電池模組由頂部綠色提把、30個感應器\[91\]、電腦系統、18650[鋰離子電池](../Page/锂离子电池.md "wikilink")、[NFC模組及](../Page/近場通訊.md "wikilink")[BMS系統組成](../Page/电池管理系统.md "wikilink")。單個重量約9公斤，以黑色鋁合金外殼包覆，並印有「Property
 of Gogoro Energy Network」與「With Panasonic Cells」字樣（新版的Gogoro智慧電池已將With
 Panasonic Cells字樣移除），具堅固與 IPX7 防水能力，電極接頭經鍍銀處理\[92\]。透過底部的 NFC 模組與
 Smartscooter 智慧雙輪、GoStation 電池交換站、GoCharger 充電座進行認證、資料交換、車輛資料的採集（每秒十次）。

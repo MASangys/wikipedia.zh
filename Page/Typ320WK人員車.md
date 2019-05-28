@@ -26,10 +26,10 @@
   -
 ## 相關條目
 
-  - [威利吉普車](https://zh.wikipedia.org/wiki/威利吉普車 "wikilink")
+  - [威利吉普車](../Page/威利吉普車.md "wikilink")
   - [福斯金龜車](https://zh.wikipedia.org/wiki/福斯金龜車 "wikilink")
   - [VW166兩棲車](../Page/VW166兩棲車.md "wikilink")
-  - [GAZ-67人員車](https://zh.wikipedia.org/wiki/GAZ-67人員車 "wikilink")
+  - [GAZ-67人員車](../Page/GAZ-67人員車.md "wikilink")
   - [82式水桶車](../Page/82式水桶車.md "wikilink")
 
 ## 參考文獻

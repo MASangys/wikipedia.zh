@@ -48,7 +48,7 @@ C2C以下游承包商持續協助其它中、大型動畫企業時，又以協�
 </tr>
 <tr class="odd">
 <td><p>1月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Project575" title="wikilink">GO！GO！575</a></p></td>
+<td><p><a href="../Page/Project575.md" title="wikilink">GO！GO！575</a></p></td>
 <td><p><a href="../Page/Lay-duce.md" title="wikilink">Lay-duce</a></p></td>
 <td></td>
 <td></td>
@@ -272,7 +272,7 @@ C2C以下游承包商持續協助其它中、大型動畫企業時，又以協�
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Gathering_(動畫製作公司)" title="wikilink">Gathering</a></p></td>
+<td><p><a href="../Page/Gathering_(動畫製作公司).md" title="wikilink">Gathering</a></p></td>
 <td><p>協力製作</p></td>
 <td></td>
 <td></td>
@@ -725,7 +725,7 @@ C2C以下游承包商持續協助其它中、大型動畫企業時，又以協�
 <tr class="odd">
 <td><p><a href="../Page/HUNDRED百武裝戰記.md" title="wikilink">HUNDRED百武裝戰記</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Production_IMS" title="wikilink">Production IMS</a></p></td>
+<td><p><a href="../Page/Production_IMS.md" title="wikilink">Production IMS</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -739,7 +739,7 @@ C2C以下游承包商持續協助其它中、大型動畫企業時，又以協�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/文豪Stray_Dogs" title="wikilink">文豪Stray Dogs</a></p></td>
+<td><p><a href="../Page/文豪Stray_Dogs.md" title="wikilink">文豪Stray Dogs</a></p></td>
 <td></td>
 <td><p>BONES</p></td>
 <td></td>

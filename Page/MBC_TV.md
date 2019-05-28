@@ -40,7 +40,7 @@ TV**是[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[文化广播公
 ## 关连项目
 
   - [MBC标准FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink")
-  - [SBS TV](https://zh.wikipedia.org/wiki/SBS_TV "wikilink")
+  - [SBS TV](../Page/SBS_TV.md "wikilink")
   - [Channel A](../Page/Channel_A.md "wikilink")
 
 [Category:MBC](https://zh.wikipedia.org/wiki/Category:MBC "wikilink")

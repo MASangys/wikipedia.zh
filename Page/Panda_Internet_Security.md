@@ -37,7 +37,7 @@ Softpedia的評測說熊貓雲端防毒軟體擁有很高的偵測率，但沒�
 其他雲端防毒軟體廠商如下：
 
   - [360 Total Security](../Page/360_Total_Security.md "wikilink")
-  - [Immunet](https://zh.wikipedia.org/wiki/Immunet "wikilink")
+  - [Immunet](../Page/Immunet.md "wikilink")
   - [Comodo Cloud Scanner](../Page/科摩多网络安全套装.md "wikilink")
   - PC Tools
   - [赛门铁克](../Page/赛门铁克.md "wikilink")

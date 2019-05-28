@@ -16,17 +16,15 @@ Jint](https://zh.wikipedia.org/wiki/Verbal_Jint "wikilink")《污名》feat
 San
 E希望能成就個人的風格而離開[JYP娱乐](../Page/JYP娛樂.md "wikilink")，[JYP娱乐也讓他無條件離開公司](../Page/JYP娛樂.md "wikilink")。San
 E並在同年與[Brand New
-Music簽約成為旗下藝員](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")，而該合同則從2013年維持至2018年12月6日。
+Music簽約成為旗下藝員](../Page/Brand_New_Music.md "wikilink")，而該合同則從2013年維持至2018年12月6日。
 
 ### 2018年：離開公司
 
 2018年， San E因歧視女權、公然爆粗口等爭議與Brand New Music 解約。 經紀公司 [Brand New
-Music](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")
-於2018年12月6日發表官方聲明宣布與 San E 解約。 [Brand New
-Music](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")
+Music](../Page/Brand_New_Music.md "wikilink") 於2018年12月6日發表官方聲明宣布與 San E
+解約。 [Brand New Music](../Page/Brand_New_Music.md "wikilink")
 6日發表官方聲明表示：「本公司已與旗下藝人 San E 正式解約，我們在與 San E
-經過討論之後，雙方決定中止合約，在此感謝這段期間陪伴一起走過的 San E
-以及各位粉絲們。」
+經過討論之後，雙方決定中止合約，在此感謝這段期間陪伴一起走過的 San E 以及各位粉絲們。」
 
 ## 音樂作品
 
@@ -90,7 +88,7 @@ Music](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")
 
   - Mnet《[Unpretty Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》
   - Mnet《Unpretty Rap star2》
-  - JTBC《[嘻哈民族](https://zh.wikipedia.org/wiki/嘻哈民族 "wikilink")》
+  - JTBC《[嘻哈民族](../Page/嘻哈民族.md "wikilink")》
 
 ## 參演節目
 
@@ -104,14 +102,13 @@ Music](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")
   - 2014年11月14日
     KBS《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》
   - Mnet《[Show Me The Money
-    3](https://zh.wikipedia.org/wiki/Show_Me_The_Money_3 "wikilink")》(與
-    Swings 屬同一制作人組)
+    3](../Page/Show_Me_The_Money_3.md "wikilink")》(與 Swings 屬同一制作人組)
   - Mnet《[Show Me The Money
-    4](https://zh.wikipedia.org/wiki/Show_Me_The_Money_4 "wikilink")》(與
-    VerbalJint 組成 Brandnew Music 制作組)\[6\]
+    4](../Page/Show_Me_The_Money_4.md "wikilink")》(與 VerbalJint 組成
+    Brandnew Music 制作組)\[6\]
   - 2015年4月14日 Mnet《[四種秀](https://zh.wikipedia.org/wiki/四種秀 "wikilink")》
   - 2015年5月9日,2015年5月16日 MBC《[My Little
-    Television](https://zh.wikipedia.org/wiki/My_Little_Television "wikilink")》
+    Television](../Page/My_Little_Television.md "wikilink")》
   - 2015年5月12日,2015年5月19日,2015年6月2日
     JTBC《[我去上學啦](https://zh.wikipedia.org/wiki/我去上學啦 "wikilink")》
   - 2015年5月26日 JTBC《魔女狩獵》
@@ -120,7 +117,7 @@ Music](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")
   - 2015年9月28日 MBC《偉大的遺產》
   - 2016年1月25日 MBC《Rap Star的誕生》
   - 2017年10月28日－2018年2月10日 KBS《[The
-    Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》\[7\]
+    Unit](../Page/The_Unit.md "wikilink")》\[7\]
   - 2018年2月21日 MBC《[黄金渔场 Radio
     Star](../Page/黄金渔场_Radio_Star.md "wikilink")》\[8\]
 

@@ -8,7 +8,7 @@
 
   - 內地 合作代理
 
-      - <s>[美卡音像](https://zh.wikipedia.org/wiki/美卡音像 "wikilink")</s>（2001年中國大陸代理發行，2005年底終止合約）
+      - <s>[美卡音像](../Page/美卡音像.md "wikilink")</s>（2001年中國大陸代理發行，2005年底終止合約）
       - [天凱唱片](https://zh.wikipedia.org/wiki/天凱唱片 "wikilink")（2006年起中國大陸代理發行合作至今）
 
   - 合作代理
@@ -31,18 +31,18 @@
 
 ## EP（組合個人國/粵語）
 
-| 專輯名稱                                                     | 發行日期  | 發行版本 | 備註          |
-| -------------------------------------------------------- | ----- | ---- | ----------- |
-| [Twins](../Page/Twins_\(EP\).md "wikilink")              | 2001年 |      | （粵語，團體作）    |
-| [愛情當入樽](../Page/愛情當入樽.md "wikilink")                     | 2001年 |      | （粵語，團體作）    |
-| [雙生兒](../Page/雙生兒_\(EP\).md "wikilink")                  | 2002年 |      | （粵語，團體作）    |
-| [Another Me](../Page/Another_Me.md "wikilink")           | 2009年 |      | （粵語，蔡卓妍個人作） |
-| [人人彈起](../Page/人人彈起_\(鍾欣桐專輯\).md "wikilink")             | 2010年 |      | （粵語，鍾欣潼個人作） |
-| [Beauty Remains](../Page/Beauty_Remains.md "wikilink")   | 2010年 |      | （粵語，蔡卓妍個人作） |
-| [Move On](../Page/Move_On.md "wikilink")...              | 2010年 |      | （粵語，鍾欣潼個人作） |
-| [Sweetest Day](../Page/Sweetest_Day.md "wikilink")       | 2011年 |      | （粵語，蔡卓妍個人作） |
-| [完整愛](../Page/完整愛_\(EP\).md "wikilink")                  | 2014年 |      | （國語，鍾欣潼個人作） |
-| [花約](https://zh.wikipedia.org/wiki/花約_\(EP\) "wikilink") | 2017年 |      | （粵語，團體作）    |
+| 專輯名稱                                                   | 發行日期  | 發行版本 | 備註          |
+| ------------------------------------------------------ | ----- | ---- | ----------- |
+| [Twins](../Page/Twins_\(EP\).md "wikilink")            | 2001年 |      | （粵語，團體作）    |
+| [愛情當入樽](../Page/愛情當入樽.md "wikilink")                   | 2001年 |      | （粵語，團體作）    |
+| [雙生兒](../Page/雙生兒_\(EP\).md "wikilink")                | 2002年 |      | （粵語，團體作）    |
+| [Another Me](../Page/Another_Me.md "wikilink")         | 2009年 |      | （粵語，蔡卓妍個人作） |
+| [人人彈起](../Page/人人彈起_\(鍾欣桐專輯\).md "wikilink")           | 2010年 |      | （粵語，鍾欣潼個人作） |
+| [Beauty Remains](../Page/Beauty_Remains.md "wikilink") | 2010年 |      | （粵語，蔡卓妍個人作） |
+| [Move On](../Page/Move_On.md "wikilink")...            | 2010年 |      | （粵語，鍾欣潼個人作） |
+| [Sweetest Day](../Page/Sweetest_Day.md "wikilink")     | 2011年 |      | （粵語，蔡卓妍個人作） |
+| [完整愛](../Page/完整愛_\(EP\).md "wikilink")                | 2014年 |      | （國語，鍾欣潼個人作） |
+| [花約](../Page/花約_\(EP\).md "wikilink")                  | 2017年 |      | （粵語，團體作）    |
 
 ## 錄音室專輯（粵語）
 

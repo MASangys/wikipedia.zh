@@ -32,7 +32,7 @@
 任天堂企劃製作本部</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/任天堂明星大亂鬥_特別版" title="wikilink">任天堂明星大亂鬥 特別版</a></p></td>
+<td><p><a href="../Page/任天堂明星大亂鬥_特別版.md" title="wikilink">任天堂明星大亂鬥 特別版</a></p></td>
 <td><p>2018年12月7日</p></td>
 <td><p>data-sort-value="1381"|<strong>1381万</strong>[3]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/動作遊戲" title="wikilink">動作</a>、<a href="../Page/格鬥遊戲.md" title="wikilink">格鬥</a></p></td>
@@ -49,7 +49,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/任天堂企劃製作本部" title="wikilink">任天堂企劃製作本部</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/精靈寶可夢_Let&#39;s_Go！皮卡丘／Let&#39;s_Go！伊布" title="wikilink">精靈寶可夢 Let's Go！皮卡丘／Let's Go！伊布</a></p></td>
+<td><p><a href="../Page/精靈寶可夢_Let&#39;s_Go！皮卡丘／Let&#39;s_Go！伊布.md" title="wikilink">精靈寶可夢 Let's Go！皮卡丘／Let's Go！伊布</a></p></td>
 <td><p>2018年11月16日</p></td>
 <td><p>data-sort-value="1063"|<strong>1063万</strong>[5]</p></td>
 <td><p><a href="../Page/角色扮演游戏.md" title="wikilink">角色扮演</a></p></td>
@@ -89,7 +89,7 @@
 <td><p>任天堂企劃製作本部</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/瑪利歐網球_王牌高手" title="wikilink">瑪利歐網球 王牌高手</a></p></td>
+<td><p><a href="../Page/瑪利歐網球_王牌高手.md" title="wikilink">瑪利歐網球 王牌高手</a></p></td>
 <td><p>2018年6月22日</p></td>
 <td><p>data-sort-value="264"|264万[10]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/體育游戏" title="wikilink">體育</a></p></td>
@@ -97,7 +97,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Camelot_Software_Planning" title="wikilink">Camelot Software Planning</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/星之卡比_新星同盟" title="wikilink">星之卡比 新星同盟</a></p></td>
+<td><p><a href="../Page/星之卡比_新星同盟.md" title="wikilink">星之卡比 新星同盟</a></p></td>
 <td><p>2018年3月16日</p></td>
 <td><p>data-sort-value="256"|256万[11]</p></td>
 <td><p><a href="../Page/平台游戏.md" title="wikilink">平台</a></p></td>
@@ -138,7 +138,7 @@
 <td><p><a href="../Page/Monolith_Soft.md" title="wikilink">Monolith Soft</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/歧路旅人" title="wikilink">歧路旅人</a></p></td>
+<td><p><a href="../Page/歧路旅人.md" title="wikilink">歧路旅人</a></p></td>
 <td><p>2018年7月13日</p></td>
 <td><p>data-sort-value="150 " |150万[18]</p></td>
 <td><p><a href="../Page/電子角色扮演遊戲.md" title="wikilink">角色扮演</a></p></td>

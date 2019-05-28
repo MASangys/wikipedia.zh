@@ -241,7 +241,7 @@ Instrumental-」。  ※首批限量版附贈樂曲〈Road of Resistance〉數�
   - 成員
       - [大村孝佳](../Page/大村孝佳.md "wikilink") - 吉他
 
-      - [Leda](https://zh.wikipedia.org/wiki/Leda "wikilink") - 吉他
+      - [Leda](../Page/Leda.md "wikilink") - 吉他
 
       - \- 貝斯
 

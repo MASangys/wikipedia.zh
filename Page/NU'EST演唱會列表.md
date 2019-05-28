@@ -476,7 +476,7 @@ MC：JR、Ren[15]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年Mnet亞洲音樂大獎" title="wikilink">2017年Mnet亞洲音樂大獎</a></p></td>
+<td><p><a href="../Page/2017年Mnet亞洲音樂大獎.md" title="wikilink">2017年Mnet亞洲音樂大獎</a></p></td>
 <td><p>日本橫濱體育館</p></td>
 <td></td>
 </tr>
@@ -572,7 +572,7 @@ MC：JR、Ren[15]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月30日</p></td>
-<td><p>2018 <a href="https://zh.wikipedia.org/wiki/Soribada最佳音樂大獎" title="wikilink">SORIBADA 最佳音樂大獎</a></p></td>
+<td><p>2018 <a href="../Page/Soribada最佳音樂大獎.md" title="wikilink">SORIBADA 最佳音樂大獎</a></p></td>
 <td><p>韓國首爾松坡區奧林匹克體操競技場</p></td>
 <td></td>
 </tr>
@@ -662,7 +662,7 @@ MC：JR、Ren[15]</p></td>
 </tr>
 <tr class="even">
 <td><p>12月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS歌謠盛典" title="wikilink">KBS 歌謠大祝祭</a></p></td>
+<td><p><a href="../Page/KBS歌謠盛典.md" title="wikilink">KBS 歌謠大祝祭</a></p></td>
 <td><p>首爾汝矣島KBS電視台音樂廳</p></td>
 <td><p>NU'EST W</p></td>
 </tr>

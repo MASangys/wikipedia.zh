@@ -57,7 +57,7 @@ C.P.，尚有負責上色和色彩設定的FINECOLORs等複數團隊存在。
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/捏造陷阱_-NTR-" title="wikilink">捏造陷阱 -NTR-</a></p></td>
+<td><p><a href="../Page/捏造陷阱_-NTR-.md" title="wikilink">捏造陷阱 -NTR-</a></p></td>
 <td><p>[7]</p></td>
 </tr>
 <tr class="even">
@@ -70,18 +70,18 @@ C.P.，尚有負責上色和色彩設定的FINECOLORs等複數團隊存在。
 
 #### 協助製作
 
-| 年份                                                                | 作品名稱                                                        | 總承包                                        |
-| ----------------------------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------ |
-| 2014年                                                             | [RAIL WARS\!](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink") | [Passione](../Page/Passione.md "wikilink") |
-| [日常生活中的異能戰鬥](https://zh.wikipedia.org/wiki/日常生活中的異能戰鬥 "wikilink") | [TRIGGER](../Page/TRIGGER.md "wikilink")                    |                                            |
-| 2016年                                                             | [制約之絆](../Page/制約之絆.md "wikilink")                          |                                            |
-| 2017年                                                             | [小魔女學園](https://zh.wikipedia.org/wiki/小魔女學園 "wikilink")     |                                            |
+| 年份                                             | 作品名稱                                                        | 總承包                                        |
+| ---------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------ |
+| 2014年                                          | [RAIL WARS\!](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink") | [Passione](../Page/Passione.md "wikilink") |
+| [日常生活中的異能戰鬥](../Page/日常生活中的異能戰鬥.md "wikilink") | [TRIGGER](../Page/TRIGGER.md "wikilink")                    |                                            |
+| 2016年                                          | [制約之絆](../Page/制約之絆.md "wikilink")                          |                                            |
+| 2017年                                          | [小魔女學園](https://zh.wikipedia.org/wiki/小魔女學園 "wikilink")     |                                            |
 
 ### 網路動畫
 
   - [NINJA SLAYER from
     ANIMATION](../Page/NINJA_SLAYER忍者殺手.md "wikilink")（總承包：TRIGGER，協助製作，2015年）
-  - [日本動畫人展覽會](../Page/日本動畫人展覽會.md "wikilink")《歷史機關》（總承包：TRIGGER、[六花工作室](https://zh.wikipedia.org/wiki/六花工作室 "wikilink")，協助製作，2015年）
+  - [日本動畫人展覽會](../Page/日本動畫人展覽會.md "wikilink")《歷史機關》（總承包：TRIGGER、[六花工作室](../Page/六花工作室.md "wikilink")，協助製作，2015年）
 
 ### OVA
 
@@ -97,7 +97,7 @@ C.P.，尚有負責上色和色彩設定的FINECOLORs等複數團隊存在。
 
 ## 相關人物
 
-  - [木村寬](https://zh.wikipedia.org/wiki/木村寬 "wikilink")
+  - [木村寬](../Page/木村寬.md "wikilink")
 
 ## 參考資料
 

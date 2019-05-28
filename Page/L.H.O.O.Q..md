@@ -36,5 +36,4 @@ Sélavy”，此名發音為“Eros, c'est la vie”（性愛就是生活）。\
 3.
 4.  [Marcel Duchamp, *L.H.O.O.Q. or La Joconde*, 1964 (replica of 1919
     original)](http://www.nortonsimon.org/collections/browse_artist.php?name=Duchamp%2C+Marcel&resultnum=5)
-    [诺顿·西蒙博物馆](https://zh.wikipedia.org/wiki/诺顿·西蒙博物馆 "wikilink"),
-    Pasadena.
+    [诺顿·西蒙博物馆](../Page/诺顿·西蒙博物馆.md "wikilink"), Pasadena.

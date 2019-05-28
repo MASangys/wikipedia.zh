@@ -1968,7 +1968,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Daxter_(video_game)" title="wikilink">Daxter</a></em></p></td>
 <td><p><span style="display:None">2006-03-14</span> {{#time:F j, Y|2006-03-14}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ready_at_Dawn" title="wikilink">Ready at Dawn</a></p></td>
+<td><p><a href="../Page/Ready_at_Dawn.md" title="wikilink">Ready at Dawn</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sony_Computer_Entertainment" title="wikilink">SCEA / SCEE</a></p></td>
 <td><p>NA, EU, AUS</p></td>
 <td><p>2</p></td>
@@ -1990,7 +1990,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Dead_or_Alive_Paradise" title="wikilink">Dead or Alive Paradise</a></em></p></td>
 <td><p><span style="display:None">2010-03-30</span> {{#time:F j, Y|2010-03-30}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Tecmo_Koei" title="wikilink">Tecmo Koei</a></p></td>
 <td><p>NA, EU, JP</p></td>
 <td><p>?</p></td>
@@ -3360,7 +3360,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td><p><a href="https://zh.wikipedia.org/wiki/戰神:奧林匹斯之鍊" title="wikilink">戰神:奧林匹斯之鍊</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/God_of_War:_Chains_of_Olympus" title="wikilink">God of War: Chains of Olympus</a></em></p></td>
 <td><p><span style="display:None">2008-03-04</span> {{#time:F j, Y|2008-03-04}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ready_at_Dawn" title="wikilink">Ready at Dawn</a></p></td>
+<td><p><a href="../Page/Ready_at_Dawn.md" title="wikilink">Ready at Dawn</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sony_Computer_Entertainment" title="wikilink">SCEA / SCEE / SCEI</a></p></td>
 <td><p>NA, EU, JP, AUS</p></td>
 <td><p>No</p></td>
@@ -3371,7 +3371,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td><p><a href="https://zh.wikipedia.org/wiki/戰神:斯巴達之魂" title="wikilink">戰神:斯巴達之魂</a></p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/God_of_War:_Ghost_of_Sparta" title="wikilink">God of War: Ghost of Sparta</a></em></p></td>
 <td><p><span style="display:None">2010-11-02</span> {{#time:F j, Y|2010-11-02}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ready_at_Dawn" title="wikilink">Ready at Dawn</a></p></td>
+<td><p><a href="../Page/Ready_at_Dawn.md" title="wikilink">Ready at Dawn</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sony_Computer_Entertainment" title="wikilink">SCEA / SCEE / SCEI</a></p></td>
 <td><p>NA, EU, JP, AUS</p></td>
 <td><p>No</p></td>
@@ -4032,8 +4032,8 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Indiana_Jones_and_the_Staff_of_Kings" title="wikilink">Indiana Jones and the Staff of Kings</a></em></p></td>
 <td><p><span style="display:None">2009-06-09</span> {{#time:F j, Y|2009-06-09}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td><p>NA, EU, AUS</p></td>
 <td><p>No</p></td>
 <td><p>No</p></td>
@@ -4572,7 +4572,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Indiana_Jones:_The_Original_Adventures" title="wikilink">Lego Indiana Jones: The Original Adventures</a></em></p></td>
 <td><p><span style="display:None">2008-06-03</span> {{#time:F j, Y|2008-06-03}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td><p>NA, AUS, EU</p></td>
 <td><p>No</p></td>
 <td><p>No</p></td>
@@ -4583,7 +4583,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Indiana_Jones_2:_The_Adventure_Continues" title="wikilink">Lego Indiana Jones 2: The Adventure Continues</a></em></p></td>
 <td><p><span style="display:None">2009-11-17</span> {{#time:F j, Y|2009-11-17}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td><p>NA, AUS, EU</p></td>
 <td><p>2</p></td>
 <td><p>No</p></td>
@@ -4616,7 +4616,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Star_Wars_II:_The_Original_Trilogy#PlayStation_Portable" title="wikilink">Lego Star Wars II: The Original Trilogy</a></em></p></td>
 <td><p><span style="display:None">2006-09-12</span> {{#time:F j, Y|2006-09-12}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td><p>NA, AUS, EU</p></td>
 <td><p>2</p></td>
 <td><p>No</p></td>
@@ -4627,7 +4627,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Star_Wars_III:_The_Clone_Wars" title="wikilink">Lego Star Wars III: The Clone Wars</a></em></p></td>
 <td><p><span style="display:None">2011-03-22</span> {{#time:F j, Y|2011-03-22}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td><p>NA, EU, AUS</p></td>
 <td><p>?</p></td>
 <td><p>?</p></td>
@@ -5352,7 +5352,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Midnight_Club:_Los_Angeles#Midnight_Club:_L.A._Remix" title="wikilink">Midnight Club: L.A. Remix</a></em></p></td>
 <td><p><span style="display:None">2008-10-20</span> {{#time:F j, Y|2008-10-20}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rockstar_London" title="wikilink">Rockstar London</a></p></td>
+<td><p><a href="../Page/Rockstar_London.md" title="wikilink">Rockstar London</a></p></td>
 <td><p><a href="../Page/Rockstar_Games.md" title="wikilink">Rockstar Games</a></p></td>
 <td><p>NA, EU, AUS, JP</p></td>
 <td><p>2-4</p></td>
@@ -5727,7 +5727,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Mytran_Wars" title="wikilink">Mytran Wars</a></em></p></td>
 <td><p><span style="display:None">2009-04-17</span> {{#time:F j, Y|2009-04-17}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/StormRegion" title="wikilink">StormRegion</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td><p>EU</p></td>
 <td><p>2</p></td>
 <td><p>No</p></td>
@@ -5922,7 +5922,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/NBA_2K10" title="wikilink">NBA 2K10</a></em></p></td>
+<td><p><em><a href="../Page/NBA_2K10.md" title="wikilink">NBA 2K10</a></em></p></td>
 <td><p><span style="display:None">2009-10-06</span> {{#time:F j, Y|2009-10-06}}</p></td>
 <td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
 <td><p><a href="../Page/2K_Sports.md" title="wikilink">2K Sports</a></p></td>
@@ -5933,7 +5933,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 </tr>
 <tr class="even">
 <td></td>
-<td><p>''<a href="https://zh.wikipedia.org/wiki/NBA_2K11" title="wikilink">NBA 2K11</a>'</p></td>
+<td><p>''<a href="../Page/NBA_2K11.md" title="wikilink">NBA 2K11</a>'</p></td>
 <td><p><span style="display:None">2010-10-05</span> {{#time:F j, Y|2010-10-05}}</p></td>
 <td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
 <td><p><a href="../Page/2K_Sports.md" title="wikilink">2K Sports</a></p></td>
@@ -8140,7 +8140,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Spyro_the_Dragon_(video_game)" title="wikilink">Spyro the Dragon</a></em> <small>(PSN)</small></p></td>
 <td><p><span style="display:None">2007-10-25</span>{{#time:F j, Y|2007-10-25}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Insomniac_Games" title="wikilink">Insomniac Games</a></p></td>
+<td><p><a href="../Page/Insomniac_Games.md" title="wikilink">Insomniac Games</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sony_Computer_Entertainment" title="wikilink">SCEA</a></p></td>
 <td><p>NA</p></td>
 <td><p>No</p></td>
@@ -8207,7 +8207,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_Battlefront_II" title="wikilink">Star Wars: Battlefront II</a></em></p></td>
 <td><p><span style="display:None">2005-10-31</span> {{#time:F j, Y|2005-10-31}}</p></td>
 <td><p><a href="../Page/Pandemic_Studios.md" title="wikilink">Pandemic Studios</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td><p>NA, EU, JP</p></td>
 <td><p>2-4</p></td>
 <td><p>No</p></td>
@@ -8218,7 +8218,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars_Battlefront:_Elite_Squadron" title="wikilink">Star Wars Battlefront: Elite Squadron</a></em></p></td>
 <td><p><span style="display:None">2009-11-03</span> {{#time:F j, Y|2009-11-03}}</p></td>
 <td><p><a href="../Page/Rebellion_Developments.md" title="wikilink">Rebellion Developments</a> (PSP), <a href="https://zh.wikipedia.org/wiki/N-Space" title="wikilink">N-Space</a> (DS)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td><p>NA</p></td>
 <td><p>No</p></td>
 <td><p>No</p></td>
@@ -8229,7 +8229,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars_Battlefront:_Renegade_Squadron" title="wikilink">Star Wars Battlefront: Renegade Squadron</a></em></p></td>
 <td><p><span style="display:None">2007-10-09</span> {{#time:F j, Y|2007-10-09}}</p></td>
 <td><p><a href="../Page/Rebellion_Developments.md" title="wikilink">Rebellion Developments</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td><p>NA, AUS, EU</p></td>
 <td><p>2-8</p></td>
 <td><p>2-16</p></td>
@@ -8250,8 +8250,8 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_-_Republic_Heroes" title="wikilink">Star Wars: The Clone Wars - Republic Heroes</a></em></p></td>
 <td><p><span style="display:None">2009-10-06</span> {{#time:F j, Y|2009-10-06}}</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td><p>NA, AUS</p></td>
 <td><p>No</p></td>
 <td><p>No</p></td>
@@ -8262,7 +8262,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_The_Force_Unleashed" title="wikilink">Star Wars: The Force Unleashed</a></em></p></td>
 <td><p><span style="display:None">2008-09-16</span> {{#time:F j, Y|2008-09-16}}</p></td>
 <td><p><a href="../Page/Krome_Studios.md" title="wikilink">Krome Studios</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td><p>NA, AUS, EU</p></td>
 <td><p>2-4</p></td>
 <td><p>No</p></td>
@@ -8834,7 +8834,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Thrillville" title="wikilink">Thrillville</a></em></p></td>
 <td><p><span style="display:None">2006-11-21</span> {{#time:F j, Y|2006-11-21}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Frontier_Developments" title="wikilink">Frontier Developments</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td><p>NA, AUS, EU</p></td>
 <td><p>2-4</p></td>
 <td><p>No</p></td>
@@ -8845,7 +8845,7 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Thrillville:_Off_the_Rails" title="wikilink">Thrillville: Off the Rails</a></em></p></td>
 <td><p><span style="display:None">2007-10-09</span> {{#time:F j, Y|2007-10-09}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Frontier_Developments" title="wikilink">Frontier Developments</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td><p>NA, AUS, EU</p></td>
 <td><p>2-4</p></td>
 <td><p>No</p></td>

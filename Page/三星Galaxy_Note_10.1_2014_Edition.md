@@ -1,7 +1,7 @@
 三星Galaxy Note 10.1 2014
 Edition是[三星电子制造的Android](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")，于2013年9月发布，运行[Android
 4.3](../Page/Android.md "wikilink")，已可升级至[Android
-5.1.1](https://zh.wikipedia.org/wiki/Android_Lollipop "wikilink")。这台平板电脑搭载了[高通
+5.1.1](../Page/Android_Lollipop.md "wikilink")。这台平板电脑搭载了[高通
 Snapdragon](https://zh.wikipedia.org/wiki/高通_Snapdragon "wikilink") 800
 [SoC](https://zh.wikipedia.org/wiki/SoC "wikilink")，由四核 2.3 GHz Krait
 400（LTE 型号）或4个1.9 GHz Cortex-A15 & 4个1.3 GHz Cortex-A7) （3G 型号）
@@ -24,7 +24,7 @@ Edition的Wi-Fi型号是540克，3G型号是535克，而LTE型号是547克\[1\]\
   - 處理器：四核 2.3 GHz Krait 400 - LTE 型号
     八核 (4x1.9 GHz Cortex-A15 & 4x1.3 GHz Cortex-A7) - 3G 型号
   - 作業系統：[Android 4.3](../Page/Android.md "wikilink")，可升级至[Android
-    5.1.1](https://zh.wikipedia.org/wiki/Android_Lollipop "wikilink")
+    5.1.1](../Page/Android_Lollipop.md "wikilink")
   - 重量：540g (WIFI)/535 g (3G)/547g (LTE)
 
 ## 參考資料

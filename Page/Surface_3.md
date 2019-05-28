@@ -3,7 +3,7 @@
 3拥有一个[x86架构的Intel](https://zh.wikipedia.org/wiki/x86 "wikilink")
 Atom处理器。因此，Surface 3可以執行完整版的[Windows
 8.1](../Page/Windows_8.1.md "wikilink")，并且可以免费升级至[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。\[1\]
+10](../Page/Windows_10.md "wikilink")。\[1\]
 
 ## 历史
 

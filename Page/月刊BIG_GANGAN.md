@@ -57,13 +57,13 @@ GANGAN](../Page/YOUNG_GANGAN.md "wikilink")》的增刊《増刊ヤングガン�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Re：從零開始的異世界生活" title="wikilink">Re：從零開始的異世界生活第二章 宅邸一周篇</a></p></td>
 <td><p>楓月誠</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/長月達平" title="wikilink">長月達平</a></p></td>
+<td><p><a href="../Page/長月達平.md" title="wikilink">長月達平</a></p></td>
 <td><p>2014年12月號</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/願君勿死.md" title="wikilink">願君勿死</a></p></td>
 <td><p><a href="../Page/森山大輔.md" title="wikilink">森山大輔</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/横尾太郎" title="wikilink">横尾太郎</a></p></td>
+<td><p><a href="../Page/横尾太郎.md" title="wikilink">横尾太郎</a></p></td>
 <td><p>2015年1月號</p></td>
 </tr>
 <tr class="odd">

@@ -58,8 +58,8 @@ S5K2L1或是[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink") [Exmor
 R](https://zh.wikipedia.org/wiki/Exmor_R "wikilink") IMX260感光元件。後攝像頭為
 1,200 萬[畫素](https://zh.wikipedia.org/wiki/畫素 "wikilink")、f/1.7
 光圈的規格，感光元件的尺寸也有 1/2.6 英吋，具備 [Dual
-Pixel](https://zh.wikipedia.org/wiki/Dual_Pixel "wikilink") 自動對焦系統，可錄製
-4K（3840 × 2160p）解析度、30幀每秒（fps）或是1080p@60fps、720p@240fps的影片。前置攝像頭是 500
+Pixel](../Page/Dual_Pixel.md "wikilink") 自動對焦系統，可錄製 4K（3840 ×
+2160p）解析度、30幀每秒（fps）或是1080p@60fps、720p@240fps的影片。前置攝像頭是 500
 萬畫素、f/1.7
 [光圈的規格](../Page/光圈.md "wikilink")，具備自動[HDR成像功能](../Page/高动态范围成像.md "wikilink")。\[10\]
 （具備Quick Charge 2.0 高速充電功能）
@@ -116,7 +116,7 @@ Note 7手机登机\]\] 2016年8月24日，韓國發生首宗Note 7充電爆炸�
 ### 韓國、北美暫停銷售及大規模召回
 
 2016年9月1日，由於曾經發生多宗電池爆炸的事件，三星公司宣佈全球即日停售Note
-7並作出全面[回收](https://zh.wikipedia.org/wiki/產品召回 "wikilink")，计划在韩国等10个国家和地区召回至少250万部Note
+7並作出全面[回收](../Page/產品召回.md "wikilink")，计划在韩国等10个国家和地区召回至少250万部Note
 7，为用户提供退款或更换配备安全电池的手机\[31\]。原本[中国大陆不在回收之列](../Page/中国大陆.md "wikilink")\[32\]，但在9月14日，中国[国家质检总局执法司组织质检总局缺陷产品管理中心约谈了三星主要负责人以后](https://zh.wikipedia.org/wiki/国家质检总局 "wikilink")，三星向国家质检总局备案了召回计划，计划自2016年9月14日起，召回2016年7月20日至2016年8月5日期间制造的部分Galaxy
 Note
 7，中国大陆地区受影响的手机数量为1858台。不过该部分产品为2016年9月1日正式销售前所免费提供的测试体验用的手机\[33\]\[34\]\[35\]。据报道，三星Note

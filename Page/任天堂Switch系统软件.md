@@ -64,7 +64,7 @@
 <td><ul>
 <li>进行网络联机游戏</li>
 <li>接收游戏新闻</li>
-<li>可使用<a href="https://zh.wikipedia.org/wiki/任天堂eShop" title="wikilink">任天堂eShop</a> </li>
+<li>可使用<a href="../Page/任天堂eShop.md" title="wikilink">任天堂eShop</a> </li>
 <li>好友功能</li>
 <li>将截图分享至<a href="../Page/Facebook.md" title="wikilink">Facebook和</a><a href="../Page/Twitter.md" title="wikilink">Twitter</a></li>
 <li>更新游戏软件</li>

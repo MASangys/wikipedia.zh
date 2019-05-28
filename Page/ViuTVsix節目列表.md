@@ -362,10 +362,10 @@ One Love Manchester</p></td>
 <td><p>11月29日</p></td>
 <td><p>18:00-21:00</p></td>
 <td><p>音樂頒獎禮</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年Mnet亞洲音樂大獎" title="wikilink">2017 MAMA亞洲音樂大獎 - 日本站</a><br />
+<td><p><a href="../Page/2017年Mnet亞洲音樂大獎.md" title="wikilink">2017 MAMA亞洲音樂大獎 - 日本站</a><br />
 2017 Mnet Asian Music Awards in Japan</p></td>
-<td><p>主持：<a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a><br />
-演出：<a href="https://zh.wikipedia.org/wiki/BoA" title="wikilink">BoA</a>、<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>、<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>、<a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a>、<a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a>、<a href="https://zh.wikipedia.org/wiki/fromis_9" title="wikilink">fromis_9</a>、<a href="https://zh.wikipedia.org/wiki/NU&#39;EST_W" title="wikilink">NU'EST W</a>、<a href="https://zh.wikipedia.org/wiki/PRISTIN" title="wikilink">PRISTIN</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a>、<a href="https://zh.wikipedia.org/wiki/Weki_Meki" title="wikilink">Weki Meki</a>、<a href="https://zh.wikipedia.org/wiki/ZICO" title="wikilink">ZICO</a>、<a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
+<td><p>主持：<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a><br />
+演出：<a href="https://zh.wikipedia.org/wiki/BoA" title="wikilink">BoA</a>、<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>、<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>、<a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a>、<a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a>、<a href="https://zh.wikipedia.org/wiki/fromis_9" title="wikilink">fromis_9</a>、<a href="https://zh.wikipedia.org/wiki/NU&#39;EST_W" title="wikilink">NU'EST W</a>、<a href="https://zh.wikipedia.org/wiki/PRISTIN" title="wikilink">PRISTIN</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a>、<a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a>、<a href="https://zh.wikipedia.org/wiki/ZICO" title="wikilink">ZICO</a>、<a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td></td>
 <td><p><strong>現場直播</strong><br />
 外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）</p></td>
@@ -376,7 +376,7 @@ One Love Manchester</p></td>
 <td><p>國際音樂</p></td>
 <td><p>Guitar Center Sessions: Chvrches</p></td>
 <td><p>主持：<br />
-演出：<a href="https://zh.wikipedia.org/wiki/Chvrches" title="wikilink">Chvrches</a></p></td>
+演出：<a href="../Page/Chvrches.md" title="wikilink">Chvrches</a></p></td>
 <td></td>
 <td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/美國" title="wikilink">美國</a><a href="../Page/DirecTV.md" title="wikilink">DirecTV</a>）／2018年2月16日20:00-21:00重播</p></td>
 </tr>
@@ -480,7 +480,7 @@ One Love Manchester</p></td>
 <td><p>音樂頒獎禮</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2018年Mnet亞洲音樂大獎" title="wikilink">2018 MAMA亞洲音樂大獎 - 日本站</a><br />
 2018 Mnet Asian Music Awards in Japan</p></td>
-<td><p>主持：<a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a><br />
+<td><p>主持：<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a><br />
 演出：<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>、<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>、<a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a>、<a href="https://zh.wikipedia.org/wiki/Stray_Kids" title="wikilink">Stray Kids</a>、<a href="https://zh.wikipedia.org/wiki/NU&#39;EST_W" title="wikilink">NU'EST W</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>、<a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a>、<a href="../Page/李聖經.md" title="wikilink">李聖經</a>、<a href="../Page/庭沼珉.md" title="wikilink">庭沼珉</a>、<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a><br />
 粵語現場翻譯：Bonny Yim、Nichol Chau、Suzuki Hon、SK Lam</p></td>
 <td><p><a href="https://viu.tv/encore/2-01-8-mnet-asian-music-awards-in-japan">ViuTV網頁</a></p></td>
@@ -666,7 +666,7 @@ Sevilla vs Girona</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2018年世界盃足球賽" title="wikilink">2018 FIFA世界盃</a></p></td>
 <td><p>2017年12月1日</p></td>
 <td><p>23:00-00:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年國際足協世界盃抽籤儀式" title="wikilink">2018年國際足協世界盃抽籤儀式</a><br />
+<td><p><a href="../Page/2018年國際足協世界盃抽籤儀式.md" title="wikilink">2018年國際足協世界盃抽籤儀式</a><br />
 2018 FIFA World Cup seeding</p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/Now_Sports_2" title="wikilink">Now Sports 2同步播出</a>[1]</p></td>
 </tr>
@@ -728,7 +728,7 @@ Final: Spain vs Mexico</p></td>
 <td><p>欖球</p></td>
 <td><p>2017年4月7日</p></td>
 <td><p>13:30-17:45</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年香港國際七人欖球賽" title="wikilink">國泰航空／匯豐香港國際七人欖球賽2017</a><br />
+<td><p><a href="../Page/2017年香港國際七人欖球賽.md" title="wikilink">國泰航空／匯豐香港國際七人欖球賽2017</a><br />
 Cathay Pacific/HSBC Hong Kong Sevens 2017</p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/Now_Sports_Prime" title="wikilink">Now Sports Prime及</a><a href="https://zh.wikipedia.org/wiki/Now_Sports_4" title="wikilink">Now Sports 4同步播出</a></p></td>
 </tr>
@@ -927,14 +927,14 @@ FINA/airweave Swimming World Cup 2017-Hong Kong</p></td>
 <td><p>網球</p></td>
 <td><p>2017年10月9日至10月13日</p></td>
 <td><p>19:00-21:00</p></td>
-<td><p>英國保誠呈獻：<a href="https://zh.wikipedia.org/wiki/香港網球公開賽" title="wikilink">保誠香港網球公開賽</a>2017<br />
+<td><p>英國保誠呈獻：<a href="../Page/香港網球公開賽.md" title="wikilink">保誠香港網球公開賽</a>2017<br />
 Prudential Presents:Prudential Hong Kong Tennis Open 2017</p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/now_Sports_4" title="wikilink">now Sports 4同步播出</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年10月15日</p></td>
 <td><p>20:30-01:05</p></td>
-<td><p>英國保誠呈獻：<a href="https://zh.wikipedia.org/wiki/香港網球公開賽" title="wikilink">保誠香港網球公開賽</a>2017 - 單打決賽<br />
+<td><p>英國保誠呈獻：<a href="../Page/香港網球公開賽.md" title="wikilink">保誠香港網球公開賽</a>2017 - 單打決賽<br />
 Prudential Hong Kong Tennis Open 2017 -Singles Final</p></td>
 <td></td>
 <td></td>
@@ -942,7 +942,7 @@ Prudential Hong Kong Tennis Open 2017 -Singles Final</p></td>
 <tr class="even">
 <td><p>2018年10月8日至12日</p></td>
 <td><p>19:00-21:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/香港網球公開賽" title="wikilink">保誠香港網球公開賽2018</a><br />
+<td><p><a href="../Page/香港網球公開賽.md" title="wikilink">保誠香港網球公開賽2018</a><br />
 Prudential Presents: Prudential Hong Kong Tennis Open 2018</p></td>
 <td></td>
 <td></td>

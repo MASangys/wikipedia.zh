@@ -1,5 +1,5 @@
 **gugudan**（）是[Jellyfish娛樂於](../Page/Jellyfish娛樂.md "wikilink")2016年推出的九人女子團體，出道時成員包括美美、HANA、、
-[娜英](https://zh.wikipedia.org/wiki/娜英 "wikilink")、[世正](../Page/世正.md "wikilink")、[SALLY](https://zh.wikipedia.org/wiki/劉些寧 "wikilink")、、[美娜](../Page/美娜.md "wikilink")、。官方粉絲名為：단짝(摯友)(Dear
+[娜英](../Page/娜英.md "wikilink")、[世正](../Page/世正.md "wikilink")、[SALLY](https://zh.wikipedia.org/wiki/劉些寧 "wikilink")、、[美娜](../Page/美娜.md "wikilink")、。官方粉絲名為：단짝(摯友)(Dear
 Friend)。 2016年6月28日推出首張迷你專輯《Act.1 The Little
 Mermaid》正式出道。2018年10月25日，經紀公司[Jellyfish娛樂發布](../Page/Jellyfish娛樂.md "wikilink")因健康和學業原因暫時停止活動，但不離開[Jellyfish娛樂](../Page/Jellyfish娛樂.md "wikilink")，故此因gugudan日後將以八人女子團體繼續活動\[1\]。
 
@@ -110,13 +110,13 @@ gugudan一起製造更多美好、愉快的回憶。\[23\]
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/娜英" title="wikilink">NAYOUNG</a></p></td>
+<td><p><a href="../Page/娜英.md" title="wikilink">NAYOUNG</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">SEJEONG</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Sally_(韓國歌手)" title="wikilink">SALLY</a></p></td>
+<td><p><a href="../Page/Sally_(韓國歌手).md" title="wikilink">SALLY</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>SOYEE</p></td>
@@ -262,7 +262,7 @@ LineData =
 <li>專輯銷量: 9,813+[26]</li>
 </ul></td>
 <td></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/瞞天過海：八面玲瓏" title="wikilink">盜海豪情：8美千嬌</a>》</p></td>
+<td><p>《<a href="../Page/瞞天過海：八面玲瓏.md" title="wikilink">盜海豪情：8美千嬌</a>》</p></td>
 </tr>
 </tbody>
 </table>
@@ -335,7 +335,7 @@ LineData =
 <td><p>《PRODUCE 101 - 35 Girls 5 Concepts》</p></td>
 <td><p>24시간</p></td>
 <td><p>NAYOUNG、MINA</p></td>
-<td><p><a href="../Page/周潔瓊.md" title="wikilink">周潔瓊</a>、 <a href="https://zh.wikipedia.org/wiki/Rena" title="wikilink">姜睿彬</a>、成惠珉、、<a href="https://zh.wikipedia.org/wiki/李秀敏_(1999年)" title="wikilink">李秀敏</a></p></td>
+<td><p><a href="../Page/周潔瓊.md" title="wikilink">周潔瓊</a>、 <a href="../Page/Rena.md" title="wikilink">姜睿彬</a>、成惠珉、、<a href="../Page/李秀敏_(1999年).md" title="wikilink">李秀敏</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -349,7 +349,7 @@ LineData =
 </tr>
 <tr class="even">
 <td><p>11月23日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Flower_Way_(金世正單曲)" title="wikilink">Jelly Box - 꽃길 (Prod. By 지코(ZICO))</a>)》</p></td>
+<td><p>《<a href="../Page/Flower_Way_(金世正單曲).md" title="wikilink">Jelly Box - 꽃길 (Prod. By 지코(ZICO))</a>)》</p></td>
 <td><p>꽃길<br />
 (Flower Way) [29]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">ZICO</a> <small>（作詞曲）</small></p></td>
@@ -362,7 +362,7 @@ LineData =
 <td><p>《인기가요 뮤직크러쉬 Part.2》</p></td>
 <td><p>Taxi</p></td>
 <td><p>NAYOUNG</p></td>
-<td><p><a href="../Page/Eunha.md" title="wikilink">Eunha</a>(<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>)、<a href="https://zh.wikipedia.org/wiki/YooA" title="wikilink">YooA</a>(<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)、<a href="https://zh.wikipedia.org/wiki/程瀟" title="wikilink">程瀟</a>(<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>)、<a href="https://zh.wikipedia.org/wiki/Nancy_Jewel_McDonie" title="wikilink">NANCY</a>(<a href="https://zh.wikipedia.org/wiki/MOMOLAND" title="wikilink">MOMOLAND</a>)</p></td>
+<td><p><a href="../Page/Eunha.md" title="wikilink">Eunha</a>(<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>)、<a href="../Page/YooA.md" title="wikilink">YooA</a>(<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)、<a href="https://zh.wikipedia.org/wiki/程瀟" title="wikilink">程瀟</a>(<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>)、<a href="https://zh.wikipedia.org/wiki/Nancy_Jewel_McDonie" title="wikilink">NANCY</a>(<a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -399,7 +399,7 @@ LineData =
 <td><p>《 봄비 》</p></td>
 <td><p>봄비（春雨）</p></td>
 <td><p>SOYEE</p></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/Brown_Eyed_Soul" title="wikilink">Brown Eyed Soul</a>）</p></td>
+<td><p>（<a href="../Page/Brown_Eyed_Soul.md" title="wikilink">Brown Eyed Soul</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -424,7 +424,7 @@ LineData =
 </tr>
 <tr class="even">
 <td><p>7月17日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/學校2017" title="wikilink">學校2017</a> OST Part.1》</p></td>
+<td><p>《<a href="../Page/學校2017.md" title="wikilink">學校2017</a> OST Part.1》</p></td>
 <td><p>이 순간을 믿을게（相信這一瞬間）[34]</p></td>
 <td><p>全員</p></td>
 <td></td>
@@ -442,7 +442,7 @@ LineData =
 </tr>
 <tr class="even">
 <td><p>10月10日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/20世紀少男少女" title="wikilink">20世紀少男少女</a> OST Part.2》</p></td>
+<td><p>《<a href="../Page/20世紀少男少女.md" title="wikilink">20世紀少男少女</a> OST Part.2》</p></td>
 <td><p>일기(2001 Remix.ver)</p></td>
 <td><p>HANA、MIMI、NAYOUNG、MINA</p></td>
 <td></td>
@@ -454,13 +454,13 @@ LineData =
 <td><p>《<a href="../Page/SM_STATION.md" title="wikilink">SM STATION Season 2</a>》</p></td>
 <td><p>星光綻放時(Star Blossom)[36]</p></td>
 <td><p>SEJEONG</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/道英" title="wikilink">道英</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）</p></td>
+<td><p><a href="../Page/道英.md" title="wikilink">道英</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10月17日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/今生是第一次" title="wikilink">今生是第一次</a> OST Part.2》</p></td>
+<td><p>《<a href="../Page/今生是第一次.md" title="wikilink">今生是第一次</a> OST Part.2》</p></td>
 <td><p>Everyday</p></td>
 <td><p>HAEBIN</p></td>
 <td></td>
@@ -478,7 +478,7 @@ LineData =
 </tr>
 <tr class="even">
 <td><p>1月21日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/操心" title="wikilink">操心</a> OST Part.3 》</p></td>
+<td><p>《<a href="../Page/操心.md" title="wikilink">操心</a> OST Part.3 》</p></td>
 <td><p>설렘주의보（心動預報）</p></td>
 <td><p>HANA</p></td>
 <td></td>
@@ -487,7 +487,7 @@ LineData =
 </tr>
 <tr class="odd">
 <td><p>3月13日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Radio_Romance" title="wikilink">Radio Romance</a> OST Part.6》</p></td>
+<td><p>《<a href="../Page/Radio_Romance.md" title="wikilink">Radio Romance</a> OST Part.6》</p></td>
 <td><p>길에서 (在路上)[38]</p></td>
 <td><p>HAEBIN</p></td>
 <td></td>
@@ -505,7 +505,7 @@ LineData =
 </tr>
 <tr class="odd">
 <td><p>9月16日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/陽光先生" title="wikilink">陽光先生</a> OST Part.13》</p></td>
+<td><p>《<a href="../Page/陽光先生.md" title="wikilink">陽光先生</a> OST Part.13》</p></td>
 <td><p>情人（정인 (Paramour)）<ref>{{Citation|last=Stone Music Entertainment</p></td>
 <td><p>title=[미스터 션샤인 OST Part 13] 세정 (구구단) (SEJEONG (gugudan)) - 정인 (情人) (Paramour) MV|date=2018-09-16|url=<a href="https://www.youtube.com/watch?v=8P-06-8-5HM%7Caccessdate=2018-09-24">https://www.youtube.com/watch?v=8P-06-8-5HM|accessdate=2018-09-24</a>}}</ref></p></td>
 <td></td>
@@ -720,7 +720,7 @@ LineData =
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/亞洲明星盛典" title="wikilink">第二屆 Asia Artist Award</a></p></td>
+<td><p><a href="../Page/亞洲明星盛典.md" title="wikilink">第二屆 Asia Artist Award</a></p></td>
 <td><p>Rising Star獎</p></td>
 <td></td>
 <td></td>
@@ -735,7 +735,7 @@ LineData =
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亞洲明星盛典" title="wikilink">第三屆 Asia Artist Award</a></p></td>
+<td><p><a href="../Page/亞洲明星盛典.md" title="wikilink">第三屆 Asia Artist Award</a></p></td>
 <td><p>New Wave獎</p></td>
 <td></td>
 <td></td>

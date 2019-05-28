@@ -116,8 +116,7 @@ SIG SG
 
 ## 參見
 
-  - [SIG SG
-    516突擊步槍](https://zh.wikipedia.org/wiki/SIG_SG_516突擊步槍 "wikilink")
+  - [SIG SG 516突擊步槍](../Page/SIG_SG_516突擊步槍.md "wikilink")
   - [SIG SG 510自動步槍](../Page/SIG_SG_510自動步槍.md "wikilink")
   - [SIG SG 751
     SAPR狙擊步槍](https://zh.wikipedia.org/wiki/SIG_SG_751_SAPR狙擊步槍 "wikilink")
@@ -133,8 +132,7 @@ SIG SG
     LRP07狙擊步槍](https://zh.wikipedia.org/wiki/JP_LRP07狙擊步槍 "wikilink")
   - [LWRC
     REPR狙擊步槍](https://zh.wikipedia.org/wiki/LWRC_REPR狙擊步槍 "wikilink")
-  - [MKEK
-    MPT-76戰鬥步槍](https://zh.wikipedia.org/wiki/MKEK_MPT-76戰鬥步槍 "wikilink")
+  - [MKEK MPT-76戰鬥步槍](../Page/MKEK_MPT-76戰鬥步槍.md "wikilink")
 
 ## 資料來源
 

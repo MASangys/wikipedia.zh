@@ -69,7 +69,7 @@
 
 ### 假面騎士
 
-**桐生戰兔（）**（[犬飼貴丈飾](https://zh.wikipedia.org/wiki/犬飼貴丈 "wikilink")）
+**桐生戰兔（）**（[犬飼貴丈飾](../Page/犬飼貴丈.md "wikilink")）
 
   -
     **假面騎士Build**的變身者。

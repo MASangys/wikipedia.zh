@@ -267,7 +267,7 @@
 </tr>
 <tr class="even">
 <td><p>8月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DEAR." title="wikilink">DEAR.</a></p></td>
+<td><p><a href="../Page/DEAR..md" title="wikilink">DEAR.</a></p></td>
 <td><p><a href="../Page/Hey!_Say!_JUMP.md" title="wikilink">Hey! Say! JUMP</a></p></td>
 <td><p>原創</p></td>
 <td><p>25.8</p></td>
@@ -299,7 +299,7 @@
 </tr>
 <tr class="even">
 <td><p>9月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/你的名字。_(專輯)" title="wikilink">你的名字。</a></p></td>
+<td><p><a href="../Page/你的名字。_(專輯).md" title="wikilink">你的名字。</a></p></td>
 <td><p><a href="../Page/RADWIMPS.md" title="wikilink">RADWIMPS</a></p></td>
 <td><p>原聲</p></td>
 <td><p>5.8</p></td>
@@ -315,7 +315,7 @@
 </tr>
 <tr class="even">
 <td><p>9月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/YOUTH_(防彈少年團專輯)" title="wikilink">YOUTH</a></p></td>
+<td><p><a href="../Page/YOUTH_(防彈少年團專輯).md" title="wikilink">YOUTH</a></p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
 <td><p>原創</p></td>
 <td><p>7.6</p></td>
@@ -323,7 +323,7 @@
 </tr>
 <tr class="odd">
 <td><p>9月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THIS_IS_Flower_THIS_IS_BEST" title="wikilink">THIS IS Flower THIS IS BEST</a></p></td>
+<td><p><a href="../Page/THIS_IS_Flower_THIS_IS_BEST.md" title="wikilink">THIS IS Flower THIS IS BEST</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Flower_(組合)" title="wikilink">Flower</a></p></td>
 <td><p>精選</p></td>
 <td><p>8.8</p></td>
@@ -331,7 +331,7 @@
 </tr>
 <tr class="even">
 <td><p>10月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/N_album" title="wikilink">N album</a></p></td>
+<td><p><a href="../Page/N_album.md" title="wikilink">N album</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>原創</p></td>
 <td><p>13.1</p></td>
@@ -371,7 +371,7 @@
 </tr>
 <tr class="odd">
 <td><p>11月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Are_You_Happy?" title="wikilink">Are You Happy?</a></p></td>
+<td><p><a href="../Page/Are_You_Happy?.md" title="wikilink">Are You Happy?</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>原創</p></td>
 <td><p>63.7</p></td>
@@ -388,7 +388,7 @@
 <tr class="odd">
 <td><p>11月21日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/［Alexandros］" title="wikilink">［Alexandros］</a></p></td>
+<td><p><a href="../Page/［Alexandros］.md" title="wikilink">［Alexandros］</a></p></td>
 <td><p>原創</p></td>
 <td><p>5.9</p></td>
 <td><p>1</p></td>
@@ -403,7 +403,7 @@
 </tr>
 <tr class="odd">
 <td><p>12月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/人間開花" title="wikilink">人間開花</a></p></td>
+<td><p><a href="../Page/人間開花.md" title="wikilink">人間開花</a></p></td>
 <td><p><a href="../Page/RADWIMPS.md" title="wikilink">RADWIMPS</a></p></td>
 <td><p>原創</p></td>
 <td><p>20.4</p></td>

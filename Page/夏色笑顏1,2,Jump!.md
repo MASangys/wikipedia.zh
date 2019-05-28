@@ -36,7 +36,7 @@ collection](https://zh.wikipedia.org/wiki/μ's_Best_Album_Best_Live!_collection 
 :\#\*
 作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲：[俊龍](../Page/俊龍.md "wikilink")，編曲：
 
-:\#\* 熱情的[弗拉明戈風的曲子](https://zh.wikipedia.org/wiki/弗拉明戈 "wikilink")。
+:\#\* 熱情的[弗拉明戈風的曲子](../Page/弗拉明戈.md "wikilink")。
 
 :\#\* 与高坂穗乃果和星空凜的雙人專輯《Mermaid festa vol.2 〜Passionate〜》的同名歌曲相近命名。
 
@@ -54,7 +54,7 @@ collection](https://zh.wikipedia.org/wiki/μ's_Best_Album_Best_Live!_collection 
 :\# <sup>▲</sup>（海灘的天堂） \[9:21\]
 
 :\#\*
-原案：[公野櫻子](https://zh.wikipedia.org/wiki/公野櫻子 "wikilink")，脚本：[子安秀明](https://zh.wikipedia.org/wiki/子安秀明 "wikilink")，出演：μ's
+原案：[公野櫻子](https://zh.wikipedia.org/wiki/公野櫻子 "wikilink")，脚本：[子安秀明](../Page/子安秀明.md "wikilink")，出演：μ's
 
   - DVD
 
@@ -78,7 +78,7 @@ collection](https://zh.wikipedia.org/wiki/μ's_Best_Album_Best_Live!_collection 
   - 編集：今井大介
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")
-  - 音樂製作人：[齋藤滋](https://zh.wikipedia.org/wiki/齋藤滋 "wikilink")
+  - 音樂製作人：[齋藤滋](../Page/齋藤滋.md "wikilink")
   - 製作人：平山理志、伊藤善之、
   - 舞蹈編排：yumi
   - 製作：Project LoveLive\!（日昇動畫、Lantis、[ASCII Media

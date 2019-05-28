@@ -5,7 +5,7 @@ X和](https://zh.wikipedia.org/wiki/OS_X "wikilink")[FreeBSD](../Page/FreeBSD.md
 Media Player」管理及播放在一台運行「Plex Media Server」的遠端電腦上的多媒體檔案。另外，用戶可使用「Plex
 Online」服務以社群開發的插件收看[Netflix](../Page/Netflix.md "wikilink")、[Hulu和](../Page/Hulu.md "wikilink")[CNN的影片](https://zh.wikipedia.org/wiki/CNN "wikilink")。\[4\]
 
-Plex的媒體播放器本來是基於[Kodi](https://zh.wikipedia.org/wiki/Kodi "wikilink")（當時名為「XBMC」）的[源碼開發](https://zh.wikipedia.org/wiki/原始碼 "wikilink")\[5\]，在2008年5月21日[分支](https://zh.wikipedia.org/wiki/複刻 "wikilink")。直至2015年10月，Plex使用的軟件才完全被[專有軟件取代](https://zh.wikipedia.org/wiki/專有軟件 "wikilink")\[6\]\[7\]\[8\]\[9\]。Plex的伺服器軟件「Plex
+Plex的媒體播放器本來是基於[Kodi](../Page/Kodi.md "wikilink")（當時名為「XBMC」）的[源碼開發](https://zh.wikipedia.org/wiki/原始碼 "wikilink")\[5\]，在2008年5月21日[分支](https://zh.wikipedia.org/wiki/複刻 "wikilink")。直至2015年10月，Plex使用的軟件才完全被[專有軟件取代](https://zh.wikipedia.org/wiki/專有軟件 "wikilink")\[6\]\[7\]\[8\]\[9\]。Plex的伺服器軟件「Plex
 Media
 Server」是由專有軟件組成，與由[自由軟件組成的Kodi不同](https://zh.wikipedia.org/wiki/自由軟件 "wikilink")。
 

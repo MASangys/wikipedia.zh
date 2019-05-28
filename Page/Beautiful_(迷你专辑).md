@@ -11,11 +11,11 @@ FM](https://zh.wikipedia.org/wiki/SBS株式会社 "wikilink")《两点脱逃Cult
 Show》中，Amber透露太妍的伴唱邀约是由Amber本人亲自发出\[4\]。
 
 而《Shake That
-Brass》的MV中也有许多明星友情出演。除了参与伴唱的太妍之外，少女时代的[孝渊](https://zh.wikipedia.org/wiki/孝渊 "wikilink")、[GOT7的](../Page/GOT7.md "wikilink")[Jackson](../Page/王嘉爾.md "wikilink")、[g.o.d的](https://zh.wikipedia.org/wiki/g.o.d "wikilink")[朴俊炯](https://zh.wikipedia.org/wiki/朴俊炯 "wikilink")、[miss
+Brass》的MV中也有许多明星友情出演。除了参与伴唱的太妍之外，少女时代的[孝渊](https://zh.wikipedia.org/wiki/孝渊 "wikilink")、[GOT7的](../Page/GOT7.md "wikilink")[Jackson](../Page/王嘉爾.md "wikilink")、[g.o.d的](https://zh.wikipedia.org/wiki/g.o.d "wikilink")[朴俊炯](../Page/朴俊炯.md "wikilink")、[miss
 A的](https://zh.wikipedia.org/wiki/miss_A "wikilink")[Jia和](../Page/孟佳.md "wikilink")[Min](https://zh.wikipedia.org/wiki/李玟暎 "wikilink")、[Crayon
 Pop的Ellin](../Page/Crayon_Pop.md "wikilink")、[Busker
 Busker的Brad](../Page/Busker_Busker.md "wikilink")、[Rainbow的](https://zh.wikipedia.org/wiki/Rainbow_\(音乐团体\) "wikilink")[佑丽](https://zh.wikipedia.org/wiki/高佑丽 "wikilink")、[NU'EST的](../Page/NU'EST.md "wikilink")[Aron](../Page/郭英敏.md "wikilink")、[C-Clown的Rome](../Page/C-CLOWN.md "wikilink")、模特Irene
-Kim以及喜剧演员[安英美等也在MV中登场](https://zh.wikipedia.org/wiki/安英美 "wikilink")。\[5\]
+Kim以及喜剧演员[安英美等也在MV中登场](../Page/安英美.md "wikilink")。\[5\]
 
 发行后，《Beautiful》登顶了Hanteo每日专辑榜单，并在实时榜单上取得第二名。而主打歌的MV也在[Youtube上在一天之内点击突破百万次](https://zh.wikipedia.org/wiki/Youtube "wikilink")。\[6\]专辑也在[Billboard的世界专辑榜以及](https://zh.wikipedia.org/wiki/公告牌_\(杂志\) "wikilink")排行榜分别录得第2位及第19位。
 的乐评人Jeff Benjamin指出艺人的国际粉丝基础是专辑的亮点之一。《Shake That
@@ -35,14 +35,14 @@ Tape](../Page/Pink_Tape.md "wikilink")》收录曲《Goodbye
 Summer》的英文版本。歌曲由Amber和NoizeBank的制作人Gen
 Neo完成。\[11\]
 Amber为歌曲重新填词，而原版中[EXO成员](../Page/EXO.md "wikilink")[D.O.的伴唱改由](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")[Eric
-Nam完成](https://zh.wikipedia.org/wiki/Eric_Nam "wikilink")。\[12\]
+Nam完成](../Page/Eric_Nam.md "wikilink")。\[12\]
 
 ## 宣传
 
 在2015年2月13日，《Beautiful》开始在韩国和全球范围内线上销售。在当天，Amber于《[Music
 Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》完成了出道舞台并演唱了《Beautiful》和《Shake
 That Brass》，其中后一首歌的伴唱由[Red
-Velvet的](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")[Wendy完成](https://zh.wikipedia.org/wiki/孙胜完 "wikilink")。\[13\]在之后于《[Show
+Velvet的](../Page/Red_Velvet.md "wikilink")[Wendy完成](https://zh.wikipedia.org/wiki/孙胜完 "wikilink")。\[13\]在之后于《[Show
 Champion](../Page/Show_Champion.md "wikilink")》《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》《Music
 Bank》《[Show\!

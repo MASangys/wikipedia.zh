@@ -467,7 +467,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《愛情不太順》<small>(사랑이 잘)</small><br />
-<small>(與<a href="https://zh.wikipedia.org/wiki/吳赫" title="wikilink">吳赫合唱</a>)</small></p></td>
+<small>(與<a href="../Page/吳赫.md" title="wikilink">吳赫合唱</a>)</small></p></td>
 <td><p>2017</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -1097,7 +1097,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《叔叔》<br />
-<small>（<a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛参唱</a>）</small></p></td>
+<small>（<a href="../Page/李笛.md" title="wikilink">李笛参唱</a>）</small></p></td>
 <td><p>4</p></td>
 <td><p>8</p></td>
 <td><ul>
@@ -1135,7 +1135,7 @@ Hot 100</a><br />
 </tr>
 <tr class="even">
 <td><p>《Teacher》<br />
-<small>（<a href="https://zh.wikipedia.org/wiki/Ra.D" title="wikilink">Ra.D参唱</a>）</small></p></td>
+<small>（<a href="../Page/Ra.D.md" title="wikilink">Ra.D参唱</a>）</small></p></td>
 <td><p>9</p></td>
 <td><p>25</p></td>
 <td><ul>
@@ -1332,7 +1332,7 @@ Hot 100</a><br />
 </tr>
 <tr class="odd">
 <td><p>《当爱已逝去》<br />
-<small>（<a href="https://zh.wikipedia.org/wiki/李文世" title="wikilink">李文世原唱</a>）</small></p></td>
+<small>（<a href="../Page/李文世.md" title="wikilink">李文世原唱</a>）</small></p></td>
 <td><p>4</p></td>
 <td><p>3</p></td>
 <td><ul>

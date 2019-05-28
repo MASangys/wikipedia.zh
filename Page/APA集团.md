@@ -15,7 +15,7 @@ APA GROUP |accessdate=2017-01-17 |work=www.apa.co.jp |language=ja
 <meta name="description" itemprop="description" content="{{lang|ja|東京都港区。ホテルやマンションの開発と関連事業。事業概要、経営トップの紹介。}}" />
 
 |deadurl=yes
-}}</ref>。公寓事业负责人由集团代表[元谷外志雄兼任](https://zh.wikipedia.org/wiki/元谷外志雄 "wikilink")\[9\]，酒店事业则由APA酒店株式会社负责，元谷外志雄的妻子担任[社長](https://zh.wikipedia.org/wiki/總裁 "wikilink")\[10\]。
+}}</ref>。公寓事业负责人由集团代表[元谷外志雄兼任](../Page/元谷外志雄.md "wikilink")\[9\]，酒店事业则由APA酒店株式会社负责，元谷外志雄的妻子担任[社長](https://zh.wikipedia.org/wiki/總裁 "wikilink")\[10\]。
 
 元谷芙美子经常身着[正装](https://zh.wikipedia.org/wiki/正装 "wikilink")，戴着[帽子出现在APA酒店的广告中](../Page/帽子.md "wikilink")\[11\]。
 
@@ -42,7 +42,7 @@ Hotels\[28\]，成为在北美地区有40家酒店，共计5,028间房的连锁�
 
 APA公寓株式会社（）是APA集团下的集团公司，在集团中负责分户出售[公寓的建设等业务](https://zh.wikipedia.org/wiki/公寓大廈 "wikilink")\[31\]。公司前身是1971年4月1月创立于[石川縣](../Page/石川縣.md "wikilink")[小松市的信金开发株式会社](../Page/小松市.md "wikilink")。随着集团（信开集团）[商号更名](../Page/商業名稱.md "wikilink")“APA集团”，1997年11月25日，公司商号改为集团会社APA公寓\[32\]。
 
-[代表董事](../Page/代表董事.md "wikilink")[社長是同为APA集团代表的](https://zh.wikipedia.org/wiki/總裁 "wikilink")[元谷外志雄](https://zh.wikipedia.org/wiki/元谷外志雄 "wikilink")\[33\]。
+[代表董事](../Page/代表董事.md "wikilink")[社長是同为APA集团代表的](https://zh.wikipedia.org/wiki/總裁 "wikilink")[元谷外志雄](../Page/元谷外志雄.md "wikilink")\[33\]。
 
 ## 事件
 
@@ -72,7 +72,7 @@ APA集团提出的抗震補強計划在2月21日获得京都市認可\[47\]，�
 雖然在中國大陸和南韓有大量反對聲音及負面評價，但也有大量的日本人支持APA酒店的做法\[60\]。酒店在官方網站發表聲明，澄清并非批评特定国家或国民\[61\]，並且表明「不會因為被立場不同的人批判就從客房撤下書籍，日本保障言論自由，不允許因為一方壓力就收回自己主張」
 \[62\]\[63\]。
 
-APA集團董事長兼書籍的作者[元谷外志雄在胜兵塾第](https://zh.wikipedia.org/wiki/元谷外志雄 "wikilink")68次每月例会上評論了事件，認為「幾個月後人們就會忘記發生了什麼，只會記得名字」，事件帶來的知名度或能彌補現時的營利損失\[64\]。
+APA集團董事長兼書籍的作者[元谷外志雄在胜兵塾第](../Page/元谷外志雄.md "wikilink")68次每月例会上評論了事件，認為「幾個月後人們就會忘記發生了什麼，只會記得名字」，事件帶來的知名度或能彌補現時的營利損失\[64\]。
 
 ### 畅谈日本葡萄酒会
 
@@ -126,7 +126,7 @@ APA集團董事長兼書籍的作者[元谷外志雄在胜兵塾第](https://zh.
 
 ## 参见
 
-  - [元谷外志雄](https://zh.wikipedia.org/wiki/元谷外志雄 "wikilink")
+  - [元谷外志雄](../Page/元谷外志雄.md "wikilink")
 
   -
   - [田母神俊雄](../Page/田母神俊雄.md "wikilink")

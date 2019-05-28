@@ -14,8 +14,7 @@ Vanik计划今后能模拟更多其他的游戏。\[6\]作者声称，Xenia项�
 
 ## 另见
 
-  - [RPCS3](https://zh.wikipedia.org/wiki/RPCS3 "wikilink")，首个PlayStation
-    3模拟器
+  - [RPCS3](../Page/RPCS3.md "wikilink")，首个PlayStation 3模拟器
   - [Citra](../Page/Citra.md "wikilink")，任天堂3DS模器
 
 ## 参考资料

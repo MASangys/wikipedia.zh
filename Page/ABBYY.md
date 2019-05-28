@@ -3,7 +3,7 @@ FineReader，意在简化从纸质文档到数字数据的转换过程。\[2\]AB
 
 ## 历史
 
-ABBYY由俄籍华裔企业家[杨诚](https://zh.wikipedia.org/wiki/杨诚_\(企业家\) "wikilink")\[4\]于1989年创立，在1997年以前公司名为**BIT
+ABBYY由俄籍华裔企业家[杨诚](../Page/杨诚_\(企业家\).md "wikilink")\[4\]于1989年创立，在1997年以前公司名为**BIT
 Software**。当杨诚还是[莫斯科物理技术学院的学生的时候](../Page/莫斯科物理技术学院.md "wikilink")，便决定成立一家公司，ABBYY的第一个产品是一种英文和俄文互译的名为Lingvo的词典软件。1997年，公司改名为ABBYY，ABBYY是一个古老的[汉藏语系](../Page/汉藏语系.md "wikilink")[苗瑶语族词语](https://zh.wikipedia.org/wiki/苗瑶语族 "wikilink")，意为“敏锐的眼光”，反映了公司的活动和研究的重点领域：文档识别和语言技术。\[5\]
 
 ABBYY有4个总部：[北美](https://zh.wikipedia.org/wiki/北美 "wikilink")（[米尔皮塔斯

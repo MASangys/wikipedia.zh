@@ -461,7 +461,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Armed_and_Dangerous_(computer_game)" title="wikilink">Armed and Dangerous</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Planet_Moon_Studios" title="wikilink">Planet Moon Studios</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -718,7 +718,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/超越善恶" title="wikilink">超越善恶</a></p></td>
+<td><p><a href="../Page/超越善恶.md" title="wikilink">超越善恶</a></p></td>
 <td><p><em>Beyond Good &amp; Evil</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Milan" title="wikilink">Ubisoft Milan</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
@@ -1682,7 +1682,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/古惑狼：皮质的愤怒" title="wikilink">古惑狼：皮质的愤怒</a></p></td>
+<td><p><a href="../Page/古惑狼：皮质的愤怒.md" title="wikilink">古惑狼：皮质的愤怒</a></p></td>
 <td><p><em>Crash Bandicoot: The Wrath of Cortex</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Universal_Interactive_Studios" title="wikilink">Universal Interactive Studios</a></p></td>
@@ -2005,7 +2005,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Dead_or_Alive_3" title="wikilink">Dead or Alive 3</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Tecmo" title="wikilink">Tecmo</a></p></td>
 <td></td>
 <td></td>
@@ -2015,7 +2015,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Dead_or_Alive_Ultimate" title="wikilink">Dead or Alive Ultimate</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Tecmo" title="wikilink">Tecmo</a></p></td>
 <td></td>
 <td></td>
@@ -2025,7 +2025,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Dead_or_Alive_Xtreme_Beach_Volleyball" title="wikilink">Dead or Alive Xtreme Beach Volleyball</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Tecmo" title="wikilink">Tecmo</a></p></td>
 <td></td>
 <td></td>
@@ -2799,7 +2799,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/零～红蝶～" title="wikilink">零～红蝶～</a></p></td>
+<td><p><a href="../Page/零～红蝶～.md" title="wikilink">零～红蝶～</a></p></td>
 <td><p><em>Fatal Frame II: Crimson Butterfly</em><br />
 <strong><em>Project Zero II: Crimson Butterfly</em></strong><small>(PAL)</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Tecmo" title="wikilink">Tecmo</a></p></td>
@@ -3262,8 +3262,8 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Gladius_(video_game)" title="wikilink">Gladius</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3865,7 +3865,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Indiana_Jones_and_the_Emperor&#39;s_Tomb" title="wikilink">Indiana Jones and the Emperor's Tomb</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/The_Collective,_Inc." title="wikilink">The Collective</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4336,7 +4336,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Star_Wars:_The_Video_Game" title="wikilink">Lego Star Wars: The Video Game</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4346,7 +4346,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Star_Wars_II:_The_Original_Trilogy" title="wikilink">Lego Star Wars II: The Original Trilogy</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4837,7 +4837,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Mercenaries:_Playground_of_Destruction" title="wikilink">Mercenaries: Playground of Destruction</a></em></p></td>
 <td><p><a href="../Page/Pandemic_Studios.md" title="wikilink">Pandemic Studios</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4926,7 +4926,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Midnight_Club_II" title="wikilink">Midnight Club II</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rockstar_San_Diego" title="wikilink">Rockstar San Diego</a></p></td>
+<td><p><a href="../Page/Rockstar_San_Diego.md" title="wikilink">Rockstar San Diego</a></p></td>
 <td><p><a href="../Page/Rockstar_Games.md" title="wikilink">Rockstar Games</a></p></td>
 <td></td>
 <td></td>
@@ -4936,7 +4936,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Midnight_Club_3:_DUB_Edition" title="wikilink">Midnight Club 3: DUB Edition</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rockstar_San_Diego" title="wikilink">Rockstar San Diego</a></p></td>
+<td><p><a href="../Page/Rockstar_San_Diego.md" title="wikilink">Rockstar San Diego</a></p></td>
 <td><p><a href="../Page/Rockstar_Games.md" title="wikilink">Rockstar Games</a></p></td>
 <td></td>
 <td></td>
@@ -4946,7 +4946,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Midnight_Club_3:_DUB_Edition_Remix" title="wikilink">Midnight Club 3: DUB Edition Remix</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rockstar_San_Diego" title="wikilink">Rockstar San Diego</a></p></td>
+<td><p><a href="../Page/Rockstar_San_Diego.md" title="wikilink">Rockstar San Diego</a></p></td>
 <td><p><a href="../Page/Rockstar_Games.md" title="wikilink">Rockstar Games</a></p></td>
 <td></td>
 <td></td>
@@ -5434,7 +5434,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/NBA_2K2" title="wikilink">NBA 2K2</a></p></td>
+<td><p><a href="../Page/NBA_2K2.md" title="wikilink">NBA 2K2</a></p></td>
 <td><p><em>NBA 2K2</em></p></td>
 <td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
@@ -5994,7 +5994,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/NHL_2K7" title="wikilink">NHL 2K7</a></p></td>
+<td><p><a href="../Page/NHL_2K7.md" title="wikilink">NHL 2K7</a></p></td>
 <td><p><em>NHL 2K7</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Kush_Games" title="wikilink">Kush Games</a>, <a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
 <td><p><a href="../Page/2K_Sports.md" title="wikilink">2K Sports</a></p></td>
@@ -6076,7 +6076,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Ninja_Gaiden_(2004_video_game)" title="wikilink">Ninja Gaiden</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Tecmo" title="wikilink">Tecmo</a></p></td>
 <td></td>
 <td></td>
@@ -6086,7 +6086,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Ninja_Gaiden_(Xbox)#Ninja_Gaiden_Black" title="wikilink">Ninja Gaiden Black</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Game_Studios" title="wikilink">Microsoft Game Studios</a></p></td>
 <td></td>
 <td></td>
@@ -6818,7 +6818,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Red_Dead_Revolver" title="wikilink">Red Dead Revolver</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rockstar_San_Diego" title="wikilink">Rockstar San Diego</a></p></td>
+<td><p><a href="../Page/Rockstar_San_Diego.md" title="wikilink">Rockstar San Diego</a></p></td>
 <td><p><a href="../Page/Rockstar_Games.md" title="wikilink">Rockstar Games</a></p></td>
 <td></td>
 <td></td>
@@ -7219,7 +7219,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Secret_Weapons_Over_Normandy" title="wikilink">Secret Weapons Over Normandy</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Totally_Games" title="wikilink">Totally Games</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7569,7 +7569,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Ski_Racing_2006" title="wikilink">Ski Racing 2006</a></em></p></td>
 <td><p>ColdWood Interactive</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7920,7 +7920,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_Jedi_Knight:_Jedi_Academy" title="wikilink">Star Wars: Jedi Knight: Jedi Academy</a></em></p></td>
 <td><p><a href="../Page/Vicarious_Visions.md" title="wikilink">Vicarious Visions</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7930,7 +7930,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_Jedi_Knight_II:_Jedi_Outcast" title="wikilink">Star Wars: Jedi Knight II: Jedi Outcast</a></em></p></td>
 <td><p><a href="../Page/Vicarious_Visions.md" title="wikilink">Vicarious Visions</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7940,7 +7940,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_Battlefront" title="wikilink">Star Wars: Battlefront</a></em></p></td>
 <td><p><a href="../Page/Pandemic_Studios.md" title="wikilink">Pandemic Studios</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7950,7 +7950,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_Battlefront_II" title="wikilink">Star Wars: Battlefront II</a></em></p></td>
 <td><p><a href="../Page/Pandemic_Studios.md" title="wikilink">Pandemic Studios</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7960,7 +7960,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars_Episode_III:_Revenge_of_the_Sith_(video_game)" title="wikilink">Star Wars: Episode III: Revenge of the Sith</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/The_Collective,_Inc." title="wikilink">The Collective, Inc.</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7969,8 +7969,8 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="odd">
 <td><p><a href="../Page/星球大戰_絕地武士III：絕地學院.md" title="wikilink">星球大戰 絕地武士III：絕地學院</a></p></td>
 <td><p><em>Star Wars: Jedi Starfighter</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7980,7 +7980,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_Knights_Of_The_Old_Republic" title="wikilink">Star Wars: Knights Of The Old Republic</a></em></p></td>
 <td><p><a href="../Page/BioWare.md" title="wikilink">BioWare</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7990,7 +7990,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td><p><a href="../Page/星球大战旧共和国武士II：西斯领主.md" title="wikilink">星球大战旧共和国武士II：西斯领主</a></p></td>
 <td><p><em>Star Wars: Knights of the Old Republic II: The Sith Lords</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Obsidian_Entertainment" title="wikilink">Obsidian Entertainment</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7999,8 +7999,8 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_Obi-Wan" title="wikilink">Star Wars: Obi-Wan</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
 <td></td>
@@ -8009,8 +8009,8 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_Republic_Commando" title="wikilink">Star Wars: Republic Commando</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8019,8 +8019,8 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_Starfighter" title="wikilink">Star Wars: Starfighter</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8030,7 +8030,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_(2002_video_game)" title="wikilink">Star Wars: The Clone Wars</a></em></p></td>
 <td><p><a href="../Page/Pandemic_Studios.md" title="wikilink">Pandemic Studios</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -8531,7 +8531,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Thrillville" title="wikilink">Thrillville</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Frontier_Developments" title="wikilink">Frontier Developments</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9626,7 +9626,7 @@ Tenku: Freestyle Snowboarding<small>(JP)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Wrath_Unleashed" title="wikilink">Wrath Unleashed</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/The_Collective,_Inc." title="wikilink">The Collective</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>

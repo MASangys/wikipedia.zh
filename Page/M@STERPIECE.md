@@ -28,7 +28,7 @@ CD版發售該週進入[Oricon公信榜的音樂單曲榜第六名](../Page/Oric
 
       -
         演唱：音無小鳥（[滝田樹里](https://zh.wikipedia.org/wiki/滝田樹里 "wikilink")）
-        作詞、作曲：[藤田麻衣子](https://zh.wikipedia.org/wiki/藤田麻衣子 "wikilink")\[10\]
+        作詞、作曲：[藤田麻衣子](../Page/藤田麻衣子.md "wikilink")\[10\]
         編曲：[川田瑠夏](https://zh.wikipedia.org/wiki/川田瑠夏 "wikilink")
 
 3.  M@STERPIECE（MOVIE VERSION）

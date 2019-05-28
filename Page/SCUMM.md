@@ -1,4 +1,4 @@
-**SCUMM**是美國遊戲商[LucasArts用於開發圖形](https://zh.wikipedia.org/wiki/LucasArts "wikilink")[冒險遊戲的一種](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")，於1987年發行的《[瘋狂大樓](../Page/瘋狂大樓.md "wikilink")》是首款利用SCUMM製作的遊戲。其引擎名稱正是「Script
+**SCUMM**是美國遊戲商[LucasArts用於開發圖形](../Page/LucasArts.md "wikilink")[冒險遊戲的一種](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")，於1987年發行的《[瘋狂大樓](../Page/瘋狂大樓.md "wikilink")》是首款利用SCUMM製作的遊戲。其引擎名稱正是「Script
 Creation Utility for Maniac Mansion」（瘋狂大樓專用程式腳本創建開發工具）所簡寫組成的頭字語。\[1\]
 
 一開始SCUMM所設計的《瘋狂大樓》雖是發行在[Commodore
@@ -14,7 +14,7 @@ SCUMM的創造者除羅恩·吉伯特外，另還有契伯·莫寧史達（Chip 
 Wilmunder）倆人，\[4\]其中亞瑞克·威爾穆德往後有對SCUMM作了功能的強化與調整；並有獲得「SCUMM大王」（SCUMM
 Lord）的稱號。
 
-在《瘋狂大樓》以SCUMM作為開發工具後，LucasArts便將SCUMM作為往後十年間；所推出的冒險遊戲作品之主要遊戲引擎，採用的包括有《[紗之器](../Page/紗之器.md "wikilink")》、《[猴島的秘密](../Page/猴島的秘密.md "wikilink")》、《[瘋狂時代](../Page/瘋狂時代.md "wikilink")》等等。而LucasArts以SCUMM所設計的最後一款遊戲是1997年的《[猴島的詛咒](https://zh.wikipedia.org/wiki/猴島的詛咒 "wikilink")》，之後便以具[3D立體畫面表現效果的新遊戲引擎](https://zh.wikipedia.org/wiki/3D "wikilink")「[GrimE](https://zh.wikipedia.org/wiki/GrimE "wikilink")」取代之。\[5\]
+在《瘋狂大樓》以SCUMM作為開發工具後，LucasArts便將SCUMM作為往後十年間；所推出的冒險遊戲作品之主要遊戲引擎，採用的包括有《[紗之器](../Page/紗之器.md "wikilink")》、《[猴島的秘密](../Page/猴島的秘密.md "wikilink")》、《[瘋狂時代](../Page/瘋狂時代.md "wikilink")》等等。而LucasArts以SCUMM所設計的最後一款遊戲是1997年的《[猴島的詛咒](../Page/猴島的詛咒.md "wikilink")》，之後便以具[3D立體畫面表現效果的新遊戲引擎](https://zh.wikipedia.org/wiki/3D "wikilink")「[GrimE](https://zh.wikipedia.org/wiki/GrimE "wikilink")」取代之。\[5\]
 
 ## 方式
 
@@ -67,7 +67,7 @@ cut-scene {
 | 2       | 1989                                                                                                               | 瘋狂大樓（[Amiga](../Page/Amiga.md "wikilink")、[雅達利ST平台](https://zh.wikipedia.org/wiki/雅達利ST "wikilink")、DOS加強版） |
 | 1988    | 異形大進擊（Amiga平台）                                                                                                     |                                                                                                             |
 | 1989    | 異形大進擊（雅達利ST平台、PC加強版）                                                                                               |                                                                                                             |
-| 3       | 1989                                                                                                               | [聖戰奇兵](https://zh.wikipedia.org/wiki/聖戰奇兵_\(遊戲\) "wikilink")（Amiga、雅達利ST、DOS平台）                             |
+| 3       | 1989                                                                                                               | [聖戰奇兵](../Page/聖戰奇兵_\(遊戲\).md "wikilink")（Amiga、雅達利ST、DOS平台）                                                |
 | 1990    | 聖戰奇兵（PC加強版、[Mac OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")、[FM Towns平台](../Page/FM_Towns.md "wikilink")） |                                                                                                             |
 | 1990    | [紗之器](../Page/紗之器.md "wikilink")（Amiga、雅達利ST、DOS、Mac OS平台）                                                         |                                                                                                             |
 | 1991    | 異形大進擊（FM Towns平台）                                                                                                  |                                                                                                             |
@@ -76,7 +76,7 @@ cut-scene {
 | 1991    | 紗之器（FM Towns、[PC Engine平台](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")、DOS[光碟版](../Page/光碟.md "wikilink")） |                                                                                                             |
 | 5       | 1991                                                                                                               | [猴島小英雄2：老查克的復仇](../Page/猴島小英雄2：老查克的復仇.md "wikilink")（DOS、Mac OS平台）                                          |
 | 1992    | 猴島小英雄2：老查克的復仇（Amiga平台）                                                                                             |                                                                                                             |
-| 1992    | [亞特蘭提斯之謎](https://zh.wikipedia.org/wiki/亞特蘭提斯之謎 "wikilink")（Amiga、DOS、Mac OS平台）                                    |                                                                                                             |
+| 1992    | [亞特蘭提斯之謎](../Page/亞特蘭提斯之謎.md "wikilink")（Amiga、DOS、Mac OS平台）                                                       |                                                                                                             |
 | 1992    | 猴島的秘密（FM Towns、PC光碟版）                                                                                              |                                                                                                             |
 | 1993    | 猴島的秘密（[Sega CD平台](https://zh.wikipedia.org/wiki/Sega_CD "wikilink")）                                               |                                                                                                             |
 | 1994    | 猴島小英雄2：老查克的復仇（FM Towns平台）                                                                                          |                                                                                                             |
@@ -85,10 +85,10 @@ cut-scene {
 | 1993    | [妙探闖通關 大腳之謎](../Page/妙探闖通關_大腳之謎.md "wikilink")（DOS平台）                                                              |                                                                                                             |
 | 7       | 1993                                                                                                               | 妙探闖通關 大腳之謎（DOS光碟版）                                                                                          |
 | 1995    | [極速天龍](../Page/極速天龍.md "wikilink")（DOS平台）                                                                          |                                                                                                             |
-| 1995    | [異星搜奇](https://zh.wikipedia.org/wiki/異星搜奇 "wikilink")（DOS平台）                                                       |                                                                                                             |
+| 1995    | [異星搜奇](../Page/異星搜奇.md "wikilink")（DOS平台）                                                                          |                                                                                                             |
 | 1996    | 極速天龍（Mac OS平台）                                                                                                     |                                                                                                             |
 | 1996    | 異星搜奇（Mac OS平台）                                                                                                     |                                                                                                             |
-| 8       | 1997                                                                                                               | [猴島的詛咒](https://zh.wikipedia.org/wiki/猴島的詛咒 "wikilink")（Windows平台）                                          |
+| 8       | 1997                                                                                                               | [猴島的詛咒](../Page/猴島的詛咒.md "wikilink")（Windows平台）                                                             |
 |         |                                                                                                                    |                                                                                                             |
 
 ## 相關軟體
@@ -101,7 +101,7 @@ Bedel）的人士開發出名為「ScummC」之[編譯器](../Page/編譯器.md 
 其它像名為ScummSpeaks的工具，則可讓使用者自行錄製對白的語音檔案；給添加在遊戲當中。\[11\]
 
 由瑞典程式設計師Ludvig
-Strigeus在2001年開發的[ScummVM是可用於](https://zh.wikipedia.org/wiki/ScummVM "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[OS
+Strigeus在2001年開發的[ScummVM是可用於](../Page/ScummVM.md "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Linux](../Page/Linux.md "wikilink")、[OS
 X等作業系統平台上執行SCUMM架構遊戲的](https://zh.wikipedia.org/wiki/OS_X "wikilink")[直譯器軟體](../Page/直譯器.md "wikilink")，另外以ScummC開發的個人遊戲作品也可在ScummVM運行。\[12\]
 
 ## 參考資料

@@ -75,7 +75,7 @@ zh-hk:模型戰士高達模型大師BEGINNING G}-》中的GPB-04B 熊霸。
     ORIGIN](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_THE_ORIGIN "wikilink")
   - [机动战士高达 Thunderbolt](../Page/机动战士GUNDAM_Thunderbolt.md "wikilink")
   - [機動戰士GUNDAM Twilight
-    AXIS](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_Twilight_AXIS "wikilink")
+    AXIS](../Page/機動戰士GUNDAM_Twilight_AXIS.md "wikilink")
 
 </td>
 

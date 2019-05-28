@@ -321,7 +321,7 @@ Girl歷年發行及參與的各類音樂專輯](https://zh.wikipedia.org/wiki/Oh
 <tr class="odd">
 <td><p>7月15日</p></td>
 <td></td>
-<td><p>不朽的名曲：傳說在歌唱(<a href="https://zh.wikipedia.org/wiki/朴是春" title="wikilink">朴是春</a> 篇)</p></td>
+<td><p>不朽的名曲：傳說在歌唱(<a href="../Page/朴是春.md" title="wikilink">朴是春</a> 篇)</p></td>
 <td><p>朗朗18歲(낭랑 18세)</p></td>
 <td><p>全體</p></td>
 <td></td>
@@ -705,7 +705,7 @@ Girl歷年發行及參與的各類音樂專輯](https://zh.wikipedia.org/wiki/Oh
 <ul>
 <li>發行日期：2017年6月14日</li>
 <li>語言：韓語</li>
-<li>合作藝人：<a href="../Page/Mamamoo.md" title="wikilink">Moonbyul</a>, <a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">Seulgi</a>, <a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Sujeong</a>, <a href="../Page/SONAMOO.md" title="wikilink">D.ana</a>, <a href="../Page/昭彌.md" title="wikilink">Jeon Somi</a>, <a href="https://zh.wikipedia.org/wiki/金昭希_(歌手)" title="wikilink">Kim Sohee</a></li>
+<li>合作藝人：<a href="../Page/Mamamoo.md" title="wikilink">Moonbyul</a>, <a href="../Page/瑟琪.md" title="wikilink">Seulgi</a>, <a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Sujeong</a>, <a href="../Page/SONAMOO.md" title="wikilink">D.ana</a>, <a href="../Page/昭彌.md" title="wikilink">Jeon Somi</a>, <a href="https://zh.wikipedia.org/wiki/金昭希_(歌手)" title="wikilink">Kim Sohee</a></li>
 <li>備註: 限定版女團「<a href="../Page/鄰家少女.md" title="wikilink">Girls Next Door</a>」</li>
 </ul></td>
 <td></td>

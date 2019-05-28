@@ -55,7 +55,7 @@ Adams所創作](https://zh.wikipedia.org/wiki/Neal_Adams "wikilink")。
 
 <!-- end list -->
 
-  - 《[少年正義聯盟](https://zh.wikipedia.org/wiki/少年正義聯盟_\(動畫\) "wikilink")》
+  - 《[少年正義聯盟](../Page/少年正義聯盟_\(動畫\).md "wikilink")》
 
 ### 電視劇
 

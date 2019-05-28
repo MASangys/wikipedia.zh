@@ -7,7 +7,7 @@ vs 暗黑大將軍**》的解說。
 衝擊！Z篇](https://zh.wikipedia.org/wiki/真無敵鐵金剛_衝擊！Z篇 "wikilink")**》（下稱《衝撃！Z篇》）的「支援連載」而開始連載。但本作為原創故事，除了都是以漫画・電視動畫《[無敵鐵金剛](../Page/無敵鐵金剛.md "wikilink")》為原作之外，與《衝撃！Z篇》間的共通點相當少。
 
 從《[Champion
-RED](https://zh.wikipedia.org/wiki/Champion_RED "wikilink")》（[秋田書店](../Page/秋田書店.md "wikilink")）2009年6月号連載到2012年12月号，之後推出續集《真無敵鐵金剛ZERO
+RED](../Page/Champion_RED.md "wikilink")》（[秋田書店](../Page/秋田書店.md "wikilink")）2009年6月号連載到2012年12月号，之後推出續集《真無敵鐵金剛ZERO
 vs 暗黑大將軍》並先在2013年1月号發表序幕後，從2013年2月号連載到2016年1月号。
 
 與《衝撃！Z篇》同様，採用明星系統的方式，讓不僅是無敵鐵金剛Z的角色，還有《[亞馬尻一家](https://zh.wikipedia.org/wiki/亞馬尻一家 "wikilink")》、《[甜心戰士](../Page/甜心戰士.md "wikilink")》、《[へんちんポコイダー](https://zh.wikipedia.org/wiki/へんちんポコイダー "wikilink")》等其他永井豪作品的多數角色登場。另外本作也多次採用負責《衝撃！Z篇》後期主題曲的
@@ -347,7 +347,7 @@ vs 暗黑大將軍》並先在2013年1月号發表序幕後，從2013年2月号�
 ## 書籍情報
 
   - 原作：永井豪，劇本：田畑由秋，作画：余湖裕輝 秋田書店〈[Champion
-    RED](https://zh.wikipedia.org/wiki/Champion_RED "wikilink")〉
+    RED](../Page/Champion_RED.md "wikilink")〉
       - 真無敵鐵金剛ZERO 全9集
         1.  2009年9月18日發售，2009年9月30日初版發行
         2.  2010年3月19日發售

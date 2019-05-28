@@ -16,8 +16,7 @@ SAI作画](../Page/Paint_Tool_SAI.md "wikilink")，对于小部件和背景的�
 ### 漫画
 
   - 《[请问您今天要来点兔子吗？](https://zh.wikipedia.org/wiki/请问您今天要来点兔子吗？ "wikilink")》（[芳文社](../Page/芳文社.md "wikilink")《[Manga
-    Time Kirara
-    MAX](https://zh.wikipedia.org/wiki/Manga_Time_Kirara_MAX "wikilink")》）
+    Time Kirara MAX](../Page/Manga_Time_Kirara_MAX.md "wikilink")》）
 
 ### 漫画选集
 
@@ -46,7 +45,7 @@ SAI作画](../Page/Paint_Tool_SAI.md "wikilink")，对于小部件和背景的�
     Factory](../Page/Media_Factory.md "wikilink")，2014年9月23日）\[2\]
   - [前进吧！登山少女](https://zh.wikipedia.org/wiki/前进吧！登山少女 "wikilink")
     漫画选集（封面，，2014年11月12日）\[3\]
-  - [-{zh-cn:临时女友;zh-tw:女友伴身邊;zh-hk:女友伴身邊;}-](https://zh.wikipedia.org/wiki/临时女友 "wikilink")
+  - [-{zh-cn:临时女友;zh-tw:女友伴身邊;zh-hk:女友伴身邊;}-](../Page/临时女友.md "wikilink")
     电击漫画选集（插图，KADOKAWA/[ASCII Media
     Works](../Page/ASCII_Media_Works.md "wikilink")，2015年2月27日）\[4\]
 

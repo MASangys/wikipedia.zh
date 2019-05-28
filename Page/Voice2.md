@@ -711,7 +711,7 @@ Series）\[1\]，由《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink"
 ## 同時段競爭節目
 
   - [JTBC](../Page/JTBC.md "wikilink")
-    《[我的ID是江南美人](https://zh.wikipedia.org/wiki/我的ID是江南美人 "wikilink")》
+    《[我的ID是江南美人](../Page/我的ID是江南美人.md "wikilink")》
 
 ## 注釋
 

@@ -15,7 +15,7 @@ JS还负责在只支持普通HTML的[浏览器中担任桥梁](../Page/网页浏
 HTML的专用功能。AMP HTML中可以调用该函数库。
 
 AMP
-Cache是[缓存并传输AMP页面的](../Page/缓存.md "wikilink")[CDN](../Page/內容傳遞網路.md "wikilink")，进一步提高AMP网页的性能。用户在[搜索引擎中点击AMP网页时](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")，实际上访问的是优化后的缓存页面。[Google的AMP](../Page/Google.md "wikilink")
+Cache是[缓存并传输AMP页面的](../Page/缓存.md "wikilink")[CDN](../Page/內容傳遞網路.md "wikilink")，进一步提高AMP网页的性能。用户在[搜索引擎中点击AMP网页时](../Page/搜索引擎.md "wikilink")，实际上访问的是优化后的缓存页面。[Google的AMP](../Page/Google.md "wikilink")
 Cache名为。
 
 ## AMP HTML
@@ -57,7 +57,7 @@ AMP HTML的头部格式如下。
 
 <script>
 
-</code>元素等（其中一部分顺序也有规定）。此外，通过加入形式的结构化数据\[7\]等，页面可以包含向[搜索引擎等工具传递合适信息的](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")[元数据](../Page/元数据.md "wikilink")。
+</code>元素等（其中一部分顺序也有规定）。此外，通过加入形式的结构化数据\[7\]等，页面可以包含向[搜索引擎等工具传递合适信息的](../Page/搜索引擎.md "wikilink")[元数据](../Page/元数据.md "wikilink")。
 
 ### 自定义元素
 

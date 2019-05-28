@@ -3,7 +3,7 @@
 Me The
 Money系列的第三季](../Page/Show_Me_The_Money.md "wikilink")，于2014年播出。自此季起，由韩国知名的Hiphop音乐制作人担任导师。包括地下Rapper、非韩国人、学生、前SMTM参赛者在内的超过3000人报名参赛，是上一季的1.5倍。\[1\]优胜者将获得1亿韩元奖金、音源贩卖及举办特别公演的机会。
 
-部分具有话题性但未进入前16强的选手包括Vismajor、Be-all、[CHANGMO](https://zh.wikipedia.org/wiki/CHANGMO "wikilink")、SAPO、、姜春赫（朝鲜说唱歌手）、、、[Kisum](https://zh.wikipedia.org/wiki/Kisum "wikilink")、U.L.T、Born
+部分具有话题性但未进入前16强的选手包括Vismajor、Be-all、[CHANGMO](https://zh.wikipedia.org/wiki/CHANGMO "wikilink")、SAPO、、姜春赫（朝鲜说唱歌手）、、、[Kisum](../Page/Kisum.md "wikilink")、U.L.T、Born
 Kim、Tarae。
 
 然而节目被导师及参赛者批评为“恶魔剪辑”。\[2\]尽管如此，节目的音源依然不止一次的成功主导各大音乐排行榜。\[3\]\[4\]
@@ -18,10 +18,10 @@ E](../Page/San_E.md "wikilink")）：**
   - [San E](../Page/San_E.md "wikilink")
 
 **[ILLIONAIRE队](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")（[Dok2](../Page/Dok2.md "wikilink")
-& [The Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")）：**
+& [The Quiett](../Page/The_Quiett.md "wikilink")）：**
 
   - [Dok2](../Page/Dok2.md "wikilink")
-  - [The Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")
+  - [The Quiett](../Page/The_Quiett.md "wikilink")
 
 **[YDG队](../Page/梁東根.md "wikilink")：**
 
@@ -38,7 +38,7 @@ E](../Page/San_E.md "wikilink")）：**
 **Brand New队**
 
   -
-  - [C Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")
+  - [C Jamm](../Page/C_Jamm.md "wikilink")
 
   - 夫贤石
 
@@ -98,7 +98,7 @@ E](../Page/San_E.md "wikilink")）：**
 <td><p>郑敏在</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>玄在光</p></td>
@@ -184,7 +184,7 @@ New队获得了第一。名次最高的团队将在第六轮的对决中获得�
 </tr>
 <tr class="odd">
 <td><p>Brand New队</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></p></td>
 <td><p>A-Yo</p></td>
 </tr>
 <tr class="even">
@@ -258,7 +258,7 @@ New队获得了第一。名次最高的团队将在第六轮的对决中获得�
 </tr>
 <tr class="even">
 <td><p>Brand New队</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></p></td>
 <td><p>3</p></td>
 <td><p>15</p></td>
 </tr>
@@ -331,7 +331,7 @@ New队对阵ILLIONAIRE队；YDG队对阵YG队。各团队成员的第1、2、3�
 </tr>
 <tr class="even">
 <td><p><strong>ChaMane</strong> - 19</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></strong> - Jungle<br />
+<td><p><strong><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></strong> - Jungle<br />
 <small>(Feat. 天才Nochang, Just Band)</small></p></td>
 <td></td>
 <td></td>
@@ -381,7 +381,7 @@ New队对阵ILLIONAIRE队；YDG队对阵YG队。各团队成员的第1、2、3�
 <td><p>6,525,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></p></td>
 <td><p>3,150,000</p></td>
 <td></td>
 <td></td>
@@ -444,7 +444,7 @@ New队对阵ILLIONAIRE队；YDG队对阵YG队。各团队成员的第1、2、3�
 <td><p><strong></strong> - 187 + Grey<br />
 <small>(Feat. <a href="https://zh.wikipedia.org/wiki/趙賢雅" title="wikilink">趙賢雅</a>)</small></p></td>
 <td><p><strong></strong> - Let's Do It Again<br />
-<small>(Feat.</small> <a href="https://zh.wikipedia.org/wiki/Skull_(歌手)" title="wikilink">Skull</a><small>)</small></p></td>
+<small>(Feat.</small> <a href="../Page/Skull_(歌手).md" title="wikilink">Skull</a><small>)</small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -469,7 +469,7 @@ New队对阵ILLIONAIRE队；YDG队对阵YG队。各团队成员的第1、2、3�
 <td><p>YDG队</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></strong> - 更 + Good Day<br />
+<td><p><strong><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></strong> - 更 + Good Day<br />
 <small> (Feat. Swings)</small></p></td>
 <td><p><strong></strong> - 美人 + 我的身体在燃烧<br />
 <small>(Feat. Gate Flowers)</small></p></td>
@@ -497,7 +497,7 @@ New队对阵ILLIONAIRE队；YDG队对阵YG队。各团队成员的第1、2、3�
 <td><p>14,500,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></p></td>
 <td><p>7,700,000</p></td>
 <td></td>
 <td></td>
@@ -531,8 +531,7 @@ New队对阵ILLIONAIRE队；YDG队对阵YG队。各团队成员的第1、2、3�
 
 ### 第八轮－半决赛
 
-由上一轮的获胜者[C
-Jamm决定选手对阵名单](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")。此轮竞演主题为“钱”。Brand
+由上一轮的获胜者[C Jamm决定选手对阵名单](../Page/C_Jamm.md "wikilink")。此轮竞演主题为“钱”。Brand
 New队之前保持的不败记录在此轮被打破，但获胜的[Bobby仅比](../Page/金知元_\(饒舌者\).md "wikilink")多出10票，\[13\]Brand
 New队全员遭淘汰。
 
@@ -559,7 +558,7 @@ New队全员遭淘汰。
 <td><p>YDG队</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></strong> - Shit<br />
+<td><p><strong><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></strong> - Shit<br />
 <small>(Feat. <a href="../Page/BewhY.md" title="wikilink">BewhY</a>)</small></p></td>
 <td><p><strong></strong> - 毒气<br />
 <small>(Feat. Kang Huh, Dalrim)</small></p></td>
@@ -590,7 +589,7 @@ New队全员遭淘汰。
 <td><p>4,750,000</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></p></td>
 <td><p>2,200,000</p></td>
 <td></td>
 </tr>
@@ -643,32 +642,28 @@ Me The Money 3的胜利。
 
 **12强：**
 
-  - **Brand New队：**[C
-    Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")、、夫贤石
+  - **Brand New队：**[C Jamm](../Page/C_Jamm.md "wikilink")、、夫贤石
   - **YDG队：**、、韩尚铧
   - **YG队：**、[B.I](../Page/B.I.md "wikilink")、[陆智谭](https://zh.wikipedia.org/wiki/陆智谭 "wikilink")
   - **ILLIONAIRE队：**[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")、ChaMane、Toy
 
 **8强：**
 
-  - **Brand New队：**[C
-    Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")、
+  - **Brand New队：**[C Jamm](../Page/C_Jamm.md "wikilink")、
   - **YDG队：**、
   - **YG队：**、[B.I](../Page/B.I.md "wikilink")
   - **ILLIONAIRE队：**[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")、ChaMane
 
 **6强：**
 
-  - **Brand New队：**[C
-    Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")、
+  - **Brand New队：**[C Jamm](../Page/C_Jamm.md "wikilink")、
   - **YDG队：**、
   - **YG队：**
   - **ILLIONAIRE队：**[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")
 
 **进入半决赛（4强）：**
 
-  - **Brand New队：**[C
-    Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")、
+  - **Brand New队：**[C Jamm](../Page/C_Jamm.md "wikilink")、
   - **YDG队：**
   - **ILLIONAIRE队：**[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")
 
@@ -803,7 +798,7 @@ Me The Money 3的胜利。
 </tr>
 <tr class="even">
 <td><p>L4L (Lookin' For Luv)</p></td>
-<td><p><a href="../Page/金知元_(饒舌者).md" title="wikilink">Bobby</a> (Feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a> &amp; <a href="https://zh.wikipedia.org/wiki/The_Quiett" title="wikilink">The Quiett</a>)</p></td>
+<td><p><a href="../Page/金知元_(饒舌者).md" title="wikilink">Bobby</a> (Feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a> &amp; <a href="../Page/The_Quiett.md" title="wikilink">The Quiett</a>)</p></td>
 <td><p>9</p></td>
 <td><ul>
 <li>KOR: 358,675+<ref>L4L (Lookin' For Luv)累计销量：</li>
@@ -871,14 +866,14 @@ Me The Money 3的胜利。
 </tr>
 <tr class="even">
 <td><p>Good Day</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a> (Feat. )</p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a> (Feat. )</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Shit</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></p></td>
 <td><p>96</p></td>
 <td><ul>
 <li>KOR: 20,526+<ref>Shit累计销量：</li>

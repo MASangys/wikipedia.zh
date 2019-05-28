@@ -4,7 +4,7 @@ Timing**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilin
 ## 公開
 
 本作距上一張正規專輯《[WHO AM
-I](../Page/WHO_AM_I_\(B1A4專輯\).md "wikilink")》發行相隔2年10個月之久。2016年11月17日，[WM娛樂表示B](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")1A4將於28日公開第三張韓語正規專輯，並前往[濟州島拍攝主打曲音樂錄影帶](https://zh.wikipedia.org/wiki/濟州島 "wikilink")\[1\]。主打曲由隊長[振永製作](../Page/振永.md "wikilink")，專輯也收錄成員[CNU的創作曲](https://zh.wikipedia.org/wiki/CNU_\(歌手\) "wikilink")\[2\]。23日，公開專輯曲目，均由成員親自創作\[3\]。28日，專輯線上發行。\[4\]
+I](../Page/WHO_AM_I_\(B1A4專輯\).md "wikilink")》發行相隔2年10個月之久。2016年11月17日，[WM娛樂表示B](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")1A4將於28日公開第三張韓語正規專輯，並前往[濟州島拍攝主打曲音樂錄影帶](https://zh.wikipedia.org/wiki/濟州島 "wikilink")\[1\]。主打曲由隊長[振永製作](../Page/振永.md "wikilink")，專輯也收錄成員[CNU的創作曲](../Page/CNU_\(歌手\).md "wikilink")\[2\]。23日，公開專輯曲目，均由成員親自創作\[3\]。28日，專輯線上發行。\[4\]
 
 ## 歌曲與歌詞
 

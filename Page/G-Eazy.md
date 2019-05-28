@@ -75,7 +75,7 @@ Francis单曲《Say Less》。
 2017年9月8日，G-Eazy发行了《美丽与毁灭》的首支单曲《No Limit》，单曲与ASAP
 Rocky及[卡迪·B合作](../Page/卡迪·B.md "wikilink")，打入了[公告牌百强单曲榜第](https://zh.wikipedia.org/wiki/公告牌百强单曲榜 "wikilink")4名，是G-Eazy在该榜单的最好成绩。2017年12月5日，G-Eazy与Halsey发行了《美丽与毁灭》第二首单曲《Him
 &
-I》，打入了[公告牌百强单曲榜第](https://zh.wikipedia.org/wiki/公告牌百强单曲榜 "wikilink")14名，之后他与歌手[拉娜·德雷分手](../Page/拉娜·德雷.md "wikilink")，与歌手[海尔希展开新的恋情](https://zh.wikipedia.org/wiki/海爾希_\(歌手\) "wikilink")，现已与海尔希分手。2019年2月27日，G-Eazy发布了单曲“West
+I》，打入了[公告牌百强单曲榜第](https://zh.wikipedia.org/wiki/公告牌百强单曲榜 "wikilink")14名，之后他与歌手[拉娜·德雷分手](../Page/拉娜·德雷.md "wikilink")，与歌手[海尔希展开新的恋情](../Page/海爾希_\(歌手\).md "wikilink")，现已与海尔希分手。2019年2月27日，G-Eazy发布了单曲“West
 Coast”，与Blueface合作，于2019年3月28日发布MV，并与ALLBLACK和YG合作。
 
 ## 个人生活

@@ -76,7 +76,7 @@ FILMS亦舉辦《[-{zh-cn:百变之星;zh-hk:星夢美少女;zh-tw:萬花筒之�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/临时女友" title="wikilink">-{zh-cn:临时女友（♪）;zh-hk:女友伴身邊（♪）;zh-tw:女友伴身邊（♪）;}-</a></p></td>
+<td><p><a href="../Page/临时女友.md" title="wikilink">-{zh-cn:临时女友（♪）;zh-hk:女友伴身邊（♪）;zh-tw:女友伴身邊（♪）;}-</a></p></td>
 <td><p>網路動畫</p></td>
 <td></td>
 <td></td>
@@ -237,7 +237,7 @@ FILMS亦舉辦《[-{zh-cn:百变之星;zh-hk:星夢美少女;zh-tw:萬花筒之�
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p><a href="../Page/人马小姐不迷茫.md" title="wikilink">-{zh-cn:人马小姐不迷茫;zh-tw:半獸人的煩惱;}-</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/繪夢動畫" title="wikilink">繪夢動畫</a></p></td>
+<td><p><a href="../Page/繪夢動畫.md" title="wikilink">繪夢動畫</a></p></td>
 <td><p>追崎史敏執導</p></td>
 </tr>
 </tbody>

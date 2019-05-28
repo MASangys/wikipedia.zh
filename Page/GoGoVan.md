@@ -58,7 +58,7 @@ Career）
 
   - 其他市場活動
 
-GOGOVAN有不少[80後](https://zh.wikipedia.org/wiki/80後 "wikilink")、90後的員工，因此，宣傳方法以創意為主，當中不乏一些令人印象深刻的廣告，例如，於2014年，與當紅的[YouTuber惡搞廣告短片](https://zh.wikipedia.org/wiki/YouTuber "wikilink")《那夜凌晨，我坐上了大埔開往旺角的GOGOVAN》。又不時舉辦活動回饋客戶，如農曆新年送贈「GOGO
+GOGOVAN有不少[80後](https://zh.wikipedia.org/wiki/80後 "wikilink")、90後的員工，因此，宣傳方法以創意為主，當中不乏一些令人印象深刻的廣告，例如，於2014年，與當紅的[YouTuber惡搞廣告短片](../Page/YouTuber.md "wikilink")《那夜凌晨，我坐上了大埔開往旺角的GOGOVAN》。又不時舉辦活動回饋客戶，如農曆新年送贈「GOGO
 糕」和特別設計的[利是封](https://zh.wikipedia.org/wiki/利是封 "wikilink")，推出節日性的市場活動如中秋節舉辦Moving
 Moon，送出月餅給客戶和司機；聖誕節送出「香港有樂」月農曆，邀請烹飪節目主持[李錦聯在幸運兒家中下廚](../Page/李錦聯.md "wikilink")、免費運輸樂器響應全城音樂日等等。2016年7月，GOGOVAN與香港最大家俬展Homesquare合作，提供即場物流服務。2017年5月，GOGOVAN首次與香港其中一家大型百貨公司[一田百貨合作](../Page/一田百貨.md "wikilink")，於一田優惠日提供即場物流服務及叫車優惠，每日首300位消費滿1,000元的顧客可獲20元乘車優惠；首100位消費滿2,000元的顧客更可免費乘搭。此外，GOGOVAN找來獨立藝術家為客貨車設計車身，推出名為Moving
 Art的特別企畫，隨即吸引傳媒報導。
@@ -68,7 +68,7 @@ Art的特別企畫，隨即吸引傳媒報導。
 
   - 獎項
 
-2014年，GOGOVAN在[香港資訊及通訊科技獎獲得了最佳](https://zh.wikipedia.org/wiki/香港資訊及通訊科技獎 "wikilink")[流動應用程式](../Page/流動應用程式.md "wikilink")（流動營銷）金獎
+2014年，GOGOVAN在[香港資訊及通訊科技獎獲得了最佳](../Page/香港資訊及通訊科技獎.md "wikilink")[流動應用程式](../Page/流動應用程式.md "wikilink")（流動營銷）金獎
 ，同年又在最佳[.hk網站獎的中小企組獲得銀獎](../Page/.hk.md "wikilink")，2015年的企業組再獲銀獎。2016年12月，[Google
 Play公布](../Page/Google_Play.md "wikilink")2016年香港最佳應用程式，GOGOVAN被選為「最佳香港原創應用程式」。2017年，GOGOVAN獲德勤評選入圍「香港高科技高成長20強」，並取下第三，是次獎項是旨在表彰香港增長速度最高的20強科技企業。\[39\]
 
@@ -118,7 +118,7 @@ Community）合作，它的主要受眾為社會上的貧困人士。在7月8日
 於韓國，GOGOVAN提供的車種包括機車、客貨車和卡車，並提供快遞運送服務、大型貨物運輸服務、幫搬服務。
 
 2017年12月，韓國GOGOVAN成功與[三星旗下網上服飾商店SSF](https://zh.wikipedia.org/wiki/三星 "wikilink")
-Shop達成合作。該公司正為[首爾區顧客提供](https://zh.wikipedia.org/wiki/首爾 "wikilink")3至5小時內的速遞服務，費用為5,000韓圜。GOGOVAN司機更會穿上制服，駕駛獨有的紫色GOGOVAN為當地客戶服務。
+Shop達成合作。該公司正為[首爾區顧客提供](../Page/首爾.md "wikilink")3至5小時內的速遞服務，費用為5,000韓圜。GOGOVAN司機更會穿上制服，駕駛獨有的紫色GOGOVAN為當地客戶服務。
 
 ### 中国内地
 

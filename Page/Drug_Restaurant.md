@@ -1,6 +1,6 @@
 **Drug
 Restaurant**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CJ
-E\&M於](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")2015年推出的四人搖滾樂團，前身為鄭俊英樂團，由[鄭俊英](../Page/鄭俊英.md "wikilink")、趙大民、鄭碩元、李賢圭所組成。
+E\&M於](../Page/CJ_E&M.md "wikilink")2015年推出的四人搖滾樂團，前身為鄭俊英樂團，由[鄭俊英](../Page/鄭俊英.md "wikilink")、趙大民、鄭碩元、李賢圭所組成。
 2015年5月27日以首張專輯《脫離日常事》正式出道。2016年5月20日，鄭俊英樂團更名為Drug
 Restaurant，原因為團隊並非是圍繞著主唱的團體。Drug
 Restaurant此團名的涵義具有「比起藥局的藥品更加讓人愉悅的處方」，此外Drug

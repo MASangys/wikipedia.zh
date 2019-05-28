@@ -1,7 +1,7 @@
 《**The Body
 Show**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[On
 Style集健身和時尚於一體的綜藝節目](https://zh.wikipedia.org/wiki/On_Style "wikilink")，第一季由[崔汝珍](../Page/崔汝珍.md "wikilink")、、[Lady
-Jane等人出演](https://zh.wikipedia.org/wiki/Lady_Jane "wikilink")，各集亦會邀請其他藝人明星共同參與，節目重點放在「身體」二字，討論女性對身體的煩惱並介紹針對各個部位的保養產品和運動方法。\[1\]。
+Jane等人出演](../Page/Lady_Jane.md "wikilink")，各集亦會邀請其他藝人明星共同參與，節目重點放在「身體」二字，討論女性對身體的煩惱並介紹針對各個部位的保養產品和運動方法。\[1\]。
 《**The Body Show 2**》第二季由第一集於10/10/2015播出－28/01/2016播出最後一集。
 《**The Body Show 3 - My Bodyguard**》第一集於28/04/2016播出－30/06/2016播出最後一集。
 《**The Body Show 4**》第一集於11/08/2016播出－17/11/2016播出最後一集。\[2\]

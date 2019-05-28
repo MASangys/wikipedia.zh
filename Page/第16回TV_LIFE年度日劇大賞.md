@@ -417,10 +417,10 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/橋部敦子" title="wikilink">橋部敦子</a><br />
+<td><p>'''<a href="../Page/橋部敦子.md" title="wikilink">橋部敦子</a><br />
 《》</p></td>
 <td><p>第一位</p></td>
-<td><p>　<a href="https://zh.wikipedia.org/wiki/橋部敦子" title="wikilink">橋部敦子</a></p></td>
+<td><p>　<a href="../Page/橋部敦子.md" title="wikilink">橋部敦子</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第二位</p></td>
@@ -464,7 +464,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </tr>
 <tr class="even">
 <td><p>第十位</p></td>
-<td><p>　<a href="https://zh.wikipedia.org/wiki/森下佳子" title="wikilink">森下佳子</a></p></td>
+<td><p>　<a href="../Page/森下佳子.md" title="wikilink">森下佳子</a></p></td>
 <td><p>　《<a href="https://zh.wikipedia.org/wiki/白夜行#電視劇" title="wikilink">白夜行</a>》</p></td>
 </tr>
 </tbody>

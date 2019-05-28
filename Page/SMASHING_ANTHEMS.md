@@ -38,7 +38,7 @@ Records发售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
       -
         作詞：水樹奈奈　作曲、編曲：加藤裕介
         電視動畫「[CROSSANGE
-        天使與龍的輪舞](https://zh.wikipedia.org/wiki/CROSSANGE_天使與龍的輪舞 "wikilink")」OP曲
+        天使與龍的輪舞](../Page/CROSSANGE_天使與龍的輪舞.md "wikilink")」OP曲
 9.  **The NEW STAR**
       -
         作詞：板橋カナオ　作曲、編曲：木村篤史

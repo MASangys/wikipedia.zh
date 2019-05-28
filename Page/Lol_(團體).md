@@ -700,7 +700,7 @@ AVCG-70113</p></td>
 
   - 3月31日、「制服High School 卒業PARTY 2016」演出。
   - 4月11日、「Coming Next 2016」演出。
-  - 11月26日、擔任[FlowBack三週年演唱會神秘嘉賓](https://zh.wikipedia.org/wiki/FlowBack "wikilink")。
+  - 11月26日、擔任[FlowBack三週年演唱會神秘嘉賓](../Page/FlowBack.md "wikilink")。
 
 ## Tie Up總表
 

@@ -1,4 +1,4 @@
-**IRT法拉盛線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條路線。原初是一條[跨區捷運公司營運的鐵路線](../Page/跨區捷運公司.md "wikilink")，來往[皇后區](../Page/皇后區.md "wikilink")[法拉盛到](https://zh.wikipedia.org/wiki/法拉盛_\(皇后區\) "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")[時報廣場](../Page/時報廣場.md "wikilink")，到曼哈頓西部興建了[西延段到](https://zh.wikipedia.org/wiki/紐約地鐵7號線延伸段 "wikilink")，路線已經延長至[雀兒喜](../Page/雀兒喜_\(紐約\).md "wikilink")。路線有[7號線慢車與僅繁忙時段的尖峰方向營運的](../Page/紐約地鐵7號線.md "wikilink")[\<7\>快車行駛](../Page/紐約地鐵7號線.md "wikilink")\[1\]。此線是A分部唯一服務皇后區的路線。
+**IRT法拉盛線**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條路線。原初是一條[跨區捷運公司營運的鐵路線](../Page/跨區捷運公司.md "wikilink")，來往[皇后區](../Page/皇后區.md "wikilink")[法拉盛到](https://zh.wikipedia.org/wiki/法拉盛_\(皇后區\) "wikilink")[曼哈頓](../Page/曼哈頓.md "wikilink")[時報廣場](../Page/時報廣場.md "wikilink")，到曼哈頓西部興建了[西延段到](../Page/紐約地鐵7號線延伸段.md "wikilink")，路線已經延長至[雀兒喜](../Page/雀兒喜_\(紐約\).md "wikilink")。路線有[7號線慢車與僅繁忙時段的尖峰方向營運的](../Page/紐約地鐵7號線.md "wikilink")[\<7\>快車行駛](../Page/紐約地鐵7號線.md "wikilink")\[1\]。此線是A分部唯一服務皇后區的路線。
 
 此線以紫色顯示，無論是在車站標誌、地鐵路線圖、列車的內部路線圖還是列車前方或側面的路線標誌皆然。路線通車至法拉盛前稱為「可樂娜線」或「伍德賽德及可樂娜線」\[2\]。[BMT服務](../Page/布魯克林-曼哈頓運輸股份有限公司.md "wikilink")1949年停止以前，IRT法拉盛線來往[時報廣場及](https://zh.wikipedia.org/wiki/時報廣場車站_\(IRT法拉盛線\) "wikilink")[皇后區廣場之間稱為](https://zh.wikipedia.org/wiki/皇后區廣場車站_\(IRT法拉盛線\) "wikilink")「皇后區線」\[3\]\[4\]。
 
@@ -271,7 +271,7 @@
 <td></td>
 <td><p>1916年11月5日[36]</p></td>
 <td><p>原初是45路-法庭屋廣場<br />
-（<a href="https://zh.wikipedia.org/wiki/IND跨城線" title="wikilink">IND跨城線</a>）<br />
+（<a href="../Page/IND跨城線.md" title="wikilink">IND跨城線</a>）<br />
 （<a href="../Page/IND皇后林蔭路線.md" title="wikilink">IND皇后林蔭路線</a>）</p></td>
 <td></td>
 </tr>
@@ -360,7 +360,7 @@
 <td><p>全部</p></td>
 <td></td>
 <td><p>2015年9月13日[47]</p></td>
-<td><p>以<a href="https://zh.wikipedia.org/wiki/紐約地鐵7號線延伸段" title="wikilink">紐約地鐵7號線延伸段一部分興建</a><br />
+<td><p>以<a href="../Page/紐約地鐵7號線延伸段.md" title="wikilink">紐約地鐵7號線延伸段一部分興建</a><br />
 計劃名34街、34街-賈維斯中心<br />
 </p></td>
 </tr>

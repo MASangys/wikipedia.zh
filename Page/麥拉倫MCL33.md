@@ -52,11 +52,11 @@ MCL33於[西班牙](../Page/西班牙.md "wikilink")進行初步測試並首度�
 <td><p><a href="https://zh.wikipedia.org/wiki/2018年澳洲大獎賽" title="wikilink">澳</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2018年巴林大獎賽" title="wikilink">巴林</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2018年中國大獎賽" title="wikilink">中</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年亞塞拜然大獎賽" title="wikilink">亞</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年西班牙大獎賽" title="wikilink">西</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年摩納哥大獎賽" title="wikilink">摩</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年加拿大大獎賽" title="wikilink">加</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年法國大獎賽" title="wikilink">法</a></p></td>
+<td><p><a href="../Page/2018年亞塞拜然大獎賽.md" title="wikilink">亞</a></p></td>
+<td><p><a href="../Page/2018年西班牙大獎賽.md" title="wikilink">西</a></p></td>
+<td><p><a href="../Page/2018年摩納哥大獎賽.md" title="wikilink">摩</a></p></td>
+<td><p><a href="../Page/2018年加拿大大獎賽.md" title="wikilink">加</a></p></td>
+<td><p><a href="../Page/2018年法國大獎賽.md" title="wikilink">法</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

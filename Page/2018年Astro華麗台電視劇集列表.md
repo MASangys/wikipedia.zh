@@ -42,7 +42,7 @@ Catch Me Now</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>07/02-<br />
 13/03</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宦海奇官" title="wikilink">宦海奇官</a><br />
+<td style="text-align: center;"><p><a href="../Page/宦海奇官.md" title="wikilink">宦海奇官</a><br />
 Noblesse Oblige</p></td>
 <td style="text-align: center;"><p>21</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a>、<a href="../Page/楊怡.md" title="wikilink">楊怡</a>、<a href="../Page/陳山聰.md" title="wikilink">陳山聰</a></p></td>
@@ -267,7 +267,7 @@ Married But Available</p></td>
 Legal Mavericks</p></td>
 <td style="text-align: center;"><p>28</p></td>
 <td style="text-align: center;"><p><a href="../Page/王浩信.md" title="wikilink">王浩信</a>、<a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a>、<a href="https://zh.wikipedia.org/wiki/李佳芯" title="wikilink">李佳芯</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/張振朗" title="wikilink">張振朗</a>、<a href="../Page/單立文.md" title="wikilink">單立文</a>、<a href="../Page/朱千雪.md" title="wikilink">朱千雪</a></p></td>
+<a href="../Page/張振朗.md" title="wikilink">張振朗</a>、<a href="../Page/單立文.md" title="wikilink">單立文</a>、<a href="../Page/朱千雪.md" title="wikilink">朱千雪</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/戴瑩" title="wikilink">戴　瑩</a>、<br />
 <a href="../Page/林志華.md" title="wikilink">林志華</a></p></td>
 <td style="text-align: center;"><p>主：心眼（<a href="../Page/王浩信.md" title="wikilink">王浩信</a>）<br />
@@ -284,7 +284,7 @@ Rogue Emperor</p></td>
 <a href="../Page/黃智雯.md" title="wikilink">黃智雯</a>、<a href="../Page/古明華.md" title="wikilink">古明華</a>、<a href="https://zh.wikipedia.org/wiki/謝東閔" title="wikilink">謝東閔</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/潘嘉德.md" title="wikilink">潘嘉德</a></p></td>
 <td style="text-align: center;"><p>主：四方（<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>）<br />
-插：乾杯（<a href="../Page/羅鈞滿.md" title="wikilink">羅鈞滿</a>、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>、<a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚　兵</a>）<br />
+插：乾杯（<a href="../Page/羅鈞滿.md" title="wikilink">羅鈞滿</a>、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>、<a href="../Page/姚兵.md" title="wikilink">姚　兵</a>）<br />
 尾：心暖（<a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a>、<a href="https://zh.wikipedia.org/wiki/周麗淇" title="wikilink">周麗淇</a>）</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -318,8 +318,8 @@ Recipes To Live By</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/全職沒女" title="wikilink">全職沒女</a><br />
 The No No Girl</p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p><a href="../Page/張兆輝.md" title="wikilink">張兆輝</a>、<a href="../Page/陳松伶.md" title="wikilink">陳松伶</a>、<a href="https://zh.wikipedia.org/wiki/張振朗" title="wikilink">張振朗</a>、<br />
-<a href="../Page/陳瀅.md" title="wikilink">陳　瀅</a>、<a href="https://zh.wikipedia.org/wiki/謝東閔" title="wikilink">謝東閔</a>、<a href="https://zh.wikipedia.org/wiki/王卓淇" title="wikilink">王卓淇</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/張兆輝.md" title="wikilink">張兆輝</a>、<a href="../Page/陳松伶.md" title="wikilink">陳松伶</a>、<a href="../Page/張振朗.md" title="wikilink">張振朗</a>、<br />
+<a href="../Page/陳瀅.md" title="wikilink">陳　瀅</a>、<a href="https://zh.wikipedia.org/wiki/謝東閔" title="wikilink">謝東閔</a>、<a href="../Page/王卓淇.md" title="wikilink">王卓淇</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/陳耀全.md" title="wikilink">陳耀全</a></p></td>
 <td style="text-align: center;"><p>主：我有我美麗（<a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a>）</p></td>
 <td style="text-align: center;"></td>
@@ -479,7 +479,7 @@ Tiger Mom Blues</p></td>
 Legal Mavericks</p></td>
 <td style="text-align: center;"><p>28</p></td>
 <td style="text-align: center;"><p><a href="../Page/王浩信.md" title="wikilink">王浩信</a>、<a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a>、<a href="https://zh.wikipedia.org/wiki/李佳芯" title="wikilink">李佳芯</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/張振朗" title="wikilink">張振朗</a>、<a href="../Page/單立文.md" title="wikilink">單立文</a>、<a href="../Page/朱千雪.md" title="wikilink">朱千雪</a></p></td>
+<a href="../Page/張振朗.md" title="wikilink">張振朗</a>、<a href="../Page/單立文.md" title="wikilink">單立文</a>、<a href="../Page/朱千雪.md" title="wikilink">朱千雪</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/戴瑩" title="wikilink">戴　瑩</a>、<br />
 <a href="../Page/林志華.md" title="wikilink">林志華</a></p></td>
 <td style="text-align: center;"><p>主：心眼（<a href="../Page/王浩信.md" title="wikilink">王浩信</a>）<br />
@@ -546,7 +546,7 @@ Burning Hands</p></td>
 <a href="../Page/莊思敏.md" title="wikilink">莊思敏</a>、<a href="../Page/潘志文.md" title="wikilink">潘志文</a>、<a href="https://zh.wikipedia.org/wiki/徐榮" title="wikilink">徐　榮</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/黃長興" title="wikilink">黃長興</a>、<a href="https://zh.wikipedia.org/wiki/趙希洛" title="wikilink">趙希洛</a>、<a href="../Page/林子善.md" title="wikilink">林子善</a>、<br />
 <a href="../Page/黃子雄.md" title="wikilink">黃子雄</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/葉鎮輝" title="wikilink">葉鎮輝</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/葉鎮輝.md" title="wikilink">葉鎮輝</a></p></td>
 <td style="text-align: center;"><p>主：Strike（曲：<a href="../Page/徐洛鏘.md" title="wikilink">徐洛鏘</a>）</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -664,7 +664,7 @@ A General, A Scholar and A Eunuch</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/2017年Astro華麗台電視劇列表#周末1.30韩劇時段" title="wikilink">續17年</a><br />
 23/12-<br />
 01/04</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Healer" title="wikilink">奪命任務</a><br />
+<td style="text-align: center;"><p><a href="../Page/Healer.md" title="wikilink">奪命任務</a><br />
 Healer</p></td>
 <td style="text-align: center;"><p>28</p></td>
 <td style="text-align: center;"><p><a href="../Page/池昌旭.md" title="wikilink">池昌旭</a>、<a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a>、<a href="../Page/劉智泰.md" title="wikilink">劉智泰</a></p></td>
@@ -731,7 +731,7 @@ The Man In The Mask</p></td>
 <td style="text-align: center;"><p><a href="../Page/2017年Astro華麗台電視劇列表.md" title="wikilink">續17年</a><br />
 13/01-<br />
 18/02</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/叛逃_(電視劇)" title="wikilink">叛逃</a><br />
+<td style="text-align: center;"><p><a href="../Page/叛逃_(電視劇).md" title="wikilink">叛逃</a><br />
 Ruse of Engagement</p></td>
 <td style="text-align: center;"><p>25</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳展鵬" title="wikilink">陳展鵬</a>、<a href="../Page/吳卓羲.md" title="wikilink">吳卓羲</a>、<a href="../Page/陳茵媺.md" title="wikilink">陳茵媺</a></p></td>

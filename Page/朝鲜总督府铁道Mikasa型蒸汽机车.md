@@ -14,7 +14,7 @@
 
 ### 西鲜中央铁道ミカサ型
 
-太平洋战争爆发后，随着货运运量的提高，私营西鲜中央铁道亦计划增加货运蒸汽机车数量。因此在1943年到1944年间，西鲜中央铁道购置8辆ミカサ型机车。此外[南满洲铁道亦向西鲜中央铁道出借一批](../Page/南滿洲鐵道.md "wikilink")[满铁ミカロ型机车](https://zh.wikipedia.org/wiki/中国铁路解放6型蒸汽机车 "wikilink")。
+太平洋战争爆发后，随着货运运量的提高，私营西鲜中央铁道亦计划增加货运蒸汽机车数量。因此在1943年到1944年间，西鲜中央铁道购置8辆ミカサ型机车。此外[南满洲铁道亦向西鲜中央铁道出借一批](../Page/南滿洲鐵道.md "wikilink")[满铁ミカロ型机车](../Page/中国铁路解放6型蒸汽机车.md "wikilink")。
 
 二战结束后西鲜中央铁道8辆ミカサ型机车被朝鲜铁道省接收。
 
@@ -111,7 +111,7 @@
   - [朝鲜总督府铁道Mikai型蒸汽机车](../Page/朝鲜总督府铁道Mikai型蒸汽机车.md "wikilink")
   - [朝鲜总督府铁道Mikani型蒸汽机车](../Page/朝鲜总督府铁道Mikani型蒸汽机车.md "wikilink")
   - [朝鲜总督府铁道Mikashi型蒸汽机车](../Page/朝鲜总督府铁道Mikashi型蒸汽机车.md "wikilink")
-  - [朝鲜总督府铁道Pashishi型蒸汽机车](https://zh.wikipedia.org/wiki/朝鲜总督府铁道Pashishi型蒸汽机车 "wikilink")
+  - [朝鲜总督府铁道Pashishi型蒸汽机车](../Page/朝鲜总督府铁道Pashishi型蒸汽机车.md "wikilink")
   - [朝鲜总督府铁道Tehoro型蒸汽机车](https://zh.wikipedia.org/wiki/朝鲜总督府铁道Tehoro型蒸汽机车 "wikilink")
 
 ## 备注

@@ -3,7 +3,7 @@
 ## 制备
 
 将3.79
-g[铁氰酸钾和](https://zh.wikipedia.org/wiki/铁氰酸钾 "wikilink")4.4g[四甲基氯化铵的水溶液混合](https://zh.wikipedia.org/wiki/四甲基氯化铵 "wikilink")，降温至0°C，保持15
+g[铁氰酸钾和](https://zh.wikipedia.org/wiki/铁氰酸钾 "wikilink")4.4g[四甲基氯化铵的水溶液混合](../Page/四甲基氯化铵.md "wikilink")，降温至0°C，保持15
 min，所得沉淀为\[(CH<sub>3</sub>)<sub>4</sub>N\]<sub>3</sub>\[Fe(CN)<sub>6</sub>\]。\[1\]
 
   -

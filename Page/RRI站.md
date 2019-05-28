@@ -1,4 +1,4 @@
-**RRI站**（）位於[雪兰莪](https://zh.wikipedia.org/wiki/雪兰莪 "wikilink")[双溪毛糯](https://zh.wikipedia.org/wiki/双溪毛糯 "wikilink")，是[巴生谷](https://zh.wikipedia.org/wiki/巴生谷捷运 "wikilink")[双溪毛糯－加影线的其中一个规划](../Page/双溪毛糯－加影线.md "wikilink")[高架](https://zh.wikipedia.org/wiki/高架车站 "wikilink")[捷运车站](https://zh.wikipedia.org/wiki/捷运 "wikilink")，目前尚未开放，预计将会和[双溪毛糯－沙登－布城线第一阶段车站于](https://zh.wikipedia.org/wiki/双溪毛糯－沙登－布城线 "wikilink")2022年7月开放。RRI是马来西亚橡胶研究院的简写，因本站位置原为马来西亚橡胶研究院。
+**RRI站**（）位於[雪兰莪](https://zh.wikipedia.org/wiki/雪兰莪 "wikilink")[双溪毛糯](../Page/双溪毛糯.md "wikilink")，是[巴生谷](https://zh.wikipedia.org/wiki/巴生谷捷运 "wikilink")[双溪毛糯－加影线的其中一个规划](../Page/双溪毛糯－加影线.md "wikilink")[高架](https://zh.wikipedia.org/wiki/高架车站 "wikilink")[捷运车站](https://zh.wikipedia.org/wiki/捷运 "wikilink")，目前尚未开放，预计将会和[双溪毛糯－沙登－布城线第一阶段车站于](../Page/双溪毛糯－沙登－布城线.md "wikilink")2022年7月开放。RRI是马来西亚橡胶研究院的简写，因本站位置原为马来西亚橡胶研究院。
 
 ## 车站结构
 

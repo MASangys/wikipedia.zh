@@ -501,7 +501,7 @@ TV、myVideo、愛奇藝台灣站、KKTV同步跟播。香港地區於[Viu播放
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
     [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[我們遇見的奇蹟](../Page/我們遇見的奇蹟.md "wikilink")》、《[你也是人類嗎](../Page/你也是人類嗎.md "wikilink")》
   - [MBC](../Page/文化廣播公司.md "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[瘋了，因為你！](https://zh.wikipedia.org/wiki/瘋了，因為你！ "wikilink")》、《[檢法男女](https://zh.wikipedia.org/wiki/檢法男女 "wikilink")》
+    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[瘋了，因為你！](../Page/瘋了，因為你！.md "wikilink")》、《[檢法男女](../Page/檢法男女.md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink")
     [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[致忘了詩的你](../Page/致忘了詩的你.md "wikilink")》、《[想暫停的瞬間：About
     Time](https://zh.wikipedia.org/wiki/想暫停的瞬間：About_Time "wikilink")》、《[一起吃飯吧3](https://zh.wikipedia.org/wiki/一起吃飯吧3 "wikilink")》

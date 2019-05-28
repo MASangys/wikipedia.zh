@@ -23,7 +23,7 @@ Draw編輯大量來自[開放美工圖庫的SVG圖片](../Page/開放美工圖�
   - [Writer](../Page/LibreOffice_Writer.md "wikilink")
   - [Calc](../Page/LibreOffice_Calc.md "wikilink")
   - [Impress](../Page/LibreOffice_Impress.md "wikilink")
-  - [Math](https://zh.wikipedia.org/wiki/LibreOffice_Math "wikilink")
+  - [Math](../Page/LibreOffice_Math.md "wikilink")
 
 ## 参考文献
 

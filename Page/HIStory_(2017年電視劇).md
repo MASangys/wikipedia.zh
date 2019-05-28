@@ -5,7 +5,7 @@ Hero》、《離我遠一點》、《著魔》，每集約20分鐘，一週播�
 
 播出後好評不斷，上架短短三個月達成350萬的網路點擊率，成為台灣首部進軍日本的網路劇，將於2017年7月31日於日本電視台播出，同時籌備日本院線發行，年底前將於泰國電視台播出。\[2\]
 
-該系列[第二季已於](https://zh.wikipedia.org/wiki/HIStory2 "wikilink")10月12日開鏡拍攝，分為二個單元《是非》及《越界》。\[3\]原定之第三單元《圈套》因經費不足而被擱置。而《越界》也預計於2019年開拍電影版《跨界》，由原班人馬帶來志弘高中排球隊員們後續的故事\[4\]。
+該系列[第二季已於](../Page/HIStory2.md "wikilink")10月12日開鏡拍攝，分為二個單元《是非》及《越界》。\[3\]原定之第三單元《圈套》因經費不足而被擱置。而《越界》也預計於2019年開拍電影版《跨界》，由原班人馬帶來志弘高中排球隊員們後續的故事\[4\]。
 
 該系列[第三季](../Page/HIStory3.md "wikilink")，於2018年第四季開拍
 ，分為二個單元《圈套》及《那一天》，2019年4月16日開始播放\[5\]\[6\]。
@@ -136,7 +136,7 @@ Hero》、《離我遠一點》、《著魔》，每集約20分鐘，一週播�
 <p>1</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/HIStory_(第一季)#My_Hero" title="wikilink">My Hero</a></p></td>
-<td><p><a href="../Page/賴東賢.md" title="wikilink">賴東賢</a>、<a href="https://zh.wikipedia.org/wiki/蔣昀霖" title="wikilink">蔣昀霖</a>、<a href="../Page/林映唯.md" title="wikilink">林映唯</a>、<a href="https://zh.wikipedia.org/wiki/林鶴軒" title="wikilink">林鶴軒</a>、<a href="https://zh.wikipedia.org/wiki/江凱軒" title="wikilink">江凱軒</a></p></td>
+<td><p><a href="../Page/賴東賢.md" title="wikilink">賴東賢</a>、<a href="https://zh.wikipedia.org/wiki/蔣昀霖" title="wikilink">蔣昀霖</a>、<a href="../Page/林映唯.md" title="wikilink">林映唯</a>、<a href="../Page/林鶴軒.md" title="wikilink">林鶴軒</a>、<a href="https://zh.wikipedia.org/wiki/江凱軒" title="wikilink">江凱軒</a></p></td>
 <td><p>楊宜樺</p></td>
 <td><p>唐逸</p></td>
 </tr>
@@ -159,7 +159,7 @@ Hero》、《離我遠一點》、《著魔》，每集約20分鐘，一週播�
 <p>2</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/HIStory_(第一季)#離我遠一點_(Stay_Away_From_Me)" title="wikilink">離我遠一點</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吳承璟" title="wikilink">吳珝陽</a>、<a href="https://zh.wikipedia.org/wiki/宋柏緯" title="wikilink">宋柏緯</a>、<a href="../Page/焦曼婷.md" title="wikilink">焦曼婷</a>、<a href="https://zh.wikipedia.org/wiki/王瑩瑩" title="wikilink">王瑩瑩</a>、<a href="https://zh.wikipedia.org/wiki/張洋" title="wikilink">張洋</a>、<a href="https://zh.wikipedia.org/wiki/莊越鈞" title="wikilink">莊越鈞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吳承璟" title="wikilink">吳珝陽</a>、<a href="../Page/宋柏緯.md" title="wikilink">宋柏緯</a>、<a href="../Page/焦曼婷.md" title="wikilink">焦曼婷</a>、<a href="https://zh.wikipedia.org/wiki/王瑩瑩" title="wikilink">王瑩瑩</a>、<a href="https://zh.wikipedia.org/wiki/張洋" title="wikilink">張洋</a>、<a href="https://zh.wikipedia.org/wiki/莊越鈞" title="wikilink">莊越鈞</a></p></td>
 <td><p>楊宜樺</p></td>
 <td><p>蔡宓潔</p></td>
 </tr>
@@ -182,7 +182,7 @@ Hero》、《離我遠一點》、《著魔》，每集約20分鐘，一週播�
 <p>3</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/HIStory_(第一季)#著魔_(Obsessed)" title="wikilink">著魔</a></p></td>
-<td><p><a href="../Page/森竣.md" title="wikilink">何林駿</a>、<a href="https://zh.wikipedia.org/wiki/任祐成" title="wikilink">任祐成</a>、<a href="https://zh.wikipedia.org/wiki/陳沂" title="wikilink">陳沂</a>、<a href="../Page/李家慶.md" title="wikilink">李家慶</a>、<a href="https://zh.wikipedia.org/wiki/張孝承" title="wikilink">張孝承</a>、<a href="https://zh.wikipedia.org/wiki/吳澤煒" title="wikilink">吳澤煒</a>、<a href="https://zh.wikipedia.org/wiki/王瑩瑩" title="wikilink">王瑩瑩</a></p></td>
+<td><p><a href="../Page/森竣.md" title="wikilink">何林駿</a>、<a href="../Page/任祐成.md" title="wikilink">任祐成</a>、<a href="https://zh.wikipedia.org/wiki/陳沂" title="wikilink">陳沂</a>、<a href="../Page/李家慶.md" title="wikilink">李家慶</a>、<a href="https://zh.wikipedia.org/wiki/張孝承" title="wikilink">張孝承</a>、<a href="https://zh.wikipedia.org/wiki/吳澤煒" title="wikilink">吳澤煒</a>、<a href="https://zh.wikipedia.org/wiki/王瑩瑩" title="wikilink">王瑩瑩</a></p></td>
 <td><p>林珮瑜</p></td>
 <td><p>Adiamond Lee</p></td>
 </tr>
@@ -226,7 +226,7 @@ Hero》、《離我遠一點》、《著魔》，每集約20分鐘，一週播�
 <p>4</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/HIStory2#是非_(Right_or_Wrong)" title="wikilink">是非</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/江常輝" title="wikilink">江常輝</a>、<a href="https://zh.wikipedia.org/wiki/張行" title="wikilink">張行</a>、<a href="https://zh.wikipedia.org/wiki/葉翊恩" title="wikilink">葉翊恩</a>、<a href="https://zh.wikipedia.org/wiki/蘇育惟" title="wikilink">蘇育惟</a>、<a href="https://zh.wikipedia.org/wiki/初孟軒" title="wikilink">初孟軒</a>、<a href="../Page/邱志宇.md" title="wikilink">邱志宇</a></p></td>
+<td><p><a href="../Page/江常輝.md" title="wikilink">江常輝</a>、<a href="../Page/張行.md" title="wikilink">張行</a>、<a href="https://zh.wikipedia.org/wiki/葉翊恩" title="wikilink">葉翊恩</a>、<a href="https://zh.wikipedia.org/wiki/蘇育惟" title="wikilink">蘇育惟</a>、<a href="https://zh.wikipedia.org/wiki/初孟軒" title="wikilink">初孟軒</a>、<a href="../Page/邱志宇.md" title="wikilink">邱志宇</a></p></td>
 <td><p>林珮瑜</p></td>
 <td><p>李青蓉</p></td>
 </tr>
@@ -249,7 +249,7 @@ Hero》、《離我遠一點》、《著魔》，每集約20分鐘，一週播�
 <p>5</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/HIStory2#越界（Crossing_Line）" title="wikilink">越界</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盧彥澤" title="wikilink">盧彥澤</a>、<a href="https://zh.wikipedia.org/wiki/范少勳" title="wikilink">范少勳</a>、<a href="https://zh.wikipedia.org/wiki/楊孟霖" title="wikilink">楊孟霖</a>、<a href="https://zh.wikipedia.org/wiki/施柏宇" title="wikilink">施柏宇</a>、<a href="https://zh.wikipedia.org/wiki/謝毅宏" title="wikilink">謝毅宏</a></p></td>
+<td><p><a href="../Page/盧彥澤.md" title="wikilink">盧彥澤</a>、<a href="../Page/范少勳.md" title="wikilink">范少勳</a>、<a href="../Page/楊孟霖.md" title="wikilink">楊孟霖</a>、<a href="../Page/施柏宇.md" title="wikilink">施柏宇</a>、<a href="../Page/謝毅宏.md" title="wikilink">謝毅宏</a></p></td>
 <td><p>林珮瑜</p></td>
 <td><p>蔡宓潔</p></td>
 </tr>

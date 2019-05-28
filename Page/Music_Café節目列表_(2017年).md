@@ -9,7 +9,7 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 **[2015年](../Page/Music_Café節目列表_\(2015年\).md "wikilink")** -
 **[2016年](../Page/Music_Café節目列表_\(2016年\).md "wikilink")** -
 **2017年** -
-**[2018年](https://zh.wikipedia.org/wiki/Music_Café節目列表_\(2018年\) "wikilink")**
+**[2018年](../Page/Music_Café節目列表_\(2018年\).md "wikilink")**
 - **[2019年](../Page/Music_Café節目列表_\(2019年\).md "wikilink")**</span>
 
 </div>
@@ -43,13 +43,13 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 
 ## 4月
 
-| 集數  | J2首播日期 | 主題              | 嘉賓                                                                                                                                                                                 |
-| --- | ------ | --------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 313 | 4月1日   | 蘇煒喬、伍定彥　未來．好風景  | [蘇煒喬](../Page/蘇煒喬.md "wikilink")、[伍定彥](https://zh.wikipedia.org/wiki/伍定彥 "wikilink") |- style="background-color: \#FFFFFF" |                                                       |
-| 314 | 4月8日   | 張紋嘉　歌藝「演」化      | [張紋嘉](../Page/張紋嘉.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                                                           |
-| 315 | 4月15日  | 羅嘉豪、祖絲、AJ 澳門過江龍 | [羅嘉豪](../Page/羅嘉豪.md "wikilink")、[祖　絲](https://zh.wikipedia.org/wiki/祖絲 "wikilink")、[AJ](https://zh.wikipedia.org/wiki/愛德尼諾·左治 "wikilink") |- style="background-color: \#FFFFFF" | |
-| 316 | 4月22日  | 王嘉儀　脫俗巨聲        | [王嘉儀](../Page/王嘉儀.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                                                           |
-| 317 | 4月29日  | 黃浩琳　憑歌分享內心世界    | [黃浩琳](../Page/黃浩琳.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                                                           |
+| 集數  | J2首播日期 | 主題              | 嘉賓                                                                                                                                                              |
+| --- | ------ | --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 313 | 4月1日   | 蘇煒喬、伍定彥　未來．好風景  | [蘇煒喬](../Page/蘇煒喬.md "wikilink")、[伍定彥](https://zh.wikipedia.org/wiki/伍定彥 "wikilink") |- style="background-color: \#FFFFFF" |                                    |
+| 314 | 4月8日   | 張紋嘉　歌藝「演」化      | [張紋嘉](../Page/張紋嘉.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                                        |
+| 315 | 4月15日  | 羅嘉豪、祖絲、AJ 澳門過江龍 | [羅嘉豪](../Page/羅嘉豪.md "wikilink")、[祖　絲](../Page/祖絲.md "wikilink")、[AJ](https://zh.wikipedia.org/wiki/愛德尼諾·左治 "wikilink") |- style="background-color: \#FFFFFF" | |
+| 316 | 4月22日  | 王嘉儀　脫俗巨聲        | [王嘉儀](../Page/王嘉儀.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                                        |
+| 317 | 4月29日  | 黃浩琳　憑歌分享內心世界    | [黃浩琳](../Page/黃浩琳.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                                        |
 
 ## 5月
 
@@ -81,12 +81,12 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 
 ## 8月
 
-| 集數  | J2首播日期 | 主題              | 嘉賓                                                                                                                                              |
-| --- | ------ | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 331 | 8月5日   | 洪卓立　新舊作品同賞      | [洪卓立](../Page/洪卓立.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                        |
-| 332 | 8月12日  | 黎曉陽、黃意雅　趕上唱作新目標 | [黎曉陽](https://zh.wikipedia.org/wiki/黎曉陽 "wikilink")、[黃意雅](https://zh.wikipedia.org/wiki/黃意雅 "wikilink") |- style="background-color: \#FFFFFF" | |
-| 333 | 8月19日  | 鄧小巧、顏卓靈　突破等不了   | [鄧小巧](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink")、[顏卓靈](../Page/顏卓靈.md "wikilink") |- style="background-color: \#FFFFFF" |                    |
-| 334 | 8月26日  | 葉巧琳　越過低谷重拾音樂熱情  | [葉巧琳](https://zh.wikipedia.org/wiki/葉巧琳 "wikilink") |- style="background-color: \#FFFFFF" |                                                     |
+| 集數  | J2首播日期 | 主題              | 嘉賓                                                                                                                           |
+| --- | ------ | --------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 331 | 8月5日   | 洪卓立　新舊作品同賞      | [洪卓立](../Page/洪卓立.md "wikilink") |- style="background-color: \#FFFFFF" |                                                     |
+| 332 | 8月12日  | 黎曉陽、黃意雅　趕上唱作新目標 | [黎曉陽](https://zh.wikipedia.org/wiki/黎曉陽 "wikilink")、[黃意雅](../Page/黃意雅.md "wikilink") |- style="background-color: \#FFFFFF" | |
+| 333 | 8月19日  | 鄧小巧、顏卓靈　突破等不了   | [鄧小巧](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink")、[顏卓靈](../Page/顏卓靈.md "wikilink") |- style="background-color: \#FFFFFF" | |
+| 334 | 8月26日  | 葉巧琳　越過低谷重拾音樂熱情  | [葉巧琳](https://zh.wikipedia.org/wiki/葉巧琳 "wikilink") |- style="background-color: \#FFFFFF" |                                  |
 
 ## 9月
 
@@ -100,12 +100,12 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 
 ## 10月
 
-| 集數  | J2首播日期 | 主題                 | 嘉賓                                                                                                                                                                               |
-| --- | ------ | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 340 | 10月7日  | 王嘉儀、伍富橋、丁可欣　樂壇新力軍  | [王嘉儀](../Page/王嘉儀.md "wikilink")、[伍富橋](https://zh.wikipedia.org/wiki/伍富橋 "wikilink")、[丁可欣](https://zh.wikipedia.org/wiki/丁可欣 "wikilink") |- style="background-color: \#FFFFFF" | |
-| 341 | 10月14日 | 陳蕾、谷微　歌唱比賽開展新里程    | [陳　蕾](../Page/陳蕾.md "wikilink")、[谷　微](https://zh.wikipedia.org/wiki/谷微 "wikilink") |- style="background-color: \#FFFFFF" |                                                       |
-| 342 | 10月21日 | 劉威煌、鄭世豪　夢想和「麵包」之取捨 | [劉威煌](../Page/劉威煌.md "wikilink")、[鄭世豪](../Page/鄭世豪.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                        |
-| 343 | 10月28日 | 吳浩康、羅力威　憑歌訴心聲      | [吳浩康](../Page/吳浩康.md "wikilink")、[羅力威](../Page/羅力威.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                        |
+| 集數  | J2首播日期 | 主題                 | 嘉賓                                                                                                                                         |
+| --- | ------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| 340 | 10月7日  | 王嘉儀、伍富橋、丁可欣　樂壇新力軍  | [王嘉儀](../Page/王嘉儀.md "wikilink")、[伍富橋](../Page/伍富橋.md "wikilink")、[丁可欣](../Page/丁可欣.md "wikilink") |- style="background-color: \#FFFFFF" | |
+| 341 | 10月14日 | 陳蕾、谷微　歌唱比賽開展新里程    | [陳　蕾](../Page/陳蕾.md "wikilink")、[谷　微](https://zh.wikipedia.org/wiki/谷微 "wikilink") |- style="background-color: \#FFFFFF" |                 |
+| 342 | 10月21日 | 劉威煌、鄭世豪　夢想和「麵包」之取捨 | [劉威煌](../Page/劉威煌.md "wikilink")、[鄭世豪](../Page/鄭世豪.md "wikilink") |- style="background-color: \#FFFFFF" |                                  |
+| 343 | 10月28日 | 吳浩康、羅力威　憑歌訴心聲      | [吳浩康](../Page/吳浩康.md "wikilink")、[羅力威](../Page/羅力威.md "wikilink") |- style="background-color: \#FFFFFF" |                                  |
 
 ## 11月
 
@@ -123,7 +123,7 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 | 348 | 12月2日  | 胡鴻鈞、鄧小巧　歌曲言簡意深   | [胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")、[鄧小巧](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink") |- style="background-color: \#FFFFFF" | |
 | 349 | 12月9日  | 鄭融　探尋內心新歌路       | [鄭　融](../Page/鄭融.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                         |
 | 350 | 12月16日 | Fabel　新專輯唱走壓力    | [Fabel](../Page/Fabel.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                    |
-| 351 | 12月23日 | 譚嘉儀、伍富橋　情歌裏的幻想世界 | [譚嘉儀](../Page/譚嘉儀.md "wikilink")、[伍富橋](https://zh.wikipedia.org/wiki/伍富橋 "wikilink") |- style="background-color: \#FFFFFF" |                    |
+| 351 | 12月23日 | 譚嘉儀、伍富橋　情歌裏的幻想世界 | [譚嘉儀](../Page/譚嘉儀.md "wikilink")、[伍富橋](../Page/伍富橋.md "wikilink") |- style="background-color: \#FFFFFF" |                                       |
 | 352 | 12月30日 | 胡琳　「爵士天后」音樂新路線   | [胡　琳](../Page/胡琳.md "wikilink") |- style="background-color: \#FFFFFF" |                                                                         |
 
 [Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink")

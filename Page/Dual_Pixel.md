@@ -80,15 +80,13 @@ Review认为解像感补偿仅仅视作后期的一种AF微调手段\[13\]，而
 
 \*\*[Galaxy S7/S7 Edge](../Page/三星Galaxy_S7.md "wikilink")\[19\]
 
-\*\*[Galaxy S8/S8
-Plus](https://zh.wikipedia.org/wiki/三星Galaxy_S8 "wikilink")
+\*\*[Galaxy S8/S8 Plus](../Page/三星Galaxy_S8.md "wikilink")
 
-\*\*[三星Galaxy Note
-8](https://zh.wikipedia.org/wiki/三星Galaxy_Note_8 "wikilink")
+\*\*[三星Galaxy Note 8](../Page/三星Galaxy_Note_8.md "wikilink")
 
 \*;HTC
 
-\*\*[HTC U11](https://zh.wikipedia.org/wiki/HTC_U11 "wikilink")
+\*\*[HTC U11](../Page/HTC_U11.md "wikilink")
 
 \*;ASUS
 

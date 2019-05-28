@@ -1,5 +1,5 @@
 《**NBA Elite
-11**》是一款[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，由[EA加拿大開發](https://zh.wikipedia.org/wiki/EA加拿大 "wikilink")，[EA
+11**》是一款[籃球](https://zh.wikipedia.org/wiki/籃球 "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，由[EA加拿大開發](../Page/EA加拿大.md "wikilink")，[EA
 Sports發行](../Page/EA_Sports.md "wikilink")。遊戲原本會在[PlayStation
 3和](../Page/PlayStation_3.md "wikilink")[Xbox
 360平台上推出](../Page/Xbox_360.md "wikilink")。但由於在試玩版中出現詭異的「耶穌事件」，因此，[EA

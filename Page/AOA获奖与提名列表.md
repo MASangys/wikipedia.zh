@@ -13,10 +13,9 @@
 ### [金唱片奖](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")
 
 |- | rowspan="1"|2015 | 音源本赏\[4\] | 《短裙》 |  |- | rowspan="4"|2016 |
-数字唱片本赏 |
-《[怦然心动](https://zh.wikipedia.org/wiki/怦然心动_\(AOA迷你专辑\) "wikilink")》
-|  |- | 数字单曲本赏 | rowspan="2"|《怦然心动》 |  |- | 音源本赏\[5\] |  |- | 人气奖 | AOA
-|  |- |}
+数字唱片本赏 | 《[怦然心动](../Page/怦然心动_\(AOA迷你专辑\).md "wikilink")》 |
+|- | 数字单曲本赏 | rowspan="2"|《怦然心动》 |  |- | 音源本赏\[5\] |  |- | 人气奖 | AOA |
+|- |}
 
 ### MBC Music [Show Champion奖](../Page/Show_Champion.md "wikilink")
 

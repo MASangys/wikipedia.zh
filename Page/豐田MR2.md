@@ -76,7 +76,7 @@ Edition”的彩色貼條。終極版MR2s僅有“深夜藍”和“白金雙色
 
 [Keiffer_Castagnier_20valve_4age_MR2_MK1_swap_2011.jpg](https://zh.wikipedia.org/wiki/File:Keiffer_Castagnier_20valve_4age_MR2_MK1_swap_2011.jpg "fig:Keiffer_Castagnier_20valve_4age_MR2_MK1_swap_2011.jpg")
 不少車迷熱衷於初代MR2的改裝。常見的改裝項目是提升發動機功率。雖然AW11裝備的4A-GE引擎仍有馬力提升的空間，但不少車迷選擇改裝[廢氣渦輪增壓器或者換裝別的引擎來獲得更大的馬力輸出](../Page/渦輪增壓器.md "wikilink")。最常見的是換裝新一代銀色或黑色頂板的第四代4A-GE引擎。相比MR2
-AW11裝備的第三代16氣門引擎，第四代4A-GE每缸5氣門，總數達20氣門。亦有車迷把第二代MR2用的3S-GTE或者相應的BEAMS機型裝載與第一代MR2上。自行加裝機械增壓器的亦有不少。甚至有車迷為MR2加裝大功率[V6引擎](https://zh.wikipedia.org/wiki/V6发动机 "wikilink")，如排氣量在3L以上的[豐田MZ型引擎甚至功率更大的新型](../Page/豐田MZ型引擎.md "wikilink")[2GR-FE等](https://zh.wikipedia.org/wiki/豐田GR系列引擎 "wikilink")。
+AW11裝備的第三代16氣門引擎，第四代4A-GE每缸5氣門，總數達20氣門。亦有車迷把第二代MR2用的3S-GTE或者相應的BEAMS機型裝載與第一代MR2上。自行加裝機械增壓器的亦有不少。甚至有車迷為MR2加裝大功率[V6引擎](../Page/V6发动机.md "wikilink")，如排氣量在3L以上的[豐田MZ型引擎甚至功率更大的新型](../Page/豐田MZ型引擎.md "wikilink")[2GR-FE等](https://zh.wikipedia.org/wiki/豐田GR系列引擎 "wikilink")。
 
 ### 豐田222D型拉力賽試驗車
 

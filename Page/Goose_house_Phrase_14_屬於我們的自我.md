@@ -4,7 +4,7 @@ house的第](https://zh.wikipedia.org/wiki/Goose_house "wikilink")5張[單曲](h
 ## 概要
 
   - 自《[Goose house Phrase \#13 Fly High, So
-    High](https://zh.wikipedia.org/wiki/Goose_house_Phrase_13_Fly_High,_So_High "wikilink")》以來，時隔約5個月發行的單曲。
+    High](../Page/Goose_house_Phrase_13_Fly_High,_So_High.md "wikilink")》以來，時隔約5個月發行的單曲。
   - 發售日與「Goose house Live Tour 2017 はじまり、はじまりツアー」初日同一天。
   - 初回生產限定盤收錄了2015年12月10日在東京國際論壇舉辦的「Goose house Live Tour 2015
     〜だって座れるんだもん〜」編集DVD。

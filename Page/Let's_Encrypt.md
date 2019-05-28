@@ -25,7 +25,7 @@ Let's Encrypt宣称这一过程将十分简单、自动化并且免费。\[8\]
 ## 技术
 
 2015年6月，Let's
-Encrypt得到了一个存储在[硬件安全模块中的离线的](https://zh.wikipedia.org/wiki/硬件安全模块 "wikilink")[RSA根证书](../Page/RSA加密演算法.md "wikilink")。这个由IdenTrust证书签发机构交叉签名的根证书，被用于签署两个证书。其中一个就是用于签发请求的证书，另一个则是保存在本地的证书，这个证书用于在上一个证书出问题时作备份证书之用。因为IdenTrust的CA根证书目前已被预置于主流浏览器中，所以Let's
+Encrypt得到了一个存储在[硬件安全模块中的离线的](../Page/硬件安全模块.md "wikilink")[RSA根证书](../Page/RSA加密演算法.md "wikilink")。这个由IdenTrust证书签发机构交叉签名的根证书，被用于签署两个证书。其中一个就是用于签发请求的证书，另一个则是保存在本地的证书，这个证书用于在上一个证书出问题时作备份证书之用。因为IdenTrust的CA根证书目前已被预置于主流浏览器中，所以Let's
 Encrypt签发的证书可以从项目开始时就被识别并接受，甚至在用户的浏览器中没有信任ISRG的根证书时也没问题\[15\]。为了解决对[Windows
 XP的兼容性](../Page/Windows_XP.md "wikilink")，目前Let's
 Encrypt已经获取了另外两个根证书，原来的证书作为备用。\[16\]

@@ -8,8 +8,7 @@
 ### 第1组（男子职业组）
 
 2015年5月22日：[李泰贤](https://zh.wikipedia.org/wiki/李泰贤 "wikilink")
-五段负[孙力](https://zh.wikipedia.org/wiki/孙力_\(围棋棋手\) "wikilink")
-五段
+五段负[孙力](../Page/孙力_\(围棋棋手\).md "wikilink") 五段
 
 ### 第2组（男子职业组）
 
@@ -22,7 +21,7 @@
 
 ### 第4组（男子职业组）
 
-2015年5月22日：[夏晨琨](https://zh.wikipedia.org/wiki/夏晨琨 "wikilink")
+2015年5月22日：[夏晨琨](../Page/夏晨琨.md "wikilink")
 四段胜[林士勋](https://zh.wikipedia.org/wiki/林士勋 "wikilink") 三段
 
 ### 第5组（男子职业组）
@@ -33,7 +32,7 @@
 ### 第6组（男子职业组）
 
 2015年5月22日：[李喆](https://zh.wikipedia.org/wiki/李喆 "wikilink")
-六段胜[国宇征](https://zh.wikipedia.org/wiki/国宇征 "wikilink") 四段
+六段胜[国宇征](../Page/国宇征.md "wikilink") 四段
 
 ### 第7组（男子职业组）
 
@@ -67,13 +66,13 @@
 
 ### 第13组（男子职业组）
 
-2015年5月22日：[芝野虎丸](https://zh.wikipedia.org/wiki/芝野虎丸 "wikilink")
+2015年5月22日：[芝野虎丸](../Page/芝野虎丸.md "wikilink")
 初段胜[张挺英](https://zh.wikipedia.org/wiki/张挺英 "wikilink") 五段
 
 ### 第14组（男子职业组）
 
-2015年5月22日：[陶欣然](https://zh.wikipedia.org/wiki/陶欣然 "wikilink")
-五段负[朱元豪](https://zh.wikipedia.org/wiki/朱元豪 "wikilink") 四段
+2015年5月22日：[陶欣然](../Page/陶欣然.md "wikilink")
+五段负[朱元豪](../Page/朱元豪.md "wikilink") 四段
 
 ### 第15组（男子职业组）
 

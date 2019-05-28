@@ -1,5 +1,5 @@
 [第5回](../Page/第5回TVnavi日劇年度大賞.md "wikilink") ← **第6回** →
-[第7回](https://zh.wikipedia.org/wiki/第7回TVnavi日劇年度大賞 "wikilink")
+[第7回](../Page/第7回TVnavi日劇年度大賞.md "wikilink")
 
 **第6回[TVnavi日劇年度大賞](../Page/TVnavi日劇年度大賞.md "wikilink")**是針對2009年春季至2010年冬季播出的連續劇做出的觀眾投票，以下為入圍及得獎名單。
 

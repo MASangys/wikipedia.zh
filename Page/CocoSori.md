@@ -9,7 +9,7 @@
 [Coco為](https://zh.wikipedia.org/wiki/Coco_\(歌手\) "wikilink")[Star
 Planet娛樂旗下女子團體](https://zh.wikipedia.org/wiki/Star_Planet娛樂 "wikilink")[BLADY前成員](../Page/BLADY.md "wikilink")，以二期成員身份在2013年11月18日發行第二張單曲EP《[B型女孩](https://zh.wikipedia.org/wiki/Blady\`s_2nd_Single_Album_Blood_Type_B_Girl "wikilink")》\[1\]，並正式出道。
 
-除此之外，[Coco亦為前](https://zh.wikipedia.org/wiki/Coco_\(歌手\) "wikilink")[MBK娛樂練習生](../Page/MBK娛樂.md "wikilink")，曾與前[T-ara成員](https://zh.wikipedia.org/wiki/T-ara "wikilink")[雅凜](https://zh.wikipedia.org/wiki/李雅凜 "wikilink")、[Kara成員](../Page/Kara.md "wikilink")[齡智](../Page/許齡智.md "wikilink")、[WANNA.B成員LINA](https://zh.wikipedia.org/wiki/WANNA.B "wikilink")、現為健身模特的**宋雅凜**以及當時的練習生**金侑珍**組成為當時打算在2012年至2013年出道的新女團，亦因此與同期練習生（即[The
+除此之外，[Coco亦為前](https://zh.wikipedia.org/wiki/Coco_\(歌手\) "wikilink")[MBK娛樂練習生](../Page/MBK娛樂.md "wikilink")，曾與前[T-ara成員](https://zh.wikipedia.org/wiki/T-ara "wikilink")[雅凜](https://zh.wikipedia.org/wiki/李雅凜 "wikilink")、[Kara成員](../Page/Kara.md "wikilink")[齡智](../Page/許齡智.md "wikilink")、[WANNA.B成員LINA](../Page/WANNA.B.md "wikilink")、現為健身模特的**宋雅凜**以及當時的練習生**金侑珍**組成為當時打算在2012年至2013年出道的新女團，亦因此與同期練習生（即[The
 SeeYa成員](../Page/The_SeeYa.md "wikilink")）成為朋友。
 
 2014年尾，[Coco退出](https://zh.wikipedia.org/wiki/Coco_\(歌手\) "wikilink")[BLADY](../Page/BLADY.md "wikilink")。
@@ -30,17 +30,17 @@ SBS演藝大賞表演特別舞臺](https://zh.wikipedia.org/wiki/SBS演藝大賞
 
 2016年8月25日，[Sori以企劃團體](https://zh.wikipedia.org/wiki/素麗_\(1990年出生\) "wikilink")[Real
 Girls
-Project成員身份出道](https://zh.wikipedia.org/wiki/Real_Girls_Project "wikilink")，並發行出道單曲《꿈을
+Project成員身份出道](../Page/Real_Girls_Project.md "wikilink")，並發行出道單曲《꿈을
 Dream》。
 
 ### 2017年：首次挑戰演技
 
 2017年3月31日，[Sori以企劃團體](https://zh.wikipedia.org/wiki/素麗_\(1990年出生\) "wikilink")[Real
 Girls
-Project的子團](https://zh.wikipedia.org/wiki/Real_Girls_Project "wikilink")[B-Side成員活動](https://zh.wikipedia.org/wiki/B-Side "wikilink")，並發行單曲《THE
+Project的子團](../Page/Real_Girls_Project.md "wikilink")[B-Side成員活動](https://zh.wikipedia.org/wiki/B-Side "wikilink")，並發行單曲《THE
 IDOLM@STER》。
 
-2017年4月28日，[Sori與](https://zh.wikipedia.org/wiki/素麗_\(1990年出生\) "wikilink")[Coco參演的電視劇](https://zh.wikipedia.org/wiki/Coco_\(歌手\) "wikilink")《[偶像大師.KR](https://zh.wikipedia.org/wiki/偶像大師.KR "wikilink")》播出。
+2017年4月28日，[Sori與](https://zh.wikipedia.org/wiki/素麗_\(1990年出生\) "wikilink")[Coco參演的電視劇](https://zh.wikipedia.org/wiki/Coco_\(歌手\) "wikilink")《[偶像大師.KR](../Page/偶像大師.KR.md "wikilink")》播出。
 
 2017年10月29日，[Sori參演的韓國JTBC選秀綜藝節目](https://zh.wikipedia.org/wiki/素麗_\(1990年出生\) "wikilink")《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》首集播出。
 

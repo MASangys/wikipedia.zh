@@ -1,5 +1,5 @@
 《**超人X大電影
-我們的超人來了**》（），是一部2016年日本超人電影，由[田口清隆執導](https://zh.wikipedia.org/wiki/田口清隆 "wikilink")，、、及[松本享恭主演](../Page/松本享恭.md "wikilink")。是[新超人力霸王列傳](https://zh.wikipedia.org/wiki/新超人力霸王列傳 "wikilink")《[超人X](https://zh.wikipedia.org/wiki/超人X "wikilink")》劇場版，亦是超人系列誕生50週年記念作。
+我們的超人來了**》（），是一部2016年日本超人電影，由[田口清隆執導](https://zh.wikipedia.org/wiki/田口清隆 "wikilink")，、、及[松本享恭主演](../Page/松本享恭.md "wikilink")。是[新超人力霸王列傳](https://zh.wikipedia.org/wiki/新超人力霸王列傳 "wikilink")《[超人X](../Page/超人X.md "wikilink")》劇場版，亦是超人系列誕生50週年記念作。
 
 2016年5月12日於日本上映、2016年12月1日於香港上映。香港同時上映日語及粵語配音版本。
 

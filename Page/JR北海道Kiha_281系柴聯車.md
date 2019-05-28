@@ -53,7 +53,7 @@ JR北海道在1991年展开[函馆站](https://zh.wikipedia.org/wiki/函馆站 "
 
 ## 相關條目
 
-  - [北斗號列車](https://zh.wikipedia.org/wiki/北斗號列車 "wikilink")
+  - [北斗號列車](../Page/北斗號列車.md "wikilink")
   - [JR北海道Kiha
     283系柴联车](https://zh.wikipedia.org/wiki/JR北海道Kiha_283系柴联车 "wikilink")
   - [摆式列车](https://zh.wikipedia.org/wiki/摆式列车 "wikilink")

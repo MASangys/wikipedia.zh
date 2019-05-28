@@ -1,4 +1,4 @@
-**柔伊·伊莉莎白·薩格**（，），或簡稱**柔伊·薩格**（）\[1\]，是一位[英國時尚美妝](https://zh.wikipedia.org/wiki/英國 "wikilink")[YouTuber](https://zh.wikipedia.org/wiki/YouTuber "wikilink")、[Vlogger與](https://zh.wikipedia.org/wiki/VLOG "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")。她以其[YouTube頻道名稱](../Page/YouTube.md "wikilink")**Zoella**最為人們熟知。她的處女作小說《》於2014年11月出版，並打破自1998年以來諸多紀錄，成為新人作家最高單週銷售量之紀錄保持人。
+**柔伊·伊莉莎白·薩格**（，），或簡稱**柔伊·薩格**（）\[1\]，是一位[英國時尚美妝](https://zh.wikipedia.org/wiki/英國 "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")、[Vlogger與](https://zh.wikipedia.org/wiki/VLOG "wikilink")[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")。她以其[YouTube頻道名稱](../Page/YouTube.md "wikilink")**Zoella**最為人們熟知。她的處女作小說《》於2014年11月出版，並打破自1998年以來諸多紀錄，成為新人作家最高單週銷售量之紀錄保持人。
 
 ## 個人生活
 
@@ -26,7 +26,7 @@ Zoella是的成員之一，參與演唱為[2014年西非伊波拉病毒疫情籌
 
 ### 電視出演
 
-2014年7月，Zoella在英國[獨立電視台的](https://zh.wikipedia.org/wiki/獨立電視台_\(頻道\) "wikilink")[清談節目](https://zh.wikipedia.org/wiki/清談節目 "wikilink")《》中登場\[41\]\[42\]。之後她也在娛樂節目《》出現，時間跟電視台和《放盪女性》一樣都是2014年7月與獨立電視台\[43\]\[44\]。2015年，Zoella獲邀請參加[BBC的](https://zh.wikipedia.org/wiki/BBC "wikilink")《[大搞笑烤焗大賽](https://zh.wikipedia.org/wiki/大英烤焗大賽 "wikilink")》\[45\]\[46\]。
+2014年7月，Zoella在英國[獨立電視台的](https://zh.wikipedia.org/wiki/獨立電視台_\(頻道\) "wikilink")[清談節目](https://zh.wikipedia.org/wiki/清談節目 "wikilink")《》中登場\[41\]\[42\]。之後她也在娛樂節目《》出現，時間跟電視台和《放盪女性》一樣都是2014年7月與獨立電視台\[43\]\[44\]。2015年，Zoella獲邀請參加[BBC的](https://zh.wikipedia.org/wiki/BBC "wikilink")《[大搞笑烤焗大賽](../Page/大英烤焗大賽.md "wikilink")》\[45\]\[46\]。
 
 Zoella曾與和[Vice新聞合作拍廣告](../Page/Vice新聞.md "wikilink")，並於2014年9月25日開始在電視、印刷品和[看板上刊登或播放](../Page/看板.md "wikilink")\[47\]\[48\]\[49\]。其中電視廣告會在英國3家電視台的黃金時段內播放\[50\]\[51\]\[52\]。
 

@@ -3,7 +3,7 @@ Heart](../Page/To_Heart.md "wikilink")》等[Leaf推出的](../Page/Leaf.md "wik
 Up,
 Girls\!](../Page/Wake_Up,_Girls!.md "wikilink")》、《[灼热的乒乓球娘](https://zh.wikipedia.org/wiki/灼热的乒乓球娘 "wikilink")》等动画作品\[3\]。
 
-截止2017年10月，OVA动画仅在日本、芬兰和中国举办过4次上映活动，累计观看人数不超过1000人\[4\]\[5\]。2017年10月30日，官方宣布将于11月3日开始在[AbemaTV](https://zh.wikipedia.org/wiki/AbemaTV "wikilink")、[dTV等](https://zh.wikipedia.org/wiki/dTV "wikilink")[网络电视播映](../Page/网络电视.md "wikilink")\[6\]。
+截止2017年10月，OVA动画仅在日本、芬兰和中国举办过4次上映活动，累计观看人数不超过1000人\[4\]\[5\]。2017年10月30日，官方宣布将于11月3日开始在[AbemaTV](../Page/AbemaTV.md "wikilink")、[dTV等](https://zh.wikipedia.org/wiki/dTV "wikilink")[网络电视播映](../Page/网络电视.md "wikilink")\[6\]。
 
 ## 故事设定
 
@@ -30,12 +30,12 @@ Project.R由安济知佳和安野希世乃两人主持，每期请来预计出�
 II Entertainment艺人作为嘉宾出席，节目内容包括歌曲演唱、谈话和朗读剧试演等，到7月7日共计播出8期节目\[27\]。
 
 7月10日，D-World
-Vol.0正式举行，其中《Eschachron》朗读剧如期上演，剧情为艾斯卡和克萝恩来到某个乡下小镇，遇到当地的少年少女发生的故事。出演活动的所有9位声优均参与了朗读剧；虽然9人都是女性声优，其中[青山吉能](../Page/青山吉能.md "wikilink")、[奥野香耶](https://zh.wikipedia.org/wiki/奥野香耶 "wikilink")、[高木美佑](../Page/高木美佑.md "wikilink")、[山下七海和](https://zh.wikipedia.org/wiki/山下七海 "wikilink")[吉冈茉祐](https://zh.wikipedia.org/wiki/吉冈茉祐 "wikilink")5人反串饰演少年角色，[永野爱理和](https://zh.wikipedia.org/wiki/永野爱理 "wikilink")[田中美海则饰演乡下少女](../Page/田中美海.md "wikilink")。现场还演唱了片头曲《Many
+Vol.0正式举行，其中《Eschachron》朗读剧如期上演，剧情为艾斯卡和克萝恩来到某个乡下小镇，遇到当地的少年少女发生的故事。出演活动的所有9位声优均参与了朗读剧；虽然9人都是女性声优，其中[青山吉能](../Page/青山吉能.md "wikilink")、[奥野香耶](https://zh.wikipedia.org/wiki/奥野香耶 "wikilink")、[高木美佑](../Page/高木美佑.md "wikilink")、[山下七海和](../Page/山下七海.md "wikilink")[吉冈茉祐](https://zh.wikipedia.org/wiki/吉冈茉祐 "wikilink")5人反串饰演少年角色，[永野爱理和](https://zh.wikipedia.org/wiki/永野爱理 "wikilink")[田中美海则饰演乡下少女](../Page/田中美海.md "wikilink")。现场还演唱了片头曲《Many
 colors, Many brights, Many more musics》和片尾曲《このセカイのユメノカケラ》。\[28\]\[29\]
 
 ## OVA
 
-在朗读剧正式上映之前排练的时候，已经提出了动画化的提案，之后便以动画化为方向调整企划重心\[30\]。但由于水岛精二导演有别的动画要忙，故委托山口辉担任导演负责具体制作\[31\]。这是山口辉第一次担任动画导演，此前她只做过2年的演出，画过的[分镜数量不超过](https://zh.wikipedia.org/wiki/分镜 "wikilink")20份，因此感到压力的同时也认识到是机遇\[32\]\[33\]。2016年10月9日在[德岛举行的漫展マチ](https://zh.wikipedia.org/wiki/德岛市 "wikilink")★アソビvol.17上，正式宣布了动画化的消息。动画由水岛精二担任总导演，山口辉担任导演，渡部里美担任人物设计和总作画监督，由动画公司[Lerche负责制作](https://zh.wikipedia.org/wiki/Lerche "wikilink")，具体的呈现形式在此时尚未公布\[34\]\[35\]。朗读剧结束后仅3个月便宣布了动画化消息，而实际上1个月之后声优等人已经得知确定进行动画化企划，水岛精二、安济知佳等主创人员均表示出乎意料地迅速，田中制片人则表示朗读剧在业内收获了较高评价，因此加快了动画化企划的推进速度。\[36\]\[37\]\[38\]同日官方网站及推特账号公开\[39\]。
+在朗读剧正式上映之前排练的时候，已经提出了动画化的提案，之后便以动画化为方向调整企划重心\[30\]。但由于水岛精二导演有别的动画要忙，故委托山口辉担任导演负责具体制作\[31\]。这是山口辉第一次担任动画导演，此前她只做过2年的演出，画过的[分镜数量不超过](https://zh.wikipedia.org/wiki/分镜 "wikilink")20份，因此感到压力的同时也认识到是机遇\[32\]\[33\]。2016年10月9日在[德岛举行的漫展マチ](https://zh.wikipedia.org/wiki/德岛市 "wikilink")★アソビvol.17上，正式宣布了动画化的消息。动画由水岛精二担任总导演，山口辉担任导演，渡部里美担任人物设计和总作画监督，由动画公司[Lerche负责制作](../Page/Lerche.md "wikilink")，具体的呈现形式在此时尚未公布\[34\]\[35\]。朗读剧结束后仅3个月便宣布了动画化消息，而实际上1个月之后声优等人已经得知确定进行动画化企划，水岛精二、安济知佳等主创人员均表示出乎意料地迅速，田中制片人则表示朗读剧在业内收获了较高评价，因此加快了动画化企划的推进速度。\[36\]\[37\]\[38\]同日官方网站及推特账号公开\[39\]。
 
 2017年3月3日，官方网站宣布将参加同月25日举行的AnimeJapan2017\[40\]。3月25日的活动上，公布了本片将以[OVA形式制作](https://zh.wikipedia.org/wiki/OVA "wikilink")2集\[41\]，同日官方网站也更新了相同消息，并公开了人物设定图和客座声优\[42\]。此时第1话画面已经制作完成并完成了配音\[43\]。5月6日，本片在德岛的漫展マチ★アソビvol.18上举行首映。7月4日，含有片尾曲《過去形と未来》的首个[PV在互联网公开](https://zh.wikipedia.org/wiki/音乐影片 "wikilink")\[44\]。
 

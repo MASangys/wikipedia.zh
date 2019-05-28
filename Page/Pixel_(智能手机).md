@@ -18,7 +18,7 @@ zh-tw:品質;}-和性能的讚譽。批評主要集中在高價格和缺乏防�
 zh-tw:鏡頭;}-拍攝的照片中的光學鏡頭光暈，與某些-{zh-cn:移動數據帶;
 zh-tw:行動裝置;}-的連接問題，不穩定的藍牙連接，意外的電池關閉以及失敗的麥克風。
 Google已經確認並發布了針對大部分問題的修補程序。 目前Pixel/Pixel XL可以升級的最新系統為[Android
-Pie](https://zh.wikipedia.org/wiki/Android_Pie "wikilink")。
+Pie](../Page/Android_Pie.md "wikilink")。
 
 ## 参考资料
 

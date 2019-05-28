@@ -55,9 +55,9 @@ Savannah於5月14日首輪推售362個單位，佔全盤單位四成半，共接
 ## 會德豐「澳南」項目
 
 1.  [The Parkside](../Page/The_Parkside.md "wikilink")
-2.  [CAPRI](https://zh.wikipedia.org/wiki/CAPRI "wikilink")
+2.  [CAPRI](../Page/CAPRI.md "wikilink")
 3.  Savannah
-4.  [MONTEREY](https://zh.wikipedia.org/wiki/MONTEREY "wikilink")
+4.  [MONTEREY](../Page/MONTEREY.md "wikilink")
 
 ## 交通
 

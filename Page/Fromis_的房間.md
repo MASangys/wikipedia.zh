@@ -40,7 +40,7 @@ Live直播，練習內表現最佳的三人可各自準備當日下午8時的FB�
 <td><p>1.體能課[11] 2.盧長今、宋副廚下廚[12]，餘下團員鬼故時間，午餐</p>
 <p>3.嚴苛的歌唱課程1[13]</p>
 <p>4.回想到<a href="https://zh.wikipedia.org/wiki/弘大_(首爾)" title="wikilink">弘大電玩晚</a>，射擊賽[14]、在年糕店吃宵夜、在漢江許願。</p>
-<p>5.回想到10月26日，盧知宣、宋河英在CJ E&amp;M與<a href="../Page/GOT7.md" title="wikilink">GOT7拍攝拍攝</a><a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown宣傳片</a> <a href="https://zh.wikipedia.org/wiki/2017年Mnet亞洲音樂大獎" title="wikilink">2017 MAMA獎項候選人</a>、餘下團員的舞蹈課</p>
+<p>5.回想到10月26日，盧知宣、宋河英在CJ E&amp;M與<a href="../Page/GOT7.md" title="wikilink">GOT7拍攝拍攝</a><a href="https://zh.wikipedia.org/wiki/M_Countdown" title="wikilink">M Countdown宣傳片</a> <a href="../Page/2017年Mnet亞洲音樂大獎.md" title="wikilink">2017 MAMA獎項候選人</a>、餘下團員的舞蹈課</p>
 <p>6.嚴苛的歌唱課程2 [15]</p>
 <p>7.全員舞蹈和編舞課 [16]</p>
 <p>8.在<a href="../Page/汝矣島.md" title="wikilink">汝矣島某大樓外集資籌款販賣</a>：手工香燭和<a href="../Page/芳香療法.md" title="wikilink">無火香薰</a><a href="../Page/精油.md" title="wikilink">精油</a>， 手工甜餅和棉花糖 [17]</p>

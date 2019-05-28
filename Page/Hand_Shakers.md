@@ -142,7 +142,7 @@ Shakers」，被稱為「寧錄」的超能力是透過握手而發動的。而�
 ### 主題歌
 
   - 片頭曲「One Hand Message」
-    作詞：，編曲：[Tom-H@ck](../Page/Tom-H@ck.md "wikilink")，作曲、主唱：[OxT](https://zh.wikipedia.org/wiki/OxT "wikilink")
+    作詞：，編曲：[Tom-H@ck](../Page/Tom-H@ck.md "wikilink")，作曲、主唱：[OxT](../Page/OxT.md "wikilink")
   - 片尾曲「」
     作詞、作曲、主唱：[新居昭乃](../Page/新居昭乃.md "wikilink")，編曲：
   - 插曲「」（第8話－第10話）
@@ -169,7 +169,7 @@ Shakers」，被稱為「寧錄」的超能力是透過握手而發動的。而�
 <td><p>Conductor to Contact</p></td>
 <td><p>八薙玉造<br />
 <a href="../Page/金澤洪充.md" title="wikilink">金澤洪充</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/島津裕行" title="wikilink">島津裕行</a><br />
+<td><p><a href="../Page/島津裕行.md" title="wikilink">島津裕行</a><br />
 <a href="../Page/鈴木信吾_(動畫師).md" title="wikilink">鈴木信吾</a></p></td>
 <td><p>橫峯克昌</p></td>
 <td><p>內田孝行、古田誠、岡田直樹<br />

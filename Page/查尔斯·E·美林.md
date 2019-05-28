@@ -1,4 +1,4 @@
-**查尔斯·爱德华·梅里尔**（，\[1\]）是美国股票经纪人，银行家，慈善家，和[埃德蒙·C·林奇共同创立](https://zh.wikipedia.org/wiki/埃德蒙·C·林奇 "wikilink")[美林证券公司](../Page/美林证券.md "wikilink")（以前称为Charles
+**查尔斯·爱德华·梅里尔**（，\[1\]）是美国股票经纪人，银行家，慈善家，和[埃德蒙·C·林奇共同创立](../Page/埃德蒙·C·林奇.md "wikilink")[美林证券公司](../Page/美林证券.md "wikilink")（以前称为Charles
 E. Merrill＆Co.）
 
 ## 早年生活

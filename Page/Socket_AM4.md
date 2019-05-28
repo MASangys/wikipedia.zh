@@ -1,16 +1,16 @@
 **Socket
-AM4**是[超微半導體公司開發的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[中央處理器插座](../Page/CPU插座.md "wikilink")，用於[Zen微架構的](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")[Ryzen處理器以及ARM公司授權AMD開發的](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink")[ARM架構處理器上](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")。\[1\]\[2\]
+AM4**是[超微半導體公司開發的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[中央處理器插座](../Page/CPU插座.md "wikilink")，用於[Zen微架構的](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")[Ryzen處理器以及ARM公司授權AMD開發的](../Page/AMD_Ryzen.md "wikilink")[ARM架構處理器上](https://zh.wikipedia.org/wiki/ARM架構 "wikilink")。\[1\]\[2\]
 
 在此之前AMD在消費級市場的劃分中，高性能[台式机採用的是](https://zh.wikipedia.org/wiki/台式机 "wikilink")[Socket
 AM3+](../Page/Socket_AM3+.md "wikilink")，主流性能桌上型電腦採用的是[Socket
 FM2+](../Page/Socket_FM2+.md "wikilink")，入門級台式机則是另立[Socket
-AM1](https://zh.wikipedia.org/wiki/Socket_AM1 "wikilink")，如此多的連接器規格令成本增加，並且用户的選擇范围變得狹窄，因此AMD使用Socket
+AM1](../Page/Socket_AM1.md "wikilink")，如此多的連接器規格令成本增加，並且用户的選擇范围變得狹窄，因此AMD使用Socket
 AM4的目的便是將目前繁多的處理器連接器規格統一起來。\[3\]\[4\]
 2015年6月，AMD的技術發展規劃將原定主流性能台式机使用的FM3也更換為AM4。\[5\]行動平台則是改成了使用[Socket
 FP4介面](https://zh.wikipedia.org/wiki/Socket_FP4 "wikilink")，伺服器/工作站採用的是高規格的[Socket
-SP3](https://zh.wikipedia.org/wiki/Socket_SP3 "wikilink")，並衍生有Ryzen
+SP3](../Page/Socket_SP3.md "wikilink")，並衍生有Ryzen
 ThreadRipper系列使用的[Socket
-TR4](https://zh.wikipedia.org/wiki/Socket_TR4 "wikilink")。
+TR4](../Page/Socket_TR4.md "wikilink")。
 
 ## 技術特性
 
@@ -20,7 +20,7 @@ AM3+、FM2+以及AM1，管腳排列大幅變動、管腳數量增加。插座的
 40mm × 40mm，插針陣列封裝，不過儘管如此，Socket
 AM4的散熱器扣具仍有所變動，不能完全相容AM2至AM3+時代的[散熱器](https://zh.wikipedia.org/wiki/散熱模組 "wikilink")，部分副廠設計的散熱器需要更換新的扣具方能安裝於Socket
 AM4上。\[6\]\[7\]處理器的最大[熱設計功耗是](https://zh.wikipedia.org/wiki/熱設計功耗 "wikilink")140W。\[8\]另外，CPU晶粒採用和AMD以往的[Socket
-754平台一樣的裸露處理器](../Page/Socket_754.md "wikilink")[晶粒形式](https://zh.wikipedia.org/wiki/晶粒 "wikilink")，不過AMD在此代中，和[自家的GPU產品一樣](https://zh.wikipedia.org/wiki/AMD_Radeon "wikilink")，加上了金屬保護框來降低晶片被壓碎的機率，這樣做的散熱效能比對手[英特爾的金屬保護蓋](https://zh.wikipedia.org/wiki/英特爾 "wikilink")+[導熱膏的要好](https://zh.wikipedia.org/wiki/導熱膏 "wikilink")。\[9\]不過首款採用Zen微架構的處理器產品AMD
+754平台一樣的裸露處理器](../Page/Socket_754.md "wikilink")[晶粒形式](../Page/晶粒.md "wikilink")，不過AMD在此代中，和[自家的GPU產品一樣](https://zh.wikipedia.org/wiki/AMD_Radeon "wikilink")，加上了金屬保護框來降低晶片被壓碎的機率，這樣做的散熱效能比對手[英特爾的金屬保護蓋](https://zh.wikipedia.org/wiki/英特爾 "wikilink")+[導熱膏的要好](https://zh.wikipedia.org/wiki/導熱膏 "wikilink")。\[9\]不過首款採用Zen微架構的處理器產品AMD
 Ryzen，仍然使用硬釬焊（金属铟）將金屬頂蓋覆蓋處理器晶片之上的設計。\[10\]
 
 採用Socket
@@ -32,7 +32,7 @@ Ryzen也使用了半SoC化設計，整合PCIe
 
 Socket
 AM4的處理器均內建的[PCIe控制器](https://zh.wikipedia.org/wiki/PCIe "wikilink")，最多可提供24條PCIe匯流排通道，其中4～8條可供晶片組使用，4～16條供單個或多個GPU使用，餘下的可供其它用途使用（如[M.2](../Page/M.2.md "wikilink")/[U.2](https://zh.wikipedia.org/wiki/U.2 "wikilink")、SATA控制器/[SATA
-Express連接埠或是直接作為PCIe插槽等](https://zh.wikipedia.org/wiki/SATA_Express "wikilink")），目前支援至PCIe
+Express連接埠或是直接作為PCIe插槽等](../Page/SATA_Express.md "wikilink")），目前支援至PCIe
 3.0規格。但是，目前由晶片組提供的PCIe通道只支援到PCIe 2.0規格\[13\]
 
 ## 部署使用
@@ -44,7 +44,7 @@ AM4的[FCH晶片組是B](https://zh.wikipedia.org/wiki/AMD_FCH "wikilink")350、
 Ridge」的AMD加速處理器。這些[晶片組支援](https://zh.wikipedia.org/wiki/晶片組 "wikilink")[PCIe
 3.0](https://zh.wikipedia.org/wiki/PCIe "wikilink")、[USB
 3.1](../Page/USB_3.1.md "wikilink")、[SATA
-Express](https://zh.wikipedia.org/wiki/SATA_Express "wikilink")（支援[NVMe](https://zh.wikipedia.org/wiki/NVM_Express "wikilink")/[AHCI邏輯界面](../Page/AHCI.md "wikilink")）等功能。AMD
+Express](../Page/SATA_Express.md "wikilink")（支援[NVMe](../Page/NVM_Express.md "wikilink")/[AHCI邏輯界面](../Page/AHCI.md "wikilink")）等功能。AMD
 Ryzen發表時還有性能級型號X370發表，\[14\]\[15\]\[16\]\[17\]這些晶片組是AMD委託台灣祥碩科技設計而來。\[18\]主機板尺寸除了[ATX](../Page/ATX規格.md "wikilink")、[M-ATX以外](../Page/MicroATX.md "wikilink")，還有以往極其罕見的基於AMD旗艦CPU系統平台的[ITX尺寸的導入使用](https://zh.wikipedia.org/wiki/Mini-ITX "wikilink")。\[19\]
 
 ### 微處理器
@@ -62,7 +62,7 @@ Ridge」，桌上型電腦使用的Ryzen 3、5、7系列全部使用採用了Soc
 AM4，後續推出的核心代號為「Raven Ridge」的桌上型APU產品線、「Pinnacle
 Ridge」改進型Ryzen系列也使用這個插槽，全爲4核心至8核心、雙通道記憶體支援、24條PCIe通道的規格。不過8核心以上配置的Ryzen
 Threadripper系列則是採用了[Socket
-TR4介面](https://zh.wikipedia.org/wiki/Socket_TR4 "wikilink")；行動型處理器Ryzen
+TR4介面](../Page/Socket_TR4.md "wikilink")；行動型處理器Ryzen
 Mobile系列採用輕薄化的BGA封裝（即Socket FP5介面）\[23\]。
 
 ## 參見

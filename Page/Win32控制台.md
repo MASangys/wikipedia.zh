@@ -45,7 +45,7 @@ C++类似的库被称为EasyWin。
 
 与[Windows NT相比](../Page/Windows_NT.md "wikilink")，[Windows
 9x支持较差](../Page/Windows_9x.md "wikilink")，因为它的控制台窗口运行在中，并因此对Win32控制台应用程序的键盘输入是直接由运行DOS虚拟机的**conagent.exe**挂钩（Hook）截取。`conagent.exe`然后调用**Vcond**
-（一个[VxD](https://zh.wikipedia.org/wiki/VxD "wikilink")）**，Vcond**然后必须将键盘输入传递给系统虚拟机，并最终到达Win32控制台应用程序。除了性能问题，这种实现还有一个问题，DOS虚拟机不能看到Win32控制台应用程序本应看到的本地驱动器，这可能引致混乱。
+（一个[VxD](../Page/VxD.md "wikilink")）**，Vcond**然后必须将键盘输入传递给系统虚拟机，并最终到达Win32控制台应用程序。除了性能问题，这种实现还有一个问题，DOS虚拟机不能看到Win32控制台应用程序本应看到的本地驱动器，这可能引致混乱。
 
 在Windows
 9x上，屏幕缓冲区反映了的结构，每个字符用两个[字节存储](../Page/字节.md "wikilink")：字符代码一个字节，属性一个字节（字符必须在中，属性表示高强度背景/不闪烁）。如果使用真实的VGA文本模式，操作速度将大大加快。

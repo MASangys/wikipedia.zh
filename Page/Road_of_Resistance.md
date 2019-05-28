@@ -5,7 +5,7 @@ FOX RECORDS發行](../Page/TOY'S_FACTORY.md "wikilink")\[1\]\[2\]\[3\]\[4\]。
 ## 概況
 
 2015年1月7日於現場專輯《[LIVE AT BUDOKAN 〜RED
-NIGHT〜](https://zh.wikipedia.org/wiki/LIVE_AT_BUDOKAN_〜RED_NIGHT〜 "wikilink")》首批限量版中附贈錄音室的版本\[5\]。2015年2月1日作為單曲以數位下載的形式發行\[6\]。之後，在2015年5月至6月間追加發行首張錄音室專輯《[BABYMETAL](../Page/BABYMETAL_\(專輯\).md "wikilink")》的歐版與美版中，以的方式收錄\[7\]。
+NIGHT〜](../Page/LIVE_AT_BUDOKAN_〜RED_NIGHT〜.md "wikilink")》首批限量版中附贈錄音室的版本\[5\]。2015年2月1日作為單曲以數位下載的形式發行\[6\]。之後，在2015年5月至6月間追加發行首張錄音室專輯《[BABYMETAL](../Page/BABYMETAL_\(專輯\).md "wikilink")》的歐版與美版中，以的方式收錄\[7\]。
 
 2016年4月1日，收錄在第二張錄音室專輯《[METAL
 RESISTANCE](../Page/METAL_RESISTANCE.md "wikilink")》的所有版本中。
@@ -71,7 +71,7 @@ of Death）。在吉他與鼓正式開始演奏時，成員也跳起像騎馬打
 
   - Sam Totman — 吉他・編曲
 
-  - [Leda](https://zh.wikipedia.org/wiki/Leda "wikilink") — 貝斯
+  - [Leda](../Page/Leda.md "wikilink") — 貝斯
 
   - Ettore Rigotti — 混音・母帶工程
 

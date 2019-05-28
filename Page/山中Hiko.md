@@ -1,4 +1,4 @@
-**山中Hiko**（，），[日本女性](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")[O型](https://zh.wikipedia.org/wiki/ABO血型系統 "wikilink")\[1\]。她的作品主要在[BL雜誌](https://zh.wikipedia.org/wiki/BL_\(和製英語\) "wikilink")\[2\]和女性雜誌\[3\]發表。
+**山中Hiko**（，），[日本女性](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")、[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")。[血型](https://zh.wikipedia.org/wiki/血型 "wikilink")[O型](https://zh.wikipedia.org/wiki/ABO血型系統 "wikilink")\[1\]。她的作品主要在[BL雜誌](../Page/BL_\(和製英語\).md "wikilink")\[2\]和女性雜誌\[3\]發表。
 
 ## 作品列表
 
@@ -173,7 +173,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/春&amp;夏事件簿.md" title="wikilink">春&amp;夏事件簿系列</a>（）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/初野晴" title="wikilink">初野晴</a></p></td>
+<td><p><a href="../Page/初野晴.md" title="wikilink">初野晴</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/角川文庫" title="wikilink">角川文庫</a><br />
  <a href="../Page/獨步文化.md" title="wikilink">獨步文化</a></p></td>
 <td><p>2008年10月29日－<strong>連載中</strong></p></td>

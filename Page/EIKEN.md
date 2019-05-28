@@ -10,7 +10,7 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 
 1969年4月，TCJ改名為株式會社TCJ（<small></small>）之際，TCJ動畫部門從TCJ獨立，公司登記名稱為「株式會社TCJ動畫中心（<small></small>）」\[3\]。一方面，到目前為止以從事動畫製作為中心的高橋茂人則是成立（《[嚕嚕米](../Page/姆明.md "wikilink")》和《[阿爾卑斯山的少女](https://zh.wikipedia.org/wiki/阿爾卑斯山的少女 "wikilink")》的製作公司）。
 
-1973年5月，TCJ將所有股權讓渡，改名為現在的「**株式會社EIKEN**」\[4\]。而「EIKEN」命名來自以前TCJ時期和EIKEN的首任社長[村田英憲的名字](https://zh.wikipedia.org/wiki/村田英憲 "wikilink")「英憲」的[音讀念法](../Page/音讀.md "wikilink")\[5\]。
+1973年5月，TCJ將所有股權讓渡，改名為現在的「**株式會社EIKEN**」\[4\]。而「EIKEN」命名來自以前TCJ時期和EIKEN的首任社長[村田英憲的名字](../Page/村田英憲.md "wikilink")「英憲」的[音讀念法](../Page/音讀.md "wikilink")\[5\]。
 
 2002年7月，大型廣告代理商[旭通廣告](https://zh.wikipedia.org/wiki/旭通廣告 "wikilink")（ADK）取得EIKEN的70%股權之後，與[富士電視台連結成為關係企業](../Page/富士電視台.md "wikilink")，剩餘10%則由富士電視台繼續保有。而TCJ因為完全成為旗下子公司，與EIKEN的關係逐漸淡化。
 
@@ -465,8 +465,8 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 
   - （前宣弘社所屬製作人）
 
-  - [松下洋子](https://zh.wikipedia.org/wiki/松下洋子 "wikilink")（[Kitty
-    film](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")→[ADK出身](../Page/旭通DK.md "wikilink")）
+  - [松下洋子](../Page/松下洋子.md "wikilink")（[Kitty
+    film](../Page/Kitty_film.md "wikilink")→[ADK出身](../Page/旭通DK.md "wikilink")）
 
 ### 動畫師、演出家
 
@@ -538,7 +538,7 @@ Japan，簡稱TCJ）\[2\]。只是電視的普及率比預期中還要早，1950
 
   - 大濱誠（編劇、前文藝擔當）
 
-  - 中座洋次（背景工作室[草薙代表董事](https://zh.wikipedia.org/wiki/草薙_\(動畫工作室\) "wikilink")、前美術擔當）
+  - 中座洋次（背景工作室[草薙代表董事](../Page/草薙_\(動畫工作室\).md "wikilink")、前美術擔當）
 
   - 藤田勉（Studio WHO代表、前美術擔當）
 

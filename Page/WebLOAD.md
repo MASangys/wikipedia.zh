@@ -20,7 +20,7 @@ WebLOAD于1997年8月首次推出。\[5\]自推出以来，已经发布了20多�
 | 8.6    | 2010年12月 | 新参数化管理器（New Parameterization Manager）/统计关联（Statistical Correlation）                                                                              |
 | 9.0    | 2012年8月  | 从[云端（Cloud）加载测试](../Page/云.md "wikilink")/探测客户端（Probed Client）统计信息/扩展验证（Extended Validation）引擎                                                   |
 | 10.0   | 2013年5月  | 新用户界面和用户体验/移动支持/[IPv6](../Page/IPv6.md "wikilink")/监控 - 通过[SSH方式的Linux](../Page/Secure_Shell.md "wikilink")                                      |
-| 10.1   | 2013年12月 | [Jenkins的插件](https://zh.wikipedia.org/wiki/Jenkins_\(软件\) "wikilink")/与集成                                                                        |
+| 10.1   | 2013年12月 | [Jenkins的插件](../Page/Jenkins_\(软件\).md "wikilink")/与集成                                                                                           |
 | 10.2   | 2014年12月 | Web仪表板（Dashboard）/[WebSockets测试](../Page/WebSocket.md "wikilink")/与Perfecto Mobile集成/与Dynatrace集成/[JSON支持](../Page/JSON.md "wikilink")           |
 | 10.3   | 2015年10月 | [推送技术支持](../Page/推送技术.md "wikilink")/使用的WebDriver进行负载测试/与Git存储库集成/[XMLHttpRequest对象](https://zh.wikipedia.org/wiki/XMLHTTP "wikilink")（Object）支持 |
 | 10.3.1 | 2016年2月  | 能够在执行期间冻结和解冻测试/与集成/ 和Original Software的测试驱动器（Test Drive）支持                                                                                       |

@@ -25,8 +25,7 @@
   - [七戀天氣雨](https://zh.wikipedia.org/wiki/七戀天氣雨 "wikilink")
 
   -
-  - [Innocent
-    Girl](https://zh.wikipedia.org/wiki/Innocent_Girl "wikilink")
+  - [Innocent Girl](../Page/Innocent_Girl.md "wikilink")
 
 ### 小說
 

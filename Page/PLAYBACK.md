@@ -6,7 +6,7 @@ Woolim在加入PLAYBACK前曾在[JYP娱乐当了](../Page/JYP娛樂.md "wikilink
 
 PLAYBACK在2015年6月25日发布同名单曲专辑《Playback》。三个月后，组合计划在9月2日推出一张全新的单曲专辑。\[2\] 该专辑叫《没有吗
 (없을까)》，该专辑与[Eric
-Nam合作录制](https://zh.wikipedia.org/wiki/Eric_Nam "wikilink")。\[3\] 该歌曲吸引了媒体的关注，因为歌曲制作团队是挪威的ELEMENT。\[4\]
+Nam合作录制](../Page/Eric_Nam.md "wikilink")。\[3\] 该歌曲吸引了媒体的关注，因为歌曲制作团队是挪威的ELEMENT。\[4\]
 
 Eunjin在《[K-pop Star
 6](../Page/K-pop_Star_6.md "wikilink")》中被淘汰后，2017年4月13日加入到组合中。\[5\]
@@ -54,7 +54,7 @@ CAMPUS》。
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong>没有吗？ (없을까?)</strong> <small>feat. <a href="https://zh.wikipedia.org/wiki/Eric_Nam" title="wikilink">Eric Nam</a>》</small></p>
+<td><p>《<strong>没有吗？ (없을까?)</strong> <small>feat. <a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a>》</small></p>
 <ul>
 <li>发行日期：2015年9月22日</li>
 <li>语言：韩语</li>
@@ -122,7 +122,7 @@ CAMPUS》。
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>“I Wonder (없을까?)” <small>feat. <a href="https://zh.wikipedia.org/wiki/Eric_Nam" title="wikilink">Eric Nam</a></small></p></td>
+<td><p>“I Wonder (없을까?)” <small>feat. <a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a></small></p></td>
 <td></td>
 <td></td>
 </tr>

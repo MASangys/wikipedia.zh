@@ -28,7 +28,7 @@ Ending**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilin
 <td><p><strong>宋秀赫</strong></p></td>
 <td><p>娛樂媒體記者，韓美貌的國小同學，多年後又再次與韓美貌重逢</p></td>
 <td><p><a href="../Page/李世揚.md" title="wikilink">李世揚</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/方榮基" title="wikilink">方榮基</a><br />
+<td><p><a href="../Page/方榮基.md" title="wikilink">方榮基</a><br />
 <small>（童年：<a href="https://zh.wikipedia.org/wiki/冼詠儀" title="wikilink">冼詠儀</a>）</small></p></td>
 </tr>
 <tr class="odd">
@@ -36,8 +36,8 @@ Ending**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilin
 <small>（童年：）</small></p></td>
 <td><p><strong>韓美貌</strong></p></td>
 <td><p>偶像團體Angels成員出身，「勇敢的婚禮」公司負責人，在婚姻路上跌倒過，而創立了再婚諮詢公司</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馮嘉德" title="wikilink">馮嘉德</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/劉曉樺" title="wikilink">劉曉樺</a></p></td>
+<td><p><a href="../Page/馮嘉德.md" title="wikilink">馮嘉德</a></p></td>
+<td><p><a href="../Page/劉曉樺.md" title="wikilink">劉曉樺</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/劉寅娜.md" title="wikilink">劉寅娜</a></strong></p></td>
@@ -93,7 +93,7 @@ Ending**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilin
 <td><p>鄭雅妮</p></td>
 <td><p>秀赫的同事，娛樂媒體記者</p></td>
 <td><p><a href="../Page/傅其慧.md" title="wikilink">傅其慧</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/謝穎茵" title="wikilink">謝穎茵</a><br />
+<td><p><a href="../Page/謝穎茵.md" title="wikilink">謝穎茵</a><br />
 <a href="../Page/林司聰.md" title="wikilink">林司聰</a>（代配）</p></td>
 </tr>
 <tr class="odd">
@@ -251,7 +251,7 @@ Ending**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilin
 <td><p><a href="../Page/杜景煜.md" title="wikilink">杜景煜</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李秀智" title="wikilink">李秀智</a></p></td>
+<td><p><a href="../Page/李秀智.md" title="wikilink">李秀智</a></p></td>
 <td><p>民願商談員</p></td>
 <td><p>政府單位電話客服</p></td>
 <td></td>

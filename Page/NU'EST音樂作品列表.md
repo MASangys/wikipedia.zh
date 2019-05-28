@@ -288,7 +288,7 @@ NU'EST音樂作品列表主要列舉韓國男子音樂組合[NU'EST及其子團�
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/NU&#39;EST_BEST_IN_KOREA" title="wikilink">NU'EST BEST IN KOREA</a></strong>》</p>
+<td><p>《<strong><a href="../Page/NU&#39;EST_BEST_IN_KOREA.md" title="wikilink">NU'EST BEST IN KOREA</a></strong>》</p>
 <ul>
 <li>發行日期：2014年7月30日</li>
 <li>語言：韓語、日語</li>
@@ -299,7 +299,7 @@ NU'EST音樂作品列表主要列舉韓國男子音樂組合[NU'EST及其子團�
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Bridge_the_World" title="wikilink">Bridge the World</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Bridge_the_World.md" title="wikilink">Bridge the World</a></strong>》</p>
 <ul>
 <li>發行日期：2015年11月18日</li>
 <li>語言：日語、韓語、英語</li>

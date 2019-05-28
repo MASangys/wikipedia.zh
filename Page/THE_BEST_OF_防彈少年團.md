@@ -37,7 +37,7 @@ Hit娛樂在防彈少年團的日本官方網站公佈發行精選輯的消息�
 
   - 全碟填詞：
   - 全碟作曲（成员）：[Rap
-    Monster](../Page/金南俊.md "wikilink")、[SUGA](../Page/閔玧其.md "wikilink")、[j-hope](https://zh.wikipedia.org/wiki/鄭號錫 "wikilink")、[Jung
+    Monster](../Page/金南俊.md "wikilink")、[SUGA](../Page/閔玧其.md "wikilink")、[j-hope](../Page/鄭號錫.md "wikilink")、[Jung
     Kook](../Page/田柾國.md "wikilink")及[V](https://zh.wikipedia.org/wiki/金泰亨_\(1995年生\) "wikilink")
 
 ### JAPAN EDITION

@@ -49,15 +49,14 @@ RAMI配有原廠內置的[戰鬥型瞄準具](../Page/機械瞄具.md "wikilink"
 
   - [CZ 75手槍](../Page/CZ_75手槍.md "wikilink")
   - [CZ 75 P-01手槍](../Page/CZ_75_P-01手槍.md "wikilink")
-  - [CZ 75
-    P-07手槍](https://zh.wikipedia.org/wiki/CZ_75_P-07手槍 "wikilink")
+  - [CZ 75 P-07手槍](../Page/CZ_75_P-07手槍.md "wikilink")
   - [CZ 75 P-09手槍](../Page/CZ_75_P-09手槍.md "wikilink")
   - [CZ 75 SP-01手槍](../Page/CZ_75_SP-01手槍.md "wikilink")
   - [CZ 75戰術運動型手槍](../Page/CZ_75戰術運動型手槍.md "wikilink")
   - [CZ 82手槍](../Page/CZ_82手槍.md "wikilink")
   - [CZ 85手槍](../Page/CZ_85手槍.md "wikilink")
   - [CZ 97手槍](../Page/CZ_97手槍.md "wikilink")
-  - [CZ 100手槍](https://zh.wikipedia.org/wiki/CZ_100手槍 "wikilink")
+  - [CZ 100手槍](../Page/CZ_100手槍.md "wikilink")
   - [CZ 110手槍](../Page/CZ_110手槍.md "wikilink")
   - [CZ P-10 C手槍](../Page/CZ_P-10_C手槍.md "wikilink")
 

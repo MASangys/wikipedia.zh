@@ -229,8 +229,7 @@
 
 2017年7月13日起在[TOKYO
 MX](../Page/東京都會電視台.md "wikilink")、[SUN電視台](https://zh.wikipedia.org/wiki/SUN電視台 "wikilink")、[日本BS放送及](../Page/日本BS放送.md "wikilink")[AT-X等電視台首播](../Page/AT-X.md "wikilink")\[4\]。動畫由[PINE
-JAM製作](https://zh.wikipedia.org/wiki/PINE_JAM "wikilink")，也是PINE
-JAM首次總承包通常30分鐘的電視動畫。
+JAM製作](../Page/PINE_JAM.md "wikilink")，也是PINE JAM首次總承包通常30分鐘的電視動畫。
 
 劇本統籌由以前參加電影編劇的擔任，也是內田首次參加動畫編劇的作品。
 
@@ -251,11 +250,10 @@ JAM首次總承包通常30分鐘的電視動畫。
   - 音樂制作：[NBC環球娛樂](../Page/NBC環球娛樂.md "wikilink")
   - 製作人：小倉充俊、村主達哉、相田剛、岡村武真、金子廣孝、大和田智之、菊政克美、兼光一博
   - 動畫製作人：向峠和喜
-  - 動畫製作：[PINE
-    JAM](https://zh.wikipedia.org/wiki/PINE_JAM "wikilink")\[10\]
+  - 動畫製作：[PINE JAM](../Page/PINE_JAM.md "wikilink")\[10\]
   - 製作：Gamers
     電玩咖！製作委員会（NBC環球娛樂、[KADOKAWA](../Page/KADOKAWA.md "wikilink")、[Frontier
-    Works](../Page/Frontier_Works.md "wikilink")、[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")、[TOKYO
+    Works](../Page/Frontier_Works.md "wikilink")、[創通](../Page/創通.md "wikilink")、[TOKYO
     MX](../Page/東京都會電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、[BS11](../Page/日本BS放送.md "wikilink")、、[i0plus](http://i0plus.jp/)）
 
 ### 主題曲
@@ -267,7 +265,7 @@ JAM首次總承包通常30分鐘的電視動畫。
   -
 
       -
-        作詞、作曲、編曲：[Mafumafu](https://zh.wikipedia.org/wiki/Mafumafu "wikilink")，主唱：天道花憐（[金元壽子](../Page/金元壽子.md "wikilink")）、星之守千秋（[石見舞菜香](https://zh.wikipedia.org/wiki/石見舞菜香 "wikilink")）、亞玖璃（[大久保瑠美](../Page/大久保瑠美.md "wikilink")）
+        作詞、作曲、編曲：[Mafumafu](../Page/Mafumafu.md "wikilink")，主唱：天道花憐（[金元壽子](../Page/金元壽子.md "wikilink")）、星之守千秋（[石見舞菜香](../Page/石見舞菜香.md "wikilink")）、亞玖璃（[大久保瑠美](../Page/大久保瑠美.md "wikilink")）
 
 <!-- end list -->
 
@@ -372,7 +370,7 @@ Twinkle Wink☆](../Page/Luce_Twinkle_Wink☆.md "wikilink")
 <td><p>瀧本祥子、關口雅浩<br />
 館崎大、後藤麻梨子<br />
 小澤圓</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/生肉ATK" title="wikilink">生肉ATK</a></p></td>
+<td><p><a href="../Page/生肉ATK.md" title="wikilink">生肉ATK</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -492,7 +490,7 @@ Twinkle Wink☆](../Page/Luce_Twinkle_Wink☆.md "wikilink")
 <tr class="odd">
 <td><p>2017年7月13日－9月28日</p></td>
 <td><p>星期四 23時30分－24時00分</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
+<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV</a></p></td>
 <td><p>有重播</p></td>
 </tr>
 <tr class="even">

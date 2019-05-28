@@ -48,11 +48,11 @@
   - 《[一人之下](../Page/一人之下.md "wikilink")》柳妍妍
   - 《[战国FAN](https://zh.wikipedia.org/wiki/战国FAN "wikilink")》黑起后援团、杀意帮帮众、杏宝宝
   - 《[狠西游](https://zh.wikipedia.org/wiki/狠西游 "wikilink")》丁小予
-  - 《[凸变英雄](https://zh.wikipedia.org/wiki/凸变英雄 "wikilink")》路人女、小敏妈、小姐
+  - 《[凸变英雄](../Page/凸变英雄.md "wikilink")》路人女、小敏妈、小姐
   - 《[和女儿的日常](https://zh.wikipedia.org/wiki/和女儿的日常 "wikilink")》妈妈
   - 《[女生宿舍日常](https://zh.wikipedia.org/wiki/女生宿舍日常 "wikilink")》宿管阿姨
   - 《[欧布奥特曼：原生之初](https://zh.wikipedia.org/wiki/欧布奥特曼：原生之初 "wikilink")》（中文版）西冈结衣
-  - 《[墓王之王](https://zh.wikipedia.org/wiki/墓王之王 "wikilink")》神差/沐雪离
+  - 《[墓王之王](../Page/墓王之王.md "wikilink")》神差/沐雪离
   - 《[我的冒险世界](https://zh.wikipedia.org/wiki/我的冒险世界 "wikilink")》李葛
 
 <!-- end list -->

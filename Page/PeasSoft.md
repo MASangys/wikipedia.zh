@@ -25,7 +25,7 @@
 <td><p>箕崎准</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/戀色Chu!Lips" title="wikilink">戀色Chu!Lips</a></p></td>
+<td><p><a href="../Page/戀色Chu!Lips.md" title="wikilink">戀色Chu!Lips</a></p></td>
 <td><p>2006年6月30日</p></td>
 <td><p>オダワラハコネ</p></td>
 <td><p>やーも、灰猫</p></td>
@@ -91,7 +91,7 @@
 <td><p>武藤礼恵</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/執事選擇公主之時" title="wikilink">執事選擇公主之時</a></p></td>
+<td><p><a href="../Page/執事選擇公主之時.md" title="wikilink">執事選擇公主之時</a></p></td>
 <td><p>2013年5月24日</p></td>
 <td><p>さとーさとる、あんころもち</p></td>
 <td><p>神野マサキ、望月JET</p></td>
@@ -103,7 +103,7 @@
 <td><p>宮村優、センヤ、藤原権太楼</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/戀愛姐妹六重奏" title="wikilink">戀愛姐妹六重奏</a></p></td>
+<td><p><a href="../Page/戀愛姐妹六重奏.md" title="wikilink">戀愛姐妹六重奏</a></p></td>
 <td><p>2014年2月28日</p></td>
 <td><p>羽鳥ぴよこ、カズナリ、熊虎たつみ</p></td>
 <td><p>芳井一</p></td>
@@ -115,7 +115,7 @@
 <td><p>神野マサキ、望月JET</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/中二病女友的戀愛方程式" title="wikilink">中二病女友的戀愛方程式</a></p></td>
+<td><p><a href="../Page/中二病女友的戀愛方程式.md" title="wikilink">中二病女友的戀愛方程式</a></p></td>
 <td><p>2015年5月29日</p></td>
 <td><p>蟹屋しく、ゆき恵</p></td>
 <td><p>芳井一</p></td>

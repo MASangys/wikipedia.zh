@@ -1,5 +1,5 @@
 **李昕**（）[藝名](../Page/藝名.md "wikilink")**Amis艾蜜絲**曾在[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigirls與](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")[Fubon
-Angels擔任](https://zh.wikipedia.org/wiki/Fubon_Angels "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink")，在臉書粉絲擁有超過30萬名粉絲有「啦啦隊女神」美稱！\[1\]
+Angels擔任](../Page/Fubon_Angels.md "wikilink")[啦啦隊](../Page/啦啦隊.md "wikilink")，在臉書粉絲擁有超過30萬名粉絲有「啦啦隊女神」美稱！\[1\]
 
 ## 經歷
 
@@ -7,8 +7,7 @@ Angels擔任](https://zh.wikipedia.org/wiki/Fubon_Angels "wikilink")[啦啦隊](
   - 2013年\~2016年
     [Lamigirls](https://zh.wikipedia.org/wiki/Lamigirls "wikilink")
   - 2014年\~2016年 [神魔之塔女將](../Page/神魔之塔.md "wikilink")
-  - 2017年\~2018年 [Fubon
-    Angels](https://zh.wikipedia.org/wiki/Fubon_Angels "wikilink")
+  - 2017年\~2018年 [Fubon Angels](../Page/Fubon_Angels.md "wikilink")
   - 2018年12月\~至今
     [Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")
 

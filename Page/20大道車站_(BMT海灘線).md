@@ -23,7 +23,7 @@ colspan=2|<small>[側式月台](../Page/側式月台.md "wikilink")，右側開�
 [纽约地铁W线](https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-W.svg "fig:纽约地铁W线")
 不停靠 |- |style="border-bottom:solid 1px gray;"|***中央軌道**''
 |style="border-bottom:solid 1px gray;"|道床 |- |***南行**'' |
-無服務<small>（[海灣公園道](https://zh.wikipedia.org/wiki/海灣公園道車站_\(BMT海灘線\) "wikilink")）</small>
+無服務<small>（[海灣公園道](../Page/海灣公園道車站_\(BMT海灘線\).md "wikilink")）</small>
 |- |style="border-bottom:solid 1px gray;border-top:solid 2px
 black;border-right:solid 2px black;border-left:solid 2px
 black;text-align:center;"

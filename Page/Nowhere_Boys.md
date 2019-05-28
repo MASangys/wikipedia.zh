@@ -24,7 +24,7 @@ E-Sports Festival 2016創作其主題曲《Sound of Battle》。
 
 Nowhere
 Boys名字來自關於[約翰藍儂成長的電影](https://zh.wikipedia.org/wiki/約翰·藍儂 "wikilink")“[Nowhere
-Boy](https://zh.wikipedia.org/wiki/約翰連儂：不羈前傳 "wikilink")”，當中有一幕提到他曾被學校老師潑冷水，對他說“You're
+Boy](../Page/約翰連儂：不羈前傳.md "wikilink")”，當中有一幕提到他曾被學校老師潑冷水，對他說“You're
 going nowhere.”，但他的回應竟是“Is nowhere full of geniuses,
 sir?”。樂隊成員都是[披頭四樂團超級粉絲](https://zh.wikipedia.org/wiki/披頭四樂團 "wikilink")，仰慕約翰藍儂的率性，也想到達“full
 of geniuses”的音樂國度\[3\]。
@@ -45,7 +45,7 @@ of geniuses”的音樂國度\[3\]。
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Nowhere_Boys" title="wikilink">Nowhere Boys</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/Nowhere_Boys.md" title="wikilink">Nowhere Boys</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Frenzi_Music" title="wikilink">Frenzi Music</a></p></td>
 <td style="text-align: left;"><p>2015年11月7日</p></td>

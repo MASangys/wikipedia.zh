@@ -30,7 +30,7 @@ Newtype」連載。[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 
 ### 學生
 
   -
-    有著[BL氣質的帥氣自戀狂男學生](https://zh.wikipedia.org/wiki/BL_\(和製英語\) "wikilink")。在女生中非常有人氣，甚至有可以招惹雌性動物的能力。經常會赤身裸體。
+    有著[BL氣質的帥氣自戀狂男學生](../Page/BL_\(和製英語\).md "wikilink")。在女生中非常有人氣，甚至有可以招惹雌性動物的能力。經常會赤身裸體。
     很想和男性同學交朋友，但通常會做出同性戀的行爲。一直密切關注著遙，但本人並無注意到，卻讓秋穗產生了危機感。
   -
     5班的女學生兼班長。與遥和秋穗同級。静森早夜的好友。性格嚴肅，嚴厲管制校内性知識的傳播，維持學校紀律。
@@ -140,7 +140,7 @@ ISBN 978-4-04-106422-1<small>（限定版）</small></p></td>
 <!-- end list -->
 
   - 片尾曲「」
-    作詞、作曲、編曲：no_my，主唱：pua:re（[八木侑紀](https://zh.wikipedia.org/wiki/八木侑紀 "wikilink")、[山田奈都美](../Page/山田奈都美.md "wikilink")、[水谷麻鈴](https://zh.wikipedia.org/wiki/水谷麻鈴 "wikilink")、小倉彌優）
+    作詞、作曲、編曲：no_my，主唱：pua:re（[八木侑紀](../Page/八木侑紀.md "wikilink")、[山田奈都美](../Page/山田奈都美.md "wikilink")、[水谷麻鈴](../Page/水谷麻鈴.md "wikilink")、小倉彌優）
 
 ### 各話列表
 
@@ -385,7 +385,7 @@ Han Se Hwan</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
+<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV</a></p></td>
 <td><p>2017年10月20日－12月22日</p></td>
 <td><p>星期五 24時00分－24時30分（星期五深夜）</p></td>
 <td><p>rowspan="3" </p></td>

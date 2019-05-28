@@ -10,7 +10,7 @@ Microsoft Office 2019包含 [Office
 ## 限制
 
 **官方公布此版本Office僅能在[Windows
-10上運作](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。**根據微軟的說法，Office
+10上運作](../Page/Windows_10.md "wikilink")。**根據微軟的說法，Office
 2019不再提供MSI離線安裝套件，僅透過Click-to-Run網路安裝套件的方式發放。如此一來，當使用者安裝Office
 2019的時候就只能下載數量龐大的組件，這將會對於網路速度不佳的使用者可能會造成影響。\[4\]
 

@@ -52,7 +52,7 @@ Addermine是聲音傳感器系統，它利用LAW
 
 ## 參見
 
-  - [M80反坦克火箭筒](https://zh.wikipedia.org/wiki/M80反坦克火箭筒 "wikilink")
+  - [M80反坦克火箭筒](../Page/M80反坦克火箭筒.md "wikilink")
 
   - [89式火箭筒](../Page/89式火箭筒.md "wikilink")
 

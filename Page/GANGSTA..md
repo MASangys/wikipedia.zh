@@ -399,7 +399,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[爱知電視台](https
 <!-- end list -->
 
   - 片尾曲「」
-    作詞、歌：[Annabel](https://zh.wikipedia.org/wiki/Annabel "wikilink")，作曲、編曲：R・O・N\[2\]
+    作詞、歌：[Annabel](../Page/Annabel.md "wikilink")，作曲、編曲：R・O・N\[2\]
 
 <!-- end list -->
 

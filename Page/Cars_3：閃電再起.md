@@ -63,7 +63,7 @@ Ramirez）的幫助下進行訓練，但是並不如預期所想的那般，新�
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/杜素真" title="wikilink">杜素真</a></p></td>
+<td><p><a href="../Page/杜素真.md" title="wikilink">杜素真</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/凯莉·华盛顿.md" title="wikilink">凯莉·华盛顿</a></p></td>
@@ -86,7 +86,7 @@ Ramirez）的幫助下進行訓練，但是並不如預期所想的那般，新�
 <td><p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鮑伯·彼得森" title="wikilink">鮑伯·彼得森</a></p></td>
+<td><p><a href="../Page/鮑伯·彼得森.md" title="wikilink">鮑伯·彼得森</a></p></td>
 <td><p><a href="../Page/陳國偉_(配音員).md" title="wikilink">陳國偉</a></p></td>
 </tr>
 <tr class="even">
@@ -186,7 +186,7 @@ Ramirez）的幫助下進行訓練，但是並不如預期所想的那般，新�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/安德拉·戴" title="wikilink">安德拉·戴</a></p></td>
+<td><p><a href="../Page/安德拉·戴.md" title="wikilink">安德拉·戴</a></p></td>
 <td></td>
 </tr>
 </tbody>

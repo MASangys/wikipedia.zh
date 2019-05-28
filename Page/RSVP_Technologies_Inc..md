@@ -1,7 +1,7 @@
 **RSVP Technologies
 Inc.**是一家从事[人工智能的科技公司](../Page/人工智能.md "wikilink")，主要开发[自然语言人机接口](https://zh.wikipedia.org/wiki/自然语言 "wikilink")。公司于2013年在[滑铁卢成立](https://zh.wikipedia.org/wiki/滑铁卢_\(安大略省\) "wikilink")。创始人[李明教授是](https://zh.wikipedia.org/wiki/李明_\(滑铁卢大学教授\) "wikilink")[加拿大皇家学会会士](https://zh.wikipedia.org/wiki/加拿大皇家学会 "wikilink")，现任[滑铁卢大学教授](https://zh.wikipedia.org/wiki/滑铁卢大学 "wikilink")。\[1\]
 
-RSVP公司基于[信息论](../Page/信息论.md "wikilink")、[深度学习与](https://zh.wikipedia.org/wiki/深度学习 "wikilink")[自然语言处理技术](../Page/自然语言处理.md "wikilink")，开发了深度语义理解平台“薄言超脑”\[2\]。该平台以自然语言的句子为输入，自动生成回复进行输出。在互联网大数据与机器学习的帮助下，该平台构建了大量的中英文知识，并可逐步提高对话能力。
+RSVP公司基于[信息论](../Page/信息论.md "wikilink")、[深度学习与](../Page/深度学习.md "wikilink")[自然语言处理技术](../Page/自然语言处理.md "wikilink")，开发了深度语义理解平台“薄言超脑”\[2\]。该平台以自然语言的句子为输入，自动生成回复进行输出。在互联网大数据与机器学习的帮助下，该平台构建了大量的中英文知识，并可逐步提高对话能力。
 
 RSVP公司曾与[华为](../Page/华为.md "wikilink")、[四维图新](https://zh.wikipedia.org/wiki/四维图新 "wikilink")、[中国气象局和中国多个省市旅游局开展合作](../Page/中国气象局.md "wikilink")，开发产品包括智能旅游导游、行车导航助手等\[3\]。目前，RSVP公司正在开发面向学龄儿童的智能玩具机器人“豆豆”\[4\]。
 

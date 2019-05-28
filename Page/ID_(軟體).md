@@ -2,7 +2,7 @@
 
 ## 使用
 
-iD的功能包含了選擇自訂的空照圖與對[Mapillary的原生支援](https://zh.wikipedia.org/wiki/Mapillary "wikilink")。
+iD的功能包含了選擇自訂的空照圖與對[Mapillary的原生支援](../Page/Mapillary.md "wikilink")。
 
 iD也有一些特殊用途的[分支版本](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")：
 

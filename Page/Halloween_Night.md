@@ -303,12 +303,12 @@ good\!](../Page/仲夏的Sounds_good!.md "wikilink")》以來的3年多回歸選
     K：[石田晴香](../Page/石田晴香.md "wikilink")（71）、[永尾瑪利亞](../Page/永尾瑪利亞.md "wikilink")（69）
   - Team B：[大和田南那](../Page/大和田南那.md "wikilink")（75）
   - Team
-    4：[大森美優](https://zh.wikipedia.org/wiki/大森美優 "wikilink")（67）、[篠崎彩奈](https://zh.wikipedia.org/wiki/篠崎彩奈 "wikilink")（78）
+    4：[大森美優](../Page/大森美優.md "wikilink")（67）、[篠崎彩奈](../Page/篠崎彩奈.md "wikilink")（78）
   - SKE48 Team
     S：[北川綾巴](../Page/北川綾巴.md "wikilink")（66）、[竹內舞](../Page/竹內舞.md "wikilink")（76）
   - SKE48 Team KII：[石田安奈](../Page/石田安奈.md "wikilink")（77）
   - SKE48 Team
-    E：[梅本圓](../Page/梅本圓.md "wikilink")（68）、[鎌田菜月](https://zh.wikipedia.org/wiki/鎌田菜月 "wikilink")（70）、[熊崎晴香](https://zh.wikipedia.org/wiki/熊崎晴香 "wikilink")（73）、[齊藤真木子](https://zh.wikipedia.org/wiki/齊藤真木子 "wikilink")（65）
+    E：[梅本圓](../Page/梅本圓.md "wikilink")（68）、[鎌田菜月](../Page/鎌田菜月.md "wikilink")（70）、[熊崎晴香](https://zh.wikipedia.org/wiki/熊崎晴香 "wikilink")（73）、[齊藤真木子](https://zh.wikipedia.org/wiki/齊藤真木子 "wikilink")（65）
   - NMB48 Team M：[谷川愛梨](../Page/谷川愛梨.md "wikilink")（74）
   - NMB48 Team BII：[市川美織](../Page/市川美織.md "wikilink")（79）
   - HKT48 Team

@@ -84,7 +84,7 @@ Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="../Page/2017年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
 <td><p>2017年</p></td>
 <td><p>#57<br />
 （63,360張）</p></td>
@@ -93,7 +93,7 @@ Hit娛樂製作](../Page/Big_Hit娛樂.md "wikilink")，[LOEN娛樂發行](https
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
 <td><p>2018年</p></td>
 <td><p>#57<br />
 （80,100張）</p></td>

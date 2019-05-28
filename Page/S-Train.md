@@ -7,7 +7,7 @@ S-TRAIN官方LOGO的样子、使用西武40000系电力动车组走行的S-Train
 |運行路段 =
 [元町·中华街](https://zh.wikipedia.org/wiki/元町·中华街站 "wikilink")－[西武秩父](https://zh.wikipedia.org/wiki/西武秩父站 "wikilink")（休息日）、[丰洲](https://zh.wikipedia.org/wiki/丰洲站 "wikilink")－[所泽](https://zh.wikipedia.org/wiki/所泽站 "wikilink")
 |主要途徑路線 =
-[横滨高速铁道港未来线](https://zh.wikipedia.org/wiki/横滨高速铁道港未来线 "wikilink")、[东急东横线](https://zh.wikipedia.org/wiki/东急东横线 "wikilink")、[东京地铁副都心线](https://zh.wikipedia.org/wiki/东京地铁副都心线 "wikilink")、[东京地铁有乐町线](https://zh.wikipedia.org/wiki/东京地铁有乐町线 "wikilink")、[西武有樂町線](../Page/西武有樂町線.md "wikilink")、[西武池袋线](../Page/池袋線_\(西武鐵道\).md "wikilink")、[西武秩父线](https://zh.wikipedia.org/wiki/西武秩父线 "wikilink")
+[横滨高速铁道港未来线](https://zh.wikipedia.org/wiki/横滨高速铁道港未来线 "wikilink")、[东急东横线](https://zh.wikipedia.org/wiki/东急东横线 "wikilink")、[东京地铁副都心线](https://zh.wikipedia.org/wiki/东京地铁副都心线 "wikilink")、[东京地铁有乐町线](https://zh.wikipedia.org/wiki/东京地铁有乐町线 "wikilink")、[西武有樂町線](../Page/西武有樂町線.md "wikilink")、[西武池袋线](../Page/池袋線_\(西武鐵道\).md "wikilink")、[西武秩父线](../Page/西武秩父线.md "wikilink")
 |使用車輛 =
 [西武40000系电力动车组](https://zh.wikipedia.org/wiki/西武40000系电力动车组 "wikilink")
 |服務開始日 = 2017年3月25日 |服務停止日 = |備註 = 优等列车 |全寬備註 = }}
@@ -174,7 +174,7 @@ S-TRAIN官方LOGO的样子、使用西武40000系电力动车组走行的S-Train
 <td><p><a href="https://zh.wikipedia.org/wiki/西武秩父站" title="wikilink">西武秩父站</a></p></td>
 <td></td>
 <td><p>◯</p></td>
-<td><p><a href="../Page/秩父鐵道.md" title="wikilink">秩父鐵道</a>: <a href="https://zh.wikipedia.org/wiki/秩父本線" title="wikilink">秩父本線</a> ()</p></td>
+<td><p><a href="../Page/秩父鐵道.md" title="wikilink">秩父鐵道</a>: <a href="../Page/秩父本線.md" title="wikilink">秩父本線</a> ()</p></td>
 </tr>
 <tr class="even">
 <td><p>SI26</p></td>
@@ -324,7 +324,7 @@ S-TRAIN官方LOGO的样子、使用西武40000系电力动车组走行的S-Train
 </tr>
 <tr class="odd">
 <td><p>MM03</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/港未來站" title="wikilink">港未來站</a></p></td>
+<td><p><a href="../Page/港未來站.md" title="wikilink">港未來站</a></p></td>
 <td></td>
 <td><p>△</p></td>
 <td><p> </p></td>

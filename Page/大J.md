@@ -1,4 +1,4 @@
-**JASON**，**大J**（，\[1\]），[香港](../Page/香港.md "wikilink")[YouTuber](https://zh.wikipedia.org/wiki/YouTuber "wikilink")。2002年赴[日本留學](../Page/日本.md "wikilink")，並修讀[工商管理](https://zh.wikipedia.org/wiki/工商管理 "wikilink")。
+**JASON**，**大J**（，\[1\]），[香港](../Page/香港.md "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")。2002年赴[日本留學](../Page/日本.md "wikilink")，並修讀[工商管理](https://zh.wikipedia.org/wiki/工商管理 "wikilink")。
 2012年開始[YouTube影音創作](../Page/YouTube.md "wikilink")，主要拍攝遊戲影片及[影像網誌](https://zh.wikipedia.org/wiki/影像網誌 "wikilink")。2015年6月，
 成為香港第一個突破1億觀看次數的YouTuber，年薪亦達到過百萬[港元](../Page/港元.md "wikilink")\[2\]。
 

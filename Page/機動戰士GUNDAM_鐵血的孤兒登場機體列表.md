@@ -1503,7 +1503,7 @@ zh-tw:盾式; zh-cn:盾式;}-（Schild）」和銷售用的「交鋒式格雷茲
     **破滅魔劍大炮**
     大型體積的磁軌砲，三百年前厄祭戰爭時所用的殺戮性兵器，尖樁型的彈頭由骨架合金製成，擁有一擊貫穿奈米積層裝甲的威力，一般是在卸除左臂後直接將炮身連結在左肩使用。
     發射後後方會將烟排出去，在後方輔助的另一台格雷茲會再裝填彈頭。
-    從大氣層外向地表面發射時，有著如[天基動能武器的效果](https://zh.wikipedia.org/wiki/天基動能武器 "wikilink")。
+    從大氣層外向地表面發射時，有著如[天基動能武器的效果](../Page/天基動能武器.md "wikilink")。
     **推進器**
     格雷茲所用的開閉式的推進裝備，安裝於腳部上。未使用時會收納在內部，能減少中彈時的機體損傷率。
 
@@ -3617,7 +3617,7 @@ Number」（又稱「單數」）。由「迪瓦茲」代表——麥克馬多·
   - [機動戰士GUNDAM 鐵血的孤兒](../Page/機動戰士GUNDAM_鐵血的孤兒.md "wikilink")
   - [機動戰士GUNDAM 鐵血的孤兒角色列表](../Page/機動戰士GUNDAM_鐵血的孤兒角色列表.md "wikilink")
   - [機動戰士GUNDAM
-    鐵血的孤兒世界觀及設定](https://zh.wikipedia.org/wiki/機動戰士GUNDAM_鐵血的孤兒世界觀及設定 "wikilink")
+    鐵血的孤兒世界觀及設定](../Page/機動戰士GUNDAM_鐵血的孤兒世界觀及設定.md "wikilink")
 
 [Category:GUNDAM兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM兵器 "wikilink")
 [Category:虛構事物列表](https://zh.wikipedia.org/wiki/Category:虛構事物列表 "wikilink")

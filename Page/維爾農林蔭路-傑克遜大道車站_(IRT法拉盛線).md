@@ -1,4 +1,4 @@
-**維爾農林蔭路-傑克遜大道車站**（），經常被非正式地顯示為「維爾農-傑克遜車站」（），舊名「維爾農-傑克遜大道車站」（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線在](https://zh.wikipedia.org/wiki/IRT法拉盛線 "wikilink")[皇后區最西端的](../Page/皇后區.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")。雖然名稱如此，但車站實際上位於介乎維爾農林蔭路和傑克遜大道的一段50大道，兩條道路都設有車站入口。此站設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務，而繁忙時段的尖峰方向還有開行[\<7\>列車](../Page/紐約地鐵7號線.md "wikilink")。
+**維爾農林蔭路-傑克遜大道車站**（），經常被非正式地顯示為「維爾農-傑克遜車站」（），舊名「維爾農-傑克遜大道車站」（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線在](../Page/IRT法拉盛線.md "wikilink")[皇后區最西端的](../Page/皇后區.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")。雖然名稱如此，但車站實際上位於介乎維爾農林蔭路和傑克遜大道的一段50大道，兩條道路都設有車站入口。此站設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務，而繁忙時段的尖峰方向還有開行[\<7\>列車](../Page/紐約地鐵7號線.md "wikilink")。
 
 ## 車站結構
 

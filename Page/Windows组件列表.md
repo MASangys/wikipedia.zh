@@ -175,17 +175,17 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Cortana_(軟體)" title="wikilink">Cortana</a></p></td>
 <td><p>Windows 上的數位個人助理</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Microsoft_Edge.md" title="wikilink">Edge</a></p></td>
 <td><p>網頁瀏覽器</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/意見反映中樞" title="wikilink">意見反映中樞</a></p></td>
 <td><p>在<a href="https://zh.wikipedia.org/wiki/Windows_预览体验计划" title="wikilink">Windows Insider</a> 與開發人員之間溝通交流之平台</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Groove_Music" title="wikilink">Groove Music</a><br />
@@ -208,7 +208,7 @@
 <tr class="odd">
 <td><p><a href="../Page/Microsoft_OneNote.md" title="wikilink">OneNote</a></p></td>
 <td><p>Microsoft Office 系列中的筆記本</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/螢幕小鍵盤" title="wikilink">螢幕小鍵盤</a> (osk.exe)</p></td>
@@ -221,9 +221,9 @@
 <td><p><a href="../Page/Windows_1.0.md" title="wikilink">Windows 1.0</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/小畫家_3D" title="wikilink">小畫家 (3D)</a></p></td>
+<td><p><a href="../Page/小畫家_3D.md" title="wikilink">小畫家 (3D)</a></p></td>
 <td><p>簡易 <a href="https://zh.wikipedia.org/wiki/3D" title="wikilink">3D</a><a href="https://zh.wikipedia.org/wiki/绘图软件" title="wikilink">繪圖軟體</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a> version 1703</p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> version 1703</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Windows相片圖庫" title="wikilink">相簿</a></p></td>
@@ -386,7 +386,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Solitaire_Collection" title="wikilink">Solitaire Collection</a></p></td>
 <td><p>撲克牌遊戲集</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 </tr>
 </tbody>
 </table>

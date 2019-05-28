@@ -2,11 +2,11 @@
 
 ## 專屬電視節目
 
-|                 |        |                                                                                   |      |    |
-| --------------- | ------ | --------------------------------------------------------------------------------- | ---- | -- |
-| 日期              | 電視頻道   | 節目名稱                                                                              | 參演成員 | 集數 |
-| 2014年2月8日-3月1日  | Y-Star | 《SISTAR's Midnight In Hongkong》                                                   | 全體   | 4集 |
-| 2015年1月8日-2月26日 | MBC    | 《[SISTAR'S SHOWTIME](https://zh.wikipedia.org/wiki/SISTAR'S_SHOWTIME "wikilink")》 | 8集   |    |
+|                 |        |                                                                |      |    |
+| --------------- | ------ | -------------------------------------------------------------- | ---- | -- |
+| 日期              | 電視頻道   | 節目名稱                                                           | 參演成員 | 集數 |
+| 2014年2月8日-3月1日  | Y-Star | 《SISTAR's Midnight In Hongkong》                                | 全體   | 4集 |
+| 2015年1月8日-2月26日 | MBC    | 《[SISTAR'S SHOWTIME](../Page/SISTAR'S_SHOWTIME.md "wikilink")》 | 8集   |    |
 
 ## 電視劇
 
@@ -118,22 +118,22 @@
 
 ## 固定綜藝節目
 
-|                        |                                                             |                                                                     |       |            |                                                                                                                                                                                                                                                                                     |
-| ---------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------- | ----- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 日期                     | 電視頻道                                                        | 節目名稱                                                                | 參演成員  | 集數         | 備註                                                                                                                                                                                                                                                                                  |
-| 2011年                  | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")       | 《不朽的名曲2》                                                            | 孝琳    | 第1-15集、25集 | 固定成員                                                                                                                                                                                                                                                                                |
-| 2011年9月2日－11月17日       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") Joy     | 《[Hello Baby](https://zh.wikipedia.org/wiki/Hello_Baby "wikilink")》 | 全體    | 12集        | 與[Super Junior](../Page/Super_Junior.md "wikilink")[利特](../Page/利特.md "wikilink")                                                                                                                                                                                                   |
-| 2011-2012年             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")       | 《[青春不敗2](../Page/青春不敗.md "wikilink")》                               | 寶拉    | 46集        | G5成員                                                                                                                                                                                                                                                                                |
-| 2013年8月23日-9月13日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")         | 《Star Diving Show Splash》                                           | 韶宥    | 3集         | 固定成員                                                                                                                                                                                                                                                                                |
-| 2013年11月18日-2014年2月2日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")         | 《時尚王Korea》                                                          | 寶拉    |            |                                                                                                                                                                                                                                                                                     |
-| 2013年11月27日-2014年2月19日 | [JTBC](../Page/JTBC.md "wikilink")                          | 《厲害的婆家》                                                             | 韶宥    | 13集        |                                                                                                                                                                                                                                                                                     |
-| 2014年12月10日-2015年2月11日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | 《No Mercy》                                                          | 孝琳&韶宥 | 11集        | 導師                                                                                                                                                                                                                                                                                  |
-| 2015年2月4日-11月11日       | [OnStyle](https://zh.wikipedia.org/wiki/OnStyle "wikilink") | 《Get It Beauty 2015 》                                               | 韶宥    |            | 固定MC                                                                                                                                                                                                                                                                                |
-| 2015年1月30日-2月13日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")         | 《我是歌手3 》                                                            | 孝琳    | 第1-3期      | 第3期淘汰                                                                                                                                                                                                                                                                               |
-| 2015年4月5日-6月21日        | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")         | 《A Style For You 》                                                  | 寶拉    | 12集        | 與[Super Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink")、[Kara](../Page/Kara.md "wikilink")[荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")、[EXIDHani](https://zh.wikipedia.org/wiki/EXID "wikilink")[安喜延](https://zh.wikipedia.org/wiki/安喜延 "wikilink") |
-| 2015年9月11日-11月13日      | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | 《Unpretty Rapstar 2 》                                               | 孝琳    |            | 參賽者                                                                                                                                                                                                                                                                                 |
-| 2016年7月27日-9月14日       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | 《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》              | 寶拉    | 第1-2集、5-8集 | 固定成员                                                                                                                                                                                                                                                                                |
-| 2016年9月3日-11月19日       | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")         | 《白鍾元的三大天王》                                                          | 韶宥    |            | 固定MC                                                                                                                                                                                                                                                                                |
+|                        |                                                         |                                                                     |       |            |                                                                                                                                                                                                                                                                                     |
+| ---------------------- | ------------------------------------------------------- | ------------------------------------------------------------------- | ----- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 日期                     | 電視頻道                                                    | 節目名稱                                                                | 參演成員  | 集數         | 備註                                                                                                                                                                                                                                                                                  |
+| 2011年                  | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")   | 《不朽的名曲2》                                                            | 孝琳    | 第1-15集、25集 | 固定成員                                                                                                                                                                                                                                                                                |
+| 2011年9月2日－11月17日       | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") Joy | 《[Hello Baby](https://zh.wikipedia.org/wiki/Hello_Baby "wikilink")》 | 全體    | 12集        | 與[Super Junior](../Page/Super_Junior.md "wikilink")[利特](../Page/利特.md "wikilink")                                                                                                                                                                                                   |
+| 2011-2012年             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")   | 《[青春不敗2](../Page/青春不敗.md "wikilink")》                               | 寶拉    | 46集        | G5成員                                                                                                                                                                                                                                                                                |
+| 2013年8月23日-9月13日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")     | 《Star Diving Show Splash》                                           | 韶宥    | 3集         | 固定成員                                                                                                                                                                                                                                                                                |
+| 2013年11月18日-2014年2月2日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")     | 《時尚王Korea》                                                          | 寶拉    |            |                                                                                                                                                                                                                                                                                     |
+| 2013年11月27日-2014年2月19日 | [JTBC](../Page/JTBC.md "wikilink")                      | 《厲害的婆家》                                                             | 韶宥    | 13集        |                                                                                                                                                                                                                                                                                     |
+| 2014年12月10日-2015年2月11日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | 《No Mercy》                                                          | 孝琳&韶宥 | 11集        | 導師                                                                                                                                                                                                                                                                                  |
+| 2015年2月4日-11月11日       | [OnStyle](../Page/OnStyle.md "wikilink")                | 《Get It Beauty 2015 》                                               | 韶宥    |            | 固定MC                                                                                                                                                                                                                                                                                |
+| 2015年1月30日-2月13日       | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")     | 《我是歌手3 》                                                            | 孝琳    | 第1-3期      | 第3期淘汰                                                                                                                                                                                                                                                                               |
+| 2015年4月5日-6月21日        | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")     | 《A Style For You 》                                                  | 寶拉    | 12集        | 與[Super Junior](../Page/Super_Junior.md "wikilink")[希澈](../Page/希澈.md "wikilink")、[Kara](../Page/Kara.md "wikilink")[荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")、[EXIDHani](https://zh.wikipedia.org/wiki/EXID "wikilink")[安喜延](https://zh.wikipedia.org/wiki/安喜延 "wikilink") |
+| 2015年9月11日-11月13日      | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | 《Unpretty Rapstar 2 》                                               | 孝琳    |            | 參賽者                                                                                                                                                                                                                                                                                 |
+| 2016年7月27日-9月14日       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")   | 《[Hit The Stage](../Page/Hit_The_Stage.md "wikilink")》              | 寶拉    | 第1-2集、5-8集 | 固定成员                                                                                                                                                                                                                                                                                |
+| 2016年9月3日-11月19日       | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")     | 《白鍾元的三大天王》                                                          | 韶宥    |            | 固定MC                                                                                                                                                                                                                                                                                |
 
 ## 綜藝節目
 
@@ -315,70 +315,70 @@
 | 12月29日      |
 | 12月31日      |
 
-| 2014年                                                   |
-| ------------------------------------------------------- |
-| 日期                                                      |
-| 1月4日                                                    |
-| 1月7日                                                    |
-| 1月12日                                                   |
-| 1月21日                                                   |
-| 1月29日                                                   |
-| 2月15日                                                   |
-| 2月20日                                                   |
-| 2月28日                                                   |
-| 3月1日                                                    |
-| MBC                                                     |
-| 3月12日                                                   |
-| 3月16日                                                   |
-| 3月19日                                                   |
-| 3月21日                                                   |
-| 3月22日                                                   |
-| 3月23日                                                   |
-| 3月24日                                                   |
-| 4月10日                                                   |
-| 4月26日                                                   |
-| 4月28日                                                   |
-| 4月30日                                                   |
-| 5月1日                                                    |
-| 5月23日                                                   |
-| 5月27日                                                   |
-| 6月14日                                                   |
-| 6月15日、6月22日                                             |
-| 6月22日                                                   |
-| 6月24日                                                   |
-| 6月24日                                                   |
-| 6月27日                                                   |
-| 6月28日                                                   |
-| 6月28日                                                   |
-| 7月4日                                                    |
-| 7月21日                                                   |
-| 7月26日                                                   |
-| 7月27日                                                   |
-| 7月28日                                                   |
-| 7月29日                                                   |
-| 7月30日                                                   |
-| KBS2                                                    |
-| 8月5日                                                    |
-| 8月6日                                                    |
-| 8月8日                                                    |
-| 8月9日                                                    |
-| SBS                                                     |
-| 8月15日                                                   |
-| 8月16日                                                   |
-| [演藝家中介](https://zh.wikipedia.org/wiki/演藝家中介 "wikilink") |
-| 8月17日                                                   |
-| 8月18日                                                   |
-| 8月21日                                                   |
-| 8月28日                                                   |
-| 9月8日                                                    |
-| 9月12日                                                   |
-| 9月20日                                                   |
-| 10月7日                                                   |
-| 10月17日                                                  |
-| 12月3日                                                   |
-| 12月19日                                                  |
-| 12月22日                                                  |
-| 12月22日                                                  |
+| 2014年                                |
+| ------------------------------------ |
+| 日期                                   |
+| 1月4日                                 |
+| 1月7日                                 |
+| 1月12日                                |
+| 1月21日                                |
+| 1月29日                                |
+| 2月15日                                |
+| 2月20日                                |
+| 2月28日                                |
+| 3月1日                                 |
+| MBC                                  |
+| 3月12日                                |
+| 3月16日                                |
+| 3月19日                                |
+| 3月21日                                |
+| 3月22日                                |
+| 3月23日                                |
+| 3月24日                                |
+| 4月10日                                |
+| 4月26日                                |
+| 4月28日                                |
+| 4月30日                                |
+| 5月1日                                 |
+| 5月23日                                |
+| 5月27日                                |
+| 6月14日                                |
+| 6月15日、6月22日                          |
+| 6月22日                                |
+| 6月24日                                |
+| 6月24日                                |
+| 6月27日                                |
+| 6月28日                                |
+| 6月28日                                |
+| 7月4日                                 |
+| 7月21日                                |
+| 7月26日                                |
+| 7月27日                                |
+| 7月28日                                |
+| 7月29日                                |
+| 7月30日                                |
+| KBS2                                 |
+| 8月5日                                 |
+| 8月6日                                 |
+| 8月8日                                 |
+| 8月9日                                 |
+| SBS                                  |
+| 8月15日                                |
+| 8月16日                                |
+| [演藝家中介](../Page/演藝家中介.md "wikilink") |
+| 8月17日                                |
+| 8月18日                                |
+| 8月21日                                |
+| 8月28日                                |
+| 9月8日                                 |
+| 9月12日                                |
+| 9月20日                                |
+| 10月7日                                |
+| 10月17日                               |
+| 12月3日                                |
+| 12月19日                               |
+| 12月22日                               |
+| 12月22日                               |
 
 | 2015年         |
 | ------------- |

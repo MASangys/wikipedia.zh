@@ -1,5 +1,5 @@
 **Gray**（，），本名**李盛華**（），或有譯名為**李星和**，[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")、[說唱歌手及](https://zh.wikipedia.org/wiki/說唱歌手 "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")。為[朴載範和](../Page/朴載範.md "wikilink")[DJ
-PUMPKIN共同經營的](https://zh.wikipedia.org/wiki/DJ_PUMPKIN "wikilink")旗下歌手之一\[1\]。與[Loco](https://zh.wikipedia.org/wiki/Loco "wikilink")、[Zion.T](../Page/Zion.T.md "wikilink")、及[Crush等歌手共同所屬於VV](../Page/Crush_\(歌手\).md "wikilink"):D
+PUMPKIN共同經營的](https://zh.wikipedia.org/wiki/DJ_PUMPKIN "wikilink")旗下歌手之一\[1\]。與[Loco](../Page/Loco.md "wikilink")、[Zion.T](../Page/Zion.T.md "wikilink")、及[Crush等歌手共同所屬於VV](../Page/Crush_\(歌手\).md "wikilink"):D
 crew。
 
 ## 音乐作品
@@ -103,7 +103,7 @@ crew。
 </tr>
 <tr class="odd">
 <td><p>See The Light</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>（Feat. Gray）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>（Feat. Gray）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -139,7 +139,7 @@ crew。
 </tr>
 <tr class="odd">
 <td><p>无礼地（무례하게）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>（Feat. Gray）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>（Feat. Gray）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -175,7 +175,7 @@ crew。
 </tr>
 <tr class="odd">
 <td><p>疯狂的家伙（미친놈）</p></td>
-<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>（Feat. <a href="../Page/Simon_D.md" title="wikilink">Simon D</a>, <a href="https://zh.wikipedia.org/wiki/Trinidad_James" title="wikilink">Trinidad James</a>, <a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>, Gray）</p></td>
+<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>（Feat. <a href="../Page/Simon_D.md" title="wikilink">Simon D</a>, <a href="https://zh.wikipedia.org/wiki/Trinidad_James" title="wikilink">Trinidad James</a>, <a href="../Page/Loco.md" title="wikilink">Loco</a>, Gray）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -188,18 +188,18 @@ crew。
 <tr class="odd">
 <td><p>2015</p></td>
 <td><p>RESPECT</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>（Feat. Gray）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>（Feat. Gray）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>AWESOME</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、<a href="../Page/朴載範.md" title="wikilink">朴載範</a>、Gray</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>、<a href="../Page/朴載範.md" title="wikilink">朴載範</a>、Gray</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>My Last</p></td>
-<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>（Feat. <a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>, Gray）</p></td>
+<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>（Feat. <a href="../Page/Loco.md" title="wikilink">Loco</a>, Gray）</p></td>
 <td><p>My Last</p></td>
 <td></td>
 </tr>
@@ -229,14 +229,14 @@ crew。
 </tr>
 <tr class="even">
 <td><p>GOOD</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、Gray（Feat. ）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>、Gray（Feat. ）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>安心（맘 편히）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭帝元" title="wikilink">One</a>、Gray、<a href="../Page/Simon_D.md" title="wikilink">Simon D</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5 Episode 2</a>（쇼미더머니 5 Episode 2）</p></td>
+<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5 Episode 2</a>（쇼미더머니 5 Episode 2）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -253,7 +253,7 @@ crew。
 </tr>
 <tr class="even">
 <td><p>On My Way</p></td>
-<td><p>（Feat. Gray, <a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a>）</p></td>
+<td><p>（Feat. Gray, <a href="../Page/BewhY.md" title="wikilink">BewhY</a>）</p></td>
 <td><p>感情起伏 II Part. 3 : 心理治疗（감정기복 II Part. 3 : 심리치료）</p></td>
 <td></td>
 </tr>
@@ -277,19 +277,19 @@ crew。
 </tr>
 <tr class="even">
 <td><p>Summer Go Loco</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>（Feat. Gray）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>（Feat. Gray）</p></td>
 <td><p>Summer Go Loco</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>時差 (We Are)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/禹元宰" title="wikilink">禹元宰</a>（Feat. <a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、Gray）</p></td>
+<td><p><a href="../Page/禹元宰.md" title="wikilink">禹元宰</a>（Feat. <a href="../Page/Loco.md" title="wikilink">Loco</a>、Gray）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>잘 (I'm fine)</p></td>
-<td><p>Gray、 <a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、<a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a>、</p></td>
+<td><p>Gray、 <a href="../Page/Loco.md" title="wikilink">Loco</a>、<a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a>、</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鍵盤上的鬣狗" title="wikilink">鍵盤上的鬣狗單曲</a></p></td>
 <td></td>
 </tr>
@@ -319,19 +319,19 @@ crew。
 </tr>
 <tr class="odd">
 <td><p>翻過來 (뒤집어버려)</p></td>
-<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>、<a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、<a href="../Page/Simon_D.md" title="wikilink">Simon D</a>、Gray</p></td>
+<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>、<a href="../Page/Loco.md" title="wikilink">Loco</a>、<a href="../Page/Simon_D.md" title="wikilink">Simon D</a>、Gray</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>我不害怕(아깝지 않아)</p></td>
-<td><p>Gray、<a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、<a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/黃致列.md" title="wikilink">黃致列</a>、<a href="https://zh.wikipedia.org/wiki/UV" title="wikilink">UV</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Call" title="wikilink">The Call單曲</a></p></td>
+<td><p>Gray、<a href="../Page/Loco.md" title="wikilink">Loco</a>、<a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/黃致列.md" title="wikilink">黃致列</a>、<a href="https://zh.wikipedia.org/wiki/UV" title="wikilink">UV</a></p></td>
+<td><p><a href="../Page/The_Call.md" title="wikilink">The Call單曲</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>RUN</p></td>
-<td><p>Gray、 <a href="https://zh.wikipedia.org/wiki/李珍雅" title="wikilink">李珍雅</a></p></td>
+<td><p>Gray、 <a href="../Page/李珍雅.md" title="wikilink">李珍雅</a></p></td>
 <td><p>진아식당 Full Course</p></td>
 <td></td>
 </tr>
@@ -390,7 +390,7 @@ crew。
 <td><p>2013</p></td>
 <td><p>Without You</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/INFINITE_H" title="wikilink">INFINITE H</a>（Feat. <a href="../Page/Zion.T.md" title="wikilink">Zion.T</a>）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Fly_High" title="wikilink">Fly High</a></p></td>
+<td><p><a href="../Page/Fly_High.md" title="wikilink">Fly High</a></p></td>
 </tr>
 <tr class="even">
 <td><p>赢不了（못 이겨）</p></td>
@@ -406,7 +406,7 @@ crew。
 </tr>
 <tr class="even">
 <td><p>Blur</p></td>
-<td><p>（Feat. <a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>）</p></td>
+<td><p>（Feat. <a href="../Page/Loco.md" title="wikilink">Loco</a>）</p></td>
 <td><p>rowspan="5" </p></td>
 <td></td>
 </tr>
@@ -430,7 +430,7 @@ crew。
 </tr>
 <tr class="even">
 <td><p>Take Care</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>（Feat. <a href="../Page/朴娜萊.md" title="wikilink">朴娜萊</a> of <a href="../Page/SPICA_(組合).md" title="wikilink">SPICA</a>）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>（Feat. <a href="../Page/朴娜萊.md" title="wikilink">朴娜萊</a> of <a href="../Page/SPICA_(組合).md" title="wikilink">SPICA</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -460,7 +460,7 @@ crew。
 </tr>
 <tr class="odd">
 <td><p>No More (G-Mix)</p></td>
-<td><p><a href="../Page/Dok2.md" title="wikilink">Dok2</a>（Feat. <a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a>, <a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>）</p></td>
+<td><p><a href="../Page/Dok2.md" title="wikilink">Dok2</a>（Feat. <a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a>, <a href="../Page/Loco.md" title="wikilink">Loco</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -478,7 +478,7 @@ crew。
 </tr>
 <tr class="even">
 <td><p>See The Light</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>（Feat. Gray）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>（Feat. Gray）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -550,7 +550,7 @@ crew。
 </tr>
 <tr class="even">
 <td><p>NaNa</p></td>
-<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>（Feat. <a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>, ）</p></td>
+<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>（Feat. <a href="../Page/Loco.md" title="wikilink">Loco</a>, ）</p></td>
 <td><p>rowspan="5" </p></td>
 <td></td>
 </tr>
@@ -592,7 +592,7 @@ crew。
 </tr>
 <tr class="odd">
 <td><p>疯狂的家伙（미친놈）</p></td>
-<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>（Feat. <a href="../Page/Simon_D.md" title="wikilink">Simon D</a>, <a href="https://zh.wikipedia.org/wiki/Trinidad_James" title="wikilink">Trinidad James</a>, <a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>, Gray）</p></td>
+<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>（Feat. <a href="../Page/Simon_D.md" title="wikilink">Simon D</a>, <a href="https://zh.wikipedia.org/wiki/Trinidad_James" title="wikilink">Trinidad James</a>, <a href="../Page/Loco.md" title="wikilink">Loco</a>, Gray）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -604,7 +604,7 @@ crew。
 </tr>
 <tr class="odd">
 <td><p>让我看到你的双手（손바닥을 보여줘）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>（Feat. <a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a>）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>（Feat. <a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a>）</p></td>
 <td><p>LOCOMOTIVE</p></td>
 <td></td>
 </tr>
@@ -616,19 +616,19 @@ crew。
 </tr>
 <tr class="odd">
 <td><p>你不知道（니가 모르게）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a></p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>总是想起（자꾸 생각나）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>（Feat. <a href="../Page/朴載範.md" title="wikilink">朴載範</a>）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>（Feat. <a href="../Page/朴載範.md" title="wikilink">朴載範</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>无礼地（무례하게）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>（Feat. Gray）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>（Feat. Gray）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -641,7 +641,7 @@ crew。
 <tr class="odd">
 <td><p>2015</p></td>
 <td><p>Your Love</p></td>
-<td><p>（Feat. <a href="https://zh.wikipedia.org/wiki/The_Quiett" title="wikilink">The Quiett</a>）</p></td>
+<td><p>（Feat. <a href="../Page/The_Quiett.md" title="wikilink">The Quiett</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -658,7 +658,7 @@ crew。
 </tr>
 <tr class="even">
 <td><p>Unpretty Dreams</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a></p></td>
+<td><p><a href="../Page/Jessi.md" title="wikilink">Jessi</a></p></td>
 <td><p><a href="../Page/Unpretty_Rapstar.md" title="wikilink">Unpretty Rapstar 半决赛</a>（언프리티 랩스타 SEMI FINAL）</p></td>
 <td></td>
 </tr>
@@ -688,7 +688,7 @@ crew。
 </tr>
 <tr class="odd">
 <td><p>RESPECT</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>（Feat. Gray）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>（Feat. Gray）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -718,25 +718,25 @@ crew。
 </tr>
 <tr class="even">
 <td><p>RESPECT</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sik-K" title="wikilink">Sik-K</a>、、<a href="https://zh.wikipedia.org/wiki/地球人_(歌手)" title="wikilink">地球人</a>（Feat. <a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>, Gray, <a href="https://zh.wikipedia.org/wiki/DJ_Pumkin" title="wikilink">DJ Pumkin</a>）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_4" title="wikilink">Show Me The Money 4 Episode 4</a>（쇼미더머니 4 Episode 4）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sik-K" title="wikilink">Sik-K</a>、、<a href="https://zh.wikipedia.org/wiki/地球人_(歌手)" title="wikilink">地球人</a>（Feat. <a href="../Page/Loco.md" title="wikilink">Loco</a>, Gray, <a href="https://zh.wikipedia.org/wiki/DJ_Pumkin" title="wikilink">DJ Pumkin</a>）</p></td>
+<td><p><a href="../Page/Show_Me_The_Money_4.md" title="wikilink">Show Me The Money 4 Episode 4</a>（쇼미더머니 4 Episode 4）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ON IT + BO$$</p></td>
-<td><p>（Feat. <a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>, <a href="../Page/朴載範.md" title="wikilink">朴載範</a>）</p></td>
+<td><p>（Feat. <a href="../Page/Loco.md" title="wikilink">Loco</a>, <a href="../Page/朴載範.md" title="wikilink">朴載範</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>AWESOME</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>（Feat. Gray, <a href="../Page/朴載範.md" title="wikilink">朴載範</a>）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>（Feat. Gray, <a href="../Page/朴載範.md" title="wikilink">朴載範</a>）</p></td>
 <td><p>AWESOME</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>高 2（높아 2）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>（Feat. CJamm, <a href="../Page/朴載範.md" title="wikilink">朴載範</a>）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>（Feat. CJamm, <a href="../Page/朴載範.md" title="wikilink">朴載範</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -826,43 +826,43 @@ crew。
 </tr>
 <tr class="even">
 <td><p>GOOD</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、Gray（Feat. ）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>、Gray（Feat. ）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>不是你所知道的我（니가 알던 내가 아냐）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a>、<a href="https://zh.wikipedia.org/wiki/G2_(歌手)" title="wikilink">G2</a>、<a href="https://zh.wikipedia.org/wiki/鄭帝元" title="wikilink">One</a>（Feat. <a href="../Page/Simon_D.md" title="wikilink">Simon D</a>）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5 Episode 1</a>（쇼미더머니 5 Episode 1）</p></td>
+<td><p><a href="../Page/BewhY.md" title="wikilink">BewhY</a>、<a href="https://zh.wikipedia.org/wiki/G2_(歌手)" title="wikilink">G2</a>、<a href="https://zh.wikipedia.org/wiki/鄭帝元" title="wikilink">One</a>（Feat. <a href="../Page/Simon_D.md" title="wikilink">Simon D</a>）</p></td>
+<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5 Episode 1</a>（쇼미더머니 5 Episode 1）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>安心（맘 편히）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭帝元" title="wikilink">One</a>、Gray、<a href="../Page/Simon_D.md" title="wikilink">Simon D</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5 Episode 2</a>（쇼미더머니 5 Episode 2）</p></td>
+<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5 Episode 2</a>（쇼미더머니 5 Episode 2）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Forever</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5 Episode 3</a>（쇼미더머니 5 Episode 3）</p></td>
+<td><p><a href="../Page/BewhY.md" title="wikilink">BewhY</a></p></td>
+<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5 Episode 3</a>（쇼미더머니 5 Episode 3）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Day Day</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5 Episode 4</a>（쇼미더머니 5 Episode 4）</p></td>
+<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5 Episode 4</a>（쇼미더머니 5 Episode 4）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>自画像 pt.2（자화상 pt.2）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5 Episode 5</a>（쇼미더머니 5 Episode 5）</p></td>
+<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5 Episode 5</a>（쇼미더머니 5 Episode 5）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>不是你所知道的我 (Remix)（니가 알던 내가 아냐 (Remix)）</p></td>
-<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a> &amp; <a href="https://zh.wikipedia.org/wiki/Ugly_Duck" title="wikilink">Ugly Duck</a>（Feat. <a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>, <a href="https://zh.wikipedia.org/wiki/DayDay" title="wikilink">DayDay</a>, <a href="../Page/Simon_D.md" title="wikilink">Simon D</a>）</p></td>
+<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a> &amp; <a href="https://zh.wikipedia.org/wiki/Ugly_Duck" title="wikilink">Ugly Duck</a>（Feat. <a href="../Page/Loco.md" title="wikilink">Loco</a>, <a href="https://zh.wikipedia.org/wiki/DayDay" title="wikilink">DayDay</a>, <a href="../Page/Simon_D.md" title="wikilink">Simon D</a>）</p></td>
 <td><p>Scene Stealers</p></td>
 <td></td>
 </tr>
@@ -898,7 +898,7 @@ crew。
 </tr>
 <tr class="even">
 <td><p>On My Way</p></td>
-<td><p>（Feat. Gray, <a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a>）</p></td>
+<td><p>（Feat. Gray, <a href="../Page/BewhY.md" title="wikilink">BewhY</a>）</p></td>
 <td><p>感情起伏 II Part. 3 : 心理治疗（감정기복 II Part. 3 : 심리치료）</p></td>
 <td></td>
 </tr>
@@ -946,19 +946,19 @@ crew。
 </tr>
 <tr class="even">
 <td><p>死路（막다른 길）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TakeOne" title="wikilink">TakeOne</a>（Feat. , <a href="https://zh.wikipedia.org/wiki/Stella_Jang" title="wikilink">Stella Jang</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TakeOne" title="wikilink">TakeOne</a>（Feat. , <a href="../Page/Stella_Jang.md" title="wikilink">Stella Jang</a>）</p></td>
 <td><p>绿色理念（녹색이념）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
 <td><p>A.O.M.G.</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a></p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a></p></td>
 <td><p>BLEACHED</p></td>
 </tr>
 <tr class="even">
 <td><p>路過（지나쳐）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>（Feat. <a href="https://zh.wikipedia.org/wiki/DEAN" title="wikilink">DEAN</a>）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>（Feat. <a href="https://zh.wikipedia.org/wiki/DEAN" title="wikilink">DEAN</a>）</p></td>
 <td><p>BLEACHED</p></td>
 <td></td>
 </tr>
@@ -970,37 +970,37 @@ crew。
 </tr>
 <tr class="even">
 <td><p>Summer Go Loco</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>（Feat. Gray）</p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>（Feat. Gray）</p></td>
 <td><p>Summer Go Loco</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>Curtain Call</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a></p></td>
+<td><p><a href="../Page/BewhY.md" title="wikilink">BewhY</a></p></td>
 <td><p>The blind Star 0.5</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Red Carpet</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a></p></td>
+<td><p><a href="../Page/BewhY.md" title="wikilink">BewhY</a></p></td>
 <td><p>The blind Star 0.5</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>時差 (We Are)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/禹元宰" title="wikilink">禹元宰</a>（Feat. <a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、Gray）</p></td>
+<td><p><a href="../Page/禹元宰.md" title="wikilink">禹元宰</a>（Feat. <a href="../Page/Loco.md" title="wikilink">Loco</a>、Gray）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>My Star</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a></p></td>
+<td><p><a href="../Page/BewhY.md" title="wikilink">BewhY</a></p></td>
 <td><p>The blind Star 0.5</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>잘 (I'm fine)</p></td>
-<td><p>Gray、 <a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、<a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a>、</p></td>
+<td><p>Gray、 <a href="../Page/Loco.md" title="wikilink">Loco</a>、<a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a>、</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鍵盤上的鬣狗" title="wikilink">鍵盤上的鬣狗單曲</a></p></td>
 <td></td>
 </tr>
@@ -1036,14 +1036,14 @@ crew。
 </tr>
 <tr class="odd">
 <td><p>Crazy (Remix)</p></td>
-<td><p><a href="../Page/Dok2.md" title="wikilink">Dok2</a>(Feat.<a href="https://zh.wikipedia.org/wiki/Changmo" title="wikilink">Changmo</a>)</p></td>
+<td><p><a href="../Page/Dok2.md" title="wikilink">Dok2</a>(Feat.<a href="../Page/Changmo.md" title="wikilink">Changmo</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>OK</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/機智牢房生活" title="wikilink">機智牢房生活OST</a> Part.1</p></td>
+<td><p><a href="../Page/BewhY.md" title="wikilink">BewhY</a></p></td>
+<td><p><a href="../Page/機智牢房生活.md" title="wikilink">機智牢房生活OST</a> Part.1</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1078,19 +1078,19 @@ crew。
 </tr>
 <tr class="even">
 <td><p>翻過來 (뒤집어버려)</p></td>
-<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>、<a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、<a href="../Page/Simon_D.md" title="wikilink">Simon D</a>、Gray</p></td>
+<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>、<a href="../Page/Loco.md" title="wikilink">Loco</a>、<a href="../Page/Simon_D.md" title="wikilink">Simon D</a>、Gray</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>我不害怕(아깝지 않아)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、Gray、<a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/黃致列.md" title="wikilink">黃致列</a>、<a href="https://zh.wikipedia.org/wiki/UV" title="wikilink">UV</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Call" title="wikilink">The Call單曲</a></p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>、Gray、<a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/黃致列.md" title="wikilink">黃致列</a>、<a href="https://zh.wikipedia.org/wiki/UV" title="wikilink">UV</a></p></td>
+<td><p><a href="../Page/The_Call.md" title="wikilink">The Call單曲</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>RUN</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李珍雅" title="wikilink">李珍雅</a></p></td>
+<td><p><a href="../Page/李珍雅.md" title="wikilink">李珍雅</a></p></td>
 <td><p>Full Course</p></td>
 <td></td>
 </tr>
@@ -1101,34 +1101,34 @@ crew。
 
 ### 戲劇
 
-|       |                                                             |              |    |     |
-| ----- | ----------------------------------------------------------- | ------------ | -- | --- |
-| 年份    | 電視台                                                         | 劇名           | 角色 | 備註  |
-| 2017年 | [OnStyle](https://zh.wikipedia.org/wiki/OnStyle "wikilink") | 《Love is...》 |    | 迷你劇 |
-|       |                                                             |              |    |     |
+|       |                                          |              |    |     |
+| ----- | ---------------------------------------- | ------------ | -- | --- |
+| 年份    | 電視台                                      | 劇名           | 角色 | 備註  |
+| 2017年 | [OnStyle](../Page/OnStyle.md "wikilink") | 《Love is...》 |    | 迷你劇 |
+|       |                                          |              |    |     |
 
 ### 电视节目
 
-| 年份            | 播放日期                                                                                          | 节目名称                                                                                                      | 电视台                                                                                                                                                                                             | 备注                                                                                                                                                                                                                       |
-| ------------- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2014          | 5月6日                                                                                          | [4种秀](../Page/4种秀.md "wikilink")                                                                          | [Mnet](../Page/Mnet媒體.md "wikilink")                                                                                                                                                            | 主角，第2集                                                                                                                                                                                                                   |
-| 10月9日         | [MIX & MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")                           | 评委嘉宾，第5集                                                                                                  |                                                                                                                                                                                                 |                                                                                                                                                                                                                          |
-| 2015          | 9月30日                                                                                         | [黃金漁場 Radio Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink")                               | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")                                                                                                                                     | 嘉宾，第447集，与[朴京林](https://zh.wikipedia.org/wiki/朴慶琳 "wikilink")、[真理翰](../Page/真理翰.md "wikilink")、[涩琪](https://zh.wikipedia.org/wiki/澀琪 "wikilink") ([Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink"))一同出演 |
-| 5月22日         | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")                                   | [KBS](../Page/韓國放送公社.md "wikilink")                                                                       | 嘉宾，第274集，与[朴載範](../Page/朴載範.md "wikilink")、[Loco一同出演](https://zh.wikipedia.org/wiki/Loco "wikilink")                                                                                            |                                                                                                                                                                                                                          |
-| 11月27日        | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")                                   | [KBS](../Page/韓國放送公社.md "wikilink")                                                                       | 嘉宾，第298集，与[Crush](https://zh.wikipedia.org/wiki/Crush "wikilink")、[Loco一同出演](https://zh.wikipedia.org/wiki/Loco "wikilink")                                                                     |                                                                                                                                                                                                                          |
-| 2016          | 2月21日                                                                                         | [K-pop Planet](https://zh.wikipedia.org/wiki/K-pop_Planet "wikilink")                                     | [KBS](../Page/韓國放送公社.md "wikilink")                                                                                                                                                             | DJ，第20集，与[Loco一同出演](https://zh.wikipedia.org/wiki/Loco "wikilink")                                                                                                                                                       |
-| 3月22日         | [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")              | [JTBC](../Page/JTBC.md "wikilink")                                                                        | 嘉宾，第23集                                                                                                                                                                                         |                                                                                                                                                                                                                          |
-| 5月13日-7月15日   | [Show Me The Money 5](https://zh.wikipedia.org/wiki/Show_Me_The_Money_5 "wikilink")\[3\]\[4\] | [Mnet](../Page/Mnet媒體.md "wikilink")                                                                      | 制作人，与[Simon D一同出演](../Page/Simon_D.md "wikilink")\[5\]                                                                                                                                          |                                                                                                                                                                                                                          |
-| 6月11日         | [SNL Korea 7](https://zh.wikipedia.org/wiki/SNL_Korea#第七季 "wikilink")\[6\]                    | [tvN](../Page/TVN.md "wikilink")                                                                          | 主角，第154集                                                                                                                                                                                        |                                                                                                                                                                                                                          |
-| 8月31日         | [黃金漁場 Radio Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink")                   | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")                                               | 嘉宾，第491集，与[Simon D](../Page/Simon_D.md "wikilink")、[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink") ([Block B](../Page/Block_B.md "wikilink"))、[李善彬一同出演](../Page/李善彬.md "wikilink") |                                                                                                                                                                                                                          |
-| 2017          | 8月19日                                                                                         | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")                                               | [KBS](../Page/韓國放送公社.md "wikilink")                                                                                                                                                             | 嘉賓，第378集，与[Loco](https://zh.wikipedia.org/wiki/Loco "wikilink")、、[DJ Pumkin一同出演](https://zh.wikipedia.org/wiki/DJ_Pumkin "wikilink")                                                                                     |
-| 10月7日         | [鍵盤上的鬣狗](https://zh.wikipedia.org/wiki/鍵盤上的鬣狗 "wikilink")                                     | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                                                       | 製作人，[尹鍾信](../Page/尹鍾信.md "wikilink")、[鄭在炯](../Page/鄭在炯.md "wikilink")、 [Hui](../Page/李會澤.md "wikilink") ([PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink"))                                   |                                                                                                                                                                                                                          |
-| 10月8日         |                                                                                               |                                                                                                           |                                                                                                                                                                                                 |                                                                                                                                                                                                                          |
-| 2018          | 3月2日                                                                                          | [鍵盤上的鬣狗](https://zh.wikipedia.org/wiki/鍵盤上的鬣狗 "wikilink")                                                 | [KBS](../Page/韓國放送公社.md "wikilink")                                                                                                                                                             | 製作人，第1集，与、[Ailee](https://zh.wikipedia.org/wiki/李藝真 "wikilink")、[鄭東煥一同出演](https://zh.wikipedia.org/wiki/MeloMance "wikilink")                                                                                            |
-| 6月15日、22日、29日 | [The Call](https://zh.wikipedia.org/wiki/The_Call "wikilink")                                 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 嘉賓，与[Loco一同出演](https://zh.wikipedia.org/wiki/Loco "wikilink")                                                                                                                                   |                                                                                                                                                                                                                          |
-| 2019          | 1月3日                                                                                          | [不是你認識的我](https://zh.wikipedia.org/wiki/不是你認識的我 "wikilink")                                               | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                                                                                                                                           | 主要觀察對象                                                                                                                                                                                                                   |
-| 1月23日         | [請給一頓飯](https://zh.wikipedia.org/wiki/請給一頓飯 "wikilink")                                       | [JTBC](../Page/JTBC.md "wikilink")                                                                        | 嘉賓，[Loco一同出演](https://zh.wikipedia.org/wiki/Loco "wikilink")                                                                                                                                    |                                                                                                                                                                                                                          |
-| 2月1日          | [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")                                     | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 嘉賓，与[Loco](https://zh.wikipedia.org/wiki/Loco "wikilink")、[Simon D](../Page/Simon_D.md "wikilink")、[Code Kunst一同出演](https://zh.wikipedia.org/wiki/Code_Kunst "wikilink")                        |                                                                                                                                                                                                                          |
+| 年份            | 播放日期                                                                             | 节目名称                                                                                                      | 电视台                                                                                                                                                                                             | 备注                                                                                                                                                                                                    |
+| ------------- | -------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2014          | 5月6日                                                                             | [4种秀](../Page/4种秀.md "wikilink")                                                                          | [Mnet](../Page/Mnet媒體.md "wikilink")                                                                                                                                                            | 主角，第2集                                                                                                                                                                                                |
+| 10月9日         | [MIX & MATCH](../Page/MIX_&_MATCH.md "wikilink")                                 | 评委嘉宾，第5集                                                                                                  |                                                                                                                                                                                                 |                                                                                                                                                                                                       |
+| 2015          | 9月30日                                                                            | [黃金漁場 Radio Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink")                               | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")                                                                                                                                     | 嘉宾，第447集，与[朴京林](https://zh.wikipedia.org/wiki/朴慶琳 "wikilink")、[真理翰](../Page/真理翰.md "wikilink")、[涩琪](https://zh.wikipedia.org/wiki/澀琪 "wikilink") ([Red Velvet](../Page/Red_Velvet.md "wikilink"))一同出演 |
+| 5月22日         | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")                      | [KBS](../Page/韓國放送公社.md "wikilink")                                                                       | 嘉宾，第274集，与[朴載範](../Page/朴載範.md "wikilink")、[Loco一同出演](../Page/Loco.md "wikilink")                                                                                                               |                                                                                                                                                                                                       |
+| 11月27日        | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")                      | [KBS](../Page/韓國放送公社.md "wikilink")                                                                       | 嘉宾，第298集，与[Crush](https://zh.wikipedia.org/wiki/Crush "wikilink")、[Loco一同出演](../Page/Loco.md "wikilink")                                                                                        |                                                                                                                                                                                                       |
+| 2016          | 2月21日                                                                            | [K-pop Planet](https://zh.wikipedia.org/wiki/K-pop_Planet "wikilink")                                     | [KBS](../Page/韓國放送公社.md "wikilink")                                                                                                                                                             | DJ，第20集，与[Loco一同出演](../Page/Loco.md "wikilink")                                                                                                                                                       |
+| 3月22日         | [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") | [JTBC](../Page/JTBC.md "wikilink")                                                                        | 嘉宾，第23集                                                                                                                                                                                         |                                                                                                                                                                                                       |
+| 5月13日-7月15日   | [Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")\[3\]\[4\]       | [Mnet](../Page/Mnet媒體.md "wikilink")                                                                      | 制作人，与[Simon D一同出演](../Page/Simon_D.md "wikilink")\[5\]                                                                                                                                          |                                                                                                                                                                                                       |
+| 6月11日         | [SNL Korea 7](https://zh.wikipedia.org/wiki/SNL_Korea#第七季 "wikilink")\[6\]       | [tvN](../Page/TVN.md "wikilink")                                                                          | 主角，第154集                                                                                                                                                                                        |                                                                                                                                                                                                       |
+| 8月31日         | [黃金漁場 Radio Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink")      | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")                                               | 嘉宾，第491集，与[Simon D](../Page/Simon_D.md "wikilink")、[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink") ([Block B](../Page/Block_B.md "wikilink"))、[李善彬一同出演](../Page/李善彬.md "wikilink") |                                                                                                                                                                                                       |
+| 2017          | 8月19日                                                                            | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")                                               | [KBS](../Page/韓國放送公社.md "wikilink")                                                                                                                                                             | 嘉賓，第378集，与[Loco](../Page/Loco.md "wikilink")、、[DJ Pumkin一同出演](https://zh.wikipedia.org/wiki/DJ_Pumkin "wikilink")                                                                                     |
+| 10月7日         | [鍵盤上的鬣狗](https://zh.wikipedia.org/wiki/鍵盤上的鬣狗 "wikilink")                        | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                                                       | 製作人，[尹鍾信](../Page/尹鍾信.md "wikilink")、[鄭在炯](../Page/鄭在炯.md "wikilink")、 [Hui](../Page/李會澤.md "wikilink") ([PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink"))                                   |                                                                                                                                                                                                       |
+| 10月8日         |                                                                                  |                                                                                                           |                                                                                                                                                                                                 |                                                                                                                                                                                                       |
+| 2018          | 3月2日                                                                             | [鍵盤上的鬣狗](https://zh.wikipedia.org/wiki/鍵盤上的鬣狗 "wikilink")                                                 | [KBS](../Page/韓國放送公社.md "wikilink")                                                                                                                                                             | 製作人，第1集，与、[Ailee](https://zh.wikipedia.org/wiki/李藝真 "wikilink")、[鄭東煥一同出演](../Page/MeloMance.md "wikilink")                                                                                            |
+| 6月15日、22日、29日 | [The Call](../Page/The_Call.md "wikilink")                                       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 嘉賓，与[Loco一同出演](../Page/Loco.md "wikilink")                                                                                                                                                      |                                                                                                                                                                                                       |
+| 2019          | 1月3日                                                                             | [不是你認識的我](https://zh.wikipedia.org/wiki/不是你認識的我 "wikilink")                                               | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                                                                                                                                           | 主要觀察對象                                                                                                                                                                                                |
+| 1月23日         | [請給一頓飯](../Page/請給一頓飯.md "wikilink")                                             | [JTBC](../Page/JTBC.md "wikilink")                                                                        | 嘉賓，[Loco一同出演](../Page/Loco.md "wikilink")                                                                                                                                                       |                                                                                                                                                                                                       |
+| 2月1日          | [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")                        | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 嘉賓，与[Loco](../Page/Loco.md "wikilink")、[Simon D](../Page/Simon_D.md "wikilink")、[Code Kunst一同出演](https://zh.wikipedia.org/wiki/Code_Kunst "wikilink")                                           |                                                                                                                                                                                                       |
 
 ## 註釋
 

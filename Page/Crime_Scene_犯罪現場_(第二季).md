@@ -3,7 +3,7 @@
 
 第二季於2015年4月1日起至6月24日，韓國時間每週三晚上11點播出\[2\]。
 後續則有續作《[Crime Scene 犯罪現場
-(第三季)](https://zh.wikipedia.org/wiki/Crime_Scene_犯罪現場_\(第三季\) "wikilink")》。
+(第三季)](../Page/Crime_Scene_犯罪現場_\(第三季\).md "wikilink")》。
 
 2016年3月27日起中國網路平台[芒果TV播出官方授權節目](../Page/芒果TV.md "wikilink")《[明星大偵探](../Page/明星大偵探.md "wikilink")》\[3\]。
 

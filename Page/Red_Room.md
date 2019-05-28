@@ -1,19 +1,19 @@
 '''Red Velvet First Concert "Red Room" '''是韓國女子組合[Red
-Velvet于](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")2017年舉辦的第一次單獨亚洲巡回演唱會。
+Velvet于](../Page/Red_Velvet.md "wikilink")2017年舉辦的第一次單獨亚洲巡回演唱會。
 
 ## 概述
 
 [SM娛樂在](../Page/SM娛樂.md "wikilink")2017年7月宣布舉辦這次演唱會。門票銷售從7月13日開始，由YES24網站負責票務。
 
 演唱會演出了[Red
-Velvet的出道單曲](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")《[행복(Happiness)](https://zh.wikipedia.org/wiki/Happiness_\(Red_Velvet單曲\) "wikilink")》、《[Be
+Velvet的出道單曲](../Page/Red_Velvet.md "wikilink")《[행복(Happiness)](https://zh.wikipedia.org/wiki/Happiness_\(Red_Velvet單曲\) "wikilink")》、《[Be
 Natural](https://zh.wikipedia.org/wiki/Be_Natural "wikilink")》、四張迷你專輯《[Ice
 Cream
 Cake](https://zh.wikipedia.org/wiki/Ice_Cream_Cake "wikilink")》、《[The
 Velvet](../Page/The_Velvet.md "wikilink")》、《[Russian
 Roulette](https://zh.wikipedia.org/wiki/Russian_Roulette_\(Red_Velvet_EP\) "wikilink")》、《[Rookie](../Page/Rookie.md "wikilink")》、一張夏日特別專輯《[The
 Red Summer](../Page/The_Red_Summer.md "wikilink")》及一張正規專輯《[The
-Red](../Page/The_Red.md "wikilink")》的大部分曲目。以[首爾為首站拉開序幕](https://zh.wikipedia.org/wiki/首爾 "wikilink")\[1\]\[2\]。
+Red](../Page/The_Red.md "wikilink")》的大部分曲目。以[首爾為首站拉開序幕](../Page/首爾.md "wikilink")\[1\]\[2\]。
 
 ## 簡介
 
@@ -49,7 +49,7 @@ Red](../Page/The_Red.md "wikilink")》的大部分曲目。以[首爾為首站�
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p>8月18日（加場）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="../Page/奧林匹克公園_(首爾).md" title="wikilink">首爾奧林匹克公園奧林匹克大廳</a></p></td>
 <td><p>11,000[5]</p></td>
@@ -170,7 +170,7 @@ Red](../Page/The_Red.md "wikilink")》的大部分曲目。以[首爾為首站�
 <!-- end list -->
 
   - [Red
-    Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")（[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")、[Yeri](../Page/Yeri.md "wikilink")）
+    Velvet](../Page/Red_Velvet.md "wikilink")（[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](../Page/瑟琪.md "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")、[Yeri](../Page/Yeri.md "wikilink")）
 
 <!-- end list -->
 

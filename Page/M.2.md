@@ -12,10 +12,9 @@ Express x4的帶寬（實際情況視晶片組等情況而定）。
 3.0接口](../Page/USB_3.0.md "wikilink")，后两者則配備单个逻辑端口。取決于對主机和设备类型支援的级别，接口的支援取决于M.2主机或设备制造商的选择。M.2连接器有几种不同的固定槽，代表著M.2主机和模块不同的目的和功能，避免用户將M.2模块插入到功能不兼容的主机连接器中。\[4\]\[5\]\[6\]
 
 除了在逻辑接口的层面支持传统的[AHCI](../Page/AHCI.md "wikilink")，M.2标准还支持[NVM
-Express](https://zh.wikipedia.org/wiki/NVM_Express "wikilink")（NVMe）作为M.2
-PCI Express
+Express](../Page/NVM_Express.md "wikilink")（NVMe）作为M.2 PCI Express
 [SSD的逻辑设备接口](../Page/固态硬盘.md "wikilink")。支持AHCI能确保软件层面对传统SATA设备和传统[操作系统的向下兼容性](../Page/操作系统.md "wikilink")，而採用[NVM
-Express的设计則能充分利用PCI](https://zh.wikipedia.org/wiki/NVM_Express "wikilink")
+Express的设计則能充分利用PCI](../Page/NVM_Express.md "wikilink")
 Express存储设备的高性能，同時执行大量[I/O操作](https://zh.wikipedia.org/wiki/I/O "wikilink")。\[7\]\[8\]
 
 ## 特性

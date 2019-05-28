@@ -95,7 +95,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第五張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/SOLO_DAY" title="wikilink">SOLO DAY</a></strong>》</p></td>
+<td><p>第五張迷你專輯《<strong><a href="../Page/SOLO_DAY.md" title="wikilink">SOLO DAY</a></strong>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -111,11 +111,11 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第四張日文專輯《<strong><a href="https://zh.wikipedia.org/wiki/4_(B1A4專輯)" title="wikilink">4</a></strong>》</p></td>
+<td><p>第四張日文專輯《<strong><a href="../Page/4_(B1A4專輯).md" title="wikilink">4</a></strong>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>第七張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/Rollin&#39;" title="wikilink">Rollin'</a><a href="https://zh.wikipedia.org/wiki/Rollin&#39;_(B1A4迷你專輯)" title="wikilink"></a></strong>》</p></td>
+<td><p>第七張迷你專輯《<strong><a href="../Page/Rollin&#39;.md" title="wikilink">Rollin'</a><a href="https://zh.wikipedia.org/wiki/Rollin&#39;_(B1A4迷你專輯)" title="wikilink"></a></strong>》</p></td>
 <td><p>曲目</p>
 <ul>
 <li>내게 전화해 (打電話給我) (作詞作曲)</li>

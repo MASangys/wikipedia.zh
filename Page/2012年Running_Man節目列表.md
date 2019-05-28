@@ -65,7 +65,7 @@
 <span style=color:#00CED1><strong>智孝隊</strong></span>：宋智孝、崔始源、珉豪</p></td>
 <td><p>完成答案為「1」的算式</p></td>
 <td><p>Sulli隊<strong>勝出</strong><br />
-<em><strong>註：</strong><a href="../Page/李輝宰.md" title="wikilink">李輝宰</a>、<a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a>、(<a href="../Page/挑战千曲.md" title="wikilink">挑戰千曲</a>)驚喜出演</em></p></td>
+<em><strong>註：</strong><a href="../Page/李輝宰.md" title="wikilink">李輝宰</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、(<a href="../Page/挑战千曲.md" title="wikilink">挑戰千曲</a>)驚喜出演</em></p></td>
 </tr>
 <tr class="even">
 <td><p>062</p></td>
@@ -693,7 +693,7 @@ Gary、哈哈</p></td>
 <small>(235)</small></p></td>
 <td><p>7月15日<br />
 <small>(<em>7月2日</em>)</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盧士燕" title="wikilink">盧士燕</a>、<a href="../Page/申世景.md" title="wikilink">申世景</a>、<br />
+<td><p><a href="../Page/盧士燕.md" title="wikilink">盧士燕</a>、<a href="../Page/申世景.md" title="wikilink">申世景</a>、<br />
 <a href="../Page/劉俊相.md" title="wikilink">劉俊相</a>[6]</p></td>
 <td><p><a href="http://www.s-oil.com/">S-Oil總部</a><br />
 <small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
@@ -821,7 +821,7 @@ Gary、哈哈</p></td>
 <td><p>尋找黃金徽章</p></td>
 <td><p>張新英<strong>勝出</strong><br />
 獲得黃金徽章<br />
-<em><strong>註：</strong><a href="../Page/趙在允.md" title="wikilink">趙在允</a>、<a href="https://zh.wikipedia.org/wiki/Skull_(歌手)" title="wikilink">Skull特別出演</a><br />
+<em><strong>註：</strong><a href="../Page/趙在允.md" title="wikilink">趙在允</a>、<a href="../Page/Skull_(歌手).md" title="wikilink">Skull特別出演</a><br />
 概念來自<a href="../Page/SBS月火連續劇.md" title="wikilink">SBS月火劇</a>《<a href="../Page/追擊者_THE_CHASER.md" title="wikilink">追擊者</a>》</em></p></td>
 </tr>
 <tr class="odd">
@@ -940,7 +940,7 @@ Gary、哈哈</p></td>
 <small>(245)</small></p></td>
 <td><p>9月30日<br />
 <small>(<em>9月17日</em>)</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柳海真" title="wikilink">柳海真</a>、<a href="../Page/全美善.md" title="wikilink">全美善</a>、<br />
+<td><p><a href="../Page/柳海真.md" title="wikilink">柳海真</a>、<a href="../Page/全美善.md" title="wikilink">全美善</a>、<br />
 <a href="../Page/廉晶雅.md" title="wikilink">廉晶雅</a></p></td>
 <td><p><a href="http://www.samcheonggak.or.kr/">三清閣</a><br />
 <small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />

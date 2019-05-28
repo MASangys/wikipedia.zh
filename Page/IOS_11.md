@@ -631,7 +631,7 @@ iOS 11移除了对[32位元處理器的支援](../Page/32位元.md "wikilink")�
 
 2017年11月初的更新，对许多原为英文的功能名称进行了[本地化](https://zh.wikipedia.org/wiki/本地化 "wikilink")，以便于用户使用和理解，汉化分为原义呈现、混合搭配和巧思创意三种方式。\[7\]
 
-當中，[AirPlay的中文名稱為](https://zh.wikipedia.org/wiki/AirPlay "wikilink")**隔空播放**，[AirDrop的中文名称为](https://zh.wikipedia.org/wiki/AirDrop "wikilink")**隔空投送**，[Handoff的中文名稱為](https://zh.wikipedia.org/wiki/Handoff "wikilink")**接力**，[CarPlay則稱為](https://zh.wikipedia.org/wiki/CarPlay "wikilink")**CarPlay
+當中，[AirPlay的中文名稱為](https://zh.wikipedia.org/wiki/AirPlay "wikilink")**隔空播放**，[AirDrop的中文名称为](https://zh.wikipedia.org/wiki/AirDrop "wikilink")**隔空投送**，[Handoff的中文名稱為](https://zh.wikipedia.org/wiki/Handoff "wikilink")**接力**，[CarPlay則稱為](../Page/CarPlay.md "wikilink")**CarPlay
 車載**，[iMovie改成](https://zh.wikipedia.org/wiki/iMovie "wikilink")**iMovie剪輯**，[Touch
 ID改成](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")**觸控ID**，[Live
 Photos改叫](https://zh.wikipedia.org/wiki/Live_Photos "wikilink")**实況照片**，[iCloud

@@ -1,5 +1,5 @@
 **少年24**（)是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CJ
-E\&M旗下的男子練習生團體](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")，成員是由選秀節目[少年24中脫穎而出的練習生](../Page/少年24.md "wikilink")。隨著成員交替，現時有二十七個習生。少年24會於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[明洞專用公演場舉行公演](../Page/明洞.md "wikilink")，並會在2017年8月尾舉行總決賽決定出道成員。
+E\&M旗下的男子練習生團體](../Page/CJ_E&M.md "wikilink")，成員是由選秀節目[少年24中脫穎而出的練習生](../Page/少年24.md "wikilink")。隨著成員交替，現時有二十七個習生。少年24會於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[明洞專用公演場舉行公演](../Page/明洞.md "wikilink")，並會在2017年8月尾舉行總決賽決定出道成員。
 
 官方粉絲名稱為**H:Our**（)，意思為:\[1\]
 1\. 粉絲一整天(少年24的24加上Hour等於24hour)都在想著少年們
@@ -27,21 +27,21 @@ E\&M旗下的男子練習生團體](https://zh.wikipedia.org/wiki/CJ_E&M "wikili
   - 2016年12月15日李海儁幫忙演出的許魏洲'放'MV上演，海儁為MV當中的結他手。
   - 2017年2月14日，Unit Sky 成員李和英因私生活問題遭到公司除名。\[3\]
   - 2017年3月5日舉行SEMI
-    FINAL，決定第一個宣傳隊成員為朴塗荷、劉榮斗、鄭然太、[黃仁虎](https://zh.wikipedia.org/wiki/黃仁虎 "wikilink")、陳成鎬、韓顯旭、吳振碩、[金成賢](https://zh.wikipedia.org/wiki/金成賢 "wikilink")、金容炫。
+    FINAL，決定第一個宣傳隊成員為朴塗荷、劉榮斗、鄭然太、[黃仁虎](https://zh.wikipedia.org/wiki/黃仁虎 "wikilink")、陳成鎬、韓顯旭、吳振碩、[金成賢](../Page/金成賢.md "wikilink")、金容炫。
   - 2017年3月10日陳成鎬因醜聞被爆出而自願退出第一個宣傳隊。
   - 2017年3月23宣佈第一個宣傳隊隊名為UNIT BLACK。
   - SEMI FINAL後少年所有分隊重新組合，四個分隊為UNIT BLUE、UNIT RED、UNIT WHITE、UNIT
-    PURPLE，並分別由事前投票的前四名，即是[黃仁虎](https://zh.wikipedia.org/wiki/黃仁虎 "wikilink")、陳成鎬、朴塗荷、[金成賢](https://zh.wikipedia.org/wiki/金成賢 "wikilink")，擔任隊長。
+    PURPLE，並分別由事前投票的前四名，即是[黃仁虎](https://zh.wikipedia.org/wiki/黃仁虎 "wikilink")、陳成鎬、朴塗荷、[金成賢](../Page/金成賢.md "wikilink")，擔任隊長。
   - 2017年4月11日公開UNIT BLACK的出道單曲STEAL YOUR HEART的MV。
   - 2017年6月10日在[台北ATT](https://zh.wikipedia.org/wiki/台北 "wikilink")
     SHOWBOX舉行SHOWCASE，亦是巡演的第一站。\[4\]
   - 2017年6月27日公司宣佈2017年8月6日會是最後一天公演，那天亦是第260場公演，在公演結束前一星期會有原UNIT的公演。
   - 2017年7月5日公司宣佈FINAL會在2017年8月12日舉行，並宣佈吳振碩不會參加FINAL，即是他會在2017年8月6日最後公演後退出少年24。
-  - 2017年8月12日舉行FINAL，決定出道組成員為[黃仁虎](https://zh.wikipedia.org/wiki/黃仁虎 "wikilink")、鄭然太、金珍燮、[金成賢](https://zh.wikipedia.org/wiki/金成賢 "wikilink")、劉榮斗、Issac、陳成鎬、李引杓、韓顯旭。
+  - 2017年8月12日舉行FINAL，決定出道組成員為[黃仁虎](https://zh.wikipedia.org/wiki/黃仁虎 "wikilink")、鄭然太、金珍燮、[金成賢](../Page/金成賢.md "wikilink")、劉榮斗、Issac、陳成鎬、李引杓、韓顯旭。
   - 2017年8月14日，公司於粉絲專頁公告，陳成鎬因音樂理念不同，決定退出出道組。
-  - 2017年9月8日，公司宣佈出道組名字為[IN2IT](https://zh.wikipedia.org/wiki/IN2IT "wikilink")。
+  - 2017年9月8日，公司宣佈出道組名字為[IN2IT](../Page/IN2IT.md "wikilink")。
 
-### 2017年：計劃正式完結，[IN2IT正式出道](https://zh.wikipedia.org/wiki/IN2IT "wikilink")，其他成員各尋出路
+### 2017年：計劃正式完結，[IN2IT正式出道](../Page/IN2IT.md "wikilink")，其他成員各尋出路
 
   - 2017年10月26日，釋出IN2IT出道曲〈Amazing〉MV。同日，IN2IT登上M
     Countdown並在MESA舉行出道SHOWCASE。正式出道。
@@ -50,8 +50,8 @@ E\&M旗下的男子練習生團體](https://zh.wikipedia.org/wiki/CJ_E&M "wikili
   - 李宇珍和朴塗荷於網上翻唱了[IU的](https://zh.wikipedia.org/wiki/IU "wikilink")《夜信》和[Zion.T的](../Page/Zion.T.md "wikilink")《No
     Make Up》。
   - 卓真奎原本參加了[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[The
-    Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》，但後因個人原因而退出。隨後於網上翻唱了為《[The
-    Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》準備的歌曲，[Seventeen的](https://zh.wikipedia.org/wiki/Seventeen "wikilink")《Don't
+    Unit](../Page/The_Unit.md "wikilink")》，但後因個人原因而退出。隨後於網上翻唱了為《[The
+    Unit](../Page/The_Unit.md "wikilink")》準備的歌曲，[Seventeen的](https://zh.wikipedia.org/wiki/Seventeen "wikilink")《Don't
     Wanna Cry》；之後決定入伍。
   - 磪燦怡和鄭民桓均因當練習生而關閉了個人Instagram。
   - 鄭民桓進入了[Happy Face娛樂當練習生](../Page/Happy_Face娛樂.md "wikilink")，並與LEE
@@ -59,7 +59,7 @@ E\&M旗下的男子練習生團體](https://zh.wikipedia.org/wiki/CJ_E&M "wikili
   - 金紅仁在2017年11月16日參與畢業作品公演，多名成員皆有到場支持。
   - 吳振碩在公演完結後把目標轉為成為一位饒舌歌手。
   - 申宰旻在計劃完結進了舞蹈隊A.FLOW，並在2017年12月2日的Melon Music Awards 2017
-    (MMA)當了[JBJ的舞者](https://zh.wikipedia.org/wiki/JBJ "wikilink")。
+    (MMA)當了[JBJ的舞者](../Page/JBJ.md "wikilink")。
   - [蔡昊哲在](../Page/蔡昊哲.md "wikilink")2017年11月24日開了一間名叫-{「}-蔬菜beer-{」}-的店，形式是餐酒館加熱炒店。
   - 朴塗荷為[煥熙](https://zh.wikipedia.org/wiki/煥熙 "wikilink")-黎明感性
     (Complication album 2018\`연가(戀歌)\`企劃)拍攝MV。
@@ -102,7 +102,7 @@ E\&M旗下的男子練習生團體](https://zh.wikipedia.org/wiki/CJ_E&M "wikili
 **金珍燮**
 
   - 出演tvN的網路劇《爛車VIDEO》。
-  - 為了醫治梅尼爾氏症而退出[IN2IT](https://zh.wikipedia.org/wiki/IN2IT "wikilink")。
+  - 為了醫治梅尼爾氏症而退出[IN2IT](../Page/IN2IT.md "wikilink")。
   - 隨後以演員為目標準備中。
 
 **[蔡昊哲](../Page/蔡昊哲.md "wikilink")**
@@ -125,7 +125,7 @@ E\&M旗下的男子練習生團體](https://zh.wikipedia.org/wiki/CJ_E&M "wikili
 
 ### 2019年：更多其他成員的發展
 
-**[金成賢](https://zh.wikipedia.org/wiki/金成賢 "wikilink")**
+**[金成賢](../Page/金成賢.md "wikilink")**
 
   - 以STONE MUSIC旗下的練習生身分參加了《[PRODUCE X
     101](../Page/PRODUCE_X_101.md "wikilink")》。
@@ -149,7 +149,7 @@ E\&M旗下的男子練習生團體](https://zh.wikipedia.org/wiki/CJ_E&M "wikili
 | 崔在炫                                                 |
 | 李海儁                                                 |
 | 金珍燮                                                 |
-| [金成賢](https://zh.wikipedia.org/wiki/金成賢 "wikilink") |
+| [金成賢](../Page/金成賢.md "wikilink")                    |
 |                                                     |
 
 <table>
@@ -243,7 +243,7 @@ Isaac</p></td>
 <td><p>李海儁</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金成賢" title="wikilink">金成賢</a></p></td>
+<td><p><a href="../Page/金成賢.md" title="wikilink">金成賢</a></p></td>
 </tr>
 <tr class="even">
 <td><p>李宇珍</p></td>
@@ -357,16 +357,16 @@ Isaac</p></td>
 | 朴勇權      |
 |          |
 
-| UNIT PURPLE                                             |
-| ------------------------------------------------------- |
-| 漢字姓名                                                    |
-| 鄭然太                                                     |
-| 崔聖煥                                                     |
-| 崔在炫                                                     |
-| 金珍燮                                                     |
-| **[金成賢](https://zh.wikipedia.org/wiki/金成賢 "wikilink")** |
-| 李宇珍                                                     |
-|                                                         |
+| UNIT PURPLE                          |
+| ------------------------------------ |
+| 漢字姓名                                 |
+| 鄭然太                                  |
+| 崔聖煥                                  |
+| 崔在炫                                  |
+| 金珍燮                                  |
+| **[金成賢](../Page/金成賢.md "wikilink")** |
+| 李宇珍                                  |
+|                                      |
 
 ### 宣傳隊UNIT BLACK成員列表
 
@@ -379,7 +379,7 @@ Isaac</p></td>
 | [黃仁虎](https://zh.wikipedia.org/wiki/黃仁虎 "wikilink") |
 | 韓顯旭                                                 |
 | 吳振碩                                                 |
-| [金成賢](https://zh.wikipedia.org/wiki/金成賢 "wikilink") |
+| [金成賢](../Page/金成賢.md "wikilink")                    |
 | 金容炫                                                 |
 |                                                     |
 

@@ -1,7 +1,7 @@
 《**SJ
 Returns**》（，）為[韓國綜藝節目](https://zh.wikipedia.org/wiki/韓國 "wikilink")\[1\]，由[Super
 Junior](../Page/Super_Junior.md "wikilink")\[2\]出演，節目以Super
-Junior八輯《[PLAY](https://zh.wikipedia.org/wiki/Play_\(Super_Junior專輯\) "wikilink")》從回歸前120天開始進行的錄音花絮、練習室以及MV拍攝等為主軸\[3\]\[4\]。
+Junior八輯《[PLAY](../Page/Play_\(Super_Junior專輯\).md "wikilink")》從回歸前120天開始進行的錄音花絮、練習室以及MV拍攝等為主軸\[3\]\[4\]。
 2018年11月5日播出[第二季](https://zh.wikipedia.org/wiki/SJ_Returns_\(第二季\) "wikilink")\[5\]。
 
 ## 各集內容

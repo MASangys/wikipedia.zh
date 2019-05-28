@@ -6,7 +6,7 @@ plus發表會。 它是全球第一部使用[HDR螢幕和](https://zh.wikipedia.
 10
 納米處理器的手機，而且與前代S7不同，S8及S8+均為雙曲面玻璃屏幕，不設平面螢幕版本。三星S8拥有谜夜黑、耀星银、烟晶灰、雾屿蓝和绮梦金五种配色。同期競爭對手為[Sony
 Xperia XZ Premium](../Page/Sony_Xperia_XZ_Premium.md "wikilink")、[HTC
-U11和](https://zh.wikipedia.org/wiki/HTC_U11 "wikilink")[华为P10](https://zh.wikipedia.org/wiki/华为P10 "wikilink")。
+U11和](../Page/HTC_U11.md "wikilink")[华为P10](../Page/华为P10.md "wikilink")。
 
 ## 上市及銷售
 

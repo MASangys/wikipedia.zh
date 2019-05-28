@@ -1,4 +1,4 @@
-《**Riders：抓住明日**》（），為[韓國自](https://zh.wikipedia.org/wiki/韓國 "wikilink")2015年11月8日起於與同步首播的電視劇。由《[失業救助羅曼史](https://zh.wikipedia.org/wiki/失業救助羅曼史 "wikilink")》崔道勳導演與《[大風水](../Page/大風水.md "wikilink")》朴尚熙編劇攜手打造。崔汝珍與尹仲勳時隔2年繼《[急診男女](../Page/急診男女.md "wikilink")》後再度合作。
+《**Riders：抓住明日**》（），為[韓國自](https://zh.wikipedia.org/wiki/韓國 "wikilink")2015年11月8日起於與同步首播的電視劇。由《[失業救助羅曼史](../Page/失業救助羅曼史.md "wikilink")》崔道勳導演與《[大風水](../Page/大風水.md "wikilink")》朴尚熙編劇攜手打造。崔汝珍與尹仲勳時隔2年繼《[急診男女](../Page/急診男女.md "wikilink")》後再度合作。
 
 ## 演員陣容
 
@@ -58,7 +58,7 @@
 
 <!-- end list -->
 
-  - [吉海妍](https://zh.wikipedia.org/wiki/吉海妍 "wikilink") 飾演 裴美善
+  - [吉海妍](../Page/吉海妍.md "wikilink") 飾演 裴美善
 
 <!-- end list -->
 

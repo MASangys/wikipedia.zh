@@ -1,4 +1,4 @@
-是一只来自[韩国的职业](https://zh.wikipedia.org/wiki/韩国 "wikilink")[电子竞技队伍](../Page/电子竞技.md "wikilink")，该战队的前身为Anarchy战队，2015年12月30日，[AfreecaTV收购了Anarchy战队](../Page/AfreecaTV.md "wikilink")，并将其改为现名。目前该战队拥有[英雄联盟和](../Page/英雄联盟.md "wikilink")[絕地求生分部](https://zh.wikipedia.org/wiki/絕地求生 "wikilink")，其中绝地求生分部拥有Afreeca
+是一只来自[韩国的职业](https://zh.wikipedia.org/wiki/韩国 "wikilink")[电子竞技队伍](../Page/电子竞技.md "wikilink")，该战队的前身为Anarchy战队，2015年12月30日，[AfreecaTV收购了Anarchy战队](../Page/AfreecaTV.md "wikilink")，并将其改为现名。目前该战队拥有[英雄联盟和](../Page/英雄联盟.md "wikilink")[絕地求生分部](../Page/絕地求生.md "wikilink")，其中绝地求生分部拥有Afreeca
 Freecs Ares和Afreeca Freecs Fatal两支队伍。
 
 ## 发展历程

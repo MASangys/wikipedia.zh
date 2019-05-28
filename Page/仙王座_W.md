@@ -1,6 +1,6 @@
 **仙王座
 W**是位於[仙王座這個](../Page/仙王座.md "wikilink")[星座的一顆](../Page/星座.md "wikilink")[光譜聯星和](../Page/聯星.md "wikilink")[變星](../Page/變星.md "wikilink")。他被認為是[仙王座
-OB1](https://zh.wikipedia.org/wiki/仙王座_OB1 "wikilink")[星協的成員](https://zh.wikipedia.org/wiki/星協 "wikilink")，距離我們大約8,000光年\[1\]\[2\]。
+OB1](../Page/仙王座_OB1.md "wikilink")[星協的成員](https://zh.wikipedia.org/wiki/星協 "wikilink")，距離我們大約8,000光年\[1\]\[2\]。
 
 ## 發現
 
@@ -14,7 +14,7 @@ Ia，但也被認為有一顆小的高溫伴星，並加上不尋常的紅外過
 ## 系統
 
 仙王座
-W的系統包括一顆K型[超巨星與一顆光譜類型為早期B型的非超巨星伴星](../Page/超巨星.md "wikilink")。這顆恆星有不尋常的[發射線](../Page/譜線.md "wikilink")，包括由含有塵埃和電離氣體的星周包層產生的許可和禁制的Fe<sub>II</sub>線\[8\]。使用[斑點干涉解析出兩顆成員相距](https://zh.wikipedia.org/wiki/散斑成像 "wikilink")0.262"\[9\]。已提出可能的軌道週期是2,090日\[10\]。
+W的系統包括一顆K型[超巨星與一顆光譜類型為早期B型的非超巨星伴星](../Page/超巨星.md "wikilink")。這顆恆星有不尋常的[發射線](../Page/譜線.md "wikilink")，包括由含有塵埃和電離氣體的星周包層產生的許可和禁制的Fe<sub>II</sub>線\[8\]。使用[斑點干涉解析出兩顆成員相距](../Page/散斑成像.md "wikilink")0.262"\[9\]。已提出可能的軌道週期是2,090日\[10\]。
 
 ## 變異性
 

@@ -8,7 +8,7 @@
 
 ## 節目主持人
 
-  - [酷酷兄弟](http://www.liveworld.tw/wiki/KouKou_Brothers_%E9%85%B7%E9%85%B7%E5%85%84%E5%BC%9F#.E7.AF.80.E7.9B.AE.E7.B3.BB.E5.88.97)：由兩個[臺灣人](../Page/中華民國.md "wikilink")[阿神與阿謙所組成的團體](https://zh.wikipedia.org/wiki/阿神 "wikilink")，兩人皆由遊戲實況主出身，現為製作網路節目酷酷兄弟的YouTubers及主持人
+  - [酷酷兄弟](http://www.liveworld.tw/wiki/KouKou_Brothers_%E9%85%B7%E9%85%B7%E5%85%84%E5%BC%9F#.E7.AF.80.E7.9B.AE.E7.B3.BB.E5.88.97)：由兩個[臺灣人](../Page/中華民國.md "wikilink")[阿神與阿謙所組成的團體](../Page/阿神.md "wikilink")，兩人皆由遊戲實況主出身，現為製作網路節目酷酷兄弟的YouTubers及主持人
   - [大谷主水
     (夢多)](https://zh.wikipedia.org/wiki/大谷主水_\(夢多\) "wikilink")：[日本跆拳道國手](../Page/日本.md "wikilink")、空手道日本冠軍，現在在亞洲演藝圈發展的演員、模特兒、節目主持及武術指導
   - [法比歐](https://zh.wikipedia.org/wiki/法比歐 "wikilink")：[法國模特兒](https://zh.wikipedia.org/wiki/法國 "wikilink")、演員，現在為台灣綜藝節目主持人、通告藝人

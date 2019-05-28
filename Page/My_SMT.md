@@ -10,7 +10,7 @@ VOD播出的網路綜藝節目，
 <!-- end list -->
 
   - [利特](../Page/利特.md "wikilink")
-  - [道英](https://zh.wikipedia.org/wiki/道英 "wikilink")（第1集-第4集）
+  - [道英](../Page/道英.md "wikilink")（第1集-第4集）
   - Johnny（[SM ROOKIES](../Page/SM_ROOKIES.md "wikilink")）（第5集-第10集）
 
 <!-- end list -->
@@ -25,13 +25,13 @@ VOD播出的網路綜藝節目，
 
 | 日期          | 集數 | 來賓                                                                                                                                                                                                              |
 | ----------- | -- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2016年9月19日  | 1  | [Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")（[Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")）、[Wendy](https://zh.wikipedia.org/wiki/孫勝完 "wikilink")（Red Velvet）                        |
+| 2016年9月19日  | 1  | [Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")（[Red Velvet](../Page/Red_Velvet.md "wikilink")）、[Wendy](https://zh.wikipedia.org/wiki/孫勝完 "wikilink")（Red Velvet）                                           |
 | 2016年9月26日  | 2  | [泰民](../Page/泰民.md "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）、[珉豪](../Page/珉豪.md "wikilink")（SHINee）                                                                                                   |
 | 2016年10月17日 | 3  | [Henry](../Page/劉憲華.md "wikilink")（[Super Junior-M](../Page/Super_Junior-M.md "wikilink")）、[Sunny](https://zh.wikipedia.org/wiki/珊妮_\(少女時代\) "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")） |
 | 2016年10月24日 | 4  | [NCT Dream](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")（Mark、仁俊、Jeno 楷燦、渽民、辰樂、志晟）                                                                                                                       |
 | 2016年10月31日 | 5  | [圭贤](https://zh.wikipedia.org/wiki/圭贤 "wikilink")（[Super Junior](../Page/Super_Junior.md "wikilink")）                                                                                                           |
 | 2016年11月7日  | 6  | [安七炫](../Page/安七炫.md "wikilink")                                                                                                                                                                                |
-| 2016年11月14日 | 7  | [CHEN](https://zh.wikipedia.org/wiki/CHEN "wikilink")（[EXO](../Page/EXO.md "wikilink")）、 [Xiumin](https://zh.wikipedia.org/wiki/Xiumin "wikilink")（EXO）                                                         |
+| 2016年11月14日 | 7  | [CHEN](https://zh.wikipedia.org/wiki/CHEN "wikilink")（[EXO](../Page/EXO.md "wikilink")）、 [Xiumin](../Page/Xiumin.md "wikilink")（EXO）                                                                            |
 | 2016年11月21日 | 8  | [張玉安](https://zh.wikipedia.org/wiki/張玉安 "wikilink")                                                                                                                                                             |
 | 2016年12月4日  | 9  | [潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")（少女時代）                                                                                                                                                         |
 | 2016年12月11日 | 10 | [孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")（少女時代）                                                                                                                                                         |

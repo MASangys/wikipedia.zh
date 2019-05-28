@@ -7,7 +7,7 @@ Girl》。
 2015年6月30日，有韓國媒體報導B1A4正製作新作品，不久經紀公司[WM娛樂也證實此消息](https://zh.wikipedia.org/wiki/WM娛樂 "wikilink")\[2\]。
 
 到7月27日，組合在官方網站發放第一批概念照片，並公開新專輯名稱為《Sweet
-Girl》\[3\]；兩天後（7月29日），WM娛樂公布了曲目完整名單，成員[振永](../Page/振永.md "wikilink")、[CNU和](https://zh.wikipedia.org/wiki/CNU_\(歌手\) "wikilink")[Baro均有參與創作](../Page/Baro.md "wikilink")\[4\]，而[燦多更為此專輯特意減重十公斤](https://zh.wikipedia.org/wiki/燦多 "wikilink")\[5\]。
+Girl》\[3\]；兩天後（7月29日），WM娛樂公布了曲目完整名單，成員[振永](../Page/振永.md "wikilink")、[CNU和](../Page/CNU_\(歌手\).md "wikilink")[Baro均有參與創作](../Page/Baro.md "wikilink")\[4\]，而[燦多更為此專輯特意減重十公斤](https://zh.wikipedia.org/wiki/燦多 "wikilink")\[5\]。
 
 ## 曲目
 

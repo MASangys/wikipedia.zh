@@ -1,13 +1,13 @@
-《**BABYMETAL**》是日本團體[BABYMETAL在](../Page/BABYMETAL.md "wikilink")2014年2月26日發行的首張同名[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")\[1\]\[2\]\[3\]。專輯由13首歌曲組成\[4\]。在此之前BABYMETAL已發行過5張單曲，包括首張獨立作品\[5\]〈[心跳☆早晨](https://zh.wikipedia.org/wiki/心跳☆早晨 "wikilink")〉\[6\]、合作作品《[BABYMETAL
+《**BABYMETAL**》是日本團體[BABYMETAL在](../Page/BABYMETAL.md "wikilink")2014年2月26日發行的首張同名[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")\[1\]\[2\]\[3\]。專輯由13首歌曲組成\[4\]。在此之前BABYMETAL已發行過5張單曲，包括首張獨立作品\[5\]〈[心跳☆早晨](../Page/心跳☆早晨.md "wikilink")〉\[6\]、合作作品《[BABYMETAL
 × Kiba of
-Akiba](https://zh.wikipedia.org/wiki/BABYMETAL_×_Kiba_of_Akiba "wikilink")》中收錄的〈Iine\!〉\[7\]、第3張獨立作品〈[HeadBanger\!\!](https://zh.wikipedia.org/wiki/HeadBanger!! "wikilink")〉\[8\]、正式主流作品〈[欺凌、絕對、不行](https://zh.wikipedia.org/wiki/欺凌、絕對、不行 "wikilink")〉\[9\]、專輯發行前的最新單曲〈[女狐](https://zh.wikipedia.org/wiki/女狐 "wikilink")〉\[10\]，以及B面的歌曲，均收錄此專輯中\[11\]。主唱SU-METAL（[中元鈴香](../Page/中元鈴香.md "wikilink")）說「既是首張專輯，也是精選專輯」\[12\]。
+Akiba](../Page/BABYMETAL_×_Kiba_of_Akiba.md "wikilink")》中收錄的〈Iine\!〉\[7\]、第3張獨立作品〈[HeadBanger\!\!](../Page/HeadBanger!!.md "wikilink")〉\[8\]、正式主流作品〈[欺凌、絕對、不行](../Page/欺凌、絕對、不行.md "wikilink")〉\[9\]、專輯發行前的最新單曲〈[女狐](../Page/女狐.md "wikilink")〉\[10\]，以及B面的歌曲，均收錄此專輯中\[11\]。主唱SU-METAL（[中元鈴香](../Page/中元鈴香.md "wikilink")）說「既是首張專輯，也是精選專輯」\[12\]。
 
 ## 發行
 
 2013年12月21日在專場公演「[LEGEND "1997"
 SU-METAL聖誕祭](https://zh.wikipedia.org/wiki/LEGEND_"1997"_SU-METAL聖誕祭 "wikilink")」中第一次透露了新專輯計畫\[13\]。之後，在2014年1月24日公布了新專輯名為《BABYMETAL》\[14\]。
 
-販賣形態分為首批限量版（CD+DVD）・普通版（僅CD）。首批限量版中的DVD收錄5曲的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")、\[15\]及三名成員的評論音軌\[16\]，也收錄〈[給我巧克力\!\!](https://zh.wikipedia.org/wiki/給我巧克力!! "wikilink")〉的現場錄影\[17\]、「[SUMMER
+販賣形態分為首批限量版（CD+DVD）・普通版（僅CD）。首批限量版中的DVD收錄5曲的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")、\[15\]及三名成員的評論音軌\[16\]，也收錄〈[給我巧克力\!\!](../Page/給我巧克力!!.md "wikilink")〉的現場錄影\[17\]、「[SUMMER
 SONIC](../Page/SUMMER_SONIC.md "wikilink") 2013」音樂節中登台的影像\[18\]。
 
 WEB會員網站「BABYMETAL APOCALYPSE WEB」上，發行會員才能購買的WEB會員限定版「BABYMETAL
@@ -401,7 +401,7 @@ EMU-0210400</p></td>
 11. **〈惡夢的輪舞曲〉**
     融合[前衛金屬與敘事曲](../Page/前衛金屬.md "wikilink")，SU-METAL獨唱，主題是憂鬱的意念\[68\]。
 12. **〈HeadBanger\!\!〉**
-    融合鞭擊金屬（接近[灣區鞭擊金屬](https://zh.wikipedia.org/wiki/灣區鞭擊金屬 "wikilink")）、力量金屬與旋律死亡金屬。曲名代表重金屬音樂中甩頭的動作。主題是主唱在15歲生日膜拜金屬之神、透過金屬魂的降臨來擺脫過去\[69\]。音樂錄影帶中，用護頸來象徵金屬之神，以及現場演出的甩頭、昏倒等動作，來向因打鼓導致頸椎永久受損的[YOSHIKI致敬](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")。至2016年底的Youtube點播數是1100萬次。
+    融合鞭擊金屬（接近[灣區鞭擊金屬](../Page/灣區鞭擊金屬.md "wikilink")）、力量金屬與旋律死亡金屬。曲名代表重金屬音樂中甩頭的動作。主題是主唱在15歲生日膜拜金屬之神、透過金屬魂的降臨來擺脫過去\[69\]。音樂錄影帶中，用護頸來象徵金屬之神，以及現場演出的甩頭、昏倒等動作，來向因打鼓導致頸椎永久受損的[YOSHIKI致敬](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")。至2016年底的Youtube點播數是1100萬次。
 13. **〈欺凌、絕對、不行〉**
     融合速度金屬、力量金屬與旋律死亡金屬。主題是反霸凌、鼓勵弱者，描述在校園欺凌中自我與他人之間的抗爭\[70\]。此曲通常放在現場演出的最後一首。在限量版單曲裡收錄了[Arch
     Enemy前吉他手](../Page/邪神大敵.md "wikilink")彈奏電吉他的版本。至2016年底的Youtube點播數是1800萬次。
@@ -994,7 +994,7 @@ Bangya\!\!》內頁註記、單曲《欺淩、不行、絕對》普通版和首�
 <tr class="even">
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>作詞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Leda" title="wikilink">Leda</a></p></td>
+<td><p><a href="../Page/Leda.md" title="wikilink">Leda</a></p></td>
 <td style="text-align: center;"><p>吉他・貝斯</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1074,8 +1074,7 @@ Bangya\!\!》內頁註記、單曲《欺淩、不行、絕對》普通版和首�
 #### 曲目錄音樂手
 
   - <small>〈紅月-Akatsuki-〉</small>
-      - <small> [Leda](https://zh.wikipedia.org/wiki/Leda "wikilink") -
-        吉他</small>
+      - <small> [Leda](../Page/Leda.md "wikilink") - 吉他</small>
   - <small>〈撒嬌大作戰〉</small>
       - <small> - 吉他、貝斯</small>
   - <small>〈4之歌〉</small>
@@ -1085,8 +1084,7 @@ Bangya\!\!》內頁註記、單曲《欺淩、不行、絕對》普通版和首�
   - <small>〈Road of Resistance〉（歐版／美版附贈曲目）</small>
       - <small>[李康敏](../Page/李康敏.md "wikilink") - 吉他</small>
       - <small>  - 吉他</small>
-      - <small> [Leda](https://zh.wikipedia.org/wiki/Leda "wikilink") -
-        貝斯</small>
+      - <small> [Leda](../Page/Leda.md "wikilink") - 貝斯</small>
 
 #### 其他
 
@@ -1121,7 +1119,7 @@ Bangya\!\!》內頁註記、單曲《欺淩、不行、絕對》普通版和首�
   - 成員
       - [大村孝佳](../Page/大村孝佳.md "wikilink") - 吉他
 
-      - [Leda](https://zh.wikipedia.org/wiki/Leda "wikilink") - 吉他
+      - [Leda](../Page/Leda.md "wikilink") - 吉他
 
       - \- 貝斯
 

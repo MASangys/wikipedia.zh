@@ -136,7 +136,7 @@
 <td><p>10</p></td>
 <td><p>8月4日</p></td>
 <td><p>台北</p></td>
-<td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a></p></td>
+<td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a></p></td>
 <td><p>廖大哥</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
@@ -146,7 +146,7 @@
 <td><p>11</p></td>
 <td><p>8月10日</p></td>
 <td><p>台北</p></td>
-<td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a></p></td>
+<td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a></p></td>
 <td><p>小甘</p></td>
 <td><p>牛奶</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
@@ -156,14 +156,14 @@
 <td><p>12</p></td>
 <td><p>8月11日</p></td>
 <td><p>台北</p></td>
-<td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a></p></td>
+<td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a></p></td>
 <td><p>小甘</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="../Page/萬華區.md" title="wikilink">萬華區</a><a href="../Page/中華路.md" title="wikilink">中華路</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a></p></td>
+<td><p><a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a></p></td>
 <td><p>廖大哥</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/信義區" title="wikilink">信義區</a><a href="https://zh.wikipedia.org/wiki/光復南路" title="wikilink">光復南路</a>（<a href="https://zh.wikipedia.org/wiki/光復市場" title="wikilink">光復市場</a>）、<a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a><a href="https://zh.wikipedia.org/wiki/中正區" title="wikilink">中正區</a><a href="https://zh.wikipedia.org/wiki/武昌街" title="wikilink">武昌街</a></p></td>
@@ -385,7 +385,7 @@
 <td><p>澳門篇 (I)</p></td>
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>Sam Chung</p></td>
-<td><p>加蔥@<a href="https://zh.wikipedia.org/wiki/微辣Manner" title="wikilink">微辣</a></p></td>
+<td><p>加蔥@<a href="../Page/微辣Manner.md" title="wikilink">微辣</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -395,7 +395,7 @@
 <td><p>澳門篇 (II)</p></td>
 <td><p><a href="../Page/陳子豐.md" title="wikilink">陳子豐</a></p></td>
 <td><p>Sam Chung</p></td>
-<td><p>霍哥@<a href="https://zh.wikipedia.org/wiki/微辣Manner" title="wikilink">微辣</a></p></td>
+<td><p>霍哥@<a href="../Page/微辣Manner.md" title="wikilink">微辣</a></p></td>
 <td></td>
 <td></td>
 </tr>

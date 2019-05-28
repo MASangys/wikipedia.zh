@@ -23,7 +23,7 @@ I〉，後通過甄選成為[Pledis娛樂練習生](../Page/Pledis娛樂.md "wik
 於-{zh-cn:初;zh-tw:國}-中時期便開始嘗試作曲。成為練習生不久，公司在聽過自作曲後鼓勵WOOZI繼續進行創作，便持續摸索創作歌曲的技巧。\[6\]
 
 在[SEVENTEEN定名前](../Page/Seventeen_\(組合\).md "wikilink")，與[NU'EST成員](../Page/NU'EST.md "wikilink")、[張道允及公司其他男練習生合稱Pledis](https://zh.wikipedia.org/wiki/張道允 "wikilink")
-Boys。2012年，與[S.coups](https://zh.wikipedia.org/wiki/崔勝徹 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權純永 "wikilink")、[圓佑和](https://zh.wikipedia.org/wiki/全圓佑 "wikilink")[玟奎出演了](https://zh.wikipedia.org/wiki/金玟奎 "wikilink")[NU'EST出道曲](../Page/NU'EST.md "wikilink")〈FACE〉的MV\[7\]；同年，與Hoshi、[圓佑](https://zh.wikipedia.org/wiki/全圓佑 "wikilink")、玟奎出演[Hello
+Boys。2012年，與[S.coups](https://zh.wikipedia.org/wiki/崔勝徹 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權純永 "wikilink")、[圓佑和](../Page/全圓佑.md "wikilink")[玟奎出演了](https://zh.wikipedia.org/wiki/金玟奎 "wikilink")[NU'EST出道曲](../Page/NU'EST.md "wikilink")〈FACE〉的MV\[7\]；同年，與Hoshi、[圓佑](../Page/全圓佑.md "wikilink")、玟奎出演[Hello
 Venus的出道曲](../Page/Hello_Venus.md "wikilink")〈Venus〉的MV\[8\]。
 
 2013年起，[Pledis娛樂在網路個人電視伺服器](../Page/Pledis娛樂.md "wikilink")[Ustream上](https://zh.wikipedia.org/wiki/Ustream "wikilink")，依季別播放《SEVENTEEN
@@ -173,7 +173,7 @@ CARAT](https://zh.wikipedia.org/wiki/17_Carat_\(Seventeen迷你專輯\) "wikilin
 <td><p>2014年</p></td>
 <td><p>7月17日</p></td>
 <td><p>JUST FOR FUN [24]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/崔勝徹" title="wikilink">S.coups</a>、<a href="https://zh.wikipedia.org/wiki/全圓佑" title="wikilink">圓佑</a>、<a href="https://zh.wikipedia.org/wiki/崔翰率" title="wikilink">Vernon</a>、WOOZI</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔勝徹" title="wikilink">S.coups</a>、<a href="../Page/全圓佑.md" title="wikilink">圓佑</a>、<a href="https://zh.wikipedia.org/wiki/崔翰率" title="wikilink">Vernon</a>、WOOZI</p></td>
 <td><p>O.K party people in da house</p></td>
 <td><p>Dj Secatya</p></td>
 <td></td>
@@ -204,7 +204,7 @@ CARAT](https://zh.wikipedia.org/wiki/17_Carat_\(Seventeen迷你專輯\) "wikilin
 <td><p>8月6日</p></td>
 <td><p>We Gonna Make It Shine 2017ver. [29]</p></td>
 <td><p>We Gonna Make It Shine [30]</p></td>
-<td><p>WOOZI、<a href="https://zh.wikipedia.org/wiki/權純永" title="wikilink">Hoshi</a>、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a></p></td>
+<td><p>WOOZI、<a href="https://zh.wikipedia.org/wiki/權純永" title="wikilink">Hoshi</a>、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="../Page/夫勝寛.md" title="wikilink">勝寛</a></p></td>
 <td><p>於同年7月16日演唱會上表演[31]</p></td>
 <td></td>
 </tr>
@@ -215,11 +215,11 @@ CARAT](https://zh.wikipedia.org/wiki/17_Carat_\(Seventeen迷你專輯\) "wikilin
 
   - <small>此處列出已發佈，但發佈當時尚未正式發行之歌曲</small>
 
-| 年份    | 發佈日期  | 歌曲名稱                          | 演唱者                                                                                                                                                               | 備註                                                                                      |
-| ----- | ----- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
-| 2014年 | 5月22日 | We Gonna Make It Shine \[32\] | WOOZI、[Hoshi](https://zh.wikipedia.org/wiki/權純永 "wikilink")、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[勝寛](https://zh.wikipedia.org/wiki/夫勝寛 "wikilink") | 於2017年8月6日發佈2017翻唱版本\[33\]                                                              |
-| 2015年 | 5月16日 | O.M.G \[34\]                  | [S.coups](https://zh.wikipedia.org/wiki/崔勝徹 "wikilink")、WOOZI、[Dino](https://zh.wikipedia.org/wiki/李燦_\(SEVENTEEN\) "wikilink")                                   | 後收錄於迷你二輯《[BOYS BE](https://zh.wikipedia.org/wiki/BOYS_BE_\(Seventeen迷你專輯\) "wikilink")》 |
-| 2018年 | 6月30日 | 어떤 미래 \[35\]                  | WOOZI                                                                                                                                                             |                                                                                         |
+| 年份    | 發佈日期  | 歌曲名稱                          | 演唱者                                                                                                                                            | 備註                                                                                      |
+| ----- | ----- | ----------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------- |
+| 2014年 | 5月22日 | We Gonna Make It Shine \[32\] | WOOZI、[Hoshi](https://zh.wikipedia.org/wiki/權純永 "wikilink")、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[勝寛](../Page/夫勝寛.md "wikilink") | 於2017年8月6日發佈2017翻唱版本\[33\]                                                              |
+| 2015年 | 5月16日 | O.M.G \[34\]                  | [S.coups](https://zh.wikipedia.org/wiki/崔勝徹 "wikilink")、WOOZI、[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink")                                   | 後收錄於迷你二輯《[BOYS BE](https://zh.wikipedia.org/wiki/BOYS_BE_\(Seventeen迷你專輯\) "wikilink")》 |
+| 2018年 | 6月30日 | 어떤 미래 \[35\]                  | WOOZI                                                                                                                                          |                                                                                         |
 
 ## 創作作品
 
@@ -232,65 +232,65 @@ CARAT](https://zh.wikipedia.org/wiki/17_Carat_\(Seventeen迷你專輯\) "wikilin
 
 ### 所屬團體之歌曲 (專輯)
 
-| 發佈日期                                          | 收錄專輯                                                              | 歌曲名稱                          | 歌曲編號         | 作詞 | 作曲 | 編曲 |
-| --------------------------------------------- | ----------------------------------------------------------------- | ----------------------------- | ------------ | -- | -- | -- |
-| 2015年5月29日                                    | 《[17 CARAT](../Page/17_Carat.md "wikilink")》                      | Shining Diamond               | 100001106525 | ✓  | ✓  |    |
-| **Adore U（아낀다）**                              | 100001106526                                                      | ✓                             | ✓            | ✓  |    |    |
-| Ah Yeah                                       | 100001106530                                                      | ✓                             |              |    |    |    |
-| Jam Jam                                       | 100001106534                                                      | ✓                             | ✓            |    |    |    |
-| 20                                            | 100001106535                                                      | **✓**                         | ✓            |    |    |    |
-| 2015年9月10日                                    | 《[BOYS BE](../Page/Boys_Be_\(Seventeen迷你專輯\).md "wikilink")》      | Fronting（표정관리）                | 100001134937 | ✓  |    |    |
-| **MANSAE（만세）**                                | 100001134942                                                      | ✓                             | ✓            |    |    |    |
-| When I Grow Up（어른이 되면）                        | 100001134948                                                      | **✓**                         | ✓            |    |    |    |
-| OMG                                           | 100001134952                                                      | ✓                             | ✓            |    |    |    |
-| ROCK                                          | 100001134954                                                      | ✓                             | ✓            |    |    |    |
-| 2016年4月25日                                    | 《[LOVE\&LETTER](../Page/Love_&_Letter.md "wikilink")》             | Chuck（엄지척）                    | 100001340053 | ✓  | ✓  |    |
-| **Pretty U（예쁘다）**                             | 100001340055                                                      | ✓                             | ✓            | ✓  |    |    |
-| Still Lonely（이놈의 인기）                          | 100001340080                                                      | ✓                             | ✓            |    |    |    |
-| Say Yes                                       | 100001340082                                                      | ✓                             |              |    |    |    |
-| Drift Away（떠내려가）                              | 100001340083                                                      | ✓                             | **✓**        |    |    |    |
-| Adore U (Vocal Team Ver.)                     | 100001340089                                                      | ✓                             | ✓            | ✓  |    |    |
-| MANSAE (Hip-hop Team Ver.)                    | 100001340142                                                      | ✓                             | ✓            |    |    |    |
-| Shining Diamond (Performance Team Ver.)       | 100001340136                                                      | ✓                             | ✓            |    |    |    |
-| Love Letter（사랑쪽지）                             | 100001340105                                                      | ✓                             | ✓            |    |    |    |
-| 2016年7月4日                                     | 《[Love & Letter（重裝版）](../Page/Love_&_Letter.md "wikilink")》       | NO F.U.N                      | 100001362711 | ✓  | ✓  |    |
-| **VERY NICE（아주 NICE）**                        | 100001362715                                                      | ✓                             | ✓            |    |    |    |
-| Healing（힐링）                                   | 100001362911                                                      | ✓                             | ✓            |    |    |    |
-| SIMPLE                                        | 100001363042                                                      | **✓**                         | ✓            |    |    |    |
-| 2016年12月5日                                    | 《[Going Seventeen](../Page/Going_Seventeen.md "wikilink")》        | BEAUTIFUL                     | 100001489450 | ✓  | ✓  |    |
-| **BOOMBOOM（붐붐）**                              | 100001489451                                                      | ✓                             | ✓            |    |    |    |
-| Fast Pace（빠른 걸음）                              | 100001489454                                                      | ✓                             | ✓            |    |    |    |
-| Don't Listen In Secret（몰래 듣지 마요）              | 100001489455                                                      | **✓**                         | ✓            |    |    |    |
-| I Don't Know（글쎄）                              | 100001489457                                                      | ✓                             | ✓            |    |    |    |
-| Smile Flower（웃음꽃）                             | 100001489456                                                      | **✓**                         | ✓            |    |    |    |
-| 2017年5月22日                                    | 《[Al1](../Page/Al1.md "wikilink")》                                | **Don't Wanna Cry（울고 싶지 않아）** | 100001586527 | ✓  | ✓  |    |
-| Habit（입버릇）                                    | 100001587218                                                      | **✓**                         | ✓            |    |    |    |
-| Swimming Fool                                 | 100001586537                                                      | ✓                             | ✓            |    |    |    |
-| MY I                                          | 100001586543                                                      |                               | ✓            |    |    |    |
-| Crazy in Love                                 | 100001586551                                                      | ✓                             | ✓            |    |    |    |
-| WHO                                           | 100001586639                                                      |                               | ✓            |    |    |    |
-| 2017年11月6日                                    | 《[TEEN, AGE](https://zh.wikipedia.org/wiki/Teen,_Age "wikilink")》 | Intro. 新世界                    | 100001731884 | ✓  | ✓  |    |
-| CHANGE UP                                     | 100001731886                                                      | ✓                             | ✓            |    |    |    |
-| Without You（모자를 눌러 쓰고）                        | 100001731889                                                      | ✓                             | ✓            |    |    |    |
-| **CLAP（박수）**                                  | 100001731892                                                      | ✓                             | ✓            |    |    |    |
-| Bring It（날 쏘고 가라）                             | 100001731895                                                      | ✓                             | ✓            |    |    |    |
-| Lilili Yabbay（13월의 춤）                         | 100001731896                                                      | ✓                             | ✓            |    |    |    |
-| Pinwheel（바람개비）                                | 100001731901                                                      | ✓                             | **✓**        |    |    |    |
-| Flower                                        | 100001731904                                                      | ✓                             |              |    |    |    |
-| ROCKET                                        | 100001731908                                                      | ✓                             | ✓            |    |    |    |
-| Campfire（캠프파이어）                               | 100001731914                                                      | ✓                             | ✓            |    |    |    |
-| Outro. 未完                                     | 100001731915                                                      |                               | ✓            |    |    |    |
-| 2018年2月5日                                     | 《Director's Cut》                                                  | Thinkin' about you            | 100001824251 | ✓  | ✓  |    |
-| **Thanks（고맙다）**                               | 100001824252                                                      | ✓                             | ✓            |    |    |    |
-| Run to You (지금 널찾아가고있어)                       | 100001824253                                                      | ✓                             | ✓            |    |    |    |
-| Falling For You                               | 100001824254                                                      | ✓                             | ✓            |    |    |    |
-| 2018年3月21日                                    | 《JUST DO IT》                                                      | **Just Do It（거침없이）**          | 100001934079 | ✓  | ✓  |    |
-| 2018年5月30日                                    | 《WE MAKE YOU》                                                     | **CALL CALL CALL\!**          | 100002212033 | ✓  | ✓  |    |
-| 2018年7月16日                                    | 《YOU MAKE MY DAY》                                                 | **Oh My\!（어쩌나）**              | 100002221413 | ✓  | ✓  |    |
-| Holiday                                       | 100002221419                                                      | ✓                             | ✓            |    |    |    |
-| Come To Me (나에게로 와)                           | 100002221424                                                      | ✓                             | ✓            | ✓  |    |    |
-| MOONWALKER                                    | 100002221450                                                      | ✓                             | ✓            |    |    |    |
-| Our Dawn Is Hotter Than Day (우리의 새벽은 낮보다 뜨겁다) | 100002221451                                                      | ✓                             | ✓            |    |    |    |
+| 發佈日期                                          | 收錄專輯                                                         | 歌曲名稱                          | 歌曲編號         | 作詞 | 作曲 | 編曲 |
+| --------------------------------------------- | ------------------------------------------------------------ | ----------------------------- | ------------ | -- | -- | -- |
+| 2015年5月29日                                    | 《[17 CARAT](../Page/17_Carat.md "wikilink")》                 | Shining Diamond               | 100001106525 | ✓  | ✓  |    |
+| **Adore U（아낀다）**                              | 100001106526                                                 | ✓                             | ✓            | ✓  |    |    |
+| Ah Yeah                                       | 100001106530                                                 | ✓                             |              |    |    |    |
+| Jam Jam                                       | 100001106534                                                 | ✓                             | ✓            |    |    |    |
+| 20                                            | 100001106535                                                 | **✓**                         | ✓            |    |    |    |
+| 2015年9月10日                                    | 《[BOYS BE](../Page/Boys_Be_\(Seventeen迷你專輯\).md "wikilink")》 | Fronting（표정관리）                | 100001134937 | ✓  |    |    |
+| **MANSAE（만세）**                                | 100001134942                                                 | ✓                             | ✓            |    |    |    |
+| When I Grow Up（어른이 되면）                        | 100001134948                                                 | **✓**                         | ✓            |    |    |    |
+| OMG                                           | 100001134952                                                 | ✓                             | ✓            |    |    |    |
+| ROCK                                          | 100001134954                                                 | ✓                             | ✓            |    |    |    |
+| 2016年4月25日                                    | 《[LOVE\&LETTER](../Page/Love_&_Letter.md "wikilink")》        | Chuck（엄지척）                    | 100001340053 | ✓  | ✓  |    |
+| **Pretty U（예쁘다）**                             | 100001340055                                                 | ✓                             | ✓            | ✓  |    |    |
+| Still Lonely（이놈의 인기）                          | 100001340080                                                 | ✓                             | ✓            |    |    |    |
+| Say Yes                                       | 100001340082                                                 | ✓                             |              |    |    |    |
+| Drift Away（떠내려가）                              | 100001340083                                                 | ✓                             | **✓**        |    |    |    |
+| Adore U (Vocal Team Ver.)                     | 100001340089                                                 | ✓                             | ✓            | ✓  |    |    |
+| MANSAE (Hip-hop Team Ver.)                    | 100001340142                                                 | ✓                             | ✓            |    |    |    |
+| Shining Diamond (Performance Team Ver.)       | 100001340136                                                 | ✓                             | ✓            |    |    |    |
+| Love Letter（사랑쪽지）                             | 100001340105                                                 | ✓                             | ✓            |    |    |    |
+| 2016年7月4日                                     | 《[Love & Letter（重裝版）](../Page/Love_&_Letter.md "wikilink")》  | NO F.U.N                      | 100001362711 | ✓  | ✓  |    |
+| **VERY NICE（아주 NICE）**                        | 100001362715                                                 | ✓                             | ✓            |    |    |    |
+| Healing（힐링）                                   | 100001362911                                                 | ✓                             | ✓            |    |    |    |
+| SIMPLE                                        | 100001363042                                                 | **✓**                         | ✓            |    |    |    |
+| 2016年12月5日                                    | 《[Going Seventeen](../Page/Going_Seventeen.md "wikilink")》   | BEAUTIFUL                     | 100001489450 | ✓  | ✓  |    |
+| **BOOMBOOM（붐붐）**                              | 100001489451                                                 | ✓                             | ✓            |    |    |    |
+| Fast Pace（빠른 걸음）                              | 100001489454                                                 | ✓                             | ✓            |    |    |    |
+| Don't Listen In Secret（몰래 듣지 마요）              | 100001489455                                                 | **✓**                         | ✓            |    |    |    |
+| I Don't Know（글쎄）                              | 100001489457                                                 | ✓                             | ✓            |    |    |    |
+| Smile Flower（웃음꽃）                             | 100001489456                                                 | **✓**                         | ✓            |    |    |    |
+| 2017年5月22日                                    | 《[Al1](../Page/Al1.md "wikilink")》                           | **Don't Wanna Cry（울고 싶지 않아）** | 100001586527 | ✓  | ✓  |    |
+| Habit（입버릇）                                    | 100001587218                                                 | **✓**                         | ✓            |    |    |    |
+| Swimming Fool                                 | 100001586537                                                 | ✓                             | ✓            |    |    |    |
+| MY I                                          | 100001586543                                                 |                               | ✓            |    |    |    |
+| Crazy in Love                                 | 100001586551                                                 | ✓                             | ✓            |    |    |    |
+| WHO                                           | 100001586639                                                 |                               | ✓            |    |    |    |
+| 2017年11月6日                                    | 《[TEEN, AGE](../Page/Teen,_Age.md "wikilink")》               | Intro. 新世界                    | 100001731884 | ✓  | ✓  |    |
+| CHANGE UP                                     | 100001731886                                                 | ✓                             | ✓            |    |    |    |
+| Without You（모자를 눌러 쓰고）                        | 100001731889                                                 | ✓                             | ✓            |    |    |    |
+| **CLAP（박수）**                                  | 100001731892                                                 | ✓                             | ✓            |    |    |    |
+| Bring It（날 쏘고 가라）                             | 100001731895                                                 | ✓                             | ✓            |    |    |    |
+| Lilili Yabbay（13월의 춤）                         | 100001731896                                                 | ✓                             | ✓            |    |    |    |
+| Pinwheel（바람개비）                                | 100001731901                                                 | ✓                             | **✓**        |    |    |    |
+| Flower                                        | 100001731904                                                 | ✓                             |              |    |    |    |
+| ROCKET                                        | 100001731908                                                 | ✓                             | ✓            |    |    |    |
+| Campfire（캠프파이어）                               | 100001731914                                                 | ✓                             | ✓            |    |    |    |
+| Outro. 未完                                     | 100001731915                                                 |                               | ✓            |    |    |    |
+| 2018年2月5日                                     | 《Director's Cut》                                             | Thinkin' about you            | 100001824251 | ✓  | ✓  |    |
+| **Thanks（고맙다）**                               | 100001824252                                                 | ✓                             | ✓            |    |    |    |
+| Run to You (지금 널찾아가고있어)                       | 100001824253                                                 | ✓                             | ✓            |    |    |    |
+| Falling For You                               | 100001824254                                                 | ✓                             | ✓            |    |    |    |
+| 2018年3月21日                                    | 《JUST DO IT》                                                 | **Just Do It（거침없이）**          | 100001934079 | ✓  | ✓  |    |
+| 2018年5月30日                                    | 《WE MAKE YOU》                                                | **CALL CALL CALL\!**          | 100002212033 | ✓  | ✓  |    |
+| 2018年7月16日                                    | 《YOU MAKE MY DAY》                                            | **Oh My\!（어쩌나）**              | 100002221413 | ✓  | ✓  |    |
+| Holiday                                       | 100002221419                                                 | ✓                             | ✓            |    |    |    |
+| Come To Me (나에게로 와)                           | 100002221424                                                 | ✓                             | ✓            | ✓  |    |    |
+| MOONWALKER                                    | 100002221450                                                 | ✓                             | ✓            |    |    |    |
+| Our Dawn Is Hotter Than Day (우리의 새벽은 낮보다 뜨겁다) | 100002221451                                                 | ✓                             | ✓            |    |    |    |
 
 ### 所屬團體之歌曲 (光碟)
 
@@ -489,18 +489,18 @@ CARAT](https://zh.wikipedia.org/wiki/17_Carat_\(Seventeen迷你專輯\) "wikilin
 
   - <small>此處列出WOOZI參與演出之音樂錄影帶。</small>
 
-| 年份    | 發佈日期         | 歌曲名稱                                             | 演唱者                                    | 備註                                                                                                                                                                                                                   |
-| ----- | ------------ | ------------------------------------------------ | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2012年 | 3月15日        | FACE \[44\]                                      | [NU'EST](../Page/NU'EST.md "wikilink") | 與[S.coups](https://zh.wikipedia.org/wiki/崔勝徹 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權純永 "wikilink")、[圓佑](https://zh.wikipedia.org/wiki/全圓佑 "wikilink")、[玟奎](https://zh.wikipedia.org/wiki/金玟奎 "wikilink") |
-| 5月8日  | Venus \[45\] | [Hello Venus](../Page/Hello_Venus.md "wikilink") | 與Hoshi、圓佑、玟奎                           |                                                                                                                                                                                                                      |
+| 年份    | 發佈日期         | 歌曲名稱                                             | 演唱者                                    | 備註                                                                                                                                                                                                |
+| ----- | ------------ | ------------------------------------------------ | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2012年 | 3月15日        | FACE \[44\]                                      | [NU'EST](../Page/NU'EST.md "wikilink") | 與[S.coups](https://zh.wikipedia.org/wiki/崔勝徹 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權純永 "wikilink")、[圓佑](../Page/全圓佑.md "wikilink")、[玟奎](https://zh.wikipedia.org/wiki/金玟奎 "wikilink") |
+| 5月8日  | Venus \[45\] | [Hello Venus](../Page/Hello_Venus.md "wikilink") | 與Hoshi、圓佑、玟奎                           |                                                                                                                                                                                                   |
 
 ### 其他音樂錄影帶
 
-| 年份    | 發佈日期                          | 歌曲名稱                                                                                                              | 參與成員                                                                                                                                                                                 | 備註                   |
-| ----- | ----------------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------- |
-| 2014年 | 3月5日                          | Money Money Money<small>（原唱：）</small>\[46\]                                                                       | [Hoshi](https://zh.wikipedia.org/wiki/權純永 "wikilink")、WOOZI、[Vernon](https://zh.wikipedia.org/wiki/崔翰率 "wikilink")、[Dino](https://zh.wikipedia.org/wiki/李燦_\(SEVENTEEN\) "wikilink") | Dance Practice Video |
-| 5月22日 | We gonna make it shine \[47\] | Hoshi、WOOZI、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[勝寛](https://zh.wikipedia.org/wiki/夫勝寛 "wikilink") | Vocal Practice Video                                                                                                                                                                 |                      |
-| 2017年 | 8月6日                          | We gonna make it shine 2017ver. \[48\]                                                                            | Vocal Team                                                                                                                                                                           | 翻唱自2014版本            |
+| 年份    | 發佈日期                          | 歌曲名稱                                                                                           | 參與成員                                                                                                                                                              | 備註                   |
+| ----- | ----------------------------- | ---------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------- |
+| 2014年 | 3月5日                          | Money Money Money<small>（原唱：）</small>\[46\]                                                    | [Hoshi](https://zh.wikipedia.org/wiki/權純永 "wikilink")、WOOZI、[Vernon](https://zh.wikipedia.org/wiki/崔翰率 "wikilink")、[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink") | Dance Practice Video |
+| 5月22日 | We gonna make it shine \[47\] | Hoshi、WOOZI、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[勝寛](../Page/夫勝寛.md "wikilink") | Vocal Practice Video                                                                                                                                              |                      |
+| 2017年 | 8月6日                          | We gonna make it shine 2017ver. \[48\]                                                         | Vocal Team                                                                                                                                                        | 翻唱自2014版本            |
 
 ## 影視作品
 
@@ -519,13 +519,13 @@ CARAT](https://zh.wikipedia.org/wiki/17_Carat_\(Seventeen迷你專輯\) "wikilin
 
 ### 電台節目
 
-| 年份     | 播放日期                                | 廣播頻道         | 節目名稱                                                                                                           | 備註                                                                                                                                                                                                                     |
-| ------ | ----------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2015年  | 6月15日                               | SBS Power FM | 李國主的Young Street                                                                                               | 與[S.coups](https://zh.wikipedia.org/wiki/崔勝徹 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權純永 "wikilink")                                                                                                         |
-| 10月4日  | KBS Cool FM                         | K-Pop Planet | 一日特別DJ（與[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、[勝寛](https://zh.wikipedia.org/wiki/夫勝寛 "wikilink")） |                                                                                                                                                                                                                        |
-| 10月16日 | [MBC](../Page/文化廣播公司.md "wikilink") | 許卿煥的閃耀星夜     | 與S.coups                                                                                                       |                                                                                                                                                                                                                        |
-| 2017年  | 6月7日                                | SBS Power FM | Two Men Show                                                                                                   | 與[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、[Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")、[圓佑](https://zh.wikipedia.org/wiki/全圓佑 "wikilink")、[The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")、勝寛 |
-| 2018年  | 2月13日                               | SBS Power FM | 崔華靜的Power Time                                                                                                 | 與S.coups、Hoshi、玟奎、The8、勝寬                                                                                                                                                                                              |
+| 年份     | 播放日期                                | 廣播頻道         | 節目名稱                                                                                        | 備註                                                                                                                                                                                                  |
+| ------ | ----------------------------------- | ------------ | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2015年  | 6月15日                               | SBS Power FM | 李國主的Young Street                                                                            | 與[S.coups](https://zh.wikipedia.org/wiki/崔勝徹 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權純永 "wikilink")                                                                                      |
+| 10月4日  | KBS Cool FM                         | K-Pop Planet | 一日特別DJ（與[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、[勝寛](../Page/夫勝寛.md "wikilink")） |                                                                                                                                                                                                     |
+| 10月16日 | [MBC](../Page/文化廣播公司.md "wikilink") | 許卿煥的閃耀星夜     | 與S.coups                                                                                    |                                                                                                                                                                                                     |
+| 2017年  | 6月7日                                | SBS Power FM | Two Men Show                                                                                | 與[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、[Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")、[圓佑](../Page/全圓佑.md "wikilink")、[The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")、勝寛 |
+| 2018年  | 2月13日                               | SBS Power FM | 崔華靜的Power Time                                                                              | 與S.coups、Hoshi、玟奎、The8、勝寬                                                                                                                                                                           |
 
 ## 演唱會及其他演出活動
 
@@ -535,10 +535,10 @@ CARAT](https://zh.wikipedia.org/wiki/17_Carat_\(Seventeen迷你專輯\) "wikilin
 
 ### 其他大型演唱會
 
-| 年份     | 日期                                            | 演唱會名稱                                                                                    | 舉行地點                                                                                              | 備註          |
-| ------ | --------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------- |
-| 2016年  | 1月17日                                         | [無限挑戰EXPO](../Page/無限挑戰.md "wikilink")                                                   | [韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[京畿道一山KINTEX](../Page/京畿道.md "wikilink") 第一展覽館 | 與Vocal Team |
-| 12月29日 | 2016 [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink") | 韓國[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")[汝矣島KBS大廳](../Page/汝矣島.md "wikilink") | 與SEVENTEEN樂團－[爵士鼓](../Page/爵士鼓.md "wikilink") \[50\]                                              |             |
+| 年份     | 日期                                            | 演唱會名稱                                                                 | 舉行地點                                                                                              | 備註          |
+| ------ | --------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ----------- |
+| 2016年  | 1月17日                                         | [無限挑戰EXPO](../Page/無限挑戰.md "wikilink")                                | [韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[京畿道一山KINTEX](../Page/京畿道.md "wikilink") 第一展覽館 | 與Vocal Team |
+| 12月29日 | 2016 [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink") | 韓國[首爾](../Page/首爾.md "wikilink")[汝矣島KBS大廳](../Page/汝矣島.md "wikilink") | 與SEVENTEEN樂團－[爵士鼓](../Page/爵士鼓.md "wikilink") \[50\]                                              |             |
 
 ## 雜誌拍攝與訪問
 

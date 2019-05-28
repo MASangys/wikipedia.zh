@@ -126,8 +126,7 @@ STL也能在CAD、CAM和計算環境（如：[Mathematica](https://zh.wikipedia.
 
   - [PLY](../Page/PLY.md "wikilink"), 一個比多數立體光刻規格提供更彈性的格式。
 
-  - [Wavefront
-    .obj文件](https://zh.wikipedia.org/wiki/Wavefront_.obj文件 "wikilink"),
+  - [Wavefront .obj文件](../Page/Wavefront_.obj文件.md "wikilink"),
     一個副檔名為*.obj*的3D幾何定義檔案格式。
 
   - [X3D](../Page/X3D.md "wikilink"), 免專利費的三維電腦圖形ISO標準。

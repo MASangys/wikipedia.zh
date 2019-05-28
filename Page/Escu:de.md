@@ -187,13 +187,13 @@
 <td><p>西村悠一</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/新娘和魔王_～王室的後宮是下克上～" title="wikilink">花嫁と魔王 ～王室のハーレムは下剋上～</a></p></td>
+<td><p><a href="../Page/新娘和魔王_～王室的後宮是下克上～.md" title="wikilink">花嫁と魔王 ～王室のハーレムは下剋上～</a></p></td>
 <td><p>2014年8月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/白餅櫻" title="wikilink">白もち桜</a></p></td>
 <td><p>にゃこ</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Panical_Confusion" title="wikilink">パニカル・コンフュージョン</a></p></td>
+<td><p><a href="../Page/Panical_Confusion.md" title="wikilink">パニカル・コンフュージョン</a></p></td>
 <td><p>2015年3月27日</p></td>
 <td><p>師走ほりお、あげきち<br />
 水月あるみ、白もち桜</p></td>

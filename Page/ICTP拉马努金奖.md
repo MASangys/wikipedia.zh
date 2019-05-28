@@ -86,7 +86,7 @@ Countries**），是一个以[印度数学家](../Page/印度.md "wikilink")[斯
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/许晨阳" title="wikilink">许晨阳</a></p></td>
+<td><p><a href="../Page/许晨阳.md" title="wikilink">许晨阳</a></p></td>
 <td></td>
 <td></td>
 </tr>

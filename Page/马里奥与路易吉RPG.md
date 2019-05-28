@@ -1,4 +1,4 @@
-是一款由[AlphaDream公司制作](https://zh.wikipedia.org/wiki/AlphaDream "wikilink")、[任天堂发行的](../Page/任天堂.md "wikilink")[角色扮演类游戏](https://zh.wikipedia.org/wiki/角色扮演类游戏 "wikilink")。本游戏最初于2003年11月17日在北美地区[Game
+是一款由[AlphaDream公司制作](../Page/AlphaDream.md "wikilink")、[任天堂发行的](../Page/任天堂.md "wikilink")[角色扮演类游戏](https://zh.wikipedia.org/wiki/角色扮演类游戏 "wikilink")。本游戏最初于2003年11月17日在北美地区[Game
 Boy
 Advance发行](../Page/Game_Boy_Advance.md "wikilink")。\[1\]2017年10月6日，本游戏在3DS平台推出重制版。\[2\]
 

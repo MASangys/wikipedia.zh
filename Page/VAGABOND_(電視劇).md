@@ -177,7 +177,7 @@
 ## 記事
 
   - 本劇為導演[劉仁植與編劇](../Page/劉仁植.md "wikilink")[張英哲](../Page/張英哲.md "wikilink")、[鄭景順繼電視劇](https://zh.wikipedia.org/wiki/鄭景順 "wikilink")《[巨人](../Page/巨人_\(韓國電視劇\).md "wikilink")》、《[工薪族楚漢志](../Page/工薪族楚漢志.md "wikilink")》、《[錢的化身](../Page/錢的化身.md "wikilink")》後第四度合作。
-  - 本劇為[李昇基與導演](../Page/李昇基.md "wikilink")[劉仁植繼電視劇](../Page/劉仁植.md "wikilink")《[你們被包圍了](https://zh.wikipedia.org/wiki/你們被包圍了 "wikilink")》後再度合作。
+  - 本劇為[李昇基與導演](../Page/李昇基.md "wikilink")[劉仁植繼電視劇](../Page/劉仁植.md "wikilink")《[你們被包圍了](../Page/你們被包圍了.md "wikilink")》後再度合作。
   - 本劇為[李昇基與](../Page/李昇基.md "wikilink")[秀智繼電視劇](../Page/秀智.md "wikilink")《[九家之書](https://zh.wikipedia.org/wiki/九家之書 "wikilink")》後，時隔5年再度合作。
   - 本劇原定檔2019年5月作為[水木劇播出](../Page/SBS特別劇.md "wikilink")\[5\]，將推遲至9月作為[金土劇播出](../Page/SBS金土連續劇.md "wikilink")，以便通過[Netflix及](../Page/Netflix.md "wikilink")[Sony
     One频道與韓國國內同步向全世界觀衆公開](../Page/Sony_One.md "wikilink")\[6\]\[7\]\[8\]。

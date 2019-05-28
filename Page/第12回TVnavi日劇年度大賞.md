@@ -108,7 +108,7 @@
 《<a href="../Page/錢的戰爭_(日本電視劇).md" title="wikilink">錢的戰爭</a>》</strong></p></td>
 <td><p>第一位：<a href="../Page/木村文乃.md" title="wikilink">木村文乃</a>　《<a href="../Page/錢的戰爭_(日本電視劇).md" title="wikilink">錢的戰爭</a>》<br />
 第二位：<a href="../Page/深田恭子.md" title="wikilink">深田恭子</a>　《<a href="../Page/Second_Love.md" title="wikilink">Second Love</a>》<br />
-第三位：<a href="https://zh.wikipedia.org/wiki/黑木華" title="wikilink">黑木華</a>　　《<a href="../Page/天皇的御廚.md" title="wikilink">天皇的御廚</a>》<br />
+第三位：<a href="../Page/黑木華.md" title="wikilink">黑木華</a>　　《<a href="../Page/天皇的御廚.md" title="wikilink">天皇的御廚</a>》<br />
 第四位：<a href="../Page/上戶彩.md" title="wikilink">上戶彩</a>　　《<a href="https://zh.wikipedia.org/wiki/回家的鎖匙" title="wikilink">回家的鎖匙</a>》<br />
 第五位：<a href="../Page/有村架純.md" title="wikilink">有村架純</a>　《<a href="https://zh.wikipedia.org/wiki/歡迎來我家#電視劇" title="wikilink">歡迎來我家</a>》</p></td>
 </tr>
@@ -129,7 +129,7 @@
 <td><p>'''<a href="../Page/岸優太.md" title="wikilink">岸優太</a><br />
 《<a href="../Page/哥哥扭蛋.md" title="wikilink">哥哥扭蛋</a>》</p></td>
 <td><p>第一位：<a href="../Page/岸優太.md" title="wikilink">岸優太</a>　《<a href="../Page/哥哥扭蛋.md" title="wikilink">哥哥扭蛋</a>》<br />
-第二位：《<a href="https://zh.wikipedia.org/wiki/小希" title="wikilink">小希</a>》<br />
+第二位：《<a href="../Page/小希.md" title="wikilink">小希</a>》<br />
 第三位：<a href="../Page/高木星來.md" title="wikilink">高木星來</a>《<a href="https://zh.wikipedia.org/wiki/流星休旅車#電視劇" title="wikilink">流星休旅車</a>》</p></td>
 </tr>
 </tbody>
@@ -149,7 +149,7 @@
 <td><p>'''<a href="../Page/廣瀨鈴.md" title="wikilink">廣瀨鈴</a><br />
 《<a href="../Page/學校的階梯_(電視劇).md" title="wikilink">學校的階梯</a>》</p></td>
 <td><p>第一位：<a href="../Page/廣瀨鈴.md" title="wikilink">廣瀨鈴</a>　　《<a href="../Page/學校的階梯_(電視劇).md" title="wikilink">學校的階梯</a>》<br />
-第二位：<a href="https://zh.wikipedia.org/wiki/大原櫻子" title="wikilink">大原櫻子</a>　《<a href="../Page/戀仲.md" title="wikilink">戀仲</a>》<br />
+第二位：<a href="../Page/大原櫻子.md" title="wikilink">大原櫻子</a>　《<a href="../Page/戀仲.md" title="wikilink">戀仲</a>》<br />
 第三位：<a href="../Page/吉本實憂.md" title="wikilink">吉本實憂</a>　《<a href="https://zh.wikipedia.org/wiki/回家的鎖匙" title="wikilink">回家的鎖匙</a>》</p></td>
 </tr>
 </tbody>

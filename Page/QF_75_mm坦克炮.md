@@ -136,10 +136,8 @@ ROQF 75mm 炮的坦克與保留 6 磅炮的坦克混合編組，因為 6
 ### 當時不同國家裝備的坦克炮
 
   - [7.5 cm KwK 40](../Page/7.5厘米KwK_40炮.md "wikilink")：德國的坦克炮
-  - [76.2 mm
-    F-34](https://zh.wikipedia.org/wiki/F-34坦克炮 "wikilink")：蘇聯的坦克炮
-  - [M3 75 mm
-    /40](https://zh.wikipedia.org/wiki/美軍75毫米坦克炮 "wikilink")：美國的坦克炮
+  - [76.2 mm F-34](../Page/F-34坦克炮.md "wikilink")：蘇聯的坦克炮
+  - [M3 75 mm /40](../Page/美軍75毫米坦克炮.md "wikilink")：美國的坦克炮
 
 ## 參考資料
 

@@ -1,6 +1,6 @@
 **YouTube聚光灯**（）是[YouTube自办的官方频道](../Page/YouTube.md "wikilink")。正如其名字的意思，该频道用于聚焦YouTube上的影片和活动。获得该频道关注的活动包括和[YouTube音乐奖](../Page/YouTube音乐奖.md "wikilink")。此外，频道会上传《YouTube国度》和一年一度的。
 
-2013年11月2日，YouTube焦点频道暂时超越[PewDiePie频道](../Page/PewDiePie.md "wikilink")，成为该站[订阅人数最多的频道](https://zh.wikipedia.org/wiki/在YouTube上訂閱人數最多的用戶列表 "wikilink")。新用户注册YouTube时，该频道作为订阅选项，透过自动建议和预选择登上头位\[1\]。2013年12月，该频道与PewDiePie的榜首位置之争激烈，直到12月22日被PewDiePie稳拿头名。截至2016年4月23日，该频道已赢得2400万订阅户，影片被观看8.03多亿次\[2\]。该频道被列为订阅人数第三多的频道，紧随之后。
+2013年11月2日，YouTube焦点频道暂时超越[PewDiePie频道](../Page/PewDiePie.md "wikilink")，成为该站[订阅人数最多的频道](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")。新用户注册YouTube时，该频道作为订阅选项，透过自动建议和预选择登上头位\[1\]。2013年12月，该频道与PewDiePie的榜首位置之争激烈，直到12月22日被PewDiePie稳拿头名。截至2016年4月23日，该频道已赢得2400万订阅户，影片被观看8.03多亿次\[2\]。该频道被列为订阅人数第三多的频道，紧随之后。
 
 ## 视频
 

@@ -15,8 +15,8 @@ Last
 Time〉、副唱[張水院親自創作的獨唱曲](../Page/張水院.md "wikilink")〈Pain〉。專輯亦收錄八首從過去發行的五張專輯中精選的熱門歌曲，包括正規一輯《[學園別曲](../Page/學園別曲.md "wikilink")》的〈Walking
 In The Rain〉、正規二輯《[Welcome To The Sechskies
 Land](../Page/Welcome_To_The_Sechskies_Land.md "wikilink")》的〈給親愛的你〉與〈白色夜裡〉、正規三輯《[Road
-Fighter](https://zh.wikipedia.org/wiki/Road_Fighter_\(專輯\) "wikilink")》的〈Say〉、3.5輯《[Special](https://zh.wikipedia.org/wiki/Special_\(專輯\) "wikilink")》的〈送你離開〉、〈Couple〉與〈不能讓你看到的世界〉，以及正規四輯《[Com'
-Back](https://zh.wikipedia.org/wiki/Com'_Back "wikilink")》的〈預感〉。
+Fighter](../Page/Road_Fighter_\(專輯\).md "wikilink")》的〈Say〉、3.5輯《[Special](../Page/Special_\(專輯\).md "wikilink")》的〈送你離開〉、〈Couple〉與〈不能讓你看到的世界〉，以及正規四輯《[Com'
+Back](../Page/Com'_Back.md "wikilink")》的〈預感〉。
 
 ## 曲目
 

@@ -1,5 +1,4 @@
-**第1回** →
-[第2回](https://zh.wikipedia.org/wiki/第2回TVnavi日劇年度大賞 "wikilink")
+**第1回** → [第2回](../Page/第2回TVnavi日劇年度大賞.md "wikilink")
 
 **第1回[TVnavi日劇年度大賞](../Page/TVnavi日劇年度大賞.md "wikilink")**是針對2004年春季至2005年冬季播出的連續劇做出的觀眾投票，以下為入圍及得獎名單。
 

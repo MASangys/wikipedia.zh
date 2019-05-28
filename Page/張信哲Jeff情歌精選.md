@@ -32,7 +32,7 @@
 <tr class="even">
 <td><p>03</p></td>
 <td><p>過火</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曹俊鴻" title="wikilink">曹俊鴻</a></p></td>
+<td><p><a href="../Page/曹俊鴻.md" title="wikilink">曹俊鴻</a></p></td>
 <td><p><a href="../Page/陳佳明.md" title="wikilink">陳佳明</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/屠穎" title="wikilink">屠穎</a></p></td>
 <td><p>選自《<a href="https://zh.wikipedia.org/wiki/寬容_(專輯)" title="wikilink">寬容</a>》專輯</p></td>
@@ -197,7 +197,7 @@
 <tr class="even">
 <td><p>05</p></td>
 <td><p>有一點動心</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曹俊鴻" title="wikilink">曹俊鴻</a></p></td>
+<td><p><a href="../Page/曹俊鴻.md" title="wikilink">曹俊鴻</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/厲曼婷" title="wikilink">厲曼婷</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ken_Lim" title="wikilink">Ken Lim</a></p></td>
 <td><p>選自《<a href="../Page/等待.md" title="wikilink">等待</a>》專輯，<br />
@@ -230,7 +230,7 @@
 <tr class="even">
 <td><p>09</p></td>
 <td><p>最傷心是誰（粵）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曹俊鴻" title="wikilink">曹俊鴻</a></p></td>
+<td><p><a href="../Page/曹俊鴻.md" title="wikilink">曹俊鴻</a></p></td>
 <td><p><a href="../Page/向雪懷.md" title="wikilink">向雪懷</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/屠穎" title="wikilink">屠穎</a></p></td>
 <td><p>選自《<a href="../Page/深情.md" title="wikilink">深情</a>》專輯</p></td>

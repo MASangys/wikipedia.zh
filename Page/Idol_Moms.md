@@ -21,9 +21,9 @@ Moms*'》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[L
 
 ## 出演嘉賓
 
-| 集數 | 日期         | 嘉賓                                                                                                                                                                                  |
-| -- | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    | 2018年3月21日 | [Wendy](https://zh.wikipedia.org/wiki/孫勝完 "wikilink")、[SeulGi](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")（[Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")）\[4\] |
+| 集數 | 日期         | 嘉賓                                                                                                                                            |
+| -- | ---------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
+|    | 2018年3月21日 | [Wendy](https://zh.wikipedia.org/wiki/孫勝完 "wikilink")、[SeulGi](../Page/瑟琪.md "wikilink")（[Red Velvet](../Page/Red_Velvet.md "wikilink")）\[4\] |
 
 ## 收視率
 

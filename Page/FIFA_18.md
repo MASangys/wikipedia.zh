@@ -1,4 +1,4 @@
-是一款由[EA加拿大](https://zh.wikipedia.org/wiki/EA加拿大 "wikilink")、EA罗马尼亚开发由美商藝電发行的足球電子遊戲。本作是《國際足盟大賽》系列的第25部作品。遊戲於2017年9月29日於全世界上市。遊戲平台為[PlayStation
+是一款由[EA加拿大](../Page/EA加拿大.md "wikilink")、EA罗马尼亚开发由美商藝電发行的足球電子遊戲。本作是《國際足盟大賽》系列的第25部作品。遊戲於2017年9月29日於全世界上市。遊戲平台為[PlayStation
 4](../Page/PlayStation_4.md "wikilink")，[任天堂Switch](../Page/任天堂Switch.md "wikilink")，[Xbox
 One](../Page/Xbox_One.md "wikilink")，[Xbox
 360](../Page/Xbox_360.md "wikilink")，[PlayStation

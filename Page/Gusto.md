@@ -10,7 +10,7 @@ Combinator于](../Page/Y_Combinator_\(公司\).md "wikilink")2012年冬季培育
 2013年8月，ZenPayroll宣布其每年处理的支付总额已超过1亿美元。\[7\]
 
 2014年2月19日，Gusto宣布发起第一轮融资，估值达到100百万美元以上。该轮投资由General Catalyst
-Partners领投，[凯鹏华盈也参与了该轮投资](https://zh.wikipedia.org/wiki/凯鹏华盈 "wikilink")。\[8\]\[9\]\[10\]\[11\]
+Partners领投，[凯鹏华盈也参与了该轮投资](../Page/凯鹏华盈.md "wikilink")。\[8\]\[9\]\[10\]\[11\]
 
 2015年4月，ZenPayroll对外公布了覆盖其服务的50个州。\[12\]
 

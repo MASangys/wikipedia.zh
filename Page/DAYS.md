@@ -6,7 +6,7 @@
 
 作品描寫主角柄本盡為初學者，進入了足球名校聖蹟高校之後與隊友們產生情誼、共同成長，還得到了隊友的讚賞\[1\]。
 
-在發行單行本時並收錄了在同雜誌連載的其他漫畫家的推薦文之中，第1冊收錄了[棒球漫畫](../Page/棒球.md "wikilink")《[鑽石王牌](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")》作者[寺嶋裕二的推薦文](../Page/寺嶋裕二.md "wikilink")，第2冊則收錄了[籃球漫畫](https://zh.wikipedia.org/wiki/籃球 "wikilink")《[籃球少年王](https://zh.wikipedia.org/wiki/籃球少年王 "wikilink")》作者[日向武史的推薦文](../Page/日向武史.md "wikilink")。
+在發行單行本時並收錄了在同雜誌連載的其他漫畫家的推薦文之中，第1冊收錄了[棒球漫畫](../Page/棒球.md "wikilink")《[鑽石王牌](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")》作者[寺嶋裕二的推薦文](../Page/寺嶋裕二.md "wikilink")，第2冊則收錄了[籃球漫畫](https://zh.wikipedia.org/wiki/籃球 "wikilink")《[籃球少年王](../Page/籃球少年王.md "wikilink")》作者[日向武史的推薦文](../Page/日向武史.md "wikilink")。
 
 2015年入圍第39回[講談社漫畫賞少年部門的推薦作品](https://zh.wikipedia.org/wiki/講談社漫畫賞 "wikilink")\[2\]。
 
@@ -423,7 +423,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[BS11](../Page/日本BS放送
 ### 製作人員
 
   - 原作－[安田剛士](../Page/安田剛士.md "wikilink")
-  - 導演、劇本統籌－[宇田鋼之介](https://zh.wikipedia.org/wiki/宇田鋼之介 "wikilink")
+  - 導演、劇本統籌－[宇田鋼之介](../Page/宇田鋼之介.md "wikilink")
   - 副導演－[境宗久](../Page/境宗久.md "wikilink")
   - 人物設定－[中澤一登](../Page/中澤一登.md "wikilink")
   - 總作畫監督－新沼大祐、西村理惠
@@ -433,14 +433,14 @@ MX](../Page/東京都會電視台.md "wikilink")、[BS11](../Page/日本BS放送
   - CG監督－川田和賜
   - 攝影監督－KIM BOO CHEOL、藤田智史
   - 剪輯－奧田浩史
-  - 音響監督－[三間雅文](../Page/三間雅文.md "wikilink")、[中嶋聰彥](https://zh.wikipedia.org/wiki/中嶋聰彥 "wikilink")
+  - 音響監督－[三間雅文](../Page/三間雅文.md "wikilink")、[中嶋聰彥](../Page/中嶋聰彥.md "wikilink")
   - 音響製作－
-  - 音樂－[池賴廣](https://zh.wikipedia.org/wiki/池賴廣 "wikilink")
+  - 音樂－[池賴廣](../Page/池賴廣.md "wikilink")
   - 音樂製作－[Pony Canyon](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")
   - 音樂製作人－三輪靖史、橫尾勇亮
   - 製作人－坪井亮祐、立石謙介、川添千世、遠藤哲哉、龜井博司、北澤史隆、成毛克憲、大和田智之、田中葉子、相島豪太
   - 動畫製作人－大塚學
-  - 動畫製作－[MAPPA](https://zh.wikipedia.org/wiki/MAPPA "wikilink")
+  - 動畫製作－[MAPPA](../Page/MAPPA.md "wikilink")
   - 製作－[「DAYS」製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（Pony
     Canyon、講談社、電通、每日放送、TOKYO MX、BS11、[Animax Broadcast
     Japan](../Page/Animax.md "wikilink")、、）
@@ -527,9 +527,9 @@ MX](../Page/東京都會電視台.md "wikilink")、[BS11](../Page/日本BS放送
 <td></td>
 <td><p>和你踢足球太有趣了 豈有此理</p></td>
 <td><p>跟你一起踢球真是開心得一塌糊塗啊混蛋</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高屋敷英夫" title="wikilink">高屋敷英夫</a></p></td>
+<td><p><a href="../Page/高屋敷英夫.md" title="wikilink">高屋敷英夫</a></p></td>
 <td><p>二瓶勇一</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/遠藤徹哉" title="wikilink">遠藤徹哉</a></p></td>
+<td><p><a href="../Page/遠藤徹哉.md" title="wikilink">遠藤徹哉</a></p></td>
 <td><p>北村友幸</p></td>
 <td></td>
 </tr>
@@ -636,7 +636,7 @@ Ha Yeun Jung</p></td>
 <td><p>不會再讓任何人低下頭</p></td>
 <td><p>再也不想讓任何人失望</p></td>
 <td><p>村越繁</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宇田鋼之介" title="wikilink">宇田鋼之介</a></p></td>
+<td><p><a href="../Page/宇田鋼之介.md" title="wikilink">宇田鋼之介</a></p></td>
 <td><p>山口飛鳥</p></td>
 <td><p>高澤美佳</p></td>
 <td></td>

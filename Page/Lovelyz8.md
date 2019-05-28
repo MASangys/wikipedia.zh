@@ -25,11 +25,11 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》開始於各
 
 ### 音樂節目
 
-| 主打歌曲排名成績                                                      |
-| ------------------------------------------------------------- |
-| 專輯                                                            |
-| [Lovelyz8](https://zh.wikipedia.org/wiki/Lovelyz8 "wikilink") |
-| Shooting Star                                                 |
+| 主打歌曲排名成績                                   |
+| ------------------------------------------ |
+| 專輯                                         |
+| [Lovelyz8](../Page/Lovelyz8.md "wikilink") |
+| Shooting Star                              |
 
 ## 發行歷史
 

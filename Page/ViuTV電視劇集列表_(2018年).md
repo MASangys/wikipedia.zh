@@ -468,7 +468,7 @@ Single Wife</p></td>
 Fated to Love</p></td>
 <td style="text-align: center;"><p>48</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2018年)" title="wikilink">2018年now劇集台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/泰國" title="wikilink">泰國</a>），6月15日至22日暫停播映，7月2日早上重播時段改為11:00-11:30，7月12日暫停早上重播時段</p></td>
 <td style="text-align: center;"></td>
@@ -481,7 +481,7 @@ Fated to Love</p></td>
 <td style="text-align: center;"><p><a href="../Page/20世紀少男少女.md" title="wikilink">20世紀少男少女</a><br />
 Children of the 20th Century</p></td>
 <td style="text-align: center;"><p>45</p></td>
-<td style="text-align: center;"><p><a href="../Page/韓藝瑟.md" title="wikilink">韓藝瑟</a>、<a href="../Page/金知碩.md" title="wikilink">金知碩</a>、<a href="../Page/李尚禹.md" title="wikilink">李尚禹</a>、<a href="../Page/柳賢慶.md" title="wikilink">柳賢慶</a>、、<a href="https://zh.wikipedia.org/wiki/安世河" title="wikilink">安世河</a>、<a href="https://zh.wikipedia.org/wiki/吳尚津" title="wikilink">吳尚津</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/韓藝瑟.md" title="wikilink">韓藝瑟</a>、<a href="../Page/金知碩.md" title="wikilink">金知碩</a>、<a href="../Page/李尚禹.md" title="wikilink">李尚禹</a>、<a href="../Page/柳賢慶.md" title="wikilink">柳賢慶</a>、、<a href="https://zh.wikipedia.org/wiki/安世河" title="wikilink">安世河</a>、<a href="../Page/吳尚津.md" title="wikilink">吳尚津</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -494,7 +494,7 @@ Children of the 20th Century</p></td>
 Temperature of Love</p></td>
 <td style="text-align: center;"><p>57</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2018年)" title="wikilink">2018年now劇集台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a>），9月25日、10月1日及17日暫停早上重播時段，10月10日暫停播映</p></td>
 <td style="text-align: center;"></td>
@@ -515,8 +515,8 @@ Legend of Fu Yao</p></td>
 尾：一爱难求（<a href="../Page/徐佳瑩.md" title="wikilink">徐佳瑩</a>）<br />
 插：繁华梦（<a href="../Page/黄龄.md" title="wikilink">黄龄</a>）<br />
 插：窗（<a href="https://zh.wikipedia.org/wiki/吳青峰" title="wikilink">吳青峰</a>）<br />
-插：血如墨（<a href="https://zh.wikipedia.org/wiki/张碧晨" title="wikilink">张碧晨</a>）<br />
-插：傲红尘（<a href="https://zh.wikipedia.org/wiki/尤长靖" title="wikilink">尤长靖</a>）<br />
+插：血如墨（<a href="../Page/张碧晨.md" title="wikilink">张碧晨</a>）<br />
+插：傲红尘（<a href="../Page/尤长靖.md" title="wikilink">尤长靖</a>）<br />
 插：少年（<a href="https://zh.wikipedia.org/wiki/孙郡" title="wikilink">孙郡</a>）</p></td>
 <td style="text-align: center;"><p>外購劇（<a href="../Page/中國.md" title="wikilink">中國上海檸萌影視傳媒有限公司</a>），12月14日及31日暫停播映，12月25日及26日早上重播時段改為11:30-12:00</p></td>
 </tr>
@@ -629,7 +629,7 @@ Queen for Seven Days</p></td>
 Whisper</p></td>
 <td style="text-align: center;"><p>18</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2018年)" title="wikilink">2018年now劇集台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a>），5月15日至18日凌晨重播時段改為01:45-03:00</p></td>
 <td style="text-align: center;"></td>
@@ -682,7 +682,7 @@ Hospital Ship</p></td>
 CRIMINAL MINDS : KOREA</p></td>
 <td style="text-align: center;"><p>21</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2018年)" title="wikilink">2018年now劇集台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>），8月21日凌晨重播時段改為03:30-04:45，8月25日凌晨重播時段改為03:45-05:00</p></td>
 <td style="text-align: center;"></td>
@@ -696,7 +696,7 @@ CRIMINAL MINDS : KOREA</p></td>
 Because this is my first life</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2018年)" title="wikilink">2018年now劇集台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>）</p></td>
 <td style="text-align: center;"></td>
@@ -710,7 +710,7 @@ Because this is my first life</p></td>
 Cross</p></td>
 <td style="text-align: center;"><p>17</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2018年)" title="wikilink">2018年now劇集台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now劇集台" title="wikilink">now劇集台播出時名為</a>《Cross》<br />
 外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>），10月1日暫停播映</p></td>
@@ -737,7 +737,7 @@ Two Cops</p></td>
 Black Knight: The Man Who Guards Me</p></td>
 <td style="text-align: center;"><p>22</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2018年)" title="wikilink">2018年now劇集台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a>）</p></td>
 <td style="text-align: center;"></td>
@@ -748,11 +748,11 @@ Black Knight: The Man Who Guards Me</p></td>
 <td style="text-align: center;"><p>13/12-<br />
 11/01<br />
 <a href="../Page/ViuTV電視劇集列表_(2019年).md" title="wikilink">續19年</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Misty" title="wikilink">謎霧殺機</a><br />
+<td style="text-align: center;"><p><a href="../Page/Misty.md" title="wikilink">謎霧殺機</a><br />
 Misty</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="https://zh.wikipedia.org/wiki/Now劇集台電視劇集列表_(2018年)" title="wikilink">2018年now劇集台劇集</a></span></p>
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now劇集台" title="wikilink">now劇集台播出時名為</a>《Misty》<br />
 外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>），12月14日暫停播映</p></td>
@@ -856,8 +856,8 @@ Bluetick</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/迷失假期" title="wikilink">迷失假期</a><br />
 Lost in Shell</p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p><a href="../Page/余安安.md" title="wikilink">余安安</a>、<a href="https://zh.wikipedia.org/wiki/邵子風" title="wikilink">邵子風</a>、、<br />
-<a href="../Page/李明憲_(藝人).md" title="wikilink">李明憲</a>、<a href="../Page/陳振華_(印度裔香港演員).md" title="wikilink">陳振華</a>、<a href="https://zh.wikipedia.org/wiki/Artem_Ansheles" title="wikilink">Ansheles</a>、<br />
+<td style="text-align: center;"><p><a href="../Page/余安安.md" title="wikilink">余安安</a>、<a href="../Page/邵子風.md" title="wikilink">邵子風</a>、、<br />
+<a href="../Page/李明憲_(藝人).md" title="wikilink">李明憲</a>、<a href="../Page/陳振華_(印度裔香港演員).md" title="wikilink">陳振華</a>、<a href="../Page/Artem_Ansheles.md" title="wikilink">Ansheles</a>、<br />
 <a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/盧思麟" title="wikilink">盧思麟</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/lost-in-shell">網頁</a></p></td>
@@ -1232,7 +1232,7 @@ Heart Of Steel</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>12/05-<br />
 28/07</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/密會" title="wikilink">密會</a><br />
+<td style="text-align: center;"><p><a href="../Page/密會.md" title="wikilink">密會</a><br />
 Secret Affair</p></td>
 <td style="text-align: center;"><p>24</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
@@ -1352,7 +1352,7 @@ It's All About the Looks</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>18/08-<br />
 06/10</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/大叔的愛" title="wikilink">大叔的愛</a><br />
+<td style="text-align: center;"><p><a href="../Page/大叔的愛.md" title="wikilink">大叔的愛</a><br />
 Ossan's Love</p></td>
 <td style="text-align: center;"><p>7</p></td>
 <td style="text-align: center;"><p><a href="../Page/田中圭.md" title="wikilink">田中圭</a></p></td>
@@ -1477,13 +1477,13 @@ Dark Secret</p></td>
 <td style="text-align: center;"><p>主：暗算天機主題音樂（<a href="../Page/韋啟良.md" title="wikilink">韋啟良作曲</a>）<br />
 尾：天機泄露（獨唱版）（<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>）<br />
 尾：天機泄露（合唱版）（<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>）</p></td>
-<td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="https://zh.wikipedia.org/wiki/耀榮文化" title="wikilink">耀榮文化</a>），12月2日改為21:30-22:30播出</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/耀榮文化.md" title="wikilink">耀榮文化</a>），12月2日改為21:30-22:30播出</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>09/12-<br />
 06/01<br />
 <a href="../Page/ViuTV電視劇集列表_(2019年).md" title="wikilink">續19年</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/東方華爾街_(電視劇)" title="wikilink">東方華爾街</a><br />
+<td style="text-align: center;"><p><a href="../Page/東方華爾街_(電視劇).md" title="wikilink">東方華爾街</a><br />
 The Trading Floor</p></td>
 <td style="text-align: center;"><p>5</p></td>
 <td style="text-align: center;"><p><a href="../Page/吳鎮宇.md" title="wikilink">吳鎮宇</a>、<a href="../Page/張孝全.md" title="wikilink">張孝全</a>、<a href="../Page/余男.md" title="wikilink">余　男</a>、<br />
@@ -1527,7 +1527,7 @@ The Trading Floor</p></td>
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p>01/01</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ST_警視廳科學特搜班" title="wikilink">ST 警視廳科學特搜班</a><br />
+<td style="text-align: center;"><p><a href="../Page/ST_警視廳科學特搜班.md" title="wikilink">ST 警視廳科學特搜班</a><br />
 ST MPD Scientific Investigation Squad SP</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><div style="text-align: center;">

@@ -60,7 +60,7 @@ PLAZA*）是集團營運的都市型[購物商場](https://zh.wikipedia.org/wiki
   - 所在地：東京都[澀谷區](../Page/澀谷區.md "wikilink")[神宮前](../Page/神宮前_\(澀谷區\).md "wikilink")4-30-3
   - 交通方式：JR[山手線](../Page/山手線.md "wikilink")「[原宿站](../Page/原宿站.md "wikilink")」步行4分、東京地下鐵（[千代田線](https://zh.wikipedia.org/wiki/東京地下鐵千代田線 "wikilink")、[副都心線](https://zh.wikipedia.org/wiki/東京地下鐵副都心線 "wikilink")）「[明治神宮前站](https://zh.wikipedia.org/wiki/明治神宮前站 "wikilink")」步行1分。
   - [American Eagle
-    Outfitters日本](https://zh.wikipedia.org/wiki/American_Eagle_Outfitters "wikilink")1號店與[Tommy
+    Outfitters日本](../Page/American_Eagle_Outfitters.md "wikilink")1號店與[Tommy
     Hilfiger全球旗艦店](https://zh.wikipedia.org/wiki/湯米·希爾費格 "wikilink")、[東急手創館小型店鋪](../Page/東急手創館.md "wikilink")「Hands
     Be」（）等。
 

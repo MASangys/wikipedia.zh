@@ -121,14 +121,14 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="even">
 <td><p>2</p></td>
 <td><p>7月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朱宇宰" title="wikilink">朱宇宰</a>、<a href="https://zh.wikipedia.org/wiki/禹泰云" title="wikilink">禹泰云</a>、<a href="../Page/滑川康男.md" title="wikilink">滑川康男</a>、</p></td>
+<td><p><a href="../Page/朱宇宰.md" title="wikilink">朱宇宰</a>、<a href="https://zh.wikipedia.org/wiki/禹泰云" title="wikilink">禹泰云</a>、<a href="../Page/滑川康男.md" title="wikilink">滑川康男</a>、</p></td>
 <td><p>“今天一起玩吗？江南的哥哥们”特辑</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>7月26日</p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a>、<a href="../Page/安信源.md" title="wikilink">Danny Ahn</a>、<a href="https://zh.wikipedia.org/wiki/Ren" title="wikilink">Ren</a> (<a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a>)</p></td>
+<td><p>、<a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>、<a href="../Page/安信源.md" title="wikilink">Danny Ahn</a>、<a href="https://zh.wikipedia.org/wiki/Ren" title="wikilink">Ren</a> (<a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a>)</p></td>
 <td><p>“欧巴太漂亮了~！美丽大叔”特辑</p></td>
 <td></td>
 </tr>
@@ -142,7 +142,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>8月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Kisum" title="wikilink">Kisum</a>、、<a href="../Page/Boom_(藝人).md" title="wikilink">Boom</a>、</p></td>
+<td><p><a href="../Page/Kisum.md" title="wikilink">Kisum</a>、、<a href="../Page/Boom_(藝人).md" title="wikilink">Boom</a>、</p></td>
 <td><p>“给我来电话吧~！求职者们”特辑</p></td>
 <td></td>
 </tr>
@@ -156,14 +156,14 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>8月23日</p></td>
-<td><p><a href="../Page/金旻載.md" title="wikilink">金旻載</a>、<a href="https://zh.wikipedia.org/wiki/洪錫天" title="wikilink">洪錫天</a>、<a href="https://zh.wikipedia.org/wiki/旼宰" title="wikilink">旼宰</a> (<a href="../Page/SONAMOO.md" title="wikilink">SONAMOO</a>)、<a href="https://zh.wikipedia.org/wiki/朴成真" title="wikilink">朴成真</a></p></td>
+<td><p><a href="../Page/金旻載.md" title="wikilink">金旻載</a>、<a href="https://zh.wikipedia.org/wiki/洪錫天" title="wikilink">洪錫天</a>、<a href="../Page/旼宰.md" title="wikilink">旼宰</a> (<a href="../Page/SONAMOO.md" title="wikilink">SONAMOO</a>)、<a href="https://zh.wikipedia.org/wiki/朴成真" title="wikilink">朴成真</a></p></td>
 <td><p>“综艺僵尸出击！哎嗨哟~去釜山”特辑</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
 <td><p>8月30日</p></td>
-<td><p><a href="../Page/金佳妍.md" title="wikilink">金佳妍</a>、 (<a href="../Page/U-KISS.md" title="wikilink">U-KISS</a>)、、<a href="https://zh.wikipedia.org/wiki/喜悅Dana" title="wikilink">Dana</a></p></td>
+<td><p><a href="../Page/金佳妍.md" title="wikilink">金佳妍</a>、 (<a href="../Page/U-KISS.md" title="wikilink">U-KISS</a>)、、<a href="../Page/喜悅Dana.md" title="wikilink">Dana</a></p></td>
 <td><p>“这一带的爱情是我！蜂蜜罗曼史”特辑</p></td>
 <td></td>
 </tr>
@@ -198,7 +198,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>10月4日</p></td>
-<td><p><a href="../Page/池周娟.md" title="wikilink">池周娟</a>、<a href="https://zh.wikipedia.org/wiki/申雅英" title="wikilink">申雅英</a>、、<a href="https://zh.wikipedia.org/wiki/Oliver_(模特)" title="wikilink">Oliver</a>、</p></td>
+<td><p><a href="../Page/池周娟.md" title="wikilink">池周娟</a>、<a href="../Page/申雅英.md" title="wikilink">申雅英</a>、、<a href="https://zh.wikipedia.org/wiki/Oliver_(模特)" title="wikilink">Oliver</a>、</p></td>
 <td><p>“全球大脑性感者联盟”特辑</p></td>
 <td></td>
 </tr>
@@ -214,7 +214,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>10月18日</p></td>
-<td><p><a href="../Page/Bada_(歌手).md" title="wikilink">Bada</a> (<a href="../Page/S.E.S._(組合).md" title="wikilink">S.E.S.</a>)、、、<a href="https://zh.wikipedia.org/wiki/率滨" title="wikilink">率滨</a> (<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>)</p></td>
+<td><p><a href="../Page/Bada_(歌手).md" title="wikilink">Bada</a> (<a href="../Page/S.E.S._(組合).md" title="wikilink">S.E.S.</a>)、、、<a href="../Page/率滨.md" title="wikilink">率滨</a> (<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>)</p></td>
 <td><p>“阻击女心！进攻的姐姐们”特辑（上）</p></td>
 <td><p>自此期起<a href="../Page/全烋星.md" title="wikilink">全烋星加入主持</a>。</p></td>
 </tr>
@@ -235,7 +235,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="even">
 <td><p>18</p></td>
 <td><p>11月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金康鉉" title="wikilink">金康鉉</a>、<a href="../Page/許正民.md" title="wikilink">許正民</a>、<a href="../Page/朴真珠.md" title="wikilink">朴真珠</a>、<a href="../Page/南寶拉.md" title="wikilink">南寶拉</a>、<a href="https://zh.wikipedia.org/wiki/尹仲勳" title="wikilink">尹仲勳</a></p></td>
+<td><p><a href="../Page/金康鉉.md" title="wikilink">金康鉉</a>、<a href="../Page/許正民.md" title="wikilink">許正民</a>、<a href="../Page/朴真珠.md" title="wikilink">朴真珠</a>、<a href="../Page/南寶拉.md" title="wikilink">南寶拉</a>、<a href="https://zh.wikipedia.org/wiki/尹仲勳" title="wikilink">尹仲勳</a></p></td>
 <td><p>“视线lupin！心偷窃者”特辑</p></td>
 <td></td>
 </tr>
@@ -375,7 +375,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="odd">
 <td><p>36</p></td>
 <td><p>3月14日</p></td>
-<td><p>、、、<a href="https://zh.wikipedia.org/wiki/梁世燦" title="wikilink">梁世燦</a>、<a href="https://zh.wikipedia.org/wiki/黃泰京" title="wikilink">黃泰京</a></p></td>
+<td><p>、、、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a>、<a href="https://zh.wikipedia.org/wiki/黃泰京" title="wikilink">黃泰京</a></p></td>
 <td><p>“好生好事！爱情人的全盛时代”特辑</p></td>
 <td><p><a href="../Page/朴素賢.md" title="wikilink">朴素賢缺席</a>，<a href="../Page/朴真熙.md" title="wikilink">朴真熙作为特别MC主持</a>。</p></td>
 </tr>
@@ -384,7 +384,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <td><p>3月21日</p></td>
 <td><p><a href="../Page/柳太準.md" title="wikilink">柳太準</a>、<a href="../Page/郭熙聖.md" title="wikilink">郭熙聖</a>、<a href="https://zh.wikipedia.org/wiki/赵泰宽" title="wikilink">赵泰宽</a>、</p></td>
 <td><p>“大卫的后裔”特辑</p></td>
-<td><p><a href="../Page/朴素賢.md" title="wikilink">朴素賢</a>、<a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">全烋星缺席</a>，<a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>、<a href="https://zh.wikipedia.org/wiki/率滨" title="wikilink">率滨作为特别MC主持</a>。</p></td>
+<td><p><a href="../Page/朴素賢.md" title="wikilink">朴素賢</a>、<a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">全烋星缺席</a>，<a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>、<a href="../Page/率滨.md" title="wikilink">率滨作为特别MC主持</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>38</p></td>
@@ -403,7 +403,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="odd">
 <td><p>40</p></td>
 <td><p>4月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴俊炯" title="wikilink">朴俊炯</a>、<a href="../Page/李泰林.md" title="wikilink">李泰林</a>、<a href="https://zh.wikipedia.org/wiki/梁浩锡" title="wikilink">梁浩锡</a>、</p></td>
+<td><p><a href="../Page/朴俊炯.md" title="wikilink">朴俊炯</a>、<a href="../Page/李泰林.md" title="wikilink">李泰林</a>、<a href="https://zh.wikipedia.org/wiki/梁浩锡" title="wikilink">梁浩锡</a>、</p></td>
 <td><p>“迎春刺激特辑！身撕赶GO”特辑</p></td>
 <td></td>
 </tr>
@@ -480,14 +480,14 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="even">
 <td><p>51</p></td>
 <td><p>6月27日</p></td>
-<td><p><a href="../Page/蔡妍.md" title="wikilink">蔡妍</a>、、、<a href="../Page/曹璐.md" title="wikilink">曹璐</a> (<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>)、<a href="https://zh.wikipedia.org/wiki/洪允和" title="wikilink">洪允和</a></p></td>
+<td><p><a href="../Page/蔡妍.md" title="wikilink">蔡妍</a>、、、<a href="../Page/曹璐.md" title="wikilink">曹璐</a> (<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>)、<a href="../Page/洪允和.md" title="wikilink">洪允和</a></p></td>
 <td><p>“阴气爆发！美女们的非首脑会谈”特辑</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>52</p></td>
 <td><p>7月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朱宇宰" title="wikilink">朱宇宰</a>、<a href="https://zh.wikipedia.org/wiki/姜哲雄" title="wikilink">姜哲雄</a>、<a href="https://zh.wikipedia.org/wiki/赵珉浩" title="wikilink">赵珉浩</a>、<a href="https://zh.wikipedia.org/wiki/李哲宇" title="wikilink">李哲宇</a></p></td>
+<td><p><a href="../Page/朱宇宰.md" title="wikilink">朱宇宰</a>、<a href="https://zh.wikipedia.org/wiki/姜哲雄" title="wikilink">姜哲雄</a>、<a href="https://zh.wikipedia.org/wiki/赵珉浩" title="wikilink">赵珉浩</a>、<a href="../Page/李哲宇.md" title="wikilink">李哲宇</a></p></td>
 <td><p>“身材特辑！英俊的孩子旁边英俊的孩子”特辑</p></td>
 <td></td>
 </tr>
@@ -543,7 +543,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="odd">
 <td><p>60</p></td>
 <td><p>8月29日</p></td>
-<td><p><a href="../Page/宰孝.md" title="wikilink">宰孝</a> (<a href="../Page/Block_B.md" title="wikilink">Block B</a>)、<a href="../Page/B1A4.md" title="wikilink">B1A4</a> (<a href="https://zh.wikipedia.org/wiki/CNU_(歌手)" title="wikilink">CNU</a>、<a href="https://zh.wikipedia.org/wiki/孔燦" title="wikilink">孔燦</a>)、<a href="../Page/金旼榮.md" title="wikilink">Ellin</a> (<a href="../Page/Crayon_Pop.md" title="wikilink">Crayon Pop</a>)、<a href="https://zh.wikipedia.org/wiki/Yezi" title="wikilink">Yezi</a> (<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>)、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a></p></td>
+<td><p><a href="../Page/宰孝.md" title="wikilink">宰孝</a> (<a href="../Page/Block_B.md" title="wikilink">Block B</a>)、<a href="../Page/B1A4.md" title="wikilink">B1A4</a> (<a href="../Page/CNU_(歌手).md" title="wikilink">CNU</a>、<a href="../Page/孔燦.md" title="wikilink">孔燦</a>)、<a href="../Page/金旼榮.md" title="wikilink">Ellin</a> (<a href="../Page/Crayon_Pop.md" title="wikilink">Crayon Pop</a>)、<a href="../Page/Yezi.md" title="wikilink">Yezi</a> (<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>)、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -564,7 +564,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="even">
 <td><p>63</p></td>
 <td><p>9月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金東炫" title="wikilink">金東炫</a>、、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> (<a href="../Page/Yerin.md" title="wikilink">Yerin</a>、<a href="../Page/Yuju.md" title="wikilink">Yuju</a>)、<a href="../Page/秀彬.md" title="wikilink">秀彬</a> (<a href="../Page/Dal★Shabet.md" title="wikilink">Dal★Shabet</a>)</p></td>
+<td><p><a href="../Page/金東炫.md" title="wikilink">金東炫</a>、、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> (<a href="../Page/Yerin.md" title="wikilink">Yerin</a>、<a href="../Page/Yuju.md" title="wikilink">Yuju</a>)、<a href="../Page/秀彬.md" title="wikilink">秀彬</a> (<a href="../Page/Dal★Shabet.md" title="wikilink">Dal★Shabet</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -578,7 +578,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="even">
 <td><p>65</p></td>
 <td><p>10月3日</p></td>
-<td><p>、、<a href="https://zh.wikipedia.org/wiki/柳炳宰" title="wikilink">柳炳宰</a>、</p></td>
+<td><p>、、<a href="../Page/柳炳宰.md" title="wikilink">柳炳宰</a>、</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -599,14 +599,14 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="odd">
 <td><p>68</p></td>
 <td><p>10月24日</p></td>
-<td><p><a href="../Page/宋恩伊.md" title="wikilink">宋恩伊</a>、<a href="../Page/鄭詩雅.md" title="wikilink">鄭詩雅</a>、<a href="../Page/申奉仙.md" title="wikilink">申奉仙</a>、<a href="https://zh.wikipedia.org/wiki/安英美" title="wikilink">安英美</a>、<a href="../Page/皇甫惠貞.md" title="wikilink">皇甫惠貞</a>、</p></td>
+<td><p><a href="../Page/宋恩伊.md" title="wikilink">宋恩伊</a>、<a href="../Page/鄭詩雅.md" title="wikilink">鄭詩雅</a>、<a href="../Page/申奉仙.md" title="wikilink">申奉仙</a>、<a href="../Page/安英美.md" title="wikilink">安英美</a>、<a href="../Page/皇甫惠貞.md" title="wikilink">皇甫惠貞</a>、</p></td>
 <td></td>
-<td><p>紅毯主持：<a href="../Page/朴瑟琪.md" title="wikilink">朴瑟琪</a>、<a href="https://zh.wikipedia.org/wiki/尹智慧" title="wikilink">尹智慧特別出演</a>。</p></td>
+<td><p>紅毯主持：<a href="../Page/朴瑟琪.md" title="wikilink">朴瑟琪</a>、<a href="../Page/尹智慧.md" title="wikilink">尹智慧特別出演</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>69</p></td>
 <td><p>10月31日</p></td>
-<td><p><a href="../Page/宋恩伊.md" title="wikilink">宋恩伊</a>、<a href="../Page/鄭詩雅.md" title="wikilink">鄭詩雅</a>、<a href="../Page/申奉仙.md" title="wikilink">申奉仙</a>、<a href="https://zh.wikipedia.org/wiki/安英美" title="wikilink">安英美</a>、<a href="../Page/皇甫惠貞.md" title="wikilink">皇甫惠貞</a>、、<a href="https://zh.wikipedia.org/wiki/吳承恩" title="wikilink">吳承恩</a></p></td>
+<td><p><a href="../Page/宋恩伊.md" title="wikilink">宋恩伊</a>、<a href="../Page/鄭詩雅.md" title="wikilink">鄭詩雅</a>、<a href="../Page/申奉仙.md" title="wikilink">申奉仙</a>、<a href="../Page/安英美.md" title="wikilink">安英美</a>、<a href="../Page/皇甫惠貞.md" title="wikilink">皇甫惠貞</a>、、<a href="https://zh.wikipedia.org/wiki/吳承恩" title="wikilink">吳承恩</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -620,35 +620,35 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="even">
 <td><p>71</p></td>
 <td><p>11月14日</p></td>
-<td><p><a href="../Page/趙軟祐.md" title="wikilink">趙軟祐</a>、<a href="../Page/林炯俊.md" title="wikilink">林炯俊</a>、<a href="https://zh.wikipedia.org/wiki/金民教" title="wikilink">金民教</a>、、<a href="https://zh.wikipedia.org/wiki/勝熙" title="wikilink">勝熙</a> (<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)</p></td>
+<td><p><a href="../Page/趙軟祐.md" title="wikilink">趙軟祐</a>、<a href="../Page/林炯俊.md" title="wikilink">林炯俊</a>、<a href="../Page/金民教.md" title="wikilink">金民教</a>、、<a href="https://zh.wikipedia.org/wiki/勝熙" title="wikilink">勝熙</a> (<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>72</p></td>
 <td><p>11月21日</p></td>
-<td><p>、、<a href="https://zh.wikipedia.org/wiki/鄭韓海" title="wikilink">韓海</a>、<a href="https://zh.wikipedia.org/wiki/MXM_(男子音樂組合)" title="wikilink">MXM</a> (<a href="https://zh.wikipedia.org/wiki/林煐岷" title="wikilink">林煐岷</a>、<a href="https://zh.wikipedia.org/wiki/金東賢" title="wikilink">金東賢</a>)</p></td>
+<td><p>、、<a href="https://zh.wikipedia.org/wiki/鄭韓海" title="wikilink">韓海</a>、<a href="../Page/MXM_(男子音樂組合).md" title="wikilink">MXM</a> (<a href="../Page/林煐岷.md" title="wikilink">林煐岷</a>、<a href="../Page/金東賢.md" title="wikilink">金東賢</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>73</p></td>
 <td><p>11月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韓銀貞" title="wikilink">韓銀貞</a>、<a href="../Page/高恩雅.md" title="wikilink">高恩雅</a>、<a href="../Page/吳仁惠.md" title="wikilink">吳仁惠</a>、<a href="https://zh.wikipedia.org/wiki/薛仁雅" title="wikilink">薛仁雅</a>、<a href="../Page/孫賢祐.md" title="wikilink">Shownu</a> (<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓銀貞" title="wikilink">韓銀貞</a>、<a href="../Page/高恩雅.md" title="wikilink">高恩雅</a>、<a href="../Page/吳仁惠.md" title="wikilink">吳仁惠</a>、<a href="../Page/薛仁雅.md" title="wikilink">薛仁雅</a>、<a href="../Page/孫賢祐.md" title="wikilink">Shownu</a> (<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>)</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>74</p></td>
 <td><p>12月5日</p></td>
-<td><p><a href="../Page/張恆俊.md" title="wikilink">張恆俊</a>、<a href="https://zh.wikipedia.org/wiki/崔民勇" title="wikilink">崔民勇</a>、<a href="../Page/金烔完.md" title="wikilink">金烔完</a> (<a href="https://zh.wikipedia.org/wiki/神话_(组合)" title="wikilink">神话</a>)、<a href="../Page/藤井美菜.md" title="wikilink">藤井美菜</a></p></td>
+<td><p><a href="../Page/張恆俊.md" title="wikilink">張恆俊</a>、<a href="../Page/崔民勇.md" title="wikilink">崔民勇</a>、<a href="../Page/金烔完.md" title="wikilink">金烔完</a> (<a href="https://zh.wikipedia.org/wiki/神话_(组合)" title="wikilink">神话</a>)、<a href="../Page/藤井美菜.md" title="wikilink">藤井美菜</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>75</p></td>
 <td><p>12月12日</p></td>
-<td><p>、、、<a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a>、</p></td>
+<td><p>、、、<a href="../Page/Junoflo.md" title="wikilink">Junoflo</a>、</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -732,7 +732,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="even">
 <td><p>85</p></td>
 <td><p>2月20日</p></td>
-<td><p><a href="../Page/任昌丁.md" title="wikilink">任昌丁</a>、、<a href="../Page/金性洙.md" title="wikilink">金性洙</a>、<a href="https://zh.wikipedia.org/wiki/金民教" title="wikilink">金民教</a></p></td>
+<td><p><a href="../Page/任昌丁.md" title="wikilink">任昌丁</a>、、<a href="../Page/金性洙.md" title="wikilink">金性洙</a>、<a href="../Page/金民教.md" title="wikilink">金民教</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -832,30 +832,30 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="even">
 <td><p>96</p></td>
 <td><p>6月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭燁" title="wikilink">鄭燁</a>、、、</p></td>
+<td><p><a href="../Page/鄭燁.md" title="wikilink">鄭燁</a>、、、</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>97</p></td>
 <td><p>6月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a>、、、<a href="https://zh.wikipedia.org/wiki/金元植" title="wikilink">金元植</a> （<a href="../Page/VIXX.md" title="wikilink">VIXX</a>）</p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>、、、<a href="https://zh.wikipedia.org/wiki/金元植" title="wikilink">金元植</a> （<a href="../Page/VIXX.md" title="wikilink">VIXX</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>98</p></td>
 <td><p>6月19日</p></td>
-<td><p><a href="../Page/鄭東河.md" title="wikilink">鄭東河</a>、、Austin Kang、<a href="https://zh.wikipedia.org/wiki/南太鉉" title="wikilink">南太鉉</a></p></td>
+<td><p><a href="../Page/鄭東河.md" title="wikilink">鄭東河</a>、、Austin Kang、<a href="../Page/南太鉉.md" title="wikilink">南太鉉</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李順圭" title="wikilink">Sunny缺席</a>，<a href="https://zh.wikipedia.org/wiki/Yura" title="wikilink">Yura</a>（<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>）作為特別MC主持。[5]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李順圭" title="wikilink">Sunny缺席</a>，<a href="../Page/Yura.md" title="wikilink">Yura</a>（<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>）作為特別MC主持。[5]</p></td>
 </tr>
 <tr class="odd">
 <td><p>99</p></td>
 <td><p>6月26日</p></td>
 <td><p>、、、、金亨錫</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李順圭" title="wikilink">Sunny缺席</a>，<a href="https://zh.wikipedia.org/wiki/Yura" title="wikilink">Yura</a>（<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>）、<a href="../Page/Boom_(藝人).md" title="wikilink">Boom作為特別MC主持</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李順圭" title="wikilink">Sunny缺席</a>，<a href="../Page/Yura.md" title="wikilink">Yura</a>（<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>）、<a href="../Page/Boom_(藝人).md" title="wikilink">Boom作為特別MC主持</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>100</p></td>
@@ -895,14 +895,14 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="odd">
 <td><p>105</p></td>
 <td><p>8月7日</p></td>
-<td><p><a href="../Page/Haha.md" title="wikilink">Haha</a>、<a href="../Page/Star_(韓國歌手).md" title="wikilink">Star</a>、<a href="https://zh.wikipedia.org/wiki/Skull_(歌手)" title="wikilink">Skull</a>、</p></td>
+<td><p><a href="../Page/Haha.md" title="wikilink">Haha</a>、<a href="../Page/Star_(韓國歌手).md" title="wikilink">Star</a>、<a href="../Page/Skull_(歌手).md" title="wikilink">Skull</a>、</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>106</p></td>
 <td><p>8月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柳炳宰" title="wikilink">柳炳宰</a>、文尚勛、柳奎善、、金秀勇</p></td>
+<td><p><a href="../Page/柳炳宰.md" title="wikilink">柳炳宰</a>、文尚勛、柳奎善、、金秀勇</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -958,9 +958,9 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="even">
 <td><p>114</p></td>
 <td><p>10月9日</p></td>
-<td><p><a href="../Page/鄭尚勳.md" title="wikilink">鄭尚勳</a>、<a href="../Page/金吝勸.md" title="wikilink">金吝勸</a>、<a href="../Page/孫淡妃.md" title="wikilink">孫淡妃</a>、<a href="https://zh.wikipedia.org/wiki/金聖喆" title="wikilink">金聖喆</a></p></td>
+<td><p><a href="../Page/鄭尚勳.md" title="wikilink">鄭尚勳</a>、<a href="../Page/金吝勸.md" title="wikilink">金吝勸</a>、<a href="../Page/孫淡妃.md" title="wikilink">孫淡妃</a>、<a href="../Page/金聖喆.md" title="wikilink">金聖喆</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李順圭" title="wikilink">Sunny缺席</a>，<a href="https://zh.wikipedia.org/wiki/南太鉉" title="wikilink">南太鉉作為特別MC主持</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李順圭" title="wikilink">Sunny缺席</a>，<a href="../Page/南太鉉.md" title="wikilink">南太鉉作為特別MC主持</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>115</p></td>
@@ -972,7 +972,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="even">
 <td><p>116</p></td>
 <td><p>10月23日</p></td>
-<td><p>、J-black N Pink、Shaun（）、<a href="https://zh.wikipedia.org/wiki/金相均" title="wikilink">金相均</a>、Gabi Moon</p></td>
+<td><p>、J-black N Pink、Shaun（）、<a href="../Page/金相均.md" title="wikilink">金相均</a>、Gabi Moon</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1051,7 +1051,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <td><p>1月1日</p></td>
 <td><p>、、、</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/申雅英" title="wikilink">申雅英作為特別MC主持</a>。</p></td>
+<td><p><a href="../Page/申雅英.md" title="wikilink">申雅英作為特別MC主持</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>126</p></td>

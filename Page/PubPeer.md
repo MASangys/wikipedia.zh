@@ -12,7 +12,7 @@ Smith\[5\]。
 有些網站和PubPeer的性質類似，都是讓學術研究者可以進行出版後的[同行評審](../Page/同行評審.md "wikilink")，PubPeer強調一些高调论文的缺點，有些甚至會讓發表[論文被](https://zh.wikipedia.org/wiki/論文 "wikilink")，並且指控研究者進行[科研造假](../Page/科學不端行為.md "wikilink")\[6\]\[7\]\[8\]\[9\]\[10\]，在
 blog中也曾提到PubPeer的特點 \[11\]。
 
-PubPeer中討論的多半是論文中或是[資料](https://zh.wikipedia.org/wiki/資料 "wikilink")，或是有[抄襲他人論文的情形](https://zh.wikipedia.org/wiki/抄襲 "wikilink")，像是日本學者[小保方晴子在](https://zh.wikipedia.org/wiki/小保方晴子 "wikilink")2014年春天於《[自然](../Page/自然_\(期刊\).md "wikilink")》期刊上發表了世界首例有效製作[STAP細胞的論文](https://zh.wikipedia.org/wiki/STAP細胞 "wikilink")，2014年1月29日論文發表後就在PubPeer有許多的議論，幾天後就指出有數據異常的情形\[12\]。
+PubPeer中討論的多半是論文中或是[資料](https://zh.wikipedia.org/wiki/資料 "wikilink")，或是有[抄襲他人論文的情形](https://zh.wikipedia.org/wiki/抄襲 "wikilink")，像是日本學者[小保方晴子在](../Page/小保方晴子.md "wikilink")2014年春天於《[自然](../Page/自然_\(期刊\).md "wikilink")》期刊上發表了世界首例有效製作[STAP細胞的論文](https://zh.wikipedia.org/wiki/STAP細胞 "wikilink")，2014年1月29日論文發表後就在PubPeer有許多的議論，幾天後就指出有數據異常的情形\[12\]。
 
 若要申請PubPeer的帳號，需要有[PubMed期刊資料庫的帳號才能註冊](../Page/PubMed.md "wikilink")，表示是PubMed資料庫收錄期刊的第一作者或是通訊作者才能申請帳號\[13\]，但是平台上的發言是採匿名方式進行。
 

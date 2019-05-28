@@ -58,9 +58,8 @@ Achtung源自德文，有“attention”以及
 ### 合作單曲專輯
 
   - 那天(그 날)(with [尹度玹](../Page/尹度玹.md "wikilink"))\[4\] - (2014年 5月 22日)
-  - 鏡中的你(거울속의 너)(with
-    [鄭燁](https://zh.wikipedia.org/wiki/鄭燁 "wikilink"))\[5\] -
-    (2014年 8月 14日)
+  - 鏡中的你(거울속의 너)(with [鄭燁](../Page/鄭燁.md "wikilink"))\[5\] - (2014年 8月
+    14日)
   - 戀戀(연연)(with [金慶皓](../Page/金慶皓.md "wikilink"))\[6\] - (2014年 10月 14日)
 
 ## 參考資料

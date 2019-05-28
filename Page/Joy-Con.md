@@ -18,7 +18,7 @@ Joy-Con内置扬声器，可根据状况所需时，发出声音提示玩家。�
 
 [Nintendo_Switch_Joy-Con_illustration.svg](https://zh.wikipedia.org/wiki/File:Nintendo_Switch_Joy-Con_illustration.svg "fig:Nintendo_Switch_Joy-Con_illustration.svg")
 
-Joy-Con有多种配色，可通过主机附带或另行购买的方式获得。顾客除了灰色外，还可选择电光红（L）和电光蓝（R）配色\[14\]。2017年中段，任天堂随《[ARMS](https://zh.wikipedia.org/wiki/ARMS_\(游戏\) "wikilink")》发布了电光黄版Joy-Con，在《[Splatoon
+Joy-Con有多种配色，可通过主机附带或另行购买的方式获得。顾客除了灰色外，还可选择电光红（L）和电光蓝（R）配色\[14\]。2017年中段，任天堂随《[ARMS](../Page/ARMS_\(游戏\).md "wikilink")》发布了电光黄版Joy-Con，在《[Splatoon
 2](../Page/Splatoon_2.md "wikilink")》首发时推出了电光绿（L）和电光粉红（R）版\[15\]，北美地區发布了电光粉红（L）和电光绿（R）版，2017年10月，随《[超级马里奥
 奥德赛](../Page/超级马里奥_奥德赛.md "wikilink")》发布了红色版Joy-Con\[16\]。
 

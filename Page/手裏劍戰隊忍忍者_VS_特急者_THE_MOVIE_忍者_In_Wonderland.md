@@ -283,7 +283,7 @@ Wonderland**》（），是2016年1月23日東映預定上映的特攝電影，�
 
   - 伊賀崎天晴 / 赤忍者（聲） - [西川俊介](../Page/西川俊介.md "wikilink")（台灣配音：）
   - 加藤・克勞德・八雲 / 青忍者（聲） -
-    [松本岳](../Page/松本岳.md "wikilink")（台灣配音：[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")）
+    [松本岳](../Page/松本岳.md "wikilink")（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
   - 松尾凪 / 黃忍者（聲） - [中村嘉惟人](../Page/中村嘉惟人.md "wikilink")（台灣配音：）
   - 伊賀崎風花 / 白忍者（聲） -
     [矢野優花](../Page/矢野優花.md "wikilink")（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
@@ -295,17 +295,15 @@ Wonderland**》（），是2016年1月23日東映預定上映的特攝電影，�
 《烈車戰隊特急者》
 
   - 來斗（鈴樹來斗） / 特急1號（聲） - [志尊淳](../Page/志尊淳.md "wikilink") /
-    馬渕誉（孩童時期）（台灣配音：[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")）
+    馬渕誉（孩童時期）（台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
   - 十勝（渡嘉敷 晴） / 特急2號（聲） - [平牧仁](../Page/平牧仁.md "wikilink") /
     永瀬圭志朗（孩童時期）（台灣配音：）
   - 美緒（夏目美緒） / 特急3號（聲） -
     [梨里杏](https://zh.wikipedia.org/wiki/梨里杏 "wikilink") /
     石井薫子（孩童時期）（台灣配音：[李昀晴](../Page/李昀晴.md "wikilink")）
-  - 洸（野野村 洸） / 特急4號（聲） -
-    [橫濱流星](https://zh.wikipedia.org/wiki/橫濱流星 "wikilink")
-    / 山崎光（孩童時期）（台灣配音：）
-  - 神樂（泉 神樂） / 特急5號（聲） -
-    [森高愛](https://zh.wikipedia.org/wiki/森高愛 "wikilink") /
+  - 洸（野野村 洸） / 特急4號（聲） - [橫濱流星](../Page/橫濱流星.md "wikilink") /
+    山崎光（孩童時期）（台灣配音：）
+  - 神樂（泉 神樂） / 特急5號（聲） - [森高愛](../Page/森高愛.md "wikilink") /
     清水羅羅（孩童時期）（台灣配音：[連思宇](../Page/連思宇.md "wikilink")）
   - 虹野明 / 特急6號（聲） -
     [長濱慎](../Page/長濱慎.md "wikilink")（台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）

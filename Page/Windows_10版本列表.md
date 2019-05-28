@@ -1,5 +1,5 @@
 **[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")**作業系統若不計「N」版、「KN」版以及其他变种，有十二大**版本**（如计算服务器和游戏机的不自称为Windows
+10](../Page/Windows_10.md "wikilink")**作業系統若不計「N」版、「KN」版以及其他变种，有十二大**版本**（如计算服务器和游戏机的不自称为Windows
 10的版本，则为十六个），它們的功能集和面向的硬體都不盡相同。\[1\]\[2\]
 
 ## 版本
@@ -146,8 +146,9 @@ Windows
 
 2017年5月2日，微软公布Windows 10 S（对应早前泄露的Windows 10 Cloud），这是一个Windows
 10的功能限制版本，主要针对教育市场中的低端设备，如同时亮相的[Surface
-Laptop](https://zh.wikipedia.org/wiki/Surface_Laptop "wikilink")。微软表示Windows
-10 S设备将由多家OEM厂商制造，定价自189美元起，而且该操作系统也将提供给具有Windows 10 Pro使用权的学校。[Terry
+Laptop](../Page/Surface_Laptop.md "wikilink")。微软表示Windows 10
+S设备将由多家OEM厂商制造，定价自189美元起，而且该操作系统也将提供给具有Windows 10
+Pro使用权的学校。[Terry
 Myerson在发布会上解释说](https://zh.wikipedia.org/wiki/Terry_Myerson "wikilink")，名称中的“S”是为表示这个版本的Windows
 10已被简化和具有安全、卓越的表现，并仍然含有Windows 10的“灵魂”。\[15\]
 
@@ -173,8 +174,7 @@ RS4正式版更新也会集成这个功能\[21\]。
 
 ## 參閱
 
-  - [Windows
-    10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")/[Windows
+  - [Windows 10](../Page/Windows_10.md "wikilink")/[Windows
     10行動裝置版](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")
   - [Windows
     Holographic](https://zh.wikipedia.org/wiki/Windows_Holographic "wikilink")，計算平台，設計用於擴增實境裝置上。

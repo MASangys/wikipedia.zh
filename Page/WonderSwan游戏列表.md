@@ -82,8 +82,8 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/疯狂攀登者" title="wikilink">疯狂攀登者</a></p></td>
 <td><p><span id="C"></span><em>Crazy Climber</em></p></td>
 <td><p>クレイジークライマー</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日本物產" title="wikilink">日本物產</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日本物產" title="wikilink">日本物產</a></p></td>
+<td><p><a href="../Page/日本物產.md" title="wikilink">日本物產</a></p></td>
+<td><p><a href="../Page/日本物產.md" title="wikilink">日本物產</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -567,7 +567,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/三國志II" title="wikilink">三國志II</a></p></td>
+<td><p><a href="../Page/三國志II.md" title="wikilink">三國志II</a></p></td>
 <td><p><span id="S"></span>Sangokushi II</p></td>
 <td><p>三國志II for ワンダースワン</p></td>
 <td><p>Koei</p></td>

@@ -236,7 +236,7 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 </tr>
 <tr class="even">
 <td><p><strong>4th</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>《<a href="https://zh.wikipedia.org/wiki/檢法男女" title="wikilink">檢法男女</a>》Part.6</p>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>《<a href="../Page/檢法男女.md" title="wikilink">檢法男女</a>》Part.6</p>
 <ul>
 <li>發行日期：2018年7月2日</li>
 <li>語言：韓語</li>

@@ -1,6 +1,6 @@
 **PENTAGON創作歌曲列表**，主要紀載[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")**[PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")**成員，自2016年出道至今，所參與創作的歌曲。該團體隸屬於[Cube娛樂](../Page/Cube娛樂.md "wikilink")，以同名[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《Pentagon》在2016年10月10日正式出道。
 
-## [韓國音樂著作權協會](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
+## [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
 
 | 成員                                                      | 登記名字                  | 編號                                                                                      | 歌曲列表   |
 | ------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------- | ------ |
@@ -597,7 +597,7 @@ HyunA E'Dawn</p></td>
 <tr class="even">
 <td><p>Idol Room Logo Song</p></td>
 <td><p>Hui 禹奭</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Idol_Room" title="wikilink">Idol Room</a></p></td>
+<td><p><a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a></p></td>
 <td><p>Hui</p></td>
 <td><p>Hui</p></td>
 <td></td>
@@ -635,7 +635,7 @@ E'Dawn Yuto 禹奭 小娟</p></td>
 <tr class="even">
 <td><p>Idol Room Logo Song</p></td>
 <td><p>Hui 禹奭</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Idol_Room" title="wikilink">Idol Room</a></p></td>
+<td><p><a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a></p></td>
 <td><p>Hui</p></td>
 <td><p>Hui</p></td>
 <td></td>

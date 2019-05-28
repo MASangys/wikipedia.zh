@@ -125,11 +125,9 @@ SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilin
 
 ## 獎項
 
-  - 第2屆
-    [觀眾在民間電視大奬](https://zh.wikipedia.org/wiki/觀眾在民間電視大奬 "wikilink")「民選最佳綜藝資訊節目」
+  - 第2屆 [觀眾在民間電視大奬](../Page/觀眾在民間電視大奬.md "wikilink")「民選最佳綜藝資訊節目」
   - 第2屆 觀眾在民間電視大奬「民選最佳綜藝資訊節目主持」：鄭裕玲、陸永、C君、黃翠如、馬國明、蕭正楠 \[6\]
-  - [萬千星輝頒獎典禮2017](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2017 "wikilink")
-    「最佳非戲劇節目」
+  - [萬千星輝頒獎典禮2017](../Page/萬千星輝頒獎典禮2017.md "wikilink") 「最佳非戲劇節目」
   - 萬千星輝頒獎典禮2017 「最佳節目主持」
 
 ## 參考

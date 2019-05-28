@@ -8,7 +8,7 @@ Again**）是美國黑人女歌手[珍娜·傑克森在](https://zh.wikipedia.or
 
 〈再度重逢〉是[珍娜·傑克森第六張](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[華麗的冒險](../Page/The_Velvet_Rope.md "wikilink")》（The
 Velvet
-Rope）在美國地區所發行的首支單曲，不過從這張專輯當中首支推出的單曲是〈[失去了才了解](https://zh.wikipedia.org/wiki/失去了才了解_\(珍娜·傑克森單曲\) "wikilink")〉，唯〈失去了才了解〉並未在美發行單曲，它在英國單曲榜獲得第6名。
+Rope）在美國地區所發行的首支單曲，不過從這張專輯當中首支推出的單曲是〈[失去了才了解](../Page/失去了才了解_\(珍娜·傑克森單曲\).md "wikilink")〉，唯〈失去了才了解〉並未在美發行單曲，它在英國單曲榜獲得第6名。
 \[3\]
 
 ### 單曲簡介

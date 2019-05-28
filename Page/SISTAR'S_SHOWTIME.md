@@ -29,9 +29,8 @@ SHOWTIME**》（）是于2015年1月8日至2015年2月26日在[韩国](https://z
 
 1.  《[EXO's SHOWTIME](../Page/EXO's_SHOWTIME.md "wikilink")》（2013－2014年）
 2.  《[SHOWTIME - Burning the
-    BEAST](https://zh.wikipedia.org/wiki/SHOWTIME_-_Burning_the_BEAST "wikilink")》（2014年）
-3.  《[Apink's
-    SHOWTIME](https://zh.wikipedia.org/wiki/Apink's_SHOWTIME "wikilink")》（2014年）
+    BEAST](../Page/SHOWTIME_-_Burning_the_BEAST.md "wikilink")》（2014年）
+3.  《[Apink's SHOWTIME](../Page/Apink's_SHOWTIME.md "wikilink")》（2014年）
 4.  《**SISTAR'S SHOWTIME**》（2015年）
 5.  《[EXID's SHOWTIME](../Page/EXID's_SHOWTIME.md "wikilink")》（2015年）
 6.  《[SHOWTIME

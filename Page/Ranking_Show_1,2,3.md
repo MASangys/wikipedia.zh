@@ -166,7 +166,7 @@
 <td><p>14</p></td>
 <td><p>11月17日</p></td>
 <td><p>外國人，按照年齡順序排名吧</p></td>
-<td><p><strong>申奉仙</strong>、洪榛浩、小百合、<a href="../Page/MIGHTY_MOUTH.md" title="wikilink">Shorry J</a>、<a href="../Page/許齡智.md" title="wikilink">許齡智</a>、<a href="https://zh.wikipedia.org/wiki/森姆·汗明頓" title="wikilink">Sam Hammington</a>、</p></td>
+<td><p><strong>申奉仙</strong>、洪榛浩、小百合、<a href="../Page/MIGHTY_MOUTH.md" title="wikilink">Shorry J</a>、<a href="../Page/許齡智.md" title="wikilink">許齡智</a>、<a href="../Page/森姆·汗明頓.md" title="wikilink">Sam Hammington</a>、</p></td>
 <td><p>推理成功</p></td>
 <td></td>
 </tr>
@@ -374,7 +374,7 @@
 <tr class="odd">
 <td></td>
 <td><p>4月27日</p></td>
-<td><p>因播出MBC特別訪談節目《<a href="https://zh.wikipedia.org/wiki/2018年4月南北韓高峰會" title="wikilink">2018年南北頂上會談</a>》而停播</p></td>
+<td><p>因播出MBC特別訪談節目《<a href="../Page/2018年4月南北韓高峰會.md" title="wikilink">2018年南北頂上會談</a>》而停播</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -391,7 +391,7 @@
 <td><p>33</p></td>
 <td><p>5月11日</p></td>
 <td><p>按照跑步快的順序來排名吧</p></td>
-<td><p><strong>朴美善</strong>、申奉仙、洪榛浩、<a href="https://zh.wikipedia.org/wiki/森姆·汗明頓" title="wikilink">Sam Hammington</a>、尹汝春、、Binnie（<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>）</p></td>
+<td><p><strong>朴美善</strong>、申奉仙、洪榛浩、<a href="../Page/森姆·汗明頓.md" title="wikilink">Sam Hammington</a>、尹汝春、、Binnie（<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>）</p></td>
 <td><p>推理成功</p></td>
 <td></td>
 </tr>

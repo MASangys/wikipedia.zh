@@ -8,13 +8,13 @@
 
   - 9月7日，节目主题和播出时间发布。本次红白的主題為“歌唱梦想”（），與去年相同\[1\]。
   - 11月13日，主持人名单公布，红组主持人为演員[有村架纯](https://zh.wikipedia.org/wiki/有村架纯 "wikilink")，白组主持人为偶像團體[岚的成员](https://zh.wikipedia.org/wiki/岚 "wikilink")[二宫和也](https://zh.wikipedia.org/wiki/二宫和也 "wikilink")。其中有村架纯为连续第二年担任红组主持，而二宫和也则是首次单独担任白组主持\[2\]。综合主持人由搞笑艺人[内村光良担任](https://zh.wikipedia.org/wiki/内村光良 "wikilink")，这也是内村首次担任红白的综合主持\[3\]。
-  - 11月16日，公布出场歌手名单，[石川小百合以第](../Page/石川小百合.md "wikilink")40次入選，成為紅白史上單獨出場次數最多的女歌手\[4\]。同时宣布NHK新闻主播[桑子真帆将与内村光良共同担任综合主持人](https://zh.wikipedia.org/wiki/桑子真帆 "wikilink")，這也是桑子首次担任红白的主持人\[5\]。
+  - 11月16日，公布出场歌手名单，[石川小百合以第](../Page/石川小百合.md "wikilink")40次入選，成為紅白史上單獨出場次數最多的女歌手\[4\]。同时宣布NHK新闻主播[桑子真帆将与内村光良共同担任综合主持人](../Page/桑子真帆.md "wikilink")，這也是桑子首次担任红白的主持人\[5\]。
   - 12月1日，广播电台和电视副声道解说公布。
   - 12月4日，紅組出賽的偶像團體[AKB48繼去年於紅白官方網頁舉辦成員出場投票後](../Page/AKB48.md "wikilink")，今年推出「當日演唱曲目」公眾投票，是紅白有史以來首次由公眾票選決定演唱曲目。此外，同時公佈AKB48出演紅白的48名選拔成員名單\[6\]。
   - 12月7日，公佈由[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")擔任節目尾聲大合唱指揮\[7\]，接替因[肺炎於](../Page/肺炎.md "wikilink")7月21日離世、由2006年到2016年一直擔任此工作的[平尾昌晃](../Page/平尾昌晃.md "wikilink")。
   - 12月19日，公布將於明年退出[藝能界的](https://zh.wikipedia.org/wiki/藝能界 "wikilink")[安室奈美惠將以](../Page/安室奈美惠.md "wikilink")「特別企劃」身份於紅白中出場\[8\]。這次也是安室繼2003年後，相隔14年再次於紅白登台。
   - 12月20日，公佈8位客席審查員名單，亦因應[上一回最終結果所帶來的風波](https://zh.wikipedia.org/wiki/第67回NHK紅白歌合戰#後續 "wikilink")，NHK宣佈今年不會再进行搭载[1seg功能的](../Page/1seg.md "wikilink")[手提電話及智能手机中紅白歌会之应用软件的投票](https://zh.wikipedia.org/wiki/手提電話 "wikilink")。家庭觀眾投票則同上回，在每一對紅白組歌手演唱完畢後進行投票，並在前半段結束前發布中間票數；全部歌手演唱完畢後，再加上現場觀眾與審查員的投票、來發表最終票數。
-  - 12月22日，公布[桑田佳祐將以](../Page/桑田佳祐.md "wikilink")「特別企劃」身份於紅白中出場、同時公布了电视剧《[雏鸟](https://zh.wikipedia.org/wiki/雏鸟_\(连续剧\) "wikilink")》将制作特别编的消息\[9\]。这是桑田自[第65回做為](https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰 "wikilink")[南方之星成員出演後相隔](../Page/南方之星.md "wikilink")3年再次出场（个人名义出演则是自[第61回（2010年）后时隔](https://zh.wikipedia.org/wiki/第61回NHK紅白歌合戰 "wikilink")7年）。当天将自举办个人跨年演唱会的[橫濱體育館连线直播出演](../Page/橫濱體育館.md "wikilink")。
+  - 12月22日，公布[桑田佳祐將以](../Page/桑田佳祐.md "wikilink")「特別企劃」身份於紅白中出場、同時公布了电视剧《[雏鸟](https://zh.wikipedia.org/wiki/雏鸟_\(连续剧\) "wikilink")》将制作特别编的消息\[9\]。这是桑田自[第65回做為](../Page/第65回NHK紅白歌合戰.md "wikilink")[南方之星成員出演後相隔](../Page/南方之星.md "wikilink")3年再次出场（个人名义出演则是自[第61回（2010年）后时隔](https://zh.wikipedia.org/wiki/第61回NHK紅白歌合戰 "wikilink")7年）。当天将自举办个人跨年演唱会的[橫濱體育館连线直播出演](../Page/橫濱體育館.md "wikilink")。
   - 12月23日，正式公佈各出場歌手選唱歌曲及出場次序（不含特别企划），紅組壓軸為石川小百合，是她個人第8次組別壓軸；白組暨總壓軸為出道20周年紀念的[柚子](../Page/柚子_\(組合\).md "wikilink")\[10\]，也是他們首次的紅白壓軸。
   - 12月27日，公佈特別出演嘉賓（[黑柳徹子及](../Page/黑柳徹子.md "wikilink")[桐生祥秀](../Page/桐生祥秀.md "wikilink")）及個別歌手應援的參與者名單。另外連續兩年開設特別企劃「紅白
     halftime
@@ -131,7 +131,7 @@
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天童芳美" title="wikilink">天童芳美</a><br />
+<td><p><a href="../Page/天童芳美.md" title="wikilink">天童芳美</a><br />
 （）</p></td>
 </tr>
 <tr class="even">

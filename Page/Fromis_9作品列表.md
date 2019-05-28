@@ -91,7 +91,7 @@
 </tr>
 <tr class="even">
 <td><p>2rd</p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/To._Day" title="wikilink">To. Day</a></strong>》</p>
+<td><p>《<strong><a href="../Page/To._Day.md" title="wikilink">To. Day</a></strong>》</p>
 <ul>
 <li>發行日期：2018年6月5日</li>
 <li>唱片公司：<a href="https://zh.wikipedia.org/wiki/CJ集團" title="wikilink">CJ E&amp;M</a></li>

@@ -1,5 +1,5 @@
 目前可通過[PlayStation
-Network](../Page/PlayStation_Network.md "wikilink")（PSN）下载的[PlayStation的](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[应用程序](../Page/应用程序.md "wikilink")。
+Network](../Page/PlayStation_Network.md "wikilink")（PSN）下载的[PlayStation的](../Page/PlayStation.md "wikilink")[应用程序](../Page/应用程序.md "wikilink")。
 
 ### 便携式平台 与 PC
 
@@ -359,7 +359,7 @@ Network](../Page/PlayStation_Network.md "wikilink")（PSN）下载的[PlayStatio
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Dish_Network" title="wikilink">Dish Network</a></strong></p></td>
+<td><p><strong><a href="../Page/Dish_Network.md" title="wikilink">Dish Network</a></strong></p></td>
 <td></td>
 <td><p>否</p></td>
 <td><p>是</p></td>
@@ -917,7 +917,7 @@ Network](../Page/PlayStation_Network.md "wikilink")（PSN）下载的[PlayStatio
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/PlayStation_Now" title="wikilink">PlayStation Now</a></strong></p></td>
+<td><p><strong><a href="../Page/PlayStation_Now.md" title="wikilink">PlayStation Now</a></strong></p></td>
 <td></td>
 <td><p>是</p></td>
 <td></td>

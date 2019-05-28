@@ -17,8 +17,8 @@
 
   - [朝鲜总督府铁道](../Page/朝鲜总督府铁道.md "wikilink")
   - [朝鲜总督府铁道Mikai型蒸汽机车](../Page/朝鲜总督府铁道Mikai型蒸汽机车.md "wikilink")
-  - [朝鲜总督府铁道Mikasa型蒸汽机车](https://zh.wikipedia.org/wiki/朝鲜总督府铁道Mikasa型蒸汽机车 "wikilink")
-  - [朝鲜总督府铁道Mikashi型蒸汽机车](https://zh.wikipedia.org/wiki/朝鲜总督府铁道Mikashi型蒸汽机车 "wikilink")
+  - [朝鲜总督府铁道Mikasa型蒸汽机车](../Page/朝鲜总督府铁道Mikasa型蒸汽机车.md "wikilink")
+  - [朝鲜总督府铁道Mikashi型蒸汽机车](../Page/朝鲜总督府铁道Mikashi型蒸汽机车.md "wikilink")
 
 ## 备注
 

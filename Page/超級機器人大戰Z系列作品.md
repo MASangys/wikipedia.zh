@@ -10,8 +10,8 @@
 <th><p><em><a href="../Page/超級機器人大戰Z.md" title="wikilink">Z</a></em></p></th>
 <th><p><em><a href="../Page/第2次超級機器人大戰Z.md" title="wikilink">Z2 破界篇</a></em></p></th>
 <th><p><em><a href="../Page/第2次超級機器人大戰Z.md" title="wikilink">Z2 再世篇</a></em></p></th>
-<th><p><em><a href="https://zh.wikipedia.org/wiki/第3次超級機器人大戰Z" title="wikilink">Z3 時獄篇</a></em></p></th>
-<th><p><em><a href="https://zh.wikipedia.org/wiki/第3次超級機器人大戰Z" title="wikilink">Z3 天獄篇</a></em></p></th>
+<th><p><em><a href="../Page/第3次超級機器人大戰Z.md" title="wikilink">Z3 時獄篇</a></em></p></th>
+<th><p><em><a href="../Page/第3次超級機器人大戰Z.md" title="wikilink">Z3 天獄篇</a></em></p></th>
 </tr>
 </thead>
 <tbody>

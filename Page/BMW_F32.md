@@ -18,7 +18,7 @@
 xDrive、430d和435d
 xDrive则是在2013年11月上市。美规版本是在2013年夏季作为2014年度车型开始销售。初期推出的型号包括428i（244马力）、435i（304马力）、428i
 xDrive（244马力）和435i
-xDrive（304马力）。它主要的同级竞争对手有[奥迪A5轿跑](https://zh.wikipedia.org/wiki/奥迪A5 "wikilink")、[英菲尼迪Q60轿跑和](../Page/英菲尼迪G.md "wikilink")[凱迪拉克CTS轿跑](https://zh.wikipedia.org/wiki/凱迪拉克CTS "wikilink")\[6\]。
+xDrive（304马力）。它主要的同级竞争对手有[奥迪A5轿跑](../Page/奥迪A5.md "wikilink")、[英菲尼迪Q60轿跑和](../Page/英菲尼迪G.md "wikilink")[凱迪拉克CTS轿跑](https://zh.wikipedia.org/wiki/凱迪拉克CTS "wikilink")\[6\]。
 
 ### 敞篷轿跑车（F33，2013–）
 
@@ -27,12 +27,12 @@ xDrive（304马力）。它主要的同级竞争对手有[奥迪A5轿跑](https:
 
 初期推出的版本包括428i（245马力）、435i（306马力）和420d，428i
 xDrive则可在2014年春季起预定\[10\]。美规版本作为2014年度车型，于2014年第一季度抵达[美国展厅](../Page/美国.md "wikilink")。初期型号包括428i（244马力）、428i
-xDrive（244马力）和435i（304马力）。它主要的同级竞争对手有[奥迪A5敞篷轿跑](https://zh.wikipedia.org/wiki/奥迪A5 "wikilink")、[英菲尼迪Q60敞篷轿跑和](../Page/英菲尼迪G.md "wikilink")[奔驰E级敞篷轿跑](../Page/梅赛德斯-奔驰E级.md "wikilink")。
+xDrive（244马力）和435i（304马力）。它主要的同级竞争对手有[奥迪A5敞篷轿跑](../Page/奥迪A5.md "wikilink")、[英菲尼迪Q60敞篷轿跑和](../Page/英菲尼迪G.md "wikilink")[奔驰E级敞篷轿跑](../Page/梅赛德斯-奔驰E级.md "wikilink")。
 
 ### 四门轿跑车（F36，2014–）
 
 [BMW_4-Series_F36_Gran_Coupé_01_Avignon_Motor_Festival_2014-03-23.jpg](https://zh.wikipedia.org/wiki/File:BMW_4-Series_F36_Gran_Coupé_01_Avignon_Motor_Festival_2014-03-23.jpg "fig:BMW_4-Series_F36_Gran_Coupé_01_Avignon_Motor_Festival_2014-03-23.jpg")
-融合了轿跑和敞篷元素的4系（）是BMW生产的第二款高级轿跑车型。如同第一款[6系高级轿跑车F06](https://zh.wikipedia.org/wiki/BMW_F12 "wikilink")，它是一辆具备四门的轿跑车，因此也被称为[掀背车](../Page/掀背车.md "wikilink")。然而与F06不同的是，其支柱更倾向于的四柱式结构，即A柱、B柱、C柱和D柱，使得整个车顶弧线的收缩更加靠后。与此类似的还有[奥迪A7和](https://zh.wikipedia.org/wiki/奥迪A7 "wikilink")[奥迪A5](https://zh.wikipedia.org/wiki/奥迪A5 "wikilink")
+融合了轿跑和敞篷元素的4系（）是BMW生产的第二款高级轿跑车型。如同第一款[6系高级轿跑车F06](https://zh.wikipedia.org/wiki/BMW_F12 "wikilink")，它是一辆具备四门的轿跑车，因此也被称为[掀背车](../Page/掀背车.md "wikilink")。然而与F06不同的是，其支柱更倾向于的四柱式结构，即A柱、B柱、C柱和D柱，使得整个车顶弧线的收缩更加靠后。与此类似的还有[奥迪A7和](../Page/奥迪A7.md "wikilink")[奥迪A5](../Page/奥迪A5.md "wikilink")
 Sportback\[11\]。
 
 总体而言，四门轿跑车保持了双门轿跑（F32）的设计风格，在前脸、尾部和内饰方面几乎没有差别。不同的是，F36的车身高度要比F32高出12毫米，为1400毫米。通过侧窗下部的双腰线和巧妙设计的采光边缘，平滑舒展的车顶线条与后侧围板和后行李厢盖流畅地融合，让侧面外观显得更为修长。F36还在后门增加了一个三角窗，这一类似于3系GT的设计也使得车内拥有更加充裕的后座空间以及后备箱空间（480升，在翻倒后排座椅后可以扩充至1300升）。其它特点则还包括掀背式尾门和无框车窗设计。\[12\]

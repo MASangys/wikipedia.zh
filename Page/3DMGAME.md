@@ -23,7 +23,7 @@ GAMES，簡稱光榮）起訴3DMGAME非法發佈該公司《[三國志](../Page/
 ## 参见
 
   - [游民星空](../Page/游民星空.md "wikilink")
-  - [游侠网](https://zh.wikipedia.org/wiki/游侠网 "wikilink")
+  - [游侠网](../Page/游侠网.md "wikilink")
 
 ## 参考资料
 

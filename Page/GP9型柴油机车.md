@@ -1,7 +1,7 @@
 **GP9型柴油机车**是[美国](../Page/美国.md "wikilink")[通用汽车](../Page/通用汽车.md "wikilink")[易安迪公司](../Page/易安迪.md "wikilink")（GM-EMD）于1954年推出的一款[柴油机车](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，也是易安迪公司的第二代“GP”系列四轴[干线调车机车](https://zh.wikipedia.org/wiki/干线调车机车 "wikilink")，主要竞争对象是[美国机车公司的](../Page/美国机车公司.md "wikilink")[RS-11](https://zh.wikipedia.org/wiki/RS-11型柴油机车 "wikilink")、[RS-18型柴油机车](https://zh.wikipedia.org/wiki/RS-18型柴油机车 "wikilink")。
 
 1949年，易安迪公司成功研制了新一代的[GP7型柴油机车](../Page/GP7型柴油机车.md "wikilink")。作为第一款GP系列四轴干线调车机车（“GP”是“General
-Purpose”的缩写，意为“通用”），这款1500马力的干线调车机车推出市场后立即受到各大铁路公司的欢迎，许多一级铁路公司乃至地方铁路公司都订购了该型机车。1954年1月，易安迪公司推出功率更大的GP9型柴油机车，作为GP7型柴油机车的换代产品。在GP9型柴油机车投产约五个月后，GP7型柴油机车亦在易安迪的产品目录中消失。GP9型柴油机车不仅延续了上一代的成功，其销量更是青出于蓝。同时，易安迪公司还在1954年推出了六轴版本的[SD9型柴油机车](https://zh.wikipedia.org/wiki/SD9型柴油机车 "wikilink")。GP9型柴油机车的后继产品则是1959年推出的[GP18型柴油机车](https://zh.wikipedia.org/wiki/GP18型柴油机车 "wikilink")。
+Purpose”的缩写，意为“通用”），这款1500马力的干线调车机车推出市场后立即受到各大铁路公司的欢迎，许多一级铁路公司乃至地方铁路公司都订购了该型机车。1954年1月，易安迪公司推出功率更大的GP9型柴油机车，作为GP7型柴油机车的换代产品。在GP9型柴油机车投产约五个月后，GP7型柴油机车亦在易安迪的产品目录中消失。GP9型柴油机车不仅延续了上一代的成功，其销量更是青出于蓝。同时，易安迪公司还在1954年推出了六轴版本的[SD9型柴油机车](../Page/SD9型柴油机车.md "wikilink")。GP9型柴油机车的后继产品则是1959年推出的[GP18型柴油机车](../Page/GP18型柴油机车.md "wikilink")。
 
 1954年1月至1963年8月间，易安迪公司与旗下位于[加拿大的](../Page/加拿大.md "wikilink")[GMD共制造了](https://zh.wikipedia.org/wiki/通用汽车柴油 "wikilink")4,112台GP9型柴油机车，其中包括165台没有司机室的GP9B型柴油机车，用来与GP9型柴油机车[重联作为](../Page/機車重聯.md "wikilink")[增力机车使用](https://zh.wikipedia.org/wiki/輔助機車 "wikilink")。美国本土的铁路公司共采购了3,441台GP9型柴油机车和165台GP9B型柴油机车，主要用户包括、[切萨皮克与俄亥俄铁路](../Page/切薩皮克與俄亥俄鐵路.md "wikilink")、[联合太平洋铁路](../Page/聯合太平洋鐵路.md "wikilink")、[賓夕法尼亞鐵路](../Page/賓夕法尼亞鐵路.md "wikilink")、[南太平洋铁路](https://zh.wikipedia.org/wiki/南太平洋鐵路 "wikilink")、[伊利诺伊中央铁路](https://zh.wikipedia.org/wiki/伊利諾伊中央鐵路 "wikilink")、[紐約中央鐵路](../Page/紐約中央鐵路.md "wikilink")、、[密尔沃基铁路](https://zh.wikipedia.org/wiki/密尔沃基铁路 "wikilink")、、[芝加哥和西北铁路](https://zh.wikipedia.org/wiki/芝加哥和西北铁路 "wikilink")、、、[圣塔菲铁路](https://zh.wikipedia.org/wiki/艾奇遜，托皮卡和聖塔菲鐵路 "wikilink")、、、、等。位于北美洲的GP9型柴油机车用户还包括[加拿大国家铁路](../Page/加拿大國家鐵路.md "wikilink")、[加拿大太平洋铁路](../Page/加拿大太平洋鐵路.md "wikilink")、，以及[墨西哥国家铁路等](https://zh.wikipedia.org/wiki/墨西哥國家鐵路 "wikilink")。此外，[委内瑞拉国家铁路](https://zh.wikipedia.org/wiki/委内瑞拉国家铁路 "wikilink")、[巴西阿拉拉誇拉铁路](../Page/巴西.md "wikilink")、[秘鲁的](../Page/秘鲁.md "wikilink")亦购置了少量GP9型柴油机车。
 
@@ -10,8 +10,8 @@ GP9型柴油机车的总体布置与GP7型柴油机车相同，采用了底架�
 ## 参见
 
   - [GP7型柴油机车](../Page/GP7型柴油机车.md "wikilink")
-  - [GP18型柴油机车](https://zh.wikipedia.org/wiki/GP18型柴油机车 "wikilink")
-  - [SD9型柴油机车](https://zh.wikipedia.org/wiki/SD9型柴油机车 "wikilink")
+  - [GP18型柴油机车](../Page/GP18型柴油机车.md "wikilink")
+  - [SD9型柴油机车](../Page/SD9型柴油机车.md "wikilink")
 
 ## 参考书目
 

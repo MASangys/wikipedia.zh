@@ -890,7 +890,7 @@ Color的](../Page/WonderSwan.md "wikilink")[电子游戏](../Page/电子游戏.m
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/巫术：疯狂领主的试验场" title="wikilink">巫术：疯狂领主的试验场</a></p></td>
+<td><p><a href="../Page/巫术：疯狂领主的试验场.md" title="wikilink">巫术：疯狂领主的试验场</a></p></td>
 <td><p>Wizardry</p></td>
 <td></td>
 <td></td>

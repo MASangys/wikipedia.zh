@@ -1,4 +1,4 @@
-是由[TNK製作的OVA作品](https://zh.wikipedia.org/wiki/TNK "wikilink")，於2002年發售共三集，中文版由臺灣的[元美國際映像代理發售](../Page/元美國際映像.md "wikilink")\[1\]。
+是由[TNK製作的OVA作品](../Page/TNK.md "wikilink")，於2002年發售共三集，中文版由臺灣的[元美國際映像代理發售](../Page/元美國際映像.md "wikilink")\[1\]。
 
 ## 故事
 
@@ -105,7 +105,7 @@
   - 音響監督：高橋秀雄
   - 製作人：伊藤敦
   - 動畫製作人：加藤長輝
-  - 動畫制作：[TNK](https://zh.wikipedia.org/wiki/TNK "wikilink")
+  - 動畫制作：[TNK](../Page/TNK.md "wikilink")
   - 製作：こすぷれCOMPLEX製作委員会（[角川書店](../Page/角川書店.md "wikilink")、ビームエンタテインメント、KlockWorx、[IMAGICA](https://zh.wikipedia.org/wiki/IMAGICA "wikilink")、TNK）
 
 ## 相關作品

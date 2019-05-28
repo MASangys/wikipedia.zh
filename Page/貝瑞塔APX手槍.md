@@ -10,7 +10,7 @@ S\&W這三種手槍](../Page/.40_S&W.md "wikilink")[子彈](../Page/子彈.md "w
 假如貝瑞塔APX贏得模塊化手槍系統競標，它將在[田纳西州](../Page/田纳西州.md "wikilink")的貝瑞塔工廠生產。貝瑞塔在原來位於[马里兰州](../Page/马里兰州.md "wikilink")[阿科基克區的第一家工廠的位置設有其行政辦公室](https://zh.wikipedia.org/wiki/阿科基克_\(马里兰州\) "wikilink")，但由於馬里蘭立法對槍械的製造商、經銷商和持有者的態度不友好，因而令工廠搬遷至田纳西州。\[3\]\[4\]
 
 但最後，在競標之中得標的是[西格&紹爾的](../Page/西格&紹爾.md "wikilink")[P320
-MHS](https://zh.wikipedia.org/wiki/SIG_P320手槍 "wikilink")。其後2017年2月28日，己盡全力的美國貝瑞塔宣布APX手槍將於同年4月15日投放民用市場。\[5\]
+MHS](../Page/SIG_P320手槍.md "wikilink")。其後2017年2月28日，己盡全力的美國貝瑞塔宣布APX手槍將於同年4月15日投放民用市場。\[5\]
 
 2018年，貝瑞塔宣布了兩款APX的衍生型，分別是：APX百夫長型（Centurion），裝有略小的[底把](https://zh.wikipedia.org/wiki/機匣 "wikilink")、[套筒和](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[槍管](../Page/槍管.md "wikilink")；以及APX緊湊型（Compact），裝有更小型的底把、套筒和槍管。\[6\]
 
@@ -28,7 +28,7 @@ APX以[擊針擊發](../Page/撞針.md "wikilink")。當待擊時，上膛指示
 
 扳機機構亦具有防跌落保險。就算手槍掉落，這保險也可以防止慣性而導致扳機發射武器，從而防止擦槍走火。\[8\]
 
-按照模塊化手槍系統的規格，APX還在[底把](https://zh.wikipedia.org/wiki/机匣 "wikilink")（套筒座）前端底部整合有[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，其上可安裝[戰術燈和](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")[雷射瞄準器等戰術附件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
+按照模塊化手槍系統的規格，APX還在[底把](../Page/机匣.md "wikilink")（套筒座）前端底部整合有[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，其上可安裝[戰術燈和](../Page/戰術燈.md "wikilink")[雷射瞄準器等戰術附件](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
 
 ## 使用國
 

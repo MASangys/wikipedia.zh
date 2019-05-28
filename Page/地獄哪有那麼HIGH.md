@@ -44,10 +44,10 @@ Now部門\[7\]正式上映。
   - 鬼肌：清
   - 閻魔校長：[古田新太](../Page/古田新太.md "wikilink")
   - 手塚廣美（37歳・47歳）：[宮澤理惠](../Page/宮澤理惠.md "wikilink")
-  - 大助之母・よしえ：[坂井真紀](https://zh.wikipedia.org/wiki/坂井真紀 "wikilink")
+  - 大助之母・よしえ：[坂井真紀](../Page/坂井真紀.md "wikilink")
   - 廣美之女：[山田杏奈](../Page/山田杏奈.md "wikilink")\[8\]
   - 松浦(17歳)：[三河悠冴](https://zh.wikipedia.org/wiki/三河悠冴 "wikilink")
-  - 佛祖：[荒川良良](https://zh.wikipedia.org/wiki/荒川良良 "wikilink")
+  - 佛祖：[荒川良良](../Page/荒川良良.md "wikilink")
   - 神：[瑛蓮](https://zh.wikipedia.org/wiki/瑛蓮 "wikilink")
   - MOJA・MJ：[みうらじゅん](https://zh.wikipedia.org/wiki/みうらじゅん "wikilink")
   - 鬼吉他手：[Char](https://zh.wikipedia.org/wiki/Char "wikilink")

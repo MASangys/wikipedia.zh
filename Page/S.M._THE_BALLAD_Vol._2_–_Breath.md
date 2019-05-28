@@ -4,7 +4,7 @@ BALLAD的第二张](../Page/S.M.THE_BALLAD.md "wikilink")[迷你专辑](https://
 
 ## 发行背景
 
-专辑中有两首歌曲以三种不同的语言分别录制，包括[韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")、[汉语和](../Page/汉语.md "wikilink")[日语](../Page/日语.md "wikilink")。其中《Breath》作为主打歌，韩语版由[太妍和](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")[鐘鉉演唱](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")，汉语版由[Chen和](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")[張力尹录制](https://zh.wikipedia.org/wiki/張力尹 "wikilink")，而日语版由[最強昌珉和](../Page/沈昌珉.md "wikilink")[Krystal负责](../Page/鄭秀晶.md "wikilink")。另一首歌曲《Blind》的韩语版和日语版皆由[藝聲在入伍前录制完成](../Page/藝聲.md "wikilink")，而汉语版则有[周覓录制](https://zh.wikipedia.org/wiki/周覓 "wikilink")\[2\]。这两首歌曲的韩语版也被用作成员最強昌珉主演电视剧《[MiMi](https://zh.wikipedia.org/wiki/MiMi "wikilink")》的音乐原声带的一部分
+专辑中有两首歌曲以三种不同的语言分别录制，包括[韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")、[汉语和](../Page/汉语.md "wikilink")[日语](../Page/日语.md "wikilink")。其中《Breath》作为主打歌，韩语版由[太妍和](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")[鐘鉉演唱](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")，汉语版由[Chen和](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")[張力尹录制](https://zh.wikipedia.org/wiki/張力尹 "wikilink")，而日语版由[最強昌珉和](../Page/沈昌珉.md "wikilink")[Krystal负责](../Page/鄭秀晶.md "wikilink")。另一首歌曲《Blind》的韩语版和日语版皆由[藝聲在入伍前录制完成](../Page/藝聲.md "wikilink")，而汉语版则有[周覓录制](https://zh.wikipedia.org/wiki/周覓 "wikilink")\[2\]。这两首歌曲的韩语版也被用作成员最強昌珉主演电视剧《[MiMi](../Page/MiMi.md "wikilink")》的音乐原声带的一部分
 
 由[太妍和](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")[鐘鉉演唱的](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")《Breath》的韩语版先于专辑发行日期于2014年2月10日公开，\[3\]之后在11日公开了[Chen和鐘鉉演唱的](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")《One
 Day》，在12日公开了太妍的solo曲《Set Me

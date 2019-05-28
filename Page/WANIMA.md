@@ -40,7 +40,7 @@
   - 2017年12月，首次参加[朝日电视台](../Page/朝日電視台.md "wikilink")[MUSIC STATION
     SUPER LIVE
     2017演唱会](../Page/MUSIC_STATION_SUPER_LIVE.md "wikilink")\[3\]。
-  - 2017年12月，首次参加[第68回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第68回NHK紅白歌合戰 "wikilink")\[4\]。
+  - 2017年12月，首次参加[第68回NHK紅白歌合戰](../Page/第68回NHK紅白歌合戰.md "wikilink")\[4\]。
   - 2018年1月，第一张主流出道专辑《Everybody\!\!》发售，首周即首次拿下ORICON周榜冠军\[5\]，同时还拿下了数字下载榜冠军。
   - 2018年5月，单曲《Drive》配信，此曲为电影《》主题曲，也是WANIMA首次为电影创作主题曲\[6\]。
   - 2018年8月，WANIMA在[大](../Page/西武巨蛋.md "wikilink")[都会人寿巨蛋连续两天举办演唱会](../Page/大都會人壽保險.md "wikilink")，共7万人到场，是乐队史上规模之最\[7\]。
@@ -221,7 +221,7 @@ WPCL-12993</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2017年/<a href="https://zh.wikipedia.org/wiki/第68回NHK紅白歌合戰" title="wikilink">第68回</a></p></td>
+<td><p>2017年/<a href="../Page/第68回NHK紅白歌合戰.md" title="wikilink">第68回</a></p></td>
 <td><p>初</p></td>
 <td></td>
 <td><p>10/23</p></td>

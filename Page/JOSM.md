@@ -1,5 +1,5 @@
 **JOSM**（，Java
-OpenStreetMap編輯器，）是[開放街圖](../Page/開放街圖.md "wikilink")[地理資訊的](../Page/地理信息系统.md "wikilink")[自由編輯工具](../Page/自由软件.md "wikilink")，以[Java撰寫](../Page/Java.md "wikilink")。其有許多進階的功能\[1\]，但是也比預設的[iD線上編輯器有較複雜的](https://zh.wikipedia.org/wiki/ID_\(軟體\) "wikilink")[用户界面](../Page/用户界面.md "wikilink")。
+OpenStreetMap編輯器，）是[開放街圖](../Page/開放街圖.md "wikilink")[地理資訊的](../Page/地理信息系统.md "wikilink")[自由編輯工具](../Page/自由软件.md "wikilink")，以[Java撰寫](../Page/Java.md "wikilink")。其有許多進階的功能\[1\]，但是也比預設的[iD線上編輯器有較複雜的](../Page/ID_\(軟體\).md "wikilink")[用户界面](../Page/用户界面.md "wikilink")。
 
 ## 功能
 

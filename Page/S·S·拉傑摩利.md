@@ -94,7 +94,7 @@
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴霍巴利王：磅礴終章" title="wikilink">巴霍巴利王：磅礴終章</a></p></td>
+<td><p><a href="../Page/巴霍巴利王：磅礴終章.md" title="wikilink">巴霍巴利王：磅礴終章</a></p></td>
 <td></td>
 <td></td>
 </tr>

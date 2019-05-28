@@ -3,9 +3,9 @@ Koo**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經�
 
 ## 旗下演員
 
-  - [許峻豪](https://zh.wikipedia.org/wiki/許峻豪 "wikilink")
+  - [許峻豪](../Page/許峻豪.md "wikilink")
   - [李健朱](https://zh.wikipedia.org/wiki/李健朱 "wikilink")
-  - [金民教](https://zh.wikipedia.org/wiki/金民教 "wikilink")
+  - [金民教](../Page/金民教.md "wikilink")
   - [尹敬浩](../Page/尹敬浩.md "wikilink")
   - [陳聖](https://zh.wikipedia.org/wiki/陳聖 "wikilink")
   - [李重文](../Page/李重文.md "wikilink")
@@ -17,7 +17,7 @@ Koo**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經�
   - [江成龍](https://zh.wikipedia.org/wiki/江成龍 "wikilink")
   - [趙丹](https://zh.wikipedia.org/wiki/趙丹_\(演員\) "wikilink")
   - [俞建宇](https://zh.wikipedia.org/wiki/俞建宇 "wikilink")
-  - [徐志焄](https://zh.wikipedia.org/wiki/徐志焄 "wikilink")
+  - [徐志焄](../Page/徐志焄.md "wikilink")
   - [鮮于銀淑](../Page/鮮于銀淑.md "wikilink")
   - [金宣敬](../Page/金宣敬.md "wikilink")
   - [李枖原](../Page/李枖原.md "wikilink")
@@ -31,7 +31,7 @@ Koo**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經�
   - [鄭藝智](https://zh.wikipedia.org/wiki/鄭藝智 "wikilink")
   - [李恩](https://zh.wikipedia.org/wiki/李恩 "wikilink")
   - [尹善映](https://zh.wikipedia.org/wiki/尹善映 "wikilink")
-  - [申世輝](https://zh.wikipedia.org/wiki/申世輝 "wikilink")
+  - [申世輝](../Page/申世輝.md "wikilink")
 
 ### 過往藝人
 

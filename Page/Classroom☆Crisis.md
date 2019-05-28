@@ -1,6 +1,6 @@
 ，是由Lay-duce製作的日本原創電視動畫，2015年7月3日在[每日放送的](../Page/每日放送.md "wikilink")「[Animeism](../Page/Animeism.md "wikilink")」時段播出\[1\]。
 
-監督為[長崎健司](https://zh.wikipedia.org/wiki/長崎健司 "wikilink")\[2\]、系列構成由輕小說《[不起眼女主角培育法](../Page/不起眼女主角培育法.md "wikilink")》的作者[丸戶史明擔任](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink")\[3\]，角色原案則由負責《[我的妹妹哪有這麼可愛](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛 "wikilink")》插畫的[神崎廣擔任](../Page/神崎廣.md "wikilink")\[4\]。
+監督為[長崎健司](../Page/長崎健司.md "wikilink")\[2\]、系列構成由輕小說《[不起眼女主角培育法](../Page/不起眼女主角培育法.md "wikilink")》的作者[丸戶史明擔任](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink")\[3\]，角色原案則由負責《[我的妹妹哪有這麼可愛](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛 "wikilink")》插畫的[神崎廣擔任](../Page/神崎廣.md "wikilink")\[4\]。
 
 ## 故事簡介
 
@@ -136,7 +136,7 @@
 ### 製作人員
 
   - 原作：MONTWO
-  - 監督：[長崎健司](https://zh.wikipedia.org/wiki/長崎健司 "wikilink")
+  - 監督：[長崎健司](../Page/長崎健司.md "wikilink")
   - 系列構成、劇本：[丸戶史明](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink") with
     企画屋
   - 角色原案：[神崎廣](../Page/神崎廣.md "wikilink")
@@ -183,7 +183,7 @@
 <td></td>
 <td><p>遲來的轉學生</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/丸戶史明" title="wikilink">丸戶史明</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/長崎健司" title="wikilink">長崎健司</a></p></td>
+<td><p><a href="../Page/長崎健司.md" title="wikilink">長崎健司</a></p></td>
 <td><p>塚田拓郎<br />
 大久保朋</p></td>
 <td><p>石野聰</p></td>

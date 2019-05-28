@@ -11,7 +11,7 @@ Shock](../Page/Electric_Shock.md "wikilink")》）及五張正規專輯（《[Pi
 Summer](../Page/Hot_Summer_\(Repackage\).md "wikilink")》、《[Pink
 Tape](../Page/Pink_Tape.md "wikilink")》、《[Red
 Light](../Page/Red_Light.md "wikilink")》、《[4
-Walls](../Page/4_Walls.md "wikilink")》）的大部分曲目。十一場巡迴演唱會在六個城市舉行，以[首爾為首站拉開序幕](https://zh.wikipedia.org/wiki/首爾 "wikilink")，然後是[日本](../Page/日本.md "wikilink")，緊接著是[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")。
+Walls](../Page/4_Walls.md "wikilink")》）的大部分曲目。十一場巡迴演唱會在六個城市舉行，以[首爾為首站拉開序幕](../Page/首爾.md "wikilink")，然後是[日本](../Page/日本.md "wikilink")，緊接著是[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")。
 
 ## 巡演事件
 
@@ -57,7 +57,7 @@ Walls](../Page/4_Walls.md "wikilink")》）的大部分曲目。十一場巡迴�
 </tr>
 <tr class="even">
 <td><p>2016年1月29日（加場）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p>首爾奧林匹克公園奧林匹克大廳</p></td>
 <td><p>約9,000名</p></td>

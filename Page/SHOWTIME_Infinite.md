@@ -5,7 +5,7 @@ every1的真人實境節目，節目每季邀請一組韓國偶像組合，以�
 
   - [金聖圭](../Page/金聖圭.md "wikilink")
   - [張東雨](../Page/張東雨.md "wikilink")
-  - [南優賢](https://zh.wikipedia.org/wiki/南優賢 "wikilink")
+  - [南優賢](../Page/南優賢.md "wikilink")
   - [Hoya](../Page/Hoya.md "wikilink")
   - [李成烈](https://zh.wikipedia.org/wiki/李成烈 "wikilink")
   - [L](../Page/金明洙.md "wikilink")
@@ -97,13 +97,11 @@ INFINITE EFFECT in NewYork</p></td>
 
 1.  [EXO's SHOWTIME](../Page/EXO's_SHOWTIME.md "wikilink")（2013－2014年）
 2.  [SHOWTIME - Burning the
-    BEAST](https://zh.wikipedia.org/wiki/SHOWTIME_-_Burning_the_BEAST "wikilink")（2014年）
-3.  [Apink's
-    SHOWTIME](https://zh.wikipedia.org/wiki/Apink's_SHOWTIME "wikilink")（2014年）
+    BEAST](../Page/SHOWTIME_-_Burning_the_BEAST.md "wikilink")（2014年）
+3.  [Apink's SHOWTIME](../Page/Apink's_SHOWTIME.md "wikilink")（2014年）
 4.  [Sistar's
     SHOWTIME](https://zh.wikipedia.org/wiki/Sistar's_SHOWTIME "wikilink")（2015年）
-5.  [EXID's
-    SHOWTIME](https://zh.wikipedia.org/wiki/EXID's_SHOWTIME "wikilink")（2015年）
+5.  [EXID's SHOWTIME](../Page/EXID's_SHOWTIME.md "wikilink")（2015年）
 6.  **SHOWTIME INFINITE**（2015－2016年）
 7.  [SHOWTIME MAMAMOO X
     GFRIEND](../Page/Showtime_Mamamoo_X_GFriend.md "wikilink") (2016年)

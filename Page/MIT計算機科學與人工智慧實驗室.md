@@ -3,7 +3,7 @@
 
 ## 历史
 
-於2003年將計算機科學實驗室與人工智慧實驗室合併後建立。位於[史塔特科技中心之中](https://zh.wikipedia.org/wiki/史塔特科技中心 "wikilink")，無論是人數或是研究領域，都是美國大學中最大規模的實驗室。[駭客文化一般認為起源於這個實驗室](https://zh.wikipedia.org/wiki/駭客文化 "wikilink")，多位[圖靈獎得主都出身於此實驗室中](https://zh.wikipedia.org/wiki/圖靈獎 "wikilink")。
+於2003年將計算機科學實驗室與人工智慧實驗室合併後建立。位於[史塔特科技中心之中](../Page/史塔特科技中心.md "wikilink")，無論是人數或是研究領域，都是美國大學中最大規模的實驗室。[駭客文化一般認為起源於這個實驗室](https://zh.wikipedia.org/wiki/駭客文化 "wikilink")，多位[圖靈獎得主都出身於此實驗室中](https://zh.wikipedia.org/wiki/圖靈獎 "wikilink")。
 
 ## 外部链接
 

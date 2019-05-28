@@ -120,7 +120,7 @@ Rけん、市倉ロボ</p></td>
 <td><p>近江谷宥</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/貓忍之心" title="wikilink">猫忍えくすはーと</a></p></td>
+<td><p><a href="../Page/貓忍之心.md" title="wikilink">猫忍えくすはーと</a></p></td>
 <td><p>2017年2月24日</p></td>
 <td><p>鷹乃ゆき</p></td>
 <td></td>
@@ -132,7 +132,7 @@ Rけん、市倉ロボ</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/貓忍之心" title="wikilink">猫忍えくすはーと2</a></p></td>
+<td><p><a href="../Page/貓忍之心.md" title="wikilink">猫忍えくすはーと2</a></p></td>
 <td><p>2018年3月30日</p></td>
 <td><p>鷹乃ゆき</p></td>
 <td></td>

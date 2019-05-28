@@ -74,7 +74,7 @@
 </tr>
 <tr class="even">
 <td><p>Dirty Cash</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG_Vol.1_(BIGBANG專輯)" title="wikilink">Bigbang Vol.1</a></p></td>
+<td><p><a href="../Page/BIGBANG_Vol.1_(BIGBANG專輯).md" title="wikilink">Bigbang Vol.1</a></p></td>
 <td><p>韓語</p></td>
 <td><p><a href="http://www.youtube.com/watch?v=zEgIFw2grKU">8</a></p></td>
 <td><p>2,526,026</p></td>
@@ -91,7 +91,7 @@
 <tr class="even">
 <td><p>2007年</p></td>
 <td><p>Lies</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Always_(BIGBANG迷你專輯)" title="wikilink">Always</a></p></td>
+<td><p><a href="../Page/Always_(BIGBANG迷你專輯).md" title="wikilink">Always</a></p></td>
 <td><p>韓語</p></td>
 <td><p><a href="http://www.youtube.com/watch?v=2Cv3phvP8Ro">10</a></p></td>
 <td><p>42,614,373</p></td>
@@ -106,7 +106,7 @@
 </tr>
 <tr class="even">
 <td><p>Last Farewell</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Hot_Issue_(BIGBANG迷你專輯)" title="wikilink">Hot Issue</a></p></td>
+<td><p><a href="../Page/Hot_Issue_(BIGBANG迷你專輯).md" title="wikilink">Hot Issue</a></p></td>
 <td><p>韓語</p></td>
 <td><p><a href="http://www.youtube.com/watch?v=7B2SyAf7EB4">12</a></p></td>
 <td><p>3,880,198</p></td>
@@ -130,7 +130,7 @@
 </tr>
 <tr class="odd">
 <td><p>Haru Haru</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Stand_Up_(BIGBANG迷你專輯)" title="wikilink">Stand Up</a></p></td>
+<td><p><a href="../Page/Stand_Up_(BIGBANG迷你專輯).md" title="wikilink">Stand Up</a></p></td>
 <td><p>韓語</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=MzCbEdtNbJ0">15</a></p></td>
 <td><p>95,192,383</p></td>
@@ -146,7 +146,7 @@
 </tr>
 <tr class="odd">
 <td><p>Number 1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Number_1_(BIGBANG日語專輯)" title="wikilink">Number 1</a></p></td>
+<td><p><a href="../Page/Number_1_(BIGBANG日語專輯).md" title="wikilink">Number 1</a></p></td>
 <td><p>英语</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=NUa2o0CJMDw">16</a></p></td>
 <td><p>6,181,296</p></td>
@@ -305,7 +305,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/We_Like_2_Party_(BIGBANG歌曲)" title="wikilink">We Like 2 Party</a></p></td>
+<td><p><a href="../Page/We_Like_2_Party_(BIGBANG歌曲).md" title="wikilink">We Like 2 Party</a></p></td>
 <td><p>韓語</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=oFmfi1vM7co">34</a></p></td>
 <td><p>72,511,052</p></td>
@@ -721,7 +721,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/GD_X_TAEYANG" title="wikilink">GD X TAEYANG</a></p></td>
+<td><p><a href="../Page/GD_X_TAEYANG.md" title="wikilink">GD X TAEYANG</a></p></td>
 <td><p>Good Boy</p></td>
 <td></td>
 <td><p>韓語</p></td>
@@ -749,8 +749,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/G-Dragon.md" title="wikilink">G-Dragon</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/無題_(G-Dragon歌曲)" title="wikilink">無題</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/權志龍_(專輯)" title="wikilink">權志龍</a></p></td>
+<td><p><a href="../Page/無題_(G-Dragon歌曲).md" title="wikilink">無題</a></p></td>
+<td><p><a href="../Page/權志龍_(專輯).md" title="wikilink">權志龍</a></p></td>
 <td><p>韓語</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=9kaCAbIXuyg">78</a></p></td>
 <td><p>44,383,112</p></td>
@@ -759,7 +759,7 @@
 <tr class="odd">
 <td><p><a href="../Page/太陽_(歌手).md" title="wikilink">太陽</a></p></td>
 <td><p>白夜(Intro)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/白夜_(專輯)" title="wikilink">白夜</a></p></td>
+<td><p><a href="../Page/白夜_(專輯).md" title="wikilink">白夜</a></p></td>
 <td><p>韓語</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=MlDRgxce3JQ#t=0h0m0s">79</a></p></td>
 <td><p>3,332,887</p></td>
@@ -1191,7 +1191,7 @@ DVD</a><br />
 <tr class="even">
 <td><p>JP16th</p></td>
 <td><center>
-<p><strong><a href="https://zh.wikipedia.org/wiki/BIGBANG10_The_Concert:_0.TO.10_in_Japan_(影音專輯)" title="wikilink">BIGBANG10 The Concert：0.TO.10 in Japan</a></strong></p>
+<p><strong><a href="../Page/BIGBANG10_The_Concert:_0.TO.10_in_Japan_(影音專輯).md" title="wikilink">BIGBANG10 The Concert：0.TO.10 in Japan</a></strong></p>
 </center>
 <ul>
 <li>發行日期：2016年11月2日<small>（日本）</small></li>
@@ -1215,7 +1215,7 @@ DVD</a><br />
 <tr class="odd">
 <td><p>JP17th</p></td>
 <td><center>
-<p><strong><a href="https://zh.wikipedia.org/wiki/BIGBANG10_The_Concert:_0.TO.10_in_Seoul_(影音專輯)" title="wikilink">BIGBANG10 The Concert：0.TO.10 in Seoul</a></strong></p>
+<p><strong><a href="../Page/BIGBANG10_The_Concert:_0.TO.10_in_Seoul_(影音專輯).md" title="wikilink">BIGBANG10 The Concert：0.TO.10 in Seoul</a></strong></p>
 </center>
 <ul>
 <li>發行日期：2017年2月8日<small>（日本）</small>[5]</li>
@@ -1230,7 +1230,7 @@ DVD</a><br />
 <tr class="even">
 <td><p>JP18th</p></td>
 <td><center>
-<p><strong><a href="https://zh.wikipedia.org/wiki/BIGBANG10_The_Concert:_0.TO.10_The_Final_(影音專輯)" title="wikilink">BIGBANG10 The Concert：0.TO.10 -The Final-</a></strong></p>
+<p><strong><a href="../Page/BIGBANG10_The_Concert:_0.TO.10_The_Final_(影音專輯).md" title="wikilink">BIGBANG10 The Concert：0.TO.10 -The Final-</a></strong></p>
 </center>
 <ul>
 <li>發行日期：2017年3月22日<small>（日本）</small></li>
@@ -1794,7 +1794,7 @@ DVD</a><br />
 
 ## 參見
 
-  - [BIGBANG音樂作品列表](https://zh.wikipedia.org/wiki/BIGBANG音樂作品列表 "wikilink")
+  - [BIGBANG音樂作品列表](../Page/BIGBANG音樂作品列表.md "wikilink")
   - [BIGBANG影視作品列表](https://zh.wikipedia.org/wiki/BIGBANG影視作品列表 "wikilink")
 
 ## 參考資料

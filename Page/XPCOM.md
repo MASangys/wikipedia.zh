@@ -1,6 +1,6 @@
 **跨平台组件对象模型**（，简称**XPCOM**）是[Mozilla的一个](../Page/Mozilla.md "wikilink")[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[组件模型](https://zh.wikipedia.org/wiki/基于组件的软件工程 "wikilink")。它类似微软的[组件对象模型](../Page/组件对象模型.md "wikilink")（COM）和[公共对象请求代理体系结构](../Page/CORBA.md "wikilink")（CORBA）。\[1\]它有多个[语言绑定和](../Page/綁紮.md "wikilink")[接口描述语言](../Page/接口描述语言.md "wikilink")（IDL）描述符，因此程序员可以将自己的自定义函数插入到框架中并与其他组件连接。
 
-2015年8月，Mozilla宣布将放弃为创建[Firefox附加组件而使用的XPCOM](https://zh.wikipedia.org/wiki/附加组件_\(Mozilla\) "wikilink")，未来将支持[WebExtensions](https://zh.wikipedia.org/wiki/WebExtensions "wikilink")。\[2\]Firefox的[分支](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")[苍月浏览器](../Page/苍月浏览器.md "wikilink")（Pale
+2015年8月，Mozilla宣布将放弃为创建[Firefox附加组件而使用的XPCOM](../Page/附加组件_\(Mozilla\).md "wikilink")，未来将支持[WebExtensions](https://zh.wikipedia.org/wiki/WebExtensions "wikilink")。\[2\]Firefox的[分支](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")[苍月浏览器](../Page/苍月浏览器.md "wikilink")（Pale
 Moon）则将继续无限期的支持XPCOM。\[3\]
 
 ## 模型
@@ -28,8 +28,9 @@ Gecko的开发人员目前正在尝试减少Gecko排版引擎中XPCOM的过剩�
 
 ## 参见
 
-  - [XULRunner](https://zh.wikipedia.org/wiki/XULRunner "wikilink") –
-    XULRunner是一个运行时，它的用途是启动多个像Firefox和Thunderbird那样的XUL + XPCOM的应用程序。
+  - [XULRunner](../Page/XULRunner.md "wikilink") –
+    XULRunner是一个运行时，它的用途是启动多个像Firefox和Thunderbird那样的XUL
+    + XPCOM的应用程序。
 
 ## 参考资料
 

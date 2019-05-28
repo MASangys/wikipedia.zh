@@ -9,7 +9,7 @@ lens](https://zh.wikipedia.org/wiki/Xylodiscula_lens "wikilink")*
 <small>Warén, 1992</small>及另一個從貝殼館藏得來的貝殼標本*[Xylodiscula
 bouchetti](https://zh.wikipedia.org/wiki/Xylodiscula_bouchetti "wikilink")*
 <small>Warén, Carrozza & Rocchini, 1992</small>\[3\]。根據[布歇特和洛克羅伊的腹足類分類
-(2005年)](../Page/布歇特和洛克羅伊的腹足類分類_\(2005年\).md "wikilink")，本科是[下異鰓類之下](../Page/下異鰓類.md "wikilink")\[4\]的科[地位未定分類元](https://zh.wikipedia.org/wiki/地位未定 "wikilink")（orbitestellid-shells），而[WoRMS過往亦曾將本科歸到](https://zh.wikipedia.org/wiki/WoRMS "wikilink")[Valvatoidea總科之下](https://zh.wikipedia.org/wiki/Valvatoidea "wikilink")\[5\]，但2018年開始，本科與[Orbitestellidae科合組成為](https://zh.wikipedia.org/wiki/Orbitestellidae "wikilink")[Orbitestelloidea總科](https://zh.wikipedia.org/wiki/Orbitestelloidea "wikilink")。
+(2005年)](../Page/布歇特和洛克羅伊的腹足類分類_\(2005年\).md "wikilink")，本科是[下異鰓類之下](../Page/下異鰓類.md "wikilink")\[4\]的科[地位未定分類元](https://zh.wikipedia.org/wiki/地位未定 "wikilink")（orbitestellid-shells），而[WoRMS過往亦曾將本科歸到](https://zh.wikipedia.org/wiki/WoRMS "wikilink")[Valvatoidea總科之下](../Page/Valvatoidea.md "wikilink")\[5\]，但2018年開始，本科與[Orbitestellidae科合組成為](../Page/Orbitestellidae.md "wikilink")[Orbitestelloidea總科](https://zh.wikipedia.org/wiki/Orbitestelloidea "wikilink")。
 
 與其他姊妹物種一樣，本科物種都有[扇狀齒舌](https://zh.wikipedia.org/wiki/齒舌#七種齒舌狀態 "wikilink")（）\[6\]。
 

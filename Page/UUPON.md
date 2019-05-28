@@ -202,8 +202,7 @@ UUPON 合作特約商通路。
       - [亞洲萬里通](../Page/亞洲萬里通.md "wikilink")
       - 台灣[樂天市場股份有限公司](https://zh.wikipedia.org/wiki/樂天 "wikilink")
       - [Pchome線上購物](https://zh.wikipedia.org/wiki/Pchome "wikilink")
-      - [WakuWaku
-        Japan](https://zh.wikipedia.org/wiki/WakuWaku_Japan "wikilink")
+      - [WakuWaku Japan](../Page/WakuWaku_Japan.md "wikilink")
       - 俥酷 iParking
       - 胡思二手書店
       - 天衣包膜

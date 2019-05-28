@@ -219,7 +219,7 @@ in Copacabana》的宣傳表演，而這場表演因為舞台音響裝置問題�
 #### 新人團體提及相似的音樂風格
 
 2017年6月下旬，韓國女子組合G-reyish推出新曲《[Johnny
-GoGo](https://zh.wikipedia.org/wiki/Johnny_GoGo "wikilink")（）》採用同樣的80年代Disco風與現代流行音樂元素，在接受《FN
+GoGo](../Page/Johnny_GoGo.md "wikilink")（）》採用同樣的80年代Disco風與現代流行音樂元素，在接受《FN
 News》的採訪時稱「T-ara在經歷多個活動後才呈現復古的概念」，又說「我們希望我們一出道就能呈現復古風格，讓粉絲能在未來對我們印象深刻」，引起許多粉絲熱議\[52\]。
 
 ## 參考來源

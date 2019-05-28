@@ -1,6 +1,6 @@
 《**Ben
 Sir研究院**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的](../Page/電視廣播有限公司.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，《[Ben
-Sir學堂](../Page/Ben_Sir學堂.md "wikilink")》的續作，由香港語言學者[歐陽偉豪主持](../Page/歐陽偉豪.md "wikilink")，[麥美恩](../Page/麥美恩.md "wikilink")、[駱胤鳴](../Page/駱胤鳴.md "wikilink")、[林穎彤](../Page/林穎彤.md "wikilink")、[陸浩明和](../Page/陸浩明.md "wikilink")[季蘋蘋演出](https://zh.wikipedia.org/wiki/季蘋蘋 "wikilink")。本節目於[香港時間](../Page/香港時間.md "wikilink")2017年2月19日起，逢星期日22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[myTV
+Sir學堂](../Page/Ben_Sir學堂.md "wikilink")》的續作，由香港語言學者[歐陽偉豪主持](../Page/歐陽偉豪.md "wikilink")，[麥美恩](../Page/麥美恩.md "wikilink")、[駱胤鳴](../Page/駱胤鳴.md "wikilink")、[林穎彤](../Page/林穎彤.md "wikilink")、[陸浩明和](../Page/陸浩明.md "wikilink")[季蘋蘋演出](../Page/季蘋蘋.md "wikilink")。本節目於[香港時間](../Page/香港時間.md "wikilink")2017年2月19日起，逢星期日22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[myTV
 SUPER播出](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，並於[myTV
 SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除）。\[1\]\[2\]。
 
@@ -31,7 +31,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 ## Ben Sir開Show
 
 本節目播映後，歐陽偉豪舉辦了一個[脱口秀表演](../Page/脱口秀.md "wikilink")《**Ben
-Sir開Show**》，並於[九龍灣國際展貿中心舉行](../Page/九龍灣國際展貿中心.md "wikilink")，演出嘉賓包括[麥美恩](../Page/麥美恩.md "wikilink")、[林穎彤](../Page/林穎彤.md "wikilink")、[陸浩明](../Page/陸浩明.md "wikilink")、[季蘋蘋](https://zh.wikipedia.org/wiki/季蘋蘋 "wikilink")。及後[無綫電視輯錄成約一小時的特輯](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")，安排於2017年7月16日[香港時間星期日晚](../Page/香港時間.md "wikilink")22:30-23:30[翡翠台播出](../Page/翡翠台.md "wikilink")。\[3\]\[4\]
+Sir開Show**》，並於[九龍灣國際展貿中心舉行](../Page/九龍灣國際展貿中心.md "wikilink")，演出嘉賓包括[麥美恩](../Page/麥美恩.md "wikilink")、[林穎彤](../Page/林穎彤.md "wikilink")、[陸浩明](../Page/陸浩明.md "wikilink")、[季蘋蘋](../Page/季蘋蘋.md "wikilink")。及後[無綫電視輯錄成約一小時的特輯](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")，安排於2017年7月16日[香港時間星期日晚](../Page/香港時間.md "wikilink")22:30-23:30[翡翠台播出](../Page/翡翠台.md "wikilink")。\[3\]\[4\]
 
 ## 參考
 

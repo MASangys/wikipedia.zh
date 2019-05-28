@@ -2,13 +2,11 @@
 U11+**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2017年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，運行[Android
 8.0.0操作系统](../Page/Android_Oreo.md "wikilink")，同級競品為[Samsung Galaxy Note
 8](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_8 "wikilink")、[Sony
-Xperia
-XZ1](https://zh.wikipedia.org/wiki/Sony_Xperia_XZ1 "wikilink")、[Asus
-ZenFone 4
+Xperia XZ1](../Page/Sony_Xperia_XZ1.md "wikilink")、[Asus ZenFone 4
 Pro](https://zh.wikipedia.org/wiki/華碩ZenFone_4_\(2017\) "wikilink")、[iPhone
 X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")、[Google Pixel 2
 XL](../Page/Google_Pixel.md "wikilink")、[LG
-V30](https://zh.wikipedia.org/wiki/LG_V30 "wikilink")。
+V30](../Page/LG_V30.md "wikilink")。
 
 ## 簡介\[1\]
 

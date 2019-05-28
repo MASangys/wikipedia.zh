@@ -71,7 +71,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2016年4月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/相坂優歌" title="wikilink">相坂優歌</a>、<a href="../Page/藍井艾露.md" title="wikilink">藍井艾露</a>、<a href="../Page/蒼井翔太.md" title="wikilink">蒼井翔太</a><br />
+<td><p><a href="../Page/相坂優歌.md" title="wikilink">相坂優歌</a>、<a href="../Page/藍井艾露.md" title="wikilink">藍井艾露</a>、<a href="../Page/蒼井翔太.md" title="wikilink">蒼井翔太</a><br />
 <a href="https://zh.wikipedia.org/wiki/every♥ing!" title="wikilink">every♥ing!</a>、<a href="../Page/大橋彩香.md" title="wikilink">大橋彩香</a>、<a href="../Page/GRANRODEO.md" title="wikilink">GRANRODEO</a><br />
 <a href="../Page/黑崎真音.md" title="wikilink">黑崎真音</a>、<a href="../Page/SCREEN_mode.md" title="wikilink">SCREEN mode</a>、<a href="../Page/鈴木KONOMI.md" title="wikilink">鈴木KONOMI</a><br />
 <a href="../Page/早見沙織.md" title="wikilink">早見沙織</a>、<a href="https://zh.wikipedia.org/wiki/三森鈴子" title="wikilink">三森鈴子</a>、<a href="../Page/LiSA.md" title="wikilink">LiSA</a></p></td>
@@ -272,7 +272,7 @@ Q-MHz</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="https://zh.wikipedia.org/wiki/7月20日" title="wikilink">7月20日</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佐倉綾音" title="wikilink">佐倉綾音</a>、<a href="https://zh.wikipedia.org/wiki/大西沙織" title="wikilink">大西沙織</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/佐倉綾音" title="wikilink">佐倉綾音</a>、<a href="../Page/大西沙織.md" title="wikilink">大西沙織</a></p></td>
 <td><p>Radio time predator</p></td>
 <td><p>單曲</p></td>
 <td><p><strong>Radio time predator</strong></p></td>
@@ -344,7 +344,7 @@ Q-MHz</p></td>
 <td><p>Q-MHz</p></td>
 <td><p>Q-MHz<br />
 eba</p></td>
-<td><p>电视动画《<a href="https://zh.wikipedia.org/wiki/妖怪公寓的優雅日常" title="wikilink">妖怪公寓的優雅日常</a>》片尾曲</p></td>
+<td><p>电视动画《<a href="../Page/妖怪公寓的優雅日常.md" title="wikilink">妖怪公寓的優雅日常</a>》片尾曲</p></td>
 <td><p>[17]</p></td>
 <td></td>
 </tr>

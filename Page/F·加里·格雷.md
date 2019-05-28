@@ -4,8 +4,7 @@
 ## 生平
 
 他生于[纽约市](https://zh.wikipedia.org/wiki/纽约市 "wikilink")，1992年执导了首部MV "It
-Was a Good
-Day"，1995年，执导了首部电影《[星期五](https://zh.wikipedia.org/wiki/星期五_\(電影\) "wikilink")》。
+Was a Good Day"，1995年，执导了首部电影《[星期五](../Page/星期五_\(電影\).md "wikilink")》。
 
 2015年，加里所執導的《[冲出康普顿](../Page/冲出康普顿.md "wikilink")》獲得了好評和優異的票房，電影在[第88屆奧斯卡金像獎上提名了](https://zh.wikipedia.org/wiki/第88屆奧斯卡金像獎 "wikilink")[最佳原创剧本](https://zh.wikipedia.org/wiki/奥斯卡最佳原创剧本奖 "wikilink")；同年，[馮·迪索宣布他成為了](../Page/馮·迪索.md "wikilink")《[玩命關頭8](../Page/玩命關頭8.md "wikilink")》的導演。在此之前，加里曾在《[天羅盜網](../Page/天羅盜網.md "wikilink")》、《[單刀直入](../Page/單刀直入.md "wikilink")》和《》中分別與《[玩命關頭7](../Page/玩命關頭7.md "wikilink")》的演員[傑森·史塔森](../Page/傑森·史塔森.md "wikilink")、馮·迪索和[巨石強森合作過](../Page/巨石強森.md "wikilink")。
 
@@ -13,8 +12,7 @@ Day"，1995年，执导了首部电影《[星期五](https://zh.wikipedia.org/wi
 
 ### 影视
 
-  - [星期五](https://zh.wikipedia.org/wiki/星期五_\(電影\) "wikilink")/*Friday*
-    (1995) (导演)
+  - [星期五](../Page/星期五_\(電影\).md "wikilink")/*Friday* (1995) (导演)
 
   - /*Set It Off* (1996) (导演/执行监制)
 
@@ -28,8 +26,7 @@ Day"，1995年，执导了首部电影《[星期五](https://zh.wikipedia.org/wi
 
   - /*Be Cool* (2005) (导演/执行监制)
 
-  - [重案對決](https://zh.wikipedia.org/wiki/重案對決 "wikilink")/*Law Abiding
-    Citizen* (2009) (导演)
+  - [重案對決](../Page/重案對決.md "wikilink")/*Law Abiding Citizen* (2009) (导演)
 
   - [青木原树海](../Page/青木原树海.md "wikilink")/*The Sea of Trees* (2015) (监制)
 
@@ -39,8 +36,8 @@ Day"，1995年，执导了首部电影《[星期五](https://zh.wikipedia.org/wi
   - [玩命關頭8](../Page/玩命關頭8.md "wikilink")/*The Fate of the Furious*
     (2017) (导演)
 
-  - [黑超特警組：反轉世界](https://zh.wikipedia.org/wiki/黑超特警組：反轉世界 "wikilink")/*Men
-    in Black International* (2019) (導演)
+  - [黑超特警組：反轉世界](../Page/黑超特警組：反轉世界.md "wikilink")/*Men in Black
+    International* (2019) (導演)
 
 ### MV
 

@@ -10,7 +10,7 @@
 
 ### 早年生涯
 
-麥基1880年1月9日生於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[蘇格蘭東部](../Page/蘇格蘭.md "wikilink")[安格斯的](https://zh.wikipedia.org/wiki/安格斯_\(蘇格蘭\) "wikilink")[布里金](https://zh.wikipedia.org/wiki/布里金 "wikilink")（Brechin），是家中幼子。\[1\]\[2\]他的父親和祖父同樣名叫約翰·麥基醫生（Dr.
+麥基1880年1月9日生於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[蘇格蘭東部](../Page/蘇格蘭.md "wikilink")[安格斯的](https://zh.wikipedia.org/wiki/安格斯_\(蘇格蘭\) "wikilink")[布里金](../Page/布里金.md "wikilink")（Brechin），是家中幼子。\[1\]\[2\]他的父親和祖父同樣名叫約翰·麥基醫生（Dr.
 John Mackie），都是當地名醫；\[3\]\[4\]母親是布里金市學校（Brechin Burgh
 School）校長大衛·普蘭（David
 Prain）的女兒。\[5\]1895年，他的父親懷疑因病厭世，在家中服食毒藥[氫氰酸](https://zh.wikipedia.org/wiki/氫氰酸 "wikilink")[自殺身亡](../Page/自殺.md "wikilink")，終年53歲。\[6\]麥基早年在布里金生活，並受教於當地的布里金高校（Brechin
@@ -62,7 +62,7 @@ Kong Travel Association）。\[81\]
 T.
 Johnson）接替。\[83\]離港前夕最後一次出席定例局會議時，他獲時任港督[貝璐爵士致謝](../Page/貝璐.md "wikilink")。\[84\]麥基多年來也結交不少華商友好，例如[周壽臣爵士](../Page/周壽臣.md "wikilink")、[羅旭龢和](../Page/羅旭龢.md "wikilink")[羅文錦等](../Page/羅文錦.md "wikilink")，因此他在正式退休前夕，也獲得華商設宴歡讌。\[85\]同年，他更獲英廷頒授[英皇喬治五世銀禧獎章](https://zh.wikipedia.org/wiki/英皇喬治五世銀禧獎章 "wikilink")，對其在港擔任公職的表現予以肯定。\[86\]
 
-麥基返回英國後定居於家鄉[蘇格蘭](../Page/蘇格蘭.md "wikilink")[安格斯的](https://zh.wikipedia.org/wiki/安格斯_\(蘇格蘭\) "wikilink")[布里金](https://zh.wikipedia.org/wiki/布里金 "wikilink")，1936年曾經重臨香港渡假。\[87\][第二次世界大戰結束後](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，他於1945年獲亡父曾任職的布里金醫院（Brechin
+麥基返回英國後定居於家鄉[蘇格蘭](../Page/蘇格蘭.md "wikilink")[安格斯的](https://zh.wikipedia.org/wiki/安格斯_\(蘇格蘭\) "wikilink")[布里金](../Page/布里金.md "wikilink")，1936年曾經重臨香港渡假。\[87\][第二次世界大戰結束後](https://zh.wikipedia.org/wiki/第二次世界大戰 "wikilink")，他於1945年獲亡父曾任職的布里金醫院（Brechin
 Infirmary）委任為該院董事。\[88\]1966年3月17日，麥基於布里金逝世，終年86歲。\[89\]
 
 ## 個人生活
@@ -83,7 +83,7 @@ Ferry）的霍普莊園（Hope Park），是詹姆士·格思里（James Guthrie
     and
     Lloyds）董事，\[103\]2005年9月2日卒於英格蘭[諾定咸郡](https://zh.wikipedia.org/wiki/諾定咸郡 "wikilink")，終年89歲。\[104\]
 
-在遠東生活期間，麥基是上海[鄉下總會](https://zh.wikipedia.org/wiki/鄉下總會 "wikilink")、[上海總會和](https://zh.wikipedia.org/wiki/上海總會大樓 "wikilink")[香港會等多家](../Page/香港會.md "wikilink")[紳士會所會員](https://zh.wikipedia.org/wiki/紳士會所 "wikilink")；\[105\]每逢假期，他多會返回蘇格蘭的家鄉[布里金或鄰近的](https://zh.wikipedia.org/wiki/布里金 "wikilink")[埃澤爾](https://zh.wikipedia.org/wiki/埃澤爾 "wikilink")（Edzell）休息。\[106\]1920年至1921年以及1928年至1929年期間，他還分別擔任上海聖安德魯學會和香港聖安德魯學會兩個[蘇格蘭人](../Page/蘇格蘭人.md "wikilink")[聯誼會的會長](https://zh.wikipedia.org/wiki/聯誼會 "wikilink")。\[107\]\[108\]另一方面，從早年來港生活開始，麥基一直以[賽馬運動為樂](../Page/賽馬.md "wikilink")。\[109\]他自1911年至1935年擔任[香港賽馬會董事](../Page/香港賽馬會.md "wikilink")，期間更於1929年至1935年出任馬會主席。\[110\]任內他於1930年把屬於業餘性質的馬會註冊成為公司，\[111\]並於同年為馬會的[跑馬地馬場建成全新的永久看台](../Page/跑馬地馬場.md "wikilink")。\[112\]1935年卸任馬會主席的時候，他獲港督[貝璐爵士代表馬會致贈銀質托盤一隻](../Page/貝璐.md "wikilink")，以肯定他在馬會多年來的服務。\[113\]
+在遠東生活期間，麥基是上海[鄉下總會](https://zh.wikipedia.org/wiki/鄉下總會 "wikilink")、[上海總會和](https://zh.wikipedia.org/wiki/上海總會大樓 "wikilink")[香港會等多家](../Page/香港會.md "wikilink")[紳士會所會員](https://zh.wikipedia.org/wiki/紳士會所 "wikilink")；\[105\]每逢假期，他多會返回蘇格蘭的家鄉[布里金或鄰近的](../Page/布里金.md "wikilink")[埃澤爾](https://zh.wikipedia.org/wiki/埃澤爾 "wikilink")（Edzell）休息。\[106\]1920年至1921年以及1928年至1929年期間，他還分別擔任上海聖安德魯學會和香港聖安德魯學會兩個[蘇格蘭人](../Page/蘇格蘭人.md "wikilink")[聯誼會的會長](https://zh.wikipedia.org/wiki/聯誼會 "wikilink")。\[107\]\[108\]另一方面，從早年來港生活開始，麥基一直以[賽馬運動為樂](../Page/賽馬.md "wikilink")。\[109\]他自1911年至1935年擔任[香港賽馬會董事](../Page/香港賽馬會.md "wikilink")，期間更於1929年至1935年出任馬會主席。\[110\]任內他於1930年把屬於業餘性質的馬會註冊成為公司，\[111\]並於同年為馬會的[跑馬地馬場建成全新的永久看台](../Page/跑馬地馬場.md "wikilink")。\[112\]1935年卸任馬會主席的時候，他獲港督[貝璐爵士代表馬會致贈銀質托盤一隻](../Page/貝璐.md "wikilink")，以肯定他在馬會多年來的服務。\[113\]
 
 1932年3月12日，麥基夫婦從香港乘搭[中興輪](https://zh.wikipedia.org/wiki/中興輪 "wikilink")（*Venezia*）前往[澳門](../Page/澳門.md "wikilink")，準備參與翌日由[澳門賽馬會舉辦的春季賽事](../Page/澳門賽馬會.md "wikilink")，該船還載有定例局議員[威廉·山頓](https://zh.wikipedia.org/wiki/威廉·山頓 "wikilink")（William
 Shenton）等逾500名乘客。\[114\]當日下午約3時47分，中興號駛至[大嶼山以西對開海域的時候](../Page/大嶼山.md "wikilink")，在大霧中與另一艘由澳門駛返香港的[瑞泰輪](https://zh.wikipedia.org/wiki/瑞泰輪 "wikilink")（*Sui

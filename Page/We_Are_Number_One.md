@@ -1,9 +1,9 @@
 《**We Are Number
-One**》是冰島兒童電視節目《[懶人小鎮](https://zh.wikipedia.org/wiki/懶人小鎮 "wikilink")》的一首歌曲，由
+One**》是冰島兒童電視節目《[懶人小鎮](../Page/懶人小鎮.md "wikilink")》的一首歌曲，由
 Máni Svavarsson 填詞、作曲。\[1\]
 
 這首歌在懶人小鎮第四季第12集首次撥出，內容描述劇情中反派羅比羅滕(Robbie Rotten)，試圖教導他的四個分身如何抓住超級英雄。
-影片播出兩年後，在劇中飾演羅比羅滕的演員[斯特凡·卡爾·斯蒂芬森宣布罹患了](https://zh.wikipedia.org/wiki/斯特凡·卡爾·斯蒂芬森 "wikilink")[胰臟癌](https://zh.wikipedia.org/wiki/胰臟癌 "wikilink")；消息公開後，在網路上開始出現大量使用We
+影片播出兩年後，在劇中飾演羅比羅滕的演員[斯特凡·卡爾·斯蒂芬森宣布罹患了](../Page/斯特凡·卡爾·斯蒂芬森.md "wikilink")[胰臟癌](https://zh.wikipedia.org/wiki/胰臟癌 "wikilink")；消息公開後，在網路上開始出現大量使用We
 Are Number
 One的改編作品，也有民眾請願希望能讓斯蒂芬森能在2017年的[歐洲歌唱大賽中](../Page/歐洲歌唱大賽.md "wikilink")，代表[冰島出賽演唱這首歌](https://zh.wikipedia.org/wiki/冰島 "wikilink")\[2\]。
 

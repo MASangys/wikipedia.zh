@@ -8,7 +8,7 @@
 
   - ，管理[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[漢堡港的機構](https://zh.wikipedia.org/wiki/漢堡港 "wikilink")。
 
-  - ，一個[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[非政府部門公共機構](https://zh.wikipedia.org/wiki/非政府部門公共機構 "wikilink")
+  - ，一個[英國的](https://zh.wikipedia.org/wiki/英國 "wikilink")[非政府部門公共機構](../Page/非政府部門公共機構.md "wikilink")
 
   - , the German Army Personnel Agency, operating from 1920 to 1944
 

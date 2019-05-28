@@ -697,7 +697,7 @@ NJOI目前提供50多个标清电视频道，所有的广播频道和7个高清�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/華納電視頻道" title="wikilink">Warner TV</a></p></td>
+<td><p><a href="../Page/華納電視頻道.md" title="wikilink">Warner TV</a></p></td>
 <td><p>719</p></td>
 <td><p>华纳电视为您提供电影界及电视剧界的世界著作、本地区独家首播的节目以及其它您所喜爱的动作片、喜剧和电视剧。华纳电视也是华纳兄弟娱乐公司旗下电影作品的指定播放电视频道。</p></td>
 <td><p>RM5.30/3 天</p></td>

@@ -1,4 +1,4 @@
-**ICL地震预警技术系统**，是中國大陸的[地震預警系統](../Page/地震預警系統.md "wikilink")，可以在[地震波到達各地前的一段時間生成地震預警警報](../Page/地震波.md "wikilink")，以手機、電腦、廣播、電視、專用接收終端等渠道發佈。截至2016年3月，该系统运用中國大陸[国家地震烈度速报与预警工程已建成的部分台站](https://zh.wikipedia.org/wiki/国家地震烈度速报与预警工程 "wikilink")，系统覆盖面積達到220万平方公里、覆盖人口佔[中国大陸人员密集之地震区人口的](https://zh.wikipedia.org/wiki/地震帶#中国地震带的分布 "wikilink")90%，是全球规模最大的地震预警系统。ICL为“[成都高新减灾研究所](https://zh.wikipedia.org/wiki/成都高新减灾研究所 "wikilink")”英文名称“”（关爱生命机构）的首字母缩写。
+**ICL地震预警技术系统**，是中國大陸的[地震預警系統](../Page/地震預警系統.md "wikilink")，可以在[地震波到達各地前的一段時間生成地震預警警報](../Page/地震波.md "wikilink")，以手機、電腦、廣播、電視、專用接收終端等渠道發佈。截至2016年3月，该系统运用中國大陸[国家地震烈度速报与预警工程已建成的部分台站](../Page/国家地震烈度速报与预警工程.md "wikilink")，系统覆盖面積達到220万平方公里、覆盖人口佔[中国大陸人员密集之地震区人口的](https://zh.wikipedia.org/wiki/地震帶#中国地震带的分布 "wikilink")90%，是全球规模最大的地震预警系统。ICL为“[成都高新减灾研究所](https://zh.wikipedia.org/wiki/成都高新减灾研究所 "wikilink")”英文名称“”（关爱生命机构）的首字母缩写。
 
 ## 研發歷史
 
@@ -45,7 +45,7 @@ Store](../Page/App_Store_\(iOS\).md "wikilink")（[iOS平台](https://zh.wikiped
 ## 参见
 
   - [地震預警系統](../Page/地震預警系統.md "wikilink")
-  - [国家地震烈度速报与预警工程](https://zh.wikipedia.org/wiki/国家地震烈度速报与预警工程 "wikilink")
+  - [国家地震烈度速报与预警工程](../Page/国家地震烈度速报与预警工程.md "wikilink")
 
 ## 參考資料
 

@@ -31,7 +31,7 @@ talk》正式復出，KSI在該影片中稱自己隠退的原因是對YouTube的
 ### 其他
 
 2015年6月，KSI宣佈將與其好友兼YouTuber主演一齣名叫《Laid in
-America》的電影，並將在2016年秋季上映，其他會在電影中演出的YouTuber包括、和[泰·桑迪](https://zh.wikipedia.org/wiki/泰·桑迪 "wikilink")\[22\]\[23\]。同年9月24日，由KSI所著的書《KSI:
+America》的電影，並將在2016年秋季上映，其他會在電影中演出的YouTuber包括、和[泰·桑迪](../Page/泰·桑迪.md "wikilink")\[22\]\[23\]。同年9月24日，由KSI所著的書《KSI:
 I Am A Bellend》出版，內容包括他的YouTube生涯和他引起的爭議\[24\]。
 
 在成名後，KSI便受許多廠商贊助，包括[華為](https://zh.wikipedia.org/wiki/華為 "wikilink")\[25\]。同時也當過許多電視節目的嘉賓，例如[BBC的](https://zh.wikipedia.org/wiki/BBC "wikilink")《》\[26\]。
@@ -41,7 +41,7 @@ I Am A Bellend》出版，內容包括他的YouTube生涯和他引起的爭議\[
 [KSI_August_2018.png](https://zh.wikipedia.org/wiki/File:KSI_August_2018.png "fig:KSI_August_2018.png")的拳擊賽上\]\]
 2018年2月3日，KSI以[正架站位完成他的人生第一場拳擊賽事](https://zh.wikipedia.org/wiki/正架站位 "wikilink")，於英國倫敦[銅箱館對上YouTube名人喬](https://zh.wikipedia.org/wiki/銅箱館 "wikilink")·韋勒（Joe
 Weller），以1分30秒，在第三回合[技術性擊倒對手](https://zh.wikipedia.org/wiki/技術性擊倒 "wikilink")\[27\]
-。KSI賽後感言對韋勒表示尊敬：「你比我預期想的更困難、更堅強」並讚揚他對提倡對[精神健康的議題的提升](https://zh.wikipedia.org/wiki/心理健康 "wikilink")。KSI隨後對美國[網紅](https://zh.wikipedia.org/wiki/网络名人 "wikilink")[罗根·保罗和](../Page/罗根·保罗.md "wikilink")[傑克·保羅下戰帖](https://zh.wikipedia.org/wiki/傑克·保羅 "wikilink")\[28\]。同時這場賽事亦曾於[YouTube進行直播](../Page/YouTube.md "wikilink")，有超過170萬人觀看直播\[29\]。最終雙方於8月25日的比賽中在一位裁判認為KSI獲勝，其餘兩個裁判認為是平局的情況打成平手，KSI亦得以保留YouTube拳擊冠軍賽的頭銜\[30\]。
+。KSI賽後感言對韋勒表示尊敬：「你比我預期想的更困難、更堅強」並讚揚他對提倡對[精神健康的議題的提升](../Page/心理健康.md "wikilink")。KSI隨後對美國[網紅](https://zh.wikipedia.org/wiki/网络名人 "wikilink")[罗根·保罗和](../Page/罗根·保罗.md "wikilink")[傑克·保羅下戰帖](../Page/傑克·保羅.md "wikilink")\[28\]。同時這場賽事亦曾於[YouTube進行直播](../Page/YouTube.md "wikilink")，有超過170萬人觀看直播\[29\]。最終雙方於8月25日的比賽中在一位裁判認為KSI獲勝，其餘兩個裁判認為是平局的情況打成平手，KSI亦得以保留YouTube拳擊冠軍賽的頭銜\[30\]。
 
 ### 拳擊賽紀錄
 
@@ -106,7 +106,7 @@ KSI出生於倫敦，之後與家人一起搬到[沃特福德居住](https://zh.
 Sidemen成立後與Miniminter，Vikkstar123與Zerkaa在倫敦買下公寓並和家人分居\[36\]。KSI是[阿仙奴的支持者](https://zh.wikipedia.org/wiki/阿仙奴 "wikilink")，並曾在[英國電信體育台的節目中與當時的阿仙奴中場](../Page/英國電信體育台.md "wikilink")[亚历克斯·奥克斯雷德-张伯伦一起玩](../Page/亚历克斯·奥克斯雷德-张伯伦.md "wikilink")《FIFA》\[37\]。
 
 KSI是被永久禁止進入[Eurogamer博覽會的人士之一](../Page/Eurogamer.md "wikilink")，原因是他在2012年於倫敦舉行的Eurogamer博覽會[Xbox
-One發佈會上性騷擾](../Page/Xbox_One.md "wikilink")1位代言模特\[38\]\[39\]。在該事件發生後[微軟隨即與這位知名YouTuber終止合作關係](https://zh.wikipedia.org/wiki/微軟 "wikilink")\[40\]，而KSI的經紀人亦代表他發公開信道歉\[41\]。事件同時也牽涉到[VideoGamer.com](https://zh.wikipedia.org/wiki/VideoGamer.com "wikilink")\[42\]\[43\]。
+One發佈會上性騷擾](../Page/Xbox_One.md "wikilink")1位代言模特\[38\]\[39\]。在該事件發生後[微軟隨即與這位知名YouTuber終止合作關係](https://zh.wikipedia.org/wiki/微軟 "wikilink")\[40\]，而KSI的經紀人亦代表他發公開信道歉\[41\]。事件同時也牽涉到[VideoGamer.com](../Page/VideoGamer.com.md "wikilink")\[42\]\[43\]。
 
 ## 書籍
 

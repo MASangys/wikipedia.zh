@@ -1,8 +1,7 @@
 **Surface Book
 2**是由[微软推出的运行](../Page/微软.md "wikilink")**[64位](https://zh.wikipedia.org/wiki/64位 "wikilink")**的**[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")**
-的笔记本电脑产品，是Microsoft Surface Book系列的新产品，Surface Book
-2于2017年10月17日发布。
+10](../Page/Windows_10.md "wikilink")** 的笔记本电脑产品，是Microsoft Surface
+Book系列的新产品，Surface Book 2于2017年10月17日发布。
 
 ## 设计
 

@@ -116,12 +116,12 @@
         快速
 
           -
-            [高藏寺](https://zh.wikipedia.org/wiki/高藏寺站 "wikilink")（CF09）－**春日井（CF07）**－[勝川](https://zh.wikipedia.org/wiki/勝川站 "wikilink")（CF06）
+            [高藏寺](../Page/高藏寺站.md "wikilink")（CF09）－**春日井（CF07）**－[勝川](https://zh.wikipedia.org/wiki/勝川站 "wikilink")（CF06）
 
         普通
 
           -
-            [神領](https://zh.wikipedia.org/wiki/神領站 "wikilink")（CF08）－**春日井（CF07）**－勝川（CF06）
+            [神領](../Page/神領站.md "wikilink")（CF08）－**春日井（CF07）**－勝川（CF06）
 
 ## 腳注
 

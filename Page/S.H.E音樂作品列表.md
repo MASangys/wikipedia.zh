@@ -174,7 +174,7 @@ style》卡帶紀念組，收錄了第1張專輯至第13張專輯(包含兩張�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/勇敢說出我愛你" title="wikilink">勇敢說出我愛你電視原聲帶</a></p></td>
+<td><p><a href="../Page/勇敢說出我愛你.md" title="wikilink">勇敢說出我愛你電視原聲帶</a></p></td>
 <td><p>2014年7月23日</p></td>
 <td><p>迷路（Selina）</p></td>
 <td><p>電視劇《勇敢說出我愛你》片尾曲</p></td>
@@ -182,7 +182,7 @@ style》卡帶紀念組，收錄了第1張專輯至第13張專輯(包含兩張�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/少年班_(電影)" title="wikilink">少年班電影原聲帶</a></p></td>
 <td><p>2015年5月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/你曾是少年" title="wikilink">你曾是少年</a>[10]</p></td>
+<td><p><a href="../Page/你曾是少年.md" title="wikilink">你曾是少年</a>[10]</p></td>
 <td><p>數位發行，電影《少年班》主題曲</p></td>
 </tr>
 <tr class="even">
@@ -220,14 +220,14 @@ style》卡帶紀念組，收錄了第1張專輯至第13張專輯(包含兩張�
 
 ## 電影配唱
 
-|            |                                                            |                                                         |                                      |           |
-| ---------- | ---------------------------------------------------------- | ------------------------------------------------------- | ------------------------------------ | --------- |
-| **年份**     | **電影名稱**                                                   | **曲名**                                                  | **演唱者**                              | **附註**    |
-| 2004年      | [再見了，可魯](https://zh.wikipedia.org/wiki/再見了，可魯 "wikilink")  | 候鳥                                                      | [S.H.E](../Page/S.H.E.md "wikilink") | 電影中文主題曲   |
-| 2008年1月30日 | [長江七號](https://zh.wikipedia.org/wiki/長江七號 "wikilink")      | 七仔                                                      | S.H.E                                | 分為國語版和粵語版 |
-| 2009年      | 幸福的彼端                                                      | 鎖住時間                                                    | S.H.E                                | 電影中文主題曲   |
-| 2015年5月20日 | [少年班](https://zh.wikipedia.org/wiki/少年班_\(電影\) "wikilink") | [你曾是少年](https://zh.wikipedia.org/wiki/你曾是少年 "wikilink") | S.H.E                                | 數位發行      |
-|            |                                                            |                                                         |                                      |           |
+|            |                                                            |                                      |                                      |           |
+| ---------- | ---------------------------------------------------------- | ------------------------------------ | ------------------------------------ | --------- |
+| **年份**     | **電影名稱**                                                   | **曲名**                               | **演唱者**                              | **附註**    |
+| 2004年      | [再見了，可魯](https://zh.wikipedia.org/wiki/再見了，可魯 "wikilink")  | 候鳥                                   | [S.H.E](../Page/S.H.E.md "wikilink") | 電影中文主題曲   |
+| 2008年1月30日 | [長江七號](https://zh.wikipedia.org/wiki/長江七號 "wikilink")      | 七仔                                   | S.H.E                                | 分為國語版和粵語版 |
+| 2009年      | 幸福的彼端                                                      | 鎖住時間                                 | S.H.E                                | 電影中文主題曲   |
+| 2015年5月20日 | [少年班](https://zh.wikipedia.org/wiki/少年班_\(電影\) "wikilink") | [你曾是少年](../Page/你曾是少年.md "wikilink") | S.H.E                                | 數位發行      |
+|            |                                                            |                                      |                                      |           |
 
 ## 音樂合輯
 
@@ -263,7 +263,7 @@ style》卡帶紀念組，收錄了第1張專輯至第13張專輯(包含兩張�
 <!-- end list -->
 
   - 〈讓自己亮起來〉（[中國](../Page/中國.md "wikilink")[康師傅](../Page/康師傅.md "wikilink")3+2餅乾2003形象廣告主題曲）
-  - 〈[手牽手](https://zh.wikipedia.org/wiki/手牽手_\(歌曲\) "wikilink")〉（抗擊[SARS單曲](https://zh.wikipedia.org/wiki/SARS "wikilink")）（群星合唱曲），收錄於《手牽手－用音樂加油手牽手大合唱》單曲
+  - 〈[手牽手](../Page/手牽手_\(歌曲\).md "wikilink")〉（抗擊[SARS單曲](https://zh.wikipedia.org/wiki/SARS "wikilink")）（群星合唱曲），收錄於《手牽手－用音樂加油手牽手大合唱》單曲
 
 <!-- end list -->
 
@@ -421,7 +421,7 @@ style》卡帶紀念組，收錄了第1張專輯至第13張專輯(包含兩張�
 
 <!-- end list -->
 
-  - 〈[你曾是少年](https://zh.wikipedia.org/wiki/你曾是少年 "wikilink")〉（數位發行，《[少年班](https://zh.wikipedia.org/wiki/少年班_\(電影\) "wikilink")》電影主題曲）
+  - 〈[你曾是少年](../Page/你曾是少年.md "wikilink")〉（數位發行，《[少年班](https://zh.wikipedia.org/wiki/少年班_\(電影\) "wikilink")》電影主題曲）
 
 <!-- end list -->
 

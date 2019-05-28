@@ -46,7 +46,7 @@
 
   - **[蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")**（1992年－）
 
-  - [怪盜Joker](https://zh.wikipedia.org/wiki/怪盜Joker "wikilink")（協力，2014年）
+  - [怪盜Joker](../Page/怪盜Joker.md "wikilink")（協力，2014年）
 
 <!-- end list -->
 
@@ -64,7 +64,7 @@
       - [你好 安妮 ～Before Green
         Gables](../Page/你好_安妮_～Before_Green_Gables.md "wikilink")，又譯**清秀佳人前傳**（2009年）
   - **[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")**（第1期：1990年－1992年／第2期：1995年－）
-  - [家有賤狗](https://zh.wikipedia.org/wiki/家有賤狗 "wikilink")（1993年－1994年）
+  - [家有賤狗](../Page/家有賤狗.md "wikilink")（1993年－1994年）
   - [咕嚕咕嚕魔法陣系列](../Page/咕嚕咕嚕魔法陣.md "wikilink")
       - [咕嚕咕嚕魔法陣](https://zh.wikipedia.org/wiki/咕嚕咕嚕魔法陣#1994年『咕嚕咕嚕魔法陣』（第1作） "wikilink")（1994年）
       - [咕嚕咕嚕魔法陣
@@ -77,7 +77,7 @@
 
 <!-- end list -->
 
-  - [TNK](https://zh.wikipedia.org/wiki/TNK "wikilink")
+  - [TNK](../Page/TNK.md "wikilink")
 
 <!-- end list -->
 
@@ -156,8 +156,7 @@
 
   - [鋼之鍊金術師 FULLMETAL
     ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")（協力，2010年）
-  - [Soul Eater
-    Not！](https://zh.wikipedia.org/wiki/Soul_Eater_Not! "wikilink")（2014年）
+  - [Soul Eater Not！](../Page/Soul_Eater_Not!.md "wikilink")（2014年）
 
 <!-- end list -->
 
@@ -249,7 +248,7 @@
 ### OVA
 
   - [染红的街道
-    核心](../Page/染红的街道.md "wikilink")（總承包商：[TNK](https://zh.wikipedia.org/wiki/TNK "wikilink")，2010年）
+    核心](../Page/染红的街道.md "wikilink")（總承包商：[TNK](../Page/TNK.md "wikilink")，2010年）
 
   - [BLACK★ROCK
     SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")（協力，總承包商：[Ordet](../Page/Ordet.md "wikilink")，2010年）
@@ -261,7 +260,7 @@
     I.G](../Page/Production_I.G.md "wikilink")、，2012年－2013年）
 
   - （總承包商：[ENCOURAGE
-    FILMS](https://zh.wikipedia.org/wiki/ENCOURAGE_FILMS "wikilink")，2014年）
+    FILMS](../Page/ENCOURAGE_FILMS.md "wikilink")，2014年）
 
 ### 電影動畫
 
@@ -284,7 +283,7 @@
       - （1996年）
 
       - [劇場版動畫 忍者亂太郎 忍術學園
-        全員出動！之段](https://zh.wikipedia.org/wiki/劇場版動畫_忍者亂太郎_忍術學園_全員出動！之段 "wikilink")（2011年）
+        全員出動！之段](../Page/劇場版動畫_忍者亂太郎_忍術學園_全員出動！之段.md "wikilink")（2011年）
   - [劇場版
     怪傑佐羅利系列](../Page/怪俠佐羅利.md "wikilink")（共同製作：[日昇動畫](../Page/日昇動畫.md "wikilink")）
       - 劇場版 怪傑佐羅利：大·大·大·大冒險！（協力，2012年）
@@ -314,7 +313,7 @@
     Z](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z "wikilink")（協力，總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，2012年）
 
   - [言葉之庭](../Page/言葉之庭.md "wikilink")（協力，總承包商：[CoMix Wave
-    Films](https://zh.wikipedia.org/wiki/CoMix_Wave_Films "wikilink")，2013年）
+    Films](../Page/CoMix_Wave_Films.md "wikilink")，2013年）
 
   - [劇場版
     偶像大師：前往光輝的另一端！](../Page/偶像大師_劇場版_前往光輝的另一端！.md "wikilink")（協力，總承包商：[A-1

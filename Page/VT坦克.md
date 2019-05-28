@@ -3,13 +3,13 @@
 **VT
 1-2坦克**（VT為[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")「**Versuchsträger**」的縮寫，意為「測試平台」或「實驗載具」）是[德國一款實驗型無炮塔](../Page/西德.md "wikilink")、裝備兩門主炮的[主力戰車](https://zh.wikipedia.org/wiki/主力戰車 "wikilink")，僅製造了兩輛原型車。自1970年代起，隨著[豹1型坦克逐漸過時](../Page/豹1型坦克.md "wikilink")，[西德境內的多家廠商開始積極投入下一代](../Page/西德.md "wikilink")[主力戰車的研發工作](https://zh.wikipedia.org/wiki/主力戰車 "wikilink")，而VT坦克便是其中一項設計。該設計的研發代號是「*Kampfpanzer
 3*」（簡稱KPz 3，直譯為主力戰車3型）。KPz
-3原先是[英國與](https://zh.wikipedia.org/wiki/英國 "wikilink")[德國的共同研發計畫](../Page/西德.md "wikilink")，但後來[英國因為希望研製有炮塔的](https://zh.wikipedia.org/wiki/英國 "wikilink")[主力戰車而退出](https://zh.wikipedia.org/wiki/主力戰車 "wikilink")。\[1\] 然而，此時的[德國也早已開發出更為先進的](../Page/西德.md "wikilink")[豹2型坦克](https://zh.wikipedia.org/wiki/豹2型坦克 "wikilink")，因而認為沒有再研製另一款戰車的必要。\[2\]參與研發工作的其中一家廠商是[基爾機械製造廠](https://zh.wikipedia.org/wiki/基尔机械制造厂 "wikilink")，VT坦克的兩個主要衍生型**VT
+3原先是[英國與](https://zh.wikipedia.org/wiki/英國 "wikilink")[德國的共同研發計畫](../Page/西德.md "wikilink")，但後來[英國因為希望研製有炮塔的](https://zh.wikipedia.org/wiki/英國 "wikilink")[主力戰車而退出](https://zh.wikipedia.org/wiki/主力戰車 "wikilink")。\[1\] 然而，此時的[德國也早已開發出更為先進的](../Page/西德.md "wikilink")[豹2型坦克](https://zh.wikipedia.org/wiki/豹2型坦克 "wikilink")，因而認為沒有再研製另一款戰車的必要。\[2\]參與研發工作的其中一家廠商是[基爾機械製造廠](../Page/基尔机械制造厂.md "wikilink")，VT坦克的兩個主要衍生型**VT
 1-1**及**VT
 1-2**皆是該廠的研發成果。該研發計畫最後被終止，原因是即便雙主炮、無炮塔的[主力戰車在技術上可行](https://zh.wikipedia.org/wiki/主力戰車 "wikilink")，但是其戰略價值及實用性最終都成為這款戰車的最大罩門。\[3\]
 
 ## 歷史
 
-第一輛VT坦克於1974年在[基爾機械製造廠完工](https://zh.wikipedia.org/wiki/基尔机械制造厂 "wikilink")。\[4\]一年後，基爾機械製造廠生產了VT坦克的第二個改型，VT
+第一輛VT坦克於1974年在[基爾機械製造廠完工](../Page/基尔机械制造厂.md "wikilink")。\[4\]一年後，基爾機械製造廠生產了VT坦克的第二個改型，VT
 1-2坦克。隨後，為了測試機動性及兩門主炮的實用性，基爾機械製造廠又分別於1975年及1976年設計並建造了五輛**GVT坦克**（GVT為[德語](https://zh.wikipedia.org/wiki/德語 "wikilink")「Gefechtsfeldversuchträger」的縮寫，意為「戰場測試平台」）。
 
 ## 設計

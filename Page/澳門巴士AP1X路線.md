@@ -1,4 +1,4 @@
-**澳門巴士AP1X路線**是一條由**[澳門新福利公共汽車有限公司](../Page/澳門新福利公共汽車有限公司.md "wikilink")**經營，往返**[關閘](https://zh.wikipedia.org/wiki/關閘廣場_\(巴士站\) "wikilink")**和**[澳門機場](https://zh.wikipedia.org/wiki/澳門機場總站 "wikilink")**的循環快速巴士路線。
+**澳門巴士AP1X路線**是一條由**[澳門新福利公共汽車有限公司](../Page/澳門新福利公共汽車有限公司.md "wikilink")**經營，往返**[關閘](../Page/關閘廣場_\(巴士站\).md "wikilink")**和**[澳門機場](https://zh.wikipedia.org/wiki/澳門機場總站 "wikilink")**的循環快速巴士路線。
 
 ## 簡介及歷史
 
@@ -40,7 +40,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/關閘廣場_(巴士站)" title="wikilink">關閘廣場</a></p></td>
+<td><p><a href="../Page/關閘廣場_(巴士站).md" title="wikilink">關閘廣場</a></p></td>
 <td><p>06:00-10:00<br />
 15:00-20:00</p></td>
 <td><p>停駛</p></td>
@@ -65,19 +65,19 @@
 
 [Macau_bus_route_AP1X.jpg](https://zh.wikipedia.org/wiki/File:Macau_bus_route_AP1X.jpg "fig:Macau_bus_route_AP1X.jpg")
 
-|          |                                                               |
-| :------: | :-----------------------------------------------------------: |
-| **AP1X** |                       **關閘** ↺ **澳門機場**                       |
-|    編號    |                              循環線                              |
-|    1     | [關閘廣場](https://zh.wikipedia.org/wiki/關閘廣場_\(巴士站\) "wikilink") |
-|    2     |                           北安大馬路／新城區                           |
-|    3     |                           北安出入境事務廳                            |
-|    4     |     [澳門機場](https://zh.wikipedia.org/wiki/澳門機場 "wikilink")     |
-|    5     |            偉龍／[科技大學](../Page/澳門科技大學.md "wikilink")            |
-|    6     |              [信虹花園](../Page/信虹花园站.md "wikilink")              |
-|    7     |                           海灣花園／海城閣                            |
-|    8     |                              海上居                              |
-|    9     | [關閘廣場](https://zh.wikipedia.org/wiki/關閘廣場_\(巴士站\) "wikilink") |
+|          |                                                       |
+| :------: | :---------------------------------------------------: |
+| **AP1X** |                   **關閘** ↺ **澳門機場**                   |
+|    編號    |                          循環線                          |
+|    1     |      [關閘廣場](../Page/關閘廣場_\(巴士站\).md "wikilink")       |
+|    2     |                       北安大馬路／新城區                       |
+|    3     |                       北安出入境事務廳                        |
+|    4     | [澳門機場](https://zh.wikipedia.org/wiki/澳門機場 "wikilink") |
+|    5     |        偉龍／[科技大學](../Page/澳門科技大學.md "wikilink")        |
+|    6     |          [信虹花園](../Page/信虹花园站.md "wikilink")          |
+|    7     |                       海灣花園／海城閣                        |
+|    8     |                          海上居                          |
+|    9     |      [關閘廣場](../Page/關閘廣場_\(巴士站\).md "wikilink")       |
 
 ## 參考資料
 

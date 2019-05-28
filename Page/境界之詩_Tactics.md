@@ -34,16 +34,16 @@ Tactics**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[遊戲�
   - [荒浪和沙](../Page/荒浪和沙.md "wikilink") （牡丹、瑪莉、妮蒂雅、愛格溫）
   - [小泉豐](../Page/小泉豐.md "wikilink") （哈特維希、馬丁）
   - [持月玲依](../Page/持月玲依.md "wikilink") （千早、芙蕾雅）
-  - [吉田小南美](https://zh.wikipedia.org/wiki/吉田小南美 "wikilink") （葛妮絲）
+  - [吉田小南美](../Page/吉田小南美.md "wikilink") （葛妮絲）
   - [稻葉和彥](https://zh.wikipedia.org/wiki/稻葉和彥 "wikilink")
-  - [高尾奏音](https://zh.wikipedia.org/wiki/高尾奏音 "wikilink") （雲雲、可琳）
+  - [高尾奏音](../Page/高尾奏音.md "wikilink") （雲雲、可琳）
   - [里咲芽生](https://zh.wikipedia.org/wiki/里咲芽生 "wikilink") （莎琳、菈法）
   - [鳴海杏子](../Page/鳴海杏子.md "wikilink") （伊爾芙）
   - [須田勝也](https://zh.wikipedia.org/wiki/須田勝也 "wikilink") （米諾奇）
   - [森千晃](https://zh.wikipedia.org/wiki/森千晃 "wikilink") （璃珠）
   - [彩藤唯央](https://zh.wikipedia.org/wiki/彩藤唯央 "wikilink") （黛比、桃樂絲）
   - [酒井和人](https://zh.wikipedia.org/wiki/酒井和人 "wikilink") （葛列格、凱爾）
-  - [近藤玲奈](https://zh.wikipedia.org/wiki/近藤玲奈 "wikilink") （卡莉絲塔）
+  - [近藤玲奈](../Page/近藤玲奈.md "wikilink") （卡莉絲塔）
   - [北山恭祐](https://zh.wikipedia.org/wiki/北山恭祐 "wikilink") （馬克西姆）
   - [大久保藍子](../Page/大久保藍子.md "wikilink") （阿莉希雅、緹亞）
   - [藤田知美](https://zh.wikipedia.org/wiki/藤田知美 "wikilink") （安卡）
@@ -52,7 +52,7 @@ Tactics**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[遊戲�
   - [真田侑](https://zh.wikipedia.org/wiki/真田侑 "wikilink") （齊格飛）
   - [河西健吾](../Page/河西健吾.md "wikilink") （陶德）
   - [石上靜香](../Page/石上靜香.md "wikilink")（瓦倫娜）
-  - [佐佐木未來](https://zh.wikipedia.org/wiki/佐佐木未來 "wikilink")（希露微、阿娜壞）
+  - [佐佐木未來](../Page/佐佐木未來.md "wikilink")（希露微、阿娜壞）
   - [山田奈都美](../Page/山田奈都美.md "wikilink")（莉莉）
 
 ## 参考文献

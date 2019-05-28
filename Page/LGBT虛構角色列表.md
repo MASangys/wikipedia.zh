@@ -948,7 +948,7 @@ Oliver Hampton</p></td>
 <a href="../Page/李在濬.md" title="wikilink">李在濬</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/模仿游戏" title="wikilink">模仿遊戲</a></p></td>
+<td><p><a href="../Page/模仿游戏.md" title="wikilink">模仿遊戲</a></p></td>
 <td><p>2014</p></td>
 <td><p>電影</p></td>
 <td><p>美國<br />
@@ -987,7 +987,7 @@ Felix Turner</p></td>
 <a href="https://zh.wikipedia.org/wiki/馬修·波莫" title="wikilink">馬修·波莫</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/愛情的模樣" title="wikilink">愛情的模樣</a></p></td>
+<td><p><a href="../Page/愛情的模樣.md" title="wikilink">愛情的模樣</a></p></td>
 <td><p>2014</p></td>
 <td><p>電影</p></td>
 <td><p>巴西</p></td>
@@ -1119,7 +1119,7 @@ SEAN(<a href="../Page/薛寶釵.md" title="wikilink">薛寶釵</a>)<br />
 <a href="../Page/警幻仙子.md" title="wikilink">警幻仙子</a></p></td>
 <td><p>男</p></td>
 <td><p>同[86]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳彥名" title="wikilink">陳彥名</a><br />
+<td><p><a href="../Page/陳彥名.md" title="wikilink">陳彥名</a><br />
 <a href="https://zh.wikipedia.org/wiki/呂金象" title="wikilink">呂金象</a><br />
 <a href="../Page/紀言愷.md" title="wikilink">紀言愷</a><br />
 <a href="../Page/利晴天.md" title="wikilink">利晴天</a></p></td>
@@ -1145,7 +1145,7 @@ SEAN(<a href="../Page/薛寶釵.md" title="wikilink">薛寶釵</a>)<br />
 <td><p><a href="../Page/生田斗真.md" title="wikilink">生田斗真</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/愚行錄" title="wikilink">愚行錄</a></p></td>
+<td><p><a href="../Page/愚行錄.md" title="wikilink">愚行錄</a></p></td>
 <td><p>2017</p></td>
 <td><p>電影</p></td>
 <td><p>日本</p></td>
@@ -1155,7 +1155,7 @@ SEAN(<a href="../Page/薛寶釵.md" title="wikilink">薛寶釵</a>)<br />
 <td><p><a href="../Page/妻夫木聰.md" title="wikilink">妻夫木聰</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/偽婚男女" title="wikilink">偽婚男女</a></p></td>
+<td><p><a href="../Page/偽婚男女.md" title="wikilink">偽婚男女</a></p></td>
 <td><p>2017</p></td>
 <td><p>網路劇</p></td>
 <td><p>臺灣</p></td>
@@ -1169,12 +1169,12 @@ SAM DOFF</p></td>
 男</p></td>
 <td><p>同[87]</p></td>
 <td><p><a href="../Page/李京恬.md" title="wikilink">李京恬</a><br />
-<a href="https://zh.wikipedia.org/wiki/程茉" title="wikilink">程茉</a><br />
+<a href="../Page/程茉.md" title="wikilink">程茉</a><br />
 <a href="../Page/唐振剛.md" title="wikilink">唐振剛</a><br />
 <a href="../Page/周厚安.md" title="wikilink">周厚安</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/阿莉芙" title="wikilink">阿莉芙</a></p></td>
+<td><p><a href="../Page/阿莉芙.md" title="wikilink">阿莉芙</a></p></td>
 <td><p>2017</p></td>
 <td><p>電影</p></td>
 <td><p>臺灣</p></td>
@@ -1184,7 +1184,7 @@ SAM DOFF</p></td>
 女</p></td>
 <td><p>不明[88]<br />
 同</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/舞炯恩" title="wikilink">Utjung Tjakivalid</a><br />
+<td><p><a href="../Page/舞炯恩.md" title="wikilink">Utjung Tjakivalid</a><br />
 <a href="../Page/趙逸嵐.md" title="wikilink">趙逸嵐</a></p></td>
 </tr>
 <tr class="even">
@@ -1198,7 +1198,7 @@ SAM DOFF</p></td>
 <td><p>陳庭欣</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/紅色氣球" title="wikilink">紅色氣球</a></p></td>
+<td><p><a href="../Page/紅色氣球.md" title="wikilink">紅色氣球</a></p></td>
 <td><p>2017</p></td>
 <td><p>網路劇</p></td>
 <td><p>臺灣</p></td>
@@ -1339,7 +1339,7 @@ Alec Scudder</p></td>
 <tr class="even">
 <td></td>
 <td><p>1936</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朱娜·巴恩斯" title="wikilink">朱娜·巴恩斯</a></p></td>
+<td><p><a href="../Page/朱娜·巴恩斯.md" title="wikilink">朱娜·巴恩斯</a></p></td>
 <td><p>美國</p></td>
 <td></td>
 <td><p>Robin Vote<br />
@@ -1535,7 +1535,7 @@ Jonathan</p></td>
 <td></td>
 <td><p>Jess Goldberg</p></td>
 <td><p>跨性別</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/女性向" title="wikilink">女性向</a>[114]</p></td>
+<td><p><a href="../Page/女性向.md" title="wikilink">女性向</a>[114]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/荒人手記.md" title="wikilink">荒人手記</a></p></td>
@@ -1940,7 +1940,7 @@ Silas August</p></td>
 <td><p><a href="../Page/DC漫畫.md" title="wikilink">DC漫畫</a>：<a href="../Page/蝙蝠俠.md" title="wikilink">蝙蝠俠</a>（Batman）</p></td>
 <td><p>1939–</p></td>
 <td><p><a href="../Page/鲍勃·凯恩.md" title="wikilink">鲍勃·凯恩</a><br />
-<a href="https://zh.wikipedia.org/wiki/比尔·芬格" title="wikilink">比尔·芬格</a></p></td>
+<a href="../Page/比尔·芬格.md" title="wikilink">比尔·芬格</a></p></td>
 <td><p>美國</p></td>
 <td><p>動畫<br />
 電玩<br />
@@ -1987,7 +1987,7 @@ Benjamin Deeds<br />
 （平行世界的鋼人）<br />
 （平行世界的<a href="../Page/金鋼狼.md" title="wikilink">金鋼狼</a>）<br />
 <a href="../Page/死侍.md" title="wikilink">死侍</a><br />
-<a href="https://zh.wikipedia.org/wiki/冰人_(漫威漫畫)" title="wikilink">冰人</a></p></td>
+<a href="../Page/冰人_(漫威漫畫).md" title="wikilink">冰人</a></p></td>
 <td><p>男<br />
 男<br />
 男<br />
@@ -2011,7 +2011,7 @@ John Totleben</p></td>
 <td><p>電影<br />
 電視劇<br />
 電玩</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/約翰·康斯坦汀" title="wikilink">約翰·康斯坦汀</a></p></td>
+<td><p><a href="../Page/約翰·康斯坦汀.md" title="wikilink">約翰·康斯坦汀</a></p></td>
 <td><p>男</p></td>
 <td><p>雙[152]</p></td>
 </tr>
@@ -2051,8 +2051,8 @@ Mel Frederics（メル・フレデリクス）</p></td>
 <tr class="even">
 <td><p><a href="../Page/機械女神.md" title="wikilink">機械女神</a>（セイバーマリオネット）</p></td>
 <td><p>1996–1999</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/赤堀悟" title="wikilink">赤堀悟</a><br />
-<a href="https://zh.wikipedia.org/wiki/琴義弓介" title="wikilink">琴義弓介</a></p></td>
+<td><p><a href="../Page/赤堀悟.md" title="wikilink">赤堀悟</a><br />
+<a href="../Page/琴義弓介.md" title="wikilink">琴義弓介</a></p></td>
 <td><p>日本</p></td>
 <td><p>漫畫<br />
 動畫</p></td>
@@ -2850,12 +2850,12 @@ Xbox One<br />
 Microsoft Windows</p></td>
 <td><p>美國</p></td>
 <td><p><a href="../Page/俠盜獵車手Online.md" title="wikilink">俠盜獵車手Online</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/崔佛·菲利普" title="wikilink">崔佛·菲利普</a></p></td>
+<td><p><a href="../Page/崔佛·菲利普.md" title="wikilink">崔佛·菲利普</a></p></td>
 <td><p>男</p></td>
 <td><p>雙[236][237]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/最後生還者" title="wikilink">最後生還者</a></p></td>
+<td><p><a href="../Page/最後生還者.md" title="wikilink">最後生還者</a></p></td>
 <td><p>2013</p></td>
 <td><p>PlayStation 3<br />
 PlayStation 4</p></td>
@@ -3157,8 +3157,7 @@ Rick o'Connor</p></td>
   - [LGBT相關電影列表](https://zh.wikipedia.org/wiki/LGBT相關電影列表 "wikilink")
   - [LGBT相关电视列表](https://zh.wikipedia.org/wiki/LGBT相关电视列表 "wikilink")
   - [Yaoi](../Page/Yaoi.md "wikilink")
-  - [BL (Boys'
-    Love)](https://zh.wikipedia.org/wiki/BL_\(和製英語\) "wikilink")
+  - [BL (Boys' Love)](../Page/BL_\(和製英語\).md "wikilink")
 
 ## 注释
 

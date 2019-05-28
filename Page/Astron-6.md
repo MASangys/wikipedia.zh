@@ -6,7 +6,7 @@ Surrender》（2012年），內容詳細介紹了他們的2011年電影《》的
 ## 作品列表
 
   - 2011：《Astron-6》（DVD彙集影片）\[4\]
-  - 2011：《[激動戰士MAN勃哥](https://zh.wikipedia.org/wiki/激動戰士MAN勃哥 "wikilink")》\[5\]
+  - 2011：《[激動戰士MAN勃哥](../Page/激動戰士MAN勃哥.md "wikilink")》\[5\]
   - 2011：《》\[6\]
   - 2012：《Bio-Cop》（短片）
   - 2014：《》\[7\]

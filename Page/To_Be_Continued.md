@@ -21,7 +21,7 @@ Be Continued**》揭下他們的神秘面紗，這也是國內首次採用這樣
 ### 主要人物
 
   - [金賽綸](../Page/金賽綸.md "wikilink") 飾演 鄭雅琳
-  - [MJ](https://zh.wikipedia.org/wiki/MJ_\(ASTRO\) "wikilink")
+  - [MJ](../Page/MJ_\(ASTRO\).md "wikilink")
   - [JIN JIN](https://zh.wikipedia.org/wiki/朴真祐（韓國歌手） "wikilink")
   - [車銀優](../Page/車銀優.md "wikilink")
   - [文彬](../Page/文彬_\(韓國歌手\).md "wikilink")
@@ -39,15 +39,15 @@ Be Continued**》揭下他們的神秘面紗，這也是國內首次採用這樣
   - [姜泰伍](../Page/姜泰伍.md "wikilink") 飾演 黑道份子
   - [Hello Venus](../Page/Hello_Venus.md "wikilink") 飾演 SUNHYUK團體
   - [磪有情](../Page/磪有情.md "wikilink")（[I.O.I](../Page/I.O.I.md "wikilink")、[Weki
-    Meki](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")）
+    Meki](../Page/Weki_Meki.md "wikilink")）
   - [金度延](../Page/金度延.md "wikilink")（[I.O.I](../Page/I.O.I.md "wikilink")、[Weki
-    Meki](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")）
+    Meki](../Page/Weki_Meki.md "wikilink")）
   - [金秀璟](https://zh.wikipedia.org/wiki/金秀璟 "wikilink")（[Weki
-    Meki](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")）
+    Meki](../Page/Weki_Meki.md "wikilink")）
   - [鄭海琳](https://zh.wikipedia.org/wiki/鄭海琳 "wikilink")（[Weki
-    Meki](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")）
+    Meki](../Page/Weki_Meki.md "wikilink")）
   - [魯孝靜](https://zh.wikipedia.org/wiki/魯孝靜 "wikilink")（[Weki
-    Meki](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")）
+    Meki](../Page/Weki_Meki.md "wikilink")）
   - [秋藝真](https://zh.wikipedia.org/wiki/秋藝真 "wikilink")
 
 ## 外部連結

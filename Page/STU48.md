@@ -16,18 +16,18 @@ STU48是[AKB48集團中首次以超过一个城市做為根據地的姊妹團](.
 ### 2016年
 
   - 10月10日，AKB48營運方於《[AKB48家族
-    猜拳大會2016](https://zh.wikipedia.org/wiki/AKB48家族_猜拳大會2016 "wikilink")》上，宣布將於隔年夏天成立以[瀨戶內海周邊的](../Page/瀨戶內海.md "wikilink")[山口](https://zh.wikipedia.org/wiki/山口縣 "wikilink")、[廣島](../Page/廣島縣.md "wikilink")、[岡山](../Page/岡山縣.md "wikilink")、[兵庫](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")、[愛媛](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")、[香川](https://zh.wikipedia.org/wiki/香川縣 "wikilink")、[德島等](https://zh.wikipedia.org/wiki/德島縣 "wikilink")7[縣為主要根據地](https://zh.wikipedia.org/wiki/縣_\(日本\) "wikilink")，並以船上劇場形式活動的姐妹團體\[6\]。
+    猜拳大會2016](../Page/AKB48家族_猜拳大會2016.md "wikilink")》上，宣布將於隔年夏天成立以[瀨戶內海周邊的](../Page/瀨戶內海.md "wikilink")[山口](https://zh.wikipedia.org/wiki/山口縣 "wikilink")、[廣島](../Page/廣島縣.md "wikilink")、[岡山](../Page/岡山縣.md "wikilink")、[兵庫](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")、[愛媛](https://zh.wikipedia.org/wiki/愛媛縣 "wikilink")、[香川](https://zh.wikipedia.org/wiki/香川縣 "wikilink")、[德島等](https://zh.wikipedia.org/wiki/德島縣 "wikilink")7[縣為主要根據地](https://zh.wikipedia.org/wiki/縣_\(日本\) "wikilink")，並以船上劇場形式活動的姐妹團體\[6\]。
 
 ### 2017年
 
   - 1月16日－2月5日，第1期生招募活動開始。
   - 2月22日，AKB48 Team
-    4副隊長[岡田奈奈在個人](../Page/岡田奈奈_\(AKB48\).md "wikilink")[SHOWROOM頻道上宣佈兼任STU](https://zh.wikipedia.org/wiki/SHOWROOM "wikilink")48成員\[7\]。在稍后于23日凌晨的[日本放送直播节目](../Page/日本放送.md "wikilink")《》中，HKT48的[指原莉乃电话连线宣佈兼任STU](../Page/指原莉乃.md "wikilink")48，同時擔任劇場經理，其後岡田奈奈在節目中被任命為STU48的隊長\[8\]。
-  - 3月19日，举行1期生的最终甄选，共有44人合格。同日公佈將會在AKB48的第48張單曲《[空有願望](https://zh.wikipedia.org/wiki/空有願望 "wikilink")》中收錄STU48的首支原創曲，由[瀧野由美子擔任](https://zh.wikipedia.org/wiki/瀧野由美子 "wikilink")[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心成員）\[9\]\[10\]。
+    4副隊長[岡田奈奈在個人](../Page/岡田奈奈_\(AKB48\).md "wikilink")[SHOWROOM頻道上宣佈兼任STU](../Page/SHOWROOM.md "wikilink")48成員\[7\]。在稍后于23日凌晨的[日本放送直播节目](../Page/日本放送.md "wikilink")《》中，HKT48的[指原莉乃电话连线宣佈兼任STU](../Page/指原莉乃.md "wikilink")48，同時擔任劇場經理，其後岡田奈奈在節目中被任命為STU48的隊長\[8\]。
+  - 3月19日，举行1期生的最终甄选，共有44人合格。同日公佈將會在AKB48的第48張單曲《[空有願望](../Page/空有願望.md "wikilink")》中收錄STU48的首支原創曲，由[瀧野由美子擔任](../Page/瀧野由美子.md "wikilink")[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心成員）\[9\]\[10\]。
   - 3月21日，宣布第二位劇場經理將由山本學出任\[11\]。
   - 3月31日，正式於官網公布1期生31名成員。
   - 5月3日，除指原莉乃以外的全體32名成員，於[廣島市舉行的](../Page/廣島市.md "wikilink")2017年舉行見面會，為STU48首次的公開活動\[12\]\[13\]。
-  - 5月31日，AKB48第48張單曲《[空有願望](https://zh.wikipedia.org/wiki/空有願望 "wikilink")》正式發行，其中劇場盤版本收錄STU48首支原創曲《瀨戶內之聲》\[14\]。
+  - 5月31日，AKB48第48張單曲《[空有願望](../Page/空有願望.md "wikilink")》正式發行，其中劇場盤版本收錄STU48首支原創曲《瀨戶內之聲》\[14\]。
   - 6月3日，STU48首場公演於[岡山市](../Page/岡山市.md "wikilink")內的「岡山未來表演廳」舉行\[15\]。
   - 10月1日，船上劇場官方部落格「船通信」正式開通上線\[16\]。
   - 11月25日，指原莉乃於「濑户内7县巡演〜初次见面、我们是STU48。〜（）」
@@ -38,12 +38,12 @@ STU48是[AKB48集團中首次以超过一个城市做為根據地的姊妹團](.
   - 1月6日，於東京[AKB48劇場舉辦两场出張公演](../Page/AKB48劇場.md "wikilink")（客場公演）\[18\]。
   - 1月16日，首個面向[東京都會區的常規節目](../Page/首都圈_\(日本\).md "wikilink")《》在[日本電視台的週一深夜時段](../Page/日本電視台.md "wikilink")（即週二凌晨）播出。
   - 1月21日，於東京首次舉辦單獨演唱會「STU48單獨演唱會～請成為我們的粉絲～」\[19\]。
-  - 1月31日，出道單曲《[暗闇](https://zh.wikipedia.org/wiki/暗闇 "wikilink")》由[國王唱片發行](../Page/國王唱片.md "wikilink")，Center由瀧野由美子擔任\[20\]。
+  - 1月31日，出道單曲《[暗闇](../Page/暗闇.md "wikilink")》由[國王唱片發行](../Page/國王唱片.md "wikilink")，Center由瀧野由美子擔任\[20\]。
   - 3月12日，從廣島開始，在瀨戶內7個都市舉辦為期三個月的「瀨戶內7縣陸上公演」巡演\[21\]。
   - 4月14日，於岡山永旺夢樂城舉辦的「瀨戶內7縣巡迴握手會」岡山場活動中與[博多港現場連線](../Page/博多港.md "wikilink")，正式公布即將改裝搭載STU48專屬劇場的壹岐對馬海運公司所屬渡輪「三笠」（）外觀\[22\]。
   - 6月16日，於[名古屋巨蛋舉行的](../Page/名古屋巨蛋.md "wikilink")「[AKB48第53張單曲世界選拔總選舉](https://zh.wikipedia.org/wiki/AKB48第53張單曲世界選拔總選舉 "wikilink")」開票活動中，瀧野由美子獲得第74名，石田千穗獲得第99名，兩人為首度入圍選拔總選舉排名的1期生成員\[23\]。
   - 6月17日，於名古屋巨蛋舉行的「AKB48第53張單曲世界選拔總選舉」賽後感謝握手會上宣布將發行第2張單曲的消息，同時發表16人選拔名單，瀧野由美子繼續獲選為Center\[24\]\[25\]。
-  - 7月11日，因[西日本豪雨於當地造成嚴重損害](https://zh.wikipedia.org/wiki/2018年7月西日本豪雨 "wikilink")，STU48營運方宣布原訂於8月29日發行的第2張單曲將延後發行，船上劇場夏季開幕計畫也將暫緩施行\[26\]\[27\]。為了讓受災戶重建家園，儘速回復正常生活，作為[「為了誰」計畫的一環](https://zh.wikipedia.org/wiki/「為了誰」計畫 "wikilink")，AKB48集團舉辦賑災募款重建支援活動，於各劇場及握手會會場設置募款箱，接受各界提供的捐款\[28\]，另外與DMO共同合作的「加油！瀨戶内」的募款活動亦正式展開\[29\]\[30\]。9月至10月的慈善巡迴演唱會預定於大阪、福岡及東京等3個城市舉辦\[31\]。
+  - 7月11日，因[西日本豪雨於當地造成嚴重損害](../Page/2018年7月西日本豪雨.md "wikilink")，STU48營運方宣布原訂於8月29日發行的第2張單曲將延後發行，船上劇場夏季開幕計畫也將暫緩施行\[26\]\[27\]。為了讓受災戶重建家園，儘速回復正常生活，作為[「為了誰」計畫的一環](https://zh.wikipedia.org/wiki/「為了誰」計畫 "wikilink")，AKB48集團舉辦賑災募款重建支援活動，於各劇場及握手會會場設置募款箱，接受各界提供的捐款\[28\]，另外與DMO共同合作的「加油！瀨戶内」的募款活動亦正式展開\[29\]\[30\]。9月至10月的慈善巡迴演唱會預定於大阪、福岡及東京等3個城市舉辦\[31\]。
   - 10月25日，於「STU48
     陸上公演〜出航準備中！〜」首日公演中宣布組成5個小隊，各小隊除既有活動外，亦會進行主題各異的「[課外活動](https://zh.wikipedia.org/wiki/#課外活動 "wikilink")」\[32\]。
   - 11月15日，於「」中獲得「新人獎」，並獲得「最優秀新人獎」提名\[33\]。
@@ -211,7 +211,7 @@ STU48是[AKB48集團中首次以超过一个城市做為根據地的姊妹團](.
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/瀧野由美子" title="wikilink">瀧野由美子</a></p></td>
+<td><p><a href="../Page/瀧野由美子.md" title="wikilink">瀧野由美子</a></p></td>
 <td></td>
 <td></td>
 <td><p>1期</p></td>
@@ -743,7 +743,7 @@ STUDIO（）以「表演」為活動主題。
 
 <!-- end list -->
 
-  - SHOWROOM部門（2017年3月10日17時00分－3月15日20時00分）－第二次审查合格者在流媒体[SHOWROOM中进行展示](https://zh.wikipedia.org/wiki/SHOWROOM "wikilink")\[77\]
+  - SHOWROOM部門（2017年3月10日17時00分－3月15日20時00分）－第二次审查合格者在流媒体[SHOWROOM中进行展示](../Page/SHOWROOM.md "wikilink")\[77\]
       - 参加者不公开姓名及年龄，以序号做区分，部分参加者不公开相貌进行展示。并非全部第二次审查合格者都有参加此次活动。该活动的展示内容，获得点数及排名作为最终审查的参考，与通过与否无直接联系\[78\]。
   - 最終審査－舞蹈、歌唱（3月19日，廣島市中區NTT Credo Hall）：参加者102名→合格者44名\[79\]。
 
@@ -822,7 +822,7 @@ JAPAN<br />
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2018年1月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/暗闇" title="wikilink">暗闇</a><br />
+<td><p><a href="../Page/暗闇.md" title="wikilink">暗闇</a><br />
 （）[81]</p></td>
 <td><center>
 <p>1</p>
@@ -852,12 +852,12 @@ JAPAN<br />
 
 收錄於非STU48名义发行的唱片作品中。
 
-| 順序 | 發行日期        | 歌名          | 收錄作品                                                                 |
-| -- | ----------- | ----------- | -------------------------------------------------------------------- |
-| 1  | 2017年5月31日  | 《瀨戶內的聲音》    | AKB48《[空有願望](https://zh.wikipedia.org/wiki/空有願望 "wikilink")》         |
-| 2  | 2017年11月22日 | 《還好想起來了》    | AKB48《[11月的腳鏈](https://zh.wikipedia.org/wiki/11月的腳鏈 "wikilink")》     |
-| 3  | 2018年3月14日  | 《踏板與車輪的來時路》 | AKB48《[Ja-Ba-Ja](https://zh.wikipedia.org/wiki/Ja-Ba-Ja "wikilink")》 |
-|    |             |             |                                                                      |
+| 順序 | 發行日期        | 歌名          | 收錄作品                                                             |
+| -- | ----------- | ----------- | ---------------------------------------------------------------- |
+| 1  | 2017年5月31日  | 《瀨戶內的聲音》    | AKB48《[空有願望](../Page/空有願望.md "wikilink")》                        |
+| 2  | 2017年11月22日 | 《還好想起來了》    | AKB48《[11月的腳鏈](https://zh.wikipedia.org/wiki/11月的腳鏈 "wikilink")》 |
+| 3  | 2018年3月14日  | 《踏板與車輪的來時路》 | AKB48《[Ja-Ba-Ja](../Page/Ja-Ba-Ja.md "wikilink")》                |
+|    |             |             |                                                                  |
 
 ## 公演
 

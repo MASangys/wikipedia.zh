@@ -1,10 +1,10 @@
-**Waterman**，為[臺灣](../Page/臺灣.md "wikilink")[相信音樂旗下](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")[男歌手以著白色](https://zh.wikipedia.org/wiki/男歌手 "wikilink")[緊身衣](https://zh.wikipedia.org/wiki/全包緊身衣 "wikilink")，蒙面進行演出而聞名。
+**Waterman**，為[臺灣](../Page/臺灣.md "wikilink")[相信音樂旗下](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")[男歌手以著白色](https://zh.wikipedia.org/wiki/男歌手 "wikilink")[緊身衣](../Page/全包緊身衣.md "wikilink")，蒙面進行演出而聞名。
 
 ## 簡歷
 
 Waterman為[味丹企業行銷旗下](https://zh.wikipedia.org/wiki/味丹 "wikilink")[多喝水礦泉水所推出的超人偶像](https://zh.wikipedia.org/wiki/多喝水 "wikilink")、《[愛很大](../Page/愛很大.md "wikilink")》專輯計畫的主唱之一暨主持人\[1\]。報導指出，Waterman被賦予「代替年輕人內心的自己行俠仗義，建立品牌做好事的態度，也鼓勵多喝水！」味丹公司希望將新時代的行銷手法變得更有深度，讓台灣年輕人對未來更有理想和正向思考的態度。\[2\]
 
-Waterman在2007年左右在[台灣出道](https://zh.wikipedia.org/wiki/台灣 "wikilink")，2007年-2010年間蒙面默默行善，他那不露面、默默行善卻又無俚頭的精神，使他引起關注。\[3\]Waterman與Waterman分身們曾連續15天做了15件好事，例如：到老人院娛樂老人、幫[害羞的](https://zh.wikipedia.org/wiki/害羞 "wikilink")[大學生](https://zh.wikipedia.org/wiki/大學生 "wikilink")[表白](https://zh.wikipedia.org/wiki/表白 "wikilink")、到淨灘等善行，引起台灣社會廣大迴響。\[4\][自由時報指出](../Page/自由時報.md "wikilink")，Waterman雖曾被外界猜測為[盧廣仲](../Page/盧廣仲.md "wikilink")，但事實上他的真面目是一位眉清目秀、染著金髮、穿[夾腳拖又平易近人的](https://zh.wikipedia.org/wiki/夾腳拖 "wikilink")[大男孩](../Page/男孩.md "wikilink")。\[5\]
+Waterman在2007年左右在[台灣出道](https://zh.wikipedia.org/wiki/台灣 "wikilink")，2007年-2010年間蒙面默默行善，他那不露面、默默行善卻又無俚頭的精神，使他引起關注。\[3\]Waterman與Waterman分身們曾連續15天做了15件好事，例如：到老人院娛樂老人、幫[害羞的](../Page/害羞.md "wikilink")[大學生](https://zh.wikipedia.org/wiki/大學生 "wikilink")[表白](https://zh.wikipedia.org/wiki/表白 "wikilink")、到淨灘等善行，引起台灣社會廣大迴響。\[4\][自由時報指出](../Page/自由時報.md "wikilink")，Waterman雖曾被外界猜測為[盧廣仲](../Page/盧廣仲.md "wikilink")，但事實上他的真面目是一位眉清目秀、染著金髮、穿[夾腳拖又平易近人的](https://zh.wikipedia.org/wiki/夾腳拖 "wikilink")[大男孩](../Page/男孩.md "wikilink")。\[5\]
 
 Waterman之所以隱姓埋名，總是以[鹹蛋超人的裝扮出場](https://zh.wikipedia.org/wiki/鹹蛋超人 "wikilink")，在於Waterman與合作廠商簽有合約，合約中明定他的真面目不能對外界曝光。\[6\]
 

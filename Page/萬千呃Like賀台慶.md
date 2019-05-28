@@ -43,7 +43,7 @@ Me**）為[毛記電視慶祝開台一周年而設的大型台慶匯演](../Page
 <td><p>3</p></td>
 <td><p>2016年3月19日</p></td>
 <td><p>記者招待會</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林映輝" title="wikilink">堅·輝仔</a>[6]、全體偽員</p></td>
+<td><p><a href="../Page/林映輝.md" title="wikilink">堅·輝仔</a>[6]、全體偽員</p></td>
 <td><p><a href="http://www.tvmost.com.hk/201603162016_video_prehb_03">3</a></p></td>
 </tr>
 <tr class="odd">
@@ -65,7 +65,7 @@ Me**）為[毛記電視慶祝開台一周年而設的大型台慶匯演](../Page
 <td><p>6</p></td>
 <td><p>2016年3月26日</p></td>
 <td><p>台慶籌備花絮</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林映輝" title="wikilink">堅·輝仔</a>[9]、全體偽員</p></td>
+<td><p><a href="../Page/林映輝.md" title="wikilink">堅·輝仔</a>[9]、全體偽員</p></td>
 <td><p><a href="http://www.tvmost.com.hk/201603162016_video_prehb_06">6</a></p></td>
 </tr>
 <tr class="even">
@@ -205,7 +205,7 @@ Me**）為[毛記電視慶祝開台一周年而設的大型台慶匯演](../Page
 <tr class="even">
 <td><p>3</p></td>
 <td><p>大媽廣場舞《愛·回媽》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/傘下爸媽" title="wikilink">傘下爸媽</a></p></td>
+<td><p><a href="../Page/傘下爸媽.md" title="wikilink">傘下爸媽</a></p></td>
 <td></td>
 <td></td>
 </tr>

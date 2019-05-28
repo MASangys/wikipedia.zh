@@ -36,7 +36,7 @@ LIGHT』新歌加經典」收錄《光 LIGHT》和《Alright》中文版歌曲\[
 <tr class="even">
 <td><p>2016年9月10日</p></td>
 <td><p><a href="../Page/TVBS歡樂台.md" title="wikilink">TVBS歡樂台</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/全球中文音樂榜上榜_(臺灣版)" title="wikilink">全球中文音樂榜上榜 (臺灣版)</a></p></td>
+<td><p><a href="../Page/全球中文音樂榜上榜_(臺灣版).md" title="wikilink">全球中文音樂榜上榜 (臺灣版)</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

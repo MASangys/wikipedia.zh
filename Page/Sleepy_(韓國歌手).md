@@ -66,11 +66,11 @@ LOTION》，同名主打曲由制作，并邀请[B.A.P的成员](../Page/B.A.P.m
 
 ### 合作歌曲
 
-| 年份   | 歌曲名                                                                                                                                    | 专辑                                                             |
-| ---- | -------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- |
-| 2015 | Cool Night（쿨밤）（with [宋枝恩](../Page/宋枝恩.md "wikilink")）\[12\]                                                                            | rowspan="2"                                                    |
-| 2016 | 我做错了什么（내가 뭘 잘못했는데）（feat. [李國主](../Page/李國主.md "wikilink")）                                                                             |                                                                |
-| 2017 | 잘 (I'm fine)（with [Gray](https://zh.wikipedia.org/wiki/Gray_\(歌手\) "wikilink")、[Loco](https://zh.wikipedia.org/wiki/Loco "wikilink")、） | [鍵盤上的鬣狗](https://zh.wikipedia.org/wiki/鍵盤上的鬣狗 "wikilink") 節目單曲 |
+| 年份   | 歌曲名                                                                                              | 专辑                                                             |
+| ---- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------- |
+| 2015 | Cool Night（쿨밤）（with [宋枝恩](../Page/宋枝恩.md "wikilink")）\[12\]                                      | rowspan="2"                                                    |
+| 2016 | 我做错了什么（내가 뭘 잘못했는데）（feat. [李國主](../Page/李國主.md "wikilink")）                                       |                                                                |
+| 2017 | 잘 (I'm fine)（with [Gray](../Page/Gray_\(歌手\).md "wikilink")、[Loco](../Page/Loco.md "wikilink")、） | [鍵盤上的鬣狗](https://zh.wikipedia.org/wiki/鍵盤上的鬣狗 "wikilink") 節目單曲 |
 
 ## 影视作品
 
@@ -180,7 +180,7 @@ LOTION》，同名主打曲由制作，并邀请[B.A.P的成员](../Page/B.A.P.m
 </tr>
 <tr class="even">
 <td><p>9月21日-10月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吃貨48小時" title="wikilink">吃貨48小時</a>[28]</p></td>
+<td><p><a href="../Page/吃貨48小時.md" title="wikilink">吃貨48小時</a>[28]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -194,7 +194,7 @@ LOTION》，同名主打曲由制作，并邀请[B.A.P的成员](../Page/B.A.P.m
 </tr>
 <tr class="even">
 <td><p>10月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/現場脫口秀Taxi" title="wikilink">現場脫口秀Taxi</a></p></td>
+<td><p><a href="../Page/現場脫口秀Taxi.md" title="wikilink">現場脫口秀Taxi</a></p></td>
 <td><p><a href="../Page/TVN.md" title="wikilink">tvN</a></p></td>
 <td><p>嘉宾</p></td>
 <td></td>
@@ -222,14 +222,14 @@ LOTION》，同名主打曲由制作，并邀请[B.A.P的成员](../Page/B.A.P.m
 </tr>
 <tr class="even">
 <td><p>12月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Video_Star" title="wikilink">Video Star</a>[33]</p></td>
+<td><p><a href="../Page/Video_Star.md" title="wikilink">Video Star</a>[33]</p></td>
 <td><p><a href="../Page/文化廣播公司.md" title="wikilink">MBC</a></p></td>
 <td><p>嘉宾</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>12月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我要开动了" title="wikilink">我要开动了</a></p></td>
+<td><p><a href="../Page/我要开动了.md" title="wikilink">我要开动了</a></p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td></td>
 <td></td>
@@ -250,7 +250,7 @@ LOTION》，同名主打曲由制作，并邀请[B.A.P的成员](../Page/B.A.P.m
 </tr>
 <tr class="even">
 <td><p>1月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黄金铃鼓" title="wikilink">黄金铃鼓</a></p></td>
+<td><p><a href="../Page/黄金铃鼓.md" title="wikilink">黄金铃鼓</a></p></td>
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 <td></td>
 <td></td>
@@ -264,63 +264,63 @@ LOTION》，同名主打曲由制作，并邀请[B.A.P的成员](../Page/B.A.P.m
 </tr>
 <tr class="even">
 <td><p>3月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/喜劇大聯盟" title="wikilink">喜劇大聯盟</a></p></td>
+<td><p><a href="../Page/喜劇大聯盟.md" title="wikilink">喜劇大聯盟</a></p></td>
 <td><p><a href="../Page/TVN.md" title="wikilink">tvN</a></p></td>
 <td><p>特别出演</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/把便利店掏空吧" title="wikilink">把便利店掏空吧</a></p></td>
+<td><p><a href="../Page/把便利店掏空吧.md" title="wikilink">把便利店掏空吧</a></p></td>
 <td><p>代班出演</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月18日-至今</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Show_Fan_PD_-_DIY_idol_fan_meeting" title="wikilink">The Show Fan PD - DIY idol fan meeting</a>[36]</p></td>
+<td><p><a href="../Page/The_Show_Fan_PD_-_DIY_idol_fan_meeting.md" title="wikilink">The Show Fan PD - DIY idol fan meeting</a>[36]</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>主持</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4月28日-5月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/歌曲之爭—勝負" title="wikilink">歌曲之爭—勝負</a></p></td>
+<td><p><a href="../Page/歌曲之爭—勝負.md" title="wikilink">歌曲之爭—勝負</a></p></td>
 <td><p><a href="../Page/韓國放送公社.md" title="wikilink">KBS</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月29日-5月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/握拳汽笛船" title="wikilink">握拳汽笛船</a></p></td>
+<td><p><a href="../Page/握拳汽笛船.md" title="wikilink">握拳汽笛船</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>嘉宾</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/共助7" title="wikilink">共助7</a></p></td>
+<td><p><a href="../Page/共助7.md" title="wikilink">共助7</a></p></td>
 <td><p><a href="../Page/TVN.md" title="wikilink">tvN</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>5月14日-5月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我家的熊孩子" title="wikilink">我家的熊孩子</a>[37][38]</p></td>
+<td><p><a href="../Page/我家的熊孩子.md" title="wikilink">我家的熊孩子</a>[37][38]</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5月28日-7月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/世界上所有放送" title="wikilink">世界上所有放送</a></p></td>
+<td><p><a href="../Page/世界上所有放送.md" title="wikilink">世界上所有放送</a></p></td>
 <td><p><a href="../Page/文化廣播公司.md" title="wikilink">MBC</a></p></td>
 <td><p>半固定出演</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>6月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/哥哥的想法" title="wikilink">哥哥的想法</a>[39]</p></td>
+<td><p><a href="../Page/哥哥的想法.md" title="wikilink">哥哥的想法</a>[39]</p></td>
 <td><p>嘉宾</p></td>
 <td></td>
 <td></td>
@@ -334,28 +334,28 @@ LOTION》，同名主打曲由制作，并邀请[B.A.P的成员](../Page/B.A.P.m
 </tr>
 <tr class="even">
 <td><p>6月30日-7月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_6" title="wikilink">Show Me The Money 6</a>[43][44][45][46]</p></td>
+<td><p><a href="../Page/Show_Me_The_Money_6.md" title="wikilink">Show Me The Money 6</a>[43][44][45][46]</p></td>
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 <td><p>参赛者</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>7月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我家的熊孩子" title="wikilink">我家的熊孩子</a></p></td>
+<td><p><a href="../Page/我家的熊孩子.md" title="wikilink">我家的熊孩子</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>嘉宾</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>8月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ranking_Show_1,2,3" title="wikilink">Ranking Show 1,2,3</a></p></td>
+<td><p><a href="../Page/Ranking_Show_1,2,3.md" title="wikilink">Ranking Show 1,2,3</a></p></td>
 <td><p><a href="../Page/文化廣播公司.md" title="wikilink">MBC</a></p></td>
 <td><p>嘉賓</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>8月20日、8月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Fantastic_Duo_2" title="wikilink">Fantastic Duo 2</a></p></td>
+<td><p><a href="../Page/Fantastic_Duo_2.md" title="wikilink">Fantastic Duo 2</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p>參賽者</p></td>
 <td></td>
@@ -364,7 +364,7 @@ LOTION》，同名主打曲由制作，并邀请[B.A.P的成员](../Page/B.A.P.m
 <td><p>10月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鍵盤上的鬣狗" title="wikilink">鍵盤上的鬣狗</a></p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>嘉宾与<a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、 一同出演</p></td>
+<td><p>嘉宾与<a href="../Page/Loco.md" title="wikilink">Loco</a>、 一同出演</p></td>
 <td></td>
 </tr>
 </tbody>

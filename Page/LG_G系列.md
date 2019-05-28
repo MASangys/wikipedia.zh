@@ -41,12 +41,12 @@ Optimus系列](https://zh.wikipedia.org/wiki/LG_Optimus "wikilink")。
   - [LG G4
     Stylus](https://zh.wikipedia.org/wiki/LG_G4_Stylus "wikilink")
   - [LG G4 Vigor](https://zh.wikipedia.org/wiki/LG_G4_Vigor "wikilink")
-  - [LG G5](https://zh.wikipedia.org/wiki/LG_G5 "wikilink")
+  - [LG G5](../Page/LG_G5.md "wikilink")
   - [LG G5 SE](https://zh.wikipedia.org/wiki/LG_G5_SE "wikilink")
   - [LG G5 Speed](https://zh.wikipedia.org/wiki/LG_G5_Speed "wikilink")
-  - [LG G6](https://zh.wikipedia.org/wiki/LG_G6 "wikilink")
+  - [LG G6](../Page/LG_G6.md "wikilink")
   - [LG G6 Plus](https://zh.wikipedia.org/wiki/LG_G6_Plus "wikilink")
-  - [LG G7 ThinQ](https://zh.wikipedia.org/wiki/LG_G7_ThinQ "wikilink")
+  - [LG G7 ThinQ](../Page/LG_G7_ThinQ.md "wikilink")
 
 ### 平板電腦
 
@@ -84,8 +84,7 @@ Optimus系列](https://zh.wikipedia.org/wiki/LG_Optimus "wikilink")。
 ### 手錶
 
   - [LG G Watch](../Page/LG_G_Watch.md "wikilink")
-  - [LG G Watch
-    R](https://zh.wikipedia.org/wiki/LG_G_Watch_R "wikilink")
+  - [LG G Watch R](../Page/LG_G_Watch_R.md "wikilink")
 
 ## 參考連結
 

@@ -12,7 +12,7 @@
 ## 参见
 
   - [专利池](https://zh.wikipedia.org/wiki/专利池 "wikilink")
-  - [MPEG LA](https://zh.wikipedia.org/wiki/MPEG_LA "wikilink")
+  - [MPEG LA](../Page/MPEG_LA.md "wikilink")
 
 ## 参考资料
 

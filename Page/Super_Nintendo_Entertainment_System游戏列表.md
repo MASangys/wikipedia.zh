@@ -81,7 +81,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>ActRaiser</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雷莎出击" title="wikilink">雷莎出击</a></p></td>
+<td><p><a href="../Page/雷莎出击.md" title="wikilink">雷莎出击</a></p></td>
 <td><p>1991-11-01</p></td>
 <td><p>Quintet</p></td>
 <td><p>Enix</p></td>
@@ -2942,7 +2942,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Mega Man 7</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛克人7_宿命的對決！" title="wikilink">洛克人7 宿命的對決！</a></p></td>
+<td><p><a href="../Page/洛克人7_宿命的對決！.md" title="wikilink">洛克人7 宿命的對決！</a></p></td>
 <td><p>1995-09-30</p></td>
 <td><p>Capcom</p></td>
 <td><p>Capcom</p></td>
@@ -2974,7 +2974,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Mega Man X3</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛克人X3" title="wikilink">洛克人X3</a></p></td>
+<td><p><a href="../Page/洛克人X3.md" title="wikilink">洛克人X3</a></p></td>
 <td><p>1996-01-04</p></td>
 <td><p>Capcom</p></td>
 <td><p>Capcom</p></td>
@@ -3255,7 +3255,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><em>NBA Live 95</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/勁爆美國職籃95" title="wikilink">勁爆美國職籃95</a></p></td>
+<td><p><a href="../Page/勁爆美國職籃95.md" title="wikilink">勁爆美國職籃95</a></p></td>
 <td><p>1994</p></td>
 <td><p>Electronic Arts</p></td>
 <td><p>EA Sports</p></td>
@@ -4184,7 +4184,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Romance of the Three Kingdoms II</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三國志II" title="wikilink">三國志II</a></p></td>
+<td><p><a href="../Page/三國志II.md" title="wikilink">三國志II</a></p></td>
 <td><p>1992-05-01</p></td>
 <td><p>Koei</p></td>
 <td><p>Koei</p></td>
@@ -4192,7 +4192,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="odd">
 <td><p><em>Romance of the Three Kingdoms III: Dragon of Destiny</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三國志III" title="wikilink">三國志III</a></p></td>
+<td><p><a href="../Page/三國志III.md" title="wikilink">三國志III</a></p></td>
 <td><p>1993-12-01</p></td>
 <td><p>Koei</p></td>
 <td><p>Koei</p></td>
@@ -4200,7 +4200,7 @@ System官方发行的784款游戏，其中251款北美独占，63款欧洲独占
 </tr>
 <tr class="even">
 <td><p><em>Romance of the Three Kingdoms IV: Wall of Fire</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三國志IV" title="wikilink">三國志IV</a></p></td>
+<td><p><a href="../Page/三國志IV.md" title="wikilink">三國志IV</a></p></td>
 <td><p>1995-07-01</p></td>
 <td><p>Koei</p></td>
 <td><p>Koei</p></td>

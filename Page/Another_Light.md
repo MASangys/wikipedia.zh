@@ -1,6 +1,6 @@
 《**ANOTHER
 LIGHT**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[水晶男孩第五張正規專輯](../Page/水晶男孩.md "wikilink")，由[YG娛樂製作](../Page/YG娛樂.md "wikilink")、[Genie音樂發行](../Page/Genie音樂.md "wikilink")，於2017年9月21日下午6時（[KST](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）通過各大數位音樂網站公開線上音源，實體專輯則於9月22日以兩種版本發售。專輯為[水晶男孩自](../Page/水晶男孩.md "wikilink")1999年9月7日發行第四張正規專輯《[Com'
-Back](https://zh.wikipedia.org/wiki/Com'_Back "wikilink")》後\[1\]，時隔18年推出的正規專輯，亦是[水晶男孩加入](../Page/水晶男孩.md "wikilink")[YG娛樂後首張正規專輯](../Page/YG娛樂.md "wikilink")。專輯收錄雙主打歌〈SOMETHING
+Back](../Page/Com'_Back.md "wikilink")》後\[1\]，時隔18年推出的正規專輯，亦是[水晶男孩加入](../Page/水晶男孩.md "wikilink")[YG娛樂後首張正規專輯](../Page/YG娛樂.md "wikilink")。專輯收錄雙主打歌〈SOMETHING
 SPECIAL〉與〈SMILE〉，以及七首新曲，其中〈BACK
 HUG〉由成員[殷志源親自參與歌詞創作](https://zh.wikipedia.org/wiki/殷志源 "wikilink")。
 
@@ -12,7 +12,7 @@ V
 Live進行直播節目，期間透露了新專輯相關信息\[2\]。成員們提及已在錄製新曲，以下半年回歸為目標準備著新專輯\[3\]，並預計在二十週年紀念演唱會上公開新曲舞台。
 
 8月30日，[韓國媒體報導水晶男孩在](https://zh.wikipedia.org/wiki/韓國 "wikilink")[京畿道某處開始拍攝兩首新曲的音樂錄影帶](../Page/京畿道.md "wikilink")，並已確定將於9月回歸\[4\]。9月4日，[YG娛樂正式宣佈水晶男孩將於同月](../Page/YG娛樂.md "wikilink")21日發表第五張正規專輯\[5\]，為組合自1999年9月7日發行第四張正規專輯《[Com'
-Back](https://zh.wikipedia.org/wiki/Com'_Back "wikilink")》後\[6\]，時隔18年推出的正規專輯。由於水晶男孩原訂於2000年6月發行正規五輯\[7\]，惟組合於當年5月宣佈解散\[8\]，因此這張17年後推出的正規專輯對水晶男孩及粉絲YELLOWKIES而言意義非凡。
+Back](../Page/Com'_Back.md "wikilink")》後\[6\]，時隔18年推出的正規專輯。由於水晶男孩原訂於2000年6月發行正規五輯\[7\]，惟組合於當年5月宣佈解散\[8\]，因此這張17年後推出的正規專輯對水晶男孩及粉絲YELLOWKIES而言意義非凡。
 
 ## 專輯概念
 

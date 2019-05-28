@@ -1,4 +1,4 @@
-《**ULTRAMAN-超人再現-**》是[清水榮一原作](https://zh.wikipedia.org/wiki/清水榮一 "wikilink")，[下口智裕繪畫的](https://zh.wikipedia.org/wiki/下口智裕 "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，是[圓谷製作](../Page/圓谷製作.md "wikilink")1966年的[超人力霸王系列始祖初代超人的續篇漫畫](../Page/超人力霸王系列.md "wikilink")，[小學館出版](../Page/小學館.md "wikilink")，2011年12月開始在《[月刊Hero's](../Page/月刊Hero's.md "wikilink")》創刊號連載\[1\]。
+《**ULTRAMAN-超人再現-**》是[清水榮一原作](../Page/清水榮一.md "wikilink")，[下口智裕繪畫的](../Page/下口智裕.md "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")，是[圓谷製作](../Page/圓谷製作.md "wikilink")1966年的[超人力霸王系列始祖初代超人的續篇漫畫](../Page/超人力霸王系列.md "wikilink")，[小學館出版](../Page/小學館.md "wikilink")，2011年12月開始在《[月刊Hero's](../Page/月刊Hero's.md "wikilink")》創刊號連載\[1\]。
 
 漫画于2017年被制作为有声漫画公开，并于2019年動畫化。
 
@@ -181,7 +181,7 @@
 
 ### 制作
 
-  - 原作：[圓谷製作](../Page/圓谷製作.md "wikilink")、[清水榮一](https://zh.wikipedia.org/wiki/清水榮一 "wikilink")、[下口智裕](https://zh.wikipedia.org/wiki/下口智裕 "wikilink")\[3\]
+  - 原作：[圓谷製作](../Page/圓谷製作.md "wikilink")、[清水榮一](../Page/清水榮一.md "wikilink")、[下口智裕](../Page/下口智裕.md "wikilink")\[3\]
   - 导演：[神山健治](../Page/神山健治.md "wikilink")、[荒牧伸志](../Page/荒牧伸志.md "wikilink")
   - 音乐：户田信子、陣内一真
   - 制作：[Production I.G](../Page/Production_I.G.md "wikilink")、SOLA

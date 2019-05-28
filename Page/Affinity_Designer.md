@@ -19,7 +19,7 @@ Illustrator的文件](../Page/Adobe_Illustrator.md "wikilink")，它也能导出
   - [Adobe Photoshop](../Page/Adobe_Photoshop.md "wikilink")
   - [Adobe Illustrator](../Page/Adobe_Illustrator.md "wikilink")
   - [Adobe Experience
-    Design](https://zh.wikipedia.org/wiki/Adobe_Experience_Design "wikilink")
+    Design](../Page/Adobe_Experience_Design.md "wikilink")
 
 ## 参考
 

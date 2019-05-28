@@ -3,7 +3,7 @@ One**》（），是日本特攝節目《[假面騎士Build](../Page/假面騎�
 
 此外《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》的作品《[快盜戰隊魯邦連者VS警察戰隊巡邏連者](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者.md "wikilink")》劇場版《[快盜戰隊魯邦連者VS警察戰隊巡邏連者
 en
-film](https://zh.wikipedia.org/wiki/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film "wikilink")》亦同步上映\[3\]\[4\]。
+film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wikilink")》亦同步上映\[3\]\[4\]。
 
 本作劇場版的口號為「來吧！最後的實驗要開始了！」「創造未來，只有一個答案。」
 

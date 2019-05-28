@@ -28,8 +28,7 @@ Hanokage曾在自己的個人網站日記（2010年12月27日）表示玩過《[
 
 ## 遊戲
 
-  - [魔法紀錄
-    魔法少女小圓外傳](https://zh.wikipedia.org/wiki/魔法紀錄_魔法少女小圓外傳 "wikilink")（2017年－2018年）
+  - [魔法紀錄 魔法少女小圓外傳](../Page/魔法紀錄_魔法少女小圓外傳.md "wikilink")（2017年－2018年）
       - 人物設定（相野美都、伊吹麗良、桑水清佳）
       - 部分記憶結晶插圖畫家
 
@@ -40,7 +39,7 @@ Hanokage曾在自己的個人網站日記（2010年12月27日）表示玩過《[
   - [純白交響曲 -The color of
     lovers-](https://zh.wikipedia.org/wiki/純白交響曲#各集標題 "wikilink")（第1話片尾插圖）
   - [櫻Trick](../Page/櫻Trick.md "wikilink")（第10話片尾插圖）
-  - [幸腹塗鴉](https://zh.wikipedia.org/wiki/幸腹塗鴉 "wikilink")（第8話片尾插圖）
+  - [幸腹塗鴉](../Page/幸腹塗鴉.md "wikilink")（第8話片尾插圖）
   - [Anne Happy♪](../Page/Anne_Happy_♪.md "wikilink")（第10話片尾插圖）
 
 ### 其它

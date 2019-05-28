@@ -346,7 +346,7 @@ a Boo」所盯上，在其社團學長時田信治和壽龍次郎的慫恿下，
   - 編輯：宇都宮正記
   - 音響製作：Saber Links
   - 音樂：manual of errors artists
-  - 動畫製作：[ZERO-G](https://zh.wikipedia.org/wiki/ZERO-G "wikilink")
+  - 動畫製作：[ZERO-G](../Page/ZERO-G.md "wikilink")
 
 ### 主題曲
 
@@ -354,10 +354,9 @@ a Boo」所盯上，在其社團學長時田信治和壽龍次郎的慫恿下，
     作詞、作曲、主唱：[湘南乃風](https://zh.wikipedia.org/wiki/湘南乃風 "wikilink")，編曲：湘南乃風、STAND
     ALONE
   - 片尾曲「」
-    作詞：[藤永龍太郎](https://zh.wikipedia.org/wiki/藤永龍太郎 "wikilink")
-    ([Elements
-    Garden](../Page/Elements_Garden.md "wikilink"))，作曲、編曲：末益涼太
-    (Elements Garden)
+    作詞：[藤永龍太郎](../Page/藤永龍太郎.md "wikilink") ([Elements
+    Garden](../Page/Elements_Garden.md "wikilink"))，作曲、編曲：末益涼太 (Elements
+    Garden)
       - （第1～10話）
         主唱：伊豆乃風（伊織：[内田雄馬](https://zh.wikipedia.org/wiki/内田雄馬 "wikilink")／耕平：[木村良平](../Page/木村良平.md "wikilink")／時田：[安元洋貴](../Page/安元洋貴.md "wikilink")／寿：[小西克幸](../Page/小西克幸.md "wikilink")）
       - （第11話）
@@ -433,7 +432,7 @@ a Boo」所盯上，在其社團學長時田信治和壽龍次郎的慫恿下，
 <td><p>第5話</p></td>
 <td></td>
 <td><p>馬後炮</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高本宣弘" title="wikilink">高本宣弘</a>[40]</p></td>
+<td><p><a href="../Page/高本宣弘.md" title="wikilink">高本宣弘</a>[40]</p></td>
 <td></td>
 <td><p>草間英興</p></td>
 <td><p>西田美弥子、原田峰文、志賀道憲<br />

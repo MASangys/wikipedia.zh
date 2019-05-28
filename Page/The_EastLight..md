@@ -67,7 +67,7 @@ Bieber](../Page/贾斯汀·比伯.md "wikilink")，亦指很感謝[姜丹尼爾]
 
 其於[PRODUCE 101 (第二季)中](../Page/PRODUCE_101_第二季.md "wikilink")，挑選了[Brand
 New
-Music的](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")[林煐岷為最勤奮的練習生](https://zh.wikipedia.org/wiki/林煐岷 "wikilink")。
+Music的](../Page/Brand_New_Music.md "wikilink")[林煐岷為最勤奮的練習生](../Page/林煐岷.md "wikilink")。
 
 ##### 排名
 

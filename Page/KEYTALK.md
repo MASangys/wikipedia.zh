@@ -789,7 +789,7 @@ VICL-64172</p></td>
 <li>虹 / </li>
 <li>Sunny Day Sunday / </li>
 <li>天文的夏休 / 夜明</li>
-<li><p>/ <a href="https://zh.wikipedia.org/wiki/Sambomaster" title="wikilink">Sambomaster</a></p></li>
+<li><p>/ <a href="../Page/Sambomaster.md" title="wikilink">Sambomaster</a></p></li>
 <li><p>/ </p></li>
 <li>SAD GIRL / </li>
 <li>想出 / 銀河鐵道</li>
@@ -875,7 +875,7 @@ VICL-64172</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>「<a href="https://zh.wikipedia.org/wiki/JR_Gate_Tower" title="wikilink">JR Gate Tower</a>」廣告歌曲</p></td>
+<td><p>「<a href="../Page/JR_Gate_Tower.md" title="wikilink">JR Gate Tower</a>」廣告歌曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -74,11 +74,11 @@ Zero和他的前者相比，下棋更像人类\[16\]。”中国职业棋手[柯
 
 ## 参考
 
-  - [AlphaZero](https://zh.wikipedia.org/wiki/AlphaZero "wikilink")
-  - [ELF OpenGo](https://zh.wikipedia.org/wiki/ELF_OpenGo "wikilink")
-  - [Leela Zero](https://zh.wikipedia.org/wiki/Leela_Zero "wikilink")
-  - [Minigo](https://zh.wikipedia.org/wiki/Minigo "wikilink")
-  - [PhoenixGo](https://zh.wikipedia.org/wiki/PhoenixGo "wikilink")
+  - [AlphaZero](../Page/AlphaZero.md "wikilink")
+  - [ELF OpenGo](../Page/ELF_OpenGo.md "wikilink")
+  - [Leela Zero](../Page/Leela_Zero.md "wikilink")
+  - [Minigo](../Page/Minigo.md "wikilink")
+  - [PhoenixGo](../Page/PhoenixGo.md "wikilink")
 
 ## 参考资料
 

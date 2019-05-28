@@ -3,10 +3,10 @@
 Entertainment旗下藝人的身份進行為期一年的活動](https://zh.wikipedia.org/wiki/YMC_Entertainment "wikilink")。節目最終回中公布團體名為
 **[I.O.I](../Page/I.O.I.md "wikilink")**（）。
 
-2017年，[Mnet決定制作](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")[第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")，改為新男團選拔／生存實境節目，並由[寶兒
+2017年，[Mnet決定制作](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")[第二季](../Page/PRODUCE_101_第二季.md "wikilink")，改為新男團選拔／生存實境節目，並由[寶兒
 (BoA)擔任國民製作人代表](../Page/寶兒.md "wikilink")\[1\]；2018年，Mnet与日本[AKB48
 Group合作推出](../Page/AKB48.md "wikilink")[PRODUCE
-48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")，進行共96位選手的女團選拔節目，並由[李昇基擔任國民製作人代表](../Page/李昇基.md "wikilink")；2019年，Mnet即將推出第四季名稱確定為[PRODUCE
+48](../Page/PRODUCE_48.md "wikilink")，進行共96位選手的女團選拔節目，並由[李昇基擔任國民製作人代表](../Page/李昇基.md "wikilink")；2019年，Mnet即將推出第四季名稱確定為[PRODUCE
 X101](https://zh.wikipedia.org/wiki/PRODUCE_X101 "wikilink")，本季重回男團選秀，並由[李棟旭擔任國民製作人代表](../Page/李棟旭.md "wikilink")。
 
 ## 比賽方式
@@ -30,7 +30,7 @@ ONE、Facebook和Twitter的帳號後，經由《PRODUCE
 
 <!-- end list -->
 
-  - Rap導師：[Cheetah](https://zh.wikipedia.org/wiki/Cheetah "wikilink")
+  - Rap導師：[Cheetah](../Page/Cheetah.md "wikilink")
 
 ## 成員
 
@@ -2513,7 +2513,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 <td><p>32</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a></p></td>
 <td><p>김청하</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/M&amp;H娛樂" title="wikilink">M&amp;H</a></p></td>
+<td><p><a href="../Page/M&amp;H娛樂.md" title="wikilink">M&amp;H</a></p></td>
 <td></td>
 <td></td>
 <td><p>37</p></td>
@@ -2637,7 +2637,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="even">
 <td><p>65</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韓慧里" title="wikilink">韓慧里</a></p></td>
+<td><p><a href="../Page/韓慧里.md" title="wikilink">韓慧里</a></p></td>
 <td><p>한혜리</p></td>
 <td><p><a href="../Page/明星帝國娛樂.md" title="wikilink">Star Empire</a></p></td>
 <td></td>
@@ -2665,7 +2665,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="even">
 <td><p>21</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/娜英" title="wikilink">金娜英</a></p></td>
+<td><p><a href="../Page/娜英.md" title="wikilink">金娜英</a></p></td>
 <td><p>김나영</p></td>
 <td><p><a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish</a></p></td>
 <td></td>
@@ -2707,7 +2707,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="odd">
 <td><p>62</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李海印" title="wikilink">李海印</a></p></td>
+<td><p><a href="../Page/李海印.md" title="wikilink">李海印</a></p></td>
 <td><p>이해인</p></td>
 <td><p>SS</p></td>
 <td></td>
@@ -2833,7 +2833,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="even">
 <td><p>55</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/施妍" title="wikilink">朴施妍</a></p></td>
+<td><p><a href="../Page/施妍.md" title="wikilink">朴施妍</a></p></td>
 <td><p>박시연</p></td>
 <td><p><a href="../Page/Pledis娛樂.md" title="wikilink">Pledis</a></p></td>
 <td></td>
@@ -2959,7 +2959,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 </tr>
 <tr class="odd">
 <td><p>49</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金珠娜" title="wikilink">金珠娜</a></p></td>
+<td><p><a href="../Page/金珠娜.md" title="wikilink">金珠娜</a></p></td>
 <td><p>김주나</p></td>
 <td><p><a href="../Page/Music_K娛樂.md" title="wikilink">Music K</a></p></td>
 <td></td>
@@ -3185,7 +3185,7 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 <td><p>33</p></td>
 <td><p>吴书晶</p></td>
 <td><p>오서정</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/M&amp;H娛樂" title="wikilink">M&amp;H</a></p></td>
+<td><p><a href="../Page/M&amp;H娛樂.md" title="wikilink">M&amp;H</a></p></td>
 <td></td>
 <td></td>
 <td><p>51</p></td>
@@ -4007,12 +4007,12 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 
 ### 演出
 
-| 日期          | 活動名稱                                                       | 地點    | 參加人員                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| ----------- | ---------------------------------------------------------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2016年1月10日  | [KBL](../Page/韓國籃球聯賽.md "wikilink") NBA全明星賽（KBL 프로농구 올스타전） | \-    | 全員（金荷允、任京荷、林孝宣、馬恩珍除外）                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 2016年3月26日  | 游擊演唱會                                                      | 大邱東城路 | 最終排名的前22名成員                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 2017年11月30日 | 2017 MAMA Japan                                            | 日本橫濱  | [金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")、[PRISTIN](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")（[林娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")、[周潔瓊](../Page/周潔瓊.md "wikilink")、朴施妍、金珉炅、姜京元、姜睿彬、鄭銀雨）、[Weki Meki](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")（[磪有情](../Page/磪有情.md "wikilink")、[金度延](../Page/金度延.md "wikilink")、鄭海琳、李書靜）、[李海印](https://zh.wikipedia.org/wiki/李海印 "wikilink")\[4\] |
-|             |                                                            |       |                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| 日期          | 活動名稱                                                       | 地點    | 參加人員                                                                                                                                                                                                                                                                                                                                                                                    |
+| ----------- | ---------------------------------------------------------- | ----- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2016年1月10日  | [KBL](../Page/韓國籃球聯賽.md "wikilink") NBA全明星賽（KBL 프로농구 올스타전） | \-    | 全員（金荷允、任京荷、林孝宣、馬恩珍除外）                                                                                                                                                                                                                                                                                                                                                                   |
+| 2016年3月26日  | 游擊演唱會                                                      | 大邱東城路 | 最終排名的前22名成員                                                                                                                                                                                                                                                                                                                                                                             |
+| 2017年11月30日 | 2017 MAMA Japan                                            | 日本橫濱  | [金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")、[PRISTIN](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")（[林娜榮](https://zh.wikipedia.org/wiki/林娜榮 "wikilink")、[周潔瓊](../Page/周潔瓊.md "wikilink")、朴施妍、金珉炅、姜京元、姜睿彬、鄭銀雨）、[Weki Meki](../Page/Weki_Meki.md "wikilink")（[磪有情](../Page/磪有情.md "wikilink")、[金度延](../Page/金度延.md "wikilink")、鄭海琳、李書靜）、[李海印](../Page/李海印.md "wikilink")\[4\] |
+|             |                                                            |       |                                                                                                                                                                                                                                                                                                                                                                                         |
 
 ## 收視率
 

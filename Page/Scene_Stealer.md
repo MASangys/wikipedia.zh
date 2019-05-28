@@ -1,5 +1,5 @@
 《**Scene Stealer-戲劇戰爭**》（韓語：씬스틸러-드라마
-전쟁）\[1\]\[2\]是韓國[SBS的綜藝節目](https://zh.wikipedia.org/wiki/SBS "wikilink")，由[鄭埻夏](../Page/鄭埻夏.md "wikilink")、[金信英](../Page/金信英.md "wikilink")、[金正泰](../Page/金正泰.md "wikilink")、[黃石正](https://zh.wikipedia.org/wiki/黃石正 "wikilink")、[朴修弘](../Page/朴修弘.md "wikilink")、[梁世炯](https://zh.wikipedia.org/wiki/梁世炯 "wikilink")、[姜藝媛](https://zh.wikipedia.org/wiki/姜藝媛 "wikilink")、[李奎翰](../Page/李奎翰.md "wikilink")、[李施彥](../Page/李施彥.md "wikilink")、[李準赫等人出演](../Page/李準赫.md "wikilink")，韓國頂級「Scene
+전쟁）\[1\]\[2\]是韓國[SBS的綜藝節目](https://zh.wikipedia.org/wiki/SBS "wikilink")，由[鄭埻夏](../Page/鄭埻夏.md "wikilink")、[金信英](../Page/金信英.md "wikilink")、[金正泰](../Page/金正泰.md "wikilink")、[黃石正](../Page/黃石正.md "wikilink")、[朴修弘](../Page/朴修弘.md "wikilink")、[梁世炯](../Page/梁世炯.md "wikilink")、[姜藝媛](https://zh.wikipedia.org/wiki/姜藝媛 "wikilink")、[李奎翰](../Page/李奎翰.md "wikilink")、[李施彥](../Page/李施彥.md "wikilink")、[李準赫等人出演](../Page/李準赫.md "wikilink")，韓國頂級「Scene
 Stealer」們所展開的演技對決節目，結合電視劇與實境綜藝節目。現場有100位VIP評審團（觀眾）及時進行評分，演員的目標是獲得越高票越好；另外節目初期時，同一電視劇中各隊有2次NG機會，當製作組判定目前電視劇為NG狀態時，可使用要NG機會與成員開作戰會議並調整演技方向，以利取得高分。第一季於2017年1月30日結束。
 
 ## 固定成員分隊
@@ -23,12 +23,12 @@ Stealer」們所展開的演技對決節目，結合電視劇與實境綜藝節�
 </tr>
 <tr class="even">
 <td><p>試播節目隊(Pilot隊)</p></td>
-<td><p><a href="../Page/鄭埻夏.md" title="wikilink">鄭埻夏</a>、<a href="../Page/金信英.md" title="wikilink">金信英</a>、<a href="../Page/金正泰.md" title="wikilink">金正泰</a>、<a href="https://zh.wikipedia.org/wiki/黃石正" title="wikilink">黃石正</a>、<a href="../Page/李準赫.md" title="wikilink">李準赫</a>。</p></td>
+<td><p><a href="../Page/鄭埻夏.md" title="wikilink">鄭埻夏</a>、<a href="../Page/金信英.md" title="wikilink">金信英</a>、<a href="../Page/金正泰.md" title="wikilink">金正泰</a>、<a href="../Page/黃石正.md" title="wikilink">黃石正</a>、<a href="../Page/李準赫.md" title="wikilink">李準赫</a>。</p></td>
 <td><p>此隊為試播集演出之成員。</p></td>
 </tr>
 <tr class="odd">
 <td><p>正式節目隊(Regular隊)</p></td>
-<td><p><a href="../Page/李奎翰.md" title="wikilink">李奎翰</a>、<a href="https://zh.wikipedia.org/wiki/姜藝媛" title="wikilink">強藝媛</a>、<a href="../Page/李準赫.md" title="wikilink">李準赫</a>、<a href="../Page/李施彥.md" title="wikilink">李施彥</a>、<a href="https://zh.wikipedia.org/wiki/梁世炯" title="wikilink">梁世炯</a>。</p></td>
+<td><p><a href="../Page/李奎翰.md" title="wikilink">李奎翰</a>、<a href="https://zh.wikipedia.org/wiki/姜藝媛" title="wikilink">強藝媛</a>、<a href="../Page/李準赫.md" title="wikilink">李準赫</a>、<a href="../Page/李施彥.md" title="wikilink">李施彥</a>、<a href="../Page/梁世炯.md" title="wikilink">梁世炯</a>。</p></td>
 <td><p>製作組於試播集後，決定於正式節目中增加的成員。</p></td>
 </tr>
 </tbody>
@@ -77,7 +77,7 @@ Stealer」們所展開的演技對決節目，結合電視劇與實境綜藝節�
 <td><p>2017年1月2日</p></td>
 <td><p><a href="../Page/朴修弘.md" title="wikilink">朴修弘</a>，MC的演技申告式。</p></td>
 <td><p><a href="../Page/許齡智.md" title="wikilink">許齡智特別出演</a>。<br />
-製作組特別為<a href="https://zh.wikipedia.org/wiki/黃石正" title="wikilink">黃石正的即興電視劇搭設</a>1930年代京城舞廳。</p></td>
+製作組特別為<a href="../Page/黃石正.md" title="wikilink">黃石正的即興電視劇搭設</a>1930年代京城舞廳。</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>

@@ -7,13 +7,13 @@ Entertainment](../Page/TMS娛樂.md "wikilink")）以及[日本日昇動畫（�
 
 1997年9月，旭Production為了擴展業務，於[東京都](../Page/東京都.md "wikilink")[澀谷區](../Page/澀谷區.md "wikilink")[原宿另外開設專門進行](../Page/原宿.md "wikilink")3DCGI製作的「數位工作室」\[3\]。1999年10月，旭Production進行總部搬遷時與數位工作室整合\[4\]。可是翌年2000年，數位工作室所屬的攝影監督梅田俊之等人選擇移籍至同樣從事攝影工作的另一家公司，因此旭Production在一時之間縮小公司規模。
 
-2000年代以後，旭Production開始廣泛積極地幫多家其他總承包商公司代工負責作畫、演出、背景美術、3DCGI、上色及製作，從此旭Production轉型成為動畫製作的公司。在那之後，旭Production以承包[三麗鷗角色的電視動畫](../Page/三麗鷗.md "wikilink")《》系列與《[甜點兔](https://zh.wikipedia.org/wiki/甜點兔 "wikilink")》等作品第一次挑戰獨立製作，建立了自家從作畫到背景製作的作業程序一致化。2006年，旭Production總部搬遷至[練馬區現址](https://zh.wikipedia.org/wiki/練馬區 "wikilink")，同時統合數位工作室、製作部門\[5\]。
+2000年代以後，旭Production開始廣泛積極地幫多家其他總承包商公司代工負責作畫、演出、背景美術、3DCGI、上色及製作，從此旭Production轉型成為動畫製作的公司。在那之後，旭Production以承包[三麗鷗角色的電視動畫](../Page/三麗鷗.md "wikilink")《》系列與《[甜點兔](../Page/甜點兔.md "wikilink")》等作品第一次挑戰獨立製作，建立了自家從作畫到背景製作的作業程序一致化。2006年，旭Production總部搬遷至[練馬區現址](https://zh.wikipedia.org/wiki/練馬區 "wikilink")，同時統合數位工作室、製作部門\[5\]。
 
 2010年4月，旭Production另外在[宮城縣](../Page/宮城縣.md "wikilink")[白石市的](../Page/白石市.md "wikilink")開設數位作畫工作室「宮城白石工作室」\[6\]。然後在可以聘請宮城縣民加入動畫製作團隊這部分的條件是由白石工作室所制定，以作為縣內的一環，並且與宮城縣代表吉祥物合同簽署之後，讓當地吉祥物可將其動畫的製作直接發包交給白石工作室製作。此後，白石工作室還製作過「[白石仙子](https://zh.wikipedia.org/wiki/白石仙子 "wikilink")（<small></small>）」等地方宣傳動畫。
 
 2011年，旭Production第一次以製作委員會的方式參加動畫公司[TYO動畫總承包電視動畫](https://zh.wikipedia.org/wiki/TYO動畫 "wikilink")《[幸福光暈](../Page/幸福光暈.md "wikilink")》等作品的製作，另外這也是旭Production第一次自家主動出資。另外一次是在2016年再度以製作委員會的方式參加動畫公司作品的製作（當然旭Production跟這2家公司沒有資本關係）。
 
-2014年播出的電視動畫《[偽姬物語](https://zh.wikipedia.org/wiki/偽姬物語 "wikilink")》是旭Production首度全面獨立製作的作品，在那之後陸續生產出《[我家浴室的現況](../Page/我家浴室的現況.md "wikilink")》、《[Million
+2014年播出的電視動畫《[偽姬物語](../Page/偽姬物語.md "wikilink")》是旭Production首度全面獨立製作的作品，在那之後陸續生產出《[我家浴室的現況](../Page/我家浴室的現況.md "wikilink")》、《[Million
 Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https://zh.wikipedia.org/wiki/溫泉幼精小箱根 "wikilink")》及《[麵包與和平！](../Page/麵包與和平！.md "wikilink")》等電視動畫作品。
 
 ## 作品列表
@@ -92,7 +92,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 </tr>
 <tr class="even">
 <td><p>2007年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/甜點兔" title="wikilink">甜點兔</a></p></td>
+<td><p><a href="../Page/甜點兔.md" title="wikilink">甜點兔</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -140,7 +140,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/偽姬物語" title="wikilink">偽姬物語</a></p></td>
+<td><p><a href="../Page/偽姬物語.md" title="wikilink">偽姬物語</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -188,7 +188,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/少年_你對群馬一無所知" title="wikilink">少年 你對群馬一無所知</a></p></td>
+<td><p><a href="../Page/少年_你對群馬一無所知.md" title="wikilink">少年 你對群馬一無所知</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -905,7 +905,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 <td><p>2014年</p></td>
 <td><p><a href="../Page/鬼燈的冷徹.md" title="wikilink">鬼燈的冷徹</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/WIT_STUDIO" title="wikilink">WIT STUDIO</a></p></td>
+<td><p><a href="../Page/WIT_STUDIO.md" title="wikilink">WIT STUDIO</a></p></td>
 <td><p>漫畫</p></td>
 <td></td>
 <td></td>
@@ -957,7 +957,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CROSSANGE_天使與龍的輪舞" title="wikilink">CROSSANGE 天使與龍的輪舞</a></p></td>
+<td><p><a href="../Page/CROSSANGE_天使與龍的輪舞.md" title="wikilink">CROSSANGE 天使與龍的輪舞</a></p></td>
 <td></td>
 <td><p>日昇動畫</p></td>
 <td><p>原創</p></td>
@@ -1248,7 +1248,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 <td><p>2013年</p></td>
 <td><p><a href="../Page/迷你偶像大師.md" title="wikilink">迷你偶像大師</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Gathering_(動畫製作公司)" title="wikilink">Gathering</a></p></td>
+<td><p><a href="../Page/Gathering_(動畫製作公司).md" title="wikilink">Gathering</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1561,7 +1561,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
   - [天雷爭霸：復仇者聯盟](../Page/天雷爭霸：復仇者聯盟.md "wikilink")（2014年－2015年）
 
   - [Baby Steps
-    ～網球優等生～](https://zh.wikipedia.org/wiki/Baby_Steps_~網球優等生~ "wikilink")（2014年－2015年）
+    ～網球優等生～](../Page/Baby_Steps_~網球優等生~.md "wikilink")（2014年－2015年）
 
   - （2014年－2015年）
 
@@ -1580,14 +1580,13 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [學戰都市Asterisk](../Page/學戰都市Asterisk.md "wikilink")（2015年－2016年）
 
-  - [我被抓到貴族女校當「庶民樣本」](https://zh.wikipedia.org/wiki/我被綁架到貴族女校當「庶民樣本」 "wikilink")（2015年）
+  - [我被抓到貴族女校當「庶民樣本」](../Page/我被綁架到貴族女校當「庶民樣本」.md "wikilink")（2015年）
 
   - （2015年－2016年）
 
-  - [虹色時光](https://zh.wikipedia.org/wiki/虹色時光 "wikilink")（2016年）
+  - [虹色時光](../Page/虹色時光.md "wikilink")（2016年）
 
-  - [美少女戰士Crystal Season
-    III](https://zh.wikipedia.org/wiki/美少女戰士Crystal "wikilink")（2016年）
+  - [美少女戰士Crystal Season III](../Page/美少女戰士Crystal.md "wikilink")（2016年）
 
   - [爆音少女\!\!](../Page/爆音少女！！.md "wikilink")（2016年）
 
@@ -1624,7 +1623,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 
   - [網路勝利組](../Page/網路勝利組.md "wikilink")（2017年）
 
-  - [異世界魔王與召喚少女的奴隸魔術](https://zh.wikipedia.org/wiki/異世界魔王與召喚少女的奴隸魔術 "wikilink")（2018年）
+  - [異世界魔王與召喚少女的奴隸魔術](../Page/異世界魔王與召喚少女的奴隸魔術.md "wikilink")（2018年）
 
   - [Star☆Twinkle
     光之美少女](../Page/Star☆Twinkle_光之美少女.md "wikilink")（2019年）

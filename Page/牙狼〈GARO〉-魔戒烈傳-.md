@@ -127,7 +127,7 @@
 
 <!-- end list -->
 
-  - **尤娜**（[小島梨里杏](https://zh.wikipedia.org/wiki/小島梨里杏 "wikilink") 飾）
+  - **尤娜**（[小島梨里杏](../Page/小島梨里杏.md "wikilink") 飾）
 
 <!-- end list -->
 

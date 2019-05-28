@@ -177,7 +177,7 @@ indecency）视为有罪。独立后的[马来亚联合邦和后来的马来西�
 <!-- end list -->
 
   - 2012年3月21日，士基央国会议员Baharum
-    Mohamed在[马来西亚国会](../Page/马来西亚国会.md "wikilink")[下议院呼吁政府应当禁止有关LGBT的一切集会和出版物](https://zh.wikipedia.org/wiki/马来西亚下议院 "wikilink")，并设立「同性恋治疗中心」以阻止同性恋事件继续发生。此言论随后被马来西亚媒体「[当今大马](https://zh.wikipedia.org/wiki/当今大马 "wikilink")」报导并谴责。[当今大马指出](https://zh.wikipedia.org/wiki/当今大马 "wikilink")[世界卫生组织于](../Page/世界卫生组织.md "wikilink")1990年5月17日将同性恋从精神病名册中除名，事隔22年后在马来西亚竟然仍有人会说出「同性恋需要治疗」此等言论。\[15\]
+    Mohamed在[马来西亚国会](../Page/马来西亚国会.md "wikilink")[下议院呼吁政府应当禁止有关LGBT的一切集会和出版物](https://zh.wikipedia.org/wiki/马来西亚下议院 "wikilink")，并设立「同性恋治疗中心」以阻止同性恋事件继续发生。此言论随后被马来西亚媒体「[当今大马](../Page/当今大马.md "wikilink")」报导并谴责。[当今大马指出](../Page/当今大马.md "wikilink")[世界卫生组织于](../Page/世界卫生组织.md "wikilink")1990年5月17日将同性恋从精神病名册中除名，事隔22年后在马来西亚竟然仍有人会说出「同性恋需要治疗」此等言论。\[15\]
 
 <!-- end list -->
 
@@ -209,7 +209,7 @@ indecency）视为有罪。独立后的[马来亚联合邦和后来的马来西�
 
 <!-- end list -->
 
-  - 2018年7月9日，[第14届马来西亚全国大选结束后](https://zh.wikipedia.org/wiki/2018年马来西亚大选 "wikilink")，[努曼因其性倾向受争议而宣布辞去](https://zh.wikipedia.org/wiki/努曼 "wikilink")[马来西亚青年与体育部](https://zh.wikipedia.org/wiki/马来西亚青年与体育部 "wikilink")（青体部）部长[赛沙迪的临时新闻官一职](https://zh.wikipedia.org/wiki/赛沙迪 "wikilink")。努曼受马来西亚媒体[星洲日报采访时表示](https://zh.wikipedia.org/wiki/星洲日报 "wikilink")[反对党的大量批评与威胁使他无法有效地完成任务](https://zh.wikipedia.org/wiki/马来西亚在野党 "wikilink")，因此之后也不会再接受来自青体部的任何官职。赛沙迪随后在[推特发表文告表示努曼永远都是他的兄弟](https://zh.wikipedia.org/wiki/推特 "wikilink")，不后悔当初坚持聘请他，也会尊重他做的任何决定。\[22\]7月14日，星洲日报作者庄敏刊登了一篇名为「新马来西亚，容不下努曼？」的文章。
+  - 2018年7月9日，[第14届马来西亚全国大选结束后](../Page/2018年马来西亚大选.md "wikilink")，[努曼因其性倾向受争议而宣布辞去](https://zh.wikipedia.org/wiki/努曼 "wikilink")[马来西亚青年与体育部](https://zh.wikipedia.org/wiki/马来西亚青年与体育部 "wikilink")（青体部）部长[赛沙迪的临时新闻官一职](https://zh.wikipedia.org/wiki/赛沙迪 "wikilink")。努曼受马来西亚媒体[星洲日报采访时表示](https://zh.wikipedia.org/wiki/星洲日报 "wikilink")[反对党的大量批评与威胁使他无法有效地完成任务](../Page/马来西亚在野党.md "wikilink")，因此之后也不会再接受来自青体部的任何官职。赛沙迪随后在[推特发表文告表示努曼永远都是他的兄弟](https://zh.wikipedia.org/wiki/推特 "wikilink")，不后悔当初坚持聘请他，也会尊重他做的任何决定。\[22\]7月14日，星洲日报作者庄敏刊登了一篇名为「新马来西亚，容不下努曼？」的文章。
 
 <!-- end list -->
 

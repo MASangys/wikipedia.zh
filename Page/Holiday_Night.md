@@ -5,7 +5,7 @@ Night〉以及〈Holiday〉為雙主打。
 ## 背景及製作
 
 《Holiday Night》包括十首不同種類的歌曲。其中一首單曲〈All
-Night〉，由曾經為〈[再次重逢的世界](../Page/再次重逢的世界.md "wikilink")〉執筆的[Kenzie製作](https://zh.wikipedia.org/wiki/Kenzie "wikilink")，而另一首單曲〈Holiday〉則由成員[徐玄參與創作歌詞](https://zh.wikipedia.org/wiki/徐玄 "wikilink")，同時她也參與了〈Sweet
+Night〉，由曾經為〈[再次重逢的世界](../Page/再次重逢的世界.md "wikilink")〉執筆的[Kenzie製作](../Page/Kenzie.md "wikilink")，而另一首單曲〈Holiday〉則由成員[徐玄參與創作歌詞](https://zh.wikipedia.org/wiki/徐玄 "wikilink")，同時她也參與了〈Sweet
 Talk〉的填詞\[1\]。另一首歌曲〈It's You〉則由成員[俞利填詞](../Page/俞利.md "wikilink")。
 
 ## 發行與宣傳
@@ -134,7 +134,7 @@ to Remember」\[5\]。
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯週榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯週榜</a></p></td>
 <td><p>2017年8月6－12日</p></td>
 <td><p>#2</p></td>
 <td><p>[18]</p></td>

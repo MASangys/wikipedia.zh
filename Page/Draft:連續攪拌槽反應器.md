@@ -1,6 +1,6 @@
 [Continuous_bach_reactor_CSTR.svg](https://zh.wikipedia.org/wiki/File:Continuous_bach_reactor_CSTR.svg "fig:Continuous_bach_reactor_CSTR.svg")
 **連續攪拌槽反應器**（，簡稱**CSTR**），也可以稱作**vat-reactor**或是**backmix
-reactor**，是[化學工程中一個常見的](https://zh.wikipedia.org/wiki/化學工程 "wikilink")[化學反應器模型](https://zh.wikipedia.org/wiki/化學反應器 "wikilink")。CSTR通常是指在使用continuous
+reactor**，是[化學工程中一個常見的](https://zh.wikipedia.org/wiki/化學工程 "wikilink")[化學反應器模型](../Page/化學反應器.md "wikilink")。CSTR通常是指在使用continuous
 agitated-tank reactor要達到指定出料條件時用來估計關鍵操作變數的模型
 。該數學模型適用於所有[流体](https://zh.wikipedia.org/wiki/流体 "wikilink")：液體、氣體和漿體。
 

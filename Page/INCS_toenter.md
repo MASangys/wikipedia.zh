@@ -78,7 +78,7 @@ Records」\[1\]。
   - [野田哲郎](https://zh.wikipedia.org/wiki/野田哲郎 "wikilink")（現由[Rush
     Style提供窗口業務](https://zh.wikipedia.org/wiki/Rush_Style "wikilink")\[6\]）
 
-  - [澤城千春](https://zh.wikipedia.org/wiki/澤城千春 "wikilink")（事業合作結束\[7\]）
+  - [澤城千春](../Page/澤城千春.md "wikilink")（事業合作結束\[7\]）
 
 ## 參考資料
 

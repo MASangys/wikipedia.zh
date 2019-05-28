@@ -1,5 +1,5 @@
 《**心意告示牌**》（Kokoro No
-Placard）是[印尼女子偶像團體](https://zh.wikipedia.org/wiki/印尼 "wikilink")[JKT48的第](../Page/JKT48.md "wikilink")7張[單曲唱片](https://zh.wikipedia.org/wiki/單曲 "wikilink")。单曲於2014年8月27日由發行。此唱片的主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《心意告示牌》實際上就是姊妹團體[AKB48的第](../Page/AKB48.md "wikilink")37首單曲《[心意告示牌](https://zh.wikipedia.org/wiki/心意告示牌 "wikilink")》（），只是將歌詞從[日文翻譯成](https://zh.wikipedia.org/wiki/日文 "wikilink")[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")，並盡量保持與日文版本接近的意思。
+Placard）是[印尼女子偶像團體](https://zh.wikipedia.org/wiki/印尼 "wikilink")[JKT48的第](../Page/JKT48.md "wikilink")7張[單曲唱片](https://zh.wikipedia.org/wiki/單曲 "wikilink")。单曲於2014年8月27日由發行。此唱片的主打[A面曲](https://zh.wikipedia.org/wiki/A面曲 "wikilink")《心意告示牌》實際上就是姊妹團體[AKB48的第](../Page/AKB48.md "wikilink")37首單曲《[心意告示牌](../Page/心意告示牌.md "wikilink")》（），只是將歌詞從[日文翻譯成](https://zh.wikipedia.org/wiki/日文 "wikilink")[印度尼西亞語](https://zh.wikipedia.org/wiki/印度尼西亞語 "wikilink")，並盡量保持與日文版本接近的意思。
 
 ## 概要
 
@@ -18,7 +18,7 @@ Team A的歌曲《與核桃對話》（），AKB48的歌曲《Lucky Seven》（�
 1.  **Kokoro No Placard**（Papan Penanda Isi Hati）
       -
         （日文原版作詞：[秋元康](../Page/秋元康.md "wikilink")、作曲：板垣祐介、編曲：武藤星児）
-        原曲收录于AKB48第37张单曲《[心意告示牌](https://zh.wikipedia.org/wiki/心意告示牌 "wikilink")》。
+        原曲收录于AKB48第37张单曲《[心意告示牌](../Page/心意告示牌.md "wikilink")》。
 2.  **Kurumi to Dialogue**（Dialog Dengan Kenari）- Team J
       -
         （日文原版作詞：秋元康、作曲：PJ、編曲：武藤星児）

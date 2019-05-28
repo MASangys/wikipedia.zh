@@ -56,10 +56,9 @@ Laravel與[Symfony](../Page/Symfony.md "wikilink")、[Zend](../Page/Zend引擎.m
 <!-- end list -->
 
   - Laravel 5.1
-    2015年6月發佈，是 Laravel 的第一個
-    [長期支援版本（LTS）](https://zh.wikipedia.org/wiki/長期支援 "wikilink")
-    ，並計畫提供兩年的 [錯誤修正](https://zh.wikipedia.org/wiki/修補程式 "wikilink") 和三年的
-    [安全性更新](https://zh.wikipedia.org/wiki/修補程式 "wikilink") 。
+    2015年6月發佈，是 Laravel 的第一個 [長期支援版本（LTS）](../Page/長期支援.md "wikilink")
+    ，並計畫提供兩年的 [錯誤修正](https://zh.wikipedia.org/wiki/修補程式 "wikilink")
+    和三年的 [安全性更新](https://zh.wikipedia.org/wiki/修補程式 "wikilink") 。
     同時也預計未來每兩年會發佈一次新的 LTS 版本。\[15\]
 
 <!-- end list -->

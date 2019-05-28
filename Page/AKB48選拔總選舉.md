@@ -29,7 +29,7 @@ AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團日本�
 <td><p><a href="../Page/赤坂BLITZ.md" title="wikilink">赤坂BLITZ</a><br />
 （<a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/港區_(東京都).md" title="wikilink">港區</a>）</p></td>
 <td><p><a href="../Page/戶賀崎智信.md" title="wikilink">戶賀崎智信</a><br />
-<a href="https://zh.wikipedia.org/wiki/茅野忍" title="wikilink">茅野忍</a></p></td>
+<a href="../Page/茅野忍.md" title="wikilink">茅野忍</a></p></td>
 <td><p><a href="../Page/前田敦子.md" title="wikilink">前田敦子</a><br />
 （1／3,489票）</p></td>
 <td><p><a href="../Page/Maybe是藉口.md" title="wikilink">Maybe是藉口</a></p></td>
@@ -92,7 +92,7 @@ AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團日本�
 （東京都<a href="../Page/調布市.md" title="wikilink">調布市</a>）</p></td>
 <td><p><a href="../Page/渡邊麻友.md" title="wikilink">渡邊麻友</a><br />
 （1／159,854票）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/心意告示牌" title="wikilink">心意告示牌</a></p></td>
+<td><p><a href="../Page/心意告示牌.md" title="wikilink">心意告示牌</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -128,7 +128,7 @@ AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團日本�
 （<a href="../Page/沖繩縣.md" title="wikilink">沖繩縣</a><a href="../Page/豐見城市.md" title="wikilink">豐見城市</a>）</p></td>
 <td><p>指原莉乃<br />
 （4／246,376票）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/＃就是喜歡你" title="wikilink">#就是喜歡你</a></p></td>
+<td><p><a href="../Page/＃就是喜歡你.md" title="wikilink">#就是喜歡你</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -168,10 +168,9 @@ AKB48選拔總選舉雖以AKB48為名，參選者實際上為[AKB48集團日本�
 
 :\*\* 第8屆：[不需要翅膀](../Page/不需要翅膀.md "wikilink")
 
-:\*\* 第9屆：[空有願望](https://zh.wikipedia.org/wiki/空有願望 "wikilink")
+:\*\* 第9屆：[空有願望](../Page/空有願望.md "wikilink")
 
-:\*\* 第10屆：[Teacher
-Teacher](https://zh.wikipedia.org/wiki/Teacher_Teacher "wikilink")
+:\*\* 第10屆：[Teacher Teacher](../Page/Teacher_Teacher.md "wikilink")
 
 ::
 此外，第1－2屆限制僅購入普通盤、第3－4屆限制僅購入普通盤與初回限定盤的CD版本才可投票。第5屆起則為單曲CD所有版本的購入者均可投票。而在第10届，由于选举冠以“世界”名号，往年并无投票权的单曲台压盘也首度给与投票资格\[5\]。
@@ -235,7 +234,7 @@ zh-tw:吃到飽;}-制服務會員
 
 原則上，**[SDN48以外的日本國內](../Page/SDN48.md "wikilink")[AKB48集團全部成員](../Page/AKB48集團.md "wikilink")**均具有被選舉權。第4屆以前排除已預定[畢業之成員的參選資格](../Page/畢業_\(演藝界\).md "wikilink")，第5屆起導入「[報名制](https://zh.wikipedia.org/wiki/#報名制 "wikilink")」之後，允許已預定畢業者報名參選（第6屆除外\[6\]），沒有宣布畢業的成員也可選擇不參選。通常有報名參選資格的成員，為該屆總選舉公告日時在籍者，但有兩屆將總選舉公告日之後才加入的成員以特例允許參選，分別為第6屆的[AKB48
 Team
-8](https://zh.wikipedia.org/wiki/AKB48_Team_8 "wikilink")、以及第9屆的[STU48一期生](https://zh.wikipedia.org/wiki/STU48 "wikilink")\[7\]\[8\]。另外，第5屆特別允許有4年以上在籍經驗的畢業成員報名參選\[9\]。
+8](https://zh.wikipedia.org/wiki/AKB48_Team_8 "wikilink")、以及第9屆的[STU48一期生](../Page/STU48.md "wikilink")\[7\]\[8\]。另外，第5屆特別允許有4年以上在籍經驗的畢業成員報名參選\[9\]。
 
 關於AKB48集團海外（日本以外）各團成員的參選狀況，第9屆以前僅允許從AKB48移籍海外各團的成員報名參選，第10屆則首度開放海外各團的所有成員報名參選\[10\]\[11\]。
 
@@ -668,7 +667,7 @@ Girls」這個名稱之後由《[週刊Playboy](../Page/週刊Playboy.md "wikili
 
 ## 開票活動轉播
 
-AKB48選拔總選舉的開票活動，曾透過[電影院](../Page/電影院.md "wikilink")、[地面電視](../Page/地面電視.md "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")）、[衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")（）、[網路串流等](https://zh.wikipedia.org/wiki/網路直播 "wikilink")4種媒體平台進行[現場直播](../Page/現場直播.md "wikilink")。
+AKB48選拔總選舉的開票活動，曾透過[電影院](../Page/電影院.md "wikilink")、[地面電視](../Page/地面電視.md "wikilink")（[富士電視台](../Page/富士電視台.md "wikilink")）、[衛星電視](https://zh.wikipedia.org/wiki/衛星電視 "wikilink")（）、[網路串流等](../Page/網路直播.md "wikilink")4種媒體平台進行[現場直播](../Page/現場直播.md "wikilink")。
 
 第2届与第3届时，于电影院进行了银幕直播。自2012年的第4届起由富士电视台以《**AKB48（選拔）總選舉
 直播特別節目**》（）为题製播，并于[其联播网内播出](https://zh.wikipedia.org/wiki/富士电视网 "wikilink")。BS
@@ -772,7 +771,7 @@ PerfecTV\!在2014年的第6届时进行了全程直播\[38\]、但在2015年以�
 <td><p>AKB48 第4届选拔总选举直播特別节目<br />
 （）</p></td>
 <td><p>主持人：、<a href="https://zh.wikipedia.org/wiki/山﨑夕贵" title="wikilink">山﨑夕贵</a><br />
-嘉宾：<a href="../Page/前田敦子.md" title="wikilink">前田敦子</a>、<a href="https://zh.wikipedia.org/wiki/關根勤" title="wikilink">關根勤</a>、<a href="../Page/山里亮太.md" title="wikilink">山里亮太</a>、<a href="../Page/茂木健一郎.md" title="wikilink">茂木健一郎</a><br />
+嘉宾：<a href="../Page/前田敦子.md" title="wikilink">前田敦子</a>、<a href="../Page/關根勤.md" title="wikilink">關根勤</a>、<a href="../Page/山里亮太.md" title="wikilink">山里亮太</a>、<a href="../Page/茂木健一郎.md" title="wikilink">茂木健一郎</a><br />
 武道館现场主播：</p></td>
 <td><p>18.7%</p></td>
 <td><p>28.0%[51]</p></td>
@@ -965,8 +964,8 @@ AKB48選拔總選舉博物館（）是一项与AKB48選拔總選舉相关的展�
 ## 関連項目
 
   -
-  - [第67回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第67回NHK紅白歌合戰 "wikilink")
-    - 該節目舉行仿效AKB48選拔總選舉的「AKB48 夢之紅白選拔」企劃活動。
+  - [第67回NHK紅白歌合戰](../Page/第67回NHK紅白歌合戰.md "wikilink") -
+    該節目舉行仿效AKB48選拔總選舉的「AKB48 夢之紅白選拔」企劃活動。
 
   - [AKB48公演列表](../Page/AKB48公演列表.md "wikilink") -
     收錄有AKB48「樂曲總選舉」之稱的「重溫時間」（）歌曲票選活動。

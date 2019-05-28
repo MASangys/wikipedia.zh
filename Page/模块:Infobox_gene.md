@@ -440,7 +440,7 @@ entrez_gene)
 `   end`
 `   homolo = string.gsub(homolo, ", $"," ") --remove comma from end`
 
-`   local genecards = "`[`GeneCards`](https://zh.wikipedia.org/wiki/GeneCards "wikilink")`".."："`
+`   local genecards = "`[`GeneCards`](../Page/GeneCards.md "wikilink")`".."："`
 `   genecards = genecards.."[`<https://www.genecards.org/cgi-bin/carddisp.pl?gene=>`"..gene_symbol.." "..gene_symbol.."] "`
 
 `   mgi_id = string.gsub(mgi_id, "%s", "")`
@@ -812,8 +812,7 @@ else category_chromosome = '' end
 `       category_chromosome = ""`
 `   end`
 
-local entrezTitle =
-"[Entrez](https://zh.wikipedia.org/wiki/Entrez "wikilink")"
+local entrezTitle = "[Entrez](../Page/Entrez.md "wikilink")"
 
 `   entrez_gene = string.gsub(entrez_gene, "%s", "")`
 `   local entrez_link = "n/a"`

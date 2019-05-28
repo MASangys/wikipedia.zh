@@ -4,7 +4,7 @@
 
 ### 質量與軌道
 
-OGLE-2007-BLG-349L(AB)b屬於[超級海王星](https://zh.wikipedia.org/wiki/超級海王星 "wikilink")，並且它的質量與半徑大於[海王星](../Page/海王星.md "wikilink")。其質量大約是80
+OGLE-2007-BLG-349L(AB)b屬於[超級海王星](../Page/超級海王星.md "wikilink")，並且它的質量與半徑大於[海王星](../Page/海王星.md "wikilink")。其質量大約是80
 \[4\]。OGLE-2007-BLG-349L(AB)b的質量接近[土星](../Page/土星.md "wikilink")，因此也被認為是[氣態巨行星](../Page/氣態巨行星.md "wikilink")。它的軌道距離聯星系統的質心約2.9天文單位，即環繞[聯星系統](../Page/聯星.md "wikilink")。
 
 ### 母恆星
@@ -21,7 +21,7 @@ OGLE-2007-BLG-349(AB)b
     Lensing Experiment，縮寫：OGLE）
   - [大熊座47b](../Page/大熊座47b.md "wikilink")
   - [OGLE-2005-BLG-390Lb](../Page/OGLE-2005-BLG-390Lb.md "wikilink")
-  - [OGLE-2006-BLG-109Lb](https://zh.wikipedia.org/wiki/OGLE-2006-BLG-109Lb "wikilink")
+  - [OGLE-2006-BLG-109Lb](../Page/OGLE-2006-BLG-109Lb.md "wikilink")
 
 ## 註釋
 

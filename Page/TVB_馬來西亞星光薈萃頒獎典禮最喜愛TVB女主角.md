@@ -869,17 +869,17 @@ AOD我的最爱颁奖典礼](https://zh.wikipedia.org/wiki/MY_AOD我的最爱颁
 </tr>
 <tr class="even">
 <td><p><a href="../Page/徐子珊.md" title="wikilink">徐子珊</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/以和為貴" title="wikilink">以和為貴</a></p></td>
+<td><p><a href="../Page/以和為貴.md" title="wikilink">以和為貴</a></p></td>
 <td><p>巫瑞薏</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/汪明荃.md" title="wikilink">汪明荃</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/華麗轉身" title="wikilink">華麗轉身</a></p></td>
+<td><p><a href="../Page/華麗轉身.md" title="wikilink">華麗轉身</a></p></td>
 <td><p>華芳凝</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/鍾嘉欣" title="wikilink">鍾嘉欣</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/華麗轉身" title="wikilink">華麗轉身</a></p></td>
+<td><p><a href="../Page/華麗轉身.md" title="wikilink">華麗轉身</a></p></td>
 <td><p>司徒迪迪</p></td>
 </tr>
 <tr class="odd">
@@ -923,7 +923,7 @@ AOD我的最爱颁奖典礼](https://zh.wikipedia.org/wiki/MY_AOD我的最爱颁
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2016" title="wikilink">2016年</a></strong><br />
+<td><p><strong><a href="../Page/TVB_馬來西亞星光薈萃頒獎典禮2016.md" title="wikilink">2016年</a></strong><br />
 <small>第13屆'''</small><br />
 </p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a> †</strong></p></td>
@@ -1002,7 +1002,7 @@ AOD我的最爱颁奖典礼](https://zh.wikipedia.org/wiki/MY_AOD我的最爱颁
 </table></td>
 </tr>
 <tr class="odd">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2017" title="wikilink">2017年</a><br />
+<td><p>'''<a href="../Page/TVB_馬來西亞星光薈萃頒獎典禮2017.md" title="wikilink">2017年</a><br />
 <small>第14屆</p></td>
 <td><p><strong><a href="../Page/宣萱.md" title="wikilink">宣萱</a> ‡</strong></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/不懂撒嬌的女人" title="wikilink">不懂撒嬌的女人</a></strong></p></td>
@@ -1113,7 +1113,7 @@ AOD我的最爱颁奖典礼](https://zh.wikipedia.org/wiki/MY_AOD我的最爱颁
 </tr>
 <tr class="even">
 <td><p><a href="../Page/蔡少芬.md" title="wikilink">蔡少芬</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/老表，畢業喇！" title="wikilink">老表，畢業喇！</a></p></td>
+<td><p><a href="../Page/老表，畢業喇！.md" title="wikilink">老表，畢業喇！</a></p></td>
 <td><p>張進強</p></td>
 </tr>
 </tbody>

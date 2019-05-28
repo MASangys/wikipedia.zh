@@ -1,4 +1,4 @@
-《**Marionette**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Stellar的首張](https://zh.wikipedia.org/wiki/Stellar "wikilink")[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，由Top
+《**Marionette**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Stellar的首張](../Page/Stellar.md "wikilink")[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，由Top
 Class Entertainment於2014年2月12日發行。\[1\]
 
 ## 發行與宣傳

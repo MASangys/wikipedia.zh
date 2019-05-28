@@ -1,4 +1,4 @@
-《**TMD天堂**》（），2017年[中視電視電影](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")，由[廖慧珍](https://zh.wikipedia.org/wiki/廖慧珍 "wikilink")、[藍葦華](../Page/藍葦華.md "wikilink")、[謝飛](https://zh.wikipedia.org/wiki/謝飛_\(童星\) "wikilink")、[陳天霖](https://zh.wikipedia.org/wiki/陳天霖 "wikilink")、[葳薾森](https://zh.wikipedia.org/wiki/葳薾森 "wikilink")、[蔡明修領銜主演](../Page/蔡明修.md "wikilink")。\[1\]\[2\][中視主頻於](../Page/中視_\(頻道\).md "wikilink")2017年4月21日上檔。本劇講述社工與社會低階層家庭的故事。\[3\]
+《**TMD天堂**》（），2017年[中視電視電影](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")，由[廖慧珍](../Page/廖慧珍.md "wikilink")、[藍葦華](../Page/藍葦華.md "wikilink")、[謝飛](https://zh.wikipedia.org/wiki/謝飛_\(童星\) "wikilink")、[陳天霖](https://zh.wikipedia.org/wiki/陳天霖 "wikilink")、[葳薾森](https://zh.wikipedia.org/wiki/葳薾森 "wikilink")、[蔡明修領銜主演](../Page/蔡明修.md "wikilink")。\[1\]\[2\][中視主頻於](../Page/中視_\(頻道\).md "wikilink")2017年4月21日上檔。本劇講述社工與社會低階層家庭的故事。\[3\]
 
 ## 播出時間
 
@@ -49,7 +49,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/廖慧珍" title="wikilink">廖慧珍</a></p></td>
+<p><a href="../Page/廖慧珍.md" title="wikilink">廖慧珍</a></p></td>
 <td><center>
 <p>青霞</p></td>
 <td></td>
@@ -130,7 +130,7 @@
 <tr class="odd">
 <td><p>2017</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第52屆金鐘獎" title="wikilink">第52屆金鐘獎</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘獎電視電影獎得獎列表" title="wikilink">電視電影獎</a></p></td>
+<td><p><a href="../Page/金鐘獎電視電影獎得獎列表.md" title="wikilink">電視電影獎</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -142,21 +142,21 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘獎迷你劇集／電視電影導演獎" title="wikilink">迷你劇集／電視電影導演獎</a></p></td>
+<td><p><a href="../Page/金鐘獎迷你劇集／電視電影導演獎.md" title="wikilink">迷你劇集／電視電影導演獎</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/練建宏" title="wikilink">練建宏</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘獎剪輯獎" title="wikilink">剪輯獎</a></p></td>
+<td><p><a href="../Page/金鐘獎剪輯獎.md" title="wikilink">剪輯獎</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/杜素鈴" title="wikilink">杜素鈴</a>、<a href="https://zh.wikipedia.org/wiki/楊恩昕" title="wikilink">楊恩昕</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘獎燈光獎" title="wikilink">燈光獎</a></p></td>
+<td><p><a href="../Page/金鐘獎燈光獎.md" title="wikilink">燈光獎</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/謝松銘" title="wikilink">謝松銘</a></p></td>
 <td></td>
 <td></td>

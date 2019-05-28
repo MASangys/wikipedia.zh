@@ -1,25 +1,25 @@
 《**Red
 Velvet媒體作品列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet歷年參與的影視作品](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")（電視劇、電影、綜藝節目、音樂劇、音樂錄影帶）、合作舞台等。
+Velvet歷年參與的影視作品](../Page/Red_Velvet.md "wikilink")（電視劇、電影、綜藝節目、音樂劇、音樂錄影帶）、合作舞台等。
 
 ## 影視作品
 
 ### 電視劇
 
-|       |                                                     |                                                                         |      |            |    |      |
-| ----- | --------------------------------------------------- | ----------------------------------------------------------------------- | ---- | ---------- | -- | ---- |
-| 年份    | 電視台／播映頻道                                            | 劇名                                                                      | 參與成員 | 角色         | 性質 | 集數   |
-| 2016年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》                                  | 全體   | Red Velvet | 客串 | 第16集 |
-| 2017年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[她愛上了我的謊](https://zh.wikipedia.org/wiki/她愛上了我的謊_\(韓國電視劇\) "wikilink")》 | Joy  | 尹素琳        | 主角 | 全劇   |
-| 2018年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[偉大的誘惑者](https://zh.wikipedia.org/wiki/偉大的誘惑者 "wikilink")》             | 殷泰熙  |            |    |      |
+|       |                                                     |                                                      |      |            |    |      |
+| ----- | --------------------------------------------------- | ---------------------------------------------------- | ---- | ---------- | -- | ---- |
+| 年份    | 電視台／播映頻道                                            | 劇名                                                   | 參與成員 | 角色         | 性質 | 集數   |
+| 2016年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | 《[太陽的後裔](../Page/太陽的後裔.md "wikilink")》               | 全體   | Red Velvet | 客串 | 第16集 |
+| 2017年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 《[她愛上了我的謊](../Page/她愛上了我的謊_\(韓國電視劇\).md "wikilink")》 | Joy  | 尹素琳        | 主角 | 全劇   |
+| 2018年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》             | 殷泰熙  |            |    |      |
 
 ### 網絡劇
 
-|       |                                                    |                                                                   |       |    |       |    |
-| ----- | -------------------------------------------------- | ----------------------------------------------------------------- | ----- | -- | ----- | -- |
-| 年份    | 電視台／播映頻道                                           | 劇名                                                                | 參與成員  | 角色 | 性質    | 集數 |
-| 2016年 | [Naver](../Page/Naver_\(公司\).md "wikilink") TVcast | 《[遊戲公司的女職員們](https://zh.wikipedia.org/wiki/遊戲公司的女職員們 "wikilink")》 | Irene | 雅凜 | 主角    | 全劇 |
-| 2017年 | 《Some男》                                            | Joy                                                               | Joy   | 客串 | 第7-8集 |    |
+|       |                                                    |                                                |       |    |       |    |
+| ----- | -------------------------------------------------- | ---------------------------------------------- | ----- | -- | ----- | -- |
+| 年份    | 電視台／播映頻道                                           | 劇名                                             | 參與成員  | 角色 | 性質    | 集數 |
+| 2016年 | [Naver](../Page/Naver_\(公司\).md "wikilink") TVcast | 《[遊戲公司的女職員們](../Page/遊戲公司的女職員們.md "wikilink")》 | Irene | 雅凜 | 主角    | 全劇 |
+| 2017年 | 《Some男》                                            | Joy                                            | Joy   | 客串 | 第7-8集 |    |
 
 ### 音樂劇
 
@@ -588,12 +588,12 @@ Velvet歷年參與的影視作品](https://zh.wikipedia.org/wiki/Red_Velvet "wik
 <td><p>2016年12月24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a>《KBS演藝大賞2016》</p></td>
 <td><p>Irene</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍擔任頒獎嘉賓</a></p></td>
+<td><p>與<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍擔任頒獎嘉賓</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年12月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a>《KBS歌謠大祝祭》</p></td>
-<td><p>特別MC，與<a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍共同主持</a></p></td>
+<td><p>特別MC，與<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍共同主持</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -626,13 +626,13 @@ Velvet歷年參與的影視作品](https://zh.wikipedia.org/wiki/Red_Velvet "wik
 <td><p>Music Bank World Tour in Singapore</p></td>
 <td><p>Irene</p></td>
 <td><p>2017年8月4日錄製<br />
-與<a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍共同主持</a></p></td>
+與<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍共同主持</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年9月30日</p></td>
 <td><p>Music Bank World Tour in Jakarta</p></td>
 <td><p>2017年9月2日錄製<br />
-與<a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍共同主持</a></p></td>
+與<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍共同主持</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -676,13 +676,13 @@ Velvet歷年參與的影視作品](https://zh.wikipedia.org/wiki/Red_Velvet "wik
 <td><p>2018年4月28日</p></td>
 <td><p>第16屆Korea Times Music Festival</p></td>
 <td><p>Wendy</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/John_Park" title="wikilink">John Park共同主持</a></p></td>
+<td><p>與<a href="../Page/John_Park.md" title="wikilink">John Park共同主持</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年7月7日</p></td>
 <td><p>SBS SUPER CONCERT IN TAIPEI</p></td>
 <td><p>Irene</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a>（<a href="../Page/Seventeen_(組合).md" title="wikilink">Seventeen</a>）共同主持</p></td>
+<td><p>與<a href="../Page/金珉奎.md" title="wikilink">珉奎</a>（<a href="../Page/Seventeen_(組合).md" title="wikilink">Seventeen</a>）共同主持</p></td>
 </tr>
 </tbody>
 </table>

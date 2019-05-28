@@ -126,7 +126,7 @@ PIECE FILM GOLD》，作者尾田榮一郎親自參與製作，以「那是、�
 ##### 領導層
 
   -
-    聲優：[山路和弘](https://zh.wikipedia.org/wiki/山路和弘 "wikilink")\[4\]、[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")〈青年〉\[5\]（日本）；[孫中台](../Page/孫中台.md "wikilink")、[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")〈幼年〉（台灣）；[李家傑](../Page/李家傑_\(配音員\).md "wikilink")、[周恩恩](../Page/周恩恩.md "wikilink")〈幼年〉（香港）；[張震](https://zh.wikipedia.org/wiki/張震 "wikilink")（中國大陸）
+    聲優：[山路和弘](../Page/山路和弘.md "wikilink")\[4\]、[櫻井孝宏](../Page/櫻井孝宏.md "wikilink")〈青年〉\[5\]（日本）；[孫中台](../Page/孫中台.md "wikilink")、[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")〈幼年〉（台灣）；[李家傑](../Page/李家傑_\(配音員\).md "wikilink")、[周恩恩](../Page/周恩恩.md "wikilink")〈幼年〉（香港）；[張震](https://zh.wikipedia.org/wiki/張震 "wikilink")（中國大陸）
     年齡41歲，生日1月24日。世界最大娛樂城市「Gran
     Tesoro」掌門人、一流藝人，人稱「**黃金大帝**」、「**新世界的怪物**」，擁有全世界20%的貝里，君臨於賭場的賭場之王，甚至有能動用世界政府的力量。曾說過「沒有錢的傢伙只會一事無成，只有被支配的份」。
     特徵是灰綠色頭髮向後梳，平時穿著粉色衣服和褲子，紫色墨鏡。其背上有一個巨大的五角星狀傷疤，掩蓋曾是天龍人奴隸的印記。接待客人時，泰佐洛會穿的十分豪華，全身都是金飾。
@@ -259,7 +259,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
 <!-- end list -->
 
   -
-    聲優：[古田新太](https://zh.wikipedia.org/wiki/古田新太 "wikilink")【特別演出】\[21\]（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[古田新太](../Page/古田新太.md "wikilink")【特別演出】\[21\]（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     「龜車大賽」編號1號賽車手，自稱"南方藍畜牧王"。龜車大賽中與魯夫駕駛的6號車、達米斯伯爵駕駛的2號車一路奔向終點，後來被魯夫超車導致無緣奪冠。
 
 <!-- end list -->
@@ -277,13 +277,13 @@ Stella Show”。表示才是要成為這個世界的神的人。
 <!-- end list -->
 
   -
-    聲優：[成田凌](https://zh.wikipedia.org/wiki/成田凌 "wikilink")【特別演出】\[24\]（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[成田凌](../Page/成田凌.md "wikilink")【特別演出】\[24\]（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     與「龜車大賽」編號3號賽車手斯特萊特軍曹的搭檔的海軍。
 
 <!-- end list -->
 
   -
-    聲優：[間宮康弘](https://zh.wikipedia.org/wiki/間宮康弘 "wikilink")（日本）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（台灣）
+    聲優：[間宮康弘](../Page/間宮康弘.md "wikilink")（日本）；[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")（台灣）
     海軍軍曹。「龜車大賽」編號3號賽車手。打赤膊身形肥胖的鬍子男，右腹有著被灰熊攻擊留下的爪痕，有著喜歡直線前進的固執性格，自稱自己的字典沒有"轉彎"這兩個字。也因此在第一個彎道就淘汰出局。
 
 <!-- end list -->
@@ -441,7 +441,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
 </tr>
 <tr class="odd">
 <td><p>基爾德·泰佐羅</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山路和弘" title="wikilink">山路和弘</a></p></td>
+<td><p><a href="../Page/山路和弘.md" title="wikilink">山路和弘</a></p></td>
 </tr>
 <tr class="even">
 <td><p>卡莉娜</p></td>
@@ -517,7 +517,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
 </tr>
 <tr class="even">
 <td><p>斯特萊特中士</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/間宮康弘" title="wikilink">間宮康弘</a></p></td>
+<td><p><a href="../Page/間宮康弘.md" title="wikilink">間宮康弘</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>瓦傑</p></td>
@@ -541,7 +541,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
 </tr>
 <tr class="even">
 <td><p>肯特比夫二世</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/古田新太" title="wikilink">古田新太</a></p></td>
+<td><p><a href="../Page/古田新太.md" title="wikilink">古田新太</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>老鷹</p></td>
@@ -557,7 +557,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
 </tr>
 <tr class="even">
 <td><p>卡布</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/成田凌" title="wikilink">成田凌</a></p></td>
+<td><p><a href="../Page/成田凌.md" title="wikilink">成田凌</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>齊露可</p></td>
@@ -605,7 +605,7 @@ Stella Show”。表示才是要成為這個世界的神的人。
     SPANKY](https://zh.wikipedia.org/wiki/GLIM_SPANKY "wikilink")
     原作者・尾田栄一郎的推薦主題曲。
   - 劇中曲「」
-    作詞&作曲：[小島麻由美](https://zh.wikipedia.org/wiki/小島麻由美 "wikilink")、主唱：[山路和弘](https://zh.wikipedia.org/wiki/山路和弘 "wikilink")（泰佐羅）
+    作詞&作曲：[小島麻由美](https://zh.wikipedia.org/wiki/小島麻由美 "wikilink")、主唱：[山路和弘](../Page/山路和弘.md "wikilink")（泰佐羅）
     & [滿島光](../Page/滿島光.md "wikilink")（卡莉娜）
 
 <!-- end list -->

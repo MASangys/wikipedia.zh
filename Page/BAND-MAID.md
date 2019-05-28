@@ -26,14 +26,14 @@ Radio』介紹下，於[Facebook獲得超過](../Page/Facebook.md "wikilink")120
   - MIKU, 小鳩ミク（）
     [主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[吉他手](../Page/吉他.md "wikilink")。10月21日生，[熊本縣出身](../Page/熊本縣.md "wikilink")。
     組成BAND-MAID時開始彈吉他\[22\]。
-    從小祖母就教導[天童芳美與](https://zh.wikipedia.org/wiki/天童芳美 "wikilink")[演歌](../Page/演歌.md "wikilink")。喜歡的音樂非常廣泛。從搖滾、流行，到與女僕相關的偶像與動畫歌曲都有涉獵\[23\]。喜歡的歌手有天童芳美、[松田聖子](../Page/松田聖子.md "wikilink")、[椎名林檎](../Page/椎名林檎.md "wikilink")、[東京事變](../Page/東京事變.md "wikilink")。中學、高校時代喜歡上樂團音樂\[24\]\[25\]\[26\]\[27\]\[28\]。
+    從小祖母就教導[天童芳美與](../Page/天童芳美.md "wikilink")[演歌](../Page/演歌.md "wikilink")。喜歡的音樂非常廣泛。從搖滾、流行，到與女僕相關的偶像與動畫歌曲都有涉獵\[23\]。喜歡的歌手有天童芳美、[松田聖子](../Page/松田聖子.md "wikilink")、[椎名林檎](../Page/椎名林檎.md "wikilink")、[東京事變](../Page/東京事變.md "wikilink")。中學、高校時代喜歡上樂團音樂\[24\]\[25\]\[26\]\[27\]\[28\]。
 
 <!-- end list -->
 
   - SAIKI, 彩姬（）
     主唱。2月8日生，[山梨縣出身](https://zh.wikipedia.org/wiki/山梨縣 "wikilink")。
     BAND-MAID是第一個加入的樂團\[29\]。
-    喜歡[舞曲與樂團音樂](../Page/舞曲.md "wikilink")，但各式曲風都有接觸。小學四年級開始喜歡上[安室奈美惠](../Page/安室奈美惠.md "wikilink")。不僅喜歡她的歌曲與世界觀，也深深受到她演唱風格與舞台演出的影響。中學、高校時因樂團風潮引起興趣。現在喜歡[［Alexandros］](https://zh.wikipedia.org/wiki/［Alexandros］ "wikilink")\[30\]\[31\]\[32\]\[33\]\[34\]。
+    喜歡[舞曲與樂團音樂](../Page/舞曲.md "wikilink")，但各式曲風都有接觸。小學四年級開始喜歡上[安室奈美惠](../Page/安室奈美惠.md "wikilink")。不僅喜歡她的歌曲與世界觀，也深深受到她演唱風格與舞台演出的影響。中學、高校時因樂團風潮引起興趣。現在喜歡[［Alexandros］](../Page/［Alexandros］.md "wikilink")\[30\]\[31\]\[32\]\[33\]\[34\]。
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@ Radio』介紹下，於[Facebook獲得超過](../Page/Facebook.md "wikilink")120
 <!-- end list -->
 
   - 1月8日，發行第一張迷你專輯《[MAID IN
-    JAPAN](https://zh.wikipedia.org/wiki/MAID_IN_JAPAN "wikilink")》。
+    JAPAN](../Page/MAID_IN_JAPAN.md "wikilink")》。
   - 2月8日，在shibuya Milkyway舉行第一場個人演出「MAID IN JAPAN」。
   - 8月13日，發行第一張單曲《[愛與熱情的鬥牛士](https://zh.wikipedia.org/wiki/愛與熱情的鬥牛士 "wikilink")》。
 
@@ -100,7 +100,7 @@ Radio』介紹下，於[Facebook獲得超過](../Page/Facebook.md "wikilink")120
   - 3月26日，首次到海外[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[西雅圖](../Page/西雅圖.md "wikilink")演出\[56\]。
   - 4月，從團名中除去「[®](../Page/註冊商標符號.md "wikilink")」，改為BAND-MAID。
   - 5月18日，以第三張迷你專輯《[Brand New
-    Maid](https://zh.wikipedia.org/wiki/Brand_New_Maid "wikilink")》正式主流出道。
+    Maid](../Page/Brand_New_Maid.md "wikilink")》正式主流出道。
   - 5月27\~29日，到[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦參加](https://zh.wikipedia.org/wiki/倫敦 "wikilink")「」\[57\]。
   - 6月12日，出演「」。
   - 6月起舉行全國首次巡迴演唱\[58\]。
@@ -144,22 +144,22 @@ Radio』介紹下，於[Facebook獲得超過](../Page/Facebook.md "wikilink")120
 
 ### 單曲
 
-| 張數         | 名稱                                                                | 發行日期        | 標準編號       | 最高排名 | 備註欄                                                                            |
-| ---------- | ----------------------------------------------------------------- | ----------- | ---------- | ---- | ------------------------------------------------------------------------------ |
-| 獨立時期       |                                                                   |             |            |      |                                                                                |
-| 1st        | **[愛與熱情的鬥牛士](https://zh.wikipedia.org/wiki/愛與熱情的鬥牛士 "wikilink")** | 2014年8月13日  | PPRC-0010  | \-   |                                                                                |
-| 正式出道       |                                                                   |             |            |      |                                                                                |
-| 1st        | **YOLO**                                                          | 2016年11月16日 | CRCP-10366 | 36位  |                                                                                |
-| CRCP-10367 |                                                                   |             |            |      |                                                                                |
-| 2nd        | **Daydreaming / Choose me**                                       | 2017年7月19日  | CRCP-10376 | 20位  |                                                                                |
-| CRCP-10377 |                                                                   |             |            |      |                                                                                |
-| 3rd        | **start over**                                                    | 2018年7月25日  | CRZP-35    | 16位  |                                                                                |
-| CRCP-10406 |                                                                   |             |            |      |                                                                                |
-| CRCP-10407 |                                                                   |             |            |      |                                                                                |
-| 4th        | **glory**                                                         | 2019年1月16日  | CRCP-10419 | 12位  | 電視動畫「[遊戲王VRAINS](https://zh.wikipedia.org/wiki/遊戲王VRAINS "wikilink")\[72\]」ED4 |
-|            |                                                                   |             |            |      |                                                                                |
-| 5th        | **Bubble**                                                        | 2019年1月16日  | CRCP-10420 | 14位  |                                                                                |
-|            |                                                                   |             |            |      |                                                                                |
+| 張數         | 名稱                                                                | 發行日期        | 標準編號       | 最高排名 | 備註欄                                                         |
+| ---------- | ----------------------------------------------------------------- | ----------- | ---------- | ---- | ----------------------------------------------------------- |
+| 獨立時期       |                                                                   |             |            |      |                                                             |
+| 1st        | **[愛與熱情的鬥牛士](https://zh.wikipedia.org/wiki/愛與熱情的鬥牛士 "wikilink")** | 2014年8月13日  | PPRC-0010  | \-   |                                                             |
+| 正式出道       |                                                                   |             |            |      |                                                             |
+| 1st        | **YOLO**                                                          | 2016年11月16日 | CRCP-10366 | 36位  |                                                             |
+| CRCP-10367 |                                                                   |             |            |      |                                                             |
+| 2nd        | **Daydreaming / Choose me**                                       | 2017年7月19日  | CRCP-10376 | 20位  |                                                             |
+| CRCP-10377 |                                                                   |             |            |      |                                                             |
+| 3rd        | **start over**                                                    | 2018年7月25日  | CRZP-35    | 16位  |                                                             |
+| CRCP-10406 |                                                                   |             |            |      |                                                             |
+| CRCP-10407 |                                                                   |             |            |      |                                                             |
+| 4th        | **glory**                                                         | 2019年1月16日  | CRCP-10419 | 12位  | 電視動畫「[遊戲王VRAINS](../Page/遊戲王VRAINS.md "wikilink")\[72\]」ED4 |
+|            |                                                                   |             |            |      |                                                             |
+| 5th        | **Bubble**                                                        | 2019年1月16日  | CRCP-10420 | 14位  |                                                             |
+|            |                                                                   |             |            |      |                                                             |
 
 ### 專輯
 
@@ -185,7 +185,7 @@ Radio』介紹下，於[Facebook獲得超過](../Page/Facebook.md "wikilink")120
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/MAID_IN_JAPAN" title="wikilink">MAID IN JAPAN</a></strong></p></td>
+<td><p><strong><a href="../Page/MAID_IN_JAPAN.md" title="wikilink">MAID IN JAPAN</a></strong></p></td>
 <td><p>2014年1月8日</p></td>
 <td><p><small>PPRC-0006</small></p></td>
 <td><p>-</p></td>
@@ -201,7 +201,7 @@ Radio』介紹下，於[Facebook獲得超過](../Page/Facebook.md "wikilink")120
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/New_Beginning" title="wikilink">New Beginning</a></strong></p></td>
+<td><p><strong><a href="../Page/New_Beginning.md" title="wikilink">New Beginning</a></strong></p></td>
 <td><p>2015年11月18日</p></td>
 <td><p><small>YZPP-10001</small></p></td>
 <td><p>7位[73]</p></td>
@@ -217,7 +217,7 @@ Radio』介紹下，於[Facebook獲得超過](../Page/Facebook.md "wikilink")120
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Brand_New_Maid" title="wikilink">Brand New Maid</a></strong></p></td>
+<td><p><strong><a href="../Page/Brand_New_Maid.md" title="wikilink">Brand New Maid</a></strong></p></td>
 <td><p>2016年5月18日</p></td>
 <td><p><small>CRCP-40460</small></p></td>
 <td><p>19位[74]</p></td>
@@ -233,7 +233,7 @@ Radio』介紹下，於[Facebook獲得超過](../Page/Facebook.md "wikilink")120
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Just_Bring_It" title="wikilink">Just Bring It</a></strong></p></td>
+<td><p><strong><a href="../Page/Just_Bring_It.md" title="wikilink">Just Bring It</a></strong></p></td>
 <td><p>2017年1月11日</p></td>
 <td><p><small>CRCP-40485</small></p></td>
 <td><p>16位[75]</p></td>
@@ -274,10 +274,10 @@ CRCP-40547</small></p></td>
 | 2015年 | 6月16日                                                                 | [「REAL EXISTENCE」](https://www.youtube.com/watch?v=9TkHpvaO09c)    | 528                                                                                         |
 | 10月6日 | [「Don' t let me down」](https://www.youtube.com/watch?v=0YGwUhg2XNk)   | 187                                                                |                                                                                             |
 | 2016年 |                                                                       |                                                                    |                                                                                             |
-| 2月14日 | [「alone」](https://www.youtube.com/watch?v=axF56i4spio)                | 229                                                                | [Brand New Maid](https://zh.wikipedia.org/wiki/Brand_New_Maid "wikilink")                   |
+| 2月14日 | [「alone」](https://www.youtube.com/watch?v=axF56i4spio)                | 229                                                                | [Brand New Maid](../Page/Brand_New_Maid.md "wikilink")                                      |
 | 4月7日  | [「the non-fiction days」](https://www.youtube.com/watch?v=ItYN-ri1NPs) | 184                                                                |                                                                                             |
 | 6月24日 | [「Before Yesterday」](https://www.youtube.com/watch?v=Zuj_-z5-06w)     | 93                                                                 |                                                                                             |
-| 10月1日 | [「YOLO」](https://www.youtube.com/watch?v=wKZbzcUdY1g)                 | 125                                                                | YOLO／[Just Bring It](https://zh.wikipedia.org/wiki/Just_Bring_It "wikilink")                |
+| 10月1日 | [「YOLO」](https://www.youtube.com/watch?v=wKZbzcUdY1g)                 | 125                                                                | YOLO／[Just Bring It](../Page/Just_Bring_It.md "wikilink")                                   |
 | 2017年 | 1月9日                                                                  | [「Don't you tell ME」](https://www.youtube.com/watch?v=tGXzhxXVimY) | 95                                                                                          |
 | 3月25日 | [「secret My lips」](https://www.youtube.com/watch?v=1Vuca7V-5Ec)       | 37                                                                 |                                                                                             |
 | 5月26日 | [「Daydreaming」](https://www.youtube.com/watch?v=RCaeUkrItyY)          | 54                                                                 | [Daydreaming / Choose me](https://zh.wikipedia.org/wiki/Daydreaming_/_Choose_me "wikilink") |

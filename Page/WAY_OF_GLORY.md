@@ -6,7 +6,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 
   - 與上一張原創專輯「[AAA 10th ANNIVERSARY
     BEST](../Page/AAA_10th_ANNIVERSARY_BEST.md "wikilink")」相距約1年零5個月。
-  - 收錄了第51張單曲《[NEW](../Page/NEW_\(AAA單曲\).md "wikilink")》至第53張單曲《[MAGIC](https://zh.wikipedia.org/wiki/MAGIC_\(AAA單曲\) "wikilink")》3首A面曲，以及B面曲《[LEAP
+  - 收錄了第51張單曲《[NEW](../Page/NEW_\(AAA單曲\).md "wikilink")》至第53張單曲《[MAGIC](../Page/MAGIC_\(AAA單曲\).md "wikilink")》3首A面曲，以及B面曲《[LEAP
     of
     FAITH](../Page/NEW_\(AAA單曲\).md "wikilink")》、《[Yell](../Page/沒有眼淚的世界.md "wikilink")》、《[Jewel](../Page/沒有眼淚的世界.md "wikilink")》和新曲等，共13首曲目。
   - 新曲《S.O.L》是時尚雜誌《[CanCam](../Page/CanCam.md "wikilink")》2017年4月號電視廣告歌曲。
@@ -17,8 +17,8 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
     ASIA TOUR 2016」的花絮（Making）。
   - 在3月6日於公信榜專輯週排行榜取得第1位，繼《[＃AAABEST](../Page/＃AAABEST.md "wikilink")》、《[Eighth
     Wonder](../Page/Eighth_Wonder_\(AAA專輯\).md "wikilink")》、《[GOLD
-    SYMPHONY](https://zh.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")》和《[AAA
-    10th ANNIVERSARY
+    SYMPHONY](../Page/GOLD_SYMPHONY.md "wikilink")》和《[AAA 10th
+    ANNIVERSARY
     BEST](../Page/AAA_10th_ANNIVERSARY_BEST.md "wikilink")》後第5張公信榜每周銷量排名第一的專輯。
   - 此專輯於2月22日、23日於日本ORICON公信榜專輯日間排行榜取得第1位。
   - 《WAY OF GLORY》首週的銷量達10.8萬張，成為AAA出道以來首週銷量最高的專輯，並繼《AAA 10th
@@ -64,7 +64,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
     （作詞：Mio Aoyama / 作曲：ArmySlick・Giz'Mo(from Jam9) / 編曲：ArmySlick）
       -
         [西島隆弘和](../Page/西島隆弘.md "wikilink")[與真司郎主唱](../Page/與真司郎.md "wikilink")
-9.  **[MAGIC](https://zh.wikipedia.org/wiki/MAGIC_\(AAA單曲\) "wikilink")**
+9.  **[MAGIC](../Page/MAGIC_\(AAA單曲\).md "wikilink")**
     （作詞：Mio Aoyama / Rap詞：Mitsuhiro Hidaka / 作曲：ArmySlick、Lauren Kaori）
       -
         53rd單曲、[朝日電視台電視劇](../Page/朝日電視台.md "wikilink")『奪い愛、冬』主題曲

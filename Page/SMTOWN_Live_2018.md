@@ -126,7 +126,7 @@
   - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
     （[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna](../Page/朴善英.md "wikilink")）
   - [EXO](../Page/EXO.md "wikilink")
-  - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")
+  - [Red Velvet](../Page/Red_Velvet.md "wikilink")
   - [NCT](../Page/NCT.md "wikilink")
 
 <!-- end list -->

@@ -1,7 +1,7 @@
 《**TWICEcoaster: LANE
 1**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[TWICE的第三張韓語迷你專輯](https://zh.wikipedia.org/wiki/TWICE "wikilink")。由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，KT音樂發行，於2016年10月24日推出。主打歌曲為〈TT〉，由[黑眼必勝製作](../Page/黑眼必勝.md "wikilink")。專輯發行首日隨即打入香港、馬來西亞、泰國、越南、新加坡、台灣、中國大陸、澳門等8個國家及地區的iTunes專輯榜首位\[1\]。12月19日發行改版專輯《聖誕特別版》（CHRISTMAS
 EDITION），2月20日發行特別版專輯《[TWICEcoaster: LANE
-2](https://zh.wikipedia.org/wiki/TWICEcoaster:_LANE_2 "wikilink")》
+2](../Page/TWICEcoaster:_LANE_2.md "wikilink")》
 
 ## 背景
 
@@ -65,7 +65,7 @@ Up〉描述女性複雜多端的內心感受，也為下一個主打曲埋下伏
 <tr class="odd">
 <td><p><a href="../Page/志效.md" title="wikilink">志效</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/冰雪奇緣" title="wikilink">冰雪奇緣</a>》、《<a href="https://zh.wikipedia.org/wiki/愛麗絲夢遊仙境" title="wikilink">愛麗絲夢遊仙境</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/艾莎_(迪士尼)" title="wikilink">艾莎</a>、紅心王后</p></td>
+<td><p><a href="../Page/艾莎_(迪士尼).md" title="wikilink">艾莎</a>、紅心王后</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Mina_(TWICE).md" title="wikilink">Mina</a></p></td>

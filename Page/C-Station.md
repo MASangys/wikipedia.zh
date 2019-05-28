@@ -1,7 +1,7 @@
 **C-Station**是一家動畫企劃與製作以及相關業務為主的日本公司。
 
 2009年[BEE
-TRAIN將各部門分割為其轄下之子公司](https://zh.wikipedia.org/wiki/BEE_TRAIN "wikilink")，在東京都國分寺市成立子公司C-station。工作室負責分包動畫製作，進行諸如、[關鍵格和各種動畫協作](../Page/關鍵格.md "wikilink")。2012年脱离BEE
+TRAIN將各部門分割為其轄下之子公司](../Page/BEE_TRAIN.md "wikilink")，在東京都國分寺市成立子公司C-station。工作室負責分包動畫製作，進行諸如、[關鍵格和各種動畫協作](../Page/關鍵格.md "wikilink")。2012年脱离BEE
 TRAIN资本自主獨立运营。
 
 ## 作品列表
@@ -51,7 +51,7 @@ TRAIN资本自主獨立运营。
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/搖曳露營△" title="wikilink">搖曳露營△</a></p></td>
+<td><p><a href="../Page/搖曳露營△.md" title="wikilink">搖曳露營△</a></p></td>
 <td></td>
 <td><p>1月4日－3月22日</p></td>
 <td></td>
@@ -59,7 +59,7 @@ TRAIN资本自主獨立运营。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/封神演義_(漫畫)" title="wikilink">霸穹 封神演義</a></p></td>
+<td><p><a href="../Page/封神演義_(漫畫).md" title="wikilink">霸穹 封神演義</a></p></td>
 <td></td>
 <td><p>1月12日－6月29日</p></td>
 <td><p>{{tsl|ja|相澤昌弘</p></td>
@@ -121,7 +121,7 @@ TRAIN资本自主獨立运营。
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/临时女友" title="wikilink">临时女友</a></p></td>
+<td><p><a href="../Page/临时女友.md" title="wikilink">临时女友</a></p></td>
 <td></td>
 <td><p><a href="../Page/SILVER_LINK..md" title="wikilink">SILVER LINK.</a></p></td>
 <td><p>各話協力製作</p></td>

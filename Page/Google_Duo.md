@@ -10,7 +10,7 @@ Play免费应用榜单的第一名](../Page/Google_Play.md "wikilink")。\[6\]
   - 为低速移动网络优化。应用采用优化过的[WebRTC标准](../Page/WebRTC.md "wikilink")，并使用[QUIC协议传输数据](https://zh.wikipedia.org/wiki/QUIC "wikilink")。应用还会监视网络质量，并在网络情况不好时降低视频画质。\[8\]
   - “Knock
     Knock”：[Android独享功能](../Page/Android.md "wikilink")，可在接听来电前显示对方的实时预览，\[9\]Google称这会“使来电更像一种邀请，而不是干扰”\[10\]
-  - 默认的[端到端加密](https://zh.wikipedia.org/wiki/端到端加密 "wikilink")
+  - 默认的[端到端加密](../Page/端到端加密.md "wikilink")
   - [Google
     Assistant支持](https://zh.wikipedia.org/wiki/Google_Assistant "wikilink")
   - 使用手机号码，便于用户与通讯录里的人通话

@@ -1,4 +1,4 @@
-**AMYO**(Amber\&Yoanna)是由前女子團體[Roomie成員](../Page/Roomie.md "wikilink")[安柏兒](https://zh.wikipedia.org/wiki/安柏兒 "wikilink")（Amber）以及混血模特兒[孫尤安](../Page/孫尤安.md "wikilink")（Yoanna）組成的音樂組合，出道前在[Youtube上發表多首Cover歌曲而知名](https://zh.wikipedia.org/wiki/Youtube "wikilink")，2017年發行數位單曲《說破》，正式以[AMYO組合形式出道](https://zh.wikipedia.org/wiki/AMYO "wikilink")。同年，結束與艾克斯娛樂合約，低調解散。
+**AMYO**(Amber\&Yoanna)是由前女子團體[Roomie成員](../Page/Roomie.md "wikilink")[安柏兒](https://zh.wikipedia.org/wiki/安柏兒 "wikilink")（Amber）以及混血模特兒[孫尤安](../Page/孫尤安.md "wikilink")（Yoanna）組成的音樂組合，出道前在[Youtube上發表多首Cover歌曲而知名](https://zh.wikipedia.org/wiki/Youtube "wikilink")，2017年發行數位單曲《說破》，正式以[AMYO組合形式出道](../Page/AMYO.md "wikilink")。同年，結束與艾克斯娛樂合約，低調解散。
 
 ## 音樂作品
 
@@ -56,7 +56,7 @@
 
 ### 詞曲創作
 
-●僅標示[AMYO成員創作部分](https://zh.wikipedia.org/wiki/AMYO "wikilink")
+●僅標示[AMYO成員創作部分](../Page/AMYO.md "wikilink")
 
 <table>
 <thead>
@@ -95,10 +95,10 @@
 <td></td>
 <td><p><a href="../Page/孫尤安.md" title="wikilink">孫尤安</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AMYO" title="wikilink">AMYO</a></p></td>
+<td><p><a href="../Page/AMYO.md" title="wikilink">AMYO</a></p></td>
 <td><ol>
 <li><a href="../Page/陳星翰.md" title="wikilink">陳星翰</a>(Starr Chen)WELCOME TO THE NEXT LEVEL專輯</li>
-<li><a href="https://zh.wikipedia.org/wiki/AMYO" title="wikilink">AMYO首張EP</a>《說破》</li>
+<li><a href="../Page/AMYO.md" title="wikilink">AMYO首張EP</a>《說破》</li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -106,8 +106,8 @@
 <td></td>
 <td><p><a href="../Page/孫尤安.md" title="wikilink">孫尤安</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AMYO" title="wikilink">AMYO</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AMYO" title="wikilink">AMYO首張EP</a>《說破》</p></td>
+<td><p><a href="../Page/AMYO.md" title="wikilink">AMYO</a></p></td>
+<td><p><a href="../Page/AMYO.md" title="wikilink">AMYO首張EP</a>《說破》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -115,8 +115,8 @@
 <td></td>
 <td><p><a href="../Page/孫尤安.md" title="wikilink">孫尤安</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AMYO" title="wikilink">AMYO</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AMYO" title="wikilink">AMYO首張EP</a>《說破》</p></td>
+<td><p><a href="../Page/AMYO.md" title="wikilink">AMYO</a></p></td>
+<td><p><a href="../Page/AMYO.md" title="wikilink">AMYO首張EP</a>《說破》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -136,7 +136,7 @@
 | [陳威全](https://zh.wikipedia.org/wiki/陳威全 "wikilink")        | [濫好人](https://www.youtube.com/watch?v=wfc_rSebYpY)                     | [傾聽](https://zh.wikipedia.org/wiki/傾聽 "wikilink")               | 2012年6月                                             | [孫尤安](../Page/孫尤安.md "wikilink")                                                     | 特別演出                                                                           |
 | [黃雅莉](https://zh.wikipedia.org/wiki/黃雅莉 "wikilink")        | [換個地方住](https://www.youtube.com/watch?v=AL1qq3Usp78)                   | [年輪](https://zh.wikipedia.org/wiki/年輪 "wikilink")               | 2013年3月                                             | [孫尤安](../Page/孫尤安.md "wikilink")                                                     | 特別演出                                                                           |
 | [J.Sheon](../Page/J.Sheon.md "wikilink")                   | [You'll Never Know](https://www.youtube.com/watch?v=-YsN9QJ_wD8)       | [J.Sheon街巷](https://zh.wikipedia.org/wiki/J.Sheon街巷 "wikilink") | 2017年5月                                             | [孫尤安](../Page/孫尤安.md "wikilink")                                                     | 為師兄[J.Sheon拍攝MV](../Page/J.Sheon.md "wikilink")\[3\]                           |
-| [AMYO](https://zh.wikipedia.org/wiki/AMYO "wikilink")      | [說破 Reveal](https://www.youtube.com/watch?v=y2BT38OPAK8&feature=share) | [說破 Reveal](https://zh.wikipedia.org/wiki/說破_Reveal "wikilink") | 2017年8月                                             | [安柏兒](https://zh.wikipedia.org/wiki/安柏兒 "wikilink")、[孫尤安](../Page/孫尤安.md "wikilink") | [AMYO首波主打單曲](https://zh.wikipedia.org/wiki/AMYO "wikilink")                    |
+| [AMYO](../Page/AMYO.md "wikilink")                         | [說破 Reveal](https://www.youtube.com/watch?v=y2BT38OPAK8&feature=share) | [說破 Reveal](https://zh.wikipedia.org/wiki/說破_Reveal "wikilink") | 2017年8月                                             | [安柏兒](https://zh.wikipedia.org/wiki/安柏兒 "wikilink")、[孫尤安](../Page/孫尤安.md "wikilink") | [AMYO首波主打單曲](../Page/AMYO.md "wikilink")                                       |
 |                                                            |                                                                        |                                                                 |                                                     |                                                                                      |                                                                                |
 
 ## 戲劇

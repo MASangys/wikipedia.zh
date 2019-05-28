@@ -18,7 +18,7 @@
 **2ZZ-GE**引擎為ZZ系列中唯一一款高性能版本，排氣量為1.796公升（109.6立方英吋），但缸徑為82毫米（3.23英吋），行程85毫米（3.35英吋）。引擎最大輸出功率常根據車型略有不同。[豐田Celica](../Page/豐田Celica.md "wikilink")
 GTS（T231），[卡羅拉T](https://zh.wikipedia.org/wiki/豐田卡羅拉 "wikilink")-Sport，蓮花Elise，Exige上為189馬力（141kW），而[龐帝克Vibe](https://zh.wikipedia.org/wiki/龐帝克 "wikilink")
 GT上則為164-180馬力。 部分追求極致性能的2ZZ-GE帶有機械增壓器。卡羅拉“Compressor”和蓮花Exige
-S上的2ZZ-GE帶有[機械增壓器及](https://zh.wikipedia.org/wiki/機械增壓器 "wikilink")[中冷器](https://zh.wikipedia.org/wiki/中冷器 "wikilink")，最大功率225馬力（168kW），在此基礎上進一步調校到Exige
+S上的2ZZ-GE帶有[機械增壓器及](https://zh.wikipedia.org/wiki/機械增壓器 "wikilink")[中冷器](../Page/中冷器.md "wikilink")，最大功率225馬力（168kW），在此基礎上進一步調校到Exige
 240R，最大功率達240馬力（179kW）。蓮花Elise
 SC上的機械增壓器並沒有帶中冷器，最大功率218馬力（163kW）。和4A引擎不同，機械增壓的2ZZ引擎並未賦予2ZZ-GZE的編號。
 

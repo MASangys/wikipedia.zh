@@ -1,5 +1,5 @@
 **SPG-82**（；СПГ，全寫：Станковый Противотанковый
-Гранатомёт，意為：重型反坦克榴彈發射器；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是一台由[苏联所](../Page/苏联.md "wikilink")[研發](../Page/研究開發.md "wikilink")、在二戰結束後投入使用的82毫米[口徑輪式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[反坦克](https://zh.wikipedia.org/wiki/反坦克武器 "wikilink")[无后座力](../Page/无后座力炮.md "wikilink")[火箭发射器](../Page/火箭弹发射器.md "wikilink")，發射82毫米[炮彈](../Page/炮彈.md "wikilink")。
+Гранатомёт，意為：重型反坦克榴彈發射器；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）是一台由[苏联所](../Page/苏联.md "wikilink")[研發](../Page/研究開發.md "wikilink")、在二戰結束後投入使用的82毫米[口徑輪式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[反坦克](https://zh.wikipedia.org/wiki/反坦克武器 "wikilink")[无后座力](../Page/无后座力炮.md "wikilink")[火箭发射器](../Page/火箭弹发射器.md "wikilink")，發射82毫米[炮彈](../Page/炮彈.md "wikilink")。
 
 1954年，在蘇聯中服役的它倆被所取代，但直到1970年代時，仍然於一部份地區，特別是在[中东的軍隊中服役](../Page/中东.md "wikilink")。\[1\]
 
@@ -74,9 +74,9 @@ SPG-82是由一根帶有喇叭口的長[炮管所組成](../Page/槍管.md "wiki
 
   - [布雷達迅雷無後座力炮](../Page/布雷達迅雷無後座力炮.md "wikilink")
 
-  - [M20無後座力炮](https://zh.wikipedia.org/wiki/M20無後座力炮 "wikilink")
+  - [M20無後座力炮](../Page/M20無後座力炮.md "wikilink")
 
-  - [M40無後座力炮](https://zh.wikipedia.org/wiki/M40無後座力炮 "wikilink")
+  - [M40無後座力炮](../Page/M40無後座力炮.md "wikilink")
 
   -
   - [博福斯Pvpj 1110無後座力炮](../Page/博福斯Pvpj_1110無後座力炮.md "wikilink")

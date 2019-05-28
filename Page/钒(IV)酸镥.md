@@ -1,4 +1,4 @@
-**钒(IV)酸镥**是一种具有[铁磁性和](../Page/铁磁性.md "wikilink")[半导体特性的](../Page/半导体.md "wikilink")[无机化合物](../Page/无机化合物.md "wikilink")，化学式为Lu<sub>2</sub>V<sub>2</sub>O<sub>7</sub>，\[1\]，属于[烧绿石类晶体](https://zh.wikipedia.org/wiki/烧绿石 "wikilink")。\[2\]
+**钒(IV)酸镥**是一种具有[铁磁性和](../Page/铁磁性.md "wikilink")[半导体特性的](../Page/半导体.md "wikilink")[无机化合物](../Page/无机化合物.md "wikilink")，化学式为Lu<sub>2</sub>V<sub>2</sub>O<sub>7</sub>，\[1\]，属于[烧绿石类晶体](../Page/烧绿石.md "wikilink")。\[2\]
 
 ## 制备
 

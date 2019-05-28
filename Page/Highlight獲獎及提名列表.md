@@ -38,9 +38,8 @@ rowspan=3|
 [2016年](https://zh.wikipedia.org/wiki/2016年Mnet亞洲音樂大獎 "wikilink")
 | 最佳男子組合演唱表演獎 | rowspan=3 | 〈緞帶〉 || \[15\]\[16\] |- |  ||  |- |  ||  |-
 \!style=""background:\#666; color:white" align=center colspan="4"|
-HIGHLIGHT |- | rowspan=2|
-[2017年](https://zh.wikipedia.org/wiki/2017年Mnet亞洲音樂大獎 "wikilink") |
-最佳組合演唱表演獎 | HIGHLIGHT || \[17\] |- |  | 〈Calling You〉 ||  |}
+HIGHLIGHT |- | rowspan=2| [2017年](../Page/2017年Mnet亞洲音樂大獎.md "wikilink")
+| 最佳組合演唱表演獎 | HIGHLIGHT || \[17\] |- |  | 〈Calling You〉 ||  |}
 
 ### 甜瓜音樂獎
 

@@ -113,7 +113,7 @@
 <td><p>武装</p></td>
 <td><p><small><a href="../Page/M242巨蝮式鏈炮.md" title="wikilink">M242鏈炮</a><br />
 <a href="https://zh.wikipedia.org/wiki/T-74排用機槍" title="wikilink">T-74排用機槍</a>×2</small>T90重機槍</small></p></td>
-<td><p><small><a href="https://zh.wikipedia.org/wiki/希普諾夫2A72機炮" title="wikilink">30mm 2A72機炮</a><br />
+<td><p><small><a href="../Page/希普諾夫2A72機炮.md" title="wikilink">30mm 2A72機炮</a><br />
 或<a href="../Page/KPV重機槍.md" title="wikilink">14.5 mm KPVT重機槍</a><br />
 <a href="../Page/PK通用機槍.md" title="wikilink">7.62 mm PKT機槍</a></small></p></td>
 <td><p><small><a href="../Page/GIAT_M811機炮.md" title="wikilink">25 mm M811機炮</a><br />

@@ -61,7 +61,7 @@
 </tr>
 <tr class="even">
 <td><p>20:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Suits_(韓國電視劇)" title="wikilink">金裝律師</a></p></td>
+<td><p><a href="../Page/Suits_(韓國電視劇).md" title="wikilink">金裝律師</a></p></td>
 <td><p>周六好戲勢: <a href="../Page/魔警.md" title="wikilink">魔警</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/恐怖醫學" title="wikilink">恐怖醫學</a></p></td>
 <td></td>
@@ -192,14 +192,14 @@
 </tr>
 <tr class="even">
 <td><p>14:00 - 14:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/約咗傅家俊" title="wikilink">約咗傅家俊</a></p></td>
+<td><p><a href="../Page/約咗傅家俊.md" title="wikilink">約咗傅家俊</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>14:30 - 15:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/攝·太帥" title="wikilink">攝·太帥</a></p></td>
+<td><p><a href="../Page/攝·太帥.md" title="wikilink">攝·太帥</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -228,7 +228,7 @@
 <tr class="odd">
 <td><p>逢星期一</p></td>
 <td><p>00:00 - 01:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/精裝送禮仔" title="wikilink">精裝送禮仔</a></p></td>
+<td><p><a href="../Page/精裝送禮仔.md" title="wikilink">精裝送禮仔</a></p></td>
 <td><p>重播節目</p></td>
 <td></td>
 </tr>
@@ -380,7 +380,7 @@
 <tr class="odd">
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>20:30 - 21:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Suits_(韓國電視劇)" title="wikilink">金裝律師</a></p></td>
+<td><p><a href="../Page/Suits_(韓國電視劇).md" title="wikilink">金裝律師</a></p></td>
 <td><p>韓國劇集<br />
 每集播放兩次</p></td>
 <td></td>
@@ -410,7 +410,7 @@
 <td><p>非黃金時段劇集</p></td>
 <td><p>逢星期一至五</p></td>
 <td><p>13:30 - 15:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/七日的王妃" title="wikilink">七日的王妃</a></p></td>
+<td><p><a href="../Page/七日的王妃.md" title="wikilink">七日的王妃</a></p></td>
 <td><p><strong>熱捧劇站</strong><br />
 重播韓國劇集<br />
 每集播放兩次</p></td>
@@ -455,16 +455,16 @@
 <td><p>每日</p></td>
 <td><p>16:00 - 16:30</p></td>
 <td><p>星期一至五：<a href="../Page/塔麻可吉！.md" title="wikilink">他媽哥池</a>2<br />
-星期六至日：<a href="https://zh.wikipedia.org/wiki/哈囉！小梅子" title="wikilink">小梅子日記</a></p></td>
+星期六至日：<a href="../Page/哈囉！小梅子.md" title="wikilink">小梅子日記</a></p></td>
 <td><p>日本動畫<br />
 重播韓國動畫</p></td>
 </tr>
 <tr class="odd">
 <td><p>16:30 - 17:00</p></td>
-<td><p>星期一至三：<a href="https://zh.wikipedia.org/wiki/遊戲王VRAINS" title="wikilink">遊戲王VRAINS</a><br />
+<td><p>星期一至三：<a href="../Page/遊戲王VRAINS.md" title="wikilink">遊戲王VRAINS</a><br />
 星期四至五：<br />
 星期六：<br />
-星期日：<a href="https://zh.wikipedia.org/wiki/魔物獵人物語" title="wikilink">魔物獵人物語 RIDE ON</a></p></td>
+星期日：<a href="../Page/魔物獵人物語.md" title="wikilink">魔物獵人物語 RIDE ON</a></p></td>
 <td><p>日本動畫<br />
 日本動畫<br />
 韓國動畫<br />
@@ -515,7 +515,7 @@
 <td><p>逢星期六至日</p></td>
 <td><p>09:30 - 10:00</p></td>
 <td><p>星期六：<a href="https://zh.wikipedia.org/wiki/超變戰陀" title="wikilink">超變戰陀</a><br />
-星期日：<a href="https://zh.wikipedia.org/wiki/機器戰士TOBOT" title="wikilink">機器戰士TOBOT</a> 3</p></td>
+星期日：<a href="../Page/機器戰士TOBOT.md" title="wikilink">機器戰士TOBOT</a> 3</p></td>
 <td><p>中國動畫<br />
 韓國動畫</p></td>
 <td></td>
@@ -523,7 +523,7 @@
 <tr class="even">
 <td><p>10:00 - 10:30</p></td>
 <td><p>星期六：<a href="../Page/赤髮白雪姬.md" title="wikilink">赤髮白雪姬</a><br />
-星期日：<a href="https://zh.wikipedia.org/wiki/救難小英雄24" title="wikilink">時間飛船24</a></p></td>
+星期日：<a href="../Page/救難小英雄24.md" title="wikilink">時間飛船24</a></p></td>
 <td><p>重播日本動畫</p></td>
 <td></td>
 <td></td>
@@ -540,7 +540,7 @@
 <tr class="even">
 <td><p>逢星期日</p></td>
 <td><p>11:00 - 11:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/假面騎士Build" title="wikilink">幪面超人BUILD</a></p></td>
+<td><p><a href="../Page/假面騎士Build.md" title="wikilink">幪面超人BUILD</a></p></td>
 <td><p>日本特攝<br />
 每集播放兩次</p></td>
 <td></td>
@@ -699,7 +699,7 @@
 <td><p>18:30 - 19:00</p></td>
 <td><p>星期一至四：<a href="../Page/香港故事.md" title="wikilink">香港故事</a> - 數字人生<br />
 星期五：<a href="../Page/警訊.md" title="wikilink">警訊</a></p></td>
-<td><p>除《警訊》以外其他節目曾於<a href="https://zh.wikipedia.org/wiki/港台電視31、31A" title="wikilink">港台電視31、31A播出</a></p></td>
+<td><p>除《警訊》以外其他節目曾於<a href="../Page/港台電視31、31A.md" title="wikilink">港台電視31、31A播出</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -914,7 +914,7 @@ She Remembers, He Forgets</p></td>
 <td><p>2019年3月30日</p></td>
 <td><p>20:30-22:50</p></td>
 <td><p>ViuTV</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/一念無明_(電影)" title="wikilink">一念無明</a><br />
+<td style="text-align: center;"><p><a href="../Page/一念無明_(電影).md" title="wikilink">一念無明</a><br />
 Mad World</p></td>
 <td><p><a href="../Page/余文樂.md" title="wikilink">余文樂</a>、<a href="../Page/曾志偉.md" title="wikilink">曾志偉</a>、<a href="../Page/金燕玲.md" title="wikilink">金燕玲</a>、<a href="../Page/方皓玟.md" title="wikilink">方皓玟</a></p></td>
 <td><p>2016年</p></td>
@@ -926,7 +926,7 @@ Mad World</p></td>
 <td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="../Page/點五步.md" title="wikilink">點五步</a><br />
 Weeds on Fire</p></td>
-<td><p><a href="../Page/廖啟智.md" title="wikilink">廖啟智</a>、<a href="../Page/林耀聲.md" title="wikilink">林耀聲</a>、-{<a href="https://zh.wikipedia.org/wiki/胡子彤" title="wikilink">胡子彤</a>}-</p></td>
+<td><p><a href="../Page/廖啟智.md" title="wikilink">廖啟智</a>、<a href="../Page/林耀聲.md" title="wikilink">林耀聲</a>、-{<a href="../Page/胡子彤.md" title="wikilink">胡子彤</a>}-</p></td>
 <td><p>2016年</p></td>
 <td><p><a href="../Page/香港電影金像獎.md" title="wikilink">金像好戲勢系列</a></p></td>
 </tr>
@@ -1438,7 +1438,7 @@ CE Q&amp;A Session</p></td>
 <tr class="even">
 <td><p>9月5日</p></td>
 <td><p>00:30-09:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2016年香港立法會選舉" title="wikilink">2016立法會選舉 開票直擊</a><br />
+<td><p><a href="../Page/2016年香港立法會選舉.md" title="wikilink">2016立法會選舉 開票直擊</a><br />
 Legislative Council Vote Counting</p></td>
 <td><p>主持：<a href="https://zh.wikipedia.org/wiki/黃浩霖" title="wikilink">黃浩霖</a>、<a href="../Page/黃凱迪.md" title="wikilink">黃凱迪</a>、、<a href="../Page/李臻.md" title="wikilink">李臻</a></p></td>
 <td><p>與<a href="../Page/Now新聞台.md" title="wikilink">Now新聞台同步播出</a>／Now新聞台於9月4日22:30起直播</p></td>
@@ -1502,7 +1502,7 @@ Policy Address 2017</p></td>
 <tr class="even">
 <td><p>1月18日</p></td>
 <td><p>19:00-20:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/施政論壇" title="wikilink">施政論壇2017</a><br />
+<td><p><a href="../Page/施政論壇.md" title="wikilink">施政論壇2017</a><br />
 Policy Address Forum 2017</p></td>
 <td><p>主持：<strong><a href="../Page/李臻.md" title="wikilink">李臻</a></strong>、<a href="https://zh.wikipedia.org/wiki/卓麗雯" title="wikilink">卓麗雯</a>、<a href="https://zh.wikipedia.org/wiki/黃曉盈_(記者)" title="wikilink">黃曉盈</a>、<a href="../Page/陳嘉欣.md" title="wikilink">陳嘉欣</a>、<a href="https://zh.wikipedia.org/wiki/汪溟曦" title="wikilink">汪溟曦</a><br />
 嘉賓：<a href="../Page/梁振英.md" title="wikilink">梁振英</a></p></td>
@@ -1537,7 +1537,7 @@ The 2017-18 Budget</p></td>
 <tr class="even">
 <td><p>2月22日</p></td>
 <td><p>19:00-20:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/財政預算案論壇" title="wikilink">預算案論壇</a><br />
+<td><p><a href="../Page/財政預算案論壇.md" title="wikilink">預算案論壇</a><br />
 Budget Forum 2017</p></td>
 <td><p>主持：<a href="../Page/陳嘉欣.md" title="wikilink">陳嘉欣</a>、<a href="https://zh.wikipedia.org/wiki/陳冠生" title="wikilink">陳冠生</a>、<strong><a href="https://zh.wikipedia.org/wiki/梁芊祐" title="wikilink">梁芊祐</a></strong>、<a href="https://zh.wikipedia.org/wiki/朱錫君" title="wikilink">朱錫君</a>、<a href="https://zh.wikipedia.org/wiki/李錦妍" title="wikilink">李錦妍</a><br />
 嘉賓：<a href="../Page/陳茂波.md" title="wikilink">陳茂波</a></p></td>
@@ -1546,7 +1546,7 @@ Budget Forum 2017</p></td>
 <tr class="odd">
 <td><p>3月14日</p></td>
 <td><p>20:00-22:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年行政長官選舉辯論" title="wikilink">2017行政長官選舉辯論</a><br />
+<td><p><a href="../Page/2017年行政長官選舉辯論.md" title="wikilink">2017行政長官選舉辯論</a><br />
 2017 Chief Executive Election Debate</p></td>
 <td><p>主持：<a href="../Page/吳璟儁.md" title="wikilink">吳璟儁</a>、<a href="../Page/王春媚.md" title="wikilink">王春媚</a><br />
 傳媒代表：<strong><a href="https://zh.wikipedia.org/wiki/戴祖而" title="wikilink">戴祖而</a></strong>、<a href="https://zh.wikipedia.org/wiki/江偉茵" title="wikilink">江偉茵</a>、<a href="https://zh.wikipedia.org/wiki/汪溟曦" title="wikilink">汪溟曦</a>、<a href="https://zh.wikipedia.org/wiki/何翠萍" title="wikilink">何翠萍</a>、<a href="../Page/李卓敏_(記者).md" title="wikilink">李卓敏</a><br />
@@ -1556,7 +1556,7 @@ Budget Forum 2017</p></td>
 <tr class="even">
 <td><p>3月14日</p></td>
 <td><p>22:00-22:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年行政長官選舉辯論" title="wikilink">2017行政長官選舉辯論特輯</a><br />
+<td><p><a href="../Page/2017年行政長官選舉辯論.md" title="wikilink">2017行政長官選舉辯論特輯</a><br />
 2017 Chief Executive Election Debate Special</p></td>
 <td><p>主持：<a href="../Page/李臻.md" title="wikilink">李臻</a><br />
 記者：<a href="https://zh.wikipedia.org/wiki/江穎怡" title="wikilink">江穎怡</a><br />
@@ -1575,7 +1575,7 @@ Budget Forum 2017</p></td>
 <tr class="even">
 <td><p>10月11日</p></td>
 <td><p>11:00-12:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年度香港行政長官施政報告_(林鄭月娥)" title="wikilink">施政報告2017</a><br />
+<td><p><a href="../Page/2017年度香港行政長官施政報告_(林鄭月娥).md" title="wikilink">施政報告2017</a><br />
 Policy Address 2017</p></td>
 <td><p>主持：<a href="https://zh.wikipedia.org/wiki/劉銘欣" title="wikilink">劉銘欣</a></p></td>
 <td><p>與<a href="../Page/Now新聞台.md" title="wikilink">Now新聞台同步播出</a></p></td>
@@ -1583,7 +1583,7 @@ Policy Address 2017</p></td>
 <tr class="odd">
 <td><p>10月11日</p></td>
 <td><p>19:00-20:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/施政論壇" title="wikilink">施政論壇2017</a><br />
+<td><p><a href="../Page/施政論壇.md" title="wikilink">施政論壇2017</a><br />
 Policy Address Forum 2017</p></td>
 <td><p>主持：<a href="https://zh.wikipedia.org/wiki/李俊傑_(記者)" title="wikilink">李俊傑</a>、<a href="https://zh.wikipedia.org/wiki/卓麗雯" title="wikilink">卓麗雯</a>、<strong><a href="https://zh.wikipedia.org/wiki/吳志賡" title="wikilink">吳志賡</a></strong>、<a href="https://zh.wikipedia.org/wiki/鄭穎瑩" title="wikilink">鄭穎瑩</a>、<a href="../Page/陳嘉欣.md" title="wikilink">陳嘉欣</a><br />
 嘉賓：<a href="../Page/林鄭月娥.md" title="wikilink">林鄭月娥</a></p></td>
@@ -1655,7 +1655,7 @@ CE Q&amp;A Session</p></td>
 <tr class="even">
 <td><p>2月22日</p></td>
 <td><p>00:30-01:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年3月香港立法會補選" title="wikilink">2018立法會補選論壇</a> - <a href="../Page/香港島選區.md" title="wikilink">香港島</a><br />
+<td><p><a href="../Page/2018年3月香港立法會補選.md" title="wikilink">2018立法會補選論壇</a> - <a href="../Page/香港島選區.md" title="wikilink">香港島</a><br />
 Legco By-election Forum 2018 - HKI</p></td>
 <td><p>主持：<a href="https://zh.wikipedia.org/wiki/吳志賡" title="wikilink">吳志賡</a>、<a href="https://zh.wikipedia.org/wiki/戴祖而" title="wikilink">戴祖而</a></p></td>
 <td><p><a href="../Page/Now新聞台.md" title="wikilink">Now新聞台製作</a></p></td>
@@ -1663,7 +1663,7 @@ Legco By-election Forum 2018 - HKI</p></td>
 <tr class="odd">
 <td><p>2月23日</p></td>
 <td><p>00:00-00:45</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年3月香港立法會補選" title="wikilink">2018立法會補選論壇</a> - <a href="../Page/九龍西選區.md" title="wikilink">九龍西</a><br />
+<td><p><a href="../Page/2018年3月香港立法會補選.md" title="wikilink">2018立法會補選論壇</a> - <a href="../Page/九龍西選區.md" title="wikilink">九龍西</a><br />
 Legco By-election Forum 2018 - KLW</p></td>
 <td><p>主持：<a href="https://zh.wikipedia.org/wiki/吳志賡" title="wikilink">吳志賡</a>、<a href="https://zh.wikipedia.org/wiki/戴祖而" title="wikilink">戴祖而</a></p></td>
 <td><p><a href="../Page/Now新聞台.md" title="wikilink">Now新聞台製作</a></p></td>
@@ -1671,7 +1671,7 @@ Legco By-election Forum 2018 - KLW</p></td>
 <tr class="even">
 <td><p>2月24日</p></td>
 <td><p>00:00-01:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年3月香港立法會補選" title="wikilink">2018立法會補選論壇</a> - <a href="../Page/新界東選區.md" title="wikilink">新界東</a><br />
+<td><p><a href="../Page/2018年3月香港立法會補選.md" title="wikilink">2018立法會補選論壇</a> - <a href="../Page/新界東選區.md" title="wikilink">新界東</a><br />
 Legco By-election Forum 2018 - NTE</p></td>
 <td><p>主持：<a href="https://zh.wikipedia.org/wiki/吳志賡" title="wikilink">吳志賡</a>、<a href="https://zh.wikipedia.org/wiki/戴祖而" title="wikilink">戴祖而</a></p></td>
 <td><p><a href="../Page/Now新聞台.md" title="wikilink">Now新聞台製作</a></p></td>
@@ -1679,7 +1679,7 @@ Legco By-election Forum 2018 - NTE</p></td>
 <tr class="odd">
 <td><p>2月28日</p></td>
 <td><p>11:00-13:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年至2019年度香港政府財政預算案" title="wikilink">財政預算案</a><br />
+<td><p><a href="../Page/2018年至2019年度香港政府財政預算案.md" title="wikilink">財政預算案</a><br />
 The 2018-19 Budget</p></td>
 <td><p>主持：<a href="https://zh.wikipedia.org/wiki/黃浩霖" title="wikilink">黃浩霖</a></p></td>
 <td><p>與<a href="../Page/Now新聞台.md" title="wikilink">Now新聞台同步播出</a></p></td>
@@ -1687,7 +1687,7 @@ The 2018-19 Budget</p></td>
 <tr class="even">
 <td><p>2月28日</p></td>
 <td><p>19:00-20:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/財政預算案論壇" title="wikilink">財政預算案論壇</a><br />
+<td><p><a href="../Page/財政預算案論壇.md" title="wikilink">財政預算案論壇</a><br />
 Budget Forum 2018</p></td>
 <td><p>主持：<a href="https://zh.wikipedia.org/wiki/陳冠生" title="wikilink">陳冠生</a>、<a href="https://zh.wikipedia.org/wiki/李燕芬" title="wikilink">李燕芬</a>、<a href="https://zh.wikipedia.org/wiki/吳詠珊" title="wikilink">吳詠珊</a>、<strong><a href="https://zh.wikipedia.org/wiki/黃浩霖" title="wikilink">黃浩霖</a></strong>、<a href="https://zh.wikipedia.org/wiki/詹前穎" title="wikilink">詹前穎</a><br />
 嘉賓：<a href="../Page/陳茂波.md" title="wikilink">陳茂波</a></p></td>
@@ -1720,7 +1720,7 @@ CE Meets the Press</p></td>
 <tr class="even">
 <td><p>10月10日</p></td>
 <td><p>19:00-20:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/施政論壇" title="wikilink">施政論壇2018</a><br />
+<td><p><a href="../Page/施政論壇.md" title="wikilink">施政論壇2018</a><br />
 Policy Address Forum 2018</p></td>
 <td><p>主持：<a href="../Page/王春媚.md" title="wikilink">王春媚</a>、<strong><a href="https://zh.wikipedia.org/wiki/廖康如" title="wikilink">廖康如</a></strong>、<a href="https://zh.wikipedia.org/wiki/張家灝" title="wikilink">張家灝</a>、<a href="https://zh.wikipedia.org/wiki/卓麗雯" title="wikilink">卓麗雯</a>、<a href="https://zh.wikipedia.org/wiki/汪溟曦" title="wikilink">汪溟曦</a><br />
 嘉賓：<a href="../Page/林鄭月娥.md" title="wikilink">林鄭月娥</a></p></td>
@@ -1737,7 +1737,7 @@ CE Q&amp;A Session</p></td>
 <tr class="even">
 <td><p>11月21日</p></td>
 <td><p>00:30-02:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年11月香港立法會九龍西地方選區補選" title="wikilink">2018立法會補選論壇 - 九龍西</a><br />
+<td><p><a href="../Page/2018年11月香港立法會九龍西地方選區補選.md" title="wikilink">2018立法會補選論壇 - 九龍西</a><br />
 Legco By-election Forum 2018 - KLW</p></td>
 <td><p>主持：<a href="https://zh.wikipedia.org/wiki/吳志賡" title="wikilink">吳志賡</a>、<a href="https://zh.wikipedia.org/wiki/戴祖而" title="wikilink">戴祖而</a></p></td>
 <td><p><a href="../Page/Now新聞台.md" title="wikilink">Now新聞台製作</a></p></td>
@@ -1808,7 +1808,7 @@ The 2019-20 Budget</p></td>
 <tr class="odd">
 <td><p>2月27日</p></td>
 <td><p>19:00-20:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/財政預算案論壇" title="wikilink">財政預算案論壇</a><br />
+<td><p><a href="../Page/財政預算案論壇.md" title="wikilink">財政預算案論壇</a><br />
 Budget Forum 2019</p></td>
 <td><p>主持：<strong><a href="https://zh.wikipedia.org/wiki/黃思行" title="wikilink">黃思行</a></strong>、<a href="https://zh.wikipedia.org/wiki/陳亮均" title="wikilink">陳亮均</a>、<a href="https://zh.wikipedia.org/wiki/陳冠生" title="wikilink">陳冠生</a>、<a href="../Page/李卓謙.md" title="wikilink">李卓謙</a>、<a href="https://zh.wikipedia.org/wiki/李燕芬" title="wikilink">李燕芬</a><br />
 嘉賓：<a href="../Page/陳茂波.md" title="wikilink">陳茂波</a></p></td>
@@ -1873,7 +1873,7 @@ CE Q&amp;A Session</p></td>
 ViuTV Opening Ceremony</p></td>
 <td><p>主持：、<a href="../Page/黃心美.md" title="wikilink">黃心美</a><br />
 嘉賓：<a href="../Page/曾俊華.md" title="wikilink">曾俊華</a>、<a href="../Page/蘇錦樑.md" title="wikilink">蘇錦樑</a><br />
-演出：<a href="../Page/李臻.md" title="wikilink">李臻</a>、<a href="../Page/唐紫睿.md" title="wikilink">唐紫睿</a>、<a href="../Page/黎美言.md" title="wikilink">黎美言</a>、<a href="https://zh.wikipedia.org/wiki/龍小菌" title="wikilink">龍小菌</a>、<a href="../Page/鄧穎芝.md" title="wikilink">鄧穎芝</a>、、<a href="https://zh.wikipedia.org/wiki/鄧洢玲" title="wikilink">鄧洢玲</a>、、、<a href="../Page/伍家謙.md" title="wikilink">伍家謙</a>、<a href="../Page/柳俊江.md" title="wikilink">柳俊江</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="https://zh.wikipedia.org/wiki/林二汶" title="wikilink">林二汶</a>、<a href="../Page/劉心悠.md" title="wikilink">劉心悠</a>、<a href="../Page/郭偉亮.md" title="wikilink">郭偉亮</a>、<a href="../Page/少爺占.md" title="wikilink">少爺占</a>、<a href="../Page/唐劍康.md" title="wikilink">Donald</a>、<a href="https://zh.wikipedia.org/wiki/高皓正" title="wikilink">高皓正</a>、<a href="../Page/戴夢夢.md" title="wikilink">戴夢夢</a>、<a href="https://zh.wikipedia.org/wiki/邵音音" title="wikilink">邵音音</a>、<a href="https://zh.wikipedia.org/wiki/連詩雅" title="wikilink">連詩雅</a>、<a href="../Page/鄒凱光.md" title="wikilink">鄒凱光</a>、<a href="../Page/Robynn_&amp;_Kendy.md" title="wikilink">Robynn &amp; Kendy</a>、<a href="../Page/杜琪峯.md" title="wikilink">杜琪峯</a>、<a href="../Page/韋家輝.md" title="wikilink">韋家輝</a>、<a href="../Page/溫碧霞.md" title="wikilink">溫碧霞</a>、<a href="https://zh.wikipedia.org/wiki/楊淇" title="wikilink">楊淇</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、、<a href="https://zh.wikipedia.org/wiki/袁澧林" title="wikilink">袁澧林</a>、<a href="https://zh.wikipedia.org/wiki/李靖筠" title="wikilink">李靖筠</a>、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/林保怡.md" title="wikilink">林保怡</a>、<a href="../Page/周家怡.md" title="wikilink">周家怡</a>、<a href="../Page/廖碧兒.md" title="wikilink">廖碧兒</a>、<a href="../Page/潘燦良.md" title="wikilink">潘燦良</a>、<a href="../Page/火火.md" title="wikilink">火火</a>、<a href="../Page/李健宏.md" title="wikilink">Kevin仔</a>、<a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>
+演出：<a href="../Page/李臻.md" title="wikilink">李臻</a>、<a href="../Page/唐紫睿.md" title="wikilink">唐紫睿</a>、<a href="../Page/黎美言.md" title="wikilink">黎美言</a>、<a href="https://zh.wikipedia.org/wiki/龍小菌" title="wikilink">龍小菌</a>、<a href="../Page/鄧穎芝.md" title="wikilink">鄧穎芝</a>、、<a href="../Page/鄧洢玲.md" title="wikilink">鄧洢玲</a>、、、<a href="../Page/伍家謙.md" title="wikilink">伍家謙</a>、<a href="../Page/柳俊江.md" title="wikilink">柳俊江</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="https://zh.wikipedia.org/wiki/林二汶" title="wikilink">林二汶</a>、<a href="../Page/劉心悠.md" title="wikilink">劉心悠</a>、<a href="../Page/郭偉亮.md" title="wikilink">郭偉亮</a>、<a href="../Page/少爺占.md" title="wikilink">少爺占</a>、<a href="../Page/唐劍康.md" title="wikilink">Donald</a>、<a href="https://zh.wikipedia.org/wiki/高皓正" title="wikilink">高皓正</a>、<a href="../Page/戴夢夢.md" title="wikilink">戴夢夢</a>、<a href="https://zh.wikipedia.org/wiki/邵音音" title="wikilink">邵音音</a>、<a href="https://zh.wikipedia.org/wiki/連詩雅" title="wikilink">連詩雅</a>、<a href="../Page/鄒凱光.md" title="wikilink">鄒凱光</a>、<a href="../Page/Robynn_&amp;_Kendy.md" title="wikilink">Robynn &amp; Kendy</a>、<a href="../Page/杜琪峯.md" title="wikilink">杜琪峯</a>、<a href="../Page/韋家輝.md" title="wikilink">韋家輝</a>、<a href="../Page/溫碧霞.md" title="wikilink">溫碧霞</a>、<a href="https://zh.wikipedia.org/wiki/楊淇" title="wikilink">楊淇</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、、<a href="../Page/袁澧林.md" title="wikilink">袁澧林</a>、<a href="../Page/李靖筠.md" title="wikilink">李靖筠</a>、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/林保怡.md" title="wikilink">林保怡</a>、<a href="../Page/周家怡.md" title="wikilink">周家怡</a>、<a href="../Page/廖碧兒.md" title="wikilink">廖碧兒</a>、<a href="../Page/潘燦良.md" title="wikilink">潘燦良</a>、<a href="../Page/火火.md" title="wikilink">火火</a>、<a href="../Page/李健宏.md" title="wikilink">Kevin仔</a>、<a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1884,7 +1884,7 @@ ViuTV Opening Ceremony</p></td>
 <td><p><a href="../Page/萬千呃Like賀台慶.md" title="wikilink">萬千呃Like賀台慶</a><br />
 Happy TVMost Birthday To Me</p></td>
 <td><p>演出：<a href="https://zh.wikipedia.org/wiki/毛記電視#偽員" title="wikilink">毛記電視全體偽員</a><br />
-嘉賓：<a href="../Page/方健儀.md" title="wikilink">方健儀</a>、<a href="../Page/葉家寶.md" title="wikilink">葉家寶</a>、<a href="https://zh.wikipedia.org/wiki/劉皓嵐" title="wikilink">劉皓嵐</a>、<a href="../Page/卓韻芝.md" title="wikilink">卓韻芝</a>、<a href="../Page/盧冠廷.md" title="wikilink">盧冠廷</a>、<a href="../Page/林雪.md" title="wikilink">林雪</a>、<a href="../Page/盧海鵬.md" title="wikilink">盧海鵬</a>、<a href="https://zh.wikipedia.org/wiki/夏雨" title="wikilink">夏雨</a>、<a href="../Page/李司棋.md" title="wikilink">李司棋</a>、<a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、、<a href="../Page/張崇基.md" title="wikilink">張崇基</a>、<a href="../Page/張崇德.md" title="wikilink">張崇德</a>、<a href="../Page/趙學而.md" title="wikilink">趙學而</a></p></td>
+嘉賓：<a href="../Page/方健儀.md" title="wikilink">方健儀</a>、<a href="../Page/葉家寶.md" title="wikilink">葉家寶</a>、<a href="../Page/劉皓嵐.md" title="wikilink">劉皓嵐</a>、<a href="../Page/卓韻芝.md" title="wikilink">卓韻芝</a>、<a href="../Page/盧冠廷.md" title="wikilink">盧冠廷</a>、<a href="../Page/林雪.md" title="wikilink">林雪</a>、<a href="../Page/盧海鵬.md" title="wikilink">盧海鵬</a>、<a href="https://zh.wikipedia.org/wiki/夏雨" title="wikilink">夏雨</a>、<a href="../Page/李司棋.md" title="wikilink">李司棋</a>、<a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、、<a href="../Page/張崇基.md" title="wikilink">張崇基</a>、<a href="../Page/張崇德.md" title="wikilink">張崇德</a>、<a href="../Page/趙學而.md" title="wikilink">趙學而</a></p></td>
 <td><p><a href="http://www.tvmost.com.hk/hb/">毛記電視網頁</a></p></td>
 <td><p><strong>現場直播</strong></p></td>
 </tr>
@@ -1902,10 +1902,10 @@ People's Republic of China National Day Celebration 2016</p></td>
 <td><p>10月23日</p></td>
 <td><p>22:00-22:30</p></td>
 <td><p>節目巡禮</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ViuTV_2017" title="wikilink">ViuTV 2017</a><br />
+<td><p><a href="../Page/ViuTV_2017.md" title="wikilink">ViuTV 2017</a><br />
 ViuTV 2017</p></td>
 <td><p>主持：<a href="../Page/黃心美.md" title="wikilink">黃心美</a><br />
-演出：<a href="../Page/火火.md" title="wikilink">火火</a>、、<a href="../Page/許博文.md" title="wikilink">許博文</a>、<a href="../Page/劉美君.md" title="wikilink">劉美君</a>、<a href="../Page/鄒凱光.md" title="wikilink">鄒凱光</a>、、<a href="../Page/RubberBand.md" title="wikilink">RubberBand</a>、<a href="https://zh.wikipedia.org/wiki/袁澧林" title="wikilink">袁澧林</a>、<a href="https://zh.wikipedia.org/wiki/劉俊謙" title="wikilink">劉俊謙</a>、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/譚詠麟.md" title="wikilink">譚詠麟</a>、<a href="../Page/許志安.md" title="wikilink">許志安</a></p></td>
+演出：<a href="../Page/火火.md" title="wikilink">火火</a>、、<a href="../Page/許博文.md" title="wikilink">許博文</a>、<a href="../Page/劉美君.md" title="wikilink">劉美君</a>、<a href="../Page/鄒凱光.md" title="wikilink">鄒凱光</a>、、<a href="../Page/RubberBand.md" title="wikilink">RubberBand</a>、<a href="../Page/袁澧林.md" title="wikilink">袁澧林</a>、<a href="https://zh.wikipedia.org/wiki/劉俊謙" title="wikilink">劉俊謙</a>、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/譚詠麟.md" title="wikilink">譚詠麟</a>、<a href="../Page/許志安.md" title="wikilink">許志安</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1975,7 +1975,7 @@ Ceremony &amp; Variety Show In Celebration Of The 20th Anniversary Of The Establ
 <td><p><br />
 ViuTV 2018</p></td>
 <td><p>主持：、、<br />
-演出：<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a>、<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a>、、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="https://zh.wikipedia.org/wiki/羅伊婷" title="wikilink">羅伊婷</a>、、<a href="https://zh.wikipedia.org/wiki/趙詠瑤" title="wikilink">趙詠瑤</a>、、、、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="https://zh.wikipedia.org/wiki/劉俊謙" title="wikilink">劉俊謙</a>、<a href="https://zh.wikipedia.org/wiki/楊偲泳" title="wikilink">楊偲泳</a>、<a href="../Page/許博文.md" title="wikilink">許博文</a>、、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="https://zh.wikipedia.org/wiki/余采霖" title="wikilink">余采霖</a>、<a href="https://zh.wikipedia.org/wiki/吳國麟" title="wikilink">吳國麟</a>、<a href="https://zh.wikipedia.org/wiki/黎梓駿" title="wikilink">黎梓駿</a>、<a href="https://zh.wikipedia.org/wiki/梁天俊" title="wikilink">梁天俊</a>、<a href="https://zh.wikipedia.org/wiki/劉泉" title="wikilink">劉泉</a>、<a href="../Page/劉秉賓.md" title="wikilink">皓聖</a>、<a href="https://zh.wikipedia.org/wiki/朱柏康" title="wikilink">朱柏康</a>、、<a href="../Page/陳慧珊.md" title="wikilink">陳慧珊</a>、<a href="../Page/RubberBand.md" title="wikilink">RubberBand</a>、<a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a>、<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/徐肇平.md" title="wikilink">徐肇平</a>、<a href="https://zh.wikipedia.org/wiki/陳漢娜" title="wikilink">陳漢娜</a>、<a href="../Page/王貽興.md" title="wikilink">王貽興</a>、<a href="https://zh.wikipedia.org/wiki/劉家輝_(攝影師)" title="wikilink">劉翁</a>、<a href="https://zh.wikipedia.org/wiki/Artem_Ansheles" title="wikilink">Artem Ansheles</a>、<a href="https://zh.wikipedia.org/wiki/Asha_Cuthbert" title="wikilink">Asha Cuthbert</a>、<a href="../Page/麥家琪.md" title="wikilink">麥家琪</a>、、、、、、<a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、<a href="https://zh.wikipedia.org/wiki/李蔓瑩" title="wikilink">李蔓瑩</a></p></td>
+演出：<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/羅伊婷.md" title="wikilink">羅伊婷</a>、、<a href="../Page/趙詠瑤.md" title="wikilink">趙詠瑤</a>、、、、、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="https://zh.wikipedia.org/wiki/劉俊謙" title="wikilink">劉俊謙</a>、<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、<a href="../Page/許博文.md" title="wikilink">許博文</a>、、<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>、<a href="../Page/余采霖.md" title="wikilink">余采霖</a>、<a href="https://zh.wikipedia.org/wiki/吳國麟" title="wikilink">吳國麟</a>、<a href="https://zh.wikipedia.org/wiki/黎梓駿" title="wikilink">黎梓駿</a>、<a href="https://zh.wikipedia.org/wiki/梁天俊" title="wikilink">梁天俊</a>、<a href="https://zh.wikipedia.org/wiki/劉泉" title="wikilink">劉泉</a>、<a href="../Page/劉秉賓.md" title="wikilink">皓聖</a>、<a href="https://zh.wikipedia.org/wiki/朱柏康" title="wikilink">朱柏康</a>、、<a href="../Page/陳慧珊.md" title="wikilink">陳慧珊</a>、<a href="../Page/RubberBand.md" title="wikilink">RubberBand</a>、<a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a>、<a href="../Page/陳國邦.md" title="wikilink">陳國邦</a>、<a href="../Page/徐肇平.md" title="wikilink">徐肇平</a>、<a href="../Page/陳漢娜.md" title="wikilink">陳漢娜</a>、<a href="../Page/王貽興.md" title="wikilink">王貽興</a>、<a href="https://zh.wikipedia.org/wiki/劉家輝_(攝影師)" title="wikilink">劉翁</a>、<a href="../Page/Artem_Ansheles.md" title="wikilink">Artem Ansheles</a>、<a href="https://zh.wikipedia.org/wiki/Asha_Cuthbert" title="wikilink">Asha Cuthbert</a>、<a href="../Page/麥家琪.md" title="wikilink">麥家琪</a>、、、、、、<a href="../Page/陳啟泰.md" title="wikilink">陳啟泰</a>、<a href="../Page/李蔓瑩.md" title="wikilink">李蔓瑩</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2006,7 +2006,7 @@ People's Republic of China National Day Celebration 2017</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第十四屆全球華語大學生影視獎頒獎典禮" title="wikilink">第十四屆全球華語大學生影視獎頒獎典禮</a><br />
 The 14th Global Chinese Universities Student Film and TV Festival Ceremony</p></td>
 <td><p>主持：<a href="../Page/曾志豪_(主持人).md" title="wikilink">曾志豪</a>、<a href="../Page/陳凱欣.md" title="wikilink">陳凱欣</a><br />
-嘉賓：<a href="../Page/袁詠儀.md" title="wikilink">袁詠儀</a>、<a href="../Page/廖啟智.md" title="wikilink">廖啟智</a>、<a href="../Page/宣萱.md" title="wikilink">宣萱</a>、<a href="../Page/邱騰華.md" title="wikilink">邱騰華</a>、<a href="../Page/林超榮.md" title="wikilink">林超榮</a>、<a href="https://zh.wikipedia.org/wiki/陳志發" title="wikilink">陳志發</a>、<a href="https://zh.wikipedia.org/wiki/歐文傑" title="wikilink">歐文傑</a>、<a href="../Page/劉偉強.md" title="wikilink">劉偉強</a>、<a href="../Page/張堅庭.md" title="wikilink">張堅庭</a>、<a href="../Page/劉天蘭.md" title="wikilink">劉天蘭</a>、<a href="../Page/馬榮成.md" title="wikilink">馬榮成</a>、<a href="../Page/泰迪羅賓.md" title="wikilink">泰迪羅賓</a>、<a href="../Page/陸劍青.md" title="wikilink">陸劍青</a>、<a href="../Page/陳哲藝.md" title="wikilink">陳哲藝</a>、<a href="../Page/趙國雄.md" title="wikilink">趙國雄</a></p></td>
+嘉賓：<a href="../Page/袁詠儀.md" title="wikilink">袁詠儀</a>、<a href="../Page/廖啟智.md" title="wikilink">廖啟智</a>、<a href="../Page/宣萱.md" title="wikilink">宣萱</a>、<a href="../Page/邱騰華.md" title="wikilink">邱騰華</a>、<a href="../Page/林超榮.md" title="wikilink">林超榮</a>、<a href="../Page/陳志發.md" title="wikilink">陳志發</a>、<a href="../Page/歐文傑.md" title="wikilink">歐文傑</a>、<a href="../Page/劉偉強.md" title="wikilink">劉偉強</a>、<a href="../Page/張堅庭.md" title="wikilink">張堅庭</a>、<a href="../Page/劉天蘭.md" title="wikilink">劉天蘭</a>、<a href="../Page/馬榮成.md" title="wikilink">馬榮成</a>、<a href="../Page/泰迪羅賓.md" title="wikilink">泰迪羅賓</a>、<a href="../Page/陸劍青.md" title="wikilink">陸劍青</a>、<a href="../Page/陳哲藝.md" title="wikilink">陳哲藝</a>、<a href="../Page/趙國雄.md" title="wikilink">趙國雄</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2063,7 +2063,7 @@ We Like Hong Kong "Work Hard Will Win" Award Presentation Ceremony</p></td>
 <td><p>4月2日至6日及9日至13日</p></td>
 <td><p>22:30-22:35</p></td>
 <td><p>娛樂訪談</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第37屆香港電影金像獎" title="wikilink">第37屆香港電影金像獎前奏</a><br />
+<td><p><a href="../Page/第37屆香港電影金像獎.md" title="wikilink">第37屆香港電影金像獎前奏</a><br />
 The 37th Hong Kong Film Awards Mini</p></td>
 <td></td>
 <td></td>
@@ -2083,7 +2083,7 @@ Film Awards Special</p></td>
 <td><p>4月15日</p></td>
 <td><p>17:30-19:25</p></td>
 <td><p>電影頒獎禮</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第37屆香港電影金像獎" title="wikilink">第37屆香港電影金像獎頒獎典禮紅地氈盛況</a><br />
+<td><p><a href="../Page/第37屆香港電影金像獎.md" title="wikilink">第37屆香港電影金像獎頒獎典禮紅地氈盛況</a><br />
 The 37th Hong Kong Film Awards Presentation Ceremony Special</p></td>
 <td><p>主持：<a href="../Page/卓韻芝.md" title="wikilink">卓韻芝</a>、<a href="../Page/余迪偉.md" title="wikilink">余迪偉</a><br />
 ViuTV現場主持：、、<a href="https://zh.wikipedia.org/wiki/毛曄穎" title="wikilink">毛曄穎</a>、<a href="https://zh.wikipedia.org/wiki/童靖芸" title="wikilink">童靖芸</a><br />
@@ -2095,7 +2095,7 @@ ViuTV錄影廠主持：<a href="https://zh.wikipedia.org/wiki/廖嘉輝" title="
 <td><p>4月15日</p></td>
 <td><p>20:00-00:00</p></td>
 <td><p>電影頒獎禮</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第37屆香港電影金像獎" title="wikilink">第37屆香港電影金像獎頒獎典禮</a><br />
+<td><p><a href="../Page/第37屆香港電影金像獎.md" title="wikilink">第37屆香港電影金像獎頒獎典禮</a><br />
 The 37th Hong Kong Film Awards Presentation Ceremony</p></td>
 <td><p>主持：<a href="../Page/張繼聰.md" title="wikilink">張繼聰</a>、<a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a><br />
 ViuTV現場主持：</p></td>
@@ -2107,9 +2107,9 @@ ViuTV現場主持：</p></td>
 <td><p>4月16日</p></td>
 <td><p>22:30-23:00</p></td>
 <td><p>娛樂訪談</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第37屆香港電影金像獎" title="wikilink">金像獎璀璨一夜</a><br />
+<td><p><a href="../Page/第37屆香港電影金像獎.md" title="wikilink">金像獎璀璨一夜</a><br />
 Film Awards Highlights</p></td>
-<td><p>主持：<a href="https://zh.wikipedia.org/wiki/朱晉傑" title="wikilink">朱晉傑</a>、、、<a href="https://zh.wikipedia.org/wiki/毛曄穎" title="wikilink">毛曄穎</a>、<a href="https://zh.wikipedia.org/wiki/童靖芸" title="wikilink">童靖芸</a>、、<a href="https://zh.wikipedia.org/wiki/余采霖" title="wikilink">余采霖</a>、<a href="https://zh.wikipedia.org/wiki/文桂琪" title="wikilink">文桂琪</a></p></td>
+<td><p>主持：<a href="https://zh.wikipedia.org/wiki/朱晉傑" title="wikilink">朱晉傑</a>、、、<a href="https://zh.wikipedia.org/wiki/毛曄穎" title="wikilink">毛曄穎</a>、<a href="https://zh.wikipedia.org/wiki/童靖芸" title="wikilink">童靖芸</a>、、<a href="../Page/余采霖.md" title="wikilink">余采霖</a>、<a href="https://zh.wikipedia.org/wiki/文桂琪" title="wikilink">文桂琪</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2174,7 +2174,7 @@ King of Catering Awards 2018</p></td>
 JUXTAPOSED Fashion x Music 2018</p></td>
 <td><p>主持：<a href="../Page/陳嘉容.md" title="wikilink">陳嘉容</a></p></td>
 <td></td>
-<td><p>外購節目（<a href="../Page/香港.md" title="wikilink">香港</a><a href="https://zh.wikipedia.org/wiki/耀榮文化" title="wikilink">耀榮文化</a>）</p></td>
+<td><p>外購節目（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/耀榮文化.md" title="wikilink">耀榮文化</a>）</p></td>
 </tr>
 </tbody>
 </table>
@@ -2232,7 +2232,7 @@ ViuTV Facebook直播主持：<a href="../Page/楊樂文.md" title="wikilink">楊
 <td><p>電影頒獎禮</p></td>
 <td><p><a href="../Page/第38屆香港電影金像獎.md" title="wikilink">第38屆香港電影金像獎頒獎典禮</a><br />
 The 38th Hong Kong Film Awards Presentation Ceremony</p></td>
-<td><p>主持：<a href="../Page/盧鎮業.md" title="wikilink">盧鎮業</a>、<a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、<a href="../Page/朱鑑然.md" title="wikilink">朱鑑然</a>、<a href="https://zh.wikipedia.org/wiki/余香凝" title="wikilink">余香凝</a>、<a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="https://zh.wikipedia.org/wiki/李任燊" title="wikilink">李任燊</a>、<a href="https://zh.wikipedia.org/wiki/李靖筠" title="wikilink">李靖筠</a>、<a href="../Page/杜小喬.md" title="wikilink">杜小喬</a>、<a href="../Page/林耀聲.md" title="wikilink">林耀聲</a>、-{<a href="https://zh.wikipedia.org/wiki/胡子彤" title="wikilink">胡子彤</a>}-、<a href="https://zh.wikipedia.org/wiki/凌文龍" title="wikilink">凌文龍</a>、<a href="https://zh.wikipedia.org/wiki/袁澧林" title="wikilink">袁澧林</a>、<a href="https://zh.wikipedia.org/wiki/梁雍婷" title="wikilink">梁雍婷</a>、<a href="../Page/郭奕芯.md" title="wikilink">郭奕芯</a>、<a href="../Page/陳健朗.md" title="wikilink">陳健朗</a>、<a href="../Page/陳嘉桓.md" title="wikilink">陳嘉桓</a>、<a href="../Page/陳欣妍.md" title="wikilink">陳欣妍</a>、<a href="https://zh.wikipedia.org/wiki/陳漢娜" title="wikilink">陳漢娜</a>、<a href="../Page/麥芷誼.md" title="wikilink">麥芷誼</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、<a href="../Page/湯加文.md" title="wikilink">湯加文</a>、、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<a href="../Page/劉頌鵬.md" title="wikilink">劉頌鵬</a>、<a href="../Page/蔡瀚億.md" title="wikilink">蔡瀚億</a>、<a href="../Page/談善言.md" title="wikilink">談善言</a>、<a href="https://zh.wikipedia.org/wiki/鄧月平" title="wikilink">鄧月平</a>、<a href="https://zh.wikipedia.org/wiki/謝高晉" title="wikilink">謝高晉</a>、<a href="../Page/蘇麗珊.md" title="wikilink">蘇麗珊</a>、<a href="../Page/顧定軒.md" title="wikilink">顧定軒</a><br />
+<td><p>主持：<a href="../Page/盧鎮業.md" title="wikilink">盧鎮業</a>、<a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、<a href="../Page/朱鑑然.md" title="wikilink">朱鑑然</a>、<a href="../Page/余香凝.md" title="wikilink">余香凝</a>、<a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/李任燊.md" title="wikilink">李任燊</a>、<a href="../Page/李靖筠.md" title="wikilink">李靖筠</a>、<a href="../Page/杜小喬.md" title="wikilink">杜小喬</a>、<a href="../Page/林耀聲.md" title="wikilink">林耀聲</a>、-{<a href="../Page/胡子彤.md" title="wikilink">胡子彤</a>}-、<a href="../Page/凌文龍.md" title="wikilink">凌文龍</a>、<a href="../Page/袁澧林.md" title="wikilink">袁澧林</a>、<a href="../Page/梁雍婷.md" title="wikilink">梁雍婷</a>、<a href="../Page/郭奕芯.md" title="wikilink">郭奕芯</a>、<a href="../Page/陳健朗.md" title="wikilink">陳健朗</a>、<a href="../Page/陳嘉桓.md" title="wikilink">陳嘉桓</a>、<a href="../Page/陳欣妍.md" title="wikilink">陳欣妍</a>、<a href="../Page/陳漢娜.md" title="wikilink">陳漢娜</a>、<a href="../Page/麥芷誼.md" title="wikilink">麥芷誼</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、<a href="../Page/湯加文.md" title="wikilink">湯加文</a>、、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<a href="../Page/劉頌鵬.md" title="wikilink">劉頌鵬</a>、<a href="../Page/蔡瀚億.md" title="wikilink">蔡瀚億</a>、<a href="../Page/談善言.md" title="wikilink">談善言</a>、<a href="../Page/鄧月平.md" title="wikilink">鄧月平</a>、<a href="https://zh.wikipedia.org/wiki/謝高晉" title="wikilink">謝高晉</a>、<a href="../Page/蘇麗珊.md" title="wikilink">蘇麗珊</a>、<a href="../Page/顧定軒.md" title="wikilink">顧定軒</a><br />
 ViuTV現場主持：</p></td>
 <td></td>
 <td><p><strong>現場直播</strong><br />
@@ -2255,7 +2255,7 @@ Film Awards Highlight 2019</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ViuTV_4.29全新節目巡禮" title="wikilink">ViuTV 4.29全新節目巡禮</a><br />
 ViuTV 4.29 Program Parade</p></td>
 <td><p>主持：<a href="../Page/余迪偉.md" title="wikilink">余迪偉</a>、<a href="https://zh.wikipedia.org/wiki/林二汶" title="wikilink">林二汶</a><br />
-演出：<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="https://zh.wikipedia.org/wiki/嚴瀚褀" title="wikilink">嚴瀚褀</a>、<a href="https://zh.wikipedia.org/wiki/彭嘉桓" title="wikilink">彭嘉桓</a>、<a href="../Page/歐錦棠.md" title="wikilink">歐錦棠</a>、<a href="https://zh.wikipedia.org/wiki/可宜" title="wikilink">可宜</a>、<a href="https://zh.wikipedia.org/wiki/胡莉芹" title="wikilink">花家姐</a>、<a href="../Page/潘紹聰.md" title="wikilink">潘紹聰</a>、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a>、、<a href="../Page/劉永健.md" title="wikilink">劉永健</a>、<a href="../Page/周家蔚.md" title="wikilink">周家蔚</a>、<a href="https://zh.wikipedia.org/wiki/杜汶澤" title="wikilink">杜汶澤</a>、<a href="https://zh.wikipedia.org/wiki/黃潔琪" title="wikilink">黃潔琪</a>、<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a>、<a href="../Page/陳錦鴻.md" title="wikilink">陳錦鴻</a>、<a href="../Page/鄧萃雯.md" title="wikilink">鄧萃雯</a>、<a href="../Page/廖碧兒.md" title="wikilink">廖碧兒</a>、<a href="../Page/談善言.md" title="wikilink">談善言</a>、<a href="../Page/鄭少秋.md" title="wikilink">鄭少秋</a>、<a href="../Page/陶大宇.md" title="wikilink">陶大宇</a>、<a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a>、<a href="../Page/郭偉亮.md" title="wikilink">郭偉亮</a>、、<a href="../Page/麥子樂.md" title="wikilink">麥子樂</a>、<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a></p></td>
+演出：<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="https://zh.wikipedia.org/wiki/嚴瀚褀" title="wikilink">嚴瀚褀</a>、<a href="https://zh.wikipedia.org/wiki/彭嘉桓" title="wikilink">彭嘉桓</a>、<a href="../Page/歐錦棠.md" title="wikilink">歐錦棠</a>、<a href="https://zh.wikipedia.org/wiki/可宜" title="wikilink">可宜</a>、<a href="https://zh.wikipedia.org/wiki/胡莉芹" title="wikilink">花家姐</a>、<a href="../Page/潘紹聰.md" title="wikilink">潘紹聰</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、、<a href="../Page/劉永健.md" title="wikilink">劉永健</a>、<a href="../Page/周家蔚.md" title="wikilink">周家蔚</a>、<a href="https://zh.wikipedia.org/wiki/杜汶澤" title="wikilink">杜汶澤</a>、<a href="https://zh.wikipedia.org/wiki/黃潔琪" title="wikilink">黃潔琪</a>、<a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a>、<a href="../Page/陳錦鴻.md" title="wikilink">陳錦鴻</a>、<a href="../Page/鄧萃雯.md" title="wikilink">鄧萃雯</a>、<a href="../Page/廖碧兒.md" title="wikilink">廖碧兒</a>、<a href="../Page/談善言.md" title="wikilink">談善言</a>、<a href="../Page/鄭少秋.md" title="wikilink">鄭少秋</a>、<a href="../Page/陶大宇.md" title="wikilink">陶大宇</a>、<a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a>、<a href="../Page/郭偉亮.md" title="wikilink">郭偉亮</a>、、<a href="../Page/麥子樂.md" title="wikilink">麥子樂</a>、<a href="../Page/ERROR_(香港男子組合).md" title="wikilink">ERROR</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2500,9 +2500,9 @@ Jun Kung Just A Concert 2016</p></td>
 2016 Mnet Asian Music Awards</p></td>
 <td><p>主持：<a href="../Page/李炳憲.md" title="wikilink">李炳憲</a><br />
 演出：<a href="../Page/EXO.md" title="wikilink">EXO</a>、<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>、<a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a><br />
-、<a href="https://zh.wikipedia.org/wiki/Eric_Nam" title="wikilink">Eric Nam</a>、<a href="https://zh.wikipedia.org/wiki/Timbaland" title="wikilink">Timbaland</a>、<a href="https://zh.wikipedia.org/wiki/Suzy" title="wikilink">Suzy</a>、<a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a>、<a href="https://zh.wikipedia.org/wiki/Dean" title="wikilink">Dean</a><br />
-、<a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a>、<a href="../Page/泰民.md" title="wikilink">泰民</a><br />
-、<a href="../Page/太妍.md" title="wikilink">太妍</a>、<a href="../Page/劉亞仁.md" title="wikilink">劉亞仁</a>、<a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛</a>、、<a href="https://zh.wikipedia.org/wiki/Wiz_Khalifa" title="wikilink">Wiz Khalifa</a><br />
+、<a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a>、<a href="https://zh.wikipedia.org/wiki/Timbaland" title="wikilink">Timbaland</a>、<a href="https://zh.wikipedia.org/wiki/Suzy" title="wikilink">Suzy</a>、<a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a>、<a href="https://zh.wikipedia.org/wiki/Dean" title="wikilink">Dean</a><br />
+、<a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="../Page/BewhY.md" title="wikilink">BewhY</a>、<a href="../Page/泰民.md" title="wikilink">泰民</a><br />
+、<a href="../Page/太妍.md" title="wikilink">太妍</a>、<a href="../Page/劉亞仁.md" title="wikilink">劉亞仁</a>、<a href="../Page/李笛.md" title="wikilink">李笛</a>、、<a href="https://zh.wikipedia.org/wiki/Wiz_Khalifa" title="wikilink">Wiz Khalifa</a><br />
 ViuTV錄影廠主持：<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a></p></td>
 <td><p><a href="http://viu.tv/encore/2-01-6-mnet-asian-music-awards">ViuTV網頁</a></p></td>
 <td><p><strong>現場直播</strong><br />
@@ -2527,15 +2527,15 @@ Jason Chan The Players Concert 2016</p></td>
 <td><p>國際音樂</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/釜山同一個亞洲文化節" title="wikilink">釜山同一個亞洲文化節</a><br />
 Busan One Asia Festival</p></td>
-<td><p>主持：<a href="../Page/李多海.md" title="wikilink">李多海</a>、<a href="https://zh.wikipedia.org/wiki/金玟錫" title="wikilink">金玟錫</a>、<a href="https://zh.wikipedia.org/wiki/定延" title="wikilink">定延</a>、<a href="https://zh.wikipedia.org/wiki/孔昇延" title="wikilink">孔昇延</a><br />
+<td><p>主持：<a href="../Page/李多海.md" title="wikilink">李多海</a>、<a href="https://zh.wikipedia.org/wiki/金玟錫" title="wikilink">金玟錫</a>、<a href="../Page/定延.md" title="wikilink">定延</a>、<a href="https://zh.wikipedia.org/wiki/孔昇延" title="wikilink">孔昇延</a><br />
 演出：<a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a>、<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>、<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>、<a href="../Page/B1A4.md" title="wikilink">B1A4</a><br />
 、<a href="../Page/Block_B.md" title="wikilink">Block B</a>、<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a>、<a href="https://zh.wikipedia.org/wiki/T-ara" title="wikilink">T-ara</a>、<a href="https://zh.wikipedia.org/wiki/LYn" title="wikilink">LYn</a>、<a href="../Page/B.A.P.md" title="wikilink">B.A.P</a><br />
 、<a href="../Page/Apink.md" title="wikilink">Apink</a>、<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>、<a href="https://zh.wikipedia.org/wiki/Girls&#39;_Generation" title="wikilink">Girls' Generation</a><br />
-、<a href="https://zh.wikipedia.org/wiki/MFBTY" title="wikilink">MFBTY</a>、<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>、<a href="https://zh.wikipedia.org/wiki/Psy" title="wikilink">Psy</a>、<a href="https://zh.wikipedia.org/wiki/EXO-CBX" title="wikilink">EXO-CBX</a><br />
+、<a href="https://zh.wikipedia.org/wiki/MFBTY" title="wikilink">MFBTY</a>、<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>、<a href="https://zh.wikipedia.org/wiki/Psy" title="wikilink">Psy</a>、<a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a><br />
 、<a href="../Page/SHINee.md" title="wikilink">SHINee</a>、<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a>、<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a><br />
 、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a>、<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a><br />
-、<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>、<a href="../Page/BTOB.md" title="wikilink">BTOB</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="../Page/NC.A.md" title="wikilink">NC.A</a>、<a href="https://zh.wikipedia.org/wiki/SF9" title="wikilink">SF9</a><br />
-、<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a>、<a href="https://zh.wikipedia.org/wiki/HALO" title="wikilink">HALO</a>、<a href="https://zh.wikipedia.org/wiki/MIXX" title="wikilink">MIXX</a>、<a href="https://zh.wikipedia.org/wiki/Big_Brain" title="wikilink">Big Brain</a></p></td>
+、<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>、<a href="../Page/BTOB.md" title="wikilink">BTOB</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="../Page/NC.A.md" title="wikilink">NC.A</a>、<a href="https://zh.wikipedia.org/wiki/SF9" title="wikilink">SF9</a><br />
+、<a href="https://zh.wikipedia.org/wiki/KNK" title="wikilink">KNK</a>、<a href="https://zh.wikipedia.org/wiki/HALO" title="wikilink">HALO</a>、<a href="../Page/MIXX.md" title="wikilink">MIXX</a>、<a href="https://zh.wikipedia.org/wiki/Big_Brain" title="wikilink">Big Brain</a></p></td>
 <td></td>
 <td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a>）／不設粵語配音／重播<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台節目</a></p></td>
 </tr>
@@ -2547,8 +2547,8 @@ Busan One Asia Festival</p></td>
 <td><p>音樂頒獎禮</p></td>
 <td><p><a href="../Page/Gaon_Chart_K-POP大獎.md" title="wikilink">第五屆Gaon Chart K-Pop大獎</a><br />
 5th Gaonchart K-POP Awards</p></td>
-<td><p>主持：<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="https://zh.wikipedia.org/wiki/Yura" title="wikilink">Yura</a><br />
-演出：<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>、<a href="../Page/EXO.md" title="wikilink">EXO</a>、<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>、<a href="../Page/太妍.md" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a>、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>、<a href="../Page/AOA_CREAM.md" title="wikilink">AOA CREAM</a>、<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>、<a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a>、<a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a>、<a href="../Page/白娥娟.md" title="wikilink">白娥娟</a>、<a href="../Page/Mad_Clown.md" title="wikilink">Mad Clown</a>、<a href="../Page/Zion.T.md" title="wikilink">Zion.T</a>、<a href="https://zh.wikipedia.org/wiki/MINO" title="wikilink">MINO</a>、<a href="../Page/姜昇潤.md" title="wikilink">姜昇潤</a>、<a href="../Page/B.A.P.md" title="wikilink">B.A.P</a>、<a href="../Page/VIXX.md" title="wikilink">VIXX</a></p></td>
+<td><p>主持：<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/Yura.md" title="wikilink">Yura</a><br />
+演出：<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>、<a href="../Page/EXO.md" title="wikilink">EXO</a>、<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>、<a href="../Page/太妍.md" title="wikilink">太妍</a>、<a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a>、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>、<a href="../Page/AOA_CREAM.md" title="wikilink">AOA CREAM</a>、<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>、<a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a>、<a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a>、<a href="../Page/白娥娟.md" title="wikilink">白娥娟</a>、<a href="../Page/Mad_Clown.md" title="wikilink">Mad Clown</a>、<a href="../Page/Zion.T.md" title="wikilink">Zion.T</a>、<a href="https://zh.wikipedia.org/wiki/MINO" title="wikilink">MINO</a>、<a href="../Page/姜昇潤.md" title="wikilink">姜昇潤</a>、<a href="../Page/B.A.P.md" title="wikilink">B.A.P</a>、<a href="../Page/VIXX.md" title="wikilink">VIXX</a></p></td>
 <td></td>
 <td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a>）／不設粵語配音</p></td>
 </tr>
@@ -2585,7 +2585,7 @@ Busan One Asia Festival</p></td>
 <td><p>音樂頒獎禮</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2016年度叱咤樂壇流行榜頒獎典禮得獎名單" title="wikilink">2016年度叱咤樂壇流行榜頒獎典禮</a><br />
 Ultimate Song Chart Awards Presentation 2016</p></td>
-<td><p>主持：<a href="../Page/梁文禮.md" title="wikilink">梁文禮</a>、、<a href="../Page/麻利亞.md" title="wikilink">麻利亞</a>、<a href="../Page/薛晉寧.md" title="wikilink">阿檸</a>、<a href="https://zh.wikipedia.org/wiki/麥濠麟" title="wikilink">Colin</a>、<a href="../Page/細So.md" title="wikilink">細So</a>、<a href="../Page/朱薰.md" title="wikilink">朱薰</a>、<a href="https://zh.wikipedia.org/wiki/李澄_(DJ)" title="wikilink">西瓜</a>、<a href="../Page/謝茜嘉.md" title="wikilink">謝茜嘉</a>、<a href="../Page/余迪偉.md" title="wikilink">余迪偉</a>、<a href="../Page/少爺占.md" title="wikilink">少爺占</a>、<a href="../Page/唐劍康.md" title="wikilink">Donald</a>、<a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森美</a>、<a href="https://zh.wikipedia.org/wiki/小儀" title="wikilink">小儀</a>、<a href="https://zh.wikipedia.org/wiki/林海峰" title="wikilink">林海峰</a><br />
+<td><p>主持：<a href="../Page/梁文禮.md" title="wikilink">梁文禮</a>、、<a href="../Page/麻利亞.md" title="wikilink">麻利亞</a>、<a href="../Page/薛晉寧.md" title="wikilink">阿檸</a>、<a href="../Page/麥濠麟.md" title="wikilink">Colin</a>、<a href="../Page/細So.md" title="wikilink">細So</a>、<a href="../Page/朱薰.md" title="wikilink">朱薰</a>、<a href="https://zh.wikipedia.org/wiki/李澄_(DJ)" title="wikilink">西瓜</a>、<a href="../Page/謝茜嘉.md" title="wikilink">謝茜嘉</a>、<a href="../Page/余迪偉.md" title="wikilink">余迪偉</a>、<a href="../Page/少爺占.md" title="wikilink">少爺占</a>、<a href="../Page/唐劍康.md" title="wikilink">Donald</a>、<a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森美</a>、<a href="https://zh.wikipedia.org/wiki/小儀" title="wikilink">小儀</a>、<a href="https://zh.wikipedia.org/wiki/林海峰" title="wikilink">林海峰</a><br />
 ViuTV錄影廠主持：<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
 <td><p><a href="https://web.archive.org/web/20161104011125/http://www.my903.com/my903/usc2016/web/main.jsp">大會網頁</a></p></td>
 <td><p><strong>現場直播</strong><br />
@@ -2598,7 +2598,7 @@ ViuTV錄影廠主持：<a href="../Page/陳俞希.md" title="wikilink">陳俞希
 <td><p><a href="https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜#第十二屆_2017" title="wikilink">第十二屆KKBOX風雲榜</a><br />
 The 12th KKBOX Music Awards</p></td>
 <td><p>主持：<a href="../Page/黃子佼.md" title="wikilink">黃子佼</a>、<a href="../Page/任家萱.md" title="wikilink">任家萱</a><br />
-演出：<a href="../Page/田馥甄.md" title="wikilink">田馥甄</a>、<a href="https://zh.wikipedia.org/wiki/李佳薇_(歌手)" title="wikilink">李佳薇</a>、<a href="https://zh.wikipedia.org/wiki/陳勢安" title="wikilink">陳勢安</a>、<a href="../Page/信_(歌手).md" title="wikilink">信</a>、<a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a>、<a href="../Page/八三夭.md" title="wikilink">八三夭</a>、<a href="../Page/郭靜.md" title="wikilink">郭靜</a>、<a href="https://zh.wikipedia.org/wiki/劉艾立" title="wikilink">Erika</a>、<a href="https://zh.wikipedia.org/wiki/吳克群" title="wikilink">吳克群</a>、<a href="../Page/韋禮安.md" title="wikilink">韋禮安</a>、<a href="https://zh.wikipedia.org/wiki/鄧紫棋" title="wikilink">鄧紫棋</a>、<a href="https://zh.wikipedia.org/wiki/林俊傑" title="wikilink">林俊傑</a>、<a href="../Page/五月天.md" title="wikilink">五月天</a>、<a href="../Page/呂國緯.md" title="wikilink">鼓鼓</a>、<a href="../Page/周興哲.md" title="wikilink">周興哲</a>、<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a>、<a href="https://zh.wikipedia.org/wiki/Under_Lover" title="wikilink">Under Lover</a>、<a href="https://zh.wikipedia.org/wiki/玖壹壹" title="wikilink">玖壹壹</a>、<a href="https://zh.wikipedia.org/wiki/兄弟本色" title="wikilink">兄弟本色</a>、<a href="https://zh.wikipedia.org/wiki/草東沒有派對" title="wikilink">草東沒有派對</a><br />
+演出：<a href="../Page/田馥甄.md" title="wikilink">田馥甄</a>、<a href="https://zh.wikipedia.org/wiki/李佳薇_(歌手)" title="wikilink">李佳薇</a>、<a href="https://zh.wikipedia.org/wiki/陳勢安" title="wikilink">陳勢安</a>、<a href="../Page/信_(歌手).md" title="wikilink">信</a>、<a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a>、<a href="../Page/八三夭.md" title="wikilink">八三夭</a>、<a href="../Page/郭靜.md" title="wikilink">郭靜</a>、<a href="https://zh.wikipedia.org/wiki/劉艾立" title="wikilink">Erika</a>、<a href="https://zh.wikipedia.org/wiki/吳克群" title="wikilink">吳克群</a>、<a href="../Page/韋禮安.md" title="wikilink">韋禮安</a>、<a href="https://zh.wikipedia.org/wiki/鄧紫棋" title="wikilink">鄧紫棋</a>、<a href="https://zh.wikipedia.org/wiki/林俊傑" title="wikilink">林俊傑</a>、<a href="../Page/五月天.md" title="wikilink">五月天</a>、<a href="../Page/呂國緯.md" title="wikilink">鼓鼓</a>、<a href="../Page/周興哲.md" title="wikilink">周興哲</a>、<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a>、<a href="https://zh.wikipedia.org/wiki/Under_Lover" title="wikilink">Under Lover</a>、<a href="https://zh.wikipedia.org/wiki/玖壹壹" title="wikilink">玖壹壹</a>、<a href="https://zh.wikipedia.org/wiki/兄弟本色" title="wikilink">兄弟本色</a>、<a href="../Page/草東沒有派對.md" title="wikilink">草東沒有派對</a><br />
 ViuTV錄影廠主持：</p></td>
 <td></td>
 <td><p><strong>現場直播</strong><br />
@@ -2620,7 +2620,7 @@ Wynners &amp; Tai Chi Music LIVE Concert 2017</p></td>
 <td><p>國際音樂</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2016夏戀嘉年華" title="wikilink">2016夏戀嘉年華</a><br />
 2016 Hualien Summer Festival</p></td>
-<td><p>演出：<a href="../Page/蕭敬騰.md" title="wikilink">蕭敬騰</a>、<a href="https://zh.wikipedia.org/wiki/GTM" title="wikilink">GTM</a>、<a href="https://zh.wikipedia.org/wiki/TOP1男子漢" title="wikilink">TOP1男子漢</a>、<a href="../Page/袁詠琳.md" title="wikilink">袁詠琳</a>、<a href="https://zh.wikipedia.org/wiki/陳零九" title="wikilink">陳零九</a>、<a href="https://zh.wikipedia.org/wiki/HUSH_(台灣男歌手)" title="wikilink">HUSH</a>、<a href="../Page/羅美玲.md" title="wikilink">羅美玲</a>、<a href="../Page/陶嫚曼.md" title="wikilink">陶嫚曼</a>、<a href="../Page/蔣卓嘉.md" title="wikilink">蔣卓嘉</a>、<a href="https://zh.wikipedia.org/wiki/劉艾立" title="wikilink">劉艾立</a>、<a href="https://zh.wikipedia.org/wiki/Fuying_%26_Sam" title="wikilink">FS</a>、<a href="https://zh.wikipedia.org/wiki/楊程鈞" title="wikilink">楊程鈞</a>、<a href="../Page/何維健.md" title="wikilink">何維健</a>、<a href="../Page/小宇.md" title="wikilink">小宇</a>、<a href="https://zh.wikipedia.org/wiki/玖壹壹" title="wikilink">玖壹壹</a>、<a href="../Page/八三夭.md" title="wikilink">八三夭</a>、<a href="../Page/呂國緯.md" title="wikilink">鼓鼓</a>、<a href="https://zh.wikipedia.org/wiki/陳彥允" title="wikilink">陳彥允</a>、<a href="../Page/吳汶芳.md" title="wikilink">吳汶芳</a>、<a href="https://zh.wikipedia.org/wiki/ASA" title="wikilink">ASA</a></p></td>
+<td><p>演出：<a href="../Page/蕭敬騰.md" title="wikilink">蕭敬騰</a>、<a href="https://zh.wikipedia.org/wiki/GTM" title="wikilink">GTM</a>、<a href="https://zh.wikipedia.org/wiki/TOP1男子漢" title="wikilink">TOP1男子漢</a>、<a href="../Page/袁詠琳.md" title="wikilink">袁詠琳</a>、<a href="../Page/陳零九.md" title="wikilink">陳零九</a>、<a href="https://zh.wikipedia.org/wiki/HUSH_(台灣男歌手)" title="wikilink">HUSH</a>、<a href="../Page/羅美玲.md" title="wikilink">羅美玲</a>、<a href="../Page/陶嫚曼.md" title="wikilink">陶嫚曼</a>、<a href="../Page/蔣卓嘉.md" title="wikilink">蔣卓嘉</a>、<a href="https://zh.wikipedia.org/wiki/劉艾立" title="wikilink">劉艾立</a>、<a href="https://zh.wikipedia.org/wiki/Fuying_%26_Sam" title="wikilink">FS</a>、<a href="https://zh.wikipedia.org/wiki/楊程鈞" title="wikilink">楊程鈞</a>、<a href="../Page/何維健.md" title="wikilink">何維健</a>、<a href="../Page/小宇.md" title="wikilink">小宇</a>、<a href="https://zh.wikipedia.org/wiki/玖壹壹" title="wikilink">玖壹壹</a>、<a href="../Page/八三夭.md" title="wikilink">八三夭</a>、<a href="../Page/呂國緯.md" title="wikilink">鼓鼓</a>、<a href="https://zh.wikipedia.org/wiki/陳彥允" title="wikilink">陳彥允</a>、<a href="../Page/吳汶芳.md" title="wikilink">吳汶芳</a>、<a href="https://zh.wikipedia.org/wiki/ASA" title="wikilink">ASA</a></p></td>
 <td></td>
 <td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a><a href="../Page/三立電視.md" title="wikilink">三立電視</a>）／不設粵語配音／4月17日10:00-12:00及10月3日02:30-04:30重播</p></td>
 </tr>
@@ -2691,10 +2691,10 @@ Youth Concert for People's Republic of China National Day 2017</p></td>
 <td><p>12月1日</p></td>
 <td><p>19:00-23:15</p></td>
 <td><p>音樂頒獎禮</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年Mnet亞洲音樂大獎" title="wikilink">2017 MAMA亞洲音樂大獎-香港站</a><br />
+<td><p><a href="../Page/2017年Mnet亞洲音樂大獎.md" title="wikilink">2017 MAMA亞洲音樂大獎-香港站</a><br />
 2017 Mnet Asian Music Awards in Hong Kong</p></td>
 <td><p>主持：<a href="../Page/宋仲基.md" title="wikilink">宋仲基</a><br />
-演出：<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a>、<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>、<a href="../Page/EXO.md" title="wikilink">EXO</a>、<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>、<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>、<a href="../Page/泰民.md" title="wikilink">泰民</a>、<a href="https://zh.wikipedia.org/wiki/善美" title="wikilink">善美</a>、<a href="https://zh.wikipedia.org/wiki/韶宥" title="wikilink">韶宥</a>、<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>、<a href="../Page/莫文蔚.md" title="wikilink">莫文蔚</a><br />
+演出：<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a>、<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>、<a href="../Page/EXO.md" title="wikilink">EXO</a>、<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>、<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>、<a href="../Page/泰民.md" title="wikilink">泰民</a>、<a href="https://zh.wikipedia.org/wiki/善美" title="wikilink">善美</a>、<a href="https://zh.wikipedia.org/wiki/韶宥" title="wikilink">韶宥</a>、<a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>、<a href="../Page/莫文蔚.md" title="wikilink">莫文蔚</a><br />
 粵語現場翻譯：Suzuki Hon、Dean Chan</p></td>
 <td><p><a href="http://viu.tv/encore/2-01-7-mnet-asian-music-awards">ViuTV網頁</a></p></td>
 <td><p><strong>現場直播</strong><br />
@@ -2731,12 +2731,12 @@ Youth Concert for People's Republic of China National Day 2017</p></td>
 <td><p>1月1日</p></td>
 <td><p>12:30-16:00</p></td>
 <td><p>音樂頒獎禮</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年Mnet亞洲音樂大獎" title="wikilink">2017 MAMA亞洲音樂大獎-日本站</a><br />
+<td><p><a href="../Page/2017年Mnet亞洲音樂大獎.md" title="wikilink">2017 MAMA亞洲音樂大獎-日本站</a><br />
 2017 Mnet Asian Music Awards in Japan</p></td>
-<td><p>主持：<a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a><br />
-演出：<a href="https://zh.wikipedia.org/wiki/BoA" title="wikilink">BoA</a>、<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>、<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>、<a href="https://zh.wikipedia.org/wiki/EXO-CBX" title="wikilink">EXO-CBX</a>、<a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a>、<a href="https://zh.wikipedia.org/wiki/fromis_9" title="wikilink">fromis_9</a>、<a href="https://zh.wikipedia.org/wiki/NU&#39;EST_W" title="wikilink">NU'EST W</a>、<a href="https://zh.wikipedia.org/wiki/PRISTIN" title="wikilink">PRISTIN</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a>、<a href="https://zh.wikipedia.org/wiki/Weki_Meki" title="wikilink">Weki Meki</a>、<a href="https://zh.wikipedia.org/wiki/ZICO" title="wikilink">ZICO</a>、<a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
+<td><p>主持：<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a><br />
+演出：<a href="https://zh.wikipedia.org/wiki/BoA" title="wikilink">BoA</a>、<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>、<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>、<a href="../Page/EXO-CBX.md" title="wikilink">EXO-CBX</a>、<a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a>、<a href="https://zh.wikipedia.org/wiki/fromis_9" title="wikilink">fromis_9</a>、<a href="https://zh.wikipedia.org/wiki/NU&#39;EST_W" title="wikilink">NU'EST W</a>、<a href="https://zh.wikipedia.org/wiki/PRISTIN" title="wikilink">PRISTIN</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a>、<a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a>、<a href="https://zh.wikipedia.org/wiki/ZICO" title="wikilink">ZICO</a>、<a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p><a href="http://viu.tv/encore/2-01-7-mnet-asian-music-awards">ViuTV網頁</a></p></td>
-<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）／重播<a href="https://zh.wikipedia.org/wiki/ViuTVsix" title="wikilink">ViuTVsix節目</a></p></td>
+<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）／重播<a href="../Page/ViuTVsix.md" title="wikilink">ViuTVsix節目</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1月1日</p></td>
@@ -2744,7 +2744,7 @@ Youth Concert for People's Republic of China National Day 2017</p></td>
 <td><p>音樂頒獎禮</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2017年度叱咤樂壇流行榜頒獎典禮得獎名單" title="wikilink">2017年度叱咤樂壇流行榜頒獎典禮</a><br />
 2017 Ultimate Song Chart Awards Presentation</p></td>
-<td><p>主持：<a href="../Page/細So.md" title="wikilink">細So</a>、<a href="../Page/梁文禮.md" title="wikilink">梁文禮</a>、<a href="../Page/謝茜嘉.md" title="wikilink">謝茜嘉</a>、<a href="https://zh.wikipedia.org/wiki/麥濠麟" title="wikilink">Colin</a>、<a href="../Page/薛晉寧.md" title="wikilink">阿檸</a>、<a href="../Page/朱薰.md" title="wikilink">朱薰</a>、<a href="https://zh.wikipedia.org/wiki/李澄_(DJ)" title="wikilink">西瓜</a>、、<a href="../Page/麻利亞.md" title="wikilink">麻利亞</a>、<a href="../Page/余迪偉.md" title="wikilink">余迪偉</a>、<a href="../Page/少爺占.md" title="wikilink">少爺占</a>、<a href="../Page/唐劍康.md" title="wikilink">Donald</a>、<a href="https://zh.wikipedia.org/wiki/小儀" title="wikilink">小儀</a>、<a href="https://zh.wikipedia.org/wiki/林海峰" title="wikilink">林海峰</a>、<a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森美</a><br />
+<td><p>主持：<a href="../Page/細So.md" title="wikilink">細So</a>、<a href="../Page/梁文禮.md" title="wikilink">梁文禮</a>、<a href="../Page/謝茜嘉.md" title="wikilink">謝茜嘉</a>、<a href="../Page/麥濠麟.md" title="wikilink">Colin</a>、<a href="../Page/薛晉寧.md" title="wikilink">阿檸</a>、<a href="../Page/朱薰.md" title="wikilink">朱薰</a>、<a href="https://zh.wikipedia.org/wiki/李澄_(DJ)" title="wikilink">西瓜</a>、、<a href="../Page/麻利亞.md" title="wikilink">麻利亞</a>、<a href="../Page/余迪偉.md" title="wikilink">余迪偉</a>、<a href="../Page/少爺占.md" title="wikilink">少爺占</a>、<a href="../Page/唐劍康.md" title="wikilink">Donald</a>、<a href="https://zh.wikipedia.org/wiki/小儀" title="wikilink">小儀</a>、<a href="https://zh.wikipedia.org/wiki/林海峰" title="wikilink">林海峰</a>、<a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森美</a><br />
 ViuTV錄影廠主持：<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a></p></td>
 <td><p><a href="http://www.my903.com/903openbox/usca2017">大會網頁</a><br />
 <a href="http://viu.tv/encore/2-01-7-ultimate-song-chart-awards-presentation">ViuTV網頁</a></p></td>
@@ -2803,7 +2803,7 @@ E-Kids Again? Concert 2018</p></td>
 <td><p><a href="../Page/香港亞洲流行音樂節.md" title="wikilink">香港亞洲流行音樂節2018</a><br />
 Hong Kong Asian Pop Music Festival 2018</p></td>
 <td><p>主持：<a href="../Page/李志剛_(香港).md" title="wikilink">李志剛</a>、<a href="../Page/黃山怡.md" title="wikilink">糖妹</a>、<a href="../Page/黃子佼.md" title="wikilink">黃子佼</a><br />
-演出：<a href="https://zh.wikipedia.org/wiki/Supper_Moment" title="wikilink">Supper Moment</a>、<a href="../Page/中島美嘉.md" title="wikilink">中島美嘉</a>、<a href="../Page/徐佳瑩.md" title="wikilink">徐佳瑩</a>、<a href="../Page/BTOB.md" title="wikilink">BTOB</a>、、<a href="https://zh.wikipedia.org/wiki/MIC男團" title="wikilink">MIC男團</a>（王一浩、池約翰）、<a href="https://zh.wikipedia.org/wiki/阮福盛" title="wikilink">阮富盛</a>、、<a href="https://zh.wikipedia.org/wiki/蔡恩雨" title="wikilink">蔡恩雨</a></p></td>
+演出：<a href="https://zh.wikipedia.org/wiki/Supper_Moment" title="wikilink">Supper Moment</a>、<a href="../Page/中島美嘉.md" title="wikilink">中島美嘉</a>、<a href="../Page/徐佳瑩.md" title="wikilink">徐佳瑩</a>、<a href="../Page/BTOB.md" title="wikilink">BTOB</a>、、<a href="https://zh.wikipedia.org/wiki/MIC男團" title="wikilink">MIC男團</a>（王一浩、池約翰）、<a href="https://zh.wikipedia.org/wiki/阮福盛" title="wikilink">阮富盛</a>、、<a href="../Page/蔡恩雨.md" title="wikilink">蔡恩雨</a></p></td>
 <td></td>
 <td><p><a href="../Page/香港電台.md" title="wikilink">香港電台製作</a>／9月25日09:00-12:30重播</p></td>
 </tr>
@@ -2823,7 +2823,7 @@ MOOV LIVE Jason X Janice</p></td>
 <td><p>本地音樂</p></td>
 <td><p><a href="../Page/陳百強.md" title="wikilink">高歌陳百強演唱會</a><br />
 The World Sings Danny Chan Concert</p></td>
-<td><p>演出：<a href="https://zh.wikipedia.org/wiki/張勝量" title="wikilink">張勝量</a>（牛牛）、<a href="../Page/林珊珊.md" title="wikilink">林珊珊</a>、<a href="../Page/周殷廷.md" title="wikilink">周殷廷</a>、<a href="../Page/麥家瑜.md" title="wikilink">麥家瑜</a>、<a href="../Page/陳逸璇.md" title="wikilink">陳逸璇</a>、<a href="https://zh.wikipedia.org/wiki/劉卓昕" title="wikilink">劉卓昕</a>、<a href="../Page/劉美君.md" title="wikilink">劉美君</a>、<a href="../Page/盧冠廷.md" title="wikilink">盧冠廷</a>、<a href="../Page/Robynn_&amp;_Kendy.md" title="wikilink">Robynn &amp; Kendy</a>、<a href="../Page/江海迦.md" title="wikilink">AGA</a>、<a href="../Page/李幸倪.md" title="wikilink">Gin Lee</a>、<a href="../Page/關淑怡.md" title="wikilink">關淑怡</a>、<a href="https://zh.wikipedia.org/wiki/梁詠琪" title="wikilink">梁詠琪</a>、<a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a>、<a href="https://zh.wikipedia.org/wiki/符致逸" title="wikilink">符致逸</a></p></td>
+<td><p>演出：<a href="https://zh.wikipedia.org/wiki/張勝量" title="wikilink">張勝量</a>（牛牛）、<a href="../Page/林珊珊.md" title="wikilink">林珊珊</a>、<a href="../Page/周殷廷.md" title="wikilink">周殷廷</a>、<a href="../Page/麥家瑜.md" title="wikilink">麥家瑜</a>、<a href="../Page/陳逸璇.md" title="wikilink">陳逸璇</a>、<a href="https://zh.wikipedia.org/wiki/劉卓昕" title="wikilink">劉卓昕</a>、<a href="../Page/劉美君.md" title="wikilink">劉美君</a>、<a href="../Page/盧冠廷.md" title="wikilink">盧冠廷</a>、<a href="../Page/Robynn_&amp;_Kendy.md" title="wikilink">Robynn &amp; Kendy</a>、<a href="../Page/江海迦.md" title="wikilink">AGA</a>、<a href="../Page/李幸倪.md" title="wikilink">Gin Lee</a>、<a href="../Page/關淑怡.md" title="wikilink">關淑怡</a>、<a href="https://zh.wikipedia.org/wiki/梁詠琪" title="wikilink">梁詠琪</a>、<a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a>、<a href="../Page/符致逸.md" title="wikilink">符致逸</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2895,7 +2895,7 @@ ViuTV錄影廠主持：<a href="../Page/陳俞希.md" title="wikilink">陳俞希
 <td><p><a href="https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜#第十四屆_2019" title="wikilink">第十四屆KKBOX風雲榜</a><br />
 The 14th KKBOX Music Awards</p></td>
 <td><p>主持：<a href="https://zh.wikipedia.org/wiki/Lulu" title="wikilink">Lulu</a><br />
-演出：<a href="../Page/蕭敬騰.md" title="wikilink">蕭敬騰</a>、<a href="../Page/莫文蔚.md" title="wikilink">莫文蔚</a>、<a href="https://zh.wikipedia.org/wiki/吳卓源" title="wikilink">吳卓源</a>、<a href="../Page/周興哲.md" title="wikilink">周興哲</a>、<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>、<a href="https://zh.wikipedia.org/wiki/茄子蛋" title="wikilink">茄子蛋</a>、<a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a>、<a href="../Page/熊仔.md" title="wikilink">熊仔</a>、-{<a href="../Page/于文文.md" title="wikilink">于文文</a>}-、<a href="https://zh.wikipedia.org/wiki/畢書盡" title="wikilink">畢書盡</a>、<a href="../Page/黃子佼.md" title="wikilink">黃子佼</a>、<a href="../Page/八三夭.md" title="wikilink">八三夭</a>、<a href="https://zh.wikipedia.org/wiki/Alan_Walker" title="wikilink">Alan Walker</a>、<a href="../Page/蔡依林.md" title="wikilink">蔡依林</a><br />
+演出：<a href="../Page/蕭敬騰.md" title="wikilink">蕭敬騰</a>、<a href="../Page/莫文蔚.md" title="wikilink">莫文蔚</a>、<a href="../Page/吳卓源.md" title="wikilink">吳卓源</a>、<a href="../Page/周興哲.md" title="wikilink">周興哲</a>、<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>、<a href="../Page/茄子蛋.md" title="wikilink">茄子蛋</a>、<a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a>、<a href="../Page/熊仔.md" title="wikilink">熊仔</a>、-{<a href="../Page/于文文.md" title="wikilink">于文文</a>}-、<a href="https://zh.wikipedia.org/wiki/畢書盡" title="wikilink">畢書盡</a>、<a href="../Page/黃子佼.md" title="wikilink">黃子佼</a>、<a href="../Page/八三夭.md" title="wikilink">八三夭</a>、<a href="https://zh.wikipedia.org/wiki/Alan_Walker" title="wikilink">Alan Walker</a>、<a href="../Page/蔡依林.md" title="wikilink">蔡依林</a><br />
 ViuTV錄影廠主持：</p></td>
 <td><p><a href="https://kma.kkbox.com/awards/">大會網頁</a></p></td>
 <td><p><strong>現場直播</strong><br />
@@ -2907,11 +2907,11 @@ ViuTV錄影廠主持：</p></td>
 <td><p>音樂頒獎禮</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2018年Mnet亞洲音樂大獎" title="wikilink">2018 MAMA亞洲音樂大獎 - 日本站</a><br />
 2018 Mnet Asian Music Awards in Japan</p></td>
-<td><p>主持：<a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a><br />
+<td><p>主持：<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a><br />
 演出：<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>、<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>、<a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a>、<a href="https://zh.wikipedia.org/wiki/Stray_Kids" title="wikilink">Stray Kids</a>、<a href="https://zh.wikipedia.org/wiki/NU&#39;EST_W" title="wikilink">NU'EST W</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>、<a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a>、<a href="../Page/李聖經.md" title="wikilink">李聖經</a>、<a href="../Page/庭沼珉.md" title="wikilink">庭沼珉</a>、<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a><br />
 粵語現場翻譯：Bonny Yim、Nichol Chau、Suzuki Hon、SK Lam</p></td>
 <td><p><a href="https://viu.tv/encore/2-01-8-mnet-asian-music-awards-in-japan">ViuTV網頁</a></p></td>
-<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）／重播<a href="https://zh.wikipedia.org/wiki/ViuTVsix" title="wikilink">ViuTVsix節目</a></p></td>
+<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）／重播<a href="../Page/ViuTVsix.md" title="wikilink">ViuTVsix節目</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2月6日</p></td>
@@ -2920,7 +2920,7 @@ ViuTV錄影廠主持：</p></td>
 <td><p><a href="../Page/第四十一屆十大中文金曲得獎名單.md" title="wikilink">第41屆十大中文金曲「用心．聽」音樂會</a><br />
 The 41st Top Ten Chinese Gold Songs Concert - Feel the Music</p></td>
 <td><p>主持：<a href="../Page/李志剛_(香港).md" title="wikilink">李志剛</a>、、<a href="https://zh.wikipedia.org/wiki/崔潔彤" title="wikilink">崔潔彤</a>、、<a href="../Page/梁德輝.md" title="wikilink">梁德輝</a><br />
-演出：<a href="../Page/謝霆鋒.md" title="wikilink">謝霆鋒</a>、<a href="https://zh.wikipedia.org/wiki/陳泳彤" title="wikilink">JC</a>、<a href="https://zh.wikipedia.org/wiki/AGA" title="wikilink">AGA</a>、<a href="../Page/李幸倪.md" title="wikilink">Gin Lee</a>、<a href="../Page/王灝兒.md" title="wikilink">JW王灝兒</a>、<a href="../Page/吳業坤.md" title="wikilink">吳業坤</a>、<a href="../Page/周柏豪.md" title="wikilink">周柏豪</a>、<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>、<a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a>、<a href="https://zh.wikipedia.org/wiki/許廷鏗" title="wikilink">許廷鏗</a>、<a href="../Page/陳柏宇.md" title="wikilink">陳柏宇</a>、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a>、<a href="https://zh.wikipedia.org/wiki/Supper_Moment" title="wikilink">Supper Moment</a>、<a href="../Page/達明一派.md" title="wikilink">達明一派</a>、<a href="../Page/謝安琪.md" title="wikilink">謝安琪</a>、<a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a></p></td>
+演出：<a href="../Page/謝霆鋒.md" title="wikilink">謝霆鋒</a>、<a href="../Page/陳泳彤.md" title="wikilink">JC</a>、<a href="https://zh.wikipedia.org/wiki/AGA" title="wikilink">AGA</a>、<a href="../Page/李幸倪.md" title="wikilink">Gin Lee</a>、<a href="../Page/王灝兒.md" title="wikilink">JW王灝兒</a>、<a href="../Page/吳業坤.md" title="wikilink">吳業坤</a>、<a href="../Page/周柏豪.md" title="wikilink">周柏豪</a>、<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>、<a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a>、<a href="https://zh.wikipedia.org/wiki/許廷鏗" title="wikilink">許廷鏗</a>、<a href="../Page/陳柏宇.md" title="wikilink">陳柏宇</a>、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a>、<a href="https://zh.wikipedia.org/wiki/Supper_Moment" title="wikilink">Supper Moment</a>、<a href="../Page/達明一派.md" title="wikilink">達明一派</a>、<a href="../Page/謝安琪.md" title="wikilink">謝安琪</a>、<a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=XU7d0qeiOvk">香港電台Youtube頻道節目重溫</a></p></td>
 <td><p><a href="../Page/香港電台.md" title="wikilink">香港電台製作</a></p></td>
 </tr>
@@ -2934,7 +2934,7 @@ The 41st Top Ten Chinese Gold Songs Concert - Feel the Music</p></td>
 演出：<a href="https://zh.wikipedia.org/wiki/Stray_Kids" title="wikilink">Stray Kids</a>、<a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a>、<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>、<a href="https://zh.wikipedia.org/wiki/欅坂46" title="wikilink">欅坂46</a><br />
 粵語現場翻譯：Bonny Yim、Nichol Chau</p></td>
 <td><p><a href="https://viu.tv/encore/2-01-8-mnet-asian-music-awards-in-korea">ViuTV網頁</a></p></td>
-<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）／重播<a href="https://zh.wikipedia.org/wiki/ViuTVsix" title="wikilink">ViuTVsix節目</a></p></td>
+<td><p>外購節目（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a>）／重播<a href="../Page/ViuTVsix.md" title="wikilink">ViuTVsix節目</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2月7日</p></td>
@@ -2953,7 +2953,7 @@ MOOV LIVE Leo Ku X Charmaine Fong</p></td>
 <td><p><a href="../Page/KKBOX香港風雲榜.md" title="wikilink">KKBOX香港風雲榜</a><br />
 KKBOX Hong Kong Music Awards</p></td>
 <td><p>主持：<a href="../Page/繆浩昌.md" title="wikilink">繆浩昌</a>、<a href="https://zh.wikipedia.org/wiki/林二汶" title="wikilink">林二汶</a><br />
-演出：<a href="../Page/江海迦.md" title="wikilink">AGA</a>、<a href="../Page/C_AllStar.md" title="wikilink">C AllStar</a>、<a href="../Page/李幸倪.md" title="wikilink">Gin Lee</a>、<a href="https://zh.wikipedia.org/wiki/菊梓喬" title="wikilink">HANA</a>、<a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a>、<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>、<a href="../Page/陳柏宇.md" title="wikilink">陳柏宇</a>、<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a>、<a href="../Page/盧廣仲.md" title="wikilink">盧廣仲</a>、<a href="../Page/謝安琪.md" title="wikilink">謝安琪</a>、<a href="https://zh.wikipedia.org/wiki/Supper_Moment" title="wikilink">Supper Moment</a>、<a href="https://zh.wikipedia.org/wiki/蔡健雅" title="wikilink">蔡健雅</a>、<a href="https://zh.wikipedia.org/wiki/鄧小巧" title="wikilink">鄧小巧</a>、<a href="../Page/曾樂彤.md" title="wikilink">曾樂彤</a>、<br />
+演出：<a href="../Page/江海迦.md" title="wikilink">AGA</a>、<a href="../Page/C_AllStar.md" title="wikilink">C AllStar</a>、<a href="../Page/李幸倪.md" title="wikilink">Gin Lee</a>、<a href="../Page/菊梓喬.md" title="wikilink">HANA</a>、<a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a>、<a href="https://zh.wikipedia.org/wiki/胡鴻鈞" title="wikilink">胡鴻鈞</a>、<a href="../Page/陳柏宇.md" title="wikilink">陳柏宇</a>、<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a>、<a href="../Page/盧廣仲.md" title="wikilink">盧廣仲</a>、<a href="../Page/謝安琪.md" title="wikilink">謝安琪</a>、<a href="https://zh.wikipedia.org/wiki/Supper_Moment" title="wikilink">Supper Moment</a>、<a href="https://zh.wikipedia.org/wiki/蔡健雅" title="wikilink">蔡健雅</a>、<a href="https://zh.wikipedia.org/wiki/鄧小巧" title="wikilink">鄧小巧</a>、<a href="../Page/曾樂彤.md" title="wikilink">曾樂彤</a>、<br />
 ViuTV錄影廠主持：、</p></td>
 <td><p><a href="https://kma.kkbox.com/awards/news?terr=hk">大會網頁</a></p></td>
 <td><p>現場轉播<br />
@@ -2966,7 +2966,7 @@ ViuTV錄影廠主持：、</p></td>
 <td><p><a href="../Page/香港亞洲流行音樂節.md" title="wikilink">香港亞洲流行音樂節2019</a><br />
 Hong Kong Asian Pop Music Festival 2019</p></td>
 <td><p>主持：<a href="../Page/李志剛_(香港).md" title="wikilink">李志剛</a>、<a href="../Page/黃山怡.md" title="wikilink">糖妹</a>、<a href="../Page/黃子佼.md" title="wikilink">黃子佼</a><br />
-演出：<a href="https://zh.wikipedia.org/wiki/丁世光" title="wikilink">丁世光</a>、<a href="https://zh.wikipedia.org/wiki/NCT_127" title="wikilink">NCT 127</a>、<a href="../Page/GACKT.md" title="wikilink">GACKT</a>、<a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a>、<a href="https://zh.wikipedia.org/wiki/劉莉旻" title="wikilink">劉莉旻</a>、<a href="https://zh.wikipedia.org/wiki/Nowhere_Boys" title="wikilink">Nowhere Boys</a>、<a href="https://zh.wikipedia.org/wiki/呂思緯" title="wikilink">呂思緯</a>、<a href="../Page/西澤幸奏.md" title="wikilink">西沢幸奏</a>、<a href="https://zh.wikipedia.org/wiki/Stella_Jang" title="wikilink">Stella Jang</a>、、<a href="https://zh.wikipedia.org/wiki/Maria_Effendi" title="wikilink">Maria Effendi</a>、<a href="https://zh.wikipedia.org/wiki/The_Rube" title="wikilink">The Rube</a>、<a href="https://zh.wikipedia.org/wiki/Orange_(越南)" title="wikilink">Orange</a></p></td>
+演出：<a href="https://zh.wikipedia.org/wiki/丁世光" title="wikilink">丁世光</a>、<a href="https://zh.wikipedia.org/wiki/NCT_127" title="wikilink">NCT 127</a>、<a href="../Page/GACKT.md" title="wikilink">GACKT</a>、<a href="https://zh.wikipedia.org/wiki/張敬軒" title="wikilink">張敬軒</a>、<a href="https://zh.wikipedia.org/wiki/劉莉旻" title="wikilink">劉莉旻</a>、<a href="../Page/Nowhere_Boys.md" title="wikilink">Nowhere Boys</a>、<a href="https://zh.wikipedia.org/wiki/呂思緯" title="wikilink">呂思緯</a>、<a href="../Page/西澤幸奏.md" title="wikilink">西沢幸奏</a>、<a href="../Page/Stella_Jang.md" title="wikilink">Stella Jang</a>、、<a href="https://zh.wikipedia.org/wiki/Maria_Effendi" title="wikilink">Maria Effendi</a>、<a href="https://zh.wikipedia.org/wiki/The_Rube" title="wikilink">The Rube</a>、<a href="https://zh.wikipedia.org/wiki/Orange_(越南)" title="wikilink">Orange</a></p></td>
 <td></td>
 <td><p><a href="../Page/香港電台.md" title="wikilink">香港電台製作</a></p></td>
 </tr>
@@ -3137,7 +3137,7 @@ Wise Business (II)</p></td>
 <td><p>音樂</p></td>
 <td><p><br />
 Midnight Music Show</p></td>
-<td><p>主持：、<a href="https://zh.wikipedia.org/wiki/黃藝峰" title="wikilink">黃藝峰</a>、<a href="https://zh.wikipedia.org/wiki/符致逸" title="wikilink">符致逸</a>、<a href="../Page/周殷廷.md" title="wikilink">周殷廷</a>、<a href="../Page/麥家瑜.md" title="wikilink">麥家瑜</a>、<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a></p></td>
+<td><p>主持：、<a href="https://zh.wikipedia.org/wiki/黃藝峰" title="wikilink">黃藝峰</a>、<a href="../Page/符致逸.md" title="wikilink">符致逸</a>、<a href="../Page/周殷廷.md" title="wikilink">周殷廷</a>、<a href="../Page/麥家瑜.md" title="wikilink">麥家瑜</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/環球音樂" title="wikilink">UMWebzine</a></p></td>
 <td></td>
 </tr>
@@ -3211,7 +3211,7 @@ Invisible Refugee Camp</p></td>
 <td><p>旅遊</p></td>
 <td><p><a href="../Page/貼地考察Follow牙.md" title="wikilink">貼地考察Follow牙</a><br />
 Followers</p></td>
-<td><p>主持：<a href="https://zh.wikipedia.org/wiki/Artem_Ansheles" title="wikilink">Artem Ansheles</a></p></td>
+<td><p>主持：<a href="../Page/Artem_Ansheles.md" title="wikilink">Artem Ansheles</a></p></td>
 <td><p><a href="../Page/香港貿易發展局.md" title="wikilink">香港貿易發展局</a></p></td>
 <td><p>原名《「帶」我一「路」遊中亞》</p></td>
 </tr>
@@ -3391,7 +3391,7 @@ Tung Wah Group of Hospitals Student Ambassador Tour to Vancouver 2018</p></td>
 <td><p>資訊</p></td>
 <td><p>星期六</p></td>
 <td><p>午間新聞後</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/氣象冷知識" title="wikilink">氣象冷知識</a><br />
+<td><p><a href="../Page/氣象冷知識.md" title="wikilink">氣象冷知識</a><br />
 <em>Cool Met Stuff</em></p></td>
 <td><p><a href="../Page/香港天文台.md" title="wikilink">香港天文台製作</a></p></td>
 </tr>
@@ -3402,7 +3402,7 @@ Tung Wah Group of Hospitals Student Ambassador Tour to Vancouver 2018</p></td>
 
 ### [西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")
 
-  - 賽季期間提供每月一場西甲直播；由2019年開始改為賽季期間提供每月兩場西甲／英超直播（部份賽事可能安排於[ViuTVsix直播](https://zh.wikipedia.org/wiki/ViuTVsix "wikilink")）。
+  - 賽季期間提供每月一場西甲直播；由2019年開始改為賽季期間提供每月兩場西甲／英超直播（部份賽事可能安排於[ViuTVsix直播](../Page/ViuTVsix.md "wikilink")）。
 
 |                                                                         |             |                                                                                                                          |                                                                                                                     |                                                                                   |
 | ----------------------------------------------------------------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
@@ -3429,13 +3429,13 @@ Tung Wah Group of Hospitals Student Ambassador Tour to Vancouver 2018</p></td>
 
 ### [英格蘭超級聯賽](https://zh.wikipedia.org/wiki/英格蘭足球超級聯賽 "wikilink")
 
-|                                                                           |             |                                                                                                                   |                                                                                                              |                                                                     |
-| ------------------------------------------------------------------------- | ----------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
-| 賽季                                                                        | 播放日         | 時間                                                                                                                | 播放賽事                                                                                                         | 備註                                                                  |
-| [2018-19年](https://zh.wikipedia.org/wiki/2018年至2019年英格蘭足球超級聯賽 "wikilink") | 2019年2月23日  | 22:50-01:00                                                                                                       | [般尼茅夫](https://zh.wikipedia.org/wiki/般尼茅夫足球會 "wikilink") 對 [狼隊](https://zh.wikipedia.org/wiki/狼隊 "wikilink") | 與[Now英超2台同步播出](https://zh.wikipedia.org/wiki/Now_Sports "wikilink") |
-| 2019年3月30日                                                                | 22:50-01:00 | [白禮頓](https://zh.wikipedia.org/wiki/布萊頓足球俱樂部 "wikilink") 對 [修咸頓](https://zh.wikipedia.org/wiki/修咸頓足球會 "wikilink") | 與[Now英超4台同步播出](https://zh.wikipedia.org/wiki/Now_Sports "wikilink")                                          |                                                                     |
-| 2019年4月27日                                                                | 21:50-00:00 | [屈福特](https://zh.wikipedia.org/wiki/屈福特 "wikilink") 對 [狼隊](https://zh.wikipedia.org/wiki/狼隊 "wikilink")           |                                                                                                              |                                                                     |
-|                                                                           |             |                                                                                                                   |                                                                                                              |                                                                     |
+|                                                        |             |                                                                                                                   |                                                                                                              |                                                                     |
+| ------------------------------------------------------ | ----------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------- |
+| 賽季                                                     | 播放日         | 時間                                                                                                                | 播放賽事                                                                                                         | 備註                                                                  |
+| [2018-19年](../Page/2018年至2019年英格蘭足球超級聯賽.md "wikilink") | 2019年2月23日  | 22:50-01:00                                                                                                       | [般尼茅夫](https://zh.wikipedia.org/wiki/般尼茅夫足球會 "wikilink") 對 [狼隊](https://zh.wikipedia.org/wiki/狼隊 "wikilink") | 與[Now英超2台同步播出](https://zh.wikipedia.org/wiki/Now_Sports "wikilink") |
+| 2019年3月30日                                             | 22:50-01:00 | [白禮頓](https://zh.wikipedia.org/wiki/布萊頓足球俱樂部 "wikilink") 對 [修咸頓](https://zh.wikipedia.org/wiki/修咸頓足球會 "wikilink") | 與[Now英超4台同步播出](https://zh.wikipedia.org/wiki/Now_Sports "wikilink")                                          |                                                                     |
+| 2019年4月27日                                             | 21:50-00:00 | [屈福特](https://zh.wikipedia.org/wiki/屈福特 "wikilink") 對 [狼隊](https://zh.wikipedia.org/wiki/狼隊 "wikilink")           |                                                                                                              |                                                                     |
+|                                                        |             |                                                                                                                   |                                                                                                              |                                                                     |
 
 ### [英格蘭足總盃](../Page/英格蘭足總盃.md "wikilink")
 
@@ -3795,17 +3795,17 @@ ViuTV開始播出時已進入補時階段。</small></p></td>
 | 2016年7月11日    | 02:15-06:00                                                                                                                                  | [歐洲國家盃2016 決賽](https://zh.wikipedia.org/wiki/2016年歐洲國家盃決賽 "wikilink")：[葡萄牙](https://zh.wikipedia.org/wiki/葡萄牙國家足球隊 "wikilink") 對 [法國](https://zh.wikipedia.org/wiki/法國國家足球隊 "wikilink") |                                                                                                                                                               |                                                                                                                                                          |
 | 2016年9月1日     | 19:55-22:00                                                                                                                                  | 撐起港隊：[香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink") 對 [柬埔寨](https://zh.wikipedia.org/wiki/柬埔寨國家足球隊 "wikilink")                                                                  | 與[Now Sports Prime及](https://zh.wikipedia.org/wiki/Now_Sports_Prime "wikilink")[Now Sports 3同步播出](https://zh.wikipedia.org/wiki/Now_Sports_3 "wikilink")\[6\] |                                                                                                                                                          |
 | 2016年11月12日   | 17:45-20:00                                                                                                                                  | [2017東亞足球錦標賽](https://zh.wikipedia.org/wiki/2017年東亞盃 "wikilink") 男子第二圈：[香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink") 對 [朝鮮](../Page/朝鮮國家足球隊.md "wikilink")                     | 與[Now Sports 3同步播出](https://zh.wikipedia.org/wiki/Now_Sports_3 "wikilink")                                                                                    |                                                                                                                                                          |
-| 2017年1月1日     | 15:30-17:30                                                                                                                                  | 撐起港隊 - [第三十九屆省港盃](https://zh.wikipedia.org/wiki/第39屆省港盃 "wikilink") 首回合 - 廣東 對 [香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink")                                                   |                                                                                                                                                               |                                                                                                                                                          |
-| 2017年1月4日     | 19:55-22:00                                                                                                                                  | 撐起港隊 - [第三十九屆省港盃](https://zh.wikipedia.org/wiki/第39屆省港盃 "wikilink") 次回合 - [香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink") 對 廣東                                                   |                                                                                                                                                               |                                                                                                                                                          |
-| 2017年7月23日    | 06:00-08:00                                                                                                                                  | [國際冠軍盃2017](https://zh.wikipedia.org/wiki/2017年國際冠軍盃 "wikilink") - [祖雲達斯](https://zh.wikipedia.org/wiki/祖雲達斯 "wikilink") 對 [巴塞隆拿](https://zh.wikipedia.org/wiki/巴塞隆拿足球會 "wikilink")     | 與[Now Sports 2同步播出](https://zh.wikipedia.org/wiki/Now_Sports_2 "wikilink")                                                                                    |                                                                                                                                                          |
-| 2017年7月30日    | 08:00-10:00                                                                                                                                  | [國際冠軍盃2017](https://zh.wikipedia.org/wiki/2017年國際冠軍盃 "wikilink") - [皇家馬德里](https://zh.wikipedia.org/wiki/皇家馬德里 "wikilink") 對 [巴塞隆拿](https://zh.wikipedia.org/wiki/巴塞隆拿足球會 "wikilink")   |                                                                                                                                                               |                                                                                                                                                          |
+| 2017年1月1日     | 15:30-17:30                                                                                                                                  | 撐起港隊 - [第三十九屆省港盃](../Page/第39屆省港盃.md "wikilink") 首回合 - 廣東 對 [香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink")                                                                      |                                                                                                                                                               |                                                                                                                                                          |
+| 2017年1月4日     | 19:55-22:00                                                                                                                                  | 撐起港隊 - [第三十九屆省港盃](../Page/第39屆省港盃.md "wikilink") 次回合 - [香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink") 對 廣東                                                                      |                                                                                                                                                               |                                                                                                                                                          |
+| 2017年7月23日    | 06:00-08:00                                                                                                                                  | [國際冠軍盃2017](../Page/2017年國際冠軍盃.md "wikilink") - [祖雲達斯](https://zh.wikipedia.org/wiki/祖雲達斯 "wikilink") 對 [巴塞隆拿](https://zh.wikipedia.org/wiki/巴塞隆拿足球會 "wikilink")                        | 與[Now Sports 2同步播出](https://zh.wikipedia.org/wiki/Now_Sports_2 "wikilink")                                                                                    |                                                                                                                                                          |
+| 2017年7月30日    | 08:00-10:00                                                                                                                                  | [國際冠軍盃2017](../Page/2017年國際冠軍盃.md "wikilink") - [皇家馬德里](https://zh.wikipedia.org/wiki/皇家馬德里 "wikilink") 對 [巴塞隆拿](https://zh.wikipedia.org/wiki/巴塞隆拿足球會 "wikilink")                      |                                                                                                                                                               |                                                                                                                                                          |
 | 2017年10月11日   | 00:40-02:55                                                                                                                                  | [2019亞洲盃外圍賽](../Page/2019年亞足聯亞洲盃.md "wikilink") - [香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink") 對 [馬來西亞](../Page/馬來西亞國家足球隊.md "wikilink")                                      | 完整版重播                                                                                                                                                         |                                                                                                                                                          |
-| 2018年1月4日     | 19:55-22:00                                                                                                                                  | [第40屆省港盃](https://zh.wikipedia.org/wiki/第40屆省港盃 "wikilink") 首回合 - [香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink") 對 廣東                                                           | 與[Now Sports 3同步播出](https://zh.wikipedia.org/wiki/Now_Sports_3 "wikilink")                                                                                    |                                                                                                                                                          |
-| 2018年1月7日     | 15:15-18:00                                                                                                                                  | [第40屆省港盃](https://zh.wikipedia.org/wiki/第40屆省港盃 "wikilink") 次回合 - 廣東 對 [香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink")                                                           |                                                                                                                                                               |                                                                                                                                                          |
+| 2018年1月4日     | 19:55-22:00                                                                                                                                  | [第40屆省港盃](../Page/第40屆省港盃.md "wikilink") 首回合 - [香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink") 對 廣東                                                                              | 與[Now Sports 3同步播出](https://zh.wikipedia.org/wiki/Now_Sports_3 "wikilink")                                                                                    |                                                                                                                                                          |
+| 2018年1月7日     | 15:15-18:00                                                                                                                                  | [第40屆省港盃](../Page/第40屆省港盃.md "wikilink") 次回合 - 廣東 對 [香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink")                                                                              |                                                                                                                                                               |                                                                                                                                                          |
 | 賽車            | 2016年10月8日                                                                                                                                   | 17:25-18:00                                                                                                                                                                             | 2016電動房車挑戰賽                                                                                                                                                   |                                                                                                                                                          |
 | 23:00-23:50   | 完整版重播                                                                                                                                        |                                                                                                                                                                                         |                                                                                                                                                               |                                                                                                                                                          |
 | 2016年10月9日    | 10:30-11:15                                                                                                                                  |                                                                                                                                                                                         |                                                                                                                                                               |                                                                                                                                                          |
-| 15:30-17:30   | 2016國際汽聯香港電訊[電動方程式賽車錦標賽](../Page/電動方程式.md "wikilink")                                                                                        | 與[Fox Sports 3同步播出](https://zh.wikipedia.org/wiki/FOX體育三台 "wikilink")                                                                                                                   |                                                                                                                                                               |                                                                                                                                                          |
+| 15:30-17:30   | 2016國際汽聯香港電訊[電動方程式賽車錦標賽](../Page/電動方程式.md "wikilink")                                                                                        | 與[Fox Sports 3同步播出](../Page/FOX體育三台.md "wikilink")                                                                                                                                      |                                                                                                                                                               |                                                                                                                                                          |
 | 2017年12月2日    | 00:50-01:20及13:30-14:00                                                                                                                      | 2017國際汽聯香港電訊[電動方程式賽車錦標賽](../Page/電動方程式.md "wikilink") - 前奏                                                                                                                              | 與[Now Sports 1同步播出](https://zh.wikipedia.org/wiki/Now_Sports_1 "wikilink")                                                                                    |                                                                                                                                                          |
 | 2017年12月2日及3日 | 14:00-16:30                                                                                                                                  | 2017國際汽聯香港電訊[電動方程式賽車錦標賽](../Page/電動方程式.md "wikilink")                                                                                                                                   |                                                                                                                                                               |                                                                                                                                                          |
 | 2019年3月10日    | 15:25-17:30                                                                                                                                  | 2019香港電訊香港[電動方程式大賽](../Page/電動方程式.md "wikilink")                                                                                                                                        | 與[Now Sports 5同步播出](https://zh.wikipedia.org/wiki/Now_Sports_5 "wikilink")                                                                                    |                                                                                                                                                          |
@@ -3818,10 +3818,10 @@ ViuTV開始播出時已進入補時階段。</small></p></td>
 | 2017年7月24日    | 00:45-01:45                                                                                                                                  |                                                                                                                                                                                         |                                                                                                                                                               |                                                                                                                                                          |
 | 2017年7月23日    | 14:45-17:40                                                                                                                                  | 香港世界桌球大師賽2017表演賽 - [吳安儀](../Page/吳安儀.md "wikilink") 對 [韋德](../Page/吉米·怀特.md "wikilink")/[亨特利](../Page/史蒂芬·亨得利.md "wikilink")                                                            |                                                                                                                                                               |                                                                                                                                                          |
 | 19:00-22:05   | 香港世界桌球大師賽2017決賽 - [羅拔臣](../Page/尼爾·羅伯森.md "wikilink") 對 [奧蘇利雲](../Page/罗尼·奥沙利文.md "wikilink")                                                |                                                                                                                                                                                         |                                                                                                                                                               |                                                                                                                                                          |
-| 單車            | 2017年10月8日                                                                                                                                   | 13:30-18:00                                                                                                                                                                             | [2017新鴻基地產香港單車節](https://zh.wikipedia.org/wiki/香港單車節 "wikilink")                                                                                              | 與[Now Sports 5同步播出](https://zh.wikipedia.org/wiki/Now_Sports_5 "wikilink")                                                                               |
-| 網球            | 2017年10月14日                                                                                                                                  | 14:00-18:00                                                                                                                                                                             | [保誠香港網球公開賽2017](https://zh.wikipedia.org/wiki/香港網球公開賽 "wikilink") - 單打準決賽                                                                                     | 與[Now Sports 4同步播出](https://zh.wikipedia.org/wiki/Now_Sports_4 "wikilink")                                                                               |
-| 2018年10月13日   | 14:00-19:15                                                                                                                                  | [保誠香港網球公開賽2018](https://zh.wikipedia.org/wiki/香港網球公開賽 "wikilink") - 單打準決賽                                                                                                               |                                                                                                                                                               |                                                                                                                                                          |
-| 2018年10月14日   | 16:00-18:00                                                                                                                                  | [保誠香港網球公開賽2018](https://zh.wikipedia.org/wiki/香港網球公開賽 "wikilink") - 單打決賽                                                                                                                |                                                                                                                                                               |                                                                                                                                                          |
+| 單車            | 2017年10月8日                                                                                                                                   | 13:30-18:00                                                                                                                                                                             | [2017新鴻基地產香港單車節](../Page/香港單車節.md "wikilink")                                                                                                                 | 與[Now Sports 5同步播出](https://zh.wikipedia.org/wiki/Now_Sports_5 "wikilink")                                                                               |
+| 網球            | 2017年10月14日                                                                                                                                  | 14:00-18:00                                                                                                                                                                             | [保誠香港網球公開賽2017](../Page/香港網球公開賽.md "wikilink") - 單打準決賽                                                                                                        | 與[Now Sports 4同步播出](https://zh.wikipedia.org/wiki/Now_Sports_4 "wikilink")                                                                               |
+| 2018年10月13日   | 14:00-19:15                                                                                                                                  | [保誠香港網球公開賽2018](../Page/香港網球公開賽.md "wikilink") - 單打準決賽                                                                                                                                  |                                                                                                                                                               |                                                                                                                                                          |
+| 2018年10月14日   | 16:00-18:00                                                                                                                                  | [保誠香港網球公開賽2018](../Page/香港網球公開賽.md "wikilink") - 單打決賽                                                                                                                                   |                                                                                                                                                               |                                                                                                                                                          |
 | 游泳            | 2017年10月27日                                                                                                                                  | 10:00-12:30及13:30-17:00                                                                                                                                                                 | 港島及九龍地域中學校際游泳比賽                                                                                                                                               | 與[Now Sports 1同步播出](https://zh.wikipedia.org/wiki/Now_Sports_1 "wikilink")                                                                               |
 | 籃球            | 2017年11月17日                                                                                                                                  | 17:05-18:15                                                                                                                                                                             | 港島及九龍地域中學校際籃球比賽 - 第一組九龍女子甲組決賽                                                                                                                                 | 與[Now Sports 4同步播出](https://zh.wikipedia.org/wiki/Now_Sports_4 "wikilink")                                                                               |
 | 19:10-20:15   | 港島及九龍地域中學校際籃球比賽 - 第一組九龍男子甲組決賽                                                                                                                |                                                                                                                                                                                         |                                                                                                                                                               |                                                                                                                                                          |

@@ -167,9 +167,8 @@ My Baby》的舞蹈拍攝。
     K：[田野優花](../Page/田野優花.md "wikilink")、[向井地美音](../Page/向井地美音.md "wikilink")、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")
   - Team B：[大島涼花](../Page/大島涼花.md "wikilink")
   - Team
-    4：[岡田奈奈](https://zh.wikipedia.org/wiki/岡田奈奈 "wikilink")、[川本紗矢](https://zh.wikipedia.org/wiki/川本紗矢 "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[込山榛香](https://zh.wikipedia.org/wiki/込山榛香 "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[西野未姫](https://zh.wikipedia.org/wiki/西野未姫 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")
-  - Team 8：[坂口渚沙](https://zh.wikipedia.org/wiki/坂口渚沙 "wikilink")（兼任Team
-    B）
+    4：[岡田奈奈](https://zh.wikipedia.org/wiki/岡田奈奈 "wikilink")、[川本紗矢](../Page/川本紗矢.md "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[西野未姫](https://zh.wikipedia.org/wiki/西野未姫 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")
+  - Team 8：[坂口渚沙](../Page/坂口渚沙.md "wikilink")（兼任Team B）
   - NMB48 Team BII：渡邊美優紀（兼任AKB48 Team B）
   - HKT48 Team H：兒玉遙（兼任AKB48 Team K）
 
@@ -181,7 +180,7 @@ My Baby》的舞蹈拍攝。
 
   - 入山杏奈、[岩田華怜](../Page/岩田華怜.md "wikilink")、[大家志津香](../Page/大家志津香.md "wikilink")、大和田南那、[小笠原茉由](../Page/小笠原茉由.md "wikilink")、[小嶋菜月](../Page/小嶋菜月.md "wikilink")、小嶋陽菜、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")、島崎遥香、白間美瑠（NMB48
     Team
-    M兼任）、高橋南、[田北香世子](https://zh.wikipedia.org/wiki/田北香世子 "wikilink")、谷口惠、[中西智代梨](../Page/中西智代梨.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、[西山怜那](https://zh.wikipedia.org/wiki/西山怜那 "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")、[前田亜美](https://zh.wikipedia.org/wiki/前田亜美 "wikilink")、[宮崎美穂](https://zh.wikipedia.org/wiki/宮崎美穂 "wikilink")、宮脇咲良（HKT48
+    M兼任）、高橋南、[田北香世子](../Page/田北香世子.md "wikilink")、谷口惠、[中西智代梨](../Page/中西智代梨.md "wikilink")、[中村麻里子](../Page/中村麻里子.md "wikilink")、[西山怜那](https://zh.wikipedia.org/wiki/西山怜那 "wikilink")、[平田梨奈](../Page/平田梨奈.md "wikilink")、[前田亜美](https://zh.wikipedia.org/wiki/前田亜美 "wikilink")、[宮崎美穂](https://zh.wikipedia.org/wiki/宮崎美穂 "wikilink")、宮脇咲良（HKT48
     Team KIV兼任）、[山田菜菜美](../Page/山田菜菜美.md "wikilink")（Team 8兼任）、横山由依
 
 ### 班花的選擇
@@ -207,9 +206,9 @@ My Baby》的舞蹈拍攝。
 
 **Center：向井地美音**
 
-  - [相笠萌](https://zh.wikipedia.org/wiki/相笠萌 "wikilink")、[阿部瑪利亞](https://zh.wikipedia.org/wiki/阿部瑪利亞 "wikilink")、[石田晴香](../Page/石田晴香.md "wikilink")、[市川愛美](https://zh.wikipedia.org/wiki/市川愛美 "wikilink")、兒玉遙（HKT48
+  - [相笠萌](../Page/相笠萌.md "wikilink")、[阿部瑪利亞](https://zh.wikipedia.org/wiki/阿部瑪利亞 "wikilink")、[石田晴香](../Page/石田晴香.md "wikilink")、[市川愛美](../Page/市川愛美.md "wikilink")、兒玉遙（HKT48
     Team
-    H兼任）、[篠崎彩奈](https://zh.wikipedia.org/wiki/篠崎彩奈 "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[下口绯奈奈](https://zh.wikipedia.org/wiki/下口绯奈奈 "wikilink")、[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")（SNH48
+    H兼任）、[篠崎彩奈](../Page/篠崎彩奈.md "wikilink")、[島田晴香](../Page/島田晴香.md "wikilink")、[下口绯奈奈](https://zh.wikipedia.org/wiki/下口绯奈奈 "wikilink")、[鈴木瑪莉亞](../Page/鈴木瑪莉亞.md "wikilink")（SNH48
     Team
     SII兼任）、[高城亞樹](../Page/高城亞樹.md "wikilink")、田野優花、[中田千智](../Page/中田千智.md "wikilink")、[永尾瑪利亞](../Page/永尾瑪利亞.md "wikilink")、[中野郁海](../Page/中野郁海.md "wikilink")（Team
     8兼任）、[藤田奈那](../Page/藤田奈那.md "wikilink")、松井珠理奈（SKE48 Team
@@ -234,8 +233,8 @@ My Baby》的舞蹈拍攝。
 
 **Center：加藤玲奈、木崎由里亞**
 
-  - [岩佐美咲](../Page/岩佐美咲.md "wikilink")、[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、大島涼花、柏木由紀（兼任NGT48）、加藤玲奈、木﨑由里亞、[後藤萌咲](https://zh.wikipedia.org/wiki/後藤萌咲 "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[坂口渚沙](https://zh.wikipedia.org/wiki/坂口渚沙 "wikilink")（Team
-    8兼任）、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[達家真姫宝](https://zh.wikipedia.org/wiki/達家真姫宝 "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[福岡聖菜](https://zh.wikipedia.org/wiki/福岡聖菜 "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")（HKT48
+  - [岩佐美咲](../Page/岩佐美咲.md "wikilink")、[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、大島涼花、柏木由紀（兼任NGT48）、加藤玲奈、木﨑由里亞、[後藤萌咲](../Page/後藤萌咲.md "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[坂口渚沙](../Page/坂口渚沙.md "wikilink")（Team
+    8兼任）、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")、[達家真姫宝](https://zh.wikipedia.org/wiki/達家真姫宝 "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[福岡聖菜](../Page/福岡聖菜.md "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")（HKT48
     Team
     H兼任）、[横島亜衿](https://zh.wikipedia.org/wiki/横島亜衿 "wikilink")、渡邊麻友、渡邊美優紀（NMB48
     Team BII兼任）
@@ -261,7 +260,7 @@ My Baby》的舞蹈拍攝。
 
 **Center：川本紗矢、小嶋真子**
 
-  - [飯野雅](../Page/飯野雅.md "wikilink")、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[岩立沙穂](https://zh.wikipedia.org/wiki/岩立沙穂 "wikilink")、[大川莉央](https://zh.wikipedia.org/wiki/大川莉央 "wikilink")、[大森美優](https://zh.wikipedia.org/wiki/大森美優 "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、岡田奈奈、川本紗矢、[北川綾巴](../Page/北川綾巴.md "wikilink")（SKE48
+  - [飯野雅](../Page/飯野雅.md "wikilink")、[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[岩立沙穂](https://zh.wikipedia.org/wiki/岩立沙穂 "wikilink")、[大川莉央](https://zh.wikipedia.org/wiki/大川莉央 "wikilink")、[大森美優](../Page/大森美優.md "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、岡田奈奈、川本紗矢、[北川綾巴](../Page/北川綾巴.md "wikilink")（SKE48
     Team
     S兼任）、[北澤早紀](../Page/北澤早紀.md "wikilink")、小嶋真子、込山榛香、[佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")、[渋谷凪咲](https://zh.wikipedia.org/wiki/渋谷凪咲 "wikilink")（NMB48
     Team
@@ -275,15 +274,14 @@ My Baby》的舞蹈拍攝。
 **Center：込山榛香、薮下柊**
 
   - Team
-    B：[後藤萌咲](https://zh.wikipedia.org/wiki/後藤萌咲 "wikilink")、[福岡聖菜](https://zh.wikipedia.org/wiki/福岡聖菜 "wikilink")
-  - Team 4：[込山榛香](https://zh.wikipedia.org/wiki/込山榛香 "wikilink")
-  - Team 8：[坂口渚沙](https://zh.wikipedia.org/wiki/坂口渚沙 "wikilink")（兼任Team
-    B）
-  - SKE48 Team KII：[小畑優奈](https://zh.wikipedia.org/wiki/小畑優奈 "wikilink")
+    B：[後藤萌咲](../Page/後藤萌咲.md "wikilink")、[福岡聖菜](../Page/福岡聖菜.md "wikilink")
+  - Team 4：[込山榛香](../Page/込山榛香.md "wikilink")
+  - Team 8：[坂口渚沙](../Page/坂口渚沙.md "wikilink")（兼任Team B）
+  - SKE48 Team KII：[小畑優奈](../Page/小畑優奈.md "wikilink")
   - SKE48 Team E：[後藤乐乐](https://zh.wikipedia.org/wiki/後藤乐乐 "wikilink")
   - NMB48 Team M：[植村梓](https://zh.wikipedia.org/wiki/植村梓 "wikilink")
   - NMB48 Team BII：[薮下柊](../Page/薮下柊.md "wikilink")
-  - HKT48研究生：[荒巻美咲](https://zh.wikipedia.org/wiki/荒巻美咲 "wikilink")、[今村麻莉愛](https://zh.wikipedia.org/wiki/今村麻莉愛 "wikilink")
+  - HKT48研究生：[荒巻美咲](https://zh.wikipedia.org/wiki/荒巻美咲 "wikilink")、[今村麻莉愛](../Page/今村麻莉愛.md "wikilink")
   - NGT48研究生：[小熊倫实](https://zh.wikipedia.org/wiki/小熊倫实 "wikilink")、[高倉萌香](https://zh.wikipedia.org/wiki/高倉萌香 "wikilink")
 
 ## 獎項

@@ -20,7 +20,7 @@ Adobe Edge的預覽版於2011年8月首次發佈到Adobe Labs，並在24小時�
 ## 參見
 
   - [Adobe Edge](https://zh.wikipedia.org/wiki/Adobe_Edge "wikilink")
-  - [Adobe Muse](https://zh.wikipedia.org/wiki/Adobe_Muse "wikilink")
+  - [Adobe Muse](../Page/Adobe_Muse.md "wikilink")
   - [Creative Cloud
     controversy](../Page/Adobe_Creative_Cloud.md "wikilink")
 

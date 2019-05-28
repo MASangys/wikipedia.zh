@@ -208,7 +208,7 @@ AMDXP3000+](http://bbs.ocer.net/thread-241864-1-1.html)\[5\]，找到了這個�
 2.  [HKEPC沒有長寫](http://www.hkepc.com/forum/viewthread.php?tid=962434)
 3.  A君在線時間為3100小時，而雞仔則只有1600小時
 4.
-    [棄我去者懷疑](https://zh.wikipedia.org/wiki/棄我去者 "wikilink")[HKEPC刪除證據](https://zh.wikipedia.org/wiki/HKEPC "wikilink")。
+    [棄我去者懷疑](https://zh.wikipedia.org/wiki/棄我去者 "wikilink")[HKEPC刪除證據](../Page/HKEPC.md "wikilink")。
 5.  [暴一狡猾騙子 AMDXP3000+](http://bbs.ocer.net/thread-241864-1-1.html)
 6.  [星島日報：市民疑被逼巨款買旅遊會籍](http://hk.news.yahoo.com/article/080115/3/6ook.html)，2008年1月16日。
 7.  [HKEPC 新聞中心：指控HKEPC討論區內文章誹謗

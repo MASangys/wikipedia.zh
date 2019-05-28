@@ -1,5 +1,5 @@
 ***All Your Fault: Pt.
-1*** 是[美國](../Page/美国.md "wikilink")[歌手](../Page/歌手.md "wikilink")[碧碧·瑞茲莎的第二張](https://zh.wikipedia.org/wiki/碧碧·瑞茲莎 "wikilink")[EP](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。\[1\]由2017年2月17日發行，這張專輯的首張單曲“[I
+1*** 是[美國](../Page/美国.md "wikilink")[歌手](../Page/歌手.md "wikilink")[碧碧·瑞茲莎的第二張](../Page/碧碧·瑞茲莎.md "wikilink")[EP](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。\[1\]由2017年2月17日發行，這張專輯的首張單曲“[I
 Got
 You](https://zh.wikipedia.org/wiki/I_Got_You_\(Bebe_Rexha歌曲\) "wikilink")”於2016年10月28日發行。\[2\]
 

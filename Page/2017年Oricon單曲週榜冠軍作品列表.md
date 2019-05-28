@@ -45,13 +45,13 @@
 <tr class="odd">
 <td><p>1月30日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a></p></td>
+<td><p><a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></p></td>
 <td><p>3.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>2月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塗鴉BEAT" title="wikilink">塗鴉BEAT</a></p></td>
+<td><p><a href="../Page/塗鴉BEAT.md" title="wikilink">塗鴉BEAT</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>27.3</p></td>
 <td><p>1</p></td>
@@ -72,7 +72,7 @@
 </tr>
 <tr class="odd">
 <td><p>2月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BUG也無妨" title="wikilink">BUG也無妨</a></p></td>
+<td><p><a href="../Page/BUG也無妨.md" title="wikilink">BUG也無妨</a></p></td>
 <td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a></p></td>
 <td><p>21.0</p></td>
 <td><p>1</p></td>
@@ -100,7 +100,7 @@
 </tr>
 <tr class="odd">
 <td><p>3月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Shoot_Sign" title="wikilink">Shoot Sign</a></p></td>
+<td><p><a href="../Page/Shoot_Sign.md" title="wikilink">Shoot Sign</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>102.5</p></td>
 <td><p>1</p></td>
@@ -128,7 +128,7 @@
 </tr>
 <tr class="odd">
 <td><p>4月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/青春時鐘" title="wikilink">青春時鐘</a></p></td>
+<td><p><a href="../Page/青春時鐘.md" title="wikilink">青春時鐘</a></p></td>
 <td><p><a href="../Page/NGT48.md" title="wikilink">NGT48</a></p></td>
 <td><p>16.0</p></td>
 <td><p>1</p></td>
@@ -156,14 +156,14 @@
 </tr>
 <tr class="odd">
 <td><p>5月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/血、汗、淚" title="wikilink">血、汗、淚</a></p></td>
+<td><p><a href="../Page/血、汗、淚.md" title="wikilink">血、汗、淚</a></p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
 <td><p>23.8</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>5月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/擦身而過的機會" title="wikilink">擦身而過的機會</a></p></td>
+<td><p><a href="../Page/擦身而過的機會.md" title="wikilink">擦身而過的機會</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/龜與山P" title="wikilink">龜與山P</a></p></td>
 <td><p>17.5</p></td>
 <td><p>1</p></td>
@@ -177,7 +177,7 @@
 </tr>
 <tr class="even">
 <td><p>6月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/空有願望" title="wikilink">空有願望</a></p></td>
+<td><p><a href="../Page/空有願望.md" title="wikilink">空有願望</a></p></td>
 <td><p>AKB48</p></td>
 <td><p>130.6</p></td>
 <td><p>1</p></td>
@@ -226,7 +226,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/意外是芒果" title="wikilink">意外是芒果</a></p></td>
+<td><p><a href="../Page/意外是芒果.md" title="wikilink">意外是芒果</a></p></td>
 <td><p><a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
 <td><p>27.2</p></td>
 <td><p>1</p></td>
@@ -240,14 +240,14 @@
 </tr>
 <tr class="odd">
 <td><p>8月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/接吻真的只能慢慢來嗎？" title="wikilink">接吻真的只能慢慢來嗎？</a></p></td>
+<td><p><a href="../Page/接吻真的只能慢慢來嗎？.md" title="wikilink">接吻真的只能慢慢來嗎？</a></p></td>
 <td><p>HKT48</p></td>
 <td><p>19.9</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>8月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蜃景_(單曲)" title="wikilink">蜃景</a></p></td>
+<td><p><a href="../Page/蜃景_(單曲).md" title="wikilink">蜃景</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
 <td><p>88.0</p></td>
 <td><p>1</p></td>
@@ -261,21 +261,21 @@
 </tr>
 <tr class="even">
 <td><p>9月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/太陽的哀悼歌" title="wikilink">太陽的哀悼歌</a></p></td>
+<td><p><a href="../Page/太陽的哀悼歌.md" title="wikilink">太陽的哀悼歌</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Flower_(組合)" title="wikilink">Flower</a></p></td>
 <td><p>5.7</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/＃就是喜歡你" title="wikilink">＃就是喜歡你</a></p></td>
+<td><p><a href="../Page/＃就是喜歡你.md" title="wikilink">＃就是喜歡你</a></p></td>
 <td><p>AKB48</p></td>
 <td><p>108.9</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>9月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奇蹟之人" title="wikilink">奇蹟之人</a></p></td>
+<td><p><a href="../Page/奇蹟之人.md" title="wikilink">奇蹟之人</a></p></td>
 <td><p>關西傑尼斯8</p></td>
 <td><p>25.2</p></td>
 <td><p>1</p></td>
@@ -310,21 +310,21 @@
 </tr>
 <tr class="odd">
 <td><p>10月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/及時行事" title="wikilink">及時行事</a></p></td>
+<td><p><a href="../Page/及時行事.md" title="wikilink">及時行事</a></p></td>
 <td><p>乃木坂46</p></td>
 <td><p>85.1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>10月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/One_More_Time" title="wikilink">One More Time</a></p></td>
+<td><p><a href="../Page/One_More_Time.md" title="wikilink">One More Time</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td><p>20.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/就算風吹" title="wikilink">就算風吹</a></p></td>
+<td><p><a href="../Page/就算風吹.md" title="wikilink">就算風吹</a></p></td>
 <td><p><a href="../Page/櫸坂46.md" title="wikilink">櫸坂46</a></p></td>
 <td><p>64.2</p></td>
 <td><p>1</p></td>

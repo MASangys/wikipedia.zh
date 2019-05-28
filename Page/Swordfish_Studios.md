@@ -18,7 +18,7 @@ Studios**，是总部设在英国伯明翰的软件开发公司，由特雷弗·
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/PlayStation_2.md" title="wikilink">PS2</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a></p></td>
+<td><p><a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Win</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/OS_X" title="wikilink">OS X</a></p></td>
 <td><p><a href="../Page/Xbox_360.md" title="wikilink">X360</a></p></td>

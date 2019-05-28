@@ -111,7 +111,7 @@ IB卡可用于[Solaris](../Page/Solaris.md "wikilink")、[RHEL](../Page/Red_Hat_
 
 链路可以聚合：大多数系统使用一个4X聚合。12X链路通常用于[计算机集群和](../Page/计算机集群.md "wikilink")[超级计算机互连](../Page/超级计算机.md "wikilink")，以及用于内部[網路交換器连接](../Page/網路交換器.md "wikilink")。
 
-InfiniBand也提供[远程直接内存访问](https://zh.wikipedia.org/wiki/远程直接内存访问 "wikilink")（RDMA）能力以降低CPU负载。
+InfiniBand也提供[远程直接内存访问](../Page/远程直接内存访问.md "wikilink")（RDMA）能力以降低CPU负载。
 
 ### 拓扑
 

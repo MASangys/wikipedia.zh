@@ -12,7 +12,7 @@ Engine震動來模擬按壓。iPhone 7
 7还移除了連接耳機的傳統3.5mm
 [TRS端子](../Page/TRS端子.md "wikilink")，除了帶動音訊由類比傳輸朝數位化演進，這一改動也讓手機得以直接供電耳機降噪單元，免電池降噪變成可能，隨機附送的[EarPods耳機亦由](https://zh.wikipedia.org/wiki/EarPods "wikilink")3.5mm耳機接口改為[Lightning接頭](https://zh.wikipedia.org/wiki/Lightning接頭 "wikilink")（不具降噪），另外亦附上Lightning
 至
-3.5毫米耳筒插口轉換器，但用戶想要同時充電的話只能使用採用蘋果的無線蓝牙耳機[AirPods](https://zh.wikipedia.org/wiki/AirPods "wikilink")，或是使用蘋果專用底座。此外首次引入了雙立體聲外放，喇叭播放效果也顯著增加。
+3.5毫米耳筒插口轉換器，但用戶想要同時充電的話只能使用採用蘋果的無線蓝牙耳機[AirPods](../Page/AirPods.md "wikilink")，或是使用蘋果專用底座。此外首次引入了雙立體聲外放，喇叭播放效果也顯著增加。
 
 ## 技术规格
 
@@ -24,8 +24,8 @@ Pay](https://zh.wikipedia.org/wiki/Apple_Pay "wikilink")。\[3\]\[4\]
 ### 芯片
 
 iPhone 7/7 Plus均采用64位架构的[A10
-Fusion处理器](https://zh.wikipedia.org/wiki/Apple_A10_Fusion "wikilink")，以及M10协处理器。[A10
-Fusion处理器包含两个高性能核心与两个节能核心](https://zh.wikipedia.org/wiki/Apple_A10_Fusion "wikilink")，其中，節能核心的耗電量僅為高性能核心的五分之一。據蘋果所述，已經在一年前採用於[iPhone
+Fusion处理器](../Page/Apple_A10_Fusion.md "wikilink")，以及M10协处理器。[A10
+Fusion处理器包含两个高性能核心与两个节能核心](../Page/Apple_A10_Fusion.md "wikilink")，其中，節能核心的耗電量僅為高性能核心的五分之一。據蘋果所述，已經在一年前採用於[iPhone
 6s](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")、[iPhone
 SE上的A](https://zh.wikipedia.org/wiki/iPhone_SE "wikilink")9，在iPhone
 7推出當下仍維持著市場最快晶片的門檻，此次蘋果自己二度打破前代A9設下的世界紀錄，A10

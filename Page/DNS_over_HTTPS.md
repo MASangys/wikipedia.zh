@@ -91,8 +91,7 @@ HTTPS，在正確部署服務端並妥善配置客戶端的前提下，互聯網
 
 ## 参见
 
-  - [DNS over
-    TLS](https://zh.wikipedia.org/wiki/DNS_over_TLS "wikilink")
+  - [DNS over TLS](../Page/DNS_over_TLS.md "wikilink")
 
 ## 参考资料
 

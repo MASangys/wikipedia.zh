@@ -30,7 +30,7 @@ Gunfire**，**大意是指槍林彈雨中繼續前行，鼓勵人們在逆境中
 
 #### 2017
 
-  - 07月30日：**SMG**戰隊正式成立及2017GCS夏季職業聯賽正式開打，執行長為[林苡宗](https://zh.wikipedia.org/wiki/林苡宗 "wikilink"),領隊**Abby**,分析師**PiPi**,創隊成員有隊長**Hanzo**成員**Liang**、
+  - 07月30日：**SMG**戰隊正式成立及2017GCS夏季職業聯賽正式開打，執行長為[林苡宗](../Page/林苡宗.md "wikilink"),領隊**Abby**,分析師**PiPi**,創隊成員有隊長**Hanzo**成員**Liang**、
     **Genji**、**Sirenia**、**Chichi''，本賽季參賽隊伍計有**SMG**、**S.T**、**J
     T**、**HKA**、**AHQ.W**、**AHQ.R**、**MS'''共7支戰隊。
   - 09月23日：例行賽結束，**SMG**與**S.T**戰績同為11勝1負，需加賽一場決定例行賽第一並直接取得冠軍賽門票。
@@ -60,7 +60,7 @@ Gunfire**，**大意是指槍林彈雨中繼續前行，鼓勵人們在逆境中
 
 #### 2019
 
-  - 1月7日：戰隊因負責人[林苡宗態度不佳裁退](https://zh.wikipedia.org/wiki/林苡宗 "wikilink")，導致戰隊成員因合約關係同時合約失效，
+  - 1月7日：戰隊因負責人[林苡宗態度不佳裁退](../Page/林苡宗.md "wikilink")，導致戰隊成員因合約關係同時合約失效，
     被迫離隊，原成員**Hanzo**、**Liang**、**Chichi**、**Sirenia**、**Genji**於1月11日轉隊至[TXO戰隊](https://zh.wikipedia.org/wiki/TXO戰隊 "wikilink")。
   - 1月：公佈新成員，凱撒路Joey(前[MAD](https://zh.wikipedia.org/wiki/MAD_Team "wikilink"))、打野Xiao(金門陽明)、中路Hong(阿鴻)、輔助Mid(前[HKA](https://zh.wikipedia.org/wiki/香港態度 "wikilink")、[MS輔助](https://zh.wikipedia.org/wiki/MS怪獸 "wikilink"))。
   - 01月26日：2019 GCS春季職業聯賽開打，本賽季參賽隊伍計有**SMG**、**ONE**、**MAD**(為2018AIC

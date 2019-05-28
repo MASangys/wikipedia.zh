@@ -5,7 +5,7 @@
 ### 輕小說插圖
 
   -
-    （著：[月見草平](https://zh.wikipedia.org/wiki/月見草平 "wikilink")，〈[一迅社文庫](../Page/一迅社文庫.md "wikilink")〉，[一迅社](../Page/一迅社.md "wikilink")，已發行2冊）
+    （著：[月見草平](../Page/月見草平.md "wikilink")，〈[一迅社文庫](../Page/一迅社文庫.md "wikilink")〉，[一迅社](../Page/一迅社.md "wikilink")，已發行2冊）
 
   - （著：，〈一迅社文庫〉，一迅社，已發行6冊）
 

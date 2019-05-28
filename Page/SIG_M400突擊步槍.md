@@ -49,10 +49,10 @@ M400標準型卡賓槍的槍管也採用軍用規格標準製造，但與M4卡�
 
 M400標準型卡賓槍的準星下方設有背帶環和刺刀座，這兩項功能同樣可看出其進軍軍用市場的意圖。其他的一部份型號的導氣箍頂部會以[MIL-STD-1913戰術導軌將AR](../Page/皮卡汀尼導軌.md "wikilink")-15特有的[三角形](../Page/三角形.md "wikilink")[準星取代](../Page/照準器.md "wikilink")。
 
-[聚合物](../Page/聚合物.md "wikilink")[護木內部也採用了符合軍用規格雙層](https://zh.wikipedia.org/wiki/護木 "wikilink")[鋁合金](../Page/鋁合金.md "wikilink")；增強型卡賓槍時，還會與、[槍托](../Page/槍托.md "wikilink")、[機械瞄具一樣轉換為](../Page/機械瞄具.md "wikilink")[馬格普公司出品的初始設備](https://zh.wikipedia.org/wiki/馬格普工業公司 "wikilink")（Magpul
+[聚合物](../Page/聚合物.md "wikilink")[護木內部也採用了符合軍用規格雙層](https://zh.wikipedia.org/wiki/護木 "wikilink")[鋁合金](../Page/鋁合金.md "wikilink")；增強型卡賓槍時，還會與、[槍托](../Page/槍托.md "wikilink")、[機械瞄具一樣轉換為](../Page/機械瞄具.md "wikilink")[馬格普公司出品的初始設備](../Page/馬格普工業公司.md "wikilink")（Magpul
 Original Equipment，MOE）系列部件產品。
 
-7075-T6鋁合金打造的上下機匣與傳統的M4卡賓槍上下機匣通用，並且採用了陽極電鍍處理。所有型號的上機匣為平頂式，帶有一個可拆卸的A2式提把，提把上帶有翻轉式覘孔照門，並且可以調節風偏。提把拆卸以後，就可將[MIL-STD-1913戰術導軌用以安裝日間](../Page/皮卡汀尼導軌.md "wikilink")／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（可拆卸）。若護木頂部都具有戰術導軌，更可以前後串連式光學瞄準具安裝配置模式擴大瞄準具附件的加裝應用模式。
+7075-T6鋁合金打造的上下機匣與傳統的M4卡賓槍上下機匣通用，並且採用了陽極電鍍處理。所有型號的上機匣為平頂式，帶有一個可拆卸的A2式提把，提把上帶有翻轉式覘孔照門，並且可以調節風偏。提把拆卸以後，就可將[MIL-STD-1913戰術導軌用以安裝日間](../Page/皮卡汀尼導軌.md "wikilink")／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（可拆卸）。若護木頂部都具有戰術導軌，更可以前後串連式光學瞄準具安裝配置模式擴大瞄準具附件的加裝應用模式。
 
 下機匣雖然與其他M4卡賓槍通用，但也具有自己的特點，這就是雙手通用的彈匣卡筍，即除了傳統型右側彈匣卡筍以外，下機匣左側空槍掛機解脫杆下方也設置一個彈匣卡筍，方便了慣用左手的射手操作彈匣卡筍以快速更換彈匣。下機匣左側刻有西格-紹爾公司、SIG
 M400與5.56×45毫米北約口徑步槍子彈的銘文。下機匣後方兩側帶有背帶環固定孔，兩側均能安裝背帶環，適合左右手不同習慣的射手需求；而M4卡賓槍則只在槍托下方設置後背帶環。
@@ -66,7 +66,7 @@ M400所具有的槍托為ACE型骨架化六檔可伸縮調節式槍托，也是�
 
 西格-紹爾公司推出的SIG M400系列卡賓槍有面向軍用、警用和民用的不同型號。
 
-當中面向軍用市場的是M400標準型卡賓槍與M400增強型卡賓槍。前者除與M4相比，槍管前面部分比後面稍為加粗外，其他的外形酷似M4卡賓槍，並採用和M4卡賓槍相同的護木、可拆卸提把和六段[槍托](../Page/槍托.md "wikilink")；後者則採用流行的[馬格普公司出品的初始設備護木](https://zh.wikipedia.org/wiki/馬格普工業公司 "wikilink")、初始設備握把、槍托與彈匣，並且增強型卡賓槍採用三種不同顏色塗裝，分別是全黑色的黑色型、軍綠色的綠色型（護木、握把、槍托均為軍綠色）和沙漠色的沙漠型（護木、握把、槍托和機匣均為沙漠色）。
+當中面向軍用市場的是M400標準型卡賓槍與M400增強型卡賓槍。前者除與M4相比，槍管前面部分比後面稍為加粗外，其他的外形酷似M4卡賓槍，並採用和M4卡賓槍相同的護木、可拆卸提把和六段[槍托](../Page/槍托.md "wikilink")；後者則採用流行的[馬格普公司出品的初始設備護木](../Page/馬格普工業公司.md "wikilink")、初始設備握把、槍托與彈匣，並且增強型卡賓槍採用三種不同顏色塗裝，分別是全黑色的黑色型、軍綠色的綠色型（護木、握把、槍托均為軍綠色）和沙漠色的沙漠型（護木、握把、槍托和機匣均為沙漠色）。
 
 M400 SPR型面向巡警而M400 SWAT型則面向特警。M400
 SPR型取消了傳統的[AR-15自動步槍的導氣箍與準星一體式結構](../Page/AR-15自動步槍.md "wikilink")，改為採用帶有導軌的導氣箍，準星可通過這個導軌拆裝，需要使用時才將其加裝在導氣箍導軌上；照門同樣通過機匣頂部的導軌加裝。M400
@@ -85,11 +85,9 @@ WELD型，這款產品槍管與標準的M4系卡賓槍一樣，長度為368.3毫
 ## 參見
 
   - [SIG SG 556突擊步槍](../Page/SIG_SG_556突擊步槍.md "wikilink")
-  - [SIG SG
-    516突擊步槍](https://zh.wikipedia.org/wiki/SIG_SG_516突擊步槍 "wikilink")
-  - [SIG SG
-    716戰鬥步槍](https://zh.wikipedia.org/wiki/SIG_SG_716戰鬥步槍 "wikilink")
-  - [SIG MCX突擊步槍](https://zh.wikipedia.org/wiki/SIG_MCX突擊步槍 "wikilink")
+  - [SIG SG 516突擊步槍](../Page/SIG_SG_516突擊步槍.md "wikilink")
+  - [SIG SG 716戰鬥步槍](../Page/SIG_SG_716戰鬥步槍.md "wikilink")
+  - [SIG MCX突擊步槍](../Page/SIG_MCX突擊步槍.md "wikilink")
   - [AR-15自動步槍](../Page/AR-15自動步槍.md "wikilink")
   - [CAR-15卡賓槍](../Page/CAR-15卡賓槍.md "wikilink")
   - [M16突擊步槍](../Page/M16突擊步槍.md "wikilink")

@@ -22,7 +22,7 @@ Lie》回歸，但因所有主要的電視臺認爲這為“不適宜播放内�
 
 2014年11月14日，在GI官方頁面上宣佈成員Hayun在8月份已經離開組合。官方在2015年1月宣佈組合將回歸。
 
-2015年2月24日[AlphaBAT的D](https://zh.wikipedia.org/wiki/AlphaBAT "wikilink"):elta（델타）在Instagram賬號上發佈一個消息：GI將在2月25日發佈第三張單曲\[8\]。第二天，成員OneKet以公司管理不善的理由與Simtong娛樂公司終止合同，但Simtong娛樂回應說：是OneKet和Aram違反了公司的合同。\[9\]\[10\]
+2015年2月24日[AlphaBAT的D](../Page/AlphaBAT.md "wikilink"):elta（델타）在Instagram賬號上發佈一個消息：GI將在2月25日發佈第三張單曲\[8\]。第二天，成員OneKet以公司管理不善的理由與Simtong娛樂公司終止合同，但Simtong娛樂回應說：是OneKet和Aram違反了公司的合同。\[9\]\[10\]
 
 6月29日Simtong娛樂放出三個新成員的個人視頻：Do Kyung、Ji A-min和Hee
 So\[11\]。9月2日，該組合回歸，意外的是，本次回歸的路綫并非出道時“假小子”的風格，而是走“女性化”的路綫，這在新單曲《回聲》的MV中體現出來。但該歌曲和MV都沒得到很好的反應，有些人還認爲該MV十分可笑，沒有品味\[12\]\[13\]。

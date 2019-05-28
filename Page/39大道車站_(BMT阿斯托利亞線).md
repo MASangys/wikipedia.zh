@@ -20,7 +20,7 @@
 </tr>
 <tr class="even">
 <td><p><span style="background-color:#{{NYCS color|yellow}}"><strong>北行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-N.svg" title="fig:纽约地铁N线">纽约地铁N线</a> （平日<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-W.svg" title="fig:纽约地铁W线">纽约地铁W线</a>） 往<a href="https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_(BMT阿斯托利亞線)" title="wikilink">阿斯托利亞-迪特馬斯林蔭路</a><small>（<a href="https://zh.wikipedia.org/wiki/36大道車站_(BMT阿斯托利亞線)" title="wikilink">36大道</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-N.svg" title="fig:纽约地铁N线">纽约地铁N线</a> （平日<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-W.svg" title="fig:纽约地铁W线">纽约地铁W线</a>） 往<a href="https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_(BMT阿斯托利亞線)" title="wikilink">阿斯托利亞-迪特馬斯林蔭路</a><small>（<a href="../Page/36大道車站_(BMT阿斯托利亞線).md" title="wikilink">36大道</a>）</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small><a href="../Page/側式月台.md" title="wikilink">側式月台</a>，右側開門</small></p></td>

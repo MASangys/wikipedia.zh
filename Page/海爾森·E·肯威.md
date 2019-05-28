@@ -34,7 +34,7 @@ Kenway，1725年12月4日－1781年9月16日）是一个于电子游戏《[刺�
   - 《[刺客教條系列](../Page/刺客教條系列.md "wikilink")》
       - 《[刺客信条III](../Page/刺客信条III.md "wikilink")》
       - 《[刺客教條IV：黑旗](../Page/刺客教條IV：黑旗.md "wikilink")》
-      - 《[刺客信条：叛变](https://zh.wikipedia.org/wiki/刺客信条：叛变 "wikilink")》
+      - 《[刺客信条：叛变](../Page/刺客信条：叛变.md "wikilink")》
 
 ## 註釋
 

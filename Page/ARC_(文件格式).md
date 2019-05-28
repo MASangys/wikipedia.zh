@@ -1,7 +1,7 @@
 **ARC**是（SEA）的一个[无损数据压缩和](../Page/无损数据压缩.md "wikilink")[檔案格式](../Page/檔案格式.md "wikilink")。该文件格式和程序都被称为ARC。ARC程序早期使用压缩文件，LU程序创建，后来将压缩与归档功能整合到了同一程序\[1\]\[2\]。不同于[ZIP](../Page/ZIP格式.md "wikilink")，ARC不能压缩一个目录树。该格式在拨号[BBS的早期很受欢迎](../Page/BBS.md "wikilink")，但也在1980年代受到了争议，是后来被称为[开放格式辩论中的一个重要事件](../Page/自由檔案格式.md "wikilink")。
 
 **.arc**[文件扩展名经常用于数种归档类别的文件类型](../Page/文件扩展名.md "wikilink")。例如，[互联网档案馆](../Page/互联网档案馆.md "wikilink")（Internet
-Archive）使用其自有的ARC格式存储多种网络资源到单个文件。[FreeArc归档程序也使用](https://zh.wikipedia.org/wiki/FreeArc "wikilink").arc扩展名，但使用完全不同的文件格式。
+Archive）使用其自有的ARC格式存储多种网络资源到单个文件。[FreeArc归档程序也使用](../Page/FreeArc.md "wikilink").arc扩展名，但使用完全不同的文件格式。
 
 任天堂在GameCube和Wii游戏中为诸如MIDI、语音样本、文本等资源使用与此无关的“ARC”格式。ARC文件已有多种非官方的提取程序。
 

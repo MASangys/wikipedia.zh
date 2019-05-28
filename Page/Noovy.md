@@ -17,7 +17,7 @@ Music攜手推出](../Page/日本索尼音樂娛樂.md "wikilink")，於2014年1
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Noovy" title="wikilink">王冠翔</a></p></td>
+<td><p><a href="../Page/Noovy.md" title="wikilink">王冠翔</a></p></td>
 <td><p>Mark</p></td>
 <td><p>　マーク</p></td>
 <td></td>
@@ -25,7 +25,7 @@ Music攜手推出](../Page/日本索尼音樂娛樂.md "wikilink")，於2014年1
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Noovy" title="wikilink">商鈞</a></p></td>
+<td><p><a href="../Page/Noovy.md" title="wikilink">商鈞</a></p></td>
 <td><p>JK</p></td>
 <td><p>　じぇけ</p></td>
 <td></td>
@@ -33,7 +33,7 @@ Music攜手推出](../Page/日本索尼音樂娛樂.md "wikilink")，於2014年1
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Noovy" title="wikilink">王碩瀚</a></p></td>
+<td><p><a href="../Page/Noovy.md" title="wikilink">王碩瀚</a></p></td>
 <td><p>Hank</p></td>
 <td><p>　ハンク</p></td>
 <td></td>
@@ -41,7 +41,7 @@ Music攜手推出](../Page/日本索尼音樂娛樂.md "wikilink")，於2014年1
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Noovy" title="wikilink">楊尚融</a></p></td>
+<td><p><a href="../Page/Noovy.md" title="wikilink">楊尚融</a></p></td>
 <td><p>Shawn　</p></td>
 <td><p>　ショーン</p></td>
 <td></td>

@@ -1,4 +1,4 @@
-**Men**（通常稱**men.com**以防混淆），是[MindGeek旗下的一家線上](https://zh.wikipedia.org/wiki/MindGeek "wikilink")[㚻色網站](https://zh.wikipedia.org/wiki/㚻色 "wikilink")。
+**Men**（通常稱**men.com**以防混淆），是[MindGeek旗下的一家線上](../Page/MindGeek.md "wikilink")[㚻色網站](https://zh.wikipedia.org/wiki/㚻色 "wikilink")。
 
 該域名在2003年12月以130萬美元被收購。\[1\]
 

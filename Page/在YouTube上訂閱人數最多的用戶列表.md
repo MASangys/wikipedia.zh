@@ -195,7 +195,7 @@
 <td><p>18</p></td>
 <td></td>
 <td><p>|<a href="https://zh.wikipedia.org/wiki/Marshmello" title="wikilink">Marshmello</a>[22]</p></td>
-<td><p>|<a href="https://zh.wikipedia.org/wiki/棉花糖_(音乐人)" title="wikilink">Marshmello</a></p></td>
+<td><p>|<a href="../Page/棉花糖_(音乐人).md" title="wikilink">Marshmello</a></p></td>
 <td></td>
 <td><p><a href="../Page/英语.md" title="wikilink">英语</a></p></td>
 <td><p>音樂</p></td>
@@ -366,7 +366,7 @@
 <td><p>35</p></td>
 <td></td>
 <td><p>|<a href="https://zh.wikipedia.org/wiki/Luis_Fonsi" title="wikilink">Luis Fonsi</a> [38]</p></td>
-<td><p>|<a href="https://zh.wikipedia.org/wiki/路易斯·馮西" title="wikilink">Luis Fonsi</a></p></td>
+<td><p>|<a href="../Page/路易斯·馮西.md" title="wikilink">Luis Fonsi</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/西班牙語" title="wikilink">西班牙語</a></p></td>
 <td><p>音樂</p></td>
@@ -1386,7 +1386,7 @@ PlotData =
 在2006年底，[彼得·奧克利的頻道是最多人訂閱的](https://zh.wikipedia.org/wiki/彼得·奧克利 "wikilink")，一些電視頻道和報章雜誌採訪了他、並進行專題報導探討他的成功故事。而在2009年，[Fяᴇᴅ的頻道訂閱數量超過了](../Page/盧卡斯·克魯伊山克.md "wikilink")100萬，是第一個突破百萬大關的頻道。
 
 當[Smosh第三度成為最多訂閱的頻道後](../Page/Smosh.md "wikilink")，[雷·威廉·約翰遜和這對雙人組開始合作](../Page/雷·威廉·約翰遜.md "wikilink")\[166\]。而眾多的YouTuber，包括[NigaHiga](../Page/NigaHiga.md "wikilink")、[謝恩·多森](https://zh.wikipedia.org/wiki/謝恩·多森 "wikilink")、[PewDiePie](../Page/PewDiePie.md "wikilink")、[邁克爾·伯克利](https://zh.wikipedia.org/wiki/邁克爾·伯克利 "wikilink")、[Kassem
-G](https://zh.wikipedia.org/wiki/Kassem_G "wikilink")、[法恩兄弟和雷](https://zh.wikipedia.org/wiki/法恩兄弟 "wikilink")·威廉·約翰遜紛紛給兩人道賀。\[167\]
+G](https://zh.wikipedia.org/wiki/Kassem_G "wikilink")、[法恩兄弟和雷](../Page/法恩兄弟.md "wikilink")·威廉·約翰遜紛紛給兩人道賀。\[167\]
 
 2013年起，[PewDiePie成為](../Page/PewDiePie.md "wikilink")[YouTube上最多訂閱者的頻道](../Page/YouTube.md "wikilink")，《[綜藝](../Page/綜藝_\(雜誌\).md "wikilink")》雜誌撰文重批他的影片。\[168\]
 
@@ -1399,7 +1399,7 @@ G](https://zh.wikipedia.org/wiki/Kassem_G "wikilink")、[法恩兄弟和雷](htt
   - [最不受喜欢的YouTube影片列表](https://zh.wikipedia.org/wiki/最不受喜欢的YouTube影片列表 "wikilink")
   - [最受喜歡的YouTube影片列表](https://zh.wikipedia.org/wiki/最受喜歡的YouTube影片列表 "wikilink")
   - [24小時內觀看次數最多的網路影片列表](https://zh.wikipedia.org/wiki/24小時內觀看次數最多的網路影片列表 "wikilink")
-  - [24小時內觀看次數最多的預告片列表](https://zh.wikipedia.org/wiki/24小時內觀看次數最多的預告片列表 "wikilink")
+  - [24小時內觀看次數最多的預告片列表](../Page/24小時內觀看次數最多的預告片列表.md "wikilink")
 
 ## 參考來源
 

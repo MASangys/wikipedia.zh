@@ -3,7 +3,7 @@
 4和](../Page/PlayStation_4.md "wikilink")[PlayStation
 Vita平台](../Page/PlayStation_Vita.md "wikilink")；正体中文版于2016年8月发行，对应PlayStation
 4和PlayStation
-Vita。2017年3月3日，游戏和前作的合集在[任天堂Switch上发售](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")。
+Vita。2017年3月3日，游戏和前作的合集在[任天堂Switch上发售](../Page/任天堂Switch.md "wikilink")。
 
 ## 玩法
 

@@ -3,7 +3,7 @@
 ## 背景
 
 在[日本泡沫經濟時期國民普遍富裕](https://zh.wikipedia.org/wiki/日本泡沫經濟 "wikilink")，於是各車廠紛紛開發外觀帥氣又兼具駕駛樂趣的車款，以吸引消費者掏腰包購買。此款車與同時期發售的[Autozam
-AZ-1](../Page/Autozam_AZ-1.md "wikilink")、[本田Beat等被](https://zh.wikipedia.org/wiki/本田Beat "wikilink")[消費者截取車名字首](https://zh.wikipedia.org/wiki/消費者 "wikilink")，合稱為「」。
+AZ-1](../Page/Autozam_AZ-1.md "wikilink")、[本田Beat等被](../Page/本田Beat.md "wikilink")[消費者截取車名字首](https://zh.wikipedia.org/wiki/消費者 "wikilink")，合稱為「」。
 
 ## 概要與歷史
 

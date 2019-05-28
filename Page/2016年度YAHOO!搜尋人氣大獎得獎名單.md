@@ -42,7 +42,7 @@
       - [陳明熹](https://zh.wikipedia.org/wiki/陳明熹 "wikilink")
       - [鄧小巧](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink")
   - 網上熱爆歌曲
-      - 《PPAP》 － [黃建東](https://zh.wikipedia.org/wiki/黃建東 "wikilink")
+      - 《PPAP》 － [黃建東](../Page/黃建東.md "wikilink")
       - 《雞全部都係雞》 － [盤菜瑩子](https://zh.wikipedia.org/wiki/盤菜瑩子 "wikilink")
       - 《Side Angle Side》
   - 人氣電視劇集主題曲

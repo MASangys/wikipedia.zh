@@ -13,7 +13,7 @@ author of "Whole", philly.com.
   - Also see Bittman, Mark. ["Tough Week for Meatless
     Monday"](http://opinionator.blogs.nytimes.com/2011/06/29/tough-week-for-meatless-monday/?scp=1&sq=%22The+CHina+Study%22+campbell&st=nyt),
     *The New York Times*, June 29, 2011.</ref>
-    坎貝爾也在2011年的美國記錄影集*[餐叉勝過手術刀](https://zh.wikipedia.org/wiki/餐叉勝過手術刀 "wikilink")*中現身說法。
+    坎貝爾也在2011年的美國記錄影集*[餐叉勝過手術刀](../Page/餐叉勝過手術刀.md "wikilink")*中現身說法。
 
 **T·柯林·坎貝爾**是最頂尖的研究飲食和疾病的[中國-康奈爾-牛津計劃專家團隊一員](https://zh.wikipedia.org/wiki/中國-康奈爾-牛津計劃 "wikilink")。這專家團隊是[康乃爾大學](https://zh.wikipedia.org/wiki/康乃爾大學 "wikilink")、[牛津大學](https://zh.wikipedia.org/wiki/牛津大學 "wikilink")、[中國預防醫學科學院](https://zh.wikipedia.org/wiki/中國預防醫學科學院 "wikilink")（現為中國疾病預防控制中心）於1983年成立，花了40餘年的時間研究調查出來的成果，其研究範圍甚至橫跨美、歐和亞洲。
 *[紐約時報](../Page/纽约时报.md "wikilink")*稱其其研究為
@@ -52,7 +52,7 @@ Clinical Trial Service Unit, University of Oxford, accessed December 3,
 他吿訴[紐約時報說](../Page/纽约时报.md "wikilink"):「我還強調的重點是營養要從全植物飲食中獲得,而很多純素主義者並沒有如此做」\[13\]。
 他從1978年就成為[美國國家科家院的委員](../Page/美国国家科学院.md "wikilink")，並專精在食物的安全。同時也獲得[中國預防醫學科學院的榮譽教授榮譽](../Page/中国疾病预防控制中心.md "wikilink")\[14\]。
 
-他也專精於出版書籍及記錄影集，除了《[救命飲食:中國健康調查報告](../Page/救命飲食:中國健康調查報告.md "wikilink")》外也出版了*[餐叉勝過手術刀](https://zh.wikipedia.org/wiki/餐叉勝過手術刀 "wikilink")
+他也專精於出版書籍及記錄影集，除了《[救命飲食:中國健康調查報告](../Page/救命飲食:中國健康調查報告.md "wikilink")》外也出版了*[餐叉勝過手術刀](../Page/餐叉勝過手術刀.md "wikilink")
 (Forks Over Knives)*,
 *[全植物飲食](https://zh.wikipedia.org/wiki/全植物飲食 "wikilink")
 (Planeat)*,

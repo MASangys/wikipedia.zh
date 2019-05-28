@@ -61,7 +61,7 @@
 <td><p>3</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Teen,_Age" title="wikilink">Teen, Age</a></p></td>
+<td><p><a href="../Page/Teen,_Age.md" title="wikilink">Teen, Age</a></p></td>
 <td><ul>
 <li>發行日期：2017年11月6日</li>
 <li>製作公司：Pledis娛樂</li>
@@ -119,7 +119,7 @@ Dig.</a><br />
 <p></ref></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Director&#39;s_Cut" title="wikilink">Director's Cut</a></p></td>
+<td><p><a href="../Page/Director&#39;s_Cut.md" title="wikilink">Director's Cut</a></p></td>
 <td><ul>
 <li>發行日期：2018年2月5日</li>
 <li>製作公司：Pledis娛樂</li>
@@ -195,7 +195,7 @@ Dig.</a><br />
 <td><p>263</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Boys_Be_(Seventeen迷你專輯)" title="wikilink">Boys Be</a></p></td>
+<td><p><a href="../Page/Boys_Be_(Seventeen迷你專輯).md" title="wikilink">Boys Be</a></p></td>
 <td><ul>
 <li>發行日期：2015年9月10日</li>
 <li>製作公司：Pledis娛樂</li>
@@ -206,7 +206,7 @@ Dig.</a><br />
 <td><p>35</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Going_Seventeen" title="wikilink">Going Seventeen</a></p></td>
+<td><p><a href="../Page/Going_Seventeen.md" title="wikilink">Going Seventeen</a></p></td>
 <td><ul>
 <li>發行日期：2016年12月5日</li>
 <li>製作公司：Pledis娛樂</li>
@@ -217,7 +217,7 @@ Dig.</a><br />
 <td><p>4</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Al1" title="wikilink">Al1</a></p></td>
+<td><p><a href="../Page/Al1.md" title="wikilink">Al1</a></p></td>
 <td><ul>
 <li>發行日期：2017年5月23日</li>
 <li>製作公司：Pledis娛樂</li>
@@ -256,7 +256,7 @@ Dig.</a><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/We_Make_You" title="wikilink">We Make You</a></p></td>
+<td><p><a href="../Page/We_Make_You.md" title="wikilink">We Make You</a></p></td>
 <td><ul>
 <li>發行日期：2018年5月30日</li>
 <li>製作公司：Pledis娛樂</li>
@@ -548,7 +548,7 @@ World</a><br />
 <td><ul>
 <li>韓國：6,223+[4]</li>
 </ul></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Boys_Be_(Seventeen迷你專輯)" title="wikilink">BOYS BE</a></p></td>
+<td><p><a href="../Page/Boys_Be_(Seventeen迷你專輯).md" title="wikilink">BOYS BE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>When I Grow Up<small>（어른이 되면）</small></p></td>
@@ -693,7 +693,7 @@ World</a><br />
 <td><ul>
 <li>韓國：26,733+[20]</li>
 </ul></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Going_Seventeen" title="wikilink">Going Seventeen</a></p></td>
+<td><p><a href="../Page/Going_Seventeen.md" title="wikilink">Going Seventeen</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Lean On Me<small>（기대）</small></p></td>
@@ -801,7 +801,7 @@ World</a><br />
 <td><ul>
 <li>韓國：28,493+</li>
 </ul></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Teen,_Age" title="wikilink">TEEN, AGE</a></p></td>
+<td><p><a href="../Page/Teen,_Age.md" title="wikilink">TEEN, AGE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Change Up</p></td>
@@ -1061,7 +1061,7 @@ World</a><br />
 </tr>
 <tr class="odd">
 <td><p>12月4日</p></td>
-<td><p>S.coups、<a href="https://zh.wikipedia.org/wiki/李知勳_(SEVENTEEN)" title="wikilink">WOOZI</a>、Vernon</p></td>
+<td><p>S.coups、<a href="../Page/李知勳_(SEVENTEEN).md" title="wikilink">WOOZI</a>、Vernon</p></td>
 <td><p><a href="../Page/李艺真.md" title="wikilink">Ailee</a></p></td>
 <td><p>《Q&amp;A》<ref></p>
 <ul>
@@ -1127,7 +1127,7 @@ World</a><br />
 <td><p>3月17日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/旼炫" title="wikilink">旼炫</a>（<a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a>）</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Q_is" title="wikilink">Q is</a>.》</p></td>
+<td><p>《<a href="../Page/Q_is.md" title="wikilink">Q is</a>.》</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=UTe_Y8JVB0M">여왕의 기사(OVERCOME) Acoustic ver.</a></p></td>
 <td><p>翻唱、編曲[28]</p></td>
 <td></td>
@@ -1254,7 +1254,7 @@ World</a><br />
 <tr class="odd">
 <td><p>8月16日</p></td>
 <td><p>Vernon</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/M.O.L.A" title="wikilink">M.O.L.A</a></p></td>
+<td><p><a href="../Page/M.O.L.A.md" title="wikilink">M.O.L.A</a></p></td>
 <td><p>–</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=HhORK9Z5USQ">CHILLIN' (5MOLAs Ver.)</a></p></td>
 <td><p>翻唱 [33]</p></td>
@@ -1341,7 +1341,7 @@ World</a><br />
 <li></li>
 <li><p></ref></p></li>
 </ul></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a> &amp; 李志容<small>（이지용，素人）</small></p></td>
+<td><p><a href="../Page/夫勝寛.md" title="wikilink">勝寛</a> &amp; 李志容<small>（이지용，素人）</small></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1410,7 +1410,7 @@ World</a><br />
 <li></li>
 <li><p></ref></p></li>
 </ul></td>
-<td><p>勝寛 &amp; <a href="https://zh.wikipedia.org/wiki/率滨" title="wikilink">率濱</a>（<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>）</p></td>
+<td><p>勝寛 &amp; <a href="../Page/率滨.md" title="wikilink">率濱</a>（<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>捐<small>（연）（原唱：）</small></p></td>
@@ -1456,7 +1456,7 @@ World</a><br />
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>網劇《A-Teen》OST</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a>、<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a>、<a href="https://zh.wikipedia.org/wiki/李知勳_(SEVENTEEN)" title="wikilink">WOOZI</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a>、<a href="https://zh.wikipedia.org/wiki/李燦_(SEVENTEEN)" title="wikilink">Dino</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a>、<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a>、<a href="../Page/李知勳_(SEVENTEEN).md" title="wikilink">WOOZI</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a>、<a href="../Page/李燦_(SEVENTEEN).md" title="wikilink">Dino</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1491,7 +1491,7 @@ World</a><br />
 <td><p>2014年</p></td>
 <td><p>7月17日</p></td>
 <td><p><a href="https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol1-just-for-fun">JUST FOR FUN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/崔勝哲" title="wikilink">S.coups</a>、<a href="https://zh.wikipedia.org/wiki/全圓佑" title="wikilink">圓佑</a>、<a href="https://zh.wikipedia.org/wiki/李知勳_(SEVENTEEN)" title="wikilink">WOOZI</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔勝哲" title="wikilink">S.coups</a>、<a href="../Page/全圓佑.md" title="wikilink">圓佑</a>、<a href="../Page/李知勳_(SEVENTEEN).md" title="wikilink">WOOZI</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a></p></td>
 <td><p>O.K party people in da house</p></td>
 <td><p>Dj Secatya</p></td>
 <td></td>
@@ -1528,7 +1528,7 @@ World</a><br />
 <tr class="odd">
 <td><p>12月15日</p></td>
 <td><p><a href="https://soundcloud.com/pledis_seventeen/play-seventeen17-seventeen-mixtape-vol6-no-flex-zone-chan-mingyu-wonwoo">NO FLEX ZONE</a></p></td>
-<td><p>圓佑、<a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a>、<a href="https://zh.wikipedia.org/wiki/李燦_(SEVENTEEN)" title="wikilink">Dino</a></p></td>
+<td><p>圓佑、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a>、<a href="../Page/李燦_(SEVENTEEN).md" title="wikilink">Dino</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=p2cQSPRTdhg">NO FLEX ZONE</a></p></td>
 <td></td>
 <td></td>
@@ -1546,7 +1546,7 @@ World</a><br />
 <tr class="odd">
 <td><p>3月20日</p></td>
 <td><p><a href="https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol7-acoustic-ver-seungkwan-seokmin-joshua-junghan">너때문에 Acoustic Ver. 1</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尹淨漢" title="wikilink">淨漢</a>、<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a>、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尹淨漢" title="wikilink">淨漢</a>、<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a>、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="../Page/夫勝寛.md" title="wikilink">勝寛</a></p></td>
 <td><p><a href="http://tv.naver.com/v/45603">Because of You（너 때문에）</a></p></td>
 <td><p><a href="../Page/After_School.md" title="wikilink">After School</a></p></td>
 <td><p>由<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua編曲</a></p></td>
@@ -1627,7 +1627,7 @@ World</a><br />
 <td><p><a href="https://www.youtube.com/watch?v=w0FkoVriWCg">We Gonna Make It Shine 2017ver.</a></p></td>
 <td><p>SEVENTEEN (Vocal Team)</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=B_s81YkMlUU">We Gonna Make It Shine</a></p></td>
-<td><p>WOOZI、<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a>、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a></p></td>
+<td><p>WOOZI、<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a>、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="../Page/夫勝寛.md" title="wikilink">勝寛</a></p></td>
 <td><p>曾於同年7月16日演唱會上表演[42]</p></td>
 <td></td>
 </tr>
@@ -1638,18 +1638,18 @@ World</a><br />
 
   - <small>此條目列出已發佈，但發佈當時尚未正式發行之歌曲。</small>
 
-| 年份                                                               | 發佈日期                                                                                                                                                                   | 歌曲名稱                                                                                                                                                                               | 參與成員                                                                                                                                                                                                                            | 備註                                                                                                                                           |
-| ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2014年                                                            | 5月22日                                                                                                                                                                  | [We Gonna Make It Shine](https://www.youtube.com/watch?v=B_s81YkMlUU)                                                                                                              | [WOOZI](https://zh.wikipedia.org/wiki/李知勳_\(SEVENTEEN\) "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[勝寛](https://zh.wikipedia.org/wiki/夫勝寛 "wikilink") | 由[WOOZI](https://zh.wikipedia.org/wiki/李知勳_\(SEVENTEEN\) "wikilink")、作詞作曲，於2017年8月6日發佈2017翻唱版本                                               |
-| 2015年                                                            | 5月16日                                                                                                                                                                  | [NO F.U.N](https://www.youtube.com/watch?v=nF7LIWa4Syk)                                                                                                                            | [淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、Hoshi、[圓佑](https://zh.wikipedia.org/wiki/全圓佑 "wikilink")                                                                                                                     | 由WOOZI、Hoshi、[圓佑作詞](https://zh.wikipedia.org/wiki/全圓佑 "wikilink")，WOOZI參與作曲；後收錄於正規改版一輯《[Love & Letter](../Page/Love_&_Letter.md "wikilink")》 |
-| [O.M.G](https://www.youtube.com/watch?v=Dxjg9YpkO7w)             | [S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、WOOZI、[Dino](https://zh.wikipedia.org/wiki/李燦_\(SEVENTEEN\) "wikilink")                                        | 由WOOZI、[S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、DINO作詞，WOOZI參與作曲；後收錄於迷你二輯《[BOYS BE](https://zh.wikipedia.org/wiki/Boys_Be_\(Seventeen迷你專輯\) "wikilink")》            |                                                                                                                                                                                                                                 |                                                                                                                                              |
-| [Hello](https://www.youtube.com/watch?v=KG2VIvs9A10)             | [Jun](https://zh.wikipedia.org/wiki/文俊輝 "wikilink")、DK、[珉奎](https://zh.wikipedia.org/wiki/金珉奎 "wikilink")                                                              | 由[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[珉奎作詞](https://zh.wikipedia.org/wiki/金珉奎 "wikilink")；後收錄於正規二輯《[TEEN, AGE](https://zh.wikipedia.org/wiki/TEEN,_AGE "wikilink")》 |                                                                                                                                                                                                                                 |                                                                                                                                              |
-| [떠내려가 (Drift Away)](https://www.youtube.com/watch?v=rYo96L2hyNk) | [Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")、[The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")、勝寛、[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink") | 由WOOZI、Vernon、[勝寛作詞](https://zh.wikipedia.org/wiki/夫勝寛 "wikilink")，WOOZI參與作曲；後收錄於正規一輯《[Love & Letter](../Page/Love_&_Letter.md "wikilink")》                                        |                                                                                                                                                                                                                                 |                                                                                                                                              |
-| 2016年                                                            | 11月1日                                                                                                                                                                  | [Check-In](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol12-check-in-hiphop-team-scoups-wonwoo-mingyu-vernon)                                                       | Hip-hop Team                                                                                                                                                                                                                    | 於同日發佈[MV](https://www.youtube.com/watch?v=SyqR3y9h6eU)；後收錄於迷你四輯《[Al1](https://zh.wikipedia.org/wiki/Al1 "wikilink")》                         |
-| 2017年                                                            | 2月13日                                                                                                                                                                  | [ZERO](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol13-0zero-dino)                                                                                                 | Dino                                                                                                                                                                                                                            | 由Dino作詞，桂範洙作曲                                                                                                                                |
-| 7月22日                                                            | [言行一致 (언행일치) Concert ver.](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol14-concert-ver)                                                                | Hip-hop Team                                                                                                                                                                       | 曾於同年7月15日演唱會上表演\[43\]                                                                                                                                                                                                           |                                                                                                                                              |
-| 2018年                                                            | 1月1日                                                                                                                                                                   | [The real thing](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol15-the-real-thing-dino)                                                                              | Dino                                                                                                                                                                                                                            | 曾於2017年7月14日演唱會上表演                                                                                                                           |
-| 3月8日                                                             | [夜伴雨(밤과 비)](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol16-the8)                                                                                      | The 8                                                                                                                                                                              | 由The8作詞，The8、Woozi、桂範洙作曲                                                                                                                                                                                                        |                                                                                                                                              |
+| 年份                                                               | 發佈日期                                                                                                                                                                   | 歌曲名稱                                                                                                                                                            | 參與成員                                                                                                                                                                                      | 備註                                                                                                                        |
+| ---------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 2014年                                                            | 5月22日                                                                                                                                                                  | [We Gonna Make It Shine](https://www.youtube.com/watch?v=B_s81YkMlUU)                                                                                           | [WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[勝寛](../Page/夫勝寛.md "wikilink") | 由[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、作詞作曲，於2017年8月6日發佈2017翻唱版本                                               |
+| 2015年                                                            | 5月16日                                                                                                                                                                  | [NO F.U.N](https://www.youtube.com/watch?v=nF7LIWa4Syk)                                                                                                         | [淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、Hoshi、[圓佑](../Page/全圓佑.md "wikilink")                                                                                                  | 由WOOZI、Hoshi、[圓佑作詞](../Page/全圓佑.md "wikilink")，WOOZI參與作曲；後收錄於正規改版一輯《[Love & Letter](../Page/Love_&_Letter.md "wikilink")》 |
+| [O.M.G](https://www.youtube.com/watch?v=Dxjg9YpkO7w)             | [S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、WOOZI、[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink")                                                           | 由WOOZI、[S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、DINO作詞，WOOZI參與作曲；後收錄於迷你二輯《[BOYS BE](../Page/Boys_Be_\(Seventeen迷你專輯\).md "wikilink")》            |                                                                                                                                                                                           |                                                                                                                           |
+| [Hello](https://www.youtube.com/watch?v=KG2VIvs9A10)             | [Jun](../Page/文俊輝.md "wikilink")、DK、[珉奎](../Page/金珉奎.md "wikilink")                                                                                                    | 由[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[珉奎作詞](../Page/金珉奎.md "wikilink")；後收錄於正規二輯《[TEEN, AGE](https://zh.wikipedia.org/wiki/TEEN,_AGE "wikilink")》 |                                                                                                                                                                                           |                                                                                                                           |
+| [떠내려가 (Drift Away)](https://www.youtube.com/watch?v=rYo96L2hyNk) | [Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")、[The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")、勝寛、[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink") | 由WOOZI、Vernon、[勝寛作詞](../Page/夫勝寛.md "wikilink")，WOOZI參與作曲；後收錄於正規一輯《[Love & Letter](../Page/Love_&_Letter.md "wikilink")》                                        |                                                                                                                                                                                           |                                                                                                                           |
+| 2016年                                                            | 11月1日                                                                                                                                                                  | [Check-In](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol12-check-in-hiphop-team-scoups-wonwoo-mingyu-vernon)                                    | Hip-hop Team                                                                                                                                                                              | 於同日發佈[MV](https://www.youtube.com/watch?v=SyqR3y9h6eU)；後收錄於迷你四輯《[Al1](../Page/Al1.md "wikilink")》                         |
+| 2017年                                                            | 2月13日                                                                                                                                                                  | [ZERO](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol13-0zero-dino)                                                                              | Dino                                                                                                                                                                                      | 由Dino作詞，桂範洙作曲                                                                                                             |
+| 7月22日                                                            | [言行一致 (언행일치) Concert ver.](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol14-concert-ver)                                                                | Hip-hop Team                                                                                                                                                    | 曾於同年7月15日演唱會上表演\[43\]                                                                                                                                                                     |                                                                                                                           |
+| 2018年                                                            | 1月1日                                                                                                                                                                   | [The real thing](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol15-the-real-thing-dino)                                                           | Dino                                                                                                                                                                                      | 曾於2017年7月14日演唱會上表演                                                                                                        |
+| 3月8日                                                             | [夜伴雨(밤과 비)](https://soundcloud.com/pledis_seventeen/seventeen-mixtape-vol16-the8)                                                                                      | The 8                                                                                                                                                           | 由The8作詞，The8、Woozi、桂範洙作曲                                                                                                                                                                  |                                                                                                                           |
 
 ## 音樂錄影帶
 
@@ -1912,10 +1912,10 @@ World</a><br />
 
 ### 合作音樂錄影帶
 
-| 發佈日期       | 歌曲名稱                                                     | 演唱者                                                                                               | 參與成員                                                                                                                               | 導演                |
-| ---------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-| 2015年12月3日 | [Q\&A](https://www.youtube.com/watch?v=tc1ll7xXCmw)      | [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink") & [Ailee](../Page/李艺真.md "wikilink")          | [S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[WOOZI](https://zh.wikipedia.org/wiki/李知勳_\(SEVENTEEN\) "wikilink")、Vernon | {{tsl|en|Digipedi |
-| 2016年2月11日 | [Chocolate](https://www.youtube.com/watch?v=qx8f1-_pQwg) | [尹鍾信](../Page/尹鍾信.md "wikilink") & [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink") Vocal Unit | [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink") Vocal Team                                                                     | Gudals Kim\[50\]  |
+| 發佈日期       | 歌曲名稱                                                     | 演唱者                                                                                               | 參與成員                                                                                                            | 導演                |
+| ---------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- | ----------------- |
+| 2015年12月3日 | [Q\&A](https://www.youtube.com/watch?v=tc1ll7xXCmw)      | [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink") & [Ailee](../Page/李艺真.md "wikilink")          | [S.coups](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、Vernon | {{tsl|en|Digipedi |
+| 2016年2月11日 | [Chocolate](https://www.youtube.com/watch?v=qx8f1-_pQwg) | [尹鍾信](../Page/尹鍾信.md "wikilink") & [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink") Vocal Unit | [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink") Vocal Team                                                  | Gudals Kim\[50\]  |
 
 ### 參演音樂錄影帶
 
@@ -1955,7 +1955,7 @@ World</a><br />
 <td><p>3月14日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=gyXy0m-4bvE">FACE</a></p></td>
 <td><p><a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a></p></td>
-<td><p>S.coups、<a href="https://zh.wikipedia.org/wiki/權純永" title="wikilink">Hoshi</a>、<a href="https://zh.wikipedia.org/wiki/全圓佑" title="wikilink">圓佑</a>、<a href="https://zh.wikipedia.org/wiki/李知勳_(SEVENTEEN)" title="wikilink">WOOZI</a>、<a href="https://zh.wikipedia.org/wiki/金玟奎" title="wikilink">玟奎</a></p></td>
+<td><p>S.coups、<a href="https://zh.wikipedia.org/wiki/權純永" title="wikilink">Hoshi</a>、<a href="../Page/全圓佑.md" title="wikilink">圓佑</a>、<a href="../Page/李知勳_(SEVENTEEN).md" title="wikilink">WOOZI</a>、<a href="https://zh.wikipedia.org/wiki/金玟奎" title="wikilink">玟奎</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1999,13 +1999,13 @@ World</a><br />
 <td><p>2014年</p></td>
 <td><p>3月5日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=VZiNbUji3qw">Money Money Money</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a>、<a href="https://zh.wikipedia.org/wiki/李知勳_(SEVENTEEN)" title="wikilink">WOOZI</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a>、<a href="https://zh.wikipedia.org/wiki/李燦_(SEVENTEEN)" title="wikilink">Dino</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a>、<a href="../Page/李知勳_(SEVENTEEN).md" title="wikilink">WOOZI</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a>、<a href="../Page/李燦_(SEVENTEEN).md" title="wikilink">Dino</a></p></td>
 <td><p>Dance Practice Video</p></td>
 </tr>
 <tr class="even">
 <td><p>5月22日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=B_s81YkMlUU">We gonna make it shine</a></p></td>
-<td><p>Hoshi、WOOZI、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a></p></td>
+<td><p>Hoshi、WOOZI、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="../Page/夫勝寛.md" title="wikilink">勝寛</a></p></td>
 <td><p>Vocal Practice Video</p></td>
 <td></td>
 </tr>

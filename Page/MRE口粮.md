@@ -17,7 +17,7 @@ MRE的包裝要求非常嚴格，必須能在有[降落傘的狀況下從](https
 
 一般MRE的內容物會包含：
 
-  - [主菜](https://zh.wikipedia.org/wiki/主菜 "wikilink")
+  - [主菜](../Page/主菜.md "wikilink")
 
   - 配菜
 
@@ -79,7 +79,7 @@ MRE的包裝要求非常嚴格，必須能在有[降落傘的狀況下從](https
   - （加拿大）
 
   -
-  - [Scho-Ka-Kola](https://zh.wikipedia.org/wiki/Scho-Ka-Kola "wikilink")
+  - [Scho-Ka-Kola](../Page/Scho-Ka-Kola.md "wikilink")
 
 ## 參考文獻
 

@@ -81,7 +81,7 @@ LineageOS正在开发一个名为“FlipFlap”的專屬功能，並为翻蓋提
 
 ## 参见
 
-  - [客制Android韌體列表](https://zh.wikipedia.org/wiki/客制Android韌體列表 "wikilink")
+  - [客制Android韌體列表](../Page/客制Android韌體列表.md "wikilink")
 
 ## 参考资料
 

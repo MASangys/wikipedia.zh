@@ -256,7 +256,7 @@ Group第五屆總選舉投票券](https://zh.wikipedia.org/wiki/SNH48_Group第�
 
 《森林法则》是SNH48 2018夏日主题EP。该EP首次尝试双主打歌的形式，由来自SNH48、BEJ48、
 GNZ48、SHY48、CKG48五团组成选拔组共24名成员演绎，并赴[泰国](../Page/泰国.md "wikilink")[普吉岛取景拍摄MV](https://zh.wikipedia.org/wiki/普吉岛 "wikilink")。
-EP由「[终结者2：审判日](https://zh.wikipedia.org/wiki/终结者2：审判日_\(游戏\) "wikilink")」冠名，《森林法则》MV也以「吃鸡」剧情为主题，成员在神秘小岛为了生存殊死搏斗、上演相爱相杀的场面\[11\]。
+EP由「[终结者2：审判日](../Page/终结者2：审判日_\(游戏\).md "wikilink")」冠名，《森林法则》MV也以「吃鸡」剧情为主题，成员在神秘小岛为了生存殊死搏斗、上演相爱相杀的场面\[11\]。
 
 ### 收錄曲目
 
@@ -397,7 +397,7 @@ Group携手美国人工智能公司ObEN创意打造了人工智能形象，制�
   - Team
     NII：[易嘉爱](https://zh.wikipedia.org/wiki/易嘉爱 "wikilink")、[张怡](https://zh.wikipedia.org/wiki/张怡 "wikilink")
   - Team
-    HII：[姜杉](https://zh.wikipedia.org/wiki/姜杉 "wikilink")、[李艺彤](https://zh.wikipedia.org/wiki/李艺彤 "wikilink")、[万丽娜](https://zh.wikipedia.org/wiki/万丽娜 "wikilink")
+    HII：[姜杉](../Page/姜杉.md "wikilink")、[李艺彤](https://zh.wikipedia.org/wiki/李艺彤 "wikilink")、[万丽娜](https://zh.wikipedia.org/wiki/万丽娜 "wikilink")
   - Team X：祁静、杨冰怡、张丹三
   - Team B：[段艺璇](https://zh.wikipedia.org/wiki/段艺璇 "wikilink")
   - Team E：[苏杉杉](https://zh.wikipedia.org/wiki/苏杉杉 "wikilink")

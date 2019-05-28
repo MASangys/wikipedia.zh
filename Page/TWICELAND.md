@@ -1,11 +1,11 @@
 TWICELAND是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合](https://zh.wikipedia.org/wiki/女子組合 "wikilink")[TWICE於](https://zh.wikipedia.org/wiki/TWICE "wikilink")2017年開始舉辦的一系列單獨巡迴演唱會。而首部曲[TWICELAND
 - The Opening
--正式於](https://zh.wikipedia.org/wiki/TWICELAND_-_The_Opening_- "wikilink")2017年2月17在韓國首爾開唱，為巡迴演唱會拉開帷幕。
+-正式於](../Page/TWICELAND_-_The_Opening_-.md "wikilink")2017年2月17在韓國首爾開唱，為巡迴演唱會拉開帷幕。
 
 ## 巡迴演唱會
 
   - [TWICELAND - The Opening
-    -](https://zh.wikipedia.org/wiki/TWICELAND_-_The_Opening_- "wikilink")（2017年）
+    -](../Page/TWICELAND_-_The_Opening_-.md "wikilink")（2017年）
   - [TWICELAND Zone 2 - Fantasy
     Park](https://zh.wikipedia.org/wiki/TWICELAND_Zone_2_-_Fantasy_Park "wikilink")
     (2018年)
@@ -18,7 +18,7 @@ TWICELAND是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組�
 
 2017年1月25日，JYP娛樂公佈TWICE將於4月8日在[曼谷舉行演唱會](../Page/曼谷.md "wikilink")。\[3\]
 
-2017年1月26日，JYP娛樂公佈增加[首爾場的座位](https://zh.wikipedia.org/wiki/首爾 "wikilink")，並從1月31日下午8時開始通過[Interpark](http://ticket.interpark.com/)預訂\[4\]
+2017年1月26日，JYP娛樂公佈增加[首爾場的座位](../Page/首爾.md "wikilink")，並從1月31日下午8時開始通過[Interpark](http://ticket.interpark.com/)預訂\[4\]
 
 2017年1月26日，JYP娛樂公佈TWICE將於4月29日在[新加坡舉行演唱會](../Page/新加坡.md "wikilink")。\[5\]
 

@@ -37,10 +37,9 @@ DAY》及《I JUST DO》，9月6日發表迷你專輯《UNMIX》正式出道。
   - 1月10日，發行第二張迷你專輯《MATCH UP》。
   - 3月6日，發行數位雙單曲《REMATCH》。
   - 3月26日，《[PRODUCE 101
-    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》出身的**MXM（**[林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")）、李光賢、[鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")，組成企劃團體[YDPP](https://zh.wikipedia.org/wiki/YDPP "wikilink")。在[STARSHIP娛樂及](../Page/STARSHIP娛樂.md "wikilink")[Brand
+    (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》出身的**MXM（**[林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")）、李光賢、[鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")，組成企劃團體[YDPP](../Page/YDPP.md "wikilink")。在[STARSHIP娛樂及](../Page/STARSHIP娛樂.md "wikilink")[Brand
     New Music官方公開](../Page/Brand_New_Music.md "wikilink")。
-  - 4月5日，企劃團體[YDPP以單曲](https://zh.wikipedia.org/wiki/YDPP "wikilink")《LOVE
-    IT LOVE IT》正式出道。
+  - 4月5日，企劃團體[YDPP以單曲](../Page/YDPP.md "wikilink")《LOVE IT LOVE IT》正式出道。
   - 8月14日，發行首張正規專輯《MORE THAN EVER》。
   - 8月21日，出道以來首次在音樂節目[THE
     SHOW進入一位候選](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")。
@@ -283,7 +282,7 @@ DAY》及《I JUST DO》，9月6日發表迷你專輯《UNMIX》正式出道。
 | 2017年4月7日－2017年6月16日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             | 《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》              | EP.1-11 | [林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")                                                                                                                                                                                                              |
 | 2017年8月6日             | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | 《[腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")》\[11\] | EP.124  | [林煐岷](../Page/林煐岷.md "wikilink")                                                                                                                                                                                                                                               |
 | 2017年9月5日             | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》          | EP.280  | [林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")                                                                                                                                                                                                              |
-| 2017年9月12日－2017年9月26日 | [OnStyle](../Page/OnStyle.md "wikilink")                          | 《[旅行報告書](https://zh.wikipedia.org/wiki/旅行報告書 "wikilink")》               | EP.6-8  | [林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")                                                                                                                                                                                                              |
+| 2017年9月12日－2017年9月26日 | [OnStyle](../Page/OnStyle.md "wikilink")                          | 《[旅行報告書](../Page/旅行報告書.md "wikilink")》                                  | EP.6-8  | [林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")                                                                                                                                                                                                              |
 | 2017年10月25日           | [MBC every1](https://zh.wikipedia.org/wiki/MBC_every1 "wikilink") | 《[一週偶像](https://zh.wikipedia.org/wiki/一週偶像 "wikilink")》                 | EP.326  | [金Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink")、[鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")、[MXM](https://zh.wikipedia.org/wiki/MXM "wikilink")、[JBJ](../Page/JBJ.md "wikilink")                                                                           |
 | 2017年11月21日           | [MBC every1](https://zh.wikipedia.org/wiki/MBC_every1 "wikilink") | 《[Video Star](../Page/Video_Star.md "wikilink")》                        | EP.72   | [Rhymer](https://zh.wikipedia.org/wiki/Rhymer "wikilink")、[Kiggen](https://zh.wikipedia.org/wiki/Kiggen "wikilink")、[韓海](https://zh.wikipedia.org/wiki/鄭韓海 "wikilink")、[MXM](https://zh.wikipedia.org/wiki/MXM "wikilink")                                                     |
 | 2018年1月16日            | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》          | EP.299  | [林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")                                                                                                                                                                                                              |
@@ -291,22 +290,22 @@ DAY》及《I JUST DO》，9月6日發表迷你專輯《UNMIX》正式出道。
 
 ### 電台節目
 
-| 播出日期        | 電台                                                                      | 節目名稱                                                              | 備註      |
-| ----------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------- | ------- |
-| 2017年9月11日  | [ARIRANG RADIO](https://zh.wikipedia.org/wiki/ARIRANG_RADIO "wikilink") | K-POPPIN                                                          |         |
-| 2017年9月13日  | SBS Power FM                                                            | NCT night night                                                   |         |
-| 2017年9月14日  | SBS Power FM                                                            | 兩點逃出Cultwo Show                                                   | 與鄭世雲、IZ |
-| 2017年10月2日  | [ARIRANG RADIO](https://zh.wikipedia.org/wiki/ARIRANG_RADIO "wikilink") | SUPER K-POP                                                       |         |
-| 2017年10月14日 | SBS Power FM                                                            | 朴素贤的love game                                                     |         |
-| 2017年11月3日  | InterFM897                                                              | Refill Korea\!                                                    | 日本電台節目  |
-| 2018年1月17日  | SBS Power FM                                                            | NCT night night                                                   |         |
-| 2018年1月18日  | [ARIRANG RADIO](https://zh.wikipedia.org/wiki/ARIRANG_RADIO "wikilink") | SOUND K                                                           |         |
-| 2018年1月22日  | [ARIRANG RADIO](https://zh.wikipedia.org/wiki/ARIRANG_RADIO "wikilink") | K-POPPIN                                                          |         |
-| 2018年1月28日  | EBS FM                                                                  | 傾聽                                                                |         |
-|             |                                                                         |                                                                   |         |
-| 2018年9月21日  | SBS Power FM                                                            | 李國主的Youngstreet                                                   |         |
-| 2018年10月23日 | MBC標準FM                                                                 | [IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink") |         |
-| 2018年11月12日 | SBS Power FM                                                            | Youngstreet                                                       |         |
+| 播出日期        | 電台                                                                      | 節目名稱                                           | 備註      |
+| ----------- | ----------------------------------------------------------------------- | ---------------------------------------------- | ------- |
+| 2017年9月11日  | [ARIRANG RADIO](https://zh.wikipedia.org/wiki/ARIRANG_RADIO "wikilink") | K-POPPIN                                       |         |
+| 2017年9月13日  | SBS Power FM                                                            | NCT night night                                |         |
+| 2017年9月14日  | SBS Power FM                                                            | 兩點逃出Cultwo Show                                | 與鄭世雲、IZ |
+| 2017年10月2日  | [ARIRANG RADIO](https://zh.wikipedia.org/wiki/ARIRANG_RADIO "wikilink") | SUPER K-POP                                    |         |
+| 2017年10月14日 | SBS Power FM                                                            | 朴素贤的love game                                  |         |
+| 2017年11月3日  | InterFM897                                                              | Refill Korea\!                                 | 日本電台節目  |
+| 2018年1月17日  | SBS Power FM                                                            | NCT night night                                |         |
+| 2018年1月18日  | [ARIRANG RADIO](https://zh.wikipedia.org/wiki/ARIRANG_RADIO "wikilink") | SOUND K                                        |         |
+| 2018年1月22日  | [ARIRANG RADIO](https://zh.wikipedia.org/wiki/ARIRANG_RADIO "wikilink") | K-POPPIN                                       |         |
+| 2018年1月28日  | EBS FM                                                                  | 傾聽                                             |         |
+|             |                                                                         |                                                |         |
+| 2018年9月21日  | SBS Power FM                                                            | 李國主的Youngstreet                                |         |
+| 2018年10月23日 | MBC標準FM                                                                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |         |
+| 2018年11月12日 | SBS Power FM                                                            | Youngstreet                                    |         |
 
 ### 網上平台
 

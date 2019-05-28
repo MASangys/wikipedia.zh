@@ -2,7 +2,7 @@
 
 ## 制备
 
-[三溴化六氨合钴和](https://zh.wikipedia.org/wiki/三溴化六氨合钴 "wikilink")[六氰合钴(III)酸钾在溶液中反应](https://zh.wikipedia.org/wiki/六氰合钴\(III\)酸钾 "wikilink")，放置两周后得到结晶产物：\[1\]
+[三溴化六氨合钴和](https://zh.wikipedia.org/wiki/三溴化六氨合钴 "wikilink")[六氰合钴(III)酸钾在溶液中反应](../Page/六氰合钴\(III\)酸钾.md "wikilink")，放置两周后得到结晶产物：\[1\]
 
   -
     \[Co(NH<sub>3</sub>)<sub>6</sub>\]Br<sub>3</sub> +

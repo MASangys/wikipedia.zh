@@ -4,7 +4,7 @@ A、ARSA、[酰基硫酸酯酶A](../Page/酰基.md "wikilink")、腦苷硫酸酯
 
 ## 病理機制
 
-ARSA缺乏症與[異染性腦白質退化症](https://zh.wikipedia.org/wiki/異染性腦白質退化症 "wikilink")(MLD)有關，屬[常染色体](https://zh.wikipedia.org/wiki/常染色体 "wikilink")[隱性遺傳疾病](../Page/隐性.md "wikilink")。\[3\]
+ARSA缺乏症與[異染性腦白質退化症](../Page/異染性腦白質退化症.md "wikilink")(MLD)有關，屬[常染色体](https://zh.wikipedia.org/wiki/常染色体 "wikilink")[隱性遺傳疾病](../Page/隐性.md "wikilink")。\[3\]
 
 ## 生物化學
 

@@ -39,7 +39,7 @@
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>唱片部門本賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Brother_Act._(BTOB專輯)" title="wikilink">Brother Act.</a></p></td>
+<td><p><a href="../Page/Brother_Act._(BTOB專輯).md" title="wikilink">Brother Act.</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -57,7 +57,7 @@
 <tr class="odd">
 <td><p>2019年</p></td>
 <td><p>唱片部門本賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THIS_IS_US_(BTOB迷你專輯)" title="wikilink"><em>THIS IS US</em></a></p></td>
+<td><p><a href="../Page/THIS_IS_US_(BTOB迷你專輯).md" title="wikilink"><em>THIS IS US</em></a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -142,7 +142,7 @@
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>大賞</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/Brother_Act._(BTOB專輯)" title="wikilink">Missing You</a></em></p></td>
+<td><p><em><a href="../Page/Brother_Act._(BTOB專輯).md" title="wikilink">Missing You</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -166,7 +166,7 @@
 <tr class="even">
 <td><p>2019年</p></td>
 <td><p>大賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THIS_IS_US_(BTOB迷你專輯)" title="wikilink"><em>Only One For Me</em></a></p></td>
+<td><p><a href="../Page/THIS_IS_US_(BTOB迷你專輯).md" title="wikilink"><em>Only One For Me</em></a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -244,7 +244,7 @@
 </tr>
 <tr class="even">
 <td><p>年度歌曲獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THIS_IS_US_(BTOB迷你專輯)" title="wikilink"><em>Only One For Me</em></a></p></td>
+<td><p><a href="../Page/THIS_IS_US_(BTOB迷你專輯).md" title="wikilink"><em>Only One For Me</em></a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -299,7 +299,7 @@
 </tr>
 <tr class="even">
 <td><p>年度歌曲獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Brother_Act._(BTOB專輯)" title="wikilink">Missing You</a></p></td>
+<td><p><a href="../Page/Brother_Act._(BTOB專輯).md" title="wikilink">Missing You</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -317,7 +317,7 @@
 </tr>
 <tr class="odd">
 <td><p>年度歌曲獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THIS_IS_US_(BTOB迷你專輯)" title="wikilink"><em>Only One For Me</em></a></p></td>
+<td><p><a href="../Page/THIS_IS_US_(BTOB迷你專輯).md" title="wikilink"><em>Only One For Me</em></a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -429,7 +429,7 @@
 </tbody>
 </table>
 
-### [韓國大眾文化藝術獎](https://zh.wikipedia.org/wiki/韓國大眾文化藝術獎 "wikilink")
+### [韓國大眾文化藝術獎](../Page/韓國大眾文化藝術獎.md "wikilink")
 
 <table>
 <tbody>
@@ -471,14 +471,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>10月－<em><a href="https://zh.wikipedia.org/wiki/Brother_Act._(BTOB專輯)" title="wikilink">Missing You</a></em></p></td>
+<td><p>10月－<em><a href="../Page/Brother_Act._(BTOB專輯).md" title="wikilink">Missing You</a></em></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
-<td><p>6月－<em><a href="https://zh.wikipedia.org/wiki/THIS_IS_US_(BTOB迷你專輯)" title="wikilink">Only One For Me</a></em></p></td>
+<td><p>6月－<em><a href="../Page/THIS_IS_US_(BTOB迷你專輯).md" title="wikilink">Only One For Me</a></em></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -560,7 +560,7 @@
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>大賞部門年度歌曲獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Brother_Act._(BTOB專輯)" title="wikilink"><em>Missing You</em></a></p></td>
+<td><p><a href="../Page/Brother_Act._(BTOB專輯).md" title="wikilink"><em>Missing You</em></a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -657,7 +657,7 @@
 </tr>
 <tr class="odd">
 <td><p>音源獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Brother_Act._(BTOB專輯)" title="wikilink"><em>Missing You</em></a></p></td>
+<td><p><a href="../Page/Brother_Act._(BTOB專輯).md" title="wikilink"><em>Missing You</em></a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -784,7 +784,7 @@
 <tr class="even">
 <td><p>2012年</p></td>
 <td><p>本月新人賞（七月）[12]</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/Press_Play_(BTOB迷你專輯)" title="wikilink">WOW</a></em></p></td>
+<td><p><em><a href="../Page/Press_Play_(BTOB迷你專輯).md" title="wikilink">WOW</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -821,7 +821,7 @@
 <tr class="even">
 <td><p>2019年</p></td>
 <td><p>Album of The Year</p></td>
-<td><p>''<a href="https://zh.wikipedia.org/wiki/THIS_IS_US_(BTOB迷你專輯)" title="wikilink">THIS IS US</a></p></td>
+<td><p>''<a href="../Page/THIS_IS_US_(BTOB迷你專輯).md" title="wikilink">THIS IS US</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -887,51 +887,51 @@
 
 ### [MBC Music](../Page/MBC_Plus_Media.md "wikilink") [Show Champion](../Page/Show_Champion.md "wikilink")
 
-|        |                                                                                  |                                                                                |                         |
-| ------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------- |
-| 年份     | 日期                                                                               | 收錄專輯                                                                           | 獲獎歌曲                    |
-| 2015年  | 10月21日                                                                           | [I mean](../Page/I_mean.md "wikilink")                                         | 回家的路 (Way Back Home)    |
-| 2016年  | 4月6日                                                                             | [Remember That](../Page/Remember_That.md "wikilink")                           | 春天的記憶 (Remember That)   |
-| 2017年  | 3月15日                                                                            | [Feel'eM](../Page/Feel'eM.md "wikilink")                                       | MOVIE                   |
-| 10月25日 | [Brother Act.](https://zh.wikipedia.org/wiki/Brother_Act._\(BTOB專輯\) "wikilink") | 想念 (Missing You)                                                               |                         |
-| 11月1日  |                                                                                  |                                                                                |                         |
-| 2018年  | 6月27日                                                                            | [THIS IS US](https://zh.wikipedia.org/wiki/THIS_IS_US_\(BTOB迷你專輯\) "wikilink") | 不能沒有你 (Only One For Me) |
-|        |                                                                                  |                                                                                |                         |
+|        |                                                               |                                                             |                         |
+| ------ | ------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------- |
+| 年份     | 日期                                                            | 收錄專輯                                                        | 獲獎歌曲                    |
+| 2015年  | 10月21日                                                        | [I mean](../Page/I_mean.md "wikilink")                      | 回家的路 (Way Back Home)    |
+| 2016年  | 4月6日                                                          | [Remember That](../Page/Remember_That.md "wikilink")        | 春天的記憶 (Remember That)   |
+| 2017年  | 3月15日                                                         | [Feel'eM](../Page/Feel'eM.md "wikilink")                    | MOVIE                   |
+| 10月25日 | [Brother Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink") | 想念 (Missing You)                                            |                         |
+| 11月1日  |                                                               |                                                             |                         |
+| 2018年  | 6月27日                                                         | [THIS IS US](../Page/THIS_IS_US_\(BTOB迷你專輯\).md "wikilink") | 不能沒有你 (Only One For Me) |
+|        |                                                               |                                                             |                         |
 
 ### [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")
 
-|       |        |                                                                                  |                       |
-| ----- | ------ | -------------------------------------------------------------------------------- | --------------------- |
-| 年份    | 日期     | 收錄專輯                                                                             | 獲獎歌曲                  |
-| 2016年 | 4月7日   | [Remember That](../Page/Remember_That.md "wikilink")                             | 春天的記憶 (Remember That) |
-| 2017年 | 10月26日 | [Brother Act.](https://zh.wikipedia.org/wiki/Brother_Act._\(BTOB專輯\) "wikilink") | 想念 (Missing You)      |
-| 11月2日 |        |                                                                                  |                       |
+|       |        |                                                               |                       |
+| ----- | ------ | ------------------------------------------------------------- | --------------------- |
+| 年份    | 日期     | 收錄專輯                                                          | 獲獎歌曲                  |
+| 2016年 | 4月7日   | [Remember That](../Page/Remember_That.md "wikilink")          | 春天的記憶 (Remember That) |
+| 2017年 | 10月26日 | [Brother Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink") | 想念 (Missing You)      |
+| 11月2日 |        |                                                               |                       |
 
 ### [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")
 
-|       |        |                                                                                  |                           |
-| ----- | ------ | -------------------------------------------------------------------------------- | ------------------------- |
-| 年份    | 日期     | 收錄專輯                                                                             | 獲獎歌曲                      |
-| 2016年 | 4月8日   | [Remember That](../Page/Remember_That.md "wikilink")                             | 春天的記憶 (Remember That)     |
-| 2017年 | 10月27日 | [Brother Act.](https://zh.wikipedia.org/wiki/Brother_Act._\(BTOB專輯\) "wikilink") | 想念 (Missing You)          |
-| 2018年 | 11月23日 | [HOUR MOMENT](../Page/HOUR_MOMENT_\(BTOB特別專輯\).md "wikilink")                    | 既是美麗又痛苦的 (Beautiful Pain) |
-|       |        |                                                                                  |                           |
+|       |        |                                                               |                           |
+| ----- | ------ | ------------------------------------------------------------- | ------------------------- |
+| 年份    | 日期     | 收錄專輯                                                          | 獲獎歌曲                      |
+| 2016年 | 4月8日   | [Remember That](../Page/Remember_That.md "wikilink")          | 春天的記憶 (Remember That)     |
+| 2017年 | 10月27日 | [Brother Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink") | 想念 (Missing You)          |
+| 2018年 | 11月23日 | [HOUR MOMENT](../Page/HOUR_MOMENT_\(BTOB特別專輯\).md "wikilink") | 既是美麗又痛苦的 (Beautiful Pain) |
+|       |        |                                                               |                           |
 
 ### [SBS](../Page/SBS_\(韓國\).md "wikilink") [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")
 
-|       |        |                                                                                  |                  |
-| ----- | ------ | -------------------------------------------------------------------------------- | ---------------- |
-| 年份    | 日期     | 收錄專輯                                                                             | 獲獎歌曲             |
-| 2017年 | 10月29日 | [Brother Act.](https://zh.wikipedia.org/wiki/Brother_Act._\(BTOB專輯\) "wikilink") | 想念 (Missing You) |
-| 11月5日 |        |                                                                                  |                  |
-|       |        |                                                                                  |                  |
+|       |        |                                                               |                  |
+| ----- | ------ | ------------------------------------------------------------- | ---------------- |
+| 年份    | 日期     | 收錄專輯                                                          | 獲獎歌曲             |
+| 2017年 | 10月29日 | [Brother Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink") | 想念 (Missing You) |
+| 11月5日 |        |                                                               |                  |
+|       |        |                                                               |                  |
 
 ###  [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")
 
-|       |      |                                                                                |                         |
-| ----- | ---- | ------------------------------------------------------------------------------ | ----------------------- |
-| 年份    | 日期   | 收錄專輯                                                                           | 獲獎歌曲                    |
-| 2018年 | 7月3日 | [THIS IS US](https://zh.wikipedia.org/wiki/THIS_IS_US_\(BTOB迷你專輯\) "wikilink") | 不能沒有你 (Only One For Me) |
+|       |      |                                                             |                         |
+| ----- | ---- | ----------------------------------------------------------- | ----------------------- |
+| 年份    | 日期   | 收錄專輯                                                        | 獲獎歌曲                    |
+| 2018年 | 7月3日 | [THIS IS US](../Page/THIS_IS_US_\(BTOB迷你專輯\).md "wikilink") | 不能沒有你 (Only One For Me) |
 
 ## 其他榮譽
 
@@ -1089,7 +1089,7 @@
 </tbody>
 </table>
 
-### [SBS](../Page/SBS_\(韓國\).md "wikilink") [Fantastic Duo 2](https://zh.wikipedia.org/wiki/Fantastic_Duo_2 "wikilink")
+### [SBS](../Page/SBS_\(韓國\).md "wikilink") [Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")
 
 |       |      |    |      |           |
 | ----- | ---- | -- | ---- | --------- |

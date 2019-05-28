@@ -3,7 +3,7 @@ True・Ending**》（），是日本特攝節目《[假面騎士EX-AID](../Page/
 
 此外《[超級戰隊系列](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")》的作品《[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》劇場版《[宇宙戰隊九連者
 THE MOVIE
-Goes・Indaver的逆襲](https://zh.wikipedia.org/wiki/宇宙戰隊九連者_THE_MOVIE_Goes·Indaver的逆襲 "wikilink")》亦同步上映。
+Goes・Indaver的逆襲](../Page/宇宙戰隊九連者_THE_MOVIE_Goes·Indaver的逆襲.md "wikilink")》亦同步上映。
 
 本作劇場版的口號為「拯救生命的是VR（虛擬實境）的世界？ 亦或是現實的醫療？」、「GAME END」、「醫生戰鬥的終結」。
 
@@ -12,8 +12,8 @@ Goes・Indaver的逆襲](https://zh.wikipedia.org/wiki/宇宙戰隊九連者_THE
   - 本作將與Playstation VR進行連動。
   - 本作劇場版為《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的真結局\[1\]。
   - 本作的部份主要角色會因劇情而擁有不同身份。
-  - 下一部系列作《[假面騎士Build](https://zh.wikipedia.org/wiki/假面騎士Build "wikilink")》的主角騎士
-    - 假面騎士Build與其兔子坦克及猩猩鑽石形態於本作先行登場。
+  - 下一部系列作《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》的主角騎士 -
+    假面騎士Build與其兔子坦克及猩猩鑽石形態於本作先行登場。
   - 預告中顯示劇中檀黎斗駕駛的車\[2\]其車牌號為『**し**9610』，正巧是檀黎斗於本篇中其中之一的自稱「檀黎斗神」的諧音。
   - 本作中反派角色南雲影成 /
     假面騎士風魔由知名歌手兼演員同時也是知名雙人組合[化學超男子成員的](../Page/化學超男子.md "wikilink")[堂珍嘉邦飾演](https://zh.wikipedia.org/wiki/堂珍嘉邦 "wikilink")。
@@ -352,7 +352,7 @@ Goes・Indaver的逆襲](https://zh.wikipedia.org/wiki/宇宙戰隊九連者_THE
 
 ## 聲音演出
 
-  - 假面騎士Build - [犬飼貴丈](https://zh.wikipedia.org/wiki/犬飼貴丈 "wikilink")
+  - 假面騎士Build - [犬飼貴丈](../Page/犬飼貴丈.md "wikilink")
 
 ## 製作人員
 

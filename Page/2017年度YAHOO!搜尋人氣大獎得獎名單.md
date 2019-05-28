@@ -43,7 +43,7 @@
   - 樂壇新勢力
       - [顏卓靈](../Page/顏卓靈.md "wikilink")
       - [王嘉儀](../Page/王嘉儀.md "wikilink")
-      - [余香凝](https://zh.wikipedia.org/wiki/余香凝 "wikilink")
+      - [余香凝](../Page/余香凝.md "wikilink")
   - 網上熱爆歌曲
       - 《忘記我自己》- [菊梓喬](../Page/菊梓喬.md "wikilink")
       - 《死亡之吻》- [關楚耀](../Page/關楚耀.md "wikilink")
@@ -93,7 +93,7 @@
   - 人氣電視女角色
       - [李佳芯](https://zh.wikipedia.org/wiki/李佳芯 "wikilink")
   - 人氣急星
-      - [張振朗](https://zh.wikipedia.org/wiki/張振朗 "wikilink")
+      - [張振朗](../Page/張振朗.md "wikilink")
       - [姚子羚](https://zh.wikipedia.org/wiki/姚子羚 "wikilink")
       - [朱千雪](../Page/朱千雪.md "wikilink")
   - 人氣廣告代言

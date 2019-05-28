@@ -15,8 +15,7 @@
 
 *On the Subject of Moving Forward* 發行於2004年10月19日，是包含5首歌的迷你專輯。\[1\]
 其中"Liar" 這首歌，重新錄製於*[The Healing of
-Harms](https://zh.wikipedia.org/wiki/The_Healing_of_Harms "wikilink")*
-該張專輯。
+Harms](../Page/The_Healing_of_Harms.md "wikilink")* 該張專輯。
 
 ### 錄音室專輯
 
@@ -46,7 +45,7 @@ Heat</a><br />
 [5]</p></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="https://zh.wikipedia.org/wiki/The_Healing_of_Harms" title="wikilink">The Healing of Harms</a></em></p></td>
+<td><p><em><a href="../Page/The_Healing_of_Harms.md" title="wikilink">The Healing of Harms</a></em></p></td>
 <td><ul>
 <li>發行日期: 2006年7月25日</li>
 <li></li>
@@ -66,7 +65,7 @@ Heat</a><br />
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="https://zh.wikipedia.org/wiki/For_Those_Who_Wait" title="wikilink">For Those Who Wait</a></em></p></td>
+<td><p><em><a href="../Page/For_Those_Who_Wait.md" title="wikilink">For Those Who Wait</a></em></p></td>
 <td><ul>
 <li>發行日期: 2010年2月9日</li>
 <li></li>

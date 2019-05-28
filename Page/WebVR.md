@@ -6,7 +6,7 @@ Cardboard](../Page/Google_Cardboard.md "wikilink")）\[1\]。
 
 ## 歷史
 
-WebVR於2014年春季由[Mozilla的](../Page/Mozilla.md "wikilink")[弗拉基米爾·弗基西維奇所提出](https://zh.wikipedia.org/wiki/弗拉基米爾·弗基西維奇 "wikilink")。其API的貢獻者包括布蘭登·瓊斯（Brandon
+WebVR於2014年春季由[Mozilla的](../Page/Mozilla.md "wikilink")[弗拉基米爾·弗基西維奇所提出](../Page/弗拉基米爾·弗基西維奇.md "wikilink")。其API的貢獻者包括布蘭登·瓊斯（Brandon
 Jones）、鮑里斯·斯莫斯（Boris Smus）和Mozilla團隊中的其他人\[2\]。2016年3月1日，Mozilla
 VR團隊和[Google
 Chrome小組宣布推出WebVR](../Page/Google_Chrome.md "wikilink")

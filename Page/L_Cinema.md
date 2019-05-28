@@ -1,5 +1,5 @@
 **L
-Cinema**是[香港戲院之一](../Page/香港.md "wikilink")，由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[樂天集團營運](https://zh.wikipedia.org/wiki/樂天_\(Lotte\) "wikilink")，位於[筲箕灣](../Page/筲箕灣.md "wikilink")[望隆街](https://zh.wikipedia.org/wiki/望隆街 "wikilink")[銀河廣場](https://zh.wikipedia.org/wiki/銀河廣場 "wikilink")2樓，於2016年2月8日開始營業，原址前身為筲箕灣戲院及新金明戲院。
+Cinema**是[香港戲院之一](../Page/香港.md "wikilink")，由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[樂天集團營運](../Page/樂天_\(Lotte\).md "wikilink")，位於[筲箕灣](../Page/筲箕灣.md "wikilink")[望隆街](https://zh.wikipedia.org/wiki/望隆街 "wikilink")[銀河廣場](https://zh.wikipedia.org/wiki/銀河廣場 "wikilink")2樓，於2016年2月8日開始營業，原址前身為筲箕灣戲院及新金明戲院。
 
 ## 簡介
 

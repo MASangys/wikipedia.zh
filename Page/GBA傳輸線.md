@@ -143,7 +143,7 @@ Advance游戏，Game Boy Advance游戏一栏会显示为不适用。
 <td><p>用来游玩可解锁的小游戏。</p></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/薩爾達傳說_四人之劍+" title="wikilink">薩爾達傳說_四人之劍+</a>》</p></td>
+<td><p>《<a href="../Page/薩爾達傳說_四人之劍+.md" title="wikilink">薩爾達傳說_四人之劍+</a>》</p></td>
 <td></td>
 <td><p>GBA可以代替GameCube用作单个玩家的游戏控制器。还可以与多达四名玩家一起选择多人合作玩法，但每位玩家需要单独的GBA和有线电视。</p></td>
 </tr>
@@ -248,7 +248,7 @@ Advance游戏，Game Boy Advance游戏一栏会显示为不适用。
 <td><p>解锁新的游戏内容并同步游戏进度。</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/雷曼3：强盗侵袭" title="wikilink">雷曼3：强盗侵袭</a>》</p></td>
+<td><p>《<a href="../Page/雷曼3：强盗侵袭.md" title="wikilink">雷曼3：强盗侵袭</a>》</p></td>
 <td></td>
 <td><p>允许在某些迷你游戏中使用多人游戏。如果使用GBA版本，将解锁额外的迷你游戏。</p></td>
 </tr>

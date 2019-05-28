@@ -9,7 +9,7 @@ Add-ons[網站](../Page/網站.md "wikilink")。
 
 附加组件存在多种类型：
 
-  - **扩展**：修改现有功能的行为或者添加新功能。该功能可以是用户界面中的某处，或者执行某个动作时表现出的功能特征。[主题则是一种着重关注用户界面的扩展](https://zh.wikipedia.org/wiki/theme_\(computing\) "wikilink")。[搜索引擎定义是一种功能性扩展](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")。不完全列表见[Firefox扩展列表条目](../Page/Firefox扩展列表.md "wikilink")，除此之外还有适用于Thunderbird、SeaMonkey和Sunbird的扩展。
+  - **扩展**：修改现有功能的行为或者添加新功能。该功能可以是用户界面中的某处，或者执行某个动作时表现出的功能特征。[主题则是一种着重关注用户界面的扩展](https://zh.wikipedia.org/wiki/theme_\(computing\) "wikilink")。[搜索引擎定义是一种功能性扩展](../Page/搜索引擎.md "wikilink")。不完全列表见[Firefox扩展列表条目](../Page/Firefox扩展列表.md "wikilink")，除此之外还有适用于Thunderbird、SeaMonkey和Sunbird的扩展。
 
 <!-- end list -->
 

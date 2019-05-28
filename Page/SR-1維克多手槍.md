@@ -1,4 +1,4 @@
-**SR-1「維克多」**（；）、**謝爾久科夫半自動手槍**（，簡稱：СПС；[俄语罗马化](../Page/俄语罗马化.md "wikilink")：，簡稱：SPS；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是一款由[俄罗斯聯邦槍械設計師](../Page/俄罗斯.md "wikilink")和伊戈爾·别利亞耶夫（Игорем
+**SR-1「維克多」**（；）、**謝爾久科夫半自動手槍**（，簡稱：СПС；[俄语罗马化](../Page/俄语罗马化.md "wikilink")：，簡稱：SPS；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）是一款由[俄罗斯聯邦槍械設計師](../Page/俄罗斯.md "wikilink")和伊戈爾·别利亞耶夫（Игорем
 Беляевым）領導的設計團隊因應俄羅斯軍隊“烏鴉”計劃而研製、槍械製造商所生產的[特種部隊專用](../Page/特種部隊.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，亦是最新型俄羅斯軍用制式手槍（）之一，其設計目的是在100[公尺](../Page/米_\(单位\).md "wikilink")（109.36[码](https://zh.wikipedia.org/wiki/码 "wikilink")，328.08[英尺](https://zh.wikipedia.org/wiki/英尺 "wikilink")）內的[近身距離作戰時](../Page/近身距離作戰.md "wikilink")，殺傷穿著個人[防彈衣的敵人](../Page/防彈背心.md "wikilink")。發射多種[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")（中央研究精密機械製造局現在命名為／）。\[1\]
 
 ## 歷史
@@ -15,7 +15,7 @@ II）能夠抵擋[托卡列夫手槍發射的](../Page/TT手槍.md "wikilink")[7
 1990年代初，研發出現了變動。因為俄羅斯軍隊啟動“烏鴉”計劃，採用新式手槍用以取代[馬卡洛夫手槍](../Page/馬卡洛夫手槍.md "wikilink")。除了要求有效射程超過50米，還有100米以內對30層“薄片”式[克維拉和厚達](../Page/克維拉.md "wikilink")2.8毫米[鈦](https://zh.wikipedia.org/wiki/鈦 "wikilink")[合金板有著幾乎](../Page/合金.md "wikilink")100％概率的貫穿力，子彈有著擊殺具有防彈衣或藏身於車輛上的敵人的威力。
 
 1991年，按照加大的戰術技術要求，由和伊戈爾·别利亞耶夫（Игорем
-Беляевым）這兩名經驗豐富的槍械設計師為首所領導的設計團隊實驗性創建的樣品，成為日後[俄罗斯国防部火箭炮兵装备总局給予代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")的手槍；而彈藥設計師A·B·尤里耶夫則設計其發射的[穿甲手枪子彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")，為淬火鋼彈芯的穿甲彈。
+Беляевым）這兩名經驗豐富的槍械設計師為首所領導的設計團隊實驗性創建的樣品，成為日後[俄罗斯国防部火箭炮兵装备总局給予代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")的手槍；而彈藥設計師A·B·尤里耶夫則設計其發射的[穿甲手枪子彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")，為淬火鋼彈芯的穿甲彈。
 
 1993年，[聯邦安全局制定了戰術指標](../Page/聯邦安全局.md "wikilink")，雖然減少了彈藥容量，但仍有著有足夠的。在設計時期，該手槍獲得了其代號——「維克多」。
 
@@ -28,7 +28,7 @@ IIIA的防彈衣、厚度5毫米的鋼板或厚度2.4毫米的鈦板。
 
 自1999年以來，一批SR-1手槍成為了俄羅斯檢察官的。\[2\]
 
-2003年，俄羅斯聯邦政府法令第166號在2003年3月21日公佈，內容是SR-1被[俄羅斯軍隊的](../Page/俄罗斯联邦武装力量.md "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")（[斯佩茨納茲](../Page/俄罗斯特种部队.md "wikilink")）所採用並且命名為SPS（謝爾久科夫半自動手槍），而配用的“SP”手枪子彈的[俄罗斯国防部火箭炮兵装备总局代號分別是](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：
+2003年，俄羅斯聯邦政府法令第166號在2003年3月21日公佈，內容是SR-1被[俄羅斯軍隊的](../Page/俄罗斯联邦武装力量.md "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")（[斯佩茨納茲](../Page/俄罗斯特种部队.md "wikilink")）所採用並且命名為SPS（謝爾久科夫半自動手槍），而配用的“SP”手枪子彈的[俄罗斯国防部火箭炮兵装备总局代號分別是](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：
 
   - 7N28（SP-11），標準全金屬被覆彈，[彈頭重量為](https://zh.wikipedia.org/wiki/彈丸 "wikilink")7.5克（鉛芯，兩層金屬外殼被覆），在[城市環境作戰中使用](../Page/城鎮戰.md "wikilink")；
   - 7N29（SP-10），[穿甲彈](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")，彈頭重量為6.7克（具有淬火鋼彈芯，只有彈頭部分從金屬外殼伸出，具有[可脫式](https://zh.wikipedia.org/wiki/脫殼穿甲彈 "wikilink")[聚乙烯彈托和雙金屬外殼](../Page/聚乙烯.md "wikilink")）；
@@ -38,9 +38,9 @@ IIIA的防彈衣、厚度5毫米的鋼板或厚度2.4毫米的鈦板。
 
 ## 設計
 
-SR-1手槍採用[槍管短行程後座與閉鎖卡鐵擺動式自動原理](../Page/後座作用.md "wikilink")。槍管是由位於槍管下方的垂直擺動式閉鎖卡鐵進行閉鎖。德國[瓦爾特P38手槍及意大利](../Page/瓦爾特P38手槍.md "wikilink")[貝瑞塔92手槍亦採用了很相似的設計](../Page/貝瑞塔92手槍.md "wikilink")。當槍管後方的卡鐵移動時，與[底把](https://zh.wikipedia.org/wiki/机匣 "wikilink")（套筒架座）上卡鐵的相互作用，超越了凹式卡鐵以內的鎖耳，槍管從導槽和在底把上的停止鎖耳脫開，套筒保持向後移動和壓縮復進簧。復進簧將槍管兼作導桿並且環繞在槍管以外。這種彈簧佈置與槍管下獨立式復進簧和其導桿相比，可降低機匣在高度上的尺寸，而且具有可更換式槍管的手槍可於第一時間使用。具有扳機保險式機構的扳機，裝有彎曲式主彈簧，設置在扳機的空穴以內。該槍的第一發可選擇預先拉下擊錘的單動操作模式或雙動操作模式。
+SR-1手槍採用[槍管短行程後座與閉鎖卡鐵擺動式自動原理](../Page/後座作用.md "wikilink")。槍管是由位於槍管下方的垂直擺動式閉鎖卡鐵進行閉鎖。德國[瓦爾特P38手槍及意大利](../Page/瓦爾特P38手槍.md "wikilink")[貝瑞塔92手槍亦採用了很相似的設計](../Page/貝瑞塔92手槍.md "wikilink")。當槍管後方的卡鐵移動時，與[底把](../Page/机匣.md "wikilink")（套筒架座）上卡鐵的相互作用，超越了凹式卡鐵以內的鎖耳，槍管從導槽和在底把上的停止鎖耳脫開，套筒保持向後移動和壓縮復進簧。復進簧將槍管兼作導桿並且環繞在槍管以外。這種彈簧佈置與槍管下獨立式復進簧和其導桿相比，可降低機匣在高度上的尺寸，而且具有可更換式槍管的手槍可於第一時間使用。具有扳機保險式機構的扳機，裝有彎曲式主彈簧，設置在扳機的空穴以內。該槍的第一發可選擇預先拉下擊錘的單動操作模式或雙動操作模式。
 
-[底把的上半部](https://zh.wikipedia.org/wiki/机匣 "wikilink")（套筒架座）與握把的骨架為鋼製成型部件，而握把表面和[扳機護圈為高強度](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[玻璃纖維強化的](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[聚酰胺](../Page/聚酰胺.md "wikilink")（[高分子](../Page/高分子.md "wikilink")[聚合物](../Page/聚合物.md "wikilink")），而套筒由鋼製成。SR-1手槍沒有手動保險裝置，而是設有兩個自動保險以安全地使用：一個是類似於[M1911手槍或](../Page/M1911手槍.md "wikilink")[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")、位於握板背後的半圓形握把保險，必需在手掌握持時保持對按鈕的按壓以解脫阻鐵；另一個是類似於格洛克手槍的扳機保險，食指按壓位於扳機以上的按鈕才可發射。\[4\]據說還有第三個自動保險是撞針保險。
+[底把的上半部](../Page/机匣.md "wikilink")（套筒架座）與握把的骨架為鋼製成型部件，而握把表面和[扳機護圈為高強度](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")[玻璃纖維強化的](https://zh.wikipedia.org/wiki/玻璃钢 "wikilink")[聚酰胺](../Page/聚酰胺.md "wikilink")（[高分子](../Page/高分子.md "wikilink")[聚合物](../Page/聚合物.md "wikilink")），而套筒由鋼製成。SR-1手槍沒有手動保險裝置，而是設有兩個自動保險以安全地使用：一個是類似於[M1911手槍或](../Page/M1911手槍.md "wikilink")[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")、位於握板背後的半圓形握把保險，必需在手掌握持時保持對按鈕的按壓以解脫阻鐵；另一個是類似於格洛克手槍的扳機保險，食指按壓位於扳機以上的按鈕才可發射。\[4\]據說還有第三個自動保險是撞針保險。
 
 發射以後的彈殼藉由槍機從[膛室抽出](../Page/膛室.md "wikilink")，並在[套筒向後運動時從右側的拋殼口拋出槍外](https://zh.wikipedia.org/wiki/套筒 "wikilink")。然後套筒向前復進時，將[彈匣最頂部的子彈取出以後](../Page/彈匣.md "wikilink")，裝入膛室並且閉鎖。當彈匣彈盡時需要按壓扳機護圈根部的彈匣釋放按鈕以退出彈匣。
 
@@ -60,7 +60,7 @@ SR-1手槍沒有空槍掛機功能，也因而無空槍掛機桿。據說這設�
   - **“鈍頭蝮蛇”**手槍（RG060）——SR1手槍的出口型。
   - **SPS**手槍——自2000年以來為[國防部和](../Page/俄罗斯联邦国防部.md "wikilink")[對外情報局的特種部隊而生產](../Page/對外情報局.md "wikilink")。它的特點的手槍握把的形態改進。緊扣[彈匣的釋放按鈕為圓形](../Page/彈匣.md "wikilink")。[照門的形態亦有所改進](https://zh.wikipedia.org/wiki/照門 "wikilink")。目前沒有生產。
   - **SR-1M**手槍——自2003年起為聯邦安全局和联邦警卫局的改進型版本。使用不同類型的彈藥，包括[達姆彈](../Page/達姆彈.md "wikilink")。具有按鈕得到放大為長形的握把保險。緊扣彈匣的釋放按鈕與SPS同為圓形。[套筒以上的鋸齒狀防滑紋亦有所改進](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。更換彈匣以後會自動解脫套筒鎖。另外機械瞄具的背面塗上了方形白點，以便於快速瞄準。\[5\]
-  - **SR-1MP**手槍——最新改進型，其特徵在於[底把的](https://zh.wikipedia.org/wiki/机匣 "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")兩側刻有細長凹槽，並在底部設有螺絲孔用作安裝專用的四向式[MIL-STD-1913式配件安裝導軌支架的接口](../Page/皮卡汀尼導軌.md "wikilink")，藉以安裝各種各種戰術附件：[紅點鏡](../Page/紅點鏡.md "wikilink")（或）、[雷射瞄準器或](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")。如配備外露螺紋式槍管，還可於槍口裝上[消聲器](../Page/抑制器.md "wikilink")。最後，該槍以上已經增加自動保險手柄。\[6\]
+  - **SR-1MP**手槍——最新改進型，其特徵在於[底把的](../Page/机匣.md "wikilink")[扳機護圈前方的](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")兩側刻有細長凹槽，並在底部設有螺絲孔用作安裝專用的四向式[MIL-STD-1913式配件安裝導軌支架的接口](../Page/皮卡汀尼導軌.md "wikilink")，藉以安裝各種各種戰術附件：[紅點鏡](../Page/紅點鏡.md "wikilink")（或）、[雷射瞄準器或](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")。如配備外露螺紋式槍管，還可於槍口裝上[消聲器](../Page/抑制器.md "wikilink")。最後，該槍以上已經增加自動保險手柄。\[6\]
 
 ## 彈藥
 
@@ -123,8 +123,7 @@ Engineering technologies international forum - 2012
   - [MP-446“維京人”](../Page/MP-446維京人手槍.md "wikilink")
   - [MP-448“斯基泰”](../Page/MP-448斯基泰手槍.md "wikilink")
   - [GSh-18](../Page/GSh-18手槍.md "wikilink")
-  - [阿森納Strike
-    One](https://zh.wikipedia.org/wiki/阿森納槍械Strike_One手槍 "wikilink")
+  - [阿森納Strike One](../Page/阿森納槍械Strike_One手槍.md "wikilink")
   - [Udav「大蟒蛇」](https://zh.wikipedia.org/wiki/Udav大蟒蛇手槍 "wikilink")
   - [SR-2“希瑟”](../Page/SR-2希瑟衝鋒槍.md "wikilink")
   - [SR-3“旋风”](../Page/SR-3旋风突击步枪.md "wikilink")

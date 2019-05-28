@@ -1,4 +1,4 @@
-**[GOT7](../Page/GOT7.md "wikilink")**是韓國[JYP娛樂旗下男子組合](../Page/JYP娛樂.md "wikilink")，於2014年正式出道。GOT7迄今共發行3張正規專輯、7張迷你專輯及4張單曲，唱片企劃公司均為JYP娛樂，發行商分別為[Genie音樂及](https://zh.wikipedia.org/wiki/Genie音樂 "wikilink")[史詩唱片日本](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")。
+**[GOT7](../Page/GOT7.md "wikilink")**是韓國[JYP娛樂旗下男子組合](../Page/JYP娛樂.md "wikilink")，於2014年正式出道。GOT7迄今共發行3張正規專輯、7張迷你專輯及4張單曲，唱片企劃公司均為JYP娛樂，發行商分別為[Genie音樂及](../Page/Genie音樂.md "wikilink")[史詩唱片日本](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")。
 
 2016年至2017年間推出「飛行日誌（FLIGHT LOG）」系列三部曲，2016上半年，首部曲《[FLIGHT LOG :
 DEPARTURE](https://zh.wikipedia.org/wiki/FLIGHT_LOG_:_DEPARTURE "wikilink")》正式發行，主打歌為《Fly》、《Home
@@ -250,7 +250,7 @@ ARRIVAL》則為銷量最高之專輯。日語專輯中，在[Oricon紀錄上](.
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Flight_Log:_Arrival" title="wikilink">Flight Log: Arrival</a></p></td>
+<td><p><a href="../Page/Flight_Log:_Arrival.md" title="wikilink">Flight Log: Arrival</a></p></td>
 <td><ul>
 <li>發行日期：2017年3月13日</li>
 <li>唱片公司：JYP娛樂</li>
@@ -260,11 +260,11 @@ ARRIVAL》則為銷量最高之專輯。日語專輯中，在[Oricon紀錄上](.
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/7_for_7_(GOT7迷你專輯)" title="wikilink">7 for 7</a></p></td>
+<td><p><a href="../Page/7_for_7_(GOT7迷你專輯).md" title="wikilink">7 for 7</a></p></td>
 <td><ul>
 <li>發行日：2017年10月10日</li>
 <li>唱片公司：JYP娛樂</li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie音樂</a></li>
+<li>發行公司：<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a></li>
 </ul></td>
 <td><p>1</p></td>
 <td><p>3</p></td>
@@ -281,7 +281,7 @@ ARRIVAL》則為銷量最高之專輯。日語專輯中，在[Oricon紀錄上](.
 <td><p>8</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Eyes_On_You" title="wikilink">Eyes On You</a></p></td>
+<td><p><a href="../Page/Eyes_On_You.md" title="wikilink">Eyes On You</a></p></td>
 <td><ul>
 <li>發行日期：2018年3月12日</li>
 <li>唱片公司：JYP娛樂</li>
@@ -466,7 +466,7 @@ ARRIVAL》則為銷量最高之專輯。日語專輯中，在[Oricon紀錄上](.
 <td><ul>
 <li>韓國：60,602[2]</li>
 </ul></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/7_for_7_(GOT7迷你專輯)" title="wikilink">7 for 7</a></p></td>
+<td><p><a href="../Page/7_for_7_(GOT7迷你專輯).md" title="wikilink">7 for 7</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1079,7 +1079,7 @@ ARRIVAL》則為銷量最高之專輯。日語專輯中，在[Oricon紀錄上](.
 <td><p>9</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Turn_Up_(GOT7迷你專輯)" title="wikilink">Turn Up</a></p></td>
+<td><p><a href="../Page/Turn_Up_(GOT7迷你專輯).md" title="wikilink">Turn Up</a></p></td>
 <td><ul>
 <li>發行日期：2017年11月15日</li>
 <li>唱片公司：JYP娛樂</li>
@@ -1179,7 +1179,7 @@ ARRIVAL》則為銷量最高之專輯。日語專輯中，在[Oricon紀錄上](.
 <td><p>－</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/My_Swagger" title="wikilink">MY SWAGGER</a></p></td>
+<td><p><a href="../Page/My_Swagger.md" title="wikilink">MY SWAGGER</a></p></td>
 <td><p>2017年</p></td>
 <td><p>1</p></td>
 <td><p>3</p></td>

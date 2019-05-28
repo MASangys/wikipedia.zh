@@ -4,7 +4,7 @@ Venus的成員](../Page/Hello_Venus.md "wikilink")，隊內擔任第二任隊長
 ## 演藝生涯
 
 2010年，以藝名 Ora (오라) 發行個人首張數位單曲《Naughty Face》。2012月5月在[Hello
-Venus正式出道](../Page/Hello_Venus.md "wikilink")，擔任隊長及主唱。2014年2月，客串出演[MBC電視劇](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[心懷叵測的恢單女](https://zh.wikipedia.org/wiki/心懷叵測的恢單女 "wikilink")》，8月出演MBC《[更夫日誌](../Page/更夫日誌.md "wikilink")》\[1\]，10月主演[Nate的網路劇](https://zh.wikipedia.org/wiki/Nate "wikilink")《放學後福不福2》。
+Venus正式出道](../Page/Hello_Venus.md "wikilink")，擔任隊長及主唱。2014年2月，客串出演[MBC電視劇](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[心懷叵測的恢單女](../Page/心懷叵測的恢單女.md "wikilink")》，8月出演MBC《[更夫日誌](../Page/更夫日誌.md "wikilink")》\[1\]，10月主演[Nate的網路劇](https://zh.wikipedia.org/wiki/Nate "wikilink")《放學後福不福2》。
 
 ## 個人作品
 
@@ -18,8 +18,7 @@ Venus正式出道](../Page/Hello_Venus.md "wikilink")，擔任隊長及主唱。
 ### 電視劇
 
   - 2012年：[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[歡樂在一起](../Page/歡樂在一起.md "wikilink")》（客串）
-  - 2014年：MBC《[心懷叵測的恢單女](https://zh.wikipedia.org/wiki/心懷叵測的恢單女 "wikilink")》飾演
-    皮頌喜的朋友（客串）
+  - 2014年：MBC《[心懷叵測的恢單女](../Page/心懷叵測的恢單女.md "wikilink")》飾演 皮頌喜的朋友（客串）
   - 2014年：MBC《[更夫日誌](../Page/更夫日誌.md "wikilink")》 飾演 梅香
   - 2014年：Nate網路劇《放學後福不福2》 飾演 女主角
   - 2015年：[NAVER網路劇](../Page/NAVER.md "wikilink")《[To Be

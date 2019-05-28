@@ -5,7 +5,7 @@ cells，亦作α-cells），是[胰島中的一種](https://zh.wikipedia.org/wik
 
 ## 參見
 
-  - [胰島B細胞](https://zh.wikipedia.org/wiki/胰島B細胞 "wikilink")
+  - [胰島B細胞](../Page/胰島B細胞.md "wikilink")
 
   - [D細胞](../Page/D細胞.md "wikilink")
 

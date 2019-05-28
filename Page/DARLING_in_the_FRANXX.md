@@ -319,13 +319,13 @@ Expo公布作品消息](../Page/Anime_Expo.md "wikilink")\[2\]，於2018年1月1
   - 音樂：橘麻美
   - 音響監督：秦昌二
   - 編集：三嶋章紀
-  - 動畫製作：[TRIGGER](../Page/TRIGGER.md "wikilink")、[CloverWorks](https://zh.wikipedia.org/wiki/CloverWorks "wikilink")（A-1
+  - 動畫製作：[TRIGGER](../Page/TRIGGER.md "wikilink")、[CloverWorks](../Page/CloverWorks.md "wikilink")（A-1
     Pictures高圓寺工作室）
 
 ### 主題曲
 
   - 片頭曲《[KISS OF DEATH (Produced by
-    HYDE)](https://zh.wikipedia.org/wiki/KISS_OF_DEATH_\(Produced_by_HYDE\) "wikilink")》（第2話－第5話、第7話－第12話、第14話－第20話、第22話－第23話）
+    HYDE)](../Page/KISS_OF_DEATH_\(Produced_by_HYDE\).md "wikilink")》（第2話－第5話、第7話－第12話、第14話－第20話、第22話－第23話）
     作詞、作曲：[HYDE](https://zh.wikipedia.org/wiki/HYDE "wikilink")，編曲：HYDE、，主唱：[中島美嘉](../Page/中島美嘉.md "wikilink")
     第15話做為片尾曲使用。
     第15話前使用歌詞第一段，第16話起使用歌詞第二段。
@@ -333,7 +333,7 @@ Expo公布作品消息](../Page/Anime_Expo.md "wikilink")\[2\]，於2018年1月1
 <!-- end list -->
 
   - 片尾曲
-    未特別註明者，作詞、作曲、編曲為[杉山勝彦](https://zh.wikipedia.org/wiki/杉山勝彦 "wikilink")，主唱為XX:me［02（[戶松遙](../Page/戶松遙.md "wikilink")）、莓（[市之瀨加那](https://zh.wikipedia.org/wiki/市之瀨加那 "wikilink")）、未來（[山下七海](https://zh.wikipedia.org/wiki/山下七海 "wikilink")）、心（[早見沙織](../Page/早見沙織.md "wikilink")）、生野（[石上靜香](../Page/石上靜香.md "wikilink")）］
+    未特別註明者，作詞、作曲、編曲為[杉山勝彦](https://zh.wikipedia.org/wiki/杉山勝彦 "wikilink")，主唱為XX:me［02（[戶松遙](../Page/戶松遙.md "wikilink")）、莓（[市之瀨加那](../Page/市之瀨加那.md "wikilink")）、未來（[山下七海](../Page/山下七海.md "wikilink")）、心（[早見沙織](../Page/早見沙織.md "wikilink")）、生野（[石上靜香](../Page/石上靜香.md "wikilink")）］
       - 《》（第1話－第6話）
         《》（第7話）
         《Beautiful World》（第8話－第12話、第14話）
@@ -394,7 +394,7 @@ Expo公布作品消息](../Page/Anime_Expo.md "wikilink")\[2\]，於2018年1月1
 <td><p>第3話</p></td>
 <td></td>
 <td><p>戰鬥人偶</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大塚雅彦" title="wikilink">大塚雅彦</a></p></td>
+<td><p><a href="../Page/大塚雅彦.md" title="wikilink">大塚雅彦</a></p></td>
 <td><p>赤井俊文</p></td>
 <td><p>河野惠美</p></td>
 <td><p>rowspan="6" </p></td>

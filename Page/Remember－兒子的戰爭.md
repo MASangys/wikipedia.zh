@@ -123,18 +123,18 @@
 | **演員**                                                  | **角色** | **介紹**                                 | **粵語配音**                                            | **國語配音** |
 | [孟床訓](../Page/孟床訓.md "wikilink")                        |        | 吳貞雅的父親，後被殺害並偽裝成自殺。                     | [張炳強](../Page/張炳強.md "wikilink")                    |          |
 | [金英雄](../Page/金英雄.md "wikilink")                        | 郭韓秀    | 逮捕振宇父親的刑警，與洪武錫、南日浩勾結。                  | [李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")            |          |
-| [申譞洙](https://zh.wikipedia.org/wiki/申譞洙 "wikilink")     | 裴鐵柱    | 富二代，南圭萬的朋友。                            | [鍾見麟](../Page/鍾見麟.md "wikilink")                    |          |
+| [申譞洙](../Page/申譞洙.md "wikilink")                        | 裴鐵柱    | 富二代，南圭萬的朋友。                            | [鍾見麟](../Page/鍾見麟.md "wikilink")                    |          |
 | [趙善穆](https://zh.wikipedia.org/wiki/趙善穆 "wikilink")     | 教授     |                                        | [馮志輝](../Page/馮志輝.md "wikilink")                    |          |
 | [鄭元仲](https://zh.wikipedia.org/wiki/鄭元仲 "wikilink")     | 法官     |                                        | [馮志輝](../Page/馮志輝.md "wikilink")                    |          |
 | [李承亨](../Page/李承亨.md "wikilink")                        | 李政勳    | 徐載赫的精神科醫生，與南日浩勾結在法庭上做偽證。               | [蕭徽勇](../Page/蕭徽勇.md "wikilink")                    |          |
 | [李率求](https://zh.wikipedia.org/wiki/李率求 "wikilink")     |        | 地下賭場老大                                 | [葉振聲](../Page/葉振聲.md "wikilink")                    |          |
 | [李東振](https://zh.wikipedia.org/wiki/李東振 "wikilink")     |        | 聚餐勸酒者                                  |                                                     |          |
 | [鄭東奎](https://zh.wikipedia.org/wiki/鄭東奎 "wikilink")     |        | 裴鐵柱的父親                                 |                                                     |          |
-| [李詩雅](https://zh.wikipedia.org/wiki/李詩雅 "wikilink")     | 金漢娜    | 日浩生命實習生，為籌措母親手術費誣告姜萬秀性侵。（客串第5．6集）      | [陳琴雲](../Page/陳琴雲.md "wikilink")                    |          |
+| [李詩雅](../Page/李詩雅.md "wikilink")                        | 金漢娜    | 日浩生命實習生，為籌措母親手術費誣告姜萬秀性侵。（客串第5．6集）      | [陳琴雲](../Page/陳琴雲.md "wikilink")                    |          |
 | [南明烈](../Page/南明烈.md "wikilink")                        | 姜萬秀    | 日浩生命副社長，第五集被南日浩等人陷害捲入女學生性侵案，第六集被判無罪釋放。 | [朱子聰](../Page/朱子聰.md "wikilink")                    |          |
 | [尹敬浩](../Page/尹敬浩.md "wikilink")                        | 金浩哲    | 蠍子刺青殺手                                 | [蕭徽勇](../Page/蕭徽勇.md "wikilink")                    |          |
 | [徐鎮旭](https://zh.wikipedia.org/wiki/徐鎮旭 "wikilink")     | 朴東鎮    | 教導所醫務科長                                | [張炳強](../Page/張炳強.md "wikilink")                    |          |
-| [吳娜拉](https://zh.wikipedia.org/wiki/吳娜拉 "wikilink")     | 蔡真景    | 檢察官                                    | [梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink") |          |
+| [吳娜拉](../Page/吳娜拉.md "wikilink")                        | 蔡真景    | 檢察官                                    | [梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink") |          |
 | [金正錫](https://zh.wikipedia.org/wiki/金正錫 "wikilink")     | 裴刑警    |                                        | [黃子敬](../Page/黃子敬.md "wikilink")                    |          |
 | [李昌](https://zh.wikipedia.org/wiki/李昌\(演員\) "wikilink") | 咸智錫    |                                        |                                                     |          |
 | [奇世亨](https://zh.wikipedia.org/wiki/奇世亨 "wikilink")     | 琴室長    |                                        |                                                     |          |
@@ -143,7 +143,7 @@
 | [金炳春](../Page/金炳春.md "wikilink")                        | 梁玄秀    | 永遠電器社長                                 | [盧國權](../Page/盧國權.md "wikilink")                    |          |
 | [金慶龍](https://zh.wikipedia.org/wiki/金慶龍 "wikilink")     | 申炳浩    | 微笑燈泡廠長                                 | [陳廷軒](../Page/陳廷軒.md "wikilink")                    |          |
 | [金益泰](https://zh.wikipedia.org/wiki/金益泰 "wikilink")     | 夏社長    |                                        | [張炳強](../Page/張炳強.md "wikilink")                    |          |
-| [鄭侑敏](https://zh.wikipedia.org/wiki/鄭侑敏 "wikilink")     | 宋河英    | 被南圭萬性侵的藝人                              | [羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink") |          |
+| [鄭侑敏](../Page/鄭侑敏.md "wikilink")                        | 宋河英    | 被南圭萬性侵的藝人                              | [羅孔柔](../Page/羅孔柔.md "wikilink")                    |          |
 | [韓宥伊](../Page/韓宥伊.md "wikilink")                        | 朴敏熙    | 宋河英的朋友，性侵案被害人                          |                                                     |          |
 | [成昌勳](https://zh.wikipedia.org/wiki/成昌勳 "wikilink")     | 高光日    | 檢察官                                    |                                                     |          |
 
@@ -174,8 +174,8 @@
 ### 其他搭配歌曲
 
   - 台灣[東森電視版本](../Page/東森電視.md "wikilink")
-      - 片頭曲：[有感覺](https://zh.wikipedia.org/wiki/有感覺 "wikilink")《遍體鱗傷》
-      - 片尾曲：[有感覺](https://zh.wikipedia.org/wiki/有感覺 "wikilink")《錯了嗎》
+      - 片頭曲：[有感覺](../Page/有感覺.md "wikilink")《遍體鱗傷》
+      - 片尾曲：[有感覺](../Page/有感覺.md "wikilink")《錯了嗎》
 
 ## 收視率
 

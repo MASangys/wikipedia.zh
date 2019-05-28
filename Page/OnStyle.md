@@ -43,14 +43,14 @@ E\&M所擁有。OnStyle所製作的節目多以時尚、服裝、化妝為主調
 <!-- end list -->
 
   - 《[宋智孝的Beautiful
-    Life](https://zh.wikipedia.org/wiki/宋智孝的Beautiful_Life "wikilink")》（2018年4月10日-2018年6月28日）
-      - 由[宋智孝](../Page/宋智孝.md "wikilink")、[具在伊](../Page/具在伊.md "wikilink")、[權赫秀](https://zh.wikipedia.org/wiki/權赫秀 "wikilink")、妍雨（[MOMOLAND](../Page/MOMOLAND.md "wikilink")）等人共同主持，將親自到戶外或是造訪賣場執行各種任務，為觀眾帶來更多共鳴與樂趣。
+    Life](../Page/宋智孝的Beautiful_Life.md "wikilink")》（2018年4月10日-2018年6月28日）
+      - 由[宋智孝](../Page/宋智孝.md "wikilink")、[具在伊](../Page/具在伊.md "wikilink")、[權赫秀](../Page/權赫秀.md "wikilink")、妍雨（[MOMOLAND](../Page/MOMOLAND.md "wikilink")）等人共同主持，將親自到戶外或是造訪賣場執行各種任務，為觀眾帶來更多共鳴與樂趣。
 
 ## 劇集
 
   - 《[我們分手了](../Page/我們分手了_\(韓國網路劇\).md "wikilink")》（網絡播放：2015年6月29日－2015年7月17日；電視播放：2015年7月3日）
   - 《[因為是第一次](../Page/因為是第一次.md "wikilink")》（2015年10月7日－2015年11月25日）
-  - 《[美妝學概論](https://zh.wikipedia.org/wiki/美妝學概論 "wikilink")》（2016年4月8日－2016年5月20日）
+  - 《[美妝學概論](../Page/美妝學概論.md "wikilink")》（2016年4月8日－2016年5月20日）
   - 《[Ruby Ruby
     Love](../Page/Ruby_Ruby_love.md "wikilink")》（網絡播放：2017年1月18日－2017年1月26日；電視播放：2017年1月27日）
   - 《Love is...》（2017年3月14－18日）

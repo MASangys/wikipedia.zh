@@ -54,7 +54,7 @@ Port旗下的新動畫製作公司](../Page/Production_I.G.md "wikilink")「Sign
   - 原作：藤本瞳、住瀧良
   - 人物原案：駒形
   - 監督：市川量也
-  - 系列構成：[山田由香](https://zh.wikipedia.org/wiki/山田由香 "wikilink")
+  - 系列構成：[山田由香](../Page/山田由香.md "wikilink")
   - 劇本：山田由香、[筆安一幸](../Page/筆安一幸.md "wikilink")、市川量也
   - 人物設定、總作畫監督：松浦有紗
   - 美術監督：高田真理

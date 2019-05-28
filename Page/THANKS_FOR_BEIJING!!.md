@@ -16,8 +16,7 @@ BEIJING\!\!**》是2011年12月7日在[日本发行的](../Page/日本.md "wikil
 
 <!-- end list -->
 
-  - 和通常一样，[SMAP
-    SHOP推出了限量版封面的](https://zh.wikipedia.org/wiki/SMAP_SHOP "wikilink")《THANKS
+  - 和通常一样，[SMAP SHOP推出了限量版封面的](../Page/SMAP_SHOP.md "wikilink")《THANKS
     FOR BEIJING\!\!》。和通常盘采用红色背景下的鞋部特写不同，SMAP
     SHOP的限量版封面是蓝色背景下的鞋部特写，并且标题改为《RUNNING
     SMAP\!》。

@@ -9,8 +9,8 @@ Music Associated Records發行](../Page/日本索尼音樂娛樂.md "wikilink")�
 ME
 UP\!》，此外「初回生產限定盤」附有《白雪公主》、《初戀》的[音樂錄影帶DVD和相片本](../Page/音樂錄影帶.md "wikilink")。「期間生產限定盤」至2014年2月底限定發行，僅收錄《白雪公主》一首歌曲。
 
-〈白雪公主〉是以童話故事《[白雪公主](../Page/白雪公主.md "wikilink")》作為創作靈感的愛情歌曲\[1\]，也作為[NOTTV電視劇](https://zh.wikipedia.org/wiki/NOTTV "wikilink")《》的主題曲，Flower的歌曲首次作為電視連續劇主題曲。〈初戀〉是Flower與同門組合[Happiness於](../Page/Happiness_\(組合\).md "wikilink")「武者修行」對決中勝出的獎品，並收錄於[E-girls單曲](https://zh.wikipedia.org/wiki/E-girls "wikilink")《[滿懷歉意的Kissing
-You](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")》內的同名歌曲[原音樂版本](https://zh.wikipedia.org/wiki/原音樂 "wikilink")，也是「Samantha×Kawaii×Art」電視廣告曲。〈COLOR
+〈白雪公主〉是以童話故事《[白雪公主](../Page/白雪公主.md "wikilink")》作為創作靈感的愛情歌曲\[1\]，也作為[NOTTV電視劇](../Page/NOTTV.md "wikilink")《》的主題曲，Flower的歌曲首次作為電視連續劇主題曲。〈初戀〉是Flower與同門組合[Happiness於](../Page/Happiness_\(組合\).md "wikilink")「武者修行」對決中勝出的獎品，並收錄於[E-girls單曲](https://zh.wikipedia.org/wiki/E-girls "wikilink")《[滿懷歉意的Kissing
+You](../Page/滿懷歉意的Kissing_You.md "wikilink")》內的同名歌曲[原音樂版本](https://zh.wikipedia.org/wiki/原音樂 "wikilink")，也是「Samantha×Kawaii×Art」電視廣告曲。〈COLOR
 ME UP\!〉則作為「Oh\! Bargain」電視廣告曲。
 
 Flower初次單獨登上《[Music
@@ -33,7 +33,7 @@ Hot
 1.  **白雪公主**　\[4:32\]
       -
         作詞：；作曲：
-        [NOTTV電視劇](https://zh.wikipedia.org/wiki/NOTTV "wikilink")《》的主題曲
+        [NOTTV電視劇](../Page/NOTTV.md "wikilink")《》的主題曲
 2.  **初戀 acoustic version**　\[3:42\]
       -
         作詞：Narumi Yamamoto；作曲：Chris Meyer、Takumi Tsukada、Grace

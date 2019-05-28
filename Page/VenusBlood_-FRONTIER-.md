@@ -70,7 +70,7 @@
 
 ## 相關條目
 
-  - [VenusBlood](https://zh.wikipedia.org/wiki/VenusBlood "wikilink")：VenusBlood系列的第一部作品。
+  - [VenusBlood](../Page/VenusBlood.md "wikilink")：VenusBlood系列的第一部作品。
   - [VenusBlood
     -DESIRE-](../Page/VenusBlood_-DESIRE-.md "wikilink")：VenusBlood系列的第三部作品。
 

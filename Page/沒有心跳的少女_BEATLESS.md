@@ -228,7 +228,7 @@ BEATLESS，那是沒有心跳之物。從來沒人描寫過的，人類的絕望
   - 美術監督：峯田佳實
   - 色彩設計：林由稀
   - 攝影監督：伊藤康行
-  - 編輯：[小島俊彥](https://zh.wikipedia.org/wiki/小島俊彥 "wikilink")
+  - 編輯：[小島俊彥](../Page/小島俊彥.md "wikilink")
   - 音響監督：
   - 音響製作：[樂音舍](https://zh.wikipedia.org/wiki/樂音舍 "wikilink")
   - 音樂：、[kz](https://zh.wikipedia.org/wiki/livetune "wikilink")
@@ -243,7 +243,7 @@ BEATLESS，那是沒有心跳之物。從來沒人描寫過的，人類的絕望
   -
     **「Error」**（第2 - 13話）
       -
-        作詞：[MARiA](../Page/水橋舞.md "wikilink")，作曲：[toku](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")，編曲、主唱：[GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")
+        作詞：[MARiA](../Page/水橋舞.md "wikilink")，作曲：[toku](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")，編曲、主唱：[GARNiDELiA](../Page/GARNiDELiA.md "wikilink")
         第1話未使用
     **「Truth.」**（第14話 - 23話）
       -

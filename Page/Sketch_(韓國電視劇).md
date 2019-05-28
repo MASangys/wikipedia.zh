@@ -174,7 +174,7 @@
 <td></td>
 <td><p>趙熙哲</p></td>
 <td><p>欲搭漁船偷渡的黑幫老大。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馮瀚輝" title="wikilink">馮瀚輝</a></p></td>
+<td><p><a href="../Page/馮瀚輝.md" title="wikilink">馮瀚輝</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/朴斗植.md" title="wikilink">朴斗植</a></p></td>
@@ -306,7 +306,7 @@
 <td><p><a href="../Page/明桂南.md" title="wikilink">明桂南</a></p></td>
 <td><p>崔太旭</p></td>
 <td><p>崔室長。趙敏淑的手下。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馮瀚輝" title="wikilink">馮瀚輝</a></p></td>
+<td><p><a href="../Page/馮瀚輝.md" title="wikilink">馮瀚輝</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

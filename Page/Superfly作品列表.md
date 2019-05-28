@@ -13,7 +13,7 @@
 | ---- | ---------- | -------------------------------------------------------------------------- | ---------- | -- |
 | 最高榜位 | 銷量         |                                                                            |            |    |
 | 日榜   | 週榜         | 月榜                                                                         | 年榜         | 初動 |
-| 1st  | 2008年5月14日 | **[Superfly](https://zh.wikipedia.org/wiki/Superfly_\(專輯\) "wikilink")**   | 1          | 1  |
+| 1st  | 2008年5月14日 | **[Superfly](../Page/Superfly_\(專輯\).md "wikilink")**                      | 1          | 1  |
 | 2nd  | 2009年9月2日  | **[Box Emotions](../Page/Box_Emotions.md "wikilink")**                     | 1          | 1  |
 | 3rd  | 2011年6月15日 | **[Mind Travel](../Page/Mind_Travel.md "wikilink")**                       | 1          | 1  |
 | 4th  | 2012年9月19日 | **[Force](../Page/Force_\(Superfly專輯\).md "wikilink")**                    | 1          | 1  |
@@ -57,7 +57,7 @@
 | 16th | 2012年10月31日 | **[Force](../Page/Force_\(Superfly單曲\).md "wikilink")**                                                                                         | 8                        | 9                         | 42   |
 | 17th | 2014年5月14日  | **[Live](https://zh.wikipedia.org/wiki/Live_\(Superfly單曲\) "wikilink")**                                                                        | 7                        | 8                         | 30   |
 | 18th | 2014年11月19日 | **[讓愛遍布全身](https://zh.wikipedia.org/wiki/讓愛遍布全身 "wikilink")**                                                                                   | 8                        | 12                        | 40   |
-| 19th | 2015年7月29日  | **[On Your Side](https://zh.wikipedia.org/wiki/On_Your_Side "wikilink")**                                                                       | 6                        | 9                         | 48   |
+| 19th | 2015年7月29日  | **[On Your Side](../Page/On_Your_Side.md "wikilink")**                                                                                          | 6                        | 9                         | 48   |
 | 20th | 2015年12月2日  | **[黑色水滴 & Coupling Songs: 'Side B'](https://zh.wikipedia.org/wiki/黑色水滴_&_Coupling_Songs:_'Side_B' "wikilink")**                                 | 2                        | 2                         | 8    |
 | 21st | 2016年9月14日  | **[Good-bye](https://zh.wikipedia.org/wiki/Good-bye "wikilink")**                                                                               | 7                        | 10                        | 26   |
 | 22nd | 2016年11月23日 | **[99](https://zh.wikipedia.org/wiki/99_\(單曲\) "wikilink")**                                                                                    | 5                        | 7                         | 27   |

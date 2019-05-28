@@ -67,7 +67,7 @@ Liner（スノーライナー）」。原本按鈕式適時四驅系統改為前
 1985年 -
 2月以當紅[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[小林麻美為代言人](https://zh.wikipedia.org/wiki/小林麻美 "wikilink")，發售「麻美Special」特仕車\[12\]，具備粉綠或粉紅前後保桿、進氣壩及內裝、10吋專屬鐵輪圈與粉綠或粉紅輪圈蓋、日本車界首創可迴旋60度駕駛座、空調系統等配備。
 
-同年5月則以「A」車型為基礎，添加5速手排變速系統、碟煞、12吋鋁合金輪圈、[轉速表](https://zh.wikipedia.org/wiki/轉速表 "wikilink")、深色玻璃、運動化桶椅、車體同色前後保桿等配備的特仕車「Alto
+同年5月則以「A」車型為基礎，添加5速手排變速系統、碟煞、12吋鋁合金輪圈、[轉速表](../Page/轉速表.md "wikilink")、深色玻璃、運動化桶椅、車體同色前後保桿等配備的特仕車「Alto
 Kids」 \[13\]。9月新增［Alto Turbo」車型，具備543c.c.直列三缸DOHC
 [F5A型](https://zh.wikipedia.org/wiki/鈴木F族引擎#F5A型（DOHC_4汽門渦輪增壓附中冷器） "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器），且附EPI電腦汽油噴射裝置。10月則為了紀念累積銷售數量達100萬輛，新設五門掀背車型。
 
@@ -267,7 +267,7 @@ generation Suzuki Alto interior.jpg|內裝 Image:2004-2006 Suzuki Alto.jpg
 #### 日規版
 
 2009年 - 12月16日大改款的第七代Alto面世\[26\]，仍舊沿用658c.c.直列三缸DOHC VVT
-[K6A型引擎](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")，但恢復第六代停用的[VVT機構](../Page/可变气门正时.md "wikilink")；加上改變之形狀以提高進氣效率。此外，變速系統新設第五代以來取消的[CVT變速箱](../Page/無段自動變速器.md "wikilink")，此具[JATCO製造](https://zh.wikipedia.org/wiki/日本自動變速器公司 "wikilink")、附有副變速機構的CVT亦搭載於[鈴木Palette上](https://zh.wikipedia.org/wiki/鈴木Palette "wikilink")。車型區分成「E」、「F」、「G」、「X」等四種，廂型車則設成「VP」。外觀方面，頭燈為紡錘形設計，進氣壩則分成二種。[儀表板改成大型白色儀表](../Page/汽車儀表.md "wikilink")，追加可行駛里程、瞬間油耗、平均油耗等資訊。最頂級的「X」車型具備免鑰匙感應門鎖系統（keyless
+[K6A型引擎](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")，但恢復第六代停用的[VVT機構](../Page/可变气门正时.md "wikilink")；加上改變之形狀以提高進氣效率。此外，變速系統新設第五代以來取消的[CVT變速箱](../Page/無段自動變速器.md "wikilink")，此具[JATCO製造](https://zh.wikipedia.org/wiki/日本自動變速器公司 "wikilink")、附有副變速機構的CVT亦搭載於[鈴木Palette上](../Page/鈴木Palette.md "wikilink")。車型區分成「E」、「F」、「G」、「X」等四種，廂型車則設成「VP」。外觀方面，頭燈為紡錘形設計，進氣壩則分成二種。[儀表板改成大型白色儀表](../Page/汽車儀表.md "wikilink")，追加可行駛里程、瞬間油耗、平均油耗等資訊。最頂級的「X」車型具備免鑰匙感應門鎖系統（keyless
 entry system）與引擎啟動按鈕（push start
 system）、[引擎防盗鎖止系統](../Page/发动机防盗锁止系统.md "wikilink")；為了節省成本，後車窗[雨刷也只有](../Page/雨刷.md "wikilink")4WD車型才配置。
 
@@ -276,7 +276,7 @@ system）、[引擎防盗鎖止系統](../Page/发动机防盗锁止系统.md "w
 
 2011年 - 11月24日衍生車款「Alto Eco」上市，搭載658c.c.直列三缸DOHC進排氣VVT
 [R06A型引擎](https://zh.wikipedia.org/wiki/鈴木R族引擎#R06A型 "wikilink")，且配置來自第三代[鈴木MR
-Wagon的](https://zh.wikipedia.org/wiki/鈴木MR_Wagon "wikilink")[怠速熄火系統](../Page/怠速熄火系統.md "wikilink")。為了達到省油的目的，尾燈和第三煞車燈改成[LED](https://zh.wikipedia.org/wiki/LED "wikilink")，燃油幫浦改成省電型，油箱改成20[公升](../Page/公升.md "wikilink")，車身降低15mm，改變前保桿造型，改成低抗磨[輪胎等措施](../Page/輪胎.md "wikilink")，使得該車款在下平均油耗表現達到30.2km/L。
+Wagon的](../Page/鈴木MR_Wagon.md "wikilink")[怠速熄火系統](../Page/怠速熄火系統.md "wikilink")。為了達到省油的目的，尾燈和第三煞車燈改成[LED](https://zh.wikipedia.org/wiki/LED "wikilink")，燃油幫浦改成省電型，油箱改成20[公升](../Page/公升.md "wikilink")，車身降低15mm，改變前保桿造型，改成低抗磨[輪胎等措施](../Page/輪胎.md "wikilink")，使得該車款在下平均油耗表現達到30.2km/L。
 
 2012年 -
 6月11日發表部分改良車型（2型），全車系除「VP」外新增符合ISOFIX國際標準的[兒童安全座椅扣件](../Page/兒童安全座椅.md "wikilink")，且加大頭枕[面積](https://zh.wikipedia.org/wiki/面積 "wikilink")，「G4」和「X」的後座頭枕則改為馬[鞍形](https://zh.wikipedia.org/wiki/鞍 "wikilink")。除了五速手排車外，Alto

@@ -75,7 +75,7 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
       - 最佳男配角獎：（）
       - 最佳女配角獎：[菜菜緒](../Page/菜菜緒.md "wikilink")（[警報
         刑警×女友×完全惡女](../Page/警報_刑警×女友×完全惡女.md "wikilink")）
-      - 最佳編劇獎：[石井裕也](https://zh.wikipedia.org/wiki/石井裕也 "wikilink")、登米裕一（[糖果之家](../Page/糖果之家.md "wikilink")）
+      - 最佳編劇獎：[石井裕也](../Page/石井裕也.md "wikilink")、登米裕一（[糖果之家](../Page/糖果之家.md "wikilink")）
       - 最佳新人獎：[濱邊美波](../Page/濱邊美波.md "wikilink")（[無痛](https://zh.wikipedia.org/wiki/無痛#電視劇 "wikilink")）
 
 #### 第3回
@@ -105,7 +105,7 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
 
   - **2016年夏季**
       - 最佳作品獎：[賣房女子](../Page/賣房女子.md "wikilink")\[8\]
-      - 最佳男主角獎：[三上博史](https://zh.wikipedia.org/wiki/三上博史 "wikilink")（）
+      - 最佳男主角獎：[三上博史](../Page/三上博史.md "wikilink")（）
       - 最佳女主角獎：[波瑠](../Page/波瑠.md "wikilink")（[ON
         異常犯罪搜查官·藤堂比奈子](../Page/ON_異常犯罪搜查官·藤堂比奈子.md "wikilink")）
       - 最佳男配角獎：（）
@@ -117,32 +117,32 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
 
   - **2016年秋季** \[9\]
       - 最佳作品獎：[月薪嬌妻](https://zh.wikipedia.org/wiki/月薪嬌妻 "wikilink")
-      - 最佳男主角獎：[松岡昌宏](../Page/松岡昌宏.md "wikilink")（[家政夫三田園](https://zh.wikipedia.org/wiki/家政夫三田園 "wikilink")）
+      - 最佳男主角獎：[松岡昌宏](../Page/松岡昌宏.md "wikilink")（[家政夫三田園](../Page/家政夫三田園.md "wikilink")）
       - 最佳女主角獎：[新垣結衣](../Page/新垣結衣.md "wikilink")（月薪嬌妻）
-      - 最佳男配角獎：[星野源](https://zh.wikipedia.org/wiki/星野源 "wikilink")（月薪嬌妻）
+      - 最佳男配角獎：[星野源](../Page/星野源.md "wikilink")（月薪嬌妻）
       - 最佳女配角獎：[石田百合子](../Page/石田百合子.md "wikilink")（月薪嬌妻）
-      - 最佳編劇獎：[野木亞紀子](https://zh.wikipedia.org/wiki/野木亞紀子 "wikilink")（月薪嬌妻）
+      - 最佳編劇獎：[野木亞紀子](../Page/野木亞紀子.md "wikilink")（月薪嬌妻）
       - 最佳新人獎：[大谷亮平](../Page/大谷亮平.md "wikilink")（月薪嬌妻）
 
 #### 第7回
 
   - **2017年冬季** \[10\]
-      - 最佳作品獎：[四重奏](https://zh.wikipedia.org/wiki/四重奏_\(日本電視劇\) "wikilink")
-      - 最佳男主角獎：[草彅剛](../Page/草彅剛.md "wikilink")（[謊言戰爭](https://zh.wikipedia.org/wiki/謊言戰爭 "wikilink")）
+      - 最佳作品獎：[四重奏](../Page/四重奏_\(日本電視劇\).md "wikilink")
+      - 最佳男主角獎：[草彅剛](../Page/草彅剛.md "wikilink")（[謊言戰爭](../Page/謊言戰爭.md "wikilink")）
       - 最佳女主角獎：[松隆子](../Page/松隆子.md "wikilink")（四重奏）
       - 最佳男配角獎：[高橋一生](../Page/高橋一生.md "wikilink")（四重奏）
-      - 最佳女配角獎：[齊藤由貴](../Page/齊藤由貴.md "wikilink")（[媽媽，不當您女兒可以嗎？](https://zh.wikipedia.org/wiki/媽媽，不當您女兒可以嗎？ "wikilink")）
+      - 最佳女配角獎：[齊藤由貴](../Page/齊藤由貴.md "wikilink")（[媽媽，不當您女兒可以嗎？](../Page/媽媽，不當您女兒可以嗎？.md "wikilink")）
       - 最佳編劇獎：[坂元裕二](../Page/坂元裕二.md "wikilink")（四重奏）
-      - 最佳新人獎：[吉岡里帆](https://zh.wikipedia.org/wiki/吉岡里帆 "wikilink")（四重奏）
+      - 最佳新人獎：[吉岡里帆](../Page/吉岡里帆.md "wikilink")（四重奏）
 
 #### 第8回
 
   - **2017年春季**
-      - 最佳作品獎：[反轉](https://zh.wikipedia.org/wiki/反轉 "wikilink")
+      - 最佳作品獎：[反轉](../Page/反轉.md "wikilink")
       - 最佳男主角獎：[小栗旬](../Page/小栗旬.md "wikilink")（[CRISIS](https://zh.wikipedia.org/wiki/CRISIS "wikilink")）
       - 最佳女主角獎：[多部未華子](../Page/多部未華子.md "wikilink")（）
       - 最佳男配角獎：[東出昌大](../Page/東出昌大.md "wikilink")（[其實並不在乎你](https://zh.wikipedia.org/wiki/其實並不在乎你 "wikilink")）
-      - 最佳女配角獎：[小池榮子](https://zh.wikipedia.org/wiki/小池榮子 "wikilink")（[成為母親](https://zh.wikipedia.org/wiki/成為母親 "wikilink")）
+      - 最佳女配角獎：[小池榮子](https://zh.wikipedia.org/wiki/小池榮子 "wikilink")（[成為母親](../Page/成為母親.md "wikilink")）
       - 最佳編劇獎：[奥寺佐渡子](../Page/奥寺佐渡子.md "wikilink")、清水友佳子（反轉）
       - 最佳新人獎：[新木優子](../Page/新木優子.md "wikilink")（CRISIS）、（）
 
@@ -150,29 +150,29 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
 
   - **2017年夏季**
       - 最佳作品獎：[雛鳥](https://zh.wikipedia.org/wiki/雛鳥 "wikilink")
-      - 最佳男主角獎：[石坂浩二](https://zh.wikipedia.org/wiki/石坂浩二 "wikilink")（[安寧之鄉](https://zh.wikipedia.org/wiki/安寧之鄉 "wikilink")）
-      - 最佳女主角獎：[高畑充希](../Page/高畑充希.md "wikilink")（[過度保護的加穗子](https://zh.wikipedia.org/wiki/過度保護的加穗子 "wikilink")）
+      - 最佳男主角獎：[石坂浩二](../Page/石坂浩二.md "wikilink")（[安寧之鄉](https://zh.wikipedia.org/wiki/安寧之鄉 "wikilink")）
+      - 最佳女主角獎：[高畑充希](../Page/高畑充希.md "wikilink")（[過度保護的加穗子](../Page/過度保護的加穗子.md "wikilink")）
       - 最佳男配角獎：[竹內涼真](../Page/竹內涼真.md "wikilink")（過度保護的加穗子）
       - 最佳女配角獎：[和久井映見](../Page/和久井映見.md "wikilink")（雛鳥）
       - 最佳編劇獎：[岡田惠和](../Page/岡田惠和.md "wikilink")（雛鳥）
-      - 最佳新人獎：[永野芽郁](https://zh.wikipedia.org/wiki/永野芽郁 "wikilink")（[是我們做的](https://zh.wikipedia.org/wiki/是我們做的 "wikilink")）
+      - 最佳新人獎：[永野芽郁](../Page/永野芽郁.md "wikilink")（[是我們做的](https://zh.wikipedia.org/wiki/是我們做的 "wikilink")）
 
 #### 第10回
 
   - **2017年秋季**
-      - 最佳作品獎：[刑警弓神](https://zh.wikipedia.org/wiki/刑警弓神 "wikilink")
+      - 最佳作品獎：[刑警弓神](../Page/刑警弓神.md "wikilink")
       - 最佳男主角獎：[淺野忠信](../Page/淺野忠信.md "wikilink")（刑警弓神）
       - 最佳女主角獎：[綾瀨遙](../Page/綾瀨遙.md "wikilink")（[太太
-        請小心輕放](https://zh.wikipedia.org/wiki/太太_請小心輕放 "wikilink")）
+        請小心輕放](../Page/太太_請小心輕放.md "wikilink")）
       - 最佳男配角獎：[神木隆之介](https://zh.wikipedia.org/wiki/神木隆之介 "wikilink")（刑警弓神）
-      - 最佳女配角獎：[手塚理美](https://zh.wikipedia.org/wiki/手塚理美 "wikilink")（[明日的約定](https://zh.wikipedia.org/wiki/明日的約定 "wikilink")）
+      - 最佳女配角獎：[手塚理美](https://zh.wikipedia.org/wiki/手塚理美 "wikilink")（[明日的約定](../Page/明日的約定.md "wikilink")）
       - 最佳編劇獎：[福田靖](https://zh.wikipedia.org/wiki/福田靖 "wikilink")（[只是先出生的我](https://zh.wikipedia.org/wiki/只是先出生的我 "wikilink")）
       - 最佳新人獎：[佐久間由衣](../Page/佐久間由衣.md "wikilink")（明日的約定）
 
 #### 第11回
 
   - **2018年冬季**
-      - 最佳作品獎：[UNNATURAL](https://zh.wikipedia.org/wiki/UNNATURAL "wikilink")
+      - 最佳作品獎：[UNNATURAL](../Page/UNNATURAL.md "wikilink")
       - 最佳男主角獎：[志尊淳](../Page/志尊淳.md "wikilink")（[女子的生活](https://zh.wikipedia.org/wiki/女子的生活 "wikilink")）
       - 最佳女主角獎：[石原聰美](../Page/石原聰美.md "wikilink")（UNNATURAL）
       - 最佳男配角獎：[井浦新](../Page/井浦新.md "wikilink")（UNNATURAL）
@@ -183,24 +183,24 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
 #### 第12回
 
   - **2018年春季**
-      - 最佳作品獎：[大叔的愛](https://zh.wikipedia.org/wiki/大叔的愛 "wikilink")
+      - 最佳作品獎：[大叔的愛](../Page/大叔的愛.md "wikilink")
       - 最佳男主角獎：[藤岡靛](../Page/藤岡靛.md "wikilink")（[基度山恩仇記-華麗的復仇-](../Page/基度山恩仇記-華麗的復仇-.md "wikilink")）
       - 最佳女主角獎：[長澤雅美](https://zh.wikipedia.org/wiki/長澤雅美 "wikilink")（[信用詐欺師JP](https://zh.wikipedia.org/wiki/信用詐欺師JP "wikilink")）
       - 最佳男配角獎：[吉田鋼太郎](https://zh.wikipedia.org/wiki/吉田鋼太郎 "wikilink")（大叔的愛）
-      - 最佳女配角獎：[木村多江](../Page/木村多江.md "wikilink")（[有家可歸的戀人們](https://zh.wikipedia.org/wiki/有家可歸的戀人們 "wikilink")）
+      - 最佳女配角獎：[木村多江](../Page/木村多江.md "wikilink")（[有家可歸的戀人們](../Page/有家可歸的戀人們.md "wikilink")）
       - 最佳編劇獎：[古澤良太](../Page/古澤良太.md "wikilink")（信用詐欺師JP）
       - 最佳新人獎：[趣里](../Page/趣里.md "wikilink")（[黑色止血鉗](https://zh.wikipedia.org/wiki/黑色止血鉗 "wikilink")）
 
 #### 第13回
 
   - **2018年夏季**
-      - 最佳作品獎：[繼母與女兒的藍調](https://zh.wikipedia.org/wiki/繼母與女兒的藍調 "wikilink")
+      - 最佳作品獎：[繼母與女兒的藍調](../Page/繼母與女兒的藍調.md "wikilink")
       - 最佳男主角獎：[山田孝之](../Page/山田孝之.md "wikilink")、[菅田將暉](../Page/菅田將暉.md "wikilink")（[dele](https://zh.wikipedia.org/wiki/dele "wikilink")）
-      - 最佳女主角獎：[永野芽郁](https://zh.wikipedia.org/wiki/永野芽郁 "wikilink")（[一半，藍色。](https://zh.wikipedia.org/wiki/一半，藍色。 "wikilink")）
+      - 最佳女主角獎：[永野芽郁](../Page/永野芽郁.md "wikilink")（[一半，藍色。](../Page/一半，藍色。.md "wikilink")）
       - 最佳男配角獎：[佐藤健](../Page/佐藤健.md "wikilink")（一半，藍色。、繼母與女兒的藍調）
       - 最佳女配角獎：[芳根京子](../Page/芳根京子.md "wikilink")（[高嶺之花](https://zh.wikipedia.org/wiki/高嶺之花 "wikilink")）
       - 最佳編劇獎：[安達奈緒子](https://zh.wikipedia.org/wiki/安達奈緒子 "wikilink")（[透明的搖籃](../Page/透明的搖籃.md "wikilink")）
-      - 最佳新人獎：[清原果耶](https://zh.wikipedia.org/wiki/清原果耶 "wikilink")（透明的搖籃）
+      - 最佳新人獎：[清原果耶](../Page/清原果耶.md "wikilink")（透明的搖籃）
 
 #### 第14回
 
@@ -209,7 +209,7 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
       - 最佳男主角獎：[岡田將生](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")（[昭和元祿落語心中](../Page/昭和元祿落語心中.md "wikilink")）
       - 最佳女主角獎：[戶田惠梨香](https://zh.wikipedia.org/wiki/戶田惠梨香 "wikilink")（[大戀愛～和忘記我的你](../Page/大戀愛～和忘記我的你.md "wikilink")）
       - 最佳男配角獎：[山崎育三郎](../Page/山崎育三郎.md "wikilink")（[昭和元祿落語心中](../Page/昭和元祿落語心中.md "wikilink")）
-      - 最佳女配角獎：[黑木華](https://zh.wikipedia.org/wiki/黑木華 "wikilink")（[非獸性男女](https://zh.wikipedia.org/wiki/無法成為野獸的我們 "wikilink")）
+      - 最佳女配角獎：[黑木華](../Page/黑木華.md "wikilink")（[非獸性男女](https://zh.wikipedia.org/wiki/無法成為野獸的我們 "wikilink")）
       - 最佳編劇獎：（[大戀愛～和忘記我的你](../Page/大戀愛～和忘記我的你.md "wikilink")）
       - 最佳新人獎：[磯村勇斗](../Page/磯村勇斗.md "wikilink")（[我是大哥大\!\!](../Page/我是大哥大!!.md "wikilink")）
 
@@ -221,7 +221,7 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
       - 最佳女主角獎：[常盤貴子](../Page/常盤貴子.md "wikilink")（[The Good
         Wife](../Page/法庭女王_\(日本電視劇\).md "wikilink")）
       - 最佳男配角獎：（）
-      - 最佳女配角獎：[松坂慶子](../Page/松坂慶子.md "wikilink")（[萬福](https://zh.wikipedia.org/wiki/萬福_\(電視劇\) "wikilink")）
+      - 最佳女配角獎：[松坂慶子](../Page/松坂慶子.md "wikilink")（[萬福](../Page/萬福_\(電視劇\).md "wikilink")）
       - 最佳編劇獎：[武藤將吾](../Page/武藤將吾.md "wikilink")（[3年A班－從此刻起，大家都是我的人質－](../Page/3年A班－從此刻起，大家都是我的人質－.md "wikilink")）
       - 最佳新人獎：[白石聖](../Page/白石聖.md "wikilink")（）
 
@@ -235,30 +235,30 @@ CONFIDENCE》主辦。每一年公布每一季得獎名單，一年共四次\[1\
       - 最佳男配角獎：（[真田丸](../Page/真田丸_\(大河劇\).md "wikilink")）
       - 最佳女配角獎：石田百合子（月薪嬌妻）
       - 最佳編劇獎：野木亞紀子（重版出来！、月薪嬌妻）
-      - 最佳新人獎：[藤岡靛](../Page/藤岡靛.md "wikilink")（[阿淺來了](../Page/阿淺來了.md "wikilink")、[請和這個沒用的我談戀愛](../Page/請和這個沒用的我談戀愛.md "wikilink")、[IQ246～華麗事件簿～](https://zh.wikipedia.org/wiki/IQ246～華麗事件簿～ "wikilink")）
+      - 最佳新人獎：[藤岡靛](../Page/藤岡靛.md "wikilink")（[阿淺來了](../Page/阿淺來了.md "wikilink")、[請和這個沒用的我談戀愛](../Page/請和這個沒用的我談戀愛.md "wikilink")、[IQ246～華麗事件簿～](../Page/IQ246～華麗事件簿～.md "wikilink")）
       - 審査員特別獎：[岡田將生](https://zh.wikipedia.org/wiki/岡田將生 "wikilink")、[松坂桃李](../Page/松坂桃李.md "wikilink")、[柳樂優彌](../Page/柳樂優彌.md "wikilink")（[寬鬆世代又怎樣](../Page/寬鬆世代又怎樣.md "wikilink")）
 
 <!-- end list -->
 
   - **2017年度**
-      - 最佳作品獎：[四重奏](https://zh.wikipedia.org/wiki/四重奏_\(日本電視劇\) "wikilink")
+      - 最佳作品獎：[四重奏](../Page/四重奏_\(日本電視劇\).md "wikilink")
       - 最佳男主角獎：[淺野忠信](../Page/淺野忠信.md "wikilink")（刑警弓神）
       - 最佳女主角獎：[松隆子](../Page/松隆子.md "wikilink")（四重奏）
       - 最佳男配角獎：[高橋一生](../Page/高橋一生.md "wikilink")（四重奏、[女城主直虎](https://zh.wikipedia.org/wiki/女城主直虎 "wikilink")）
       - 最佳女配角獎：[和久井映見](../Page/和久井映見.md "wikilink")（雛鳥）
       - 最佳編劇獎：[坂元裕二](../Page/坂元裕二.md "wikilink")（四重奏）
-      - 最佳新人獎：[吉岡里帆](https://zh.wikipedia.org/wiki/吉岡里帆 "wikilink")（四重奏）
+      - 最佳新人獎：[吉岡里帆](../Page/吉岡里帆.md "wikilink")（四重奏）
 
 <!-- end list -->
 
   - **2018年度**\[13\]
-      - 最佳作品獎：[大叔的愛](https://zh.wikipedia.org/wiki/大叔的愛 "wikilink")
+      - 最佳作品獎：[大叔的愛](../Page/大叔的愛.md "wikilink")
       - 最佳男主角獎：[山田孝之](../Page/山田孝之.md "wikilink")、[菅田將暉](../Page/菅田將暉.md "wikilink")（[dele](https://zh.wikipedia.org/wiki/dele "wikilink")）
-      - 最佳女主角獎：[石原聰美](../Page/石原聰美.md "wikilink")（[UNNATURAL](https://zh.wikipedia.org/wiki/UNNATURAL "wikilink")）
-      - 最佳男配角獎：[佐藤健](../Page/佐藤健.md "wikilink")（[一半，藍色。](https://zh.wikipedia.org/wiki/一半，藍色。 "wikilink")、[繼母與女兒的藍調](https://zh.wikipedia.org/wiki/繼母與女兒的藍調 "wikilink")）
+      - 最佳女主角獎：[石原聰美](../Page/石原聰美.md "wikilink")（[UNNATURAL](../Page/UNNATURAL.md "wikilink")）
+      - 最佳男配角獎：[佐藤健](../Page/佐藤健.md "wikilink")（[一半，藍色。](../Page/一半，藍色。.md "wikilink")、[繼母與女兒的藍調](../Page/繼母與女兒的藍調.md "wikilink")）
       - 最佳女配角獎：[田中裕子](../Page/田中裕子.md "wikilink")（[anone](https://zh.wikipedia.org/wiki/anone "wikilink")）
-      - 最佳編劇獎：[野木亞紀子](https://zh.wikipedia.org/wiki/野木亞紀子 "wikilink")（UNNATURAL）
-      - 最佳新人獎：[清原果耶](https://zh.wikipedia.org/wiki/清原果耶 "wikilink")（[透明的搖籃](../Page/透明的搖籃.md "wikilink")）
+      - 最佳編劇獎：[野木亞紀子](../Page/野木亞紀子.md "wikilink")（UNNATURAL）
+      - 最佳新人獎：[清原果耶](../Page/清原果耶.md "wikilink")（[透明的搖籃](../Page/透明的搖籃.md "wikilink")）
 
 ## 另見
 

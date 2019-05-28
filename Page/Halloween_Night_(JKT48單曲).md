@@ -54,7 +54,7 @@ H的歌曲《偶像的王者》（），NMB48的歌曲《Don't look back\!》以
 3.  《Idol no Ouja》（Ratu Para Idola）- Team J
       -
         （日文原版作詞：秋元康，作曲、編曲：井上義正）
-        原曲收錄于HKT48第4张单曲《[有所保留的我愛你！](https://zh.wikipedia.org/wiki/有所保留的我愛你！ "wikilink")》。
+        原曲收錄于HKT48第4张单曲《[有所保留的我愛你！](../Page/有所保留的我愛你！.md "wikilink")》。
 4.  《Don't Look Back\!》 - Team KIII
       -
         （日文原版作詞：秋元康，作曲：Carlos K.，編曲：武藤星児）

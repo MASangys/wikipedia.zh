@@ -30,7 +30,7 @@ Alto front 20080116.jpg|歐規Alto車頭 Image:Suzuki Alto rear
 ## 內部連結
 
   - [鈴木Cervo](../Page/鈴木Cervo.md "wikilink")
-  - [馬魯蒂Zen Estilo](https://zh.wikipedia.org/wiki/鈴木MR_Wagon "wikilink")
+  - [馬魯蒂Zen Estilo](../Page/鈴木MR_Wagon.md "wikilink")
 
 ## 外部連結
 

@@ -74,7 +74,7 @@ Awards Festival」（SAF）的一部分後附設頒獎環節\[1\]。
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>Happiness</p></td>
 </tr>
 <tr class="even">
@@ -89,7 +89,7 @@ Awards Festival」（SAF）的一部分後附設頒獎環節\[1\]。
 </tr>
 <tr class="even">
 <td><p>限定合作舞台</p></td>
-<td><p>SUPER ROOKIES（<a href="../Page/GOT7.md" title="wikilink">GOT7</a> × <a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a> × <a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a> × <a href="../Page/WINNER.md" title="wikilink">WINNER</a>）</p></td>
+<td><p>SUPER ROOKIES（<a href="../Page/GOT7.md" title="wikilink">GOT7</a> × <a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a> × <a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a> × <a href="../Page/WINNER.md" title="wikilink">WINNER</a>）</p></td>
 <td><p>Moves Like Jagger（原唱：<a href="../Page/魔力紅.md" title="wikilink">魔力紅</a>）</p></td>
 </tr>
 <tr class="odd">
@@ -284,7 +284,7 @@ Awards Festival」（SAF）的一部分後附設頒獎環節\[1\]。
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GD_X_TAEYANG" title="wikilink">GD X TAEYANG</a></p></td>
+<td><p><a href="../Page/GD_X_TAEYANG.md" title="wikilink">GD X TAEYANG</a></p></td>
 <td><p>Good Boy</p></td>
 </tr>
 <tr class="even">
@@ -319,57 +319,57 @@ Awards Festival」（SAF）的一部分後附設頒獎環節\[1\]。
 
   - 主題：用音樂共創快樂，Music Together（음악으로 함께 만드는 기쁨, Music Together）
 
-| 表演名稱                                                                                                                                                                   | 表演者                                                                                                                                                                                                                                                                                                                        | 表演曲目                                |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
-| **1部**\[4\]                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                            |                                     |
-| KPOP歷史                                                                                                                                                                 | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[娜璉](../Page/娜璉.md "wikilink") × [子瑜](../Page/周子瑜.md "wikilink")）                                                                                                                                                                                                  | 哥哥是個賣藝的（原唱：朴香林）                     |
-| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[定延](https://zh.wikipedia.org/wiki/定延 "wikilink") × [志效](../Page/志效.md "wikilink")）                            | 綠豆煎餅紳士（原唱：韓福南）                                                                                                                                                                                                                                                                                                             |                                     |
-| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[娜璉](../Page/娜璉.md "wikilink") × [彩瑛](../Page/彩瑛.md "wikilink")）                                               | Nillili Manbo（原唱：金貞愛）                                                                                                                                                                                                                                                                                                      |                                     |
-| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[子瑜](https://zh.wikipedia.org/wiki/子瑜 "wikilink") × [Sana](https://zh.wikipedia.org/wiki/Sana "wikilink")）     | 郁陵島Twist（原唱：李氏姐妹）                                                                                                                                                                                                                                                                                                          |                                     |
-| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[多賢](../Page/多賢.md "wikilink") × [Mina](https://zh.wikipedia.org/wiki/Mina "wikilink")）                        | 永遠的朋友（原唱：娜美）                                                                                                                                                                                                                                                                                                               |                                     |
-| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[Momo](https://zh.wikipedia.org/wiki/Momo "wikilink") × [定延](https://zh.wikipedia.org/wiki/定延 "wikilink")）     | 思念著你（原唱：）                                                                                                                                                                                                                                                                                                                  |                                     |
-| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[Sana](https://zh.wikipedia.org/wiki/Sana "wikilink") × [彩瑛](../Page/彩瑛.md "wikilink")）                        | 模糊記憶中的你（原唱：）                                                                                                                                                                                                                                                                                                               |                                     |
-| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[多賢](../Page/多賢.md "wikilink") × [志效](../Page/志效.md "wikilink")）                                               | Wah（原唱：[李貞賢](../Page/李貞賢.md "wikilink")）                                                                                                                                                                                                                                                                                   |                                     |
-| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[Mina](https://zh.wikipedia.org/wiki/Mina "wikilink") × [Momo](https://zh.wikipedia.org/wiki/Momo "wikilink")） | I AM THE BEST（原唱：[2NE1](../Page/2NE1.md "wikilink")）                                                                                                                                                                                                                                                                       |                                     |
-| 開場表演                                                                                                                                                                   | [B.A.P](../Page/B.A.P.md "wikilink") × [VIXX](../Page/VIXX.md "wikilink") × [GOT7](../Page/GOT7.md "wikilink") × [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")                                                                                                                                                     | 舞蹈表演                                |
-| 熱門歌曲Remix表演                                                                                                                                                            | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")                                                                                                                                                                                                                                                                    | Roly Poly + Lovey Dovey + 完全瘋了      |
-| 熱門歌曲Remix表演                                                                                                                                                            | [CNBLUE](../Page/CNBLUE.md "wikilink")                                                                                                                                                                                                                                                                                     | Cinderella (Remix)                  |
-| 熱門歌曲Remix表演                                                                                                                                                            | [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")                                                                                                                                                                                                                                                                | Uptown Funk + Um Oh Ah Yeah (Remix) |
-| 熱門歌曲表演                                                                                                                                                                 | [Ailee](../Page/李艺真.md "wikilink")                                                                                                                                                                                                                                                                                         | Mind Your Own Business              |
-| 熱門歌曲表演                                                                                                                                                                 | [Apink](../Page/Apink.md "wikilink")                                                                                                                                                                                                                                                                                       | Remember                            |
-| 熱門歌曲表演                                                                                                                                                                 | [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")                                                                                                                                                                                                                                                                      | Dumb & Dumber + What's Wrong        |
-| 限定組合舞台                                                                                                                                                                 | Diva Together（[Ailee](../Page/李艺真.md "wikilink") × [Luna](../Page/朴善英.md "wikilink")（[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）× [頌樂](https://zh.wikipedia.org/wiki/頌樂 "wikilink")（[Mamamoo](../Page/Mamamoo.md "wikilink")）× [鄭恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）） | 我沒關係（原唱：）                           |
-| 限定合作舞台                                                                                                                                                                 | [鐘鉉](../Page/鐘鉉.md "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）feat. [婑斌](https://zh.wikipedia.org/wiki/婑斌 "wikilink")（[Wonder Girls](../Page/Wonder_Girls.md "wikilink")）                                                                                                                                          | Deja-boo                            |
-| 限定合作舞台                                                                                                                                                                 | [IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink") × [hyukoh](https://zh.wikipedia.org/wiki/hyukoh "wikilink")                                                                                                                                                                                                       | Gondry + Knee                       |
-| 熱門歌曲表演                                                                                                                                                                 | [hyukoh](https://zh.wikipedia.org/wiki/hyukoh "wikilink")                                                                                                                                                                                                                                                                  | Comes And Goes                      |
-| 熱門歌曲表演                                                                                                                                                                 | [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")                                                                                                                                                                                                                                                          | Dumb Dumb + Ice Cream Cake          |
-| 熱門歌曲表演                                                                                                                                                                 | [IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")                                                                                                                                                                                                                                                                   | Twenty-Three                        |
-| 熱門歌曲表演                                                                                                                                                                 | [Wonder Girls](../Page/Wonder_Girls.md "wikilink")                                                                                                                                                                                                                                                                         | I Feel You                          |
-| **2部**\[5\]                                                                                                                                                            |                                                                                                                                                                                                                                                                                                                            |                                     |
-| Tribute to Heaven                                                                                                                                                      | [CHEN](https://zh.wikipedia.org/wiki/CHEN "wikilink")（[EXO](../Page/EXO.md "wikilink")）                                                                                                                                                                                                                                    | 雖然愛過（原唱：）                           |
-| [伯賢](https://zh.wikipedia.org/wiki/伯賢 "wikilink")（[EXO](../Page/EXO.md "wikilink")）                                                                                    | 像雨一樣 像音樂一樣（原唱：金玄錫）                                                                                                                                                                                                                                                                                                         |                                     |
-| [泰民](../Page/泰民.md "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）                                                                                                 | 因為愛（原唱：柳在夏）                                                                                                                                                                                                                                                                                                                |                                     |
-| 熱門歌曲表演                                                                                                                                                                 | [UP10TION](../Page/UP10TION.md "wikilink")                                                                                                                                                                                                                                                                                 | So, Dangerous + Catch Me\!          |
-| 熱門歌曲表演                                                                                                                                                                 | [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink")                                                                                                                                                                                                                                                                        | Adore U                             |
-| 熱門歌曲表演                                                                                                                                                                 | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")                                                                                                                                                                                                                                                                    | Like OOH-AHH                        |
-| 熱門歌曲表演                                                                                                                                                                 | [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")                                                                                                                                                                                                                                                              | Trespass + Hero                     |
-| 熱門歌曲表演                                                                                                                                                                 | [B.A.P](../Page/B.A.P.md "wikilink")                                                                                                                                                                                                                                                                                       | Young, Wild & Free                  |
-| 熱門歌曲表演                                                                                                                                                                 | [GOT7](../Page/GOT7.md "wikilink")                                                                                                                                                                                                                                                                                         | If You Do                           |
-| 熱門歌曲表演                                                                                                                                                                 | [GFRIEND](../Page/GFRIEND.md "wikilink")                                                                                                                                                                                                                                                                                   | Glass Bead + Me Gustas Tu           |
-| 熱門歌曲表演                                                                                                                                                                 | [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")                                                                                                                                                                                                                                                                | For You                             |
-| 熱門歌曲表演                                                                                                                                                                 | [VIXX](../Page/VIXX.md "wikilink")                                                                                                                                                                                                                                                                                         | Chained Up                          |
-| 熱門歌曲表演                                                                                                                                                                 | [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")                                                                                                                                                                                                                                                                      | Hot Pink                            |
-| 熱門歌曲表演                                                                                                                                                                 | [AOA](../Page/AOA.md "wikilink")                                                                                                                                                                                                                                                                                           | Heart Attack                        |
-| 熱門歌曲表演                                                                                                                                                                 | [BTOB](../Page/BTOB.md "wikilink")                                                                                                                                                                                                                                                                                         | It's Okay                           |
-| 熱門歌曲表演                                                                                                                                                                 | [B1A4](../Page/B1A4.md "wikilink")                                                                                                                                                                                                                                                                                         | Sweet Girl                          |
-| 熱門歌曲表演                                                                                                                                                                 | [4Minute](https://zh.wikipedia.org/wiki/4Minute "wikilink")                                                                                                                                                                                                                                                                | Crazy                               |
-| 熱門歌曲表演                                                                                                                                                                 | [INFINITE](../Page/INFINITE.md "wikilink")                                                                                                                                                                                                                                                                                 | Bad                                 |
-| 熱門歌曲表演                                                                                                                                                                 | [2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")                                                                                                                                                                                                                                                                        | My House                            |
-| 熱門歌曲表演                                                                                                                                                                 | [EXO](../Page/EXO.md "wikilink")                                                                                                                                                                                                                                                                                           | CALL ME BABY + LOVE ME RIGHT        |
-| 熱門歌曲表演                                                                                                                                                                 | [SHINee](../Page/SHINee.md "wikilink")                                                                                                                                                                                                                                                                                     | VIEW + Hitchhiking                  |
-| 限定合作舞台                                                                                                                                                                 | [SHINee](../Page/SHINee.md "wikilink") × [EXO](../Page/EXO.md "wikilink")                                                                                                                                                                                                                                                  | MAMA + Lucifer                      |
-| 熱門歌曲表演                                                                                                                                                                 | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")                                                                                                                                                                                                                                                                      | Catch Me If You Can + Lion Heart    |
-| 熱門歌曲表演                                                                                                                                                                 | [PSY](../Page/PSY.md "wikilink")                                                                                                                                                                                                                                                                                           | DADDY + NAPAL BAJI + Gangnam Style  |
+| 表演名稱                                                                                                                                                                   | 表演者                                                                                                                                                                                                                                                                                                     | 表演曲目                                |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------- |
+| **1部**\[4\]                                                                                                                                                            |                                                                                                                                                                                                                                                                                                         |                                     |
+| KPOP歷史                                                                                                                                                                 | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[娜璉](../Page/娜璉.md "wikilink") × [子瑜](../Page/周子瑜.md "wikilink")）                                                                                                                                                                               | 哥哥是個賣藝的（原唱：朴香林）                     |
+| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[定延](../Page/定延.md "wikilink") × [志效](../Page/志效.md "wikilink")）                                               | 綠豆煎餅紳士（原唱：韓福南）                                                                                                                                                                                                                                                                                          |                                     |
+| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[娜璉](../Page/娜璉.md "wikilink") × [彩瑛](../Page/彩瑛.md "wikilink")）                                               | Nillili Manbo（原唱：金貞愛）                                                                                                                                                                                                                                                                                   |                                     |
+| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[子瑜](https://zh.wikipedia.org/wiki/子瑜 "wikilink") × [Sana](https://zh.wikipedia.org/wiki/Sana "wikilink")）     | 郁陵島Twist（原唱：李氏姐妹）                                                                                                                                                                                                                                                                                       |                                     |
+| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[多賢](../Page/多賢.md "wikilink") × [Mina](https://zh.wikipedia.org/wiki/Mina "wikilink")）                        | 永遠的朋友（原唱：娜美）                                                                                                                                                                                                                                                                                            |                                     |
+| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[Momo](https://zh.wikipedia.org/wiki/Momo "wikilink") × [定延](../Page/定延.md "wikilink")）                        | 思念著你（原唱：）                                                                                                                                                                                                                                                                                               |                                     |
+| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[Sana](https://zh.wikipedia.org/wiki/Sana "wikilink") × [彩瑛](../Page/彩瑛.md "wikilink")）                        | 模糊記憶中的你（原唱：）                                                                                                                                                                                                                                                                                            |                                     |
+| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[多賢](../Page/多賢.md "wikilink") × [志效](../Page/志效.md "wikilink")）                                               | Wah（原唱：[李貞賢](../Page/李貞賢.md "wikilink")）                                                                                                                                                                                                                                                                |                                     |
+| [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[Mina](https://zh.wikipedia.org/wiki/Mina "wikilink") × [Momo](https://zh.wikipedia.org/wiki/Momo "wikilink")） | I AM THE BEST（原唱：[2NE1](../Page/2NE1.md "wikilink")）                                                                                                                                                                                                                                                    |                                     |
+| 開場表演                                                                                                                                                                   | [B.A.P](../Page/B.A.P.md "wikilink") × [VIXX](../Page/VIXX.md "wikilink") × [GOT7](../Page/GOT7.md "wikilink") × [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")                                                                                                                                  | 舞蹈表演                                |
+| 熱門歌曲Remix表演                                                                                                                                                            | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")                                                                                                                                                                                                                                                 | Roly Poly + Lovey Dovey + 完全瘋了      |
+| 熱門歌曲Remix表演                                                                                                                                                            | [CNBLUE](../Page/CNBLUE.md "wikilink")                                                                                                                                                                                                                                                                  | Cinderella (Remix)                  |
+| 熱門歌曲Remix表演                                                                                                                                                            | [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")                                                                                                                                                                                                                                             | Uptown Funk + Um Oh Ah Yeah (Remix) |
+| 熱門歌曲表演                                                                                                                                                                 | [Ailee](../Page/李艺真.md "wikilink")                                                                                                                                                                                                                                                                      | Mind Your Own Business              |
+| 熱門歌曲表演                                                                                                                                                                 | [Apink](../Page/Apink.md "wikilink")                                                                                                                                                                                                                                                                    | Remember                            |
+| 熱門歌曲表演                                                                                                                                                                 | [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")                                                                                                                                                                                                                                                   | Dumb & Dumber + What's Wrong        |
+| 限定組合舞台                                                                                                                                                                 | Diva Together（[Ailee](../Page/李艺真.md "wikilink") × [Luna](../Page/朴善英.md "wikilink")（[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）× [頌樂](../Page/頌樂.md "wikilink")（[Mamamoo](../Page/Mamamoo.md "wikilink")）× [鄭恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）） | 我沒關係（原唱：）                           |
+| 限定合作舞台                                                                                                                                                                 | [鐘鉉](../Page/鐘鉉.md "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）feat. [婑斌](https://zh.wikipedia.org/wiki/婑斌 "wikilink")（[Wonder Girls](../Page/Wonder_Girls.md "wikilink")）                                                                                                                       | Deja-boo                            |
+| 限定合作舞台                                                                                                                                                                 | [IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink") × [hyukoh](https://zh.wikipedia.org/wiki/hyukoh "wikilink")                                                                                                                                                                                    | Gondry + Knee                       |
+| 熱門歌曲表演                                                                                                                                                                 | [hyukoh](https://zh.wikipedia.org/wiki/hyukoh "wikilink")                                                                                                                                                                                                                                               | Comes And Goes                      |
+| 熱門歌曲表演                                                                                                                                                                 | [Red Velvet](../Page/Red_Velvet.md "wikilink")                                                                                                                                                                                                                                                          | Dumb Dumb + Ice Cream Cake          |
+| 熱門歌曲表演                                                                                                                                                                 | [IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")                                                                                                                                                                                                                                                | Twenty-Three                        |
+| 熱門歌曲表演                                                                                                                                                                 | [Wonder Girls](../Page/Wonder_Girls.md "wikilink")                                                                                                                                                                                                                                                      | I Feel You                          |
+| **2部**\[5\]                                                                                                                                                            |                                                                                                                                                                                                                                                                                                         |                                     |
+| Tribute to Heaven                                                                                                                                                      | [CHEN](https://zh.wikipedia.org/wiki/CHEN "wikilink")（[EXO](../Page/EXO.md "wikilink")）                                                                                                                                                                                                                 | 雖然愛過（原唱：）                           |
+| [伯賢](../Page/伯賢.md "wikilink")（[EXO](../Page/EXO.md "wikilink")）                                                                                                       | 像雨一樣 像音樂一樣（原唱：金玄錫）                                                                                                                                                                                                                                                                                      |                                     |
+| [泰民](../Page/泰民.md "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）                                                                                                 | 因為愛（原唱：柳在夏）                                                                                                                                                                                                                                                                                             |                                     |
+| 熱門歌曲表演                                                                                                                                                                 | [UP10TION](../Page/UP10TION.md "wikilink")                                                                                                                                                                                                                                                              | So, Dangerous + Catch Me\!          |
+| 熱門歌曲表演                                                                                                                                                                 | [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink")                                                                                                                                                                                                                                                     | Adore U                             |
+| 熱門歌曲表演                                                                                                                                                                 | [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")                                                                                                                                                                                                                                                 | Like OOH-AHH                        |
+| 熱門歌曲表演                                                                                                                                                                 | [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")                                                                                                                                                                                                                                           | Trespass + Hero                     |
+| 熱門歌曲表演                                                                                                                                                                 | [B.A.P](../Page/B.A.P.md "wikilink")                                                                                                                                                                                                                                                                    | Young, Wild & Free                  |
+| 熱門歌曲表演                                                                                                                                                                 | [GOT7](../Page/GOT7.md "wikilink")                                                                                                                                                                                                                                                                      | If You Do                           |
+| 熱門歌曲表演                                                                                                                                                                 | [GFRIEND](../Page/GFRIEND.md "wikilink")                                                                                                                                                                                                                                                                | Glass Bead + Me Gustas Tu           |
+| 熱門歌曲表演                                                                                                                                                                 | [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")                                                                                                                                                                                                                                             | For You                             |
+| 熱門歌曲表演                                                                                                                                                                 | [VIXX](../Page/VIXX.md "wikilink")                                                                                                                                                                                                                                                                      | Chained Up                          |
+| 熱門歌曲表演                                                                                                                                                                 | [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")                                                                                                                                                                                                                                                   | Hot Pink                            |
+| 熱門歌曲表演                                                                                                                                                                 | [AOA](../Page/AOA.md "wikilink")                                                                                                                                                                                                                                                                        | Heart Attack                        |
+| 熱門歌曲表演                                                                                                                                                                 | [BTOB](../Page/BTOB.md "wikilink")                                                                                                                                                                                                                                                                      | It's Okay                           |
+| 熱門歌曲表演                                                                                                                                                                 | [B1A4](../Page/B1A4.md "wikilink")                                                                                                                                                                                                                                                                      | Sweet Girl                          |
+| 熱門歌曲表演                                                                                                                                                                 | [4Minute](https://zh.wikipedia.org/wiki/4Minute "wikilink")                                                                                                                                                                                                                                             | Crazy                               |
+| 熱門歌曲表演                                                                                                                                                                 | [INFINITE](../Page/INFINITE.md "wikilink")                                                                                                                                                                                                                                                              | Bad                                 |
+| 熱門歌曲表演                                                                                                                                                                 | [2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")                                                                                                                                                                                                                                                     | My House                            |
+| 熱門歌曲表演                                                                                                                                                                 | [EXO](../Page/EXO.md "wikilink")                                                                                                                                                                                                                                                                        | CALL ME BABY + LOVE ME RIGHT        |
+| 熱門歌曲表演                                                                                                                                                                 | [SHINee](../Page/SHINee.md "wikilink")                                                                                                                                                                                                                                                                  | VIEW + Hitchhiking                  |
+| 限定合作舞台                                                                                                                                                                 | [SHINee](../Page/SHINee.md "wikilink") × [EXO](../Page/EXO.md "wikilink")                                                                                                                                                                                                                               | MAMA + Lucifer                      |
+| 熱門歌曲表演                                                                                                                                                                 | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")                                                                                                                                                                                                                                                   | Catch Me If You Can + Lion Heart    |
+| 熱門歌曲表演                                                                                                                                                                 | [PSY](../Page/PSY.md "wikilink")                                                                                                                                                                                                                                                                        | DADDY + NAPAL BAJI + Gangnam Style  |
 
 ### 2016年
 
@@ -416,8 +416,8 @@ Awards Festival」（SAF）的一部分後附設頒獎環節\[1\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/泰民.md" title="wikilink">泰民</a>（<a href="../Page/SHINee.md" title="wikilink">SHINee</a>）× <a href="../Page/GOT7.md" title="wikilink">GOT7</a>（<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a> × <a href="https://zh.wikipedia.org/wiki/金有謙" title="wikilink">有謙</a>）× <a href="https://zh.wikipedia.org/wiki/Ten_(歌手)" title="wikilink">Ten</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）×<br />
-<a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">瑟琪</a>（<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>）× <a href="https://zh.wikipedia.org/wiki/YooA" title="wikilink">YooA</a>（<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>）× <a href="../Page/安恩真.md" title="wikilink">恩真</a>（<a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a>）× <a href="https://zh.wikipedia.org/wiki/Lisa_(泰國歌手)" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
+<td><p><a href="../Page/泰民.md" title="wikilink">泰民</a>（<a href="../Page/SHINee.md" title="wikilink">SHINee</a>）× <a href="../Page/GOT7.md" title="wikilink">GOT7</a>（<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a> × <a href="../Page/金有謙.md" title="wikilink">有謙</a>）× <a href="../Page/Ten_(歌手).md" title="wikilink">Ten</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）×<br />
+<a href="../Page/瑟琪.md" title="wikilink">瑟琪</a>（<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）× <a href="../Page/YooA.md" title="wikilink">YooA</a>（<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>）× <a href="../Page/安恩真.md" title="wikilink">恩真</a>（<a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a>）× <a href="../Page/Lisa_(泰國歌手).md" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
 <td><p>街舞表演[6]</p></td>
 <td></td>
 </tr>
@@ -475,8 +475,8 @@ I'm Your Girl（原唱：<a href="../Page/S.E.S._(組合).md" title="wikilink">S
 <tr class="odd">
 <td><p>限定合作舞台</p></td>
 <td><p>Sunny Girls（<a href="../Page/Eunha.md" title="wikilink">Eunha</a>（<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>）× <a href="https://zh.wikipedia.org/wiki/程瀟" title="wikilink">程瀟</a>（<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>）×<br />
-<a href="https://zh.wikipedia.org/wiki/娜英" title="wikilink">娜英</a>（<a href="https://zh.wikipedia.org/wiki/gu9udan" title="wikilink">gu9udan</a>）× <a href="https://zh.wikipedia.org/wiki/Nancy_Jewel_McDonie" title="wikilink">Nancy</a>（<a href="https://zh.wikipedia.org/wiki/MOMOLAND" title="wikilink">MOMOLAND</a>）×<br />
-<a href="https://zh.wikipedia.org/wiki/YooA" title="wikilink">YooA</a>（<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>））</p></td>
+<a href="../Page/娜英.md" title="wikilink">娜英</a>（<a href="https://zh.wikipedia.org/wiki/gu9udan" title="wikilink">gu9udan</a>）× <a href="https://zh.wikipedia.org/wiki/Nancy_Jewel_McDonie" title="wikilink">Nancy</a>（<a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a>）×<br />
+<a href="../Page/YooA.md" title="wikilink">YooA</a>（<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>））</p></td>
 <td><p>TAXI[10]</p></td>
 </tr>
 <tr class="even">
@@ -486,7 +486,7 @@ I'm Your Girl（原唱：<a href="../Page/S.E.S._(組合).md" title="wikilink">S
 </tr>
 <tr class="odd">
 <td><p>女團熱門歌曲串燒</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MOMOLAND" title="wikilink">MOMOLAND</a> × <a href="https://zh.wikipedia.org/wiki/gu9udan" title="wikilink">gu9udan</a> × <a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a> × <a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a> × <a href="../Page/CLC.md" title="wikilink">CLC</a> × <a href="../Page/LABOUM.md" title="wikilink">LABOUM</a></p></td>
+<td><p><a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a> × <a href="https://zh.wikipedia.org/wiki/gu9udan" title="wikilink">gu9udan</a> × <a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a> × <a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a> × <a href="../Page/CLC.md" title="wikilink">CLC</a> × <a href="../Page/LABOUM.md" title="wikilink">LABOUM</a></p></td>
 <td><p>JJan! Koong! Kwang! + Wonderland + Secret + Mr.Potter +<br />
 No oh oh + Winter Story[11]</p></td>
 </tr>
@@ -503,7 +503,7 @@ No oh oh + Winter Story[11]</p></td>
 <tr class="even">
 <td><p>限定合作舞台</p></td>
 <td><p><a href="../Page/10cm.md" title="wikilink">10cm</a> × <a href="../Page/Chanyeol.md" title="wikilink">Chanyeol</a>（<a href="../Page/EXO.md" title="wikilink">EXO</a>）×<br />
-<a href="../Page/志效.md" title="wikilink">志效</a>（<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>）× <a href="https://zh.wikipedia.org/wiki/Rosé_(韓國歌手)" title="wikilink">Rosé</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
+<a href="../Page/志效.md" title="wikilink">志效</a>（<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>）× <a href="../Page/Rosé_(韓國歌手).md" title="wikilink">Rosé</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
 <td><p>What The Spring?? + WHISTLE + TT + Monster + 摸摸[12]</p></td>
 </tr>
 <tr class="odd">
@@ -553,7 +553,7 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭承煥" title="wikilink">鄭承煥</a></p></td>
+<td><p><a href="../Page/鄭承煥.md" title="wikilink">鄭承煥</a></p></td>
 <td><p>The Fool[17]</p></td>
 </tr>
 <tr class="odd">
@@ -568,22 +568,22 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="odd">
 <td><p>限定合作舞台</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/楊姬銀" title="wikilink">楊姬銀</a> × <a href="../Page/李遐怡.md" title="wikilink">李遐怡</a> × <a href="../Page/白娥娟.md" title="wikilink">白娥娟</a></p></td>
+<td><p><a href="../Page/楊姬銀.md" title="wikilink">楊姬銀</a> × <a href="../Page/李遐怡.md" title="wikilink">李遐怡</a> × <a href="../Page/白娥娟.md" title="wikilink">白娥娟</a></p></td>
 <td><p>最近怎麼樣？We Love You So[18]</p></td>
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/楊姬銀" title="wikilink">楊姬銀</a></p></td>
+<td><p><a href="../Page/楊姬銀.md" title="wikilink">楊姬銀</a></p></td>
 <td><p>常綠樹</p></td>
 </tr>
 <tr class="odd">
-<td><p>H-IPHOP STAGE produced by <a href="https://zh.wikipedia.org/wiki/泰迪·朴" title="wikilink">Teddy</a></p></td>
+<td><p>H-IPHOP STAGE produced by <a href="../Page/泰迪·朴.md" title="wikilink">Teddy</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>限定合作舞台</p></td>
-<td><p><a href="../Page/G-Dragon.md" title="wikilink">G-Dragon</a>（<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>）× <a href="https://zh.wikipedia.org/wiki/李彩麟" title="wikilink">CL</a>（<a href="../Page/2NE1.md" title="wikilink">2NE1</a>）×  × <a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a></p></td>
+<td><p><a href="../Page/G-Dragon.md" title="wikilink">G-Dragon</a>（<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>）× <a href="https://zh.wikipedia.org/wiki/李彩麟" title="wikilink">CL</a>（<a href="../Page/2NE1.md" title="wikilink">2NE1</a>）×  × <a href="../Page/BewhY.md" title="wikilink">BewhY</a></p></td>
 <td><p>INTRO + ￦1,000,000[19]</p></td>
 </tr>
 <tr class="odd">
@@ -644,7 +644,7 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>One Of These Nights + Russian Roulette[25]</p></td>
 </tr>
 <tr class="odd">
@@ -694,42 +694,42 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>經典歌曲表演</p></td>
-<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a>（<a href="../Page/林在範.md" title="wikilink">JB</a> × <a href="../Page/王嘉爾.md" title="wikilink">Jackson</a> × <a href="../Page/朴珍榮.md" title="wikilink">珍榮</a> × <a href="https://zh.wikipedia.org/wiki/金有謙" title="wikilink">有謙</a>）</p></td>
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a>（<a href="../Page/林在範.md" title="wikilink">JB</a> × <a href="../Page/王嘉爾.md" title="wikilink">Jackson</a> × <a href="../Page/朴珍榮.md" title="wikilink">珍榮</a> × <a href="../Page/金有謙.md" title="wikilink">有謙</a>）</p></td>
 <td><p>It's Raining（原唱：<a href="../Page/Rain.md" title="wikilink">Rain</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>經典歌曲表演</p></td>
-<td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>（<a href="https://zh.wikipedia.org/wiki/李知勳_(SEVENTEEN)" title="wikilink">WOOZI</a> × <a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a> × <a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a> × <a href="https://zh.wikipedia.org/wiki/李燦_(SEVENTEEN)" title="wikilink">Dino</a>）</p></td>
+<td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>（<a href="../Page/李知勳_(SEVENTEEN).md" title="wikilink">WOOZI</a> × <a href="../Page/夫勝寛.md" title="wikilink">勝寛</a> × <a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a> × <a href="../Page/李燦_(SEVENTEEN).md" title="wikilink">Dino</a>）</p></td>
 <td><p>Friday Night（原唱：<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>限定合作舞台</p></td>
-<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a>（<a href="../Page/林在範.md" title="wikilink">JB</a> × <a href="../Page/王嘉爾.md" title="wikilink">Jackson</a> × <a href="../Page/朴珍榮.md" title="wikilink">珍榮</a> × <a href="https://zh.wikipedia.org/wiki/金有謙" title="wikilink">有謙</a>）×<br />
-<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>（<a href="https://zh.wikipedia.org/wiki/李知勳_(SEVENTEEN)" title="wikilink">WOOZI</a> × <a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a> × <a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a> × <a href="https://zh.wikipedia.org/wiki/李燦_(SEVENTEEN)" title="wikilink">Dino</a>）</p></td>
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a>（<a href="../Page/林在範.md" title="wikilink">JB</a> × <a href="../Page/王嘉爾.md" title="wikilink">Jackson</a> × <a href="../Page/朴珍榮.md" title="wikilink">珍榮</a> × <a href="../Page/金有謙.md" title="wikilink">有謙</a>）×<br />
+<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>（<a href="../Page/李知勳_(SEVENTEEN).md" title="wikilink">WOOZI</a> × <a href="../Page/夫勝寛.md" title="wikilink">勝寛</a> × <a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a> × <a href="../Page/李燦_(SEVENTEEN).md" title="wikilink">Dino</a>）</p></td>
 <td><p>不要離開我（原唱：<a href="../Page/朴軫永.md" title="wikilink">朴軫永</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>經典歌曲表演</p></td>
-<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>（<a href="https://zh.wikipedia.org/wiki/Yerin" title="wikilink">Yerin</a> × <a href="../Page/Eunha.md" title="wikilink">Eunha</a> × <a href="../Page/Yuju.md" title="wikilink">Yuju</a> × <a href="../Page/SinB.md" title="wikilink">SinB</a>）</p></td>
+<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>（<a href="../Page/Yerin.md" title="wikilink">Yerin</a> × <a href="../Page/Eunha.md" title="wikilink">Eunha</a> × <a href="../Page/Yuju.md" title="wikilink">Yuju</a> × <a href="../Page/SinB.md" title="wikilink">SinB</a>）</p></td>
 <td><p>Bad Girl Good Girl（原唱：<a href="https://zh.wikipedia.org/wiki/miss_A" title="wikilink">miss A</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>經典歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>（<a href="../Page/娜璉.md" title="wikilink">娜璉</a> × <a href="https://zh.wikipedia.org/wiki/定延" title="wikilink">定延</a> × <a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a> × <a href="../Page/Mina_(TWICE).md" title="wikilink">Mina</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>（<a href="../Page/娜璉.md" title="wikilink">娜璉</a> × <a href="../Page/定延.md" title="wikilink">定延</a> × <a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a> × <a href="../Page/Mina_(TWICE).md" title="wikilink">Mina</a>）</p></td>
 <td><p>24 hours（原唱：<a href="https://zh.wikipedia.org/wiki/善美" title="wikilink">善美</a>）[32]</p></td>
 </tr>
 <tr class="odd">
 <td><p>限定合作舞台</p></td>
-<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>（<a href="https://zh.wikipedia.org/wiki/Yerin" title="wikilink">Yerin</a> × <a href="../Page/Eunha.md" title="wikilink">Eunha</a> × <a href="../Page/Yuju.md" title="wikilink">Yuju</a> × <a href="../Page/SinB.md" title="wikilink">SinB</a>）×<br />
-<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>（<a href="../Page/娜璉.md" title="wikilink">娜璉</a> × <a href="https://zh.wikipedia.org/wiki/定延" title="wikilink">定延</a> × <a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a> × <a href="../Page/Mina_(TWICE).md" title="wikilink">Mina</a>）</p></td>
+<td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>（<a href="../Page/Yerin.md" title="wikilink">Yerin</a> × <a href="../Page/Eunha.md" title="wikilink">Eunha</a> × <a href="../Page/Yuju.md" title="wikilink">Yuju</a> × <a href="../Page/SinB.md" title="wikilink">SinB</a>）×<br />
+<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>（<a href="../Page/娜璉.md" title="wikilink">娜璉</a> × <a href="../Page/定延.md" title="wikilink">定延</a> × <a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a> × <a href="../Page/Mina_(TWICE).md" title="wikilink">Mina</a>）</p></td>
 <td><p>Tell me（原唱：<a href="../Page/Wonder_Girls.md" title="wikilink">Wonder Girls</a>）[33]</p></td>
 </tr>
 <tr class="even">
 <td><p>限定合作舞台</p></td>
-<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a>（<a href="../Page/林在範.md" title="wikilink">JB</a> × <a href="../Page/王嘉爾.md" title="wikilink">Jackson</a> × <a href="../Page/朴珍榮.md" title="wikilink">珍榮</a> × <a href="https://zh.wikipedia.org/wiki/金有謙" title="wikilink">有謙</a>）×<br />
-<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>（<a href="https://zh.wikipedia.org/wiki/李知勳_(SEVENTEEN)" title="wikilink">WOOZI</a> × <a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a> × <a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a> × <a href="https://zh.wikipedia.org/wiki/李燦_(SEVENTEEN)" title="wikilink">Dino</a>）×<br />
-<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>（<a href="https://zh.wikipedia.org/wiki/Yerin" title="wikilink">Yerin</a> × <a href="../Page/Eunha.md" title="wikilink">Eunha</a> × <a href="../Page/Yuju.md" title="wikilink">Yuju</a> × <a href="../Page/SinB.md" title="wikilink">SinB</a>）×<br />
-<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>（<a href="../Page/娜璉.md" title="wikilink">娜璉</a> × <a href="https://zh.wikipedia.org/wiki/定延" title="wikilink">定延</a> × <a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a> × <a href="../Page/Mina_(TWICE).md" title="wikilink">Mina</a>）</p></td>
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a>（<a href="../Page/林在範.md" title="wikilink">JB</a> × <a href="../Page/王嘉爾.md" title="wikilink">Jackson</a> × <a href="../Page/朴珍榮.md" title="wikilink">珍榮</a> × <a href="../Page/金有謙.md" title="wikilink">有謙</a>）×<br />
+<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>（<a href="../Page/李知勳_(SEVENTEEN).md" title="wikilink">WOOZI</a> × <a href="../Page/夫勝寛.md" title="wikilink">勝寛</a> × <a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a> × <a href="../Page/李燦_(SEVENTEEN).md" title="wikilink">Dino</a>）×<br />
+<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>（<a href="../Page/Yerin.md" title="wikilink">Yerin</a> × <a href="../Page/Eunha.md" title="wikilink">Eunha</a> × <a href="../Page/Yuju.md" title="wikilink">Yuju</a> × <a href="../Page/SinB.md" title="wikilink">SinB</a>）×<br />
+<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>（<a href="../Page/娜璉.md" title="wikilink">娜璉</a> × <a href="../Page/定延.md" title="wikilink">定延</a> × <a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a> × <a href="../Page/Mina_(TWICE).md" title="wikilink">Mina</a>）</p></td>
 <td><p>Who's your mama?（原唱：<a href="../Page/朴軫永.md" title="wikilink">朴軫永</a>）[34]</p></td>
 </tr>
 <tr class="odd">
@@ -773,7 +773,7 @@ No oh oh + Winter Story[11]</p></td>
 <td><p>Intro（<a href="../Page/Kai.md" title="wikilink">Kai</a> Solo舞蹈表演）+ Monster</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/EXO.md" title="wikilink">EXO</a>（<a href="../Page/Kai.md" title="wikilink">Kai</a> × <a href="https://zh.wikipedia.org/wiki/Sehun" title="wikilink">Sehun</a>）</p></td>
+<td><p><a href="../Page/EXO.md" title="wikilink">EXO</a>（<a href="../Page/Kai.md" title="wikilink">Kai</a> × <a href="../Page/Sehun.md" title="wikilink">Sehun</a>）</p></td>
 <td><p>舞蹈表演：One And Only[38]</p></td>
 <td></td>
 </tr>
@@ -850,7 +850,7 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="odd">
 <td><p>NUMBER ONE SPECIAL</p></td>
-<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a>（<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a> × <a href="../Page/BamBam.md" title="wikilink">BamBam</a> × <a href="https://zh.wikipedia.org/wiki/金有謙" title="wikilink">有謙</a>）× <a href="https://zh.wikipedia.org/wiki/NCT_127" title="wikilink">NCT 127</a>（<a href="../Page/泰容.md" title="wikilink">泰容</a> × <a href="../Page/悠太.md" title="wikilink">悠太</a> × <a href="https://zh.wikipedia.org/wiki/道英" title="wikilink">道英</a>）</p></td>
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a>（<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a> × <a href="../Page/BamBam.md" title="wikilink">BamBam</a> × <a href="../Page/金有謙.md" title="wikilink">有謙</a>）× <a href="https://zh.wikipedia.org/wiki/NCT_127" title="wikilink">NCT 127</a>（<a href="../Page/泰容.md" title="wikilink">泰容</a> × <a href="../Page/悠太.md" title="wikilink">悠太</a> × <a href="../Page/道英.md" title="wikilink">道英</a>）</p></td>
 <td><p>Hey, Come on! 2017（原唱：<a href="https://zh.wikipedia.org/wiki/神話_(組合)" title="wikilink">神話</a>）[50]</p></td>
 </tr>
 <tr class="even">
@@ -880,12 +880,12 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛</a></p></td>
+<td><p><a href="../Page/李笛.md" title="wikilink">李笛</a></p></td>
 <td><p>Compass[57]</p></td>
 </tr>
 <tr class="even">
 <td><p>NUMBER ONE SPECIAL</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛</a> × <a href="https://zh.wikipedia.org/wiki/Heize" title="wikilink">Heize</a></p></td>
+<td><p><a href="../Page/李笛.md" title="wikilink">李笛</a> × <a href="https://zh.wikipedia.org/wiki/Heize" title="wikilink">Heize</a></p></td>
 <td><p>蝸牛2017（原唱：）[58]</p></td>
 </tr>
 <tr class="odd">
@@ -900,7 +900,7 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="odd">
 <td><p>NUMBER ONE SPECIAL</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柳喜烈" title="wikilink">柳喜烈</a> × <a href="https://zh.wikipedia.org/wiki/IU_(藝人)" title="wikilink">IU</a></p></td>
+<td><p><a href="../Page/柳喜烈.md" title="wikilink">柳喜烈</a> × <a href="https://zh.wikipedia.org/wiki/IU_(藝人)" title="wikilink">IU</a></p></td>
 <td><p>我的愛在我身邊2017（原唱：）[62]</p></td>
 </tr>
 <tr class="even">
@@ -910,7 +910,7 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="odd">
 <td><p>限定合作舞台</p></td>
-<td><p><a href="../Page/志效.md" title="wikilink">志效</a>（<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>）× <a href="../Page/陸星材.md" title="wikilink">陸星材</a>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a>）× <a href="https://zh.wikipedia.org/wiki/Rosé_(韓國歌手)" title="wikilink">Rosé</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）×<br />
+<td><p><a href="../Page/志效.md" title="wikilink">志效</a>（<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>）× <a href="../Page/陸星材.md" title="wikilink">陸星材</a>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a>）× <a href="../Page/Rosé_(韓國歌手).md" title="wikilink">Rosé</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）×<br />
 <a href="../Page/Yuju.md" title="wikilink">Yuju</a>（<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>）× <a href="https://zh.wikipedia.org/wiki/金在奐" title="wikilink">金在奐</a>（<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>）</p></td>
 <td><p>Butterfly（原唱：<a href="https://zh.wikipedia.org/wiki/狂戀樂團" title="wikilink">狂戀樂團</a>）[63]</p></td>
 </tr>
@@ -936,7 +936,7 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>Peek-A-Boo[68] + Red Flavor[69]</p></td>
 </tr>
 <tr class="odd">
@@ -951,7 +951,7 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="odd">
 <td><p>NUMBER ONE SPECIAL</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>（<a href="https://zh.wikipedia.org/wiki/河成雲" title="wikilink">河成雲</a> × <a href="../Page/黃旼炫.md" title="wikilink">黃旼炫</a> × <a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a> × <a href="https://zh.wikipedia.org/wiki/姜丹尼爾" title="wikilink">姜丹尼爾</a> × <a href="https://zh.wikipedia.org/wiki/朴佑鎮" title="wikilink">朴佑鎮</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>（<a href="../Page/河成雲.md" title="wikilink">河成雲</a> × <a href="../Page/黃旼炫.md" title="wikilink">黃旼炫</a> × <a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a> × <a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a> × <a href="../Page/朴佑鎮.md" title="wikilink">朴佑鎮</a>）</p></td>
 <td><p>We Are The Future 2017（原唱：<a href="../Page/H.O.T..md" title="wikilink">H.O.T.</a>）[72]</p></td>
 </tr>
 <tr class="even">
@@ -992,7 +992,7 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>開場表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金有謙" title="wikilink">有謙</a>（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
+<td><p><a href="../Page/金有謙.md" title="wikilink">有謙</a>（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
 <td><p>舞蹈表演</p></td>
 </tr>
 <tr class="odd">
@@ -1002,18 +1002,18 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>限定合作舞台</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">THE BOYZ</a> × <a href="https://zh.wikipedia.org/wiki/Stray_Kids" title="wikilink">Stray Kids</a> × <a href="https://zh.wikipedia.org/wiki/(G)I-DLE" title="wikilink">(G)I-DLE</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">THE BOYZ</a> × <a href="https://zh.wikipedia.org/wiki/Stray_Kids" title="wikilink">Stray Kids</a> × <a href="../Page/(G)I-DLE.md" title="wikilink">(G)I-DLE</a></p></td>
 <td><p>絲帶舞表演</p></td>
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Stray_Kids" title="wikilink">Stray Kids</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/I_am_NOT_(Stray_Kids迷你專輯)" title="wikilink">District 9</a></p></td>
+<td><p><a href="../Page/I_am_NOT_(Stray_Kids迷你專輯).md" title="wikilink">District 9</a></p></td>
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/(G)I-DLE" title="wikilink">(G)I-DLE</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/I_am" title="wikilink">LATATA</a>[81]</p></td>
+<td><p><a href="../Page/(G)I-DLE.md" title="wikilink">(G)I-DLE</a></p></td>
+<td><p><a href="../Page/I_am.md" title="wikilink">LATATA</a>[81]</p></td>
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲表演</p></td>
@@ -1022,23 +1022,23 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MOMOLAND" title="wikilink">MOMOLAND</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BBoom_BBoom" title="wikilink">BBoom BBoom</a></p></td>
+<td><p><a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a></p></td>
+<td><p><a href="../Page/BBoom_BBoom.md" title="wikilink">BBoom BBoom</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="../Page/NCT.md" title="wikilink">NCT 2018</a> → <a href="https://zh.wikipedia.org/wiki/NCT_U" title="wikilink">NCT U</a> → <a href="https://zh.wikipedia.org/wiki/NCT_DREAM" title="wikilink">NCT DREAM</a> → <a href="https://zh.wikipedia.org/wiki/NCT_127" title="wikilink">NCT 127</a> → <a href="../Page/NCT.md" title="wikilink">NCT 2018</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NCT_2018_Empathy" title="wikilink">NEO GOT MY ZONE</a> + <a href="https://zh.wikipedia.org/wiki/NCT_2018_Empathy" title="wikilink">BOSS</a> + We Go Up + Regular + <a href="https://zh.wikipedia.org/wiki/NCT_2018_Empathy" title="wikilink">Black on Black</a>[82]</p></td>
+<td><p><a href="../Page/NCT_2018_Empathy.md" title="wikilink">NEO GOT MY ZONE</a> + <a href="../Page/NCT_2018_Empathy.md" title="wikilink">BOSS</a> + We Go Up + Regular + <a href="../Page/NCT_2018_Empathy.md" title="wikilink">Black on Black</a>[82]</p></td>
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a></p></td>
-<td><p>Winter Winter（原曲：<a href="https://zh.wikipedia.org/wiki/Sunny_Summer" title="wikilink">Sunny Summer</a>）+ <a href="https://zh.wikipedia.org/wiki/Time_For_The_Moon_Night" title="wikilink">Time For The Moon Night</a></p></td>
+<td><p>Winter Winter（原曲：<a href="../Page/Sunny_Summer.md" title="wikilink">Sunny Summer</a>）+ <a href="../Page/Time_For_The_Moon_Night.md" title="wikilink">Time For The Moon Night</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/You_Make_My_Day" title="wikilink">Oh My!</a>[83] + CALL CALL CALL![84]</p></td>
+<td><p><a href="../Page/You_Make_My_Day.md" title="wikilink">Oh My!</a>[83] + CALL CALL CALL![84]</p></td>
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
@@ -1052,13 +1052,13 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>限定合作舞台</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>（<a href="https://zh.wikipedia.org/wiki/Irene_(Red_Velvet)" title="wikilink">Irene</a> × <a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">瑟琪</a> × <a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a>）× <a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>（<a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a> × <a href="../Page/彩瑛.md" title="wikilink">彩瑛</a> × <a href="../Page/周子瑜.md" title="wikilink">子瑜</a>）</p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>（<a href="../Page/Irene_(Red_Velvet).md" title="wikilink">Irene</a> × <a href="../Page/瑟琪.md" title="wikilink">瑟琪</a> × <a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a>）× <a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>（<a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a> × <a href="../Page/彩瑛.md" title="wikilink">彩瑛</a> × <a href="../Page/周子瑜.md" title="wikilink">子瑜</a>）</p></td>
 <td><p>Dreams Come True（原唱：<a href="../Page/S.E.S._(組合).md" title="wikilink">S.E.S.</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>限定合作舞台</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>（<a href="../Page/孫賢祐.md" title="wikilink">Shownu</a> × <a href="https://zh.wikipedia.org/wiki/李虎錫" title="wikilink">元虎</a>）× <a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>（<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a> × <a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a>）×<br />
-<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>（<a href="https://zh.wikipedia.org/wiki/朴佑鎮" title="wikilink">佑鎮</a> × <a href="https://zh.wikipedia.org/wiki/裴珍映" title="wikilink">珍映</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>（<a href="../Page/孫賢祐.md" title="wikilink">Shownu</a> × <a href="../Page/李虎錫.md" title="wikilink">元虎</a>）× <a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>（<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a> × <a href="../Page/金珉奎.md" title="wikilink">珉奎</a>）×<br />
+<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>（<a href="../Page/朴佑鎮.md" title="wikilink">佑鎮</a> × <a href="https://zh.wikipedia.org/wiki/裴珍映" title="wikilink">珍映</a>）</p></td>
 <td><p>Again &amp; Again（原唱：<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>）</p></td>
 </tr>
 <tr class="even">
@@ -1068,23 +1068,23 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="../Page/EXO.md" title="wikilink">EXO</a>（<a href="https://zh.wikipedia.org/wiki/伯賢" title="wikilink">伯賢</a> × <a href="../Page/CHEN_(EXO).md" title="wikilink">CHEN</a> × <a href="../Page/Chanyeol.md" title="wikilink">燦烈</a> × <a href="../Page/都敬秀.md" title="wikilink">D.O.</a>）</p></td>
+<td><p><a href="../Page/EXO.md" title="wikilink">EXO</a>（<a href="../Page/伯賢.md" title="wikilink">伯賢</a> × <a href="../Page/CHEN_(EXO).md" title="wikilink">CHEN</a> × <a href="../Page/Chanyeol.md" title="wikilink">燦烈</a> × <a href="../Page/都敬秀.md" title="wikilink">D.O.</a>）</p></td>
 <td><p>Miracles in December[86]</p></td>
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/The_Perfect_Red_Velvet" title="wikilink">Bad Boy</a>[87] + <a href="https://zh.wikipedia.org/wiki/RBB" title="wikilink">RBB (Really Bad Boy)</a>[88]</p></td>
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="../Page/Apink.md" title="wikilink">Apink</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_&amp;_SIX" title="wikilink">I'm so sick</a></p></td>
+<td><p><a href="../Page/ONE_&amp;_SIX.md" title="wikilink">I'm so sick</a></p></td>
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a></p></td>
-<td><p>Intro（<a href="../Page/B.I.md" title="wikilink">B.I</a> × <a href="https://zh.wikipedia.org/wiki/金振煥" title="wikilink">金振煥</a> × <a href="https://zh.wikipedia.org/wiki/金東赫" title="wikilink">金東赫</a> Solo舞蹈表演）+ KILLING ME + <a href="https://zh.wikipedia.org/wiki/Return_(iKON專輯)" title="wikilink">LOVE SCENARIO</a></p></td>
+<td><p>Intro（<a href="../Page/B.I.md" title="wikilink">B.I</a> × <a href="../Page/金振煥.md" title="wikilink">金振煥</a> × <a href="../Page/金東赫.md" title="wikilink">金東赫</a> Solo舞蹈表演）+ KILLING ME + <a href="../Page/Return_(iKON專輯).md" title="wikilink">LOVE SCENARIO</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>LEGENDARY WAVE</p></td>
@@ -1103,9 +1103,9 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>限定合作舞台</p></td>
-<td><p>宋英珠Trio × <a href="../Page/尹普美.md" title="wikilink">普美</a>（<a href="../Page/Apink.md" title="wikilink">Apink</a>）× <a href="https://zh.wikipedia.org/wiki/玟星" title="wikilink">玟星</a>（<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>）×<br />
+<td><p>宋英珠Trio × <a href="../Page/尹普美.md" title="wikilink">普美</a>（<a href="../Page/Apink.md" title="wikilink">Apink</a>）× <a href="../Page/玟星.md" title="wikilink">玟星</a>（<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>）×<br />
 <a href="../Page/Eunha.md" title="wikilink">Eunha</a>（<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>）× <a href="../Page/多賢.md" title="wikilink">多賢</a>（<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/花路" title="wikilink">FLOWER ROAD</a>（原唱：<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>）</p></td>
+<td><p><a href="../Page/花路.md" title="wikilink">FLOWER ROAD</a>（原唱：<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>Colorful WAVE</p></td>
@@ -1115,17 +1115,17 @@ No oh oh + Winter Story[11]</p></td>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Eyes_On_You" title="wikilink">LOOK</a>[89] + <a href="../Page/Present:_YOU.md" title="wikilink">Lullaby</a>[90]</p></td>
+<td><p><a href="../Page/Eyes_On_You.md" title="wikilink">LOOK</a>[89] + <a href="../Page/Present:_YOU.md" title="wikilink">Lullaby</a>[90]</p></td>
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a></p></td>
-<td><p><a href="../Page/1÷x=1_(Undivided).md" title="wikilink">Light</a>[91] + <a href="https://zh.wikipedia.org/wiki/0+1=1_(I_Promise_You)" title="wikilink">BOOMERANG</a>[92]</p></td>
+<td><p><a href="../Page/1÷x=1_(Undivided).md" title="wikilink">Light</a>[91] + <a href="../Page/0+1=1_(I_Promise_You).md" title="wikilink">BOOMERANG</a>[92]</p></td>
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Yellow_Flower" title="wikilink">Starry Night</a>[93] + <a href="../Page/BLUE;S_(Mamamoo迷你專輯).md" title="wikilink">Wind Flower</a>[94]</p></td>
+<td><p><a href="../Page/Yellow_Flower.md" title="wikilink">Starry Night</a>[93] + <a href="../Page/BLUE;S_(Mamamoo迷你專輯).md" title="wikilink">Wind Flower</a>[94]</p></td>
 </tr>
 <tr class="odd">
 <td><p>GLOBAL WAVE</p></td>
@@ -1135,13 +1135,13 @@ No oh oh + Winter Story[11]</p></td>
 <tr class="even">
 <td><p>限定合作舞台</p></td>
 <td><p><a href="../Page/林在範.md" title="wikilink">JB</a>（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）× <a href="../Page/姜昇潤.md" title="wikilink">昇潤</a>（<a href="../Page/WINNER.md" title="wikilink">WINNER</a>）× <a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>（<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>）×<br />
-<a href="https://zh.wikipedia.org/wiki/道英" title="wikilink">道英</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）× <a href="https://zh.wikipedia.org/wiki/金在奐" title="wikilink">在奐</a>（<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>）</p></td>
+<a href="../Page/道英.md" title="wikilink">道英</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）× <a href="https://zh.wikipedia.org/wiki/金在奐" title="wikilink">在奐</a>（<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>）</p></td>
 <td><p>Don't Stop Me Now（原唱：<a href="https://zh.wikipedia.org/wiki/皇后樂團" title="wikilink">皇后樂團</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宣美" title="wikilink">宣美</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Gashina" title="wikilink">Gashina</a> + <a href="https://zh.wikipedia.org/wiki/Heroine" title="wikilink">Heroine</a>[95] + Siren[96]</p></td>
+<td><p><a href="../Page/Gashina.md" title="wikilink">Gashina</a> + <a href="../Page/Heroine.md" title="wikilink">Heroine</a>[95] + Siren[96]</p></td>
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
@@ -1155,7 +1155,7 @@ No oh oh + Winter Story[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Jennie_(韓國歌手)" title="wikilink">JENNIE</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
+<td><p><a href="../Page/Jennie_(韓國歌手).md" title="wikilink">JENNIE</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
 <td><p><a href="../Page/Solo_(單曲).md" title="wikilink">SOLO</a>[100]</p></td>
 </tr>
 <tr class="odd">
@@ -1166,28 +1166,28 @@ No oh oh + Winter Story[11]</p></td>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>（<a href="../Page/娜璉.md" title="wikilink">娜璉</a> × <a href="../Page/志效.md" title="wikilink">志效</a> × <a href="../Page/Mina_(TWICE).md" title="wikilink">Mina</a> × <a href="../Page/彩瑛.md" title="wikilink">彩瑛</a>）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/What_is_Love?" title="wikilink">What is Love</a>?[102]</p></td>
+<td><p><a href="../Page/What_is_Love?.md" title="wikilink">What is Love</a>?[102]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>（<a href="https://zh.wikipedia.org/wiki/定延" title="wikilink">定延</a> × <a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a> × <a href="../Page/Sana_(TWICE).md" title="wikilink">Sana</a> × <a href="../Page/多賢.md" title="wikilink">多賢</a> × <a href="../Page/周子瑜.md" title="wikilink">子瑜</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>（<a href="../Page/定延.md" title="wikilink">定延</a> × <a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a> × <a href="../Page/Sana_(TWICE).md" title="wikilink">Sana</a> × <a href="../Page/多賢.md" title="wikilink">多賢</a> × <a href="../Page/周子瑜.md" title="wikilink">子瑜</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/YES_or_YES" title="wikilink">YES or YES</a>[103]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Summer_Nights" title="wikilink">Dance The Night Away</a>[104]</p></td>
+<td><p><a href="../Page/Summer_Nights.md" title="wikilink">Dance The Night Away</a>[104]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲串燒</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2_COOL_4_SKOOL" title="wikilink">No More Dream</a>[105] + <a href="https://zh.wikipedia.org/wiki/Skool_Luv_Affair" title="wikilink">Boy in Luv</a>[106] + <a href="../Page/花樣年華_pt.1.md" title="wikilink">DOPE</a> + <a href="../Page/花樣年華_Young_Forever.md" title="wikilink">FIRE</a>[107] + <a href="https://zh.wikipedia.org/wiki/Love_Yourself_承_&#39;Her&#39;" title="wikilink">DNA</a>[108] + IDOL[109]</p></td>
+<td><p><a href="../Page/2_COOL_4_SKOOL.md" title="wikilink">No More Dream</a>[105] + <a href="../Page/Skool_Luv_Affair.md" title="wikilink">Boy in Luv</a>[106] + <a href="../Page/花樣年華_pt.1.md" title="wikilink">DOPE</a> + <a href="../Page/花樣年華_Young_Forever.md" title="wikilink">FIRE</a>[107] + <a href="../Page/Love_Yourself_承_&#39;Her&#39;.md" title="wikilink">DNA</a>[108] + IDOL[109]</p></td>
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
 <td><p>Intro（<a href="https://zh.wikipedia.org/wiki/KAI" title="wikilink">KAI</a> Solo舞蹈表演）+ <a href="../Page/Don&#39;t_Mess_Up_My_Tempo.md" title="wikilink">LOVE SHOT</a>[110] +<br />
-Inter（<a href="../Page/CHEN_(EXO).md" title="wikilink">CHEN領唱</a>；<a href="https://zh.wikipedia.org/wiki/世勳" title="wikilink">世勳</a> × <a href="https://zh.wikipedia.org/wiki/伯賢" title="wikilink">伯賢舞蹈表演</a>）+ <a href="../Page/Don&#39;t_Mess_Up_My_Tempo.md" title="wikilink">TEMPO</a>[111]</p></td>
+Inter（<a href="../Page/CHEN_(EXO).md" title="wikilink">CHEN領唱</a>；<a href="https://zh.wikipedia.org/wiki/世勳" title="wikilink">世勳</a> × <a href="../Page/伯賢.md" title="wikilink">伯賢舞蹈表演</a>）+ <a href="../Page/Don&#39;t_Mess_Up_My_Tempo.md" title="wikilink">TEMPO</a>[111]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1196,10 +1196,10 @@ Inter（<a href="../Page/CHEN_(EXO).md" title="wikilink">CHEN領唱</a>；<a hre
 
   - [Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")
 
-  - [KBS歌謠盛典](https://zh.wikipedia.org/wiki/KBS歌謠盛典 "wikilink")
+  - [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")
 
   -
-  - [MBC歌謠大祭典](https://zh.wikipedia.org/wiki/MBC歌謠大祭典 "wikilink")
+  - [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")
 
 ## 參考資料
 

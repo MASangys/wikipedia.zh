@@ -73,7 +73,7 @@
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/INFINITE_ONLY" title="wikilink">INFINITE ONLY</a>》</p></td>
+<td><p>《<a href="../Page/INFINITE_ONLY.md" title="wikilink">INFINITE ONLY</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -468,7 +468,7 @@
 <tr class="even">
 <td><p>2016年</p></td>
 <td><p>唱片本賞</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/INFINITE_ONLY" title="wikilink">INFINITE ONLY</a>》</p></td>
+<td><p>《<a href="../Page/INFINITE_ONLY.md" title="wikilink">INFINITE ONLY</a>》</p></td>
 <td><p>[8]</p></td>
 </tr>
 <tr class="odd">
@@ -632,7 +632,7 @@
 </tr>
 <tr class="odd">
 <td><p>最佳音樂錄影帶（男歌手）</p></td>
-<td><p>Delicious（<a href="https://zh.wikipedia.org/wiki/Toheart" title="wikilink">Toheart</a>）</p></td>
+<td><p>Delicious（<a href="../Page/Toheart.md" title="wikilink">Toheart</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -845,9 +845,9 @@
 
 ## 音樂節目獎項
 
-成員個人活動（[金聖圭](../Page/金聖圭.md "wikilink")、[南優鉉](https://zh.wikipedia.org/wiki/南優賢 "wikilink")）、及子團（[INFINITE
+成員個人活動（[金聖圭](../Page/金聖圭.md "wikilink")、[南優鉉](../Page/南優賢.md "wikilink")）、及子團（[INFINITE
 H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")、[INFINITE
-F](../Page/INFINITE_F.md "wikilink")、[Toheart](https://zh.wikipedia.org/wiki/Toheart "wikilink")）所獲獎項請參閱各成員及子團之條目。
+F](../Page/INFINITE_F.md "wikilink")、[Toheart](../Page/Toheart.md "wikilink")）所獲獎項請參閱各成員及子團之條目。
 
 <table>
 <thead>

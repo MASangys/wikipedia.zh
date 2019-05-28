@@ -11,7 +11,7 @@ Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》后打造的全新形式的[H
 ## 導師
 
   -
-  - [Jessi](https://zh.wikipedia.org/wiki/Jessi "wikilink")
+  - [Jessi](../Page/Jessi.md "wikilink")
 
   - 、
 

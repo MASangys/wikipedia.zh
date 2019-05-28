@@ -36,7 +36,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     2016 "E.G. SMILE" in 埼玉超級競技場」全曲影像及演唱會記錄片（Documentary Movie）。
   - 在1月30日於公信榜專輯週排行榜取得第1位，繼《[Lesson
     1](../Page/Lesson_1.md "wikilink")》、《[COLORFUL
-    POP](https://zh.wikipedia.org/wiki/COLORFUL_POP "wikilink")》、《[E.G.
+    POP](../Page/COLORFUL_POP.md "wikilink")》、《[E.G.
     TIME](../Page/E.G._TIME.md "wikilink")》後，第4張專輯於排行榜取得第1位。
 
 ## 收錄內容
@@ -171,8 +171,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 2.  Anniversary\!\!
 3.  [Follow Me](../Page/Follow_Me.md "wikilink")
 4.  [CANDY SMILE](../Page/CANDY_SMILE.md "wikilink")
-5.  [Diamond
-    Only](https://zh.wikipedia.org/wiki/Diamond_Only "wikilink")
+5.  [Diamond Only](../Page/Diamond_Only.md "wikilink")
 6.  [Holiday](https://zh.wikipedia.org/wiki/Holiday_\(Happiness單曲\) "wikilink")
     / Happiness
 7.  [Sexy Young
@@ -187,8 +186,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     Everything](https://zh.wikipedia.org/wiki/Try_Everything "wikilink")
     / Dream Ami
 12. DJ Erie 組曲
-    1.  [RYDEEN ～Dance All
-        Night～](https://zh.wikipedia.org/wiki/COLORFUL_POP "wikilink")
+    1.  [RYDEEN ～Dance All Night～](../Page/COLORFUL_POP.md "wikilink")
         (Oliver Rosa Remix)
     2.  [Celebration\!](../Page/Celebration!.md "wikilink") (Ravitez
         Remix)
@@ -214,8 +212,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     4.  [大家來跳舞](../Page/大家來跳舞_\(E-girls單曲\).md "wikilink")
     5.  [轉啊轉](../Page/轉啊轉.md "wikilink")
 19. E.G. summer RIDER
-20. [滿懷歉意的Kissing
-    You](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")
+20. [滿懷歉意的Kissing You](../Page/滿懷歉意的Kissing_You.md "wikilink")
 21. [自由女神 〜Yuvuraia〜](../Page/E.G._TIME.md "wikilink")
 22. [向日葵（E-girls Version）](../Page/Follow_Me.md "wikilink")
 23. [高興\! 快樂\! 我愛你\!](../Page/大家來跳舞_\(E-girls單曲\).md "wikilink")

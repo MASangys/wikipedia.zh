@@ -147,10 +147,10 @@
 ### 最佳女主角
 
   - 獲得最多次最佳女主角的演員為3度奪奬的[仲間由紀惠](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")，亦是唯一一位蟬聯此奬項的女演員（[第12回及](https://zh.wikipedia.org/wiki/第12回TV_LIFE年度日劇大賞 "wikilink")[第13回](https://zh.wikipedia.org/wiki/第13回TV_LIFE年度日劇大賞 "wikilink")）。
-  - 最年輕的得主是[第16回的](https://zh.wikipedia.org/wiki/第16回TV_LIFE年度日劇大賞 "wikilink")[志田未來](../Page/志田未來.md "wikilink")《[14歲媽媽](../Page/14歲媽媽.md "wikilink")》，得奬時只有13歲。
+  - 最年輕的得主是[第16回的](../Page/第16回TV_LIFE年度日劇大賞.md "wikilink")[志田未來](../Page/志田未來.md "wikilink")《[14歲媽媽](../Page/14歲媽媽.md "wikilink")》，得奬時只有13歲。
   - [松嶋菜菜子於](../Page/松嶋菜菜子.md "wikilink")1999年首次摘下最佳女主角，直至2011年才第二度獲獎，相隔了12年，為獲獎時間相隔最長的女演員。
-  - 截至2019年，共有3位女演員因演出[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")[晨間劇獲頒最佳女主角](../Page/連續電視小說.md "wikilink")，依次為[第22回的](https://zh.wikipedia.org/wiki/第22回TV_LIFE年度日劇大賞 "wikilink")[堀北真希](../Page/堀北真希.md "wikilink")《[小梅醫生](../Page/小梅醫生.md "wikilink")》、[第23回的](https://zh.wikipedia.org/wiki/第23回TV_LIFE年度日劇大賞 "wikilink")[能年玲奈](../Page/能年玲奈.md "wikilink")《[小海女](https://zh.wikipedia.org/wiki/小海女 "wikilink")》以及[第24回的](https://zh.wikipedia.org/wiki/第24回TV_LIFE年度日劇大賞 "wikilink")[杏](../Page/杏_\(演員\).md "wikilink")《[多謝款待](../Page/多謝款待.md "wikilink")》，創下三連霸紀錄。
-  - 截至2019年，僅有[宮崎葵以](../Page/宮崎葵.md "wikilink")[NHK大河劇獲得最佳女主角](../Page/NHK大河劇.md "wikilink")，得獎作品為[第18回的](https://zh.wikipedia.org/wiki/第18回TV_LIFE年度日劇大賞 "wikilink")《[篤姬](../Page/篤姬_\(電視劇\).md "wikilink")》。
+  - 截至2019年，共有3位女演員因演出[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")[晨間劇獲頒最佳女主角](../Page/連續電視小說.md "wikilink")，依次為[第22回的](https://zh.wikipedia.org/wiki/第22回TV_LIFE年度日劇大賞 "wikilink")[堀北真希](../Page/堀北真希.md "wikilink")《[小梅醫生](../Page/小梅醫生.md "wikilink")》、[第23回的](../Page/第23回TV_LIFE年度日劇大賞.md "wikilink")[能年玲奈](../Page/能年玲奈.md "wikilink")《[小海女](https://zh.wikipedia.org/wiki/小海女 "wikilink")》以及[第24回的](../Page/第24回TV_LIFE年度日劇大賞.md "wikilink")[杏](../Page/杏_\(演員\).md "wikilink")《[多謝款待](../Page/多謝款待.md "wikilink")》，創下三連霸紀錄。
+  - 截至2019年，僅有[宮崎葵以](../Page/宮崎葵.md "wikilink")[NHK大河劇獲得最佳女主角](../Page/NHK大河劇.md "wikilink")，得獎作品為[第18回的](../Page/第18回TV_LIFE年度日劇大賞.md "wikilink")《[篤姬](../Page/篤姬_\(電視劇\).md "wikilink")》。
 
 ### 最佳男配角
 
@@ -171,11 +171,11 @@
   - 最年輕的得主為《[愛母罪](https://zh.wikipedia.org/wiki/愛母罪 "wikilink")》的[蘆田愛菜](../Page/蘆田愛菜.md "wikilink")，獲獎時只有6歲。
   - 截至2019年：
       - 同屆獲得最佳女主角及最佳新演員有兩位，分別是[志田未來](../Page/志田未來.md "wikilink")
-        ([第16回](https://zh.wikipedia.org/wiki/第16回TV_LIFE年度日劇大賞 "wikilink")《[14歲媽媽](../Page/14歲媽媽.md "wikilink")》)，及[能年玲奈](../Page/能年玲奈.md "wikilink")
-        ([第23回](https://zh.wikipedia.org/wiki/第23回TV_LIFE年度日劇大賞 "wikilink")《[小海女](https://zh.wikipedia.org/wiki/小海女 "wikilink")》)
+        ([第16回](../Page/第16回TV_LIFE年度日劇大賞.md "wikilink")《[14歲媽媽](../Page/14歲媽媽.md "wikilink")》)，及[能年玲奈](../Page/能年玲奈.md "wikilink")
+        ([第23回](../Page/第23回TV_LIFE年度日劇大賞.md "wikilink")《[小海女](https://zh.wikipedia.org/wiki/小海女 "wikilink")》)
       - 同屆獲得最佳男配角及最佳新演員有兩位，分別是[鈴木福](../Page/鈴木福.md "wikilink")
-        ([第21回](https://zh.wikipedia.org/wiki/第21回TV_LIFE年度日劇大賞 "wikilink")《[妖怪人間](https://zh.wikipedia.org/wiki/妖怪人間 "wikilink")》)，及[窪田正孝](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink")
-        ([第24回](https://zh.wikipedia.org/wiki/第24回TV_LIFE年度日劇大賞 "wikilink")《[為了N](../Page/為了N.md "wikilink")》、《[花子與安妮](../Page/花子與安妮.md "wikilink")》)
+        ([第21回](../Page/第21回TV_LIFE年度日劇大賞.md "wikilink")《[妖怪人間](https://zh.wikipedia.org/wiki/妖怪人間 "wikilink")》)，及[窪田正孝](https://zh.wikipedia.org/wiki/窪田正孝 "wikilink")
+        ([第24回](../Page/第24回TV_LIFE年度日劇大賞.md "wikilink")《[為了N](../Page/為了N.md "wikilink")》、《[花子與安妮](../Page/花子與安妮.md "wikilink")》)
 
 ### 最佳主題曲
 
@@ -482,7 +482,7 @@
 <small>《<a href="../Page/新選組！.md" title="wikilink">新選組！</a>》</small></p></td>
 <td><p><a href="../Page/矢田亞希子.md" title="wikilink">矢田亞希子</a> (2)<br />
 <small>《<a href="../Page/白色巨塔_(2003年電視劇).md" title="wikilink">白色巨塔</a>》《<a href="../Page/愛在聖誕節.md" title="wikilink">愛在聖誕節</a>》</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/美山加戀" title="wikilink">美山加戀</a><br />
+<td><p><a href="../Page/美山加戀.md" title="wikilink">美山加戀</a><br />
 <small>《》</small></p></td>
 <td><p>《やさしいキスをして》-<br />
 <a href="../Page/DREAMS_COME_TRUE.md" title="wikilink">DREAMS COME TRUE</a> （<a href="../Page/砂之器.md" title="wikilink">砂之器</a>）</p></td>
@@ -492,7 +492,7 @@
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第15回TV_LIFE年度日劇大賞" title="wikilink">2005</a></p></td>
+<td><p><a href="../Page/第15回TV_LIFE年度日劇大賞.md" title="wikilink">2005</a></p></td>
 <td><p><a href="../Page/瀧澤秀明.md" title="wikilink">瀧澤秀明</a><br />
 <small>《<a href="../Page/義經_(大河劇).md" title="wikilink">義經</a>》</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/仲間由紀惠" title="wikilink">仲間由紀惠</a> (3)<br />
@@ -511,7 +511,7 @@
 </tr>
 <tr class="even">
 <td><p>16</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第16回TV_LIFE年度日劇大賞" title="wikilink">2006</a></p></td>
+<td><p><a href="../Page/第16回TV_LIFE年度日劇大賞.md" title="wikilink">2006</a></p></td>
 <td><p><a href="../Page/草彅剛.md" title="wikilink">草彅剛</a> (2)<br />
 <small>《》</small></p></td>
 <td><p><a href="../Page/志田未來.md" title="wikilink">志田未來</a><br />
@@ -531,7 +531,7 @@
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第17回TV_LIFE年度日劇大賞" title="wikilink">2007</a></p></td>
+<td><p><a href="../Page/第17回TV_LIFE年度日劇大賞.md" title="wikilink">2007</a></p></td>
 <td><p><a href="../Page/赤西仁.md" title="wikilink">赤西仁</a><br />
 <small>《<a href="../Page/有閑俱樂部.md" title="wikilink">有閑俱樂部</a>》</small></p></td>
 <td><p><a href="../Page/堀北真希.md" title="wikilink">堀北真希</a> (1)<br />
@@ -550,7 +550,7 @@
 </tr>
 <tr class="even">
 <td><p>18</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第18回TV_LIFE年度日劇大賞" title="wikilink">2008</a></p></td>
+<td><p><a href="../Page/第18回TV_LIFE年度日劇大賞.md" title="wikilink">2008</a></p></td>
 <td><p><a href="../Page/大野智.md" title="wikilink">大野智</a> (1)<br />
 <small>《<a href="../Page/魔王_(日本電視劇).md" title="wikilink">魔王</a>》</small></p></td>
 <td><p><a href="../Page/宮崎葵.md" title="wikilink">宮崎葵</a><br />
@@ -569,7 +569,7 @@
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第19回TV_LIFE年度日劇大賞" title="wikilink">2009</a></p></td>
+<td><p><a href="../Page/第19回TV_LIFE年度日劇大賞.md" title="wikilink">2009</a></p></td>
 <td><p><a href="../Page/草彅剛.md" title="wikilink">草彅剛</a> (3)<br />
 <small>《》</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/天海祐希" title="wikilink">天海祐希</a><br />
@@ -578,7 +578,7 @@
 <small>《<a href="../Page/東京DOGS.md" title="wikilink">東京DOGS</a>》</small></p></td>
 <td><p><a href="../Page/黑木美沙.md" title="wikilink">黑木美沙</a><br />
 <small>《》</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/加藤清史郎" title="wikilink">加藤清史郎</a><br />
+<td><p><a href="../Page/加藤清史郎.md" title="wikilink">加藤清史郎</a><br />
 <small>《》</small></p></td>
 <td><p>《そっと きゅっと》- <a href="../Page/SMAP.md" title="wikilink">SMAP</a><br />
 （）</p></td>
@@ -588,7 +588,7 @@
 </tr>
 <tr class="even">
 <td><p>20</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第20回TV_LIFE年度日劇大賞" title="wikilink">2010</a></p></td>
+<td><p><a href="../Page/第20回TV_LIFE年度日劇大賞.md" title="wikilink">2010</a></p></td>
 <td><p><a href="../Page/大野智.md" title="wikilink">大野智</a> (2)<br />
 <small>《<a href="https://zh.wikipedia.org/wiki/怪物王子#電視劇版" title="wikilink">怪物小王子</a>》</small></p></td>
 <td><p><a href="../Page/松雪泰子.md" title="wikilink">松雪泰子</a><br />
@@ -607,7 +607,7 @@
 </tr>
 <tr class="odd">
 <td><p>21</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第21回TV_LIFE年度日劇大賞" title="wikilink">2011</a></p></td>
+<td><p><a href="../Page/第21回TV_LIFE年度日劇大賞.md" title="wikilink">2011</a></p></td>
 <td><p><a href="../Page/櫻井翔.md" title="wikilink">櫻井翔</a> (1)<br />
 <small>《<a href="https://zh.wikipedia.org/wiki/推理要在晚餐後#電視劇" title="wikilink">推理要在晚餐後</a>》</small></p></td>
 <td><p><a href="../Page/松嶋菜菜子.md" title="wikilink">松嶋菜菜子</a> (2)<br />
@@ -645,7 +645,7 @@
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第23回TV_LIFE年度日劇大賞" title="wikilink">2013</a></p></td>
+<td><p><a href="../Page/第23回TV_LIFE年度日劇大賞.md" title="wikilink">2013</a></p></td>
 <td><p><a href="../Page/櫻井翔.md" title="wikilink">櫻井翔</a> (2)<br />
 <small>《<a href="https://zh.wikipedia.org/wiki/家族遊戲#2013年富士電視台電視版" title="wikilink">家族遊戲</a>》</small></p></td>
 <td><p><a href="../Page/能年玲奈.md" title="wikilink">能年玲奈</a><br />
@@ -664,7 +664,7 @@
 </tr>
 <tr class="even">
 <td><p>24</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第24回TV_LIFE年度日劇大賞" title="wikilink">2014</a></p></td>
+<td><p><a href="../Page/第24回TV_LIFE年度日劇大賞.md" title="wikilink">2014</a></p></td>
 <td><p><a href="../Page/大野智.md" title="wikilink">大野智</a> (4)<br />
 <small>《<a href="../Page/死神君.md" title="wikilink">死神君</a>》</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/杏_(模特兒)" title="wikilink">杏</a><br />
@@ -683,7 +683,7 @@
 </tr>
 <tr class="odd">
 <td><p>25</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第25回TV_LIFE年度日劇大賞" title="wikilink">2015</a></p></td>
+<td><p><a href="../Page/第25回TV_LIFE年度日劇大賞.md" title="wikilink">2015</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/相葉雅紀" title="wikilink">相葉雅紀</a> (1)<br />
 <small>《<a href="https://zh.wikipedia.org/wiki/歡迎來我家#電視劇" title="wikilink">歡迎來我家</a>》</small></p></td>
 <td><p><a href="../Page/石原聰美.md" title="wikilink">石原聰美</a> (1)<br />
@@ -702,7 +702,7 @@
 </tr>
 <tr class="even">
 <td><p>26</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第26回TV_LIFE年度日劇大賞" title="wikilink">2016</a></p></td>
+<td><p><a href="../Page/第26回TV_LIFE年度日劇大賞.md" title="wikilink">2016</a></p></td>
 <td><p><a href="../Page/大野智.md" title="wikilink">大野智</a> (5)<br />
 <small>《<a href="https://zh.wikipedia.org/wiki/談戀愛世界難" title="wikilink">談戀愛世界難</a>》</small></p></td>
 <td><p><a href="../Page/新垣結衣.md" title="wikilink">新垣結衣</a><br />
@@ -711,7 +711,7 @@
 <small>《<a href="https://zh.wikipedia.org/wiki/0.1無罪真相" title="wikilink">0.1無罪真相</a>》</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/小池榮子" title="wikilink">小池榮子</a><br />
 <small>《<a href="https://zh.wikipedia.org/wiki/談戀愛世界難" title="wikilink">談戀愛世界難</a>》</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小瀧望" title="wikilink">小瀧望</a><br />
+<td><p><a href="../Page/小瀧望.md" title="wikilink">小瀧望</a><br />
 <small>《<a href="https://zh.wikipedia.org/wiki/談戀愛世界難" title="wikilink">談戀愛世界難</a>》</small></p></td>
 <td><p>《I seek》- <a href="../Page/嵐.md" title="wikilink">嵐</a><br />
 （<a href="https://zh.wikipedia.org/wiki/談戀愛世界難" title="wikilink">談戀愛世界難</a>）</p></td>
@@ -721,11 +721,11 @@
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第27回TV_LIFE年度日劇大賞" title="wikilink">2017</a></p></td>
+<td><p><a href="../Page/第27回TV_LIFE年度日劇大賞.md" title="wikilink">2017</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/相葉雅紀" title="wikilink">相葉雅紀</a> (2)<br />
 <small>《<a href="https://zh.wikipedia.org/wiki/貴族偵探系列#電視劇" title="wikilink">貴族偵探</a>》</small></p></td>
 <td><p><a href="../Page/高畑充希.md" title="wikilink">高畑充希</a><br />
-<small>《<a href="https://zh.wikipedia.org/wiki/過度保護的加穗子" title="wikilink">過度保護的加穗子</a>》</small></p></td>
+<small>《<a href="../Page/過度保護的加穗子.md" title="wikilink">過度保護的加穗子</a>》</small></p></td>
 <td><p><a href="../Page/山下智久.md" title="wikilink">山下智久</a> (2)<br />
 <small>《<a href="../Page/我命中注定的人.md" title="wikilink">我命中注定的人</a>》</small></p></td>
 <td><p><a href="../Page/新垣結衣.md" title="wikilink">新垣結衣</a> (2)<br />
@@ -744,7 +744,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/松本潤" title="wikilink">松本潤</a><br />
 <small>《<a href="https://zh.wikipedia.org/wiki/0.1無罪真相" title="wikilink">0.1無罪真相2</a>》</small></p></td>
 <td><p><a href="../Page/石原聰美.md" title="wikilink">石原聰美</a> (2)<br />
-<small>《<a href="https://zh.wikipedia.org/wiki/UNNATURAL" title="wikilink">UNNATURAL</a>》</small></p></td>
+<small>《<a href="../Page/UNNATURAL.md" title="wikilink">UNNATURAL</a>》</small></p></td>
 <td><p><a href="../Page/香川照之.md" title="wikilink">香川照之</a> (2)<br />
 <small>《<a href="https://zh.wikipedia.org/wiki/0.1無罪真相" title="wikilink">0.1無罪真相2</a>》</small></p></td>
 <td><p><a href="../Page/木村文乃.md" title="wikilink">木村文乃</a> (2)<br />

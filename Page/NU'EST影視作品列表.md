@@ -286,7 +286,7 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 <tr class="even">
 <td><p>2018年7月11日-8月29日</p></td>
 <td><p>Mnet</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Love_Catcher" title="wikilink">Love Catcher</a></p></td>
+<td><p><a href="../Page/Love_Catcher.md" title="wikilink">Love Catcher</a></p></td>
 <td><p>觀察者</p></td>
 <td><p>EP1-8</p></td>
 <td></td>
@@ -503,7 +503,7 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 | 10月12日-10月19日 | KBS                                | [Happy Together](../Page/歡樂在一起.md "wikilink")                                                 | JR、白虎                                              | EP520-521 |
 | 10月29日        | [JTBC](../Page/JTBC.md "wikilink") | [夜行鬼怪](../Page/夜行鬼怪.md "wikilink")                                                            | 白虎                                                 | EP13      |
 | 11月1日         | tvN                                | [週三美食匯](https://zh.wikipedia.org/wiki/周三美食匯 "wikilink")                                       | JR                                                 | E142      |
-| 11月4日-12月23日  | SBS                                | [Master Key](https://zh.wikipedia.org/wiki/Master_Key "wikilink")                             | EP4、6、8、11                                         |           |
+| 11月4日-12月23日  | SBS                                | [Master Key](../Page/Master_Key.md "wikilink")                                                | EP4、6、8、11                                         |           |
 | 12月22日        | MBC                                | Ranking Show 1,2,3                                                                            | Ren                                                | EP19      |
 | 2018年         |                                    |                                                                                               |                                                    |           |
 | 1月6日          | SBS                                | Master Key                                                                                    | JR、Ren                                             | EP13      |
@@ -515,13 +515,13 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 | 4月13日         | Mnet                               | [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")                                     | NU'EST W                                           | 第五季EP11   |
 | 5月3日          | MTV Taiwan                         | 我愛偶像 Idols of Asia                                                                            |                                                    |           |
 | 5月26日         | ASIA ARAMATIC TV                   | NU'EST 未公開特別篇                                                                                 | 全體                                                 | EP1       |
-| 6月9日          | MBC                                | [意外的Q](https://zh.wikipedia.org/wiki/意外的Q "wikilink")                                         | JR                                                 | EP6       |
+| 6月9日          | MBC                                | [意外的Q](../Page/意外的Q.md "wikilink")                                                            | JR                                                 | EP6       |
 | 6月24日-7月1日    | MBC                                | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                                | 白虎（蒙面歌手）                                           | EP159-160 |
 | 6月27日         | MBC every1                         | 一週的偶像                                                                                         | NU'EST W                                           | EP367     |
-| 7月30日-8月6日    | SBS MTV                            | [School Attack 2018](https://zh.wikipedia.org/wiki/School_Attack_2018 "wikilink")             | EP5-6                                              |           |
+| 7月30日-8月6日    | SBS MTV                            | [School Attack 2018](../Page/School_Attack_2018.md "wikilink")                                | EP5-6                                              |           |
 | 8月5日          | JTBC                               | [隱藏歌手](../Page/隱藏歌手.md "wikilink")                                                            | Aron、白虎、Ren                                        | 第五季EP8    |
 | 8月28日         | tvN                                | [腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")                               | Aron                                               | EP170     |
-| 8月31日         | Mnet                               | [PRODUCE 48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")                             | 白虎（決賽曲製作人）                                         | EP12      |
+| 8月31日         | Mnet                               | [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")                                                | 白虎（決賽曲製作人）                                         | EP12      |
 | 9月10日         | KBS                                | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                                                  | JR、Ren                                             | EP380     |
 | 9月15日-9月22日   | KBS                                | 戰鬥旅行\[4\]                                                                                     | JR、白虎                                              | EP108-109 |
 | 9月16日         | MBC                                | 神秘音樂秀：蒙面歌王                                                                                    | JR                                                 | EP169     |
@@ -529,7 +529,7 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 | 9月25日         | MBC                                | 18中秋偶像明星運動會                                                                                   | Aron、白虎、Ren                                        |           |
 | 9月26日         |                                    |                                                                                               |                                                    |           |
 | 9月28日         | Mnet                               | The Kkondae Live                                                                              | JR、Aron；白虎（僅影像出演）                                  | EP1       |
-| 12月4日         | JTBC                               | [Idol Room](https://zh.wikipedia.org/wiki/Idol_Room "wikilink")                               | NU'EST W                                           | EP30      |
+| 12月4日         | JTBC                               | [Idol Room](../Page/Idol_Room.md "wikilink")                                                  | NU'EST W                                           | EP30      |
 | 12月22日        | E Channel                          | 懵懂甜蜜                                                                                          | Aron                                               | 試播EP1     |
 |               |                                    |                                                                                               |                                                    |           |
 
@@ -546,7 +546,7 @@ One\#影視作品](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BD.B1.E8.A6.96.E4
 | 4月29日      | KBS              | 大國民脫口秀-你好                                                                                     | Aron、旼炫                | EP411  |
 | 5月1日       | MBC every1       | 一週的偶像                                                                                         | 全體成員                   | EP405  |
 | 5月3日       | MBC              | [我獨自生活](../Page/我獨自生活.md "wikilink")                                                          | 旼炫                     | EP292  |
-| 5月         | tvN              | [驚人的星期六](https://zh.wikipedia.org/wiki/驚人的星期六 "wikilink")                                     | JR、旼炫                  |        |
+| 5月         | tvN              | [驚人的星期六](../Page/驚人的星期六.md "wikilink")                                                        | JR、旼炫                  |        |
 | 5月         | JTBC             | [請給一頓飯](../Page/請給一頓飯.md "wikilink")                                                          | 旼炫                     |        |
 
 ## 網路節目

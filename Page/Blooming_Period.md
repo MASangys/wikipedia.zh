@@ -142,7 +142,7 @@ Seasons將他們的新專輯發行日期定於4月11日\[6\]，音樂錄影帶�
 <td><p>2016年4月11日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Seven_Seasons" title="wikilink">Seven Seasons</a><br />
-<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></p></td>
+<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p></td>
 </tr>
 </tbody>
 </table>

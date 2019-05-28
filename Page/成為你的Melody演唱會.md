@@ -96,8 +96,8 @@
 3.  MOVIE
 4.  那時 / *恩光*
 5.  名為你的奢侈（Amazing You） / *昌燮*（原唱: 韓東根）
-6.  [Always](https://zh.wikipedia.org/wiki/Big_Wave_\(專輯\) "wikilink") /
-    *鎰勳 Feat. 星材* *＊ 創作曲 ＊*
+6.  [Always](../Page/Big_Wave_\(專輯\).md "wikilink") / *鎰勳 Feat. 星材* *＊
+    創作曲 ＊*
 7.  夢裡
 8.  Fly Away
 9.  Tell Me / *星材*

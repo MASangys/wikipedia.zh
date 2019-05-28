@@ -378,7 +378,7 @@
 <td><center>
 <p>安小喬</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/安小蕎" title="wikilink">安小蕎</a></p></td>
+<p><a href="../Page/安小蕎.md" title="wikilink">安小蕎</a></p></td>
 <td><p>暱稱：ANGEL，職業女賽車手</p></td>
 <td><center>
 <p>4-5</p></td>
@@ -423,7 +423,7 @@
 <td><center>
 <p>小怡茹</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/葛璦" title="wikilink">葛璦</a></p></td>
+<p><a href="../Page/葛璦.md" title="wikilink">葛璦</a></p></td>
 <td><p>童年的貝怡茹</p></td>
 <td><center>
 <p>5-6(回憶)</p></td>
@@ -698,7 +698,7 @@
 <td><center>
 <p>藍藍</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/方語昕" title="wikilink">方語昕</a></p></td>
+<p><a href="../Page/方語昕.md" title="wikilink">方語昕</a></p></td>
 <td><p>被殺害並偽裝成自殺的網紅Coser，疑似大東為滅口所為(因為她疑似有大東殺害奈美的證據)</p></td>
 <td><center>
 <p>14-15</p></td>
@@ -707,7 +707,7 @@
 <td><center>
 <p>賽門</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/康祥" title="wikilink">康祥</a></p></td>
+<p><a href="../Page/康祥.md" title="wikilink">康祥</a></p></td>
 <td><p>富小開，奈美前男友</p></td>
 <td><center>
 <p>14</p></td>

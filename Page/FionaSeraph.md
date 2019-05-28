@@ -1,4 +1,4 @@
-**[FionaSeraph](https://zh.wikipedia.org/wiki/FionaSeraph "wikilink")**（**陳樂敏**，），[澳門](../Page/澳門.md "wikilink")[歌手](../Page/歌手.md "wikilink")，2016年曾於香港發展音樂事業，其後回流澳門繼續音樂工作。2017年8月，陳樂敏於澳門電視台音樂頒獎禮及澳！MV頒奬禮憑歌曲《Just
+**[FionaSeraph](../Page/FionaSeraph.md "wikilink")**（**陳樂敏**，），[澳門](../Page/澳門.md "wikilink")[歌手](../Page/歌手.md "wikilink")，2016年曾於香港發展音樂事業，其後回流澳門繼續音樂工作。2017年8月，陳樂敏於澳門電視台音樂頒獎禮及澳！MV頒奬禮憑歌曲《Just
 Love You》獲多個音樂獎項。
 
 ## 歌曲作品

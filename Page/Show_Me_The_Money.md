@@ -5,9 +5,9 @@ Money**（）是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[
 
 ## 第一季（2012年）
 
-第一季由韩国Hiphop界经验丰富的Rapper导师、、45RPM、、[Miryo](../Page/趙美慧.md "wikilink")、、和与参赛的新秀Rapper进行两两合作表演。\[4\]由K-pop团体[水晶男孩成员](../Page/水晶男孩.md "wikilink")[殷志源担任此季主持](https://zh.wikipedia.org/wiki/殷志源 "wikilink")。\[5\]引人注目的选手包括[Cheetah](https://zh.wikipedia.org/wiki/Cheetah "wikilink")，是节目中为数不多的女Rapper参赛者，后赢得了[Unpretty
+第一季由韩国Hiphop界经验丰富的Rapper导师、、45RPM、、[Miryo](../Page/趙美慧.md "wikilink")、、和与参赛的新秀Rapper进行两两合作表演。\[4\]由K-pop团体[水晶男孩成员](../Page/水晶男孩.md "wikilink")[殷志源担任此季主持](https://zh.wikipedia.org/wiki/殷志源 "wikilink")。\[5\]引人注目的选手包括[Cheetah](../Page/Cheetah.md "wikilink")，是节目中为数不多的女Rapper参赛者，后赢得了[Unpretty
 Rapstar第一季的冠军](../Page/Unpretty_Rapstar.md "wikilink")。\[6\]\[7\]新秀Rapper
-[Loco在Double](https://zh.wikipedia.org/wiki/Loco "wikilink")
+[Loco在Double](../Page/Loco.md "wikilink")
 K的指导下赢得了此季的冠军，并签约了Hiphop厂牌。后来他以制作人的身份出演了第四季的节目。\[8\]
 
 ## 第二季（2013年）
@@ -41,31 +41,29 @@ WuTan</p></td>
 
 第三季有许多著名的音乐制作人参与。不同的制作人独树一帜的代表着韩国Hiphop音乐的几大类别，分别由4组制作人团队[YG队](../Page/YG娛樂.md "wikilink")、[ILLIONAIRE队](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")、[Brand
 New
-Music队和](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")[YDG队组成](../Page/梁東根.md "wikilink")，上一季的选手作为制作人回归。值得注意的参赛者包括同属YG旗下组合[iKON的成员](https://zh.wikipedia.org/wiki/iKON "wikilink")[Bobby及](../Page/金知元_\(饒舌者\).md "wikilink")[B.I](../Page/B.I.md "wikilink")、隶属旗下的Rapper
+Music队和](../Page/Brand_New_Music.md "wikilink")[YDG队组成](../Page/梁東根.md "wikilink")，上一季的选手作为制作人回归。值得注意的参赛者包括同属YG旗下组合[iKON的成员](https://zh.wikipedia.org/wiki/iKON "wikilink")[Bobby及](../Page/金知元_\(饒舌者\).md "wikilink")[B.I](../Page/B.I.md "wikilink")、隶属旗下的Rapper
 、[C
-Jamm等](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")。本季的冠军由[IKON的](../Page/IKON.md "wikilink")[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")\[14\]和他的制作人[ILLIONAIRE队的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[Dok2](../Page/Dok2.md "wikilink")、[The
-Quiett夺得](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")。
+Jamm等](../Page/C_Jamm.md "wikilink")。本季的冠军由[IKON的](../Page/IKON.md "wikilink")[Bobby](../Page/金知元_\(饒舌者\).md "wikilink")\[14\]和他的制作人[ILLIONAIRE队的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[Dok2](../Page/Dok2.md "wikilink")、[The
+Quiett夺得](../Page/The_Quiett.md "wikilink")。
 
 ## 第四季（2015年）
 
 SMTM第四季的导师分别由[YG的](../Page/YG娛樂.md "wikilink")[Jinusean](../Page/Jinusean.md "wikilink")、[Tablo](https://zh.wikipedia.org/wiki/李善雄 "wikilink")；[Brand
-New
-Music的](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")、[San
-E](../Page/San_E.md "wikilink")；的[朴載範](../Page/朴載範.md "wikilink")、[Loco以及](https://zh.wikipedia.org/wiki/Loco "wikilink")的与[Block
+New Music的](../Page/Brand_New_Music.md "wikilink")、[San
+E](../Page/San_E.md "wikilink")；的[朴載範](../Page/朴載範.md "wikilink")、[Loco以及](../Page/Loco.md "wikilink")的与[Block
 B的成员](../Page/Block_B.md "wikilink")[Zico担任](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")。在此季有越来越多的偶像团体Rapper及退伍军人参赛，最著名的是组合[WINNER的成员](../Page/WINNER.md "wikilink")[MINO以及退伍军人](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")，韩国Hiphop界代表性人物也作为选手参与到此季比赛。许多第三季的参赛选手也回归到了此季。本赛季冠军由[Basick及他的制作人团队](https://zh.wikipedia.org/wiki/Basick "wikilink")[Brand
-New
-Music的](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")[San
+New Music的](../Page/Brand_New_Music.md "wikilink")[San
 E](../Page/San_E.md "wikilink")、获得。
 
 ## 第五季（2016年）
 
 第五季由4组不同的制作人团队组成，分别为的[Simon
-D](../Page/Simon_D.md "wikilink")、[Gray](https://zh.wikipedia.org/wiki/Gray_\(歌手\) "wikilink")；[YG娛樂的](../Page/YG娛樂.md "wikilink")、[Zion.T](../Page/Zion.T.md "wikilink")；[ILLIONAIRE的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[Dok2](../Page/Dok2.md "wikilink")、[The
-Quiett以及](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")[Gill和](../Page/吉成俊.md "wikilink")[Mad
+D](../Page/Simon_D.md "wikilink")、[Gray](../Page/Gray_\(歌手\).md "wikilink")；[YG娛樂的](../Page/YG娛樂.md "wikilink")、[Zion.T](../Page/Zion.T.md "wikilink")；[ILLIONAIRE的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[Dok2](../Page/Dok2.md "wikilink")、[The
+Quiett以及](../Page/The_Quiett.md "wikilink")[Gill和](../Page/吉成俊.md "wikilink")[Mad
 Clown](../Page/Mad_Clown.md "wikilink")。节目还于美国洛杉矶海选时特邀[Timbaland作为特别评审](../Page/提姆巴蘭.md "wikilink")。与往季相比，此季有更多的韩国Hiphop界流行及知名的Rapper作为选手参与比赛，如、、[C
-Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")、[BewhY](https://zh.wikipedia.org/wiki/BewhY "wikilink")、Onesun、珍岛狗、、、Snacky
-Chan、[One](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")、、、Junoflo、[Superbee和](https://zh.wikipedia.org/wiki/Superbee "wikilink")等。本赛季冠军由[BewhY及他的制作人团队](https://zh.wikipedia.org/wiki/BewhY "wikilink")的[Simon
-D](../Page/Simon_D.md "wikilink")、[Gray获得](https://zh.wikipedia.org/wiki/Gray_\(歌手\) "wikilink")。
+Jamm](../Page/C_Jamm.md "wikilink")、[BewhY](../Page/BewhY.md "wikilink")、Onesun、珍岛狗、、、Snacky
+Chan、[One](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")、、、Junoflo、[Superbee和](https://zh.wikipedia.org/wiki/Superbee "wikilink")等。本赛季冠军由[BewhY及他的制作人团队](../Page/BewhY.md "wikilink")的[Simon
+D](../Page/Simon_D.md "wikilink")、[Gray获得](../Page/Gray_\(歌手\).md "wikilink")。
 
 ## 第六季（2017年）
 
@@ -76,7 +74,7 @@ Duo的](../Page/Dynamic_Duo.md "wikilink")、\[17\]和、\[18\]担任。此季�
 
 第七季的4組製作人導師分别由[Just Music
 Entertainment的](https://zh.wikipedia.org/wiki/Just_Music_Entertainment "wikilink")、；[VMC的](https://zh.wikipedia.org/wiki/VMC "wikilink")、；、以及[ILLIONAIRE的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[The
-Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](https://zh.wikipedia.org/wiki/Changmo "wikilink")。本季冠军由、的[Nafla获得](https://zh.wikipedia.org/wiki/Nafla "wikilink")。
+Quiett](../Page/The_Quiett.md "wikilink")、[Changmo擔任](../Page/Changmo.md "wikilink")。本季冠军由、的[Nafla获得](https://zh.wikipedia.org/wiki/Nafla "wikilink")。
 
 ## 第八季（2019年）
 
@@ -144,7 +142,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 <td><p>2014</p></td>
 <td><p>Show Me The Money 3</p></td>
 <td><p>Show Me The Money 3</p></td>
-<td><p>、、、、、<a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、珍岛狗</p></td>
+<td><p>、、、、、<a href="../Page/Loco.md" title="wikilink">Loco</a>、珍岛狗</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -257,7 +255,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 <tr class="even">
 <td><p>Show Me The Money 3 Bobby vs Olltii</p></td>
 <td><p>L4L (Lookin' For Luv)</p></td>
-<td><p><a href="../Page/金知元_(饒舌者).md" title="wikilink">Bobby</a> (Feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a> &amp; <a href="https://zh.wikipedia.org/wiki/The_Quiett" title="wikilink">The Quiett</a>)</p></td>
+<td><p><a href="../Page/金知元_(饒舌者).md" title="wikilink">Bobby</a> (Feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a> &amp; <a href="../Page/The_Quiett.md" title="wikilink">The Quiett</a>)</p></td>
 <td><p>9</p></td>
 <td><p>358,675+<ref>L4L (Lookin' For Luv)累计销量：</p>
 <ul>
@@ -332,7 +330,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 </tr>
 <tr class="even">
 <td><p>Good Day</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a> (Feat. )</p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a> (Feat. )</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -341,7 +339,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 <tr class="odd">
 <td><p>Show Me The Money 3 C Jamm vs Iron</p></td>
 <td><p>Shit</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></p></td>
 <td><p>96</p></td>
 <td><p>20,526+<ref>Shit累计销量：</p>
 <ul>
@@ -408,7 +406,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 <td><p>2015</p></td>
 <td><p>Show Me The Money 4 Episode 1</p></td>
 <td><p>RESPECT</p></td>
-<td><p>Sik-K、、地球人 (feat. <a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>, <a href="https://zh.wikipedia.org/wiki/Gray_(歌手)" title="wikilink">Gray</a>, DJ Pumkin)</p></td>
+<td><p>Sik-K、、地球人 (feat. <a href="../Page/Loco.md" title="wikilink">Loco</a>, <a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>, DJ Pumkin)</p></td>
 <td><p>6</p></td>
 <td><p>307,045+<ref>RESPECT累计销量：</p>
 <ul>
@@ -486,7 +484,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 <tr class="even">
 <td><p>Show Me The Money 4 Episode 4</p></td>
 <td><p>ON IT + BO$$</p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、<a href="../Page/朴載範.md" title="wikilink">朴載範</a></p></td>
+<td><p>、<a href="../Page/Loco.md" title="wikilink">Loco</a>、<a href="../Page/朴載範.md" title="wikilink">朴載範</a></p></td>
 <td><p>11</p></td>
 <td><p>246,908+<ref>ON IT + BO$$累计销量：</p>
 <ul>
@@ -570,7 +568,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 </tr>
 <tr class="even">
 <td><p>我能做的</p></td>
-<td><p>(feat. <a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a>)</p></td>
+<td><p>(feat. <a href="../Page/Jessi.md" title="wikilink">Jessi</a>)</p></td>
 <td><p>12</p></td>
 <td><p>292,148+<ref>我能做的（내가 할 수 있는 건）累计销量：</p>
 <ul>
@@ -676,8 +674,8 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 </tr>
 <tr class="odd">
 <td><p>Show Me The Money 5 Episode 1</p></td>
-<td><p>不是你所知道的我 (Prod. by <a href="https://zh.wikipedia.org/wiki/Gray_(歌手)" title="wikilink">GRAY</a>)</p></td>
-<td><p><a href="../Page/Simon_D.md" title="wikilink">Simon D</a>、<a href="https://zh.wikipedia.org/wiki/鄭帝元" title="wikilink">One</a>、、<a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a></p></td>
+<td><p>不是你所知道的我 (Prod. by <a href="../Page/Gray_(歌手).md" title="wikilink">GRAY</a>)</p></td>
+<td><p><a href="../Page/Simon_D.md" title="wikilink">Simon D</a>、<a href="https://zh.wikipedia.org/wiki/鄭帝元" title="wikilink">One</a>、、<a href="../Page/BewhY.md" title="wikilink">BewhY</a></p></td>
 <td><p>2</p></td>
 <td><p>751,667+<ref>不是你所知道的我累计销量：</p>
 <ul>
@@ -687,7 +685,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 </tr>
 <tr class="even">
 <td><p>空中道德 (Air DoTheQ)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Superbee" title="wikilink">Superbee</a>、、 (feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a>, <a href="https://zh.wikipedia.org/wiki/The_Quiett" title="wikilink">The Quiett</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Superbee" title="wikilink">Superbee</a>、、 (feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a>, <a href="../Page/The_Quiett.md" title="wikilink">The Quiett</a>)</p></td>
 <td><p>5</p></td>
 <td><p>222,075+<ref>空中道德累计销量：</p>
 <ul>
@@ -698,7 +696,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 </tr>
 <tr class="odd">
 <td><p>绅士 ($insa)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a>、、 (feat. <a href="../Page/Zion.T.md" title="wikilink">Zion.T</a>)</p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a>、、 (feat. <a href="../Page/Zion.T.md" title="wikilink">Zion.T</a>)</p></td>
 <td><p>4</p></td>
 <td><p>232,388+<ref>绅士累计销量：</p>
 <ul>
@@ -731,7 +729,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 </tr>
 <tr class="even">
 <td><p>安心 (Comfortable)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭帝元" title="wikilink">One</a> (feat. <a href="../Page/Simon_D.md" title="wikilink">Simon D</a>, <a href="https://zh.wikipedia.org/wiki/Gray_(歌手)" title="wikilink">Gray</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭帝元" title="wikilink">One</a> (feat. <a href="../Page/Simon_D.md" title="wikilink">Simon D</a>, <a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>)</p></td>
 <td><p>1</p></td>
 <td><p>750,349+<ref>安心累计销量：</p>
 <ul>
@@ -743,7 +741,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 <tr class="odd">
 <td><p>Show Me The Money 5 Episode 3</p></td>
 <td><p>悬赏捉拿 (Wanted)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a>、</p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a>、</p></td>
 <td><p>12</p></td>
 <td><p>81,251+<ref>悬赏捉拿累计销量：</p>
 <ul>
@@ -764,7 +762,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 </tr>
 <tr class="odd">
 <td><p>RAPSTAR (Remix)</p></td>
-<td><p>(feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a>, <a href="https://zh.wikipedia.org/wiki/The_Quiett" title="wikilink">The Quiett</a>)</p></td>
+<td><p>(feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a>, <a href="../Page/The_Quiett.md" title="wikilink">The Quiett</a>)</p></td>
 <td><p>23</p></td>
 <td><p>50,836+<ref>RAPSTAR (Remix)累计销量：</p>
 <ul>
@@ -785,8 +783,8 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Forever (Prod. by <a href="https://zh.wikipedia.org/wiki/Gray_(歌手)" title="wikilink">GRAY</a>)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a></p></td>
+<td><p>Forever (Prod. by <a href="../Page/Gray_(歌手).md" title="wikilink">GRAY</a>)</p></td>
+<td><p><a href="../Page/BewhY.md" title="wikilink">BewhY</a></p></td>
 <td><p>2</p></td>
 <td><p>918,132+<ref>Forever累计销量：</p>
 <ul>
@@ -809,7 +807,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 <tr class="odd">
 <td><p>Show Me The Money 5 Episode 4</p></td>
 <td><p>疯子</p></td>
-<td><p>(feat. <a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a>)</p></td>
+<td><p>(feat. <a href="../Page/Jessi.md" title="wikilink">Jessi</a>)</p></td>
 <td><p>4</p></td>
 <td><p>303,798+<ref>疯子累计销量：</p>
 <ul>
@@ -824,7 +822,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 </tr>
 <tr class="even">
 <td><p>美丽 (Beautiful)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a> (Feat. <a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a>)</p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a> (Feat. <a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a>)</p></td>
 <td><p>5</p></td>
 <td><p>268,971+<ref>美丽累计销量：</p>
 <ul>
@@ -840,7 +838,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 </tr>
 <tr class="odd">
 <td><p>结尾 (AND)</p></td>
-<td><p>(Feat. <a href="https://zh.wikipedia.org/wiki/Suran" title="wikilink">Suran</a>)</p></td>
+<td><p>(Feat. <a href="../Page/Suran.md" title="wikilink">Suran</a>)</p></td>
 <td><p>36</p></td>
 <td><p>73,970+<ref>结尾累计销量：</p>
 <ul>
@@ -863,8 +861,8 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Day Day (Prod. by <a href="https://zh.wikipedia.org/wiki/Gray_(歌手)" title="wikilink">GRAY</a>)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a> (Feat. <a href="../Page/朴載範.md" title="wikilink">朴載範</a>)</p></td>
+<td><p>Day Day (Prod. by <a href="../Page/Gray_(歌手).md" title="wikilink">GRAY</a>)</p></td>
+<td><p><a href="../Page/BewhY.md" title="wikilink">BewhY</a> (Feat. <a href="../Page/朴載範.md" title="wikilink">朴載範</a>)</p></td>
 <td><p>2</p></td>
 <td><p>524,967+<ref>Day Day累计销量：</p>
 <ul>
@@ -896,7 +894,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 <tr class="odd">
 <td><p>Show Me The Money 5 Episode 5</p></td>
 <td><p>空中道德 part 2 (Air DoTheQ part 2)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Superbee" title="wikilink">Superbee</a> (feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a>, <a href="https://zh.wikipedia.org/wiki/The_Quiett" title="wikilink">The Quiett</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Superbee" title="wikilink">Superbee</a> (feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a>, <a href="../Page/The_Quiett.md" title="wikilink">The Quiett</a>)</p></td>
 <td><p>45</p></td>
 <td><p>60,686+<ref>空中道德 part 2累计销量：</p>
 <ul>
@@ -907,7 +905,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 </tr>
 <tr class="even">
 <td><p>MM</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></p></td>
 <td><p>44</p></td>
 <td><p>53,941+<ref>MM累计销量：</p>
 <ul>
@@ -918,8 +916,8 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>XamBaqJa (prod. by <a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a>)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a>、<a href="../Page/Simon_D.md" title="wikilink">Simon D</a></p></td>
+<td><p>XamBaqJa (prod. by <a href="../Page/BewhY.md" title="wikilink">BewhY</a>)</p></td>
+<td><p><a href="../Page/BewhY.md" title="wikilink">BewhY</a>、<a href="../Page/Simon_D.md" title="wikilink">Simon D</a></p></td>
 <td><p>20</p></td>
 <td><p>123,068+<ref>XamBaqJa累计销量：</p>
 <ul>
@@ -933,7 +931,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 </tr>
 <tr class="even">
 <td><p>重播 (Let it be)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a> (Feat. <a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a>)</p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a> (Feat. <a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a>)</p></td>
 <td><p>28</p></td>
 <td><p>91,951+<ref>重播累计销量：</p>
 <ul>
@@ -945,8 +943,8 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>自画像 pt.2 (Fake) (prod. by <a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a>)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BewhY" title="wikilink">BewhY</a></p></td>
+<td><p>自画像 pt.2 (Fake) (prod. by <a href="../Page/BewhY.md" title="wikilink">BewhY</a>)</p></td>
+<td><p><a href="../Page/BewhY.md" title="wikilink">BewhY</a></p></td>
 <td><p>21</p></td>
 <td><p>105,267+<ref>自画像 pt.2累计销量：</p>
 <ul>
@@ -1134,7 +1132,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 </tr>
 <tr class="odd">
 <td><p>ZINZA</p></td>
-<td><p>禹元宰 (feat. <a href="../Page/梁東根.md" title="wikilink">YDG</a>, <a href="https://zh.wikipedia.org/wiki/Suran" title="wikilink">Suran</a>)</p></td>
+<td><p>禹元宰 (feat. <a href="../Page/梁東根.md" title="wikilink">YDG</a>, <a href="../Page/Suran.md" title="wikilink">Suran</a>)</p></td>
 <td><p>33</p></td>
 <td><p>109,033+<ref>ZINZA累计销量：</p>
 <ul>
@@ -1172,7 +1170,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 </tr>
 <tr class="even">
 <td><p>Twisted</p></td>
-<td><p>Junoflo (feat. 金孝恩, <a href="https://zh.wikipedia.org/wiki/Changmo" title="wikilink">CHANGMO</a>)</p></td>
+<td><p>Junoflo (feat. 金孝恩, <a href="../Page/Changmo.md" title="wikilink">CHANGMO</a>)</p></td>
 <td><p>30</p></td>
 <td><p>89,106+<ref>Twisted累计销量：</p>
 <ul>
@@ -1222,7 +1220,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 </tr>
 <tr class="even">
 <td><p>MOVE</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/禹元宰" title="wikilink">禹元宰</a> (feat. )</p></td>
+<td><p><a href="../Page/禹元宰.md" title="wikilink">禹元宰</a> (feat. )</p></td>
 <td><p>16</p></td>
 <td><p>169,487+<ref>MOVE累计销量：</p>
 <ul>
@@ -1271,7 +1269,7 @@ Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")、[Changmo擔任](h
 <tr class="even">
 <td><p>Show Me The Money 6 Special</p></td>
 <td><p>一枚铜钱 Pt.2 (Remix)</p></td>
-<td><p>、赵旴灿、Rhyno、<a href="https://zh.wikipedia.org/wiki/鄭韓海" title="wikilink">Hanhae</a>、、Maniac、BLACK NINE、Asol、<a href="https://zh.wikipedia.org/wiki/禹元宰" title="wikilink">禹元宰</a>、、<a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a>、Ja Mezz、Ness、Woodie Gochild、、、Killagramz、Hash Swan、Young B、Olltii</p></td>
+<td><p>、赵旴灿、Rhyno、<a href="https://zh.wikipedia.org/wiki/鄭韓海" title="wikilink">Hanhae</a>、、Maniac、BLACK NINE、Asol、<a href="../Page/禹元宰.md" title="wikilink">禹元宰</a>、、<a href="../Page/Junoflo.md" title="wikilink">Junoflo</a>、Ja Mezz、Ness、Woodie Gochild、、、Killagramz、Hash Swan、Young B、Olltii</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td></td>

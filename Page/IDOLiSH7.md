@@ -1,4 +1,4 @@
-是[萬代南夢宮製作的](https://zh.wikipedia.org/wiki/萬代南夢宮 "wikilink")[女性向音樂類](https://zh.wikipedia.org/wiki/女性向 "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，[角色原案由](https://zh.wikipedia.org/wiki/角色原案 "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[種村有菜擔任](https://zh.wikipedia.org/wiki/種村有菜 "wikilink")，歌曲製作由[Lantis擔任](../Page/Lantis.md "wikilink")。
+是[萬代南夢宮製作的](https://zh.wikipedia.org/wiki/萬代南夢宮 "wikilink")[女性向音樂類](../Page/女性向.md "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，[角色原案由](https://zh.wikipedia.org/wiki/角色原案 "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[種村有菜擔任](https://zh.wikipedia.org/wiki/種村有菜 "wikilink")，歌曲製作由[Lantis擔任](../Page/Lantis.md "wikilink")。
 
 IDOLiSH7不僅是一款手遊，也是一個集小說、漫畫、遊戲、音樂、動畫為一體的多平台大型企劃。\[1\]
 

@@ -14,17 +14,17 @@ Pictures動畫製作公司宣布该公司被[TBS收購](../Page/TBS.md "wikilink
 
 ### 電視動畫
 
-| 年份                                                        | 作品名稱                                                                           |
-| --------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| 2013年                                                     | [蟲奉行](../Page/蟲奉行.md "wikilink")                                               |
-| 2014年                                                     | [TRINITY SEVEN](https://zh.wikipedia.org/wiki/TRINITY_SEVEN_魔道書7使者 "wikilink") |
-| 2015年                                                     | [DOG DAYS''](../Page/DOG_DAYS.md "wikilink")                                   |
-| 2016年                                                     | [房東妹子青春期](../Page/房東妹子青春期.md "wikilink")                                       |
-| [ViVid Strike\!](../Page/ViVid_Strike!.md "wikilink")     |                                                                                |
-| [偶像筆記](https://zh.wikipedia.org/wiki/偶像筆記 "wikilink")     |                                                                                |
-| 2018年                                                     | [BASILISK～櫻花忍法帖～](https://zh.wikipedia.org/wiki/櫻花忍法帖_BASILISK新章 "wikilink")   |
-| [罪人與龍共舞](https://zh.wikipedia.org/wiki/罪人與龍共舞 "wikilink") |                                                                                |
-| 2019年                                                     | [百慕達三角～多彩田園曲～](../Page/百慕達三角～多彩田園曲～.md "wikilink")                             |
+| 年份                                                    | 作品名稱                                                                           |
+| ----------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 2013年                                                 | [蟲奉行](../Page/蟲奉行.md "wikilink")                                               |
+| 2014年                                                 | [TRINITY SEVEN](https://zh.wikipedia.org/wiki/TRINITY_SEVEN_魔道書7使者 "wikilink") |
+| 2015年                                                 | [DOG DAYS''](../Page/DOG_DAYS.md "wikilink")                                   |
+| 2016年                                                 | [房東妹子青春期](../Page/房東妹子青春期.md "wikilink")                                       |
+| [ViVid Strike\!](../Page/ViVid_Strike!.md "wikilink") |                                                                                |
+| [偶像筆記](https://zh.wikipedia.org/wiki/偶像筆記 "wikilink") |                                                                                |
+| 2018年                                                 | [BASILISK～櫻花忍法帖～](../Page/櫻花忍法帖_BASILISK新章.md "wikilink")                      |
+| [罪人與龍共舞](../Page/罪人與龍共舞.md "wikilink")                |                                                                                |
+| 2019年                                                 | [百慕達三角～多彩田園曲～](../Page/百慕達三角～多彩田園曲～.md "wikilink")                             |
 
 ### OVA
 
@@ -33,12 +33,12 @@ Pictures動畫製作公司宣布该公司被[TBS收購](../Page/TBS.md "wikilink
 
 ### 動畫電影
 
-| 年份                                                                            | 作品名稱                                                                                             | 備註                                                                       |
-| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------ |
-| 2016年                                                                         | [劇場版莊嚴皇子 覺醒的遺傳因子](../Page/銀河機攻隊_莊嚴皇子.md "wikilink")                                              | 與[Orange共同製作](https://zh.wikipedia.org/wiki/Orange_\(動畫工作室\) "wikilink") |
-| 2017年                                                                         | [劇場版 TRINITY SEVEN -悠久圖書館與鍊金術少女-](https://zh.wikipedia.org/wiki/TRINITY_SEVEN_魔道書7使者 "wikilink") |                                                                          |
-| [魔法少女奈叶Reflection](https://zh.wikipedia.org/wiki/魔法少女奈叶Reflection "wikilink") |                                                                                                  |                                                                          |
-| 2018年                                                                         | [魔法少女奈叶Detonation](https://zh.wikipedia.org/wiki/魔法少女奈叶Detonation "wikilink")                    |                                                                          |
+| 年份                                                                            | 作品名稱                                                                                             | 備註                                                    |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------------------------- |
+| 2016年                                                                         | [劇場版莊嚴皇子 覺醒的遺傳因子](../Page/銀河機攻隊_莊嚴皇子.md "wikilink")                                              | 與[Orange共同製作](../Page/Orange_\(動畫工作室\).md "wikilink") |
+| 2017年                                                                         | [劇場版 TRINITY SEVEN -悠久圖書館與鍊金術少女-](https://zh.wikipedia.org/wiki/TRINITY_SEVEN_魔道書7使者 "wikilink") |                                                       |
+| [魔法少女奈叶Reflection](https://zh.wikipedia.org/wiki/魔法少女奈叶Reflection "wikilink") |                                                                                                  |                                                       |
+| 2018年                                                                         | [魔法少女奈叶Detonation](https://zh.wikipedia.org/wiki/魔法少女奈叶Detonation "wikilink")                    |                                                       |
 
 ### 協助製作
 
@@ -69,7 +69,7 @@ Pictures動畫製作公司宣布该公司被[TBS收購](../Page/TBS.md "wikilink
 <tr class="even">
 <td><p>2014年</p></td>
 <td><p><a href="../Page/約會大作戰.md" title="wikilink">約會大作戰Ⅱ</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Production_IMS" title="wikilink">Production IMS</a></p></td>
+<td><p><a href="../Page/Production_IMS.md" title="wikilink">Production IMS</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/金田一少年之事件簿_(動畫)" title="wikilink">金田一少年之事件簿R</a></p></td>
@@ -98,7 +98,7 @@ Pictures動畫製作公司宣布该公司被[TBS收購](../Page/TBS.md "wikilink
 </tr>
 <tr class="even">
 <td><p><a href="../Page/學園孤島.md" title="wikilink">學園孤島</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Lerche" title="wikilink">Lerche</a></p></td>
+<td><p><a href="../Page/Lerche.md" title="wikilink">Lerche</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -113,7 +113,7 @@ Pictures動畫製作公司宣布该公司被[TBS收購](../Page/TBS.md "wikilink
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/莉露莉露妖精" title="wikilink">莉露莉露妖精～妖精之門～</a></p></td>
+<td><p><a href="../Page/莉露莉露妖精.md" title="wikilink">莉露莉露妖精～妖精之門～</a></p></td>
 <td><p>STUDIO DEEN</p></td>
 </tr>
 <tr class="even">
@@ -176,7 +176,7 @@ Pictures動畫製作公司宣布该公司被[TBS收購](../Page/TBS.md "wikilink
 <td><ul>
 <li><a href="../Page/加藤陽一.md" title="wikilink">加藤陽一</a></li>
 <li><a href="../Page/大野木寬.md" title="wikilink">大野木寬</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/隅澤克之" title="wikilink">隅澤克之</a></li>
+<li><a href="../Page/隅澤克之.md" title="wikilink">隅澤克之</a></li>
 </ul></td>
 <td><ul>
 <li><a href="../Page/吉野弘幸.md" title="wikilink">吉野弘幸</a></li>
@@ -190,7 +190,7 @@ Pictures動畫製作公司宣布该公司被[TBS收購](../Page/TBS.md "wikilink
 
   - [上村修](https://zh.wikipedia.org/wiki/上村修 "wikilink")
   - [田中辰彌](https://zh.wikipedia.org/wiki/田中辰彌 "wikilink")
-  - [康村諒](https://zh.wikipedia.org/wiki/康村諒 "wikilink")
+  - [康村諒](../Page/康村諒.md "wikilink")
 
 ## 相關項目
 

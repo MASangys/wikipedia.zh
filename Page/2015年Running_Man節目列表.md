@@ -142,7 +142,7 @@
 <small>（1月19日）</small></p></td>
 <td><p><a href="../Page/吳賢慶.md" title="wikilink">吳賢慶</a>、<a href="../Page/金志秀.md" title="wikilink">金志秀</a>、<br />
 <a href="../Page/金元俊.md" title="wikilink">金元俊</a>、<a href="https://zh.wikipedia.org/wiki/洪京民" title="wikilink">洪京民</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/朴芝潤" title="wikilink">朴芝潤</a>、<a href="../Page/申多恩.md" title="wikilink">申多恩</a>、<br />
+<a href="../Page/朴芝潤.md" title="wikilink">朴芝潤</a>、<a href="../Page/申多恩.md" title="wikilink">申多恩</a>、<br />
 <a href="../Page/趙美慧.md" title="wikilink">Miryo</a><br />
 （<a href="../Page/Brown_Eyed_Girls.md" title="wikilink">Brown Eyed Girls</a>）</p></td>
 <td><p>國立果川科學館<br />
@@ -168,7 +168,7 @@
 <small>（1月20日）</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/素珍_(歌手)" title="wikilink">素珍</a>（<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>）、<br />
 <a href="../Page/厲旭.md" title="wikilink">厲旭</a>（<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>）、<br />
-<a href="https://zh.wikipedia.org/wiki/Eric_Nam" title="wikilink">Eric Nam</a>、<a href="https://zh.wikipedia.org/wiki/N_(歌手)" title="wikilink">N</a>（<a href="../Page/VIXX.md" title="wikilink">VIXX</a>）、<br />
+<a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a>、<a href="https://zh.wikipedia.org/wiki/N_(歌手)" title="wikilink">N</a>（<a href="../Page/VIXX.md" title="wikilink">VIXX</a>）、<br />
 <a href="../Page/張東雨.md" title="wikilink">張東雨</a>（<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>）、<br />
 <a href="../Page/李旼赫.md" title="wikilink">旼赫</a>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a>）、<br />
 <a href="../Page/孫東雲.md" title="wikilink">孫東雲</a>（<a href="https://zh.wikipedia.org/wiki/BEAST" title="wikilink">BEAST</a>）、<br />
@@ -381,9 +381,9 @@ vs<br />
 <small>（375）</small></p></td>
 <td><p>4月19日<br />
 <small>（4月6日）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張水院" title="wikilink">張水院</a>（<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>）、<br />
+<td><p><a href="../Page/張水院.md" title="wikilink">張水院</a>（<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>）、<br />
 <a href="../Page/姜均成.md" title="wikilink">姜均成</a>（）、<br />
-<a href="https://zh.wikipedia.org/wiki/孫浩俊" title="wikilink">孫浩俊</a>、<a href="https://zh.wikipedia.org/wiki/柳炳宰" title="wikilink">柳炳宰</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/孫浩俊" title="wikilink">孫浩俊</a>、<a href="../Page/柳炳宰.md" title="wikilink">柳炳宰</a>、<br />
 <a href="../Page/洪宗玄.md" title="wikilink">洪宗玄</a></p></td>
 <td><p>Heyri藝術村<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/坡州市.md" title="wikilink">坡州市</a><br />
@@ -408,8 +408,8 @@ vs<br />
 <small>（376）</small></p></td>
 <td><p>4月26日<br />
 <small>（4月13日）</small></p></td>
-<td><p><a href="../Page/金釉利.md" title="wikilink">金釉利</a>、<a href="https://zh.wikipedia.org/wiki/張度練" title="wikilink">張度練</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a>（Lucky J）、<br />
+<td><p><a href="../Page/金釉利.md" title="wikilink">金釉利</a>、<a href="../Page/張度練.md" title="wikilink">張度練</a>、<br />
+<a href="../Page/Jessi.md" title="wikilink">Jessi</a>（Lucky J）、<br />
 <a href="https://zh.wikipedia.org/wiki/朴草娥" title="wikilink">草娥</a>（<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a>）、<a href="../Page/徐睿知.md" title="wikilink">徐睿知</a></p></td>
 <td><p>M Palace Wedding<br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
@@ -492,7 +492,7 @@ vs<br />
 <small>（380）</small></p></td>
 <td><p>5月24日<br />
 <small>（5月5日）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴俊炯" title="wikilink">朴俊炯</a>（<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>）、<br />
+<td><p><a href="../Page/朴俊炯.md" title="wikilink">朴俊炯</a>（<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>）、<br />
 <a href="../Page/滑川康男.md" title="wikilink">KangNam</a>（<a href="../Page/M.I.B.md" title="wikilink">M.I.B</a>）、<br />
 <a href="../Page/Nichkhun.md" title="wikilink">Nichkhun</a>（<a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>）、<br />
 <a href="../Page/劉憲華.md" title="wikilink">Henry</a>（<a href="../Page/Super_Junior-M.md" title="wikilink">Super Junior-M</a>）、<br />
@@ -578,7 +578,7 @@ Humansia葡露嬌<br />
 <small>（6月15日）</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a>、、<br />
 <a href="../Page/San_E.md" title="wikilink">San E</a>、<a href="../Page/朴載範.md" title="wikilink">朴載範</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a>（Lucky J）</p></td>
+<a href="../Page/Jessi.md" title="wikilink">Jessi</a>（Lucky J）</p></td>
 <td><p>Content韓國實驗室<br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/鐘路區.md" title="wikilink">鐘路區</a>）</p></td>
@@ -599,8 +599,8 @@ Humansia葡露嬌<br />
 <small>（6月16日）</small></p></td>
 <td><p><a href="../Page/徐玄振.md" title="wikilink">徐玄振</a>、<a href="../Page/朴荷娜.md" title="wikilink">朴荷娜</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/Irene_Kim" title="wikilink">Irene Kim</a>、<a href="https://zh.wikipedia.org/wiki/都想友" title="wikilink">都想友</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/黃勝妍" title="wikilink">黃勝妍</a>、<br />
-<a href="../Page/海嶺.md" title="wikilink">海嶺</a>（<a href="https://zh.wikipedia.org/wiki/BESTie" title="wikilink">BESTie</a>）、<br />
+<a href="../Page/黃勝妍.md" title="wikilink">黃勝妍</a>、<br />
+<a href="../Page/海嶺.md" title="wikilink">海嶺</a>（<a href="../Page/BESTie.md" title="wikilink">BESTie</a>）、<br />
 <a href="../Page/CLC.md" title="wikilink">睿恩</a>（<a href="../Page/CLC.md" title="wikilink">CLC</a>）</p></td>
 <td><p>ONEMOUNT<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
@@ -782,7 +782,7 @@ Gary、秀英</span><br />
 <td><p>8月16日<br />
 <small>（8月4日）</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金健模" title="wikilink">金健模</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/朴俊炯" title="wikilink">朴俊炯</a>（<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>）、<br />
+<a href="../Page/朴俊炯.md" title="wikilink">朴俊炯</a>（<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>）、<br />
 （<a href="../Page/酷龍.md" title="wikilink">酷龍</a>）、<br />
 （<a href="../Page/DJ_DOC.md" title="wikilink">DJ DOC</a>）、<br />
 （）</p></td>
@@ -832,11 +832,11 @@ Gary、秀英</span><br />
 <td><p>8月30日<br />
 <small>（8月3日）</small></p></td>
 <td><p><a href="../Page/金秀路.md" title="wikilink">金秀路</a>、<a href="../Page/姜聲振.md" title="wikilink">姜聲振</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/金民教" title="wikilink">金民教</a>、<a href="../Page/朴建炯.md" title="wikilink">朴建炯</a>、<br />
+<a href="../Page/金民教.md" title="wikilink">金民教</a>、<a href="../Page/朴建炯.md" title="wikilink">朴建炯</a>、<br />
 <a href="../Page/南寶拉.md" title="wikilink">南寶拉</a></p></td>
 <td><p>世宗花園<br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
-<a href="../Page/龍山區_(首爾).md" title="wikilink">龍山區</a><a href="https://zh.wikipedia.org/wiki/漢南洞" title="wikilink">漢南洞</a>）</small></p></td>
+<a href="../Page/龍山區_(首爾).md" title="wikilink">龍山區</a><a href="../Page/漢南洞.md" title="wikilink">漢南洞</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>突襲！司機食堂</strong></span><br />
 <span style=color:#808080><strong>眼鼻嘴隊</strong></span>：劉在錫、池錫辰、金民教<br />
 <span style=color:#FF0000><strong>最強者隊</strong></span>：金鐘國、李光洙、金秀路<br />
@@ -853,7 +853,7 @@ Gary、秀英</span><br />
 <td><p>9月6日<br />
 <small>（8月17日）</small></p></td>
 <td><p><a href="../Page/李棟旭.md" title="wikilink">李棟旭</a>、<a href="../Page/朴敘俊.md" title="wikilink">朴敘俊</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/Yura" title="wikilink">Yura</a>（<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>）</p></td>
+<a href="../Page/Yura.md" title="wikilink">Yura</a>（<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/汝矣島公園" title="wikilink">汝矣島公園</a><br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="https://zh.wikipedia.org/wiki/永登浦區" title="wikilink">永登浦區</a>）</small></p></td>
@@ -953,12 +953,12 @@ Gary<br />
 <small>（400）</small></p></td>
 <td><p>10月11日<br />
 <small>（9月21日）</small></p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/黃石正" title="wikilink">黃石正</a>、<br />
+<td><p>、<a href="../Page/黃石正.md" title="wikilink">黃石正</a>、<br />
 <a href="../Page/朴韓星.md" title="wikilink">朴韓星</a>、<a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">朴娜萊</a>、<br />
 （<a href="../Page/天上智喜.md" title="wikilink">天上智喜</a>）、<br />
 <a href="../Page/尹博.md" title="wikilink">尹博</a>、、<br />
 <a href="https://zh.wikipedia.org/wiki/孔昇延" title="wikilink">孔昇延</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/朴秀英" title="wikilink">Joy</a>（<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>）</p></td>
+<a href="https://zh.wikipedia.org/wiki/朴秀英" title="wikilink">Joy</a>（<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）</p></td>
 <td><p>光教高中<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/水原市.md" title="wikilink">水原市</a><br />
 <a href="../Page/靈通區.md" title="wikilink">靈通區</a>）</small></p></td>
@@ -1038,17 +1038,17 @@ Gary<br />
 <td><p>11月1日<br />
 <small>（10月19日）</small></p></td>
 <td><p>、、<br />
-<a href="https://zh.wikipedia.org/wiki/李元熹" title="wikilink">李元熹</a>、、<br />
+<a href="../Page/李元熹.md" title="wikilink">李元熹</a>、、<br />
 <a href="../Page/金景淑.md" title="wikilink">Taemi</a>、<a href="https://zh.wikipedia.org/wiki/黃崇載" title="wikilink">黃崇載</a>、<br />
 、、<br />
 <a href="../Page/金光奎.md" title="wikilink">金光奎</a>、、<br />
 、<a href="../Page/林炯俊.md" title="wikilink">林炯俊</a>、<br />
 （）、<br />
 、<a href="https://zh.wikipedia.org/wiki/崔京浩" title="wikilink">崔京浩</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/森姆·汗明頓" title="wikilink">Sam Hammington</a>、<br />
+<a href="../Page/森姆·汗明頓.md" title="wikilink">Sam Hammington</a>、<br />
 <a href="../Page/沈亨倬.md" title="wikilink">沈亨倬</a>、<a href="https://zh.wikipedia.org/wiki/DJ_R2" title="wikilink">DJ R2</a>、<br />
 、、<br />
-（<a href="https://zh.wikipedia.org/wiki/Brown_Eyed_Soul" title="wikilink">Brown Eyed Soul</a>）、、<br />
+（<a href="../Page/Brown_Eyed_Soul.md" title="wikilink">Brown Eyed Soul</a>）、、<br />
 <a href="../Page/許泰熙.md" title="wikilink">許泰熙</a>、、<br />
 <a href="../Page/金基邦.md" title="wikilink">金基邦</a>、、<br />
 、<a href="https://zh.wikipedia.org/wiki/李尚民" title="wikilink">李尚民</a>、<br />
@@ -1064,10 +1064,10 @@ Gary<br />
 <a href="https://zh.wikipedia.org/wiki/金幽珍" title="wikilink">U-ie</a>（<a href="../Page/After_School.md" title="wikilink">After School</a>）、<br />
 <a href="https://zh.wikipedia.org/wiki/Linda_(歌手)" title="wikilink">Linda</a>、<a href="https://zh.wikipedia.org/wiki/Yeop_Yui" title="wikilink">Yeop Yui</a>、<br />
 、<a href="https://zh.wikipedia.org/wiki/金昌根" title="wikilink">金昌根</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/朴俊炯" title="wikilink">朴俊炯</a>（<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>）、<br />
+<a href="../Page/朴俊炯.md" title="wikilink">朴俊炯</a>（<a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>）、<br />
 （<a href="../Page/DJ_DOC.md" title="wikilink">DJ DOC</a>）、<br />
 （<a href="../Page/Jinusean.md" title="wikilink">Jinusean</a>）、<br />
-<a href="https://zh.wikipedia.org/wiki/金民教" title="wikilink">金民教</a>、、<br />
+<a href="../Page/金民教.md" title="wikilink">金民教</a>、、<br />
 <a href="../Page/金淑.md" title="wikilink">金淑</a>、、<br />
 、、<br />
 、、<br />
@@ -1080,10 +1080,10 @@ Gary<br />
 <a href="https://zh.wikipedia.org/wiki/李承協" title="wikilink">李承協</a>、<a href="https://zh.wikipedia.org/wiki/權光珍" title="wikilink">權光珍</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/車勳" title="wikilink">車勳</a>、<a href="https://zh.wikipedia.org/wiki/金宰鉉" title="wikilink">金宰鉉</a><br />
 （<a href="../Page/N.Flying.md" title="wikilink">N.Flying</a>）、<br />
-<a href="../Page/林在範.md" title="wikilink">JB</a>、<a href="https://zh.wikipedia.org/wiki/段宜恩" title="wikilink">Mark</a>、<br />
+<a href="../Page/林在範.md" title="wikilink">JB</a>、<a href="../Page/段宜恩.md" title="wikilink">Mark</a>、<br />
 <a href="../Page/王嘉爾.md" title="wikilink">Jackson</a>、<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a>、<br />
 <a href="../Page/崔榮宰.md" title="wikilink">榮宰</a>、<a href="../Page/BamBam.md" title="wikilink">BamBam</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/金有謙" title="wikilink">有謙</a>（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）、<br />
+<a href="../Page/金有謙.md" title="wikilink">有謙</a>（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）、<br />
 <a href="../Page/Seventeen_(組合).md" title="wikilink">S.Coups</a>、<a href="../Page/Seventeen_(組合).md" title="wikilink">Jeong Han</a>、<br />
 <a href="../Page/Seventeen_(組合).md" title="wikilink">Joshua</a>、<a href="../Page/Seventeen_(組合).md" title="wikilink">Jun</a>、<br />
 <a href="../Page/Seventeen_(組合).md" title="wikilink">Hoshi</a>、<a href="../Page/Seventeen_(組合).md" title="wikilink">Won Woo</a>、<br />
@@ -1133,12 +1133,12 @@ Gary<br />
 、、<br />
 、、<br />
 、、<br />
-<a href="https://zh.wikipedia.org/wiki/洪允和" title="wikilink">洪允和</a>、、<br />
+<a href="../Page/洪允和.md" title="wikilink">洪允和</a>、、<br />
 、、<br />
 <a href="https://zh.wikipedia.org/wiki/金煥碩" title="wikilink">金煥碩</a>、、<br />
 、、<br />
 、<br />
-（<a href="https://zh.wikipedia.org/wiki/尋笑人" title="wikilink">尋笑人</a>）</p></td>
+（<a href="../Page/尋笑人.md" title="wikilink">尋笑人</a>）</p></td>
 <td><p>百老匯藝術廳<br />
 <small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/鐘路區.md" title="wikilink">鐘路區</a><a href="https://zh.wikipedia.org/wiki/大學路_(首爾)" title="wikilink">大學路</a>)</small></p></td>
@@ -1245,7 +1245,7 @@ Gary<br />
 <td><p>12月20日<br />
 <small>（12月8日）</small></p></td>
 <td><p>（<a href="../Page/Turbo_(韓國男子團體).md" title="wikilink">Turbo</a>）、<br />
-<a href="https://zh.wikipedia.org/wiki/李宗秀" title="wikilink">李宗秀</a>、<a href="../Page/蔡妍.md" title="wikilink">蔡妍</a>、<br />
+<a href="../Page/李宗秀.md" title="wikilink">李宗秀</a>、<a href="../Page/蔡妍.md" title="wikilink">蔡妍</a>、<br />
 <a href="../Page/李先鎬.md" title="wikilink">Andy</a>（<a href="https://zh.wikipedia.org/wiki/神話_(組合)" title="wikilink">神話</a>）、<br />
 <a href="../Page/李智賢_(1983年).md" title="wikilink">李智賢</a>、、<br />
 （<a href="../Page/天上智喜.md" title="wikilink">天上智喜</a>）、<br />
@@ -1715,9 +1715,9 @@ Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink
 23. Gary、哈哈、圭賢、John Park、譽恩、Rap Monster本集以本名作為任務所需的姓名牌。
 24. 宣傳電影《[突然變異](https://zh.wikipedia.org/wiki/突然變異_\(电影\) "wikilink")》千成文（宋智孝弟弟）驚喜出演，李宗浩（李光洙爸爸）、朴寶英媽媽驚喜聲演
 25. 李成美及其後之嘉賓只參演第272集
-26. [GFRIEND特別出演](../Page/GFRIEND.md "wikilink")、[李國主](../Page/李國主.md "wikilink")、[趙寅成](../Page/趙寅成.md "wikilink")、[李棟旭](../Page/李棟旭.md "wikilink")、[金志秀](../Page/金志秀.md "wikilink")、[金東賢驚喜聲演](https://zh.wikipedia.org/wiki/金東賢 "wikilink")、、[沈亨倬](../Page/沈亨倬.md "wikilink")、、[林周煥](../Page/林周煥.md "wikilink")、[朴娜萊](https://zh.wikipedia.org/wiki/朴娜萊_\(喜劇演員\) "wikilink")、[任瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")、[U-ie因行程關係提前離開](https://zh.wikipedia.org/wiki/金幽珍 "wikilink")
+26. [GFRIEND特別出演](../Page/GFRIEND.md "wikilink")、[李國主](../Page/李國主.md "wikilink")、[趙寅成](../Page/趙寅成.md "wikilink")、[李棟旭](../Page/李棟旭.md "wikilink")、[金志秀](../Page/金志秀.md "wikilink")、[金東賢驚喜聲演](../Page/金東賢.md "wikilink")、、[沈亨倬](../Page/沈亨倬.md "wikilink")、、[林周煥](../Page/林周煥.md "wikilink")、[朴娜萊](https://zh.wikipedia.org/wiki/朴娜萊_\(喜劇演員\) "wikilink")、[任瑟雍](https://zh.wikipedia.org/wiki/任瑟雍 "wikilink")、[U-ie因行程關係提前離開](https://zh.wikipedia.org/wiki/金幽珍 "wikilink")
 27. '尋笑人的家人們特別出演
-28. 概念來自[AMC電視劇](https://zh.wikipedia.org/wiki/AMC_\(電視頻道\) "wikilink")《[陰屍路](../Page/屍行者.md "wikilink")》[申世輝特別出演](https://zh.wikipedia.org/wiki/申世輝 "wikilink")
+28. 概念來自[AMC電視劇](https://zh.wikipedia.org/wiki/AMC_\(電視頻道\) "wikilink")《[陰屍路](../Page/屍行者.md "wikilink")》[申世輝特別出演](../Page/申世輝.md "wikilink")
 29. [劉在錫於本集以主持身份出演](../Page/劉在錫.md "wikilink")，坤、高潔、碧土、宇信、曉悟（[UP10TION](../Page/UP10TION.md "wikilink")）特別出演
 30. 朴成俊（曆術家）、Queeny（塔羅牌大師）、姜民元（曆術家）特別出演
 31. [NAVER 런닝맨 － TNMS

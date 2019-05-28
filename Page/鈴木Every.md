@@ -9,7 +9,7 @@ Wagon」，以示區別。另外，由於鈴木與[馬自達汽車](https://zh.w
 / Clipper Rio、、等車款，造成日本車壇上共有4款兄弟車共同競逐的局面。
 
 1991年（今）曾以第八代Carry為基礎而開發[大宇Damas](https://zh.wikipedia.org/wiki/鈴木Carry#大宇Damas_/_Labo_/_Attivo "wikilink")，[皮卡貨車車型則稱大宇Labo](../Page/皮卡.md "wikilink")，某些國家則稱大宇Attivo。目前此車款已經進化成GM
-DamasⅡ，且外銷至[南美洲換牌成雪佛蘭CMV](../Page/南美洲.md "wikilink")。再者，以[CKD全車散件](https://zh.wikipedia.org/wiki/散裝料 "wikilink")（Completely
+DamasⅡ，且外銷至[南美洲換牌成雪佛蘭CMV](../Page/南美洲.md "wikilink")。再者，以[CKD全車散件](../Page/散裝料.md "wikilink")（Completely
 Knocked
 Down）方式將Damas進口至[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")，然後在現地組裝成整車。
 

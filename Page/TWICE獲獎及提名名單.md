@@ -169,7 +169,7 @@
 </tr>
 <tr class="even">
 <td><p>舞蹈獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TWICEcoaster:_LANE_2" title="wikilink">KNOCK KNOCK</a></p></td>
+<td><p><a href="../Page/TWICEcoaster:_LANE_2.md" title="wikilink">KNOCK KNOCK</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -211,7 +211,7 @@
 </tr>
 <tr class="even">
 <td><p>年度最佳歌曲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Merry&amp;Happy" title="wikilink">Heart Shaker</a></p></td>
+<td><p><a href="../Page/Merry&amp;Happy.md" title="wikilink">Heart Shaker</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -295,7 +295,7 @@
 </tr>
 <tr class="even">
 <td><p>最佳音樂錄影帶</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Signal_(TWICE迷你專輯)" title="wikilink">SIGNAL</a></p></td>
+<td><p><a href="../Page/Signal_(TWICE迷你專輯).md" title="wikilink">SIGNAL</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -323,7 +323,7 @@
 </tr>
 <tr class="even">
 <td><p>Qoo10 年度專輯大獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Signal_(TWICE迷你專輯)" title="wikilink">SIGNAL</a></p></td>
+<td><p><a href="../Page/Signal_(TWICE迷你專輯).md" title="wikilink">SIGNAL</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -337,7 +337,7 @@
 </tr>
 <tr class="even">
 <td><p>最受歡迎音樂錄影帶</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/What_is_Love?" title="wikilink">What is Love?</a></p></td>
+<td><p><a href="../Page/What_is_Love?.md" title="wikilink">What is Love?</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -358,7 +358,7 @@
 </tr>
 <tr class="odd">
 <td><p>最佳女子團體舞蹈獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/What_is_Love?" title="wikilink">What is Love?</a></p></td>
+<td><p><a href="../Page/What_is_Love?.md" title="wikilink">What is Love?</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -532,7 +532,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/TWICEcoaster:_LANE_1" title="wikilink">TT</a></p></td>
+<td><p><a href="../Page/TWICEcoaster:_LANE_1.md" title="wikilink">TT</a></p></td>
 <td><p>音源部門年度歌手獎（10月）</p></td>
 <td></td>
 <td></td>
@@ -541,7 +541,7 @@
 <tr class="odd">
 <td><p>第7屆</p></td>
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TWICEcoaster:_LANE_2" title="wikilink">KNOCK KNOCK</a></p></td>
+<td><p><a href="../Page/TWICEcoaster:_LANE_2.md" title="wikilink">KNOCK KNOCK</a></p></td>
 <td><p>音源部門年度歌手獎（2月）</p></td>
 <td></td>
 </tr>
@@ -553,21 +553,21 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Twicetagram" title="wikilink">LIKEY</a></p></td>
+<td><p><a href="../Page/Twicetagram.md" title="wikilink">LIKEY</a></p></td>
 <td><p>音源部門年度歌手獎（10月）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Merry&amp;Happy" title="wikilink">Heart Shaker</a></p></td>
+<td><p><a href="../Page/Merry&amp;Happy.md" title="wikilink">Heart Shaker</a></p></td>
 <td><p>音源部門年度歌手獎（12月）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/TWICEcoaster:_LANE_2" title="wikilink">TWICEcoaster: LANE 2</a></p></td>
+<td><p><a href="../Page/TWICEcoaster:_LANE_2.md" title="wikilink">TWICEcoaster: LANE 2</a></p></td>
 <td><p>專輯部門年度歌手獎（第一季）</p></td>
 <td></td>
 <td></td>
@@ -590,12 +590,12 @@
 <tr class="even">
 <td><p>第8屆</p></td>
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/What_is_Love?" title="wikilink">What is Love?</a></p></td>
+<td><p><a href="../Page/What_is_Love?.md" title="wikilink">What is Love?</a></p></td>
 <td><p>音源部門年度歌手獎（4月）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Summer_Nights" title="wikilink">Dance The Night Away</a></p></td>
+<td><p><a href="../Page/Summer_Nights.md" title="wikilink">Dance The Night Away</a></p></td>
 <td><p>音源部門年度歌手獎（7月）</p></td>
 <td></td>
 <td></td>
@@ -609,14 +609,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/What_is_Love?" title="wikilink">What is Love?</a></p></td>
+<td><p><a href="../Page/What_is_Love?.md" title="wikilink">What is Love?</a></p></td>
 <td><p>專輯部門年度歌手獎（第二季）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Summer_Nights" title="wikilink">Summer Nights</a></p></td>
+<td><p><a href="../Page/Summer_Nights.md" title="wikilink">Summer Nights</a></p></td>
 <td><p>專輯部門年度歌手獎（第三季）</p></td>
 <td></td>
 <td></td>
@@ -667,7 +667,7 @@
 </tbody>
 </table>
 
-### [Soribada最佳音樂大獎（Soribada Best K-Music Awards）](https://zh.wikipedia.org/wiki/Soribada最佳音樂大獎 "wikilink")
+### [Soribada最佳音樂大獎（Soribada Best K-Music Awards）](../Page/Soribada最佳音樂大獎.md "wikilink")
 
 <table>
 <tbody>
@@ -799,7 +799,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/What_is_Love?" title="wikilink">What is Love?</a></p></td>
+<td><p><a href="../Page/What_is_Love?.md" title="wikilink">What is Love?</a></p></td>
 <td><p>年度歌曲</p></td>
 <td></td>
 <td></td>
@@ -1242,7 +1242,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/＃TWICE" title="wikilink">#TWICE</a></p></td>
+<td><p><a href="../Page/＃TWICE.md" title="wikilink">#TWICE</a></p></td>
 <td><p>年度最佳專輯（亞洲區）</p></td>
 <td></td>
 <td></td>
@@ -1261,7 +1261,7 @@
 </tr>
 <tr class="odd">
 <td><p>2019年第33屆</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BDZ_(TWICE專輯)" title="wikilink">BDZ</a></p></td>
+<td><p><a href="../Page/BDZ_(TWICE專輯).md" title="wikilink">BDZ</a></p></td>
 <td><p>年度３大最佳專輯（亞洲區）</p></td>
 <td></td>
 </tr>

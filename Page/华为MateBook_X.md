@@ -1,6 +1,6 @@
 **[华为MateBook](../Page/华为MateBook.md "wikilink")
 X**是**[华为](../Page/华为.md "wikilink")**于2017年5月23日推出的运行**[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
+10](../Page/Windows_10.md "wikilink")
 家庭版**操作系统的笔记本电脑，预装[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
 **[office
 2016](https://zh.wikipedia.org/wiki/office_2016 "wikilink")**，使用全金属一体化机身，提供三种配色。

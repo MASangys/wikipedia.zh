@@ -1,7 +1,7 @@
 《**Out筆豬仔團**》（**To Sacrifice To
-Satisfy**），原名《**寧願少喫餐，OO錢咪慳**》，為[香港電視娛樂製作的](../Page/香港電視娛樂.md "wikilink")[旅遊及](https://zh.wikipedia.org/wiki/旅遊 "wikilink")[真人騷節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，2017年7月4日至10月10日逢星期二22:30-23:00於[ViuTV播出](../Page/ViuTV.md "wikilink")\[1\]，由[劉秉賓](../Page/劉秉賓.md "wikilink")、[羅伊婷](https://zh.wikipedia.org/wiki/羅伊婷 "wikilink")、（Suzuki）及[趙詠瑤主持](https://zh.wikipedia.org/wiki/趙詠瑤 "wikilink")。
+Satisfy**），原名《**寧願少喫餐，OO錢咪慳**》，為[香港電視娛樂製作的](../Page/香港電視娛樂.md "wikilink")[旅遊及](https://zh.wikipedia.org/wiki/旅遊 "wikilink")[真人騷節目](https://zh.wikipedia.org/wiki/真人騷 "wikilink")，2017年7月4日至10月10日逢星期二22:30-23:00於[ViuTV播出](../Page/ViuTV.md "wikilink")\[1\]，由[劉秉賓](../Page/劉秉賓.md "wikilink")、[羅伊婷](../Page/羅伊婷.md "wikilink")、（Suzuki）及[趙詠瑤主持](../Page/趙詠瑤.md "wikilink")。
 
-四位節目主持分成兩組到[新西蘭旅遊](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")，[劉秉賓及](../Page/劉秉賓.md "wikilink")[羅伊婷被分派到北島](https://zh.wikipedia.org/wiki/羅伊婷 "wikilink")，而及[趙詠瑤被分派到南島](https://zh.wikipedia.org/wiki/趙詠瑤 "wikilink")[皇后鎮](https://zh.wikipedia.org/wiki/皇后鎮_\(新西蘭\) "wikilink")，但是他們只有很少旅費，所以整個行程都要省吃儉用，務求達成世界級慳錢之旅\[2\]\[3\]\[4\]\[5\]。
+四位節目主持分成兩組到[新西蘭旅遊](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")，[劉秉賓及](../Page/劉秉賓.md "wikilink")[羅伊婷被分派到北島](../Page/羅伊婷.md "wikilink")，而及[趙詠瑤被分派到南島](../Page/趙詠瑤.md "wikilink")[皇后鎮](https://zh.wikipedia.org/wiki/皇后鎮_\(新西蘭\) "wikilink")，但是他們只有很少旅費，所以整個行程都要省吃儉用，務求達成世界級慳錢之旅\[2\]\[3\]\[4\]\[5\]。
 
 ## 每集一覽
 

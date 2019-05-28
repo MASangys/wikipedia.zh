@@ -189,7 +189,7 @@ Vita平台上發售](../Page/PlayStation_Vita.md "wikilink")，而英文版將�
   - 琪瑟優・蕾伊（キセイジョウ・レイ，配音：[小林優](../Page/小林優.md "wikilink")）
     七賢者之一。名義上是領導者，但由於生性膽小，經常被其他成員欺負。
     神次元最初的國家「タリ」的守護女神，因其自私的行為而被國民推翻。
-  - アクダイジーン（配音：[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")）
+  - アクダイジーン（配音：[梁田清之](../Page/梁田清之.md "wikilink")）
     七賢者之一。外表為中年的壞人，喜歡陰謀。真名未明。
   - 阿普尼絲（アプネス，Abness，配音：[莊子裕衣](https://zh.wikipedia.org/wiki/莊子裕衣 "wikilink")）
     七賢者之一。口號為｢ロリっ子(rori kko)広報戦士｣。被稱為｢アブネスちゃん｣。

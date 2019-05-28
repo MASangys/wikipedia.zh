@@ -18,12 +18,12 @@ HD整合。
 
 #### 台灣
 
-  - [火速救援最前線](https://zh.wikipedia.org/wiki/火速救援最前線 "wikilink")
+  - [火速救援最前線](../Page/火速救援最前線.md "wikilink")
 
   - [神盾局特工](../Page/神盾局特工.md "wikilink")
 
   -
-  - [金錢戰爭](https://zh.wikipedia.org/wiki/億萬風雲 "wikilink")
+  - [金錢戰爭](../Page/億萬風雲.md "wikilink")
 
   - [犯罪心理](https://zh.wikipedia.org/wiki/犯罪心理_\(電視劇\) "wikilink")
 
@@ -34,7 +34,7 @@ HD整合。
   -
   - [變種天賦](https://zh.wikipedia.org/wiki/變種天賦 "wikilink")
 
-  - [變種軍團](https://zh.wikipedia.org/wiki/變種軍團 "wikilink")
+  - [變種軍團](../Page/變種軍團.md "wikilink")
 
   - [摩登家庭](../Page/摩登家庭.md "wikilink")
 
@@ -43,14 +43,14 @@ HD整合。
   - [重返犯罪現場：紐奧良](https://zh.wikipedia.org/wiki/海軍罪案調查處：新奧爾良 "wikilink")
 
   -
-  - [SWAT反恐特警組](https://zh.wikipedia.org/wiki/反恐特警組_\(電視劇\) "wikilink")
+  - [SWAT反恐特警組](../Page/反恐特警組_\(電視劇\).md "wikilink")
 
   - [天蠍行動](../Page/天蠍_\(電視劇\).md "wikilink")
 
   - [辛普森家族](../Page/辛普森一家.md "wikilink")
 
   -
-  - [雙峰](https://zh.wikipedia.org/wiki/雙峰_\(2017年電視劇\) "wikilink")
+  - [雙峰](../Page/雙峰_\(2017年電視劇\).md "wikilink")
 
   - [陰屍路](../Page/屍行者.md "wikilink")
 
@@ -61,14 +61,14 @@ HD整合。
 
 #### 亞洲／香港
 
-  - [9-1-1](https://zh.wikipedia.org/wiki/火速救援最前線 "wikilink")
+  - [9-1-1](../Page/火速救援最前線.md "wikilink")
 
   - [神盾局特工](../Page/神盾局特工.md "wikilink")
 
   -
   - [美國老爹](../Page/特工老爹.md "wikilink")
 
-  - [億萬風雲](https://zh.wikipedia.org/wiki/億萬風雲 "wikilink")
+  - [億萬風雲](../Page/億萬風雲.md "wikilink")
 
   - [心理追兇](https://zh.wikipedia.org/wiki/犯罪心理_\(電視劇\) "wikilink")
 
@@ -79,7 +79,7 @@ HD整合。
   -
   - [天賦異能](https://zh.wikipedia.org/wiki/變種天賦 "wikilink")
 
-  - [潛能異士](https://zh.wikipedia.org/wiki/變種軍團 "wikilink")
+  - [潛能異士](../Page/變種軍團.md "wikilink")
 
   - [摩登家庭](../Page/摩登家庭.md "wikilink")
 
@@ -88,14 +88,14 @@ HD整合。
   - [重返犯罪現場：新奧爾良](https://zh.wikipedia.org/wiki/海軍罪案調查處：新奧爾良 "wikilink")
 
   -
-  - [特警](https://zh.wikipedia.org/wiki/反恐特警組_\(電視劇\) "wikilink")
+  - [特警](../Page/反恐特警組_\(電視劇\).md "wikilink")
 
   - [天蠍特勤組](../Page/天蠍_\(電視劇\).md "wikilink")
 
   - [阿森一族](../Page/辛普森一家.md "wikilink")
 
   -
-  - [雙峰](https://zh.wikipedia.org/wiki/雙峰_\(2017年電視劇\) "wikilink")
+  - [雙峰](../Page/雙峰_\(2017年電視劇\).md "wikilink")
 
   - [陰屍路](../Page/屍行者.md "wikilink")
 

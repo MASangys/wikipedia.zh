@@ -97,7 +97,7 @@ Tobler于1995年在[埃本塞建立](https://zh.wikipedia.org/wiki/埃本塞 "wi
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a></p></td>
+<td><p><a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
 <td><p>{{tsl|en|Wizarbox</p></td>
 <td><p>Wizarbox}}</p></td>
 </tr>
@@ -114,7 +114,7 @@ Tobler于1995年在[埃本塞建立](https://zh.wikipedia.org/wiki/埃本塞 "wi
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -153,7 +153,7 @@ Tobler于1995年在[埃本塞建立](https://zh.wikipedia.org/wiki/埃本塞 "wi
 <td><p><a href="../Page/哥特王朝II.md" title="wikilink">哥特王朝II</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Piranha_Bytes" title="wikilink">Piranha Bytes</a></p></td>
+<td><p><a href="../Page/Piranha_Bytes.md" title="wikilink">Piranha Bytes</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/K-Hawk:_Survival_Instinct" title="wikilink">K-Hawk: Survival Instinct</a> [6]</p></td>
@@ -181,7 +181,7 @@ Tobler于1995年在[埃本塞建立](https://zh.wikipedia.org/wiki/埃本塞 "wi
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a></p></td>
+<td><p><a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -470,7 +470,7 @@ Tobler于1995年在[埃本塞建立](https://zh.wikipedia.org/wiki/埃本塞 "wi
 18. PAL version of the PlayStation 2 release. Published in North America
     by Capcom.
 19. In cooperation with [Deep
-    Silver](https://zh.wikipedia.org/wiki/Deep_Silver "wikilink").
+    Silver](../Page/Deep_Silver.md "wikilink").
 20. EU release in affiliation with Deep Silver. NA release by [Aspyr
     Media](../Page/Aspyr_Media.md "wikilink").
 21.

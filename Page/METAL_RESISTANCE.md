@@ -1,7 +1,7 @@
 《**METAL
 RESISTANCE**》（意為金屬抗爭）是日本團體[BABYMETAL在](../Page/BABYMETAL.md "wikilink")2016年4月1日發行的第二張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")\[1\]\[2\]\[3\]。專輯由12首歌曲組成\[4\]，發行前〈[Road
 of
-Resistance](https://zh.wikipedia.org/wiki/Road_of_Resistance "wikilink")〉和〈泡泡狂熱〉已在現場演出中亮相過\[5\]，以及2015年在[橫濱體育館公演中披露了](../Page/橫濱體育館.md "wikilink")〈[空手道](https://zh.wikipedia.org/wiki/空手道_\(歌曲\) "wikilink")〉與〈THE
+Resistance](../Page/Road_of_Resistance.md "wikilink")〉和〈泡泡狂熱〉已在現場演出中亮相過\[5\]，以及2015年在[橫濱體育館公演中披露了](../Page/橫濱體育館.md "wikilink")〈[空手道](../Page/空手道_\(歌曲\).md "wikilink")〉與〈THE
 ONE〉共四曲\[6\]。如她們的慣例般，[SU-METAL與上張專輯一樣有兩首獨唱曲](../Page/中元鈴香.md "wikilink")〈Amore
 - 蒼星 -〉及〈NO RAIN, NO
 RAINBOW〉\[7\]，同樣也收錄了[YUIMETAL與](../Page/水野由結.md "wikilink")[MOAMETAL的雙人曲](../Page/菊地最愛.md "wikilink")〈GJ！〉和〈Sis.
@@ -263,7 +263,7 @@ EMU-0210979<br />
 1.  **〈Road of Resistance〉**
     融合[速度金屬](https://zh.wikipedia.org/wiki/速度金屬 "wikilink")、[力量金屬](https://zh.wikipedia.org/wiki/力量金屬 "wikilink")、[旋律交響金屬和](../Page/交響金屬.md "wikilink")[頌歌](../Page/頌歌.md "wikilink")，是與[DragonForce一起創作的曲子](https://zh.wikipedia.org/wiki/DragonForce "wikilink")，吉他部分由[李康敏與](../Page/李康敏.md "wikilink")負責\[40\]。主題是BABYMETAL的金屬抗爭之路，征服世界的第一步\[41\]\[42\]。至2016年底的Youtube點播數是1100萬次。
 2.  **〈空手道〉**
-    融合[金屬蕊](../Page/金屬蕊.md "wikilink")、[新金屬](../Page/新金屬.md "wikilink")、[另類金屬](https://zh.wikipedia.org/wiki/另類金屬 "wikilink")、[蠱戮金屬](https://zh.wikipedia.org/wiki/蠱戮金屬 "wikilink")、和頌歌\[43\]\[44\]\[45\]，主題為身體上的戰鬥。至2016年底的Youtube點播數是2400萬次。
+    融合[金屬蕊](../Page/金屬蕊.md "wikilink")、[新金屬](../Page/新金屬.md "wikilink")、[另類金屬](https://zh.wikipedia.org/wiki/另類金屬 "wikilink")、[蠱戮金屬](../Page/蠱戮金屬.md "wikilink")、和頌歌\[43\]\[44\]\[45\]，主題為身體上的戰鬥。至2016年底的Youtube點播數是2400萬次。
 3.  **〈泡泡狂熱〉**
     融合[工業金屬](../Page/工業金屬.md "wikilink")、[電子核](https://zh.wikipedia.org/wiki/電子核 "wikilink")、[鼓打貝斯](../Page/鼓打貝斯.md "wikilink")、[Trance
     music](https://zh.wikipedia.org/wiki/出神音樂 "wikilink")、和些微的[鞭擊金屬](https://zh.wikipedia.org/wiki/鞭擊金屬 "wikilink")，再次將電子與金屬樂正面衝突，維持著他們一貫的風格\[46\]\[47\]。主題是讓人穿越時空的魔法泡泡糖\[48\]。
@@ -281,7 +281,7 @@ EMU-0210979<br />
     融合金屬蕊、新金屬、死亡金屬、[饒舌金屬](../Page/饒舌金屬.md "wikilink")、[電子音樂和偶像音樂](../Page/電子音樂.md "wikilink")\[56\]，「BLACK
     BABYMETAL」的曲子。主題為鼓勵少女在成長中堅持做自己，也是一首標準的應援曲。
 9.  **〈Sis. Anger〉**
-    融合[黑金屬](../Page/黑金屬音樂.md "wikilink")、死亡金屬、[旋律死亡金屬](../Page/死亡旋律金屬.md "wikilink")、[燻黑死亡金屬](https://zh.wikipedia.org/wiki/燻黑死亡金屬 "wikilink")、金屬蕊、[死核和日式民謠金屬](https://zh.wikipedia.org/wiki/死核 "wikilink")\[57\]，特色為強烈的疾踩四連音，是專輯唯一完全在重金屬音樂範圍內的曲子。「BLACK
+    融合[黑金屬](../Page/黑金屬音樂.md "wikilink")、死亡金屬、[旋律死亡金屬](../Page/死亡旋律金屬.md "wikilink")、[燻黑死亡金屬](https://zh.wikipedia.org/wiki/燻黑死亡金屬 "wikilink")、金屬蕊、[死核和日式民謠金屬](../Page/死核.md "wikilink")\[57\]，特色為強烈的疾踩四連音，是專輯唯一完全在重金屬音樂範圍內的曲子。「BLACK
     BABYMETAL」的歌曲，主題為憤怒與批判。
 10. **〈NO RAIN, NO RAINBOW〉**
     曲子由鋼琴主導，融合80年代的、新古典金屬與J-Rock中的抒情敘事曲\[58\]，並加入交響樂團的襯底。被普遍認為是向[X
@@ -849,8 +849,7 @@ Store商店的綜合專輯下載榜最高為第3名\[154\]\[155\]、金屬專輯
   - <small>〈Road of Resistance〉</small>
       - <small>[李康敏](../Page/李康敏.md "wikilink") - 吉他</small>
       - <small> - 吉他</small>
-      - <small>[Leda](https://zh.wikipedia.org/wiki/Leda "wikilink") -
-        貝斯</small>
+      - <small>[Leda](../Page/Leda.md "wikilink") - 貝斯</small>
   - <small>〈空手道〉</small>
       - <small> - 吉他</small>
   - <small>〈Amore - 蒼星 -〉</small>
@@ -887,7 +886,7 @@ MASS -」
   - 成員
       - [大村孝佳](../Page/大村孝佳.md "wikilink") - 吉他
 
-      - [藤岡幹大](https://zh.wikipedia.org/wiki/藤岡幹大 "wikilink") - 吉他
+      - [藤岡幹大](../Page/藤岡幹大.md "wikilink") - 吉他
 
       - \- 貝斯
 

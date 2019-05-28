@@ -29,7 +29,7 @@ Hills沒有直接關係\[26\]，P.T.創作概念來自各恐怖電影和使他�
 
 ## 發行
 
-P.T.於2014年度的遊戲交易展覽[Gamescom中公開](https://zh.wikipedia.org/wiki/Gamescom "wikilink")，作為未來一款匿名恐怖遊戲的試玩版本\[30\]\[31\]，其後於2014年8月12日在[PlayStation
+P.T.於2014年度的遊戲交易展覽[Gamescom中公開](../Page/Gamescom.md "wikilink")，作為未來一款匿名恐怖遊戲的試玩版本\[30\]\[31\]，其後於2014年8月12日在[PlayStation
 Network發行](../Page/PlayStation_Network.md "wikilink")\[32\]\[33\]。小島秀夫並未正式宣佈新的寂靜嶺系列遊戲，而是以不存在的「7780s工作室」把P.T.作為試玩遊戲對外公佈\[34\]。2014年9月，[索尼在其](../Page/索尼.md "wikilink")[東京遊戲展開始前的記者會中表示P](https://zh.wikipedia.org/wiki/東京遊戲展 "wikilink").T.下載數量超過一百萬次\[35\]。
 
 隨著Silent Hills被宣布取消，P.T.於2015年4月29日從[PlayStation
@@ -48,7 +48,7 @@ Reynolds）以「沮喪的來源」形容答案欠清晰的最後一道謎題\[4
 P.T.被《[GameSpot](../Page/GameSpot.md "wikilink")》選為其2014年8月的本月最佳遊戲\[44\]；《[IGN](../Page/IGN.md "wikilink")》成員馬提·史利發（Marty
 Sliva）把P.T.收錄進其年度最佳電子遊戲宣傳片段列表中，表示P.T.是他於2014年內接觸過的遊戲中其中一款最有趣、美麗和恐怖的作品\[45\]；IGN另一成員露西·奧布里恩（Lucy
 O'Brien）形容P.T.是近年真正最恐怖的互動體驗，足以成為其年度遊戲選擇之一\[46\]；《[Giant
-Bomb](https://zh.wikipedia.org/wiki/Giant_Bomb "wikilink")》把P.T.選為其年度最恐怖遊戲\[47\]；《》的FEAR選舉中把P.T.選為最恐怖遊戲\[48\]；《[Polygon](../Page/Polygon.md "wikilink")》把P.T.評為其十大年度遊戲之一\[49\]。
+Bomb](../Page/Giant_Bomb.md "wikilink")》把P.T.選為其年度最恐怖遊戲\[47\]；《》的FEAR選舉中把P.T.選為最恐怖遊戲\[48\]；《[Polygon](../Page/Polygon.md "wikilink")》把P.T.評為其十大年度遊戲之一\[49\]。
 
 ## 主題與分析
 

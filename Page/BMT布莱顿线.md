@@ -141,7 +141,7 @@ Southern」，位於[BMT百老匯線途經曼哈頓大橋到](https://zh.wikiped
 <td><p>全部</p></td>
 <td></td>
 <td><p>1878年7月2日[12]</p></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/BMT富蘭克林大道線" title="wikilink">BMT富蘭克林大道線</a>）。此站位於1920年擴建及原初1878年地塹的邊界。1920年擴建前，布萊頓線車站以北是沿富蘭克林大道路線而行。</p></td>
+<td><p>（<a href="../Page/BMT富蘭克林大道線.md" title="wikilink">BMT富蘭克林大道線</a>）。此站位於1920年擴建及原初1878年地塹的邊界。1920年擴建前，布萊頓線車站以北是沿富蘭克林大道路線而行。</p></td>
 </tr>
 <tr class="odd">
 <td><p>兩條中央快車軌道開始（）</p></td>

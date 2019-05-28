@@ -23,30 +23,30 @@ Labs**，是罗马尼亚布加勒斯特的一家游戏公司，成立于1999年�
   - 2003 — [Cabela's Big Game Hunter: 2004
     Season](https://zh.wikipedia.org/wiki/Cabela's_Big_Game_Hunter:_2004_Season "wikilink")（[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")）
   - 2003 — [Cabela's Deer Hunt: 2004
-    Season](https://zh.wikipedia.org/wiki/Cabela's_Deer_Hunt:_2004_Season "wikilink")（[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[PlayStation
+    Season](https://zh.wikipedia.org/wiki/Cabela's_Deer_Hunt:_2004_Season "wikilink")（[Xbox](../Page/Xbox.md "wikilink")、[PlayStation
     2](../Page/PlayStation_2.md "wikilink")）
   - 2003 — [Cabela's Dangerous
-    Hunts](https://zh.wikipedia.org/wiki/Cabela's_Dangerous_Hunts "wikilink")（[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[PlayStation
+    Hunts](https://zh.wikipedia.org/wiki/Cabela's_Dangerous_Hunts "wikilink")（[Xbox](../Page/Xbox.md "wikilink")、[PlayStation
     2](../Page/PlayStation_2.md "wikilink")）
   - 2004 — [Cabela's Big Game Hunter 2005
-    Adventures](https://zh.wikipedia.org/wiki/Cabela's_Big_Game_Hunter_2005_Adventures "wikilink")（[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[PlayStation
+    Adventures](https://zh.wikipedia.org/wiki/Cabela's_Big_Game_Hunter_2005_Adventures "wikilink")（[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[PlayStation
     2](../Page/PlayStation_2.md "wikilink")）
   - 2004 — [Rapala Pro
-    Fishing](https://zh.wikipedia.org/wiki/Rapala_Pro_Fishing "wikilink")（[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[PlayStation
+    Fishing](https://zh.wikipedia.org/wiki/Rapala_Pro_Fishing "wikilink")（[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[PlayStation
     2](../Page/PlayStation_2.md "wikilink")）
   - 2005 — [Cabela's Big Game Hunter 2005
-    Season](https://zh.wikipedia.org/wiki/Cabela's_Big_Game_Hunter_2005_Season "wikilink")（[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")）
+    Season](https://zh.wikipedia.org/wiki/Cabela's_Big_Game_Hunter_2005_Season "wikilink")（[Xbox](../Page/Xbox.md "wikilink")）
   - 2005 — [Cabela's Big Game Hunter 2005
-    Adventures](https://zh.wikipedia.org/wiki/Cabela's_Big_Game_Hunter_2005_Adventures "wikilink")（[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[PlayStation
+    Adventures](https://zh.wikipedia.org/wiki/Cabela's_Big_Game_Hunter_2005_Adventures "wikilink")（[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[PlayStation
     2](../Page/PlayStation_2.md "wikilink")）
   - 2005 — [Cabela's Outdoor
     Adventures](https://zh.wikipedia.org/wiki/Cabela's_Outdoor_Adventures "wikilink")（[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、[PlayStation
-    2](../Page/PlayStation_2.md "wikilink")、[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")）
+    2](../Page/PlayStation_2.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")）
   - 2005 — [Cabela's Dangerous Hunts
-    2](https://zh.wikipedia.org/wiki/Cabela's_Dangerous_Hunts_2 "wikilink")（[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[PlayStation
+    2](https://zh.wikipedia.org/wiki/Cabela's_Dangerous_Hunts_2 "wikilink")（[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[PlayStation
     2](../Page/PlayStation_2.md "wikilink")）
   - 2005 — [SeaWorld: Shamu's Deep Sea
-    Adventures](https://zh.wikipedia.org/wiki/SeaWorld:_Shamu's_Deep_Sea_Adventures "wikilink")（[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")）
+    Adventures](https://zh.wikipedia.org/wiki/SeaWorld:_Shamu's_Deep_Sea_Adventures "wikilink")（[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、[Xbox](../Page/Xbox.md "wikilink")）
   - 2006 — [Cabela's Dangerous Hunts: Ultimate
     Challenge](https://zh.wikipedia.org/wiki/Cabela's_Dangerous_Hunts:_Ultimate_Challenge "wikilink")（[PlayStation
     Portable](../Page/PlayStation_Portable.md "wikilink")）

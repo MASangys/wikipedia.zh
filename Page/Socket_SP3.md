@@ -1,6 +1,6 @@
 **Socket
 SP3**是一種[AMD設計的](https://zh.wikipedia.org/wiki/AMD "wikilink")[處理器插座](../Page/CPU插座.md "wikilink")，適用於[LGA封裝的](https://zh.wikipedia.org/wiki/平面網格陣列封裝 "wikilink")[AMD
-Epyc系列](https://zh.wikipedia.org/wiki/AMD_Epyc "wikilink")，於2017年6月20日發表。\[1\]\[2\]\[3\]
+Epyc系列](../Page/AMD_Epyc.md "wikilink")，於2017年6月20日發表。\[1\]\[2\]\[3\]
 
 ## 技術概況
 
@@ -16,8 +16,7 @@ G34/C32。
 
 Socket
 SP3僅用於[伺服器及](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[工作站平台](../Page/工作站.md "wikilink")。由Socket
-SP3衍生而來的[Socket
-TR4](https://zh.wikipedia.org/wiki/Socket_TR4 "wikilink")（或稱[Socket
+SP3衍生而來的[Socket TR4](../Page/Socket_TR4.md "wikilink")（或稱[Socket
 SP3r2](https://zh.wikipedia.org/wiki/Socket_SP3r2 "wikilink")），用於AMD的桌上型極致效能平台（Ryzen
 ThreadRipper系列），儘管匯流排規格有所刪減，Socket TR4與Socket
 SP3也不能相互相容，但TR4的物理規格與SP3是相同的，[散熱器可共通](https://zh.wikipedia.org/wiki/散熱器 "wikilink")。\[6\]
@@ -25,8 +24,8 @@ SP3也不能相互相容，但TR4的物理規格與SP3是相同的，[散熱器�
 ## 參見
 
   - [Zen微架構](../Page/AMD_Zen.md "wikilink")
-  - [AMD Epyc](https://zh.wikipedia.org/wiki/AMD_Epyc "wikilink")
-  - [Socket TR4](https://zh.wikipedia.org/wiki/Socket_TR4 "wikilink")
+  - [AMD Epyc](../Page/AMD_Epyc.md "wikilink")
+  - [Socket TR4](../Page/Socket_TR4.md "wikilink")
 
 ## 參考資料
 

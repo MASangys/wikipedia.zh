@@ -5,7 +5,7 @@
 
 ## 播出时间
 
-  - [SBS](https://zh.wikipedia.org/wiki/SBS_TV "wikilink")：每日20:00（全国联播）
+  - [SBS](../Page/SBS_TV.md "wikilink")：每日20:00（全国联播）
   - SBS Love FM：平日20:00-20:30（只限首尔、京畿道及仁川）
   - KNN Love FM：平日20:00-20:30（只限釜山、庆尚南道）
 

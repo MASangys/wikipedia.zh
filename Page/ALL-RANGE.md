@@ -1,4 +1,4 @@
-**ALL-RANGE**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，由[孫睿](https://zh.wikipedia.org/wiki/孫睿 "wikilink")（Fion）、[妤涵](https://zh.wikipedia.org/wiki/妤涵 "wikilink")（Una）、[亭蘭](https://zh.wikipedia.org/wiki/亭蘭 "wikilink")（Tina）三人組成，是[南拳妈妈的师妹](https://zh.wikipedia.org/wiki/南拳妈妈 "wikilink")\[1\]，於2018年7月17日推出首張[EP](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")《[初次見面](https://zh.wikipedia.org/wiki/初次見面 "wikilink")》出道。\[2\]\[3\]
+**ALL-RANGE**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，由[孫睿](../Page/孫睿.md "wikilink")（Fion）、[妤涵](https://zh.wikipedia.org/wiki/妤涵 "wikilink")（Una）、[亭蘭](https://zh.wikipedia.org/wiki/亭蘭 "wikilink")（Tina）三人組成，是[南拳妈妈的师妹](https://zh.wikipedia.org/wiki/南拳妈妈 "wikilink")\[1\]，於2018年7月17日推出首張[EP](https://zh.wikipedia.org/wiki/迷你专辑 "wikilink")《[初次見面](https://zh.wikipedia.org/wiki/初次見面 "wikilink")》出道。\[2\]\[3\]
 團名取自於Orange之諧音，與經紀公司日光橘子有著呼應之感，藉橘子散發之清新氣味，作為女團自然不做作的唯一號召。
 
 ## 團隊成員
@@ -11,7 +11,7 @@
 <td><p><strong>出生</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><big><strong><a href="https://zh.wikipedia.org/wiki/孫睿" title="wikilink">孫睿</a></strong></big><br />
+<td><p><big><strong><a href="../Page/孫睿.md" title="wikilink">孫睿</a></strong></big><br />
 </p></td>
 <td><p>Fion</p></td>
 <td><p><br />

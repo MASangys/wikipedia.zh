@@ -1,5 +1,5 @@
 **Bixby**是由[三星電子開發的](../Page/三星電子.md "wikilink")[虛擬助理軟件](../Page/虛擬助理.md "wikilink")。使用者可以使用自然的對話與手機進行互動，完成搜尋資料、查詢天氣等許多服務，部分非旗艦機無法啟動語音助理。2018年8月9日，bixby2.0版正式在[Galaxy
-Note 9上推出](https://zh.wikipedia.org/wiki/三星Galaxy_Note_9 "wikilink")。
+Note 9上推出](../Page/三星Galaxy_Note_9.md "wikilink")。
 
 ## 特徵
 
@@ -50,8 +50,7 @@ Bixby分為四個部分，分別稱為「Bixby語音」、「Bixby影像辨識�
 #### Galaxy S
 
   - [三星Galaxy S10](../Page/三星Galaxy_S10.md "wikilink") （包括S10+及S10e）
-  - [三星Galaxy
-    S9](https://zh.wikipedia.org/wiki/三星Galaxy_S9 "wikilink")（包括S9+）
+  - [三星Galaxy S9](../Page/三星Galaxy_S9.md "wikilink")（包括S9+）
   - [三星Galaxy S8](../Page/三星Galaxy_S8.md "wikilink")（包括S8+）
   - [三星Galaxy S8
     Active](https://zh.wikipedia.org/wiki/三星Galaxy_S8_Active "wikilink")
@@ -65,8 +64,7 @@ Bixby分為四個部分，分別稱為「Bixby語音」、「Bixby影像辨識�
   - [Samsung Galaxy Note Fan
     Edition](../Page/三星Galaxy_Note_7.md "wikilink")（只限Bixby主頁、提醒及影像辨識）
   - [三星Galaxy Note 8](../Page/三星Galaxy_Note_8.md "wikilink")
-  - [三星Galaxy Note
-    9](https://zh.wikipedia.org/wiki/三星Galaxy_Note_9 "wikilink")
+  - [三星Galaxy Note 9](../Page/三星Galaxy_Note_9.md "wikilink")
 
 ### 中檔智能手機及平板電腦
 
@@ -76,7 +74,7 @@ Bixby分為四個部分，分別稱為「Bixby語音」、「Bixby影像辨識�
     A8s](https://zh.wikipedia.org/wiki/三星Galaxy_A8s "wikilink")
   - [三星Galaxy A9 (2018)](../Page/三星Galaxy_A9_\(2018\).md "wikilink")
   - [三星Galaxy A8
-    (2018)](https://zh.wikipedia.org/wiki/三星Galaxy_A8_\(2018\) "wikilink")（包括A8+；只限Bixby主頁、提醒及影像辨識）
+    (2018)](../Page/三星Galaxy_A8_\(2018\).md "wikilink")（包括A8+；只限Bixby主頁、提醒及影像辨識）
   - [三星Galaxy
     A6/A6+](https://zh.wikipedia.org/wiki/三星Galaxy_A6/A6+ "wikilink")（只限Bixby主頁及影像辨識）
   - [三星Galaxy A7
@@ -87,7 +85,7 @@ Bixby分為四個部分，分別稱為「Bixby語音」、「Bixby影像辨識�
 #### Galaxy J
 
   - [三星Galaxy
-    J6(2018)](https://zh.wikipedia.org/wiki/三星Galaxy_J6_\(2018\) "wikilink")（只限Bixby主頁及提醒）
+    J6(2018)](../Page/三星Galaxy_J6_\(2018\).md "wikilink")（只限Bixby主頁及提醒）
 
   - 三星Galaxy J4 (2018)（只限Bixby主頁）
 

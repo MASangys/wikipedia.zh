@@ -1,9 +1,9 @@
 「**PayPal 黑手黨**」（）是指一群在以後開發或成立其他科技公司的前
 [PayPal](../Page/PayPal.md "wikilink") 員工\[1\]。他們在離開 PayPal
 再次创业成功率之高令人侧目，他们建立的企业包括[特斯拉汽車](https://zh.wikipedia.org/wiki/特斯拉汽車 "wikilink")，[領英](../Page/領英.md "wikilink")，[Matterport](https://zh.wikipedia.org/wiki/Matterport "wikilink")，[Palantir
-Technologies](https://zh.wikipedia.org/wiki/Palantir_Technologies "wikilink")，[太空探索科技公司](https://zh.wikipedia.org/wiki/太空探索科技公司 "wikilink")，[YouTube](../Page/YouTube.md "wikilink")，[Yelp](https://zh.wikipedia.org/wiki/Yelp "wikilink")
+Technologies](../Page/Palantir_Technologies.md "wikilink")，[太空探索科技公司](https://zh.wikipedia.org/wiki/太空探索科技公司 "wikilink")，[YouTube](../Page/YouTube.md "wikilink")，[Yelp](../Page/Yelp.md "wikilink")
 和
-[Yammer](../Page/Yammer.md "wikilink")\[2\]。大部分的成員都在[史丹福大學或](https://zh.wikipedia.org/wiki/史丹福大學 "wikilink")[伊利諾大學厄巴納-香檳分校就讀](https://zh.wikipedia.org/wiki/伊利諾大學厄巴納-香檳分校 "wikilink")，部分人在高校時期於就讀。其中三個成員，包括[彼得·泰爾](https://zh.wikipedia.org/wiki/彼得·泰爾 "wikilink")、[伊隆·馬斯克和](https://zh.wikipedia.org/wiki/伊隆·馬斯克 "wikilink")[里德·霍夫曼成為了億萬富翁](../Page/里德·霍夫曼.md "wikilink")。
+[Yammer](../Page/Yammer.md "wikilink")\[2\]。大部分的成員都在[史丹福大學或](https://zh.wikipedia.org/wiki/史丹福大學 "wikilink")[伊利諾大學厄巴納-香檳分校就讀](https://zh.wikipedia.org/wiki/伊利諾大學厄巴納-香檳分校 "wikilink")，部分人在高校時期於就讀。其中三個成員，包括[彼得·泰爾](../Page/彼得·泰爾.md "wikilink")、[伊隆·馬斯克和](https://zh.wikipedia.org/wiki/伊隆·馬斯克 "wikilink")[里德·霍夫曼成為了億萬富翁](../Page/里德·霍夫曼.md "wikilink")。
 
 ## 歷史
 
@@ -27,8 +27,8 @@ PayPal
 
 被媒體稱為是「PayPal 黑手黨」成員的人包括：
 
-  - [彼得·泰爾](https://zh.wikipedia.org/wiki/彼得·泰爾 "wikilink")，PayPal
-    創辦人之一及前行政總裁，有時被稱為 PayPal 黑手黨的「首腦」\[20\]。
+  - [彼得·泰爾](../Page/彼得·泰爾.md "wikilink")，PayPal 創辦人之一及前行政總裁，有時被稱為 PayPal
+    黑手黨的「首腦」\[20\]。
 
   - [馬克斯·列夫琴](https://zh.wikipedia.org/wiki/馬克斯·列夫琴 "wikilink")，創辦人之一及前[首席技術長](https://zh.wikipedia.org/wiki/首席技術長 "wikilink")，有時被稱為
     PayPal 黑手黨的「顧問」\[21\]\[22\]。
@@ -81,7 +81,7 @@ PayPal
 
   - [傑森·波特諾](https://zh.wikipedia.org/wiki/傑森·波特諾 "wikilink")，前財務計劃及分析副總裁，後來成為
      的首席財務官，[Palantir
-    Technologies](https://zh.wikipedia.org/wiki/Palantir_Technologies "wikilink")
+    Technologies](../Page/Palantir_Technologies.md "wikilink")
     的首席財務官，Subtraction Capital 的創始合夥人。
 
   - ，前 PayPal 行政人員，後來於[領英](../Page/領英.md "wikilink")、Slide 和 Square
@@ -94,16 +94,15 @@ PayPal
 
   - ，前 PayPal 產品經理，後來成為了  的創會主席\[42\]。
 
-  - [罗素·西蒙斯](https://zh.wikipedia.org/wiki/罗素·西蒙斯 "wikilink")，前 PayPal
-    工程師，後來成為[Yelp的創辦人之一](https://zh.wikipedia.org/wiki/Yelp "wikilink")。
+  - [罗素·西蒙斯](../Page/罗素·西蒙斯.md "wikilink")，前 PayPal
+    工程師，後來成為[Yelp的創辦人之一](../Page/Yelp.md "wikilink")。
 
   - [文斯·素歷圖](https://zh.wikipedia.org/wiki/文斯·素歷圖 "wikilink")，前 PayPal
     企業通訊副總裁，後來成為[阿諾·舒華辛力加的發言人及](https://zh.wikipedia.org/wiki/阿諾·舒華辛力加 "wikilink")
     Yelp 的企業通訊副總裁。
 
-  - [杰里米·斯托普尔曼](https://zh.wikipedia.org/wiki/杰里米·斯托普尔曼 "wikilink")，前
-    PayPal
-    科技副總裁，後來成為[Yelp的創辦人之一](https://zh.wikipedia.org/wiki/Yelp "wikilink")\[43\]\[44\]\[45\]\[46\]\[47\]\[48\]。
+  - [杰里米·斯托普尔曼](../Page/杰里米·斯托普尔曼.md "wikilink")，前 PayPal
+    科技副總裁，後來成為[Yelp的創辦人之一](../Page/Yelp.md "wikilink")\[43\]\[44\]\[45\]\[46\]\[47\]\[48\]。
 
   - [黃易山](../Page/黃易山.md "wikilink")，PayPal 前工程經理，後來於 Facebook
     工作，[Reddit](../Page/Reddit.md "wikilink") 的前行政總裁\[49\]。

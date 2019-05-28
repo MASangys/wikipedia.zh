@@ -32,8 +32,7 @@ Factory所屬](../Page/Idea_Factory.md "wikilink")[遊戲開發者兼](https://z
       - [超女神信仰 諾瓦露
         激神聖黑之心](https://zh.wikipedia.org/wiki/超女神信仰_諾瓦露_激神聖黑之心 "wikilink")（PlayStation
         Vita，2014年5月）
-      - [超次元動作
-        戰機少女U](https://zh.wikipedia.org/wiki/超次元動作_戰機少女U "wikilink")（PlayStation
+      - [超次元動作 戰機少女U](../Page/超次元動作_戰機少女U.md "wikilink")（PlayStation
         Vita，2014年8月）
       - [神次次元戰記 戰機少女重生3
         V世紀](../Page/神次元戰記_戰機少女V.md "wikilink")（PlayStation
@@ -42,10 +41,10 @@ Factory所屬](../Page/Idea_Factory.md "wikilink")[遊戲開發者兼](https://z
         戰機少女VII](https://zh.wikipedia.org/wiki/新次元游戏_海王星VII "wikilink")（PlayStation
         4，2015年4月）
       - [激次元組合
-        布蘭+戰機少女VS殭屍軍團](https://zh.wikipedia.org/wiki/激次元組合_戰機少女VS殭屍軍團 "wikilink")（PlayStation
+        布蘭+戰機少女VS殭屍軍團](../Page/激次元組合_戰機少女VS殭屍軍團.md "wikilink")（PlayStation
         Vita，2015年10月）
       - [超次元大戰 戰機少女VS世嘉・主機娘
-        夢幻合體特別版](https://zh.wikipedia.org/wiki/超次元大战_海王星VS世嘉主机少女_梦幻合体Special "wikilink")（PlayStation
+        夢幻合體特別版](../Page/超次元大战_海王星VS世嘉主机少女_梦幻合体Special.md "wikilink")（PlayStation
         Vita，2015年11月）
       - [四女神Online
         網絡次元海王星](https://zh.wikipedia.org/wiki/四女神Online_網絡次元海王星 "wikilink")（PlayStation

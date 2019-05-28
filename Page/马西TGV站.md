@@ -4,9 +4,9 @@
 
 马西TGV站位于[马西市镇范围内](../Page/马西_\(埃松省\).md "wikilink")，[法国高速铁路大西洋线的正线上](https://zh.wikipedia.org/wiki/法国高速铁路大西洋线 "wikilink")，是一个地下高速铁路火车站。车站的站台大致呈东北-西南走向，地面则设有站房并可通过电梯连接站台。法国国家A10和A126号高速公路经过该站的南部并设有一个出入口。
 
-马西TGV站的地面即[马西-帕莱索站](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")，两个车站共同组成了巴黎南郊重要的公共交通枢纽\[1\]。
+马西TGV站的地面即[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")，两个车站共同组成了巴黎南郊重要的公共交通枢纽\[1\]。
 
-马西TGV站的东北方向有一条连接线，可连接[巴黎大环线铁路并连接法国的其他几条高速铁路](https://zh.wikipedia.org/wiki/巴黎大环线铁路 "wikilink")。但由于马西TGV站的西侧与[巴黎大环线铁路不能互通](https://zh.wikipedia.org/wiki/巴黎大环线铁路 "wikilink")，因此前往[勒阿弗尔方向的TGV列车只能进](../Page/勒阿弗尔站.md "wikilink")[马西-帕莱索站](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")。
+马西TGV站的东北方向有一条连接线，可连接[巴黎大环线铁路并连接法国的其他几条高速铁路](../Page/巴黎大环线铁路.md "wikilink")。但由于马西TGV站的西侧与[巴黎大环线铁路不能互通](../Page/巴黎大环线铁路.md "wikilink")，因此前往[勒阿弗尔方向的TGV列车只能进](../Page/勒阿弗尔站.md "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")。
 
 ## 车站建设意义
 
@@ -60,7 +60,7 @@
 <td style="text-align: center;"><p><a href="../Page/蒙彼利埃圣罗克站.md" title="wikilink">蒙彼利埃</a>—<a href="../Page/南特站.md" title="wikilink">南特</a>/<a href="../Page/雷恩站.md" title="wikilink">雷恩</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/图尔宽站" title="wikilink">图尔宽</a>—<a href="../Page/南特站.md" title="wikilink">南特</a>/<a href="../Page/雷恩站.md" title="wikilink">雷恩</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/图尔宽站.md" title="wikilink">图尔宽</a>—<a href="../Page/南特站.md" title="wikilink">南特</a>/<a href="../Page/雷恩站.md" title="wikilink">雷恩</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="../Page/里昂佩拉什站.md" title="wikilink">里昂</a>—<a href="../Page/南特站.md" title="wikilink">南特</a>/<a href="../Page/雷恩站.md" title="wikilink">雷恩</a></p></td>
@@ -71,10 +71,10 @@
 </tbody>
 </table>
 
-## 前往[马西-帕莱索站](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")
+## 前往[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")
 
-马西TGV站地面就是[马西-帕莱索站](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")（Gare
-de Massy-Palaiseau），出站即可看见。
+马西TGV站地面就是[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink")（Gare de
+Massy-Palaiseau），出站即可看见。
 
 在马西帕莱索站可换乘巴黎大区块铁B线（RER B）和巴黎大区块铁C线（RER
 C），前往巴黎市区以及巴黎附近的于维西（Juvisy）、凡尔赛（Versaille）、戴高乐机场（Aéroport
@@ -108,7 +108,7 @@ CDG）等地。同时该站还经停由马赛前往勒阿弗尔的TGV列车，�
 
 ## 参见
 
-  - [法国铁路车站列表](https://zh.wikipedia.org/wiki/法国铁路车站列表 "wikilink")
+  - [法国铁路车站列表](../Page/法国铁路车站列表.md "wikilink")
 
 ## 参考文献
 

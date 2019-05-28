@@ -4,7 +4,7 @@ Me The
 Money系列的第六季](../Page/Show_Me_The_Money.md "wikilink")，\[1\]于2017年6月30日\[2\]至9月1日每逢周五晚间播出。
 
 SMTM第六季的4组制作人团队分别由[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")、[DEAN](https://zh.wikipedia.org/wiki/权革 "wikilink")；\[3\][朴載範](../Page/朴載範.md "wikilink")、[Dok2](../Page/Dok2.md "wikilink")；\[4\][Dynamic
-Duo的](../Page/Dynamic_Duo.md "wikilink")、\[5\]和、\[6\]组成。\[7\]此季吸引了比往季更多的参赛者，超过13000名选手参赛也是SMTM历史上参赛人数最多的一季，包括、、NO:EL\[8\]、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")\[9\]、、、、Candle、[Junoflo](https://zh.wikipedia.org/wiki/Junoflo "wikilink")、、、、、Ja
+Duo的](../Page/Dynamic_Duo.md "wikilink")、\[5\]和、\[6\]组成。\[7\]此季吸引了比往季更多的参赛者，超过13000名选手参赛也是SMTM历史上参赛人数最多的一季，包括、、NO:EL\[8\]、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")\[9\]、、、、Candle、[Junoflo](../Page/Junoflo.md "wikilink")、、、、、Ja
 Mezz、、、、、、、、、[Untouchable成员](../Page/Untouchable_\(韓國團體\).md "wikilink")[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink")\[10\]、、[TEEN
 TOP成员](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")[创造](../Page/創造_\(歌手\).md "wikilink")\[11\]、珍岛狗、PENOMECO、JJK、Rudals和SMTM第一季的制作人\[12\]等在内的众多韩国Hiphop界知名或小有名气的Rapper均报名参加了此季的海选。优胜者将获得1亿韩元奖金及一辆[雪佛兰科迈罗汽车](https://zh.wikipedia.org/wiki/雪佛兰科迈罗 "wikilink")。
 
@@ -52,7 +52,7 @@ DEAN队（[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")
 **JAY PARK & Dok2队**
 
   -
-  - [Junoflo](https://zh.wikipedia.org/wiki/Junoflo "wikilink")
+  - [Junoflo](../Page/Junoflo.md "wikilink")
 
   - WoodieGoChild
 
@@ -65,14 +65,14 @@ DEAN队（[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")
   -
   - [Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")
 
-  - [赵旴灿](https://zh.wikipedia.org/wiki/趙旴燦 "wikilink")
+  - [赵旴灿](../Page/趙旴燦.md "wikilink")
 
   - Rhyno
 
   -
 **Tiger JK & BIZZY队**
 
-  - [禹元材](https://zh.wikipedia.org/wiki/禹元材 "wikilink")
+  - [禹元材](../Page/禹元材.md "wikilink")
 
   - Maniac
 
@@ -112,13 +112,13 @@ DEAN队（[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/禹元材" title="wikilink">禹元材</a></p></td>
+<td><p><a href="../Page/禹元材.md" title="wikilink">禹元材</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>TYNO</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a></p></td>
+<td><p><a href="../Page/Junoflo.md" title="wikilink">Junoflo</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>PENOMECO</p></td>
@@ -202,13 +202,13 @@ SMTM6特别公演阵容
 </tr>
 <tr class="even">
 <td><p>Tiger JK &amp; BIZZY队</p></td>
-<td><p>Maniac、BLACK NINE、Asol、<a href="https://zh.wikipedia.org/wiki/禹元材" title="wikilink">禹元材</a></p></td>
+<td><p>Maniac、BLACK NINE、Asol、<a href="../Page/禹元材.md" title="wikilink">禹元材</a></p></td>
 <td><p>筷子</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>JAY PARK &amp; Dok2队</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a>、Ja Mezz、Ness、WooddieGoChild</p></td>
+<td><p><a href="../Page/Junoflo.md" title="wikilink">Junoflo</a>、Ja Mezz、Ness、WooddieGoChild</p></td>
 <td><p>赌博 (Life Is a Gamble)</p></td>
 <td></td>
 </tr>
@@ -260,7 +260,7 @@ SMTM6特别公演阵容
 <tr class="even">
 <td><p><strong>Maniac</strong> - Killin it<br />
 <small>(Feat. , )</small></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a></strong> - Eyes On Me<br />
+<td><p><strong><a href="../Page/Junoflo.md" title="wikilink">Junoflo</a></strong> - Eyes On Me<br />
 <small>(Feat. <a href="../Page/G.Soul.md" title="wikilink">G.Soul</a>, <a href="../Page/Dok2.md" title="wikilink">Dok2</a>)</small></p></td>
 <td></td>
 <td></td>
@@ -274,7 +274,7 @@ SMTM6特别公演阵容
 <tr class="even">
 <td><p><strong>Ja Mezz</strong> - Birthday<br />
 <small>(Feat. <a href="../Page/朴載範.md" title="wikilink">Jay Park</a>、<a href="../Page/Dok2.md" title="wikilink">Dok2</a>)</small></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/禹元材" title="wikilink">禹元材</a></strong> - 又<br />
+<td><p><strong><a href="../Page/禹元材.md" title="wikilink">禹元材</a></strong> - 又<br />
 <small>(Feat. Tiger JK, Bizzy, MRSHLL)</small></p></td>
 <td></td>
 <td></td>
@@ -358,7 +358,7 @@ SMTM6特别公演阵容
 <td><p>淘汰</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/禹元材" title="wikilink">禹元材</a></p></td>
+<td><p><a href="../Page/禹元材.md" title="wikilink">禹元材</a></p></td>
 <td><p>未公布</p></td>
 <td><p>2,937,500</p></td>
 <td><p>晋级</p></td>
@@ -366,7 +366,7 @@ SMTM6特别公演阵容
 </tr>
 <tr class="odd">
 <td><p>JAY PARK &amp; Dok2队</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a></p></td>
+<td><p><a href="../Page/Junoflo.md" title="wikilink">Junoflo</a></p></td>
 <td><p>1,312,500</p></td>
 <td><p>2,900,000</p></td>
 <td><p>晋级</p></td>
@@ -400,7 +400,7 @@ Dok2队全员被淘汰。
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/赵旴灿" title="wikilink">赵旴灿</a></strong> - VVIP<br />
 <small>(Feat. Sik-K, GAEKO)</small></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/禹元材" title="wikilink">禹元材</a></strong> - ZINZA<br />
+<td><p><strong><a href="../Page/禹元材.md" title="wikilink">禹元材</a></strong> - ZINZA<br />
 <small>(Feat. <a href="../Page/梁東根.md" title="wikilink">YDG</a>, <a href="../Page/Suran.md" title="wikilink">Suran</a>)</small></p></td>
 <td></td>
 <td></td>
@@ -426,8 +426,8 @@ Dok2队全员被淘汰。
 <td><p>DYNAMIC DUO队</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a></strong> - Twisted<br />
-<small>(Feat. 金孝恩, <a href="https://zh.wikipedia.org/wiki/Changmo" title="wikilink">CHANGMO</a>)</small></p></td>
+<td><p><strong><a href="../Page/Junoflo.md" title="wikilink">Junoflo</a></strong> - Twisted<br />
+<small>(Feat. 金孝恩, <a href="../Page/Changmo.md" title="wikilink">CHANGMO</a>)</small></p></td>
 <td><p><strong></strong> - Filament<br />
 <small>(Feat. <a href="../Page/金範洙.md" title="wikilink">金範洙</a>)</small></p></td>
 <td></td>
@@ -478,14 +478,14 @@ Dok2队全员被淘汰。
 </tr>
 <tr class="odd">
 <td><p>Tiger JK &amp; BIZZY队</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/禹元宰" title="wikilink">禹元宰</a></p></td>
+<td><p><a href="../Page/禹元宰.md" title="wikilink">禹元宰</a></p></td>
 <td><p>未公布</p></td>
 <td><p>6,925,000</p></td>
 <td><p>晋级</p></td>
 </tr>
 <tr class="even">
 <td><p>JAY PARK &amp; Dok2队</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a></p></td>
+<td><p><a href="../Page/Junoflo.md" title="wikilink">Junoflo</a></p></td>
 <td><p>2,150,000</p></td>
 <td><p>2,800,000</p></td>
 <td><p>淘汰</p></td>
@@ -518,7 +518,7 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 <small>(Feat. , DJ Friz)</small></p></td>
 <td><p><strong></strong> - bestdriverZ<br />
 <small>(Feat. <a href="../Page/Zion.T.md" title="wikilink">Zion.T</a>, <a href="https://zh.wikipedia.org/wiki/权革" title="wikilink">DEAN</a>)</small></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/禹元材" title="wikilink">禹元材</a></strong> - MOVE<br />
+<td><p><strong><a href="../Page/禹元材.md" title="wikilink">禹元材</a></strong> - MOVE<br />
 <small>(Feat. )</small></p></td>
 <td></td>
 <td></td>
@@ -554,7 +554,7 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 </tr>
 <tr class="odd">
 <td><p>Tiger JK &amp; BIZZY队</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/禹元材" title="wikilink">禹元材</a></p></td>
+<td><p><a href="../Page/禹元材.md" title="wikilink">禹元材</a></p></td>
 <td><p>3,600,000</p></td>
 <td><p>6,175,000</p></td>
 <td><p>第三名</p></td>
@@ -621,42 +621,38 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 
   - **ZICO & DEAN队：**、、、
   - **JAY PARK &
-    Dok2队：**[Junoflo](https://zh.wikipedia.org/wiki/Junoflo "wikilink")、WooddieGoChild、Ja
+    Dok2队：**[Junoflo](../Page/Junoflo.md "wikilink")、WooddieGoChild、Ja
     Mezz、Ness
   - **DYNAMIC
     DUO队：**、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")、[赵旴灿](https://zh.wikipedia.org/wiki/赵旴灿 "wikilink")、Rhyno
   - **Tiger JK &
-    BIZZY队：**[禹元材](https://zh.wikipedia.org/wiki/禹元材 "wikilink")、Maniac、Asol、BLACK
+    BIZZY队：**[禹元材](../Page/禹元材.md "wikilink")、Maniac、Asol、BLACK
     NINE
 
 **14强：**
 
   - **ZICO & DEAN队：**、、、
   - **JAY PARK &
-    Dok2队：**[Junoflo](https://zh.wikipedia.org/wiki/Junoflo "wikilink")、WooddieGoChild、Ja
+    Dok2队：**[Junoflo](../Page/Junoflo.md "wikilink")、WooddieGoChild、Ja
     Mezz
   - **DYNAMIC
     DUO队：**、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")、[赵旴灿](https://zh.wikipedia.org/wiki/赵旴灿 "wikilink")、Rhyno
-  - **Tiger JK &
-    BIZZY队：**[禹元材](https://zh.wikipedia.org/wiki/禹元材 "wikilink")、Maniac、BLACK
+  - **Tiger JK & BIZZY队：**[禹元材](../Page/禹元材.md "wikilink")、Maniac、BLACK
     NINE
 
 **6强（半决赛）：**
 
   - **ZICO & DEAN队：**
-  - **JAY PARK &
-    Dok2队：**[Junoflo](https://zh.wikipedia.org/wiki/Junoflo "wikilink")
+  - **JAY PARK & Dok2队：**[Junoflo](../Page/Junoflo.md "wikilink")
   - **DYNAMIC
     DUO队：**、[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")、[赵旴灿](https://zh.wikipedia.org/wiki/赵旴灿 "wikilink")
-  - **Tiger JK &
-    BIZZY队：**[禹元材](https://zh.wikipedia.org/wiki/禹元材 "wikilink")
+  - **Tiger JK & BIZZY队：**[禹元材](../Page/禹元材.md "wikilink")
 
 **决赛首轮：**
 
   - **ZICO & DEAN队：**
   - **DYNAMIC DUO队：**
-  - **Tiger JK &
-    BIZZY队：**[禹元材](https://zh.wikipedia.org/wiki/禹元材 "wikilink")
+  - **Tiger JK & BIZZY队：**[禹元材](../Page/禹元材.md "wikilink")
 
 **决赛末轮：**
 
@@ -669,45 +665,45 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 
 ## 话题性选手
 
-| 参赛者                                                             | 团队               | 回合 |
-| --------------------------------------------------------------- | ---------------- | -- |
-| 1                                                               | 2                | 3  |
-| ****                                                            | ZICO & DEAN      | 通过 |
-| ****                                                            | DYNAMIC DUO      | 通过 |
-| **[禹元材](https://zh.wikipedia.org/wiki/禹元材 "wikilink")**         | Tiger JK & BIZZY | 通过 |
-| **[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")**   | DYNAMIC DUO      | 通过 |
-| **[Junoflo](https://zh.wikipedia.org/wiki/Junoflo "wikilink")** | JAY PARK & Dok2  | 通过 |
-| **[赵旴灿](https://zh.wikipedia.org/wiki/赵旴灿 "wikilink")**         | DYNAMIC DUO      | 通过 |
-| **Ja Mezz**                                                     | JAY PARK & Dok2  | 通过 |
-| **Maniac**                                                      | Tiger JK & BIZZY | 通过 |
-| ****                                                            | ZICO & DEAN      | 通过 |
-| ****                                                            | ZICO & DEAN      | 通过 |
-| **Rhyno**                                                       | DYNAMIC DUO      | 通过 |
-| **WoodieGoChild**                                               | JAY PARK & Dok2  | 通过 |
-| **BLACK NINE**                                                  | Tiger JK & BIZZY | 通过 |
-| ****                                                            | ZICO & DEAN      | 通过 |
-| **Ness**                                                        | JAY PARK & Dok2  | 通过 |
-| **Asol**                                                        | Tiger JK & BIZZY | 通过 |
-| ****                                                            | ZICO & DEAN      | 通过 |
-| ****                                                            | JAY PARK & Dok2  | 通过 |
-| ****                                                            | DYNAMIC DUO      | 通过 |
-| ****                                                            | Tiger JK & BIZZY | 通过 |
-| ****                                                            | \-               | 通过 |
-| **JJK**                                                         | \-               | 通过 |
-| ****                                                            | \-               | 通过 |
-| **[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink")**   | \-               | 通过 |
-| ****                                                            | \-               | 通过 |
-| ****                                                            | \-               | 通过 |
-| ****                                                            | \-               | 通过 |
-| ****                                                            | \-               | 通过 |
-| **PENOMECO**                                                    | \-               | 通过 |
-| ****                                                            | \-               | 通过 |
-| **珍岛狗**                                                         | \-               | 通过 |
-| **Rudals**                                                      | \-               | 通过 |
-| **NO:EL**                                                       | \-               | 通过 |
-| ****                                                            | \-               | 通过 |
-| ****                                                            | \-               | 通过 |
-| **地球人**                                                         | \-               | 淘汰 |
+| 参赛者                                                           | 团队               | 回合 |
+| ------------------------------------------------------------- | ---------------- | -- |
+| 1                                                             | 2                | 3  |
+| ****                                                          | ZICO & DEAN      | 通过 |
+| ****                                                          | DYNAMIC DUO      | 通过 |
+| **[禹元材](../Page/禹元材.md "wikilink")**                          | Tiger JK & BIZZY | 通过 |
+| **[Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")** | DYNAMIC DUO      | 通过 |
+| **[Junoflo](../Page/Junoflo.md "wikilink")**                  | JAY PARK & Dok2  | 通过 |
+| **[赵旴灿](https://zh.wikipedia.org/wiki/赵旴灿 "wikilink")**       | DYNAMIC DUO      | 通过 |
+| **Ja Mezz**                                                   | JAY PARK & Dok2  | 通过 |
+| **Maniac**                                                    | Tiger JK & BIZZY | 通过 |
+| ****                                                          | ZICO & DEAN      | 通过 |
+| ****                                                          | ZICO & DEAN      | 通过 |
+| **Rhyno**                                                     | DYNAMIC DUO      | 通过 |
+| **WoodieGoChild**                                             | JAY PARK & Dok2  | 通过 |
+| **BLACK NINE**                                                | Tiger JK & BIZZY | 通过 |
+| ****                                                          | ZICO & DEAN      | 通过 |
+| **Ness**                                                      | JAY PARK & Dok2  | 通过 |
+| **Asol**                                                      | Tiger JK & BIZZY | 通过 |
+| ****                                                          | ZICO & DEAN      | 通过 |
+| ****                                                          | JAY PARK & Dok2  | 通过 |
+| ****                                                          | DYNAMIC DUO      | 通过 |
+| ****                                                          | Tiger JK & BIZZY | 通过 |
+| ****                                                          | \-               | 通过 |
+| **JJK**                                                       | \-               | 通过 |
+| ****                                                          | \-               | 通过 |
+| **[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink")** | \-               | 通过 |
+| ****                                                          | \-               | 通过 |
+| ****                                                          | \-               | 通过 |
+| ****                                                          | \-               | 通过 |
+| ****                                                          | \-               | 通过 |
+| **PENOMECO**                                                  | \-               | 通过 |
+| ****                                                          | \-               | 通过 |
+| **珍岛狗**                                                       | \-               | 通过 |
+| **Rudals**                                                    | \-               | 通过 |
+| **NO:EL**                                                     | \-               | 通过 |
+| ****                                                          | \-               | 通过 |
+| ****                                                          | \-               | 通过 |
+| **地球人**                                                       | \-               | 淘汰 |
 
   - **其它参赛者：**Qwala（曾参加SMTM2）、[创造](../Page/創造_\(歌手\).md "wikilink")（组合[TEEN
     TOP成员](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")）、Candle、Kanto、LTAK、、（SMTM第三季至第五季均有参赛，此季因故退赛）
@@ -741,7 +737,7 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 </tr>
 <tr class="odd">
 <td><p>筷子</p></td>
-<td><p>Maniac、BLACK NINE、Asol、<a href="https://zh.wikipedia.org/wiki/禹元材" title="wikilink">禹元材</a> (feat. , )</p></td>
+<td><p>Maniac、BLACK NINE、Asol、<a href="../Page/禹元材.md" title="wikilink">禹元材</a> (feat. , )</p></td>
 <td><p>34</p></td>
 <td><p>134,376+<ref>筷子累计销量：</p>
 <ul>
@@ -752,7 +748,7 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 </tr>
 <tr class="even">
 <td><p>赌博 (Life Is a Gamble)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a>、Ja Mezz、Ness、WoodieGoChild (feat. <a href="../Page/朴載範.md" title="wikilink">朴載範</a>, <a href="../Page/Dok2.md" title="wikilink">Dok2</a>)</p></td>
+<td><p><a href="../Page/Junoflo.md" title="wikilink">Junoflo</a>、Ja Mezz、Ness、WoodieGoChild (feat. <a href="../Page/朴載範.md" title="wikilink">朴載範</a>, <a href="../Page/Dok2.md" title="wikilink">Dok2</a>)</p></td>
 <td><p>19</p></td>
 <td><p>201,301+<ref>赌博 (Life Is a Gamble)累计销量：</p>
 <ul>
@@ -802,7 +798,7 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 </tr>
 <tr class="odd">
 <td><p>Eyes On Me</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a> (feat. <a href="../Page/G.Soul.md" title="wikilink">G.Soul</a>, <a href="../Page/Dok2.md" title="wikilink">Dok2</a>)</p></td>
+<td><p><a href="../Page/Junoflo.md" title="wikilink">Junoflo</a> (feat. <a href="../Page/G.Soul.md" title="wikilink">G.Soul</a>, <a href="../Page/Dok2.md" title="wikilink">Dok2</a>)</p></td>
 <td><p>58</p></td>
 <td><p>51,644+<ref>Eyes On Me累计销量：</p>
 <ul>
@@ -824,7 +820,7 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 </tr>
 <tr class="odd">
 <td><p>又</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/禹元材" title="wikilink">禹元材</a> (feat. , , MRSHLL)</p></td>
+<td><p><a href="../Page/禹元材.md" title="wikilink">禹元材</a> (feat. , , MRSHLL)</p></td>
 <td><p>13</p></td>
 <td><p>222,434+<ref>又累计销量：</p>
 <ul>
@@ -871,7 +867,7 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 </tr>
 <tr class="odd">
 <td><p>ZINZA</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/禹元材" title="wikilink">禹元材</a> (feat. <a href="../Page/梁東根.md" title="wikilink">YDG</a>, <a href="../Page/Suran.md" title="wikilink">Suran</a>)</p></td>
+<td><p><a href="../Page/禹元材.md" title="wikilink">禹元材</a> (feat. <a href="../Page/梁東根.md" title="wikilink">YDG</a>, <a href="../Page/Suran.md" title="wikilink">Suran</a>)</p></td>
 <td><p>33</p></td>
 <td><p>109,033+<ref>ZINZA累计销量：</p>
 <ul>
@@ -906,7 +902,7 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 </tr>
 <tr class="even">
 <td><p>Twisted</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a> (feat. 金孝恩, <a href="https://zh.wikipedia.org/wiki/Changmo" title="wikilink">CHANGMO</a>)</p></td>
+<td><p><a href="../Page/Junoflo.md" title="wikilink">Junoflo</a> (feat. 金孝恩, <a href="../Page/Changmo.md" title="wikilink">CHANGMO</a>)</p></td>
 <td><p>30</p></td>
 <td><p>89,106+<ref>Twisted累计销量：</p>
 <ul>
@@ -952,7 +948,7 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 </tr>
 <tr class="even">
 <td><p>MOVE</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/禹元材" title="wikilink">禹元材</a> (feat. )</p></td>
+<td><p><a href="../Page/禹元材.md" title="wikilink">禹元材</a> (feat. )</p></td>
 <td><p>16</p></td>
 <td><p>169,487+<ref>MOVE累计销量：</p>
 <ul>
@@ -996,7 +992,7 @@ Hangzoo在首轮以第二位的成绩晋级，并获得了最终的胜利。ZICO
 </tr>
 <tr class="even">
 <td><p>一枚铜钱 Pt.2 (Remix)</p></td>
-<td><p>、赵旴灿、Rhyno、<a href="https://zh.wikipedia.org/wiki/鄭韓海" title="wikilink">Hanhae</a>、、Maniac、BLACK NINE、Asol、<a href="https://zh.wikipedia.org/wiki/禹元宰" title="wikilink">禹元宰</a>、、<a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a>、Ja Mezz、Ness、Woodie Gochild、、、Killagramz、Hash Swan、Young B、Olltii</p></td>
+<td><p>、赵旴灿、Rhyno、<a href="https://zh.wikipedia.org/wiki/鄭韓海" title="wikilink">Hanhae</a>、、Maniac、BLACK NINE、Asol、<a href="../Page/禹元宰.md" title="wikilink">禹元宰</a>、、<a href="../Page/Junoflo.md" title="wikilink">Junoflo</a>、Ja Mezz、Ness、Woodie Gochild、、、Killagramz、Hash Swan、Young B、Olltii</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>Show Me The Money 6 Special</p></td>

@@ -38,7 +38,7 @@
 <td><p>秀珍的未婚夫，小區藥店藥師。表面上看起来很善良，对人很亲切而实际上有暴力倾向。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李相二" title="wikilink">李相二</a></p></td>
+<td><p><a href="../Page/李相二.md" title="wikilink">李相二</a></p></td>
 <td><p>吳達洙</p></td>
 <td></td>
 <td><p>DVD出租店老闆，小區中最理性、聰明、冷靜的前輩，但喜歡吐槽別人。深受貞愛的喜愛。其实是富二代。</p></td>
@@ -257,7 +257,7 @@
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017_KBS演技大獎" title="wikilink">KBS演技大賞</a></p></td>
+<td><p><a href="../Page/2017_KBS演技大獎.md" title="wikilink">KBS演技大賞</a></p></td>
 <td><p>女子配角獎</p></td>
 <td><p><a href="../Page/鄭惠成.md" title="wikilink">鄭惠成</a></p></td>
 <td></td>

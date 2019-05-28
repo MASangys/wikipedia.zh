@@ -12,7 +12,7 @@ iPad mini
 鏡頭。[處理器採用與](../Page/中央处理器.md "wikilink")
 [iPhone 6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")
 相同的[64位元](../Page/64位元.md "wikilink")[Apple
-A8處理器和M](https://zh.wikipedia.org/wiki/Apple_A8 "wikilink")8動態協同處理器，配備2GB
+A8處理器和M](../Page/Apple_A8.md "wikilink")8動態協同處理器，配備2GB
 RAM。此外，採用[MIMO技術](../Page/MIMO.md "wikilink")，提高了[Wi-Fi數據傳輸速度](../Page/Wi-Fi.md "wikilink")。iPad
 mini 4不仅被压缩到了和[iPad Air
 2相同的](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")

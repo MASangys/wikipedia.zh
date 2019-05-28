@@ -5,7 +5,7 @@
 OverlayFS的主要机制涉及当两个文件系统提供同一名称的目录时目录访问的合并。除此之外，OverlayFS呈现其中一个所产生的对象（如果有），“上层”文件系统优先。OverlayFS与其他覆盖型文件系统不同，OverlayFS合并的目录子树不一定是来自不同的文件系统。\[4\]
 
 虽然截至2016年11月，大部分Linux发行版的[Live
-CD使用](../Page/Live_CD.md "wikilink")[Aufs](https://zh.wikipedia.org/wiki/Aufs "wikilink")，但[Slackware为其Live](../Page/Slackware.md "wikilink")
+CD使用](../Page/Live_CD.md "wikilink")[Aufs](../Page/Aufs.md "wikilink")，但[Slackware为其Live](../Page/Slackware.md "wikilink")
 CD使用overlayfs。\[5\]
 
 OverlayFS支持在上层文件系统中的和opaque目录，以允许删除文件和目录。\[6\]

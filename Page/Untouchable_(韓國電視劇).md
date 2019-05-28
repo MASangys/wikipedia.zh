@@ -49,7 +49,7 @@
 <tr class="odd">
 <td></td>
 <td><p>張圭浩</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳漢祺" title="wikilink">陳漢祺</a></p></td>
+<td><p><a href="../Page/陳漢祺.md" title="wikilink">陳漢祺</a></p></td>
 <td><p>範植的兒子，俊書及基書的堂弟。</p></td>
 </tr>
 <tr class="even">

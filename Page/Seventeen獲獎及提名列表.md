@@ -16,9 +16,9 @@
 ### [Gaon Chart K-POP大獎（Gaon Chart K-POP Awards）](../Page/Gaon_Chart_K-POP大獎.md "wikilink")
 
 |- | 2016年 | 世界新人獎（男子部門） | rowspan="2"|SEVENTEEN |  |- | 2017年 | 火熱表演獎 |
- |- | 2018年 | 專輯部門年度歌手獎－第二季 |
-[Al1](https://zh.wikipedia.org/wiki/Al1 "wikilink") |  |- | rowspan="2"|
-2019年 | 火熱表演獎 | rowspan="2"|SEVENTEEN |  |- | K-POP世界韓流明星獎 |  |- |}
+ |- | 2018年 | 專輯部門年度歌手獎－第二季 | [Al1](../Page/Al1.md "wikilink") |  |- |
+rowspan="2"| 2019年 | 火熱表演獎 | rowspan="2"|SEVENTEEN |  |- | K-POP世界韓流明星獎
+|  |- |}
 
 ### [金唱片獎（Golden Disk Awards）](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")
 
@@ -35,15 +35,13 @@ DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink") |  |}
 |- | rowspan="2"|2015年 |  | rowspan="2"|SEVENTEEN |  |- |  |  |- |
 rowspan="5"|2016年 |  | Love & Letter |  |- | 最佳亞洲風格 |
 rowspan="2"|SEVENTEEN |  |- |  |  |- |  | rowspan="2"|Pretty U |  |- |
-|  |- |
-rowspan="7"|[2017年](https://zh.wikipedia.org/wiki/2017年Mnet亞洲音樂大獎 "wikilink")
-|  | [Al1](https://zh.wikipedia.org/wiki/Al1 "wikilink") |  |- |  |
-rowspan="3"| 울고 싶지 않아 (Don't Wanna Cry) |  |- | \[3\] |  |- | \[4\] |
-|- | \[5\] | rowspan="3"| SEVENTEEN |  |- |  |  |- | 國際最受歡迎藝人獎 |  |- |
+|  |- | rowspan="7"|[2017年](../Page/2017年Mnet亞洲音樂大獎.md "wikilink") |  |
+[Al1](../Page/Al1.md "wikilink") |  |- |  | rowspan="3"| 울고 싶지 않아 (Don't
+Wanna Cry) |  |- | \[3\] |  |- | \[4\] |  |- | \[5\] | rowspan="3"|
+SEVENTEEN |  |- |  |  |- | 國際最受歡迎藝人獎 |  |- |
 rowspan="7"|[2018年](https://zh.wikipedia.org/wiki/2018年Mnet亞洲音樂大獎 "wikilink")
 |  | rowspan="3"| SEVENTEEN |  |- |  |  |- |  |  |- |  | 《Oh My\!》 |  |-
-|  | [夫碩順](https://zh.wikipedia.org/wiki/夫碩順 "wikilink") |  |- |  |
-《A-Teen》 |  |- |}
+|  | [夫碩順](../Page/夫碩順.md "wikilink") |  |- |  | 《A-Teen》 |  |- |}
 
 ### [甜瓜音樂獎（Melon Music Awards）](../Page/甜瓜音樂獎.md "wikilink")
 
@@ -55,9 +53,8 @@ rowspan="2"|2018年 | 舞蹈獎（男子部門） | rowspan="2"|THANKS |  |}
 ### [首爾音樂獎（Seoul Music Awards）](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")
 
 |- | 2016年 | 新人賞 | SEVENTEEN |  |- | 2017年 | 本賞 | Love & Letter |  |- |
-2018年 | 本賞 | [TEEN,
-AGE](https://zh.wikipedia.org/wiki/Teen,_Age "wikilink") |  |- | 2019年 |
-本賞 | [YOU MAKE MY
+2018年 | 本賞 | [TEEN, AGE](../Page/Teen,_Age.md "wikilink") |  |- | 2019年
+| 本賞 | [YOU MAKE MY
 DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink") |  |}
 
 ### 韓國有線電視大獎（Korea Cable TV Awards）
@@ -235,13 +232,13 @@ DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink") |  |}
 
 ### [MBC偶像明星運動會](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")
 
-| 集數                                                                                                                                                                                                                                                                                             | 項目                                                                                                                                                                                                                              | 獎項                | 成績           |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- | ------------ |
-| 2015年中秋特輯                                                                                                                                                                                                                                                                                      | 男子田徑4x100公尺接力（[圓佑](https://zh.wikipedia.org/wiki/全圓佑 "wikilink")、[玟奎](https://zh.wikipedia.org/wiki/金玟奎 "wikilink")、[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、[S.coups](https://zh.wikipedia.org/wiki/崔勝徹 "wikilink")） | 銀牌                | 秒數：58秒72     |
-| 2017年春節特輯                                                                                                                                                                                                                                                                                      | 男子田徑4x400公尺接力（圓佑、淨漢、玟奎、S.coups）                                                                                                                                                                                                 | 金牌                | 秒數：1分53秒53   |
-| 男子團體有氧體操（[Jun](https://zh.wikipedia.org/wiki/文俊輝 "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權純永 "wikilink")、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")、[Dino](https://zh.wikipedia.org/wiki/李燦_\(SEVENTEEN\) "wikilink")） | 銀牌                                                                                                                                                                                                                              | 總分：19.10 / 20.00分 |              |
-| 男子團體射箭（[Vernon](https://zh.wikipedia.org/wiki/崔翰率 "wikilink")、Jun、[WOOZI](https://zh.wikipedia.org/wiki/李知勳_\(SEVENTEEN\) "wikilink")）                                                                                                                                                         | 銀牌                                                                                                                                                                                                                              | 總分：78 / 100分      |              |
-| 2019年春節特輯                                                                                                                                                                                                                                                                                      | 男子團體射箭（[Vernon](https://zh.wikipedia.org/wiki/崔翰率 "wikilink")、Jun、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")）                                                                                                           | 金牌                | 總分：95 / 100分 |
+| 集數                                                                                                                                                                                                                                                       | 項目                                                                                                                                                                                                           | 獎項                | 成績           |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- | ------------ |
+| 2015年中秋特輯                                                                                                                                                                                                                                                | 男子田徑4x100公尺接力（[圓佑](../Page/全圓佑.md "wikilink")、[玟奎](https://zh.wikipedia.org/wiki/金玟奎 "wikilink")、[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、[S.coups](https://zh.wikipedia.org/wiki/崔勝徹 "wikilink")） | 銀牌                | 秒數：58秒72     |
+| 2017年春節特輯                                                                                                                                                                                                                                                | 男子田徑4x400公尺接力（圓佑、淨漢、玟奎、S.coups）                                                                                                                                                                              | 金牌                | 秒數：1分53秒53   |
+| 男子團體有氧體操（[Jun](../Page/文俊輝.md "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權純永 "wikilink")、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")、[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink")） | 銀牌                                                                                                                                                                                                           | 總分：19.10 / 20.00分 |              |
+| 男子團體射箭（[Vernon](https://zh.wikipedia.org/wiki/崔翰率 "wikilink")、Jun、[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink")）                                                                                                                                      | 銀牌                                                                                                                                                                                                           | 總分：78 / 100分      |              |
+| 2019年春節特輯                                                                                                                                                                                                                                                | 男子團體射箭（[Vernon](https://zh.wikipedia.org/wiki/崔翰率 "wikilink")、Jun、[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")）                                                                                        | 金牌                | 總分：95 / 100分 |
 
 ## 音樂節目獎項
 

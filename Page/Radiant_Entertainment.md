@@ -5,8 +5,7 @@
 Radiant Entertainment由Tom和Tony Cannon共同创立，\[1\]并开发格斗游戏《Rising
 Thunder》以及16位风格游戏《Stoneheart》。\[2\]
 
-2016年3月8日，[Riot
-Games宣布收购Radiant](https://zh.wikipedia.org/wiki/Riot_Games "wikilink")
+2016年3月8日，[Riot Games宣布收购Radiant](../Page/Riot_Games.md "wikilink")
 Entertainment。\[3\]收购后，Radiant Entertainment宣布结束关闭《Rising
 Thunder》的alpha测试，并于3月18日永久关闭《Rising Thunder》。\[4\]
 

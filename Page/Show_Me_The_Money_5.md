@@ -4,8 +4,7 @@ Me The
 Money系列的第五季](../Page/Show_Me_The_Money.md "wikilink")，于2016年5月13日至7月15日每逢周五晚间播出。
 
 SMTM第五季的由[YG娛樂的](../Page/YG娛樂.md "wikilink")、[Zion.T](../Page/Zion.T.md "wikilink")；[ILLIONAIRE的](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")[Dok2](../Page/Dok2.md "wikilink")、[The
-Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")；的联合CEO
-[Simon
+Quiett](../Page/The_Quiett.md "wikilink")；的联合CEO [Simon
 D](../Page/Simon_D.md "wikilink")、制作人[Gray以及](../Page/Gray_\(歌手\).md "wikilink")[Mad
 Clown与](../Page/Mad_Clown.md "wikilink")[Leessang的](../Page/Leessang.md "wikilink")[Gill担任导师](../Page/吉成俊.md "wikilink")。\[1\]此季有破纪录的超过9000名参赛者参赛，优胜者将获得1亿韩元奖金及一辆[大众高尔夫轿车](../Page/大众高尔夫.md "wikilink")。
 
@@ -31,11 +30,11 @@ SMTM5的比赛过程与[Show Me The Money
   - [Gray](../Page/Gray_\(歌手\).md "wikilink")：制作人、Rapper及歌手，隶属AOMG旗下。
 
 **[ILLIONAIRE队](https://zh.wikipedia.org/wiki/ILLIONAIRE "wikilink")（[Dok2](../Page/Dok2.md "wikilink")
-& [The Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")）：**
+& [The Quiett](../Page/The_Quiett.md "wikilink")）：**
 
   - [Dok2](../Page/Dok2.md "wikilink")：ILLIONAIRE联合CEO及Rapper，曾担任SMTM3导师。
   - [The
-    Quiett](https://zh.wikipedia.org/wiki/The_Quiett "wikilink")：ILLIONAIRE联合CEO及Rapper，曾担任SMTM3导师。
+    Quiett](../Page/The_Quiett.md "wikilink")：ILLIONAIRE联合CEO及Rapper，曾担任SMTM3导师。
 
 **Mad Clown & Gill队（[Mad Clown](../Page/Mad_Clown.md "wikilink") &
 [Gill](../Page/吉成俊.md "wikilink")）：**
@@ -50,8 +49,7 @@ SMTM5的比赛过程与[Show Me The Money
 
 **YG队**
 
-  - [C
-    Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")：曾参加SMTM3并进入半决赛，签约Just
+  - [C Jamm](../Page/C_Jamm.md "wikilink")：曾参加SMTM3并进入半决赛，签约Just
     Music旗下。与BewhY组成Sexy Street团体。
 
   - ：旗下Rapper，曾参加[SUPER STAR
@@ -75,7 +73,7 @@ SMTM5的比赛过程与[Show Me The Money
 
 **Mad Clown & Gill队**
 
-  - ：通常以歌手及制作人的身份为大众所知，组合[Phantom成员并隶属](https://zh.wikipedia.org/wiki/Phantom_\(韓國組合\) "wikilink")[Brand
+  - ：通常以歌手及制作人的身份为大众所知，组合[Phantom成员并隶属](../Page/Phantom_\(韓國組合\).md "wikilink")[Brand
     New
     Music旗下](../Page/Brand_New_Music.md "wikilink")，SMTM4参赛者的哥哥。起初作为Rapper出道的艺名为Fassnakuh。
 
@@ -164,7 +162,7 @@ SMTM5的比赛过程与[Show Me The Money
 <td><p><a href="../Page/BewhY.md" title="wikilink">BewhY</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -220,7 +218,7 @@ SMTM5特别公演阵容
 </tr>
 <tr class="odd">
 <td><p>YG队</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a>、、、Killagramz</p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a>、、、Killagramz</p></td>
 <td><p>绅士 ($insa)</p></td>
 <td><p>Killagramz</p></td>
 </tr>
@@ -271,7 +269,7 @@ SMTM5特别公演阵容
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Superbee" title="wikilink">Superbee</a>、</strong> - Beverly 1lls</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a>、</strong> - 悬赏捉拿 (Wanted)</p></td>
+<td><p><strong><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a>、</strong> - 悬赏捉拿 (Wanted)</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -340,7 +338,7 @@ SMTM5特别公演阵容
 </tr>
 <tr class="even">
 <td><p>YG队</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></p></td>
 <td><p>未公布（胜）</p></td>
 <td><p>3,562,500</p></td>
 <td><p>晋级</p></td>
@@ -408,8 +406,8 @@ Gill队全员被淘汰。
 </tr>
 <tr class="even">
 <td><p><strong></strong> - 疯子<br />
-<small>(Feat. <a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a>)</small></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></strong> - 美丽 (Beautiful)<br />
+<small>(Feat. <a href="../Page/Jessi.md" title="wikilink">Jessi</a>)</small></p></td>
+<td><p><strong><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></strong> - 美丽 (Beautiful)<br />
 <small>(Feat. <a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a>)</small></p></td>
 <td></td>
 <td></td>
@@ -459,7 +457,7 @@ Gill队全员被淘汰。
 <tbody>
 <tr class="odd">
 <td><p>YG队</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></p></td>
 <td><p>未公布</p></td>
 <td><p>5,475,000</p></td>
 <td><p>晋级</p></td>
@@ -526,7 +524,7 @@ Me The Money 5的胜利。
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Superbee" title="wikilink">Superbee</a></strong> - 空中道德 part 2 (Air DoTheQ part 2)<br />
 <small>(Feat. The Quiett, Dok2)</small></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></strong> - MM</p></td>
+<td><p><strong><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></strong> - MM</p></td>
 <td><p><strong><a href="../Page/BewhY.md" title="wikilink">BewhY</a></strong> - XamBaqJa (prod. by BewhY)<br />
 <small>(Feat. Simon D)</small></p></td>
 <td></td>
@@ -538,7 +536,7 @@ Me The Money 5的胜利。
 | 团队          | 演唱者                                                           | 短信投票收入    | 最终收入       | 结果  |
 | ----------- | ------------------------------------------------------------- | --------- | ---------- | --- |
 | ILLIONAIRE队 | [Superbee](https://zh.wikipedia.org/wiki/Superbee "wikilink") | 1,900,000 | 3,375,000  | 第三名 |
-| YG队         | [C Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")     | 2,400,000 | 4,850,000  | 晋级  |
+| YG队         | [C Jamm](../Page/C_Jamm.md "wikilink")                        | 2,400,000 | 4,850,000  | 晋级  |
 | AOMG队       | [BewhY](../Page/BewhY.md "wikilink")                          | 5,700,000 | 10,975,000 | 晋级  |
 
 第一轮公演结果
@@ -558,7 +556,7 @@ Me The Money 5的胜利。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></strong> - 重播 (Let it be)<br />
+<td><p><strong><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></strong> - 重播 (Let it be)<br />
 <small>(Feat. <a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a>)</small></p></td>
 <td><p><strong><a href="../Page/BewhY.md" title="wikilink">BewhY</a></strong> - 自画像 pt.2 (Fake) (prod. by BewhY)</p></td>
 <td></td>
@@ -566,10 +564,10 @@ Me The Money 5的胜利。
 </tbody>
 </table>
 
-| 团队    | 演唱者                                                       | 短信投票收入    | 最终收入       | 结果  |
-| ----- | --------------------------------------------------------- | --------- | ---------- | --- |
-| YG队   | [C Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink") | 4,700,000 | 7,525,000  | 第二名 |
-| AOMG队 | [BewhY](../Page/BewhY.md "wikilink")                      | 5,300,000 | 10,750,000 | 夺冠  |
+| 团队    | 演唱者                                    | 短信投票收入    | 最终收入       | 结果  |
+| ----- | -------------------------------------- | --------- | ---------- | --- |
+| YG队   | [C Jamm](../Page/C_Jamm.md "wikilink") | 4,700,000 | 7,525,000  | 第二名 |
+| AOMG队 | [BewhY](../Page/BewhY.md "wikilink")   | 5,300,000 | 10,750,000 | 夺冠  |
 
 第二轮公演结果
 
@@ -577,34 +575,34 @@ Me The Money 5的胜利。
 
 **12强：**
 
-  - **YG队：**[C Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")、、
+  - **YG队：**[C Jamm](../Page/C_Jamm.md "wikilink")、、
   - **ILLIONAIRE队：**[Superbee](https://zh.wikipedia.org/wiki/Superbee "wikilink")、、
   - **AOMG队：**[BewhY](../Page/BewhY.md "wikilink")、[One](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")、
   - **Mad Clown & Gill队：**、Boi B、Donutman
 
 **10强：**
 
-  - **YG队：**[C Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")、、
+  - **YG队：**[C Jamm](../Page/C_Jamm.md "wikilink")、、
   - **ILLIONAIRE队：**[Superbee](https://zh.wikipedia.org/wiki/Superbee "wikilink")、、
   - **AOMG队：**[BewhY](../Page/BewhY.md "wikilink")、[One](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")
   - **Mad Clown & Gill队：**、Boi B
 
 **半决赛：**
 
-  - **YG队：**[C Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")、、
+  - **YG队：**[C Jamm](../Page/C_Jamm.md "wikilink")、、
   - **ILLIONAIRE队：**[Superbee](https://zh.wikipedia.org/wiki/Superbee "wikilink")
   - **AOMG队：**[BewhY](../Page/BewhY.md "wikilink")
   - **Mad Clown & Gill队：**
 
 **决赛首轮：**
 
-  - **YG队：**[C Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")
+  - **YG队：**[C Jamm](../Page/C_Jamm.md "wikilink")
   - **ILLIONAIRE队：**[Superbee](https://zh.wikipedia.org/wiki/Superbee "wikilink")
   - **AOMG队：**[BewhY](../Page/BewhY.md "wikilink")
 
 **决赛末轮：**
 
-  - **YG队：**[C Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")
+  - **YG队：**[C Jamm](../Page/C_Jamm.md "wikilink")
   - **AOMG队：**[BewhY](../Page/BewhY.md "wikilink")
 
 **冠军：**
@@ -617,7 +615,7 @@ Me The Money 5的胜利。
 | ----------------------------------------------------------------- | ---------------- | -- |
 | 1                                                                 | 2\[5\]           | 3  |
 | **[BewhY](../Page/BewhY.md "wikilink")**                          | AOMG             | 通过 |
-| **[C Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")**     | YG               | 通过 |
+| **[C Jamm](../Page/C_Jamm.md "wikilink")**                        | YG               | 通过 |
 | **[Superbee](https://zh.wikipedia.org/wiki/Superbee "wikilink")** | ILLIONAIRE       | 通过 |
 | ****                                                              | YG               | 通过 |
 | ****                                                              | YG               | 通过 |
@@ -693,7 +691,7 @@ Swan（节目结束后签约ILLIONAIRE旗下的厂牌AMBITION MUSIK）、（后�
 </tr>
 <tr class="odd">
 <td><p>空中道德 (Air DoTheQ)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Superbee" title="wikilink">Superbee</a>、、 (feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a>, <a href="https://zh.wikipedia.org/wiki/The_Quiett" title="wikilink">The Quiett</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Superbee" title="wikilink">Superbee</a>、、 (feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a>, <a href="../Page/The_Quiett.md" title="wikilink">The Quiett</a>)</p></td>
 <td><p>5</p></td>
 <td><ul>
 <li>KOR: 222,075+<ref>空中道德累计销量：</li>
@@ -703,7 +701,7 @@ Swan（节目结束后签约ILLIONAIRE旗下的厂牌AMBITION MUSIK）、（后�
 </tr>
 <tr class="even">
 <td><p>绅士 ($insa)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a>、、 (feat. <a href="../Page/Zion.T.md" title="wikilink">Zion.T</a>)</p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a>、、 (feat. <a href="../Page/Zion.T.md" title="wikilink">Zion.T</a>)</p></td>
 <td><p>4</p></td>
 <td><ul>
 <li>KOR: 232,388+<ref>绅士累计销量：</li>
@@ -743,7 +741,7 @@ Swan（节目结束后签约ILLIONAIRE旗下的厂牌AMBITION MUSIK）、（后�
 </tr>
 <tr class="even">
 <td><p>悬赏捉拿 (Wanted)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a>、</p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a>、</p></td>
 <td><p>12</p></td>
 <td><ul>
 <li>KOR: 81,251+<ref>悬赏捉拿累计销量：</li>
@@ -763,7 +761,7 @@ Swan（节目结束后签约ILLIONAIRE旗下的厂牌AMBITION MUSIK）、（后�
 </tr>
 <tr class="even">
 <td><p>RAPSTAR (Remix)</p></td>
-<td><p>(feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a>, <a href="https://zh.wikipedia.org/wiki/The_Quiett" title="wikilink">The Quiett</a>)</p></td>
+<td><p>(feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a>, <a href="../Page/The_Quiett.md" title="wikilink">The Quiett</a>)</p></td>
 <td><p>23</p></td>
 <td><ul>
 <li>KOR: 50,836+<ref>RAPSTAR (Remix)累计销量：</li>
@@ -803,7 +801,7 @@ Swan（节目结束后签约ILLIONAIRE旗下的厂牌AMBITION MUSIK）、（后�
 </tr>
 <tr class="even">
 <td><p>疯子</p></td>
-<td><p>(feat. <a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a>)</p></td>
+<td><p>(feat. <a href="../Page/Jessi.md" title="wikilink">Jessi</a>)</p></td>
 <td><p>4</p></td>
 <td><ul>
 <li>KOR: 303,798+<ref>疯子累计销量：</li>
@@ -819,7 +817,7 @@ Swan（节目结束后签约ILLIONAIRE旗下的厂牌AMBITION MUSIK）、（后�
 </tr>
 <tr class="odd">
 <td><p>美丽 (Beautiful)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a> (Feat. <a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a>)</p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a> (Feat. <a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a>)</p></td>
 <td><p>5</p></td>
 <td><ul>
 <li>KOR: 268,971+<ref>美丽累计销量：</li>
@@ -890,7 +888,7 @@ Swan（节目结束后签约ILLIONAIRE旗下的厂牌AMBITION MUSIK）、（后�
 </tr>
 <tr class="even">
 <td><p>空中道德 part 2 (Air DoTheQ part 2)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Superbee" title="wikilink">Superbee</a> (feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a>, <a href="https://zh.wikipedia.org/wiki/The_Quiett" title="wikilink">The Quiett</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Superbee" title="wikilink">Superbee</a> (feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a>, <a href="../Page/The_Quiett.md" title="wikilink">The Quiett</a>)</p></td>
 <td><p>45</p></td>
 <td><ul>
 <li>KOR: 60,686+<ref>空中道德 part 2累计销量：</li>
@@ -902,7 +900,7 @@ Swan（节目结束后签约ILLIONAIRE旗下的厂牌AMBITION MUSIK）、（后�
 </tr>
 <tr class="odd">
 <td><p>MM</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a></p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a></p></td>
 <td><p>44</p></td>
 <td><ul>
 <li>KOR: 53,941+<ref>MM累计销量：</li>
@@ -928,7 +926,7 @@ Swan（节目结束后签约ILLIONAIRE旗下的厂牌AMBITION MUSIK）、（后�
 </tr>
 <tr class="odd">
 <td><p>重播 (Let it be)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a> (Feat. <a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a>)</p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a> (Feat. <a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a>)</p></td>
 <td><p>28</p></td>
 <td><ul>
 <li>KOR: 91,951+<ref>重播累计销量：</li>

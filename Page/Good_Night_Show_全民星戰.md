@@ -472,7 +472,7 @@ Night Show
 <td><p><a href="https://zh.wikipedia.org/wiki/余嘉良" title="wikilink">余嘉良</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃嘉欣" title="wikilink">黃嘉欣</a></p></td>
+<td><p><a href="../Page/黃嘉欣.md" title="wikilink">黃嘉欣</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/梁偉立" title="wikilink">梁偉立</a></p></td>
@@ -816,9 +816,9 @@ Night Show
     　　　[許志安](../Page/許志安.md "wikilink")、[陳曉東](https://zh.wikipedia.org/wiki/陳曉東 "wikilink")、[劉浩龍](../Page/劉浩龍.md "wikilink")、[Gin
     Lee李幸倪](../Page/李幸倪.md "wikilink")、[G.E.M.鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、
     　　　[AGA江海迦](../Page/江海迦.md "wikilink")、[Robynn &
-    Kendy](../Page/Robynn_&_Kendy.md "wikilink")、[麥家瑜](../Page/麥家瑜.md "wikilink")、[符致逸](https://zh.wikipedia.org/wiki/符致逸 "wikilink")、[周殷廷](../Page/周殷廷.md "wikilink")、
+    Kendy](../Page/Robynn_&_Kendy.md "wikilink")、[麥家瑜](../Page/麥家瑜.md "wikilink")、[符致逸](../Page/符致逸.md "wikilink")、[周殷廷](../Page/周殷廷.md "wikilink")、
     　　　[趙浚承](https://zh.wikipedia.org/wiki/趙俊承 "wikilink")、[羅鈞滿](../Page/羅鈞滿.md "wikilink")、[Artem
-    Ansheles](https://zh.wikipedia.org/wiki/Artem_Ansheles "wikilink")
+    Ansheles](../Page/Artem_Ansheles.md "wikilink")
     　　　（以上排名不分先後）
 
 ## 參考資料

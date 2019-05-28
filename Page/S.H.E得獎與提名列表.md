@@ -239,7 +239,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 
 ## IFPI香港唱片銷量大獎
 
-**[IFPI香港唱片銷量大獎](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎 "wikilink")**是由[國際唱片業協會（香港會）與](https://zh.wikipedia.org/wiki/國際唱片業協會（香港會） "wikilink")[香港電台合辦](../Page/香港電台.md "wikilink")，[國際唱片業協會對香港本地的唱片銷量進行統計](../Page/國際唱片業協會.md "wikilink")，據官方所指，獲獎唱片的標準就是本年的銷售量。
+**[IFPI香港唱片銷量大獎](https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎 "wikilink")**是由[國際唱片業協會（香港會）與](../Page/國際唱片業協會（香港會）.md "wikilink")[香港電台合辦](../Page/香港電台.md "wikilink")，[國際唱片業協會對香港本地的唱片銷量進行統計](../Page/國際唱片業協會.md "wikilink")，據官方所指，獲獎唱片的標準就是本年的銷售量。
 
 <table>
 <thead>
@@ -302,7 +302,7 @@ S.H.E亦曾多次獲得來自各國家和地區的獎項，迄今共入圍過6�
 <td><p>[16]</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒獎禮2016" title="wikilink">2017年</a></strong></p></td>
+<td><p><strong><a href="../Page/IFPI香港唱片銷量大獎頒獎禮2016.md" title="wikilink">2017年</a></strong></p></td>
 <td><p>十大銷量國語唱片</p></td>
 <td><p>《<a href="../Page/永遠都在.md" title="wikilink">永遠都在</a>》</p></td>
 <td></td>
@@ -3076,7 +3076,7 @@ FM電台與[Astro電視台於](https://zh.wikipedia.org/wiki/Astro "wikilink")20
 <td><p><strong>2015年</strong></p></td>
 <td><p><a href="../Page/流行音樂全金榜.md" title="wikilink">全球流行音樂金榜</a></p></td>
 <td><p>上半年20大金曲</p></td>
-<td><p>〈<a href="https://zh.wikipedia.org/wiki/你曾是少年" title="wikilink">你曾是少年</a>〉</p></td>
+<td><p>〈<a href="../Page/你曾是少年.md" title="wikilink">你曾是少年</a>〉</p></td>
 <td></td>
 <td><p>[148][149]</p></td>
 </tr>

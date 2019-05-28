@@ -1,5 +1,5 @@
 **E-Prime**是的缩写\[1\]（可记作**É**或**E′**），指去除了[系动词](https://zh.wikipedia.org/wiki/系动词 "wikilink")（包括所有变位、缩写等形式）的[英语](../Page/英语.md "wikilink")。E-Prime由大卫·波兰德（David
-Bourland）于1940年代提出，以作为[阿尔弗雷德·柯日布斯基的](https://zh.wikipedia.org/wiki/阿尔弗雷德·柯日布斯基 "wikilink")[普通语义学理论的补充](https://zh.wikipedia.org/wiki/普通语义学 "wikilink")。\[2\]
+Bourland）于1940年代提出，以作为[阿尔弗雷德·柯日布斯基的](../Page/阿尔弗雷德·柯日布斯基.md "wikilink")[普通语义学理论的补充](../Page/普通语义学.md "wikilink")。\[2\]
 
 支持使用E-Prime的学者认为这能使思考更清晰并增强写作能力。\[3\]例如，E-Prime不允许出现类似“这部电影是好的”（the film
 was good）这样的表达，而需改用“我喜欢这部电影”（I liked the film）、“这部电影让我大笑”（the film made

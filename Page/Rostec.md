@@ -84,7 +84,7 @@ Advanced Technology Industrial Product
   - （俄罗斯国防出口公司）
 
   -
-  - [AvtoVAZ](https://zh.wikipedia.org/wiki/AvtoVAZ "wikilink")（伏尔加汽车制造厂）
+  - [AvtoVAZ](../Page/AvtoVAZ.md "wikilink")（伏尔加汽车制造厂）
 
   - （卡玛斯）
 

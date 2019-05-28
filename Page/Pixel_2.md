@@ -15,8 +15,7 @@ available =  | released =  | predecessor =
 **D**:  | weight = **Pixel 2:**
 **Pixel 2 XL:**  | form =
 [平板式](https://zh.wikipedia.org/wiki/手機規格#平板式 "wikilink")
-| os = [Android 9.0
-"Pie"](https://zh.wikipedia.org/wiki/Android_Pie "wikilink")/Android Q
+| os = [Android 9.0 "Pie"](../Page/Android_Pie.md "wikilink")/Android Q
 10.0(公測) | display = **Pixel 2:**  [FHD](../Page/1080p.md "wikilink")
 [AMOLED](../Page/AMOLED.md "wikilink")，1920 × 1080（441ppi）
 **Pixel 2 XL:**  [QHD](https://zh.wikipedia.org/wiki/QHD "wikilink")
@@ -68,7 +67,7 @@ XL配有6寸P-OLED显示屏，长宽比为18：9，分辨率为[2880x1440和](ht
 fps的4K视频，120 fps的1080p视频以及240 fps的720p视频。
 相机还拥有相位检测自动对焦，激光自动对焦和HDR处理功能。Pixel
 2的拥有者可以免费获得无限制的存储空间，用于在2020年底之前以原始质量拍摄的所有照片和视频，无限高质量的存储继续。\[2\]Pixel
-2相机在[DxOMark中获得了](https://zh.wikipedia.org/wiki/DxOMark "wikilink")98分，使其成为他们测试的最高性能的移动设备相机。\[3\]
+2相机在[DxOMark中获得了](../Page/DxOMark.md "wikilink")98分，使其成为他们测试的最高性能的移动设备相机。\[3\]
 
 ### 软件
 

@@ -796,7 +796,7 @@
 <td style="text-align: center;"><p>2001年1月21日</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/遠路" title="wikilink">遠路</a><br />
 </p></td>
-<td style="text-align: center;"><p><small><a href="../Page/李炳憲.md" title="wikilink">李炳憲</a>、<a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>、<a href="https://zh.wikipedia.org/wiki/南一祐" title="wikilink">南一祐</a>、<a href="../Page/蘇志燮.md" title="wikilink">蘇志燮</a>[16]</small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/李炳憲.md" title="wikilink">李炳憲</a>、<a href="../Page/朴真熙.md" title="wikilink">朴真熙</a>、<a href="../Page/南一祐.md" title="wikilink">南一祐</a>、<a href="../Page/蘇志燮.md" title="wikilink">蘇志燮</a>[16]</small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/柳哲龍" title="wikilink">柳哲龍</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴正蘭.md" title="wikilink">朴正蘭</a></p></td>
 <td style="text-align: center;"><p>新春特輯電視劇</p></td>
@@ -955,7 +955,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/橡子涼粉" title="wikilink">橡子涼粉</a><br />
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p><small><a href="../Page/高斗心.md" title="wikilink">高斗心</a>、<a href="https://zh.wikipedia.org/wiki/崔鐘煥" title="wikilink">崔鐘煥</a>、<a href="../Page/金藝玲.md" title="wikilink">金藝玲</a>、<a href="https://zh.wikipedia.org/wiki/全仁澤" title="wikilink">全仁澤</a>[23]</small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/高斗心.md" title="wikilink">高斗心</a>、<a href="../Page/崔鐘煥.md" title="wikilink">崔鐘煥</a>、<a href="../Page/金藝玲.md" title="wikilink">金藝玲</a>、<a href="../Page/全仁澤.md" title="wikilink">全仁澤</a>[23]</small></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>新春特輯電視劇</p></td>
@@ -1633,10 +1633,10 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2014年10月12日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/媽媽的選擇" title="wikilink">媽媽的選擇</a><br />
+<td style="text-align: center;"><p><a href="../Page/媽媽的選擇.md" title="wikilink">媽媽的選擇</a><br />
 </p></td>
 <td style="text-align: center;"><p>2[34]</p></td>
-<td style="text-align: center;"><p><small><a href="../Page/吳賢慶.md" title="wikilink">吳賢慶</a>、<a href="https://zh.wikipedia.org/wiki/池殷成" title="wikilink">池殷成</a>、<a href="../Page/全盧民.md" title="wikilink">全盧民</a>、<a href="../Page/柳和榮.md" title="wikilink">柳和榮</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/吳賢慶.md" title="wikilink">吳賢慶</a>、<a href="../Page/池殷成.md" title="wikilink">池殷成</a>、<a href="../Page/全盧民.md" title="wikilink">全盧民</a>、<a href="../Page/柳和榮.md" title="wikilink">柳和榮</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金振根" title="wikilink">金振根</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭道允" title="wikilink">鄭道允</a></p></td>
 <td style="text-align: center;"><p>特輯電視劇</p></td>
@@ -1688,7 +1688,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2015年2月21日－<br />
 2015年2月22日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/人生追擊者李載求" title="wikilink">人生追擊者李載求</a><br />
+<td style="text-align: center;"><p><a href="../Page/人生追擊者李載求.md" title="wikilink">人生追擊者李載求</a><br />
 </p></td>
 <td style="text-align: center;"><p><small><a href="../Page/朴埇佑.md" title="wikilink">朴埇佑</a>、<a href="../Page/裕善.md" title="wikilink">裕善</a>、<a href="../Page/嚴孝燮.md" title="wikilink">嚴孝燮</a>、<a href="../Page/安奭奐.md" title="wikilink">安奭奐</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金孝健" title="wikilink">金孝健</a></p></td>
@@ -1698,17 +1698,17 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2015年8月4日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/The_Ace" title="wikilink">The Ace</a><br />
+<td style="text-align: center;"><p><a href="../Page/The_Ace.md" title="wikilink">The Ace</a><br />
 </p></td>
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><p><small><a href="../Page/李必模.md" title="wikilink">李必模</a>、<a href="../Page/金珉志.md" title="wikilink">金珉志</a>、、<a href="https://zh.wikipedia.org/wiki/池殷成" title="wikilink">池殷成</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/李必模.md" title="wikilink">李必模</a>、<a href="../Page/金珉志.md" title="wikilink">金珉志</a>、、<a href="../Page/池殷成.md" title="wikilink">池殷成</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金振奎" title="wikilink">金振奎</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金縷利" title="wikilink">金縷利</a></p></td>
 <td style="text-align: center;"><p>特輯電視劇</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2015年9月26日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/我的夢幻葬禮" title="wikilink">我的夢幻葬禮</a><br />
+<td style="text-align: center;"><p><a href="../Page/我的夢幻葬禮.md" title="wikilink">我的夢幻葬禮</a><br />
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
 <td style="text-align: center;"><p><small><a href="../Page/景收真.md" title="wikilink">景收真</a>、<a href="../Page/崔宇植.md" title="wikilink">崔宇植</a>、<a href="../Page/劉河俊.md" title="wikilink">劉河俊</a>、<a href="../Page/朴真珠.md" title="wikilink">朴真珠</a></small></p></td>
@@ -1728,7 +1728,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2015年12月26日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/你的窺視" title="wikilink">你的窺視</a><br />
+<td style="text-align: center;"><p><a href="../Page/你的窺視.md" title="wikilink">你的窺視</a><br />
 </p></td>
 <td style="text-align: center;"><p><small><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/權律.md" title="wikilink">權律</a>、<a href="../Page/張英南.md" title="wikilink">張英南</a>、<a href="../Page/徐俊英.md" title="wikilink">徐俊英</a>、<a href="../Page/李昌旭.md" title="wikilink">李昌旭</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李正翕" title="wikilink">李正翕</a></p></td>
@@ -1782,7 +1782,7 @@
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2016年1月29日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/神秘的新學生" title="wikilink">神秘的新學生</a><br />
+<td style="text-align: center;"><p><a href="../Page/神秘的新學生.md" title="wikilink">神秘的新學生</a><br />
 </p></td>
 <td style="text-align: center;"><p><small><a href="../Page/南志鉉.md" title="wikilink">南志鉉</a>、<a href="../Page/延俊錫.md" title="wikilink">延俊錫</a>、<a href="../Page/金姬貞.md" title="wikilink">金姬貞</a>、<a href="../Page/徐鉉哲.md" title="wikilink">徐鉉哲</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金宥鎮" title="wikilink">金宥鎮</a></p></td>
@@ -1792,10 +1792,10 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2016年2月7日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/榮珠" title="wikilink">榮珠</a><br />
+<td style="text-align: center;"><p><a href="../Page/榮珠.md" title="wikilink">榮珠</a><br />
 </p></td>
 <td style="text-align: center;"><p><small><a href="../Page/金希庭.md" title="wikilink">金希庭</a>、<a href="../Page/崔民秀.md" title="wikilink">崔民秀</a>、<a href="https://zh.wikipedia.org/wiki/韓銀貞" title="wikilink">韓銀貞</a>、</small></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朱東民" title="wikilink">朱東民</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朱東民.md" title="wikilink">朱東民</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴孝妍" title="wikilink">朴孝妍</a><br />
 <a href="https://zh.wikipedia.org/wiki/金京善" title="wikilink">金京善</a></p></td>
 <td style="text-align: center;"></td>
@@ -1839,10 +1839,10 @@
 <tr class="even">
 <td style="text-align: center;"><p>2018年4月30日－<br />
 2018年5月1日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/EXIT_(韓國電視劇)" title="wikilink">EXIT</a><br />
+<td style="text-align: center;"><p><a href="../Page/EXIT_(韓國電視劇).md" title="wikilink">EXIT</a><br />
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p><small><a href="../Page/崔泰俊.md" title="wikilink">崔泰俊</a>、<a href="https://zh.wikipedia.org/wiki/禹賢" title="wikilink">禹賢</a>、<a href="https://zh.wikipedia.org/wiki/南琪愛" title="wikilink">南琪愛</a>、<a href="https://zh.wikipedia.org/wiki/朴浩山" title="wikilink">朴浩山</a>、、<a href="../Page/全秀珍.md" title="wikilink">全秀珍</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/崔泰俊.md" title="wikilink">崔泰俊</a>、<a href="https://zh.wikipedia.org/wiki/禹賢" title="wikilink">禹賢</a>、<a href="https://zh.wikipedia.org/wiki/南琪愛" title="wikilink">南琪愛</a>、<a href="../Page/朴浩山.md" title="wikilink">朴浩山</a>、、<a href="../Page/全秀珍.md" title="wikilink">全秀珍</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭東允" title="wikilink">鄭東允</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴延赫" title="wikilink">朴延赫</a></p></td>
 <td style="text-align: center;"><p>月火特輯電視劇</p></td>
@@ -1850,7 +1850,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2018年11月27日－<br />
 2018年12月4日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/死的讚美" title="wikilink">死的讚美</a><br />
+<td style="text-align: center;"><p><a href="../Page/死的讚美.md" title="wikilink">死的讚美</a><br />
 </p></td>
 <td style="text-align: center;"><p>6</p></td>
 <td style="text-align: center;"><p><small><a href="../Page/李鍾碩.md" title="wikilink">李鍾碩</a>、<a href="../Page/申惠善.md" title="wikilink">申惠善</a>、<a href="https://zh.wikipedia.org/wiki/李知勳_(演員)" title="wikilink">李知勳</a>、<a href="../Page/李相燁.md" title="wikilink">李相燁</a></small></p></td>
@@ -1872,8 +1872,8 @@
 
 ## 相關連結
 
-  - [KBS特輯電視劇](https://zh.wikipedia.org/wiki/KBS特輯電視劇 "wikilink")
-  - [MBC特輯電視劇](https://zh.wikipedia.org/wiki/MBC特輯電視劇 "wikilink")
+  - [KBS特輯電視劇](../Page/KBS特輯電視劇.md "wikilink")
+  - [MBC特輯電視劇](../Page/MBC特輯電視劇.md "wikilink")
 
 ## 參考資料
 

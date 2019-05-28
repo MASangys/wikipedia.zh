@@ -58,7 +58,7 @@ MSE/PE使用[密钥交换结合torrent的infohash建立一个](../Page/迪菲-�
 
 为确保与不支持此规范的其他客户端的兼容性，用户还可选择是否仍允许未加密的传入或传出连接。
 
-支持的客户端通过[节点交换](https://zh.wikipedia.org/wiki/节点交换 "wikilink")（PEX）和[分散式雜湊表](../Page/分散式雜湊表.md "wikilink")（DHT）通告它们已启用MSE/PE。
+支持的客户端通过[节点交换](../Page/节点交换.md "wikilink")（PEX）和[分散式雜湊表](../Page/分散式雜湊表.md "wikilink")（DHT）通告它们已启用MSE/PE。
 
 ## 安全性
 

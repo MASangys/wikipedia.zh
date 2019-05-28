@@ -9,7 +9,7 @@ Watch在2014年于[美国](../Page/美国.md "wikilink")、[加拿大](../Page/�
 、[澳大利亚](../Page/澳大利亚.md "wikilink")、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[德国](../Page/德国.md "wikilink")、[印度](../Page/印度.md "wikilink")、[爱尔兰](../Page/爱尔兰.md "wikilink")、[意大利](../Page/意大利.md "wikilink")、[日本](../Page/日本.md "wikilink")、[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")、[西班牙销售](../Page/西班牙.md "wikilink")。\[3\]
 
 G Watch的同系列产品[G Watch
-R则带有一个圆形的](https://zh.wikipedia.org/wiki/LG_G_Watch_R "wikilink")[OLED屏幕](https://zh.wikipedia.org/wiki/OLED "wikilink")。\[4\]
+R则带有一个圆形的](../Page/LG_G_Watch_R.md "wikilink")[OLED屏幕](https://zh.wikipedia.org/wiki/OLED "wikilink")。\[4\]
 
 ## 硬件
 

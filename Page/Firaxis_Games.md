@@ -17,7 +17,7 @@ Games**，是席德·梅尔，杰夫·布里格斯和布赖恩·雷诺兹离开M
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Win</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/OS_X" title="wikilink">Mac</a></p></td>
 <td><p><a href="../Page/Linux.md" title="wikilink">Lin</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a></p></td>
+<td><p><a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1997</p></td>
@@ -177,7 +177,7 @@ Games**，是席德·梅尔，杰夫·布里格斯和布赖恩·雷诺兹离开M
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
-<td><p>''<a href="https://zh.wikipedia.org/wiki/XCOM_2" title="wikilink">XCOM 2</a></p></td>
+<td><p>''<a href="../Page/XCOM_2.md" title="wikilink">XCOM 2</a></p></td>
 <td><p><a href="../Page/2K_Games.md" title="wikilink">2K Games</a></p></td>
 <td></td>
 </tr>

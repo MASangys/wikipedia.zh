@@ -1,4 +1,4 @@
-《**Live**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2018年3月10日起播出的[週末連續劇](https://zh.wikipedia.org/wiki/tvN週末連續劇 "wikilink")，由《[沒關係，是愛情啊](https://zh.wikipedia.org/wiki/沒關係，是愛情啊 "wikilink")》[金圭泰導演執導與](../Page/金圭泰.md "wikilink")[盧熙京作家五度合作打造](../Page/盧熙京.md "wikilink")\[1\]。此劇以警察局裏發生的事件為中心，講述努力維護日常重要價值及正義的警察之喜怒哀樂的故事。此劇與平常的警匪劇有所不同，更著重於刻劃角色之間深刻的情感\[2\]。
+《**Live**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2018年3月10日起播出的[週末連續劇](https://zh.wikipedia.org/wiki/tvN週末連續劇 "wikilink")，由《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")》[金圭泰導演執導與](../Page/金圭泰.md "wikilink")[盧熙京作家五度合作打造](../Page/盧熙京.md "wikilink")\[1\]。此劇以警察局裏發生的事件為中心，講述努力維護日常重要價值及正義的警察之喜怒哀樂的故事。此劇與平常的警匪劇有所不同，更著重於刻劃角色之間深刻的情感\[2\]。
 
 ## 演員陣容
 
@@ -339,26 +339,26 @@
 **週六時段劇集**
 
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")：《[善良魔女傳](https://zh.wikipedia.org/wiki/善良魔女傳 "wikilink")》
+    [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")：《[善良魔女傳](../Page/善良魔女傳.md "wikilink")》
   - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[入贅丈夫吳作鬥](https://zh.wikipedia.org/wiki/入贅丈夫吳作鬥 "wikilink")》
+    [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[入贅丈夫吳作鬥](../Page/入贅丈夫吳作鬥.md "wikilink")》
 
 **週末時段劇集**
 
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [週末連續劇](../Page/KBS週末連續劇.md "wikilink")：《[我的黃金光輝人生](../Page/我的黃金光輝人生.md "wikilink")》、《[一起生活吧](https://zh.wikipedia.org/wiki/一起生活吧 "wikilink")》
+    [週末連續劇](../Page/KBS週末連續劇.md "wikilink")：《[我的黃金光輝人生](../Page/我的黃金光輝人生.md "wikilink")》、《[一起生活吧](../Page/一起生活吧.md "wikilink")》
 
 **週日時段劇集**
 
   - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[擺飯桌的男人](../Page/擺飯桌的男人.md "wikilink")》、《[富家公子](https://zh.wikipedia.org/wiki/富家公子 "wikilink")》
+    [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[擺飯桌的男人](../Page/擺飯桌的男人.md "wikilink")》、《[富家公子](../Page/富家公子.md "wikilink")》
 
 ## 記事
 
   - 本劇為[鄭有美繼](https://zh.wikipedia.org/wiki/鄭有美 "wikilink")《[戀愛的發現](../Page/戀愛的發現.md "wikilink")》時隔3年再次出演電視劇。
   - 本劇為導演[金圭泰與編劇](../Page/金圭泰.md "wikilink")[盧熙京繼](../Page/盧熙京.md "wikilink")《[他們的世界](../Page/他們的世界.md "wikilink")》、《[Padam
-    Padam](https://zh.wikipedia.org/wiki/聽見他的心跳 "wikilink")》、《[那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink")》、《[沒關係，是愛情啊](https://zh.wikipedia.org/wiki/沒關係，是愛情啊 "wikilink")》后再度合作。
-  - 本劇為[李光洙舆編劇](https://zh.wikipedia.org/wiki/李光洙_\(演员\) "wikilink")[盧熙京繼](../Page/盧熙京.md "wikilink")《[沒關係，是愛情啊](https://zh.wikipedia.org/wiki/沒關係，是愛情啊 "wikilink")》、《[Dear
+    Padam](https://zh.wikipedia.org/wiki/聽見他的心跳 "wikilink")》、《[那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink")》、《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")》后再度合作。
+  - 本劇為[李光洙舆編劇](https://zh.wikipedia.org/wiki/李光洙_\(演员\) "wikilink")[盧熙京繼](../Page/盧熙京.md "wikilink")《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")》、《[Dear
     My Friends](../Page/Dear_My_Friends.md "wikilink")》后再度合作。
   - 本剧为[裴宗玉与编剧](../Page/裴宗玉.md "wikilink")[卢熙京继](https://zh.wikipedia.org/wiki/卢熙京 "wikilink")《[谎言](https://zh.wikipedia.org/wiki/谎言_\(电视剧\) "wikilink")》、《[比花还美](https://zh.wikipedia.org/wiki/比花还美 "wikilink")》、《[再见独奏](https://zh.wikipedia.org/wiki/再见独奏 "wikilink")》、《[让我们幸福的几个问题](https://zh.wikipedia.org/wiki/让我们幸福的几个问题 "wikilink")》、《[他们的世界](https://zh.wikipedia.org/wiki/他们的世界 "wikilink")》、《[那年冬天风在吹](https://zh.wikipedia.org/wiki/那年冬天风在吹 "wikilink")》后再度合作。
 

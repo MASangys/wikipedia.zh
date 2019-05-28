@@ -8,7 +8,7 @@
 
 GK1型柴油机车是在东方红5B型机车的基础上，根据冶金企业铁路技术条件而设计的液力传动工矿柴油机车。机车采用全钢[电焊结构](../Page/焊接.md "wikilink")、单司机室、双侧外走廊、主车架承载的罩式车体。车体从前端至后端分为前机室、动力室、传动冷却室、司机室、后机室五个部分。机车装用一台由[石油部](../Page/中华人民共和国石油工业部.md "wikilink")[济南柴油机厂制造的Z](../Page/济柴股份.md "wikilink")12V190BJ型柴油机，该型柴油机为[12气缸](../Page/V12发动机.md "wikilink")、[V型结构](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[废气涡轮增压的高速柴油机](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")，气缸直径为190毫米，活塞行程为210毫米，额定转速为每分钟1500转，装车功率为1080马力（790千瓦）。机车使用资阳内燃机车厂研制的ZJ4011GY型液力变速箱，并设有工况机构、液力换向和[液力制动装置](https://zh.wikipedia.org/wiki/液力制动 "wikilink")。燃油箱被置于车体内以免因碰撞外物而引致火灾，并将总风缸置于车体下方两台转向架之间。1990年，资阳内燃机车厂在GK1型柴油机车的基础上，开发了换装12V180ZJ型高速柴油机的**GK1B型柴油机车**，除了柴油机之外其他部分均保持相同。
 
-1991年，资阳内燃机车厂又研制了[GK1C型柴油机车](https://zh.wikipedia.org/wiki/GK1C型柴油机车 "wikilink")，机车装用一台1350马力（997千瓦）的[6240ZJ型中速柴油机](https://zh.wikipedia.org/wiki/240/275系列柴油机 "wikilink")，改用ZJ4014GY型液力换向液力传动箱，并将可编程控制器应用于机车控制电路。
+1991年，资阳内燃机车厂又研制了[GK1C型柴油机车](../Page/GK1C型柴油机车.md "wikilink")，机车装用一台1350马力（997千瓦）的[6240ZJ型中速柴油机](https://zh.wikipedia.org/wiki/240/275系列柴油机 "wikilink")，改用ZJ4014GY型液力换向液力传动箱，并将可编程控制器应用于机车控制电路。
 
 ## 机车命名
 
@@ -24,7 +24,7 @@ GK1型柴油机车是在东方红5B型机车的基础上，根据冶金企业铁
   - [东方红5型柴油机车](../Page/东方红5型柴油机车.md "wikilink")
   - [东方红5B型柴油机车](../Page/东方红5B型柴油机车.md "wikilink")
   - [东方红7型柴油机车](../Page/东方红7型柴油机车.md "wikilink")
-  - [GK1C型柴油机车](https://zh.wikipedia.org/wiki/GK1C型柴油机车 "wikilink")
+  - [GK1C型柴油机车](../Page/GK1C型柴油机车.md "wikilink")
 
 ## 参考文献
 

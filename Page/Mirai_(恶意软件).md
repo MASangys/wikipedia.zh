@@ -23,7 +23,7 @@ Tbps的攻击流量\[24\]。
 3
 通信在报告中指出的](https://zh.wikipedia.org/wiki/Level_3_通信 "wikilink")\[26\]\[27\]。
 
-有[深度学习方面的安全专家发现](https://zh.wikipedia.org/wiki/深度学习 "wikilink")，Mirai构建的僵尸网络数量在Dyn攻击事件发生前后有稳定的上升。\[28\]
+有[深度学习方面的安全专家发现](../Page/深度学习.md "wikilink")，Mirai构建的僵尸网络数量在Dyn攻击事件发生前后有稳定的上升。\[28\]
 
 Mirai亦被用于2016年11月针对[利比里亚互联网基础设施的攻击](../Page/利比里亚.md "wikilink")\[29\]\[30\]\[31\]。计算机安全专家Kevin
 Beaumont认为这次攻击的发动者与Dyn攻击相同\[32\]。

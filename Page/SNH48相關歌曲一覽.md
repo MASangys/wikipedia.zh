@@ -603,7 +603,7 @@
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2014年3月12日</p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/心電感應_(SNH48_EP)" title="wikilink">心電感應</a></strong>》</p></td>
+<td><p>《<strong><a href="../Page/心電感應_(SNH48_EP).md" title="wikilink">心電感應</a></strong>》</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">

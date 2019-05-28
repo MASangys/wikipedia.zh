@@ -19,7 +19,7 @@ Fun」，名字取自陳孜昊的「昊」，以及大學[同學葉大方的](ht
 2018年3月31日，陳孜昊在新影片《
 HowFun的新夥伴！》中宣布新成員[藍亦明加入HowFun創作團隊](https://zh.wikipedia.org/wiki/藍亦明 "wikilink")。\[6\]
 
-2019年3月12日，榮獲[上班不要看第一屆](https://zh.wikipedia.org/wiki/上班不要看 "wikilink")[走鐘獎最佳男主角](../Page/走鐘獎.md "wikilink")，成為第一屆走鐘獎唯一非[上班不要看得獎者](https://zh.wikipedia.org/wiki/上班不要看 "wikilink")。\[7\]
+2019年3月12日，榮獲[上班不要看第一屆](../Page/上班不要看.md "wikilink")[走鐘獎最佳男主角](../Page/走鐘獎.md "wikilink")，成為第一屆走鐘獎唯一非[上班不要看得獎者](../Page/上班不要看.md "wikilink")。\[7\]
 
 ## 個人生活
 

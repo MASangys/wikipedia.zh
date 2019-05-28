@@ -29,7 +29,7 @@ Lily是一個常見的英文名，通常翻譯為莉莉或麗麗。
   - [蔣麗莉](../Page/蔣麗莉.md "wikilink") 生於1962年，香港企業家
   - [李妮](../Page/李妮.md "wikilink")
     英文名“Lily”，生於1970年，1994年[亞洲小姐冠軍](https://zh.wikipedia.org/wiki/亞洲小姐 "wikilink")
-  - [司雯嘉](https://zh.wikipedia.org/wiki/司雯嘉 "wikilink")，英文名“Lily”，生于1986年，[上海广播电视台知名女主播](../Page/上海广播电视台.md "wikilink")。
+  - [司雯嘉](../Page/司雯嘉.md "wikilink")，英文名“Lily”，生于1986年，[上海广播电视台知名女主播](../Page/上海广播电视台.md "wikilink")。
 
 ### 虛構人物
 

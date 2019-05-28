@@ -14,7 +14,7 @@ App在2017年11月7日的更新中，进行了重构，加快了加载速度。�
 
 ## 参见
 
-  - [PlayStation应用程式列表](https://zh.wikipedia.org/wiki/PlayStation应用程式列表 "wikilink")
+  - [PlayStation应用程式列表](../Page/PlayStation应用程式列表.md "wikilink")
   - [Xbox App](../Page/Xbox_\(應用程式\).md "wikilink")
 
 ## 参考与引用

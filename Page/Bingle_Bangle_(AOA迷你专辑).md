@@ -1,6 +1,6 @@
 《**Bingle
 Bangle**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[女子組合](../Page/女子音乐组合.md "wikilink")[AOA的第五張迷你專輯](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")，由[FNC
-Entertainment於](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")2018年5月28日發行，本作是在[草娥退團後](https://zh.wikipedia.org/wiki/草娥 "wikilink")，[AOA首次以](../Page/AOA.md "wikilink")6人形式推出的作品。
+Entertainment於](../Page/FNC娛樂.md "wikilink")2018年5月28日發行，本作是在[草娥退團後](https://zh.wikipedia.org/wiki/草娥 "wikilink")，[AOA首次以](../Page/AOA.md "wikilink")6人形式推出的作品。
 
 ## 發行
 

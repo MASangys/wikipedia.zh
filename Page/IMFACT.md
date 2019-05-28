@@ -28,7 +28,7 @@ Feel Korea in New Delhi》表演，累積表演經驗。
 
 ### 2016年：出道與回歸
 
-2016年1月14日起，陸續於官方Youtube頻道公開成員形象片，展現成員各自的才藝與創作。2016年1月17日，於[首爾清潭洞Ilchi](https://zh.wikipedia.org/wiki/首爾 "wikilink")
+2016年1月14日起，陸續於官方Youtube頻道公開成員形象片，展現成員各自的才藝與創作。2016年1月17日，於[首爾清潭洞Ilchi](../Page/首爾.md "wikilink")
 Art
 Hall舉行出道Showcase，由[ZE:A](../Page/ZE:A.md "wikilink")[光熙擔任MC](../Page/光熙.md "wikilink")\[11\]。隔日，公開《Lollipop》專輯曲目清單，成員均參與詞曲創作與製作\[12\]；其中，雄宰創作的出道曲《Lollipop》為一首舞曲，描述少年一見鍾情後積極示好的情景\[13\]。1月26日，公開《Lollipop》的MV預告片。8月14日，在出道二百天紀念活動中宣佈團體粉絲名為「IF」\[14\]\[15\]。
 11月2日，官方宣佈IMFACT將攜第二張專輯《斑爛》回歸，且成員參與全輯詞曲創作\[16\]\[17\]。
@@ -38,12 +38,12 @@ Hall舉行出道Showcase，由[ZE:A](../Page/ZE:A.md "wikilink")[光熙擔任MC]
 2017年公開計畫「IMFACTORY」，代表組合將製作具影響力及真誠的音樂，計畫內容包含每月發行新曲、迷你見面會及迷你公演等\[18\]。第一首單曲《沒有你》（；）於1月25日公開，此曲在成員練習生時期所作，講述離別時的悲傷\[19\]。2月13日，預告2月單曲《拜託了初戀》（）於2月27日公開\[20\]。4月5日推出《Tension
 Up》，並於音樂節目進行兩周的活動。
 2017年秋，成員帝業、泰浩、摯安、雄宰參與選秀節目《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》，決心透過此節目再次宣傳並展現IMFACT。節目於2017年10月28日開播，並於2018年2月10日正式結束，四人最終名次分別為帝業11名、泰浩27名、摯安49名、雄宰26名。
+Unit](../Page/The_Unit.md "wikilink")》，決心透過此節目再次宣傳並展現IMFACT。節目於2017年10月28日開播，並於2018年2月10日正式結束，四人最終名次分別為帝業11名、泰浩27名、摯安49名、雄宰26名。
 
 ### 2018年：嶄新回歸
 
 4月9日，官方公告IMFACT將於4月17日發行數位單曲《閃耀》回歸。《閃耀》是IMFACT與[THE BLACK
-LABEL合作的作品](https://zh.wikipedia.org/wiki/YG娛樂#THE_BLACK_LABEL "wikilink")，是IMFACT首度在音樂上與其他製作人共同合作；至於造型方面則採用華麗而強烈的[Chav風格](https://zh.wikipedia.org/wiki/Chav "wikilink")，此次時隔一年的回歸，IMFACT無論在音樂上或造型上都展現出了全新的面貌\[21\]。
+LABEL合作的作品](https://zh.wikipedia.org/wiki/YG娛樂#THE_BLACK_LABEL "wikilink")，是IMFACT首度在音樂上與其他製作人共同合作；至於造型方面則採用華麗而強烈的[Chav風格](../Page/Chav.md "wikilink")，此次時隔一年的回歸，IMFACT無論在音樂上或造型上都展現出了全新的面貌\[21\]。
 8月16日，以曲風的單曲《Nanana（懦那䛔）》回歸，此次是IMFACT出道以來首度在夏季回歸。
 
 ### 2019年：回歸、歐洲巡迴演出
@@ -167,7 +167,7 @@ U》回歸，《ONLY U》是一首既明朗，又輕鬆、歡快的歌曲，是I
 <ul>
 <li>語言：韓語</li>
 <li>發行日：2018年4月17日</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie音樂</a></li>
+<li>唱片公司：<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a></li>
 <li>形式：數位</li>
 </ul></td>
 <td><p>{{hidden</p></td>
@@ -221,7 +221,7 @@ U》回歸，《ONLY U》是一首既明朗，又輕鬆、歡快的歌曲，是I
 <td><p>《<strong>Someday</strong>》（언젠가 우연히）</p>
 <ul>
 <li>語言：韓語</li>
-<li>戲劇名稱：<a href="https://zh.wikipedia.org/wiki/Andante_(韓國電視劇)" title="wikilink">Andante</a></li>
+<li>戲劇名稱：<a href="../Page/Andante_(韓國電視劇).md" title="wikilink">Andante</a></li>
 <li>發行日期：2017年11月12日</li>
 <li>演唱：帝業、泰浩、李想</li>
 <li>收錄於《Andante OST Part.5》</li>
@@ -233,7 +233,7 @@ U》回歸，《ONLY U》是一首既明朗，又輕鬆、歡快的歌曲，是I
 <td><p>《<strong>Fret</strong>》（애간장）</p>
 <ul>
 <li>語言：韓語</li>
-<li>戲劇名稱：<a href="https://zh.wikipedia.org/wiki/操心" title="wikilink">操心</a></li>
+<li>戲劇名稱：<a href="../Page/操心.md" title="wikilink">操心</a></li>
 <li>發行時間：2018年1月28日</li>
 <li>演唱：帝業、泰浩、李想</li>
 <li>收錄於《My first love OST Part.4》</li>
@@ -262,7 +262,7 @@ U》回歸，《ONLY U》是一首既明朗，又輕鬆、歡快的歌曲，是I
 <td><p>《<strong>Truth</strong>》</p>
 <ul>
 <li>語言：韓語</li>
-<li>戲劇名稱：<a href="https://zh.wikipedia.org/wiki/小神的孩子們" title="wikilink">小神的孩子們</a></li>
+<li>戲劇名稱：<a href="../Page/小神的孩子們.md" title="wikilink">小神的孩子們</a></li>
 <li>發行時間：2018年3月18日</li>
 <li>演唱：IMFACT</li>
 <li>收錄於《작은 신의 아이들 OST Part.3》</li>
@@ -348,7 +348,7 @@ U》回歸，《ONLY U》是一首既明朗，又輕鬆、歡快的歌曲，是I
 <td><p>10月13日</p></td>
 <td><p>THE UNI+ - 마이턴 (My turn)</p></td>
 <td><p>마이턴 (My turn)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Unit" title="wikilink">The Unit</a> 全體參賽者</p></td>
+<td><p><a href="../Page/The_Unit.md" title="wikilink">The Unit</a> 全體參賽者</p></td>
 <td><p>帝業、泰浩、摯安、雄宰</p></td>
 </tr>
 <tr class="even">

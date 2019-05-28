@@ -6,7 +6,7 @@
   - 2007年4月，進入[寶塚音樂學校](../Page/寶塚音樂學校.md "wikilink")。
   - 2009年3月，進入[寶塚歌劇團](../Page/寶塚歌劇團.md "wikilink")，第95期生。初舞台為宙組公演「薔薇に降る雨／Amour
     それは…」，隨後配屬至宙組。
-      - 同期生包括[月組主演娘役](../Page/月組_\(寶塚歌劇團\).md "wikilink")[愛希れいか](https://zh.wikipedia.org/wiki/愛希れいか "wikilink")、前[宙組主演娘役](../Page/宙組.md "wikilink")[實咲凜音](../Page/實咲凜音.md "wikilink")、前[星組主演娘役](../Page/星組.md "wikilink")[妃海風](../Page/妃海風.md "wikilink")，現花組男役[柚香光](https://zh.wikipedia.org/wiki/柚香光 "wikilink")、[水美舞斗](https://zh.wikipedia.org/wiki/水美舞斗 "wikilink")、星組男役[礼真琴](../Page/礼真琴.md "wikilink")。
+      - 同期生包括[月組主演娘役](../Page/月組_\(寶塚歌劇團\).md "wikilink")[愛希れいか](https://zh.wikipedia.org/wiki/愛希れいか "wikilink")、前[宙組主演娘役](../Page/宙組.md "wikilink")[實咲凜音](../Page/實咲凜音.md "wikilink")、前[星組主演娘役](../Page/星組.md "wikilink")[妃海風](../Page/妃海風.md "wikilink")，現花組男役[柚香光](../Page/柚香光.md "wikilink")、[水美舞斗](https://zh.wikipedia.org/wiki/水美舞斗 "wikilink")、星組男役[礼真琴](../Page/礼真琴.md "wikilink")。
   - 2012年、演出「羅伯特・卡帕 靈魂的紀錄」，初次在Bow Hall公演中飾演女主角。
       - 同年7月、接替退團的宙組主演娘役──[野々すみ花](../Page/野野澄花.md "wikilink")，擔任池田泉州銀行的代言人\[5\]。
   - 2015年、參與睽違12年再演的「獻給王家的歌」。於劇中飾演絕世美女，埃及的王女・アムネリス一角\[6\]。

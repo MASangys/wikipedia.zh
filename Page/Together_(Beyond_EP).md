@@ -1,7 +1,7 @@
 《**Together**》是香港搖滾樂隊[Beyond發行第九张EP](../Page/Beyond.md "wikilink")，為Beyond二十週年演唱會特別推出，出自[黃家駒手筆的](../Page/黃家駒.md "wikilink")《抗戰二十年》顯示他們[搖滾樂之風](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")，有三首是重新灌錄，《永遠等待》從[藝術搖滾轉變為電氣化潛伏電影氛圍](https://zh.wikipedia.org/wiki/藝術搖滾 "wikilink")21世紀的[新金屬](../Page/新金屬.md "wikilink")，《昔日舞曲》放下輕盈優雅和[鄉村音樂韻味換上有如Massive](https://zh.wikipedia.org/wiki/鄉村音樂 "wikilink")
 Attack在Mezzanine時期的闇黑陰濕電子曲式，《灰色軌跡》以Back to Basics的原聲音樂姿態重現。
 
-其中《抗戰二十年》這首歌與《[海闊天空](../Page/海闊天空_\(Beyond專輯\).md "wikilink")》、《[光輝歲月](../Page/光輝歲月_\(專輯\).md "wikilink")》均被視為2014年香港[6.22民間全民投票](../Page/6.22民間全民投票.md "wikilink")、[七一大遊行](../Page/七一大遊行.md "wikilink")、[學界大罷課與](https://zh.wikipedia.org/wiki/2014年香港學界大罷課 "wikilink")[讓愛與和平佔領中環](../Page/讓愛與和平佔領中環.md "wikilink")/[雨傘革命爭取](https://zh.wikipedia.org/wiki/雨傘革命 "wikilink")[自由](../Page/自由.md "wikilink")[民主的主題歌曲](../Page/民主.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]
+其中《抗戰二十年》這首歌與《[海闊天空](../Page/海闊天空_\(Beyond專輯\).md "wikilink")》、《[光輝歲月](../Page/光輝歲月_\(專輯\).md "wikilink")》均被視為2014年香港[6.22民間全民投票](../Page/6.22民間全民投票.md "wikilink")、[七一大遊行](../Page/七一大遊行.md "wikilink")、[學界大罷課與](../Page/2014年香港學界大罷課.md "wikilink")[讓愛與和平佔領中環](../Page/讓愛與和平佔領中環.md "wikilink")/[雨傘革命爭取](../Page/雨傘革命.md "wikilink")[自由](../Page/自由.md "wikilink")[民主的主題歌曲](../Page/民主.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]
 
 ## 曲目
 

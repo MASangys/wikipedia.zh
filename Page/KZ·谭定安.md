@@ -26,7 +26,7 @@ Diva战队的导师。目前，谭定安在综艺节目《》中担任固定嘉�
 
 2018年2月，谭定安作为第二位踢馆歌手参加[湖南卫视](../Page/湖南卫视.md "wikilink")《[歌手2018](../Page/歌手2018.md "wikilink")》。初登场即演唱[阿黛尔的代表作](https://zh.wikipedia.org/wiki/阿黛尔 "wikilink")《[Rolling
 in the
-Deep](https://zh.wikipedia.org/wiki/坠入深渊 "wikilink")》打败众多强敌，获得第五集冠军，并取得继续参加下一场比赛的资格\[18\]。在接下来的正式踢馆赛当中，谭定安首度挑战中文歌曲，以一首《你不知道的痛》获得当期竞演第六名，并以两场总成绩第三名踢馆成功。在3月16日播出的第三轮踢馆淘汰赛中，谭定安演唱了[洛德的](https://zh.wikipedia.org/wiki/洛德_\(歌手\) "wikilink")《[Royals](https://zh.wikipedia.org/wiki/贵族_\(歌曲\) "wikilink")》，最终仅获得当期竞演第八名，并以两场总成绩第八名遗憾遭到淘汰。在4月6日播出的突围赛中，谭定安演唱了菲律宾民歌《》，最终以第七名突围失败，无缘总决赛。
+Deep](https://zh.wikipedia.org/wiki/坠入深渊 "wikilink")》打败众多强敌，获得第五集冠军，并取得继续参加下一场比赛的资格\[18\]。在接下来的正式踢馆赛当中，谭定安首度挑战中文歌曲，以一首《你不知道的痛》获得当期竞演第六名，并以两场总成绩第三名踢馆成功。在3月16日播出的第三轮踢馆淘汰赛中，谭定安演唱了[洛德的](../Page/洛德_\(歌手\).md "wikilink")《[Royals](https://zh.wikipedia.org/wiki/贵族_\(歌曲\) "wikilink")》，最终仅获得当期竞演第八名，并以两场总成绩第八名遗憾遭到淘汰。在4月6日播出的突围赛中，谭定安演唱了菲律宾民歌《》，最终以第七名突围失败，无缘总决赛。
 
 ## 音乐作品
 
@@ -349,7 +349,7 @@ Deep](https://zh.wikipedia.org/wiki/坠入深渊 "wikilink")》打败众多强�
 <td><p>第三轮踢馆淘汰赛</p></td>
 <td><p>2018年3月16日</p></td>
 <td><p>《Royals》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛德_(歌手)" title="wikilink">Lorde</a></p></td>
+<td><p><a href="../Page/洛德_(歌手).md" title="wikilink">Lorde</a></p></td>
 <td><p>词／曲：Lorde、<br />
 编曲：KZ·谭定安、Ivan Lee Espinosa</p></td>
 <td><p>8</p></td>

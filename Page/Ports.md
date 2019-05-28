@@ -31,8 +31,7 @@ pkgsrc 作为他们的官方包管理系统。\[1\]但后来但后来DragonFly B
 
 ## OpenBSD 的 ports
 
-相反，[FreeBSD
-Ports](https://zh.wikipedia.org/wiki/FreeBSD_Ports "wikilink")
+相反，[FreeBSD Ports](../Page/FreeBSD_Ports.md "wikilink")
 是它最初的基础，[OpenBSD](../Page/OpenBSD.md "wikilink")
 的ports系统的目的是作为来源，以创建最终包：安装 ports 时首先创建一个包，然后进行安装。Ports 包含
 [Makefile](https://zh.wikipedia.org/wiki/Makefile "wikilink") ，带有说明信息的
@@ -67,8 +66,7 @@ Jasper Lievisse Adriaanse 的管理下复用。\[4\]
 
   - [Arch编译系统](https://zh.wikipedia.org/wiki/Arch编译系统 "wikilink")
 
-  - [FreeBSD
-    Ports](https://zh.wikipedia.org/wiki/FreeBSD_Ports "wikilink")
+  - [FreeBSD Ports](../Page/FreeBSD_Ports.md "wikilink")
 
   - [Portage](../Page/Portage.md "wikilink")
 

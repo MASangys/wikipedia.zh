@@ -75,14 +75,14 @@ TV上架播出。\[2\]
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/江常輝" title="wikilink">江常輝</a></p></td>
+<p><a href="../Page/江常輝.md" title="wikilink">江常輝</a></p></td>
 <td><center>
 <p>是奕-{杰}-</p></td>
 <td><p>非盛哲的大學講師。離婚後獨力扶養女兒優優。因不懂如何照顧女兒和整理家裡環境，而聘請了非盛哲當保母。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/張行" title="wikilink">張行</a></p></td>
+<p><a href="../Page/張行.md" title="wikilink">張行</a></p></td>
 <td><center>
 <p>非盛哲<br />
 </p></td>
@@ -182,35 +182,35 @@ TV上架播出。\[2\]
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/盧彥澤" title="wikilink">盧彥澤</a></p></td>
+<p><a href="../Page/盧彥澤.md" title="wikilink">盧彥澤</a></p></td>
 <td><center>
 <p>邱子軒</p></td>
 <td><p>志弘中學三年級生，學校排球隊經理，很喜欢排球，是个排球控。因為腳傷而不能下場比賽，还会经常抽筋。個性理智冷靜、斯文幹練，脾气很好，別稱為「眼鏡仔」，是个妹控。以前背號7。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/范少勳" title="wikilink">范少勳</a></p></td>
+<p><a href="../Page/范少勳.md" title="wikilink">范少勳</a></p></td>
 <td><center>
 <p>夏宇豪</p></td>
 <td><p>原本就讀北江高中二年級，後被退學並轉學到志弘中學二年級，跟王振文、王振武同班。他是不良少年名人榜上響叮噹的人物，但事實上他是見義勇為、幫好友出手教訓惡霸的熱血男孩，因打架退學轉校後，被延攬加入排球隊而喜歡上邱子軒。背號13。</p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/楊孟霖" title="wikilink">楊孟霖</a></p></td>
+<p><a href="../Page/楊孟霖.md" title="wikilink">楊孟霖</a></p></td>
 <td><center>
 <p>王振文</p></td>
 <td><p>暗戀王振武，原本就讀北江高中二年級，陪夏宇豪退學並轉學到志弘中學二年級，跟夏宇豪、王振武同班。文爸與武媽再婚，是王振武沒有血緣關係的弟弟，一直默默喜歡著沒有血緣關係的哥哥。個性有點衝動又有點呆。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/施柏宇" title="wikilink">施柏宇</a></p></td>
+<p><a href="../Page/施柏宇.md" title="wikilink">施柏宇</a></p></td>
 <td><center>
 <p>王振武</p></td>
 <td><p>原名張力勤。原本就讀北江高中三年級，陪夏宇豪退學並轉學到志弘中學二年級，跟夏宇豪、王振文同班。武媽與文爸再婚，是王振文沒有血緣關係的哥哥，因王振文小時候被綁架，練就一身武藝，立誓要用一輩子保護依賴他的弟弟。個性斯文冷静，沉默寡言，是株弟弟向日葵。所有的温柔柔情只给弟弟一人，背號11。</p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/謝毅宏" title="wikilink">謝毅宏</a></p></td>
+<p><a href="../Page/謝毅宏.md" title="wikilink">謝毅宏</a></p></td>
 <td><center>
 <p>賀承恩</p></td>
 <td><p>志弘中學三年級生，學校排球隊隊長，何小小的男友。與邱子軒有著密不可分的默契，提出要夏宇豪加入排球隊。背號3。</p></td>
@@ -245,14 +245,14 @@ TV上架播出。\[2\]
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/王毓翔" title="wikilink">王毓翔</a></p></td>
+<p><a href="../Page/王毓翔.md" title="wikilink">王毓翔</a></p></td>
 <td><center>
 <p>李俊喆</p></td>
 <td><p>志弘中學二年級生，學校排球隊隊員，背號4。被賀承恩和陳家均戲稱為「小吉吉」。</p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/章哲銘" title="wikilink">章哲銘</a></p></td>
+<p><a href="../Page/章哲銘.md" title="wikilink">章哲銘</a></p></td>
 <td><center>
 <p>江勁揚</p></td>
 <td><p>志弘中學一年級生，學校排球隊隊員。江勁騰的表弟，背號5。</p></td>

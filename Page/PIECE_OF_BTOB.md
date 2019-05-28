@@ -19,7 +19,7 @@ GIRL**》與其創作諸多知名歌曲的[美國作曲家姊夫Kairos合力製�
 [任炫植在BTOB專輯中亦有許多自創曲](../Page/任炫植.md "wikilink")，被稱為「BTOB的音樂之父」。Solo歌曲《**Swimming**》也已在單獨演唱會公開演唱，此次為了企劃發行音源而重新進行編曲製作。由本人作曲、填詞、編曲，歌詞表達了像大海一般深邃憂鬱的愛情，樂曲中加入水流聲、鳥鳴聲等背景音，聆聽時彷彿身歷於大海般，是展現炫植獨有感性的抒情歌曲。\[7\]
 
 [李旼赫的自作曲](../Page/李旼赫.md "wikilink")《**Purple
-Rain**》邀請到歌手[CHEEZE參與Feat](https://zh.wikipedia.org/wiki/CHEEZE "wikilink")，使歌曲的音樂性更加豐富。由本人作曲、填詞、編曲，是旼赫透過夏日逢雨季得到靈感而創作的R\&B歌曲，講述分手後的傷痛與後悔，以「雨」代出男女各自的立場，構成有結構性的歌詞和感性的旋律，歌曲中也展現身為Rapper但所擁有的Vocal實力。\[8\]
+Rain**》邀請到歌手[CHEEZE參與Feat](../Page/CHEEZE.md "wikilink")，使歌曲的音樂性更加豐富。由本人作曲、填詞、編曲，是旼赫透過夏日逢雨季得到靈感而創作的R\&B歌曲，講述分手後的傷痛與後悔，以「雨」代出男女各自的立場，構成有結構性的歌詞和感性的旋律，歌曲中也展現身為Rapper但所擁有的Vocal實力。\[8\]
 
 [陸星材的單曲](../Page/陸星材.md "wikilink")《**Tell
 Me**（말해）》由[JYP娛樂所屬的作曲家](../Page/JYP娛樂.md "wikilink")創作，表述與分手後的戀人再次遇見的男人的哀切感，第一節是與相遇的過往戀人的閒聊對話一般，第二節則表達獨自沉浸在離別的悲傷情感之中，是能表現星材溫柔感性、深切傷感嗓音的抒情歌曲。自作曲《**Paradise**》由本人作曲、填詞，是星材出道以來發表的第一首創作曲，歌詞表達陷入倦怠期的戀人、想要讓對方回心轉意的男人的心境，是以和聲與銅管樂器結合而成的Soul類型歌曲。\[9\]
@@ -48,8 +48,7 @@ Me**（말해）》由[JYP娛樂所屬的作曲家](../Page/JYP娛樂.md "wikili
 2017年8月3、6日，公開第五位Solo成員[李旼赫共兩個版本的Special](../Page/李旼赫.md "wikilink")
 Clip預告 \[21\]\[22\]。8月7日，公開旼赫的單曲封面照
 \[23\]。8月9日，旼赫於Vapp直播中說明單曲只有預告影像並沒有MV。8月10日，正式發布自作曲《Purple
-Rain》音源，並由[CHEEZE參與Feat](https://zh.wikipedia.org/wiki/CHEEZE "wikilink")
-\[24\]。
+Rain》音源，並由[CHEEZE參與Feat](../Page/CHEEZE.md "wikilink") \[24\]。
 
 2017年8月23日，公開第六位Solo成員[陸星材的Track](../Page/陸星材.md "wikilink") List
 \[25\]。8月27日，公開星材的單曲封面照 \[26\]。8月30日，正式發布兩首單曲《Tell
@@ -193,7 +192,7 @@ Length = | Label = [Kakao M](../Page/Kakao_M.md "wikilink") }}
 <td><p>2017年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/PIECE_OF_BTOB" title="wikilink">PIECE OF BTOB</a></p></td>
+<td><p><a href="../Page/PIECE_OF_BTOB.md" title="wikilink">PIECE OF BTOB</a></p></td>
 </tr>
 <tr class="odd">
 <td><ul>

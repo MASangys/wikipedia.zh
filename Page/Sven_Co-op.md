@@ -1,5 +1,5 @@
 **Sven
-Co-op**（通常缩写为**SC**）是[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[半条命](../Page/半条命_\(游戏\).md "wikilink")》的[合作模式版本](https://zh.wikipedia.org/wiki/合作游戏模式 "wikilink")。此游戏版本最初在1999年1月19日作为[模组发布](../Page/遊戲模組.md "wikilink")，由丹尼尔·菲尔容（）
+Co-op**（通常缩写为**SC**）是[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《[半条命](../Page/半条命_\(游戏\).md "wikilink")》的[合作模式版本](../Page/合作游戏模式.md "wikilink")。此游戏版本最初在1999年1月19日作为[模组发布](../Page/遊戲模組.md "wikilink")，由丹尼尔·菲尔容（）
 制作，允许玩家在服务器上合作通关，此外也增强了许多《半条命》原有的设定，包括敌方与友方[非玩家角色所用的人工智能系统](../Page/非玩家角色.md "wikilink")。游戏的很多地图都是基于《半条命》的世界观与剧情设定，但也有其他类型的地图。
 
 2013年，《半条命》系列的制作方——[Valve公司](https://zh.wikipedia.org/wiki/Valve_Corporation "wikilink")，授权Sven

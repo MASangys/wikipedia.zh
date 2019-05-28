@@ -9,7 +9,7 @@ Media旗下的一組
 ### 出道前
 
 海娜是在2014年推出的四人女子團體[Kiss\&Cry的成員](../Page/Kiss&Cry.md "wikilink")，其後退出。海娜曾在2014年參與《[SUPER
-STAR K](https://zh.wikipedia.org/wiki/SUPER_STAR_K "wikilink")6》。
+STAR K](../Page/SUPER_STAR_K.md "wikilink")6》。
 
 ### 出道後
 
@@ -21,9 +21,8 @@ STAR K](https://zh.wikipedia.org/wiki/SUPER_STAR_K "wikilink")6》。
 你是Bad
 別讓我哭"。[1](http://enews24.interest.me/news/article.asp?nsID=1114965)
 
-2017年10月28日[The
-Unit開播](https://zh.wikipedia.org/wiki/The_Unit "wikilink")，海娜(3
-Boot)、丹雅(4 Boot)、世美(4 Boot)、賽別(2
+2017年10月28日[The Unit開播](../Page/The_Unit.md "wikilink")，海娜(3 Boot)、丹雅(4
+Boot)、世美(4 Boot)、賽別(2
 Boot)入選，賽別第7集淘汰，最終排名49名；海娜第10集淘汰，最終排名40名；丹雅和世美進入決賽，丹雅最終排名14名，世美意外落馬，排名從第2名下降到13名，無緣出道。
 
 ## 成員資料
@@ -121,7 +120,7 @@ Boot)入選，賽別第7集淘汰，最終排名49名；海娜第10集淘汰，�
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《''' <a href="https://zh.wikipedia.org/wiki/超人家族_2017" title="wikilink">超人家族 2017OST</a> Part. 2 '''》</p>
+<td><p>《''' <a href="../Page/超人家族_2017.md" title="wikilink">超人家族 2017OST</a> Part. 2 '''》</p>
 <ul>
 <li>發行日期：2017年3月7日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -299,7 +298,7 @@ Boot)入選，賽別第7集淘汰，最終排名49名；海娜第10集淘汰，�
 <tr class="even">
 <td><p>2017</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/最佳的一擊" title="wikilink">最佳的一擊</a></p></td>
+<td><p><a href="../Page/最佳的一擊.md" title="wikilink">最佳的一擊</a></p></td>
 <td><p>世美</p></td>
 <td><p>恩雅</p></td>
 <td></td>
@@ -379,7 +378,7 @@ Boot)入選，賽別第7集淘汰，最終排名49名；海娜第10集淘汰，�
 <td><p>2016</p></td>
 <td><p>8月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MV_Bank_Stardust" title="wikilink">MV Bank Stardust</a></p></td>
+<td><p><a href="../Page/MV_Bank_Stardust.md" title="wikilink">MV Bank Stardust</a></p></td>
 <td><p>全體</p></td>
 <td></td>
 </tr>
@@ -411,7 +410,7 @@ Boot)入選，賽別第7集淘汰，最終排名49名；海娜第10集淘汰，�
 <td><p>2016</p></td>
 <td><p>9月14日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/偶像料理王" title="wikilink">偶像料理王</a></p></td>
+<td><p><a href="../Page/偶像料理王.md" title="wikilink">偶像料理王</a></p></td>
 <td><p>全體</p></td>
 <td></td>
 </tr>
@@ -427,7 +426,7 @@ Boot)入選，賽別第7集淘汰，最終排名49名；海娜第10集淘汰，�
 <td><p>2016</p></td>
 <td><p>10月6日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拜託了梳妝台" title="wikilink">拜託了梳妝台</a>2</p></td>
+<td><p><a href="../Page/拜託了梳妝台.md" title="wikilink">拜託了梳妝台</a>2</p></td>
 <td><p>丹雅、賽別</p></td>
 <td></td>
 </tr>
@@ -435,7 +434,7 @@ Boot)入選，賽別第7集淘汰，最終排名49名；海娜第10集淘汰，�
 <td><p>2016</p></td>
 <td><p>10月13日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拜託了梳妝台" title="wikilink">拜託了梳妝台</a>2</p></td>
+<td><p><a href="../Page/拜託了梳妝台.md" title="wikilink">拜託了梳妝台</a>2</p></td>
 <td><p>海娜、世美</p></td>
 <td></td>
 </tr>
@@ -507,7 +506,7 @@ Boot)入選，賽別第7集淘汰，最終排名49名；海娜第10集淘汰，�
 <td><p>2017-2018</p></td>
 <td><p>10月28日-2月10日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Unit" title="wikilink">The Unit</a></p></td>
+<td><p><a href="../Page/The_Unit.md" title="wikilink">The Unit</a></p></td>
 <td><p>全體</p></td>
 <td></td>
 </tr>

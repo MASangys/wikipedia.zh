@@ -14,7 +14,7 @@ CODE』的編舞及演出，成為人生的轉折點，是她首次擔任舞台�
 2010年1月，成立的以女性舞者組成的舞團（日語：イレブンプレイ），與嚴格挑選的成員一起製造獨創的「MIKIKO
 WORLD」。強調「心・技・體」的展現，配合影像與光線來營造舞蹈的世界觀\[5\]。目前是廣島演藝學校的常勤導師\[6\]
 
-2017年3月13日，獲得頒發「評審特別獎」，她領獎致詞表示：「自己承蒙編舞對象及工作人員的恩惠，Perfume自然不用多說。另外BABYMETAL能以幼小的身軀走向世界舞台，自己也因為目睹這樣的身影而備受鼓舞，在《[月薪嬌妻](https://zh.wikipedia.org/wiki/逃避雖可恥但有用 "wikilink")》劇中參與〈[戀](https://zh.wikipedia.org/wiki/戀_\(星野源單曲\) "wikilink")〉舞蹈的各位演員也是，各位相關人員的熱情之心使自己非常感動」\[7\]。
+2017年3月13日，獲得頒發「評審特別獎」，她領獎致詞表示：「自己承蒙編舞對象及工作人員的恩惠，Perfume自然不用多說。另外BABYMETAL能以幼小的身軀走向世界舞台，自己也因為目睹這樣的身影而備受鼓舞，在《[月薪嬌妻](../Page/逃避雖可恥但有用.md "wikilink")》劇中參與〈[戀](https://zh.wikipedia.org/wiki/戀_\(星野源單曲\) "wikilink")〉舞蹈的各位演員也是，各位相關人員的熱情之心使自己非常感動」\[7\]。
 
 ## 編舞風格
 
@@ -118,12 +118,10 @@ OWARI](../Page/SEKAI_NO_OWARI.md "wikilink")、[青山黛瑪](../Page/青山黛�
     City](https://zh.wikipedia.org/wiki/Relax_In_The_City/Pick_Me_Up "wikilink")（2015年）
   - [STAR TRAIN](../Page/STAR_TRAIN.md "wikilink")（2015年）
   - FLASH（2016年）
-  - [TOKYO
-    GIRL](https://zh.wikipedia.org/wiki/TOKYO_GIRL "wikilink")（2017年）
-  - [If you
-    wanna](https://zh.wikipedia.org/wiki/If_you_wanna "wikilink")（2017年）
+  - [TOKYO GIRL](../Page/TOKYO_GIRL.md "wikilink")（2017年）
+  - [If you wanna](../Page/If_you_wanna.md "wikilink")（2017年）
   - every day（2017年）
-  - [無限未來](https://zh.wikipedia.org/wiki/無限未來 "wikilink")（2018年）
+  - [無限未來](../Page/無限未來.md "wikilink")（2018年）
 
 <!-- end list -->
 
@@ -382,12 +380,12 @@ OWARI](../Page/SEKAI_NO_OWARI.md "wikilink")、[青山黛瑪](../Page/青山黛�
   -
     其他參與工作
 
-**[星野源](https://zh.wikipedia.org/wiki/星野源 "wikilink")**
+**[星野源](../Page/星野源.md "wikilink")**
 
   - SUN （2015年）
   - 時よ（2015年）
   - Nerd Strut (Instrumental) (純演奏曲)（2016年YELLOW VOYAGE巡迴演唱會版）
-  - [戀](https://zh.wikipedia.org/wiki/戀_\(星野源單曲\) "wikilink")（2016年）\*包含MV、LIVE(紅白與年末音樂節目)與電視劇《[月薪嬌妻](https://zh.wikipedia.org/wiki/逃避雖可恥但有用 "wikilink")》片尾版
+  - [戀](https://zh.wikipedia.org/wiki/戀_\(星野源單曲\) "wikilink")（2016年）\*包含MV、LIVE(紅白與年末音樂節目)與電視劇《[月薪嬌妻](../Page/逃避雖可恥但有用.md "wikilink")》片尾版
 
 **[椎名林檎](../Page/椎名林檎.md "wikilink")**
 
@@ -721,7 +719,7 @@ OWARI](../Page/SEKAI_NO_OWARI.md "wikilink")、[青山黛瑪](../Page/青山黛�
   - 『「」Perfume「[Spending all my
     time](../Page/Spending_all_my_time.md "wikilink")」』
   - Perfume 『[Perfume WORLD TOUR
-    2nd](https://zh.wikipedia.org/wiki/Perfume_WORLD_TOUR_2nd "wikilink")』LIVE
+    2nd](../Page/Perfume_WORLD_TOUR_2nd.md "wikilink")』LIVE
   - [武藤彩未](../Page/武藤彩未.md "wikilink") 『武藤彩未LIVE DINA 1980』LIVE
   - 武藤彩未 『武藤彩未LIVE DINA 1980〜version2.〜』LIVE
   - Perfume 『[Perfume 4th Tour in DOME
@@ -752,8 +750,7 @@ OWARI](../Page/SEKAI_NO_OWARI.md "wikilink")、[青山黛瑪](../Page/青山黛�
 
 **2016年**
 
-  - [星野源](https://zh.wikipedia.org/wiki/星野源 "wikilink")『星野源 LIVE TOUR
-    2016 「YELLOW VOYAGE」』
+  - [星野源](../Page/星野源.md "wikilink")『星野源 LIVE TOUR 2016 「YELLOW VOYAGE」』
 
 ## 其他
 

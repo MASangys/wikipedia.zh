@@ -11,9 +11,9 @@ SHOWTIME初次的合作真人-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-，2016年歌�
 
 <!-- end list -->
 
-  - [頌樂](https://zh.wikipedia.org/wiki/頌樂 "wikilink")
-  - [玟星](https://zh.wikipedia.org/wiki/玟星 "wikilink")
-  - [輝人](https://zh.wikipedia.org/wiki/輝人 "wikilink")
+  - [頌樂](../Page/頌樂.md "wikilink")
+  - [玟星](../Page/玟星.md "wikilink")
+  - [輝人](../Page/輝人.md "wikilink")
   - [華莎](https://zh.wikipedia.org/wiki/安惠真 "wikilink")
 
 <!-- end list -->
@@ -122,13 +122,11 @@ Umji因為試造型時受傷而缺席MV錄影。</p></td>
 
 1.  《[EXO's SHOWTIME](../Page/EXO's_SHOWTIME.md "wikilink")》（2013－2014年）
 2.  《[SHOWTIME - Burning the
-    BEAST](https://zh.wikipedia.org/wiki/SHOWTIME_-_Burning_the_BEAST "wikilink")》（2014年）
-3.  《[Apink's
-    SHOWTIME](https://zh.wikipedia.org/wiki/Apink's_SHOWTIME "wikilink")》（2014年）
+    BEAST](../Page/SHOWTIME_-_Burning_the_BEAST.md "wikilink")》（2014年）
+3.  《[Apink's SHOWTIME](../Page/Apink's_SHOWTIME.md "wikilink")》（2014年）
 4.  《[Sistar's
     SHOWTIME](https://zh.wikipedia.org/wiki/Sistar's_SHOWTIME "wikilink")》（2015年）
-5.  《[EXID's
-    SHOWTIME](https://zh.wikipedia.org/wiki/EXID's_SHOWTIME "wikilink")》（2015年）
+5.  《[EXID's SHOWTIME](../Page/EXID's_SHOWTIME.md "wikilink")》（2015年）
 6.  《[SHOWTIME
     Infinite](../Page/SHOWTIME_Infinite.md "wikilink")》（2015－2016年）
 7.  《**Showtime Mamamoo X GFriend**》（2016年）

@@ -5,11 +5,11 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 ## 概要
 
   - 《AAA 10th ANNIVERSARY BEST》是AAA第4張精選專輯及第10張原創專輯，雙專輯一同發行。與上一張專輯《[GOLD
-    SYMPHONY](https://zh.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")》相距約11個月。
+    SYMPHONY](../Page/GOLD_SYMPHONY.md "wikilink")》相距約11個月。
   - 與第50張單曲《[深愛著，卻不能愛](../Page/深愛著，卻不能愛.md "wikilink")》同時發行。
   - Disc 1 & 2為精選專輯。收錄第1張單曲《[BLOOD on
-    FIRE](../Page/BLOOD_on_FIRE.md "wikilink")》至第42張單曲《[說再見之前](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")》，10年以來多首人氣及成名之作。除了單曲，此專輯更收錄了第1張專輯《[ATTACK](../Page/ATTACK_\(AAA專輯\).md "wikilink")》至第9張專輯《[GOLD
-    SYMPHONY](https://zh.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")》多首人氣歌曲。
+    FIRE](../Page/BLOOD_on_FIRE.md "wikilink")》至第42張單曲《[說再見之前](../Page/說再見之前.md "wikilink")》，10年以來多首人氣及成名之作。除了單曲，此專輯更收錄了第1張專輯《[ATTACK](../Page/ATTACK_\(AAA專輯\).md "wikilink")》至第9張專輯《[GOLD
+    SYMPHONY](../Page/GOLD_SYMPHONY.md "wikilink")》多首人氣歌曲。
   - Disc 3為第10張原創專輯。收錄了第43張單曲《[I'll be
     there](../Page/I'll_be_there_\(AAA單曲\).md "wikilink")》至第50張單曲《[深愛著，卻不能愛](../Page/深愛著，卻不能愛.md "wikilink")》8首A面曲、十週年七單曲連發計劃裏內藏的未發行歌曲《STORY》的完整音源、新曲《Distance》，共10首曲目
   - 新曲《Distance》是[朝日電視台節目](../Page/朝日電視台.md "wikilink")「musicるtv」其中一環節『ミリオン連発音楽作家塾』的第5彈曲目，亦是手機遊戲《[魔法氣泡](../Page/魔法氣泡系列.md "wikilink")》的電視廣告歌曲和VIP「Geo
@@ -18,13 +18,13 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
     2CDs盤」和「mu-mo shop限定盤」4種版本，而「mu-mo shop限定盤」亦有7個封面。
   - DVD收錄了由粉絲投票、最高得票的Music Video
     Selection，包括《[LOVER](../Page/LOVER.md "wikilink")》（第1位）、《[SHOW
-    TIME](https://zh.wikipedia.org/wiki/SHOW_TIME "wikilink")》（第2位）、《[Lil'
+    TIME](../Page/SHOW_TIME.md "wikilink")》（第2位）、《[Lil'
     Infinity](../Page/Lil'_Infinity.md "wikilink")》（第3位）等16首歌曲、第50張單曲《[深愛著，卻不能愛](../Page/深愛著，卻不能愛.md "wikilink")》的Music
     Video和製作花絮（Making）、《LOVER》的製作花絮（Making），以及亞洲巡迴演唱會「AAA ASIA TOUR 2015
     -Attack All Around-」的Documentary。
   - 在9月28日於公信榜專輯週排行榜取得第1位，繼《[＃AAABEST](../Page/＃AAABEST.md "wikilink")》、《[Eighth
     Wonder](../Page/Eighth_Wonder_\(AAA專輯\).md "wikilink")》和《[GOLD
-    SYMPHONY](https://zh.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")》後第4張公信榜每周銷量排名第一的專輯。
+    SYMPHONY](../Page/GOLD_SYMPHONY.md "wikilink")》後第4張公信榜每周銷量排名第一的專輯。
   - 此專輯於9月16日、17日、18日、19日、20日、21日於日本ORICON公信榜專輯日間排行榜取得第1位。
   - 《AAA 10th ANNIVERSARY
     BEST》首週的銷量達8.6萬張，總銷量達16.6萬張，成為AAA出道以來銷量最高的專輯，並首次公信榜取得專輯月榜冠軍。
@@ -145,11 +145,11 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
     （作詞：森月キャス、Rap詞：日高光啓、作曲：大西克巳、編曲：清水武仁）
       -
         41st單曲、「Wake up\!」的B面曲
-14. **[說再見之前](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")**（）
+14. **[說再見之前](../Page/說再見之前.md "wikilink")**（）
     （作詞：森月キャス、Rap詞：Mitsuhiro Hidaka 作曲：丸山真由子）
       -
         42nd單曲
-15. **[Next Stage](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")**
+15. **[Next Stage](../Page/說再見之前.md "wikilink")**
     （作詞：leonn、Rap詞：Mitsuhiro Hidaka、作曲：Kenji Kabashima, SugayaBros.）
       -
         42nd單曲、「說再見之前」的B面曲
@@ -226,7 +226,7 @@ trax](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 9.  777 ～We can sing a song\!～
 10. PARTY IT UP
 11. 戀歌與雨天
-12. [SHOW TIME](https://zh.wikipedia.org/wiki/SHOW_TIME "wikilink")
+12. [SHOW TIME](../Page/SHOW_TIME.md "wikilink")
 13. Wake up\!
 14. 說再見之前
 15. Lil' Infinity

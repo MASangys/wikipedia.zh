@@ -56,7 +56,7 @@ Ver.），不包括滾動更新的Snapshot版本。與OpenWRT（v15.x）使用3.
 <td></td>
 <td><p>2017年10月18日</p></td>
 <td><p>r3560</p></td>
-<td><p>更新Linux內核至v4.4.92，安全性修復（包括<a href="https://zh.wikipedia.org/wiki/KRACK" title="wikilink">KRACK</a>，無論是作為<a href="https://zh.wikipedia.org/wiki/客户端" title="wikilink">客户端還是</a><a href="https://zh.wikipedia.org/wiki/伺服器" title="wikilink">伺服器</a>/<a href="https://zh.wikipedia.org/wiki/無線基地台" title="wikilink">基地台</a>）[18]</p></td>
+<td><p>更新Linux內核至v4.4.92，安全性修復（包括<a href="../Page/KRACK.md" title="wikilink">KRACK</a>，無論是作為<a href="https://zh.wikipedia.org/wiki/客户端" title="wikilink">客户端還是</a><a href="https://zh.wikipedia.org/wiki/伺服器" title="wikilink">伺服器</a>/<a href="https://zh.wikipedia.org/wiki/無線基地台" title="wikilink">基地台</a>）[18]</p></td>
 </tr>
 <tr class="even">
 <td></td>

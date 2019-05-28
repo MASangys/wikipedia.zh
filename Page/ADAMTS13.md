@@ -11,7 +11,7 @@ protease，VWFCP）是一種含[锌的](../Page/锌.md "wikilink")。ADAMTS13可
 
 自1982年時，人們就知道遺傳性（TTP，一種）患者的血漿中，存在異常巨大的溫韋伯氏因子多聚體（ULVWF）\[3\]。
 
-1994年，發現在高剪力下時，有一種血漿金屬酶會從vWF第1605位的[酪氨酸及](../Page/酪氨酸.md "wikilink")1606位的[甲硫氨酸間切割](../Page/甲硫氨酸.md "wikilink")。1996年，兩個獨立研究團隊分別發現該酵素。自接下來的兩年，同樣的兩個團隊證明了vWF裂解酶與小血管的[血小板](../Page/血小板.md "wikilink")[血栓生成相關](../Page/血栓.md "wikilink")。此外他們還報導了在大部分非遺傳性TTP患者身上，能發現對抗ADAMTS13的[IgG](https://zh.wikipedia.org/wiki/IgG "wikilink")[抗体](https://zh.wikipedia.org/wiki/抗体 "wikilink")\[4\]。
+1994年，發現在高剪力下時，有一種血漿金屬酶會從vWF第1605位的[酪氨酸及](../Page/酪氨酸.md "wikilink")1606位的[甲硫氨酸間切割](../Page/甲硫氨酸.md "wikilink")。1996年，兩個獨立研究團隊分別發現該酵素。自接下來的兩年，同樣的兩個團隊證明了vWF裂解酶與小血管的[血小板](../Page/血小板.md "wikilink")[血栓生成相關](../Page/血栓.md "wikilink")。此外他們還報導了在大部分非遺傳性TTP患者身上，能發現對抗ADAMTS13的[IgG](../Page/IgG.md "wikilink")[抗体](https://zh.wikipedia.org/wiki/抗体 "wikilink")\[4\]。
 
 ## 蛋白質組學
 
@@ -38,8 +38,8 @@ ADAMTS13缺乏症最早發現於，為一種復發性遺傳性。當時學界認
 
 ## 外部連結
 
-  - The [MEROPS](https://zh.wikipedia.org/wiki/MEROPS "wikilink") online
-    database for peptidases and their inhibitors:
+  - The [MEROPS](../Page/MEROPS.md "wikilink") online database for
+    peptidases and their inhibitors:
     [M12.241](http://merops.sanger.ac.uk/cgi-bin/merops.cgi?id=M12.241)
 
   -

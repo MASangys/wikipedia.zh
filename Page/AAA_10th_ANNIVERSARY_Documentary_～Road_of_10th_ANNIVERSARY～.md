@@ -14,7 +14,7 @@ ANNIVERSARY〜**』是日本團體[AAA於](../Page/AAA_\(團體\).md "wikilink")
 ### 初回限定盤映像
 
 1.  Opening SE
-2.  [Next Stage](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")
+2.  [Next Stage](../Page/說再見之前.md "wikilink")
 3.  [Heart and Soul](../Page/Heart_and_Soul_\(AAA單曲\).md "wikilink")
 4.  [Love Is In The Air](../Page/Love_Is_In_The_Air.md "wikilink")
 5.  [Get
@@ -34,9 +34,8 @@ ANNIVERSARY〜**』是日本團體[AAA於](../Page/AAA_\(團體\).md "wikilink")
 15. [I'll be there](../Page/I'll_be_there_\(AAA單曲\).md "wikilink")
 16. [GAME OVER?](../Page/GAME_OVER?.md "wikilink")
 17. [PARTY IT UP](../Page/PARTY_IT_UP.md "wikilink")
-18. [說再見之前](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")
-19. [V.O.L](https://zh.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")
-    (ENCORE)
+18. [說再見之前](../Page/說再見之前.md "wikilink")
+19. [V.O.L](../Page/GOLD_SYMPHONY.md "wikilink") (ENCORE)
 20. [BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink") (ENCORE)
 21. [Wake up\!](../Page/Wake_up!.md "wikilink") (ENCORE)
 22. [虹](../Page/彩虹_\(AAA單曲\).md "wikilink") (ENCORE)

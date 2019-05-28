@@ -18,7 +18,7 @@ LIVE 2016 ～We’re like a puzzle～》演唱會\[5\]。
 
   - 初回限定盤B（編號：WPZL-31177/8）：這版本包括了一片收錄了《Be my love》的純音樂版本的單曲CD、一片收錄《2015
     ARENA TOUR \~Be a Supernova\~ @[OSAKA-JO
-    HALL](https://zh.wikipedia.org/wiki/大阪城音樂廳 "wikilink")》音樂會片段的DVD\[7\]。
+    HALL](../Page/大阪城音樂廳.md "wikilink")》音樂會片段的DVD\[7\]。
 
 <!-- end list -->
 

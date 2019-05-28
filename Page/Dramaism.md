@@ -45,7 +45,7 @@
       - 劇本：[飯塚健](https://zh.wikipedia.org/wiki/飯塚健 "wikilink")
   - 4月17日－5月29日：**[Final Fantasy XIV
     光之老爸](https://zh.wikipedia.org/wiki/Final_Fantasy_XIV_光之老爸 "wikilink")（）**
-      - 出演：[千葉雄大](../Page/千葉雄大.md "wikilink")・[大杉漣](https://zh.wikipedia.org/wiki/大杉漣 "wikilink")
+      - 出演：[千葉雄大](../Page/千葉雄大.md "wikilink")・[大杉漣](../Page/大杉漣.md "wikilink")
       - 原作：麥迪（）《》
       - 劇本：[吹原幸太](https://zh.wikipedia.org/wiki/吹原幸太 "wikilink")
   - 6月6日－6月26日：**[怪獸倶樂部〜空想特攝青春記〜](https://zh.wikipedia.org/wiki/怪獸倶樂部〜空想特攝青春記〜 "wikilink")（）**
@@ -85,7 +85,7 @@
   - 3月26日－：**[絕對戀愛命令](../Page/絕對戀愛命令.md "wikilink") /
     [兄友](https://zh.wikipedia.org/wiki/兄友 "wikilink")（）**
       - 出演：[玉城ティナ](https://zh.wikipedia.org/wiki/玉城ティナ "wikilink")・[小關裕太](../Page/小關裕太.md "wikilink")
-        / [橫濱流星](https://zh.wikipedia.org/wiki/橫濱流星 "wikilink")
+        / [橫濱流星](../Page/橫濱流星.md "wikilink")
       - 原作：[遠山繪麻](../Page/遠山繪麻.md "wikilink") /
         [赤瓦もどむ](https://zh.wikipedia.org/wiki/赤瓦もどむ "wikilink")
       - 劇本：山本透、北川亞矢子 / 中川千英子

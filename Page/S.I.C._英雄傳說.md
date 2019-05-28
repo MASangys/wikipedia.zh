@@ -1878,7 +1878,7 @@ Chogokin** 模型的一系列模型小説，於《月刊 Hobby Japan》連載。
 
   - [假面騎士系列](../Page/假面騎士系列.md "wikilink")
   - [伏魔三剑侠](../Page/伏魔三剑侠.md "wikilink")
-  - [电脑奇侠](https://zh.wikipedia.org/wiki/电脑奇侠 "wikilink")
+  - [电脑奇侠](../Page/电脑奇侠.md "wikilink")
 
 ## 註釋
 

@@ -14,7 +14,7 @@ Cesqeaux曾在大型音乐节上表演，如[明日世界电子音乐节巴西�
 Valley，还有[超世代音乐节迈阿密上表演过](../Page/超世代音乐节.md "wikilink")，还上过荷兰最大的脱口秀，De
 Wereld Draait Door (也称为DWDD)
 
-2017年不仅在[超世代音乐节上与](../Page/超世代音乐节.md "wikilink")[艾佛杰克上演B](https://zh.wikipedia.org/wiki/艾佛傑克 "wikilink")2B，还将开启他生涯的第一次亚洲巡演，目前已知包括日本和中国都在巡演名单内。\[6\]
+2017年不仅在[超世代音乐节上与](../Page/超世代音乐节.md "wikilink")[艾佛杰克上演B](../Page/艾佛傑克.md "wikilink")2B，还将开启他生涯的第一次亚洲巡演，目前已知包括日本和中国都在巡演名单内。\[6\]
 
 ## 生平
 
@@ -143,7 +143,7 @@ Parookaville音乐节上演出
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
-<td><p>Cesqeaux和<a href="https://zh.wikipedia.org/wiki/艾佛傑克" title="wikilink">艾佛杰克和O</a>.T.Genasis</p></td>
+<td><p>Cesqeaux和<a href="../Page/艾佛傑克.md" title="wikilink">艾佛杰克和O</a>.T.Genasis</p></td>
 <td><p>Life Good</p></td>
 <td><p>Life Good</p></td>
 <td><p>Trap City</p></td>

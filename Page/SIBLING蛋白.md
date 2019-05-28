@@ -4,15 +4,14 @@ glycoprotein）的缩写。有证据表明SIBLING蛋白在这些组织的[矿化
 
 下列蛋白质属于SIBLING蛋白：\[2\]\[3\]
 
-1.  [骨桥蛋白](https://zh.wikipedia.org/wiki/骨桥蛋白 "wikilink") Osteopontin
+1.  [骨桥蛋白](../Page/骨桥蛋白.md "wikilink") Osteopontin
     ([OPN](https://zh.wikipedia.org/wiki/OPN "wikilink"))
     或[分泌磷蛋白1](https://zh.wikipedia.org/wiki/分泌磷蛋白1 "wikilink")
     Secreted phosphoprotein 1
     ([SPP1](https://zh.wikipedia.org/wiki/SPP1 "wikilink"))；
 2.  [骨涎蛋白](../Page/骨涎蛋白.md "wikilink") bone sialoprotein
     （[BSP](../Page/骨涎蛋白.md "wikilink")）；
-3.  [牙本质基质蛋白1](https://zh.wikipedia.org/wiki/牙本质基质蛋白1 "wikilink") Dentin
-    matrix protein 1
+3.  [牙本质基质蛋白1](../Page/牙本质基质蛋白1.md "wikilink") Dentin matrix protein 1
     ([DMP1](https://zh.wikipedia.org/wiki/DMP1 "wikilink"))；
 4.  [牙本质唾液酸磷酸蛋白](https://zh.wikipedia.org/wiki/牙本质唾液酸磷酸蛋白 "wikilink")
     Dentin sialophosphoprotein

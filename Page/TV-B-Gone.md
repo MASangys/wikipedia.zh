@@ -5,7 +5,7 @@
 
 **TV-B-Gone**由发明，并由他的公司Cornfield
 Electronics出售。Altman是[虚拟现实的先驱之一](../Page/虚拟现实.md "wikilink")，曾与VPL
-Research的合作，他在该领域的研究期间开始相信[电视节目的催眠能力](../Page/电视节目.md "wikilink")。TV-B-Gone的标准型号由[红外](https://zh.wikipedia.org/wiki/红外 "wikilink")[LED](https://zh.wikipedia.org/wiki/LED "wikilink")、两个[CR2032电池](https://zh.wikipedia.org/wiki/CR2032电池 "wikilink")，以及包含电视电源遥控代码数据库的集成电路构成。最初的美学和设计出自。
+Research的合作，他在该领域的研究期间开始相信[电视节目的催眠能力](../Page/电视节目.md "wikilink")。TV-B-Gone的标准型号由[红外](https://zh.wikipedia.org/wiki/红外 "wikilink")[LED](https://zh.wikipedia.org/wiki/LED "wikilink")、两个[CR2032电池](../Page/CR2032电池.md "wikilink")，以及包含电视电源遥控代码数据库的集成电路构成。最初的美学和设计出自。
 
 ## 型号
 

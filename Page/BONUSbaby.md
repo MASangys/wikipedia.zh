@@ -1,5 +1,5 @@
 **BONUSbaby**（），是[Maroo娛樂於](https://zh.wikipedia.org/wiki/Maroo娛樂 "wikilink")2017年所推出的[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，最初由6名成員組成，現任成員包括
-[MOONHEE](https://zh.wikipedia.org/wiki/崔玟熙 "wikilink")、HAYOON、CHAEHYUN、DAYUN、GAON。\[1\]
+[MOONHEE](../Page/崔玟熙.md "wikilink")、HAYOON、CHAEHYUN、DAYUN、GAON。\[1\]
 
 其中成員
 MOONHEE、HAYOON為女團[myB的前成員](https://zh.wikipedia.org/wiki/myB "wikilink")。
@@ -53,9 +53,9 @@ Facebook 搶先公開成員 MOO HEE 的概念照。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/崔玟熙" title="wikilink">MOONHEE</a><br />
+<td><p><a href="../Page/崔玟熙.md" title="wikilink">MOONHEE</a><br />
 （문희）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/崔玟熙" title="wikilink">崔玟熙</a></p></td>
+<td><p><a href="../Page/崔玟熙.md" title="wikilink">崔玟熙</a></p></td>
 <td><p>최문희</p></td>
 <td><p>Choi Moon-Hee</p></td>
 <td><p><br />

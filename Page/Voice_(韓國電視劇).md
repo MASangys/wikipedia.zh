@@ -1,10 +1,10 @@
-《**Voice**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年1月14日起播出的[經典系列電視劇](https://zh.wikipedia.org/wiki/OCN_Original_Series "wikilink")（Original
-Series），台灣地區於1月15日起每周日一上午10點於[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")、中午12點於KKTV播出。由《[詐欺遊戲](https://zh.wikipedia.org/wiki/詐欺遊戲_\(韓國電視劇\) "wikilink")》金弘善導演與《[最後之舞](https://zh.wikipedia.org/wiki/最後之舞 "wikilink")》馬珍媛編劇共同打造。本劇講述因一次事故而失去家人的刑警與112舉報中心隊員，在犯罪率第一、檢舉率全國最低的盛雲支廳「112舉報中心黃金時間隊」工作，並追逐殺害他們家人的連鎖殺人犯、解決案件的過程。
+《**Voice**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年1月14日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
+Series），台灣地區於1月15日起每周日一上午10點於[愛奇藝台灣站](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")、中午12點於KKTV播出。由《[詐欺遊戲](../Page/詐欺遊戲_\(韓國電視劇\).md "wikilink")》金弘善導演與《[最後之舞](https://zh.wikipedia.org/wiki/最後之舞 "wikilink")》馬珍媛編劇共同打造。本劇講述因一次事故而失去家人的刑警與112舉報中心隊員，在犯罪率第一、檢舉率全國最低的盛雲支廳「112舉報中心黃金時間隊」工作，並追逐殺害他們家人的連鎖殺人犯、解決案件的過程。
 
 《Voice》在播放期间，创下了OCN史上最高收視率的韓劇。\[1\]
 然而因为暴力残忍场面引起争论，韩国放送通信审议委员会对它给了劝告处分。\[2\]
 为了将真实的场景拍摄出来，也把11至12集观看等级将调整到19岁以上可观看。\[3\]
-2018年8月11日推出第二季，於[愛奇藝台灣站獨家播出](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")，詳請請見《[Voice2](https://zh.wikipedia.org/wiki/Voice2 "wikilink")》。
+2018年8月11日推出第二季，於[愛奇藝台灣站獨家播出](https://zh.wikipedia.org/wiki/愛奇藝台灣站 "wikilink")，詳請請見《[Voice2](../Page/Voice2.md "wikilink")》。
 
 ## 演員陣容
 
@@ -18,13 +18,13 @@ Series），台灣地區於1月15日起每周日一上午10點於[愛奇藝台�
 
 ### 112舉報中心黃金時間組
 
-|                                                     |        |                                                     |                                 |
-| --------------------------------------------------- | ------ | --------------------------------------------------- | ------------------------------- |
-| **演員**                                              | **角色** | **粵語配音員**                                           | **介紹**                          |
-| [白成鉉](../Page/白成鉉.md "wikilink")                    | 沈代植    | [方榮基](https://zh.wikipedia.org/wiki/方榮基 "wikilink") | 視鎮赫如親哥哥般信任並追隨，鎮赫的警察廳後輩。         |
-| [藝聲](../Page/藝聲.md "wikilink")                      | 吳賢浩    | [杜景煜](../Page/杜景煜.md "wikilink")                    | 曾在美國駭客奧運中獲得第一名，黃金時間組內負責IT方面的成員。 |
-| [孫恩書](../Page/孫恩書.md "wikilink")                    | 朴恩秀    | [劉曉樺](https://zh.wikipedia.org/wiki/劉曉樺 "wikilink") | 112舉報中心黃金時間隊員，具備多國語言能力。         |
-| [權亨俊](https://zh.wikipedia.org/wiki/權亨俊 "wikilink") | 千尚弼    | [黃啟明](https://zh.wikipedia.org/wiki/黃啟明 "wikilink") | 幫助權酒引領黃金時間組的大哥。                 |
+|                                  |        |                                  |                                 |
+| -------------------------------- | ------ | -------------------------------- | ------------------------------- |
+| **演員**                           | **角色** | **粵語配音員**                        | **介紹**                          |
+| [白成鉉](../Page/白成鉉.md "wikilink") | 沈代植    | [方榮基](../Page/方榮基.md "wikilink") | 視鎮赫如親哥哥般信任並追隨，鎮赫的警察廳後輩。         |
+| [藝聲](../Page/藝聲.md "wikilink")   | 吳賢浩    | [杜景煜](../Page/杜景煜.md "wikilink") | 曾在美國駭客奧運中獲得第一名，黃金時間組內負責IT方面的成員。 |
+| [孫恩書](../Page/孫恩書.md "wikilink") | 朴恩秀    | [劉曉樺](../Page/劉曉樺.md "wikilink") | 112舉報中心黃金時間隊員，具備多國語言能力。         |
+| [權亨俊](../Page/權亨俊.md "wikilink") | 千尚弼    | [黃啟明](../Page/黃啟明.md "wikilink") | 幫助權酒引領黃金時間組的大哥。                 |
 
 ### 警察廳相關人物
 
@@ -84,7 +84,7 @@ Series），台灣地區於1月15日起每周日一上午10點於[愛奇藝台�
 <tr class="odd">
 <td><p><a href="../Page/孫鐘鶴.md" title="wikilink">孫鐘鶴</a></p></td>
 <td><p>姜國煥</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃啟明" title="wikilink">黃啟明</a></p></td>
+<td><p><a href="../Page/黃啟明.md" title="wikilink">黃啟明</a></p></td>
 <td><p>姜權酒的父親，職業為警察，因許智慧案在查緝巡邏途中，遇到真兇，而被殺害。</p></td>
 </tr>
 <tr class="even">
@@ -127,7 +127,7 @@ Series），台灣地區於1月15日起每周日一上午10點於[愛奇藝台�
 <tr class="odd">
 <td><p><a href="../Page/全秀珍.md" title="wikilink">全秀珍</a></p></td>
 <td><p>方鳳林</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/劉曉樺" title="wikilink">劉曉樺</a></p></td>
+<td><p><a href="../Page/劉曉樺.md" title="wikilink">劉曉樺</a></p></td>
 <td><p>被綁架的女高中生。</p></td>
 </tr>
 </tbody>
@@ -252,7 +252,7 @@ Series），台灣地區於1月15日起每周日一上午10點於[愛奇藝台�
 <tr class="even">
 <td><p><a href="../Page/申承煥.md" title="wikilink">申承煥</a></p></td>
 <td><p>沈映雲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃啟明" title="wikilink">黃啟明</a></p></td>
+<td><p><a href="../Page/黃啟明.md" title="wikilink">黃啟明</a></p></td>
 <td><p>沈春玉的弟弟，三級智能障礙。</p></td>
 </tr>
 </tbody>
@@ -394,7 +394,7 @@ Series），台灣地區於1月15日起每周日一上午10點於[愛奇藝台�
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃啟明" title="wikilink">黃啟明</a></p></td>
+<td><p><a href="../Page/黃啟明.md" title="wikilink">黃啟明</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -448,7 +448,7 @@ Series），台灣地區於1月15日起每周日一上午10點於[愛奇藝台�
 <tr class="even">
 <td><p>姜文京</p></td>
 <td><p>金俊泰</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃啟明" title="wikilink">黃啟明</a></p></td>
+<td><p><a href="../Page/黃啟明.md" title="wikilink">黃啟明</a></p></td>
 <td><p>土地规划部门部长。</p></td>
 </tr>
 <tr class="odd">
@@ -490,7 +490,7 @@ Series），台灣地區於1月15日起每周日一上午10點於[愛奇藝台�
 <tr class="odd">
 <td><p>国基勋</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃啟明" title="wikilink">黃啟明</a></p></td>
+<td><p><a href="../Page/黃啟明.md" title="wikilink">黃啟明</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -523,7 +523,7 @@ Series），台灣地區於1月15日起每周日一上午10點於[愛奇藝台�
 <tr class="even">
 <td><p><a href="../Page/趙在允.md" title="wikilink">趙在允</a></p></td>
 <td><p>大白鯊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黃啟明" title="wikilink">黃啟明</a></p></td>
+<td><p><a href="../Page/黃啟明.md" title="wikilink">黃啟明</a></p></td>
 <td><p>黑幫成員，殺人通緝犯，外號「大白鯊」。</p></td>
 <td><p>1</p></td>
 </tr>

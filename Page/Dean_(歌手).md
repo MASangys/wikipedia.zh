@@ -1,5 +1,5 @@
 **Dean**\[1\]（；），本名**權革**（），在創作歌曲時使用的名字為Deanfluenza，是韓國[歌手兼](../Page/歌手.md "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")。16歲成为地下嘻哈艺人，18岁加入美国加州的JOOMBAS音乐公司。2013年开始至今参与了[John
-Park](https://zh.wikipedia.org/wiki/John_Park "wikilink")、[EXO](../Page/EXO.md "wikilink")、[VIXX](../Page/VIXX.md "wikilink")、[UNIQ](../Page/UNIQ.md "wikilink")、[Block
+Park](../Page/John_Park.md "wikilink")、[EXO](../Page/EXO.md "wikilink")、[VIXX](../Page/VIXX.md "wikilink")、[UNIQ](../Page/UNIQ.md "wikilink")、[Block
 B](../Page/Block_B.md "wikilink")、[李夏怡等藝人團體的歌曲创作](https://zh.wikipedia.org/wiki/李夏怡 "wikilink")。2014年为新人组合[MADTOWN主打歌的制作人](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")。2015年七月和九月在美国分別发行單曲"I'm
 Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單曲"I Love it"在韓國出道\[2\]。
 
@@ -14,20 +14,20 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 | 2016年7月17日  |     And July     |    [Heize](https://zh.wikipedia.org/wiki/張多慧 "wikilink")     |
 | 2016年9月13日  |      CORONA      |                          punchnello                          |
 | 2016年11月28日 | Bermuda Triangle | [Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink") |
-| 2017年5月25日  |  지나쳐(Too Much)   |    [Loco](https://zh.wikipedia.org/wiki/Loco "wikilink")     |
+| 2017年5月25日  |  지나쳐(Too Much)   |              [Loco](../Page/Loco.md "wikilink")              |
 |             |                  |                                                              |
 
 ### 綜藝節目
 
-|       日期        |                          電視台                          |                                        節目名稱                                         |   集數   |                                    備註                                    |
-| :-------------: | :---------------------------------------------------: | :---------------------------------------------------------------------------------: | :----: | :----------------------------------------------------------------------: |
-|    2016年1月8日    |  [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")  |             [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")             |  302   |                                    \-                                    |
-|   2016年1月19日    |          [JTBC](../Page/JTBC.md "wikilink")           |  [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")   |   14   |                                   製作人                                    |
-|    2016年3月8日    |          [JTBC](../Page/JTBC.md "wikilink")           |  [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")   |   21   |                                   製作人                                    |
-|    2016年6月3日    |  [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")  |             [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")             |  322   |                                    \-                                    |
-|    2016年9月2日    | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") |  [Unpretty Rapstar 3](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_3 "wikilink")  |   6    |                                   製作人                                    |
-|    2017年6月3日    |  [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")  |             [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")             |  367   |                                    \-                                    |
-| 2017年6月23日-9月1日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [Show Me The Money 6](https://zh.wikipedia.org/wiki/Show_Me_The_Money_6 "wikilink") | 特別篇-10 | 與[Zico組成製作人團隊](https://zh.wikipedia.org/wiki/Zico "wikilink")，團隊成員獲得本屆冠軍 |
+|       日期        |                          電視台                          |                                       節目名稱                                       |   集數   |                                    備註                                    |
+| :-------------: | :---------------------------------------------------: | :------------------------------------------------------------------------------: | :----: | :----------------------------------------------------------------------: |
+|    2016年1月8日    |  [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")  |           [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")            |  302   |                                    \-                                    |
+|   2016年1月19日    |          [JTBC](../Page/JTBC.md "wikilink")           | [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") |   14   |                                   製作人                                    |
+|    2016年3月8日    |          [JTBC](../Page/JTBC.md "wikilink")           | [Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") |   21   |                                   製作人                                    |
+|    2016年6月3日    |  [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")  |           [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")            |  322   |                                    \-                                    |
+|    2016年9月2日    | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") |          [Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink")          |   6    |                                   製作人                                    |
+|    2017年6月3日    |  [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")  |           [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")            |  367   |                                    \-                                    |
+| 2017年6月23日-9月1日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") |         [Show Me The Money 6](../Page/Show_Me_The_Money_6.md "wikilink")         | 特別篇-10 | 與[Zico組成製作人團隊](https://zh.wikipedia.org/wiki/Zico "wikilink")，團隊成員獲得本屆冠軍 |
 
 ### 電台
 
@@ -233,16 +233,16 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <tr class="even">
 <td style="text-align: center;"><p>單曲</p></td>
 <td style="text-align: center;"><p>2016年9月3日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Unpretty_Rapstar_3" title="wikilink">UNPRETTY RAPSTAR 3</a> Track 5 &amp; 6</p></td>
+<td style="text-align: center;"><p><a href="../Page/Unpretty_Rapstar_3.md" title="wikilink">UNPRETTY RAPSTAR 3</a> Track 5 &amp; 6</p></td>
 <td style="text-align: center;"><p>Ain't Got Nobody</p></td>
 <td style="text-align: center;"><p><a href="../Page/趙美慧.md" title="wikilink">Miryo</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>單曲</p></td>
 <td style="text-align: center;"><p>2016年9月3日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Unpretty_Rapstar_3" title="wikilink">UNPRETTY RAPSTAR 3</a> Track 5 &amp; 6</p></td>
+<td style="text-align: center;"><p><a href="../Page/Unpretty_Rapstar_3.md" title="wikilink">UNPRETTY RAPSTAR 3</a> Track 5 &amp; 6</p></td>
 <td style="text-align: center;"><p>No Thx</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Suran" title="wikilink">Suran</a> &amp; 陸智譚</p></td>
+<td style="text-align: center;"><p><a href="../Page/Suran.md" title="wikilink">Suran</a> &amp; 陸智譚</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>單曲</p></td>
@@ -276,16 +276,16 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <tr class="even">
 <td style="text-align: center;"><p>CD</p></td>
 <td style="text-align: center;"><p>2017年5月25日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco首張正規專輯</a>《Bleached》</p></td>
+<td style="text-align: center;"><p><a href="../Page/Loco.md" title="wikilink">Loco首張正規專輯</a>《Bleached》</p></td>
 <td style="text-align: center;"><p>지나쳐 (Too Much)</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/Loco.md" title="wikilink">Loco</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>CD</p></td>
 <td style="text-align: center;"><p>2017年6月2日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Suran" title="wikilink">Suran首張迷你專輯</a>《Walkin'》</p></td>
+<td style="text-align: center;"><p><a href="../Page/Suran.md" title="wikilink">Suran首張迷你專輯</a>《Walkin'》</p></td>
 <td style="text-align: center;"><p>1+1=0</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Suran" title="wikilink">Suran</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/Suran.md" title="wikilink">Suran</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>CD</p></td>
@@ -326,21 +326,21 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <tr class="odd">
 <td style="text-align: center;"><p>單曲</p></td>
 <td style="text-align: center;"><p>2017年8月4日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_6" title="wikilink">Show Me The Money 6</a> Episode1</p></td>
+<td style="text-align: center;"><p><a href="../Page/Show_Me_The_Money_6.md" title="wikilink">Show Me The Money 6</a> Episode1</p></td>
 <td style="text-align: center;"><p>요즘것들</p></td>
 <td style="text-align: center;"><p>&amp;  &amp;  &amp;  &amp; <a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>單曲</p></td>
 <td style="text-align: center;"><p>2017年8月11日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_6" title="wikilink">Show Me The Money 6</a> Episode2</p></td>
+<td style="text-align: center;"><p><a href="../Page/Show_Me_The_Money_6.md" title="wikilink">Show Me The Money 6</a> Episode2</p></td>
 <td style="text-align: center;"><p>어디</p></td>
 <td style="text-align: center;"><p>&amp; <a href="https://zh.wikipedia.org/wiki/Zico_(歌手)" title="wikilink">Zico</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>單曲</p></td>
 <td style="text-align: center;"><p>2017年9月1日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_6" title="wikilink">Show Me The Money 6</a> Episode5</p></td>
+<td style="text-align: center;"><p><a href="../Page/Show_Me_The_Money_6.md" title="wikilink">Show Me The Money 6</a> Episode5</p></td>
 <td style="text-align: center;"><p>bestdriverZ</p></td>
 <td style="text-align: center;"><p>&amp; <a href="../Page/Zion.T.md" title="wikilink">Zion T</a></p></td>
 </tr>
@@ -449,7 +449,7 @@ Not Sorry"、"Put My Hands on You"，正式在美國出道，同年十月以單�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年Mnet亞洲音樂大獎" title="wikilink">第19屆Mnet亞洲音樂大獎</a></p></td>
+<td><p><a href="../Page/2017年Mnet亞洲音樂大獎.md" title="wikilink">第19屆Mnet亞洲音樂大獎</a></p></td>
 <td><p>最佳嘻哈&amp;城市音樂獎</p></td>
 <td><p>《Come Over》(Feat. <a href="https://zh.wikipedia.org/wiki/白藝潾" title="wikilink">白藝潾</a>)</p></td>
 <td></td>

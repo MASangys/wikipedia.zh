@@ -2,10 +2,10 @@
 XL於2017年7月13日在日本發售\[1\]，而北美則於2017年7月28日發售\[2\]。
 
 新任天堂2DS
-XL不同於[任天堂2DS](../Page/任天堂2DS.md "wikilink")，此採用與[任天堂3DS相同的折疊式設計](../Page/任天堂3DS.md "wikilink")，其餘按鈕設計和規格均與[新任天堂3DS相同](https://zh.wikipedia.org/wiki/新任天堂3DS "wikilink")，與上一代一樣兼容3DS遊戲，並且沒有裸視3D功能\[3\]。
+XL不同於[任天堂2DS](../Page/任天堂2DS.md "wikilink")，此採用與[任天堂3DS相同的折疊式設計](../Page/任天堂3DS.md "wikilink")，其餘按鈕設計和規格均與[新任天堂3DS相同](../Page/新任天堂3DS.md "wikilink")，與上一代一樣兼容3DS遊戲，並且沒有裸視3D功能\[3\]。
 
 新任天堂2DS
-XL/LL跟[新任天堂3DS一樣內建可以與](https://zh.wikipedia.org/wiki/新任天堂3DS "wikilink")[amiibo連線的NFC功能](https://zh.wikipedia.org/wiki/amiibo "wikilink")。
+XL/LL跟[新任天堂3DS一樣內建可以與](../Page/新任天堂3DS.md "wikilink")[amiibo連線的NFC功能](https://zh.wikipedia.org/wiki/amiibo "wikilink")。
 
 ## 顏色與限定版本
 

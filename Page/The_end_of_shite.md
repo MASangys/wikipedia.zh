@@ -25,7 +25,7 @@ shite**-{」}-[YUKI的第](../Page/YUKI_\(歌手\).md "wikilink")1张单曲。
 
 ## 收录专辑
 
-  - [PRISMIC](https://zh.wikipedia.org/wiki/PRISMIC "wikilink")（\#1）
+  - [PRISMIC](../Page/PRISMIC.md "wikilink")（\#1）
 
 ## 参考资料
 

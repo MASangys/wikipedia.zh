@@ -1,4 +1,4 @@
-是日本[Parasol在](https://zh.wikipedia.org/wiki/Parasol "wikilink")2012年5月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
+是日本[Parasol在](../Page/Parasol.md "wikilink")2012年5月25日發售的[戀愛冒險類型](https://zh.wikipedia.org/wiki/戀愛冒險 "wikilink")[成人遊戲](../Page/日本成人遊戲.md "wikilink")。\[1\]\[2\]
 
 ## 故事
 

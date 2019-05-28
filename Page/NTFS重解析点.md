@@ -2,7 +2,7 @@
 2000及之后版本中的NTFS](../Page/Windows_2000.md "wikilink")
 v3.0及以上版本中可用。重解析点提供一种扩展NTFS文件系统的方法。一个重解析点包含一个重解析标签和数据，文件系统过滤器（file
 system
-filter）可以按标签解读它。微软提供了几个默认标签，包括[NTFS符号链接](../Page/NTFS符号链接.md "wikilink")、和[NTFS卷挂载点](https://zh.wikipedia.org/wiki/NTFS卷挂载点 "wikilink")。另外，重解析点在Windows
+filter）可以按标签解读它。微软提供了几个默认标签，包括[NTFS符号链接](../Page/NTFS符号链接.md "wikilink")、和[NTFS卷挂载点](../Page/NTFS卷挂载点.md "wikilink")。另外，重解析点在Windows
 2000的中作为已移动文件的占位符。它还可以作为硬链接，并且不限于同分卷的文件：可以指向任何本地分卷中的目录。\[2\]
 
 ## 设计
@@ -28,8 +28,8 @@ Vista及更高版本的Windows操作系统。
     (Windows 2000/XP/2003)。 `del my_junction`
     命令不应该使用，因为它会删除目标目录中的所有文件。在Windows
     Vista及更高版本中，使用junction删除是安全的。
-  - [卷装载点](https://zh.wikipedia.org/wiki/NTFS卷挂载点 "wikilink")（Volume
-    Mount Points）：卷装载点和前2者类似，只是更进一层：它能创建对整个卷的链接。
+  - [卷装载点](../Page/NTFS卷挂载点.md "wikilink")（Volume Mount
+    Points）：卷装载点和前2者类似，只是更进一层：它能创建对整个卷的链接。
   - 远程存储服务器（Microsoft Remote Storage Server）：Windows
     2000的这个特性能利用一些规则来移除NTFS卷上不常用的文件，放到存档介质里（比如CD-RW或磁带）。当它把文件移出到“线下”或“半线下”的存储介质上时，RSS自动创建指向这个存档文件的重解析点，以备日后使用。
 
@@ -48,7 +48,7 @@ Vista及更高版本的Windows操作系统。
 
 ### 卷挂载点
 
-[NTFS卷挂载点类似](https://zh.wikipedia.org/wiki/NTFS卷挂载点 "wikilink")[Unix挂载点](../Page/UNIX.md "wikilink")，将另一个文件系统的根附加到一个目录。在NTFS中，这允许额外的文件系统不逐一占用驱动器号（如
+[NTFS卷挂载点类似](../Page/NTFS卷挂载点.md "wikilink")[Unix挂载点](../Page/UNIX.md "wikilink")，将另一个文件系统的根附加到一个目录。在NTFS中，这允许额外的文件系统不逐一占用驱动器号（如
 `C:`、`D:`）并挂载。
 
 如果一个卷被挂在到另一个卷的现有目录上，该目录以前列出的内容将被隐藏，已挂载卷的根目录将取代它。已挂载卷仍然有自己单独分配的驱动器号。文件系统不允许卷被手动互相挂载。卷挂载点可以持久或非持久存在，两者区别是系统重启后是否会自动重新挂载。
@@ -149,7 +149,7 @@ CreateFile函数带着FILE_FLAG_OPEN_REPARSE_POINT，可以打开一个重解析
   - [NTFS符号链接](../Page/NTFS符号链接.md "wikilink")
   - [NTFS
     junction点](https://zh.wikipedia.org/wiki/NTFS_junction点 "wikilink")
-  - [NTFS卷挂载点](https://zh.wikipedia.org/wiki/NTFS卷挂载点 "wikilink")
+  - [NTFS卷挂载点](../Page/NTFS卷挂载点.md "wikilink")
   - [符号链接](../Page/符号链接.md "wikilink")
 
 ## 参考资料

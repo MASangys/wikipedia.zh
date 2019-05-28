@@ -10,7 +10,7 @@
 
 <!-- end list -->
 
-  - [VK 1602豹式戰車](https://zh.wikipedia.org/wiki/VK_1602豹式戰車 "wikilink")
+  - [VK 1602豹式戰車](../Page/VK_1602豹式戰車.md "wikilink")
 
 ## 参考
 

@@ -27,7 +27,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
       - 第三代J Soul Brothers:
         [NAOTO](../Page/NAOTO.md "wikilink")、[小林直己](https://zh.wikipedia.org/wiki/NAOKI "wikilink")、[ELLY](https://zh.wikipedia.org/wiki/ELLY "wikilink")、[山下健二郎](https://zh.wikipedia.org/wiki/山下健二郎 "wikilink")、[岩田剛典](../Page/岩田剛典.md "wikilink")、**[今市隆二](../Page/今市隆二.md "wikilink")**、**[登坂廣臣](../Page/登坂廣臣.md "wikilink")**
       - GENERATIONS:
-        [白濱亞嵐](../Page/白濱亞嵐.md "wikilink")、**[片寄涼太](https://zh.wikipedia.org/wiki/片寄涼太 "wikilink")**、**[數原龍友](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")**、[小森隼](https://zh.wikipedia.org/wiki/小森隼 "wikilink")、[佐野玲於](../Page/佐野玲於.md "wikilink")、[關口Mandy](../Page/關口Mandy.md "wikilink")、[中務裕太](https://zh.wikipedia.org/wiki/中務裕太 "wikilink")
+        [白濱亞嵐](../Page/白濱亞嵐.md "wikilink")、**[片寄涼太](../Page/片寄涼太.md "wikilink")**、**[數原龍友](https://zh.wikipedia.org/wiki/數原龍友 "wikilink")**、[小森隼](https://zh.wikipedia.org/wiki/小森隼 "wikilink")、[佐野玲於](../Page/佐野玲於.md "wikilink")、[關口Mandy](../Page/關口Mandy.md "wikilink")、[中務裕太](https://zh.wikipedia.org/wiki/中務裕太 "wikilink")
 
 ## 收錄内容
 

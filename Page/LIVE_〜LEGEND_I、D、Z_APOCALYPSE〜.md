@@ -85,7 +85,7 @@ APOCALYPSE〜**》（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：�
 
   - 成員
       - 紫煉 - 吉他
-      - [Leda](https://zh.wikipedia.org/wiki/Leda "wikilink") - 吉他
+      - [Leda](../Page/Leda.md "wikilink") - 吉他
       - RYO - 貝斯
       - SHIN - 鼓
 

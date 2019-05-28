@@ -46,7 +46,7 @@
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>馬恩珍</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PLAYBACK" title="wikilink">PLAYBACK</a></p></td>
+<td><p><a href="../Page/PLAYBACK.md" title="wikilink">PLAYBACK</a></p></td>
 <td><p>—</p></td>
 <td><p>2017年</p></td>
 <td></td>
@@ -76,7 +76,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PLAYBACK" title="wikilink">PLAYBACK</a></p></td>
+<td><p><a href="../Page/PLAYBACK.md" title="wikilink">PLAYBACK</a></p></td>
 <td><p>女</p></td>
 <td><p>Yunji、Hayoung、Soyun、Woolim、Eunjin</p></td>
 <td><p>Woolim</p></td>

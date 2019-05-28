@@ -11,7 +11,7 @@
 
 ### 選角
 
-2014年12月9日，[小古巴·古汀與](https://zh.wikipedia.org/wiki/小庫珀·古丁 "wikilink")[莎拉·保羅森為首兩個加入演員陣容的演員](https://zh.wikipedia.org/wiki/莎拉·保羅森 "wikilink")，兩人分別飾演[O·J·辛普森與](../Page/O·J·辛普森.md "wikilink")。\[7\]隨後，宣布[大衛·史威默將飾演](https://zh.wikipedia.org/wiki/大衛·史威默 "wikilink")。\[8\]2015年1月，[約翰·屈伏塔加入演出陣容飾演](https://zh.wikipedia.org/wiki/約翰·特拉沃爾塔 "wikilink")，並將身兼製作人。\[9\]2015年2月，[寇特尼·B·凡斯加入劇組飾演](https://zh.wikipedia.org/wiki/寇特尼·B·凡斯 "wikilink")。\[10\]2015年3月，宣布將飾演配角。\[11\]2015年4月，宣布[斯特林·K·布朗將飾演](https://zh.wikipedia.org/wiki/斯特林·K·布朗 "wikilink")；\[12\][喬丹娜·布魯斯特則將飾演丹妮絲](https://zh.wikipedia.org/wiki/喬丹娜·布魯斯特 "wikilink")·布朗；\[13\]而則將飾演法官。\[14\]2015年5月，證實[莎瑪·布萊兒將飾演](../Page/莎瑪·布萊兒.md "wikilink")[克莉絲·卡戴珊](../Page/克莉絲·詹納.md "wikilink")。\[15\]2015年7月，宣布[奈森·連恩飾演](../Page/納坦·朗.md "wikilink")。\[16\]
+2014年12月9日，[小古巴·古汀與](https://zh.wikipedia.org/wiki/小庫珀·古丁 "wikilink")[莎拉·保羅森為首兩個加入演員陣容的演員](https://zh.wikipedia.org/wiki/莎拉·保羅森 "wikilink")，兩人分別飾演[O·J·辛普森與](../Page/O·J·辛普森.md "wikilink")。\[7\]隨後，宣布[大衛·史威默將飾演](https://zh.wikipedia.org/wiki/大衛·史威默 "wikilink")。\[8\]2015年1月，[約翰·屈伏塔加入演出陣容飾演](https://zh.wikipedia.org/wiki/約翰·特拉沃爾塔 "wikilink")，並將身兼製作人。\[9\]2015年2月，[寇特尼·B·凡斯加入劇組飾演](../Page/寇特尼·B·凡斯.md "wikilink")。\[10\]2015年3月，宣布將飾演配角。\[11\]2015年4月，宣布[斯特林·K·布朗將飾演](../Page/斯特林·K·布朗.md "wikilink")；\[12\][喬丹娜·布魯斯特則將飾演丹妮絲](https://zh.wikipedia.org/wiki/喬丹娜·布魯斯特 "wikilink")·布朗；\[13\]而則將飾演法官。\[14\]2015年5月，證實[莎瑪·布萊兒將飾演](../Page/莎瑪·布萊兒.md "wikilink")[克莉絲·卡戴珊](../Page/克莉絲·詹納.md "wikilink")。\[15\]2015年7月，宣布[奈森·連恩飾演](../Page/納坦·朗.md "wikilink")。\[16\]
 
 ### 拍攝
 
@@ -39,7 +39,7 @@
 （TVB）</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/斯特林·K·布朗" title="wikilink">斯特林·K·布朗</a></p></td>
+<td><p><a href="../Page/斯特林·K·布朗.md" title="wikilink">斯特林·K·布朗</a></p></td>
 <td><p><br />
 </p></td>
 <td></td>
@@ -111,7 +111,7 @@
 <td><p><a href="../Page/潘文柏.md" title="wikilink">潘文柏</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/寇特尼·B·凡斯" title="wikilink">寇特尼·B·凡斯</a></p></td>
+<td><p><a href="../Page/寇特尼·B·凡斯.md" title="wikilink">寇特尼·B·凡斯</a></p></td>
 <td><p><br />
 </p></td>
 <td></td>
@@ -619,13 +619,12 @@
   - No. 6　
   - No. 3　[綜藝雜誌](../Page/綜藝_\(雜誌\).md "wikilink")
   - No. 6　綜藝雜誌
-  - No.
-    1　[Vulture.com](https://zh.wikipedia.org/wiki/紐約_\(雜誌\) "wikilink")
+  - No. 1　[Vulture.com](../Page/紐約_\(雜誌\).md "wikilink")
   - No. 3　Vulture.com
   - No. 5　[華盛頓郵報](https://zh.wikipedia.org/wiki/華盛頓郵報 "wikilink")
   - No. 6　內幕到手
   -  –　[美國電影學會](../Page/美国电影学会.md "wikilink")
-  -  –　[大西洋雜誌](https://zh.wikipedia.org/wiki/大西洋_\(雜誌\) "wikilink")
+  -  –　[大西洋雜誌](../Page/大西洋_\(雜誌\).md "wikilink")
   -  –　[克利夫蘭誠懇家日報](../Page/誠懇家日報.md "wikilink")
   -  –　[CNN](https://zh.wikipedia.org/wiki/CNN "wikilink")
   -  –　
@@ -635,7 +634,7 @@
   -  –　[紐約郵報](../Page/紐約郵報.md "wikilink")
   -  –　[紐約時報](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")
   -  –　[浮華世界](https://zh.wikipedia.org/wiki/名利場_\(雜誌\) "wikilink")
-  -  –　[TheWrap](https://zh.wikipedia.org/wiki/TheWrap "wikilink")
+  -  –　[TheWrap](../Page/TheWrap.md "wikilink")
   -  –　[Yahoo\!](../Page/雅虎.md "wikilink")（劇情類）
 
 ## 榮譽
@@ -669,7 +668,7 @@
 <td><p>2016</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黑人娛樂電視大獎" title="wikilink">黑人娛樂電視大獎</a></p></td>
 <td><p>最佳男演員獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/寇特尼·B·凡斯" title="wikilink">寇特尼·B·凡斯</a></p></td>
+<td><p><a href="../Page/寇特尼·B·凡斯.md" title="wikilink">寇特尼·B·凡斯</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -737,7 +736,7 @@
 </tr>
 <tr class="even">
 <td><p>最佳電視電影／迷你劇男配角獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/斯特林·K·布朗" title="wikilink">斯特林·K·布朗</a></p></td>
+<td><p><a href="../Page/斯特林·K·布朗.md" title="wikilink">斯特林·K·布朗</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1030,7 +1029,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2016年美國電影學會獎" title="wikilink">美國電影學會獎</a></p></td>
+<td><p><a href="../Page/2016年美國電影學會獎.md" title="wikilink">美國電影學會獎</a></p></td>
 <td><p>年度電視節目獎</p></td>
 <td></td>
 <td></td>
@@ -1476,7 +1475,7 @@
 ## 海外播出
 
 [FOX
-Crime於](https://zh.wikipedia.org/wiki/福斯警匪頻道_\(亞洲\) "wikilink")2016年2月18日晚間10點安排亞洲區首播，但後續取消同期放映的計劃，\[56\]直至同年6月6日晚間8點才進行亞洲區全季首播，\[57\]並於8月8日播出季終。\[58\][Netflix則於](../Page/Netflix.md "wikilink")2017年3月18日在亞洲華語地區上線全季集數。
+Crime於](../Page/福斯警匪頻道_\(亞洲\).md "wikilink")2016年2月18日晚間10點安排亞洲區首播，但後續取消同期放映的計劃，\[56\]直至同年6月6日晚間8點才進行亞洲區全季首播，\[57\]並於8月8日播出季終。\[58\][Netflix則於](../Page/Netflix.md "wikilink")2017年3月18日在亞洲華語地區上線全季集數。
 
 [香港除了FOX](../Page/香港.md "wikilink")
 Crime與Netflix的播映外，本季接檔《[逆天潛能](../Page/藥命效應_\(電視劇\).md "wikilink")》，在[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[明珠台自](../Page/明珠台.md "wikilink")2016年8月31日至11月2日間，於星期三22點35分或40分播映至23點35分，8月31日、9月21日、10月26日與11月2日播出時間各異動為22點35分至23點50分、22點40分至23點50分、22點35分至23點45分及22點35分至24點整，並由《[血變](https://zh.wikipedia.org/wiki/血族_\(電視劇\) "wikilink")》第3季接檔。

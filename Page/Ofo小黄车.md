@@ -3,7 +3,7 @@
 ## 历史
 
 [20180313-Bikes_Ofo_put_on_sidewalks_to_stop_people_walking.jpg](https://zh.wikipedia.org/wiki/File:20180313-Bikes_Ofo_put_on_sidewalks_to_stop_people_walking.jpg "fig:20180313-Bikes_Ofo_put_on_sidewalks_to_stop_people_walking.jpg")
-2014年，一位从[北京大學博士班退学的学生](https://zh.wikipedia.org/wiki/北京大學 "wikilink")[戴威与他的四位同学聯手创立一個名為ofo的学生项目](https://zh.wikipedia.org/wiki/戴威 "wikilink")，ofo的名称来源于一名骑手骑自行车时的形状\[1\]\[2\]\[3\]。他们曾一起研究過如何使用自行车骑行旅游，之後选择[共享单车作为](https://zh.wikipedia.org/wiki/共享自行車 "wikilink")[商业模型](https://zh.wikipedia.org/wiki/商业模型 "wikilink")\[4\]。
+2014年，一位从[北京大學博士班退学的学生](https://zh.wikipedia.org/wiki/北京大學 "wikilink")[戴威与他的四位同学聯手创立一個名為ofo的学生项目](../Page/戴威.md "wikilink")，ofo的名称来源于一名骑手骑自行车时的形状\[1\]\[2\]\[3\]。他们曾一起研究過如何使用自行车骑行旅游，之後选择[共享单车作为](https://zh.wikipedia.org/wiki/共享自行車 "wikilink")[商业模型](https://zh.wikipedia.org/wiki/商业模型 "wikilink")\[4\]。
 
 ofo最初只在大学校园里提供小范围的短途服务，不允许用户将车骑出校园。
 
@@ -121,7 +121,7 @@ ofo投入国外后，由于社会负面效应，而遭到国外城市社区反�
 
   - [公共自行车](https://zh.wikipedia.org/wiki/公共自行车 "wikilink")
   - [摩拜单车](../Page/摩拜单车.md "wikilink")
-  - [哈罗单车](https://zh.wikipedia.org/wiki/哈罗单车 "wikilink")
+  - [哈罗单车](../Page/哈罗单车.md "wikilink")
   - [oBike (臺灣)](https://zh.wikipedia.org/wiki/oBike_\(臺灣\) "wikilink")
   - [滴滴出行](../Page/滴滴出行.md "wikilink")
 

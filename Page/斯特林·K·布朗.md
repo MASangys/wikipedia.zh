@@ -125,7 +125,7 @@ Wars》中飾演英雄，該劇於[紐約市的](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/犯罪急診室" title="wikilink">犯罪急診室</a>》[29]</p></td>
+<td><p>《<a href="../Page/犯罪急診室.md" title="wikilink">犯罪急診室</a>》[29]</p></td>
 <td><p>威基基（Waikiki）</p></td>
 <td></td>
 <td></td>

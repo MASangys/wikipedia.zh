@@ -1,4 +1,4 @@
-《**我的ID是江南美人**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC於](../Page/JTBC.md "wikilink")2018年7月27日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，由崔成範導演執導與《[心懷叵測的恢單女](https://zh.wikipedia.org/wiki/心懷叵測的恢單女 "wikilink")》[崔秀英作家合作打造](https://zh.wikipedia.org/wiki/崔秀英_\(編劇\) "wikilink")。此劇改編自[Naver
+《**我的ID是江南美人**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JTBC於](../Page/JTBC.md "wikilink")2018年7月27日起播出的[金土連續劇](../Page/JTBC金土連續劇.md "wikilink")，由崔成範導演執導與《[心懷叵測的恢單女](../Page/心懷叵測的恢單女.md "wikilink")》[崔秀英作家合作打造](https://zh.wikipedia.org/wiki/崔秀英_\(編劇\) "wikilink")。此劇改編自[Naver
 webtoon的同名網路漫畫](https://zh.wikipedia.org/wiki/Naver_webtoon "wikilink")，講述從小因為長相醜陋而受欺凌的女主角在整容後，以為能夠過上新生活，卻在進入大學後經歷與夢想中完全不同的挫敗，在過程中找到真愛的故事\[1\]\[2\]。
 
 ## 劇名由來
@@ -11,7 +11,7 @@ webtoon的同名網路漫畫](https://zh.wikipedia.org/wiki/Naver_webtoon "wikil
 
 <!-- end list -->
 
-  - 作者不服教授將[整形與愛慕虛榮兩者相提並論而創作漫畫](../Page/整形.md "wikilink")《[我的ID是江南美人](https://zh.wikipedia.org/wiki/我的ID是江南美人 "wikilink")》\[4\]。
+  - 作者不服教授將[整形與愛慕虛榮兩者相提並論而創作漫畫](../Page/整形.md "wikilink")《[我的ID是江南美人](../Page/我的ID是江南美人.md "wikilink")》\[4\]。
 
 ## 演員陣容
 

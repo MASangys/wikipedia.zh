@@ -116,7 +116,7 @@
 
 <!-- end list -->
 
-  - 3月11日，小分队“[樱花蘑菇](https://zh.wikipedia.org/wiki/樱花蘑菇 "wikilink")”正式结成并亮相。
+  - 3月11日，小分队“[樱花蘑菇](../Page/樱花蘑菇.md "wikilink")”正式结成并亮相。
 
 <!-- end list -->
 

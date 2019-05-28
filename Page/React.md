@@ -15,7 +15,7 @@ newsfeed，随后于2012年部署于Instagram。它于2013年5月在JSConf US开
 
 ## 参见
 
-  - [Vue.js](https://zh.wikipedia.org/wiki/Vue.js "wikilink")
+  - [Vue.js](../Page/Vue.js.md "wikilink")
   - [AngularJS](https://zh.wikipedia.org/wiki/AngularJS "wikilink")
 
 ## 参考资料

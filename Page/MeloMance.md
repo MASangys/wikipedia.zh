@@ -11,7 +11,7 @@ MeloMance
 | **金珉碩** |
 | **鄭同桓** |
 
-### [韓國音樂著作權協會](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
+### [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
 
 | 姓名  | 登記名字 | 登記編號     | 參與歌曲列表 |
 | --- | ---- | -------- | ------ |
@@ -203,7 +203,7 @@ MeloMance
 <tr class="even">
 <td><p>2018年3月21日</p></td>
 <td style="text-align: center;"><p>Channel A</p></td>
-<td style="text-align: center;"><p>《<a href="https://zh.wikipedia.org/wiki/給你宇宙" title="wikilink">給你宇宙</a>》</p></td>
+<td style="text-align: center;"><p>《<a href="../Page/給你宇宙.md" title="wikilink">給你宇宙</a>》</p></td>
 <td style="text-align: center;"><p>金珉碩個人出演，固定節目</p></td>
 </tr>
 <tr class="odd">

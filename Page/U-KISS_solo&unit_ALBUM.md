@@ -6,7 +6,7 @@ ALBUM**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink
 2017年1月初，U-KISS的官方網站宣布將在3月15日發行個人Solo與分隊的專輯\[3\]，同時披露預計收錄曲\[4\]；2月17日確定專輯所有版本的封面與收錄曲目\[5\]。
 
 到3月2日，U-KISS的經紀公司[NH
-Media公布](https://zh.wikipedia.org/wiki/NH_Media "wikilink")[Kevin即將約滿離開組合](https://zh.wikipedia.org/wiki/禹成賢 "wikilink")，但仍會於完約前繼續餘下的韓日宣傳活動\[6\]。與此同時，組合3月14日及19日兩度舉行LINE
+Media公布](../Page/NH_Media.md "wikilink")[Kevin即將約滿離開組合](https://zh.wikipedia.org/wiki/禹成賢 "wikilink")，但仍會於完約前繼續餘下的韓日宣傳活動\[6\]。與此同時，組合3月14日及19日兩度舉行LINE
 LIVE宣傳專輯\[7\]\[8\]；之後也將舉行歡送Kevin離團的演唱會《U-KISS PREMIUM LIVE-KEVIN'S
 GRADUATION-》\[9\]。
 

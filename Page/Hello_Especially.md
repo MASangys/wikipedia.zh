@@ -1,5 +1,5 @@
 《**Hello
-Especially**》是[日本雙人](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[無限開關的第](../Page/無限開關.md "wikilink")19張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年7月31日由發行。
+Especially**》是[日本雙人](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[無限開關的第](../Page/無限開關.md "wikilink")19張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。2013年7月31日由發行。
 
 ## 單曲解說
 

@@ -1,7 +1,7 @@
 《**BTS's American Hustle
 Life**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Big
-Hit娛樂公司旗下](../Page/Big_Hit娛樂.md "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團的第二個電視](../Page/防彈少年團.md "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，是Mnet突破以往做出的實境秀新嘗試。\[1\]於2014年6月底至8月，防彈少年團與製作人[房時爀在](https://zh.wikipedia.org/wiki/房時爀 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯製作與準備新專輯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")《[DARK
-& WILD](https://zh.wikipedia.org/wiki/DARK_&_WILD "wikilink")》時所拍攝。\[2\]
+Hit娛樂公司旗下](../Page/Big_Hit娛樂.md "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團的第二個電視](../Page/防彈少年團.md "wikilink")[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，是Mnet突破以往做出的實境秀新嘗試。\[1\]於2014年6月底至8月，防彈少年團與製作人[房時爀在](../Page/房時爀.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[洛杉磯製作與準備新專輯](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")《[DARK
+& WILD](../Page/DARK_&_WILD.md "wikilink")》時所拍攝。\[2\]
 
 節目在韓國時間2014年7月24日晚上八點首播，之後每週四晚上七點半於[Mnet播出](https://zh.wikipedia.org/wiki/Mnet "wikilink")，播映至2014年9月11日結束，總共八集。
 
@@ -17,7 +17,7 @@ G和Coolio，展現成長。」\[3\]\[4\]
   - [Rap Monster](../Page/金南俊.md "wikilink")
   - [SUGA](../Page/閔玧其.md "wikilink")
   - [Jin](../Page/金碩珍.md "wikilink")
-  - [j-hope](https://zh.wikipedia.org/wiki/鄭號錫 "wikilink")
+  - [j-hope](../Page/鄭號錫.md "wikilink")
   - [Jimin](../Page/朴智旻.md "wikilink")
   - [V](https://zh.wikipedia.org/wiki/金泰亨_\(1995年生\) "wikilink")
   - [Jung Kook](../Page/田柾國.md "wikilink")

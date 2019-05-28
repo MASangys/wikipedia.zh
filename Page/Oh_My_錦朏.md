@@ -18,7 +18,7 @@
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/許廷恩" title="wikilink">許廷恩</a></p></td>
+<td><p><a href="../Page/許廷恩.md" title="wikilink">許廷恩</a></p></td>
 <td><p>柳錦朏[1]<br />
 </p></td>
 <td><p>金雨一直自己一個住。有一日，她意外地得到一個叫輝哲的爸爸。但輝哲不是一個一般的父親，他是一個騙子。她很快便知道自己會被他出賣，為了避免這天的出現，她試圖將他緊緊地纏繞在自己的身旁。在加深對他的了解後，她希望令輝哲從良。</p></td>
@@ -172,7 +172,7 @@
 <td><p>法官。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李宗秀" title="wikilink">李宗秀</a></p></td>
+<td><p><a href="../Page/李宗秀.md" title="wikilink">李宗秀</a></p></td>
 <td><p>馬尚秀</p></td>
 <td><p>錦朏外婆的遺產管理律師，後因賭博欠債而捲款逃逸。</p></td>
 </tr>
@@ -201,16 +201,16 @@
 
 ### 特別出演
 
-|                                                     |        |                       |
-| --------------------------------------------------- | ------ | --------------------- |
-| **演員**                                              | **角色** | **介紹**                |
-| [吉海妍](https://zh.wikipedia.org/wiki/吉海妍 "wikilink") | 金榮智    | 將錦朏扶養到10歲的阿姨。         |
-| [崔日和](../Page/崔日和.md "wikilink")                    |        | 江熙的父親。                |
-| [安內相](../Page/安內相.md "wikilink")                    |        | 輝哲的父親。                |
-| [梁東根](../Page/梁東根.md "wikilink")                    |        | 汽車公司職員。               |
-| [印喬鎮](../Page/印喬鎮.md "wikilink")                    |        | 汽車公司社長。               |
-| [金榮在](../Page/金榮在.md "wikilink")                    |        | 教堂神父，錦朏的生父。           |
-| [金圭哲](../Page/金圭哲.md "wikilink")                    | 許炳秀    | 致力於尼曼匹克症等遺傳疾病動物實驗的醫生。 |
+|                                  |        |                       |
+| -------------------------------- | ------ | --------------------- |
+| **演員**                           | **角色** | **介紹**                |
+| [吉海妍](../Page/吉海妍.md "wikilink") | 金榮智    | 將錦朏扶養到10歲的阿姨。         |
+| [崔日和](../Page/崔日和.md "wikilink") |        | 江熙的父親。                |
+| [安內相](../Page/安內相.md "wikilink") |        | 輝哲的父親。                |
+| [梁東根](../Page/梁東根.md "wikilink") |        | 汽車公司職員。               |
+| [印喬鎮](../Page/印喬鎮.md "wikilink") |        | 汽車公司社長。               |
+| [金榮在](../Page/金榮在.md "wikilink") |        | 教堂神父，錦朏的生父。           |
+| [金圭哲](../Page/金圭哲.md "wikilink") | 許炳秀    | 致力於尼曼匹克症等遺傳疾病動物實驗的醫生。 |
 
 ## 原聲帶
 
@@ -386,7 +386,7 @@
 </tr>
 <tr class="even">
 <td><p>女子青少年賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/許廷恩" title="wikilink">許廷恩</a></p></td>
+<td><p><a href="../Page/許廷恩.md" title="wikilink">許廷恩</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -400,7 +400,7 @@
 </tr>
 <tr class="even">
 <td><p>最佳情侶賞</p></td>
-<td><p><a href="../Page/吳智昊.md" title="wikilink">吳智昊</a>＆<a href="https://zh.wikipedia.org/wiki/許廷恩" title="wikilink">許廷恩</a></p></td>
+<td><p><a href="../Page/吳智昊.md" title="wikilink">吳智昊</a>＆<a href="../Page/許廷恩.md" title="wikilink">許廷恩</a></p></td>
 <td></td>
 <td></td>
 <td></td>

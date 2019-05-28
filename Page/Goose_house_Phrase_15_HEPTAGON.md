@@ -4,7 +4,7 @@ house的第](https://zh.wikipedia.org/wiki/Goose_house "wikilink")6張正規專�
 ## 概要
 
   - 與上次同時發行的專輯《[Goose house Phrase \#10
-    Milk](https://zh.wikipedia.org/wiki/Goose_house_Phrase_10_Milk "wikilink")》、《[Goose
+    Milk](../Page/Goose_house_Phrase_10_Milk.md "wikilink")》、《[Goose
     house Phrase \#11
     Bitter](https://zh.wikipedia.org/wiki/Goose_house_Phrase_11_Bitter "wikilink")》相距約2年。
   - 「HEPTAGON」在英語中是[七角形的意思](https://zh.wikipedia.org/wiki/七角形 "wikilink")。
@@ -20,11 +20,11 @@ house的第](https://zh.wikipedia.org/wiki/Goose_house "wikilink")6張正規專�
 
 <!-- end list -->
 
-1.  **[屬於我們的自我](https://zh.wikipedia.org/wiki/Goose_house_Phrase_14_屬於我們的自我 "wikilink")**
+1.  **[屬於我們的自我](../Page/Goose_house_Phrase_14_屬於我們的自我.md "wikilink")**
     （僕らだけの等身大）(4:19)
       - 5th單曲收錄曲
 2.  **[Fly High, So
-    High](https://zh.wikipedia.org/wiki/Goose_house_Phrase_13_Fly_High,_So_High "wikilink")**
+    High](../Page/Goose_house_Phrase_13_Fly_High,_So_High.md "wikilink")**
     (4:46)
       - 4th單曲收錄曲
 3.  **You** (4:26)

@@ -63,7 +63,7 @@ Music發行\[1\]，主打曲目為《喜歡》（）。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2017年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2017年12月</p></td>
 <td><p>#16<br />
 （10,056張）</p></td>

@@ -1,7 +1,7 @@
 《**Inside**》是一款由獨立遊戲工作室[Playdead所開發及發行的](../Page/Playdead.md "wikilink")[平台](https://zh.wikipedia.org/wiki/平台遊戲 "wikilink")[解謎及](https://zh.wikipedia.org/wiki/益智遊戲 "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")。遊戲無論在主題及視覺上均類似同一公司的另一款作品《[地獄邊境](https://zh.wikipedia.org/wiki/地獄邊境 "wikilink")》，玩家需扮演一名小男孩，在黑白色的遊戲環境中解決不同的難題，並同時避免在3D滾動時死亡。
 
 《Inside》分別於2016年6月29日、7月7日和8月23日在Xbox One及Windows还有PlayStation
-4上發行，iOS平台在2017年12月15日发行以及[任天堂Switch在](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")2018年6月28日发行。\[1\]游戏在推出後幾乎獲得一致好評，有部份評論家甚至稱本作為《[地獄邊境](https://zh.wikipedia.org/wiki/地獄邊境 "wikilink")》的優秀的[精神續作](https://zh.wikipedia.org/wiki/精神續作 "wikilink")\[2\]\[3\]\[4\]\[5\]。
+4上發行，iOS平台在2017年12月15日发行以及[任天堂Switch在](../Page/任天堂Switch.md "wikilink")2018年6月28日发行。\[1\]游戏在推出後幾乎獲得一致好評，有部份評論家甚至稱本作為《[地獄邊境](https://zh.wikipedia.org/wiki/地獄邊境 "wikilink")》的優秀的[精神續作](https://zh.wikipedia.org/wiki/精神續作 "wikilink")\[2\]\[3\]\[4\]\[5\]。
 
 ## 玩法
 
@@ -24,7 +24,7 @@ One及Windows平台上進行初始發行\[32\]，但之後表示在未來有興�
 
 Playdead在2016年的電子娛樂展上公布本作的發行日期，並推出限時促銷，讓玩家們在本作發行前免費下載《地獄邊境》。本作最終於2016年6月29日及7月7日在Xbox
 One及Windows版的[Steam平台上發行](../Page/Steam.md "wikilink")\[34\]。之后游戏于同年8月23日在PlayStation
-4上发售。在2017年东京游戏展期间，Playdead在接受采访时表示游戏未来会登陆到[任天堂Switch以及](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")[iOS上](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[35\]
+4上发售。在2017年东京游戏展期间，Playdead在接受采访时表示游戏未来会登陆到[任天堂Switch以及](../Page/任天堂Switch.md "wikilink")[iOS上](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[35\]
 
 ## 评价
 
@@ -109,7 +109,7 @@ Rignall）在預覽本作後指出本作是在他玩過的眾多解謎遊戲之�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>年度<a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox游戏</a></p></td>
+<td><p>年度<a href="../Page/Xbox.md" title="wikilink">Xbox游戏</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -165,7 +165,7 @@ Rignall）在預覽本作後指出本作是在他玩過的眾多解謎遊戲之�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Giant_Bomb" title="wikilink">Giant Bomb</a>2016年度游戏奖</p></td>
+<td><p><a href="../Page/Giant_Bomb.md" title="wikilink">Giant Bomb</a>2016年度游戏奖</p></td>
 <td><p>最佳视觉效果游戏</p></td>
 <td></td>
 <td><p>[54]</p></td>

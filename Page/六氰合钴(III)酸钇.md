@@ -2,7 +2,7 @@
 
 ## 制备
 
-将[六氰合钴(III)酸钾热溶液加至](https://zh.wikipedia.org/wiki/六氰合钴\(III\)酸钾 "wikilink")[硝酸钇溶液中](../Page/硝酸钇.md "wikilink")，可以得到沉淀2Y\[Co(CN)<sub>6</sub>\]·9H<sub>2</sub>O。\[1\]
+将[六氰合钴(III)酸钾热溶液加至](../Page/六氰合钴\(III\)酸钾.md "wikilink")[硝酸钇溶液中](../Page/硝酸钇.md "wikilink")，可以得到沉淀2Y\[Co(CN)<sub>6</sub>\]·9H<sub>2</sub>O。\[1\]
 
 ## 性质
 

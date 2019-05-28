@@ -86,17 +86,17 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 | 381 | 8月4日   | 梁釗峰　幸福單飛時刻              | [梁釗峰](../Page/梁釗峰.md "wikilink") |- style="background-color: \#FFFFFF" |                                                             |
 | 382 | 8月11日  | 吳浩康、王嘉儀　別停在以前           | [吳浩康](../Page/吳浩康.md "wikilink")、[王嘉儀](../Page/王嘉儀.md "wikilink") |- style="background-color: \#FFFFFF" |                            |
 | 383 | 8月18日  | 石詠莉、MissMrs　樂壇中的單飛與母女檔  | [石詠莉](../Page/石詠莉.md "wikilink")、[MissMrs](https://zh.wikipedia.org/wiki/MissMrs "wikilink") |- style="background-color: \#FFFFFF" | |
-| 384 | 8月25日  | Fabel、Myar　「音樂疲乏」該如何是好？ | [Fabel](../Page/Fabel.md "wikilink")、[Myar](https://zh.wikipedia.org/wiki/Myar "wikilink") |- style="background-color: \#FFFFFF" |   |
+| 384 | 8月25日  | Fabel、Myar　「音樂疲乏」該如何是好？ | [Fabel](../Page/Fabel.md "wikilink")、[Myar](../Page/Myar.md "wikilink") |- style="background-color: \#FFFFFF" |                      |
 
 ## 9月
 
-| 集數  | J2首播日期 | 主題                    | 嘉賓                                                                                                                           |
-| --- | ------ | --------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| 385 | 9月1日   | 譚嘉儀、戴祖儀　網絡媒體發佈作品是好是壞？ | [譚嘉儀](../Page/譚嘉儀.md "wikilink")、[戴祖儀](https://zh.wikipedia.org/wiki/戴祖儀 "wikilink") |- style="background-color: \#FFFFFF" | |
-| 386 | 9月8日   | 傅珮嘉、譚杏藍　身兼多職的「樂壇新人」   | [傅珮嘉](../Page/傅珮嘉.md "wikilink")、[譚杏藍](../Page/譚杏藍.md "wikilink") |- style="background-color: \#FFFFFF" |                    |
-| 387 | 9月15日  | 黃妍、洪嘉豪　作品有偶像的影子嗎？     | [黃　妍](../Page/黃妍.md "wikilink")、[洪嘉豪](https://zh.wikipedia.org/wiki/洪嘉豪 "wikilink") |- style="background-color: \#FFFFFF" |  |
-| 388 | 9月22日  | 莫家淦、簡淑兒　樂壇上發光發亮       | [莫家淦](../Page/莫家淦.md "wikilink")、[簡淑兒](../Page/簡淑兒.md "wikilink") |- style="background-color: \#FFFFFF" |                    |
-| 389 | 9月29日  | JW、吳若希　轉眼第八個年頭        | [JW](../Page/王灝兒.md "wikilink")、[吳若希](../Page/吳若希.md "wikilink") |- style="background-color: \#FFFFFF" |                     |
+| 集數  | J2首播日期 | 主題                    | 嘉賓                                                                                                                          |
+| --- | ------ | --------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 385 | 9月1日   | 譚嘉儀、戴祖儀　網絡媒體發佈作品是好是壞？ | [譚嘉儀](../Page/譚嘉儀.md "wikilink")、[戴祖儀](../Page/戴祖儀.md "wikilink") |- style="background-color: \#FFFFFF" |                   |
+| 386 | 9月8日   | 傅珮嘉、譚杏藍　身兼多職的「樂壇新人」   | [傅珮嘉](../Page/傅珮嘉.md "wikilink")、[譚杏藍](../Page/譚杏藍.md "wikilink") |- style="background-color: \#FFFFFF" |                   |
+| 387 | 9月15日  | 黃妍、洪嘉豪　作品有偶像的影子嗎？     | [黃　妍](../Page/黃妍.md "wikilink")、[洪嘉豪](https://zh.wikipedia.org/wiki/洪嘉豪 "wikilink") |- style="background-color: \#FFFFFF" | |
+| 388 | 9月22日  | 莫家淦、簡淑兒　樂壇上發光發亮       | [莫家淦](../Page/莫家淦.md "wikilink")、[簡淑兒](../Page/簡淑兒.md "wikilink") |- style="background-color: \#FFFFFF" |                   |
+| 389 | 9月29日  | JW、吳若希　轉眼第八個年頭        | [JW](../Page/王灝兒.md "wikilink")、[吳若希](../Page/吳若希.md "wikilink") |- style="background-color: \#FFFFFF" |                    |
 
 ## 10月
 
@@ -117,13 +117,13 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 
 ## 12月
 
-| 集數  | J2首播日期 | 主題                 | 嘉賓                                                                                                                                                              |
-| --- | ------ | ------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 397 | 12月1日  | 胡鴻鈞、戴祖儀　找回初心繼續前行   | [胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")、[戴祖儀](https://zh.wikipedia.org/wiki/戴祖儀 "wikilink") |- style="background-color: \#FFFFFF" |                 |
-| 398 | 12月8日  | 鄭世豪、黃翊　因喜歡而不覺苦     | [鄭世豪](../Page/鄭世豪.md "wikilink")、[黃　翊](../Page/黃翊_\(香港\).md "wikilink") |- style="background-color: \#FFFFFF" |                                                 |
-| 399 | 12月15日 | Myar、李晧軒、羅孝勇　回復自我  | [Myar](https://zh.wikipedia.org/wiki/Myar "wikilink")、[李晧軒](../Page/李晧軒.md "wikilink")、[羅孝勇](../Page/羅孝勇.md "wikilink") |- style="background-color: \#FFFFFF" | |
-| 400 | 12月22日 | 朱紫嬈、曾樂彤　跳出框框挑戰自我   | [朱紫嬈](../Page/朱紫嬈.md "wikilink")、[曾樂彤](../Page/曾樂彤.md "wikilink") |- style="background-color: \#FFFFFF" |                                                       |
-| 401 | 12月29日 | JW、鄭融　細說dream show | [JW](../Page/王灝兒.md "wikilink")、[鄭　融](../Page/鄭融.md "wikilink") |- style="background-color: \#FFFFFF" |                                                         |
+| 集數  | J2首播日期 | 主題                 | 嘉賓                                                                                                                                           |
+| --- | ------ | ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 397 | 12月1日  | 胡鴻鈞、戴祖儀　找回初心繼續前行   | [胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")、[戴祖儀](../Page/戴祖儀.md "wikilink") |- style="background-color: \#FFFFFF" |                 |
+| 398 | 12月8日  | 鄭世豪、黃翊　因喜歡而不覺苦     | [鄭世豪](../Page/鄭世豪.md "wikilink")、[黃　翊](../Page/黃翊_\(香港\).md "wikilink") |- style="background-color: \#FFFFFF" |                              |
+| 399 | 12月15日 | Myar、李晧軒、羅孝勇　回復自我  | [Myar](../Page/Myar.md "wikilink")、[李晧軒](../Page/李晧軒.md "wikilink")、[羅孝勇](../Page/羅孝勇.md "wikilink") |- style="background-color: \#FFFFFF" | |
+| 400 | 12月22日 | 朱紫嬈、曾樂彤　跳出框框挑戰自我   | [朱紫嬈](../Page/朱紫嬈.md "wikilink")、[曾樂彤](../Page/曾樂彤.md "wikilink") |- style="background-color: \#FFFFFF" |                                    |
+| 401 | 12月29日 | JW、鄭融　細說dream show | [JW](../Page/王灝兒.md "wikilink")、[鄭　融](../Page/鄭融.md "wikilink") |- style="background-color: \#FFFFFF" |                                      |
 
 [Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink")
 [Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink")

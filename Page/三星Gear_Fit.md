@@ -12,7 +12,7 @@ Samsung Gear Fit拥有一个1.84英寸的曲面Super
 AMOLED显示屏（分辨率为432x128像素），一个210mAh的[电池](../Page/电池.md "wikilink")（电力全足下可运行4-5天）。其机身重量仅，机身尺寸为。
 
 Samsung Gear
-Fit采用一种腕带与机身相分离的结构，以便让使用者可以方便的更换不同风格的腕带（拥有[黑](https://zh.wikipedia.org/wiki/黑 "wikilink")、[橙](../Page/橙.md "wikilink")、[灰三色](https://zh.wikipedia.org/wiki/灰 "wikilink")）。
+Fit采用一种腕带与机身相分离的结构，以便让使用者可以方便的更换不同风格的腕带（拥有[黑](https://zh.wikipedia.org/wiki/黑 "wikilink")、[橙](../Page/橙.md "wikilink")、[灰三色](../Page/灰.md "wikilink")）。
 
 ## 功能
 

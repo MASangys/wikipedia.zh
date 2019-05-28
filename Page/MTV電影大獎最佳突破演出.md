@@ -31,7 +31,7 @@ Performance）是[MTV電影大獎重要的獎項之一](https://zh.wikipedia.org
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Ice-T" title="wikilink">Ice-T</a></p></td>
+<td><p><a href="../Page/Ice-T.md" title="wikilink">Ice-T</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -823,7 +823,7 @@ Performance）是[MTV電影大獎重要的獎項之一](https://zh.wikipedia.org
 <tr class="odd">
 <td><p><strong>2012<br />
 (第21屆)</strong></p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/莎蓮·活莉" title="wikilink">莎蓮·活莉</a> '''</p></td>
+<td><p>'''<a href="../Page/莎蓮·活莉.md" title="wikilink">莎蓮·活莉</a> '''</p></td>
 <td><p><strong><a href="../Page/繼承大丈夫.md" title="wikilink">繼承大丈夫</a></strong></p></td>
 </tr>
 <tr class="even">
@@ -911,7 +911,7 @@ Performance）是[MTV電影大獎重要的獎項之一](https://zh.wikipedia.org
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/埃拉·科尔特兰" title="wikilink">埃拉·科尔特兰</a></p></td>
+<td><p><a href="../Page/埃拉·科尔特兰.md" title="wikilink">埃拉·科尔特兰</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/我們都是這樣長大的" title="wikilink">我們都是這樣長大的</a></p></td>
 <td></td>
 </tr>
@@ -948,7 +948,7 @@ Performance）是[MTV電影大獎重要的獎項之一](https://zh.wikipedia.org
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/達珂塔·強生" title="wikilink">達珂塔·強生</a></p></td>
+<td><p><a href="../Page/達珂塔·強生.md" title="wikilink">達珂塔·強生</a></p></td>
 <td><p><a href="../Page/格雷的五十道陰影_(電影).md" title="wikilink">格雷的五十道陰影</a></p></td>
 <td></td>
 </tr>

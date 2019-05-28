@@ -6,7 +6,7 @@
 
 探测器上搭载有三个望远镜载荷，分别对应高、中、低能区的波段，以实现1-250k[eV能区的全覆盖](https://zh.wikipedia.org/wiki/电子伏特 "wikilink")。其中低能X射线望远镜（LE）覆盖1-15keV，中能X射线望远镜（ME）覆盖5-30keV，高能X射线望远镜（HE）覆盖20-250keV。除望远镜以外，还搭载有一个空间环境监测仪，用于标定探测器在轨运行的[本底](https://zh.wikipedia.org/wiki/本底 "wikilink")。
 
-高能X射线望远镜采用，采用[NaI和](../Page/碘化钠.md "wikilink")[CsI复合晶体](https://zh.wikipedia.org/wiki/碘化铯 "wikilink")，其中CsI层主要用来降低探测器的背景噪声；但是如果直接使用CsI层获得的信号，该望远镜会获得自0.2至数十MeV能区的探测能力（这是[伽马射线天文学的探测范围](https://zh.wikipedia.org/wiki/伽马射线天文学 "wikilink")），使得仪器可以用来监测[伽马射线暴](https://zh.wikipedia.org/wiki/伽马射线暴 "wikilink")。项目组调整光电倍增管的电压，以优化仪器探测伽马射线暴的灵敏度。伽马射线暴的监测并非HXMT的科学目标，因而探测器的这种利用方式扩展了HXMT的应用范围。2017年8月，升空仅两个月、仍处于调试期的HXMT利用该模式参与了双[中子星并合](../Page/中子星.md "wikilink")[引力波事件](https://zh.wikipedia.org/wiki/引力波 "wikilink")[GW170817对应的伽马射线暴](https://zh.wikipedia.org/wiki/GW170817 "wikilink")[GRB
+高能X射线望远镜采用，采用[NaI和](../Page/碘化钠.md "wikilink")[CsI复合晶体](https://zh.wikipedia.org/wiki/碘化铯 "wikilink")，其中CsI层主要用来降低探测器的背景噪声；但是如果直接使用CsI层获得的信号，该望远镜会获得自0.2至数十MeV能区的探测能力（这是[伽马射线天文学的探测范围](https://zh.wikipedia.org/wiki/伽马射线天文学 "wikilink")），使得仪器可以用来监测[伽马射线暴](https://zh.wikipedia.org/wiki/伽马射线暴 "wikilink")。项目组调整光电倍增管的电压，以优化仪器探测伽马射线暴的灵敏度。伽马射线暴的监测并非HXMT的科学目标，因而探测器的这种利用方式扩展了HXMT的应用范围。2017年8月，升空仅两个月、仍处于调试期的HXMT利用该模式参与了双[中子星并合](../Page/中子星.md "wikilink")[引力波事件](https://zh.wikipedia.org/wiki/引力波 "wikilink")[GW170817对应的伽马射线暴](../Page/GW170817.md "wikilink")[GRB
 170817A的观测](https://zh.wikipedia.org/wiki/GRB_170817A "wikilink")。
 
 ## 参见

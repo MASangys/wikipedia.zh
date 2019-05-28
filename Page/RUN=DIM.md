@@ -20,7 +20,7 @@ FRONTIER決定誓要阻止。
   - 本田仁：[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")
   - 野島優：[川田紳司](../Page/川田紳司.md "wikilink")
   - 健慕勒 （ケン・ミューラー）：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
-  - 柔未來（ユウ・未来）：[長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink")
+  - 柔未來（ユウ・未来）：[長澤美樹](../Page/長澤美樹.md "wikilink")
   - 八木原宗一：[銀河萬丈](../Page/銀河萬丈.md "wikilink")
 
 ## 各話目錄

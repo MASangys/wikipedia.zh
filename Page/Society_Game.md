@@ -202,7 +202,7 @@ Genius](../Page/The_Genius.md "wikilink")》的導演[鄭中淵擔任導演](htt
 <td><p>演员</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/曹準好" title="wikilink">曹準好</a></p></td>
+<td><p><a href="../Page/曹準好.md" title="wikilink">曹準好</a></p></td>
 <td><p>조준호</p></td>
 <td><p>柔道教練，選手時期曾獲奧運柔道銅牌。</p></td>
 </tr>
@@ -217,7 +217,7 @@ Genius](../Page/The_Genius.md "wikilink")》的導演[鄭中淵擔任導演](htt
 <td><p>模特、演员，曾獲得世界健美達人稱號。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李俊錫" title="wikilink">李準碩</a></p></td>
+<td><p><a href="../Page/李俊錫.md" title="wikilink">李準碩</a></p></td>
 <td><p>이준석</p></td>
 <td><p>政客、投資家、《<a href="../Page/The_Genius.md" title="wikilink">The Genius</a>》 S1,S4 參加者，參與第20屆國會議員競選但不幸落選。</p></td>
 </tr>

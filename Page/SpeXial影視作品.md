@@ -1837,7 +1837,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/全球中文音樂榜上榜_(臺灣版)" title="wikilink">全球中文音樂榜上榜</a></p></td>
+<td><p><a href="../Page/全球中文音樂榜上榜_(臺灣版).md" title="wikilink">全球中文音樂榜上榜</a></p></td>
 <td><p>{{hidden</p></td>
 <td><p>2016年9月17日<br />
 2016年10月15日}}</p></td>
@@ -1900,7 +1900,7 @@
 <td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PlayStation</a><br />
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a><br />
 <a href="https://zh.wikipedia.org/wiki/玩樂DNA" title="wikilink">玩樂DNA</a></p></td>
 <td><p>{{hidden</p></td>
 <td><p>2017年6月6日<br />

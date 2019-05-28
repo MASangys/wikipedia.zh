@@ -277,7 +277,7 @@ zh-hk:視像}-也在该节目中公开\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[1
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/一城美由希" title="wikilink">一城美由希</a></p></td>
+<td><p><a href="../Page/一城美由希.md" title="wikilink">一城美由希</a></p></td>
 <td><p><a href="../Page/蔣篤慧.md" title="wikilink">蔣篤慧</a></p></td>
 </tr>
 <tr class="even">
@@ -448,7 +448,7 @@ zh-hk:視像}-也在该节目中公开\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[1
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/百百麻子" title="wikilink">百百麻子</a></p></td>
+<td><p><a href="../Page/百百麻子.md" title="wikilink">百百麻子</a></p></td>
 <td><p><a href="../Page/傅其慧.md" title="wikilink">傅其慧</a></p></td>
 </tr>
 <tr class="even">
@@ -493,12 +493,11 @@ zh-hk:視像}-也在该节目中公开\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]\[1
 
 |+ **与动画第1集配音的不同** \! 角色 \!\! 动画第1集 \!\! 本作 |-
 |[毛利小五郎](../Page/毛利小五郎.md "wikilink")||神谷明||小山力也 |-
-|濑羽尊德||[渡部猛](https://zh.wikipedia.org/wiki/渡部猛 "wikilink")||秋元羊介 |-
-|仁美||[引田有美](https://zh.wikipedia.org/wiki/引田有美 "wikilink")||天野由梨 |-
+|濑羽尊德||[渡部猛](../Page/渡部猛.md "wikilink")||秋元羊介 |-
+|仁美||[引田有美](../Page/引田有美.md "wikilink")||天野由梨 |-
 |礼子||[永泽菜教](https://zh.wikipedia.org/wiki/永泽菜教 "wikilink")||河原木志穗 |-
-|岸田||千叶一伸||石川英郎 |-
-|爱子||[丸田麻里](https://zh.wikipedia.org/wiki/丸田麻里 "wikilink")||百百麻子
-|- |社长||[辻亲八](https://zh.wikipedia.org/wiki/辻亲八 "wikilink")||浦山迅 |-
+|岸田||千叶一伸||石川英郎 |- |爱子||[丸田麻里](../Page/丸田麻里.md "wikilink")||百百麻子 |-
+|社长||[辻亲八](https://zh.wikipedia.org/wiki/辻亲八 "wikilink")||浦山迅 |-
 |社长||千叶一伸||伊東健人 |}
 
 ## 音乐

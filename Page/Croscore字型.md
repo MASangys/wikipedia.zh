@@ -7,7 +7,7 @@ Windows作業系統上最普遍的字型，其目的為做為上述三字型的�
 [Google從](../Page/Google.md "wikilink")處取得這些字型，並以[Apache许可证第二版授權](../Page/Apache许可证.md "wikilink")\[2\]\[3\]\[4\]。
 
 這一套字型原先由所開發，最初的名稱為Ascender Sans與Ascender
-Serif，同時也是[紅帽公司以開放原始碼授權條款釋出的](../Page/紅帽公司.md "wikilink")[Liberation字型之基礎](https://zh.wikipedia.org/wiki/Liberation字型 "wikilink")\[5\]。
+Serif，同時也是[紅帽公司以開放原始碼授權條款釋出的](../Page/紅帽公司.md "wikilink")[Liberation字型之基礎](../Page/Liberation字型.md "wikilink")\[5\]。
 
 ## Crosextra字型
 
@@ -17,7 +17,7 @@ Serif，同時也是[紅帽公司以開放原始碼授權條款釋出的](../Pag
 ## 參見
 
   - [Droid](../Page/Droid.md "wikilink")，由同一字型設計師所設計的字型家族
-  - [Liberation字型](https://zh.wikipedia.org/wiki/Liberation字型 "wikilink")
+  - [Liberation字型](../Page/Liberation字型.md "wikilink")
 
 ## 參考資料
 

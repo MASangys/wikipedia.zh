@@ -17,7 +17,7 @@ Ending定律也称为终结者定律，它是Ending在2016年Emscripten技术交
 1.  定義一個可移植，具有大小與載入高效率的二進位格式，作為編譯標的。這個編譯標的必須可以被編譯至常見的平台，包含[移動端與](../Page/移动电话.md "wikilink")[物聯網](../Page/物联网.md "wikilink")，並且可以善用[硬體資源](../Page/硬件.md "wikilink")、有原生執行碼的執行速度。
 2.  規格與實作：
       - 最初的MVP(Minimum Viable
-        Product)與[Asm.js有大略相等的功能](https://zh.wikipedia.org/wiki/Asm.js "wikilink")，並以C/C++語言為優先；
+        Product)與[Asm.js有大略相等的功能](../Page/Asm.js.md "wikilink")，並以C/C++語言為優先；
       - 其他額外的特性最初集中在[執行緒](../Page/线程.md "wikilink")，零消耗的[-{zh-tw:例外;zh-cn:异常}-](../Page/异常处理.md "wikilink")，和[SIMD](https://zh.wikipedia.org/wiki/SIMD "wikilink")。這些額外的特性先以回饋和實驗為主，包含C/C++以外其他語言的支持。
 3.  設計可以執行在現有的網路平台之內以及與之整合：
       - 保持無版本問題、特色測試、向後相容的網路平台

@@ -36,7 +36,7 @@ Studio）吳志寧協助發行第一張同名EP《Vast\&Hazy》，隨後因團�
 <td style="text-align: left;"><p>《<strong><a href="https://zh.wikipedia.org/wiki/求救訊號_I&#39;m_Not_OK" title="wikilink">求救訊號 I'm Not OK</a></strong>》</p>
 <ul>
 <li>發行日期：2018年6月7日</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/添翼創越工作室" title="wikilink">添翼創越工作室</a></li>
+<li>唱片公司：<a href="../Page/添翼創越工作室.md" title="wikilink">添翼創越工作室</a></li>
 <li>語言：華語</li>
 </ul></td>
 <td style="text-align: left;"></td>

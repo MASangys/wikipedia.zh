@@ -19,7 +19,7 @@ SDASS與其他許多[泵動式與](https://zh.wikipedia.org/wiki/泵動式 "wiki
 
 其[槍托是由複合](../Page/槍托.md "wikilink")[聚合物所製成](../Page/聚合物.md "wikilink")，亦是不同的SDASS衍生型當中結構特徵的變化最大的複合聚合物件。其槍托的常見變化包括縮短型、增加以至有如SDASS訓練者型般改變槍托製成的材料。
 
-機匣頂部的[MIL-STD-1913戰術導軌上可用以安裝各種瞄準具](../Page/皮卡汀尼導軌.md "wikilink")，比如[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。除了瞄準具以外，也可以在該導軌上裝上[戰術燈和](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
+機匣頂部的[MIL-STD-1913戰術導軌上可用以安裝各種瞄準具](../Page/皮卡汀尼導軌.md "wikilink")，比如[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。除了瞄準具以外，也可以在該導軌上裝上[戰術燈和](../Page/戰術燈.md "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
 
 標準型FABARM
 SDASS戰術型的零售價為[＄](../Page/美元.md "wikilink")649，但其衍生型售價由＄600一直到＄900不等。\[3\]

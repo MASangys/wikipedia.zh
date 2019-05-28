@@ -4,7 +4,7 @@ Drive/SEGA Genesis的外接配件之一](../Page/Mega_Drive.md "wikilink")\[1\]\
 Mega-CD以[光碟為儲存媒介](../Page/光碟.md "wikilink")。光碟的儲存空間較當時大多數家用遊戲機所使用的[卡帶大上許多](https://zh.wikipedia.org/wiki/ROM卡帶 "wikilink")，甚至可包含[全動態影像](https://zh.wikipedia.org/wiki/全動態影像 "wikilink")，最著名的例子為1992年發售的《》\[3\]\[4\]。
 
 儘管有著《[露娜
-永恆之藍](https://zh.wikipedia.org/wiki/露娜_永恆之藍 "wikilink")》、《[音速小子CD](https://zh.wikipedia.org/wiki/音速小子CD "wikilink")》等優質遊戲，不過大部分的Mega-CD遊戲陣容不是原有Mega
+永恆之藍](https://zh.wikipedia.org/wiki/露娜_永恆之藍 "wikilink")》、《[音速小子CD](../Page/音速小子CD.md "wikilink")》等優質遊戲，不過大部分的Mega-CD遊戲陣容不是原有Mega
 Drive/SEGA
 Genesis遊戲的移植版本，就是品質普遍不佳的全動態影像風格遊戲，使得主機銷量一直不見起色\[5\]。1996年，世嘉決定轉移研發資源至其次世代主機[世嘉土星](../Page/世嘉土星.md "wikilink")，並正式將Mega-CD停產。Mega-CD在其生命週期中僅售出了224萬部，以商業角度而言是失敗的\[6\]。
 
@@ -57,7 +57,7 @@ Drive主机的耳机插孔和Mega-CD背面的输入插孔之间连接电缆，Me
 Drive的次种机型无需电缆即可结合\[48\]。
 
 Mega-CD虽然拥有更快的处理器，但其主要目的是扩展游戏大小。当时Mega
-Drive[ROM卡带包含](https://zh.wikipedia.org/wiki/ROM卡带 "wikilink")8至16Mbit的数据，而一张光盘可以容纳多达640MB的数据，是ROM卡带容量的320倍。CD的庞大容量能够让Mega-CD运行包含[全动态影像](https://zh.wikipedia.org/wiki/全动态影像 "wikilink")（FMV）的游戏\[49\]。
+Drive[ROM卡带包含](../Page/ROM卡带.md "wikilink")8至16Mbit的数据，而一张光盘可以容纳多达640MB的数据，是ROM卡带容量的320倍。CD的庞大容量能够让Mega-CD运行包含[全动态影像](https://zh.wikipedia.org/wiki/全动态影像 "wikilink")（FMV）的游戏\[49\]。
 
 ## 游戏
 
@@ -65,7 +65,7 @@ Drive[ROM卡带包含](https://zh.wikipedia.org/wiki/ROM卡带 "wikilink")8至16
 
 ## 评价
 
-在平台将要发行之时，《[电子游戏月刊](https://zh.wikipedia.org/wiki/电子游戏月刊 "wikilink")》授予Mega-CD1992年度最佳新款外围设备。
+在平台将要发行之时，《[电子游戏月刊](../Page/电子游戏月刊.md "wikilink")》授予Mega-CD1992年度最佳新款外围设备。
 
 ## 參考資料
 

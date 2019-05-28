@@ -23,7 +23,7 @@
   - [SOLANIN](https://zh.wikipedia.org/wiki/Solanin "wikilink")（ソラニン）（2005～2006）[東販出版](../Page/東販.md "wikilink")
     全2卷
 
-  - [晚安，布布](https://zh.wikipedia.org/wiki/晚安，布布 "wikilink")（おやすみプンプン）（2007～2013）[東販出版](../Page/東販.md "wikilink")
+  - [晚安，布布](../Page/晚安，布布.md "wikilink")（おやすみプンプン）（2007～2013）[東販出版](../Page/東販.md "wikilink")
     全13卷
 
   - 世界末日與黎明前（）（2008年、小學館）[東販出版](../Page/東販.md "wikilink") 全1卷

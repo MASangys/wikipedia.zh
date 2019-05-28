@@ -1,4 +1,4 @@
-**Creepypasta**，是互聯網用戶透過複製和粘貼去傳播相關的恐怖敍述和圖像。\[1\]\[2\]這些敍述和圖像通常是由網民用偏向簡短的文字，以及用自行設計的圖像去表達一些[超自然的故事](https://zh.wikipedia.org/wiki/超自然 "wikilink")，其目的旨在嚇唬讀者，而當中可包括著[謀殺](../Page/謀殺.md "wikilink")、[自殺和其他生活中所發生之奇異事件的故事](../Page/自殺.md "wikilink")。根據[時代雜誌描述](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")，「Creepypasta」在2010年覆蓋了[紐約時報大部份版面](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")，更已經達到了高峰。至於中文未有一個正式的翻譯，而普遍網友則將其譯作**蠕動意麵**、**恐怖意麵**。
+**Creepypasta**，是互聯網用戶透過複製和粘貼去傳播相關的恐怖敍述和圖像。\[1\]\[2\]這些敍述和圖像通常是由網民用偏向簡短的文字，以及用自行設計的圖像去表達一些[超自然的故事](https://zh.wikipedia.org/wiki/超自然 "wikilink")，其目的旨在嚇唬讀者，而當中可包括著[謀殺](../Page/謀殺.md "wikilink")、[自殺和其他生活中所發生之奇異事件的故事](../Page/自殺.md "wikilink")。根據[時代雜誌描述](../Page/時代雜誌.md "wikilink")，「Creepypasta」在2010年覆蓋了[紐約時報大部份版面](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")，更已經達到了高峰。至於中文未有一個正式的翻譯，而普遍網友則將其譯作**蠕動意麵**、**恐怖意麵**。
 
 「Creepypasta」一字，最初是源於「Copy」和「Paste」兩字，合併後成為「Copypaste」，當中表面意思是指大量的[複製與](https://zh.wikipedia.org/wiki/複製 "wikilink")[粘貼](https://zh.wikipedia.org/wiki/粘貼 "wikilink")，實際的意思則是指一些網友將自己幻想出來的故事大量的散佈，但後來「Copypaste」被拆散並重新組合，最後以「Creepy」（驚悚、蠕動）和「Pasta」（[意大利粉](../Page/意大利粉.md "wikilink")）兩字合併為「Creepypasta」。在主流媒體中，與虛構角色「[Slenderman](../Page/瘦長人.md "wikilink")」有關的「Creepypasta」在2014年之後受到公眾的關注，主要原因是來自[威斯康星州一名十二歲女孩被她的兩個朋友刺傷](https://zh.wikipedia.org/wiki/威斯康星州 "wikilink")（[瘦長人刺傷案](../Page/瘦長人刺傷案.md "wikilink")）。肇事者聲稱，他們想證明「懷疑「Slenderman」的人是錯了」之理論。此事發生之後，一些討論「Creepypasta」網站之管理員提醒讀者要懂得分辨哪些是虛構的、哪些是真實的，更不要被虛構內容誤導。
 
@@ -36,7 +36,7 @@ Sonic.EXE，這是從[刺猬索尼克所衍生出來的其中一個](../Page/刺
   - [Lost
     Episode](https://zh.wikipedia.org/wiki/Lost_Episode "wikilink")：丟失的一集，不同的經典動畫也有著所謂「丢失的一集」，多數是以血腥、黑暗、邪惡為內容，而畫面就被弄成模糊不清。
   - [無眼傑克](https://zh.wikipedia.org/wiki/無眼傑克 "wikilink")
-  - [血腥畫家](https://zh.wikipedia.org/wiki/血腥畫家 "wikilink")
+  - [血腥畫家](../Page/血腥畫家.md "wikilink")
   - [無表情的人](https://zh.wikipedia.org/wiki/無表情的人 "wikilink")
 
 ## 相關條目

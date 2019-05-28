@@ -18,7 +18,7 @@ FORMULA》收錄了TWO-MIX她們兩人的翻唱版本，歌名改成叫「KEEP O
 所有歌曲由編曲。
 
 1.  **TIME -Song for GUNHED-**
-      - 作詞：[亞伊林](https://zh.wikipedia.org/wiki/三浦德子 "wikilink")，作曲：
+      - 作詞：[亞伊林](../Page/三浦德子.md "wikilink")，作曲：
       - 由於獲選為電影《》的主題歌，因此以「**Song for GUNHED**」的副標題追加。
 2.  ****
       - 作詞：淺田有理，作曲：北野誠

@@ -171,7 +171,7 @@ Chapmen二人組成。他們最出名的是為其他歌手製作熱門歌曲，�
 </tr>
 <tr class="even">
 <td><p>"Dumb Dumb"</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p><a href="../Page/The_Red.md" title="wikilink">The Red</a></p></td>
 <td></td>
 <td><p>Deanna Dellacioppa, Taylor Parks, Ryan S. Jhun</p></td>
@@ -406,7 +406,7 @@ Chapmen二人組成。他們最出名的是為其他歌手製作熱門歌曲，�
 <tr class="odd">
 <td><p>"Zoo"</p></td>
 <td><p>2017</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p><em><a href="../Page/The_Red_Summer.md" title="wikilink">The Red Summer</a></em></p></td>
 <td></td>
 <td><p>Courtney Woolsey, Alice Penrose</p></td>

@@ -7,9 +7,9 @@ YOU LIKE?》正式出道。
 ### 出道前
 
 EXY曾是[Medialine娛樂的練習生](https://zh.wikipedia.org/wiki/Medialine娛樂 "wikilink")，一直以[Viva
-Girls](https://zh.wikipedia.org/wiki/Viva_Girls "wikilink")（預定成員包括[倞利](https://zh.wikipedia.org/wiki/倞利 "wikilink")、[Lime](https://zh.wikipedia.org/wiki/金慧林 "wikilink")、[蘇有美](https://zh.wikipedia.org/wiki/蘇有美 "wikilink")、[優熙](../Page/優熙.md "wikilink")、[EXY](https://zh.wikipedia.org/wiki/EXY "wikilink")）成員的身份練習，直至2011年公司因財務問題倒閉，EXY轉到[STARSHIP娛樂繼續練習](../Page/STARSHIP娛樂.md "wikilink")。2015年，EXY以[STARSHIP娛樂練習生身份參與](../Page/STARSHIP娛樂.md "wikilink")《[Unpretty
+Girls](https://zh.wikipedia.org/wiki/Viva_Girls "wikilink")（預定成員包括[倞利](https://zh.wikipedia.org/wiki/倞利 "wikilink")、[Lime](https://zh.wikipedia.org/wiki/金慧林 "wikilink")、[蘇有美](https://zh.wikipedia.org/wiki/蘇有美 "wikilink")、[優熙](../Page/優熙.md "wikilink")、[EXY](../Page/EXY.md "wikilink")）成員的身份練習，直至2011年公司因財務問題倒閉，EXY轉到[STARSHIP娛樂繼續練習](../Page/STARSHIP娛樂.md "wikilink")。2015年，EXY以[STARSHIP娛樂練習生身份參與](../Page/STARSHIP娛樂.md "wikilink")《[Unpretty
 Rapstar
-2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》，但在第8集被淘汰。2015年12月5日，[STARSHIP娛樂宣佈](../Page/STARSHIP娛樂.md "wikilink")[EXY為即將出道的女子團體宇宙少女的確定成員之一](https://zh.wikipedia.org/wiki/EXY "wikilink")，並暫定於2016年1月出道。2015年12月22日，[EXY](https://zh.wikipedia.org/wiki/EXY "wikilink")、[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")、[多榮](https://zh.wikipedia.org/wiki/多榮 "wikilink")、[苞娜](https://zh.wikipedia.org/wiki/苞娜 "wikilink")、[雪娥](https://zh.wikipedia.org/wiki/雪娥 "wikilink")、[美岐](https://zh.wikipedia.org/wiki/美岐 "wikilink")、[多願演唱](https://zh.wikipedia.org/wiki/多願 "wikilink")《All
+2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》，但在第8集被淘汰。2015年12月5日，[STARSHIP娛樂宣佈](../Page/STARSHIP娛樂.md "wikilink")[EXY為即將出道的女子團體宇宙少女的確定成員之一](../Page/EXY.md "wikilink")，並暫定於2016年1月出道。2015年12月22日，[EXY](../Page/EXY.md "wikilink")、[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")、[多榮](https://zh.wikipedia.org/wiki/多榮 "wikilink")、[苞娜](../Page/苞娜.md "wikilink")、[雪娥](../Page/雪娥.md "wikilink")、[美岐](https://zh.wikipedia.org/wiki/美岐 "wikilink")、[多願演唱](https://zh.wikipedia.org/wiki/多願 "wikilink")《All
 I Want For Christmas is You》。2015年12月30日，出演
 [UNIQ](../Page/UNIQ.md "wikilink") 新曲《Happy New Year》MV。
 
@@ -21,8 +21,8 @@ I Want For Christmas is You》。2015年12月30日，出演
 
 #### 企划组合 Y Teen
 
-8月3日，EXY与[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")6名成员（[雪娥](https://zh.wikipedia.org/wiki/雪娥 "wikilink")、[秀彬](../Page/秀斌.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")
-、[程潇](https://zh.wikipedia.org/wiki/程潇 "wikilink")、[夏天及](../Page/夏天_\(歌手\).md "wikilink")[多榮](https://zh.wikipedia.org/wiki/多榮 "wikilink")）與男子组合[MONSTA
+8月3日，EXY与[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")6名成员（[雪娥](../Page/雪娥.md "wikilink")、[秀彬](../Page/秀斌.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")
+、[程潇](../Page/程潇.md "wikilink")、[夏天及](../Page/夏天_\(歌手\).md "wikilink")[多榮](https://zh.wikipedia.org/wiki/多榮 "wikilink")）與男子组合[MONSTA
 X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")7名成员组成限定版的男女混合團“Y
 Teen”。8月6日，公開限定组合“Y Teen”《Do Better》的MV。
 
@@ -130,23 +130,23 @@ Teen”。8月6日，公開限定组合“Y Teen”《Do Better》的MV。
 
 ### 綜藝節目
 
-|       |                                                                           |                                                                                       |                                                                               |               |
-| ----- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------- |
-| 年份    | 日期                                                                        | 電視台                                                                                   | 節目名稱                                                                          | 備註            |
-| 2016年 | 3月20日                                                                     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                                   | 《[神秘音乐秀：蒙面歌王](https://zh.wikipedia.org/wiki/神秘音乐秀：蒙面歌王 "wikilink")》           | 艺人评审团         |
-| 3月27日 |                                                                           |                                                                                       |                                                                               |               |
-| 4月9日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                       | 《白锺元的3大天王》                                                                            |                                                                               |               |
-| 4月20日 | 《[Vocal 战争：神的声音](https://zh.wikipedia.org/wiki/Vocal_战争：神的声音 "wikilink")》 |                                                                                       |                                                                               |               |
-| 4月27日 |                                                                           |                                                                                       |                                                                               |               |
-| 4月29日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                       | 《二重唱歌谣祭》                                                                              |                                                                               |               |
-| 6月26日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                       | 《[神秘音乐秀：蒙面歌王](https://zh.wikipedia.org/wiki/神秘音乐秀：蒙面歌王 "wikilink")》                   | 参赛者                                                                           |               |
-| 7月1日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                     | 《[Show Me The Money 5](https://zh.wikipedia.org/wiki/Show_Me_The_Money_5 "wikilink")》 |                                                                               |               |
-| 9月15日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                       | 《MBC偶像明星运动会- 中秋特辑》                                                                    |                                                                               |               |
-| 2017年 | 2月16日                                                                     | [OnStyle](https://zh.wikipedia.org/wiki/OnStyle "wikilink")                           | 《[Lipstick Prince](https://zh.wikipedia.org/wiki/Lipstick_Prince "wikilink")》 |               |
-| 2018年 | 4月5日                                                                      | K Star                                                                                | 《食神之路4》                                                                       | 嘉賓 與多榮 E04    |
-| 12月8日 | MBC every1                                                                | 《今天有話要說》                                                                              | 與[所願](../Page/Sowon.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")）  |               |
-| 2019年 | 2月5日及2月7日                                                                 | VLIVE                                                                                 | 《會玩的哥哥》                                                                       | 與雪娥、秀彬、多榮共同出演 |
-|       |                                                                           |                                                                                       |                                                                               |               |
+|       |                                                                           |                                                                     |                                                                              |               |
+| ----- | ------------------------------------------------------------------------- | ------------------------------------------------------------------- | ---------------------------------------------------------------------------- | ------------- |
+| 年份    | 日期                                                                        | 電視台                                                                 | 節目名稱                                                                         | 備註            |
+| 2016年 | 3月20日                                                                     | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                 | 《[神秘音乐秀：蒙面歌王](https://zh.wikipedia.org/wiki/神秘音乐秀：蒙面歌王 "wikilink")》          | 艺人评审团         |
+| 3月27日 |                                                                           |                                                                     |                                                                              |               |
+| 4月9日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")                       | 《白锺元的3大天王》                                                          |                                                                              |               |
+| 4月20日 | 《[Vocal 战争：神的声音](https://zh.wikipedia.org/wiki/Vocal_战争：神的声音 "wikilink")》 |                                                                     |                                                                              |               |
+| 4月27日 |                                                                           |                                                                     |                                                                              |               |
+| 4月29日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                       | 《二重唱歌谣祭》                                                            |                                                                              |               |
+| 6月26日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                       | 《[神秘音乐秀：蒙面歌王](https://zh.wikipedia.org/wiki/神秘音乐秀：蒙面歌王 "wikilink")》 | 参赛者                                                                          |               |
+| 7月1日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                     | 《[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》  |                                                                              |               |
+| 9月15日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                       | 《MBC偶像明星运动会- 中秋特辑》                                                  |                                                                              |               |
+| 2017年 | 2月16日                                                                     | [OnStyle](../Page/OnStyle.md "wikilink")                            | 《[Lipstick Prince](../Page/Lipstick_Prince.md "wikilink")》                   |               |
+| 2018年 | 4月5日                                                                      | K Star                                                              | 《食神之路4》                                                                      | 嘉賓 與多榮 E04    |
+| 12月8日 | MBC every1                                                                | 《今天有話要說》                                                            | 與[所願](../Page/Sowon.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")） |               |
+| 2019年 | 2月5日及2月7日                                                                 | VLIVE                                                               | 《會玩的哥哥》                                                                      | 與雪娥、秀彬、多榮共同出演 |
+|       |                                                                           |                                                                     |                                                                              |               |
 
 ### 固定綜藝
 
@@ -157,12 +157,12 @@ Teen”。8月6日，公開限定组合“Y Teen”《Do Better》的MV。
 
 ### 广告拍摄
 
-|      |      |                                                   |               |                                                                                                                                                                          |
-| ---- | ---- | ------------------------------------------------- | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 年份   | 品種   | 企業人                                               | 品牌名           | 共同拍攝藝人                                                                                                                                                                   |
-| 2016 | 化妆品  | skin79                                            | skin79 X 宇宙少女 | [苞娜](https://zh.wikipedia.org/wiki/苞娜 "wikilink")、[程潇](https://zh.wikipedia.org/wiki/程潇 "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")                                |
-| 2017 | 移动通信 | [KT](https://zh.wikipedia.org/wiki/KT "wikilink") | Y高考           | [程潇](https://zh.wikipedia.org/wiki/程潇 "wikilink")、[苞娜](https://zh.wikipedia.org/wiki/苞娜 "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")、[璉靜](../Page/璉靜.md "wikilink") |
-|      |      |                                                   |               |                                                                                                                                                                          |
+|      |      |                                                   |               |                                                                                                                                    |
+| ---- | ---- | ------------------------------------------------- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 年份   | 品種   | 企業人                                               | 品牌名           | 共同拍攝藝人                                                                                                                             |
+| 2016 | 化妆品  | skin79                                            | skin79 X 宇宙少女 | [苞娜](../Page/苞娜.md "wikilink")、[程潇](../Page/程潇.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")                                |
+| 2017 | 移动通信 | [KT](https://zh.wikipedia.org/wiki/KT "wikilink") | Y高考           | [程潇](../Page/程潇.md "wikilink")、[苞娜](../Page/苞娜.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")、[璉靜](../Page/璉靜.md "wikilink") |
+|      |      |                                                   |               |                                                                                                                                    |
 
 ## 參考資料
 

@@ -2,7 +2,7 @@
 Wolves」。目前隸屬戰隊[Team
 SoloMid擔任中路選手](../Page/Team_SoloMid.md "wikilink")。\[1\]
 
-2013年年底他加盟了北美地區英雄聯盟冠軍聯賽傳統豪門TSM，成為當時《英雄聯盟》歷來第二位從歐洲職業聯賽轉會到[北美職業聯賽](https://zh.wikipedia.org/wiki/北美地区英雄联盟冠军联赛 "wikilink")(NA
+2013年年底他加盟了北美地區英雄聯盟冠軍聯賽傳統豪門TSM，成為當時《英雄聯盟》歷來第二位從歐洲職業聯賽轉會到[北美職業聯賽](../Page/北美地区英雄联盟冠军联赛.md "wikilink")(NA
 LCS)的選手（第一位為Gambit Gaming的輔助，愛德華·阿伯加揚〔Edward
 Abgaryan〕）。TSM是北美的傳統強隊，在他加入後，打進了每一次的LCS決賽，並且每一年都有打進世界賽的紀錄。但他歷年來在國際賽的成績並不理想，只曾贏得一個S5
 IEM世界賽冠軍。現在他在北美伺服器的名稱是「TSM Bjergsen」。另一個帳號名稱是「Søren Bjerg」。

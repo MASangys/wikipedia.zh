@@ -88,7 +88,7 @@ Tour」，而這兩座城市分別為臺灣[臺北及](../Page/臺北.md "wikili
 <tbody>
 <tr class="odd">
 <td><p>2016年1月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="../Page/首尔奥林匹克体操竞技场.md" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
 <td><p>24,000[16]</p></td>

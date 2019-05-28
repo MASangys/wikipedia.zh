@@ -1,5 +1,5 @@
 《**Heart to
-Heart**》是[日本女性](../Page/日本.md "wikilink")[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")[sphere的第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")20張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。[兒玉沙織作詞](https://zh.wikipedia.org/wiki/兒玉沙織 "wikilink")，作曲、編曲。2017年11月8日由[GloryHeaven（Lantis）發行](../Page/Lantis.md "wikilink")。
+Heart**》是[日本女性](../Page/日本.md "wikilink")[聲優組合](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")[sphere的第](https://zh.wikipedia.org/wiki/sphere_\(聲優團體\) "wikilink")20張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。[兒玉沙織作詞](../Page/兒玉沙織.md "wikilink")，作曲、編曲。2017年11月8日由[GloryHeaven（Lantis）發行](../Page/Lantis.md "wikilink")。
 
 ## 解說
 
@@ -11,7 +11,7 @@ MX等台播出的](../Page/東京都會電視台.md "wikilink")[電視動畫](ht
 
 販售形式有初回限定生產盤、期間限定生產盤及通常盤共3種。初回限定盤則收錄了此歌曲的[PV影片](../Page/音樂錄影帶.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")，而期間限定盤的封面是用同名動畫的角色作為封面人物。
 
-而該歌曲的創作背景據sphere的成員[戶松遙表示](../Page/戶松遙.md "wikilink")『歌詞的內容是由我們4人像在寫信般綴集而成，然後由作詞人她（[兒玉沙織](https://zh.wikipedia.org/wiki/兒玉沙織 "wikilink")）以此為基礎進行填詞。』。
+而該歌曲的創作背景據sphere的成員[戶松遙表示](../Page/戶松遙.md "wikilink")『歌詞的內容是由我們4人像在寫信般綴集而成，然後由作詞人她（[兒玉沙織](../Page/兒玉沙織.md "wikilink")）以此為基礎進行填詞。』。
 
 ## 單曲收錄內容
 

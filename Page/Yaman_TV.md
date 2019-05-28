@@ -1,5 +1,5 @@
 《**Yaman
-TV**》（），是韓國[Mnet電視台在](https://zh.wikipedia.org/wiki/Mnet "wikilink")2015年1月5日試播的節目，主持人為[HAHA及hiphop歌手MINO崔民浩](https://zh.wikipedia.org/wiki/HAHA "wikilink")。之後成為正規節目於1月26日起正式播出，除了HAHA、MINO兩位主持人，再加入前籃球選手[徐章煇共同主持](https://zh.wikipedia.org/wiki/徐章煇 "wikilink")。播出時間為韓國時間每周一下午6：00-6：50。
+TV**》（），是韓國[Mnet電視台在](https://zh.wikipedia.org/wiki/Mnet "wikilink")2015年1月5日試播的節目，主持人為[HAHA及hiphop歌手MINO崔民浩](https://zh.wikipedia.org/wiki/HAHA "wikilink")。之後成為正規節目於1月26日起正式播出，除了HAHA、MINO兩位主持人，再加入前籃球選手[徐章煇共同主持](../Page/徐章煇.md "wikilink")。播出時間為韓國時間每周一下午6：00-6：50。
 
 ## 節目主旨
 
@@ -33,7 +33,7 @@ TIME）等。彩球內放有分數，最終以確認彩球內分數總和較多�
 <tr class="odd">
 <td><p>試播</p></td>
 <td><p>01月5日</p></td>
-<td><p><a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a>；<a href="https://zh.wikipedia.org/wiki/Laboum" title="wikilink">Laboum</a>；손민수（諧星）；쌍두마차（Hiphop組合）；<a href="https://zh.wikipedia.org/wiki/少年共和國" title="wikilink">少年共和國</a></p></td>
+<td><p><a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a>；<a href="https://zh.wikipedia.org/wiki/Laboum" title="wikilink">Laboum</a>；손민수（諧星）；쌍두마차（Hiphop組合）；<a href="../Page/少年共和國.md" title="wikilink">少年共和國</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -104,7 +104,7 @@ Cheetah、LilCham、Tymee（Unpretty Rap Star）</p></td>
 <tr class="even">
 <td><p>14</p></td>
 <td><p>04月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>、<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>、<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>

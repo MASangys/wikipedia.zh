@@ -12,7 +12,7 @@ Drive》则为他赢得了他的首次[格莱美奖最佳饶舌专辑的提名](
 Forest Hills
 Drive》也是近25年来首张无任何客串表演却获得白金唱片认证的饶舌专辑</span>\[7\]<span>。</span>
 
-自学过钢琴的科尔在他的[嘻哈乐生涯中扮演着](https://zh.wikipedia.org/wiki/嘻哈乐 "wikilink")[制作人的身份](https://zh.wikipedia.org/wiki/制作人 "wikilink")。他曾为[肯德里克·拉马尔和](https://zh.wikipedia.org/wiki/肯德里克·拉马尔 "wikilink")[珍妮·杰克逊等艺人制作了热门单曲](../Page/珍妮·杰克逊.md "wikilink")，并包揽了他个人作品的主要制作工作\[8\]。同时他也涉足过其它一些领域，这其中包括成立Dreamville唱片公司和非盈利组织The
+自学过钢琴的科尔在他的[嘻哈乐生涯中扮演着](https://zh.wikipedia.org/wiki/嘻哈乐 "wikilink")[制作人的身份](https://zh.wikipedia.org/wiki/制作人 "wikilink")。他曾为[肯德里克·拉马尔和](../Page/肯德里克·拉马尔.md "wikilink")[珍妮·杰克逊等艺人制作了热门单曲](../Page/珍妮·杰克逊.md "wikilink")，并包揽了他个人作品的主要制作工作\[8\]。同时他也涉足过其它一些领域，这其中包括成立Dreamville唱片公司和非盈利组织The
 Dreamville基金会\[9\]。
 
 ## 早年生活
@@ -73,7 +73,7 @@ Lights》\[37\]。这张混音带包括了[德雷克](../Page/德雷克_\(歌手
 
 [右](https://zh.wikipedia.org/wiki/File:J.ColeLondon2011.jpg "fig:右")
 2011年1月5日至21日，科尔担任德雷克“Light Dreams and
-Nghtmares英国巡演”的开场艺人。2011年4月，科尔为[肯德里克·拉马尔](https://zh.wikipedia.org/wiki/肯德里克·拉马尔 "wikilink")2011年专辑《Section.80》制作的歌曲《HiiiPoWeR》被发行，这支单曲是两位艺人首次合作的产物。2011年5月22日，J·科尔发行了一首名为《Return
+Nghtmares英国巡演”的开场艺人。2011年4月，科尔为[肯德里克·拉马尔](../Page/肯德里克·拉马尔.md "wikilink")2011年专辑《Section.80》制作的歌曲《HiiiPoWeR》被发行，这支单曲是两位艺人首次合作的产物。2011年5月22日，J·科尔发行了一首名为《Return
 of Simba》的歌曲，这是继《Simba》和《Grown
 Simba》之后“Simba系列”的第三首歌曲。随后科尔仅表示Jay-Z会在他的首张录音室专辑中担任客串嘉宾，以避免“首张专辑标题的前后不一致”等问题。2011年6月15日，科尔发行了首张专辑的首支单曲《Work
 Out》，以纪念他广受好评的混音带《The Warm
@@ -138,7 +138,7 @@ Smile》、与肯德里克·拉马尔合作的《Forbidden Fruit》，以及《S
 ### 2014年：《<span>2014 Forest Hills Drive》</span>
 
 2014年8月15日，科尔发行了单曲《Be
-Free》，作为对[迈克尔·布朗枪击案的回应](https://zh.wikipedia.org/wiki/邁克爾·布朗命案 "wikilink")。三天后，他参观了这座城市，并与聚集于此的抗议者及活跃分子会面，探讨了城市中的动乱。他在12月10日的《[大卫·莱特曼晚间秀](../Page/大卫·莱特曼晚间秀.md "wikilink")》节目上表演了这首歌曲，并表演了歌曲的补充段落\[57\]。11月16日，科尔发布了一段视频。这段视频宣布了他的第三张录音室专辑《2014
+Free》，作为对[迈克尔·布朗枪击案的回应](../Page/邁克爾·布朗命案.md "wikilink")。三天后，他参观了这座城市，并与聚集于此的抗议者及活跃分子会面，探讨了城市中的动乱。他在12月10日的《[大卫·莱特曼晚间秀](../Page/大卫·莱特曼晚间秀.md "wikilink")》节目上表演了这首歌曲，并表演了歌曲的补充段落\[57\]。11月16日，科尔发布了一段视频。这段视频宣布了他的第三张录音室专辑《2014
 Forest Hills
 Drive》将于2014年12月9日发行的信息\[58\]。视频中出现了专辑些许部分的镜头，并透露专辑名称源于科尔童年时期的住处。科尔告知，这张专辑不会拥有先行单曲，并只有小部分的宣传。然而这张专辑却由四支推广单曲所支持：《Apparently》、《Wet
 Dreamz》、《No Role Modelz》以及《Love
@@ -153,7 +153,7 @@ Forest Hills Drive》凭借超过两百万张的销量与流媒体量的总和�
 2015年12月15日，科尔在《J. Cole: Road to
 Homecoming》的系列纪录片中出镜，而这在他的[HBO特别节目](../Page/HBO.md "wikilink")《Forest
 Hills Drive:
-Homecoming》之前被发布。这部纪录片于2016年1月9日被播出，包含五段插曲以及[肯德里克·拉马尔](https://zh.wikipedia.org/wiki/肯德里克·拉马尔 "wikilink")、[威尔](../Page/威爾_\(饒舌歌手\).md "wikilink")、[蕾哈娜](../Page/蕾哈娜.md "wikilink")、Pusha
+Homecoming》之前被发布。这部纪录片于2016年1月9日被播出，包含五段插曲以及[肯德里克·拉马尔](../Page/肯德里克·拉马尔.md "wikilink")、[威尔](../Page/威爾_\(饒舌歌手\).md "wikilink")、[蕾哈娜](../Page/蕾哈娜.md "wikilink")、Pusha
 T、[大肖恩](../Page/大肖恩.md "wikilink")、[Jay
 Z以及](https://zh.wikipedia.org/wiki/Jay_Z "wikilink")[德雷克等人的客串](../Page/德雷克_\(歌手\).md "wikilink")\[67\]。
 

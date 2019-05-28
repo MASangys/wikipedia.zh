@@ -316,7 +316,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 
 ## 獎項
 
-### [星和無綫電視大獎2017](https://zh.wikipedia.org/wiki/星和無綫電視大獎2017 "wikilink")
+### [星和無綫電視大獎2017](../Page/星和無綫電視大獎2017.md "wikilink")
 
 | 獎項              | 獲獎單位              |
 | --------------- | ----------------- |

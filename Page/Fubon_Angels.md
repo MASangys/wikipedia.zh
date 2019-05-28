@@ -5,7 +5,7 @@ Angels**為[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")
 
 ### 管理團隊
 
-  - 總監：[黃姿毓](https://zh.wikipedia.org/wiki/潘語婕 "wikilink")
+  - 總監：[黃姿毓](../Page/潘語婕.md "wikilink")
   - 管理：[Grace](https://www.facebook.com/Rofan.Grace)（2013-2016年[義大犀牛隊犀睛女孩](https://zh.wikipedia.org/wiki/義大犀牛 "wikilink")、犀牛天使(Rhino
     Angels)，2017年Fubon Angels成員）
 

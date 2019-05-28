@@ -177,7 +177,7 @@
 <td><p>全部</p></td>
 <td></td>
 <td><p>1920年8月23日[17]</p></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/BMT富蘭克林大道線" title="wikilink">BMT富蘭克林大道線</a>，<a href="https://zh.wikipedia.org/wiki/植物園車站_(BMT富蘭克林大道線)" title="wikilink">植物園</a>）</p></td>
+<td><p>（<a href="../Page/BMT富蘭克林大道線.md" title="wikilink">BMT富蘭克林大道線</a>，<a href="https://zh.wikipedia.org/wiki/植物園車站_(BMT富蘭克林大道線)" title="wikilink">植物園</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>慢車軌道在諾斯特蘭交匯分支往<a href="../Page/IRT諾斯特蘭大道線.md" title="wikilink">IRT諾斯特蘭大道線</a>（）</p></td>

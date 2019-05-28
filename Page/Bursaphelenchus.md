@@ -38,8 +38,7 @@ cinerea](https://zh.wikipedia.org/wiki/Botrytis_cinerea "wikilink")*）。這些
     chitwoodi](https://zh.wikipedia.org/wiki/Bursaphelenchus_chitwoodi "wikilink")*
   - *[Bursaphelenchus
     clavicauda](https://zh.wikipedia.org/wiki/Bursaphelenchus_clavicauda "wikilink")*
-  - [椰子红环腐线虫](https://zh.wikipedia.org/wiki/椰子红环腐线虫 "wikilink")
-    *[Bursaphelenchus
+  - [椰子红环腐线虫](../Page/椰子红环腐线虫.md "wikilink") *[Bursaphelenchus
     cocophilus](https://zh.wikipedia.org/wiki/Bursaphelenchus_cocophilus "wikilink")*
   - *[Bursaphelenchus
     conicaudatus](https://zh.wikipedia.org/wiki/Bursaphelenchus_conicaudatus "wikilink")*

@@ -35,7 +35,7 @@ WORTH」的石板被某人破壞，兩族互相指責對方是犯人而引發長
 
 ## OVA
 
-OVA是由[Arms製作](https://zh.wikipedia.org/wiki/Arms "wikilink")，GREEN
+OVA是由[Arms製作](../Page/Arms.md "wikilink")，GREEN
 BUNNY發售的成人動畫作品，分成VHS和DVD版本發售，1999年到2000年發售本篇共5集\[2\]，2002年發售外傳共2集。\[3\]
 
 ### 各話列表
@@ -103,7 +103,7 @@ BUNNY發售的成人動畫作品，分成VHS和DVD版本發售，1999年到2000�
   - 音響監督：岩田靖弘（VOL.1－5）、響樂士（外傳）
   - 音樂：修羅徹
   - 製作人：雅太郎、越中おさむ、Show隈部（外傳）
-  - 動畫制作：[Arms](https://zh.wikipedia.org/wiki/Arms "wikilink")
+  - 動畫制作：[Arms](../Page/Arms.md "wikilink")
   - 動畫制作協力：スタジオ九魔（外傳）
   - 製作：GREEN BUNNY
 
@@ -112,7 +112,7 @@ BUNNY發售的成人動畫作品，分成VHS和DVD版本發售，1999年到2000�
 ### 小說
 
 《WORDS
-WORTH》小說是由[三井秀樹2P擔任寫作](https://zh.wikipedia.org/wiki/三井秀樹 "wikilink")，鈴真擔任插畫，由KSS發售共5冊。
+WORTH》小說是由[三井秀樹2P擔任寫作](../Page/三井秀樹.md "wikilink")，鈴真擔任插畫，由KSS發售共5冊。
 
 <table>
 <thead>

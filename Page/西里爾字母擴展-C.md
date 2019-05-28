@@ -64,7 +64,7 @@
 
 ## 參見
 
-  - [Unicode中的西里爾字母](https://zh.wikipedia.org/wiki/Unicode中的西里爾字母 "wikilink")
+  - [Unicode中的西里爾字母](../Page/Unicode中的西里爾字母.md "wikilink")
 
 ## 參考資料
 

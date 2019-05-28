@@ -6,7 +6,7 @@
 
 [高雄市政府為推廣輕軌系統](../Page/高雄市政府.md "wikilink")，曾於2003年於[中央公園進行輕軌試乘活動](../Page/中央公園_\(高雄市\).md "wikilink")，列車部分由[西門子提供](https://zh.wikipedia.org/wiki/西門子公司 "wikilink")，因民眾踴躍搭乘而種下今日輕軌建設的種子。
 
-2013年，高雄市舉行環狀輕軌招標作業，最後由長鴻營造與CAF團隊得標，在簽約典禮後CAF隨即開始進行列車設計及號誌規劃等作業，配合高雄市的需求，CAF選擇使用無架空線之超級電容系統，並運用其在西班牙成功的案例，向高雄市政府提出了現有的計畫。首列輕軌列車於2014年8月運抵[臺中港](https://zh.wikipedia.org/wiki/臺中港 "wikilink")，由於[氣爆事故的影響](https://zh.wikipedia.org/wiki/2014年高雄氣爆事故 "wikilink")，列車抵台後暫時放置於[南機廠進行測試工作](../Page/南機廠_\(高雄\).md "wikilink")，11月正式下軌進入輕軌路線。
+2013年，高雄市舉行環狀輕軌招標作業，最後由長鴻營造與CAF團隊得標，在簽約典禮後CAF隨即開始進行列車設計及號誌規劃等作業，配合高雄市的需求，CAF選擇使用無架空線之超級電容系統，並運用其在西班牙成功的案例，向高雄市政府提出了現有的計畫。首列輕軌列車於2014年8月運抵[臺中港](https://zh.wikipedia.org/wiki/臺中港 "wikilink")，由於[氣爆事故的影響](../Page/2014年高雄氣爆事故.md "wikilink")，列車抵台後暫時放置於[南機廠進行測試工作](../Page/南機廠_\(高雄\).md "wikilink")，11月正式下軌進入輕軌路線。
 
 ## 規格與構造
 
@@ -28,9 +28,9 @@
 ## 相關條目
 
   - [高雄環狀輕軌](../Page/高雄環狀輕軌.md "wikilink")
-  - [CAF Urbos](https://zh.wikipedia.org/wiki/CAF_Urbos "wikilink")
+  - [CAF Urbos](../Page/CAF_Urbos.md "wikilink")
   - [高雄捷運環狀輕軌Citadis X-05
-    305系電聯車](https://zh.wikipedia.org/wiki/高雄捷運環狀輕軌Citadis_X-05_305系電聯車 "wikilink")
+    305系電聯車](../Page/高雄捷運環狀輕軌Citadis_X-05_305系電聯車.md "wikilink")
   - [高雄捷運高運量電聯車](../Page/高雄捷運高運量電聯車.md "wikilink")
   - [高雄捷運](../Page/高雄捷運.md "wikilink")
 

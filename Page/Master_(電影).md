@@ -14,7 +14,7 @@
   - [吳達庶](https://zh.wikipedia.org/wiki/吳達庶 "wikilink") 飾演 黃明俊
   - [陳慶](https://zh.wikipedia.org/wiki/陳慶_\(南韓\) "wikilink") 飾演 金美英 /
     金夫人
-  - [朴海秀](https://zh.wikipedia.org/wiki/朴海秀 "wikilink")
+  - [朴海秀](../Page/朴海秀.md "wikilink")
   - [李東鎮](https://zh.wikipedia.org/wiki/李東鎮 "wikilink")
   - [禹棹奐](https://zh.wikipedia.org/wiki/禹棹奐 "wikilink")
 

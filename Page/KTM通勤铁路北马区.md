@@ -1,7 +1,7 @@
 **马来亚铁道通勤铁路北马区**（）是目前[KTM通勤铁路的四条线路中的其中一个](https://zh.wikipedia.org/wiki/KTM通勤铁路 "wikilink")。怡保－巴东勿刹电气化双轨工程于2014年12月开始，并在2015年完工，同年9月11日正式开通。
 \[1\]
 
-目前北马区有两条线路分别是北海－巴东勿刹线（简称**巴东勿刹线**）和大山脚－硝山线（简称**硝山线**）[大山脚站是这两条线路的](https://zh.wikipedia.org/wiki/大山脚站 "wikilink")[转乘站](https://zh.wikipedia.org/wiki/转乘站 "wikilink")。
+目前北马区有两条线路分别是北海－巴东勿刹线（简称**巴东勿刹线**）和大山脚－硝山线（简称**硝山线**）[大山脚站是这两条线路的](../Page/大山脚站.md "wikilink")[转乘站](https://zh.wikipedia.org/wiki/转乘站 "wikilink")。
 
 ## 线路资讯
 
@@ -115,7 +115,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/大山脚站" title="wikilink">大山脚</a></strong></p></td>
+<td><p><strong><a href="../Page/大山脚站.md" title="wikilink">大山脚</a></strong></p></td>
 <td><p>2个<a href="https://zh.wikipedia.org/wiki/岛式站台" title="wikilink">岛式站台</a></p></td>
 <td><center>
 <p>●</p>
@@ -251,8 +251,8 @@
       - '''[KTM通勤铁路](https://zh.wikipedia.org/wiki/KTM通勤铁路 "wikilink")
           - [芙蓉线](../Page/芙蓉线.md "wikilink")
           - [巴生港线](../Page/巴生港线.md "wikilink")
-          - '''[北马区](https://zh.wikipedia.org/wiki/KTM通勤铁路北马区 "wikilink")
-  - [马来西亚铁路运输](https://zh.wikipedia.org/wiki/马来西亚铁路运输 "wikilink")
+          - '''[北马区](../Page/KTM通勤铁路北马区.md "wikilink")
+  - [马来西亚铁路运输](../Page/马来西亚铁路运输.md "wikilink")
 
 ## 参考文献
 

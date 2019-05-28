@@ -1,6 +1,6 @@
 **JBJ**（）是由《[PRODUCE 101
-第二季](../Page/PRODUCE_101_第二季.md "wikilink")》節目中，排名第21-30名中的7位參賽者所組成的韓國男子演唱團體，成員包括[盧太鉉](https://zh.wikipedia.org/wiki/盧太鉉 "wikilink")、[髙田健太](https://zh.wikipedia.org/wiki/高田健太 "wikilink")、[金相均](https://zh.wikipedia.org/wiki/金相均 "wikilink")、[金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink")、金泰東、[權玄彬](https://zh.wikipedia.org/wiki/權玄彬 "wikilink")、[金東漢](https://zh.wikipedia.org/wiki/金東漢 "wikilink")。金泰東因合約問題而無法加入，最終JBJ成員只有六個。JBJ原是粉絲自創的假想男团，後因反應火熱而正式與[CJ
-E\&M和](https://zh.wikipedia.org/wiki/CJ集團 "wikilink")[LOEN娛樂合作](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，以[FAVE娛樂旗下藝人的身份進行為期](https://zh.wikipedia.org/wiki/LOEN娛樂#Fave_Entertainment\(原Loen_Tree\) "wikilink")7個月的活動。2017年10月18日以第一張迷你專輯《[Fantasy](https://zh.wikipedia.org/wiki/Fantasy_\(JBJ迷你專輯\) "wikilink")》正式出道，並於當晚8點在[高麗大學化汀體育館舉行出道演唱會](../Page/高麗大學.md "wikilink")。
+第二季](../Page/PRODUCE_101_第二季.md "wikilink")》節目中，排名第21-30名中的7位參賽者所組成的韓國男子演唱團體，成員包括[盧太鉉](../Page/盧太鉉.md "wikilink")、[髙田健太](https://zh.wikipedia.org/wiki/高田健太 "wikilink")、[金相均](../Page/金相均.md "wikilink")、[金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink")、金泰東、[權玄彬](../Page/權玄彬.md "wikilink")、[金東漢](https://zh.wikipedia.org/wiki/金東漢 "wikilink")。金泰東因合約問題而無法加入，最終JBJ成員只有六個。JBJ原是粉絲自創的假想男团，後因反應火熱而正式與[CJ
+E\&M和](https://zh.wikipedia.org/wiki/CJ集團 "wikilink")[LOEN娛樂合作](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，以[FAVE娛樂旗下藝人的身份進行為期](https://zh.wikipedia.org/wiki/LOEN娛樂#Fave_Entertainment\(原Loen_Tree\) "wikilink")7個月的活動。2017年10月18日以第一張迷你專輯《[Fantasy](../Page/Fantasy_\(JBJ迷你專輯\).md "wikilink")》正式出道，並於當晚8點在[高麗大學化汀體育館舉行出道演唱會](../Page/高麗大學.md "wikilink")。
 
 JBJ意為「**Just Be
 Joyful**」（就這樣在舞台上享受吧），官方應援數字為**787**，原因是787與JBJ形狀相似，另外亦代表87名中的7（7
@@ -15,7 +15,7 @@ APP公開官方粉絲名「**Joyful**」（韓語：**조이풀**）。Joyful本
 ### 出道前
 
 在《[PRODUCE 101
-第二季](../Page/PRODUCE_101_第二季.md "wikilink")》第三次排名後，粉絲將7位未能進入前20名的高人氣參賽者[盧太鉉](https://zh.wikipedia.org/wiki/盧太鉉 "wikilink")、[髙田健太](https://zh.wikipedia.org/wiki/高田健太 "wikilink")、[金相均](https://zh.wikipedia.org/wiki/金相均 "wikilink")、[金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink")、[權玄彬](https://zh.wikipedia.org/wiki/權玄彬 "wikilink")、金泰東、[金東漢組成假想團體](https://zh.wikipedia.org/wiki/金東漢 "wikilink")「**JBJ**」（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：**제이비제이**或又稱**켄콜태균소호빈**）；因實力與節目播出份量不成正比，在一開始團名意為「**(J)拜託
+第二季](../Page/PRODUCE_101_第二季.md "wikilink")》第三次排名後，粉絲將7位未能進入前20名的高人氣參賽者[盧太鉉](../Page/盧太鉉.md "wikilink")、[髙田健太](https://zh.wikipedia.org/wiki/高田健太 "wikilink")、[金相均](../Page/金相均.md "wikilink")、[金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink")、[權玄彬](../Page/權玄彬.md "wikilink")、金泰東、[金東漢組成假想團體](https://zh.wikipedia.org/wiki/金東漢 "wikilink")「**JBJ**」（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：**제이비제이**或又稱**켄콜태균소호빈**）；因實力與節目播出份量不成正比，在一開始團名意為「**(J)拜託
 (B)分量 (J)多給點吧**」\[3\]，取至韓文首字的諧音。又有「**(J)俊英 (B)拋棄了的
 (J)小子們**」\[4\]（《[PRODUCE 101
 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》的製作人為安俊英））之義。而後JBJ的涵義為「**Just
@@ -23,7 +23,7 @@ Be Joyful**」，有著「**就這樣享受吧**」的意思，同時亦含「**
 
 由於粉絲們的大力支持與宣傳，《[PRODUCE 101
 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》製作單位[CJ
-E\&M於](https://zh.wikipedia.org/wiki/CJ集團 "wikilink")7月12日表示，未來[JBJ將由](https://zh.wikipedia.org/wiki/JBJ "wikilink")[LOEN娛樂旗下的FAVE娛樂負責專輯企劃製作與銷售](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，並負責不同公司成員的經紀，計畫於9月中旬出道；但稍晚，成員權玄彬所屬社[YG
+E\&M於](https://zh.wikipedia.org/wiki/CJ集團 "wikilink")7月12日表示，未來[JBJ將由](../Page/JBJ.md "wikilink")[LOEN娛樂旗下的FAVE娛樂負責專輯企劃製作與銷售](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")，並負責不同公司成員的經紀，計畫於9月中旬出道；但稍晚，成員權玄彬所屬社[YG
 K+則表示對於此計畫尚未同意](../Page/YG_K_Plus.md "wikilink")，並需再進行更多商議討論。\[6\]\[7\]
 
 原本一直遲遲未定案的[YG K+最終在](../Page/YG_K_Plus.md "wikilink")7月26日表示同意合流，組合將由CJ
@@ -50,22 +50,22 @@ BANK](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》取得初一位\[
 
   - **粗體字**為隊長
 
-| <big>成員資料</big>                                               |
-| ------------------------------------------------------------- |
-| 本名                                                            |
-| 漢字                                                            |
-| **[盧太鉉](https://zh.wikipedia.org/wiki/盧太鉉 "wikilink")**\[19\] |
-| [髙田健太](https://zh.wikipedia.org/wiki/高田健太 "wikilink")         |
-| [金相均](https://zh.wikipedia.org/wiki/金相均 "wikilink")\[20\]     |
-| [金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink")           |
-| [權玄彬](https://zh.wikipedia.org/wiki/權玄彬 "wikilink")\[21\]     |
-| [金東漢](https://zh.wikipedia.org/wiki/金東漢 "wikilink")\[22\]     |
+| <big>成員資料</big>                                           |
+| --------------------------------------------------------- |
+| 本名                                                        |
+| 漢字                                                        |
+| **[盧太鉉](../Page/盧太鉉.md "wikilink")**\[19\]                |
+| [髙田健太](https://zh.wikipedia.org/wiki/高田健太 "wikilink")     |
+| [金相均](../Page/金相均.md "wikilink")\[20\]                    |
+| [金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink")       |
+| [權玄彬](../Page/權玄彬.md "wikilink")\[21\]                    |
+| [金東漢](https://zh.wikipedia.org/wiki/金東漢 "wikilink")\[22\] |
 
 ## 音樂作品
 
 ### 迷你專輯
 
-  - 2017年：[Fantasy](https://zh.wikipedia.org/wiki/Fantasy_\(JBJ迷你專輯\) "wikilink")
+  - 2017年：[Fantasy](../Page/Fantasy_\(JBJ迷你專輯\).md "wikilink")
   - 2018年：[True
     Colors](https://zh.wikipedia.org/wiki/True_Colors_\(JBJ迷你專輯\) "wikilink")
 
@@ -118,7 +118,7 @@ Vlive</p></td>
 <tr class="even">
 <td><p>2017年9月28日-11月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/請多多關照_JBJ" title="wikilink">請多多關照 JBJ</a></p></td>
+<td><p><a href="../Page/請多多關照_JBJ.md" title="wikilink">請多多關照 JBJ</a></p></td>
 <td><p>共6集</p></td>
 <td><p>全員</p></td>
 </tr>
@@ -195,7 +195,7 @@ Vlive</p></td>
 <tr class="even">
 <td><p>2017年10月19日</p></td>
 <td><p>IMBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/偶像的私生活" title="wikilink">Heyo TV 偶像的私生活</a></p></td>
+<td><p><a href="../Page/偶像的私生活.md" title="wikilink">Heyo TV 偶像的私生活</a></p></td>
 <td><p>全員</p></td>
 <td><p>JBJ的私生活 第一季[36][37]</p></td>
 </tr>
@@ -308,7 +308,7 @@ Vlive</p></td>
 <tr class="even">
 <td><p>2018年1月19日 - 2月9日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/善良地活吧" title="wikilink">善良地活吧</a></p></td>
+<td><p><a href="../Page/善良地活吧.md" title="wikilink">善良地活吧</a></p></td>
 <td><p>權玄彬</p></td>
 <td></td>
 </tr>
@@ -498,14 +498,14 @@ Vlive</p></td>
 <tr class="even">
 <td><p>2017年10月18日</p></td>
 <td><p>真的很適合出道的日子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td><p><a href="../Page/高麗大學.md" title="wikilink">高麗大學化汀體育館</a></p></td>
 <td><p>出道Showcase</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年2月3日</p></td>
 <td><p>真的值得期待的演唱會</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td><p><a href="../Page/奧林匹克公園_(首爾).md" title="wikilink">奧林匹克公園體操競技場</a></p></td>
 <td><p>首次演唱會</p></td>
 </tr>
@@ -519,7 +519,7 @@ Vlive</p></td>
 <tr class="odd">
 <td><p>2018年4月21日</p></td>
 <td><p>真的值得期待的演唱會［Epilogue］</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td><p><a href="../Page/奧林匹克公園_(首爾).md" title="wikilink">奧林匹克公園SK手球競技場</a></p></td>
 <td><p>告別演唱會</p></td>
 </tr>
@@ -694,21 +694,21 @@ Vlive</p></td>
 <tr class="odd">
 <td><p>2017年11月11日</p></td>
 <td><p>2017 DDP K-POP CONCERT</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾特別市</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾特別市</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東大門設計廣場" title="wikilink">東大門設計廣場</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017年11月28日</p></td>
 <td><p>Etoos Healing Concert</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾特別市</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾特別市</a></p></td>
 <td><p><a href="../Page/高麗大學.md" title="wikilink">高麗大學花亭體育館</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年11月29日</p></td>
 <td><p>2017 MBN Hero Concert</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾特別市</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾特別市</a></p></td>
 <td><p><a href="../Page/首爾綜合運動場.md" title="wikilink">蠶室室內體育館</a></p></td>
 <td></td>
 </tr>
@@ -750,7 +750,7 @@ Vlive</p></td>
 <tr class="odd">
 <td><p>2018年2月22日</p></td>
 <td><p>2018 Let's get it! Etoos Concert</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾特別市</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾特別市</a></p></td>
 <td><p><a href="../Page/首爾綜合運動場.md" title="wikilink">蠶室學生體育館</a></p></td>
 <td><p>|</p></td>
 </tr>

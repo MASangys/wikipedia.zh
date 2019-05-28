@@ -87,7 +87,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/十文字青" title="wikilink">十文字青</a></p></td>
+<td><p><a href="../Page/十文字青.md" title="wikilink">十文字青</a></p></td>
 <td><p></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/幻冬舎" title="wikilink">幻冬舎</a></p></td>
 <td><p>2011年1月</p></td>

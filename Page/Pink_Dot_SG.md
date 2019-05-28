@@ -20,7 +20,7 @@ to love）\[2\]。其首场集会的出席人数估计有1000到2500人左右\[3
 新加坡曾为英国殖民地，其《[刑法](https://zh.wikipedia.org/wiki/新加坡刑法 "wikilink")》源自同样被英国统治的印度。原本的第377条将任何与其他人或动物进行的“非自然”性交媾行为视为违法；另一条文为第377A条，其将男性之间的“严重猥亵”（gross
 indecency）视为有罪。2007年，[新加坡国会对](https://zh.wikipedia.org/wiki/新加坡国会 "wikilink")《刑法》进行重大修订与辩论，其决定废除原有的第377条，并将[奸尸罪取而代之](https://zh.wikipedia.org/wiki/奸尸 "wikilink")，第377A条则予以保留。2013年，一对[男同性恋伴侣林明釧](https://zh.wikipedia.org/wiki/男同性恋 "wikilink")（Gary
 Lim）和朱文良（Kenneth
-Chee）以及另一名男同性恋者分别提出法律挑战，指第377A条违反《[宪法](https://zh.wikipedia.org/wiki/新加坡宪法 "wikilink")》第9条和第12条，其案件被驳回之后，[上诉庭于隔年再次驳回他们的上诉](https://zh.wikipedia.org/wiki/新加坡上诉庭 "wikilink")\[27\]\[28\]。
+Chee）以及另一名男同性恋者分别提出法律挑战，指第377A条违反《[宪法](../Page/新加坡宪法.md "wikilink")》第9条和第12条，其案件被驳回之后，[上诉庭于隔年再次驳回他们的上诉](https://zh.wikipedia.org/wiki/新加坡上诉庭 "wikilink")\[27\]\[28\]。
 
 在[跨性别人士方面](https://zh.wikipedia.org/wiki/跨性别 "wikilink")，新加坡于1971年首次进行[变性手术](https://zh.wikipedia.org/wiki/变性手术 "wikilink")，并于两年后允许已接受手术者更易合法性别\[29\]。在婚姻方面，《[妇女宪章](https://zh.wikipedia.org/wiki/妇女宪章 "wikilink")》第12条第1款规定，在结婚当天，完婚双方必须是男性与女性，意指[同性婚姻无效](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")。不过，同一条例的第2款列明，一名已通过变性手术者与异性者的婚姻永远有效，第3款也说明双方的性别以身份证上所注明为准，这代表已接受手术的变性者有权与异性通婚\[30\]。
 

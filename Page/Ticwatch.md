@@ -9,7 +9,7 @@
   - [Android
     Wear](https://zh.wikipedia.org/wiki/Android_Wear "wikilink")
   - [Pebble](../Page/Pebble.md "wikilink")
-  - [三星Gear](https://zh.wikipedia.org/wiki/三星Gear "wikilink")
+  - [三星Gear](../Page/三星Gear.md "wikilink")
   - [Sony SmartWatch](../Page/Sony_SmartWatch.md "wikilink")
   - [华为手表](../Page/华为手表.md "wikilink")
 

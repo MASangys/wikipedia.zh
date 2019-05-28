@@ -2,7 +2,7 @@
 
 ## 韓語作品
 
-  - **成員個人**發行之單曲、專輯請參見**[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")**、**[李昌燮](../Page/李昌燮.md "wikilink")**、**[李旼赫](../Page/李旼赫.md "wikilink")**，**分隊**之作品請參見**[BTOB－BLUE](https://zh.wikipedia.org/wiki/BTOB－BLUE "wikilink")**。
+  - **成員個人**發行之單曲、專輯請參見**[鄭鎰勳](../Page/鄭鎰勳.md "wikilink")**、**[李昌燮](../Page/李昌燮.md "wikilink")**、**[李旼赫](../Page/李旼赫.md "wikilink")**，**分隊**之作品請參見**[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")**。
 
 ### 正規專輯
 
@@ -420,7 +420,7 @@
 <td><p>秘密 <small>（비밀）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Born_to_Beat_(BTOB迷你專輯)" title="wikilink">父親</a> <small>（아버지）</p></td>
+<td><p><a href="../Page/Born_to_Beat_(BTOB迷你專輯).md" title="wikilink">父親</a> <small>（아버지）</p></td>
 </tr>
 <tr class="even">
 <td><p>奪走那雙唇 <small>（그 입술을 뺏었어）</p></td>
@@ -432,7 +432,7 @@
 <td><p>我只知道愛 <small>（사랑밖에 난 몰라）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/第二次告白_(BTOB單曲)" title="wikilink">第二次告白</a> <small>（두 번째 고백）</p></td>
+<td><p><a href="../Page/第二次告白_(BTOB單曲).md" title="wikilink">第二次告白</a> <small>（두 번째 고백）</p></td>
 </tr>
 <tr class="even">
 <td><p>當我是你的男人時 <small>（내가 니 남자였을때）</p></td>
@@ -711,7 +711,7 @@
 </tr>
 <tr class="even">
 <td><p>1，2，3<br />
-<small>— <a href="https://zh.wikipedia.org/wiki/BTOB－BLUE" title="wikilink">Vocal Line</a>：<a href="../Page/徐恩光.md" title="wikilink">徐恩光</a>、<a href="../Page/李昌燮.md" title="wikilink">李昌燮</a>、<a href="../Page/任炫植.md" title="wikilink">任炫植</a>、<a href="../Page/陸星材.md" title="wikilink">陸星材</a></p></td>
+<small>— <a href="../Page/BTOB－BLUE.md" title="wikilink">Vocal Line</a>：<a href="../Page/徐恩光.md" title="wikilink">徐恩光</a>、<a href="../Page/李昌燮.md" title="wikilink">李昌燮</a>、<a href="../Page/任炫植.md" title="wikilink">任炫植</a>、<a href="../Page/陸星材.md" title="wikilink">陸星材</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Like it</p></td>
@@ -773,7 +773,7 @@
 ### PIECE OF BTOB
 
 《[PIECE OF
-BTOB](https://zh.wikipedia.org/wiki/PIECE_OF_BTOB "wikilink")》是自2017年4月起，以每月一位成員推出Solo單曲的方式進行的特別企劃。
+BTOB](../Page/PIECE_OF_BTOB.md "wikilink")》是自2017年4月起，以每月一位成員推出Solo單曲的方式進行的特別企劃。
 
 <table>
 <tbody>
@@ -1076,7 +1076,7 @@ BTOB](https://zh.wikipedia.org/wiki/PIECE_OF_BTOB "wikilink")》是自2017年4�
 
 ### 成為你的Melody
 
-《成為你的Melody》是由粉絲推薦歌曲，並由成員們重新Cover的企劃，以每季、不定期的方式進行。相關頁面可參見[成為你的Melody演唱會](https://zh.wikipedia.org/wiki/成為你的Melody演唱會 "wikilink")。
+《成為你的Melody》是由粉絲推薦歌曲，並由成員們重新Cover的企劃，以每季、不定期的方式進行。相關頁面可參見[成為你的Melody演唱會](../Page/成為你的Melody演唱會.md "wikilink")。
 
 <table>
 <tbody>
@@ -1175,18 +1175,18 @@ BTOB](https://zh.wikipedia.org/wiki/PIECE_OF_BTOB "wikilink")》是自2017年4�
 
 <small>註：成員的**個人音樂作品之創作**請參見各成員頁面。</small>
 
-|                                                                     |
-| ------------------------------------------------------------------- |
-| [社團法人韓國音樂著作權協會](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink") |
-|                                                                     |
-| 成員                                                                  |
-| [李旼赫](../Page/李旼赫.md "wikilink")                                    |
-| [鄭鎰勳](../Page/鄭鎰勳.md "wikilink")                                    |
-| [任炫植](../Page/任炫植.md "wikilink")                                    |
-| [Peniel](../Page/辛東根.md "wikilink")                                 |
-| [李昌燮](../Page/李昌燮.md "wikilink")                                    |
-| [徐恩光](../Page/徐恩光.md "wikilink")                                    |
-| [陸星材](../Page/陸星材.md "wikilink")                                    |
+|                                                  |
+| ------------------------------------------------ |
+| [社團法人韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink") |
+|                                                  |
+| 成員                                               |
+| [李旼赫](../Page/李旼赫.md "wikilink")                 |
+| [鄭鎰勳](../Page/鄭鎰勳.md "wikilink")                 |
+| [任炫植](../Page/任炫植.md "wikilink")                 |
+| [Peniel](../Page/辛東根.md "wikilink")              |
+| [李昌燮](../Page/李昌燮.md "wikilink")                 |
+| [徐恩光](../Page/徐恩光.md "wikilink")                 |
+| [陸星材](../Page/陸星材.md "wikilink")                 |
 
 ### BTOB
 
@@ -1204,148 +1204,148 @@ BTOB](https://zh.wikipedia.org/wiki/PIECE_OF_BTOB "wikilink")》是自2017年4�
 | Paradise      |
 |               |
 
-|                                                                                                                                                                         |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 韓語創作列表                                                                                                                                                                  |
-| 歌曲                                                                                                                                                                      |
-| colspan=5 mw-collapsible mw-collapsed style="background:\#FFFFBB; "| 數位單曲                                                                                               |
-| [第二次告白](https://zh.wikipedia.org/wiki/第二次告白_\(BTOB單曲\) "wikilink")                                                                                                      |
-| 想要去旅行                                                                                                                                                                   |
-| 對不起                                                                                                                                                                     |
-| colspan=5 mw-collapsible mw-collapsed style="background:\#CCEEFF; "| 迷你一輯：[Born to Beat](https://zh.wikipedia.org/wiki/Born_to_Beat_\(BTOB迷你專輯\) "wikilink")（2012年4月3日） |
-| Born to Beat                                                                                                                                                            |
-| **秘密（Insane）**                                                                                                                                                          |
-| 迷你二輯：[Press Play](https://zh.wikipedia.org/wiki/Press_Play_\(BTOB迷你專輯\) "wikilink")（2012年9月12日）                                                                         |
-| 我只知道愛                                                                                                                                                                   |
-| 迷你三輯：[Thriller](../Page/Thriller_\(BTOB迷你專輯\).md "wikilink")（2013年9月9日）                                                                                                 |
-| **Thriller**                                                                                                                                                            |
-| 為什麼                                                                                                                                                                     |
-| 李旼赫、Peniel、鄭鎰勳                                                                                                                                                          |
-| Catch Me                                                                                                                                                                |
-| 像水晶一樣                                                                                                                                                                   |
-| 星                                                                                                                                                                       |
-| 李旼赫、鄭鎰勳                                                                                                                                                                 |
-| 迷你四輯：[嘀嘀叭叭](../Page/嘀嘀叭叭.md "wikilink")（2014年2月17日）                                                                                                                     |
-| Hello Mello                                                                                                                                                             |
-| 不會結束的（Melody）                                                                                                                                                           |
-| 迷你五輯：[MOVE](../Page/Move_\(BTOB迷你專輯\).md "wikilink")（2014年9月29日）                                                                                                        |
-| **你，真感動啊（You're So Fly）**                                                                                                                                               |
-| 應該過得不錯吧                                                                                                                                                                 |
-| 妳是我的天使                                                                                                                                                                  |
-| 李旼赫、Peniel                                                                                                                                                              |
-| 不知道                                                                                                                                                                     |
-| 迷你六輯：[The Winter's Tale](../Page/The_Winter's_Tale_\(BTOB迷你專輯\).md "wikilink")（2014年12月22日）                                                                             |
-| **不能哭（The Winter's Tale）**                                                                                                                                              |
-| 一口                                                                                                                                                                      |
-| 喝吧！                                                                                                                                                                     |
-| 鄭鎰勳                                                                                                                                                                     |
-| 李旼赫、Peniel                                                                                                                                                              |
-| 因為是聖誕節                                                                                                                                                                  |
-| 正規一輯：[Complete](../Page/Complete_\(BTOB專輯\).md "wikilink")（2015年6月29日）                                                                                                  |
-| Complete                                                                                                                                                                |
-| **沒關係（It's Okay）**                                                                                                                                                      |
-| 你才要好好過                                                                                                                                                                  |
-| 自賣自誇                                                                                                                                                                    |
-| Summer Romance                                                                                                                                                          |
-| 李旼赫、Peniel、鄭鎰勳                                                                                                                                                          |
-| 朋友的女朋友                                                                                                                                                                  |
-| 李旼赫                                                                                                                                                                     |
-| 花漾的她                                                                                                                                                                    |
-| 想念你                                                                                                                                                                     |
-| 李旼赫、Peniel、鄭鎰勳                                                                                                                                                          |
-| O-KI-YEO-CHA DI-YEO-CHA                                                                                                                                                 |
-| Open                                                                                                                                                                    |
-| Peniel、鄭鎰勳                                                                                                                                                              |
-| 秘密（Acoustic Ver.）                                                                                                                                                       |
-| Shake It                                                                                                                                                                |
-| 李旼赫                                                                                                                                                                     |
-| Everything's Good                                                                                                                                                       |
-| 任炫植                                                                                                                                                                     |
-| 迷你七輯：[I mean](../Page/I_mean.md "wikilink")（2015年10月12日）                                                                                                                |
-| LAST DAY                                                                                                                                                                |
-| 心臟攻擊                                                                                                                                                                    |
-| NEVERLAND                                                                                                                                                               |
-| 李旼赫、Peniel                                                                                                                                                              |
-| 除了我全都是狼                                                                                                                                                                 |
-| 李旼赫                                                                                                                                                                     |
-| 會在這裡                                                                                                                                                                    |
-| 迷你八輯：[Remember That](../Page/Remember_That.md "wikilink")（2016年3月28日）                                                                                                   |
-| Killing Me                                                                                                                                                              |
-| 李昌燮、李旼赫、Peniel、鄭鎰勳                                                                                                                                                      |
-| 試著描繪（我所畫的畫）                                                                                                                                                             |
-| **春天的記憶（Remember That）**                                                                                                                                                |
-| Anymore                                                                                                                                                                 |
-| So Pretty                                                                                                                                                               |
-| 因為像你                                                                                                                                                                    |
-| 空下位置                                                                                                                                                                    |
-| 李旼赫、Peniel、鄭鎰勳                                                                                                                                                          |
-| 迷你九輯：[NEW MEN](https://zh.wikipedia.org/wiki/New_Men_\(BTOB迷你專輯\) "wikilink")（2016年11月7日）                                                                               |
-| NEW MEN                                                                                                                                                                 |
-| **祈禱（I'll Be Your Man）**                                                                                                                                                |
-| 李旼赫、Peniel、鄭鎰勳                                                                                                                                                          |
-| 醉                                                                                                                                                                       |
-| 無聊（戳 to Me）                                                                                                                                                             |
-| YES I AM                                                                                                                                                                |
-| 來玩吧                                                                                                                                                                     |
-| 李旼赫、Peniel                                                                                                                                                              |
-| 過現未愛                                                                                                                                                                    |
-| 迷你十輯：[Feel'eM](https://zh.wikipedia.org/wiki/Feel'eM "wikilink")（2017年3月6日）                                                                                             |
-| 儘管說                                                                                                                                                                     |
-| 李旼赫、Peniel、鄭鎰勳                                                                                                                                                          |
-| **MOVIE**                                                                                                                                                               |
-| 李旼赫、Peniel                                                                                                                                                              |
-| ABOUT TIME                                                                                                                                                              |
-| 鄭鎰勳                                                                                                                                                                     |
-| 快跑（ROCK N HIPHOP）                                                                                                                                                       |
-| 總有一天（SOMEDAY）                                                                                                                                                           |
-| 李旼赫、Peniel、鄭鎰勳                                                                                                                                                          |
-| 正規二輯：[Brother Act.](https://zh.wikipedia.org/wiki/Brother_Act._\(BTOB專輯\) "wikilink")（2017年10月16日）                                                                      |
-| 序曲：一天                                                                                                                                                                   |
-| **想念（Missing You）**                                                                                                                                                     |
-| 李旼赫、Peniel、鄭鎰勳                                                                                                                                                          |
-| My Lady                                                                                                                                                                 |
-| 李旼赫、Peniel                                                                                                                                                              |
-| 彌天大謊                                                                                                                                                                    |
-| 李旼赫、Peniel、鄭鎰勳                                                                                                                                                          |
-| 興高采烈                                                                                                                                                                    |
-| 李旼赫、Peniel                                                                                                                                                              |
-| Na Na Na                                                                                                                                                                |
-| 夢裡                                                                                                                                                                      |
-| Guitar（Stroke of Love）                                                                                                                                                  |
-| Peniel、鄭鎰勳                                                                                                                                                              |
-| 遇見了離別                                                                                                                                                                   |
-| 李旼赫、Peniel、鄭鎰勳                                                                                                                                                          |
-| Fly Away                                                                                                                                                                |
-| 李旼赫、Peniel                                                                                                                                                              |
-| 終曲：我們的演唱會                                                                                                                                                               |
-| 悄悄話                                                                                                                                                                     |
-| 迷你十一輯：[THIS IS US](https://zh.wikipedia.org/wiki/THIS_IS_US_\(BTOB迷你專輯\) "wikilink")（2018年6月18日）                                                                        |
-| Call Me                                                                                                                                                                 |
-| 李旼赫、Peniel                                                                                                                                                              |
-| **不能沒有你（Only One For Me）**                                                                                                                                              |
-| 李旼赫、Peniel、鄭鎰勳                                                                                                                                                          |
-| Yeah                                                                                                                                                                    |
-| 李旼赫、Peniel                                                                                                                                                              |
-| Blue Moon                                                                                                                                                               |
-| Peniel、鄭鎰勳                                                                                                                                                              |
-| IceBreaker                                                                                                                                                              |
-| 1，2，3                                                                                                                                                                   |
-| The Feeling                                                                                                                                                             |
-| 李旼赫、Peniel                                                                                                                                                              |
-| 特別專輯：[HOUR MOMENT](../Page/HOUR_MOMENT_\(BTOB特別專輯\).md "wikilink")（2018年11月12日）                                                                                         |
-| Friend                                                                                                                                                                  |
-| 李旼赫、Peniel                                                                                                                                                              |
-| Like it                                                                                                                                                                 |
-| 李旼赫、Peniel                                                                                                                                                              |
-| 蝴蝶                                                                                                                                                                      |
-| 李旼赫、Peniel                                                                                                                                                              |
-| 拜託                                                                                                                                                                      |
-| Peniel、鄭鎰勳                                                                                                                                                              |
-| **既是美麗又痛苦的**                                                                                                                                                            |
-| 李旼赫、Peniel、鄭鎰勳                                                                                                                                                          |
-| 未有發行之歌曲                                                                                                                                                                 |
-| Hypnotized                                                                                                                                                              |
-|                                                                                                                                                                         |
+|                                                                                                                                                      |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 韓語創作列表                                                                                                                                               |
+| 歌曲                                                                                                                                                   |
+| colspan=5 mw-collapsible mw-collapsed style="background:\#FFFFBB; "| 數位單曲                                                                            |
+| [第二次告白](../Page/第二次告白_\(BTOB單曲\).md "wikilink")                                                                                                      |
+| 想要去旅行                                                                                                                                                |
+| 對不起                                                                                                                                                  |
+| colspan=5 mw-collapsible mw-collapsed style="background:\#CCEEFF; "| 迷你一輯：[Born to Beat](../Page/Born_to_Beat_\(BTOB迷你專輯\).md "wikilink")（2012年4月3日） |
+| Born to Beat                                                                                                                                         |
+| **秘密（Insane）**                                                                                                                                       |
+| 迷你二輯：[Press Play](../Page/Press_Play_\(BTOB迷你專輯\).md "wikilink")（2012年9月12日）                                                                         |
+| 我只知道愛                                                                                                                                                |
+| 迷你三輯：[Thriller](../Page/Thriller_\(BTOB迷你專輯\).md "wikilink")（2013年9月9日）                                                                              |
+| **Thriller**                                                                                                                                         |
+| 為什麼                                                                                                                                                  |
+| 李旼赫、Peniel、鄭鎰勳                                                                                                                                       |
+| Catch Me                                                                                                                                             |
+| 像水晶一樣                                                                                                                                                |
+| 星                                                                                                                                                    |
+| 李旼赫、鄭鎰勳                                                                                                                                              |
+| 迷你四輯：[嘀嘀叭叭](../Page/嘀嘀叭叭.md "wikilink")（2014年2月17日）                                                                                                  |
+| Hello Mello                                                                                                                                          |
+| 不會結束的（Melody）                                                                                                                                        |
+| 迷你五輯：[MOVE](../Page/Move_\(BTOB迷你專輯\).md "wikilink")（2014年9月29日）                                                                                     |
+| **你，真感動啊（You're So Fly）**                                                                                                                            |
+| 應該過得不錯吧                                                                                                                                              |
+| 妳是我的天使                                                                                                                                               |
+| 李旼赫、Peniel                                                                                                                                           |
+| 不知道                                                                                                                                                  |
+| 迷你六輯：[The Winter's Tale](../Page/The_Winter's_Tale_\(BTOB迷你專輯\).md "wikilink")（2014年12月22日）                                                          |
+| **不能哭（The Winter's Tale）**                                                                                                                           |
+| 一口                                                                                                                                                   |
+| 喝吧！                                                                                                                                                  |
+| 鄭鎰勳                                                                                                                                                  |
+| 李旼赫、Peniel                                                                                                                                           |
+| 因為是聖誕節                                                                                                                                               |
+| 正規一輯：[Complete](../Page/Complete_\(BTOB專輯\).md "wikilink")（2015年6月29日）                                                                               |
+| Complete                                                                                                                                             |
+| **沒關係（It's Okay）**                                                                                                                                   |
+| 你才要好好過                                                                                                                                               |
+| 自賣自誇                                                                                                                                                 |
+| Summer Romance                                                                                                                                       |
+| 李旼赫、Peniel、鄭鎰勳                                                                                                                                       |
+| 朋友的女朋友                                                                                                                                               |
+| 李旼赫                                                                                                                                                  |
+| 花漾的她                                                                                                                                                 |
+| 想念你                                                                                                                                                  |
+| 李旼赫、Peniel、鄭鎰勳                                                                                                                                       |
+| O-KI-YEO-CHA DI-YEO-CHA                                                                                                                              |
+| Open                                                                                                                                                 |
+| Peniel、鄭鎰勳                                                                                                                                           |
+| 秘密（Acoustic Ver.）                                                                                                                                    |
+| Shake It                                                                                                                                             |
+| 李旼赫                                                                                                                                                  |
+| Everything's Good                                                                                                                                    |
+| 任炫植                                                                                                                                                  |
+| 迷你七輯：[I mean](../Page/I_mean.md "wikilink")（2015年10月12日）                                                                                             |
+| LAST DAY                                                                                                                                             |
+| 心臟攻擊                                                                                                                                                 |
+| NEVERLAND                                                                                                                                            |
+| 李旼赫、Peniel                                                                                                                                           |
+| 除了我全都是狼                                                                                                                                              |
+| 李旼赫                                                                                                                                                  |
+| 會在這裡                                                                                                                                                 |
+| 迷你八輯：[Remember That](../Page/Remember_That.md "wikilink")（2016年3月28日）                                                                                |
+| Killing Me                                                                                                                                           |
+| 李昌燮、李旼赫、Peniel、鄭鎰勳                                                                                                                                   |
+| 試著描繪（我所畫的畫）                                                                                                                                          |
+| **春天的記憶（Remember That）**                                                                                                                             |
+| Anymore                                                                                                                                              |
+| So Pretty                                                                                                                                            |
+| 因為像你                                                                                                                                                 |
+| 空下位置                                                                                                                                                 |
+| 李旼赫、Peniel、鄭鎰勳                                                                                                                                       |
+| 迷你九輯：[NEW MEN](../Page/New_Men_\(BTOB迷你專輯\).md "wikilink")（2016年11月7日）                                                                               |
+| NEW MEN                                                                                                                                              |
+| **祈禱（I'll Be Your Man）**                                                                                                                             |
+| 李旼赫、Peniel、鄭鎰勳                                                                                                                                       |
+| 醉                                                                                                                                                    |
+| 無聊（戳 to Me）                                                                                                                                          |
+| YES I AM                                                                                                                                             |
+| 來玩吧                                                                                                                                                  |
+| 李旼赫、Peniel                                                                                                                                           |
+| 過現未愛                                                                                                                                                 |
+| 迷你十輯：[Feel'eM](../Page/Feel'eM.md "wikilink")（2017年3月6日）                                                                                             |
+| 儘管說                                                                                                                                                  |
+| 李旼赫、Peniel、鄭鎰勳                                                                                                                                       |
+| **MOVIE**                                                                                                                                            |
+| 李旼赫、Peniel                                                                                                                                           |
+| ABOUT TIME                                                                                                                                           |
+| 鄭鎰勳                                                                                                                                                  |
+| 快跑（ROCK N HIPHOP）                                                                                                                                    |
+| 總有一天（SOMEDAY）                                                                                                                                        |
+| 李旼赫、Peniel、鄭鎰勳                                                                                                                                       |
+| 正規二輯：[Brother Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink")（2017年10月16日）                                                                      |
+| 序曲：一天                                                                                                                                                |
+| **想念（Missing You）**                                                                                                                                  |
+| 李旼赫、Peniel、鄭鎰勳                                                                                                                                       |
+| My Lady                                                                                                                                              |
+| 李旼赫、Peniel                                                                                                                                           |
+| 彌天大謊                                                                                                                                                 |
+| 李旼赫、Peniel、鄭鎰勳                                                                                                                                       |
+| 興高采烈                                                                                                                                                 |
+| 李旼赫、Peniel                                                                                                                                           |
+| Na Na Na                                                                                                                                             |
+| 夢裡                                                                                                                                                   |
+| Guitar（Stroke of Love）                                                                                                                               |
+| Peniel、鄭鎰勳                                                                                                                                           |
+| 遇見了離別                                                                                                                                                |
+| 李旼赫、Peniel、鄭鎰勳                                                                                                                                       |
+| Fly Away                                                                                                                                             |
+| 李旼赫、Peniel                                                                                                                                           |
+| 終曲：我們的演唱會                                                                                                                                            |
+| 悄悄話                                                                                                                                                  |
+| 迷你十一輯：[THIS IS US](../Page/THIS_IS_US_\(BTOB迷你專輯\).md "wikilink")（2018年6月18日）                                                                        |
+| Call Me                                                                                                                                              |
+| 李旼赫、Peniel                                                                                                                                           |
+| **不能沒有你（Only One For Me）**                                                                                                                           |
+| 李旼赫、Peniel、鄭鎰勳                                                                                                                                       |
+| Yeah                                                                                                                                                 |
+| 李旼赫、Peniel                                                                                                                                           |
+| Blue Moon                                                                                                                                            |
+| Peniel、鄭鎰勳                                                                                                                                           |
+| IceBreaker                                                                                                                                           |
+| 1，2，3                                                                                                                                                |
+| The Feeling                                                                                                                                          |
+| 李旼赫、Peniel                                                                                                                                           |
+| 特別專輯：[HOUR MOMENT](../Page/HOUR_MOMENT_\(BTOB特別專輯\).md "wikilink")（2018年11月12日）                                                                      |
+| Friend                                                                                                                                               |
+| 李旼赫、Peniel                                                                                                                                           |
+| Like it                                                                                                                                              |
+| 李旼赫、Peniel                                                                                                                                           |
+| 蝴蝶                                                                                                                                                   |
+| 李旼赫、Peniel                                                                                                                                           |
+| 拜託                                                                                                                                                   |
+| Peniel、鄭鎰勳                                                                                                                                           |
+| **既是美麗又痛苦的**                                                                                                                                         |
+| 李旼赫、Peniel、鄭鎰勳                                                                                                                                       |
+| 未有發行之歌曲                                                                                                                                              |
+| Hypnotized                                                                                                                                           |
+|                                                                                                                                                      |
 
 <table>
 <tbody>
@@ -1457,7 +1457,7 @@ BTOB](https://zh.wikipedia.org/wiki/PIECE_OF_BTOB "wikilink")》是自2017年4�
 </tbody>
 </table>
 
-### [BTOB－BLUE](https://zh.wikipedia.org/wiki/BTOB－BLUE "wikilink")
+### [BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")
 
 |                                                        |
 | ------------------------------------------------------ |

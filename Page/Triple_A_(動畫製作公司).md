@@ -16,7 +16,7 @@ Port集團）已經沒有任何關係\[4\]。同年，Triple
 A的上色部門雖然從公司內部另獨立出「**有限公司iseriA**」，但在2010年破產。
 
 2009年5月，Triple
-A的子企業「**[株式會社C2C](https://zh.wikipedia.org/wiki/C2C_\(日本公司\) "wikilink")**」成立。而C2C是「Challenge
+A的子企業「**[株式會社C2C](../Page/C2C_\(日本公司\).md "wikilink")**」成立。而C2C是「Challenge
 To Challenge」的公司簡稱\[5\]。從此以後，Triple A以「**C2C**」的名義持續進行動畫接案。
 
 ## 獨立製作
@@ -500,7 +500,7 @@ To Challenge」的公司簡稱\[5\]。從此以後，Triple A以「**C2C**」的
 
 ## 相關項目
 
-  - [C2C](https://zh.wikipedia.org/wiki/C2C_\(日本公司\) "wikilink")
+  - [C2C](../Page/C2C_\(日本公司\).md "wikilink")
 
   - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 

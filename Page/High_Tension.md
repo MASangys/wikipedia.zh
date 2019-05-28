@@ -140,8 +140,8 @@ Tension计划”的故事\[11\]\[12\]。随着岛崎的响指，成员和其他�
   - Team B：[柏木由紀](../Page/柏木由紀.md "wikilink")（兼任NGT48 Team
     NIII、37）、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")（9）、[木崎由里亚](https://zh.wikipedia.org/wiki/木崎由里亚 "wikilink")（10）、[渡边麻友](https://zh.wikipedia.org/wiki/渡边麻友 "wikilink")（39）
   - Team
-    4：[岡田奈奈](https://zh.wikipedia.org/wiki/岡田奈奈 "wikilink")（5）、[川本紗矢](https://zh.wikipedia.org/wiki/川本紗矢 "wikilink")（4）、[小嶋真子](../Page/小嶋真子.md "wikilink")（7）、[込山榛香](https://zh.wikipedia.org/wiki/込山榛香 "wikilink")（初）、[高橋朱里](../Page/高橋朱里.md "wikilink")（7）
-  - Team 8：[小栗有以](https://zh.wikipedia.org/wiki/小栗有以 "wikilink")（初）
+    4：[岡田奈奈](https://zh.wikipedia.org/wiki/岡田奈奈 "wikilink")（5）、[川本紗矢](../Page/川本紗矢.md "wikilink")（4）、[小嶋真子](../Page/小嶋真子.md "wikilink")（7）、[込山榛香](../Page/込山榛香.md "wikilink")（初）、[高橋朱里](../Page/高橋朱里.md "wikilink")（7）
+  - Team 8：[小栗有以](../Page/小栗有以.md "wikilink")（初）
   - SKE48 Team S：[松井珠理奈](../Page/松井珠理奈.md "wikilink")（34）
   - NMB48 Team N：[山本彩](../Page/山本彩.md "wikilink")（21）
   - HKT48 Team
@@ -149,12 +149,11 @@ Tension计划”的故事\[11\]\[12\]。随着岛崎的响指，成员和其他�
     Team K、8）、[指原莉乃](../Page/指原莉乃.md "wikilink")（29）
   - HKT48 Team KIV：[宮脇咲良](../Page/宮脇咲良.md "wikilink")（兼任AKB48 Team A、13）
   - HKT48 Team TII：[松岡花](../Page/松岡花.md "wikilink")（初）
-  - NGT48 Team
-    NIII：[中井莉加](https://zh.wikipedia.org/wiki/中井莉加 "wikilink")（初）
+  - NGT48 Team NIII：[中井莉加](../Page/中井莉加.md "wikilink")（初）
 
 名单中而括号内的数字则代表该名成员进入选拔名单的次数。
 
-单曲的選抜成员是在2016年9月15日于[横滨体育馆与](https://zh.wikipedia.org/wiki/横滨体育馆 "wikilink")同时举办的演唱会《AKB48家族同时举办演唱会in横滨》中公布的\[15\]。選抜人数与上张作品相比增加了6人，达到22人。[小栗有以](https://zh.wikipedia.org/wiki/小栗有以 "wikilink")、[込山榛香](https://zh.wikipedia.org/wiki/込山榛香 "wikilink")、[中井莉加](https://zh.wikipedia.org/wiki/中井莉加 "wikilink")（（），NGT48）、[松岡花](../Page/松岡花.md "wikilink")（（），HKT48）初次进入选拔\[16\]。[入山杏奈](../Page/入山杏奈.md "wikilink")、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、[川本紗矢](https://zh.wikipedia.org/wiki/川本紗矢 "wikilink")、[木崎由里亚](https://zh.wikipedia.org/wiki/木崎由里亚 "wikilink")（）、[小嶋真子则是自](../Page/小嶋真子.md "wikilink")《[不需要翅膀](../Page/不需要翅膀.md "wikilink")》之后相隔两张作品再次进入选拔。上张单曲的选拔成员[北原里英](../Page/北原里英.md "wikilink")、[須田亚香里](https://zh.wikipedia.org/wiki/須田亚香里 "wikilink")\[17\]、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")\[18\]则没有进入这次的选拔。
+单曲的選抜成员是在2016年9月15日于[横滨体育馆与](https://zh.wikipedia.org/wiki/横滨体育馆 "wikilink")同时举办的演唱会《AKB48家族同时举办演唱会in横滨》中公布的\[15\]。選抜人数与上张作品相比增加了6人，达到22人。[小栗有以](../Page/小栗有以.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[中井莉加](../Page/中井莉加.md "wikilink")（（），NGT48）、[松岡花](../Page/松岡花.md "wikilink")（（），HKT48）初次进入选拔\[16\]。[入山杏奈](../Page/入山杏奈.md "wikilink")、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、[川本紗矢](../Page/川本紗矢.md "wikilink")、[木崎由里亚](https://zh.wikipedia.org/wiki/木崎由里亚 "wikilink")（）、[小嶋真子则是自](../Page/小嶋真子.md "wikilink")《[不需要翅膀](../Page/不需要翅膀.md "wikilink")》之后相隔两张作品再次进入选拔。上张单曲的选拔成员[北原里英](../Page/北原里英.md "wikilink")、[須田亚香里](https://zh.wikipedia.org/wiki/須田亚香里 "wikilink")\[17\]、[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")\[18\]则没有进入这次的选拔。
 
 将于2016年12月31日毕业离团的[島崎遥香是自一年半之前发行的](https://zh.wikipedia.org/wiki/島崎遥香 "wikilink")《[我们不战斗](https://zh.wikipedia.org/wiki/我们不战斗 "wikilink")》以来再次担任单曲center位置\[19\]\[20\]。
 
@@ -167,11 +166,11 @@ Circle”演唱，歌曲由aokado作曲并编曲。由土屋隆俊导演的MV中
     A：[谷口惠](../Page/谷口惠.md "wikilink")（）、[樋渡結依](../Page/樋渡結依.md "wikilink")
   - Team K：[武藤十夢](https://zh.wikipedia.org/wiki/武藤十夢 "wikilink")
   - Team
-    B：[大島涼花](../Page/大島涼花.md "wikilink")、[後藤萌咲](https://zh.wikipedia.org/wiki/後藤萌咲 "wikilink")、[福岡聖菜](https://zh.wikipedia.org/wiki/福岡聖菜 "wikilink")
+    B：[大島涼花](../Page/大島涼花.md "wikilink")、[後藤萌咲](../Page/後藤萌咲.md "wikilink")、[福岡聖菜](../Page/福岡聖菜.md "wikilink")
   - Team 4：[村山彩希](../Page/村山彩希.md "wikilink")
   - Team 8：[山田菜菜美](../Page/山田菜菜美.md "wikilink")（兼任Team
-    A）、[坂口渚沙](https://zh.wikipedia.org/wiki/坂口渚沙 "wikilink")（兼任Team
-    B）、[倉野尾成美](https://zh.wikipedia.org/wiki/倉野尾成美 "wikilink")
+    A）、[坂口渚沙](../Page/坂口渚沙.md "wikilink")（兼任Team
+    B）、[倉野尾成美](../Page/倉野尾成美.md "wikilink")
   - 研究生：[久保怜音](https://zh.wikipedia.org/wiki/久保怜音 "wikilink")、[高橋希良](https://zh.wikipedia.org/wiki/高橋希良 "wikilink")
 
 久保怜音及高橋希良是首次参加单曲唱片的录制以及MV的拍摄
@@ -187,14 +186,14 @@ Circle”演唱，歌曲由aokado作曲并编曲。由土屋隆俊导演的MV中
     B：[大島涼花](../Page/大島涼花.md "wikilink")（第12名）、[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")（举办者）、[木崎由里亚](https://zh.wikipedia.org/wiki/木崎由里亚 "wikilink")（第10名）
   - Team 4：[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")（第14名）
   - Team
-    8：[小栗有以](https://zh.wikipedia.org/wiki/小栗有以 "wikilink")（第1名）、[長久玲奈](https://zh.wikipedia.org/wiki/長久玲奈 "wikilink")（第7名）
+    8：[小栗有以](../Page/小栗有以.md "wikilink")（第1名）、[長久玲奈](https://zh.wikipedia.org/wiki/長久玲奈 "wikilink")（第7名）
   - SKE48 Team KII：[高木由麻奈](../Page/高木由麻奈.md "wikilink")（第13名）
   - SKE48 Team E：[佐藤堇](../Page/佐藤堇.md "wikilink")（（）、第6名）
   - NMB48 Team BII：[市川美織](../Page/市川美織.md "wikilink")（第2名）
   - HKT48 Team H：[田中菜津美](../Page/田中菜津美.md "wikilink")（第16名）
   - HKT48 Team TII：[松岡花](../Page/松岡花.md "wikilink")（第5名）
   - NGT48 Team
-    NIII：[中井莉加](https://zh.wikipedia.org/wiki/中井莉加 "wikilink")（第15名）、[山口真帆](https://zh.wikipedia.org/wiki/山口真帆 "wikilink")（第11名）
+    NIII：[中井莉加](../Page/中井莉加.md "wikilink")（第15名）、[山口真帆](https://zh.wikipedia.org/wiki/山口真帆 "wikilink")（第11名）
 
 ### Better
 
@@ -213,8 +212,8 @@ Circle”演唱，歌曲由aokado作曲并编曲。由土屋隆俊导演的MV中
 收录在Type-C的《將星空獻給你》由东日本出身的Team
 8成员演唱，歌曲由作曲并编曲。MV中的center是小栗有以和坂口渚沙，以下是本曲的详细演唱名单：
 
-  - Team 8：[坂口渚沙](https://zh.wikipedia.org/wiki/坂口渚沙 "wikilink")（兼任Team
-    B）、[横山結衣](https://zh.wikipedia.org/wiki/横山結衣 "wikilink")、[谷川聖](../Page/谷川聖.md "wikilink")、[佐藤七海](../Page/佐藤七海.md "wikilink")、[早坂䌷](https://zh.wikipedia.org/wiki/早坂䌷 "wikilink")（）、[佐藤朱](../Page/佐藤朱.md "wikilink")、[舞木香純](https://zh.wikipedia.org/wiki/舞木香純 "wikilink")、[岡部麟](https://zh.wikipedia.org/wiki/岡部麟 "wikilink")、[本田仁美](../Page/本田仁美.md "wikilink")、[清水麻璃亚](https://zh.wikipedia.org/wiki/清水麻璃亚 "wikilink")、[髙橋彩音](https://zh.wikipedia.org/wiki/髙橋彩音 "wikilink")、[吉川七瀬](https://zh.wikipedia.org/wiki/吉川七瀬 "wikilink")、[小栗有以](https://zh.wikipedia.org/wiki/小栗有以 "wikilink")、[小田绘里奈](https://zh.wikipedia.org/wiki/小田绘里奈 "wikilink")（）、[佐藤栞](https://zh.wikipedia.org/wiki/佐藤栞 "wikilink")、[左伴彩佳](https://zh.wikipedia.org/wiki/左伴彩佳 "wikilink")、[歌田初夏](https://zh.wikipedia.org/wiki/歌田初夏 "wikilink")、[横道侑里](https://zh.wikipedia.org/wiki/横道侑里 "wikilink")、[服部有菜](https://zh.wikipedia.org/wiki/服部有菜 "wikilink")、[野田陽菜乃](https://zh.wikipedia.org/wiki/野田陽菜乃 "wikilink")、[橋本陽菜](https://zh.wikipedia.org/wiki/橋本陽菜 "wikilink")、[長久玲奈](https://zh.wikipedia.org/wiki/長久玲奈 "wikilink")
+  - Team 8：[坂口渚沙](../Page/坂口渚沙.md "wikilink")（兼任Team
+    B）、[横山結衣](https://zh.wikipedia.org/wiki/横山結衣 "wikilink")、[谷川聖](../Page/谷川聖.md "wikilink")、[佐藤七海](../Page/佐藤七海.md "wikilink")、[早坂䌷](https://zh.wikipedia.org/wiki/早坂䌷 "wikilink")（）、[佐藤朱](../Page/佐藤朱.md "wikilink")、[舞木香純](https://zh.wikipedia.org/wiki/舞木香純 "wikilink")、[岡部麟](../Page/岡部麟.md "wikilink")、[本田仁美](../Page/本田仁美.md "wikilink")、[清水麻璃亚](https://zh.wikipedia.org/wiki/清水麻璃亚 "wikilink")、[髙橋彩音](https://zh.wikipedia.org/wiki/髙橋彩音 "wikilink")、[吉川七瀬](https://zh.wikipedia.org/wiki/吉川七瀬 "wikilink")、[小栗有以](../Page/小栗有以.md "wikilink")、[小田绘里奈](https://zh.wikipedia.org/wiki/小田绘里奈 "wikilink")（）、[佐藤栞](https://zh.wikipedia.org/wiki/佐藤栞 "wikilink")、[左伴彩佳](https://zh.wikipedia.org/wiki/左伴彩佳 "wikilink")、[歌田初夏](https://zh.wikipedia.org/wiki/歌田初夏 "wikilink")、[横道侑里](https://zh.wikipedia.org/wiki/横道侑里 "wikilink")、[服部有菜](https://zh.wikipedia.org/wiki/服部有菜 "wikilink")、[野田陽菜乃](https://zh.wikipedia.org/wiki/野田陽菜乃 "wikilink")、[橋本陽菜](https://zh.wikipedia.org/wiki/橋本陽菜 "wikilink")、[長久玲奈](https://zh.wikipedia.org/wiki/長久玲奈 "wikilink")
 
 ### 思春期的肾上腺素
 
@@ -223,8 +222,8 @@ Circle”演唱，歌曲由aokado作曲并编曲。由土屋隆俊导演的MV中
 
   - Team
     8：[永野芹佳](https://zh.wikipedia.org/wiki/永野芹佳 "wikilink")、[太田奈緒](https://zh.wikipedia.org/wiki/太田奈緒 "wikilink")、[山田菜菜美](../Page/山田菜菜美.md "wikilink")（兼任Team
-    A）、[山本瑠香](https://zh.wikipedia.org/wiki/山本瑠香 "wikilink")、[大西桃香](https://zh.wikipedia.org/wiki/大西桃香 "wikilink")、[濵咲友菜](https://zh.wikipedia.org/wiki/濵咲友菜 "wikilink")、[中野郁海](../Page/中野郁海.md "wikilink")（兼任Team
-    K）、[阿部芽唯](https://zh.wikipedia.org/wiki/阿部芽唯 "wikilink")、[人見古都音](https://zh.wikipedia.org/wiki/人見古都音 "wikilink")、[谷優里](https://zh.wikipedia.org/wiki/谷優里 "wikilink")、[下尾美羽](https://zh.wikipedia.org/wiki/下尾美羽 "wikilink")（）、[濵松里緒菜](https://zh.wikipedia.org/wiki/濵松里緒菜 "wikilink")、[行天優莉奈](https://zh.wikipedia.org/wiki/行天優莉奈 "wikilink")、[高岡薫](https://zh.wikipedia.org/wiki/高岡薫 "wikilink")、[广濑夏树](https://zh.wikipedia.org/wiki/广濑夏树 "wikilink")（）、[吉田華恋](https://zh.wikipedia.org/wiki/吉田華恋 "wikilink")、[福地礼奈](https://zh.wikipedia.org/wiki/福地礼奈 "wikilink")、[寺田美咲](https://zh.wikipedia.org/wiki/寺田美咲 "wikilink")、[倉野尾成美](https://zh.wikipedia.org/wiki/倉野尾成美 "wikilink")、[吉野未優](https://zh.wikipedia.org/wiki/吉野未優 "wikilink")、[谷口萌香](https://zh.wikipedia.org/wiki/谷口萌香 "wikilink")（）、[下青木香鈴](https://zh.wikipedia.org/wiki/下青木香鈴 "wikilink")、[宮里莉羅](https://zh.wikipedia.org/wiki/宮里莉羅 "wikilink")
+    A）、[山本瑠香](https://zh.wikipedia.org/wiki/山本瑠香 "wikilink")、[大西桃香](../Page/大西桃香.md "wikilink")、[濵咲友菜](https://zh.wikipedia.org/wiki/濵咲友菜 "wikilink")、[中野郁海](../Page/中野郁海.md "wikilink")（兼任Team
+    K）、[阿部芽唯](https://zh.wikipedia.org/wiki/阿部芽唯 "wikilink")、[人見古都音](https://zh.wikipedia.org/wiki/人見古都音 "wikilink")、[谷優里](https://zh.wikipedia.org/wiki/谷優里 "wikilink")、[下尾美羽](https://zh.wikipedia.org/wiki/下尾美羽 "wikilink")（）、[濵松里緒菜](https://zh.wikipedia.org/wiki/濵松里緒菜 "wikilink")、[行天優莉奈](https://zh.wikipedia.org/wiki/行天優莉奈 "wikilink")、[高岡薫](https://zh.wikipedia.org/wiki/高岡薫 "wikilink")、[广濑夏树](https://zh.wikipedia.org/wiki/广濑夏树 "wikilink")（）、[吉田華恋](https://zh.wikipedia.org/wiki/吉田華恋 "wikilink")、[福地礼奈](https://zh.wikipedia.org/wiki/福地礼奈 "wikilink")、[寺田美咲](https://zh.wikipedia.org/wiki/寺田美咲 "wikilink")、[倉野尾成美](../Page/倉野尾成美.md "wikilink")、[吉野未優](https://zh.wikipedia.org/wiki/吉野未優 "wikilink")、[谷口萌香](https://zh.wikipedia.org/wiki/谷口萌香 "wikilink")（）、[下青木香鈴](https://zh.wikipedia.org/wiki/下青木香鈴 "wikilink")、[宮里莉羅](https://zh.wikipedia.org/wiki/宮里莉羅 "wikilink")
 
 ### 清純疲勞
 

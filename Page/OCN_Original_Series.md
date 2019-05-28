@@ -215,7 +215,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗</a><br />
 </p></td>
 <td><p>10</p></td>
-<td><p><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/尹周熙.md" title="wikilink">尹周熙</a>、<a href="../Page/崔政宇.md" title="wikilink">崔政宇</a>、<a href="https://zh.wikipedia.org/wiki/朴俊勉" title="wikilink">朴俊勉</a>、<a href="../Page/金大鎮.md" title="wikilink">金大鎮</a></p></td>
+<td><p><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/尹周熙.md" title="wikilink">尹周熙</a>、<a href="../Page/崔政宇.md" title="wikilink">崔政宇</a>、<a href="../Page/朴俊勉.md" title="wikilink">朴俊勉</a>、<a href="../Page/金大鎮.md" title="wikilink">金大鎮</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/朴才範" title="wikilink">朴才範</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李俊亨" title="wikilink">李俊亨</a></p></td>
 <td></td>
@@ -228,7 +228,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <td><p>12</p></td>
 <td><p><a href="../Page/趙東赫.md" title="wikilink">趙東赫</a>、<a href="../Page/徐道永.md" title="wikilink">徐道永</a>、<a href="../Page/全慧彬.md" title="wikilink">全慧彬</a>、<a href="../Page/孫炳昊.md" title="wikilink">孫炳昊</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭亨秀" title="wikilink">鄭亨秀</a>、<a href="https://zh.wikipedia.org/wiki/具東熙" title="wikilink">具東熙</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金洪善" title="wikilink">金洪善</a></p></td>
+<td><p><a href="../Page/金洪善.md" title="wikilink">金洪善</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -262,7 +262,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗2</a><br />
 </p></td>
 <td><p>12</p></td>
-<td><p><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/尹周熙.md" title="wikilink">尹周熙</a>、<a href="../Page/崔政宇.md" title="wikilink">崔政宇</a>、<a href="https://zh.wikipedia.org/wiki/朴俊勉" title="wikilink">朴俊勉</a>、<a href="../Page/金大鎮.md" title="wikilink">金大鎮</a></p></td>
+<td><p><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/尹周熙.md" title="wikilink">尹周熙</a>、<a href="../Page/崔政宇.md" title="wikilink">崔政宇</a>、<a href="../Page/朴俊勉.md" title="wikilink">朴俊勉</a>、<a href="../Page/金大鎮.md" title="wikilink">金大鎮</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/朴才範" title="wikilink">朴才範</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李定杓" title="wikilink">李定杓</a></p></td>
 <td></td>
@@ -322,7 +322,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <td><p>9</p></td>
 <td><p><a href="../Page/梁東根.md" title="wikilink">梁東根</a>、<a href="../Page/韓彩雅.md" title="wikilink">韓彩雅</a>、<a href="../Page/孫炳昊.md" title="wikilink">孫炳昊</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/具東澮" title="wikilink">具東澮</a>、<a href="https://zh.wikipedia.org/wiki/金大海" title="wikilink">金大海</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金洪善" title="wikilink">金洪善</a>、<a href="../Page/金政珉.md" title="wikilink">金政珉</a></p></td>
+<td><p><a href="../Page/金洪善.md" title="wikilink">金洪善</a>、<a href="../Page/金政珉.md" title="wikilink">金政珉</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -331,7 +331,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗3</a><br />
 </p></td>
 <td><p>12</p></td>
-<td><p><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/崔政宇.md" title="wikilink">崔政宇</a>、<a href="https://zh.wikipedia.org/wiki/朴俊勉" title="wikilink">朴俊勉</a>、<a href="../Page/金大鎮.md" title="wikilink">金大鎮</a></p></td>
+<td><p><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/崔政宇.md" title="wikilink">崔政宇</a>、<a href="../Page/朴俊勉.md" title="wikilink">朴俊勉</a>、<a href="../Page/金大鎮.md" title="wikilink">金大鎮</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/朴才範" title="wikilink">朴才範</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安鎭禹" title="wikilink">安鎭禹</a></p></td>
 <td></td>
@@ -422,7 +422,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="even">
 <td><p>2014年2月9日－<br />
 2014年4月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/能看見鬼的警察處容" title="wikilink">能看見鬼的警察處容</a><br />
+<td><p><a href="../Page/能看見鬼的警察處容.md" title="wikilink">能看見鬼的警察處容</a><br />
 </p></td>
 <td><p>10</p></td>
 <td><p><a href="../Page/吳智昊.md" title="wikilink">吳智昊</a>、<a href="https://zh.wikipedia.org/wiki/吳智恩" title="wikilink">吳智恩</a>、<a href="../Page/全烋星.md" title="wikilink">全烋星</a></p></td>
@@ -436,7 +436,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗4</a><br />
 </p></td>
 <td><p>12</p></td>
-<td><p><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/尹周熙.md" title="wikilink">尹周熙</a>、<a href="https://zh.wikipedia.org/wiki/朴俊勉" title="wikilink">朴俊勉</a>、<a href="../Page/東海_(藝人).md" title="wikilink">東海</a>、<a href="../Page/金栽經.md" title="wikilink">金栽經</a></p></td>
+<td><p><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/尹周熙.md" title="wikilink">尹周熙</a>、<a href="../Page/朴俊勉.md" title="wikilink">朴俊勉</a>、<a href="../Page/東海_(藝人).md" title="wikilink">東海</a>、<a href="../Page/金栽經.md" title="wikilink">金栽經</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/朴大誠" title="wikilink">朴大誠</a>、<a href="https://zh.wikipedia.org/wiki/李對日" title="wikilink">李對日</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李民佑" title="wikilink">李民佑</a></p></td>
 <td></td>
@@ -466,7 +466,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="even">
 <td><p>2014年11月23日－<br />
 2015年2月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Frost醫生" title="wikilink">Frost醫生</a><br />
+<td><p><a href="../Page/Frost醫生.md" title="wikilink">Frost醫生</a><br />
 </p></td>
 <td><p>10</p></td>
 <td><p><a href="../Page/宋昶儀.md" title="wikilink">宋昶儀</a>、<a href="../Page/鄭恩彩.md" title="wikilink">鄭恩彩</a></p></td>
@@ -516,7 +516,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <td><p><a href="../Page/我的美麗新娘.md" title="wikilink">我的美麗新娘</a><br />
 </p></td>
 <td><p>16</p></td>
-<td><p><a href="../Page/金武烈.md" title="wikilink">金武烈</a>、<a href="../Page/李是英.md" title="wikilink">李是英</a>、<a href="https://zh.wikipedia.org/wiki/高聖熙" title="wikilink">高聖熙</a>、<a href="../Page/柳承秀.md" title="wikilink">柳承秀</a>、<a href="../Page/朴海俊.md" title="wikilink">朴海俊</a></p></td>
+<td><p><a href="../Page/金武烈.md" title="wikilink">金武烈</a>、<a href="../Page/李是英.md" title="wikilink">李是英</a>、<a href="../Page/高聖熙.md" title="wikilink">高聖熙</a>、<a href="../Page/柳承秀.md" title="wikilink">柳承秀</a>、<a href="../Page/朴海俊.md" title="wikilink">朴海俊</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劉成烈" title="wikilink">劉成烈</a></p></td>
 <td><p><a href="../Page/金哲圭.md" title="wikilink">金哲圭</a></p></td>
 <td></td>
@@ -524,10 +524,10 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="even">
 <td><p>2015年8月23日－<br />
 2015年10月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/能看見鬼的警察處容" title="wikilink">能看見鬼的警察處容2</a><br />
+<td><p><a href="../Page/能看見鬼的警察處容.md" title="wikilink">能看見鬼的警察處容2</a><br />
 </p></td>
 <td><p>10</p></td>
-<td><p><a href="../Page/吳智昊.md" title="wikilink">吳智昊</a>、<a href="../Page/全烋星.md" title="wikilink">全烋星</a>、<a href="https://zh.wikipedia.org/wiki/河戀姝" title="wikilink">河戀姝</a></p></td>
+<td><p><a href="../Page/吳智昊.md" title="wikilink">吳智昊</a>、<a href="../Page/全烋星.md" title="wikilink">全烋星</a>、<a href="../Page/河戀姝.md" title="wikilink">河戀姝</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洪勝賢" title="wikilink">洪勝賢</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/姜哲宇" title="wikilink">姜哲宇</a></p></td>
 <td></td>
@@ -624,7 +624,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 </p></td>
 <td><p>16</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/張赫" title="wikilink">張赫</a>、<a href="../Page/李荷娜.md" title="wikilink">李荷娜</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馬珍媛" title="wikilink">馬珍媛</a></p></td>
+<td><p><a href="../Page/馬珍媛.md" title="wikilink">馬珍媛</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金弘善" title="wikilink">金弘善</a></p></td>
 <td></td>
 </tr>
@@ -634,7 +634,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <td><p><a href="../Page/隧道_(電視劇).md" title="wikilink">隧道</a><br />
 </p></td>
 <td><p>16</p></td>
-<td><p><a href="../Page/崔振赫.md" title="wikilink">崔振赫</a>、<a href="https://zh.wikipedia.org/wiki/李宥英" title="wikilink">李宥英</a>、<a href="../Page/尹賢旻.md" title="wikilink">尹賢旻</a></p></td>
+<td><p><a href="../Page/崔振赫.md" title="wikilink">崔振赫</a>、<a href="../Page/李宥英.md" title="wikilink">李宥英</a>、<a href="../Page/尹賢旻.md" title="wikilink">尹賢旻</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李恩美" title="wikilink">李恩美</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/申勇輝" title="wikilink">申勇輝</a></p></td>
 <td></td>
@@ -645,7 +645,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <td><p><a href="../Page/Duel.md" title="wikilink">Duel</a><br />
 </p></td>
 <td><p>16</p></td>
-<td><p><a href="../Page/鄭在詠.md" title="wikilink">鄭在詠</a>、<a href="https://zh.wikipedia.org/wiki/金諪恩" title="wikilink">金諪恩</a>、<a href="../Page/梁世宗_(韓國).md" title="wikilink">梁世宗</a>、<a href="https://zh.wikipedia.org/wiki/徐恩秀" title="wikilink">徐恩秀</a></p></td>
+<td><p><a href="../Page/鄭在詠.md" title="wikilink">鄭在詠</a>、<a href="https://zh.wikipedia.org/wiki/金諪恩" title="wikilink">金諪恩</a>、<a href="../Page/梁世宗_(韓國).md" title="wikilink">梁世宗</a>、<a href="../Page/徐恩秀.md" title="wikilink">徐恩秀</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金允珠" title="wikilink">金允珠</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李鍾在" title="wikilink">李鍾在</a></p></td>
 <td></td>
@@ -664,7 +664,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="even">
 <td><p>2017年10月14日－<br />
 2017年12月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Black_(韓國電視劇)" title="wikilink">Black</a><br />
+<td><p><a href="../Page/Black_(韓國電視劇).md" title="wikilink">Black</a><br />
 </p></td>
 <td><p>18</p></td>
 <td><p><a href="../Page/宋承憲.md" title="wikilink">宋承憲</a>、<a href="../Page/高雅羅.md" title="wikilink">高雅羅</a>、<a href="../Page/金桐俊.md" title="wikilink">金桐俊</a>、<a href="../Page/李伊.md" title="wikilink">李伊</a></p></td>
@@ -675,7 +675,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="odd">
 <td><p>2017年12月16日－<br />
 2018年2月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/壞傢伙們：惡的都市" title="wikilink">壞傢伙們：惡的都市</a><br />
+<td><p><a href="../Page/壞傢伙們：惡的都市.md" title="wikilink">壞傢伙們：惡的都市</a><br />
 </p></td>
 <td><p>16</p></td>
 <td><p><a href="../Page/朴重勳.md" title="wikilink">朴重勳</a>、<a href="../Page/朱鎮模.md" title="wikilink">朱鎮模</a>、<a href="../Page/梁益準.md" title="wikilink">梁益準</a>、<a href="../Page/金武烈.md" title="wikilink">金武烈</a>、<a href="../Page/金志洙.md" title="wikilink">金志洙</a></p></td>
@@ -711,10 +711,10 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="even">
 <td><p>2018年3月3日－<br />
 2018年4月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小神的孩子們" title="wikilink">小神的孩子們</a><br />
+<td><p><a href="../Page/小神的孩子們.md" title="wikilink">小神的孩子們</a><br />
 </p></td>
 <td><p>16</p></td>
-<td><p><a href="../Page/姜至奐.md" title="wikilink">姜至奐</a>、<a href="../Page/金玉彬.md" title="wikilink">金玉彬</a>、<a href="https://zh.wikipedia.org/wiki/沈熙燮" title="wikilink">沈熙燮</a>、<a href="../Page/李伊利雅.md" title="wikilink">李伊利雅</a></p></td>
+<td><p><a href="../Page/姜至奐.md" title="wikilink">姜至奐</a>、<a href="../Page/金玉彬.md" title="wikilink">金玉彬</a>、<a href="../Page/沈熙燮.md" title="wikilink">沈熙燮</a>、<a href="../Page/李伊利雅.md" title="wikilink">李伊利雅</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/韓佑麗" title="wikilink">韓佑麗</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/姜信孝" title="wikilink">姜信孝</a></p></td>
 <td></td>
@@ -722,7 +722,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="odd">
 <td><p>2018年4月28日－<br />
 2018年6月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mistresses" title="wikilink">Mistresses</a><br />
+<td><p><a href="../Page/Mistresses.md" title="wikilink">Mistresses</a><br />
 </p></td>
 <td><p>12</p></td>
 <td><p><a href="../Page/韓佳人.md" title="wikilink">韓佳人</a>、<a href="../Page/申賢彬.md" title="wikilink">申賢彬</a>、<a href="../Page/崔嬉序.md" title="wikilink">崔嬉序</a>、<a href="../Page/具在伊.md" title="wikilink">具在伊</a></p></td>
@@ -733,7 +733,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="even">
 <td><p>2018年6月9日－<br />
 2018年8月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/火星生活_(韓國電視劇)" title="wikilink">火星生活</a><br />
+<td><p><a href="../Page/火星生活_(韓國電視劇).md" title="wikilink">火星生活</a><br />
 </p></td>
 <td><p>16</p></td>
 <td><p><a href="../Page/鄭敬淏.md" title="wikilink">鄭敬淏</a>、<a href="../Page/朴誠雄.md" title="wikilink">朴誠雄</a>、<a href="../Page/高我星.md" title="wikilink">高我星</a></p></td>
@@ -744,11 +744,11 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <tr class="odd">
 <td><p>2018年8月11日－<br />
 2018年9月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Voice2" title="wikilink">Voice2</a><br />
+<td><p><a href="../Page/Voice2.md" title="wikilink">Voice2</a><br />
 </p></td>
 <td><p>12</p></td>
 <td><p><a href="../Page/李陣郁.md" title="wikilink">李陣郁</a>、<a href="../Page/李荷娜.md" title="wikilink">李荷娜</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馬珍媛" title="wikilink">馬珍媛</a></p></td>
+<td><p><a href="../Page/馬珍媛.md" title="wikilink">馬珍媛</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李勝英" title="wikilink">李勝英</a></p></td>
 <td></td>
 </tr>
@@ -828,7 +828,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 </p></td>
 <td></td>
 <td><p><a href="../Page/李陣郁.md" title="wikilink">李陣郁</a>、<a href="../Page/李荷娜.md" title="wikilink">李荷娜</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馬珍媛" title="wikilink">馬珍媛</a></p></td>
+<td><p><a href="../Page/馬珍媛.md" title="wikilink">馬珍媛</a></p></td>
 <td><p>李勝英</p></td>
 <td></td>
 </tr>
@@ -876,7 +876,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <td><p><a href="../Page/神的測驗.md" title="wikilink">神的測驗：重啟</a><br />
 </p></td>
 <td><p>16</p></td>
-<td><p><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/尹周熙.md" title="wikilink">尹周熙</a>、<a href="https://zh.wikipedia.org/wiki/朴俊勉" title="wikilink">朴俊勉</a>、<a href="../Page/金載沅.md" title="wikilink">金載沅</a>、<a href="https://zh.wikipedia.org/wiki/尹寶拉" title="wikilink">尹寶拉</a>、<a href="../Page/朴孝珠.md" title="wikilink">朴孝珠</a></p></td>
+<td><p><a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/尹周熙.md" title="wikilink">尹周熙</a>、<a href="../Page/朴俊勉.md" title="wikilink">朴俊勉</a>、<a href="../Page/金載沅.md" title="wikilink">金載沅</a>、<a href="https://zh.wikipedia.org/wiki/尹寶拉" title="wikilink">尹寶拉</a>、<a href="../Page/朴孝珠.md" title="wikilink">朴孝珠</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/姜恩善" title="wikilink">姜恩善</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金鍾赫" title="wikilink">金鍾赫</a></p></td>
 <td></td>

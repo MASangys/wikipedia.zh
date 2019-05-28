@@ -1100,7 +1100,7 @@
 
       -
         作詞：藤本記子（Nostalgic Orchestra），作曲、編曲：福富雅之（Nostalgic
-        Orchestra），主唱：[宮本佳那子](https://zh.wikipedia.org/wiki/宮本佳那子 "wikilink")
+        Orchestra），主唱：[宮本佳那子](../Page/宮本佳那子.md "wikilink")
         第5話中及第49話尾作為插入曲使用。
         第6話至第10話片頭曲有使用到「光之美少女 Super Stars！」的部分畫面。
         第37話至第40話片頭曲有使用到「電影 擁抱！光之美少女光之美少女 All Stars Memories」的部分畫面。
@@ -1112,14 +1112,14 @@
 :; 「」（第1話～第17話、第19話～第21話）
 
 ::
-作詞：，作曲、編曲：睦月周平，主唱：喝采天使（[引坂理繪](https://zh.wikipedia.org/wiki/引坂理繪 "wikilink")）、聖潔天使（[本泉莉奈](../Page/本泉莉奈.md "wikilink")）、星辰天使（[小倉唯](../Page/小倉唯.md "wikilink")）
+作詞：，作曲、編曲：睦月周平，主唱：喝采天使（[引坂理繪](../Page/引坂理繪.md "wikilink")）、聖潔天使（[本泉莉奈](../Page/本泉莉奈.md "wikilink")）、星辰天使（[小倉唯](../Page/小倉唯.md "wikilink")）
 
 ::第6話和第7話片尾曲有使用到「光之美少女 Super Stars！」的部分畫面。
 
 :; 「」（第23話～第35話、第38話～第49話）
 
 ::
-作詞：六見純代，作曲、編曲：KOH，主唱：喝采天使（[引坂理繪](https://zh.wikipedia.org/wiki/引坂理繪 "wikilink")）、聖潔天使（[本泉莉奈](../Page/本泉莉奈.md "wikilink")）、星辰天使（[小倉唯](../Page/小倉唯.md "wikilink")）、摯愛天使（[田村奈央](https://zh.wikipedia.org/wiki/田村奈央 "wikilink")）、愛神天使（[田村由香里](../Page/田村由香里.md "wikilink")）
+作詞：六見純代，作曲、編曲：KOH，主唱：喝采天使（[引坂理繪](../Page/引坂理繪.md "wikilink")）、聖潔天使（[本泉莉奈](../Page/本泉莉奈.md "wikilink")）、星辰天使（[小倉唯](../Page/小倉唯.md "wikilink")）、摯愛天使（[田村奈央](../Page/田村奈央.md "wikilink")）、愛神天使（[田村由香里](../Page/田村由香里.md "wikilink")）
 
 :; 「」（第18話）
 
@@ -1127,7 +1127,7 @@
 
       -
         作詞：坪田文，作曲：藤本記子（Nostalgic Orchestra），編曲：福富雅之（Nostalgic
-        Orchestra），主唱：愛崎惠美瑠（[田村奈央](https://zh.wikipedia.org/wiki/田村奈央 "wikilink")）、露露·艾莫爾（[田村由香里](../Page/田村由香里.md "wikilink")）、藥師寺紗綾（[本泉莉奈](../Page/本泉莉奈.md "wikilink")）、輝木譽（[小倉唯](../Page/小倉唯.md "wikilink")）
+        Orchestra），主唱：愛崎惠美瑠（[田村奈央](../Page/田村奈央.md "wikilink")）、露露·艾莫爾（[田村由香里](../Page/田村由香里.md "wikilink")）、藥師寺紗綾（[本泉莉奈](../Page/本泉莉奈.md "wikilink")）、輝木譽（[小倉唯](../Page/小倉唯.md "wikilink")）
         第21、28、31、40、49話中作為插入曲使用。
 
 :; 「DANZEN！」（第22話、第36話、第37話）
@@ -1148,14 +1148,14 @@
   -
 
       -
-        作詞：[兒玉沙織](https://zh.wikipedia.org/wiki/兒玉沙織 "wikilink")，作曲、編曲：高田曉，主唱：摯愛天使（[田村奈央](https://zh.wikipedia.org/wiki/田村奈央 "wikilink")）、愛神天使（[田村由香里](../Page/田村由香里.md "wikilink")）
+        作詞：[兒玉沙織](../Page/兒玉沙織.md "wikilink")，作曲、編曲：高田曉，主唱：摯愛天使（[田村奈央](../Page/田村奈央.md "wikilink")）、愛神天使（[田村由香里](../Page/田村由香里.md "wikilink")）
 
 :; 「」（第24話、第28話、第30話、第33話、第41話）
 
   -
 
       -
-        作詞：eNu，作曲、編曲：R・O・N，主唱：愛崎惠美瑠（[田村奈央](https://zh.wikipedia.org/wiki/田村奈央 "wikilink")）、露露·艾莫爾（[田村由香里](../Page/田村由香里.md "wikilink")）
+        作詞：eNu，作曲、編曲：R・O・N，主唱：愛崎惠美瑠（[田村奈央](../Page/田村奈央.md "wikilink")）、露露·艾莫爾（[田村由香里](../Page/田村由香里.md "wikilink")）
 
 :; 「」（第36話）
 
@@ -2001,13 +2001,12 @@
 <!-- end list -->
 
   - [Super
-    Stars\!在本作播出初期上映](https://zh.wikipedia.org/wiki/光之美少女_Super_Stars! "wikilink")，因此以本作故事初期設定為準。
+    Stars\!在本作播出初期上映](../Page/光之美少女_Super_Stars!.md "wikilink")，因此以本作故事初期設定為準。
 
 <!-- end list -->
 
   -
-    [光之美少女 Super
-    Stars\!](https://zh.wikipedia.org/wiki/光之美少女_Super_Stars! "wikilink")
+    [光之美少女 Super Stars\!](../Page/光之美少女_Super_Stars!.md "wikilink")
 
 ### All Stars 系列電影
 
@@ -2018,13 +2017,13 @@
 <!-- end list -->
 
   - [All Stars
-    Memories在本作播出後期上映](https://zh.wikipedia.org/wiki/HUG！光之美少女♡光之美少女_All_Stars_Memories "wikilink")，因此以本作故事後期設定為準。
+    Memories在本作播出後期上映](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")，因此以本作故事後期設定為準。
 
 <!-- end list -->
 
   -
     [HUG！光之美少女♡光之美少女 All Stars
-    Memories](https://zh.wikipedia.org/wiki/HUG！光之美少女♡光之美少女_All_Stars_Memories "wikilink")
+    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
 
 ### Miracle Universe
 

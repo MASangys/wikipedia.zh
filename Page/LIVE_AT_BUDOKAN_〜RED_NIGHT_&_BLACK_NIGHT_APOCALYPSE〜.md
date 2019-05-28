@@ -73,7 +73,7 @@ NIGHT〜](../Page/LIVE_AT_BUDOKAN_〜BLACK_NIGHT〜.md "wikilink")》、護頸�
   - 成員
       - [大村孝佳](../Page/大村孝佳.md "wikilink") - 吉他
 
-      - [Leda](https://zh.wikipedia.org/wiki/Leda "wikilink") - 吉他
+      - [Leda](../Page/Leda.md "wikilink") - 吉他
 
       - \- 貝斯
 

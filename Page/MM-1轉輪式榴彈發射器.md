@@ -55,7 +55,7 @@ MM-1為轉輪式武器，具有重型彈巢與使彈巢發射每發榴彈以後�
   - [CZW
     SAG-30自動榴彈發射器](https://zh.wikipedia.org/wiki/CZW_SAG-30自動榴彈發射器 "wikilink")
 
-  - [丹尼爾PAW-20半自動榴彈發射器](https://zh.wikipedia.org/wiki/丹尼爾PAW-20半自動榴彈發射器 "wikilink")
+  - [丹尼爾PAW-20半自動榴彈發射器](../Page/丹尼爾PAW-20半自動榴彈發射器.md "wikilink")
 
   - [LG6半自动榴弹发射器](../Page/LG6半自动榴弹发射器.md "wikilink")
 

@@ -57,7 +57,7 @@ Squared**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/URAHARA" title="wikilink">URAHARA</a></p></td>
+<td><p><a href="../Page/URAHARA.md" title="wikilink">URAHARA</a></p></td>
 <td><p>與<a href="../Page/白組.md" title="wikilink">白組共同製作</a></p></td>
 <td></td>
 </tr>
@@ -106,7 +106,7 @@ Squared**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公�
 <td><p>Kinema Citrus</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/電波少女與錢仙大人" title="wikilink">電波少女與錢仙大人</a></p></td>
+<td><p><a href="../Page/電波少女與錢仙大人.md" title="wikilink">電波少女與錢仙大人</a></p></td>
 <td><p><a href="../Page/TMS娛樂.md" title="wikilink">TMS娛樂</a></p></td>
 <td></td>
 </tr>
@@ -127,7 +127,7 @@ Squared**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Classroom☆Crisis.md" title="wikilink">Classroom☆Crisis</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Lay-duce" title="wikilink">Lay-duce</a></p></td>
+<td><p><a href="../Page/Lay-duce.md" title="wikilink">Lay-duce</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -147,7 +147,7 @@ Squared**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公�
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宇宙巡警露露子" title="wikilink">宇宙巡警露露子</a></p></td>
+<td><p><a href="../Page/宇宙巡警露露子.md" title="wikilink">宇宙巡警露露子</a></p></td>
 <td><p><a href="../Page/TRIGGER.md" title="wikilink">TRIGGER</a></p></td>
 </tr>
 <tr class="even">

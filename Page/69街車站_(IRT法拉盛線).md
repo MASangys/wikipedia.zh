@@ -1,4 +1,4 @@
-**69街車站**（），又稱「69街-菲斯克大道車站」（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線的一個慢車](https://zh.wikipedia.org/wiki/IRT法拉盛線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")69街及的交界，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務\[1\]。
+**69街車站**（），又稱「69街-菲斯克大道車站」（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線的一個慢車](../Page/IRT法拉盛線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")69街及的交界，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務\[1\]。
 
 ## 車站結構
 
@@ -34,7 +34,7 @@
 
 此高架車站設有兩個[側式月台和三條軌道](../Page/側式月台.md "wikilink")\[2\]。中央軌道由尖峰特快列車使用\[3\]。北行月台最東端是一條已關閉的樓梯，前往軌道區下方的儲藏處。
 
-在此站以東下穿IRT法拉盛線。過去此站與[61街-伍德賽德車站設有許多橫渡線和轉轍器](https://zh.wikipedia.org/wiki/61街-伍德賽德車站_\(IRT法拉盛線\) "wikilink")。它們在2008年移除，並以[74街-百老匯車站前後的橫渡線取代](https://zh.wikipedia.org/wiki/74街-百老匯車站_\(IRT法拉盛線\) "wikilink")。新的橫渡線設計成快車軌道任何一個方向的列車都可以停靠74街車站\[4\]。
+在此站以東下穿IRT法拉盛線。過去此站與[61街-伍德賽德車站設有許多橫渡線和轉轍器](../Page/61街-伍德賽德車站_\(IRT法拉盛線\).md "wikilink")。它們在2008年移除，並以[74街-百老匯車站前後的橫渡線取代](https://zh.wikipedia.org/wiki/74街-百老匯車站_\(IRT法拉盛線\) "wikilink")。新的橫渡線設計成快車軌道任何一個方向的列車都可以停靠74街車站\[4\]。
 
 在法拉盛線以東的高架橋和布魯克林-皇后區快速道路之下是一條的軌道，由[CSX的貨運使用](https://zh.wikipedia.org/wiki/CSX "wikilink")。
 

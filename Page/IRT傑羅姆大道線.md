@@ -1,4 +1,4 @@
-**IRT傑羅姆大道線**（），非正式被稱為「IRT伍德羅恩線」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條路線，主要沿[布朗克斯的](../Page/布朗克斯.md "wikilink")行走。原初為[IRT營運的路線](../Page/跨區捷運公司.md "wikilink")，作為擴展的一部分，在1917和1918年啟用。此線是高架和地下混合的路線，[161街-洋基體育場是最南端的高架車站](https://zh.wikipedia.org/wiki/161街-洋基體育場車站 "wikilink")。路線在[伍德羅恩車站以南設有三條軌道直至](https://zh.wikipedia.org/wiki/伍德羅恩車站_\(IRT傑羅姆大道線\) "wikilink")[138街-大廣場車站](https://zh.wikipedia.org/wiki/138街-大廣場車站_\(IRT傑羅姆大道線\) "wikilink")。伍德羅恩線亦設有通往[傑羅姆車廠的軌道](https://zh.wikipedia.org/wiki/紐約地鐵車廠#傑羅姆車廠 "wikilink")，該處是4號線列車儲車地，僅僅位於[貝德福德公園林蔭路-雷曼學院車站以北](https://zh.wikipedia.org/wiki/貝德福德公園林蔭路-雷曼學院車站_\(IRT傑羅姆大道線\) "wikilink")。
+**IRT傑羅姆大道線**（），非正式被稱為「IRT伍德羅恩線」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的一條路線，主要沿[布朗克斯的](../Page/布朗克斯.md "wikilink")行走。原初為[IRT營運的路線](../Page/跨區捷運公司.md "wikilink")，作為擴展的一部分，在1917和1918年啟用。此線是高架和地下混合的路線，[161街-洋基體育場是最南端的高架車站](https://zh.wikipedia.org/wiki/161街-洋基體育場車站 "wikilink")。路線在[伍德羅恩車站以南設有三條軌道直至](https://zh.wikipedia.org/wiki/伍德羅恩車站_\(IRT傑羅姆大道線\) "wikilink")[138街-大廣場車站](https://zh.wikipedia.org/wiki/138街-大廣場車站_\(IRT傑羅姆大道線\) "wikilink")。伍德羅恩線亦設有通往[傑羅姆車廠的軌道](https://zh.wikipedia.org/wiki/紐約地鐵車廠#傑羅姆車廠 "wikilink")，該處是4號線列車儲車地，僅僅位於[貝德福德公園林蔭路-雷曼學院車站以北](../Page/貝德福德公園林蔭路-雷曼學院車站_\(IRT傑羅姆大道線\).md "wikilink")。
 
 ## 服務形式
 
@@ -113,7 +113,7 @@
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/貝德福德公園林蔭路-雷曼學院車站_(IRT傑羅姆大道線)" title="wikilink">貝德福德公園林蔭路-雷曼學院</a></p></td>
+<td><p><a href="../Page/貝德福德公園林蔭路-雷曼學院車站_(IRT傑羅姆大道線).md" title="wikilink">貝德福德公園林蔭路-雷曼學院</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -133,7 +133,7 @@
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/王橋路車站_(IRT傑羅姆大道線)" title="wikilink">王橋路</a></p></td>
+<td><p><a href="../Page/王橋路車站_(IRT傑羅姆大道線).md" title="wikilink">王橋路</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -143,7 +143,7 @@
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/福德漢姆路車站_(IRT傑羅姆大道線)" title="wikilink">福德漢姆路</a></p></td>
+<td><p><a href="../Page/福德漢姆路車站_(IRT傑羅姆大道線).md" title="wikilink">福德漢姆路</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -183,7 +183,7 @@
 <tr class="odd">
 <td><p>/ </p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/伊甸山大道車站_(IRT傑羅姆大道線)" title="wikilink">伊甸山大道</a></p></td>
+<td><p><a href="../Page/伊甸山大道車站_(IRT傑羅姆大道線).md" title="wikilink">伊甸山大道</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -217,7 +217,7 @@
 <td><p>慢車</p></td>
 <td></td>
 <td><p>1917年6月2日[12]</p></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/IND匯集線" title="wikilink">IND匯集線</a>）<br />
+<td><p>（<a href="../Page/IND匯集線.md" title="wikilink">IND匯集線</a>）<br />
 <a href="../Page/大都會北方鐵路.md" title="wikilink">大都會北方鐵路</a>，</p></td>
 <td></td>
 </tr>

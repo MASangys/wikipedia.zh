@@ -13,9 +13,9 @@ Records](https://zh.wikipedia.org/wiki/Sony_Music_Associated_Records "wikilink")
     收錄了多首B面曲和專輯收錄曲。《[瞳孔深處的銀河](https://zh.wikipedia.org/wiki/瞳孔深處的銀河 "wikilink")》發行以前的A面曲、B面曲、專輯收錄曲均被重新灌錄。
   - 新曲《只因經歷比他人更悲傷的戀愛》為此專輯的主打曲目。
   - 本作分「初回限定盤A（2CDs+2Blu-rays）」、「初回限定盤B（2CDs+2DVDs）」和「CD盤」3種版本。
-  - DVD收錄了《[太陽和向日葵](https://zh.wikipedia.org/wiki/太陽和向日葵 "wikilink")》、《[白雪公主](https://zh.wikipedia.org/wiki/白雪公主_\(Flower單曲\) "wikilink")》、《[秋風的回應](https://zh.wikipedia.org/wiki/秋風的回應 "wikilink")》、《[Blue
+  - DVD收錄了《[太陽和向日葵](../Page/太陽和向日葵.md "wikilink")》、《[白雪公主](../Page/白雪公主_\(Flower單曲\).md "wikilink")》、《[秋風的回應](https://zh.wikipedia.org/wiki/秋風的回應 "wikilink")》、《[Blue
     Sky
-    Blue](https://zh.wikipedia.org/wiki/Blue_Sky_Blue "wikilink")》、《[溫柔滿溢](https://zh.wikipedia.org/wiki/溫柔滿溢 "wikilink")》等13首單曲、B面曲《[初戀](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")》、專輯收錄曲《[let
+    Blue](https://zh.wikipedia.org/wiki/Blue_Sky_Blue "wikilink")》、《[溫柔滿溢](https://zh.wikipedia.org/wiki/溫柔滿溢 "wikilink")》等13首單曲、B面曲《[初戀](../Page/滿懷歉意的Kissing_You.md "wikilink")》、專輯收錄曲《[let
     go again feat. VERBAL
     (m-flo)](https://zh.wikipedia.org/wiki/Flower（Flower專輯） "wikilink")》、《[Dreamin'
     Together feat. Little
@@ -49,12 +49,11 @@ Records](https://zh.wikipedia.org/wiki/Sony_Music_Associated_Records "wikilink")
     （作詞・作曲：松任谷由実、編曲：Maestro-T）
       -
         4th單曲
-5.  **[太陽和向日葵](https://zh.wikipedia.org/wiki/太陽和向日葵 "wikilink")（version
-    2016）**（）
+5.  **[太陽和向日葵](../Page/太陽和向日葵.md "wikilink")（version 2016）**（）
     （作曲：Hiroki Sagawa 作詞：小竹正人、編曲：POCHI）
       -
         5th單曲
-6.  **[白雪公主](https://zh.wikipedia.org/wiki/白雪公主_\(Flower單曲\) "wikilink")（version
+6.  **[白雪公主](../Page/白雪公主_\(Flower單曲\).md "wikilink")（version
     2016）**（）
     （作詞：Masato Odake、作曲：Hiroki Sagawa from Asiatic Orchestra(Vanir)）
       -
@@ -108,12 +107,10 @@ Records](https://zh.wikipedia.org/wiki/Sony_Music_Associated_Records "wikilink")
     2016）
     :3rd單曲《forget-me-not ～勿忘我～》B面曲
 2.  [Boyfriend -Moonlight
-    version-](https://zh.wikipedia.org/wiki/太陽和向日葵 "wikilink")（version
-    2016）
+    version-](../Page/太陽和向日葵.md "wikilink")（version 2016）
       -
         5th單曲《太陽和向日葵》B面曲
-3.  [初戀](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")（version
-    2016）
+3.  [初戀](../Page/滿懷歉意的Kissing_You.md "wikilink")（version 2016）
       -
         [E-girls](https://zh.wikipedia.org/wiki/E-girls "wikilink")
         6th單曲《滿懷歉意的Kissing You》B面曲
@@ -162,7 +159,7 @@ Records](https://zh.wikipedia.org/wiki/Sony_Music_Associated_Records "wikilink")
 6.  白雪公主
 7.  初戀
 8.  [let go again feat. VERBAL
-    (m-flo)](https://zh.wikipedia.org/wiki/Flower_\(Flower專輯\) "wikilink")
+    (m-flo)](../Page/Flower_\(Flower專輯\).md "wikilink")
 9.  熱帶魚的淚
 10. 秋風的回應
 11. 再見、愛麗絲

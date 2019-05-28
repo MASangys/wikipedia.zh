@@ -181,7 +181,7 @@ e Tools会合并到同一个文件夹中。在该文件夹里，系统会优化�
 </tr>
 <tr class="even">
 <td><p>Samsung Experience 9.0</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Oreo" title="wikilink">Android 8.0.0 "Oreo"</a></p></td>
+<td><p><a href="../Page/Android_Oreo.md" title="wikilink">Android 8.0.0 "Oreo"</a></p></td>
 <td><p>2018年2月8日[19]</p></td>
 <td><p><strong>Bixby</strong></p>
 <ul>
@@ -239,7 +239,7 @@ e Tools会合并到同一个文件夹中。在该文件夹里，系统会优化�
 </tr>
 <tr class="odd">
 <td><p>Samsung Experience 9.5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Oreo" title="wikilink">Android 8.1.0 "Oreo"</a></p></td>
+<td><p><a href="../Page/Android_Oreo.md" title="wikilink">Android 8.1.0 "Oreo"</a></p></td>
 <td><p>2018年8月9日 [23]</p></td>
 <td><p><strong>Bixby 2.0</strong></p>
 <ul>

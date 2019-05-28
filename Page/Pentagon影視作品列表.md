@@ -91,17 +91,17 @@
 
 ### 固定節目
 
-|                   |                |                                                  |                                                            |         |                                                                                                                                                                                                   |                                                                   |
-| ----------------- | -------------- | ------------------------------------------------ | ---------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| 年份                | 日期             | 電視台/ 網絡頻道                                        | 節目名稱                                                       | 集數      | 參與成員                                                                                                                                                                                              | 備註                                                                |
-| 2016年             | 12月7日－12月24日   | iMBC & Heyo TV                                   | [PENTAGON的私生活](../Page/偶像的私生活.md "wikilink")               | 4       |                                                                                                                                                                                                   | \[15\]                                                            |
-| 2017年             | 5月6日－6月11日     | Cube TV                                          | Hashtag Cube                                               | 51      |                                                                                                                                                                                                   | Cube娛樂\[16\]                                                      |
-| 6月22日－7月5日        | iMBC & Heyo TV | [PENTAGON的私生活](../Page/偶像的私生活.md "wikilink") 第2季 | 3                                                          |         | \[17\]                                                                                                                                                                                            |                                                                   |
-| 12月7日－2018年1月4日   | iMBC & Heyo TV | [PENTAGON的私生活](../Page/偶像的私生活.md "wikilink") 第3季 | 3                                                          |         | \[18\]                                                                                                                                                                                            |                                                                   |
-| 2018年             | 8月23日-10月4日    | Mnet                                             | [家訪老師](https://zh.wikipedia.org/wiki/家訪老師 "wikilink") 방문교사 |         | 洪碩                                                                                                                                                                                                | 9月20日 Kino 9月27日、10月4日 Hui \[19\]                                 |
-| 9月21日－            | Mnet           | [真正的男人](../Page/真正的男人.md "wikilink") 300 (第3季)   |                                                            | 洪碩      |                                                                                                                                                                                                   |                                                                   |
-| 10月20日－11月24日     | GMTV           | 乘Bus的Busking 버스타고 버스킹                            | 6                                                          | Kino    | 11月24日 Hui 洪碩 信源 Kino 禹奭 \[20\]                                                                                                                                                                   |                                                                   |
-| 12月14日－2019年1月28日 | Youtube        | 도장깨기 Dojang Breaking                             | 9                                                          | Yeo One | <ref>{{Cite web|url=[https://www.youtube.com/channel/UCgNKSl0S9CPoNU1bkrHs8Og|title=도장깨기-dojang](https://www.youtube.com/channel/UCgNKSl0S9CPoNU1bkrHs8Og%7Ctitle=도장깨기-dojang) breaking 세상의 모든 게임 | \- YouTube|accessdate=2018-12-11|work=YouTube|language=zh}}</ref> |
+|                   |                |                                                  |                                              |         |                                                                                                                                                                                                   |                                                                   |
+| ----------------- | -------------- | ------------------------------------------------ | -------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| 年份                | 日期             | 電視台/ 網絡頻道                                        | 節目名稱                                         | 集數      | 參與成員                                                                                                                                                                                              | 備註                                                                |
+| 2016年             | 12月7日－12月24日   | iMBC & Heyo TV                                   | [PENTAGON的私生活](../Page/偶像的私生活.md "wikilink") | 4       |                                                                                                                                                                                                   | \[15\]                                                            |
+| 2017年             | 5月6日－6月11日     | Cube TV                                          | Hashtag Cube                                 | 51      |                                                                                                                                                                                                   | Cube娛樂\[16\]                                                      |
+| 6月22日－7月5日        | iMBC & Heyo TV | [PENTAGON的私生活](../Page/偶像的私生活.md "wikilink") 第2季 | 3                                            |         | \[17\]                                                                                                                                                                                            |                                                                   |
+| 12月7日－2018年1月4日   | iMBC & Heyo TV | [PENTAGON的私生活](../Page/偶像的私生活.md "wikilink") 第3季 | 3                                            |         | \[18\]                                                                                                                                                                                            |                                                                   |
+| 2018年             | 8月23日-10月4日    | Mnet                                             | [家訪老師](../Page/家訪老師.md "wikilink") 방문교사      |         | 洪碩                                                                                                                                                                                                | 9月20日 Kino 9月27日、10月4日 Hui \[19\]                                 |
+| 9月21日－            | Mnet           | [真正的男人](../Page/真正的男人.md "wikilink") 300 (第3季)   |                                              | 洪碩      |                                                                                                                                                                                                   |                                                                   |
+| 10月20日－11月24日     | GMTV           | 乘Bus的Busking 버스타고 버스킹                            | 6                                            | Kino    | 11月24日 Hui 洪碩 信源 Kino 禹奭 \[20\]                                                                                                                                                                   |                                                                   |
+| 12月14日－2019年1月28日 | Youtube        | 도장깨기 Dojang Breaking                             | 9                                            | Yeo One | <ref>{{Cite web|url=[https://www.youtube.com/channel/UCgNKSl0S9CPoNU1bkrHs8Og|title=도장깨기-dojang](https://www.youtube.com/channel/UCgNKSl0S9CPoNU1bkrHs8Og%7Ctitle=도장깨기-dojang) breaking 세상의 모든 게임 | \- YouTube|accessdate=2018-12-11|work=YouTube|language=zh}}</ref> |
 
 ### 綜藝節目
 
@@ -145,7 +145,7 @@
 <tr class="even">
 <td><p>9月11日－11月6日</p></td>
 <td><p>Mnet</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MIX_&amp;_MATCH" title="wikilink">MIX &amp; MATCH</a></p></td>
+<td><p><a href="../Page/MIX_&amp;_MATCH.md" title="wikilink">MIX &amp; MATCH</a></p></td>
 <td><p>洪碩</p></td>
 <td><p>出道前</p></td>
 </tr>
@@ -474,14 +474,14 @@
 <tr class="odd">
 <td><p>5月4日－6月8日</p></td>
 <td><p>Mnet</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BREAKERS" title="wikilink">BREAKERS</a></p></td>
+<td><p><a href="../Page/BREAKERS.md" title="wikilink">BREAKERS</a></p></td>
 <td><p>Hui</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>6月 9日</p></td>
 <td><p>JTBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Idol_Room" title="wikilink">Idol Room</a></p></td>
+<td><p><a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -601,64 +601,64 @@
 
 ## 電台節目
 
-|                       |                           |                                                                   |                      |                                |
-| --------------------- | ------------------------- | ----------------------------------------------------------------- | -------------------- | ------------------------------ |
-| 日期                    | 電視台/ 網絡頻道                 | 節目名稱                                                              | 參與成員                 | 備註                             |
-| 2016年                 |                           |                                                                   |                      |                                |
-| 10月16日                | SBS Power FM              | Cultwo Show                                                       |                      | \[56\]                         |
-| 10月22日                | SBS Power FM              | 李菊主Young Street                                                   | Kino                 | \[57\]                         |
-| 10月24日                | Arirang                   | Super K-Pop                                                       |                      | \[58\]                         |
-| 10月29日                | SBS Power FM              | 李菊主Young Street                                                   | 禹奭                   | 常駐來賓\[59\]                     |
-| 12月12日                | SBS Power FM              | 李菊主Young Street                                                   |                      | \[60\]                         |
-| 12月15日                | Arirang                   | Sound K                                                           |                      | \[61\]                         |
-| 12月25日                | KBS CoolFM                | Kiss the Radio                                                    |                      | \[62\]                         |
-| 2017年                 |                           |                                                                   |                      |                                |
-| 1月7日                  | SBS Power FM              | 朴素賢的Love Game                                                     | Yeo One、Kino         | \[63\]                         |
-| 1月16日、2月6日、4月17日、7月5日 | KBS CoolFM                | Kiss the Radio                                                    | 珍虎、信源                | \[64\] 、\[65\] 、\[66\] 、\[67\] |
-| 6月19日                 | KBS CoolFM                | Kiss the Radio                                                    |                      | \[68\]                         |
-| 7月8日                  | SBS Power FM              | 李菊主Young Street                                                   | Hui 禹奭               | \[69\]                         |
-| 7月10日                 | Arirang                   | Sound K                                                           |                      | \[70\]                         |
-| 7月17日                 | KBS CoolFM                | Kiss the Radio                                                    | 珍虎 Hui E'Dawn 信源     | \[71\]                         |
-| 9月6日                  | SBS Power FM              | NCT的night night                                                   | Hui E'Dawn           | \[72\]                         |
-| 9月16日                 | SBS Love FM               | 宋恩伊金淑姐姐家的Radio                                                    |                      | \[73\]                         |
-| 9月18日                 | Arirang                   | Super K-Pop                                                       |                      | \[74\]                         |
-| 10月2日、10月6日           | SBS Power FM              | 李菊主Young Street                                                   | 閆桉、Yuto              | \[75\]                         |
-| 10月7日                 | WBS                       | 원음방송                                                              | Hui Yeo One          | \[76\]                         |
-| 11月27日                | Arirang                   | K-Popping                                                         | A宿舍                  | \[77\]                         |
-| 12月4日                 | SBS Power FM              | 李菊主Young Street                                                   |                      | \[78\]                         |
-| 12月13日                | SBS Power FM              | NCT的night night                                                   | A宿舍                  | \[79\]                         |
-| 2018年                 |                           |                                                                   |                      |                                |
-| 4月6日                  | KBS Cool FM               | Kiss The Radio                                                    |                      |                                |
-| 4月7日                  | SBS Power FM              | 朴素賢的Love Game                                                     |                      |                                |
-| 4月11日                 | SBS Power FM              | NCT的night night                                                   | 珍虎 E'Dawn 信源 禹奭 Yuto |                                |
-| 4月15日                 | MBC FM4U                  | 池錫辰的兩點約會                                                          | 洪碩 信源                |                                |
-| 4月16日                 | Arirang                   | K-Popping                                                         |                      |                                |
-| 4月20日                 | KBS World Radio Indonesia | KBS World Radio Indonesia                                         |                      |                                |
-| 4月26日                 | SBS Power FM              | 李菊主Young Street                                                   |                      |                                |
-| 5月3日                  | MBC FM4U                  | 金信英的電台                                                            | 珍虎 Hui 禹奭            |                                |
-| 5月9日                  | Arirang                   | Super K-Pop                                                       |                      |                                |
-| 5月16日                 | MBC FM                    | KangTa's Starry Night                                             |                      |                                |
-| 7月27日                 | SBS Power FM              | 李菊主Young Street                                                   | 禹奭                   |                                |
-| 9月20日                 | SBS Power FM              | NCT的night night                                                   |                      |                                |
-| 10月4日                 | MBC Radio                 | [IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink") |                      |                                |
-| 10月11日、11月7日、12月4日    | MBC Radio                 | [IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink") | 珍虎                   |                                |
-| 11月2日                 | SBS Power FM              | NCT的night night                                                   | 禹奭                   |                                |
-| 11月11日                | MBC Radio                 | [IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink") | Hui                  |                                |
+|                       |                           |                                                |                      |                                |
+| --------------------- | ------------------------- | ---------------------------------------------- | -------------------- | ------------------------------ |
+| 日期                    | 電視台/ 網絡頻道                 | 節目名稱                                           | 參與成員                 | 備註                             |
+| 2016年                 |                           |                                                |                      |                                |
+| 10月16日                | SBS Power FM              | Cultwo Show                                    |                      | \[56\]                         |
+| 10月22日                | SBS Power FM              | 李菊主Young Street                                | Kino                 | \[57\]                         |
+| 10月24日                | Arirang                   | Super K-Pop                                    |                      | \[58\]                         |
+| 10月29日                | SBS Power FM              | 李菊主Young Street                                | 禹奭                   | 常駐來賓\[59\]                     |
+| 12月12日                | SBS Power FM              | 李菊主Young Street                                |                      | \[60\]                         |
+| 12月15日                | Arirang                   | Sound K                                        |                      | \[61\]                         |
+| 12月25日                | KBS CoolFM                | Kiss the Radio                                 |                      | \[62\]                         |
+| 2017年                 |                           |                                                |                      |                                |
+| 1月7日                  | SBS Power FM              | 朴素賢的Love Game                                  | Yeo One、Kino         | \[63\]                         |
+| 1月16日、2月6日、4月17日、7月5日 | KBS CoolFM                | Kiss the Radio                                 | 珍虎、信源                | \[64\] 、\[65\] 、\[66\] 、\[67\] |
+| 6月19日                 | KBS CoolFM                | Kiss the Radio                                 |                      | \[68\]                         |
+| 7月8日                  | SBS Power FM              | 李菊主Young Street                                | Hui 禹奭               | \[69\]                         |
+| 7月10日                 | Arirang                   | Sound K                                        |                      | \[70\]                         |
+| 7月17日                 | KBS CoolFM                | Kiss the Radio                                 | 珍虎 Hui E'Dawn 信源     | \[71\]                         |
+| 9月6日                  | SBS Power FM              | NCT的night night                                | Hui E'Dawn           | \[72\]                         |
+| 9月16日                 | SBS Love FM               | 宋恩伊金淑姐姐家的Radio                                 |                      | \[73\]                         |
+| 9月18日                 | Arirang                   | Super K-Pop                                    |                      | \[74\]                         |
+| 10月2日、10月6日           | SBS Power FM              | 李菊主Young Street                                | 閆桉、Yuto              | \[75\]                         |
+| 10月7日                 | WBS                       | 원음방송                                           | Hui Yeo One          | \[76\]                         |
+| 11月27日                | Arirang                   | K-Popping                                      | A宿舍                  | \[77\]                         |
+| 12月4日                 | SBS Power FM              | 李菊主Young Street                                |                      | \[78\]                         |
+| 12月13日                | SBS Power FM              | NCT的night night                                | A宿舍                  | \[79\]                         |
+| 2018年                 |                           |                                                |                      |                                |
+| 4月6日                  | KBS Cool FM               | Kiss The Radio                                 |                      |                                |
+| 4月7日                  | SBS Power FM              | 朴素賢的Love Game                                  |                      |                                |
+| 4月11日                 | SBS Power FM              | NCT的night night                                | 珍虎 E'Dawn 信源 禹奭 Yuto |                                |
+| 4月15日                 | MBC FM4U                  | 池錫辰的兩點約會                                       | 洪碩 信源                |                                |
+| 4月16日                 | Arirang                   | K-Popping                                      |                      |                                |
+| 4月20日                 | KBS World Radio Indonesia | KBS World Radio Indonesia                      |                      |                                |
+| 4月26日                 | SBS Power FM              | 李菊主Young Street                                |                      |                                |
+| 5月3日                  | MBC FM4U                  | 金信英的電台                                         | 珍虎 Hui 禹奭            |                                |
+| 5月9日                  | Arirang                   | Super K-Pop                                    |                      |                                |
+| 5月16日                 | MBC FM                    | KangTa's Starry Night                          |                      |                                |
+| 7月27日                 | SBS Power FM              | 李菊主Young Street                                | 禹奭                   |                                |
+| 9月20日                 | SBS Power FM              | NCT的night night                                |                      |                                |
+| 10月4日                 | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |                      |                                |
+| 10月11日、11月7日、12月4日    | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 珍虎                   |                                |
+| 11月2日                 | SBS Power FM              | NCT的night night                                | 禹奭                   |                                |
+| 11月11日                | MBC Radio                 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | Hui                  |                                |
 
-|            |             |                                                                   |        |    |
-| ---------- | ----------- | ----------------------------------------------------------------- | ------ | -- |
-| 日期         | 電視台/ 網絡頻道   | 節目名稱                                                              | 參與成員   | 備註 |
-| 2019       |             |                                                                   |        |    |
-| 2月1日、4月12日 | MBC         | [IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink") | 洪碩     |    |
-| 2月5日、3月12日 | MBC Radio   | [IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink") | 珍虎     |    |
-| 3月13日      | MBC Radio   | [IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink") | 禹奭     |    |
-| 3月27日      | MBC Radio   | [IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink") |        |    |
-| 3月28日      | KBS COOL FM | 文熙俊的Music Show                                                    |        |    |
-| 4月2日       | MBC FM4U    | 金信英的正午希望曲                                                         |        |    |
-| 4月12日      | KBS Cool FM | 朴元的Kiss the Radio                                                 | Hui 信源 |    |
-| 4月13日      | SBS PowerFM | 朴素賢的Love Game                                                     | 珍虎 禹奭  |    |
-| 4月14日      | tbs eFM     | Idol’s Dignity                                                    | 閆桉     |    |
-| 4月24日      | MBC Radio   | [IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink") | 珍虎 Hui |    |
+|            |             |                                                |        |    |
+| ---------- | ----------- | ---------------------------------------------- | ------ | -- |
+| 日期         | 電視台/ 網絡頻道   | 節目名稱                                           | 參與成員   | 備註 |
+| 2019       |             |                                                |        |    |
+| 2月1日、4月12日 | MBC         | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 洪碩     |    |
+| 2月5日、3月12日 | MBC Radio   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 珍虎     |    |
+| 3月13日      | MBC Radio   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 禹奭     |    |
+| 3月27日      | MBC Radio   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") |        |    |
+| 3月28日      | KBS COOL FM | 文熙俊的Music Show                                 |        |    |
+| 4月2日       | MBC FM4U    | 金信英的正午希望曲                                      |        |    |
+| 4月12日      | KBS Cool FM | 朴元的Kiss the Radio                              | Hui 信源 |    |
+| 4月13日      | SBS PowerFM | 朴素賢的Love Game                                  | 珍虎 禹奭  |    |
+| 4月14日      | tbs eFM     | Idol’s Dignity                                 | 閆桉     |    |
+| 4月24日      | MBC Radio   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 珍虎 Hui |    |
 
 ## 廣告代言
 

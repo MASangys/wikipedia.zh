@@ -2,7 +2,7 @@
 }}
 
 **裴柱現**（；），藝名**Irene**（，），出生于[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[大邱市](https://zh.wikipedia.org/wiki/大邱市 "wikilink")，[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[女歌手](https://zh.wikipedia.org/wiki/女歌手 "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂旗下的五人女子組合](../Page/SM娛樂.md "wikilink")[Red
-Velvet的成員兼隊長](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。
+Velvet的成員兼隊長](../Page/Red_Velvet.md "wikilink")。
 
 ## 個人生活
 
@@ -17,7 +17,7 @@ Velvet的成員兼隊長](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")�
 
 2013年4月25日，SM娛樂旗下團體[SHINee推出第三張正規專輯Chapter](../Page/SHINee.md "wikilink")
 2《[Why So Serious? - The Misconceptions Of
-Me](https://zh.wikipedia.org/wiki/Why_So_Serious?_-_The_Misconceptions_Of_Me "wikilink")》發表回歸。其中**裴柱現**出演并擔任此音樂錄影帶《Why
+Me](../Page/Why_So_Serious?_-_The_Misconceptions_Of_Me.md "wikilink")》發表回歸。其中**裴柱現**出演并擔任此音樂錄影帶《Why
 So Serious?
 》的女主角。\[3\]8月21日，SM娛樂旗下個人歌手[Henry發表首張數位單曲](../Page/劉憲華.md "wikilink")《1-4-3
 (I Love You)》，**裴柱現**再次出演MV。\[4\]12月3日，SM娛樂發佈新企劃“SM ROOKIES”。
@@ -28,16 +28,16 @@ ROOKIES再次公開第二批成員，**裴柱現**和LAMI。\[6\]
 ### 出道後
 
 2014年8月1日，以藝名**IRENE**作爲[Red
-Velvet的一員出道](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")，擔當隊長。11月，參演[Super
+Velvet的一員出道](../Page/Red_Velvet.md "wikilink")，擔當隊長。11月，參演[Super
 Junior前輩](../Page/Super_Junior.md "wikilink")[圭賢](../Page/圭賢.md "wikilink")《在光化門（At
 Gwanghwamun）》的音樂錄影帶。
 
-2015年5月1日，與[朴寶劍初次搭檔為](https://zh.wikipedia.org/wiki/朴寶劍 "wikilink")[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music
+2015年5月1日，與[朴寶劍初次搭檔為](../Page/朴寶劍.md "wikilink")[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music
 Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》的第31代MC，為首次個人主持之作。\[7\]
 
-2016年6月24日，與[朴寶劍從](https://zh.wikipedia.org/wiki/朴寶劍 "wikilink")《[Music
-Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》中下車。\[8\]7月25日，參與演出網絡劇《[遊戲公司的女職員們](https://zh.wikipedia.org/wiki/遊戲公司的女職員們 "wikilink")》，飾演雅凜（Ahreum），以本名**裴柱現**正式作爲演員出道。\[9\]10月29日，主持《Laundry
-Day》。\[10\]12月24日，與朴寶劍再次搭檔為《[KBS演藝大賞](https://zh.wikipedia.org/wiki/KBS演藝大獎 "wikilink")》的頒獎嘉賓。
+2016年6月24日，與[朴寶劍從](../Page/朴寶劍.md "wikilink")《[Music
+Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》中下車。\[8\]7月25日，參與演出網絡劇《[遊戲公司的女職員們](../Page/遊戲公司的女職員們.md "wikilink")》，飾演雅凜（Ahreum），以本名**裴柱現**正式作爲演員出道。\[9\]10月29日，主持《Laundry
+Day》。\[10\]12月24日，與朴寶劍再次搭檔為《[KBS演藝大賞](../Page/KBS演藝大獎.md "wikilink")》的頒獎嘉賓。
 
 2017年8月4日，担任[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music
 Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》的“Music Bank
@@ -62,10 +62,10 @@ World Tour in Jakarta”的MC。\[12\]
 
 ### 網絡劇
 
-|        |                                             |                                                                   |        |        |
-| ------ | ------------------------------------------- | ----------------------------------------------------------------- | ------ | ------ |
-| **年份** | **電視台**                                     | **劇名**                                                            | **角色** | **性質** |
-| 2016年  | [Naver TVcast](../Page/NAVER.md "wikilink") | 《[遊戲公司的女職員們](https://zh.wikipedia.org/wiki/遊戲公司的女職員們 "wikilink")》 | 雅凜     | 女主角    |
+|        |                                             |                                                |        |        |
+| ------ | ------------------------------------------- | ---------------------------------------------- | ------ | ------ |
+| **年份** | **電視台**                                     | **劇名**                                         | **角色** | **性質** |
+| 2016年  | [Naver TVcast](../Page/NAVER.md "wikilink") | 《[遊戲公司的女職員們](../Page/遊戲公司的女職員們.md "wikilink")》 | 雅凜     | 女主角    |
 
 ### 個人參與音樂錄影帶
 
@@ -110,7 +110,7 @@ SR14G</p></td>
 <tr class="even">
 <td><p>2017</p></td>
 <td><p>Would U</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=Nu7OmSqHVng">《Would U》MV</a></p></td>
 <td><p>《<a href="../Page/SM_STATION.md" title="wikilink">SM STATIONS</a>2》<br />
 与<a href="https://zh.wikipedia.org/wiki/金旻载" title="wikilink">金旻载出演</a></p></td>
@@ -122,12 +122,12 @@ SR14G</p></td>
 
 ### 固定出演
 
-|                         |                                                               |                                                                       |        |
-| ----------------------- | ------------------------------------------------------------- | --------------------------------------------------------------------- | ------ |
-| **播出日期**                | **電視台**                                                       | **節目名稱**                                                              | **備註** |
-| 2016年6月27日 - 7月11日      | [KBS1](https://zh.wikipedia.org/wiki/KBS1 "wikilink")         | 《》                                                                    | 與      |
-| 2016年10月25日 - 11月16日    | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")         | 《[TRICK\&TRUE](https://zh.wikipedia.org/wiki/TRICK&TRUE "wikilink")》  | 固定嘉賓   |
-| 2016年10月29日 - 2017年1月7日 | [On Style](https://zh.wikipedia.org/wiki/On_Style "wikilink") | 《[Laundry Day](https://zh.wikipedia.org/wiki/Laundry_Day "wikilink")》 | 固定MC   |
+|                         |                                                               |                                                    |        |
+| ----------------------- | ------------------------------------------------------------- | -------------------------------------------------- | ------ |
+| **播出日期**                | **電視台**                                                       | **節目名稱**                                           | **備註** |
+| 2016年6月27日 - 7月11日      | [KBS1](https://zh.wikipedia.org/wiki/KBS1 "wikilink")         | 《》                                                 | 與      |
+| 2016年10月25日 - 11月16日    | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")         | 《[TRICK\&TRUE](../Page/TRICK&TRUE.md "wikilink")》  | 固定嘉賓   |
+| 2016年10月29日 - 2017年1月7日 | [On Style](https://zh.wikipedia.org/wiki/On_Style "wikilink") | 《[Laundry Day](../Page/Laundry_Day.md "wikilink")》 | 固定MC   |
 
 ### 單次訪問/嘉賓出演
 
@@ -158,8 +158,8 @@ SR14G</p></td>
 <tr class="even">
 <td><p>6月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/演藝家中介" title="wikilink">演藝家中介</a>》</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a></p></td>
+<td><p>《<a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a>》</p></td>
+<td><p>與<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -204,11 +204,11 @@ SR14G</p></td>
 
 ### 音樂節目
 
-|                        |                                                           |                                                         |                  |
-| ---------------------- | --------------------------------------------------------- | ------------------------------------------------------- | ---------------- |
-| **放送日期**               | **電視臺**                                                   | **節目名稱**                                                | **備註**           |
-| 2015年4月17日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")     | 《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》 | 與Seulgi擔任待機室特別MC |
-| 2015年5月1日 ─ 2016年6月24日 | 與[朴寶劍为固定MC](https://zh.wikipedia.org/wiki/朴寶劍 "wikilink") |                                                         |                  |
+|                        |                                                       |                                                         |                  |
+| ---------------------- | ----------------------------------------------------- | ------------------------------------------------------- | ---------------- |
+| **放送日期**               | **電視臺**                                               | **節目名稱**                                                | **備註**           |
+| 2015年4月17日             | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | 《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》 | 與Seulgi擔任待機室特別MC |
+| 2015年5月1日 ─ 2016年6月24日 | 與[朴寶劍为固定MC](../Page/朴寶劍.md "wikilink")                |                                                         |                  |
 
 ### 活動/頒獎典禮
 
@@ -234,12 +234,12 @@ SR14G</p></td>
 <td><p>2016年12月24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a>《<a href="https://zh.wikipedia.org/wiki/KBS演藝大賞" title="wikilink">KBS演藝大賞</a>2016》</p></td>
 <td><p>頒獎嘉賓</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a></p></td>
+<td><p><a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2016年12月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a>《<a href="https://zh.wikipedia.org/wiki/KBS歌謠盛典" title="wikilink">KBS歌謠盛典</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a>《<a href="../Page/KBS歌謠盛典.md" title="wikilink">KBS歌謠盛典</a>》</p></td>
 <td><p>特別MC</p></td>
 <td><p>代替節目中前去準備表演的<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td></td>
@@ -247,7 +247,7 @@ SR14G</p></td>
 <tr class="odd">
 <td><p>2017年3月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a> 《KCON 2017 in Mexico》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">SEULGI</a>（<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>）</p></td>
+<td><p><a href="../Page/瑟琪.md" title="wikilink">SEULGI</a>（<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）</p></td>
 <td><p>2017年3月18日錄製</p></td>
 <td></td>
 </tr>
@@ -255,7 +255,7 @@ SR14G</p></td>
 <td><p>2017年8月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a>《<a href="https://zh.wikipedia.org/wiki/音乐银行" title="wikilink">Music Bank</a> World Tour in Singapore》</p></td>
 <td><p>MC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a></p></td>
+<td><p><a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a></p></td>
 <td><p>2017年8月4日錄製[15]</p></td>
 </tr>
 <tr class="odd">
@@ -288,7 +288,7 @@ SR14G</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年12月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 2017《<a href="https://zh.wikipedia.org/wiki/KBS歌謠盛典" title="wikilink">KBS歌謠盛典</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a> 2017《<a href="../Page/KBS歌謠盛典.md" title="wikilink">KBS歌謠盛典</a>》</p></td>
 <td><p>上部MC</p></td>
 <td><p><a href="../Page/Chanyeol.md" title="wikilink">燦烈</a>（<a href="../Page/EXO.md" title="wikilink">EXO</a>）、<a href="../Page/金碩珍.md" title="wikilink">Jin</a>（<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>）、<a href="../Page/Sana_(TWICE).md" title="wikilink">Sana</a>（<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>）[16]</p></td>
 <td></td>
@@ -307,15 +307,15 @@ SR14G</p></td>
 
 ### 合作舞臺
 
-|        |                                                                         |                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                               |
-| ------ | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| **年份** | **表演日期**                                                                | **節目名稱**                                                                                                                                                                    | **合作藝人**                                                                                                                                                                                                                                                                                                                                                                                                                         | **影片**                                                                        |
-| 2015年  | 5月1日                                                                    | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》                                                          | [朴寶劍](https://zh.wikipedia.org/wiki/朴寶劍 "wikilink")                                                                                                                                                                                                                                                                                                                                                                              | [《일과 이분의 일（One And Half）》 Video](https://www.youtube.com/watch?v=v3rY6QWl_uc) |
-| 12月25日 | [《Jingle Bell Rock》 Video](https://www.youtube.com/watch?v=Ycj7q5IKMP8) |                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                                                  |                                                                               |
-| 12月30日 | [KBS歌謠盛典](https://zh.wikipedia.org/wiki/KBS歌謠盛典 "wikilink")             | [Seulgi](https://zh.wikipedia.org/wiki/Seulgi "wikilink")、[Yerin](../Page/Yerin.md "wikilink")、[Yuju](../Page/Yuju.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")） | [《I Don't Know What Love Is Yet》 Video](https://www.youtube.com/watch?v=dz7EPPHtgow)                                                                                                                                                                                                                                                                                                                                             |                                                                               |
-| 12月31日 | MBC歌謠大祭典                                                                | [Seulgi](https://zh.wikipedia.org/wiki/Seulgi "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")                                                               | [《너를 사랑해》 Video](https://www.youtube.com/watch?v=sVCjV_GnL-U)                                                                                                                                                                                                                                                                                                                                                                    |                                                                               |
-| 2016年  | 6月24日                                                                   | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》                                                          | [朴寶劍](https://zh.wikipedia.org/wiki/朴寶劍 "wikilink")                                                                                                                                                                                                                                                                                                                                                                              | [《45.7cm》 Video](https://www.youtube.com/watch?v=wGCg8yyKFsc)                 |
-| 2018年  | 12月25日                                                                  | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                                                                                                                    | [SeulGi](https://zh.wikipedia.org/wiki/SeulGi "wikilink")、[Joy](https://zh.wikipedia.org/wiki/Joy "wikilink")([Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink"))、[MoMo](../Page/Momo_\(TWICE\).md "wikilink")（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）、[彩瑛](../Page/彩瑛.md "wikilink")、[子瑜](https://zh.wikipedia.org/wiki/子瑜 "wikilink")([Twice](https://zh.wikipedia.org/wiki/Twice "wikilink")) | [《Dreams Come True》 Video](https://www.youtube.com/watch?v=C7BJJSfJrlg)       |
+|        |                                                                         |                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                               |
+| ------ | ----------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| **年份** | **表演日期**                                                                | **節目名稱**                                                                                                                                                                    | **合作藝人**                                                                                                                                                                                                                                                                                                                                                                                                      | **影片**                                                                        |
+| 2015年  | 5月1日                                                                    | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》                                                          | [朴寶劍](../Page/朴寶劍.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                              | [《일과 이분의 일（One And Half）》 Video](https://www.youtube.com/watch?v=v3rY6QWl_uc) |
+| 12月25日 | [《Jingle Bell Rock》 Video](https://www.youtube.com/watch?v=Ycj7q5IKMP8) |                                                                                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                                               |                                                                               |
+| 12月30日 | [KBS歌謠盛典](../Page/KBS歌謠盛典.md "wikilink")                                | [Seulgi](https://zh.wikipedia.org/wiki/Seulgi "wikilink")、[Yerin](../Page/Yerin.md "wikilink")、[Yuju](../Page/Yuju.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")） | [《I Don't Know What Love Is Yet》 Video](https://www.youtube.com/watch?v=dz7EPPHtgow)                                                                                                                                                                                                                                                                                                                          |                                                                               |
+| 12月31日 | MBC歌謠大祭典                                                                | [Seulgi](https://zh.wikipedia.org/wiki/Seulgi "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")                                                               | [《너를 사랑해》 Video](https://www.youtube.com/watch?v=sVCjV_GnL-U)                                                                                                                                                                                                                                                                                                                                                 |                                                                               |
+| 2016年  | 6月24日                                                                   | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》                                                          | [朴寶劍](../Page/朴寶劍.md "wikilink")                                                                                                                                                                                                                                                                                                                                                                              | [《45.7cm》 Video](https://www.youtube.com/watch?v=wGCg8yyKFsc)                 |
+| 2018年  | 12月25日                                                                  | [SBS歌謠大戰](../Page/SBS歌謠大戰.md "wikilink")                                                                                                                                    | [SeulGi](https://zh.wikipedia.org/wiki/SeulGi "wikilink")、[Joy](https://zh.wikipedia.org/wiki/Joy "wikilink")([Red Velvet](../Page/Red_Velvet.md "wikilink"))、[MoMo](../Page/Momo_\(TWICE\).md "wikilink")（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）、[彩瑛](../Page/彩瑛.md "wikilink")、[子瑜](https://zh.wikipedia.org/wiki/子瑜 "wikilink")([Twice](https://zh.wikipedia.org/wiki/Twice "wikilink")) | [《Dreams Come True》 Video](https://www.youtube.com/watch?v=C7BJJSfJrlg)       |
 
 ### 見面/簽名會
 
@@ -373,7 +373,7 @@ SR14G</p></td>
 
   -
     <small>——團體代言請參閱 [Red
-    Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")</small>
+    Velvet](../Page/Red_Velvet.md "wikilink")</small>
 
 ### 品牌代言
 
@@ -416,7 +416,7 @@ SR14G</p></td>
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
-<td><p>第14届<a href="https://zh.wikipedia.org/wiki/KBS演藝大獎" title="wikilink">KBS演艺大赏</a></p></td>
+<td><p>第14届<a href="../Page/KBS演藝大獎.md" title="wikilink">KBS演艺大赏</a></p></td>
 <td><p>Show娱乐部门最佳新人女子赏</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/音乐银行" title="wikilink">音乐银行</a>》</p></td>
 <td></td>

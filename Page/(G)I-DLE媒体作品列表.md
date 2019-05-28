@@ -118,7 +118,7 @@
 <tr class="even">
 <td><p>2018年9月28日</p></td>
 <td><p>Wow Thing</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">康瑟琪</a>、<a href="../Page/SinB.md" title="wikilink">黄恩妃</a>、<a href="https://zh.wikipedia.org/wiki/金请夏" title="wikilink">金请夏</a>、<a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a></p></td>
+<td><p><a href="../Page/瑟琪.md" title="wikilink">康瑟琪</a>、<a href="../Page/SinB.md" title="wikilink">黄恩妃</a>、<a href="https://zh.wikipedia.org/wiki/金请夏" title="wikilink">金请夏</a>、<a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a></p></td>
 <td><p>小娟</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=KR5CtMLuiqQ">官方视频</a></p></td>
 </tr>
@@ -448,7 +448,7 @@
 <tr class="even">
 <td><p>1月10日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC标准FM" title="wikilink">MBC标准FM</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IDOL_RADIO" title="wikilink">IDOL RADIO</a></p></td>
+<td><p><a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a></p></td>
 <td><p><a href="../Page/鄭鎰勳.md" title="wikilink">鄭鎰勳</a></p></td>
 <td><p>舒华</p></td>
 </tr>

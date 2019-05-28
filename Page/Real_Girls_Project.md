@@ -1,5 +1,5 @@
 **Real Girls
-Project**（，简称：**R.G.P**），因韓國電視劇《[偶像大師.KR-追逐夢想](../Page/偶像大師.KR.md "wikilink")》於2016年8月成立的韓國十人女子企劃組合，推出時成員包括[素麗](https://zh.wikipedia.org/wiki/CocoSori#成员档案 "wikilink")、[憐朱](../Page/許憐朱.md "wikilink")、[來可](../Page/寺本來可.md "wikilink")、蕸書、智元、[Mint](https://zh.wikipedia.org/wiki/Tiny-G#成员资料 "wikilink")、何奈星、睿恩、[秀智](https://zh.wikipedia.org/wiki/李绣至 "wikilink")、[載寅](https://zh.wikipedia.org/wiki/載寅_\(1999年\) "wikilink")。隊長為憐朱。
+Project**（，简称：**R.G.P**），因韓國電視劇《[偶像大師.KR-追逐夢想](../Page/偶像大師.KR.md "wikilink")》於2016年8月成立的韓國十人女子企劃組合，推出時成員包括[素麗](https://zh.wikipedia.org/wiki/CocoSori#成员档案 "wikilink")、[憐朱](../Page/許憐朱.md "wikilink")、[來可](../Page/寺本來可.md "wikilink")、蕸書、智元、[Mint](https://zh.wikipedia.org/wiki/Tiny-G#成员资料 "wikilink")、何奈星、睿恩、[秀智](../Page/李绣至.md "wikilink")、[載寅](https://zh.wikipedia.org/wiki/載寅_\(1999年\) "wikilink")。隊長為憐朱。
 
 2016年8月25日，推出首張單曲《Dream》在[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
 Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》出道。
@@ -40,7 +40,7 @@ Episode
 FunE 首播\[3\]。7月23日，小分隊組合**Real Girls
 Project**成立，由Sori、來可、智元、睿恩、秀智組成\[4\]。7月30日，举办组合第一次粉丝见面会。8月20日，將到日本舉辦《THE
 IDOLM@STER.KR 2nd ST@GE in Japan》。年末，部分成员参加[The
-Unit和](https://zh.wikipedia.org/wiki/The_Unit "wikilink")[MIXNINE综艺选秀节目](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")。
+Unit和](../Page/The_Unit.md "wikilink")[MIXNINE综艺选秀节目](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")。
 
 ## 成員資料
 
@@ -309,14 +309,14 @@ Unit和](https://zh.wikipedia.org/wiki/The_Unit "wikilink")[MIXNINE综艺选秀�
 
 ### 固定出演
 
-|                          |                                                                                                                    |         |          |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------ | ------- | -------- |
-| 放送日期                     | 電視台/節目名稱                                                                                                           | 參與成員    | 备注       |
-| 2017年10月28日 - 2018年1月6日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》 | 蕸書、Mint | 參賽者\[7\] |
-| 2017年10月28日 - 2018年2月10日 | 秀智                                                                                                                 |         |          |
-| 2017年10月29日 - 12月10日     | [JTBC](../Page/JTBC.md "wikilink")《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》                    | 憐朱、睿恩   | 參賽者      |
-| 2017年10月29日 - 12月31日     | 來可                                                                                                                 |         |          |
-| 2017年10月29日 - 2018年1月26日 | 素麗                                                                                                                 |         |          |
+|                          |                                                                                                 |         |          |
+| ------------------------ | ----------------------------------------------------------------------------------------------- | ------- | -------- |
+| 放送日期                     | 電視台/節目名稱                                                                                        | 參與成員    | 备注       |
+| 2017年10月28日 - 2018年1月6日  | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[The Unit](../Page/The_Unit.md "wikilink")》 | 蕸書、Mint | 參賽者\[7\] |
+| 2017年10月28日 - 2018年2月10日 | 秀智                                                                                              |         |          |
+| 2017年10月29日 - 12月10日     | [JTBC](../Page/JTBC.md "wikilink")《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》 | 憐朱、睿恩   | 參賽者      |
+| 2017年10月29日 - 12月31日     | 來可                                                                                              |         |          |
+| 2017年10月29日 - 2018年1月26日 | 素麗                                                                                              |         |          |
 
 ### 單次訪問 / 嘉賓出演
 

@@ -34,7 +34,7 @@ Montchanin），相距大约1.5公里，步行大约20分钟即可到达，也�
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巴黎里昂站" title="wikilink">巴黎</a>—<a href="../Page/里昂佩拉什站.md" title="wikilink">里昂</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/布鲁塞尔南站" title="wikilink">布鲁塞尔</a>/<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔</a>—<a href="../Page/里昂佩拉什站.md" title="wikilink">里昂</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/布鲁塞尔南站.md" title="wikilink">布鲁塞尔</a>/<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔</a>—<a href="../Page/里昂佩拉什站.md" title="wikilink">里昂</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"></td>
@@ -106,7 +106,7 @@ Car TER</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><div style="display:inline-block; text-align:right; vertical-align:middle;">
-<p><a href="https://zh.wikipedia.org/wiki/马恩拉瓦莱-谢西站" title="wikilink">马恩拉瓦莱-谢西站</a><span style="font-size:small"> ←289.1km（<a href="https://zh.wikipedia.org/wiki/法国高速铁路互联东线" title="wikilink">互联东线</a>）</span>↖<br />
+<p><a href="../Page/马恩拉瓦莱-谢西站.md" title="wikilink">马恩拉瓦莱-谢西站</a><span style="font-size:small"> ←289.1km（<a href="https://zh.wikipedia.org/wiki/法国高速铁路互联东线" title="wikilink">互联东线</a>）</span>↖<br />
 <a href="https://zh.wikipedia.org/wiki/巴黎-里昂火车站" title="wikilink">巴黎-里昂火车站</a><span style="font-size:small"> ←299.6km（正线）</span>↙</p>
 </div></td>
 </tr>
@@ -120,7 +120,7 @@ Car TER</p></td>
 
 ## 参见
 
-  - [法国铁路车站列表](https://zh.wikipedia.org/wiki/法国铁路车站列表 "wikilink")
+  - [法国铁路车站列表](../Page/法国铁路车站列表.md "wikilink")
 
 ## 参考文献
 

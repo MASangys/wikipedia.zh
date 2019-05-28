@@ -1,6 +1,6 @@
 《**Mrs.
 Cop**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2015年8月3日起播出的[月火連續劇](../Page/SBS月火連續劇.md "wikilink")，是《Mrs.
-Cop》系列作品第一季。由《[你們被包圍了](https://zh.wikipedia.org/wiki/你們被包圍了 "wikilink")》[劉仁植導演執導與](../Page/劉仁植.md "wikilink")《[對我說謊試試](https://zh.wikipedia.org/wiki/對我說謊試試 "wikilink")》[黃洙夏作家合作打造](https://zh.wikipedia.org/wiki/黃洙夏 "wikilink")。講述重案組刑警們追捕犯人、尋求正義的一系列故事。\[1\]
+Cop》系列作品第一季。由《[你們被包圍了](../Page/你們被包圍了.md "wikilink")》[劉仁植導演執導與](../Page/劉仁植.md "wikilink")《[對我說謊試試](https://zh.wikipedia.org/wiki/對我說謊試試 "wikilink")》[黃洙夏作家合作打造](../Page/黃洙夏.md "wikilink")。講述重案組刑警們追捕犯人、尋求正義的一系列故事。\[1\]
 
 2015年12月16日，宣布將此劇塑造成一系列作品，為韓國首部以季度形式播放的劇集。劇集系列將維持原有大綱，但不斷加入新角色以增加新鮮感。第二季於2016年3月於[週末特別計劃時段播出](../Page/SBS週末特別計劃劇.md "wikilink")，但主角改由[金成鈴飾演](../Page/金成鈴.md "wikilink")。
 
@@ -148,7 +148,7 @@ Cop》系列作品第一季。由《[你們被包圍了](https://zh.wikipedia.or
 <td><p>花店員工</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴浩山" title="wikilink">朴浩山</a></p></td>
+<td><p><a href="../Page/朴浩山.md" title="wikilink">朴浩山</a></p></td>
 <td><p>鄭一河</p></td>
 <td><p>韓英大學教授</p></td>
 </tr>
@@ -173,7 +173,7 @@ Cop》系列作品第一季。由《[你們被包圍了](https://zh.wikipedia.or
 <td><p>殺害離家少女的連續殺人犯</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/劉在明" title="wikilink">劉在明</a></p></td>
+<td><p><a href="../Page/劉在明.md" title="wikilink">劉在明</a></p></td>
 <td></td>
 <td><p>朴東日的部下</p></td>
 </tr>

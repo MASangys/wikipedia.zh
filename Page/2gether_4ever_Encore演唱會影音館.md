@@ -34,8 +34,7 @@ S.H.E憑此影音專輯於[IFPI香港唱片銷量大獎頒獎禮2015獲得](../P
 ## 其它作品
 
 |width=40% align=center|**上一張現場專輯：**
-*[2gether
-4ever演唱會影音館](https://zh.wikipedia.org/wiki/2gether_4ever演唱會影音館 "wikilink")*
+*[2gether 4ever演唱會影音館](../Page/2gether_4ever演唱會影音館.md "wikilink")*
 2014年8月 |width=20% align=center colspan="2"|**第5張現場專輯**
 **2015年7月** |width=40% align=center|**下一張現場專輯：**
 

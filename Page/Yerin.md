@@ -35,8 +35,7 @@ M](../Page/Kakao_M.md "wikilink")**的練習生，練習生生涯共4年。
   - 4月13日，睿隣與[所願參加On](https://zh.wikipedia.org/wiki/所願 "wikilink")
     Style美妝綜藝節目《Lipstick Prince 2》
   - 12月24日，睿隣與Monsta X民赫主持2017 Jeju Love Sharing K-Pop Concert
-  - 12月29日，睿隣與Wanna One
-    [姜丹尼爾](https://zh.wikipedia.org/wiki/姜丹尼爾 "wikilink"),TWICE
+  - 12月29日，睿隣與Wanna One [姜丹尼爾](../Page/姜丹尼爾.md "wikilink"),TWICE
     [sana和Red](https://zh.wikipedia.org/wiki/sana "wikilink") Velvet
     [Irene主持](https://zh.wikipedia.org/wiki/裴柱現 "wikilink")2017 KBS 歌謠大戰
 

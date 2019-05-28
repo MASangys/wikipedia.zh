@@ -43,7 +43,7 @@ Jiratchaya](https://zh.wikipedia.org/wiki/Mo_Jiratchaya "wikilink")。
 <tr class="odd">
 <td><p><strong>The Queen of D.n.A</strong>（全場總冠軍）</p></td>
 <td><ul>
-<li>11號<a href="https://zh.wikipedia.org/wiki/羅伊婷" title="wikilink">羅伊婷</a></li>
+<li>11號<a href="../Page/羅伊婷.md" title="wikilink">羅伊婷</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -55,7 +55,7 @@ Jiratchaya](https://zh.wikipedia.org/wiki/Mo_Jiratchaya "wikilink")。
 <tr class="odd">
 <td><p><strong>Top of the Angels</strong>（天使組冠軍）</p></td>
 <td><ul>
-<li>11號<a href="https://zh.wikipedia.org/wiki/羅伊婷" title="wikilink">羅伊婷</a></li>
+<li>11號<a href="../Page/羅伊婷.md" title="wikilink">羅伊婷</a></li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -140,7 +140,7 @@ Jiratchaya](https://zh.wikipedia.org/wiki/Mo_Jiratchaya "wikilink")。
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/趙詠瑤" title="wikilink">趙詠瑤</a>（Kimi Chiu）</p></td>
+<td><p><a href="../Page/趙詠瑤.md" title="wikilink">趙詠瑤</a>（Kimi Chiu）</p></td>
 <td><p>N/A</p></td>
 <td><p>淘汰</p></td>
 <td></td>
@@ -190,7 +190,7 @@ Jiratchaya](https://zh.wikipedia.org/wiki/Mo_Jiratchaya "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/羅伊婷" title="wikilink">羅伊婷</a>（Daisy Law）</p></td>
+<td><p><a href="../Page/羅伊婷.md" title="wikilink">羅伊婷</a>（Daisy Law）</p></td>
 <td><p>天使組</p></td>
 <td><p>晉級</p></td>
 <td><p>晉級</p></td>

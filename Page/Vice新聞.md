@@ -28,7 +28,7 @@ Vice新聞主要採用貼身深入的方式為一些較少為人知的時事議�
   - 《[阿富汗選舉](../Page/阿富汗.md "wikilink")》（，2014年6月14日－）：採訪[2014年阿富汗總統選舉](https://zh.wikipedia.org/wiki/2014年阿富汗總統選舉 "wikilink")，至今共製作5段專題影片。\[22\]
   - 《伊拉克之爭》（，2014年6月17日－）：報導[伊拉克戰爭結束後當地的不穩情況](https://zh.wikipedia.org/wiki/伊拉克戰爭 "wikilink")，至今共製作10段專題影片。\[23\]
   - 《火箭與報復》（，2014年7月10日－）：報導2014年開始的[以巴衝突](https://zh.wikipedia.org/wiki/2014年以巴衝突 "wikilink")，至今共製作12段專題影片。\[24\]
-  - 《[弗格森](https://zh.wikipedia.org/wiki/弗格森_\(密蘇里州\) "wikilink")，[密蘇里州](../Page/密蘇里州.md "wikilink")》（，2014年8月19日－）：報導[邁克爾·布朗命案引發的一連串民眾示威](https://zh.wikipedia.org/wiki/邁克爾·布朗命案 "wikilink")、衝突和地方政府實行的[宵禁](../Page/宵禁.md "wikilink")，至今共製作11段專題影片。\[25\]
+  - 《[弗格森](../Page/弗格森_\(密蘇里州\).md "wikilink")，[密蘇里州](../Page/密蘇里州.md "wikilink")》（，2014年8月19日－）：報導[邁克爾·布朗命案引發的一連串民眾示威](../Page/邁克爾·布朗命案.md "wikilink")、衝突和地方政府實行的[宵禁](../Page/宵禁.md "wikilink")，至今共製作11段專題影片。\[25\]
   - 《往[伊斯蘭堡的行軍](https://zh.wikipedia.org/wiki/伊斯蘭堡 "wikilink")》（，2014年8月31日－）：報導[巴基斯坦反對派領䄂](../Page/巴基斯坦.md "wikilink")[伊姆蘭·罕帶領的大規模反政府示威及](https://zh.wikipedia.org/wiki/伊姆蘭·罕 "wikilink")[白沙瓦學校襲擊事件後的社會動盪](../Page/2014年白沙瓦學校襲擊事件.md "wikilink")，至今共製作5段專題影片。\[26\]
   - 《巴黎槍擊》（，2015年1月8日－）：報導[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")[巴黎](../Page/巴黎.md "wikilink")[查理周刊總部槍擊案後的社會反應](https://zh.wikipedia.org/wiki/查理周刊總部槍擊案 "wikilink")，至今共製作4段專題影片。\[27\]
   - 《墨西哥的熾熱土地》（，2015年3月9日－）：報導緝捕毒梟的過程，至今共製作4段專題影片。\[28\]

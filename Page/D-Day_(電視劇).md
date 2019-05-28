@@ -18,13 +18,13 @@
 |                                                     |        |                                                     |                                                                                     |
 | --------------------------------------------------- | ------ | --------------------------------------------------- | ----------------------------------------------------------------------------------- |
 | **演員**                                              | **角色** | **粵語配音**                                            | **介紹**                                                                              |
-| [金惠恩](../Page/金惠恩.md "wikilink")                    | 姜珠蘭    | [王綺婷](https://zh.wikipedia.org/wiki/王綺婷 "wikilink") | 40歲初，首爾未來醫院急診室室長。在首爾發生天災後，其兒子不小心走失了，慶幸地在别的醫院中找到。                                    |
+| [金惠恩](../Page/金惠恩.md "wikilink")                    | 姜珠蘭    | [王綺婷](../Page/王綺婷.md "wikilink")                    | 40歲初，首爾未來醫院急診室室長。在首爾發生天災後，其兒子不小心走失了，慶幸地在别的醫院中找到。                                    |
 | [尹周熙](../Page/尹周熙.md "wikilink")                    | 朴智娜    | [何凱怡](https://zh.wikipedia.org/wiki/何凱怡 "wikilink") | 28歲，首爾未來醫院急診室專科護士EMT。朴建的女兒，宇鎮的前女友，李海成的好拍檔。 恥於父親的所作所為，亦在宇鎮身上看到父親的影子，因此提出分手，在最後和宇鎮復合。 |
-| [金晶和](../Page/金晶和.md "wikilink")                    | 殷昭律    | [馮詠恩](https://zh.wikipedia.org/wiki/馮詠恩 "wikilink") | 35歲，首爾未來醫院精神健康科專科醫生，李海成的同期。                                                         |
+| [金晶和](../Page/金晶和.md "wikilink")                    | 殷昭律    | [馮詠恩](../Page/馮詠恩.md "wikilink")                    | 35歲，首爾未來醫院精神健康科專科醫生，李海成的同期。                                                         |
 | [李成烈](https://zh.wikipedia.org/wiki/李成烈 "wikilink") | 安大吉    | [張振熙](../Page/張振熙.md "wikilink")                    | 20歲中後半，未來醫院花美男實習醫生。初期因為怕血和疏忽病人，而常常受到各種指使與指責。後來變得懂事。                                 |
 | [李京進](../Page/李京進.md "wikilink")                    | 朴允淑    | [梁皚雪](https://zh.wikipedia.org/wiki/梁皚雪 "wikilink") | 朴建的姐姐，劉英卓理事長的夫人。                                                                    |
 | [呂武英](https://zh.wikipedia.org/wiki/呂武英 "wikilink") | 劉英卓    | [陸頌愚](../Page/陸頌愚.md "wikilink")                    | 60歲，首爾未來醫院集團隱藏的會長。海成的支持者。                                                           |
-| [高圭弼](https://zh.wikipedia.org/wiki/高圭弼 "wikilink") | 劉明賢    | [郭湛深](https://zh.wikipedia.org/wiki/郭湛深 "wikilink") | 30歲，首爾未來醫院外科研究員。非常眼紅能力好的海成，是個缺乏責任感及懦弱的醫師。                                           |
+| [高圭弼](https://zh.wikipedia.org/wiki/高圭弼 "wikilink") | 劉明賢    | [郭湛深](../Page/郭湛深.md "wikilink")                    | 30歲，首爾未來醫院外科研究員。非常眼紅能力好的海成，是個缺乏責任感及懦弱的醫師。                                           |
 | [金在和](https://zh.wikipedia.org/wiki/金在和 "wikilink") | 金賢淑    | [梁皚雪](https://zh.wikipedia.org/wiki/梁皚雪 "wikilink") | 40歲，漢江未來醫院的老處女護士，是個怕麻煩的護士。                                                          |
 | [朱賢鎮](https://zh.wikipedia.org/wiki/朱賢鎮 "wikilink") | 溫正沅    |                                                     | 20歲中後半，首爾未來醫院男護士。醫院內的人氣王，安大吉的高校朋友。                                                  |
 |                                                     |        |                                                     |                                                                                     |

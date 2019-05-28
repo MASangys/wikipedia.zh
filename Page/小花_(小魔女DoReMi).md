@@ -80,7 +80,7 @@
 
 ### 興趣・嗜好
 
-最喜愛[布丁](../Page/布丁.md "wikilink")，曾在嬰兒時在美空小學吃掉四十個布丁，第三部32集時也曾吃下三個布丁而肚子痛，同時也喜歡[洋甘菊做的](../Page/德國洋甘菊.md "wikilink")[水飴](https://zh.wikipedia.org/wiki/水飴 "wikilink")，最討厭[紅蘿蔔](https://zh.wikipedia.org/wiki/紅蘿蔔 "wikilink")\[24\]。
+最喜愛[布丁](../Page/布丁.md "wikilink")，曾在嬰兒時在美空小學吃掉四十個布丁，第三部32集時也曾吃下三個布丁而肚子痛，同時也喜歡[洋甘菊做的](../Page/德國洋甘菊.md "wikilink")[水飴](../Page/水飴.md "wikilink")，最討厭[紅蘿蔔](https://zh.wikipedia.org/wiki/紅蘿蔔 "wikilink")\[24\]。
 
 曾表示想吃[斑馬](../Page/斑馬.md "wikilink")。
 

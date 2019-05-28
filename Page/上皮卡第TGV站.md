@@ -17,10 +17,10 @@
 <td style="text-align: center;"><p>线路</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/佩皮尼昂站.md" title="wikilink">佩皮尼昂</a>/<a href="../Page/蒙彼利埃圣罗克站.md" title="wikilink">蒙彼利埃</a>/<a href="../Page/尼斯城站.md" title="wikilink">尼斯</a>/<a href="../Page/马赛圣夏勒站.md" title="wikilink">马赛</a>—<a href="https://zh.wikipedia.org/wiki/布鲁塞尔南站" title="wikilink">布鲁塞尔</a>/<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/佩皮尼昂站.md" title="wikilink">佩皮尼昂</a>/<a href="../Page/蒙彼利埃圣罗克站.md" title="wikilink">蒙彼利埃</a>/<a href="../Page/尼斯城站.md" title="wikilink">尼斯</a>/<a href="../Page/马赛圣夏勒站.md" title="wikilink">马赛</a>—<a href="../Page/布鲁塞尔南站.md" title="wikilink">布鲁塞尔</a>/<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/斯特拉斯堡城站.md" title="wikilink">斯特拉斯堡</a>—<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔</a>/<a href="https://zh.wikipedia.org/wiki/布鲁塞尔南站" title="wikilink">布鲁塞尔</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/斯特拉斯堡城站.md" title="wikilink">斯特拉斯堡</a>—<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔</a>/<a href="../Page/布鲁塞尔南站.md" title="wikilink">布鲁塞尔</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="../Page/波尔多圣让站.md" title="wikilink">波尔多</a>—里尔</p></td>
@@ -29,13 +29,13 @@
 <td style="text-align: center;"><p><a href="../Page/雷恩站.md" title="wikilink">雷恩</a>/<a href="../Page/南特站.md" title="wikilink">南特</a>—<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/南特站.md" title="wikilink">南特</a>—<a href="https://zh.wikipedia.org/wiki/图尔宽站" title="wikilink">图尔宽</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/南特站.md" title="wikilink">南特</a>—<a href="../Page/图尔宽站.md" title="wikilink">图尔宽</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="../Page/波尔多圣让站.md" title="wikilink">波尔多</a>—图尔宽</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/里昂佩拉什站.md" title="wikilink">里昂</a>—<a href="https://zh.wikipedia.org/wiki/图尔宽站" title="wikilink">图尔宽</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/里昂佩拉什站.md" title="wikilink">里昂</a>—<a href="../Page/图尔宽站.md" title="wikilink">图尔宽</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"></td>

@@ -49,10 +49,8 @@ Music」。\[1\]
   - 李藝率（[MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")）
   - 徐知昕（[MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")）
   - 金成恩（[MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")）
-  - 羅高恩（[PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")）
-  - 朴志殷（[PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")）
+  - 羅高恩（[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")）
+  - 朴志殷（[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")）
   - 桃百（모모）
   - 有紀（유키）
 
@@ -66,8 +64,8 @@ Music」。\[1\]
     (2014-2017) (與TSN娛樂共同管理)
   - Phantom (2012–2017) (與Brand New Music共同管理)
   - [Monday Kiz](../Page/Monday_Kiz.md "wikilink") (2016-2018)
-  - [P.O.P](https://zh.wikipedia.org/wiki/P.O.P "wikilink") (2017-2018)
-    (與DWM Entertainment共同管理)
+  - [P.O.P](../Page/P.O.P.md "wikilink") (2017-2018) (與DWM
+    Entertainment共同管理)
 
 ### Solo歌手
 
@@ -80,8 +78,8 @@ Music」。\[1\]
 
 ### 練習生
 
-  - [林煐岷](https://zh.wikipedia.org/wiki/林煐岷 "wikilink")（轉投[Brand New
-    Music](https://zh.wikipedia.org/wiki/Brand_New_Music "wikilink")，以[MXM出道](https://zh.wikipedia.org/wiki/MXM_\(男子音樂組合\) "wikilink")）
+  - [林煐岷](../Page/林煐岷.md "wikilink")（轉投[Brand New
+    Music](../Page/Brand_New_Music.md "wikilink")，以[MXM出道](../Page/MXM_\(男子音樂組合\).md "wikilink")）
   - 崔栽佑（[PRODUCE
     101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")，轉投J-Flo娛樂，以藝名**崔智眼**在[NewKidd出道](../Page/NewKidd.md "wikilink")）
 

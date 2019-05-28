@@ -1,4 +1,4 @@
-《**Plage**》是[譽田哲也的長篇小說](https://zh.wikipedia.org/wiki/譽田哲也 "wikilink")，於2015年發行。
+《**Plage**》是[譽田哲也的長篇小說](../Page/譽田哲也.md "wikilink")，於2015年發行。
 
 ## 主要登場人物
 
@@ -59,15 +59,15 @@
   - 書道教室老師 -
     [品川徹](https://zh.wikipedia.org/wiki/品川徹 "wikilink")（香港配音：[盧國權](../Page/盧國權.md "wikilink")）
   - 優里子 -
-    [小松彩夏](../Page/小松彩夏.md "wikilink")（第1集）（香港配音：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")）
+    [小松彩夏](../Page/小松彩夏.md "wikilink")（第1集）（香港配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）
   - 佐口 -
     [日向丈](https://zh.wikipedia.org/wiki/日向丈 "wikilink")（第1-2集）（香港配音：[雷霆](../Page/雷霆.md "wikilink")）
   - 坂口希實 -
-    [村井美樹](https://zh.wikipedia.org/wiki/村井美樹 "wikilink")（第2-3集）（香港配音：[張頌欣](../Page/張頌欣.md "wikilink")）
+    [村井美樹](../Page/村井美樹.md "wikilink")（第2-3集）（香港配音：[張頌欣](../Page/張頌欣.md "wikilink")）
 
 ### 工作人员
 
-  - 原著 [誉田哲也](https://zh.wikipedia.org/wiki/譽田哲也 "wikilink")《海滩》([幻冬舍](../Page/幻冬舍.md "wikilink"))
+  - 原著 [誉田哲也](../Page/譽田哲也.md "wikilink")《海滩》([幻冬舍](../Page/幻冬舍.md "wikilink"))
   - 編劇-奥拉光太, 吉田康弘
   - 導演- 吉田康弘
   - 製作- [WOWOW](../Page/WOWOW.md "wikilink")

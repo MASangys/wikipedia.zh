@@ -51,11 +51,9 @@ IconX（2018）採用比前代產品更大的電池。\[1\]
 
 ## 另見
 
-  - [Samsung Gear
-    IconX](https://zh.wikipedia.org/wiki/Samsung_Gear_IconX "wikilink")
+  - [Samsung Gear IconX](../Page/Samsung_Gear_IconX.md "wikilink")
   - [Apple AirPods](../Page/AirPods.md "wikilink")
-  - [Google Pixel
-    Buds](https://zh.wikipedia.org/wiki/Google_Pixel_Buds "wikilink")
+  - [Google Pixel Buds](../Page/Google_Pixel_Buds.md "wikilink")
 
 ## 參考文獻
 

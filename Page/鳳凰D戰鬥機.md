@@ -55,7 +55,7 @@
   - [信天翁C偵察機](../Page/信天翁C偵察機.md "wikilink")
   - [羅蘭C-II偵察機](../Page/羅蘭C-II偵察機.md "wikilink")
   - [洛納L戰鬥飛艇](../Page/洛納L戰鬥飛艇.md "wikilink")
-  - [阿維他D戰鬥機](https://zh.wikipedia.org/wiki/阿維他D戰鬥機 "wikilink")
+  - [阿維他D戰鬥機](../Page/阿維他D戰鬥機.md "wikilink")
 
 ## 參考書目
 

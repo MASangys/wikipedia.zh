@@ -14,7 +14,7 @@ Segue
 2沒有新的恆星生成\[12\]。
 
 Segue
-2靠近[人馬座星流的邊緣](https://zh.wikipedia.org/wiki/人馬座星流 "wikilink")，與它有著相同的距離。它可能是[人馬座矮橢球星系的一個衛星星系](../Page/人馬座矮橢球星系.md "wikilink")，或是它的星團\[13\]。
+2靠近[人馬座星流的邊緣](../Page/人馬座星流.md "wikilink")，與它有著相同的距離。它可能是[人馬座矮橢球星系的一個衛星星系](../Page/人馬座矮橢球星系.md "wikilink")，或是它的星團\[13\]。
 
 2013年6月的[天文物理期刊發表的論文說Segue](../Page/天文物理期刊.md "wikilink")
 2和[暗物質的範圍在一起](https://zh.wikipedia.org/wiki/暗物質 "wikilink")\[14\]\[15\]\[16\]。

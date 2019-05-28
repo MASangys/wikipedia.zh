@@ -4,7 +4,7 @@ DISTURB**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikili
 ## 發行
 
 2017年7月19日，鄭容和發行首張韓語迷你專輯[DO
-DISTURB](https://zh.wikipedia.org/wiki/DO_DISTURB "wikilink")。這是鄭容和時隔一年半以個人之姿再度回歸歌壇。這也是鄭容和第一次在歌曲中挑戰舞蹈。
+DISTURB](../Page/DO_DISTURB.md "wikilink")。這是鄭容和時隔一年半以個人之姿再度回歸歌壇。這也是鄭容和第一次在歌曲中挑戰舞蹈。
 
 ## 曲目
 

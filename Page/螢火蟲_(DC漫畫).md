@@ -55,7 +55,7 @@ Moldoff](https://zh.wikipedia.org/wiki/Sheldon_Moldoff "wikilink")。
 
 <!-- end list -->
 
-  - [蝙蝠俠：阿卡漢系列](https://zh.wikipedia.org/wiki/蝙蝠俠：阿卡漢 "wikilink")：登場的是加菲爾德·林斯，由[克里斯賓·弗里曼配音](../Page/克里斯賓·弗里曼.md "wikilink")\[3\]。
+  - [蝙蝠俠：阿卡漢系列](../Page/蝙蝠俠：阿卡漢.md "wikilink")：登場的是加菲爾德·林斯，由[克里斯賓·弗里曼配音](../Page/克里斯賓·弗里曼.md "wikilink")\[3\]。
       - 《[蝙蝠俠：阿卡漢瘋人院](https://zh.wikipedia.org/wiki/蝙蝠俠：阿卡漢瘋人院 "wikilink")》：可以從報紙上得知螢火蟲又出來犯罪的訊息。
       - 《[蝙蝠俠：阿卡漢起源](https://zh.wikipedia.org/wiki/蝙蝠俠：阿卡漢起源 "wikilink")》：登場的是最終危機後的林斯的版本，[黑面具](../Page/黑面具.md "wikilink")（實為[小丑假扮](https://zh.wikipedia.org/wiki/小丑_\(漫畫\) "wikilink")）邀請來消滅蝙蝠俠的八名刺客之一，在大橋上四處縱火和放置炸彈，引來高譚警局和蝙蝠俠，最後被蝙蝠俠擊敗。
       - 《[蝙蝠俠：阿卡漢騎士](../Page/蝙蝠俠：阿卡漢騎士.md "wikilink")》：支線任務中登場，螢火蟲會在各地縱火，找到其縱火處再用蝙蝠車追逐使其耗盡噴射背包燃料三次之後，蝙蝠俠便可抓住對方送進高譚警局。

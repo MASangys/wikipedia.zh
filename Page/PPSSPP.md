@@ -11,7 +11,7 @@ GPLv2+许可发布。\[3\]\[4\]
 
 PPSSPP是高阶级模拟（HLE）程序，只模拟PSP的[操作系统与](../Page/操作系统.md "wikilink")[内核](../Page/内核.md "wikilink")。与低阶级模拟（LLE）程序模拟整机软硬件相比，高阶级模拟器对硬件的利用效率更高，且用户无需提供[BIOS等文件](../Page/BIOS.md "wikilink")。\[5\]
 
-PPSSPP支持[即时存档](https://zh.wikipedia.org/wiki/即时存档 "wikilink")，[动态重编译](https://zh.wikipedia.org/wiki/动态重编译 "wikilink")（[JIT](../Page/即時編譯.md "wikilink")），游戏[DLC安装](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")，与[ad
+PPSSPP支持[即时存档](https://zh.wikipedia.org/wiki/即时存档 "wikilink")，[动态重编译](../Page/动态重编译.md "wikilink")（[JIT](../Page/即時編譯.md "wikilink")），游戏[DLC安装](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")，与[ad
 hoc无线网络对战](https://zh.wikipedia.org/wiki/隨建即連網路 "wikilink")。\[6\]PPSSPP使用修改过的[FFmpeg软件库解码PSP的多媒体文件以提高解码效率](../Page/FFmpeg.md "wikilink")，并增加对索尼[ATRAC3plus专有格式的支持](https://zh.wikipedia.org/wiki/ATRAC#ATRAC3.2FATRAC3plus "wikilink")。PPSSPP提供了数倍于PSP硬件性能的图形渲染能力，支持高分辨率渲染、[抗锯齿](../Page/反鋸齒.md "wikilink")、[图像缩放](../Page/图像缩放.md "wikilink")、[着色器支持及](../Page/着色器.md "wikilink")[线性与](../Page/线性滤波器.md "wikilink")[各向异性过滤等画质增强功能](../Page/各向异性过滤.md "wikilink")。\[7\]
 
 PPSSPP移动平台的[移植版为每个平台提供特制的功能](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")。例如[Android平台的](../Page/Android.md "wikilink")“沉浸模式”，[Symbian设备的多媒体按钮支持](https://zh.wikipedia.org/wiki/Symbian "wikilink")，与为[BlackBerry

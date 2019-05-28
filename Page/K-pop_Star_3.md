@@ -2156,7 +2156,7 @@ Star 2的後續篇。節目由2013年11月24日播放至2014年4月13日。\[1\]
 </tr>
 <tr class="odd">
 <td><p><strong></strong></p></td>
-<td><p>, <a href="https://zh.wikipedia.org/wiki/權珍雅" title="wikilink">權珍雅</a></p></td>
+<td><p>, <a href="../Page/權珍雅.md" title="wikilink">權珍雅</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>JJHolic Media</strong></p></td>

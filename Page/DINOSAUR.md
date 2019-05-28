@@ -1,4 +1,4 @@
-《**DINOSAUR**》是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z的第](../Page/B'z.md "wikilink")20張[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。[2017年](../Page/2017年.md "wikilink")[11月29日由](../Page/11月29日.md "wikilink")[VERMILLION
+《**DINOSAUR**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z的第](../Page/B'z.md "wikilink")20張[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")。[2017年](../Page/2017年.md "wikilink")[11月29日由](../Page/11月29日.md "wikilink")[VERMILLION
 RECORDS於日本發行](../Page/VERMILLION_RECORDS.md "wikilink")\[1\]\[2\]。
 
 ## 概要
@@ -198,52 +198,52 @@ B'z的作品，長年以[Being的吉他技術團隊](https://zh.wikipedia.org/wi
 **Dinosaur**
 
   - [B'z LIVE-GYM 2017-2018 "LIVE
-    DINOSAUR"](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR" "wikilink")
+    DINOSAUR"](../Page/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR".md "wikilink")
 
 **CHAMP**
 
   - [B'z LIVE-GYM 2017-2018 "LIVE
-    DINOSAUR"](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR" "wikilink")
+    DINOSAUR"](../Page/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR".md "wikilink")
 
 **ハルカ**
 
   - [B'z LIVE-GYM 2017-2018 "LIVE
-    DINOSAUR"](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR" "wikilink")
+    DINOSAUR"](../Page/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR".md "wikilink")
 
 **それでもやっぱり**
 
   - [B'z LIVE-GYM 2017-2018 "LIVE
-    DINOSAUR"](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR" "wikilink")
+    DINOSAUR"](../Page/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR".md "wikilink")
 
 **SKYROCKET**
 
   - [B'z LIVE-GYM 2017-2018 "LIVE
-    DINOSAUR"](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR" "wikilink")
+    DINOSAUR"](../Page/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR".md "wikilink")
 
 **ルーフトップ**
 
   - [B'z LIVE-GYM 2017-2018 "LIVE
-    DINOSAUR"](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR" "wikilink")
+    DINOSAUR"](../Page/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR".md "wikilink")
 
 **弱い男**
 
   - [B'z LIVE-GYM 2017-2018 "LIVE
-    DINOSAUR"](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR" "wikilink")
+    DINOSAUR"](../Page/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR".md "wikilink")
 
 **愛しき幽霊**
 
   - [B'z LIVE-GYM 2017-2018 "LIVE
-    DINOSAUR"](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR" "wikilink")
+    DINOSAUR"](../Page/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR".md "wikilink")
 
 **King Of The Street**
 
   - [B'z LIVE-GYM 2017-2018 "LIVE
-    DINOSAUR"](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR" "wikilink")
+    DINOSAUR"](../Page/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR".md "wikilink")
 
 **Purple Pink Orange**
 
   - [B'z LIVE-GYM 2017-2018 "LIVE
-    DINOSAUR"](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR" "wikilink")
+    DINOSAUR"](../Page/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR".md "wikilink")
 
 ## 腳註
 

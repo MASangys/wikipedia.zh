@@ -46,8 +46,7 @@
   - 音樂：岩崎元是
   - 音樂製作人：植村俊一
   - 音樂製作：[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")
-  - 動畫製作：[Production
-    IMS](https://zh.wikipedia.org/wiki/Production_IMS "wikilink")
+  - 動畫製作：[Production IMS](../Page/Production_IMS.md "wikilink")
 
 ## 主題曲
 

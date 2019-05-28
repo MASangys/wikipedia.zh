@@ -21,7 +21,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>決戦</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/植竹須美男" title="wikilink">植竹須美男</a></p></td>
+<td><p><a href="../Page/植竹須美男.md" title="wikilink">植竹須美男</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/平野俊貴" title="wikilink">平野俊貴</a></p></td>
 <td><p>野中卓也</p></td>
 <td><p>山田正樹、<a href="https://zh.wikipedia.org/wiki/高岡淳一" title="wikilink">高岡淳一</a><br />

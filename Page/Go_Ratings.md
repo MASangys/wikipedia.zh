@@ -56,7 +56,7 @@ Ratings的分數和排名較Elo等级分算法更適合做縱向比較\[17\]。
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/许嘉阳" title="wikilink">許嘉陽</a></p></td>
+<td><p><a href="../Page/许嘉阳.md" title="wikilink">許嘉陽</a></p></td>
 <td><p>3566</p></td>
 </tr>
 <tr class="odd">

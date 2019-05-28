@@ -42,7 +42,7 @@ II](https://zh.wikipedia.org/wiki/μ's_Best_Album_Best_Live!_collection_II "wiki
 :\#<sup>▲</sup> \[8:30\]
 
 :\#\*
-原案：[公野樱子](https://zh.wikipedia.org/wiki/公野樱子 "wikilink")，脚本：[子安秀明](https://zh.wikipedia.org/wiki/子安秀明 "wikilink")，出演：μ's
+原案：[公野樱子](https://zh.wikipedia.org/wiki/公野樱子 "wikilink")，脚本：[子安秀明](../Page/子安秀明.md "wikilink")，出演：μ's
 
   - DVD
 

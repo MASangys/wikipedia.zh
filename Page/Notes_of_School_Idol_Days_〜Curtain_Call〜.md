@@ -28,7 +28,7 @@
 7.  **享受這個城市！**（街を満喫！）（M07）
 8.  **這個城市就如秋葉原一般**（この街はアキバに似てる）（M08）
 9.  **[Hello，細數繁星](https://zh.wikipedia.org/wiki/Angelic_Angel/Hello，細數繁星 "wikilink")**（Hello,星を数えて）（電影版本）
-      - 作曲・編曲：[山口朗彦](https://zh.wikipedia.org/wiki/山口朗彦 "wikilink")、歌：星空凛（-{[飯田里穂](https://zh.wikipedia.org/wiki/飯田里穂 "wikilink")}-）・西木野真姫（[Pile](https://zh.wikipedia.org/wiki/Pile "wikilink")）・小泉花陽（[久保由利香](https://zh.wikipedia.org/wiki/久保由利香 "wikilink")）
+      - 作曲・編曲：[山口朗彦](https://zh.wikipedia.org/wiki/山口朗彦 "wikilink")、歌：星空凛（-{[飯田里穂](https://zh.wikipedia.org/wiki/飯田里穂 "wikilink")}-）・西木野真姫（[Pile](../Page/Pile.md "wikilink")）・小泉花陽（[久保由利香](https://zh.wikipedia.org/wiki/久保由利香 "wikilink")）
 10. **GoHAN-YA**（M09）
 11. **Honoka\! Hurry up\!\!\!\!\!\!\!\!**（M10）
 12. **As Time Goes By**（M11A）

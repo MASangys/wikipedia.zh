@@ -103,7 +103,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/親愛的，公主病" title="wikilink">親愛的，公主病</a>》</p></td>
+<td><p>《<a href="../Page/親愛的，公主病.md" title="wikilink">親愛的，公主病</a>》</p></td>
 <td><p>江念雨</p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/張予曦" title="wikilink">張予曦主演</a></p></td>
 <td></td>
@@ -111,7 +111,7 @@
 <tr class="odd">
 <td><CENTER>
 <p>2017年</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/小情人" title="wikilink">小情人</a>》</p></td>
+<td><p>《<a href="../Page/小情人.md" title="wikilink">小情人</a>》</p></td>
 <td><p>宮嚴</p></td>
 <td></td>
 </tr>
@@ -188,7 +188,7 @@
 <p>2015年</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/万万没想到：西游篇" title="wikilink">万万没想到：西游篇</a>》</p></td>
 <td><p>豬八戒</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/白客" title="wikilink">白客</a>、<a href="../Page/陳柏霖.md" title="wikilink">陳柏霖合作主演</a></p></td>
+<td><p>與<a href="../Page/白客.md" title="wikilink">白客</a>、<a href="../Page/陳柏霖.md" title="wikilink">陳柏霖合作主演</a></p></td>
 </tr>
 <tr class="even">
 <td><p>《面若桃花》</p></td>
@@ -253,7 +253,7 @@
 <tr class="even">
 <td><CENTER>
 <p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中餐厅" title="wikilink">中餐廳</a></p></td>
+<td><p><a href="../Page/中餐厅.md" title="wikilink">中餐廳</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

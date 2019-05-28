@@ -53,8 +53,7 @@ IconX），是韓國三星電子在2016年7月15日推出的[藍牙無線](../Pa
 ## 參見
 
   - [Apple AirPods](../Page/AirPods.md "wikilink")
-  - [Google Pixel
-    Buds](https://zh.wikipedia.org/wiki/Google_Pixel_Buds "wikilink")
+  - [Google Pixel Buds](../Page/Google_Pixel_Buds.md "wikilink")
 
 ## 參考文獻
 

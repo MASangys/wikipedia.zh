@@ -249,7 +249,7 @@ s」。也因此誕生了諸多風格各異的角色歌。
 <td></td>
 <td><p>計劃6 頻道5</p></td>
 <td><p>福島直浩</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/永居慎平" title="wikilink">永居慎平</a></p></td>
+<td><p><a href="../Page/永居慎平.md" title="wikilink">永居慎平</a></p></td>
 <td><p>鯉川慎平、長坂寛治<br />
 宮西多麻子、Park Jae Ik</p></td>
 <td></td>

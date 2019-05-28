@@ -50,7 +50,7 @@ Sitter**》（）為[KBS2於](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikil
 | [尹芮珠](../Page/尹芮珠.md "wikilink")                              |        |        |
 | [金相浩](../Page/金相浩.md "wikilink")                              | 趙尚元    |        |
 | [李原種](../Page/李原種.md "wikilink")                              | 尚元父    |        |
-| [吉海妍](https://zh.wikipedia.org/wiki/吉海妍 "wikilink")           | 尚元母    |        |
+| [吉海妍](../Page/吉海妍.md "wikilink")                              | 尚元母    |        |
 | [尹智敏](https://zh.wikipedia.org/wiki/尹智敏_\(2009年\) "wikilink") | 恩星     |        |
 
 ## 收視率

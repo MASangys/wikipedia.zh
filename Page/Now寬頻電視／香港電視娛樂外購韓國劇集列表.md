@@ -407,7 +407,7 @@
 <td><p><a href="../Page/李瑞鎮.md" title="wikilink">李瑞鎮</a><br />
 <a href="../Page/韓志旼.md" title="wikilink">韓志旼</a><br />
 <a href="../Page/李順載.md" title="wikilink">李順載</a><br />
-<a href="https://zh.wikipedia.org/wiki/李宗秀" title="wikilink">李宗秀</a><br />
+<a href="../Page/李宗秀.md" title="wikilink">李宗秀</a><br />
 <a href="../Page/趙軟祐.md" title="wikilink">趙軟祐</a></p></td>
 <td></td>
 <td><p>112</p></td>
@@ -658,7 +658,7 @@
 <tr class="even">
 <td><p>1月21日</p></td>
 <td><p><a href="../Page/Now_101台.md" title="wikilink">Now 101台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Monstar" title="wikilink">Monstar</a></strong></p></td>
+<td><p><strong><a href="../Page/Monstar.md" title="wikilink">Monstar</a></strong></p></td>
 <td><p><a href="../Page/龍俊亨.md" title="wikilink">龍俊亨</a><br />
 <a href="../Page/夏沇秀.md" title="wikilink">夏沇秀</a><br />
 <a href="../Page/姜河那.md" title="wikilink">姜河那</a></p></td>
@@ -786,7 +786,7 @@
 <tr class="even">
 <td><p>1月13日</p></td>
 <td><p><a href="../Page/Now香港台.md" title="wikilink">Now香港台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/MiMi" title="wikilink">美美</a></strong><br />
+<td><p><strong><a href="../Page/MiMi.md" title="wikilink">美美</a></strong><br />
 （MiMi）</p></td>
 <td><p><a href="../Page/沈昌珉.md" title="wikilink">沈昌珉</a><br />
 <a href="https://zh.wikipedia.org/wiki/文佳英" title="wikilink">文佳英</a><br />
@@ -810,7 +810,7 @@
 <tr class="even">
 <td><p>2月21日</p></td>
 <td><p><a href="../Page/Now_101台.md" title="wikilink">Now 101台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/魔女的戀愛" title="wikilink">魔女的戀愛</a></strong></p></td>
+<td><p><strong><a href="../Page/魔女的戀愛.md" title="wikilink">魔女的戀愛</a></strong></p></td>
 <td><p><a href="../Page/嚴正化.md" title="wikilink">嚴正化</a><br />
 <a href="../Page/朴敘俊.md" title="wikilink">朴敘俊</a><br />
 <a href="../Page/韓載錫.md" title="wikilink">韓載錫</a><br />
@@ -848,7 +848,7 @@
 <tr class="odd">
 <td><p>6月16日</p></td>
 <td><p><a href="../Page/Now_101台.md" title="wikilink">Now 101台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/密會" title="wikilink">密會</a></strong></p></td>
+<td><p><strong><a href="../Page/密會.md" title="wikilink">密會</a></strong></p></td>
 <td><p><a href="../Page/金喜愛.md" title="wikilink">金喜愛</a><br />
 <a href="../Page/劉亞仁.md" title="wikilink">劉亞仁</a><br />
 <a href="../Page/朴赫權.md" title="wikilink">朴赫權</a></p></td>
@@ -913,7 +913,7 @@
 <a href="../Page/張娜拉.md" title="wikilink">張娜拉</a><br />
 <a href="../Page/崔元英.md" title="wikilink">崔元英</a><br />
 <a href="../Page/李天熙.md" title="wikilink">李天熙</a><br />
-<a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a></p></td>
+<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a></p></td>
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>、<a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a>）<br />
 13（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
@@ -949,7 +949,7 @@
 <td><p><a href="../Page/盛駿.md" title="wikilink">盛駿</a><br />
 <a href="https://zh.wikipedia.org/wiki/U-ie" title="wikilink">U-ie</a><br />
 <a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">朴炯植</a><br />
-<a href="https://zh.wikipedia.org/wiki/林智妍" title="wikilink">林智妍</a></p></td>
+<a href="../Page/林智妍.md" title="wikilink">林智妍</a></p></td>
 <td></td>
 <td><p>16</p></td>
 <td><p>[36][37]</p></td>
@@ -1009,7 +1009,7 @@
 <tr class="even">
 <td><p>1月14日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/心情好的日子" title="wikilink">心情好的日子</a></strong></p></td>
+<td><p><strong><a href="../Page/心情好的日子.md" title="wikilink">心情好的日子</a></strong></p></td>
 <td><p><a href="../Page/朴世榮.md" title="wikilink">朴世榮</a><br />
 <a href="../Page/李尚禹.md" title="wikilink">李尚禹</a><br />
 <a href="../Page/金美淑.md" title="wikilink">金美淑</a><br />
@@ -1189,12 +1189,12 @@
 <tr class="even">
 <td><p>5月3日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/剩餘公主" title="wikilink">剩魚公主</a></strong><br />
+<td><p><strong><a href="../Page/剩餘公主.md" title="wikilink">剩魚公主</a></strong><br />
 （剩餘公主）</p></td>
 <td><p><a href="../Page/趙寶兒.md" title="wikilink">趙寶兒</a><br />
 <a href="../Page/溫朱莞.md" title="wikilink">溫朱莞</a><br />
 <a href="../Page/宋再臨.md" title="wikilink">宋再臨</a><br />
-<a href="https://zh.wikipedia.org/wiki/朴芝秀" title="wikilink">朴芝秀</a></p></td>
+<a href="../Page/朴芝秀.md" title="wikilink">朴芝秀</a></p></td>
 <td></td>
 <td><p>10</p></td>
 <td><p>[73][74]</p></td>
@@ -1223,7 +1223,7 @@
 <a href="https://zh.wikipedia.org/wiki/李惠利" title="wikilink">李惠利</a><br />
 <a href="../Page/高庚杓.md" title="wikilink">高庚杓</a><br />
 <a href="../Page/柳俊烈.md" title="wikilink">柳俊烈</a><br />
-<a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a><br />
+<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a><br />
 <a href="https://zh.wikipedia.org/wiki/安宰洪" title="wikilink">安宰洪</a><br />
 <a href="https://zh.wikipedia.org/wiki/李東輝" title="wikilink">李東輝</a><br />
 </p></td>
@@ -1350,7 +1350,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a></p></td>
 <td><p><strong><a href="../Page/大撲.md" title="wikilink">大撲</a></strong></p></td>
 <td><p><a href="../Page/張根碩.md" title="wikilink">張根碩</a><br />
-<a href="https://zh.wikipedia.org/wiki/林智妍" title="wikilink">林智妍</a><br />
+<a href="../Page/林智妍.md" title="wikilink">林智妍</a><br />
 <a href="../Page/呂珍九.md" title="wikilink">呂珍九</a><br />
 <a href="../Page/崔民秀.md" title="wikilink">崔民秀</a><br />
 <a href="../Page/田光烈_(韓國).md" title="wikilink">田光烈</a></p></td>
@@ -1435,7 +1435,7 @@
 <td><p>10月18日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a></p></td>
 <td><p><strong><a href="../Page/雲畫的月光.md" title="wikilink">雲畫的月光</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a><br />
+<td><p><a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a><br />
 <a href="../Page/金裕貞.md" title="wikilink">金裕貞</a><br />
 <a href="https://zh.wikipedia.org/wiki/鄭振永" title="wikilink">鄭振永</a><br />
 <a href="../Page/蔡秀彬.md" title="wikilink">蔡秀彬</a><br />
@@ -1475,7 +1475,7 @@
 <td><p>11月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a></p></td>
 <td><p><strong><a href="../Page/雲畫的月光.md" title="wikilink">雲畫的月光特別篇</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a><br />
+<td><p><a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a><br />
 <a href="../Page/金裕貞.md" title="wikilink">金裕貞</a><br />
 <a href="https://zh.wikipedia.org/wiki/鄭振永" title="wikilink">鄭振永</a><br />
 <a href="../Page/蔡秀彬.md" title="wikilink">蔡秀彬</a><br />
@@ -1573,7 +1573,7 @@
 <tr class="odd">
 <td><p>2月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/赤身的消防員" title="wikilink">赤裸的消防員</a></strong></p></td>
+<td><p><strong><a href="../Page/赤身的消防員.md" title="wikilink">赤裸的消防員</a></strong></p></td>
 <td><p><a href="../Page/李浚赫.md" title="wikilink">李浚赫</a><br />
 <a href="https://zh.wikipedia.org/wiki/鄭吝善" title="wikilink">鄭吝善</a></p></td>
 <td></td>
@@ -1597,7 +1597,7 @@
 <tr class="odd">
 <td><p>3月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/內向的老闆" title="wikilink">內向的老闆</a></strong></p></td>
+<td><p><strong><a href="../Page/內向的老闆.md" title="wikilink">內向的老闆</a></strong></p></td>
 <td><p><a href="../Page/延宇振.md" title="wikilink">延宇振</a><br />
 <a href="../Page/朴慧秀.md" title="wikilink">朴慧秀</a><br />
 <a href="../Page/尹博.md" title="wikilink">尹博</a><br />
@@ -1629,9 +1629,9 @@
 <td><p><a href="../Page/李鍾碩.md" title="wikilink">李鍾碩</a><br />
 <a href="../Page/韓孝周.md" title="wikilink">韓孝周</a><br />
 <a href="https://zh.wikipedia.org/wiki/鄭幼珍" title="wikilink">鄭幼珍</a><br />
-<a href="https://zh.wikipedia.org/wiki/金義聖" title="wikilink">金義聖</a><br />
+<a href="../Page/金義聖.md" title="wikilink">金義聖</a><br />
 <a href="../Page/李泰煥.md" title="wikilink">李泰煥</a><br />
-<a href="https://zh.wikipedia.org/wiki/姜其永" title="wikilink">姜其永</a></p></td>
+<a href="../Page/姜其永.md" title="wikilink">姜其永</a></p></td>
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 20（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
@@ -1653,7 +1653,7 @@
 <tr class="odd">
 <td><p>5月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/金科長" title="wikilink">金科長</a></strong></p></td>
+<td><p><strong><a href="../Page/金科長.md" title="wikilink">金科長</a></strong></p></td>
 <td><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a><br />
 <a href="../Page/南相美.md" title="wikilink">南相美</a><br />
 <a href="https://zh.wikipedia.org/wiki/李俊昊" title="wikilink">李俊昊</a></p></td>
@@ -1664,7 +1664,7 @@
 <tr class="even">
 <td><p>6月8日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Now觀星台" title="wikilink">Now觀星台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/她愛上了我的謊_(韓國電視劇)" title="wikilink">她愛上了我的謊</a></strong></p></td>
+<td><p><strong><a href="../Page/她愛上了我的謊_(韓國電視劇).md" title="wikilink">她愛上了我的謊</a></strong></p></td>
 <td><p><a href="../Page/李玹雨.md" title="wikilink">李玹雨</a><br />
 <a href="../Page/Joy_(Red_Velvet).md" title="wikilink">朴秀英</a><br />
 <a href="../Page/李廷鎮.md" title="wikilink">李廷鎮</a><br />
@@ -1692,7 +1692,7 @@
 <tr class="even">
 <td><p>9月22日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/推理的女王" title="wikilink">推理的女王</a></strong></p></td>
+<td><p><strong><a href="../Page/推理的女王.md" title="wikilink">推理的女王</a></strong></p></td>
 <td><p><a href="../Page/崔江姬.md" title="wikilink">崔江姬</a><br />
 <a href="../Page/權相佑.md" title="wikilink">權相佑</a></p></td>
 <td></td>
@@ -1703,7 +1703,7 @@
 <tr class="odd">
 <td><p>11月7日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Circle：相連的兩個世界" title="wikilink">Circle：相連的兩個世界</a></strong></p></td>
+<td><p><strong><a href="../Page/Circle：相連的兩個世界.md" title="wikilink">Circle：相連的兩個世界</a></strong></p></td>
 <td><p><a href="../Page/呂珍九.md" title="wikilink">呂珍九</a><br />
 -{<a href="../Page/金剛于.md" title="wikilink">金剛于</a>}-<br />
 <a href="https://zh.wikipedia.org/wiki/孔昇延" title="wikilink">孔昇延</a><br />
@@ -1716,7 +1716,7 @@
 <tr class="even">
 <td><p>11月23日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/七日的王妃" title="wikilink">七日的王妃</a></strong></p></td>
+<td><p><strong><a href="../Page/七日的王妃.md" title="wikilink">七日的王妃</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a><br />
 <a href="../Page/延宇振.md" title="wikilink">延宇振</a><br />
 <a href="../Page/李東健.md" title="wikilink">李東健</a></p></td>
@@ -1728,7 +1728,7 @@
 <tr class="odd">
 <td><p>12月13日</p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/君主－假面的主人" title="wikilink">君主－假面的主人</a></strong></p></td>
+<td><p><strong><a href="../Page/君主－假面的主人.md" title="wikilink">君主－假面的主人</a></strong></p></td>
 <td><p><a href="../Page/俞承豪.md" title="wikilink">俞承豪</a><br />
 <a href="https://zh.wikipedia.org/wiki/金所炫" title="wikilink">金所炫</a><br />
 <a href="../Page/金明洙.md" title="wikilink">金明洙</a><br />
@@ -1741,7 +1741,7 @@
 <tr class="even">
 <td><p>12月21日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/河伯的新娘_2017" title="wikilink">河伯的新娘 2017</a></strong></p></td>
+<td><p><strong><a href="../Page/河伯的新娘_2017.md" title="wikilink">河伯的新娘 2017</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南柱赫" title="wikilink">南柱赫</a><br />
 <a href="../Page/申世景.md" title="wikilink">申世景</a><br />
 <a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a><br />
@@ -1781,7 +1781,7 @@
 <tr class="even">
 <td><p>1月12日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/學校2017" title="wikilink">學校2017</a></strong></p></td>
+<td><p><strong><a href="../Page/學校2017.md" title="wikilink">學校2017</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">金世正</a><br />
 <a href="https://zh.wikipedia.org/wiki/金正鉉" title="wikilink">金正鉉</a><br />
 <a href="https://zh.wikipedia.org/wiki/張東尹" title="wikilink">張東尹</a><br />
@@ -1831,7 +1831,7 @@
 <tr class="even">
 <td><p>4月12日</p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Single_Wife" title="wikilink">單親妻</a></strong></p></td>
+<td><p><strong><a href="../Page/Single_Wife.md" title="wikilink">單親妻</a></strong></p></td>
 <td><p><a href="../Page/嚴賢璟.md" title="wikilink">嚴賢璟</a><br />
 <a href="../Page/成赫.md" title="wikilink">成赫</a><br />
 <a href="../Page/郭熙聖.md" title="wikilink">郭熙聖</a><br />
@@ -1843,9 +1843,9 @@
 <tr class="odd">
 <td><p>4月13日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/愛情的溫度" title="wikilink">愛情的溫度</a></strong></p></td>
+<td><p><strong><a href="../Page/愛情的溫度.md" title="wikilink">愛情的溫度</a></strong></p></td>
 <td><p><a href="../Page/徐玄振.md" title="wikilink">徐玄振</a><br />
-<a href="https://zh.wikipedia.org/wiki/梁世宗_(韓國)" title="wikilink">梁世宗</a><br />
+<a href="../Page/梁世宗_(韓國).md" title="wikilink">梁世宗</a><br />
 <a href="../Page/金材昱.md" title="wikilink">金材昱</a><br />
 <a href="../Page/趙寶兒.md" title="wikilink">趙寶兒</a></p></td>
 <td></td>
@@ -1856,7 +1856,7 @@
 <tr class="even">
 <td><p>6月25日</p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/醫療船_(韓國電視劇)" title="wikilink">醫療船</a></strong></p></td>
+<td><p><strong><a href="../Page/醫療船_(韓國電視劇).md" title="wikilink">醫療船</a></strong></p></td>
 <td><p><a href="../Page/河智苑.md" title="wikilink">河智苑</a><br />
 <a href="../Page/姜敏赫.md" title="wikilink">姜敏赫</a></p></td>
 <td></td>
@@ -1867,7 +1867,7 @@
 <tr class="odd">
 <td><p>5月8日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Argon_(電視劇)" title="wikilink">ARGON</a></strong></p></td>
+<td><p><strong><a href="../Page/Argon_(電視劇).md" title="wikilink">ARGON</a></strong></p></td>
 <td><p><a href="../Page/金柱赫.md" title="wikilink">金柱赫</a><br />
 <a href="../Page/千玗嬉.md" title="wikilink">千玗嬉</a></p></td>
 <td></td>
@@ -1889,7 +1889,7 @@
 <tr class="odd">
 <td><p>6月8日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/操作_(電視劇)" title="wikilink">操作</a></strong></p></td>
+<td><p><strong><a href="../Page/操作_(電視劇).md" title="wikilink">操作</a></strong></p></td>
 <td><p><a href="../Page/南宮珉.md" title="wikilink">南宮珉</a><br />
 <a href="../Page/劉俊相.md" title="wikilink">劉俊相</a><br />
 <a href="../Page/嚴智苑.md" title="wikilink">嚴智苑</a><br />
@@ -1902,7 +1902,7 @@
 <tr class="even">
 <td><p>6月11日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Andante_(韓國電視劇)" title="wikilink">Andante</a></strong></p></td>
+<td><p><strong><a href="../Page/Andante_(韓國電視劇).md" title="wikilink">Andante</a></strong></p></td>
 <td><p><a href="../Page/Kai.md" title="wikilink">Kai</a><br />
 <br />
 <br />
@@ -1914,7 +1914,7 @@
 <tr class="odd">
 <td><p>7月2日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/黑騎士_(韓國電視劇)" title="wikilink">黑騎士</a></strong></p></td>
+<td><p><strong><a href="../Page/黑騎士_(韓國電視劇).md" title="wikilink">黑騎士</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金來沅" title="wikilink">金來沅</a><br />
 <a href="../Page/申世景.md" title="wikilink">申世景</a><br />
 <a href="https://zh.wikipedia.org/wiki/徐智慧" title="wikilink">徐智慧</a></p></td>
@@ -1926,7 +1926,7 @@
 <tr class="even">
 <td><p>7月3日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Mad_Dog" title="wikilink">Mad Dog</a></strong></p></td>
+<td><p><strong><a href="../Page/Mad_Dog.md" title="wikilink">Mad Dog</a></strong></p></td>
 <td><p><a href="../Page/劉智泰.md" title="wikilink">劉智泰</a><br />
 <a href="https://zh.wikipedia.org/wiki/禹棹奐" title="wikilink">禹棹奐</a><br />
 <a href="../Page/柳和榮.md" title="wikilink">柳和榮</a><br />
@@ -1940,14 +1940,14 @@
 <tr class="odd">
 <td><p>7月13日</p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/20世紀少男少女" title="wikilink">20世紀少男少女</a></strong></p></td>
+<td><p><strong><a href="../Page/20世紀少男少女.md" title="wikilink">20世紀少男少女</a></strong></p></td>
 <td><p><a href="../Page/韓藝瑟.md" title="wikilink">韓藝瑟</a><br />
 <a href="../Page/金知碩.md" title="wikilink">金知碩</a><br />
 <a href="../Page/李尚禹.md" title="wikilink">李尚禹</a><br />
 <a href="../Page/柳賢慶.md" title="wikilink">柳賢慶</a><br />
 <br />
 <a href="https://zh.wikipedia.org/wiki/安世河" title="wikilink">安世河</a><br />
-<a href="https://zh.wikipedia.org/wiki/吳尚津" title="wikilink">吳尚津</a></p></td>
+<a href="../Page/吳尚津.md" title="wikilink">吳尚津</a></p></td>
 <td></td>
 <td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
 45（<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a>）</p></td>
@@ -1956,10 +1956,10 @@
 <tr class="even">
 <td><p>7月25日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/今生是第一次" title="wikilink">今生是第一次</a></strong></p></td>
+<td><p><strong><a href="../Page/今生是第一次.md" title="wikilink">今生是第一次</a></strong></p></td>
 <td><p><a href="../Page/李民基.md" title="wikilink">李民基</a><br />
 <a href="../Page/庭沼珉.md" title="wikilink">庭沼珉</a><br />
-<a href="https://zh.wikipedia.org/wiki/朴秉恩" title="wikilink">朴秉恩</a><br />
+<a href="../Page/朴秉恩.md" title="wikilink">朴秉恩</a><br />
 <a href="../Page/李絮.md" title="wikilink">李絮</a><br />
 <a href="https://zh.wikipedia.org/wiki/金玟錫" title="wikilink">金玟錫</a><br />
 <a href="../Page/金佳恩.md" title="wikilink">金佳恩</a></p></td>
@@ -1971,7 +1971,7 @@
 <tr class="odd">
 <td><p>7月30日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/疑問的一勝" title="wikilink">疑問的一勝</a></strong></p></td>
+<td><p><strong><a href="../Page/疑問的一勝.md" title="wikilink">疑問的一勝</a></strong></p></td>
 <td><p><a href="../Page/尹鈞相.md" title="wikilink">尹鈞相</a><br />
 <a href="../Page/鄭惠成.md" title="wikilink">鄭惠成</a></p></td>
 <td></td>
@@ -1981,7 +1981,7 @@
 <tr class="even">
 <td><p>8月16日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Cross_(電視劇)" title="wikilink">Cross</a></strong></p></td>
+<td><p><strong><a href="../Page/Cross_(電視劇).md" title="wikilink">Cross</a></strong></p></td>
 <td><p><a href="../Page/高庚杓.md" title="wikilink">高庚杓</a><br />
 <a href="../Page/曹在顯.md" title="wikilink">曹在顯</a><br />
 <a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></p></td>
@@ -1992,7 +1992,7 @@
 <tr class="odd">
 <td><p>8月27日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Misty" title="wikilink">Misty</a></strong></p></td>
+<td><p><strong><a href="../Page/Misty.md" title="wikilink">Misty</a></strong></p></td>
 <td><p><a href="../Page/金南珠_(1971年).md" title="wikilink">金南珠</a><br />
 <a href="../Page/池珍熙.md" title="wikilink">池珍熙</a><br />
 <a href="../Page/全慧珍.md" title="wikilink">全慧珍</a><br />
@@ -2009,8 +2009,8 @@
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/加油！威基基" title="wikilink">加油！威基基</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金正鉉_(演員)" title="wikilink">金正鉉</a><br />
 <a href="../Page/李伊庚.md" title="wikilink">李伊庚</a><br />
-<a href="https://zh.wikipedia.org/wiki/孫承源" title="wikilink">孫承源</a><br />
-<a href="https://zh.wikipedia.org/wiki/鄭仁仙" title="wikilink">鄭仁仙</a><br />
+<a href="../Page/孫承源.md" title="wikilink">孫承源</a><br />
+<a href="../Page/鄭仁仙.md" title="wikilink">鄭仁仙</a><br />
 <a href="../Page/高媛熙.md" title="wikilink">高媛熙</a><br />
 </p></td>
 <td></td>
@@ -2021,7 +2021,7 @@
 <tr class="odd">
 <td><p>10月17日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/推理的女王2" title="wikilink">推理的女王2</a></strong></p></td>
+<td><p><strong><a href="../Page/推理的女王2.md" title="wikilink">推理的女王2</a></strong></p></td>
 <td><p><a href="../Page/崔江姬.md" title="wikilink">崔江姬</a><br />
 <a href="../Page/權相佑.md" title="wikilink">權相佑</a></p></td>
 <td></td>
@@ -2033,10 +2033,10 @@
 <tr class="even">
 <td><p>10月18日</p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Two_Cops" title="wikilink">雙面靈探</a></strong></p></td>
+<td><p><strong><a href="../Page/Two_Cops.md" title="wikilink">雙面靈探</a></strong></p></td>
 <td><p><a href="../Page/曹政奭.md" title="wikilink">曹政奭</a><br />
 <a href="../Page/惠利.md" title="wikilink">惠利</a><br />
-<a href="https://zh.wikipedia.org/wiki/金善浩" title="wikilink">金善浩</a><br />
+<a href="../Page/金善浩.md" title="wikilink">金善浩</a><br />
 <a href="../Page/林世美.md" title="wikilink">林世美</a></p></td>
 <td></td>
 <td><p>32（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
@@ -2046,7 +2046,7 @@
 <tr class="odd">
 <td><p>11月7日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Suits_(韓國電視劇)" title="wikilink">金裝律師</a></strong></p></td>
+<td><p><strong><a href="../Page/Suits_(韓國電視劇).md" title="wikilink">金裝律師</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/張東健" title="wikilink">張東健</a><br />
 <a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">朴炯植</a></p></td>
 <td></td>
@@ -2057,7 +2057,7 @@
 <tr class="even">
 <td><p>11月28日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/致忘了詩的你" title="wikilink">致忘了詩的你</a></strong></p></td>
+<td><p><strong><a href="../Page/致忘了詩的你.md" title="wikilink">致忘了詩的你</a></strong></p></td>
 <td><p><a href="../Page/李浚赫.md" title="wikilink">李浚赫</a><br />
 <a href="https://zh.wikipedia.org/wiki/張東尹" title="wikilink">張東尹</a><br />
 <a href="../Page/李侑菲.md" title="wikilink">李侑菲</a></p></td>
@@ -2072,7 +2072,7 @@
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Sketch" title="wikilink">Sketch</a></strong></p></td>
 <td><p><a href="../Page/Rain.md" title="wikilink">Rain</a><br />
 <a href="../Page/李東健.md" title="wikilink">李東健</a><br />
-<a href="https://zh.wikipedia.org/wiki/李善彬" title="wikilink">李善彬</a><br />
+<a href="../Page/李善彬.md" title="wikilink">李善彬</a><br />
 <a href="../Page/鄭進永.md" title="wikilink">鄭進永</a></p></td>
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
@@ -2122,7 +2122,7 @@
 <tr class="even">
 <td><p>1月12日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/漢摩拉比小姐" title="wikilink">漢摩拉比小姐</a></strong></p></td>
+<td><p><strong><a href="../Page/漢摩拉比小姐.md" title="wikilink">漢摩拉比小姐</a></strong></p></td>
 <td><p><a href="../Page/高雅羅.md" title="wikilink">高雅羅</a><br />
 <a href="../Page/金明洙.md" title="wikilink">金明洙</a><br />
 <a href="../Page/成東鎰.md" title="wikilink">成東鎰</a></p></td>
@@ -2145,8 +2145,8 @@
 <tr class="even">
 <td><p>2月4日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/雖然30但仍17" title="wikilink">雖然30但仍17</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/梁世宗_(韓國)" title="wikilink">梁世宗</a><br />
+<td><p><strong><a href="../Page/雖然30但仍17.md" title="wikilink">雖然30但仍17</a></strong></p></td>
+<td><p><a href="../Page/梁世宗_(韓國).md" title="wikilink">梁世宗</a><br />
 <a href="../Page/申惠善.md" title="wikilink">申惠善</a><br />
 <a href="../Page/安孝燮.md" title="wikilink">安孝燮</a></p></td>
 <td></td>
@@ -2157,7 +2157,7 @@
 <tr class="odd">
 <td><p>2月12日</p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
-<td><p><strong>-{<a href="https://zh.wikipedia.org/wiki/不是機器人啊" title="wikilink">我不是機械人</a>}-</strong></p></td>
+<td><p><strong>-{<a href="../Page/不是機器人啊.md" title="wikilink">我不是機械人</a>}-</strong></p></td>
 <td><p><a href="../Page/俞承豪.md" title="wikilink">俞承豪</a><br />
 <a href="../Page/蔡秀彬.md" title="wikilink">蔡秀彬</a><br />
 <a href="../Page/嚴基俊.md" title="wikilink">嚴基俊</a></p></td>
@@ -2169,7 +2169,7 @@
 <tr class="even">
 <td><p>3月8日</p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/檢法男女" title="wikilink">檢法男女</a></strong></p></td>
+<td><p><strong><a href="../Page/檢法男女.md" title="wikilink">檢法男女</a></strong></p></td>
 <td><p><a href="../Page/鄭在詠.md" title="wikilink">鄭在詠</a><br />
 <a href="../Page/鄭柔美.md" title="wikilink">鄭柔美</a><br />
 <a href="../Page/李伊庚.md" title="wikilink">李伊庚</a><br />
@@ -2183,7 +2183,7 @@
 <tr class="odd">
 <td><p>2月24日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/我的ID是江南美人" title="wikilink">我的ID是江南美人</a></strong></p></td>
+<td><p><strong><a href="../Page/我的ID是江南美人.md" title="wikilink">我的ID是江南美人</a></strong></p></td>
 <td><p><a href="../Page/林秀香.md" title="wikilink">林秀香</a><br />
 <a href="../Page/車銀優.md" title="wikilink">車銀優</a><br />
 <a href="../Page/趙宇麗.md" title="wikilink">趙宇麗</a><br />
@@ -2234,7 +2234,7 @@
 <td><p>5月24日</p></td>
 <td><p><a href="../Page/Now劇集台.md" title="wikilink">Now劇集台</a></p></td>
 <td><p><strong><a href="../Page/男朋友_(電視劇).md" title="wikilink">男朋友</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a><br />
+<td><p><a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a><br />
 <a href="../Page/宋慧喬.md" title="wikilink">宋慧喬</a></p></td>
 <td></td>
 <td><p>16（<a href="../Page/Viu.md" title="wikilink">Viu</a>）<br />
@@ -2244,9 +2244,9 @@
 <tr class="even">
 <td><p>5月28日</p></td>
 <td><p><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/我身後的陶斯" title="wikilink">我身後的陶斯</a></strong></p></td>
+<td><p><strong><a href="../Page/我身後的陶斯.md" title="wikilink">我身後的陶斯</a></strong></p></td>
 <td><p><a href="../Page/蘇志燮.md" title="wikilink">蘇志燮</a><br />
-<a href="https://zh.wikipedia.org/wiki/鄭仁仙" title="wikilink">鄭仁仙</a><br />
+<a href="../Page/鄭仁仙.md" title="wikilink">鄭仁仙</a><br />
 <a href="https://zh.wikipedia.org/wiki/孫浩俊" title="wikilink">孫浩俊</a><br />
 <a href="../Page/林世美.md" title="wikilink">林世美</a></p></td>
 <td></td>

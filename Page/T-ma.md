@@ -129,7 +129,7 @@ Ma**），[香港](../Page/香港.md "wikilink")[音樂製作人](https://zh.wik
 <li><a href="../Page/馮允謙.md" title="wikilink">馮允謙</a> - Keep On, Fight On（English Acoustic Version）（曲、詞、編、監）</li>
 <li>馮允謙 - 同在記號（編、監）</li>
 <li>馮允謙 Feat. <a href="../Page/MastaMic.md" title="wikilink">MastaMic</a> - Keep On, Fight On（曲、詞、編）</li>
-<li><a href="https://zh.wikipedia.org/wiki/潘伯仲" title="wikilink">潘伯仲</a> - 霧霾森林（曲、編、監）</li>
+<li><a href="../Page/潘伯仲.md" title="wikilink">潘伯仲</a> - 霧霾森林（曲、編、監）</li>
 <li><a href="../Page/南拳媽媽.md" title="wikilink">南拳媽媽</a> NQMM - 孤單遊戲（曲，編）</li>
 <li><a href="../Page/南拳媽媽.md" title="wikilink">南拳媽媽</a> NQMM - 最美的女孩（曲）</li>
 <li><a href="../Page/南拳媽媽.md" title="wikilink">南拳媽媽</a> NQMM - 一個宇宙（編）</li>
@@ -164,7 +164,7 @@ Ma**），[香港](../Page/香港.md "wikilink")[音樂製作人](https://zh.wik
 <td><ul>
 <li><a href="../Page/周柏豪.md" title="wikilink">周柏豪</a> Feat. <a href="https://zh.wikipedia.org/wiki/黃宇希" title="wikilink">Shimica</a> - How Do I Look（編）</li>
 <li><a href="../Page/陳柏宇.md" title="wikilink">陳柏宇</a> - 交叉神經（曲、編、監）</li>
-<li><a href="https://zh.wikipedia.org/wiki/潘伯仲" title="wikilink">潘伯仲</a> - 我是病人（監）</li>
+<li><a href="../Page/潘伯仲.md" title="wikilink">潘伯仲</a> - 我是病人（監）</li>
 <li><a href="../Page/衛詩.md" title="wikilink">衛　詩</a> - 缺氧（編）</li>
 <li><a href="../Page/鄭融.md" title="wikilink">鄭　融</a> - 死不了的（編）</li>
 <li><a href="../Page/關楚耀.md" title="wikilink">關楚耀</a> - 死亡之吻（曲、編、監）</li>
@@ -193,7 +193,7 @@ Ma**），[香港](../Page/香港.md "wikilink")[音樂製作人](https://zh.wik
 <li><a href="../Page/江海迦.md" title="wikilink">AGA</a> - 小問題（編）</li>
 <li>AGA - 小問題（Retro Remix）（編）</li>
 <li><a href="../Page/A-Lin.md" title="wikilink">A-Lin</a> - 一無鍾情（編）</li>
-<li><a href="https://zh.wikipedia.org/wiki/Dusty_Bottle" title="wikilink">Dusty Bottle</a> - How Could You?（監）</li>
+<li><a href="../Page/Dusty_Bottle.md" title="wikilink">Dusty Bottle</a> - How Could You?（監）</li>
 <li><a href="https://zh.wikipedia.org/wiki/JUDE" title="wikilink">JUDE</a>、<a href="../Page/林德信.md" title="wikilink">林德信</a> - On The Road（曲、編、監）</li>
 <li><a href="https://zh.wikipedia.org/wiki/MIRROR" title="wikilink">MIRROR</a> - ASAP（曲）</li>
 </ul></td>
@@ -223,10 +223,10 @@ Ma**），[香港](../Page/香港.md "wikilink")[音樂製作人](https://zh.wik
 </tr>
 <tr class="even">
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/符致逸" title="wikilink">符致逸</a> - 值得放棄（曲、編）</li>
+<li><a href="../Page/符致逸.md" title="wikilink">符致逸</a> - 值得放棄（曲、編）</li>
 </ul></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/潘伯仲" title="wikilink">潘伯仲</a> Feat. <a href="https://zh.wikipedia.org/wiki/Heyo" title="wikilink">Heyo</a> - 流星語夜人（編、監）</li>
+<li><a href="../Page/潘伯仲.md" title="wikilink">潘伯仲</a> Feat. <a href="../Page/Heyo.md" title="wikilink">Heyo</a> - 流星語夜人（編、監）</li>
 </ul></td>
 </tr>
 </tbody>

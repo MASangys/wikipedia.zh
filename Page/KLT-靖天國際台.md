@@ -1,4 +1,4 @@
-**KLT-靖天國際台**是[嘉麗台第二條頻道](../Page/嘉麗台.md "wikilink")，2016年2月1日開播、取代[家娛國際台](https://zh.wikipedia.org/wiki/家娛國際台 "wikilink")。該頻道由[媒體智庫有限公司與](https://zh.wikipedia.org/wiki/媒體智庫有限公司 "wikilink")[靖天傳播合作開設](../Page/靖天傳播.md "wikilink")，主要播出[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro
+**KLT-靖天國際台**是[嘉麗台第二條頻道](../Page/嘉麗台.md "wikilink")，2016年2月1日開播、取代[家娛國際台](https://zh.wikipedia.org/wiki/家娛國際台 "wikilink")。該頻道由[媒體智庫有限公司與](../Page/媒體智庫有限公司.md "wikilink")[靖天傳播合作開設](../Page/靖天傳播.md "wikilink")，主要播出[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro
 TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
 
 ## 節目列表
@@ -177,7 +177,7 @@ TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
   - 帶亞媽去旅行 2017（帶阿媽去旅行 2017）
   - 身. 醫. 管
   - 香港有寶證
-  - [杜文澤食住上](https://zh.wikipedia.org/wiki/杜汶澤食住上 "wikilink")（杜汶澤食住上）
+  - [杜文澤食住上](../Page/杜汶澤食住上.md "wikilink")（杜汶澤食住上）
   - Learning男
   - 無恐不入（無「恐」不入）
   - 朝拜傲媽

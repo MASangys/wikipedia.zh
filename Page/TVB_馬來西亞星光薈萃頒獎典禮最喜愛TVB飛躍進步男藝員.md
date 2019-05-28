@@ -129,7 +129,7 @@ AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒
 <td><p>師奶MADAM / 四個女仔三個BAR / 倩女喜相逢 / 以和為貴 / 華麗轉身 / 收規華</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/張振朗" title="wikilink">張振朗</a></p></td>
+<td><p><a href="../Page/張振朗.md" title="wikilink">張振朗</a></p></td>
 <td><p>醋娘子 / 水髮胭脂 / 陪着你走 / 愛·回家</p></td>
 </tr>
 <tr class="odd">
@@ -148,7 +148,7 @@ AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒
 </table></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2016" title="wikilink">2016年</a></strong><br />
+<td><p><strong><a href="../Page/TVB_馬來西亞星光薈萃頒獎典禮2016.md" title="wikilink">2016年</a></strong><br />
 <small>第13屆'''</small><br />
 </p></td>
 <td><p><strong><a href="../Page/張頴康.md" title="wikilink">張頴康</a> †</strong></p></td>
@@ -193,7 +193,7 @@ AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒
 </table></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2017" title="wikilink">2017年</a></strong><br />
+<td><p><strong><a href="../Page/TVB_馬來西亞星光薈萃頒獎典禮2017.md" title="wikilink">2017年</a></strong><br />
 <small>第14屆'''</small><br />
 </p></td>
 <td><p><strong><a href="../Page/何廣沛.md" title="wikilink">何廣沛</a> ‡</strong></p></td>
@@ -219,7 +219,7 @@ AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒
 <td><p>親親我好媽 / 雜警奇兵</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/張振朗" title="wikilink">張振朗</a></p></td>
+<td><p><a href="../Page/張振朗.md" title="wikilink">張振朗</a></p></td>
 <td><p>全職沒女 / 踩過界</p></td>
 </tr>
 <tr class="odd">

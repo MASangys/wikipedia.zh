@@ -34,7 +34,7 @@ Live](https://zh.wikipedia.org/wiki/LoveLive!_\(動畫\) "wikilink")\!》的第�
   - [南小鳥](https://zh.wikipedia.org/wiki/μ's#南小鳥 "wikilink")：[内田彩](https://zh.wikipedia.org/wiki/内田彩 "wikilink")
   - [園田海未](https://zh.wikipedia.org/wiki/μ's#園田海未 "wikilink")：[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")
   - [星空凛](https://zh.wikipedia.org/wiki/μ's#星空凛 "wikilink")：[飯田-{里}-穗](../Page/飯田里穗.md "wikilink")
-  - [西木野真姬](https://zh.wikipedia.org/wiki/μ's#西木野真姬 "wikilink")：[Pile](https://zh.wikipedia.org/wiki/Pile "wikilink")
+  - [西木野真姬](https://zh.wikipedia.org/wiki/μ's#西木野真姬 "wikilink")：[Pile](../Page/Pile.md "wikilink")
   - [東條希](https://zh.wikipedia.org/wiki/μ's#東條希 "wikilink")：[楠田亞衣奈](../Page/楠田亞衣奈.md "wikilink")
   - [小泉花陽](https://zh.wikipedia.org/wiki/μ's#小泉花陽 "wikilink")：[久保由利香](https://zh.wikipedia.org/wiki/久保由利香 "wikilink")
   - [矢澤妮可](https://zh.wikipedia.org/wiki/μ's#矢澤妮可 "wikilink")：[德井青空](../Page/德井青空.md "wikilink")
@@ -79,8 +79,8 @@ Live](https://zh.wikipedia.org/wiki/LoveLive!_\(動畫\) "wikilink")\!》的第�
 <!-- end list -->
 
   - [雨宮天](https://zh.wikipedia.org/wiki/雨宮天 "wikilink")
-  - [茜屋日海夏](https://zh.wikipedia.org/wiki/茜屋日海夏 "wikilink")
-  - [麻倉桃](https://zh.wikipedia.org/wiki/麻倉桃 "wikilink")
+  - [茜屋日海夏](../Page/茜屋日海夏.md "wikilink")
+  - [麻倉桃](../Page/麻倉桃.md "wikilink")
   - [瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")
   - [小松未可子](../Page/小松未可子.md "wikilink")
   - [種田梨沙](../Page/種田梨沙.md "wikilink")
@@ -104,7 +104,7 @@ Live](https://zh.wikipedia.org/wiki/LoveLive!_\(動畫\) "wikilink")\!》的第�
 <!-- end list -->
 
   - 秋葉原的記者：[高森奈津美](../Page/高森奈津美.md "wikilink")
-  - 羊駝：[麥穗杏菜](https://zh.wikipedia.org/wiki/麥穗杏菜 "wikilink")
+  - 羊駝：[麥穗杏菜](../Page/麥穗杏菜.md "wikilink")
   - 謎之女歌手：[高山南](../Page/高山南.md "wikilink")
 
 ## 製作

@@ -32,7 +32,7 @@ GIRLS》講述了由於父母再婚而住到同一屋簷下成為繼姐妹的兩
     [楊耀泰](../Page/楊耀泰.md "wikilink") (香港)
     专业摄影师。
   - 志田 まどか
-    演员 - [雾岛丽香](https://zh.wikipedia.org/wiki/雾岛丽香 "wikilink") (日本) ;
+    演员 - [雾岛丽香](../Page/雾岛丽香.md "wikilink") (日本) ;
     [莎拉](../Page/莎拉.md "wikilink") (香港)
     ゆい的母親。
   - 葉山 圭吾

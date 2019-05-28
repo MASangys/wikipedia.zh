@@ -5,7 +5,7 @@ TB（付费账户）。\[2\]2018年1月20日，MEGA官方在其5周年当日发[
 
 ## 历史
 
-[MEGA的前身即为](https://zh.wikipedia.org/wiki/MEGA "wikilink")[金·達康创立的云存储服务](../Page/金·達康.md "wikilink")[Megaupload](../Page/Megaupload.md "wikilink")，但于2012年1月19日被[美国司法部扣押并关闭](../Page/美国司法部.md "wikilink")。[非洲的中西部国家](../Page/非洲.md "wikilink")[加蓬也拒绝了其新](../Page/加蓬.md "wikilink")[域名me](../Page/域名.md "wikilink").ga，\[5\]其后金·達康宣布将在新西兰注册，域名为mega.co.nz。\[6\]MEGA发布于Megaupload关站一周年——即2013年1月19日上线。\[7\]
+[MEGA的前身即为](../Page/MEGA.md "wikilink")[金·達康创立的云存储服务](../Page/金·達康.md "wikilink")[Megaupload](../Page/Megaupload.md "wikilink")，但于2012年1月19日被[美国司法部扣押并关闭](../Page/美国司法部.md "wikilink")。[非洲的中西部国家](../Page/非洲.md "wikilink")[加蓬也拒绝了其新](../Page/加蓬.md "wikilink")[域名me](../Page/域名.md "wikilink").ga，\[5\]其后金·達康宣布将在新西兰注册，域名为mega.co.nz。\[6\]MEGA发布于Megaupload关站一周年——即2013年1月19日上线。\[7\]
 金·達康在[Twitter上宣称仅仅上线的第一个小时便有十万人次的注册用户](../Page/Twitter.md "wikilink")，并称MEGA是有史以来增长最快的创业公司之一。\[8\]他亦在Twitter上称，该网站目前非常繁忙，每分钟收到数千个用户注册请求。\[9\]Dotcom后来自称MEGA服务拥有超过100万注册用户，每秒完成60次上传。\[10\]三天后，这个数字更新为每秒完成500次上传。\[11\]为了推广他的新网站，金·達康聘请了冰淇淋厨师Gianpaolo
 Grazioli为他的追随者创造了一个盛大（mega）的宴会。\[12\]2013年2月7日，宣布前任行政长官维克拉姆·库马尔（Vikram
 Kumar）将担任MEGA的新任[首席执行官](../Page/首席执行官.md "wikilink")。原MEGA临时首席执行官Tony

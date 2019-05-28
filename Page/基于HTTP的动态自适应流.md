@@ -39,7 +39,7 @@ SegmentTemplate, SegmentBase和SegmentTimeline。\[10\]
 DASH不关心音频/视频的[编解码器](../Page/编解码器.md "wikilink")。多媒体文件通常有一种或多种表示（即不同分辨率或比特率版本），并可基于不同的[网络条件](../Page/计算机网络.md "wikilink")、设备功能和用户偏好进行选择，达到[自適性串流](../Page/自適性串流.md "wikilink")\[11\]和。\[12\]DASH也与底层的应用层协议无关，因此可以配合任何协议中使用。例如，基于的DASH。\[13\]
 
 2015年7月27日，[MPEG
-LA宣布呼吁与MPEG](https://zh.wikipedia.org/wiki/MPEG_LA "wikilink")-DASH相关的专利，以便为该技术创建一个专利池。\[14\]
+LA宣布呼吁与MPEG](../Page/MPEG_LA.md "wikilink")-DASH相关的专利，以便为该技术创建一个专利池。\[14\]
 
 ## 实现
 

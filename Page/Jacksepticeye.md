@@ -9,7 +9,7 @@ to the Ground的獨立金屬樂隊的鼓手\[6\]。
 ## YouTube生涯
 
 麥克洛克林於2007年2月24日以「Jacksepticeye」為名創建YouTube頻道，他第一部影片為於2012年11月12日上傳的[索利德·斯内克](https://zh.wikipedia.org/wiki/索利德·斯内克 "wikilink")（《[潛龍諜影4
-愛國者之槍](../Page/潛龍諜影4_愛國者之槍.md "wikilink")》）影片，之後麥克洛克林陸續上傳《[極地戰嚎3](https://zh.wikipedia.org/wiki/極地戰嚎3 "wikilink")》\[7\]與《[黑暗靈魂II](https://zh.wikipedia.org/wiki/黑暗靈魂II "wikilink")》的遊戲實況影片\[8\]。麥克洛克林在自己的其中一部影片中認為自己在頻道早期時過度「平靜」，不符合現在他自稱「YouTube上最有活力的電子遊戲評論員」的形象\[9\]。2017年5月，他搬到英國的[布賴頓居住](https://zh.wikipedia.org/wiki/布賴頓 "wikilink")\[10\]。
+愛國者之槍](../Page/潛龍諜影4_愛國者之槍.md "wikilink")》）影片，之後麥克洛克林陸續上傳《[極地戰嚎3](https://zh.wikipedia.org/wiki/極地戰嚎3 "wikilink")》\[7\]與《[黑暗靈魂II](../Page/黑暗靈魂II.md "wikilink")》的遊戲實況影片\[8\]。麥克洛克林在自己的其中一部影片中認為自己在頻道早期時過度「平靜」，不符合現在他自稱「YouTube上最有活力的電子遊戲評論員」的形象\[9\]。2017年5月，他搬到英國的[布賴頓居住](https://zh.wikipedia.org/wiki/布賴頓 "wikilink")\[10\]。
 
 在[PewDiePie於](../Page/PewDiePie.md "wikilink")2013年9月公佈其為希望成為有著一定數量訂閱數的YouTuber舉辦的「Shout-out比賽」為麥克洛克林後\[11\]，「Jacksepticeye」便快速增長。他當時的頻道只有2000多個訂閱者，然後在1年間暴增至100多萬\[12\]。
 

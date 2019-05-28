@@ -2,7 +2,7 @@
 
 ## 参见
 
-  - [GNOME虚拟文件系统](https://zh.wikipedia.org/wiki/GNOME虚拟文件系统 "wikilink")
+  - [GNOME虚拟文件系统](../Page/GNOME虚拟文件系统.md "wikilink")
 
 ## 参考资料
 

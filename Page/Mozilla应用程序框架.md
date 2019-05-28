@@ -19,7 +19,7 @@
   - XPConnect
     [XPConnect是XPCOM与](../Page/NPAPI.md "wikilink")[JavaScript之间的绑定](../Page/JavaScript.md "wikilink")。
   - XPInstall
-    [XPInstall是一种安装小包的技术](https://zh.wikipedia.org/wiki/XPInstall "wikilink")，例如将[扩展和主题安装到Mozilla应用程序](https://zh.wikipedia.org/wiki/扩展 "wikilink")，从安装存档（也称[XPI](https://zh.wikipedia.org/wiki/XPI "wikilink")）。
+    [XPInstall是一种安装小包的技术](../Page/XPInstall.md "wikilink")，例如将[扩展和主题安装到Mozilla应用程序](https://zh.wikipedia.org/wiki/扩展 "wikilink")，从安装存档（也称[XPI](https://zh.wikipedia.org/wiki/XPI "wikilink")）。
   - Web服务<span></span>
     Mozilla内置多种流行的[Web服务标准](../Page/Web服务.md "wikilink")，例如[XML-RPC](../Page/XML-RPC.md "wikilink")、[SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink")（从Gran
     Paradiso Alpha

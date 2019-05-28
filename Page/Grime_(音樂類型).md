@@ -1,6 +1,6 @@
 **Grime**（又稱:
 车库饶舌）是從西元2000年初在東[倫敦出現的一種音樂類型](../Page/伦敦.md "wikilink")。它是由早期的英國[電子音樂風格發展起來](../Page/電子音樂.md "wikilink")，包括[UK
-Garage和](https://zh.wikipedia.org/wiki/UK_Garage "wikilink")[叢林舞曲](https://zh.wikipedia.org/wiki/早期叢林舞曲 "wikilink")\[1\]，同時也受到牙買加[Dancehall](https://zh.wikipedia.org/wiki/Dancehall "wikilink")、Ragga和[嘻哈的影響](../Page/嘻哈.md "wikilink")\[2\]。這種風格特色是快節奏、切分音碎拍，音樂速度大約在130或140[bpm左右](../Page/速度_\(音樂\).md "wikilink")\[3\]，時常也會伴隨著強烈或鋸齒狀的[電子音效](../Page/電子音樂.md "wikilink")\[4\]。[饒舌也是此風格的重要元素](../Page/饒舌.md "wikilink")，歌詞常描述阴郁的[都市生活](../Page/城市.md "wikilink")\[5\]。
+Garage和](https://zh.wikipedia.org/wiki/UK_Garage "wikilink")[叢林舞曲](../Page/早期叢林舞曲.md "wikilink")\[1\]，同時也受到牙買加[Dancehall](https://zh.wikipedia.org/wiki/Dancehall "wikilink")、Ragga和[嘻哈的影響](../Page/嘻哈.md "wikilink")\[2\]。這種風格特色是快節奏、切分音碎拍，音樂速度大約在130或140[bpm左右](../Page/速度_\(音樂\).md "wikilink")\[3\]，時常也會伴隨著強烈或鋸齒狀的[電子音效](../Page/電子音樂.md "wikilink")\[4\]。[饒舌也是此風格的重要元素](../Page/饒舌.md "wikilink")，歌詞常描述阴郁的[都市生活](../Page/城市.md "wikilink")\[5\]。
 
 這種風格最初透過[地下電台](../Page/地下電台.md "wikilink")（例如[Rinse
 FM](https://zh.wikipedia.org/wiki/Rinse_FM "wikilink")）和地下街頭開始傳播。西元2000年中幾位Grime前輩在英國打開知名度，如[迪利·瑞斯可](https://zh.wikipedia.org/wiki/迪利·瑞斯可 "wikilink")、Kano、Lethal

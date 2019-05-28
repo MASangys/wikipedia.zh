@@ -6,7 +6,7 @@
 ### 先期情报
 
 随着“最终幻想VII补完计划”的公布与制作，有推测称《最终幻想VII》将在[PlayStation
-3平台](../Page/PlayStation_3.md "wikilink")[强化重制](https://zh.wikipedia.org/wiki/电子游戏重制 "wikilink")。[E3
+3平台](../Page/PlayStation_3.md "wikilink")[强化重制](../Page/电子游戏重制.md "wikilink")。[E3
 2005展会上](https://zh.wikipedia.org/wiki/E3_2005 "wikilink")，使用PlayStation
 3图形功能重建的《最终幻想VII》开场过场视频诱使传言爆发\[1\]。在《降临之子》和《核心危机》的职员名单鸣谢栏的“《最终幻想VII》PS3测试团队”字样，进一步引发了推测。然而据指出，鸣谢字样可能是给PSN版《最终幻想VII》测试人员，或是《降临之子》与《核心危机》所用的PS3演示图形资源\[2\]\[3\]。在史克威尔艾尼克斯时任总裁[和田洋一解释演示仅为技术示范用途后](../Page/和田洋一.md "wikilink")，该猜测逐渐平息\[4\]，而官方发表声明称，补完计划不包括重制《最终幻想VII》\[5\]。
 

@@ -7,7 +7,7 @@
 Ltd.**製作的[日本旅遊節目](https://zh.wikipedia.org/wiki/日本旅遊 "wikilink")，為[香港電視史上最長壽的旅遊節目](https://zh.wikipedia.org/wiki/香港電視史 "wikilink")。
 
 類似節目為於1990年代在[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[明珠台播放的](../Page/明珠台.md "wikilink")《日語放送區》（*Japanese
-Hour*），於周日早上8時播放日本的旅遊、電視劇、動畫等節目\[1\]\[2\]，及後由於無綫電視與[香港公開大學協定需於](../Page/香港公開大學.md "wikilink")2004年起於同樣時間播放《[進修新天地](https://zh.wikipedia.org/wiki/進修新天地 "wikilink")》而停播。
+Hour*），於周日早上8時播放日本的旅遊、電視劇、動畫等節目\[1\]\[2\]，及後由於無綫電視與[香港公開大學協定需於](../Page/香港公開大學.md "wikilink")2004年起於同樣時間播放《[進修新天地](../Page/進修新天地.md "wikilink")》而停播。
 
 《**日語大放送**》，自2005年10月2日起向[亞洲電視購買時段播放](../Page/亞洲電視.md "wikilink")。\[3\]開播時的目標觀眾為「在港日本人」，早期內容以日本人在港的生活資訊為主，後來轉形為純日本旅遊節目。開播初期，首播時間是[亞洲電視國際台逢星期日](../Page/亞洲電視國際台.md "wikilink")10時至10時30分\[4\]，及後時間多次更改，最後一次首播時間更改為2009年5月，逢黃昏6時25分至6時55分播放。而[國際台的重播時間](../Page/亞洲電視國際台.md "wikilink")，於2009年5月起為首播日的下星期五深夜1時至1時30分，及後重播時間更改為首播後一星期六的10時至10時30分。[aTV高清頻道開台後曾在頻道中播放](https://zh.wikipedia.org/wiki/aTV高清頻道 "wikilink")，2009年5月起改於[亞洲高清台播放](https://zh.wikipedia.org/wiki/亞洲高清台 "wikilink")、同時增加高清製作。
 
@@ -28,7 +28,7 @@ Japan TV 日本大放送**》，於2016年4月17日起逢星期日早上11時30�
   - [邱忠業](https://zh.wikipedia.org/wiki/邱忠業 "wikilink")（Jam），配音：[李家傑](../Page/李家傑_\(配音員\).md "wikilink")
       -
         香港人，因認識日本人太太而學日文，是[香港演藝學院客席講師](../Page/香港演藝學院.md "wikilink")\[7\]。
-  - [和泉素行](https://zh.wikipedia.org/wiki/和泉素行 "wikilink")（SOKO）
+  - [和泉素行](../Page/和泉素行.md "wikilink")（SOKO）
       -
         日本人，2011年時曾作代主持。\[8\]
 

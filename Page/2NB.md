@@ -560,7 +560,7 @@ Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\
 <tr class="even">
 <td><p>2017年3月28日</p></td>
 <td><p>數位單曲<br />
-《초인가족 2017 <a href="https://zh.wikipedia.org/wiki/超人家族_2017" title="wikilink">超人家族 2017</a> OST Part 4》</p></td>
+《초인가족 2017 <a href="../Page/超人家族_2017.md" title="wikilink">超人家族 2017</a> OST Part 4》</p></td>
 <td><ol>
 <li><strong>핑크핑크해 PINK PINK</strong></li>
 <li>핑크핑크해 (Inst.)</li>
@@ -606,7 +606,7 @@ Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\
 <tr class="odd">
 <td><p>2007年5月7日</p></td>
 <td><p>JAEWON</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李載沅" title="wikilink">李在元</a></p></td>
+<td><p><a href="../Page/李載沅.md" title="wikilink">李在元</a></p></td>
 <td><p>⒉ World is yours (feat. <a href="https://zh.wikipedia.org/wiki/Untouchable_(南韓組合)" title="wikilink">Untouchable</a>／2NB)</p></td>
 <td></td>
 </tr>

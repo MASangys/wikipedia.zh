@@ -587,9 +587,9 @@ Life**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[S
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
     [週末連續劇](../Page/KBS週末連續劇.md "wikilink")：《[我的黃金光輝人生](../Page/我的黃金光輝人生.md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink")
-    [週末連續劇](../Page/TvN週末連續劇.md "wikilink")：《[卞赫的愛情](../Page/卞赫的愛情.md "wikilink")》、《[世上最美麗的離別](https://zh.wikipedia.org/wiki/世上最美麗的離別_\(2017年電視劇\) "wikilink")》、《[和遊記](../Page/和遊記.md "wikilink")》
+    [週末連續劇](../Page/TvN週末連續劇.md "wikilink")：《[卞赫的愛情](../Page/卞赫的愛情.md "wikilink")》、《[世上最美麗的離別](../Page/世上最美麗的離別_\(2017年電視劇\).md "wikilink")》、《[和遊記](../Page/和遊記.md "wikilink")》
   - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")
-    [週末連續劇](https://zh.wikipedia.org/wiki/OCN週末連續劇 "wikilink")：《[Black](../Page/Black_\(韓國電視劇\).md "wikilink")》、《[壞傢伙們：惡的都市](https://zh.wikipedia.org/wiki/壞傢伙們：惡的都市 "wikilink")》
+    [週末連續劇](https://zh.wikipedia.org/wiki/OCN週末連續劇 "wikilink")：《[Black](../Page/Black_\(韓國電視劇\).md "wikilink")》、《[壞傢伙們：惡的都市](../Page/壞傢伙們：惡的都市.md "wikilink")》
   - [MBC](../Page/文化廣播公司.md "wikilink")
     [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[小偷傢伙，小偷大人](../Page/小偷傢伙，小偷大人.md "wikilink")》
   - [MBC](../Page/文化廣播公司.md "wikilink")

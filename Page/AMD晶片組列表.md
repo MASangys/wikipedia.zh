@@ -1405,7 +1405,7 @@ pins @ 50MHz.
 <th><p>型號</p></th>
 <th><p>與CPU/APU的<a href="../Page/PCI_Express.md" title="wikilink">PCIe鏈路</a></p></th>
 <th><p><a href="../Page/PCI_Express.md" title="wikilink">PCIe</a></p></th>
-<th><p><a href="../Page/SATA.md" title="wikilink">SATA</a> + <a href="https://zh.wikipedia.org/wiki/SATA_Express" title="wikilink">SATA Express</a></p></th>
+<th><p><a href="../Page/SATA.md" title="wikilink">SATA</a> + <a href="../Page/SATA_Express.md" title="wikilink">SATA Express</a></p></th>
 <th><p><a href="../Page/USB.md" title="wikilink">USB</a><br />
 3.1+3.0+2.0/1.1</p></th>
 <th><p><a href="../Page/RAID.md" title="wikilink">RAID</a></p></th>

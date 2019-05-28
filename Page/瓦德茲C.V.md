@@ -10,8 +10,7 @@
   - [美國職棒](https://zh.wikipedia.org/wiki/美國職棒 "wikilink")[佛羅里達馬林魚](https://zh.wikipedia.org/wiki/佛羅里達馬林魚 "wikilink")（小聯盟，2011年）
   - 波多黎各棒球聯盟Gigantes de Carolina（2011年11月）
   - 委內瑞拉聯盟Aguilas del Zulia（2011年12月-2012年1月）
-  - [墨西哥聯盟Vaqueros](https://zh.wikipedia.org/wiki/墨西哥聯盟 "wikilink")
-    Laguna（2012年3月-07月）
+  - [墨西哥聯盟Vaqueros](../Page/墨西哥聯盟.md "wikilink") Laguna（2012年3月-07月）
   - 多明尼加聯盟Tigres del Licey（2012年10月-12月）
   - 委內瑞拉聯盟Aguilas del Zulia（2012年12月-2013年1月）
   - 墨西哥聯盟Vaqueros Laguna（2013年3月-05月）

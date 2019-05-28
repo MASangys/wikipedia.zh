@@ -13,7 +13,7 @@ Code.org® 成立于 2013
 
 ## 编程一小时
 
-自2013年12月9日到15日举行为期一周的**[计算机科学教育周](../Page/计算机科学.md "wikilink")**\[8\]，Code.org在他的网站向[教师和](../Page/教师.md "wikilink")[学生开展了](../Page/学生.md "wikilink")“编程一小时”活动，指导他们完成简短的编程。\[9\]\[10\]\[11\]\[12\]编程一小时让参与者使用[Blockly来编写代码](https://zh.wikipedia.org/wiki/Blockly "wikilink")，一种预先定义好的代码片段又有趣的[虚拟计算机编程语言](https://zh.wikipedia.org/wiki/虚拟计算机编程语言 "wikilink")，就像是[Logo语言](https://zh.wikipedia.org/wiki/Logo语言 "wikilink")。该倡议提前两个月通告，\[13\]并预期举行，倡议得到来自美国总统[贝拉克·奥巴马](../Page/贝拉克·奥巴马.md "wikilink")，以及高科技公司的高层，如[微软和](../Page/微软.md "wikilink")[苹果公司的支持](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")。\[14\]\[15\]大约
+自2013年12月9日到15日举行为期一周的**[计算机科学教育周](../Page/计算机科学.md "wikilink")**\[8\]，Code.org在他的网站向[教师和](../Page/教师.md "wikilink")[学生开展了](../Page/学生.md "wikilink")“编程一小时”活动，指导他们完成简短的编程。\[9\]\[10\]\[11\]\[12\]编程一小时让参与者使用[Blockly来编写代码](../Page/Blockly.md "wikilink")，一种预先定义好的代码片段又有趣的[虚拟计算机编程语言](https://zh.wikipedia.org/wiki/虚拟计算机编程语言 "wikilink")，就像是[Logo语言](https://zh.wikipedia.org/wiki/Logo语言 "wikilink")。该倡议提前两个月通告，\[13\]并预期举行，倡议得到来自美国总统[贝拉克·奥巴马](../Page/贝拉克·奥巴马.md "wikilink")，以及高科技公司的高层，如[微软和](../Page/微软.md "wikilink")[苹果公司的支持](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")。\[14\]\[15\]大约
 20 万人参加，并编写了超过 600
 万行的代码。\[16\]\[17\]\[18\]2015年11月17日，[微软公司为了在全球范围内深入推广计算机科学](../Page/微软.md "wikilink")，携手
 Code.org

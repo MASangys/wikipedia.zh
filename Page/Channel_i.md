@@ -7,13 +7,13 @@ i**是香港一個網絡媒體平台，由[黃台仰及](../Page/黃台仰.md "w
 
 ## 直播節目時間表
 
-|             |         |         |                                        |         |                                                       |
-| ----------- | ------- | ------- | -------------------------------------- | ------- | ----------------------------------------------------- |
-| **時間**      | **星期一** | **星期二** | **星期三**                                | **星期四** | **星期五**                                               |
-|             |         |         |                                        |         |                                                       |
-| 21:00-22:00 | 枕頭房的日與夜 | 本土足球前線  | [本土民主前線](../Page/本土民主前線.md "wikilink") | 講獨      | [學生動源](https://zh.wikipedia.org/wiki/學生動源 "wikilink") |
-| 22:00-23:00 | 解毒香港    |         |                                        |         | 宅地有say                                                |
-|             |         |         |                                        |         |                                                       |
+|             |         |         |                                        |         |                                    |
+| ----------- | ------- | ------- | -------------------------------------- | ------- | ---------------------------------- |
+| **時間**      | **星期一** | **星期二** | **星期三**                                | **星期四** | **星期五**                            |
+|             |         |         |                                        |         |                                    |
+| 21:00-22:00 | 枕頭房的日與夜 | 本土足球前線  | [本土民主前線](../Page/本土民主前線.md "wikilink") | 講獨      | [學生動源](../Page/學生動源.md "wikilink") |
+| 22:00-23:00 | 解毒香港    |         |                                        |         | 宅地有say                             |
+|             |         |         |                                        |         |                                    |
 
 ## 節目主持
 
@@ -56,12 +56,12 @@ i**是香港一個網絡媒體平台，由[黃台仰及](../Page/黃台仰.md "w
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/張若非" title="wikilink">張若非</a> 呀飛</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/學生動源" title="wikilink">學生動源召集人</a></p></td>
+<td><p><a href="../Page/學生動源.md" title="wikilink">學生動源召集人</a></p></td>
 <td><p>學生動源</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鍾翰林" title="wikilink">鍾翰林</a> Tony</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/學生動源" title="wikilink">學生動源召集人</a></p></td>
+<td><p><a href="../Page/鍾翰林.md" title="wikilink">鍾翰林</a> Tony</p></td>
+<td><p><a href="../Page/學生動源.md" title="wikilink">學生動源召集人</a></p></td>
 <td><p>學生動源</p></td>
 </tr>
 <tr class="odd">
@@ -86,7 +86,7 @@ i**是香港一個網絡媒體平台，由[黃台仰及](../Page/黃台仰.md "w
 馬雜燴(已停播)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李東昇" title="wikilink">李東昇</a> Alan Li</p></td>
+<td><p><a href="../Page/李東昇.md" title="wikilink">李東昇</a> Alan Li</p></td>
 <td><p><a href="../Page/本土民主前線.md" title="wikilink">本土民主前線召集人</a></p></td>
 <td><p>本土足球前線</p></td>
 </tr>
@@ -222,7 +222,7 @@ i**是香港一個網絡媒體平台，由[黃台仰及](../Page/黃台仰.md "w
 喧譁作樂</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/霍朗齊" title="wikilink">霍朗齊</a></p></td>
+<td><p><a href="../Page/霍朗齊.md" title="wikilink">霍朗齊</a></p></td>
 <td><p>獨立音樂創作人</p></td>
 <td><p>喧譁作樂</p></td>
 </tr>

@@ -60,7 +60,7 @@
 冠軍隊</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/李連福" title="wikilink">李連福</a><br />
+<td><p><strong><a href="../Page/李連福.md" title="wikilink">李連福</a><br />
 <small>（이연복）</strong></small></p></td>
 <td><p>中華料理</p></td>
 <td></td>

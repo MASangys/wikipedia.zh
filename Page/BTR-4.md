@@ -34,7 +34,7 @@ BTR-4总体沿用了BTR-80装甲车的布局，但在细节设计上向德制的
 <th><p><a href="https://zh.wikipedia.org/wiki/雲豹裝甲車" title="wikilink">雲豹裝甲車</a> </p></th>
 <th><p><a href="../Page/BTR-80.md" title="wikilink">BTR-80</a> </p></th>
 <th><p><a href="../Page/VBCI裝步戰車.md" title="wikilink">VBCI裝步戰車</a> </p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/拳獅裝甲車" title="wikilink">拳獅裝甲車</a> </p></th>
+<th><p><a href="../Page/拳獅裝甲車.md" title="wikilink">拳獅裝甲車</a> </p></th>
 <th><p><a href="../Page/史崔克裝甲車.md" title="wikilink">史崔克裝甲車</a> </p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/柏迪亞裝甲車" title="wikilink">柏迪亞裝甲車</a> </p></th>
 <th><p><a href="../Page/潘德2型裝甲車.md" title="wikilink">潘德2型裝甲車</a> </p></th>
@@ -159,7 +159,7 @@ BTR-4总体沿用了BTR-80装甲车的布局，但在细节设计上向德制的
 <td><p><small><a href="../Page/M242巨蝮式鏈炮.md" title="wikilink">M242鏈炮</a><br />
 <a href="https://zh.wikipedia.org/wiki/T-74排用機槍" title="wikilink">T-74排用機槍</a>×2</small><br />
 <small>T90重機槍</small></p></td>
-<td><p><small><a href="https://zh.wikipedia.org/wiki/希普諾夫2A72機炮" title="wikilink">30mm 2A72機炮</a><br />
+<td><p><small><a href="../Page/希普諾夫2A72機炮.md" title="wikilink">30mm 2A72機炮</a><br />
 或<a href="../Page/KPV重機槍.md" title="wikilink">14.5 mm KPVT重機槍</a><br />
 <a href="../Page/PK通用機槍.md" title="wikilink">7.62 mm PKT機槍</a></small></p></td>
 <td><p><small>25 mm M811機砲<br />
@@ -214,7 +214,7 @@ KT-7.62mm同轴机枪<br />
   -   - **[尼日利亚警察](https://zh.wikipedia.org/wiki/尼日利亚警察 "wikilink")** -
         使用5辆。\[8\] \[9\]
 
-  -   - **[乌克兰陆军](https://zh.wikipedia.org/wiki/乌克兰陆军 "wikilink")**
+  -   - **[乌克兰陆军](../Page/乌克兰陆军.md "wikilink")**
       - **[乌克兰民族卫队](../Page/乌克兰民族卫队.md "wikilink")**
 
 \[10\]\[11\] \[12\]\[13\]\[14\] \[15\]
@@ -224,7 +224,7 @@ KT-7.62mm同轴机枪<br />
 ## 参见
 
   - [乌克兰军事](https://zh.wikipedia.org/wiki/乌克兰军事 "wikilink")
-  - [乌克兰陆军](https://zh.wikipedia.org/wiki/乌克兰陆军 "wikilink")
+  - [乌克兰陆军](../Page/乌克兰陆军.md "wikilink")
   - [BTR-3](../Page/BTR-3.md "wikilink")
   - [BTR-80](../Page/BTR-80.md "wikilink")
   - [BTR-90](../Page/BTR-90.md "wikilink")

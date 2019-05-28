@@ -1,5 +1,5 @@
 GPD XD是由中國公司[GamePad
-Digital在](https://zh.wikipedia.org/wiki/GamePad_Digital "wikilink")2015年底發布的基於Android的掌上游戲機。\[1\]它與任天堂3DS
+Digital在](../Page/GamePad_Digital.md "wikilink")2015年底發布的基於Android的掌上游戲機。\[1\]它與任天堂3DS
 XL
 形式相似，\[2\]具有單個電容式觸摸屏，(有2個控制桿，十字键，15個按鈕，四個肩鍵)。以及針對運行仿真器和其他原生Android軟件進行了優化。具有單個電容式觸摸屏，以及針對運行仿真器和其他原生Android軟件進行了優化。
 
@@ -19,8 +19,7 @@ GB的DDR3-SDRAM和720p顯示屏。\[5\]
 
 ## 參見
 
-  - [GamePad
-    Digital](https://zh.wikipedia.org/wiki/GamePad_Digital "wikilink")
+  - [GamePad Digital](../Page/GamePad_Digital.md "wikilink")
   - [GPD Win](https://zh.wikipedia.org/wiki/GPD_Win "wikilink")
   - [掌上遊戲機](https://zh.wikipedia.org/wiki/掌上遊戲機 "wikilink")
 

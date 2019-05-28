@@ -32,8 +32,7 @@ SHOWTIME一样](../Page/EXO's_SHOWTIME.md "wikilink")，包括回答粉丝们的
 
 1.  《[EXO's SHOWTIME](../Page/EXO's_SHOWTIME.md "wikilink")》（2013－2014年）
 2.  《**SHOWTIME - Burning the BEAST**》（2014年）
-3.  《[Apink's
-    SHOWTIME](https://zh.wikipedia.org/wiki/Apink's_SHOWTIME "wikilink")》（2014年）
+3.  《[Apink's SHOWTIME](../Page/Apink's_SHOWTIME.md "wikilink")》（2014年）
 4.  《[SISTAR'S
     SHOWTIME](../Page/SISTAR'S_SHOWTIME.md "wikilink")》（2015年）
 5.  《[EXID's SHOWTIME](../Page/EXID's_SHOWTIME.md "wikilink")》（2015年）

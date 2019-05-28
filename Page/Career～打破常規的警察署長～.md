@@ -241,7 +241,7 @@
 
 <!-- end list -->
 
-  - 佐佐木哲夫：（香港配音：[林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink")）
+  - 佐佐木哲夫：（香港配音：[林筠翔](../Page/林筠翔.md "wikilink")）
 
 <!-- end list -->
 
@@ -385,7 +385,7 @@
 
 #### 第8集
 
-  - 春日亮平：[高橋光臣](../Page/高橋光臣.md "wikilink")（小學時期：）（第9集）（香港配音：[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")）
+  - 春日亮平：[高橋光臣](../Page/高橋光臣.md "wikilink")（小學時期：）（第9集）（香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）
 
 <!-- end list -->
 
@@ -403,7 +403,7 @@
 
 <!-- end list -->
 
-  - 矢澤春香：丸岡真由子（香港配音：[李潤知](https://zh.wikipedia.org/wiki/李潤知 "wikilink")）
+  - 矢澤春香：丸岡真由子（香港配音：[李潤知](../Page/李潤知.md "wikilink")）
 
 <!-- end list -->
 
@@ -457,7 +457,7 @@
 
 <!-- end list -->
 
-  - 岡崎隆之：[中村倫也](https://zh.wikipedia.org/wiki/中村倫也 "wikilink")（香港配音：[李凱傑](../Page/李凱傑.md "wikilink")）
+  - 岡崎隆之：[中村倫也](../Page/中村倫也.md "wikilink")（香港配音：[李凱傑](../Page/李凱傑.md "wikilink")）
 
 <!-- end list -->
 

@@ -4,7 +4,7 @@ SUPER推出網上版，惟帳戶與前者並不互通（但可以透過跨屏幕
 Gold，除了基本版頻道，也增加更多組合（包括TVN Movie、BeIN Sport頻道組合及Discovery頻道組合）和點播組合加入。
 
 2017年4月，MyTV SUPER亦向海外地區推出[TVB
-Anywhere](https://zh.wikipedia.org/wiki/TVB_Anywhere "wikilink")。因應法律或技術問題，在[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[越南等地未有全面支援](https://zh.wikipedia.org/wiki/越南 "wikilink")。
+Anywhere](../Page/TVB_Anywhere.md "wikilink")。因應法律或技術問題，在[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")、[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[越南等地未有全面支援](https://zh.wikipedia.org/wiki/越南 "wikilink")。
 
 ## 概要
 
@@ -365,7 +365,7 @@ SUPER分別推出基本版（主打TVB主題內容）和內容豐富的至尊版
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Career～打破常規的警察署長～" title="wikilink">一哥出更</a></p></td>
+<td><p><a href="../Page/Career～打破常規的警察署長～.md" title="wikilink">一哥出更</a></p></td>
 <td><p><a href="../Page/富士電視台週日晚間九點連續劇系列.md" title="wikilink">日九劇</a></p></td>
 <td></td>
 <td></td>
@@ -421,8 +421,8 @@ SUPER分別推出基本版（主打TVB主題內容）和內容豐富的至尊版
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/明日的約定" title="wikilink">明日的約定</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/關西電視台週二晚間九點連續劇" title="wikilink">火九劇</a></p></td>
+<td><p><a href="../Page/明日的約定.md" title="wikilink">明日的約定</a></p></td>
+<td><p><a href="../Page/關西電視台週二晚間九點連續劇.md" title="wikilink">火九劇</a></p></td>
 <td><p><strong>同步播出</strong></p></td>
 </tr>
 </tbody>
@@ -518,7 +518,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/砂之塔〜知道太多事情的鄰居" title="wikilink">砂之塔</a></p></td>
+<td><p><a href="../Page/砂之塔〜知道太多事情的鄰居.md" title="wikilink">砂之塔</a></p></td>
 <td><p><a href="../Page/TBS週五連續劇.md" title="wikilink">金十劇</a></p></td>
 <td><p><strong>同步播出</strong></p></td>
 <td></td>
@@ -531,18 +531,18 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/四重奏_(日本電視劇)" title="wikilink">四重奏</a></p></td>
+<td><p><a href="../Page/四重奏_(日本電視劇).md" title="wikilink">四重奏</a></p></td>
 <td><p><a href="../Page/TBS週二連續劇.md" title="wikilink">火十劇</a></p></td>
 <td><p><strong>同步播出</strong></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/出租愛情" title="wikilink">出租愛情</a></p></td>
+<td><p><a href="../Page/出租愛情.md" title="wikilink">出租愛情</a></p></td>
 <td><p><a href="../Page/TBS週三深夜連續劇.md" title="wikilink">水24劇</a></p></td>
 <td><p><strong>全集推出</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/LEADERS" title="wikilink">汽車夢飛翔2</a></p></td>
+<td><p><a href="../Page/LEADERS.md" title="wikilink">汽車夢飛翔2</a></p></td>
 <td><p><strong>特別篇</strong></p></td>
 <td></td>
 <td></td>
@@ -554,19 +554,19 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/三個奶爸" title="wikilink">三個奶爸</a></p></td>
+<td><p><a href="../Page/三個奶爸.md" title="wikilink">三個奶爸</a></p></td>
 <td><p><a href="../Page/TBS週三深夜連續劇.md" title="wikilink">水24劇</a></p></td>
 <td><p><strong>全集推出</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/小巨人" title="wikilink">正義巨人</a></p></td>
+<td><p><a href="../Page/小巨人.md" title="wikilink">正義巨人</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/週日劇場" title="wikilink">日九劇</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/神奈小姐" title="wikilink">神奈小姐</a></p></td>
+<td><p><a href="../Page/神奈小姐.md" title="wikilink">神奈小姐</a></p></td>
 <td><p><a href="../Page/TBS週二連續劇.md" title="wikilink">火十劇</a></p></td>
 <td><p><strong>同步播出</strong></p></td>
 <td></td>
@@ -578,7 +578,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/監獄公主" title="wikilink">監獄公主</a></p></td>
+<td><p><a href="../Page/監獄公主.md" title="wikilink">監獄公主</a></p></td>
 <td><p><a href="../Page/TBS週二連續劇.md" title="wikilink">火十劇</a></p></td>
 <td><p><strong>全集推出</strong></p></td>
 <td></td>
@@ -592,7 +592,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 | ---------- | ------------------------------------------------------- | ------------------------------------------- | -------- |
 | **劇集首播年份** | **劇集**                                                  | **劇集時段**                                    | **播出性質** |
 | 2014年      | [深夜食堂3](https://zh.wikipedia.org/wiki/深夜食堂3 "wikilink") | [火25劇](../Page/每日放送製作週日深夜電視劇.md "wikilink") | **全集推出** |
-| 2017年      | [幸福的記憶](https://zh.wikipedia.org/wiki/幸福的記憶 "wikilink") | **特別篇**                                     |          |
+| 2017年      | [幸福的記憶](../Page/幸福的記憶.md "wikilink")                    | **特別篇**                                     |          |
 
 [TV_Asahi_Logo.svg](https://zh.wikipedia.org/wiki/File:TV_Asahi_Logo.svg "fig:TV_Asahi_Logo.svg")
 
@@ -610,7 +610,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 | [無敵律師](https://zh.wikipedia.org/wiki/無敵律師 "wikilink")                   | [木九劇](../Page/朝日電視台週四晚間九點連續劇.md "wikilink")                   | **同步播出**                                   |          |
 | [初次見面我愛你](../Page/初次見面，我愛你.md "wikilink")                               |                                                               |                                            |          |
 | [女醫神Doctor X 4](https://zh.wikipedia.org/wiki/女醫神Doctor_X_4 "wikilink") |                                                               |                                            |          |
-| 2017年                                                                   | [求職家族](https://zh.wikipedia.org/wiki/就活家族～一定會順利的～ "wikilink") |                                            |          |
+| 2017年                                                                   | [求職家族](../Page/就活家族～一定會順利的～.md "wikilink")                    |                                            |          |
 | [非常審查官2](https://zh.wikipedia.org/wiki/非常審查官 "wikilink")                |                                                               |                                            |          |
 | [遺留搜查4](../Page/遺留搜查.md "wikilink")                                     | [木八劇](../Page/朝日電視台週四晚間八點推理連續劇.md "wikilink")                 |                                            |          |
 | [女醫神Doctor X 5](https://zh.wikipedia.org/wiki/女醫神Doctor_X_5 "wikilink") | [木九劇](../Page/朝日電視台週四晚間九點連續劇.md "wikilink")                   |                                            |          |
@@ -661,7 +661,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/美女與男子" title="wikilink">美女與男子</a></p></td>
+<td><p><a href="../Page/美女與男子.md" title="wikilink">美女與男子</a></p></td>
 <td><p><a href="../Page/電視劇10.md" title="wikilink">火十劇</a></p></td>
 <td></td>
 <td></td>
@@ -719,7 +719,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金錢天使" title="wikilink">金錢天使</a></p></td>
+<td><p><a href="../Page/金錢天使.md" title="wikilink">金錢天使</a></p></td>
 <td><p><a href="../Page/讀賣電視台週四連續劇.md" title="wikilink">木24劇</a></p></td>
 <td><p><strong>全集推出</strong></p></td>
 </tr>
@@ -749,7 +749,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/超能力師事務所" title="wikilink">超能力師事務所</a></p></td>
+<td><p><a href="../Page/超能力師事務所.md" title="wikilink">超能力師事務所</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -766,7 +766,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黑色復仇" title="wikilink">黑色復仇</a></p></td>
+<td><p><a href="../Page/黑色復仇.md" title="wikilink">黑色復仇</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -792,12 +792,12 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/彬與瑛" title="wikilink">彬與瑛</a></p></td>
+<td><p><a href="../Page/彬與瑛.md" title="wikilink">彬與瑛</a></p></td>
 <td></td>
 <td><p><strong>同步播出</strong>(慢日本兩天)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Plage" title="wikilink">問題室友</a></p></td>
+<td><p><a href="../Page/Plage.md" title="wikilink">問題室友</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -807,195 +807,195 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 
 韓國放送公社
 
-|                                                               |                                                                 |                                                              |          |
-| ------------------------------------------------------------- | --------------------------------------------------------------- | ------------------------------------------------------------ | -------- |
-| **劇集首播年份**                                                    | **劇集**                                                          | **劇集時段**                                                     | **播出性質** |
-| 2009年                                                         | [花樣男子](https://zh.wikipedia.org/wiki/流星花園_\(韓國電視劇\) "wikilink") | [月火劇](../Page/KBS月火連續劇.md "wikilink")                        | **全集推出** |
-| 2012年                                                         | [愛情上錯身](https://zh.wikipedia.org/wiki/愛情上錯身 "wikilink")         |                                                              |          |
-| [善良的男人](https://zh.wikipedia.org/wiki/善良的男人 "wikilink")       | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                                              |          |
-| 2013年                                                         | [最佳李純信](../Page/最佳李純信.md "wikilink")                            | [週末劇](../Page/KBS週末連續劇.md "wikilink")                        |          |
-| [職場之神](../Page/職場之神.md "wikilink")                            | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                                              |          |
-| [鯊魚](../Page/鯊魚_\(韓國電視劇\).md "wikilink")                      |                                                                 |                                                              |          |
-| [好醫生](../Page/好醫生.md "wikilink")                              |                                                                 |                                                              |          |
-| [王家一家人](../Page/王家一家人.md "wikilink")                          | [週末劇](../Page/KBS週末連續劇.md "wikilink")                           |                                                              |          |
-| [秘密](../Page/秘密_\(2013年電視劇\).md "wikilink")                   | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                                              |          |
-| [未來的選擇](../Page/未來的選擇.md "wikilink")                          | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                                              |          |
-| 2014年                                                         | [感激時代：鬪神的誕生](../Page/感激時代：鬪神的誕生.md "wikilink")                  | [水木劇](../Page/KBS水木連續劇.md "wikilink")                        |          |
-| [很好的日子](https://zh.wikipedia.org/wiki/很好的日子 "wikilink")       | [週末劇](../Page/KBS週末連續劇.md "wikilink")                           |                                                              |          |
-| [流氓繼承人](https://zh.wikipedia.org/wiki/流氓繼承人 "wikilink")       | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                                              |          |
-| [黃金交叉](https://zh.wikipedia.org/wiki/黃金交叉 "wikilink")         | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                                              |          |
-| [借肚復仇](https://zh.wikipedia.org/wiki/借肚復仇 "wikilink")         | [日日劇](https://zh.wikipedia.org/wiki/KBS_2TV日日連續劇 "wikilink")    |                                                              |          |
-| [家人之間為何這樣](../Page/家人之間為何這樣.md "wikilink")                    | [週末劇](../Page/KBS週末連續劇.md "wikilink")                           |                                                              |          |
-| [謎情鋼刀男](https://zh.wikipedia.org/wiki/謎情鋼刀男 "wikilink")       | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                                              |          |
-| [交響情人夢](../Page/交響情人夢_\(韓國電視劇\).md "wikilink")                | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                                              |          |
-| [王的面孔](https://zh.wikipedia.org/wiki/王的面孔 "wikilink")         | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                                              |          |
-| [Healer追擊](https://zh.wikipedia.org/wiki/Healer追擊 "wikilink") | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                                              |          |
-| 2015年                                                         | [青鳥之家](../Page/青鳥之家.md "wikilink")                              | [週末劇](../Page/KBS週末連續劇.md "wikilink")                        |          |
-| [惡女一家人](https://zh.wikipedia.org/wiki/惡女一家人 "wikilink")       | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                                              |          |
-| [守護家族](../Page/守護家族.md "wikilink")                            | [日日劇](../Page/KBS_1TV日日連續劇.md "wikilink")                       |                                                              |          |
-| [製作人們](https://zh.wikipedia.org/wiki/製作人們 "wikilink")         | [金土劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")        |                                                              |          |
-| [草根議員](https://zh.wikipedia.org/wiki/草根議員 "wikilink")         | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                                              |          |
-| [婆媽關係](https://zh.wikipedia.org/wiki/婆媽關係 "wikilink")         | [週末劇](../Page/KBS週末連續劇.md "wikilink")                           |                                                              |          |
-| [愛情甘味](https://zh.wikipedia.org/wiki/愛情甘味 "wikilink")         | [日日劇](https://zh.wikipedia.org/wiki/KBS_2TV日日連續劇 "wikilink")    |                                                              |          |
-| [青春向前衝](https://zh.wikipedia.org/wiki/青春向前衝 "wikilink")       | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                                              |          |
-| [塑身女神](https://zh.wikipedia.org/wiki/塑身女神 "wikilink")         |                                                                 |                                                              |          |
-| 2016年                                                         | [雙生復仇](../Page/天上的約定.md "wikilink")                             | [日日劇](https://zh.wikipedia.org/wiki/KBS_2TV日日連續劇 "wikilink") |          |
-| [五個孩子](../Page/五個孩子.md "wikilink")                            | [週末劇](../Page/KBS週末連續劇.md "wikilink")                           |                                                              |          |
-| [麵條之神](https://zh.wikipedia.org/wiki/麵條之神 "wikilink")         | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                                              |          |
-| [月桂樹西裝店](../Page/月桂樹西裝店的紳士們.md "wikilink")                    | [週末劇](../Page/KBS週末連續劇.md "wikilink")                           |                                                              |          |
-| [住在我家的男人](../Page/住在我家的男人.md "wikilink")                      | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           | **同步播出**                                                     |          |
-| [再一次初戀](https://zh.wikipedia.org/wiki/再次，初戀 "wikilink")       | [日日劇](https://zh.wikipedia.org/wiki/KBS_2TV日日連續劇 "wikilink")    | **全集推出**                                                     |          |
-| 2017年                                                         | [完美的妻子](https://zh.wikipedia.org/wiki/完美的妻子 "wikilink")         | [月火劇](../Page/KBS月火連續劇.md "wikilink")                        | **同步播出** |
-| [獨身萬歲](https://zh.wikipedia.org/wiki/個人主義者智英小姐 "wikilink")    |                                                                 |                                                              |          |
-| [三流人生](https://zh.wikipedia.org/wiki/三流之路 "wikilink")         |                                                                 |                                                              |          |
-| [最強一擊](https://zh.wikipedia.org/wiki/最佳的一擊 "wikilink")        | [金土劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")        |                                                              |          |
-| [最強速遞員](https://zh.wikipedia.org/wiki/最強送貨員 "wikilink")       |                                                                 |                                                              |          |
-| [少女時代1979](https://zh.wikipedia.org/wiki/內衣少女時代 "wikilink")   | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                                              |          |
-| [魔女的法庭](https://zh.wikipedia.org/wiki/魔女的法庭 "wikilink")       |                                                                 |                                                              |          |
-| [告白夫婦](https://zh.wikipedia.org/wiki/Go_Back夫婦 "wikilink")    | [金土劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")        |                                                              |          |
-| [Jugglers](https://zh.wikipedia.org/wiki/Jugglers "wikilink") | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                                              |          |
-| 2018年                                                         | [愛情廣播](https://zh.wikipedia.org/wiki/Radio_Romance "wikilink")  |                                                              |          |
-| [我們遇見的奇蹟](https://zh.wikipedia.org/wiki/我們遇見的奇蹟 "wikilink")   |                                                                 |                                                              |          |
+|                                                               |                                                                 |                                           |          |
+| ------------------------------------------------------------- | --------------------------------------------------------------- | ----------------------------------------- | -------- |
+| **劇集首播年份**                                                    | **劇集**                                                          | **劇集時段**                                  | **播出性質** |
+| 2009年                                                         | [花樣男子](https://zh.wikipedia.org/wiki/流星花園_\(韓國電視劇\) "wikilink") | [月火劇](../Page/KBS月火連續劇.md "wikilink")     | **全集推出** |
+| 2012年                                                         | [愛情上錯身](https://zh.wikipedia.org/wiki/愛情上錯身 "wikilink")         |                                           |          |
+| [善良的男人](https://zh.wikipedia.org/wiki/善良的男人 "wikilink")       | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                           |          |
+| 2013年                                                         | [最佳李純信](../Page/最佳李純信.md "wikilink")                            | [週末劇](../Page/KBS週末連續劇.md "wikilink")     |          |
+| [職場之神](../Page/職場之神.md "wikilink")                            | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                           |          |
+| [鯊魚](../Page/鯊魚_\(韓國電視劇\).md "wikilink")                      |                                                                 |                                           |          |
+| [好醫生](../Page/好醫生.md "wikilink")                              |                                                                 |                                           |          |
+| [王家一家人](../Page/王家一家人.md "wikilink")                          | [週末劇](../Page/KBS週末連續劇.md "wikilink")                           |                                           |          |
+| [秘密](../Page/秘密_\(2013年電視劇\).md "wikilink")                   | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                           |          |
+| [未來的選擇](../Page/未來的選擇.md "wikilink")                          | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                           |          |
+| 2014年                                                         | [感激時代：鬪神的誕生](../Page/感激時代：鬪神的誕生.md "wikilink")                  | [水木劇](../Page/KBS水木連續劇.md "wikilink")     |          |
+| [很好的日子](https://zh.wikipedia.org/wiki/很好的日子 "wikilink")       | [週末劇](../Page/KBS週末連續劇.md "wikilink")                           |                                           |          |
+| [流氓繼承人](https://zh.wikipedia.org/wiki/流氓繼承人 "wikilink")       | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                           |          |
+| [黃金交叉](../Page/黃金交叉.md "wikilink")                            | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                           |          |
+| [借肚復仇](https://zh.wikipedia.org/wiki/借肚復仇 "wikilink")         | [日日劇](../Page/KBS_2TV日日連續劇.md "wikilink")                       |                                           |          |
+| [家人之間為何這樣](../Page/家人之間為何這樣.md "wikilink")                    | [週末劇](../Page/KBS週末連續劇.md "wikilink")                           |                                           |          |
+| [謎情鋼刀男](https://zh.wikipedia.org/wiki/謎情鋼刀男 "wikilink")       | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                           |          |
+| [交響情人夢](../Page/交響情人夢_\(韓國電視劇\).md "wikilink")                | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                           |          |
+| [王的面孔](../Page/王的面孔.md "wikilink")                            | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                           |          |
+| [Healer追擊](https://zh.wikipedia.org/wiki/Healer追擊 "wikilink") | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                           |          |
+| 2015年                                                         | [青鳥之家](../Page/青鳥之家.md "wikilink")                              | [週末劇](../Page/KBS週末連續劇.md "wikilink")     |          |
+| [惡女一家人](https://zh.wikipedia.org/wiki/惡女一家人 "wikilink")       | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                           |          |
+| [守護家族](../Page/守護家族.md "wikilink")                            | [日日劇](../Page/KBS_1TV日日連續劇.md "wikilink")                       |                                           |          |
+| [製作人們](https://zh.wikipedia.org/wiki/製作人們 "wikilink")         | [金土劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")        |                                           |          |
+| [草根議員](https://zh.wikipedia.org/wiki/草根議員 "wikilink")         | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                           |          |
+| [婆媽關係](https://zh.wikipedia.org/wiki/婆媽關係 "wikilink")         | [週末劇](../Page/KBS週末連續劇.md "wikilink")                           |                                           |          |
+| [愛情甘味](https://zh.wikipedia.org/wiki/愛情甘味 "wikilink")         | [日日劇](../Page/KBS_2TV日日連續劇.md "wikilink")                       |                                           |          |
+| [青春向前衝](https://zh.wikipedia.org/wiki/青春向前衝 "wikilink")       | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                           |          |
+| [塑身女神](https://zh.wikipedia.org/wiki/塑身女神 "wikilink")         |                                                                 |                                           |          |
+| 2016年                                                         | [雙生復仇](../Page/天上的約定.md "wikilink")                             | [日日劇](../Page/KBS_2TV日日連續劇.md "wikilink") |          |
+| [五個孩子](../Page/五個孩子.md "wikilink")                            | [週末劇](../Page/KBS週末連續劇.md "wikilink")                           |                                           |          |
+| [麵條之神](https://zh.wikipedia.org/wiki/麵條之神 "wikilink")         | [水木劇](../Page/KBS水木連續劇.md "wikilink")                           |                                           |          |
+| [月桂樹西裝店](../Page/月桂樹西裝店的紳士們.md "wikilink")                    | [週末劇](../Page/KBS週末連續劇.md "wikilink")                           |                                           |          |
+| [住在我家的男人](../Page/住在我家的男人.md "wikilink")                      | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           | **同步播出**                                  |          |
+| [再一次初戀](../Page/再次，初戀.md "wikilink")                          | [日日劇](../Page/KBS_2TV日日連續劇.md "wikilink")                       | **全集推出**                                  |          |
+| 2017年                                                         | [完美的妻子](../Page/完美的妻子.md "wikilink")                            | [月火劇](../Page/KBS月火連續劇.md "wikilink")     | **同步播出** |
+| [獨身萬歲](../Page/個人主義者智英小姐.md "wikilink")                       |                                                                 |                                           |          |
+| [三流人生](../Page/三流之路.md "wikilink")                            |                                                                 |                                           |          |
+| [最強一擊](../Page/最佳的一擊.md "wikilink")                           | [金土劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")        |                                           |          |
+| [最強速遞員](https://zh.wikipedia.org/wiki/最強送貨員 "wikilink")       |                                                                 |                                           |          |
+| [少女時代1979](../Page/內衣少女時代.md "wikilink")                      | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                           |          |
+| [魔女的法庭](../Page/魔女的法庭.md "wikilink")                          |                                                                 |                                           |          |
+| [告白夫婦](../Page/Go_Back夫婦.md "wikilink")                       | [金土劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")        |                                           |          |
+| [Jugglers](../Page/Jugglers.md "wikilink")                    | [月火劇](../Page/KBS月火連續劇.md "wikilink")                           |                                           |          |
+| 2018年                                                         | [愛情廣播](../Page/Radio_Romance.md "wikilink")                     |                                           |          |
+| [我們遇見的奇蹟](../Page/我們遇見的奇蹟.md "wikilink")                      |                                                                 |                                           |          |
 
 [Seoul_Broadcasting_System_logo.svg](https://zh.wikipedia.org/wiki/File:Seoul_Broadcasting_System_logo.svg "fig:Seoul_Broadcasting_System_logo.svg")
 
-|                                                                     |                                                                   |                                             |          |
-| ------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------- | -------- |
-| **劇集首播年份**                                                          | **劇集**                                                            | **劇集時段**                                    | **播出性質** |
-| 2003年                                                               | [天國的階梯](../Page/天國的階梯.md "wikilink")                              | [水木劇](../Page/SBS特別劇.md "wikilink")         | **全集推出** |
-| 2008年                                                               | [妻子的誘惑](../Page/妻子的誘惑.md "wikilink")                              | [日日劇](../Page/SBS日日連續劇.md "wikilink")       |          |
-| 2009年                                                               | [燦爛的遺產](../Page/燦爛的遺產.md "wikilink")                              | [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink") |          |
-| [熟女辛市長](../Page/熟女辛市長.md "wikilink")                                | [水木劇](../Page/SBS特別劇.md "wikilink")                               |                                             |          |
-| [原來是美男](../Page/原來是美男_\(韓國電視劇\).md "wikilink")                      |                                                                   |                                             |          |
-| 2010年                                                               | [秘密花園](../Page/秘密花園_\(韓國電視劇\).md "wikilink")                      | [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink") |          |
-| 2012年                                                               | [閣樓王世子](https://zh.wikipedia.org/wiki/閣樓王世子 "wikilink")           | [水木劇](../Page/SBS特別劇.md "wikilink")         |          |
-| [五指咒鳴曲](https://zh.wikipedia.org/wiki/五指咒鳴曲 "wikilink")             | [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")                       |                                             |          |
-| 2013年                                                               | [出生的秘密](https://zh.wikipedia.org/wiki/出生的秘密 "wikilink")           | [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink") |          |
-| [聽見你的聲音](../Page/聽見你的聲音.md "wikilink")                              | [水木劇](../Page/SBS特別劇.md "wikilink")                               |                                             |          |
-| [黃金帝國](../Page/黃金帝國.md "wikilink")                                  | [月火劇](../Page/SBS月火連續劇.md "wikilink")                             |                                             |          |
-| [主君的太陽](../Page/主君的太陽.md "wikilink")                                | [水木劇](../Page/SBS特別劇.md "wikilink")                               |                                             |          |
-| [奇怪的保姆](../Page/奇怪的保姆.md "wikilink")                                | [月火劇](../Page/SBS月火連續劇.md "wikilink")                             |                                             |          |
-| [繼承者們](../Page/繼承者們.md "wikilink")                                  | [水木劇](../Page/SBS特別劇.md "wikilink")                               |                                             |          |
-| [來自星星的你](../Page/來自星星的你.md "wikilink")                              |                                                                   |                                             |          |
-| 2014年                                                               | [3日殺機](https://zh.wikipedia.org/wiki/3日殺機 "wikilink")             | [水木劇](../Page/SBS特別劇.md "wikilink")         |          |
-| [神的禮物](https://zh.wikipedia.org/wiki/神的禮物 "wikilink")               | [月火劇](../Page/SBS月火連續劇.md "wikilink")                             |                                             |          |
-| [異鄉醫生](https://zh.wikipedia.org/wiki/異鄉醫生 "wikilink")               |                                                                   |                                             |          |
-| [你們被包圍了](https://zh.wikipedia.org/wiki/你們被包圍了 "wikilink")           | [水木劇](../Page/SBS特別劇.md "wikilink")                               |                                             |          |
-| [沒關係 這是愛情](https://zh.wikipedia.org/wiki/沒關係_這是愛情 "wikilink")       |                                                                   |                                             |          |
-| [可愛的妳](https://zh.wikipedia.org/wiki/可愛的妳 "wikilink")               |                                                                   |                                             |          |
-| [摩登農夫](https://zh.wikipedia.org/wiki/摩登農夫 "wikilink")               | [週末劇](../Page/SBS_週末劇場.md "wikilink")                             |                                             |          |
-| [美女的誕生](../Page/美女的誕生.md "wikilink")                                | [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")                       |                                             |          |
-| [愛上Pinocchio](https://zh.wikipedia.org/wiki/愛上Pinocchio "wikilink") | [水木劇](../Page/SBS特別劇.md "wikilink")                               |                                             |          |
-| [絕命反擊](https://zh.wikipedia.org/wiki/絕命反擊 "wikilink")               | [月火劇](../Page/SBS月火連續劇.md "wikilink")                             |                                             |          |
-| 2015年                                                               | [海德、哲基爾與我](https://zh.wikipedia.org/wiki/海德、哲基爾與我 "wikilink")     | [水木劇](../Page/SBS特別劇.md "wikilink")         |          |
-| [聽到傳聞](../Page/聽到傳聞.md "wikilink")                                  | [月火劇](../Page/SBS月火連續劇.md "wikilink")                             |                                             |          |
-| [看見味道的少女](../Page/看見味道的少女.md "wikilink")                            | [水木劇](../Page/SBS特別劇.md "wikilink")                               |                                             |          |
-| [刑警靚媽](https://zh.wikipedia.org/wiki/刑警靚媽 "wikilink")               | [月火劇](../Page/SBS月火連續劇.md "wikilink")                             |                                             |          |
-| [龍八](../Page/龍八.md "wikilink")                                      | [水木劇](../Page/SBS特別劇.md "wikilink")                               |                                             |          |
-| [六龍飛天](../Page/六龍飛天.md "wikilink")                                  | [月火劇](../Page/SBS月火連續劇.md "wikilink")                             |                                             |          |
-| [記憶復仇](https://zh.wikipedia.org/wiki/記憶復仇 "wikilink")               | [水木劇](../Page/SBS特別劇.md "wikilink")                               |                                             |          |
-| 2016年                                                               | [刑警靚媽2](https://zh.wikipedia.org/wiki/刑警靚媽2 "wikilink")           | [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink") | **同步播出** |
-| [戲子](../Page/戲子_\(電視劇\).md "wikilink")                              | [水木劇](../Page/SBS特別劇.md "wikilink")                               |                                             |          |
-| [救參直播](../Page/Wanted.md "wikilink")                                |                                                                   |                                             |          |
-| [倒數第二次愛情](https://zh.wikipedia.org/wiki/倒數第二次愛情 "wikilink")         | [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")                       |                                             |          |
-| [嫉妒的化身](../Page/嫉妒的化身.md "wikilink")                                | [水木劇](../Page/SBS特別劇.md "wikilink")                               |                                             |          |
-| [同居家事](../Page/我們的甲順.md "wikilink")                                 | [週末連續劇](../Page/SBS週末連續劇.md "wikilink")                           | **全集推出**                                    |          |
-| [藍海傳說](https://zh.wikipedia.org/wiki/藍海傳說 "wikilink")               | [水木劇](../Page/SBS特別劇.md "wikilink")                               | **同步播出**                                    |          |
-| [有夫之婦的誕生](https://zh.wikipedia.org/wiki/有夫之婦的誕生 "wikilink")         |                                                                   |                                             |          |
-| 2017年                                                               | [師任堂](https://zh.wikipedia.org/wiki/師任堂 "wikilink")               | [水木劇](../Page/SBS特別劇.md "wikilink")         |          |
-| [我家都是超人](https://zh.wikipedia.org/wiki/超人家族_2017 "wikilink")        | 月曜劇                                                               |                                             |          |
-| [奇怪的拍檔](https://zh.wikipedia.org/wiki/奇怪的搭檔 "wikilink")             | [水木劇](../Page/SBS特別劇.md "wikilink")                               |                                             |          |
-| [再次相遇的世界](https://zh.wikipedia.org/wiki/再次重逢的世界_\(電視劇\) "wikilink") |                                                                   |                                             |          |
-| [當你沉睡時](https://zh.wikipedia.org/wiki/當你熟睡時 "wikilink")             |                                                                   |                                             |          |
-| [法官男女](https://zh.wikipedia.org/wiki/理判事判 "wikilink")               |                                                                   |                                             |          |
-| 2018年                                                               | [名流真相](https://zh.wikipedia.org/wiki/Return_\(韓國電視劇\) "wikilink") |                                             |          |
-| [山寨檢察官](https://zh.wikipedia.org/wiki/Switch－改變世界 "wikilink")       |                                                                   |                                             |          |
+|                                                                     |                                                               |                                             |          |
+| ------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------- | -------- |
+| **劇集首播年份**                                                          | **劇集**                                                        | **劇集時段**                                    | **播出性質** |
+| 2003年                                                               | [天國的階梯](../Page/天國的階梯.md "wikilink")                          | [水木劇](../Page/SBS特別劇.md "wikilink")         | **全集推出** |
+| 2008年                                                               | [妻子的誘惑](../Page/妻子的誘惑.md "wikilink")                          | [日日劇](../Page/SBS日日連續劇.md "wikilink")       |          |
+| 2009年                                                               | [燦爛的遺產](../Page/燦爛的遺產.md "wikilink")                          | [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink") |          |
+| [熟女辛市長](../Page/熟女辛市長.md "wikilink")                                | [水木劇](../Page/SBS特別劇.md "wikilink")                           |                                             |          |
+| [原來是美男](../Page/原來是美男_\(韓國電視劇\).md "wikilink")                      |                                                               |                                             |          |
+| 2010年                                                               | [秘密花園](../Page/秘密花園_\(韓國電視劇\).md "wikilink")                  | [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink") |          |
+| 2012年                                                               | [閣樓王世子](https://zh.wikipedia.org/wiki/閣樓王世子 "wikilink")       | [水木劇](../Page/SBS特別劇.md "wikilink")         |          |
+| [五指咒鳴曲](https://zh.wikipedia.org/wiki/五指咒鳴曲 "wikilink")             | [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")                   |                                             |          |
+| 2013年                                                               | [出生的秘密](https://zh.wikipedia.org/wiki/出生的秘密 "wikilink")       | [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink") |          |
+| [聽見你的聲音](../Page/聽見你的聲音.md "wikilink")                              | [水木劇](../Page/SBS特別劇.md "wikilink")                           |                                             |          |
+| [黃金帝國](../Page/黃金帝國.md "wikilink")                                  | [月火劇](../Page/SBS月火連續劇.md "wikilink")                         |                                             |          |
+| [主君的太陽](../Page/主君的太陽.md "wikilink")                                | [水木劇](../Page/SBS特別劇.md "wikilink")                           |                                             |          |
+| [奇怪的保姆](../Page/奇怪的保姆.md "wikilink")                                | [月火劇](../Page/SBS月火連續劇.md "wikilink")                         |                                             |          |
+| [繼承者們](../Page/繼承者們.md "wikilink")                                  | [水木劇](../Page/SBS特別劇.md "wikilink")                           |                                             |          |
+| [來自星星的你](../Page/來自星星的你.md "wikilink")                              |                                                               |                                             |          |
+| 2014年                                                               | [3日殺機](https://zh.wikipedia.org/wiki/3日殺機 "wikilink")         | [水木劇](../Page/SBS特別劇.md "wikilink")         |          |
+| [神的禮物](https://zh.wikipedia.org/wiki/神的禮物 "wikilink")               | [月火劇](../Page/SBS月火連續劇.md "wikilink")                         |                                             |          |
+| [異鄉醫生](https://zh.wikipedia.org/wiki/異鄉醫生 "wikilink")               |                                                               |                                             |          |
+| [你們被包圍了](../Page/你們被包圍了.md "wikilink")                              | [水木劇](../Page/SBS特別劇.md "wikilink")                           |                                             |          |
+| [沒關係 這是愛情](https://zh.wikipedia.org/wiki/沒關係_這是愛情 "wikilink")       |                                                               |                                             |          |
+| [可愛的妳](https://zh.wikipedia.org/wiki/可愛的妳 "wikilink")               |                                                               |                                             |          |
+| [摩登農夫](https://zh.wikipedia.org/wiki/摩登農夫 "wikilink")               | [週末劇](../Page/SBS_週末劇場.md "wikilink")                         |                                             |          |
+| [美女的誕生](../Page/美女的誕生.md "wikilink")                                | [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")                   |                                             |          |
+| [愛上Pinocchio](https://zh.wikipedia.org/wiki/愛上Pinocchio "wikilink") | [水木劇](../Page/SBS特別劇.md "wikilink")                           |                                             |          |
+| [絕命反擊](https://zh.wikipedia.org/wiki/絕命反擊 "wikilink")               | [月火劇](../Page/SBS月火連續劇.md "wikilink")                         |                                             |          |
+| 2015年                                                               | [海德、哲基爾與我](https://zh.wikipedia.org/wiki/海德、哲基爾與我 "wikilink") | [水木劇](../Page/SBS特別劇.md "wikilink")         |          |
+| [聽到傳聞](../Page/聽到傳聞.md "wikilink")                                  | [月火劇](../Page/SBS月火連續劇.md "wikilink")                         |                                             |          |
+| [看見味道的少女](../Page/看見味道的少女.md "wikilink")                            | [水木劇](../Page/SBS特別劇.md "wikilink")                           |                                             |          |
+| [刑警靚媽](https://zh.wikipedia.org/wiki/刑警靚媽 "wikilink")               | [月火劇](../Page/SBS月火連續劇.md "wikilink")                         |                                             |          |
+| [龍八](../Page/龍八.md "wikilink")                                      | [水木劇](../Page/SBS特別劇.md "wikilink")                           |                                             |          |
+| [六龍飛天](../Page/六龍飛天.md "wikilink")                                  | [月火劇](../Page/SBS月火連續劇.md "wikilink")                         |                                             |          |
+| [記憶復仇](https://zh.wikipedia.org/wiki/記憶復仇 "wikilink")               | [水木劇](../Page/SBS特別劇.md "wikilink")                           |                                             |          |
+| 2016年                                                               | [刑警靚媽2](https://zh.wikipedia.org/wiki/刑警靚媽2 "wikilink")       | [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink") | **同步播出** |
+| [戲子](../Page/戲子_\(電視劇\).md "wikilink")                              | [水木劇](../Page/SBS特別劇.md "wikilink")                           |                                             |          |
+| [救參直播](../Page/Wanted.md "wikilink")                                |                                                               |                                             |          |
+| [倒數第二次愛情](https://zh.wikipedia.org/wiki/倒數第二次愛情 "wikilink")         | [週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")                   |                                             |          |
+| [嫉妒的化身](../Page/嫉妒的化身.md "wikilink")                                | [水木劇](../Page/SBS特別劇.md "wikilink")                           |                                             |          |
+| [同居家事](../Page/我們的甲順.md "wikilink")                                 | [週末連續劇](../Page/SBS週末連續劇.md "wikilink")                       | **全集推出**                                    |          |
+| [藍海傳說](https://zh.wikipedia.org/wiki/藍海傳說 "wikilink")               | [水木劇](../Page/SBS特別劇.md "wikilink")                           | **同步播出**                                    |          |
+| [有夫之婦的誕生](../Page/有夫之婦的誕生.md "wikilink")                            |                                                               |                                             |          |
+| 2017年                                                               | [師任堂](https://zh.wikipedia.org/wiki/師任堂 "wikilink")           | [水木劇](../Page/SBS特別劇.md "wikilink")         |          |
+| [我家都是超人](../Page/超人家族_2017.md "wikilink")                           | 月曜劇                                                           |                                             |          |
+| [奇怪的拍檔](../Page/奇怪的搭檔.md "wikilink")                                | [水木劇](../Page/SBS特別劇.md "wikilink")                           |                                             |          |
+| [再次相遇的世界](https://zh.wikipedia.org/wiki/再次重逢的世界_\(電視劇\) "wikilink") |                                                               |                                             |          |
+| [當你沉睡時](https://zh.wikipedia.org/wiki/當你熟睡時 "wikilink")             |                                                               |                                             |          |
+| [法官男女](https://zh.wikipedia.org/wiki/理判事判 "wikilink")               |                                                               |                                             |          |
+| 2018年                                                               | [名流真相](../Page/Return_\(韓國電視劇\).md "wikilink")                |                                             |          |
+| [山寨檢察官](../Page/Switch－改變世界.md "wikilink")                          |                                                               |                                             |          |
 
 [Munhwa_Broadcasting_Company.svg](https://zh.wikipedia.org/wiki/File:Munhwa_Broadcasting_Company.svg "fig:Munhwa_Broadcasting_Company.svg")
 
-|                                                                       |                                                             |                                         |          |
-| --------------------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------- | -------- |
-| **劇集首播年份**                                                            | **劇集**                                                      | **劇集時段**                                | **播出性質** |
-| 2006年                                                                 | [宮](../Page/宮_\(2006年電視劇\).md "wikilink")                   | [水木劇](../Page/MBC水木迷你連續劇.md "wikilink") | 全集推出     |
-| 2007年                                                                 | [咖啡王子](https://zh.wikipedia.org/wiki/咖啡王子 "wikilink")       | [月火劇](../Page/MBC月火連續劇.md "wikilink")   |          |
-| 2012年                                                                 | [想念你](../Page/想你.md "wikilink")                             | [水木劇](../Page/MBC水木迷你連續劇.md "wikilink") |          |
-| 2013年                                                                 | [7級公務員](../Page/七級公務員_\(電視劇\).md "wikilink")                |                                         |          |
-| [女王的教室](../Page/女王的教室_\(韓國電視劇\).md "wikilink")                        |                                                             |                                         |          |
-| [家族醜聞](https://zh.wikipedia.org/wiki/家族醜聞 "wikilink")                 | [週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")               |                                         |          |
-| [火之女神](https://zh.wikipedia.org/wiki/火之女神 "wikilink")                 | [月火劇](../Page/MBC月火連續劇.md "wikilink")                       |                                         |          |
-| [妙手天團](https://zh.wikipedia.org/wiki/妙手天團 "wikilink")                 | [水木劇](../Page/MBC水木迷你連續劇.md "wikilink")                     |                                         |          |
-| [奇皇后](../Page/奇皇后_\(電視劇\).md "wikilink")                              | [月火劇](../Page/MBC月火連續劇.md "wikilink")                       |                                         |          |
-| [黃金彩虹](../Page/黃金彩虹.md "wikilink")                                    | [週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")               |                                         |          |
-| [韓國小姐](../Page/韓國小姐_\(電視劇\).md "wikilink")                            | [水木劇](../Page/MBC水木迷你連續劇.md "wikilink")                     |                                         |          |
-| 2014年                                                                 | [別有用心單身女](https://zh.wikipedia.org/wiki/別有用心單身女 "wikilink") |                                         |          |
-| [酒店風雲](https://zh.wikipedia.org/wiki/Hotel_King "wikilink")           | [週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")               |                                         |          |
-| [改過遷善](https://zh.wikipedia.org/wiki/改過遷善 "wikilink")                 | [水木劇](../Page/MBC水木迷你連續劇.md "wikilink")                     |                                         |          |
-| [TRIANGLE](https://zh.wikipedia.org/wiki/Triangle_\(電視劇\) "wikilink") | [月火劇](../Page/MBC月火連續劇.md "wikilink")                       |                                         |          |
-| [夜警日誌](https://zh.wikipedia.org/wiki/夜警日誌 "wikilink")                 |                                                             |                                         |          |
-| [傳說的魔女](https://zh.wikipedia.org/wiki/傳說的魔女 "wikilink")               | [週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")               |                                         |          |
-| [傲慢與偏見](https://zh.wikipedia.org/wiki/傲慢與偏見_\(韓國電視劇\) "wikilink")     | [月火劇](../Page/MBC月火連續劇.md "wikilink")                       |                                         |          |
-| [忽然30歲](https://zh.wikipedia.org/wiki/忽然30歲 "wikilink")               | [水木劇](../Page/MBC水木迷你連續劇.md "wikilink")                     |                                         |          |
-| 2015年                                                                 | [愛上哪個我](https://zh.wikipedia.org/wiki/愛上哪個我 "wikilink")     |                                         |          |
-| [阿媽上學去](https://zh.wikipedia.org/wiki/阿媽上學去 "wikilink")               |                                                             |                                         |          |
-| [華政](../Page/華政.md "wikilink")                                        | [月火劇](../Page/MBC月火連續劇.md "wikilink")                       |                                         |          |
-| [窩心餐廳](https://zh.wikipedia.org/wiki/窩心餐廳 "wikilink")                 | [水木劇](../Page/MBC水木迷你連續劇.md "wikilink")                     |                                         |          |
-| 2016年                                                                 | [B任務](https://zh.wikipedia.org/wiki/B任務 "wikilink")         | 土曜深夜劇                                   |          |
-| [拖喼打官司](../Page/拖旅行箱的女人.md "wikilink")                                | [月火劇](../Page/MBC月火連續劇.md "wikilink")                       | **同步播出**                                |          |
+|                                                         |                                                             |                                         |          |
+| ------------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------- | -------- |
+| **劇集首播年份**                                              | **劇集**                                                      | **劇集時段**                                | **播出性質** |
+| 2006年                                                   | [宮](../Page/宮_\(2006年電視劇\).md "wikilink")                   | [水木劇](../Page/MBC水木迷你連續劇.md "wikilink") | 全集推出     |
+| 2007年                                                   | [咖啡王子](https://zh.wikipedia.org/wiki/咖啡王子 "wikilink")       | [月火劇](../Page/MBC月火連續劇.md "wikilink")   |          |
+| 2012年                                                   | [想念你](../Page/想你.md "wikilink")                             | [水木劇](../Page/MBC水木迷你連續劇.md "wikilink") |          |
+| 2013年                                                   | [7級公務員](../Page/七級公務員_\(電視劇\).md "wikilink")                |                                         |          |
+| [女王的教室](../Page/女王的教室_\(韓國電視劇\).md "wikilink")          |                                                             |                                         |          |
+| [家族醜聞](https://zh.wikipedia.org/wiki/家族醜聞 "wikilink")   | [週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")               |                                         |          |
+| [火之女神](https://zh.wikipedia.org/wiki/火之女神 "wikilink")   | [月火劇](../Page/MBC月火連續劇.md "wikilink")                       |                                         |          |
+| [妙手天團](https://zh.wikipedia.org/wiki/妙手天團 "wikilink")   | [水木劇](../Page/MBC水木迷你連續劇.md "wikilink")                     |                                         |          |
+| [奇皇后](../Page/奇皇后_\(電視劇\).md "wikilink")                | [月火劇](../Page/MBC月火連續劇.md "wikilink")                       |                                         |          |
+| [黃金彩虹](../Page/黃金彩虹.md "wikilink")                      | [週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")               |                                         |          |
+| [韓國小姐](../Page/韓國小姐_\(電視劇\).md "wikilink")              | [水木劇](../Page/MBC水木迷你連續劇.md "wikilink")                     |                                         |          |
+| 2014年                                                   | [別有用心單身女](https://zh.wikipedia.org/wiki/別有用心單身女 "wikilink") |                                         |          |
+| [酒店風雲](../Page/Hotel_King.md "wikilink")                | [週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")               |                                         |          |
+| [改過遷善](../Page/改過遷善.md "wikilink")                      | [水木劇](../Page/MBC水木迷你連續劇.md "wikilink")                     |                                         |          |
+| [TRIANGLE](../Page/Triangle_\(電視劇\).md "wikilink")      | [月火劇](../Page/MBC月火連續劇.md "wikilink")                       |                                         |          |
+| [夜警日誌](https://zh.wikipedia.org/wiki/夜警日誌 "wikilink")   |                                                             |                                         |          |
+| [傳說的魔女](https://zh.wikipedia.org/wiki/傳說的魔女 "wikilink") | [週末特別計劃劇](../Page/MBC週末特別計劃連續劇.md "wikilink")               |                                         |          |
+| [傲慢與偏見](../Page/傲慢與偏見_\(韓國電視劇\).md "wikilink")          | [月火劇](../Page/MBC月火連續劇.md "wikilink")                       |                                         |          |
+| [忽然30歲](https://zh.wikipedia.org/wiki/忽然30歲 "wikilink") | [水木劇](../Page/MBC水木迷你連續劇.md "wikilink")                     |                                         |          |
+| 2015年                                                   | [愛上哪個我](https://zh.wikipedia.org/wiki/愛上哪個我 "wikilink")     |                                         |          |
+| [阿媽上學去](https://zh.wikipedia.org/wiki/阿媽上學去 "wikilink") |                                                             |                                         |          |
+| [華政](../Page/華政.md "wikilink")                          | [月火劇](../Page/MBC月火連續劇.md "wikilink")                       |                                         |          |
+| [窩心餐廳](https://zh.wikipedia.org/wiki/窩心餐廳 "wikilink")   | [水木劇](../Page/MBC水木迷你連續劇.md "wikilink")                     |                                         |          |
+| 2016年                                                   | [B任務](https://zh.wikipedia.org/wiki/B任務 "wikilink")         | 土曜深夜劇                                   |          |
+| [拖喼打官司](../Page/拖旅行箱的女人.md "wikilink")                  | [月火劇](../Page/MBC月火連續劇.md "wikilink")                       | **同步播出**                                |          |
 
 [Logo_tvN.svg](https://zh.wikipedia.org/wiki/File:Logo_tvN.svg "fig:Logo_tvN.svg")
 
-|                                                           |                                                                 |                                                          |          |
-| --------------------------------------------------------- | --------------------------------------------------------------- | -------------------------------------------------------- | -------- |
-| **劇集首播年份**                                                | **劇集**                                                          | **劇集時段**                                                 | **播出性質** |
-| 2012年                                                     | [黃色復仇草](../Page/黃色復仇草.md "wikilink")                            | [晨間劇](https://zh.wikipedia.org/wiki/tvN晨間連續劇 "wikilink") | 全集推出     |
-| 2013年                                                     | [九轉迴香](https://zh.wikipedia.org/wiki/九轉迴香 "wikilink")           | [月火劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink") |          |
-| [謊誕家族](https://zh.wikipedia.org/wiki/謊誕家族 "wikilink")     | [水曜劇](https://zh.wikipedia.org/wiki/tvN水木連續劇 "wikilink")        |                                                          |          |
-| [戀愛救兵](https://zh.wikipedia.org/wiki/戀愛救兵 "wikilink")     | [月火劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")        |                                                          |          |
-| [薯嘜一家人](https://zh.wikipedia.org/wiki/薯嘜一家人 "wikilink")   |                                                                 |                                                          |          |
-| [一起吃飯吧](../Page/一起吃飯吧.md "wikilink")                      | [水曜劇](https://zh.wikipedia.org/wiki/tvN水木連續劇 "wikilink")        |                                                          |          |
-| 2014年                                                     | [急診男女](../Page/急診男女.md "wikilink")                              | [金土劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink") |          |
-| [花樣爺爺搜查隊](../Page/花樣爺爺搜查隊.md "wikilink")                  | 金曜劇                                                             |                                                          |          |
-| [高校打工王](https://zh.wikipedia.org/wiki/高校打工王 "wikilink")   | [月火劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")        |                                                          |          |
-| [不要戀愛要結婚](../Page/不要戀愛要結婚.md "wikilink")                  | [金土劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")        |                                                          |          |
-| [未生](../Page/未生.md "wikilink")                            |                                                                 |                                                          |          |
-| [家族的秘密](https://zh.wikipedia.org/wiki/家族的秘密 "wikilink")   | [晨間劇](https://zh.wikipedia.org/wiki/tvN晨間連續劇 "wikilink")        |                                                          |          |
-| 2015年                                                     | [超級爸B](https://zh.wikipedia.org/wiki/超級爸B "wikilink")           | [金土劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink") |          |
-| [一起吃飯吧2](../Page/一起吃飯吧2.md "wikilink")                    | [月火劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")        |                                                          |          |
-| [前女友俱樂部](../Page/前女友俱樂部.md "wikilink")                    | [金土劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")        |                                                          |          |
-| [潛行特警](https://zh.wikipedia.org/wiki/潛行特警 "wikilink")     | [月火劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")        |                                                          |          |
-| [我的冤鬼女友](https://zh.wikipedia.org/wiki/我的冤鬼女友 "wikilink") | [金土劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")        |                                                          |          |
-| [第二個二十歲](../Page/第二個二十歲.md "wikilink")                    |                                                                 |                                                          |          |
-| [愛情吹波糖](https://zh.wikipedia.org/wiki/愛情吹波糖 "wikilink")   | [月火劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")        |                                                          |          |
-| 2016年                                                     | [解碼追兇](https://zh.wikipedia.org/wiki/解碼追兇 "wikilink")           | [金土劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink") |          |
-| [消失的記憶](https://zh.wikipedia.org/wiki/消失的記憶 "wikilink")   | **同步播出**                                                        |                                                          |          |
-| [常青老友](https://zh.wikipedia.org/wiki/常青老友 "wikilink")     |                                                                 |                                                          |          |
-| [法妻當自強](../Page/法妻當自強.md "wikilink")                      |                                                                 |                                                          |          |
-| [灰姑娘與四騎士](../Page/灰姑娘與四騎士.md "wikilink")                  |                                                                 |                                                          |          |
-| [權慾叛戰](https://zh.wikipedia.org/wiki/權慾叛戰 "wikilink")     |                                                                 |                                                          |          |
-| [明星跟班Friend](../Page/Entourage_\(韓國電視劇\).md "wikilink")   |                                                                 |                                                          |          |
-| 2017年                                                     | [大媽復仇聯盟](https://zh.wikipedia.org/wiki/付岩洞復仇者們 "wikilink")      | [水木劇](https://zh.wikipedia.org/wiki/tvN水木連續劇 "wikilink") |          |
-| [監獄手記](https://zh.wikipedia.org/wiki/機智牢房生活 "wikilink")   |                                                                 |                                                          |          |
-| 2018年                                                     | [新紮散仔](https://zh.wikipedia.org/wiki/Live_\(韓國電視劇\) "wikilink") | [週末劇](https://zh.wikipedia.org/wiki/tvN週末連續劇 "wikilink") |          |
-| [武法律師](https://zh.wikipedia.org/wiki/武法律師 "wikilink")     |                                                                 |                                                          |          |
+|                                                           |                                                          |                                                          |          |
+| --------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | -------- |
+| **劇集首播年份**                                                | **劇集**                                                   | **劇集時段**                                                 | **播出性質** |
+| 2012年                                                     | [黃色復仇草](../Page/黃色復仇草.md "wikilink")                     | [晨間劇](https://zh.wikipedia.org/wiki/tvN晨間連續劇 "wikilink") | 全集推出     |
+| 2013年                                                     | [九轉迴香](https://zh.wikipedia.org/wiki/九轉迴香 "wikilink")    | [月火劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink") |          |
+| [謊誕家族](https://zh.wikipedia.org/wiki/謊誕家族 "wikilink")     | [水曜劇](https://zh.wikipedia.org/wiki/tvN水木連續劇 "wikilink") |                                                          |          |
+| [戀愛救兵](https://zh.wikipedia.org/wiki/戀愛救兵 "wikilink")     | [月火劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink") |                                                          |          |
+| [薯嘜一家人](https://zh.wikipedia.org/wiki/薯嘜一家人 "wikilink")   |                                                          |                                                          |          |
+| [一起吃飯吧](../Page/一起吃飯吧.md "wikilink")                      | [水曜劇](https://zh.wikipedia.org/wiki/tvN水木連續劇 "wikilink") |                                                          |          |
+| 2014年                                                     | [急診男女](../Page/急診男女.md "wikilink")                       | [金土劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink") |          |
+| [花樣爺爺搜查隊](../Page/花樣爺爺搜查隊.md "wikilink")                  | 金曜劇                                                      |                                                          |          |
+| [高校打工王](https://zh.wikipedia.org/wiki/高校打工王 "wikilink")   | [月火劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink") |                                                          |          |
+| [不要戀愛要結婚](../Page/不要戀愛要結婚.md "wikilink")                  | [金土劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink") |                                                          |          |
+| [未生](../Page/未生.md "wikilink")                            |                                                          |                                                          |          |
+| [家族的秘密](../Page/家族的秘密.md "wikilink")                      | [晨間劇](https://zh.wikipedia.org/wiki/tvN晨間連續劇 "wikilink") |                                                          |          |
+| 2015年                                                     | [超級爸B](https://zh.wikipedia.org/wiki/超級爸B "wikilink")    | [金土劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink") |          |
+| [一起吃飯吧2](../Page/一起吃飯吧2.md "wikilink")                    | [月火劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink") |                                                          |          |
+| [前女友俱樂部](../Page/前女友俱樂部.md "wikilink")                    | [金土劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink") |                                                          |          |
+| [潛行特警](https://zh.wikipedia.org/wiki/潛行特警 "wikilink")     | [月火劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink") |                                                          |          |
+| [我的冤鬼女友](https://zh.wikipedia.org/wiki/我的冤鬼女友 "wikilink") | [金土劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink") |                                                          |          |
+| [第二個二十歲](../Page/第二個二十歲.md "wikilink")                    |                                                          |                                                          |          |
+| [愛情吹波糖](https://zh.wikipedia.org/wiki/愛情吹波糖 "wikilink")   | [月火劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink") |                                                          |          |
+| 2016年                                                     | [解碼追兇](https://zh.wikipedia.org/wiki/解碼追兇 "wikilink")    | [金土劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink") |          |
+| [消失的記憶](https://zh.wikipedia.org/wiki/消失的記憶 "wikilink")   | **同步播出**                                                 |                                                          |          |
+| [常青老友](https://zh.wikipedia.org/wiki/常青老友 "wikilink")     |                                                          |                                                          |          |
+| [法妻當自強](../Page/法妻當自強.md "wikilink")                      |                                                          |                                                          |          |
+| [灰姑娘與四騎士](../Page/灰姑娘與四騎士.md "wikilink")                  |                                                          |                                                          |          |
+| [權慾叛戰](https://zh.wikipedia.org/wiki/權慾叛戰 "wikilink")     |                                                          |                                                          |          |
+| [明星跟班Friend](../Page/Entourage_\(韓國電視劇\).md "wikilink")   |                                                          |                                                          |          |
+| 2017年                                                     | [大媽復仇聯盟](../Page/付岩洞復仇者們.md "wikilink")                  | [水木劇](https://zh.wikipedia.org/wiki/tvN水木連續劇 "wikilink") |          |
+| [監獄手記](../Page/機智牢房生活.md "wikilink")                      |                                                          |                                                          |          |
+| 2018年                                                     | [新紮散仔](../Page/Live_\(韓國電視劇\).md "wikilink")             | [週末劇](https://zh.wikipedia.org/wiki/tvN週末連續劇 "wikilink") |          |
+| [武法律師](../Page/武法律師.md "wikilink")                        |                                                          |                                                          |          |
 
 [OCN_Logo.svg](https://zh.wikipedia.org/wiki/File:OCN_Logo.svg "fig:OCN_Logo.svg")
 
-|                                                           |                                                                  |                                                          |          |
-| --------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------- | -------- |
-| **劇集首播年份**                                                | **劇集**                                                           | **劇集時段**                                                 | **播出性質** |
-| 2014年                                                     | [暴瘋刑警](https://zh.wikipedia.org/wiki/暴瘋刑警 "wikilink")            | 土曜劇                                                      | 全集推出     |
-| 2016年                                                     | [街坊英雄](https://zh.wikipedia.org/wiki/街坊英雄 "wikilink")            | [週末劇](https://zh.wikipedia.org/wiki/OCN週末連續劇 "wikilink") |          |
-| [吸血鬼偵探](../Page/吸血鬼偵探.md "wikilink")                      | [日曜劇](https://zh.wikipedia.org/wiki/OCN日曜連續劇 "wikilink")         | **同步播出**                                                 |          |
-| [追稅38部隊](https://zh.wikipedia.org/wiki/追稅38部隊 "wikilink") | [週末劇](https://zh.wikipedia.org/wiki/OCN週末連續劇 "wikilink")         |                                                          |          |
-| 2017年                                                     | [讀心試愛](https://zh.wikipedia.org/wiki/Melo_Holic_愛情中毒 "wikilink") | [月火劇](https://zh.wikipedia.org/wiki/OCN月火連續劇 "wikilink") |          |
-| 2018年                                                     | [初戀大作戰](https://zh.wikipedia.org/wiki/操心 "wikilink")             |                                                          |          |
+|                                                           |                                                          |                                                          |          |
+| --------------------------------------------------------- | -------------------------------------------------------- | -------------------------------------------------------- | -------- |
+| **劇集首播年份**                                                | **劇集**                                                   | **劇集時段**                                                 | **播出性質** |
+| 2014年                                                     | [暴瘋刑警](https://zh.wikipedia.org/wiki/暴瘋刑警 "wikilink")    | 土曜劇                                                      | 全集推出     |
+| 2016年                                                     | [街坊英雄](https://zh.wikipedia.org/wiki/街坊英雄 "wikilink")    | [週末劇](https://zh.wikipedia.org/wiki/OCN週末連續劇 "wikilink") |          |
+| [吸血鬼偵探](../Page/吸血鬼偵探.md "wikilink")                      | [日曜劇](https://zh.wikipedia.org/wiki/OCN日曜連續劇 "wikilink") | **同步播出**                                                 |          |
+| [追稅38部隊](https://zh.wikipedia.org/wiki/追稅38部隊 "wikilink") | [週末劇](https://zh.wikipedia.org/wiki/OCN週末連續劇 "wikilink") |                                                          |          |
+| 2017年                                                     | [讀心試愛](../Page/Melo_Holic_愛情中毒.md "wikilink")            | [月火劇](https://zh.wikipedia.org/wiki/OCN月火連續劇 "wikilink") |          |
+| 2018年                                                     | [初戀大作戰](../Page/操心.md "wikilink")                        |                                                          |          |
 
 [Maeil_Broadcasting_Network_logo_at_(Black_Design).svg](https://zh.wikipedia.org/wiki/File:Maeil_Broadcasting_Network_logo_at_\(Black_Design\).svg "fig:Maeil_Broadcasting_Network_logo_at_(Black_Design).svg")
 
-|            |                                                         |                                             |          |
-| ---------- | ------------------------------------------------------- | ------------------------------------------- | -------- |
-| **劇集首播年份** | **劇集**                                                  | **劇集時段**                                    | **播出性質** |
-| 2014年      | [天國的眼淚](https://zh.wikipedia.org/wiki/天國的眼淚 "wikilink") | [週末特別企劃劇](../Page/MBN周末特別企劃劇.md "wikilink") | 全集推出     |
+|            |                                      |                                             |          |
+| ---------- | ------------------------------------ | ------------------------------------------- | -------- |
+| **劇集首播年份** | **劇集**                               | **劇集時段**                                    | **播出性質** |
+| 2014年      | [天國的眼淚](../Page/天國的眼淚.md "wikilink") | [週末特別企劃劇](../Page/MBN周末特別企劃劇.md "wikilink") | 全集推出     |
 
 [TV_Chosun_logo_(hangul).svg](https://zh.wikipedia.org/wiki/File:TV_Chosun_logo_\(hangul\).svg "fig:TV_Chosun_logo_(hangul).svg")
 
@@ -1021,19 +1021,19 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 **※設有限時觀看之動畫不計算在內**
 <small>動畫劇場版</small>
 
-|                                                                               |                                                                                              |          |           |
-| ----------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------- | --------- |
-| **動畫首播年份**                                                                    | **動畫名稱**                                                                                     | **播出性質** | **收看方式**  |
-| 2001                                                                          | [麥兜故事](../Page/麥兜故事.md "wikilink")                                                           | 全集推出     | TVB外購節目組合 |
-| 2004                                                                          | [麥兜菠蘿油王子](../Page/麥兜菠蘿油王子.md "wikilink")                                                     |          |           |
-| 2012                                                                          | [麥兜噹噹伴我心](../Page/麥兜噹噹伴我心.md "wikilink")                                                     |          |           |
-| 2013                                                                          | [寵物-{小}-精靈：神速蓋諾賽克特 超夢夢覺醒](../Page/神奇寶貝劇場版：神速的蓋諾賽克特_超夢覺醒.md "wikilink")                       |          |           |
-| [全職獵人劇場版 - 緋色的幻影](../Page/獵人：緋色之幻影.md "wikilink")                             |                                                                                              |          |           |
-| 2014                                                                          | [寵物-{小}-精靈：破壞之繭與蒂安希](https://zh.wikipedia.org/wiki/Pokemon_the_movie_XY_破壞之繭與蒂安希 "wikilink") |          |           |
-| [TIGER & BUNNY 最強同盟](../Page/TIGER_&_BUNNY.md "wikilink")                     |                                                                                              |          |           |
-| [Stand By Me：多啦A夢](https://zh.wikipedia.org/wiki/STAND_BY_ME：多啦A夢 "wikilink") |                                                                                              |          |           |
-| 2015                                                                          | [飆速宅男︰火拼時速](../Page/飆速宅男.md "wikilink")                                                      |          |           |
-|                                                                               |                                                                                              |          |           |
+|                                                                               |                                                                           |          |           |
+| ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- | -------- | --------- |
+| **動畫首播年份**                                                                    | **動畫名稱**                                                                  | **播出性質** | **收看方式**  |
+| 2001                                                                          | [麥兜故事](../Page/麥兜故事.md "wikilink")                                        | 全集推出     | TVB外購節目組合 |
+| 2004                                                                          | [麥兜菠蘿油王子](../Page/麥兜菠蘿油王子.md "wikilink")                                  |          |           |
+| 2012                                                                          | [麥兜噹噹伴我心](../Page/麥兜噹噹伴我心.md "wikilink")                                  |          |           |
+| 2013                                                                          | [寵物-{小}-精靈：神速蓋諾賽克特 超夢夢覺醒](../Page/神奇寶貝劇場版：神速的蓋諾賽克特_超夢覺醒.md "wikilink")    |          |           |
+| [全職獵人劇場版 - 緋色的幻影](../Page/獵人：緋色之幻影.md "wikilink")                             |                                                                           |          |           |
+| 2014                                                                          | [寵物-{小}-精靈：破壞之繭與蒂安希](../Page/Pokemon_the_movie_XY_破壞之繭與蒂安希.md "wikilink") |          |           |
+| [TIGER & BUNNY 最強同盟](../Page/TIGER_&_BUNNY.md "wikilink")                     |                                                                           |          |           |
+| [Stand By Me：多啦A夢](https://zh.wikipedia.org/wiki/STAND_BY_ME：多啦A夢 "wikilink") |                                                                           |          |           |
+| 2015                                                                          | [飆速宅男︰火拼時速](../Page/飆速宅男.md "wikilink")                                   |          |           |
+|                                                                               |                                                                           |          |           |
 
 <small>動畫</small>
 
@@ -1132,7 +1132,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/星光樂園" title="wikilink">星光樂園II</a></p></td>
+<td><p><a href="../Page/星光樂園.md" title="wikilink">星光樂園II</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1157,7 +1157,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/車神超激戰" title="wikilink">車神超激戰</a></p></td>
+<td><p><a href="../Page/車神超激戰.md" title="wikilink">車神超激戰</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1202,7 +1202,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/寶狄與好友" title="wikilink">寶狄與好友</a></p></td>
+<td><p><a href="../Page/寶狄與好友.md" title="wikilink">寶狄與好友</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1242,7 +1242,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/變身少女花啦啦" title="wikilink">變身少女花啦啦<br />
+<td><p><a href="../Page/變身少女花啦啦.md" title="wikilink">變身少女花啦啦<br />
 變身少女花啦啦(II)</a></p></td>
 <td></td>
 <td></td>
@@ -1337,7 +1337,7 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/IDOLiSH7" title="wikilink">偶像星願7</a> [4]</p></td>
+<td><p><a href="../Page/IDOLiSH7.md" title="wikilink">偶像星願7</a> [4]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1347,17 +1347,17 @@ Logo](https://zh.wikipedia.org/wiki/File:TBS_logo.svg "fig:TBS Logo")
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/小木乃伊到我家" title="wikilink">Kawaii木乃伊</a></p></td>
+<td><p><a href="../Page/小木乃伊到我家.md" title="wikilink">Kawaii木乃伊</a></p></td>
 <td><p>即將推出</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/工作細胞" title="wikilink">工作細胞</a></p></td>
+<td><p><a href="../Page/工作細胞.md" title="wikilink">工作細胞</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/龍的牙醫" title="wikilink">龍牙守護者</a></p></td>
+<td><p><a href="../Page/龍的牙醫.md" title="wikilink">龍牙守護者</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1527,12 +1527,12 @@ Ani-One\[5\]
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/幸腹塗鴉" title="wikilink">幸腹塗鴉</a></p></td>
+<td><p><a href="../Page/幸腹塗鴉.md" title="wikilink">幸腹塗鴉</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/桃心之劍" title="wikilink">桃之劍</a></p></td>
+<td><p><a href="../Page/桃心之劍.md" title="wikilink">桃之劍</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1556,7 +1556,7 @@ Ani-One\[5\]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/香蕉喵" title="wikilink">香蕉喵</a></p></td>
+<td><p><a href="../Page/香蕉喵.md" title="wikilink">香蕉喵</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1615,7 +1615,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/幼女戰記" title="wikilink">幼女戰記</a></p></td>
+<td><p><a href="../Page/幼女戰記.md" title="wikilink">幼女戰記</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1625,7 +1625,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/四月是你的謊言" title="wikilink">四月是你的謊言</a></p></td>
+<td><p><a href="../Page/四月是你的謊言.md" title="wikilink">四月是你的謊言</a></p></td>
 <td><p><strong>全套上架</strong></p></td>
 <td></td>
 </tr>
@@ -1669,7 +1669,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/我被綁架到貴族女校當「庶民樣本」" title="wikilink">我被綁架到貴族女校當「庶民樣本」</a></p></td>
+<td><p><a href="../Page/我被綁架到貴族女校當「庶民樣本」.md" title="wikilink">我被綁架到貴族女校當「庶民樣本」</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1689,7 +1689,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/辣妹與我的第一次" title="wikilink">辣妹與我的第一次</a></p></td>
+<td><p><a href="../Page/辣妹與我的第一次.md" title="wikilink">辣妹與我的第一次</a></p></td>
 <td><p><strong>同步推出</strong></p></td>
 <td></td>
 </tr>
@@ -1704,17 +1704,17 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Infini-T_Force" title="wikilink">Infini-T Force</a></p></td>
+<td><p><a href="../Page/Infini-T_Force.md" title="wikilink">Infini-T Force</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/十二大戰" title="wikilink">十二大戰</a></p></td>
+<td><p><a href="../Page/十二大戰.md" title="wikilink">十二大戰</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/網路勝利組" title="wikilink">網絡勝利組</a></p></td>
+<td><p><a href="../Page/網路勝利組.md" title="wikilink">網絡勝利組</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1729,12 +1729,12 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/封神演義_(漫畫)" title="wikilink">霸穹・封神演義</a></p></td>
+<td><p><a href="../Page/封神演義_(漫畫).md" title="wikilink">霸穹・封神演義</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/童話魔法使" title="wikilink">原書．原書使</a></p></td>
+<td><p><a href="../Page/童話魔法使.md" title="wikilink">原書．原書使</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1744,7 +1744,7 @@ Active Raid－機動強襲室第八係－ 2nd</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/搖曳露營△" title="wikilink">搖曳露營</a></p></td>
+<td><p><a href="../Page/搖曳露營△.md" title="wikilink">搖曳露營</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1776,7 +1776,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
   - **第九集**：[農夫](../Page/農夫_\(組合\).md "wikilink")（《[Do姐有問題](../Page/Do姐有問題.md "wikilink")》）
   - **第十集**：[羅蘭](https://zh.wikipedia.org/wiki/羅蘭 "wikilink")
   - **第十一集**：[陳凱琳](https://zh.wikipedia.org/wiki/陳凱琳 "wikilink")（《[殭](https://zh.wikipedia.org/wiki/殭 "wikilink")》藍夢瑤）
-  - **第十二集**：[張秀文](../Page/張秀文.md "wikilink")、[陳婉衡](../Page/陳婉衡.md "wikilink")、[朱智賢](https://zh.wikipedia.org/wiki/朱智賢 "wikilink")（《[3日2夜](https://zh.wikipedia.org/wiki/3日2夜 "wikilink")》）
+  - **第十二集**：[張秀文](../Page/張秀文.md "wikilink")、[陳婉衡](../Page/陳婉衡.md "wikilink")、[朱智賢](https://zh.wikipedia.org/wiki/朱智賢 "wikilink")（《[3日2夜](../Page/3日2夜.md "wikilink")》）
   - **第十三集**：[洪永城](../Page/洪永城.md "wikilink")（《[張保仔](../Page/張保仔.md "wikilink")》張保仔、《[實習天使](../Page/實習天使.md "wikilink")》楊志明）
   - **第十四集**：[何遠東](../Page/何遠東.md "wikilink")（《[萬千星輝賀台慶](../Page/萬千星輝賀台慶.md "wikilink")2014》）
 
@@ -1816,7 +1816,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
     Asia](https://zh.wikipedia.org/wiki/tvN_Asia "wikilink")（505頻道）啟播，並以「CJ韓國娛樂組合」名義加盟，整合為收費模式。
   - 4月17日，至尊版推出，除了基本版頻道，也增加9個國際知名娛樂組合（直播連點播）和點播組合加入，同日，也同時開放給觀眾免費試看，推出當日至5月16日登記。
   - 6月4日起：為慶祝香港回歸20周年，《告別殖民地》放免費區點播。
-  - 6月12日，[TVB戲曲台](https://zh.wikipedia.org/wiki/TVB戲曲台 "wikilink")（98頻道）啟播，加盟基本組合。
+  - 6月12日，[TVB戲曲台](../Page/TVB戲曲台.md "wikilink")（98頻道）啟播，加盟基本組合。
   - 6月26日，myTV SUPER電影組合推出，加盟並整合為收費模式。
   - 8月15日，[互動新聞台](https://zh.wikipedia.org/wiki/互動新聞台 "wikilink")（83頻道）和[J5](../Page/J5.md "wikilink")（85頻道）改名為[無綫新聞台和](../Page/無綫新聞台.md "wikilink")[無綫財經台](https://zh.wikipedia.org/wiki/無綫財經台 "wikilink")。
   - 10月7日， （602頻道）停播。
@@ -1834,12 +1834,10 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
     Extreme](https://zh.wikipedia.org/wiki/RTL_CBS_Extreme "wikilink")（301頻道）及[RTL
     CBS
     Entertainment](https://zh.wikipedia.org/wiki/RTL_CBS_Entertainment "wikilink")（501頻道）改名為[BLUE
-    ANT
-    Extreme及](https://zh.wikipedia.org/wiki/BLUE_ANT_Extreme "wikilink")[BLUE
-    ANT
-    Entertainment](https://zh.wikipedia.org/wiki/BLUE_ANT_Entertainment "wikilink")，而原有的「RTL
+    ANT Extreme及](../Page/BLUE_ANT_Extreme.md "wikilink")[BLUE ANT
+    Entertainment](../Page/BLUE_ANT_Entertainment.md "wikilink")，而原有的「RTL
     CBS娛樂組合」則改名為「BLUE ANT娛樂組合」。
-  - 1月20日，[無綫財經台](https://zh.wikipedia.org/wiki/無綫財經台 "wikilink")（85頻道）改名為[無綫財經·資訊台](https://zh.wikipedia.org/wiki/無綫財經·資訊台 "wikilink")。
+  - 1月20日，[無綫財經台](https://zh.wikipedia.org/wiki/無綫財經台 "wikilink")（85頻道）改名為[無綫財經·資訊台](../Page/無綫財經·資訊台.md "wikilink")。
   - 2月1日，[天映經典頻道](https://zh.wikipedia.org/wiki/天映經典頻道 "wikilink")（203頻道）更換台徽。
   - 4月30日，[NHK World
     TV](https://zh.wikipedia.org/wiki/NHK_World_TV "wikilink")（707頻道）改名為[NHK
@@ -1860,13 +1858,13 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 
   - 1月15日深夜12點（2019年1月16日午夜12點），因應Now
     TV與無綫網絡電視的合約到期，[TVB經典台](../Page/TVB經典台.md "wikilink")（86頻道）、[韓劇台](../Page/韓劇台.md "wikilink")（87頻道）、[日劇台](../Page/日劇台.md "wikilink")（88頻道）、[華語劇台](../Page/華語劇台.md "wikilink")（89頻道）、[綜藝旅遊台](../Page/綜藝旅遊台.md "wikilink")（92頻道）、[為食台](../Page/為食台.md "wikilink")（93頻道）、TVB
-    Radio（97頻道）、[TVB戲曲台](https://zh.wikipedia.org/wiki/TVB戲曲台 "wikilink")（98頻道）及[粵語片台](../Page/粵語片台.md "wikilink")（200頻道）由TVB商標更改為myTV
+    Radio（97頻道）、[TVB戲曲台](../Page/TVB戲曲台.md "wikilink")（98頻道）及[粵語片台](../Page/粵語片台.md "wikilink")（200頻道）由TVB商標更改為myTV
     SUPER商標，廣告時段節目預告和呼號畫面更全被取消。
 
 <!-- end list -->
 
   - 3月11日，[BLUE ANT
-    Extreme由](https://zh.wikipedia.org/wiki/BLUE_ANT_Extreme "wikilink")（301頻道）更改為（500頻道）。同日Love
+    Extreme由](../Page/BLUE_ANT_Extreme.md "wikilink")（301頻道）更改為（500頻道）。同日Love
     Nature HD（402頻道）及Love Nature 4K（403頻道）啟播，Love Nature 4K屬Blue
     Ant娛樂組合，而Love Nature HD則屬基本頻道。
 
@@ -1940,7 +1938,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 </tr>
 <tr class="odd">
 <td><p>85</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/無綫財經·資訊台" title="wikilink">無綫財經·資訊台</a>*<br />
+<td><p><a href="../Page/無綫財經·資訊台.md" title="wikilink">無綫財經·資訊台</a>*<br />
 </p></td>
 <td><p>2017年8月15日上午6:00</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/A">myTV SUPER節目表</a></p></td>
@@ -2011,7 +2009,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 </tr>
 <tr class="even">
 <td><p>98</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TVB戲曲台" title="wikilink">戲曲台</a><br />
+<td><p><a href="../Page/TVB戲曲台.md" title="wikilink">戲曲台</a><br />
 </p></td>
 <td><p>2017年6月12日</p></td>
 <td><p><a href="https://www.mytvsuper.com/tc/epg/CCOC">myTV SUPER節目表</a></p></td>
@@ -2201,7 +2199,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 </tr>
 <tr class="even">
 <td><p>500</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BLUE_ANT_Extreme" title="wikilink">BLUE ANT超極娛樂</a><br />
+<td><p><a href="../Page/BLUE_ANT_Extreme.md" title="wikilink">BLUE ANT超極娛樂</a><br />
 </p></td>
 <td><p>2016年7月1日上午6:00</p></td>
 <td><p>BLUE ANT 娛樂組合</p></td>
@@ -2209,7 +2207,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 </tr>
 <tr class="odd">
 <td><p>501</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BLUE_ANT_Entertainment" title="wikilink">BLUE ANT綜藝娛樂</a><br />
+<td><p><a href="../Page/BLUE_ANT_Entertainment.md" title="wikilink">BLUE ANT綜藝娛樂</a><br />
 </p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CRTE">myTV SUPER節目表</a>／</p></td>
 <td></td>
@@ -2501,7 +2499,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 <td><p>2016年3月15日</p></td>
 <td><p>2017年8月15日</p></td>
 <td><p>基本頻道</p></td>
-<td><p>被<a href="https://zh.wikipedia.org/wiki/無綫財經·資訊台" title="wikilink">無綫財經·資訊台取代</a></p></td>
+<td><p>被<a href="../Page/無綫財經·資訊台.md" title="wikilink">無綫財經·資訊台取代</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>800</p></td>
@@ -2687,12 +2685,10 @@ SUPER解碼器電視盒原有的遙控器控制開關，並不會完全中斷電
 ## 參看
 
   - [myTV](https://zh.wikipedia.org/wiki/myTV "wikilink")
-  - [TVB
-    Anywhere](https://zh.wikipedia.org/wiki/TVB_Anywhere "wikilink")
+  - [TVB Anywhere](../Page/TVB_Anywhere.md "wikilink")
   - [big big
     channel](https://zh.wikipedia.org/wiki/big_big_channel "wikilink")
-  - [MyTV
-    SUPER無綫電視劇集列表](https://zh.wikipedia.org/wiki/MyTV_SUPER無綫電視劇集列表 "wikilink")
+  - [MyTV SUPER無綫電視劇集列表](../Page/MyTV_SUPER無綫電視劇集列表.md "wikilink")
   - [電視廣播有限公司](../Page/電視廣播有限公司.md "wikilink")
 
 ## 參考來源

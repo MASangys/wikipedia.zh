@@ -14,7 +14,7 @@
 
   - [李周妍](../Page/李周妍.md "wikilink")
 
-  - [金義聖](https://zh.wikipedia.org/wiki/金義聖 "wikilink")
+  - [金義聖](../Page/金義聖.md "wikilink")
 
   -
   - [鄭恩彩](../Page/鄭恩彩.md "wikilink")
@@ -23,7 +23,7 @@
 
   - [鄭仁基](../Page/鄭仁基_\(演員\).md "wikilink")
 
-  - [黃勝妍](https://zh.wikipedia.org/wiki/黃勝妍 "wikilink")
+  - [黃勝妍](../Page/黃勝妍.md "wikilink")
 
   - [車燁](https://zh.wikipedia.org/wiki/車燁 "wikilink")
 
@@ -35,7 +35,7 @@
 
 ## 獎項
 
-  - [第53屆百想藝術大獎](https://zh.wikipedia.org/wiki/第53屆百想藝術大獎 "wikilink")
+  - [第53屆百想藝術大獎](../Page/第53屆百想藝術大獎.md "wikilink")
 
 <!-- end list -->
 
@@ -55,7 +55,7 @@
 
 <!-- end list -->
 
-  - [第38屆青龍電影獎](https://zh.wikipedia.org/wiki/第38屆青龍電影獎 "wikilink")
+  - [第38屆青龍電影獎](../Page/第38屆青龍電影獎.md "wikilink")
 
 <!-- end list -->
 

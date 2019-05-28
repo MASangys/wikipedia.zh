@@ -1,4 +1,4 @@
-**有限公司岡安Promotion**（）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[調布市](../Page/調布市.md "wikilink")\[1\]，專門從事日本電影、動畫、紀錄片的[剪輯公司](../Page/剪輯.md "wikilink")。成立於1954年。創辦人是[岡安肇](../Page/岡安肇.md "wikilink")。現任代表董事社長是[小島俊彥](https://zh.wikipedia.org/wiki/小島俊彥 "wikilink")。
+**有限公司岡安Promotion**（）是[日本一家位於](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[調布市](../Page/調布市.md "wikilink")\[1\]，專門從事日本電影、動畫、紀錄片的[剪輯公司](../Page/剪輯.md "wikilink")。成立於1954年。創辦人是[岡安肇](../Page/岡安肇.md "wikilink")。現任代表董事社長是[小島俊彥](../Page/小島俊彥.md "wikilink")。
 
 ## 概要
 
@@ -48,8 +48,8 @@ COMET等多家動畫公司作品的剪輯工作](../Page/STUDIO_COMET.md "wikili
 
   - [我愛美樂蒂](../Page/奇幻魔法Melody.md "wikilink")
 
-      - [我愛美樂蒂：轉轉旋律魔法牌](https://zh.wikipedia.org/wiki/奇幻魔法Melody：轉轉旋律魔法牌 "wikilink")
-      - [我愛美樂蒂：輕鬆舒暢♪](https://zh.wikipedia.org/wiki/奇幻魔法Melody：輕鬆舒暢♪ "wikilink")
+      - [我愛美樂蒂：轉轉旋律魔法牌](../Page/奇幻魔法Melody：轉轉旋律魔法牌.md "wikilink")
+      - [我愛美樂蒂：輕鬆舒暢♪](../Page/奇幻魔法Melody：輕鬆舒暢♪.md "wikilink")
       - 我愛美樂蒂：Kirara★
 
   - [capeta](https://zh.wikipedia.org/wiki/極速方程式 "wikilink")
@@ -192,8 +192,7 @@ COMET等多家動畫公司作品的剪輯工作](../Page/STUDIO_COMET.md "wikili
 
   - [楢山節考](https://zh.wikipedia.org/wiki/楢山節考_\(1983年電影\) "wikilink")（[東映](../Page/東映.md "wikilink")、今村Pro）
 
-  - （東映、[Kitty
-    film](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")、）
+  - （東映、[Kitty film](../Page/Kitty_film.md "wikilink")、）
 
   - （今村Pro）
 
@@ -217,7 +216,7 @@ COMET等多家動畫公司作品的剪輯工作](../Page/STUDIO_COMET.md "wikili
 ## 主要所屬
 
   - 岡安和子
-  - [小島俊彥](https://zh.wikipedia.org/wiki/小島俊彥 "wikilink")（現任代表董事社長）
+  - [小島俊彥](../Page/小島俊彥.md "wikilink")（現任代表董事社長）
   - 中葉由美子
   - 村井秀明
   - 三宅圭貴

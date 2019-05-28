@@ -206,7 +206,7 @@
 
 <!-- end list -->
 
-  - [EXO](../Page/EXO.md "wikilink")（[Xiumin](https://zh.wikipedia.org/wiki/金珉錫_\(歌手\) "wikilink")、[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Baekhyun](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鍾大 "wikilink")、[Chanyeol](https://zh.wikipedia.org/wiki/朴燦烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鍾仁 "wikilink")、[Sehun](https://zh.wikipedia.org/wiki/Sehun "wikilink")）
+  - [EXO](../Page/EXO.md "wikilink")（[Xiumin](https://zh.wikipedia.org/wiki/金珉錫_\(歌手\) "wikilink")、[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Baekhyun](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鍾大 "wikilink")、[Chanyeol](https://zh.wikipedia.org/wiki/朴燦烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鍾仁 "wikilink")、[Sehun](../Page/Sehun.md "wikilink")）
 
 <!-- end list -->
 

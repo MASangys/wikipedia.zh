@@ -66,7 +66,7 @@ Goku），是[七龍珠在](../Page/七龙珠.md "wikilink")1991年3月9日上�
 </tr>
 <tr class="even">
 <td><p><strong>咔基亞</strong></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/飯塚昭三" title="wikilink">飯塚昭三</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/飯塚昭三.md" title="wikilink">飯塚昭三</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>泽永</p></td>
@@ -123,16 +123,16 @@ Goku），是[七龍珠在](../Page/七龙珠.md "wikilink")1991年3月9日上�
 
   - 製作總指揮：[今田智憲](https://zh.wikipedia.org/wiki/今田智憲 "wikilink")、小島民雄
   - 原作：[鳥山明](../Page/鳥山明.md "wikilink")
-  - 企画：[森下孝三](https://zh.wikipedia.org/wiki/森下孝三 "wikilink")、[清水賢治](https://zh.wikipedia.org/wiki/清水賢治 "wikilink")、[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")
+  - 企画：[森下孝三](https://zh.wikipedia.org/wiki/森下孝三 "wikilink")、[清水賢治](../Page/清水賢治.md "wikilink")、[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")
   - 製作担当：本武
-  - 脚本：[小山高生](https://zh.wikipedia.org/wiki/小山高生 "wikilink")
+  - 脚本：[小山高生](../Page/小山高生.md "wikilink")
   - 音樂：[菊池俊輔](../Page/菊池俊輔.md "wikilink")
   - 撮影監督：坂西勝
   - 編集：福光伸一
   - 録音：二宮健治
   - 美術監督：吉田智子、佐貫利勝
   - 角色設計・作画監修：[前田実](https://zh.wikipedia.org/wiki/前田実 "wikilink")
-  - 作画監督：[中鶴勝祥](https://zh.wikipedia.org/wiki/中鶴勝祥 "wikilink")、佐藤正樹
+  - 作画監督：[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")、佐藤正樹
   - 監督：[橋本光夫](https://zh.wikipedia.org/wiki/橋本みつお "wikilink")
   - 原画：[海老沢幸男](https://zh.wikipedia.org/wiki/海老沢幸男 "wikilink")、[山室直儀](../Page/山室直儀.md "wikilink")、[石浜まさし](https://zh.wikipedia.org/wiki/石浜真史 "wikilink")、[北爪宏幸](../Page/北爪宏幸.md "wikilink")
     他

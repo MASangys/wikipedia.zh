@@ -10,7 +10,7 @@ Vision（加拿大）、Ormatu Videospiel Computer（德國）等\[7\]\[8\]。
 ## 簡介
 
 1982年，Emerson Radio決定加入當時家用遊戲機市場的競爭並推出Arcadia
-2001。雖然它的目標是爭奪[雅達利2600的領導地位](../Page/雅達利2600.md "wikilink")，而在性能上的確比雅達利2600優勢。但是，[ColecoVision及雅達利](https://zh.wikipedia.org/wiki/ColecoVision "wikilink")2600的後繼機[雅達利5200亦於同年發售](../Page/雅達利5200.md "wikilink")，在缺乏吸引力及貧乏的遊戲選擇下，Arcadia
+2001。雖然它的目標是爭奪[雅達利2600的領導地位](../Page/雅達利2600.md "wikilink")，而在性能上的確比雅達利2600優勢。但是，[ColecoVision及雅達利](../Page/ColecoVision.md "wikilink")2600的後繼機[雅達利5200亦於同年發售](../Page/雅達利5200.md "wikilink")，在缺乏吸引力及貧乏的遊戲選擇下，Arcadia
 2001在當時的家用遊戲機市場沒有競爭力\[9\]\[10\]\[11\]\[12\]。此外，Emerson
 Radio更在廣告內向消費者作出虛假的陳述：Arcadia 2001有24
 KB的[RAM](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")，這嚴重地損害Emerson

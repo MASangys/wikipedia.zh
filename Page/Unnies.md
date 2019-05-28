@@ -1,14 +1,14 @@
 **Unnies**（，意为"姊姊們"）是[韓國KBS](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 2《[姐姐們的Slam Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》綜藝節目中產生之企劃團體。
 
-第一代成員有[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[羅美蘭](../Page/羅美蘭.md "wikilink")、[金淑](../Page/金淑.md "wikilink")、[洪真京](https://zh.wikipedia.org/wiki/洪真京 "wikilink")、[閔孝琳](https://zh.wikipedia.org/wiki/閔孝琳 "wikilink")、[Jessi](https://zh.wikipedia.org/wiki/Jessi "wikilink")
-6人。隊長兼可愛擔當為忙內[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")，[羅美蘭為性感擔當](../Page/羅美蘭.md "wikilink")；[金淑為節拍擔當](../Page/金淑.md "wikilink")；[洪真京為領舞擔當兼身高擔當](https://zh.wikipedia.org/wiki/洪真京 "wikilink")；夢想幫幫主[閔孝琳為外貌擔當](https://zh.wikipedia.org/wiki/閔孝琳 "wikilink")；[Jessi為魅力擔當](https://zh.wikipedia.org/wiki/Jessi "wikilink")。
+第一代成員有[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")、[羅美蘭](../Page/羅美蘭.md "wikilink")、[金淑](../Page/金淑.md "wikilink")、[洪真京](https://zh.wikipedia.org/wiki/洪真京 "wikilink")、[閔孝琳](https://zh.wikipedia.org/wiki/閔孝琳 "wikilink")、[Jessi](../Page/Jessi.md "wikilink")
+6人。隊長兼可愛擔當為忙內[Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")，[羅美蘭為性感擔當](../Page/羅美蘭.md "wikilink")；[金淑為節拍擔當](../Page/金淑.md "wikilink")；[洪真京為領舞擔當兼身高擔當](https://zh.wikipedia.org/wiki/洪真京 "wikilink")；夢想幫幫主[閔孝琳為外貌擔當](https://zh.wikipedia.org/wiki/閔孝琳 "wikilink")；[Jessi為魅力擔當](../Page/Jessi.md "wikilink")。
 而在vlive節目中，成員與粉絲共同決定粉絲名稱為（，英譯為DongSaengs，韓文「弟弟/妹妹」之意。），應援物品為淺牛仔褲藍色氣球。2016年7月1日，Unnies首張單曲《Shut
 up》於音樂銀行表演出道。同年7月8日，單曲《Shut up》MV 於YouTube公佈。7月29日，於[姐姐們的Slam
 Dunk節目中](../Page/姐姐們的Slam_Dunk.md "wikilink")，討論小分隊的分組為：「MinTi」
 （[閔孝琳](https://zh.wikipedia.org/wiki/閔孝琳 "wikilink")、
 [Tiffany](https://zh.wikipedia.org/wiki/黃美英 "wikilink")）；「la
-su:k」（[羅美蘭](../Page/羅美蘭.md "wikilink")、[金淑](../Page/金淑.md "wikilink")）與「洪Je」（[洪真京](https://zh.wikipedia.org/wiki/洪真京 "wikilink")、[Jessi](https://zh.wikipedia.org/wiki/Jessi "wikilink")
+su:k」（[羅美蘭](../Page/羅美蘭.md "wikilink")、[金淑](../Page/金淑.md "wikilink")）與「洪Je」（[洪真京](https://zh.wikipedia.org/wiki/洪真京 "wikilink")、[Jessi](../Page/Jessi.md "wikilink")
 ），但小分隊無任何相關活動。9月2日，於[姐姐們的Slam
 Dunk節目中演唱歌曲](../Page/姐姐們的Slam_Dunk.md "wikilink")《幸福的我(행복한
 나를)》，但無任何錄音版本釋出，僅於節目中同步撥出。同年12月19日KBS藝能局表示：2016年[KBS演藝大賞將由](https://zh.wikipedia.org/wiki/KBS演藝大賞 "wikilink")
@@ -21,8 +21,7 @@ up》改編版本，最後在由全體成員（除[姜藝媛與](https://zh.wiki
 up》原版本。同時有於有此節目參與，於2017年4月8日播出的節目中，產生**黑洞小分隊**（[姜藝媛與](https://zh.wikipedia.org/wiki/姜藝媛 "wikilink")[韓彩英](../Page/韓彩英.md "wikilink")）與**不朽小分隊**（[金淑](../Page/金淑.md "wikilink")、[洪真京](https://zh.wikipedia.org/wiki/洪真京 "wikilink")、[洪真英](../Page/洪真英.md "wikilink")、[孔旻智](../Page/孔旻智.md "wikilink")、[全昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")），但在忙內組的舞蹈檢測，黑洞小分隊完勝不朽小分隊
 （[洪真京](https://zh.wikipedia.org/wiki/洪真京 "wikilink")、[洪真英](../Page/洪真英.md "wikilink")）。第10集也產生“洪氏應援妖精”（[洪真京](https://zh.wikipedia.org/wiki/洪真京 "wikilink")、[洪真英](../Page/洪真英.md "wikilink")）。洪真慶、強藝元與韓彩英也是**舞蹈WAR三人組**。第12集，**天才英姐妹**
 （[洪真英](../Page/洪真英.md "wikilink")、[韓彩英](../Page/韓彩英.md "wikilink")）產生，在《[1
-vs.
-100](https://zh.wikipedia.org/wiki/1_VS_100 "wikilink")》對上包括忙內導演、張真英、雙奎（金奎上）和
+vs. 100](../Page/1_VS_100.md "wikilink")》對上包括忙內導演、張真英、雙奎（金奎上）和
 金花英的百人兵團，也擊敗製作組。2017年5月12日中午12點將公開第二季的主打曲《對嗎？》與《啦啦啦頌》
 將於12日正午同時公開，並將以出道曲《對嗎？
 》出演音樂節目《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》\[3\]。
@@ -73,7 +72,7 @@ vs.
 <td><p>中心和門面擔當</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a></p></td>
+<td><p><a href="../Page/Jessi.md" title="wikilink">Jessi</a></p></td>
 <td><p>胡玄珠（）</p></td>
 <td></td>
 <td></td>
@@ -194,8 +193,7 @@ vs.
     shoot！我們是Unnies！」（說shoot的同時，手比射籃動作，有時候會先射籃，再問候。）
   - 全員除[韓彩英和](../Page/韓彩英.md "wikilink")[姜藝媛外](https://zh.wikipedia.org/wiki/姜藝媛 "wikilink")，參與韓綜《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》2017年4月中旬之錄影，由全昭彌和洪真英擔任主唱，孔旻智、金淑和洪真慶參與伴唱\[15\]，昭彌也成為Rap作詞，作為Rap總監的Minzy決定讓洪真英成為Rapper擔當。
   - 2017年4月25日，[韓彩英與](../Page/韓彩英.md "wikilink")[洪真英參與韓綜](../Page/洪真英.md "wikilink")《[1
-    VS
-    100](https://zh.wikipedia.org/wiki/1_VS_100 "wikilink")》，賺取MV拍攝基金。
+    VS 100](../Page/1_VS_100.md "wikilink")》，賺取MV拍攝基金。
   - 2017年5月12日，Unnies首張單曲《Shut up》於音樂銀行表演出道。
   - 《對嗎？（맞지？）》演唱順序 （第11集，金淑、強藝元位置調換、金淑成為高音擔當；強藝元成為低音擔當，以下為調換後版本）：
       - Part A：全昭彌、姜藝媛、Minzy、合唱 （主音：洪真英、全昭彌）、洪真京、

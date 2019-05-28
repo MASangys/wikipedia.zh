@@ -19,7 +19,7 @@
 <td><p>人物設定<br />
 總作畫監督</p></td>
 <td><p>清水貴子（第一季）<br />
-<a href="https://zh.wikipedia.org/wiki/小美野雅彥" title="wikilink">小美野雅彥</a>（第二季）<br />
+<a href="../Page/小美野雅彥.md" title="wikilink">小美野雅彥</a>（第二季）<br />
 西位輝實（第三季）<br />
 岸田隆宏（第四季）</p></td>
 </tr>
@@ -117,7 +117,7 @@ ONE MUSIC（第二季、第三季）</p></td>
 <td><p>導演</p></td>
 <td><p>津田尚克（第一季－第三季）<br />
 高村雄太（原作第四部）<br />
-<a href="https://zh.wikipedia.org/wiki/木村泰大" title="wikilink">木村泰大</a>、高橋秀彌（原作第五部）</p></td>
+<a href="../Page/木村泰大.md" title="wikilink">木村泰大</a>、高橋秀彌（原作第五部）</p></td>
 </tr>
 <tr class="even">
 <td><p>系列導演</p></td>
@@ -166,12 +166,12 @@ MX](../Page/東京都會電視台.md "wikilink")、[每日放送](../Page/每日
         第9話的影像軟體版附加[音效](../Page/音效.md "wikilink")。
 
 :; 「[BLOODY
-STREAM](https://zh.wikipedia.org/wiki/BLOODY_STREAM "wikilink")」（原作第2部，第11話－第16話、第18話－第25話）
+STREAM](../Page/BLOODY_STREAM.md "wikilink")」（原作第2部，第11話－第16話、第18話－第25話）
 
   -
 
       -
-        作詞：[兒玉沙織](https://zh.wikipedia.org/wiki/兒玉沙織 "wikilink")，作曲、編曲：，主唱：
+        作詞：[兒玉沙織](../Page/兒玉沙織.md "wikilink")，作曲、編曲：，主唱：
         第10話、第17話、第26話未使用，第26話（最終話）片尾曲。
         第25話附加音效。
 
@@ -1053,7 +1053,7 @@ Choi Hee Eun</p></td>
 <td></td>
 <td><p>荷爾·荷斯與波因哥 其1</p></td>
 <td><p>小林靖子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西田正義" title="wikilink">西田正義</a></p></td>
+<td><p><a href="../Page/西田正義.md" title="wikilink">西田正義</a></p></td>
 <td><p>町谷俊輔</p></td>
 <td><p>石本峻一、伊藤公崇<br />
 Cha Myoung Jun</p></td>
@@ -1573,7 +1573,7 @@ Shin Hyung Woo</p></td>
 <td><p>第19話</p></td>
 <td></td>
 <td><p>「重重」的收成者 其2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/永居慎平" title="wikilink">永居慎平</a></p></td>
+<td><p><a href="../Page/永居慎平.md" title="wikilink">永居慎平</a></p></td>
 <td><p>Kim Min Sun<br />
 </p></td>
 <td><p>Kim Bo Kyong<br />

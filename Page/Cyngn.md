@@ -6,9 +6,9 @@ CyanogenMod商業化計劃的謠言引致CyanogenMod社區的議論\[1\]\[2\]。
 Lasky來領導，籌集了700萬美元\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]。
 
 2015年1月，[微軟投資Cyanogen](https://zh.wikipedia.org/wiki/微軟 "wikilink")，這可能是計劃的一部分。2015年4月，Cyanogen宣布與微軟建立戰略合作夥伴關係，微軟的應用服務整合至[Cyanogen
-OS](https://zh.wikipedia.org/wiki/Cyanogen_OS "wikilink")\[10\]\[11\]\[12\]\[13\]。
+OS](../Page/Cyanogen_OS.md "wikilink")\[10\]\[11\]\[12\]\[13\]。
 
-2016年12月，CyanogenMod關閉伺服器並且轉移成[LineageOS](https://zh.wikipedia.org/wiki/LineageOS "wikilink")。
+2016年12月，CyanogenMod關閉伺服器並且轉移成[LineageOS](../Page/LineageOS.md "wikilink")。
 
 2017年10月，更名Cyngn。
 

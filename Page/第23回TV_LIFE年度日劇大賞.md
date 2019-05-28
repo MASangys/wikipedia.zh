@@ -1,6 +1,5 @@
 [第22回](https://zh.wikipedia.org/wiki/第22回TV_LIFE年度日劇大賞 "wikilink") ←
-**第23回** →
-[第24回](https://zh.wikipedia.org/wiki/第24回TV_LIFE年度日劇大賞 "wikilink")
+**第23回** → [第24回](../Page/第24回TV_LIFE年度日劇大賞.md "wikilink")
 
 **第23回[TV
 LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2013年播出的連續劇做出的觀眾投票。

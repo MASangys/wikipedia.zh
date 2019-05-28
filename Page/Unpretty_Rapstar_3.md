@@ -21,7 +21,7 @@ Me The Money第三季](../Page/Show_Me_The_Money.md "wikilink")）
     Me The Money第五季](../Page/Show_Me_The_Money.md "wikilink")）(第三集加入)
 
   - [田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")（[Cube娛樂练习生](../Page/Cube娛樂.md "wikilink")，参加过Mnet节目[Produce
-    101](../Page/PRODUCE_101.md "wikilink")，現為[(G)I-DLE成员](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink")）(第九集淘汰)
+    101](../Page/PRODUCE_101.md "wikilink")，現為[(G)I-DLE成员](../Page/\(G\)I-DLE.md "wikilink")）(第九集淘汰)
 
 **进入半决赛：**
 
@@ -209,7 +209,7 @@ MV完整版](http://www.mnet.com/tv/vod/vod_view.asp?clip_id=175088&tabMenu=)，
         Match，CoolKid永久淘汰；下半段進行Solo公演對決，排名11\~20位的女Rapper進入Death
         Match候補，排名19的Grace選擇Janey進行Death Match。
   - 本集《Unpretty Rapstar 3》將與[《Show Me The Money
-    5》](https://zh.wikipedia.org/wiki/Show_Me_The_Money_5 "wikilink")9位男Rapper進行Solo公演對決。
+    5》](../Page/Show_Me_The_Money_5.md "wikilink")9位男Rapper進行Solo公演對決。
       - 男女20位Rapper進行對決，觀眾、製作人、主持人票數合算後為最終票數，決定排名。全體1\~10位女Rapper進入Track
         4決戰，11\~19位女Rapper進行Death Match，全體最末位女Rapper永久淘汰。
       - 男Rapper以Boi B得到全體第一和男Rapper第一，GiantPink以兩票之差得到全體第二和女Rapper第一。
@@ -261,8 +261,7 @@ MV完整版](http://www.mnet.com/tv/vod/vod_view.asp?clip_id=175088&tabMenu=)，
 ### 第六集
 
   - 本集特邀音樂製作人[Dean為評委和Track](https://zh.wikipedia.org/wiki/Dean "wikilink")
-    5&6製作人(Track 6
-    Feat.[Suran](https://zh.wikipedia.org/wiki/Suran "wikilink"))。
+    5&6製作人(Track 6 Feat.[Suran](../Page/Suran.md "wikilink"))。
       - 第六集上半段承接第五集，進行Death Match，Janey永久淘汰。
       - Rapper們進行了MT，並進行中間投票，票數最少的2位進入Death Match候補。
 

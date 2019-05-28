@@ -1,5 +1,5 @@
 《**BLOODY
-STREAM**》是[日本男](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")的單曲。[兒玉沙織作詞](https://zh.wikipedia.org/wiki/兒玉沙織 "wikilink")、作曲。2013年1月30日由[華納日本娛樂發行](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")。
+STREAM**》是[日本男](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")的單曲。[兒玉沙織作詞](../Page/兒玉沙織.md "wikilink")、作曲。2013年1月30日由[華納日本娛樂發行](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")。
 
 ## 解說
 
@@ -9,7 +9,7 @@ MX等](../Page/東京都會電視台.md "wikilink")[UHF](../Page/全國獨立放
 ## 收錄歌曲
 
 1.  **BLOODY STREAM** \[4:21\]
-      - 作詞：[兒玉沙織](https://zh.wikipedia.org/wiki/兒玉沙織 "wikilink")，作曲、編曲：
+      - 作詞：[兒玉沙織](../Page/兒玉沙織.md "wikilink")，作曲、編曲：
       - [TOKYO
         MX等](../Page/東京都會電視台.md "wikilink")[UHF](../Page/全國獨立放送協議會.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[JoJo的奇妙冒險](../Page/JoJo的奇妙冒險_\(電視動畫\).md "wikilink")》[Part2：戰鬥潮流片頭主題曲](../Page/戰鬥潮流.md "wikilink")\[3\]
 2.  BLOODY STREAM（ORIGINAL KARAOKE）

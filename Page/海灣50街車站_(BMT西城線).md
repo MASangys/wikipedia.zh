@@ -1,4 +1,4 @@
-**海灣50街車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT西城線一個慢車](https://zh.wikipedia.org/wiki/BMT西城線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")海灣50街及斯提威爾大道交界，設有[D線](../Page/紐約地鐵D線.md "wikilink")（任何時候停站）列車服務。
+**海灣50街車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT西城線一個慢車](../Page/BMT西城線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")海灣50街及斯提威爾大道交界，設有[D線](../Page/紐約地鐵D線.md "wikilink")（任何時候停站）列車服務。
 
 ## 車站結構
 

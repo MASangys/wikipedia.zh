@@ -296,7 +296,7 @@ Cooperation」均是亞洲太平洋經濟合作會議的[註冊商標](https://z
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2017年越南APEC|<a href="https://zh.wikipedia.org/wiki/2017年越南APEC峰會" title="wikilink">第25次</a></p></td>
+<td><p>2017年越南APEC|<a href="../Page/2017年越南APEC峰會.md" title="wikilink">第25次</a></p></td>
 <td><p>2017年</p></td>
 <td><p>11月10日-11月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/越南" title="wikilink">越南</a></p></td>

@@ -36,7 +36,7 @@ NII\[12\]。
 | 13   | 《[公主披風](https://zh.wikipedia.org/wiki/公主披風 "wikilink")》                     | 哎喲愛喲    | Next Girls  | ★  | 為中心成員 |
 | 非你不可 | Team XII                                                                    |         |             |    |       |
 | 14   | 《[新年這一刻](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#新年這一刻 "wikilink")》     | 鐘聲過後是樂園 | Team XII    |    |       |
-| 15   | 《[彼此的未來](https://zh.wikipedia.org/wiki/彼此的未來 "wikilink")》                   | 彼此的未來   |             | ★  |       |
+| 15   | 《[彼此的未來](../Page/彼此的未來.md "wikilink")》                                      | 彼此的未來   |             | ★  |       |
 | 致每个你 | Team XII                                                                    |         | 為中心成員       |    |       |
 | 16   | 《[夏日檸檬船](https://zh.wikipedia.org/wiki/夏日檸檬船 "wikilink")》                   | 夏日檸檬船   |             | ★  |       |
 | 夏之色  | Team XII                                                                    |         |             |    |       |

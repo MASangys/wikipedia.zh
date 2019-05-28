@@ -20,7 +20,7 @@ SUPER網上直播及節目重溫，而網上直播及節目重溫則與電視播
       - 本作首次初期有兩支戰隊\[2\]，也因此使得劇情呈現為『戰隊 VS 戰隊 VS 惡役』的對決模式\[3\]。
       - 本作採用[怪盜為其中一組戰隊的主題](../Page/怪盜.md "wikilink")，同時這也是繼《[海賊戰隊豪快者](../Page/海賊戰隊豪快者.md "wikilink")》後，睽違7年後再次採用[盜賊作為主題的戰隊](https://zh.wikipedia.org/wiki/盜賊 "wikilink")。另外一組戰隊的主題繼《[特搜戰隊刑事連者](../Page/特搜戰隊刑事連者.md "wikilink")》後，睽違14年後再次採用[警察作為主題](../Page/警察.md "wikilink")。
       - 本作首次採用類似超級戰隊系列的聯動劇場版形式來書寫作品標題\[4\]。
-      - 值得一提的是，本作和4年前的《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》略有部分共同之处，举例：
+      - 值得一提的是，本作和4年前的《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》略有部分共同之处，举例：
           - 本作的其中一組戰隊（快盗戰隊）造型風格取自於《[假面騎士×假面騎士 Drive & 鎧武 MOVIE大戰 Full
             Throttle](../Page/假面騎士×假面騎士_Drive_&_鎧武_MOVIE大戰_Full_Throttle.md "wikilink")》裏的惡役騎士——「假面騎士Lupin
             / 佐魯克東条 → 惡路程式100」。
@@ -240,7 +240,7 @@ SUPER網上直播及節目重溫，而網上直播及節目重溫則與電視播
 <td><p>早見初美花</p></td>
 <td><p>魯邦黃[34]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/下園愛弓" title="wikilink"><font color="black">下園愛弓</font></a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廖杏茵" title="wikilink"><font color="black">廖杏茵</font></a></p></td>
+<td><p><a href="../Page/廖杏茵.md" title="wikilink"><font color="black">廖杏茵</font></a></p></td>
 <td><p>待公布</p></td>
 </tr>
 <tr class="even">
@@ -3557,7 +3557,7 @@ Morphin Brace</p></td>
 <td><p>Gangler → 魯邦連者</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/宇宙戰隊九連者" title="wikilink">宇宙戰隊九連者</a>》<br />
 至高九星(球玉)</p></td>
-<td><p>僅於《<a href="https://zh.wikipedia.org/wiki/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film" title="wikilink">快盜戰隊魯邦連者VS警察戰隊巡邏連者 en film</a>》中出現。</p></td>
+<td><p>僅於《<a href="../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md" title="wikilink">快盜戰隊魯邦連者VS警察戰隊巡邏連者 en film</a>》中出現。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -3566,7 +3566,7 @@ Morphin Brace</p></td>
 <td><p>Gangler → 魯邦連者</p></td>
 <td><p>《<a href="../Page/星獸戰隊銀河人.md" title="wikilink">星獸戰隊銀河人</a>》<br />
 銀河手環</p></td>
-<td><p>僅於《<a href="https://zh.wikipedia.org/wiki/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film" title="wikilink">快盜戰隊魯邦連者VS警察戰隊巡邏連者 en film</a>》中出現。</p></td>
+<td><p>僅於《<a href="../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md" title="wikilink">快盜戰隊魯邦連者VS警察戰隊巡邏連者 en film</a>》中出現。</p></td>
 </tr>
 </tbody>
 </table>
@@ -4547,7 +4547,7 @@ Morphin Brace</p></td>
 ### 劇場版
 
   - 《[快盜戰隊魯邦連者VS警察戰隊巡邏連者 en
-    film](https://zh.wikipedia.org/wiki/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film "wikilink")》
+    film](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者_en_film.md "wikilink")》
 
 <!-- end list -->
 

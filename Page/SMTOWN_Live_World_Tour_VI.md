@@ -16,7 +16,7 @@ VI**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](.
 </tr>
 <tr class="even">
 <td><p>2017年7月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a>[1]</p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a>[1]</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾世界盃體育場" title="wikilink">首爾世界盃體育場</a></p></td>
 <td><p>45,000</p></td>
@@ -90,8 +90,8 @@ VI**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](.
   - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
     （[Victoria](../Page/宋茜.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Krystal](../Page/鄭秀晶.md "wikilink")(缺席首爾、東京、大阪場演出)、[Luna](../Page/朴善英.md "wikilink")）
   - [EXO](../Page/EXO.md "wikilink")
-    （[Xiumin](https://zh.wikipedia.org/wiki/Xiumin "wikilink")、Suho、[伯賢](https://zh.wikipedia.org/wiki/伯賢 "wikilink")、Chen、[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/D.O. "wikilink")、[Kai](../Page/Kai.md "wikilink")、[世勳](https://zh.wikipedia.org/wiki/世勳 "wikilink")）
-  - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")
+    （[Xiumin](../Page/Xiumin.md "wikilink")、Suho、[伯賢](../Page/伯賢.md "wikilink")、Chen、[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/D.O. "wikilink")、[Kai](../Page/Kai.md "wikilink")、[世勳](https://zh.wikipedia.org/wiki/世勳 "wikilink")）
+  - [Red Velvet](../Page/Red_Velvet.md "wikilink")
     （[Irene](https://zh.wikipedia.org/wiki/裴珠泫 "wikilink")、[瑟琪](https://zh.wikipedia.org/wiki/姜瑟琪 "wikilink")、[Wendy](https://zh.wikipedia.org/wiki/孫承歡 "wikilink")、[Joy](https://zh.wikipedia.org/wiki/朴秀英 "wikilink")、[Yeri](../Page/Yeri.md "wikilink")）
   - [NCT](../Page/NCT.md "wikilink")（泰一、Johnny、[泰容](../Page/泰容.md "wikilink")、[悠太](../Page/悠太.md "wikilink")、[道英](../Page/道英.md "wikilink")、[Ten](../Page/Ten_\(歌手\).md "wikilink")、[在玹](../Page/在玹.md "wikilink")、昀昀、[Mark](https://zh.wikipedia.org/wiki/Mark_\(1999年\) "wikilink")、仁俊、Jeno、楷燦、[辰樂](https://zh.wikipedia.org/wiki/辰樂 "wikilink")、志晟、Lucas）
 

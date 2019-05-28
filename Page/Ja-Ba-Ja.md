@@ -4,7 +4,7 @@
 
 本作為前作《[11月的腳鏈](https://zh.wikipedia.org/wiki/11月的腳鏈 "wikilink")》發行約4個月後之2018年第1張單曲。2018年1月20日於[東京巨蛋城表演廳舉辦的](https://zh.wikipedia.org/wiki/東京巨蛋城表演廳 "wikilink")「AKB48家族
 重溫時間 最佳曲目100
-2018」最終場公演中公布選拔成員及[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心成員）\[4\]。岡田奈奈首度擔任單曲標題曲的Center，[太田夢莉](https://zh.wikipedia.org/wiki/太田夢莉 "wikilink")（[NMB48](../Page/NMB48.md "wikilink")）、[倉野尾成美](../Page/倉野尾成美.md "wikilink")、[馬嘉伶](../Page/馬嘉伶.md "wikilink")、[村山彩希等](../Page/村山彩希.md "wikilink")4人則首度獲選為AKB48單曲的選拔成員\[5\]，[込山榛香是繼](../Page/込山榛香.md "wikilink")《[空有願望](../Page/空有願望.md "wikilink")》以來第3度重回選拔成員行列。前作選拔成員中，[渡邊麻友已自AKB](../Page/渡邊麻友.md "wikilink")48畢業，[北原里英](../Page/北原里英.md "wikilink")（NGT48）已宣布畢業，[兒玉遙](../Page/兒玉遙.md "wikilink")（HKT48）暫停活動中，[峯岸南](../Page/峯岸南.md "wikilink")、山本彩加（NMB48）、[吉田朱里](../Page/吉田朱里.md "wikilink")（NMB48）皆未獲入選。歌曲於2018年2月22日現場播出的[日本放送深夜廣播節目](../Page/日本放送.md "wikilink")「」首次公開披露\[6\]，MV與專輯封面則在同月28日公開\[7\]。
+2018」最終場公演中公布選拔成員及[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心成員）\[4\]。岡田奈奈首度擔任單曲標題曲的Center，[太田夢莉](../Page/太田夢莉.md "wikilink")（[NMB48](../Page/NMB48.md "wikilink")）、[倉野尾成美](../Page/倉野尾成美.md "wikilink")、[馬嘉伶](../Page/馬嘉伶.md "wikilink")、[村山彩希等](../Page/村山彩希.md "wikilink")4人則首度獲選為AKB48單曲的選拔成員\[5\]，[込山榛香是繼](../Page/込山榛香.md "wikilink")《[空有願望](../Page/空有願望.md "wikilink")》以來第3度重回選拔成員行列。前作選拔成員中，[渡邊麻友已自AKB](../Page/渡邊麻友.md "wikilink")48畢業，[北原里英](../Page/北原里英.md "wikilink")（NGT48）已宣布畢業，[兒玉遙](../Page/兒玉遙.md "wikilink")（HKT48）暫停活動中，[峯岸南](../Page/峯岸南.md "wikilink")、山本彩加（NMB48）、[吉田朱里](../Page/吉田朱里.md "wikilink")（NMB48）皆未獲入選。歌曲於2018年2月22日現場播出的[日本放送深夜廣播節目](../Page/日本放送.md "wikilink")「」首次公開披露\[6\]，MV與專輯封面則在同月28日公開\[7\]。
 
 ## 封面寫真
 
@@ -58,18 +58,18 @@ Type A・B・C・D・E皆有初回限定盤及通常盤2種版本，各版本的
     4：[小嶋真子](../Page/小嶋真子.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")
   - Team 4／STU48：[岡田奈奈](../Page/岡田奈奈_\(AKB48\).md "wikilink")
   - Team
-    8：[岡部麟](https://zh.wikipedia.org/wiki/岡部麟 "wikilink")、[小栗有以](../Page/小栗有以.md "wikilink")、[倉野尾成美](../Page/倉野尾成美.md "wikilink")
+    8：[岡部麟](../Page/岡部麟.md "wikilink")、[小栗有以](../Page/小栗有以.md "wikilink")、[倉野尾成美](../Page/倉野尾成美.md "wikilink")
   - SKE48 Team S：[松井珠理奈](../Page/松井珠理奈.md "wikilink")
   - SKE48 Team KII：[小畑優奈](../Page/小畑優奈.md "wikilink")
   - SKE48 Team E：[須田亞香里](../Page/須田亞香里.md "wikilink")
   - NMB48 Team N：[山本彩](../Page/山本彩.md "wikilink")
-  - NMB48 Team BII：[太田夢莉](https://zh.wikipedia.org/wiki/太田夢莉 "wikilink")
+  - NMB48 Team BII：[太田夢莉](../Page/太田夢莉.md "wikilink")
   - HKT48 Team
     H：[指原莉乃](../Page/指原莉乃.md "wikilink")、[田中美久](../Page/田中美久_\(HKT48\).md "wikilink")
   - HKT48 Team TII：[松岡花](../Page/松岡花.md "wikilink")
   - NGT48 Team
     NIII：[荻野由佳](../Page/荻野由佳.md "wikilink")、[中井莉加](../Page/中井莉加.md "wikilink")
-  - STU48：[瀧野由美子](https://zh.wikipedia.org/wiki/瀧野由美子 "wikilink")
+  - STU48：[瀧野由美子](../Page/瀧野由美子.md "wikilink")
 
 ### 踏板與車輪的來時路
 
@@ -113,8 +113,7 @@ Type A・B・C・D・E皆有初回限定盤及通常盤2種版本，各版本的
 （中心成員：指原莉乃、宮脇咲良）
 
   - Team A／HKT48 Team KIV：宮脇咲良
-  - Team B／HKT48 Team
-    H：[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")
+  - Team B／HKT48 Team H：[矢吹奈子](../Page/矢吹奈子.md "wikilink")
   - Team 4／HKT48 Team KIV：[朝長美櫻](../Page/朝長美櫻.md "wikilink")
   - HKT48 Team
     H：[神志那結衣](../Page/神志那結衣.md "wikilink")、駒田京伽、指原莉乃、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中美久](../Page/田中美久_\(HKT48\).md "wikilink")、豐永阿紀、[松岡菜摘](../Page/松岡菜摘.md "wikilink")
@@ -132,9 +131,9 @@ Type A・B・C・D・E皆有初回限定盤及通常盤2種版本，各版本的
     A：[谷口惠](../Page/谷口惠.md "wikilink")、[樋渡結依](../Page/樋渡結依.md "wikilink")
   - Team K：久保怜音、向井地美音
   - Team
-    B：[後藤萌咲](https://zh.wikipedia.org/wiki/後藤萌咲 "wikilink")、西川怜、[福岡聖菜](../Page/福岡聖菜.md "wikilink")、山邊步夢
+    B：[後藤萌咲](../Page/後藤萌咲.md "wikilink")、西川怜、[福岡聖菜](../Page/福岡聖菜.md "wikilink")、山邊步夢
   - Team
-    4：[川本紗矢](https://zh.wikipedia.org/wiki/川本紗矢 "wikilink")、[千葉惠里](https://zh.wikipedia.org/wiki/千葉惠里 "wikilink")
+    4：[川本紗矢](../Page/川本紗矢.md "wikilink")、[千葉惠里](https://zh.wikipedia.org/wiki/千葉惠里 "wikilink")
   - Team 8：岡部麟、小栗有以、倉野尾成美
   - Team 8／Team B：[坂口渚沙](../Page/坂口渚沙.md "wikilink")
   - 研究生：淺井七海、山內瑞葵

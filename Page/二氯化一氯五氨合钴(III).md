@@ -21,7 +21,7 @@
 
 ## 参见
 
-  - [二氯化一氯五氨合铑(III)](https://zh.wikipedia.org/wiki/二氯化一氯五氨合铑\(III\) "wikilink")
+  - [二氯化一氯五氨合铑(III)](../Page/二氯化一氯五氨合铑\(III\).md "wikilink")
 
 ## 参考文献
 

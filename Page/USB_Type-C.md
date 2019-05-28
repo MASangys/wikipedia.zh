@@ -59,7 +59,7 @@ USB-C的其他特性如下：
 
 从2015年起，有许多支持USB-C的电子产品面世，USB-C接口开始普及，例如[Nexus
 5X](../Page/Nexus_5X.md "wikilink")、[Nexus
-6P及](../Page/Nexus_6P.md "wikilink")[任天堂Switch等](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")，現時大部分[Android電子產品都使用USB](../Page/Android.md "wikilink")-C接口。[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2015年起於[MacBook改用USB](../Page/MacBook.md "wikilink")
+6P及](../Page/Nexus_6P.md "wikilink")[任天堂Switch等](../Page/任天堂Switch.md "wikilink")，現時大部分[Android電子產品都使用USB](../Page/Android.md "wikilink")-C接口。[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")2015年起於[MacBook改用USB](../Page/MacBook.md "wikilink")
 C，至2018年11月7日推出的[iPad
 Pro亦改用USB](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink") C接口。
 

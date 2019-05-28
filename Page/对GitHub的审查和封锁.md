@@ -3,7 +3,7 @@
 
 ## 背景
 
-[GitHub是一个基于](../Page/GitHub.md "wikilink")[Git的源代码托管网站](../Page/Git.md "wikilink")，主要用于存储[源代码并用于项目管理](../Page/源代码.md "wikilink")。截止到2015年，GitHub已有超过1000万用户和2.4亿个Git仓库。\[1\]此外，GitHub还提供了免费的服务（[Gist](https://zh.wikipedia.org/wiki/GIST "wikilink")）和免费的网络空间GitHub
+[GitHub是一个基于](../Page/GitHub.md "wikilink")[Git的源代码托管网站](../Page/Git.md "wikilink")，主要用于存储[源代码并用于项目管理](../Page/源代码.md "wikilink")。截止到2015年，GitHub已有超过1000万用户和2.4亿个Git仓库。\[1\]此外，GitHub还提供了免费的服务（[Gist](../Page/GIST.md "wikilink")）和免费的网络空间GitHub
 Pages。GitHub许可协议禁止滥用GitHub的各项服务，保留了删除内容的权力。\[2\]此外，如果GitHub收到[DMCA删除通知](../Page/數字千年版權法.md "wikilink")，GitHub也会删除项目。\[3\]
 
 ## 中国

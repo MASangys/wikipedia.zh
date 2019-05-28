@@ -62,7 +62,7 @@ Diverge Mapping System）的系統，以輔助了解劇情的分歧和展開。\
     聲：[今井由香](../Page/今井由香.md "wikilink")（SS版）、[高塚彩葉](https://zh.wikipedia.org/wiki/高塚彩葉 "wikilink")（成人動畫）、[內田真禮](../Page/內田真禮.md "wikilink")（重製版/電視動畫）
     境町學園的3年級學生，1個月左右轉學進來該學校，家長去世而獨自一個人過着傷心的生活。心中懷着母親的話語「絕對不放棄」。
   -
-    聲：[佐久間玲](../Page/佐久間玲.md "wikilink")（SS版）、[奧田香織](https://zh.wikipedia.org/wiki/奧田香織 "wikilink")（成人動畫）、[大西沙織](https://zh.wikipedia.org/wiki/大西沙織 "wikilink")（重製版/電視動畫）
+    聲：[佐久間玲](../Page/佐久間玲.md "wikilink")（SS版）、[奧田香織](https://zh.wikipedia.org/wiki/奧田香織 "wikilink")（成人動畫）、[大西沙織](../Page/大西沙織.md "wikilink")（重製版/電視動畫）
     境町學園的老師，擔任校長龍藏寺的秘書，愛慕著校長龍藏寺，常喜歡大學時代的恩師龍藏寺卻又煩惱着，為了填埋住心中的縫隙曾一時和拓也交往，後來在學校和拓也發生了不可收拾的地步事情，被學校的同學澪給撞見，後來二人逐漸分開。
   -
     聲：[冬馬由美](https://zh.wikipedia.org/wiki/冬馬由美 "wikilink")（SS版）、[高天唯](https://zh.wikipedia.org/wiki/高天唯 "wikilink")（成人動畫）、[釘宮理惠](../Page/釘宮理惠.md "wikilink")（重製版/電視動畫）
@@ -84,7 +84,7 @@ Diverge Mapping System）的系統，以輔助了解劇情的分歧和展開。\
 ### 異界篇
 
   -
-    聲：[高橋美紀](https://zh.wikipedia.org/wiki/高橋美紀 "wikilink")（SS版）、[寺田春日](https://zh.wikipedia.org/wiki/七緒春日 "wikilink")（成人動畫）、[真田麻美](../Page/真田麻美.md "wikilink")（重製版/電視動畫）
+    聲：[高橋美紀](https://zh.wikipedia.org/wiki/高橋美紀 "wikilink")（SS版）、[寺田春日](../Page/七緒春日.md "wikilink")（成人動畫）、[真田麻美](../Page/真田麻美.md "wikilink")（重製版/電視動畫）
   -
     聲：[古山貴實子](../Page/古山貴實子.md "wikilink")（SS版）、古山貴實子（成人動畫）、[小澤亞李](../Page/小澤亞李.md "wikilink")（重製版/電視動畫）
   -
@@ -160,7 +160,7 @@ Diverge Mapping System）的系統，以輔助了解劇情的分歧和展開。\
 ### 主題曲
 
   - 片頭曲「」
-    作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：悠木真一，主唱：[亞咲花](https://zh.wikipedia.org/wiki/亞咲花 "wikilink")
+    作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：悠木真一，主唱：[亞咲花](../Page/亞咲花.md "wikilink")
   - 片尾曲「」（第2話－）
     作詞、作曲：志倉千代丸，編曲：白戶佑輔，主唱：[鈴木KONOMI](../Page/鈴木KONOMI.md "wikilink")
 

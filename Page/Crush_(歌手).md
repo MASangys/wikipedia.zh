@@ -58,7 +58,7 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 <li>눈이 마주친 순간 (I Fancy You)</li>
 <li>A Little Bit (Feat. Lydia Paek)</li>
 <li>Hey Baby (Feat. <a href="../Page/Zion.T.md" title="wikilink">Zion.T</a>)</li>
-<li>Whatever You Do (Feat. <a href="https://zh.wikipedia.org/wiki/Gray_(歌手)" title="wikilink">Gray</a>)</li>
+<li>Whatever You Do (Feat. <a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>)</li>
 <li>밥맛이야 (Feat. Kumapark)</li>
 <li>아름다운 그대 (Feat. )</li>
 <li>원해</li>
@@ -287,7 +287,7 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 <td><p>2015年11月4日</p></td>
 <td><p>也許是那樣（아마도 그건）</p></td>
 <td><p>《<a href="../Page/Two_Yoo_Project_-_Sugar_Man.md" title="wikilink">Two Yoo Project - Sugar Man</a> Part.3》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a></p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2016年6月19日</p></td>
@@ -306,11 +306,11 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 
 ### 戲劇原聲帶
 
-| 發行日期        | 歌曲               | 劇名                                                                 | 合作歌手  |
-| ----------- | ---------------- | ------------------------------------------------------------------ | ----- |
-| 2016年8月6日   | 無法入睡的夜晚（잠 못드는 밤） | SBS《[沒關係，是愛情啊](https://zh.wikipedia.org/wiki/沒關係，是愛情啊 "wikilink")》 | Punch |
-| 2016年8月21日  |                  |                                                                    |       |
-| 2016年12月16日 | Beautiful        | tvN《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》                | |     |
+| 發行日期        | 歌曲               | 劇名                                                  | 合作歌手  |
+| ----------- | ---------------- | --------------------------------------------------- | ----- |
+| 2016年8月6日   | 無法入睡的夜晚（잠 못드는 밤） | SBS《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")》     | Punch |
+| 2016年8月21日  |                  |                                                     |       |
+| 2016年12月16日 | Beautiful        | tvN《[孤單又燦爛的神－鬼怪](../Page/孤單又燦爛的神－鬼怪.md "wikilink")》 | |     |
 
 ### 客串專輯
 
@@ -385,7 +385,7 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 <td><p>2013年5月2日</p></td>
 <td><p>眨眼（깜빡）Remix</p></td>
 <td><p>《眨眼 Remix》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Gray_(歌手)" title="wikilink">Gray</a>、TaeWan、Elo、Jinbo</p></td>
+<td><p><a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>、TaeWan、Elo、Jinbo</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -412,7 +412,7 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 <td><p>2013年10月25日</p></td>
 <td><p>夢是什麼（꿈이 뭐야）</p></td>
 <td><p>《Call Me Gray》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Gray_(歌手)" title="wikilink">Gray</a>、<a href="../Page/Dok2.md" title="wikilink">Dok2</a></p></td>
+<td><p><a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>、<a href="../Page/Dok2.md" title="wikilink">Dok2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -439,7 +439,7 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 <td><p>2013年12月20日</p></td>
 <td><p>HOTpants（Extended版本）</p></td>
 <td><p>《狼》</p></td>
-<td><p>、B-free、Pento、<a href="https://zh.wikipedia.org/wiki/Cheetah" title="wikilink">Cheetah</a>、BUMZU、Buga Kingz、<a href="https://zh.wikipedia.org/wiki/Paloalto" title="wikilink">Paloalto</a></p></td>
+<td><p>、B-free、Pento、<a href="../Page/Cheetah.md" title="wikilink">Cheetah</a>、BUMZU、Buga Kingz、<a href="https://zh.wikipedia.org/wiki/Paloalto" title="wikilink">Paloalto</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -493,7 +493,7 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 <td><p>2014年11月28日</p></td>
 <td><p>Hands Up（손바닥을 보여줘）</p></td>
 <td><p>《LOCOMOTIVE》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a></p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -583,7 +583,7 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 <tr class="odd">
 <td><p>2016年7月16日</p></td>
 <td><p>重播（재방송）</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5</a> Episode 5》</p></td>
+<td><p>《<a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5</a> Episode 5》</p></td>
 <td><p>C Jamm</p></td>
 <td></td>
 <td></td>
@@ -611,7 +611,7 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 <td><p>2017年5月25日</p></td>
 <td><p>Still（남아있어）</p></td>
 <td><p>《BLEACHED》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a></p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -629,7 +629,7 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 <td><p>2017年11月10日</p></td>
 <td><p>Love Story（러브 스토리）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Suran" title="wikilink">Suran</a></p></td>
+<td><p><a href="../Page/Suran.md" title="wikilink">Suran</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -661,7 +661,7 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 | 出演日期                 | 節目名稱                                                        |
 | -------------------- | ----------------------------------------------------------- |
 | 2016年2月22日           | [大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")                |
-| 2016年4月1日/2016年5月27日 | [我獨自生活](https://zh.wikipedia.org/wiki/我獨自生活 "wikilink")     |
+| 2016年4月1日/2016年5月27日 | [我獨自生活](../Page/我獨自生活.md "wikilink")                        |
 | 2016月05年05日          | 維他命                                                         |
 | 2016年5月6日            | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink") |
 | 2016年6月19日           | [蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                    |
@@ -675,13 +675,13 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 
 | 出演日期   | 電視台                                                   | 節目名稱                                                                        | 備註                                         |
 | ------ | ----------------------------------------------------- | --------------------------------------------------------------------------- | ------------------------------------------ |
-| 4月27日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [BREAKERS](https://zh.wikipedia.org/wiki/BREAKERS "wikilink")               | 幫唱嘉賓                                       |
+| 4月27日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [BREAKERS](../Page/BREAKERS.md "wikilink")                                  | 幫唱嘉賓                                       |
 |        | [MBC](../Page/文化廣播公司.md "wikilink")                   | [Under Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")   | 聲樂導師／評判，與[Solji](../Page/率智.md "wikilink") |
-| 5月8日   | MBC                                                   | [Video Star](https://zh.wikipedia.org/wiki/Video_Star "wikilink")           |                                            |
+| 5月8日   | MBC                                                   | [Video Star](../Page/Video_Star.md "wikilink")                              |                                            |
 | 7月4日   | MBC                                                   | [一週的偶像](https://zh.wikipedia.org/wiki/一週的偶像 "wikilink")                     |                                            |
 | 9月19日  | JTBC                                                  | [請給一頓飯show](https://zh.wikipedia.org/wiki/請給一頓飯Show "wikilink")             |                                            |
-| 9月22日  | MBC                                                   | [全知干預視角](https://zh.wikipedia.org/wiki/全知干預視角 "wikilink")                   |                                            |
-| 9月29日  | MBC                                                   | [全知干預視角](https://zh.wikipedia.org/wiki/全知干預視角 "wikilink")                   |                                            |
+| 9月22日  | MBC                                                   | [全知干預視角](../Page/全知干預視角.md "wikilink")                                      |                                            |
+| 9月29日  | MBC                                                   | [全知干預視角](../Page/全知干預視角.md "wikilink")                                      |                                            |
 | 10月31日 | MBC                                                   | [黃金漁場 Radio Star](https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star "wikilink") |                                            |
 
 ### 2019年
@@ -689,8 +689,8 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 | 出演日期  | 電視台                                                   | 節目名稱                                                      | 備註 |
 | ----- | ----------------------------------------------------- | --------------------------------------------------------- | -- |
 | 3月8日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink") |    |
-| 3月24日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [家師父一體](https://zh.wikipedia.org/wiki/家師父一體 "wikilink")   |    |
-| 4月2日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [深夜正式演藝](https://zh.wikipedia.org/wiki/深夜正式演藝 "wikilink") |    |
+| 3月24日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [家師父一體](../Page/家師父一體.md "wikilink")                      |    |
+| 4月2日  | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")   | [深夜正式演藝](../Page/深夜正式演藝.md "wikilink")                    |    |
 
 ## 獲獎及提名列表
 

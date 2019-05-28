@@ -50,8 +50,7 @@
 
   - [SMG](../Page/STAR_MINE_GIRL.md "wikilink")（彩色）
 
-  - [Sweet
-    pool](https://zh.wikipedia.org/wiki/Sweet_pool "wikilink")（彩色）
+  - [Sweet pool](../Page/Sweet_pool.md "wikilink")（彩色）
 
   - [SMG SPECIAL](../Page/STAR_MINE_GIRL.md "wikilink")（彩色）
 

@@ -152,7 +152,7 @@ size）及背景音乐\[1\]。初回限定版附赠“”徽章一枚（随机�
 
       - 作曲、编曲：河田贵央
       - 歌：Saint
-        Snow（鹿角圣良（[田野麻美](https://zh.wikipedia.org/wiki/田野麻美 "wikilink")）、鹿角理亚（[佐藤日向](https://zh.wikipedia.org/wiki/佐藤日向 "wikilink")））
+        Snow（鹿角圣良（[田野麻美](../Page/田野麻美.md "wikilink")）、鹿角理亚（[佐藤日向](../Page/佐藤日向.md "wikilink")））
       - 第8话插曲。
 
 16. （不覺得不甘心嗎？）

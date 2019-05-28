@@ -1,4 +1,4 @@
-是由[史克威尔艾尼克斯开发的](../Page/史克威尔艾尼克斯.md "wikilink")[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")（MMORPG）《[最终幻想XIV：重生之境](https://zh.wikipedia.org/wiki/最终幻想XIV：重生之境 "wikilink")》的首部[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")，发行于[Microsoft
+是由[史克威尔艾尼克斯开发的](../Page/史克威尔艾尼克斯.md "wikilink")[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")（MMORPG）《[最终幻想XIV：重生之境](../Page/最终幻想XIV：重生之境.md "wikilink")》的首部[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")，发行于[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
 OS X](../Page/MacOS.md "wikilink")、[PlayStation
 3和](../Page/PlayStation_3.md "wikilink")[PlayStation

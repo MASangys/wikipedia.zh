@@ -7,7 +7,7 @@ Music。此張專輯以雙主打的形式進行宣傳，主打歌分別為《Fly
 ## 背景
 
 2016年2月26日，GOT7官方網站、JYP娛樂官方臉書及推特釋出《FLIGHT LOG : DEPARTURE》的回歸日程表，
-表單中透露了GOT7將於4月29日、30日在韓國[首爾舉辦出道以來首次單獨演唱會的消息](https://zh.wikipedia.org/wiki/首爾 "wikilink")。\[5\]
+表單中透露了GOT7將於4月29日、30日在韓國[首爾舉辦出道以來首次單獨演唱會的消息](../Page/首爾.md "wikilink")。\[5\]
 
 2月29日公開專輯曲目清單\[6\]，3月11日晚間於V
 App公開長達六分多鐘的Trailer，14日至16日陸續公開三波宣傳照\[7\]，18日發布首波主打歌曲《Fly》MV預告\[8\]
@@ -26,7 +26,7 @@ Music為基礎](https://zh.wikipedia.org/wiki/Trap_Music "wikilink")，並結合
 RUN》由隊長[JB參與詞曲創作](../Page/林在範.md "wikilink")，是一首旋律通俗的中毒曲，歌詞將曖昧中的緊張感比喻成棒球賽\[11\]
 ，每次的示愛就像是在揮棒打擊，即使屢次揮棒落空，仍不放過一絲機會全力出擊，期盼對方最終能接受自己的愛意。
 
-除了[Jackson](../Page/王嘉爾.md "wikilink")，其他六位成員皆參與了詞曲創作，其中[榮宰與](../Page/崔榮宰.md "wikilink")[有謙更是首次在專輯中發表自己的作品](https://zh.wikipedia.org/wiki/金有謙 "wikilink")。而歌曲《Beggin
+除了[Jackson](../Page/王嘉爾.md "wikilink")，其他六位成員皆參與了詞曲創作，其中[榮宰與](../Page/崔榮宰.md "wikilink")[有謙更是首次在專輯中發表自己的作品](../Page/金有謙.md "wikilink")。而歌曲《Beggin
 On My Knees》則由同門師弟樂團[DAY6的貝斯手](../Page/DAY6.md "wikilink")[Young
 K寫詞](../Page/姜永晛.md "wikilink")，同時擔任配唱製作。
 

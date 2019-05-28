@@ -72,7 +72,7 @@
 <td><p><strong>《<a href="../Page/Season_of_Glass.md" title="wikilink">Season of Glass</a>》</strong>[2]</p>
 <ul>
 <li>發行日期：2015年1月15日</li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">KT Music</a></li>
+<li>發行公司：<a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="../Page/Genie音樂.md" title="wikilink">KT Music</a></li>
 <li>專輯銷量：20,654+</li>
 <li>規格：CD、數位音樂下載</li>
 </ul></td>
@@ -142,7 +142,7 @@
 </tr>
 <tr class="odd">
 <td><p>6th</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/Time_For_The_Moon_Night" title="wikilink">Time For The Moon Night</a>》</strong></p>
+<td><p><strong>《<a href="../Page/Time_For_The_Moon_Night.md" title="wikilink">Time For The Moon Night</a>》</strong></p>
 <ul>
 <li>發行日期：2018年4月30日</li>
 <li>發行公司：<a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
@@ -176,7 +176,7 @@
 </tr>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/Sunny_Summer" title="wikilink">Sunny Summer</a>》</strong></p>
+<td><p><strong>《<a href="../Page/Sunny_Summer.md" title="wikilink">Sunny Summer</a>》</strong></p>
 <ul>
 <li>發行日期: 2018年7月19日</li>
 <li>發行公司: <a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/LOEN_Entertainment" title="wikilink">LOEN Entertainment</a></li>
@@ -218,7 +218,7 @@
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/今天開始的我們～GFRIEND_1st_BEST" title="wikilink">今日から私たちは ～GFRIEND 1st BEST～</a>》</strong></p>
+<td><p><strong>《<a href="../Page/今天開始的我們～GFRIEND_1st_BEST.md" title="wikilink">今日から私たちは ～GFRIEND 1st BEST～</a>》</strong></p>
 <ul>
 <li>發行日期: 2018年5月23日</li>
 <li>發行公司: <a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="https://zh.wikipedia.org/wiki/KING_RECORDS" title="wikilink">KING RECORDS</a></li>
@@ -383,16 +383,16 @@ I'll Be There</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年6月25日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/金秘書為何那樣" title="wikilink">金秘書為何那樣</a>》</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/金秘書為何那樣" title="wikilink">金秘書為何那樣</a>》OST Part 3</p></td>
+<td><p>《<a href="../Page/金秘書為何那樣.md" title="wikilink">金秘書為何那樣</a>》</p></td>
+<td><p>《<a href="../Page/金秘書為何那樣.md" title="wikilink">金秘書為何那樣</a>》OST Part 3</p></td>
 <td><p>Wanna Be</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年8月7日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/一起吃飯吧3：Begins" title="wikilink">一起吃飯吧3：Begins</a>》</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/一起吃飯吧3：Begins" title="wikilink">一起吃飯吧3：Begins</a>》OST Part 3</p></td>
+<td><p>《<a href="../Page/一起吃飯吧3：Begins.md" title="wikilink">一起吃飯吧3：Begins</a>》</p></td>
+<td><p>《<a href="../Page/一起吃飯吧3：Begins.md" title="wikilink">一起吃飯吧3：Begins</a>》OST Part 3</p></td>
 <td><p>只有這首歌（이 노래만）</p></td>
 <td><p>Yuju</p></td>
 <td></td>
@@ -444,25 +444,25 @@ I'll Be There</p></td>
 
 ### 合作單曲
 
-|        |                      |                                                                                                                                                                                                 |                                                                                                   |
-| ------ | -------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
-| 年份     | 發佈日期                 | 歌曲名稱                                                                                                                                                                                            | 歌手                                                                                                |
-| 2015   | 10月21日               | 漢江的夜晚 (밤에 본 한강)                                                                                                                                                                                 | [Pro C](../Page/Pro_C.md "wikilink")、Eunha                                                        |
-| 2016   | 3月11日                | Cherish (보일 듯 말 듯)                                                                                                                                                                              | Yuju、[善燏](../Page/UP10TION.md "wikilink")                                                         |
-| 5月25日  | 自卑感 (자격지심)           | [朴經](../Page/朴經.md "wikilink")、Eunha                                                                                                                                                            |                                                                                                   |
-| 10月12日 | Firefly              | [黃致列](../Page/黃致列.md "wikilink")、Eunha                                                                                                                                                          |                                                                                                   |
-| 10月17日 | 未來男朋友 (미래남친)         | [El Camino](https://zh.wikipedia.org/wiki/El_Camino "wikilink")、Yerin                                                                                                                           |                                                                                                   |
-| 11月2日  | Chemistry (케미)       | MC夢、Eunha                                                                                                                                                                                       |                                                                                                   |
-| 11月27日 | Taxi (택시)            | Sunny Girls (Eunha)                                                                                                                                                                             |                                                                                                   |
-| 2017   | 3月16日                | Spring again (왜 또 봄이야)                                                                                                                                                                          | Yerin、[曹璐](../Page/FIESTAR.md "wikilink")、[Kisum](https://zh.wikipedia.org/wiki/KISUM "wikilink") |
-| 10月26日 | 左手右手 (왼손 오른손)        | [天地](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")、Eunha                                                                                                                                   |                                                                                                   |
-| 10月27日 | Heart Signal (하트시그널) | Yuju、[志厚](https://zh.wikipedia.org/wiki/IZ "wikilink")                                                                                                                                          |                                                                                                   |
-| 11月3日  | 今天特别漂亮 (오늘따라 예쁘다)    | Yun DDan DDan、Eunha                                                                                                                                                                             |                                                                                                   |
-| 12月5日  | First Love (첫사랑)     | Jung Key、Yuju                                                                                                                                                                                   |                                                                                                   |
-| 2018   | 6月29日                | Love Rain                                                                                                                                                                                       | Yuju、[Suran](../Page/Suran.md "wikilink")(수란)                                                     |
-| 9月28日  | Wow Thing            | [瑟琪](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")、**[SinB](../Page/SinB.md "wikilink")**、[金請夏](https://zh.wikipedia.org/wiki/請夏 "wikilink")、[田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink") |                                                                                                   |
-| 11月9日  | 臨陣磨槍 (벼락치기)          | 윤종신 X YUJU                                                                                                                                                                                      |                                                                                                   |
-| 2019   | 4月11日                | BLOSSOM                                                                                                                                                                                         | Eunha、[Ravi](https://zh.wikipedia.org/wiki/金元植 "wikilink")                                        |
+|        |                      |                                                                                                                                                                              |                                                                                                   |
+| ------ | -------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 年份     | 發佈日期                 | 歌曲名稱                                                                                                                                                                         | 歌手                                                                                                |
+| 2015   | 10月21日               | 漢江的夜晚 (밤에 본 한강)                                                                                                                                                              | [Pro C](../Page/Pro_C.md "wikilink")、Eunha                                                        |
+| 2016   | 3月11日                | Cherish (보일 듯 말 듯)                                                                                                                                                           | Yuju、[善燏](../Page/UP10TION.md "wikilink")                                                         |
+| 5月25日  | 自卑感 (자격지심)           | [朴經](../Page/朴經.md "wikilink")、Eunha                                                                                                                                         |                                                                                                   |
+| 10月12日 | Firefly              | [黃致列](../Page/黃致列.md "wikilink")、Eunha                                                                                                                                       |                                                                                                   |
+| 10月17日 | 未來男朋友 (미래남친)         | [El Camino](https://zh.wikipedia.org/wiki/El_Camino "wikilink")、Yerin                                                                                                        |                                                                                                   |
+| 11月2日  | Chemistry (케미)       | MC夢、Eunha                                                                                                                                                                    |                                                                                                   |
+| 11月27日 | Taxi (택시)            | Sunny Girls (Eunha)                                                                                                                                                          |                                                                                                   |
+| 2017   | 3月16日                | Spring again (왜 또 봄이야)                                                                                                                                                       | Yerin、[曹璐](../Page/FIESTAR.md "wikilink")、[Kisum](https://zh.wikipedia.org/wiki/KISUM "wikilink") |
+| 10月26日 | 左手右手 (왼손 오른손)        | [天地](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")、Eunha                                                                                                                |                                                                                                   |
+| 10月27日 | Heart Signal (하트시그널) | Yuju、[志厚](https://zh.wikipedia.org/wiki/IZ "wikilink")                                                                                                                       |                                                                                                   |
+| 11月3日  | 今天特别漂亮 (오늘따라 예쁘다)    | Yun DDan DDan、Eunha                                                                                                                                                          |                                                                                                   |
+| 12月5日  | First Love (첫사랑)     | Jung Key、Yuju                                                                                                                                                                |                                                                                                   |
+| 2018   | 6月29日                | Love Rain                                                                                                                                                                    | Yuju、[Suran](../Page/Suran.md "wikilink")(수란)                                                     |
+| 9月28日  | Wow Thing            | [瑟琪](../Page/瑟琪.md "wikilink")、**[SinB](../Page/SinB.md "wikilink")**、[金請夏](https://zh.wikipedia.org/wiki/請夏 "wikilink")、[田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink") |                                                                                                   |
+| 11月9日  | 臨陣磨槍 (벼락치기)          | 윤종신 X YUJU                                                                                                                                                                   |                                                                                                   |
+| 2019   | 4月11日                | BLOSSOM                                                                                                                                                                      | Eunha、[Ravi](https://zh.wikipedia.org/wiki/金元植 "wikilink")                                        |
 
 ## 參考資料
 

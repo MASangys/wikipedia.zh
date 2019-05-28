@@ -1,4 +1,4 @@
-**61街-伍德賽德車站**（），在上以「伍德賽德-61街車站」（）報站，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線的一個快車](https://zh.wikipedia.org/wiki/IRT法拉盛線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")61街及交界，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務，而繁忙時段的尖峰方向還有開行[\<7\>列車](../Page/紐約地鐵7號線.md "wikilink")。
+**61街-伍德賽德車站**（），在上以「伍德賽德-61街車站」（）報站，是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線的一個快車](../Page/IRT法拉盛線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")61街及交界，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務，而繁忙時段的尖峰方向還有開行[\<7\>列車](../Page/紐約地鐵7號線.md "wikilink")。
 
 ## 歷史
 
@@ -14,7 +14,7 @@
 <td><p><strong>3F<br />
 <span style="color:#{{NYCS color|purple}}">法拉盛線月台</span></strong></p></td>
 <td><p><span style="color:#{{NYCS color|purple}}"><strong>南行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-7.svg" title="fig:纽约地铁7号线">纽约地铁7号线</a> 往<a href="https://zh.wikipedia.org/wiki/34街-哈德遜調車場車站_(IRT法拉盛線)" title="wikilink">34街-哈德遜調車場</a><small>（<a href="https://zh.wikipedia.org/wiki/52街車站_(IRT法拉盛線)" title="wikilink">52街</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-7.svg" title="fig:纽约地铁7号线">纽约地铁7号线</a> 往<a href="https://zh.wikipedia.org/wiki/34街-哈德遜調車場車站_(IRT法拉盛線)" title="wikilink">34街-哈德遜調車場</a><small>（<a href="../Page/52街車站_(IRT法拉盛線).md" title="wikilink">52街</a>）</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small><a href="../Page/島式月台.md" title="wikilink">島式月台</a>，左/右側開門 </small></p></td>

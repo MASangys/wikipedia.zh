@@ -7,10 +7,9 @@ Tour](https://zh.wikipedia.org/wiki/WINNER巡迴演唱會列表#WINNER_2016_EXIT
 
 WINNER在2016年2月1日發行時隔1年半的新作品《[EXIT:E](../Page/EXIT:E.md "wikilink")》並開啟企劃「2016
 Project Exit Movement」的其中一環「2016 Winner Exit
-Tour」巡迴演唱會，以宣傳此張專輯，巡演於2016年3月至4月陸續在[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")、[光州](../Page/光州廣域市.md "wikilink")、[大邱和](../Page/大邱廣域市.md "wikilink")[釜山開唱](../Page/釜山廣域市.md "wikilink")。本作2CD收錄2016年3月12日至13日奧林匹克體操競技場舉行的首爾公演，他們演唱了〈空虛〉、〈Sentimental〉、〈彩鈴〉、〈Baby
+Tour」巡迴演唱會，以宣傳此張專輯，巡演於2016年3月至4月陸續在[首爾](../Page/首爾.md "wikilink")、[光州](../Page/光州廣域市.md "wikilink")、[大邱和](../Page/大邱廣域市.md "wikilink")[釜山開唱](../Page/釜山廣域市.md "wikilink")。本作2CD收錄2016年3月12日至13日奧林匹克體操競技場舉行的首爾公演，他們演唱了〈空虛〉、〈Sentimental〉、〈彩鈴〉、〈Baby
 Baby〉等人氣歌曲外，也帶來了特別舞台，包括[旻浩獨唱的](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")〈Fear〉、[昇勳獨唱的](../Page/李昇勳.md "wikilink")〈Wild
-& Young〉、[南太鉉獨唱的](https://zh.wikipedia.org/wiki/南太鉉 "wikilink")〈I'm
-Young〉等。
+& Young〉、[南太鉉獨唱的](../Page/南太鉉.md "wikilink")〈I'm Young〉等。
 
 ## 曲目
 

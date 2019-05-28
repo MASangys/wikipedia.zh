@@ -7,7 +7,7 @@
 ## 第二代（2016-至今）
 
 [SLM_26_-_Fiat_Talento.jpg](https://zh.wikipedia.org/wiki/File:SLM_26_-_Fiat_Talento.jpg "fig:SLM_26_-_Fiat_Talento.jpg")
-[雷諾Trafic的变种](https://zh.wikipedia.org/wiki/雷諾Trafic "wikilink")\[1\]。
+[雷諾Trafic的变种](../Page/雷諾Trafic.md "wikilink")\[1\]。
 
 ## 参考
 

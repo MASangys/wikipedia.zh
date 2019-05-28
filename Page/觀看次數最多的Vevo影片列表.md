@@ -16,8 +16,8 @@
 <tbody>
 <tr class="odd">
 <td><p>1.</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/慢慢來_(路易斯·方辛歌曲)" title="wikilink">慢慢來</a>[2]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/路易斯·馮西" title="wikilink">路易斯.馮西</a></p></td>
+<td><p><a href="../Page/慢慢來_(路易斯·方辛歌曲).md" title="wikilink">慢慢來</a>[2]</p></td>
+<td><p><a href="../Page/路易斯·馮西.md" title="wikilink">路易斯.馮西</a></p></td>
 <td><p>5,463,666,422</p></td>
 <td><p>2017年1月12日</p></td>
 </tr>

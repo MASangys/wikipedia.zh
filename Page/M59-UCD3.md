@@ -6,7 +6,7 @@
 
 ## 參見
 
-  - [M60-UCD1](https://zh.wikipedia.org/wiki/M60-UCD1 "wikilink")（截至2013年密度最高的矮星系）
+  - [M60-UCD1](../Page/M60-UCD1.md "wikilink")（截至2013年密度最高的矮星系）
 
   - （2015年已知密度最高的矮星系）
 

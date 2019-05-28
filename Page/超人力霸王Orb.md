@@ -24,7 +24,7 @@
 [勝冶京子](https://zh.wikipedia.org/wiki/勝冶京子 "wikilink")
 [幸修司](https://zh.wikipedia.org/wiki/幸修司 "wikilink") | starring =
 [石黑英雄](../Page/石黑英雄.md "wikilink")
-[松浦雅](https://zh.wikipedia.org/wiki/松浦雅 "wikilink")
+[松浦雅](../Page/松浦雅.md "wikilink")
 [髙橋直人](https://zh.wikipedia.org/wiki/髙橋直人 "wikilink")
 [練苧弘晃](https://zh.wikipedia.org/wiki/練苧弘晃 "wikilink")
 [青柳尊哉](https://zh.wikipedia.org/wiki/青柳尊哉 "wikilink")
@@ -59,9 +59,8 @@ aired_time_1 = 逢星期日 09:35-10:05(HKT) | network_2 =
 =  | last_aired_2 = | aired_time_2 = 逢星期日 17:30-18:00(TWN) |
 show_name_zh-cn = 欧布·奧特曼 | show_name_zh-tw = 超人力霸王欧布 |
 show_name_zh-hk = 超人Orb | preceded_by =
-[超人X](https://zh.wikipedia.org/wiki/超人X "wikilink") | followed_by =
- | website = <http://m-78.jp/orb/> }}
-《**超人力霸王Orb**》（），為2016年7月9日起於東京電視台系列頻道每週六上午9:00
+[超人X](../Page/超人X.md "wikilink") | followed_by =  | website =
+<http://m-78.jp/orb/> }} 《**超人力霸王Orb**》（），為2016年7月9日起於東京電視台系列頻道每週六上午9:00
 -
 9:30（JST）播出25集，由[圓谷製作所攝製的特攝電視劇](../Page/圓谷製作.md "wikilink")，且為作品中登場的巨大變身英雄名稱。
 
@@ -183,13 +182,13 @@ show_name_zh-hk = 超人Orb | preceded_by =
 <p><strong>夢野奈緒美<br />
 （）</strong></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/松浦雅" title="wikilink">松浦雅</a></p></td>
+<p><a href="../Page/松浦雅.md" title="wikilink">松浦雅</a></p></td>
 <td><p>本作女主角，是SSP的隊長，年幼時經常夢到遇見光之巨人的怪夢，大學結業之後就創建了SSP。<br />
 為娜塔莎的後代，亦是本作除札古拉斯・札古拉和霧島晴香之外唯一一位知道紅凱真正身份的人。</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/咩咩" title="wikilink">咩咩</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黎皓宜" title="wikilink">黎皓宜</a></p></td>
+<p><a href="../Page/黎皓宜.md" title="wikilink">黎皓宜</a></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 </tr>
@@ -204,7 +203,7 @@ show_name_zh-hk = 超人Orb | preceded_by =
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/郭盛_(配音)" title="wikilink">郭盛</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/蔡忠衛" title="wikilink">蔡忠衛</a></p></td>
+<p><a href="../Page/蔡忠衛.md" title="wikilink">蔡忠衛</a></p></td>
 <td><center>
 <p><a href="../Page/馬伯強.md" title="wikilink">馬伯強</a></p></td>
 </tr>
@@ -219,7 +218,7 @@ show_name_zh-hk = 超人Orb | preceded_by =
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/刘明月" title="wikilink">刘明月</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/潘昀雋" title="wikilink">潘昀雋</a></p></td>
+<p><a href="../Page/潘昀雋.md" title="wikilink">潘昀雋</a></p></td>
 <td><center></td>
 </tr>
 <tr class="even">
@@ -232,7 +231,7 @@ show_name_zh-hk = 超人Orb | preceded_by =
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/瞳音" title="wikilink">瞳音</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/竺諺鴻" title="wikilink">竺諺鴻</a></p></td>
+<p><a href="../Page/竺諺鴻.md" title="wikilink">竺諺鴻</a></p></td>
 <td><center>
 <p><a href="../Page/何志威.md" title="wikilink">何志威</a></p></td>
 </tr>
@@ -291,7 +290,7 @@ show_name_zh-hk = 超人Orb | preceded_by =
 為奈緒美的祖先，過去被Orb戰鬥後引起的爆炸後生存，後來遠嫁於日本，於最終回證實當時由賈古拉所救。</p></td>
 <td><center></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/成樂怡" title="wikilink">成樂怡</a></p></td>
+<p><a href="../Page/成樂怡.md" title="wikilink">成樂怡</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -303,7 +302,7 @@ show_name_zh-hk = 超人Orb | preceded_by =
 <td><p>於第6話登場，是過去在森林古墳裡的古代公主靈魂，之後更多次現身向紅凱警示或幫助他。</p></td>
 <td><center></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/成樂怡" title="wikilink">成樂怡</a></p></td>
+<p><a href="../Page/成樂怡.md" title="wikilink">成樂怡</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

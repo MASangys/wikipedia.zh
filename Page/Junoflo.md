@@ -155,14 +155,14 @@ Battle與Hash Swan對決後淘汰。
 <td><p>Healin` In The City Night 1.5</p></td>
 <td><p>2014年8月13日</p></td>
 <td><p>Turn Up Tokyo (Prod. Cutlery)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a></p></td>
+<td><p><a href="../Page/Junoflo.md" title="wikilink">Junoflo</a></p></td>
 </tr>
 <tr class="even">
 <td><p>FeelGhood<br />
 </p></td>
 <td><p>2017年6月27日</p></td>
 <td><p>Panorama</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a>（Feat. MFBTY）</p></td>
+<td><p><a href="../Page/Junoflo.md" title="wikilink">Junoflo</a>（Feat. MFBTY）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Show_Me_The_Money_6.md" title="wikilink">Show Me The Money 6 Episode 1</a><br />
@@ -170,21 +170,21 @@ Battle與Hash Swan對決後淘汰。
 <td><p>2017年8月5日</p></td>
 <td><p>賭博<br />
 （도박）</p></td>
-<td><p>Ja Mezz、Ness、WoodieGoChild、<a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a>（Feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a>、<a href="../Page/朴載範.md" title="wikilink">Jay Park</a>）</p></td>
+<td><p>Ja Mezz、Ness、WoodieGoChild、<a href="../Page/Junoflo.md" title="wikilink">Junoflo</a>（Feat. <a href="../Page/Dok2.md" title="wikilink">Dok2</a>、<a href="../Page/朴載範.md" title="wikilink">Jay Park</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Show_Me_The_Money_6.md" title="wikilink">Show Me The Money 6 Episode 3</a><br />
 </p></td>
 <td><p>2017年8月19日</p></td>
 <td><p>Eyes On Me</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a>（Feat. <a href="../Page/G.Soul.md" title="wikilink">G.Soul</a>、<a href="../Page/Dok2.md" title="wikilink">Dok2</a>）</p></td>
+<td><p><a href="../Page/Junoflo.md" title="wikilink">Junoflo</a>（Feat. <a href="../Page/G.Soul.md" title="wikilink">G.Soul</a>、<a href="../Page/Dok2.md" title="wikilink">Dok2</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Show_Me_The_Money_6.md" title="wikilink">Show Me The Money 6 Episode 4</a><br />
 </p></td>
 <td><p>2016年8月26日</p></td>
 <td><p>Twisted</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Junoflo" title="wikilink">Junoflo</a>（Feat. 金孝恩、<a href="../Page/Changmo.md" title="wikilink">Changmo</a>）</p></td>
+<td><p><a href="../Page/Junoflo.md" title="wikilink">Junoflo</a>（Feat. 金孝恩、<a href="../Page/Changmo.md" title="wikilink">Changmo</a>）</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -199,22 +199,22 @@ Battle與Hash Swan對決後淘汰。
 
 ### 綜藝節目
 
-|                       |                                                       |                                                                   |          |
-| --------------------- | ----------------------------------------------------- | ----------------------------------------------------------------- | -------- |
-| 日期                    | 播放頻道                                                  | 節目名稱                                                              | 備註       |
-| 2016年5月13日－2016年7月15日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")  |          |
-| 2017年6月30日－2017年9月1日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [Show Me The Money 6](../Page/Show_Me_The_Money_6.md "wikilink")  |          |
-| 2017年12月6日            | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [需要對話的狗貓](https://zh.wikipedia.org/wiki/需要對話的狗貓 "wikilink")       |          |
-| 2017年12月12日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Video Star](../Page/Video_Star.md "wikilink")                    |          |
-| 2018年3月30日            | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [高等Rapper 2](https://zh.wikipedia.org/wiki/高等Rapper_2 "wikilink") | EP6 特別評審 |
-|                       |                                                       |                                                                   |          |
+|                       |                                                       |                                                                  |          |
+| --------------------- | ----------------------------------------------------- | ---------------------------------------------------------------- | -------- |
+| 日期                    | 播放頻道                                                  | 節目名稱                                                             | 備註       |
+| 2016年5月13日－2016年7月15日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink") |          |
+| 2017年6月30日－2017年9月1日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [Show Me The Money 6](../Page/Show_Me_The_Money_6.md "wikilink") |          |
+| 2017年12月6日            | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")   | [需要對話的狗貓](../Page/需要對話的狗貓.md "wikilink")                         |          |
+| 2017年12月12日           | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")   | [Video Star](../Page/Video_Star.md "wikilink")                   |          |
+| 2018年3月30日            | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [高等Rapper 2](../Page/高等Rapper_2.md "wikilink")                   | EP6 特別評審 |
+|                       |                                                       |                                                                  |          |
 
 ### 電視劇
 
-|                       |                                    |                                                                 |           |
-| --------------------- | ---------------------------------- | --------------------------------------------------------------- | --------- |
-| 日期                    | 播放頻道                               | 節目名稱                                                            | 備註        |
-| 2018年7月27日－2018年9月15日 | [JTBC](../Page/JTBC.md "wikilink") | [我的ID是江南美人](https://zh.wikipedia.org/wiki/我的ID是江南美人 "wikilink") | 第4、6集特別出演 |
+|                       |                                    |                                              |           |
+| --------------------- | ---------------------------------- | -------------------------------------------- | --------- |
+| 日期                    | 播放頻道                               | 節目名稱                                         | 備註        |
+| 2018年7月27日－2018年9月15日 | [JTBC](../Page/JTBC.md "wikilink") | [我的ID是江南美人](../Page/我的ID是江南美人.md "wikilink") | 第4、6集特別出演 |
 
 ## 獎項
 

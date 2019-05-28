@@ -120,7 +120,7 @@
 </tr>
 <tr class="even">
 <td><p>2011</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陰兒房" title="wikilink">陰兒房</a></p></td>
+<td><p><a href="../Page/陰兒房.md" title="wikilink">陰兒房</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -145,7 +145,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奪命潘朵拉" title="wikilink">奪命潘朵拉</a></p></td>
+<td><p><a href="../Page/奪命潘朵拉.md" title="wikilink">奪命潘朵拉</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -395,7 +395,7 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td><p>[67]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/KARAKARA" title="wikilink">KARAKARA</a></p></td>
+<td><p><a href="../Page/KARAKARA.md" title="wikilink">KARAKARA</a></p></td>
 <td><p>calme</p></td>
 <td></td>
 <td><p>[68]</p></td>
@@ -503,7 +503,7 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/貓忍之心" title="wikilink">貓忍之心</a></p></td>
+<td><p><a href="../Page/貓忍之心.md" title="wikilink">貓忍之心</a></p></td>
 <td><p><a href="../Page/Whirlpool.md" title="wikilink">Whirlpool</a></p></td>
 <td><p>2017年4月21日</p></td>
 <td></td>
@@ -539,19 +539,19 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/貓忍之心" title="wikilink">貓忍之心+PLUS 奈知篇</a></p></td>
+<td><p><a href="../Page/貓忍之心.md" title="wikilink">貓忍之心+PLUS 奈知篇</a></p></td>
 <td><p><a href="../Page/Whirlpool.md" title="wikilink">Whirlpool</a></p></td>
 <td><p>2017年11月2日</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/KARAKARA" title="wikilink">KARAKARA2</a></p></td>
+<td><p><a href="../Page/KARAKARA.md" title="wikilink">KARAKARA2</a></p></td>
 <td><p>calme</p></td>
 <td><p>2017年11月10日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/貓忍之心" title="wikilink">貓忍之心+PLUS 彩羽篇</a></p></td>
+<td><p><a href="../Page/貓忍之心.md" title="wikilink">貓忍之心+PLUS 彩羽篇</a></p></td>
 <td><p>Whirlpool</p></td>
 <td><p>2017年11月17日</p></td>
 <td></td>
@@ -563,7 +563,7 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/貓忍之心" title="wikilink">貓忍之心2</a></p></td>
+<td><p><a href="../Page/貓忍之心.md" title="wikilink">貓忍之心2</a></p></td>
 <td><p>Whirlpool</p></td>
 <td><p>2018年4月27日</p></td>
 <td></td>
@@ -575,7 +575,7 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/愛上火車" title="wikilink">愛上火車</a></p></td>
+<td><p><a href="../Page/愛上火車.md" title="wikilink">愛上火車</a></p></td>
 <td><p>Lose</p></td>
 <td><p>2018年6月29日</p></td>
 <td></td>

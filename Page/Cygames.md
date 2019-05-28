@@ -10,7 +10,7 @@
   - 2012年11月 - DeNA出资74亿收购Cygames 24%股份\[3\]。
   - 2013年1月 - Cygames开发的游戏用户数突破2000万人。
   - 2014年10月 -
-    公司开发的社交游戏《巴哈姆特之怒》改编的动画开始播放，并担当唯一投资方（动画制作是[MAPPA](https://zh.wikipedia.org/wiki/MAPPA "wikilink")）。
+    公司开发的社交游戏《巴哈姆特之怒》改编的动画开始播放，并担当唯一投资方（动画制作是[MAPPA](../Page/MAPPA.md "wikilink")）。
   - 2015年3月 -
     成立動畫事業部，希望不只負責企畫跟製作，而是動畫本身都可以由內部自行製作。與遊戲一樣，目標都是要創造出「自家的作品」。
   - 2015年4月 -
@@ -41,7 +41,7 @@ Store和Google Play发布。
   - 2012年4月 - [Battle Spirits](../Page/Battle_Spirits.md "wikilink")
     霸者的咆哮 (与万代南梦宫娱乐共同开发，2013年1月的运营结束）
   - 2012年6月 -
-    [SEGA創造球會](https://zh.wikipedia.org/wiki/SEGA創造球會 "wikilink")（与[世嘉共同开发](../Page/世嘉.md "wikilink")，2013年7月的运营结束）
+    [SEGA創造球會](../Page/SEGA創造球會.md "wikilink")（与[世嘉共同开发](../Page/世嘉.md "wikilink")，2013年7月的运营结束）
   - 2012年7月 - [烈火之炎](https://zh.wikipedia.org/wiki/烈火之炎 "wikilink")
     BURNING
     EVOLUTION（与[小學館共同开发](../Page/小學館.md "wikilink")，到2013年4月运营结束）
@@ -71,11 +71,11 @@ Store和Google Play发布。
   - 2015年9月 -
     （与[竹書房共同开发](../Page/竹書房.md "wikilink")，首款[麻将游戏](https://zh.wikipedia.org/wiki/麻将游戏 "wikilink")）
   - 2016年6月 -
-    [闇影詩章](https://zh.wikipedia.org/wiki/闇影詩章 "wikilink")（同年8月在[DMM](../Page/DMM.com.md "wikilink")
+    [闇影詩章](../Page/闇影詩章.md "wikilink")（同年8月在[DMM](../Page/DMM.com.md "wikilink")
     GAMES（PC）、同年10月在[Steam平台发行](../Page/Steam.md "wikilink")\[12\]）
   - 2018年2月 - [超異域公主連結 Re:Dive](../Page/超異域公主連結_Re:Dive.md "wikilink")
   - 2018年9月 - [Dragalia Lost
-    ～失落的龍絆～](https://zh.wikipedia.org/wiki/Dragalia_Lost_～失落的龍絆～ "wikilink")（与任天堂共同开发）
+    ～失落的龍絆～](../Page/Dragalia_Lost_～失落的龍絆～.md "wikilink")（与任天堂共同开发）
   - 預定2019年夏季 - [賽馬娘Pretty
     Derby](https://zh.wikipedia.org/wiki/賽馬娘Pretty_Derby "wikilink")（首款育成遊戲，且在android及ios平台同步發行）
 
@@ -91,23 +91,23 @@ Store和Google Play发布。
   - 預定2019年 - （由[Arc System
     Works開發](../Page/Arc_System_Works.md "wikilink")）
   - 未定 -
-    [碧藍幻想Relink](https://zh.wikipedia.org/wiki/碧藍幻想Relink "wikilink")（原與[白金工作室合作開發](../Page/白金工作室.md "wikilink")，後改由大阪Cygames獨立開發）
+    [碧藍幻想Relink](../Page/碧藍幻想Relink.md "wikilink")（原與[白金工作室合作開發](../Page/白金工作室.md "wikilink")，後改由大阪Cygames獨立開發）
   - 未定 - Project Awakening
 
 ## 動畫製作
 
   - 2014年10月：《[巴哈姆特之怒
-    GENESIS](https://zh.wikipedia.org/wiki/巴哈姆特之怒#巴哈姆特之怒_GENESIS "wikilink")》（由[MAPPA制作](https://zh.wikipedia.org/wiki/MAPPA "wikilink")）
+    GENESIS](https://zh.wikipedia.org/wiki/巴哈姆特之怒#巴哈姆特之怒_GENESIS "wikilink")》（由[MAPPA制作](../Page/MAPPA.md "wikilink")）
   - 2015年1月：《[偶像大師
     灰姑娘女孩](../Page/偶像大師_灰姑娘女孩_\(動畫\).md "wikilink")》（制作協力，由[A-1
     Pictures制作](../Page/A-1_Pictures.md "wikilink")）
   - 2017年4月：《[碧藍幻想](../Page/碧藍幻想.md "wikilink")》（與[Aniplex](../Page/Aniplex.md "wikilink")、[A-1
     Pictures共同制作](../Page/A-1_Pictures.md "wikilink")）、《[巴哈姆特之怒 VIRGIN
-    SOUL](https://zh.wikipedia.org/wiki/巴哈姆特之怒#巴哈姆特之怒_VIRGIN_SOULS "wikilink")》（由[MAPPA制作](https://zh.wikipedia.org/wiki/MAPPA "wikilink")）
+    SOUL](https://zh.wikipedia.org/wiki/巴哈姆特之怒#巴哈姆特之怒_VIRGIN_SOULS "wikilink")》（由[MAPPA制作](../Page/MAPPA.md "wikilink")）
   - 2018年4月：《[賽馬娘Pretty
     Derby](https://zh.wikipedia.org/wiki/賽馬娘Pretty_Derby "wikilink")》（由[P.A.WORKS制作](https://zh.wikipedia.org/wiki/P.A.WORKS "wikilink")）
   - 2018年10月：《[佐賀偶像是傳奇](../Page/佐賀偶像是傳奇.md "wikilink")》（與[avex
-    pictures](https://zh.wikipedia.org/wiki/avex_pictures "wikilink")、[MAPPA共同制作](https://zh.wikipedia.org/wiki/MAPPA "wikilink")）
+    pictures](https://zh.wikipedia.org/wiki/avex_pictures "wikilink")、[MAPPA共同制作](../Page/MAPPA.md "wikilink")）
   - 2019年1月：《[巴哈姆特之怒 Manaria
     Friends](https://zh.wikipedia.org/wiki/巴哈姆特之怒_Manaria_Friends "wikilink")》（原定由[雲雀工作室制作並於](../Page/雲雀工作室.md "wikilink")2016年4月放送，後延期並改由[CygamesPictures製作](../Page/CygamesPictures.md "wikilink")）
 

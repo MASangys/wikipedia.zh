@@ -95,7 +95,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》的特�
 [田中一成](../Page/田中一成.md "wikilink")
 藤本隆巨集
 荒井聰太 |- | '''村人 | [藤井幸代](../Page/藤井幸代.md "wikilink")
-[照井春佳](https://zh.wikipedia.org/wiki/照井春佳 "wikilink")
+[照井春佳](../Page/照井春佳.md "wikilink")
 南山裕希
 渡邊未來
 |- | '''村人 | [神兒遊助](../Page/上地雄輔.md "wikilink")

@@ -30,7 +30,7 @@ Messaging](https://zh.wikipedia.org/wiki/Off-the-Record_Messaging "wikilink")、
 
   - [Tor Browser](../Page/Tor.md "wikilink")
     是一个基于[火狐进行改造以保护匿名性的Web浏览器](https://zh.wikipedia.org/wiki/火狐 "wikilink")，其含有的Torbutton用来保持匿名和对抗[JavaScript](../Page/JavaScript.md "wikilink")，默认使所有的cookies被欺骗为临时cookies；[HTTPS
-    Everywhere](https://zh.wikipedia.org/wiki/HTTPS_Everywhere "wikilink")
+    Everywhere](../Page/HTTPS_Everywhere.md "wikilink")
     用来启用针对于大部分网站的[Transport Layer
     Security](https://zh.wikipedia.org/wiki/Transport_Layer_Security "wikilink")，并通过[NoScript来限制JavaScript](../Page/NoScript.md "wikilink")，[Adblock
     Plus用来移除广告](../Page/Adblock_Plus.md "wikilink")

@@ -1,6 +1,6 @@
 **Owlchemy
 Labs**是一家位于[德克萨斯州](../Page/德克萨斯州.md "wikilink")[奧斯汀的](../Page/奧斯汀.md "wikilink")[電子遊戲開發商](https://zh.wikipedia.org/wiki/電子遊戲開發商 "wikilink")。[伍斯特理工学院毕业的亞歷克斯](../Page/伍斯特理工学院.md "wikilink")·施瓦茨（Alex
-Schwartz）于2010年创立了公司\[1\]。一款名为《[工作模拟器](../Page/工作模拟器.md "wikilink")》的[虚拟现实电子游戏为他们最知名的产品之一](../Page/虚拟现实.md "wikilink")。目前他们开发的最新游戏为《[瑞克和莫蒂：虛擬瑞境](https://zh.wikipedia.org/wiki/瑞克和莫蒂：虛擬瑞境 "wikilink")》。2017年5月，Google已购得了此工作室\[2\]\[3\]。
+Schwartz）于2010年创立了公司\[1\]。一款名为《[工作模拟器](../Page/工作模拟器.md "wikilink")》的[虚拟现实电子游戏为他们最知名的产品之一](../Page/虚拟现实.md "wikilink")。目前他们开发的最新游戏为《[瑞克和莫蒂：虛擬瑞境](../Page/瑞克和莫蒂：虛擬瑞境.md "wikilink")》。2017年5月，Google已购得了此工作室\[2\]\[3\]。
 
 ## 开发的游戏
 
@@ -15,8 +15,8 @@ Schwartz）于2010年创立了公司\[1\]。一款名为《[工作模拟器](../
   - 《》 – Windows、macOS、Linux（2015）
   - 《[工作模拟器](../Page/工作模拟器.md "wikilink")》– Windows、[PlayStation
     4](../Page/PlayStation_4.md "wikilink")（2016）
-  - 《[瑞克和莫蒂：虛擬瑞境](https://zh.wikipedia.org/wiki/瑞克和莫蒂：虛擬瑞境 "wikilink")》
-    – Windows（[HTC Vive](../Page/HTC_Vive.md "wikilink")、[Oculus
+  - 《[瑞克和莫蒂：虛擬瑞境](../Page/瑞克和莫蒂：虛擬瑞境.md "wikilink")》 – Windows（[HTC
+    Vive](../Page/HTC_Vive.md "wikilink")、[Oculus
     Rift](../Page/Oculus_Rift.md "wikilink")）、[PlayStation
     VR](../Page/PlayStation_VR.md "wikilink")（2017）
   - 《[度假模拟器](https://zh.wikipedia.org/wiki/度假模拟器 "wikilink")》 –

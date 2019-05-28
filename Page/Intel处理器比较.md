@@ -395,11 +395,9 @@ Core i3、i7等目前提供超线程技术。
 
       - [Intel Core 2處理器列表](../Page/Intel_Core_2處理器列表.md "wikilink")
 
-      - [Intel Core
-        i3處理器列表](https://zh.wikipedia.org/wiki/Intel_Core_i3處理器列表 "wikilink")
+      - [Intel Core i3處理器列表](../Page/Intel_Core_i3處理器列表.md "wikilink")
 
-      - [Intel Core
-        i5處理器列表](https://zh.wikipedia.org/wiki/Intel_Core_i5處理器列表 "wikilink")
+      - [Intel Core i5處理器列表](../Page/Intel_Core_i5處理器列表.md "wikilink")
 
       - [Intel Core i7處理器列表](../Page/Intel_Core_i7處理器列表.md "wikilink")
 

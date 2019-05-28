@@ -41,7 +41,7 @@ Dig.</a><br />
 <li></li>
 </ul>
 <p></ref></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/官方榜单公司" title="wikilink">UK</a><br />
+<td><p><a href="../Page/官方榜单公司.md" title="wikilink">UK</a><br />
 <ref>官方榜單公司百大專輯下載排行榜：</p>
 <ul>
 <li></li>
@@ -57,7 +57,7 @@ Dig.</a><br />
 </tr>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NCT_2018_Empathy" title="wikilink">NCT 2018 Empathy</a></p></td>
+<td><p><a href="../Page/NCT_2018_Empathy.md" title="wikilink">NCT 2018 Empathy</a></p></td>
 <td><ul>
 <li>發行日期：2018年3月14日</li>
 <li>廠牌：<a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a>、</li>
@@ -251,7 +251,7 @@ Repackage</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/NCT_＃127_Cherry_Bomb" title="wikilink">NCT #127 Cherry Bomb</a></p></td>
 <td><ul>
 <li>發行日期：2017年6月14日</li>
-<li>廠牌：SM娛樂、<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie音樂</a></li>
+<li>廠牌：SM娛樂、<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a></li>
 <li>格式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>2</p></td>
@@ -261,7 +261,7 @@ Repackage</p></td>
 <td><p>Up Next Session: NCT 127</p></td>
 <td><ul>
 <li>發行日期：2018年10月22日</li>
-<li>廠牌：SM娛樂、<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie音樂</a></li>
+<li>廠牌：SM娛樂、<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a></li>
 <li>格式：數位音樂下載</li>
 </ul></td>
 <td></td>
@@ -630,7 +630,7 @@ Inlayer</small></p></td>
 <td><p><small><a href="../Page/藝聲.md" title="wikilink">藝聲</a>（<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/珊妮" title="wikilink">珊妮</a>（<a href="../Page/少女时代.md" title="wikilink">少女时代</a>）<br />
 <a href="../Page/朴善英.md" title="wikilink">Luna</a>（<a href="../Page/F(x)_(組合).md" title="wikilink">f(x)</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">Seulgi</a>（<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>）<br />
+<a href="../Page/瑟琪.md" title="wikilink">Seulgi</a>（<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）<br />
 <a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>（Red Velvet）</small></p></td>
 <td></td>
 </tr>
@@ -660,7 +660,7 @@ Inlayer</small></p></td>
 <td><p>Young &amp; Free</p></td>
 <td><p>7月7日</p></td>
 <td><p>Mark</p></td>
-<td><p><small><a href="https://zh.wikipedia.org/wiki/Xiumin" title="wikilink">Xiumin</a> ( <a href="../Page/EXO.md" title="wikilink">EXO</a> )</small></p></td>
+<td><p><small><a href="../Page/Xiumin.md" title="wikilink">Xiumin</a> ( <a href="../Page/EXO.md" title="wikilink">EXO</a> )</small></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -789,7 +789,7 @@ Inlayer</small></p></td>
 <td><p>KBS</p></td>
 <td><p>Stay In My Life</p></td>
 <td><p>泰一、泰容、道英</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/學校2017" title="wikilink">學校2017</a> OST Part 4》</p>
+<td><p>《<a href="../Page/學校2017.md" title="wikilink">學校2017</a> OST Part 4》</p>
 <ul>
 <li>發行日期：2017年8月7日</li>
 </ul></td>
@@ -798,7 +798,7 @@ Inlayer</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS_2TV" title="wikilink">KBS 2TV</a></p></td>
 <td><p>Radio Romance</p></td>
 <td><p>泰一、道英</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Radio_Romance" title="wikilink">Radio Romance</a> OST Part 1》</p>
+<td><p>《<a href="../Page/Radio_Romance.md" title="wikilink">Radio Romance</a> OST Part 1》</p>
 <ul>
 <li>發行日期：2018年1月30日</li>
 </ul></td>
@@ -808,7 +808,7 @@ Inlayer</small></p></td>
 Drama X</p></td>
 <td><p>Hard for me</p></td>
 <td><p>道英</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Rich_Man" title="wikilink">Rich Man</a> OST Part 5》</p>
+<td><p>《<a href="../Page/Rich_Man.md" title="wikilink">Rich Man</a> OST Part 5》</p>
 <ul>
 <li>發行日期：2018年6月9日</li>
 </ul></td>
@@ -844,7 +844,7 @@ Drama X</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
 <td><p>造億萬噸光芒</p></td>
 <td><p>Lucas （與<a href="https://zh.wikipedia.org/wiki/李晨" title="wikilink">李晨</a>、<a href="https://zh.wikipedia.org/wiki/楊穎" title="wikilink">楊穎</a>、<a href="https://zh.wikipedia.org/wiki/鄭愷" title="wikilink">鄭愷</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/朱亞文" title="wikilink">朱亞文</a>、<a href="https://zh.wikipedia.org/wiki/王彥霖" title="wikilink">王彥霖</a>、<a href="https://zh.wikipedia.org/wiki/宋雨琦" title="wikilink">宋雨琦</a>）</p></td>
+<a href="https://zh.wikipedia.org/wiki/朱亞文" title="wikilink">朱亞文</a>、<a href="https://zh.wikipedia.org/wiki/王彥霖" title="wikilink">王彥霖</a>、<a href="../Page/宋雨琦.md" title="wikilink">宋雨琦</a>）</p></td>
 <td><p>《<a href="../Page/奔跑吧.md" title="wikilink">奔跑吧3</a> 主題曲》</p>
 <ul>
 <li>發行日期：2019年4月22日</li>
@@ -903,7 +903,7 @@ Drama X</p></td>
 </tr>
 <tr class="even">
 <td><p>Drop (두고가)<br />
-（<a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">瑟琪</a>）</p></td>
+（<a href="../Page/瑟琪.md" title="wikilink">瑟琪</a>）</p></td>
 <td><p>2017年</p></td>
 <td><p>51</p></td>
 <td><ul>

@@ -62,7 +62,7 @@ MOBB」\[5\]。
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/The_MOBB" title="wikilink">The MOBB</a></strong>》</p>
+<td><p>首張迷你專輯《<strong><a href="../Page/The_MOBB.md" title="wikilink">The MOBB</a></strong>》</p>
 <ul>
 <li>發行日期：2016年9月9日</li>
 <li>語言：韓語</li>

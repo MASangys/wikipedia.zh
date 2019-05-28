@@ -10,7 +10,7 @@ grand系列**是由[三星Galaxy系列分拆成的中低端](https://zh.wikipedi
   - [三星Galaxy Grand
     Prime](https://zh.wikipedia.org/wiki/三星Galaxy_Grand_Prime "wikilink")\[2\]
   - [三星Galaxy Grand Prime Plus/J2
-    Prime](https://zh.wikipedia.org/wiki/三星Galaxy_J2_Prime "wikilink")\[3\]
+    Prime](../Page/三星Galaxy_J2_Prime.md "wikilink")\[3\]
   - [三星Galaxy Grand
     2](https://zh.wikipedia.org/wiki/三星Galaxy_Grand_2 "wikilink")\[4\]
   - [三星Galaxy Grand

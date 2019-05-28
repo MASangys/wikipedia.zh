@@ -2056,7 +2056,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Cartoon_Network:_Punch_Time_Explosion" title="wikilink">Cartoon Network: Punch Time Explosion</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Papaya_Studio" title="wikilink">Papaya Studio</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Crave_Entertainment" title="wikilink">Crave Entertainment</a> <sup><a href="https://zh.wikipedia.org/wiki/United_States" title="wikilink">US</a></sup>, <a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a> <sup><a href="https://zh.wikipedia.org/wiki/United_Kingdom" title="wikilink">UK</a></sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Crave_Entertainment" title="wikilink">Crave Entertainment</a> <sup><a href="https://zh.wikipedia.org/wiki/United_States" title="wikilink">US</a></sup>, <a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a> <sup><a href="https://zh.wikipedia.org/wiki/United_Kingdom" title="wikilink">UK</a></sup></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2152,7 +2152,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/騎士精神：中世紀戰爭" title="wikilink">騎士精神：中世紀戰爭</a></p></td>
+<td><p><a href="../Page/騎士精神：中世紀戰爭.md" title="wikilink">騎士精神：中世紀戰爭</a></p></td>
 <td><p><em>Chivalry: Medieval Warfare</em></p></td>
 <td><p>Torn Banner Studios</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Activision" title="wikilink">Activision</a></p></td>
@@ -2826,7 +2826,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Dead_Island" title="wikilink">Dead Island</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Techland" title="wikilink">Techland</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2837,7 +2837,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Dead_Island:_Riptide" title="wikilink">Dead Island: Riptide</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Techland" title="wikilink">Techland</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2847,7 +2847,7 @@
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Dead_or_Alive_4" title="wikilink">Dead or Alive 4</a></em>[16]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Tecmo" title="wikilink">Tecmo</a></p></td>
 <td></td>
 <td></td>
@@ -2858,7 +2858,7 @@
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Dead_or_Alive_5" title="wikilink">Dead or Alive 5</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Tecmo_Koei" title="wikilink">Tecmo Koei</a></p></td>
 <td></td>
 <td></td>
@@ -2869,7 +2869,7 @@
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Dead_or_Alive_Xtreme_2" title="wikilink">Dead or Alive Xtreme 2</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Tecmo" title="wikilink">Tecmo</a></p></td>
 <td></td>
 <td></td>
@@ -3860,7 +3860,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Escape_Dead_Island" title="wikilink">Escape Dead Island</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Fatshark" title="wikilink">Fatshark</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4319,7 +4319,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/FIFA_15" title="wikilink">FIFA 15</a></p></td>
+<td><p><a href="../Page/FIFA_15.md" title="wikilink">FIFA 15</a></p></td>
 <td><p><em>FIFA 15</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td><p><a href="../Page/EA_Sports.md" title="wikilink">EA Sports</a></p></td>
@@ -4575,7 +4575,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Fracture_(video_game)" title="wikilink">Fracture</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Day_1_Studios" title="wikilink">Day 1 Studios</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4629,7 +4629,7 @@
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Fuse_(video_game)" title="wikilink">Fuse</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Insomniac_Games" title="wikilink">Insomniac Games</a></p></td>
+<td><p><a href="../Page/Insomniac_Games.md" title="wikilink">Insomniac Games</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Electronic_Arts" title="wikilink">Electronic Arts</a></p></td>
 <td></td>
 <td></td>
@@ -5895,7 +5895,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Killer_is_Dead" title="wikilink">Killer is Dead</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Grasshopper_Manufacture" title="wikilink">Grasshopper Manufacture</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Xseed_Games" title="wikilink">Xseed Games</a><sup><a href="https://zh.wikipedia.org/wiki/North_America" title="wikilink">NA</a></sup>, <a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a><sup><a href="https://zh.wikipedia.org/wiki/PAL_region" title="wikilink">PAL</a><a href="https://zh.wikipedia.org/wiki/Europe" title="wikilink">EU</a></sup>, <a href="https://zh.wikipedia.org/wiki/Kadokawa_Shoten" title="wikilink">Kadokawa Games</a><sup><a href="https://zh.wikipedia.org/wiki/Japan" title="wikilink">JP</a></sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Xseed_Games" title="wikilink">Xseed Games</a><sup><a href="https://zh.wikipedia.org/wiki/North_America" title="wikilink">NA</a></sup>, <a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a><sup><a href="https://zh.wikipedia.org/wiki/PAL_region" title="wikilink">PAL</a><a href="https://zh.wikipedia.org/wiki/Europe" title="wikilink">EU</a></sup>, <a href="https://zh.wikipedia.org/wiki/Kadokawa_Shoten" title="wikilink">Kadokawa Games</a><sup><a href="https://zh.wikipedia.org/wiki/Japan" title="wikilink">JP</a></sup></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6148,7 +6148,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Indiana_Jones:_The_Original_Adventures" title="wikilink">LEGO Indiana Jones: The Original Adventures</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6159,7 +6159,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Indiana_Jones_2:_The_Adventure_Continues" title="wikilink">LEGO Indiana Jones 2: The Adventure Continues</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6225,7 +6225,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Star_Wars_II:_The_Original_Trilogy" title="wikilink">LEGO Star Wars II: The Original Trilogy</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6236,7 +6236,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Star_Wars_III:_The_Clone_Wars" title="wikilink">LEGO Star Wars III: The Clone Wars</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -6247,7 +6247,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Lego_Star_Wars:_The_Complete_Saga" title="wikilink">LEGO Star Wars: The Complete Saga</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7105,7 +7105,7 @@
 <td><p><a href="../Page/地鐵：最後的曙光.md" title="wikilink">地鐵：最後的曙光</a></p></td>
 <td><p><em>Metro: Last Light</em></p></td>
 <td><p><a href="../Page/4A_Games.md" title="wikilink">4A Games</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7148,7 +7148,7 @@
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Midnight_Club:_Los_Angeles" title="wikilink">Midnight Club: Los Angeles</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rockstar_San_Diego" title="wikilink">Rockstar San Diego</a></p></td>
+<td><p><a href="../Page/Rockstar_San_Diego.md" title="wikilink">Rockstar San Diego</a></p></td>
 <td><p><a href="../Page/Rockstar_Games.md" title="wikilink">Rockstar Games</a></p></td>
 <td></td>
 <td></td>
@@ -7400,7 +7400,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/死案：靈魂追兇" title="wikilink">死案：靈魂追兇</a></em></p></td>
+<td><p><em><a href="../Page/死案：靈魂追兇.md" title="wikilink">死案：靈魂追兇</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Airtight_Games" title="wikilink">Airtight Games</a>,</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Square_Enix" title="wikilink">Square Enix</a></p></td>
 <td></td>
@@ -7534,7 +7534,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/nail&#39;d" title="wikilink">nail'd</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Techland" title="wikilink">Techland</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -7752,7 +7752,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/NBA_2K10" title="wikilink">NBA 2K10</a></em></p></td>
+<td><p><em><a href="../Page/NBA_2K10.md" title="wikilink">NBA 2K10</a></em></p></td>
 <td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
 <td><p><a href="../Page/2K_Sports.md" title="wikilink">2K Sports</a></p></td>
 <td></td>
@@ -7763,7 +7763,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/NBA_2K11" title="wikilink">NBA 2K11</a></em></p></td>
+<td><p><em><a href="../Page/NBA_2K11.md" title="wikilink">NBA 2K11</a></em></p></td>
 <td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
 <td><p><a href="../Page/2K_Sports.md" title="wikilink">2K Sports</a></p></td>
 <td></td>
@@ -8214,7 +8214,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/NHL_11" title="wikilink">NHL 11</a></em></p></td>
+<td><p><em><a href="../Page/NHL_11.md" title="wikilink">NHL 11</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EA_Canada" title="wikilink">EA Canada</a></p></td>
 <td><p><a href="../Page/EA_Sports.md" title="wikilink">EA Sports</a></p></td>
 <td></td>
@@ -8269,7 +8269,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/NHL_2K7" title="wikilink">NHL 2K7</a></em></p></td>
+<td><p><em><a href="../Page/NHL_2K7.md" title="wikilink">NHL 2K7</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Kush_Games" title="wikilink">Kush Games</a></p></td>
 <td><p><a href="../Page/2K_Sports.md" title="wikilink">2K Sports</a></p></td>
 <td></td>
@@ -8347,7 +8347,7 @@
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Ninja_Gaiden_II_(2008_video_game)" title="wikilink">Ninja Gaiden II</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Studios" title="wikilink">Microsoft Game Studios</a></p></td>
 <td></td>
 <td></td>
@@ -8358,7 +8358,7 @@
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Ninja_Gaiden_3" title="wikilink">Ninja Gaiden 3</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Tecmo_Koei" title="wikilink">Tecmo Koei</a></p></td>
 <td></td>
 <td></td>
@@ -8369,7 +8369,7 @@
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Ninja_Gaiden_3:_Razor&#39;s_Edge" title="wikilink">Ninja Gaiden 3: Razor's Edge</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Tecmo" title="wikilink">Tecmo</a></p></td>
 <td></td>
 <td></td>
@@ -8598,7 +8598,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/劫薪日2" title="wikilink">劫薪日2</a></p></td>
+<td><p><a href="../Page/劫薪日2.md" title="wikilink">劫薪日2</a></p></td>
 <td><p><em>Payday 2</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Overkill_Software" title="wikilink">Overkill Software</a>, <a href="https://zh.wikipedia.org/wiki/Starbreeze_Studios" title="wikilink">Starbreeze Studios</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/505_Games" title="wikilink">505 Games</a></p></td>
@@ -8898,7 +8898,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Prison_Break:_The_Conspiracy" title="wikilink">Prison Break: The Conspiracy</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ZootFly" title="wikilink">ZootFly</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9326,7 +9326,7 @@
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Red_Dead_Redemption" title="wikilink">Red Dead Redemption</a></em>[81]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rockstar_San_Diego" title="wikilink">Rockstar San Diego</a></p></td>
+<td><p><a href="../Page/Rockstar_San_Diego.md" title="wikilink">Rockstar San Diego</a></p></td>
 <td><p><a href="../Page/Rockstar_Games.md" title="wikilink">Rockstar Games</a></p></td>
 <td></td>
 <td></td>
@@ -9337,7 +9337,7 @@
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Red_Dead_Redemption:_Undead_Nightmare" title="wikilink">Red Dead Redemption: Undead Nightmare</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rockstar_San_Diego" title="wikilink">Rockstar San Diego</a></p></td>
+<td><p><a href="../Page/Rockstar_San_Diego.md" title="wikilink">Rockstar San Diego</a></p></td>
 <td><p><a href="../Page/Rockstar_Games.md" title="wikilink">Rockstar Games</a></p></td>
 <td></td>
 <td></td>
@@ -9492,7 +9492,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Ride_to_Hell:_Retribution" title="wikilink">Ride to Hell: Retribution</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Eutechnyx" title="wikilink">Eutechnyx</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9568,8 +9568,8 @@
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Risen_(video_game)" title="wikilink">Risen</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Piranha_Bytes" title="wikilink">Piranha Bytes</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Piranha_Bytes.md" title="wikilink">Piranha Bytes</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9579,8 +9579,8 @@
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Risen_2:_Dark_Waters" title="wikilink">Risen 2: Dark Waters</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Piranha_Bytes" title="wikilink">Piranha Bytes</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Piranha_Bytes.md" title="wikilink">Piranha Bytes</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9590,8 +9590,8 @@
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Risen_3:_Titan_Lords" title="wikilink">Risen 3: Titan Lords</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Piranha_Bytes" title="wikilink">Piranha Bytes</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Piranha_Bytes.md" title="wikilink">Piranha Bytes</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9733,7 +9733,7 @@
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Rockstar_Games_presents_Table_Tennis" title="wikilink">Rockstar Games presents Table Tennis</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rockstar_San_Diego" title="wikilink">Rockstar San Diego</a></p></td>
+<td><p><a href="../Page/Rockstar_San_Diego.md" title="wikilink">Rockstar San Diego</a></p></td>
 <td><p><a href="../Page/Rockstar_Games.md" title="wikilink">Rockstar Games</a></p></td>
 <td></td>
 <td></td>
@@ -9811,7 +9811,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Sacred_3" title="wikilink">Sacred 3</a></em></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9844,7 +9844,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Saints_Row_IV" title="wikilink">Saints Row IV</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Volition,_Inc." title="wikilink">Volition, Inc.</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -9855,7 +9855,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Saints_Row:_Gat_out_of_Hell" title="wikilink">Saints Row: Gat out of Hell</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Volition,_Inc." title="wikilink">Volition, Inc.</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10735,7 +10735,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_The_Clone_Wars_–_Republic_Heroes" title="wikilink">Star Wars: The Clone Wars – Republic Heroes</a></em></p></td>
 <td><p><a href="../Page/Krome_Studios.md" title="wikilink">Krome Studios</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10745,8 +10745,8 @@
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_The_Force_Unleashed" title="wikilink">Star Wars: The Force Unleashed</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -10756,8 +10756,8 @@
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_The_Force_Unleashed_II" title="wikilink">Star Wars: The Force Unleashed II</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11197,7 +11197,7 @@
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Thrillville:_Off_the_Rails" title="wikilink">Thrillville: Off the Rails</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Frontier_Developments" title="wikilink">Frontier Developments</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -11821,7 +11821,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/海岛大亨5" title="wikilink">海岛大亨5</a></p></td>
+<td><p><a href="../Page/海岛大亨5.md" title="wikilink">海岛大亨5</a></p></td>
 <td><p>Tropico 5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Haemimont_Games" title="wikilink">Haemimont Games</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Kalypso_Media" title="wikilink">Kalypso Media</a>, <a href="https://zh.wikipedia.org/wiki/FX_Interactive" title="wikilink">FX Interactive</a> <sup>(<a href="https://zh.wikipedia.org/wiki/Italy" title="wikilink">IT</a> and <a href="https://zh.wikipedia.org/wiki/Spain" title="wikilink">ES</a>)</sup></p></td>
@@ -12736,7 +12736,7 @@
 <tr class="odd">
 <td></td>
 <td><p><span id="Y"></span><em><a href="https://zh.wikipedia.org/wiki/Yaiba:_Ninja_Gaiden_Z" title="wikilink">Yaiba: Ninja Gaiden Z</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a>, <a href="https://zh.wikipedia.org/wiki/Spark_Unlimited" title="wikilink">Spark Unlimited</a>, <a href="https://zh.wikipedia.org/wiki/Comcept" title="wikilink">Comcept</a></p></td>
+<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a>, <a href="https://zh.wikipedia.org/wiki/Spark_Unlimited" title="wikilink">Spark Unlimited</a>, <a href="https://zh.wikipedia.org/wiki/Comcept" title="wikilink">Comcept</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Tecmo_Koei" title="wikilink">Tecmo Koei</a></p></td>
 <td></td>
 <td></td>

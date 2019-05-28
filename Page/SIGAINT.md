@@ -5,7 +5,7 @@ Service](../Page/Tor.md "wikilink")｣裡面的一家[電子郵件服務業者](
 ## 使用方法
 
 使用者必須使用 [Tor 瀏覽器](../Page/Tor.md "wikilink")
-進入暗網才能註冊帳號，網址是sigaintevyh2rzvw.onion（注意！以此sigaint或以他的onion網址為關鍵字並使用[搜尋引擎例如Google](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")、Bing找到的網站，除了sigaint.org之外，都是冒充！假冒網站的網址後面還會有像是
+進入暗網才能註冊帳號，網址是sigaintevyh2rzvw.onion（注意！以此sigaint或以他的onion網址為關鍵字並使用[搜尋引擎例如Google](../Page/搜索引擎.md "wikilink")、Bing找到的網站，除了sigaint.org之外，都是冒充！假冒網站的網址後面還會有像是
 .link, .cab, .city之類的[域名](../Page/域名.md "wikilink")，他們企圖騙取使用者的帳號密碼）。
 
 註冊後，SIGAINT同時提供暗網和明網（一般的[網際網路](../Page/互联网.md "wikilink")）

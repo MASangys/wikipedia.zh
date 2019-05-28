@@ -5,7 +5,7 @@ Album**》是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[男
 
 甫踏入2010年BIGBANG便回歸韓國，於1月29至31日一連三日在[首爾奧林匹克體操競技場舉行演唱會](../Page/首尔奥林匹克体操竞技场.md "wikilink")「[Big
 Show
-2010](https://zh.wikipedia.org/wiki/Big_Show_2010 "wikilink")」，合共動員5萬人。此次專輯收錄了〈〉、〈紅霞〉、〈[Gara
+2010](../Page/Big_Show_2010.md "wikilink")」，合共動員5萬人。此次專輯收錄了〈〉、〈紅霞〉、〈[Gara
 Gara
 GO\!\!](https://zh.wikipedia.org/wiki/Gara_Gara_GO!! "wikilink")〉及〈[讓我聽你的聲音](https://zh.wikipedia.org/wiki/讓我聽你的聲音 "wikilink")〉等BIGBANG國內外的熱門歌曲，另外也收錄了特別混音製作的全新版〈〉、〈Stylish（Perry
 Remix）〉以及[T.O.P的新曲](../Page/T.O.P..md "wikilink")〈Turn It Up〉等四首Bonus
@@ -44,8 +44,7 @@ Track，總21曲構成此張演唱會LIVE專輯。\[2\]
 
 ## 參見
 
-  - [Big Show
-    2010](https://zh.wikipedia.org/wiki/Big_Show_2010 "wikilink")
+  - [Big Show 2010](../Page/Big_Show_2010.md "wikilink")
 
 ## 參考文獻
 

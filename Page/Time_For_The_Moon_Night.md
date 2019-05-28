@@ -35,16 +35,15 @@ Night」具有「月夜的時間」、「賞月的時間」等意義，而[GFRIE
 ### 預告片公開
 
 4月24日，韓國時間凌晨0時公開專輯同名主打歌《[Time for the moon night
-(밤)](https://zh.wikipedia.org/wiki/Time_For_The_Moon_Night "wikilink")》的首波
-MV
-預告。在預告影片中，伴隨著專輯序幕曲《[DAYTIME](https://zh.wikipedia.org/wiki/Time_For_The_Moon_Night "wikilink")》的旋律，公開了[GFRIEND](../Page/GFRIEND.md "wikilink")
+(밤)](../Page/Time_For_The_Moon_Night.md "wikilink")》的首波 MV
+預告。在預告影片中，伴隨著專輯序幕曲《[DAYTIME](../Page/Time_For_The_Moon_Night.md "wikilink")》的旋律，公開了[GFRIEND](../Page/GFRIEND.md "wikilink")
 6位成員各自在一天的不同時間點的樣子。像是在夕陽西下時等待著某個人的[SinB](../Page/SinB.md "wikilink")、在藍天下玩著紙飛機的[Umji](../Page/Umji.md "wikilink")、抱著花瓶登山的[Yuju](../Page/Yuju.md "wikilink")、看著魚缸陷入思考的[Eunha](../Page/Eunha.md "wikilink")、獨自坐在房間裡的[Yerin](../Page/Yerin.md "wikilink")，以及以華麗的夜景為背景，露出哀傷眼神的[Sowon](../Page/Sowon.md "wikilink")。\[11\]
 
 4月27日，透過官方 YouTube 頻道公開音源試聽影片。公開的影片以許多未公開的概念照為背景，這次的專輯包含主打歌《[Time for
 the Moon Night
-(밤)](https://zh.wikipedia.org/wiki/Time_For_The_Moon_Night "wikilink")》在內，共收錄八首歌曲，《[Time
+(밤)](../Page/Time_For_The_Moon_Night.md "wikilink")》在內，共收錄八首歌曲，《[Time
 for the moon
-night](https://zh.wikipedia.org/wiki/Time_For_The_Moon_Night "wikilink")》歌詞講述讓女孩們充滿感性的夜晚，其他收錄曲也都各自有著不同的魅力。\[12\]
+night](../Page/Time_For_The_Moon_Night.md "wikilink")》歌詞講述讓女孩們充滿感性的夜晚，其他收錄曲也都各自有著不同的魅力。\[12\]
 
 4月29日，透過官方 YouTube 頻道公開第二波 MV
 預告。公開的影像中，[Eunha獨自走在荒涼的郊外](../Page/Eunha.md "wikilink")，一回頭就看到其他[GFRIEND成員露出微笑地看著她](../Page/GFRIEND.md "wikilink")，表達出比起自己一個，與朋友們在一起時更幸福的感情，而隨著節奏愈來愈快，可以看到[GFRIEND特有的編舞](../Page/GFRIEND.md "wikilink")，複雜的動作但卻十分整齊。\[13\]

@@ -12,9 +12,9 @@ Anemone**（，）是一家位於[日本](../Page/日本.md "wikilink")[東京�
 
   - [野川櫻](../Page/野川櫻.md "wikilink")
 
-  - [石黑千尋](https://zh.wikipedia.org/wiki/石黑千尋 "wikilink")
+  - [石黑千尋](../Page/石黑千尋.md "wikilink")
 
-  - [伏田里穗](https://zh.wikipedia.org/wiki/伏田里穗 "wikilink")
+  - [伏田里穗](../Page/伏田里穗.md "wikilink")
 
   -
   - 藤川茜

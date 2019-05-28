@@ -5,7 +5,7 @@ V20的後續機種](https://zh.wikipedia.org/wiki/LG_V20 "wikilink")，跟G系�
 [DAC](../Page/數位類比轉換器.md "wikilink")
 音質的大螢幕手機。V30對比上代V20，放棄右上輔助次螢幕，並把螢幕比例拉到18:9，尺寸提升到6吋，材質改為自家的[P-OLED](https://zh.wikipedia.org/wiki/OLED "wikilink")，增加了IP68防水防塵。並有儲存空間為128G的V30+，台灣引進為此版本，於2017年12月底上市\[2\]\[3\]。韓國團體[TWICE代言該手機](https://zh.wikipedia.org/wiki/TWICE "wikilink")\[4\]。同期最大的競爭對手為[三星Galaxy
 Note 8](../Page/三星Galaxy_Note_8.md "wikilink")、[Sony Xperia
-XZ1](https://zh.wikipedia.org/wiki/Sony_Xperia_XZ1 "wikilink")、[HTC
+XZ1](../Page/Sony_Xperia_XZ1.md "wikilink")、[HTC
 U11+](../Page/HTC_U11+.md "wikilink")、[Apple iPhone
 X](../Page/IPhone_X.md "wikilink")、[小米Mix2](../Page/小米MIX_2.md "wikilink")、[華碩Zenfone
 4

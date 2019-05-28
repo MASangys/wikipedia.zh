@@ -17,10 +17,8 @@ White”\[1\]，每个版本的曲目有所不同，初回限定版附赠三只�
 
 ### 通用歌曲
 
-  - [Shangri-La
-    Shower](https://zh.wikipedia.org/wiki/Shangri-La_Shower "wikilink")（游戏主题曲）
-  - [Wonderful
-    Rush](https://zh.wikipedia.org/wiki/Wonderful_Rush "wikilink")※
+  - [Shangri-La Shower](../Page/Shangri-La_Shower.md "wikilink")（游戏主题曲）
+  - [Wonderful Rush](../Page/Wonderful_Rush.md "wikilink")※
   - [我們活在當下](../Page/我們活在當下.md "wikilink")※
   - [No brand
     girls](https://zh.wikipedia.org/wiki/No_brand_girls "wikilink")※

@@ -105,9 +105,8 @@ Chaengwattana Hall 舉行當地的首場演唱會。
 11. [Big Wave](../Page/Big_Wave_\(專輯\).md "wikilink") /
     *[鎰勳](https://zh.wikipedia.org/wiki/鎰勳 "wikilink") Solo Stage ＊
     自作曲初公開舞台 ＊*
-12. [ALL DAY](https://zh.wikipedia.org/wiki/夏天的日記_\(單曲\) "wikilink")（KOR
-    ver.） / ''[旼赫](https://zh.wikipedia.org/wiki/旼赫 "wikilink") Solo
-    Stage
+12. [ALL DAY](../Page/夏天的日記_\(單曲\).md "wikilink")（KOR ver.） /
+    ''[旼赫](https://zh.wikipedia.org/wiki/旼赫 "wikilink") Solo Stage
 13. Imagine
 14. [如果下雨的話](../Page/如果下雨的話_\(BTOB－BLUE單曲\).md "wikilink") /
     *[BTOB－BLUE](../Page/BTOB－BLUE.md "wikilink")*

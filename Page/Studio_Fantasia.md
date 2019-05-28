@@ -61,7 +61,7 @@ Fantasia**（），是[日本](../Page/日本.md "wikilink")[动画工作室](ht
 <td><p><a href="https://zh.wikipedia.org/wiki/Crystal_Blaze_水晶之焰" title="wikilink">Crystal Blaze 水晶之焰</a></p></td>
 <td></td>
 <td><p>4月8日－6月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/加瀨充子" title="wikilink">加瀨充子</a></p></td>
+<td><p><a href="../Page/加瀨充子.md" title="wikilink">加瀨充子</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -82,7 +82,7 @@ Fantasia**（），是[日本](../Page/日本.md "wikilink")[动画工作室](ht
 <tbody>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CROSSANGE_天使與龍的輪舞" title="wikilink">CROSSANGE 天使與龍的輪舞</a></p></td>
+<td><p><a href="../Page/CROSSANGE_天使與龍的輪舞.md" title="wikilink">CROSSANGE 天使與龍的輪舞</a></p></td>
 <td></td>
 <td><p><a href="../Page/日昇動畫.md" title="wikilink">日昇動畫</a></p></td>
 <td><p>各話協力製作</p></td>

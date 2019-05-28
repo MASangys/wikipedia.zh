@@ -2,8 +2,8 @@
 
 ## 假面騎士
 
-**天空寺尊\[3\]（）**（[西銘駿](../Page/西銘駿.md "wikilink")\[4\]、（童年期）飾/台灣配音：[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")（電影版）/
-香港配音：[鄧燦陽](https://zh.wikipedia.org/wiki/鄧燦陽 "wikilink") ）
+**天空寺尊\[3\]（）**（[西銘駿](../Page/西銘駿.md "wikilink")\[4\]、（童年期）飾/台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")（電影版）/
+香港配音：[鄧燦陽](../Page/鄧燦陽.md "wikilink") ）
 
   -
     **假面騎士Ghost**的變身者，十月四日生日\[5\]，18歲。
@@ -77,7 +77,7 @@
     第44話得知自己極為信任的比爾斯一直都是伊格爾的手下後，感覺自己遭到欺騙而失落，但在尊的安慰下重新振作。
     於外傳《Ghost RE:BIRTH 假面騎士Specter》中與伊格爾一同合作將眼魔世界的混濁天空重見光明。
 
-**山之內御成（）**（[柳喬之飾](https://zh.wikipedia.org/wiki/柳喬之 "wikilink")）
+**山之內御成（）**（[柳喬之飾](../Page/柳喬之.md "wikilink")）
 
   -
     大天空寺院的代理住持，本姓山ノ内。
@@ -329,7 +329,7 @@
     最後在看到龍所說隱藏在尊身上的無限可能性之後，將未來託付給尊等人後離去。
 
 **深海大悟（）**（[澤村一樹](../Page/澤村一樹.md "wikilink")
-飾／台灣配音：[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")）
+飾／台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
 
 ## 英雄靈魂
 
@@ -816,7 +816,7 @@ Eyecon）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈眼魂（Ghost_
   - 不良少年 - （第31話）
   - 夢世界中的外國人 - （第34話）
   - 面試會委員 - （第36話）
-  - 登山客 - 、 [高橋光](https://zh.wikipedia.org/wiki/高橋光 "wikilink")、 （第38話）
+  - 登山客 - 、 [高橋光](../Page/高橋光.md "wikilink")、 （第38話）
   - 肌肉男 - （第43、44話）
   - OL - （第43、44話）
   - 新聞發言人 - （第45話）
@@ -827,11 +827,11 @@ Eyecon）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈眼魂（Ghost_
   - 解說 - [一條和矢](../Page/一條和矢.md "wikilink")
   - 席巴魯巴 - [土師孝也](../Page/土師孝也.md "wikilink")（傳說！騎士之魂！）
   - 終極眼魔 / 亞歷山大終極眼魔 / 闇之意志 -
-    [飯塚昭三](https://zh.wikipedia.org/wiki/飯塚昭三 "wikilink")（傳說！騎士之魂！最終章）
+    [飯塚昭三](../Page/飯塚昭三.md "wikilink")（傳說！騎士之魂！最終章）
   - 烏魯加怪人型態、巴法爾怪人型態 - （傳說！騎士之魂！最終章）
   - 巨眼 - （第11、49話）
-  - 上級眼魔 - 、[高橋孝治](https://zh.wikipedia.org/wiki/高橋孝治 "wikilink")（第22話）
-  - 豪豬改造人 - [宇垣秀成](https://zh.wikipedia.org/wiki/宇垣秀成 "wikilink")（第24話）
+  - 上級眼魔 - 、[高橋孝治](../Page/高橋孝治.md "wikilink")（第22話）
+  - 豪豬改造人 - [宇垣秀成](../Page/宇垣秀成.md "wikilink")（第24話）
   - 烏魯加 - [永德](https://zh.wikipedia.org/wiki/永德 "wikilink")\[25\]（第24話）
   - 假面騎士一號 - [稻田徹](../Page/稻田徹.md "wikilink")（第24話）
   - 尊的母親 - [大原沙耶香](../Page/大原沙耶香.md "wikilink")\[26\]（第34、41\[27\]話）
@@ -864,7 +864,7 @@ Eyecon）](https://zh.wikipedia.org/wiki/假面騎士Ghost#幽靈眼魂（Ghost_
 15. 官方演員表上原以深海カノン作標示，後在第18話劇情的字條中正式得知漢字為花音。
 16. 也就本作的主標語「我思故我在」。
 17. 此拍攝地點位於栃木縣的，另外第2話中出現的電燈泡收藏品也是從此處借用。
-18. 其後亦有參與後作《[假面騎士Build](https://zh.wikipedia.org/wiki/假面騎士Build "wikilink")》，飾演滝川紗羽。
+18. 其後亦有參與後作《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》，飾演滝川紗羽。
 19. 曾在前作《假面騎士 Wizard》中演出女主角-曆（コヨミ）
 20. 曾在《假面騎士Fourze》中演出鳥居崎美紗一角
 21. 此角色最初只以「片桐教授」來客串劇情

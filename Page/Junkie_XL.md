@@ -21,11 +21,11 @@ XL」一名解釋，當自己過度勞累時就永不會到達那種地步，而
   - 2016：《[飆風特攻](../Page/飆風特攻.md "wikilink")》-作曲
   - 2016：《[惡棍英雄：死侍](../Page/惡棍英雄：死侍.md "wikilink")》-作曲\[3\]
   - 2016：《[蝙蝠俠對超人：正義曙光](https://zh.wikipedia.org/wiki/蝙蝠俠對超人：正義曙光 "wikilink")》-作曲（與漢斯·季默合作）\[4\]
-  - 2016：《[走過煉獄的女人](https://zh.wikipedia.org/wiki/走過煉獄的女人 "wikilink")》-作曲
-  - 2016：《[幽靈空間](https://zh.wikipedia.org/wiki/幽靈空間 "wikilink")》-作曲
+  - 2016：《[走過煉獄的女人](../Page/走過煉獄的女人.md "wikilink")》-作曲
+  - 2016：《[幽靈空間](../Page/幽靈空間.md "wikilink")》-作曲
   - 2017：《[黑塔](https://zh.wikipedia.org/wiki/黑塔_\(電影\) "wikilink")》-作曲
   - 2018：《[古墓奇兵](https://zh.wikipedia.org/wiki/古墓奇兵_\(2018年電影\) "wikilink")》-作曲
-  - 2019：《[艾莉塔：戰鬥天使](https://zh.wikipedia.org/wiki/艾莉塔：戰鬥天使 "wikilink")》-作曲
+  - 2019：《[艾莉塔：戰鬥天使](../Page/艾莉塔：戰鬥天使.md "wikilink")》-作曲
 
 ### 電子遊戲
 

@@ -1,5 +1,5 @@
 **卡西欧
-EX-FR100**是于2015年12月推出的[运动型相机](https://zh.wikipedia.org/wiki/运动相机 "wikilink")，由[卡西欧公司开发](https://zh.wikipedia.org/wiki/卡西欧 "wikilink")\[1\]。与稍早于2014年推出的[EX-FR10类似](https://zh.wikipedia.org/wiki/卡西欧_EX-FR10 "wikilink")，FR100的特点在于其可分离设计，即相机的镜头部与操控部可以进行物理上的分离，采用无线信号进行远程连接控制；且继续保持防水抗摔等运动相机特性。除此之外，相比FR10的等效21mm，FR100将镜头继续推进至等效16mm，可以获得更广的[视角](https://zh.wikipedia.org/wiki/视角 "wikilink")。
+EX-FR100**是于2015年12月推出的[运动型相机](../Page/运动相机.md "wikilink")，由[卡西欧公司开发](https://zh.wikipedia.org/wiki/卡西欧 "wikilink")\[1\]。与稍早于2014年推出的[EX-FR10类似](https://zh.wikipedia.org/wiki/卡西欧_EX-FR10 "wikilink")，FR100的特点在于其可分离设计，即相机的镜头部与操控部可以进行物理上的分离，采用无线信号进行远程连接控制；且继续保持防水抗摔等运动相机特性。除此之外，相比FR10的等效21mm，FR100将镜头继续推进至等效16mm，可以获得更广的[视角](https://zh.wikipedia.org/wiki/视角 "wikilink")。
 
 FR100在日本上市时定价6万円，于中国大陆定价为2999元。
 

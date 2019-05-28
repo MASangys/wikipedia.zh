@@ -1,7 +1,7 @@
 **AMD Radeon Rx 300**系列顯示核心，研發代號「**Pirates
 Islands**」，是[超微半導體所推出的](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")[圖形處理器系列](../Page/圖形處理器.md "wikilink")。根據超微的顯示核心發展路線「Pirates
 Islands」將接替「Volcanic Islands」（即[AMD Radeon Rx
-200系列](../Page/AMD_Radeon_Rx_200.md "wikilink")）的產品線。全新核心"Fiji"為首個使用[高頻寬記憶體](https://zh.wikipedia.org/wiki/高頻寬記憶體 "wikilink")（HBM）的顯示核心系列，記憶體寬度達4096bit，記憶體總頻寬達512GB/s。
+200系列](../Page/AMD_Radeon_Rx_200.md "wikilink")）的產品線。全新核心"Fiji"為首個使用[高頻寬記憶體](../Page/高頻寬記憶體.md "wikilink")（HBM）的顯示核心系列，記憶體寬度達4096bit，記憶體總頻寬達512GB/s。
 Pirates
 Islands系列顯示核心於2015年6月16日美國E3展正式發布，並於當年6月18日展開第一波的銷售，第一波銷售的卡號皆為[AMD
 Radeon Rx
@@ -55,7 +55,7 @@ Express匯流排直接存取其他GPU](../Page/PCI_Express.md "wikilink")，便�
 <th><p>匯流排介面</p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置<sup>1</sup></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>記憶體<sup>6</sup></p></th>
 <th><p>浮點運算效能<br />
 (<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
@@ -503,7 +503,7 @@ GDDR5</p></td>
 <th><p><a href="https://zh.wikipedia.org/wiki/Computer_bus" title="wikilink">匯流排</a> <a href="https://zh.wikipedia.org/wiki/I/O_interface" title="wikilink">介面</a></p></th>
 <th><p>時脈</p></th>
 <th><p>核心配置</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p>記憶體</p></th>
 <th><p>浮點運算效能<br />
 (<a href="https://zh.wikipedia.org/wiki/GFLOPS" title="wikilink">GFLOPS</a>)</p></th>
@@ -707,8 +707,7 @@ GDDR5</p></td>
 ## 另見
 
   - [AMD顯示核心列表](../Page/AMD顯示核心列表.md "wikilink")
-  - [NVIDIA GeForce
-    900](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_900 "wikilink")
+  - [NVIDIA GeForce 900](../Page/NVIDIA_GeForce_900.md "wikilink")
 
 ## 外部連結
 

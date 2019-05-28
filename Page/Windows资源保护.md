@@ -43,7 +43,7 @@ Vista上，sfc.exe可以检查特定文件夹路径，包括Windows文件夹和�
   - [Windows文件保护](https://zh.wikipedia.org/wiki/Windows文件保护 "wikilink")
   - [系統文件檢查器](../Page/系統文件檢查器.md "wikilink")
   - [存取控制串列](https://zh.wikipedia.org/wiki/存取控制串列 "wikilink")
-  - [安全标识符](https://zh.wikipedia.org/wiki/安全标识符 "wikilink")
+  - [安全标识符](../Page/安全标识符.md "wikilink")
 
 ## 外部链接
 

@@ -48,7 +48,7 @@ Produce在](../Page/81_Produce.md "wikilink")2012年9月至12月舉辦的甄選�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/山下七海" title="wikilink">山下七海</a></p></td>
+<td><p><a href="../Page/山下七海.md" title="wikilink">山下七海</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/德島縣" title="wikilink">德島縣</a></p></td>
 <td><p>紫</p></td>
@@ -88,7 +88,7 @@ Produce在](../Page/81_Produce.md "wikilink")2012年9月至12月舉辦的甄選�
 
   - 4月1日：Wake Up, Girls\!结成。
   - 7月28日：於[Wonder Festival
-    2013首次公開成員](https://zh.wikipedia.org/wiki/Wonder_Festival "wikilink")，披露会上翻唱了《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》的主题曲[拿去吧！水手服及](../Page/拿去吧！水手服.md "wikilink")《[凉宫春日的忧郁](https://zh.wikipedia.org/wiki/凉宫春日的忧郁 "wikilink")》主题曲[晴天好心情](https://zh.wikipedia.org/wiki/晴天好心情 "wikilink")。\[6\]。
+    2013首次公開成員](../Page/Wonder_Festival.md "wikilink")，披露会上翻唱了《[幸運☆星](https://zh.wikipedia.org/wiki/幸運☆星 "wikilink")》的主题曲[拿去吧！水手服及](../Page/拿去吧！水手服.md "wikilink")《[凉宫春日的忧郁](https://zh.wikipedia.org/wiki/凉宫春日的忧郁 "wikilink")》主题曲[晴天好心情](https://zh.wikipedia.org/wiki/晴天好心情 "wikilink")。\[6\]。
   - 8月10日－8月12日：在[Comic Market
     84舉辦握手會](../Page/Comic_Market.md "wikilink")，同时Wake
     Up，Girls！官方书籍《WU,G\!》发售\[7\]。
@@ -234,7 +234,7 @@ Produce在](../Page/81_Produce.md "wikilink")2012年9月至12月舉辦的甄選�
     ごめんねばっかり言ってこめんね！」，与前年同样在7个城市共14场演出。本次巡演亦是首次在广岛举办个人演出。在东京的压轴演出May'n作为嘉宾登场，8人共同演唱「One
     In A Billion」。
   - 7月30日：在Wonder Festival 2017 Summer上公布通过选秀的新组合“[Run Girls,
-    Run\!](https://zh.wikipedia.org/wiki/Run_Girls,_Run! "wikilink")”，组合的三名成员以WUG后辈的身份初次登台。
+    Run\!](../Page/Run_Girls,_Run!.md "wikilink")”，组合的三名成员以WUG后辈的身份初次登台。
   - 8月9日：以Wake Up, May,n名义的新单曲「One In A Billion」发售。
   - 8月27日：在Animelo Summer Live 2017 -THE CARD-演出\[30\]。
   - 10月3日：『Wake Up, Girls\!とRun

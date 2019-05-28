@@ -534,7 +534,7 @@ Level X</strong></p></td>
 [Category:假面騎士系列電影作品](https://zh.wikipedia.org/wiki/Category:假面騎士系列電影作品 "wikilink")
 
 1.  前四作分別為《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的『W
-    RETURNS』、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的『鎧武外傳』、《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》的『Drive
+    RETURNS』、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的『鎧武外傳』、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的『Drive
     SAGA』、《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》的『Ghost
     RE:BIRTH』。
 2.  [Vシネマ「仮面ライダーエグゼイド　トリロジー　アナザー・エンディング」特報](https://www.youtube.com/watch?v=DT4RQ1DueY4)

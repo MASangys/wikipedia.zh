@@ -1,5 +1,5 @@
 **有限公司Yellow-Tail**（）是一家位於[日本](../Page/日本.md "wikilink")[東京都](../Page/東京都.md "wikilink")[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")\[1\]的[聲優](../Page/聲優.md "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。1999年11月1日，由關係企業[Rock'n'
-Banana的事業部門所屬職員從內部獨立](https://zh.wikipedia.org/wiki/Rock'n'_Banana "wikilink")\[2\]。代表董事是澤田和美（與演員是同姓同名不同人）\[3\]。
+Banana的事業部門所屬職員從內部獨立](../Page/Rock'n'_Banana.md "wikilink")\[2\]。代表董事是澤田和美（與演員是同姓同名不同人）\[3\]。
 
 2005年6月9日法人化，改成現在的公司正式名稱\[4\]。
 
@@ -176,7 +176,7 @@ Banana的事業部門所屬職員從內部獨立](https://zh.wikipedia.org/wiki/
   - （引退）
 
 2006年因進行組織調整，有將近半數的所屬聲優已經移籍至關係企業[Rock'n'
-Banana](https://zh.wikipedia.org/wiki/Rock'n'_Banana "wikilink")。
+Banana](../Page/Rock'n'_Banana.md "wikilink")。
 
 ## 來源
 

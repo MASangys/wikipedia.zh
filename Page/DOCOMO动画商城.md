@@ -8,7 +8,7 @@ DOCOMO](../Page/NTT_DOCOMO.md "wikilink")[战略合作](https://zh.wikipedia.org
 早期只能作为DOCOMO内应用服务使用，现在能够在[互联网通过](../Page/互联网.md "wikilink")[个人电脑使用](../Page/个人电脑.md "wikilink")。
 
 早期画质只有“普通”、“美丽”、“非常美丽（480P）”\[3\]三种画质可选。2014年9月8日，《[GUNDAM
-G之复国运动](https://zh.wikipedia.org/wiki/GUNDAM_G之复国运动 "wikilink")》的特别先行版开始提供HD画质\[4\]。2014年5月15日，部分节目开始提供[H.265/HEVC播放格式](https://zh.wikipedia.org/wiki/H.265/HEVC "wikilink")。\[5\]
+G之复国运动](../Page/GUNDAM_G之复国运动.md "wikilink")》的特别先行版开始提供HD画质\[4\]。2014年5月15日，部分节目开始提供[H.265/HEVC播放格式](https://zh.wikipedia.org/wiki/H.265/HEVC "wikilink")。\[5\]
 
 另外也会提供网络电视供应商的播放节目，如、[万代频道](../Page/萬代頻道.md "wikilink")。
 

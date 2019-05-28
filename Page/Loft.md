@@ -84,7 +84,7 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 
   - [龜有Loft](../Page/龜有.md "wikilink")（[葛飾區](../Page/葛飾區.md "wikilink")）◇：內，2012年4月20日開店。
 
-  - Loft（[墨田區](../Page/墨田區.md "wikilink")）○：[東京晴空塔城內東京晴空街道](https://zh.wikipedia.org/wiki/東京晴空塔城 "wikilink")3樓，2012年5月22日開店。
+  - Loft（[墨田區](../Page/墨田區.md "wikilink")）○：[東京晴空塔城內東京晴空街道](../Page/東京晴空塔城.md "wikilink")3樓，2012年5月22日開店。
 
   - Loft店（[大田區](https://zh.wikipedia.org/wiki/大田區 "wikilink")）◇：[伊藤洋華堂大森店](https://zh.wikipedia.org/wiki/伊藤洋華堂 "wikilink")3樓，2012年7月4日開店。
 

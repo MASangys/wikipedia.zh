@@ -122,8 +122,7 @@ Hymmnos语在各种各样的场景和故事中以各种各样的派生形态存�
 Ar Ciela是由整个游戏系列的主舞台——星球（Ar
 Ciel）纺织的语言，并不是为了让人类使用而创造的语言。律史前月读的原型就是星语，星语也和Hymmnos语不同，并不是使用Hymmnos文字而是使用别的文字来记录。星语的频率远超人类的可听区域，要准确把握每个音的含义并汲取出来是不可能的。在游戏的世界观设定中，Arkia研究所（アルキア研究所）经过研究后总算把握住了其中一部分音表面上的含义。
 
-有关星语的其他信息请参照词条[Ar
-Ciela](https://zh.wikipedia.org/wiki/Ar_Ciela "wikilink")。
+有关星语的其他信息请参照词条[Ar Ciela](../Page/Ar_Ciela.md "wikilink")。
 
 #### 律史前月读（Carmena Foreluna）
 

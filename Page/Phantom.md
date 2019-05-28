@@ -36,7 +36,7 @@
 
 ## 音樂
 
-  - [Phantom](https://zh.wikipedia.org/wiki/Phantom_\(韓國組合\) "wikilink")，南韓的嘻哈三人組
+  - [Phantom](../Page/Phantom_\(韓國組合\).md "wikilink")，南韓的嘻哈三人組
 
   - ，洛杉磯EDM二人組
 

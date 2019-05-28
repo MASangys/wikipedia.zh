@@ -1,5 +1,5 @@
 **鈴木Every
-Landy**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1999年至2005年間開發製造的小型單廂7人座[廂型車](../Page/廂型車.md "wikilink")，初期名稱為**鈴木Every+**（），僅限日本當地發售；2001年小改款後，才陸續輸出至[臺灣](../Page/臺灣.md "wikilink")、[香港等市場](../Page/香港.md "wikilink")。臺灣[金鈴汽車引進後更名為](../Page/金鈴汽車.md "wikilink")**鈴木Landy**，[中國](../Page/中國.md "wikilink")[昌河鈴木公司所國產化的](https://zh.wikipedia.org/wiki/昌河汽车 "wikilink")**鈴木浪迪**，其引擎陸續改用1.4L直列四缸DOHC
+Landy**（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")1999年至2005年間開發製造的小型單廂7人座[廂型車](../Page/廂型車.md "wikilink")，初期名稱為**鈴木Every+**（），僅限日本當地發售；2001年小改款後，才陸續輸出至[臺灣](../Page/臺灣.md "wikilink")、[香港等市場](../Page/香港.md "wikilink")。臺灣[金鈴汽車引進後更名為](../Page/金鈴汽車.md "wikilink")**鈴木Landy**，[中國](../Page/中國.md "wikilink")[昌河鈴木公司所國產化的](../Page/昌河汽车.md "wikilink")**鈴木浪迪**，其引擎陸續改用1.4L直列四缸DOHC
 [K14B型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K14B型 "wikilink")、1.2L直列四缸DOHC
 [K12B型等二種](https://zh.wikipedia.org/wiki/鈴木K族引擎#K12B型 "wikilink")，外觀造型也與日規版不盡相同。
 
@@ -46,7 +46,7 @@ Every Landy 008.JPG Image:Suzuki EVERY Landy XL (DA32W) rear.JPG
 ## 昌河鈴木浪迪
 
 2007年 -
-[昌河鈴木公司在上海國際車展公開鈴木浪迪](https://zh.wikipedia.org/wiki/昌河汽车 "wikilink")，隨即在同年5月上市。此車款以日規[輕型車](../Page/輕型車.md "wikilink")[鈴木Every
+[昌河鈴木公司在上海國際車展公開鈴木浪迪](../Page/昌河汽车.md "wikilink")，隨即在同年5月上市。此車款以日規[輕型車](../Page/輕型車.md "wikilink")[鈴木Every
 Wagon為藍本而發展](../Page/鈴木Every.md "wikilink")，搭載[排氣量較大的](https://zh.wikipedia.org/wiki/排氣量 "wikilink")1.4L直列四缸DOHC
 [K14B型引擎](https://zh.wikipedia.org/wiki/鈴木K族引擎#K14B型 "wikilink")，具備96hp
 / 6,000rpm的最大馬力、11.7kg·m /

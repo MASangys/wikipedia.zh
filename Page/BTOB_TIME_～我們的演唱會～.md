@@ -83,9 +83,8 @@ KINTEX舉行第四次單獨演唱會](https://zh.wikipedia.org/wiki/日山 "wiki
 11. 哭也可以
 12. 不要哭
 13. Gashina / *[恩光](../Page/徐恩光.md "wikilink") Solo Stage* (原唱：宣美)
-14. [She's
-    Gone](https://zh.wikipedia.org/wiki/Big_Wave_\(專輯\) "wikilink")
-    / *[鎰勳](../Page/鄭鎰勳.md "wikilink") Solo Stage ＊ 自作曲初公開舞台 ＊*
+14. [She's Gone](../Page/Big_Wave_\(專輯\).md "wikilink") /
+    *[鎰勳](../Page/鄭鎰勳.md "wikilink") Solo Stage ＊ 自作曲初公開舞台 ＊*
 15. [THAT GIRL](../Page/PIECE_OF_BTOB.md "wikilink") /
     *[Peniel](../Page/辛東根.md "wikilink") Solo Stage*
 16. 有話要說 + 即使幼稚 / *[旼赫](../Page/李旼赫.md "wikilink") Solo Stage ＊ 自作曲初公開舞台

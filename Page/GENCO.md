@@ -274,8 +274,8 @@ Holdings。
   - [此花亭奇譚](https://zh.wikipedia.org/wiki/此花亭奇譚 "wikilink")
   - [sin 七大罪](https://zh.wikipedia.org/wiki/sin_七大罪 "wikilink")
   - 劍姬神聖譚 在地下城尋求邂逅是否搞錯了什麼 外傳
-  - [Dies irae](https://zh.wikipedia.org/wiki/Dies_irae "wikilink")
-  - [騎士&魔法](https://zh.wikipedia.org/wiki/騎士&魔法 "wikilink")
+  - [Dies irae](../Page/Dies_irae.md "wikilink")
+  - [騎士&魔法](../Page/騎士&魔法.md "wikilink")
   - [南鎌倉高校女子自行車社](../Page/南鎌倉高校女子自行車社.md "wikilink")
 
 <!-- end list -->
@@ -284,14 +284,12 @@ Holdings。
 
 <!-- end list -->
 
-  - [刀使之巫女](https://zh.wikipedia.org/wiki/刀使之巫女 "wikilink")
-  - [和風喫茶鹿楓堂](https://zh.wikipedia.org/wiki/和風喫茶鹿楓堂 "wikilink")
-  - [魔法少女 我](https://zh.wikipedia.org/wiki/魔法少女_我 "wikilink")
+  - [刀使之巫女](../Page/刀使之巫女.md "wikilink")
+  - [和風喫茶鹿楓堂](../Page/和風喫茶鹿楓堂.md "wikilink")
+  - [魔法少女 我](../Page/魔法少女_我.md "wikilink")
   - [叛逆性百萬亞瑟王](../Page/擴散性百萬亞瑟王.md "wikilink")
-  - [刀劍神域外傳Gun Gale
-    Online](https://zh.wikipedia.org/wiki/刀劍神域外傳Gun_Gale_Online "wikilink")
-  - [Happy Sugar
-    Life](https://zh.wikipedia.org/wiki/Happy_Sugar_Life "wikilink")
+  - [刀劍神域外傳Gun Gale Online](../Page/刀劍神域外傳Gun_Gale_Online.md "wikilink")
+  - [Happy Sugar Life](../Page/Happy_Sugar_Life.md "wikilink")
 
 <!-- end list -->
 
@@ -308,7 +306,7 @@ Holdings。
 
 <!-- end list -->
 
-  - [菜菜子解體診書](https://zh.wikipedia.org/wiki/菜菜子解體診書 "wikilink")
+  - [菜菜子解體診書](../Page/菜菜子解體診書.md "wikilink")
 
 <!-- end list -->
 
@@ -398,7 +396,7 @@ Holdings。
 
 <!-- end list -->
 
-  - [謝謝你，在世界角落中找到我](https://zh.wikipedia.org/wiki/謝謝你，在世界角落中找到我_\(電影\) "wikilink")
+  - [謝謝你，在世界角落中找到我](../Page/謝謝你，在世界角落中找到我_\(電影\).md "wikilink")
 
 <!-- end list -->
 
@@ -406,8 +404,7 @@ Holdings。
 
 <!-- end list -->
 
-  - [劇場版 刀劍神域 -序列爭戰
-    -](https://zh.wikipedia.org/wiki/刀劍神域劇場版：序列爭戰 "wikilink")
+  - [劇場版 刀劍神域 -序列爭戰 -](../Page/刀劍神域劇場版：序列爭戰.md "wikilink")
 
 ### 網路動畫
 

@@ -7,7 +7,7 @@ P238手槍的](../Page/SIG_P238手槍.md "wikilink")[9×19毫米](../Page/9×19m
 ### 基本指標
 
 SIG P938是[SIG
-P238以及其前身](../Page/SIG_P238手槍.md "wikilink")（都是）的稍微加大版本。與其他許多9毫米袖珍手槍不同，其[底把為金屬製造](https://zh.wikipedia.org/wiki/机匣 "wikilink")。所有P938型號所採用的是[陽極氧化](https://zh.wikipedia.org/wiki/陽極處理 "wikilink")[鋁合金底把](../Page/鋁合金.md "wikilink")，而套筒是由[不銹鋼製造並有著裸露或SIG的](https://zh.wikipedia.org/wiki/不銹鋼 "wikilink")塗層兩種[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。[扳機扣力固定在](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")7.5—8.5英鎊之間。\[1\]
+P238以及其前身](../Page/SIG_P238手槍.md "wikilink")（都是）的稍微加大版本。與其他許多9毫米袖珍手槍不同，其[底把為金屬製造](../Page/机匣.md "wikilink")。所有P938型號所採用的是[陽極氧化](../Page/陽極處理.md "wikilink")[鋁合金底把](../Page/鋁合金.md "wikilink")，而套筒是由[不銹鋼製造並有著裸露或SIG的](https://zh.wikipedia.org/wiki/不銹鋼 "wikilink")塗層兩種[表面處理](https://zh.wikipedia.org/wiki/表面處理 "wikilink")。[扳機扣力固定在](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")7.5—8.5英鎊之間。\[1\]
 
 SIG
 P938有三款握把護板，分別是木製握把、極限型G-10[复合材料製握把或是在](../Page/复合材料.md "wikilink")“運動”型號時包裹握把周圍的黑色[橡膠製握把](../Page/橡膠.md "wikilink")。
@@ -48,10 +48,9 @@ LR](../Page/.22_LR.md "wikilink")[口徑版本](https://zh.wikipedia.org/wiki/�
   - [儒格LC9手槍](https://zh.wikipedia.org/wiki/儒格LC9手槍 "wikilink")
   - [春田XD-S手槍](../Page/春田XD-S手槍.md "wikilink")
   - [SIG P239手槍](../Page/SIG_P239手槍.md "wikilink")
-  - [S\&W
-    M\&P護盾型](https://zh.wikipedia.org/wiki/史密斯威森軍警型半自動手槍 "wikilink")
+  - [S\&W M\&P護盾型](../Page/史密斯威森軍警型半自動手槍.md "wikilink")
   - [-{zh-tw:華瑟;zh-cn:瓦爾特;}-PPS手槍](../Page/瓦爾特PPS手槍.md "wikilink")
-  - [-{zh-tw:華瑟;zh-cn:瓦爾特;}-CCP手槍](https://zh.wikipedia.org/wiki/瓦爾特CCP手槍 "wikilink")
+  - [-{zh-tw:華瑟;zh-cn:瓦爾特;}-CCP手槍](../Page/瓦爾特CCP手槍.md "wikilink")
   - [SIG P238手槍](../Page/SIG_P238手槍.md "wikilink")
 
 ## 資料來源

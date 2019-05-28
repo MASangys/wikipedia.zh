@@ -8,10 +8,9 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 **[2014年](../Page/Music_Café節目列表_\(2014年\).md "wikilink")** -
 **[2015年](../Page/Music_Café節目列表_\(2015年\).md "wikilink")** -
 **2016年** -
-**[2017年](https://zh.wikipedia.org/wiki/Music_Café節目列表_\(2017年\) "wikilink")**
--
-**[2018年](https://zh.wikipedia.org/wiki/Music_Café節目列表_\(2018年\) "wikilink")**
-- **[2019年](../Page/Music_Café節目列表_\(2019年\).md "wikilink")**</span>
+**[2017年](../Page/Music_Café節目列表_\(2017年\).md "wikilink")**
+- **[2018年](../Page/Music_Café節目列表_\(2018年\).md "wikilink")** -
+**[2019年](../Page/Music_Café節目列表_\(2019年\).md "wikilink")**</span>
 
 </div>
 
@@ -83,21 +82,21 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 
 ## 8月
 
-| 集數  | J2首播日期 | 主題                 | 嘉賓                                                                                                                                                    |
-| --- | ------ | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 281 | 8月6日   | 林奕匡、羅孝勇　從生活獲取創作靈感  | [林奕匡](../Page/林奕匡.md "wikilink")、[羅孝勇](../Page/羅孝勇.md "wikilink") |- style="background-color: \#FFFFFF" |                                             |
-| 282 | 8月13日  | 許廷鏗、胡鴻鈞　發放音樂正能量    | [許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")、[胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink") |- style="background-color: \#FFFFFF" |       |
-| 283 | 8月20日  | 王梓軒、羅啟聰　音樂借別舊情     | [王梓軒](../Page/王梓軒.md "wikilink")、[羅啟聰](../Page/羅啟聰.md "wikilink") |- style="background-color: \#FFFFFF" |                                             |
-| 284 | 8月27日  | 新青年理髮廳、黎曉陽　用音樂感受城市 | [新青年理髮廳](https://zh.wikipedia.org/wiki/新青年理髮廳 "wikilink")、[黎曉陽](https://zh.wikipedia.org/wiki/黎曉陽 "wikilink") |- style="background-color: \#FFFFFF" | |
+| 集數  | J2首播日期 | 主題                 | 嘉賓                                                                                                                                              |
+| --- | ------ | ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| 281 | 8月6日   | 林奕匡、羅孝勇　從生活獲取創作靈感  | [林奕匡](../Page/林奕匡.md "wikilink")、[羅孝勇](../Page/羅孝勇.md "wikilink") |- style="background-color: \#FFFFFF" |                                       |
+| 282 | 8月13日  | 許廷鏗、胡鴻鈞　發放音樂正能量    | [許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink")、[胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink") |- style="background-color: \#FFFFFF" | |
+| 283 | 8月20日  | 王梓軒、羅啟聰　音樂借別舊情     | [王梓軒](../Page/王梓軒.md "wikilink")、[羅啟聰](../Page/羅啟聰.md "wikilink") |- style="background-color: \#FFFFFF" |                                       |
+| 284 | 8月27日  | 新青年理髮廳、黎曉陽　用音樂感受城市 | [新青年理髮廳](../Page/新青年理髮廳.md "wikilink")、[黎曉陽](https://zh.wikipedia.org/wiki/黎曉陽 "wikilink") |- style="background-color: \#FFFFFF" |              |
 
 ## 9月
 
-| 集數  | J2首播日期 | 主題              | 嘉賓                                                                                                                                              |
-| --- | ------ | --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
-| 285 | 9月3日   | 雨僑、譚嘉儀　網上平台分享音樂 | [雨　僑](../Page/雨僑.md "wikilink")、[譚嘉儀](../Page/譚嘉儀.md "wikilink") |- style="background-color: \#FFFFFF" |                                        |
-| 286 | 9月10日  | 谷微、HANA　勇敢追求音樂夢 | [谷　微](https://zh.wikipedia.org/wiki/谷微 "wikilink")、[HANA](https://zh.wikipedia.org/wiki/菊梓喬 "wikilink") |- style="background-color: \#FFFFFF" | |
-| 287 | 9月17日  | 蔡立兒、歌莉雅　舊歌新唱新感覺 | [蔡立兒](../Page/蔡立兒.md "wikilink")、[歌莉雅](../Page/歌莉雅.md "wikilink") |- style="background-color: \#FFFFFF" |                                       |
-| 288 | 9月24日  | 何雁詩、鄭世豪　不忘音樂初衷  | [何雁詩](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")、[鄭世豪](../Page/鄭世豪.md "wikilink") |- style="background-color: \#FFFFFF" |                    |
+| 集數  | J2首播日期 | 主題              | 嘉賓                                                                                                                           |
+| --- | ------ | --------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| 285 | 9月3日   | 雨僑、譚嘉儀　網上平台分享音樂 | [雨　僑](../Page/雨僑.md "wikilink")、[譚嘉儀](../Page/譚嘉儀.md "wikilink") |- style="background-color: \#FFFFFF" |                     |
+| 286 | 9月10日  | 谷微、HANA　勇敢追求音樂夢 | [谷　微](https://zh.wikipedia.org/wiki/谷微 "wikilink")、[HANA](../Page/菊梓喬.md "wikilink") |- style="background-color: \#FFFFFF" | |
+| 287 | 9月17日  | 蔡立兒、歌莉雅　舊歌新唱新感覺 | [蔡立兒](../Page/蔡立兒.md "wikilink")、[歌莉雅](../Page/歌莉雅.md "wikilink") |- style="background-color: \#FFFFFF" |                    |
+| 288 | 9月24日  | 何雁詩、鄭世豪　不忘音樂初衷  | [何雁詩](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")、[鄭世豪](../Page/鄭世豪.md "wikilink") |- style="background-color: \#FFFFFF" | |
 
 ## 10月
 
@@ -126,7 +125,7 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 | 299 | 12月10日 | 林奕匡　暗黑．情歌        | [林奕匡](../Page/林奕匡.md "wikilink") |- style="background-color: \#FFFFFF" |                                                     |
 | 300 | 12月17日 | 鍾舒祺、黎曉陽　「失敗」之歌   | [鍾舒祺](../Page/鍾舒祺.md "wikilink")、[黎曉陽](https://zh.wikipedia.org/wiki/黎曉陽 "wikilink") |- style="background-color: \#FFFFFF" | |
 | 301 | 12月24日 | 譚嘉荃、曹敏寶　回歸樂壇重新出發 | [譚嘉荃](../Page/譚嘉荃.md "wikilink")、[曹敏寶](../Page/曹敏寶.md "wikilink") |- style="background-color: \#FFFFFF" |                    |
-| 302 | 12月31日 | 潘伯仲、焯皓　除夕新歌獻樂迷   | [潘伯仲](https://zh.wikipedia.org/wiki/潘伯仲 "wikilink")、[焯　皓](../Page/焯皓.md "wikilink") |- style="background-color: \#FFFFFF" |  |
+| 302 | 12月31日 | 潘伯仲、焯皓　除夕新歌獻樂迷   | [潘伯仲](../Page/潘伯仲.md "wikilink")、[焯　皓](../Page/焯皓.md "wikilink") |- style="background-color: \#FFFFFF" |                     |
 
 [Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink")
 [Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink")

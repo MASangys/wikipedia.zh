@@ -8,7 +8,7 @@ MacBook Air](../Page/MacBook_Air.md "wikilink")）相當。\[2\]\[3\]
 ## 特徵
 
 Pixelbook計劃成為下一代Google筆記本電腦，在2016年[Chromebook
-Pixel筆記本電腦停產](https://zh.wikipedia.org/wiki/Chromebook_Pixel "wikilink")。\[4\][Google意識到Chromebook在成長緩慢後取得了成功](../Page/Google.md "wikilink")，在美國獲得了58％的學校市場份額，並將Pixelbook設計為一個能夠在這個領域與[蘋果和](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[微軟展開競爭](../Page/微软.md "wikilink")。\[5\]
+Pixel筆記本電腦停產](../Page/Chromebook_Pixel.md "wikilink")。\[4\][Google意識到Chromebook在成長緩慢後取得了成功](../Page/Google.md "wikilink")，在美國獲得了58％的學校市場份額，並將Pixelbook設計為一個能夠在這個領域與[蘋果和](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[微軟展開競爭](../Page/微软.md "wikilink")。\[5\]
 
 Google
 Pixelbook採用了12.3英寸觸摸屏設計，可以像平板電腦一樣使用該設備。該設備還為[Google智能助理提供了一個專用按鈕](https://zh.wikipedia.org/wiki/Google智能助理 "wikilink")。它運行Chrome操作系統，並可以原生地啟動Android應用程序。\[6\]它具有即時共享功能;

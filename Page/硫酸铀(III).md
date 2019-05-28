@@ -3,7 +3,7 @@
 ## 制备
 
 硫酸铀(III)于1967年被R.
-Barnard等人报道，通过[硫酸铀酰的](https://zh.wikipedia.org/wiki/硫酸铀酰 "wikilink")[电化学还原法制备](../Page/电化学.md "wikilink")，向水溶液中加入[乙醇结晶](../Page/乙醇.md "wikilink")。\[1\]
+Barnard等人报道，通过[硫酸铀酰的](../Page/硫酸铀酰.md "wikilink")[电化学还原法制备](../Page/电化学.md "wikilink")，向水溶液中加入[乙醇结晶](../Page/乙醇.md "wikilink")。\[1\]
 
 ## 性质
 

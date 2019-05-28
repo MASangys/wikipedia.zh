@@ -9,9 +9,9 @@ Follow**》（，）是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wiki
   -
 ## 播出时段
 
-| 播出频道                                                      | 播出周期              | 播出时间                  |
-| --------------------------------------------------------- | ----------------- | --------------------- |
-| [SBS TV](https://zh.wikipedia.org/wiki/SBS_TV "wikilink") | 2017年4月19日－**至今** | 每周三晚01:00－01:40（40分钟） |
+| 播出频道                                   | 播出周期              | 播出时间                  |
+| -------------------------------------- | ----------------- | --------------------- |
+| [SBS TV](../Page/SBS_TV.md "wikilink") | 2017年4月19日－**至今** | 每周三晚01:00－01:40（40分钟） |
 
 ## 播出列表
 
@@ -19,22 +19,22 @@ Follow**》（，）是[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wiki
 
 ### 2017年
 
-| 集數 | 播放日期  | 來賓                                                                                                                                                                                                             | 備註                                                                        |
-| -- | ----- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 1  | 4月19日 | [少女时代](../Page/少女时代.md "wikilink")                                                                                                                                                                             |                                                                           |
-| 2  | 4月26日 | [鄭珍云](https://zh.wikipedia.org/wiki/鄭珍云 "wikilink")、[露絲·漢丁頓-維莉](../Page/露絲·漢丁頓-維莉.md "wikilink")、[Tiffany](../Page/Tiffany_\(少女時代\).md "wikilink")                                                             |                                                                           |
-| 3  | 5月3日  | [尹素怡](../Page/尹素怡.md "wikilink")、[Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink") ([Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")) |                                                                           |
-| 4  | 5月10日 | [金智淑](../Page/金智淑_\(藝人\).md "wikilink")                                                                                                                                                                        |                                                                           |
-| 5  | 5月17日 | [KWINs](https://zh.wikipedia.org/wiki/KWINs "wikilink")                                                                                                                                                        |                                                                           |
-| 6  | 5月24日 | [全烋星](../Page/全烋星.md "wikilink") ([Secret](../Page/Secret_\(組合\).md "wikilink"))                                                                                                                               |                                                                           |
-| 7  | 5月31日 | [嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")                                                                                                                                                             |                                                                           |
-| 8  | 6月7日  |                                                                                                                                                                                                                | [李賢伊](https://zh.wikipedia.org/wiki/李賢伊 "wikilink") 代班主持                  |
-| 9  | 6月21日 | [Bada](../Page/Bada_\(歌手\).md "wikilink")                                                                                                                                                                      |                                                                           |
-| 10 | 6月28日 | [孔旻智](../Page/孔旻智.md "wikilink")                                                                                                                                                                               |                                                                           |
-| 11 | 7月5日  | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink") ([居麗](https://zh.wikipedia.org/wiki/居麗 "wikilink")、[孝敏](https://zh.wikipedia.org/wiki/孝敏 "wikilink"))                                                  | [孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink") 代班主持                    |
-| 12 | 7月12日 | [韓銀貞](https://zh.wikipedia.org/wiki/韓銀貞 "wikilink")                                                                                                                                                            | [孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink") 代班主持                    |
-|    | 8月16日 | [BLACKPINK](../Page/BLACKPINK.md "wikilink")                                                                                                                                                                   |                                                                           |
-|    | 8月23日 | [Jessica](https://zh.wikipedia.org/wiki/潔西卡_\(韓國歌手\) "wikilink")                                                                                                                                               | 本集為[Jessica自己擔任MC](https://zh.wikipedia.org/wiki/潔西卡_\(韓國歌手\) "wikilink") |
+| 集數 | 播放日期  | 來賓                                                                                                                                                                       | 備註                                                                        |
+| -- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------- |
+| 1  | 4月19日 | [少女时代](../Page/少女时代.md "wikilink")                                                                                                                                       |                                                                           |
+| 2  | 4月26日 | [鄭珍云](https://zh.wikipedia.org/wiki/鄭珍云 "wikilink")、[露絲·漢丁頓-維莉](../Page/露絲·漢丁頓-維莉.md "wikilink")、[Tiffany](../Page/Tiffany_\(少女時代\).md "wikilink")                       |                                                                           |
+| 3  | 5月3日  | [尹素怡](../Page/尹素怡.md "wikilink")、[Red Velvet](../Page/Red_Velvet.md "wikilink") ([Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](../Page/瑟琪.md "wikilink")) |                                                                           |
+| 4  | 5月10日 | [金智淑](../Page/金智淑_\(藝人\).md "wikilink")                                                                                                                                  |                                                                           |
+| 5  | 5月17日 | [KWINs](https://zh.wikipedia.org/wiki/KWINs "wikilink")                                                                                                                  |                                                                           |
+| 6  | 5月24日 | [全烋星](../Page/全烋星.md "wikilink") ([Secret](../Page/Secret_\(組合\).md "wikilink"))                                                                                         |                                                                           |
+| 7  | 5月31日 | [嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")                                                                                                                       |                                                                           |
+| 8  | 6月7日  |                                                                                                                                                                          | [李賢伊](https://zh.wikipedia.org/wiki/李賢伊 "wikilink") 代班主持                  |
+| 9  | 6月21日 | [Bada](../Page/Bada_\(歌手\).md "wikilink")                                                                                                                                |                                                                           |
+| 10 | 6月28日 | [孔旻智](../Page/孔旻智.md "wikilink")                                                                                                                                         |                                                                           |
+| 11 | 7月5日  | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink") ([居麗](https://zh.wikipedia.org/wiki/居麗 "wikilink")、[孝敏](https://zh.wikipedia.org/wiki/孝敏 "wikilink"))            | [孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink") 代班主持                    |
+| 12 | 7月12日 | [韓銀貞](https://zh.wikipedia.org/wiki/韓銀貞 "wikilink")                                                                                                                      | [孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink") 代班主持                    |
+|    | 8月16日 | [BLACKPINK](../Page/BLACKPINK.md "wikilink")                                                                                                                             |                                                                           |
+|    | 8月23日 | [Jessica](https://zh.wikipedia.org/wiki/潔西卡_\(韓國歌手\) "wikilink")                                                                                                         | 本集為[Jessica自己擔任MC](https://zh.wikipedia.org/wiki/潔西卡_\(韓國歌手\) "wikilink") |
 
 ## 收視率
 

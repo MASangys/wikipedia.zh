@@ -1,7 +1,7 @@
 《**戀愛圖形 (cubic
 futurismo)**》（）是[日本女性](../Page/日本.md "wikilink")[聲優](../Page/聲優.md "wikilink")[上坂菫的第](https://zh.wikipedia.org/wiki/上坂菫 "wikilink")7張單曲。[TECHNOBOYS
 PULCRAFT
-GREEN-FUND作詞](https://zh.wikipedia.org/wiki/TECHNOBOYS_PULCRAFT_GREEN-FUND "wikilink")、作曲。2016年8月3日由[King
+GREEN-FUND作詞](../Page/TECHNOBOYS_PULCRAFT_GREEN-FUND.md "wikilink")、作曲。2016年8月3日由[King
 Records發行](../Page/國王唱片.md "wikilink")。
 
 ## 解說

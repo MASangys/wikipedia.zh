@@ -1,5 +1,5 @@
 《'''R U Ready?
-'''》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第二張正規專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2018年2月26日发行。该专辑共收入11首歌曲，主打歌曲為〈WoW\!〉。該專輯於2017年5月2日以《[現在，我們](https://zh.wikipedia.org/wiki/現在，我們 "wikilink")》作为改版专辑重新發行。
+'''》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Lovelyz的第二張正規專輯](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，於2018年2月26日发行。该专辑共收入11首歌曲，主打歌曲為〈WoW\!〉。該專輯於2017年5月2日以《[現在，我們](../Page/現在，我們.md "wikilink")》作为改版专辑重新發行。
 
 ## 背景及回歸日程
 
@@ -27,7 +27,7 @@ Soul](https://zh.wikipedia.org/wiki/Baby_Soul "wikilink")、[智爱](../Page/劉
 2月23日，發佈第二個概念預告视频。
 
 2月24日，釋出M/V預告。同日，[CJ
-E\&M官方Facebook释出專輯四行詩正解](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")。
+E\&M官方Facebook释出專輯四行詩正解](../Page/CJ_E&M.md "wikilink")。
 
 2月25日，释出专辑曲目試聽預告。
 

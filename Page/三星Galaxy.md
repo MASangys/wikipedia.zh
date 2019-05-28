@@ -9,8 +9,7 @@ Note](../Page/三星Galaxy_Note系列.md "wikilink")。
 [Samsung_Android_Smartphones.jpg](https://zh.wikipedia.org/wiki/File:Samsung_Android_Smartphones.jpg "fig:Samsung_Android_Smartphones.jpg")
 
   - [三星Galaxy A系列](../Page/三星Galaxy_A系列.md "wikilink")
-  - [三星Galaxy
-    C系列](https://zh.wikipedia.org/wiki/三星Galaxy_C系列 "wikilink")
+  - [三星Galaxy C系列](../Page/三星Galaxy_C系列.md "wikilink")
   - [三星Galaxy
     Fold系列](https://zh.wikipedia.org/wiki/三星Galaxy_Fold系列 "wikilink")
   - [三星Galaxy
@@ -23,8 +22,7 @@ Note](../Page/三星Galaxy_Note系列.md "wikilink")。
     On系列](https://zh.wikipedia.org/wiki/三星Galaxy_On系列 "wikilink")
   - [三星Galaxy
     Young系列](https://zh.wikipedia.org/wiki/三星Galaxy_Young系列 "wikilink")
-  - [三星Galaxy
-    Grand系列](https://zh.wikipedia.org/wiki/三星Galaxy_Grand系列 "wikilink")
+  - [三星Galaxy Grand系列](../Page/三星Galaxy_Grand系列.md "wikilink")
 
 ## 外部連結
 

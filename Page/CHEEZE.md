@@ -116,14 +116,14 @@ STRAWBERRY SOUND旗下廠牌PEACHES LABEL的solo歌手。
 
 ### OST
 
-|         |                                                        |                                                                                                                                  |               |
-| ------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------- | ------------- |
-| 年份      | 歌曲                                                     | 收錄專輯                                                                                                                             | 備註            |
-| 2016年   | 是愛情啊                                                   | JTBC金土劇《[老婆這週要出牆](../Page/老婆這週要出牆_\(韓國電視劇\).md "wikilink")》OST Part.4                                                            | Dalchong Solo |
-| 2017年   | 어떨까 넌（你怎麼樣）                                            | SBS特別劇《[奇怪的搭檔](../Page/奇怪的搭檔.md "wikilink")》OST Part.4                                                                           |               |
-| I Still | SBS月火劇《[愛情的溫度](../Page/愛情的溫度.md "wikilink")》OST Part.3 |                                                                                                                                  |               |
-| 2018年   | Hard for Me                                            | [MBN水木劇](https://zh.wikipedia.org/wiki/每日廣播 "wikilink")《[Rich Man](https://zh.wikipedia.org/wiki/Rich_Man "wikilink")》OST Part.1 |               |
-|         | 영화같던날(像電影般的日子)                                         | tvN水木劇《[男朋友](https://zh.wikipedia.org/wiki/男朋友 "wikilink")》OST Part.1                                                            |               |
+|         |                                                        |                                                                                                               |               |
+| ------- | ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ------------- |
+| 年份      | 歌曲                                                     | 收錄專輯                                                                                                          | 備註            |
+| 2016年   | 是愛情啊                                                   | JTBC金土劇《[老婆這週要出牆](../Page/老婆這週要出牆_\(韓國電視劇\).md "wikilink")》OST Part.4                                         | Dalchong Solo |
+| 2017年   | 어떨까 넌（你怎麼樣）                                            | SBS特別劇《[奇怪的搭檔](../Page/奇怪的搭檔.md "wikilink")》OST Part.4                                                        |               |
+| I Still | SBS月火劇《[愛情的溫度](../Page/愛情的溫度.md "wikilink")》OST Part.3 |                                                                                                               |               |
+| 2018年   | Hard for Me                                            | [MBN水木劇](https://zh.wikipedia.org/wiki/每日廣播 "wikilink")《[Rich Man](../Page/Rich_Man.md "wikilink")》OST Part.1 |               |
+|         | 영화같던날(像電影般的日子)                                         | tvN水木劇《[男朋友](https://zh.wikipedia.org/wiki/男朋友 "wikilink")》OST Part.1                                         |               |
 
 ### 合作歌曲
 
@@ -202,7 +202,7 @@ STRAWBERRY SOUND旗下廠牌PEACHES LABEL的solo歌手。
 <tr class="odd">
 <td><p>Perhaps Love</p></td>
 <td><p>Your BGM Vol. 1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Eric_Nam" title="wikilink">Eric Nam</a></p></td>
+<td><p><a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a></p></td>
 <td></td>
 <td></td>
 </tr>

@@ -22,8 +22,7 @@ P的首個开发者预览版本（即测试版）在2018年3月7日發行並提�
 
 </ref>
 
-  - [DNS over
-    TLS](https://zh.wikipedia.org/wiki/DNS_over_TLS "wikilink")。
+  - [DNS over TLS](../Page/DNS_over_TLS.md "wikilink")。
 
   - 支持[高效率图像文件格式](../Page/高效率图像文件格式.md "wikilink")。
 
@@ -60,7 +59,7 @@ P的首個开发者预览版本（即测试版）在2018年3月7日發行並提�
   - [Nokia 9 PureView](../Page/Nokia_9_PureView.md "wikilink")
   - [Nokia 4.2](https://zh.wikipedia.org/wiki/Nokia_4.2 "wikilink")
   - [Nokia 3.2](https://zh.wikipedia.org/wiki/Nokia_3.2 "wikilink")
-  - [Vivo NEX](https://zh.wikipedia.org/wiki/Vivo_NEX "wikilink") 双屏版
+  - [Vivo NEX](../Page/Vivo_NEX.md "wikilink") 双屏版
   - 华为nova 4
   - [小米9](../Page/小米9.md "wikilink") 标准版、尊享版
   - [小米9 SE](../Page/小米9_SE.md "wikilink")
@@ -141,19 +140,19 @@ Android 9正式支持下列设备：
   - [小米](../Page/小米.md "wikilink") [MIUI](../Page/MIUI.md "wikilink")
     10.x.x.0.P
       - [小米MIX 2S](../Page/小米MIX_2S.md "wikilink")（2018年10月22日）
-      - [小米8标准版](https://zh.wikipedia.org/wiki/小米8 "wikilink")、探索版（2018年12月4日\[12\]）
-      - [小米8屏幕指纹版](https://zh.wikipedia.org/wiki/小米8 "wikilink")（2018年12月26日）
+      - [小米8标准版](../Page/小米8.md "wikilink")、探索版（2018年12月4日\[12\]）
+      - [小米8屏幕指纹版](../Page/小米8.md "wikilink")（2018年12月26日）
       - [小米8 SE](../Page/小米8_SE.md "wikilink")（2019年1月25日）
       - 小米Max 3（2019年2月23日）
       - 小米8 青春版（不限量公测，2019年1月10日）
   - [华为](../Page/华为.md "wikilink") [EMUI](../Page/EMUI.md "wikilink")
     9.0
-      - [华为P20系列](https://zh.wikipedia.org/wiki/华为P20系列 "wikilink")（2018年11月10日\[13\]）
+      - [华为P20系列](../Page/华为P20系列.md "wikilink")（2018年11月10日\[13\]）
       - [华为Mate
         10系列](../Page/华为Mate_10系列.md "wikilink")（2018年11月10日\[14\]）
       - 华为 Mate RS 保时捷设计（2018年11月10日）
-      - [荣耀10](https://zh.wikipedia.org/wiki/荣耀10 "wikilink")（2018年11月10日\[15\]）
-      - [荣耀V10](https://zh.wikipedia.org/wiki/荣耀V10 "wikilink")（2018年11月10日\[16\]）
+      - [荣耀10](../Page/荣耀10.md "wikilink")（2018年11月10日\[15\]）
+      - [荣耀V10](../Page/荣耀V10.md "wikilink")（2018年11月10日\[16\]）
       - [荣耀Play](https://zh.wikipedia.org/wiki/荣耀Play "wikilink")（2018年11月10日\[17\]）
       - [华为Nova
         3](https://zh.wikipedia.org/wiki/华为Nova_3 "wikilink")（2018年12月10日）
@@ -183,13 +182,13 @@ Android 9正式支持下列设备：
     OS](https://zh.wikipedia.org/wiki/Funtouch_OS "wikilink") 4.5\[18\]
       - Vivo X21（不限量公测，2019年1月8日）
       - Vivo X21UD（不限量公测，2019年1月8日）
-      - [Vivo NEX](https://zh.wikipedia.org/wiki/Vivo_NEX "wikilink")
+      - [Vivo NEX](../Page/Vivo_NEX.md "wikilink")
         A（标准版/屏下指纹版）（不限量公测，2019年1月8日）
       - Vivo NEX S（旗舰版）（不限量公测，2019年1月8日）
   - 三星 [One UI](../Page/One_UI.md "wikilink") 1.0
       - [三星Galaxy S9](../Page/三星Galaxy_S9.md "wikilink")（2019年2月14日）
       - [三星Galaxy Note
-        9](https://zh.wikipedia.org/wiki/三星Galaxy_Note_9 "wikilink")（2019年2月14日）
+        9](../Page/三星Galaxy_Note_9.md "wikilink")（2019年2月14日）
       - [三星Galaxy S8](../Page/三星Galaxy_S8.md "wikilink")（2019年4月1日）
       - [三星Galaxy Note
         8](../Page/三星Galaxy_Note_8.md "wikilink")（2019年4月1日）

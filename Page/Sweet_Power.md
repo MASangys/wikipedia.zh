@@ -25,7 +25,7 @@ Power」，其中如[高杉真宙亦於](../Page/高杉真宙.md "wikilink")2014
 <li><a href="../Page/櫻庭奈奈美.md" title="wikilink">櫻庭奈奈美</a></li>
 <li><a href="../Page/宮武美櫻.md" title="wikilink">宮武美櫻</a></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/高月彩良" title="wikilink">高月彩良</a></li>
+<li><a href="../Page/高月彩良.md" title="wikilink">高月彩良</a></li>
 <li></li>
 <li><a href="https://zh.wikipedia.org/wiki/竹富聖花" title="wikilink">竹富聖花</a></li>
 <li><a href="../Page/知英.md" title="wikilink">知英</a>[4]</li>

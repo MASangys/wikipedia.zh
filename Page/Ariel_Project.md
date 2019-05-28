@@ -122,11 +122,11 @@ Ariel Project
 <td><p>3</p></td>
 <td><p>Music Zone @ E-Max (香港)</p></td>
 <td><p>@JAM x TALE in Hong Kong 2019[7][8][9][10]</p></td>
-<td><p>與同公司的姊妹組合ERЯOR一起參演 日本參演單位包括<a href="https://zh.wikipedia.org/wiki/櫻花蝦_(組合)" title="wikilink">櫻花蝦</a> (桜エビ～ず)、Task have Fun、彩虹征服者 (虹のコンキスタドール) 及わーすた</p>
+<td><p>與同公司的姊妹組合ERЯOR一起參演 日本參演單位包括<a href="../Page/櫻花蝦_(組合).md" title="wikilink">櫻花蝦</a> (桜エビ～ず)、Task have Fun、彩虹征服者 (虹のコンキスタドール) 及わーすた</p>
 <p>Seina在開場前以中、日雙語講解場地需知</p>
 <p>Aoi聯同里中菜月 (Task have Fun) 及廣川奈奈聖 (わーすた) 擔任開場MC</p>
-<p>與<a href="https://zh.wikipedia.org/wiki/櫻花蝦_(組合)" title="wikilink">桜エビ～ず有合演環節</a>，演唱曲目是《桜色メモリー》(AP)</p>
-<p>Mizore (ERЯOR) 聯同水春 (<a href="https://zh.wikipedia.org/wiki/櫻花蝦_(組合)" title="wikilink">桜エビ～ず</a>) 及的場華鈴 (虹のコンキスタドール) 擔任閉幕MC</p></td>
+<p>與<a href="../Page/櫻花蝦_(組合).md" title="wikilink">桜エビ～ず有合演環節</a>，演唱曲目是《桜色メモリー》(AP)</p>
+<p>Mizore (ERЯOR) 聯同水春 (<a href="../Page/櫻花蝦_(組合).md" title="wikilink">桜エビ～ず</a>) 及的場華鈴 (虹のコンキスタドール) 擔任閉幕MC</p></td>
 </tr>
 <tr class="even">
 <td><p>23</p></td>
@@ -309,7 +309,7 @@ Ariel Project
     Project（アリエルプロジェクト）遠征日本發行首張單曲『桜色メモリー』\[34\]
   - 2018年1月30日：日本女藝人專題網站ACTRESS
     PRESS《アリエルプロジェクト、待望の1stシングル「桜色メモリー」を3月3日に発売決定！》\[35\]
-  - 2018年2月24日：[ATV亞洲電視](https://zh.wikipedia.org/wiki/亞洲電視數碼媒體 "wikilink")（香港）《激活音樂—音樂講呢D》專訪\[36\]
+  - 2018年2月24日：[ATV亞洲電視](../Page/亞洲電視數碼媒體.md "wikilink")（香港）《激活音樂—音樂講呢D》專訪\[36\]
   - 2018年2月25日：[新城知訊台](https://zh.wikipedia.org/wiki/新城知訊台 "wikilink")（香港）《周末日常》專訪\[37\]
   - 2018年3月7日：台灣日系偶像專題網媒ATC Taiwan【新聞】香港偶像Ariel Project新單曲紀念活動
     首次擔任新星堂一日店長\[38\]

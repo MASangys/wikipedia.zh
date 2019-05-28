@@ -33,7 +33,7 @@
   - 1882年 -
     世界第一個[發電站在](https://zh.wikipedia.org/wiki/發電站 "wikilink")[南卡羅來納州](https://zh.wikipedia.org/wiki/南卡羅來納州 "wikilink")
   - 1884年 -
-    [AIEE](https://zh.wikipedia.org/wiki/美国电气工程学会 "wikilink")（[IEEE前身](https://zh.wikipedia.org/wiki/IEEE "wikilink")）技術會議首次召開
+    [AIEE](../Page/美国电气工程学会.md "wikilink")（[IEEE前身](https://zh.wikipedia.org/wiki/IEEE "wikilink")）技術會議首次召開
   - 1886年 -
     [威廉·史坦雷發明了世界第一個完整的](../Page/威廉·史坦雷_\(物理學家\).md "wikilink")[交流電發電系統](../Page/交流電.md "wikilink")
   - 1887年 -

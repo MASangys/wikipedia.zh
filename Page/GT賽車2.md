@@ -1,7 +1,7 @@
-是一款在[索尼](../Page/索尼.md "wikilink")[PlayStation上发行的](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[竞速游戏](https://zh.wikipedia.org/wiki/竞速游戏 "wikilink")。GT赛车2由[Polyphony
+是一款在[索尼](../Page/索尼.md "wikilink")[PlayStation上发行的](../Page/PlayStation.md "wikilink")[竞速游戏](https://zh.wikipedia.org/wiki/竞速游戏 "wikilink")。GT赛车2由[Polyphony
 Digital](../Page/Polyphony_Digital.md "wikilink")
 制作、[索尼電腦娛樂于](https://zh.wikipedia.org/wiki/索尼電腦娛樂 "wikilink")1999年发行。本游戏是《[GT賽車](https://zh.wikipedia.org/wiki/GT賽車_\(遊戲\) "wikilink")》的续作。本游戏收到好评，在日本共售出171万份，在东南亚售出2万份，在北美地区售出396万份，在欧洲守护368万份。至2008年4月30日，共售出937万份。\[1\]\[2\]并最终成为索尼[Greatest
-Hits](https://zh.wikipedia.org/wiki/Greatest_Hits "wikilink") 游戏。
+Hits](../Page/Greatest_Hits.md "wikilink") 游戏。
 
 本作收到[Metacritic](../Page/Metacritic.md "wikilink")93%的关注。GT赛车2也是第一款在[Dreamcast上通过Bleemcast模拟的游戏](../Page/Dreamcast.md "wikilink")。
 

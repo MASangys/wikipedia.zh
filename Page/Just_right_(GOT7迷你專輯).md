@@ -17,7 +17,7 @@ right》完整MV，7月14日發行實體專輯。
 
 本專輯共收錄6首歌曲，主打歌《Just
 right》由曾為[賈斯汀·比伯](https://zh.wikipedia.org/wiki/賈斯汀·比伯 "wikilink")、[瑪丹娜](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")、[克里斯小子等多位知名歌手擔任製作](https://zh.wikipedia.org/wiki/克里斯小子 "wikilink")、屢獲[葛萊美獎的雙人創作組合](../Page/葛萊美獎.md "wikilink")作曲和製作，[朴軫永擔任填詞](../Page/朴軫永.md "wikilink")，結合美國[南部嘻哈節奏與](../Page/南部嘻哈.md "wikilink")[流行音樂旋律](https://zh.wikipedia.org/wiki/流行音樂 "wikilink")，講述男友安慰並鼓勵缺乏自信的女友的故事。\[4\]
-而成員[JB](../Page/林在範.md "wikilink")、[Mark](https://zh.wikipedia.org/wiki/段宜恩 "wikilink")、[Jackson也分別參與了歌曲](../Page/王嘉爾.md "wikilink")〈Mine〉和〈Back
+而成員[JB](../Page/林在範.md "wikilink")、[Mark](../Page/段宜恩.md "wikilink")、[Jackson也分別參與了歌曲](../Page/王嘉爾.md "wikilink")〈Mine〉和〈Back
 To Me〉的rap歌詞創作。
 
 ### 發行版本

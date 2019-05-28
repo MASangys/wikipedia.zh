@@ -21,7 +21,7 @@ library](https://zh.wikipedia.org/wiki/Dynamic-Link_Library "wikilink")）。
     (kerberos.dll) - Windows 2000及更高版本中首选的客户端-服务器域相互身份验证。\[4\]
 
   - （Windows 2000中引入）(secur32.dll) -
-    选择Kerberos，如果不可用则选择NTLM协议。协商SSP提供[單一登入能力](https://zh.wikipedia.org/wiki/單一登入 "wikilink")，有时称为（尤其是用于IIS时）。\[5\]在[Windows
+    选择Kerberos，如果不可用则选择NTLM协议。协商SSP提供[單一登入能力](../Page/單一登入.md "wikilink")，有时称为（尤其是用于IIS时）。\[5\]在[Windows
     7及更高版本中](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，NEGOExts引入了协商使用客户端和服务器上支持的已安装定制SSP进行身份验证。
 
   - 安全通道（也称SChannel） - [Windows

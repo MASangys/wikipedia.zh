@@ -22,7 +22,7 @@ ISIS酱最初源於一些2ch网民对于[中东地区](https://zh.wikipedia.org/
 
 ## 参见
 
-  - [日本鬼子 (角色)](https://zh.wikipedia.org/wiki/日本鬼子_\(角色\) "wikilink")
+  - [日本鬼子 (角色)](../Page/日本鬼子_\(角色\).md "wikilink")
 
 ## 参考文献
 

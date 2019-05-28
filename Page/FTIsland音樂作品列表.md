@@ -1,4 +1,4 @@
-**[FTIsland](../Page/FTIsland.md "wikilink")**是韓國[流行搖滾樂團](../Page/流行搖滾.md "wikilink")，現隸屬於[FNC娛樂](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")，於2007年以專輯《Cheerful
+**[FTIsland](../Page/FTIsland.md "wikilink")**是韓國[流行搖滾樂團](../Page/流行搖滾.md "wikilink")，現隸屬於[FNC娛樂](../Page/FNC娛樂.md "wikilink")，於2007年以專輯《Cheerful
 Sensibility》正式出道。迄今共發行16張專輯、3張合輯、8張迷你專輯及36張單曲。
 
 ## 專輯
@@ -33,7 +33,7 @@ Sensibility》正式出道。迄今共發行16張專輯、3張合輯、8張迷�
 <td><p>Cheerful Sensibility}}</p></td>
 <td><ul>
 <li>日期：2007年6月7日</li>
-<li>廠牌：<a href="https://zh.wikipedia.org/wiki/FNC娛樂" title="wikilink">FNC音樂</a></li>
+<li>廠牌：<a href="../Page/FNC娛樂.md" title="wikilink">FNC音樂</a></li>
 <li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="https://zh.wikipedia.org/wiki/數位下載" title="wikilink">數位下載</a></li>
 </ul></td>
 <td><p>6</p></td>
@@ -168,7 +168,7 @@ Sensibility》正式出道。迄今共發行16張專輯、3張合輯、8張迷�
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/20［twenty］" title="wikilink">20 (Twenty)</a></p></td>
+<td><p><a href="../Page/20［twenty］.md" title="wikilink">20 (Twenty)</a></p></td>
 <td><ul>
 <li>日期：2012年5月16日</li>
 <li>廠牌：日本華納音樂</li>
@@ -178,7 +178,7 @@ Sensibility》正式出道。迄今共發行16張專輯、3張合輯、8張迷�
 <td><p>4</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/RATED-FT" title="wikilink">Rated-FT</a></p></td>
+<td><p><a href="../Page/RATED-FT.md" title="wikilink">Rated-FT</a></p></td>
 <td><ul>
 <li>日期：2013年6月5日</li>
 <li>廠牌：日本華納音樂</li>
@@ -228,7 +228,7 @@ Sensibility》正式出道。迄今共發行16張專輯、3張合輯、8張迷�
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Planet_Bonds" title="wikilink">Planet Bonds</a></p></td>
+<td><p><a href="../Page/Planet_Bonds.md" title="wikilink">Planet Bonds</a></p></td>
 <td><ul>
 <li>日期：2018年4月11日[3]</li>
 <li>廠牌：日本華納音樂</li>
@@ -633,7 +633,7 @@ Sensibility》正式出道。迄今共發行16張專輯、3張合輯、8張迷�
 <td><p>Jump Up}}</p></td>
 <td><ul>
 <li>日期：2009年2月11日</li>
-<li>廠牌：<a href="https://zh.wikipedia.org/wiki/FNC娛樂" title="wikilink">FNC音樂</a></li>
+<li>廠牌：<a href="../Page/FNC娛樂.md" title="wikilink">FNC音樂</a></li>
 <li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="https://zh.wikipedia.org/wiki/數位下載" title="wikilink">數位下載</a></li>
 </ul></td>
 <td><p>－</p></td>

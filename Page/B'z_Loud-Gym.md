@@ -1,5 +1,5 @@
 **B'z
-Loud-Gym**是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z的](../Page/B'z.md "wikilink")30週年紀念活動\[1\]。自[2017年](../Page/2017年.md "wikilink")[9月21日起至](../Page/9月21日.md "wikilink")[2018年](../Page/2018年.md "wikilink")[9月20日止](../Page/9月20日.md "wikilink")，每月1次，共計舉行了13次。
+Loud-Gym**是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[組合](../Page/音樂組合.md "wikilink")[B'z的](../Page/B'z.md "wikilink")30週年紀念活動\[1\]。自[2017年](../Page/2017年.md "wikilink")[9月21日起至](../Page/9月21日.md "wikilink")[2018年](../Page/2018年.md "wikilink")[9月20日止](../Page/9月20日.md "wikilink")，每月1次，共計舉行了13次。
 
 ## 概要
 
@@ -94,7 +94,7 @@ DRUM Be-1(福岡)<br />
 </div>
 </div>
 <p>全會場同日舉行。<br />
-播放『<a href="https://zh.wikipedia.org/wiki/B&#39;z_COMPLETE_SINGLE_BOX" title="wikilink">B'z COMPLETE SINGLE BOX</a>』的特典影像與「B'z SHOWCASE 2009 -B'z IN YOUR TOWN-」 まつもと市民芸術館公演的影像集錦。</p></td>
+播放『<a href="../Page/B&#39;z_COMPLETE_SINGLE_BOX.md" title="wikilink">B'z COMPLETE SINGLE BOX</a>』的特典影像與「B'z SHOWCASE 2009 -B'z IN YOUR TOWN-」 まつもと市民芸術館公演的影像集錦。</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年<a href="../Page/10月13日.md" title="wikilink">10月13日</a>～<a href="../Page/10月26日.md" title="wikilink">10月26日</a></p></td>
@@ -218,7 +218,7 @@ DRUM Be-1(福岡)<br />
 11/24 桜坂セントラル(沖縄)</p>
 </div>
 </div>
-<p>播放<a href="../Page/11月29日.md" title="wikilink">11月29日發售專輯</a>「<a href="https://zh.wikipedia.org/wiki/DINOSAUR" title="wikilink">DINOSAUR</a>」的音源。此外，在結尾會播出「<a href="https://zh.wikipedia.org/wiki/DINOSAUR" title="wikilink">Dinosaur</a>」「<a href="https://zh.wikipedia.org/wiki/DINOSAUR" title="wikilink">CHAMP</a>」的<a href="../Page/音樂錄影帶.md" title="wikilink">MV</a>。</p></td>
+<p>播放<a href="../Page/11月29日.md" title="wikilink">11月29日發售專輯</a>「<a href="../Page/DINOSAUR.md" title="wikilink">DINOSAUR</a>」的音源。此外，在結尾會播出「<a href="../Page/DINOSAUR.md" title="wikilink">Dinosaur</a>」「<a href="../Page/DINOSAUR.md" title="wikilink">CHAMP</a>」的<a href="../Page/音樂錄影帶.md" title="wikilink">MV</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年<a href="../Page/12月5日.md" title="wikilink">12月5日</a>～<a href="../Page/12月22日.md" title="wikilink">12月22日</a></p></td>
@@ -471,7 +471,7 @@ DRUM Be-1(福岡)<br />
 03/16 桜坂セントラル(沖縄)</p>
 </div>
 </div>
-<p>播放由各地區票選冠軍的<a href="https://zh.wikipedia.org/wiki/LIVE-GYM" title="wikilink">LIVE-GYM影像作品</a><ref>對象影像作品為『<a href="https://zh.wikipedia.org/wiki/LIVE_RIPPER" title="wikilink">LIVE RIPPER</a>』、『[["BUZZ</p></td>
+<p>播放由各地區票選冠軍的<a href="../Page/LIVE-GYM.md" title="wikilink">LIVE-GYM影像作品</a><ref>對象影像作品為『<a href="https://zh.wikipedia.org/wiki/LIVE_RIPPER" title="wikilink">LIVE RIPPER</a>』、『[["BUZZ</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年<a href="../Page/4月16日.md" title="wikilink">4月16日</a>～<a href="../Page/4月27日.md" title="wikilink">4月27日</a></p></td>

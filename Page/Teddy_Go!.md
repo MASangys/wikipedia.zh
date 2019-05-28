@@ -23,7 +23,7 @@
   - 大橋正：
   - 住吉浩介：[小柳友](../Page/小柳友.md "wikilink")
   - 古谷政則：
-  - 天野杏：[永野芽郁](https://zh.wikipedia.org/wiki/永野芽郁 "wikilink")
+  - 天野杏：[永野芽郁](../Page/永野芽郁.md "wikilink")
   - 高井陸：
   - 白石沙樹：MOMOKO
   - 山瀨厚子：

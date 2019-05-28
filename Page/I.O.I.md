@@ -91,7 +91,7 @@ K-Pop 新人」第一為I.O.I，更表示「儘管她們的組合壽命很短，
 2017年6月16日，I.O.I (除了金世正、磪有情)出席《PRODUCE 101 S2》決賽為練習生打氣。
 
 2017年11月29日，I.O.I
-成員林娜榮、金請夏、周潔瓊、磪有情、金度延到日本參加《[2017年Mnet亞洲音樂大獎](https://zh.wikipedia.org/wiki/2017年Mnet亞洲音樂大獎 "wikilink")》，與[AKB48分隊表演合作舞臺](../Page/AKB48.md "wikilink")。
+成員林娜榮、金請夏、周潔瓊、磪有情、金度延到日本參加《[2017年Mnet亞洲音樂大獎](../Page/2017年Mnet亞洲音樂大獎.md "wikilink")》，與[AKB48分隊表演合作舞臺](../Page/AKB48.md "wikilink")。
 
 2018年2月14日，公開了由分隊主唱的新版《Hand in
 Hand》，为平昌冬奥会应援。本次音源是在2016年版本的基础上，去掉了国民应援团的声音，只用I.O.I的歌声进行了再次编曲。音源封面以1988和2018数字结合而成，再现88奥运的感动。\[49\]
@@ -100,9 +100,9 @@ Hand》，为平昌冬奥会应援。本次音源是在2016年版本的基础上
 48》的錄製。作為前兩季的選秀代表和前輩，給予練習生建議和應援。\[50\]\[51\]6月1日播出拍攝的預告片，以平行移動拍攝的方式，每個人以轉頭交代下一個人，預告裡的音訊是每個人當初宣佈入選後的感言。\[52\]
 
 I.O.I的版權轉由Stone Music Entertainment管理。2018年6月22日，Stone Music
-Entertainment重新發行原本已停印的I.O.I的《[Chrysalis](https://zh.wikipedia.org/wiki/Chrysalis_\(I.O.I迷你專輯\) "wikilink")》、《Whatta
+Entertainment重新發行原本已停印的I.O.I的《[Chrysalis](../Page/Chrysalis_\(I.O.I迷你專輯\).md "wikilink")》、《Whatta
 Man》 & 《[Miss
-Me?](https://zh.wikipedia.org/wiki/Miss_Me? "wikilink")》專輯\[53\]\[54\]\[55\]。6月25-26日，Stone
+Me?](../Page/Miss_Me?.md "wikilink")》專輯\[53\]\[54\]\[55\]。6月25-26日，Stone
 Music
 Entertainment在YouTube頻道上傳了I.O.I所有MV，在9月22日刪除在1theK頻道上的原版MV\[56\]\[57\]\[58\]。
 
@@ -148,7 +148,7 @@ E\&M方面則回應：「現在確實正在討論重組I.O.I，但是現在還�
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/M&amp;H娛樂" title="wikilink">M&amp;H娛樂</a></p></td>
+<td><p><a href="../Page/M&amp;H娛樂.md" title="wikilink">M&amp;H娛樂</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -193,7 +193,7 @@ Joo Kyul-kyung</p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/S&amp;P娛樂" title="wikilink">S&amp;P娛樂</a></p></td>
+<td><p><a href="../Page/S&amp;P娛樂.md" title="wikilink">S&amp;P娛樂</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -217,7 +217,7 @@ Joo Kyul-kyung</p></td>
 <td></td>
 <td><p><a href="../Page/Fantagio.md" title="wikilink">Fantagio</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Weki_Meki" title="wikilink">Weki Meki</a></p></td>
+<td><p><a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/康美娜" title="wikilink">康美娜</a></p></td>
@@ -239,7 +239,7 @@ Joo Kyul-kyung</p></td>
 <td></td>
 <td><p><a href="../Page/Fantagio.md" title="wikilink">Fantagio</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Weki_Meki" title="wikilink">Weki Meki</a></p></td>
+<td><p><a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/全昭彌" title="wikilink">全昭彌</a></p></td>
@@ -261,8 +261,8 @@ Joo Kyul-kyung</p></td>
 
 ### 迷你專輯
 
-  - 2016年：[Chrysalis](https://zh.wikipedia.org/wiki/Chrysalis_\(I.O.I迷你專輯\) "wikilink")
-  - 2016年：[Miss Me?](https://zh.wikipedia.org/wiki/Miss_Me? "wikilink")
+  - 2016年：[Chrysalis](../Page/Chrysalis_\(I.O.I迷你專輯\).md "wikilink")
+  - 2016年：[Miss Me?](../Page/Miss_Me?.md "wikilink")
 
 ### 單曲
 
@@ -378,7 +378,7 @@ Joo Kyul-kyung</p></td>
 <tr class="even">
 <td><p>2016年11月19日</p></td>
 <td><p>第八屆<a href="../Page/甜瓜音樂獎.md" title="wikilink">Melon Music Awards</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高尺天空巨蛋" title="wikilink">首尔九老区高尺圆顶球场</a></p></td>
+<td><p><a href="../Page/高尺天空巨蛋.md" title="wikilink">首尔九老区高尺圆顶球场</a></p></td>
 <td><p>너무너무너무(Very Very Very)+Dream Girls</p></td>
 </tr>
 <tr class="odd">
@@ -397,7 +397,7 @@ Joo Kyul-kyung</p></td>
 <td><p>2016年12月29日</p></td>
 <td><p>2016 KBS歌謠大祝祭</p></td>
 <td></td>
-<td><p>Pick Me+Into The New World-<a href="https://zh.wikipedia.org/wiki/SNSD" title="wikilink">SNSD</a><small>(與<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>、<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>)</small>+<br />
+<td><p>Pick Me+Into The New World-<a href="https://zh.wikipedia.org/wiki/SNSD" title="wikilink">SNSD</a><small>(與<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>、<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>)</small>+<br />
 Whatta Man+너무너무너무</p></td>
 </tr>
 <tr class="even">
@@ -423,52 +423,52 @@ Whatta Man+너무너무너무</p></td>
 
 ### 其他大型公演
 
-|                      |                                                           |                                                                |                     |          |
-| -------------------- | --------------------------------------------------------- | -------------------------------------------------------------- | ------------------- | -------- |
-| 日期                   | 公演名稱                                                      | 舉行地點                                                           | 參與成員                | 備註       |
-| 2016年                |                                                           |                                                                |                     |          |
-| 4月29日                | Youth Festival                                            | [首爾樂天世界](https://zh.wikipedia.org/wiki/樂天世界 "wikilink")        | 全員                  |          |
-| 5月8日                 | C-Festival at COEX                                        | [首爾永東大橋](https://zh.wikipedia.org/wiki/永東大橋 "wikilink")        |                     |          |
-| 5月17日                | KBS1 開放音樂會\[75\]                                          | KBS大禮堂                                                         | 6月5日放送              |          |
-| 5月22日                | 現代汽車 brilliant motor festival                             | [仁川松島國際都市賽場](../Page/松島國際都市.md "wikilink")                     |                     |          |
-| 5月27日                | May I ♥ You                                               | [首爾延世大學](../Page/延世大學.md "wikilink")                           |                     |          |
-| 6月2日                 | KCON 2016 France\[76\]                                    | [巴黎貝爾西體育館](../Page/巴黎貝爾西體育館.md "wikilink")                     | 6月14日放送 昭彌未表演\[77\] |          |
-| 6月4日                 | 2016 Dream Concert                                        | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                     | 6月12日放送             |          |
-| 6月18日                | [水原](../Page/水原市.md "wikilink") K-POP Super Concert\[78\] | [水原世界盃競技場](../Page/水原世界盃競技場.md "wikilink")                     | ①                   | 6月21日放送  |
-| 7月2日                 | 2016 ETUDE Pink Play Concert                              | [首尔東大門設計廣場](https://zh.wikipedia.org/wiki/東大門設計廣場 "wikilink")  | 全員                  |          |
-| 7月9日                 | KB 國民銀行 Liiv CONCERT                                      | [首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")              |                     |          |
-| 7月16日                | Park Concert in Seongnam\[79\]                            | [城南市](../Page/城南市.md "wikilink")                               |                     |          |
-| 7月30日                | KCON 2016 USA in LA\[80\]                                 | [洛杉磯史坦波中心](../Page/斯台普斯中心.md "wikilink")                       |                     |          |
-| 8月5日                 | 2016 JUMF 全州終極音樂節\[81\]                                   | [全州綜合競技場](../Page/全州市.md "wikilink")                           | ①                   |          |
-| 8月22日                | PETIZEL COOL SUMMER DESSERT PICNIC                        | [首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")              | 全員                  |          |
-| 9月4日                 | 2016 Taekwondo Peace Festivel                             | [首尔市厅前广场](https://zh.wikipedia.org/wiki/首尔 "wikilink")         | ①                   | 9月7日放送   |
-| 9月10日                | 華城市青少年节                                                   | [首尔奖忠体育馆](https://zh.wikipedia.org/wiki/奖忠体育馆 "wikilink")      |                     |          |
-| 9月21日                | Samsung SSD Global Summit 2016                            |                                                                |                     |          |
-| 9月22日                | KBS1 開放音樂會                                                | KBS大禮堂                                                         | 10月2日放送             |          |
-| 9月24日                | INCHEON K-POP CONCERT 2016                                | [仁川文鶴競技場](../Page/仁川文鶴競技場.md "wikilink")                       |                     |          |
-| 9月28日                | Whinny World Opening Festival                             |                                                                |                     |          |
-| 9月29日                | 2016年多岛海杯国际帆船拉力赛                                          |                                                                |                     |          |
-| 群长大学                 | [全罗北道群长大学](https://zh.wikipedia.org/wiki/全罗北道 "wikilink") |                                                                |                     |          |
-| 9月30                 | 仁川富平風物節音樂會                                                | [仁川富平大路](../Page/富平區.md "wikilink")                            |                     |          |
-| 韓流慶典 K-POP演唱會        | [首爾江南區永東大路](../Page/江南區_\(首爾\).md "wikilink")             | 音樂銀行特輯                                                         |                     |          |
-| 10月1日                | 2016 BUSAN ONE ASIA FESTIVAL                              | [釜山](../Page/釜山廣域市.md "wikilink")                              |                     |          |
-| 10月2日                | 百濟文化節閉幕式                                                  | [公州市锦江新官公园](../Page/公州市.md "wikilink")                         | 第62屆                |          |
-| 10月7日                | 交通大學Festival                                              | 交通大學義王校區                                                       |                     |          |
-| 10月8日                | 首爾演唱會                                                     | [汝矣岛汉江公园Multi](https://zh.wikipedia.org/wiki/汝矣岛 "wikilink")   |                     |          |
-| LPG Concert          | [蚕室站学生体育馆](../Page/蚕室站.md "wikilink")                     |                                                                |                     |          |
-| 10月9日                | TogetherU Festivel                                        | [首尔忠清南道牙山市溫陽溫泉地區](../Page/牙山市.md "wikilink")                   |                     |          |
-| 10月21日               | 木铺音乐节                                                     | 木铺                                                             | 全員                  | 11月1日放送  |
-| 10月22日               | KBS 青少年音樂會                                                | [首尔日山Kintex展示厅](https://zh.wikipedia.org/wiki/首尔 "wikilink")2  | ①                   | 10月30日放送 |
-| 10月27日               | M Countdown in JEJU                                       | [濟州島综合竞技场](https://zh.wikipedia.org/wiki/濟州島 "wikilink")       | 全員                  |          |
-| 东首尔大学Festival        | [东首尔大学](https://zh.wikipedia.org/wiki/首尔大学 "wikilink")    | ①                                                              |                     |          |
-| 10月28日               | 仁川大桥开通7周年纪念演唱会                                            |                                                                | 11月13日放送            |          |
-| 10月29日               | The Woods PARK HOLIC                                      | [首尔儿童大公园](https://zh.wikipedia.org/wiki/首尔 "wikilink")         |                     |          |
-| 11月18日               | 《音樂銀行》慶州特輯                                                | [慶州市民运动场](../Page/慶州市.md "wikilink")                           | 全員                  |          |
-| 11月19日               | 2016 Melon Music Awards                                   | [首尔九老区高尺圆顶球场](https://zh.wikipedia.org/wiki/高尺天空巨蛋 "wikilink") |                     |          |
-| 11月30日               | MBN Hero Concert                                          |                                                                | ①                   | 12月3日放送  |
-| 12月17日               | KB銀行速滑世界盃大會                                               |                                                                |                     |          |
-| Haiwon Dream Concert |                                                           |                                                                |                     |          |
-| 12月19日               | 江南站開幕式                                                    |                                                                |                     |          |
+|                      |                                                           |                                                               |                     |          |
+| -------------------- | --------------------------------------------------------- | ------------------------------------------------------------- | ------------------- | -------- |
+| 日期                   | 公演名稱                                                      | 舉行地點                                                          | 參與成員                | 備註       |
+| 2016年                |                                                           |                                                               |                     |          |
+| 4月29日                | Youth Festival                                            | [首爾樂天世界](https://zh.wikipedia.org/wiki/樂天世界 "wikilink")       | 全員                  |          |
+| 5月8日                 | C-Festival at COEX                                        | [首爾永東大橋](https://zh.wikipedia.org/wiki/永東大橋 "wikilink")       |                     |          |
+| 5月17日                | KBS1 開放音樂會\[75\]                                          | KBS大禮堂                                                        | 6月5日放送              |          |
+| 5月22日                | 現代汽車 brilliant motor festival                             | [仁川松島國際都市賽場](../Page/松島國際都市.md "wikilink")                    |                     |          |
+| 5月27日                | May I ♥ You                                               | [首爾延世大學](../Page/延世大學.md "wikilink")                          |                     |          |
+| 6月2日                 | KCON 2016 France\[76\]                                    | [巴黎貝爾西體育館](../Page/巴黎貝爾西體育館.md "wikilink")                    | 6月14日放送 昭彌未表演\[77\] |          |
+| 6月4日                 | 2016 Dream Concert                                        | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink")                    | 6月12日放送             |          |
+| 6月18日                | [水原](../Page/水原市.md "wikilink") K-POP Super Concert\[78\] | [水原世界盃競技場](../Page/水原世界盃競技場.md "wikilink")                    | ①                   | 6月21日放送  |
+| 7月2日                 | 2016 ETUDE Pink Play Concert                              | [首尔東大門設計廣場](https://zh.wikipedia.org/wiki/東大門設計廣場 "wikilink") | 全員                  |          |
+| 7月9日                 | KB 國民銀行 Liiv CONCERT                                      | [首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")             |                     |          |
+| 7月16日                | Park Concert in Seongnam\[79\]                            | [城南市](../Page/城南市.md "wikilink")                              |                     |          |
+| 7月30日                | KCON 2016 USA in LA\[80\]                                 | [洛杉磯史坦波中心](../Page/斯台普斯中心.md "wikilink")                      |                     |          |
+| 8月5日                 | 2016 JUMF 全州終極音樂節\[81\]                                   | [全州綜合競技場](../Page/全州市.md "wikilink")                          | ①                   |          |
+| 8月22日                | PETIZEL COOL SUMMER DESSERT PICNIC                        | [首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")             | 全員                  |          |
+| 9月4日                 | 2016 Taekwondo Peace Festivel                             | [首尔市厅前广场](https://zh.wikipedia.org/wiki/首尔 "wikilink")        | ①                   | 9月7日放送   |
+| 9月10日                | 華城市青少年节                                                   | [首尔奖忠体育馆](https://zh.wikipedia.org/wiki/奖忠体育馆 "wikilink")     |                     |          |
+| 9月21日                | Samsung SSD Global Summit 2016                            |                                                               |                     |          |
+| 9月22日                | KBS1 開放音樂會                                                | KBS大禮堂                                                        | 10月2日放送             |          |
+| 9月24日                | INCHEON K-POP CONCERT 2016                                | [仁川文鶴競技場](../Page/仁川文鶴競技場.md "wikilink")                      |                     |          |
+| 9月28日                | Whinny World Opening Festival                             |                                                               |                     |          |
+| 9月29日                | 2016年多岛海杯国际帆船拉力赛                                          |                                                               |                     |          |
+| 群长大学                 | [全罗北道群长大学](https://zh.wikipedia.org/wiki/全罗北道 "wikilink") |                                                               |                     |          |
+| 9月30                 | 仁川富平風物節音樂會                                                | [仁川富平大路](../Page/富平區.md "wikilink")                           |                     |          |
+| 韓流慶典 K-POP演唱會        | [首爾江南區永東大路](../Page/江南區_\(首爾\).md "wikilink")             | 音樂銀行特輯                                                        |                     |          |
+| 10月1日                | 2016 BUSAN ONE ASIA FESTIVAL                              | [釜山](../Page/釜山廣域市.md "wikilink")                             |                     |          |
+| 10月2日                | 百濟文化節閉幕式                                                  | [公州市锦江新官公园](../Page/公州市.md "wikilink")                        | 第62屆                |          |
+| 10月7日                | 交通大學Festival                                              | 交通大學義王校區                                                      |                     |          |
+| 10月8日                | 首爾演唱會                                                     | [汝矣岛汉江公园Multi](https://zh.wikipedia.org/wiki/汝矣岛 "wikilink")  |                     |          |
+| LPG Concert          | [蚕室站学生体育馆](../Page/蚕室站.md "wikilink")                     |                                                               |                     |          |
+| 10月9日                | TogetherU Festivel                                        | [首尔忠清南道牙山市溫陽溫泉地區](../Page/牙山市.md "wikilink")                  |                     |          |
+| 10月21日               | 木铺音乐节                                                     | 木铺                                                            | 全員                  | 11月1日放送  |
+| 10月22日               | KBS 青少年音樂會                                                | [首尔日山Kintex展示厅](https://zh.wikipedia.org/wiki/首尔 "wikilink")2 | ①                   | 10月30日放送 |
+| 10月27日               | M Countdown in JEJU                                       | [濟州島综合竞技场](https://zh.wikipedia.org/wiki/濟州島 "wikilink")      | 全員                  |          |
+| 东首尔大学Festival        | [东首尔大学](https://zh.wikipedia.org/wiki/首尔大学 "wikilink")    | ①                                                             |                     |          |
+| 10月28日               | 仁川大桥开通7周年纪念演唱会                                            |                                                               | 11月13日放送            |          |
+| 10月29日               | The Woods PARK HOLIC                                      | [首尔儿童大公园](https://zh.wikipedia.org/wiki/首尔 "wikilink")        |                     |          |
+| 11月18日               | 《音樂銀行》慶州特輯                                                | [慶州市民运动场](../Page/慶州市.md "wikilink")                          | 全員                  |          |
+| 11月19日               | 2016 Melon Music Awards                                   | [首尔九老区高尺圆顶球场](../Page/高尺天空巨蛋.md "wikilink")                   |                     |          |
+| 11月30日               | MBN Hero Concert                                          |                                                               | ①                   | 12月3日放送  |
+| 12月17日               | KB銀行速滑世界盃大會                                               |                                                               |                     |          |
+| Haiwon Dream Concert |                                                           |                                                               |                     |          |
+| 12月19日               | 江南站開幕式                                                    |                                                               |                     |          |
 
 ## 獎項
 

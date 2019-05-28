@@ -46,7 +46,7 @@ C12C瞄準具，以使其更輕易地從轟炸機的防禦範圍以外採取遠�
   - [QF 6 PDR M級Mk I＋自動裝彈機Mk
     III](https://zh.wikipedia.org/wiki/QF_6磅炮 "wikilink")（6PDR莫林斯炮）
 
-  - [NS-45機炮](https://zh.wikipedia.org/wiki/NS-45機炮 "wikilink")
+  - [NS-45機炮](../Page/NS-45機炮.md "wikilink")
 
 ## 資料來源
 

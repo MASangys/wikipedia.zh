@@ -46,7 +46,7 @@ Hour}-》安排在日本全國的AM、FM、私營電台等總共101個電台播�
 
 在實體銷售方面，發售首日以87,088張的銷量登上[Oricon公信榜日榜第一位](../Page/Oricon.md "wikilink")\[78\]，並以252,581张的銷量獲得當周[Oricon公信榜專輯第一名的成績](../Page/Oricon.md "wikilink")，為2016年女歌手日本國內最高的首周銷量紀錄\[79\]
 ，同時位列2016年度全球女歌手中第二高的首周銷量紀錄，僅次於[碧昂丝的](https://zh.wikipedia.org/wiki/碧昂丝 "wikilink")《[柠檬特调](https://zh.wikipedia.org/wiki/柠檬特调 "wikilink")》\[80\]。比起同週發售、合共三个版本\[81\]的[放浪兄弟](../Page/放浪兄弟.md "wikilink")15週年紀念精選專輯《[EXTREME
-BEST](https://zh.wikipedia.org/wiki/EXTREME_BEST "wikilink")》，僅以一版本發售的《Fantôme》還要高出近7.5萬張的銷量。\[82\]
+BEST](../Page/EXTREME_BEST.md "wikilink")》，僅以一版本發售的《Fantôme》還要高出近7.5萬張的銷量。\[82\]
 
 第二週以103,854張，蟬聯[Oricon公信榜專輯第一名](../Page/Oricon.md "wikilink")\[83\]。第三週以63,207張，再度蟬聯Oricon公信榜專輯第一名\[84\]。第四週以4.6万張，繼續蟬聯Oricon公信榜專輯第一名\[85\]，為精選專輯《[Utada
 Hikaru SINGLE COLLECTION

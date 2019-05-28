@@ -7,14 +7,14 @@ Company娛樂公司練習生](https://zh.wikipedia.org/wiki/Dublekick_Company "w
   - [Nancy](https://zh.wikipedia.org/wiki/Nancy_Jewel_McDonie "wikilink")
   - [妍雨](../Page/MOMOLAND.md "wikilink")
   - [慧彬](https://zh.wikipedia.org/wiki/慧彬 "wikilink")
-  - [JooE](https://zh.wikipedia.org/wiki/JooE "wikilink")
+  - [JooE](../Page/JooE.md "wikilink")
   - [Jane](../Page/MOMOLAND.md "wikilink")
   - [妸仁](https://zh.wikipedia.org/wiki/妸仁 "wikilink")
   - [娜允](https://zh.wikipedia.org/wiki/娜允 "wikilink")
   - [Daisy](../Page/MOMOLAND.md "wikilink")(曾是JYP
     Entertainment練習生)(落選，但在2017年中途加入MOMOLAND)
-  - [申時雅](https://zh.wikipedia.org/wiki/尋找MOMOLAND "wikilink")(落選)
-  - [熙在](https://zh.wikipedia.org/wiki/尋找MOMOLAND "wikilink")(落選)
+  - [申時雅](../Page/尋找MOMOLAND.md "wikilink")(落選)
+  - [熙在](../Page/尋找MOMOLAND.md "wikilink")(落選)
 
 ## 特別評審資訊
 
@@ -40,7 +40,7 @@ Company娛樂公司練習生](https://zh.wikipedia.org/wiki/Dublekick_Company "w
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2016年8月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -50,7 +50,7 @@ Company娛樂公司練習生](https://zh.wikipedia.org/wiki/Dublekick_Company "w
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>2016年8月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a></p></td>
+<td><p><a href="../Page/Jessi.md" title="wikilink">Jessi</a></p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>

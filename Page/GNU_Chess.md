@@ -7,7 +7,7 @@ Chess是自由軟體，以[GNU通用公共授權條款第三版或更新版本�
 
 ## 功能
 
-它經常與如[XBoard與](https://zh.wikipedia.org/wiki/XBoard "wikilink")[GlChess等的](https://zh.wikipedia.org/wiki/GlChess "wikilink")[图形用户界面程式結合使用](../Page/图形用户界面.md "wikilink")，並通常為預設的引擎。XBoard初始版本的西洋棋引擎通訊介面是基於GNU
+它經常與如[XBoard與](../Page/XBoard.md "wikilink")[GlChess等的](https://zh.wikipedia.org/wiki/GlChess "wikilink")[图形用户界面程式結合使用](../Page/图形用户界面.md "wikilink")，並通常為預設的引擎。XBoard初始版本的西洋棋引擎通訊介面是基於GNU
 Chess的[命令行界面](../Page/命令行界面.md "wikilink")。第六版也支援通用西洋棋介面(，簡稱UCI)。
 
 ## 歷史
@@ -26,7 +26,7 @@ Kong-Sian編寫。
   - [开源游戏列表](../Page/开源游戏列表.md "wikilink")
   - [GNOME Chess](../Page/GNOME_Chess.md "wikilink")
   - [GNU Go](../Page/GNU_Go.md "wikilink")
-  - [XBoard](https://zh.wikipedia.org/wiki/XBoard "wikilink")
+  - [XBoard](../Page/XBoard.md "wikilink")
 
 ## 參考資料
 

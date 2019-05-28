@@ -102,7 +102,7 @@ Store现行的条款，腾讯就此事和苹果展开“长期沟通协调”未
 
 2016年12月23日，苹果从中国区商店下架了《[纽约时报](../Page/纽约时报.md "wikilink")》和该报中文网两个iOS应用，依据可能是当年6月发布的《移动互联网应用程序信息服务管理规定》。下架前，未[翻墙的中国用户也可以通过下载中文网应用来直接阅读纽约时报中文网内容](https://zh.wikipedia.org/wiki/翻墙 "wikilink")。苹果发言人声称是因为应用违反中国法规而下架，但拒绝透露具体细节；中国[网信办则未予置评](https://zh.wikipedia.org/wiki/网信办 "wikilink")。《[纽约时报](../Page/纽约时报.md "wikilink")》批评此举，并要求苹果公司重新考虑这一决定。\[57\]
 
-2017年7月，[苹果从中国区商店下架大批VPN应用](https://zh.wikipedia.org/wiki/中国区App_Store下架VPN应用事件 "wikilink")，这些[VPN应用大多可帮助中国用户绕过](https://zh.wikipedia.org/wiki/VPN "wikilink")[防火长城](../Page/防火长城.md "wikilink")，从而突破[中华人民共和国网络审查](../Page/中华人民共和国网络审查.md "wikilink")，俗称“翻墙”。多家VPN提供商对此举感到不安与失望，批评苹果公司为利益罔顾[人权](../Page/中华人民共和国人权.md "wikilink")。苹果在声明中称被要求下架中国一些不符-{}-合新规定的VPN应用，被下架的应用未获得中国政府许可。此举被认为是中国加大[VPN屏蔽力度的表现](https://zh.wikipedia.org/wiki/VPN屏蔽 "wikilink")。\[58\]
+2017年7月，[苹果从中国区商店下架大批VPN应用](../Page/中国区App_Store下架VPN应用事件.md "wikilink")，这些[VPN应用大多可帮助中国用户绕过](https://zh.wikipedia.org/wiki/VPN "wikilink")[防火长城](../Page/防火长城.md "wikilink")，从而突破[中华人民共和国网络审查](../Page/中华人民共和国网络审查.md "wikilink")，俗称“翻墙”。多家VPN提供商对此举感到不安与失望，批评苹果公司为利益罔顾[人权](../Page/中华人民共和国人权.md "wikilink")。苹果在声明中称被要求下架中国一些不符-{}-合新规定的VPN应用，被下架的应用未获得中国政府许可。此举被认为是中国加大[VPN屏蔽力度的表现](../Page/VPN屏蔽.md "wikilink")。\[58\]
 
 ## 相关诉讼
 

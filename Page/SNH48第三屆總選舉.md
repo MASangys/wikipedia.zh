@@ -46,18 +46,18 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 <tbody>
 <tr class="odd">
 <td><p>Team SII</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳觀慧" title="wikilink">陳觀慧</a>、成珏、<a href="https://zh.wikipedia.org/wiki/陳思_(SNH48)" title="wikilink">陳思</a>、<a href="https://zh.wikipedia.org/wiki/戴萌" title="wikilink">戴萌</a>、蔣芸、孔肖吟、劉力瑋、李宇琪、<a href="https://zh.wikipedia.org/wiki/莫寒" title="wikilink">莫寒</a>、錢蓓婷、<a href="../Page/邱欣怡.md" title="wikilink">邱欣怡</a>、<a href="https://zh.wikipedia.org/wiki/孫芮" title="wikilink">孫芮</a>、申月姣、沈之琳<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/陳觀慧" title="wikilink">陳觀慧</a>、成珏、<a href="https://zh.wikipedia.org/wiki/陳思_(SNH48)" title="wikilink">陳思</a>、<a href="https://zh.wikipedia.org/wiki/戴萌" title="wikilink">戴萌</a>、蔣芸、孔肖吟、劉力瑋、李宇琪、<a href="../Page/莫寒.md" title="wikilink">莫寒</a>、錢蓓婷、<a href="../Page/邱欣怡.md" title="wikilink">邱欣怡</a>、<a href="https://zh.wikipedia.org/wiki/孫芮" title="wikilink">孫芮</a>、申月姣、沈之琳<br />
 溫晶婕、吳哲晗（兼任Team X）、徐晨辰、<a href="https://zh.wikipedia.org/wiki/許佳琪" title="wikilink">許佳琪</a>、徐子軒、袁丹妮（兼任Team HII）、袁雨楨、趙曄、<a href="https://zh.wikipedia.org/wiki/張語格" title="wikilink">張語格</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Team NII</p></td>
 <td><p>陳佳瑩、陳問言、鄧豔秋菲、<a href="../Page/馮薪朵.md" title="wikilink">馮薪朵</a>、<a href="https://zh.wikipedia.org/wiki/龔詩淇" title="wikilink">龔詩淇</a>、黃彤揚、<a href="https://zh.wikipedia.org/wiki/黃婷婷" title="wikilink">黃婷婷</a>、何曉玉、<a href="../Page/鞠婧禕.md" title="wikilink">鞠婧禕</a>、羅蘭<br />
-<a href="https://zh.wikipedia.org/wiki/林思意" title="wikilink">林思意</a>、<a href="https://zh.wikipedia.org/wiki/陆婷_(SNH48)" title="wikilink">陸婷</a>、<a href="../Page/李藝彤.md" title="wikilink">李藝彤</a>、錢藝、<a href="https://zh.wikipedia.org/wiki/唐安琪" title="wikilink">唐安琪</a>、<a href="https://zh.wikipedia.org/wiki/萬麗娜" title="wikilink">萬麗娜</a>、<a href="https://zh.wikipedia.org/wiki/易嘉愛" title="wikilink">易嘉愛</a>、<a href="../Page/趙粵.md" title="wikilink">趙粵</a>、周怡、<a href="https://zh.wikipedia.org/wiki/曾艷芬" title="wikilink">曾艷芬</a>、張雨鑫</p></td>
+<a href="../Page/林思意.md" title="wikilink">林思意</a>、<a href="https://zh.wikipedia.org/wiki/陆婷_(SNH48)" title="wikilink">陸婷</a>、<a href="../Page/李藝彤.md" title="wikilink">李藝彤</a>、錢藝、<a href="../Page/唐安琪.md" title="wikilink">唐安琪</a>、<a href="https://zh.wikipedia.org/wiki/萬麗娜" title="wikilink">萬麗娜</a>、<a href="https://zh.wikipedia.org/wiki/易嘉愛" title="wikilink">易嘉愛</a>、<a href="../Page/趙粵.md" title="wikilink">趙粵</a>、周怡、<a href="https://zh.wikipedia.org/wiki/曾艷芬" title="wikilink">曾艷芬</a>、張雨鑫</p></td>
 </tr>
 <tr class="odd">
 <td><p>Team HII</p></td>
 <td><p>陳怡馨、郝婉晴、劉炅然、林楠、劉佩鑫、李清揚、沈夢瑤、孫珍妮、王柏碩、王金銘<br />
-王璐、王露皎、吳燕文、徐晗、謝妮、徐伊人、<a href="https://zh.wikipedia.org/wiki/許楊玉琢" title="wikilink">許楊玉琢</a>、楊惠婷、袁航、張昕</p></td>
+王璐、王露皎、吳燕文、徐晗、謝妮、徐伊人、<a href="../Page/許楊玉琢.md" title="wikilink">許楊玉琢</a>、楊惠婷、袁航、張昕</p></td>
 </tr>
 <tr class="even">
 <td><p>Team X</p></td>
@@ -66,7 +66,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="odd">
 <td><p>Team XII</p></td>
-<td><p>陳音、陳韞凌、<a href="../Page/費沁源.md" title="wikilink">費沁源</a>、<a href="../Page/洪珮雲.md" title="wikilink">洪珮-{雲}-</a>、<a href="https://zh.wikipedia.org/wiki/姜杉" title="wikilink">姜杉</a>、蔣舒婷、李佳恩、呂夢瑩<br />
+<td><p>陳音、陳韞凌、<a href="../Page/費沁源.md" title="wikilink">費沁源</a>、<a href="../Page/洪珮雲.md" title="wikilink">洪珮-{雲}-</a>、<a href="../Page/姜杉.md" title="wikilink">姜杉</a>、蔣舒婷、李佳恩、呂夢瑩<br />
 劉增艷、潘瑛琪、宋雨珊、嚴佼君、-{於}-佳怡、鄒佳佳、張文靜、張怡</p></td>
 </tr>
 </tbody>
@@ -90,7 +90,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 <tr class="even">
 <td><p>Team E</p></td>
 <td><p>畢夢媛、陳姣荷、陳倩楠、馮思佳、林堃、劉勝男、李詩彥、李想<br />
-羅雪麗、李媛媛、李梓、馬玉靈、<a href="https://zh.wikipedia.org/wiki/蘇杉杉" title="wikilink">蘇杉杉</a>、頊澌煬、易妍倩、張笑盈、鄭一帆</p></td>
+羅雪麗、李媛媛、李梓、馬玉靈、<a href="../Page/蘇杉杉.md" title="wikilink">蘇杉杉</a>、頊澌煬、易妍倩、張笑盈、鄭一帆</p></td>
 </tr>
 </tbody>
 </table>
@@ -112,7 +112,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="even">
 <td><p>Team NIII</p></td>
-<td><p>陳慧婧、陳楠茜、陳欣妤、馮嘉希、洪靜雯、<a href="https://zh.wikipedia.org/wiki/劉力菲" title="wikilink">劉力菲</a>、劉倩倩、盧靜<br />
+<td><p>陳慧婧、陳楠茜、陳欣妤、馮嘉希、洪靜雯、<a href="../Page/劉力菲.md" title="wikilink">劉力菲</a>、劉倩倩、盧靜<br />
 孫馨、唐莉佳、冼燊楠、肖文鈴、熊心瑤、鄭丹妮、左嘉欣、左靖媛</p></td>
 </tr>
 </tbody>
@@ -353,7 +353,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 | 33              | 何曉玉                                                 | SNH48 | Team NII  | 2,056.1  |
 | 34              | 王柏碩                                                 | SNH48 | Team HII  | 1,975.4  |
 | 35              | 宋思嫻                                                 | BEJ48 | Team B    | 1,876.8  |
-| 36              | [莫寒](https://zh.wikipedia.org/wiki/莫寒 "wikilink")   | SNH48 | Team SII  | 1,872.1  |
+| 36              | [莫寒](../Page/莫寒.md "wikilink")                      | SNH48 | Team SII  | 1,872.1  |
 | 37              | 陳琳                                                  | SNH48 | Team X    | 1,842.2  |
 | 38              | 徐晨辰                                                 | SNH48 | Team SII  | 1,830.9  |
 | 39              | 龔詩淇                                                 | SNH48 | Team NII  | 1,811.5  |
@@ -498,12 +498,11 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 3.  《[媽咪媽咪轟](../Page/源動力.md "wikilink")》 - Team XII
 4.  《[我想對你說](../Page/源動力.md "wikilink")》 - Team X
 5.  《[Shake it\! Shake
-    it\!](https://zh.wikipedia.org/wiki/Team_NII_5th_Stage「專屬派對」公演 "wikilink")》
+    it\!](../Page/Team_NII_5th_Stage「專屬派對」公演.md "wikilink")》
     - Team NII
 6.  《[少女進化論](../Page/源動力.md "wikilink")》 - Team HII
-7.  《[Don't
-    touch](https://zh.wikipedia.org/wiki/Team_NII_5th_Stage「專屬派對」公演 "wikilink")》
-    - [馮薪朵](../Page/馮薪朵.md "wikilink")、陸婷、[趙粵](../Page/趙粵.md "wikilink")
+7.  《[Don't touch](../Page/Team_NII_5th_Stage「專屬派對」公演.md "wikilink")》 -
+    [馮薪朵](../Page/馮薪朵.md "wikilink")、陸婷、[趙粵](../Page/趙粵.md "wikilink")
 8.  《[相遇的季節](../Page/夢想島.md "wikilink")》 - Team X
 9.  《[新世界](https://zh.wikipedia.org/wiki/心的旅程 "wikilink")》 -
     李宇琪、莫寒、[李藝彤](../Page/李藝彤.md "wikilink")
@@ -529,8 +528,8 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 23. 《[源動力](../Page/源動力.md "wikilink")》 - MV選拔組
 24. 《二次元大冒險》 - Color Girls
 25. 《[開拓者](../Page/愛的幸運曲奇.md "wikilink")》 - Team SII
-26. 《[BINGO\!](https://zh.wikipedia.org/wiki/Team_NII_5th_Stage「專屬派對」公演 "wikilink")》
-    - Team NII
+26. 《[BINGO\!](../Page/Team_NII_5th_Stage「專屬派對」公演.md "wikilink")》 - Team
+    NII
 27. 《[正義之拳](https://zh.wikipedia.org/wiki/Team_B_4th_Stage「偶像的黎明」#SNH48_Team_HII_3rd_Stage「偶像的黎明」公演 "wikilink")》
     - Team HII
 28. 《[青春號角](https://zh.wikipedia.org/wiki/心的旅程 "wikilink")》 - Team
@@ -662,7 +661,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/莫寒" title="wikilink">莫寒</a></p></td>
+<td><p><a href="../Page/莫寒.md" title="wikilink">莫寒</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team SII</p></td>
 <td><p>73,362.6</p></td>
@@ -753,7 +752,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林思意" title="wikilink">林思意</a></p></td>
+<td><p><a href="../Page/林思意.md" title="wikilink">林思意</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team NII</p></td>
 <td><p>38,786.4</p></td>
@@ -842,7 +841,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="even">
 <td><p>19</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/許楊玉琢" title="wikilink">許楊玉琢</a></p></td>
+<td><p><a href="../Page/許楊玉琢.md" title="wikilink">許楊玉琢</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team HII</p></td>
 <td><p>22,974.8</p></td>
@@ -1002,7 +1001,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="odd">
 <td><p>32</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜杉" title="wikilink">姜杉</a></p></td>
+<td><p><a href="../Page/姜杉.md" title="wikilink">姜杉</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team XII</p></td>
 <td><p>16,134.4</p></td>
@@ -1026,7 +1025,7 @@ NII成員唐安琪在三月意外燒傷後正接受康復治療，本來未有�
 </tr>
 <tr class="odd">
 <td><p>33</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張怡_(SNH48)" title="wikilink">張怡</a></p></td>
+<td><p><a href="../Page/張怡_(SNH48).md" title="wikilink">張怡</a></p></td>
 <td><p>SNH48</p></td>
 <td><p>Team XII</p></td>
 <td><p>15,009.7</p></td>

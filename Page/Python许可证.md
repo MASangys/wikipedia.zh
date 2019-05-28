@@ -12,7 +12,7 @@ License](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")（
 
 ## 发源
 
-[Python由](../Page/Python.md "wikilink")[吉多·范罗苏姆创作](../Page/吉多·范罗苏姆.md "wikilink")，最初的版权由其雇主[荷兰数学和计算机科学研究学会](https://zh.wikipedia.org/wiki/荷兰数学和计算机科学研究学会 "wikilink")（CWI）持有。在此期间，Python以历史许可声明和免责声明许可的GPL兼容版本分发。在吉多·范罗苏姆到那里工作时，CNRI获得了Python的所有权，并在几年后他们为该语言起草了新的许可证\[3\]。
+[Python由](../Page/Python.md "wikilink")[吉多·范罗苏姆创作](../Page/吉多·范罗苏姆.md "wikilink")，最初的版权由其雇主[荷兰数学和计算机科学研究学会](../Page/荷兰数学和计算机科学研究学会.md "wikilink")（CWI）持有。在此期间，Python以历史许可声明和免责声明许可的GPL兼容版本分发。在吉多·范罗苏姆到那里工作时，CNRI获得了Python的所有权，并在几年后他们为该语言起草了新的许可证\[3\]。
 
 ## 弃用
 

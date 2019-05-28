@@ -31,10 +31,8 @@ Citrus已併入ALcot Honey Comb。
   - 2012年8月31日 中の人などいない\! トーキョー・ヒーロー・プロジェクト
   - 2013年9月27日 ALcot Classic Works 2013
   - 2014年3月28日 [Clover Day's](../Page/Clover_Day's.md "wikilink")
-  - 2015年6月26日
-    [LOVEREC.](https://zh.wikipedia.org/wiki/LOVEREC. "wikilink")
-  - 2016年1月29日 [LOVEREC.
-    -ミニシアターズ-](https://zh.wikipedia.org/wiki/LOVEREC. "wikilink")
+  - 2015年6月26日 [LOVEREC.](../Page/LOVEREC..md "wikilink")
+  - 2016年1月29日 [LOVEREC. -ミニシアターズ-](../Page/LOVEREC..md "wikilink")
   - 2016年6月24日 [Clover Day’s Plus](../Page/Clover_Day's.md "wikilink")
   - 2016年11月25日 よめがみ My Sweet Goddess\!
   - 2018年1月26日 将軍様はお年頃

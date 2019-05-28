@@ -213,7 +213,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
   - **[蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink")**（總承包商：[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")，1992年－）
 
-  - [袖珍女侍小梅](../Page/袖珍女侍小梅.md "wikilink")（總承包商：[TNK](https://zh.wikipedia.org/wiki/TNK "wikilink")，2000年）
+  - [袖珍女侍小梅](../Page/袖珍女侍小梅.md "wikilink")（總承包商：[TNK](../Page/TNK.md "wikilink")，2000年）
 
   - [神魂合體](../Page/神魂合體.md "wikilink")（總承包商：OLM、[AIC](../Page/動畫國際公司.md "wikilink")→AIC，2003年－2004年）
 
@@ -233,14 +233,14 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
     Pictures](https://zh.wikipedia.org/wiki/萬代南夢宮控股 "wikilink")，2012年－）
 
   - [進擊的巨人](../Page/進擊的巨人.md "wikilink")（總承包商：[WIT
-    STUDIO](https://zh.wikipedia.org/wiki/WIT_STUDIO "wikilink")，2013年）
+    STUDIO](../Page/WIT_STUDIO.md "wikilink")，2013年）
 
   - [惡之華](../Page/惡之華_\(2009年漫畫\).md "wikilink")（總承包商：[ZEXCS](../Page/ZEXCS.md "wikilink")，2013年）
 
   - [KILL la
     KILL](../Page/KILL_la_KILL.md "wikilink")（總承包商：[TRIGGER](../Page/TRIGGER.md "wikilink")，2013年－2014年）
 
-  - [天體運行式](https://zh.wikipedia.org/wiki/天體的秩序 "wikilink")（總承包商：[3Hz](https://zh.wikipedia.org/wiki/3Hz "wikilink")，2014年）
+  - [天體運行式](https://zh.wikipedia.org/wiki/天體的秩序 "wikilink")（總承包商：[3Hz](../Page/3Hz.md "wikilink")，2014年）
 
 ### OVA
 
@@ -265,8 +265,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
 <!-- end list -->
 
-  - [Studio
-    Fantasia](https://zh.wikipedia.org/wiki/Studio_Fantasia "wikilink")
+  - [Studio Fantasia](../Page/Studio_Fantasia.md "wikilink")
 
 <!-- end list -->
 
@@ -504,8 +503,8 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
   - [勇者物語](../Page/勇者物語.md "wikilink")（總承包商：[GONZO](../Page/GONZO.md "wikilink")，2006年）
 
-  - [瑪麗與魔女之花](https://zh.wikipedia.org/wiki/瑪麗與魔女之花 "wikilink")（總承包商：[Studio
-    Ponoc](https://zh.wikipedia.org/wiki/Studio_Ponoc "wikilink")，2017年）
+  - [瑪麗與魔女之花](../Page/瑪麗與魔女之花.md "wikilink")（總承包商：[Studio
+    Ponoc](../Page/Studio_Ponoc.md "wikilink")，2017年）
 
 ### 網路動畫
 
@@ -553,7 +552,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
   - [赤井俊文](../Page/赤井俊文.md "wikilink")
   - 新城真
   - 伊藤邦彥
-  - [菅野宏紀](https://zh.wikipedia.org/wiki/菅野宏紀 "wikilink")
+  - [菅野宏紀](../Page/菅野宏紀.md "wikilink")
   - 久壽米木信彌
   - 小池智史
 
@@ -561,7 +560,7 @@ TAKURANKE**（）」。1987年9月，由[日昇動畫的製作一職出身的近
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - [田中良](https://zh.wikipedia.org/wiki/田中良 "wikilink")
+  - [田中良](../Page/田中良.md "wikilink")
 
   - 常木志伸
 

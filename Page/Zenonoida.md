@@ -1,12 +1,12 @@
-***Zenonoida***是[弄蝶亞科](../Page/弄蝶亞科.md "wikilink")[刺脛弄蝶族裡的一個](https://zh.wikipedia.org/wiki/刺脛弄蝶族 "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。共有5個物種，分佈於[東洋界](https://zh.wikipedia.org/wiki/東洋界 "wikilink")\[1\]。中國分佈2種\[2\]\[3\]。物種曾經都歸入[孔弄蝶屬](https://zh.wikipedia.org/wiki/孔弄蝶屬 "wikilink")。
+***Zenonoida***是[弄蝶亞科](../Page/弄蝶亞科.md "wikilink")[刺脛弄蝶族裡的一個](../Page/刺脛弄蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。共有5個物種，分佈於[東洋界](https://zh.wikipedia.org/wiki/東洋界 "wikilink")\[1\]。中國分佈2種\[2\]\[3\]。物種曾經都歸入[孔弄蝶屬](../Page/孔弄蝶屬.md "wikilink")。
 
 ## 語源
 
-屬名源於[齊諾弄蝶屬的學名](https://zh.wikipedia.org/wiki/齊諾弄蝶屬 "wikilink")「*Zenonia*」，因為這個新的屬級分類與該屬的雄性外生殖器特別相似\[4\]。
+屬名源於[齊諾弄蝶屬的學名](../Page/齊諾弄蝶屬.md "wikilink")「*Zenonia*」，因為這個新的屬級分類與該屬的雄性外生殖器特別相似\[4\]。
 
 ## 種系發生
 
-此屬的物種原來被歸入[孔弄蝶屬](https://zh.wikipedia.org/wiki/孔弄蝶屬 "wikilink")，然而更新的研究發現該分類是[多系群](https://zh.wikipedia.org/wiki/多系群 "wikilink")，其中這個[單系群的演化支今視作獨立一個屬級分類](https://zh.wikipedia.org/wiki/單系群 "wikilink")。此屬的物種形態又與[齊諾弄蝶屬物種相似](https://zh.wikipedia.org/wiki/齊諾弄蝶屬 "wikilink")，亦是她的[旁系群](../Page/旁系群.md "wikilink")。她們的共同演化支是另一個由孔弄蝶屬分拆出的屬*[Zinaida](https://zh.wikipedia.org/wiki/Zinaida "wikilink")*的旁系群\[5\]。
+此屬的物種原來被歸入[孔弄蝶屬](../Page/孔弄蝶屬.md "wikilink")，然而更新的研究發現該分類是[多系群](https://zh.wikipedia.org/wiki/多系群 "wikilink")，其中這個[單系群的演化支今視作獨立一個屬級分類](https://zh.wikipedia.org/wiki/單系群 "wikilink")。此屬的物種形態又與[齊諾弄蝶屬物種相似](../Page/齊諾弄蝶屬.md "wikilink")，亦是她的[旁系群](../Page/旁系群.md "wikilink")。她們的共同演化支是另一個由孔弄蝶屬分拆出的屬*[Zinaida](../Page/Zinaida.md "wikilink")*的旁系群\[5\]。
 
 ## 物種
 
@@ -20,7 +20,7 @@
 
 ## 參見
 
-  - [孔弄蝶屬](https://zh.wikipedia.org/wiki/孔弄蝶屬 "wikilink")
+  - [孔弄蝶屬](../Page/孔弄蝶屬.md "wikilink")
 
 ## 腳註
 

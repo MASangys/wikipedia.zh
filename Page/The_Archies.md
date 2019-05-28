@@ -2,7 +2,7 @@
 Archies**是一個美國[虛擬](https://zh.wikipedia.org/wiki/虚拟团队 "wikilink")[車庫搖滾樂團](../Page/車庫搖滾.md "wikilink")，由美國電視卡通節目《[The
 Archie
 Show](https://zh.wikipedia.org/wiki/The_Archie_Show "wikilink")》裡的一群青少年卡通人物[Archie
-Andrews](https://zh.wikipedia.org/wiki/阿奇·安德鲁 "wikilink")、[Reggie
+Andrews](../Page/阿奇·安德鲁.md "wikilink")、[Reggie
 Mantle](https://zh.wikipedia.org/wiki/Reggie_Mantle "wikilink")、[Jughead
 Jones](https://zh.wikipedia.org/wiki/Jughead_Jones "wikilink")、[Veronica
 Lodge](https://zh.wikipedia.org/wiki/维罗妮卡.罗姿 "wikilink")、[Betty

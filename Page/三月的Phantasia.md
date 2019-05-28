@@ -167,7 +167,7 @@ VVCL-1172/3</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/Re:CREATORS" title="wikilink">Re:CREATORS</a>》第二片尾曲</p></td>
+<td><p>電視動畫《<a href="../Page/Re:CREATORS.md" title="wikilink">Re:CREATORS</a>》第二片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="even">

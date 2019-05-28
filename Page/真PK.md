@@ -149,7 +149,7 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>7月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/崔碧珈" title="wikilink">崔碧珈</a></p></td>
+<td><p><a href="../Page/崔碧珈.md" title="wikilink">崔碧珈</a></p></td>
 <td><p><strong>一同受罰</strong><br />
 主持未能問完暗題，嘉賓猜錯「暗題」三次 </p></td>
 </tr>
@@ -277,7 +277,7 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 <tr class="even">
 <td><p>34</p></td>
 <td><p>12月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新青年理髮廳" title="wikilink">新青年理髮廳</a></p></td>
+<td><p><a href="../Page/新青年理髮廳.md" title="wikilink">新青年理髮廳</a></p></td>
 <td><p><strong>嘉賓、Kevin</strong><br />
 由於最低分有兩位，因此兩人一同受罰<br />
 <strong>由歐陽作為嘉賓代表受罰</strong> </p></td>
@@ -298,14 +298,14 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 <tr class="odd">
 <td><p>37</p></td>
 <td><p>12月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雞蛋蒸肉餅" title="wikilink">雞蛋蒸肉餅</a></p></td>
+<td><p><a href="../Page/雞蛋蒸肉餅.md" title="wikilink">雞蛋蒸肉餅</a></p></td>
 <td><p><strong>嘉賓 (雞蛋組)</strong><br />
 該集為兩人一組分組作賽，火火及Kevin被編為一組，嘉賓分為雞蛋組及肉餅組 </p></td>
 </tr>
 <tr class="even">
 <td><p>38</p></td>
 <td><p>1月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李靖筠" title="wikilink">李靖筠</a></p></td>
+<td><p><a href="../Page/李靖筠.md" title="wikilink">李靖筠</a></p></td>
 <td><p><strong>Kevin</strong><br />
 <strong>嘉賓頂替部份懲罰</strong> </p></td>
 </tr>
@@ -326,7 +326,7 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
 <tr class="odd">
 <td><p>41（真OK）</p></td>
 <td><p>1月28日</p></td>
-<td><p><a href="../Page/周殷廷.md" title="wikilink">周殷廷</a>、<a href="https://zh.wikipedia.org/wiki/符致逸" title="wikilink">符致逸</a></p></td>
+<td><p><a href="../Page/周殷廷.md" title="wikilink">周殷廷</a>、<a href="../Page/符致逸.md" title="wikilink">符致逸</a></p></td>
 <td><p><strong>嘉賓</strong> </p></td>
 </tr>
 <tr class="even">
@@ -354,8 +354,8 @@ Shake），飲品由各種嘔心動物（例如老鼠、烏蛇及水曱甴等）
   - 2016年11月12日：由於17:45-20:00直播《[2017東亞足球錦標賽](https://zh.wikipedia.org/wiki/2017年東亞盃 "wikilink")
     男子第二圈 - [香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink") 對
     [朝鮮](../Page/朝鮮國家足球隊.md "wikilink")》，當日《[6點新聞報道](../Page/Now新聞報道.md "wikilink")》暫停播映，並改為於當日23:30-00:00播出《[深宵新聞](../Page/Now深宵新聞.md "wikilink")》。本節目順延至翌日（11月13日）00:00-00:30播映。
-  - 2016年11月19日：由於播出《[直美與加奈子](../Page/直美與加奈子.md "wikilink")》第八集加長版，《[ShowTime我主場](https://zh.wikipedia.org/wiki/ShowTime我主場 "wikilink")》第七集及《[美選D.n.A](https://zh.wikipedia.org/wiki/美選D.n.A "wikilink")》第五集順延播出，本節目順延至23:45-00:15播映。
-  - 2016年12月10日：由於播出《[美選D.n.A](https://zh.wikipedia.org/wiki/美選D.n.A "wikilink")》第十一集加長版，本節目順延至翌日（12月11日）00:00-00:30播映。
+  - 2016年11月19日：由於播出《[直美與加奈子](../Page/直美與加奈子.md "wikilink")》第八集加長版，《[ShowTime我主場](https://zh.wikipedia.org/wiki/ShowTime我主場 "wikilink")》第七集及《[美選D.n.A](../Page/美選D.n.A.md "wikilink")》第五集順延播出，本節目順延至23:45-00:15播映。
+  - 2016年12月10日：由於播出《[美選D.n.A](../Page/美選D.n.A.md "wikilink")》第十一集加長版，本節目順延至翌日（12月11日）00:00-00:30播映。
   - 2016年12月17日：由於播出《[陳柏宇The](../Page/陳柏宇.md "wikilink")
     Players-10週年演唱會》，本節目順延至翌日（12月18日）00:30-01:00播映。
   - 2016年12月24日：由於播出《[釜山同一個亞洲文化節](https://zh.wikipedia.org/wiki/釜山同一個亞洲文化節 "wikilink")》第一集，本節目順延至翌日（12月25日）00:45-01:15播映。

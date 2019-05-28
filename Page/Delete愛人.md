@@ -132,7 +132,7 @@
 <td><p>溫特福的父親</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/崔碧珈" title="wikilink">崔碧珈</a></p></td>
+<td><p><a href="../Page/崔碧珈.md" title="wikilink">崔碧珈</a></p></td>
 <td><p>超模秘書</p></td>
 <td></td>
 </tr>
@@ -207,7 +207,7 @@
 <td><p>華Dee的暗戀對象</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/路芙" title="wikilink">路芙</a></p></td>
+<td><p><a href="../Page/路芙.md" title="wikilink">路芙</a></p></td>
 <td><p>街坊</p></td>
 <td></td>
 </tr>

@@ -1,7 +1,7 @@
 **NVIDIA GeForce
 10系列**\[1\]是[英伟达研发並推出的图形处理器系列](../Page/英伟达.md "wikilink")，被用以取代[NVIDIA
 GeForce
-900系列圖形處理器](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_900 "wikilink")。新系列采用[帕斯卡微架构来代替之前的麦克斯韦微架构](https://zh.wikipedia.org/wiki/帕斯卡_\(微架构\) "wikilink")，并采用[台积电的](https://zh.wikipedia.org/wiki/台灣積體電路製造公司 "wikilink")16纳米及[Samsung的](https://zh.wikipedia.org/wiki/Samsung "wikilink")14纳米鰭式[多閘極電晶體工藝](../Page/多閘極電晶體.md "wikilink")（[Fin-FET](https://zh.wikipedia.org/wiki/FinFET "wikilink")）來製造。\[2\]
+900系列圖形處理器](../Page/NVIDIA_GeForce_900.md "wikilink")。新系列采用[帕斯卡微架构来代替之前的麦克斯韦微架构](https://zh.wikipedia.org/wiki/帕斯卡_\(微架构\) "wikilink")，并采用[台积电的](https://zh.wikipedia.org/wiki/台灣積體電路製造公司 "wikilink")16纳米及[Samsung的](https://zh.wikipedia.org/wiki/Samsung "wikilink")14纳米鰭式[多閘極電晶體工藝](../Page/多閘極電晶體.md "wikilink")（[Fin-FET](https://zh.wikipedia.org/wiki/FinFET "wikilink")）來製造。\[2\]
 
 ## 架构特性
 

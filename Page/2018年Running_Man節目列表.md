@@ -259,7 +259,7 @@ Man](../Page/Running_Man.md "wikilink")》方面發布聲明，宣布[李多熙]
 <td><p><a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>、<a href="../Page/李相燁.md" title="wikilink">李相燁</a>、<br />
 <br />
 （<a href="../Page/MIGHTY_MOUTH.md" title="wikilink">MIGHTY MOUTH</a>）、<br />
-<a href="https://zh.wikipedia.org/wiki/柳炳宰" title="wikilink">柳炳宰</a></p></td>
+<a href="../Page/柳炳宰.md" title="wikilink">柳炳宰</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/永宗大橋" title="wikilink">永宗大橋紀念館</a><br />
 <small>（<a href="../Page/仁川廣域市.md" title="wikilink">仁川廣域市</a><a href="../Page/西區_(仁川).md" title="wikilink">西區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>隨機旅行競賽</strong></span><br />
@@ -503,7 +503,7 @@ Man](../Page/Running_Man.md "wikilink")》方面發布聲明，宣布[李多熙]
 <td><p>394</p></td>
 <td><p>4月1日<br />
 <small>（3月19日）</p></td>
-<td><p>四位固定出演嘉賓、<a href="https://zh.wikipedia.org/wiki/尹誠彬" title="wikilink">尹誠彬</a>、</p></td>
+<td><p>四位固定出演嘉賓、<a href="../Page/尹誠彬.md" title="wikilink">尹誠彬</a>、</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
 <a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
@@ -1583,7 +1583,7 @@ Face隊<strong>勝出</strong><br />
 <td><p>364</p></td>
 <td><p><a href="../Page/姜漢娜.md" title="wikilink">姜漢娜</a>、<br />
 <a href="../Page/Irene_(Red_Velvet).md" title="wikilink">Irene</a>、<a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a><br />
-（<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>）、<br />
+（<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）、<br />
 <a href="../Page/薛仁雅.md" title="wikilink">薛仁雅</a></p></td>
 <td><p>ChangeUp Campus<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/坡州市.md" title="wikilink">坡州市</a><br />
@@ -2123,10 +2123,10 @@ Face隊<strong>勝出</strong><br />
 22. 原有的直升機及䌫車登山滑雪任務因天氣惡劣而取消，無須進行付款。
 23. 本集尾段提前播放下集。
 24. 八周年紀念日應在2018年7月11日，不過因為第409集及第410集分別有女團及巨星來訪，再加上池錫辰有家事導致拍攝日期需要調動，所以本集播出時間押後25日至2018年8月5日。
-25. [成東鎰](../Page/成東鎰.md "wikilink")、[張度妍](https://zh.wikipedia.org/wiki/張度妍 "wikilink")、[申惠善](../Page/申惠善.md "wikilink")、[MAMAMOO特別出演](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")。[朴寶劍](https://zh.wikipedia.org/wiki/朴寶劍 "wikilink")、[朴正民聲音出演](../Page/朴正民.md "wikilink")。
+25. [成東鎰](../Page/成東鎰.md "wikilink")、[張度妍](https://zh.wikipedia.org/wiki/張度妍 "wikilink")、[申惠善](../Page/申惠善.md "wikilink")、[MAMAMOO特別出演](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")。[朴寶劍](../Page/朴寶劍.md "wikilink")、[朴正民聲音出演](../Page/朴正民.md "wikilink")。
 26. 劉在錫使用變裝後的照片，改名為「長得醜的哥哥」；池錫辰使用年輕時的舊照，改名為「落日」；Haha使用淋水懲罰時的照片，改名為「洗滌身份」；宋智孝使用舊照，改名為本名「千成林」；李光洙使用穿着「我和宋仲基是好朋友」上衣的照片，改名為「仲基朋友」；全昭旻使用被畫花臉的照片，改名為「全嘟嚕」；而梁世燦使用扮女裝的照片，改名為「金鍾國粉絲」；金鍾國本人不作任何變動。
-27. 概念來自電影《[與神同行](../Page/與神同行_\(電影\).md "wikilink")》。[盧士燕以閻羅女王身份出演](https://zh.wikipedia.org/wiki/盧士燕 "wikilink")，[李相燁特別出演](../Page/李相燁.md "wikilink")。本集劉在錫、Haha、宋智孝的名牌與隊名相同。
-28. 概念來自電影《[真心話大冒險](https://zh.wikipedia.org/wiki/真心話大冒險_\(2018年電影\) "wikilink")》。
+27. 概念來自電影《[與神同行](../Page/與神同行_\(電影\).md "wikilink")》。[盧士燕以閻羅女王身份出演](../Page/盧士燕.md "wikilink")，[李相燁特別出演](../Page/李相燁.md "wikilink")。本集劉在錫、Haha、宋智孝的名牌與隊名相同。
+28. 概念來自電影《[真心話大冒險](../Page/真心話大冒險_\(2018年電影\).md "wikilink")》。
 29. [GOT7](../Page/GOT7.md "wikilink")、J Black &
     Mmary、[柳勝玉特別出演](../Page/柳勝玉.md "wikilink")。
 30. [張度妍特別出演](https://zh.wikipedia.org/wiki/張度妍 "wikilink")。

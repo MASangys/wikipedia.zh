@@ -138,7 +138,7 @@ STEIN」所創造出怪物戰鬥。
   - 色彩設計 - 津守裕子
   - CG監督 - 沼尻勇人
   - 攝影監督 - 田中博章
-  - 編集 - [小島俊彥](https://zh.wikipedia.org/wiki/小島俊彥 "wikilink")
+  - 編集 - [小島俊彥](../Page/小島俊彥.md "wikilink")
   - 音樂 - yamazo
   - 音樂製作人 - 中村伸一
   - 音樂發行 - [ポニーキャニオン](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")

@@ -1,7 +1,7 @@
 **SORARU**（そらる，），是[日本男性](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")。出生於[宮城縣](../Page/宮城縣.md "wikilink")。血型[O型](../Page/ABO血型系统.md "wikilink")。身高176公分，體重59\~60公斤。有弟弟、妹妹，是家裡的長子。
 
 負責音樂組合[After the
-Rain的歌唱兼Mix](https://zh.wikipedia.org/wiki/After_the_Rain "wikilink")、Mastering。
+Rain的歌唱兼Mix](../Page/After_the_Rain.md "wikilink")、Mastering。
 
 代表色為藍色。
 

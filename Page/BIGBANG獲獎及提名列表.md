@@ -1453,7 +1453,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 
 ### [亞洲明星盛典（Asia Artist Awards）](../Page/亞洲明星盛典.md "wikilink")
 
-<small>**亞洲明星盛典**（；，簡稱：**AAA**）是由[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS電視台自](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")2016年起舉辦的韓國戲劇類和音樂類頒獎典禮，首屆於11月16日在[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")[慶熙大學和平殿堂舉行](../Page/慶熙大學.md "wikilink")。</small>
+<small>**亞洲明星盛典**（；，簡稱：**AAA**）是由[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS電視台自](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")2016年起舉辦的韓國戲劇類和音樂類頒獎典禮，首屆於11月16日在[首爾](../Page/首爾.md "wikilink")[慶熙大學和平殿堂舉行](../Page/慶熙大學.md "wikilink")。</small>
 
 <table>
 <thead>
@@ -1622,13 +1622,13 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 <tr class="odd">
 <td><p>第32屆</p></td>
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG10_The_Concert:_0.TO.10_The_Final_(影音專輯)" title="wikilink">BIGBANG10 The Concert: 0.TO.10 The Final</a></p></td>
+<td><p><a href="../Page/BIGBANG10_The_Concert:_0.TO.10_The_Final_(影音專輯).md" title="wikilink">BIGBANG10 The Concert: 0.TO.10 The Final</a></p></td>
 <td><p>最佳音樂錄影帶（亞洲區）</p></td>
 <td></td>
 <td><p>[54]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/MADE_(BIGBANG日語專輯)" title="wikilink">MADE</a></p></td>
+<td><p><a href="../Page/MADE_(BIGBANG日語專輯).md" title="wikilink">MADE</a></p></td>
 <td><p>最佳三大專輯（亞洲區）</p></td>
 <td></td>
 <td></td>
@@ -2254,7 +2254,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 <td><p>[77][78]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Always_(BIGBANG迷你專輯)" title="wikilink">Always</a></p></td>
+<td><p><a href="../Page/Always_(BIGBANG迷你專輯).md" title="wikilink">Always</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2730,12 +2730,12 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 <td><p>2007年</p></td>
 <td><p>9月9日</p></td>
 <td><p>Lies</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Always_(BIGBANG迷你專輯)" title="wikilink">Always</a>》</p></td>
+<td><p>《<a href="../Page/Always_(BIGBANG迷你專輯).md" title="wikilink">Always</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>12月16日</p></td>
 <td><p>Last Farewell</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Hot_Issue_(BIGBANG迷你專輯)" title="wikilink">Hot Issue</a>》</p></td>
+<td><p>《<a href="../Page/Hot_Issue_(BIGBANG迷你專輯).md" title="wikilink">Hot Issue</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2753,7 +2753,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 <tr class="odd">
 <td><p>8月24日</p></td>
 <td><p>Haru Haru</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Stand_Up_(BIGBANG迷你專輯)" title="wikilink">Stand Up</a>》</p></td>
+<td><p>《<a href="../Page/Stand_Up_(BIGBANG迷你專輯).md" title="wikilink">Stand Up</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">

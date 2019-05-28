@@ -1,6 +1,6 @@
 《**LEVEL UP PROJECT\!
 S2**》（）是[韓國Oksusu的](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[真人實境-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-](../Page/真人實境秀.md "wikilink")，由[SM娛樂的旗下五人](../Page/SM娛樂.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet爲主進行拍攝](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。
+Velvet爲主進行拍攝](../Page/Red_Velvet.md "wikilink")。
 
 2018年1月8日起逢星期一至六于上午10時在[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")「Oksusu」及[泰國的](https://zh.wikipedia.org/wiki/泰國 "wikilink")「TrueID」同步播出。\[1\]\[2\]
 
@@ -23,7 +23,7 @@ Velvet的新魅力。\[3\]這次依然有三種主題的旅行，但形式是由
 
   - [Irene](https://zh.wikipedia.org/wiki/裴柱現 "wikilink")
     （第32－52集因為飽滯而肚子疼，回到陸地酒店休息，而缺席第二天午餐後和第三天行程，也沒有為第二、三天行程評分，只在講評時出現。）
-  - [Seulgi](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")
+  - [Seulgi](../Page/瑟琪.md "wikilink")
   - [Wendy](https://zh.wikipedia.org/wiki/孙胜完 "wikilink")
   - [Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")
   - [Yeri](../Page/Yeri.md "wikilink")
@@ -269,7 +269,7 @@ Velvet的新魅力。\[3\]這次依然有三種主題的旅行，但形式是由
 </tr>
 <tr class="odd">
 <td><p>Oksusu 特別篇</p></td>
-<td><p>500萬瀏覽人次特別吃放 <a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">瑟琪生日儀式</a></p></td>
+<td><p>500萬瀏覽人次特別吃放 <a href="../Page/瑟琪.md" title="wikilink">瑟琪生日儀式</a></p></td>
 <td><p>在某會議室播放，以南海家常菜為主，因為播放時，團隊剛好到達麗水。Yeri因為傷風，和準備高中畢業禮而缺席。 玩抓綿羊遊戲，預祝瑟琪生日。</p></td>
 <td></td>
 </tr>
@@ -610,14 +610,14 @@ Irene賣手寫藝術字（定價：3億5千萬RV幣賣給監製），最後外�
 <p>4.Yeri成人後有獨立房間嗎? <em>沒有，但當Joy在外拍戲時，把東西合併，當作自己的房間用了。瑟琪因為當時拍攝《<a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>》而全不知情。</em></p>
 <p>5. Joy 在拍戲時，最累的地方是什麼？<em>因為她是趁拍戲空檔參加見面會，跟著又要回去拍攝，除了舟車勞頓，沒什麼。</em></p>
 <p>6. Wendy在Joy拍攝的上一部電視劇，有幫忙對台詞。這次有嗎？<em>這次比較多對Wendy談天、做檢討之類</em>。</p>
-<p>7. Joy 想嘗試的髮型？ <em>先把頭髮留長，然後嘗試華麗公主髮型，因為在《<a href="https://zh.wikipedia.org/wiki/偉大的誘惑者" title="wikilink">偉大的誘惑者</a>》造型很單純，《Bad Boy》拍攝MV時，頭髮還不夠長。</em></p>
+<p>7. Joy 想嘗試的髮型？ <em>先把頭髮留長，然後嘗試華麗公主髮型，因為在《<a href="../Page/偉大的誘惑者.md" title="wikilink">偉大的誘惑者</a>》造型很單純，《Bad Boy》拍攝MV時，頭髮還不夠長。</em></p>
 <p>8. 究竟Joy在該劇，有沒有自己寫<a href="../Page/德语.md" title="wikilink">德語</a>？<em>當然，真的有跟老師學習德語。</em></p>
 <p>9. 正式休假時怎樣度過？<em>瑟琪考到練習駕照。</em></p>
 <p>10. Yeri 在<a href="../Page/巴厘岛.md" title="wikilink">巴里島時</a>，什麼最有趣？常常被計程車司機騙錢。</p>
 <p>11. 很快就是柱現（Irene）的生日，她想做什麼？<em>當天會在日本，所以想再次五人聚餐。</em></p>
 <p>12. <a href="../Page/NCT.md" title="wikilink">NCT Dream</a> 的舞台看了嗎？<em>看了。</em></p>
 <p>13. Irene最近看過的書是什麼？<em>《1982年生金智英》</em></p>
-<p>14. Level Up Season 3 想做的Concept?<em>5人5色，歐洲版《<a href="https://zh.wikipedia.org/wiki/我獨自旅行" title="wikilink">我獨自旅行</a>》。</em></p>
+<p>14. Level Up Season 3 想做的Concept?<em>5人5色，歐洲版《<a href="../Page/我獨自旅行.md" title="wikilink">我獨自旅行</a>》。</em></p>
 <p>15. 80歲大壽，想聽到人們說什麼話？<em>依然好美。</em></p>
 <p>16. KTV喜歡唱的歌曲？《Bang Bang Bang》、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">Twice歌單</a>、《<a href="../Page/Gashina.md" title="wikilink">Gashina</a>》（Yeri）、《Thunder》（Joy）</p>
 <p>Fan Art五甲宣佈。每位各得FanBook。</p>

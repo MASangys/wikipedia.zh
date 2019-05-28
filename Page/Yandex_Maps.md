@@ -9,7 +9,7 @@ Local）是公司向全球提供的[电子地图服务](../Page/电子地图服�
 
 ## 參見
 
-  - [Yandex地图编辑器](https://zh.wikipedia.org/wiki/Yandex地图编辑器 "wikilink")
+  - [Yandex地图编辑器](../Page/Yandex地图编辑器.md "wikilink")
   - [Google地球](../Page/Google地球.md "wikilink")
   - [Google Map
     Maker](https://zh.wikipedia.org/wiki/Google_Map_Maker "wikilink")

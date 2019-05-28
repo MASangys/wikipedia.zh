@@ -4,7 +4,7 @@ S.T.A.R.T\!\!》**是[μ's的单曲第](https://zh.wikipedia.org/wiki/μ's "wiki
 ## 概要
 
 单曲第5作《[Wonderful
-Rush](https://zh.wikipedia.org/wiki/Wonderful_Rush "wikilink")》推出一年后的首张编号单曲，也是目前为止最后一张编号单曲。单曲共分3个版本，分别为附DVD通常盘、附BD通常盘和附BD超豪华盘。初回生产期间随机封入“”（“μ's和你的游乐园约会”，全9种）中的一种。主唱根据第5回总选举投票结果由西木野真姬（声：[Pile](https://zh.wikipedia.org/wiki/Pile "wikilink")）担任。角色的排列顺亦反映了第5回总选举的结果。CD收录乐曲及广播剧，[DVD收录](https://zh.wikipedia.org/wiki/DVD "wikilink")《Music
+Rush](../Page/Wonderful_Rush.md "wikilink")》推出一年后的首张编号单曲，也是目前为止最后一张编号单曲。单曲共分3个版本，分别为附DVD通常盘、附BD通常盘和附BD超豪华盘。初回生产期间随机封入“”（“μ's和你的游乐园约会”，全9种）中的一种。主唱根据第5回总选举投票结果由西木野真姬（声：[Pile](../Page/Pile.md "wikilink")）担任。角色的排列顺亦反映了第5回总选举的结果。CD收录乐曲及广播剧，[DVD收录](https://zh.wikipedia.org/wiki/DVD "wikilink")《Music
 S.T.A.R.T\!\!》PV，[BD除了上述PV外](https://zh.wikipedia.org/wiki/BD "wikilink")，还收录了《[LoveLive\!](https://zh.wikipedia.org/wiki/LoveLive!_\(动画\) "wikilink")》动画的新作[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")。此外，在[Animate](https://zh.wikipedia.org/wiki/Animate "wikilink")、和[Comic虎之穴购买的消费者还可获得相应店铺的限量版特典](../Page/Comic虎之穴.md "wikilink")\[1\]\[2\]。
 
 另外，在《LoveLive\! 学院偶像天国》中收录了《Music S.T.A.R.T\!\!》的Remix版（《Music
@@ -41,7 +41,7 @@ Garden〜](https://zh.wikipedia.org/wiki/LoveLive!_廣播節目列表#-.7BRADIO.
 :\#<sup>▲</sup> *（危險！？　In My Dream）* \[23:05\]
 
 :\#\*
-原案：[公野櫻子](https://zh.wikipedia.org/wiki/公野櫻子 "wikilink")，脚本：[子安秀明](https://zh.wikipedia.org/wiki/子安秀明 "wikilink")，出演：μ's
+原案：[公野櫻子](https://zh.wikipedia.org/wiki/公野櫻子 "wikilink")，脚本：[子安秀明](../Page/子安秀明.md "wikilink")，出演：μ's
 
   - BD
 

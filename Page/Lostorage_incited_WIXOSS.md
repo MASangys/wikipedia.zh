@@ -288,7 +288,7 @@ Store』公布製作人員和[聲優陣容](../Page/聲優.md "wikilink")\[6\]�
 <td><p><a href="../Page/待田堂子.md" title="wikilink">待田堂子</a></p></td>
 <td><p>倉川英揚</p></td>
 <td><p>森義博</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山內則康" title="wikilink">山內則康</a>、鎌田均<br />
+<td><p><a href="../Page/山內則康.md" title="wikilink">山內則康</a>、鎌田均<br />
 BSP、Hwang In Chcol<br />
 金正男、吉岡幸惠<br />
 齊藤美香、芝田千紗</p></td>

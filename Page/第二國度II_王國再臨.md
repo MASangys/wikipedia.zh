@@ -59,7 +59,7 @@ Windows平台上發行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilin
 <td><p>[20]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Gamescom" title="wikilink">Gamescom獎</a></p></td>
+<td><p><a href="../Page/Gamescom.md" title="wikilink">Gamescom獎</a></p></td>
 <td><p>最佳攤位</p></td>
 <td></td>
 <td><p>[21][22]</p></td>

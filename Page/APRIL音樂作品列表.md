@@ -224,7 +224,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a> 《<a href="https://zh.wikipedia.org/wiki/如果是她的話" title="wikilink">如果是她的話</a>》OST Part.3《<strong>이 사랑</strong>》</p>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a> 《<a href="../Page/如果是她的話.md" title="wikilink">如果是她的話</a>》OST Part.3《<strong>이 사랑</strong>》</p>
 <ul>
 <li>發行日期：2018年8月4日</li>
 <li>語言：韓語</li>

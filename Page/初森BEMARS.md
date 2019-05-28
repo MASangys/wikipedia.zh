@@ -31,14 +31,14 @@
 <!-- end list -->
 
   - 蕭邦 （） -
-    [生田繪梨花](../Page/生田繪梨花.md "wikilink")（粵語配音：[陳頴琪](https://zh.wikipedia.org/wiki/陳頴琪 "wikilink")）
+    [生田繪梨花](../Page/生田繪梨花.md "wikilink")（粵語配音：[陳頴琪](../Page/陳頴琪.md "wikilink")）
     球衣背號3號，守備位置為[游擊手](https://zh.wikipedia.org/wiki/游擊手 "wikilink")。\[11\]
     擁有[絕對音感的天份](https://zh.wikipedia.org/wiki/絕對音感 "wikilink")，並從小就志願當鋼琴家的少女。
 
 <!-- end list -->
 
   - 時下 （，今時） -
-    [若月佑美](../Page/若月佑美.md "wikilink")（粵語配音：[廖欣怡](https://zh.wikipedia.org/wiki/廖欣怡 "wikilink")）
+    [若月佑美](../Page/若月佑美.md "wikilink")（粵語配音：[廖欣怡](../Page/廖欣怡.md "wikilink")）
     球衣背號4號，守備位置為[一壘手](https://zh.wikipedia.org/wiki/一壘手 "wikilink")。\[12\]
     是個時常拿著球棒到處遊蕩，有著昭和時期味道的不良少女。
     打架時有78勝2敗3平的戰績。
@@ -46,7 +46,7 @@
 <!-- end list -->
 
   - 奧斯卡（） -
-    [生駒里奈](../Page/生駒里奈.md "wikilink")（幼年期：）（粵語配音：[黎皓宜](https://zh.wikipedia.org/wiki/黎皓宜 "wikilink")）
+    [生駒里奈](../Page/生駒里奈.md "wikilink")（幼年期：）（粵語配音：[黎皓宜](../Page/黎皓宜.md "wikilink")）
     球衣背號5號，守備位置為[二壘手](https://zh.wikipedia.org/wiki/二壘手 "wikilink")。\[13\]
     隸屬於演劇部。
     夢想成為[奧斯卡金像獎女演員](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")。
@@ -222,7 +222,7 @@
 
 準決賽的對手，打者每年都能打出100支全壘打的強打隊伍。
 
-  - 旗魚（）- [齊藤優里](https://zh.wikipedia.org/wiki/齊藤優里 "wikilink")\[30\]
+  - 旗魚（）- [齊藤優里](../Page/齊藤優里.md "wikilink")\[30\]
     守備位置為捕手，同時也身兼隊長。
 
 <!-- end list -->
@@ -318,8 +318,7 @@
 
 ##### 特別客串
 
-  - 上野投手 -
-    [上野由岐子](https://zh.wikipedia.org/wiki/上野由岐子 "wikilink")\[44\]
+  - 上野投手 - [上野由岐子](../Page/上野由岐子.md "wikilink")\[44\]
     日本女子壘球國家代表隊的王牌，和搭檔山本皆稱呼鎌田教練為「小鎌」（），鎌田則稱呼她為yukirin（）。傳授七丸四蠟投的招式。
 
 <!-- end list -->

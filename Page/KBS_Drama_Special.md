@@ -820,7 +820,7 @@ Special**（），中文譯名為**KBS特別劇**，是[韓國](https://zh.wikip
 <td><p>15</p></td>
 <td><p>10月14日</p></td>
 <td><p>一角</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金容琳" title="wikilink">金容琳</a>、<a href="../Page/延俊錫.md" title="wikilink">延俊錫</a>、朴賢貞、<a href="../Page/尹宥善.md" title="wikilink">尹宥善</a></p></td>
+<td><p><a href="../Page/金容琳.md" title="wikilink">金容琳</a>、<a href="../Page/延俊錫.md" title="wikilink">延俊錫</a>、朴賢貞、<a href="../Page/尹宥善.md" title="wikilink">尹宥善</a></p></td>
 <td><p>李秀妍</p></td>
 <td><p>金英鎮</p></td>
 <td><p>3.9%</p></td>
@@ -998,7 +998,7 @@ Special**（），中文譯名為**KBS特別劇**，是[韓國](https://zh.wikip
 <td><p>7</p></td>
 <td><p>8月28日</p></td>
 <td><p>媽媽的島</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金容琳" title="wikilink">金容琳</a>、<a href="../Page/南成鎮.md" title="wikilink">南成鎮</a>、<a href="../Page/劉五性.md" title="wikilink">劉五性</a>、<a href="../Page/洪景仁.md" title="wikilink">洪景仁</a></p></td>
+<td><p><a href="../Page/金容琳.md" title="wikilink">金容琳</a>、<a href="../Page/南成鎮.md" title="wikilink">南成鎮</a>、<a href="../Page/劉五性.md" title="wikilink">劉五性</a>、<a href="../Page/洪景仁.md" title="wikilink">洪景仁</a></p></td>
 <td><p>劉炳宇</p></td>
 <td><p>宋賢旭</p></td>
 <td><p>3.8%</p></td>
@@ -1203,7 +1203,7 @@ Special**（），中文譯名為**KBS特別劇**，是[韓國](https://zh.wikip
 <td><p>8</p></td>
 <td><p>3月30日</p></td>
 <td><p>怪物</p></td>
-<td><p><a href="../Page/延俊錫.md" title="wikilink">延俊錫</a>、<a href="https://zh.wikipedia.org/wiki/康星民" title="wikilink">康星民</a>、<a href="https://zh.wikipedia.org/wiki/朴秉恩" title="wikilink">朴秉恩</a>、</p></td>
+<td><p><a href="../Page/延俊錫.md" title="wikilink">延俊錫</a>、<a href="https://zh.wikipedia.org/wiki/康星民" title="wikilink">康星民</a>、<a href="../Page/朴秉恩.md" title="wikilink">朴秉恩</a>、</p></td>
 <td><p>朴碧珠</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金鐘淵" title="wikilink">金鐘淵</a></p></td>
 <td><p>4.1%</p></td>
@@ -1329,7 +1329,7 @@ Special**（），中文譯名為**KBS特別劇**，是[韓國](https://zh.wikip
 <td><p>22</p></td>
 <td><p>11月2日</p></td>
 <td><p>最後的拼圖</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尹泰榮" title="wikilink">尹泰榮</a>、<a href="../Page/鄭智允_(韓國演員).md" title="wikilink">鄭智允</a>、、<a href="../Page/金民宰.md" title="wikilink">金民宰</a></p></td>
+<td><p><a href="../Page/尹泰榮.md" title="wikilink">尹泰榮</a>、<a href="../Page/鄭智允_(韓國演員).md" title="wikilink">鄭智允</a>、、<a href="../Page/金民宰.md" title="wikilink">金民宰</a></p></td>
 <td><p>李正善</p></td>
 <td><p>金正賢</p></td>
 <td><p>2.9%</p></td>
@@ -1447,7 +1447,7 @@ Special**（），中文譯名為**KBS特別劇**，是[韓國](https://zh.wikip
 <td><p>5</p></td>
 <td><p>7月31日</p></td>
 <td><p>鬼神在幹什麼</p></td>
-<td><p><a href="../Page/李準_(歌手).md" title="wikilink">李準</a>、<a href="https://zh.wikipedia.org/wiki/曹秀香" title="wikilink">曹秀香</a>、<a href="https://zh.wikipedia.org/wiki/吳尚津" title="wikilink">吳尚津</a>、</p></td>
+<td><p><a href="../Page/李準_(歌手).md" title="wikilink">李準</a>、<a href="https://zh.wikipedia.org/wiki/曹秀香" title="wikilink">曹秀香</a>、<a href="../Page/吳尚津.md" title="wikilink">吳尚津</a>、</p></td>
 <td><p>孫世蘭</p></td>
 <td><p><a href="../Page/車榮勳.md" title="wikilink">車榮勳</a></p></td>
 <td><p>3.2%</p></td>
@@ -1556,7 +1556,7 @@ Special**（），中文譯名為**KBS特別劇**，是[韓國](https://zh.wikip
 | 4      | 10月16日   | 我的快樂之家   | [孫汝恩](../Page/孫汝恩.md "wikilink")、[李相燁](../Page/李相燁.md "wikilink")、[朴荷娜](../Page/朴荷娜.md "wikilink")、                                                    | 崔允錫     | 崔允錫    | 3.3%                                                             |
 | 5      | 10月23日   | 兩萬元到平壤   | [韓周完](../Page/韓周完.md "wikilink")、[金榮在](../Page/金榮在.md "wikilink")、、                                                                                    | 金勝元     | 金英均    | 2.2%                                                             |
 | 6      | 10月30日   | 天下無憐     | [李柱昇](../Page/李柱昇.md "wikilink")、[姜敏兒](../Page/姜敏兒.md "wikilink")、[尹宥善](../Page/尹宥善.md "wikilink")、[閔成旭](https://zh.wikipedia.org/wiki/閔成旭 "wikilink") | 劉晶熙     | 金東偉    | 2.0%                                                             |
-| 7      | 11月6日    | 麵店女人     | [朴秉恩](https://zh.wikipedia.org/wiki/朴秉恩 "wikilink")、[全慧彬](../Page/全慧彬.md "wikilink")、、[沈宜英](../Page/沈宜英.md "wikilink")                                 | 金正秀     | 金美慶    | 2.1%                                                             |
+| 7      | 11月6日    | 麵店女人     | [朴秉恩](../Page/朴秉恩.md "wikilink")、[全慧彬](../Page/全慧彬.md "wikilink")、、[沈宜英](../Page/沈宜英.md "wikilink")                                                    | 金正秀     | 金美慶    | 2.1%                                                             |
 | 8      | 11月13日   | 微笑失格     | [趙達煥](../Page/趙達煥.md "wikilink")、[柳和榮](../Page/柳和榮.md "wikilink")、[朴哲民](../Page/朴哲民_\(演員\).md "wikilink")、                                             | 鄭燦美、奇勝大 | 安俊勇    | 1.9%                                                             |
 | 9      | 11月20日   | 麵店女人     | 李尚熙、、[車秀妍](../Page/車秀妍.md "wikilink")、                                                                                                                 | 李江      | 林世俊    | 1.3%                                                             |
 | 10     | 11月27日   | 皮諾丘的鼻子   | [李幼梨](../Page/李幼梨.md "wikilink")、[李河汩](../Page/李河汩.md "wikilink")、、                                                                                    | 金勝元     | 李正美    | 2.8%                                                             |
@@ -1617,7 +1617,7 @@ Special**（），中文譯名為**KBS特別劇**，是[韓國](https://zh.wikip
 <td><p>4</p></td>
 <td><p>9月24日</p></td>
 <td><p>獨自跳華爾茲</p></td>
-<td><p><a href="../Page/文佳煐.md" title="wikilink">文佳煐</a>、<a href="https://zh.wikipedia.org/wiki/呂會鉉" title="wikilink">呂會鉉</a>、河智恩、趙仁宇</p></td>
+<td><p><a href="../Page/文佳煐.md" title="wikilink">文佳煐</a>、<a href="../Page/呂會鉉.md" title="wikilink">呂會鉉</a>、河智恩、趙仁宇</p></td>
 <td><p>權慧智</p></td>
 <td><p>黃勝基</p></td>
 <td><p>3.3%</p></td>

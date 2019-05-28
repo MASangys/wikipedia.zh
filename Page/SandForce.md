@@ -30,7 +30,7 @@ Raam领导的新的闪存组件部门。
 
 SandForce在[预期寿命为](../Page/预期寿命.md "wikilink")5年的[数据中心环境中使用低成本的](../Page/数据中心.md "wikilink")[多层单元技术](../Page/多层单元.md "wikilink")。在该公司脱颖而出前，市场上的其他固态驱动器使用更昂贵的单层单元技术。\[12\]
 
-SandForce将其控制器中的整体技术命名为“DuraClass”。SandForce控制器不使用其他SSD控制器常用的[DRAM作为](../Page/动态随机存取存储器.md "wikilink")[缓存](https://zh.wikipedia.org/wiki/内存缓存 "wikilink")，这降低了成本和复杂性。SandForce控制器还提供一个专有的[压缩系统以最小化实际写入](../Page/数据压缩.md "wikilink")[非易失性存储器的数据量](https://zh.wikipedia.org/wiki/非易失性存储器 "wikilink")，减少[写入放大](https://zh.wikipedia.org/wiki/写入放大 "wikilink")，从而增加大多数数据的速度与寿命，这也称“DuraWrite”技术。SandForce声称在典型工作负载下，可以将写入放大减少到0.5。但与此相对，不容易压缩的数据（例如[随机数据](https://zh.wikipedia.org/wiki/随机 "wikilink")，[加密的文件或分区](https://zh.wikipedia.org/wiki/加密 "wikilink")，[压缩文件](https://zh.wikipedia.org/wiki/压缩文件 "wikilink")，许多常见的[音频和](https://zh.wikipedia.org/wiki/音频 "wikilink")[视频](../Page/视频.md "wikilink")[文件格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")）写入则会变慢一点。其他技术包括可以改善硬盘故障率的“RAISE”（独立硅元件冗余阵列）[错误检测和纠正技术](https://zh.wikipedia.org/wiki/错误检测和纠正 "wikilink")，\[13\]以及在后台全自动工作的[高级加密标准](../Page/高级加密标准.md "wikilink")（AES）加密技术。即使没有密码，数据也被加密，从而防止数据恢复。硬件加密（将存储到闪存的用户数据加密而没有显著性能损失）不是替代，而是与[驱动器锁定功能和基于软件的加密互补](https://zh.wikipedia.org/wiki/ATA "wikilink")，以防止通过主机接口对驱动器内容进行未经授权的访问。
+SandForce将其控制器中的整体技术命名为“DuraClass”。SandForce控制器不使用其他SSD控制器常用的[DRAM作为](../Page/动态随机存取存储器.md "wikilink")[缓存](https://zh.wikipedia.org/wiki/内存缓存 "wikilink")，这降低了成本和复杂性。SandForce控制器还提供一个专有的[压缩系统以最小化实际写入](../Page/数据压缩.md "wikilink")[非易失性存储器的数据量](https://zh.wikipedia.org/wiki/非易失性存储器 "wikilink")，减少[写入放大](../Page/写入放大.md "wikilink")，从而增加大多数数据的速度与寿命，这也称“DuraWrite”技术。SandForce声称在典型工作负载下，可以将写入放大减少到0.5。但与此相对，不容易压缩的数据（例如[随机数据](https://zh.wikipedia.org/wiki/随机 "wikilink")，[加密的文件或分区](https://zh.wikipedia.org/wiki/加密 "wikilink")，[压缩文件](https://zh.wikipedia.org/wiki/压缩文件 "wikilink")，许多常见的[音频和](https://zh.wikipedia.org/wiki/音频 "wikilink")[视频](../Page/视频.md "wikilink")[文件格式](https://zh.wikipedia.org/wiki/文件格式 "wikilink")）写入则会变慢一点。其他技术包括可以改善硬盘故障率的“RAISE”（独立硅元件冗余阵列）[错误检测和纠正技术](https://zh.wikipedia.org/wiki/错误检测和纠正 "wikilink")，\[13\]以及在后台全自动工作的[高级加密标准](../Page/高级加密标准.md "wikilink")（AES）加密技术。即使没有密码，数据也被加密，从而防止数据恢复。硬件加密（将存储到闪存的用户数据加密而没有显著性能损失）不是替代，而是与[驱动器锁定功能和基于软件的加密互补](../Page/ATA.md "wikilink")，以防止通过主机接口对驱动器内容进行未经授权的访问。
 
 ## 产品
 
@@ -41,8 +41,8 @@ Gbit/s)、速度更快、安全性、数据保护功能。\[15\]\[16\]第二代�
 
 2013年11月，SF
 3700控制器家族被宣布，支持[三层单元而获得更大的容量](https://zh.wikipedia.org/wiki/三层单元 "wikilink")\[18\]，支持[NVM
-Express来提升高端性能](https://zh.wikipedia.org/wiki/NVM_Express "wikilink")。\[19\]使用此控制器及PCIe
-x4 (gen
+Express来提升高端性能](../Page/NVM_Express.md "wikilink")。\[19\]使用此控制器及PCIe x4
+(gen
 2)型号的示例工程板被发现有1,800MB/秒顺序读写速度，150K/80K随机IOPS。\[20\]使用此控制器的金士顿[HyperX](../Page/金士頓科技.md "wikilink")“[消费者](../Page/產消合一者.md "wikilink")”产品在2014年[消費電子展上展示](../Page/消費電子展.md "wikilink")，并承诺了类似的性能。\[21\]\[22\]也在消費電子展上展示了使用SF
 3700系列的产品，推出他们高达480GB（512GiB）的[M.2](../Page/M.2.md "wikilink")
 Helix系列，并在2.5英寸款式内最多2TB。\[23\]
@@ -56,7 +56,7 @@ SF 3700家族：
     2)；支持可选的[电池或](../Page/电池.md "wikilink")[超级电容器](../Page/双电层电容器.md "wikilink")“完整供电故障”保护\[25\]
   - SF3759 — “完整企业功能集”（尚无进一步信息）\[26\]
 
-以上所有型号实际都以相同的[晶粒](https://zh.wikipedia.org/wiki/晶粒 "wikilink")（40[纳米制造工艺](../Page/纳米.md "wikilink")）制成，而低端产品未使用其中部分区域。\[27\]SF
+以上所有型号实际都以相同的[晶粒](../Page/晶粒.md "wikilink")（40[纳米制造工艺](../Page/纳米.md "wikilink")）制成，而低端产品未使用其中部分区域。\[27\]SF
 3700系列中的RAISE技术已从防止单个页或块故障（以前系列所用）升级为“多个页或块，乃至整个晶粒”，这被称之为RAISE level
 2。此外，新芯片为冗余保留不到一个完整晶粒（所谓“fractional RAISE”）。\[28\]
 

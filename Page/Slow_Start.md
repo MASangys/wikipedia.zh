@@ -53,7 +53,7 @@ Kirara》公布本作改編電視動畫的消息\[3\]。
     花名的同學，家住[豪宅](../Page/豪宅.md "wikilink")。身材嬌小（高一入学时身高仅136cm），现在穿上初中和小学校服均合身。自称喜欢吃饭、睡觉，一餐能吃很多（动画版前11集的背景均为冠或她的猫在吃东西），但进食速度不快。[短跑跑得很快](https://zh.wikipedia.org/wiki/短跑 "wikilink")，曾被田徑社邀請入社。
     平时有练习[钢琴和](../Page/钢琴.md "wikilink")[马林巴](../Page/马林巴.md "wikilink")，还可以只听声音就判断出容器里的硬币面值和各自数量。
     名字“冠”取自[大冠鹫](https://zh.wikipedia.org/wiki/大冠鹫 "wikilink")，头上的两条丝带立起来时长20cm，相当于大冠鹫的羽冠。
-    略[怕生](https://zh.wikipedia.org/wiki/害羞 "wikilink")，对荣依子抱有很强的依赖感。小学六年级时和荣依子相识，初中时碰巧在路上看见多年未见的“荣依子”在打电话，听到她说“星尾女子”后便决定要考这所高中。
+    略[怕生](../Page/害羞.md "wikilink")，对荣依子抱有很强的依赖感。小学六年级时和荣依子相识，初中时碰巧在路上看见多年未见的“荣依子”在打电话，听到她说“星尾女子”后便决定要考这所高中。
     爱猫，自家养着两只小学时期和荣依子在外玩耍时一起玩过的[流浪猫](https://zh.wikipedia.org/wiki/流浪猫 "wikilink")。受父母嗜好影响，私服类似[萝莉塔时装样式](https://zh.wikipedia.org/wiki/萝莉塔时装 "wikilink")。在学校曾有几次没穿裙子。
 
 ### 星尾女子高等學校
@@ -204,7 +204,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[栃木电视台](https
   - 人物设定、总[作画监督](https://zh.wikipedia.org/wiki/作画监督 "wikilink")：安野将人
   - 音樂：
   - 音响监督：[明田川仁](../Page/明田川仁.md "wikilink")
-  - 动画制作：[CloverWorks](https://zh.wikipedia.org/wiki/CloverWorks "wikilink")（原A-1
+  - 动画制作：[CloverWorks](../Page/CloverWorks.md "wikilink")（原A-1
     Pictures高圆寺工作室）\[10\]
   - 製作：[Slow
     Start製作委員会](../Page/制作委员会方式.md "wikilink")（[Aniplex](../Page/Aniplex.md "wikilink")、[芳文社](../Page/芳文社.md "wikilink")、、、[关西电视台](https://zh.wikipedia.org/wiki/关西电视台 "wikilink")、[Lawson](https://zh.wikipedia.org/wiki/罗森_\(便利店\) "wikilink")）
@@ -212,14 +212,14 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[栃木电视台](https
 ### 主題曲
 
   - 片頭曲「ne！ne！ne！」
-    作詞：[岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink")，作曲、編曲：，主唱：STARTails☆（[近藤玲奈](https://zh.wikipedia.org/wiki/近藤玲奈 "wikilink")、[伊藤彩沙](../Page/伊藤彩沙.md "wikilink")、[嶺內智美](https://zh.wikipedia.org/wiki/嶺內智美 "wikilink")、[長繩麻理亞](../Page/長繩麻理亞.md "wikilink")）
+    作詞：[岩里祐穗](https://zh.wikipedia.org/wiki/岩里祐穗 "wikilink")，作曲、編曲：，主唱：STARTails☆（[近藤玲奈](../Page/近藤玲奈.md "wikilink")、[伊藤彩沙](../Page/伊藤彩沙.md "wikilink")、[嶺內智美](../Page/嶺內智美.md "wikilink")、[長繩麻理亞](../Page/長繩麻理亞.md "wikilink")）
 
   - 片尾曲
 
 :;「」（第1話－第11話）
 
 ::
-作詞、作曲、編曲：[40mP](../Page/40mP.md "wikilink")，主唱：[三月的Phantasia](https://zh.wikipedia.org/wiki/三月的Phantasia "wikilink")
+作詞、作曲、編曲：[40mP](../Page/40mP.md "wikilink")，主唱：[三月的Phantasia](../Page/三月的Phantasia.md "wikilink")
 
 :;「」（第12話）
 
@@ -260,7 +260,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[栃木电视台](https
 <td><p>-{邂逅的悸動</p></td>
 <td><p>最初的心动}-</p></td>
 <td><p><a href="../Page/井上美緒.md" title="wikilink">井上美緒</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/橋本裕之" title="wikilink">橋本裕之</a></p></td>
+<td><p><a href="../Page/橋本裕之.md" title="wikilink">橋本裕之</a></p></td>
 <td><p>安野將人</p></td>
 <td></td>
 </tr>
@@ -323,7 +323,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[栃木电视台](https
 <td></td>
 <td><p>-{咕嚕嚕的手腕</p></td>
 <td><p>两手缠缠}-</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/舛成孝二" title="wikilink">舛成孝二</a></p></td>
+<td><p><a href="../Page/舛成孝二.md" title="wikilink">舛成孝二</a></p></td>
 <td><p>篠原正寬</p></td>
 <td><p>河合拓也</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鈴木次郎" title="wikilink">鈴木次郎</a></p></td>
@@ -372,10 +372,10 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[栃木电视台](https
 井戶田茜、日高真由美<br />
 佐佐木貴宏、後藤麻梨子<br />
 伊藤雅子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/近藤玲奈" title="wikilink">近藤玲奈</a><br />
+<td><p><a href="../Page/近藤玲奈.md" title="wikilink">近藤玲奈</a><br />
 <a href="../Page/長繩麻理亞.md" title="wikilink">長繩麻理亞</a><br />
 <a href="../Page/伊藤彩沙.md" title="wikilink">伊藤彩沙</a><br />
-<a href="https://zh.wikipedia.org/wiki/嶺內智美" title="wikilink">嶺內智美</a></p></td>
+<a href="../Page/嶺內智美.md" title="wikilink">嶺內智美</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -459,7 +459,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[栃木电视台](https
 
 ### 网络电台
 
-2018年1月7日起，由一之濑花名的声优[近藤玲奈主持](https://zh.wikipedia.org/wiki/近藤玲奈 "wikilink")、STARTails☆出演的视频电台节目《**Slow
+2018年1月7日起，由一之濑花名的声优[近藤玲奈主持](../Page/近藤玲奈.md "wikilink")、STARTails☆出演的视频电台节目《**Slow
 Start STARTails
 Chan！ne！ne！nel！☆**》（）每周日14时于[超！A\&G+播放](https://zh.wikipedia.org/wiki/超!A&G+ "wikilink")\[13\]\[14\]。
 
@@ -470,7 +470,7 @@ Start》視頻資源恢復，並通知恢復兩部作品的版權\[15\]。
 
 ## 联动游戏
 
-  - [闪耀幻想曲](https://zh.wikipedia.org/wiki/闪耀幻想曲 "wikilink")
+  - [闪耀幻想曲](../Page/闪耀幻想曲.md "wikilink")
 
     开发的智能手机游戏应用，包含众多《[Manga Time
     Kirara](../Page/Manga_Time_Kirara.md "wikilink")》系列中的角色。

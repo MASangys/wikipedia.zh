@@ -4,7 +4,7 @@
 
   - 本名**石田
     知充**（）\[4\]，其藝名來自田原在劇團員時期，造訪位於[義大利](https://zh.wikipedia.org/wiki/義大利 "wikilink")[佛羅倫斯的](https://zh.wikipedia.org/wiki/佛羅倫斯 "wikilink")[阿諾河](https://zh.wikipedia.org/wiki/阿諾河 "wikilink")\[5\]。
-  - 以前所屬的經紀公司有（附屬研究所第2期畢業\[6\]）\[7\]、\[8\]、[九Production](https://zh.wikipedia.org/wiki/九Production "wikilink")\[9\]\[10\]、[Production★A組](https://zh.wikipedia.org/wiki/Production★A組 "wikilink")\[11\]，現所屬於、及個人事務所Aruno之會代表\[12\]。
+  - 以前所屬的經紀公司有（附屬研究所第2期畢業\[6\]）\[7\]、\[8\]、[九Production](../Page/九Production.md "wikilink")\[9\]\[10\]、[Production★A組](../Page/Production★A組.md "wikilink")\[11\]，現所屬於、及個人事務所Aruno之會代表\[12\]。
 
 ### 來歷、人物
 
@@ -76,8 +76,7 @@ Academia的兼職講師\[14\]。
 
 <!-- end list -->
 
-  - [哆啦A夢
-    (大杉羨代版)](https://zh.wikipedia.org/wiki/哆啦A夢_\(1979年電視動畫\) "wikilink")（大叔）
+  - [哆啦A夢 (大杉羨代版)](../Page/哆啦A夢_\(1979年電視動畫\).md "wikilink")（大叔）
 
 <!-- end list -->
 
@@ -184,7 +183,7 @@ Academia的兼職講師\[14\]。
 
   - （哈馬）
 
-  - [黑色推銷員](https://zh.wikipedia.org/wiki/黑色推銷員 "wikilink")（落窪禮）
+  - [黑色推銷員](../Page/黑色推銷員.md "wikilink")（落窪禮）
 
 <!-- end list -->
 
@@ -253,7 +252,7 @@ Academia的兼職講師\[14\]。
   - [Hello Kitty 幸福的鬱金香](../Page/Hello_Kitty.md "wikilink")（Kitty &
     Mimmy的爸爸）
 
-  - [淘氣小愛神](https://zh.wikipedia.org/wiki/淘氣小愛神 "wikilink")（波賽頓、男）
+  - [淘氣小愛神](../Page/淘氣小愛神.md "wikilink")（波賽頓、男）
 
 <!-- end list -->
 
@@ -340,7 +339,7 @@ Academia的兼職講師\[14\]。
 
   - 咕嚕咕嚕魔法陣 心跳♡傳說（巴傑尼）
 
-  - （[藤田東湖](https://zh.wikipedia.org/wiki/藤田東湖 "wikilink")、）
+  - （[藤田東湖](../Page/藤田東湖.md "wikilink")、）
 
   - [爆裂戰士戰藍寶](../Page/爆裂戰士戰藍寶.md "wikilink")（）
 
@@ -413,7 +412,7 @@ Academia的兼職講師\[14\]。
   - （[小西攝津守行長](../Page/小西行長.md "wikilink")\[17\]）
 
   - [哆啦A夢
-    (水田山葵版)](https://zh.wikipedia.org/wiki/哆啦A夢_\(2005年電視動畫\) "wikilink")（[源靜香的爸爸](../Page/源靜香.md "wikilink")、士兵A）
+    (水田山葵版)](../Page/哆啦A夢_\(2005年電視動畫\).md "wikilink")（[源靜香的爸爸](../Page/源靜香.md "wikilink")、士兵A）
 
   - [怪醫黑傑克](../Page/怪醫黑傑克_\(動畫\).md "wikilink")（小家主）
 
@@ -758,7 +757,7 @@ Academia的兼職講師\[14\]。
 <!-- end list -->
 
   - **[彼得·邁克尼科爾](https://zh.wikipedia.org/wiki/彼得·邁克尼科爾 "wikilink")**
-      - [阿達一族2](https://zh.wikipedia.org/wiki/阿達一族2 "wikilink")（Gary
+      - [阿達一族2](../Page/阿達一族2.md "wikilink")（Gary
         Granger）※DVD、[日本電視台版](../Page/日本電視台.md "wikilink")。
 
       - （Dan）
@@ -939,7 +938,7 @@ Academia的兼職講師\[14\]。
 
   - （Graham Crockett〈Paul Sorvino 飾演〉）※DVD版。
 
-  - [地獄來的芳鄰](https://zh.wikipedia.org/wiki/地獄來的芳鄰 "wikilink")（Joe〈[Robert
+  - [地獄來的芳鄰](../Page/地獄來的芳鄰.md "wikilink")（Joe〈[Robert
     Picardo](https://zh.wikipedia.org/wiki/羅伯特·皮卡多 "wikilink")
     飾演〉）※朝日電視台版。
 
@@ -984,7 +983,7 @@ Academia的兼職講師\[14\]。
   - ※影碟版。
 
   -
-  - [豺狼的日子](https://zh.wikipedia.org/wiki/豺狼的日子 "wikilink") ※東京電視台版。
+  - [豺狼的日子](../Page/豺狼的日子.md "wikilink") ※東京電視台版。
 
   - （Chief Dennis Wilson〈Mark Rolston 飾演〉）※朝日電視台版。
 
@@ -1010,9 +1009,7 @@ Academia的兼職講師\[14\]。
   - （**Walter Hollander**〈[Woody
     Allen](https://zh.wikipedia.org/wiki/伍迪·艾倫 "wikilink") 主演〉）
 
-  - （Howard〈[Harry Dean
-    Stanton](https://zh.wikipedia.org/wiki/哈里·迪恩·斯坦頓 "wikilink")
-    飾演〉）
+  - （Howard〈[Harry Dean Stanton](../Page/哈里·迪恩·斯坦頓.md "wikilink") 飾演〉）
 
   - （Jack Riley〈[Kevin Pollak](../Page/凱文·波拉克.md "wikilink")
     飾演〉）※東京電視台版。
@@ -1116,8 +1113,8 @@ Academia的兼職講師\[14\]。
 
   - ※朝日電視台版。
 
-  - [第三集中營](https://zh.wikipedia.org/wiki/第三集中營 "wikilink")（Dennis
-    Cavendish〈Nigel Stock 飾演〉）※東京電視台版。
+  - [第三集中營](../Page/第三集中營.md "wikilink")（Dennis Cavendish〈Nigel Stock
+    飾演〉）※東京電視台版。
 
   - [小精靈2](../Page/小精靈2.md "wikilink") ※朝日電視台版。
 
@@ -1384,9 +1381,8 @@ Academia的兼職講師\[14\]。
   - （Wade Garrett〈[Sam Elliott](../Page/山姆·埃利奧特.md "wikilink")
     飾演〉）※東京電視台版。
 
-  - [非法正義](https://zh.wikipedia.org/wiki/非法正義 "wikilink")（Alexander
-    Rance〈[Dylan Baker](https://zh.wikipedia.org/wiki/迪倫·貝克 "wikilink")
-    飾演〉）
+  - [非法正義](../Page/非法正義.md "wikilink")（Alexander Rance〈[Dylan
+    Baker](https://zh.wikipedia.org/wiki/迪倫·貝克 "wikilink") 飾演〉）
 
   - （Spitzvogel博士〈Norbert Weisser 飾演〉）※VHS版。
 
@@ -1902,7 +1898,7 @@ Academia的兼職講師\[14\]。
           - 「新說！[巨石陣之謎](https://zh.wikipedia.org/wiki/巨石陣 "wikilink")」（2014年）
           - 「意外與你所不知的[鴿子的故事](https://zh.wikipedia.org/wiki/鴿屬 "wikilink")」（2015年）
 
-      - [摩根費里曼之穿越蟲洞](https://zh.wikipedia.org/wiki/摩根費里曼之穿越蟲洞 "wikilink")
+      - [摩根費里曼之穿越蟲洞](../Page/摩根費里曼之穿越蟲洞.md "wikilink")
 
       - 歡迎來到吸血園區！「喜劇王對決 查普林VS基頓」（2017年）
 
@@ -1982,7 +1978,7 @@ Academia的兼職講師\[14\]。
 7.
 8.
 
-9.  2004年10月3日因九Production的創立人及執行社長[平林尚三病逝](https://zh.wikipedia.org/wiki/平林尚三 "wikilink")，同年10月31日解散。
+9.  2004年10月3日因九Production的創立人及執行社長[平林尚三病逝](../Page/平林尚三.md "wikilink")，同年10月31日解散。
 
 10. 掛尾良夫編「聲優事典 男性篇：田原Aruno」《聲優事典
     第二版》，第185頁，[Kinema旬報社](../Page/電影旬報.md "wikilink")，1996年3月30日
@@ -2009,7 +2005,7 @@ Academia的兼職講師\[14\]。
 
 23. [PC Engine版](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")。
 
-24. [PS版](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。
+24. [PS版](../Page/PlayStation.md "wikilink")。
 
 25. [Sega Saturn版](../Page/世嘉土星.md "wikilink")。
 

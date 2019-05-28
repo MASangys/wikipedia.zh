@@ -40,8 +40,7 @@ Marshmallow作業系統](../Page/Android_Marshmallow.md "wikilink")，支持最�
 Pay移动支付服务以及谷歌的移动网络服务](../Page/Google_Pay.md "wikilink")[Project
 Fi](https://zh.wikipedia.org/wiki/Project_Fi "wikilink")。並可升級至[7.0
 Nougat與](../Page/Android_Nougat.md "wikilink")[8.1
-Oreo](https://zh.wikipedia.org/wiki/Android_Oreo "wikilink")。后续将可以通过第三方更新至Android
-P
+Oreo](../Page/Android_Oreo.md "wikilink")。后续将可以通过第三方更新至Android P
 
 ### 设计
 

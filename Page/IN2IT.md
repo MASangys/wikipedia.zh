@@ -20,7 +20,7 @@ IN2IT意思為「intuit」和「into it」，即是直覺、本能地知道並�
 
 ### 2016-2017年：公演時期
 
-  - 2017年8月12日舉行FINAL，決定出道組成員為[黃仁虎](https://zh.wikipedia.org/wiki/黃仁虎 "wikilink")、鄭然太、金珍燮、[金成賢](https://zh.wikipedia.org/wiki/金成賢 "wikilink")、劉持岸、Isaac、陳成鎬、[李引杓](https://zh.wikipedia.org/wiki/李引杓 "wikilink")、韓顯旭\[3\]。
+  - 2017年8月12日舉行FINAL，決定出道組成員為[黃仁虎](https://zh.wikipedia.org/wiki/黃仁虎 "wikilink")、鄭然太、金珍燮、[金成賢](../Page/金成賢.md "wikilink")、劉持岸、Isaac、陳成鎬、[李引杓](https://zh.wikipedia.org/wiki/李引杓 "wikilink")、韓顯旭\[3\]。
   - 2017年8月14日，公司於粉絲專頁公告，陳成鎬因音樂理念不同，決定退出出道組\[4\]（后參加[MIXNINE生存節目](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")）。
 
 ### 2017年：正式出道、Carpe Diem時期
@@ -85,7 +85,7 @@ IN2IT意思為「intuit」和「into it」，即是直覺、本能地知道並�
 | [顯旭](https://zh.wikipedia.org/wiki/韓顯旭 "wikilink")        |
 | [Isaac](https://zh.wikipedia.org/wiki/鄔凱名 "wikilink")     |
 | [引杓](https://zh.wikipedia.org/wiki/李引杓 "wikilink")        |
-| [成賢](https://zh.wikipedia.org/wiki/金成賢 "wikilink")        |
+| [成賢](../Page/金成賢.md "wikilink")                           |
 |                                                           |
 
 | colspan="11" style=""background:white;color:black";"|已離開成員 |

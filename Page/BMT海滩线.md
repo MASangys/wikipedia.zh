@@ -77,7 +77,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/自治市公園_(布魯克林)" title="wikilink">自治市公園</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/漢密爾頓堡公園道車站_(BMT海灘線)" title="wikilink">漢密爾頓堡公園道</a></p></td>
+<td><p><a href="../Page/漢密爾頓堡公園道車站_(BMT海灘線).md" title="wikilink">漢密爾頓堡公園道</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -96,7 +96,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/18大道車站_(BMT海灘線)" title="wikilink">18大道</a></p></td>
+<td><p><a href="../Page/18大道車站_(BMT海灘線).md" title="wikilink">18大道</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -106,7 +106,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/20大道車站_(BMT海灘線)" title="wikilink">20大道</a></p></td>
+<td><p><a href="../Page/20大道車站_(BMT海灘線).md" title="wikilink">20大道</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -116,7 +116,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/海灣公園道車站_(BMT海灘線)" title="wikilink">海灣公園道</a></p></td>
+<td><p><a href="../Page/海灣公園道車站_(BMT海灘線).md" title="wikilink">海灣公園道</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>

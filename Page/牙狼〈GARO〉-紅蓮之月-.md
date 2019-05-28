@@ -69,7 +69,7 @@
   - 企劃監製：久保亨
   - 監製：鷹木純一
   - 特別協力：Sansei R\&D
-  - 動畫製作：[MAPPA](https://zh.wikipedia.org/wiki/MAPPA "wikilink")、東北新社
+  - 動畫製作：[MAPPA](../Page/MAPPA.md "wikilink")、東北新社
   - 製作：東北新社
 
 ### 主題曲

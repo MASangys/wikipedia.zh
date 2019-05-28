@@ -3,7 +3,7 @@ GmbH**”）是一家位于[奥地利](https://zh.wikipedia.org/wiki/奥地利 "
 Entertainment和在](https://zh.wikipedia.org/wiki/JoWooD娛樂 "wikilink")2013年购得的老牌美国游戏公司[THQ旗下一些品牌](https://zh.wikipedia.org/wiki/THQ "wikilink")。2016年，公司宣布其名称将从Nordic
 Games更改为THQ
 Nordic，并会使用之前收购的THQ的品牌和标志。\[1\]2018年，公司宣布收购德国传媒集团，而公司旗下的游戏公司[Deep
-Silver也包含在内](https://zh.wikipedia.org/wiki/Deep_Silver "wikilink")；Deep
+Silver也包含在内](../Page/Deep_Silver.md "wikilink")；Deep
 Silver拥有《黑道圣徒》、《地铁》以及《家园前线》等原THQ发行的游戏系列。\[2\]
 
 公司除了自身的游戏开发和发行业务，也接手一些其他开发商在Windows平台的游戏发行工作，最著名的是芬兰游戏开发商[綠美迪娛樂的](../Page/綠美迪娛樂.md "wikilink")《[心灵杀手](../Page/心灵杀手.md "wikilink")》和《[量子破碎](https://zh.wikipedia.org/wiki/量子破碎 "wikilink")》。\[3\]

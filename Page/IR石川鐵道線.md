@@ -1,4 +1,4 @@
-**IR石川鐵道線**（）是一條連結[石川縣](../Page/石川縣.md "wikilink")[金澤市的](../Page/金澤市.md "wikilink")[金澤站與](https://zh.wikipedia.org/wiki/金澤站 "wikilink")[石川縣](../Page/石川縣.md "wikilink")[河北郡](https://zh.wikipedia.org/wiki/河北郡 "wikilink")[津幡町的](https://zh.wikipedia.org/wiki/津幡町 "wikilink")[俱利伽羅站](../Page/俱利伽羅站.md "wikilink")，屬於[IR石川鐵道的鐵道路線](https://zh.wikipedia.org/wiki/IR石川鐵道 "wikilink")。起初是[北陸本線的一部分](../Page/北陸本線.md "wikilink")，2015年3月14日[北陸新幹線](../Page/北陸新幹線.md "wikilink")[長野站](https://zh.wikipedia.org/wiki/長野站 "wikilink")－[金澤站間開業之際自](https://zh.wikipedia.org/wiki/金澤站 "wikilink")[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）經營分離路段的一部分。
+**IR石川鐵道線**（）是一條連結[石川縣](../Page/石川縣.md "wikilink")[金澤市的](../Page/金澤市.md "wikilink")[金澤站與](https://zh.wikipedia.org/wiki/金澤站 "wikilink")[石川縣](../Page/石川縣.md "wikilink")[河北郡](https://zh.wikipedia.org/wiki/河北郡 "wikilink")[津幡町的](https://zh.wikipedia.org/wiki/津幡町 "wikilink")[俱利伽羅站](../Page/俱利伽羅站.md "wikilink")，屬於[IR石川鐵道的鐵道路線](../Page/IR石川鐵道.md "wikilink")。起初是[北陸本線的一部分](../Page/北陸本線.md "wikilink")，2015年3月14日[北陸新幹線](../Page/北陸新幹線.md "wikilink")[長野站](https://zh.wikipedia.org/wiki/長野站 "wikilink")－[金澤站間開業之際自](https://zh.wikipedia.org/wiki/金澤站 "wikilink")[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）經營分離路段的一部分。
 
 ## 路線資料
 
@@ -150,7 +150,7 @@
 <td><p>11.5</p></td>
 <td><p>188.1</p></td>
 <td><p>｜</p></td>
-<td><p>西日本旅客鐵道：<a href="https://zh.wikipedia.org/wiki/七尾線" title="wikilink">七尾線</a>[8]</p></td>
+<td><p>西日本旅客鐵道：<a href="../Page/七尾線.md" title="wikilink">七尾線</a>[8]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/河北郡" title="wikilink">河北郡</a><br />
 <a href="https://zh.wikipedia.org/wiki/津幡町" title="wikilink">津幡町</a></p></td>
 </tr>

@@ -73,7 +73,7 @@ Prince**是[日本六人](../Page/日本.md "wikilink")[偶像](../Page/偶像_\
 <td><p>紫式部[7]</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/岩橋玄樹" title="wikilink">岩橋玄樹</a></strong></p></td>
+<td><p><strong><a href="../Page/岩橋玄樹.md" title="wikilink">岩橋玄樹</a></strong></p></td>
 <td></td>
 <td></td>
 <td><p>日本<a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
@@ -82,7 +82,7 @@ Prince**是[日本六人](../Page/日本.md "wikilink")[偶像](../Page/偶像_\
 <td><p>桃紅</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/神宫寺勇太" title="wikilink">神宫寺勇太</a></strong></p></td>
+<td><p><strong><a href="../Page/神宫寺勇太.md" title="wikilink">神宫寺勇太</a></strong></p></td>
 <td></td>
 <td></td>
 <td><p>日本<a href="https://zh.wikipedia.org/wiki/千叶县" title="wikilink">千葉縣</a></p></td>

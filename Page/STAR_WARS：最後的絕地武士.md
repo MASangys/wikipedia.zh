@@ -1,16 +1,16 @@
 《**STAR
-WARS：最後的絕地武士**》（），也可稱作《**星際大戰八部曲：最後的絕地武士**》（）\[1\]是一部於2017年上映的[史詩](https://zh.wikipedia.org/wiki/史诗片 "wikilink")[太空歌劇](../Page/太空歌劇.md "wikilink")[科幻片](https://zh.wikipedia.org/wiki/科幻片 "wikilink")，為[萊恩·尊遜執導和編劇](https://zh.wikipedia.org/wiki/萊恩·尊遜 "wikilink")。本片是《[星際大戰](../Page/星際大戰.md "wikilink")》系列電影的第八部作品和2015年電影《[STAR
-WARS：原力覺醒](https://zh.wikipedia.org/wiki/STAR_WARS：原力覺醒 "wikilink")》的續集。電影由[盧卡斯影業製作](https://zh.wikipedia.org/wiki/盧卡斯影業 "wikilink")，[華特迪士尼工作室電影負責發行](https://zh.wikipedia.org/wiki/華特迪士尼工作室電影 "wikilink")。
+WARS：最後的絕地武士**》（），也可稱作《**星際大戰八部曲：最後的絕地武士**》（）\[1\]是一部於2017年上映的[史詩](../Page/史诗片.md "wikilink")[太空歌劇](../Page/太空歌劇.md "wikilink")[科幻片](https://zh.wikipedia.org/wiki/科幻片 "wikilink")，為[萊恩·尊遜執導和編劇](https://zh.wikipedia.org/wiki/萊恩·尊遜 "wikilink")。本片是《[星際大戰](../Page/星際大戰.md "wikilink")》系列電影的第八部作品和2015年電影《[STAR
+WARS：原力覺醒](../Page/STAR_WARS：原力覺醒.md "wikilink")》的續集。電影由[盧卡斯影業製作](https://zh.wikipedia.org/wiki/盧卡斯影業 "wikilink")，[華特迪士尼工作室電影負責發行](../Page/華特迪士尼工作室電影.md "wikilink")。
 
-除了[黛西·蕾德莉](../Page/黛西·蕾德莉.md "wikilink")、[約翰·波耶加](../Page/約翰·波耶加.md "wikilink")、[奧斯卡·伊薩克](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")、[馬克·漢米爾](../Page/馬克·漢米爾.md "wikilink")、[嘉莉·費雪](../Page/嘉莉·費雪.md "wikilink")、[亞當·崔佛](https://zh.wikipedia.org/wiki/亞當·崔佛 "wikilink")、[安迪·瑟克斯](../Page/安迪·瑟克斯.md "wikilink")、[多姆納爾·格里森](../Page/多姆納爾·格里森.md "wikilink")、[露琵塔·尼詠歐](https://zh.wikipedia.org/wiki/露琵塔·尼詠歐 "wikilink")、、和繼續回歸出演自己的角色外，本集還新加入了[班尼西歐·狄奧·托羅](../Page/班尼西歐·狄奧·托羅.md "wikilink")、[蘿拉·鄧恩以及](../Page/蘿拉·鄧恩.md "wikilink")\[2\]。電影於2015年9月14日在正式開拍。
+除了[黛西·蕾德莉](../Page/黛西·蕾德莉.md "wikilink")、[約翰·波耶加](../Page/約翰·波耶加.md "wikilink")、[奧斯卡·伊薩克](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")、[馬克·漢米爾](../Page/馬克·漢米爾.md "wikilink")、[嘉莉·費雪](../Page/嘉莉·費雪.md "wikilink")、[亞當·崔佛](../Page/亞當·崔佛.md "wikilink")、[安迪·瑟克斯](../Page/安迪·瑟克斯.md "wikilink")、[多姆納爾·格里森](../Page/多姆納爾·格里森.md "wikilink")、[露琵塔·尼詠歐](https://zh.wikipedia.org/wiki/露琵塔·尼詠歐 "wikilink")、、和繼續回歸出演自己的角色外，本集還新加入了[班尼西歐·狄奧·托羅](../Page/班尼西歐·狄奧·托羅.md "wikilink")、[蘿拉·鄧恩以及](../Page/蘿拉·鄧恩.md "wikilink")\[2\]。電影於2015年9月14日在正式開拍。
 
 該片定於2017年12月15日在美國上映。2017年1月23日，盧卡斯影業宣布本集副標題為「The Last Jedi」\[3\]。
 
-2018年1月16日，正式以總票房12.64億美元，超越《[美女與野獸](https://zh.wikipedia.org/wiki/美女與野獸_\(2017年電影\) "wikilink")》，成為2017年在北美票房與全球票房最高的電影，在[全球票房排名第](../Page/全球最高電影票房.md "wikilink")11名（不考慮通貨膨脹）。
+2018年1月16日，正式以總票房12.64億美元，超越《[美女與野獸](../Page/美女與野獸_\(2017年電影\).md "wikilink")》，成為2017年在北美票房與全球票房最高的電影，在[全球票房排名第](../Page/全球最高電影票房.md "wikilink")11名（不考慮通貨膨脹）。
 
 ## 劇情
 
-自從[新共和國所在的霍斯尼亞星系被](https://zh.wikipedia.org/wiki/新共和國 "wikilink")[第一軍團所屬的](https://zh.wikipedia.org/wiki/第一軍團 "wikilink")[弒星者基地](../Page/弒星者基地.md "wikilink")[開砲摧毀後](https://zh.wikipedia.org/wiki/星際大戰：原力覺醒 "wikilink")，第一軍團隨即控制住各大重點星系，而所駐守的星球也被軍團追蹤到。當第一軍團派出無畏艦等多數鈦戰機隊來到抵抗勢力星球時，由[波·戴姆倫率領的](../Page/波·戴姆倫.md "wikilink")[X翼戰機隊伍等一系列轟炸機來和無畏艦抗衡](https://zh.wikipedia.org/wiki/X翼戰機 "wikilink")，為[莉亞·歐嘉納將軍與其他抵抗勢力爭取到足夠時間撤離至拉杜斯號星艦上](../Page/莉亞公主.md "wikilink")。在一番驚險的空中纏鬥中，最後一架轟炸機成功摧毀無畏號，讓抵抗勢力全體星艦共同用星際跳躍逃亡至遠程星域。然而，第一軍團[最高領導人史諾克命令](https://zh.wikipedia.org/wiki/最高領導人史諾克 "wikilink")[赫斯將軍使用其旗艦至上號的新式光速航跡追蹤技術](../Page/赫斯將軍.md "wikilink")，持續追擊抵抗勢力艦隊，由[凱羅·忍率領的](../Page/凱羅·忍.md "wikilink")[鈦戰機隊炸毀莉亞所在的拉杜斯號艦橋](https://zh.wikipedia.org/wiki/鈦戰機 "wikilink")，[阿克巴上將等多數官員全部犧牲](../Page/阿克巴上將.md "wikilink")。莉亞原本被炸出飞船，但冥冥之中通過原力而飛回到艦船裡，但也陷入重度昏迷，艾米琳·何朵中將從此接替領導職位。
+自從[新共和國所在的霍斯尼亞星系被](https://zh.wikipedia.org/wiki/新共和國 "wikilink")[第一軍團所屬的](https://zh.wikipedia.org/wiki/第一軍團 "wikilink")[弒星者基地](../Page/弒星者基地.md "wikilink")[開砲摧毀後](https://zh.wikipedia.org/wiki/星際大戰：原力覺醒 "wikilink")，第一軍團隨即控制住各大重點星系，而所駐守的星球也被軍團追蹤到。當第一軍團派出無畏艦等多數鈦戰機隊來到抵抗勢力星球時，由[波·戴姆倫率領的](../Page/波·戴姆倫.md "wikilink")[X翼戰機隊伍等一系列轟炸機來和無畏艦抗衡](https://zh.wikipedia.org/wiki/X翼戰機 "wikilink")，為[莉亞·歐嘉納將軍與其他抵抗勢力爭取到足夠時間撤離至拉杜斯號星艦上](../Page/莉亞公主.md "wikilink")。在一番驚險的空中纏鬥中，最後一架轟炸機成功摧毀無畏號，讓抵抗勢力全體星艦共同用星際跳躍逃亡至遠程星域。然而，第一軍團[最高領導人史諾克命令](../Page/最高領導人史諾克.md "wikilink")[赫斯將軍使用其旗艦至上號的新式光速航跡追蹤技術](../Page/赫斯將軍.md "wikilink")，持續追擊抵抗勢力艦隊，由[凱羅·忍率領的](../Page/凱羅·忍.md "wikilink")[鈦戰機隊炸毀莉亞所在的拉杜斯號艦橋](https://zh.wikipedia.org/wiki/鈦戰機 "wikilink")，[阿克巴上將等多數官員全部犧牲](../Page/阿克巴上將.md "wikilink")。莉亞原本被炸出飞船，但冥冥之中通過原力而飛回到艦船裡，但也陷入重度昏迷，艾米琳·何朵中將從此接替領導職位。
 
 與此同時，[芮協同著](https://zh.wikipedia.org/wiki/芮_\(星際大戰\) "wikilink")[丘巴卡和](../Page/丘巴卡.md "wikilink")[R2-D2搭乘](../Page/R2-D2.md "wikilink")[千年鷹號來到](https://zh.wikipedia.org/wiki/千年鷹號 "wikilink")的一座擁有上千世代歷史的絕地遺跡小島上，見到隱居在此數十年的[絕地大師](https://zh.wikipedia.org/wiki/絕地大師 "wikilink")[路克·天行者](https://zh.wikipedia.org/wiki/路克·天行者 "wikilink")。但路克基於造就班·索羅變成凱羅·忍的愧疚而心灰意冷，如今得知老友[韓·索羅已死後](https://zh.wikipedia.org/wiki/韓·索羅 "wikilink")，決定要讓絕地武士從此絕跡。R2蘇醒並放出三十多年前莉亞第一次向[歐比旺·肯諾比求救的視頻](https://zh.wikipedia.org/wiki/歐比旺·肯諾比 "wikilink")，這段錄像讓生長於沙漠中的路克[踏上傳奇之路](https://zh.wikipedia.org/wiki/星球大戰IV：新希望 "wikilink")。路克因此被喚回初衷，才讓他決定暫時幫忙、訓練芮如何運用[原力](../Page/原力.md "wikilink")。途中，芮找到並進入一個充滿黑暗面原力的洞穴，希望能用原力去解開她困擾已久的身世之謎，但最終還是沒有找到答案。
 
@@ -34,9 +34,9 @@ WARS：原力覺醒](https://zh.wikipedia.org/wiki/STAR_WARS：原力覺醒 "wik
     [莉亞·歐嘉納將軍](../Page/莉亞公主.md "wikilink")（General
     Leia Organa），抵抗勢力的將軍。
 
-  - [亞當·崔佛](https://zh.wikipedia.org/wiki/亞當·崔佛 "wikilink") 飾
+  - [亞當·崔佛](../Page/亞當·崔佛.md "wikilink") 飾
     [凱羅·忍](../Page/凱羅·忍.md "wikilink")（Kylo Ren），
-    曾接受[路克·天行者的訓練而後墮落至黑暗面成為](https://zh.wikipedia.org/wiki/路克·天行者 "wikilink")[史諾克的徒弟](https://zh.wikipedia.org/wiki/最高領導人史諾克 "wikilink")。渴望如同[黑武士一樣強大的新一代忍武士](https://zh.wikipedia.org/wiki/黑武士 "wikilink")，為[韓·索羅的兒子](https://zh.wikipedia.org/wiki/韓·索羅 "wikilink")、路克的外甥和前徒弟。
+    曾接受[路克·天行者的訓練而後墮落至黑暗面成為](https://zh.wikipedia.org/wiki/路克·天行者 "wikilink")[史諾克的徒弟](../Page/最高領導人史諾克.md "wikilink")。渴望如同[黑武士一樣強大的新一代忍武士](https://zh.wikipedia.org/wiki/黑武士 "wikilink")，為[韓·索羅的兒子](https://zh.wikipedia.org/wiki/韓·索羅 "wikilink")、路克的外甥和前徒弟。
 
   - [黛西·蕾德莉](../Page/黛西·蕾德莉.md "wikilink") 飾
     [芮](https://zh.wikipedia.org/wiki/芮_\(星際大戰\) "wikilink")（Rey），在沙漠行星賈庫獨自生活的拾荒者，擁有著與生俱來的強大原力。
@@ -49,7 +49,7 @@ WARS：原力覺醒](https://zh.wikipedia.org/wiki/STAR_WARS：原力覺醒 "wik
     Dameron），抵抗勢力的王牌[X翼戰機駕駛員](https://zh.wikipedia.org/wiki/X翼戰機 "wikilink")。
 
   - [安迪·瑟克斯](../Page/安迪·瑟克斯.md "wikilink") 飾
-    [最高領導人史諾克](https://zh.wikipedia.org/wiki/最高領導人史諾克 "wikilink")（Supreme
+    [最高領導人史諾克](../Page/最高領導人史諾克.md "wikilink")（Supreme
     Leader Snoke），第一軍團的最高領袖，凱羅·忍的主人。
 
   - [露琵塔·尼詠歐](https://zh.wikipedia.org/wiki/露琵塔·尼詠歐 "wikilink") 飾 （Maz
@@ -93,7 +93,7 @@ Codebreaker）\[21\]。[劍橋公爵威廉王子](../Page/劍橋公爵威廉王�
 [Rian_Johnson_by_Gage_Skidmore.jpg](https://zh.wikipedia.org/wiki/File:Rian_Johnson_by_Gage_Skidmore.jpg "fig:Rian_Johnson_by_Gage_Skidmore.jpg")。\]\]
 
 2012年10月，《星球大战》缔造者[乔治·卢卡斯把手上的制片公司](../Page/乔治·卢卡斯.md "wikilink")[卢卡斯影业连带](../Page/卢卡斯影业.md "wikilink")[星際大戰版权卖给了](../Page/星際大戰.md "wikilink")[华特迪士尼公司](../Page/华特迪士尼公司.md "wikilink")。迪士尼宣布启动《星球大战》三部曲\[25\]。2013年1月，[J·J·艾布斯被提名为新三部曲首部曲](../Page/J·J·艾布斯.md "wikilink")《[STAR
-WARS：原力覺醒](https://zh.wikipedia.org/wiki/STAR_WARS：原力覺醒 "wikilink")》导演\[26\]\[27\]。2014年6月，导演[莱恩·约翰逊据报正为暂定名](../Page/莱恩·约翰逊.md "wikilink")《第八部》（）的续集的编剧和导演工作进行谈判，并为第三部作品《》写了，监制两部作品\[28\]\[29\]。2014年8月，约翰证实执导《第八部》
+WARS：原力覺醒](../Page/STAR_WARS：原力覺醒.md "wikilink")》导演\[26\]\[27\]。2014年6月，导演[莱恩·约翰逊据报正为暂定名](../Page/莱恩·约翰逊.md "wikilink")《第八部》（）的续集的编剧和导演工作进行谈判，并为第三部作品《》写了，监制两部作品\[28\]\[29\]。2014年8月，约翰证实执导《第八部》
 \[30\]。
 
 剧情起于《原力觉醒》结束后没多久\[31\]。在构思概念时，为获取灵感，编剧团队特意参考了《[晴空血战史](../Page/晴空血战史.md "wikilink")》、《[桂河大桥](../Page/桂河大桥_\(电影\).md "wikilink")》、《》、《》、《》和《》\[32\]\[33\]。他认为在《原力觉醒》已经结束的前提下创作影片很艰难\[34\]。
@@ -116,7 +116,7 @@ Bear》\[51\]。2016年3月9日到16日，额外拍摄在[克罗地亚](../Page/
 
 ### 音乐
 
-2013年7月，肯尼迪在[星战庆典宣布](https://zh.wikipedia.org/wiki/星战庆典 "wikilink")[約翰·威廉斯将回归](https://zh.wikipedia.org/wiki/約翰·威廉斯 "wikilink")，为新三部曲配乐\[65\]\[66\]。2016年8月，威廉斯在坦格尔伍德音乐会上确认为《最后的绝地武士》配乐\[67\]，表示他会在2016年12月开始“不时地”录制配乐，直到2017年3月或4月\[68\]。2017年2月21日，经确认录音正在进行中，威廉斯和指挥乐队\[69\]\[70\]
+2013年7月，肯尼迪在[星战庆典宣布](../Page/星战庆典.md "wikilink")[約翰·威廉斯将回归](https://zh.wikipedia.org/wiki/約翰·威廉斯 "wikilink")，为新三部曲配乐\[65\]\[66\]。2016年8月，威廉斯在坦格尔伍德音乐会上确认为《最后的绝地武士》配乐\[67\]，表示他会在2016年12月开始“不时地”录制配乐，直到2017年3月或4月\[68\]。2017年2月21日，经确认录音正在进行中，威廉斯和指挥乐队\[69\]\[70\]
 
 官方原声带专辑由[华特迪士尼唱片在](https://zh.wikipedia.org/wiki/华特迪士尼唱片 "wikilink")2017年12月15日以CD、数字格式和流媒体形式发行\[71\]。
 

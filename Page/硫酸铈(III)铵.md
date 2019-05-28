@@ -2,7 +2,7 @@
 
 ## 制备
 
-硫酸铈(III)铵可通过蒸发[硫酸铵和](../Page/硫酸铵.md "wikilink")[硫酸铈(III)的溶液得到](https://zh.wikipedia.org/wiki/硫酸铈\(III\) "wikilink")：\[1\]
+硫酸铈(III)铵可通过蒸发[硫酸铵和](../Page/硫酸铵.md "wikilink")[硫酸铈(III)的溶液得到](../Page/硫酸铈\(III\).md "wikilink")：\[1\]
 
   -
     (NH<sub>4</sub>)<sub>2</sub>SO<sub>4</sub> +

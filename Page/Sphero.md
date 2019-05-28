@@ -1,5 +1,5 @@
 **Sphero**是由Sphero公司（原來公司名稱為Orbotix）設計的[球形機器人](../Page/球形機器人.md "wikilink")\[1\]\[2\]\[3\]。Sphero是外層由[聚碳酸酯包覆的圆形物](../Page/聚碳酸酯.md "wikilink")，可以滾動，用智慧手機或是平板電腦操控\[4\]。Sphero有二個版本（1.0及2.0）。Sphero公司也有生產[BB-8機器人玩具](../Page/BB-8.md "wikilink")，是以2015年電影《[STAR
-WARS：原力覺醒](https://zh.wikipedia.org/wiki/STAR_WARS：原力覺醒 "wikilink")》中的機器人角色為基礎，也有開發名為Ollie的圓柱機器人，以及SPRK，由於其透明設計，可以用在學術研究上的機器人。
+WARS：原力覺醒](../Page/STAR_WARS：原力覺醒.md "wikilink")》中的機器人角色為基礎，也有開發名為Ollie的圓柱機器人，以及SPRK，由於其透明設計，可以用在學術研究上的機器人。
 
 ## 歷史
 
@@ -9,7 +9,7 @@ The next version, Sphero Ollie (originally named *Sphero
 2B*),\[11\]，在2014年的消費電子展展示，在2014年的9月15日開始販售\[12\]\[13\]。
 
 2014年7月時，Sphero團隊參加了[华特迪士尼公司針對新創公司的技術加速計劃](../Page/华特迪士尼公司.md "wikilink")，團隊成員受邀和迪士尼的CEO[羅伯特·艾格進行會議](../Page/羅伯特·艾格.md "wikilink")，艾格給他們看2015年要發行的電影《[STAR
-WARS：原力覺醒](https://zh.wikipedia.org/wiki/STAR_WARS：原力覺醒 "wikilink")》中，還沒有人看過的照片，以及BB-8（這部電影出現的機器人角色）的照片，授權以Sphero的技術生產官方的BB-8玩具。迪士尼也對Sphero進行了小幅的投資。BB-8玩具在2015年9月4日問世，配合一個以STAR
+WARS：原力覺醒](../Page/STAR_WARS：原力覺醒.md "wikilink")》中，還沒有人看過的照片，以及BB-8（這部電影出現的機器人角色）的照片，授權以Sphero的技術生產官方的BB-8玩具。迪士尼也對Sphero進行了小幅的投資。BB-8玩具在2015年9月4日問世，配合一個以STAR
 WARS為主題的特製控制app，也有以[擴增實境方式顯示全像訊息的功能](../Page/擴增實境.md "wikilink")\[14\]\[15\]。
 
 ## 運作

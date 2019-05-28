@@ -51,12 +51,12 @@ MC：
 <td><p>趙文根</p></td>
 <td><p>吉學美</p></td>
 <td><p>朴泰镇、金柱王、<a href="https://zh.wikipedia.org/wiki/朴世美" title="wikilink">朴世美</a>、郑善国、<a href="../Page/SPICA_(組合).md" title="wikilink">朴娜莱</a>、李真、朴在恩</p></td>
-<td><p><a href="../Page/MOMOLAND.md" title="wikilink">金泰河</a>、<a href="https://zh.wikipedia.org/wiki/朴佑鎮" title="wikilink">朴佑鎮</a>、<a href="https://zh.wikipedia.org/wiki/Yuna_Kim" title="wikilink">Yuna Kim</a></p></td>
+<td><p><a href="../Page/MOMOLAND.md" title="wikilink">金泰河</a>、<a href="../Page/朴佑鎮.md" title="wikilink">朴佑鎮</a>、<a href="https://zh.wikipedia.org/wiki/Yuna_Kim" title="wikilink">Yuna Kim</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p><a href="../Page/許閣.md" title="wikilink">許閣</a>[4]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/John_Park" title="wikilink">John Park</a></p></td>
+<td><p><a href="../Page/John_Park.md" title="wikilink">John Park</a></p></td>
 <td><p>張在仁</p></td>
 <td><p><a href="../Page/姜昇潤.md" title="wikilink">姜昇潤</a>、<a href="https://zh.wikipedia.org/wiki/金志修" title="wikilink">金智秀</a>、金恩菲、<a href="https://zh.wikipedia.org/wiki/朴宝蓝" title="wikilink">朴宝蓝</a>、Andrew Nelson、金素贞、<br />
 李宝蓝、Kim Greem</p></td>

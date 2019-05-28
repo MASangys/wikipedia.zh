@@ -156,7 +156,7 @@
 </tr>
 <tr class="odd">
 <td><p>5月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/認真SUNSHINE" title="wikilink">認真SUNSHINE</a></p></td>
+<td><p><a href="../Page/認真SUNSHINE.md" title="wikilink">認真SUNSHINE</a></p></td>
 <td><p><a href="../Page/Hey!_Say!_JUMP.md" title="wikilink">Hey! Say! JUMP</a></p></td>
 <td><p>26.7</p></td>
 <td><p>1</p></td>
@@ -212,7 +212,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/罪與夏" title="wikilink">罪與夏</a></p></td>
+<td><p><a href="../Page/罪與夏.md" title="wikilink">罪與夏</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>27.5</p></td>
 <td><p>1</p></td>
@@ -226,7 +226,7 @@
 </tr>
 <tr class="odd">
 <td><p>8月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/薔薇與太陽" title="wikilink">薔薇與太陽</a></p></td>
+<td><p><a href="../Page/薔薇與太陽.md" title="wikilink">薔薇與太陽</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>19.3</p></td>
 <td><p>1</p></td>
@@ -254,7 +254,7 @@
 </tr>
 <tr class="odd">
 <td><p>8月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金的愛，銀的愛" title="wikilink">金的愛，銀的愛</a></p></td>
+<td><p><a href="../Page/金的愛，銀的愛.md" title="wikilink">金的愛，銀的愛</a></p></td>
 <td><p><a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
 <td><p>25.2</p></td>
 <td><p>1</p></td>
@@ -275,21 +275,21 @@
 </tr>
 <tr class="even">
 <td><p>9月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/最棒了唷" title="wikilink">最棒了唷</a></p></td>
+<td><p><a href="../Page/最棒了唷.md" title="wikilink">最棒了唷</a></p></td>
 <td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a></p></td>
 <td><p>27.0</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Power_of_the_Paradise" title="wikilink">Power of the Paradise</a></p></td>
+<td><p><a href="../Page/Power_of_the_Paradise.md" title="wikilink">Power of the Paradise</a></p></td>
 <td><p><a href="../Page/嵐.md" title="wikilink">嵐</a></p></td>
 <td><p>42.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>10月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/WILD_WILD_WILD" title="wikilink">WILD WILD WILD</a></p></td>
+<td><p><a href="../Page/WILD_WILD_WILD.md" title="wikilink">WILD WILD WILD</a></p></td>
 <td><p><a href="../Page/EXILE_THE_SECOND.md" title="wikilink">EXILE THE SECOND</a></p></td>
 <td><p>3.4</p></td>
 <td><p>1</p></td>
@@ -331,21 +331,21 @@
 </tr>
 <tr class="even">
 <td><p>11月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/綻放於路途上的夢之花" title="wikilink">綻放於路途上的夢之花</a></p></td>
+<td><p><a href="../Page/綻放於路途上的夢之花.md" title="wikilink">綻放於路途上的夢之花</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KinKi_Kids" title="wikilink">KinKi Kids</a></p></td>
 <td><p>17.6</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/再見的意義" title="wikilink">再見的意義</a></p></td>
+<td><p><a href="../Page/再見的意義.md" title="wikilink">再見的意義</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
 <td><p>82.8</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>11月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/High_Tension" title="wikilink">High Tension</a></p></td>
+<td><p><a href="../Page/High_Tension.md" title="wikilink">High Tension</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>118.0</p></td>
 <td><p>1</p></td>
@@ -359,14 +359,14 @@
 </tr>
 <tr class="even">
 <td><p>12月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/兩人季節" title="wikilink">兩人季節</a></p></td>
+<td><p><a href="../Page/兩人季節.md" title="wikilink">兩人季節</a></p></td>
 <td><p><a href="../Page/櫸坂46.md" title="wikilink">櫸坂46</a></p></td>
 <td><p>44.2</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NOROSHI" title="wikilink">NOROSHI</a></p></td>
+<td><p><a href="../Page/NOROSHI.md" title="wikilink">NOROSHI</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>23.3</p></td>
 <td><p>1</p></td>

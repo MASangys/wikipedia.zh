@@ -19,7 +19,7 @@ Team就此成為「第一家向警方销售商业黑客软件的公司」。\[6\
 ### 2015年入侵泄露事件
 
 2015年7月5日，该公司的[Twitter帐号遭到不明人士入侵](../Page/Twitter.md "wikilink")，入侵者发布了一条关于Hacking
-Team的通告。首条通告写道：「反正[我们也没什么东西好藏](https://zh.wikipedia.org/wiki/无所隐瞒论 "wikilink")，那就把我们的电子邮件、文件、源代码都发布出来…」，并附有400[GB数据的](../Page/吉字节.md "wikilink")[BitTorrent和](../Page/BitTorrent_\(协议\).md "wikilink")[Mega下载链接](https://zh.wikipedia.org/wiki/Mega "wikilink")，其中包含入侵者所称的内部电子邮件、发票和[源代码](../Page/源代码.md "wikilink")。\[7\]此通告随后被[维基解密和众多网友转发](../Page/維基解密.md "wikilink")。\[8\]\[9\]
+Team的通告。首条通告写道：「反正[我们也没什么东西好藏](../Page/无所隐瞒论.md "wikilink")，那就把我们的电子邮件、文件、源代码都发布出来…」，并附有400[GB数据的](../Page/吉字节.md "wikilink")[BitTorrent和](../Page/BitTorrent_\(协议\).md "wikilink")[Mega下载链接](https://zh.wikipedia.org/wiki/Mega "wikilink")，其中包含入侵者所称的内部电子邮件、发票和[源代码](../Page/源代码.md "wikilink")。\[7\]此通告随后被[维基解密和众多网友转发](../Page/維基解密.md "wikilink")。\[8\]\[9\]
 
 泄露的内容十分庞大，初步分析显示Hacking
 Team曾向\[10\]以及[苏丹开具发票](../Page/苏丹共和国.md "wikilink")，[巴林和](../Page/巴林.md "wikilink")[哈萨克斯坦同样购买过监视工具](../Page/哈萨克斯坦.md "wikilink")。\[11\]而Hacking

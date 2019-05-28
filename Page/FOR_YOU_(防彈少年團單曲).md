@@ -1,6 +1,6 @@
 《**FOR
 YOU**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[防彈少年團的第四張及首張原創日語單曲](../Page/防彈少年團.md "wikilink")，由[UTA](https://zh.wikipedia.org/wiki/UTA "wikilink")、[HIRO](https://zh.wikipedia.org/wiki/HIRO "wikilink")、[Rap
-Monster](../Page/金南俊.md "wikilink")、[SUGA](../Page/閔玧其.md "wikilink")、[j-hope作曲](https://zh.wikipedia.org/wiki/鄭號錫 "wikilink")、作詞，並在2015年6月17日以三個不同版本推出（1st
+Monster](../Page/金南俊.md "wikilink")、[SUGA](../Page/閔玧其.md "wikilink")、[j-hope作曲](../Page/鄭號錫.md "wikilink")、作詞，並在2015年6月17日以三個不同版本推出（1st
 Anniversary盤則在5月30日－6月21日期間限量發售）\[1\]。
 
 ## 背景

@@ -1,5 +1,5 @@
 《**[王國之心 HD II.8 Final Chapter
-Prologue](https://zh.wikipedia.org/wiki/王國之心_HD_II.8_Final_Chapter_Prologue "wikilink")**》是一个将原本在[任天堂3DS的游戏](../Page/任天堂3DS.md "wikilink")《[王国之心
+Prologue](../Page/王國之心_HD_II.8_Final_Chapter_Prologue.md "wikilink")**》是一个将原本在[任天堂3DS的游戏](../Page/任天堂3DS.md "wikilink")《[王国之心
 3D
 ［梦降深处］](https://zh.wikipedia.org/wiki/王国之心_3D_［梦降深处］ "wikilink")》，以網頁遊戲的《》為基礎的全新作品《χ
 Back Cover》，与衔接[PlayStation

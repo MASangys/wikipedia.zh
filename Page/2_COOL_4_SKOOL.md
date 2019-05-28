@@ -86,7 +86,7 @@ Bulletproof Pt2〉舞蹈練習室版本](https://www.youtube.com/watch?v=bV9Svms
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="../Page/2017年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
 <td><p>2017年</p></td>
 <td><p>#98<br />
 （33,008張）</p></td>
@@ -95,7 +95,7 @@ Bulletproof Pt2〉舞蹈練習室版本](https://www.youtube.com/watch?v=bV9Svms
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
 <td><p>2018年</p></td>
 <td><p>#85<br />
 （51,296張）</p></td>

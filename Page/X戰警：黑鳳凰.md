@@ -1,6 +1,6 @@
 《**X戰警：黑鳳凰**》（，前稱作）是一部於2019年上映的美國[超級英雄電影](../Page/超級英雄電影.md "wikilink")，角色取自[漫威漫畫的漫畫書](../Page/漫威漫畫.md "wikilink")《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》，由[二十世紀福斯制作](../Page/二十世紀福斯.md "wikilink")，[華特迪士尼工作室电影发行](https://zh.wikipedia.org/wiki/華特迪士尼工作室电影 "wikilink")。該片為「[X戰警系列電影](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")」的第十二部作品，也是其系列最終回。本片原本作為全新的X戰警電影三部曲的首部曲，但在迪士尼收購影響下，確認為[X戰警系列電影最終章](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")。其後[X戰警將由漫威影業重新製作](https://zh.wikipedia.org/wiki/X戰警 "wikilink")，並且加入[漫威電影宇宙](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")。
 
-《X戰警：黑鳳凰》由[賽門·金柏格執導及編劇](../Page/賽門·金柏格.md "wikilink")，[詹姆斯·麥艾維](../Page/詹姆斯·麥艾維.md "wikilink")、[麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[珍妮佛·勞倫斯](../Page/珍妮佛·勞倫斯.md "wikilink")、[尼可拉斯·霍特](https://zh.wikipedia.org/wiki/尼可拉斯·霍特 "wikilink")、[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")、[蘇菲·特納](../Page/蘇菲·特納.md "wikilink")、[雅莉珊卓·希普](https://zh.wikipedia.org/wiki/雅莉珊卓·希普 "wikilink")、[寇帝·史密-麥菲](../Page/寇帝·史密-麥菲.md "wikilink")、[伊凡·彼得斯以及](https://zh.wikipedia.org/wiki/伊凡·彼得斯 "wikilink")[潔西卡·雀絲坦主演](https://zh.wikipedia.org/wiki/潔西卡·雀絲坦 "wikilink")。在《X戰警：黑鳳凰》中，[X戰警必須面對](https://zh.wikipedia.org/wiki/X戰警 "wikilink")[黑鳳凰與傾巢而出的](https://zh.wikipedia.org/wiki/火鳳凰_\(漫威漫畫\) "wikilink")帝國。
+《X戰警：黑鳳凰》由[賽門·金柏格執導及編劇](../Page/賽門·金柏格.md "wikilink")，[詹姆斯·麥艾維](../Page/詹姆斯·麥艾維.md "wikilink")、[麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[珍妮佛·勞倫斯](../Page/珍妮佛·勞倫斯.md "wikilink")、[尼可拉斯·霍特](https://zh.wikipedia.org/wiki/尼可拉斯·霍特 "wikilink")、[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")、[蘇菲·特納](../Page/蘇菲·特納.md "wikilink")、[雅莉珊卓·希普](../Page/雅莉珊卓·希普.md "wikilink")、[寇帝·史密-麥菲](../Page/寇帝·史密-麥菲.md "wikilink")、[伊凡·彼得斯以及](https://zh.wikipedia.org/wiki/伊凡·彼得斯 "wikilink")[潔西卡·雀絲坦主演](https://zh.wikipedia.org/wiki/潔西卡·雀絲坦 "wikilink")。在《X戰警：黑鳳凰》中，[X戰警必須面對](https://zh.wikipedia.org/wiki/X戰警 "wikilink")[黑鳳凰與傾巢而出的](https://zh.wikipedia.org/wiki/火鳳凰_\(漫威漫畫\) "wikilink")帝國。
 
 由於《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》重置了「X戰警系列電影」的時間線，金柏格開始對所著的《》進行一次全新且更為忠於原作的改編，且比早前他在《[X戰警：最後戰役](../Page/X戰警：最後戰役.md "wikilink")》時的嘗試還更為投入。2016年4月，片商證實《[X戰警：天啟](../Page/X戰警：天啟.md "wikilink")》的續集將改編自《黑鳳凰傳奇》。金柏格於2017年6月簽約執導該片，值得一提的是，該片也是金柏格的導演[處女作](../Page/處女作.md "wikilink")。6月，大多數的《X戰警：天啟》演員陸陸續續地回歸，而[主體拍攝則於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")6月28日在[蒙特婁開始](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")。
 
@@ -45,7 +45,7 @@ Mystique／Raven Darkhölme[3]</p></td>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/尼可拉斯·霍特" title="wikilink">尼可拉斯·霍特</a><br />
 Nicholas Hoult</p></td>
-<td><p>「<a href="https://zh.wikipedia.org/wiki/野獸_(漫畫)" title="wikilink">野獸</a>」漢克·麥考伊<br />
+<td><p>「<a href="../Page/野獸_(漫畫).md" title="wikilink">野獸</a>」漢克·麥考伊<br />
 Beast／Hank McCoy[4]</p></td>
 <td><p>變種人，具有藍色野獸的外表及超人的體能，在X教授創立的變種人學校擔任老師。</p></td>
 </tr>
@@ -64,7 +64,7 @@ Cyclops／Scott Summers[6]</p></td>
 <td><p>變種人，能從雙眼發射具破壞性的能量光束。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/雅莉珊卓·希普" title="wikilink">雅莉珊卓·希普</a><br />
+<td><p><a href="../Page/雅莉珊卓·希普.md" title="wikilink">雅莉珊卓·希普</a><br />
 Alexandra Shipp</p></td>
 <td><p>「<a href="../Page/暴風女.md" title="wikilink">暴風女</a>」奧羅羅·夢洛<br />
 Storm／Ororo Munroe[7]</p></td>
@@ -150,12 +150,12 @@ Supernova》只是他們給續集的一個代號罷了。他說，他們早在�
 Dark
 Phoenix》，並定於2018年11月2日發行\[29\]。5月，法斯賓達表示，他將回歸出演該片\[30\]。帕克暗示了年輕版的[小淘氣可能會客串出現在片中](../Page/小淘氣.md "wikilink")\[31\]，而電影也可能去探索《黑鳳凰傳奇》的主線劇情中的宇宙元素\[32\]。
 
-6月，據傳，名為的外星種族將出現在片中\[33\]，而[安潔莉娜·裘莉則關注著其中一名角色](https://zh.wikipedia.org/wiki/安潔莉娜·裘莉 "wikilink")，儘管她並沒有簽約飾演該角色的意願。[潔西卡·雀絲坦也正關注著相同的角色](https://zh.wikipedia.org/wiki/潔西卡·雀絲坦 "wikilink")\[34\]。福斯證實，金柏格將會執導該片，麥艾維、法斯賓達、勞倫斯和霍特皆簽下了一部以上的電影。除了特納以外，據報導，其他《X戰警：天啟》的演員[雅莉珊卓·希普](https://zh.wikipedia.org/wiki/雅莉珊卓·希普 "wikilink")、[泰·謝里丹與](../Page/泰·謝里丹.md "wikilink")[寇帝·史密-麥菲也紛紛回歸](../Page/寇帝·史密-麥菲.md "wikilink")，而該片的製片人則由金柏格、辛格、帕克與擔任。雀絲坦加盟飾演反派帝國的女王。據傳，該片的劇本與《X戰警：最後戰役》相比，「更接近」原來的《黑鳳凰傳奇》\[35\]\[36\]。據報導，曾在《X戰警：天啟》的刪減片段中出現的將客串出現在片中\[37\]。
+6月，據傳，名為的外星種族將出現在片中\[33\]，而[安潔莉娜·裘莉則關注著其中一名角色](https://zh.wikipedia.org/wiki/安潔莉娜·裘莉 "wikilink")，儘管她並沒有簽約飾演該角色的意願。[潔西卡·雀絲坦也正關注著相同的角色](https://zh.wikipedia.org/wiki/潔西卡·雀絲坦 "wikilink")\[34\]。福斯證實，金柏格將會執導該片，麥艾維、法斯賓達、勞倫斯和霍特皆簽下了一部以上的電影。除了特納以外，據報導，其他《X戰警：天啟》的演員[雅莉珊卓·希普](../Page/雅莉珊卓·希普.md "wikilink")、[泰·謝里丹與](../Page/泰·謝里丹.md "wikilink")[寇帝·史密-麥菲也紛紛回歸](../Page/寇帝·史密-麥菲.md "wikilink")，而該片的製片人則由金柏格、辛格、帕克與擔任。雀絲坦加盟飾演反派帝國的女王。據傳，該片的劇本與《X戰警：最後戰役》相比，「更接近」原來的《黑鳳凰傳奇》\[35\]\[36\]。據報導，曾在《X戰警：天啟》的刪減片段中出現的將客串出現在片中\[37\]。
 
 ### 拍攝
 
 該片的[主體拍攝始於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")2017年6月28日，地點位在[加拿大](../Page/加拿大.md "wikilink")[魁北克省的](../Page/魁北克省.md "wikilink")[蒙特婁](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")\[38\]\[39\]，[暫定名稱為](https://zh.wikipedia.org/wiki/暫定名稱 "wikilink")「Teen
-Spirit」\[40\]。6月底前，[伊凡·彼得斯回歸於該片中飾演](https://zh.wikipedia.org/wiki/伊凡·彼得斯 "wikilink")[快銀](../Page/快銀.md "wikilink")，而則加盟飾演一名未知的角色\[41\]。8月初，雀絲坦證實自己已簽約加盟劇組\[42\]。金柏格表示，他希望該片能像之前的X戰警電影那樣「富含人性」且「感情強烈」\[43\]。9月，[鋼人的演員](../Page/鋼人_\(漫威漫畫\).md "wikilink")[丹尼爾·寇德摩爾簽約加盟劇組](../Page/丹尼爾·寇德摩爾.md "wikilink")，但是否會再次飾演鋼人仍是未知\[44\]。[奧莉薇亞·孟恩在](https://zh.wikipedia.org/wiki/奧莉薇亞·孟恩 "wikilink")9月底證實，她將回歸飾演[靈蝶](https://zh.wikipedia.org/wiki/靈蝶 "wikilink")，並將靈蝶與黑鳳凰兩人描述為「一對好搭檔」\[45\]。《X戰警：黑鳳凰》在蒙特婁的拍攝作業於10月14日結束\[46\]\[47\]。
+Spirit」\[40\]。6月底前，[伊凡·彼得斯回歸於該片中飾演](https://zh.wikipedia.org/wiki/伊凡·彼得斯 "wikilink")[快銀](../Page/快銀.md "wikilink")，而則加盟飾演一名未知的角色\[41\]。8月初，雀絲坦證實自己已簽約加盟劇組\[42\]。金柏格表示，他希望該片能像之前的X戰警電影那樣「富含人性」且「感情強烈」\[43\]。9月，[鋼人的演員](../Page/鋼人_\(漫威漫畫\).md "wikilink")[丹尼爾·寇德摩爾簽約加盟劇組](../Page/丹尼爾·寇德摩爾.md "wikilink")，但是否會再次飾演鋼人仍是未知\[44\]。[奧莉薇亞·孟恩在](https://zh.wikipedia.org/wiki/奧莉薇亞·孟恩 "wikilink")9月底證實，她將回歸飾演[靈蝶](../Page/靈蝶.md "wikilink")，並將靈蝶與黑鳳凰兩人描述為「一對好搭檔」\[45\]。《X戰警：黑鳳凰》在蒙特婁的拍攝作業於10月14日結束\[46\]\[47\]。
 
 ## 音樂
 

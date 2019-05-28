@@ -134,7 +134,7 @@ Mart](../Page/DMM.com.md "wikilink")、[TIS等](../Page/TIS.md "wikilink")4家�
 
   - えむっ娘ラボ（「[M女](https://zh.wikipedia.org/wiki/受虐癖 "wikilink")」専門製造商）（2016年1月設立）[官方網站](http://www.mko-labo.net/)
 
-#### [狂躁](https://zh.wikipedia.org/wiki/狂躁 "wikilink")、[戀物癖專門製造商](../Page/戀物.md "wikilink")
+#### [狂躁](../Page/狂躁.md "wikilink")、[戀物癖專門製造商](../Page/戀物.md "wikilink")
 
   - （「[戀屎癖](../Page/嗜糞癖.md "wikilink")」專門製造商）（2005年10月設立）
     [官方網站](http://www.av-opera.jp/)

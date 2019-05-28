@@ -1,4 +1,4 @@
-**KBS特別連續劇系列**（，），是[韓國放送公社為延續及完善](../Page/韓國放送公社.md "wikilink")《[KBS特別劇](https://zh.wikipedia.org/wiki/KBS_Drama_Special "wikilink")》而編制的短篇電視劇。
+**KBS特別連續劇系列**（，），是[韓國放送公社為延續及完善](../Page/韓國放送公社.md "wikilink")《[KBS特別劇](../Page/KBS_Drama_Special.md "wikilink")》而編制的短篇電視劇。
 
 ## 電視劇列表
 
@@ -310,7 +310,7 @@
 <td><p>1月1日</p></td>
 <td><p><br />
 （아모레미오）</p></td>
-<td><p><a href="../Page/鄭雄仁.md" title="wikilink">鄭雄仁</a>、、<a href="../Page/金榮在.md" title="wikilink">金榮在</a>、<a href="../Page/朴潭熙.md" title="wikilink">朴潭熙</a>、<a href="https://zh.wikipedia.org/wiki/喜悅Dana" title="wikilink">喜悅Dana</a></p></td>
+<td><p><a href="../Page/鄭雄仁.md" title="wikilink">鄭雄仁</a>、、<a href="../Page/金榮在.md" title="wikilink">金榮在</a>、<a href="../Page/朴潭熙.md" title="wikilink">朴潭熙</a>、<a href="../Page/喜悅Dana.md" title="wikilink">喜悅Dana</a></p></td>
 <td><p>李相熙</p></td>
 </tr>
 <tr class="even">
@@ -684,8 +684,7 @@
   -
   -
   -
-  - [MBC Drama
-    Festival](https://zh.wikipedia.org/wiki/Drama_Festival "wikilink")
+  - [MBC Drama Festival](../Page/Drama_Festival.md "wikilink")
 
   -
   -

@@ -38,7 +38,7 @@ disease)(其病徵在髓鞘神經鞘的病損)的作用仍有爭議。\[39\]
 
 ### 其他功用
 
-血清胱抑素C水平降低[动脉粥样硬化](../Page/动脉粥样硬化.md "wikilink")(所謂的動脈*硬化*)及[主動脈的](../Page/主動脈.md "wikilink")[動脈瘤](https://zh.wikipedia.org/wiki/動脈瘤 "wikilink")(aneurysm)(囊狀膨出)病變。\[40\]\[41\]\[42\]\[43\]
+血清胱抑素C水平降低[动脉粥样硬化](../Page/动脉粥样硬化.md "wikilink")(所謂的動脈*硬化*)及[主動脈的](../Page/主動脈.md "wikilink")[動脈瘤](../Page/動脈瘤.md "wikilink")(aneurysm)(囊狀膨出)病變。\[40\]\[41\]\[42\]\[43\]
 
 ## 實驗室測試
 
@@ -69,8 +69,8 @@ disease)(其病徵在髓鞘神經鞘的病損)的作用仍有爭議。\[39\]
   - [Cystatin: a protein that flips
     out\!](http://www.ebi.ac.uk/pdbe/quips?story=Cystatin) QUite
     Interesting PDB Structure article at [PDBe](http://www.pdbe.org)
-  - The [MEROPS](https://zh.wikipedia.org/wiki/MEROPS "wikilink") online
-    database for peptidases and their inhibitors:
+  - The [MEROPS](../Page/MEROPS.md "wikilink") online database for
+    peptidases and their inhibitors:
     [I25.004](http://merops.sanger.ac.uk/cgi-bin/merops.cgi?id=I25.004)
 
 [Category:人类蛋白质](https://zh.wikipedia.org/wiki/Category:人类蛋白质 "wikilink")

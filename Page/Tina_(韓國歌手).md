@@ -6,7 +6,7 @@ Planet娛樂旗下女子組合[BLADY](../Page/BLADY.md "wikilink")\[2\]。
   - 韓文本名為**박수빈**，漢字為**朴秀彬**
   - 英文本名為**Christine Joy Park**。
   - 2013年11月18日，加入第2期的[BLADY](../Page/BLADY.md "wikilink")，初擔任領唱、領舞。成員變動後，改為擔任[主Rapper](https://zh.wikipedia.org/wiki/饒舌擔當 "wikilink")、副唱、領舞。
-  - 離隊後成為[YouTuber](https://zh.wikipedia.org/wiki/YouTuber "wikilink")，以「Idol
+  - 離隊後成為[YouTuber](../Page/YouTuber.md "wikilink")，以「Idol
     Insider」為名，透露韓國偶像內部消息，也透露自己從服裝設計師轉為歌手，和離開團隊的原因和經過。\[3\]
 
 ## 音樂

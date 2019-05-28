@@ -18,12 +18,12 @@ Surface Hub採用了長寬比16:9的84吋及55吋螢幕，可使用Surface Hub P
 
 Surface Hub 可使用配件裝設在牆壁或滾輪架。
 按大小配有兩套規格，84英寸裝置(120赫茲)的高配版和55英寸(140赫茲)的低配版。皆配有[多點觸摸和多重書寫功能](https://zh.wikipedia.org/wiki/多點觸摸 "wikilink")，並可使用[Windows
-10操作](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。
+10操作](../Page/Windows_10.md "wikilink")。
 它的用途主要是針對企業使用協作和[視訊會議](https://zh.wikipedia.org/wiki/視訊會議 "wikilink")。
 
 ## 參見
 
-  - [Windows 10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
+  - [Windows 10](../Page/Windows_10.md "wikilink")
   - [Microsoft Surface](../Page/Microsoft_Surface.md "wikilink")
 
 ## 參考資料

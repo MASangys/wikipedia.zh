@@ -18,7 +18,7 @@
 
   - [金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")
 
-  - [李哲民](https://zh.wikipedia.org/wiki/李哲民_\(演員\) "wikilink")
+  - [李哲民](../Page/李哲民_\(演員\).md "wikilink")
 
   - [朴善宇](https://zh.wikipedia.org/wiki/朴善宇_\(演員\) "wikilink")
 
@@ -31,7 +31,7 @@
 
   - [尹孫河](../Page/尹孫河.md "wikilink")
 
-  - [安宰弘](https://zh.wikipedia.org/wiki/安宰弘 "wikilink")
+  - [安宰弘](../Page/安宰弘.md "wikilink")
 
   - [高庚杓](../Page/高庚杓.md "wikilink")
 

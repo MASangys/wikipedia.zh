@@ -5,7 +5,7 @@ Star〉。
 
 《Seoulite》是李遐怡繼發行上張專輯《First Love》後，相隔三年之新作品，由[Epik
 High隊長](../Page/Epik_High.md "wikilink")[Tablo領軍的](https://zh.wikipedia.org/wiki/Tablo "wikilink")[High
-Ground所製作](https://zh.wikipedia.org/wiki/YG娛樂#High_Ground "wikilink")\[2\]。專輯名稱「Seoulite」蘊含多種意義，可指首爾的光、首爾的人，或作靈魂（Seoul）及[首爾的諧音](https://zh.wikipedia.org/wiki/首爾 "wikilink")，如同首爾富有的多姿多采，專輯匯集了不同色彩的音樂。
+Ground所製作](https://zh.wikipedia.org/wiki/YG娛樂#High_Ground "wikilink")\[2\]。專輯名稱「Seoulite」蘊含多種意義，可指首爾的光、首爾的人，或作靈魂（Seoul）及[首爾的諧音](../Page/首爾.md "wikilink")，如同首爾富有的多姿多采，專輯匯集了不同色彩的音樂。
 
 李遐怡在《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》中提到與[Epik
 High合作是踏實的](../Page/Epik_High.md "wikilink")，Tablo則說在歌曲取得音源一位後自己哭了。\[3\]

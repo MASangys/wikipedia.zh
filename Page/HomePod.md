@@ -5,11 +5,11 @@ Music和](../Page/Apple_Music.md "wikilink")[Siri服務](../Page/Siri.md "wikili
 ## 設計
 
 HomePod內部系統晶片為[Apple
-A8](https://zh.wikipedia.org/wiki/Apple_A8 "wikilink")，使用[audioOS](https://zh.wikipedia.org/wiki/audioOS "wikilink")（以[iOS系統特製](https://zh.wikipedia.org/wiki/iOS "wikilink")），並內建[Siri及](../Page/Siri.md "wikilink")[AirPlay
+A8](../Page/Apple_A8.md "wikilink")，使用[audioOS](https://zh.wikipedia.org/wiki/audioOS "wikilink")（以[iOS系統特製](https://zh.wikipedia.org/wiki/iOS "wikilink")），並內建[Siri及](../Page/Siri.md "wikilink")[AirPlay
 2](https://zh.wikipedia.org/wiki/AirPlay "wikilink")。
 
 此外，HomePod 設有可改變音量的[揚聲器](../Page/揚聲器.md "wikilink")，並裝有[Apple A8
-晶片](https://zh.wikipedia.org/wiki/Apple_A8 "wikilink")，還有無縫的網眼織物和由七個高音陣，配合由六個[麥克風組成的陣列和](https://zh.wikipedia.org/wiki/麥克風 "wikilink")[觸控螢幕](https://zh.wikipedia.org/wiki/觸控螢幕 "wikilink")。
+晶片](../Page/Apple_A8.md "wikilink")，還有無縫的網眼織物和由七個高音陣，配合由六個[麥克風組成的陣列和](https://zh.wikipedia.org/wiki/麥克風 "wikilink")[觸控螢幕](https://zh.wikipedia.org/wiki/觸控螢幕 "wikilink")。
 
 ## 相關條目
 

@@ -5,7 +5,7 @@ ID而非新增一种安全机制](https://zh.wikipedia.org/wiki/Touch_ID "wikili
 或應用程式内支付的[身份验证方式](https://zh.wikipedia.org/wiki/身份验证 "wikilink")。
 
 苹果公司称，非本人解锁手机的概率是百万分之一\[3\]\[4\]。苹果公司也表示，面容识别資訊本機存储于[Apple A11
-Bionic及次代芯片的安全区域](https://zh.wikipedia.org/wiki/Apple_A11_Bionic "wikilink")，不会在[云端存储](../Page/雲端運算.md "wikilink")。
+Bionic及次代芯片的安全区域](../Page/Apple_A11_Bionic.md "wikilink")，不会在[云端存储](../Page/雲端運算.md "wikilink")。
 
 ## 原理
 

@@ -14,7 +14,7 @@ am**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子組合
 ### 正式發行
 
 5月2日，韓國時間下午6點，公開首張迷你專輯《[I
-am](https://zh.wikipedia.org/wiki/I_am "wikilink")》全輯音源及主打《LATATA》，並於同日舉行出道Showcase正式出道。\[12\]
+am](../Page/I_am.md "wikilink")》全輯音源及主打《LATATA》，並於同日舉行出道Showcase正式出道。\[12\]
 
 ## 曲目
 

@@ -8,8 +8,8 @@
 <td><p><strong>P<br />
 月台層</strong></p></td>
 <td><p>&lt;span style=color:#&gt;<strong>南行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-J.svg" title="fig:纽约地铁J线">纽约地铁J线</a> 非繁忙時段往<a href="https://zh.wikipedia.org/wiki/寬街車站_(BMT納蘇街線)" title="wikilink">寬街</a><small>（<a href="https://zh.wikipedia.org/wiki/克里夫蘭街車站_(BMT牙買加線)" title="wikilink">克里夫蘭街</a>）</small><br />
- <a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-Z.svg" title="fig:纽约地铁Z线">纽约地铁Z线</a> 早上繁忙時段往<a href="https://zh.wikipedia.org/wiki/寬街車站_(BMT納蘇街線)" title="wikilink">寬街</a><small>（<a href="https://zh.wikipedia.org/wiki/凡希克凌大道車站_(BMT牙買加線)" title="wikilink">凡希克凌大道</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-J.svg" title="fig:纽约地铁J线">纽约地铁J线</a> 非繁忙時段往<a href="https://zh.wikipedia.org/wiki/寬街車站_(BMT納蘇街線)" title="wikilink">寬街</a><small>（<a href="../Page/克里夫蘭街車站_(BMT牙買加線).md" title="wikilink">克里夫蘭街</a>）</small><br />
+ <a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-Z.svg" title="fig:纽约地铁Z线">纽约地铁Z线</a> 早上繁忙時段往<a href="https://zh.wikipedia.org/wiki/寬街車站_(BMT納蘇街線)" title="wikilink">寬街</a><small>（<a href="../Page/凡希克凌大道車站_(BMT牙買加線).md" title="wikilink">凡希克凌大道</a>）</small></p></td>
 </tr>
 <tr class="even">
 <td><p><small><a href="../Page/島式月台.md" title="wikilink">島式月台</a>，左側開門</small></p></td>

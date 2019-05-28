@@ -5,7 +5,7 @@ Natasi Daala。
 
 參考實做為[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")，以[BSD授權條款的形式開放原始碼](https://zh.wikipedia.org/wiki/BSD授權條款 "wikilink")，使用的專利可以讓任何人在任何情況下使用\[2\]。自2013年6月20日開始，Xiph.Org基金會陸續發布了一些開發進度報告，以及使用到的技術介紹於網站上\[3\]\[4\]\[5\]。目前Daala為[IETF的NETVC專案和](https://zh.wikipedia.org/wiki/IETF "wikilink")[開放媒體聯盟的](../Page/開放媒體聯盟.md "wikilink")[AOMedia
 Video
-1](https://zh.wikipedia.org/wiki/AOMedia_Video_1 "wikilink")（AV1）其中一個候選技術\[6\]\[7\]\[8\]\[9\]\[10\]
+1](../Page/AOMedia_Video_1.md "wikilink")（AV1）其中一個候選技術\[6\]\[7\]\[8\]\[9\]\[10\]
 。
 
 ## 參考資料

@@ -1,12 +1,12 @@
 《**迷徒Chloe**》【迷徒第二季】（英語： Lost ? Me too II
-），2016年由製作公司《傳遞娛樂》製作出品的台灣網路劇，為《迷徒》此IP系列劇集的第二季，第一季為《[迷徒·Claire](https://zh.wikipedia.org/wiki/迷徒·Claire "wikilink")》，第二季為另外一個獨立故事，由[李千那](../Page/李千那.md "wikilink")、[吳慷仁](../Page/吳慷仁.md "wikilink")、[劉以豪](../Page/劉以豪.md "wikilink")、[謝祖武](../Page/謝祖武.md "wikilink")、張雁名、穆熙妍等人主演。
+），2016年由製作公司《傳遞娛樂》製作出品的台灣網路劇，為《迷徒》此IP系列劇集的第二季，第一季為《[迷徒·Claire](../Page/迷徒·Claire.md "wikilink")》，第二季為另外一個獨立故事，由[李千那](../Page/李千那.md "wikilink")、[吳慷仁](../Page/吳慷仁.md "wikilink")、[劉以豪](../Page/劉以豪.md "wikilink")、[謝祖武](../Page/謝祖武.md "wikilink")、張雁名、穆熙妍等人主演。
 
 傳遞娛樂的《迷徒》故事IP，開啟了一種寫實的風格，打破了台灣偶像劇慣有的王子公主夢幻童話套路，不論是第一季的Claire或是第二季的Chloe，都以寫實的職場都會女性為主人翁切入，探討女性在追求夢想、追逐愛情以及事業、感情、成名、虛榮等人生諸多選項中"迷途"，在其中迷失或重新找到自我的過程；兩季的影像視覺，也具質感與電影感。
 
 《迷徒Chloe》【迷徒第二季】於多個網路平台放映：全劇共13集，一集20分鐘，首輪於[LINE
-TV獨家首播](../Page/LINE_TV.md "wikilink")，2016年10月17日中午十二點播出預告，2016年11月14日播出第一集。\[1\]其他OTT平台如[Vidol影音](https://zh.wikipedia.org/wiki/Vidol "wikilink")、[LiTV
-線上影視](https://zh.wikipedia.org/wiki/LiTV_線上影視 "wikilink")、[KKTV](https://zh.wikipedia.org/wiki/KKTV "wikilink")、[CHOCO
-TV](https://zh.wikipedia.org/wiki/CHOCO_TV "wikilink")，於2017年2月24日全劇上架，並於三立Vidol舉辦直播記者會，目前上述網路平台皆能以免付費的方式收看本劇。
+TV獨家首播](../Page/LINE_TV.md "wikilink")，2016年10月17日中午十二點播出預告，2016年11月14日播出第一集。\[1\]其他OTT平台如[Vidol影音](../Page/Vidol.md "wikilink")、[LiTV
+線上影視](../Page/LiTV_線上影視.md "wikilink")、[KKTV](../Page/KKTV.md "wikilink")、[CHOCO
+TV](../Page/CHOCO_TV.md "wikilink")，於2017年2月24日全劇上架，並於三立Vidol舉辦直播記者會，目前上述網路平台皆能以免付費的方式收看本劇。
 
 ## 播出時間
 
@@ -27,13 +27,13 @@ TV](https://zh.wikipedia.org/wiki/CHOCO_TV "wikilink")，於2017年2月24日全�
 <td><p>周一至周五 中午12:00</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Vidol" title="wikilink">Vidol</a></p></td>
+<td><p><a href="../Page/Vidol.md" title="wikilink">Vidol</a></p></td>
 <td><p>2017年2月24日</p></td>
 <td><p>全劇上架[2]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/CHOCO_TV" title="wikilink">CHOCO TV</a></p></td>
+<td><p><a href="../Page/CHOCO_TV.md" title="wikilink">CHOCO TV</a></p></td>
 <td><p>2017年2月24日</p></td>
 <td><p>全劇上架</p></td>
 <td></td>
@@ -45,7 +45,7 @@ TV](https://zh.wikipedia.org/wiki/CHOCO_TV "wikilink")，於2017年2月24日全�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/KKTV" title="wikilink">KKTV</a></p></td>
+<td><p><a href="../Page/KKTV.md" title="wikilink">KKTV</a></p></td>
 <td><p>2017年2月24日</p></td>
 <td><p>全劇上架</p></td>
 <td></td>
@@ -69,7 +69,7 @@ Chloe，三十歲，是一名[新媒體](../Page/新媒體.md "wikilink")[製作
 | [謝祖武](../Page/謝祖武.md "wikilink")                    | 戴恆毅     | 經歷過感情和婚姻的滄桑，總是默默陪在Chloe身邊。                                                                         |
 | [吳岱凌](https://zh.wikipedia.org/wiki/吳岱凌 "wikilink") | 汪潔亞（亞亞） | 汪士棋的獨生女，對Chloe相當依賴。                                                                                |
 | [洪棠](../Page/洪棠.md "wikilink")                      | 沈蔓      | 汪士棋亡妻，離婚後自殺。                                                                                       |
-| [金允喬](https://zh.wikipedia.org/wiki/金允喬 "wikilink") | Lulu    | Chloe同組同事。喜歡Rex。                                                                                   |
+| [金允喬](../Page/金允喬.md "wikilink")                    | Lulu    | Chloe同組同事。喜歡Rex。                                                                                   |
 | [張雁名](../Page/張雁名.md "wikilink")                    | 方哥      | Chloe同事，競爭關係。在Chloe提案時，與其競爭，提出「小三時代」節目企劃。                                                          |
 | [穆熙妍](../Page/穆熙妍.md "wikilink")                    | Jessica | 劉總，Chloe上司。                                                                                        |
 

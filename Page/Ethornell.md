@@ -37,7 +37,7 @@ Interpreter，作業系統是[Windows](https://zh.wikipedia.org/wiki/Windows "wi
   - [花色ヘプタグラム](https://zh.wikipedia.org/wiki/花色ヘプタグラム "wikilink")
   - [世界と世界の真ん中で](https://zh.wikipedia.org/wiki/世界と世界の真ん中で "wikilink")
   - [タユタマ２ -You're the only
-    one-](https://zh.wikipedia.org/wiki/遊魂2_-you're_the_only_one- "wikilink")
+    one-](../Page/遊魂2_-you're_the_only_one-.md "wikilink")
 
 <!-- end list -->
 

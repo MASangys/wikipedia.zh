@@ -7,7 +7,7 @@ VAV的官方歌迷名稱為「VAMPZ」（）。
 
 ### 出道前
 
-Ayno为[STARSHIP娱乐练习生](../Page/STARSHIP娛樂.md "wikilink")，参与《[NO.MERCY](https://zh.wikipedia.org/wiki/NO.MERCY "wikilink")》选秀节目。
+Ayno为[STARSHIP娱乐练习生](../Page/STARSHIP娛樂.md "wikilink")，参与《[NO.MERCY](../Page/NO.MERCY.md "wikilink")》选秀节目。
 
 VAV出道風格源自神秘古老的吸血鬼故事。韓國網漫《沐浴之神》的作者河一權創作的新系列網漫《Under The
 Moonlight》紀錄了这一團體的誕生故事。

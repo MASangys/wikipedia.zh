@@ -1,5 +1,5 @@
 **DC國度**（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：DC
-Nation）為基於[DC漫畫的節目和](../Page/DC漫畫.md "wikilink")[短片](https://zh.wikipedia.org/wiki/短片 "wikilink")，於[卡通頻道的](../Page/卡通頻道.md "wikilink")播出。首映於2012年3月3日，由[華納兄弟動畫製作](https://zh.wikipedia.org/wiki/華納兄弟動畫 "wikilink")，節目包含了[綠光戰警：動畫系列](https://zh.wikipedia.org/wiki/綠光戰警：動畫系列 "wikilink")、[少年正義聯盟和](https://zh.wikipedia.org/wiki/少年正義聯盟_\(動畫\) "wikilink")2013年的等等\[1\]。2012年6月8日[卡通頻道宣布將基於DC國度的新少年悍將短片再現](../Page/卡通頻道.md "wikilink")[少年悍將](../Page/少年悍將_\(動畫\).md "wikilink")，新系列[少年悍將
+Nation）為基於[DC漫畫的節目和](../Page/DC漫畫.md "wikilink")[短片](https://zh.wikipedia.org/wiki/短片 "wikilink")，於[卡通頻道的](../Page/卡通頻道.md "wikilink")播出。首映於2012年3月3日，由[華納兄弟動畫製作](https://zh.wikipedia.org/wiki/華納兄弟動畫 "wikilink")，節目包含了[綠光戰警：動畫系列](https://zh.wikipedia.org/wiki/綠光戰警：動畫系列 "wikilink")、[少年正義聯盟和](../Page/少年正義聯盟_\(動畫\).md "wikilink")2013年的等等\[1\]。2012年6月8日[卡通頻道宣布將基於DC國度的新少年悍將短片再現](../Page/卡通頻道.md "wikilink")[少年悍將](../Page/少年悍將_\(動畫\).md "wikilink")，新系列[少年悍將
 GO！將上映於](https://zh.wikipedia.org/wiki/少年悍將_GO！ "wikilink")2013年。新集數已於同年4月開始放送\[2\]。
 
 ## 節目
@@ -20,7 +20,7 @@ GO！將上映於](https://zh.wikipedia.org/wiki/少年悍將_GO！ "wikilink")2
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/少年正義聯盟_(動畫)" title="wikilink">少年正義聯盟</a></p></td>
+<td><p><a href="../Page/少年正義聯盟_(動畫).md" title="wikilink">少年正義聯盟</a></p></td>
 <td><p>2012年3月3日 – 2013年3月16日</p></td>
 </tr>
 <tr class="even">

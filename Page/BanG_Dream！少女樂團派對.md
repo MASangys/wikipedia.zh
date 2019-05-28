@@ -1,4 +1,4 @@
-，日文簡稱“****”，是開發，\[1\]、[武士道發行的音樂節奏](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，屬於[跨媒體製作企劃](../Page/跨媒體製作.md "wikilink")《[BanG
+，日文簡稱“****”，是開發，\[1\]、[武士道發行的音樂節奏](../Page/武士道_\(公司\).md "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")，屬於[跨媒體製作企劃](../Page/跨媒體製作.md "wikilink")《[BanG
 Dream\!](../Page/BanG_Dream!.md "wikilink")》的一部分，在2017年1月1日進行事前登錄，2017年3月16日正式開放下載\[2\]\[3\]。台灣地區由[移動怪獸取得代理權](https://zh.wikipedia.org/wiki/移動怪獸 "wikilink")，於2017年10月3日開放下載\[4\]。中國大陸地區由[bilibili取得代理權](https://zh.wikipedia.org/wiki/bilibili "wikilink")，於2017年11月9日宣告並開始接受預約\[5\]。韓國地區由Kakao取得代理權，於2018年2月6日開放下載。英文版於2018年3月29日開放新加坡下載，2018年4月4日開放全球下載\[6\]。
 
 ## 遊戲簡介

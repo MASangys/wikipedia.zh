@@ -17,7 +17,7 @@
 『**DATA CARDDASS 偶像活動Stars！**』是DATA
 CARDDASS系列的第2作。繼『[妖怪手錶](https://zh.wikipedia.org/wiki/妖怪手錶 "wikilink")』的直型最新機台『**DATA
 CARDDASS
-T**』之後，於2016年5月19日開始推出。在直型屏幕下配設觸碰式螢幕，保留舊機的三枚按鈕與觸碰式螢幕均有操作功能。卡片則改為按量印刷。而且，對比『[星光樂園](https://zh.wikipedia.org/wiki/星光樂園 "wikilink")』更能排出比通常大2倍的的卡片。
+T**』之後，於2016年5月19日開始推出。在直型屏幕下配設觸碰式螢幕，保留舊機的三枚按鈕與觸碰式螢幕均有操作功能。卡片則改為按量印刷。而且，對比『[星光樂園](../Page/星光樂園.md "wikilink")』更能排出比通常大2倍的的卡片。
 
 ### 遊戲方法
 
@@ -242,7 +242,7 @@ T**』之後，於2016年5月19日開始推出。在直型屏幕下配設觸碰�
   - 企劃、原作：BN Pictures
   - 原案：萬代
   - 導演：佐藤照雄
-  - 總監督：[木村隆一](https://zh.wikipedia.org/wiki/木村隆一 "wikilink")
+  - 總監督：[木村隆一](../Page/木村隆一.md "wikilink")
   - 系列構成：柿原優子
   - 角色設計：愛敬由紀子
   - 設計協力：石川佳代子、森田岳士、渡部里美
@@ -526,7 +526,7 @@ AIKATSU☆STARS！（第87話）
 :: 作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：石濱翔（MONACA）
 
 :: 主唱：わか（星宮莓）、ふうり（霧矢葵）、すなお（紫吹蘭） from
-[STAR☆ANIS](https://zh.wikipedia.org/wiki/STAR☆ANIS "wikilink")（第70話）
+[STAR☆ANIS](../Page/STAR☆ANIS.md "wikilink")（第70話）
 
 :; 「Message of a Rainbow」（第73、79話）
 
@@ -620,7 +620,7 @@ AIKATSU☆STARS！（第87話）
 <td><p>第1話</p></td>
 <td></td>
 <td><p>夢想的開端</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柿原優子" title="wikilink">柿原優子</a></p></td>
+<td><p><a href="../Page/柿原優子.md" title="wikilink">柿原優子</a></p></td>
 <td><p>佐藤照雄</p></td>
 <td><p>イムガヒ<br />
 佐藤照雄</p></td>
@@ -647,7 +647,7 @@ AIKATSU☆STARS！（第87話）
 <td></td>
 <td><p>朝向自我色彩的天空</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/成田良美" title="wikilink">成田良美</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戶部敦夫" title="wikilink">戶部敦夫</a></p></td>
+<td><p><a href="../Page/戶部敦夫.md" title="wikilink">戶部敦夫</a></p></td>
 <td><p>藤井康晶</p></td>
 <td></td>
 <td><p>4月21日</p></td>
@@ -659,7 +659,7 @@ AIKATSU☆STARS！（第87話）
 <td><p>無論何時都是100%！</p></td>
 <td></td>
 <td><p>北村真咲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a></p></td>
+<td><p><a href="../Page/小坂春女.md" title="wikilink">小坂春女</a></p></td>
 <td><p>菊地功一</p></td>
 <td><p>4月28日</p></td>
 <td></td>
@@ -680,7 +680,7 @@ AIKATSU☆STARS！（第87話）
 <td></td>
 <td><p>ROCK！搖滾女孩！</p></td>
 <td><p>成田良美</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/兒玉兼嗣" title="wikilink">兒玉兼嗣</a></p></td>
+<td><p><a href="../Page/兒玉兼嗣.md" title="wikilink">兒玉兼嗣</a></p></td>
 <td><p>德本善信</p></td>
 <td><p>三橋櫻子</p></td>
 <td><p>5月12日</p></td>
@@ -880,7 +880,7 @@ AIKATSU☆STARS！（第87話）
 <td></td>
 <td><p>凍原歌姬，降臨！</p></td>
 <td><p>待田堂子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/青木康直" title="wikilink">青木康直</a></p></td>
+<td><p><a href="../Page/青木康直.md" title="wikilink">青木康直</a></p></td>
 <td><p>山地光人</p></td>
 <td><p>高橋晃</p></td>
 <td><p>9月15日</p></td>
@@ -2098,18 +2098,15 @@ AIKATSU☆STARS！（第87話）
 ### 前作
 
   - 機台條目 - [Aikatsu！偶像活動！](../Page/Aikatsu！偶像活動！.md "wikilink")
-  - 動畫條目 -
-    [Aikatsu！偶像活動！(動畫)](https://zh.wikipedia.org/wiki/偶像活動！_\(動畫\) "wikilink")
+  - 動畫條目 - [Aikatsu！偶像活動！(動畫)](../Page/偶像活動！_\(動畫\).md "wikilink")
   - 角色條目 - [Aikatsu！偶像活動！角色列表](../Page/Aikatsu！偶像活動！角色列表.md "wikilink")
-  - 配唱條目 -
-    [STAR☆ANIS](https://zh.wikipedia.org/wiki/STAR☆ANIS "wikilink")、
+  - 配唱條目 - [STAR☆ANIS](../Page/STAR☆ANIS.md "wikilink")、
 
 ### 續作
 
   - 機台、動畫條目 -
     [偶像活動Friends！](https://zh.wikipedia.org/wiki/偶像活動Friends！ "wikilink")
-  - 角色條目 -
-    [偶像活動Friends！角色列表](https://zh.wikipedia.org/wiki/偶像活動Friends！角色列表 "wikilink")
+  - 角色條目 - [偶像活動Friends！角色列表](../Page/偶像活動Friends！角色列表.md "wikilink")
   - 配唱條目 -
 
 ## 參考資料

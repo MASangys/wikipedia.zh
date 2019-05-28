@@ -1,5 +1,5 @@
-[第18回](https://zh.wikipedia.org/wiki/第18回TV_LIFE年度日劇大賞 "wikilink") ←
-**第19回** → [第20回](../Page/第20回TV_LIFE年度日劇大賞.md "wikilink")
+[第18回](../Page/第18回TV_LIFE年度日劇大賞.md "wikilink") ← **第19回** →
+[第20回](../Page/第20回TV_LIFE年度日劇大賞.md "wikilink")
 
 **第19回[TV
 LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2009年播出的連續劇做出的觀眾投票。
@@ -229,7 +229,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </tr>
 <tr class="odd">
 <td><p>第三位</p></td>
-<td><p>　<a href="https://zh.wikipedia.org/wiki/加藤清史郎" title="wikilink">加藤清史郎</a></p></td>
+<td><p>　<a href="../Page/加藤清史郎.md" title="wikilink">加藤清史郎</a></p></td>
 <td><p>　《》</p></td>
 </tr>
 <tr class="even">
@@ -347,10 +347,10 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/加藤清史郎" title="wikilink">加藤清史郎</a><br />
+<td><p><strong><a href="../Page/加藤清史郎.md" title="wikilink">加藤清史郎</a><br />
 《》</strong></p></td>
 <td><p>第一位</p></td>
-<td><p>　<a href="https://zh.wikipedia.org/wiki/加藤清史郎" title="wikilink">加藤清史郎</a></p></td>
+<td><p>　<a href="../Page/加藤清史郎.md" title="wikilink">加藤清史郎</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第二位</p></td>
@@ -364,7 +364,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </tr>
 <tr class="even">
 <td><p>第四位</p></td>
-<td><p>　<a href="https://zh.wikipedia.org/wiki/加藤清史郎" title="wikilink">加藤清史郎</a></p></td>
+<td><p>　<a href="../Page/加藤清史郎.md" title="wikilink">加藤清史郎</a></p></td>
 <td><p>　《<a href="../Page/天地人_(大河劇).md" title="wikilink">天地人</a>》</p></td>
 </tr>
 <tr class="odd">

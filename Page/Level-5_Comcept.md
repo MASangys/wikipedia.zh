@@ -81,7 +81,7 @@ Mighty No. 9</p></td>
 <td><p>2016年</p></td>
 <td><p>平台</p></td>
 <td><p><a href="../Page/Inti_Creates.md" title="wikilink">Inti Creates</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td><p>Windows、OS X、Linux、<br />
 PlayStation 3、PlayStation 4、<br />
 Wii U、Xbox 360、Xbox One、<br />

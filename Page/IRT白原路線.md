@@ -105,7 +105,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/233街車站_(IRT白原路線)" title="wikilink">233街</a></p></td>
+<td><p><a href="../Page/233街車站_(IRT白原路線).md" title="wikilink">233街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -116,7 +116,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/225街車站_(IRT白原路線)" title="wikilink">225街</a></p></td>
+<td><p><a href="../Page/225街車站_(IRT白原路線).md" title="wikilink">225街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -148,7 +148,7 @@
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柏克大道車站_(IRT白原路線)" title="wikilink">柏克大道</a></p></td>
+<td><p><a href="../Page/柏克大道車站_(IRT白原路線).md" title="wikilink">柏克大道</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -157,7 +157,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿勒頓大道車站_(IRT白原路線)" title="wikilink">阿勒頓大道</a></p></td>
+<td><p><a href="../Page/阿勒頓大道車站_(IRT白原路線).md" title="wikilink">阿勒頓大道</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -168,7 +168,7 @@
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佩勒姆公園道車站_(IRT白原路線)" title="wikilink">佩勒姆公園道</a></p></td>
+<td><p><a href="../Page/佩勒姆公園道車站_(IRT白原路線).md" title="wikilink">佩勒姆公園道</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -178,7 +178,7 @@
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/布朗克斯公園東車站_(IRT白原路線)" title="wikilink">布朗克斯公園東</a></p></td>
+<td><p><a href="../Page/布朗克斯公園東車站_(IRT白原路線).md" title="wikilink">布朗克斯公園東</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -186,7 +186,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/IRT代里大道線" title="wikilink">IRT代里大道線匯入</a>（）</p></td>
+<td><p><a href="../Page/IRT代里大道線.md" title="wikilink">IRT代里大道線匯入</a>（）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -334,12 +334,12 @@
 <td><p>全部</p></td>
 <td></td>
 <td><p>1905年7月10日[27][28]</p></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/IRT傑羅姆大道線" title="wikilink">IRT傑羅姆大道線</a>）<br />
+<td><p>（<a href="../Page/IRT傑羅姆大道線.md" title="wikilink">IRT傑羅姆大道線</a>）<br />
 原為莫特大道</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>匯出並連接<a href="https://zh.wikipedia.org/wiki/IRT傑羅姆大道線" title="wikilink">IRT傑羅姆大道線</a>（）</p></td>
+<td><p>匯出並連接<a href="../Page/IRT傑羅姆大道線.md" title="wikilink">IRT傑羅姆大道線</a>（）</p></td>
 <td></td>
 <td></td>
 <td></td>

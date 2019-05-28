@@ -57,7 +57,7 @@ Mint的](../Page/Linux_Mint.md "wikilink")[开源的配置文件和应用程序�
     Manager](https://zh.wikipedia.org/wiki/File_Manager "wikilink"))
   - Peppermint Control Center\[10\] ([Configuration
     App](https://zh.wikipedia.org/wiki/Utility_software "wikilink"))
-  - [Pluma 编辑器](https://zh.wikipedia.org/wiki/Pluma "wikilink")
+  - [Pluma 编辑器](../Page/Pluma.md "wikilink")
     ([UTF-8](../Page/UTF-8.md "wikilink")
     [文本编辑器](../Page/文本编辑器.md "wikilink"))
   - Sakura (Simple/Powerful VTE-based

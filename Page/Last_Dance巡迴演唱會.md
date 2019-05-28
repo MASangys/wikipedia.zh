@@ -8,7 +8,7 @@ Dance」巡迴演唱會**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 
 Japan Dome Tour 2017 -Last
 Dance-」，除卻T.O.P外，其餘四名成員[太陽](../Page/太陽_\(歌手\).md "wikilink")、[G-Dragon](https://zh.wikipedia.org/wiki/權志龍 "wikilink")、[大聲及](../Page/姜大聲.md "wikilink")[勝利都將參與](../Page/勝利_\(歌手\).md "wikilink")，以11月18日、19日的福岡巨蛋為起點，先後經過大阪京瓷巨蛋、[名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink")、[東京巨蛋](../Page/東京巨蛋.md "wikilink")，最後收官於大阪京瓷巨蛋，總計14場演出，將動員646,000名歌迷進場觀賞，而自2012年11月23日在日本首次舉辦演唱會開始，至2016年12月29日舉行的出道十週年「[0.TO.10](https://zh.wikipedia.org/wiki/0.TO.10 "wikilink")」的紀念巡演最終演唱會，期間有超過350萬名觀眾都曾進場觀看過BIGBANG的日本演唱會\[2\]\[3\]，通過這次的巡演，為BIGBANG歷年在日本舉辦的巨蛋巡演共動員的觀眾人次提升至4,205,500人次。\[4\]
 
-2017年10月19日，YG娛樂無預警在下午通過官方網站宣佈BIGBANG將在[首爾舉辦演唱會的消息](https://zh.wikipedia.org/wiki/首爾 "wikilink")。據官方公開的告示中，BIGBANG以2016年12月發表的歌曲名稱同名的標題「BIGBANG
+2017年10月19日，YG娛樂無預警在下午通過官方網站宣佈BIGBANG將在[首爾舉辦演唱會的消息](../Page/首爾.md "wikilink")。據官方公開的告示中，BIGBANG以2016年12月發表的歌曲名稱同名的標題「BIGBANG
 2017 Concert『Last Dance』in
 Seoul」會在年底12月30日及31日兩天於首爾[高尺天空巨蛋舉行](../Page/高尺天空巨蛋.md "wikilink")\[5\]。同日YGEX也正式開設網站宣布，BIGBANG確定將於12月13日以「BIGBANG
 Japan Dome Tour 2017 -Last Dance- Live
@@ -24,7 +24,7 @@ Viewing」為主題，於日本國內各大電影院全程同步直播12月13日
 
 2.
 3.  [We Like 2
-    Party](https://zh.wikipedia.org/wiki/We_Like_2_Party_\(BIGBANG歌曲\) "wikilink")
+    Party](../Page/We_Like_2_Party_\(BIGBANG歌曲\).md "wikilink")
 
 4.  [Fxxk
     It](https://zh.wikipedia.org/wiki/Fxxk_It_\(BIGBANG歌曲\) "wikilink")
@@ -36,7 +36,7 @@ Viewing」為主題，於日本國內各大電影院全程同步直播12月13日
 8.
 9.  Superstar
 
-10. [無題](https://zh.wikipedia.org/wiki/無題_\(G-Dragon歌曲\) "wikilink")
+10. [無題](../Page/無題_\(G-Dragon歌曲\).md "wikilink")
 
 11. D-Day
 
@@ -182,7 +182,7 @@ Viewing」為主題，於日本國內各大電影院全程同步直播12月13日
 </tr>
 <tr class="odd">
 <td><p>2017年12月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="../Page/高尺天空巨蛋.md" title="wikilink">高尺天空巨蛋</a></p></td>
 <td><p>70,000[11]</p></td>

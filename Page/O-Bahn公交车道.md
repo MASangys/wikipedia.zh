@@ -1,6 +1,6 @@
 **O-Bahn公交车道**（简称**O-Bahn**，[音译](../Page/音译.md "wikilink")**奥巴恩**）是位于[南澳大利亚州](../Page/南澳大利亚州.md "wikilink")[阿德莱德的](../Page/阿德莱德.md "wikilink")[导向公交车道](../Page/導向巴士.md "wikilink")。该车道作为当地[快速公交系统的一部分](https://zh.wikipedia.org/wiki/快速公交系统 "wikilink")，用于服务阿德莱德东北郊区的乘客。O-Bahn系统的想法最初由[戴姆勒设想提出](../Page/戴姆勒.md "wikilink")，最初的目的是为了能够让[德国](../Page/德国.md "wikilink")[埃森的公交车能够与](../Page/埃森.md "wikilink")[有轨电车的隧道共用](https://zh.wikipedia.org/wiki/有轨电车 "wikilink")，以便在运行时避开其他交通的拥堵。
 
-阿德莱德O-Bahn在1986年正式通车，用于应对的迅速发展，并以此取代了早期的计划。O-Bahn公交车道使用集合了公交与铁路系统元素的特制的轨道，连接[錦林息公共運輸交匯處](https://zh.wikipedia.org/wiki/錦林息公共運輸交匯處 "wikilink")、[北樂提公共運輸交匯處和位于](https://zh.wikipedia.org/wiki/北樂提公共運輸交匯處 "wikilink")[摩保利的](https://zh.wikipedia.org/wiki/摩保利 "wikilink")[茶樹廣場公共運輸交匯處](https://zh.wikipedia.org/wiki/茶樹廣場公共運輸交匯處 "wikilink")，全长12公里，用时15分钟。公交车也可以在各中转站离开O-Bahn，进入普通道路继续行驶，避免了乘客转车的困扰。轨道上的公交车可以以最高100千米/时的速度行驶，一小时内从[阿德萊德市中心到茶树广场的最大载客量可达](https://zh.wikipedia.org/wiki/阿德萊德市中心 "wikilink")18,000人次。，O-Bahn工作日每日客流量达31,000人次。\[1\]
+阿德莱德O-Bahn在1986年正式通车，用于应对的迅速发展，并以此取代了早期的计划。O-Bahn公交车道使用集合了公交与铁路系统元素的特制的轨道，连接[錦林息公共運輸交匯處](../Page/錦林息公共運輸交匯處.md "wikilink")、[北樂提公共運輸交匯處和位于](../Page/北樂提公共運輸交匯處.md "wikilink")[摩保利的](https://zh.wikipedia.org/wiki/摩保利 "wikilink")[茶樹廣場公共運輸交匯處](https://zh.wikipedia.org/wiki/茶樹廣場公共運輸交匯處 "wikilink")，全长12公里，用时15分钟。公交车也可以在各中转站离开O-Bahn，进入普通道路继续行驶，避免了乘客转车的困扰。轨道上的公交车可以以最高100千米/时的速度行驶，一小时内从[阿德萊德市中心到茶树广场的最大载客量可达](https://zh.wikipedia.org/wiki/阿德萊德市中心 "wikilink")18,000人次。，O-Bahn工作日每日客流量达31,000人次。\[1\]
 
 目前，O-Bahn延长工程已被批准建设，2017年中旬建成后，经过的公交车可以进一步减少进入市区所需经过的一些拥堵的十字路口。O-Bahn的建设还使得原有破旧的郊区排水渠变成了目前的，成为了能够吸引周边居民的公共开放空间；它同时也激发了终点站所在地摩保利的开发和建设。
 
@@ -9,7 +9,7 @@
 [Obahn_test_track1.JPG](https://zh.wikipedia.org/wiki/File:Obahn_test_track1.JPG "fig:Obahn_test_track1.JPG")
 O-Bahn轨道由混凝土制成，两条轨道的总宽度为6.2米，沿着的[冲积土上方铺设而成](https://zh.wikipedia.org/wiki/沖積層 "wikilink")。因冲积土的[可塑性较高](../Page/塑性變形.md "wikilink")，铺设时施工团队不仅将轨道悬浮，还每隔12米在地面打入混凝土立柱以支撑轨道的重量、确保稳定性，最深的立柱深达4米。这5,600根立柱顶端支撑着5,600根混凝土枕木和4,200条预先建造好的L形轨道。\[2\]\[3\]正式施工时使用的O-Bahn轨道比最初设计阶段使用的更窄且更轻，减轻了对土地的压力，而且所有的混凝土部分均是先烧制后铺设的。\[4\]
 
-O-Bahn轨道在阿德莱德市区边缘，哈克尼路，东的对面开始，进入一个长达60米的隧道，因此处转向角度较大，为确保前轮（特别是[双节公交车的后车的前轮](../Page/铰接客车.md "wikilink")）不会刮到轨道边缘，公交车被限速40千米/时行驶。通过隧道后，限速提高到80公里/时，并在到达[錦林息之前的大多路段保持此速度](https://zh.wikipedia.org/wiki/錦林息公共運輸交匯處 "wikilink")。之后的速度限制则放开到100千米/时，但因老化及安全考虑，2012年末开始速度降至85千米/时。\[5\]而在测试阶段，部分轨道路段的最高行驶速度曾达到115千米/时。目前O-Bahn轨道全程的平均速度约为60千米/时，主要因为在进入各中转站前需减速到40千米/时，中转站内的限速为20千米/时。\[6\]\[7\]根据早期法庭对O-Bahn系统运营的裁决，O-Bahn被官方承认为「公路」的一部分，因此可以在该路段安装测速摄像头并对超速的司机罚款。\[8\]
+O-Bahn轨道在阿德莱德市区边缘，哈克尼路，东的对面开始，进入一个长达60米的隧道，因此处转向角度较大，为确保前轮（特别是[双节公交车的后车的前轮](../Page/铰接客车.md "wikilink")）不会刮到轨道边缘，公交车被限速40千米/时行驶。通过隧道后，限速提高到80公里/时，并在到达[錦林息之前的大多路段保持此速度](../Page/錦林息公共運輸交匯處.md "wikilink")。之后的速度限制则放开到100千米/时，但因老化及安全考虑，2012年末开始速度降至85千米/时。\[5\]而在测试阶段，部分轨道路段的最高行驶速度曾达到115千米/时。目前O-Bahn轨道全程的平均速度约为60千米/时，主要因为在进入各中转站前需减速到40千米/时，中转站内的限速为20千米/时。\[6\]\[7\]根据早期法庭对O-Bahn系统运营的裁决，O-Bahn被官方承认为「公路」的一部分，因此可以在该路段安装测速摄像头并对超速的司机罚款。\[8\]
 
 在O-Bahn入口处有大量的标示及警示以避免其他车辆不慎闯入轨道，同时入口处还装有针对低[底盘车设计的](https://zh.wikipedia.org/wiki/底盘 "wikilink")，当车辆闯入轨道时，该路障能够扯下汽车的以阻止汽车继续行驶。每年平均有4辆非O-Bahn公交车的汽车闯入O-Bahn轨道，而这些车辆最后都需要通过[起重机钓走](../Page/起重机.md "wikilink")。\[9\]
 
@@ -31,9 +31,9 @@ O-Bahn服务目前由与签署协议的运营。，该公交车道工作日日�
 ## 中转站
 
 [Adelaide_O-Bahn,_Modbury_Interchange_(overpass-northeast).jpg](https://zh.wikipedia.org/wiki/File:Adelaide_O-Bahn,_Modbury_Interchange_\(overpass-northeast\).jpg "fig:Adelaide_O-Bahn,_Modbury_Interchange_(overpass-northeast).jpg")
-O-Bahn轨道的第一站是[錦林息公共運輸交匯處](https://zh.wikipedia.org/wiki/錦林息公共運輸交匯處 "wikilink")，位于距离市区中心3公里远的[錦林息](https://zh.wikipedia.org/wiki/錦林息 "wikilink")。此站興建目的是，與外環線巴士路線交匯。但由於此站巴士停靠位置比其餘交匯處短，不少O-Bahn路線在繁忙時間以**特快**（Express）名義「飛站」。本站共有29條O-Bahn路線停靠，包括前往[屋登](https://zh.wikipedia.org/wiki/屋登 "wikilink")（Oakden）的路線。\[19\]\[20\]\[21\]此站是唯一一個O-Bahn交匯處不設巴士專線離開本站。此站亦設停車場，供應共450個車位。\[22\]\[23\]
+O-Bahn轨道的第一站是[錦林息公共運輸交匯處](../Page/錦林息公共運輸交匯處.md "wikilink")，位于距离市区中心3公里远的[錦林息](https://zh.wikipedia.org/wiki/錦林息 "wikilink")。此站興建目的是，與外環線巴士路線交匯。但由於此站巴士停靠位置比其餘交匯處短，不少O-Bahn路線在繁忙時間以**特快**（Express）名義「飛站」。本站共有29條O-Bahn路線停靠，包括前往[屋登](https://zh.wikipedia.org/wiki/屋登 "wikilink")（Oakden）的路線。\[19\]\[20\]\[21\]此站是唯一一個O-Bahn交匯處不設巴士專線離開本站。此站亦設停車場，供應共450個車位。\[22\]\[23\]
 
-[北樂提公共運輸交匯處作为O](https://zh.wikipedia.org/wiki/北樂提公共運輸交匯處 "wikilink")-Bahn轨道第二站，位于[北樂提的西北角](https://zh.wikipedia.org/wiki/北樂提 "wikilink")，距离市区中心6公里远。目前该站处于O-Bahn的中间位置，而在O-Bahn第二建设阶段竣工前，该站则是O-Bahn的终点站。北樂提也有其他来自周边郊区的公交车经停。该站共有875个停车位，分布在两个区域。\[24\]
+[北樂提公共運輸交匯處作为O](../Page/北樂提公共運輸交匯處.md "wikilink")-Bahn轨道第二站，位于[北樂提的西北角](https://zh.wikipedia.org/wiki/北樂提 "wikilink")，距离市区中心6公里远。目前该站处于O-Bahn的中间位置，而在O-Bahn第二建设阶段竣工前，该站则是O-Bahn的终点站。北樂提也有其他来自周边郊区的公交车经停。该站共有875个停车位，分布在两个区域。\[24\]
 
 [茶樹廣場公共運輸交匯處是O](https://zh.wikipedia.org/wiki/茶樹廣場公共運輸交匯處 "wikilink")-Bahn的终点站，同时也是东北郊区的公共交通中心，坐落于[摩保利](https://zh.wikipedia.org/wiki/摩保利 "wikilink")，距离市区中心12公里。得益于其紧邻的，该站是O-Bahn上最大的中转站。从此站驶出的公交车最远连接至[伊利莎伯](https://zh.wikipedia.org/wiki/伊利莎伯 "wikilink")，并覆盖[高登高夫地区](https://zh.wikipedia.org/wiki/高登高夫 "wikilink")。2013年原停车场改造重建，新建的多层停车场可容纳700辆汽车，较改造前增加了300个停车位。\[25\]\[26\]
 

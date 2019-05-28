@@ -1,4 +1,4 @@
-，2017年1月15日至2017年3月19日於[TBS電視台](../Page/TBS電視台.md "wikilink")「[周日劇場](../Page/周日劇場.md "wikilink")」時段播出的連續劇。由[木村拓哉主演](../Page/木村拓哉.md "wikilink")\[1\]\[2\]，編劇為《》系列的編劇[橋部敦子](https://zh.wikipedia.org/wiki/橋部敦子 "wikilink")。
+，2017年1月15日至2017年3月19日於[TBS電視台](../Page/TBS電視台.md "wikilink")「[周日劇場](../Page/周日劇場.md "wikilink")」時段播出的連續劇。由[木村拓哉主演](../Page/木村拓哉.md "wikilink")\[1\]\[2\]，編劇為《》系列的編劇[橋部敦子](../Page/橋部敦子.md "wikilink")。
 
 ## 劇情概要
 
@@ -74,7 +74,7 @@
 
 ### 壇上紀念醫院
 
-  - 壇上虎之助：[柄本明](https://zh.wikipedia.org/wiki/柄本明 "wikilink")（香港配音：[盧國權](../Page/盧國權.md "wikilink")）
+  - 壇上虎之助：[柄本明](../Page/柄本明.md "wikilink")（香港配音：[盧國權](../Page/盧國權.md "wikilink")）
 
 <!-- end list -->
 
@@ -94,7 +94,7 @@
 
   - 茶澤達彥：
   - 白川哲雄：
-  - 赤木麗子：（香港配音：[李潤知](https://zh.wikipedia.org/wiki/李潤知 "wikilink")）
+  - 赤木麗子：（香港配音：[李潤知](../Page/李潤知.md "wikilink")）
 
 ### 其他
 
@@ -107,7 +107,7 @@
 
 <!-- end list -->
 
-  - 壇上莉菜：[竹野谷咲](https://zh.wikipedia.org/wiki/竹野谷咲 "wikilink")（香港配音：[廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink")）
+  - 壇上莉菜：[竹野谷咲](https://zh.wikipedia.org/wiki/竹野谷咲 "wikilink")（香港配音：[廖杏茵](../Page/廖杏茵.md "wikilink")）
 
 <!-- end list -->
 
@@ -248,7 +248,7 @@
 
 ## 製作團隊
 
-  - 劇本：[橋部敦子](https://zh.wikipedia.org/wiki/橋部敦子 "wikilink")
+  - 劇本：[橋部敦子](../Page/橋部敦子.md "wikilink")
   - 配樂：[佐藤直紀](../Page/佐藤直紀.md "wikilink")
   - 醫療監修：順天堂大學醫學部附屬順天堂醫院
   - 綜合醫療監修：

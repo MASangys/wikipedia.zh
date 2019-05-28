@@ -4,7 +4,7 @@
 ## 概要
 
 前作《[Shangri-La
-Shower](https://zh.wikipedia.org/wiki/Shangri-La_Shower "wikilink")》以來時隔約6個月後的新作單曲。收錄了基於由[電擊G's
+Shower](../Page/Shangri-La_Shower.md "wikilink")》以來時隔約6個月後的新作單曲。收錄了基於由[電擊G's
 magazine募集的](../Page/電擊G's_magazine.md "wikilink")「大家創作的μ's的歌」（）的意見作成的樂曲\[2\]。2015年3月27日樂曲詳情和試聽動畫公開。
 
 標題曲《****》的作詞基於經讀者投票採用的4個主題。

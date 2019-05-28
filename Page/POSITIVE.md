@@ -1,4 +1,4 @@
-《**POSITIVE**》是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[森川美穗個人總計第](https://zh.wikipedia.org/wiki/森川美穗 "wikilink")15張單曲。1991年12月18日由[東芝EMI](../Page/EMI音樂日本.md "wikilink")（現已併入改名[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")
+《**POSITIVE**》是[日本女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")[森川美穗個人總計第](../Page/森川美穗.md "wikilink")15張單曲。1991年12月18日由[東芝EMI](../Page/EMI音樂日本.md "wikilink")（現已併入改名[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")
 [EMI唱片日本](../Page/環球音樂_\(日本\).md "wikilink")）發行。
 
 ## 解說
@@ -6,7 +6,7 @@
 標題曲「POSITIVE」是[富士電視台](../Page/富士電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[亂馬{{Sfrac](https://zh.wikipedia.org/wiki/亂馬½ "wikilink")》選用的第6代片尾主題曲，使用時間從1991年11月1日（第100話）至1992年3月27日（第117話）為止。後來，「POSITIVE」有收錄在森川她的個人第10張專輯《VOICES》、及1999年3月17日發行的《》等《亂馬》的相關專輯裡。另一方面，「POSITIVE」也是森川的歷年個人單曲或專輯當中，唯一一首被民營電視台動畫節目當主題歌曲選用的歌曲（2017年現在）。
 
 2017年7月29日，森川上[NHK-FM播出的電台節目](../Page/NHK-FM頻率.md "wikilink")《》於錄音中有獻唱該歌曲和另一首歌曲「[BLUE
-WATER](https://zh.wikipedia.org/wiki/BLUE_WATER "wikilink")」\[1\]。而擔任節目DJ的[中川翔子在聽完森川的演唱之後](../Page/中川翔子.md "wikilink")，表明自己在心情陷入谷底而流淚時聽完這2首歌曲的話、會讓人重新振作的感言\[2\]。另外，「POSITIVE」的作詞人佐藤純子同時在接受中川的電台節目中表示，這首歌曲的創作來源是佐藤在失戀而心情陷入谷底的時候，用當下真實的心境填詞而成的歌曲\[3\]。
+WATER](../Page/BLUE_WATER.md "wikilink")」\[1\]。而擔任節目DJ的[中川翔子在聽完森川的演唱之後](../Page/中川翔子.md "wikilink")，表明自己在心情陷入谷底而流淚時聽完這2首歌曲的話、會讓人重新振作的感言\[2\]。另外，「POSITIVE」的作詞人佐藤純子同時在接受中川的電台節目中表示，這首歌曲的創作來源是佐藤在失戀而心情陷入谷底的時候，用當下真實的心境填詞而成的歌曲\[3\]。
 
 ## 收錄歌曲
 

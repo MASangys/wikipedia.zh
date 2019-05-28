@@ -490,7 +490,7 @@ Eddy之弟</p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/陳漢瑋" title="wikilink">陳漢瑋</a></p></td>
+<p><a href="../Page/陳漢瑋.md" title="wikilink">陳漢瑋</a></p></td>
 <td><center>
 <p>余帆</p></td>
 <td><p>周薇蕓之亡夫<br />

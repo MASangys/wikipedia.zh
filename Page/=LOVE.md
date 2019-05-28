@@ -8,7 +8,7 @@
 
 ## 歷史
 
-2017年1月30日深夜，指原莉乃在個人[SHOWROOM頻道發表由演藝養成學校代代木動畫學院舉辦](https://zh.wikipedia.org/wiki/SHOWROOM "wikilink")、自己擔任製作人的[聲優偶像甄選活動](../Page/聲優.md "wikilink")，當日中午開放網路報名，預計2017年夏季出道\[3\]\[4\]。4月29日，徵選的最終審查後，宣布共有13人合格（當中1人在成員正式披露前辭退）；與此同時，指原公布團名為「＝LOVE」\[5\]。8月5日，成员于“
+2017年1月30日深夜，指原莉乃在個人[SHOWROOM頻道發表由演藝養成學校代代木動畫學院舉辦](../Page/SHOWROOM.md "wikilink")、自己擔任製作人的[聲優偶像甄選活動](../Page/聲優.md "wikilink")，當日中午開放網路報名，預計2017年夏季出道\[3\]\[4\]。4月29日，徵選的最終審查後，宣布共有13人合格（當中1人在成員正式披露前辭退）；與此同時，指原公布團名為「＝LOVE」\[5\]。8月5日，成员于“
 2017”舉行首次Live（現場表演），在活动中首次亮相\[6\]。
 
 9月6日，自唱片公司[SACRA
@@ -130,13 +130,13 @@ MUSIC发行出道單曲](../Page/SACRA_MUSIC.md "wikilink")《=LOVE》\[7\]。11
 
 | 序號     | 發售日          | 名称                                                                   | 發售形態                                                                                        | 唱片編號        | 形態             | 最高位 |
 | ------ | ------------ | -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------- | -------------- | --- |
-| 1      | 2017年9月6日    | 《[=LOVE](https://zh.wikipedia.org/wiki/=LOVE_\(单曲\) "wikilink")》     | [CD](https://zh.wikipedia.org/wiki/CD-DA "wikilink")+[DVD](../Page/DVD-Video.md "wikilink") | VVCL-1108/9 | 初回生產限定盤 Type-A | 8位  |
+| 1      | 2017年9月6日    | 《[=LOVE](../Page/=LOVE_\(单曲\).md "wikilink")》                        | [CD](https://zh.wikipedia.org/wiki/CD-DA "wikilink")+[DVD](../Page/DVD-Video.md "wikilink") | VVCL-1108/9 | 初回生產限定盤 Type-A | 8位  |
 | CD+DVD | VVCL-1110/1  | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |     |
 | CD     | VVCL-1112    | 通常盤（Type-C）                                                          |                                                                                             |             |                |     |
 | 2      | 2017年12月6日   | 《[我们的制服圣诞节](https://zh.wikipedia.org/wiki/我们的制服圣诞节 "wikilink")》      | CD+DVD                                                                                      | VVCL-1135/6 | 初回生產限定盤 Type-A | 3位  |
 | CD+DVD | VVCL-1137/8  | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |     |
 | CD     | VVCL-1139    | 通常盤（Type-C）                                                          |                                                                                             |             |                |     |
-| 3      | 2018年5月16日   | 《[為時已晚的警告](https://zh.wikipedia.org/wiki/為時已晚的警告 "wikilink")》        | CD+DVD                                                                                      | VVCL-1237/8 | 初回生產限定盤 Type-A | 3位  |
+| 3      | 2018年5月16日   | 《[為時已晚的警告](../Page/為時已晚的警告.md "wikilink")》                           | CD+DVD                                                                                      | VVCL-1237/8 | 初回生產限定盤 Type-A | 3位  |
 | CD+DVD | VVCL-1239/40 | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |     |
 | CD     | VVCL-1241    | 通常盤（Type-C）                                                          |                                                                                             |             |                |     |
 | 4      | 2018年10月17日  | 《[Want you\! Want you\!](../Page/Want_you!_Want_you!.md "wikilink")》 | CD+DVD                                                                                      | VVCL-1300/1 | 初回生產限定盤 Type-A | 2位  |

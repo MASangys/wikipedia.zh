@@ -1,6 +1,6 @@
 《**假面騎士Ghost**》（，），從2015年10月4日起於[朝日電視台](../Page/朝日電視台.md "wikilink")，每週日早上8:00-8:30播出的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")，假面騎士Ghost也是該劇主角變身的名字。本作為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第17部[平成系列作品](../Page/平成.md "wikilink")，口號是「燃燒生命吧！」、「英雄，是不停復活」、「幽靈眼魂爭奪戰！！」。
 
-台灣的東森綜合台及東森超視台於《假面騎士鎧武》播映完畢後，跳過本作與前作《假面騎士Drive》播出《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》。故此，本作是繼《[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")》、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》、《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》後，第四部沒有在台灣播出的平成假面騎士作品。
+台灣的東森綜合台及東森超視台於《假面騎士鎧武》播映完畢後，跳過本作與前作《假面騎士Drive》播出《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》。故此，本作是繼《[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")》、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》後，第四部沒有在台灣播出的平成假面騎士作品。
 
 香港因無綫電視取消假面騎士時段，同台灣一樣，沒有播放本作。並蹺過本作與前作《假面騎士Drive》，推出次作相關商品。
 
@@ -10,12 +10,12 @@
 
   -
     首次採用以世界歷史中存在的偉人英靈作為變身元素，主角設定上同樣為死者。\[1\]\[2\]\[3\]
-    本作世界觀設定與前作《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》和續作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》相連\[4\]，在《[劇場版
+    本作世界觀設定與前作《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》和續作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》相連\[4\]，在《[劇場版
     假面騎士Drive SURPRISE
     FUTURE](https://zh.wikipedia.org/wiki/劇場版_假面騎士Drive_SURPRISE_FUTURE "wikilink")》裡先行現身，亦繼後在劇中再次使用「**假面騎士**」一詞稱呼。
     雖然有明確使用「**假面騎士**」一詞，但相對其它有使用「**假面騎士**」的作品，本作除第1、49、50話及每話開頭前男主角的旁白外基本上沒有提及。而各假面騎士的名稱在劇中同樣甚少提及，即使變身後各假面騎士及敵方亦會直呼變身者的名字。
     怪人「眼魔」一詞是繼《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》後再次使用漢字命名，而非使用日式合併的原創英字或是正統英文。
-    製作團隊為謳歌前作《[假面騎士](../Page/假面騎士.md "wikilink")》的「怪奇戲劇」理念而採用「鬼怪」作為本作主要的特色，使用「眼球」作元素是因為假面騎士1號及2號的腰帶形狀與眼睛相似。外型設計上以樸素先決，望求與前作《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》的機械感造成極端的反差，另外同時創新採用了以布料外衣作為變化形態的元素。\[5\]
+    製作團隊為謳歌前作《[假面騎士](../Page/假面騎士.md "wikilink")》的「怪奇戲劇」理念而採用「鬼怪」作為本作主要的特色，使用「眼球」作元素是因為假面騎士1號及2號的腰帶形狀與眼睛相似。外型設計上以樸素先決，望求與前作《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的機械感造成極端的反差，另外同時創新採用了以布料外衣作為變化形態的元素。\[5\]
     在人物設定上亦非系列慣用的主流，除了「正義感」外亦要顧全自身僅餘的生命作為戰鬥的內心掙扎根源，但此亦成為符合了本作「鬼怪」的主題。
     在劇情初期方面採用「一話一單元」的設定劇情設定，之後改變為「二話一單元」的故事流程，且每話劇情間有些許連貫，第1至12話為第一部；第13至50話為第二部。
     主角變身成假面騎士Ghost感恩魂形態需換變身腰帶,是歷代平成騎士系列首位和唯一需換變身腰帶變身**強化形態**的第一男主角騎士。\[6\]而且當由普通型態變身強化形態期間不會解除變身,與假面騎士巴隆變身假面騎士巴隆(次世代型)一樣。
@@ -1740,7 +1740,7 @@ Ghost驅動器使用時音效為「Hello！Arrow！Mori De Aou！」<br />
 Ghost驅動器使用時音效為「Ringo Ga Rakka、Hikiyosemakka〜」<br />
 （日文原文，中文意思「蘋果掉下來！萬有引力真的有嗎！」）。<br />
 在感恩魂中的音效為「蘋果」（日文原文「）。<br />
-該眼魂曾經在前作《<a href="https://zh.wikipedia.org/wiki/假面騎士Drive" title="wikilink">假面騎士Drive</a>》中登場，英雄的靈魂源頭和共鳴者不詳。</p></td>
+該眼魂曾經在前作《<a href="../Page/假面騎士Drive.md" title="wikilink">假面騎士Drive</a>》中登場，英雄的靈魂源頭和共鳴者不詳。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2983,7 +2983,7 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 <td></td>
 <td><p>電撃！發明王！</p></td>
 <td><ul>
-<li>電力眼魔（CV：<a href="https://zh.wikipedia.org/wiki/北澤洋" title="wikilink">北澤洋</a>）
+<li>電力眼魔（CV：<a href="../Page/北澤洋.md" title="wikilink">北澤洋</a>）
 <ul>
 <li>巨大電力眼魔</li>
 </ul></li>
@@ -3012,7 +3012,7 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 <td></td>
 <td><p>驚愕！空中之城！</p></td>
 <td><ul>
-<li>書眼魔（CV：<a href="https://zh.wikipedia.org/wiki/吉開清人" title="wikilink">吉開清人</a>）</li>
+<li>書眼魔（CV：<a href="../Page/吉開清人.md" title="wikilink">吉開清人</a>）</li>
 </ul></td>
 <td><p>87日</p></td>
 <td><p>5.8%</p></td>
@@ -3025,7 +3025,7 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 <td></td>
 <td><p>衝擊！謎之假面騎士！</p></td>
 <td><ul>
-<li>機槍眼魔（CV：<a href="https://zh.wikipedia.org/wiki/長克巳" title="wikilink">長克巳</a>）</li>
+<li>機槍眼魔（CV：<a href="../Page/長克巳.md" title="wikilink">長克巳</a>）</li>
 </ul></td>
 <td><p>57日</p></td>
 <td><p>諸田敏</p></td>
@@ -3263,7 +3263,7 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 <td><p>謀略！阿迪爾的陷阱！</p></td>
 <td><ul>
 <li>甲冑眼魔（CV：幸田直子）</li>
-<li>上級眼魔（CV：、<a href="https://zh.wikipedia.org/wiki/高橋孝治" title="wikilink">高橋孝治</a>）</li>
+<li>上級眼魔（CV：、<a href="../Page/高橋孝治.md" title="wikilink">高橋孝治</a>）</li>
 <li>終極眼魔（CV：<a href="../Page/真山明大.md" title="wikilink">真山明大</a>）</li>
 <li>軍荼利</li>
 </ul></td>
@@ -3294,7 +3294,7 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 <td></td>
 <td><p>出現！謎之戰士！</p></td>
 <td><ul>
-<li>豪豬改造人（CV：<a href="https://zh.wikipedia.org/wiki/宇垣秀成" title="wikilink">宇垣秀成</a>）</li>
+<li>豪豬改造人（CV：<a href="../Page/宇垣秀成.md" title="wikilink">宇垣秀成</a>）</li>
 <li>青龍刀眼魔</li>
 <li>機槍眼魔</li>
 <li>烏魯加（CV：<a href="https://zh.wikipedia.org/wiki/永德" title="wikilink">永德</a>）</li>
@@ -3774,13 +3774,13 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
   - 《[劇場版 假面騎士Ghost
     100個眼魂與Ghost命運的瞬間](https://zh.wikipedia.org/wiki/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間 "wikilink")》（2016年8月6日上映）
   - 《[假面騎士平成Generations Dr.Pac-Man對EX-AID\&Ghost with
-    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士 "wikilink")》（2016年12月10日上映）
+    傳說騎士](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》（2016年12月10日上映）
   - 《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》（2017年12月9日上映）
+    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
 
 ### 電視影集
 
-  - 《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》
+  - 《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》
 
 <!-- end list -->
 
@@ -3976,7 +3976,7 @@ Ghost驅動器使用時音效為「Let's Go！Kakugo！Gho・Gho・Gho・Ghost�
 3.  [新ライダーはいきなり死亡\!?ジュノンボーイ・西銘駿が「仮面ライダーゴースト」襲名](http://www.cinemacafe.net/article/2015/08/18/33486.html)
 
 4.  最終話特別篇，之後於2017年上映的《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀
+    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》實为同一世界觀
 
 5.  『東映ヒーローMAX』VOLUME 52（2015 autumn）
 

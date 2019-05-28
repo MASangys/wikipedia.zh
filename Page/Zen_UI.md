@@ -29,8 +29,7 @@ Play](../Page/Google_Play.md "wikilink") 商店下載 ZenUI 相關程式安裝�
 
 ### 手機系列
 
-  - [Asus ZenFone
-    4](https://zh.wikipedia.org/wiki/華碩ZenFone_4_\(2014年\) "wikilink")
+  - [Asus ZenFone 4](../Page/華碩ZenFone_4_\(2014年\).md "wikilink")
     (A451CG/A400CG/A400CXG/A450CG)
   - [Asus Zenfone 5](../Page/華碩ZenFone_5_\(2014年\).md "wikilink")
     (A500CG/A501CG)
@@ -97,9 +96,7 @@ Play](../Page/Google_Play.md "wikilink") 商店下載 ZenUI 相關程式安裝�
   - [Asus ZenFone
     5/5z](https://zh.wikipedia.org/wiki/華碩ZenFone_5_\(2018\) "wikilink")
     (ZE620KL/ZS620KL)
-  - [ASUS ROG
-    Phone](https://zh.wikipedia.org/wiki/ASUS_ROG_Phone "wikilink")
-    (ZS600KL)
+  - [ASUS ROG Phone](../Page/ASUS_ROG_Phone.md "wikilink") (ZS600KL)
 
 ### 平板系列
 

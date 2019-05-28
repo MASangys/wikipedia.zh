@@ -1,6 +1,5 @@
-**網石遊戲**（；）是一間開發和發行[電子遊戲的公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，由房俊赫於2000年創辦，總部位於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")，擁有超過5,000位員工。\[1\]2004年與[CJ
-E\&M達成合作策略](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")，成為CJ
-E\&M旗下子公司。
+**網石遊戲**（；）是一間開發和發行[電子遊戲的公司](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，由房俊赫於2000年創辦，總部位於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[首爾](../Page/首爾.md "wikilink")，擁有超過5,000位員工。\[1\]2004年與[CJ
+E\&M達成合作策略](../Page/CJ_E&M.md "wikilink")，成為CJ E\&M旗下子公司。
 
 在手遊市場，曾推出多款膾炙人口的遊戲，例如：《天堂2：革命》、《[MARVEL未來之戰](../Page/MARVEL未來之戰.md "wikilink")》、《STAR
 WARS™:

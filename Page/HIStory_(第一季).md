@@ -119,7 +119,7 @@ TV於](../Page/CHOCO_TV.md "wikilink")2017年5月12日推出“HIStory寫真+DVD
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/林鶴軒" title="wikilink">林鶴軒</a></p></td>
+<p><a href="../Page/林鶴軒.md" title="wikilink">林鶴軒</a></p></td>
 <td><center>
 <p>白常常</p></td>
 <td><p>原本要帶走陽壽將盡的古思任，卻不小心勾錯魂，反而勾走命不該絕的藍熙，身體還被火化。為了彌補錯誤，他同意讓藍熙的靈魂附在古思任身上，想辦法在七天之內讓麥英雄重新愛上他(她)。</p></td>
@@ -277,7 +277,7 @@ TV於](../Page/CHOCO_TV.md "wikilink")2017年5月12日推出“HIStory寫真+DVD
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/任祐成" title="wikilink">任祐成</a></p></td>
+<p><a href="../Page/任祐成.md" title="wikilink">任祐成</a></p></td>
 <td><center>
 <p>邵逸辰</p></td>
 <td><p>土木系的學生。重生前因得知情人江勁騰將要結婚，傷心之下衝出馬路意外被車撞死，後來獲得了重生的機會，回到尚未遇到江勁騰的九年前，他決定要避開江勁騰，重新開始新生活。但他後來發現即使重生，依然躲不過愛上江勁騰的命運。</p></td>

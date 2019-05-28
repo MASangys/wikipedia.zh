@@ -36,7 +36,7 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 | [昇玟](../Page/昇玟.md "wikilink")([Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")) | 第326集－第348集 |
 | [Jae](../Page/Jae.md "wikilink")([DAY6](../Page/DAY6.md "wikilink"))                              | 第218集－第324集 |
 | Kevin([U-KISS](../Page/U-KISS.md "wikilink"))                                                     | 第43集－第311集  |
-| [Eric Nam](https://zh.wikipedia.org/wiki/Eric_Nam "wikilink") \[1\]                               | 第1集－第207集   |
+| [Eric Nam](../Page/Eric_Nam.md "wikilink") \[1\]                                                  | 第1集－第207集   |
 | Han Byul([Led apple](https://zh.wikipedia.org/wiki/Led_apple "wikilink"))                         | 第1集－第39集    |
 
 ### 特別主持
@@ -51,7 +51,7 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 | [Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")([f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")) | 第156集、第212集                       |
 | Moon([Royal Pirates](../Page/Royal_Pirates.md "wikilink"))                                                            | 第44集、第211集                        |
 | [NS允智](../Page/NS允智.md "wikilink")                                                                                    | 第67集、第137集                        |
-| Sanchez([Phantom](https://zh.wikipedia.org/wiki/Phantom_\(韓國組合\) "wikilink"))                                         | 第81集、第83集                         |
+| Sanchez([Phantom](../Page/Phantom_\(韓國組合\).md "wikilink"))                                                            | 第81集、第83集                         |
 | Tia([Chocolat](../Page/Chocolat.md "wikilink"))                                                                       | 第8集、第23集                          |
 | [方燦](https://zh.wikipedia.org/wiki/方燦 "wikilink")([Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink"))  | 第320集、第325集                       |
 | Kevin([THE BOYZ](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink"))                                                  | 第297集                             |
@@ -67,7 +67,7 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 
 | 集數 | 播放日期        | 來賓                                                                                                                                                            |
 | -- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1  | 2013年4月17日  | [ZE:A-FIVE](https://zh.wikipedia.org/wiki/ZE:A-FIVE "wikilink")                                                                                               |
+| 1  | 2013年4月17日  | [ZE:A-FIVE](../Page/ZE:A-FIVE.md "wikilink")                                                                                                                  |
 | 2  | 2013年4月24日  | [M.I.B](../Page/M.I.B.md "wikilink")                                                                                                                          |
 | 3  | 2013年5月1日   | [uBEAT](https://zh.wikipedia.org/wiki/uBEAT "wikilink")                                                                                                       |
 | 4  | 2013年5月8日   | [C-CLOWN](../Page/C-CLOWN.md "wikilink")                                                                                                                      |
@@ -129,11 +129,11 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 | 147 | 2015年2月17日  | Amber（[f(x)](https://zh.wikipedia.org/wiki/f\(x\) "wikilink")）                                             |
 | 148 | 2015年2月24日  | [4Minute](https://zh.wikipedia.org/wiki/4Minute "wikilink")                                                |
 | 149 | 2015年3月3日   | [BamBam](../Page/BamBam.md "wikilink")                                                                     |
-| 150 | 2015年3月10日  | [Eric Nam](https://zh.wikipedia.org/wiki/Eric_Nam "wikilink")                                              |
+| 150 | 2015年3月10日  | [Eric Nam](../Page/Eric_Nam.md "wikilink")                                                                 |
 | 151 | 2015年3月17日  | [MADTOWN](https://zh.wikipedia.org/wiki/MADTOWN "wikilink")                                                |
 | 152 | 2015年3月24日  | [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")                                                |
 | 153 | 2015年3月31日  | [MYNAME](../Page/MYNAME.md "wikilink")                                                                     |
-| 154 | 2015年4月7日   | [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")                                          |
+| 154 | 2015年4月7日   | [Red Velvet](../Page/Red_Velvet.md "wikilink")                                                             |
 | 155 | 2015年4月14日  | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")                                                  |
 | 156 | 2015年4月21日  | Niel（[Teen Top](https://zh.wikipedia.org/wiki/Teen_Top "wikilink")）                                        |
 | 157 | 2015年4月28日  | Bastarz（[Block B](../Page/Block_B.md "wikilink")）                                                          |
@@ -157,7 +157,7 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 | 175 | 2015年9月1日   | [SONAMOO](../Page/SONAMOO.md "wikilink")                                                                   |
 | 176 | 2015年9月8日   | [BIG STAR](https://zh.wikipedia.org/wiki/BIG_STAR "wikilink")                                              |
 | 177 | 2015年9月15日  | [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")                                              |
-| 178 | 2015年9月22日  | [Jessi](https://zh.wikipedia.org/wiki/Jessi "wikilink")                                                    |
+| 178 | 2015年9月22日  | [Jessi](../Page/Jessi.md "wikilink")                                                                       |
 | 179 | 2015年9月29日  | [UP10TION](../Page/UP10TION.md "wikilink")                                                                 |
 | 180 | 2015年10月6日  | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink")                                                        |
 | 181 | 2015年10月13日 | [Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink")                                                    |
@@ -192,7 +192,7 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 | 206 | 2016年4月5日   | [BTOB](../Page/BTOB.md "wikilink")                                                                                                                                                                               |
 | 209 | 2016年4月26日  | [VIXX](../Page/VIXX.md "wikilink")                                                                                                                                                                               |
 | 210 | 2016年5月3日   | [KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")                                                                                                                                                              |
-| 211 | 2016年5月10日  | [Jessi](https://zh.wikipedia.org/wiki/Jessi "wikilink")                                                                                                                                                          |
+| 211 | 2016年5月10日  | [Jessi](../Page/Jessi.md "wikilink")                                                                                                                                                                             |
 | 212 | 2016年5月17日  | [APRIL](https://zh.wikipedia.org/wiki/APRIL "wikilink")                                                                                                                                                          |
 | 213 | 2016年5月24日  | [Monsta X](https://zh.wikipedia.org/wiki/Monsta_X "wikilink")                                                                                                                                                    |
 | 214 | 2016年5月31日  | Jae（[DAY6](../Page/DAY6.md "wikilink")）                                                                                                                                                                          |
@@ -235,7 +235,7 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 | 247 | 2017年1月17日  | [APRIL](https://zh.wikipedia.org/wiki/APRIL "wikilink")                                                              |
 | 248 | 2017年1月24日  | [Niel](https://zh.wikipedia.org/wiki/Niel "wikilink")（[Teen Top](https://zh.wikipedia.org/wiki/Teen_Top "wikilink")） |
 | 249 | 2017年1月31日  | [CLC](../Page/CLC.md "wikilink")                                                                                     |
-| 250 | 2017年2月7日   | [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")\[2\]                                               |
+| 250 | 2017年2月7日   | [Red Velvet](../Page/Red_Velvet.md "wikilink")\[2\]                                                                  |
 | 251 | 2017年2月14日  | [CROSS GENE](../Page/CROSS_GENE.md "wikilink")                                                                       |
 | 252 | 2017年2月21日  | [SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")                                                                  |
 | 253 | 2017年2月28日  | [K.A.R.D](https://zh.wikipedia.org/wiki/K.A.R.D "wikilink")                                                          |
@@ -248,7 +248,7 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 | 260 | 2017年4月18日  | [Dreamcatcher](../Page/Dreamcatcher.md "wikilink")                                                                   |
 | 261 | 2017年4月25日  | [K.A.R.D](https://zh.wikipedia.org/wiki/K.A.R.D "wikilink")                                                          |
 | 262 | 2017年5月2日   | [Junggigo](https://zh.wikipedia.org/wiki/Junggigo "wikilink")                                                        |
-| 263 | 2017年5月9日   | [BOYS24](https://zh.wikipedia.org/wiki/BOYS24 "wikilink")（UNIT BLACK）                                                |
+| 263 | 2017年5月9日   | [BOYS24](../Page/BOYS24.md "wikilink")（UNIT BLACK）                                                                   |
 | 264 | 2017年5月16日  | [Snuper](../Page/Snuper.md "wikilink")                                                                               |
 | 265 | 2017年5月23日  | [BONUSbaby](../Page/BONUSbaby.md "wikilink")                                                                         |
 | 266 | 2017年5月30日  | [KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")                                                                  |
@@ -265,19 +265,19 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 | 277 | 2017年8月15日  | [金Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink")                                                          |
 | 278 | 2017年8月22日  | [ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")                                                                  |
 | 279 | 2017年8月29日  | [Weki Meki](../Page/Weki_Meki.md "wikilink")                                                                         |
-| 280 | 2017年9月5日   | [MXM](https://zh.wikipedia.org/wiki/MXM_\(男子音樂組合\) "wikilink")                                                       |
+| 280 | 2017年9月5日   | [MXM](../Page/MXM_\(男子音樂組合\).md "wikilink")                                                                          |
 | 281 | 2017年9月12日  | [B.A.P](../Page/B.A.P.md "wikilink")                                                                                 |
 | 282 | 2017年9月19日  | [鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")                                                                  |
-| 283 | 2017年9月26日  | [Golden Child](https://zh.wikipedia.org/wiki/Golden_Child "wikilink")                                                |
+| 283 | 2017年9月26日  | [Golden Child](../Page/Golden_Child.md "wikilink")                                                                   |
 | 284 | 2017年10月3日  | （中秋节特辑）                                                                                                              |
 | 285 | 2017年10月10日 | [APRIL](https://zh.wikipedia.org/wiki/APRIL "wikilink")                                                              |
-| 286 | 2017年10月17日 | [JBJ](https://zh.wikipedia.org/wiki/JBJ "wikilink")                                                                  |
+| 286 | 2017年10月17日 | [JBJ](../Page/JBJ.md "wikilink")                                                                                     |
 | 287 | 2017年10月24日 | [BTOB](../Page/BTOB.md "wikilink")                                                                                   |
-| 288 | 2017年10月31日 | [炯燮x義雄](https://zh.wikipedia.org/wiki/炯燮x義雄 "wikilink")                                                              |
-| 289 | 2017年11月7日  | [TRCNG](https://zh.wikipedia.org/wiki/TRCNG "wikilink")                                                              |
+| 288 | 2017年10月31日 | [炯燮x義雄](../Page/炯燮x義雄.md "wikilink")                                                                                 |
+| 289 | 2017年11月7日  | [TRCNG](../Page/TRCNG.md "wikilink")                                                                                 |
 | 290 | 2017年11月14日 | [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")                                                        |
 | 291 | 2017年11月21日 | [ASTRO](https://zh.wikipedia.org/wiki/ASTRO "wikilink")                                                              |
-| 292 | 2017年11月28日 | [IN2IT](https://zh.wikipedia.org/wiki/IN2IT "wikilink")                                                              |
+| 292 | 2017年11月28日 | [IN2IT](../Page/IN2IT.md "wikilink")                                                                                 |
 | 293 | 2017年12月5日  | [KARD](../Page/KARD.md "wikilink")                                                                                   |
 | 294 | 2017年12月12日 | [THE BOYZ](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")                                                        |
 | 295 | 2017年12月19日 | [DAY6](../Page/DAY6.md "wikilink")                                                                                   |
@@ -313,12 +313,12 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 <tr class="even">
 <td><p>300</p></td>
 <td><p>2018年1月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Eric_Nam" title="wikilink">Eric Nam</a></p></td>
+<td><p><a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>301</p></td>
 <td><p>2018年1月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/JBJ" title="wikilink">JBJ</a></p></td>
+<td><p><a href="../Page/JBJ.md" title="wikilink">JBJ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>310</p></td>
@@ -358,7 +358,7 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 <tr class="odd">
 <td><p>317</p></td>
 <td><p>2018年5月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/(G)I-DLE" title="wikilink">(G)I-DLE</a></p></td>
+<td><p><a href="../Page/(G)I-DLE.md" title="wikilink">(G)I-DLE</a></p></td>
 </tr>
 <tr class="even">
 <td><p>318</p></td>
@@ -423,7 +423,7 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 <tr class="even">
 <td><p>330</p></td>
 <td><p>2018年8月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MXM_(男子音樂組合)" title="wikilink">MXM</a></p></td>
+<td><p><a href="../Page/MXM_(男子音樂組合).md" title="wikilink">MXM</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>331</p></td>
@@ -483,7 +483,7 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 <tr class="even">
 <td><p>342</p></td>
 <td><p>2018年11月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Golden_Child" title="wikilink">Golden Child</a></p></td>
+<td><p><a href="../Page/Golden_Child.md" title="wikilink">Golden Child</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>343</p></td>
@@ -513,7 +513,7 @@ TV的綜藝節目](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")，現由
 <tr class="even">
 <td><p>348</p></td>
 <td><p>2018年12月25日</p></td>
-<td><p><a href="../Page/Felix_(Stray_Kids).md" title="wikilink">Felix</a>(<a href="https://zh.wikipedia.org/wiki/Stray_Kids" title="wikilink">Stray Kids</a>)、 WOODZ(<a href="../Page/UNIQ.md" title="wikilink">UNIQ</a>)、佑星(<a href="https://zh.wikipedia.org/wiki/The_Rose_(樂團)" title="wikilink">The Rose</a>)</p></td>
+<td><p><a href="../Page/Felix_(Stray_Kids).md" title="wikilink">Felix</a>(<a href="https://zh.wikipedia.org/wiki/Stray_Kids" title="wikilink">Stray Kids</a>)、 WOODZ(<a href="../Page/UNIQ.md" title="wikilink">UNIQ</a>)、佑星(<a href="../Page/The_Rose_(樂團).md" title="wikilink">The Rose</a>)</p></td>
 </tr>
 </tbody>
 </table>

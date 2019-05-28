@@ -85,7 +85,7 @@
 </tr>
 <tr class="even">
 <td><p>増村泰造</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/田中哲司" title="wikilink">田中哲司</a></p></td>
+<td><p><a href="../Page/田中哲司.md" title="wikilink">田中哲司</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -135,7 +135,7 @@
 </tr>
 <tr class="even">
 <td><p>CHERYL</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Leola" title="wikilink">Leola</a></p></td>
+<td><p><a href="../Page/Leola.md" title="wikilink">Leola</a></p></td>
 <td></td>
 </tr>
 </tbody>

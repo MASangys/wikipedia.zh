@@ -5,7 +5,7 @@ SmackDown女子冠軍創建於2016年7月23日，並於SmackDown Live節目上�
 
 ## 歷屆冠軍
 
-2016年[爆裂震撼](https://zh.wikipedia.org/wiki/爆裂震撼 "wikilink")，在6人大戰中脫穎而出，成為首任SmackDown女子冠軍，然而12周後的[桌子、梯子、椅子女子冠軍桌子戰](../Page/桌子、梯子、椅子.md "wikilink")，[阿歷薩·布利斯將Becky](https://zh.wikipedia.org/wiki/阿歷薩·布利斯 "wikilink")
+2016年[爆裂震撼](https://zh.wikipedia.org/wiki/爆裂震撼 "wikilink")，在6人大戰中脫穎而出，成為首任SmackDown女子冠軍，然而12周後的[桌子、梯子、椅子女子冠軍桌子戰](../Page/桌子、梯子、椅子.md "wikilink")，[阿歷薩·布利斯將Becky](../Page/阿歷薩·布利斯.md "wikilink")
 Lynch爆桌，成為第2任的女子冠軍。
 
 2017年[行刑室鐵籠戰](../Page/行刑室鐵籠戰.md "wikilink")，擊敗阿歷薩·布利斯，不但成為第3任女子冠軍，同時也是她出道8年來的第一次。然而因為她的受傷，必須將好不容易贏來的腰帶拱手讓人。

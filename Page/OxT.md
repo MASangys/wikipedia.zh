@@ -54,7 +54,7 @@
     DEAD」主題曲，收錄在第一張專輯「Hello New
     World」。\[8\]。
   - 9月12日發行第一張專輯「Hello New World」\[9\]。
-  - 11月7日發行第九張單曲「UNION」，為[SSSS.GRIDMAN片頭曲](https://zh.wikipedia.org/wiki/SSSS.GRIDMAN "wikilink")\[10\]。
+  - 11月7日發行第九張單曲「UNION」，為[SSSS.GRIDMAN片頭曲](../Page/SSSS.GRIDMAN.md "wikilink")\[10\]。
 
 <!-- end list -->
 
@@ -225,23 +225,23 @@ ZMCZ−12410（初回限定盤）</p></td>
 
 ## 音樂合作
 
-| 樂曲                      | 音樂合作一覽                                                                         | 時期                                                                                                                   |
-| ----------------------- | ------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
-| Tom-H@ck featuring 大石昌良 |                                                                                |                                                                                                                      |
-| '''Go EXCEED            | '''                                                                            | [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[鑽石王牌](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")』第一、第二片頭曲 |
-| **Perfect HERO**        | 2014年                                                                          |                                                                                                                      |
-| OxT                     |                                                                                |                                                                                                                      |
-| '''KIMERO               | '''                                                                            | 電視動畫『鑽石王牌 第二季』第四片尾曲                                                                                                  |
-| **Clattanoia**          | 電視動畫『[OVERLORD](../Page/OVERLORD_\(小說\).md "wikilink")』片頭曲                     |                                                                                                                      |
-| **Grateful Story**      | [舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink") 鑽石王牌的The LiveⅢ 主題歌         |                                                                                                                      |
-| **BLOOM OF YOUTH**      | 電視動畫『鑽石王牌 第二季』第六片尾曲                                                            |                                                                                                                      |
-| **STRIDER'S HIGH**      | 電視動畫『[疾走王子](../Page/疾走王子.md "wikilink")』片頭曲                                    | 2016年                                                                                                                |
-| **One Hand Message**    | 電視動畫『[Hand Shakers](../Page/Hand_Shakers.md "wikilink")』片頭曲                    | 2017年                                                                                                                |
-| **Laughter Slaughter**  | 『[劇場版總集篇](https://zh.wikipedia.org/wiki/劇場版 "wikilink") OVERLORD 漆黑的英雄』主題曲     |                                                                                                                      |
-| **GO CRY GO**           | 電視動畫『OVERLORDⅡ』片頭曲                                                             | 2018年                                                                                                                |
-| **Silent Solitude**     | 電視動畫『OVERLORDⅢ』片尾曲                                                             |                                                                                                                      |
-| **UNION**               | 電視動畫『[SSSS.GRIDMAN](https://zh.wikipedia.org/wiki/SSSS.GRIDMAN "wikilink")』片頭曲 |                                                                                                                      |
-| **ゴールデンアフタースクール**       | 電視動畫『鑽石王牌 第三季』片尾曲                                                              | 2019年                                                                                                                |
+| 樂曲                      | 音樂合作一覽                                                                     | 時期                                                                                                                   |
+| ----------------------- | -------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| Tom-H@ck featuring 大石昌良 |                                                                            |                                                                                                                      |
+| '''Go EXCEED            | '''                                                                        | [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[鑽石王牌](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")』第一、第二片頭曲 |
+| **Perfect HERO**        | 2014年                                                                      |                                                                                                                      |
+| OxT                     |                                                                            |                                                                                                                      |
+| '''KIMERO               | '''                                                                        | 電視動畫『鑽石王牌 第二季』第四片尾曲                                                                                                  |
+| **Clattanoia**          | 電視動畫『[OVERLORD](../Page/OVERLORD_\(小說\).md "wikilink")』片頭曲                 |                                                                                                                      |
+| **Grateful Story**      | [舞台劇](https://zh.wikipedia.org/wiki/舞台劇 "wikilink") 鑽石王牌的The LiveⅢ 主題歌     |                                                                                                                      |
+| **BLOOM OF YOUTH**      | 電視動畫『鑽石王牌 第二季』第六片尾曲                                                        |                                                                                                                      |
+| **STRIDER'S HIGH**      | 電視動畫『[疾走王子](../Page/疾走王子.md "wikilink")』片頭曲                                | 2016年                                                                                                                |
+| **One Hand Message**    | 電視動畫『[Hand Shakers](../Page/Hand_Shakers.md "wikilink")』片頭曲                | 2017年                                                                                                                |
+| **Laughter Slaughter**  | 『[劇場版總集篇](https://zh.wikipedia.org/wiki/劇場版 "wikilink") OVERLORD 漆黑的英雄』主題曲 |                                                                                                                      |
+| **GO CRY GO**           | 電視動畫『OVERLORDⅡ』片頭曲                                                         | 2018年                                                                                                                |
+| **Silent Solitude**     | 電視動畫『OVERLORDⅢ』片尾曲                                                         |                                                                                                                      |
+| **UNION**               | 電視動畫『[SSSS.GRIDMAN](../Page/SSSS.GRIDMAN.md "wikilink")』片頭曲                |                                                                                                                      |
+| **ゴールデンアフタースクール**       | 電視動畫『鑽石王牌 第三季』片尾曲                                                          | 2019年                                                                                                                |
 
 ## 註解
 

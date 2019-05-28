@@ -2,7 +2,7 @@
 **archive.is**（又名為**archive.today**）是一個私人資助的网页存档網站，\[1\]\[2\]
 資料中心位於歐洲法國的[北部-加来海峡](../Page/北部-加来海峡.md "wikilink")。\[3\]
 這個檔案館使用[Apache
-Hadoop與](../Page/Apache_Hadoop.md "wikilink")軟體。它可以一次取回一個類似於[WebCite](https://zh.wikipedia.org/wiki/WebCite "wikilink")\[4\]的小於50MB的頁面，但收錄[Google地圖與](https://zh.wikipedia.org/wiki/Google地圖 "wikilink")[Twitter](../Page/Twitter.md "wikilink")。<span class="cx-segment" data-segmentid="69"></span>
+Hadoop與](../Page/Apache_Hadoop.md "wikilink")軟體。它可以一次取回一個類似於[WebCite](../Page/WebCite.md "wikilink")\[4\]的小於50MB的頁面，但收錄[Google地圖與](https://zh.wikipedia.org/wiki/Google地圖 "wikilink")[Twitter](../Page/Twitter.md "wikilink")。<span class="cx-segment" data-segmentid="69"></span>
 
 archive.is会根据版權所有者的合乎[數位千年版權法案](https://zh.wikipedia.org/wiki/數位千年版權法案 "wikilink")（DMCA）的撤除請求移除已存檔的頁面。<ref>["How
 can I delete an archived
@@ -58,10 +58,10 @@ Machine*）的主动性[網路蜘蛛](https://zh.wikipedia.org/wiki/網路蜘蛛
 
   -
   -
-  - [WebCite](https://zh.wikipedia.org/wiki/WebCite "wikilink")
+  - [WebCite](../Page/WebCite.md "wikilink")
 
   -
-  - [网站时光机](https://zh.wikipedia.org/wiki/网站时光机 "wikilink")
+  - [网站时光机](../Page/网站时光机.md "wikilink")
 
 ## 參考文獻
 

@@ -1,5 +1,5 @@
 「**\#1090 〜Thousand
-Dreams〜**」是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")[B'z的](../Page/B'z.md "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[松本孝弘於](../Page/松本孝弘.md "wikilink")[1992年](../Page/1992年.md "wikilink")[3月18日發行的第](../Page/3月18日.md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
+Dreams〜**」是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z的](../Page/B'z.md "wikilink")[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")[松本孝弘於](../Page/松本孝弘.md "wikilink")[1992年](../Page/1992年.md "wikilink")[3月18日發行的第](../Page/3月18日.md "wikilink")2張[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")。
 
 ## 概要
 
@@ -37,7 +37,7 @@ Dreams〜**」是[日本](../Page/日本.md "wikilink")[音樂組合](https://zh
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink")：[吉他](../Page/吉他.md "wikilink")、全曲[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")・[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")
 
-  - [明石昌夫](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")：、全曲編曲
+  - [明石昌夫](../Page/明石昌夫.md "wikilink")：、全曲編曲
 
   - [B+U+M](https://zh.wikipedia.org/wiki/B'z_#B+U+M "wikilink")
 

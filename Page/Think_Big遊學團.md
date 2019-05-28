@@ -140,7 +140,7 @@ Big遊學團**》（）是由[香港](../Page/香港.md "wikilink")[電視廣播
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李雯希" title="wikilink">李雯希</a>（Simon）</p></td>
+<td><p><a href="../Page/李雯希.md" title="wikilink">李雯希</a>（Simon）</p></td>
 <td><p>雯希</p></td>
 <td></td>
 <td></td>
@@ -158,7 +158,7 @@ Big遊學團**》（）是由[香港](../Page/香港.md "wikilink")[電視廣播
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鍾君揚" title="wikilink">鍾君揚</a>（Freeyon）</p></td>
+<td><p><a href="../Page/鍾君揚.md" title="wikilink">鍾君揚</a>（Freeyon）</p></td>
 <td><p>Freeyon</p></td>
 <td><p>2017年4月8日</p></td>
 <td></td>
@@ -170,13 +170,13 @@ Big遊學團**》（）是由[香港](../Page/香港.md "wikilink")[電視廣播
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/單文柔" title="wikilink">單文柔</a>（Phoebe）</p></td>
+<td><p><a href="../Page/單文柔.md" title="wikilink">單文柔</a>（Phoebe）</p></td>
 <td><p>Phoebe</p></td>
 <td><p>2017年5月27日</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鍾晴_(藝人)" title="wikilink">鍾晴</a>（Karlie）</p></td>
+<td><p><a href="../Page/鍾晴_(藝人).md" title="wikilink">鍾晴</a>（Karlie）</p></td>
 <td><p>Karlie</p></td>
 <td><p>2017年6月3日</p></td>
 <td></td>

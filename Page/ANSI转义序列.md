@@ -3,7 +3,7 @@
 ANSI序列是在二十世纪七十年代引入的标准，用以取代特定于终端供应商的序列，并在二十世纪八十年代早期开始在计算机设备市场上广泛使用。与早期缺少光标移动功能的系统相比，新生的[电子公告板系统使用ANSI序列改进其显示](https://zh.wikipedia.org/wiki/电子公告板系统 "wikilink")。正是因为这个原因，ANSI序列变成了所有制造商共同采用的标准。
 
 在21世纪，尽管硬件文本终端已经越来越少了，但ANSI标准依然存在，因为大多数终端模拟器会对部分ANSI转义序列进行解释。一个值得注意的例外是，在微软[Windows
-10更新TH](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")2之前，[Windows操作系统的](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")[Win32控制台是不支持ANSI转义序列的](../Page/Win32控制台.md "wikilink")。
+10更新TH](../Page/Windows_10.md "wikilink")2之前，[Windows操作系统的](https://zh.wikipedia.org/wiki/Windows操作系统 "wikilink")[Win32控制台是不支持ANSI转义序列的](../Page/Win32控制台.md "wikilink")。
 
 ## 历史
 
@@ -61,8 +61,7 @@ Me](../Page/Windows_Me.md "wikilink")，在NT衍生系统中用于在下执行�
 Software的TCC（以前的4NT）、Michael J. Mefford的ANSI.COM、Jason
 Hood的ANSICON\[10\]和Maximus5的ConEmu。有一个[Python软件包](../Page/Python.md "wikilink")\[11\]在内部解释了打印文本中的ANSI转义序列，将它们转换为系统调用来操纵颜色和光标位置，以便更容易地将使用ANSI的Python代码移植到Windows。
 
-2016年，在[Windows
-10发布](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")“Threshold
+2016年，在[Windows 10发布](../Page/Windows_10.md "wikilink")“Threshold
 2”\[12\]时，微软开始在控制台应用程序中支持ANSI转义序列，使得从Unix移植软件或者远程访问Unix变得更容易。
 
 ## 转义序列

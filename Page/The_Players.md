@@ -15,14 +15,13 @@ Players**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md 
 
 ## 獎項
 
-  - [2016勁歌金曲優秀選第二回](https://zh.wikipedia.org/wiki/2016年勁歌金曲優秀選第二回得獎名單 "wikilink")
-    — 得獎歌曲《沒有你，我甚麼都不是》
-  - [YAHOO\!人氣大獎2016
-    頒獎典禮](https://zh.wikipedia.org/wiki/2016年度YAHOO!搜尋人氣大獎得獎名單 "wikilink")
+  - [2016勁歌金曲優秀選第二回](../Page/2016年勁歌金曲優秀選第二回得獎名單.md "wikilink") —
+    得獎歌曲《沒有你，我甚麼都不是》
+  - [YAHOO\!人氣大獎2016 頒獎典禮](../Page/2016年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")
     — 人氣歌曲 《沒有你，我甚麼都不是》
   - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink") — 勁爆歌曲《上集大結局》
-  - [2016年度勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/2016年度勁歌金曲得獎名單 "wikilink")
-    — 勁歌金曲獎《沒有你，我甚麼都不是》
+  - [2016年度勁歌金曲頒獎典禮](../Page/2016年度勁歌金曲得獎名單.md "wikilink") —
+    勁歌金曲獎《沒有你，我甚麼都不是》
 
 [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
 [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

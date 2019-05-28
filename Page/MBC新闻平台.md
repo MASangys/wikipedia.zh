@@ -18,7 +18,7 @@
 
 ## 播放时间
 
-  - [MBC-TV](https://zh.wikipedia.org/wiki/MBC_TV "wikilink")：周一至周四19:30-20:55，周五19:30-20:30，周末19:55-20:45。
+  - [MBC-TV](../Page/MBC_TV.md "wikilink")：周一至周四19:30-20:55，周五19:30-20:30，周末19:55-20:45。
 
 在2019年3月18日前，[MBC标准FM会在](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink")20:00-20:30转播该节目，现已取消安排。
 

@@ -163,7 +163,7 @@ Mother**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 <td></td>
 <td><p>宋志愛</p></td>
 <td><p>彩蓮的媽媽。她是一個引人注目的漂亮媽媽，擁有優雅的聲線及外貌。但是她從貧窮中成長，曾經做過酒店小姐的工作。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/劉曉樺" title="wikilink">劉曉樺</a></p></td>
+<td><p><a href="../Page/劉曉樺.md" title="wikilink">劉曉樺</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/金秉玉" title="wikilink">金秉玉</a></p></td>
@@ -416,7 +416,7 @@ Mother**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 **週六時段劇集**
 
   - [MBC](../Page/文化廣播公司.md "wikilink")
-    [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[入贅丈夫吳作斗](https://zh.wikipedia.org/wiki/入贅丈夫吳作斗 "wikilink")》、《[離別已別離](https://zh.wikipedia.org/wiki/離別已別離 "wikilink")》
+    [週末特別計劃連續劇](../Page/MBC週末特別計劃連續劇.md "wikilink")：《[入贅丈夫吳作斗](https://zh.wikipedia.org/wiki/入贅丈夫吳作斗 "wikilink")》、《[離別已別離](../Page/離別已別離.md "wikilink")》
 
 **週末時段劇集**
 
@@ -425,7 +425,7 @@ Mother**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
   - [tvN](../Page/TVN.md "wikilink")
     [週末連續劇](../Page/TvN週末連續劇.md "wikilink")：《[無法律師](https://zh.wikipedia.org/wiki/無法律師 "wikilink")》、《[陽光先生](../Page/陽光先生.md "wikilink")》
   - [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink")
-    [週末連續劇](https://zh.wikipedia.org/wiki/OCN週末連續劇 "wikilink")：《[Mistresses](https://zh.wikipedia.org/wiki/Mistresses "wikilink")》、《[Life
+    [週末連續劇](https://zh.wikipedia.org/wiki/OCN週末連續劇 "wikilink")：《[Mistresses](../Page/Mistresses.md "wikilink")》、《[Life
     on
     Mars](https://zh.wikipedia.org/wiki/Life_on_Mars_\(韓國電視劇\) "wikilink")》
 

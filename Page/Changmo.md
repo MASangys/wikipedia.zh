@@ -316,7 +316,7 @@ Musik。\[3\]
 <td><p>"I'm All Ears" (내 귀는 열려; 我的耳朵開着)</p></td>
 <td><p>2017</p></td>
 <td><p>—</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/Voice" title="wikilink">Voice</a></em> OST</p></td>
+<td><p><em><a href="../Page/Voice.md" title="wikilink">Voice</a></em> OST</p></td>
 <td></td>
 </tr>
 <tr class="odd">

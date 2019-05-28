@@ -29,7 +29,7 @@
     音響監督：[龜山俊樹](../Page/龜山俊樹.md "wikilink")
     音樂：[中條美沙](https://zh.wikipedia.org/wiki/中條美沙 "wikilink")
     動畫製作：[Seven Arcs
-    Pictures](https://zh.wikipedia.org/wiki/Seven_Arcs_Pictures "wikilink")
+    Pictures](../Page/Seven_Arcs_Pictures.md "wikilink")
     配給：[松竹](../Page/松竹.md "wikilink")
     製作：NANOHA Reflection PROJECT
 

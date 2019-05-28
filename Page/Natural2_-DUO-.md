@@ -38,7 +38,7 @@ Boy Advance和](../Page/Game_Boy_Advance.md "wikilink")[PlayStation
 
 ## OVA
 
-同名OVA是由[Arms製作的成人動畫](https://zh.wikipedia.org/wiki/Arms "wikilink")，由GREEN
+同名OVA是由[Arms製作的成人動畫](../Page/Arms.md "wikilink")，由GREEN
 BUNNY發售共四集，2012年10月19日發售合集共兩集。\[4\]
 
   - 集數列表
@@ -64,7 +64,7 @@ BUNNY發售共四集，2012年10月19日發售合集共兩集。\[4\]
   - 音樂：アン・フー
   - 音響監督：黛計
   - 製作人：雅太郎、越中おさむ
-  - 動畫製作：[Arms](https://zh.wikipedia.org/wiki/Arms "wikilink")
+  - 動畫製作：[Arms](../Page/Arms.md "wikilink")
   - 動畫製作協力：スタジオジャイアンツ、スタジオ九魔、韓鎮アニメーション
   - 製作：GREEN BUNNY
 

@@ -1,4 +1,4 @@
-**百老匯車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT阿斯托利亞線的一個慢車](https://zh.wikipedia.org/wiki/BMT阿斯托利亞線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")[阿斯托利亞百老匯](https://zh.wikipedia.org/wiki/阿斯托里亞_\(皇后區\) "wikilink")31街上方的一個慢車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，設有[N線](../Page/紐約地鐵N線.md "wikilink")（任何時候停站）、[W線](../Page/紐約地鐵W線.md "wikilink")（僅平日停站）列車服務。
+**百老匯車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT阿斯托利亞線的一個慢車](https://zh.wikipedia.org/wiki/BMT阿斯托利亞線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")[阿斯托利亞百老匯](../Page/阿斯托里亞_\(皇后區\).md "wikilink")31街上方的一個慢車[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，設有[N線](../Page/紐約地鐵N線.md "wikilink")（任何時候停站）、[W線](../Page/紐約地鐵W線.md "wikilink")（僅平日停站）列車服務。
 
 ## 車站結構
 
@@ -20,7 +20,7 @@
 </tr>
 <tr class="even">
 <td><p><span style="background-color:#{{NYCS color|yellow}}"><strong>北行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-N.svg" title="fig:纽约地铁N线">纽约地铁N线</a> （平日<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-W.svg" title="fig:纽约地铁W线">纽约地铁W线</a>） 往<a href="https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_(BMT阿斯托利亞線)" title="wikilink">阿斯托利亞-迪特馬斯林蔭路</a><small>（<a href="https://zh.wikipedia.org/wiki/30大道車站_(BMT阿斯托利亞線)" title="wikilink">30大道</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-N.svg" title="fig:纽约地铁N线">纽约地铁N线</a> （平日<a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-W.svg" title="fig:纽约地铁W线">纽约地铁W线</a>） 往<a href="https://zh.wikipedia.org/wiki/阿斯托利亞-迪特馬斯林蔭路車站_(BMT阿斯托利亞線)" title="wikilink">阿斯托利亞-迪特馬斯林蔭路</a><small>（<a href="../Page/30大道車站_(BMT阿斯托利亞線).md" title="wikilink">30大道</a>）</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small><a href="../Page/側式月台.md" title="wikilink">側式月台</a>，右側開門</small></p></td>

@@ -6,7 +6,7 @@ Company在2013年更改，成立在2009年5月，由藝人[宋承憲創立的](.
 ## 旗下藝人
 
   - [宋承憲](../Page/宋承憲.md "wikilink")
-  - [李哲民](https://zh.wikipedia.org/wiki/李哲民_\(演員\) "wikilink")
+  - [李哲民](../Page/李哲民_\(演員\).md "wikilink")
   - [崔星俊](../Page/崔星俊.md "wikilink")
   - [玄升玟](https://zh.wikipedia.org/wiki/玄升玟 "wikilink")
   - [鄭允](https://zh.wikipedia.org/wiki/鄭允 "wikilink")

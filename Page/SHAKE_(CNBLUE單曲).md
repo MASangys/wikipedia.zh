@@ -3,7 +3,7 @@ Reinstein合作作曲，並在2017年5月10日以四個不同版本推出\[1\]�
 
 ## 背景
 
-2017年3月9日，[FNC娛樂公布CNBLUE將發行新日語單曲](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")\[2\]，同時公開單曲詳細資訊，包含三個初回限定盤和通常盤\[3\]，之後會在5月到6月舉行日本巡迴演唱會《CNBLUE
+2017年3月9日，[FNC娛樂公布CNBLUE將發行新日語單曲](../Page/FNC娛樂.md "wikilink")\[2\]，同時公開單曲詳細資訊，包含三個初回限定盤和通常盤\[3\]，之後會在5月到6月舉行日本巡迴演唱會《CNBLUE
 SPRING LIVE 2017 ～ Shake！Shake！～》宣傳單曲\[4\]。
 
 到3月13日，公開封面\[5\]；4月19日，CNBLUE日本官方[Youtube頻道公開](https://zh.wikipedia.org/wiki/Youtube "wikilink")《SHAKE》的音樂錄影帶\[6\]。

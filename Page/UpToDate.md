@@ -1,6 +1,5 @@
-**UpToDate,
-Inc.**（bip）是[威科集團的](https://zh.wikipedia.org/wiki/威科集團 "wikilink")
-Wolters Kluwer
+**UpToDate, Inc.**（bip）是[威科集團的](../Page/威科集團.md "wikilink") Wolters
+Kluwer
 Health部門下的公司，其主要產品是**UpToDate**，是可以提供醫療資訊的軟體系統。也在中國大陸推出了**UpToDate
 臨床顧問**服務\[1\]。
 

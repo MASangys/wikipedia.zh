@@ -77,7 +77,7 @@ II BØY](../Page/BØY_\(漫畫\).md "wikilink")》的主題歌曲。
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>1997年5月21日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/TIGHT-BREAK" title="wikilink">TIGHT-BREAK</a></strong></p></td>
+<td><p><strong><a href="../Page/TIGHT-BREAK.md" title="wikilink">TIGHT-BREAK</a></strong></p></td>
 <td><p>WORDS OF FREE</p></td>
 <td><p>東京電視台電視動畫「<a href="../Page/BØY_(漫畫).md" title="wikilink">HARELUYA II BØY</a>」片頭曲&amp;片尾曲</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/STARCHILD" title="wikilink">STARCHILD</a> SELECTION音樂篇 TV作品集（#1、2）</p></td>

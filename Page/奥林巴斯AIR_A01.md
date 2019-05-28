@@ -65,7 +65,7 @@ OPC相关app
 <tr class="odd">
 <td><p>Ver.1.2</p></td>
 <td><p>2016-01-28</p></td>
-<td><p>* 兼容<a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a><br />
+<td><p>* 兼容<a href="../Page/Windows_10.md" title="wikilink">Windows 10</a><br />
 * 增加兼容带镜头防抖功能的奥林巴斯镜头</p></td>
 </tr>
 <tr class="even">

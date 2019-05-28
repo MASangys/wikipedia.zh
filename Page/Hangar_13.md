@@ -4,13 +4,13 @@ Games于](../Page/2K_Games.md "wikilink")2014年12月在[美国](../Page/美国.
 ## 简史
 
 2014年12月4日，[2K Games宣布成立新游戏工作室Hangar](../Page/2K_Games.md "wikilink")
-13，由行业老将、前[LucasArts](https://zh.wikipedia.org/wiki/LucasArts "wikilink")[创意总监](https://zh.wikipedia.org/wiki/创意总监 "wikilink")领军\[1\]
+13，由行业老将、前[LucasArts](../Page/LucasArts.md "wikilink")[创意总监](https://zh.wikipedia.org/wiki/创意总监 "wikilink")领军\[1\]
 。布莱克曼告诉GamesBeat，工作室将创作[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[Xbox
 360和](../Page/Xbox_360.md "wikilink")[PC平台游戏](../Page/个人电脑.md "wikilink")\[2\]。
 
 处女作《[黑手党3](https://zh.wikipedia.org/wiki/黑手党3 "wikilink")》于2015年7月28日公布先导预告，并于2015年8月5日在[Gamescom
-2015正式公布剧场版预告](https://zh.wikipedia.org/wiki/Gamescom "wikilink")\[3\]。[2K
+2015正式公布剧场版预告](../Page/Gamescom.md "wikilink")\[3\]。[2K
 Czech配合游戏开发](../Page/2K_Czech.md "wikilink")\[4\]。游戏于2016年10月7日登陆[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation
 4和](../Page/PlayStation_4.md "wikilink")[Xbox

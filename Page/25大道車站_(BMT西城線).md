@@ -1,4 +1,4 @@
-**25大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT西城線的一個慢車](https://zh.wikipedia.org/wiki/BMT西城線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")25大道及86街交界，位於、及交界，設有[D線](../Page/紐約地鐵D線.md "wikilink")（任何時候停站）列車服務。
+**25大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT西城線的一個慢車](../Page/BMT西城線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[布魯克林](https://zh.wikipedia.org/wiki/布魯克林 "wikilink")25大道及86街交界，位於、及交界，設有[D線](../Page/紐約地鐵D線.md "wikilink")（任何時候停站）列車服務。
 
 ## 車站結構
 
@@ -19,7 +19,7 @@
 </tr>
 <tr class="even">
 <td><p><span style="color:#{{NYCS color|orange}}"><strong>南行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-D.svg" title="fig:纽约地铁D线">纽约地铁D线</a> 經西城往<a href="https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站" title="wikilink">康尼島-斯提威爾大道</a><small>（<a href="https://zh.wikipedia.org/wiki/海灣50街車站_(BMT西城線)" title="wikilink">海灣50街</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-D.svg" title="fig:纽约地铁D线">纽约地铁D线</a> 經西城往<a href="https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站" title="wikilink">康尼島-斯提威爾大道</a><small>（<a href="../Page/海灣50街車站_(BMT西城線).md" title="wikilink">海灣50街</a>）</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small><a href="../Page/側式月台.md" title="wikilink">側式月台</a>，右側開門</small></p></td>

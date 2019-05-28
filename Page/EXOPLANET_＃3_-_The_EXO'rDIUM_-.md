@@ -58,7 +58,7 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 <tbody>
 <tr class="odd">
 <td><p>2016年7月22日（加場）[6]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
 <td><p>84,696名</p></td>
@@ -305,12 +305,12 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 <td><p>2017年4月28日</p></td>
 <td><p>rowspan| <a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td><p>rowspan| </p></td>
-<td><p>rowspan| <a href="https://zh.wikipedia.org/wiki/論壇體育館" title="wikilink">論壇體育館</a></p></td>
+<td><p>rowspan| <a href="../Page/論壇體育館.md" title="wikilink">論壇體育館</a></p></td>
 <td><p>rowspan| 8,668名</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年5月27日 （安可）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="../Page/首爾奧林匹克主競技場.md" title="wikilink">蠶室奧林匹克主競技場</a></p></td>
 <td><p>70,000名[7]</p></td>
@@ -342,7 +342,7 @@ Lay由於個人活動關係，只出席2016年7月22-24、29-31日首爾開場�
 
 <!-- end list -->
 
-  - [EXO](../Page/EXO.md "wikilink")（[Xiumin](https://zh.wikipedia.org/wiki/金珉錫_\(歌手\) "wikilink")、[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Lay](../Page/張藝興.md "wikilink")（缺席名古屋場、吉隆坡場、新加坡場、美國場、墨西哥場、首爾安可場）、[Baekhyun](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")、[Chanyeol](https://zh.wikipedia.org/wiki/朴灿烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鐘仁 "wikilink")、[Sehun](https://zh.wikipedia.org/wiki/Sehun "wikilink")）
+  - [EXO](../Page/EXO.md "wikilink")（[Xiumin](https://zh.wikipedia.org/wiki/金珉錫_\(歌手\) "wikilink")、[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Lay](../Page/張藝興.md "wikilink")（缺席名古屋場、吉隆坡場、新加坡場、美國場、墨西哥場、首爾安可場）、[Baekhyun](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")、[Chanyeol](https://zh.wikipedia.org/wiki/朴灿烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鐘仁 "wikilink")、[Sehun](../Page/Sehun.md "wikilink")）
 
 <!-- end list -->
 

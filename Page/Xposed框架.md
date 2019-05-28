@@ -4,7 +4,7 @@ framework）是一套[開放原始碼的](https://zh.wikipedia.org/wiki/開放�
 ## 歷史
 
 最初的Xposed框架，需要通過[Dalvik虛擬機載入框架的檔案運行](https://zh.wikipedia.org/wiki/Dalvik虛擬機器 "wikilink")，也即在Android應用程式一經運行必然會載入Xposed服務框架，這是得以不修改APK文件來修改應用程式的前提，因此框架是需要針對該虛擬機而開發的，在[Android
-Lollipop開始改用](https://zh.wikipedia.org/wiki/Android_Lollipop "wikilink")[ART後Xposed的開發曾一度陷入停頓](https://zh.wikipedia.org/wiki/ART "wikilink")，據主要開發者Rovo89表示，支持ART相當於要將Xposed框架重寫一次。\[2\]
+Lollipop開始改用](../Page/Android_Lollipop.md "wikilink")[ART後Xposed的開發曾一度陷入停頓](https://zh.wikipedia.org/wiki/ART "wikilink")，據主要開發者Rovo89表示，支持ART相當於要將Xposed框架重寫一次。\[2\]
 
 2017年7月，abforce在GitHub上发布了支持Nougat的xposed，不过此发布需在编译ROM前集成在源码中而不是以前直接卡刷的形式。
 

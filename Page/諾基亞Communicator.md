@@ -21,7 +21,7 @@ Communicator](https://zh.wikipedia.org/wiki/諾基亞E90_Communicator "wikilink"
 <tbody>
 <tr class="odd">
 <td><p>1996</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/諾基亞9000_Communicator" title="wikilink">諾基亞9000 Communicator</a></p></td>
+<td><p><a href="../Page/諾基亞9000_Communicator.md" title="wikilink">諾基亞9000 Communicator</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/GEOS_(16位作業系統)" title="wikilink">GEOS</a> V3.0</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/英特爾" title="wikilink">英特爾</a><a href="https://zh.wikipedia.org/wiki/Intel_80386EX" title="wikilink">80386EX</a>，24 MHz</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/隨機存取記憶體" title="wikilink">RAM</a>：4 <a href="https://zh.wikipedia.org/wiki/百萬位元組" title="wikilink">MB</a> ( bytes)<br />

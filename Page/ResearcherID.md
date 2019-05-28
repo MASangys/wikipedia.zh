@@ -13,7 +13,7 @@ ResearcherID被批评为商业性和专有限制，\[2\]但也被称赞为“解
 
 ## 参见
 
-  - [國際標準名稱識別碼](https://zh.wikipedia.org/wiki/國際標準名稱識別碼 "wikilink")
+  - [國際標準名稱識別碼](../Page/國際標準名稱識別碼.md "wikilink")
   - [OpenID](../Page/OpenID.md "wikilink")
   - [ORCID](../Page/ORCID.md "wikilink")
   - [虚拟国际规范文档](../Page/虚拟国际规范文档.md "wikilink")

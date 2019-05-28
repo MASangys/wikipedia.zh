@@ -1,5 +1,5 @@
 ，是一支位於[東京都的日本足球會](../Page/東京都.md "wikilink")，現時在[關東足球聯賽甲級聯賽作賽](https://zh.wikipedia.org/wiki/關東足球聯賽 "wikilink")。同時，**FC
-Korea**創建了**在日朝鮮人聯合足球代表隊**加入了[非国际足联足球組織](https://zh.wikipedia.org/wiki/非国际足联足球 "wikilink")[独立足球协会联合会](https://zh.wikipedia.org/wiki/獨立足球協會聯合會 "wikilink")。
+Korea**創建了**在日朝鮮人聯合足球代表隊**加入了[非国际足联足球組織](https://zh.wikipedia.org/wiki/非国际足联足球 "wikilink")[独立足球协会联合会](../Page/獨立足球協會聯合會.md "wikilink")。
 
 ## 概要
 
@@ -55,7 +55,7 @@ Korea**。
 
   - [尹誠周](https://zh.wikipedia.org/wiki/尹誠周 "wikilink") (2012)
 
-  - [卞榮將](https://zh.wikipedia.org/wiki/卞榮將 "wikilink") (2013-2015)
+  - [卞榮將](../Page/卞榮將.md "wikilink") (2013-2015)
 
 ## 相關條目
 
@@ -70,7 +70,7 @@ Korea**。
   -
   -
   - [在日朝鮮人聯合足球代表隊](http://www.conifa.org/en/members/united-koreans-in-japan/)
-    來自 *[独立足球协会联合会](https://zh.wikipedia.org/wiki/獨立足球協會聯合會 "wikilink")*
+    來自 *[独立足球协会联合会](../Page/獨立足球協會聯合會.md "wikilink")*
 
 [Category:在日韓國-朝鮮人](https://zh.wikipedia.org/wiki/Category:在日韓國-朝鮮人 "wikilink")
 [Category:日本足球俱樂部](https://zh.wikipedia.org/wiki/Category:日本足球俱樂部 "wikilink")

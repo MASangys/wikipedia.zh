@@ -51,7 +51,7 @@ Rewind](https://zh.wikipedia.org/wiki/YouTube_Rewind_2018:_Everyone_Controls_Rew
 <tr class="odd">
 <td><p>3.</p></td>
 <td><p>"<a href="https://zh.wikipedia.org/wiki/It&#39;s_Everyday_Bro" title="wikilink">It's Everyday Bro</a>"[15]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/傑克·保羅" title="wikilink">Jake Paul</a> featuring Team 10</p></td>
+<td><p><a href="../Page/傑克·保羅.md" title="wikilink">Jake Paul</a> featuring Team 10</p></td>
 <td><p>4.02</p></td>
 <td><p>%}}</p></td>
 <td><p>May 30, 2017</p></td>
@@ -77,8 +77,8 @@ Rewind](https://zh.wikipedia.org/wiki/YouTube_Rewind_2018:_Everyone_Controls_Rew
 </tr>
 <tr class="even">
 <td><p>6.</p></td>
-<td><p>"<a href="https://zh.wikipedia.org/wiki/慢慢來_(路易斯·方辛歌曲)" title="wikilink">Despacito</a>"[18]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/路易斯·馮西" title="wikilink">Luis Fonsi</a> featuring <a href="https://zh.wikipedia.org/wiki/洋基老爹" title="wikilink">Daddy Yankee</a></p></td>
+<td><p>"<a href="../Page/慢慢來_(路易斯·方辛歌曲).md" title="wikilink">Despacito</a>"[18]</p></td>
+<td><p><a href="../Page/路易斯·馮西.md" title="wikilink">Luis Fonsi</a> featuring <a href="../Page/洋基老爹.md" title="wikilink">Daddy Yankee</a></p></td>
 <td><p>3.55</p></td>
 <td><p>%}}</p></td>
 <td><p>January 12, 2017</p></td>
@@ -258,7 +258,7 @@ Rewind](https://zh.wikipedia.org/wiki/YouTube_Rewind_2018:_Everyone_Controls_Rew
 <tr class="even">
 <td><p>26.</p></td>
 <td><p>"<a href="https://zh.wikipedia.org/wiki/Gucci_Gang" title="wikilink">Gucci Gang</a>"[37]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/利爾·龐普" title="wikilink">Lil Pump</a></p></td>
+<td><p><a href="../Page/利爾·龐普.md" title="wikilink">Lil Pump</a></p></td>
 <td><p>0.99</p></td>
 <td><p>%}}</p></td>
 <td><p>October 23, 2017</p></td>
@@ -330,7 +330,7 @@ Rewind](https://zh.wikipedia.org/wiki/YouTube_Rewind_2018:_Everyone_Controls_Rew
 <tr class="even">
 <td><p>34.</p></td>
 <td><p>"<a href="../Page/黑马_(歌曲).md" title="wikilink">Dark Horse</a>"[45]</p></td>
-<td><p><a href="../Page/凱蒂·佩芮.md" title="wikilink">Katy Perry</a> featuring <a href="https://zh.wikipedia.org/wiki/裘西·J" title="wikilink">Juicy J</a></p></td>
+<td><p><a href="../Page/凱蒂·佩芮.md" title="wikilink">Katy Perry</a> featuring <a href="../Page/裘西·J.md" title="wikilink">Juicy J</a></p></td>
 <td><p>0.89</p></td>
 <td><p>%}}</p></td>
 <td><p>February 20, 2014</p></td>
@@ -495,7 +495,7 @@ Rewind](https://zh.wikipedia.org/wiki/YouTube_Rewind_2018:_Everyone_Controls_Rew
 ## 參見
 
   - [觀看次數最多的YouTube影片列表](https://zh.wikipedia.org/wiki/觀看次數最多的YouTube視頻列表 "wikilink")
-  - [最受喜歡的YouTube影片列表](https://zh.wikipedia.org/wiki/最受喜歡的YouTube視頻列表 "wikilink")
+  - [最受喜歡的YouTube影片列表](../Page/最受喜歡的YouTube視頻列表.md "wikilink")
 
 ## 注释
 

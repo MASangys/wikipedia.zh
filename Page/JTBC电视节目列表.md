@@ -10,8 +10,8 @@
   - [2013游民论坛](https://zh.wikipedia.org/wiki/2013游民论坛 "wikilink")
     （2013年10月14日－2013年10月19日）
 
-  - [12年後的重逢：山蒜醬湯](https://zh.wikipedia.org/wiki/12年後的重逢：山蒜醬湯 "wikilink")
-      （2014年3月22日－2014年6月29日）
+  - [12年後的重逢：山蒜醬湯](../Page/12年後的重逢：山蒜醬湯.md "wikilink")
+    （2014年3月22日－2014年6月29日）
 
   - [1%的情报](https://zh.wikipedia.org/wiki/1%的情报 "wikilink")
     （2016年6月3日－2016年9月28日）
@@ -121,8 +121,7 @@
   - [宮中殘酷史－花的戰爭](../Page/宮中殘酷史－花的戰爭.md "wikilink")
     （2013年3月23日－2013年9月8日）\[3\]
 
-  - [貴夫人](https://zh.wikipedia.org/wiki/貴夫人 "wikilink")
-    （2014年1月13日－2014年7月4日）
+  - [貴夫人](../Page/貴夫人.md "wikilink")   （2014年1月13日－2014年7月4日）
 
   - [Girl Spirit](../Page/Girl_Spirit.md "wikilink")
     （2016年7月19日－2016年9月27日）
@@ -170,8 +169,7 @@
 
 ## J
 
-  - [JTBC新闻10](https://zh.wikipedia.org/wiki/JTBC新闻室 "wikilink")
-    （2011年12月1日－2012年11月2日）
+  - [JTBC新闻10](../Page/JTBC新闻室.md "wikilink")  （2011年12月1日－2012年11月2日）
 
   -   （2011年12月2日－2013年9月15日）
 
@@ -226,8 +224,7 @@
   - [金美京和全炫茂的只有我那样吗](https://zh.wikipedia.org/wiki/金美京和全炫茂的只有我那样吗 "wikilink")
       （2014年3月15日－2014年3月22日）
 
-  - [JTBC新闻室](https://zh.wikipedia.org/wiki/JTBC新闻室 "wikilink")
-    （2014年9月22日－）
+  - [JTBC新闻室](../Page/JTBC新闻室.md "wikilink")  （2014年9月22日－）
 
   - [健康的品格](https://zh.wikipedia.org/wiki/健康的品格 "wikilink")
     （2014年8月24日－2015年6月14日）
@@ -285,8 +282,7 @@
 
   -    （2014年2月10日－2014年9月15日）
 
-  - [密會](https://zh.wikipedia.org/wiki/密會 "wikilink")
-    （2014年3月17日－2014年5月13日）
+  - [密會](../Page/密會.md "wikilink")   （2014年3月17日－2014年5月13日）
 
   -    （2014年12月3日－2015年1月28日）
 
@@ -460,10 +456,9 @@
 
   -    （2013年9月16日－2013年11月7日）
 
-  - [我們能相愛嗎](https://zh.wikipedia.org/wiki/我們能相愛嗎 "wikilink")
-    （2014年1月6日－2014年3月11日）
+  - [我們能相愛嗎](../Page/我們能相愛嗎.md "wikilink")   （2014年1月6日－2014年3月11日）
 
-  - [我去上學啦](https://zh.wikipedia.org/wiki/我去上學啦_\(韓國\) "wikilink")
+  - [我去上學啦](../Page/我去上學啦_\(韓國\).md "wikilink")
     （2014年7月12日－2015年11月3日）
 
   - [我獨自戀愛中](../Page/我獨自戀愛中.md "wikilink")

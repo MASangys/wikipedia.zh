@@ -66,13 +66,13 @@ Night》MV 及專輯音源。
 
 #### 首張迷你專輯《Prequel》
 
-7月27日，發行首張迷你專輯《[Prequel](https://zh.wikipedia.org/wiki/Prequel_\(Dreamcatcher迷你專輯\) "wikilink")》，於韓國時間下午6時公開主打歌《Fly
+7月27日，發行首張迷你專輯《[Prequel](../Page/Prequel_\(Dreamcatcher迷你專輯\).md "wikilink")》，於韓國時間下午6時公開主打歌《Fly
 High》MV 及專輯音源。
 
 #### 舉行首場世界巡迴演唱會、出演及退出《MIXNINE》
 
 8月1日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 表示 Dreamcatcher
-在結束《[Prequel](https://zh.wikipedia.org/wiki/Prequel_\(Dreamcatcher迷你專輯\) "wikilink")》的宣傳活動後將舉行出道以來首場世界巡迴演唱會，預計巡迴的地區有亞洲、歐洲、南美洲等地，最後再於年底回到韓國舉行最終場。
+在結束《[Prequel](../Page/Prequel_\(Dreamcatcher迷你專輯\).md "wikilink")》的宣傳活動後將舉行出道以來首場世界巡迴演唱會，預計巡迴的地區有亞洲、歐洲、南美洲等地，最後再於年底回到韓國舉行最終場。
 
 9月11日，[Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink") 表示 Dreamcatcher
 即將在巴西舉行的簽名會在開放售票10分鐘內全數售罄。\[12\]
@@ -121,7 +121,7 @@ B Class 的成員，分别排在第44、50及56名。
 發出聲明表示為了維持專輯品質與完整度，Dreamcatcher 將延至五月回歸。
 
 4月28日，公開迷你二輯《[惡夢·Escape the
-ERA](https://zh.wikipedia.org/wiki/惡夢·Escape_the_ERA "wikilink")》行程表，確定於5月10日回歸。
+ERA](../Page/惡夢·Escape_the_ERA.md "wikilink")》行程表，確定於5月10日回歸。
 
 5月10日，于韩国时间下午6时公开主打曲MV《YOU AND I》及專輯音源。
 
@@ -410,7 +410,7 @@ LineData =
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Prequel_(Dreamcatcher迷你專輯)" title="wikilink">Prequel</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Prequel_(Dreamcatcher迷你專輯).md" title="wikilink">Prequel</a></strong>》</p>
 <ul>
 <li>發行日期： 2017年7月27日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -420,7 +420,7 @@ LineData =
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/惡夢·Escape_the_ERA" title="wikilink">惡夢·Escape the ERA</a></strong>》</p>
+<td><p>《<strong><a href="../Page/惡夢·Escape_the_ERA.md" title="wikilink">惡夢·Escape the ERA</a></strong>》</p>
 <ul>
 <li>發行日期： 2018年5月10日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
@@ -815,13 +815,13 @@ Real MINX Ver.[29]</p></td>
 <td><p>惡夢:Fall asleep in the mirror</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Prequel_(Dreamcatcher迷你專輯)" title="wikilink">Prequel</a></p></td>
+<td><p><a href="../Page/Prequel_(Dreamcatcher迷你專輯).md" title="wikilink">Prequel</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/惡夢·Escape_the_ERA" title="wikilink">惡夢·Escape the ERA</a></p></td>
+<td><p><a href="../Page/惡夢·Escape_the_ERA.md" title="wikilink">惡夢·Escape the ERA</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Alone_in_the_City.md" title="wikilink">Alone in the City</a></p></td>

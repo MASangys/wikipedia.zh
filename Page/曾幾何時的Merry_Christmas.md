@@ -210,7 +210,7 @@ B'z〜](../Page/The_Ballads_〜Love_&_B'z〜.md "wikilink")**』（[2002年](../
     在最後一個音軌「SNOW」結束後，數秒間會響起**另外混音版本**。
 
 『**[B'z The Best "Pleasure
-II"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")**』（[2005年](../Page/2005年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")）
+II"](../Page/B'z_The_Best_"Pleasure_II".md "wikilink")**』（[2005年](../Page/2005年.md "wikilink")[11月30日](../Page/11月30日.md "wikilink")）
 
   -
     收錄的曲目6是成為「」主題曲的新版本**いつかのメリークリスマス 〜「恋するハニカミ\!」バージョン〜**。
@@ -222,7 +222,7 @@ II"](https://zh.wikipedia.org/wiki/B'z_The_Best_"Pleasure_II" "wikilink")**』�
     Strings』中曲目2，是松本與[東京都交響樂團](https://zh.wikipedia.org/wiki/東京都交響樂團 "wikilink")[合作的](https://zh.wikipedia.org/wiki/合作 "wikilink")**いつかのメリークリスマス的[器樂曲](https://zh.wikipedia.org/wiki/器樂 "wikilink")**。
 
 『**[B'z The Best "ULTRA
-Pleasure"](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Pleasure" "wikilink")**』（[2008年](../Page/2008年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")）
+Pleasure"](../Page/B'z_The_Best_"ULTRA_Pleasure".md "wikilink")**』（[2008年](../Page/2008年.md "wikilink")[6月18日](../Page/6月18日.md "wikilink")）
 
   -
     收錄的曲目7是經過數位修復的**普通版本**。

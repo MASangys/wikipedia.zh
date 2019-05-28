@@ -34,7 +34,7 @@ Galaxy Note
 iPhone 6s/6s Plus使用了蘋果自家設計的64位元架構Apple
 A9晶片，並配備了全新M9動作感應協同處理器，本次分別採用了三星的14nm
 FinFET製程和台積電的16nm FinFET製程。Apple稱其性能較[Apple
-A8處理器提升](https://zh.wikipedia.org/wiki/Apple_A8 "wikilink")70%，圖形處理也提升了90%。
+A8處理器提升](../Page/Apple_A8.md "wikilink")70%，圖形處理也提升了90%。
 
 #### 機殼
 

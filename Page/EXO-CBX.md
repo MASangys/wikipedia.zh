@@ -43,13 +43,13 @@ Time\!》並公開了音樂錄影帶。\[10\]
 2018年1月，EXO-CBX公佈他們將展開首次日本競技場巡演《Magical
 Circus》。此次巡演一共有8場，會在橫濱、福岡、名古屋和大阪4個城市舉行。\[12\]
 
-3月25日，EXO-CBX為電視劇《[Live](https://zh.wikipedia.org/wiki/Live_\(韓國電視劇\) "wikilink")》演唱的OST《Someone
+3月25日，EXO-CBX為電視劇《[Live](../Page/Live_\(韓國電視劇\).md "wikilink")》演唱的OST《Someone
 Like You》音源公開。\[13\]
 
 3月26日，所屬經紀公司SM娛樂宣佈，EXO-CBX將於4月10日以迷你二輯回歸韓國樂壇，這次回歸是繼2016年10月後時隔一年半在韓國活動。
 
 4月3日，在SNS上公開是次回歸的專輯名為《[Blooming
-Days](https://zh.wikipedia.org/wiki/Blooming_Days "wikilink")》，共收錄七首歌曲，以一星期（月曜日至日曜日）作為主題。
+Days](../Page/Blooming_Days.md "wikilink")》，共收錄七首歌曲，以一星期（月曜日至日曜日）作為主題。
 
 4月6日，EXO-CBX宣佈將會在4月9日-4月15日期間通過 Naver V
 LIVE進行直播《月火水木CBX》，而直播的内容每天都不一樣，將會以7種不同的風格進行直播。\[14\]
@@ -62,13 +62,13 @@ Chart一位，並在36個地區的iTunes專輯總榜拿到第一，印證了EXO-
 
 ## 成員列表
 
-| 成員列表\[18\]\[19\]                                          |
-| --------------------------------------------------------- |
-| 藝名                                                        |
-| 藝名                                                        |
-| [Xiumin](https://zh.wikipedia.org/wiki/Xiumin "wikilink") |
-| [Baekhyun](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink")  |
-| [Chen](https://zh.wikipedia.org/wiki/金鍾大 "wikilink")      |
+| 成員列表\[18\]\[19\]                                         |
+| -------------------------------------------------------- |
+| 藝名                                                       |
+| 藝名                                                       |
+| [Xiumin](../Page/Xiumin.md "wikilink")                   |
+| [Baekhyun](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink") |
+| [Chen](https://zh.wikipedia.org/wiki/金鍾大 "wikilink")     |
 
 ## 音樂作品
 
@@ -134,7 +134,7 @@ Chart一位，並在36個地區的iTunes專輯總榜拿到第一，印證了EXO-
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Blooming_Days" title="wikilink">Blooming Days</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Blooming_Days.md" title="wikilink">Blooming Days</a></strong>》</p>
 <ul>
 <li>發行日期：2018年4月10日</li>
 <li>語言：韓語</li>
@@ -162,7 +162,7 @@ Chart一位，並在36個地區的iTunes專輯總榜拿到第一，印證了EXO-
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/GIRLS_(EXO-CBX迷你專輯)" title="wikilink">GIRLS</a></strong>》<ref name=":2">[<a href="http://exo-jp.net/cbx2017/">http://exo-jp.net/cbx2017/</a> {{lang|ja|EXO-CBX JAPAN DEBUT MINI ALBUM「GIRLS」2017.5.24リリース決定</p></td>
+<td><p>《<strong><a href="../Page/GIRLS_(EXO-CBX迷你專輯).md" title="wikilink">GIRLS</a></strong>》<ref name=":2">[<a href="http://exo-jp.net/cbx2017/">http://exo-jp.net/cbx2017/</a> {{lang|ja|EXO-CBX JAPAN DEBUT MINI ALBUM「GIRLS」2017.5.24リリース決定</p></td>
 <td><p>}}]</ref></p>
 <ul>
 <li>發行日期：2017年5月24日</li>
@@ -179,12 +179,12 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 
 ### OST
 
-|            |                                                         |                                                                   |                     |
-| ---------- | ------------------------------------------------------- | ----------------------------------------------------------------- | ------------------- |
-| 發行日期       | 電視台                                                     | 節目名稱                                                              | 曲目                  |
-| 2017年7月29日 | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink") | 《Running Man 動畫版》                                                 | It's Running Time\! |
-| 2017年9月22日 |                                                         | 日劇《最後的生命：即使你明天消失》                                                 | Cry                 |
-| 2018年3月24日 | tvN                                                     | 《[Live](https://zh.wikipedia.org/wiki/Live_\(韓國電視劇\) "wikilink")》 | Someone Like You    |
+|            |                                                         |                                                |                     |
+| ---------- | ------------------------------------------------------- | ---------------------------------------------- | ------------------- |
+| 發行日期       | 電視台                                                     | 節目名稱                                           | 曲目                  |
+| 2017年7月29日 | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink") | 《Running Man 動畫版》                              | It's Running Time\! |
+| 2017年9月22日 |                                                         | 日劇《最後的生命：即使你明天消失》                              | Cry                 |
+| 2018年3月24日 | tvN                                                     | 《[Live](../Page/Live_\(韓國電視劇\).md "wikilink")》 | Someone Like You    |
 
 ### 廣告 / 宣傳歌曲
 
@@ -250,18 +250,18 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 
 ### 音樂錄影帶
 
-|        |                           |                                                                                     |                                                                           |
-| ------ | ------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
-| 年份     | 發佈日期                      | 歌曲名稱                                                                                | 專輯                                                                        |
-| 2016年  | 8月25日                     | For You\[29\]                                                                       | 《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink") OST Part 1》             |
-| 10月31日 | Hey Mama\!\[30\]          | 《[Hey Mama\!](https://zh.wikipedia.org/wiki/Hey_Mama! "wikilink")》                  |                                                                           |
-| 11月7日  | The One\[31\]             |                                                                                     |                                                                           |
-| 12月26日 | Crush U\[32\]             | 《劍靈 Blade & Soul》                                                                   |                                                                           |
-| 2017年  | 5月1日                      | Ka-CHING\!\[33\]                                                                    | 《[GIRLS](https://zh.wikipedia.org/wiki/GIRLS_\(EXO-CBX迷你專輯\) "wikilink")》 |
-| 7月29日  | It's Running Time\!       | 《[Running Man (動畫版)](https://zh.wikipedia.org/wiki/Running_Man_\(動畫版\) "wikilink")》 |                                                                           |
-| 2018年  | 4月10日                     | 花요일 (Blooming Day)                                                                  | 《Blooming Days》                                                           |
-| 4月25日  | Horololo                  | 《Magic》                                                                             |                                                                           |
-| 4月29日  | Beautiful World (아름다운 강산) | 《KONA Electric（[現代汽車](../Page/現代汽車.md "wikilink")）》                                 |                                                                           |
+|        |                           |                                                                    |                                                               |
+| ------ | ------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------- |
+| 年份     | 發佈日期                      | 歌曲名稱                                                               | 專輯                                                            |
+| 2016年  | 8月25日                     | For You\[29\]                                                      | 《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink") OST Part 1》 |
+| 10月31日 | Hey Mama\!\[30\]          | 《[Hey Mama\!](https://zh.wikipedia.org/wiki/Hey_Mama! "wikilink")》 |                                                               |
+| 11月7日  | The One\[31\]             |                                                                    |                                                               |
+| 12月26日 | Crush U\[32\]             | 《劍靈 Blade & Soul》                                                  |                                                               |
+| 2017年  | 5月1日                      | Ka-CHING\!\[33\]                                                   | 《[GIRLS](../Page/GIRLS_\(EXO-CBX迷你專輯\).md "wikilink")》        |
+| 7月29日  | It's Running Time\!       | 《[Running Man (動畫版)](../Page/Running_Man_\(動畫版\).md "wikilink")》   |                                                               |
+| 2018年  | 4月10日                     | 花요일 (Blooming Day)                                                 | 《Blooming Days》                                               |
+| 4月25日  | Horololo                  | 《Magic》                                                            |                                                               |
+| 4月29日  | Beautiful World (아름다운 강산) | 《KONA Electric（[現代汽車](../Page/現代汽車.md "wikilink")）》                |                                                               |
 
 ### 專屬節目
 
@@ -441,7 +441,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Soribada最佳音樂大獎" title="wikilink">Soribada最佳音樂大獎</a></p></td>
+<td><p><a href="../Page/Soribada最佳音樂大獎.md" title="wikilink">Soribada最佳音樂大獎</a></p></td>
 <td><p>本賞</p></td>
 <td></td>
 <td></td>
@@ -492,7 +492,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎</a>[49]</p></td>
 <td><p>唱片部門－本賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Blooming_Days" title="wikilink">Blooming Days</a></p></td>
+<td><p><a href="../Page/Blooming_Days.md" title="wikilink">Blooming Days</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

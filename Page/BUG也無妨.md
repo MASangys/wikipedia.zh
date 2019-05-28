@@ -151,8 +151,7 @@ C收錄了鑽石女孩的歌曲《吻真的太遠了》\[4\]。
   - Team
     H：[神志那結衣](../Page/神志那結衣.md "wikilink")、指原莉乃、[田島芽瑠](../Page/田島芽瑠.md "wikilink")、[田中美久](../Page/田中美久_\(HKT48\).md "wikilink")、[松岡菜摘](../Page/松岡菜摘.md "wikilink")
   - Team H / AKB48 Team K：兒玉遥
-  - Team H / AKB48 Team
-    B：[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")
+  - Team H / AKB48 Team B：[矢吹奈子](../Page/矢吹奈子.md "wikilink")
   - Team
     KIV：[渕上舞](https://zh.wikipedia.org/wiki/淵上舞_\(歌手\) "wikilink")、[本村碧唯](../Page/本村碧唯.md "wikilink")、[森保圓](../Page/森保圓.md "wikilink")
   - Team KIV / AKB48 Team A：宮脇咲良

@@ -181,7 +181,7 @@ library**是C语言的[POSIX系统下的标准库](https://zh.wikipedia.org/wiki
 </tr>
 <tr class="even">
 <td><p><strong>&lt;sys/mman.h&gt;</strong></p></td>
-<td><p>内存管理，包括POSIX <a href="https://zh.wikipedia.org/wiki/共享内存_(进程间通信)" title="wikilink">共享内存 (进程间通信)与</a><a href="https://zh.wikipedia.org/wiki/内存映射文件" title="wikilink">内存映射文件</a></p></td>
+<td><p>内存管理，包括POSIX <a href="https://zh.wikipedia.org/wiki/共享内存_(进程间通信)" title="wikilink">共享内存 (进程间通信)与</a><a href="../Page/内存映射文件.md" title="wikilink">内存映射文件</a></p></td>
 <td><p>Issue 4</p></td>
 </tr>
 <tr class="odd">

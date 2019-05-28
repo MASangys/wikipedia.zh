@@ -13,7 +13,7 @@
 | preceded_by =
 <small>[-{zh-cn:蜡笔小新：梦境世界大突击;zh-tw:蠟筆小新：爆睡！夢世界大作戰;zh-hk:蠟筆小新：瞓啦！早唞早著夢作戰}-](https://zh.wikipedia.org/wiki/蠟筆小新：爆睡！夢世界大作戰 "wikilink")</small>
 | followed_by =
-<small>[-{zh-tw:蠟筆小新：功夫小子〜拉麵大亂鬥〜;zh-hk:蠟筆小新：爆盛！功夫小新〜拉麵大亂鬥〜}-](https://zh.wikipedia.org/wiki/蠟筆小新：功夫小子〜拉麵大亂鬥〜 "wikilink")</small>
+<small>[-{zh-tw:蠟筆小新：功夫小子〜拉麵大亂鬥〜;zh-hk:蠟筆小新：爆盛！功夫小新〜拉麵大亂鬥〜}-](../Page/蠟筆小新：功夫小子〜拉麵大亂鬥〜.md "wikilink")</small>
 | cn_name = 蜡笔小新：宇宙人来袭！！ | hk_name = 蠟筆小新：外星人噼噼怪來襲！！ | tw_name =
 蠟筆小新：宇宙人Pi力來襲！！ }}
 
@@ -46,7 +46,7 @@
 <td><center>
 <p><a href="../Page/澤城美雪.md" title="wikilink">澤城美雪</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/草莓姐姐" title="wikilink">草莓姐姐</a></p></td>
+<p><a href="../Page/草莓姐姐.md" title="wikilink">草莓姐姐</a></p></td>
 <td><center>
 <p><strong>Pi力</strong><br />
 </p></td>
@@ -74,7 +74,7 @@
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/螢原徹" title="wikilink">螢原徹</a><br />
+<p><a href="../Page/螢原徹.md" title="wikilink">螢原徹</a><br />
 （）</p></td>
 <td><center>
 <p><a href="../Page/宋昱璁.md" title="wikilink">宋昱璁</a></p></td>
@@ -86,7 +86,7 @@
 <tr class="even">
 <td><center>
 <p><a href="../Page/小西克幸.md" title="wikilink">小西克幸</a><br />
-<a href="https://zh.wikipedia.org/wiki/久野美咲" title="wikilink">久野美咲</a>〈幼年〉</p></td>
+<a href="../Page/久野美咲.md" title="wikilink">久野美咲</a>〈幼年〉</p></td>
 <td><center>
 <p><a href="../Page/符爽.md" title="wikilink">符爽</a><br />
 <a href="../Page/王瑞芹.md" title="wikilink">王瑞芹</a>〈幼年〉</p></td>

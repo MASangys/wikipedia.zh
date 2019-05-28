@@ -338,7 +338,7 @@ featuring 康 on Guitar</p></td>
     - After10 飾 After10
   - [RubberBand](../Page/RubberBand.md "wikilink")[《我是樂隊》](https://www.youtube.com/watch?v=DAkhgqR_Nzc)
     - RubberBand 邀請八隊樂隊參與 MV 演出:
-    [太極樂隊](../Page/太極樂隊.md "wikilink")、[ToNick](../Page/ToNick.md "wikilink")、[Kolor](../Page/Kolor.md "wikilink")、[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")、[觸執毛](../Page/觸執毛.md "wikilink")、[Blaster](https://zh.wikipedia.org/wiki/Blaster "wikilink")、[雞蛋蒸肉餅](https://zh.wikipedia.org/wiki/雞蛋蒸肉餅 "wikilink")、After10
+    [太極樂隊](../Page/太極樂隊.md "wikilink")、[ToNick](../Page/ToNick.md "wikilink")、[Kolor](../Page/Kolor.md "wikilink")、[Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink")、[觸執毛](../Page/觸執毛.md "wikilink")、[Blaster](https://zh.wikipedia.org/wiki/Blaster "wikilink")、[雞蛋蒸肉餅](../Page/雞蛋蒸肉餅.md "wikilink")、After10
   - [鍾舒漫](../Page/鍾舒漫.md "wikilink")
     [鍾舒淇](https://zh.wikipedia.org/wiki/鍾舒淇 "wikilink")[《1111》](https://www.youtube.com/watch?v=HYE5POvqpLc)-
     偉飾鼓手
@@ -594,8 +594,7 @@ featuring 康 on Guitar</p></td>
     Music in the City（康擔任結他手，偉擔任鼓手）
   - 2月18-19日: **After10** x
     [KOLOR](https://zh.wikipedia.org/wiki/KOLOR "wikilink") x
-    [新青年理髮廳](https://zh.wikipedia.org/wiki/新青年理髮廳 "wikilink")
-    - 飛主流原音賞物創意市集音樂會
+    [新青年理髮廳](../Page/新青年理髮廳.md "wikilink") - 飛主流原音賞物創意市集音樂會
   - 2月18日: [布志綸](../Page/布志綸.md "wikilink"),
     [羅孝勇](../Page/羅孝勇.md "wikilink"),
     [應昌佑](../Page/應昌佑.md "wikilink"),
@@ -614,9 +613,9 @@ featuring 康 on Guitar</p></td>
     [Yellow\!](https://zh.wikipedia.org/wiki/Yellow! "wikilink") - JOOX
     x 海港城 Music in the City（康擔任結他手，偉擔任鼓手）
   - 4月23日: **After10** - 卡式現場 Cassette Live Music Show
-  - 5月6日: [黃意雅](https://zh.wikipedia.org/wiki/黃意雅 "wikilink"),
-    [新青年理髮廳](https://zh.wikipedia.org/wiki/新青年理髮廳 "wikilink")
-    - JOOX x 海港城 Music in the City（康擔任結他手，偉擔任鼓手）
+  - 5月6日: [黃意雅](../Page/黃意雅.md "wikilink"),
+    [新青年理髮廳](../Page/新青年理髮廳.md "wikilink") -
+    JOOX x 海港城 Music in the City（康擔任結他手，偉擔任鼓手）
   - 5月13日: [羅力威](../Page/羅力威.md "wikilink"),
     [泳兒](../Page/泳兒.md "wikilink") - JOOX x 海港城 Music in the
     City（康擔任結他手，偉擔任鼓手）
@@ -702,13 +701,11 @@ featuring 康 on Guitar</p></td>
     - Shout it Out 起哄音樂會（康擔任結他手）
   - 9月5日: [許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink") - Joox
     Live直播（康擔任和音及結他手，偉擔任鼓手）
-  - 9月12日: [余香凝](https://zh.wikipedia.org/wiki/余香凝 "wikilink") - Joox
-    Live直播（康擔任和音及結他手）
+  - 9月12日: [余香凝](../Page/余香凝.md "wikilink") - Joox Live直播（康擔任和音及結他手）
   - 9月14日: Cheronna [吳嘉熙](../Page/吳嘉熙.md "wikilink") - Joox
     Live直播（康擔任和音及結他手）
-  - 9月26日: **After10** x
-    [余香凝](https://zh.wikipedia.org/wiki/余香凝 "wikilink") -
-    誠品生活 x Joox 慢活音樂（康擔任和音及結他手）
+  - 9月26日: **After10** x [余香凝](../Page/余香凝.md "wikilink") - 誠品生活 x Joox
+    慢活音樂（康擔任和音及結他手）
   - 9月29日: **After10** 朗豪坊 Live Stage
   - 10月3日: **After10** 葵涌廣場 Busking
   - 10月12日: Cheronna [吳嘉熙](../Page/吳嘉熙.md "wikilink") - KKBOX

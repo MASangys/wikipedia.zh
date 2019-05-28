@@ -47,10 +47,10 @@
 
 ### 新韓流ICON賞
 
-| 屆數 | 年份   | 獲獎者                                                               |
-| -- | ---- | ----------------------------------------------------------------- |
-| 1  | 2017 | [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink") |
-| 2  | 2018 | [NU'EST W](https://zh.wikipedia.org/wiki/NU'EST_W "wikilink")     |
+| 屆數 | 年份   | 獲獎者                                                           |
+| -- | ---- | ------------------------------------------------------------- |
+| 1  | 2017 | [Red Velvet](../Page/Red_Velvet.md "wikilink")                |
+| 2  | 2018 | [NU'EST W](https://zh.wikipedia.org/wiki/NU'EST_W "wikilink") |
 
 ### 新韓流表演賞
 
@@ -199,7 +199,7 @@ Social - SEO J</p></td>
 <a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a><br />
 <a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a><br />
 <a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a><br />
-<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a><br />
 <a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a></p></td>

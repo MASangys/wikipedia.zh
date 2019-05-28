@@ -6,7 +6,7 @@ Barry设计，并已被經成功移植到35種不同的[微控制器上](https:/
 FreeRTOS的設計小巧且簡易，整個核心程式碼只有3到4個C檔案，為了讓程式碼容易閱讀、移植和維護，大部分的程式碼都是以[C語言編寫](https://zh.wikipedia.org/wiki/C語言 "wikilink")，只有一些函式（多數是架構特定排班副程式）採用[組合語言編寫](https://zh.wikipedia.org/wiki/組合語言 "wikilink")。
 
 FreeRTOS提供許多方法以實現多[线程](../Page/线程.md "wikilink")（threads）、多[作業](../Page/作業_\(電腦\).md "wikilink")（task）、[互斥鎖](https://zh.wikipedia.org/wiki/互斥鎖 "wikilink")（mutex）、[號誌](https://zh.wikipedia.org/wiki/信號標 "wikilink")（semaphore）和[軟體計時器](https://zh.wikipedia.org/wiki/軟體計時器 "wikilink")（software
-timer），有個為低耗電應用程式提供的[无嘀嗒](https://zh.wikipedia.org/wiki/无嘀嗒内核 "wikilink")（tick-less）模式，執行緒的優先權管理也有支援，此外，FreeRTOS提供了四種記憶體配置的模式：
+timer），有個為低耗電應用程式提供的[无嘀嗒](../Page/无嘀嗒内核.md "wikilink")（tick-less）模式，執行緒的優先權管理也有支援，此外，FreeRTOS提供了四種記憶體配置的模式：
 
   - 僅配置（allocate only）
   - 以非常簡易但快速的演算法進行配置與釋放
@@ -37,7 +37,7 @@ FreeRTOS實作了多執行緒，主程式會在規律的短時間區間內呼叫
 ## 支援平台
 
   - [Altera](../Page/Altera.md "wikilink") [Nios
-    II](https://zh.wikipedia.org/wiki/Nios_II "wikilink")
+    II](../Page/Nios_II.md "wikilink")
 
   - [ARM
     architecture](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink")

@@ -188,7 +188,7 @@
 | 1F9Dx                                                                                                            |
 | 1F9Ex                                                                                                            |
 | 1F9Fx                                                                                                            |
-| **[棋類符號](https://zh.wikipedia.org/wiki/棋類符號_\(Unicode區段\) "wikilink")／Chess Symbols**                            |
+| **[棋類符號](../Page/棋類符號_\(Unicode區段\).md "wikilink")／Chess Symbols**                                               |
 | U+                                                                                                               |
 | 1FA0x                                                                                                            |
 | 1FA1x                                                                                                            |

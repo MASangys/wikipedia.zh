@@ -75,7 +75,7 @@
 </tr>
 <tr class="odd">
 <td><p>Best MC賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/申东烨" title="wikilink">申东烨</a>（<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/申东烨" title="wikilink">申东烨</a>（<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>电视剧Contents本賞</p></td>
@@ -94,8 +94,8 @@
 <td><p>综艺Contents本賞</p></td>
 <td><p><a href="../Page/一日三餐.md" title="wikilink">一日三餐</a><br />
 「花樣系列」（<a href="https://zh.wikipedia.org/wiki/花样爷爷" title="wikilink">花样爷爷</a>、<a href="https://zh.wikipedia.org/wiki/花样姐姐" title="wikilink">花样姐姐</a>、<a href="https://zh.wikipedia.org/wiki/花样青春" title="wikilink">花样青春</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/新西遊記" title="wikilink">新西遊記</a><br />
-<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a><br />
+<a href="../Page/新西遊記.md" title="wikilink">新西遊記</a><br />
+<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a><br />
 <br />
 <a href="https://zh.wikipedia.org/wiki/COMEDY_BIG_LEAGUE" title="wikilink">COMEDY BIG LEAGUE</a><br />
 <br />
@@ -109,7 +109,7 @@
 </tr>
 <tr class="odd">
 <td><p>made in tvN综艺女子賞</p></td>
-<td><p><a href="../Page/金瑟琪.md" title="wikilink">金瑟琪</a>（<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>）</p></td>
+<td><p><a href="../Page/金瑟琪.md" title="wikilink">金瑟琪</a>（<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>made in tvN电视剧男子賞</p></td>
@@ -122,7 +122,7 @@
 <tr class="even">
 <td><p>PD's Choice賞</p></td>
 <td><p><a href="../Page/李帝勳.md" title="wikilink">李帝勳</a>（<a href="https://zh.wikipedia.org/wiki/Signal_(电视剧)" title="wikilink">Signal</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/郑尚勳" title="wikilink">郑尚勳</a>（<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>、<a href="https://zh.wikipedia.org/wiki/花样青春" title="wikilink">花样青春</a>）</p></td>
+<a href="https://zh.wikipedia.org/wiki/郑尚勳" title="wikilink">郑尚勳</a>（<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>、<a href="https://zh.wikipedia.org/wiki/花样青春" title="wikilink">花样青春</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>抢镜男演员賞</p></td>
@@ -134,11 +134,11 @@
 </tr>
 <tr class="odd">
 <td><p>喜劇男子賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/梁世炯" title="wikilink">梁世炯</a>（<a href="https://zh.wikipedia.org/wiki/COMEDY_BIG_LEAGUE" title="wikilink">COMEDY BIG LEAGUE</a>）</p></td>
+<td><p><a href="../Page/梁世炯.md" title="wikilink">梁世炯</a>（<a href="https://zh.wikipedia.org/wiki/COMEDY_BIG_LEAGUE" title="wikilink">COMEDY BIG LEAGUE</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>喜劇女子賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安英美" title="wikilink">安英美</a>（<a href="https://zh.wikipedia.org/wiki/COMEDY_BIG_LEAGUE" title="wikilink">COMEDY BIG LEAGUE</a>）</p></td>
+<td><p><a href="../Page/安英美.md" title="wikilink">安英美</a>（<a href="https://zh.wikipedia.org/wiki/COMEDY_BIG_LEAGUE" title="wikilink">COMEDY BIG LEAGUE</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>特別演技賞</p></td>
@@ -186,7 +186,7 @@
 <tr class="odd">
 <td><p>努藝賞<br />
 <small>（努力的藝人賞）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/權赫秀" title="wikilink">權赫秀</a>（<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>）<br />
+<td><p><a href="../Page/權赫秀.md" title="wikilink">權赫秀</a>（<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>）<br />
 （<a href="https://zh.wikipedia.org/wiki/COMEDY_BIG_LEAGUE" title="wikilink">COMEDY BIG LEAGUE</a>）</p></td>
 </tr>
 <tr class="even">
@@ -319,13 +319,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a></p></td>
+<td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a></p></td>
 <td><p>《》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/申东烨" title="wikilink">申东烨</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>》</p></td>
+<td><p>《<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -365,8 +365,8 @@
   - **颁奖嘉宾：[具惠善](../Page/具惠善.md "wikilink")、[俞世润](https://zh.wikipedia.org/wiki/俞世润 "wikilink")、[曹世镐](../Page/曹世镐.md "wikilink")**
   - 《[一日三餐](../Page/一日三餐.md "wikilink")》
   - 《「花樣系列」》（[花样爷爷](https://zh.wikipedia.org/wiki/花样爷爷 "wikilink")、[花样姐姐](https://zh.wikipedia.org/wiki/花样姐姐 "wikilink")、[花样青春](https://zh.wikipedia.org/wiki/花样青春 "wikilink")）
-  - 《[新西遊記](https://zh.wikipedia.org/wiki/新西遊記 "wikilink")》
-  - 《[SNL Korea](https://zh.wikipedia.org/wiki/SNL_Korea "wikilink")》
+  - 《[新西遊記](../Page/新西遊記.md "wikilink")》
+  - 《[SNL Korea](../Page/SNL_Korea.md "wikilink")》
   - 《》
   - 《[COMEDY BIG
     LEAGUE](https://zh.wikipedia.org/wiki/COMEDY_BIG_LEAGUE "wikilink")》
@@ -394,7 +394,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/车胜元" title="wikilink">车胜元</a>、<a href="https://zh.wikipedia.org/wiki/柳海真" title="wikilink">柳海真</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/车胜元" title="wikilink">车胜元</a>、<a href="../Page/柳海真.md" title="wikilink">柳海真</a></p></td>
 <td><p>《<a href="../Page/一日三餐.md" title="wikilink">一日三餐漁村篇</a>》</p></td>
 <td></td>
 </tr>
@@ -405,7 +405,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/姜镐童" title="wikilink">姜镐童</a>、<a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a>、<a href="https://zh.wikipedia.org/wiki/安宰贤" title="wikilink">安宰贤</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/新西遊記" title="wikilink">新西遊記</a>》</p></td>
+<td><p>《<a href="../Page/新西遊記.md" title="wikilink">新西遊記</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -508,11 +508,11 @@
   - **颁奖嘉宾：[罗䁐锡](https://zh.wikipedia.org/wiki/罗䁐锡 "wikilink")、**
   - **[李帝勳](../Page/李帝勳.md "wikilink")《[Signal](https://zh.wikipedia.org/wiki/Signal_\(电视剧\) "wikilink")》**
   - **[郑尚勳](https://zh.wikipedia.org/wiki/郑尚勳 "wikilink")《[SNL
-    Korea](https://zh.wikipedia.org/wiki/SNL_Korea "wikilink")》、《[花样青春](https://zh.wikipedia.org/wiki/花样青春 "wikilink")》**
+    Korea](../Page/SNL_Korea.md "wikilink")》、《[花样青春](https://zh.wikipedia.org/wiki/花样青春 "wikilink")》**
 
 ### 喜劇部門
 
-  - **颁奖嘉宾：[李尚敏](https://zh.wikipedia.org/wiki/李尚敏 "wikilink")、**
+  - **颁奖嘉宾：[李尚敏](../Page/李尚敏.md "wikilink")、**
 
 #### 男子賞
 
@@ -526,18 +526,18 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/梁世燦" title="wikilink">梁世燦</a></p></td>
+<td><p><a href="../Page/梁世燦.md" title="wikilink">梁世燦</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/COMEDY_BIG_LEAGUE" title="wikilink">COMEDY BIG LEAGUE</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/梁世炯" title="wikilink">梁世炯</a></p></td>
+<td><p><a href="../Page/梁世炯.md" title="wikilink">梁世炯</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/COMEDY_BIG_LEAGUE" title="wikilink">COMEDY BIG LEAGUE</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/俞世润" title="wikilink">俞世润</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>》</p></td>
+<td><p>《<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -547,7 +547,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>》</p></td>
+<td><p>《<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -575,13 +575,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/安英美" title="wikilink">安英美</a></p></td>
+<td><p><a href="../Page/安英美.md" title="wikilink">安英美</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/COMEDY_BIG_LEAGUE" title="wikilink">COMEDY BIG LEAGUE</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>》</p></td>
+<td><p>《<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -627,7 +627,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/高庚杓.md" title="wikilink">高庚杓</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/请回答1988" title="wikilink">请回答1988</a>》、《<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/请回答1988" title="wikilink">请回答1988</a>》、《<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -769,7 +769,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金善映" title="wikilink">金善映</a></p></td>
+<td><p><a href="../Page/金善映.md" title="wikilink">金善映</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/请回答1988" title="wikilink">请回答1988</a>》</p></td>
 <td></td>
 </tr>
@@ -810,8 +810,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/權赫秀" title="wikilink">權赫秀</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>》</p></td>
+<td><p><a href="../Page/權赫秀.md" title="wikilink">權赫秀</a></p></td>
+<td><p>《<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -945,18 +945,18 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/權赫秀" title="wikilink">權赫秀</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>》</p></td>
+<td><p><a href="../Page/權赫秀.md" title="wikilink">權赫秀</a></p></td>
+<td><p>《<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金民教" title="wikilink">金民教</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>》</p></td>
+<td><p><a href="../Page/金民教.md" title="wikilink">金民教</a></p></td>
+<td><p>《<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/郑尚勳" title="wikilink">郑尚勳</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>》</p></td>
+<td><p>《<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -985,7 +985,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>》</p></td>
+<td><p>《<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -995,12 +995,12 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>》</p></td>
+<td><p>《<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金瑟琪.md" title="wikilink">金瑟琪</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/SNL_Korea" title="wikilink">SNL Korea</a>》</p></td>
+<td><p>《<a href="../Page/SNL_Korea.md" title="wikilink">SNL Korea</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">

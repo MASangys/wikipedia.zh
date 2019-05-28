@@ -21,7 +21,7 @@
 <td></td>
 <td></td>
 <td><p>守望真情</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/文俊輝" title="wikilink">Jun</a></p></td>
+<td><p><a href="../Page/文俊輝.md" title="wikilink">Jun</a></p></td>
 <td><p>鍾守真</p></td>
 <td></td>
 <td><p>儋州山歌劇</p></td>
@@ -160,7 +160,7 @@
 <td><p>2013年</p></td>
 <td><p>6月12日</p></td>
 <td><p><a href="../Page/四川卫视.md" title="wikilink">四川衛視</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/薛丁山_(电视剧)" title="wikilink">薛丁山</a></p></td>
+<td><p><a href="../Page/薛丁山_(电视剧).md" title="wikilink">薛丁山</a></p></td>
 <td><p>薛應龍</p></td>
 <td><p>40</p></td>
 <td></td>
@@ -181,7 +181,7 @@
 <td><p>9月2日－9日</p></td>
 <td><p><a href="../Page/泰國第3電視台.md" title="wikilink">泰國第3電視台</a></p></td>
 <td><p>Luang-ta Maha-chon (Season 10)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a></p></td>
+<td><p><a href="../Page/金珉奎.md" title="wikilink">珉奎</a></p></td>
 <td><p>珉奎</p></td>
 <td><p>27－28</p></td>
 <td><p>泰國情景劇 <ref>YouTube上的劇集：</p>
@@ -211,7 +211,7 @@
 <td><p>2003年</p></td>
 <td><p>7月5日</p></td>
 <td><p>新人肉叉燒包</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/文俊輝" title="wikilink">Jun</a></p></td>
+<td><p><a href="../Page/文俊輝.md" title="wikilink">Jun</a></p></td>
 <td></td>
 <td><p>[5]</p></td>
 </tr>
@@ -276,7 +276,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/Ustream" title="wikilink">Ustream</a></p></td>
 <td><p>SEVENTEEN TV Season 1</p></td>
 <td><p>15</p></td>
-<td><p>參與成員：<a href="https://zh.wikipedia.org/wiki/文俊輝" title="wikilink">Jun</a>、<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a>、<a href="https://zh.wikipedia.org/wiki/全圓佑" title="wikilink">圓佑</a>、<a href="https://zh.wikipedia.org/wiki/李知勳_(SEVENTEEN)" title="wikilink">WOOZI</a>、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a>、<a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a>、Dino、<a href="https://zh.wikipedia.org/wiki/Samuel_(2002年)" title="wikilink">Samuel</a>、<a href="https://zh.wikipedia.org/wiki/姚明明" title="wikilink">姚明明</a>[9]</p></td>
+<td><p>參與成員：<a href="../Page/文俊輝.md" title="wikilink">Jun</a>、<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a>、<a href="../Page/全圓佑.md" title="wikilink">圓佑</a>、<a href="../Page/李知勳_(SEVENTEEN).md" title="wikilink">WOOZI</a>、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a>、<a href="../Page/夫勝寛.md" title="wikilink">勝寛</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a>、Dino、<a href="https://zh.wikipedia.org/wiki/Samuel_(2002年)" title="wikilink">Samuel</a>、<a href="https://zh.wikipedia.org/wiki/姚明明" title="wikilink">姚明明</a>[9]</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年3月23日－5月11日</p></td>
@@ -427,7 +427,7 @@ V LIVE</p></td>
 <td><p>2017年8月25日</p></td>
 <td><p>我朋友的故鄉在那裡－LA篇</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/崔勝哲" title="wikilink">S.coups</a>、 <a href="https://zh.wikipedia.org/wiki/尹淨漢" title="wikilink">淨漢</a>、<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a>、<a href="https://zh.wikipedia.org/wiki/李燦_(SEVENTEEN)" title="wikilink">Dino</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔勝哲" title="wikilink">S.coups</a>、 <a href="https://zh.wikipedia.org/wiki/尹淨漢" title="wikilink">淨漢</a>、<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a>、<a href="../Page/李燦_(SEVENTEEN).md" title="wikilink">Dino</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -499,7 +499,7 @@ V LIVE</p></td>
 <td><p>SPACE SHOWER TV PLUS</p></td>
 <td><p>SEVENTEEN Special</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/文俊輝" title="wikilink">Jun</a>、<a href="https://zh.wikipedia.org/wiki/徐明浩" title="wikilink">The8因個人行程缺席</a></p></td>
+<td><p><a href="../Page/文俊輝.md" title="wikilink">Jun</a>、<a href="https://zh.wikipedia.org/wiki/徐明浩" title="wikilink">The8因個人行程缺席</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年10月21日</p></td>
@@ -630,48 +630,48 @@ V LIVE</p></td>
 | 12月24日                                |
 | 12月29日                                |
 
-|                                                             |
-| ----------------------------------------------------------- |
-| **2017年綜藝節目列表**                                             |
-| 播放日期                                                        |
-| 1月27日                                                       |
-| 1月30日                                                       |
-| 2月4日、11日                                                    |
-| 3月15日                                                       |
-| 4月1日                                                        |
-| 4月2日、9日                                                     |
-| 4月30日                                                       |
-| 5月28日                                                       |
-| 6月2日                                                        |
-| 6月8日                                                        |
-| 6月21日                                                       |
-| 6月26日                                                       |
-| 6月29日                                                       |
-| 7月1日                                                        |
-| 7月7日                                                        |
-| 7月9日、16日                                                    |
-| 7月10日                                                       |
-| 7月21日－8月18日                                                 |
-| 7月22日                                                       |
-| 7月28日                                                       |
-| 7月29日                                                       |
-| [AbemaTV](https://zh.wikipedia.org/wiki/AbemaTV "wikilink") |
-| 7月30日                                                       |
-| 8月2日                                                        |
-| 8月5日                                                        |
-| 10月26日                                                      |
-| 10月28日                                                      |
-| 11月8日、14日                                                   |
-| 11月10日                                                      |
-| 11月21日                                                      |
-| 11月27日                                                      |
-| 12月2日                                                       |
-| Dingo Studios                                               |
-| 12月9日                                                       |
-| 12月13日                                                      |
-| 12月15日                                                      |
-| 12月28日                                                      |
-| 12月30日                                                      |
+|                                          |
+| ---------------------------------------- |
+| **2017年綜藝節目列表**                          |
+| 播放日期                                     |
+| 1月27日                                    |
+| 1月30日                                    |
+| 2月4日、11日                                 |
+| 3月15日                                    |
+| 4月1日                                     |
+| 4月2日、9日                                  |
+| 4月30日                                    |
+| 5月28日                                    |
+| 6月2日                                     |
+| 6月8日                                     |
+| 6月21日                                    |
+| 6月26日                                    |
+| 6月29日                                    |
+| 7月1日                                     |
+| 7月7日                                     |
+| 7月9日、16日                                 |
+| 7月10日                                    |
+| 7月21日－8月18日                              |
+| 7月22日                                    |
+| 7月28日                                    |
+| 7月29日                                    |
+| [AbemaTV](../Page/AbemaTV.md "wikilink") |
+| 7月30日                                    |
+| 8月2日                                     |
+| 8月5日                                     |
+| 10月26日                                   |
+| 10月28日                                   |
+| 11月8日、14日                                |
+| 11月10日                                   |
+| 11月21日                                   |
+| 11月27日                                   |
+| 12月2日                                    |
+| Dingo Studios                            |
+| 12月9日                                    |
+| 12月13日                                   |
+| 12月15日                                   |
+| 12月28日                                   |
+| 12月30日                                   |
 
 |                                                     |
 | --------------------------------------------------- |
@@ -959,12 +959,12 @@ V LIVE</p></td>
 9月29日、10月13日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">SBS MTV</a></p></td>
 <td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">The Show</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/文俊輝" title="wikilink">Jun</a></p></td>
+<td><p><a href="../Page/文俊輝.md" title="wikilink">Jun</a></p></td>
 <td><p>互動聊天室MC</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/文俊輝" title="wikilink">Jun</a>、<a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a></p></td>
+<td><p><a href="../Page/文俊輝.md" title="wikilink">Jun</a>、<a href="../Page/夫勝寛.md" title="wikilink">勝寛</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -987,7 +987,7 @@ V LIVE</p></td>
 <td><p>5月3日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">SBS MTV</a></p></td>
 <td><p><a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">The Show</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/文俊輝" title="wikilink">Jun</a></p></td>
+<td><p><a href="../Page/文俊輝.md" title="wikilink">Jun</a></p></td>
 <td><p>互動聊天室MC</p></td>
 </tr>
 <tr class="odd">
@@ -995,21 +995,21 @@ V LIVE</p></td>
 7月7日－7月21日</p></td>
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尹淨漢" title="wikilink">淨漢</a>、<a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尹淨漢" title="wikilink">淨漢</a>、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a></p></td>
 <td><p>實習MC</p></td>
 </tr>
 <tr class="even">
 <td><p>6月4日</p></td>
 <td><p>－</p></td>
 <td><p>2016 第22屆<a href="../Page/夢想演唱會.md" title="wikilink">夢想演唱會</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尹淨漢" title="wikilink">淨漢</a>、<a href="https://zh.wikipedia.org/wiki/文俊輝" title="wikilink">Jun</a>、<a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尹淨漢" title="wikilink">淨漢</a>、<a href="../Page/文俊輝.md" title="wikilink">Jun</a>、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a></p></td>
 <td><p>一部MC [18]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月27日</p></td>
 <td><p>－</p></td>
 <td><p>2016 Super Seoul Dream Concert</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a></p></td>
+<td><p><a href="../Page/金珉奎.md" title="wikilink">珉奎</a></p></td>
 <td><p>正式MC<br />
 與<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/陳世娫.md" title="wikilink">陳世娫</a></p></td>
 </tr>
@@ -1045,7 +1045,7 @@ V LIVE</p></td>
 </tr>
 <tr class="even">
 <td><p>1月26日、2月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/圓佑" title="wikilink">圓佑</a>、<a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/圓佑" title="wikilink">圓佑</a>、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1053,7 +1053,7 @@ V LIVE</p></td>
 <tr class="odd">
 <td><p>5月21日</p></td>
 <td><p><a href="../Page/M_Countdown特別活動.md" title="wikilink">KCON 2017 JAPAN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/崔勝哲" title="wikilink">S.coups</a>、<a href="https://zh.wikipedia.org/wiki/圓佑" title="wikilink">圓佑</a>、<a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔勝哲" title="wikilink">S.coups</a>、<a href="https://zh.wikipedia.org/wiki/圓佑" title="wikilink">圓佑</a>、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1083,10 +1083,10 @@ V LIVE</p></td>
 <tr class="odd">
 <td><p>12月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS歌謠盛典" title="wikilink">KBS歌謠盛典</a> 2部</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a></p></td>
+<td><p><a href="../Page/KBS歌謠盛典.md" title="wikilink">KBS歌謠盛典</a> 2部</p></td>
+<td><p><a href="../Page/金珉奎.md" title="wikilink">珉奎</a></p></td>
 <td><p>正式MC<br />
-與<a href="https://zh.wikipedia.org/wiki/姜丹尼爾" title="wikilink">姜丹尼爾</a>、<a href="../Page/頌樂.md" title="wikilink">頌樂</a>、<a href="../Page/Yerin.md" title="wikilink">Yerin</a> [22]</p></td>
+與<a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a>、<a href="../Page/頌樂.md" title="wikilink">頌樂</a>、<a href="../Page/Yerin.md" title="wikilink">Yerin</a> [22]</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
@@ -1106,42 +1106,42 @@ V LIVE</p></td>
 <td><p>2月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>第十四屆<a href="https://zh.wikipedia.org/wiki/MBC偶像明星運動會" title="wikilink">MBC偶像明星運動會</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a></p></td>
+<td><p><a href="../Page/夫勝寛.md" title="wikilink">勝寛</a></p></td>
 <td><p>女子韻律體操特別MC</p></td>
 </tr>
 <tr class="odd">
 <td><p>2月18日至今</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a></p></td>
+<td><p><a href="../Page/金珉奎.md" title="wikilink">珉奎</a></p></td>
 <td><p>固定MC與<a href="../Page/申銀秀.md" title="wikilink">申銀秀</a></p></td>
 </tr>
 <tr class="even">
 <td><p>3月22日</p></td>
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a>、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a></p></td>
+<td><p><a href="../Page/夫勝寛.md" title="wikilink">勝寛</a>、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a></p></td>
 <td><p>特別MC</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月19日</p></td>
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 <td><p>KCON 2018 JAPAN</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/崔勝哲" title="wikilink">S.coups</a>、<a href="https://zh.wikipedia.org/wiki/尹淨漢" title="wikilink">淨漢</a>、<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a>、<a href="https://zh.wikipedia.org/wiki/圓佑" title="wikilink">圓佑</a>、<a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔勝哲" title="wikilink">S.coups</a>、<a href="https://zh.wikipedia.org/wiki/尹淨漢" title="wikilink">淨漢</a>、<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a>、<a href="https://zh.wikipedia.org/wiki/圓佑" title="wikilink">圓佑</a>、<a href="../Page/夫勝寛.md" title="wikilink">勝寛</a></p></td>
 <td><p>特別MC</p></td>
 </tr>
 <tr class="even">
 <td><p>5月19日-10月27日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/意外的Q" title="wikilink">意外的Q</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a></p></td>
+<td><p><a href="../Page/意外的Q.md" title="wikilink">意外的Q</a></p></td>
+<td><p><a href="../Page/夫勝寛.md" title="wikilink">勝寛</a></p></td>
 <td><p>固定成員</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p>SUPER CONCERT IN TAIPEI</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a></p></td>
+<td><p><a href="../Page/金珉奎.md" title="wikilink">珉奎</a></p></td>
 <td><p>與<a href="../Page/Irene_(Red_Velvet).md" title="wikilink">Irene (Red Velvet)</a></p></td>
 </tr>
 <tr class="even">
@@ -1153,7 +1153,7 @@ V LIVE</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李燦" title="wikilink">Dino</a>、<a href="https://zh.wikipedia.org/wiki/尹淨漢" title="wikilink">淨漢</a>、<a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李燦" title="wikilink">Dino</a>、<a href="https://zh.wikipedia.org/wiki/尹淨漢" title="wikilink">淨漢</a>、<a href="../Page/夫勝寛.md" title="wikilink">勝寛</a></p></td>
 <td><p>特別MC</p></td>
 <td></td>
 <td></td>
@@ -1169,7 +1169,7 @@ V LIVE</p></td>
 <td><p>10月14日-12月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/腾讯娱乐" title="wikilink">騰訊</a></p></td>
 <td><p>由你音樂榜樣</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/文俊輝" title="wikilink">Jun</a></p></td>
+<td><p><a href="../Page/文俊輝.md" title="wikilink">Jun</a></p></td>
 <td><p>報榜官<br />
 與伍嘉成、斯外戈主持</p></td>
 </tr>
@@ -1177,7 +1177,7 @@ V LIVE</p></td>
 <td><p>10月14日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p>SUPER CONCERT IN SUWON</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/全圓佑" title="wikilink">圓佑</a>、<a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a></p></td>
+<td><p><a href="../Page/全圓佑.md" title="wikilink">圓佑</a>、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a></p></td>
 <td><p>特別MC</p></td>
 </tr>
 <tr class="odd">
@@ -1198,9 +1198,9 @@ V LIVE</p></td>
 <td><p>1月27日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a></p></td>
+<td><p><a href="../Page/夫勝寛.md" title="wikilink">勝寛</a></p></td>
 <td><p>特別MC<br />
-與<a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a>、<a href="https://zh.wikipedia.org/wiki/鄭采妍" title="wikilink">鄭采妍</a>（固定MC）</p></td>
+與<a href="../Page/金珉奎.md" title="wikilink">珉奎</a>、<a href="https://zh.wikipedia.org/wiki/鄭采妍" title="wikilink">鄭采妍</a>（固定MC）</p></td>
 </tr>
 <tr class="even">
 <td><p>2月3日</p></td>
@@ -1208,13 +1208,13 @@ V LIVE</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a></p></td>
 <td><p>特別MC<br />
-與<a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a>、<a href="https://zh.wikipedia.org/wiki/鄭采妍" title="wikilink">鄭采妍</a>（固定MC）</p></td>
+與<a href="../Page/金珉奎.md" title="wikilink">珉奎</a>、<a href="https://zh.wikipedia.org/wiki/鄭采妍" title="wikilink">鄭采妍</a>（固定MC）</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月16日至今</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/傻瓜們的牢獄生活" title="wikilink">傻瓜們的牢獄生活</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a></p></td>
+<td><p><a href="../Page/夫勝寛.md" title="wikilink">勝寛</a></p></td>
 <td><p>（固定MC）</p></td>
 </tr>
 </tbody>
@@ -1291,7 +1291,7 @@ V LIVE</p></td>
 <td><p>8月19日</p></td>
 <td><p>SURE KOREA</p></td>
 <td><p>9月號 / 2015</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/崔勝哲" title="wikilink">S.coups</a>、<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a>、<a href="https://zh.wikipedia.org/wiki/全圓佑" title="wikilink">圓佑</a>、<a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔勝哲" title="wikilink">S.coups</a>、<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">Joshua</a>、<a href="../Page/全圓佑.md" title="wikilink">圓佑</a>、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a>、<a href="https://zh.wikipedia.org/wiki/崔韓率" title="wikilink">Vernon</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1340,7 +1340,7 @@ V LIVE</p></td>
 <td><p>3月16日</p></td>
 <td><p>GQ KOREA</p></td>
 <td><p>3月號 / 2016，第181期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/全圓佑" title="wikilink">圓佑</a></p></td>
+<td><p><a href="../Page/全圓佑.md" title="wikilink">圓佑</a></p></td>
 <td><p>[28]</p></td>
 </tr>
 <tr class="even">
@@ -1372,7 +1372,7 @@ V LIVE</p></td>
 <td><p>5月15日</p></td>
 <td><p>Lawson/月刊HMV</p></td>
 <td><p>5月號 / 2016</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/崔勝哲" title="wikilink">S.coups</a>、<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a>、<a href="https://zh.wikipedia.org/wiki/李知勳_(SEVENTEEN)" title="wikilink">WOOZI</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔勝哲" title="wikilink">S.coups</a>、<a href="https://zh.wikipedia.org/wiki/權順榮" title="wikilink">Hoshi</a>、<a href="../Page/李知勳_(SEVENTEEN).md" title="wikilink">WOOZI</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1435,7 +1435,7 @@ V LIVE</p></td>
 <td><p>12月22日</p></td>
 <td><p>JennyHouse J STYLE MAGAZINE</p></td>
 <td><p>Vol.8</p></td>
-<td><p>S.coups、圓佑、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a></p></td>
+<td><p>S.coups、圓佑、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a>、<a href="../Page/金珉奎.md" title="wikilink">珉奎</a></p></td>
 <td><p>[33][34]</p></td>
 </tr>
 <tr class="odd">

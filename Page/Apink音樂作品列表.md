@@ -35,7 +35,7 @@
 <ul>
 <li>發行日期：2012年5月9日</li>
 <li>唱片公司：<a href="../Page/Plan_A娛樂.md" title="wikilink">A Cube娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 </ul></td>
 <td><p>4</p></td>
 <td><p>10</p></td>
@@ -55,7 +55,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p>第三張正規專輯《<strong><a href="https://zh.wikipedia.org/wiki/Pink_Revolution" title="wikilink">Pink Revolution</a></strong>》</p>
+<td><p>第三張正規專輯《<strong><a href="../Page/Pink_Revolution.md" title="wikilink">Pink Revolution</a></strong>》</p>
 <ul>
 <li>發行日期：2016年9月26日</li>
 <li>唱片公司：<a href="../Page/Plan_A娛樂.md" title="wikilink">Plan A娛樂</a></li>
@@ -101,7 +101,7 @@
 <ul>
 <li>發行日期：2011年4月19日</li>
 <li>唱片公司：<a href="../Page/Plan_A娛樂.md" title="wikilink">A Cube娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 </ul></td>
 <td><p>9</p></td>
 <td><p>21</p></td>
@@ -157,7 +157,7 @@
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
-<td><p>第六張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/Pink_Up" title="wikilink">Pink Up</a></strong>》</p>
+<td><p>第六張迷你專輯《<strong><a href="../Page/Pink_Up.md" title="wikilink">Pink Up</a></strong>》</p>
 <ul>
 <li>發行日期：2017年6月26日</li>
 <li>唱片公司：Plan A娛樂</li>
@@ -169,7 +169,7 @@
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
-<td><p>第七張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/ONE_&amp;_SIX" title="wikilink">ONE &amp; SIX</a></strong>》</p>
+<td><p>第七張迷你專輯《<strong><a href="../Page/ONE_&amp;_SIX.md" title="wikilink">ONE &amp; SIX</a></strong>》</p>
 <ul>
 <li>發行日期：2018年7月2日</li>
 <li>唱片公司：<a href="../Page/Plan_A娛樂.md" title="wikilink">Plan A娛樂</a></li>
@@ -211,7 +211,7 @@
 <ul>
 <li>發行日期：2011年6月23日</li>
 <li>唱片公司：<a href="../Page/Plan_A娛樂.md" title="wikilink">A Cube娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 </ul></td>
 <td><ol>
 <li><strong>It Girl (Remix Ver.)</strong></li>
@@ -353,7 +353,7 @@
 </tr>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>首張特別專輯《<strong><a href="https://zh.wikipedia.org/wiki/Dear" title="wikilink">Dear</a></strong>》</p>
+<td><p>首張特別專輯《<strong><a href="../Page/Dear.md" title="wikilink">Dear</a></strong>》</p>
 <ul>
 <li>發行日期：2016年12月15日</li>
 <li>唱片公司：<a href="../Page/Plan_A娛樂.md" title="wikilink">Plan A娛樂</a></li>
@@ -873,40 +873,40 @@
 
 ## 成員們創作作品
 
-| 日期               | 歌曲                                          | 專輯                                                                            | 參與成員    | 創作部分     | 備註                                                                |
-| ---------------- | ------------------------------------------- | ----------------------------------------------------------------------------- | ------- | -------- | ----------------------------------------------------------------- |
-| 2012年5月9日        | [4月19日](../Page/4月19日_\(單曲\).md "wikilink") | 《[UNE ANNEE](../Page/UNE_ANNEE.md "wikilink")》                                | 朴初瓏     | 填詞       |                                                                   |
-| 2014年3月31日       | 愛情童話                                        | 《[Pink Blossom](../Page/Pink_Blossom.md "wikilink")》                          |         |          |                                                                   |
-| So Long          |                                             |                                                                               |         |          |                                                                   |
-| 2014年11月24日      | Wanna Be                                    | 《[Pink LUV](../Page/Pink_LUV.md "wikilink")》                                  |         |          |                                                                   |
-| 2015年4月19日       | Promise U                                   | 《》                                                                            | 鄭恩地     | 作曲、填詞、編曲 | 與小范阿朗                                                             |
-| 2015年7月16日       | Dejavu                                      | 《[Pink MEMORY](../Page/Pink_MEMORY.md "wikilink")》                            | 朴初瓏     | 填詞       |                                                                   |
-| What A Boy Wants | 吳夏榮                                         | 與AK 47                                                                        |         |          |                                                                   |
-| 2015年8月26日       | 4月19日 (Japanese Ver.)                       | 《》                                                                            | 朴初瓏     |          |                                                                   |
-| 2016年4月18日       | Hopefully sky (Feat. )                      | 《[Dream](../Page/Dream_\(迷你專輯\).md "wikilink")》                               | 鄭恩地     | 作曲、填詞    | 與[二段橫踢](https://zh.wikipedia.org/wiki/二段橫踢 "wikilink")、long candy |
-| 編曲               | 與二段橫踢、EASTWEST                              |                                                                               |         |          |                                                                   |
-| 2016年4月19日       | The Wave                                    | 《》                                                                            | 朴初瓏     | 填詞       | 與金鎮煥                                                              |
-| 2016年9月26日       | To. Us                                      | 《[Pink Revolution](https://zh.wikipedia.org/wiki/Pink_Revolution "wikilink")》 |         |          |                                                                   |
-| 2016年12月15日      | Cliche                                      | 《[Dear](https://zh.wikipedia.org/wiki/Dear "wikilink")》                       | 朴初瓏、孫娜恩 |          |                                                                   |
-| Heaven           | 尹普美、金南珠                                     |                                                                               |         |          |                                                                   |
-| It's You         | 鄭恩地、吳夏榮                                     |                                                                               |         |          |                                                                   |
-| 2017年4月10日       | First Love                                  | 《[空間](https://zh.wikipedia.org/wiki/空間_\(迷你專輯\) "wikilink")》                  | 鄭恩地     |          |                                                                   |
-| Full Moon        |                                             |                                                                               |         |          |                                                                   |
-| 2017年6月26日       | Eyes                                        | 《Pink Up》                                                                     | 朴初瓏     | 填詞       |                                                                   |
-| 2018年4月19日       | Miracle                                     | 《奇蹟般的故事》                                                                      | 朴初瓏     | 填詞       | 與LOOGONE, BEOMxNANG, Jamie                                        |
-| 鄭恩地              | 作曲                                          |                                                                               |         |          |                                                                   |
-| 2018年7月2日        | Don’t be silly                              | 《ONE & SIX》                                                                   | 朴初瓏     | 填詞       | 與luvssong                                                         |
-| Forever Star     | 金南珠                                         |                                                                               |         |          |                                                                   |
-| 2018年10月17日      | 별 반짝이는 꽃을 위해                                | 《暳花》                                                                          | 鄭恩地     | 作曲、編曲    | 與BEOMXNANG, 변무혁                                                   |
-| 어떤가요             | 作曲、填詞、編曲                                    | 與BEOMXNANG                                                                    |         |          |                                                                   |
-| 계절이 바뀌듯          | 作曲、填詞                                       |                                                                               |         |          |                                                                   |
-| 상자               | 填詞                                          | 與鮮于貞娥                                                                         |         |          |                                                                   |
-| 신경 쓰여요           | 填詞                                          |                                                                               |         |          |                                                                   |
-| B                | 作曲、填詞、編曲                                    | 與BEOMXNANG, 변무혁                                                               |         |          |                                                                   |
-| 김비서              | 填詞                                          |                                                                               |         |          |                                                                   |
-| 作曲               | 與Beverly Kidz                               |                                                                               |         |          |                                                                   |
-| 새벽               | 填詞                                          | 與BEOMXNANG                                                                    |         |          |                                                                   |
-| 2019年1月7日        | Enough                                      | 《PERCENT》                                                                     | 朴初瓏     | 填詞       |                                                                   |
+| 日期               | 歌曲                                          | 專輯                                                         | 參與成員    | 創作部分     | 備註                                                                |
+| ---------------- | ------------------------------------------- | ---------------------------------------------------------- | ------- | -------- | ----------------------------------------------------------------- |
+| 2012年5月9日        | [4月19日](../Page/4月19日_\(單曲\).md "wikilink") | 《[UNE ANNEE](../Page/UNE_ANNEE.md "wikilink")》             | 朴初瓏     | 填詞       |                                                                   |
+| 2014年3月31日       | 愛情童話                                        | 《[Pink Blossom](../Page/Pink_Blossom.md "wikilink")》       |         |          |                                                                   |
+| So Long          |                                             |                                                            |         |          |                                                                   |
+| 2014年11月24日      | Wanna Be                                    | 《[Pink LUV](../Page/Pink_LUV.md "wikilink")》               |         |          |                                                                   |
+| 2015年4月19日       | Promise U                                   | 《》                                                         | 鄭恩地     | 作曲、填詞、編曲 | 與小范阿朗                                                             |
+| 2015年7月16日       | Dejavu                                      | 《[Pink MEMORY](../Page/Pink_MEMORY.md "wikilink")》         | 朴初瓏     | 填詞       |                                                                   |
+| What A Boy Wants | 吳夏榮                                         | 與AK 47                                                     |         |          |                                                                   |
+| 2015年8月26日       | 4月19日 (Japanese Ver.)                       | 《》                                                         | 朴初瓏     |          |                                                                   |
+| 2016年4月18日       | Hopefully sky (Feat. )                      | 《[Dream](../Page/Dream_\(迷你專輯\).md "wikilink")》            | 鄭恩地     | 作曲、填詞    | 與[二段橫踢](https://zh.wikipedia.org/wiki/二段橫踢 "wikilink")、long candy |
+| 編曲               | 與二段橫踢、EASTWEST                              |                                                            |         |          |                                                                   |
+| 2016年4月19日       | The Wave                                    | 《》                                                         | 朴初瓏     | 填詞       | 與金鎮煥                                                              |
+| 2016年9月26日       | To. Us                                      | 《[Pink Revolution](../Page/Pink_Revolution.md "wikilink")》 |         |          |                                                                   |
+| 2016年12月15日      | Cliche                                      | 《[Dear](../Page/Dear.md "wikilink")》                       | 朴初瓏、孫娜恩 |          |                                                                   |
+| Heaven           | 尹普美、金南珠                                     |                                                            |         |          |                                                                   |
+| It's You         | 鄭恩地、吳夏榮                                     |                                                            |         |          |                                                                   |
+| 2017年4月10日       | First Love                                  | 《[空間](../Page/空間_\(迷你專輯\).md "wikilink")》                  | 鄭恩地     |          |                                                                   |
+| Full Moon        |                                             |                                                            |         |          |                                                                   |
+| 2017年6月26日       | Eyes                                        | 《Pink Up》                                                  | 朴初瓏     | 填詞       |                                                                   |
+| 2018年4月19日       | Miracle                                     | 《奇蹟般的故事》                                                   | 朴初瓏     | 填詞       | 與LOOGONE, BEOMxNANG, Jamie                                        |
+| 鄭恩地              | 作曲                                          |                                                            |         |          |                                                                   |
+| 2018年7月2日        | Don’t be silly                              | 《ONE & SIX》                                                | 朴初瓏     | 填詞       | 與luvssong                                                         |
+| Forever Star     | 金南珠                                         |                                                            |         |          |                                                                   |
+| 2018年10月17日      | 별 반짝이는 꽃을 위해                                | 《暳花》                                                       | 鄭恩地     | 作曲、編曲    | 與BEOMXNANG, 변무혁                                                   |
+| 어떤가요             | 作曲、填詞、編曲                                    | 與BEOMXNANG                                                 |         |          |                                                                   |
+| 계절이 바뀌듯          | 作曲、填詞                                       |                                                            |         |          |                                                                   |
+| 상자               | 填詞                                          | 與鮮于貞娥                                                      |         |          |                                                                   |
+| 신경 쓰여요           | 填詞                                          |                                                            |         |          |                                                                   |
+| B                | 作曲、填詞、編曲                                    | 與BEOMXNANG, 변무혁                                            |         |          |                                                                   |
+| 김비서              | 填詞                                          |                                                            |         |          |                                                                   |
+| 作曲               | 與Beverly Kidz                               |                                                            |         |          |                                                                   |
+| 새벽               | 填詞                                          | 與BEOMXNANG                                                 |         |          |                                                                   |
+| 2019年1月7日        | Enough                                      | 《PERCENT》                                                  | 朴初瓏     | 填詞       |                                                                   |
 
 ## 參與歌曲
 
@@ -927,7 +927,7 @@
 <ul>
 <li>發行日期：2012年3月14日</li>
 <li>唱片公司：<a href="../Page/Plan_A娛樂.md" title="wikilink">A Cube娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>語言：韓語</li>
 <li>參與藝人：鄭恩地（Apink）、<a href="../Page/梁耀燮.md" title="wikilink">耀燮</a>（<a href="https://zh.wikipedia.org/wiki/BEAST" title="wikilink">BEAST</a>）</li>
 </ul></td>
@@ -1120,7 +1120,7 @@ OT: Do or Die (English Ver.)</p></td>
 <td><p>《2015歌謠大戰Limited Edition》</p></td>
 <td><p>我沒關係</p></td>
 <td><p>鄭恩地</p></td>
-<td><p>與<a href="../Page/朴善英.md" title="wikilink">Luna</a>（<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a>）、<a href="https://zh.wikipedia.org/wiki/頌樂" title="wikilink">頌樂</a>（<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>）、<a href="https://zh.wikipedia.org/wiki/李藝真" title="wikilink">Ailee</a><br />
+<td><p>與<a href="../Page/朴善英.md" title="wikilink">Luna</a>（<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)</a>）、<a href="../Page/頌樂.md" title="wikilink">頌樂</a>（<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>）、<a href="https://zh.wikipedia.org/wiki/李藝真" title="wikilink">Ailee</a><br />
 OA: </p></td>
 </tr>
 <tr class="odd">
@@ -1167,7 +1167,7 @@ OA: </p></td>
 </tr>
 <tr class="even">
 <td><p>2017年8月15日</p></td>
-<td><p>KBS劇集《<a href="https://zh.wikipedia.org/wiki/學校2017" title="wikilink">學校2017</a>》</p></td>
+<td><p>KBS劇集《<a href="../Page/學校2017.md" title="wikilink">學校2017</a>》</p></td>
 <td><p>《學校2017OST Part 6》</p></td>
 <td><p>I Pray 4 You</p></td>
 <td><p>尹普美、金南珠</p></td>
@@ -1277,7 +1277,7 @@ OA: </p></td>
 <td><p>我們的夜比你的白天更美</p></td>
 <td><p>《Merry Summer》</p></td>
 <td><p>尹普美、金南珠</p></td>
-<td><p>與<a href="../Page/李碩薰.md" title="wikilink">李碩薰</a>（<a href="../Page/SG_Wannabe.md" title="wikilink">SG Wannabe</a>）、、、<a href="https://zh.wikipedia.org/wiki/禹泰雲" title="wikilink">₩uNo</a>、、<a href="https://zh.wikipedia.org/wiki/安孝珍" title="wikilink">LE</a>（<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>）、江敏希 （）、楊多日 、<a href="https://zh.wikipedia.org/wiki/鄭采妍" title="wikilink">采妍</a>（<a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a>），以Summer 11 名義<br />
+<td><p>與<a href="../Page/李碩薰.md" title="wikilink">李碩薰</a>（<a href="../Page/SG_Wannabe.md" title="wikilink">SG Wannabe</a>）、、、<a href="../Page/禹泰雲.md" title="wikilink">₩uNo</a>、、<a href="https://zh.wikipedia.org/wiki/安孝珍" title="wikilink">LE</a>（<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>）、江敏希 （）、楊多日 、<a href="https://zh.wikipedia.org/wiki/鄭采妍" title="wikilink">采妍</a>（<a href="https://zh.wikipedia.org/wiki/DIA" title="wikilink">DIA</a>），以Summer 11 名義<br />
 OA: <a href="https://zh.wikipedia.org/wiki/Kona" title="wikilink">Kona</a></p></td>
 </tr>
 <tr class="even">
@@ -1285,13 +1285,13 @@ OA: <a href="https://zh.wikipedia.org/wiki/Kona" title="wikilink">Kona</a></p></
 <td><p>EYESCREAM （+Inst.）</p></td>
 <td><p>《EYESCREAM》</p></td>
 <td><p>鄭恩地</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/鄭韓海" title="wikilink">鄭韓海</a>（<a href="https://zh.wikipedia.org/wiki/Phantom" title="wikilink">Phantom</a>）</p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/鄭韓海" title="wikilink">鄭韓海</a>（<a href="../Page/Phantom.md" title="wikilink">Phantom</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年11月2日</p></td>
 <td><p>Visual Gangster</p></td>
 <td><p>《》</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/MC夢" title="wikilink">MC夢</a></p></td>
+<td><p>與<a href="../Page/MC夢.md" title="wikilink">MC夢</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

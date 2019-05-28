@@ -10,7 +10,7 @@
 ## 配音
 
   - 魯邦三世：[山田康雄](https://zh.wikipedia.org/wiki/山田康雄 "wikilink")
-  - 次元大介：[小林清志](https://zh.wikipedia.org/wiki/小林清志 "wikilink")
+  - 次元大介：[小林清志](../Page/小林清志.md "wikilink")
   - 峰不二子：[增山江威子](https://zh.wikipedia.org/wiki/增山江威子 "wikilink")
   - 石川五右衛門：[井上真樹夫](../Page/井上真樹夫.md "wikilink")
   - 錢形幸一：[納谷悟朗](https://zh.wikipedia.org/wiki/納谷悟朗 "wikilink")

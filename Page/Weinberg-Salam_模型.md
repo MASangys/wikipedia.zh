@@ -13,7 +13,7 @@ Salam提出](https://zh.wikipedia.org/wiki/Abdus_Salam "wikilink")[弱電統一�
     [規範場](https://zh.wikipedia.org/wiki/規範場 "wikilink") \(A_{\mu}\)的力
   - \(B_{\mu\nu} := \partial_{\mu}B_{\nu} - \partial_{\nu}B_{\mu}\)是U(1)場（[電磁場](https://zh.wikipedia.org/wiki/電磁場 "wikilink")）\(B_{\mu}\)的力
   - g 是荷
-  - \(\partial\!\!\!/\)是[狄拉克算子](https://zh.wikipedia.org/wiki/狄拉克算子 "wikilink")，用[費曼斜線標記表示](../Page/費曼斜線標記.md "wikilink")
+  - \(\partial\!\!\!/\)是[狄拉克算子](../Page/狄拉克算子.md "wikilink")，用[費曼斜線標記表示](../Page/費曼斜線標記.md "wikilink")
   - g'/2 是U(1)[耦合常數](../Page/耦合常數.md "wikilink")
   - <math>L_e = \\begin{pmatrix}
 

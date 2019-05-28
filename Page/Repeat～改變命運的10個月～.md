@@ -90,7 +90,7 @@
 
 ### 其他
 
-  - 町田由子〈21〉：[島崎遙香](../Page/島崎遙香.md "wikilink")\[2\]\[3\]（香港配音：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")）
+  - 町田由子〈21〉：[島崎遙香](../Page/島崎遙香.md "wikilink")\[2\]\[3\]（香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
 
 <!-- end list -->
 
@@ -196,7 +196,7 @@
 
 <!-- end list -->
 
-  - 南：（香港配音：[廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink")）
+  - 南：（香港配音：[廖杏茵](../Page/廖杏茵.md "wikilink")）
 
 <!-- end list -->
 

@@ -1,5 +1,5 @@
 **第五代雙倍資料率同步動態隨機存取記憶體**（，缩写**DDR5
-SDRAM**）是一種正在开发的[高頻寬電腦](https://zh.wikipedia.org/wiki/带宽_\(计算机\) "wikilink")[記憶體規格](https://zh.wikipedia.org/wiki/記憶體 "wikilink")。它屬於[SDRAM家族的記憶體產品](../Page/SDRAM.md "wikilink")。
+SDRAM**）是一種正在开发的[高頻寬電腦](../Page/带宽_\(计算机\).md "wikilink")[記憶體規格](https://zh.wikipedia.org/wiki/記憶體 "wikilink")。它屬於[SDRAM家族的記憶體產品](../Page/SDRAM.md "wikilink")。
 
 据[英特尔公司Geof](../Page/英特尔.md "wikilink")
 Findley称，[JEDEC计划在](../Page/JEDEC.md "wikilink")2016年发布DDR5

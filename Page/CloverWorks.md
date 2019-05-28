@@ -90,7 +90,7 @@ Pictures獨立，但仍然是[Aniplex的子公司](../Page/Aniplex.md "wikilink"
 <td><p>第2期</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/FAIRY_TAIL_(動畫)" title="wikilink">妖精的尾巴（第3期）</a></p></td>
+<td><p><a href="../Page/FAIRY_TAIL_(動畫).md" title="wikilink">妖精的尾巴（第3期）</a></p></td>
 <td></td>
 <td><p>10月7日－播放中</p></td>
 <td><p><a href="../Page/石平信司.md" title="wikilink">石平信司</a></p></td>

@@ -11,7 +11,7 @@ Phone
 
 诺基亚 Lumia 830 使用 MSM8926 [SoC](../Page/系统芯片.md "wikilink")，这款SoC搭载四核
 1.2GHz [ARM
-Cortex-A7构架的CPU](https://zh.wikipedia.org/wiki/ARM_Cortex-A7_MPCore "wikilink")，以及一个
+Cortex-A7构架的CPU](../Page/ARM_Cortex-A7_MPCore.md "wikilink")，以及一个
 [Adreno](https://zh.wikipedia.org/wiki/AMD_Imageon "wikilink") 305
 [显示芯片](https://zh.wikipedia.org/wiki/显示芯片 "wikilink")。该手机内存大小为1GB，内置存储器容量为16 GB，用户可以使用Micro-SD卡将ROM扩展最高128GB。
 

@@ -167,7 +167,7 @@ Alive](../Page/月刊Comic_Alive.md "wikilink")》2017年2月號開始連載，�
   - 總作畫監督：安田祥子、小關雅、後藤潤二
   - 音樂：[横山克](../Page/横山克.md "wikilink")、堤博明
   - 監製：GENCO
-  - 制作：[TNK](https://zh.wikipedia.org/wiki/TNK "wikilink")、[ARTLAND](../Page/ARTLAND.md "wikilink")
+  - 制作：[TNK](../Page/TNK.md "wikilink")、[ARTLAND](../Page/ARTLAND.md "wikilink")
   - 製作：「Sin 七大罪」製作委員會
 
 #### 主題曲
@@ -232,8 +232,7 @@ juun.coo，作曲：ZAQ，編曲：河田貴央，主唱：路西法（[喜多�
 
 :; 「」（第8話）
 
-::
-作詞：中村彼方，作曲、編曲：酒井陽一，主唱：撒旦（[櫻庭有紗](https://zh.wikipedia.org/wiki/櫻庭有紗 "wikilink")）
+:: 作詞：中村彼方，作曲、編曲：酒井陽一，主唱：撒旦（[櫻庭有紗](../Page/櫻庭有紗.md "wikilink")）
 
 :; 「YES or YES」（第11話）
 
@@ -404,7 +403,7 @@ juun.coo，作曲：ZAQ，編曲：河田貴央，主唱：路西法（[喜多�
 <td><p>要愛你們的仇敵，為那逼迫你們的祈禱</p></td>
 <td><p>鈴木雅詞<br />
 大久保昌弘</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柳澤哲也" title="wikilink">柳澤哲也</a></p></td>
+<td><p><a href="../Page/柳澤哲也.md" title="wikilink">柳澤哲也</a></p></td>
 <td><p>吉田俊司</p></td>
 <td><p>朝岡卓矢、石動仁<br />
 後藤潤二、岡辰也<br />

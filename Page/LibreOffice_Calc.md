@@ -31,9 +31,9 @@ Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink"),
   - [開放美工圖庫](../Page/開放美工圖庫.md "wikilink")
   - [LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")
   - [Writer](../Page/LibreOffice_Writer.md "wikilink")
-  - [Impress](https://zh.wikipedia.org/wiki/LibreOffice_Impress "wikilink")
-  - [Math](https://zh.wikipedia.org/wiki/LibreOffice_Math "wikilink")
-  - [Draw](https://zh.wikipedia.org/wiki/LibreOffice_Draw "wikilink")
+  - [Impress](../Page/LibreOffice_Impress.md "wikilink")
+  - [Math](../Page/LibreOffice_Math.md "wikilink")
+  - [Draw](../Page/LibreOffice_Draw.md "wikilink")
 
 ## 参考资料
 

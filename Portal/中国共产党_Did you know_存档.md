@@ -56,18 +56,18 @@
 ### 7月
 
   - **[哪首中国军歌](../Page/游击队歌.md "wikilink")**描写[中国抗日战争期间与侵华日军战斗的游击队员](../Page/中国抗日战争.md "wikilink")，部分旋律源自《[不列颠掷弹兵进行曲](https://zh.wikipedia.org/wiki/不列颠掷弹兵进行曲 "wikilink")》？
-  - **[哪位政治人物](https://zh.wikipedia.org/wiki/缪伯英 "wikilink")**是[中国共产党的首位女党员](../Page/中国共产党.md "wikilink")？
+  - **[哪位政治人物](../Page/缪伯英.md "wikilink")**是[中国共产党的首位女党员](../Page/中国共产党.md "wikilink")？
   - **[哪位企业家](../Page/车耀先.md "wikilink")**曾创立[努力餐](../Page/努力餐.md "wikilink")，后因成都抢米事件被捕被害？
-  - **[哪支新四军部队](https://zh.wikipedia.org/wiki/新四军第2师 "wikilink")**是在[皖南事变后](../Page/皖南事变.md "wikilink")，由[江北指挥部及所属部队编成](https://zh.wikipedia.org/wiki/江北指挥部 "wikilink")？
+  - **[哪支新四军部队](../Page/新四军第2师.md "wikilink")**是在[皖南事变后](../Page/皖南事变.md "wikilink")，由[江北指挥部及所属部队编成](https://zh.wikipedia.org/wiki/江北指挥部 "wikilink")？
   - [中国人民解放军上将](../Page/中国人民解放军上将.md "wikilink")[万海峰的名字是](../Page/万海峰.md "wikilink")**[哪一位中国工农红军将领](../Page/高敬亭.md "wikilink")**所取？
-  - **[哪位军事将领](https://zh.wikipedia.org/wiki/万涛 "wikilink")**曾任中共湘鄂西特委副书记、[中国工农红军第三军政委](https://zh.wikipedia.org/wiki/中国工农红军第三军 "wikilink")？
-  - **[哪位军事将领](https://zh.wikipedia.org/wiki/程克绳 "wikilink")**曾任[中国工农红军第九军第二十六师师长](../Page/中国工农红军第九军.md "wikilink")，后死于肃反？
-  - **[哪位军事将领](https://zh.wikipedia.org/wiki/王平章 "wikilink")**曾任[中国工农红军](../Page/中国工农红军.md "wikilink")[红二十五军](https://zh.wikipedia.org/wiki/红二十五军 "wikilink")、[红二十八军政治委员](https://zh.wikipedia.org/wiki/红二十八军 "wikilink")？
-  - **[哪位政治人物](https://zh.wikipedia.org/wiki/曹学楷 "wikilink")**曾任[中国工农红军第四军第十一师政治部主任](../Page/红四军_\(红四方面军\).md "wikilink")，死于[白雀园肃反](../Page/白雀园肃反.md "wikilink")？
-  - [文化大革命期间](../Page/文化大革命.md "wikilink")**[哪一个政治口号](https://zh.wikipedia.org/wiki/砸烂公检法 "wikilink")**是旨在破坏[公安](../Page/公安机关.md "wikilink")、[检察院和](https://zh.wikipedia.org/wiki/人民检察院 "wikilink")[法院的秩序](https://zh.wikipedia.org/wiki/中华人民共和国人民法院 "wikilink")？
-  - **[哪位中共人物](https://zh.wikipedia.org/wiki/董亦湘 "wikilink")**是[恽雨棠](https://zh.wikipedia.org/wiki/恽雨棠 "wikilink")、[陈云](../Page/陈云.md "wikilink")、[张闻天](../Page/张闻天.md "wikilink")、[孙冶方的入党介绍人](../Page/孙冶方.md "wikilink")，后被[王明排挤](../Page/王明.md "wikilink")、死于苏联？
+  - **[哪位军事将领](../Page/万涛.md "wikilink")**曾任中共湘鄂西特委副书记、[中国工农红军第三军政委](https://zh.wikipedia.org/wiki/中国工农红军第三军 "wikilink")？
+  - **[哪位军事将领](../Page/程克绳.md "wikilink")**曾任[中国工农红军第九军第二十六师师长](../Page/中国工农红军第九军.md "wikilink")，后死于肃反？
+  - **[哪位军事将领](../Page/王平章.md "wikilink")**曾任[中国工农红军](../Page/中国工农红军.md "wikilink")[红二十五军](https://zh.wikipedia.org/wiki/红二十五军 "wikilink")、[红二十八军政治委员](https://zh.wikipedia.org/wiki/红二十八军 "wikilink")？
+  - **[哪位政治人物](../Page/曹学楷.md "wikilink")**曾任[中国工农红军第四军第十一师政治部主任](../Page/红四军_\(红四方面军\).md "wikilink")，死于[白雀园肃反](../Page/白雀园肃反.md "wikilink")？
+  - [文化大革命期间](../Page/文化大革命.md "wikilink")**[哪一个政治口号](../Page/砸烂公检法.md "wikilink")**是旨在破坏[公安](../Page/公安机关.md "wikilink")、[检察院和](https://zh.wikipedia.org/wiki/人民检察院 "wikilink")[法院的秩序](https://zh.wikipedia.org/wiki/中华人民共和国人民法院 "wikilink")？
+  - **[哪位中共人物](../Page/董亦湘.md "wikilink")**是[恽雨棠](https://zh.wikipedia.org/wiki/恽雨棠 "wikilink")、[陈云](../Page/陈云.md "wikilink")、[张闻天](../Page/张闻天.md "wikilink")、[孙冶方的入党介绍人](../Page/孙冶方.md "wikilink")，后被[王明排挤](../Page/王明.md "wikilink")、死于苏联？
   - **[哪位政治人物](../Page/李子芬.md "wikilink")**曾任[中国共产党满洲省委员会书记兼宣传部部长](../Page/中国共产党满洲省委员会.md "wikilink")，后被关押在安徽省第一监狱，因病重去世？
-  - **[哪个兴国革命旧址](https://zh.wikipedia.org/wiki/中国工农红军江西军区旧址 "wikilink")**的一部分在2006年被列为[第六批全国重点文物保护单位](../Page/第六批全国重点文物保护单位.md "wikilink")？
+  - **[哪个兴国革命旧址](../Page/中国工农红军江西军区旧址.md "wikilink")**的一部分在2006年被列为[第六批全国重点文物保护单位](../Page/第六批全国重点文物保护单位.md "wikilink")？
 
 ### 6月
 

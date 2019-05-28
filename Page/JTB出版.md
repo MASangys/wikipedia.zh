@@ -1,4 +1,4 @@
-**JTB出版股份有限公司**（，）是一家以出版交通與旅遊相關書籍為主的[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")，是具有官股背景的大型[旅行社](https://zh.wikipedia.org/wiki/旅行社 "wikilink")[JTB的全資子公司](https://zh.wikipedia.org/wiki/JTB "wikilink")，總部設在[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")。JTB出版原本是母公司JTB內部的出版部門，2004年時拆分成立專責的子公司JTB出版，除了負責印刷出版品的發行與銷售外，也是JTB旗下各通路的廣告銷售窗口。
+**JTB出版股份有限公司**（，）是一家以出版交通與旅遊相關書籍為主的[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")，是具有官股背景的大型[旅行社](https://zh.wikipedia.org/wiki/旅行社 "wikilink")[JTB的全資子公司](../Page/JTB.md "wikilink")，總部設在[東京都](../Page/東京都.md "wikilink")[新宿區](../Page/新宿區.md "wikilink")。JTB出版原本是母公司JTB內部的出版部門，2004年時拆分成立專責的子公司JTB出版，除了負責印刷出版品的發行與銷售外，也是JTB旗下各通路的廣告銷售窗口。
 
 ## 歷史
 

@@ -6,7 +6,7 @@
 Pierrot的舊名）和](../Page/Studio_Pierrot.md "wikilink")[STUDIO
 GALLOP（GALLOP的舊名）建立合作夥伴關係](../Page/GALLOP_\(動畫工作室\).md "wikilink")。
 
-1990年代前半，和OB企劃相關的動畫工作室Pastel（）成立之後。從電視動畫《[城市風雲兒](../Page/城市風雲兒.md "wikilink")》和OVA《[含羞草](https://zh.wikipedia.org/wiki/含羞草_\(漫畫\) "wikilink")》開始，動畫的實質製作由Pastel承包。到了2000年12月19日，又另外一間由當時已經停止動畫製作的前動畫公司[TRIANGLE
+1990年代前半，和OB企劃相關的動畫工作室Pastel（）成立之後。從電視動畫《[城市風雲兒](../Page/城市風雲兒.md "wikilink")》和OVA《[含羞草](../Page/含羞草_\(漫畫\).md "wikilink")》開始，動畫的實質製作由Pastel承包。到了2000年12月19日，又另外一間由當時已經停止動畫製作的前動畫公司[TRIANGLE
 STAFF所屬的製作人安部正次郎與工作人員馬場健等人成立](../Page/TRIANGLE_STAFF.md "wikilink")[A.C.G.T之後](../Page/A.C.G.T.md "wikilink")，向OB企劃建立旗下合作企業關係，此時Pastel則退出動畫的實質製作。2000年代以後，OB企劃承包A.C.G.T作品3DCG製作部分的業務。
 
 2009年6月為了防止駭客竄改公司的網頁內容，短暫關閉官方網站。2010年1月結束病毒清除作業，網站再度開放。
@@ -18,7 +18,7 @@ STAFF所屬的製作人安部正次郎與工作人員馬場健等人成立](../P
 ### 電視動畫
 
   - [美雪、美雪](../Page/美雪、美雪.md "wikilink")（動畫製作：[Kitty
-    film](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")，1983年－1984年）
+    film](../Page/Kitty_film.md "wikilink")，1983年－1984年）
 
   - [鄰家女孩](../Page/棒球英豪.md "wikilink")（動畫製作：，1985年－1987年）
 
@@ -59,13 +59,12 @@ STAFF所屬的製作人安部正次郎與工作人員馬場健等人成立](../P
 
   - [rumic world系列](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")
 
-      - [火焰之旅](https://zh.wikipedia.org/wiki/火焰之旅 "wikilink")（與[Studio
+      - [火焰之旅](../Page/火焰之旅.md "wikilink")（與[Studio
         Pierrot共同製作](../Page/Studio_Pierrot.md "wikilink")，1985年）
 
       - （與Studio Pierrot共同製作，1985年）
 
-      - [微笑標的](https://zh.wikipedia.org/wiki/微笑標的 "wikilink")（與Studio
-        Pierrot共同製作，1987年）
+      - [微笑標的](../Page/微笑標的.md "wikilink")（與Studio Pierrot共同製作，1987年）
 
       - [人魚之森](https://zh.wikipedia.org/wiki/人魚之森 "wikilink")（1991年）
 
@@ -92,7 +91,7 @@ STAFF所屬的製作人安部正次郎與工作人員馬場健等人成立](../P
 
   - （1991年）
 
-  - [含羞草](https://zh.wikipedia.org/wiki/含羞草_\(漫畫\) "wikilink")（動畫製作：Pastel，1991年）
+  - [含羞草](../Page/含羞草_\(漫畫\).md "wikilink")（動畫製作：Pastel，1991年）
 
   - 月（1991年）
 

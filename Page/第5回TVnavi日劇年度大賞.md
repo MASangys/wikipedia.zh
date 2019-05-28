@@ -1,5 +1,5 @@
 [第4回](../Page/第4回TVnavi日劇年度大賞.md "wikilink") ← **第5回** →
-[第6回](https://zh.wikipedia.org/wiki/第6回TVnavi日劇年度大賞 "wikilink")
+[第6回](../Page/第6回TVnavi日劇年度大賞.md "wikilink")
 
 **第5回[TVnavi日劇年度大賞](../Page/TVnavi日劇年度大賞.md "wikilink")**是針對2008年春季至2009年冬季播出的連續劇做出的觀眾投票，以下為入圍及得獎名單。
 
@@ -153,7 +153,7 @@
 <td><p>第一位：<a href="../Page/山田涼介.md" title="wikilink">山田涼介</a>　《<a href="https://zh.wikipedia.org/wiki/1磅的福音#電視劇" title="wikilink">1磅的福音</a>》、《<a href="../Page/改造老師大作戰.md" title="wikilink">改造老師大作戰</a>》<br />
 第二位：<a href="../Page/北川悠仁.md" title="wikilink">北川悠仁</a>　《<a href="../Page/純愛_(日本電視劇).md" title="wikilink">純愛</a>》<br />
 第三位：<a href="../Page/三浦翔平.md" title="wikilink">三浦翔平</a>　《<a href="../Page/王牌男公關.md" title="wikilink">王牌男公關</a>》<br />
-第四位：<a href="https://zh.wikipedia.org/wiki/宮川大輔" title="wikilink">宮川大輔</a>　《<a href="https://zh.wikipedia.org/wiki/少年刑警#電視劇" title="wikilink">少年刑警</a>》<br />
+第四位：<a href="../Page/宮川大輔.md" title="wikilink">宮川大輔</a>　《<a href="https://zh.wikipedia.org/wiki/少年刑警#電視劇" title="wikilink">少年刑警</a>》<br />
 第五位：<a href="../Page/中山優馬.md" title="wikilink">中山優馬</a>　《<a href="https://zh.wikipedia.org/wiki/野球少年#電視劇" title="wikilink">野球少年</a>》</p></td>
 </tr>
 </tbody>

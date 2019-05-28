@@ -2,7 +2,7 @@
 
 **IQOS**（官方名稱：IQOS）是[菲利普莫里斯國際](../Page/菲利普莫里斯国际.md "wikilink")（Philip
 Morris International，PMI）研發的菸草加熱系統（heated tobacco
-product），以[加熱不燃燒的方式](https://zh.wikipedia.org/wiki/加热不燃烧烟草制品 "wikilink")，將菸草加熱到攝氏350度左右，IQOS加熱時所產生的氣霧(Aerosol)，相較香煙燃燒後產生煙霧（Smoke）所含有的有害或可能有害物質（Harmful
+product），以[加熱不燃燒的方式](../Page/加热不燃烧烟草制品.md "wikilink")，將菸草加熱到攝氏350度左右，IQOS加熱時所產生的氣霧(Aerosol)，相較香煙燃燒後產生煙霧（Smoke）所含有的有害或可能有害物質（Harmful
 and Potentially Harmful Constituents,
 HPHCs）平均減少90%至95%，主要提供給不願意戒菸的成年[吸煙者作为](https://zh.wikipedia.org/wiki/吸煙 "wikilink")[香煙的替代品](../Page/香煙.md "wikilink")。
 

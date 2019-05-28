@@ -6,7 +6,7 @@ Nd\[Co(CN)<sub>6</sub>\]·5H<sub>2</sub>O属[六方晶系](../Page/六方晶系.
 
 ## 制备
 
-将[六氰合钴(III)酸钾加至略过量的沸腾的](https://zh.wikipedia.org/wiki/六氰合钴\(III\)酸钾 "wikilink")[氯化钕溶液中](https://zh.wikipedia.org/wiki/氯化钕 "wikilink")，可以得到沉淀2Nd\[Co(CN)<sub>6</sub>\]·9H<sub>2</sub>O。\[2\]
+将[六氰合钴(III)酸钾加至略过量的沸腾的](../Page/六氰合钴\(III\)酸钾.md "wikilink")[氯化钕溶液中](https://zh.wikipedia.org/wiki/氯化钕 "wikilink")，可以得到沉淀2Nd\[Co(CN)<sub>6</sub>\]·9H<sub>2</sub>O。\[2\]
 
 ## 性质
 

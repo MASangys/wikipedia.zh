@@ -1,4 +1,4 @@
-是[久慈政宗所作的](https://zh.wikipedia.org/wiki/久慈政宗 "wikilink")[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[插圖由](https://zh.wikipedia.org/wiki/插圖 "wikilink")[Hisasi繪畫](../Page/Hisasi.md "wikilink")，[黑銀負責機械設定](https://zh.wikipedia.org/wiki/黑銀 "wikilink")，並有漫畫、廣播劇CD等衍生作品。2016年1月宣佈改編為電視動畫\[1\]，同年夏季開始播放。
+是[久慈政宗所作的](../Page/久慈政宗.md "wikilink")[日本](../Page/日本.md "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，[插圖由](https://zh.wikipedia.org/wiki/插圖 "wikilink")[Hisasi繪畫](../Page/Hisasi.md "wikilink")，[黑銀負責機械設定](https://zh.wikipedia.org/wiki/黑銀 "wikilink")，並有漫畫、廣播劇CD等衍生作品。2016年1月宣佈改編為電視動畫\[1\]，同年夏季開始播放。
 
 ## 故事簡介
 
@@ -414,8 +414,7 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》2015年8月號。\[3\]
   - 音響製作：DAX
   - 音樂製作：[flying
     DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")
-  - 動畫製作：[Production
-    IMS](https://zh.wikipedia.org/wiki/Production_IMS "wikilink")
+  - 動畫製作：[Production IMS](../Page/Production_IMS.md "wikilink")
   - 製作：魔裝學園製作委員會
 
 ### 主題曲
@@ -521,7 +520,7 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》2015年8月號。\[3\]
 <td><p>第六話</p></td>
 <td></td>
 <td><p>絕世破斷-GLADIUS-</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/久慈政宗" title="wikilink">久慈政宗</a></p></td>
+<td><p><a href="../Page/久慈政宗.md" title="wikilink">久慈政宗</a></p></td>
 <td><p>吉田英俊</p></td>
 <td><p>山本貴之</p></td>
 <td><p>大野勉</p></td>
@@ -533,7 +532,7 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》2015年8月號。\[3\]
 <td><p>第七話</p></td>
 <td></td>
 <td><p>帝國英雄-古拉貝爾-</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/植竹須美男" title="wikilink">植竹須美男</a></p></td>
+<td><p><a href="../Page/植竹須美男.md" title="wikilink">植竹須美男</a></p></td>
 <td><p>小川優樹</p></td>
 <td><p>池田智美</p></td>
 <td><p>今田茜</p></td>
@@ -573,7 +572,7 @@ Ace](../Page/月刊Comp_Ace.md "wikilink")》2015年8月號。\[3\]
 <td></td>
 <td><p>決戰前夜-INSTALL-</p></td>
 <td><p>山田靖智</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/影山楙倫" title="wikilink">影山楙倫</a></p></td>
+<td><p><a href="../Page/影山楙倫.md" title="wikilink">影山楙倫</a></p></td>
 <td><p>池田智美</p></td>
 <td><p>今田茜</p></td>
 <td><p>高橋健</p></td>

@@ -7,7 +7,7 @@
 
 2017年1月25日，JYP娛樂公佈TWICE將於4月8日在[曼谷舉行演唱會](../Page/曼谷.md "wikilink")。\[3\]
 
-2017年1月26日，JYP娛樂公佈增加[首爾場的座位](https://zh.wikipedia.org/wiki/首爾 "wikilink")，並從1月31日下午8時開始通過[Interpark](http://ticket.interpark.com/)預訂\[4\]
+2017年1月26日，JYP娛樂公佈增加[首爾場的座位](../Page/首爾.md "wikilink")，並從1月31日下午8時開始通過[Interpark](http://ticket.interpark.com/)預訂\[4\]
 
 2017年1月26日，JYP娛樂公佈TWICE將於4月29日在[新加坡舉行演唱會](../Page/新加坡.md "wikilink")。\[5\]
 
@@ -24,7 +24,7 @@
 </tr>
 <tr class="even">
 <td><p>2017年2月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SK奧林匹克手球競技場" title="wikilink">首爾奧林匹克公園SK手球競技場</a></p></td>
 <td><p>15,000[6]</p></td>
@@ -59,7 +59,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017年6月17日 (安可)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p>蠶室室內體育館</p></td>
 <td><p>12,000[9]</p></td>

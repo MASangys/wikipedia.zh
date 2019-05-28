@@ -814,7 +814,7 @@ HKD480</p></td>
 <td><p>劉在錫</p></td>
 <td><p>狎鷗亭小混混</p></td>
 <td><p>下沈的蝸牛<br />
-(劉在錫 &amp; <a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛</a>)</p></td>
+(劉在錫 &amp; <a href="../Page/李笛.md" title="wikilink">李笛</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>金鍾國</p></td>
@@ -1000,7 +1000,7 @@ HKD480</p></td>
 <td><p>劉在錫</p></td>
 <td><p>狎鷗亭小混混</p></td>
 <td><p>下沈的蝸牛<br />
-(劉在錫&amp;<a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛</a>)</p></td>
+(劉在錫&amp;<a href="../Page/李笛.md" title="wikilink">李笛</a>)</p></td>
 <td><p>√</p></td>
 <td><p>√</p></td>
 <td></td>
@@ -1269,7 +1269,7 @@ HKD480</p></td>
 <td><p>劉在錫</p></td>
 <td><p>狎鷗亭小混混</p></td>
 <td><p>下沈的蝸牛<br />
-(劉在錫&amp;<a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛</a>)</p></td>
+(劉在錫&amp;<a href="../Page/李笛.md" title="wikilink">李笛</a>)</p></td>
 </tr>
 <tr class="odd">
 <td><p>金鍾國、Haha、Gary</p></td>

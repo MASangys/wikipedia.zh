@@ -1,23 +1,23 @@
 **Gacharic Spin**
 是[日本的](../Page/日本.md "wikilink")5人女子搖滾樂團，於2009年6月組成。現任成員有F
 チョッパー
-KOGA、はな、TOMO-ZO、オレオレオナ與[1號まい](https://zh.wikipedia.org/wiki/森下真依 "wikilink")，團員組成有[主唱](../Page/歌手.md "wikilink")、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[貝斯手](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")、[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")、[鍵盤手與表演者](https://zh.wikipedia.org/wiki/键盘手 "wikilink")，主要音樂類型為[J-POP與](../Page/日本流行音樂.md "wikilink")[搖滾樂等](../Page/摇滚乐.md "wikilink")\[1\]
+KOGA、はな、TOMO-ZO、オレオレオナ與[1號まい](../Page/森下真依.md "wikilink")，團員組成有[主唱](../Page/歌手.md "wikilink")、[吉他手](https://zh.wikipedia.org/wiki/吉他手 "wikilink")、[貝斯手](https://zh.wikipedia.org/wiki/贝斯手 "wikilink")、[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")、[鍵盤手與表演者](https://zh.wikipedia.org/wiki/键盘手 "wikilink")，主要音樂類型為[J-POP與](../Page/日本流行音樂.md "wikilink")[搖滾樂等](../Page/摇滚乐.md "wikilink")\[1\]
 
 ## 成員
 
-| 現任成員\[2\]                                                                 |
-| ------------------------------------------------------------------------- |
-| <small>名字</small>                                                         |
-| <small>**F チョッパー KOGA**</small>                                           |
-| <small>**はな**</small>                                                     |
-| <small>**TOMO-ZO**</small>                                                |
-| <small>**オレオレオナ**</small>                                                 |
-| **<small>[1號 まい](https://zh.wikipedia.org/wiki/森下真依 "wikilink")</small>** |
-| 已離開成員                                                                     |
-| <small>**EITA**</small>                                                   |
-| **<small>Armmy</small>**                                                  |
-| **<small>2號 ありさ</small>**                                                 |
-| **<small>3號 ねんね</small>**                                                 |
+| 現任成員\[2\]                                              |
+| ------------------------------------------------------ |
+| <small>名字</small>                                      |
+| <small>**F チョッパー KOGA**</small>                        |
+| <small>**はな**</small>                                  |
+| <small>**TOMO-ZO**</small>                             |
+| <small>**オレオレオナ**</small>                              |
+| **<small>[1號 まい](../Page/森下真依.md "wikilink")</small>** |
+| 已離開成員                                                  |
+| <small>**EITA**</small>                                |
+| **<small>Armmy</small>**                               |
+| **<small>2號 ありさ</small>**                              |
+| **<small>3號 ねんね</small>**                              |
 
 ## 成員與負責樂器
 

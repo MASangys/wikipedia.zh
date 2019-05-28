@@ -50,13 +50,13 @@ If”据称是游戏的一个早期代号\[15\]。
 </tr>
 <tr class="even">
 <td><p>2018年[18]</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/吸血鬼_(遊戲)" title="wikilink">吸血鬼</a>》</p></td>
+<td><p>《<a href="../Page/吸血鬼_(遊戲).md" title="wikilink">吸血鬼</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/超能隊長" title="wikilink">超能隊長</a>》</p></td>
+<td><p>《<a href="../Page/超能隊長.md" title="wikilink">超能隊長</a>》</p></td>
 <td></td>
 <td></td>
 </tr>

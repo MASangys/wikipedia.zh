@@ -5,7 +5,7 @@ Festival](../Page/Wake_Up音樂祭.md "wikilink")\[2\]、聲波浪潮音樂節\[
 Martens](https://zh.wikipedia.org/wiki/Dr._Martens "wikilink")、[Vans](https://zh.wikipedia.org/wiki/Vans "wikilink")\[5\]等經典年輕品牌歡迎，受邀[中國香港國際紋身展](http://www.hktattoocon.com/2018/)\[6\]等活動。2015年樂隊被選成為「StreetVoice大團誕生樂隊」\[7\]，是香港近年倍受注目的重型獨立樂隊\[8\]。
 
 **Instinct of Sight**
-2018年推出作品《Armour》紀錄克服阻礙的覺悟（由結他手意外受傷事件觸發）\[9\]；《定格》反思生命的意義，新生代自身價值的議題；《光影》與本地樂隊[逆流主音Kit](https://zh.wikipedia.org/wiki/逆流 "wikilink")
+2018年推出作品《Armour》紀錄克服阻礙的覺悟（由結他手意外受傷事件觸發）\[9\]；《定格》反思生命的意義，新生代自身價值的議題；《光影》與本地樂隊[逆流主音Kit](../Page/逆流.md "wikilink")
 Lo一同創作，以刻畫過去現在未來入詞。Instinct of
 Sight的音樂緊貼成員經歷，歌曲可理解為青春的碎片，歌曲之間的互相串聯、互為詮釋。樂隊從曲詞編監、混音到視像後期製作均由成員親自參與，音樂編曲多變，結他變奏起伏大，為創作出有畫面感的音樂，採用大量Synth及和音。**Instinct
 of Sight**的音樂風格不盲從特定風格約束，如人類的豐富感情 波瀾壯闊又寂靜如絲。
@@ -36,9 +36,9 @@ Agenda等等](../Page/Hidden_Agenda.md "wikilink")。樂隊被
 2015年九隊香港本地樂隊聯手打造重組現埸Re-Member Live
 2015\[13\]，並創造主題曲\[14\]記載著九隊樂隊的音樂信念和團結。Remember
 Live演唱會三場均爆滿\[15\]，9隊重型樂隊包括 Instinct of
-Sight、[鐵樹蘭](../Page/鐵樹蘭.md "wikilink")、[逆流](https://zh.wikipedia.org/wiki/逆流 "wikilink")、[門生](https://zh.wikipedia.org/wiki/門生 "wikilink")、Black
+Sight、[鐵樹蘭](../Page/鐵樹蘭.md "wikilink")、[逆流](../Page/逆流.md "wikilink")、[門生](https://zh.wikipedia.org/wiki/門生 "wikilink")、Black
 Night Red
-Sky、[Maniac](https://zh.wikipedia.org/wiki/Maniac "wikilink")、[秋紅](../Page/秋紅.md "wikilink")、DeepInside、Ignite
+Sky、[Maniac](../Page/Maniac.md "wikilink")、[秋紅](../Page/秋紅.md "wikilink")、DeepInside、Ignite
 The Hope\[16\]，演出中九隊樂隊以 重組 為主題（即Featuring 成員調換音樂角色切磋）。同年間，**Instinct of
 Sight** Jacey Po 與同場的**逆流**Kit Lo首度合作創作了《光影》一曲，在Remember Live首度開唱廣受好評
 在[YouTube播放率逾十五萬](../Page/YouTube.md "wikilink")\[17\]，聽眾開始由香港延伸到海外各地。

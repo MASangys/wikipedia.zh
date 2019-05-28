@@ -49,7 +49,7 @@ unit|suspension=<font style="color: rgb(0, 0, 0); font-size: 12.32px; background
 }}SO-152（СО-152）是1968年[蘇聯研製的](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")
 152.4 口徑[自行火砲](https://zh.wikipedia.org/wiki/自走砲 "wikilink")。這是蘇聯針對美國
 155 口徑的 [M109](https://zh.wikipedia.org/wiki/M109自走炮 "wikilink")
-而研製出的自行火砲。整項計劃始於1967年7月4日[蘇聯部長理事會決議](https://zh.wikipedia.org/wiki/Council_of_ministers_of_the_soviet_union "wikilink")，於1968年完工並於1971年投入使用。其[GRAU](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")
+而研製出的自行火砲。整項計劃始於1967年7月4日[蘇聯部長理事會決議](https://zh.wikipedia.org/wiki/Council_of_ministers_of_the_soviet_union "wikilink")，於1968年完工並於1971年投入使用。其[GRAU](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")
 代號是是*'
 2S3（2С3）**。戰斗車輛還有額外的名稱**Akatsiya（Акация）*'，這是俄語的[金合歡](https://zh.wikipedia.org/wiki/金合歡 "wikilink")。
 

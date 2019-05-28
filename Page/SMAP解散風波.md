@@ -66,7 +66,7 @@ Research](../Page/Video_Research.md "wikilink")“关东地区·家庭·实时�
 Research“关东地区·家庭·实时”收视数据）；而在[关西电视台的收视率则为](https://zh.wikipedia.org/wiki/关西电视台 "wikilink")29.7%（源自Video
 Research“关西地区·家庭·实时”收视数据）。\[26\]
 
-有关这段直播视频的内容，被人指出木村拓哉与其他四位成员在站立位置、评论内容及服装方面有着刻意的区别。此外，在草彅刚的发言中，一句“向约翰尼先生致歉的机会”被认为将杰尼斯事务所高管的霸道权威和守旧体制展现给观众。同时，四位成员在致歉时的含糊表情被也被招致诸如“杰尼斯强迫成员道歉”、“公众霸凌”等指责\[27\]\[28\]，而在网络中，更是用“公开处刑”等隐语加以形容。日本民间电视监督协会“[放送伦理·番组向上机构](https://zh.wikipedia.org/wiki/放送伦理·番组向上机构 "wikilink")”因这段道歉视频而在1月份就收到了2800余份投诉意见，并一度造成其官网访问困难。
+有关这段直播视频的内容，被人指出木村拓哉与其他四位成员在站立位置、评论内容及服装方面有着刻意的区别。此外，在草彅刚的发言中，一句“向约翰尼先生致歉的机会”被认为将杰尼斯事务所高管的霸道权威和守旧体制展现给观众。同时，四位成员在致歉时的含糊表情被也被招致诸如“杰尼斯强迫成员道歉”、“公众霸凌”等指责\[27\]\[28\]，而在网络中，更是用“公开处刑”等隐语加以形容。日本民间电视监督协会“[放送伦理·番组向上机构](../Page/放送伦理·番组向上机构.md "wikilink")”因这段道歉视频而在1月份就收到了2800余份投诉意见，并一度造成其官网访问困难。
 
 这段道歉视频因为其新闻性而被其他电视台向制作方富士电视台询问使用授权，但是实际上这段视频已经开始在各家电视台的新闻直播节目里出现。对此富士电视台给出的答复是仅限各大电视台在1月19日当天免费使用一次；同时富士电视台将这段视频视为“新闻素材”，因而放弃收取广播费而只收取配音费。而[朝日电视台的](https://zh.wikipedia.org/wiki/朝日电视台 "wikilink")《[报道Station](https://zh.wikipedia.org/wiki/报道Station "wikilink")》却大肆利用这段视频，因而导致电视台内部有工作人员指责这是假借“新闻”的名义洗白无授权使用素材的行为。
 
@@ -113,7 +113,7 @@ vs
   - 8月19日，[东京调频的](../Page/FM東京.md "wikilink")《[木村拓哉的What's UP
     SMAP\!](../Page/木村拓哉的What's_UP_SMAP!.md "wikilink")》。[木村拓哉在节目的开始部分就解散事件发表了看法](../Page/木村拓哉.md "wikilink")，“对于这次事件让大家所感到的难过，我深表歉意。……对所有SMAP成员感到非常抱歉，真的很抱歉。”\[43\]
   - 8月20日，[日本广播的](../Page/日本放送.md "wikilink")《[中居正广的Some Girl's
-    SMAP](https://zh.wikipedia.org/wiki/中居正广_ON&ON_AIR "wikilink")》。[中居正广在节目开头评论道](https://zh.wikipedia.org/wiki/中居正广 "wikilink")，“请大家原谅这一结果。在里约奥运会报道期间发生这样泼冷水的新闻，
+    SMAP](../Page/中居正广_ON&ON_AIR.md "wikilink")》。[中居正广在节目开头评论道](https://zh.wikipedia.org/wiki/中居正广 "wikilink")，“请大家原谅这一结果。在里约奥运会报道期间发生这样泼冷水的新闻，
     我真的很抱歉。实在是太对不起了！”\[44\]
   - 8月21日，的《》。在节目开头，[草彅刚说](https://zh.wikipedia.org/wiki/草彅刚 "wikilink")：“组合结成的这28年，非常感谢大家。”而[香取慎吾则说](../Page/香取慎吾.md "wikilink")：“感谢那些很多支持我的人”。他们分别对粉丝表达了谢意。\[45\]
 
@@ -176,7 +176,7 @@ YEARS～”。该特别纪念节目将原本属于该台的四档常规节目打
 
 2016年12月21日，根据粉丝投票选择的[精选辑](https://zh.wikipedia.org/wiki/精选辑 "wikilink")《[SMAP
 25
-YEARS](https://zh.wikipedia.org/wiki/SMAP_25_YEARS "wikilink")》正式发行。该专辑在2017年1月2日、1月9日两周的时间内连续两周成为[公信榜销量第一](https://zh.wikipedia.org/wiki/公信榜 "wikilink")。\[70\]\[71\]
+YEARS](../Page/SMAP_25_YEARS.md "wikilink")》正式发行。该专辑在2017年1月2日、1月9日两周的时间内连续两周成为[公信榜销量第一](https://zh.wikipedia.org/wiki/公信榜 "wikilink")。\[70\]\[71\]
 发行第三周级达成百万销量，实际销量100.7万张。\[72\] 目前，该专辑销量已经突破113万张。
 
 2016年12月6日，日本首家誓言重建组织“日本誓言重建组织（）”所推出的活动“VRJ最佳重新启誓日2016”中将12月21日定为“SMAP精选集发行纪念日”。\[73\]
@@ -271,14 +271,14 @@ Smap\! 全单曲精选》DVD拿下连续三周音乐类DVD周榜第一，这是S
 <!-- end list -->
 
   - [饭岛三智](https://zh.wikipedia.org/wiki/饭岛三智 "wikilink")
-      - [CULEN](https://zh.wikipedia.org/wiki/CULEN "wikilink")
+      - [CULEN](../Page/CULEN.md "wikilink")
 
 <!-- end list -->
 
   - [杰尼斯事务所](https://zh.wikipedia.org/wiki/杰尼斯事务所 "wikilink")
       - [约翰尼·喜多川](../Page/強尼·喜多川.md "wikilink")
       - [玛丽·喜多川](https://zh.wikipedia.org/wiki/玛丽·喜多川 "wikilink")
-      - [藤岛·茱莉·景子](https://zh.wikipedia.org/wiki/藤島茱莉景子 "wikilink")
+      - [藤岛·茱莉·景子](../Page/藤島茱莉景子.md "wikilink")
 
 [Category:SMAP](https://zh.wikipedia.org/wiki/Category:SMAP "wikilink")
 [Category:傑尼斯事務所](https://zh.wikipedia.org/wiki/Category:傑尼斯事務所 "wikilink")

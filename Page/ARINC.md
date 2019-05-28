@@ -91,7 +91,7 @@ ARINC标准由航空电子工程委员会（AEEC）编制，洛克威尔柯林�
   - ARINC 660定义了航空电子设备的功能分配和CNS/ATM航空电子设备的推荐架构。
   - ARINC
     661定义了交互式驾驶舱显示系统（CDS）中使用的数据结构以及CDS与用户应用程序之间的通信。[GUI定义在二进制定义文件中完全定义](../Page/图形用户界面.md "wikilink")。CDS软件由一个能够创建在定义文件中创建分层GUI的内核组成。ARINC
-    661使用的概念类似于[用户界面标记语言中使用的概念](https://zh.wikipedia.org/wiki/用户界面标记语言 "wikilink")。
+    661使用的概念类似于[用户界面标记语言中使用的概念](../Page/用户界面标记语言.md "wikilink")。
   - ARINC
     664将确定性[以太网网络定义为现代飞机](../Page/以太网.md "wikilink")（例如[空中客车A380](https://zh.wikipedia.org/wiki/空中客车A380 "wikilink"),
     [苏霍伊超级喷气机100和](https://zh.wikipedia.org/wiki/苏霍伊超级喷气机100 "wikilink")[波音787](../Page/波音787.md "wikilink")）中的航空电子数据总线。

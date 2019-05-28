@@ -63,7 +63,7 @@ Bancho」並發佈短篇動畫作品。
   - [言葉之庭](../Page/言葉之庭.md "wikilink")（2013年）
   - Peeping Life -WE ARE THE HERO-（與FOREST Hunting One共同製作、2014年）
   - [你的名字。](../Page/你的名字。.md "wikilink")（2016年）
-  - [肆式青春](../Page/肆式青春.md "wikilink")（日本片名：、与[繪夢動畫共同制作](https://zh.wikipedia.org/wiki/繪夢動畫 "wikilink")、2018年）
+  - [肆式青春](../Page/肆式青春.md "wikilink")（日本片名：、与[繪夢動畫共同制作](../Page/繪夢動畫.md "wikilink")、2018年）
   - [天氣之子](https://zh.wikipedia.org/wiki/天氣之子 "wikilink")（2019年）
 
 ### 網絡動畫

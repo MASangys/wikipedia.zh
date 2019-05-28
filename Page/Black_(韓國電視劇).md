@@ -1,6 +1,6 @@
 《**-{zh-hans:Black; zh-tw:Black;
 zh-hk:陰間使者}-**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年10月14日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
-Series），由《[Voice](https://zh.wikipedia.org/wiki/Voice "wikilink")》金弘善導演執導與《[神的禮物－14天](https://zh.wikipedia.org/wiki/神的禮物－14天 "wikilink")》[崔蘭作家合作打造](https://zh.wikipedia.org/wiki/崔蘭_\(編劇\) "wikilink")。此劇講述附身在警察身上的地獄使者，愛上人類女孩的故事\[1\]\[2\]。台灣由[Netflix（網飛）台灣](https://www.netflix.com/tw/)播出。
+Series），由《[Voice](../Page/Voice.md "wikilink")》金弘善導演執導與《[神的禮物－14天](https://zh.wikipedia.org/wiki/神的禮物－14天 "wikilink")》[崔蘭作家合作打造](https://zh.wikipedia.org/wiki/崔蘭_\(編劇\) "wikilink")。此劇講述附身在警察身上的地獄使者，愛上人類女孩的故事\[1\]\[2\]。台灣由[Netflix（網飛）台灣](https://www.netflix.com/tw/)播出。
 
 ## 演員陣容
 
@@ -98,7 +98,7 @@ Series），由《[Voice](https://zh.wikipedia.org/wiki/Voice "wikilink")》金�
 <td><p>無血無淚的程度為歷代444之最，附身在姜秀赫身上。在拯救妻子時把疑犯槍殺掉，觸犯使者不能殺害人類的禁忌，死後被判處消滅。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴勝泰" title="wikilink">朴勝泰</a></p></td>
+<td><p><a href="../Page/朴勝泰.md" title="wikilink">朴勝泰</a></p></td>
 <td><p>金美麗</p></td>
 <td></td>
 <td><p>附身在閔在勛身上、逃亡百年的地獄使者，不斷殺人替換身體以逃過捉鬼隊的追緝，因此一直沒有被發現<br />
@@ -143,7 +143,7 @@ Series），由《[Voice](https://zh.wikipedia.org/wiki/Voice "wikilink")》金�
 <td><p>認知支援隊隊長,因被韓武江稱為老短腿而經常生氣。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李哲民_(演員)" title="wikilink">李哲民</a></p></td>
+<td><p><a href="../Page/李哲民_(演員).md" title="wikilink">李哲民</a></p></td>
 <td><p>吳昭泰</p></td>
 <td><p><a href="../Page/鄧燦陽.md" title="wikilink">鄧燦陽</a></p></td>
 <td><p>刑警</p></td>
@@ -361,7 +361,7 @@ Series），由《[Voice](https://zh.wikipedia.org/wiki/Voice "wikilink")》金�
 <td><p>金建英的母親。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/周錫泰" title="wikilink">周錫泰</a></p></td>
+<td><p><a href="../Page/周錫泰.md" title="wikilink">周錫泰</a></p></td>
 <td><p>金哲秀</p></td>
 <td></td>
 <td><p>金建英的父親。任職巡警。</p></td>
@@ -640,7 +640,7 @@ Series），由《[Voice](https://zh.wikipedia.org/wiki/Voice "wikilink")》金�
 
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")
     [週末連續劇](../Page/SBS週末連續劇.md "wikilink")：《[姐姐風采依舊](../Page/姐姐風采依舊.md "wikilink")》、《[Bravo
-    My Life](https://zh.wikipedia.org/wiki/Bravo_My_Life "wikilink")》
+    My Life](../Page/Bravo_My_Life.md "wikilink")》
   - [MBC](../Page/文化廣播公司.md "wikilink")
     [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[擺飯桌的男人](../Page/擺飯桌的男人.md "wikilink")》
     \- 2017年10月21日 & 11月4日
@@ -666,7 +666,7 @@ Series），由《[Voice](https://zh.wikipedia.org/wiki/Voice "wikilink")》金�
     [週末連續劇](../Page/MBC週末連續劇.md "wikilink")：《[擺飯桌的男人](../Page/擺飯桌的男人.md "wikilink")》
     截至2017年10月15日
   - [tvN](../Page/TVN.md "wikilink")
-    [週末連續劇](../Page/TvN週末連續劇.md "wikilink")：《[卞赫的愛情](../Page/卞赫的愛情.md "wikilink")》、《[世上最美麗的離別](https://zh.wikipedia.org/wiki/世上最美麗的離別_\(2017年電視劇\) "wikilink")》
+    [週末連續劇](../Page/TvN週末連續劇.md "wikilink")：《[卞赫的愛情](../Page/卞赫的愛情.md "wikilink")》、《[世上最美麗的離別](../Page/世上最美麗的離別_\(2017年電視劇\).md "wikilink")》
 
 ## 參考資料
 

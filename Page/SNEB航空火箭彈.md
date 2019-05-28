@@ -30,7 +30,7 @@ SNEB火箭彈可以裝填以下彈頭：
 
 ### 雷射導引型的研發
 
-**彈道修正火箭系統**（，[縮寫](../Page/縮寫.md "wikilink")：SYROCOT）是一個在火箭的設計中導入導引頭的計劃。它與現有的SNEB系統所兼容。這相當於用於美國[火蛇70航空火箭彈的](https://zh.wikipedia.org/wiki/火蛇70航空火箭彈 "wikilink")[先進精確殺傷武器系統計劃](https://zh.wikipedia.org/wiki/先進精確殺傷武器系統 "wikilink")。
+**彈道修正火箭系統**（，[縮寫](../Page/縮寫.md "wikilink")：SYROCOT）是一個在火箭的設計中導入導引頭的計劃。它與現有的SNEB系統所兼容。這相當於用於美國[火蛇70航空火箭彈的](../Page/火蛇70航空火箭彈.md "wikilink")[先進精確殺傷武器系統計劃](../Page/先進精確殺傷武器系統.md "wikilink")。
 
 ## 火箭發射筴艙
 
@@ -128,8 +128,7 @@ SNEB火箭彈可以裝填以下彈頭：
 
   - [CRV7 2.75英吋（70毫米）火箭彈](../Page/CRV7航空火箭彈.md "wikilink")
 
-  - [火蛇70
-    2.75英吋（70毫米）火箭彈](https://zh.wikipedia.org/wiki/火蛇70航空火箭彈 "wikilink")
+  - [火蛇70 2.75英吋（70毫米）火箭彈](../Page/火蛇70航空火箭彈.md "wikilink")
 
   -
   -

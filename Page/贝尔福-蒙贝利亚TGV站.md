@@ -22,7 +22,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巴黎里昂站" title="wikilink">巴黎</a>—<a href="https://zh.wikipedia.org/wiki/苏黎世火车总站" title="wikilink">苏黎世</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巴黎里昂站" title="wikilink">巴黎</a>—<a href="https://zh.wikipedia.org/wiki/弗赖堡火车总站" title="wikilink">弗赖堡</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巴黎里昂站" title="wikilink">巴黎</a>—<a href="../Page/弗赖堡火车总站.md" title="wikilink">弗赖堡</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巴黎里昂站" title="wikilink">巴黎</a>—<a href="../Page/米卢斯城站.md" title="wikilink">米卢斯</a></p></td>

@@ -5,7 +5,7 @@ GK1C-B型柴油机车是在[GK1C型机车的基础上](../Page/GK1C型柴油机�
 ## 参看
 
   - [GK1型柴油机车](../Page/GK1型柴油机车.md "wikilink")
-  - [GK2型柴油机车](https://zh.wikipedia.org/wiki/GK2型柴油机车 "wikilink")
+  - [GK2型柴油机车](../Page/GK2型柴油机车.md "wikilink")
   - [GK1M型柴油机车](https://zh.wikipedia.org/wiki/GK1M型柴油机车 "wikilink")
 
 ## 参考文献

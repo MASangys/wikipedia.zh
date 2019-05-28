@@ -229,7 +229,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </tr>
 <tr class="odd">
 <td><p>第三位</p></td>
-<td><p>　<a href="https://zh.wikipedia.org/wiki/長谷川博己" title="wikilink">長谷川博己</a></p></td>
+<td><p>　<a href="../Page/長谷川博己.md" title="wikilink">長谷川博己</a></p></td>
 <td><p>　《<a href="../Page/家政婦三田.md" title="wikilink">家政婦三田</a>》</p></td>
 </tr>
 <tr class="even">

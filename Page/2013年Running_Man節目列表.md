@@ -90,7 +90,7 @@
 <td><p>紅隊及綠隊<strong>共同勝出</strong><br />
 綠隊獲得2萬韓圓<br />
 紅隊獲得252萬韓圓、並全數捐予<a href="https://zh.wikipedia.org/wiki/印尼" title="wikilink">印尼</a><a href="https://zh.wikipedia.org/wiki/爪哇" title="wikilink">爪哇地區孤兒院</a><br />
-<em><strong>註：</strong>宣傳電影《<a href="https://zh.wikipedia.org/wiki/神汉流氓" title="wikilink">老大靈不靈</a>》</em><br />
+<em><strong>註：</strong>宣傳電影《<a href="../Page/神汉流氓.md" title="wikilink">老大靈不靈</a>》</em><br />
 <em>特別出演</em><br />
 <em>SBS製作本部長朴正勳、鄭河恩發放獎金</em></p></td>
 </tr>
@@ -168,7 +168,7 @@ Gary、宋智孝、李光洙</p></td>
 <a href="../Page/金泫雅.md" title="wikilink">泫雅</a>（<a href="../Page/4minute.md" title="wikilink">4minute</a>）</p></td>
 <td><p><a href="../Page/韓亞航空.md" title="wikilink">韓亞航空韓亞城</a><br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
-<a href="../Page/江西區_(首爾).md" title="wikilink">江西區</a><a href="https://zh.wikipedia.org/wiki/空港洞" title="wikilink">空港洞</a>）</small></p></td>
+<a href="../Page/江西區_(首爾).md" title="wikilink">江西區</a><a href="../Page/空港洞.md" title="wikilink">空港洞</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>雙重間-{}-諜</strong></span><br />
 <span style=color:#008000><strong>演員隊</strong></span><br />
 黃正民、劉在錫、宋智孝、李光洙、朴誠雄<br />
@@ -267,11 +267,11 @@ Gary、宋智孝、李棟旭</p></td>
 <small>（269）</small></p></td>
 <td><p>3月17日<br />
 <small>（<em>3月5日</em>）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盧士燕" title="wikilink">盧士燕</a>、<br />
+<td><p><a href="../Page/盧士燕.md" title="wikilink">盧士燕</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/金幽珍" title="wikilink">U-ie</a>（<a href="../Page/After_School.md" title="wikilink">After School</a>）</p></td>
 <td><p>曹仁柱拳擊教室<br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
-<a href="../Page/龍山區_(首爾).md" title="wikilink">龍山區</a><a href="https://zh.wikipedia.org/wiki/元曉路洞" title="wikilink">元曉路洞</a>）</small></p></td>
+<a href="../Page/龍山區_(首爾).md" title="wikilink">龍山區</a><a href="../Page/元曉路洞.md" title="wikilink">元曉路洞</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>傻瓜溫達與平岡公主</strong></span><br />
 <span style=color:#008000><strong>綠溫達隊</strong></span>：劉在錫、李光洙、U-ie<br />
 <span style=color:#FF8C00><strong>橙溫達隊</strong></span>：池錫辰、金鐘國、盧士燕<br />
@@ -404,14 +404,14 @@ Gary、宋智孝、李相侖<br />
 <small>（275）</small></p></td>
 <td><p>4月28日<br />
 <small>（<em>4月15日</em>）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a>、<a href="../Page/金吝勸.md" title="wikilink">金吝勸</a>、<br />
+<td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a>、<a href="../Page/金吝勸.md" title="wikilink">金吝勸</a>、<br />
 <a href="../Page/柳賢慶.md" title="wikilink">柳賢慶</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾市政府" title="wikilink">首爾特別</a><a href="https://zh.wikipedia.org/wiki/首爾市政廳" title="wikilink">市廳</a><br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/中區_(首爾).md" title="wikilink">中區</a><a href="https://zh.wikipedia.org/wiki/太平路_(首爾)" title="wikilink">太平路</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>超能力練歌廳</strong></span><br />
 <span style=color:#FF8C00><strong>橙隊</strong></span><br />
-<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a>、<a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a><br />
+<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a>、<a href="../Page/李敬揆.md" title="wikilink">李敬揆</a><br />
 <span style=color:#0000FF><strong>藍隊</strong></span><br />
 金鐘國、Gary、哈哈、金吝勸、柳賢慶</p></td>
 <td><p>擊敗其餘的隊伍</p></td>
@@ -764,7 +764,7 @@ Sulli｜朴智星、劉在錫、Gary、哈哈<br />
 <small>（<em>8月6日</em>）</small></p></td>
 <td><p><a href="../Page/朴相勉.md" title="wikilink">朴相勉</a>、<a href="../Page/金光奎.md" title="wikilink">金光奎</a>、<br />
 <a href="../Page/趙正治.md" title="wikilink">趙正治</a>、<a href="../Page/鄭仁.md" title="wikilink">鄭仁</a>、<br />
-、<a href="https://zh.wikipedia.org/wiki/John_Park" title="wikilink">John Park</a>、<br />
+、<a href="../Page/John_Park.md" title="wikilink">John Park</a>、<br />
 <a href="../Page/金藝琳.md" title="wikilink">金藝琳</a></p></td>
 <td><p><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="https://zh.wikipedia.org/wiki/楊州市" title="wikilink">楊州市</a>）</small></p></td>
@@ -1040,7 +1040,7 @@ vs<br />
 <td><p>11月10日<br />
 <small>（<em>10月29日</em>）</small></p></td>
 <td><p><a href="../Page/柳賢振.md" title="wikilink">柳賢振</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">秀智</a>(<a href="https://zh.wikipedia.org/wiki/miss_A" title="wikilink">miss A</a>)、<a href="../Page/李炳圭.md" title="wikilink">李炳圭</a>、<a href="https://zh.wikipedia.org/wiki/金賢洙" title="wikilink">金賢洙</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/裴秀智" title="wikilink">秀智</a>(<a href="https://zh.wikipedia.org/wiki/miss_A" title="wikilink">miss A</a>)、<a href="../Page/李炳圭.md" title="wikilink">李炳圭</a>、<a href="../Page/金賢洙.md" title="wikilink">金賢洙</a>、<br />
 [10]</p></td>
 <td><p><a href="../Page/樂天百貨.md" title="wikilink">樂天Outlets扶餘店</a><br />
 <small>（<a href="../Page/忠清南道.md" title="wikilink">忠清南道</a><a href="../Page/扶餘郡.md" title="wikilink">扶餘郡</a><br />
@@ -1160,7 +1160,7 @@ vs<br />
 <small>（308）</small></p></td>
 <td><p>12月15日<br />
 <small>（<em>11月26日</em>）</small></p></td>
-<td><p><a href="../Page/金光奎.md" title="wikilink">金光奎</a>、<a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛</a>、<br />
+<td><p><a href="../Page/金光奎.md" title="wikilink">金光奎</a>、<a href="../Page/李笛.md" title="wikilink">李笛</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、、<br />
 </p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS放送中心</a><br />
@@ -1175,7 +1175,7 @@ vs<br />
 1. <a href="../Page/劉在錫.md" title="wikilink">劉在錫</a><br />
 2. <a href="https://zh.wikipedia.org/wiki/Gary" title="wikilink">Gary</a><br />
 3. <a href="https://zh.wikipedia.org/wiki/張基河" title="wikilink">張基河</a><br />
-4. <a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛</a><br />
+4. <a href="../Page/李笛.md" title="wikilink">李笛</a><br />
 5. <a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a><br />
 6. <a href="../Page/李光洙.md" title="wikilink">李光洙</a><br />
 7. <a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a><br />

@@ -138,20 +138,20 @@ Earth），是[七龍珠在](../Page/七龙珠.md "wikilink")1990年7月7日上�
 
   - 製作總指揮：[今田智憲](https://zh.wikipedia.org/wiki/今田智憲 "wikilink")、小島民雄
   - 原作：[鳥山明](../Page/鳥山明.md "wikilink")
-  - 企画：[森下孝三](https://zh.wikipedia.org/wiki/森下孝三 "wikilink")、[清水賢治](https://zh.wikipedia.org/wiki/清水賢治 "wikilink")、[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")
+  - 企画：[森下孝三](https://zh.wikipedia.org/wiki/森下孝三 "wikilink")、[清水賢治](../Page/清水賢治.md "wikilink")、[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")
   - 製作担当：岸本松司、堀川和政
-  - 劇本：[小山高生](https://zh.wikipedia.org/wiki/小山高生 "wikilink")
+  - 劇本：[小山高生](../Page/小山高生.md "wikilink")
   - 音樂：[菊池俊輔](../Page/菊池俊輔.md "wikilink")
   - 撮影監督：池上元秋
   - 編輯：福光伸一
   - 録音：二宮健治
   - 美術監督：池田祐二
   - 作画監修：[前田実](https://zh.wikipedia.org/wiki/前田実 "wikilink")
-  - 作画監督：[中鶴勝祥](https://zh.wikipedia.org/wiki/中鶴勝祥 "wikilink")、佐藤正樹
-  - 監督：[西尾大介](https://zh.wikipedia.org/wiki/西尾大介 "wikilink")
+  - 作画監督：[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")、佐藤正樹
+  - 監督：[西尾大介](../Page/西尾大介.md "wikilink")
   - 分鏡：西尾大介、[山内重保](https://zh.wikipedia.org/wiki/山内重保 "wikilink")、上田芳裕、[橋本光夫](../Page/橋本光夫.md "wikilink")、折目達也
   - 作画監督補佐：中鶴勝祥、佐藤正樹
-  - 原画：[須田正己](https://zh.wikipedia.org/wiki/須田正己 "wikilink")、[山室直儀](../Page/山室直儀.md "wikilink")、[江口寿志](https://zh.wikipedia.org/wiki/江口寿志 "wikilink")、[佐藤正樹](https://zh.wikipedia.org/wiki/佐藤正樹 "wikilink")
+  - 原画：[須田正己](../Page/須田正己.md "wikilink")、[山室直儀](../Page/山室直儀.md "wikilink")、[江口寿志](https://zh.wikipedia.org/wiki/江口寿志 "wikilink")、[佐藤正樹](../Page/佐藤正樹.md "wikilink")
     他
   - 美術：高田茂祝、長崎斉
   - 宣伝協力：[フジテレビ](https://zh.wikipedia.org/wiki/フジテレビジョン "wikilink")

@@ -3,7 +3,7 @@
 ## 主持
 
   - 現任主持：、、、[廖嘉輝](https://zh.wikipedia.org/wiki/廖嘉輝 "wikilink")、[朱晉傑](https://zh.wikipedia.org/wiki/朱晉傑 "wikilink")、[文桂琪](https://zh.wikipedia.org/wiki/文桂琪 "wikilink")
-  - 曾任主持：[林聞恩](https://zh.wikipedia.org/wiki/林聞恩 "wikilink")、[劉秉賓](../Page/劉秉賓.md "wikilink")、[薛國斌](https://zh.wikipedia.org/wiki/薛國斌 "wikilink")、[余采霖](https://zh.wikipedia.org/wiki/余采霖 "wikilink")
+  - 曾任主持：[林聞恩](../Page/林聞恩.md "wikilink")、[劉秉賓](../Page/劉秉賓.md "wikilink")、[薛國斌](https://zh.wikipedia.org/wiki/薛國斌 "wikilink")、[余采霖](../Page/余采霖.md "wikilink")
 
 ## 播映時間
 
@@ -61,7 +61,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 <td><p>2</p></td>
 <td><p>5月15日</p></td>
 <td><p><a href="../Page/草蜢_(組合).md" title="wikilink">草蜢</a>[3]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/余采霖" title="wikilink">余采霖</a></p></td>
+<td><p><a href="../Page/余采霖.md" title="wikilink">余采霖</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -71,7 +71,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/陳柏宇.md" title="wikilink">陳柏宇</a>、<a href="../Page/林奕匡.md" title="wikilink">林奕匡</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林聞恩" title="wikilink">林聞恩</a></p></td>
+<td><p><a href="../Page/林聞恩.md" title="wikilink">林聞恩</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -246,7 +246,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 <tr class="odd">
 <td><p>17</p></td>
 <td><p>8月28日</p></td>
-<td><p><a href="../Page/廖啟智.md" title="wikilink">廖啟智</a>、-{<a href="https://zh.wikipedia.org/wiki/胡子彤" title="wikilink">胡子彤</a>}-、<a href="../Page/林耀聲.md" title="wikilink">林耀聲</a></p></td>
+<td><p><a href="../Page/廖啟智.md" title="wikilink">廖啟智</a>、-{<a href="../Page/胡子彤.md" title="wikilink">胡子彤</a>}-、<a href="../Page/林耀聲.md" title="wikilink">林耀聲</a></p></td>
 <td><p>羅沛琪</p></td>
 </tr>
 <tr class="even">
@@ -346,7 +346,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 <td><p>林聞恩</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/周殷廷.md" title="wikilink">周殷廷</a>、<a href="https://zh.wikipedia.org/wiki/符致逸" title="wikilink">符致逸</a></p></td>
+<td><p><a href="../Page/周殷廷.md" title="wikilink">周殷廷</a>、<a href="../Page/符致逸.md" title="wikilink">符致逸</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -499,7 +499,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 <tr class="even">
 <td><p>37</p></td>
 <td><p>1月22日</p></td>
-<td><p><a href="../Page/鄭丹瑞.md" title="wikilink">鄭丹瑞</a>、<a href="../Page/周秀娜.md" title="wikilink">周秀娜</a>、<a href="https://zh.wikipedia.org/wiki/鄧月平" title="wikilink">鄧月平</a></p></td>
+<td><p><a href="../Page/鄭丹瑞.md" title="wikilink">鄭丹瑞</a>、<a href="../Page/周秀娜.md" title="wikilink">周秀娜</a>、<a href="../Page/鄧月平.md" title="wikilink">鄧月平</a></p></td>
 <td><p>薛國斌</p></td>
 </tr>
 <tr class="odd">
@@ -563,7 +563,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 <td><p>羅沛琪</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/艾威.md" title="wikilink">艾威</a>、<a href="../Page/林熹瞳.md" title="wikilink">林熹瞳</a>、<a href="https://zh.wikipedia.org/wiki/林聞恩" title="wikilink">林聞恩</a></p></td>
+<td><p><a href="../Page/艾威.md" title="wikilink">艾威</a>、<a href="../Page/林熹瞳.md" title="wikilink">林熹瞳</a>、<a href="../Page/林聞恩.md" title="wikilink">林聞恩</a></p></td>
 <td><p>劉秉賓</p></td>
 <td></td>
 <td></td>
@@ -787,7 +787,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 <tr class="even">
 <td><p>61</p></td>
 <td><p>7月16日</p></td>
-<td><p><a href="../Page/古天樂.md" title="wikilink">古天樂</a>、<a href="../Page/陳木勝.md" title="wikilink">陳木勝</a>、<a href="https://zh.wikipedia.org/wiki/喵星人_(電影)" title="wikilink">犀犀利</a></p></td>
+<td><p><a href="../Page/古天樂.md" title="wikilink">古天樂</a>、<a href="../Page/陳木勝.md" title="wikilink">陳木勝</a>、<a href="../Page/喵星人_(電影).md" title="wikilink">犀犀利</a></p></td>
 <td><p>廖嘉輝</p></td>
 </tr>
 <tr class="odd">
@@ -875,7 +875,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 <td><p>朱晉傑</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/楊丞琳.md" title="wikilink">楊丞琳</a>、<a href="https://zh.wikipedia.org/wiki/程偉豪" title="wikilink">程偉豪</a></p></td>
+<td><p><a href="../Page/楊丞琳.md" title="wikilink">楊丞琳</a>、<a href="../Page/程偉豪.md" title="wikilink">程偉豪</a></p></td>
 <td><p>廖嘉輝</p></td>
 <td></td>
 <td></td>
@@ -923,7 +923,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 <td><p>余采霖</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/何超與海膽仔" title="wikilink">Josie And The Uni Boys</a></p></td>
+<td><p><a href="../Page/何超與海膽仔.md" title="wikilink">Josie And The Uni Boys</a></p></td>
 <td><p>廖嘉輝</p></td>
 <td></td>
 <td></td>
@@ -979,7 +979,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 <tr class="even">
 <td><p>79</p></td>
 <td><p>12月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小田切讓" title="wikilink">小田切讓</a>、<a href="https://zh.wikipedia.org/wiki/袁澧林" title="wikilink">袁澧林</a>、-{<a href="https://zh.wikipedia.org/wiki/胡子彤" title="wikilink">胡子彤</a>}-</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小田切讓" title="wikilink">小田切讓</a>、<a href="../Page/袁澧林.md" title="wikilink">袁澧林</a>、-{<a href="../Page/胡子彤.md" title="wikilink">胡子彤</a>}-</p></td>
 <td><p>羅沛琪</p></td>
 </tr>
 <tr class="odd">
@@ -995,7 +995,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 <td><p>羅沛琪</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/何超與海膽仔" title="wikilink">Josie And The Uni Boys</a></p></td>
+<td><p><a href="../Page/何超與海膽仔.md" title="wikilink">Josie And The Uni Boys</a></p></td>
 <td><p>虞逸峯</p></td>
 <td></td>
 <td></td>
@@ -1148,7 +1148,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 <tr class="even">
 <td><p>92</p></td>
 <td><p>4月1日</p></td>
-<td><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>、、<a href="https://zh.wikipedia.org/wiki/鄧月平" title="wikilink">鄧月平</a>、<a href="../Page/林耀聲.md" title="wikilink">林耀聲</a></p></td>
+<td><p><a href="../Page/王貽興.md" title="wikilink">王貽興</a>、、<a href="../Page/鄧月平.md" title="wikilink">鄧月平</a>、<a href="../Page/林耀聲.md" title="wikilink">林耀聲</a></p></td>
 <td><p>羅沛琪</p></td>
 </tr>
 <tr class="odd">
@@ -1160,7 +1160,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 <tr class="even">
 <td><p>93</p></td>
 <td><p>4月8日</p></td>
-<td><p><a href="../Page/毛舜筠.md" title="wikilink">毛舜筠</a>、<a href="https://zh.wikipedia.org/wiki/凌文龍" title="wikilink">凌文龍</a></p></td>
+<td><p><a href="../Page/毛舜筠.md" title="wikilink">毛舜筠</a>、<a href="../Page/凌文龍.md" title="wikilink">凌文龍</a></p></td>
 <td><p>廖嘉輝</p></td>
 </tr>
 <tr class="odd">
@@ -1381,7 +1381,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 <td><p>羅沛琪</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃進_(導演)" title="wikilink">黃進</a>、<a href="https://zh.wikipedia.org/wiki/Anton_Fung" title="wikilink">Anton Fung</a></p></td>
+<td><p><a href="../Page/黃進_(導演).md" title="wikilink">黃進</a>、<a href="https://zh.wikipedia.org/wiki/Anton_Fung" title="wikilink">Anton Fung</a></p></td>
 <td><p>朱晉傑</p></td>
 <td></td>
 <td></td>
@@ -1405,7 +1405,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 <td><p>廖嘉輝</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/陳美齡.md" title="wikilink">陳美齡</a>、<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a></p></td>
+<td><p><a href="../Page/陳美齡.md" title="wikilink">陳美齡</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a></p></td>
 <td><p>朱晉傑</p></td>
 <td></td>
 <td></td>
@@ -1596,7 +1596,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 | 137                                                               | 3月15日    | [周國賢](../Page/周國賢.md "wikilink")                                                                                                                       | 廖嘉輝    |
 | [徐天佑](../Page/徐天佑.md "wikilink")                                  | 羅沛琪      |                                                                                                                                                        |        |
 | 138                                                               | 3月22日    | [蘇永康](../Page/蘇永康.md "wikilink")                                                                                                                       | 詹朗林    |
-| [余香凝](https://zh.wikipedia.org/wiki/余香凝 "wikilink")               | 虞逸峯      |                                                                                                                                                        |        |
+| [余香凝](../Page/余香凝.md "wikilink")                                  | 虞逸峯      |                                                                                                                                                        |        |
 | 139                                                               | 3月29日    | [蔡卓妍](../Page/蔡卓妍.md "wikilink")                                                                                                                       | 廖嘉輝    |
 | [陳小春](https://zh.wikipedia.org/wiki/陳小春 "wikilink")               |          |                                                                                                                                                        |        |
 | 140                                                               | 4月5日     | [黃秋生](../Page/黃秋生.md "wikilink")、[姬素·孔尚治](../Page/姬素·孔尚治.md "wikilink")                                                                                | 虞逸峯    |
@@ -1613,7 +1613,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
 
 ## 節目調動
 
-  - 2016年12月18日：由於20:30-22:45直播《[美選D.n.A](https://zh.wikipedia.org/wiki/美選D.n.A "wikilink")》決賽，當日節目順延至23:00-23:30播映。
+  - 2016年12月18日：由於20:30-22:45直播《[美選D.n.A](../Page/美選D.n.A.md "wikilink")》決賽，當日節目順延至23:00-23:30播映。
   - 2016年12月25日：由於20:30-21:45播出《[醉愛聖誕](https://zh.wikipedia.org/wiki/醉愛聖誕 "wikilink")》，當日節目順延至21:45-22:15播映。
   - 2017年1月1日：由於20:00-00:35直播《[2016年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")》，當日節目暫停播映。
   - 2017年1月29日：由於20:30-22:30播出《[2016夏戀嘉年華](https://zh.wikipedia.org/wiki/2016夏戀嘉年華 "wikilink")》，當日節目提早至19:30-20:00播映。
@@ -1624,7 +1624,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
   - 2017年11月19日：由於19:30-20:00播出《[Let's
     Move夏學期大專生微電影比賽頒獎典禮2017](https://zh.wikipedia.org/wiki/Let's_Move夏學期大專生微電影比賽頒獎典禮2017 "wikilink")》，當日節目暫停播映。
   - 2017年12月17日：由於19:30-20:00播出《[在商言商](https://zh.wikipedia.org/wiki/在商言商 "wikilink")》第十集，當日節目暫停播映。
-  - 2018年1月7日：由於15:15-18:00直播《[第40屆省港盃](https://zh.wikipedia.org/wiki/第40屆省港盃 "wikilink")
+  - 2018年1月7日：由於15:15-18:00直播《[第40屆省港盃](../Page/第40屆省港盃.md "wikilink")
     次回合 - 廣東 對
     [香港](https://zh.wikipedia.org/wiki/香港足球代表隊 "wikilink")》超時，《[6點新聞報道](https://zh.wikipedia.org/wiki/now新聞報道 "wikilink")》、《[大鳴大放](../Page/大鳴大放_\(電視節目\).md "wikilink")》及《[經緯線](../Page/經緯線_\(電視節目\).md "wikilink")》順延播出，當日原定播放的第83集因臨時節目調動關係暫停播映並順延至1月14日19:30-20:00播映。
   - 2018年1月21日：由於20日19:00-22:40直播《[第十三屆KKBOX風雲榜](https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜#第十三屆_2018 "wikilink")》，《[職場特工](https://zh.wikipedia.org/wiki/職場特工 "wikilink")》第6集改為在本節目原時段播出，當日節目暫停播映。
@@ -1632,7 +1632,7 @@ Interviu》名義播出，2016年5月8日至2019年4月26日常規播放，2019�
     紐卡素》，《[恐怖醫學](https://zh.wikipedia.org/wiki/恐怖醫學 "wikilink")》第64集提早至20:00-21:00播出，當日《8點新聞報道》暫停播映，並改為於本節目原時段（19:30-20:00）播出《新聞報道》，第84集提早至27日（星期六）15:30-16:00播映。
   - 2018年3月18日：由於21:00-23:30直播《英格蘭足總盃17/18 半準決賽：韋根 對
     修咸頓》，《全港的》第13集提早至20:00-20:05播出及《[恐怖醫學](https://zh.wikipedia.org/wiki/恐怖醫學 "wikilink")》第70集提早至20:05-21:00播出，當日《8點新聞報道》暫停播映，並改為於本節目原時段（19:30-20:00）播出《新聞報道》，當日節目暫停播映。
-  - 2018年4月15日：由於17:30-19:25直播《[第37屆香港電影金像獎頒獎典禮紅地氈盛況](https://zh.wikipedia.org/wiki/第37屆香港電影金像獎 "wikilink")》，當日《[6點新聞報道](https://zh.wikipedia.org/wiki/now新聞報道 "wikilink")》暫停播映，並改為於本節目原時段（19:30-20:00）播出《新聞報道》，當日節目暫停播映。
+  - 2018年4月15日：由於17:30-19:25直播《[第37屆香港電影金像獎頒獎典禮紅地氈盛況](../Page/第37屆香港電影金像獎.md "wikilink")》，當日《[6點新聞報道](https://zh.wikipedia.org/wiki/now新聞報道 "wikilink")》暫停播映，並改為於本節目原時段（19:30-20:00）播出《新聞報道》，當日節目暫停播映。
   - 2018年6月24日：由於19:15-22:15直播《[2018
     FIFA世界盃™](https://zh.wikipedia.org/wiki/2018年FIFA世界盃 "wikilink")
     - 英格蘭 對 巴拿馬》，當日節目暫停播映。

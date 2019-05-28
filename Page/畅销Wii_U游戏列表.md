@@ -53,7 +53,7 @@ U](../Page/Wii_U.md "wikilink")[电子游戏清单](../Page/电子游戏.md "wik
 <td><p>日本 64 万[11] 海外 275 万[12]</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/格斗游戏" title="wikilink">格斗</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sora_(公司)" title="wikilink">Sora</a><br />
+<td><p><a href="../Page/Sora_(公司).md" title="wikilink">Sora</a><br />
 <a href="../Page/万代南梦宫娱乐.md" title="wikilink">万代南梦宫娱乐</a></p></td>
 <td><p>Nintendo</p></td>
 </tr>
@@ -147,7 +147,7 @@ U](../Page/Wii_U.md "wikilink")[电子游戏清单](../Page/电子游戏.md "wik
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Action_game" title="wikilink">Action</a>, <a href="https://zh.wikipedia.org/wiki/hack_and_slash" title="wikilink">hack and slash</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Koei_Tecmo#Omega_Force" title="wikilink">Omega Force</a><br />
-<a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
+<a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

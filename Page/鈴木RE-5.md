@@ -4,7 +4,7 @@
 
 [汪克爾引擎](../Page/汪克爾引擎.md "wikilink")（Wankel
 engine）屬於一種無[活塞迴旋式](https://zh.wikipedia.org/wiki/活塞 "wikilink")[四行程內燃機](https://zh.wikipedia.org/wiki/四行程內燃機 "wikilink")，1960年1月19日由[德國工程師](https://zh.wikipedia.org/wiki/德國 "wikilink")[菲力斯·汪克爾](../Page/菲力斯·汪克爾.md "wikilink")（Felix
-Wankel）於德國工程師學會（）的會議上向世人公開發表後受到矚目。不只是鈴木，連[本田](../Page/本田技研工业.md "wikilink")、[山葉](../Page/山葉發動機.md "wikilink")、[川崎等首要機車製造廠在](../Page/川崎重工業.md "wikilink")1970年代亦陸續投入開發試作。最著名的例子是山葉與洋馬柴油引擎（今[洋馬發動機](https://zh.wikipedia.org/wiki/洋馬 "wikilink")）共同開發、於1972年[東京車展公開的](../Page/東京車展.md "wikilink")「RZ201」試作車\[1\]，配置了雙轉子汪克爾引擎。另外，川崎也曾試作出雙轉子汪克爾引擎的「X99」\[2\]，可是受到[1973年石油危機影響而中斷計劃](https://zh.wikipedia.org/wiki/第一次石油危机 "wikilink")。受限於引擎本體的散熱對策、當時的素材技術以及能源危機等因素，迫使這些廠商紛紛打退堂鼓，並未真正將試作車實用量產化。
+Wankel）於德國工程師學會（）的會議上向世人公開發表後受到矚目。不只是鈴木，連[本田](../Page/本田技研工业.md "wikilink")、[山葉](../Page/山葉發動機.md "wikilink")、[川崎等首要機車製造廠在](../Page/川崎重工業.md "wikilink")1970年代亦陸續投入開發試作。最著名的例子是山葉與洋馬柴油引擎（今[洋馬發動機](../Page/洋馬.md "wikilink")）共同開發、於1972年[東京車展公開的](../Page/東京車展.md "wikilink")「RZ201」試作車\[1\]，配置了雙轉子汪克爾引擎。另外，川崎也曾試作出雙轉子汪克爾引擎的「X99」\[2\]，可是受到[1973年石油危機影響而中斷計劃](https://zh.wikipedia.org/wiki/第一次石油危机 "wikilink")。受限於引擎本體的散熱對策、當時的素材技術以及能源危機等因素，迫使這些廠商紛紛打退堂鼓，並未真正將試作車實用量產化。
 
 惟有鈴木堅持將RE-5量產化上市，卻受到汪克爾引擎[排氣量的換算影響](https://zh.wikipedia.org/wiki/排氣量 "wikilink")，超過當時日本國內市售機車自主規制値的750c.c.，遂改以[外銷為主](https://zh.wikipedia.org/wiki/出口贸易 "wikilink")。雖然汪克爾引擎具有運轉平順、震動與噪音小等優勢，適合長途駕遊，但是油耗表現卻是其致命傷。受到[1973年石油危機影響](https://zh.wikipedia.org/wiki/第一次石油危机 "wikilink")，外銷成績不甚亮眼，2年之間僅售出約6千輛之譜。此外1985年元月出版的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《機車世界》（Cycle
 World）批評RE-5昂貴、過於複雜、動力不足、造型醜惡，該[雜誌認為RE](https://zh.wikipedia.org/wiki/雜誌 "wikilink")-5是十大最差機車之一\[3\]。

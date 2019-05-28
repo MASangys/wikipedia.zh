@@ -10,7 +10,7 @@ One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")**（）。
     Wannabe](../Page/SG_Wannabe.md "wikilink")）& 申尤美（YG娛樂聲樂老师）
   - 舞蹈導師：[嘉熙](https://zh.wikipedia.org/wiki/嘉熙_\(歌手\) "wikilink") &
     權宰勝（Jason Kwon）
-  - Rap導師：[Cheetah](https://zh.wikipedia.org/wiki/Cheetah "wikilink") &
+  - Rap導師：[Cheetah](../Page/Cheetah.md "wikilink") &
 
 ## 成員
 
@@ -1914,67 +1914,67 @@ The 男子漢</p></td>
         3名練習生因違規向外界暗示表演歌曲選擇意向，被製作組安排不獲得相關歌曲及最後分配主題風格作為處罰。
       - <u>底線</u>為組別中心(暫定)，為組別隊長。
 
-| 主題評價分組名單                                                                                                                                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 作曲家                                                                                                                                                                                                                                      |
-| Veethoven、Oh Sung Hwan、 ASHTRAY、KINGMAKER                                                                                                                                                                                                |
-| HUNUS                                                                                                                                                                                                                                    |
-| MMO                                                                                                                                                                                                                                      |
-| Ardor & Able                                                                                                                                                                                                                             |
-| Media Line                                                                                                                                                                                                                               |
-| HF Music Company                                                                                                                                                                                                                         |
-| FNC                                                                                                                                                                                                                                      |
-| HF Music Company                                                                                                                                                                                                                         |
-| SHow                                                                                                                                                                                                                                     |
-| SHow                                                                                                                                                                                                                                     |
-| 個人練習生                                                                                                                                                                                                                                    |
-| K-Tigers                                                                                                                                                                                                                                 |
-| [申赫 Shin Hyuk (Joombas)](https://zh.wikipedia.org/wiki/wikipedia:Hyuk_Shin "wikilink")                                                                                                                                                   |
-| OUI                                                                                                                                                                                                                                      |
-| THEVIBE LABLE                                                                                                                                                                                                                            |
-| Wid May                                                                                                                                                                                                                                  |
-| Brand New Music                                                                                                                                                                                                                          |
-| WH CREATIVE                                                                                                                                                                                                                              |
-| Wings                                                                                                                                                                                                                                    |
-| STARSHIP                                                                                                                                                                                                                                 |
-| THEVIBE LABLE                                                                                                                                                                                                                            |
-| RBW                                                                                                                                                                                                                                      |
-| NARDA                                                                                                                                                                                                                                    |
-| [Devine-Channel](http://www.devine-channel.com)                                                                                                                                                                                          |
-| Pledis                                                                                                                                                                                                                                   |
-| 春                                                                                                                                                                                                                                        |
-| STARROAD                                                                                                                                                                                                                                 |
-| Namoo Actors                                                                                                                                                                                                                             |
-| MMO                                                                                                                                                                                                                                      |
-| 個人練習生                                                                                                                                                                                                                                    |
-| C2K                                                                                                                                                                                                                                      |
-| HIM                                                                                                                                                                                                                                      |
-| GON                                                                                                                                                                                                                                      |
-| 2Y                                                                                                                                                                                                                                       |
-| Jellyfish                                                                                                                                                                                                                                |
-| [Triple H](https://zh.wikipedia.org/wiki/Triple_H_\(企劃組合\) "wikilink") ([泫雅](https://zh.wikipedia.org/wiki/泫雅 "wikilink")、[Hui](https://zh.wikipedia.org/wiki/Hui "wikilink")、[E'Dawn](https://zh.wikipedia.org/wiki/E'Dawn "wikilink")) |
-| Cube                                                                                                                                                                                                                                     |
-| Cube                                                                                                                                                                                                                                     |
-| Pledis                                                                                                                                                                                                                                   |
-| Pledis                                                                                                                                                                                                                                   |
-| Fantagio                                                                                                                                                                                                                                 |
-| Ardor & Able                                                                                                                                                                                                                             |
-| Brand New Music                                                                                                                                                                                                                          |
-| Brand New Music                                                                                                                                                                                                                          |
-| Brand New Music                                                                                                                                                                                                                          |
-| Cre.Ker                                                                                                                                                                                                                                  |
-| Kiggen、ASSBRASS                                                                                                                                                                                                                          |
-| Yuehua                                                                                                                                                                                                                                   |
-| Yuehua                                                                                                                                                                                                                                   |
-| C9                                                                                                                                                                                                                                       |
-| RBW                                                                                                                                                                                                                                      |
-| STARSHIP                                                                                                                                                                                                                                 |
-| Pledis                                                                                                                                                                                                                                   |
-| ONO                                                                                                                                                                                                                                      |
-| KIWI Media Group                                                                                                                                                                                                                         |
-| Yuehua                                                                                                                                                                                                                                   |
-| Yuehua                                                                                                                                                                                                                                   |
-| FENT                                                                                                                                                                                                                                     |
+| 主題評價分組名單                                                                                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 作曲家                                                                                                                                                                                                                   |
+| Veethoven、Oh Sung Hwan、 ASHTRAY、KINGMAKER                                                                                                                                                                             |
+| HUNUS                                                                                                                                                                                                                 |
+| MMO                                                                                                                                                                                                                   |
+| Ardor & Able                                                                                                                                                                                                          |
+| Media Line                                                                                                                                                                                                            |
+| HF Music Company                                                                                                                                                                                                      |
+| FNC                                                                                                                                                                                                                   |
+| HF Music Company                                                                                                                                                                                                      |
+| SHow                                                                                                                                                                                                                  |
+| SHow                                                                                                                                                                                                                  |
+| 個人練習生                                                                                                                                                                                                                 |
+| K-Tigers                                                                                                                                                                                                              |
+| [申赫 Shin Hyuk (Joombas)](https://zh.wikipedia.org/wiki/wikipedia:Hyuk_Shin "wikilink")                                                                                                                                |
+| OUI                                                                                                                                                                                                                   |
+| THEVIBE LABLE                                                                                                                                                                                                         |
+| Wid May                                                                                                                                                                                                               |
+| Brand New Music                                                                                                                                                                                                       |
+| WH CREATIVE                                                                                                                                                                                                           |
+| Wings                                                                                                                                                                                                                 |
+| STARSHIP                                                                                                                                                                                                              |
+| THEVIBE LABLE                                                                                                                                                                                                         |
+| RBW                                                                                                                                                                                                                   |
+| NARDA                                                                                                                                                                                                                 |
+| [Devine-Channel](http://www.devine-channel.com)                                                                                                                                                                       |
+| Pledis                                                                                                                                                                                                                |
+| 春                                                                                                                                                                                                                     |
+| STARROAD                                                                                                                                                                                                              |
+| Namoo Actors                                                                                                                                                                                                          |
+| MMO                                                                                                                                                                                                                   |
+| 個人練習生                                                                                                                                                                                                                 |
+| C2K                                                                                                                                                                                                                   |
+| HIM                                                                                                                                                                                                                   |
+| GON                                                                                                                                                                                                                   |
+| 2Y                                                                                                                                                                                                                    |
+| Jellyfish                                                                                                                                                                                                             |
+| [Triple H](../Page/Triple_H_\(企劃組合\).md "wikilink") ([泫雅](https://zh.wikipedia.org/wiki/泫雅 "wikilink")、[Hui](https://zh.wikipedia.org/wiki/Hui "wikilink")、[E'Dawn](https://zh.wikipedia.org/wiki/E'Dawn "wikilink")) |
+| Cube                                                                                                                                                                                                                  |
+| Cube                                                                                                                                                                                                                  |
+| Pledis                                                                                                                                                                                                                |
+| Pledis                                                                                                                                                                                                                |
+| Fantagio                                                                                                                                                                                                              |
+| Ardor & Able                                                                                                                                                                                                          |
+| Brand New Music                                                                                                                                                                                                       |
+| Brand New Music                                                                                                                                                                                                       |
+| Brand New Music                                                                                                                                                                                                       |
+| Cre.Ker                                                                                                                                                                                                               |
+| Kiggen、ASSBRASS                                                                                                                                                                                                       |
+| Yuehua                                                                                                                                                                                                                |
+| Yuehua                                                                                                                                                                                                                |
+| C9                                                                                                                                                                                                                    |
+| RBW                                                                                                                                                                                                                   |
+| STARSHIP                                                                                                                                                                                                              |
+| Pledis                                                                                                                                                                                                                |
+| ONO                                                                                                                                                                                                                   |
+| KIWI Media Group                                                                                                                                                                                                      |
+| Yuehua                                                                                                                                                                                                                |
+| Yuehua                                                                                                                                                                                                                |
+| FENT                                                                                                                                                                                                                  |
 
   - 力氣比賽
       - MC：FNC柳會勝、K-tigers邊賢民
@@ -2185,44 +2185,44 @@ The 男子漢</p></td>
       - MMO姜丹尼爾、Pledis姜東昊為優勝組第1名(205票)及第2名(78票)，個人票數未同時公佈，會延至第三次排名儀式時發表。
   - 第9集排名: 公開1-35位各票數及第12名為 Pledis**黃旼炫**
 
-| 主題評價分組名單                                                                                                                                                                                                                                 |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 作曲家                                                                                                                                                                                                                                      |
-| Veethoven、Oh Sung Hwan、 ASHTRAY、KINGMAKER                                                                                                                                                                                                |
-| HUNUS                                                                                                                                                                                                                                    |
-| MMO                                                                                                                                                                                                                                      |
-| Ardor & Able                                                                                                                                                                                                                             |
-| Media Line                                                                                                                                                                                                                               |
-| HF Music Company                                                                                                                                                                                                                         |
-| Ardor & Able                                                                                                                                                                                                                             |
-| 申赫 Shin Hyuk (Joombas)                                                                                                                                                                                                                   |
-| OUI                                                                                                                                                                                                                                      |
-| THEVIBE LABLE                                                                                                                                                                                                                            |
-| Wid May                                                                                                                                                                                                                                  |
-| Brand New Music                                                                                                                                                                                                                          |
-| WH CREATIVE                                                                                                                                                                                                                              |
-| ONO                                                                                                                                                                                                                                      |
-| [Devine-Channel](http://www.devine-channel.com)                                                                                                                                                                                          |
-| Pledis                                                                                                                                                                                                                                   |
-| 春                                                                                                                                                                                                                                        |
-| STARROAD                                                                                                                                                                                                                                 |
-| Cre.Ker                                                                                                                                                                                                                                  |
-| Brand New Music                                                                                                                                                                                                                          |
-| Cube                                                                                                                                                                                                                                     |
-| Kiggen、ASSBRASS                                                                                                                                                                                                                          |
-| Yuehua                                                                                                                                                                                                                                   |
-| Yuehua                                                                                                                                                                                                                                   |
-| C9                                                                                                                                                                                                                                       |
-| RBW                                                                                                                                                                                                                                      |
-| STARSHIP                                                                                                                                                                                                                                 |
-| Pledis                                                                                                                                                                                                                                   |
-| [Triple H](https://zh.wikipedia.org/wiki/Triple_H_\(企劃組合\) "wikilink") ([泫雅](https://zh.wikipedia.org/wiki/泫雅 "wikilink")、[Hui](https://zh.wikipedia.org/wiki/Hui "wikilink")、[E'Dawn](https://zh.wikipedia.org/wiki/E'Dawn "wikilink")) |
-| Cube                                                                                                                                                                                                                                     |
-| Pledis                                                                                                                                                                                                                                   |
-| Pledis                                                                                                                                                                                                                                   |
-| Fantagio                                                                                                                                                                                                                                 |
-| Brand New Music                                                                                                                                                                                                                          |
-| Brand New Music                                                                                                                                                                                                                          |
+| 主題評價分組名單                                                                                                                                                                                                              |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 作曲家                                                                                                                                                                                                                   |
+| Veethoven、Oh Sung Hwan、 ASHTRAY、KINGMAKER                                                                                                                                                                             |
+| HUNUS                                                                                                                                                                                                                 |
+| MMO                                                                                                                                                                                                                   |
+| Ardor & Able                                                                                                                                                                                                          |
+| Media Line                                                                                                                                                                                                            |
+| HF Music Company                                                                                                                                                                                                      |
+| Ardor & Able                                                                                                                                                                                                          |
+| 申赫 Shin Hyuk (Joombas)                                                                                                                                                                                                |
+| OUI                                                                                                                                                                                                                   |
+| THEVIBE LABLE                                                                                                                                                                                                         |
+| Wid May                                                                                                                                                                                                               |
+| Brand New Music                                                                                                                                                                                                       |
+| WH CREATIVE                                                                                                                                                                                                           |
+| ONO                                                                                                                                                                                                                   |
+| [Devine-Channel](http://www.devine-channel.com)                                                                                                                                                                       |
+| Pledis                                                                                                                                                                                                                |
+| 春                                                                                                                                                                                                                     |
+| STARROAD                                                                                                                                                                                                              |
+| Cre.Ker                                                                                                                                                                                                               |
+| Brand New Music                                                                                                                                                                                                       |
+| Cube                                                                                                                                                                                                                  |
+| Kiggen、ASSBRASS                                                                                                                                                                                                       |
+| Yuehua                                                                                                                                                                                                                |
+| Yuehua                                                                                                                                                                                                                |
+| C9                                                                                                                                                                                                                    |
+| RBW                                                                                                                                                                                                                   |
+| STARSHIP                                                                                                                                                                                                              |
+| Pledis                                                                                                                                                                                                                |
+| [Triple H](../Page/Triple_H_\(企劃組合\).md "wikilink") ([泫雅](https://zh.wikipedia.org/wiki/泫雅 "wikilink")、[Hui](https://zh.wikipedia.org/wiki/Hui "wikilink")、[E'Dawn](https://zh.wikipedia.org/wiki/E'Dawn "wikilink")) |
+| Cube                                                                                                                                                                                                                  |
+| Pledis                                                                                                                                                                                                                |
+| Pledis                                                                                                                                                                                                                |
+| Fantagio                                                                                                                                                                                                              |
+| Brand New Music                                                                                                                                                                                                       |
+| Brand New Music                                                                                                                                                                                                       |
 
 ### 第十集
 
@@ -2619,7 +2619,7 @@ The 男子漢</p></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姜丹尼爾" title="wikilink">姜丹尼爾</a></p></td>
+<td><p><a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a></p></td>
 <td><p>강다니엘</p></td>
 <td></td>
 <td></td>
@@ -2653,7 +2653,7 @@ The 男子漢</p></td>
 <td><p>60</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李大辉" title="wikilink">李大辉</a></p></td>
 <td><p>이대휘</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Brand_New_Music" title="wikilink">Brand New Music</a></p></td>
+<td><p><a href="../Page/Brand_New_Music.md" title="wikilink">Brand New Music</a></p></td>
 <td></td>
 <td></td>
 <td><p>3</p></td>
@@ -2701,7 +2701,7 @@ The 男子漢</p></td>
 <td><p>59</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/朴佑镇" title="wikilink">朴佑镇</a></p></td>
 <td><p>박우진</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Brand_New_Music" title="wikilink">Brand New Music</a></p></td>
+<td><p><a href="../Page/Brand_New_Music.md" title="wikilink">Brand New Music</a></p></td>
 <td></td>
 <td></td>
 <td><p>72</p></td>
@@ -2715,7 +2715,7 @@ The 男子漢</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/賴冠霖" title="wikilink">賴冠霖</a></p></td>
+<td><p><a href="../Page/賴冠霖.md" title="wikilink">賴冠霖</a></p></td>
 <td><p>라이관린</p></td>
 <td><p><a href="../Page/Cube娛樂.md" title="wikilink">Cube</a></p></td>
 <td></td>
@@ -2765,7 +2765,7 @@ The 男子漢</p></td>
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/裴珍映" title="wikilink">裴珍映</a></p></td>
 <td><p>배진영</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C9娱乐" title="wikilink">C9</a></p></td>
+<td><p><a href="../Page/C9娱乐.md" title="wikilink">C9</a></p></td>
 <td></td>
 <td></td>
 <td><p>5</p></td>
@@ -2779,7 +2779,7 @@ The 男子漢</p></td>
 </tr>
 <tr class="even">
 <td><p>69</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/河成雲" title="wikilink">河成雲</a></p></td>
+<td><p><a href="../Page/河成雲.md" title="wikilink">河成雲</a></p></td>
 <td><p>하성운</p></td>
 <td><p>Ardor &amp; Able</p></td>
 <td></td>
@@ -2859,9 +2859,9 @@ The 男子漢</p></td>
 </tr>
 <tr class="odd">
 <td><p>61</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林煐岷" title="wikilink">林煐岷</a></p></td>
+<td><p><a href="../Page/林煐岷.md" title="wikilink">林煐岷</a></p></td>
 <td><p>임영민</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Brand_New_Music" title="wikilink">Brand New Music</a></p></td>
+<td><p><a href="../Page/Brand_New_Music.md" title="wikilink">Brand New Music</a></p></td>
 <td></td>
 <td></td>
 <td><p>24</p></td>
@@ -2875,7 +2875,7 @@ The 男子漢</p></td>
 </tr>
 <tr class="even">
 <td><p>77</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安炯燮" title="wikilink">安炯燮</a></p></td>
+<td><p><a href="../Page/安炯燮.md" title="wikilink">安炯燮</a></p></td>
 <td><p>안형섭</p></td>
 <td><p><a href="../Page/乐华娱乐.md" title="wikilink">乐华</a></p></td>
 <td></td>
@@ -2987,7 +2987,7 @@ The 男子漢</p></td>
 </tr>
 <tr class="odd">
 <td><p>40</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/權玄彬" title="wikilink">權玄彬</a></p></td>
+<td><p><a href="../Page/權玄彬.md" title="wikilink">權玄彬</a></p></td>
 <td><p>권현빈</p></td>
 <td><p><a href="../Page/YG_K_Plus.md" title="wikilink">YG K+</a></p></td>
 <td></td>
@@ -3003,7 +3003,7 @@ The 男子漢</p></td>
 </tr>
 <tr class="even">
 <td><p>78</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李義雄_(韓國)" title="wikilink">李義雄</a></p></td>
+<td><p><a href="../Page/李義雄_(韓國).md" title="wikilink">李義雄</a></p></td>
 <td><p>이의웅</p></td>
 <td><p><a href="../Page/乐华娱乐.md" title="wikilink">乐华</a></p></td>
 <td></td>
@@ -3051,7 +3051,7 @@ The 男子漢</p></td>
 </tr>
 <tr class="odd">
 <td><p>101</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金相均" title="wikilink">金相均</a></p></td>
+<td><p><a href="../Page/金相均.md" title="wikilink">金相均</a></p></td>
 <td><p>김상균</p></td>
 <td><p>HUNUS</p></td>
 <td></td>
@@ -3085,7 +3085,7 @@ The 男子漢</p></td>
 <td><p>58</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金东贤" title="wikilink">金东贤</a></p></td>
 <td><p>김동현</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Brand_New_Music" title="wikilink">Brand New Music</a></p></td>
+<td><p><a href="../Page/Brand_New_Music.md" title="wikilink">Brand New Music</a></p></td>
 <td></td>
 <td></td>
 <td><p>42</p></td>
@@ -3165,7 +3165,7 @@ The 男子漢</p></td>
 <td><p>33</p></td>
 <td><p>李建熙</p></td>
 <td><p>이건희</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rainbow_Bridge_World" title="wikilink">RBW</a></p></td>
+<td><p><a href="../Page/Rainbow_Bridge_World.md" title="wikilink">RBW</a></p></td>
 <td></td>
 <td></td>
 <td><p>17</p></td>
@@ -3277,7 +3277,7 @@ The 男子漢</p></td>
 <td><p>7</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/柳会胜" title="wikilink">柳会胜</a></p></td>
 <td><p>유회승</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FNC娛樂" title="wikilink">FNC</a></p></td>
+<td><p><a href="../Page/FNC娛樂.md" title="wikilink">FNC</a></p></td>
 <td></td>
 <td></td>
 <td><p>43</p></td>
@@ -3325,7 +3325,7 @@ The 男子漢</p></td>
 <td><p>31</p></td>
 <td><p>吕煥雄</p></td>
 <td><p>여환웅</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rainbow_Bridge_World" title="wikilink">RBW</a></p></td>
+<td><p><a href="../Page/Rainbow_Bridge_World.md" title="wikilink">RBW</a></p></td>
 <td></td>
 <td></td>
 <td><p>32</p></td>
@@ -3725,7 +3725,7 @@ The 男子漢</p></td>
 <td><p>30</p></td>
 <td><p>孙东明</p></td>
 <td><p>손동명</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rainbow_Bridge_World" title="wikilink">RBW</a></p></td>
+<td><p><a href="../Page/Rainbow_Bridge_World.md" title="wikilink">RBW</a></p></td>
 <td></td>
 <td></td>
 <td><p>53</p></td>
@@ -4141,7 +4141,7 @@ The 男子漢</p></td>
 <td><p>32</p></td>
 <td><p>李建旻</p></td>
 <td><p>이건민</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rainbow_Bridge_World" title="wikilink">RBW</a></p></td>
+<td><p><a href="../Page/Rainbow_Bridge_World.md" title="wikilink">RBW</a></p></td>
 <td></td>
 <td></td>
 <td><p>56</p></td>
@@ -4189,7 +4189,7 @@ The 男子漢</p></td>
 <td><p>34</p></td>
 <td><p>崔裁佑</p></td>
 <td><p>최재우</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rainbow_Bridge_World" title="wikilink">RBW</a></p></td>
+<td><p><a href="../Page/Rainbow_Bridge_World.md" title="wikilink">RBW</a></p></td>
 <td></td>
 <td></td>
 <td><p>74</p></td>
@@ -4299,7 +4299,7 @@ The 男子漢</p></td>
 </tr>
 <tr class="odd">
 <td><p>88</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金始炫" title="wikilink">金始炫</a></p></td>
+<td><p><a href="../Page/金始炫.md" title="wikilink">金始炫</a></p></td>
 <td><p>김시현</p></td>
 <td><p>春</p></td>
 <td></td>

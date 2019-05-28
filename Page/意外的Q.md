@@ -1,4 +1,4 @@
-《**意外的Q**》（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC的音樂問答類](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")\[1\]，為接檔《[無限挑戰](../Page/無限挑戰.md "wikilink")》的後續節目，由[李壽根](../Page/李壽根.md "wikilink")、[全炫茂主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[2\]，[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、[俞世潤](https://zh.wikipedia.org/wiki/俞世潤 "wikilink")、[勝寛固定出演](../Page/夫勝寛.md "wikilink")。節目主軸為在意外的情況下進行的國民Quiz
+《**意外的Q**》（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC的音樂問答類](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")\[1\]，為接檔《[無限挑戰](../Page/無限挑戰.md "wikilink")》的後續節目，由[李壽根](../Page/李壽根.md "wikilink")、[全炫茂主持](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[2\]，[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、[俞世潤](../Page/俞世潤.md "wikilink")、[勝寛固定出演](../Page/夫勝寛.md "wikilink")。節目主軸為在意外的情況下進行的國民Quiz
 Show\[3\]，自2018年5月5日至10月27日逢星期六晚上6時25分播出。
 
 ## 節目成員
@@ -11,13 +11,13 @@ Show\[3\]，自2018年5月5日至10月27日逢星期六晚上6時25分播出。
 ### 固定成員
 
   - [殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）
-  - [俞世潤](https://zh.wikipedia.org/wiki/俞世潤 "wikilink")（）
+  - [俞世潤](../Page/俞世潤.md "wikilink")（）
   - [勝寛](../Page/夫勝寛.md "wikilink")（[SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink")）
 
 ## 節目規則
 
   - 自第4集起，每集節目均設有特定主題，觀眾可於節目錄影前在官方開放聊天室或官方網站討論區提交主題及相關題目。
-  - 第一次改版（第2－6集）：節目設定為兩人一組團體戰，兩名主持[李壽根](../Page/李壽根.md "wikilink")、[全炫茂為一隊](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")，三名固定成員[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、[俞世潤](https://zh.wikipedia.org/wiki/俞世潤 "wikilink")、[勝寛各自與一名嘉賓一隊](../Page/夫勝寛.md "wikilink")，另設一隊由兩名嘉賓組成。在「表情符號Quiz」環節得分最高的隊伍將獲得韓牛禮盒。
+  - 第一次改版（第2－6集）：節目設定為兩人一組團體戰，兩名主持[李壽根](../Page/李壽根.md "wikilink")、[全炫茂為一隊](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")，三名固定成員[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、[俞世潤](../Page/俞世潤.md "wikilink")、[勝寛各自與一名嘉賓一隊](../Page/夫勝寛.md "wikilink")，另設一隊由兩名嘉賓組成。在「表情符號Quiz」環節得分最高的隊伍將獲得韓牛禮盒。
   - 第二次改版（第7－16、22－25集）：節目開首會公開固定成員及嘉賓的歌曲列表，由兩隊隊長[李壽根](../Page/李壽根.md "wikilink")、[全炫茂從中選擇歌曲決定隊伍](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")（自第22集起不設分隊環節）。隊伍按各環節規則累積意外的瓢（뜻밖의
     박），簡稱意瓢（뜻박）。最終累積瓢數最少的一隊獲勝，勝出隊伍表現最佳的嘉賓（MVP）將獲得韓牛禮盒，落敗隊伍則需選出一名代表被意瓢擊頭。
 
@@ -402,7 +402,7 @@ Show\[3\]，自2018年5月5日至10月27日逢星期六晚上6時25分播出。
 
   - 5月5日：節目首播
   - 5月12日：第一次改版——由個人戰改為兩人一組團體戰
-  - 5月19日：[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、[俞世潤](https://zh.wikipedia.org/wiki/俞世潤 "wikilink")、[勝寛成為固定成員](../Page/夫勝寛.md "wikilink")\[7\]
+  - 5月19日：[殷志源](https://zh.wikipedia.org/wiki/殷志源 "wikilink")、[俞世潤](../Page/俞世潤.md "wikilink")、[勝寛成為固定成員](../Page/夫勝寛.md "wikilink")\[7\]
   - 6月16日：第二次改版——固定成員及嘉賓分為[壽根隊](../Page/李壽根.md "wikilink")、[炫茂隊](https://zh.wikipedia.org/wiki/全炫茂 "wikilink")\[8\]
   - 8月25日：推行「拯救意外的Q計劃」，每集採用不同模式及環節。距離[MBC秋季改編還剩十集](../Page/文化廣播公司.md "wikilink")\[9\]
   - 9月1日：因轉播[2018年亞洲運動會棒球比賽決賽](https://zh.wikipedia.org/wiki/2018年亞洲運動會棒球比賽 "wikilink")（[韓國VS](https://zh.wikipedia.org/wiki/韓國 "wikilink")[日本](../Page/日本.md "wikilink")）而停播\[10\]

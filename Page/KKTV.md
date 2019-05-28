@@ -53,26 +53,26 @@ COUNTDOWN」[人氣歌謠歌唱比賽的直播與VOD版權](https://zh.wikipedia
 <tr class="even">
 <td><p>2017年5月10日</p></td>
 <td><p><a href="../Page/紅色氣球.md" title="wikilink">紅色氣球</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/徐韜_(演員)" title="wikilink">徐韜</a>、<a href="https://zh.wikipedia.org/wiki/陳世承" title="wikilink">陳世承</a>、<a href="../Page/亮哲.md" title="wikilink">亮哲</a>、<a href="../Page/謝坤達.md" title="wikilink">謝坤達</a>、<a href="../Page/方志友.md" title="wikilink">方志友</a>、<a href="https://zh.wikipedia.org/wiki/吳子霏" title="wikilink">吳子霏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐韜_(演員)" title="wikilink">徐韜</a>、<a href="https://zh.wikipedia.org/wiki/陳世承" title="wikilink">陳世承</a>、<a href="../Page/亮哲.md" title="wikilink">亮哲</a>、<a href="../Page/謝坤達.md" title="wikilink">謝坤達</a>、<a href="../Page/方志友.md" title="wikilink">方志友</a>、<a href="../Page/吳子霏.md" title="wikilink">吳子霏</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年12月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第一次_(網路劇)" title="wikilink">第一次</a></p></td>
-<td><p>曹婕妤、<a href="https://zh.wikipedia.org/wiki/黃禮豐" title="wikilink">黃禮豐</a>、<a href="../Page/柯淑勤.md" title="wikilink">柯淑勤</a>、<a href="../Page/李洺中.md" title="wikilink">李洺中</a>、<a href="../Page/唐從聖.md" title="wikilink">唐從聖</a></p></td>
+<td><p><a href="../Page/第一次_(網路劇).md" title="wikilink">第一次</a></p></td>
+<td><p>曹婕妤、<a href="../Page/黃禮豐.md" title="wikilink">黃禮豐</a>、<a href="../Page/柯淑勤.md" title="wikilink">柯淑勤</a>、<a href="../Page/李洺中.md" title="wikilink">李洺中</a>、<a href="../Page/唐從聖.md" title="wikilink">唐從聖</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018年7月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/美男魚澡堂" title="wikilink">美男魚澡堂</a></p></td>
-<td><p><a href="../Page/李沛旭.md" title="wikilink">李沛旭</a>、<a href="../Page/賴琳恩.md" title="wikilink">賴琳恩</a>、<a href="https://zh.wikipedia.org/wiki/陳昊森" title="wikilink">陳昊森</a> </p></td>
+<td><p><a href="../Page/美男魚澡堂.md" title="wikilink">美男魚澡堂</a></p></td>
+<td><p><a href="../Page/李沛旭.md" title="wikilink">李沛旭</a>、<a href="../Page/賴琳恩.md" title="wikilink">賴琳恩</a>、<a href="../Page/陳昊森.md" title="wikilink">陳昊森</a> </p></td>
 </tr>
 </tbody>
 </table>
 
 ## 投資的自製節目列表
 
-| 首播時間       | 節目名稱                           | 主演                                                                                                                                                                                                                                                             |
-| ---------- | ------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2017年5月10日 | [私室](../Page/私室.md "wikilink") | [黃尚禾](../Page/黃尚禾.md "wikilink")、[謝祖武](../Page/謝祖武.md "wikilink")、[鄭人碩](../Page/鄭人碩.md "wikilink")、[許乃涵](https://zh.wikipedia.org/wiki/許乃涵 "wikilink")、[曾紫庭](https://zh.wikipedia.org/wiki/曾紫庭 "wikilink")、[蘇育惟](https://zh.wikipedia.org/wiki/蘇育惟 "wikilink") |
+| 首播時間       | 節目名稱                           | 主演                                                                                                                                                                                                                                          |
+| ---------- | ------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2017年5月10日 | [私室](../Page/私室.md "wikilink") | [黃尚禾](../Page/黃尚禾.md "wikilink")、[謝祖武](../Page/謝祖武.md "wikilink")、[鄭人碩](../Page/鄭人碩.md "wikilink")、[許乃涵](../Page/許乃涵.md "wikilink")、[曾紫庭](https://zh.wikipedia.org/wiki/曾紫庭 "wikilink")、[蘇育惟](https://zh.wikipedia.org/wiki/蘇育惟 "wikilink") |
 
 ## 參考資料
 

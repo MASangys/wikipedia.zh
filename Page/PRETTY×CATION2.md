@@ -150,7 +150,7 @@ PRETTY×CATION2在2015年由Getchu.com舉辦的美少女遊戲大賞2015中獲�
 
   - [LOVELY×CATION](../Page/LOVELY×CATION.md "wikilink")
   - [PRETTY×CATION](../Page/PRETTY×CATION.md "wikilink")
-  - [新妻LOVELY×CATION](https://zh.wikipedia.org/wiki/新妻LOVELY×CATION "wikilink")
+  - [新妻LOVELY×CATION](../Page/新妻LOVELY×CATION.md "wikilink")
 
 ## 參考來源
 

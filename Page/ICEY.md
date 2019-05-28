@@ -1,8 +1,8 @@
-《**ICEY**》，又称“**艾希**”，是由[上海幻刃网络独立开发并由](https://zh.wikipedia.org/wiki/上海幻刃网络 "wikilink")[心动网络发行的含](https://zh.wikipedia.org/wiki/心动网络 "wikilink")[META要素的横版动作游戏](https://zh.wikipedia.org/wiki/META "wikilink")，游戏于2016年11月17日在[PlayStation
+《**ICEY**》，又称“**艾希**”，是由[上海幻刃网络独立开发并由](https://zh.wikipedia.org/wiki/上海幻刃网络 "wikilink")[心动网络发行的含](../Page/心动网络.md "wikilink")[META要素的横版动作游戏](https://zh.wikipedia.org/wiki/META "wikilink")，游戏于2016年11月17日在[PlayStation
 4与](../Page/PlayStation_4.md "wikilink")[Steam平台上发售](../Page/Steam.md "wikilink")。本作是心动网络首次发行的PlayStation
 4平台游戏。\[1\]
 
-《ICEY》还未上市期间已获得[科隆游戏展](https://zh.wikipedia.org/wiki/Gamescom "wikilink")、[东京电玩展等专业展会的业界奖项和提名](../Page/东京电玩展.md "wikilink")，以及[索尼互动娱乐和游戏界媒体的关注](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")。\[2\]\[3\]
+《ICEY》还未上市期间已获得[科隆游戏展](../Page/Gamescom.md "wikilink")、[东京电玩展等专业展会的业界奖项和提名](../Page/东京电玩展.md "wikilink")，以及[索尼互动娱乐和游戏界媒体的关注](https://zh.wikipedia.org/wiki/索尼互动娱乐 "wikilink")。\[2\]\[3\]
 
 ## 遊戲特色
 
@@ -23,7 +23,7 @@ SEE。\[6\]\[7\]
     －
     没有记忆、没有过去，记忆对她来说并不重要，她存在的意义只是消灭犹大，不管有多少艰难险阻，她都一定会达成自己的使命——消灭犹大。于是在一片黑暗中，ICEY
     苏醒了。
-  - **旁白君**（汉语配音：[图特哈蒙](https://zh.wikipedia.org/wiki/图特哈蒙 "wikilink")，日语配音（Switch版）：[下野紘](../Page/下野紘.md "wikilink")）
+  - **旁白君**（汉语配音：[图特哈蒙](../Page/图特哈蒙.md "wikilink")，日语配音（Switch版）：[下野紘](../Page/下野紘.md "wikilink")）
     － 至始至终都陪伴 ICEY 的旁白，他会指引艾希打倒犹大，但是他不希望艾希违背他的指引，因为打倒犹大才是 ICEY
     应该做的。\[9\]
   - **犹大** －
@@ -61,8 +61,8 @@ Eurogamer波兰站给出9分（满分10分），CGMagazine给出8.5分（满分1
   - 2017年[The Game
     Awards最佳中文游戏提名](https://zh.wikipedia.org/wiki/The_Game_Awards "wikilink")\[18\]
   - 2016年[東京電玩展](https://zh.wikipedia.org/wiki/東京電玩展 "wikilink")《電擊PlayStation》最佳獨立遊戲提名\[19\]
-  - 2016年[科隆遊戲展](https://zh.wikipedia.org/wiki/Gamescom "wikilink")
-    Indie Arena Booth 展示入選\[20\]
+  - 2016年[科隆遊戲展](../Page/Gamescom.md "wikilink") Indie Arena Booth
+    展示入選\[20\]
   - 2016年[台北國際電玩展最佳潛力獎第](../Page/台北國際電玩展.md "wikilink")2名
   - 2016年亞洲獨立遊戲（Casual Connect Asia 2016）展示入選
   - 2016年 Reboot Develop Indie Award 展示入選

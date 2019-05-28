@@ -52,7 +52,7 @@ One共發行了2張迷你專輯、1張改版專輯及1張特別專輯。
 <td><p><a href="https://zh.wikipedia.org/wiki/1X1=1_(To_Be_One)" title="wikilink">1×1=1 (To Be One)</a></p></td>
 <td><ul>
 <li>發行日期：2017年8月7日</li>
-<li>廠牌：<a href="../Page/YMC娛樂.md" title="wikilink">YMC娛樂</a>、<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>廠牌：<a href="../Page/YMC娛樂.md" title="wikilink">YMC娛樂</a>、<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></li>
 </ul></td>
 <td><p>1</p></td>
@@ -76,7 +76,7 @@ One共發行了2張迷你專輯、1張改版專輯及1張特別專輯。
 <td><p>8</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/0+1=1_(I_Promise_You)" title="wikilink">0+1=1 (I Promise You)</a></p></td>
+<td><p><a href="../Page/0+1=1_(I_Promise_You).md" title="wikilink">0+1=1 (I Promise You)</a></p></td>
 <td><ul>
 <li>發行日期：2018年3月19日</li>
 <li>廠牌：YMC娛樂、CJ E&amp;M</li>

@@ -3,7 +3,7 @@
 ## 體育賽事
 
   - [2001年世界運動會](../Page/2001年世界運動會.md "wikilink")
-  - [2018年秋田羽毛球大師賽](https://zh.wikipedia.org/wiki/2018年秋田羽毛球大師賽 "wikilink")
+  - [2018年秋田羽毛球大師賽](../Page/2018年秋田羽毛球大師賽.md "wikilink")
 
 ## 画册
 

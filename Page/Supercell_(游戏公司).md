@@ -1,6 +1,7 @@
 **Supercell（超級細胞）**是一家[芬兰](../Page/芬兰.md "wikilink")[赫尔辛基的电子游戏开发商](../Page/赫尔辛基.md "wikilink")。公司成立于2010年，目前主要制作面向[智能手机等移动平台的游戏](../Page/智能手机.md "wikilink")。其最令人熟知的作品包括了《》、《[部落冲突](../Page/部落冲突.md "wikilink")》、《海岛奇兵》、《[部落冲突：皇室战争](https://zh.wikipedia.org/wiki/部落冲突：皇室战争 "wikilink")（Clash
-Royale)》《[荒野亂鬥](https://zh.wikipedia.org/wiki/荒野亂鬥 "wikilink")(Brawl
-Stars) 》据统计在2013年，《卡通农场》和《部落冲突》两款游戏每天给公司带来250万美元的收入 \[1\]。
+Royale)》《[荒野亂鬥](../Page/荒野亂鬥.md "wikilink")(Brawl Stars)
+》据统计在2013年，《卡通农场》和《部落冲突》两款游戏每天给公司带来250万美元的收入
+\[1\]。
 
 ## 歷史
 
@@ -82,7 +83,7 @@ Supercell 停止使用疑似侵權的十幾項專利技術，Supercell將涉及�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/部落衝突：皇室戰爭" title="wikilink">部落衝突：皇室戰爭</a>》<br />
+<td><p>《<a href="../Page/部落衝突：皇室戰爭.md" title="wikilink">部落衝突：皇室戰爭</a>》<br />
 （<a href="https://zh.wikipedia.org/wiki/Clash_Royale" title="wikilink">Clash Royale</a>）</p></td>
 <td><p>2016年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/战略游戏" title="wikilink">战略</a></p></td>
@@ -91,7 +92,7 @@ Supercell 停止使用疑似侵權的十幾項專利技術，Supercell將涉及�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/荒野亂鬥" title="wikilink">荒野亂鬥</a>》<br />
+<td><p>《<a href="../Page/荒野亂鬥.md" title="wikilink">荒野亂鬥</a>》<br />
 （<a href="https://zh.wikipedia.org/wiki/Brawl_Stars" title="wikilink">Brawl Stars</a>）</p></td>
 <td><p>2017年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/战略游戏" title="wikilink">战略</a></p></td>

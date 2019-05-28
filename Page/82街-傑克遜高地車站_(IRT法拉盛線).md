@@ -1,4 +1,4 @@
-**82街-傑克遜高地車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線的一個慢車](https://zh.wikipedia.org/wiki/IRT法拉盛線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")82街及羅斯福大道交界\[1\]，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務\[2\]。
+**82街-傑克遜高地車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線的一個慢車](../Page/IRT法拉盛線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")82街及羅斯福大道交界\[1\]，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務\[2\]。
 
 ## 車站結構
 

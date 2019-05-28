@@ -68,7 +68,7 @@ Chart統計數據授獎的年度大型頒獎禮](https://zh.wikipedia.org/wiki/G
 <tr class="odd">
 <td><p>第8屆</p></td>
 <td><p>2018年</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Eyes_On_You" title="wikilink">Eyes On You</a>》</p></td>
+<td><p>《<a href="../Page/Eyes_On_You.md" title="wikilink">Eyes On You</a>》</p></td>
 <td><p>專輯部門－年度歌手獎（第一季）</p></td>
 <td></td>
 </tr>
@@ -308,7 +308,7 @@ Chart統計數據授獎的年度大型頒獎禮](https://zh.wikipedia.org/wiki/G
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/JJ_Project.md" title="wikilink">JJ Project</a> -《<a href="https://zh.wikipedia.org/wiki/Verse_2" title="wikilink">Verse 2</a>》</p></td>
+<td><p><a href="../Page/JJ_Project.md" title="wikilink">JJ Project</a> -《<a href="../Page/Verse_2.md" title="wikilink">Verse 2</a>》</p></td>
 <td><p>唱片部門－本賞</p></td>
 <td></td>
 <td></td>
@@ -324,7 +324,7 @@ Chart統計數據授獎的年度大型頒獎禮](https://zh.wikipedia.org/wiki/G
 <tr class="odd">
 <td><p>第33屆</p></td>
 <td><p>2018年</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Eyes_On_You" title="wikilink">Eyes On You</a>》</p></td>
+<td><p>《<a href="../Page/Eyes_On_You.md" title="wikilink">Eyes On You</a>》</p></td>
 <td><p>唱片部門－本賞</p></td>
 <td></td>
 </tr>
@@ -432,7 +432,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 <tr class="odd">
 <td><p>第27屆</p></td>
 <td><p>2017年</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/7_for_7_(GOT7迷你專輯)" title="wikilink">7 for 7</a>》</p></td>
+<td><p>《<a href="../Page/7_for_7_(GOT7迷你專輯).md" title="wikilink">7 for 7</a>》</p></td>
 <td><p>本賞</p></td>
 <td></td>
 </tr>
@@ -453,7 +453,7 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 <tr class="even">
 <td><p>第28屆[7]</p></td>
 <td><p>2018年</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Eyes_On_You" title="wikilink">Eyes On You</a>》</p></td>
+<td><p>《<a href="../Page/Eyes_On_You.md" title="wikilink">Eyes On You</a>》</p></td>
 <td><p>本賞</p></td>
 <td></td>
 </tr>
@@ -653,13 +653,13 @@ Artist）](https://zh.wikipedia.org/wiki/告示牌音樂獎最佳社群媒體藝
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/7_for_7_(GOT7迷你專輯)" title="wikilink">7 for 7</a></p></td>
+<td><p><a href="../Page/7_for_7_(GOT7迷你專輯).md" title="wikilink">7 for 7</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Eyes_On_You" title="wikilink">Eyes On You</a></p></td>
+<td><p><a href="../Page/Eyes_On_You.md" title="wikilink">Eyes On You</a></p></td>
 </tr>
 <tr class="even">
 <td><p>One And Only You<br />

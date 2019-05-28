@@ -4,7 +4,7 @@
 / 128GB儲存空間。中國大陸於9月12日開賣。\[1\]
 
 小米Note
-3獲得了相機評測機構[DxOMark綜合得分](https://zh.wikipedia.org/wiki/DxOMark "wikilink")90分的評價，與[HTC
+3獲得了相機評測機構[DxOMark綜合得分](../Page/DxOMark.md "wikilink")90分的評價，與[HTC
 U11和](../Page/HTC_U11.md "wikilink")[Google
 Pixel並列](../Page/Google_Pixel.md "wikilink")。DxOMark給出了「中階的價格，高階的性能」的評論。在相機拍照部分，獲得94分，超越了[iPhone
 8的](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")93分；在攝影部分，則僅獲得82分。\[2\]\[3\]\[4\]\[5\]\[6\]

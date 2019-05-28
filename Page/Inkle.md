@@ -1,4 +1,4 @@
-**Inkle**是一家主要制作[文字冒险游戏的游戏公司](https://zh.wikipedia.org/wiki/文字冒险游戏 "wikilink")，于2011年11月在英国伦敦成立。他们制作的游戏有*[80days](https://zh.wikipedia.org/wiki/80days "wikilink")*、*。*由于他们开发的游戏均要求玩家具有一定的英文水平，所以在国内不是非常流行。但是也有许多玩家体验了他们的游戏。
+**Inkle**是一家主要制作[文字冒险游戏的游戏公司](https://zh.wikipedia.org/wiki/文字冒险游戏 "wikilink")，于2011年11月在英国伦敦成立。他们制作的游戏有*[80days](../Page/80days.md "wikilink")*、*。*由于他们开发的游戏均要求玩家具有一定的英文水平，所以在国内不是非常流行。但是也有许多玩家体验了他们的游戏。
 
 ## 作品
 

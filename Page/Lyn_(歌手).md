@@ -248,7 +248,7 @@ First Confession》出道，2002年起改使用藝名LYn。\[1\]
     Story〉
   - 2017年：SBS《[師任堂，光的日記](../Page/師任堂，光的日記.md "wikilink")》原聲帶〈任何時間，任何地方（언제든,
     어디라도）〉
-  - 2018年：KBS《[你也是人類嗎](https://zh.wikipedia.org/wiki/你也是人類嗎 "wikilink")》原聲帶〈LOVE〉（與[鄭韓海](https://zh.wikipedia.org/wiki/鄭韓海 "wikilink")）
+  - 2018年：KBS《[你也是人類嗎](../Page/你也是人類嗎.md "wikilink")》原聲帶〈LOVE〉（與[鄭韓海](https://zh.wikipedia.org/wiki/鄭韓海 "wikilink")）
 
 ## 獲獎
 

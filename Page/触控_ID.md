@@ -2,8 +2,7 @@
 -{zh-hans:**触控 ID**（）;zh-hant:**Touch
 ID** }-是[苹果公司设计发布的一款](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[指纹识别功能](../Page/指纹识别.md "wikilink")，使用在[iPhone
 5S](../Page/IPhone_5s.md "wikilink")、iPhone SE、iPhone 6、[iPhone 6
-Plus](https://zh.wikipedia.org/wiki/IPhone_6 "wikilink")、iPhone
-6s、[iPhone 6s
+Plus](../Page/IPhone_6.md "wikilink")、iPhone 6s、[iPhone 6s
 Plus](https://zh.wikipedia.org/wiki/IPhone_6S "wikilink")、iPhone
 7、[iPhone 7
 Plus](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")、iPhone

@@ -34,7 +34,7 @@ Sports拥有多个针对不同地区的版本，使用多个频道及多种语�
 Sports还在[泰国](../Page/泰国.md "wikilink")、[马来西亚](../Page/马来西亚.md "wikilink")、[印度尼西亚](../Page/印度尼西亚.md "wikilink")、[香港等地通过当地电视业者播出](../Page/香港.md "wikilink")\[13\]。
 
 另外，beIN Sports还开通了被称为“beIN
-CONNECT”的[OTT平台](https://zh.wikipedia.org/wiki/OTT "wikilink")，观众可通过[PC](../Page/个人电脑.md "wikilink")、[Xbox及](https://zh.wikipedia.org/wiki/Xbox "wikilink")[PlayStation等设备观看beIN](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+CONNECT”的[OTT平台](https://zh.wikipedia.org/wiki/OTT "wikilink")，观众可通过[PC](../Page/个人电脑.md "wikilink")、[Xbox及](../Page/Xbox.md "wikilink")[PlayStation等设备观看beIN](../Page/PlayStation.md "wikilink")
 Sports的节目，该服务目前面向中东、北非、法国、西班牙及北美的观众提供服务\[14\]。
 
 ## 参考资料

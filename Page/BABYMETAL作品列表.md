@@ -21,7 +21,7 @@
 <tr class="odd">
 <td><p>－</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/心跳☆早晨" title="wikilink">心跳☆早晨</a></strong><br />
+<td><p><strong><a href="../Page/心跳☆早晨.md" title="wikilink">心跳☆早晨</a></strong><br />
 <small>（）</small></p></td>
 <td><p>－</p></td>
 <td><p>重音部版：DVD+毛巾<br />
@@ -33,7 +33,7 @@ JOBR-0001B</p></td>
 <tr class="even">
 <td><p>1</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/BABYMETAL_×_Kiba_of_Akiba" title="wikilink">BABYMETAL × Kiba of Akiba</a></strong><br />
+<td><p><strong><a href="../Page/BABYMETAL_×_Kiba_of_Akiba.md" title="wikilink">BABYMETAL × Kiba of Akiba</a></strong><br />
 <small>（）</small>[2]</p></td>
 <td><p>46</p></td>
 <td><p>CD</p></td>
@@ -53,7 +53,7 @@ JOBR-0001B</p></td>
 <tr class="even">
 <td><p>1</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/欺凌、絕對、不行" title="wikilink">欺凌、絕對、不行</a></strong><br />
+<td><p><strong><a href="../Page/欺凌、絕對、不行.md" title="wikilink">欺凌、絕對、不行</a></strong><br />
 <small>（）</small></p></td>
 <td><p>6</p></td>
 <td><p>普通版：CD<br />
@@ -69,7 +69,7 @@ TFCC-89406</p></td>
 <tr class="odd">
 <td><p>2</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/女狐" title="wikilink">女狐</a></strong><br />
+<td><p><strong><a href="../Page/女狐.md" title="wikilink">女狐</a></strong><br />
 <small>（）</small></p></td>
 <td><p>7</p></td>
 <td><p>普通版：CD<br />
@@ -85,7 +85,7 @@ TFCC-89447</p></td>
 <tr class="even">
 <td><p>3</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Road_of_Resistance" title="wikilink">Road of Resistance</a></strong><br />
+<td><p><strong><a href="../Page/Road_of_Resistance.md" title="wikilink">Road of Resistance</a></strong><br />
 <small>（）</small></p></td>
 <td><p>－</p></td>
 <td><p>數位音樂下載</p></td>
@@ -105,7 +105,7 @@ TFCC-89447</p></td>
 <tr class="even">
 <td><p>5</p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/空手道_(歌曲)" title="wikilink">空手道</a></strong><br />
+<td><p><strong><a href="../Page/空手道_(歌曲).md" title="wikilink">空手道</a></strong><br />
 <small>（）</small></p></td>
 <td><p>－</p></td>
 <td><p>數位音樂下載</p></td>
@@ -137,7 +137,7 @@ TFCC-89447</p></td>
 <td><p>1</p></td>
 <td><p>日版</p></td>
 <td><p>2014年2月26日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/BABYMETAL_(專輯)" title="wikilink">BABYMETAL</a></strong></p></td>
+<td><p><strong><a href="../Page/BABYMETAL_(專輯).md" title="wikilink">BABYMETAL</a></strong></p></td>
 <td><p>：4<br />
 ：187</p></td>
 <td><p>CD<br />
@@ -216,7 +216,7 @@ EMU-0210400</p></td>
 <td><p>2</p></td>
 <td><p>日版</p></td>
 <td><p>2016年4月1日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/METAL_RESISTANCE" title="wikilink">METAL RESISTANCE</a></strong></p></td>
+<td><p><strong><a href="../Page/METAL_RESISTANCE.md" title="wikilink">METAL RESISTANCE</a></strong></p></td>
 <td><p>：2</p></td>
 <td><p>CD<br />
 CD+DVD<br />
@@ -302,7 +302,7 @@ WEB會員限定版</p></td>
 <td><p>1</p></td>
 <td><p>日版</p></td>
 <td><p>2015年1月7日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/LIVE_AT_BUDOKAN_〜RED_NIGHT〜" title="wikilink">LIVE AT BUDOKAN 〜RED NIGHT〜</a></strong></p></td>
+<td><p><strong><a href="../Page/LIVE_AT_BUDOKAN_〜RED_NIGHT〜.md" title="wikilink">LIVE AT BUDOKAN 〜RED NIGHT〜</a></strong></p></td>
 <td><p>3</p></td>
 <td><p>CD<br />
 CD+MUSIC CARD</p></td>
@@ -325,7 +325,7 @@ TFCC-86502</p></td>
 <td><p>-</p></td>
 <td><p>—</p></td>
 <td><p>2015年1月7日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/LIVE_AT_BUDOKAN_〜BLACK_NIGHT〜" title="wikilink">LIVE AT BUDOKAN 〜BLACK NIGHT〜</a></strong></p></td>
+<td><p><strong><a href="../Page/LIVE_AT_BUDOKAN_〜BLACK_NIGHT〜.md" title="wikilink">LIVE AT BUDOKAN 〜BLACK NIGHT〜</a></strong></p></td>
 <td><p>—</p></td>
 <td><p>CD</p></td>
 <td><p>—</p></td>
@@ -403,7 +403,7 @@ TFCC-86502</p></td>
 <td><p>1</p></td>
 <td><p>—</p></td>
 <td><p>2013年10月19日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/LIVE_〜LEGEND_I、D、Z_APOCALYPSE〜" title="wikilink">LIVE 〜LEGEND I、D、Z APOCALYPSE〜</a></strong></p></td>
+<td><p><strong><a href="../Page/LIVE_〜LEGEND_I、D、Z_APOCALYPSE〜.md" title="wikilink">LIVE 〜LEGEND I、D、Z APOCALYPSE〜</a></strong></p></td>
 <td><p>—</p></td>
 <td><p>DVD+披風</p></td>
 <td><p>PPTF-1012</p></td>
@@ -423,7 +423,7 @@ TFCC-86502</p></td>
 <td><p>2</p></td>
 <td><p>—</p></td>
 <td><p>2014年10月29日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/LIVE〜LEGEND_1999&amp;1997_APOCALYPSE" title="wikilink">LIVE〜LEGEND 1999&amp;1997 APOCALYPSE</a></strong></p></td>
+<td><p><strong><a href="../Page/LIVE〜LEGEND_1999&amp;1997_APOCALYPSE.md" title="wikilink">LIVE〜LEGEND 1999&amp;1997 APOCALYPSE</a></strong></p></td>
 <td><p>8</p></td>
 <td><p>DVD<br />
 DVD+T恤</p></td>
@@ -448,7 +448,7 @@ WEB會員限定版</p></td>
 <td><p>3</p></td>
 <td><p>日版</p></td>
 <td><p>2015年1月7日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/LIVE_AT_BUDOKAN_〜RED_NIGHT_&amp;_BLACK_NIGHT_APOCALYPSE〜" title="wikilink">LIVE AT BUDOKAN 〜RED NIGHT &amp; BLACK NIGHT APOCALYPSE〜</a></strong></p></td>
+<td><p><strong><a href="../Page/LIVE_AT_BUDOKAN_〜RED_NIGHT_&amp;_BLACK_NIGHT_APOCALYPSE〜.md" title="wikilink">LIVE AT BUDOKAN 〜RED NIGHT &amp; BLACK NIGHT APOCALYPSE〜</a></strong></p></td>
 <td><p>3</p></td>
 <td><p>DVD<br />
 DVD+CD+護頸+鑰匙圈</p></td>
@@ -485,7 +485,7 @@ EMU-0210722</p></td>
 <td><p>4</p></td>
 <td><p>日版</p></td>
 <td><p>2015年5月20日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/LIVE_IN_LONDON_-BABYMETAL_WORLD_TOUR_2014-" title="wikilink">LIVE IN LONDON -BABYMETAL WORLD TOUR 2014-</a></strong></p></td>
+<td><p><strong><a href="../Page/LIVE_IN_LONDON_-BABYMETAL_WORLD_TOUR_2014-.md" title="wikilink">LIVE IN LONDON -BABYMETAL WORLD TOUR 2014-</a></strong></p></td>
 <td><p>3</p></td>
 <td><p>DVD</p></td>
 <td><p>TFBQ-18167</p></td>
@@ -610,7 +610,7 @@ EMU-0210725</p></td>
 <small>*<br />
 *</small></p></td>
 <td><p>Kiba of Akiba</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BABYMETAL_×_Kiba_of_Akiba" title="wikilink">BABYMETAL × Kiba of Akiba</a><small>(<em>單曲</em>)</small>[3]</p></td>
+<td><p><a href="../Page/BABYMETAL_×_Kiba_of_Akiba.md" title="wikilink">BABYMETAL × Kiba of Akiba</a><small>(<em>單曲</em>)</small>[3]</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
@@ -1471,7 +1471,7 @@ BABYMETAL×<a href="https://zh.wikipedia.org/wiki/閃靈樂團" title="wikilink"
 </tr>
 <tr class="odd">
 <td><p>2014年7月30日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/女神卡卡" title="wikilink">女神卡卡</a>「<a href="https://zh.wikipedia.org/wiki/流行藝術巡迴演唱會" title="wikilink">ArtRave: The Artpop Ball</a>」</strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/女神卡卡" title="wikilink">女神卡卡</a>「<a href="../Page/流行藝術巡迴演唱會.md" title="wikilink">ArtRave: The Artpop Ball</a>」</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/托金斯迪克度假酒店球館" title="wikilink">托金斯迪克度假酒店球館</a><br />
 （ 美國・<a href="https://zh.wikipedia.org/wiki/鳳凰城" title="wikilink">鳳凰城</a>）</p></td>
 <td><p>※巡演固定開場嘉賓<br />
@@ -2350,7 +2350,7 @@ kicks off at THE SSE ARENA WEMBLEY</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年7月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/威尔顿剧院" title="wikilink">The Wiltern</a><br />
+<td><p><a href="../Page/威尔顿剧院.md" title="wikilink">The Wiltern</a><br />
 （ 美國・洛杉磯）</p></td>
 <td></td>
 <td></td>
@@ -2539,7 +2539,7 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>2016年12月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/水电竞技场" title="wikilink">SSE Hydro體育館</a><br />
+<td><p><a href="../Page/水电竞技场.md" title="wikilink">SSE Hydro體育館</a><br />
 （ 英國・<a href="https://zh.wikipedia.org/wiki/格拉斯哥" title="wikilink">格拉斯哥</a>）</p></td>
 <td></td>
 <td></td>
@@ -2560,7 +2560,7 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年12月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曼彻斯特竞技场" title="wikilink">曼徹斯特體育場</a><br />
+<td><p><a href="../Page/曼彻斯特竞技场.md" title="wikilink">曼徹斯特體育場</a><br />
 （ 英國・<a href="https://zh.wikipedia.org/wiki/曼徹斯特" title="wikilink">曼徹斯特</a>）</p></td>
 <td></td>
 <td></td>
@@ -2582,8 +2582,8 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 <tr class="even">
 <td><p>2017年1月11日</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/金屬製品" title="wikilink">金屬製品</a>「」</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高尺天空巨蛋" title="wikilink">高尺天空巨蛋</a><br />
-（・<a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a>）</p></td>
+<td><p><a href="../Page/高尺天空巨蛋.md" title="wikilink">高尺天空巨蛋</a><br />
+（・<a href="../Page/首爾.md" title="wikilink">首爾</a>）</p></td>
 <td><p>※巡演特別嘉賓<br />
 </p></td>
 </tr>
@@ -2711,7 +2711,7 @@ LEGEND - METAL RESISTANCE - RED NIGHT &amp; BLACK NIGHT</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>2017年6月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/論壇體育館" title="wikilink">論壇體育館</a><br />
+<td><p><a href="../Page/論壇體育館.md" title="wikilink">論壇體育館</a><br />
 （ 美國・<a href="../Page/英格爾伍德_(加利福尼亞州).md" title="wikilink">英格爾伍德</a>）</p></td>
 <td></td>
 <td></td>

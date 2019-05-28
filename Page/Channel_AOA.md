@@ -1,5 +1,5 @@
 《**Channel
-AOA**》（韓語：채널AOA）是韓國[OnStyle的綜藝節目](https://zh.wikipedia.org/wiki/OnStyle "wikilink")\[1\]，由[AOA的](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")[草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")、[智珉](../Page/智珉.md "wikilink")、[酉奈](../Page/酉奈.md "wikilink")、[惠晶](../Page/惠晶.md "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[雪炫](../Page/雪炫.md "wikilink")、[澯美等人出演](../Page/澯美.md "wikilink")。節目為[AOA七名成員參與的偶像團綜](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")\[2\]\[3\]，成員們將展示各自不同的個性和魅力，同時也將會展現成員們真實的日常生活。
+AOA**》（韓語：채널AOA）是韓國[OnStyle的綜藝節目](../Page/OnStyle.md "wikilink")\[1\]，由[AOA的](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")[草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")、[智珉](../Page/智珉.md "wikilink")、[酉奈](../Page/酉奈.md "wikilink")、[惠晶](../Page/惠晶.md "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[雪炫](../Page/雪炫.md "wikilink")、[澯美等人出演](../Page/澯美.md "wikilink")。節目為[AOA七名成員參與的偶像團綜](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")\[2\]\[3\]，成員們將展示各自不同的個性和魅力，同時也將會展現成員們真實的日常生活。
 
 ## 爭議事件
 

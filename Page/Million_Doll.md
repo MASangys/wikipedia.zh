@@ -1,5 +1,5 @@
 **Million
-Doll**（），中文譯名「百萬偶像」，是由漫畫家[藍所做的](../Page/藍_\(漫畫家\).md "wikilink")[網路漫畫](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")。2013年12月至2016年11月連載於免費[APP](https://zh.wikipedia.org/wiki/APP "wikilink")《GANMA！》上。由[旭Production製作的](https://zh.wikipedia.org/wiki/旭Production "wikilink")[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2015年7月至9月首播。
+Doll**（），中文譯名「百萬偶像」，是由漫畫家[藍所做的](../Page/藍_\(漫畫家\).md "wikilink")[網路漫畫](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")。2013年12月至2016年11月連載於免費[APP](https://zh.wikipedia.org/wiki/APP "wikilink")《GANMA！》上。由[旭Production製作的](../Page/旭Production.md "wikilink")[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2015年7月至9月首播。
 
 ## 登場人物
 
@@ -72,7 +72,7 @@ Entertainment發售](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wik
   - 音樂製作人：深井康介、
   - 音樂製作：F.M.F
   - 動畫製作人：下村敬治
-  - 動畫製作：[旭Production](https://zh.wikipedia.org/wiki/旭Production "wikilink")
+  - 動畫製作：[旭Production](../Page/旭Production.md "wikilink")
   - 製作：「Million Doll」製作委員會
 
 ### 主題曲

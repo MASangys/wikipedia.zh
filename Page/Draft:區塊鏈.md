@@ -95,7 +95,7 @@ ICO）](https://zh.wikipedia.org/wiki/首次代币发售 "wikilink")，也称为
   - [加密電子貨幣列表](https://zh.wikipedia.org/wiki/加密電子貨幣列表 "wikilink")
   - [新興技術列表](../Page/新興技術列表.md "wikilink")
   - [比特币](../Page/比特币.md "wikilink")
-  - [Blockchain.info](https://zh.wikipedia.org/wiki/Blockchain.info "wikilink")
+  - [Blockchain.info](../Page/Blockchain.info.md "wikilink")
 
 ## 参考文献
 

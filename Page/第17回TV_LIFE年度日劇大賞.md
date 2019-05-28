@@ -1,6 +1,5 @@
-[第16回](https://zh.wikipedia.org/wiki/第16回TV_LIFE年度日劇大賞 "wikilink") ←
-**第17回** →
-[第18回](https://zh.wikipedia.org/wiki/第18回TV_LIFE年度日劇大賞 "wikilink")
+[第16回](../Page/第16回TV_LIFE年度日劇大賞.md "wikilink") ← **第17回** →
+[第18回](../Page/第18回TV_LIFE年度日劇大賞.md "wikilink")
 
 **第17回[TV
 LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2007年播出的連續劇做出的觀眾投票。
@@ -274,7 +273,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </tr>
 <tr class="odd">
 <td><p>第三位</p></td>
-<td><p>　<a href="https://zh.wikipedia.org/wiki/中園美保" title="wikilink">中園美保</a></p></td>
+<td><p>　<a href="../Page/中園美保.md" title="wikilink">中園美保</a></p></td>
 <td><p>　《<a href="../Page/派遣女王.md" title="wikilink">派遣女王</a>》</p></td>
 </tr>
 <tr class="even">
@@ -284,7 +283,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </tr>
 <tr class="odd">
 <td><p>第五位</p></td>
-<td><p>　<a href="https://zh.wikipedia.org/wiki/橋本裕志" title="wikilink">橋本裕志</a></p></td>
+<td><p>　<a href="../Page/橋本裕志.md" title="wikilink">橋本裕志</a></p></td>
 <td><p>　《<a href="https://zh.wikipedia.org/wiki/華麗一族#2007年電視劇" title="wikilink">華麗一族</a>》</p></td>
 </tr>
 </tbody>

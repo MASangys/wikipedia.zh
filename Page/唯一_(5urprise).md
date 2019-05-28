@@ -10,7 +10,7 @@
 | 2014年 | 網路劇                                                 | 學校福不福2                                                                    | 唯一     |    |
 | 2015年 |                                                     | Drama HYou Will Love Me                                                   | 韓健雄    |    |
 | 2015年 | 音樂劇                                                 | Ro Gi Soo                                                                 | 北韓俘虜少年 |    |
-| 2018年 | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") | [那個男人 吳秀](https://zh.wikipedia.org/wiki/那個男人_吳秀 "wikilink")               | 朴敏浩    |    |
+| 2018年 | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") | [那個男人 吳秀](../Page/那個男人_吳秀.md "wikilink")                                  | 朴敏浩    |    |
 
 ## 外部連結
 

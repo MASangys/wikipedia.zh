@@ -3,7 +3,7 @@ infernal**》是日本[視覺系](../Page/視覺系.md "wikilink")[哥德金屬�
 
 的第一張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，於2003年3月19日發行\[1\]\[2\]，歐洲盤於2004年由
 MABELL FRANCE
-在[法國發行](https://zh.wikipedia.org/wiki/法國 "wikilink")\[3\]\[4\]。專輯標題和全部曲名均使用[法文](https://zh.wikipedia.org/wiki/法文 "wikilink")。來自此作的《tentation》和《Pessimiste》二曲經過重新編曲錄製後再次收錄於樂團的第四張專輯《[DIXANADU](https://zh.wikipedia.org/wiki/DIXANADU "wikilink")》中，《Ange》重錄後復又收於第五張專輯《[D+SECT](https://zh.wikipedia.org/wiki/D+SECT "wikilink")》中。
+在[法國發行](https://zh.wikipedia.org/wiki/法國 "wikilink")\[3\]\[4\]。專輯標題和全部曲名均使用[法文](https://zh.wikipedia.org/wiki/法文 "wikilink")。來自此作的《tentation》和《Pessimiste》二曲經過重新編曲錄製後再次收錄於樂團的第四張專輯《[DIXANADU](../Page/DIXANADU.md "wikilink")》中，《Ange》重錄後復又收於第五張專輯《[D+SECT](../Page/D+SECT.md "wikilink")》中。
 
 ## 概述
 

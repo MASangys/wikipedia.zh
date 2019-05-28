@@ -102,7 +102,7 @@
     聲：[前田玲奈](../Page/前田玲奈.md "wikilink")
     身高：152cm，體重：無增減，三圍：B78/W53/H84，生日：2月18日
   -
-    聲：[上田瞳](https://zh.wikipedia.org/wiki/上田瞳 "wikilink")
+    聲：[上田瞳](../Page/上田瞳.md "wikilink")
     身高：170cm，體重：無法測量，三圍：B88/W55/H88，生日：3月6日
   -
     聲：[田所梓](../Page/田所梓.md "wikilink")
@@ -117,7 +117,7 @@
     聲：[德井青空](../Page/德井青空.md "wikilink")
     身高：156cm，體重：（自稱）總是很完美，三圍：B76/W55/H80，生日：3月13日
   -
-    聲：[相坂優歌](https://zh.wikipedia.org/wiki/相坂優歌 "wikilink")
+    聲：[相坂優歌](../Page/相坂優歌.md "wikilink")
     身高：160cm，體重：在馬場上沒有問題，三圍：B91/W58/H85，生日：5月3日
   -
     聲：[巽悠衣子](../Page/巽悠衣子.md "wikilink")
@@ -129,7 +129,7 @@
     聲：[Lynn](https://zh.wikipedia.org/wiki/Lynn "wikilink")
     身高：164cm，體重：理想的目標，三圍：B93/W58/H88，生日：5月19日
   -
-    聲：[大西沙織](https://zh.wikipedia.org/wiki/大西沙織 "wikilink")
+    聲：[大西沙織](../Page/大西沙織.md "wikilink")
     身高：159cm，體重：微增（現在拼命調整中！），三圍：B71/W54/H76，生日：4月3日
   -
     聲：[鬼頭明里](../Page/鬼頭明里.md "wikilink")
@@ -171,7 +171,7 @@
     聲：[大和田仁美](../Page/大和田仁美.md "wikilink")
     身高：156cm，體重：微減（生活有點困難），三圍：B78/W55/H80，生日：4月4日
   -
-    聲：[渡部惠子](https://zh.wikipedia.org/wiki/渡部惠子 "wikilink")
+    聲：[渡部惠子](../Page/渡部惠子.md "wikilink")
     身高：145cm，體重：拒絕測量，三圍：B71/W50/H73，生日：6月10日
   -
     聲：[津田美波](../Page/津田美波.md "wikilink")
@@ -195,19 +195,19 @@
     聲：[松嵜麗](../Page/松嵜麗.md "wikilink")
     身高：178cm，體重：超大幅增，三圍：B94/W64/H88，生日：4月25日
   -
-    聲：[藍原琴美](https://zh.wikipedia.org/wiki/藍原琴美 "wikilink")
+    聲：[藍原琴美](../Page/藍原琴美.md "wikilink")
     身高：157cm，體重：無增減，三圍：B75/W58/H81，生日：5月14日
   -
     聲：[三宅麻理惠](../Page/三宅麻理惠.md "wikilink")
     身高：145cm，體重：太妙了！，三圍：B87/W52/H77，生日：5月31日
   -
-    聲：[長谷川育美](https://zh.wikipedia.org/wiki/長谷川育美 "wikilink")
+    聲：[長谷川育美](../Page/長谷川育美.md "wikilink")
     身高：154cm，體重：無增減，三圍：B86/W54/H87，生日：4月25日
   -
     聲：
     身高：139cm，體重：拒絕測量，三圍：B72/W49/H73，生日：5月9日
   -
-    聲：[嶺內智美](https://zh.wikipedia.org/wiki/嶺內智美 "wikilink")
+    聲：[嶺內智美](../Page/嶺內智美.md "wikilink")
     身高：167cm，體重：微增（稍微吃太多了嗎？），三圍：B88/W58/H84，生日：4月10日
   -
     聲：[近藤唯](../Page/近藤唯.md "wikilink")
@@ -222,19 +222,19 @@
     聲：[上坂菫](https://zh.wikipedia.org/wiki/上坂菫 "wikilink")
     身高：159cm，體重：拒絕測量，三圍：B83/W55/H81，生日：4月13日
   -
-    聲：[照井春佳](https://zh.wikipedia.org/wiki/照井春佳 "wikilink")
+    聲：[照井春佳](../Page/照井春佳.md "wikilink")
     身高：156cm，體重：無增減，三圍：B89/W56/H78，生日：3月27日
   -
     聲：[和多田美咲](../Page/和多田美咲.md "wikilink")
     身高：164cm，體重：有點增加，三圍：B99/W61/H89，生日：3月25日
   -
-    聲：[石見舞菜香](https://zh.wikipedia.org/wiki/石見舞菜香 "wikilink")
+    聲：[石見舞菜香](../Page/石見舞菜香.md "wikilink")
     身高：145cm，體重：無增減，三圍：B75/W51/H76，生日：3月5日
   -
-    聲：[咲咲木瞳](https://zh.wikipedia.org/wiki/咲咲木瞳 "wikilink")
+    聲：[咲咲木瞳](../Page/咲咲木瞳.md "wikilink")
     身高：157cm，體重：無增減，三圍：B85/W57/H82，生日：3月12日
   -
-    聲：[篠原侑](https://zh.wikipedia.org/wiki/篠原侑 "wikilink")
+    聲：[篠原侑](../Page/篠原侑.md "wikilink")
     身高：155cm，體重：這～是～秘～密，三圍：B83/W55/H79，生日：3月31日
   -
     聲：[鈴木實里](../Page/鈴木實里.md "wikilink")
@@ -249,13 +249,13 @@
     聲：[今村彩夏](../Page/今村彩夏.md "wikilink")
     身高：143cm，體重：無增減，三圍：B76/W51/H73，生日：3月24日
   -
-    聲：[久保田光](https://zh.wikipedia.org/wiki/久保田光 "wikilink")
+    聲：[久保田光](../Page/久保田光.md "wikilink")
     身高：157cm，體重：無增減，三圍：B83/W57/H81，生日：5月6日
   -
-    聲：[前田佳織里](https://zh.wikipedia.org/wiki/前田佳織里 "wikilink")
+    聲：[前田佳織里](../Page/前田佳織里.md "wikilink")
     身高：157cm，體重：無增減，三圍：B79/W56/H80， 生日：4月16日
   -
-    聲：[佐伯伊織](https://zh.wikipedia.org/wiki/佐伯伊織 "wikilink")
+    聲：[佐伯伊織](../Page/佐伯伊織.md "wikilink")
     身高：159cm，體重：完美，三圍：B85/W60/H85， 生日：4月28日
 
 ## 漫畫
@@ -340,7 +340,7 @@
   - [劇本統籌](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")：石原章弘、\[15\]
   - [人物設定](../Page/人物設計.md "wikilink")、總作畫監督：椛島洋介\[16\]
   - 美術監督：伊藤弘\[17\]
-  - 美術：[草薙](https://zh.wikipedia.org/wiki/草薙_\(動畫工作室\) "wikilink")\[18\]
+  - 美術：[草薙](../Page/草薙_\(動畫工作室\).md "wikilink")\[18\]
   - 攝影監督：並木智\[19\]
   - 色彩設計：中野尚美\[20\]
   - 3D監督：市川元成\[21\]
@@ -357,7 +357,7 @@
   - 片頭曲「Make Debut！」\[29\]
     作詞、作曲：新田目駿，編曲：新田目駿、廣澤悠也
 
-    主唱：特別週（[和氣杏未](../Page/和氣杏未.md "wikilink")）、無聲鈴鹿（[高野麻里佳](../Page/高野麻里佳.md "wikilink")）、東海帝皇（[Machico](../Page/Machico.md "wikilink")）、伏特加（[大橋彩香](../Page/大橋彩香.md "wikilink")）、大和赤驥（[木村千咲](../Page/木村千咲.md "wikilink")）、黃金船（[上田瞳](https://zh.wikipedia.org/wiki/上田瞳 "wikilink")）、目白麥昆（[大西沙織](https://zh.wikipedia.org/wiki/大西沙織 "wikilink")）
+    主唱：特別週（[和氣杏未](../Page/和氣杏未.md "wikilink")）、無聲鈴鹿（[高野麻里佳](../Page/高野麻里佳.md "wikilink")）、東海帝皇（[Machico](../Page/Machico.md "wikilink")）、伏特加（[大橋彩香](../Page/大橋彩香.md "wikilink")）、大和赤驥（[木村千咲](../Page/木村千咲.md "wikilink")）、黃金船（[上田瞳](../Page/上田瞳.md "wikilink")）、目白麥昆（[大西沙織](../Page/大西沙織.md "wikilink")）
 
   - 片尾曲
 
@@ -389,7 +389,7 @@
 
       -
         作詞、作曲、編曲：Cygames（本田晃弘）
-        主唱：特別週（和氣杏未）、無聲鈴鹿（高野麻里佳）、東海帝皇（Machico）、伏特加（大橋彩香）、大和赤驥（木村千咲）、黃金船（上田瞳）、目白麥昆（大西沙織）、神鷹（[高橋未奈美](../Page/高橋未奈美.md "wikilink")）、草上飛（[前田玲奈](../Page/前田玲奈.md "wikilink")）、星雲天空（[鬼頭明里](../Page/鬼頭明里.md "wikilink")）、帝皇光輝（[佐伯伊織](https://zh.wikipedia.org/wiki/佐伯伊織 "wikilink")）、春麗（[首藤志奈](https://zh.wikipedia.org/wiki/首藤志奈 "wikilink")）、魯鐸象徵（[田所梓](../Page/田所梓.md "wikilink")）、大樹快車（[大坪由佳](../Page/大坪由佳.md "wikilink")）、氣槽（[青木瑠璃子](../Page/青木瑠璃子.md "wikilink")）、亞馬遜（[巽悠衣子](../Page/巽悠衣子.md "wikilink")）、富士奇蹟（[松井惠理子](../Page/松井惠理子.md "wikilink")）、丸善斯基（[Lynn](https://zh.wikipedia.org/wiki/Lynn_\(日本女配音員\) "wikilink")）、好歌劇（[德井青空](../Page/德井青空.md "wikilink")）、琵琶晨光（[近藤唯](../Page/近藤唯.md "wikilink")）、成田白仁（[相坂優歌](https://zh.wikipedia.org/wiki/相坂優歌 "wikilink")）、小栗帽（[高柳知葉](../Page/高柳知葉.md "wikilink")）、超級小海灣（[優木加奈](../Page/優木加奈.md "wikilink")）、玉藻十字（[大空直美](../Page/大空直美.md "wikilink")）、稻荷一（[井上遙乃](https://zh.wikipedia.org/wiki/井上遙乃 "wikilink")）、勝利獎劵（[渡部優衣](../Page/渡部優衣.md "wikilink")）、目白賴恩（[土師亞文](https://zh.wikipedia.org/wiki/土師亞文 "wikilink")）、目白多伯（[久保田光](https://zh.wikipedia.org/wiki/久保田光 "wikilink")）、優秀素質（[前田佳織里](https://zh.wikipedia.org/wiki/前田佳織里 "wikilink")）、榮進閃耀（[藤野彩水](https://zh.wikipedia.org/wiki/藤野彩水 "wikilink")）、待兼福來（[新田日和](../Page/新田日和.md "wikilink")）、名將戶仁（[和多田美咲](../Page/和多田美咲.md "wikilink")）
+        主唱：特別週（和氣杏未）、無聲鈴鹿（高野麻里佳）、東海帝皇（Machico）、伏特加（大橋彩香）、大和赤驥（木村千咲）、黃金船（上田瞳）、目白麥昆（大西沙織）、神鷹（[高橋未奈美](../Page/高橋未奈美.md "wikilink")）、草上飛（[前田玲奈](../Page/前田玲奈.md "wikilink")）、星雲天空（[鬼頭明里](../Page/鬼頭明里.md "wikilink")）、帝皇光輝（[佐伯伊織](../Page/佐伯伊織.md "wikilink")）、春麗（[首藤志奈](https://zh.wikipedia.org/wiki/首藤志奈 "wikilink")）、魯鐸象徵（[田所梓](../Page/田所梓.md "wikilink")）、大樹快車（[大坪由佳](../Page/大坪由佳.md "wikilink")）、氣槽（[青木瑠璃子](../Page/青木瑠璃子.md "wikilink")）、亞馬遜（[巽悠衣子](../Page/巽悠衣子.md "wikilink")）、富士奇蹟（[松井惠理子](../Page/松井惠理子.md "wikilink")）、丸善斯基（[Lynn](https://zh.wikipedia.org/wiki/Lynn_\(日本女配音員\) "wikilink")）、好歌劇（[德井青空](../Page/德井青空.md "wikilink")）、琵琶晨光（[近藤唯](../Page/近藤唯.md "wikilink")）、成田白仁（[相坂優歌](../Page/相坂優歌.md "wikilink")）、小栗帽（[高柳知葉](../Page/高柳知葉.md "wikilink")）、超級小海灣（[優木加奈](../Page/優木加奈.md "wikilink")）、玉藻十字（[大空直美](../Page/大空直美.md "wikilink")）、稻荷一（[井上遙乃](https://zh.wikipedia.org/wiki/井上遙乃 "wikilink")）、勝利獎劵（[渡部優衣](../Page/渡部優衣.md "wikilink")）、目白賴恩（[土師亞文](https://zh.wikipedia.org/wiki/土師亞文 "wikilink")）、目白多伯（[久保田光](../Page/久保田光.md "wikilink")）、優秀素質（[前田佳織里](../Page/前田佳織里.md "wikilink")）、榮進閃耀（[藤野彩水](https://zh.wikipedia.org/wiki/藤野彩水 "wikilink")）、待兼福來（[新田日和](../Page/新田日和.md "wikilink")）、名將戶仁（[和多田美咲](../Page/和多田美咲.md "wikilink")）
 
   - 插入曲
 

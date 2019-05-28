@@ -12,7 +12,7 @@ AB**（大陸地區稱**雅士高**，臺灣地區稱**瑞典賽寧家電**）�
 
 蒸烤爐特色-純蒸汽冷凝回水系統。
 
-Asko與[博世](../Page/罗伯特·博世公司.md "wikilink")、[Miele](https://zh.wikipedia.org/wiki/Miele "wikilink")、[Leiberr](https://zh.wikipedia.org/wiki/Leiberr "wikilink")、[Viking
+Asko與[博世](../Page/罗伯特·博世公司.md "wikilink")、[Miele](../Page/Miele.md "wikilink")、[Leiberr](https://zh.wikipedia.org/wiki/Leiberr "wikilink")、[Viking
 Range和](https://zh.wikipedia.org/wiki/Viking_Range "wikilink")[Gorenje同屬高端品牌並有競爭關係](https://zh.wikipedia.org/wiki/Gorenje "wikilink")。\[1\]
 
 ## 歷史

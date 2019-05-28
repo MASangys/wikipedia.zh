@@ -2,7 +2,7 @@
 Embedded](https://zh.wikipedia.org/wiki/Windows_Embedded "wikilink")
 CE的命令处理器壳层\[1\]，以及软件\[2\]。该命令在和中被用于更改当前[驱动器的光盘标题](https://zh.wikipedia.org/wiki/碟盤存儲 "wikilink")。\[3\]
 
-在Windows命令提示符中，它是一个[`cmd.exe`](../Page/命令提示字元.md "wikilink")的[殼層內建指令](https://zh.wikipedia.org/wiki/殼層內建指令 "wikilink")。\[4\]默认的窗口标题定义在[环境变量](../Page/环境变量.md "wikilink")。\[5\]不过，自从[Win32控制台的标题可以在程序的](https://zh.wikipedia.org/wiki/Win32控制台 "wikilink")[快捷方式中定义](https://zh.wikipedia.org/wiki/快捷方式 "wikilink")，该标题通常被设置为“命令提示符”。此命令在[Windows
+在Windows命令提示符中，它是一个[`cmd.exe`](../Page/命令提示字元.md "wikilink")的[殼層內建指令](https://zh.wikipedia.org/wiki/殼層內建指令 "wikilink")。\[4\]默认的窗口标题定义在[环境变量](../Page/环境变量.md "wikilink")。\[5\]不过，自从[Win32控制台的标题可以在程序的](../Page/Win32控制台.md "wikilink")[快捷方式中定义](https://zh.wikipedia.org/wiki/快捷方式 "wikilink")，该标题通常被设置为“命令提示符”。此命令在[Windows
 2000及之后版本中可用](../Page/Windows_2000.md "wikilink")。\[6\]
 
 尽管[OS/2命令壳层与Windows命令提示符密切相关](https://zh.wikipedia.org/wiki/OS/2 "wikilink")，但`title`在`cmd.exe`的OS/2版本中不可用。OS/2壳层窗口的默认标题是“OS/2
@@ -36,7 +36,7 @@ title Command Prompt
 
 ## 参见
 
-  - [Win32控制台](https://zh.wikipedia.org/wiki/Win32控制台 "wikilink")
+  - [Win32控制台](../Page/Win32控制台.md "wikilink")
 
   -
 ## 参考资料

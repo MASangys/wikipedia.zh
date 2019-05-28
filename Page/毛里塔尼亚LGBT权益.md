@@ -1,4 +1,4 @@
-**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**毛里塔尼亚**面临着法律问题。[毛里塔尼亚将男性或女性的同性间性行为视为犯罪](../Page/毛里塔尼亚.md "wikilink")。[与男性发生性关系的穆斯林男子面临](https://zh.wikipedia.org/wiki/男男性接触人群 "wikilink")[石刑](../Page/石刑.md "wikilink")（一种钝击致死的死刑执行方式），而[与女性发生性关系的妇女则面临监禁](https://zh.wikipedia.org/wiki/女女性行为 "wikilink")。\[1\]
+**女同性恋，男同性恋，双性恋和跨性别（[LGBT](../Page/LGBT.md "wikilink")）**人群在**毛里塔尼亚**面临着法律问题。[毛里塔尼亚将男性或女性的同性间性行为视为犯罪](../Page/毛里塔尼亚.md "wikilink")。[与男性发生性关系的穆斯林男子面临](https://zh.wikipedia.org/wiki/男男性接触人群 "wikilink")[石刑](../Page/石刑.md "wikilink")（一种钝击致死的死刑执行方式），而[与女性发生性关系的妇女则面临监禁](../Page/女女性行为.md "wikilink")。\[1\]
 
 ## 有关同性性行为的法律
 

@@ -1,4 +1,4 @@
-**52街車站**（），又稱「52街-林肯大道車站」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線一個慢車](https://zh.wikipedia.org/wiki/IRT法拉盛線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")52街及，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務。
+**52街車站**（），又稱「52街-林肯大道車站」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線一個慢車](../Page/IRT法拉盛線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")52街及，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務。
 
 ## 車站結構
 
@@ -34,7 +34,7 @@
 
 此高架車站設有兩個[側式月台和三條軌道](../Page/側式月台.md "wikilink")。中央軌道由繁忙時段尖峰方向的[\<7\>號線快車使用](../Page/紐約地鐵7號線.md "wikilink")。
 
-此站是[IRT法拉盛線位於羅斯福大道上方高架橋的最西端車站](https://zh.wikipedia.org/wiki/IRT法拉盛線 "wikilink")。此站以西，路線轉向至上方直至32廣場。
+此站是[IRT法拉盛線位於羅斯福大道上方高架橋的最西端車站](../Page/IRT法拉盛線.md "wikilink")。此站以西，路線轉向至上方直至32廣場。
 
 ## 參考資料
 

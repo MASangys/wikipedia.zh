@@ -3,7 +3,7 @@ Erika》**是[台灣歌手](https://zh.wikipedia.org/wiki/台灣 "wikilink")[Eri
 
 2017年6月24日[Erika憑藉個人首張音樂專輯](https://zh.wikipedia.org/wiki/劉艾立 "wikilink")《[I
 Am
-Erika](https://zh.wikipedia.org/wiki/I_Am_Erika "wikilink")》入圍[第28屆金曲獎](https://zh.wikipedia.org/wiki/第28屆金曲獎 "wikilink")「最佳新人獎」。\[5\]
+Erika](../Page/I_Am_Erika.md "wikilink")》入圍[第28屆金曲獎](https://zh.wikipedia.org/wiki/第28屆金曲獎 "wikilink")「最佳新人獎」。\[5\]
 
 ## 曲目
 

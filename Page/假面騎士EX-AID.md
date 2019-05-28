@@ -17,13 +17,13 @@ Continue來改變命運吧！！」。《[假面騎士系列](../Page/假面騎�
 
 假面騎士設定上擁有迷你及等身比例形態變化的特色\[4\]，加上風鏡、眼睛色膜以及模仿頭髮的配件亦偏離過去對假面騎士所認識的印象。根據製作人表示，這是為了達成「這根本不是假面騎士」而又能讓孩子強烈意識「這是假面騎士」的設定構思。此外同年旗下的超級戰隊40週年作《[動物戰隊獸王者](../Page/動物戰隊獸王者.md "wikilink")》在某程度上同樣採用了的電玩元素的設計\[5\]，為免有所衝突而考慮了作出具動畫風格的差異化設定。於2016年9月7日進行的同年10月改編說明會上，[朝日電視台編成部長赤津一彦提及互聯網褒貶假面騎士EX](../Page/朝日電視台.md "wikilink")-AID設計的話題時，則表示有信心其他人會對其「越看越帥」。\[6\]
 
-系列以來首次加入[電玩的元素](https://zh.wikipedia.org/wiki/電玩 "wikilink")，過去大森在前作《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》企劃時已打算提案，但當時主要目標並非計對玩遊戲的兒童層年代而不獲採用。直至本作提案中雖然也有反對的意見，但因為大森接觸兒童層遊戲的機會變多，以及家長的世代亦能體驗到電腦遊戲的關係，至此深信現今熟識遊戲的存在變得廣泛而決定採用。\[7\]
+系列以來首次加入[電玩的元素](https://zh.wikipedia.org/wiki/電玩 "wikilink")，過去大森在前作《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》企劃時已打算提案，但當時主要目標並非計對玩遊戲的兒童層年代而不獲採用。直至本作提案中雖然也有反對的意見，但因為大森接觸兒童層遊戲的機會變多，以及家長的世代亦能體驗到電腦遊戲的關係，至此深信現今熟識遊戲的存在變得廣泛而決定採用。\[7\]
 
 配樂為系列史上首次動用三名作曲家進行創作。
 
 本作主題曲《Excite》於2017年《第68回NHK紅白歌合戦》中由三浦大知演唱\[8\]\[9\]，是繼2005年《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》的片尾曲『少年よ』後\[10\]，相隔12年後再度有假面騎士系列歌曲踏上[NHK紅白歌合戰舞台](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")。
 
-繼前作《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》及《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》後再次使用「假面騎士」的稱呼，亦是平成時代首次連續三套作品均有使用該名號直呼。
+繼前作《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》及《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》後再次使用「假面騎士」的稱呼，亦是平成時代首次連續三套作品均有使用該名號直呼。
 
 本作為系列史上首次顯示必殺技名稱，字體會因應不同卡帶而有所不同。
 
@@ -67,7 +67,7 @@ Poppypipopapo為《[假面騎士系列](../Page/假面騎士系列.md "wikilink"
 本作中的九条貴利矢和古拉法特的演員小野塚勇人和町井祥真倆人本因在劇情前段中戰死而無後續劇情演出\[22\]，但隨後因觀眾的擁簇而再次演出，亦是假面騎士系列首次出現因受歡迎的角色初期死去中期復活的情況。
 
 於2017年上映的《[假面騎士平成Generations FINAL Build & EX-AID with
-傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至本作實为同一世界觀。
+傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》得知《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》至本作實为同一世界觀。
 
 ## 故事概要
 
@@ -148,7 +148,7 @@ Start）！各種遊戲的高手，滅絕崩源體吧！
         為騎士們最初持有的十款卡帶的原型版本，也是在本作時間5年前引發零日事件的元兇，而Genm 所持有的「原型麥提行動X（Proto
         Mighty Action X）」就是這些原型卡帶之一，除了「原型麥提行動X（Proto Mighty Action
         X）」以外的其他原型卡帶的特徵皆為整體為黑色，以及卡帶上的圖案為黑白色，根據花家大我在「裏技」第二話的說法，幻夢集團至今仍然保存著這些危險的卡帶。
-        雖然本作并非首次出現原型形態，但與以往不同的是原型形態會比正式形態較弱（如《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》的Protodrive
+        雖然本作并非首次出現原型形態，但與以往不同的是原型形態會比正式形態較弱（如《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的Protodrive
         和Drive )，而本作的原型形態卻比正式形態強（即Genm 和Ex-Aid ）。
         根據帕拉德所敘述得知原型卡帶擁有深不可測的力量，但過度使用會引火自焚。
         後根據檀黎斗述說得知因遊戲病而消滅的人其身體數據全都保留在這十款原型卡帶中，可透過攻略「假面騎士編年史」遊戲使遭到消滅的人重新復活，但目前只有檀正宗使用假面騎士Cronus的力量將原型卡帶的數據將人復活。
@@ -4609,13 +4609,13 @@ Action X</p></td>
   - 《[劇場版 假面騎士Ghost
     100個眼魂與Ghost命運的瞬間](https://zh.wikipedia.org/wiki/劇場版_假面騎士Ghost_100個眼魂與Ghost命運的瞬間 "wikilink")》（2016年8月6日上映）
   - 《[假面騎士平成Generations Dr.Pac-Man對EX-AID\&Ghost with
-    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士 "wikilink")》（2016年12月10日上映）
+    傳說騎士](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》（2016年12月10日上映）
   - 《[假面騎士×超級戰隊 超
-    超級英雄大戰](https://zh.wikipedia.org/wiki/假面騎士×超級戰隊_超_超級英雄大戰 "wikilink")》（2017年3月25日上映）
+    超級英雄大戰](../Page/假面騎士×超級戰隊_超_超級英雄大戰.md "wikilink")》（2017年3月25日上映）
   - 《[劇場版 假面騎士EX-AID
-    True·Ending](https://zh.wikipedia.org/wiki/劇場版_假面騎士EX-AID_True·Ending "wikilink")》（2017年8月5日上映）
+    True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》（2017年8月5日上映）
   - 《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》（2017年12月9日上映）
+    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
 
 ### 外傳
 
@@ -4753,7 +4753,7 @@ Action X</p></td>
   -
     （原題：）
     2017年1月開始於Youtube頻道配信的特別篇故事作品。共兩部分。
-    該故事時間點接在《[平成Generations](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士 "wikilink")》後，本篇第11話前。
+    該故事時間點接在《[平成Generations](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》後，本篇第11話前。
     另外Part
     3（最終傳說舞台）限定收錄於玩具商品附帶[DVD內](https://zh.wikipedia.org/wiki/DVD "wikilink")。
 
@@ -4823,7 +4823,7 @@ Action X</p></td>
 
 「**EXCITE**」\[162\]\[163\]\[164\]\[165\]
 
-  - 演唱：[三浦大知](https://zh.wikipedia.org/wiki/三浦大知 "wikilink")
+  - 演唱：[三浦大知](../Page/三浦大知.md "wikilink")
   - 作詞：三浦大知、
   - 作曲：岡嶋かな多、Carpainter
   - 編曲：UTA、Carpainter
@@ -4977,7 +4977,7 @@ Action X</p></td>
 
 17. 《[假面騎士Stronger](../Page/假面騎士Stronger.md "wikilink")》中的電波女並非騎士，《[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")》中的澤木雪菜,《[假面骑士龍騎](https://zh.wikipedia.org/wiki/假面骑士龍騎 "wikilink")》中的霧島美惠，《[假面骑士響鬼](https://zh.wikipedia.org/wiki/假面骑士響鬼 "wikilink")》中的天美晶和《[假面骑士鎧武](https://zh.wikipedia.org/wiki/假面骑士鎧武 "wikilink")》的凑耀子等人皆為女配角，《[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")》中麻生惠所變身的IXA官方變身者為名護啟介，《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》光夏海和《[假面骑士Wizard](https://zh.wikipedia.org/wiki/假面骑士Wizard "wikilink")》中的笛木歷兩位女主角則是在劇場版而非正篇內變身。
 
-18. 《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》中的菲利普和園咲琉兵衛、《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》中的詩島剛和蠻野天十郎、《[假面騎士Amazons](../Page/假面騎士Amazons.md "wikilink")》中的千翼與鷹山仁等皆為這類型的角色。
+18. 《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》中的菲利普和園咲琉兵衛、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》中的詩島剛和蠻野天十郎、《[假面騎士Amazons](../Page/假面騎士Amazons.md "wikilink")》中的千翼與鷹山仁等皆為這類型的角色。
 
 19. 幾乎所有的登場騎士都有一部，共製作7部
 
@@ -5033,7 +5033,7 @@ Action X</p></td>
 
 44. 也就是帕拉德
 
-45. 與劇場版《[平成Generations](https://zh.wikipedia.org/wiki/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士 "wikilink")》劇情連動。
+45. 與劇場版《[平成Generations](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》劇情連動。
 
 46. 之後更得知是十六年前檀黎斗利用測試遊戲的方式讓永夢無形中感染了缺陷者病毒，並且讓病毒潛伏於永夢體內，直到六年前利用財前美智彥等次世代基因組成員激發病毒，使得帕拉德因此誕生。
 

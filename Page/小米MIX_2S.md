@@ -14,14 +14,14 @@ OmniVision OV5675 | sound = | connectivity =
 
 小米MIX
 2S的後置摄像头为1220万有效像素的变焦双摄，並且支持AI拍照場景识别和AI面部识别。\[14\]其中主摄像头采用了[索尼IMX](../Page/索尼.md "wikilink")
-363作为[图像传感器](https://zh.wikipedia.org/wiki/图像传感器 "wikilink")，[镜头的](https://zh.wikipedia.org/wiki/镜头 "wikilink")[光圈值为F](../Page/光圈.md "wikilink")1.8，物理焦距4.216mm；而副摄像头则采用了[三星S](https://zh.wikipedia.org/wiki/三星集团 "wikilink")5K3M3作为图像传感器，镜头[光圈值为F](https://zh.wikipedia.org/wiki/光圈值 "wikilink")2.4，物理焦距5.2mm。[DxOMark給了MIX](https://zh.wikipedia.org/wiki/DxOMark "wikilink")
+363作为[图像传感器](https://zh.wikipedia.org/wiki/图像传感器 "wikilink")，[镜头的](https://zh.wikipedia.org/wiki/镜头 "wikilink")[光圈值为F](../Page/光圈.md "wikilink")1.8，物理焦距4.216mm；而副摄像头则采用了[三星S](https://zh.wikipedia.org/wiki/三星集团 "wikilink")5K3M3作为图像传感器，镜头[光圈值为F](https://zh.wikipedia.org/wiki/光圈值 "wikilink")2.4，物理焦距5.2mm。[DxOMark給了MIX](../Page/DxOMark.md "wikilink")
 2S的后置摄像头高达101分的成绩\[15\]。此外，小米MIX
 2S支援Qi协议的無線充電功能，是小米首款支援無線充電功能的手機。\[16\]\[17\]\[18\]至於設計方面，小米MIX
 2S延續[小米MIX
 2的設計風格](../Page/小米MIX_2.md "wikilink")，并沒有採用即將成為主流的「刘海」全面屏設計，而是采用了倒装屏幕的方式，尽可能地把上边框（额头）收窄，并将前置摄像头置于下边框（下巴）中，以尽可能地营造出“全面屏”的效果\[19\]\[20\]。
 
 在中國大陸，小米MIX
-2S搭載智能語音助理[小愛同學](https://zh.wikipedia.org/wiki/小愛同學 "wikilink")，目前该语音助手只搭载于国内版（China）的[MIUI系统中](../Page/MIUI.md "wikilink")，国际版（Global）系统目前暂未搭载。
+2S搭載智能語音助理[小愛同學](../Page/小愛同學.md "wikilink")，目前该语音助手只搭载于国内版（China）的[MIUI系统中](../Page/MIUI.md "wikilink")，国际版（Global）系统目前暂未搭载。
 
 ## 參考資料
 

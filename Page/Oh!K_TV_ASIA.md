@@ -75,7 +75,7 @@ Asia**是[特纳广播公司的一個](https://zh.wikipedia.org/wiki/特纳广�
 <td><p>星期日</p></td>
 <td><p>21:55 - 23:35（印尼）<br />
 22:55 - 00:35（新加坡 马来西亚文莱）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我獨自生活" title="wikilink">我獨自生活</a></p></td>
+<td><p><a href="../Page/我獨自生活.md" title="wikilink">我獨自生活</a></p></td>
 <td></td>
 <td></td>
 </tr>

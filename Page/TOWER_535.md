@@ -14,7 +14,7 @@
 大廈樓高25層，總建築樓面面積為270,473方呎，地庫至3樓提供四層零售樓面，租戶包括全球[航拍品牌](../Page/航拍.md "wikilink")[大疆創新](https://zh.wikipedia.org/wiki/大疆創新 "wikilink")，租用面積約10,000平方呎的3層地舖作為香港首家旗艦店，於2016年第3季開業。\[4\]到2019年1月，日本人氣班戟店gram以月租30萬元承租面積2787方呎樓面。而新晉餐飲品牌THE
 FOOD Story以月租約30萬承租地庫面積5011方呎樓面。\[5\]
 
-辦公室樓層有16層，主要預留予美容及健康生活等租客，呎租約50至60[港元](../Page/港元.md "wikilink")。\[6\]最大租戶為跨國虛擬辦公室公司[WeWork承租項目](https://zh.wikipedia.org/wiki/WeWork "wikilink")8層寫字樓，涉及9萬平方呎。\[7\]而7樓及8樓全層約2.3萬平方呎樓面獲健身中心[Fitness
+辦公室樓層有16層，主要預留予美容及健康生活等租客，呎租約50至60[港元](../Page/港元.md "wikilink")。\[6\]最大租戶為跨國虛擬辦公室公司[WeWork承租項目](../Page/WeWork.md "wikilink")8層寫字樓，涉及9萬平方呎。\[7\]而7樓及8樓全層約2.3萬平方呎樓面獲健身中心[Fitness
 First承租](https://zh.wikipedia.org/wiki/Fitness_First "wikilink")，呎租約60元，於2016年6月13日開業。25樓設阿一海景飯店及酒吧炊公館。26樓頂層為Bulldozer
 Group's 首間於香港開設的餐廳Seafood Room，佔他8,000呎樓面連2,000呎天台。
 

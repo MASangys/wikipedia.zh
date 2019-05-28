@@ -37,7 +37,7 @@
 | '''[大前田希千代](https://zh.wikipedia.org/wiki/護廷十三隊#二番隊（隱秘機動隊） "wikilink")     | [樫井笙人](../Page/樫井笙人.md "wikilink")                      |
 | '''[射場鐵左衛門](https://zh.wikipedia.org/wiki/護廷十三隊#七番隊（內廷護衞隊） "wikilink")     | [西凜太朗](https://zh.wikipedia.org/wiki/西凜太朗 "wikilink")   |
 | '''[檜佐木修兵](https://zh.wikipedia.org/wiki/護廷十三隊#九番隊（牢獄隊） "wikilink")        | [小西克幸](../Page/小西克幸.md "wikilink")                      |
-| '''[松本亂菊](https://zh.wikipedia.org/wiki/護廷十三隊#十番隊（巡邏警備隊） "wikilink")       | [松谷彼哉](https://zh.wikipedia.org/wiki/松谷彼哉 "wikilink")   |
+| '''[松本亂菊](https://zh.wikipedia.org/wiki/護廷十三隊#十番隊（巡邏警備隊） "wikilink")       | [松谷彼哉](../Page/松谷彼哉.md "wikilink")                      |
 | '''[草鹿八千流](https://zh.wikipedia.org/wiki/護廷十三隊#十一番隊（戰鬥專屬隊） "wikilink")     | [望月久代](../Page/望月久代.md "wikilink")                      |
 | '''[涅音夢](https://zh.wikipedia.org/wiki/護廷十三隊#十二番隊（技術開發局） "wikilink")       | [釘宮理恵](https://zh.wikipedia.org/wiki/釘宮理恵 "wikilink")   |
 | '''[斑目一角](https://zh.wikipedia.org/wiki/護廷十三隊#十一番隊（戰鬥專屬隊） "wikilink")      | [檜山修之](../Page/檜山修之.md "wikilink")                      |

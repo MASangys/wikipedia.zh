@@ -35,8 +35,7 @@ rowspan="3"|[2016年](https://zh.wikipedia.org/wiki/2016_Mnet_Asian_Music_Awards
 
 |- | rowspan="4"|2017年 | 新人賞 | rowspan="2"|I.O.I |  |- | 全球 K-pop 藝人獎 |
 |- | 音源部門－本賞 |  |  |- | 唱片部門－本賞 |
-[Chrysalis](https://zh.wikipedia.org/wiki/Chrysalis_\(I.O.I迷你專輯\) "wikilink")
-|  |}
+[Chrysalis](../Page/Chrysalis_\(I.O.I迷你專輯\).md "wikilink") |  |}
 
 ### [首爾音樂獎（Seoul Music Awards）](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")
 

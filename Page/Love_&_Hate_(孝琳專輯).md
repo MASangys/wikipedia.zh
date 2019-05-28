@@ -12,7 +12,7 @@ Chart網站的每周專輯榜中](https://zh.wikipedia.org/wiki/Gaon_Chart "wiki
 Way
 Love」的MV由[柳演錫擔任男主角](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")\[5\]，在Gaon單曲週榜和[Billboard排行榜中皆獲得第一位](https://zh.wikipedia.org/wiki/Billboard "wikilink")\[6\]。
 
-同日，孝琳在[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")[江南區清潭洞舉行專輯發行紀念公演](../Page/江南區_\(首爾\).md "wikilink")\[7\]。她於[Mnet的紀念公演上演唱](https://zh.wikipedia.org/wiki/Mnet "wikilink")《Love
+同日，孝琳在[首爾](../Page/首爾.md "wikilink")[江南區清潭洞舉行專輯發行紀念公演](../Page/江南區_\(首爾\).md "wikilink")\[7\]。她於[Mnet的紀念公演上演唱](https://zh.wikipedia.org/wiki/Mnet "wikilink")《Love
 &
 Hate》內的歌曲，亦聯同其他[SISTAR成員表演她們的歌曲](../Page/SISTAR.md "wikilink")。過往只有[BoA](https://zh.wikipedia.org/wiki/BoA "wikilink")、[李孝利和](../Page/李孝利.md "wikilink")[Rain等明星才能於](../Page/Rain.md "wikilink")[Mnet上進行紀念公演](https://zh.wikipedia.org/wiki/Mnet "wikilink")\[8\]。
 

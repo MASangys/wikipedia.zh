@@ -316,14 +316,14 @@ Girls迄今共發行](../Page/Wonder_Girls.md "wikilink")3張正規專輯、4張
 <td><p>－</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/So_Hot" title="wikilink">So Hot</a></p></td>
+<td><p><a href="../Page/So_Hot.md" title="wikilink">So Hot</a></p></td>
 <td><p>2008年</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Nobody" title="wikilink">Nobody</a></p></td>
+<td><p><a href="../Page/Nobody.md" title="wikilink">Nobody</a></p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>
@@ -379,7 +379,7 @@ Girls迄今共發行](../Page/Wonder_Girls.md "wikilink")3張正規專輯、4張
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Nobody" title="wikilink">Nobody</a></p></td>
+<td><p><a href="../Page/Nobody.md" title="wikilink">Nobody</a></p></td>
 <td><p>2009年</p></td>
 <td><p>－</p></td>
 <td><p>－</p></td>

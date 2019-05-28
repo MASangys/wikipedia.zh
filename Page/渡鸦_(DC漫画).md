@@ -13,7 +13,7 @@ Comics Presents》\#26（1980年10月）的特别预览中，由马文·沃尔�
 
 ### 电视动画
 
-  - 《[少年泰坦](../Page/少年悍將_\(動畫\).md "wikilink")》：由[塔拉·史壯](https://zh.wikipedia.org/wiki/塔拉·史壯 "wikilink")（Tara
+  - 《[少年泰坦](../Page/少年悍將_\(動畫\).md "wikilink")》：由[塔拉·史壯](../Page/塔拉·史壯.md "wikilink")（Tara
     Strong）配音。
   - 《》：由塔拉·史壯（Tara Strong）配音。
   - 《[少年泰坦
@@ -23,8 +23,8 @@ Comics Presents》\#26（1980年10月）的特别预览中，由马文·沃尔�
 ### 动画电影
 
   - 《少年泰坦：东京危机》：由塔拉·史壯（Tara Strong）配音。\[1\]
-  - 《正义联盟大战少年泰坦》：由[泰莎·法蜜嘉配音](https://zh.wikipedia.org/wiki/泰莎·法蜜嘉 "wikilink")。剧中的反派是渡鸦的父亲特力貢。特力貢控制了[正义联盟成员的身体](https://zh.wikipedia.org/wiki/正义联盟 "wikilink")，并要挟渡鸦打开通向地球的传送门，妄图摧毁地球。\[2\]
-  - 《少年泰坦：猶大契約》由[泰莎·法蜜嘉配音](https://zh.wikipedia.org/wiki/泰莎·法蜜嘉 "wikilink")。
+  - 《正义联盟大战少年泰坦》：由[泰莎·法蜜嘉配音](../Page/泰莎·法蜜嘉.md "wikilink")。剧中的反派是渡鸦的父亲特力貢。特力貢控制了[正义联盟成员的身体](https://zh.wikipedia.org/wiki/正义联盟 "wikilink")，并要挟渡鸦打开通向地球的传送门，妄图摧毁地球。\[2\]
+  - 《少年泰坦：猶大契約》由[泰莎·法蜜嘉配音](../Page/泰莎·法蜜嘉.md "wikilink")。
 
 ### 电子游戏
 

@@ -94,7 +94,7 @@ Fever裡，只要簡簡單單的輕觸操作就能體驗到最頂級的「爽快
 <!-- end list -->
 
   - 1月：達成150萬下載數\[18\]
-  - 1月29日：宣布[雪未來](https://zh.wikipedia.org/wiki/雪未來 "wikilink")、《[初音未來](../Page/初音未來.md "wikilink")》合作活動\[19\]（配合[SNOW
+  - 1月29日：宣布[雪未來](../Page/雪未來.md "wikilink")、《[初音未來](../Page/初音未來.md "wikilink")》合作活動\[19\]（配合[SNOW
     MIKU
     2016舉辦](https://zh.wikipedia.org/wiki/雪初音#SNOW_MIKU "wikilink")\[20\]）
   - 2月：突破200萬下載\[21\]
@@ -169,7 +169,7 @@ Fever裡，只要簡簡單單的輕觸操作就能體驗到最頂級的「爽快
 　　　　　　「[ALICE/WAR WORLD AND
 REBELLION](https://alicewar.crashfever.com/)」
 
-  - 4月12日：[《工作細胞》合作活動開始](https://zh.wikipedia.org/wiki/工作細胞 "wikilink")\[52\]
+  - 4月12日：[《工作細胞》合作活動開始](../Page/工作細胞.md "wikilink")\[52\]
   - 5月17日：[《盾之勇者成名錄》合作活動預定舉辦](../Page/盾之勇者成名錄.md "wikilink")
 
 ### 台港澳繁體中文版
@@ -221,7 +221,7 @@ Fever第一個海外版本，官方設有Facebook粉絲專頁、[Google+](../Pag
 <!-- end list -->
 
   - 1月26日\~29日：《2018台北國際電玩展TpGS》參展、特別企劃舉辦\[72\]\[73\]
-  - 3月2日：《[初音未來](../Page/初音未來.md "wikilink")》合作活動第三彈、[雪未來2018合作活動舉辦](https://zh.wikipedia.org/wiki/雪未來 "wikilink")\[74\]
+  - 3月2日：《[初音未來](../Page/初音未來.md "wikilink")》合作活動第三彈、[雪未來2018合作活動舉辦](../Page/雪未來.md "wikilink")\[74\]
   - 3月16日：《[為美好的世界獻上祝福！](../Page/為美好的世界獻上祝福！.md "wikilink")》合作活動開始\[75\]
   - 4月16日：與《[神魔之塔](../Page/神魔之塔.md "wikilink")》合作活動第2彈開始\[76\]
   - 5月19日：台港澳版二週年慶祝活動、線下會舉辦\[77\]\[78\]\[79\]
@@ -239,7 +239,7 @@ Fever第一個海外版本，官方設有Facebook粉絲專頁、[Google+](../Pag
 <!-- end list -->
 
   - 1月14日：《[YouTuber
-    事務所「ENTUM」](https://zh.wikipedia.org/wiki/虛擬YouTuber "wikilink")》合作活動舉辦\[86\]
+    事務所「ENTUM」](../Page/虛擬YouTuber.md "wikilink")》合作活動舉辦\[86\]
   - 1月25日\~28日：《2019台北國際電玩展TpGS》參展、特別企劃舉辦\[87\]\[88\]\[89\]
   - 2月15日：《[初音未來](../Page/初音未來.md "wikilink")》第四彈合作活動舉辦\[90\]
   - 3月15日：《[Re：從零開始的異世界生活](https://zh.wikipedia.org/wiki/Re：從零開始的異世界生活 "wikilink")》合作活動舉辦\[91\]

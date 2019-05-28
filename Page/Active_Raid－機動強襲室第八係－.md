@@ -1,6 +1,6 @@
 《**Active
 Raid－機動強襲室第八係－**》是[谷口悟朗擔任總監督](../Page/谷口悟朗.md "wikilink")，[Production
-IMS製作的原創動畫](https://zh.wikipedia.org/wiki/Production_IMS "wikilink")，電視動畫第1期於2016年1月8日至3月24日播出。第2期《Active
+IMS製作的原創動畫](../Page/Production_IMS.md "wikilink")，電視動畫第1期於2016年1月8日至3月24日播出。第2期《Active
 Raid－機動強襲室第八係－ 2nd》於同年7月開始播放。
 
 ## 故事簡介
@@ -207,7 +207,7 @@ Raid－機動強襲室第八係－ 2nd》於同年7月開始播放。
   - 概念設計：寺岡賢司
   - 設計工作：森前和也
   - 總作畫監督：[渡邊浩二](https://zh.wikipedia.org/wiki/渡邊浩二 "wikilink")、甲田正行、小林真平
-  - 主動畫師：[神戶洋行](https://zh.wikipedia.org/wiki/神戶洋行 "wikilink")
+  - 主動畫師：[神戶洋行](../Page/神戶洋行.md "wikilink")
   - 動作動畫師：石本英治
   - 美術設定：池田繁美、丸山由紀子
   - 美術監督：池田繁美、大久保修一、友野加世子
@@ -223,10 +223,8 @@ Raid－機動強襲室第八係－ 2nd》於同年7月開始播放。
   - 執行製片人：難波秀行、清水憲忠、小松茂明
   - 製片人：梅田和沙、澤田朋久、尾留川宏之
   - 動畫製作人：黃樹貳悠
-  - 動畫製作：[Production
-    IMS](https://zh.wikipedia.org/wiki/Production_IMS "wikilink")
-  - 製作：ACTIVERAID
-    PARTNERS（[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")、Fields、飛犬）
+  - 動畫製作：[Production IMS](../Page/Production_IMS.md "wikilink")
+  - 製作：ACTIVERAID PARTNERS（[創通](../Page/創通.md "wikilink")、Fields、飛犬）
 
 ### 主題曲
 
@@ -240,8 +238,7 @@ with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 
 :; 片尾曲「透明的夜空（）」
 
-::
-作詞：，作曲、編曲：鴇澤直，主唱：[相坂優歌](https://zh.wikipedia.org/wiki/相坂優歌 "wikilink")
+:: 作詞：，作曲、編曲：鴇澤直，主唱：[相坂優歌](../Page/相坂優歌.md "wikilink")
 
 :; 劇中歌「」（第3話）
 
@@ -473,7 +470,7 @@ with [bless4](https://zh.wikipedia.org/wiki/bless4 "wikilink")
 <td><p>File 5</p></td>
 <td></td>
 <td><p>誰才是受益者</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大西信介" title="wikilink">大西信介</a></p></td>
+<td><p><a href="../Page/大西信介.md" title="wikilink">大西信介</a></p></td>
 <td><p>大石康之</p></td>
 <td><p>森下勇輝、久松沙紀<br />
 山崎展義、藤井裕子<br />

@@ -534,7 +534,7 @@ Nichkhun、澤演<br />
 <td><p><a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a></p></td>
 <td><p><a href="http://www.cheil.co.kr/">第一企劃總部</a><br />
 <small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
-<a href="../Page/龍山區_(首爾).md" title="wikilink">龍山區</a><a href="https://zh.wikipedia.org/wiki/漢南洞" title="wikilink">漢南洞</a>)</small></p></td>
+<a href="../Page/龍山區_(首爾).md" title="wikilink">龍山區</a><a href="../Page/漢南洞.md" title="wikilink">漢南洞</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>48小時競賽<br />
 尋找嘉賓</strong></span><br />
 <strong>嘉賓</strong><br />
@@ -619,7 +619,7 @@ Nichkhun、澤演<br />
 <small>(181)</small></p></td>
 <td><p>6月26日<br />
 <small>(<em>6月7日</em>)</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盧士燕" title="wikilink">盧士燕</a>、<a href="https://zh.wikipedia.org/wiki/具荷拉" title="wikilink">具荷拉</a>(<a href="../Page/Kara.md" title="wikilink">Kara</a>)</p></td>
+<td><p><a href="../Page/盧士燕.md" title="wikilink">盧士燕</a>、<a href="https://zh.wikipedia.org/wiki/具荷拉" title="wikilink">具荷拉</a>(<a href="../Page/Kara.md" title="wikilink">Kara</a>)</p></td>
 <td><p><a href="https://web.archive.org/web/20160502025932/http://dreamforest.seoul.go.kr/">北首爾夢之林</a><br />
 <small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="https://zh.wikipedia.org/wiki/江北區_(首爾)" title="wikilink">江北區</a>)</small></p></td>

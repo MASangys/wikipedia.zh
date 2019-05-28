@@ -1,6 +1,6 @@
 **Alphabet**公司（，）是位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州的](https://zh.wikipedia.org/wiki/加州 "wikilink")[控股公司](../Page/控股公司.md "wikilink")，於2015年10月2日成立，由[Google公司組織分割而來](../Page/Google.md "wikilink")，並繼承了Google公司的[上市公司地位以及](../Page/上市公司.md "wikilink")[股票代號](../Page/股票代號.md "wikilink")。Google公司重整後則成为Alphabet
 Inc.最大的子公司。此外，Alphabet旗下擁有[Calico](../Page/Calico.md "wikilink")、[CapitalG](../Page/CapitalG.md "wikilink")、、[DeepMind](../Page/DeepMind.md "wikilink")、[Google](../Page/Google.md "wikilink")、[Google
-Fiber](https://zh.wikipedia.org/wiki/Google_Fiber "wikilink")、[GV](https://zh.wikipedia.org/wiki/GV_\(公司\) "wikilink")、[Jigsaw](https://zh.wikipedia.org/wiki/Jigsaw "wikilink")、、、[Verily](../Page/Verily.md "wikilink")、[Waymo和](../Page/Waymo.md "wikilink")[X等](../Page/X_\(公司\).md "wikilink")13家子公司。
+Fiber](https://zh.wikipedia.org/wiki/Google_Fiber "wikilink")、[GV](https://zh.wikipedia.org/wiki/GV_\(公司\) "wikilink")、[Jigsaw](../Page/Jigsaw.md "wikilink")、、、[Verily](../Page/Verily.md "wikilink")、[Waymo和](../Page/Waymo.md "wikilink")[X等](../Page/X_\(公司\).md "wikilink")13家子公司。
 
 ## 歷史
 

@@ -1,6 +1,6 @@
 《**My Only Love
 Song**》（，，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC
-AddCulture製作](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")，於2017年6月9日於[Netflix播出的](../Page/Netflix.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，為Netflix首部自製韓劇，由[李宗泫](../Page/李宗泫.md "wikilink")、[孔升妍](../Page/孔升妍.md "wikilink")、[李在真等人主演](https://zh.wikipedia.org/wiki/李在真 "wikilink")\[1\]\[2\]。劇情內容為一位頂尖女演員拍攝新節目期間，發現事情沒有順她的意發展後，跳上一輛老舊箱型車走人，卻就此展開一趟穿梭時空之旅。\[3\]
+AddCulture製作](../Page/FNC娛樂.md "wikilink")，於2017年6月9日於[Netflix播出的](../Page/Netflix.md "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，為Netflix首部自製韓劇，由[李宗泫](../Page/李宗泫.md "wikilink")、[孔升妍](../Page/孔升妍.md "wikilink")、[李在真等人主演](https://zh.wikipedia.org/wiki/李在真 "wikilink")\[1\]\[2\]。劇情內容為一位頂尖女演員拍攝新節目期間，發現事情沒有順她的意發展後，跳上一輛老舊箱型車走人，卻就此展開一趟穿梭時空之旅。\[3\]
 
 ## 演員陣容
 
@@ -66,7 +66,7 @@ AddCulture製作](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")，於2017�
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李哲民_(演員)" title="wikilink">李哲民</a></p></td>
+<td><p><a href="../Page/李哲民_(演員).md" title="wikilink">李哲民</a></p></td>
 <td><p>金導演</p>
 <hr>
 <p>使道大人</p></td>

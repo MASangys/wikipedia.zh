@@ -115,9 +115,9 @@ Brixton**
 **BABYMETAL WORLD TOUR 2014**（The Forum）
 
   - 成員
-      - [Leda](https://zh.wikipedia.org/wiki/Leda "wikilink") - 吉他
+      - [Leda](../Page/Leda.md "wikilink") - 吉他
 
-      - [藤岡幹大](https://zh.wikipedia.org/wiki/藤岡幹大 "wikilink") - 吉他
+      - [藤岡幹大](../Page/藤岡幹大.md "wikilink") - 吉他
 
       - \- 貝斯
 

@@ -1,4 +1,4 @@
-是由[大川bkub創作的](https://zh.wikipedia.org/wiki/大川bkub "wikilink")[日本搞笑](../Page/日本.md "wikilink")[四格漫畫作品](../Page/四格漫畫.md "wikilink")，自2014年8月在[竹書房的](../Page/竹書房.md "wikilink")[網路漫畫發布站](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")《》連載\[1\]。本作品一度在2015年11月結束連載\[2\]，並於同年12月發行[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")\[3\]。2016年2月18日，大川bkub開始在同網站連載新作品\[4\]，翌日得知該作品實際上是《-{
+是由[大川bkub創作的](../Page/大川bkub.md "wikilink")[日本搞笑](../Page/日本.md "wikilink")[四格漫畫作品](../Page/四格漫畫.md "wikilink")，自2014年8月在[竹書房的](../Page/竹書房.md "wikilink")[網路漫畫發布站](https://zh.wikipedia.org/wiki/網路漫畫 "wikilink")《》連載\[1\]。本作品一度在2015年11月結束連載\[2\]，並於同年12月發行[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")\[3\]。2016年2月18日，大川bkub開始在同網站連載新作品\[4\]，翌日得知該作品實際上是《-{
 zh-cn:pop子和pipi美的日常;zh-hans:pop子和pipi美的日常; zh-mo:POP TEAM EPIC;
 zh-tw:POP TEAM EPIC; zh-hk:POP TEAM
 EPIC;}-》\[5\]，該連載後來在2017年4月30日結束。2017年10月10日，漫畫第三部開始連載\[6\]。[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2018年1月6日至3月24日播出\[7\]，電視特別篇於2019年4月1日播出\[8\]\[9\]，全14集。
@@ -64,7 +64,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 </tr>
 <tr class="even">
 <td><p>後半</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三矢雄二" title="wikilink">三矢雄二</a></p></td>
+<td><p><a href="../Page/三矢雄二.md" title="wikilink">三矢雄二</a></p></td>
 <td><p><a href="../Page/日高範子.md" title="wikilink">日高範子</a></p></td>
 <td><p><strong>《<a href="../Page/棒球英豪.md" title="wikilink">棒球英豪</a>》</strong>中上杉達也和淺倉南的聲優[11]。<br />
 此外曾在<strong>《<a href="https://zh.wikipedia.org/wiki/亂馬½" title="wikilink">亂馬½</a>》</strong>、<strong>《<a href="../Page/麵包超人.md" title="wikilink">麵包超人</a>》</strong>、<strong>《<a href="https://zh.wikipedia.org/wiki/小紅帽恰恰" title="wikilink">小紅帽恰恰</a>》</strong>、<strong>《<a href="../Page/巷說百物語.md" title="wikilink">巷說百物語</a>》</strong>等作品中共演。</p></td>
@@ -150,7 +150,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>後半</p></td>
 <td><p><a href="../Page/下野紘.md" title="wikilink">下野紘</a></p></td>
 <td><p><a href="../Page/梶裕貴.md" title="wikilink">梶裕貴</a></p></td>
-<td><p><strong>《<a href="../Page/進擊的巨人.md" title="wikilink">進擊的巨人</a>》</strong>中柯尼·史普林格和<a href="https://zh.wikipedia.org/wiki/艾連·葉卡" title="wikilink">艾連·葉卡的聲優</a>。<br />
+<td><p><strong>《<a href="../Page/進擊的巨人.md" title="wikilink">進擊的巨人</a>》</strong>中柯尼·史普林格和<a href="../Page/艾連·葉卡.md" title="wikilink">艾連·葉卡的聲優</a>。<br />
 此外曾在<strong>《<a href="https://zh.wikipedia.org/wiki/閃電十一人" title="wikilink">閃電十一人</a>》</strong>、<strong>《<a href="../Page/歌之王子殿下.md" title="wikilink">歌之王子殿下</a>》</strong>等作品中共演。<br />
 曾合作主持網路電台《》。<br />
 「POP TEAM EPIC」聲優組合預測問卷結果第十九位。</p></td>
@@ -200,7 +200,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>後半</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/齊藤壯馬" title="wikilink">齊藤壯馬</a></p></td>
 <td><p><a href="../Page/石川界人.md" title="wikilink">石川界人</a></p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/排球少年！！" title="wikilink">排球少年！！</a>》</strong>中山口忠和影山飛雄的聲優。<br />
+<td><p><strong>《<a href="../Page/排球少年！！.md" title="wikilink">排球少年！！</a>》</strong>中山口忠和影山飛雄的聲優。<br />
 此外曾在<strong>《<a href="../Page/東京殘響.md" title="wikilink">東京殘響</a>》</strong>、<strong>《<a href="https://zh.wikipedia.org/wiki/刀劍亂舞-花丸-" title="wikilink">刀劍亂舞-花丸-</a>》</strong>等作品中共演。</p></td>
 <td></td>
 </tr>
@@ -233,7 +233,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p><a href="../Page/鄉田穗積.md" title="wikilink">鄉田穗積</a></p></td>
 <td><p><a href="../Page/銀河萬丈.md" title="wikilink">銀河萬丈</a></p></td>
 <td><p><strong>《<a href="../Page/裝甲騎兵.md" title="wikilink">裝甲騎兵</a>》</strong>中齊力可·裘比和尚·保羅·羅吉納的聲優。<br />
-此話為恐怖回，鄉田穗積是本季恐怖動畫《<a href="https://zh.wikipedia.org/wiki/伊藤潤二驚選集" title="wikilink">伊藤潤二驚選集</a>》音響監督及出演。</p></td>
+此話為恐怖回，鄉田穗積是本季恐怖動畫《<a href="../Page/伊藤潤二驚選集.md" title="wikilink">伊藤潤二驚選集</a>》音響監督及出演。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -322,7 +322,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>前半</p></td>
 <td><p><a href="../Page/花守由美里.md" title="wikilink">花守由美里</a></p></td>
 <td><p><a href="../Page/東山奈央.md" title="wikilink">東山奈央</a></p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/搖曳露營△" title="wikilink">搖曳露營△</a>》</strong>中各務原撫子和志摩凜的聲優。</p></td>
+<td><p><strong>《<a href="../Page/搖曳露營△.md" title="wikilink">搖曳露營△</a>》</strong>中各務原撫子和志摩凜的聲優。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -418,7 +418,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>第1－6、12話</p></td>
 <td><p><a href="../Page/牧野由依.md" title="wikilink">牧野由依</a></p></td>
 <td><p><a href="../Page/渡部優衣.md" title="wikilink">渡部優衣</a></p></td>
-<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/星光樂園" title="wikilink">星光樂園</a>》</strong>中黑須阿洛瑪和白玉蜜柑的聲優[26]。</p></td>
+<td><p><strong>《<a href="../Page/星光樂園.md" title="wikilink">星光樂園</a>》</strong>中黑須阿洛瑪和白玉蜜柑的聲優[26]。</p></td>
 </tr>
 <tr class="even">
 <td><p>第8－11話</p></td>
@@ -455,7 +455,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>第13話</p></td>
 <td></td>
 <td><p><a href="../Page/木島隆一.md" title="wikilink">木島隆一</a></p></td>
-<td><p>|<strong>《<a href="https://zh.wikipedia.org/wiki/催眠麥克風" title="wikilink">催眠麥克風</a>》</strong>中觀音坂獨步和伊弉冉一二三（同屬組合「麻天狼」）的聲優。</p></td>
+<td><p>|<strong>《<a href="../Page/催眠麥克風.md" title="wikilink">催眠麥克風</a>》</strong>中觀音坂獨步和伊弉冉一二三（同屬組合「麻天狼」）的聲優。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -468,14 +468,14 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 </tbody>
 </table>
 
-| 欄目名                    | 段落          | POP子                                                                       | PIPI美                                                                               | 備注                                                        |
-| ---------------------- | ----------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------- |
-| Bobunemimimmi          | 共通          | 板倉俊介                                                                       | 安達亨                                                                                 | 製作組[AC部成員](https://zh.wikipedia.org/wiki/AC部 "wikilink")。 |
-| 第7話 高速紙芝居「HellShake矢野」 | 前半          |                                                                            |                                                                                     |                                                           |
-| 後半                     | 安達亨         | 板倉俊介                                                                       |                                                                                     |                                                           |
-| JAPON MiGNON           | 共通          | [Fanny Bloc](https://zh.wikipedia.org/wiki/:wikidata:Q15973739 "wikilink") | [Christine Bellier](https://zh.wikipedia.org/wiki/:fr:Christine_Bellier "wikilink") | 法國女配音員。                                                   |
-| TVSP                   | Kayce Chase |                                                                            |                                                                                     |                                                           |
-|                        |             |                                                                            |                                                                                     |                                                           |
+| 欄目名                    | 段落          | POP子                                                                       | PIPI美                                                                               | 備注                                     |
+| ---------------------- | ----------- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------- |
+| Bobunemimimmi          | 共通          | 板倉俊介                                                                       | 安達亨                                                                                 | 製作組[AC部成員](../Page/AC部.md "wikilink")。 |
+| 第7話 高速紙芝居「HellShake矢野」 | 前半          |                                                                            |                                                                                     |                                        |
+| 後半                     | 安達亨         | 板倉俊介                                                                       |                                                                                     |                                        |
+| JAPON MiGNON           | 共通          | [Fanny Bloc](https://zh.wikipedia.org/wiki/:wikidata:Q15973739 "wikilink") | [Christine Bellier](https://zh.wikipedia.org/wiki/:fr:Christine_Bellier "wikilink") | 法國女配音員。                                |
+| TVSP                   | Kayce Chase |                                                                            |                                                                                     |                                        |
+|                        |             |                                                                            |                                                                                     |                                        |
 
 個別欄目聲優
 
@@ -556,7 +556,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>遊戲《POP TEAM EPIC++》</p></td>
 <td><p>前半</p></td>
 <td><p><a href="../Page/石丸博也.md" title="wikilink">石丸博也</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/水島裕" title="wikilink">水島裕</a></p></td>
+<td><p><a href="../Page/水島裕.md" title="wikilink">水島裕</a></p></td>
 </tr>
 <tr class="even">
 <td><p>後半</p></td>
@@ -644,7 +644,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 </tr>
 <tr class="odd">
 <td><p>前半</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/引坂理繪" title="wikilink">引坂理繪</a></p></td>
+<td><p><a href="../Page/引坂理繪.md" title="wikilink">引坂理繪</a></p></td>
 <td><p>村井雄治</p></td>
 </tr>
 <tr class="even">
@@ -717,8 +717,8 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>幼女</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/久保田梨沙" title="wikilink">久保田梨沙</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/北原沙彌香" title="wikilink">北原沙彌香</a></p></td>
+<td><p><a href="../Page/久保田梨沙.md" title="wikilink">久保田梨沙</a></p></td>
+<td><p><a href="../Page/北原沙彌香.md" title="wikilink">北原沙彌香</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第3話</p></td>
@@ -749,7 +749,7 @@ EPIC》。动画第一话时有出现部分剧情片段和片头曲，之后只�
 <td><p>HellShake矢野</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/田所陽向" title="wikilink">田所陽向</a></p></td>
+<td><p><a href="../Page/田所陽向.md" title="wikilink">田所陽向</a></p></td>
 <td><p>神尾晋一郎</p></td>
 </tr>
 <tr class="odd">
@@ -2173,7 +2173,7 @@ Bansaku neender</p></td>
 </tr>
 <tr class="even">
 <td><p>日本全國</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
+<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV</a></p></td>
 <td><p>2018年1月6日－3月24日</p></td>
 <td><p>星期六 25時00分－25時30分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/網絡電視" title="wikilink">網絡電視</a></p></td>
@@ -2190,7 +2190,7 @@ Bansaku neender</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/東京電視台電視動畫" title="wikilink">東京電視台電視動畫</a></p></td>
+<td><p><a href="../Page/東京電視台電視動畫.md" title="wikilink">東京電視台電視動畫</a></p></td>
 <td><p>星期六 25時00分 更新</p></td>
 <td><p>rowspan="16" </p></td>
 <td></td>

@@ -357,7 +357,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 "加平雪樂高初戀歷史老師"－李忠模、禹雅韓<br />
 "天安浪漫吉他"－黃周明<br />
 "釜山發光辣炒菜"－車炯宗<br />
-"<a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍好朋友</a>"－趙煥智<br />
+"<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍好朋友</a>"－趙煥智<br />
 "大田雞籠山大力水手"－李民觀<br />
 安東市內明星－孫正秀</p></td>
 <td><p>車炯宗<br />
@@ -861,7 +861,7 @@ J陳相孝<br />
 </tr>
 <tr class="even">
 <td><p>特別舞台</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴美靜" title="wikilink">朴美靜</a> &amp; <a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">Seulgi</a>、<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>（<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴美靜" title="wikilink">朴美靜</a> &amp; <a href="../Page/瑟琪.md" title="wikilink">Seulgi</a>、<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>（<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）</p></td>
 <td><p>Dream Girls &amp; <br />
 </p></td>
 <td></td>
@@ -888,7 +888,7 @@ J陳相孝<br />
 (2017年8月13日)<br />
 <small><strong>星際大戰特輯</strong></small></p></td>
 <td><p><a href="../Page/楊姬銀.md" title="wikilink">楊姬銀</a></p></td>
-<td><p><small><a href="../Page/金範洙.md" title="wikilink">金範洙</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、、<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>、<a href="../Page/朴美善.md" title="wikilink">朴美善</a>、<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>（<a href="../Page/孝定.md" title="wikilink">孝定</a>、<a href="https://zh.wikipedia.org/wiki/YooA" title="wikilink">YooA</a>）</small></p></td>
+<td><p><small><a href="../Page/金範洙.md" title="wikilink">金範洙</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、、<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>、<a href="../Page/朴美善.md" title="wikilink">朴美善</a>、<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>（<a href="../Page/孝定.md" title="wikilink">孝定</a>、<a href="../Page/YooA.md" title="wikilink">YooA</a>）</small></p></td>
 <td><p><a href="../Page/金英浩.md" title="wikilink">金英浩</a>、<a href="../Page/黃致列.md" title="wikilink">黃致列</a>、<a href="https://zh.wikipedia.org/wiki/燦多" title="wikilink">燦多</a>（<a href="../Page/B1A4.md" title="wikilink">B1A4</a>）、<a href="../Page/具俊會.md" title="wikilink">JUNE</a>（<a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a>）、<a href="../Page/璉靜.md" title="wikilink">璉靜</a>（<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>）</p></td>
 <td><p>黃致列<br />
 JUNE<br />
@@ -936,7 +936,7 @@ Rosé<br />
 <small><strong>星際大戰特輯</strong></small></p></td>
 <td><p><a href="../Page/Turbo_(韓國男子團體).md" title="wikilink">Turbo</a></p></td>
 <td><p><small>、<a href="../Page/Bada_(歌手).md" title="wikilink">Bada</a>、<a href="../Page/梁耀燮.md" title="wikilink">梁耀燮</a>、、<a href="https://zh.wikipedia.org/wiki/ASTRO" title="wikilink">ASTRO</a>（<a href="../Page/MJ_(ASTRO).md" title="wikilink">MJ</a>、<a href="../Page/朴真祐.md" title="wikilink">JIN JIN</a>、<a href="../Page/車銀優.md" title="wikilink">車銀優</a>、<a href="https://zh.wikipedia.org/wiki/Rocky_(韓國歌手)" title="wikilink">Rocky</a>）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a> &amp; 、<a href="../Page/朴瑟琪.md" title="wikilink">朴瑟琪</a>、<a href="../Page/Jessi.md" title="wikilink">Jessi</a>、<a href="../Page/李洪基.md" title="wikilink">李洪基</a>（<a href="../Page/FTIsland.md" title="wikilink">FTIsland</a>）、<a href="https://zh.wikipedia.org/wiki/Shannon_(韓國歌手)" title="wikilink">Shannon</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sleepy" title="wikilink">Sleepy</a> &amp; 、<a href="../Page/朴瑟琪.md" title="wikilink">朴瑟琪</a>、<a href="../Page/Jessi.md" title="wikilink">Jessi</a>、<a href="../Page/李洪基.md" title="wikilink">李洪基</a>（<a href="../Page/FTIsland.md" title="wikilink">FTIsland</a>）、<a href="../Page/Shannon_(韓國歌手).md" title="wikilink">Shannon</a></p></td>
 <td><p>Jessi<br />
 Sleepy &amp; DinDin<br />
 李洪基</p></td>
@@ -1055,7 +1055,7 @@ Rulia<br />
 </tr>
 <tr class="even">
 <td></td>
-<td><p><small><a href="../Page/金範洙.md" title="wikilink">金範洙</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、、、、<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>（<a href="../Page/孝定.md" title="wikilink">孝定</a>、<a href="https://zh.wikipedia.org/wiki/勝熙" title="wikilink">勝熙</a>、<a href="https://zh.wikipedia.org/wiki/祉呼" title="wikilink">祉呼</a>、<a href="https://zh.wikipedia.org/wiki/Binnie" title="wikilink">Binnie</a>）</small></p></td>
+<td><p><small><a href="../Page/金範洙.md" title="wikilink">金範洙</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、、、、<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>（<a href="../Page/孝定.md" title="wikilink">孝定</a>、<a href="https://zh.wikipedia.org/wiki/勝熙" title="wikilink">勝熙</a>、<a href="../Page/祉呼.md" title="wikilink">祉呼</a>、<a href="https://zh.wikipedia.org/wiki/Binnie" title="wikilink">Binnie</a>）</small></p></td>
 <td><p>"蠶室卡布奇諾紳士"－金勇浩<br />
 "小白山韓牛姑娘"－鄭仁智<br />
 "仁川SWAG鐵皮箱"－金錫根<br />
@@ -1080,7 +1080,7 @@ Rulia<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/安七炫.md" title="wikilink">KANGTA</a> &amp; <a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>（<a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">瑟琪</a>、<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>）</p></td>
+<td><p><a href="../Page/安七炫.md" title="wikilink">KANGTA</a> &amp; <a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>（<a href="../Page/瑟琪.md" title="wikilink">瑟琪</a>、<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>）</p></td>
 <td><p>人偶（인형）</p></td>
 <td></td>
 <td></td>
@@ -1208,7 +1208,7 @@ Yuju</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/孝琳.md" title="wikilink">孝琳</a></p></td>
-<td><p><small>、<a href="../Page/Bada_(歌手).md" title="wikilink">Bada</a>、<a href="../Page/梁耀燮.md" title="wikilink">梁耀燮</a>、<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>、<a href="../Page/朴瑟琪.md" title="wikilink">朴瑟琪</a>、<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>（<a href="https://zh.wikipedia.org/wiki/祉呼" title="wikilink">祉呼</a>、<a href="https://zh.wikipedia.org/wiki/Binnie" title="wikilink">Binnie</a>）</small></p></td>
+<td><p><small>、<a href="../Page/Bada_(歌手).md" title="wikilink">Bada</a>、<a href="../Page/梁耀燮.md" title="wikilink">梁耀燮</a>、<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>、<a href="../Page/朴瑟琪.md" title="wikilink">朴瑟琪</a>、<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>（<a href="../Page/祉呼.md" title="wikilink">祉呼</a>、<a href="https://zh.wikipedia.org/wiki/Binnie" title="wikilink">Binnie</a>）</small></p></td>
 <td><p>"牙山大米富翁"－金勇日<br />
 "論峴洞爸爸料理王"－崔時英<br />
 "新林洞大衛"－朱載宇<br />
@@ -1356,7 +1356,7 @@ A-Yo</p></td>
 <td><p>1：3對決舞台</p></td>
 <td><p>2</p></td>
 <td><p><a href="../Page/李素羅.md" title="wikilink">李素羅</a> &amp; 最終三甲<br />
-"<a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍好朋友</a>"－趙煥智<br />
+"<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍好朋友</a>"－趙煥智<br />
 "大田雞籠山大力水手"－李民觀<br />
 安東市內明星－孫正秀</p></td>
 <td><p>你內心的憂鬱（그대 안의 블루）</p></td>

@@ -18,8 +18,7 @@ Day Good Day》正式出道。
 
 ### 參加 The Unit
 
-2017年10月，其中六位成員參加 [The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")。Lucky
+2017年10月，其中六位成員參加 [The Unit](../Page/The_Unit.md "wikilink")。Lucky
 在第1集被淘汰，但於第4集復活。Genie和彩率在第7集被淘汰。喜珍、Viva和Lucky則在第13集被淘汰。智源在决赛中最终排名第11名，无缘進入出道組。
 
 ## 成員(皆正名)

@@ -1,5 +1,5 @@
 《**劇場版 假面騎士Drive SURPRISE
-FUTURE**》（），是日本特攝節目《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》的獨立劇場版。日本地區於2015年8月8日上映。
+FUTURE**》（），是日本特攝節目《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的獨立劇場版。日本地區於2015年8月8日上映。
 
 此外[超級戰隊系列作品](https://zh.wikipedia.org/wiki/超級戰隊系列 "wikilink")《[手裏劍戰隊忍忍者](../Page/手裏劍戰隊忍忍者.md "wikilink")》劇場版《[手裏劍戰隊忍忍者
 THE MOVIE
@@ -78,7 +78,7 @@ Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chase
   -
     電子物理研究學家，警視廳所外派至特狀課負責技術支援。
 
-**西城究（）**（[濱野謙太飾](https://zh.wikipedia.org/wiki/濱野謙太 "wikilink")）
+**西城究（）**（[濱野謙太飾](../Page/濱野謙太.md "wikilink")）
 
   -
     警視廳外派至特狀課，負責情報搜索的網絡研究家。
@@ -517,14 +517,12 @@ Drive出現！並以壓倒性的力量擊敗假面騎士Mach和假面騎士Chase
   - 古葉進次 - [柳澤慎吾](../Page/柳澤慎吾.md "wikilink") 飾
   - 本願寺純 -  飾
   - 澤神鈴奈 - [吉井怜](../Page/吉井怜.md "wikilink") 飾
-  - 西城究 - [濱野謙太](https://zh.wikipedia.org/wiki/濱野謙太 "wikilink") 飾
+  - 西城究 - [濱野謙太](../Page/濱野謙太.md "wikilink") 飾
   - 追田現八郎 - [井俣太良](../Page/井俣太良.md "wikilink") 飾
   - Heart - [蕨野友也](../Page/蕨野友也.md "wikilink") 飾
   - Brain -  飾
   - Medic - [馬場富美香](https://zh.wikipedia.org/wiki/馬場富美香 "wikilink") 飾
-  - 貨車司機、未來型惡路程式（人類形態） -
-    [塚地武雅](https://zh.wikipedia.org/wiki/塚地武雅 "wikilink")（）、
-    （） 飾/聲
+  - 貨車司機、未來型惡路程式（人類形態） - [塚地武雅](../Page/塚地武雅.md "wikilink")（）、 （） 飾/聲
   - 花咲未来經紀人 -  飾
 
 ## 聲音演出

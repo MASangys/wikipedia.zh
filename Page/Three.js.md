@@ -108,7 +108,7 @@ Hello World.
   - [Google
     Chrome实验项目](https://zh.wikipedia.org/wiki/Google_Chrome实验项目 "wikilink")
   - [WebGL框架列表](https://zh.wikipedia.org/wiki/WebGL框架列表 "wikilink")
-  - [Verge3D](https://zh.wikipedia.org/wiki/Verge3D "wikilink")
+  - [Verge3D](../Page/Verge3D.md "wikilink")
 
 ## 参考文献
 

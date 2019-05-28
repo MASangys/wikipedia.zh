@@ -125,8 +125,8 @@ COMET製作](../Page/STUDIO_COMET.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Princess_Principal" title="wikilink">Princess Principal</a></p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/3Hz" title="wikilink">Studio 3Hz共同製作</a></p></td>
+<td><p><a href="../Page/Princess_Principal.md" title="wikilink">Princess Principal</a></p></td>
+<td><p>與<a href="../Page/3Hz.md" title="wikilink">Studio 3Hz共同製作</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -334,7 +334,7 @@ COMET製作](../Page/STUDIO_COMET.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/夕陽染紅的坡道" title="wikilink">夕陽染紅的坡道</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TNK" title="wikilink">TNK</a></p></td>
+<td><p><a href="../Page/TNK.md" title="wikilink">TNK</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -454,7 +454,7 @@ COMET製作](../Page/STUDIO_COMET.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/超級機器人大戰OG_-The_Inspector-" title="wikilink">超級機器人大戰OG -The Inspector-</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/旭Production" title="wikilink">旭Production</a></p></td>
+<td><p><a href="../Page/旭Production.md" title="wikilink">旭Production</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -496,7 +496,7 @@ COMET製作](../Page/STUDIO_COMET.md "wikilink")。
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/女王之刃_(動畫).md" title="wikilink">女王之刃</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Arms" title="wikilink">Arms</a></p></td>
+<td><p><a href="../Page/Arms.md" title="wikilink">Arms</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -513,7 +513,7 @@ COMET製作](../Page/STUDIO_COMET.md "wikilink")。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/眼鏡部！" title="wikilink">眼鏡部！</a></p></td>
+<td><p><a href="../Page/眼鏡部！.md" title="wikilink">眼鏡部！</a></p></td>
 <td><p><a href="../Page/STUDIO_DEEN.md" title="wikilink">STUDIO DEEN</a></p></td>
 <td></td>
 <td></td>
@@ -521,7 +521,7 @@ COMET製作](../Page/STUDIO_COMET.md "wikilink")。
 <tr class="odd">
 <td><p>2014年</p></td>
 <td><p><a href="../Page/鬼燈的冷徹.md" title="wikilink">鬼燈的冷徹</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/WIT_STUDIO" title="wikilink">WIT STUDIO</a></p></td>
+<td><p><a href="../Page/WIT_STUDIO.md" title="wikilink">WIT STUDIO</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

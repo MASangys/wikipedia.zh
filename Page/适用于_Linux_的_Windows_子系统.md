@@ -1,7 +1,6 @@
 **适用于 Linux 的 Windows 子系统**（，简称**WSL**）是一个为在[Windows
-10和](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Windows
-Server
-2019上能够原生运行](https://zh.wikipedia.org/wiki/Windows_Server_2019 "wikilink")[Linux二进制可执行文件](../Page/Linux.md "wikilink")（[ELF格式](../Page/可執行與可鏈接格式.md "wikilink")）的[兼容层](../Page/兼容层.md "wikilink")。
+10和](../Page/Windows_10.md "wikilink")[Windows Server
+2019上能够原生运行](../Page/Windows_Server_2019.md "wikilink")[Linux二进制可执行文件](../Page/Linux.md "wikilink")（[ELF格式](../Page/可執行與可鏈接格式.md "wikilink")）的[兼容层](../Page/兼容层.md "wikilink")。
 
 ## 概览
 
@@ -55,7 +54,7 @@ Service**是负责与子系统交互的服务（通过*[驱动程序](../Page/�
 可以通过在Windows（主机）环境（例如VcXsrv或[Xming](https://zh.wikipedia.org/wiki/Xming "wikilink")）\[25\]中安装[X窗口系统来运行一些图形](https://zh.wikipedia.org/wiki/X窗口系统 "wikilink")（GUI）应用程序（例如Mozilla
 [Firefox](../Page/Firefox.md "wikilink")），尽管并非没有警告，例如缺乏音频支持或硬件加速（导致图形性能不佳）。目前还没有实施对[OpenCL和](../Page/OpenCL.md "wikilink")[CUDA的支持](../Page/CUDA.md "wikilink")，尽管计划在将来的版本中使用。\[26\]\[27\]
 
-也就是说，微软明确指出**WSL**面向应用程序的开发者，而不是面向桌面环境或生产服务器，建议使用[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")（[Hyper-V或](https://zh.wikipedia.org/wiki/Hyper-V "wikilink")[Kubernetes](https://zh.wikipedia.org/wiki/Kubernetes "wikilink")）和[Azure来实现这些目的](../Page/Microsoft_Azure.md "wikilink")。\[28\]
+也就是说，微软明确指出**WSL**面向应用程序的开发者，而不是面向桌面环境或生产服务器，建议使用[虚拟机](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")（[Hyper-V或](https://zh.wikipedia.org/wiki/Hyper-V "wikilink")[Kubernetes](../Page/Kubernetes.md "wikilink")）和[Azure来实现这些目的](../Page/Microsoft_Azure.md "wikilink")。\[28\]
 
 ### 性能
 
@@ -78,7 +77,7 @@ Synaptic.png|运行于WSL中的[Synaptic](https://zh.wikipedia.org/wiki/Synaptic
   - [Cygwin](../Page/Cygwin.md "wikilink")
   - [FreeBSD的Linux兼容层](../Page/FreeBSD.md "wikilink")
   - [万圣节文件](../Page/万圣节文件.md "wikilink")
-  - [SmartOS](https://zh.wikipedia.org/wiki/SmartOS "wikilink")
+  - [SmartOS](../Page/SmartOS.md "wikilink")
   - [Interix](https://zh.wikipedia.org/wiki/Interix "wikilink")
   - [Wine](../Page/Wine.md "wikilink")
   - [Xenix](../Page/Xenix.md "wikilink")

@@ -6,7 +6,7 @@ NICE）〉。成員圓佑則因急性胃炎靜養，未參與重裝版宣傳。\
 
 一般版以兩版本發售，分別為Love版與Letter版。
 
-重新包裝版由成員[WOOZI負責製作](https://zh.wikipedia.org/wiki/李知勳_\(SEVENTEEN\) "wikilink")\[5\]，主打曲〈VERY
+重新包裝版由成員[WOOZI負責製作](../Page/李知勳_\(SEVENTEEN\).md "wikilink")\[5\]，主打曲〈VERY
 NICE（非常
 NICE）〉描述男生與心儀對象度過美好一天，心情非常「Nice」的情感。音樂錄影帶則以視覺感官表現出「和心儀的異性對視心臟就像要爆炸一樣緊張心動」的情緒\[6\]。重裝版中的部分曲目已公開過，如〈NO
 F.U.N〉曾在SEVENTEEN的出道實境節目《SEVENTEEN PROJECT：Debut Big Plan》中演出。\[7\]

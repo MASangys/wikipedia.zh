@@ -12,7 +12,7 @@
 
   -
     主演：[小田切讓](https://zh.wikipedia.org/wiki/小田切讓 "wikilink")
-    劇本：[石井裕也](https://zh.wikipedia.org/wiki/石井裕也 "wikilink")、登米裕一
+    劇本：[石井裕也](../Page/石井裕也.md "wikilink")、登米裕一
     原作協力：《うちのネコが訴えられました\!? - 実録ネコ裁判-》
 
 #### 2016年
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - 10月20日－：**[廚師警部的晚餐會](https://zh.wikipedia.org/wiki/廚師警部的晚餐會 "wikilink")**（）
+  - 10月20日－：**[廚師警部的晚餐會](../Page/廚師警部的晚餐會.md "wikilink")**（）
 
 <!-- end list -->
 
@@ -63,7 +63,7 @@
 
 #### 2017年
 
-  - 1月19日－3月23日：**[出租愛情](https://zh.wikipedia.org/wiki/出租愛情 "wikilink")**（）
+  - 1月19日－3月23日：**[出租愛情](../Page/出租愛情.md "wikilink")**（）
 
 <!-- end list -->
 

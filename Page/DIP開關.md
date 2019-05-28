@@ -31,7 +31,7 @@ DIP開關廣泛的用在[工业标准结构](../Page/工业标准结构.md "wiki
 
 自1990年以後的[消費電子產品](../Page/消費電子產品.md "wikilink")，較少用到DIP開關。原因包括產品體積縮小的趨勢、透過[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")[選單設定產品組態比較簡單](../Page/選單.md "wikilink")、再加上[非揮發性記憶體的降價等原因](../Page/非揮發性記憶體.md "wikilink")。不過在工業產品中仍經常使用DIP開關，主要原因是價格便宜、容易和電路整合、而且可以在斷電時就進行設定。
 
-在一些[遙控設備上仍然會有DIP開關可以設定](../Page/遙控.md "wikilink")，以避免不同設備之間出現干擾。例如控制[吊扇及](https://zh.wikipedia.org/wiki/吊扇 "wikilink")[燈具的遙控器](https://zh.wikipedia.org/wiki/燈具 "wikilink")。遙控器上面會有DIP開關可以針對不同发送器/接收器設定不同的[射頻](../Page/射頻.md "wikilink")，因此可在同一間房屋內的不同房間各自使用遙控器，而不會出現未預期的互相干擾情形。
+在一些[遙控設備上仍然會有DIP開關可以設定](../Page/遙控.md "wikilink")，以避免不同設備之間出現干擾。例如控制[吊扇及](../Page/吊扇.md "wikilink")[燈具的遙控器](https://zh.wikipedia.org/wiki/燈具 "wikilink")。遙控器上面會有DIP開關可以針對不同发送器/接收器設定不同的[射頻](../Page/射頻.md "wikilink")，因此可在同一間房屋內的不同房間各自使用遙控器，而不會出現未預期的互相干擾情形。
 
 在[智慧家庭設備中](../Page/智慧家庭.md "wikilink")，也常用來設定家庭、房間或是設備編號。旋轉開關也用在一些[发送器](https://zh.wikipedia.org/wiki/发送器 "wikilink")（特別是[VHF及](https://zh.wikipedia.org/wiki/甚高頻 "wikilink")[FM廣播发送器中](../Page/调频广播.md "wikilink")），來設定[壓控振盪器的](../Page/壓控振盪器.md "wikilink")（決定[载波的](https://zh.wikipedia.org/wiki/载波 "wikilink")[中心频率](https://zh.wikipedia.org/wiki/中心频率 "wikilink")）。
 

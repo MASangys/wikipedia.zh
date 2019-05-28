@@ -38,7 +38,7 @@ Me》是一首[另類搖滾歌曲](https://zh.wikipedia.org/wiki/另類搖滾 "w
 ## 在其他媒體中
 
 該曲為電視劇《[超人前傳](https://zh.wikipedia.org/wiki/超人前傳 "wikilink")》的片頭曲\[9\]\[10\]\[11\]。除了擔任片頭曲外，《Save
-Me》還經在《超人前傳》[第一季的劇集](https://zh.wikipedia.org/wiki/超人前傳_\(第一季\) "wikilink")《[暴風雨](https://zh.wikipedia.org/wiki/暴風雨_\(超人前傳\) "wikilink")》的舞會場景中親自現身演唱\[12\]。
+Me》還經在《超人前傳》[第一季的劇集](https://zh.wikipedia.org/wiki/超人前傳_\(第一季\) "wikilink")《[暴風雨](../Page/暴風雨_\(超人前傳\).md "wikilink")》的舞會場景中親自現身演唱\[12\]。
 
 ## 參考資料
 

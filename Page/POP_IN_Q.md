@@ -106,7 +106,7 @@ IN族。
 ## 製作
 
 本電影由首次擔任導演的[宮原直樹負責執導](../Page/宮原直樹.md "wikilink")，宮原過去參與了[《光之美少女》系列的舞蹈動畫製作](../Page/光之美少女系列.md "wikilink")\[9\]。人物原案由曾製作《[世界征服
-謀略之星](https://zh.wikipedia.org/wiki/世界征服_謀略之星 "wikilink")》的[黑星紅白擔任](../Page/黑星紅白.md "wikilink")\[10\]，負責人物設定及[總作畫監督的是參與過](https://zh.wikipedia.org/wiki/作畫監督 "wikilink")《[大雄的秘密道具博物館](../Page/大雄的秘密道具博物館.md "wikilink")》的[浦上貴之](https://zh.wikipedia.org/wiki/浦上貴之 "wikilink")\[11\]。原作由[東堂泉擔任](../Page/東堂泉.md "wikilink")，負責劇本，音樂則由[Team-MAX的](https://zh.wikipedia.org/wiki/Team-MAX "wikilink")和[片山修志擔任](https://zh.wikipedia.org/wiki/片山修志 "wikilink")\[12\]。從事企劃及製作的[松井俊之建議觀眾注意女主角們的成長與變化](https://zh.wikipedia.org/wiki/松井俊之 "wikilink")，而擔任製作人的[金丸裕則提到作品中](https://zh.wikipedia.org/wiki/金丸裕 "wikilink")「時之谷」的形象除了來自宮原導演繪製的概念圖，也來自美術設定[坂本信人的創意](https://zh.wikipedia.org/wiki/坂本信人 "wikilink")\[13\]。動畫由迎接創立60週年的[東映動畫製作](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")\[14\]，電影則由[東映發行](../Page/東映.md "wikilink")\[15\]。
+謀略之星](../Page/世界征服_謀略之星.md "wikilink")》的[黑星紅白擔任](../Page/黑星紅白.md "wikilink")\[10\]，負責人物設定及[總作畫監督的是參與過](https://zh.wikipedia.org/wiki/作畫監督 "wikilink")《[大雄的秘密道具博物館](../Page/大雄的秘密道具博物館.md "wikilink")》的[浦上貴之](https://zh.wikipedia.org/wiki/浦上貴之 "wikilink")\[11\]。原作由[東堂泉擔任](../Page/東堂泉.md "wikilink")，負責劇本，音樂則由[Team-MAX的](https://zh.wikipedia.org/wiki/Team-MAX "wikilink")和[片山修志擔任](https://zh.wikipedia.org/wiki/片山修志 "wikilink")\[12\]。從事企劃及製作的[松井俊之建議觀眾注意女主角們的成長與變化](https://zh.wikipedia.org/wiki/松井俊之 "wikilink")，而擔任製作人的[金丸裕則提到作品中](https://zh.wikipedia.org/wiki/金丸裕 "wikilink")「時之谷」的形象除了來自宮原導演繪製的概念圖，也來自美術設定[坂本信人的創意](https://zh.wikipedia.org/wiki/坂本信人 "wikilink")\[13\]。動畫由迎接創立60週年的[東映動畫製作](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")\[14\]，電影則由[東映發行](../Page/東映.md "wikilink")\[15\]。
 
 ## 歌曲
 

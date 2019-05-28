@@ -1,5 +1,5 @@
 “[Who's
-Next](https://zh.wikipedia.org/wiki/Who's_Next "wikilink")”是英国摇滚乐队[谁人乐队的第五张录音室专辑](../Page/谁人乐队.md "wikilink")。它发展自一个由乐队成员[皮特·汤申德创作的作为乐队](../Page/皮特·汤申德.md "wikilink")1969年的专辑的多媒体摇滚歌剧项目，由于乐队与乐队经理人Kit
+Next](../Page/Who's_Next.md "wikilink")”是英国摇滚乐队[谁人乐队的第五张录音室专辑](../Page/谁人乐队.md "wikilink")。它发展自一个由乐队成员[皮特·汤申德创作的作为乐队](../Page/皮特·汤申德.md "wikilink")1969年的专辑的多媒体摇滚歌剧项目，由于乐队与乐队经理人Kit
 Lambert错综复杂的关系，该项目被取消了，但皮特·汤申德被说服录制其中一些歌曲作为通俗的专辑。
 
 谁人乐队录制这张专辑受到录音师Glyn Johns的帮助。在滚石移动录音室录制“Won't Get Fooled

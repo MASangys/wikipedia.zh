@@ -183,7 +183,7 @@ Record、[東芝EMI](../Page/EMI音樂日本.md "wikilink")（現在2家都已�
   - [亂馬½
     熱鬥篇](https://zh.wikipedia.org/wiki/亂馬½ "wikilink")（出道單曲《[彩虹和太陽的山丘](../Page/彩虹和太陽的山丘.md "wikilink")》的商業搭配動畫）
   - [Brian the
-    Sun](https://zh.wikipedia.org/wiki/Brian_the_Sun "wikilink")（piapi前夫的兒子、森良太擔任主唱的樂團）
+    Sun](../Page/Brian_the_Sun.md "wikilink")（piapi前夫的兒子、森良太擔任主唱的樂團）
 
 ## 外部連結
 

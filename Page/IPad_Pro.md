@@ -152,8 +152,8 @@ Fusion 六核处理器，性能與桌上型電腦相当；第三代采用A12X Bi
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |處理器</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A9X" title="wikilink">Apple A9X</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A10X" title="wikilink">Apple A10X</a></p></td>
+<td><p><a href="../Page/Apple_A9X.md" title="wikilink">Apple A9X</a></p></td>
+<td><p><a href="../Page/Apple_A10X.md" title="wikilink">Apple A10X</a></p></td>
 <td></td>
 <td></td>
 </tr>

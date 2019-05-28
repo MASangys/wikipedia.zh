@@ -18,7 +18,7 @@ OS X El Capitan包含许多功能来增强OS X的设计和可用性，同时包�
 
 OS X El
 Capitan引入了将两个窗口并排显示的支持，只需点击并按住一个窗口的全屏按钮，并拖动到屏幕的左侧或右侧。随后软件建议将相关应用显示在另一侧。这类似于[Windows
-10中的辅助功能](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。\[3\]El
+10中的辅助功能](../Page/Windows_10.md "wikilink")。\[3\]El
 Capitan还增加了一个全新的[Mission
 Control](../Page/Mission_Control.md "wikilink")，它更精简、有条理，有助于分散和组织多个桌面上的许多窗口。
 

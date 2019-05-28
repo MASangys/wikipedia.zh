@@ -1,5 +1,5 @@
 《**ALL
-OUT\!\!**》（）是[雨瀨栞的](https://zh.wikipedia.org/wiki/雨瀨栞 "wikilink")[橄欖球題材](../Page/橄欖球.md "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
+OUT\!\!**》（）是[雨瀨栞的](../Page/雨瀨栞.md "wikilink")[橄欖球題材](../Page/橄欖球.md "wikilink")[日本](../Page/日本.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")。
 
 ## 概要
 
@@ -188,7 +188,7 @@ OUT\!\!**》（）是[雨瀨栞的](https://zh.wikipedia.org/wiki/雨瀨栞 "wik
 
 ### 單行本
 
-  - [雨瀨栞](https://zh.wikipedia.org/wiki/雨瀨栞 "wikilink")《ALL
+  - [雨瀨栞](../Page/雨瀨栞.md "wikilink")《ALL
     OUT\!\!》，[日本](../Page/日本.md "wikilink")[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")〈KC
     Morning〉發行，截至2019年1月，已經發行15冊。另外2016年2月發行的特裝版第1冊與第8冊有附贈廣播劇CD。
 
@@ -307,11 +307,11 @@ MX](../Page/東京都會電視台.md "wikilink")、[MBS](../Page/每日放送.md
 
 ### 製作人員
 
-  - 原作：[雨瀨栞](https://zh.wikipedia.org/wiki/雨瀨栞 "wikilink")
-  - 導演：[清水健一](https://zh.wikipedia.org/wiki/清水健一 "wikilink")
+  - 原作：[雨瀨栞](../Page/雨瀨栞.md "wikilink")
+  - 導演：[清水健一](../Page/清水健一.md "wikilink")
   - 副導演：牛嶋新一郎
   - 劇本統籌：[橫谷昌宏](../Page/橫谷昌宏.md "wikilink")
-  - 劇本：橫谷昌宏、[入江信吾](https://zh.wikipedia.org/wiki/入江信吾 "wikilink")
+  - 劇本：橫谷昌宏、[入江信吾](../Page/入江信吾.md "wikilink")
   - 人物設定：筱雅律
   - 動作作畫監督：菅野芳弘
   - 美術監督：西倉力
@@ -379,7 +379,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[MBS](../Page/每日放送.md
 <td></td>
 <td><p>今年的一年生很有趣</p></td>
 <td><p><a href="../Page/橫谷昌宏.md" title="wikilink">橫谷昌宏</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/清水健一" title="wikilink">清水健一</a></p></td>
+<td><p><a href="../Page/清水健一.md" title="wikilink">清水健一</a></p></td>
 <td><p>牛嶋新一郎</p></td>
 <td><p>翁長久美子</p></td>
 </tr>
@@ -387,7 +387,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[MBS](../Page/每日放送.md
 <td><p>第2話</p></td>
 <td></td>
 <td><p>我想擒抱</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/入江信吾" title="wikilink">入江信吾</a></p></td>
+<td><p><a href="../Page/入江信吾.md" title="wikilink">入江信吾</a></p></td>
 <td><p>牛嶋新一郎</p></td>
 <td><p>關大</p></td>
 <td><p>Chang Young Sik、Lee Juhyeon<br />
@@ -407,7 +407,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[MBS](../Page/每日放送.md
 <td><p>第4話</p></td>
 <td></td>
 <td><p>到底我應該幹什麼?</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/澤井幸次" title="wikilink">澤井幸次</a></p></td>
+<td><p><a href="../Page/澤井幸次.md" title="wikilink">澤井幸次</a></p></td>
 <td><p>中尾高之、針場裕子</p></td>
 <td></td>
 <td></td>
@@ -418,7 +418,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[MBS](../Page/每日放送.md
 <td><p>不足之處</p></td>
 <td><p>入江信吾</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/又野弘道" title="wikilink">又野弘道</a></p></td>
+<td><p><a href="../Page/又野弘道.md" title="wikilink">又野弘道</a></p></td>
 <td><p>小山知洋</p></td>
 </tr>
 <tr class="even">

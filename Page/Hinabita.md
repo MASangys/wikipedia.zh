@@ -114,13 +114,13 @@ Sweets♪》由[科樂美數位娛樂發行的專輯](../Page/科樂美數位娛
       -
         （作詞・作曲：[ササキトモコ](https://zh.wikipedia.org/wiki/ササキトモコ "wikilink")）
         山形茉莉花的主題曲。『[pop'n
-        music](https://zh.wikipedia.org/wiki/流行音乐_\(游戏\) "wikilink")』系列中的名稱是「スイーツポップ」。
+        music](../Page/流行音乐_\(游戏\).md "wikilink")』系列中的名稱是「スイーツポップ」。
 2.  伊芙的時代！(イブの時代っ\!)
       -
         （作詞：[末永茉己](https://zh.wikipedia.org/wiki/末永茉己 "wikilink")、作曲：[藤田淳平](../Page/藤田淳平.md "wikilink")([Elements
         Garden](../Page/Elements_Garden.md "wikilink"))）
         和泉一舞的主題曲。『『[pop'n
-        music](https://zh.wikipedia.org/wiki/流行音乐_\(游戏\) "wikilink")』系列中的名稱是「ハイテンションギャルロック」。
+        music](../Page/流行音乐_\(游戏\).md "wikilink")』系列中的名稱是「ハイテンションギャルロック」。
 3.  芽兔芽兔平坦坦！！(めうめうぺったんたん\!\!)
       -
         （作詞：[夕野ヨシミ](https://zh.wikipedia.org/wiki/夕野ヨシミ "wikilink")([IOSYS](../Page/IOSYS.md "wikilink"))、作曲：[ARM](https://zh.wikipedia.org/wiki/ARM_\(作曲家\) "wikilink")(IOSYS)）

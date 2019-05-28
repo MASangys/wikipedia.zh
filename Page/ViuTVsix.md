@@ -10,7 +10,7 @@
 [香港電視娛樂根據獲發免費電視牌照時的規定](../Page/香港電視娛樂.md "wikilink")，須於2017年3月31日或以前提供一條綜合英語頻道。
 
 港娛於2016年10月11日舉辦2017年節目發布會，並於10月23日在節目巡禮[ViuTV
-2017公佈英文台名稱為ViuTVsix](https://zh.wikipedia.org/wiki/ViuTV_2017 "wikilink")，台號為96。據ViuTV新聞稿所述，取名ViuTVsix的原因為「連繫世界上的陌生人，只需要六道橋樑：六，是連繫世界的秘密數字，是無限大的代名詞」。
+2017公佈英文台名稱為ViuTVsix](../Page/ViuTV_2017.md "wikilink")，台號為96。據ViuTV新聞稿所述，取名ViuTVsix的原因為「連繫世界上的陌生人，只需要六道橋樑：六，是連繫世界的秘密數字，是無限大的代名詞」。
 
 ### 開台前改以高清廣播
 
@@ -63,7 +63,7 @@ AVC格式編碼](https://zh.wikipedia.org/wiki/H.264/MPEG-4_AVC "wikilink")，[1
 ### 新聞、時事及財經
 
 節目以新聞資訊連接世界為目標，每日有三至四小時新聞內容，包括與[路透社合力製作每日播放的](../Page/路透社.md "wikilink")《[ViuTV
-News](https://zh.wikipedia.org/wiki/News_Roundup_\(ViuTVsix\) "wikilink")》和每周播放的《Weekly
+News](../Page/News_Roundup_\(ViuTVsix\).md "wikilink")》和每周播放的《Weekly
 Re-Viu》\[5\]，以及每个工作日轉播的[半島電視台英語頻道](../Page/半島電視台英語頻道.md "wikilink")、[德國之聲及](https://zh.wikipedia.org/wiki/德國之聲 "wikilink")[NHK
 World
 TV等新闻節目](https://zh.wikipedia.org/wiki/NHK_World_TV "wikilink")，为观众提供香港及世界各地的要闻大事。\[6\]另亦有播出[美國廣播公司ABC](https://zh.wikipedia.org/wiki/美國廣播公司 "wikilink")

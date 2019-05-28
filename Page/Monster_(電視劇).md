@@ -1,4 +1,4 @@
-《**Monster**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年3月28日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")。由《[百年遺產](../Page/百年遺產.md "wikilink")》、《[湔雪的魔女](https://zh.wikipedia.org/wiki/湔雪的魔女 "wikilink")》[朱成宇导演和](https://zh.wikipedia.org/wiki/朱成宇 "wikilink")《[Giant](https://zh.wikipedia.org/wiki/Giant "wikilink")》、《[奇皇后](../Page/奇皇后_\(電視劇\).md "wikilink")》[張英哲](../Page/張英哲.md "wikilink")、[鄭景順作家攜手合作](../Page/鄭景順_\(編劇\).md "wikilink")。講述深受姨父陷害的男人在各種困境中，最終收穫愛情的故事。\[1\]
+《**Monster**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年3月28日起播出的[月火連續劇](../Page/MBC月火連續劇.md "wikilink")。由《[百年遺產](../Page/百年遺產.md "wikilink")》、《[湔雪的魔女](../Page/湔雪的魔女.md "wikilink")》[朱成宇导演和](https://zh.wikipedia.org/wiki/朱成宇 "wikilink")《[Giant](https://zh.wikipedia.org/wiki/Giant "wikilink")》、《[奇皇后](../Page/奇皇后_\(電視劇\).md "wikilink")》[張英哲](../Page/張英哲.md "wikilink")、[鄭景順作家攜手合作](../Page/鄭景順_\(編劇\).md "wikilink")。講述深受姨父陷害的男人在各種困境中，最終收穫愛情的故事。\[1\]
 
 ## 演員陣容
 
@@ -231,7 +231,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳藝瑟" title="wikilink">陳藝瑟</a></p></td>
+<td><p><a href="../Page/陳藝瑟.md" title="wikilink">陳藝瑟</a></p></td>
 <td></td>
 <td><p>都道社員</p></td>
 <td></td>
@@ -273,7 +273,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/周錫泰" title="wikilink">周錫泰</a></p></td>
+<td><p><a href="../Page/周錫泰.md" title="wikilink">周錫泰</a></p></td>
 <td><p>姜律師</p></td>
 <td></td>
 <td></td>

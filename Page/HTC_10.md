@@ -1,9 +1,9 @@
 **HTC
 10**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2016年開發的新一代旗艦級[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，運行[Android
-8.0.0操作系统](https://zh.wikipedia.org/wiki/Android_Oreo "wikilink")（出廠版本為[Android
+8.0.0操作系统](../Page/Android_Oreo.md "wikilink")（出廠版本為[Android
 6.0.1](../Page/Android_Marshmallow.md "wikilink")），競爭對手為[Samsung Galaxy
 S7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S7 "wikilink")、[LG
-G5](https://zh.wikipedia.org/wiki/LG_G5 "wikilink")、[Sony Xperia X
+G5](../Page/LG_G5.md "wikilink")、[Sony Xperia X
 Performance](../Page/Sony_Xperia_X_Performance.md "wikilink")、[Huawei
 P9](https://zh.wikipedia.org/wiki/Huawei_P9 "wikilink")。
 
@@ -33,7 +33,7 @@ P9](https://zh.wikipedia.org/wiki/Huawei_P9 "wikilink")。
 </tr>
 <tr class="even">
 <td><p>系統</p></td>
-<td><p>colspan 1 | <a href="https://zh.wikipedia.org/wiki/Android_Oreo" title="wikilink">Android 8.0.0</a>(出廠版本為<a href="../Page/Android_Marshmallow.md" title="wikilink">Android 6.0.1</a>)</p></td>
+<td><p>colspan 1 | <a href="../Page/Android_Oreo.md" title="wikilink">Android 8.0.0</a>(出廠版本為<a href="../Page/Android_Marshmallow.md" title="wikilink">Android 6.0.1</a>)</p></td>
 <td><p><a href="../Page/Android_Marshmallow.md" title="wikilink">Android 6.0.1</a></p></td>
 </tr>
 <tr class="odd">

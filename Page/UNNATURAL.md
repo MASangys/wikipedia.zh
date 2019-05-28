@@ -1,4 +1,4 @@
-《**Unnatural**》（，）是日本[TBS電視台](../Page/TBS電視台.md "wikilink")2018年1月12日至3月16日於[週五連續劇時段播出的電視劇](../Page/TBS週五連續劇.md "wikilink")，由[石原聰美主演](../Page/石原聰美.md "wikilink")\[1\]，編劇為[野木亞紀子](https://zh.wikipedia.org/wiki/野木亞紀子 "wikilink")\[2\]。
+《**Unnatural**》（，）是日本[TBS電視台](../Page/TBS電視台.md "wikilink")2018年1月12日至3月16日於[週五連續劇時段播出的電視劇](../Page/TBS週五連續劇.md "wikilink")，由[石原聰美主演](../Page/石原聰美.md "wikilink")\[1\]，編劇為[野木亞紀子](../Page/野木亞紀子.md "wikilink")\[2\]。
 台灣在[KKTV於每週日](../Page/KKTV.md "wikilink")24:00提供台灣正體字幕且與日本同步進行當週網路連載\[3\]，而[bilibili則於每週三提供僅限台灣IP觀看的簡體字幕版本](https://zh.wikipedia.org/wiki/bilibili "wikilink")\[4\]；香港於[myTV
 SUPER緊貼日本更新](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")\[5\]；中国大陆自4月25日16:00起在bilibili开始播出\[6\]。電視方面，台灣由[緯來日本台自](../Page/緯來日本台.md "wikilink")2018年5月15日起于晚間23:15播映。
 
@@ -75,7 +75,7 @@ SUPER緊貼日本更新](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")\[5
 </tr>
 <tr class="odd">
 <td><p>神倉保夫 (55)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松重豐" title="wikilink">松重豐</a></p></td>
+<td><p><a href="../Page/松重豐.md" title="wikilink">松重豐</a></p></td>
 <td><p><a href="../Page/朱子聰.md" title="wikilink">朱子聰</a></p></td>
 <td><p>UDI Lab的所長，前<a href="https://zh.wikipedia.org/wiki/厚生劳动省" title="wikilink">厚生劳动省高官</a>。<br />
 目標是將UDI Lab擴展到全日本，及國內所有非自然死亡之死者的解剖率能夠上升。<br />
@@ -221,7 +221,7 @@ UDI的財源主要來自政府補助金，隨時可能關門大吉，但他並�
 <tr class="odd">
 <td><p>松戸</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄧志堅" title="wikilink">鄧志堅</a></p></td>
+<td><p><a href="../Page/鄧志堅.md" title="wikilink">鄧志堅</a></p></td>
 <td><p>高野島渡的上司。</p></td>
 </tr>
 <tr class="even">
@@ -537,7 +537,7 @@ UDI的財源主要來自政府補助金，隨時可能關門大吉，但他並�
 <tr class="even">
 <td><p>鈴木果步</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/葉曉欣" title="wikilink">葉曉欣</a></p></td>
+<td><p><a href="../Page/葉曉欣.md" title="wikilink">葉曉欣</a></p></td>
 <td><p>巧的戀人，死者。</p></td>
 </tr>
 <tr class="odd">
@@ -581,7 +581,7 @@ UDI的財源主要來自政府補助金，隨時可能關門大吉，但他並�
 <tr class="even">
 <td><p>權田原登</p></td>
 <td><p><a href="../Page/岩永洋昭.md" title="wikilink">岩永洋昭</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄧志堅" title="wikilink">鄧志堅</a></p></td>
+<td><p><a href="../Page/鄧志堅.md" title="wikilink">鄧志堅</a></p></td>
 <td><p>事件的被害者。</p></td>
 </tr>
 <tr class="odd">
@@ -655,12 +655,12 @@ UDI的財源主要來自政府補助金，隨時可能關門大吉，但他並�
 <tr class="odd">
 <td><p>小池颯太 (16)</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林筠翔" title="wikilink">林筠翔</a></p></td>
+<td><p><a href="../Page/林筠翔.md" title="wikilink">林筠翔</a></p></td>
 <td><p>翠川高等學校1年級A組學生。</p></td>
 </tr>
 <tr class="even">
 <td><p>苑乃 (16)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/森高愛" title="wikilink">森高愛</a></p></td>
+<td><p><a href="../Page/森高愛.md" title="wikilink">森高愛</a></p></td>
 <td><p><a href="../Page/何寶珊.md" title="wikilink">何寶珊</a></p></td>
 <td><p>翠川高等學校1年級A組學生，班級委員。</p></td>
 </tr>
@@ -1058,7 +1058,7 @@ UDI的財源主要來自政府補助金，隨時可能關門大吉，但他並�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/第96回日劇學院賞" title="wikilink">第96回日劇學院賞</a></p></td>
+<td><p><a href="../Page/第96回日劇學院賞.md" title="wikilink">第96回日劇學院賞</a></p></td>
 <td><p>作品賞</p></td>
 <td><p>UNNATURAL</p></td>
 <td></td>

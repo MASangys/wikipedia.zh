@@ -1,4 +1,4 @@
-**(G)I-DLE**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Cube娛樂旗下的六人](../Page/Cube娛樂.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，於2018年5月2日出道，由[美延](https://zh.wikipedia.org/wiki/赵美延 "wikilink")、[Minnie](https://zh.wikipedia.org/wiki/Minnie "wikilink")、[穗珍](https://zh.wikipedia.org/wiki/徐穗珍 "wikilink")、[小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")、[雨琦以及](https://zh.wikipedia.org/wiki/宋雨琦 "wikilink")[舒華所组成](https://zh.wikipedia.org/wiki/葉舒華 "wikilink")，並由[小娟擔任隊長](https://zh.wikipedia.org/wiki/田小娟 "wikilink")。
+**(G)I-DLE**（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Cube娛樂旗下的六人](../Page/Cube娛樂.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，於2018年5月2日出道，由[美延](../Page/赵美延.md "wikilink")、[Minnie](../Page/Minnie.md "wikilink")、[穗珍](../Page/徐穗珍.md "wikilink")、[小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")、[雨琦以及](../Page/宋雨琦.md "wikilink")[舒華所组成](../Page/葉舒華.md "wikilink")，並由[小娟擔任隊長](https://zh.wikipedia.org/wiki/田小娟 "wikilink")。
 
 ## 團體資料
 
@@ -29,23 +29,23 @@ Live直播選出，意思是童話[彼得潘裡的虛構之島](../Page/彼得�
 <td><p>漢字</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/赵美延" title="wikilink">美延</a><br />
+<td><p><a href="../Page/赵美延.md" title="wikilink">美延</a><br />
 [6][7]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/徐穗珍" title="wikilink">穗珍</a></p></td>
+<td><p><a href="../Page/徐穗珍.md" title="wikilink">穗珍</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">小娟</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/宋雨琦" title="wikilink">雨琦</a></p></td>
+<td><p><a href="../Page/宋雨琦.md" title="wikilink">雨琦</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉舒華" title="wikilink">舒華</a></p></td>
+<td><p><a href="../Page/葉舒華.md" title="wikilink">舒華</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -76,8 +76,8 @@ Love》Cover。
 
 曾於[Modern
 K實用音樂學院學習唱歌](https://zh.wikipedia.org/wiki/Modern_K實用音樂學院 "wikilink")\[24\]，於舞蹈學院學習跳舞，並考進韓國藝術高中。2015年，曾是DN娛樂旗下女團VIVIDIVA(비비디바)的預備成員，以藝名N.NA參與出道前活動，但她和成員KANA於出道前離開，該團現已解散。\[25\]\[26\]\[27\]高中三年級時，參加Cube面試，表演是唱[BoA](../Page/寶兒.md "wikilink")《No.1》，跳[Red
-Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")《Dumb
-Dumb》舞蹈。2016年進入Cube。 \[28\]\[29\]
+Velvet](../Page/Red_Velvet.md "wikilink")《Dumb Dumb》舞蹈。2016年進入Cube。
+\[28\]\[29\]
 
 **田小娟**
 
@@ -112,20 +112,20 @@ Cosmetics 代言。
 **迷你一輯《I am》、初一位**
 
 5月2日，韓國時間下午6點，公開首張迷你專輯《[I
-am](https://zh.wikipedia.org/wiki/I_am "wikilink")》全輯音源及主打《LATATA》，並於同日舉行出道Showcase，正式出道。\[52\]
+am](../Page/I_am.md "wikilink")》全輯音源及主打《LATATA》，並於同日舉行出道Showcase，正式出道。\[52\]
 5月6日，出道曲《LATATA》首度進入音源榜Melon100名之內。\[53\]
 同日在音樂節目《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》播放出道舞台後，隨即登上Naver
 TV Top100播放量第一名。5月9日，出道曲《LATATA》在美國、英國、法國、澳洲、比利時、加拿大、德國⋯⋯等 11 個國家的
 iTunes 韓國流行音樂榜上都奪下了第一名。\[54\]
 
 5月10日，出道專輯《[I
-am](https://zh.wikipedia.org/wiki/I_am "wikilink")》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第七名。\[55\]
+am](../Page/I_am.md "wikilink")》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第七名。\[55\]
 5月15日，登頂美國iTunes的K-Pop榜第一名。\[56\]5月16日，宣傳期間首度登上《[Show
 Champion](../Page/Show_Champion.md "wikilink")》的一位候補。
 5月17日，主打歌《LATATA》MV點閱數突破1000萬。\[57\]
 
 5月18日，《[I
-am](https://zh.wikipedia.org/wiki/I_am "wikilink")》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第五名，並連續兩週停留在[Billboard世界專輯榜前十名](../Page/公告牌音乐奖.md "wikilink")。\[58\]
+am](../Page/I_am.md "wikilink")》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第五名，並連續兩週停留在[Billboard世界專輯榜前十名](../Page/公告牌音乐奖.md "wikilink")。\[58\]
 
 5月22日，出道僅20天即在音樂節目《[THE
 SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")》奪下出道後首個一位。\[59\]5月24日、29日接連取得一位，宣傳期間獲得三個一位。\[60\]\[61\]
@@ -175,7 +175,7 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 
 ### 迷你专辑
 
-  - 2018年: 《[I am](https://zh.wikipedia.org/wiki/I_am "wikilink")》
+  - 2018年: 《[I am](../Page/I_am.md "wikilink")》
   - 2019年: 《[I made](../Page/I_made.md "wikilink")》
 
 ### 个人单曲
@@ -290,7 +290,7 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 <td><p>2018年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/I_am" title="wikilink">I am</a></p></td>
+<td><p><a href="../Page/I_am.md" title="wikilink">I am</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

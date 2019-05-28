@@ -732,7 +732,7 @@ Performance）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/艾米·舒默.md" title="wikilink">艾米·舒默</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姐就是美" title="wikilink">姐就是美</a></p></td>
+<td><p><a href="../Page/姐就是美.md" title="wikilink">姐就是美</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

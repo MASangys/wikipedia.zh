@@ -1,8 +1,7 @@
 **三星 Galaxy A5 (2016)**
 是由[三星電子製造的一款](../Page/三星電子.md "wikilink")[Android](../Page/Android.md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")\[1\]\[2\]，於2015年12月2日推出，同時推出的還有[三星Galaxy
-A3
-(2016)](https://zh.wikipedia.org/wiki/三星Galaxy_A3_\(2016\) "wikilink")，[三星Galaxy
-A7 (2016)和](../Page/三星Galaxy_A7_\(2016\).md "wikilink")[三星Galaxy A9
+A3 (2016)](../Page/三星Galaxy_A3_\(2016\).md "wikilink")，[三星Galaxy A7
+(2016)和](../Page/三星Galaxy_A7_\(2016\).md "wikilink")[三星Galaxy A9
 (2016)](../Page/三星Galaxy_A9.md "wikilink")。
 
 這台智慧型手機搭載了Exynos 7580

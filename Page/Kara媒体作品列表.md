@@ -100,7 +100,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/來了！張寶利" title="wikilink">來了！張寶利</a></p></td>
+<td><p><a href="../Page/來了！張寶利.md" title="wikilink">來了！張寶利</a></p></td>
 <td><p>李秋天</p></td>
 <td><p>配角</p></td>
 <td></td>
@@ -124,7 +124,7 @@ Melly<br />
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Drama_Festival" title="wikilink">Drama Festival</a>－<a href="https://zh.wikipedia.org/wiki/Drama_Festival#第二季" title="wikilink">吉他與熱褲</a></p></td>
+<td><p><a href="../Page/Drama_Festival.md" title="wikilink">Drama Festival</a>－<a href="https://zh.wikipedia.org/wiki/Drama_Festival#第二季" title="wikilink">吉他與熱褲</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/昇延" title="wikilink">昇延</a></p></td>
 <td><p>安娜</p></td>
 <td><p>女主角</p></td>
@@ -132,7 +132,7 @@ Melly<br />
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/沒關係，是愛情啊" title="wikilink">沒關係，是愛情啊</a></p></td>
+<td><p><a href="../Page/沒關係，是愛情啊.md" title="wikilink">沒關係，是愛情啊</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/荷拉" title="wikilink">荷拉</a></p></td>
 <td><p>粉絲</p></td>
 <td><p>客串</p></td>

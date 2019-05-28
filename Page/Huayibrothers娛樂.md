@@ -1,12 +1,12 @@
 **Huayi Brothers
-Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，成立於2004年12月30日。當前旗下藝人包括[金允錫](../Page/金允錫.md "wikilink")、[周元](../Page/周元_\(韓國\).md "wikilink")、[林智妍](https://zh.wikipedia.org/wiki/林智妍 "wikilink")、[姜星等多名演員](../Page/姜星.md "wikilink")，Sim娛樂於2016年初接受中國[華誼兄弟](https://zh.wikipedia.org/wiki/華誼兄弟 "wikilink")200多億韓元的投資，5月份正式更名華誼兄弟娛樂。\[1\]
+Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")，成立於2004年12月30日。當前旗下藝人包括[金允錫](../Page/金允錫.md "wikilink")、[周元](../Page/周元_\(韓國\).md "wikilink")、[林智妍](../Page/林智妍.md "wikilink")、[姜星等多名演員](../Page/姜星.md "wikilink")，Sim娛樂於2016年初接受中國[華誼兄弟](https://zh.wikipedia.org/wiki/華誼兄弟 "wikilink")200多億韓元的投資，5月份正式更名華誼兄弟娛樂。\[1\]
 
 ## 旗下藝人
 
   - [金允錫](../Page/金允錫.md "wikilink")
   - [金相浩](../Page/金相浩.md "wikilink")
   - [朱鎮模](../Page/朱鎮模_\(1958年\).md "wikilink")
-  - [柳海真](https://zh.wikipedia.org/wiki/柳海真 "wikilink")
+  - [柳海真](../Page/柳海真.md "wikilink")
   - [金英雄](../Page/金英雄.md "wikilink")
   - [柳承穆](../Page/柳承穆.md "wikilink")
   - [金盛吳](../Page/金盛吳.md "wikilink")
@@ -27,24 +27,24 @@ Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikili
   - [吳賢慶](../Page/吳賢慶.md "wikilink")
   - [金諪恩](https://zh.wikipedia.org/wiki/金諪恩 "wikilink")
   - [李多熙](https://zh.wikipedia.org/wiki/李多熙 "wikilink")
-  - [吉海妍](https://zh.wikipedia.org/wiki/吉海妍 "wikilink")
+  - [吉海妍](../Page/吉海妍.md "wikilink")
   - [金玉彬](../Page/金玉彬.md "wikilink")
   - [朴恩智](../Page/朴恩智_\(演員\).md "wikilink")
   - [吳妍兒](https://zh.wikipedia.org/wiki/吳妍兒 "wikilink")
   - [金珠賢](../Page/金珠賢.md "wikilink")
-  - [河戀姝](https://zh.wikipedia.org/wiki/河戀姝 "wikilink")
+  - [河戀姝](../Page/河戀姝.md "wikilink")
   - [黃雨瑟惠](../Page/黃雨瑟惠.md "wikilink")
   - [李是英](../Page/李是英.md "wikilink")
   - [姜星](../Page/姜星.md "wikilink")
   - [韓善伙](../Page/韓善伙.md "wikilink")
   - [李文貞](../Page/李文貞.md "wikilink")
   - [全秀珍](../Page/全秀珍.md "wikilink")
-  - [林智妍](https://zh.wikipedia.org/wiki/林智妍 "wikilink")
+  - [林智妍](../Page/林智妍.md "wikilink")
   - [裴珉廷](https://zh.wikipedia.org/wiki/裴珉廷 "wikilink")
   - [朴詩婉](https://zh.wikipedia.org/wiki/朴詩婉 "wikilink")
   - [朴慧秀](../Page/朴慧秀.md "wikilink")
   - [鄭多彬](../Page/鄭多彬_\(2000年\).md "wikilink")
-  - [蔡舒辰](https://zh.wikipedia.org/wiki/蔡舒辰 "wikilink")
+  - [蔡舒辰](../Page/蔡舒辰.md "wikilink")
   - [李秀雄](https://zh.wikipedia.org/wiki/李秀雄 "wikilink")
 
 ## 旗下脫離的藝人
@@ -79,8 +79,8 @@ Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikili
     [every1](../Page/MBC_Plus_Media.md "wikilink") 《》
   - 2016年：[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[好運羅曼史](../Page/好運羅曼史.md "wikilink")》
   - 2017年：[SBS](../Page/SBS_\(韓國\).md "wikilink")《[我的野蠻女友](../Page/我的野蠻女友_\(韓國電視劇\).md "wikilink")》
-  - 2017年：[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[君主－假面的主人](https://zh.wikipedia.org/wiki/君主－假面的主人 "wikilink")》
-  - 2017年：[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[20世紀少男少女](https://zh.wikipedia.org/wiki/20世紀少男少女 "wikilink")》
+  - 2017年：[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[君主－假面的主人](../Page/君主－假面的主人.md "wikilink")》
+  - 2017年：[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[20世紀少男少女](../Page/20世紀少男少女.md "wikilink")》
 
 ## 外部連結
 

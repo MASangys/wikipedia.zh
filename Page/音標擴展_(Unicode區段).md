@@ -299,8 +299,7 @@
   - [Unicode中的音標符號](https://zh.wikipedia.org/wiki/Unicode中的音標符號 "wikilink")
   - [Unicode中的西里爾字母](../Page/Unicode中的西里爾字母.md "wikilink")
   - [Unicode中的拉丁字母](../Page/Unicode中的拉丁字母.md "wikilink")
-  - [音標擴展補充
-    (Unicode區段)](https://zh.wikipedia.org/wiki/音標擴展補充_\(Unicode區段\) "wikilink")
+  - [音標擴展補充 (Unicode區段)](../Page/音標擴展補充_\(Unicode區段\).md "wikilink")
 
 ## 參考資料
 

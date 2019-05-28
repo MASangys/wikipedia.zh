@@ -11,11 +11,11 @@ DNSCrypt可以使用UDP端口或TCP端口。尽管与[HTTPS完全不同](https:/
 
 DNSCrypt客户端必须明确信任所选提供者的[公钥](https://zh.wikipedia.org/wiki/公钥 "wikilink")，而不依赖于常规[浏览器中使用的](https://zh.wikipedia.org/wiki/浏览器 "wikilink")[证书颁发机构](../Page/证书颁发机构.md "wikilink")。
 
-公钥将用于验证一整套以传统DNS查询接收的证书。这些证书包含用于[密钥交换的短期公钥](https://zh.wikipedia.org/wiki/密钥交换 "wikilink")，以及即将使用的密码本标识符。客户端被鼓励为每次查询新建密钥，而服务器被鼓励为每24小时更换短期密钥对。
+公钥将用于验证一整套以传统DNS查询接收的证书。这些证书包含用于[密钥交换的短期公钥](../Page/密钥交换.md "wikilink")，以及即将使用的密码本标识符。客户端被鼓励为每次查询新建密钥，而服务器被鼓励为每24小时更换短期密钥对。
 
 查询与回应都使用同一算法加密，并使用64字节的倍数填充来防止泄漏封包大小。当使用UDP端口且回应多于查询产生的数据量时，服务器可以使用标记TC（，截短）位元的短封包回应。客户端此时应使用TCP端口重试，并增加后续查询的填充量。
 
-该协议的第一、第二版采用X25519算法（[Curve25519](https://zh.wikipedia.org/wiki/Curve25519 "wikilink")）进行密钥交换，算法进行签名，以及使用[XSalsa20](../Page/Salsa20.md "wikilink")-或[XChaCha20](https://zh.wikipedia.org/wiki/ChaCha20 "wikilink")-Poly1305算法认证加密。
+该协议的第一、第二版采用X25519算法（[Curve25519](../Page/Curve25519.md "wikilink")）进行密钥交换，算法进行签名，以及使用[XSalsa20](../Page/Salsa20.md "wikilink")-或[XChaCha20](https://zh.wikipedia.org/wiki/ChaCha20 "wikilink")-Poly1305算法认证加密。
 
 ## 基于公钥的客户端认证
 
@@ -43,7 +43,7 @@ DNS](../Page/Google_Public_DNS.md "wikilink")），所有部署DNSCrypt的DNS伺
 ### 客户端
 
 DNSCrypt-Proxy
-v1/v2、Pcap_DNSProxy、YourFriendlyDNS是[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")、[命令列界面的客户端程式](https://zh.wikipedia.org/wiki/命令列 "wikilink")，起到將本機或區域網路內的DNS請求加密轉發至部署了DNSCrypt的伺服器之功用。其中DNSCrypt-Proxy的v2版還支援[DoH](https://zh.wikipedia.org/wiki/DNS_over_HTTPS "wikilink")、[DoT](https://zh.wikipedia.org/wiki/DNS_over_TLS "wikilink")，還可以實現類似[dnsmasq的DNS指定轉發](https://zh.wikipedia.org/wiki/dnsmasq "wikilink")、黑名單及白名單、[hosts特性](https://zh.wikipedia.org/wiki/hosts "wikilink")；Pcap_DNSProxy額外支援[DNSSEC](https://zh.wikipedia.org/wiki/DNSSEC "wikilink")。\[11\]\[12\]\[13\]\[14\]
+v1/v2、Pcap_DNSProxy、YourFriendlyDNS是[跨平台](https://zh.wikipedia.org/wiki/跨平台 "wikilink")、[命令列界面的客户端程式](https://zh.wikipedia.org/wiki/命令列 "wikilink")，起到將本機或區域網路內的DNS請求加密轉發至部署了DNSCrypt的伺服器之功用。其中DNSCrypt-Proxy的v2版還支援[DoH](../Page/DNS_over_HTTPS.md "wikilink")、[DoT](../Page/DNS_over_TLS.md "wikilink")，還可以實現類似[dnsmasq的DNS指定轉發](https://zh.wikipedia.org/wiki/dnsmasq "wikilink")、黑名單及白名單、[hosts特性](https://zh.wikipedia.org/wiki/hosts "wikilink")；Pcap_DNSProxy額外支援[DNSSEC](https://zh.wikipedia.org/wiki/DNSSEC "wikilink")。\[11\]\[12\]\[13\]\[14\]
 
 [Simple
 DNSCrypt](https://simplednscrypt.org)是一個[圖形界面](https://zh.wikipedia.org/wiki/图形界面 "wikilink")、基建於DNSCrypt-Proxy的[前端](https://zh.wikipedia.org/wiki/前端 "wikilink")，運行於Windows作業系統。\[15\]也有類似的實作專案，如macOS的dnscrypt-osx-client等。\[16\]
@@ -52,12 +52,10 @@ Yandex則在其[自家的瀏覽器產品上內建了自有的DNSCrypt客户端�
 
 ## 参见
 
-  - [Curve25519](https://zh.wikipedia.org/wiki/Curve25519 "wikilink")
+  - [Curve25519](../Page/Curve25519.md "wikilink")
   - [DNSCurve](../Page/DNSCurve.md "wikilink")
-  - [DNS over
-    HTTPS](https://zh.wikipedia.org/wiki/DNS_over_HTTPS "wikilink")（DoH）
-  - [DNS over
-    TLS](https://zh.wikipedia.org/wiki/DNS_over_TLS "wikilink")（DoT）
+  - [DNS over HTTPS](../Page/DNS_over_HTTPS.md "wikilink")（DoH）
+  - [DNS over TLS](../Page/DNS_over_TLS.md "wikilink")（DoT）
   - [域名系统安全扩展](../Page/域名系统安全扩展.md "wikilink")（DNSSEC）
   - [椭圆曲线密码学](../Page/椭圆曲线密码学.md "wikilink")
 

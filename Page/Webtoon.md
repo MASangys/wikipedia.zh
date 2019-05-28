@@ -1,4 +1,4 @@
-**Webtoon**（）是一種始創於[韓國的新概念](https://zh.wikipedia.org/wiki/韓國 "wikilink")[網絡漫畫](https://zh.wikipedia.org/wiki/網絡漫畫 "wikilink")，由「**Web**（網絡）」及「Car**toon**（漫畫、卡通）」組成，只需向上下滑動就能閱讀，不需翻頁，是一種專為[電腦及](https://zh.wikipedia.org/wiki/電腦 "wikilink")[行動裝置而設的漫畫](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]
+**Webtoon**（）是一種始創於[韓國的新概念](https://zh.wikipedia.org/wiki/韓國 "wikilink")[網絡漫畫](../Page/網絡漫畫.md "wikilink")，由「**Web**（網絡）」及「Car**toon**（漫畫、卡通）」組成，只需向上下滑動就能閱讀，不需翻頁，是一種專為[電腦及](https://zh.wikipedia.org/wiki/電腦 "wikilink")[行動裝置而設的漫畫](https://zh.wikipedia.org/wiki/行動裝置 "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]
 
 [Daum於](https://zh.wikipedia.org/wiki/Daum "wikilink")2003年創立Daum
 Webtoon平台，隨後[NAVER也於](../Page/NAVER.md "wikilink")2004年創立Naver
@@ -75,7 +75,7 @@ OSMU的例子：
 </tbody>
 </table>
 
-韩国著名[搜索引擎NAVER於](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")2004年推出LINE
+韩国著名[搜索引擎NAVER於](../Page/搜索引擎.md "wikilink")2004年推出LINE
 Webtoon服務，現時擁有韓國最大的Webtoon市場。根據NAVER官方統計，韓國每天有620萬人使用LINE
 Webtoon服務，振興了韓國漫畫業。這已成為一個新的文化現象，不少NAVER
 Webtoon都被改編成電影、電視劇及推出文具等各種商品。2014年前，Webtoon只有韓文版本，少量Webtoon被愛好者翻譯成中文及英文，但由於並非官方翻譯，翻譯質素良莠不齊。由於Webtoon在海外也開始有名氣，2014年7月，NAVER挑選了42部熱門Webtoon（其中包括大貴族、高校之神及神之塔），由其附屬公司[LINE翻譯成中文及英文](../Page/LINE_\(公司\).md "wikilink")，並於LINE

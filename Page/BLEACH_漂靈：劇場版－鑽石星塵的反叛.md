@@ -38,7 +38,7 @@
 | '''[阿散井戀次](../Page/阿散井戀次.md "wikilink")                                      | [伊藤健太郎](https://zh.wikipedia.org/wiki/伊藤健太郎 "wikilink") |
 | '''[伊勢七緒](https://zh.wikipedia.org/wiki/護廷十三隊#一番隊（總番隊） "wikilink")           | [生天目仁美](../Page/生天目仁美.md "wikilink")                    |
 | '''[檜佐木修兵](https://zh.wikipedia.org/wiki/護廷十三隊#九番隊（牢獄隊） "wikilink")          | [小西克幸](../Page/小西克幸.md "wikilink")                      |
-| '''[松本亂菊](https://zh.wikipedia.org/wiki/護廷十三隊#十番隊（巡邏警備隊） "wikilink")         | [松谷彼哉](https://zh.wikipedia.org/wiki/松谷彼哉 "wikilink")   |
+| '''[松本亂菊](https://zh.wikipedia.org/wiki/護廷十三隊#十番隊（巡邏警備隊） "wikilink")         | [松谷彼哉](../Page/松谷彼哉.md "wikilink")                      |
 | '''[斑目一角](https://zh.wikipedia.org/wiki/護廷十三隊#十一番隊（戰鬥專屬隊） "wikilink")        | [檜山修之](../Page/檜山修之.md "wikilink")                      |
 | '''[綾瀬川弓親](https://zh.wikipedia.org/wiki/護廷十三隊#十一番隊（戰鬥專屬隊） "wikilink")       | [福山潤](../Page/福山潤.md "wikilink")                        |
 | '''[石田雨龍](../Page/石田雨龍.md "wikilink")                                        | [杉山紀彰](../Page/杉山紀彰.md "wikilink")                      |
@@ -70,7 +70,7 @@
 <!-- end list -->
 
   - 作詞、作曲：山口隆
-  - 主唱：[Sambomaster](https://zh.wikipedia.org/wiki/Sambomaster "wikilink")
+  - 主唱：[Sambomaster](../Page/Sambomaster.md "wikilink")
 
 ## 外部連結
 

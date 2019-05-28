@@ -3,7 +3,7 @@
 2PM於2008年以《》出道，憑2009年單曲〈Again &
 Again〉正式打開知名度。在隊長[朴載範因爭議事件離開後](../Page/朴載範.md "wikilink")，其餘成員也從固定節目中下車\[1\]。2009年9月，2PM以6人之姿攜正規專輯《[01:59PM](https://zh.wikipedia.org/wiki/01:59PM "wikilink")》重返歌壇，主打曲為〈Heartbeast〉，此次回歸空降多個專輯榜與單曲榜冠軍\[2\]，同時獲得\[3\]。隔年，2PM發行單曲《[Don't
 Stop Can't
-Stop](https://zh.wikipedia.org/wiki/Don't_Stop_Can't_Stop "wikilink")》及迷你專輯《》，均取得韓國[Gaon
+Stop](../Page/Don't_Stop_Can't_Stop.md "wikilink")》及迷你專輯《》，均取得韓國[Gaon
 Chart冠軍](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")。此外儘管專輯並未於美國當地宣傳，《Still
 02:00PM》仍在2010年11月1日登上[告示牌世界專輯榜第](https://zh.wikipedia.org/wiki/告示牌世界專輯榜 "wikilink")13名。\[4\]
 
@@ -13,7 +13,7 @@ Lover》是2PM於日本的首支認證單曲，包括出道單曲在內共三首
 
 2012年，2PM一共在日本發行三張單曲，包括《》、與2AM合作的《》以及《》，前兩者均取得排行榜第2名並收錄於2013年的日語專輯《[Legend
 of
-2PM](https://zh.wikipedia.org/wiki/LEGEND_OF_2PM "wikilink")》，此張專輯空降Oricon專輯榜冠軍。第三張韓語正規專輯《》取得多國榜單成績，包括日本排名第10、韓國冠軍，以及告示牌世界專輯榜第6名，是告示牌紀錄中的最高成績。2PM隨後發行兩張日語單曲《》及《》，後者是2PM在日的首支冠軍單曲；兩支單曲均收錄於2014年的日語專輯《》。2PM第四張韓語專輯《[瘋了嗎？](https://zh.wikipedia.org/wiki/瘋了嗎？ "wikilink")》是唯一未在Gaon
+2PM](https://zh.wikipedia.org/wiki/LEGEND_OF_2PM "wikilink")》，此張專輯空降Oricon專輯榜冠軍。第三張韓語正規專輯《》取得多國榜單成績，包括日本排名第10、韓國冠軍，以及告示牌世界專輯榜第6名，是告示牌紀錄中的最高成績。2PM隨後發行兩張日語單曲《》及《》，後者是2PM在日的首支冠軍單曲；兩支單曲均收錄於2014年的日語專輯《》。2PM第四張韓語專輯《[瘋了嗎？](../Page/瘋了嗎？.md "wikilink")》是唯一未在Gaon
 Chart取得冠軍的作品，僅名列第三。《瘋了嗎？》日語版本則在Oricon取得第二名成績。
 
 第四張日語專輯《[2PM OF
@@ -122,7 +122,7 @@ Be)》日語版本單曲在日發行後則在Oricon中取得第二名。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/瘋了嗎？" title="wikilink">瘋了嗎？</a></p></td>
+<td><p><a href="../Page/瘋了嗎？.md" title="wikilink">瘋了嗎？</a></p></td>
 <td><ul>
 <li>日期：2014年9月15日</li>
 <li>廠牌：JYP娛樂、KT Music</li>
@@ -467,7 +467,7 @@ Be)》日語版本單曲在日發行後則在Oricon中取得第二名。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Don&#39;t_Stop_Can&#39;t_Stop" title="wikilink">Don't Stop Can't Stop</a></p></td>
+<td><p><a href="../Page/Don&#39;t_Stop_Can&#39;t_Stop.md" title="wikilink">Don't Stop Can't Stop</a></p></td>
 <td><p>2010年</p></td>
 <td><p>1</p></td>
 <td><p>－</p></td>
@@ -1274,7 +1274,7 @@ Be)》日語版本單曲在日發行後則在Oricon中取得第二名。
 
 ## 參見
 
-  - [2PM錄像作品列表](https://zh.wikipedia.org/wiki/2PM錄像作品列表 "wikilink")
+  - [2PM錄像作品列表](../Page/2PM錄像作品列表.md "wikilink")
 
 ## 腳註
 

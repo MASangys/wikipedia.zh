@@ -31,7 +31,7 @@
 | '''[朽木白哉](../Page/朽木白哉.md "wikilink")                                 | [置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")                    |
 | '''[日番谷冬獅郎](../Page/日番谷冬獅郎.md "wikilink")                             | [朴璐美](../Page/朴璐美.md "wikilink")                        |
 | '''[浮竹十四郎](https://zh.wikipedia.org/wiki/浮竹十四郎 "wikilink")            | [石川英郎](../Page/石川英郎.md "wikilink")                      |
-| '''[松本亂菊](https://zh.wikipedia.org/wiki/護廷十三隊#十番隊（巡邏警備隊） "wikilink")  | [松谷彼哉](https://zh.wikipedia.org/wiki/松谷彼哉 "wikilink")   |
+| '''[松本亂菊](https://zh.wikipedia.org/wiki/護廷十三隊#十番隊（巡邏警備隊） "wikilink")  | [松谷彼哉](../Page/松谷彼哉.md "wikilink")                      |
 | '''[淺野啟吾](https://zh.wikipedia.org/wiki/BLEACH角色列表#空座第一高中 "wikilink") | [小西克幸](../Page/小西克幸.md "wikilink")                      |
 | '''[小島水色](https://zh.wikipedia.org/wiki/BLEACH角色列表#空座第一高中 "wikilink") | [福山潤](../Page/福山潤.md "wikilink")                        |
 | '''其他配音員                                                              | [坂巻学](https://zh.wikipedia.org/wiki/坂巻学 "wikilink")     |

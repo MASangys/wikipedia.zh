@@ -4,7 +4,7 @@ Dunk**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS�
 節目中更推出限定女子組合[UNNIES](../Page/Unnies.md "wikilink")，在2016年7月發行單曲專輯《Shut
 up》。
 
-2016年8月18日，製作組發出官方聲明：因主持之一的[Tiffany在snapchat上發佈了有日本軍旗圖樣的照片](https://zh.wikipedia.org/wiki/黃美英 "wikilink")，雖事發當下有緊急刪除有爭議圖片並於在instagram發表親筆道歉聲明，然對於國民情緒造成巨大影響，因此商議後決定讓其退出節目，同時節目暫時沒有追加成員的計畫，將以五人體制繼續進行\[1\]，替任隊長為[Jessi](https://zh.wikipedia.org/wiki/Jessi "wikilink")。
+2016年8月18日，製作組發出官方聲明：因主持之一的[Tiffany在snapchat上發佈了有日本軍旗圖樣的照片](https://zh.wikipedia.org/wiki/黃美英 "wikilink")，雖事發當下有緊急刪除有爭議圖片並於在instagram發表親筆道歉聲明，然對於國民情緒造成巨大影響，因此商議後決定讓其退出節目，同時節目暫時沒有追加成員的計畫，將以五人體制繼續進行\[1\]，替任隊長為[Jessi](../Page/Jessi.md "wikilink")。
 
 [KBS2於](../Page/KBS第2频道.md "wikilink")2017年1月17日表示第二季成員已決定，除了第一季決定續留之[金淑](../Page/金淑.md "wikilink")、[洪真慶之外](../Page/洪真慶.md "wikilink")，將加入[強藝元](../Page/強藝元.md "wikilink")、[韓彩英](../Page/韓彩英.md "wikilink")、[洪真英](../Page/洪真英.md "wikilink")、[孔旻智](../Page/孔旻智.md "wikilink")、[全昭彌等人](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")\[2\]，第二季在1月27日開始錄影，預計將於2017年2月中播出。因為在第一季的《Unnies初登場舞台》大受歡迎，第二季會以推出女團為主軸，而實現各成員夢想成為副環節。\[3\]製作單位於2017年2月8日公佈第二季之預告\[4\]。並於同年2月10日正式啟播，逢[韓國時間星期五晚上](https://zh.wikipedia.org/wiki/韓國 "wikilink")11時10分播放。2017年5月12日中午12時公開第二季的主打曲《對嗎？》與《啦啦啦頌》，同時將以出道曲《對嗎？
 》出演音樂節目《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》。2017年5月15日，全體成員履行音源榜冠軍公約：於韓國國內離各自家中最近，也穿越[漢江流域的大橋上穿韓服跳舞](../Page/漢江_\(韓國\).md "wikilink")30分鐘。節目於同年5月26完結\[5\]。
@@ -50,7 +50,7 @@ up》。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a><br />
+<td><p><a href="../Page/Jessi.md" title="wikilink">Jessi</a><br />
 <small>（）</small></p></td>
 <td><p>歌手、Rapper</p></td>
 <td></td>
@@ -243,7 +243,7 @@ up》。
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2016年4月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a>、<a href="https://zh.wikipedia.org/wiki/曹世鎬" title="wikilink">曹世鎬</a></p></td>
+<td><p><a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a>、<a href="https://zh.wikipedia.org/wiki/曹世鎬" title="wikilink">曹世鎬</a></p></td>
 <td><p><strong>旅遊巴士司機訓練</strong><br />
 金淑和Jessi實戰練習，先用貨車練習手動擋，再學習駕駛大型巴士；邀請隊購買駕駛服裝；與模範駕駛導師<a href="https://zh.wikipedia.org/wiki/曹世鎬" title="wikilink">曹世鎬一起進行交通安全知識競賽</a>，競賽第一名獲得飛鏢機會。</p></td>
 </tr>
@@ -377,14 +377,14 @@ Jessi舉行假想婚禮；真慶夢想公開、訴抗癌經歷</p></td>
 <tr class="odd">
 <td><p>21</p></td>
 <td><p>2016年9月9日</p></td>
-<td><p><a href="../Page/張鎮_(韓國導演).md" title="wikilink">张镇</a>、<a href="https://zh.wikipedia.org/wiki/柳炳宰" title="wikilink">柳炳宰</a>、<a href="../Page/朴徽淳.md" title="wikilink">朴徽淳</a>、金賢雅、<a href="../Page/金軟景.md" title="wikilink">金軟景</a></p></td>
+<td><p><a href="../Page/張鎮_(韓國導演).md" title="wikilink">张镇</a>、<a href="../Page/柳炳宰.md" title="wikilink">柳炳宰</a>、<a href="../Page/朴徽淳.md" title="wikilink">朴徽淳</a>、金賢雅、<a href="../Page/金軟景.md" title="wikilink">金軟景</a></p></td>
 <td><p><strong>尋找《洪真慶show》的主題</strong><br />
 聘請張鎮為《洪真慶show》PD；孝琳向柳炳宰咨詢主意；美蘭、Jessi前往四柱咖啡廳詢問節目的可能性；金淑至KBS資料室觀看脫口秀影片，意外看到青澀時期的<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="../Page/裴勇浚.md" title="wikilink">裴勇浚</a>；與張鎮決定節目主題；金賢雅的口才訓練；排球選手金軟景的夢想 (Tiffany自本集起不參與節目)</p></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
 <td><p>2016年9月16日</p></td>
-<td><p><a href="../Page/金軟景.md" title="wikilink">金軟景</a>、<a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a>、、<a href="../Page/黃連珠.md" title="wikilink">黃連珠</a>、金秀智、<a href="../Page/梁孝真.md" title="wikilink">梁孝真</a></p></td>
+<td><p><a href="../Page/金軟景.md" title="wikilink">金軟景</a>、<a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>、、<a href="../Page/黃連珠.md" title="wikilink">黃連珠</a>、金秀智、<a href="../Page/梁孝真.md" title="wikilink">梁孝真</a></p></td>
 <td><p><strong>姐姐們變身hip-hop風</strong><br />
 特別夢想幫主金軟景講述排球經歷；李尚敏幫姐姐們打扮；DinDin教freestyle RAP；金軟景與姐姐們成至親；金軟景隊友現身爆料</p></td>
 </tr>
@@ -417,7 +417,7 @@ Jessi舉行假想婚禮；真慶夢想公開、訴抗癌經歷</p></td>
 <tr class="even">
 <td><p>26</p></td>
 <td><p>2016年10月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張鎮" title="wikilink">張鎮</a>、<a href="../Page/安聖基.md" title="wikilink">安聖基</a>、<a href="https://zh.wikipedia.org/wiki/金民教" title="wikilink">金民教</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張鎮" title="wikilink">張鎮</a>、<a href="../Page/安聖基.md" title="wikilink">安聖基</a>、<a href="../Page/金民教.md" title="wikilink">金民教</a></p></td>
 <td><p><strong>最後一代夢想幫主</strong><br />
 節目組宣布羅美蘭為最後一代夢想幫主，與洪真慶的夢想並行。羅美蘭訴說過去無名時期的艱困人生和家庭生活。夢想是，花光剩下的251萬5千夢想幫費。<br />
 經<a href="../Page/安聖基.md" title="wikilink">安聖基的說明後</a>，若洪真慶的夢想短片品質優良，可參選國際短片電影節特別項目。<br />
@@ -520,8 +520,8 @@ Jessi的第一次演戲，笑果不斷。張鎮導演下海客串漁夫。</p></
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2017年3月3日</p></td>
-<td><p>Matthew Douma、Evelyn Douma、（前女團S.O.S成員，現為主持人、心理諮詢師）、<a href="https://zh.wikipedia.org/wiki/李連福" title="wikilink">李連福</a>（知名中式料理主廚、Douma家鄰居和世交）、<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>、<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a> （<a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a> 缺席）、<a href="../Page/李相侖.md" title="wikilink">李相侖</a>（電話聯繫）、<a href="https://zh.wikipedia.org/wiki/金亨碩_(製作人)" title="wikilink">金亨碩</a>、<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>（作詞人）</p></td>
-<td><p><a href="../Page/邁爾斯-布里格斯性格分類法.md" title="wikilink">MBTI 性格測驗</a>、聽新曲導唱、編歌詞、編團隊問候語；利特、Red Velvet 透露出道前後要克服的問題，包括<a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">瑟琪和</a><a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy聲帶生繭的問題</a>，和幫助強藝元克服康復後對唱歌的恐懼。</p></td>
+<td><p>Matthew Douma、Evelyn Douma、（前女團S.O.S成員，現為主持人、心理諮詢師）、<a href="../Page/李連福.md" title="wikilink">李連福</a>（知名中式料理主廚、Douma家鄰居和世交）、<a href="../Page/利特.md" title="wikilink">利特</a>、<a href="../Page/許卿煥.md" title="wikilink">許卿煥</a>、<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a> （<a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a> 缺席）、<a href="../Page/李相侖.md" title="wikilink">李相侖</a>（電話聯繫）、<a href="https://zh.wikipedia.org/wiki/金亨碩_(製作人)" title="wikilink">金亨碩</a>、<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>（作詞人）</p></td>
+<td><p><a href="../Page/邁爾斯-布里格斯性格分類法.md" title="wikilink">MBTI 性格測驗</a>、聽新曲導唱、編歌詞、編團隊問候語；利特、Red Velvet 透露出道前後要克服的問題，包括<a href="../Page/瑟琪.md" title="wikilink">瑟琪和</a><a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy聲帶生繭的問題</a>，和幫助強藝元克服康復後對唱歌的恐懼。</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
@@ -568,14 +568,14 @@ Jessi的第一次演戲，笑果不斷。張鎮導演下海客串漁夫。</p></
 <tr class="even">
 <td><p>12</p></td>
 <td><p>2017年4月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a> （第一代 <a href="../Page/Unnies.md" title="wikilink">Unnies</a> 主Rapper，洪真英私人導師）、<a href="../Page/Defconn.md" title="wikilink">Defconn</a>、金亨碩、張真英、韓元鐘、金花英、雙奎</p></td>
-<td><p>出演《<a href="https://zh.wikipedia.org/wiki/1_VS_100" title="wikilink">1 vs. 100</a>》,以賺取MV製作資金，《對嗎？（맞지？）》第三次正式錄音，饒舌部分和饒舌擔當揭曉。</p></td>
+<td><p><a href="../Page/Jessi.md" title="wikilink">Jessi</a> （第一代 <a href="../Page/Unnies.md" title="wikilink">Unnies</a> 主Rapper，洪真英私人導師）、<a href="../Page/Defconn.md" title="wikilink">Defconn</a>、金亨碩、張真英、韓元鐘、金花英、雙奎</p></td>
+<td><p>出演《<a href="../Page/1_VS_100.md" title="wikilink">1 vs. 100</a>》,以賺取MV製作資金，《對嗎？（맞지？）》第三次正式錄音，饒舌部分和饒舌擔當揭曉。</p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>2017年5月5日</p></td>
 <td><p>金亨碩、張真英、韓元鐘</p></td>
-<td><p>到<a href="../Page/釜山廣域市.md" title="wikilink">釜山拍攝自製小規模MV和旅行</a>。洪真慶因為個人理由從<a href="https://zh.wikipedia.org/wiki/济州岛" title="wikilink">濟州島經金浦趕回首爾</a>，但因為趕不上與團員集合，自己乘直通車到達首爾。釜山人的金淑跟“活動女王”在海鮮店進行燒烤戰和網絡留言總匯。第二節透露洪真英在《對嗎》饒舌部分和團員在即興部分和和音部分錄音狀況。</p></td>
+<td><p>到<a href="../Page/釜山廣域市.md" title="wikilink">釜山拍攝自製小規模MV和旅行</a>。洪真慶因為個人理由從<a href="../Page/济州岛.md" title="wikilink">濟州島經金浦趕回首爾</a>，但因為趕不上與團員集合，自己乘直通車到達首爾。釜山人的金淑跟“活動女王”在海鮮店進行燒烤戰和網絡留言總匯。第二節透露洪真英在《對嗎》饒舌部分和團員在即興部分和和音部分錄音狀況。</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -586,8 +586,8 @@ Jessi的第一次演戲，笑果不斷。張鎮導演下海客串漁夫。</p></
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>2017年5月19日</p></td>
-<td><p>金亨碩、張真英、金花英、雙奎、崔俊熙（洪真慶侄女）、韓元鐘、<a href="https://zh.wikipedia.org/wiki/李瑞元" title="wikilink">李瑞元</a>、<a href="https://zh.wikipedia.org/wiki/安率濱" title="wikilink">率濱</a>、<a href="../Page/金度延.md" title="wikilink">金度延</a>、<a href="../Page/磪有情.md" title="wikilink">磪有情</a>、<a href="https://zh.wikipedia.org/wiki/鄭彩娟" title="wikilink">鄭彩娟</a>、<a href="https://zh.wikipedia.org/wiki/Triple_H_(企劃組合)" title="wikilink">Triple H</a>、<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>、<a href="../Page/羅美蘭.md" title="wikilink">羅美蘭</a>、<a href="../Page/闵孝琳.md" title="wikilink">閔孝琳</a>（第一代Unnies成員）、<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、Minzy媽媽和小狗、<a href="https://zh.wikipedia.org/wiki/金永哲_(藝人)" title="wikilink">金永哲</a>（藝人，近期也與洪真英合作，以個人<a href="https://zh.wikipedia.org/wiki/韓國演歌" title="wikilink">Trot歌手身份出道</a>。）、金明俊（韓彩英的經紀公司理事，也是慫恿她參加計劃的推薦人。）</p></td>
-<td><p>《音樂銀行》錄影，官方 V Live 重播，第二主打曲公開，《對嗎？》橫掃音源榜。第二代Unnies與 <a href="https://zh.wikipedia.org/wiki/Triple_H_(企劃組合)" title="wikilink">Triple H</a> 正式一起出道，Unnies和Dongsaeng混合自製版《對嗎？》MV公開。</p></td>
+<td><p>金亨碩、張真英、金花英、雙奎、崔俊熙（洪真慶侄女）、韓元鐘、<a href="https://zh.wikipedia.org/wiki/李瑞元" title="wikilink">李瑞元</a>、<a href="https://zh.wikipedia.org/wiki/安率濱" title="wikilink">率濱</a>、<a href="../Page/金度延.md" title="wikilink">金度延</a>、<a href="../Page/磪有情.md" title="wikilink">磪有情</a>、<a href="https://zh.wikipedia.org/wiki/鄭彩娟" title="wikilink">鄭彩娟</a>、<a href="../Page/Triple_H_(企劃組合).md" title="wikilink">Triple H</a>、<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>、<a href="../Page/羅美蘭.md" title="wikilink">羅美蘭</a>、<a href="../Page/闵孝琳.md" title="wikilink">閔孝琳</a>（第一代Unnies成員）、<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、Minzy媽媽和小狗、<a href="../Page/金永哲_(藝人).md" title="wikilink">金永哲</a>（藝人，近期也與洪真英合作，以個人<a href="https://zh.wikipedia.org/wiki/韓國演歌" title="wikilink">Trot歌手身份出道</a>。）、金明俊（韓彩英的經紀公司理事，也是慫恿她參加計劃的推薦人。）</p></td>
+<td><p>《音樂銀行》錄影，官方 V Live 重播，第二主打曲公開，《對嗎？》橫掃音源榜。第二代Unnies與 <a href="../Page/Triple_H_(企劃組合).md" title="wikilink">Triple H</a> 正式一起出道，Unnies和Dongsaeng混合自製版《對嗎？》MV公開。</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
@@ -624,7 +624,7 @@ Jessi的第一次演戲，笑果不斷。張鎮導演下海客串漁夫。</p></
 
 <!-- end list -->
 
-  - [安赫茂](https://zh.wikipedia.org/wiki/安赫茂 "wikilink")：演技老師，[朴寶劍的恩師](https://zh.wikipedia.org/wiki/朴寶劍 "wikilink")。
+  - [安赫茂](https://zh.wikipedia.org/wiki/安赫茂 "wikilink")：演技老師，[朴寶劍的恩師](../Page/朴寶劍.md "wikilink")。
 
 <!-- end list -->
 

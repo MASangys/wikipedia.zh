@@ -4,7 +4,7 @@
 ## 背景
 
 2016年11月7日，韓國公司[NH
-Media在U](https://zh.wikipedia.org/wiki/NH_Media "wikilink")-KISS的日本官方網站公佈發行日語精選輯的消息，並公布專輯歌單\[2\]，以紀念日本出道五周年\[3\]。其後專輯所有版本的封面隨著宣傳照片在11月18日披露\[4\]。
+Media在U](../Page/NH_Media.md "wikilink")-KISS的日本官方網站公佈發行日語精選輯的消息，並公布專輯歌單\[2\]，以紀念日本出道五周年\[3\]。其後專輯所有版本的封面隨著宣傳照片在11月18日披露\[4\]。
 
 與此同時，從11月23日到12月25日，U-KISS在日本舉行全國巡迴精選演唱會《U-KISS JAPAN BEST LIVE TOUR
 2016～5th Anniversary Special～supported by CHIC-Smart》以宣傳專輯\[5\]。

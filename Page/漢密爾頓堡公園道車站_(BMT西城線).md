@@ -19,7 +19,7 @@
 </tr>
 <tr class="even">
 <td><p><span style="color:#{{NYCS color|orange}}"><strong>南行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-D.svg" title="fig:纽约地铁D线">纽约地铁D线</a> 往<a href="https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站" title="wikilink">康尼島-斯提威爾大道</a><small>（<a href="https://zh.wikipedia.org/wiki/50街車站_(BMT西城線)" title="wikilink">50街</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-D.svg" title="fig:纽约地铁D线">纽约地铁D线</a> 往<a href="https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站" title="wikilink">康尼島-斯提威爾大道</a><small>（<a href="../Page/50街車站_(BMT西城線).md" title="wikilink">50街</a>）</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small><a href="../Page/側式月台.md" title="wikilink">側式月台</a>，右側開門</small></p></td>

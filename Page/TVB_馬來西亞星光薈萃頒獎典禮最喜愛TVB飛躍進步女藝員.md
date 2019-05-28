@@ -143,7 +143,7 @@ AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒
 </table></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2016" title="wikilink">2016年</a></strong><br />
+<td><p><strong><a href="../Page/TVB_馬來西亞星光薈萃頒獎典禮2016.md" title="wikilink">2016年</a></strong><br />
 <small>第13屆'''</p></td>
 <td><p><strong><a href="../Page/劉佩玥.md" title="wikilink">劉佩玥</a> ‡</strong></p></td>
 <td><p><strong>實習天使 / EU超時任務 / 殭 / 一屋老友記 / 城寨英雄 / 幕後玩家</strong></p></td>
@@ -187,7 +187,7 @@ AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒
 </table></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2017" title="wikilink">2017年</a></strong><br />
+<td><p><strong><a href="../Page/TVB_馬來西亞星光薈萃頒獎典禮2017.md" title="wikilink">2017年</a></strong><br />
 <small>第14屆'''</p></td>
 <td><p><strong><a href="../Page/譚凱琪.md" title="wikilink">譚凱琪</a> ‡</strong></p></td>
 <td><p><strong>致命復活 / 不懂撒嬌的女人 / 踩過界</strong></p></td>

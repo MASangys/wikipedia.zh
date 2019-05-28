@@ -18,7 +18,7 @@ Alliance**）是一個國際商業聯盟，[亞太地區最大行動通訊聯盟
 
   - [MobiFone](https://zh.wikipedia.org/wiki/MobiFone "wikilink")（越南）
 
-  - [Optus](https://zh.wikipedia.org/wiki/Optus "wikilink")（澳大利亞）
+  - [Optus](../Page/Optus.md "wikilink")（澳大利亞）
 
   - [SoftBank](https://zh.wikipedia.org/wiki/SoftBank "wikilink")（日本）
 

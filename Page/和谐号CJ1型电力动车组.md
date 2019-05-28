@@ -104,11 +104,11 @@ ZE xxxx00</p></td>
 
 ## 關連項目
 
-  - [和谐号CRH3A型电力动车组](https://zh.wikipedia.org/wiki/和谐号CRH3A型电力动车组 "wikilink")
+  - [和谐号CRH3A型电力动车组](../Page/和谐号CRH3A型电力动车组.md "wikilink")
   - [和谐号CRH5型电力动车组](../Page/和谐号CRH5型电力动车组.md "wikilink")
   - [和谐号CRH380B型电力动车组](../Page/和谐号CRH380B型电力动车组.md "wikilink")
   - [和谐号CRH380C型电力动车组](../Page/和谐号CRH380C型电力动车组.md "wikilink")
-  - [和谐号CJ2型电力动车组](https://zh.wikipedia.org/wiki/和谐号CJ2型电力动车组 "wikilink")
+  - [和谐号CJ2型电力动车组](../Page/和谐号CJ2型电力动车组.md "wikilink")
   - [長白山號](https://zh.wikipedia.org/wiki/長白山號 "wikilink")
 
 ## 參考資料

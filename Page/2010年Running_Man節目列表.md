@@ -341,7 +341,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/權俞利" title="wikilink">俞利</a>(<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>)</p></td>
 <td><p><a href="https://web.archive.org/web/20160708031824/http://www.iparkmall.co.kr/">I'Park Mall</a><br />
 <small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
-<a href="../Page/龍山區_(首爾).md" title="wikilink">龍山區</a><a href="https://zh.wikipedia.org/wiki/漢江路洞" title="wikilink">漢江路洞</a>)</small></p></td>
+<a href="../Page/龍山區_(首爾).md" title="wikilink">龍山區</a><a href="../Page/漢江路洞.md" title="wikilink">漢江路洞</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>試食，超過1KG</strong></span><br />
 <strong>懵智孝與兩-{大叔}-隊</strong><br />
 劉在錫、池錫辰、宋智孝<br />

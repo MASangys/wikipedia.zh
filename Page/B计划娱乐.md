@@ -76,10 +76,9 @@ B計劃旗下的三部電影：[無間行者](https://zh.wikipedia.org/wiki/無�
 
   - [時間之旅](https://zh.wikipedia.org/wiki/時間之旅 "wikilink") (2016)
 
-  - [戰爭機器](https://zh.wikipedia.org/wiki/戰爭機器_\(2017年電影\) "wikilink")
-    (2017)
+  - [戰爭機器](../Page/戰爭機器_\(2017年電影\).md "wikilink") (2017)
 
-  - [玉子](https://zh.wikipedia.org/wiki/玉子_\(電影\) "wikilink") (2017)
+  - [玉子](../Page/玉子_\(電影\).md "wikilink") (2017)
 
   - (2017)
 

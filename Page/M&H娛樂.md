@@ -7,18 +7,15 @@
 
 ## 練習生
 
-  - 李河恩（[PRODUCE
-    48參賽者](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")）
-  - 黃召硯（[PRODUCE
-    48參賽者](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")，前[Wellmade
+  - 李河恩（[PRODUCE 48參賽者](../Page/PRODUCE_48.md "wikilink")）
+  - 黃召硯（[PRODUCE 48參賽者](../Page/PRODUCE_48.md "wikilink")，前[Wellmade
     Yedang練習生](https://zh.wikipedia.org/wiki/Wellmade_Yedang "wikilink")）
 
 ## 已離開練習生
 
   - 吳書晶（[PRODUCE 101参赛者](../Page/PRODUCE_101.md "wikilink")，轉投WAYZ
     Company）
-  - 金草妍 （[PRODUCE
-    48参赛者](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")，轉投[A
+  - 金草妍 （[PRODUCE 48参赛者](../Page/PRODUCE_48.md "wikilink")，轉投[A
     team娛樂](https://zh.wikipedia.org/wiki/A_team娛樂 "wikilink")）
 
 ## 参考资料

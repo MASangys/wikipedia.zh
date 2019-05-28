@@ -50,8 +50,7 @@ MMC 巴士。
     350H](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_350H "wikilink")
   - [Enviro 400](../Page/亞歷山大丹尼士Enviro_400.md "wikilink")
   - [Enviro 500](../Page/亞歷山大丹尼士Enviro_500.md "wikilink")
-  - [Enviro 500
-    MMC](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_500_MMC "wikilink")
+  - [Enviro 500 MMC](../Page/亞歷山大丹尼士Enviro_500_MMC.md "wikilink")
 
 ## 外部連結
 

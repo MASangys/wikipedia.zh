@@ -1,6 +1,6 @@
 **Cheetah**（，），本名**金恩英**（），[韩国女](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[饶舌歌手](../Page/饒舌.md "wikilink")，2010年以组合成员的身份发表单曲《Stop
 (Money Can\`t Buy Me
-Love)》正式出道，现为[C9娱乐旗下艺人](https://zh.wikipedia.org/wiki/C9娱乐 "wikilink")。\[1\]2015年参加[真人秀竞赛节目](../Page/真人實境秀.md "wikilink")《[Unpretty
+Love)》正式出道，现为[C9娱乐旗下艺人](../Page/C9娱乐.md "wikilink")。\[1\]2015年参加[真人秀竞赛节目](../Page/真人實境秀.md "wikilink")《[Unpretty
 Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》并获得冠军后一举成名。
 
 ## 生涯
@@ -33,7 +33,7 @@ Show〉中合作参与配唱。同月，参加了音乐节目《[神秘音樂秀
 101](../Page/PRODUCE_101.md "wikilink")》的节目中。\[13\]
 
 2018年6月，Cheetah以练习生饶舌导师的身份出现在真人秀选秀比賽《[Produce
-48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》的节目中。
+48](../Page/PRODUCE_48.md "wikilink")》的节目中。
 
 ## 个人生活
 
@@ -64,7 +64,7 @@ zh-tw:公车;}-撞倒，导致其重伤住院。\[14\]Cheetah昏迷了一段时�
 <td><p>CHEETAH ITSELF[17]</p></td>
 <td><ul>
 <li>发行日期：2014年6月27日</li>
-<li>发行公司：<a href="https://zh.wikipedia.org/wiki/C9娱乐" title="wikilink">C9娱乐</a></li>
+<li>发行公司：<a href="../Page/C9娱乐.md" title="wikilink">C9娱乐</a></li>
 <li>发行介质：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">数位音乐下载</a></li>
 </ul></td>
 <td><p>—</p></td>
@@ -170,7 +170,7 @@ zh-tw:公车;}-撞倒，导致其重伤住院。\[14\]Cheetah昏迷了一段时�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>谁也不知道 (Prod. by <a href="https://zh.wikipedia.org/wiki/MC夢" title="wikilink">MC夢</a>)（아무도 모르게）（feat. <a href="../Page/李艺真.md" title="wikilink">Ailee</a>）</p></td>
+<td><p>谁也不知道 (Prod. by <a href="../Page/MC夢.md" title="wikilink">MC夢</a>)（아무도 모르게）（feat. <a href="../Page/李艺真.md" title="wikilink">Ailee</a>）</p></td>
 <td><p>3[26]</p></td>
 <td><ul>
 <li>KOR: 427,943+</li>
@@ -357,7 +357,7 @@ zh-tw:公车;}-撞倒，导致其重伤住院。\[14\]Cheetah昏迷了一段时�
 | 2017         |                                                                |                                                                       |                                      |     |
 | 4月7日-6月16日   | [PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")\[33\] | [Mnet](../Page/Mnet媒體.md "wikilink")                                  |                                      |     |
 | 7月12日        | [現場脫口秀Taxi](../Page/現場脫口秀Taxi.md "wikilink")\[34\]             | [tvN](../Page/TVN.md "wikilink")                                      | 嘉宾                                   |     |
-| 2018         |                                                                | [PRODUCE 48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")     | [Mnet](../Page/Mnet媒體.md "wikilink") | 導師  |
+| 2018         |                                                                | [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")                        | [Mnet](../Page/Mnet媒體.md "wikilink") | 導師  |
 | 2019         |                                                                | [PRODUCE X101](https://zh.wikipedia.org/wiki/PRODUCE_X101 "wikilink") | [Mnet](../Page/Mnet媒體.md "wikilink") | 導師  |
 
 ## 参考资料

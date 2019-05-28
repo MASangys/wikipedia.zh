@@ -8,7 +8,7 @@ TV1在[吉隆坡使用](../Page/吉隆坡.md "wikilink")[VHF](https://zh.wikiped
 
 ## 参见
 
-  - [TV2](https://zh.wikipedia.org/wiki/TV2_\(馬來西亞\) "wikilink")
+  - [TV2](../Page/TV2_\(馬來西亞\).md "wikilink")
 
   -
   -

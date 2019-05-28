@@ -13,7 +13,7 @@ Seven**（，）是[日本的](../Page/日本.md "wikilink")[動畫製作公司]
 
 與總部位於[練馬區的動畫製作公司](https://zh.wikipedia.org/wiki/練馬區 "wikilink")「[Seven
 Arcs](../Page/Seven_Arcs.md "wikilink")」及「[Seven Arcs
-Pictures](https://zh.wikipedia.org/wiki/Seven_Arcs_Pictures "wikilink")」沒有關連。
+Pictures](../Page/Seven_Arcs_Pictures.md "wikilink")」沒有關連。
 
 ## 作品列表
 
@@ -45,7 +45,7 @@ Pictures](https://zh.wikipedia.org/wiki/Seven_Arcs_Pictures "wikilink")」沒有
 </tr>
 <tr class="odd">
 <td><p>2013年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/漫研社" title="wikilink">漫研社</a></p></td>
+<td><p><a href="../Page/漫研社.md" title="wikilink">漫研社</a></p></td>
 </tr>
 <tr class="even">
 <td><p>直笛與背包 Mi☆</p></td>
@@ -80,7 +80,7 @@ Pictures](https://zh.wikipedia.org/wiki/Seven_Arcs_Pictures "wikilink")」沒有
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/不思議美眉" title="wikilink">不思議美眉</a></p></td>
+<td><p><a href="../Page/不思議美眉.md" title="wikilink">不思議美眉</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -92,7 +92,7 @@ Pictures](https://zh.wikipedia.org/wiki/Seven_Arcs_Pictures "wikilink")」沒有
 <td><p>漫研社～surgical friends～</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/與僧侶交合的色慾之夜" title="wikilink">與僧侶交合的色慾之夜</a></p></td>
+<td><p><a href="../Page/與僧侶交合的色慾之夜.md" title="wikilink">與僧侶交合的色慾之夜</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -100,11 +100,11 @@ Pictures](https://zh.wikipedia.org/wiki/Seven_Arcs_Pictures "wikilink")」沒有
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/相親對象是強硬問題兒學生" title="wikilink">相親對象是強硬問題兒學生</a></p></td>
+<td><p><a href="../Page/相親對象是強硬問題兒學生.md" title="wikilink">相親對象是強硬問題兒學生</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/國王遊戲_The_Animation" title="wikilink">國王遊戲 The Animation</a></p></td>
+<td><p><a href="../Page/國王遊戲_The_Animation.md" title="wikilink">國王遊戲 The Animation</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -247,12 +247,12 @@ Pictures](https://zh.wikipedia.org/wiki/Seven_Arcs_Pictures "wikilink")」沒有
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Real_Eroge_Situation!" title="wikilink">Real Eroge Situation! THE ANIMATION</a></p></td>
+<td><p><a href="../Page/Real_Eroge_Situation!.md" title="wikilink">Real Eroge Situation! THE ANIMATION</a></p></td>
 <td><p>共2話（2018年8月）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陪睡女友～緊緊抱著你～" title="wikilink">陪睡女友～緊緊抱著你～</a></p></td>
+<td><p><a href="../Page/陪睡女友～緊緊抱著你～.md" title="wikilink">陪睡女友～緊緊抱著你～</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -364,7 +364,7 @@ Pictures](https://zh.wikipedia.org/wiki/Seven_Arcs_Pictures "wikilink")」沒有
 </tr>
 <tr class="even">
 <td><p><a href="../Page/我，要成為雙馬尾.md" title="wikilink">我，要成為雙馬尾</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Production_IMS" title="wikilink">Production IMS</a></p></td>
+<td><p><a href="../Page/Production_IMS.md" title="wikilink">Production IMS</a></p></td>
 <td></td>
 <td></td>
 </tr>

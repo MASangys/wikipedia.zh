@@ -276,8 +276,8 @@ MTV全球華語音樂盛典」由[MTV主辦](../Page/音樂電視網.md "wikilin
 <li><a href="../Page/陳偉霆.md" title="wikilink">陳偉霆</a>《著迷》</li>
 <li><a href="../Page/陈梓童.md" title="wikilink">陳梓童</a>《One More》</li>
 <li><a href="../Page/陈势安.md" title="wikilink">陳勢安</a>《好愛好散》</li>
-<li><a href="https://zh.wikipedia.org/wiki/鹿晗" title="wikilink">鹿晗</a>《時差》</li>
-<li><a href="https://zh.wikipedia.org/wiki/鹿晗" title="wikilink">鹿晗</a>《有點兒意思》</li>
+<li><a href="../Page/鹿晗.md" title="wikilink">鹿晗</a>《時差》</li>
+<li><a href="../Page/鹿晗.md" title="wikilink">鹿晗</a>《有點兒意思》</li>
 <li><a href="../Page/曾沛慈.md" title="wikilink">曾沛慈</a>《我不是你該愛的那個人》</li>
 <li><a href="../Page/华晨宇.md" title="wikilink">華晨宇</a>《我的滑板鞋2016》</li>
 <li><a href="https://zh.wikipedia.org/wiki/黄明志" title="wikilink">黃明志</a> ft. <a href="../Page/王力宏.md" title="wikilink">王力宏</a>《漂向北方》</li>
@@ -292,7 +292,7 @@ MTV全球華語音樂盛典」由[MTV主辦](../Page/音樂電視網.md "wikilin
 <li><a href="../Page/刘若英.md" title="wikilink">劉若英</a>《你有沒有深愛過》</li>
 <li><a href="../Page/刘惜君.md" title="wikilink">劉惜君</a>《直到那一天》</li>
 <li><a href="../Page/蔡依林.md" title="wikilink">蔡依林</a> ft. <a href="../Page/安室奈美惠.md" title="wikilink">安室奈美惠</a>《I'm Not Yours》</li>
-<li><a href="../Page/蔡依林.md" title="wikilink">蔡依林</a>《<a href="https://zh.wikipedia.org/wiki/Play_我呸" title="wikilink">Play 我呸</a>》</li>
+<li><a href="../Page/蔡依林.md" title="wikilink">蔡依林</a>《<a href="../Page/Play_我呸.md" title="wikilink">Play 我呸</a>》</li>
 <li><a href="https://zh.wikipedia.org/wiki/蔡健雅" title="wikilink">蔡健雅</a>《失語症》</li>
 <li><a href="https://zh.wikipedia.org/wiki/蔡健雅" title="wikilink">蔡健雅</a>《活著是最好的死亡》</li>
 <li><a href="https://zh.wikipedia.org/wiki/鄧紫棋" title="wikilink">鄧紫棋</a>《再見》</li>
@@ -317,7 +317,7 @@ MTV全球華語音樂盛典」由[MTV主辦](../Page/音樂電視網.md "wikilin
 <li><a href="../Page/范瑋琪.md" title="wikilink">范瑋琪</a>《在幸福的路上》</li>
 <li><a href="https://zh.wikipedia.org/wiki/张杰_(中国大陆歌手)" title="wikilink">張杰</a>《三生三世》</li>
 <li><a href="../Page/许魏洲.md" title="wikilink">許魏洲</a>《慢慢走》</li>
-<li><a href="../Page/蔡依林.md" title="wikilink">蔡依林</a>《<a href="https://zh.wikipedia.org/wiki/Play_我呸" title="wikilink">Play 我呸</a>》</li>
+<li><a href="../Page/蔡依林.md" title="wikilink">蔡依林</a>《<a href="../Page/Play_我呸.md" title="wikilink">Play 我呸</a>》</li>
 <li><a href="https://zh.wikipedia.org/wiki/鄧紫棋" title="wikilink">鄧紫棋</a>《光年之外》</li>
 <li><a href="../Page/薛之谦.md" title="wikilink">薛之謙</a>《演員》</li>
 </ul></td>

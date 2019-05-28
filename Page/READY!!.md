@@ -63,7 +63,7 @@ Summer Live
 
 ## 翻唱版本
 
-  - [Customize](https://zh.wikipedia.org/wiki/EBiDAN "wikilink")（）：收錄於2013年4月10日發售的單曲《魔法公主》（）。
+  - [Customize](../Page/EBiDAN.md "wikilink")（）：收錄於2013年4月10日發售的單曲《魔法公主》（）。
   - [福原香織](../Page/福原香織.md "wikilink")：收錄於2013年5月1日發售的單曲《Special
     Ani研Vol.1 feat.福原香織 and ARM》（）。
   - M.O.E.（[羽多野渉](https://zh.wikipedia.org/wiki/羽多野渉 "wikilink")、[寺島拓篤](../Page/寺島拓篤.md "wikilink")）：收錄於2014年4月9日發售的專輯《那天見到夢了CD》（）。

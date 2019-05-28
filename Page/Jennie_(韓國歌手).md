@@ -10,7 +10,7 @@ Jennie於1996年1月16日出生於[韓國](https://zh.wikipedia.org/wiki/韓國 
 ### 2012年－2015年：出道前
 
 Jennie的練習生生涯有7年之久，首次露面是在YG娛樂於2012年4月份通過官方博客登載，題為「Who’s that
-girl?」的照片上亮相。當時，Jennie被大眾廣泛譽為「神秘少女」登在韓國各大門戶網站的檢索詞排行榜第一位，引發網民熱烈的反響\[8\]，而繼同組合成員[Lisa首次在](https://zh.wikipedia.org/wiki/Lisa_\(泰國歌手\) "wikilink")5月11日通過[YouTube官方頻道公開後](../Page/YouTube.md "wikilink")\[9\]，Jennie也在同年8月29日於YG娛樂發佈的旗下練習生練習影像中亮相，也是第一位除了練習影像及年紀之外率先公開名字的練習生。\[10\]
+girl?」的照片上亮相。當時，Jennie被大眾廣泛譽為「神秘少女」登在韓國各大門戶網站的檢索詞排行榜第一位，引發網民熱烈的反響\[8\]，而繼同組合成員[Lisa首次在](../Page/Lisa_\(泰國歌手\).md "wikilink")5月11日通過[YouTube官方頻道公開後](../Page/YouTube.md "wikilink")\[9\]，Jennie也在同年8月29日於YG娛樂發佈的旗下練習生練習影像中亮相，也是第一位除了練習影像及年紀之外率先公開名字的練習生。\[10\]
 
 在正式出道前Jennie與所屬經紀公司旗下藝人已有多次合作，包括參與[BIGBANG隊長](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[G-Dragon的首張迷你專輯](../Page/G-Dragon.md "wikilink")《[One
 of a

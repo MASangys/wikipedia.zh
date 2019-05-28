@@ -1,6 +1,6 @@
 **hyukoh**（，讀音為「hyeoko」），韓國獨立[樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")，成立於
 2014 年 5 月，2015 年簽约
-[HIGHGRND](https://zh.wikipedia.org/wiki/HIGHGRND "wikilink")。團員四人為主唱兼吉他手[吳赫](https://zh.wikipedia.org/wiki/吳赫 "wikilink")、吉他手[林賢帝](https://zh.wikipedia.org/wiki/林賢帝 "wikilink")、貝斯手[任童健](https://zh.wikipedia.org/wiki/任童健 "wikilink")、鼓手[李仁雨](https://zh.wikipedia.org/wiki/李仁雨 "wikilink")。團名的由來為主唱吳赫「Oh
+[HIGHGRND](../Page/HIGHGRND.md "wikilink")。團員四人為主唱兼吉他手[吳赫](../Page/吳赫.md "wikilink")、吉他手[林賢帝](https://zh.wikipedia.org/wiki/林賢帝 "wikilink")、貝斯手[任童健](../Page/任童健.md "wikilink")、鼓手[李仁雨](../Page/李仁雨.md "wikilink")。團名的由來為主唱吳赫「Oh
 Hyuk」的名字倒過來念。
 
 2014 年 9 月 hyukoh 發行首張
@@ -11,15 +11,15 @@ hyukoh 的特色，也為樂隊增添了許多趣味與神秘感。
 
 ## 成員資料
 
-| 成員列表                                                        |
-| ----------------------------------------------------------- |
-| 本名                                                          |
-| 漢字                                                          |
-| [吳赫](https://zh.wikipedia.org/wiki/吳赫 "wikilink")           |
-| [林賢帝](https://zh.wikipedia.org/wiki/林賢帝_\(吉他手\) "wikilink") |
-| [任童健](https://zh.wikipedia.org/wiki/任童健 "wikilink")         |
-| [李仁雨](https://zh.wikipedia.org/wiki/李仁雨 "wikilink")         |
-|                                                             |
+| 成員列表                                     |
+| ---------------------------------------- |
+| 本名                                       |
+| 漢字                                       |
+| [吳赫](../Page/吳赫.md "wikilink")           |
+| [林賢帝](../Page/林賢帝_\(吉他手\).md "wikilink") |
+| [任童健](../Page/任童健.md "wikilink")         |
+| [李仁雨](../Page/李仁雨.md "wikilink")         |
+|                                          |
 
 ## 音樂作品
 
@@ -106,27 +106,27 @@ hyukoh 的特色，也為樂隊增添了許多趣味與神秘感。
 
 ### 合作單曲
 
-| 年份     | 發佈日期                   | 歌曲名稱                                                                      | 歌手                                 | 參與成員                                              |
-| ------ | ---------------------- | ------------------------------------------------------------------------- | ---------------------------------- | ------------------------------------------------- |
-| 2015年  | 3月23日                  | Etunnel                                                                   | Primary                            | [吳赫](https://zh.wikipedia.org/wiki/吳赫 "wikilink") |
-| 3月23日  | Bawling                | Primary                                                                   |                                    |                                                   |
-| 3月23日  | Island                 | Primary                                                                   |                                    |                                                   |
-| 3月23日  | Gondry                 | Primary、Lim Kim                                                           |                                    |                                                   |
-| 3月24日  | Bushwick               | Car, the garden                                                           |                                    |                                                   |
-| 8月10日  | Rubber                 | Primary                                                                   |                                    |                                                   |
-| 10月21日 | Parachute              | Code Kunst、[Dok2](../Page/Dok2.md "wikilink")                             |                                    |                                                   |
-| 2016年  | 1月28日                  | Moonstruck                                                                | Peejay、Qim Isle                    |                                                   |
-| 12月31日 | Your Night             | [光熙](../Page/光熙.md "wikilink")、[Gaeko](../Page/Dynamic_Duo.md "wikilink") |                                    |                                                   |
-| 2017年  | 1月19日                  | Goodbye (与[CL作词](https://zh.wikipedia.org/wiki/李彩麟 "wikilink"))           | [2NE1](../Page/2NE1.md "wikilink") |                                                   |
-| 4月7日   | Can't Love You Anymore | [IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")                  |                                    |                                                   |
+| 年份     | 發佈日期                   | 歌曲名稱                                                                      | 歌手                                 | 參與成員                           |
+| ------ | ---------------------- | ------------------------------------------------------------------------- | ---------------------------------- | ------------------------------ |
+| 2015年  | 3月23日                  | Etunnel                                                                   | Primary                            | [吳赫](../Page/吳赫.md "wikilink") |
+| 3月23日  | Bawling                | Primary                                                                   |                                    |                                |
+| 3月23日  | Island                 | Primary                                                                   |                                    |                                |
+| 3月23日  | Gondry                 | Primary、Lim Kim                                                           |                                    |                                |
+| 3月24日  | Bushwick               | Car, the garden                                                           |                                    |                                |
+| 8月10日  | Rubber                 | Primary                                                                   |                                    |                                |
+| 10月21日 | Parachute              | Code Kunst、[Dok2](../Page/Dok2.md "wikilink")                             |                                    |                                |
+| 2016年  | 1月28日                  | Moonstruck                                                                | Peejay、Qim Isle                    |                                |
+| 12月31日 | Your Night             | [光熙](../Page/光熙.md "wikilink")、[Gaeko](../Page/Dynamic_Duo.md "wikilink") |                                    |                                |
+| 2017年  | 1月19日                  | Goodbye (与[CL作词](https://zh.wikipedia.org/wiki/李彩麟 "wikilink"))           | [2NE1](../Page/2NE1.md "wikilink") |                                |
+| 4月7日   | Can't Love You Anymore | [IU](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")                  |                                    |                                |
 
 ### OST
 
-| 發佈日期        | 電視劇名稱                                                  | 歌曲名稱                | 參與成員                                              |
-| ----------- | ------------------------------------------------------ | ------------------- | ------------------------------------------------- |
-| 2015年11月22日 | [請回答1988](../Page/請回答1988.md "wikilink")               | 少女 (소녀)             | [吳赫](https://zh.wikipedia.org/wiki/吳赫 "wikilink") |
-| 2016年11月5日  | [Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink") | MASITNONSOUL (맛있는술) | 全員                                                |
-| 2018年10月15日 | [壞爸爸](https://zh.wikipedia.org/wiki/壞爸爸 "wikilink")    | Golden Goat         | [吳赫](https://zh.wikipedia.org/wiki/吳赫 "wikilink") |
+| 發佈日期        | 電視劇名稱                                                  | 歌曲名稱                | 參與成員                           |
+| ----------- | ------------------------------------------------------ | ------------------- | ------------------------------ |
+| 2015年11月22日 | [請回答1988](../Page/請回答1988.md "wikilink")               | 少女 (소녀)             | [吳赫](../Page/吳赫.md "wikilink") |
+| 2016年11月5日  | [Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink") | MASITNONSOUL (맛있는술) | 全員                             |
+| 2018年10月15日 | [壞爸爸](https://zh.wikipedia.org/wiki/壞爸爸 "wikilink")    | Golden Goat         | [吳赫](../Page/吳赫.md "wikilink") |
 
 ## 電視劇
 
@@ -141,7 +141,7 @@ hyukoh 的特色，也為樂隊增添了許多趣味與神秘感。
   - 2016年：《[無限挑戰
     偉大的遺產](https://zh.wikipedia.org/wiki/無限挑戰_偉大的遺產 "wikilink")》（吳赫）（12月31日）
   - 2017年：《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》（吳赫）(4月15日、4月29日)
-  - 2017年：《[本業是歌手－這些傢伙的兩種生活](https://zh.wikipedia.org/wiki/本業是歌手－這些傢伙的兩種生活 "wikilink")》（吳赫）(11月23日－2018年1月11日)
+  - 2017年：《[本業是歌手－這些傢伙的兩種生活](../Page/本業是歌手－這些傢伙的兩種生活.md "wikilink")》（吳赫）(11月23日－2018年1月11日)
   - 2018年：《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》（6月3日、6月10日）
 
 ## 演唱會

@@ -73,7 +73,7 @@ Brett Morris</p></td>
 <td><p><a href="../Page/荷莉·貝瑞.md" title="wikilink">荷莉·貝瑞</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/冰人_(漫威漫畫)" title="wikilink">鲍比·杜瑞克<br />
+<td><p><a href="../Page/冰人_(漫威漫畫).md" title="wikilink">鲍比·杜瑞克<br />
 {{small</a></p></td>
 <td><p><a href="../Page/肖恩·阿什莫.md" title="wikilink">肖恩·阿什莫</a></p></td>
 </tr>
@@ -117,7 +117,7 @@ Brett Morris</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/天使_(漫威漫畫)" title="wikilink">華倫·沃辛頓三世<br />
+<td><p><a href="../Page/天使_(漫威漫畫).md" title="wikilink">華倫·沃辛頓三世<br />
 {{small</a></p></td>
 <td></td>
 </tr>
@@ -132,12 +132,12 @@ Brett Morris</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/靈蝶" title="wikilink">伊莉莎白"贝琪"·布拉多克<br />
+<td><p><a href="../Page/靈蝶.md" title="wikilink">伊莉莎白"贝琪"·布拉多克<br />
 {{small</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/劍齒虎_(漫威漫畫)" title="wikilink">維克多·克里德<br />
+<td><p><a href="../Page/劍齒虎_(漫威漫畫).md" title="wikilink">維克多·克里德<br />
 {{small</a></p></td>
 <td></td>
 </tr>
@@ -147,7 +147,7 @@ Brett Morris</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/威廉·史崔克" title="wikilink">威廉·史崔克</a></p></td>
+<td><p><a href="../Page/威廉·史崔克.md" title="wikilink">威廉·史崔克</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -168,7 +168,7 @@ Brett Morris</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/青少女彈頭" title="wikilink">青少女彈頭</a></p></td>
+<td><p><a href="../Page/青少女彈頭.md" title="wikilink">青少女彈頭</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

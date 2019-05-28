@@ -41,7 +41,7 @@ Location: http://www.example.org/view-comment.asp
   - [URL重寫](../Page/URL重寫.md "wikilink")
   - [HTTP 301](../Page/HTTP_301.md "wikilink")
   - [HTTP 302](../Page/HTTP_302.md "wikilink")
-  - [HTTP 307](https://zh.wikipedia.org/wiki/HTTP_307 "wikilink")
+  - [HTTP 307](../Page/HTTP_307.md "wikilink")
 
 ## 参考文献
 

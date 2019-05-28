@@ -494,7 +494,7 @@ Cha Sang Hoon</p></td>
 <td><p>4</p></td>
 <td></td>
 <td><p>那是誰的小夜曲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小島正幸" title="wikilink">小島正幸</a></p></td>
+<td><p><a href="../Page/小島正幸.md" title="wikilink">小島正幸</a></p></td>
 <td><p>松前武生</p></td>
 <td><p><a href="../Page/中山由美.md" title="wikilink">中山由美</a></p></td>
 <td></td>
@@ -551,7 +551,7 @@ Cha Sang Hoon</p></td>
 <td><p>9</p></td>
 <td></td>
 <td><p>各自的真實</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大橋譽志光" title="wikilink">大橋譽志光</a></p></td>
+<td><p><a href="../Page/大橋譽志光.md" title="wikilink">大橋譽志光</a></p></td>
 <td><p>松前武生</p></td>
 <td><p>Lee Duk Ho<br />
 Cha Sang Hoon</p></td>

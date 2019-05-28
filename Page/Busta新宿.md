@@ -70,7 +70,7 @@ JR東日本線路上方2～4樓部分是交通總站\[29\]。總站上方的5～
 
 #### 東京觀光資訊中心
 
-東京觀光資訊中心提供宅配與行李寄存，旅行商品與活動票券販售，外幣兌換等服務\[38\]，業者為與[JTB](https://zh.wikipedia.org/wiki/JTB "wikilink")\[39\]。旅遊窗口可使用[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[韓文等](https://zh.wikipedia.org/wiki/韓文 "wikilink")\[40\]。預定在2016年（平成28年）春季開幕，營業時間6:30
+東京觀光資訊中心提供宅配與行李寄存，旅行商品與活動票券販售，外幣兌換等服務\[38\]，業者為與[JTB](../Page/JTB.md "wikilink")\[39\]。旅遊窗口可使用[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[韓文等](https://zh.wikipedia.org/wiki/韓文 "wikilink")\[40\]。預定在2016年（平成28年）春季開幕，營業時間6:30
 - 23:00\[41\]。
 
 ### 行人、車輛動線
@@ -142,7 +142,7 @@ TOWER直通的B區後方（東側）是候車處與售票處、自動售票機�
 
 <!-- end list -->
 
-  - ：往[弘前站城東口](../Page/弘前車站.md "wikilink")、青森站東口、[青森港遊艇總站](https://zh.wikipedia.org/wiki/青森港 "wikilink")（）
+  - ：往[弘前站城東口](../Page/弘前車站.md "wikilink")、青森站東口、[青森港遊艇總站](../Page/青森港.md "wikilink")（）
 
   - WILLER
     EXPRESS：往[盛岡站西口](https://zh.wikipedia.org/wiki/盛岡站 "wikilink")、、[八戶站](https://zh.wikipedia.org/wiki/八戶站 "wikilink")、、[三澤站東口](../Page/三澤車站_\(青森縣\).md "wikilink")（岩手縣北自動車）
@@ -177,7 +177,7 @@ TOWER直通的B區後方（東側）是候車處與售票處、自動售票機�
 
 <!-- end list -->
 
-  - ：往[常陸太田市高速巴士總站](../Page/常陸太田市.md "wikilink")（JR巴士關東、[茨城交通](https://zh.wikipedia.org/wiki/茨城交通 "wikilink")）
+  - ：往[常陸太田市高速巴士總站](../Page/常陸太田市.md "wikilink")（JR巴士關東、[茨城交通](../Page/茨城交通.md "wikilink")）
 
   - ：往[常陸大宮市綜合保健中心](https://zh.wikipedia.org/wiki/常陸大宮市 "wikilink")（茨城交通）
 
@@ -218,7 +218,7 @@ TOWER直通的B區後方（東側）是候車處與售票處、自動售票機�
 
 <!-- end list -->
 
-  - 土気線：往[東京晴空塔城](https://zh.wikipedia.org/wiki/東京晴空塔城 "wikilink")、[千葉](../Page/千葉站.md "wikilink")、、、（京王巴士東、）
+  - 土気線：往[東京晴空塔城](../Page/東京晴空塔城.md "wikilink")、[千葉](../Page/千葉站.md "wikilink")、、、（京王巴士東、）
   - 東京SUMMERLAND線：往（僅夏季運行）（）
   - 相模湖ILLUMILLION線：往（季節運行）（FUJI EXPRESS）
 
@@ -227,7 +227,7 @@ TOWER直通的B區後方（東側）是候車處與售票處、自動售票機�
   - ：往、西口（小田急城市巴士、[小湊鐵道](https://zh.wikipedia.org/wiki/小湊鐵道 "wikilink")）
 
   - 新宿 -
-    五井線：往市原停車場、[五井站東口](https://zh.wikipedia.org/wiki/五井站 "wikilink")、[市原市役所](../Page/市原市.md "wikilink")（小田急城市巴士、小湊鐵道）
+    五井線：往市原停車場、[五井站東口](../Page/五井站.md "wikilink")、[市原市役所](../Page/市原市.md "wikilink")（小田急城市巴士、小湊鐵道）
 
   - 箱根線：往[御殿場站](../Page/御殿場站.md "wikilink")、[箱根桃源台](../Page/桃源台站.md "wikilink")、、（）
 
@@ -259,7 +259,7 @@ TOWER直通的B區後方（東側）是候車處與售票處、自動售票機�
       - 富士五湖線：往[富士急高原樂園](../Page/富士急高原樂園.md "wikilink")、[富士五湖](https://zh.wikipedia.org/wiki/富士五湖 "wikilink")（京王巴士東、、）
       - 富士山五合目線：往[富士山五合目](../Page/富士山.md "wikilink")（京王巴士東、京王巴士南、富士急山梨巴士、FUJI
         EXPRESS）
-      - 甲府線：往、、[竜王](https://zh.wikipedia.org/wiki/龍王站 "wikilink")、富士急上阿原車庫（京王巴士東、富士急山梨巴士、）
+      - 甲府線：往、、[竜王](../Page/龍王站.md "wikilink")、富士急上阿原車庫（京王巴士東、富士急山梨巴士、）
       - 南阿爾卑斯市·身延線：往[南阿爾卑斯市役所](../Page/南阿爾卑斯市.md "wikilink")、（京王巴士東、山梨交通）
       - 中央市·南阿爾卑斯市線（南阿爾卑斯ECOPARK
         LINER）：往[中央市](../Page/中央市.md "wikilink")、[南阿爾卑斯市](../Page/南阿爾卑斯市.md "wikilink")（山梨交通）
@@ -269,7 +269,7 @@ TOWER直通的B區後方（東側）是候車處與售票處、自動售票機�
       - 白馬線：往[信濃大町](../Page/信濃大町站.md "wikilink")、、、（京王巴士東、ALPICO交通、ALPICO交通東京）
       - 伊那線：往、（京王電鐵巴士、FUJI EXPRESS、、山梨交通、）
       - 飯田線：往[飯田](../Page/飯田站.md "wikilink")（京王電鐵巴士、ALPICO交通、伊那巴士、信南交通）
-      - 木曾福島線：往[塩尻](../Page/鹽尻站.md "wikilink")、[木曾福島](https://zh.wikipedia.org/wiki/木曾福島站 "wikilink")（京王巴士東、）
+      - 木曾福島線：往[塩尻](../Page/鹽尻站.md "wikilink")、[木曾福島](../Page/木曾福島站.md "wikilink")（京王巴士東、）
   - 長野線：往[長野](../Page/長野市.md "wikilink")（京王電鐵巴士、ALPICO交通）
   - 清爽信州號：往[上高地](../Page/上高地.md "wikilink")（季節運行）（ALPICO交通東京（京王巴士東也運行增班班次））
   - 甲州鹽山線（甲州酒LINER）：往[甲州市役所](../Page/甲州市.md "wikilink")、[山梨市役所](../Page/山梨市.md "wikilink")、富士急上阿原車庫（僅周六日運行）（富士急山梨巴士）
@@ -352,7 +352,7 @@ TOWER直通的B區後方（東側）是候車處與售票處、自動售票機�
 
   - ：往[中津川交流道](https://zh.wikipedia.org/wiki/中津川IC "wikilink")、名古屋站（JR巴士關東、JR東海巴士）
 
-  - ：往[中津川站](https://zh.wikipedia.org/wiki/中津川站 "wikilink")、[多治見站](https://zh.wikipedia.org/wiki/多治見站 "wikilink")、可兒車庫（JR巴士關東、）
+  - ：往[中津川站](../Page/中津川站.md "wikilink")、[多治見站](../Page/多治見站.md "wikilink")、可兒車庫（JR巴士關東、）
 
   - ：往[名古屋站](https://zh.wikipedia.org/wiki/名古屋站 "wikilink")（JR巴士關東）
 
@@ -381,7 +381,7 @@ TOWER直通的B區後方（東側）是候車處與售票處、自動售票機�
 
   - 三島EXPRESS：往三島站、大平車庫（小田急箱根高速巴士、東海巴士ORANGE SHUTTLE）
 
-  - ：往四日市、津、松阪、[鳥羽](../Page/鳥羽市.md "wikilink")（、[三重交通](https://zh.wikipedia.org/wiki/三重交通 "wikilink")、）
+  - ：往四日市、津、松阪、[鳥羽](../Page/鳥羽市.md "wikilink")（、[三重交通](../Page/三重交通.md "wikilink")、）
 
 <!-- end list -->
 
@@ -432,7 +432,7 @@ TOWER直通的B區後方（東側）是候車處與售票處、自動售票機�
   - CASUAL
     TWINKLE號：往大阪（[東梅田](https://zh.wikipedia.org/wiki/梅田站_\(大阪市營地下鐵\) "wikilink")、[阿倍野橋](../Page/大阪阿部野橋站.md "wikilink")）（近鐵巴士）
 
-  - ：往[山科](https://zh.wikipedia.org/wiki/山科站 "wikilink")・[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")、、[枚方](https://zh.wikipedia.org/wiki/枚方市站 "wikilink")（關東巴士、）
+  - ：往[山科](https://zh.wikipedia.org/wiki/山科站 "wikilink")・[京都](https://zh.wikipedia.org/wiki/京都站 "wikilink")、、[枚方](../Page/枚方市站.md "wikilink")（關東巴士、）
 
   - ：往、[奈良](https://zh.wikipedia.org/wiki/近鐵奈良站 "wikilink")，往[天理](../Page/天理市.md "wikilink")、、、（關東巴士、）
 
@@ -443,7 +443,7 @@ TOWER直通的B區後方（東側）是候車處與售票處、自動售票機�
 <!-- end list -->
 
   - WILLER
-    EXPRESS：往[南草津](../Page/南草津車站.md "wikilink")、京都、[高槻](https://zh.wikipedia.org/wiki/高槻站 "wikilink")（日本高速巴士）
+    EXPRESS：往[南草津](../Page/南草津車站.md "wikilink")、京都、[高槻](../Page/高槻站.md "wikilink")（日本高速巴士）
   - WILLER EXPRESS：往京都、大阪、堺（WILLER EXPRESS關東、WILLER EXPRESS西日本、大阪狹山交通）
   - WILLER EXPRESS：往大阪、神戶三宮（BAY LINE EXPRESS）
   - MOON
@@ -527,7 +527,7 @@ TOWER直通的B區後方（東側）是候車處與售票處、自動售票機�
   - HELLO
     BRIDGE號：往高松、[丸龜](https://zh.wikipedia.org/wiki/丸龜站 "wikilink")（西東京巴士、）
   - ORANGE
-    LINER愛媛號：往[松山](https://zh.wikipedia.org/wiki/松山市站 "wikilink")、[八幡濱](https://zh.wikipedia.org/wiki/八幡濱站 "wikilink")（西東京巴士、[伊予鐵道](../Page/伊予鐵道.md "wikilink")）
+    LINER愛媛號：往[松山](https://zh.wikipedia.org/wiki/松山市站 "wikilink")、[八幡濱](../Page/八幡濱站.md "wikilink")（西東京巴士、[伊予鐵道](../Page/伊予鐵道.md "wikilink")）
 
 <!-- end list -->
 

@@ -2,7 +2,7 @@
 Jung)，1976年2月3日出生於[日本](../Page/日本.md "wikilink")[島根縣](https://zh.wikipedia.org/wiki/島根縣 "wikilink")，是[SM娛樂旗下的作曲家](../Page/SM娛樂.md "wikilink"), 她為SM娛樂旗下的歌手和組合創作許多歌曲，包括[BoA](../Page/寶兒.md "wikilink")、Isak
 N Jiyeon、[Super
 Junior](../Page/Super_Junior.md "wikilink")、[天上智喜](../Page/天上智喜.md "wikilink")、[东方神起](../Page/東方神起.md "wikilink")、[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")、[SHINee](../Page/SHINee.md "wikilink")、[f(x)](../Page/F\(x\)_\(組合\).md "wikilink")、[EXO](../Page/EXO.md "wikilink")、[Red
-Velvet和](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")[NCT](../Page/NCT.md "wikilink")。\[1\]
+Velvet和](../Page/Red_Velvet.md "wikilink")[NCT](../Page/NCT.md "wikilink")。\[1\]
 
 ## 簡介
 
@@ -25,7 +25,6 @@ Ta"。 對於未來的目標，她希望擴闊她在音樂領域的視野，美
 [Category:島根縣出身人物](https://zh.wikipedia.org/wiki/Category:島根縣出身人物 "wikilink")
 [Category:韩国作曲家](https://zh.wikipedia.org/wiki/Category:韩国作曲家 "wikilink")
 
-1.   Yang Ji-won，[Red
-    Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")
+1.   Yang Ji-won，[Red Velvet](../Page/Red_Velvet.md "wikilink")
 2.
 3.

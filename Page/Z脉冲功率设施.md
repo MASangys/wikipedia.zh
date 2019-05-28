@@ -4,7 +4,7 @@ m³）[去离子水的同心室中](https://zh.wikipedia.org/wiki/去离子水 "
 然而，当机器放电时的[电磁脉冲导致令人印象深刻的闪电](../Page/电磁脉冲.md "wikilink")，被称为“闪络(flashover)”，其可以在房间中的许多金属物体周围被看到。\]\]
 
 **Z脉冲功率设施**()，非正式称为"Z机"，是世界上最大的高频电磁波发生器，设计用于在极端温度和压力条件下测试材料。自1996年10月重新装修以来\[1\]，它主要被用作[惯性约束聚变](https://zh.wikipedia.org/wiki/惯性约束聚变 "wikilink")（ICF）研究设施。
-由[桑迪亚国家实验室操作](https://zh.wikipedia.org/wiki/桑迪亚国家实验室 "wikilink")，它收集数据以帮助[核武器和最终的](../Page/核武器.md "wikilink")[核聚变脉冲发电厂](https://zh.wikipedia.org/wiki/核動力 "wikilink")(nuclear
+由[桑迪亚国家实验室操作](../Page/桑迪亚国家实验室.md "wikilink")，它收集数据以帮助[核武器和最终的](../Page/核武器.md "wikilink")[核聚变脉冲发电厂](https://zh.wikipedia.org/wiki/核動力 "wikilink")(nuclear
 power)的[计算机建模](../Page/计算机模拟.md "wikilink")。
 Z机位于[新墨西哥州](../Page/新墨西哥州.md "wikilink")[阿尔伯克基的桑迪亚的主要场所](https://zh.wikipedia.org/wiki/阿尔伯克基 "wikilink")。
 
@@ -16,7 +16,7 @@ GK或66亿华氏度（37亿摄氏度）\[2\]。
 
 ## 参阅
 
-  - [桑迪亚国家实验室](https://zh.wikipedia.org/wiki/桑迪亚国家实验室 "wikilink")
+  - [桑迪亚国家实验室](../Page/桑迪亚国家实验室.md "wikilink")
   - [磁化内衬惯性核聚变](../Page/磁化内衬惯性核聚变.md "wikilink")
   - [惯性约束聚变](https://zh.wikipedia.org/wiki/惯性约束聚变 "wikilink")（ICF）
 

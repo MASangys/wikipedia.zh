@@ -181,7 +181,7 @@ channel宣傳活動，名為《[一起Download的日子](https://zh.wikipedia.or
 </p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/蘇可欣" title="wikilink">蘇可欣</a><br />
+<td style="text-align: center;"><p><a href="../Page/蘇可欣.md" title="wikilink">蘇可欣</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -189,7 +189,7 @@ channel宣傳活動，名為《[一起Download的日子](https://zh.wikipedia.or
 </p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/歐陽巧瑩" title="wikilink">歐陽巧瑩</a><br />
+<td style="text-align: center;"><p><a href="../Page/歐陽巧瑩.md" title="wikilink">歐陽巧瑩</a><br />
 </p></td>
 </tr>
 <tr class="odd">
@@ -219,11 +219,11 @@ channel宣傳活動，名為《[一起Download的日子](https://zh.wikipedia.or
 </tbody>
 </table>
 
-|                                                     |
-| :-------------------------------------------------: |
-|                      **國語主播**                       |
-| [季蘋蘋](https://zh.wikipedia.org/wiki/季蘋蘋 "wikilink") |
-|                                                     |
+|                                  |
+| :------------------------------: |
+|             **國語主播**             |
+| [季蘋蘋](../Page/季蘋蘋.md "wikilink") |
+|                                  |
 
 |                                                            |
 | :--------------------------------------------------------: |
@@ -237,7 +237,7 @@ channel宣傳活動，名為《[一起Download的日子](https://zh.wikipedia.or
 |              [劉思希](../Page/劉思希.md "wikilink")              |
 |              [麥美恩](../Page/麥美恩.md "wikilink")              |
 |              [黃煦齡](../Page/黃煦齡.md "wikilink")              |
-|    [黃文意](https://zh.wikipedia.org/wiki/黃文意 "wikilink")     |
+|              [黃文意](../Page/黃文意.md "wikilink")              |
 |          [黃曉明](../Page/黃曉明_\(香港\).md "wikilink")           |
 |                         **曾任國語主播**                         |
 |    [江欣庭](https://zh.wikipedia.org/wiki/江欣庭 "wikilink")     |

@@ -53,7 +53,7 @@ MAUSU](https://zh.wikipedia.org/wiki/STUDIO_MAUSU "wikilink") 共同製作。
 
   - [田中公平](../Page/田中公平.md "wikilink")
   - [若草恵](../Page/若草惠.md "wikilink")
-  - [宮崎慎二](https://zh.wikipedia.org/wiki/宮崎慎二 "wikilink")
+  - [宮崎慎二](../Page/宮崎慎二.md "wikilink")
   - [大谷幸](../Page/大谷幸.md "wikilink")
   - 根岸貴幸
   - 岩崎文紀

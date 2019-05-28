@@ -38,7 +38,7 @@
 |                                                               |      |     |                                                                              |
 | [<font color=black>德山秀典</font>](../Page/德山秀典.md "wikilink")   | 須塔大翔 | 轟音金 | [<font color=black>宋克軍</font>](../Page/宋克軍.md "wikilink")                    |
 |                                                               |      |     |                                                                              |
-| [<font color=black>杉本有美</font>](../Page/杉本有美.md "wikilink")   | 須塔美羽 | 轟音銀 | [<font color=black>馮嘉德</font>](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink") |
+| [<font color=black>杉本有美</font>](../Page/杉本有美.md "wikilink")   | 須塔美羽 | 轟音銀 | [<font color=black>馮嘉德</font>](../Page/馮嘉德.md "wikilink")                    |
 |                                                               |      |     |                                                                              |
 
 ### 炎神機體
@@ -50,7 +50,7 @@
 |                                                               |       |    |                                                                              |
 | [<font color=white>江川央生</font>](../Page/江川央生.md "wikilink")   | 巴獅王   | 2  | [<font color=white>宋克軍</font>](../Page/宋克軍.md "wikilink")                    |
 |                                                               |       |    |                                                                              |
-| [<font color=black>井上美紀</font>](../Page/井上美紀.md "wikilink")   | 小熊RV  | 3  | [<font color=black>馮嘉德</font>](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink") |
+| [<font color=black>井上美紀</font>](../Page/井上美紀.md "wikilink")   | 小熊RV  | 3  | [<font color=black>馮嘉德</font>](../Page/馮嘉德.md "wikilink")                    |
 |                                                               |       |    |                                                                              |
 | [<font color=white>保志總一朗</font>](../Page/保志總一朗.md "wikilink") | 鯨鯊摩托  | 4  | [<font color=white>李景唐</font>](../Page/李景唐.md "wikilink")                    |
 |                                                               |       |    |                                                                              |
@@ -72,7 +72,7 @@
 |                                                                                 |     |       |                                                                               |
 | [<font color=white>鈴木裕樹</font>](../Page/鈴木裕樹.md "wikilink")                     | 漢堂將 | 激氣紅   | [<font color=white>何志威</font>](../Page/何志威.md "wikilink")                     |
 |                                                                                 |     |       |                                                                               |
-| [<font color=black>福井未菜</font>](../Page/福井未菜.md "wikilink")                     | 宇崎蘭 | 激氣黃   | [<font color=black>馮嘉德</font>](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")  |
+| [<font color=black>福井未菜</font>](../Page/福井未菜.md "wikilink")                     | 宇崎蘭 | 激氣黃   | [<font color=black>馮嘉德</font>](../Page/馮嘉德.md "wikilink")                     |
 |                                                                                 |     |       |                                                                               |
 | [<font color=white>高木萬平</font>](https://zh.wikipedia.org/wiki/高木萬平 "wikilink")  | 深見烈 | 激氣藍   | [<font color=white>林士程</font>](../Page/林士程.md "wikilink")                     |
 |                                                                                 |     |       |                                                                               |
@@ -89,12 +89,11 @@
 
   -
     **BOMPER<small>｜**[中川亞紀子](../Page/中川亞紀子.md "wikilink") 聲 /
-    台配：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")</small>
+    台配：[馮嘉德](../Page/馮嘉德.md "wikilink")</small>
     **激獸[山貓拳](https://zh.wikipedia.org/wiki/山貓 "wikilink")·夏傅<small>｜**[永井一郎](../Page/永井一郎.md "wikilink")
     聲 / 台配：[宋克軍](../Page/宋克軍.md "wikilink")</small>
     **真咲美希<small>｜**[伊藤和枝](../Page/伊藤和枝.md "wikilink") 飾 /
-    台配：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")
-    </small>
+    台配：[馮嘉德](../Page/馮嘉德.md "wikilink") </small>
     **真咲夏美<small>｜**[桑江咲菜](../Page/桑江咲菜.md "wikilink") 飾 /
     台配：[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")
     </small>
@@ -104,13 +103,12 @@
 ### 敵人
 
   -
-    **害地大臣·幽溝史坦因<small>｜**[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")
-    聲 / 台配：[宋克軍](../Page/宋克軍.md "wikilink") </small>
+    **害地大臣·幽溝史坦因<small>｜**[梁田清之](../Page/梁田清之.md "wikilink") 聲 /
+    台配：[宋克軍](../Page/宋克軍.md "wikilink") </small>
     **害氣大臣·奇塔納德斯<small>｜**[真殿光昭](../Page/真殿光昭.md "wikilink") 聲 /
     台配：[李景唐](../Page/李景唐.md "wikilink") </small>
     **害水大臣·凱格雷西亞<small>｜**[及川奈央](../Page/及川奈央.md "wikilink") 飾 /
-    台配：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")
-    </small>
+    台配：[馮嘉德](../Page/馮嘉德.md "wikilink") </small>
     **雙節棍蠻機<small>｜**[吉水孝宏](../Page/吉水孝宏.md "wikilink") 聲 /
     台配：[何志威](../Page/何志威.md "wikilink") </small>
     **臨獸[烏龜拳](https://zh.wikipedia.org/wiki/烏龜 "wikilink")·美加<small>｜**[宇垣秀成](../Page/宇垣秀成.md "wikilink")

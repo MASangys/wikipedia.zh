@@ -20,12 +20,12 @@ Studio Code](../Page/Visual_Studio_Code.md "wikilink")。\[3\]\[4\]
 
   - [Atom](../Page/Atom_\(文字編輯器\).md "wikilink")
   - [GitHub客户端](../Page/GitHub.md "wikilink")
-  - [Slack](https://zh.wikipedia.org/wiki/Slack "wikilink")
+  - [Slack](../Page/Slack.md "wikilink")
   - [GitKraken](https://zh.wikipedia.org/wiki/GitKraken "wikilink")
   - [Visual Studio Code](../Page/Visual_Studio_Code.md "wikilink")
   - [WordPress.com](../Page/WordPress.com.md "wikilink")
   - [Light Table](../Page/Light_Table.md "wikilink")
-  - [Discord](https://zh.wikipedia.org/wiki/Discord "wikilink")
+  - [Discord](../Page/Discord.md "wikilink")
   - [KeeWeb](https://zh.wikipedia.org/wiki/KeeWeb "wikilink")
   - [Postman](https://zh.wikipedia.org/wiki/Postman "wikilink")
   - [WhatsApp](../Page/WhatsApp.md "wikilink") Windows及Mac客户端
@@ -40,7 +40,7 @@ Studio Code](../Page/Visual_Studio_Code.md "wikilink")。\[3\]\[4\]
   - NWJS——舊名為 node-webkit 。和 Electron
     一樣是基於[chromium的軟體框架](https://zh.wikipedia.org/wiki/chromium "wikilink")
 
-  - [XULRunner](https://zh.wikipedia.org/wiki/XULRunner "wikilink")
+  - [XULRunner](../Page/XULRunner.md "wikilink")
 
 ## 参考文献
 

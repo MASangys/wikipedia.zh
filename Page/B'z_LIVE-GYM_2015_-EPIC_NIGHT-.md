@@ -13,7 +13,7 @@ NIGHT-**》是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedi
 
 ### 支援樂手
 
-  - [增田隆宣](https://zh.wikipedia.org/wiki/增田隆宣 "wikilink")：[鍵盤手](../Page/鍵盤樂器.md "wikilink")
+  - [增田隆宣](../Page/增田隆宣.md "wikilink")：[鍵盤手](../Page/鍵盤樂器.md "wikilink")
 
   - ：[鼓手](../Page/爵士鼓.md "wikilink")
 

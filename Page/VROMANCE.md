@@ -154,7 +154,7 @@ ACTION》以主打歌《女性朋友》（）出道\[3\]。
 </tr>
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Suits_(韓國電視劇)" title="wikilink">Suits</a> OST Part.5</strong>》</p>
+<td><p>《<strong><a href="../Page/Suits_(韓國電視劇).md" title="wikilink">Suits</a> OST Part.5</strong>》</p>
 <ul>
 <li>發行日期：2018年5月23日</li>
 </ul></td>

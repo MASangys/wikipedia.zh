@@ -3,7 +3,7 @@
 2015年4月30日發售的《Emerald》雜誌上對外宣稱策劃製作動畫，該年9月對外正式宣佈由耽美類動畫製作經驗豐富，有長期合作關係的[STUDIO
 DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。2016年4月6日起，在日本[AT-X](../Page/AT-X.md "wikilink")、[TOKYO
 MX等電視台深夜時段分](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")10話播出該作品改編的電視動畫。該動畫製作公司此前也曾製作同一作者的作品《[八犬傳－東方八犬異聞－系列](../Page/八犬傳－東方八犬異聞－.md "wikilink")》全兩期的電視動畫，也向來負責製作該雜誌另一重要漫畫家[中村春菊作品](../Page/中村春菊.md "wikilink")。導演是此前執導《[FAIRY
-TAIL](https://zh.wikipedia.org/wiki/FAIRY_TAIL_\(動畫\) "wikilink")》、《[記錄的地平線](../Page/記錄的地平線.md "wikilink")》等電視動畫作品的[石平信司](../Page/石平信司.md "wikilink")，這也是他初次執導耽美類動畫。導演傾向能將《SUPER
+TAIL](../Page/FAIRY_TAIL_\(動畫\).md "wikilink")》、《[記錄的地平線](../Page/記錄的地平線.md "wikilink")》等電視動畫作品的[石平信司](../Page/石平信司.md "wikilink")，這也是他初次執導耽美類動畫。導演傾向能將《SUPER
 LOVERS》製作成廣泛的觀眾層都能觀賞的動畫，但從動畫的支持者分佈來看，作品依然偏向女性市場並較受到女性視聽者歡迎。同年6月8日，在第1期最後一話片尾和官方推特上宣佈預定在2017年1月播出第2期，除劇名和製作委員會更動為「SUPER
 LOVERS 2」外，維持原有製作人員。2017年1月12日起，分10話在日本AT-X首播播出動畫第2期，片頭、片尾曲皆沿用第1期的唱者。
 
@@ -92,7 +92,7 @@ FANG](https://zh.wikipedia.org/wiki/白牙_\(傑克·倫敦小說\) "wikilink")�
 
 ### 創作經緯
 
-日本漫畫家[阿部美幸在長篇作品](../Page/阿部美幸.md "wikilink")《[八犬傳－東方八犬異聞－](../Page/八犬傳－東方八犬異聞－.md "wikilink")》連載5年後，同時創作登載的另一部長篇作品。2010年時於[BL向](https://zh.wikipedia.org/wiki/BL_\(和製英語\) "wikilink")、[少女漫畫為主的](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")《》雙月刊開始連載，2014年8月時移至[女性向BL為主的](../Page/Yaoi.md "wikilink")《》季刊連載至今。\[24\]2015年4月30日雜誌上宣佈製作動畫。\[25\]動畫製作一節詳見[下處](https://zh.wikipedia.org/wiki/SUPER_LOVERS#電視動畫 "wikilink")。
+日本漫畫家[阿部美幸在長篇作品](../Page/阿部美幸.md "wikilink")《[八犬傳－東方八犬異聞－](../Page/八犬傳－東方八犬異聞－.md "wikilink")》連載5年後，同時創作登載的另一部長篇作品。2010年時於[BL向](../Page/BL_\(和製英語\).md "wikilink")、[少女漫畫為主的](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")《》雙月刊開始連載，2014年8月時移至[女性向BL為主的](../Page/Yaoi.md "wikilink")《》季刊連載至今。\[24\]2015年4月30日雜誌上宣佈製作動畫。\[25\]動畫製作一節詳見[下處](https://zh.wikipedia.org/wiki/SUPER_LOVERS#電視動畫 "wikilink")。
 
 ### 外文譯本
 
@@ -208,7 +208,7 @@ MX等電視台深夜時段播出該作品改編的第2期電視動畫。首播�
 
 2015年4月30日發售的《Emerald》春之號上對外宣稱策劃製作動畫，該年9月對外正式宣佈由[STUDIO
 DEEN製作](../Page/STUDIO_DEEN.md "wikilink")。該動畫製作公司此前也曾製作同屬[阿部美幸的作品](../Page/阿部美幸.md "wikilink")《[八犬傳－東方八犬異聞－系列](../Page/八犬傳－東方八犬異聞－.md "wikilink")》全兩期的電視動畫，也曾製作《Emerald》另外一位重要漫畫家[中村春菊的](../Page/中村春菊.md "wikilink")《[世界一初戀系列](../Page/世界一初戀.md "wikilink")》、《[純情羅曼史](../Page/純情羅曼史.md "wikilink")》等耽美作品。導演則是此前執導《[FAIRY
-TAIL](https://zh.wikipedia.org/wiki/FAIRY_TAIL_\(動畫\) "wikilink")》、《[記錄的地平線](../Page/記錄的地平線.md "wikilink")》等電視動畫作品的[石平信司](../Page/石平信司.md "wikilink")，其中《記錄的地平線》2014年的第2期也是STUDIO
+TAIL](../Page/FAIRY_TAIL_\(動畫\).md "wikilink")》、《[記錄的地平線](../Page/記錄的地平線.md "wikilink")》等電視動畫作品的[石平信司](../Page/石平信司.md "wikilink")，其中《記錄的地平線》2014年的第2期也是STUDIO
 DEEN所製作。這是他初次執導耽美類動畫。\[76\]\[77\]
 
 首次接手耽美類動畫的石平信司，在製作方相詢時即答允接案，除作為導演想要接觸更多元的作品外，也有認為自己作為男性，相對於女性角色應該更能理解男性角色的想法。他從原作來理解，主張該作劇情述說的是「晴與零的故事」，是超越劇情類型的戀愛故事。他認為故事焦點落在晴和零兩人的關係上，而眾角色為此逐漸聚集並守護他們。
@@ -262,7 +262,7 @@ Autumn Festival」上，宣佈播出日期外，也宣佈片頭曲、片尾曲�
 2016年10月23日的活動上，揭示第2期片頭、片尾兩曲的唱者與第1期相同。\[88\]第2期片尾曲的唱者，每話不盡相同，共有七種組合，其中雙人合唱六種（零與晴為第1、9話；晴與亞樹為第2話、零與蒔麻為第4話；亞樹與蒔麻為第5話；晴與蒔麻為第7話；零與亞樹為第8話），四人合唱一種（第3、6、10話、OAD2）。
 
   - 片頭曲「」\[89\]\[90\]
-    作詞、作曲：山田智和，編曲：[睦月周平](https://zh.wikipedia.org/wiki/睦月周平 "wikilink")，主唱：矢田悠祐
+    作詞、作曲：山田智和，編曲：[睦月周平](../Page/睦月周平.md "wikilink")，主唱：矢田悠祐
 
 <!-- end list -->
 
@@ -350,7 +350,7 @@ Autumn Festival」上，宣佈播出日期外，也宣佈片頭曲、片尾曲�
 <tr class="odd">
 <td><p>#6</p></td>
 <td><p>cloudy sky</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山田由香" title="wikilink">山田由香</a></p></td>
+<td><p><a href="../Page/山田由香.md" title="wikilink">山田由香</a></p></td>
 <td><p>BoB白旗</p></td>
 <td><p>高橋英俊</p></td>
 <td><p>齋藤溫子</p></td>
@@ -549,14 +549,14 @@ Autumn Festival」上，宣佈播出日期外，也宣佈片頭曲、片尾曲�
 Loveridge即拒絕評分，並與《[白兔糖](../Page/白兔糖.md "wikilink")》的[養成經過比較](https://zh.wikipedia.org/wiki/光源氏計劃 "wikilink")，即使市面上耽美作品較罕有，依然決定放棄觀賞；Nick
 Creamer則驚斥此動畫為[戀童癖題材](https://zh.wikipedia.org/wiki/戀童 "wikilink")，並對網路得以合法播送感到驚訝，也對西方市場是否能夠接受抱有懷疑；Jacob
 Hope
-Chapman雖拒絕評價但筆鋒較緩和，類比為[少年愛類作品](https://zh.wikipedia.org/wiki/少年愛 "wikilink")，針對戀童一說，他辯解劇情後來已經安排零在16歲[成年](https://zh.wikipedia.org/wiki/成年 "wikilink")「[教化](https://zh.wikipedia.org/wiki/教化 "wikilink")」以後才選擇晴，因此與其它耽美作品如2015年播放第三期的《[純情羅曼史](../Page/純情羅曼史.md "wikilink")》其實是相類似的一般耽美作品，另外他提到了作品中晴主張[接吻為加拿大問候風俗一事其實在現實的加拿大是不存在的](https://zh.wikipedia.org/wiki/接吻 "wikilink")；Rebecca
+Chapman雖拒絕評價但筆鋒較緩和，類比為[少年愛類作品](../Page/少年愛.md "wikilink")，針對戀童一說，他辯解劇情後來已經安排零在16歲[成年](https://zh.wikipedia.org/wiki/成年 "wikilink")「[教化](https://zh.wikipedia.org/wiki/教化 "wikilink")」以後才選擇晴，因此與其它耽美作品如2015年播放第三期的《[純情羅曼史](../Page/純情羅曼史.md "wikilink")》其實是相類似的一般耽美作品，另外他提到了作品中晴主張[接吻為加拿大問候風俗一事其實在現實的加拿大是不存在的](https://zh.wikipedia.org/wiki/接吻 "wikilink")；Rebecca
 Silverman是動畫新聞網首集評價文的評論者群中惟一提供評分的評論人，5分中的2分，她認為此動畫結合了三大敏感要素，[非血親的亂倫](https://zh.wikipedia.org/wiki/近親性交#非血親亂倫 "wikilink")、養成元素和巨大的年齡差，她認為首集劇情平平，但特別指出喜歡狗群的存在，另外由於晴離開生母春子後的生活刻畫不足等使得晴的角色刻畫過於平坦。\[95\]UK
 Anime Network的Clover
 Harker就前三集而言在評價上10分給了7分，主張該動畫除年齡差外其它方面並未逾矩，並認為動畫畫面背景，尤其是加拿大風景，相當賞心悅目。\[96\]
 
 前述的動畫新聞網在季後，對[春季動畫進行總評並由評論者選出最優](https://zh.wikipedia.org/wiki/日本動畫列表_\(2016年\)#4月－6月 "wikilink")、最劣作品等。其中該作得到兩個最劣的評價，其中一位評論人Jacob
 Chapman曾經好評《[LOVE
-STAGE\!\!](../Page/LOVE_STAGE!!.md "wikilink")》和《[同級生](https://zh.wikipedia.org/wiki/同級生_\(漫畫\) "wikilink")》，不過對於該作無法擺脫2000年代以前[舊式耽美模式](../Page/Yaoi.md "wikilink")，而在日本的銷量還壓過同期的《[在下坂本，有何貴幹？](../Page/在下坂本，有何貴幹？.md "wikilink")》、《[少年女僕](https://zh.wikipedia.org/wiki/少年女僕 "wikilink")》、《[田中君總是如此慵懶](../Page/田中君總是如此慵懶.md "wikilink")》甚至還擁有第二期的製作則感到難過，他認為市場已經開始有譬如《同級生》般對同性戀群體更為正向的作品，無須再選擇侮辱性向少數群體且價值扭曲的作品。Rebecca
+STAGE\!\!](../Page/LOVE_STAGE!!.md "wikilink")》和《[同級生](../Page/同級生_\(漫畫\).md "wikilink")》，不過對於該作無法擺脫2000年代以前[舊式耽美模式](../Page/Yaoi.md "wikilink")，而在日本的銷量還壓過同期的《[在下坂本，有何貴幹？](../Page/在下坂本，有何貴幹？.md "wikilink")》、《[少年女僕](https://zh.wikipedia.org/wiki/少年女僕 "wikilink")》、《[田中君總是如此慵懶](../Page/田中君總是如此慵懶.md "wikilink")》甚至還擁有第二期的製作則感到難過，他認為市場已經開始有譬如《同級生》般對同性戀群體更為正向的作品，無須再選擇侮辱性向少數群體且價值扭曲的作品。Rebecca
 Silverman則非從價值出發，而是對動畫的製作非常不滿。除認為與原作人設風格乖離外，也認為人物部分動畫中的動作怪異，她評論劇情整體節奏過快，感受不到主角間感情的培養，直斥製作方對稀有的BL動畫作品製作的草率。\[97\]
 
 ##### 第2期
@@ -716,7 +716,7 @@ Beveridge評論Oricon的動畫光碟銷量單週數據時，正值該作動畫�
 
 77.
 
-78. 的漫畫長篇，1982年電視動畫播放。1970年代日本少女漫畫界中，喜劇漫畫結合[少年愛元素的先驅之一](https://zh.wikipedia.org/wiki/少年愛 "wikilink")，同期另一部同類先驅作品為[青池保子的](../Page/青池保子.md "wikilink")[浪漫英雄](../Page/浪漫英雄.md "wikilink")。
+78. 的漫畫長篇，1982年電視動畫播放。1970年代日本少女漫畫界中，喜劇漫畫結合[少年愛元素的先驅之一](../Page/少年愛.md "wikilink")，同期另一部同類先驅作品為[青池保子的](../Page/青池保子.md "wikilink")[浪漫英雄](../Page/浪漫英雄.md "wikilink")。
 
 79.
 

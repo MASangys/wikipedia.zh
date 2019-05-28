@@ -10,8 +10,8 @@ Vista](../Page/Windows_Vista.md "wikilink")、[Windows Server
 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows Server
 2012](../Page/Windows_Server_2012.md "wikilink")、[Windows
 8.1和](../Page/Windows_8.1.md "wikilink")[Windows
-10的](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")64位版本。在[Windows
-Server 2008 R2](../Page/Windows_Server_2008_R2.md "wikilink") Server
+10的](../Page/Windows_10.md "wikilink")64位版本。在[Windows Server 2008
+R2](../Page/Windows_Server_2008_R2.md "wikilink") Server
 Core中它成为了可选组件，并在[Nano
 Server中不再提供](../Page/Windows_Server_2016.md "wikilink")。WoW64旨在解决32位与64位Windows中的许多差异，特别是涉及到Windows本身的结构变化。
 

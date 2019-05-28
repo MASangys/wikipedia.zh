@@ -187,7 +187,7 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/甜蜜懲罰～我是看守專用寵物" title="wikilink">甜蜜懲罰～我是看守專用寵物</a></p></td>
+<td><p><a href="../Page/甜蜜懲罰～我是看守專用寵物.md" title="wikilink">甜蜜懲罰～我是看守專用寵物</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1062,7 +1062,7 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 <tr class="odd">
 <td><p>2006年</p></td>
 <td><p>2007年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/奇幻魔法Melody：轉轉旋律魔法牌" title="wikilink">我愛美樂蒂：轉轉旋律魔法牌</a></p></td>
+<td><p><a href="../Page/奇幻魔法Melody：轉轉旋律魔法牌.md" title="wikilink">我愛美樂蒂：轉轉旋律魔法牌</a></p></td>
 <td></td>
 <td><p>STUDIO COME</p></td>
 <td><p>原創</p></td>
@@ -1863,7 +1863,7 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/惡魔高校D×D" title="wikilink">惡魔高校D×D BorN</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TNK" title="wikilink">TNK</a></p></td>
+<td><p><a href="../Page/TNK.md" title="wikilink">TNK</a></p></td>
 <td><p>小說</p></td>
 <td></td>
 <td></td>
@@ -1978,7 +1978,7 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/怪盜Joker" title="wikilink">怪盜Joker (第3期)</a></p></td>
+<td><p><a href="../Page/怪盜Joker.md" title="wikilink">怪盜Joker (第3期)</a></p></td>
 <td></td>
 <td><p>SHIN-EI動畫</p></td>
 <td><p>漫畫</p></td>
@@ -2224,13 +2224,13 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 <td><p>2018年</p></td>
 <td><p><a href="../Page/遙的接球.md" title="wikilink">遙的接球</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C2C_(日本公司)" title="wikilink">C2C</a></p></td>
+<td><p><a href="../Page/C2C_(日本公司).md" title="wikilink">C2C</a></p></td>
 <td><p>漫畫</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/錢進球場" title="wikilink">錢進球場</a></p></td>
+<td><p><a href="../Page/錢進球場.md" title="wikilink">錢進球場</a></p></td>
 <td></td>
 <td><p>STUDIO DEEN</p></td>
 <td></td>
@@ -2259,7 +2259,7 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 <td><p>1988年－2000年</p></td>
 <td><p><a href="../Page/銀河英雄傳說.md" title="wikilink">銀河英雄傳說</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Kitty_film" title="wikilink">Kitty film</a>→</p></td>
+<td><p><a href="../Page/Kitty_film.md" title="wikilink">Kitty film</a>→</p></td>
 <td><p>小說</p></td>
 <td></td>
 </tr>

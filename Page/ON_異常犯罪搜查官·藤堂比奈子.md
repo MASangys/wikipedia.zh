@@ -421,8 +421,7 @@
 
 #### 第7話
 
-  - 伊集院希良梨（伊集院きらり）（[松本穗香](https://zh.wikipedia.org/wiki/松本穗香 "wikilink")
-    飾）
+  - 伊集院希良梨（伊集院きらり）（[松本穗香](../Page/松本穗香.md "wikilink") 飾）
 
 <!-- end list -->
 
@@ -458,7 +457,7 @@
 
 ## 音乐
 
-  - 主题曲：《》，演唱：[［Alexandros］](https://zh.wikipedia.org/wiki/［Alexandros］ "wikilink")
+  - 主题曲：《》，演唱：[［Alexandros］](../Page/［Alexandros］.md "wikilink")
 
 ## 播出日程及收視率
 

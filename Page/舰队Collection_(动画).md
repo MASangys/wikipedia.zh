@@ -79,7 +79,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/曉號驅逐艦_(吹雪型)" title="wikilink">曉</a>、<a href="https://zh.wikipedia.org/wiki/響號驅逐艦" title="wikilink">響</a>、<a href="../Page/雷號驅逐艦_(吹雪型).md" title="wikilink">雷</a>、<a href="../Page/電號驅逐艦_(吹雪型).md" title="wikilink">電</a></p></td>
+<td><p><a href="../Page/曉號驅逐艦_(吹雪型).md" title="wikilink">曉</a>、<a href="../Page/響號驅逐艦.md" title="wikilink">響</a>、<a href="../Page/雷號驅逐艦_(吹雪型).md" title="wikilink">雷</a>、<a href="../Page/電號驅逐艦_(吹雪型).md" title="wikilink">電</a></p></td>
 <td><p><a href="../Page/洲崎綾.md" title="wikilink">洲崎綾</a></p></td>
 <td><p>驅逐艦</p></td>
 </tr>
@@ -139,7 +139,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/北上號輕巡洋艦.md" title="wikilink">北上</a>、<a href="https://zh.wikipedia.org/wiki/大井號輕巡洋艦" title="wikilink">大井</a></p></td>
+<td><p><a href="../Page/北上號輕巡洋艦.md" title="wikilink">北上</a>、<a href="../Page/大井號輕巡洋艦.md" title="wikilink">大井</a></p></td>
 <td><p><a href="../Page/大坪由佳.md" title="wikilink">大坪由佳</a></p></td>
 <td><p>重雷裝巡洋艦</p></td>
 </tr>

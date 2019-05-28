@@ -2,7 +2,7 @@
 
 ## 行星系
 
-在2013年，發現有一顆行星環繞著WASP-95。這顆行星，[WASP-95b](https://zh.wikipedia.org/wiki/WASP-95 "wikilink")，是一顆大約比[木星重](../Page/木星.md "wikilink")10%的[熱木星](../Page/熱木星.md "wikilink")，每2天就能完成環繞恆星一次的軌道。它在2013年的一次從母恆星前方掠過時被發現\[1\]。
+在2013年，發現有一顆行星環繞著WASP-95。這顆行星，[WASP-95b](../Page/WASP-95.md "wikilink")，是一顆大約比[木星重](../Page/木星.md "wikilink")10%的[熱木星](../Page/熱木星.md "wikilink")，每2天就能完成環繞恆星一次的軌道。它在2013年的一次從母恆星前方掠過時被發現\[1\]。
 
 \[2\]
 

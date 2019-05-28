@@ -24,9 +24,8 @@ Vive”具有90赫兹的[刷新速率](https://zh.wikipedia.org/wiki/刷新速�
 ### 最低系统要求
 
   - GPU: NVIDIA GeForce [GTX
-    970](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_900 "wikilink") /
-    AMD Radeon [R9 290](../Page/AMD_Radeon_Rx_200.md "wikilink")
-    同等或更高的版本
+    970](../Page/NVIDIA_GeForce_900.md "wikilink") / AMD Radeon [R9
+    290](../Page/AMD_Radeon_Rx_200.md "wikilink") 同等或更高的版本
   - CPU: [Intel i5-4590](../Page/Haswell微架構.md "wikilink") / AMD
     [FX-8350](https://zh.wikipedia.org/wiki/AMD_FX處理器列表 "wikilink")
     同等或更高的版本

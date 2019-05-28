@@ -36,8 +36,7 @@ A----rt」。
 
 #### 常規
 
-  - （[AbemaTV](https://zh.wikipedia.org/wiki/AbemaTV "wikilink")） -
-    星期四成員
+  - （[AbemaTV](../Page/AbemaTV.md "wikilink")） - 星期四成員
 
 ## 參考資料
 

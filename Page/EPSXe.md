@@ -3,7 +3,7 @@
 是閉源的，但它提供的插件API接口是开源的。
 
 有半年時間，ePSXe
-是在私密狀態下開發的；而當2000年10月14日公開發佈時，它憑藉相比同期其它[PlayStation模擬器更高的兼容性和性能](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，為[PSX模擬領域帶來了一場技术革命](../Page/PSX.md "wikilink")。
+是在私密狀態下開發的；而當2000年10月14日公開發佈時，它憑藉相比同期其它[PlayStation模擬器更高的兼容性和性能](../Page/PlayStation.md "wikilink")，為[PSX模擬領域帶來了一場技术革命](../Page/PSX.md "wikilink")。
 
 Retro Gamer称ePSXe是最为出色的免费PS1模拟器。\[1\]
 
@@ -17,7 +17,7 @@ Retro Gamer称ePSXe是最为出色的免费PS1模拟器。\[1\]
   - 内存: 256 MB RAM, 推荐 512 MB RAM
   - [显卡](https://zh.wikipedia.org/wiki/显卡 "wikilink"):
     显卡支持[OpenGL](../Page/OpenGL.md "wikilink")、[DirectX或](../Page/DirectX.md "wikilink")[Glide
-    API](https://zh.wikipedia.org/wiki/Glide_\(API\) "wikilink")
+    API](../Page/Glide_\(API\).md "wikilink")
   - [操作系统](../Page/操作系统.md "wikilink"): Windows、Linux或macOS
   - 光驱: 16x或更快 (可选)
 

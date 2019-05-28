@@ -26,7 +26,7 @@
 <td><p>1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Despacito" title="wikilink">Despacito</a>[4]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Despacito" title="wikilink">慢慢來</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/路易斯·馮西" title="wikilink">路易斯·馮西</a><small>（<a href="https://zh.wikipedia.org/wiki/洋基老爹" title="wikilink">洋基老爹伴唱</a>）</small></p></td>
+<td><p><a href="../Page/路易斯·馮西.md" title="wikilink">路易斯·馮西</a><small>（<a href="../Page/洋基老爹.md" title="wikilink">洋基老爹伴唱</a>）</small></p></td>
 <td><p>61.60</p></td>
 <td><p>2017年1月12日</p></td>
 </tr>
@@ -139,7 +139,7 @@
 <td><p>15</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黑馬_(歌曲)" title="wikilink">Dark Horse</a>[18]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黑馬_(歌曲)" title="wikilink">黑馬</a></p></td>
-<td><p><a href="../Page/凱蒂·佩芮.md" title="wikilink">凱蒂·佩芮</a><small>（<a href="https://zh.wikipedia.org/wiki/裘西·J" title="wikilink">裘西·J伴唱</a>）</small></p></td>
+<td><p><a href="../Page/凱蒂·佩芮.md" title="wikilink">凱蒂·佩芮</a><small>（<a href="../Page/裘西·J.md" title="wikilink">裘西·J伴唱</a>）</small></p></td>
 <td><p>25.63</p></td>
 <td><p>2014年2月20日</p></td>
 </tr>
@@ -147,7 +147,7 @@
 <td><p>16</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/依靠_(歌曲)" title="wikilink">Lean On</a>[19]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/依靠_(歌曲)" title="wikilink">依靠</a></p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/DJ蛇王" title="wikilink">DJ蛇王</a> <small>（<a href="../Page/MØ.md" title="wikilink">MØ伴唱</a>）</small></p></td>
+<td><p>、<a href="../Page/DJ蛇王.md" title="wikilink">DJ蛇王</a> <small>（<a href="../Page/MØ.md" title="wikilink">MØ伴唱</a>）</small></p></td>
 <td><p>25.58</p></td>
 <td><p>2015年3月22日</p></td>
 </tr>
@@ -203,7 +203,7 @@
 <td><p>23</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Closer_(老菸槍雙人組歌曲)" title="wikilink">Closer (Lyric)</a>[26]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Closer_(老菸槍雙人組歌曲)" title="wikilink">近在身邊（歌詞版）</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/老菸槍雙人組" title="wikilink">老菸槍雙人組</a><small>（<a href="https://zh.wikipedia.org/wiki/海爾希_(歌手)" title="wikilink">海爾希伴唱</a>）</small></p></td>
+<td><p><a href="../Page/老菸槍雙人組.md" title="wikilink">老菸槍雙人組</a><small>（<a href="../Page/海爾希_(歌手).md" title="wikilink">海爾希伴唱</a>）</small></p></td>
 <td><p>22.92</p></td>
 <td><p>2016年7月29日</p></td>
 </tr>
@@ -315,7 +315,7 @@
 <td><p>37</p></td>
 <td><p>[40]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/路易斯·馮西" title="wikilink">路易斯·馮西</a>、<a href="../Page/黛咪·洛瓦特.md" title="wikilink">黛咪·洛瓦特</a></p></td>
+<td><p><a href="../Page/路易斯·馮西.md" title="wikilink">路易斯·馮西</a>、<a href="../Page/黛咪·洛瓦特.md" title="wikilink">黛咪·洛瓦特</a></p></td>
 <td><p>18.30</p></td>
 <td><p>2017年11月16日</p></td>
 </tr>
@@ -363,7 +363,7 @@
 <td><p>43</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛情守則" title="wikilink">New Rules</a>[46]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛情守則" title="wikilink">愛情守則</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/杜娃·黎波" title="wikilink">杜娃·黎波</a></p></td>
+<td><p><a href="../Page/杜娃·黎波.md" title="wikilink">杜娃·黎波</a></p></td>
 <td><p>17.59</p></td>
 <td><p>2017年7月7日</p></td>
 </tr>
@@ -459,7 +459,7 @@
 <td><p>55</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/如此而已" title="wikilink">Something Just Like This (Lyric)</a>[58]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/如此而已" title="wikilink">如此而已（歌詞版）</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/老菸槍雙人組" title="wikilink">老菸槍雙人組</a>、<a href="../Page/酷玩樂團.md" title="wikilink">酷玩樂團</a></p></td>
+<td><p><a href="../Page/老菸槍雙人組.md" title="wikilink">老菸槍雙人組</a>、<a href="../Page/酷玩樂團.md" title="wikilink">酷玩樂團</a></p></td>
 <td><p>16.31</p></td>
 <td><p>2017年2月22日</p></td>
 </tr>
@@ -507,7 +507,7 @@
 <td><p>61</p></td>
 <td><p>[64]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/貝姬·G" title="wikilink">貝姬·G</a><small>（伴唱）</small></p></td>
+<td><p><a href="../Page/貝姬·G.md" title="wikilink">貝姬·G</a><small>（伴唱）</small></p></td>
 <td><p>15.56</p></td>
 <td><p>2017年7月13日</p></td>
 </tr>
@@ -555,7 +555,7 @@
 <td><p>67</p></td>
 <td><p>[70]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CNCO_(音樂團體)" title="wikilink">CNCO</a></p></td>
+<td><p><a href="../Page/CNCO_(音樂團體).md" title="wikilink">CNCO</a></p></td>
 <td><p>15.03</p></td>
 <td><p>2016年10月7日</p></td>
 </tr>
@@ -585,8 +585,8 @@
 </tr>
 <tr class="odd">
 <td><p>71</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/就愛這一味" title="wikilink">That's What I Like</a>[74]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/就愛這一味" title="wikilink">就愛這一味</a></p></td>
+<td><p><a href="../Page/就愛這一味.md" title="wikilink">That's What I Like</a>[74]</p></td>
+<td><p><a href="../Page/就愛這一味.md" title="wikilink">就愛這一味</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/火星人布魯諾" title="wikilink">火星人布魯諾</a></p></td>
 <td><p>14.67</p></td>
 <td><p>2017年3月1日</p></td>
@@ -619,7 +619,7 @@
 <td><p>75</p></td>
 <td><p>[78]</p></td>
 <td></td>
-<td><p><small>（<a href="https://zh.wikipedia.org/wiki/洋基老爹" title="wikilink">洋基老爹伴唱</a>）</small></p></td>
+<td><p><small>（<a href="../Page/洋基老爹.md" title="wikilink">洋基老爹伴唱</a>）</small></p></td>
 <td><p>13.92</p></td>
 <td><p>2016年4月20日</p></td>
 </tr>
@@ -627,7 +627,7 @@
 <td><p>76</p></td>
 <td><p>[79]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/貝姬·G" title="wikilink">貝姬·G</a>、</p></td>
+<td><p><a href="../Page/貝姬·G.md" title="wikilink">貝姬·G</a>、</p></td>
 <td><p>13.88</p></td>
 <td><p>2018年4月20日</p></td>
 </tr>
@@ -651,7 +651,7 @@
 <td><p>79</p></td>
 <td><p>[82]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洋基老爹" title="wikilink">洋基老爹</a></p></td>
+<td><p><a href="../Page/洋基老爹.md" title="wikilink">洋基老爹</a></p></td>
 <td><p>13.50</p></td>
 <td><p>2018年1月18日</p></td>
 </tr>
@@ -699,7 +699,7 @@
 <td><p>85</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/別讓我失望" title="wikilink">Don't Let Me Down</a>[88]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Don&#39;t_Let_Me_Down" title="wikilink">別讓我失望</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/老菸槍雙人組" title="wikilink">老菸槍雙人組</a><small>（伴唱）</small></p></td>
+<td><p><a href="../Page/老菸槍雙人組.md" title="wikilink">老菸槍雙人組</a><small>（伴唱）</small></p></td>
 <td><p>13.29</p></td>
 <td><p>2016年4月29日</p></td>
 </tr>
@@ -707,7 +707,7 @@
 <td><p>86</p></td>
 <td><p>[89]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洋基老爹" title="wikilink">洋基老爹</a></p></td>
+<td><p><a href="../Page/洋基老爹.md" title="wikilink">洋基老爹</a></p></td>
 <td><p>13.28</p></td>
 <td><p>2016年7月14日</p></td>
 </tr>
@@ -771,7 +771,7 @@
 <td><p>94</p></td>
 <td><p>[97]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DJ蛇王" title="wikilink">DJ蛇王</a> <small>（<a href="../Page/赛琳娜·戈麦斯.md" title="wikilink">席琳娜·戈梅茲</a>、、<a href="https://zh.wikipedia.org/wiki/Cardi_B" title="wikilink">Cardi B伴唱</a>）</small></p></td>
+<td><p><a href="../Page/DJ蛇王.md" title="wikilink">DJ蛇王</a> <small>（<a href="../Page/赛琳娜·戈麦斯.md" title="wikilink">席琳娜·戈梅茲</a>、、<a href="https://zh.wikipedia.org/wiki/Cardi_B" title="wikilink">Cardi B伴唱</a>）</small></p></td>
 <td><p>12.97</p></td>
 <td><p>2018年10月9日</p></td>
 </tr>
@@ -795,7 +795,7 @@
 <td><p>97</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/壞到底_(歌曲)" title="wikilink">Bad Blood</a>[100]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/壞到底_(歌曲)" title="wikilink">壞到底</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/泰勒絲" title="wikilink">泰勒絲</a><small>（<a href="https://zh.wikipedia.org/wiki/肯德里克·拉马尔" title="wikilink">肯德里克·拉马尔伴唱</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/泰勒絲" title="wikilink">泰勒絲</a><small>（<a href="../Page/肯德里克·拉马尔.md" title="wikilink">肯德里克·拉马尔伴唱</a>）</small></p></td>
 <td><p>12.82</p></td>
 <td><p>2015年5月17日</p></td>
 </tr>
@@ -1513,7 +1513,7 @@ Style](../Page/江南Style.md "wikilink")》和《[Baby](https://zh.wikipedia.or
 </tr>
 <tr class="even">
 <td><p>82</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/就愛這一味" title="wikilink">That's What I Like</a></p></td>
+<td><p><a href="../Page/就愛這一味.md" title="wikilink">That's What I Like</a></p></td>
 <td><p>2017年3月1日</p></td>
 <td><p>2017年10月23日</p></td>
 <td><p>236</p></td>
@@ -2509,7 +2509,7 @@ Style](../Page/江南Style.md "wikilink")》和《[Baby](https://zh.wikipedia.or
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Despacito" title="wikilink">Despacito</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/路易斯·馮西" title="wikilink">路易斯·馮西ft</a>.<a href="https://zh.wikipedia.org/wiki/洋基老爹" title="wikilink">洋基老爹</a></p></td>
+<td><p><a href="../Page/路易斯·馮西.md" title="wikilink">路易斯·馮西ft</a>.<a href="../Page/洋基老爹.md" title="wikilink">洋基老爹</a></p></td>
 <td><p>2,993,700,000</p></td>
 <td><p>2017年8月4日</p></td>
 <td></td>

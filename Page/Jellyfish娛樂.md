@@ -77,7 +77,7 @@ E\&M簽訂合約成為合作夥伴。
 <td><p>2016年6月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/gugudan" title="wikilink">gugudan</a></p></td>
 <td><p>女</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭美美" title="wikilink">美美</a>、<a href="https://zh.wikipedia.org/wiki/辛寶羅" title="wikilink">Hana</a>、<a href="https://zh.wikipedia.org/wiki/韓海彬" title="wikilink">海彬</a>、<a href="https://zh.wikipedia.org/wiki/娜英" title="wikilink">娜英</a>、<a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">世正</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭美美" title="wikilink">美美</a>、<a href="https://zh.wikipedia.org/wiki/辛寶羅" title="wikilink">Hana</a>、<a href="https://zh.wikipedia.org/wiki/韓海彬" title="wikilink">海彬</a>、<a href="../Page/娜英.md" title="wikilink">娜英</a>、<a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">世正</a><br />
 <a href="https://zh.wikipedia.org/wiki/劉些寧" title="wikilink">Sally</a>、<a href="https://zh.wikipedia.org/wiki/張昭真" title="wikilink">Soyee</a>、<a href="https://zh.wikipedia.org/wiki/康美娜" title="wikilink">美娜</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/辛寶羅" title="wikilink">Hana</a></p></td>
 <td><p>단짝(Dear Friend) （摯友）</p></td>
@@ -101,12 +101,12 @@ E\&M簽訂合約成為合作夥伴。
 
 ### 子團組合/企劃組合
 
-|            |                                                                           |    |                                                                                                                                                         |                                                     |     |                                                             |                 |             |
-| ---------- | ------------------------------------------------------------------------- | -- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- | --- | ----------------------------------------------------------- | --------------- | ----------- |
-| 出道日期       | 組合名稱                                                                      | 性別 | 成員                                                                                                                                                      | 隊長                                                  | 狀況  | 所屬團體                                                        | 官方粉絲名           | 官方應援物       |
-| 2015年8月7日  | [VIXX LR](../Page/VIXX_LR.md "wikilink")                                  | 男  | [Leo](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")、[Ravi](https://zh.wikipedia.org/wiki/金元植 "wikilink")                                                | [Leo](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink") | 活動中 | [VIXX](../Page/VIXX.md "wikilink")                          | ST★RLIGHT       | 星光棒手燈、應援毛巾  |
-| 2017年8月10日 | [gugudan OGUOGU](https://zh.wikipedia.org/wiki/gugudan_OGUOGU "wikilink") | 女  | [美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[慧妍](https://zh.wikipedia.org/wiki/趙慧妍 "wikilink")                                                   | [美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")  | 解散  | [gugudan](https://zh.wikipedia.org/wiki/gugudan "wikilink") | 단짝（Dear Friend） | rowspan="2" |
-| 2018年7月10日 | [gugudan SEMINA](https://zh.wikipedia.org/wiki/gugudan_SEMINA "wikilink") | 女  | [娜英](https://zh.wikipedia.org/wiki/娜英 "wikilink")、[世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink") | [娜英](https://zh.wikipedia.org/wiki/娜英 "wikilink")   | 活動中 |                                                             |                 |             |
+|            |                                                                           |    |                                                                                                                                      |                                                     |     |                                                             |                 |             |
+| ---------- | ------------------------------------------------------------------------- | -- | ------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------- | --- | ----------------------------------------------------------- | --------------- | ----------- |
+| 出道日期       | 組合名稱                                                                      | 性別 | 成員                                                                                                                                   | 隊長                                                  | 狀況  | 所屬團體                                                        | 官方粉絲名           | 官方應援物       |
+| 2015年8月7日  | [VIXX LR](../Page/VIXX_LR.md "wikilink")                                  | 男  | [Leo](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink")、[Ravi](https://zh.wikipedia.org/wiki/金元植 "wikilink")                             | [Leo](https://zh.wikipedia.org/wiki/鄭澤運 "wikilink") | 活動中 | [VIXX](../Page/VIXX.md "wikilink")                          | ST★RLIGHT       | 星光棒手燈、應援毛巾  |
+| 2017年8月10日 | [gugudan OGUOGU](https://zh.wikipedia.org/wiki/gugudan_OGUOGU "wikilink") | 女  | [美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")、[慧妍](https://zh.wikipedia.org/wiki/趙慧妍 "wikilink")                                | [美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink")  | 解散  | [gugudan](https://zh.wikipedia.org/wiki/gugudan "wikilink") | 단짝（Dear Friend） | rowspan="2" |
+| 2018年7月10日 | [gugudan SEMINA](https://zh.wikipedia.org/wiki/gugudan_SEMINA "wikilink") | 女  | [娜英](../Page/娜英.md "wikilink")、[世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")、[美娜](https://zh.wikipedia.org/wiki/康美娜 "wikilink") | [娜英](../Page/娜英.md "wikilink")                      | 活動中 |                                                             |                 |             |
 
 ### 演員
 
@@ -123,7 +123,7 @@ E\&M簽訂合約成為合作夥伴。
 
   - [朴貞洙](../Page/朴貞洙.md "wikilink")
 
-  - [金善映](https://zh.wikipedia.org/wiki/金善映 "wikilink")
+  - [金善映](../Page/金善映.md "wikilink")
 
   - [崔智娜](../Page/崔智娜.md "wikilink")
 
@@ -143,7 +143,7 @@ E\&M簽訂合約成為合作夥伴。
 
   - [祉潏](https://zh.wikipedia.org/wiki/祉潏 "wikilink")（女子團體[Dal★Shabet前成員](../Page/Dal★Shabet.md "wikilink")）
 
-  - [曹惠晶](https://zh.wikipedia.org/wiki/曹惠晶 "wikilink")
+  - [曹惠晶](../Page/曹惠晶.md "wikilink")
 
   -
 ## 過去旗下藝人
@@ -169,20 +169,19 @@ E\&M簽訂合約成為合作夥伴。
 
   - 曺侑彬（[Pink
     Fantasy成員](https://zh.wikipedia.org/wiki/Pink_Fantasy "wikilink")、《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》參賽者）
-  - [李子璇](https://zh.wikipedia.org/wiki/李子璇 "wikilink")（《[加油！美少女](https://zh.wikipedia.org/wiki/加油！美少女 "wikilink")》及《[創造101](https://zh.wikipedia.org/wiki/創造101 "wikilink")》參賽者）
-  - [李海印](https://zh.wikipedia.org/wiki/李海印 "wikilink")（《[PRODUCE
+  - [李子璇](../Page/李子璇.md "wikilink")（《[加油！美少女](https://zh.wikipedia.org/wiki/加油！美少女 "wikilink")》及《[創造101](https://zh.wikipedia.org/wiki/創造101 "wikilink")》參賽者）
+  - [李海印](../Page/李海印.md "wikilink")（《[PRODUCE
     101](../Page/PRODUCE_101.md "wikilink")》及《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》參賽者）
   - 裴恩英（《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》及《[PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》參賽者，現為Stone
-    Music娛樂練習生）
-  - [韓瑞希](https://zh.wikipedia.org/wiki/韓瑞希 "wikilink")
+    48](../Page/PRODUCE_48.md "wikilink")》參賽者，現為Stone Music娛樂練習生）
+  - [韓瑞希](../Page/韓瑞希.md "wikilink")
   - 李大元（[VIXX預備成員](../Page/VIXX.md "wikilink")、現為BNF成員）
-  - 金珍燮（前[IN2IT成員](https://zh.wikipedia.org/wiki/IN2IT "wikilink")、《[少年24](../Page/少年24.md "wikilink")》參賽者）
+  - 金珍燮（前[IN2IT成員](../Page/IN2IT.md "wikilink")、《[少年24](../Page/少年24.md "wikilink")》參賽者）
   - 高智炯（《[少年24](../Page/少年24.md "wikilink")》參賽者）
   - 尹熙錫（《[PRODUCE
     101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")》參賽者，現為ONO娛樂公司之旗下藝人）
   - 朴晙喜（[A.C.E成員](https://zh.wikipedia.org/wiki/A.C.E "wikilink")、《[The
-    Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》參賽者）
+    Unit](../Page/The_Unit.md "wikilink")》參賽者）
 
 ## 参考文献
 

@@ -60,10 +60,10 @@ MODE
 [Paris_Motor_Show_2012_(8065419291).jpg](https://zh.wikipedia.org/wiki/File:Paris_Motor_Show_2012_\(8065419291\).jpg "fig:Paris_Motor_Show_2012_(8065419291).jpg")
 2015年 - 6月在英國舉辦的（Goodwood Festival of Speed）活動上，原廠正式發表「Juke-R
 2.0」\[16\]。這部車植入源自[日產GT-R的](../Page/日產GT-R.md "wikilink")3.8L
-[V型六缸DOHC](https://zh.wikipedia.org/wiki/V6发动机 "wikilink")
+[V型六缸DOHC](../Page/V6发动机.md "wikilink")
 VR38DETT型雙渦輪增壓引擎，須回溯到2011年10月在[西班牙](../Page/西班牙.md "wikilink")[馬拉加公開日產汽車與](https://zh.wikipedia.org/wiki/馬拉加 "wikilink")攜手打造出一左駕、一右駕的實驗性車款。想不到2012年1月到[杜拜展示後](../Page/杜拜.md "wikilink")，引起當地買家的興趣而下訂了3部，於是同年5月原廠確認將之量產市售，並於當年夏季陸續交付3部車\[17\]。古德伍德速度嘉年華所亮相的「Juke-R
 2.0」，顧名思義為升級版本，包含全新設計前保桿及進氣壩，前後輪拱與側裙、後車尾上方的二片式擾流尾翼、下方的大型空力分流器、左右雙出尾管等，採用[碳纖維材質以維持輕量化](../Page/碳纖維.md "wikilink")。3.8L
-[V型六缸DOHC](https://zh.wikipedia.org/wiki/V6发动机 "wikilink")
+[V型六缸DOHC](../Page/V6发动机.md "wikilink")
 VR38DETT型雙渦輪增壓引擎可榨出最大馬力600匹及最大扭力66.5公斤米，從靜止加速至時速100公里僅耗時2.7秒，極速上看313[公里之多](../Page/公里.md "wikilink")。
 
 同年11月18日，日規版廢除「15RS」車型，將緊急煞車系統和LDW[車道偏離警示系統列為標準配備](../Page/車道偏離警示.md "wikilink")，並且推出「15RX

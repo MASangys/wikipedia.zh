@@ -38,7 +38,7 @@ Paul)，在[臉書指控Lamigo球團違反合約](https://zh.wikipedia.org/wiki/
 
 另外根據中華職棒球員工會於2016年6月初於官方[臉書粉絲專頁進行薪資統計分析的數據](https://zh.wikipedia.org/wiki/臉書 "wikilink")，Lamigo桃猿的薪資總額約為8310萬元。\[11\]由於[林智勝轉投效](../Page/林智勝.md "wikilink")[中信兄弟之緣故](https://zh.wikipedia.org/wiki/中信兄弟 "wikilink")，該年度[林泓育以月薪](../Page/林泓育.md "wikilink")45萬元成為最高薪，成為[中華職棒四隊中唯一無月薪](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")50萬球員者。\[12\]
 
-### [Lamigo TV](https://zh.wikipedia.org/wiki/Lamigo_TV "wikilink") Logo抄襲風波
+### [Lamigo TV](../Page/Lamigo_TV.md "wikilink") Logo抄襲風波
 
 Lamigo
 TV於2015年球季開幕時開播，但此時有[臉書專頁發現其Logo疑似抄襲](https://zh.wikipedia.org/wiki/臉書 "wikilink")[美國小聯盟康乃狄克守衛者隊的隊徽](https://zh.wikipedia.org/wiki/美國職棒小聯盟 "wikilink")，且前一年奪冠後推出的[總冠軍](https://zh.wikipedia.org/wiki/2014年中華職棒總冠軍賽 "wikilink")[T恤Logo也被發現和榮恩保羅獅子的勳章相當雷同](../Page/T恤.md "wikilink")。\[13\]當時球團表示Logo設計是從圖庫找尋，沒注意到和其他圖案相似。後來宣布對相關產品退貨，其他產品打折以彌補球迷，\[14\]並於稍後取得作者授權。
@@ -61,7 +61,7 @@ TV於2015年球季開幕時開播，但此時有[臉書專頁發現其Logo疑似
 
 ### 抄襲「一級玩家」海報事件
 
-[Lamigo桃猿隊於](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")2018年舉辦動紫趴，其中一款海報明顯與[一級玩家相同](https://zh.wikipedia.org/wiki/一級玩家_\(電影\) "wikilink")，經網友向片商[華納兄弟台灣粉絲團詢問](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")，得到雙方並未合作的答案。而球團事後說明雙方雖並未合作，但有跟華納公司溝通過。\[21\]不過此番說法華納並不認同，覺得對方單方面告知，華納未同意，覺得不被尊重。\[22\]領隊劉玠廷於稍後親自站上火線，開直播強調「翻玩非抄襲」，並力挺副領隊浦韋青，然而直播結束後又刪除。\[23\]
+[Lamigo桃猿隊於](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")2018年舉辦動紫趴，其中一款海報明顯與[一級玩家相同](../Page/一級玩家_\(電影\).md "wikilink")，經網友向片商[華納兄弟台灣粉絲團詢問](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")，得到雙方並未合作的答案。而球團事後說明雙方雖並未合作，但有跟華納公司溝通過。\[21\]不過此番說法華納並不認同，覺得對方單方面告知，華納未同意，覺得不被尊重。\[22\]領隊劉玠廷於稍後親自站上火線，開直播強調「翻玩非抄襲」，並力挺副領隊浦韋青，然而直播結束後又刪除。\[23\]
 
 ### 簽下認罪協商洋投事件
 
@@ -72,10 +72,10 @@ University）的明星投手，中文取名為「捍力克」，以補強外籍�
 ### 隊職員歷年緋聞與社會案件
 
   - 2017年3月7日，[Lamigo桃猿隊宣布因酒後行為脫序開除](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")[內野手](https://zh.wikipedia.org/wiki/內野手 "wikilink")[郭修延](../Page/郭修延.md "wikilink")，而稍後的報導中提到郭在大部分隊職員出國比賽期間，在酒後侵入女大生所租的房間，對女大生進行猥褻行為。\[28\]
-  - 2017年11月15日，[鏡週刊揭露](https://zh.wikipedia.org/wiki/鏡週刊 "wikilink")[陽耀勳與](../Page/陽耀勳.md "wikilink")[陽岱鋼早已因錢事反目不來往](../Page/陽岱鋼.md "wikilink")。陽岱鋼直接點名，指出三月跟週刊爆料的人就是陽耀勳和其妻，並下最後通牒要家人不要再跟他有借貸關係。\[29\]\[30\]
-  - 2017年11月22日，[鏡週刊爆料已婚有子的](https://zh.wikipedia.org/wiki/鏡週刊 "wikilink")[捕手](../Page/捕手.md "wikilink")[林泓育背著老婆跟疑似女球迷訊交](../Page/林泓育.md "wikilink")，訊息中出現各種不雅鹹濕字眼。稍後林泓育反駁為抹黑。\[31\]\[32\]
-  - 2018年1月3日，[鏡週刊爆料](https://zh.wikipedia.org/wiki/鏡週刊 "wikilink")[投手](../Page/投手.md "wikilink")[鄭承浩於妻懷孕期間與小三交往](../Page/鄭承浩.md "wikilink")，甚至有他隊球員加碼爆料鄭帶球迷回宿舍。隔日鄭承浩發聲明致歉，球隊表示會給予適當懲罰。\[33\]\[34\]
-  - 2018年6月4日，球隊[終結者](../Page/終結者_\(棒球\).md "wikilink")[陳禹勳被爆料在婚姻狀態不明的情況下交新女友](https://zh.wikipedia.org/wiki/陳禹勳 "wikilink")，也有數張對話截圖和鹹濕照流出。陳禹勳本人稍後承認緋聞，坦承與該女子交往時與婚姻重疊，也說已經與前妻完成離婚手續，並向前妻與家人道歉。球隊僅表示希望球員們自律。\[35\]\[36\]
+  - 2017年11月15日，[鏡週刊揭露](../Page/鏡週刊.md "wikilink")[陽耀勳與](../Page/陽耀勳.md "wikilink")[陽岱鋼早已因錢事反目不來往](../Page/陽岱鋼.md "wikilink")。陽岱鋼直接點名，指出三月跟週刊爆料的人就是陽耀勳和其妻，並下最後通牒要家人不要再跟他有借貸關係。\[29\]\[30\]
+  - 2017年11月22日，[鏡週刊爆料已婚有子的](../Page/鏡週刊.md "wikilink")[捕手](../Page/捕手.md "wikilink")[林泓育背著老婆跟疑似女球迷訊交](../Page/林泓育.md "wikilink")，訊息中出現各種不雅鹹濕字眼。稍後林泓育反駁為抹黑。\[31\]\[32\]
+  - 2018年1月3日，[鏡週刊爆料](../Page/鏡週刊.md "wikilink")[投手](../Page/投手.md "wikilink")[鄭承浩於妻懷孕期間與小三交往](../Page/鄭承浩.md "wikilink")，甚至有他隊球員加碼爆料鄭帶球迷回宿舍。隔日鄭承浩發聲明致歉，球隊表示會給予適當懲罰。\[33\]\[34\]
+  - 2018年6月4日，球隊[終結者](../Page/終結者_\(棒球\).md "wikilink")[陳禹勳被爆料在婚姻狀態不明的情況下交新女友](../Page/陳禹勳.md "wikilink")，也有數張對話截圖和鹹濕照流出。陳禹勳本人稍後承認緋聞，坦承與該女子交往時與婚姻重疊，也說已經與前妻完成離婚手續，並向前妻與家人道歉。球隊僅表示希望球員們自律。\[35\]\[36\]
 
 ## 註釋
 

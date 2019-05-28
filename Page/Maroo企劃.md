@@ -34,11 +34,11 @@ One為期一年半的活動回到所屬社當日即開通了官咖](https://zh.w
 
 ### 女藝人
 
-  - [金延智](https://zh.wikipedia.org/wiki/金延智 "wikilink")
+  - [金延智](../Page/金延智.md "wikilink")
   - [韩英](https://zh.wikipedia.org/wiki/韩英 "wikilink")
   - [Euna
     Kim](../Page/Euna_Kim_\(韓國歌手\).md "wikilink")\[6\]（[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")）
-  - [崔玟熙](https://zh.wikipedia.org/wiki/崔玟熙 "wikilink")(前[myB](https://zh.wikipedia.org/wiki/myB "wikilink")、[BONUSbaby](../Page/BONUSbaby.md "wikilink"))
+  - [崔玟熙](../Page/崔玟熙.md "wikilink")(前[myB](https://zh.wikipedia.org/wiki/myB "wikilink")、[BONUSbaby](../Page/BONUSbaby.md "wikilink"))
   - [全珉柱](../Page/全珉柱.md "wikilink")（[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")）
   - 徐恩彩\[7\]
   - 安多比（[MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")）

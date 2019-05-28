@@ -75,7 +75,7 @@
     99 的口頭禪是「MAX大變身！」（日語原文為「」）；Hyper Muteki 的口頭禪是「Hyper大變身！」（日語原文為「」）
     角色命名由來：「從永遠的夢想中誕生出寶物，願給予病患笑容（宝を生む永遠の夢、患者を笑顔にするえむ）」
 
-**鏡飛彩（）**（[瀨戶利樹](https://zh.wikipedia.org/wiki/瀨戶利樹 "wikilink")
+**鏡飛彩（）**（[瀨戶利樹](../Page/瀨戶利樹.md "wikilink")
 飾／台灣配音：[李勇](https://zh.wikipedia.org/wiki/李勇 "wikilink")）
 
   -
@@ -127,7 +127,7 @@
     100」（日語原文為「術式レベル100」）。
     角色命名由來：「鏡中的英雄（鏡の中のヒーロー）」
 
-**花家大我（）**（[松本享恭](https://zh.wikipedia.org/wiki/松本享恭 "wikilink")
+**花家大我（）**（[松本享恭](../Page/松本享恭.md "wikilink")
 飾／台灣配音：[徐偉翔](../Page/B.L..md "wikilink")）
 
   -
@@ -184,7 +184,7 @@
     雖然在本作為第三騎士，但按故事時間軸，他應為本作第一位假面騎士。
     原本因為設定為較狂暴的角色而預定命名為「バラト大我」，但為了與帕拉德（パラド，日文發音相近）區分而修改。
 
-**九条貴利矢（）**（[小野塚勇人](https://zh.wikipedia.org/wiki/小野塚勇人 "wikilink")
+**九条貴利矢（）**（[小野塚勇人](../Page/小野塚勇人.md "wikilink")
 飾／台灣配音：[胡鎮璽](https://zh.wikipedia.org/wiki/胡鎮璽 "wikilink")）
 
   -
@@ -231,7 +231,7 @@
     武裝的口頭禪是「爆檔」（日語原文為「」）。
     命名由來為「營造出不自然的氣息（ギザっぽい）的角色」的發想。
 
-**西馬妮可（）(台譯:西馬彌兒)**（[黑崎莉奈](https://zh.wikipedia.org/wiki/黑崎莉奈 "wikilink")、[宮野叶愛](https://zh.wikipedia.org/wiki/宮野叶愛 "wikilink")（少女期）飾／台灣配音：[高嘉鎂](https://zh.wikipedia.org/wiki/高嘉鎂 "wikilink")）
+**西馬妮可（）(台譯:西馬彌兒)**（[黑崎莉奈](../Page/黑崎莉奈.md "wikilink")、[宮野叶愛](https://zh.wikipedia.org/wiki/宮野叶愛 "wikilink")（少女期）飾／台灣配音：[高嘉鎂](https://zh.wikipedia.org/wiki/高嘉鎂 "wikilink")）
 
   -
     **騎士玩家妮可**的變身者。
@@ -271,9 +271,9 @@
     擁有職業水準的電玩實力之故，變身後的實力足夠一人擊破崩源體。
     角色命名由來為「說到電玩就是數位（cyber，日文音近「西馬」），因為要讓她像是永夢的對手而命名為『妮可』（日文中ニコ也有微笑的意思）」（ゲームっぽくサイバー、永夢のライバルなので笑顔のニコ）
 
-**檀黎斗（）**（[岩永徹也](https://zh.wikipedia.org/wiki/岩永徹也 "wikilink")、[佐藤光將](https://zh.wikipedia.org/wiki/佐藤光將 "wikilink")（少年期）飾）
+**檀黎斗（）**（[岩永徹也](../Page/岩永徹也.md "wikilink")、[佐藤光將](https://zh.wikipedia.org/wiki/佐藤光將 "wikilink")（少年期）飾）
 
-**帕拉德（）**（[甲斐翔真飾](https://zh.wikipedia.org/wiki/甲斐翔真 "wikilink")）
+**帕拉德（）**（[甲斐翔真飾](../Page/甲斐翔真.md "wikilink")）
 
 **仮野明日那（）/
 Poppypipopapo（ポッピーピポパポ）**（[松田瑠華飾](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink")）
@@ -474,8 +474,8 @@ Poppypipopapo（ポッピーピポパポ）（台譯：波比皮波帕波）**�
     第40話在得知帕拉德其實沒死的情況非常高興，之後因檀正宗使用「Reset」導致「超越無敵」卡帶消失而相當驚訝。
     第41話因檀正宗使用「Reset」的影響下，剩餘生命回到93條命，但同話因重製「超越無敵」卡帶過程中不斷操勞過度至死，導致自己的殘餘生命被大量消耗。
     第42話被貴利矢輸注了蓋姆迪烏斯崩源體的病毒，在經過多次死亡後產生病毒抗性並開發出對抗蓋姆迪烏斯崩源體的疫苗「醫生全力XX」卡帶，其後在貴利矢的計畫下被衛生省逮捕，但因其開發疫苗的貢獻而被獲准留在CR\[36\]，其後捨棄「新檀黎斗」的名稱並改為「檀黎斗神（）」\[37\]。
-    第44話被誤當成EX-AID的[假面騎士Build擊敗](https://zh.wikipedia.org/wiki/假面騎士Build "wikilink")，殘餘命數只剩三條，並在同話因Poppypipopapo的消失而感到傷心。
-    最終話利用儲存在自己體內的Poppypipopapo的數據使其復活，並在完結前開發了[假面騎士Build卡帶](https://zh.wikipedia.org/wiki/假面騎士Build "wikilink")。
+    第44話被誤當成EX-AID的[假面騎士Build擊敗](../Page/假面騎士Build.md "wikilink")，殘餘命數只剩三條，並在同話因Poppypipopapo的消失而感到傷心。
+    最終話利用儲存在自己體內的Poppypipopapo的數據使其復活，並在完結前開發了[假面騎士Build卡帶](../Page/假面騎士Build.md "wikilink")。
     在《假面骑士平成Generations FINAL Build & EX-AID with
     傳說騎士》使用假面騎士Build战斗但是没过多久因副作用解除变身，制作多张假面騎士Build卡带以此让镜飞彩、花家大我、九条贵利矢变身。
     在《假面骑士Snipe Episode
@@ -549,7 +549,7 @@ X」。</ref>，也會隨著對方入手強力的新卡帶而改變稱呼\[49\]�
 
   -
     擊殺對手時的口頭禪為「（對方的遊戲名稱）絕版下架了（日文原文為「」）」
-    與「[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")」的園咲琉兵衛、「[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")」的笛木奏、「[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")」的蠻野天十郎等皆為父親類型的反派角色。
+    與「[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")」的園咲琉兵衛、「[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")」的笛木奏、「[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")」的蠻野天十郎等皆為父親類型的反派角色。
     如果分類的話，他是創造了名為檀黎斗的惡魔出現在世上的人。他是一名非常傲慢的人，他將生命視為商品（除了檀櫻子）。結果自己付出沉重的代價，不但失去人們的尊重而且喪失了人性。不過拜托九条贵利矢阻止檀黎斗一事算是其唯一的贖罪。
 
 **小星作（）**（[宇野祥平飾](https://zh.wikipedia.org/wiki/宇野祥平 "wikilink")／台灣配音：[彭彥錚](https://zh.wikipedia.org/wiki/彭彥錚 "wikilink")）
@@ -594,7 +594,7 @@ X」。</ref>，也會隨著對方入手強力的新卡帶而改變稱呼\[49\]�
 ## 次世代基因組研究所
 
 **財前美智彥（）**
-（[佐野史郎飾](https://zh.wikipedia.org/wiki/佐野史郎 "wikilink")/台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
+（[佐野史郎飾](../Page/佐野史郎.md "wikilink")/台灣配音：[陳彥鈞](../Page/陳彥鈞.md "wikilink")）
  **來瀬莊司（）** （[棚橋弘至飾](https://zh.wikipedia.org/wiki/棚橋弘至 "wikilink")）
 **武田上葉（）** （[山本千尋飾](https://zh.wikipedia.org/wiki/山本千尋 "wikilink")）
 **龍崎一成（）** （[鈴之助飾](https://zh.wikipedia.org/wiki/鈴之助 "wikilink")）
@@ -984,7 +984,7 @@ X」。</ref>，也會隨著對方入手強力的新卡帶而改變稱呼\[49\]�
   -
     第8話登場，岡田工廠的員工，極為相信廠長岡田譽士夫，甚至期盼他能康癒後繼續帶領他們。
 
-**拉奇（）**（[岐洲匠飾](https://zh.wikipedia.org/wiki/岐洲匠 "wikilink")／台灣配音：[呂惇熙](https://zh.wikipedia.org/wiki/呂惇熙 "wikilink")）
+**拉奇（）**（[岐洲匠飾](../Page/岐洲匠.md "wikilink")／台灣配音：[呂惇熙](https://zh.wikipedia.org/wiki/呂惇熙 "wikilink")）
 
   -
     第24話登場，[宇宙戰隊九連者的獅子紅](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")，擁有宇宙第一的超級好運之男。
@@ -1038,8 +1038,8 @@ X」。</ref>，也會隨著對方入手強力的新卡帶而改變稱呼\[49\]�
   - 卡帶音效 - [影山浩宣](../Page/影山浩宣.md "wikilink")
   - 柯拉波斯崩源體、崩源體病毒 -
     [小峰一己](https://zh.wikipedia.org/wiki/小峰一己 "wikilink")／台灣配音：
-  - [假面騎士Build](https://zh.wikipedia.org/wiki/假面騎士Build "wikilink") -
-    [犬飼貴丈](https://zh.wikipedia.org/wiki/犬飼貴丈 "wikilink")\[75\]／台灣配音：[呂惇熙](https://zh.wikipedia.org/wiki/呂惇熙 "wikilink")
+  - [假面騎士Build](../Page/假面騎士Build.md "wikilink") -
+    [犬飼貴丈](../Page/犬飼貴丈.md "wikilink")\[75\]／台灣配音：[呂惇熙](https://zh.wikipedia.org/wiki/呂惇熙 "wikilink")
 
 ## 相關條目
 
@@ -1120,7 +1120,7 @@ X」。</ref>，也會隨著對方入手強力的新卡帶而改變稱呼\[49\]�
 66. 镜飞彩在学习时会忽视她
 67. 諏訪太朗曾在假面騎士系列、超級戰隊系列等特攝作品中客串演出。
 68. 澤井美優曾在《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》中飾演睦月惠理香及《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中飾演山本亞矢。
-69. 松浦理仁曾在網路劇《[假面戰隊五騎士](https://zh.wikipedia.org/wiki/假面戰隊五騎士 "wikilink")》中客串飾演男孩。
+69. 松浦理仁曾在網路劇《[假面戰隊五騎士](../Page/假面戰隊五騎士.md "wikilink")》中客串飾演男孩。
 70. 人見早苗曾多次擔任特攝主角們的替身演員。
 71. 夏居瑠奈曾在《[侍戰隊真劍者](../Page/侍戰隊真劍者.md "wikilink")》中飾演第18代真劍紅-志葉薰及《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》中飾演白川芽以。
 72. 三輪瞳曾在《[忍風戰隊破裏劍者](../Page/忍風戰隊破裏劍者.md "wikilink")》中飾演覺羅殿下及《[假面騎士Kabuto](https://zh.wikipedia.org/wiki/假面騎士Kabuto "wikilink")》中飾演間宮麗奈。

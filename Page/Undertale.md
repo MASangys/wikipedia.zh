@@ -1,5 +1,5 @@
 是[Toby
-Fox](https://zh.wikipedia.org/wiki/托比·福克斯 "wikilink")（id為tobyfox）獨立开发、發行的一款[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。在遊戲要控制一位掉入地底世界，被魔法屏障隔開的人類孩子。玩家的任務是要讓人類孩子回到地表。遊戲的特色在於特殊的戰鬥系統，玩家必須閃避對手的彈幕攻擊，可以選擇寬恕（mercy）或攻擊（fight）他們。這些選擇會影響遊戲後面的對話、人物、故事和結局。遊戲製作幾乎皆為Toby
+Fox](../Page/托比·福克斯.md "wikilink")（id為tobyfox）獨立开发、發行的一款[角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")。在遊戲要控制一位掉入地底世界，被魔法屏障隔開的人類孩子。玩家的任務是要讓人類孩子回到地表。遊戲的特色在於特殊的戰鬥系統，玩家必須閃避對手的彈幕攻擊，可以選擇寬恕（mercy）或攻擊（fight）他們。這些選擇會影響遊戲後面的對話、人物、故事和結局。遊戲製作幾乎皆為Toby
 Fox，遊戲主要美術為Temmie
 Chang。遊戲靈感來自於[地球冒險系列和瑪利歐與路易吉RPG](../Page/地球冒險系列.md "wikilink")，幽默元素則來自於英國喜劇表演者[-{zh-cn:憨豆先生;zh-hant:豆豆先生;}-](https://zh.wikipedia.org/wiki/豆豆先生 "wikilink")。Undertale最初設想的遊玩時數為兩小時，並預定在2014年年中發布，但開發被推延了一年
 。
@@ -8,7 +8,7 @@ Chang。遊戲靈感來自於[地球冒險系列和瑪利歐與路易吉RPG](../
 Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[OS
 X](https://zh.wikipedia.org/wiki/OS_X "wikilink")，2016年7月於[Linux上發行](../Page/Linux.md "wikilink")，2017年8月推出[PlayStation
 4和](../Page/PlayStation_4.md "wikilink")[PlayStation
-Vita版本](../Page/PlayStation_Vita.md "wikilink")，2018年9月推出[任天堂Switch版本](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")。該遊戲備受遊戲評論家的好評，稱讚遊戲中的幽默元素（像是嘲諷遊戲中的時間流動、大量的雙關笑話等等）、直觀的戰鬥系統、音樂獨創性以及劇情中與角色深刻的情感連結。遊戲銷售超過一百萬份，被提名多個榮譽獎項。
+Vita版本](../Page/PlayStation_Vita.md "wikilink")，2018年9月推出[任天堂Switch版本](../Page/任天堂Switch.md "wikilink")。該遊戲備受遊戲評論家的好評，稱讚遊戲中的幽默元素（像是嘲諷遊戲中的時間流動、大量的雙關笑話等等）、直觀的戰鬥系統、音樂獨創性以及劇情中與角色深刻的情感連結。遊戲銷售超過一百萬份，被提名多個榮譽獎項。
 
 2018年10月31日，作者推出的一款擁有相似角色設定的遊戲《[Deltarune](../Page/Deltarune.md "wikilink")》先導版。Toby
 Fox 說正式版會在未來7年內推出
@@ -269,7 +269,7 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 
   -
     鬼魂怪物，住在垃圾場裡的假人裡面。
-    [任天堂Switch版本遊戲路線結尾前](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")（Mettaton劇情後，僅限和平路線），它會轉附在Mew
+    [任天堂Switch版本遊戲路線結尾前](../Page/任天堂Switch.md "wikilink")（Mettaton劇情後，僅限和平路線），它會轉附在Mew
     Mew人偶的軀體身上。
 
 <!-- end list -->
@@ -330,8 +330,7 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 <!-- end list -->
 
   -
-    [任天堂Switch版本專屬追加角色](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")，前身為Mad
-    Dummy。
+    [任天堂Switch版本專屬追加角色](../Page/任天堂Switch.md "wikilink")，前身為Mad Dummy。
     貓娘，手上拿者貓形魔杖的魔法少女，為動畫Mew Mew Kissy
     Cutie的女主角。該動畫為Alphys最喜歡的動畫，但是因為第二季令Alphys不滿而被冷落，因而產生怨念。
     如果寬恕她，在完美結局裡致謝名單當中將會取代Mad Dummy。
@@ -339,8 +338,7 @@ Chara在Flowey死亡後，會出現在看著一片虛無的玩家面前，解釋
 ## 製作
 
 《Undertale》原先一開始是在[Kickstarter平台上募資](../Page/Kickstarter.md "wikilink")，共有2,398人參與、募得51,124美元，遠超過先前5,000美元的目標。\[3\]
-在[The
-Escapist雜誌上的專訪時](https://zh.wikipedia.org/wiki/The_Escapist "wikilink")，toby
+在[The Escapist雜誌上的專訪時](../Page/The_Escapist.md "wikilink")，toby
 fox列出了啟發這款遊戲製作的遊戲列表：「對話系統是受《[真·女神轉生](https://zh.wikipedia.org/wiki/真·女神轉生 "wikilink")》啟發。我認為要把每個魔物塑造成獨一無二的存在是很重要的；如果你仔細想想，基本上在[FF一類的RPG裡](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")，魔物除了外表以外都一樣。它們攻擊你、你回血、你攻擊它們、它們掛點...那根本毫無意義。」「而遊戲防禦系統則是啟發自[超級瑪利歐RPG](https://zh.wikipedia.org/wiki/超級瑪利歐RPG "wikilink")、[瑪利歐與路易吉系列RPG遊戲以及像是](https://zh.wikipedia.org/wiki/马里奥角色扮演游戏列表#马里奥与路易系列 "wikilink")[東方系列中的彈幕系統](https://zh.wikipedia.org/wiki/東方Project "wikilink")。是的，系統會更加有趣；我不希望有任何人因為不是閃子彈地獄\[[https://www.youtube.com/watch?v=ZC3jvBXIhg8\]高手而無法玩這款遊戲](https://www.youtube.com/watch?v=ZC3jvBXIhg8%5D高手而無法玩這款遊戲)。」\[4\]
 
 ## 釋出

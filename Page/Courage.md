@@ -4,11 +4,11 @@ Ray'n发行](../Page/Music_Ray'n.md "wikilink")。
 ## 概要
 
 《courage》为前作《[Fantastic
-Soda\!\!](https://zh.wikipedia.org/wiki/Fantastic_Soda!! "wikilink")》推出约4个月后的作品，亦为2014年的第3作。户松于2014年10月5日在[东京](../Page/东京.md "wikilink")[秋叶原举办的](https://zh.wikipedia.org/wiki/秋叶原 "wikilink")“[电击文库](https://zh.wikipedia.org/wiki/电击文库 "wikilink")
+Soda\!\!](../Page/Fantastic_Soda!!.md "wikilink")》推出约4个月后的作品，亦为2014年的第3作。户松于2014年10月5日在[东京](../Page/东京.md "wikilink")[秋叶原举办的](https://zh.wikipedia.org/wiki/秋叶原 "wikilink")“[电击文库](https://zh.wikipedia.org/wiki/电击文库 "wikilink")
 秋之祭典2014”中首次披露了该曲\[1\]。
 
 该曲为[电视动画](https://zh.wikipedia.org/wiki/电视动画 "wikilink")《[刀剑神域II](https://zh.wikipedia.org/wiki/刀剑神域 "wikilink")》圣剑篇以及圣母圣咏篇[片头曲](https://zh.wikipedia.org/wiki/片头曲 "wikilink")\[2\]\[3\]。歌曲发售时，距离户松主唱的上一个电视动画主题曲《[Q\&A
-演奏會！](https://zh.wikipedia.org/wiki/Q&A_演奏會！ "wikilink")》推出时已有两年多。
+演奏會！](../Page/Q&A_演奏會！.md "wikilink")》推出时已有两年多。
 
 户松本人在自己的官方博客当中提到，歌曲标题具有双重意义，“courage”意为“勇气”，其日语发音“”和在《刀剑神域II》圣母圣咏篇登场的角色[有纪](https://zh.wikipedia.org/wiki/刀劍神域角色列表#有紀 "wikilink")（）的日语发音相同。\[4\]本曲是摇滚曲，歌词蕴含着难以动摇的意志以及强大的勇气，与此同时，这首歌曲也与《刀剑神域》的世界观紧密相连。\[5\]
 

@@ -19,7 +19,7 @@ Blend4Web 发展开始在2010年由总部设在[莫斯科的公司被称为](../
 Triumph。它首次公开发布 2014 年 3 月 28 日\[7\]
 
 2017年底，项目创始人Yuri和Alex
-Kovelenov退出Triumph并开始开发新的WebGL框架[Verge3D](https://zh.wikipedia.org/wiki/Verge3D "wikilink")\[8\]。
+Kovelenov退出Triumph并开始开发新的WebGL框架[Verge3D](../Page/Verge3D.md "wikilink")\[8\]。
 
 ## 功能
 

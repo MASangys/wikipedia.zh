@@ -64,7 +64,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Ln_(Unix)" title="wikilink">ln</a></p></td>
+<td><p><a href="../Page/Ln_(Unix).md" title="wikilink">ln</a></p></td>
 <td><p>创建到某一文件（夹）的链接</p></td>
 <td></td>
 </tr>
@@ -495,7 +495,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Who_(Unix)" title="wikilink">who</a></p></td>
+<td><p><a href="../Page/Who_(Unix).md" title="wikilink">who</a></p></td>
 <td><p>列出当前已登录的所有用户</p></td>
 <td></td>
 </tr>

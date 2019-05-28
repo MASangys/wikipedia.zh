@@ -2,7 +2,7 @@
 Systems所建立的有襯線](https://zh.wikipedia.org/wiki/Adobe_Systems "wikilink")[字体](../Page/字体.md "wikilink")。它是Adobe的第三個[开放源代码字體家族](../Page/开放源代码.md "wikilink")，以[SIL開源字體授權進行散佈](https://zh.wikipedia.org/wiki/SIL開源字體授權 "wikilink")\[1\]。
 
 這個字體是受及他為[Source
-Sans家族所設計的現代化風格啟發](https://zh.wikipedia.org/wiki/Source_Sans_Pro "wikilink")。\[2\]它在直立的版本中提供六種字重（常規、特細、細、半粗、粗、黑），並有對應的斜體版本\[3\]。
+Sans家族所設計的現代化風格啟發](../Page/Source_Sans_Pro.md "wikilink")。\[2\]它在直立的版本中提供六種字重（常規、特細、細、半粗、粗、黑），並有對應的斜體版本\[3\]。
 
 Source Serif
 Pro的第一版於2014年釋出。2.0於2017年釋出，加入更多拉丁、西里爾及希臘字元。\[4\]2018年在2.007R-ro/1.007R-it版本中加入斜體。\[5\]\[6\]
@@ -10,9 +10,9 @@ Pro的第一版於2014年釋出。2.0於2017年釋出，加入更多拉丁、西
 ## Adobe開放原始碼字體家族
 
   - [Source Sans
-    Pro](https://zh.wikipedia.org/wiki/Source_Sans_Pro "wikilink")，Adobe開放原始碼字體家族的第一個成員。
+    Pro](../Page/Source_Sans_Pro.md "wikilink")，Adobe開放原始碼字體家族的第一個成員。
   - [Source Code
-    Pro](https://zh.wikipedia.org/wiki/Source_Code_Pro "wikilink")，Adobe開放原始碼字體家族的第二個成員。
+    Pro](../Page/Source_Code_Pro.md "wikilink")，Adobe開放原始碼字體家族的第二個成員。
   - Source Serif Pro，Adobe開放原始碼字體家族的第三個成員。
   - [Source Han
     Sans](https://zh.wikipedia.org/wiki/Source_Han_Sans "wikilink")，Adobe開放原始碼字體家族的第四個成員，也是第一個包含中日韓文字的成員。

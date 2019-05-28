@@ -46,7 +46,7 @@ Me安裝程式需要MS](../Page/Windows_Me.md "wikilink")-DOS，但作業系統�
 Vista的释出之前一直保持未变](../Page/Windows_Vista.md "wikilink")。一般的过程是：
 
   - 如果用户插入了安装媒介并启动进程，安装程序将会载入各种各样的硬件和文件系统驱动程序。
-      - 如果需要第三方驱动检测SCSI或RAID系统，安装程序将会暂停并请求软盘上的驱动程序。参见[F6磁盘](https://zh.wikipedia.org/wiki/F6磁盘 "wikilink")。
+      - 如果需要第三方驱动检测SCSI或RAID系统，安装程序将会暂停并请求软盘上的驱动程序。参见[F6磁盘](../Page/F6磁盘.md "wikilink")。
   - 如果用户选择使用文本界面，将会提供三个选项：1) 安装Windows；2) 修复现有的安装； 3) 退出安装。\[2\]
   - 如果用户选择安装Windows，安装程序将会给用户提供一份许可协议，且用户必须接受否则安装程序将无法继续。在Windows
     2000之前，用户在同意之前需要先拉到许可协议的最底部。
@@ -65,7 +65,7 @@ XP以及Windows](../Page/Windows_XP.md "wikilink") Server
 
 [Windows Vista](../Page/Windows_Vista.md "wikilink")
 之后的操作系统都使用[Windows预先安装环境](https://zh.wikipedia.org/wiki/Windows_Preinstallation_Environment "wikilink")（Windows
-PE）作为安装环境。Windows预先安装环境从一开始就提供了支持鼠标的[图形用户界面](../Page/图形用户界面.md "wikilink")，而不是像先前的版本中需要基于文本的安装流程。[F6磁盘的概念演进为在无需软盘的情况下为提供对计算机的支持](https://zh.wikipedia.org/wiki/F6磁盘 "wikilink")，支持从[CD-ROM和](../Page/CD-ROM.md "wikilink")[U盘中载入驱动程序](../Page/闪存盘.md "wikilink")。不再支持将Windows安装到[FAT分区](https://zh.wikipedia.org/wiki/File_Allocation_Table "wikilink")，Windows必须被安装到[NTFS分区](../Page/NTFS.md "wikilink")。\[3\]除了Windows
+PE）作为安装环境。Windows预先安装环境从一开始就提供了支持鼠标的[图形用户界面](../Page/图形用户界面.md "wikilink")，而不是像先前的版本中需要基于文本的安装流程。[F6磁盘的概念演进为在无需软盘的情况下为提供对计算机的支持](../Page/F6磁盘.md "wikilink")，支持从[CD-ROM和](../Page/CD-ROM.md "wikilink")[U盘中载入驱动程序](../Page/闪存盘.md "wikilink")。不再支持将Windows安装到[FAT分区](https://zh.wikipedia.org/wiki/File_Allocation_Table "wikilink")，Windows必须被安装到[NTFS分区](../Page/NTFS.md "wikilink")。\[3\]除了Windows
 Server外預設禁用Administrator使用者，安裝時需要新增一個使用者。
 
 ### Windows 8

@@ -30,7 +30,7 @@ Hirst)和[約翰·巴爾代薩里](https://zh.wikipedia.org/wiki/約翰·巴爾�
 Baldessari)。
 
 另外，他們也與眾多設計師、攝影師等各領域的藝術家合作，像是[大衛·林區](https://zh.wikipedia.org/wiki/大卫·林奇 "wikilink")(David
-Lynch)、[羅伯·克朗布](https://zh.wikipedia.org/wiki/羅伯·克朗布 "wikilink")(Robert
+Lynch)、[羅伯·克朗布](../Page/羅伯·克朗布.md "wikilink")(Robert
 Crumb)、[瑪麗蓮·敏特](https://zh.wikipedia.org/wiki/瑪麗蓮·敏特 "wikilink")(Marilyn
 Minter)、[村上隆](../Page/村上隆.md "wikilink")(Takashi
 Murakami)、[丹尼爾·約翰斯頓](https://zh.wikipedia.org/wiki/丹尼爾·約翰斯頓 "wikilink")(Daniel
@@ -43,7 +43,7 @@ Enemy）、[H·R·吉格爾](../Page/H·R·吉格尔.md "wikilink")(H. R.
 Giger）、[馬克·干沙爾斯](https://zh.wikipedia.org/wiki/馬克·干沙爾斯 "wikilink")(Mark
 Gonzales)、[莫里茲·柯尼利斯·艾雪](../Page/莫里茲·柯尼利斯·艾雪.md "wikilink")(M.C.
 Escher)、[達什·斯諾](https://zh.wikipedia.org/wiki/達什·斯諾 "wikilink") (Dash
-Snow)和[南·戈丁](https://zh.wikipedia.org/wiki/南·戈丁 "wikilink")(Nan Goldin)。
+Snow)和[南·戈丁](../Page/南·戈丁.md "wikilink")(Nan Goldin)。
 
 ## 獎項
 

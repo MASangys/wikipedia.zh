@@ -148,8 +148,8 @@ Room**（；）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink"
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>8月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">瑟琪</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/瑟琪.md" title="wikilink">瑟琪</a></p></td>
 <td><p>特别出演: 志晟 (<a href="../Page/NCT.md" title="wikilink">NCT</a>)</p></td>
 </tr>
 <tr class="even">
@@ -266,9 +266,9 @@ Room**（；）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink"
 <tr class="odd">
 <td><p>31</p></td>
 <td><p>12月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亨敦和大俊" title="wikilink">亨敦和大俊</a>、<a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">THE BOYZ</a></p></td>
+<td><p><a href="../Page/亨敦和大俊.md" title="wikilink">亨敦和大俊</a>、<a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">THE BOYZ</a></p></td>
 <td><p>上淵</p></td>
-<td><p>特别MC: <a href="../Page/鄭鎰勳.md" title="wikilink">鄭鎰勳</a> (<a href="../Page/BTOB.md" title="wikilink">BTOB</a>)、<a href="https://zh.wikipedia.org/wiki/安兪真" title="wikilink">安兪真</a> (<a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a>)</p></td>
+<td><p>特别MC: <a href="../Page/鄭鎰勳.md" title="wikilink">鄭鎰勳</a> (<a href="../Page/BTOB.md" title="wikilink">BTOB</a>)、<a href="../Page/安兪真.md" title="wikilink">安兪真</a> (<a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>32</p></td>
@@ -392,7 +392,7 @@ Thank you Award</p></td>
 <td><p><a href="../Page/黄仁俊.md" title="wikilink">仁俊</a>、<a href="../Page/鍾辰樂.md" title="wikilink">辰樂</a>(<a href="../Page/NCT.md" title="wikilink">NCT</a>)、閆桉、Yuto(<a href="../Page/Pentagon_(男子組合).md" title="wikilink">Pentagon</a>)<br />
 <a href="https://zh.wikipedia.org/wiki/金Samuel" title="wikilink">Samuel</a><br />
 Minnie、<a href="../Page/宋雨琦.md" title="wikilink">雨琦</a>、<a href="../Page/葉舒華.md" title="wikilink">舒華</a>(<a href="../Page/(G)I-DLE.md" title="wikilink">(G)I-DLE</a>)<br />
-<a href="https://zh.wikipedia.org/wiki/王靖儀" title="wikilink">Soso</a> (<a href="https://zh.wikipedia.org/wiki/公園少女" title="wikilink">公園少女</a>)、<a href="../Page/髙田健太.md" title="wikilink">髙田健太</a>(<a href="https://zh.wikipedia.org/wiki/JBJ95" title="wikilink">JBJ95</a>)<br />
+<a href="../Page/王靖儀.md" title="wikilink">Soso</a> (<a href="https://zh.wikipedia.org/wiki/公園少女" title="wikilink">公園少女</a>)、<a href="../Page/髙田健太.md" title="wikilink">髙田健太</a>(<a href="https://zh.wikipedia.org/wiki/JBJ95" title="wikilink">JBJ95</a>)<br />
 <a href="https://zh.wikipedia.org/wiki/KOKORO" title="wikilink">KOKORO</a>、<a href="../Page/粼粼.md" title="wikilink">粼粼</a>(<a href="../Page/Cherry_Bullet.md" title="wikilink">Cherry Bullet</a>)</p></td>
 <td></td>
 <td><p>外籍偶像特輯</p></td>

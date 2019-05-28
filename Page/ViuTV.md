@@ -5,7 +5,7 @@
 
 頻道於品牌介紹時以「數碼頻道99」作稱呼，開台首月（2016年4月2日（星期六）-5月5日（星期四））以「ViuTV
 免費電視99台」作為稱呼，之後在2016年5月6日（星期五）至2017年3月30日（星期四）之間稱為「99台
-ViuTV」，[ViuTVsix於](https://zh.wikipedia.org/wiki/ViuTVsix "wikilink")2017年3月31日（星期五）開台後只稱呼為「ViuTV」（頻道名稱）
+ViuTV」，[ViuTVsix於](../Page/ViuTVsix.md "wikilink")2017年3月31日（星期五）開台後只稱呼為「ViuTV」（頻道名稱）
 。
 
 ## 收看方法
@@ -130,7 +130,7 @@ Buddy」。\[12\]
 
 2017年10月9日，ViuTV於節目巡禮《》公佈「實況娛樂」系列節目改革為全新旗艦品牌節目《Good Night
 Show》，首個節目《[Good Night Show
-全民星戰](https://zh.wikipedia.org/wiki/Good_Night_Show_全民星戰 "wikilink")》於2018年4月播放。\[13\]
+全民星戰](../Page/Good_Night_Show_全民星戰.md "wikilink")》於2018年4月播放。\[13\]
 
 ## 爭議事件
 
@@ -154,7 +154,7 @@ ViuTV亦必需滿足各項免費電視牌照的要求，例如於晚上6時至12
 
 「實況娛樂」（[真人騷](https://zh.wikipedia.org/wiki/真人騷 "wikilink")）為ViuTV主打節目類別。首輪播放的自製實況娛樂節目《[跟住矛盾去旅行](../Page/跟住矛盾去旅行.md "wikilink")》及《》逢星期一至四晚上十時正播放，在星期六、日晚上十時三十分播放自製節目《[G-1格鬥會](../Page/G-1格鬥會.md "wikilink")》，而逢星期五晚上十時正會播放外購節目《》。
 
-ViuTV還籌備大型選美盛事，首個實況選美節目《[美選D.n.A](https://zh.wikipedia.org/wiki/美選D.n.A "wikilink")》與2016年5月26日展開招募。\[21\]2016年6月22日截止報名，7月會進行首輪篩選。7月7日下午2時30分20強佳麗首次向大眾傳媒開記者會。節目在2016年9月25日（星期日）晚上10時30分隆重首播，而決賽在2016年12月18日（星期日）晚上8時30分舉行，ViuTV在當日作現場直播。
+ViuTV還籌備大型選美盛事，首個實況選美節目《[美選D.n.A](../Page/美選D.n.A.md "wikilink")》與2016年5月26日展開招募。\[21\]2016年6月22日截止報名，7月會進行首輪篩選。7月7日下午2時30分20強佳麗首次向大眾傳媒開記者會。節目在2016年9月25日（星期日）晚上10時30分隆重首播，而決賽在2016年12月18日（星期日）晚上8時30分舉行，ViuTV在當日作現場直播。
 
 \===綜藝及資訊===
 
@@ -199,7 +199,7 @@ ViuTV自製音樂節目《[粤詞越愛](https://zh.wikipedia.org/wiki/粤詞越
 
 ### 體育
 
-ViuTV現時於星期一至五晚間時段播放體育娛樂節目《[體育係…300](../Page/體育係….md "wikilink")》。ViuTV亦會不定時直播一些大型體育賽事([無綫財經·資訊台及](https://zh.wikipedia.org/wiki/無綫財經·資訊台 "wikilink")[香港開電視亦有同樣安排](../Page/香港開電視.md "wikilink"))，如每月一場的[西班牙甲組足球聯賽等](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")，但於2017年9月9日起改由96台[ViuTVsix現場直播](https://zh.wikipedia.org/wiki/ViuTVsix "wikilink")。另外，ViuTV逢星期六會播放由[now寬頻電視體育平台製作的體育節目精選](https://zh.wikipedia.org/wiki/now寬頻電視體育平台 "wikilink")，逢星期二晚上播放[英格蘭足球超級聯賽精華節目](https://zh.wikipedia.org/wiki/英格蘭足球超級聯賽 "wikilink")《英超精華》。
+ViuTV現時於星期一至五晚間時段播放體育娛樂節目《[體育係…300](../Page/體育係….md "wikilink")》。ViuTV亦會不定時直播一些大型體育賽事([無綫財經·資訊台及](../Page/無綫財經·資訊台.md "wikilink")[香港開電視亦有同樣安排](../Page/香港開電視.md "wikilink"))，如每月一場的[西班牙甲組足球聯賽等](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")，但於2017年9月9日起改由96台[ViuTVsix現場直播](../Page/ViuTVsix.md "wikilink")。另外，ViuTV逢星期六會播放由[now寬頻電視體育平台製作的體育節目精選](https://zh.wikipedia.org/wiki/now寬頻電視體育平台 "wikilink")，逢星期二晚上播放[英格蘭足球超級聯賽精華節目](https://zh.wikipedia.org/wiki/英格蘭足球超級聯賽 "wikilink")《英超精華》。
 
 ViuTV首個直播的大型體育比賽為2016年[香港國際七人欖球賽](../Page/香港國際七人欖球賽.md "wikilink")。
 
@@ -256,7 +256,7 @@ Japan TV 日本大放送](https://zh.wikipedia.org/wiki/日本大放送 "wikilin
 ## 參見
 
   - [Viu](../Page/Viu.md "wikilink")
-  - [ViuTVsix](https://zh.wikipedia.org/wiki/ViuTVsix "wikilink")
+  - [ViuTVsix](../Page/ViuTVsix.md "wikilink")
   - [香港電視娛樂](../Page/香港電視娛樂.md "wikilink")
   - [Now寛頻電視](https://zh.wikipedia.org/wiki/Now寛頻電視 "wikilink")
   - [電訊盈科](../Page/電訊盈科.md "wikilink")

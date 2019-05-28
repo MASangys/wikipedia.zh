@@ -11,7 +11,7 @@ Deluxe Edition**」。
     OK
     ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")，所以將其翻譯為英文。
   - 「Mighty Long Fall」為電影『[神劍闖江湖
-    京都大火篇](https://zh.wikipedia.org/wiki/神劍闖江湖_京都大火篇 "wikilink")』的主題曲。
+    京都大火篇](../Page/神劍闖江湖_京都大火篇.md "wikilink")』的主題曲。
   - 「Heartache」為電影『[浪客劍心：傳說的最後時刻篇](https://zh.wikipedia.org/wiki/浪客劍心：傳說的最後時刻篇 "wikilink")』的片尾曲。
   - 「Paper
     Planes」和美國樂團「[歌魅同寢](https://zh.wikipedia.org/wiki/歌魅同寢 "wikilink")(Sleeping

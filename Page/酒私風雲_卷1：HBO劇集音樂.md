@@ -11,9 +11,9 @@ Series***）是一輯[HBO電視劇](../Page/HBO.md "wikilink")《[酒私風雲](
 4.  ""，表演者：文斯·焦爾達諾和Nighthawks
 5.  ""，表演者：
 6.  "Mournin' Blues"，表演者：文斯·焦爾達諾和Nighthawks
-7.  ""，表演者：[凱西·布瑞爾](https://zh.wikipedia.org/wiki/凱西·布瑞爾 "wikilink")
+7.  ""，表演者：[凱西·布瑞爾](../Page/凱西·布瑞爾.md "wikilink")
 8.  ""，表演者：文斯·焦爾達諾和Nighthawks
-9.  "[Carrickfergus](https://zh.wikipedia.org/wiki/卡里克弗格斯_\(歌曲\) "wikilink")"，表演者：
+9.  "[Carrickfergus](../Page/卡里克弗格斯_\(歌曲\).md "wikilink")"，表演者：
 10. "Wild Romantic Blues"，表演者：
 11. "After You Get What You Want (You Don't Want It)"，表演者：凱西·布瑞爾
 12. ""，表演者：

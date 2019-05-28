@@ -183,7 +183,7 @@ YRP野比站月台
   -
   -
   -
-  - [神奈川大學野比研修所](https://zh.wikipedia.org/wiki/神奈川大學 "wikilink")
+  - [神奈川大學野比研修所](../Page/神奈川大學.md "wikilink")
 
   - 野比支店
 

@@ -47,7 +47,7 @@ BOMBA 成員余仲天（Fox Yu）在影片發佈後亦發佈 Q\&A
     [Jetstar](https://zh.wikipedia.org/wiki/Jetstar "wikilink")
   - [耐克](../Page/耐克.md "wikilink")
     [NIKE](https://zh.wikipedia.org/wiki/NIKE "wikilink")
-  - [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+  - [PlayStation](../Page/PlayStation.md "wikilink")
   - 健達 Kinder
   - [美心食品](../Page/美心食品.md "wikilink")
   - [卡西欧](https://zh.wikipedia.org/wiki/卡西欧 "wikilink")

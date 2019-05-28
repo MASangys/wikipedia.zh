@@ -1,5 +1,5 @@
 《**Street
-Fury**》是一部[G4頻道的電視節目](https://zh.wikipedia.org/wiki/G4_\(电视频道\) "wikilink")。由Carlton“Big
+Fury**》是一部[G4頻道的電視節目](../Page/G4_\(电视频道\).md "wikilink")。由Carlton“Big
 C”Lewis主持，該內容主要展示了汽車和美女。《Street
 Fury》隨著《》和《》在週日晚上播出，同時也作為「G4星期天之夜」的一部分。《Street
 Fury》經常被批評過度聚焦穿著暴露的美女模特兒和對非洲裔、拉丁裔美國人的刻板印象描述。本節目由製作，且輕度改編自[TOKYOPOP的](../Page/TOKYOPOP.md "wikilink")《Street

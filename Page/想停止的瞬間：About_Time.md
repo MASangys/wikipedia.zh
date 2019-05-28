@@ -360,11 +360,11 @@ TV播出上架](../Page/CHOCO_TV.md "wikilink")。香港地區於[Viu免費同�
 ## 同時段競爭作品
 
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[我們遇見的奇蹟](https://zh.wikipedia.org/wiki/我們遇見的奇蹟 "wikilink")》、《[你也是人類嗎](https://zh.wikipedia.org/wiki/你也是人類嗎 "wikilink")》
+    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[我們遇見的奇蹟](../Page/我們遇見的奇蹟.md "wikilink")》、《[你也是人類嗎](../Page/你也是人類嗎.md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[檢法男女](https://zh.wikipedia.org/wiki/檢法男女 "wikilink")》
+    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[檢法男女](../Page/檢法男女.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[油膩的Melo](https://zh.wikipedia.org/wiki/油膩的Melo "wikilink")》
+    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[油膩的Melo](../Page/油膩的Melo.md "wikilink")》
 
 ## 記事
 

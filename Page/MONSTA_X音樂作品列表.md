@@ -91,10 +91,10 @@ Heat}}<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Piece_(MONSTA_X專輯)" title="wikilink">Piece</a></p></td>
+<td><p><a href="../Page/Piece_(MONSTA_X專輯).md" title="wikilink">Piece</a></p></td>
 <td><ul>
 <li>發行日期：2018年4月25日</li>
-<li>廠牌：<a href="https://zh.wikipedia.org/wiki/水星唱片" title="wikilink">東京水星唱片</a>、<a href="https://zh.wikipedia.org/wiki/日本環球音樂" title="wikilink">日本環球音樂</a></li>
+<li>廠牌：<a href="../Page/水星唱片.md" title="wikilink">東京水星唱片</a>、<a href="https://zh.wikipedia.org/wiki/日本環球音樂" title="wikilink">日本環球音樂</a></li>
 <li>格式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>—</p></td>
@@ -141,7 +141,7 @@ Heat}}<br />
 <li></li>
 </ul>
 <p></ref></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新西兰官方音乐榜" title="wikilink">NZ<br />
+<td><p><a href="../Page/新西兰官方音乐榜.md" title="wikilink">NZ<br />
 Heat</a><br />
 <ref>紐西蘭官方音樂榜最佳熱門發現專輯排行榜：</p>
 <ul>
@@ -372,7 +372,7 @@ Heat</a><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Hero_(MONSTA_X單曲)" title="wikilink">Hero</a></p></td>
+<td><p><a href="../Page/Hero_(MONSTA_X單曲).md" title="wikilink">Hero</a></p></td>
 <td><p>2017</p></td>
 <td><p>—</p></td>
 <td><p>2</p></td>
@@ -386,7 +386,7 @@ Heat</a><br />
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Spotlight_(MONSTA_X單曲)" title="wikilink">Spotlight</a></p></td>
+<td><p><a href="../Page/Spotlight_(MONSTA_X單曲).md" title="wikilink">Spotlight</a></p></td>
 <td><p>2018</p></td>
 <td><p>—</p></td>
 <td><p>2</p></td>
@@ -533,7 +533,7 @@ Heat</a><br />
 </tr>
 <tr class="even">
 <td><p><strong>8th</strong></p></td>
-<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/檢法男女" title="wikilink">檢法男女</a>》Part.1插曲</p>
+<td><p>電視劇《<a href="../Page/檢法男女.md" title="wikilink">檢法男女</a>》Part.1插曲</p>
 <ul>
 <li>主唱：基賢、周憲</li>
 <li>發行日期：2018年5月21日</li>
@@ -546,7 +546,7 @@ Heat</a><br />
 </tr>
 <tr class="odd">
 <td><p><strong>9th</strong></p></td>
-<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/金秘書為何那樣" title="wikilink">金秘書為何那樣</a>》Part.1插曲</p>
+<td><p>電視劇《<a href="../Page/金秘書為何那樣.md" title="wikilink">金秘書為何那樣</a>》Part.1插曲</p>
 <ul>
 <li>主唱：基賢、雪娥（<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>）</li>
 <li>發行日期：2018年6月14日</li>

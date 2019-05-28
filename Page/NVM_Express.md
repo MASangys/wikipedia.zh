@@ -166,8 +166,8 @@ Fabrics）三个细分协议，其中NVMe为主协议，规范了host对盘的�
   - 官方網站：
   - [LFCS: Preparing Linux for nonvolatile memory
     devices](https://lwn.net/Articles/547903/),
-    [LWN.net](https://zh.wikipedia.org/wiki/LWN.net "wikilink"), April
-    19, 2013, by Jonathan Corbet
+    [LWN.net](../Page/LWN.net.md "wikilink"), April 19, 2013, by
+    Jonathan Corbet
   - [Multipathing PCI Express
     Storage](http://events.linuxfoundation.org/sites/events/files/slides/LinuxVault2015_KeithBusch_PCIeMPath.pdf),
     [Linux

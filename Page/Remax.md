@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - [佐原誠](https://zh.wikipedia.org/wiki/佐原誠 "wikilink")
+  - [佐原誠](../Page/佐原誠.md "wikilink")
 
 <!-- end list -->
 

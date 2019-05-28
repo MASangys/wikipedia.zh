@@ -11,7 +11,7 @@ of Control Systems》中 \[2\]\[3\]，現今在許多的控制教科書上可以
 
 可控制性Hautus引理提到若給定一方陣\(\mathbf{A}\in M_n(\Re)\)及\(\mathbf{B}\in M_{n\times m}(\Re)\)，以下幾個式子等效：
 
-1.  \((\mathbf{A},\mathbf{B})\)對具有[可控制性](https://zh.wikipedia.org/wiki/可控制性 "wikilink")
+1.  \((\mathbf{A},\mathbf{B})\)對具有[可控制性](../Page/可控制性.md "wikilink")
 2.  針對所有的\(\lambda\in\mathbb{C}\)，下式都成立
     \(\operatorname{rank}[\lambda \mathbf{I}-\mathbf{A},\mathbf{B}]=n\)
 3.  針對所有\(\mathbf{A}\)的特徵值\(\lambda\in\mathbb{C}\)，下式都成立

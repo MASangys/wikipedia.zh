@@ -20,9 +20,9 @@ MLG
 
   - [30毫米DS30M Mk 2小口徑機炮](../Page/30毫米DS30M_Mk_2小口徑機炮.md "wikilink")
 
-  - [亞丁轉輪式機炮](https://zh.wikipedia.org/wiki/亞丁轉輪式機炮 "wikilink")
+  - [亞丁轉輪式機炮](../Page/亞丁轉輪式機炮.md "wikilink")
 
-  - [德發轉輪式機炮](https://zh.wikipedia.org/wiki/德發轉輪式機炮 "wikilink")
+  - [德發轉輪式機炮](../Page/德發轉輪式機炮.md "wikilink")
 
   - [GIAT 30機炮](../Page/GIAT_30機炮.md "wikilink")
 

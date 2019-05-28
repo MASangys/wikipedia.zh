@@ -1,4 +1,4 @@
-**20大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT西城線的一個慢車](https://zh.wikipedia.org/wiki/BMT西城線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於及86街交界，設有[D線](../Page/紐約地鐵D線.md "wikilink")（任何時候停站）列車服務。
+**20大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT西城線的一個慢車](../Page/BMT西城線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於及86街交界，設有[D線](../Page/紐約地鐵D線.md "wikilink")（任何時候停站）列車服務。
 
 ## 車站結構
 
@@ -11,7 +11,7 @@
 </tr>
 <tr class="even">
 <td><p><span style="color:#{{NYCS color|orange}}"><strong>北行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-D.svg" title="fig:纽约地铁D线">纽约地铁D线</a> 往<a href="https://zh.wikipedia.org/wiki/諾伍德-205街車站_(IND匯集線)" title="wikilink">諾伍德-205街</a><small>（<a href="https://zh.wikipedia.org/wiki/18大道車站_(BMT西城線)" title="wikilink">18大道</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-D.svg" title="fig:纽约地铁D线">纽约地铁D线</a> 往<a href="https://zh.wikipedia.org/wiki/諾伍德-205街車站_(IND匯集線)" title="wikilink">諾伍德-205街</a><small>（<a href="../Page/18大道車站_(BMT西城線).md" title="wikilink">18大道</a>）</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><em>尖峰特快</em></strong></p></td>

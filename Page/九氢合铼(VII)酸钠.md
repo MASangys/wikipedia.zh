@@ -2,7 +2,7 @@
 
 ## 制备
 
-金属钠还原[高铼酸钠或](../Page/高铼酸钠.md "wikilink")[高铼酸铵的](https://zh.wikipedia.org/wiki/高铼酸铵 "wikilink")[乙醇溶液可以得到](../Page/乙醇.md "wikilink")。\[3\]
+金属钠还原[高铼酸钠或](../Page/高铼酸钠.md "wikilink")[高铼酸铵的](../Page/高铼酸铵.md "wikilink")[乙醇溶液可以得到](../Page/乙醇.md "wikilink")。\[3\]
 
 \[\mathsf{NH_4ReO_4 + 18Na + 13C_2H_5OH \ \xrightarrow{}\ Na_2[ReH_9]\downarrow + 13C_2H_5ONa + 3NaOH + NH_3\cdot H_2O }\]
 

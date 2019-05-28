@@ -86,7 +86,7 @@ Astro本地圈的YouTube官方网站同步直播</p></td>
 <td><p><a href="../Page/马来西亚.md" title="wikilink">大马</a><a href="../Page/翡翠台.md" title="wikilink">翡翠台</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2016" title="wikilink">TVB 馬來西亞星光薈萃頒獎典禮2016</a></p></td>
+<td><p><a href="../Page/TVB_馬來西亞星光薈萃頒獎典禮2016.md" title="wikilink">TVB 馬來西亞星光薈萃頒獎典禮2016</a></p></td>
 <td><p>2016年11月26日</p></td>
 <td><p>晚上8點30分</p></td>
 <td><p>現場直播<br />

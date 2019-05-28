@@ -1184,7 +1184,7 @@ ISBN 978-4-04-104680-7<small>（特裝版）</small></p></td>
   -
 
       -
-        作詞：hotaru，作曲：[大石昌良](https://zh.wikipedia.org/wiki/大石昌良 "wikilink")，編曲：[Tom-H@ck](../Page/Tom-H@ck.md "wikilink")，主唱：[OxT](https://zh.wikipedia.org/wiki/OxT "wikilink")
+        作詞：hotaru，作曲：[大石昌良](../Page/大石昌良.md "wikilink")，編曲：[Tom-H@ck](../Page/Tom-H@ck.md "wikilink")，主唱：[OxT](../Page/OxT.md "wikilink")
         第13話作為插入歌使用。
 
 :; 片尾曲「L.L.L.」
@@ -1192,8 +1192,7 @@ ISBN 978-4-04-104680-7<small>（特裝版）</small></p></td>
   -
 
       -
-        作詞、作曲、編曲、主唱：[MYTH &
-        ROID](https://zh.wikipedia.org/wiki/MYTH_&_ROID "wikilink")
+        作詞、作曲、編曲、主唱：[MYTH & ROID](../Page/MYTH_&_ROID.md "wikilink")
 
 <!-- end list -->
 
@@ -1229,7 +1228,7 @@ ISBN 978-4-04-104680-7<small>（特裝版）</small></p></td>
   -
 
       -
-        作詞：[hotaru](https://zh.wikipedia.org/wiki/MYTH_&_ROID "wikilink")，作曲：Tom-H@ck，編曲：KanadeYUK，主唱：OxT
+        作詞：[hotaru](../Page/MYTH_&_ROID.md "wikilink")，作曲：Tom-H@ck，編曲：KanadeYUK，主唱：OxT
 
 ### 各話列表
 
@@ -1460,7 +1459,7 @@ Army of Death</p></td>
 <td><p><br />
 The freezing god</p></td>
 <td><p>冰結的武神</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/清水健一" title="wikilink">清水健一</a></p></td>
+<td><p><a href="../Page/清水健一.md" title="wikilink">清水健一</a></p></td>
 <td><p>寺澤和晃</p></td>
 <td><p>森下勇輝、</p></td>
 <td></td>
@@ -1915,7 +1914,7 @@ PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikili
 
 #### 製作人員
 
-  - 監督・脚本・演出：[蘆名實](https://zh.wikipedia.org/wiki/蘆名實 "wikilink")
+  - 監督・脚本・演出：[蘆名實](../Page/蘆名實.md "wikilink")
   - 迷你角色設計・作畫：
   - 動畫制作：STUDIO PUYUKAI
   - 制作協力：
@@ -2258,8 +2257,8 @@ PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikili
 
 小說第11集中宣布總集篇劇場版\[14\]。2016年11月24日宣布共有【前篇】「劇場版總集篇 OVERLORD
 不死者之王」2017年2月25日上映、【後篇】「劇場版總集篇 OVERLORD
-漆黑的英雄」2017年3月11日上映\[15\]。2017年1月15日宣布主題曲一樣由電視動畫，片頭、片尾曲的[OxT和](https://zh.wikipedia.org/wiki/OxT "wikilink")[MYTH
-& ROID負責](https://zh.wikipedia.org/wiki/MYTH_&_ROID "wikilink")\[16\]。
+漆黑的英雄」2017年3月11日上映\[15\]。2017年1月15日宣布主題曲一樣由電視動畫，片頭、片尾曲的[OxT和](../Page/OxT.md "wikilink")[MYTH
+& ROID負責](../Page/MYTH_&_ROID.md "wikilink")\[16\]。
 
 ### 製作人員
 
@@ -2268,13 +2267,12 @@ PUYUKAI所製作的「[異世界四重奏](../Page/異世界四重奏.md "wikili
 ### 主題曲
 
   - 前篇「Crazy Scary Holy Fantasy」
-    作詞、作曲、編曲、主唱：[MYTH &
-    ROID](https://zh.wikipedia.org/wiki/MYTH_&_ROID "wikilink")
+    作詞、作曲、編曲、主唱：[MYTH & ROID](../Page/MYTH_&_ROID.md "wikilink")
 
 <!-- end list -->
 
   - 後篇「Laughter Slaughter」
-    作詞：hotaru，作曲：OxT，編曲：Tom-H@ck，主唱：[OxT](https://zh.wikipedia.org/wiki/OxT "wikilink")
+    作詞：hotaru，作曲：OxT，編曲：Tom-H@ck，主唱：[OxT](../Page/OxT.md "wikilink")
 
 ## 出處
 

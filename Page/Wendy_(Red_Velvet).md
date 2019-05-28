@@ -1,7 +1,7 @@
 [SMTOWN](https://zh.wikipedia.org/wiki/SMTOWN "wikilink") |IMDb=9364488
 }}
 **孫勝完**\[1\]\[2\]（，，），藝名**Wendy**（，），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女藝人](https://zh.wikipedia.org/wiki/女藝人 "wikilink")，現為[SM娛樂旗下的五人女子組合](../Page/SM娛樂.md "wikilink")[Red
-Velvet的成員](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。
+Velvet的成員](../Page/Red_Velvet.md "wikilink")。
 
 ## 早年生活與教育程度
 
@@ -16,7 +16,7 @@ Shon”的身份留學，凴自己的成績獲得許多榮耀，成爲一名榮�
   - </ref>後來，孫勝完就讀于加拿大安大略[列治文山的](../Page/列治文山.md "wikilink")，並參加了學校的合唱團“Vocal
     Fusion”。\[11\]
 
-因爲長期往美國和加拿大兩個國家來回，孫勝完不僅擅長[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，也熟悉[西班牙語和](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")。\[12\]她也為了《[戰鬥旅行](https://zh.wikipedia.org/wiki/戰鬥旅行 "wikilink")》奧地利站而自學[德語](../Page/德语.md "wikilink")。
+因爲長期往美國和加拿大兩個國家來回，孫勝完不僅擅長[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，也熟悉[西班牙語和](https://zh.wikipedia.org/wiki/西班牙語 "wikilink")[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")。\[12\]她也為了《[戰鬥旅行](../Page/戰鬥旅行.md "wikilink")》奧地利站而自學[德語](../Page/德语.md "wikilink")。
 
 ## 演藝經歷
 
@@ -28,7 +28,7 @@ Entertainment Global Auditions 2011”以排名第14名進入決賽。她也曾�
 2012年，Wendy通過SM娛樂舉辦的全球徵選（加拿大）而成為練習生，面試歌曲：[金健模](https://zh.wikipedia.org/wiki/金健模 "wikilink")－《首爾的月亮》\[13\]，能說一口流利的英語，並具備非凡的演奏實力和卓越的歌唱實力，能吹長笛、吉他演奏、薩克斯管。\[14\]\[15\]
 
 2014年3月13日，SM娛樂公開Wendy為[SM
-ROOKIES的一員](../Page/SM_ROOKIES.md "wikilink")。\[16\]3月14日，為《[MiMi](https://zh.wikipedia.org/wiki/MiMi "wikilink")》電視劇演唱OST《在悲傷中將你抹去》。
+ROOKIES的一員](../Page/SM_ROOKIES.md "wikilink")。\[16\]3月14日，為《[MiMi](../Page/MiMi.md "wikilink")》電視劇演唱OST《在悲傷中將你抹去》。
 
 ### 出道後
 
@@ -161,7 +161,7 @@ Velvet成員一起回美加進行[Redmare巡迴演唱](../Page/REDMARE.md "wikil
 <td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION</a></p></td>
 <td><p>愛似春天<br />
 （Spring Love）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Eric_Nam" title="wikilink">Eric Nam</a></p></td>
+<td><p><a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a></p></td>
 </tr>
 <tr class="even">
 <td><p>12月27日</p></td>
@@ -175,8 +175,8 @@ Velvet成員一起回美加進行[Redmare巡迴演唱](../Page/REDMARE.md "wikil
 <td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION</a></p></td>
 <td><p>너의 목소리<br />
 (Sound of Your Heart)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">SEULGI</a>（<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>）、<a href="https://zh.wikipedia.org/wiki/艺声" title="wikilink">艺声</a>（<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>）、<a href="https://zh.wikipedia.org/wiki/珊妮" title="wikilink">珊妮</a>（<a href="../Page/少女时代.md" title="wikilink">少女时代</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/Luna" title="wikilink">Luna</a>（<a href="https://zh.wikipedia.org/wiki/f(x)" title="wikilink">f(x)</a>）、<a href="https://zh.wikipedia.org/wiki/泰一" title="wikilink">泰一</a> &amp; <a href="https://zh.wikipedia.org/wiki/道英" title="wikilink">道英</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）</p></td>
+<td><p><a href="../Page/瑟琪.md" title="wikilink">SEULGI</a>（<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）、<a href="https://zh.wikipedia.org/wiki/艺声" title="wikilink">艺声</a>（<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>）、<a href="https://zh.wikipedia.org/wiki/珊妮" title="wikilink">珊妮</a>（<a href="../Page/少女时代.md" title="wikilink">少女时代</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/Luna" title="wikilink">Luna</a>（<a href="https://zh.wikipedia.org/wiki/f(x)" title="wikilink">f(x)</a>）、<a href="https://zh.wikipedia.org/wiki/泰一" title="wikilink">泰一</a> &amp; <a href="../Page/道英.md" title="wikilink">道英</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -184,7 +184,7 @@ Velvet成員一起回美加進行[Redmare巡迴演唱](../Page/REDMARE.md "wikil
 <td><p>10月27日</p></td>
 <td><p>SM STATION S2</p></td>
 <td><p>玩偶（Doll）</p></td>
-<td><p><a href="../Page/安七炫.md" title="wikilink">安七炫</a>、<a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">SEULGI</a>（<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>）</p></td>
+<td><p><a href="../Page/安七炫.md" title="wikilink">安七炫</a>、<a href="../Page/瑟琪.md" title="wikilink">SEULGI</a>（<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月1日</p></td>
@@ -270,7 +270,7 @@ Velvet成員一起回美加進行[Redmare巡迴演唱](../Page/REDMARE.md "wikil
 <td><p>슬픔 속에 그댈 지워야만 해<br />
 (只能在悲傷中將你抹去)</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=xDMLANstgGI">《只能在悲傷中將你抹去》 MV</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/MiMi" title="wikilink">MiMi</a>》OST<br />
+<td><p>《<a href="../Page/MiMi.md" title="wikilink">MiMi</a>》OST<br />
 原唱: <a href="https://zh.wikipedia.org/wiki/李鉉宇" title="wikilink">李鉉宇</a></p></td>
 <td></td>
 <td></td>
@@ -287,7 +287,7 @@ Velvet成員一起回美加進行[Redmare巡迴演唱](../Page/REDMARE.md "wikil
 <td><p>2016</p></td>
 <td><p>3月4日</p></td>
 <td><p>Spring Love</p></td>
-<td><p><strong>WENDY</strong> X <a href="https://zh.wikipedia.org/wiki/Eric_Nam" title="wikilink">Eric Nam</a></p></td>
+<td><p><strong>WENDY</strong> X <a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=erErBFKPbMY">《Spring Love》 MV</a></p></td>
 <td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION</a></p></td>
 </tr>
@@ -359,8 +359,8 @@ Velvet成員一起回美加進行[Redmare巡迴演唱](../Page/REDMARE.md "wikil
 <tr class="even">
 <td><p>2016年10月25日 - 2016年11月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/TRICK&amp;TRUE" title="wikilink">TRICK&amp;TRUE</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Irene_(Red_Velvet)" title="wikilink">Irene (Red Velvet)</a></p></td>
+<td><p>《<a href="../Page/TRICK&amp;TRUE.md" title="wikilink">TRICK&amp;TRUE</a>》</p></td>
+<td><p><a href="../Page/Irene_(Red_Velvet).md" title="wikilink">Irene (Red Velvet)</a></p></td>
 <td><p>固定嘉賓</p></td>
 </tr>
 <tr class="odd">
@@ -373,7 +373,7 @@ Velvet成員一起回美加進行[Redmare巡迴演唱](../Page/REDMARE.md "wikil
 <tr class="even">
 <td><p>2017年1月13日 - 1月27日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/把便利店掏空吧" title="wikilink">把便利店掏空吧</a>》</p></td>
+<td><p>《<a href="../Page/把便利店掏空吧.md" title="wikilink">把便利店掏空吧</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李秀根" title="wikilink">李秀根</a>、<a href="../Page/尹斗俊.md" title="wikilink">尹斗俊</a>（<a href="https://zh.wikipedia.org/wiki/BEAST" title="wikilink">BEAST</a>）</p></td>
 <td><p>固定MC<br />
 節目試播</p></td>
@@ -442,20 +442,20 @@ Velvet成員一起回美加進行[Redmare巡迴演唱](../Page/REDMARE.md "wikil
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p>3月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 《<a href="https://zh.wikipedia.org/wiki/演藝家中介" title="wikilink">演藝家中介</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 《<a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>11月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a> 《<a href="https://zh.wikipedia.org/wiki/Master_Key" title="wikilink">Master Key</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a> 《<a href="../Page/Master_Key.md" title="wikilink">Master Key</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p>3月21日</p></td>
-<td><p>Lifetime 《<a href="https://zh.wikipedia.org/wiki/Idol_Moms" title="wikilink">Idol Moms</a>》</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">SEULGI共同出演</a></p></td>
+<td><p>Lifetime 《<a href="../Page/Idol_Moms.md" title="wikilink">Idol Moms</a>》</p></td>
+<td><p>與<a href="../Page/瑟琪.md" title="wikilink">SEULGI共同出演</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>4月21日</p></td>
@@ -465,7 +465,7 @@ Velvet成員一起回美加進行[Redmare巡迴演唱](../Page/REDMARE.md "wikil
 </tr>
 <tr class="even">
 <td><p>5月18日</p></td>
-<td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a>《Busted! <a href="https://zh.wikipedia.org/wiki/明星來解謎" title="wikilink">明星來解謎</a>》</p></td>
+<td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a>《Busted! <a href="../Page/明星來解謎.md" title="wikilink">明星來解謎</a>》</p></td>
 <td><p>EP6<br />
 飾演 天才偵探團中的偵探</p></td>
 <td></td>
@@ -568,7 +568,7 @@ MC的至親</p></td>
 <td><p>2017年</p></td>
 <td><p>3月30日</p></td>
 <td><p>KCON 2017 in Mexico</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Eric_Nam" title="wikilink">Eric Nam</a></p></td>
+<td><p><a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a></p></td>
 <td><p>3月18日錄製<br />
 特別MC</p></td>
 </tr>
@@ -585,7 +585,7 @@ MC的至親</p></td>
 <td><p>2018年</p></td>
 <td><p>4月28日</p></td>
 <td><p>第16屆 Korea Times Music Festival</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/John_Park" title="wikilink">John Park</a></p></td>
+<td><p><a href="../Page/John_Park.md" title="wikilink">John Park</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -612,7 +612,7 @@ MC的至親</p></td>
 | 2016年  | 1月14日              | 第25屆首爾音樂獎                                                                                                      | MFBTY、[Rap Monster](../Page/金南俊.md "wikilink")([防彈少年團](../Page/防彈少年團.md "wikilink"))、燦烈(EXO) | [《MFBTY - Angel &부끄부끄 & 방뛰기방방 》 Video](https://www.youtube.com/watch?v=eSMDgANAzLk)      |
 | 1月26日  | KBS1《Open Concert》 | [許閣](../Page/許閣.md "wikilink")                                                                                 | [《행복한나를 (Happy Me) 》 Video](https://www.youtube.com/watch?v=GUzC-MmpqMw)                     |                                                                                          |
 | 2月7日   | —                  | [《슬픔 속에 그댈 지워야만 해（从悲伤中将你抹去） 》 Video](https://www.youtube.com/watch?v=_BInsNusT1A)                              |                                                                                              |                                                                                          |
-| 2017年  | 3月18日              | KCON 2017 in Mexico                                                                                            | [Eric Nam](https://zh.wikipedia.org/wiki/Eric_Nam "wikilink")                                | [《Eric Nam x Wendy - Spring Love》 Video](https://www.youtube.com/watch?v=1zu3QI_e9HM)    |
+| 2017年  | 3月18日              | KCON 2017 in Mexico                                                                                            | [Eric Nam](../Page/Eric_Nam.md "wikilink")                                                   | [《Eric Nam x Wendy - Spring Love》 Video](https://www.youtube.com/watch?v=1zu3QI_e9HM)    |
 | 4月25日  | KBS1 Open Concert  | 安致煥                                                                                                            | [《등대지기》 Video](https://www.youtube.com/watch?v=IeTyf5okwJ4)                                  |                                                                                          |
 
 ### 電台
@@ -690,7 +690,7 @@ MC的至親</p></td>
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p>SKECHERS D'Lites 2 Sweet Monster</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">Seulgi</a>、<a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a>、<a href="../Page/Yeri.md" title="wikilink">Yeri</a><br />
+<td><p><a href="../Page/瑟琪.md" title="wikilink">Seulgi</a>、<a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a>、<a href="../Page/Yeri.md" title="wikilink">Yeri</a><br />
 <a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
 </tr>
 </tbody>
@@ -729,7 +729,7 @@ MC的至親</p></td>
 <tr class="even">
 <td><p>2016</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet_Asian_Music_Awards" title="wikilink">18th</a><a href="https://zh.wikipedia.org/wiki/Mnet_Asian_Music_Awards" title="wikilink">Mnet Asian Music Awards</a></p></td>
-<td><p>最佳合作獎 <small>(與 <a href="https://zh.wikipedia.org/wiki/Eric_Nam" title="wikilink">Eric Nam</a>)</small></p></td>
+<td><p>最佳合作獎 <small>(與 <a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a>)</small></p></td>
 <td><p>"Spring Love"</p></td>
 <td></td>
 </tr>

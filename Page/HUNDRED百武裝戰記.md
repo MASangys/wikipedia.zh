@@ -362,19 +362,18 @@ ISBN 978-4-7973-8717-9（限定特裝版）</p></td>
 
   - 原作：（[GA文庫](../Page/GA文庫.md "wikilink")/SB Creative刊）
   - 角色原案：（[Nitro+](../Page/Nitro+.md "wikilink")）
-  - 監督：[小林智樹](https://zh.wikipedia.org/wiki/小林智樹 "wikilink")
+  - 監督：[小林智樹](../Page/小林智樹.md "wikilink")
   - 系列構成：[白根秀樹](../Page/白根秀樹.md "wikilink")
   - 角色設計：田中紀衣
   - 音樂製作：DIVE II entertainment
   - 音樂：
-  - 動畫製作：[Production
-    IMS](https://zh.wikipedia.org/wiki/Production_IMS "wikilink")
+  - 動畫製作：[Production IMS](../Page/Production_IMS.md "wikilink")
   - 製作：HUNDRED百武裝戰記製作委員會
 
 ### 主題曲
 
   - 片頭曲「BLOODRED」
-    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")，作曲、編曲：，主唱：D-selections（、[澀谷梓希](https://zh.wikipedia.org/wiki/澀谷梓希 "wikilink")、[若井友希](https://zh.wikipedia.org/wiki/若井友希 "wikilink")、[青山吉能](../Page/青山吉能.md "wikilink")、[吉岡茉祐](../Page/吉岡茉祐.md "wikilink")）
+    作詞：[藤林聖子](../Page/藤林聖子.md "wikilink")，作曲、編曲：，主唱：D-selections（、[澀谷梓希](../Page/澀谷梓希.md "wikilink")、[若井友希](../Page/若井友希.md "wikilink")、[青山吉能](../Page/青山吉能.md "wikilink")、[吉岡茉祐](../Page/吉岡茉祐.md "wikilink")）
 
 <!-- end list -->
 
@@ -460,7 +459,7 @@ ISBN 978-4-7973-8717-9（限定特裝版）</p></td>
 <td></td>
 <td><p>Little Garden</p></td>
 <td><p><a href="../Page/白根秀樹.md" title="wikilink">白根秀樹</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小林智樹" title="wikilink">小林智樹</a></p></td>
+<td><p><a href="../Page/小林智樹.md" title="wikilink">小林智樹</a></p></td>
 <td><p>下司泰弘</p></td>
 <td><p>小關雅、安田祥子</p></td>
 </tr>
@@ -529,7 +528,7 @@ han sung hui</p></td>
 <td><p>湖畔的夜晚</p></td>
 <td><p>白根秀樹</p></td>
 <td><p>島津裕行</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/前園文夫" title="wikilink">前園文夫</a></p></td>
+<td><p><a href="../Page/前園文夫.md" title="wikilink">前園文夫</a></p></td>
 <td><p>片山敬介、飯田清貴</p></td>
 </tr>
 <tr class="odd">

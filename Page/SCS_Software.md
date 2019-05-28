@@ -16,7 +16,7 @@ Trucker 2》。
 
 ### 卡车模拟系列
 
-卡车模拟系列包括2008年推出的《[欧洲卡车模拟](https://zh.wikipedia.org/wiki/歐洲卡車模擬 "wikilink")》、2012年推出的续集《[歐洲卡車模擬2](https://zh.wikipedia.org/wiki/歐洲卡車模擬2 "wikilink")》\[3\]和2016年推出的《[美洲卡車模擬](https://zh.wikipedia.org/wiki/美洲卡車模擬 "wikilink")》。
+卡车模拟系列包括2008年推出的《[欧洲卡车模拟](https://zh.wikipedia.org/wiki/歐洲卡車模擬 "wikilink")》、2012年推出的续集《[歐洲卡車模擬2](../Page/歐洲卡車模擬2.md "wikilink")》\[3\]和2016年推出的《[美洲卡車模擬](https://zh.wikipedia.org/wiki/美洲卡車模擬 "wikilink")》。
 系列集中在一系列欧洲国家，例如[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")、[德国](../Page/德国.md "wikilink")、[捷克](../Page/捷克.md "wikilink")、[卢森堡](../Page/卢森堡.md "wikilink")、[意大利](../Page/意大利.md "wikilink")、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[比利时](../Page/比利时.md "wikilink")、[荷兰](../Page/荷兰.md "wikilink")、[奥地利和](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[瑞士](https://zh.wikipedia.org/wiki/瑞士 "wikilink")\[4\]\[5\]\[6\]以及美國的3個州
 ([加州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")、[內華達州和](https://zh.wikipedia.org/wiki/內華達州 "wikilink")[亞利桑那州](../Page/亞利桑那州.md "wikilink"))
 駕駛卡车。
@@ -159,7 +159,7 @@ France》在2016年底发布，加入了法国的更多城市。其他更新，�
 <td><p>2012-06-13</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/歐洲卡車模擬2" title="wikilink">欧洲的卡车模拟2</a></p></td>
+<td><p><a href="../Page/歐洲卡車模擬2.md" title="wikilink">欧洲的卡车模拟2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a>, <a href="../Page/MacOS.md" title="wikilink">OS X</a>, <a href="../Page/Linux.md" title="wikilink">Linux</a></p></td>
 <td><p>2012-10-19</p></td>
 </tr>

@@ -8,13 +8,13 @@ In\~**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wi
 
 | 曲目次序 | 歌名    | 導演                                                                   | 首播日期        | 首播平台                                             | 連結                                               |
 | ---- | ----- | -------------------------------------------------------------------- | ----------- | ------------------------------------------------ | ------------------------------------------------ |
-| 01   | 放     | [陳志發](https://zh.wikipedia.org/wiki/陳志發 "wikilink")                  | 2017年6月17日  | 陳奕迅[YouTube頻道](../Page/YouTube.md "wikilink")    | [連結](http://www.youtube.com/watch?v=yyA6SM16PIA) |
-| 03   | 海膽    | [陳志發](https://zh.wikipedia.org/wiki/陳志發 "wikilink")                  | 2017年8月6日   | 環球音樂香港[YouTube頻道](../Page/YouTube.md "wikilink") | [連結](http://www.youtube.com/watch?v=H0HOFY3nOCc) |
-| 04   | 誰來剪月光 | [陳志發](https://zh.wikipedia.org/wiki/陳志發 "wikilink")                  | 2017年8月11日  | 環球音樂香港[YouTube頻道](../Page/YouTube.md "wikilink") | [連結](http://www.youtube.com/watch?v=n6VP0Wm3EMo) |
+| 01   | 放     | [陳志發](../Page/陳志發.md "wikilink")                                     | 2017年6月17日  | 陳奕迅[YouTube頻道](../Page/YouTube.md "wikilink")    | [連結](http://www.youtube.com/watch?v=yyA6SM16PIA) |
+| 03   | 海膽    | [陳志發](../Page/陳志發.md "wikilink")                                     | 2017年8月6日   | 環球音樂香港[YouTube頻道](../Page/YouTube.md "wikilink") | [連結](http://www.youtube.com/watch?v=H0HOFY3nOCc) |
+| 04   | 誰來剪月光 | [陳志發](../Page/陳志發.md "wikilink")                                     | 2017年8月11日  | 環球音樂香港[YouTube頻道](../Page/YouTube.md "wikilink") | [連結](http://www.youtube.com/watch?v=n6VP0Wm3EMo) |
 | 05   | 床上的黑洞 | 6號@[Rubberband](https://zh.wikipedia.org/wiki/Rubberband "wikilink") | 2017年12月1日  | 陳奕迅[YouTube頻道](../Page/YouTube.md "wikilink")    | [連結](http://www.youtube.com/watch?v=obojOghv2BA) |
 | 06   | 右上角   |                                                                      | 2018年1月29日  | 陳奕迅[YouTube頻道](../Page/YouTube.md "wikilink")    | [連結](http://www.youtube.com/watch?v=utfo8zV9KSg) |
 | 07   | 之外    | [陳映之](https://zh.wikipedia.org/wiki/陳映之 "wikilink")                  | 2017年11月6日  | 環球音樂香港[YouTube頻道](../Page/YouTube.md "wikilink") | [連結](http://www.youtube.com/watch?v=8Br0EtgPWa0) |
-| 09   | 零下幾分鐘 | [陳志發](https://zh.wikipedia.org/wiki/陳志發 "wikilink")                  | 2017年12月22日 | 陳奕迅[YouTube頻道](../Page/YouTube.md "wikilink")    | [連結](http://www.youtube.com/watch?v=Jag6vncFlpg) |
+| 09   | 零下幾分鐘 | [陳志發](../Page/陳志發.md "wikilink")                                     | 2017年12月22日 | 陳奕迅[YouTube頻道](../Page/YouTube.md "wikilink")    | [連結](http://www.youtube.com/watch?v=Jag6vncFlpg) |
 | 10   | 披風    | Arterisk                                                             | 2017年6月30日  | 陳奕迅[YouTube頻道](../Page/YouTube.md "wikilink")    | [連結](http://www.youtube.com/watch?v=wBkGE_-CjtU) |
 |      |       |                                                                      |             |                                                  |                                                  |
 

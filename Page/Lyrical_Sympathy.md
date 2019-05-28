@@ -4,7 +4,7 @@ Sympathy**》是日本[視覺系搖滾樂團](../Page/視覺系.md "wikilink")[V
 Bites》的[音樂錄影帶](../Page/音樂錄影帶.md "wikilink")。\[4\]\[5\]
 
 來自此專輯的《The Red Carpet
-Day》和《Sympathia》兩首歌曲經過重新編曲，再次收錄於他們之後發行的五週年紀念版[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[ROSE](https://zh.wikipedia.org/wiki/ROSE "wikilink")》以及樂團的最後一張同名[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[Versailles](https://zh.wikipedia.org/wiki/Versailles_\(專輯\) "wikilink")》。
+Day》和《Sympathia》兩首歌曲經過重新編曲，再次收錄於他們之後發行的五週年紀念版[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")《[ROSE](../Page/ROSE.md "wikilink")》以及樂團的最後一張同名[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[Versailles](../Page/Versailles_\(專輯\).md "wikilink")》。
 
 ## 收錄曲目
 

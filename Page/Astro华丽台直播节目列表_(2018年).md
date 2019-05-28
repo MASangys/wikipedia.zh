@@ -82,7 +82,7 @@ Astro Go及MELODY電台 同步直播</p></td>
 <td><p><a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/ViuTV.md" title="wikilink">ViuTV</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年度香港小姐競選" title="wikilink">2018香港小姐競選決賽</a></p></td>
+<td><p><a href="../Page/2018年度香港小姐競選.md" title="wikilink">2018香港小姐競選決賽</a></p></td>
 <td><p>2018年8月26日</p></td>
 <td><p>20:00</p></td>
 <td><p>現場直播<br />

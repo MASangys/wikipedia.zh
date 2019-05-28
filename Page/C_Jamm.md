@@ -140,7 +140,7 @@ Me The Money
 | 悬赏捉拿 (Wanted)（with ）                                                                     | 13                                                                  | [Show Me The Money 5 Episode 3](../Page/Show_Me_The_Money_5.md "wikilink")      |                                                                         |
 | Puzzle（with [BewhY](../Page/BewhY.md "wikilink")）\[10\]\[11\]                            | 3                                                                   | rowspan="3"                                                                     |                                                                         |
 | 2017                                                                                     | LIKE ME（with  & [BewhY](../Page/BewhY.md "wikilink")）               | —                                                                               |                                                                         |
-| KILLA DREADS（with [Skull](https://zh.wikipedia.org/wiki/Skull_\(歌手\) "wikilink")）        | —                                                                   |                                                                                 |                                                                         |
+| KILLA DREADS（with [Skull](../Page/Skull_\(歌手\).md "wikilink")）                           | —                                                                   |                                                                                 |                                                                         |
 | 伴唱单曲                                                                                     |                                                                     |                                                                                 |                                                                         |
 | 2013                                                                                     | 42371（ feat. C Jamm）                                                | —                                                                               | rowspan="4"                                                             |
 | 2014                                                                                     | Top（팽이）（ feat. C Jamm）                                              | —                                                                               |                                                                         |
@@ -163,9 +163,8 @@ Me The Money
 
 ### [Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")
 
-|- |[2016](https://zh.wikipedia.org/wiki/2016年Mnet亚洲音乐大奖 "wikilink")
-|最佳说唱表演 |Puzzle (with [BewhY](../Page/BewhY.md "wikilink"))
-|\[13\] |- |}
+|- |[2016](../Page/2016年Mnet亚洲音乐大奖.md "wikilink") |最佳说唱表演 |Puzzle (with
+[BewhY](../Page/BewhY.md "wikilink")) |\[13\] |- |}
 
 ## 参考资料
 

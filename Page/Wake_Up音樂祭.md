@@ -43,13 +43,13 @@ Up音樂祭超過三萬累計流動人次以上在兩天內穿梭於會場以及
 ## 第五屆
 
 Wake
-Up音樂祭的售票化開始，轉移會場至近於廢墟般雜亂的[嘉義文化創意產業園區（嘉義舊酒廠）舉辦](https://zh.wikipedia.org/wiki/嘉義文化創意產業園區 "wikilink")，但在確定轉移場地之前，其實Wake
+Up音樂祭的售票化開始，轉移會場至近於廢墟般雜亂的[嘉義文化創意產業園區（嘉義舊酒廠）舉辦](../Page/嘉義文化創意產業園區.md "wikilink")，但在確定轉移場地之前，其實Wake
 Up團隊自2009年便已開始在舊酒廠場地勘察，並與許多地方音樂人在此處活動，練團等，並以暫時借用的方式擁有自己的辦公室，而從2014年開始，Wake
 Up音樂祭擴增為四個舞台，分別為射日、煙囪、澄波、鬼武等四大舞台，除了[日本外](../Page/日本.md "wikilink")，[以色列](../Page/以色列.md "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[英國等地樂團也開始前來報名參加音樂祭](https://zh.wikipedia.org/wiki/英國 "wikilink")，使Wake
 Up音樂祭成為[嘉義有史以來第一個售票演唱會與音樂祭](https://zh.wikipedia.org/wiki/嘉義 "wikilink")。
 
 射日舞台-[臺灣原住民射日傳說為發想的活動主舞台](https://zh.wikipedia.org/wiki/臺灣原住民 "wikilink")。
-煙囪舞台-[嘉義舊酒廠之煙囪古蹟為背景之舞台](https://zh.wikipedia.org/wiki/嘉義文化創意產業園區 "wikilink")。
+煙囪舞台-[嘉義舊酒廠之煙囪古蹟為背景之舞台](../Page/嘉義文化創意產業園區.md "wikilink")。
 澄波舞台-[臺灣歷史上最有名之嘉義畫家](../Page/臺灣歷史.md "wikilink")[陳澄波為主之舞台](../Page/陳澄波.md "wikilink")，並舉辦澄波大賞供新銳樂團競技。
 鬼武舞台-嘉義最知名鬼屋「[民雄鬼屋](https://zh.wikipedia.org/wiki/民雄鬼屋 "wikilink")」為發想之主題，當時唯一售票舞台，引申意為如鬼神般強大的樂團演出。
 
@@ -57,7 +57,7 @@ Up音樂祭成為[嘉義有史以來第一個售票演唱會與音樂祭](https:
 
 Wake
 Up音樂祭經過六年努力，終於成功邀請到出道滿二十五週年的[伍佰老師帶領其樂團伍佰](../Page/伍佰.md "wikilink")&[China
-Blue回到嘉義演出](https://zh.wikipedia.org/wiki/China_Blue "wikilink")，這也是伍佰第一次在嘉義參與售票型的演出，創造100萬以上人次的網路廣告效益，並登上《[聯合報](https://zh.wikipedia.org/wiki/聯合報 "wikilink")》與其他報紙的全國版面，許多新聞台也有報導，同年共九個國家150組樂團共同參演，其中包含[滅火器](https://zh.wikipedia.org/wiki/滅火器 "wikilink")、[四分衛](../Page/四分衛樂團.md "wikilink")、[夾子電動大樂隊等知名樂團演出](https://zh.wikipedia.org/wiki/夾子電動大樂隊 "wikilink")。
+Blue回到嘉義演出](https://zh.wikipedia.org/wiki/China_Blue "wikilink")，這也是伍佰第一次在嘉義參與售票型的演出，創造100萬以上人次的網路廣告效益，並登上《[聯合報](https://zh.wikipedia.org/wiki/聯合報 "wikilink")》與其他報紙的全國版面，許多新聞台也有報導，同年共九個國家150組樂團共同參演，其中包含[滅火器](../Page/滅火器.md "wikilink")、[四分衛](../Page/四分衛樂團.md "wikilink")、[夾子電動大樂隊等知名樂團演出](https://zh.wikipedia.org/wiki/夾子電動大樂隊 "wikilink")。
 
 ## 第七屆
 

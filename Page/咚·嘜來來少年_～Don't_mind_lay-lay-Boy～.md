@@ -5,7 +5,7 @@ Record）發行](../Page/環球音樂_\(日本\).md "wikilink")。
 ## 解說
 
 標題曲「咚·嘜來來少年 ～Don't mind
-lay-lay-Boy～」是[富士電視台](../Page/富士電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[亂馬{{Sfrac](https://zh.wikipedia.org/wiki/亂馬½ "wikilink")》於1989年10月開播時選用的第一首片尾主題曲。也是主唱者自同年4月發行的上一張單曲《[別讓我成為潑婦](https://zh.wikipedia.org/wiki/別讓我成為潑婦 "wikilink")》以來，連續2首都被選用作為《亂馬》動畫系列主題曲的第2首商業搭配歌曲。
+lay-lay-Boy～」是[富士電視台](../Page/富士電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[亂馬{{Sfrac](https://zh.wikipedia.org/wiki/亂馬½ "wikilink")》於1989年10月開播時選用的第一首片尾主題曲。也是主唱者自同年4月發行的上一張單曲《[別讓我成為潑婦](../Page/別讓我成為潑婦.md "wikilink")》以來，連續2首都被選用作為《亂馬》動畫系列主題曲的第2首商業搭配歌曲。
 
 後來，1992年10月21日發行的動畫CD原聲帶《亂馬
 格鬥歌牌（<small></small>）》收錄了角色歌曲的翻唱版本，由《亂馬》的女主角[天道茜的動畫版聲優](https://zh.wikipedia.org/wiki/亂馬½#天道家 "wikilink")[日高範子主唱](../Page/日高範子.md "wikilink")。

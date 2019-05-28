@@ -4,7 +4,7 @@ Claws
 Mail支持的系统包括[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Unix-like](https://zh.wikipedia.org/wiki/Unix-like "wikilink")、[Linux](../Page/Linux.md "wikilink")、[BSD](../Page/BSD.md "wikilink")、[Solaris和](../Page/Solaris.md "wikilink")[Mac
 OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。
 
-它包含[Windows的一款加密组件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Gpg4win](https://zh.wikipedia.org/wiki/Gpg4win "wikilink")
+它包含[Windows的一款加密组件](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Gpg4win](../Page/Gpg4win.md "wikilink")
 。\[1\]
 
 ## 历史

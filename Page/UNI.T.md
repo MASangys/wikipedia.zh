@@ -1,5 +1,5 @@
 **UNI.T**（），因[KBS2偶像再造選秀節目](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[The
-Unit](../Page/The_Unit.md "wikilink")》所誕生的九人女子限定團體\[1\]，成員包括隊長[優熙](../Page/優熙.md "wikilink")、[楊知元](../Page/楊知元.md "wikilink")、[胤祖](https://zh.wikipedia.org/wiki/慎胤祖 "wikilink")、[ZN](https://zh.wikipedia.org/wiki/ZN_\(LABOUM\) "wikilink")、[NC.A](../Page/NC.A.md "wikilink")、[宜珍](https://zh.wikipedia.org/wiki/宜珍_\(SONAMOO\) "wikilink")、[豫彬](../Page/白豫彬.md "wikilink")、[李玹珠](../Page/李玹珠.md "wikilink")、[李繡至](https://zh.wikipedia.org/wiki/李繡至 "wikilink")。\[2\]\[3\]依規定，該組合將以[KBS所特設的The](https://zh.wikipedia.org/wiki/KBS "wikilink")
+Unit](../Page/The_Unit.md "wikilink")》所誕生的九人女子限定團體\[1\]，成員包括隊長[優熙](../Page/優熙.md "wikilink")、[楊知元](../Page/楊知元.md "wikilink")、[胤祖](../Page/慎胤祖.md "wikilink")、[ZN](../Page/ZN_\(LABOUM\).md "wikilink")、[NC.A](../Page/NC.A.md "wikilink")、[宜珍](../Page/宜珍_\(SONAMOO\).md "wikilink")、[豫彬](../Page/白豫彬.md "wikilink")、[李玹珠](../Page/李玹珠.md "wikilink")、[李繡至](https://zh.wikipedia.org/wiki/李繡至 "wikilink")。\[2\]\[3\]依規定，該組合將以[KBS所特設的The](https://zh.wikipedia.org/wiki/KBS "wikilink")
 Unit 文化產業專門會社的旗下藝人身份來進行其固定期限的活動。\[4\]2018年5月18日出道，2018年10月12日活動結束。
 
 團名「**UNI.T**」，是意味統一性和融合性的UNITY（英文諧音），作為用一個隊伍（TEAM）來展示最棒的合作意義。\[5\]
@@ -29,7 +29,7 @@ SOON」和類似手繪吉他的圖樣，證實UNI.T將於5月17日宣告出道�
 2018年8月15日，透過媒體表示將於9月13日發表最後的專輯，新曲將和勇敢兄弟合作。\[12\]9月7日，再度透過媒體表示新專輯將延後至9月18日發表，專輯名稱為《知道結局的開始（끝을
 아는 시작）》。\[13\]
 
-2018年9月12日，官咖宣布成員[ZN因所屬團體](https://zh.wikipedia.org/wiki/ZN_\(LABOUM\) "wikilink")[LABOUM的日本行程確定不參與專輯](../Page/LABOUM.md "wikilink")《知道結局的開始（끝을
+2018年9月12日，官咖宣布成員[ZN因所屬團體](../Page/ZN_\(LABOUM\).md "wikilink")[LABOUM的日本行程確定不參與專輯](../Page/LABOUM.md "wikilink")《知道結局的開始（끝을
 아는 시작）》的活動。
 
 2018年10月12日，在KBS2《音樂銀行》上展示UNI.T的最後舞台，分別演唱《끝을 아는 시작（Begin with the
@@ -39,20 +39,20 @@ end）》和《난말야（I mean）》兩首歌曲，並於當晚舉行的粉�
 
   - **粗體字**為隊長
 
-| 成員列表                                                          |
-| ------------------------------------------------------------- |
-| 藝名                                                            |
-| 藝名                                                            |
-| [楊知元](../Page/楊知元.md "wikilink")                              |
-| **[優熙](../Page/優熙.md "wikilink")**                            |
-| [胤祖](https://zh.wikipedia.org/wiki/慎胤祖 "wikilink")            |
-| [ZN](https://zh.wikipedia.org/wiki/ZN_\(LABOUM\) "wikilink")  |
-| [NC.A](../Page/NC.A.md "wikilink")                            |
-| [宜珍](https://zh.wikipedia.org/wiki/宜珍_\(SONAMOO\) "wikilink") |
-| [豫彬](../Page/白豫彬.md "wikilink")                               |
-| [李玹珠](../Page/李玹珠.md "wikilink")                              |
-| [李繡至](https://zh.wikipedia.org/wiki/李繡至 "wikilink")           |
-|                                                               |
+| 成員列表                                                |
+| --------------------------------------------------- |
+| 藝名                                                  |
+| 藝名                                                  |
+| [楊知元](../Page/楊知元.md "wikilink")                    |
+| **[優熙](../Page/優熙.md "wikilink")**                  |
+| [胤祖](../Page/慎胤祖.md "wikilink")                     |
+| [ZN](../Page/ZN_\(LABOUM\).md "wikilink")           |
+| [NC.A](../Page/NC.A.md "wikilink")                  |
+| [宜珍](../Page/宜珍_\(SONAMOO\).md "wikilink")          |
+| [豫彬](../Page/白豫彬.md "wikilink")                     |
+| [李玹珠](../Page/李玹珠.md "wikilink")                    |
+| [李繡至](https://zh.wikipedia.org/wiki/李繡至 "wikilink") |
+|                                                     |
 
 ## 音樂作品
 
@@ -69,7 +69,7 @@ end）》和《난말야（I mean）》兩首歌曲，並於當晚舉行的粉�
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Line_(UNI.T專輯)" title="wikilink">Line</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Line_(UNI.T專輯).md" title="wikilink">Line</a></strong>》</p>
 <ul>
 <li>發行日期：2018年5月18日</li>
 <li>語言：韓語</li>

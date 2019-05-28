@@ -70,7 +70,7 @@ CAR**」！
     (向明天的YELL)
       -
         作詞・作曲：Takuya Harada、編曲：CHOKKAKU、コーラスアレンジ：高橋哲也
-        13thシングルの2曲目。[中島裕翔](../Page/中島裕翔.md "wikilink")・[髙木雄也出演](../Page/高木雄也.md "wikilink")[富士電視台系ドラマ](../Page/富士電視台.md "wikilink")『[水球不良少年](https://zh.wikipedia.org/wiki/水球不良少年 "wikilink")』主題歌
+        13thシングルの2曲目。[中島裕翔](../Page/中島裕翔.md "wikilink")・[髙木雄也出演](../Page/高木雄也.md "wikilink")[富士電視台系ドラマ](../Page/富士電視台.md "wikilink")『[水球不良少年](../Page/水球不良少年.md "wikilink")』主題歌
 14. **Farewell**
       -
         作詞：ma-saya、作曲・編曲：原一博

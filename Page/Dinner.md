@@ -61,7 +61,7 @@ Roccabianca為背景，由[江口洋介主演](../Page/江口洋介.md "wikilink
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/松重豐" title="wikilink">松重豐</a></p></td>
+<p><a href="../Page/松重豐.md" title="wikilink">松重豐</a></p></td>
 <td><center>
 <p>今井耕助</p></td>
 <td><p>羅彼昂餐廳的副主廚，外表嚴謹且個性耿直，私底下卻帶著幽默，曾和木下數馬、梶信成在卡拉OK店跳「不要脫我的水手服」(小貓俱樂部 曲)。後和江崎一同打造新菜單後重回自信，也接受江崎的加入。</p></td>

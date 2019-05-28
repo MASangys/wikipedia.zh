@@ -1,4 +1,4 @@
-******是[斜睪目](../Page/斜睪目.md "wikilink")[孔腸科之下的一個](https://zh.wikipedia.org/wiki/孔腸科 "wikilink")[吸蟲綱](../Page/吸蟲綱.md "wikilink")[複殖亞綱的](../Page/複殖亞綱.md "wikilink")[吸蟲](https://zh.wikipedia.org/wiki/吸蟲 "wikilink")。
+******是[斜睪目](../Page/斜睪目.md "wikilink")[孔腸科之下的一個](../Page/孔腸科.md "wikilink")[吸蟲綱](../Page/吸蟲綱.md "wikilink")[複殖亞綱的](../Page/複殖亞綱.md "wikilink")[吸蟲](https://zh.wikipedia.org/wiki/吸蟲 "wikilink")。
 該屬有兩個[異名](../Page/異名.md "wikilink")：*Cymbephallus* Linton,
 1934\[1\]和*Fimbriatus* von Wicklen, 1946\[2\]。
 

@@ -4,7 +4,7 @@
 
 株式會社九Production的前身是電影放送部\[2\]。
 
-2004年10月3日，九Production創辦人及執行社長、聲優[平林尚三](https://zh.wikipedia.org/wiki/平林尚三 "wikilink")\[3\]病逝，因此在同年10月31日最後決定解散。
+2004年10月3日，九Production創辦人及執行社長、聲優[平林尚三](../Page/平林尚三.md "wikilink")\[3\]病逝，因此在同年10月31日最後決定解散。
 
 九Production解散後，所有的聲優各自轉移至其它中、大型聲優經紀公司繼續從事聲優事業，當中又以[惟Production或](https://zh.wikipedia.org/wiki/惟Production "wikilink")[Production★A組較多](../Page/Production★A組.md "wikilink")。
 
@@ -35,7 +35,7 @@
 </dl>
 <ul>
 <li><a href="../Page/龜井三郎.md" title="wikilink">龜井三郎</a>（移籍<a href="../Page/81_Produce.md" title="wikilink">81 Produce之後於在籍中死去</a>）</li>
-<li><a href="https://zh.wikipedia.org/wiki/河相智哉" title="wikilink">河相智哉</a>（現所屬：<a href="../Page/Production★A組.md" title="wikilink">Production★A組</a>）</li>
+<li><a href="../Page/河相智哉.md" title="wikilink">河相智哉</a>（現所屬：<a href="../Page/Production★A組.md" title="wikilink">Production★A組</a>）</li>
 <li><p>（現所屬：<a href="../Page/Production_Ace.md" title="wikilink">Production Ace</a>）</p></li>
 <li>神田武</li>
 <li><p>（現所屬：Production★A組）</p></li>
@@ -87,7 +87,7 @@
 <li><p>（現所屬：）</p></li>
 <li>日野亮一（現所屬：惟Production）</li>
 <li><p>（現所屬：惟Production）</p></li>
-<li><a href="https://zh.wikipedia.org/wiki/平林尚三" title="wikilink">平林尚三</a>（代表，在籍中死去）</li>
+<li><a href="../Page/平林尚三.md" title="wikilink">平林尚三</a>（代表，在籍中死去）</li>
 <li><p>（<a href="../Page/自由職業.md" title="wikilink">自由職業</a>）</p></li>
 <li><p>（轉身成自由身之後死去）</p></li>
 </ul>

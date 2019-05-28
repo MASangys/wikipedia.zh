@@ -1,13 +1,13 @@
-《**幸运钥匙**》（、）是2016年10月13日上映的一部韓國喜劇電影，翻拍自2012年日本電影《[落KEY人生](https://zh.wikipedia.org/wiki/盗钥匙的方法 "wikilink")》，講述一名殺手（崔亨旭，由[柳海真飾演](https://zh.wikipedia.org/wiki/柳海真 "wikilink")）因在澡堂踩到香皂而摔倒失憶，以及一名決心自殺的無名演員（尹在誠，由[李準飾演](../Page/李準_\(歌手\).md "wikilink")）在澡堂調換鑰匙，而讓兩個人的命運大逆轉的故事。
+《**幸运钥匙**》（、）是2016年10月13日上映的一部韓國喜劇電影，翻拍自2012年日本電影《[落KEY人生](../Page/盗钥匙的方法.md "wikilink")》，講述一名殺手（崔亨旭，由[柳海真飾演](../Page/柳海真.md "wikilink")）因在澡堂踩到香皂而摔倒失憶，以及一名決心自殺的無名演員（尹在誠，由[李準飾演](../Page/李準_\(歌手\).md "wikilink")）在澡堂調換鑰匙，而讓兩個人的命運大逆轉的故事。
 
 ## 演員
 
 ### 主要演員
 
-  - [柳海真](https://zh.wikipedia.org/wiki/柳海真 "wikilink") 飾演 崔亨旭
+  - [柳海真](../Page/柳海真.md "wikilink") 飾演 崔亨旭
   - [李準](../Page/李準_\(歌手\).md "wikilink") 飾演 尹在誠
   - [趙胤熙](../Page/趙胤熙.md "wikilink") 飾演 姜莉娜
-  - [林智妍](https://zh.wikipedia.org/wiki/林智妍 "wikilink") 飾演 宋恩珠
+  - [林智妍](../Page/林智妍.md "wikilink") 飾演 宋恩珠
 
 ### 其他演員
 
@@ -17,7 +17,7 @@
   - [金民尚](https://zh.wikipedia.org/wiki/金民尚 "wikilink") 飾演 導演
   - [成秉淑](../Page/成秉淑.md "wikilink") 飾演 姜莉娜的媽媽
   - [金智安](https://zh.wikipedia.org/wiki/金智安 "wikilink") 飾演 姜侑娜
-  - [朴勝泰](https://zh.wikipedia.org/wiki/朴勝泰 "wikilink") 飾演 姜莉娜的奶奶
+  - [朴勝泰](../Page/朴勝泰.md "wikilink") 飾演 姜莉娜的奶奶
   - [金益泰](https://zh.wikipedia.org/wiki/金益泰 "wikilink") 飾演 尹宰成的爸爸
   - [李龍女](https://zh.wikipedia.org/wiki/李龍女 "wikilink") 飾演 主人奶奶
   - [車淳亨](https://zh.wikipedia.org/wiki/車淳亨 "wikilink") 飾演 崔文錫

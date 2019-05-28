@@ -11,7 +11,7 @@ ASU-85坦克歼击车由前苏联OKB-40设计局研制，项目工程代号“57
 ## 实战使用
 
   - [第三次中東戰爭](https://zh.wikipedia.org/wiki/第三次中東戰爭 "wikilink")
-  - [華約入侵捷克斯洛伐克](https://zh.wikipedia.org/wiki/華約入侵捷克斯洛伐克 "wikilink")
+  - [華約入侵捷克斯洛伐克](../Page/華約入侵捷克斯洛伐克.md "wikilink")
   - [苏联－阿富汗战争](../Page/苏联－阿富汗战争.md "wikilink")
   - [1979年中越战争](../Page/1979年中越战争.md "wikilink")
 

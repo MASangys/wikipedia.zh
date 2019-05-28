@@ -48,7 +48,7 @@ WAR**》是[韩国偶像團體](https://zh.wikipedia.org/wiki/韩国 "wikilink")
 <td><p>2017年7月18日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></p></td>
 <td><p><a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie音樂</a></p></td>
+<td><p><a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

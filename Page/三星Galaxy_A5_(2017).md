@@ -1,6 +1,6 @@
 **三星Galaxy A5
 (2017)**是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子製造的一款](../Page/三星電子.md "wikilink")[Android智慧型手機](../Page/Android.md "wikilink")\[1\]\[2\]\[3\]，於2017年1月2日與[三星Galaxy
-A3（2017）和三星](https://zh.wikipedia.org/wiki/三星Galaxy_A3_\(2017\) "wikilink")[Galaxy
+A3（2017）和三星](../Page/三星Galaxy_A3_\(2017\).md "wikilink")[Galaxy
 A7（2017）一起發布](../Page/三星Galaxy_A7_\(2017\).md "wikilink")。
 這是三星自2016年10月停售[Galaxy Note
 7以來的第一批產品](../Page/三星Galaxy_Note_7.md "wikilink")。\[4\]三星Galaxy

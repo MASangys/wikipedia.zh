@@ -157,7 +157,7 @@ LTD[收購](../Page/併購.md "wikilink")。
   - [はな](https://zh.wikipedia.org/wiki/はな_\(タレント\) "wikilink")（ORBIS）
   - [高橋マリ子](https://zh.wikipedia.org/wiki/高橋マリ子 "wikilink")
   - [桐島かれん](https://zh.wikipedia.org/wiki/桐島かれん "wikilink")
-  - [樋口可南子](https://zh.wikipedia.org/wiki/樋口可南子 "wikilink")
+  - [樋口可南子](../Page/樋口可南子.md "wikilink")
   - [五十嵐淳子](https://zh.wikipedia.org/wiki/五十嵐淳子 "wikilink")
   - [眞野あずさ](https://zh.wikipedia.org/wiki/眞野あずさ "wikilink")
   - [金子信雄](https://zh.wikipedia.org/wiki/金子信雄 "wikilink")・[田中小実昌](https://zh.wikipedia.org/wiki/田中小実昌 "wikilink")（育毛剤）

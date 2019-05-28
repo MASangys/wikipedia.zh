@@ -185,7 +185,7 @@
 </tr>
 <tr class="odd">
 <td><p>原田利夫</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山西惇" title="wikilink">山西惇</a></p></td>
+<td><p><a href="../Page/山西惇.md" title="wikilink">山西惇</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -375,7 +375,7 @@
 </tr>
 <tr class="odd">
 <td><p>タクヤ</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金子大地" title="wikilink">金子大地</a></p></td>
+<td><p><a href="../Page/金子大地.md" title="wikilink">金子大地</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -95,7 +95,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/自治市公園_(布魯克林)" title="wikilink">自治市公園</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/漢密爾頓堡公園道車站_(BMT西城線)" title="wikilink">漢密爾頓堡公園道</a></p></td>
+<td><p><a href="../Page/漢密爾頓堡公園道車站_(BMT西城線).md" title="wikilink">漢密爾頓堡公園道</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -104,7 +104,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/50街車站_(BMT西城線)" title="wikilink">50街</a></p></td>
+<td><p><a href="../Page/50街車站_(BMT西城線).md" title="wikilink">50街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -114,7 +114,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/55街車站_(BMT西城線)" title="wikilink">55街</a></p></td>
+<td><p><a href="../Page/55街車站_(BMT西城線).md" title="wikilink">55街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -134,7 +134,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/71街車站_(BMT西城線)" title="wikilink">71街</a></p></td>
+<td><p><a href="../Page/71街車站_(BMT西城線).md" title="wikilink">71街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -144,7 +144,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/79街車站_(BMT西城線)" title="wikilink">79街</a></p></td>
+<td><p><a href="../Page/79街車站_(BMT西城線).md" title="wikilink">79街</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>
@@ -154,7 +154,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/18大道車站_(BMT西城線)" title="wikilink">18大道</a></p></td>
+<td><p><a href="../Page/18大道車站_(BMT西城線).md" title="wikilink">18大道</a></p></td>
 <td></td>
 <td><p>慢車</p></td>
 <td></td>

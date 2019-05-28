@@ -142,7 +142,7 @@
   - 音樂：服部隆之
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")
   - 動畫製作：[三次元](../Page/三次元_\(動畫製作公司\).md "wikilink")
-  - 監製：[世界Cosplay高峰會](https://zh.wikipedia.org/wiki/世界Cosplay高峰會 "wikilink")
+  - 監製：[世界Cosplay高峰會](../Page/世界Cosplay高峰會.md "wikilink")
 
 ## 主題曲
 

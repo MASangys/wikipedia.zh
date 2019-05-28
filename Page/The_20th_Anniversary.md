@@ -1,13 +1,13 @@
 《**THE 20TH
 ANNIVERSARY**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[水晶男孩自](../Page/水晶男孩.md "wikilink")2016年12月推出重新錄音專輯《[2016
-Re-ALBUM](../Page/2016_Re-ALBUM.md "wikilink")》後，時隔四個月回歸的新作品。專輯由[YG娛樂製作](../Page/YG娛樂.md "wikilink")、[Genie音樂發行](https://zh.wikipedia.org/wiki/Genie音樂 "wikilink")，於2017年4月28日下午6時（[KST](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）通過各大數位音樂網站公開線上音源，實體專輯則於4月29日發售。此專輯為[水晶男孩出道二十週年企劃行程之一](../Page/水晶男孩.md "wikilink")，亦是[水晶男孩繼](../Page/水晶男孩.md "wikilink")2000年5月31日《[Blue
-Note](https://zh.wikipedia.org/wiki/Blue_Note "wikilink")》後，暌違17年發表收錄新曲的專輯。專輯收錄雙主打歌〈BE
+Re-ALBUM](../Page/2016_Re-ALBUM.md "wikilink")》後，時隔四個月回歸的新作品。專輯由[YG娛樂製作](../Page/YG娛樂.md "wikilink")、[Genie音樂發行](../Page/Genie音樂.md "wikilink")，於2017年4月28日下午6時（[KST](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")）通過各大數位音樂網站公開線上音源，實體專輯則於4月29日發售。此專輯為[水晶男孩出道二十週年企劃行程之一](../Page/水晶男孩.md "wikilink")，亦是[水晶男孩繼](../Page/水晶男孩.md "wikilink")2000年5月31日《[Blue
+Note](../Page/Blue_Note.md "wikilink")》後，暌違17年發表收錄新曲的專輯。專輯收錄雙主打歌〈BE
 WELL〉及〈SAD SONG〉、2016年10月發行的單曲〈[THREE
-WORDS](https://zh.wikipedia.org/wiki/THREE_WORDS "wikilink")〉，與八首重新混音的熱門歌曲。
+WORDS](../Page/THREE_WORDS.md "wikilink")〉，與八首重新混音的熱門歌曲。
 
 ## 背景
 
-2017年1月22日，[水晶男孩在](../Page/水晶男孩.md "wikilink")[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")[蠶室室內體育館舉行巡迴演唱會](../Page/首爾綜合運動場.md "wikilink")「YELLOW
+2017年1月22日，[水晶男孩在](../Page/水晶男孩.md "wikilink")[首爾](../Page/首爾.md "wikilink")[蠶室室內體育館舉行巡迴演唱會](../Page/首爾綜合運動場.md "wikilink")「YELLOW
 NOTE」最終場，期間成員[金在德表示組合將於二十週年演唱會舉行前發表新專輯](../Page/金在德.md "wikilink")\[1\]。3月30日，[YG娛樂相關人士透露水晶男孩正在以](../Page/YG娛樂.md "wikilink")4月15日回歸為目標準備紀念出道二十週年專輯，並於當天在首爾[明洞一家酒店秘密拍攝新曲音樂錄影帶](../Page/明洞.md "wikilink")，而有關回歸的海報與影片已於月初前往[夏威夷拍攝](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")\[2\]。
 
 4月14日，YG相關人士指水晶男孩為本次回歸製作了兩部音樂錄影帶，但由於編輯工作仍未結束，因此無法於15日發售新曲\[3\]。對此，[梁鉉錫代表特別指示](../Page/梁鉉錫.md "wikilink")，4月是水晶男孩出道二十週年的月份，故一定要在月內發售專輯。
@@ -15,14 +15,14 @@ NOTE」最終場，期間成員[金在德表示組合將於二十週年演唱會
 4月19日，YG娛樂透過官方部落格公開水晶男孩二十週年企劃行程海報\[4\]，正式宣佈新專輯名為《**THE 20TH
 ANNIVERSARY**》，並將於4月28日發行。4月27日，水晶男孩於新專輯發表前夕舉行記者會，其中隊長[殷志源提及專輯主打歌之一](https://zh.wikipedia.org/wiki/殷志源 "wikilink")〈SAD
 SONG〉為單曲〈[THREE
-WORDS](https://zh.wikipedia.org/wiki/THREE_WORDS "wikilink")〉發表前便已完成錄製的歌曲\[5\]。
+WORDS](../Page/THREE_WORDS.md "wikilink")〉發表前便已完成錄製的歌曲\[5\]。
 
 ## 專輯概念
 
 《**THE 20TH
 ANNIVERSARY**》為紀念[水晶男孩出道二十週年的特別專輯](../Page/水晶男孩.md "wikilink")，亦是[水晶男孩暌違](../Page/水晶男孩.md "wikilink")17年發表收錄新曲的專輯，對成員們和粉絲都帶有特別的意義。此專輯收錄雙主打歌〈BE
 WELL〉及〈SAD SONG〉、2016年10月發行的單曲〈[THREE
-WORDS](https://zh.wikipedia.org/wiki/THREE_WORDS "wikilink")〉。
+WORDS](../Page/THREE_WORDS.md "wikilink")〉。
 
 另外，此專輯收錄八首過往熱門歌曲的Remaster版本，包括〈HEARTBREAK〉、〈RECKLESS
 LOVE〉、〈SAY〉、〈FAREWELL〉、〈COME TO ME BABY〉、〈BAD GIRL〉、〈DEAR
@@ -92,7 +92,7 @@ Media發行漢字或](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")[滾石
 <td><p>2017年4月28日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></p></td>
 <td><p><a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie音樂</a></p></td>
+<td><p><a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>

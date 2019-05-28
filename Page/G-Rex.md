@@ -321,7 +321,7 @@ Gaming（RG）隊員組成，創下台港澳英雄聯盟頂級聯賽開季五連
 </tr>
 <tr class="odd">
 <td><p>Toyz</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/劉偉健" title="wikilink">劉偉健</a></p></td>
+<td><p><a href="../Page/劉偉健.md" title="wikilink">劉偉健</a></p></td>
 <td></td>
 <td><p>總監</p></td>
 </tr>
@@ -380,7 +380,7 @@ Gaming（RG）隊員組成，創下台港澳英雄聯盟頂級聯賽開季五連
   - 2018年4月1日，LMS春季賽結束，以12勝2敗的戰績，穩坐LMS第二名位置，前進季後挑戰賽。
   - 2018年4月15日，LMS春季季後賽，以3:0戰績擊敗[MAD
     Team戰隊](https://zh.wikipedia.org/wiki/MAD_Team "wikilink")，前往澳門與[閃電狼挑戰春季總冠軍與](../Page/閃電狼.md "wikilink")2018MSI季中邀請賽門票。
-  - 2018年4月20日，LMS春季季後賽冠軍戰，[G-Rex以](https://zh.wikipedia.org/wiki/G-Rex "wikilink")0:3戰績輸給[閃電狼](../Page/閃電狼.md "wikilink")，無緣LMS春季總冠軍與2018MSI季中邀請賽資格。
+  - 2018年4月20日，LMS春季季後賽冠軍戰，[G-Rex以](../Page/G-Rex.md "wikilink")0:3戰績輸給[閃電狼](../Page/閃電狼.md "wikilink")，無緣LMS春季總冠軍與2018MSI季中邀請賽資格。
   - 2018年6月6日，總教練Toyz宣布退下主教練一職，轉監督一職。
   - 2018年8月17日，LMS夏季賽結束，以6勝8敗戰績，與[J
     Team並列第四名位置](https://zh.wikipedia.org/wiki/J_Team "wikilink")。

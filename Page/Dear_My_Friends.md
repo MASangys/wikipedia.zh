@@ -1,5 +1,5 @@
 《**Dear My
-Friends**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年5月13日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，同時本劇也為tvN創社10周年特別企劃，由《[那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink")》、《[沒關係，是愛情啊](https://zh.wikipedia.org/wiki/沒關係，是愛情啊 "wikilink")》[盧熙京作家與](../Page/盧熙京.md "wikilink")《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》、《[我的秘密飯店](https://zh.wikipedia.org/wiki/我的秘密飯店 "wikilink")》[洪鍾燦導演聯手打造的作品](../Page/洪鍾燦.md "wikilink")。“人生還沒有結束，我們還活著”黃昏青春的人生禮贊，走向人生盡頭的朋友們之間的故事。此劇集集合多位演技深厚的資深演員共同擔綱演出，為罕有以老齡人生的故事作題材的電視劇。
+Friends**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN自](https://zh.wikipedia.org/wiki/tvN "wikilink")2016年5月13日起播出的[金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")，同時本劇也為tvN創社10周年特別企劃，由《[那年冬天風在吹](../Page/那年冬天風在吹.md "wikilink")》、《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")》[盧熙京作家與](../Page/盧熙京.md "wikilink")《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》、《[我的秘密飯店](../Page/我的秘密飯店.md "wikilink")》[洪鍾燦導演聯手打造的作品](../Page/洪鍾燦.md "wikilink")。“人生還沒有結束，我們還活著”黃昏青春的人生禮贊，走向人生盡頭的朋友們之間的故事。此劇集集合多位演技深厚的資深演員共同擔綱演出，為罕有以老齡人生的故事作題材的電視劇。
 
 ## 演員陣容
 
@@ -118,7 +118,7 @@ Friends**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[t
 <td><p>雙芬的兒子，莞的舅舅。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/白承道" title="wikilink">白承道</a></p></td>
+<td><p><a href="../Page/白承道.md" title="wikilink">白承道</a></p></td>
 <td><p>楊周榮</p></td>
 <td></td>
 <td><p>忠南的姪子。</p></td>
@@ -130,7 +130,7 @@ Friends**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[t
 <td><p>忠南的外甥。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/廉惠蘭" title="wikilink">廉惠蘭</a></p></td>
+<td><p><a href="../Page/廉惠蘭.md" title="wikilink">廉惠蘭</a></p></td>
 <td><p>金順英</p></td>
 <td></td>
 <td><p>晶雅的大女兒。</p></td>

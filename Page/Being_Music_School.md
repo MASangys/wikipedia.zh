@@ -10,7 +10,7 @@ School**是[日本一所由知名唱片公司](../Page/日本.md "wikilink")[Bei
   - [主唱課程](https://zh.wikipedia.org/wiki/主唱 "wikilink")
   - [歌曲寫作課程講座](../Page/歌曲.md "wikilink")…擔任講師
   - [爵士鼓課程講座](../Page/爵士鼓.md "wikilink")…原[FIELD OF
-    VIEW鼓手](https://zh.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink")擔任講師
+    VIEW鼓手](../Page/FIELD_OF_VIEW.md "wikilink")擔任講師
   - [吉他課程講座](../Page/吉他.md "wikilink")…原[MARBLE
     TONE的](https://zh.wikipedia.org/wiki/MARBLE_TONE "wikilink")[植田浩二擔任講師](https://zh.wikipedia.org/wiki/植田浩二 "wikilink")
   - [舞蹈課程講座](../Page/舞蹈.md "wikilink")
@@ -22,7 +22,7 @@ School**是[日本一所由知名唱片公司](../Page/日本.md "wikilink")[Bei
   - 出道前的[倉木麻衣](../Page/倉木麻衣.md "wikilink")、[BREAKERZ的](../Page/BREAKERZ.md "wikilink")[DAIGO亦有參加歌唱課程](https://zh.wikipedia.org/wiki/DAIGO "wikilink")。
 
   - 爵士鼓課程講師，原[FIELD OF
-    VIEW鼓手的](https://zh.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink")亦是在冊一員。
+    VIEW鼓手的](../Page/FIELD_OF_VIEW.md "wikilink")亦是在冊一員。
 
   - 舉行了[Being在](../Page/Being_\(公司\).md "wikilink")1990年代所主辦的BAD試聽甄選。
 
@@ -47,7 +47,7 @@ School**是[日本一所由知名唱片公司](../Page/日本.md "wikilink")[Bei
 
   - ([ZYYG](../Page/ZYYG.md "wikilink"))
 
-  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")([BAAD](https://zh.wikipedia.org/wiki/BAAD "wikilink")、[doa](https://zh.wikipedia.org/wiki/doa_\(樂團\) "wikilink"))
+  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")([BAAD](../Page/BAAD.md "wikilink")、[doa](https://zh.wikipedia.org/wiki/doa_\(樂團\) "wikilink"))
 
   - ([DEEN](../Page/DEEN.md "wikilink"))
 
@@ -79,8 +79,7 @@ School**是[日本一所由知名唱片公司](../Page/日本.md "wikilink")[Bei
   - [長戶大幸](../Page/長戶大幸.md "wikilink")
 
   -
-  - [FIELD OF
-    VIEW](https://zh.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink")
+  - [FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")
 
   -
   - [植田浩二](https://zh.wikipedia.org/wiki/植田浩二 "wikilink")

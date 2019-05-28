@@ -77,7 +77,7 @@ Asia於新加坡和馬來西亞於韓國播放後](https://zh.wikipedia.org/wiki
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/高聖熙" title="wikilink">高聖熙</a></p></td>
+<td><p><a href="../Page/高聖熙.md" title="wikilink">高聖熙</a></p></td>
 <td><p>申子英</p></td>
 <td><p><a href="../Page/姜嘉蕾.md" title="wikilink">姜嘉蕾</a></p></td>
 <td><p>慧娜的親生母親，總是有歇斯底里的語調和表情，對慧娜是既愛又恨。</p></td>
@@ -280,13 +280,13 @@ Asia於新加坡和馬來西亞於韓國播放後](https://zh.wikipedia.org/wiki
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/徐宜淑" title="wikilink">徐宜淑</a></p></td>
+<td><p><a href="../Page/徐宜淑.md" title="wikilink">徐宜淑</a></p></td>
 <td><p>羅女士</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/冼詠儀" title="wikilink">冼詠儀</a></p></td>
 <td><p>民宿主人。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/藝秀晶" title="wikilink">藝秀晶</a></p></td>
+<td><p><a href="../Page/藝秀晶.md" title="wikilink">藝秀晶</a></p></td>
 <td><p>克拉拉<br />
 （老年）</p></td>
 <td><p><a href="../Page/黃鳳兒.md" title="wikilink">黃鳳兒</a></p></td>
@@ -299,9 +299,9 @@ Asia於新加坡和馬來西亞於韓國播放後](https://zh.wikipedia.org/wiki
 <td><p>申子英的辯護律師。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴浩山" title="wikilink">朴浩山</a></p></td>
+<td><p><a href="../Page/朴浩山.md" title="wikilink">朴浩山</a></p></td>
 <td><p>張運財</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳漢祺" title="wikilink">陳漢祺</a></p></td>
+<td><p><a href="../Page/陳漢祺.md" title="wikilink">陳漢祺</a></p></td>
 <td><p>張禹均的爸爸。里山的跆拳道館館長。與兒子一起幫助秀珍和慧娜躲過警察的盤查。</p></td>
 </tr>
 <tr class="even">
@@ -469,11 +469,11 @@ Asia於新加坡和馬來西亞於韓國播放後](https://zh.wikipedia.org/wiki
 ## 同期競爭作品
 
   - [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")
-    [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[不是機器人啊](https://zh.wikipedia.org/wiki/不是機器人啊 "wikilink")》、《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）
+    [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[不是機器人啊](../Page/不是機器人啊.md "wikilink")》、《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[黑騎士](https://zh.wikipedia.org/wiki/黑騎士_\(韓國電視劇\) "wikilink")》、《[推理的女王2](https://zh.wikipedia.org/wiki/推理的女王2 "wikilink")》
+    [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[黑騎士](../Page/黑騎士_\(韓國電視劇\).md "wikilink")》、《[推理的女王2](../Page/推理的女王2.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [特別劇](../Page/SBS特別劇.md "wikilink")：《[Return](https://zh.wikipedia.org/wiki/Return_\(韓國電視劇\) "wikilink")》
+    [特別劇](../Page/SBS特別劇.md "wikilink")：《[Return](../Page/Return_\(韓國電視劇\).md "wikilink")》
 
 ## 提名&得獎列表
 

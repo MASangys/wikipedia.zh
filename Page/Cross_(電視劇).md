@@ -77,7 +77,7 @@
 <td><p>孫妍熙</p></td>
 <td><p><strong>善霖醫院急診科專門醫生</strong><br />
 1984年生，34歲。孫永植的女兒。擁有溫暖內心且實力堅具的醫生。因為急救人員沒能來得及反應而失去了母親，從此立志成為不讓監護人和自己後悔的急診科醫生。但是姜仁奎的出現而讓她人生有巨大變化。21歲時曾接受心臟移植手術，心臟是由其父殺害姜仁奎生父活摘得來；最後因對其父罪行而感極度悔疚，出國當義工贖罪。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張惠雯" title="wikilink">張惠雯</a></p></td>
+<td><p><a href="../Page/張惠雯.md" title="wikilink">張惠雯</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/張光_(演員).md" title="wikilink">張光</a></p></td>
@@ -118,7 +118,7 @@
 <td></td>
 <td><p>趙基南</p></td>
 <td><p>善霖醫院宣傳室室長。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馮瀚輝" title="wikilink">馮瀚輝</a></p></td>
+<td><p><a href="../Page/馮瀚輝.md" title="wikilink">馮瀚輝</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -181,7 +181,7 @@
 <td><p>柳順雄</p></td>
 <td><p>白圭尚</p></td>
 <td><p>老爺爺受刑人／囚犯編號為：6800。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馮瀚輝" title="wikilink">馮瀚輝</a></p></td>
+<td><p><a href="../Page/馮瀚輝.md" title="wikilink">馮瀚輝</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -212,7 +212,7 @@
 <td></td>
 <td><p>姜大樹</p></td>
 <td><p>姜仁奎的父親。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馮瀚輝" title="wikilink">馮瀚輝</a></p></td>
+<td><p><a href="../Page/馮瀚輝.md" title="wikilink">馮瀚輝</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>崔恩書</p></td>
@@ -479,11 +479,11 @@
 
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
     [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[Radio
-    Romance](https://zh.wikipedia.org/wiki/Radio_Romance "wikilink")》
+    Romance](../Page/Radio_Romance.md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）、《[偉大的誘惑者](https://zh.wikipedia.org/wiki/偉大的誘惑者 "wikilink")》
+    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）、《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[疑問的一勝](https://zh.wikipedia.org/wiki/疑問的一勝 "wikilink")》、《[能先接吻嗎？](https://zh.wikipedia.org/wiki/能先接吻嗎？ "wikilink")》
+    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[疑問的一勝](../Page/疑問的一勝.md "wikilink")》、《[能先接吻嗎？](https://zh.wikipedia.org/wiki/能先接吻嗎？ "wikilink")》
 
 ## 參考資料
 

@@ -11,7 +11,7 @@ DX』，臺灣[群英社譯為](../Page/群英社.md "wikilink")《快餐店之�
 
 ### 歡迎來到Pia Carrot\!\!2
 
-同名OVA是由[Triple X製作](https://zh.wikipedia.org/wiki/Arms "wikilink")，Pink
+同名OVA是由[Triple X製作](../Page/Arms.md "wikilink")，Pink
 Pineapple發售的成人動畫共三集。
 
   - 集數列表

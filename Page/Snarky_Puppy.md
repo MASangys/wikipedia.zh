@@ -1,7 +1,7 @@
 **暴烈幼犬** 是由Michael League（[電貝斯手](../Page/電貝斯.md "wikilink"), 作曲家,
 [音樂製作人](../Page/音樂製作人.md "wikilink"),
 [葛萊美獎得主](../Page/葛萊美獎.md "wikilink")）所帶領的,
-位於[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")[融合爵士樂樂團](https://zh.wikipedia.org/wiki/融合爵士樂 "wikilink")。於2004年成立於[德克薩斯州的登頓](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")。樂團的特色是其共有約40名音樂家組成，在不同的巡迴演出和錄音時都能上陣演出。其樂器包括了吉他，鋼琴，鍵盤樂器，木管，銅管，打擊以及弦樂器。許多目前及前任團員皆為[北德克薩斯大學畢業的學生](https://zh.wikipedia.org/wiki/北德克薩斯大學 "wikilink")。
+位於[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")[融合爵士樂樂團](https://zh.wikipedia.org/wiki/融合爵士樂 "wikilink")。於2004年成立於[德克薩斯州的登頓](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")。樂團的特色是其共有約40名音樂家組成，在不同的巡迴演出和錄音時都能上陣演出。其樂器包括了吉他，鋼琴，鍵盤樂器，木管，銅管，打擊以及弦樂器。許多目前及前任團員皆為[北德克薩斯大學畢業的學生](../Page/北德克薩斯大學.md "wikilink")。
 
 樂團的成員經常性的更動，且樂團也常與不同音樂家合作，如：Erykah Badu, Marcus Miller, Justin
 Timberlake, Kirk Franklin, Ari Hoenig, Roy Hargrove, Snoop

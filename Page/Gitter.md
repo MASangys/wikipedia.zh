@@ -35,7 +35,7 @@ bridge）。\[9\]
 
 ### 与非GitHub站点的应用程序集成
 
-Gitter与[Trello](https://zh.wikipedia.org/wiki/Trello "wikilink")、\[18\][Jenkins](https://zh.wikipedia.org/wiki/Jenkins_\(软件\) "wikilink")、[Travis
+Gitter与[Trello](../Page/Trello.md "wikilink")、\[18\][Jenkins](../Page/Jenkins_\(软件\).md "wikilink")、[Travis
 CI](../Page/Travis_CI.md "wikilink")、[Heroku](../Page/Heroku.md "wikilink")、[Sentry](https://getsentry.com)、[Bitbucket](../Page/Bitbucket.md "wikilink")、HuBoard、、Pagerduty和Sprintly等应用集成。
 
 ## 来源

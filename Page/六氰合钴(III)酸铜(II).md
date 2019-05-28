@@ -2,7 +2,7 @@
 
 ## 制备
 
-六氰合钴(III)酸铜(II)可通过[六氰合钴(III)酸钾和](https://zh.wikipedia.org/wiki/六氰合钴\(III\)酸钾 "wikilink")[氯化铜反应得到](../Page/氯化铜.md "wikilink")：\[1\]
+六氰合钴(III)酸铜(II)可通过[六氰合钴(III)酸钾和](../Page/六氰合钴\(III\)酸钾.md "wikilink")[氯化铜反应得到](../Page/氯化铜.md "wikilink")：\[1\]
 
   -
     2 K<sub>3</sub>\[Co(CN)<sub>6</sub>\] + 3 CuCl<sub>2</sub> →

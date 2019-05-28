@@ -1,5 +1,5 @@
 《**citrus
-～柑橘味香氣～**》是[日本女性](../Page/日本.md "wikilink")[漫畫家三郎太](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")（）所作，由[一迅社出版的漫畫作品](../Page/一迅社.md "wikilink")。2012年11月17日開始連載於[漫畫雜誌月刊](../Page/日本漫畫雜誌.md "wikilink")《[Comic百合姬](https://zh.wikipedia.org/wiki/Comic百合姬 "wikilink")》，已出版9冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。繁體中文版由[東立出版社代理](../Page/東立出版社.md "wikilink")，簡體中文版由[布卡漫畫代理進行網路連載](https://zh.wikipedia.org/wiki/布卡漫畫 "wikilink")。改編的[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2018年1月6日開始播放。
+～柑橘味香氣～**》是[日本女性](../Page/日本.md "wikilink")[漫畫家三郎太](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")（）所作，由[一迅社出版的漫畫作品](../Page/一迅社.md "wikilink")。2012年11月17日開始連載於[漫畫雜誌月刊](../Page/日本漫畫雜誌.md "wikilink")《[Comic百合姬](../Page/Comic百合姬.md "wikilink")》，已出版9冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。繁體中文版由[東立出版社代理](../Page/東立出版社.md "wikilink")，簡體中文版由[布卡漫畫代理進行網路連載](https://zh.wikipedia.org/wiki/布卡漫畫 "wikilink")。改編的[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2018年1月6日開始播放。
 
 ## 故事簡介
 
@@ -186,13 +186,13 @@ ISBN 978-4-7580-7874-0（特裝版）</p></td>
 ### 工作人員
 
   - 原作：三郎太（）（Comic百合姬／一迅社刊）
-  - 導演：[高橋丈夫](https://zh.wikipedia.org/wiki/高橋丈夫 "wikilink")
+  - 導演：[高橋丈夫](../Page/高橋丈夫.md "wikilink")
   - 腳本：林直樹
   - 劇本統籌：[久彌直樹](../Page/久彌直樹.md "wikilink")
   - 人物設計：伊集院
   - 音樂：高橋諒
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")
-  - 製作人：[infinite](https://zh.wikipedia.org/wiki/永谷敬之 "wikilink")
+  - 製作人：[infinite](../Page/永谷敬之.md "wikilink")
   - 動畫製作：[Passione](../Page/Passione.md "wikilink")
   - 製作：[citrus製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")
 
@@ -201,8 +201,7 @@ ISBN 978-4-7580-7874-0（特裝版）</p></td>
   - 片頭曲「」
     作詞：，作曲：佐佐木淳，編曲、主唱：[nano.RIPE](https://zh.wikipedia.org/wiki/nano.RIPE "wikilink")，弦編曲：佐佐木淳、小田和奏
   - 片尾曲「Dear Teardrop」
-    作詞：，作曲、編曲：，主唱：[Mia
-    REGINA](https://zh.wikipedia.org/wiki/Mia_REGINA "wikilink")
+    作詞：，作曲、編曲：，主唱：[Mia REGINA](../Page/Mia_REGINA.md "wikilink")
 
 ### 各話列表
 
@@ -253,7 +252,7 @@ ISBN 978-4-7580-7874-0（特裝版）</p></td>
 <tr class="even">
 <td><p>第4话</p></td>
 <td><p>love me do!</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/迫井政行" title="wikilink">迫井政行</a></p></td>
+<td><p><a href="../Page/迫井政行.md" title="wikilink">迫井政行</a></p></td>
 <td><p>西村博昭</p></td>
 <td><p>志生野好、平馬浩二<br />
 張丁、青木哲郎<br />
@@ -424,7 +423,7 @@ Nyki Ikyn</p></td>
 </tr>
 <tr class="odd">
 <td><p>日本全国</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
+<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV</a></p></td>
 <td><p>2018年1月7日</p></td>
 <td><p>星期日 23时30分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/網路電視" title="wikilink">網路電視</a></p></td>

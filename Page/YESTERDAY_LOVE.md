@@ -4,7 +4,7 @@ LOVE**》是日本歌手[倉木麻衣的第](../Page/倉木麻衣.md "wikilink")
 ## 簡介
 
   - 與前作「SAWAGE☆LIFE」相隔近半年，與上張DVD單曲「[Wake me
-    up](https://zh.wikipedia.org/wiki/Wake_me_up "wikilink")」相隔近三年。
+    up](../Page/Wake_me_up.md "wikilink")」相隔近三年。
   - 以初回盤、通常盤DVD、通常盤Blu-ray三種形態發售，另還有FC & Musing盤，初回盤是日本第一張VR形式的單曲。
   - YESTERDAY
     LOVE是[讀賣電視台](../Page/讀賣電視台.md "wikilink")・[日本電視台動畫](../Page/日本電視台.md "wikilink")『[名偵探柯南](../Page/名偵探柯南_\(動畫\).md "wikilink")』片尾曲，正好為倉木麻衣在名偵探柯南​​20週年中第20次演唱的主題曲。倉木麻衣表示對於柯南不斷升級的世界觀，也想在歌曲方面有新的挑戰，例如YESTERDAY

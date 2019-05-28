@@ -1,7 +1,7 @@
 **Mia
 REGINA**是[Lantis旗下的](../Page/Lantis.md "wikilink")[日本](../Page/日本.md "wikilink")[女子歌唱團體](../Page/女子音乐组合.md "wikilink")，主要演唱[動畫歌曲](../Page/動畫歌曲.md "wikilink")\[1\]。團名中的Mia意為「我」，而REGINA則是[拉丁語的](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")「[女王](../Page/女王.md "wikilink")」\[2\]。
 
-本團體由原先在活動，同時也是[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")「[STAR☆ANIS](https://zh.wikipedia.org/wiki/STAR☆ANIS "wikilink")」成員的霧島若歌、上花楓裏以及笹鎌里須子組成\[3\]，在2016年8月藉由演唱電視動畫《[小桃小栗
+本團體由原先在活動，同時也是[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")「[STAR☆ANIS](../Page/STAR☆ANIS.md "wikilink")」成員的霧島若歌、上花楓裏以及笹鎌里須子組成\[3\]，在2016年8月藉由演唱電視動畫《[小桃小栗
 Love
 Love物語](../Page/小桃小栗_Love_Love物語.md "wikilink")》的片尾曲出道，並於同年12月發行首張專輯\[4\]。
 
@@ -146,7 +146,7 @@ Love物語](../Page/小桃小栗_Love_Love物語.md "wikilink")》的片尾曲�
 </tr>
 <tr class="even">
 <td><p>kalmia</p></td>
-<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/Code:Realize_～創世的公主～" title="wikilink">Code:Realize ～創世的公主～</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="../Page/Code:Realize_～創世的公主～.md" title="wikilink">Code:Realize ～創世的公主～</a>》片頭曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">

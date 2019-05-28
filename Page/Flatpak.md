@@ -23,7 +23,7 @@ Glom\[8\]與[Pitivi](https://zh.wikipedia.org/wiki/Pitivi "wikilink")\[9\]。
 ## 替代方案
 
 不依賴於特定发行版的包裝格式在Linux生態系中在Flatpak前早已被提出過數次。2000年代早期，[autopackage開始](https://zh.wikipedia.org/wiki/autopackage "wikilink")，2004年則是klik，這也提供了Alexander
-Larsson靈感，於2007年開發出*glick*專案\[11\]。到了2014年，klik便演化成AppImage，其目標是成為不依賴於特定散佈版的[可攜式上游打包格式](https://zh.wikipedia.org/wiki/可攜式軟體 "wikilink")。[Canonical公司則於](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")2016年釋出了[Snappy](https://zh.wikipedia.org/wiki/Snappy_\(包管理器\) "wikilink")，其目標也是為了提供廣泛的linux生態系一個通用的包裝格式\[12\]，其支援類似於Flatpak的格式，同時也支援應用程式商店式的[数字发行與更新模式](https://zh.wikipedia.org/wiki/数字发行 "wikilink")。
+Larsson靈感，於2007年開發出*glick*專案\[11\]。到了2014年，klik便演化成AppImage，其目標是成為不依賴於特定散佈版的[可攜式上游打包格式](https://zh.wikipedia.org/wiki/可攜式軟體 "wikilink")。[Canonical公司則於](https://zh.wikipedia.org/wiki/Canonical公司 "wikilink")2016年釋出了[Snappy](../Page/Snappy_\(包管理器\).md "wikilink")，其目標也是為了提供廣泛的linux生態系一個通用的包裝格式\[12\]，其支援類似於Flatpak的格式，同時也支援應用程式商店式的[数字发行與更新模式](https://zh.wikipedia.org/wiki/数字发行 "wikilink")。
 
 ## 參考資料
 

@@ -139,7 +139,7 @@ Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")，該團體在第二�
 <td><p>女</p></td>
 <td><p>孝定{{·}}Mimi{{·}}YooA{{·}}勝熙<br />
 祉呼{{·}}Binnie{{·}}Arin</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/孝定" title="wikilink">孝定</a></p></td>
+<td><p><a href="../Page/孝定.md" title="wikilink">孝定</a></p></td>
 <td><p>Miracle</p></td>
 </tr>
 <tr class="odd">
@@ -159,17 +159,15 @@ OFF：J-US</p></td>
 
   - [李彩讌](https://zh.wikipedia.org/wiki/李彩讌 "wikilink")(이채연) -
     [IZ\*ONE成员](../Page/IZ*ONE.md "wikilink")；前[JYP娛樂練習生](../Page/JYP娛樂.md "wikilink")，曾參加[Mnet選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》、[PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")
+    48](../Page/PRODUCE_48.md "wikilink")
 
 ### 練習生
 
 *<small>漢字名字為音譯，若有正名再行更正</small>*
 
   - 金延秀(김연수)
-  - 趙榮印(조영인)-[PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")
-  - 李承炫(이승현)-[PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")
+  - 趙榮印(조영인)-[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")
+  - 李承炫(이승현)-[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")
   - 黃彩元(황채원)
   - 丁賢瑞(정현서)
   - 金珠元(김주원)
@@ -278,8 +276,8 @@ OFF：J-US</p></td>
 ### 已離開練習生
 
   - 池秀娟(지수연) - [CJ
-    E\&M練習生出身](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")，轉投[Fantagio成為](../Page/Fantagio.md "wikilink")[Weki
-    Meki成員](https://zh.wikipedia.org/wiki/Weki_Meki "wikilink")
+    E\&M練習生出身](../Page/CJ_E&M.md "wikilink")，轉投[Fantagio成為](../Page/Fantagio.md "wikilink")[Weki
+    Meki成員](../Page/Weki_Meki.md "wikilink")
 
 ## 參考資料
 

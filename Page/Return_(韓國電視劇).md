@@ -562,11 +562,11 @@
 ## 同時段競爭作品
 
   - [KBS](../Page/韓國放送公社.md "wikilink")
-    [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[黑騎士](../Page/黑騎士_\(韓國電視劇\).md "wikilink")》、《[推理的女王2](https://zh.wikipedia.org/wiki/推理的女王2 "wikilink")》
+    [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[黑騎士](../Page/黑騎士_\(韓國電視劇\).md "wikilink")》、《[推理的女王2](../Page/推理的女王2.md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-    [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[不是機械人啊](https://zh.wikipedia.org/wiki/不是機械人啊 "wikilink")》、《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）、《[絕頂](https://zh.wikipedia.org/wiki/絕頂_\(電視劇\) "wikilink")》（重播）、《[牽著手，看夕陽西下](https://zh.wikipedia.org/wiki/牽著手，看夕陽西下 "wikilink")》
+    [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[不是機械人啊](https://zh.wikipedia.org/wiki/不是機械人啊 "wikilink")》、《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）、《[絕頂](../Page/絕頂_\(電視劇\).md "wikilink")》（重播）、《[牽著手，看夕陽西下](../Page/牽著手，看夕陽西下.md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink")
-    [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[機智牢房生活](../Page/機智牢房生活.md "wikilink")》、《[Mother](../Page/Mother_\(韓國電視劇\).md "wikilink")》、《[我的大叔](https://zh.wikipedia.org/wiki/我的大叔 "wikilink")》
+    [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[機智牢房生活](../Page/機智牢房生活.md "wikilink")》、《[Mother](../Page/Mother_\(韓國電視劇\).md "wikilink")》、《[我的大叔](../Page/我的大叔.md "wikilink")》
 
 ## 記事
 

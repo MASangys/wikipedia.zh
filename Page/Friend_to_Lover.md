@@ -38,7 +38,7 @@ to Lover 〜フレラバ〜**》。\[6\]
   -
     城彩學園2年A組的班級老師和體育老師。
   -
-    城彩學園3年級學生。《[PURE×CONNECT](https://zh.wikipedia.org/wiki/PURE×CONNECT "wikilink")》的女主角之一。
+    城彩學園3年級學生。《[PURE×CONNECT](../Page/PURE×CONNECT.md "wikilink")》的女主角之一。
   -
     城彩學園3年級學生。《PURE×CONNECT》的女主角之一。
 

@@ -13,7 +13,7 @@
     三郎（）：[西島秀俊](https://zh.wikipedia.org/wiki/西島秀俊 "wikilink")（粵語配音：[黃榮璋](../Page/黃榮璋.md "wikilink")）
     **階級：**巡查部長。
   - 吉永
-    三成（）：[田中哲司](https://zh.wikipedia.org/wiki/田中哲司 "wikilink")（粵語配音：[何家裕](../Page/何家裕.md "wikilink")）
+    三成（）：[田中哲司](../Page/田中哲司.md "wikilink")（粵語配音：[何家裕](../Page/何家裕.md "wikilink")）
     **階級：**警部。
     搜查班班長。
   - 樫井 勇輔（）：（粵語配音：[鄧燦陽](../Page/鄧燦陽.md "wikilink")）
@@ -115,7 +115,7 @@
 <!-- end list -->
 
   - 第5話
-    澤田：[杉本哲太](https://zh.wikipedia.org/wiki/杉本哲太 "wikilink")
+    澤田：[杉本哲太](../Page/杉本哲太.md "wikilink")
     黑道組織仁愛興業組員。
   - 仁科：
     黑道組織仁愛興業會長。
@@ -335,7 +335,7 @@
 
 ## 關聯商品
 
-  - [角川文库](https://zh.wikipedia.org/wiki/角川文库 "wikilink")：（，原案：金城一紀，2017年3月25日，[KADOKAWA](../Page/KADOKAWA.md "wikilink")，ISBN
+  - [角川文库](../Page/角川文库.md "wikilink")：（，原案：金城一紀，2017年3月25日，[KADOKAWA](../Page/KADOKAWA.md "wikilink")，ISBN
     9784041053935）\[8\]
       - 與電視劇版情節相異的原創小說
 
@@ -364,7 +364,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>rowspan="5|<a href="https://zh.wikipedia.org/wiki/第93回日劇學院賞" title="wikilink">第93回日劇學院賞</a></p></td>
+<td><p>rowspan="5|<a href="../Page/第93回日劇學院賞.md" title="wikilink">第93回日劇學院賞</a></p></td>
 <td><p>作品賞</p></td>
 <td><p>CRISIS</p></td>
 <td></td>

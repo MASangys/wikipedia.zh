@@ -46,13 +46,13 @@ Ranma是誤讀）。至於B面收錄歌曲是同名電視動畫的片頭主題�
 <li><a href="../Page/鶴弘美.md" title="wikilink">鶴弘美</a>（久遠寺右京）</li>
 <li><a href="../Page/山田榮子.md" title="wikilink">山田榮子</a>（紅翼）</li>
 <li><a href="../Page/小林優子.md" title="wikilink">小林優子</a>（蘭蘭）</li>
-<li><a href="https://zh.wikipedia.org/wiki/仁內建之" title="wikilink">仁內建之</a>（校長）</li>
+<li><a href="../Page/仁內建之.md" title="wikilink">仁內建之</a>（校長）</li>
 <li><a href="../Page/千葉繁.md" title="wikilink">千葉繁</a>（猿隱佐助）</li>
 <li><a href="../Page/島田敏.md" title="wikilink">島田敏</a>（大文字煎太郎）</li>
 <li><a href="../Page/京田尚子.md" title="wikilink">京田尚子</a>（婆婆）</li>
 <li><a href="../Page/三田友子.md" title="wikilink">三田友子</a>（玲玲、畢考克·珊普兒夫人）</li>
 <li><a href="../Page/青野武.md" title="wikilink">青野武</a>（博弈王金）</li>
-<li><a href="https://zh.wikipedia.org/wiki/吉村傭" title="wikilink">吉村傭</a>（貓魔鈴）[2]</li>
+<li><a href="../Page/吉村傭.md" title="wikilink">吉村傭</a>（貓魔鈴）[2]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -68,7 +68,7 @@ Ranma是誤讀）。至於B面收錄歌曲是同名電視動畫的片頭主題�
       - [富士電視台](../Page/富士電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[亂馬{{Sfrac](https://zh.wikipedia.org/wiki/亂馬½ "wikilink")》、[PC
         Engine](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")[CD-ROM²遊戲](../Page/CD-ROM.md "wikilink")《亂馬》片尾主題曲
 2.  ****（**<small></small>**）
-      - 作詞：[三浦德子](https://zh.wikipedia.org/wiki/三浦德子 "wikilink")，作曲：[後藤次利](https://zh.wikipedia.org/wiki/後藤次利 "wikilink")
+      - 作詞：[三浦德子](../Page/三浦德子.md "wikilink")，作曲：[後藤次利](../Page/後藤次利.md "wikilink")
 3.  倫巴達☆RANMA (off vocal)
 4.  Little★Date (off vocal)
 

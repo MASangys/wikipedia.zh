@@ -15,7 +15,7 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 ### 2016年
 
   - 4月26日，於香港成立經紀公司「**AKB48（CHINA）Holdings Limited**」\[1\]。
-  - 12月10日，AKB48在上海浦东新区喜马拉雅中心舉辦AKB48中国见面会暨新闻发布会，AKB48成員[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[伊豆田莉奈和](../Page/伊豆田莉奈.md "wikilink")[川本紗矢出席](https://zh.wikipedia.org/wiki/川本紗矢 "wikilink")。標誌著AKB48正式以中日双方合作的形式再一次進軍中國\[2\]。
+  - 12月10日，AKB48在上海浦东新区喜马拉雅中心舉辦AKB48中国见面会暨新闻发布会，AKB48成員[渡邊麻友](../Page/渡邊麻友.md "wikilink")、[伊豆田莉奈和](../Page/伊豆田莉奈.md "wikilink")[川本紗矢出席](../Page/川本紗矢.md "wikilink")。標誌著AKB48正式以中日双方合作的形式再一次進軍中國\[2\]。
 
 ### 2017年
 

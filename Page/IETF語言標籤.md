@@ -96,7 +96,7 @@ languages"与 "Undetermined"。
 
 ### ISO 3166-1 与 UN M.49
 
-当语言的地区方言有专门的子标签，这比使用地区子标签更优。例如，*ar-DZ*应该被*arq*代替来表示[阿爾及利亞阿拉伯語](https://zh.wikipedia.org/wiki/阿爾及利亞阿拉伯語 "wikilink")。
+当语言的地区方言有专门的子标签，这比使用地区子标签更优。例如，*ar-DZ*应该被*arq*代替来表示[阿爾及利亞阿拉伯語](../Page/阿爾及利亞阿拉伯語.md "wikilink")。
 
 ## 扩展
 

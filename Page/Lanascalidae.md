@@ -2,7 +2,7 @@
 
 ## 分類
 
-根據2005年的《[布歇特和洛克羅伊的腹足類分類](../Page/布歇特和洛克羅伊的腹足類分類_\(2005年\).md "wikilink")》，本科原是[新進腹足類](../Page/新進腹足類.md "wikilink")[吸螺類支序](../Page/吸螺類.md "wikilink")[蟹守螺總科之下的一個只有](../Page/蟹守螺總科.md "wikilink")[化石](../Page/化石.md "wikilink")[物種的](https://zh.wikipedia.org/wiki/物種 "wikilink")[海螺](https://zh.wikipedia.org/wiki/海螺 "wikilink")[科](https://zh.wikipedia.org/wiki/科_\(生物\) "wikilink")，並沒有亞科。但從2018年開始，根據2017年《[布歇特等人的腹足類分類](https://zh.wikipedia.org/wiki/布歇特等人的腹足類分類_\(2017年\) "wikilink")》，本科被移往[古腹足總目之下新成立的](https://zh.wikipedia.org/wiki/古腹足總目 "wikilink")[陀螺目](https://zh.wikipedia.org/wiki/陀螺目 "wikilink")，屬於（Seguenzioidea）15個科之一。
+根據2005年的《[布歇特和洛克羅伊的腹足類分類](../Page/布歇特和洛克羅伊的腹足類分類_\(2005年\).md "wikilink")》，本科原是[新進腹足類](../Page/新進腹足類.md "wikilink")[吸螺類支序](../Page/吸螺類.md "wikilink")[蟹守螺總科之下的一個只有](../Page/蟹守螺總科.md "wikilink")[化石](../Page/化石.md "wikilink")[物種的](https://zh.wikipedia.org/wiki/物種 "wikilink")[海螺](https://zh.wikipedia.org/wiki/海螺 "wikilink")[科](https://zh.wikipedia.org/wiki/科_\(生物\) "wikilink")，並沒有亞科。但從2018年開始，根據2017年《[布歇特等人的腹足類分類](../Page/布歇特等人的腹足類分類_\(2017年\).md "wikilink")》，本科被移往[古腹足總目之下新成立的](https://zh.wikipedia.org/wiki/古腹足總目 "wikilink")[陀螺目](https://zh.wikipedia.org/wiki/陀螺目 "wikilink")，屬於（Seguenzioidea）15個科之一。
 
 ### 屬
 

@@ -98,13 +98,13 @@ version).jpg|2015年7月 <File:Grand> Yoho in May 2016.jpg|2016年5月
 
 ## 鄰近屋苑
 
-  - [YOHO Town](https://zh.wikipedia.org/wiki/YOHO_Town "wikilink")
+  - [YOHO Town](../Page/YOHO_Town.md "wikilink")
   - [YOHO Midtown](../Page/YOHO_Midtown.md "wikilink")
   - [新元朗中心](../Page/新元朗中心.md "wikilink")
   - [譽88](https://zh.wikipedia.org/wiki/譽88 "wikilink")
   - [尚豪庭](https://zh.wikipedia.org/wiki/尚豪庭 "wikilink")
   - [采葉庭](../Page/采葉庭.md "wikilink")
-  - [朗晴居](https://zh.wikipedia.org/wiki/朗晴居 "wikilink")
+  - [朗晴居](../Page/朗晴居.md "wikilink")
   - [雍翠豪園](../Page/雍翠豪園.md "wikilink")
   - [尚悅](../Page/尚悅_\(香港\).md "wikilink")
   - [映御](https://zh.wikipedia.org/wiki/映御 "wikilink")
@@ -113,7 +113,7 @@ version).jpg|2015年7月 <File:Grand> Yoho in May 2016.jpg|2016年5月
 
   - [YOHO系列](../Page/YOHO系列.md "wikilink")
   - [YOHO MALL 形點](../Page/YOHO_MALL_形點.md "wikilink")
-  - [YOHO Town](https://zh.wikipedia.org/wiki/YOHO_Town "wikilink")
+  - [YOHO Town](../Page/YOHO_Town.md "wikilink")
   - [YOHO Midtown](../Page/YOHO_Midtown.md "wikilink")
 
 ## 參考文獻

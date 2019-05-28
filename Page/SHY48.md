@@ -1413,7 +1413,7 @@ SHY77100319</p></td>
 | 序號   | 公演名稱                                                                                    | 日期                   | 場次  |
 | ---- | --------------------------------------------------------------------------------------- | -------------------- | --- |
 | 1    | [心的旅程](https://zh.wikipedia.org/wiki/心的旅程#SHY48_Team_SIII_1st_Stage「心的旅程」公演 "wikilink") | 2017年1月12日－6月25日     | 44場 |
-| 过渡公演 | [天才少女日記](https://zh.wikipedia.org/wiki/Team_SIII_Waiting_Stage「天才少女日記」公演 "wikilink")    | 2017年7月1日－2018年4月22日 | 71场 |
+| 过渡公演 | [天才少女日記](../Page/Team_SIII_Waiting_Stage「天才少女日記」公演.md "wikilink")                       | 2017年7月1日－2018年4月22日 | 71场 |
 | 过渡公演 | [少女進化論](https://zh.wikipedia.org/wiki/Team_SIII_Waiting_Stage「少女進化論」公演 "wikilink")      | 2018年4月29日－9月15日     | 37场 |
 | 2    | [Idol.S](https://zh.wikipedia.org/wiki/Team_SIII_2nd_Stage「Idol.S」公演 "wikilink")        | 2018年9月22日－12月22日    | 22场 |
 
@@ -1439,7 +1439,7 @@ SHY77100319</p></td>
 | 序號 | 公演名稱                                                                                    | 日期             | 剧场                                                              | 場次 |
 | -- | --------------------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------- | -- |
 | 1  | [心的旅程](https://zh.wikipedia.org/wiki/心的旅程#SHY48_Team_SIII_1st_Stage「心的旅程」公演 "wikilink") | 2017年5月27日、28日 | [GNZ48星梦剧院](https://zh.wikipedia.org/wiki/GNZ48星梦剧院 "wikilink") | 2場 |
-| 2  | [天才少女日記](https://zh.wikipedia.org/wiki/Team_SIII_Waiting_Stage「天才少女日記」公演 "wikilink")    | 2017年10月6日、7日  | [BEJ48星夢劇院](https://zh.wikipedia.org/wiki/BEJ48星夢劇院 "wikilink") | 2場 |
+| 2  | [天才少女日記](../Page/Team_SIII_Waiting_Stage「天才少女日記」公演.md "wikilink")                       | 2017年10月6日、7日  | [BEJ48星夢劇院](https://zh.wikipedia.org/wiki/BEJ48星夢劇院 "wikilink") | 2場 |
 | 3  | [少女進化論](https://zh.wikipedia.org/wiki/Team_SIII_Waiting_Stage「少女進化論」公演 "wikilink")      | 2018年6月8日、10日  | [SNH48星夢劇院](https://zh.wikipedia.org/wiki/SNH48星夢劇院 "wikilink") | 2場 |
 |    |                                                                                         |                |                                                                 |    |
 

@@ -34,7 +34,7 @@
 <tr class="even">
 <td><p><a href="../Page/朴時妍.md" title="wikilink">朴時妍</a></p></td>
 <td><p>白雪</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廖欣怡" title="wikilink">廖欣怡</a></p></td>
+<td><p><a href="../Page/廖欣怡.md" title="wikilink">廖欣怡</a></p></td>
 <td><p>名門家的兒媳婦，表面看起來擁有著華麗的人生令人稱羨，事實上在家中卻受盡了屈辱。<br />
 素惠、美善的高中同學。</p></td>
 </tr>
@@ -84,7 +84,7 @@
 <tr class="odd">
 <td><p><a href="../Page/尹知原.md" title="wikilink">尹知原</a></p></td>
 <td><p>洪尚花</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廖欣怡" title="wikilink">廖欣怡</a></p></td>
+<td><p><a href="../Page/廖欣怡.md" title="wikilink">廖欣怡</a></p></td>
 <td><p>補助作家</p></td>
 </tr>
 <tr class="even">

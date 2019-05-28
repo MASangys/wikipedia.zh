@@ -342,7 +342,7 @@ QUALIDEA**（）的一部分。\[1\]
 <!-- end list -->
 
   - 2nd片尾曲「約束 -Promise code-」\[7\]（第5－7話）
-    作詞：[メイリア](../Page/水橋舞.md "wikilink")，作曲、編曲：[toku](../Page/阿部尚德.md "wikilink")，主唱：[GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")
+    作詞：[メイリア](../Page/水橋舞.md "wikilink")，作曲、編曲：[toku](../Page/阿部尚德.md "wikilink")，主唱：[GARNiDELiA](../Page/GARNiDELiA.md "wikilink")
 
 <!-- end list -->
 

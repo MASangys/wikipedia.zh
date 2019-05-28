@@ -1,6 +1,6 @@
 [LINE_TOUCH_舞力全開遊戲截圖.jpg](https://zh.wikipedia.org/wiki/File:LINE_TOUCH_舞力全開遊戲截圖.jpg "fig:LINE_TOUCH_舞力全開遊戲截圖.jpg")
 《**LINE TOUCH
-舞力全開**》於2015年4月30日由[艾玩天地取得](https://zh.wikipedia.org/wiki/艾玩天地 "wikilink")[台灣代理權](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[1\]，並於2015年7月7日正式於[Android版本不刪檔封測](../Page/Android.md "wikilink")\[2\]，於2015年7月14日於[iOS系統釋出](https://zh.wikipedia.org/wiki/iOS "wikilink")[正體中文的版本](https://zh.wikipedia.org/wiki/正體中文 "wikilink")\[3\]。是一款抓準節拍按鍵點擊的[音樂舞蹈](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")\[4\]。點擊有分單按（單光圈）、長按（雙光圈）、滑動（長箭頭）、雙按（雙按鍵）四種模式，當[光圈縮到與](../Page/光圈.md "wikilink")[按鍵相互重合時](https://zh.wikipedia.org/wiki/按鍵 "wikilink")，點擊會得到最高的分數\[5\]。若遇到版本正在更新或未連接[網路時](https://zh.wikipedia.org/wiki/網路 "wikilink")，可使用[離線模式進行練習](https://zh.wikipedia.org/wiki/離線 "wikilink")（僅限於遊戲大廳的觸動經典模式）\[6\]\[7\]。
+舞力全開**》於2015年4月30日由[艾玩天地取得](../Page/艾玩天地.md "wikilink")[台灣代理權](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[1\]，並於2015年7月7日正式於[Android版本不刪檔封測](../Page/Android.md "wikilink")\[2\]，於2015年7月14日於[iOS系統釋出](https://zh.wikipedia.org/wiki/iOS "wikilink")[正體中文的版本](https://zh.wikipedia.org/wiki/正體中文 "wikilink")\[3\]。是一款抓準節拍按鍵點擊的[音樂舞蹈](https://zh.wikipedia.org/wiki/音乐游戏 "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")\[4\]。點擊有分單按（單光圈）、長按（雙光圈）、滑動（長箭頭）、雙按（雙按鍵）四種模式，當[光圈縮到與](../Page/光圈.md "wikilink")[按鍵相互重合時](https://zh.wikipedia.org/wiki/按鍵 "wikilink")，點擊會得到最高的分數\[5\]。若遇到版本正在更新或未連接[網路時](https://zh.wikipedia.org/wiki/網路 "wikilink")，可使用[離線模式進行練習](https://zh.wikipedia.org/wiki/離線 "wikilink")（僅限於遊戲大廳的觸動經典模式）\[6\]\[7\]。
 
 ## 玩法簡介
 
@@ -27,69 +27,69 @@
 《LINE TOUCH
 舞力全開》目前共有61首音樂舞蹈手機遊戲的[流行歌曲](https://zh.wikipedia.org/wiki/流行歌曲 "wikilink")，其中有13首中文版，其餘為韓文版。
 
-| 歌曲名稱                                                        | BPM（節拍速度） | 歌手／團體                                                         | 上映至遊戲日期           | 主要語言 | 最高難度（星星顆數） |
-| ----------------------------------------------------------- | --------- | ------------------------------------------------------------- | ----------------- | ---- | ---------- |
-| 你在ㄍㄧㄥ什麼                                                     | 132       | [畢書盡](https://zh.wikipedia.org/wiki/畢書盡 "wikilink")           | 2016年2月2日         | 中文   | 五星         |
-| Kiang                                                       | 140       | [自由發揮](../Page/自由發揮.md "wikilink")                            | 2016年1月19日\[16\]  | 中文   | 五星         |
-| [Play 我呸](https://zh.wikipedia.org/wiki/Play_我呸 "wikilink") | 200       | [蔡依林](../Page/蔡依林.md "wikilink")                              | 2016年1月5日\[17\]   | 中文   | 五星         |
-| 妖怪出乃玩                                                       | 125       | Touch                                                         | 2015年12月22日\[18\] | 中文   | 五星         |
-| 美杜莎                                                         | 130       | [蔡依林](../Page/蔡依林.md "wikilink")                              | 2015年12月15日\[19\] | 中文   | 五星         |
-| 戀愛元氣蛋                                                       | 175       | [Popu Lady](../Page/Popu_Lady.md "wikilink")                  | 2015年12月1日\[20\]  | 中文   | 五星         |
-| Don't Cry                                                   | 89        | [吳思賢](../Page/吳思賢_\(藝人\).md "wikilink")                       | 2015年11月24日\[21\] | 中文   | 五星         |
-| 吼\!                                                         | 135       | [MP魔幻力量](../Page/MP魔幻力量.md "wikilink")                        | 2015年11月17日\[22\] | 中文   | 五星         |
-| 愛不需要裝乖                                                      | 160       | [謝和弦](../Page/謝和弦.md "wikilink")                              | 2015年11月10日\[23\] | 中文   | 五星         |
-| Funky那個女孩                                                   | 118       | [大嘴巴](https://zh.wikipedia.org/wiki/大嘴巴 "wikilink")           | 2015年11月3日\[24\]  | 中文   | 五星         |
-| Hate You                                                    | 130       | [Ladies' Code](../Page/Ladies'_Code.md "wikilink")            | 2015年10月27日\[25\] | 韓文   | 五星         |
-| 心流感                                                         | 154       | [SpeXial](../Page/SpeXial.md "wikilink")                      | 2015年10月20日\[26\] | 中文   | 五星         |
-| 調調                                                          | 148       | [大嘴巴](https://zh.wikipedia.org/wiki/大嘴巴 "wikilink")           | 2015年10月13日\[27\] | 中文   | 五星         |
-| Action Go！                                                  | 130       | [畢書盡](https://zh.wikipedia.org/wiki/畢書盡 "wikilink")           | 2015年10月13日\[28\] | 中文   | 五星         |
-| MOYA                                                        | 123       | [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")    | 2015年10月6日\[29\]  | 韓文   | 六星\[30\]   |
-| 你的我的                                                        | 130       | [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")    | 2015年9月29日\[31\]  | 韓文   | 五星         |
-| 可愛的男子                                                       | 102       | [JUNIEL](https://zh.wikipedia.org/wiki/JUNIEL "wikilink")     | 2015年9月22日\[32\]  | 韓文   | 六星\[33\]   |
-| Pretty Pretty                                               | 128       | [Ladies' Code](../Page/Ladies'_Code.md "wikilink")            | 2015年9月15日\[34\]  | 韓文   | 五星         |
-| Nod Along                                                   | 115       | [M.I.B](../Page/M.I.B.md "wikilink")                          | 2015年9月8日\[35\]   | 韓文   | 五星         |
-| Your Dance                                                  | 130       | [SPICA](../Page/SPICA.md "wikilink")                          | 2015年9月1日\[36\]   | 韓文   | 五星         |
-| Men In Black                                                | 122       | [M.I.B](../Page/M.I.B.md "wikilink")                          | 2015年8月25日\[37\]  | 韓文   | 五星         |
-| Hyde                                                        | 140       | [VIXX](../Page/VIXX.md "wikilink")                            | 2015年8月18日\[38\]  | 韓文   | 五星         |
-| 堂吉诃德之歌                                                      | 147       | FTISLAND                                                      | 2015年8月18日\[39\]  | 韓文   | 六星\[40\]   |
-| 回到我身邊                                                       | 132       | N-Train                                                       | 2015年8月11日\[41\]  | 韓文   | 五星         |
-| 你都拿去                                                        | 168       | STELLAR                                                       | 2015年8月11日\[42\]  | 韓文   | 五星         |
-| 為你瘋狂                                                        | 135       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 2015年8月4日\[43\]   | 韓文   | 五星         |
-| Tease me                                                    | 112       | [徐仁國](../Page/徐仁國.md "wikilink")                              | 2015年7月28日\[44\]  | 韓文   | 五星         |
-| Apple Is A                                                  | 136       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 2015年7月28日\[45\]  | 韓文   | 五星         |
-| Mr.BangBang                                                 | 130       | Dal★shabet                                                    | 2015年7月21日\[46\]  | 韓文   | 六星\[47\]   |
-| BTD                                                         | 102       | [Infinite](https://zh.wikipedia.org/wiki/Infinite "wikilink") | 2015年7月21日\[48\]  | 韓文   | 六星\[49\]   |
-| HUSH                                                        | 128       | [Apink](../Page/Apink.md "wikilink")                          | 2015年7月14日\[50\]  | 韓文   | 六星\[51\]   |
-| Paradise                                                    | 93        | [Infinite](https://zh.wikipedia.org/wiki/Infinite "wikilink") | 2015年7月14日\[52\]  | 韓文   | 六星\[53\]   |
-| Bo peep Bo peep                                             | 128       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 2015年7月14日\[54\]  | 韓文   | 六星\[55\]   |
-| My My                                                       | 108       | [Apink](../Page/Apink.md "wikilink")                          | 2015年7月14日\[56\]  | 韓文   | 六星\[57\]   |
-| Bing Bing                                                   | 142       | [Crayon Pop](../Page/Crayon_Pop.md "wikilink")                | 2015年7月14日\[58\]  | 韓文   | 五星         |
-| Wonder Woman                                                | 135       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 2015年7月14日\[59\]  | 韓文   | 五星         |
-| Supa Dupa Diva                                              | 176       | Dal★shabet                                                    | 2015年7月14日\[60\]  | 韓文   | 六星\[61\]   |
-| Bar Bar Bar                                                 | 134       | [Crayon Pop](../Page/Crayon_Pop.md "wikilink")                | 2015年7月14日\[62\]  | 韓文   | 六星\[63\]   |
-| I GOT YOU                                                   | 125       | [Apink](../Page/Apink.md "wikilink")                          | 2015年7月14日\[64\]  | 韓文   | 六星\[65\]   |
-| Tic Tic Toc                                                 | 128       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 2015年7月14日\[66\]  | 韓文   | 五星         |
-| Shadow                                                      | 132       | [Davichi](../Page/Davichi.md "wikilink")                      | 內建                | 韓文   | 五星         |
-| 節奏中                                                         | 128       | 徐仁英                                                           | 內建                | 韓文   | 六星\[67\]   |
-| Chak Chak                                                   | 128       | We                                                            | 內建                | 韓文   | 六星\[68\]   |
-| Jjureureureureu                                             | 127       | 5Dolls                                                        | 內建                | 韓文   | 六星\[69\]   |
-| Oh My Gosh                                                  | 128       | 徐仁英                                                           | 內建                | 韓文   | 五星         |
-| Mirror                                                      | 128       | Dal★shabet                                                    | 內建                | 韓文   | 五星         |
-| 玻璃娃娃                                                        | 128       | Dal★shabet                                                    | 內建                | 韓文   | 五星         |
-| Beautiful Girl                                              | 135       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 內建                | 韓文   | 五星         |
-| Abracadabra                                                 | 128       | [Brown Eyed Girls](../Page/Brown_Eyed_Girls.md "wikilink")    | 內建                | 韓文   | 五星         |
-| 為什麼這樣                                                       | 188       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 內建                | 韓文   | 五星         |
-| Can U Smile                                                 | 168       | [Infinite](https://zh.wikipedia.org/wiki/Infinite "wikilink") | 內建                | 韓文   | 六星\[70\]   |
-| 死一般的痛過                                                      | 122       | [MC Mong](https://zh.wikipedia.org/wiki/MC_Mong "wikilink")   | 內建                | 韓文   | 五星         |
-| BUBIBU                                                      | 113       | [Apink](../Page/Apink.md "wikilink")                          | 內建                | 韓文   | 六星\[71\]   |
-| TTL Listen 2                                                | 120       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 內建                | 韓文   | 五星         |
-| 有 沒有                                                        | 123       | Dal★shabet                                                    | 內建                | 韓文   | 六星\[72\]   |
-| Ma Boo                                                      | 127       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 內建                | 韓文   | 五星         |
-| Love Shake                                                  | 140       | Dal★shabet                                                    | 內建                | 韓文   | 五星         |
-| 唇印                                                          | 126       | 5Dolls                                                        | 內建                | 韓文   | 五星         |
-| Do You Like That                                            | 160       | [金賢重](../Page/金賢重.md "wikilink")                              | 內建                | 韓文   | 五星         |
-| Kiss Kiss                                                   | 123       | [金賢重](../Page/金賢重.md "wikilink")                              | 內建                | 韓文   | 五星         |
-| 可愛的男子                                                       | 102       | [JUNIEL](https://zh.wikipedia.org/wiki/JUNIEL "wikilink")     | 內建                | 韓文   | 六星\[73\]   |
+| 歌曲名稱                                     | BPM（節拍速度） | 歌手／團體                                                         | 上映至遊戲日期           | 主要語言 | 最高難度（星星顆數） |
+| ---------------------------------------- | --------- | ------------------------------------------------------------- | ----------------- | ---- | ---------- |
+| 你在ㄍㄧㄥ什麼                                  | 132       | [畢書盡](https://zh.wikipedia.org/wiki/畢書盡 "wikilink")           | 2016年2月2日         | 中文   | 五星         |
+| Kiang                                    | 140       | [自由發揮](../Page/自由發揮.md "wikilink")                            | 2016年1月19日\[16\]  | 中文   | 五星         |
+| [Play 我呸](../Page/Play_我呸.md "wikilink") | 200       | [蔡依林](../Page/蔡依林.md "wikilink")                              | 2016年1月5日\[17\]   | 中文   | 五星         |
+| 妖怪出乃玩                                    | 125       | Touch                                                         | 2015年12月22日\[18\] | 中文   | 五星         |
+| 美杜莎                                      | 130       | [蔡依林](../Page/蔡依林.md "wikilink")                              | 2015年12月15日\[19\] | 中文   | 五星         |
+| 戀愛元氣蛋                                    | 175       | [Popu Lady](../Page/Popu_Lady.md "wikilink")                  | 2015年12月1日\[20\]  | 中文   | 五星         |
+| Don't Cry                                | 89        | [吳思賢](../Page/吳思賢_\(藝人\).md "wikilink")                       | 2015年11月24日\[21\] | 中文   | 五星         |
+| 吼\!                                      | 135       | [MP魔幻力量](../Page/MP魔幻力量.md "wikilink")                        | 2015年11月17日\[22\] | 中文   | 五星         |
+| 愛不需要裝乖                                   | 160       | [謝和弦](../Page/謝和弦.md "wikilink")                              | 2015年11月10日\[23\] | 中文   | 五星         |
+| Funky那個女孩                                | 118       | [大嘴巴](https://zh.wikipedia.org/wiki/大嘴巴 "wikilink")           | 2015年11月3日\[24\]  | 中文   | 五星         |
+| Hate You                                 | 130       | [Ladies' Code](../Page/Ladies'_Code.md "wikilink")            | 2015年10月27日\[25\] | 韓文   | 五星         |
+| 心流感                                      | 154       | [SpeXial](../Page/SpeXial.md "wikilink")                      | 2015年10月20日\[26\] | 中文   | 五星         |
+| 調調                                       | 148       | [大嘴巴](https://zh.wikipedia.org/wiki/大嘴巴 "wikilink")           | 2015年10月13日\[27\] | 中文   | 五星         |
+| Action Go！                               | 130       | [畢書盡](https://zh.wikipedia.org/wiki/畢書盡 "wikilink")           | 2015年10月13日\[28\] | 中文   | 五星         |
+| MOYA                                     | 123       | [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")    | 2015年10月6日\[29\]  | 韓文   | 六星\[30\]   |
+| 你的我的                                     | 130       | [AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")    | 2015年9月29日\[31\]  | 韓文   | 五星         |
+| 可愛的男子                                    | 102       | [JUNIEL](https://zh.wikipedia.org/wiki/JUNIEL "wikilink")     | 2015年9月22日\[32\]  | 韓文   | 六星\[33\]   |
+| Pretty Pretty                            | 128       | [Ladies' Code](../Page/Ladies'_Code.md "wikilink")            | 2015年9月15日\[34\]  | 韓文   | 五星         |
+| Nod Along                                | 115       | [M.I.B](../Page/M.I.B.md "wikilink")                          | 2015年9月8日\[35\]   | 韓文   | 五星         |
+| Your Dance                               | 130       | [SPICA](../Page/SPICA.md "wikilink")                          | 2015年9月1日\[36\]   | 韓文   | 五星         |
+| Men In Black                             | 122       | [M.I.B](../Page/M.I.B.md "wikilink")                          | 2015年8月25日\[37\]  | 韓文   | 五星         |
+| Hyde                                     | 140       | [VIXX](../Page/VIXX.md "wikilink")                            | 2015年8月18日\[38\]  | 韓文   | 五星         |
+| 堂吉诃德之歌                                   | 147       | FTISLAND                                                      | 2015年8月18日\[39\]  | 韓文   | 六星\[40\]   |
+| 回到我身邊                                    | 132       | N-Train                                                       | 2015年8月11日\[41\]  | 韓文   | 五星         |
+| 你都拿去                                     | 168       | STELLAR                                                       | 2015年8月11日\[42\]  | 韓文   | 五星         |
+| 為你瘋狂                                     | 135       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 2015年8月4日\[43\]   | 韓文   | 五星         |
+| Tease me                                 | 112       | [徐仁國](../Page/徐仁國.md "wikilink")                              | 2015年7月28日\[44\]  | 韓文   | 五星         |
+| Apple Is A                               | 136       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 2015年7月28日\[45\]  | 韓文   | 五星         |
+| Mr.BangBang                              | 130       | Dal★shabet                                                    | 2015年7月21日\[46\]  | 韓文   | 六星\[47\]   |
+| BTD                                      | 102       | [Infinite](https://zh.wikipedia.org/wiki/Infinite "wikilink") | 2015年7月21日\[48\]  | 韓文   | 六星\[49\]   |
+| HUSH                                     | 128       | [Apink](../Page/Apink.md "wikilink")                          | 2015年7月14日\[50\]  | 韓文   | 六星\[51\]   |
+| Paradise                                 | 93        | [Infinite](https://zh.wikipedia.org/wiki/Infinite "wikilink") | 2015年7月14日\[52\]  | 韓文   | 六星\[53\]   |
+| Bo peep Bo peep                          | 128       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 2015年7月14日\[54\]  | 韓文   | 六星\[55\]   |
+| My My                                    | 108       | [Apink](../Page/Apink.md "wikilink")                          | 2015年7月14日\[56\]  | 韓文   | 六星\[57\]   |
+| Bing Bing                                | 142       | [Crayon Pop](../Page/Crayon_Pop.md "wikilink")                | 2015年7月14日\[58\]  | 韓文   | 五星         |
+| Wonder Woman                             | 135       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 2015年7月14日\[59\]  | 韓文   | 五星         |
+| Supa Dupa Diva                           | 176       | Dal★shabet                                                    | 2015年7月14日\[60\]  | 韓文   | 六星\[61\]   |
+| Bar Bar Bar                              | 134       | [Crayon Pop](../Page/Crayon_Pop.md "wikilink")                | 2015年7月14日\[62\]  | 韓文   | 六星\[63\]   |
+| I GOT YOU                                | 125       | [Apink](../Page/Apink.md "wikilink")                          | 2015年7月14日\[64\]  | 韓文   | 六星\[65\]   |
+| Tic Tic Toc                              | 128       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 2015年7月14日\[66\]  | 韓文   | 五星         |
+| Shadow                                   | 132       | [Davichi](../Page/Davichi.md "wikilink")                      | 內建                | 韓文   | 五星         |
+| 節奏中                                      | 128       | 徐仁英                                                           | 內建                | 韓文   | 六星\[67\]   |
+| Chak Chak                                | 128       | We                                                            | 內建                | 韓文   | 六星\[68\]   |
+| Jjureureureureu                          | 127       | 5Dolls                                                        | 內建                | 韓文   | 六星\[69\]   |
+| Oh My Gosh                               | 128       | 徐仁英                                                           | 內建                | 韓文   | 五星         |
+| Mirror                                   | 128       | Dal★shabet                                                    | 內建                | 韓文   | 五星         |
+| 玻璃娃娃                                     | 128       | Dal★shabet                                                    | 內建                | 韓文   | 五星         |
+| Beautiful Girl                           | 135       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 內建                | 韓文   | 五星         |
+| Abracadabra                              | 128       | [Brown Eyed Girls](../Page/Brown_Eyed_Girls.md "wikilink")    | 內建                | 韓文   | 五星         |
+| 為什麼這樣                                    | 188       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 內建                | 韓文   | 五星         |
+| Can U Smile                              | 168       | [Infinite](https://zh.wikipedia.org/wiki/Infinite "wikilink") | 內建                | 韓文   | 六星\[70\]   |
+| 死一般的痛過                                   | 122       | [MC Mong](https://zh.wikipedia.org/wiki/MC_Mong "wikilink")   | 內建                | 韓文   | 五星         |
+| BUBIBU                                   | 113       | [Apink](../Page/Apink.md "wikilink")                          | 內建                | 韓文   | 六星\[71\]   |
+| TTL Listen 2                             | 120       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 內建                | 韓文   | 五星         |
+| 有 沒有                                     | 123       | Dal★shabet                                                    | 內建                | 韓文   | 六星\[72\]   |
+| Ma Boo                                   | 127       | [T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")       | 內建                | 韓文   | 五星         |
+| Love Shake                               | 140       | Dal★shabet                                                    | 內建                | 韓文   | 五星         |
+| 唇印                                       | 126       | 5Dolls                                                        | 內建                | 韓文   | 五星         |
+| Do You Like That                         | 160       | [金賢重](../Page/金賢重.md "wikilink")                              | 內建                | 韓文   | 五星         |
+| Kiss Kiss                                | 123       | [金賢重](../Page/金賢重.md "wikilink")                              | 內建                | 韓文   | 五星         |
+| 可愛的男子                                    | 102       | [JUNIEL](https://zh.wikipedia.org/wiki/JUNIEL "wikilink")     | 內建                | 韓文   | 六星\[73\]   |
 
 ## 評價與影響
 

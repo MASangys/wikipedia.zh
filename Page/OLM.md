@@ -5,20 +5,20 @@ Incorporated**)是一家日本动画制作公司，[日本動畫協會正會員]
 
 （チームごとに企画制作をするのではなく、チーム単位で制作を請け負うシステムである。） 沒有為每個團隊創建企画。它寄託是一個團隊
 
-| 名称              | 製片人                                                 | 備考                                                                              |
-| --------------- | --------------------------------------------------- | ------------------------------------------------------------------------------- |
-| TEAM KOITABASHI | 小板橋司                                                |                                                                                 |
-| TEAM WASAKI     | 和崎伸之                                                |                                                                                 |
-| TEAM KAMEI      | 龜井康輝                                                |                                                                                 |
-| TEAM KATO       | 加藤浩幸                                                |                                                                                 |
-| TEAM INOUE      | 井上たかし                                               |                                                                                 |
-| TEAM ABE        | 阿部勇                                                 |                                                                                 |
-| TEAM YOSHIOKA   | 吉岡大輔                                                |                                                                                 |
-| TEAM MIYAGAWA   | 三宅川敬輔                                               | 實寫製作。                                                                           |
-| 解散隊伍            |                                                     |                                                                                 |
-| TEAM OTA        | 太田昌二                                                | 在《[最高\! 拓麻歌子](https://zh.wikipedia.org/wiki/最高!_拓麻歌子 "wikilink")》製作完結後解散。       |
-| TEAM IWASA      | [岩佐岳](https://zh.wikipedia.org/wiki/岩佐岳 "wikilink") | 獨立並設立[WHITE FOX製作公司](../Page/WHITE_FOX.md "wikilink")。                          |
-| TEAM IGUCHI     | 井口憲明                                                | 在《[精灵宝可梦鑽石&珍珠](https://zh.wikipedia.org/wiki/神奇寶貝鑽石&珍珠 "wikilink")》製作到第136話後解散。 |
+| 名称              | 製片人                              | 備考                                                                              |
+| --------------- | -------------------------------- | ------------------------------------------------------------------------------- |
+| TEAM KOITABASHI | 小板橋司                             |                                                                                 |
+| TEAM WASAKI     | 和崎伸之                             |                                                                                 |
+| TEAM KAMEI      | 龜井康輝                             |                                                                                 |
+| TEAM KATO       | 加藤浩幸                             |                                                                                 |
+| TEAM INOUE      | 井上たかし                            |                                                                                 |
+| TEAM ABE        | 阿部勇                              |                                                                                 |
+| TEAM YOSHIOKA   | 吉岡大輔                             |                                                                                 |
+| TEAM MIYAGAWA   | 三宅川敬輔                            | 實寫製作。                                                                           |
+| 解散隊伍            |                                  |                                                                                 |
+| TEAM OTA        | 太田昌二                             | 在《[最高\! 拓麻歌子](https://zh.wikipedia.org/wiki/最高!_拓麻歌子 "wikilink")》製作完結後解散。       |
+| TEAM IWASA      | [岩佐岳](../Page/岩佐岳.md "wikilink") | 獨立並設立[WHITE FOX製作公司](../Page/WHITE_FOX.md "wikilink")。                          |
+| TEAM IGUCHI     | 井口憲明                             | 在《[精灵宝可梦鑽石&珍珠](https://zh.wikipedia.org/wiki/神奇寶貝鑽石&珍珠 "wikilink")》製作到第136話後解散。 |
 
 ## 主要作品
 
@@ -164,7 +164,7 @@ Incorporated**)是一家日本动画制作公司，[日本動畫協會正會員]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/妖怪手錶_影之章" title="wikilink">妖怪手錶 影之章</a></p></td>
+<td><p><a href="../Page/妖怪手錶_影之章.md" title="wikilink">妖怪手錶 影之章</a></p></td>
 <td><p>游戏改编</p></td>
 <td><p>2018年4月13日</p></td>
 <td><p>北条史也</p></td>
@@ -283,7 +283,7 @@ Incorporated**)是一家日本动画制作公司，[日本動畫協會正會員]
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/妙妙魔法屋" title="wikilink">妙妙魔法屋</a></p></td>
+<td><p><a href="../Page/妙妙魔法屋.md" title="wikilink">妙妙魔法屋</a></p></td>
 <td><p>原创动画</p></td>
 <td><p>2001年10月13日</p></td>
 <td><p>本乡满</p></td>
@@ -318,7 +318,7 @@ Incorporated**)是一家日本动画制作公司，[日本動畫協會正會員]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Toheart" title="wikilink">Toheart 回忆永恒</a></p></td>
+<td><p><a href="../Page/Toheart.md" title="wikilink">Toheart 回忆永恒</a></p></td>
 <td><p>游戏改编</p></td>
 <td><p>2004年10月2日</p></td>
 <td><p>元永慶太郎</p></td>
@@ -423,7 +423,7 @@ Incorporated**)是一家日本动画制作公司，[日本動畫協會正會員]
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/見習神仙精靈" title="wikilink">见习神仙 秘密的心灵 第一部</a></p></td>
+<td><p><a href="../Page/見習神仙精靈.md" title="wikilink">见习神仙 秘密的心灵 第一部</a></p></td>
 <td><p>原创动画</p></td>
 <td><p>2015年10月1日</p></td>
 <td><p>新田典生</p></td>
@@ -472,7 +472,7 @@ Incorporated**)是一家日本动画制作公司，[日本動畫協會正會員]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/見習神仙精靈" title="wikilink">见习神明 秘密的心灵 第2部</a></p></td>
+<td><p><a href="../Page/見習神仙精靈.md" title="wikilink">见习神明 秘密的心灵 第2部</a></p></td>
 <td><p>原创动画</p></td>
 <td><p>2017年4月6日</p></td>
 <td><p>新田典生</p></td>
@@ -500,7 +500,7 @@ Incorporated**)是一家日本动画制作公司，[日本動畫協會正會員]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/阿童木起源" title="wikilink">阿童木起源</a></p></td>
+<td><p><a href="../Page/阿童木起源.md" title="wikilink">阿童木起源</a></p></td>
 <td><p>漫画改编</p></td>
 <td><p>2017年4月3日</p></td>
 <td><p>佐藤竜雄</p></td>
@@ -521,7 +521,7 @@ Incorporated**)是一家日本动画制作公司，[日本動畫協會正會員]
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/見習神仙精靈" title="wikilink">见习神明 秘密的心灵 第3部</a></p></td>
+<td><p><a href="../Page/見習神仙精靈.md" title="wikilink">见习神明 秘密的心灵 第3部</a></p></td>
 <td><p>原创动画</p></td>
 <td><p>2018年4月5日</p></td>
 <td><p>新田典生</p></td>
@@ -714,10 +714,10 @@ Incorporated**)是一家日本动画制作公司，[日本動畫協會正會員]
 | [精灵宝可梦劇場版：比克提尼与黑英雄 捷克罗](https://zh.wikipedia.org/wiki/神奇寶貝劇場版：比克提尼與黑英雄_捷克羅姆/白英雄_雷希拉姆 "wikilink") | 湯山邦彦        |          |                                                                                                   |
 | [精灵宝可梦劇場版：酋雷姆VS聖劍士 凱路迪歐](../Page/神奇寶貝劇場版：酋雷姆VS聖劍士_凱路迪歐.md "wikilink")                            | 2012年7月14日  | 湯山邦彦     |                                                                                                   |
 | [精灵宝可梦劇場版：神速的蓋諾賽克特 超夢覺醒](../Page/神奇寶貝劇場版：神速的蓋諾賽克特_超夢覺醒.md "wikilink")                            | 2013年7月13日  | 湯山邦彦     |                                                                                                   |
-| [精灵宝可梦XY 破壞之繭與蒂安希](https://zh.wikipedia.org/wiki/Pokemon_the_movie_XY_破壞之繭與蒂安希 "wikilink")       | 2014年7月19日  | 湯山邦彦     |                                                                                                   |
+| [精灵宝可梦XY 破壞之繭與蒂安希](../Page/Pokemon_the_movie_XY_破壞之繭與蒂安希.md "wikilink")                          | 2014年7月19日  | 湯山邦彦     |                                                                                                   |
 | [精灵宝可梦XY 光環的超魔神 胡帕](../Page/Pokemon_the_movie_XY_光環的超魔神_胡帕.md "wikilink")                        | 2015年7月18日  | 湯山邦彦     |                                                                                                   |
 | [精灵宝可梦XY\&Z 波爾凱尼恩與機關人偶 瑪機雅娜](../Page/Pokemon_the_movie_XY&Z_波爾凱尼恩與機關人偶_瑪機雅娜.md "wikilink")       | 2016年7月16日  | 湯山邦彦     |                                                                                                   |
-| [劇場版 精靈寶可夢 就決定是你了！](https://zh.wikipedia.org/wiki/劇場版_精靈寶可夢_就決定是你了！ "wikilink")                  | 2017年7月15日  | 湯山邦彦     |                                                                                                   |
+| [劇場版 精靈寶可夢 就決定是你了！](../Page/劇場版_精靈寶可夢_就決定是你了！.md "wikilink")                                     | 2017年7月15日  | 湯山邦彦     |                                                                                                   |
 | [劇場版 精靈寶可夢 大家的故事](https://zh.wikipedia.org/wiki/劇場版_精靈寶可夢_大家的故事 "wikilink")                      | 2018年7月13日  | 矢嶋哲生     |                                                                                                   |
 | [劇場版 精靈寶可夢 超夢的逆襲 EVOLUTION](../Page/劇場版_精靈寶可夢_超夢的逆襲_EVOLUTION.md "wikilink")                     | 2019年7月13日  | 湯山邦彦     |                                                                                                   |
 |                                                                                                  |             |          |                                                                                                   |
@@ -728,7 +728,7 @@ Incorporated**)是一家日本动画制作公司，[日本動畫協會正會員]
 | [剧场版花样河童 蝶之国的大冒险](https://zh.wikipedia.org/wiki/剧场版花样河童_蝶之国的大冒险 "wikilink")                      | 2013年4月12日  | 野中和美     | 与[XEBEC](../Page/XEBEC.md "wikilink") 共同制作                                                        |
 | [电影 妖怪手表 诞生的秘密喵](https://zh.wikipedia.org/wiki/电影_妖怪手表_诞生的秘密喵 "wikilink")！                       | 2014年12月20日 | 髙橋滋春、后信治 |                                                                                                   |
 | [鲁道鲁夫与易白易阿特那](https://zh.wikipedia.org/wiki/鲁道鲁夫与易白易阿特那 "wikilink")                              | 2016年8月6日   | 湯山邦彦     |                                                                                                   |
-| [见习神明 秘密的COCOTAMA 引发奇迹吧♪特普露与心跳COCOTAMA界](https://zh.wikipedia.org/wiki/見習神仙精靈 "wikilink")        | 2017年4月28日  | 新田典生     |                                                                                                   |
+| [见习神明 秘密的COCOTAMA 引发奇迹吧♪特普露与心跳COCOTAMA界](../Page/見習神仙精靈.md "wikilink")                           | 2017年4月28日  | 新田典生     |                                                                                                   |
 | [多美卡超救援 DRIVEHEAD 机动救急警察](https://zh.wikipedia.org/wiki/多美卡超救援_DRIVEHEAD_机动救急警察 "wikilink")      | 2018年8月24日  | 加戸誉夫     |                                                                                                   |
 | [閃電十一人闪电十一人 俄里翁的刻印](https://zh.wikipedia.org/wiki/閃電十一人闪电十一人_俄里翁的刻印 "wikilink")                  | 2017年10月5日  | 鎌倉由実     |                                                                                                   |
 | [妖怪手表 永远的朋友](https://zh.wikipedia.org/wiki/妖怪手表_永远的朋友 "wikilink")                                | 2018年10月14日 | 高橋滋春     |                                                                                                   |

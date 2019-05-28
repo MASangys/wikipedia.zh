@@ -12,8 +12,8 @@ Dream**》（）是2017年2月22日上映的一部韓國懸疑片，講述一名
   - [朴有天](../Page/朴有天.md "wikilink") 飾演 This man（權龍賢）
   - [朴仁煥](../Page/朴仁煥.md "wikilink") 飾演 成弼
   - [千虎珍](../Page/千虎珍.md "wikilink") 飾演 趙明哲
-  - [全錫浩](https://zh.wikipedia.org/wiki/全錫浩 "wikilink") 飾演 京煥
-  - [李詩雅](https://zh.wikipedia.org/wiki/李詩雅 "wikilink") 飾演 美妍
+  - [全錫浩](../Page/全錫浩.md "wikilink") 飾演 京煥
+  - [李詩雅](../Page/李詩雅.md "wikilink") 飾演 美妍
   - [金康勳](https://zh.wikipedia.org/wiki/金康勳 "wikilink")
 
 ## 參考資料

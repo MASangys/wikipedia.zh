@@ -1,5 +1,5 @@
 **小米手機5s
-Plus**是中国通讯设备生产商[小米科技于](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2016年9月27日在北京国家会议中心发布的一款Android[智能手机](../Page/智能手机.md "wikilink")，为一同发布的[小米手机5S的大屏衍生机型](https://zh.wikipedia.org/wiki/小米手機5s "wikilink")。开发代号为Natrium，意为金属钠。代工生产方为英华达（南京）科技有限公司。
+Plus**是中国通讯设备生产商[小米科技于](https://zh.wikipedia.org/wiki/小米科技 "wikilink")2016年9月27日在北京国家会议中心发布的一款Android[智能手机](../Page/智能手机.md "wikilink")，为一同发布的[小米手机5S的大屏衍生机型](../Page/小米手機5s.md "wikilink")。开发代号为Natrium，意为金属钠。代工生产方为英华达（南京）科技有限公司。
 
 ## 设计及配置
 

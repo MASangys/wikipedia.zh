@@ -88,15 +88,15 @@ Kim恋情曝光。\[3\]\[4\]
 
 ### 綜藝節目
 
-| 日期               | 電視台                                                   | 節目名稱                                                                                  | 備註       |
-| ---------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------- | -------- |
-| 2014年7月3日－7月10日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[Show Me The Money 3](https://zh.wikipedia.org/wiki/Show_Me_The_Money_3 "wikilink")》 | 淘汰       |
-| 2016年7月29日－9月30日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink")》\[5\]                 | 參賽rapper |
-| 2016年11月2日       | OnStyle                                               | 《[Get it beauty](../Page/Get_it_beauty.md "wikilink")》                                |          |
-| 2016年12月23日      | Mnet                                                  | 《[MIXTAPE](https://zh.wikipedia.org/wiki/MIXTAPE "wikilink")》                         |          |
-| 2017年1月12日       | Glance TV                                             | 《YOON CU-T》                                                                           |          |
-| 2017年1月19日       | Mnet                                                  | 《[黃金鈴鼓](https://zh.wikipedia.org/wiki/黃金鈴鼓 "wikilink")》                               | 「興致卡」嘉賓  |
-| 2017年7月22日       | Youtube                                               | 《OK BEAUTY》                                                                           |          |
+| 日期               | 電視台                                                   | 節目名稱                                                                  | 備註       |
+| ---------------- | ----------------------------------------------------- | --------------------------------------------------------------------- | -------- |
+| 2014年7月3日－7月10日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[Show Me The Money 3](../Page/Show_Me_The_Money_3.md "wikilink")》    | 淘汰       |
+| 2016年7月29日－9月30日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[Unpretty Rapstar 3](../Page/Unpretty_Rapstar_3.md "wikilink")》\[5\] | 參賽rapper |
+| 2016年11月2日       | OnStyle                                               | 《[Get it beauty](../Page/Get_it_beauty.md "wikilink")》                |          |
+| 2016年12月23日      | Mnet                                                  | 《[MIXTAPE](https://zh.wikipedia.org/wiki/MIXTAPE "wikilink")》         |          |
+| 2017年1月12日       | Glance TV                                             | 《YOON CU-T》                                                           |          |
+| 2017年1月19日       | Mnet                                                  | 《[黃金鈴鼓](https://zh.wikipedia.org/wiki/黃金鈴鼓 "wikilink")》               | 「興致卡」嘉賓  |
+| 2017年7月22日       | Youtube                                               | 《OK BEAUTY》                                                           |          |
 
 ### 電視劇
 

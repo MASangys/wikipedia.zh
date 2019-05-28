@@ -1,4 +1,4 @@
-**i-City**是[马来西亚](../Page/马来西亚.md "wikilink")[雪兰莪州](https://zh.wikipedia.org/wiki/雪兰莪州 "wikilink")[八打灵县](https://zh.wikipedia.org/wiki/八打灵县 "wikilink")[莎亚南第七区的一个科技中心](https://zh.wikipedia.org/wiki/莎亚南 "wikilink")。由Jon
+**i-City**是[马来西亚](../Page/马来西亚.md "wikilink")[雪兰莪州](https://zh.wikipedia.org/wiki/雪兰莪州 "wikilink")[八打灵县](../Page/八打灵县.md "wikilink")[莎亚南第七区的一个科技中心](https://zh.wikipedia.org/wiki/莎亚南 "wikilink")。由Jon
 A.
 Jerde设计，\[1\]i-City被设计为一个完全集成的智慧[城市](../Page/城市.md "wikilink")，包括[企业](../Page/公司.md "wikilink")，休闲和[住宅区](../Page/住宅.md "wikilink")，如100万平方英尺的区域[购物中心](https://zh.wikipedia.org/wiki/购物中心 "wikilink")、[办公楼](https://zh.wikipedia.org/wiki/办公楼 "wikilink")、科技中心、[办公套件](https://zh.wikipedia.org/wiki/办公套件 "wikilink")、[酒店](../Page/酒店.md "wikilink")、[公寓](../Page/公寓.md "wikilink")、[数据中心和创新中心](../Page/数据中心.md "wikilink")。\[2\]这里配备先进的LED光影技术，是马来西亚首屈一指的夜间灯光旅游景点。
 

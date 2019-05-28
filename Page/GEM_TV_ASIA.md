@@ -23,11 +23,11 @@ GEM
 <td><p>2014年2月21日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/失業救助羅曼史" title="wikilink">失業救助羅曼史</a></p></td>
+<td><p><a href="../Page/失業救助羅曼史.md" title="wikilink">失業救助羅曼史</a></p></td>
 <td><p>2014年5月26日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/驚人的大會-Star_King" title="wikilink">Star King</a></p></td>
+<td><p><a href="../Page/驚人的大會-Star_King.md" title="wikilink">Star King</a></p></td>
 <td><p>2014年6月21日</p></td>
 </tr>
 <tr class="even">
@@ -97,7 +97,7 @@ GEM
 | [陸小鳳與花滿樓](../Page/陸小鳳與花滿樓.md "wikilink")                      | 2015年10月14日 |
 | [華胥引之絕愛之城](https://zh.wikipedia.org/wiki/華胥引之絕愛之城 "wikilink") | 2015年12月14日 |
 | [千金女賊](../Page/千金女賊.md "wikilink")                            | 2016年2月24日  |
-| [芈月传](https://zh.wikipedia.org/wiki/芈月传 "wikilink")           | 2016年6月24日  |
+| [芈月传](../Page/芈月传.md "wikilink")                              | 2016年6月24日  |
 | [新濟公活佛](https://zh.wikipedia.org/wiki/新濟公活佛 "wikilink")       | 2016年11月14日 |
 |                                                               |             |
 
@@ -131,7 +131,7 @@ GEM
 | **節目**                                                      | **播出日期**    |
 | ----------------------------------------------------------- | ----------- |
 | [狐仙](../Page/狐仙_\(电视剧\).md "wikilink")                      | 2015年10月1日  |
-| [婦道](https://zh.wikipedia.org/wiki/妇道_\(电视剧\) "wikilink")   | 2015年12月2日  |
+| [婦道](../Page/妇道_\(电视剧\).md "wikilink")                      | 2015年12月2日  |
 | [多情江山](../Page/多情江山.md "wikilink")                          | 2016年1月28日  |
 | 海上孟府                                                        | 2016年5月16日  |
 | [芙蓉錦](https://zh.wikipedia.org/wiki/芙蓉錦 "wikilink")         | 2016年8月29日  |
@@ -165,10 +165,8 @@ GEM
 
   - [香港播出之日劇列表 (2015年)](../Page/香港播出之日劇列表_\(2015年\).md "wikilink")
   - [香港播出之日劇列表 (2016年)](../Page/香港播出之日劇列表_\(2016年\).md "wikilink")
-  - [香港播出日本劇集列表
-    (2017年)](https://zh.wikipedia.org/wiki/香港播出日本劇集列表_\(2017年\) "wikilink")
-  - [香港播出日本劇集列表
-    (2018年)](https://zh.wikipedia.org/wiki/香港播出日本劇集列表_\(2018年\) "wikilink")
+  - [香港播出日本劇集列表 (2017年)](../Page/香港播出日本劇集列表_\(2017年\).md "wikilink")
+  - [香港播出日本劇集列表 (2018年)](../Page/香港播出日本劇集列表_\(2018年\).md "wikilink")
 
 **所有在香港播出日劇也跟隨東南亞版本同步進行**
 
@@ -215,7 +213,7 @@ GEM
 
 韓國
 
-  - [半月朋友](https://zh.wikipedia.org/wiki/半月朋友 "wikilink")
+  - [半月朋友](../Page/半月朋友.md "wikilink")
   - [食神之路](https://zh.wikipedia.org/wiki/食神之路 "wikilink")(第2季)
   - [任意演員](https://zh.wikipedia.org/wiki/任意演員 "wikilink")
   - [偶像之心:突襲](https://zh.wikipedia.org/wiki/偶像之心:突襲 "wikilink")

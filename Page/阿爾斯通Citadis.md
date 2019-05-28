@@ -156,7 +156,7 @@ Citadis系列提供略低及[特低地台電車](https://zh.wikipedia.org/wiki/�
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="https://zh.wikipedia.org/wiki/高雄捷運" title="wikilink">高雄捷運</a> - <a href="https://zh.wikipedia.org/wiki/環狀輕軌" title="wikilink">環狀輕軌</a></p></td>
+<td><p><a href="../Page/高雄市.md" title="wikilink">高雄市</a><a href="../Page/高雄捷運.md" title="wikilink">高雄捷運</a> - <a href="https://zh.wikipedia.org/wiki/環狀輕軌" title="wikilink">環狀輕軌</a></p></td>
 <td></td>
 <td><p>Citadis X05 - Citadis 305</p></td>
 <td></td>
@@ -168,7 +168,7 @@ Citadis系列提供略低及[特低地台電車](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/成都市.md" title="wikilink">成都市</a><a href="https://zh.wikipedia.org/wiki/成都有轨电车" title="wikilink">有轨电车</a> - <a href="https://zh.wikipedia.org/wiki/成都有轨电车蓉2号线" title="wikilink">蓉2号线</a></p></td>
+<td><p><a href="../Page/成都市.md" title="wikilink">成都市</a><a href="../Page/成都有轨电车.md" title="wikilink">有轨电车</a> - <a href="../Page/成都有轨电车蓉2号线.md" title="wikilink">蓉2号线</a></p></td>
 <td></td>
 <td><p>Citadis X02 - Citadis 302</p></td>
 <td></td>

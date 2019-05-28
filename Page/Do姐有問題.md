@@ -260,7 +260,7 @@ SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilin
 <td><p>02</p></td>
 <td><p>3月13日</p></td>
 <td><p><a href="../Page/梁嘉琪.md" title="wikilink">梁嘉琪</a>、<a href="../Page/張秀文.md" title="wikilink">張秀文</a><br />
-<strong><a href="https://zh.wikipedia.org/wiki/馮盈盈" title="wikilink">馮盈盈</a>、<a href="https://zh.wikipedia.org/wiki/張寶兒" title="wikilink">張寶兒</a></strong></p></td>
+<strong><a href="../Page/馮盈盈.md" title="wikilink">馮盈盈</a>、<a href="../Page/張寶兒.md" title="wikilink">張寶兒</a></strong></p></td>
 <td><p>1500<br />
 <strong>2000</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/不丹努爾特魯姆" title="wikilink">不丹努扎母</a><br />
@@ -341,7 +341,7 @@ SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilin
 <tr class="odd">
 <td><p>08</p></td>
 <td><p>3月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丁子朗" title="wikilink">丁子朗</a>、<a href="../Page/鄧佩儀.md" title="wikilink">鄧佩儀</a><br />
+<td><p><a href="../Page/丁子朗.md" title="wikilink">丁子朗</a>、<a href="../Page/鄧佩儀.md" title="wikilink">鄧佩儀</a><br />
 <strong><a href="../Page/江嘉敏.md" title="wikilink">江嘉敏</a>、<a href="../Page/余德丞.md" title="wikilink">余德丞</a></strong></p></td>
 <td><p>1500<br />
 <strong>1000</strong></p></td>
@@ -629,13 +629,13 @@ SUPER](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")7日跨平台總收�
 
 ### 第一輯
 
-| 獎項                                                                                              | 得奬單位   |
-| ----------------------------------------------------------------------------------------------- | ------ |
-| align="left"; colspan="2"|[星和無綫電視大獎2016](https://zh.wikipedia.org/wiki/星和無綫電視大獎2016 "wikilink") |        |
-| 「我最愛TVB綜藝節目主持人」                                                                                 | 鄭裕玲、農夫 |
-|                                                                                                 |        |
-| align="left"; colspan="2"|[萬千星輝頒獎典禮2016](https://zh.wikipedia.org/wiki/萬千星輝頒獎典禮2016 "wikilink") |        |
-| 「最佳節目主持」\[9\]                                                                                   | 鄭裕玲、農夫 |
+| 獎項                                                                           | 得奬單位   |
+| ---------------------------------------------------------------------------- | ------ |
+| align="left"; colspan="2"|[星和無綫電視大獎2016](../Page/星和無綫電視大獎2016.md "wikilink") |        |
+| 「我最愛TVB綜藝節目主持人」                                                              | 鄭裕玲、農夫 |
+|                                                                              |        |
+| align="left"; colspan="2"|[萬千星輝頒獎典禮2016](../Page/萬千星輝頒獎典禮2016.md "wikilink") |        |
+| 「最佳節目主持」\[9\]                                                                | 鄭裕玲、農夫 |
 
 ## 注釋
 

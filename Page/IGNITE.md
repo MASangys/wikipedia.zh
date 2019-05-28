@@ -62,7 +62,7 @@ Gale Online（GGO）》中的模樣\[3\]。
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Mora" title="wikilink">Mora一般</a>/日本音樂/動畫[10]</p></td>
+<td><p><a href="../Page/Mora.md" title="wikilink">Mora一般</a>/日本音樂/動畫[10]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">

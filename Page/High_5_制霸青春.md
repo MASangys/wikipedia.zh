@@ -234,7 +234,7 @@
 <td><center>
 <p>袁華明</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/鄧志堅" title="wikilink">鄧志堅</a></p></td>
+<p><a href="../Page/鄧志堅.md" title="wikilink">鄧志堅</a></p></td>
 <td><p>|大仁高中籃球隊助理教練。欣賞張百勝教練的霸氣、帥氣與man，所以一直跟在張教練旁邊處理籃球隊事務。他有過人的記憶力，卻只有一般人的籃球技巧，可以一目十行，過目不忘，對於所有比賽或訓練細節，都如數家珍。不太會談戀愛，在女生面前表達能力有點弱，但在大仁籃球隊裡卻總充滿幽默感、像個大哥哥般照顧著每位球員。</p></td>
 <td><center>
 <p>全劇</p></td>
@@ -425,7 +425,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/劉明勳" title="wikilink">劉明勳</a></p></td>
+<p><a href="../Page/劉明勳.md" title="wikilink">劉明勳</a></p></td>
 <td><center>
 <p>雜誌社主編</p></td>
 <td><center></td>
@@ -757,19 +757,19 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘獎戲劇節目導演獎" title="wikilink">戲劇節目導演獎</a></p></td>
+<td><p><a href="../Page/金鐘獎戲劇節目導演獎.md" title="wikilink">戲劇節目導演獎</a></p></td>
 <td><p>林子平</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘獎攝影獎" title="wikilink">攝影獎</a></p></td>
+<td><p><a href="../Page/金鐘獎攝影獎.md" title="wikilink">攝影獎</a></p></td>
 <td><p>王晟合、孫全岑</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘獎剪輯獎" title="wikilink">剪輯獎</a></p></td>
+<td><p><a href="../Page/金鐘獎剪輯獎.md" title="wikilink">剪輯獎</a></p></td>
 <td><p>楊邦彥</p></td>
 <td></td>
 <td></td>

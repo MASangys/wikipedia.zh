@@ -16,7 +16,7 @@ LGD曾有多支Dota2战队。如后来独立为[CDEC电子竞技俱乐部的](ht
 International**战队等。
 
 随着Valve宣布自2019年起无论战队积分如何每个俱乐部只能有一支队伍参加[Dota
-2国际邀请赛](https://zh.wikipedia.org/wiki/Dota_2国际邀请赛 "wikilink")，原本作为LGD二队的LFY(LGD.Forever
+2国际邀请赛](../Page/Dota_2国际邀请赛.md "wikilink")，原本作为LGD二队的LFY(LGD.Forever
 Young)战队成员除Super外全部离队并转投如[RNG](https://zh.wikipedia.org/wiki/RNG "wikilink")、[Newbee等其他队伍](https://zh.wikipedia.org/wiki/Newbee "wikilink")，因而目前LGD可以被视为仅剩PSG.LGD一支Dota2战队。
 
 ### 战队成员
@@ -82,7 +82,7 @@ Young)战队成员除Super外全部离队并转投如[RNG](https://zh.wikipedia.
 **亚军:**
 
   - **[Dota
-    2国际邀请赛](https://zh.wikipedia.org/wiki/Dota_2国际邀请赛 "wikilink")：**[2018](../Page/2018年Dota_2国际邀请赛.md "wikilink")
+    2国际邀请赛](../Page/Dota_2国际邀请赛.md "wikilink")：**[2018](../Page/2018年Dota_2国际邀请赛.md "wikilink")
   - [世界电子竞技大赛(WCA)](../Page/世界电子竞技大赛_\(中国游戏赛事\).md "wikilink")：2015
 
 ## 英雄联盟分部

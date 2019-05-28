@@ -11,7 +11,7 @@
   - [黑色代碼](../Page/黑色代碼.md "wikilink")
 
   -
-  - [老媽闖入電視台](https://zh.wikipedia.org/wiki/老媽實習生 "wikilink")
+  - [老媽闖入電視台](../Page/老媽實習生.md "wikilink")
 
   - [醫者有情人](../Page/實習醫生_\(電視劇\).md "wikilink")
 
@@ -39,7 +39,7 @@
   - [法證伊人](../Page/逝者之證.md "wikilink")
 
   -
-  - [芝加哥正義](https://zh.wikipedia.org/wiki/芝加哥正義 "wikilink")
+  - [芝加哥正義](../Page/芝加哥正義.md "wikilink")
 
   -
   -

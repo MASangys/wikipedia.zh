@@ -134,7 +134,7 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
   - 音響監督：[三間雅文](../Page/三間雅文.md "wikilink")
   - 音樂：、、山本陽介
   - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")、I WILL
-  - 音樂製作人：伊藤善之、[齋藤滋](https://zh.wikipedia.org/wiki/齋藤滋 "wikilink")
+  - 音樂製作人：伊藤善之、[齋藤滋](../Page/齋藤滋.md "wikilink")
   - 主製作人：藤澤宜彥
   - 製作人：大藪芳廣、中路亮輔、高梨實、小岐須泰世、柳村努、保坂拓也、金子廣孝
   - 動畫製作：[BONES](../Page/BONES_\(動畫製作公司\).md "wikilink")
@@ -665,7 +665,7 @@ Revolutio～超人幻想～The Last Song》。\[1\]\[2\]
 
 1.  人吉尔朗的形象参考[人造人009](../Page/人造人009.md "wikilink")、[哥斯拉](../Page/哥斯拉.md "wikilink")、[金刚](https://zh.wikipedia.org/wiki/金刚 "wikilink")，暴走设定来自[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")，出生年及能力来源来自[广岛市原子弹爆炸](../Page/广岛市原子弹爆炸.md "wikilink")。
 2.  星野辉子的形象来自日本第一部魔法少女作品，1966年的[魔法使莎莉](../Page/魔法使莎莉.md "wikilink")。
-3.  柴来的形象参考[电脑奇侠](https://zh.wikipedia.org/wiki/电脑奇侠 "wikilink")，也影射[日本赤军](https://zh.wikipedia.org/wiki/日本赤军 "wikilink")。
+3.  柴来的形象参考[电脑奇侠](../Page/电脑奇侠.md "wikilink")，也影射[日本赤军](https://zh.wikipedia.org/wiki/日本赤军 "wikilink")。
 4.  男女合体机器人参考[超人机梅塔路达](https://zh.wikipedia.org/wiki/超人机梅塔路达 "wikilink")
 5.  古罗斯奥肯参考[奥特曼](https://zh.wikipedia.org/wiki/奥特曼 "wikilink")。头部的火焰参考[奥特曼佐非拍摄期间皮套着火](https://zh.wikipedia.org/wiki/奥特曼佐非 "wikilink")。
 6.  机器人阿斯参考[阿童木](https://zh.wikipedia.org/wiki/阿童木 "wikilink")。

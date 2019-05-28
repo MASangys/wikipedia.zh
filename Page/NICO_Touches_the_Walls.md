@@ -244,7 +244,7 @@ Music旗下的](../Page/日本索尼音樂娛樂.md "wikilink")主流出道。
 
 <!-- end list -->
 
-  - 1月，在東京、名古屋和大阪舉辦對BAND巡迴演唱會『ニコ　タッチズ　ザ　ウォールズ　ノ　フェスト』。對BAND樂團在大阪公演為[BIGMAMA](../Page/BIGMAMA.md "wikilink")、在愛知為[［Alexandros］](https://zh.wikipedia.org/wiki/［Alexandros］ "wikilink")、在東京為。
+  - 1月，在東京、名古屋和大阪舉辦對BAND巡迴演唱會『ニコ　タッチズ　ザ　ウォールズ　ノ　フェスト』。對BAND樂團在大阪公演為[BIGMAMA](../Page/BIGMAMA.md "wikilink")、在愛知為[［Alexandros］](../Page/［Alexandros］.md "wikilink")、在東京為。
   - 2月
       - 1日，在東京都涉谷區神宮前的畫廊改裝成的Live House「カベニミミ」舉辦為期一個月、共計20場的籠城型演唱會『』を開催。
       - 5日，發行第一張精選輯『ニコ　タッチズ　ザ　ウォールズ　ノ　ベスト』。在Oricon最高得到第五名。
@@ -943,14 +943,14 @@ KSBL-6172（DVD）</p></td>
 <li>セブンスター / <a href="https://zh.wikipedia.org/wiki/中村一義" title="wikilink">中村一義</a></li>
 <li>Lucky / スーパーカー</li>
 <li>そらに / concentrate on popping</li>
-<li>染まるよ / <a href="https://zh.wikipedia.org/wiki/Chatmonchy" title="wikilink">Chatmonchy</a></li>
+<li>染まるよ / <a href="../Page/Chatmonchy.md" title="wikilink">Chatmonchy</a></li>
 <li>dolphin / <a href="../Page/木村KAELA.md" title="wikilink">木村KAELA</a></li>
 <li><p>/ <a href="../Page/YUKI_(歌手).md" title="wikilink">YUKI</a></p></li>
 <li>風待ち / </li>
 <li>君の好きな歌 / <a href="../Page/DOES.md" title="wikilink">DOES</a></li>
 <li><strong>波 / NICO Touches the Walls</strong></li>
 <li>ブルーのこころ / </li>
-<li>ベイビー優しい夜が来て / <a href="https://zh.wikipedia.org/wiki/Sambomaster" title="wikilink">Sambomaster</a></li>
+<li>ベイビー優しい夜が来て / <a href="../Page/Sambomaster.md" title="wikilink">Sambomaster</a></li>
 <li>アオイソラ /
 </div>
 </div></li>
@@ -1072,7 +1072,7 @@ KSBL-6172（DVD）</p></td>
 <li>時速160公里的吉他、貝斯和鼓 / <a href="https://zh.wikipedia.org/wiki/透明雑誌" title="wikilink">透明雑誌</a></li>
 <li>命の更新 / </li>
 <li>GOOD TIME MUSIC / </li>
-<li>You're So Sweet &amp; I Love You / <a href="https://zh.wikipedia.org/wiki/［Alexandros］" title="wikilink">［Alexandros］</a></li>
+<li>You're So Sweet &amp; I Love You / <a href="../Page/［Alexandros］.md" title="wikilink">［Alexandros］</a></li>
 <li>Standing There ～いま、そこに行くよ～ / <a href="https://zh.wikipedia.org/wiki/bonobos" title="wikilink">bonobos</a></li>
 </ol></td>
 <td><p>Oricon最高排名296名</p></td>
@@ -1135,7 +1135,7 @@ KSBL-6172（DVD）</p></td>
 <li>瞬間センチメンタル / <a href="../Page/SCANDAL_(日本音樂團體).md" title="wikilink">SCANDAL</a></li>
 <li><strong>ホログラム / NICO Touches the Walls</strong></li>
 <li>徒然モノクローム / </li>
-<li>シャングリラ / <a href="https://zh.wikipedia.org/wiki/Chatmonchy" title="wikilink">Chatmonchy</a></li>
+<li>シャングリラ / <a href="../Page/Chatmonchy.md" title="wikilink">Chatmonchy</a></li>
 <li>Place to Try / </li>
 <li>カロン / </li>
 <li>桜音 / ピコ</li>
@@ -1172,7 +1172,7 @@ KSBL-6172（DVD）</p></td>
 <ol>
 <li><a href="../Page/無數次.md" title="wikilink">何度でも</a> / <a href="../Page/May_J..md" title="wikilink">May J.</a></li>
 <li><p>/ <a href="../Page/西內瑪麗亞.md" title="wikilink">西內瑪麗亞</a></p></li>
-<li><p>/ <a href="https://zh.wikipedia.org/wiki/三浦大知" title="wikilink">三浦大知</a></p></li>
+<li><p>/ <a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></p></li>
 <li><p>/ <a href="../Page/LiSA.md" title="wikilink">LiSA</a></p></li>
 <li>The signs of LOVE / <a href="https://zh.wikipedia.org/wiki/李俊昊" title="wikilink">JUNHO</a> (From <a href="https://zh.wikipedia.org/wiki/2PM" title="wikilink">2PM</a>)</li>
 <li>眼鏡越しの空 / </li>
@@ -1548,7 +1548,7 @@ UPJH-9016(黑膠盤)</p></td>
 <tr class="even">
 <td><p>2014年</p></td>
 <td></td>
-<td><p>毎日放送・TBS系列動畫『<a href="https://zh.wikipedia.org/wiki/排球少年！！" title="wikilink">排球少年！！</a>』片尾曲</p></td>
+<td><p>毎日放送・TBS系列動畫『<a href="../Page/排球少年！！.md" title="wikilink">排球少年！！</a>』片尾曲</p></td>
 <td><p>｢天地ガエシ｣</p></td>
 </tr>
 <tr class="odd">
@@ -1605,14 +1605,14 @@ UPJH-9016(黑膠盤)</p></td>
   - 2013年 : TOUR "Shout to the Walls\!"
   - 2013年11月25日 : 1125(イイニコ)之日演唱會
   - 2014年 : ニコ タッチズ ザ ウォールズ ノ フェスト
-    w/[BIGMAMA](../Page/BIGMAMA.md "wikilink")、[［Alexandros］](https://zh.wikipedia.org/wiki/［Alexandros］ "wikilink")、
+    w/[BIGMAMA](../Page/BIGMAMA.md "wikilink")、[［Alexandros］](../Page/［Alexandros］.md "wikilink")、
   - 2014年 : ニコ タッチズ ザ ウォールズ ノ ヒミツキチ「」
   - 2014年 : TOUR "ニコ タッチズ ザ ウォールズ ノ ゼップ"
   - 2014年 : 日本武道館公演 "ニコ タッチズ ザ ウォールズ ノ ブドウカン"
   - 2014年11月25日 : 1125/2014
   - 2015年 : Howdy\!\! We are ACO Touches the Walls
   - 2015年 : ニコ タッチズ ザ ウォールズ ノ フェスト w/、[UNISON SQUARE
-    GARDEN](https://zh.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")、［Alexandros］
+    GARDEN](../Page/UNISON_SQUARE_GARDEN.md "wikilink")、［Alexandros］
   - 2015年5月～7月 : NICO Touches the Walls TOUR 2015 "まっすぐなツアー"
   - 2015年9月3日 : 「渦と渦」發行紀念特別演唱會「UZU-TO-UZU-TO-UZU-TO-UZU」
   - 2015年10月17日 ： NICO Touches the Walls "Walls Is Auroras" Special

@@ -18,9 +18,9 @@
 <tbody>
 <tr class="odd">
 <td><p>東區</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/秋田北部喜悅" title="wikilink">秋田北部喜悅</a></p></td>
+<td><p><a href="../Page/秋田北部喜悅.md" title="wikilink">秋田北部喜悅</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/秋田縣" title="wikilink">秋田縣</a><a href="../Page/秋田市.md" title="wikilink">秋田市</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CNA競技館秋田" title="wikilink">CNA競技館秋田</a></p></td>
+<td><p><a href="../Page/CNA競技館秋田.md" title="wikilink">CNA競技館秋田</a></p></td>
 <td><p>bj聯盟</p></td>
 <td></td>
 </tr>

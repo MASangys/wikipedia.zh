@@ -145,8 +145,8 @@
 <td><p>[21]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蒂姆·哈达威" title="wikilink">提姆·哈德威</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小蒂姆·哈达威" title="wikilink">小提姆·哈德威</a></p></td>
+<td><p><a href="../Page/蒂姆·哈达威.md" title="wikilink">提姆·哈德威</a></p></td>
+<td><p><a href="../Page/小蒂姆·哈达威.md" title="wikilink">小提姆·哈德威</a></p></td>
 <td></td>
 <td><p>[22]</p></td>
 </tr>

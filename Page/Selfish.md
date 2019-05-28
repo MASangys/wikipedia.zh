@@ -22,9 +22,7 @@ Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
         （作曲・編曲：[カワノミチオ](https://zh.wikipedia.org/wiki/カワノミチオ "wikilink")）
     <!-- end list -->
       - 第2張單曲收錄
-4.  **[SEVENTH
-    CHORD](https://zh.wikipedia.org/wiki/SEVENTH_CHORD "wikilink")**
-    \[4:17\]
+4.  **[SEVENTH CHORD](../Page/SEVENTH_CHORD.md "wikilink")** \[4:17\]
       -
         （作曲・編曲：渡辺淳）
     <!-- end list -->
@@ -34,8 +32,7 @@ Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
         （作曲・編曲：[山田高弘](https://zh.wikipedia.org/wiki/山田高弘 "wikilink")）
     <!-- end list -->
       - 第3張單曲收錄
-6.  **[隱形眼鏡](https://zh.wikipedia.org/wiki/SEVENTH_CHORD "wikilink")**
-    \[4:01\]
+6.  **[隱形眼鏡](../Page/SEVENTH_CHORD.md "wikilink")** \[4:01\]
       -
         （作曲・編曲：[渡辺和紀](https://zh.wikipedia.org/wiki/渡辺和紀 "wikilink")）
     <!-- end list -->
@@ -50,8 +47,7 @@ Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。
         （作曲・編曲：菅井達司）
     <!-- end list -->
       - 第3張單曲收錄
-9.  **[令人懷念的第一次](https://zh.wikipedia.org/wiki/SEVENTH_CHORD "wikilink")**
-    \[4:17\]
+9.  **[令人懷念的第一次](../Page/SEVENTH_CHORD.md "wikilink")** \[4:17\]
       -
         （作曲・編曲：[若田部誠](https://zh.wikipedia.org/wiki/若田部誠 "wikilink")）
     <!-- end list -->

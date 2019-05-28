@@ -3,7 +3,7 @@
 2012年7月，AOA发行数字单曲《Elvis》和首张单曲专辑《[Angels'
 Story](../Page/Angels'_Story.md "wikilink")》出道\[1\]。3个月后第二张单曲专辑《[Wanna
 Be](https://zh.wikipedia.org/wiki/Wanna_Be_\(AOA单曲\) "wikilink")》推出。2013年AOA发行两首单曲《Moya》和《[Red
-Motion](../Page/RED_MOTION.md "wikilink")》。2014年，第五首单曲《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》发行并首次冲进Gaon榜前20名。同年，AOA发行迷你专辑《[短发](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》和《[猫步轻悄](https://zh.wikipedia.org/wiki/猫步轻悄_\(AOA迷你专辑\) "wikilink")》。第三张EP《[怦然心动](https://zh.wikipedia.org/wiki/怦然心动_\(AOA迷你专辑\) "wikilink")》（2015）是AOA在韩国销量最高的专辑，实体总销量超过4.5万。第四张EP《[Good
+Motion](../Page/RED_MOTION.md "wikilink")》。2014年，第五首单曲《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》发行并首次冲进Gaon榜前20名。同年，AOA发行迷你专辑《[短发](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》和《[猫步轻悄](https://zh.wikipedia.org/wiki/猫步轻悄_\(AOA迷你专辑\) "wikilink")》。第三张EP《[怦然心动](../Page/怦然心动_\(AOA迷你专辑\).md "wikilink")》（2015）是AOA在韩国销量最高的专辑，实体总销量超过4.5万。第四张EP《[Good
 Luck](../Page/Good_Luck_\(AOA迷你专辑\).md "wikilink")》于2016年5月释出。
 
 2014年10月，《短裙》的日语版推出，成为AOA的首张日语专辑。专辑在Oricon周单曲榜达到13名。一年后的2015年10月，AOA释出首张标准长度日语录音室专辑《[Ace
@@ -182,7 +182,7 @@ Angels](https://zh.wikipedia.org/wiki/Ace_of_Angels "wikilink")》。AOA的第�
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/怦然心动_(AOA迷你专辑)" title="wikilink">怦然心动</a></p></td>
+<td><p><a href="../Page/怦然心动_(AOA迷你专辑).md" title="wikilink">怦然心动</a></p></td>
 <td><ul>
 <li>发行：2015年6月22日<small>（韩国）</small></li>
 <li>唱片公司：FNC娱乐</li>
@@ -202,7 +202,7 @@ Angels](https://zh.wikipedia.org/wiki/Ace_of_Angels "wikilink")》。AOA的第�
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Bingle_Bangle_(AOA迷你专辑)" title="wikilink">Bingle Bangle</a></p></td>
+<td><p><a href="../Page/Bingle_Bangle_(AOA迷你专辑).md" title="wikilink">Bingle Bangle</a></p></td>
 <td><ul>
 <li>發行：2018年5月28日（韓國）</li>
 <li>唱片公司：FNC娛樂</li>

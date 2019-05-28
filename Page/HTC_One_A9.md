@@ -125,8 +125,7 @@ F2.0 大光圈、具備 HDR 功能、1080p Full HD 錄影</p></td>
 
 ### 硬體
 
-外型相似於 [One
-M8](https://zh.wikipedia.org/wiki/HTC_One_\(M8\) "wikilink")，這部手機採用一體成型的金屬機身，全機重
+外型相似於 [One M8](../Page/HTC_One_\(M8\).md "wikilink")，這部手機採用一體成型的金屬機身，全機重
 ，機身高度145.75公釐，寬度70.8公釐，厚度7.26公釐\[4\]。面板採用五吋的[Super
 AMOLED](https://zh.wikipedia.org/wiki/AMOLED#Super_AMOLED "wikilink")，
 1920 x 1080 [畫素](https://zh.wikipedia.org/wiki/畫素 "wikilink")，以及 440
@@ -155,8 +154,8 @@ Marshmallow](../Page/Android_Marshmallow.md "wikilink")
 ## 軼事
 
 A9外觀太像[IPhone
-6](https://zh.wikipedia.org/wiki/IPhone_6 "wikilink")，包括凸起的後鏡頭、閃光燈、指紋辨識器，背面天線，就連未發佈之前的諜照也長的太像[IPhone
-6](https://zh.wikipedia.org/wiki/IPhone_6 "wikilink")，外媒還稱：「一台跑著Android
+6](../Page/IPhone_6.md "wikilink")，包括凸起的後鏡頭、閃光燈、指紋辨識器，背面天線，就連未發佈之前的諜照也長的太像[IPhone
+6](../Page/IPhone_6.md "wikilink")，外媒還稱：「一台跑著Android
 6.0系統、售價399美元的iPhone」。
 
 ## 發售資訊

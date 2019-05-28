@@ -670,7 +670,7 @@ GIANT BABY</p></td>
 <td><p>原唱</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>雅麗克絲·克莉絲汀</p></td>
@@ -944,7 +944,7 @@ Very Very Raspberry</p></td>
   - 李昇基讲述自己出道经历心路历程，告诉练习生欲戴王冠必承其重
   - 昭宥带领练习生进行形体健身。
   - 舞蹈對決：特別MC：[金請夏](https://zh.wikipedia.org/wiki/金請夏 "wikilink")、[全昭彌](../Page/昭彌.md "wikilink")、Dancing
-    Queen：AKB48[後藤萌咲](https://zh.wikipedia.org/wiki/後藤萌咲 "wikilink")，給舞后所屬C等級全員練習生贈送化妝品禮物。
+    Queen：AKB48[後藤萌咲](../Page/後藤萌咲.md "wikilink")，給舞后所屬C等級全員練習生贈送化妝品禮物。
   - 隐藏摄影机——胆量测验。
   - 練習生票選視覺中心排名。
 
@@ -1072,7 +1072,7 @@ Very Very Raspberry</p></td>
   - 定位評價練習生從Vocal（\&Rap）和Dance中選擇其中一個類別的一首歌，先由13至57名依排名順序選擇歌曲；然後再由1至12名依排名順序選擇歌曲，被選擇歌曲的組別中排名最低的一人會被踢走，強制加入到歌曲沒有公開的Vocal或Dance組。
       - 各組別第一名的練習生可獲得五千票，而每一個類別裡票數最高的練習生可再額外獲得十萬票。
       - 位置評價特別MC：[寶拉](https://zh.wikipedia.org/wiki/寶拉 "wikilink")
-  - 第六集排名僅公開一位候補、第10至12和30名：一位候補：[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")、張員瑛，第10至12名：許允真、本田仁美、王怡人，第30名：朴海允
+  - 第六集排名僅公開一位候補、第10至12和30名：一位候補：[矢吹奈子](../Page/矢吹奈子.md "wikilink")、張員瑛，第10至12名：許允真、本田仁美、王怡人，第30名：朴海允
   - （L）代表隊長，（C）代表C位，下表以播出順序排列。
 
 | 第六集節目內容             |
@@ -1647,7 +1647,7 @@ Very Very Raspberry</p></td>
 </tr>
 <tr class="odd">
 <td><p>82</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/矢吹奈子" title="wikilink">矢吹奈子</a></p></td>
+<td><p><a href="../Page/矢吹奈子.md" title="wikilink">矢吹奈子</a></p></td>
 <td></td>
 <td><p>HKT48</p></td>
 <td></td>
@@ -1761,7 +1761,7 @@ Very Very Raspberry</p></td>
 <td><p>8</p></td>
 <td><p>朴海允</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FNC娛樂" title="wikilink">FNC娛樂</a></p></td>
+<td><p><a href="../Page/FNC娛樂.md" title="wikilink">FNC娛樂</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1815,7 +1815,7 @@ Very Very Raspberry</p></td>
 </tr>
 <tr class="even">
 <td><p>58</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/後藤萌咲" title="wikilink">後藤萌咲</a></p></td>
+<td><p><a href="../Page/後藤萌咲.md" title="wikilink">後藤萌咲</a></p></td>
 <td></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td></td>
@@ -2217,7 +2217,7 @@ Very Very Raspberry</p></td>
 <td><p>9</p></td>
 <td><p>趙雅榮</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FNC娛樂" title="wikilink">FNC娛樂</a></p></td>
+<td><p><a href="../Page/FNC娛樂.md" title="wikilink">FNC娛樂</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2287,7 +2287,7 @@ Very Very Raspberry</p></td>
 </tr>
 <tr class="odd">
 <td><p>71</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/市川愛美" title="wikilink">市川愛美</a></p></td>
+<td><p><a href="../Page/市川愛美.md" title="wikilink">市川愛美</a></p></td>
 <td></td>
 <td><p>AKB48</p></td>
 <td></td>
@@ -2367,7 +2367,7 @@ Very Very Raspberry</p></td>
 </tr>
 <tr class="odd">
 <td><p>66</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/篠崎彩奈" title="wikilink">篠崎彩奈</a></p></td>
+<td><p><a href="../Page/篠崎彩奈.md" title="wikilink">篠崎彩奈</a></p></td>
 <td></td>
 <td><p>AKB48</p></td>
 <td></td>
@@ -2568,7 +2568,7 @@ Very Very Raspberry</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>數位單曲《<strong><a href="https://zh.wikipedia.org/wiki/是我的_(PICK_ME)" title="wikilink">PRODUCE 48 - 내꺼야 (PICK ME)</a></strong>》</p>
+<td><p>數位單曲《<strong><a href="../Page/是我的_(PICK_ME).md" title="wikilink">PRODUCE 48 - 내꺼야 (PICK ME)</a></strong>》</p>
 <ul>
 <li>發行日期：2018年5月10日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a>、<a href="https://zh.wikipedia.org/wiki/日語" title="wikilink">日語</a></li>
@@ -2578,7 +2578,7 @@ Very Very Raspberry</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p>數位單曲《<strong><a href="https://zh.wikipedia.org/wiki/是我的_(PICK_ME)" title="wikilink">PRODUCE 48 - 내꺼야 (PICK ME)</a> 鋼琴版</strong>》</p>
+<td><p>數位單曲《<strong><a href="../Page/是我的_(PICK_ME).md" title="wikilink">PRODUCE 48 - 내꺼야 (PICK ME)</a> 鋼琴版</strong>》</p>
 <ul>
 <li>發行日期：2018年7月14日</li>
 <li>发行名义：PRODUCE 48</li>

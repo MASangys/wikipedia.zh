@@ -32,8 +32,7 @@ i
 
   - [Kbs wz. 1988「鉭」](../Page/Wz._1988鉭式突擊步槍.md "wikilink")
 
-  - [Kbkg wz.
-    1960](https://zh.wikipedia.org/wiki/Kbkg_wz._1960槍榴彈發射步槍 "wikilink")
+  - [Kbkg wz. 1960](../Page/Kbkg_wz._1960槍榴彈發射步槍.md "wikilink")
 
   - [Kbk wz. 1996「迷你鈹」](../Page/Wz._1996迷你鈹式卡賓槍.md "wikilink")
 

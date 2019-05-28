@@ -2,21 +2,21 @@
 
 ## 網路實境節目
 
-| 日期          | 網路平台                                                        | 節目名稱                                                                                 | 參與成員                                                                                                                                          |
-| ----------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2015年10月3日  | NAVER V LIVE                                                | iKON DEBUT CONCERT SHOWTIME                                                          | 全員                                                                                                                                            |
-| 2015年11月15日 | iKONIGHT COUNTDOWN LIVE\[1\]                                | 全員                                                                                   |                                                                                                                                               |
-| 2015年12月15日 | 마리와 나 V live with cute boys and pets\!\[2\]                 | [B.I](../Page/B.I.md "wikilink")、[振煥](../Page/金振煥.md "wikilink")                     |                                                                                                                                               |
-| 2015年12月23日 | iKON COUNTDOWN LIVE KONY´S MAS\[3\]                         | 全員                                                                                   |                                                                                                                                               |
-| 2017年5月20日  | NEW KIDS : BEGIN LIVE\[4\]                                  | 全員                                                                                   |                                                                                                                                               |
-| 2017年9月14日  | BOBBY LOVE AND FALL COUNTDOWN LIVE\[5\]                     | [BOBBY](https://zh.wikipedia.org/wiki/BOBBY "wikilink")                              |                                                                                                                                               |
-| 2018年1月24日  | KONFIDENTIAL NIGHT\[6\]                                     | 全員                                                                                   |                                                                                                                                               |
-| 2018年4月29日  | [AbemaTV](https://zh.wikipedia.org/wiki/AbemaTV "wikilink") | IKON！遊戲的戰鬥SP <ref>{{cite web |title=AbemaTVに4月28日（土) 、29日（日)の二日間限定で「YG CHANNEL」がオープン | |url=<https://ygex.jp/news_detail.php?id=1060482&artist_cd=IKONY> |publisher=avex |accessdate=2018-10-21 |language=ja |date=2018-4-13}}</ref> |
-| 2018年8月2日   | V LIVE                                                      | iKON 'CONTINUE' COUNTDOWN LIVE\[7\]                                                  | 全員                                                                                                                                            |
-| 2018年9月25日  | [AbemaTV](https://zh.wikipedia.org/wiki/AbemaTV "wikilink") | 『【iKON初生出演】「RETURN」発売記念AbemaTVプレミアムライブ』\[8\]                                         | 全員                                                                                                                                            |
-| 2018年10月1日  | V LIVE                                                      | Star Road\[9\]                                                                       | 全員                                                                                                                                            |
-| 2018年10月12日 | [AbemaTV](https://zh.wikipedia.org/wiki/AbemaTV "wikilink") | 『【舞台裏大公開！】iKONプレミアムライブ＆ビハインドストーリー』                                                   | 全員                                                                                                                                            |
-| 2018年10月15日 | Olleh TV Mobile                                             | AMIGO TV 第4季 \[10\]                                                                  | 全員                                                                                                                                            |
+| 日期          | 網路平台                                        | 節目名稱                                                                                 | 參與成員                                                                                                                                          |
+| ----------- | ------------------------------------------- | ------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2015年10月3日  | NAVER V LIVE                                | iKON DEBUT CONCERT SHOWTIME                                                          | 全員                                                                                                                                            |
+| 2015年11月15日 | iKONIGHT COUNTDOWN LIVE\[1\]                | 全員                                                                                   |                                                                                                                                               |
+| 2015年12月15日 | 마리와 나 V live with cute boys and pets\!\[2\] | [B.I](../Page/B.I.md "wikilink")、[振煥](../Page/金振煥.md "wikilink")                     |                                                                                                                                               |
+| 2015年12月23日 | iKON COUNTDOWN LIVE KONY´S MAS\[3\]         | 全員                                                                                   |                                                                                                                                               |
+| 2017年5月20日  | NEW KIDS : BEGIN LIVE\[4\]                  | 全員                                                                                   |                                                                                                                                               |
+| 2017年9月14日  | BOBBY LOVE AND FALL COUNTDOWN LIVE\[5\]     | [BOBBY](https://zh.wikipedia.org/wiki/BOBBY "wikilink")                              |                                                                                                                                               |
+| 2018年1月24日  | KONFIDENTIAL NIGHT\[6\]                     | 全員                                                                                   |                                                                                                                                               |
+| 2018年4月29日  | [AbemaTV](../Page/AbemaTV.md "wikilink")    | IKON！遊戲的戰鬥SP <ref>{{cite web |title=AbemaTVに4月28日（土) 、29日（日)の二日間限定で「YG CHANNEL」がオープン | |url=<https://ygex.jp/news_detail.php?id=1060482&artist_cd=IKONY> |publisher=avex |accessdate=2018-10-21 |language=ja |date=2018-4-13}}</ref> |
+| 2018年8月2日   | V LIVE                                      | iKON 'CONTINUE' COUNTDOWN LIVE\[7\]                                                  | 全員                                                                                                                                            |
+| 2018年9月25日  | [AbemaTV](../Page/AbemaTV.md "wikilink")    | 『【iKON初生出演】「RETURN」発売記念AbemaTVプレミアムライブ』\[8\]                                         | 全員                                                                                                                                            |
+| 2018年10月1日  | V LIVE                                      | Star Road\[9\]                                                                       | 全員                                                                                                                                            |
+| 2018年10月12日 | [AbemaTV](../Page/AbemaTV.md "wikilink")    | 『【舞台裏大公開！】iKONプレミアムライブ＆ビハインドストーリー』                                                   | 全員                                                                                                                                            |
+| 2018年10月15日 | Olleh TV Mobile                             | AMIGO TV 第4季 \[10\]                                                                  | 全員                                                                                                                                            |
 
 ## 專屬電視節目
 
@@ -38,14 +38,14 @@
 </tr>
 <tr class="even">
 <td><p>2014年9月11日—2014年11月6日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/MIX_&amp;_MATCH" title="wikilink">MIX &amp; MATCH</a>》</p></td>
+<td><p>《<a href="../Page/MIX_&amp;_MATCH.md" title="wikilink">MIX &amp; MATCH</a>》</p></td>
 <td><p>9集</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年11月5日—2017年12月10日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/違反校規的修學旅行" title="wikilink">違反校規的修學旅行</a>》</p></td>
+<td><p>《<a href="../Page/違反校規的修學旅行.md" title="wikilink">違反校規的修學旅行</a>》</p></td>
 <td><p>6集</p></td>
 </tr>
 <tr class="even">
@@ -106,13 +106,13 @@
 
 ### 固定出演
 
-|          日期           |                         電視台                         |                            節目名稱                             |                                  參與成員                                  |   備註   |
-| :-------------------: | :-------------------------------------------------: | :---------------------------------------------------------: | :--------------------------------------------------------------------: | :----: |
-| 2015年12月30日－2016年4月6日 |         [JTBC](../Page/JTBC.md "wikilink")          |    [瑪麗與我](https://zh.wikipedia.org/wiki/瑪麗與我 "wikilink")    | [振煥](../Page/金振煥.md "wikilink")、[B.I](../Page/B.I.md "wikilink")\[12\] | E3-E17 |
-| 2016年6月2日－2016年7月28日  | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") |             [爸爸和我](../Page/爸爸和我.md "wikilink")              |               [BOBBY](../Page/金知元_\(饒舌者\).md "wikilink")               |        |
-| 2016年6月19日－2016年8月28日 |         [江苏卫视](../Page/江苏卫视.md "wikilink")          |                            蓋世音雄                             |                                   全體                                   |        |
-| 2018年4月12日－2018年4月19日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [被子外面很危險](https://zh.wikipedia.org/wiki/被子外面很危險 "wikilink") |           [俊會](https://zh.wikipedia.org/wiki/具俊會 "wikilink")           |  春川篇   |
-|                       |                                                     |                                                             |                                                                        |        |
+|          日期           |                         電視台                         |                         節目名稱                          |                                  參與成員                                  |   備註   |
+| :-------------------: | :-------------------------------------------------: | :---------------------------------------------------: | :--------------------------------------------------------------------: | :----: |
+| 2015年12月30日－2016年4月6日 |         [JTBC](../Page/JTBC.md "wikilink")          | [瑪麗與我](https://zh.wikipedia.org/wiki/瑪麗與我 "wikilink") | [振煥](../Page/金振煥.md "wikilink")、[B.I](../Page/B.I.md "wikilink")\[12\] | E3-E17 |
+| 2016年6月2日－2016年7月28日  | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") |          [爸爸和我](../Page/爸爸和我.md "wikilink")           |               [BOBBY](../Page/金知元_\(饒舌者\).md "wikilink")               |        |
+| 2016年6月19日－2016年8月28日 |         [江苏卫视](../Page/江苏卫视.md "wikilink")          |                         蓋世音雄                          |                                   全體                                   |        |
+| 2018年4月12日－2018年4月19日 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |       [被子外面很危險](../Page/被子外面很危險.md "wikilink")        |                    [俊會](../Page/具俊會.md "wikilink")                     |  春川篇   |
+|                       |                                                     |                                                       |                                                                        |        |
 
 ### 綜藝出演
 
@@ -321,7 +321,7 @@
 <td><p>6月22日</p></td>
 <td></td>
 <td><p>《》</p></td>
-<td><p><a href="../Page/B.I.md" title="wikilink">B.I</a>、<a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a>、<a href="../Page/宋允亨.md" title="wikilink">允亨</a>、<a href="https://zh.wikipedia.org/wiki/具俊會" title="wikilink">俊會</a></p></td>
+<td><p><a href="../Page/B.I.md" title="wikilink">B.I</a>、<a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a>、<a href="../Page/宋允亨.md" title="wikilink">允亨</a>、<a href="../Page/具俊會.md" title="wikilink">俊會</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

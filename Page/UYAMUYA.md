@@ -29,7 +29,7 @@
 <ul>
 <li>廣播節目「」、「」片頭曲</li>
 </ul></li>
-<li>UYA-MUYA HEAVEN（作詞：畑亞貴／作曲、編曲：<a href="https://zh.wikipedia.org/wiki/太田雅友" title="wikilink">太田雅友</a>）
+<li>UYA-MUYA HEAVEN（作詞：畑亞貴／作曲、編曲：<a href="../Page/太田雅友.md" title="wikilink">太田雅友</a>）
 <ul>
 <li>廣播節目「」、「」片尾曲</li>
 </ul></li>

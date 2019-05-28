@@ -1,8 +1,8 @@
 **Google助理**是[Google开发的](../Page/Google.md "wikilink")[智慧型個人助理](https://zh.wikipedia.org/wiki/智慧型個人助理 "wikilink")，于2016年5月在[Google
 I/O发布](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")。与[Google即时不同](../Page/Google即时.md "wikilink")，Google助理可以参与双向对话。Google助理目前被集成在[Allo应用](https://zh.wikipedia.org/wiki/Allo "wikilink")、[Google
 Home设备](https://zh.wikipedia.org/wiki/Google_Home "wikilink")、[Android](../Page/Android.md "wikilink")
-7.0或以上的設備、[Pixelbook](https://zh.wikipedia.org/wiki/Google_Pixelbook "wikilink")、[Wear
-OS](https://zh.wikipedia.org/wiki/Wear_OS "wikilink")、[Android
+7.0或以上的設備、[Pixelbook](../Page/Google_Pixelbook.md "wikilink")、[Wear
+OS](../Page/Wear_OS.md "wikilink")、[Android
 TV](../Page/Android_TV.md "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android
 Auto](../Page/Android_Auto.md "wikilink")。
 
@@ -26,8 +26,7 @@ Express購物服務的物品](https://zh.wikipedia.org/wiki/Google_Express "wiki
 
 ## 评价
 
-2016年9月，[PC
-World的Mark](https://zh.wikipedia.org/wiki/PC_World "wikilink")
+2016年9月，[PC World的Mark](../Page/PC_World.md "wikilink")
 Hachman给予Google助理好评，称它“将[Cortana和](../Page/Cortana.md "wikilink")[Siri踩在脚下](../Page/Siri.md "wikilink")”\[4\]。
 
 ## 融入手机

@@ -416,7 +416,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
 <!-- end list -->
 
-  - [淘氣小愛神](https://zh.wikipedia.org/wiki/淘氣小愛神 "wikilink")（1995年－1996年）
+  - [淘氣小愛神](../Page/淘氣小愛神.md "wikilink")（1995年－1996年）
   - [花鈴的魔法戒](../Page/花鈴的魔法戒.md "wikilink")（2007年）
 
 <!-- end list -->
@@ -509,7 +509,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
 <!-- end list -->
 
-  - [我們大家的河合莊](https://zh.wikipedia.org/wiki/我們大家的河合莊 "wikilink")（2014年）
+  - [我們大家的河合莊](../Page/我們大家的河合莊.md "wikilink")（2014年）
   - [BLOOD LAD
     血意少年](https://zh.wikipedia.org/wiki/BLOOD_LAD_血意少年 "wikilink")（2014年）
   - [青春×機關槍](https://zh.wikipedia.org/wiki/青春×機關槍 "wikilink")（2015年）
@@ -541,13 +541,13 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
   - [寶貝婆婆](../Page/天才兒童MAX.md "wikilink")（總承包商：[BANDAI
     VISUAL](../Page/萬代影視.md "wikilink")，2002年）
 
-  - [青青校樹](https://zh.wikipedia.org/wiki/青青校樹_\(遊戲\) "wikilink")（總承包商：[Studio
+  - [青青校樹](../Page/青青校樹_\(遊戲\).md "wikilink")（總承包商：[Studio
     Matrix](../Page/Studio_Matrix.md "wikilink")，2003年）
 
   - [真魔神
     衝擊！Z篇](../Page/真魔神_衝擊！Z篇.md "wikilink")（總承包商：BEE·MEDIA、Code，2009年）
 
-  - [我們沒有翅膀](https://zh.wikipedia.org/wiki/我們沒有羽翼 "wikilink")（總承包商：[Nomad](https://zh.wikipedia.org/wiki/Nomad_\(公司\) "wikilink")，2011年）
+  - [我們沒有翅膀](https://zh.wikipedia.org/wiki/我們沒有羽翼 "wikilink")（總承包商：[Nomad](../Page/Nomad_\(公司\).md "wikilink")，2011年）
 
   - [生存遊戲社](../Page/生存遊戲社.md "wikilink")（總承包商：[Studio
     Pirrot+](../Page/Pierrot_PLUS.md "wikilink")，2014年）
@@ -695,7 +695,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - [同级生
     (OVA第1～3部)](https://zh.wikipedia.org/wiki/同级生 "wikilink")（總承包商：[Triple
-    X](https://zh.wikipedia.org/wiki/Arms "wikilink")，1993年）
+    X](../Page/Arms.md "wikilink")，1993年）
 
   - [搞怪拍檔FLASH](../Page/搞怪拍檔.md "wikilink")（總承包商：[日昇動畫](../Page/日昇動畫.md "wikilink")，1995年）
 
@@ -709,7 +709,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
   - （總承包商：[AIC](../Page/動畫國際公司.md "wikilink")，2004年）
 
-  - （總承包商：[Nomad](https://zh.wikipedia.org/wiki/Nomad_\(公司\) "wikilink")，2011年）
+  - （總承包商：[Nomad](../Page/Nomad_\(公司\).md "wikilink")，2011年）
 
 <!-- end list -->
 
@@ -851,8 +851,7 @@ BEAM和ArtRain三家同樣為背景製作公司的部分美術背景製作。
 
 23. 協力製作：J.C.STAFF。
 
-24. 協力製作：[Studio
-    Fantasia](https://zh.wikipedia.org/wiki/Studio_Fantasia "wikilink")。
+24. 協力製作：[Studio Fantasia](../Page/Studio_Fantasia.md "wikilink")。
 
 25. 與Sanctuary共同製作的動畫。
 

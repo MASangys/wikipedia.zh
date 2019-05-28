@@ -37,7 +37,7 @@ Speak原作脫穎而出\[2\]，製作組首選羅文姬主演，後因[韓日協
 <td><p>朴民載的弟弟，高三生。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/廉惠蘭" title="wikilink">廉惠蘭</a></p></td>
+<td><p><a href="../Page/廉惠蘭.md" title="wikilink">廉惠蘭</a></p></td>
 <td><p>陳珠宅</p></td>
 <td><p>珍珠商店老闆。</p></td>
 </tr>
@@ -121,7 +121,7 @@ Speak原作脫穎而出\[2\]，製作組首選羅文姬主演，後因[韓日協
   - 2017年：第37屆
     \- 十大最佳電影獎
     \- 最佳女主角獎 ([羅文姬](../Page/羅文姬.md "wikilink"))
-  - 2017年：第4屆[韓國電影製作人協會獎](https://zh.wikipedia.org/wiki/韓國電影製作人協會獎 "wikilink")
+  - 2017年：第4屆[韓國電影製作人協會獎](../Page/韓國電影製作人協會獎.md "wikilink")
     \- 最佳女主角獎 ([羅文姬](../Page/羅文姬.md "wikilink"))
     \- 最佳劇本獎 ([柳承姬](https://zh.wikipedia.org/wiki/柳承姬 "wikilink"))
   - 2018年：第9屆[年度電影獎](../Page/年度電影獎.md "wikilink")

@@ -1,5 +1,5 @@
 ,
-，是[臺灣話書寫系統之一的教會羅馬字](../Page/臺灣話.md "wikilink")（[白話字](https://zh.wikipedia.org/wiki/白話字 "wikilink")）使用的[元音字母](../Page/元音.md "wikilink")，是由[O加上](../Page/O.md "wikilink")[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")[組合附加符號字符](https://zh.wikipedia.org/wiki/組合附加符號 "wikilink")而成，不能与越南文[Ơ相混淆](../Page/Ơ.md "wikilink")。这个字母读作。
+，是[臺灣話書寫系統之一的教會羅馬字](../Page/臺灣話.md "wikilink")（[白話字](https://zh.wikipedia.org/wiki/白話字 "wikilink")）使用的[元音字母](../Page/元音.md "wikilink")，是由[O加上](../Page/O.md "wikilink")[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")[組合附加符號字符](../Page/組合附加符號.md "wikilink")而成，不能与越南文[Ơ相混淆](../Page/Ơ.md "wikilink")。这个字母读作。
 
 这个字母[并未很好的得到电脑字体支持](https://zh.wikipedia.org/wiki/臺灣話#計算機處理 "wikilink")，而且常常输入成**o·**（使用[间隔号](../Page/间隔号.md "wikilink")）、**o•**（使用[着重号](../Page/着重号.md "wikilink")）、**oo**或者**ou**。在其他的書寫系統中，多寫作**oo**。
 

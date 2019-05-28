@@ -2,7 +2,7 @@
 
 ## 背景
 
-2015年8月24日，韓國媒體《new1》引述相關人士的消息，指出CNBLUE將會在9月推出韓語正規專輯\[2\]，隨後8月28日[FNC娛樂在CNBLUE官方](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")[Facebook發布兩個版本的專輯封面](../Page/Facebook.md "wikilink")，也確定了專輯名字為《2gether》，將在9月14日發行\[3\]。
+2015年8月24日，韓國媒體《new1》引述相關人士的消息，指出CNBLUE將會在9月推出韓語正規專輯\[2\]，隨後8月28日[FNC娛樂在CNBLUE官方](../Page/FNC娛樂.md "wikilink")[Facebook發布兩個版本的專輯封面](../Page/Facebook.md "wikilink")，也確定了專輯名字為《2gether》，將在9月14日發行\[3\]。
 
 9月2日到9月3日，CNBLUE在Fascebook發放分別發布了兩組不同的專輯概念照片\[4\]\[5\]；稍後亦宣布將在10月舉行演唱會《2015
 CNBLUE LIVE \[COME TOGETHER\] IN SEOUL》以作宣傳\[6\]
@@ -125,8 +125,8 @@ CNBLUE LIVE \[COME TOGETHER\] IN SEOUL》以作宣傳\[6\]
 <td><p>韓國</p></td>
 <td><p>2015年9月14日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FNC娛樂" title="wikilink">FNC娛樂</a><br />
-<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></p></td>
+<td><p><a href="../Page/FNC娛樂.md" title="wikilink">FNC娛樂</a><br />
+<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p></td>
 </tr>
 <tr class="even">
 <td><p>台灣</p></td>

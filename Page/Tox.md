@@ -3,7 +3,7 @@
 ## 历史
 
 2013年6月23日**Tox**原始代码由用户irungentoo托管于GitHub上 \[2\]。2014年2月3日，可供用户测试使用的技术预览版二进制文件发布，此后的nightly版本通过[Jenkins
-Automatron发布](https://zh.wikipedia.org/wiki/Jenkins_\(软件\) "wikilink")\[3\]。2014年7月12日，Tox的开发进入了alpha阶段，网站的下载页面也被重新设计公布。
+Automatron发布](../Page/Jenkins_\(软件\).md "wikilink")\[3\]。2014年7月12日，Tox的开发进入了alpha阶段，网站的下载页面也被重新设计公布。
 
 ## 特点
 

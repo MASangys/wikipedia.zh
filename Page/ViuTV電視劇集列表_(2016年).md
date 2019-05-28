@@ -37,7 +37,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>06/04-<br />
 03/05</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Monstar" title="wikilink">Monstar</a><br />
+<td style="text-align: center;"><p><a href="../Page/Monstar.md" title="wikilink">Monstar</a><br />
 Monstar</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
@@ -137,7 +137,7 @@ Advertising Genius Lee Tae Baek</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>29/12-<br />
 06/03<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">續17年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/愛情悠悠藥草香" title="wikilink">愛情悠悠藥草香</a><br />
 The War Of Beauties</p></td>
 <td style="text-align: center;"><p>48</p></td>
@@ -223,7 +223,7 @@ Witch You…Beauty</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>25/08-<br />
 28/09</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/密會" title="wikilink">密會</a><br />
+<td style="text-align: center;"><p><a href="../Page/密會.md" title="wikilink">密會</a><br />
 Secret Affair</p></td>
 <td style="text-align: center;"><p>24</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
@@ -302,7 +302,7 @@ Temptation</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>10/11-<br />
 15/12</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/勇敢說出我愛你" title="wikilink">勇敢說出我愛你</a><br />
+<td style="text-align: center;"><p><a href="../Page/勇敢說出我愛你.md" title="wikilink">勇敢說出我愛你</a><br />
 Say I Love You</p></td>
 <td style="text-align: center;"><p>25</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
@@ -316,7 +316,7 @@ Say I Love You</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>16/12-<br />
 20/01<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">續17年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/沒有名字的甜點店" title="wikilink">沒有名字的甜點店</a><br />
 Amour et Pâtisserie</p></td>
 <td style="text-align: center;"><p>23</p></td>
@@ -485,7 +485,7 @@ Lucky Romance</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>29/12-<br />
 24/01<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">續17年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/再見黑先生" title="wikilink">再見黑先生</a><br />
 Goodbye Mr. Black</p></td>
 <td style="text-align: center;"><p>18</p></td>
@@ -625,7 +625,7 @@ Margaret &amp; David - Green Bean</p></td>
 Before Green Bean</p></td>
 <td style="text-align: center;"><p>4</p></td>
 <td style="text-align: center;"><p><a href="../Page/邵仲衡.md" title="wikilink">邵仲衡</a>、<a href="../Page/黃心美.md" title="wikilink">黃心美</a>、<a href="../Page/曾美華.md" title="wikilink">曾美華</a>、<br />
-<a href="../Page/朱鑑然.md" title="wikilink">朱鑑然</a>、<a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a>、<a href="../Page/柳俊江.md" title="wikilink">柳俊江</a></p></td>
+<a href="../Page/朱鑑然.md" title="wikilink">朱鑑然</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/柳俊江.md" title="wikilink">柳俊江</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/南方舞廳" title="wikilink">南方舞廳</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>主：我們的（<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>）</p></td>
@@ -634,7 +634,7 @@ Before Green Bean</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>25/07-<br />
 31/01<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">續17年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/三一如三.md" title="wikilink">三一如三</a><br />
 3 X 1</p></td>
 <td style="text-align: center;"><p>56</p></td>
@@ -705,7 +705,7 @@ Neko Samurai Season 2 Sp</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>15/12-<br />
 19/01<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">續17年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/貓侍.md" title="wikilink">貓侍</a>（第二季）<br />
 Neko Samurai Season S2</p></td>
 <td style="text-align: center;"><p>11</p></td>
@@ -909,7 +909,7 @@ Age Harassment</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>25/06-<br />
 03/09</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/信長協奏曲" title="wikilink">信長協奏曲</a><br />
+<td style="text-align: center;"><p><a href="../Page/信長協奏曲.md" title="wikilink">信長協奏曲</a><br />
 Nobunaga Concerto</p></td>
 <td style="text-align: center;"><p>11</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
@@ -937,7 +937,7 @@ Border</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>12/11-<br />
 25/02<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">續17年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/惡作劇之吻～Love_in_TOKYO" title="wikilink">惡作劇之吻2</a><br />
 Mischievous Kiss 2 - Love in Tokyo</p></td>
 <td style="text-align: center;"><p>16</p></td>
@@ -1027,7 +1027,7 @@ Naomi and Kanako</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>10/12-<br />
 25/02<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">續17年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/火之粉" title="wikilink">火之粉</a><br />
 The Sparks</p></td>
 <td style="text-align: center;"><p>9</p></td>
@@ -1225,7 +1225,7 @@ Hirugao - Love Affairs In The Afternoon</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>27/11-<br />
 07/05<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">續17年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/小站_(電視劇).md" title="wikilink">小站</a><br />
 The Late Night Stop</p></td>
 <td style="text-align: center;"><p>47</p></td>
@@ -1326,7 +1326,7 @@ Sweet Mob Family</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>25/12-<br />
 07/05<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2017年)" title="wikilink">續17年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">續17年</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/回答吧！1994" title="wikilink">回答吧！1994</a><br />
 Reply 1994</p></td>
 <td style="text-align: center;"><p>34</p></td>
@@ -1404,7 +1404,7 @@ Wise and Foolish Special</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>19/06-<br />
 10/07</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Specialist" title="wikilink">Specialist 特別篇</a><br />
+<td style="text-align: center;"><p><a href="../Page/Specialist.md" title="wikilink">Specialist 特別篇</a><br />
 Specialist Special</p></td>
 <td style="text-align: center;"><p>4</p></td>
 <td style="text-align: center;"><p><a href="../Page/草彅剛.md" title="wikilink">草彅剛</a></p></td>
@@ -1417,7 +1417,7 @@ Specialist Special</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>17/07-<br />
 21/08</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Specialist" title="wikilink">Specialist</a><br />
+<td style="text-align: center;"><p><a href="../Page/Specialist.md" title="wikilink">Specialist</a><br />
 Specialist</p></td>
 <td style="text-align: center;"><p>6<br />
 (10)</p></td>
@@ -1491,7 +1491,7 @@ Transit Girls</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>29/08-<br />
 19/09</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Specialist" title="wikilink">Specialist</a><br />
+<td style="text-align: center;"><p><a href="../Page/Specialist.md" title="wikilink">Specialist</a><br />
 Specialist</p></td>
 <td style="text-align: center;"><p>4<br />
 (10)</p></td>
@@ -1585,7 +1585,7 @@ Memento of Mom's Life</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>01/07</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ST_警視廳科學特搜班" title="wikilink">ST 警視廳科學特搜班</a><br />
+<td style="text-align: center;"><p><a href="../Page/ST_警視廳科學特搜班.md" title="wikilink">ST 警視廳科學特搜班</a><br />
 ST MPD Scientific Investigation Squad SP</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><p><a href="../Page/藤原龍也.md" title="wikilink">藤原龍也</a>、<a href="https://zh.wikipedia.org/wiki/岡田將生" title="wikilink">岡田將生</a></p></td>
@@ -1611,7 +1611,7 @@ Snow Jack</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>26/12</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/ST_警視廳科學特搜班" title="wikilink">ST 警視廳科學特搜班</a><br />
+<td style="text-align: center;"><p><a href="../Page/ST_警視廳科學特搜班.md" title="wikilink">ST 警視廳科學特搜班</a><br />
 ST MPD Scientific Investigation Squad SP</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><div style="text-align: center;">

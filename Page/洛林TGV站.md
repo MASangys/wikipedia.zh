@@ -30,7 +30,7 @@ TER Lorraine）开行了摆渡巴士（Bus Navette），以方便在洛林TGV站
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/戴高乐机场2号航站楼站" title="wikilink">戴高乐机场</a>—<a href="https://zh.wikipedia.org/wiki/斯特拉斯堡站" title="wikilink">斯特拉斯堡</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/布鲁塞尔南站" title="wikilink">布鲁塞尔</a>/<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔</a>—<a href="https://zh.wikipedia.org/wiki/斯特拉斯堡站" title="wikilink">斯特拉斯堡</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/布鲁塞尔南站.md" title="wikilink">布鲁塞尔</a>/<a href="https://zh.wikipedia.org/wiki/里尔欧洲站" title="wikilink">里尔</a>—<a href="https://zh.wikipedia.org/wiki/斯特拉斯堡站" title="wikilink">斯特拉斯堡</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="../Page/雷恩站.md" title="wikilink">雷恩</a>—<a href="https://zh.wikipedia.org/wiki/斯特拉斯堡站" title="wikilink">斯特拉斯堡</a></p></td>

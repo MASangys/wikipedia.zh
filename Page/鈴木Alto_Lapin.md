@@ -10,7 +10,7 @@ Lapin（）乃是[日本](../Page/日本.md "wikilink")[鈴木公司自](https:/
 
 2002年 - 1月22日正式發售第一代Alto
 Lapin，設計理念為略帶[弧形的四方體](https://zh.wikipedia.org/wiki/弧形 "wikilink")，於是車窗、前後保桿、頭尾燈組、進氣壩等處，乃至於內裝的中控台、音響面板等皆依此一理念貫穿。[底盤佈局和](https://zh.wikipedia.org/wiki/底盤 "wikilink")[鈴木MR
-Wagon一樣](https://zh.wikipedia.org/wiki/鈴木MR_Wagon "wikilink")，將[避震器往後挪移](https://zh.wikipedia.org/wiki/阻尼器 "wikilink")，前[懸吊系統則增加橫力控制](../Page/懸吊系統.md "wikilink")[彈簧](https://zh.wikipedia.org/wiki/彈簧 "wikilink")，可消除施加在避震筒支柱的橫力並減少摩擦。動力心臟則是658c.c.直列三缸DOHC
+Wagon一樣](../Page/鈴木MR_Wagon.md "wikilink")，將[避震器往後挪移](https://zh.wikipedia.org/wiki/阻尼器 "wikilink")，前[懸吊系統則增加橫力控制](../Page/懸吊系統.md "wikilink")[彈簧](https://zh.wikipedia.org/wiki/彈簧 "wikilink")，可消除施加在避震筒支柱的橫力並減少摩擦。動力心臟則是658c.c.直列三缸DOHC
 VVT
 [K6A型引擎](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")，搭配四速自動排檔變速箱後可輸出54ps
 / 6,500rpm的最大[馬力](../Page/馬力.md "wikilink")、6.4kg·m /
@@ -59,7 +59,7 @@ Lapin於11月26日正式面世\[8\]，[軸距比前一代多出](https://zh.wiki
 Concept」[敞篷](https://zh.wikipedia.org/wiki/敞篷車 "wikilink")[概念車](../Page/概念車.md "wikilink")，但不預訂量產化。10月廢除三種車色，並將EBD[電子制動力分配系統列入](https://zh.wikipedia.org/wiki/電子制動力分配系統 "wikilink")「G」車型的標準配備。
 
 2010年 - 1月22日推出「Lapin X
-Limited」特仕車，以「X」車型為基礎外加專屬車色、HID頭燈和黑色內裝等。同年5月1日，全車系捨棄自排變速箱，同步採用[CVT](../Page/無段自動變速器.md "wikilink")。8月20日實施部分改良（2型），和[鈴木Palette](https://zh.wikipedia.org/wiki/鈴木Palette "wikilink")、[第七代鈴木Alto一樣改採附有副變速機構的CVT](https://zh.wikipedia.org/wiki/鈴木Alto#第七代HA25S/25V/35S型（2009年-2014年） "wikilink")，以提升[油耗表現](../Page/汽车燃油经济性.md "wikilink")。尾燈改成[LED](https://zh.wikipedia.org/wiki/LED "wikilink")，內裝改成[棕色](https://zh.wikipedia.org/wiki/棕色 "wikilink")。11月25日發售「Limited」特仕車，以「G」車型為基礎外加白色尾翼、附有Lapin標誌的輪圈蓋、銀色進氣壩、附方向燈的後視鏡、駕駛座加熱功能、後座喇叭等配備。
+Limited」特仕車，以「X」車型為基礎外加專屬車色、HID頭燈和黑色內裝等。同年5月1日，全車系捨棄自排變速箱，同步採用[CVT](../Page/無段自動變速器.md "wikilink")。8月20日實施部分改良（2型），和[鈴木Palette](../Page/鈴木Palette.md "wikilink")、[第七代鈴木Alto一樣改採附有副變速機構的CVT](https://zh.wikipedia.org/wiki/鈴木Alto#第七代HA25S/25V/35S型（2009年-2014年） "wikilink")，以提升[油耗表現](../Page/汽车燃油经济性.md "wikilink")。尾燈改成[LED](https://zh.wikipedia.org/wiki/LED "wikilink")，內裝改成[棕色](https://zh.wikipedia.org/wiki/棕色 "wikilink")。11月25日發售「Limited」特仕車，以「G」車型為基礎外加白色尾翼、附有Lapin標誌的輪圈蓋、銀色進氣壩、附方向燈的後視鏡、駕駛座加熱功能、後座喇叭等配備。
 
 2011年 - 為了紀念上市十週年，11月21日推出「10th Anniversary
 Limited」特仕車\[10\]，以「X」車型為藍本外加專屬銘牌、進氣壩、鍍鉻車門手把、前車門安裝超級防[紫外線](https://zh.wikipedia.org/wiki/紫外線 "wikilink")[玻璃](../Page/玻璃.md "wikilink")\[11\]、可調整亮度並附專屬銘牌之[儀表板](../Page/汽車儀表.md "wikilink")、專屬鋁框、駕駛座加熱功能、專屬前座腳踏墊、手機置放盒等配備，並有8種車色可選。

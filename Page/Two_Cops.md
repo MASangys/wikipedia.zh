@@ -90,7 +90,7 @@ Cops》描述被騙子靈魂附身的刑警東卓和潑辣女記者宋智安（[
 <td><p><a href="../Page/李對淵.md" title="wikilink">李對淵</a></p></td>
 <td><p>劉正滿</p></td>
 <td><p>首爾中央警察署 重案2組 組長。是2組的大家長，常頂著上司命令幫助車東卓。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馮瀚輝" title="wikilink">馮瀚輝</a></p></td>
+<td><p><a href="../Page/馮瀚輝.md" title="wikilink">馮瀚輝</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -311,7 +311,7 @@ Cops》描述被騙子靈魂附身的刑警東卓和潑辣女記者宋智安（[
 <td><p><a href="https://zh.wikipedia.org/wiki/千載寅" title="wikilink">千載寅</a></p></td>
 <td><p>李秀英</p></td>
 <td><p>女高中生，因為需要錢上大學，而遭到工作仲介欺騙，靠自己逃出，暈倒在路邊被人發現。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/王綺婷" title="wikilink">王綺婷</a></p></td>
+<td><p><a href="../Page/王綺婷.md" title="wikilink">王綺婷</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/朴_真珠" title="wikilink">朴真珠</a></p></td>
@@ -329,7 +329,7 @@ Cops》描述被騙子靈魂附身的刑警東卓和潑辣女記者宋智安（[
 <td><p><a href="../Page/趙宇麗.md" title="wikilink">趙宇麗</a></p></td>
 <td><p>金美娜</p></td>
 <td><p>美娜（13～16集）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/王綺婷" title="wikilink">王綺婷</a></p></td>
+<td><p><a href="../Page/王綺婷.md" title="wikilink">王綺婷</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -347,7 +347,7 @@ Cops》描述被騙子靈魂附身的刑警東卓和潑辣女記者宋智安（[
 <td></td>
 <td><p>韓美淑</p></td>
 <td><p>45歲。金鐘斗的妻子，丈夫死後賣掉房子躲了起來。16年前，丈夫有筆錢，所以跟著出國到菲律賓生活，後來錢都花玩了，丈夫說回到韓國就可以拿到更多錢，而與丈夫一起回國。然而回國後，丈夫去拿錢當天卻死了。丈夫明明不會抽菸卻遺留可疑的打火機。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張惠雯" title="wikilink">張惠雯</a></p></td>
+<td><p><a href="../Page/張惠雯.md" title="wikilink">張惠雯</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -642,11 +642,11 @@ Cops》描述被騙子靈魂附身的刑警東卓和潑辣女記者宋智安（[
 ## 同時段競爭作品
 
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[魔女的法庭](../Page/魔女的法庭.md "wikilink")》、《[Jugglers](https://zh.wikipedia.org/wiki/Jugglers "wikilink")》
+    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[魔女的法庭](../Page/魔女的法庭.md "wikilink")》、《[Jugglers](../Page/Jugglers.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[疑問的一勝](https://zh.wikipedia.org/wiki/疑問的一勝 "wikilink")》
+    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[疑問的一勝](../Page/疑問的一勝.md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink")
-    [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[今生是第一次](../Page/今生是第一次.md "wikilink")》、《[沒禮貌的英愛小姐16](https://zh.wikipedia.org/wiki/沒禮貌的英愛小姐16 "wikilink")》
+    [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[今生是第一次](../Page/今生是第一次.md "wikilink")》、《[沒禮貌的英愛小姐16](../Page/沒禮貌的英愛小姐16.md "wikilink")》
 
 ## 獎項
 
@@ -663,7 +663,7 @@ Cops》描述被騙子靈魂附身的刑警東卓和潑辣女記者宋智安（[
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017_MBC演技大獎" title="wikilink">MBC演技大賞</a></p></td>
+<td><p><a href="../Page/2017_MBC演技大獎.md" title="wikilink">MBC演技大賞</a></p></td>
 <td><p>大賞</p></td>
 <td><p><a href="../Page/曹政奭.md" title="wikilink">曹政奭</a></p></td>
 <td></td>

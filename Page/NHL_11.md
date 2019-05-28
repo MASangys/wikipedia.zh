@@ -1,5 +1,5 @@
 是一款[冰球类](../Page/冰球.md "wikilink")[电子游戏](../Page/电子游戏.md "wikilink")。本游戏成为庆祝《[NHL系列](../Page/NHL系列.md "wikilink")》20周年之作。\[1\]
-游戏由[EA加拿大制作](https://zh.wikipedia.org/wiki/EA加拿大 "wikilink")、[EA
+游戏由[EA加拿大制作](../Page/EA加拿大.md "wikilink")、[EA
 Sports发行](../Page/EA_Sports.md "wikilink")。于2010年9月7日在北美发行，其他地区在两周内发行。游戏具有以物理为基础的引擎，取代了旧的以动画为基础的引擎。这一变化被《NHL
 11》的制作人Sean Ramjagsingh所夸耀，称其为《NHL
 11》的最大变化。其他一个巨大变化是游戏引入了折断的球杆。这个意味着当玩家击球时，可能会把球杆弄断。由于《NHL

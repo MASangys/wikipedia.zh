@@ -101,7 +101,7 @@ WollMux自2008年5月底以来是公开可用的自由软件。
   - 2013年12月 – 慕尼黑开源切换“成功完成”\[30\]
 
   - 2014年8月 – 慕尼黑副市长Josef
-    Schmid和市长[迪特·萊特考虑因](https://zh.wikipedia.org/wiki/迪特·萊特 "wikilink")[生产力问题而迁回Windows](https://zh.wikipedia.org/wiki/生产率 "wikilink")。慕尼黑市议会发言人Stefan
+    Schmid和市长[迪特·萊特考虑因](../Page/迪特·萊特.md "wikilink")[生产力问题而迁回Windows](https://zh.wikipedia.org/wiki/生产率 "wikilink")。慕尼黑市议会发言人Stefan
     Hauf解释说，大多数问题源于OpenOffice中的兼容性问题，有时切换到[LibreOffice能够解决](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")。\[31\]此外，市议会和市政IT服务主管Karl-Heinz
     Schneider表示，大多数情况都很好，他们节省了1000万欧元（超过1300万美元），没有迫切的理由迁回。他补充说，投诉和故障的数量不会超过这一规模的行政部门的通常数量。\[32\]微软希望2016年将德国总部迁移到慕尼黑，helped
     by Reiter who describes himself as a "Microsoft
@@ -114,7 +114,7 @@ WollMux自2008年5月底以来是公开可用的自由软件。
   - 2015年8月/9月 – LiMux的Jan-Marek
     Glogowski在Debian会议和LibreOffice会议的“Debian成功案例”中介绍了项目有关状态。\[38\]\[39\]
   - 2017年2月 - 政客们讨论一项提案，就使用一个基于[Windows
-    10的客户端替换议会中使用的基于Linux的操作系统](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。\[40\]
+    10的客户端替换议会中使用的基于Linux的操作系统](../Page/Windows_10.md "wikilink")。\[40\]
   - 2017年10月 -
     曾被视为开放源代码坚定支持者的市议会表示，在其PC上运行基于Linux的操作系统从长远来看不具备[性價比](../Page/性價比.md "wikilink")。\[41\]\[42\]
   - 2017年11月 -
@@ -146,7 +146,7 @@ Firefox和Mozilla Thunderbird也在其中，采用ESR版本，并附带KDE集成
 
   - [浪潮集团](../Page/浪潮集团.md "wikilink")
 
-  - [Linux的採用](https://zh.wikipedia.org/wiki/Linux的採用 "wikilink")
+  - [Linux的採用](../Page/Linux的採用.md "wikilink")
 
   - [Nova (作業系統)](../Page/Nova_\(作業系統\).md "wikilink")
 

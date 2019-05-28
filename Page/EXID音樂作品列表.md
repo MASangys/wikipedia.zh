@@ -115,7 +115,7 @@ Down](https://zh.wikipedia.org/wiki/Up_&_Down_\(EXID單曲\) "wikilink")》回�
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Full_Moon_(EXID迷你專輯)" title="wikilink">Full Moon</a></p></td>
+<td><p><a href="../Page/Full_Moon_(EXID迷你專輯).md" title="wikilink">Full Moon</a></p></td>
 <td><ul>
 <li>發行日期：2017年11月7日</li>
 <li>廠牌：香蕉文化、索尼音樂娛樂</li>
@@ -860,7 +860,7 @@ List of music videos, showing year released and director
 </tr>
 <tr class="odd">
 <td><p>11月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/少年共和國" title="wikilink">少年共和國</a></p></td>
+<td><p><a href="../Page/少年共和國.md" title="wikilink">少年共和國</a></p></td>
 <td><p>Round</p></td>
 <td><p>LE</p></td>
 <td></td>
@@ -1761,7 +1761,7 @@ Dr. Lee</p></td>
 <tr class="even">
 <td><p>2014年</p></td>
 <td><p>11月6日</p></td>
-<td><p>SBS《<a href="https://zh.wikipedia.org/wiki/對我而言可愛的她" title="wikilink">對我而言可愛的她</a>》</p></td>
+<td><p>SBS《<a href="../Page/對我而言可愛的她.md" title="wikilink">對我而言可愛的她</a>》</p></td>
 <td><p>Kiss me</p></td>
 <td></td>
 <td></td>
@@ -1793,7 +1793,7 @@ Dr. Lee</p></td>
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p>10月20日</p></td>
-<td><p>KBS《<a href="https://zh.wikipedia.org/wiki/魔女的法庭" title="wikilink">魔女的法庭</a>》</p></td>
+<td><p>KBS《<a href="../Page/魔女的法庭.md" title="wikilink">魔女的法庭</a>》</p></td>
 <td><p>在风中等待</p></td>
 <td></td>
 <td></td>

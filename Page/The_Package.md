@@ -55,7 +55,7 @@ Package**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <tr class="even">
 <td><p><a href="../Page/柳承秀.md" title="wikilink">柳承秀</a></p></td>
 <td><p>鄭言成</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柯偉聰" title="wikilink">柯偉聰</a></p></td>
+<td><p><a href="../Page/柯偉聰.md" title="wikilink">柯偉聰</a></p></td>
 <td><p>與妻子認識不足一年便誕下女兒娜賢，後因妻子車禍離世而獨自撫養女兒成人。</p></td>
 </tr>
 <tr class="odd">
@@ -99,7 +99,7 @@ Package**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <tr class="even">
 <td><p><a href="../Page/成東鎰.md" title="wikilink">成東鎰</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/郭湛深" title="wikilink">郭湛深</a></p></td>
+<td><p><a href="../Page/郭湛深.md" title="wikilink">郭湛深</a></p></td>
 <td><p>素素所屬旅行社的老闆。</p></td>
 </tr>
 <tr class="odd">
@@ -129,7 +129,7 @@ Package**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <tr class="odd">
 <td><p><a href="../Page/朴柱亨.md" title="wikilink">朴柱亨</a></p></td>
 <td><p>金太英</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/郭湛深" title="wikilink">郭湛深</a></p></td>
+<td><p><a href="../Page/郭湛深.md" title="wikilink">郭湛深</a></p></td>
 <td><p>素蘭公司的組長，打算在素蘭結束休假後向她告白。</p></td>
 </tr>
 <tr class="even">
@@ -147,19 +147,19 @@ Package**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柯偉聰" title="wikilink">柯偉聰</a></p></td>
+<td><p><a href="../Page/柯偉聰.md" title="wikilink">柯偉聰</a></p></td>
 <td><p>斗麗的爸爸。</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/郭湛深" title="wikilink">郭湛深</a></p></td>
+<td><p><a href="../Page/郭湛深.md" title="wikilink">郭湛深</a></p></td>
 <td><p>世界製藥部長。</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>金科長</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柯偉聰" title="wikilink">柯偉聰</a></p></td>
+<td><p><a href="../Page/柯偉聰.md" title="wikilink">柯偉聰</a></p></td>
 <td><p>世界製藥科長，馬陸的上司。</p></td>
 </tr>
 <tr class="odd">
@@ -335,7 +335,7 @@ Package**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink"
 
   - [KBS2](../Page/韓國放送公社.md "wikilink")
     [金土連續劇](https://zh.wikipedia.org/wiki/KBS金土連續劇 "wikilink")：《[Go
-    Back夫婦](https://zh.wikipedia.org/wiki/Go_Back夫婦 "wikilink")》
+    Back夫婦](../Page/Go_Back夫婦.md "wikilink")》
 
 ## 記事
 

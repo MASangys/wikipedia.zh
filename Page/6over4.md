@@ -29,7 +29,7 @@
 6over4依赖于IPv4多播的可用性，但IPv4网络基础设施并未得到广泛的支持。 6over4实际使用有限，并且不被最常见的操作系统支持。
 要连接不同物理链路上的IPv6主机，必须在连接链路的路由器上启用IPv4组播路由。
 
-对于不依赖IPv4网络多播的话，[ISATAP是更复杂的替代方案](https://zh.wikipedia.org/wiki/ISATAP "wikilink")。
+对于不依赖IPv4网络多播的话，[ISATAP是更复杂的替代方案](../Page/ISATAP.md "wikilink")。
 
 ## 参考文献
 

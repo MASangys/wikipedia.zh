@@ -74,13 +74,12 @@ MAXApp是一个在Android和iOS系统中都可以使用的免费移动应用终�
 
   - Juliet Corbin and Anselm Strauss: Basics of Qualitative Research:
     Techniques and Procedures for Developing Grounded Theory, 3rd
-    edition, 2008, [Sage
-    Publications](https://zh.wikipedia.org/wiki/賽吉出版公司 "wikilink"),
+    edition, 2008, [Sage Publications](../Page/賽吉出版公司.md "wikilink"),
     Los Angeles, London, New Delhi, Singapore
   - Ann Lewins and Christina Silver: Using Software in Qualitative
     Research: A Step-by-Step Guide, 2nd edition, 2014, [Sage
-    Publications](https://zh.wikipedia.org/wiki/賽吉出版公司 "wikilink"), Los
-    Angeles, London, New Delhi, Singapore
+    Publications](../Page/賽吉出版公司.md "wikilink"), Los Angeles, London,
+    New Delhi, Singapore
 
 ## 參考文獻
 

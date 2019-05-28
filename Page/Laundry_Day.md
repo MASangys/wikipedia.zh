@@ -1,5 +1,5 @@
 《**Laundry
-Day**》（）是韓國[OnStyle的綜藝節目](https://zh.wikipedia.org/wiki/OnStyle "wikilink")\[1\]，由藝人[盧弘喆](../Page/盧弘喆.md "wikilink")、藝人[許志雄](https://zh.wikipedia.org/wiki/許志雄 "wikilink")、模特兒[韓惠珍](https://zh.wikipedia.org/wiki/韓惠珍_\(模特兒\) "wikilink")、造型師[韓慧妍](https://zh.wikipedia.org/wiki/韓慧妍 "wikilink")、藝人[Irene主持](../Page/Irene_\(Red_Velvet\).md "wikilink")\[2\]，每期會邀請大韓民國的"大勢"來賓，透過嘉賓帶來的要洗的衣服來瞭解最新潮流資訊、服裝取向品味，以及穿搭小技巧等，以及由此衍生出來的音樂、藝術等多方位談話性綜藝節目。
+Day**》（）是韓國[OnStyle的綜藝節目](../Page/OnStyle.md "wikilink")\[1\]，由藝人[盧弘喆](../Page/盧弘喆.md "wikilink")、藝人[許志雄](https://zh.wikipedia.org/wiki/許志雄 "wikilink")、模特兒[韓惠珍](../Page/韓惠珍_\(模特兒\).md "wikilink")、造型師[韓慧妍](https://zh.wikipedia.org/wiki/韓慧妍 "wikilink")、藝人[Irene主持](../Page/Irene_\(Red_Velvet\).md "wikilink")\[2\]，每期會邀請大韓民國的"大勢"來賓，透過嘉賓帶來的要洗的衣服來瞭解最新潮流資訊、服裝取向品味，以及穿搭小技巧等，以及由此衍生出來的音樂、藝術等多方位談話性綜藝節目。
 
 ## 各集資訊
 
@@ -34,7 +34,7 @@ Day**》（）是韓國[OnStyle的綜藝節目](https://zh.wikipedia.org/wiki/On
 <tr class="even">
 <td><p>4</p></td>
 <td><p>2016年11月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>(<a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">瑟琪</a>、<a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a>)</p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>(<a href="../Page/瑟琪.md" title="wikilink">瑟琪</a>、<a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -46,13 +46,13 @@ Day**》（）是韓國[OnStyle的綜藝節目](https://zh.wikipedia.org/wiki/On
 <tr class="even">
 <td><p>6</p></td>
 <td><p>2016年11月26日</p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/安英美" title="wikilink">安英美</a>、<a href="https://zh.wikipedia.org/wiki/金在宇" title="wikilink">金在宇</a></p></td>
+<td><p>、<a href="../Page/安英美.md" title="wikilink">安英美</a>、<a href="https://zh.wikipedia.org/wiki/金在宇" title="wikilink">金在宇</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p>2016年12月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/孝淵" title="wikilink">孝淵</a>(<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>)、<a href="https://zh.wikipedia.org/wiki/朱宇宰" title="wikilink">朱宇宰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/孝淵" title="wikilink">孝淵</a>(<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>)、<a href="../Page/朱宇宰.md" title="wikilink">朱宇宰</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -70,7 +70,7 @@ Day**》（）是韓國[OnStyle的綜藝節目](https://zh.wikipedia.org/wiki/On
 <tr class="even">
 <td><p>10</p></td>
 <td><p>2016年12月24日</p></td>
-<td><p>、、<a href="../Page/趙美慧.md" title="wikilink">Miryo</a>、<a href="../Page/Berry_Good.md" title="wikilink">Berry Good</a>、、<a href="https://zh.wikipedia.org/wiki/孫勝完" title="wikilink">Wendy</a>(<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>)</p></td>
+<td><p>、、<a href="../Page/趙美慧.md" title="wikilink">Miryo</a>、<a href="../Page/Berry_Good.md" title="wikilink">Berry Good</a>、、<a href="https://zh.wikipedia.org/wiki/孫勝完" title="wikilink">Wendy</a>(<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">

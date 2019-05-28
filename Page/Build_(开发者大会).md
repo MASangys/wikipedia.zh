@@ -76,7 +76,7 @@ x360[ultrabook](https://zh.wikipedia.org/wiki/ultrabook "wikilink").\[11\]
 
 亮点:
 
-  - [Windows 10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
+  - [Windows 10](../Page/Windows_10.md "wikilink")
   - [Windows 10
     移动版](https://zh.wikipedia.org/wiki/Windows_10_移动版 "wikilink")
   - [HoloLens](https://zh.wikipedia.org/wiki/HoloLens "wikilink") 和

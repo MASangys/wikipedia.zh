@@ -11,7 +11,7 @@
 ## 主持人
 
   - 2014年3月1日-2014年6月1日：[王軍凱](https://zh.wikipedia.org/wiki/王軍凱 "wikilink")、[呂佳宜](../Page/呂佳宜.md "wikilink")
-  - 2014年6月7日-至今：[王軍凱](https://zh.wikipedia.org/wiki/王軍凱 "wikilink")、[朱芳君](https://zh.wikipedia.org/wiki/朱芳君 "wikilink")
+  - 2014年6月7日-至今：[王軍凱](https://zh.wikipedia.org/wiki/王軍凱 "wikilink")、[朱芳君](../Page/朱芳君.md "wikilink")
 
 ## 播出時間
 

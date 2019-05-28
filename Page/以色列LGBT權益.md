@@ -21,7 +21,7 @@
 | 男同性恋情侣商业代孕                                                           | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")（自2014年）    |
 | [男男性接触人群](https://zh.wikipedia.org/wiki/男男性接触人群 "wikilink")（MSM）允许献血 | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                     |
 | [男男性接触人群的女性性伴允许献血](https://zh.wikipedia.org/wiki/男男性接触人群 "wikilink") | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")            |
-| [女女性接触人群](https://zh.wikipedia.org/wiki/女女性行为 "wikilink")（WSW）允许献血   | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")            |
+| [女女性接触人群](../Page/女女性行为.md "wikilink")（WSW）允许献血                      | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")            |
 
   - 注释
 

@@ -14,7 +14,7 @@ JR東海在2008年宣布名古屋站上蓋重建計劃，原計劃樓高55層，
 
 大廈樓高46層，分為商場、酒店及辦公室。地下至11樓是商場部份，租戶包括地下至7樓的[高島屋百貨](../Page/高島屋.md "wikilink")（Gatetower
 Mall）、8樓的[三省堂書店](../Page/三省堂書店.md "wikilink")、9樓及10樓的[Bic
-Camera以及](https://zh.wikipedia.org/wiki/Bic_Camera "wikilink")11樓的[Uniqlo和](https://zh.wikipedia.org/wiki/Uniqlo "wikilink")[GU](https://zh.wikipedia.org/wiki/GU "wikilink")。12至13樓是食肆專層，設37間餐廳。商場各層設公共座位供遊人休息，多達300張。每層洗手間裝修亦有不同主題，形容為日本最大的\[1\]。
+Camera以及](https://zh.wikipedia.org/wiki/Bic_Camera "wikilink")11樓的[Uniqlo和](https://zh.wikipedia.org/wiki/Uniqlo "wikilink")[GU](../Page/GU.md "wikilink")。12至13樓是食肆專層，設37間餐廳。商場各層設公共座位供遊人休息，多達300張。每層洗手間裝修亦有不同主題，形容為日本最大的\[1\]。
 
 辦公室及JR GATE
 TOWER大飯店入口和大堂設於15樓。同層設戶外庭園、便利店和日本目前最高的[星巴克](https://zh.wikipedia.org/wiki/星巴克 "wikilink")，並設露天花園，讓食客可欣賞到名古屋站一帶的鬧市景色\[2\]。

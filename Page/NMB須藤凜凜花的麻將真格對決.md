@@ -14,7 +14,7 @@ NMB48的須藤凜凜花邀請各界知名人士進行[麻將對局的節目](../
   - NMB48的二名成員以支持者的身份參加錄制，當須藤獲得優勝時獲得獎賞，而最下位時則要接受懲罰遊戲（須藤本人除外）
   - 實際爲對局者頻繁會話的閒聊形式的節目。
   - 其他節目中，對對局內容一般不做剪輯，而本節目中流局等次要的對局常常通過分解簡介的形式快進。
-  - [聽牌時](https://zh.wikipedia.org/wiki/听牌 "wikilink")(包括[立直](../Page/立直.md "wikilink"))[和牌在畫面中顯示](../Page/和_\(日本麻将\).md "wikilink")。
+  - [聽牌時](../Page/听牌.md "wikilink")(包括[立直](../Page/立直.md "wikilink"))[和牌在畫面中顯示](../Page/和_\(日本麻将\).md "wikilink")。
   - 対局中須藤的表情通過画面上的小窗口顯示。\[2\]
   - 対局後，須藤總結當日所學，發表“李立鵬本日格言”。
   - 節目開始時、初回至二十二回爲須藤介紹偉人的[名言](https://zh.wikipedia.org/wiki/格言 "wikilink")。1周年SP之後、須藤展示與當日對局者的即興說唱。
@@ -46,7 +46,7 @@ NMB48的須藤凜凜花邀請各界知名人士進行[麻將對局的節目](../
 
   - [須藤凜凜花](../Page/須藤凜凜花.md "wikilink") -
     參與所有對局。喜歡的役種爲[大車輪](https://zh.wikipedia.org/wiki/大車輪 "wikilink")\[3\]、[開立直](../Page/立直.md "wikilink")。節目初期不會[露副](https://zh.wikipedia.org/wiki/副露 "wikilink")，被調笑爲“李立鵬名字帶碰卻不會碰”。隨播放回數增加漸漸學會路副。有機會時便瞄準西()
-    的[単騎聽牌](https://zh.wikipedia.org/wiki/听牌 "wikilink")(特別是[地獄単騎聽牌](https://zh.wikipedia.org/wiki/听牌 "wikilink"))。
+    的[単騎聽牌](../Page/听牌.md "wikilink")(特別是[地獄単騎聽牌](../Page/听牌.md "wikilink"))。
 
 <!-- end list -->
 

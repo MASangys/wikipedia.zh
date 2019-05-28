@@ -1,6 +1,6 @@
 **K11
 MUSEA**（讀音meu-see-ah）是[香港](../Page/香港.md "wikilink")[尖沙咀海旁的一座將會開放的購物中心](../Page/尖沙咀.md "wikilink")，以購物藝術館為經營理念，位處[新世界集團綜合式大樓](https://zh.wikipedia.org/wiki/新世界集團 "wikilink")[Victoria
-Dockside內](https://zh.wikipedia.org/wiki/Victoria_Dockside "wikilink")，樓高10層，將於2019年第三季開幕。\[1\]
+Dockside內](../Page/Victoria_Dockside.md "wikilink")，樓高10層，將於2019年第三季開幕。\[1\]
 
 ## 基本概念
 

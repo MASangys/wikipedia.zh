@@ -41,7 +41,7 @@ RAGING BLAST 2**》（）收錄播放長度約30分的重製動畫《**七龍珠
 <li>贝吉塔：<a href="../Page/堀川亮.md" title="wikilink">堀川亮</a></li>
 <li>布瑪：<a href="../Page/鶴弘美.md" title="wikilink">鶴弘美</a></li>
 <li>琪琪：<a href="../Page/渡邊菜生子.md" title="wikilink">渡邊菜生子</a></li>
-<li>丹丹：<a href="https://zh.wikipedia.org/wiki/鈴木富子" title="wikilink">鈴木富子</a></li>
+<li>丹丹：<a href="../Page/鈴木富子.md" title="wikilink">鈴木富子</a></li>
 <li>波波：<a href="https://zh.wikipedia.org/wiki/西尾德" title="wikilink">西尾德</a></li>
 <li>莱基：<a href="https://zh.wikipedia.org/wiki/小川真司" title="wikilink">小川真司</a></li>
 <li>弗利扎、克維拉：<a href="../Page/中尾隆聖.md" title="wikilink">中尾隆聖</a></li>

@@ -38,7 +38,7 @@ IPTP 支援 [LinuxMCE](https://zh.wikipedia.org/wiki/LinuxMCE "wikilink") 平台
   - [GlobeNet](https://zh.wikipedia.org/wiki/GlobeNet "wikilink")
   - Mid-Atlantic Crossing (MAC)
   - [ATLANTIS-2](https://zh.wikipedia.org/wiki/ATLANTIS-2 "wikilink")
-  - [SEA-ME-WE 4](https://zh.wikipedia.org/wiki/SEA-ME-WE_4 "wikilink")
+  - [SEA-ME-WE 4](../Page/SEA-ME-WE_4.md "wikilink")
   - [Asia-America
     Gateway](https://zh.wikipedia.org/wiki/Asia-America_Gateway "wikilink")
   - HAWK
@@ -132,7 +132,7 @@ Exchange](https://zh.wikipedia.org/wiki/Telx_Internet_Exchange "wikilink"),\[6\]
   - [印度](../Page/印度.md "wikilink")
       - [孟買](https://zh.wikipedia.org/wiki/孟買 "wikilink")
   - [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
-      - [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")
+      - [首爾](../Page/首爾.md "wikilink")
 
 **美洲**
 

@@ -65,7 +65,7 @@
 <td><p>時京、時英的奶奶。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/白承道" title="wikilink">白承道</a></p></td>
+<td><p><a href="../Page/白承道.md" title="wikilink">白承道</a></p></td>
 <td><p>白承道</p></td>
 <td><p>時京在首爾學校的壞蛋，常霸凌同學，討厭幫忙作證的時京。被罰15天的志願服務來到療養院，再次碰到時京並叫他做一些麻煩的工作，不過這一切在嚴永基的脅迫下有了轉機。</p></td>
 </tr>
@@ -112,7 +112,7 @@
 <td><p>病人。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李相二" title="wikilink">李相二</a></p></td>
+<td><p><a href="../Page/李相二.md" title="wikilink">李相二</a></p></td>
 <td><p>文盛駿</p></td>
 <td></td>
 </tr>

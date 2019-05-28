@@ -4,11 +4,11 @@ Gaming**）是一家中国[电子竞技俱乐部](../Page/电子竞技.md "wikil
 
 ## 历史
 
-2011年，富豪[王健林之子](../Page/王健林.md "wikilink")[王思聪以](https://zh.wikipedia.org/wiki/王思聪 "wikilink")600万美元收购了中国知名的电子竞技队伍Catastrophic
+2011年，富豪[王健林之子](../Page/王健林.md "wikilink")[王思聪以](../Page/王思聪.md "wikilink")600万美元收购了中国知名的电子竞技队伍Catastrophic
 Cruel Memory（CCM），并成立Invictus Gaming，以促进和改善中国专业电竞环境\[1\]。
 
 IG的Dota团队曾赢得2012年[Dota
-2国际邀请赛冠军](https://zh.wikipedia.org/wiki/Dota_2国际邀请赛 "wikilink")，而英雄联盟团队也赢得了2018年[英雄联盟全球总决赛的冠军](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")，因此IG是目前全世界唯一在Dota
+2国际邀请赛冠军](../Page/Dota_2国际邀请赛.md "wikilink")，而英雄联盟团队也赢得了2018年[英雄联盟全球总决赛的冠军](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")，因此IG是目前全世界唯一在Dota
 2和英雄联盟两大DotA類型游戏的最高级赛事中都有夺冠记录的俱乐部。
 
 ## Dota 2分部
@@ -81,8 +81,7 @@ Gaming淘汰而无缘TI正赛](https://zh.wikipedia.org/wiki/Vici_Gaming "wikili
 
 **冠军:**
 
-  - **[Dota
-    2国际邀请赛](https://zh.wikipedia.org/wiki/Dota_2国际邀请赛 "wikilink")(1)：**2012
+  - **[Dota 2国际邀请赛](../Page/Dota_2国际邀请赛.md "wikilink")(1)：**2012
   - **[Dota
     2亚洲邀请赛](https://zh.wikipedia.org/wiki/Dota_2亚洲邀请赛 "wikilink")(1)：**2017
   - 世界电子竞技精英赛(WPC)(1)：2014
@@ -158,7 +157,7 @@ Gaming淘汰而无缘TI正赛](https://zh.wikipedia.org/wiki/Vici_Gaming "wikili
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/徐志雷" title="wikilink">徐志雷</a></p></td>
+<td><p><a href="../Page/徐志雷.md" title="wikilink">徐志雷</a></p></td>
 <td><p>BurNIng</p></td>
 <td></td>
 </tr>
@@ -263,19 +262,19 @@ Gaming的BO3，那场比赛中IG以2-0获胜，之后王思聪便宣告退役。
 
 ### 前著名成员
 
-| 姓名                                                  | ID       |
-| --------------------------------------------------- | -------- |
-| 刘志豪                                                 | Zz1tai   |
-| [葛炎](../Page/葛炎.md "wikilink")                      | Kid      |
-| [刘谋](../Page/刘谋.md "wikilink")                      | PDD      |
-| [孙亚龙](../Page/孙亚龙.md "wikilink")                    | xiaoxiao |
-| [王思聪](https://zh.wikipedia.org/wiki/王思聪 "wikilink") | WXZ      |
+| 姓名                               | ID       |
+| -------------------------------- | -------- |
+| 刘志豪                              | Zz1tai   |
+| [葛炎](../Page/葛炎.md "wikilink")   | Kid      |
+| [刘谋](../Page/刘谋.md "wikilink")   | PDD      |
+| [孙亚龙](../Page/孙亚龙.md "wikilink") | xiaoxiao |
+| [王思聪](../Page/王思聪.md "wikilink") | WXZ      |
 
 ### 荣誉
 
 **冠军:**
 
-  - **[英雄联盟全球总决赛](https://zh.wikipedia.org/wiki/英雄联盟全球总决赛 "wikilink")(1)**：[2018](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")
+  - **[英雄联盟全球总决赛](../Page/英雄联盟全球总决赛.md "wikilink")(1)**：[2018](../Page/英雄联盟2018赛季全球总决赛.md "wikilink")
   - **[英雄联盟职业联赛](../Page/英雄联盟职业联赛.md "wikilink")(1)**：[2019春](../Page/英雄联盟职业联赛2019年春季赛.md "wikilink")
   - **[德玛西亚杯](https://zh.wikipedia.org/wiki/德玛西亚杯 "wikilink")(2)**：2014春、2018冬
   - **[IEM英特尔极限高手杯](https://zh.wikipedia.org/wiki/IEM "wikilink")(1)**：2013（新加坡站）
@@ -283,7 +282,7 @@ Gaming的BO3，那场比赛中IG以2-0获胜，之后王思聪便宣告退役。
 
 **亚军:**
 
-  - **[英雄联盟职业联赛](../Page/英雄联盟职业联赛.md "wikilink")(2)**：2014春、[2018夏](https://zh.wikipedia.org/wiki/英雄联盟职业联赛2018年夏季赛 "wikilink")
+  - **[英雄联盟职业联赛](../Page/英雄联盟职业联赛.md "wikilink")(2)**：2014春、[2018夏](../Page/英雄联盟职业联赛2018年夏季赛.md "wikilink")
   - **[德玛西亚杯](https://zh.wikipedia.org/wiki/德玛西亚杯 "wikilink")(2)**：2015春、2015总决赛
   - **[IEM英特尔极限高手杯](https://zh.wikipedia.org/wiki/IEM "wikilink")(1)**：2013（上海站）
 

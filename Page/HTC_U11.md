@@ -18,7 +18,7 @@ Ultra，U11加入了「炫藍銀」與「豔陽紅」兩新色，且採用鏡面
 RAM/64GB ROM及6GB RAM/128GB ROM。
 
 有別於先前的UltraPixel 2相機，全新的UltraPixel 3相機使用UltraSpeed AF、自動HDR
-Boost™功能使得U11相機在知名評測機構[DxOMark的手機項目獲得第一的](https://zh.wikipedia.org/wiki/DxOMark "wikilink")90分高分，高於對手S8的88分。
+Boost™功能使得U11相機在知名評測機構[DxOMark的手機項目獲得第一的](../Page/DxOMark.md "wikilink")90分高分，高於對手S8的88分。
 
 U11亦延續了U
 Ultra的四顆[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")，可進行3D收音以及可
@@ -233,7 +233,7 @@ Boost™強化了自動HDR的處理速度以及觸發時間，無需等待HDR處
 
 本次的相機也將光學防手震（OIS）及電子防手震（EIS）結合升級成5軸防手震等級，大幅了強化拍照體驗。
 
-相機在評測機構[DxOMark的手機項目得到了最高分](https://zh.wikipedia.org/wiki/DxOMark "wikilink")90分（2017年5月16日時點）\[4\]。
+相機在評測機構[DxOMark的手機項目得到了最高分](../Page/DxOMark.md "wikilink")90分（2017年5月16日時點）\[4\]。
 
 錄影方面提供了3D音效錄影，並可使用Acoustic Focus在畫面拉近被攝對象時，讓收音指向被攝主體上。
 

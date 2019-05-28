@@ -18,7 +18,7 @@
   - [社企銀杏館](../Page/社会企业.md "wikilink")[油麻地店](../Page/油麻地.md "wikilink")「越老」設計項目（銀杏館是專門聘請長者工作的社企）\[29\]\[30\]
   - [PMM Media](https://pmm-media.com/)辦公室設計項目（PMM Media
     是致力推廣[非政府機構為目的的媒體公司](../Page/非政府组织.md "wikilink")）\[31\]\[32\]
-  - 受[香港政府委派研究](../Page/香港特別行政區政府.md "wikilink")[香港的兒童遊樂場](https://zh.wikipedia.org/wiki/香港遊樂場列表 "wikilink")\[33\]\[34\]\[35\]
+  - 受[香港政府委派研究](../Page/香港特別行政區政府.md "wikilink")[香港的兒童遊樂場](../Page/香港遊樂場列表.md "wikilink")\[33\]\[34\]\[35\]
 
 ## 外部連結
 

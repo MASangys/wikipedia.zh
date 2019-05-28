@@ -1,5 +1,5 @@
 **鈴木Hustler**（）是2014年起由[日本](../Page/日本.md "wikilink")[鈴木汽車開發製造的](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")[輕型高頂旅行車](../Page/輕型高頂旅行車.md "wikilink")，其兄弟車為[馬自達Flair
-Crossover](https://zh.wikipedia.org/wiki/馬自達Flair_Crossover "wikilink")。關於車名「Hustler」來自[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「急於行事之人」\[1\]，不過此車名與[美國著名](https://zh.wikipedia.org/wiki/美國 "wikilink")[成人雜誌](https://zh.wikipedia.org/wiki/成人雜誌 "wikilink")《[好色客](../Page/好色客.md "wikilink")》相同，且「hustle」在英文[俚語中意指](https://zh.wikipedia.org/wiki/俚語 "wikilink")[妓女](../Page/性工作者.md "wikilink")[拉客賣淫](../Page/性交易.md "wikilink")。
+Crossover](../Page/馬自達Flair_Crossover.md "wikilink")。關於車名「Hustler」來自[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")「急於行事之人」\[1\]，不過此車名與[美國著名](https://zh.wikipedia.org/wiki/美國 "wikilink")[成人雜誌](https://zh.wikipedia.org/wiki/成人雜誌 "wikilink")《[好色客](../Page/好色客.md "wikilink")》相同，且「hustle」在英文[俚語中意指](https://zh.wikipedia.org/wiki/俚語 "wikilink")[妓女](../Page/性工作者.md "wikilink")[拉客賣淫](../Page/性交易.md "wikilink")。
 
 ## 歷史
 
@@ -26,16 +26,16 @@ Generator之[縮寫](../Page/縮寫.md "wikilink")）與[鋰電池的](https://z
 StyleII」特仕車\[12\]，同月該車款引進[香港市場販售](../Page/香港.md "wikilink")\[13\]。
 
 2016年 -
-10月17日原可對應[CarPlay系統之選購影音系統](https://zh.wikipedia.org/wiki/CarPlay "wikilink")，另擴充成亦可對應[Android
+10月17日原可對應[CarPlay系統之選購影音系統](../Page/CarPlay.md "wikilink")，另擴充成亦可對應[Android
 Auto系統](../Page/Android_Auto.md "wikilink")\[14\]。12月8日發售「F
 Limted」特仕車\[15\]，以G車型為基礎外加槍色保桿、黑色鐵輪圈，並有四種雙色車身塗裝。此外，還有雙鏡頭煞車輔助安全系統可供選購。
 
 2017年 - 5月1日部分改良，更換新車色。
 
 Image:Mazda FLAIR CROSSOVER XS (MS31S) front.JPG|兄弟車[馬自達Flair
-Crossover](https://zh.wikipedia.org/wiki/馬自達Flair_Crossover "wikilink")
-Image:Suzuki HUSTLER G TURBO (MR31S) front.JPG Image:Suzuki HUSTLER J
-STYLE (DAA-MR41S) front.JPG|J Style車型車頭 Image:Suzuki HUSTLER J STYLE
+Crossover](../Page/馬自達Flair_Crossover.md "wikilink") Image:Suzuki
+HUSTLER G TURBO (MR31S) front.JPG Image:Suzuki HUSTLER J STYLE
+(DAA-MR41S) front.JPG|J Style車型車頭 Image:Suzuki HUSTLER J STYLE
 (DAA-MR41S) rear.JPG|J Style車型車尾 Image:Osaka Motor Show 2015 (116) -
 Suzuki HUSTLER J STYLE II (DAA-MR41S).JPG|J Style II車型車頭 Image:Osaka
 Motor Show 2015 (117) - Suzuki HUSTLER J STYLE II (DAA-MR41S).JPG|J
@@ -48,8 +48,7 @@ Show.jpg
 
 ## 內部連結
 
-  - [馬自達Flair
-    Crossover](https://zh.wikipedia.org/wiki/馬自達Flair_Crossover "wikilink")
+  - [馬自達Flair Crossover](../Page/馬自達Flair_Crossover.md "wikilink")
 
 ## 參考資料
 

@@ -13,14 +13,14 @@ Meki成員[有情](../Page/磪有情.md "wikilink")、[度延組成](../Page/金
 
 ## 成員資料
 
-| 成員列表                                                  |
-| ----------------------------------------------------- |
-| 藝名                                                    |
-| 藝名                                                    |
-| [雪娥](../Page/雪娥.md "wikilink")                        |
-| [Luda](https://zh.wikipedia.org/wiki/Luda "wikilink") |
-| [有情](../Page/磪有情.md "wikilink")                       |
-| [度延](../Page/金度延.md "wikilink")                       |
+| 成員列表                               |
+| ---------------------------------- |
+| 藝名                                 |
+| 藝名                                 |
+| [雪娥](../Page/雪娥.md "wikilink")     |
+| [Luda](../Page/Luda.md "wikilink") |
+| [有情](../Page/磪有情.md "wikilink")    |
+| [度延](../Page/金度延.md "wikilink")    |
 
 ## 音樂作品
 

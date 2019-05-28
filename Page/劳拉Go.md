@@ -1,4 +1,4 @@
-是2015年发行的回合制[益智游戏](https://zh.wikipedia.org/wiki/益智游戏 "wikilink")，为[古墓丽影系列的一作](../Page/古墓丽影系列.md "wikilink")。游戏是[史克威尔艾尼克斯另一品牌](../Page/史克威尔艾尼克斯.md "wikilink")[杀手中](https://zh.wikipedia.org/wiki/杀手系列 "wikilink")，《[杀手Go](https://zh.wikipedia.org/wiki/杀手Go "wikilink")》的精神续作，由[史克威尔艾尼克斯蒙特利尔开发](https://zh.wikipedia.org/wiki/史克威尔艾尼克斯蒙特利尔 "wikilink")。玩家在游戏中通过触摸屏，移动[图版中的](https://zh.wikipedia.org/wiki/图版游戏 "wikilink")[劳拉·克劳馥避开障碍](https://zh.wikipedia.org/wiki/劳拉·克劳馥 "wikilink")、操作环境要素，最后走出迷宫。
+是2015年发行的回合制[益智游戏](https://zh.wikipedia.org/wiki/益智游戏 "wikilink")，为[古墓丽影系列的一作](../Page/古墓丽影系列.md "wikilink")。游戏是[史克威尔艾尼克斯另一品牌](../Page/史克威尔艾尼克斯.md "wikilink")[杀手中](https://zh.wikipedia.org/wiki/杀手系列 "wikilink")，《[杀手Go](https://zh.wikipedia.org/wiki/杀手Go "wikilink")》的精神续作，由[史克威尔艾尼克斯蒙特利尔开发](../Page/史克威尔艾尼克斯蒙特利尔.md "wikilink")。玩家在游戏中通过触摸屏，移动[图版中的](https://zh.wikipedia.org/wiki/图版游戏 "wikilink")[劳拉·克劳馥避开障碍](https://zh.wikipedia.org/wiki/劳拉·克劳馥 "wikilink")、操作环境要素，最后走出迷宫。
 
 ## 玩法
 
@@ -8,7 +8,7 @@
 
 ## 开发与发行
 
-《劳拉Go》由[史克威尔艾尼克斯蒙特利尔开发](https://zh.wikipedia.org/wiki/史克威尔艾尼克斯蒙特利尔 "wikilink")，该公司起初开发[3A游戏](https://zh.wikipedia.org/wiki/AAA_\(电子游戏术语\) "wikilink")[杀手](https://zh.wikipedia.org/wiki/杀手系列 "wikilink")，后转向西方手机游戏制作。其他员工因转型离开公司，只有技术总监安托因·路腾和游戏总监丹尼尔·鲁兹留了下来。在一个月的构思后，鲁兹说服路腾制作一款回合制杀手游戏——即后来的《杀手Go》。很快回合制解谜的概念应运而生——在强调游戏时间简短的同时，沿袭系列的艺术效果，就像“端庄的图版游戏”，但有多回合的重复。团队认为他们产品用最简单的形式，浓缩了系列要素\[12\]。
+《劳拉Go》由[史克威尔艾尼克斯蒙特利尔开发](../Page/史克威尔艾尼克斯蒙特利尔.md "wikilink")，该公司起初开发[3A游戏](https://zh.wikipedia.org/wiki/AAA_\(电子游戏术语\) "wikilink")[杀手](https://zh.wikipedia.org/wiki/杀手系列 "wikilink")，后转向西方手机游戏制作。其他员工因转型离开公司，只有技术总监安托因·路腾和游戏总监丹尼尔·鲁兹留了下来。在一个月的构思后，鲁兹说服路腾制作一款回合制杀手游戏——即后来的《杀手Go》。很快回合制解谜的概念应运而生——在强调游戏时间简短的同时，沿袭系列的艺术效果，就像“端庄的图版游戏”，但有多回合的重复。团队认为他们产品用最简单的形式，浓缩了系列要素\[12\]。
 
 开发团队在看到杀手系列成功缩减核心元素后，将劳拉·克劳馥的古墓丽影版本视作明显的下一步。开发队伍类似独立开发团队，由密切机动的（平均\[13\]）10人组成。他们将劳拉套入《杀手Go》设定并做了调整，如弱化暗杀要素、图版游戏美学元素，增加动画时间，较之于敌人更强调环境。团队按传统古墓丽影、而非重启作品来设计视觉，不过他们也按系列美学印象——而非实际设计文稿——再创造了角色\[14\]。他们设法将巨大动物或巨石追逐的场景加入了游戏\[15\]。团队未沿用系列里[快速时间事件等即时要素](https://zh.wikipedia.org/wiki/快速时间事件 "wikilink")，但用崩裂地板效果来营造时间紧张感\[16\]。
 
@@ -26,7 +26,7 @@ Phone上发行](../Page/Windows_Phone.md "wikilink")\[24\]。2016年12月4日，
 
 克洛伊·拉德（[IGN](../Page/IGN.md "wikilink")）称游戏如同演剧、有立体感、注意细节。安得烈·赖纳（[GameInformer](https://zh.wikipedia.org/wiki/GameInformer "wikilink")）称游戏环境生动、动画流畅，画面可跻身智能电话游戏前列\[42\]。拉德对游戏难度低略有不满\[43\]，赖纳则认为最终谜题复杂得难以置信\[44\]。
 
-雷·卡尔西诺（[电子游戏月刊](https://zh.wikipedia.org/wiki/电子游戏月刊 "wikilink")）批评《劳拉Go》背离了《杀手Go》的标致图版游戏基调，并称本作风格为系列中的“山寨货”。他认为谜题“说得过去”，但游戏总体而言没特别的挑战，不值得向非系列爱好者推荐\[45\]。马特·佩卡姆（《[连线](https://zh.wikipedia.org/wiki/连线_\(杂志\) "wikilink")》）称游戏中的收集品太过隐蔽，令人感到迷惑\[46\]。加兹·里格纳尔（[USgamer](https://zh.wikipedia.org/wiki/USgamer "wikilink")）认为游戏流程不足，但称赞了游戏平衡性，他们还称《劳拉Go》是“完美的iOS游戏”。里格纳尔又称游戏或受《[纪念碑谷](../Page/纪念碑谷_\(游戏\).md "wikilink")》的影响\[47\]。
+雷·卡尔西诺（[电子游戏月刊](../Page/电子游戏月刊.md "wikilink")）批评《劳拉Go》背离了《杀手Go》的标致图版游戏基调，并称本作风格为系列中的“山寨货”。他认为谜题“说得过去”，但游戏总体而言没特别的挑战，不值得向非系列爱好者推荐\[45\]。马特·佩卡姆（《[连线](https://zh.wikipedia.org/wiki/连线_\(杂志\) "wikilink")》）称游戏中的收集品太过隐蔽，令人感到迷惑\[46\]。加兹·里格纳尔（[USgamer](https://zh.wikipedia.org/wiki/USgamer "wikilink")）认为游戏流程不足，但称赞了游戏平衡性，他们还称《劳拉Go》是“完美的iOS游戏”。里格纳尔又称游戏或受《[纪念碑谷](../Page/纪念碑谷_\(游戏\).md "wikilink")》的影响\[47\]。
 
 ## 参考文献
 

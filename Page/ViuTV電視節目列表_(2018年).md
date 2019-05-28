@@ -544,7 +544,7 @@ About Sports 300</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>30/04-<br />
 13/06</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Good_Night_Show_全民星戰" title="wikilink">Good Night Show 全民星戰 (第一季)</a><br />
+<td style="text-align: center;"><p><a href="../Page/Good_Night_Show_全民星戰.md" title="wikilink">Good Night Show 全民星戰 (第一季)</a><br />
 Good Night Show - All Star VS You<br />
 (Season 1)</p></td>
 <td style="text-align: center;"><p>33</p></td>
@@ -555,7 +555,7 @@ Good Night Show - All Star VS You<br />
 <tr class="odd">
 <td style="text-align: center;"><p>18/06-<br />
 13/07</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Good_Night_Show_全民星戰" title="wikilink">Good Night Show 全民星戰 (第二季)</a><br />
+<td style="text-align: center;"><p><a href="../Page/Good_Night_Show_全民星戰.md" title="wikilink">Good Night Show 全民星戰 (第二季)</a><br />
 Good Night Show - All Star VS You<br />
 (Season 2)</p></td>
 <td style="text-align: center;"><p>18</p></td>
@@ -801,7 +801,7 @@ G-1 Fight Club 2</p></td>
 <td style="text-align: center;"><p><br />
 GO! Siberia</p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/黎學勤" title="wikilink">黎學勤</a>、<a href="https://zh.wikipedia.org/wiki/莫竣名" title="wikilink">莫竣名</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/黎學勤.md" title="wikilink">黎學勤</a>、<a href="../Page/莫竣名.md" title="wikilink">莫竣名</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
 第16集於3月3日（星期六）20:30-21:30播出</p></td>
@@ -1083,7 +1083,7 @@ So Takei - The Ultimate Examiner</p></td>
 <td style="text-align: center;"><p><br />
 Online Shopaholic</p></td>
 <td style="text-align: center;"><p>15</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/羅敏莊.md" title="wikilink">羅敏莊</a>、<a href="../Page/盧頌之.md" title="wikilink">盧頌之</a>、<a href="../Page/張紋嘉.md" title="wikilink">張紋嘉</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="https://zh.wikipedia.org/wiki/趙詠瑤" title="wikilink">趙詠瑤</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/羅敏莊.md" title="wikilink">羅敏莊</a>、<a href="../Page/盧頌之.md" title="wikilink">盧頌之</a>、<a href="../Page/張紋嘉.md" title="wikilink">張紋嘉</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/趙詠瑤.md" title="wikilink">趙詠瑤</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/online-shopaholic">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 1月1日暫停播映</p></td>
@@ -1139,7 +1139,7 @@ We Are From Fresh Wave 2018</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>28/05-<br />
 13/06</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/走佬去臺灣" title="wikilink">走佬去臺灣</a><br />
+<td style="text-align: center;"><p><a href="../Page/走佬去臺灣.md" title="wikilink">走佬去臺灣</a><br />
 Pick Me Up To Taiwan</p></td>
 <td style="text-align: center;"><p>13</p></td>
 <td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/杜汶澤" title="wikilink">杜汶澤</a></p></td>
@@ -1150,10 +1150,10 @@ Pick Me Up To Taiwan</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>25/06-<br />
 14/07</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/返歸啦俄仔" title="wikilink">返歸啦俄仔</a><br />
+<td style="text-align: center;"><p><a href="../Page/返歸啦俄仔.md" title="wikilink">返歸啦俄仔</a><br />
 RUS Back Home</p></td>
 <td style="text-align: center;"><p>13</p></td>
-<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Artem_Ansheles" title="wikilink">Artem Ansheles</a>、</p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/Artem_Ansheles.md" title="wikilink">Artem Ansheles</a>、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
 7月3日、6日、11日暫停播映，7月12日改為翌日00:15-00:45播出，7月13日改為23:30-00:00播出，第13集於7月14日（星期六）23:30-00:00播出<br />
@@ -1165,7 +1165,7 @@ RUS Back Home</p></td>
 <td style="text-align: center;"><p><a href="../Page/入住請敲門.md" title="wikilink">入住請敲門2</a><br />
 The Haunted Rooms 2</p></td>
 <td style="text-align: center;"><p>15</p></td>
-<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/莫竣名" title="wikilink">莫竣名</a>、</p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/莫竣名.md" title="wikilink">莫竣名</a>、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>靈異節目</strong></p></td>
 </tr>
@@ -1175,7 +1175,7 @@ The Haunted Rooms 2</p></td>
 <td style="text-align: center;"><p><br />
 HomeSweetHome</p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Aero_Chan" title="wikilink">飛機陳</a>、<a href="../Page/丁可欣.md" title="wikilink">丁可欣</a>、<a href="../Page/黎國輝.md" title="wikilink">黎國輝</a>、<a href="https://zh.wikipedia.org/wiki/林慧美" title="wikilink">林慧美</a>、<a href="../Page/袁彌明.md" title="wikilink">袁彌明</a>、<a href="../Page/林雨陽.md" title="wikilink">林雨陽</a>、<a href="https://zh.wikipedia.org/wiki/樂善_(Blogger)" title="wikilink">樂善</a>、、<a href="https://zh.wikipedia.org/wiki/鍾樂偉" title="wikilink">鍾樂偉</a>、<a href="https://zh.wikipedia.org/wiki/宣柏健" title="wikilink">宣柏健</a>、<a href="../Page/張啟樂.md" title="wikilink">張啟樂</a>、<a href="https://zh.wikipedia.org/wiki/吳蚊蚊" title="wikilink">吳蚊蚊</a><br />
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/Aero_Chan" title="wikilink">飛機陳</a>、<a href="../Page/丁可欣.md" title="wikilink">丁可欣</a>、<a href="../Page/黎國輝.md" title="wikilink">黎國輝</a>、<a href="https://zh.wikipedia.org/wiki/林慧美" title="wikilink">林慧美</a>、<a href="../Page/袁彌明.md" title="wikilink">袁彌明</a>、<a href="../Page/林雨陽.md" title="wikilink">林雨陽</a>、<a href="https://zh.wikipedia.org/wiki/樂善_(Blogger)" title="wikilink">樂善</a>、、<a href="../Page/鍾樂偉.md" title="wikilink">鍾樂偉</a>、<a href="https://zh.wikipedia.org/wiki/宣柏健" title="wikilink">宣柏健</a>、<a href="../Page/張啟樂.md" title="wikilink">張啟樂</a>、<a href="https://zh.wikipedia.org/wiki/吳蚊蚊" title="wikilink">吳蚊蚊</a><br />
 旁白：<a href="https://zh.wikipedia.org/wiki/強尼" title="wikilink">強尼</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/homesweethome">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong></p></td>
@@ -1372,7 +1372,7 @@ Ryan and Victoria's Cooking Adventure</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>22/02-<br />
 26/04</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/飯聚現場" title="wikilink">飯聚現場</a><br />
+<td style="text-align: center;"><p><a href="../Page/飯聚現場.md" title="wikilink">飯聚現場</a><br />
 Banquet Scene Inverstigation</p></td>
 <td style="text-align: center;"><p>10</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/細So.md" title="wikilink">細So</a><br />
@@ -1415,7 +1415,7 @@ Banquet Scene Inverstigation</p></td>
 <td style="text-align: center;"><p><br />
 From The Song…By New Youth Barbra Shop</p></td>
 <td style="text-align: center;"><p>13</p></td>
-<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/新青年理髮廳" title="wikilink">新青年理髮廳</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/新青年理髮廳.md" title="wikilink">新青年理髮廳</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>音樂節目</strong></p></td>
 </tr>
@@ -1505,7 +1505,7 @@ Music Choice</p></td>
 <td style="text-align: center;"><p><br />
 Girls' Talk</p></td>
 <td style="text-align: center;"><p>525</p></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/黃心美.md" title="wikilink">黃心美</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、、、、、<a href="https://zh.wikipedia.org/wiki/Artem_Ansheles" title="wikilink">Artem Ansheles</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/羅彩玲.md" title="wikilink">羅彩玲</a>、<a href="https://zh.wikipedia.org/wiki/羅伊婷" title="wikilink">羅伊婷</a>、<a href="../Page/李蔓瑩.md" title="wikilink">李蔓瑩</a>、、、</p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/黃心美.md" title="wikilink">黃心美</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、、、、、<a href="../Page/Artem_Ansheles.md" title="wikilink">Artem Ansheles</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/羅彩玲.md" title="wikilink">羅彩玲</a>、<a href="../Page/羅伊婷.md" title="wikilink">羅伊婷</a>、<a href="../Page/李蔓瑩.md" title="wikilink">李蔓瑩</a>、、、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>潮流資訊節目</strong><br />
 1月1日、6月14日至22日、7月3日、6日、11日至13日暫停播映，5月14日至25日改為翌日00:00-00:15播出，7月17日改為00:45-01:00播出，12月15日改為01:15-01:30播出，12月18日至22日改為00:00-00:15播出</p></td>
@@ -1746,7 +1746,7 @@ Helmet Intercom</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/總有一瓣喺左近" title="wikilink">總有一瓣喺左近</a><br />
 One Beside You 3</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>主持：<a href="../Page/潘紹聰.md" title="wikilink">潘紹聰</a>、<a href="../Page/關寶慧.md" title="wikilink">關寶慧</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="https://zh.wikipedia.org/wiki/符致逸" title="wikilink">符致逸</a>、</p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/潘紹聰.md" title="wikilink">潘紹聰</a>、<a href="../Page/關寶慧.md" title="wikilink">關寶慧</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/符致逸.md" title="wikilink">符致逸</a>、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>娛樂清談節目</strong><br />
 5月18日及25日改為23:15-23:45播出，7月6日及12月14日暫停播映</p></td>
@@ -1855,7 +1855,7 @@ We Are From Fresh Wave 2018</p></td>
 <td style="text-align: center;"><p><br />
 XXYX</p></td>
 <td style="text-align: center;"><p>4</p></td>
-<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/梁棨寧" title="wikilink">梁棨寧</a>、<a href="https://zh.wikipedia.org/wiki/陳禮賢" title="wikilink">陳禮賢</a>、<a href="https://zh.wikipedia.org/wiki/戴祖儀" title="wikilink">戴祖儀</a>、<a href="https://zh.wikipedia.org/wiki/史順宜" title="wikilink">史順宜</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/梁棨寧" title="wikilink">梁棨寧</a>、<a href="../Page/陳禮賢.md" title="wikilink">陳禮賢</a>、<a href="../Page/戴祖儀.md" title="wikilink">戴祖儀</a>、<a href="https://zh.wikipedia.org/wiki/史順宜" title="wikilink">史順宜</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/xxyx">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>真人騷</strong></p></td>
 </tr>
@@ -2619,7 +2619,7 @@ Thailand 72 Hours</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>02/06-<br />
 09/06</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/世界盃稀客" title="wikilink">世界盃稀客</a><br />
+<td style="text-align: center;"><p><a href="../Page/世界盃稀客.md" title="wikilink">世界盃稀客</a><br />
 The New Challengers</p></td>
 <td style="text-align: center;"><p>2<br />
 (10)</p></td>
@@ -2760,7 +2760,7 @@ Miss DIVA</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/郭偉亮.md" title="wikilink">郭偉亮</a>、<a href="../Page/火火.md" title="wikilink">火火</a>、</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/miss-diva">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>選美/真人秀</strong><br />
-外購節目（<a href="../Page/香港.md" title="wikilink">香港</a><a href="https://zh.wikipedia.org/wiki/耀榮文化" title="wikilink">耀榮文化</a>）</p></td>
+外購節目（<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/耀榮文化.md" title="wikilink">耀榮文化</a>）</p></td>
 </tr>
 </tbody>
 </table>
@@ -2957,7 +2957,7 @@ The Film Fighters</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鳥取岡山蜜蜜遊" title="wikilink">鳥取岡山蜜蜜遊</a><br />
 Fruitful Welcome! A Trip To Tottori and Okayama Prefectures</p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/和泉素行" title="wikilink">和泉素行</a>、、（日語原聲）</p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/和泉素行.md" title="wikilink">和泉素行</a>、、（日語原聲）</p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/fruitful-welcome-a-trip-to-tottori-and-okayama-prefectures">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>飲食/旅遊節目</strong><br />
 外購節目（<a href="../Page/日本.md" title="wikilink">日本</a><a href="https://zh.wikipedia.org/wiki/日本海電視台" title="wikilink">日本海電視台</a>）</p></td>
@@ -3739,7 +3739,7 @@ Challenge 1997</p></td>
 <td style="text-align: center;"><p><br />
 Prank Singer</p></td>
 <td style="text-align: center;"><p>4</p></td>
-<td style="text-align: center;"><p>演出：<a href="../Page/江海迦.md" title="wikilink">江海迦</a>、<a href="../Page/李幸倪.md" title="wikilink">李幸倪</a>、<a href="https://zh.wikipedia.org/wiki/葉晴晴" title="wikilink">葉晴晴</a>、<a href="https://zh.wikipedia.org/wiki/孫曉慧" title="wikilink">孫曉慧</a>、<a href="../Page/周殷廷.md" title="wikilink">周殷廷</a>、<a href="https://zh.wikipedia.org/wiki/符致逸" title="wikilink">符致逸</a>、<a href="../Page/麥家瑜.md" title="wikilink">麥家瑜</a></p></td>
+<td style="text-align: center;"><p>演出：<a href="../Page/江海迦.md" title="wikilink">江海迦</a>、<a href="../Page/李幸倪.md" title="wikilink">李幸倪</a>、<a href="https://zh.wikipedia.org/wiki/葉晴晴" title="wikilink">葉晴晴</a>、<a href="https://zh.wikipedia.org/wiki/孫曉慧" title="wikilink">孫曉慧</a>、<a href="../Page/周殷廷.md" title="wikilink">周殷廷</a>、<a href="../Page/符致逸.md" title="wikilink">符致逸</a>、<a href="../Page/麥家瑜.md" title="wikilink">麥家瑜</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><strong>真人秀</strong><br />
 1月28日暫停播映</p></td>
@@ -3758,7 +3758,7 @@ Chubby Honey</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>24/06-<br />
 19/08</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/世界盃稀客" title="wikilink">世界盃稀客</a><br />
+<td style="text-align: center;"><p><a href="../Page/世界盃稀客.md" title="wikilink">世界盃稀客</a><br />
 The New Challengers</p></td>
 <td style="text-align: center;"><p>8<br />
 (10)</p></td>
@@ -3865,7 +3865,7 @@ England FA Cup Highlights</p></td>
 Try! Onsen Try! Japan</p></td>
 <td style="text-align: center;"><p>1<br />
 (3)</p></td>
-<td style="text-align: center;"><p>主持：<a href="https://zh.wikipedia.org/wiki/和泉素行" title="wikilink">和泉素行</a></p></td>
+<td style="text-align: center;"><p>主持：<a href="../Page/和泉素行.md" title="wikilink">和泉素行</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/try-onsen-try-japan">網頁</a></p></td>
 <td style="text-align: center;"><p><strong>旅遊節目</strong><br />
 外購節目（<a href="https://zh.wikipedia.org/wiki/大分朝日放送" title="wikilink">大分朝日放送</a>），播映時間為11:30-12:00</p></td>
@@ -3895,7 +3895,7 @@ We Are From Fresh Wave 2018</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>14/06-<br />
 15/07</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Good_Night_Show_全民星戰" title="wikilink">Good Night Show 全民睇波派對</a><br />
+<td style="text-align: center;"><p><a href="../Page/Good_Night_Show_全民星戰.md" title="wikilink">Good Night Show 全民睇波派對</a><br />
 Good Night Show - Football Fans Party</p></td>
 <td style="text-align: center;"><p>19</p></td>
 <td style="text-align: center;"><p>主持：<a href="../Page/黃心美.md" title="wikilink">黃心美</a>、<a href="https://zh.wikipedia.org/wiki/強尼" title="wikilink">強尼</a>、<a href="../Page/陳俞希.md" title="wikilink">陳俞希</a>、<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、<br />

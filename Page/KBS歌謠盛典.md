@@ -36,7 +36,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>1987年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島KBS大廳</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島KBS大廳</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -232,21 +232,21 @@
 <tr class="odd">
 <td><p>29</p></td>
 <td><p>2015年12月30日（星期三）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="../Page/高尺天空巨蛋.md" title="wikilink">高尺天空巨蛋</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/高尺天空巨蛋.md" title="wikilink">高尺天空巨蛋</a></p></td>
 <td><p><a href="../Page/李輝宰.md" title="wikilink">李輝宰</a>、<a href="https://zh.wikipedia.org/wiki/澤演" title="wikilink">澤演</a>、<a href="../Page/哈妮.md" title="wikilink">哈妮</a></p></td>
 <td><p>[4][5]</p></td>
 </tr>
 <tr class="even">
 <td><p>30</p></td>
 <td><p>2016年12月29日（星期四）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島KBS大廳</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島KBS大廳</a></p></td>
+<td><p><a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a>、<a href="../Page/雪炫.md" title="wikilink">雪炫</a></p></td>
 <td><p>[6]</p></td>
 </tr>
 <tr class="odd">
 <td><p>31</p></td>
 <td><p>2017年12月29日（星期五）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島KBS電視台音樂廳</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a><a href="../Page/汝矣島.md" title="wikilink">汝矣島KBS電視台音樂廳</a></p></td>
 <td><p><a href="../Page/金碩珍.md" title="wikilink">Jin</a>、<a href="https://zh.wikipedia.org/wiki/燦烈" title="wikilink">燦烈</a>、<a href="https://zh.wikipedia.org/wiki/裴柱現" title="wikilink">Irene</a>、<a href="https://zh.wikipedia.org/wiki/Sana" title="wikilink">Sana</a><br />
 <a href="../Page/頌樂.md" title="wikilink">頌樂</a>、<a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a>、<a href="https://zh.wikipedia.org/wiki/金玟奎" title="wikilink">玟奎</a>、<a href="../Page/Yerin.md" title="wikilink">Yerin</a></p></td>
 <td></td>
@@ -259,7 +259,7 @@
 ### 2016年
 
   - 特邀主持人：[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")([Red
-    Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink"))、[世正](../Page/世正.md "wikilink")([I.O.I](../Page/I.O.I.md "wikilink"))；待機室主持人：[珉豪](../Page/珉豪.md "wikilink")([SHINee](../Page/SHINee.md "wikilink"))、[燦烈](../Page/Chanyeol.md "wikilink")([EXO](../Page/EXO.md "wikilink"))、[多賢](../Page/多賢.md "wikilink")([TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink"))、[世正](../Page/世正.md "wikilink")([I.O.I](../Page/I.O.I.md "wikilink"))
+    Velvet](../Page/Red_Velvet.md "wikilink"))、[世正](../Page/世正.md "wikilink")([I.O.I](../Page/I.O.I.md "wikilink"))；待機室主持人：[珉豪](../Page/珉豪.md "wikilink")([SHINee](../Page/SHINee.md "wikilink"))、[燦烈](../Page/Chanyeol.md "wikilink")([EXO](../Page/EXO.md "wikilink"))、[多賢](../Page/多賢.md "wikilink")([TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink"))、[世正](../Page/世正.md "wikilink")([I.O.I](../Page/I.O.I.md "wikilink"))
 
 <table>
 <colgroup>
@@ -300,8 +300,8 @@
 <td><p><a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a><br />
 <a href="../Page/I.O.I.md" title="wikilink">I.O.I</a><br />
 <a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a><br />
-<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a><br />
-<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>、<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a>、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a></p></td>
+<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a><br />
+<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>、<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a>、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a></p></td>
 <td><p>Glass Bead<br />
 Pick Me<br />
 Like OOH-AHH<br />
@@ -340,7 +340,7 @@ Into the New World（原唱：<a href="../Page/少女时代.md" title="wikilink"
 </tr>
 <tr class="even">
 <td><p>Present LUCKY BOX</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">瑟琪</a>(<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>)、<a href="../Page/SinB.md" title="wikilink">SinB</a>(<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>)、<a href="https://zh.wikipedia.org/wiki/Momo" title="wikilink">Momo</a>(<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>)、<a href="../Page/磪有情.md" title="wikilink">有情</a> &amp; <a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">請夏</a>(<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a>)</p></td>
+<td><p><a href="../Page/瑟琪.md" title="wikilink">瑟琪</a>(<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>)、<a href="../Page/SinB.md" title="wikilink">SinB</a>(<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>)、<a href="https://zh.wikipedia.org/wiki/Momo" title="wikilink">Momo</a>(<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>)、<a href="../Page/磪有情.md" title="wikilink">有情</a> &amp; <a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">請夏</a>(<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a>)</p></td>
 <td><p>Be Mine（原唱：<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>） [18]</p></td>
 </tr>
 <tr class="odd">
@@ -370,8 +370,8 @@ Into the New World（原唱：<a href="../Page/少女时代.md" title="wikilink"
 </tr>
 <tr class="even">
 <td><p>Present For You</p></td>
-<td><p><a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>(<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>)<br />
-<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>(<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>)<br />
+<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>Have Yourself A Merry Little Christmas<br />
 Russian Roulette [24]</p></td>
 </tr>
@@ -478,9 +478,9 @@ SHOWDOWN [41]</p></td>
 </tr>
 <tr class="even">
 <td><p>Present For 青春</p></td>
-<td><p>20歲歌手：<a href="../Page/田柾國.md" title="wikilink">柾國</a>(<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>)、<a href="https://zh.wikipedia.org/wiki/金有謙" title="wikilink">有謙</a> &amp; <a href="../Page/BamBam.md" title="wikilink">BamBam</a> (<a href="../Page/GOT7.md" title="wikilink">GOT7</a>)、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a> &amp; <a href="https://zh.wikipedia.org/wiki/金珉奎" title="wikilink">珉奎</a> &amp; <a href="https://zh.wikipedia.org/wiki/徐明浩" title="wikilink">The 8</a><br />
+<td><p>20歲歌手：<a href="../Page/田柾國.md" title="wikilink">柾國</a>(<a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a>)、<a href="../Page/金有謙.md" title="wikilink">有謙</a> &amp; <a href="../Page/BamBam.md" title="wikilink">BamBam</a> (<a href="../Page/GOT7.md" title="wikilink">GOT7</a>)、<a href="https://zh.wikipedia.org/wiki/李碩珉" title="wikilink">DK</a> &amp; <a href="../Page/金珉奎.md" title="wikilink">珉奎</a> &amp; <a href="https://zh.wikipedia.org/wiki/徐明浩" title="wikilink">The 8</a><br />
 (<a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a>)、<a href="../Page/志效.md" title="wikilink">志效</a>(<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>)、<a href="../Page/彩娟.md" title="wikilink">彩娟</a>(<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a>)、<a href="../Page/Yuju.md" title="wikilink">Yuju</a> &amp; <a href="../Page/Eunha.md" title="wikilink">Eunha</a> (<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>)<br />
-+ <a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN樂團</a>：<a href="https://zh.wikipedia.org/wiki/尹淨漢" title="wikilink">淨漢</a>-<a href="../Page/電貝斯.md" title="wikilink">電貝斯</a>、<a href="https://zh.wikipedia.org/wiki/李知勳_(SEVENTEEN)" title="wikilink">WOOZI</a>-<a href="../Page/爵士鼓.md" title="wikilink">爵士鼓</a>、<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">洪知秀</a>-<a href="../Page/电吉他.md" title="wikilink">電吉他</a>、<a href="https://zh.wikipedia.org/wiki/夫勝寛" title="wikilink">勝寛</a>-<a href="../Page/電子琴.md" title="wikilink">電子琴</a></p></td>
++ <a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN樂團</a>：<a href="https://zh.wikipedia.org/wiki/尹淨漢" title="wikilink">淨漢</a>-<a href="../Page/電貝斯.md" title="wikilink">電貝斯</a>、<a href="../Page/李知勳_(SEVENTEEN).md" title="wikilink">WOOZI</a>-<a href="../Page/爵士鼓.md" title="wikilink">爵士鼓</a>、<a href="https://zh.wikipedia.org/wiki/洪知秀" title="wikilink">洪知秀</a>-<a href="../Page/电吉他.md" title="wikilink">電吉他</a>、<a href="../Page/夫勝寛.md" title="wikilink">勝寛</a>-<a href="../Page/電子琴.md" title="wikilink">電子琴</a></p></td>
 <td><p>I'm a Flying Butterfly（나는 나비）（原唱：<a href="https://zh.wikipedia.org/wiki/YB" title="wikilink">YB 尹道賢樂團</a>）[44]</p></td>
 </tr>
 <tr class="odd">
@@ -556,7 +556,7 @@ SHOWDOWN [41]</p></td>
   - 特邀主持人：
 
 一部：[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")([Red
-Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink"))、[Jin](../Page/金碩珍.md "wikilink")([防彈少年團](../Page/防彈少年團.md "wikilink"))、[燦烈](../Page/Chanyeol.md "wikilink")([EXO](../Page/EXO.md "wikilink"))、[Sana](../Page/Sana_\(TWICE\).md "wikilink")([TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink"))
+Velvet](../Page/Red_Velvet.md "wikilink"))、[Jin](../Page/金碩珍.md "wikilink")([防彈少年團](../Page/防彈少年團.md "wikilink"))、[燦烈](../Page/Chanyeol.md "wikilink")([EXO](../Page/EXO.md "wikilink"))、[Sana](../Page/Sana_\(TWICE\).md "wikilink")([TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink"))
 二部：[頌樂](../Page/頌樂.md "wikilink")([MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink"))、[珉奎](https://zh.wikipedia.org/wiki/珉奎 "wikilink")([SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink"))、[Yerin](../Page/Yerin.md "wikilink")([GFRIEND](../Page/GFRIEND.md "wikilink"))、[姜丹尼爾](../Page/姜丹尼爾.md "wikilink")([Wanna
 One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink"))
 

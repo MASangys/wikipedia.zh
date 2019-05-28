@@ -27,7 +27,7 @@ Cameleon 先前的云平台已于 2014 年退役，只供早期用户使用。\[
   - [DaCast](https://zh.wikipedia.org/wiki/DaCast "wikilink")
   - [Facebook](../Page/Facebook.md "wikilink") 直播
   - [網路](https://zh.wikipedia.org/wiki/網路 "wikilink") 电视
-  - [Livestream](https://zh.wikipedia.org/wiki/Livestream "wikilink")
+  - [Livestream](../Page/Livestream.md "wikilink")
 
 <!-- end list -->
 

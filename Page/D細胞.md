@@ -1,6 +1,6 @@
 **D細胞**（Delta cells，亦可寫作δ-cells或D
-cells）是一類可以分泌[體抑素](../Page/體抑素.md "wikilink")（somatostatin）的內分泌腺上皮細胞。D在[胃](../Page/胃.md "wikilink")、[腸道](https://zh.wikipedia.org/wiki/腸道 "wikilink")，以及[胰島中都有分佈](https://zh.wikipedia.org/wiki/胰島 "wikilink")。在人的胰島中，D細胞遍佈整個胰島。與之形成對比的是，在[齧齒類的胰島中](https://zh.wikipedia.org/wiki/齧齒類 "wikilink")，D細胞多分佈在邊緣區。不過，在人和鼠體內，[胰島B細胞分泌的](https://zh.wikipedia.org/wiki/胰島B細胞 "wikilink")[肽類](../Page/肽.md "wikilink")[激素](../Page/激素.md "wikilink")3型尿皮素（Urocortin3,
-Ucn3）（值得注意的是，靈長類的[胰島A細胞也能分泌Ucn](https://zh.wikipedia.org/wiki/胰島A細胞 "wikilink")3）都能誘導體抑素的分泌\[1\]。也可以刺激D細胞分泌體抑素，進而間接抑制胰島素的釋放\[2\]。
+cells）是一類可以分泌[體抑素](../Page/體抑素.md "wikilink")（somatostatin）的內分泌腺上皮細胞。D在[胃](../Page/胃.md "wikilink")、[腸道](https://zh.wikipedia.org/wiki/腸道 "wikilink")，以及[胰島中都有分佈](https://zh.wikipedia.org/wiki/胰島 "wikilink")。在人的胰島中，D細胞遍佈整個胰島。與之形成對比的是，在[齧齒類的胰島中](https://zh.wikipedia.org/wiki/齧齒類 "wikilink")，D細胞多分佈在邊緣區。不過，在人和鼠體內，[胰島B細胞分泌的](../Page/胰島B細胞.md "wikilink")[肽類](../Page/肽.md "wikilink")[激素](../Page/激素.md "wikilink")3型尿皮素（Urocortin3,
+Ucn3）（值得注意的是，靈長類的[胰島A細胞也能分泌Ucn](../Page/胰島A細胞.md "wikilink")3）都能誘導體抑素的分泌\[1\]。也可以刺激D細胞分泌體抑素，進而間接抑制胰島素的釋放\[2\]。
 在電鏡下觀察可以發現，相比胰島B細胞，D細胞體積較小，但細胞內顆粒的密度略大。通過馬洛里染色（Mallory
 Staining）可以區分胰島中的A細胞、B細胞、D細胞\[3\]。
 

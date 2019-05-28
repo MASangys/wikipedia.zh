@@ -1694,7 +1694,7 @@ Asmik Ace Entertainment <sup>NA</sup></p></td>
 <tr class="even">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Las_Vegas_Cool_Hand" title="wikilink">Cool Hand</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rockstar_Lincoln" title="wikilink">Tarantula Studios</a></p></td>
+<td><p><a href="../Page/Rockstar_Lincoln.md" title="wikilink">Tarantula Studios</a></p></td>
 <td><p><a href="../Page/Take-Two_Interactive.md" title="wikilink">Take-Two Interactive</a></p></td>
 <td></td>
 <td></td>
@@ -7131,7 +7131,7 @@ Titus Software</p></td>
 <tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Reservoir_Rat" title="wikilink">Reservoir Rat</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Rockstar_Lincoln" title="wikilink">Tarantula Studios</a></p></td>
+<td><p><a href="../Page/Rockstar_Lincoln.md" title="wikilink">Tarantula Studios</a></p></td>
 <td><p><a href="../Page/Take-Two_Interactive.md" title="wikilink">Take-Two Interactive</a></p></td>
 <td></td>
 <td></td>
@@ -8700,7 +8700,7 @@ Cadillac II <sup>JP</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/俄罗斯方块_(Game_Boy)" title="wikilink">俄罗斯方块</a></p></td>
+<td><p><a href="../Page/俄罗斯方块_(Game_Boy).md" title="wikilink">俄罗斯方块</a></p></td>
 <td><p><em>Tetris</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Bullet-Proof_Software" title="wikilink">Bullet-Proof Software</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Nintendo" title="wikilink">Nintendo</a></p></td>

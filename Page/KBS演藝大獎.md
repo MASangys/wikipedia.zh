@@ -276,7 +276,7 @@
 <td><p>8</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/安英美" title="wikilink">安英美</a></p></td>
+<td><p><a href="../Page/安英美.md" title="wikilink">安英美</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李壽根.md" title="wikilink">李壽根</a></p></td>
@@ -508,7 +508,7 @@
 <td><p>11</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/柳喜烈" title="wikilink">柳喜烈</a></p></td>
+<td><p><a href="../Page/柳喜烈.md" title="wikilink">柳喜烈</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a></p></td>
@@ -563,7 +563,7 @@
 <td><p>4</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/盧宙鉉" title="wikilink">盧宙鉉</a></p></td>
+<td><p><a href="../Page/盧宙鉉.md" title="wikilink">盧宙鉉</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -647,7 +647,7 @@
 <td><p>2018年</p></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/李同國" title="wikilink">李同國子女</a>（李在詩、李在雅、李雪雅、李秀雅、李時安）</li>
-<li><a href="https://zh.wikipedia.org/wiki/森姆·汗明頓" title="wikilink">森姆·汗明頓兒子</a>（威廉·汗明頓、本特利·汗明頓）</li>
+<li><a href="../Page/森姆·汗明頓.md" title="wikilink">森姆·汗明頓兒子</a>（威廉·汗明頓、本特利·汗明頓）</li>
 <li><a href="../Page/高志溶.md" title="wikilink">高志溶兒子</a>（高昇材）</li>
 <li><a href="../Page/奉太奎.md" title="wikilink">奉太奎兒子</a>（奉時河）</li>
 <li><a href="../Page/朴柱昊.md" title="wikilink">朴柱昊子女</a>（朴娜恩、朴建厚）</li>
@@ -717,7 +717,7 @@
 <td><p>16</p></td>
 <td><p>2018年</p></td>
 <td><p><a href="../Page/申鉉濬.md" title="wikilink">申鉉濬</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/演藝家中介" title="wikilink">演藝家中介</a>》</p></td>
+<td><p>《<a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>15</p></td>
@@ -759,7 +759,7 @@
 <td><p>9</p></td>
 <td><p>2010年</p></td>
 <td></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/演藝家中介" title="wikilink">演藝家中介</a>》</p></td>
+<td><p>《<a href="../Page/演藝家中介.md" title="wikilink">演藝家中介</a>》</p></td>
 </tr>
 </tbody>
 </table>
@@ -874,7 +874,7 @@
 <td><p>2018年</p></td>
 <td><p>Hot Issue 綜藝人獎</p></td>
 <td></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/1%的友情" title="wikilink">1%的友情</a>》、<br />
+<td><p>《<a href="../Page/1%的友情.md" title="wikilink">1%的友情</a>》、<br />
 《》</p></td>
 </tr>
 <tr class="even">
@@ -892,14 +892,14 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/華莎" title="wikilink">華莎</a>（<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>）</p></td>
+<td><p><a href="../Page/華莎.md" title="wikilink">華莎</a>（<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>）</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/鍵盤上的鬣狗" title="wikilink">鍵盤上的鬣狗</a>》</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a></p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a></p></td>
 <td></td>
 <td></td>
 <td></td>

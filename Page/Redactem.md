@@ -1,4 +1,4 @@
-是由[僾略特開發的](https://zh.wikipedia.org/wiki/僾略特 "wikilink")[独立](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")[平台游戏](../Page/平台游戏.md "wikilink")。2016年7月8日，該遊戲成為IndieGameStand最高評分的遊戲。\[1\]
+是由[僾略特開發的](../Page/僾略特.md "wikilink")[独立](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")[平台游戏](../Page/平台游戏.md "wikilink")。2016年7月8日，該遊戲成為IndieGameStand最高評分的遊戲。\[1\]
 
 在2015年，Redactem的發展開始。2016年7月8日，該遊戲成為IndieGameStand最高評分的遊戲。
 隨後於2016年8月1日發布給[Steam](../Page/Steam.md "wikilink")。根據[Steam

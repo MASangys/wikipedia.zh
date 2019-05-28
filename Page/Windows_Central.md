@@ -15,8 +15,7 @@ Windows Central擁有自己的撰稿者，也會轉載其他科技網站的報�
 Mobile縮寫](../Page/Windows_Mobile.md "wikilink"))，Windows
 Phone後更名Wpcentral (WP為[Windows
 Phone縮寫](../Page/Windows_Phone.md "wikilink"))，自[Windows
-10後更名Windows](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
-Central。
+10後更名Windows](../Page/Windows_10.md "wikilink") Central。
 
 ## 參閱
 

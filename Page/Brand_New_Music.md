@@ -16,8 +16,8 @@ $的成員Oh Yoo-mi仍然與Stardom Entertainment簽約。BRANDNEW MUSIC指雙�
 $的去向不受任何一間公司約束」。\[8\]
 
 BRANDNEW MUSIC於2012年底推出第一首合作單曲"Happy Brand New Year"，Verbal Jint,
-[Phantom](https://zh.wikipedia.org/wiki/Phantom_\(韓國組合\) "wikilink"), ,
-Miss $, , Shijin, 和參與其中。\[9\]
+[Phantom](../Page/Phantom_\(韓國組合\).md "wikilink"), , Miss $, , Shijin,
+和參與其中。\[9\]
 
 ### 2013年至今
 
@@ -152,7 +152,7 @@ A」，歌手目前有：[요다영](https://zh.wikipedia.org/wiki/요다영 "wi
 
   - （Min和Crystal）
 
-  - [Phantom](https://zh.wikipedia.org/wiki/Phantom_\(韓國組合\) "wikilink")
+  - [Phantom](../Page/Phantom_\(韓國組合\).md "wikilink")
 
   - [San E](../Page/San_E.md "wikilink")
 

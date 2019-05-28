@@ -57,7 +57,7 @@
 
 ### 三葉小學 伙食廚房
 
-  - 小松稔：[荒川良良](https://zh.wikipedia.org/wiki/荒川良良 "wikilink")（香港配音：[陳卓智](../Page/陳卓智.md "wikilink")）
+  - 小松稔：[荒川良良](../Page/荒川良良.md "wikilink")（香港配音：[陳卓智](../Page/陳卓智.md "wikilink")）
 
 <!-- end list -->
 
@@ -236,7 +236,7 @@
 
 <!-- end list -->
 
-  - 相川實里：[瀧本美織](../Page/瀧本美織.md "wikilink")（連續劇《[Career～打破常規的警察署長～](https://zh.wikipedia.org/wiki/Career～打破常規的警察署長～ "wikilink")》）\[4\]（香港配音：[詹健兒](../Page/詹健兒.md "wikilink")）
+  - 相川實里：[瀧本美織](../Page/瀧本美織.md "wikilink")（連續劇《[Career～打破常規的警察署長～](../Page/Career～打破常規的警察署長～.md "wikilink")》）\[4\]（香港配音：[詹健兒](../Page/詹健兒.md "wikilink")）
 
 <!-- end list -->
 
@@ -249,7 +249,7 @@
 
 #### 第7集
 
-  - 原田綾子：[北原里英](../Page/北原里英.md "wikilink")（[NGT48](../Page/NGT48.md "wikilink")）（香港配音：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")）
+  - 原田綾子：[北原里英](../Page/北原里英.md "wikilink")（[NGT48](../Page/NGT48.md "wikilink")）（香港配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）
 
 <!-- end list -->
 

@@ -56,13 +56,13 @@ Ratings的資料](../Page/Go_Ratings.md "wikilink")，推算AlphaGo的各種版�
 
 由於CGOS提供了二十四小時都可以自動對弈的環境，有不少知名圍棋的軟體都有官方或愛好者將軟體掛上去測試：
 
-  - [AQ](https://zh.wikipedia.org/wiki/AQ_\(圍棋軟體\) "wikilink")，即`AQ`系列，，免費圍棋軟體中實力最好的圍棋軟體。
+  - [AQ](../Page/AQ_\(圍棋軟體\).md "wikilink")，即`AQ`系列，，免費圍棋軟體中實力最好的圍棋軟體。
   - [DeepZenGo](../Page/DeepZenGo.md "wikilink")，即`Zen`系列。
   - [GNU
     Go](../Page/GNU_Go.md "wikilink")，即`Gnugo-3.7.10-a1`\[22\]\[23\]\[24\]，系統固定其Elo與BayesElo等級分為1800\[25\]，作為排名的計算基準。
   - [Leela及](../Page/Leela.md "wikilink")[Leela
     Zero](../Page/Leela_Zero.md "wikilink")，即`leela`與`LZ`系列。
-  - [PhoenixGo](https://zh.wikipedia.org/wiki/PhoenixGo "wikilink")，即`cronus`系列，，是CGOS上排名最高的圍棋軟體。
+  - [PhoenixGo](../Page/PhoenixGo.md "wikilink")，即`cronus`系列，，是CGOS上排名最高的圍棋軟體。
   - [天壤围棋](https://zh.wikipedia.org/wiki/天壤围棋 "wikilink")，即`define-3.0`\[26\]\[27\]與`tianrang`\[28\]系列。
 
 ## 相關連結

@@ -37,7 +37,7 @@ CJ-2仅试制1列（CJ2-0303），正式配属[广州铁路集团](https://zh.wi
 
 技术平台：[和谐号CRH3型电力动车组](../Page/和谐号CRH3型电力动车组.md "wikilink")
 
-相关城际动车组：[和谐号CJ1型电力动车组](../Page/和谐号CJ1型电力动车组.md "wikilink")，[CJ6型电力动车组](https://zh.wikipedia.org/wiki/CJ6型电力动车组 "wikilink")，[和谐号CRH3A型电力动车组](../Page/和谐号CRH3A型电力动车组.md "wikilink")
+相关城际动车组：[和谐号CJ1型电力动车组](../Page/和谐号CJ1型电力动车组.md "wikilink")，[CJ6型电力动车组](../Page/CJ6型电力动车组.md "wikilink")，[和谐号CRH3A型电力动车组](../Page/和谐号CRH3A型电力动车组.md "wikilink")
 
 ## 参考资料
 

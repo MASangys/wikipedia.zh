@@ -107,7 +107,7 @@ uBlock Origin为各大主要浏览器[排版引擎的应用程序积极开发](.
   - [AdBlock](../Page/AdBlock.md "wikilink")
 
   -
-  - [Ghostery](https://zh.wikipedia.org/wiki/Ghostery "wikilink")
+  - [Ghostery](../Page/Ghostery.md "wikilink")
 
   - [NoScript](../Page/NoScript.md "wikilink")
 

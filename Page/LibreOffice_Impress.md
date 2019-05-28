@@ -18,8 +18,8 @@ PowerPoint](../Page/Microsoft_PowerPoint.md "wikilink")，「LibreOffice簡報�
   - [LibreOffice](https://zh.wikipedia.org/wiki/LibreOffice "wikilink")
   - [Writer](../Page/LibreOffice_Writer.md "wikilink")
   - [Calc](../Page/LibreOffice_Calc.md "wikilink")
-  - [Draw](https://zh.wikipedia.org/wiki/LibreOffice_Draw "wikilink")
-  - [Math](https://zh.wikipedia.org/wiki/LibreOffice_Math "wikilink")
+  - [Draw](../Page/LibreOffice_Draw.md "wikilink")
+  - [Math](../Page/LibreOffice_Math.md "wikilink")
 
 ## 參考
 

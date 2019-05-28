@@ -75,7 +75,7 @@ SIG GL
   - [貝瑞塔GLX-160附加型榴彈發射器](../Page/貝瑞塔GLX-160附加型榴彈發射器.md "wikilink")
   - [CIS 40 GL附加型榴彈發射器](../Page/CIS_40_GL附加型榴彈發射器.md "wikilink")
   - [CZ 805 G1附加型榴彈發射器](../Page/CZ_805_G1附加型榴彈發射器.md "wikilink")
-  - [EAGLE附加型榴彈發射器](https://zh.wikipedia.org/wiki/EAGLE附加型榴彈發射器 "wikilink")
+  - [EAGLE附加型榴彈發射器](../Page/EAGLE附加型榴彈發射器.md "wikilink")
   - [FN EGLM附加型榴彈發射器](../Page/FN_EGLM附加型榴彈發射器.md "wikilink")
   - [GPBO-40附加型榴彈發射器](https://zh.wikipedia.org/wiki/GPBO-40附加型榴彈發射器 "wikilink")
   - [希爾頓HG40附加型榴彈發射器](https://zh.wikipedia.org/wiki/希爾頓HG40附加型榴彈發射器 "wikilink")
@@ -93,10 +93,9 @@ SIG GL
   - [米爾科姆40毫米附加型榴彈發射器](https://zh.wikipedia.org/wiki/米爾科姆40毫米附加型榴彈發射器 "wikilink")
   - [斯泰爾GL
     40附加型榴彈發射器](https://zh.wikipedia.org/wiki/斯泰爾GL_40附加型榴彈發射器 "wikilink")
-  - [VHS-BG附加型榴彈發射器](https://zh.wikipedia.org/wiki/VHS-BG附加型榴彈發射器 "wikilink")
-  - [Wz.
-    1974鈀式附加型榴彈發射器](https://zh.wikipedia.org/wiki/Wz._1974鈀式附加型榴彈發射器 "wikilink")
-  - [AG-40附加型榴彈發射器](https://zh.wikipedia.org/wiki/AG-40附加型榴彈發射器 "wikilink")
+  - [VHS-BG附加型榴彈發射器](../Page/VHS-BG附加型榴彈發射器.md "wikilink")
+  - [Wz. 1974鈀式附加型榴彈發射器](../Page/Wz._1974鈀式附加型榴彈發射器.md "wikilink")
+  - [AG-40附加型榴彈發射器](../Page/AG-40附加型榴彈發射器.md "wikilink")
   - [GP-25／GP-30／GP-34榴彈發射器](../Page/GP-25附加型榴彈發射器.md "wikilink")
   - [QLG-10／QLG-10A榴弹发射器](../Page/10式枪挂榴弹发射器.md "wikilink")
   - [M32連發式榴彈發射器](../Page/米尔科姆转轮连发式榴弹发射器.md "wikilink")

@@ -19,13 +19,13 @@ EMP44衝鋒槍藉由[開放式槍機射擊](../Page/開放式槍機.md "wikilink
 ## 參見
 
   - [MP18衝鋒槍](../Page/MP18衝鋒槍.md "wikilink")
-  - [MP28衝鋒槍](https://zh.wikipedia.org/wiki/MP28衝鋒槍 "wikilink")
+  - [MP28衝鋒槍](../Page/MP28衝鋒槍.md "wikilink")
   - [MP34冲锋枪](../Page/MP34冲锋枪.md "wikilink")
   - [MP35衝鋒槍](../Page/MP35衝鋒槍.md "wikilink")
   - [MP40冲锋枪](../Page/MP40冲锋枪.md "wikilink")
-  - [MP41衝鋒槍](https://zh.wikipedia.org/wiki/MP41衝鋒槍 "wikilink")
+  - [MP41衝鋒槍](../Page/MP41衝鋒槍.md "wikilink")
   - [MP3008衝鋒槍](../Page/MP3008衝鋒槍.md "wikilink")
-  - [埃爾馬EMP衝鋒槍](https://zh.wikipedia.org/wiki/埃爾馬EMP衝鋒槍 "wikilink")
+  - [埃爾馬EMP衝鋒槍](../Page/埃爾馬EMP衝鋒槍.md "wikilink")
   - [斯登衝鋒槍](../Page/斯登衝鋒槍.md "wikilink")
   - [PPSh-41衝鋒槍](https://zh.wikipedia.org/wiki/PPSh-41衝鋒槍 "wikilink")
   - [PPS-43衝鋒槍](../Page/PPS衝鋒槍.md "wikilink")

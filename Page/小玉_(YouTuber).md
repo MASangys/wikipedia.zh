@@ -6,7 +6,7 @@
 
 ## 頻道風格
 
-  - 影片以開箱和搞怪實驗影片為主。除此之外也與多名[YouTuber合作](https://zh.wikipedia.org/wiki/YouTuber "wikilink")。
+  - 影片以開箱和搞怪實驗影片為主。除此之外也與多名[YouTuber合作](../Page/YouTuber.md "wikilink")。
   - 影片風格偏向搞笑方式，講話時不時會穿插一些怪異的辭彙，而這些詞句也逐漸在學生圈傳開並成為潮流。
 
 ### 紀錄

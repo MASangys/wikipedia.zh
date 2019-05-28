@@ -42,9 +42,9 @@ Markiplier》（直译为《谁杀了Markiplier》）。节目分为四集，讲
 
 ## 頻道形式
 
-Markiplier知名於他[獨立或](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")[恐怖遊戲的實況](../Page/恐怖遊戲.md "wikilink")，這些遊戲包括《[玩具熊的五夜後宮](https://zh.wikipedia.org/wiki/玩具熊的五夜後宮 "wikilink")》系列、《[失憶症：黑暗後裔](https://zh.wikipedia.org/wiki/失憶症：黑暗後裔 "wikilink")》與《[快樂輪子](../Page/快樂輪子.md "wikilink")》等。另外他也會上傳一些喜劇小品影片。
+Markiplier知名於他[獨立或](https://zh.wikipedia.org/wiki/獨立遊戲 "wikilink")[恐怖遊戲的實況](../Page/恐怖遊戲.md "wikilink")，這些遊戲包括《[玩具熊的五夜後宮](../Page/玩具熊的五夜後宮.md "wikilink")》系列、《[失憶症：黑暗後裔](https://zh.wikipedia.org/wiki/失憶症：黑暗後裔 "wikilink")》與《[快樂輪子](../Page/快樂輪子.md "wikilink")》等。另外他也會上傳一些喜劇小品影片。
 
-Markiplier已經與許多YouTuber合作過，他們包括[Jacksepticeye](https://zh.wikipedia.org/wiki/Jacksepticeye "wikilink")、[PewDiePie](../Page/PewDiePie.md "wikilink")、[傑克·道格拉斯等](https://zh.wikipedia.org/wiki/傑克·道格拉斯 "wikilink")。除此之外也有名人，例如[傑克·布萊克](../Page/傑克·布萊克.md "wikilink")\[34\]和[吉米·坎摩尔](https://zh.wikipedia.org/wiki/吉米·坎摩尔 "wikilink")\[35\]。Markiplier亦曾於某些電影亮相，例如《》\[36\]、[迪士尼XD的](../Page/迪士尼XD.md "wikilink")《》\[37\]與《》\[38\]。
+Markiplier已經與許多YouTuber合作過，他們包括[Jacksepticeye](../Page/Jacksepticeye.md "wikilink")、[PewDiePie](../Page/PewDiePie.md "wikilink")、[傑克·道格拉斯等](https://zh.wikipedia.org/wiki/傑克·道格拉斯 "wikilink")。除此之外也有名人，例如[傑克·布萊克](../Page/傑克·布萊克.md "wikilink")\[34\]和[吉米·坎摩尔](https://zh.wikipedia.org/wiki/吉米·坎摩尔 "wikilink")\[35\]。Markiplier亦曾於某些電影亮相，例如《》\[36\]、[迪士尼XD的](../Page/迪士尼XD.md "wikilink")《》\[37\]與《》\[38\]。
 
 除此之外，Markiplier也多次以遊戲實況形式為慈善機構籌款，這些機構包括、與\[39\]\[40\]。截至2016年7月，他和他的觀眾籌得的總金額超過111萬美元\[41\]。
 

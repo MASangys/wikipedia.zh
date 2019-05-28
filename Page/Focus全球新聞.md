@@ -1,4 +1,4 @@
-《**FOCUS全球新聞**》（），[TVBS製播的國際新聞節目](../Page/TVBS_\(頻道\).md "wikilink")，於2013年4月8日開播，由方念華主持\[1\]\[2\]。除TVBS頻道播出外，亦與[TVBS精采台聯播](https://zh.wikipedia.org/wiki/TVBS精采台 "wikilink")。
+《**FOCUS全球新聞**》（），[TVBS製播的國際新聞節目](../Page/TVBS_\(頻道\).md "wikilink")，於2013年4月8日開播，由方念華主持\[1\]\[2\]。除TVBS頻道播出外，亦與[TVBS精采台聯播](../Page/TVBS精采台.md "wikilink")。
 
 ## 簡介
 
@@ -55,7 +55,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/TVBS精采台" title="wikilink">TVBS精采台</a></p></td>
+<td><p><a href="../Page/TVBS精采台.md" title="wikilink">TVBS精采台</a></p></td>
 <td><p>2013年4月8日-</p></td>
 <td><p>每週一至週五 19:00-20:00</p></td>
 <td></td>
@@ -192,7 +192,7 @@
 
 ## 同類型節目
 
-  - 《[文茜的世界周報](https://zh.wikipedia.org/wiki/文茜的世界周報 "wikilink")》（[中天新聞台同类节目](../Page/中天新聞台.md "wikilink")）
+  - 《[文茜的世界周報](../Page/文茜的世界周報.md "wikilink")》（[中天新聞台同类节目](../Page/中天新聞台.md "wikilink")）
   - 《[李四端的雲端世界](https://zh.wikipedia.org/wiki/李四端的雲端世界 "wikilink")》（[東森新闻台同类节目](https://zh.wikipedia.org/wiki/東森新闻台 "wikilink")）
   - 《[全球現場](../Page/全球現場.md "wikilink")》（[公視同类节目](https://zh.wikipedia.org/wiki/公共電視文化事業基金會 "wikilink")）
 

@@ -45,8 +45,7 @@ Ars Technica注意到Fuchsia的很多部分都能工作，尤其是硬件支持\
   - [Haiku](../Page/Haiku.md "wikilink") – 开源桌面操作系统
   - [FreeRTOS](../Page/FreeRTOS.md "wikilink") –
     [微内核](https://zh.wikipedia.org/wiki/微内核 "wikilink")，[实时操作系统](../Page/实时操作系统.md "wikilink")（RTOS）
-  - [Redox](https://zh.wikipedia.org/wiki/Redox "wikilink") -
-    Rust实现的微内核操作系统
+  - [Redox](../Page/Redox.md "wikilink") - Rust实现的微内核操作系统
   - [QNX](../Page/QNX.md "wikilink") – 符合POSIX，微内核实时操作系统（RTOS）
   - [INTEGRITY](../Page/INTEGRITY_\(操作系统\).md "wikilink") –
     微内核实时操作系统（RTOS）

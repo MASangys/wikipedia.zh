@@ -3,7 +3,7 @@
 ## 相關條目
 
   - [宇通ZK6128HG](../Page/宇通ZK6128HG.md "wikilink")
-  - [宇通ZK6128HG1](https://zh.wikipedia.org/wiki/宇通ZK6128HG1 "wikilink")
+  - [宇通ZK6128HG1](../Page/宇通ZK6128HG1.md "wikilink")
 
 ## 外部連結
 

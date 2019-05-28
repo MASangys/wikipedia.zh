@@ -160,7 +160,7 @@ JOKER](../Page/月刊GANGAN_JOKER.md "wikilink")》2015年6月號開始連載\[2
   - 片頭曲「（One Room Sugar Life）」
     作詞：、，作曲、編曲：，主唱：
   - 片尾曲「SWEET HURT」
-    作詞、作曲：，編曲：PRIMAGIC，主唱：[ReoNa](https://zh.wikipedia.org/wiki/ReoNa "wikilink")
+    作詞、作曲：，編曲：PRIMAGIC，主唱：[ReoNa](../Page/ReoNa.md "wikilink")
   - 插入曲「」（第9話）
     作詞：，作曲、編曲：毛蟹，主唱：ReoNa
 

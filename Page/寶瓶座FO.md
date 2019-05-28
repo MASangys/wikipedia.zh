@@ -1,5 +1,5 @@
 **寶瓶座FO**（**FO
-Aquarii**）是位於[寶瓶座的](../Page/寶瓶座.md "wikilink")[中介偏振星](https://zh.wikipedia.org/wiki/中介偏振星 "wikilink")\[1\]。
+Aquarii**）是位於[寶瓶座的](../Page/寶瓶座.md "wikilink")[中介偏振星](../Page/中介偏振星.md "wikilink")\[1\]。
 
 ## 概要
 

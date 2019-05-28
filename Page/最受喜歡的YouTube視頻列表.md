@@ -33,8 +33,8 @@
 <p>1.</p>
 </center></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Despacito" title="wikilink">Despacito</a>[3]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/慢慢來_(路易斯·方辛歌曲)" title="wikilink">慢慢來</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/路易斯·方辛" title="wikilink">路易斯·方辛</a><small>（<a href="https://zh.wikipedia.org/wiki/洋基老爹" title="wikilink">洋基老爹伴唱</a>）</small></p></td>
+<td><p><a href="../Page/慢慢來_(路易斯·方辛歌曲).md" title="wikilink">慢慢來</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/路易斯·方辛" title="wikilink">路易斯·方辛</a><small>（<a href="../Page/洋基老爹.md" title="wikilink">洋基老爹伴唱</a>）</small></p></td>
 <td><p>32,866,639</p></td>
 <td><p>%}}</p></td>
 <td><p>2017年1月12日</p></td>
@@ -130,7 +130,7 @@
 </center></td>
 <td><p>[11]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/J·巴爾文" title="wikilink">J·巴爾文</a>、</p></td>
+<td><p><a href="../Page/J·巴爾文.md" title="wikilink">J·巴爾文</a>、</p></td>
 <td><p>11,966,309</p></td>
 <td><p>%}}</p></td>
 <td><p>2017年6月29日</p></td>
@@ -140,8 +140,8 @@
 <td><center>
 <p>10.</p>
 </center></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Alone_(Marshmello歌曲)" title="wikilink">Alone</a>[12]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Alone_(Marshmello歌曲)" title="wikilink">孤獨</a></p></td>
+<td><p><a href="../Page/Alone_(Marshmello歌曲).md" title="wikilink">Alone</a>[12]</p></td>
+<td><p><a href="../Page/Alone_(Marshmello歌曲).md" title="wikilink">孤獨</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/棉花糖_(音樂人)" title="wikilink">棉花糖</a></p></td>
 <td><p>11,760,474</p></td>
 <td><p>%}}</p></td>
@@ -262,7 +262,7 @@
 </center></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛情守則" title="wikilink">New Rules</a>[22]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛情守則" title="wikilink">愛情守則</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/杜娃·黎波" title="wikilink">杜娃·黎波</a></p></td>
+<td><p><a href="../Page/杜娃·黎波.md" title="wikilink">杜娃·黎波</a></p></td>
 <td><p>9,722,573</p></td>
 <td><p>%}}</p></td>
 <td><p>2017年7月7日</p></td>
@@ -336,7 +336,7 @@
 </center></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/靠近我_(老菸槍雙人組歌曲)" title="wikilink">Closer</a>[28]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/靠近我_(老菸槍雙人組歌曲)" title="wikilink">靠近我</a></p></td>
-<td><p><a href="../Page/老菸槍雙人組.md" title="wikilink">老菸槍雙人組</a><small>（<a href="https://zh.wikipedia.org/wiki/海爾希_(歌手)" title="wikilink">海爾希伴唱</a>）</small></p></td>
+<td><p><a href="../Page/老菸槍雙人組.md" title="wikilink">老菸槍雙人組</a><small>（<a href="../Page/海爾希_(歌手).md" title="wikilink">海爾希伴唱</a>）</small></p></td>
 <td><p>9,240,320</p></td>
 <td><p>%}}</p></td>
 <td><p>2016年7月29日</p></td>
@@ -384,7 +384,7 @@
 </center></td>
 <td><p>[32]</p></td>
 <td></td>
-<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a><small>（<a href="https://zh.wikipedia.org/wiki/海爾希_(歌手)" title="wikilink">海爾希伴唱</a>）</small></p></td>
+<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a><small>（<a href="../Page/海爾希_(歌手).md" title="wikilink">海爾希伴唱</a>）</small></p></td>
 <td><p>9,060,000</p></td>
 <td><p>%}}</p></td>
 <td><p>2019年4月12日</p></td>

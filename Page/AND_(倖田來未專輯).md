@@ -5,8 +5,8 @@
   - 本作為倖田來未2018年第一彈原創專輯，下一張原創專輯為《[DNA](../Page/DNA_\(倖田來未專輯\).md "wikilink")》\[1\]。
   - 本作主要以歐美化的[電子舞曲](../Page/電子舞曲.md "wikilink")、[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")、[嘻哈曲風構成](../Page/嘻哈.md "wikilink")，相較於上專的《[W
     FACE～outside～](../Page/W_FACE.md "wikilink")》的舞曲更加進化\[2\]。
-  - 三連發單曲中收錄《[LIT](https://zh.wikipedia.org/wiki/LIT "wikilink")》與《[NEVER
-    ENOUGH](https://zh.wikipedia.org/wiki/NEVER_ENOUGH "wikilink")》，而《[HUSH](https://zh.wikipedia.org/wiki/HUSH_\(倖田來未單曲\) "wikilink")》則並未收錄在內。
+  - 三連發單曲中收錄《[LIT](../Page/LIT.md "wikilink")》與《[NEVER
+    ENOUGH](../Page/NEVER_ENOUGH.md "wikilink")》，而《[HUSH](../Page/HUSH_\(倖田來未單曲\).md "wikilink")》則並未收錄在內。
   - 本作發行後，與專輯連動的粉絲俱樂部會員限定巡迴演唱會「Koda Kumi Fanclub Tour ～AND～」於4月開始舉行。
 
 ## 發行版本

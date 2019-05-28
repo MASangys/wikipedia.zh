@@ -1,4 +1,4 @@
-為2017年[中國網路電視劇](../Page/中國.md "wikilink")，第二季改編自尼罗同名第三部作品，由[韩东君](../Page/韩东君.md "wikilink")、[陈瑶](../Page/陈瑶.md "wikilink")、[王彦霖](../Page/王彦霖.md "wikilink")、[李蘭迪](https://zh.wikipedia.org/wiki/李蘭迪 "wikilink")、[Mike及](https://zh.wikipedia.org/wiki/Mike_D._Angelo "wikilink")[高泰宇領銜主演](https://zh.wikipedia.org/wiki/高泰宇 "wikilink")，故事的開端將定於20年后的1937年，把岳綺羅吞噬的饕餮化為人形出來人世間，人稱「小丁貓」，白琉璃化身變成一條小白蛇，顧大人之子顧基也將登場。除此之外，蘇桃將加入一同冒險、反派人物白川凜也將登場與無心對陣。該劇於2016年8月8日開機，同年11月初杀青，亦於2017年8月14日在[搜狐视频和](../Page/搜狐.md "wikilink")[腾讯视频首播](../Page/腾讯视频.md "wikilink")。\[1\]
+為2017年[中國網路電視劇](../Page/中國.md "wikilink")，第二季改編自尼罗同名第三部作品，由[韩东君](../Page/韩东君.md "wikilink")、[陈瑶](../Page/陈瑶.md "wikilink")、[王彦霖](../Page/王彦霖.md "wikilink")、[李蘭迪](../Page/李蘭迪.md "wikilink")、[Mike及](https://zh.wikipedia.org/wiki/Mike_D._Angelo "wikilink")[高泰宇領銜主演](../Page/高泰宇.md "wikilink")，故事的開端將定於20年后的1937年，把岳綺羅吞噬的饕餮化為人形出來人世間，人稱「小丁貓」，白琉璃化身變成一條小白蛇，顧大人之子顧基也將登場。除此之外，蘇桃將加入一同冒險、反派人物白川凜也將登場與無心對陣。該劇於2016年8月8日開機，同年11月初杀青，亦於2017年8月14日在[搜狐视频和](../Page/搜狐.md "wikilink")[腾讯视频首播](../Page/腾讯视频.md "wikilink")。\[1\]
 
 ## 播出時間及平台
 
@@ -40,7 +40,7 @@
 
 ## 劇情簡介
 
-二十世纪三十年代初，位于上海郊区的苏宅有人登门，求购苏家的家传古董——宋代瓷枕，苏老爷（[劉松仁飾](../Page/劉松仁.md "wikilink")）严辞拒绝，并砸碎瓷枕以示决绝。女儿苏桃（[李蘭迪飾](https://zh.wikipedia.org/wiki/李蘭迪 "wikilink")）出来收拾，却意外在碎瓷中发现一枚精巧的铜镜。她一时好奇将铜镜拿回阁楼把玩，不料却由此引发一系列诡异离奇之事。
+二十世纪三十年代初，位于上海郊区的苏宅有人登门，求购苏家的家传古董——宋代瓷枕，苏老爷（[劉松仁飾](../Page/劉松仁.md "wikilink")）严辞拒绝，并砸碎瓷枕以示决绝。女儿苏桃（[李蘭迪飾](../Page/李蘭迪.md "wikilink")）出来收拾，却意外在碎瓷中发现一枚精巧的铜镜。她一时好奇将铜镜拿回阁楼把玩，不料却由此引发一系列诡异离奇之事。
 
 ## 演員表
 
@@ -149,7 +149,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/李蘭迪" title="wikilink">李蘭迪</a><br />
+<td><p><strong><a href="../Page/李蘭迪.md" title="wikilink">李蘭迪</a><br />
 <small>童年：祁心蕊</small></strong></p></td>
 <td><p>蘇　桃</p></td>
 <td><p><strong>富家閨秀<br />
@@ -181,7 +181,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/高泰宇" title="wikilink">高泰宇</a></strong></p></td>
+<td><p><strong><a href="../Page/高泰宇.md" title="wikilink">高泰宇</a></strong></p></td>
 <td><p>白川凛</p></td>
 <td><p><strong>東洋陰陽師<br />
 </strong>唐代日本陰陽師的後代子孫，祖先曾至中國，在兩年內，次次挑戰大法師白琉璃失敗，白琉璃憐其努力不懈的心態，在其離開中國前，贈送一面法器銅鏡作為離別禮物。祖先為人正義，以陰陽師身份除妖降魔。但其後代子孫白川凜卻心術不正，利用自己煙土商社的身份，吸引一些中國商人為自己做事。又因本家祖傳銅鏡年久失修，即將損毀，急需另一面(孿生)完好銅鏡護身（因其家族祖傳銅鏡已損傷，即將壓制不住所有家族式神，欲反噬現今銅鏡主人）。因此成為促其加速殺害蘇桃一家的原由（欲霸佔蘇家新銅鏡）。而於上海，再次追踪到銅鏡新主人蘇桃後，處處伺機、且次次強行索討銅鏡。最終死在蘇桃的手裡。</p></td>

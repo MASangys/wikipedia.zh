@@ -54,7 +54,7 @@ TUning By Emulation
 ## 参见
 
   -
-  - [显式拥塞通知](https://zh.wikipedia.org/wiki/显式拥塞通知 "wikilink")
+  - [显式拥塞通知](../Page/显式拥塞通知.md "wikilink")
 
   - [传输控制协议（TCP） -
     发展过程](https://zh.wikipedia.org/wiki/传输控制协议#發展過程 "wikilink")

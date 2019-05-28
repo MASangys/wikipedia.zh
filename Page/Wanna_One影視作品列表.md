@@ -470,14 +470,14 @@ One自](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")2017年出道至今�
 <tr class="even">
 <td><p>5月12日</p></td>
 <td><p>JTBC</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Idol_Room" title="wikilink">Idol Room</a>》</p></td>
+<td><p>《<a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a>》</p></td>
 <td><p>全體</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5月19日</p></td>
 <td><p>MBC</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/意外的Q" title="wikilink">意外的Q</a>》</p></td>
+<td><p>《<a href="../Page/意外的Q.md" title="wikilink">意外的Q</a>》</p></td>
 <td><p>金在奐</p></td>
 <td></td>
 </tr>
@@ -568,7 +568,7 @@ One自](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")2017年出道至今�
 <tr class="even">
 <td><p>10月11日-10月18日</p></td>
 <td><p>Mnet</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/家訪老師" title="wikilink">家訪老師</a>》</p></td>
+<td><p>《<a href="../Page/家訪老師.md" title="wikilink">家訪老師</a>》</p></td>
 <td><p>李大輝</p></td>
 <td></td>
 </tr>

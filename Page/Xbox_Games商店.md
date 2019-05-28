@@ -1,4 +1,4 @@
-是微软游戏机[Xbox的](https://zh.wikipedia.org/wiki/Xbox "wikilink")[数字销售平台](https://zh.wikipedia.org/wiki/数字销售 "wikilink")。服务中可下载、购买电子游戏，获取游戏扩展内容、[游戏演示](https://zh.wikipedia.org/wiki/游戏演示 "wikilink")，以及玩家头像、界面主题等杂项内容。
+是微软游戏机[Xbox的](../Page/Xbox.md "wikilink")[数字销售平台](https://zh.wikipedia.org/wiki/数字销售 "wikilink")。服务中可下载、购买电子游戏，获取游戏扩展内容、[游戏演示](https://zh.wikipedia.org/wiki/游戏演示 "wikilink")，以及玩家头像、界面主题等杂项内容。
 
 早期服务可下载电影、剧集等视频内容，但到2012年年末时，这些业务由[Xbox
 Music和](https://zh.wikipedia.org/wiki/Xbox_Music "wikilink")[Xbox

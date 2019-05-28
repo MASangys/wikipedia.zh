@@ -4,9 +4,9 @@ Girls成員](../Page/Wonder_Girls.md "wikilink")[李善美的首張迷你專輯]
 
 ## 發行歷程
 
-2013年8月26日，善美以單曲《[24小時也不夠](https://zh.wikipedia.org/wiki/24小時也不夠 "wikilink")》Solo出道。\[1\]
+2013年8月26日，善美以單曲《[24小時也不夠](../Page/24小時也不夠.md "wikilink")》Solo出道。\[1\]
 
-2014年1月31日，宣布善美預計於2月17日攜首張迷你專輯回歸歌壇\[2\]\[3\]\[4\]\[5\]。2月6日，公開專輯預告\[6\]。2月10日，公開專輯曲目，收錄歌曲包括其出道單曲《[24小時也不夠](https://zh.wikipedia.org/wiki/24小時也不夠 "wikilink")》，同時公開專輯客串陣容，包括[Wonder
+2014年1月31日，宣布善美預計於2月17日攜首張迷你專輯回歸歌壇\[2\]\[3\]\[4\]\[5\]。2月6日，公開專輯預告\[6\]。2月10日，公開專輯曲目，收錄歌曲包括其出道單曲《[24小時也不夠](../Page/24小時也不夠.md "wikilink")》，同時公開專輯客串陣容，包括[Wonder
 Girls成員](../Page/Wonder_Girls.md "wikilink")[婑斌及](https://zh.wikipedia.org/wiki/婑斌 "wikilink")[譽恩](https://zh.wikipedia.org/wiki/譽恩 "wikilink")、[GOT7成員](../Page/GOT7.md "wikilink")[Jackson以及JYP娛樂旗下練習生朴Lena](../Page/王嘉爾.md "wikilink")\[7\]。2月17日，專輯正式發行。\[8\]
 
 ## 歌曲
@@ -14,7 +14,7 @@ Girls成員](../Page/Wonder_Girls.md "wikilink")[婑斌及](https://zh.wikipedia
 專輯共收錄6首歌曲：
 
   - **滿月**：由[勇敢兄弟製作](../Page/勇敢兄弟.md "wikilink")，將[黃銅及](https://zh.wikipedia.org/wiki/黃銅 "wikilink")[吉他的聲音作為主軸](../Page/吉他.md "wikilink")，以「滿月」比喻愛情，音樂錄影帶則講述吸血鬼少女在滿月之後等待愛情的故事。
-  - **[24小時也不夠](https://zh.wikipedia.org/wiki/24小時也不夠 "wikilink")**：本曲是善美的個人出道單曲。
+  - **[24小時也不夠](../Page/24小時也不夠.md "wikilink")**：本曲是善美的個人出道單曲。
   - **停止了的時間**：由[GOT7的](../Page/GOT7.md "wikilink")[Jackson參與本曲的](../Page/王嘉爾.md "wikilink")[饒舌](../Page/饒舌.md "wikilink")。
   - **如果那就是你**：與譽恩合唱之版本，僅收錄於實體專輯中。
 

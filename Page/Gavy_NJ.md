@@ -585,7 +585,7 @@ MV 更請來歌手兼演員的 Alex 來擔任男主角，與新成員飾演情�
 <tr class="even">
 <td><p>2014年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/對我而言可愛的她" title="wikilink">對我而言可愛的她</a>》</p></td>
+<td><p>《<a href="../Page/對我而言可愛的她.md" title="wikilink">對我而言可愛的她</a>》</p></td>
 <td><p>Rewind</p></td>
 <td><p>全員</p></td>
 <td><p>與Jin Min Ho合唱</p></td>
@@ -601,7 +601,7 @@ MV 更請來歌手兼演員的 Alex 來擔任男主角，與新成員飾演情�
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/君主－假面的主人" title="wikilink">君主－假面的主人</a>》</p></td>
+<td><p>《<a href="../Page/君主－假面的主人.md" title="wikilink">君主－假面的主人</a>》</p></td>
 <td><p>愛心</p></td>
 <td><p>全員</p></td>
 <td></td>

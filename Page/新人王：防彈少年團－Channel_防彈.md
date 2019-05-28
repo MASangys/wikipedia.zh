@@ -9,7 +9,7 @@ Hit娛樂公司旗下](../Page/Big_Hit娛樂.md "wikilink")[男子團體](https:
   - [Rap Monster](../Page/金南俊.md "wikilink")
   - [SUGA](../Page/閔玧其.md "wikilink")
   - [Jin](../Page/金碩珍.md "wikilink")
-  - [j-hope](https://zh.wikipedia.org/wiki/鄭號錫 "wikilink")
+  - [j-hope](../Page/鄭號錫.md "wikilink")
   - [Jimin](../Page/朴智旻.md "wikilink")
   - [V](https://zh.wikipedia.org/wiki/金泰亨_\(1995年生\) "wikilink")
   - [Jung Kook](../Page/田柾國.md "wikilink")

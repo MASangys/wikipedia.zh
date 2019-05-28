@@ -6,8 +6,7 @@ too**》是[日本的女子偶像組合](../Page/日本.md "wikilink")[早安少
   - 十二期成員[尾形春水](../Page/尾形春水.md "wikilink")、[野中美希](../Page/野中美希.md "wikilink")、[牧野真莉愛](../Page/牧野真莉愛.md "wikilink")、[羽賀朱音](../Page/羽賀朱音.md "wikilink")；十三期成員[加賀楓](../Page/加賀楓.md "wikilink")、[橫山玲奈](../Page/橫山玲奈.md "wikilink")；十四期成員[森戶知沙希加入以後的第一張原創專輯](../Page/森戶知沙希.md "wikilink")；亦是十期成員[工藤遙及十二期成員](../Page/工藤遙.md "wikilink")[尾形春水最後參與演唱的專輯](../Page/尾形春水.md "wikilink")。
   - 與上一張專輯《[早安少女組。全B面單曲選輯
     Vol.2](https://zh.wikipedia.org/wiki/早安少女組。全B面單曲選輯_Vol.2 "wikilink")》及上一張原創專輯《[14章
-    ～The
-    message～](https://zh.wikipedia.org/wiki/14章_～The_message～ "wikilink")》相距約3年。
+    ～The message～](../Page/14章_～The_message～.md "wikilink")》相距約3年。
   - 收錄第63張單曲《[BRAND NEW MORNING / Jealousy
     Jealousy](https://zh.wikipedia.org/wiki/BRAND_NEW_MORNING_/_Jealousy_Jealousy "wikilink")》及第64張單曲《[不要阻礙
     Here We Go\! / 無畏的 Go Sign /

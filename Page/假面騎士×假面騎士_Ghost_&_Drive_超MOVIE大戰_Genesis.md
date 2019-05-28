@@ -1,5 +1,5 @@
 《**假面騎士×假面騎士 Ghost & Drive 超MOVIE大戰
-Genesis**》（），是日本特攝節目《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》和《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》聯動劇場版，日本地區於2015年12月12日上映。
+Genesis**》（），是日本特攝節目《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》和《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》聯動劇場版，日本地區於2015年12月12日上映。
 
 本作劇場版的口號為「世紀大天才＜李奧納多·達文西＞ VS 假面騎士」「10年前種下的謎團、Ghost和Drive<起源>『創世紀』的聯繫」。
 
@@ -71,7 +71,7 @@ Genesis**》（），是日本特攝節目《[假面騎士Drive](https://zh.wiki
 
   -
 
-**西城究（）**（[濱野謙太飾](https://zh.wikipedia.org/wiki/濱野謙太 "wikilink")）
+**西城究（）**（[濱野謙太飾](../Page/濱野謙太.md "wikilink")）
 
   -
 
@@ -97,7 +97,7 @@ Genesis**》（），是日本特攝節目《[假面騎士Drive](https://zh.wiki
 
   -
 
-**御成（）**（[柳喬之飾](https://zh.wikipedia.org/wiki/柳喬之 "wikilink")）
+**御成（）**（[柳喬之飾](../Page/柳喬之.md "wikilink")）
 
   -
 
@@ -284,10 +284,10 @@ Genesis**》（），是日本特攝節目《[假面騎士Drive](https://zh.wiki
   - 深海誠 / 假面騎士Specter - [山本涼介](../Page/山本涼介.md "wikilink") 飾/聲
   - 詩島霧子 - [內田理央](../Page/內田理央.md "wikilink") 飾
   - 月村朱里 - [大澤光](../Page/大澤光.md "wikilink") 飾
-  - 御成 - [柳喬之](https://zh.wikipedia.org/wiki/柳喬之 "wikilink") 飾
+  - 御成 - [柳喬之](../Page/柳喬之.md "wikilink") 飾
   - 本願寺純 / 假面騎士純 -  飾
   - 澤神鈴奈 - [吉井怜](../Page/吉井怜.md "wikilink") 飾
-  - 西城究 - [濱野謙太](https://zh.wikipedia.org/wiki/濱野謙太 "wikilink") 飾
+  - 西城究 - [濱野謙太](../Page/濱野謙太.md "wikilink") 飾
   - 追田現八郎 - [井俣太良](../Page/井俣太良.md "wikilink") 飾
   - Heart / 心臟惡路程式 - [蕨野友也](../Page/蕨野友也.md "wikilink") 飾/聲
   - Brain / 頭腦惡路程式 -  飾/聲

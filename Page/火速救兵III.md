@@ -202,7 +202,7 @@ Jackie</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃焯言" title="wikilink">黃焯言</a></p></td>
+<td><p><a href="../Page/黃焯言.md" title="wikilink">黃焯言</a></p></td>
 <td><p>謙　謙</p></td>
 <td><p>等待消防員去車的小孩</p></td>
 <td></td>

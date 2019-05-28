@@ -91,8 +91,7 @@ DARKNESS在2009年11月27日發售的[冒險類型](https://zh.wikipedia.org/wik
 
 ## 相關條目
 
-  - [Dearest
-    Blue](https://zh.wikipedia.org/wiki/Dearest_Blue "wikilink")：BLUE系列的第8個作品。
+  - [Dearest Blue](../Page/Dearest_Blue.md "wikilink")：BLUE系列的第8個作品。
 
 ## 參考來源
 

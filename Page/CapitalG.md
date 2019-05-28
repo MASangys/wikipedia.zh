@@ -17,7 +17,7 @@ Fratz（在TPG有13年的工作经验）。\[4\]<span class="cx-segment" data-se
 ## 投资历史
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Google_Capital_logo.png "fig:缩略图")
-2013年，CapitalG宣布对[SurveyMonkey](https://zh.wikipedia.org/wiki/SurveyMonkey "wikilink")（以云计算为基础的网络调查服务商）和[借贷俱乐部](https://zh.wikipedia.org/wiki/借貸俱樂部 "wikilink")（总部设在[旧金山的美国P](../Page/旧金山.md "wikilink")2P借贷平台）发起投资。\[6\]\[7\]
+2013年，CapitalG宣布对[SurveyMonkey](https://zh.wikipedia.org/wiki/SurveyMonkey "wikilink")（以云计算为基础的网络调查服务商）和[借贷俱乐部](../Page/借貸俱樂部.md "wikilink")（总部设在[旧金山的美国P](../Page/旧金山.md "wikilink")2P借贷平台）发起投资。\[6\]\[7\]
 
 2014年，CapitalG对[印度房地产门户网站](../Page/印度.md "wikilink")[CommonFloor](https://zh.wikipedia.org/wiki/CommonFloor "wikilink")、\[8\][美国公司](../Page/美国.md "wikilink")[Freshdesk](https://zh.wikipedia.org/wiki/Freshdesk "wikilink")、\[9\][美国财务管理平台](../Page/美国.md "wikilink")[Credit
 Karma](https://zh.wikipedia.org/wiki/Credit_Karma "wikilink")、\[10\]和[中国高科技公司](https://zh.wikipedia.org/wiki/中国 "wikilink")[苏州旭创科技有限公司](https://zh.wikipedia.org/wiki/苏州旭创科技有限公司 "wikilink")\[11\]\[12\]等九家公司发起投资。

@@ -169,7 +169,7 @@ Hero）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 <td><p><strong><a href="../Page/移動迷宮_(電影).md" title="wikilink">移動迷宮</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/莎蓮·活莉" title="wikilink">莎蓮·活莉</a></p></td>
+<td><p><a href="../Page/莎蓮·活莉.md" title="wikilink">莎蓮·活莉</a></p></td>
 <td><p>碧翠絲·翠絲·普里爾</p></td>
 <td><p><a href="../Page/分歧者2：叛亂者.md" title="wikilink">分歧者2：叛亂者</a></p></td>
 <td></td>

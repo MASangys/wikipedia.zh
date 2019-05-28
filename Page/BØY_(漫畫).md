@@ -28,7 +28,7 @@
 <!-- end list -->
 
   - 一条誠（）
-    聲：[有馬克明](https://zh.wikipedia.org/wiki/織田優成 "wikilink")（日本）；[李香生](../Page/李香生.md "wikilink")（台灣）；[雷霆](../Page/雷霆.md "wikilink")（香港）
+    聲：[有馬克明](../Page/織田優成.md "wikilink")（日本）；[李香生](../Page/李香生.md "wikilink")（台灣）；[雷霆](../Page/雷霆.md "wikilink")（香港）
     第二男主角。在故事開始時是樂高1年5班的男學生。日日野都叫他悶聲色狼。雖然他們經常吵架，但在危難時候，他們會十分合拍。比起一邊耳朵戴耳環的日日野，留著棕色長髪的一條誠更有不良少年的感覺。常用的武器「匹克」（即彈吉他用的小道具）。
     在FAN給的綽號為搖滾之神。是搖滾樂隊的成員，有晴矢、雨宮、椎名干。女友是伊部麗子，曾經喜歡的人是君島祥子。對於生命中至關重要的是朋友、搖滾以及信念。
     BOY是以刺青的形式出現在一條誠的胳膊上的，「提醒自己活得像個男子漢」。一條懷著這樣的想法，把三個英文字母連同一種精神刻進血肉。
@@ -56,7 +56,7 @@
 <!-- end list -->
 
   - 揉山正象（）
-    聲：[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")（日本）；[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")（香港）
+    聲：[梁田清之](../Page/梁田清之.md "wikilink")（日本）；[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")（香港）
     初登場時為私立楽園高校3年生的男子學生。外表看似三四十歲的中年人，實際上卻是十八歲的高中生。
     故事一開始是樂園高中的老大，但被復學的日日野輕鬆擊倒，其實實力不算弱，在一般人之上，喜歡美女，壞主意很多，但其實不算個大壞人，有時候還頗講義氣的，有個跟自己完全長得不像的可愛妹妹．揉山靜花，非常疼愛她。
 
@@ -75,7 +75,7 @@
 <!-- end list -->
 
   - 畢卡索（）
-    聲：[佐佐木菜摘](https://zh.wikipedia.org/wiki/佐佐木菜摘 "wikilink")（日本）
+    聲：[佐佐木菜摘](../Page/佐佐木菜摘.md "wikilink")（日本）
     北原所養的貓咪。
 
 <!-- end list -->
@@ -397,24 +397,22 @@ BØY**』為題，1997年4月7日於同年9月29日到1997年6月2日播放，�
   - 音楽：小林信吾
   - 製片人：大野実、浅利義美
   - 動畫制作：[TRIANGLE STAFF](../Page/TRIANGLE_STAFF.md "wikilink")
-  - 製作：BØY[製作委員会](https://zh.wikipedia.org/wiki/製作委員会 "wikilink")、[讀賣廣告社](https://zh.wikipedia.org/wiki/讀賣廣告社 "wikilink")
+  - 製作：BØY[製作委員会](https://zh.wikipedia.org/wiki/製作委員会 "wikilink")、[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")
 
 ### 主題曲
 
   - 片頭曲
 
-:; 「[TIGHT-BREAK](https://zh.wikipedia.org/wiki/TIGHT-BREAK "wikilink")」
+:; 「[TIGHT-BREAK](../Page/TIGHT-BREAK.md "wikilink")」
 
   -
 
       -
-        作詞：柴田浩之、倉增啓，作曲：森川浩憲，編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")，主唱：[SPYKE](https://zh.wikipedia.org/wiki/SPYKE "wikilink")
+        作詞：柴田浩之、倉增啓，作曲：森川浩憲，編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")，主唱：[SPYKE](../Page/SPYKE.md "wikilink")
 
 :; 片尾曲
 
-:; 「[WORDS OF
-FREE](https://zh.wikipedia.org/wiki/TIGHT-BREAK "wikilink")」 （第1話 -
-第13話）
+:; 「[WORDS OF FREE](../Page/TIGHT-BREAK.md "wikilink")」 （第1話 - 第13話）
 
 :: 作詞：柴田浩之、倉增啓，作曲：柴田浩之，編曲：[大平勉](../Page/大平勉.md "wikilink")，主唱：SPYKE
 

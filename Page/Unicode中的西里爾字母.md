@@ -5,7 +5,7 @@
   - [西里爾字母擴展-A](../Page/西里爾字母擴展-A.md "wikilink")：[U+2DE0–U+2DFF](https://www.unicode.org/charts/PDF/U2DE0.pdf)，共32個字符。\[4\]
   - [西里爾字母擴展-B](../Page/西里爾字母擴展-B.md "wikilink")：[U+A640–U+A69F](https://www.unicode.org/charts/PDF/UA640.pdf)，共96個字符。\[5\]\[6\]
   - [西里爾字母擴展-C](../Page/西里爾字母擴展-C.md "wikilink")：[U+1C80–U+1C8F](https://www.unicode.org/charts/PDF/U1C80.pdf)，共9個字符。\[7\]
-  - [音標擴展](https://zh.wikipedia.org/wiki/音標擴展_\(Unicode區段\) "wikilink")：[U+1D2B，U+1D78](https://www.unicode.org/charts/PDF/U1D00.pdf)，含2個西里爾字符。\[8\]
+  - [音標擴展](../Page/音標擴展_\(Unicode區段\).md "wikilink")：[U+1D2B，U+1D78](https://www.unicode.org/charts/PDF/U1D00.pdf)，含2個西里爾字符。\[8\]
   - [組合用半符號](../Page/組合用半符號_\(Unicode區段\).md "wikilink")：[U+FE2E–U+FE2F](https://www.unicode.org/charts/PDF/UFE20.pdf)，含2個西里爾字符。\[9\]
 
 U+0400–U+045D所含的西里爾字符事實上與[ISO

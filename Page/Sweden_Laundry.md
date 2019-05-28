@@ -162,7 +162,7 @@
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 </ul></td>
 <td style="text-align: center;"><ol>
-<li><strong>Snowball (Feat. <a href="https://zh.wikipedia.org/wiki/Vanilla_Acoustic" title="wikilink">Vanilla Acoustic</a>)</strong></li>
+<li><strong>Snowball (Feat. <a href="../Page/Vanilla_Acoustic.md" title="wikilink">Vanilla Acoustic</a>)</strong></li>
 <li><strong>Be Your Christmas (Feat. <a href="https://zh.wikipedia.org/wiki/臉紅的思春期" title="wikilink">臉紅的思春期</a>)</strong></li>
 <li><strong>그 겨울（那個冬天） (Feat. 스무살 &amp; 레터 플로우)</strong></li>
 <li>Like Christmas (2018 Remastered Ver.)</li>
@@ -212,7 +212,7 @@
 <tr class="odd">
 <td><p>내게 와요（Come to Me）</p></td>
 <td><p>쇼파르뮤직 컴필레이션 Vol. 1</p></td>
-<td><p>翻唱自<a href="https://zh.wikipedia.org/wiki/Vanilla_Acoustic" title="wikilink">Vanilla Acoustic歌曲</a></p></td>
+<td><p>翻唱自<a href="../Page/Vanilla_Acoustic.md" title="wikilink">Vanilla Acoustic歌曲</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -254,7 +254,7 @@
 <td><p>죽을만큼 아파서 Part 2 (死一樣的痛過 Part 2)</p></td>
 <td><p>MISS ME OR DISS ME</p></td>
 <td><p>仁英</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MC夢" title="wikilink">MC夢</a></p></td>
+<td><p><a href="../Page/MC夢.md" title="wikilink">MC夢</a></p></td>
 </tr>
 <tr class="even">
 <td><p>말하고 있어（說著話）</p></td>
@@ -289,7 +289,7 @@
 <td><p>Romantic Wish</p></td>
 <td><p>쇼파르뮤직 컴필레이션 Vol. 2</p></td>
 <td><p>全員</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/臉紅的思春期" title="wikilink">臉紅的思春期</a>、<a href="https://zh.wikipedia.org/wiki/Vanilla_Acoustic" title="wikilink">Vanilla Acoustic</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/臉紅的思春期" title="wikilink">臉紅的思春期</a>、<a href="../Page/Vanilla_Acoustic.md" title="wikilink">Vanilla Acoustic</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>

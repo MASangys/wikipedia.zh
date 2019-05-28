@@ -248,7 +248,7 @@
 
 #### 商業遊戲作品
 
-  - [殺戮的天使](https://zh.wikipedia.org/wiki/殺戮的天使 "wikilink")，作者：[星屑KRNKRN
+  - [殺戮的天使](../Page/殺戮的天使.md "wikilink")，作者：[星屑KRNKRN
     (真田まこと)](http://nanos.jp/hskzkrnkrn/)
       - [正體中文網站](https://gamemaga.denfaminicogamer.jp/satsuriku/zh/)
   - [為美好的世界獻上祝福！in the
@@ -257,8 +257,7 @@
 
 #### 原創遊戲作品
 
-  - [霧雨飄零之森](https://zh.wikipedia.org/wiki/霧雨飄零之森 "wikilink")，作者：星屑KRNKRN
-    (真田まこと)
+  - [霧雨飄零之森](../Page/霧雨飄零之森.md "wikilink")，作者：星屑KRNKRN (真田まこと)
   - ぼくらの大革命！，作者：[木星ペンギン](http://woodpenguin.blog.fc2.com/)
   - [Mogeko
     Castle](http://funamusea.com/story/mogeko_castle/)，作者：[海底囚人](http://funamusea.com/)
@@ -280,8 +279,7 @@
     rabbit
   - (2014) [永恆的賽妮亞](http://senia.ftp.cc/)，作者：聖堂祭司
   - (2016) 私塾，作者：貓咪學園
-  - (2017)
-    [幻想的交響曲](https://zh.wikipedia.org/wiki/幻想的交響曲 "wikilink")，作者：Z\&S
+  - (2017) [幻想的交響曲](../Page/幻想的交響曲.md "wikilink")，作者：Z\&S
 
 ## [RPG Maker MV](../Page/RPG_Maker_MV.md "wikilink")
 

@@ -24,7 +24,7 @@
 <td><ul>
 <li></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/矢野正明" title="wikilink">矢野正明</a></li>
+<li><a href="../Page/矢野正明.md" title="wikilink">矢野正明</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/植田航平" title="wikilink">植田航平</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/後呂直樹" title="wikilink">後呂直樹</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/大坪孝充" title="wikilink">大坪孝充</a></li>
@@ -49,8 +49,8 @@
 <tbody>
 <tr class="odd">
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/笹本優子" title="wikilink">笹本優子</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/相坂優歌" title="wikilink">相坂優歌</a></li>
+<li><a href="../Page/笹本優子.md" title="wikilink">笹本優子</a></li>
+<li><a href="../Page/相坂優歌.md" title="wikilink">相坂優歌</a></li>
 <li></li>
 <li><p>（）</p></li>
 <li><a href="../Page/生田善子.md" title="wikilink">生田善子</a></li>

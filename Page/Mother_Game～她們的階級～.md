@@ -35,7 +35,7 @@ Game～她們的階級～**》（[日語](https://zh.wikipedia.org/wiki/日語 "
 
 <!-- end list -->
 
-  - 蒲原陽斗：（香港配音：[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")）
+  - 蒲原陽斗：（香港配音：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")）
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@ Game～她們的階級～**》（[日語](https://zh.wikipedia.org/wiki/日語 "
 
 <!-- end list -->
 
-  - 矢野-{怜}-奈：（香港配音：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")）
+  - 矢野-{怜}-奈：（香港配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@ Game～她們的階級～**》（[日語](https://zh.wikipedia.org/wiki/日語 "
 
 <!-- end list -->
 
-  - 矢野優輝：[大江優成](https://zh.wikipedia.org/wiki/大江優成 "wikilink")（香港配音：[廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink")）
+  - 矢野優輝：[大江優成](https://zh.wikipedia.org/wiki/大江優成 "wikilink")（香港配音：[廖杏茵](../Page/廖杏茵.md "wikilink")）
 
 <!-- end list -->
 
@@ -89,7 +89,7 @@ Game～她們的階級～**》（[日語](https://zh.wikipedia.org/wiki/日語 "
 
 ### 神谷家
 
-  - 神谷恭二：（香港配音：[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")）
+  - 神谷恭二：（香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）
 
 <!-- end list -->
 

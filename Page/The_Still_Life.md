@@ -61,7 +61,7 @@ LIFE**》（中譯：堅如既往）是[日本男歌手](../Page/日本.md "wiki
       - FM三重開局30週年紀念歌曲
 11. **[相同的寂寞](../Page/非愛不可／相同的寂寞.md "wikilink")**
       - 作詞：平井堅／作曲：松浦久晃、Olivia Burrell／編曲：松浦久晃
-      - NHK電視台連續劇「[告別自己](https://zh.wikipedia.org/wiki/告別自己 "wikilink")」主題曲
+      - NHK電視台連續劇「[告別自己](../Page/告別自己.md "wikilink")」主題曲
 12. **[特異獨行 feat.
     安室奈美惠](https://zh.wikipedia.org/wiki/Grotesque_feat._安室奈美惠 "wikilink")**
       - 作詞：平井堅／作曲：Matthew Tishler 、Daniel J.Plante／編曲：Daniel J.Plante

@@ -26,15 +26,15 @@
 
 ### 登場人物
 
-| 角色                            | 配音員                                                     | 介紹                                                  |
-| ----------------------------- | ------------------------------------------------------- | --------------------------------------------------- |
-| 日本                            | 臺灣                                                      | 香港                                                  |
-| 賈維斯（ジャービス）                    | [山寺宏一](../Page/山寺宏一.md "wikilink")                      | [孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")   |
-| \-{zh-tw:奇美亞;zh-cn:齐米亚}-（キミア） | [松岡茉優](../Page/松岡茉優.md "wikilink")                      | [錢欣郁](../Page/錢欣郁.md "wikilink")                    |
-| 拉凱爾（ラケル）                      | [中川翔子](../Page/中川翔子.md "wikilink")                      | [龍顯蕙](../Page/龍顯蕙.md "wikilink")                    |
-| 道卡（ドーガ）                       | [加瀬康之](https://zh.wikipedia.org/wiki/加瀬康之 "wikilink")   | [吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink") |
-| 乙紗（イーサ）                       | [東條加那子](https://zh.wikipedia.org/wiki/東條加那子 "wikilink") | [龍顯蕙](../Page/龍顯蕙.md "wikilink")                    |
-| 艾利法斯（エリファス）                   | [西村知道](../Page/西村知道.md "wikilink")                      | [孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")   |
+| 角色                            | 配音員                                                   | 介紹                                                  |
+| ----------------------------- | ----------------------------------------------------- | --------------------------------------------------- |
+| 日本                            | 臺灣                                                    | 香港                                                  |
+| 賈維斯（ジャービス）                    | [山寺宏一](../Page/山寺宏一.md "wikilink")                    | [孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")   |
+| \-{zh-tw:奇美亞;zh-cn:齐米亚}-（キミア） | [松岡茉優](../Page/松岡茉優.md "wikilink")                    | [錢欣郁](../Page/錢欣郁.md "wikilink")                    |
+| 拉凱爾（ラケル）                      | [中川翔子](../Page/中川翔子.md "wikilink")                    | [龍顯蕙](../Page/龍顯蕙.md "wikilink")                    |
+| 道卡（ドーガ）                       | [加瀬康之](https://zh.wikipedia.org/wiki/加瀬康之 "wikilink") | [吳東原](https://zh.wikipedia.org/wiki/吳東原 "wikilink") |
+| 乙紗（イーサ）                       | [東條加那子](../Page/東條加那子.md "wikilink")                  | [龍顯蕙](../Page/龍顯蕙.md "wikilink")                    |
+| 艾利法斯（エリファス）                   | [西村知道](../Page/西村知道.md "wikilink")                    | [孫誠](https://zh.wikipedia.org/wiki/孫誠 "wikilink")   |
 
 ### 傳說的神奇寶貝們
 

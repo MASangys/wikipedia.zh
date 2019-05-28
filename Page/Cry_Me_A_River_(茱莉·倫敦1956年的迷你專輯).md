@@ -3,19 +3,19 @@
 Me A
 River](https://zh.wikipedia.org/wiki/Cry_Me_A_River "wikilink")\>、\<[Baby,
 Baby, All The
-Time](https://zh.wikipedia.org/wiki/Baby,_Baby,_All_The_Time "wikilink")\>等[爵士樂歌曲](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。\<[Cry
+Time](../Page/Baby,_Baby,_All_The_Time.md "wikilink")\>等[爵士樂歌曲](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")。\<[Cry
 Me A
 River](https://zh.wikipedia.org/wiki/Cry_Me_A_River "wikilink")\>是她最知名的代表作。此[迷你專輯由Liberty](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")
 Records於1956年1月發行，目錄號為LSX-1001，為單聲道形式。\[1\] \[2\]
 
 ## 曲目
 
-| 曲序 | 曲目                                                                                              | 作曲/填詞/編曲                                                                    | 時間長度 |
-| -- | ----------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---- |
-| 1  | "[Cry Me A River](https://zh.wikipedia.org/wiki/Cry_Me_A_River "wikilink")"                     | [Arthur Hamilton](https://zh.wikipedia.org/wiki/Arthur_Hamilton "wikilink") | 2:36 |
-| 2  | "I'll Cry Tomorrow"                                                                             |                                                                             |      |
-| 3  | "[Baby, Baby, All The Time](https://zh.wikipedia.org/wiki/Baby,_Baby,_All_The_Time "wikilink")" |                                                                             |      |
-| 4  | "[Shadow Woman](https://zh.wikipedia.org/wiki/Shadow_Woman "wikilink")"                         |                                                                             |      |
+| 曲序 | 曲目                                                                           | 作曲/填詞/編曲                                                                    | 時間長度 |
+| -- | ---------------------------------------------------------------------------- | --------------------------------------------------------------------------- | ---- |
+| 1  | "[Cry Me A River](https://zh.wikipedia.org/wiki/Cry_Me_A_River "wikilink")"  | [Arthur Hamilton](https://zh.wikipedia.org/wiki/Arthur_Hamilton "wikilink") | 2:36 |
+| 2  | "I'll Cry Tomorrow"                                                          |                                                                             |      |
+| 3  | "[Baby, Baby, All The Time](../Page/Baby,_Baby,_All_The_Time.md "wikilink")" |                                                                             |      |
+| 4  | "[Shadow Woman](https://zh.wikipedia.org/wiki/Shadow_Woman "wikilink")"      |                                                                             |      |
 
 ## 備註
 

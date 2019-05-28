@@ -1,4 +1,4 @@
-**芒果TV**是[湖南广播电视台互联网视频平台](../Page/湖南广播电视台.md "wikilink")，于2014年成立，前身为[湖南卫视新媒体](../Page/湖南卫视.md "wikilink")——金鹰网。以面向最广泛收视人群的[电视剧为主](../Page/电视剧.md "wikilink")。访客可以在这里观看大多數[湖南卫视劇集和綜藝節目](../Page/湖南卫视.md "wikilink")。芒果TV亦有首播一些[网络劇](https://zh.wikipedia.org/wiki/網絡劇 "wikilink")，并有独占播出部分[综艺节目](https://zh.wikipedia.org/wiki/综艺节目 "wikilink")。现时为中国五大视频网（[优酷](../Page/优酷.md "wikilink")、[爱奇艺](../Page/爱奇艺.md "wikilink")、[搜狐视频](https://zh.wikipedia.org/wiki/搜狐视频 "wikilink")、[腾讯视频](../Page/腾讯视频.md "wikilink")）之一。
+**芒果TV**是[湖南广播电视台互联网视频平台](../Page/湖南广播电视台.md "wikilink")，于2014年成立，前身为[湖南卫视新媒体](../Page/湖南卫视.md "wikilink")——金鹰网。以面向最广泛收视人群的[电视剧为主](../Page/电视剧.md "wikilink")。访客可以在这里观看大多數[湖南卫视劇集和綜藝節目](../Page/湖南卫视.md "wikilink")。芒果TV亦有首播一些[网络劇](../Page/網絡劇.md "wikilink")，并有独占播出部分[综艺节目](https://zh.wikipedia.org/wiki/综艺节目 "wikilink")。现时为中国五大视频网（[优酷](../Page/优酷.md "wikilink")、[爱奇艺](../Page/爱奇艺.md "wikilink")、[搜狐视频](../Page/搜狐视频.md "wikilink")、[腾讯视频](../Page/腾讯视频.md "wikilink")）之一。
 
 2018年3月16日，**芒果TV国际版**APP上线，供全球用户觀賞其戲劇節目。
 
@@ -17,26 +17,26 @@
   - 2016年《[青云志](../Page/青云志.md "wikilink")1》
   - 2016年《[兰陵王妃](https://zh.wikipedia.org/wiki/兰陵王妃 "wikilink")》
   - 2016年《[半妖倾城](https://zh.wikipedia.org/wiki/半妖倾城 "wikilink")2》
-  - 2017年《[東京白日夢女](https://zh.wikipedia.org/wiki/東京白日夢女 "wikilink")》
+  - 2017年《[東京白日夢女](../Page/東京白日夢女.md "wikilink")》
   - 2017年《[我与你的光年距离](https://zh.wikipedia.org/wiki/我与你的光年距离 "wikilink")》
   - 2017年《[天使的幸福](../Page/天使的幸福.md "wikilink")》
   - 2017年《[通天狄仁杰](../Page/通天狄仁杰.md "wikilink")》
-  - 2017年《[亲爱的王子大人](https://zh.wikipedia.org/wiki/亲爱的王子大人 "wikilink")》
-  - 2017年《[大话西游之爱你一万年](https://zh.wikipedia.org/wiki/大话西游之爱你一万年 "wikilink")》
+  - 2017年《[亲爱的王子大人](../Page/亲爱的王子大人.md "wikilink")》
+  - 2017年《[大话西游之爱你一万年](../Page/大话西游之爱你一万年.md "wikilink")》
   - 2017年《[受保护过度的加穗子](https://zh.wikipedia.org/wiki/受保护过度的加穗子 "wikilink")》
-  - 2017年《[神奈小姐](https://zh.wikipedia.org/wiki/神奈小姐 "wikilink")》
-  - 2017年《[可惜不是你](https://zh.wikipedia.org/wiki/可惜不是你 "wikilink")》
+  - 2017年《[神奈小姐](../Page/神奈小姐.md "wikilink")》
+  - 2017年《[可惜不是你](../Page/可惜不是你.md "wikilink")》
   - 2017年《[那刻的怦然心动](https://zh.wikipedia.org/wiki/那刻的怦然心动 "wikilink")》
   - 2018年《[茧镇奇缘](../Page/茧镇奇缘.md "wikilink")》
-  - 2018年《[东山晴后雪](https://zh.wikipedia.org/wiki/东山晴后雪 "wikilink")》
-  - 2018年《[恋爱先生](https://zh.wikipedia.org/wiki/恋爱先生 "wikilink")》
-  - 2018年《[二分之一美少年](https://zh.wikipedia.org/wiki/二分之一美少年 "wikilink")》
-  - 2018年《[幸福巧克力](https://zh.wikipedia.org/wiki/幸福巧克力 "wikilink")》
-  - 2018年《[海上嫁女记](https://zh.wikipedia.org/wiki/海上嫁女记 "wikilink")》
-  - 2018年《[她很漂亮](https://zh.wikipedia.org/wiki/她很漂亮_\(中国电视剧\) "wikilink")》
+  - 2018年《[东山晴后雪](../Page/东山晴后雪.md "wikilink")》
+  - 2018年《[恋爱先生](../Page/恋爱先生.md "wikilink")》
+  - 2018年《[二分之一美少年](../Page/二分之一美少年.md "wikilink")》
+  - 2018年《[幸福巧克力](../Page/幸福巧克力.md "wikilink")》
+  - 2018年《[海上嫁女记](../Page/海上嫁女记.md "wikilink")》
+  - 2018年《[她很漂亮](../Page/她很漂亮_\(中国电视剧\).md "wikilink")》
   - 2018年《[惹上冷殿下](../Page/惹上冷殿下.md "wikilink")》
   - 2018年《[我与你的光年距离](https://zh.wikipedia.org/wiki/我与你的光年距离 "wikilink")2》
-  - 2018年《[我的恶魔少爷](https://zh.wikipedia.org/wiki/我的恶魔少爷 "wikilink")》
+  - 2018年《[我的恶魔少爷](../Page/我的恶魔少爷.md "wikilink")》
   - 2019年《[我的波塞冬](../Page/我的波塞冬.md "wikilink")》
 
 ## 綜藝節目（首播）
@@ -54,12 +54,12 @@
   - 2017年《[变形计](../Page/变形计.md "wikilink")13》
   - 2017年《大本营的秘密花园2》
   - 2017年《[2017快乐男声](https://zh.wikipedia.org/wiki/2017快乐男声 "wikilink")》
-  - 2017年《[中餐厅](https://zh.wikipedia.org/wiki/中餐厅 "wikilink")-会员定制版》
+  - 2017年《[中餐厅](../Page/中餐厅.md "wikilink")-会员定制版》
   - 2017年《[我们来了2](https://zh.wikipedia.org/wiki/我们来了2 "wikilink")-会员定制版》
   - 2017年《[香蕉打卡之脂肪特工队](https://zh.wikipedia.org/wiki/香蕉打卡 "wikilink")》
   - 2017年《[爸爸去哪儿5](https://zh.wikipedia.org/wiki/爸爸去哪儿5 "wikilink")》
   - 2017年《[明星大侦探](https://zh.wikipedia.org/wiki/明星大侦探 "wikilink")3》
-  - 2017年《[亲爱的·客栈](https://zh.wikipedia.org/wiki/亲爱的·客栈 "wikilink")-会员定制版》
+  - 2017年《[亲爱的·客栈](../Page/亲爱的·客栈.md "wikilink")-会员定制版》
   - 2017年《[宝贝的新朋友](https://zh.wikipedia.org/wiki/宝贝的新朋友 "wikilink")》
   - 2017年《[萌仔萌萌宅](../Page/萌仔萌萌宅.md "wikilink")》
   - 2017年《[放学别走](https://zh.wikipedia.org/wiki/放学别走 "wikilink")》
@@ -68,10 +68,10 @@
   - 2018年《[重返地球](https://zh.wikipedia.org/wiki/重返地球_\(网络综艺\) "wikilink")》
   - 2018年《[好想谈恋爱啊](https://zh.wikipedia.org/wiki/好想谈恋爱啊 "wikilink")》
   - 2018年《[真心大冒险](https://zh.wikipedia.org/wiki/真心大冒险 "wikilink")》
-  - 2018年《[密室逃脱·暗夜古宅](https://zh.wikipedia.org/wiki/密室逃脱·暗夜古宅 "wikilink")》
+  - 2018年《[密室逃脱·暗夜古宅](../Page/密室逃脱·暗夜古宅.md "wikilink")》
   - 2018年《[易安少年成长计划](https://zh.wikipedia.org/wiki/易安少年成长计划 "wikilink")》
   - 2018年《[童言有计](https://zh.wikipedia.org/wiki/童言有计 "wikilink")》
-  - 2018年《[向往的生活](https://zh.wikipedia.org/wiki/向往的生活 "wikilink")2-会员定制版》
+  - 2018年《[向往的生活](../Page/向往的生活.md "wikilink")2-会员定制版》
   - 2018年《[勇敢的世界](https://zh.wikipedia.org/wiki/勇敢的世界 "wikilink")》
   - 2018年《[妻子的浪漫旅行](../Page/妻子的浪漫旅行.md "wikilink")》
   - 2018年《[爸爸去哪儿6](../Page/爸爸去哪儿_\(第六季\).md "wikilink")》
@@ -86,7 +86,7 @@
 
 ### 主持人
 
-  - [李莎旻子](https://zh.wikipedia.org/wiki/李莎旻子 "wikilink")
+  - [李莎旻子](../Page/李莎旻子.md "wikilink")
 
 ### 演员
 

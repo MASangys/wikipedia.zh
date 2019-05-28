@@ -45,10 +45,9 @@ EAGLE附有的直射用[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")
   - [SIG GL 5040附加型榴彈發射器](../Page/SIG_GL_5040附加型榴彈發射器.md "wikilink")
   - [斯泰爾GL
     40附加型榴彈發射器](https://zh.wikipedia.org/wiki/斯泰爾GL_40附加型榴彈發射器 "wikilink")
-  - [VHS-BG附加型榴彈發射器](https://zh.wikipedia.org/wiki/VHS-BG附加型榴彈發射器 "wikilink")
-  - [Wz.
-    1974鈀式附加型榴彈發射器](https://zh.wikipedia.org/wiki/Wz._1974鈀式附加型榴彈發射器 "wikilink")
-  - [AG-40附加型榴彈發射器](https://zh.wikipedia.org/wiki/AG-40附加型榴彈發射器 "wikilink")
+  - [VHS-BG附加型榴彈發射器](../Page/VHS-BG附加型榴彈發射器.md "wikilink")
+  - [Wz. 1974鈀式附加型榴彈發射器](../Page/Wz._1974鈀式附加型榴彈發射器.md "wikilink")
+  - [AG-40附加型榴彈發射器](../Page/AG-40附加型榴彈發射器.md "wikilink")
   - [GP-25／GP-30／GP-34榴彈發射器](../Page/GP-25附加型榴彈發射器.md "wikilink")
   - [QLG-10／QLG-10A榴弹发射器](../Page/10式枪挂榴弹发射器.md "wikilink")
   - [M32連發式榴彈發射器](../Page/米尔科姆转轮连发式榴弹发射器.md "wikilink")

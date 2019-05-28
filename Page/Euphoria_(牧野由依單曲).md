@@ -7,7 +7,7 @@ Entertainment發行](../Page/勝利娛樂.md "wikilink")。
 The
 NATURAL](https://zh.wikipedia.org/wiki/水星領航員#電視動畫第二季（ARIA_The_NATURAL） "wikilink")》採用的片頭主題曲。其歌名靈感來自於[義大利語的](https://zh.wikipedia.org/wiki/義大利語 "wikilink")「幸福感」之意\[1\]。
 
-《Euphoria》也是自從牧野的個人第2張單曲《[Undine](https://zh.wikipedia.org/wiki/Undine_\(牧野由依單曲\) "wikilink")》以來，第2次選用作為《水星領航員》動畫系列片頭主題曲的單曲。至於B面歌曲「雨降花」曾在同名電視動畫作為第17話的劇中插入歌曲使用，並由牧野她自己作詞。兩面歌曲後來都收錄在她的首張專輯《[天球的音樂](../Page/天球的音樂.md "wikilink")》，2006年12月6日發行。
+《Euphoria》也是自從牧野的個人第2張單曲《[Undine](../Page/Undine_\(牧野由依單曲\).md "wikilink")》以來，第2次選用作為《水星領航員》動畫系列片頭主題曲的單曲。至於B面歌曲「雨降花」曾在同名電視動畫作為第17話的劇中插入歌曲使用，並由牧野她自己作詞。兩面歌曲後來都收錄在她的首張專輯《[天球的音樂](../Page/天球的音樂.md "wikilink")》，2006年12月6日發行。
 
 2009年7月22日，首次販售再發盤版本（規格編號：VTCL-35073），即使內容與2006年發行的相同，但是編曲內容有經過重新錄製。
 

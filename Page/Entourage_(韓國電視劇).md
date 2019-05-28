@@ -48,7 +48,7 @@
 <td><p><a href="../Page/曾秀清.md" title="wikilink">曾秀清</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/尹智慧" title="wikilink">尹智慧</a></p></td>
+<td><p><a href="../Page/尹智慧.md" title="wikilink">尹智慧</a></p></td>
 <td></td>
 <td><p>金銀甲的妻子。</p></td>
 <td><p><a href="../Page/黃玉娟.md" title="wikilink">黃玉娟</a></p></td>
@@ -362,7 +362,7 @@
 <td><p><a href="../Page/凌晞.md" title="wikilink">凌晞</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金宰英" title="wikilink">金宰英</a></p></td>
+<td><p><a href="../Page/金宰英.md" title="wikilink">金宰英</a></p></td>
 <td><p>金宰英</p></td>
 <td><p>男藝人。</p></td>
 <td></td>
@@ -488,7 +488,7 @@
 <td><p><a href="../Page/鄭麗麗.md" title="wikilink">鄭麗麗</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金泰梨" title="wikilink">金泰梨</a></p></td>
+<td><p><a href="../Page/金泰梨.md" title="wikilink">金泰梨</a></p></td>
 <td><p>金泰梨</p></td>
 <td><p>演員。</p></td>
 <td></td>
@@ -500,13 +500,13 @@
 <td><p><a href="../Page/劉惠雲.md" title="wikilink">劉惠雲</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/韓智恩" title="wikilink">韓智恩</a></p></td>
+<td><p><a href="../Page/韓智恩.md" title="wikilink">韓智恩</a></p></td>
 <td></td>
 <td><p>車俊相親對象。</p></td>
 <td><p><a href="../Page/何璐怡.md" title="wikilink">何璐怡</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李善彬" title="wikilink">李善彬</a></p></td>
+<td><p><a href="../Page/李善彬.md" title="wikilink">李善彬</a></p></td>
 <td><p>李善彬</p></td>
 <td><p>演員。</p></td>
 <td></td>
@@ -717,7 +717,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Vanilla_Acoustic" title="wikilink">Vanilla Acoustic</a></p></td>
+<td><p><a href="../Page/Vanilla_Acoustic.md" title="wikilink">Vanilla Acoustic</a></p></td>
 <td><p>Vanilla Acoustic</p></td>
 <td><p>韓國的獨立樂隊</p></td>
 <td></td>
@@ -753,7 +753,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/河戀姝" title="wikilink">河戀姝</a></p></td>
+<td><p><a href="../Page/河戀姝.md" title="wikilink">河戀姝</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -765,7 +765,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/宋元錫" title="wikilink">宋元錫</a></p></td>
+<td><p><a href="../Page/宋元錫.md" title="wikilink">宋元錫</a></p></td>
 <td></td>
 <td></td>
 <td></td>

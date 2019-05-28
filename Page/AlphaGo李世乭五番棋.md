@@ -1,5 +1,5 @@
 **AlphaGo對李世乭**是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[職業九段棋士](https://zh.wikipedia.org/wiki/圍棋棋士列表 "wikilink")[李世乭](../Page/李世乭.md "wikilink")（）與由[Google
-DeepMind開發的](https://zh.wikipedia.org/wiki/Google_DeepMind "wikilink")[電腦圍棋](https://zh.wikipedia.org/wiki/電腦圍棋 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")[AlphaGo對弈的五局三勝制](../Page/AlphaGo.md "wikilink")[圍棋比賽](https://zh.wikipedia.org/wiki/圍棋 "wikilink")。比賽於2016年3月8日到3月15日在[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[首爾舉行](https://zh.wikipedia.org/wiki/首爾 "wikilink")，採[中國圍棋規則](https://zh.wikipedia.org/wiki/中國圍棋規則 "wikilink")：黑方給白方的[貼目為七目半](https://zh.wikipedia.org/wiki/圍棋規則 "wikilink")，思考時間每方兩小時，用完後各有三次一分鐘[讀秒](https://zh.wikipedia.org/wiki/讀秒 "wikilink")\[1\]。結果為AlphaGo以四勝一敗擊敗李世乭。賽後[韓國棋院授予AlphaGo為](https://zh.wikipedia.org/wiki/韓國棋院 "wikilink")[榮譽九段](https://zh.wikipedia.org/wiki/圍棋段位制 "wikilink")\[2\]。
+DeepMind開發的](https://zh.wikipedia.org/wiki/Google_DeepMind "wikilink")[電腦圍棋](https://zh.wikipedia.org/wiki/電腦圍棋 "wikilink")[軟件](https://zh.wikipedia.org/wiki/軟件 "wikilink")[AlphaGo對弈的五局三勝制](../Page/AlphaGo.md "wikilink")[圍棋比賽](https://zh.wikipedia.org/wiki/圍棋 "wikilink")。比賽於2016年3月8日到3月15日在[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")[首爾舉行](../Page/首爾.md "wikilink")，採[中國圍棋規則](https://zh.wikipedia.org/wiki/中國圍棋規則 "wikilink")：黑方給白方的[貼目為七目半](https://zh.wikipedia.org/wiki/圍棋規則 "wikilink")，思考時間每方兩小時，用完後各有三次一分鐘[讀秒](https://zh.wikipedia.org/wiki/讀秒 "wikilink")\[1\]。結果為AlphaGo以四勝一敗擊敗李世乭。賽後[韓國棋院授予AlphaGo為](https://zh.wikipedia.org/wiki/韓國棋院 "wikilink")[榮譽九段](https://zh.wikipedia.org/wiki/圍棋段位制 "wikilink")\[2\]。
 
 ## 背景
 
@@ -18,7 +18,7 @@ DeepMind開發的](https://zh.wikipedia.org/wiki/Google_DeepMind "wikilink")[電
 
 ## 對局
 
-比賽日期為2016年3月8日到3月15日，地點為韓國[首爾的](https://zh.wikipedia.org/wiki/首爾 "wikilink")[四季酒店](../Page/四季酒店.md "wikilink")\[20\]\[21\]，並透過[流媒体向全球直播](../Page/流媒体.md "wikilink")\[22\]。由Google
+比賽日期為2016年3月8日到3月15日，地點為韓國[首爾的](../Page/首爾.md "wikilink")[四季酒店](../Page/四季酒店.md "wikilink")\[20\]\[21\]，並透過[流媒体向全球直播](../Page/流媒体.md "wikilink")\[22\]。由Google
 DeepMind研究員暨台灣圍棋業餘六段棋士黃士傑替分散式運算版的AlphaGo放置棋子\[23\]，而AlphaGo則透過[雲端技術傳送至](../Page/雲端運算.md "wikilink")[美國的](https://zh.wikipedia.org/wiki/美國 "wikilink")[Google](../Page/Google.md "wikilink")[伺服器上進行運算來決定棋子位置](https://zh.wikipedia.org/wiki/伺服器 "wikilink")\[24\]
 。
 
@@ -325,7 +325,7 @@ Redmond，美籍職業九段）擔任此次官方英語直播的旁述。[新浪
 
 在李世乭第二盤落敗後，開始出現對於AlphaGo處理[打劫能力方面的質疑](../Page/劫_\(围棋\).md "wikilink")。圍棋棋局中[打劫是常见手段](../Page/劫_\(围棋\).md "wikilink")，而劫的存在会让人工智能增加計算量，並进一步考验人工智能的深度计算模型。前兩場對弈中未出現[劫爭](../Page/劫_\(围棋\).md "wikilink")，媒体問李世乭是否与谷歌签署保密协议不能打劫争胜，对此李世乭回答：“我中间确实有胜机，以后比赛会尽力下好（笑）。”\[36\]“棋圣”[聂卫平認為](../Page/聂卫平.md "wikilink")：“对电脑的打劫有点质疑，可能打劫时电脑的应对不太好，这两盘棋确实都没有出现打劫的局面，看看后几盘棋电脑应对打劫的时候是什么样子吧。”\[37\]人机大战裁判长樊麾則表示，2015年十月與AlphaGo對弈的棋谱里，就有过很多劫争，並沒有保密协议\[38\]。隨後AlphaGo的主要開發人員並曾撰寫[碩士](https://zh.wikipedia.org/wiki/碩士 "wikilink")[論文](https://zh.wikipedia.org/wiki/論文 "wikilink")《電腦圍棋打劫的策略》\[39\]\[40\]的黃士傑博士也在台灣的弈棋論壇做出下列聲明：“這次比賽並沒有所謂的不能打劫的保密協議。第一、第二盤棋覆盤時李世石九段都有擺出打劫的變化，只是實戰他沒有下出來。我們也想知道，AlphaGo在對陣李世石九段這種級別的棋手，打劫時的表現。
 ”\[41\]\[42\]後來的第三盤後半出現了劫爭，AlphaGo仍然應對得當，證實了AlphaGo有處理打劫的能力。\[43\]
-[南韓資訊通信專業律師田石鎮則指控AlphaGo在這場對弈之中可以透過](https://zh.wikipedia.org/wiki/南韓 "wikilink")[網路隨時收集資訊](https://zh.wikipedia.org/wiki/網路 "wikilink")，並非按照已獲取的資訊落子。\[44\]然而田石鎮並未對AlphaGo連上網際網路的論述提出任何證據\[45\]，且抨擊其仰賴[暴力搜索的論述也與實際運作原理不符](https://zh.wikipedia.org/wiki/暴力搜索 "wikilink")。\[46\]
+[南韓資訊通信專業律師田石鎮則指控AlphaGo在這場對弈之中可以透過](https://zh.wikipedia.org/wiki/南韓 "wikilink")[網路隨時收集資訊](https://zh.wikipedia.org/wiki/網路 "wikilink")，並非按照已獲取的資訊落子。\[44\]然而田石鎮並未對AlphaGo連上網際網路的論述提出任何證據\[45\]，且抨擊其仰賴[暴力搜索的論述也與實際運作原理不符](../Page/暴力搜索.md "wikilink")。\[46\]
 
 ## 參考資料
 

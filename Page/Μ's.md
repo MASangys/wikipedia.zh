@@ -103,7 +103,7 @@ Works与](../Page/ASCII_Media_Works.md "wikilink")[Lantis唱片公司共同推�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/西木野真姬" title="wikilink">西木野真姬</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Pile" title="wikilink">Pile</a></p></td>
+<td><p><a href="../Page/Pile.md" title="wikilink">Pile</a></p></td>
 <td><p>高1</p></td>
 <td><p>04 / 19</p></td>
 <td><p>AB型</p></td>
@@ -500,14 +500,14 @@ Works与](../Page/ASCII_Media_Works.md "wikilink")[Lantis唱片公司共同推�
 <tr class="odd">
 <td><p>4th</p></td>
 <td><p>2012年2月15日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/满怀“love”接近中！" title="wikilink">满怀“love”接近中！</a></strong></p></td>
+<td><p><strong><a href="../Page/满怀“love”接近中！.md" title="wikilink">满怀“love”接近中！</a></strong></p></td>
 <td><p>LACM-4907</p></td>
 <td><p>31位</p></td>
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
 <td><p>2012年9月5日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Wonderful_Rush" title="wikilink">Wonderful Rush</a></strong></p></td>
+<td><p><strong><a href="../Page/Wonderful_Rush.md" title="wikilink">Wonderful Rush</a></strong></p></td>
 <td><p>LACM-4979</p></td>
 <td><p>30位</p></td>
 </tr>
@@ -547,7 +547,7 @@ Works与](../Page/ASCII_Media_Works.md "wikilink")[Lantis唱片公司共同推�
 | 发售日        | 名字                                                                                                                       | 贩卖生产号                      | 备注                  | 最高位        |
 | ---------- | ------------------------------------------------------------------------------------------------------------------------ | -------------------------- | ------------------- | ---------- |
 | 2013年1月23日 | **[我们活在当下](https://zh.wikipedia.org/wiki/我们活在当下 "wikilink")**                                                            | LACM-14053                 | TV动画第1期OP           | 12位        |
-| 2013年2月6日  | **[一定能听见青春的声音](https://zh.wikipedia.org/wiki/一定能听见青春的声音 "wikilink")**                                                    | LACM-14054                 | TV动画第1期ED           | 8位         |
+| 2013年2月6日  | **[一定能听见青春的声音](../Page/一定能听见青春的声音.md "wikilink")**                                                                       | LACM-14054                 | TV动画第1期ED           | 8位         |
 | 2013年3月6日  | **[从今以后的Someday/Wonder zone](https://zh.wikipedia.org/wiki/从今以后的Someday/Wonder_zone "wikilink")**                        | LACM-14064                 | TV动画第1期第6话、第9话插入曲   | 7位         |
 | 2013年4月3日  | '''\[\[No_brand_girls/START:DASH                                                                                       | |No brand girls/START:DASH | \]\]'''             | LACM-14069 |
 | 2014年4月23日 | **[那就是我们的奇迹](../Page/那就是我们的奇迹.md "wikilink")**                                                                           | LACM-14220                 | TV动画第2期OP           | 3位         |
@@ -561,34 +561,34 @@ Works与](../Page/ASCII_Media_Works.md "wikilink")[Lantis唱片公司共同推�
 
 #### 其他单曲
 
-| 发售日         | 名字                                                                                  | 贩卖生产号      | 备注                            | 最高位 |
-| ----------- | ----------------------------------------------------------------------------------- | ---------- | ----------------------------- | --- |
-| 2014年1月29日  | **[宝物/Paradise Live](https://zh.wikipedia.org/wiki/宝物/Paradise_Live "wikilink")**   | LACM-14181 | 为手游School Idol Festival写的歌曲   | 4位  |
-| 2014年10月1日  | **[Shangri-La Shower](https://zh.wikipedia.org/wiki/Shangri-La_Shower "wikilink")** | LACM-14260 | School idol paradise 主题曲      | 5位  |
-| 2015年4月22日  | **[Mi是μ'sic的mi](../Page/Mi是μ'sic的mi.md "wikilink")**                                | LACM-14341 | “LoveLive\! 大家一起为μ's写的歌曲”合作单曲 |     |
-| 2015年10月28日 | **[HEART to HEART\!](https://zh.wikipedia.org/wiki/HEART_to_HEART! "wikilink")**    | LACM-14412 | 为手游School Idol Festival写的歌曲   | 3位  |
+| 发售日         | 名字                                                                                | 贩卖生产号      | 备注                            | 最高位 |
+| ----------- | --------------------------------------------------------------------------------- | ---------- | ----------------------------- | --- |
+| 2014年1月29日  | **[宝物/Paradise Live](https://zh.wikipedia.org/wiki/宝物/Paradise_Live "wikilink")** | LACM-14181 | 为手游School Idol Festival写的歌曲   | 4位  |
+| 2014年10月1日  | **[Shangri-La Shower](../Page/Shangri-La_Shower.md "wikilink")**                  | LACM-14260 | School idol paradise 主题曲      | 5位  |
+| 2015年4月22日  | **[Mi是μ'sic的mi](../Page/Mi是μ'sic的mi.md "wikilink")**                              | LACM-14341 | “LoveLive\! 大家一起为μ's写的歌曲”合作单曲 |     |
+| 2015年10月28日 | **[HEART to HEART\!](../Page/HEART_to_HEART!.md "wikilink")**                     | LACM-14412 | 为手游School Idol Festival写的歌曲   | 3位  |
 
 #### 小组单曲
 
-| 发售日         | 名字                                                                                    | 演唱者                     | 贩卖生产号           | 备注               | 最高位        |
-| ----------- | ------------------------------------------------------------------------------------- | ----------------------- | --------------- | ---------------- | ---------- |
-| 2011年5月25日  | **[Love marginal](../Page/Love_marginal.md "wikilink")**                              | Printemps               | LACM-4812       | Printemps 1st单曲  | 85位        |
-| 2011年6月22日  | **[钻石公主的忧郁](https://zh.wikipedia.org/wiki/钻石公主的忧郁 "wikilink")**                       | BiBi                    | LACM-4816       | BiBi 1st单曲       | 79位        |
-| 2011年7月27日  | **[不知道的Love\*教给我吧Love](https://zh.wikipedia.org/wiki/不知道的Love*教给我吧Love "wikilink")**  | lily white              | LACM-4832       | lily white 1st单曲 | 81位        |
-| 2012年4月25日  | ****                                                                                  | 高坂穗乃果、星空凛               | LACM-4924       | 双人单曲             | 57位        |
-| 2012年5月23日  | ****                                                                                  | 矢泽日香、东条希                | LACM-4943       | 64位              |            |
-| 2012年6月27日  | ****                                                                                  | 南小鸟、小泉花阳                | LACM-4946       | 43位              |            |
-| 2012年7月25日  | ****                                                                                  | 西木野真姬、园田海未、绚濑绘里         | LACM-4961       | 三人单曲             | 38位        |
-| 2013年2月20日  | '''\[\[前进→Tomorrow/START:DASH                                                         | |前进→Tomorrow/START:DASH | \]\]'''         | 高坂穗乃果、南小鸟、园田海未   | LACM-14055 |
-| 2013年6月26日  | **[来自微热的Mystery](https://zh.wikipedia.org/wiki/来自微热的Mystery "wikilink")**             | lily white              | LACM-14101      | lily white 2nd单曲 | 4位         |
-| 2013年7月24日  | **[Cutie Panther](https://zh.wikipedia.org/wiki/Cutie_Panther "wikilink")**           | BiBi                    | LACM-14102      | BiBi 2nd单曲       | 8位         |
-| 2013年8月21日  | **[Pure girls project](https://zh.wikipedia.org/wiki/Pure_girls_project "wikilink")** | Printemps               | LACM-14103      | Printemps 2nd单曲  | 10位        |
-| 2014年11月12日 | **[永远Friends](https://zh.wikipedia.org/wiki/永远Friends "wikilink")**                   | LACM-14291              | Printemps 3rd单曲 | 6位               |            |
-| 2014年11月26日 | **[秋日彼端的遥远天空](https://zh.wikipedia.org/wiki/秋日彼端的遥远天空 "wikilink")**                   | lily white              | LACM-14292      | lily white 3rd单曲 | 3位         |
-| 2014年12月24日 | **[冬天给予的预感](https://zh.wikipedia.org/wiki/冬天给予的预感 "wikilink")**                       | BiBi                    | LACM-14293      | BiBi 3rd单曲       | 2位         |
-| 2015年11月25日 | ****                                                                                  | Printemps               | LACM-14413      | Printemps 4th单曲  |            |
-| 2015年12月23日 | ****                                                                                  | lily white              | LACM-14414      | lily white 4th单曲 | 3位         |
-| 2016年1月20日  | ****                                                                                  | BiBi                    | LACM-14415      | BiBi 4th单曲       | 2位         |
+| 发售日         | 名字                                                                        | 演唱者                     | 贩卖生产号           | 备注               | 最高位        |
+| ----------- | ------------------------------------------------------------------------- | ----------------------- | --------------- | ---------------- | ---------- |
+| 2011年5月25日  | **[Love marginal](../Page/Love_marginal.md "wikilink")**                  | Printemps               | LACM-4812       | Printemps 1st单曲  | 85位        |
+| 2011年6月22日  | **[钻石公主的忧郁](https://zh.wikipedia.org/wiki/钻石公主的忧郁 "wikilink")**           | BiBi                    | LACM-4816       | BiBi 1st单曲       | 79位        |
+| 2011年7月27日  | **[不知道的Love\*教给我吧Love](../Page/不知道的Love*教给我吧Love.md "wikilink")**         | lily white              | LACM-4832       | lily white 1st单曲 | 81位        |
+| 2012年4月25日  | ****                                                                      | 高坂穗乃果、星空凛               | LACM-4924       | 双人单曲             | 57位        |
+| 2012年5月23日  | ****                                                                      | 矢泽日香、东条希                | LACM-4943       | 64位              |            |
+| 2012年6月27日  | ****                                                                      | 南小鸟、小泉花阳                | LACM-4946       | 43位              |            |
+| 2012年7月25日  | ****                                                                      | 西木野真姬、园田海未、绚濑绘里         | LACM-4961       | 三人单曲             | 38位        |
+| 2013年2月20日  | '''\[\[前进→Tomorrow/START:DASH                                             | |前进→Tomorrow/START:DASH | \]\]'''         | 高坂穗乃果、南小鸟、园田海未   | LACM-14055 |
+| 2013年6月26日  | **[来自微热的Mystery](https://zh.wikipedia.org/wiki/来自微热的Mystery "wikilink")** | lily white              | LACM-14101      | lily white 2nd单曲 | 4位         |
+| 2013年7月24日  | **[Cutie Panther](../Page/Cutie_Panther.md "wikilink")**                  | BiBi                    | LACM-14102      | BiBi 2nd单曲       | 8位         |
+| 2013年8月21日  | **[Pure girls project](../Page/Pure_girls_project.md "wikilink")**        | Printemps               | LACM-14103      | Printemps 2nd单曲  | 10位        |
+| 2014年11月12日 | **[永远Friends](https://zh.wikipedia.org/wiki/永远Friends "wikilink")**       | LACM-14291              | Printemps 3rd单曲 | 6位               |            |
+| 2014年11月26日 | **[秋日彼端的遥远天空](https://zh.wikipedia.org/wiki/秋日彼端的遥远天空 "wikilink")**       | lily white              | LACM-14292      | lily white 3rd单曲 | 3位         |
+| 2014年12月24日 | **[冬天给予的预感](https://zh.wikipedia.org/wiki/冬天给予的预感 "wikilink")**           | BiBi                    | LACM-14293      | BiBi 3rd单曲       | 2位         |
+| 2015年11月25日 | ****                                                                      | Printemps               | LACM-14413      | Printemps 4th单曲  |            |
+| 2015年12月23日 | ****                                                                      | lily white              | LACM-14414      | lily white 4th单曲 | 3位         |
+| 2016年1月20日  | ****                                                                      | BiBi                    | LACM-14415      | BiBi 4th单曲       | 2位         |
 
 ## 演唱會
 

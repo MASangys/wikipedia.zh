@@ -1,5 +1,5 @@
 **SCREEN
-mode**（）是由歌手[林勇與作曲家](../Page/林勇.md "wikilink")[太田雅友所組成的](https://zh.wikipedia.org/wiki/太田雅友 "wikilink")[日本樂團](../Page/日本.md "wikilink")。所屬唱片公司為**[Lantis](../Page/Lantis.md "wikilink")**。
+mode**（）是由歌手[林勇與作曲家](../Page/林勇.md "wikilink")[太田雅友所組成的](../Page/太田雅友.md "wikilink")[日本樂團](../Page/日本.md "wikilink")。所屬唱片公司為**[Lantis](../Page/Lantis.md "wikilink")**。
 
 ## 成员
 

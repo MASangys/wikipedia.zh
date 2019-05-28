@@ -167,7 +167,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>3rd Chapter 2</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Why_So_Serious?_-_The_Misconceptions_Of_Me" title="wikilink">Why So Serious? - The Misconceptions Of Me</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Why_So_Serious?_-_The_Misconceptions_Of_Me.md" title="wikilink">Why So Serious? - The Misconceptions Of Me</a></strong>》</p>
 <ul>
 <li>專輯發行日：2013年4月29日</li>
 <li>語言：韓語</li>
@@ -227,7 +227,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>6th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/The_Story_of_Light_(SHINee專輯)" title="wikilink">The Story of Light</a></strong>》</p>
+<td><p>《<strong><a href="../Page/The_Story_of_Light_(SHINee專輯).md" title="wikilink">The Story of Light</a></strong>》</p>
 <ul>
 <li>專輯發行日：2018年5月28日（EP.1）<br />
 2018年6月11日（EP.2）<br />
@@ -240,7 +240,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>6th Repackage</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/The_Story_of_Light_(SHINee專輯)" title="wikilink">The Story of Light-Epilogue</a></strong>》</p>
+<td><p>《<strong><a href="../Page/The_Story_of_Light_(SHINee專輯).md" title="wikilink">The Story of Light-Epilogue</a></strong>》</p>
 <ul>
 <li>專輯發行日：2018年9月10日</li>
 <li>語言：韓語</li>
@@ -482,7 +482,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/I&#39;m_Your_Boy" title="wikilink">I'm Your Boy</a></strong>》</p>
+<td><p>《<strong><a href="../Page/I&#39;m_Your_Boy.md" title="wikilink">I'm Your Boy</a></strong>》</p>
 <ul>
 <li>發行日：2014年9月24日</li>
 <li>廠牌：<a href="../Page/環球音樂_(日本).md" title="wikilink">日本環球音樂</a>、EMI音樂日本</li>
@@ -555,7 +555,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/SHINee_THE_BEST_FROM_NOW_ON" title="wikilink">SHINee THE BEST FROM NOW ON</a></strong>》</p>
+<td><p>《<strong><a href="../Page/SHINee_THE_BEST_FROM_NOW_ON.md" title="wikilink">SHINee THE BEST FROM NOW ON</a></strong>》</p>
 <ul>
 <li>發行日：2018年4月18日</li>
 <li>廠牌：日本環球音樂、EMI音樂日本</li>

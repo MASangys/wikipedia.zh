@@ -3,7 +3,7 @@
 
 [Alphago_logo.svg](https://zh.wikipedia.org/wiki/File:Alphago_logo.svg "fig:Alphago_logo.svg")
 （“Go”为日文“碁”字发音转写，是[围棋的西方名称](../Page/围棋.md "wikilink")），直译为**阿尔法围棋**，亦被音译为**阿尔法狗**\[1\]\[2\]、**阿法狗**\[3\]、**阿发狗**\[4\]\[5\]等，是於2014年开始由[英国伦敦](https://zh.wikipedia.org/wiki/英国 "wikilink")[Google
-DeepMind开发的](https://zh.wikipedia.org/wiki/Google_DeepMind "wikilink")[人工智能](../Page/人工智能.md "wikilink")[圍棋軟體](https://zh.wikipedia.org/wiki/圍棋軟體 "wikilink")，以及對應的電影紀錄片《[AlphaGo世紀對決](https://zh.wikipedia.org/wiki/AlphaGo世紀對決 "wikilink")》。
+DeepMind开发的](https://zh.wikipedia.org/wiki/Google_DeepMind "wikilink")[人工智能](../Page/人工智能.md "wikilink")[圍棋軟體](https://zh.wikipedia.org/wiki/圍棋軟體 "wikilink")，以及對應的電影紀錄片《[AlphaGo世紀對決](../Page/AlphaGo世紀對決.md "wikilink")》。
 
 專業術語上來說，AlphaGo的做法是使用了[蒙特卡洛树搜索與兩個深度神經網路相結合的方法](../Page/蒙特卡洛树搜索.md "wikilink")，其中一個是以估值网络來評估大量的選點，而以走棋网络來選擇落子。在這種設計下，電腦可以結合樹狀圖的長遠推斷，又可像人類的大腦一樣自發學習進行直覺訓練，以提高下棋實力。\[6\]\[7\]
 
@@ -20,8 +20,8 @@ Stone和Zen等其他围棋程序的500局比赛中\[16\]，单机版AlphaGo（�
   - 2016年7月18日，因[柯洁那段时间状态不佳](../Page/柯洁.md "wikilink")，其在[Go
     Ratings網站上的WHR等级分下滑](../Page/Go_Ratings.md "wikilink")，AlphaGo得以在Go
     Ratings网站的排名中位列世界第一，但几天之后，柯洁便又反超了AlphaGo\[23\]。2017年2月初，Go
-    Ratings网站删除了AlphaGo、[DeepZenGo等围棋人工智能在该网站上的所有信息](https://zh.wikipedia.org/wiki/DeepZenGo "wikilink")。
-  - 2016年12月29日至2017年1月4日，再度強化的AlphaGo以「[Master](https://zh.wikipedia.org/wiki/Master_\(围棋软件\) "wikilink")」為帳號名稱，在未公開其真實身分的情況下，-{zh-cn:借;zh-tw:藉;}-非正式的網路快棋對戰進行測試，挑戰中韓日台的一流高手，測試結束时60戰全勝\[24\]。
+    Ratings网站删除了AlphaGo、[DeepZenGo等围棋人工智能在该网站上的所有信息](../Page/DeepZenGo.md "wikilink")。
+  - 2016年12月29日至2017年1月4日，再度強化的AlphaGo以「[Master](../Page/Master_\(围棋软件\).md "wikilink")」為帳號名稱，在未公開其真實身分的情況下，-{zh-cn:借;zh-tw:藉;}-非正式的網路快棋對戰進行測試，挑戰中韓日台的一流高手，測試結束时60戰全勝\[24\]。
   - 2017年5月23至27日在[烏鎮圍棋峰會上](https://zh.wikipedia.org/wiki/烏鎮圍棋峰會 "wikilink")，最新的強化版AlphaGo和世界第一棋士柯潔比試、並配合八段棋士協同作戰與對決五位頂尖九段棋士等五場比賽，取得三比零全勝的戰績，團隊戰與組隊戰也全勝，此次AlphaGo利用谷歌TPU執行，加上快速進化的機器學習法，運算資源消耗僅李世乭版本的十分之一。\[25\]在与柯洁的比赛结束后，[中国围棋协会授予AlphaGo](../Page/中国围棋协会.md "wikilink")[职业围棋九段的称号](../Page/围棋段位制.md "wikilink")。\[26\]
 
 AlphaGo在沒有人類對手後，AlphaGo之父[杰米斯·哈萨比斯宣布AlphaGo退役](../Page/杰米斯·哈萨比斯.md "wikilink")。而從業餘棋士的水平到世界第一，AlphaGo的棋力取得這樣的進步，僅僅花了-{zh-cn:两;zh-tw:二;}-年左右。
@@ -35,7 +35,7 @@ Go Master的水平。
 
 2014年起，AlphaGo以英国棋友deepmind的名义开始在弈城围棋网上对弈\[27\]。deepmind在2014年4月到2015年9月长达1年半的时间里，维持在7D到8D之间，总共下了300多盘棋。2015年9月16日首次升上9D，之后在AlphaGo与樊麾对弈前后的三个月内未进行网络对弈。2015年12月到2016年2月，deepmind一共下了136盘，基本在9D水平。其中和职业棋手的多次对局互有胜负。
 
-[黄士杰在AlphaGo与](https://zh.wikipedia.org/wiki/黃士傑 "wikilink")[李世乭九段比赛前曾否认deepmind是AlphaGo的测试账号](../Page/李世乭.md "wikilink")，但是在AlphaGo与李世石比赛之后，DeepMind创始人哈萨比斯承认AlphaGo曾经使用deepmind账号进行过测试\[28\]。
+[黄士杰在AlphaGo与](../Page/黃士傑.md "wikilink")[李世乭九段比赛前曾否认deepmind是AlphaGo的测试账号](../Page/李世乭.md "wikilink")，但是在AlphaGo与李世石比赛之后，DeepMind创始人哈萨比斯承认AlphaGo曾经使用deepmind账号进行过测试\[28\]。
 
 2016年12月16日，在AlphaGo以Master身份登录弈城围棋网之前，黄士杰要求删除deepmind账号。现在deepmind的战绩和棋谱已经无法查阅\[29\]。
 
@@ -46,9 +46,9 @@ Go Master的水平。
 
 ### 李世乭
 
-2016年3月，AlphaGo挑战世界冠军[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[职业棋士](https://zh.wikipedia.org/wiki/職業棋士 "wikilink")[李世乭](../Page/李世乭.md "wikilink")（）九段。AlphaGo使用谷歌位于美国的[云计算服务器](https://zh.wikipedia.org/wiki/云计算 "wikilink")，并通过光缆网络连接到韩国。\[36\]比賽的地點為[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")[四季酒店](../Page/四季酒店.md "wikilink")；赛制为五番棋，分別於2016年3月9日、10日、12日、13日和15日进行；规则为中国围棋规则，黑棋贴3又3/4子；用时为每方2小时，3次1分钟读秒。\[37\]\[38\]
+2016年3月，AlphaGo挑战世界冠军[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[职业棋士](https://zh.wikipedia.org/wiki/職業棋士 "wikilink")[李世乭](../Page/李世乭.md "wikilink")（）九段。AlphaGo使用谷歌位于美国的[云计算服务器](https://zh.wikipedia.org/wiki/云计算 "wikilink")，并通过光缆网络连接到韩国。\[36\]比賽的地點為[韩国](https://zh.wikipedia.org/wiki/韩国 "wikilink")[首爾](../Page/首爾.md "wikilink")[四季酒店](../Page/四季酒店.md "wikilink")；赛制为五番棋，分別於2016年3月9日、10日、12日、13日和15日进行；规则为中国围棋规则，黑棋贴3又3/4子；用时为每方2小时，3次1分钟读秒。\[37\]\[38\]
 DeepMind团队在[YouTube上全球直播并由美籍職業棋士](../Page/YouTube.md "wikilink")[邁克·雷蒙](https://zh.wikipedia.org/wiki/邁克·雷蒙 "wikilink")（Michael
-Redmond）九段擔任英语解说，而[中国大陆很多视频网站也采用YouTube的直播信号进行直播](../Page/中国大陆.md "wikilink")，并加上自己的解说。\[39\]DeepMind團隊成員台湾業余6段圍棋棋士[黃士傑博士代表AlphaGo在棋盘上落子](https://zh.wikipedia.org/wiki/黃士傑 "wikilink")\[40\]。
+Redmond）九段擔任英语解说，而[中国大陆很多视频网站也采用YouTube的直播信号进行直播](../Page/中国大陆.md "wikilink")，并加上自己的解说。\[39\]DeepMind團隊成員台湾業余6段圍棋棋士[黃士傑博士代表AlphaGo在棋盘上落子](../Page/黃士傑.md "wikilink")\[40\]。
 
 比赛獲勝者將獲得100萬美元的獎金。如果AlphaGo獲勝，獎金將捐贈給围棋组织和慈善機構，包括[联合国兒童基金會](https://zh.wikipedia.org/wiki/联合国兒童基金會 "wikilink")\[41\]。李世乭有15万美元的出场費，且每贏一盘棋会再得2万美元的奖金。\[42\]
 
@@ -70,9 +70,9 @@ AlphaGo的黃博士」，表明Master就是AlphaGo，代為落子的是AlphaGo�
 
 2016年6月4日，在第37届世界业余围棋锦标赛新闻发布会上，国际围棋联盟事务总长杨俊安透露今年内AlphaGo或将挑战中国[职业棋士](https://zh.wikipedia.org/wiki/職業棋士 "wikilink")[柯洁九段](../Page/柯洁.md "wikilink")\[55\]。不过DeepMind创办人[杰米斯·哈萨比斯表示目前还没有确定AlphaGo的下一步计划](../Page/杰米斯·哈萨比斯.md "wikilink")，一旦有明确的安排，会有官方声明\[56\]。
 
-2016年12月8日，第21届[三星车险盃世界圍棋大师賽決賽過後](https://zh.wikipedia.org/wiki/三星车险盃世界圍棋大师賽 "wikilink")，[柯洁九段表示](../Page/柯洁.md "wikilink")：「目前棋手之間的比賽眾多，我放棄了與[DeepZenGo的對局](https://zh.wikipedia.org/wiki/DeepZenGo "wikilink")。我覺得，我現在的狀態還不能打敗『阿爾法狗』（AlphaGo），今後需要更加努力。」\[57\]
+2016年12月8日，第21届[三星车险盃世界圍棋大师賽決賽過後](https://zh.wikipedia.org/wiki/三星车险盃世界圍棋大师賽 "wikilink")，[柯洁九段表示](../Page/柯洁.md "wikilink")：「目前棋手之間的比賽眾多，我放棄了與[DeepZenGo的對局](../Page/DeepZenGo.md "wikilink")。我覺得，我現在的狀態還不能打敗『阿爾法狗』（AlphaGo），今後需要更加努力。」\[57\]
 
-2017年4月10日，[中国围棋协会](../Page/中国围棋协会.md "wikilink")、Google和浙江省体育局联合在[中国棋院召开新闻发布会](../Page/中国棋院.md "wikilink")，宣布以柯洁为首的中国棋手将和AlphaGo在5月23至27日的[中国乌镇围棋峰会上对弈](https://zh.wikipedia.org/wiki/中国乌镇围棋峰会 "wikilink")。此次对弈分为三场比赛，首先在5月23、25和27日这三天，柯洁将与AlphaGo下三番棋，用时为每方3小时，5次1分钟读秒。[Google
+2017年4月10日，[中国围棋协会](../Page/中国围棋协会.md "wikilink")、Google和浙江省体育局联合在[中国棋院召开新闻发布会](../Page/中国棋院.md "wikilink")，宣布以柯洁为首的中国棋手将和AlphaGo在5月23至27日的[中国乌镇围棋峰会上对弈](../Page/中国乌镇围棋峰会.md "wikilink")。此次对弈分为三场比赛，首先在5月23、25和27日这三天，柯洁将与AlphaGo下三番棋，用时为每方3小时，5次1分钟读秒。[Google
 DeepMind为本次柯洁与AlphaGo的三局比赛提供了](https://zh.wikipedia.org/wiki/Google_DeepMind "wikilink")150万美元的胜者奖金，同时柯洁有30万美元的出场费。\[58\]
 此外在5月26日，[时越](../Page/时越.md "wikilink")、[芈昱廷](../Page/芈昱廷.md "wikilink")、[唐韦星](../Page/唐韦星.md "wikilink")、[陈耀烨和](../Page/陈耀烨.md "wikilink")[周睿羊](../Page/周睿羊.md "wikilink")5人将进行团队赛，他们将联合与AlphaGo对弈，用时为每方2小时30分钟，3次1分钟读秒。同日，[古力](../Page/古力.md "wikilink")、[连笑还将和AlphaGo合作进行人机配对赛](https://zh.wikipedia.org/wiki/连笑 "wikilink")，比赛将以棋手与AlphaGo合作的形式进行，用时为每方1小时，1次1分钟读秒。\[59\]\[60\]最终，AlphaGo以3：0战胜柯洁，并被中国围棋协会授予[职业围棋九段称号](../Page/围棋段位制.md "wikilink")\[61\]，不过[聂卫平九段称它的水平](../Page/聂卫平.md "wikilink")“至少20段”\[62\]。在结束与柯洁的比赛后，Deepmind宣布AlphaGo将“退役”，不再参加任何围棋比赛，但将公开AlphaGo自己与自己互弈的棋谱；而在未来Deepmind将会把AlphaGo的技术运用到医疗等更广泛的领域。\[63\]
 
@@ -110,22 +110,22 @@ Zero发布之后，Deepmind表示新的算法令新版的AlphaGo比旧版的耗�
 
 在2016年1月27日，Research at Google發布了有關新版AlphaGo跟其他圍棋軟件，以及樊麾二段的對比如下\[68\]：
 
-| 比對對象                                                           | Elo等级分 | 相對水平  |
-| -------------------------------------------------------------- | ------ | ----- |
-| 理论峰值                                                           | 平均     | 上下区间  |
-| AlphaGo分布式                                                     | 3,275  | 3,250 |
-| AlphaGo                                                        | 2,787  | 2,775 |
-| 樊麾二段                                                           | 3,250  | 2,750 |
-| 石子旋風（[讓四子](../Page/讓子_\(圍棋\).md "wikilink")）                   | 2,525  | 2,500 |
-| 石子旋風                                                           | 1,965  | 1,940 |
-| [Zen](https://zh.wikipedia.org/wiki/DeepZenGo "wikilink")（讓四子） | 2,300  | 2,250 |
-| Zen                                                            | 1,925  | 1,900 |
-| Pachi（[讓四子](../Page/讓子_\(圍棋\).md "wikilink")）                  | 1787   | 1,750 |
-| Pachi                                                          | 1,350  | 1,345 |
-| Fuego                                                          | 1,050  | 1,045 |
-| GnuGo                                                          | 450    | 450   |
+| 比對對象                                          | Elo等级分 | 相對水平  |
+| --------------------------------------------- | ------ | ----- |
+| 理论峰值                                          | 平均     | 上下区间  |
+| AlphaGo分布式                                    | 3,275  | 3,250 |
+| AlphaGo                                       | 2,787  | 2,775 |
+| 樊麾二段                                          | 3,250  | 2,750 |
+| 石子旋風（[讓四子](../Page/讓子_\(圍棋\).md "wikilink")）  | 2,525  | 2,500 |
+| 石子旋風                                          | 1,965  | 1,940 |
+| [Zen](../Page/DeepZenGo.md "wikilink")（讓四子）   | 2,300  | 2,250 |
+| Zen                                           | 1,925  | 1,900 |
+| Pachi（[讓四子](../Page/讓子_\(圍棋\).md "wikilink")） | 1787   | 1,750 |
+| Pachi                                         | 1,350  | 1,345 |
+| Fuego                                         | 1,050  | 1,045 |
+| GnuGo                                         | 450    | 450   |
 
-在2017年5月24日，DeepMind团队证实了在乌镇围棋峰会上，所使用的AlphaGo版本是[Master](https://zh.wikipedia.org/wiki/Master_\(围棋软件\) "wikilink")\[69\]，并公布了AlphaGo曾经公开对弈过的版本以及和其他围棋软件比较的图表。其中，新版的AlphaGo
+在2017年5月24日，DeepMind团队证实了在乌镇围棋峰会上，所使用的AlphaGo版本是[Master](../Page/Master_\(围棋软件\).md "wikilink")\[69\]，并公布了AlphaGo曾经公开对弈过的版本以及和其他围棋软件比较的图表。其中，新版的AlphaGo
 Master能让AlphaGo
 Lee（跟李世乭对战的版本）三子\[70\]。两个版本的AlphaGo自我生成的Elo等级分分别在4750和3750分附近\[71\]，与柯洁九段在5月23日的3620分（[非官方排名系统所统计的](../Page/Go_Ratings.md "wikilink")）\[72\]相差约130到1130分之多。然而，职业棋士樊麾二段替AlphaGo团队的首席研究员澄清：“当AlphaGo与从未对弈过的人类棋手对局时，这样的优势就不复存在了，尤其是柯洁这样的围棋大师，他可能帮助我们发现AlphaGo未曾展露的新弱点”。\[73\]
 
@@ -172,7 +172,7 @@ Lee（跟李世乭对战的版本）三子\[70\]。两个版本的AlphaGo自我�
 与AlphaGo Master 对战胜率达90%</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/AlphaZero" title="wikilink">AlphaZero</a></p></td>
+<td><p><a href="../Page/AlphaZero.md" title="wikilink">AlphaZero</a></p></td>
 <td><p>4个TPU v2，单机</p></td>
 <td><p>N/A</p></td>
 <td><p>60:40 战胜AlphaGo Zero（3天版本）</p></td>
@@ -201,15 +201,15 @@ AlphaGo被誉为人工智能研究的一项标志性进展，在此之前，围�
 
 ## 类似成果
 
-  - [Facebook也在开发一套围棋程序](../Page/Facebook.md "wikilink")，名为[Darkforest](../Page/Darkforest.md "wikilink")。这套程序也是基于机器学习和树搜索。\[99\]\[100\]在2016年3月举办的第9届[UEC杯世界電腦圍棋大會中获得亚军](https://zh.wikipedia.org/wiki/UEC杯世界電腦圍棋大會 "wikilink")。\[101\]尽管该程序在其他围棋程序面前表现强劲，但截至2016年年初，它尚未击败任何职业棋手。\[102\]
-  - [DeepZenGo是日本程序员尾島陽兒](https://zh.wikipedia.org/wiki/DeepZenGo "wikilink")、加藤英树等开发的围棋程序，是在旧版本的Zen围棋软件基础上加入了深度学习技术后开发的新版本，由日本[DWANGO公司](https://zh.wikipedia.org/wiki/DWANGO "wikilink")、[东京大学](../Page/东京大学.md "wikilink")、[日本棋院提供支持](../Page/日本棋院.md "wikilink")，其基本原理和AlphaGo类似。在第二届围棋电王战中分先以1:2不敌[赵治勋九段](https://zh.wikipedia.org/wiki/赵治勋 "wikilink")。在2017年3月18-19日在日本举办的第10届[UEC杯世界電腦圍棋大會上获得亚军](https://zh.wikipedia.org/wiki/UEC杯世界電腦圍棋大會 "wikilink")\[103\]。在2017年3月21-23日的[世界最强棋士决定战上以一胜二负的成绩名列第三名](https://zh.wikipedia.org/wiki/世界最强棋士决定战 "wikilink")\[104\]。在2017年3月26日的第5届[电圣战上分先战胜了日本的](../Page/电圣战.md "wikilink")[一力辽七段](https://zh.wikipedia.org/wiki/一力辽 "wikilink")\[105\]。目前在KGS、弈城、腾讯野狐等网络围棋对弈平台上公测。
-  - [绝艺](https://zh.wikipedia.org/wiki/绝艺 "wikilink")（英文名Fine
+  - [Facebook也在开发一套围棋程序](../Page/Facebook.md "wikilink")，名为[Darkforest](../Page/Darkforest.md "wikilink")。这套程序也是基于机器学习和树搜索。\[99\]\[100\]在2016年3月举办的第9届[UEC杯世界電腦圍棋大會中获得亚军](../Page/UEC杯世界電腦圍棋大會.md "wikilink")。\[101\]尽管该程序在其他围棋程序面前表现强劲，但截至2016年年初，它尚未击败任何职业棋手。\[102\]
+  - [DeepZenGo是日本程序员尾島陽兒](../Page/DeepZenGo.md "wikilink")、加藤英树等开发的围棋程序，是在旧版本的Zen围棋软件基础上加入了深度学习技术后开发的新版本，由日本[DWANGO公司](https://zh.wikipedia.org/wiki/DWANGO "wikilink")、[东京大学](../Page/东京大学.md "wikilink")、[日本棋院提供支持](../Page/日本棋院.md "wikilink")，其基本原理和AlphaGo类似。在第二届围棋电王战中分先以1:2不敌[赵治勋九段](https://zh.wikipedia.org/wiki/赵治勋 "wikilink")。在2017年3月18-19日在日本举办的第10届[UEC杯世界電腦圍棋大會上获得亚军](../Page/UEC杯世界電腦圍棋大會.md "wikilink")\[103\]。在2017年3月21-23日的[世界最强棋士决定战上以一胜二负的成绩名列第三名](https://zh.wikipedia.org/wiki/世界最强棋士决定战 "wikilink")\[104\]。在2017年3月26日的第5届[电圣战上分先战胜了日本的](../Page/电圣战.md "wikilink")[一力辽七段](https://zh.wikipedia.org/wiki/一力辽 "wikilink")\[105\]。目前在KGS、弈城、腾讯野狐等网络围棋对弈平台上公测。
+  - [绝艺](../Page/绝艺.md "wikilink")（英文名Fine
     Art）是中国[腾讯公司的AI](../Page/腾讯.md "wikilink")
-    Lab（腾讯人工智能实验室）开发的围棋人工智能。在2017年3月18-19日的第10届[UEC杯世界電腦圍棋大會上夺得冠军](https://zh.wikipedia.org/wiki/UEC杯世界電腦圍棋大會 "wikilink")\[106\]，并在2017年3月26日的第5届[电圣战上分先战胜了日本的](../Page/电圣战.md "wikilink")[一力辽七段](https://zh.wikipedia.org/wiki/一力辽 "wikilink")\[107\]。目前在腾讯野狐围棋网络对弈平台上公测。
-  - [CGI](https://zh.wikipedia.org/wiki/CGI_\(圍棋軟體\) "wikilink")
+    Lab（腾讯人工智能实验室）开发的围棋人工智能。在2017年3月18-19日的第10届[UEC杯世界電腦圍棋大會上夺得冠军](../Page/UEC杯世界電腦圍棋大會.md "wikilink")\[106\]，并在2017年3月26日的第5届[电圣战上分先战胜了日本的](../Page/电圣战.md "wikilink")[一力辽七段](https://zh.wikipedia.org/wiki/一力辽 "wikilink")\[107\]。目前在腾讯野狐围棋网络对弈平台上公测。
+  - [CGI](../Page/CGI_\(圍棋軟體\).md "wikilink")
     是由[國立交通大學CGI](../Page/國立交通大學.md "wikilink")（Computer
     Games and
-    Intelligence）實驗室所開發的圍棋人工智能。在2017首屆世界智能圍棋公開賽8月16日於内蒙古鄂爾多斯開戰，擊敗[絕藝與](https://zh.wikipedia.org/wiki/絕藝 "wikilink")[DeepZenGo](https://zh.wikipedia.org/wiki/DeepZenGo "wikilink")，初賽全勝；17日總決賽中奪得亞軍。
+    Intelligence）實驗室所開發的圍棋人工智能。在2017首屆世界智能圍棋公開賽8月16日於内蒙古鄂爾多斯開戰，擊敗[絕藝與](https://zh.wikipedia.org/wiki/絕藝 "wikilink")[DeepZenGo](../Page/DeepZenGo.md "wikilink")，初賽全勝；17日總決賽中奪得亞軍。
 
 ## 参见
 

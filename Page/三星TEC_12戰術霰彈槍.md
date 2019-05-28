@@ -1,5 +1,5 @@
 **三星TEC
-12**（）是一款由[美国槍械製造商](../Page/美国.md "wikilink")[三星運動武器公司所設計和生產的可](https://zh.wikipedia.org/wiki/三星運動武器公司 "wikilink")[泵動及](https://zh.wikipedia.org/wiki/泵动式 "wikilink")[半自動式兩用](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[戰術](https://zh.wikipedia.org/wiki/鎮暴霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
+12**（）是一款由[美国槍械製造商](../Page/美国.md "wikilink")[三星運動武器公司所設計和生產的可](https://zh.wikipedia.org/wiki/三星運動武器公司 "wikilink")[泵動及](https://zh.wikipedia.org/wiki/泵动式 "wikilink")[半自動式兩用](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[戰術](../Page/鎮暴霰彈槍.md "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 三星TEC
 12比較特別之處是其可選擇半自動或泵動運作的雙操作模式，在具有半自動霰彈槍的連射能力的同時還保有泵动式的可靠性和[彈藥兼容性](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。
@@ -47,7 +47,7 @@ TEC
   - [弗蘭基SPAS-12](../Page/弗蘭基SPAS-12戰鬥霰彈槍.md "wikilink")
   - [弗蘭基SPAS-15](../Page/弗蘭基SPAS-15戰鬥霰彈槍.md "wikilink")
   - [伯奈利M3 Super 90](../Page/伯奈利M3_Super_90霰彈槍.md "wikilink")
-  - [鎮暴霰彈槍](https://zh.wikipedia.org/wiki/鎮暴霰彈槍 "wikilink")
+  - [鎮暴霰彈槍](../Page/鎮暴霰彈槍.md "wikilink")
   - [戰鬥霰彈槍](https://zh.wikipedia.org/wiki/戰鬥霰彈槍 "wikilink")
 
 ## 參考文獻

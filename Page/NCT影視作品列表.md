@@ -85,8 +85,8 @@
 </tr>
 <tr class="even">
 <td><p>2016年12月1日－2017年2月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/OnStyle" title="wikilink">OnStyle</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Lipstick_Prince" title="wikilink">Lipstick Prince</a>》</p></td>
+<td><p><a href="../Page/OnStyle.md" title="wikilink">OnStyle</a></p></td>
+<td><p>《<a href="../Page/Lipstick_Prince.md" title="wikilink">Lipstick Prince</a>》</p></td>
 <td><p>道英</p></td>
 <td><p>第一季，</p></td>
 </tr>
@@ -107,14 +107,14 @@
 <tr class="odd">
 <td><p>2017年2月10日－3月31日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/高等Rapper" title="wikilink">高等Rapper</a>》</p></td>
+<td><p>《<a href="../Page/高等Rapper.md" title="wikilink">高等Rapper</a>》</p></td>
 <td><p>Mark</p></td>
 <td><p>第一季，參賽者</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年3月30日－6月1日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/OnStyle" title="wikilink">OnStyle</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Lipstick_Prince" title="wikilink">Lipstick Prince</a>》</p></td>
+<td><p><a href="../Page/OnStyle.md" title="wikilink">OnStyle</a></p></td>
+<td><p>《<a href="../Page/Lipstick_Prince.md" title="wikilink">Lipstick Prince</a>》</p></td>
 <td><p>Johnny</p></td>
 <td><p>第二季，[2]</p></td>
 </tr>
@@ -130,7 +130,7 @@
 <td><p>2017年6月28日－7月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a><br />
 <a href="../Page/NAVER.md" title="wikilink">Naver V LIVE</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/雪球項目" title="wikilink">雪球計劃</a>》</p></td>
+<td><p>《<a href="../Page/雪球項目.md" title="wikilink">雪球計劃</a>》</p></td>
 <td><p>Mark</p></td>
 <td><p>《S.M. x MYSTIC 合作曲創作》部分，與<a href="../Page/劉憲華.md" title="wikilink">Henry</a>、<a href="../Page/尹鍾信.md" title="wikilink">尹鍾信</a>、朴宰正共同錄製</p></td>
 </tr>
@@ -144,14 +144,14 @@
 <tr class="even">
 <td><p>2018年5月5日－6月16日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/WHYNOT_－_The_Dancer" title="wikilink">WHYNOT－The Dancer</a>》</p></td>
+<td><p>《<a href="../Page/WHYNOT_－_The_Dancer.md" title="wikilink">WHYNOT－The Dancer</a>》</p></td>
 <td><p>志晟</p></td>
 <td><p>第4集後加入</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年5月30日－8月8日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/食糧日記" title="wikilink">食糧日記</a>》</p></td>
+<td><p>《<a href="../Page/食糧日記.md" title="wikilink">食糧日記</a>》</p></td>
 <td><p>泰容</p></td>
 <td><p>[3]</p></td>
 </tr>
@@ -200,7 +200,7 @@
 <tr class="even">
 <td><p>2019年4月26日－至今</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/奔跑吧" title="wikilink">奔跑吧</a>》</p></td>
+<td><p>《<a href="../Page/奔跑吧.md" title="wikilink">奔跑吧</a>》</p></td>
 <td><p>Lucas</p></td>
 <td><p>第7季</p></td>
 </tr>
@@ -312,7 +312,7 @@
 <tr class="even">
 <td><p>2016年9月19日－12月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/My_SMT" title="wikilink">My SMT</a>》</p></td>
+<td><p>《<a href="../Page/My_SMT.md" title="wikilink">My SMT</a>》</p></td>
 <td><p>道英、Johnny</p></td>
 <td><p>固定MC，與<a href="../Page/利特.md" title="wikilink">利特主持</a></p></td>
 </tr>
@@ -321,7 +321,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS株式会社" title="wikilink">SBS</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a>》</p></td>
 <td><p>道英</p></td>
-<td><p>固定MC，與<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a>、<a href="https://zh.wikipedia.org/wiki/金智秀_(歌手)" title="wikilink">Jisoo主持</a>[4]</p></td>
+<td><p>固定MC，與<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a>、<a href="../Page/金智秀_(歌手).md" title="wikilink">Jisoo主持</a>[4]</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年2月24日－2019年1月12日</p></td>
@@ -414,7 +414,7 @@
 </tr>
 <tr class="even">
 <td><p>3/22</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭承煥" title="wikilink">鄭承煥</a></p></td>
+<td><p><a href="../Page/鄭承煥.md" title="wikilink">鄭承煥</a></p></td>
 <td><p>玩笑的夜晚，真心的夜晚</p></td>
 <td></td>
 </tr>
@@ -450,7 +450,7 @@
 </tr>
 <tr class="even">
 <td><p>3/28</p></td>
-<td><p><a href="../Page/Suho.md" title="wikilink">Suho</a>、<a href="https://zh.wikipedia.org/wiki/Sehun" title="wikilink">Sehun</a>（<a href="../Page/EXO.md" title="wikilink">EXO</a>）</p></td>
+<td><p><a href="../Page/Suho.md" title="wikilink">Suho</a>、<a href="../Page/Sehun.md" title="wikilink">Sehun</a>（<a href="../Page/EXO.md" title="wikilink">EXO</a>）</p></td>
 <td><p>應援吧 N night night !</p></td>
 <td></td>
 </tr>
@@ -462,7 +462,7 @@
 </tr>
 <tr class="even">
 <td><p>3/30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭大賢" title="wikilink">大賢</a>、永才（<a href="../Page/B.A.P.md" title="wikilink">B.A.P</a>）</p></td>
+<td><p><a href="../Page/鄭大賢.md" title="wikilink">大賢</a>、永才（<a href="../Page/B.A.P.md" title="wikilink">B.A.P</a>）</p></td>
 <td><p>他的Playlist</p></td>
 <td></td>
 </tr>
@@ -1038,7 +1038,7 @@
 </tr>
 <tr class="even">
 <td><p>7/4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Suran" title="wikilink">Suran</a>、朴宰正</p></td>
+<td><p><a href="../Page/Suran.md" title="wikilink">Suran</a>、朴宰正</p></td>
 <td><p>請聽吧 N night night !</p></td>
 <td></td>
 </tr>
@@ -1080,13 +1080,13 @@
 </tr>
 <tr class="odd">
 <td><p>7/11</p></td>
-<td><p>權玄彬、張文福（<a href="https://zh.wikipedia.org/wiki/PRODUCE_101_第二季" title="wikilink">PRODUCE 101 第二季參賽者</a>）</p></td>
+<td><p>權玄彬、張文福（<a href="../Page/PRODUCE_101_第二季.md" title="wikilink">PRODUCE 101 第二季參賽者</a>）</p></td>
 <td><p>好奇的少年們 第1彈</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>7/12</p></td>
-<td><p>安炯燮、李義雄、Justin、朱正廷（<a href="https://zh.wikipedia.org/wiki/PRODUCE_101_第二季" title="wikilink">PRODUCE 101 第二季參賽者</a>）</p></td>
+<td><p>安炯燮、李義雄、Justin、朱正廷（<a href="../Page/PRODUCE_101_第二季.md" title="wikilink">PRODUCE 101 第二季參賽者</a>）</p></td>
 <td><p>好奇的少年們 第2彈</p></td>
 <td></td>
 </tr>
@@ -1140,7 +1140,7 @@
 </tr>
 <tr class="odd">
 <td><p>7/21</p></td>
-<td><p>彩暻、採媛 ( <a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a> )<a href="https://zh.wikipedia.org/wiki/KARD" title="wikilink">KARD</a></p></td>
+<td><p>彩暻、採媛 ( <a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a> )<a href="../Page/KARD.md" title="wikilink">KARD</a></p></td>
 <td><p>請聽吧 N night night !</p></td>
 <td></td>
 </tr>
@@ -1284,13 +1284,13 @@
 </tr>
 <tr class="odd">
 <td><p>8/14</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Weki_Meki" title="wikilink">Weki Meki</a></p></td>
+<td><p><a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a></p></td>
 <td><p>偶像招待所</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>8/15</p></td>
-<td><p>代班DJ：<a href="https://zh.wikipedia.org/wiki/道英" title="wikilink">道英</a></p></td>
+<td><p>代班DJ：<a href="../Page/道英.md" title="wikilink">道英</a></p></td>
 <td><p>DoJohn的房</p></td>
 <td></td>
 </tr>
@@ -1434,7 +1434,7 @@
 </tr>
 <tr class="even">
 <td><p>9/8</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭世雲" title="wikilink">鄭世雲</a>、<a href="https://zh.wikipedia.org/wiki/權珍雅" title="wikilink">權珍雅</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭世雲" title="wikilink">鄭世雲</a>、<a href="../Page/權珍雅.md" title="wikilink">權珍雅</a></p></td>
 <td><p>玩笑的夜晚，真心的夜晚</p></td>
 <td></td>
 </tr>
@@ -1464,7 +1464,7 @@
 </tr>
 <tr class="odd">
 <td><p>9/13</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MXM_(男子音樂組合)" title="wikilink">MXM</a></p></td>
+<td><p><a href="../Page/MXM_(男子音樂組合).md" title="wikilink">MXM</a></p></td>
 <td><p>偶像招待所</p></td>
 <td></td>
 </tr>
@@ -1548,7 +1548,7 @@
 </tr>
 <tr class="odd">
 <td><p>9/27</p></td>
-<td><p>朴宰正珠伊( <a href="https://zh.wikipedia.org/wiki/MOMOLAND" title="wikilink">MOMOLAND</a> )</p></td>
+<td><p>朴宰正珠伊( <a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a> )</p></td>
 <td><p>玩笑的夜晚，真心的夜晚</p></td>
 <td></td>
 </tr>
@@ -1602,7 +1602,7 @@
 </tr>
 <tr class="even">
 <td><p>10/6</p></td>
-<td><p>長埈、周燦 ( <a href="https://zh.wikipedia.org/wiki/Golden_Child" title="wikilink">Golden Child</a> )喜賢、主恩 ( DIA )昇植、秀彬 ( <a href="https://zh.wikipedia.org/wiki/VICTON" title="wikilink">VICTON</a>)</p></td>
+<td><p>長埈、周燦 ( <a href="../Page/Golden_Child.md" title="wikilink">Golden Child</a> )喜賢、主恩 ( DIA )昇植、秀彬 ( <a href="../Page/VICTON.md" title="wikilink">VICTON</a>)</p></td>
 <td><p>蜜中秋的幸福按鈕</p></td>
 <td></td>
 </tr>
@@ -1698,7 +1698,7 @@
 <tr class="even">
 <td><p>4月9日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=3UGMDJ9kZCA">일곱 번째 감각 (The 7th Sense)</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_7th_Sense" title="wikilink">《</a><a href="https://zh.wikipedia.org/wiki/NCT_2018_Empathy" title="wikilink">NCT 2018 EMPATHY</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/The_7th_Sense" title="wikilink">《</a><a href="../Page/NCT_2018_Empathy.md" title="wikilink">NCT 2018 EMPATHY</a>》</p></td>
 <td><p>NCT U</p></td>
 <td><p>泰容、道英、Ten、在玹、Mark</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=yTmR-ogUXqo">Performance Video</a></p></td>
@@ -1732,7 +1732,7 @@
 <td><p>8月24日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=fwmvF5ffmhg">Chewing Gum</a></p></td>
 <td><p>&lt;<a href="https://zh.wikipedia.org/wiki/Chewing_Gum" title="wikilink">Chewing Gum</a>&gt;<br />
-《<a href="https://zh.wikipedia.org/wiki/The_First_(NCT_Dream單曲)" title="wikilink">The First</a>》</p></td>
+《<a href="../Page/The_First_(NCT_Dream單曲).md" title="wikilink">The First</a>》</p></td>
 <td><p>NCT Dream</p></td>
 <td><p>Mark、仁俊、Jeno、楷燦、渽民、辰樂、志晟</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=lB_sC__Y6Gc">Hoverboard Performance Video</a></p></td>
@@ -1780,7 +1780,7 @@
 <tr class="even">
 <td><p>2月9日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=4pUc7SD0PmU">마지막 첫사랑 (My First and Last)</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/The_First_(NCT_Dream單曲)" title="wikilink">The First</a>》</p></td>
+<td><p>《<a href="../Page/The_First_(NCT_Dream單曲).md" title="wikilink">The First</a>》</p></td>
 <td><p>NCT Dream</p></td>
 <td><p>Mark、仁俊、Jeno、楷燦、辰樂、志晟</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=1Opsx733bfg">Performance Video</a><br />
@@ -1798,7 +1798,7 @@
 <td><p>4月10日</p></td>
 <td><p><a href="https://www.facebook.com/U20Korea/videos/1864013607220161/">Trigger the Fever</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/We_Young" title="wikilink">We Young</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年國際足協U-20世界盃" title="wikilink">FIFA U-20 世界盃 KOREA 2017主題曲</a></p></td>
+<td><p><a href="../Page/2017年國際足協U-20世界盃.md" title="wikilink">FIFA U-20 世界盃 KOREA 2017主題曲</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1865,7 +1865,7 @@ Focus on ver.<br />
 <tr class="odd">
 <td><p>2月19日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=0AUFyFEt35g">BOSS</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/NCT_2018_Empathy" title="wikilink">NCT 2018 EMPATHY</a>》</p></td>
+<td><p>《<a href="../Page/NCT_2018_Empathy.md" title="wikilink">NCT 2018 EMPATHY</a>》</p></td>
 <td><p>NCT U</p></td>
 <td><p>泰容、道英、在玹、昀昀、廷祐、Lucas、Mark</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=-7tSTUR7FG0">Dance Practice</a></p></td>
@@ -2069,7 +2069,7 @@ Focus on ver.<br />
 <td><p>7月7日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=gfbRLbMuGSs">Young &amp; Free</a></p></td>
 <td><p>Mark</p></td>
-<td><p>与<a href="https://zh.wikipedia.org/wiki/Xiumin" title="wikilink">Xiumin</a>（<a href="../Page/EXO.md" title="wikilink">EXO</a>）合唱</p></td>
+<td><p>与<a href="../Page/Xiumin.md" title="wikilink">Xiumin</a>（<a href="../Page/EXO.md" title="wikilink">EXO</a>）合唱</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2103,7 +2103,7 @@ Focus on ver.<br />
 <tr class="odd">
 <td><p>12月1日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=p89EcgqpM9Q">賣火柴的小女孩（The Little Match Girl）</a></p></td>
-<td><p><a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>（<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>）、<a href="../Page/白娥娟.md" title="wikilink">白娥娟</a></p></td>
+<td><p><a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>（<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）、<a href="../Page/白娥娟.md" title="wikilink">白娥娟</a></p></td>
 <td><p>在玹仅参与MV演出</p></td>
 <td></td>
 </tr>
@@ -2146,7 +2146,7 @@ Focus on ver.<br />
 <td><p>12月13日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=3vKhnTAsLhE">Hair in the Air</a></p></td>
 <td><p>仁俊、Jeno、渽民</p></td>
-<td><p>与<a href="../Page/Yeri.md" title="wikilink">Yeri</a>（<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>）合唱</p></td>
+<td><p>与<a href="../Page/Yeri.md" title="wikilink">Yeri</a>（<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）合唱</p></td>
 <td></td>
 </tr>
 <tr class="even">

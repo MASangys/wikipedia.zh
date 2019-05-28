@@ -3,7 +3,7 @@ Not**》（[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")：），[�
 
 ## 概述
 
-  - 距離前作「[花束](https://zh.wikipedia.org/wiki/花束_\(中島美嘉單曲\) "wikilink")」約一年的單曲，分初回生產限定盤（CD+DVD）與通常盤（CD）兩版本發行。
+  - 距離前作「[花束](../Page/花束_\(中島美嘉單曲\).md "wikilink")」約一年的單曲，分初回生產限定盤（CD+DVD）與通常盤（CD）兩版本發行。
   - 標題曲「Forget Me
     Not」為電影「請與我的妻子結婚。」的主題曲\[1\]，自「[初戀](../Page/初戀_\(中島美嘉單曲\).md "wikilink")」後再次成為電影主題曲的歌曲。
   - c/w曲「高樓風游泳教室 feat.SALU」為與嘻哈歌手SALU合作的歌曲，並被選為日本人氣手機遊戲「追憶之青」的形象曲。

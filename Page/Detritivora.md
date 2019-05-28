@@ -1,4 +1,4 @@
-***Detritivora***是[蜆蝶科](../Page/蜆蝶科.md "wikilink")[蜆蝶亞科](../Page/蜆蝶亞科.md "wikilink")[蜆蝶族裡的一個屬](../Page/蜆蝶族.md "wikilink")，尚無正式中文學名命名。共有31個物種，從[紋蜆蝶屬分離成新屬](https://zh.wikipedia.org/wiki/紋蜆蝶屬 "wikilink")，分佈於[新熱帶界](https://zh.wikipedia.org/wiki/新熱帶界 "wikilink")，幼蟲以枯葉為食\[1\]。
+***Detritivora***是[蜆蝶科](../Page/蜆蝶科.md "wikilink")[蜆蝶亞科](../Page/蜆蝶亞科.md "wikilink")[蜆蝶族裡的一個屬](../Page/蜆蝶族.md "wikilink")，尚無正式中文學名命名。共有31個物種，從[紋蜆蝶屬分離成新屬](../Page/紋蜆蝶屬.md "wikilink")，分佈於[新熱帶界](https://zh.wikipedia.org/wiki/新熱帶界 "wikilink")，幼蟲以枯葉為食\[1\]。
 
 ## 物種
 

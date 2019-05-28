@@ -16,7 +16,7 @@ Amazing Summer推介綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink"
 | 01     | [10月2日](../Page/10月2日.md "wikilink")   | 尋找單身筍盤       | [洪永城](../Page/洪永城.md "wikilink")                                                                             |
 | 02     | [10月4日](../Page/10月4日.md "wikilink")   | 「納米價」泰國豪宅    | [張頴康](../Page/張頴康.md "wikilink")                                                                             |
 | 03     | [10月5日](../Page/10月5日.md "wikilink")   | 搜尋「上車盤」      | [朱智賢](https://zh.wikipedia.org/wiki/朱智賢 "wikilink")                                                          |
-| 04     | [10月6日](../Page/10月6日.md "wikilink")   | 搜羅城中「首置細價樓」  | [張振朗](https://zh.wikipedia.org/wiki/張振朗 "wikilink")                                                          |
+| 04     | [10月6日](../Page/10月6日.md "wikilink")   | 搜羅城中「首置細價樓」  | [張振朗](../Page/張振朗.md "wikilink")                                                                             |
 | 05     | [10月9日](../Page/10月9日.md "wikilink")   | 千呎物業此中尋      | [敖嘉年](../Page/敖嘉年.md "wikilink")                                                                             |
 | 06     | [10月10日](../Page/10月10日.md "wikilink") | 「姑婆屋」有着落     | [張秀文](../Page/張秀文.md "wikilink")                                                                             |
 | 07     | [10月11日](../Page/10月11日.md "wikilink") | 走勻港九名校網靚樓    | [黃芷晴](https://zh.wikipedia.org/wiki/黃芷晴_（童星） "wikilink")、[嚴尚志](https://zh.wikipedia.org/wiki/嚴尚志 "wikilink") |
@@ -50,7 +50,7 @@ Amazing Summer推介綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink"
 <td><p>03</p></td>
 <td><p><a href="../Page/6月20日.md" title="wikilink">6月20日</a></p></td>
 <td><p>上車不是夢 廿萬full pay貫兩秀？</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/周程宇" title="wikilink">周程宇</a>、<a href="https://zh.wikipedia.org/wiki/黃凱儀" title="wikilink">黃凱儀</a><br />
+<td><p><a href="../Page/周程宇.md" title="wikilink">周程宇</a>、<a href="../Page/黃凱儀.md" title="wikilink">黃凱儀</a><br />
 <a href="../Page/李寶珊.md" title="wikilink">李寶珊</a>、<a href="../Page/李寶君.md" title="wikilink">李寶君</a></p></td>
 </tr>
 <tr class="odd">

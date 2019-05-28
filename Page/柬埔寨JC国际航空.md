@@ -98,7 +98,7 @@
 <td><p>[11]</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大韩民国" title="wikilink">韓國</a></p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a></p></td>
 <td><p>2017年10月30日</p></td>

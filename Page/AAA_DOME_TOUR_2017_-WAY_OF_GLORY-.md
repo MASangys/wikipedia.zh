@@ -18,7 +18,7 @@
       -
         「[AAA 6th Anniversary Tour 2011.9.28 at Zepp
         Tokyo](../Page/AAA_6th_Anniversary_Tour_2011.9.28_at_Zepp_Tokyo.md "wikilink")」之後的首次影像化。
-4.  **[Next Stage](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")**
+4.  **[Next Stage](../Page/說再見之前.md "wikilink")**
       -
         「[AAA Special Live 2016 in Dome -FANTASTIC
         OVER-](../Page/AAA_Special_Live_2016_in_Dome_-FANTASTIC_OVER-.md "wikilink")」之後的首次影像化。
@@ -69,7 +69,7 @@
       -
         「[AAA Special Live 2016 in Dome -FANTASTIC
         OVER-](../Page/AAA_Special_Live_2016_in_Dome_-FANTASTIC_OVER-.md "wikilink")」之後的首次影像化。
-18. **[SHOW TIME](https://zh.wikipedia.org/wiki/SHOW_TIME "wikilink")**
+18. **[SHOW TIME](../Page/SHOW_TIME.md "wikilink")**
       -
         「[AAA ARENA TOUR 2016 -LEAP
         OVER-](../Page/AAA_ARENA_TOUR_2016_-LEAP_OVER-.md "wikilink")」之後的首次影像化。
@@ -88,7 +88,7 @@
       -
         「[AAA Special Live 2016 in Dome -FANTASTIC
         OVER-](../Page/AAA_Special_Live_2016_in_Dome_-FANTASTIC_OVER-.md "wikilink")」之後的首次影像化。
-23. **[說再見之前](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")** (ENCORE)
+23. **[說再見之前](../Page/說再見之前.md "wikilink")** (ENCORE)
       -
         「[AAA Special Live 2016 in Dome -FANTASTIC
         OVER-](../Page/AAA_Special_Live_2016_in_Dome_-FANTASTIC_OVER-.md "wikilink")」之後的首次影像化。

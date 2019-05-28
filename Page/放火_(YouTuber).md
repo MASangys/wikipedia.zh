@@ -1,4 +1,4 @@
-**放火**，本名**李育群**，為台灣[新竹](https://zh.wikipedia.org/wiki/新竹 "wikilink")[YouTuber](https://zh.wikipedia.org/wiki/YouTuber "wikilink")，其個人的YouTube頻道為「放火
+**放火**，本名**李育群**，為台灣[新竹](https://zh.wikipedia.org/wiki/新竹 "wikilink")[YouTuber](../Page/YouTuber.md "wikilink")，其個人的YouTube頻道為「放火
 Louis」，及第二頻道「放水Louis」。
 
 小學在[新竹縣竹東鎮](https://zh.wikipedia.org/wiki/新竹縣竹東鎮 "wikilink")[竹東上智國小](https://zh.wikipedia.org/wiki/竹東上智國小 "wikilink")，而於新竹市立[建功高中國中部畢業](https://zh.wikipedia.org/wiki/建功高中 "wikilink")，[苗栗高中肄業](https://zh.wikipedia.org/wiki/苗栗高中 "wikilink")，[新加坡](../Page/新加坡.md "wikilink")[青景中學畢業](https://zh.wikipedia.org/wiki/青景中學 "wikilink")。2014年前往[新加坡留學](../Page/新加坡.md "wikilink")，2016年11月20日回台。曾自揭右眼全盲。
@@ -25,7 +25,7 @@ zh-hant:[當個創世神](https://zh.wikipedia.org/wiki/當個創世神 "wikilin
 ## 相關條目
 
   - [台灣YouTuber訂閱人數排行榜](https://zh.wikipedia.org/wiki/台灣YouTuber訂閱人數排行榜 "wikilink")
-  - [在YouTube上訂閱人數最多的用戶列表](https://zh.wikipedia.org/wiki/在YouTube上訂閱人數最多的用戶列表 "wikilink")
+  - [在YouTube上訂閱人數最多的用戶列表](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")
 
 ## 參考資料
 

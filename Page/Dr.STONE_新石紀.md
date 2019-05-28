@@ -1,5 +1,5 @@
 《**Dr.STONE
-新石紀**》（），為日本集英社所出版、並在[週刊少年JUMP連載之漫畫](https://zh.wikipedia.org/wiki/週刊少年JUMP "wikilink")，由稻垣理一郎擔任原作，[Boichi負責作畫](https://zh.wikipedia.org/wiki/Boichi "wikilink")。本作為Boichi初次繪畫的少年漫畫。
+新石紀**》（），為日本集英社所出版、並在[週刊少年JUMP連載之漫畫](https://zh.wikipedia.org/wiki/週刊少年JUMP "wikilink")，由稻垣理一郎擔任原作，[Boichi負責作畫](../Page/Boichi.md "wikilink")。本作為Boichi初次繪畫的少年漫畫。
 
 ## 故事內容
 
@@ -591,7 +591,7 @@
 
 ### 製作人員
 
-  - 原作：[稻垣理一郎](../Page/稻垣理一郎.md "wikilink")、[Boichi](https://zh.wikipedia.org/wiki/Boichi "wikilink")
+  - 原作：[稻垣理一郎](../Page/稻垣理一郎.md "wikilink")、[Boichi](../Page/Boichi.md "wikilink")
   - 監督：飯野慎也
   - 系列構成、劇本：木戶雄一郎
   - 人物設定：岩佐裕子

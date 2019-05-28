@@ -1,4 +1,4 @@
-**Soylent**是一种饮料，被宣传为“主食餐”，有液体和粉末两种形式。其发明人声称Soylent能够满足一般成年人所有的[营养需求](https://zh.wikipedia.org/wiki/参考膳食摄入量 "wikilink")，\[1\]但一些批评家持有[不同意见](https://zh.wikipedia.org/wiki/#健康影响 "wikilink")。Soylent最初是由软件工程师Rob
+**Soylent**是一种饮料，被宣传为“主食餐”，有液体和粉末两种形式。其发明人声称Soylent能够满足一般成年人所有的[营养需求](../Page/参考膳食摄入量.md "wikilink")，\[1\]但一些批评家持有[不同意见](https://zh.wikipedia.org/wiki/#健康影响 "wikilink")。Soylent最初是由软件工程师Rob
 Rhinehart作为自己对营养学的实验创造出来并加以测试。后来，粉末版Soylent被开发成了Rosa
 Labs公司的第一条产品线，该公司也是此配方现时的销售者。
 
@@ -12,7 +12,7 @@ Labs也声称Soylent包含健康食谱的所有元素，且不含过量的糖、
 
 这些修改引发了一场在上筹得超过3百万美元\[7\]\[8\]的[众筹活动](https://zh.wikipedia.org/wiki/众筹 "wikilink")，该次活动的目标是将粉末饮品从概念推向生产。截止2016年，该次活动依然是。在活动之后，Soylent在种子轮得到了1.5百万美元\[9\]的，用于进一步开发[概念验证](https://zh.wikipedia.org/wiki/概念验证 "wikilink")。媒体报道了Rosa
 Labs在2014年4月开始生产，使用了500美元的小型系统发送了头2.6百万美元的产品。\[10\]在2015年1月，Soylent收到了由天使投资人[Andreessen
-Horowitz带头的](https://zh.wikipedia.org/wiki/Andreessen_Horowitz "wikilink")20百万美元。\[11\]
+Horowitz带头的](../Page/Andreessen_Horowitz.md "wikilink")20百万美元。\[11\]
 
 在2015年6月之前，Soylent仅能在美国购买。2015年6月15日，Soylent可以相同的（美元）价格在[加拿大购得](../Page/加拿大.md "wikilink")。\[12\]扩展到[欧洲国家是未来目标之一](https://zh.wikipedia.org/wiki/欧洲国家 "wikilink")。
 

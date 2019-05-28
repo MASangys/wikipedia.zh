@@ -31,7 +31,7 @@
 
 2010年，漢森參演了改編自1984年[同名電影的](../Page/小子難纏.md "wikilink")《[功夫夢](../Page/功夫梦.md "wikilink")》，並在商業上獲得了成功。\[24\]
 
-2011年，漢森主演了電視電影《》，該劇改編自真人真事，講述一名母親蒂芬妮·盧賓的六歲兒子被親生父親綁架至[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")，於是她展開一段找尋兒子的旅程。\[25\]
+2011年，漢森主演了電視電影《》，該劇改編自真人真事，講述一名母親蒂芬妮·盧賓的六歲兒子被親生父親綁架至[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[首爾](../Page/首爾.md "wikilink")，於是她展開一段找尋兒子的旅程。\[25\]
 其於該劇的表現獲的影評家的讚賞，\[26\]
 並因此入圍了[黃金時段艾美獎](../Page/黃金時段艾美獎.md "wikilink")。\[27\]
 
@@ -820,7 +820,7 @@ Daughter's Eyes〉。\[43\]
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/聖地牙哥影評人協會" title="wikilink">聖地牙哥影評人協會</a></p></td>
+<td><p><a href="../Page/聖地牙哥影評人協會.md" title="wikilink">聖地牙哥影評人協會</a></p></td>
 <td><p>最佳整體演出獎</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/隱藏人物" title="wikilink">關鍵少數</a></p></td>
 <td><p>亞軍</p></td>
@@ -954,20 +954,20 @@ Daughter's Eyes〉。\[43\]
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/MTV影視大獎.md" title="wikilink">MTV影視大獎</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MTV影視大獎最佳電影演員" title="wikilink">最佳電影演員獎</a></p></td>
+<td><p><a href="../Page/MTV影視大獎最佳電影演員.md" title="wikilink">最佳電影演員獎</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/MTV影視大獎最佳英雄" title="wikilink">最佳英雄獎</a></p></td>
+<td><p><a href="../Page/MTV影視大獎最佳英雄.md" title="wikilink">最佳英雄獎</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/MTV影視大獎最佳接吻" title="wikilink">最佳接吻獎</a></p></td>
+<td><p><a href="../Page/MTV影視大獎最佳接吻.md" title="wikilink">最佳接吻獎</a></p></td>
 <td><p>嘻哈帝國</p></td>
 <td></td>
 <td></td>
@@ -989,7 +989,7 @@ Daughter's Eyes〉。\[43\]
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年青少年選擇獎" title="wikilink">青少年選擇獎</a></p></td>
+<td><p><a href="../Page/2017年青少年選擇獎.md" title="wikilink">青少年選擇獎</a></p></td>
 <td><p>電影選擇獎：劇情片女演員</p></td>
 <td><p>關鍵少數</p></td>
 <td></td>

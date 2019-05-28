@@ -1121,7 +1121,7 @@ zh-cn:[BMW_3-Series_F34_GT_01_China_2014-04-20.jpg](https://zh.wikipedia.org/wik
 ## 长轴距款（F35）
 
 [BMW_3-Series_F35_Li_China_2015-04-13.jpg](https://zh.wikipedia.org/wiki/File:BMW_3-Series_F35_Li_China_2015-04-13.jpg "fig:BMW_3-Series_F35_Li_China_2015-04-13.jpg")
-专供中国汽车市场的3系列轿车款已自2012年7月起在[沈阳的](https://zh.wikipedia.org/wiki/沈阳 "wikilink")[华晨宝马铁西工厂下线](https://zh.wikipedia.org/wiki/华晨宝马 "wikilink")。这款拥有额外约11厘米的加长轴距变体是在2012年北京车展首次亮相，从而增加了约90毫米的后排腿部空间。作为标准配置，所有车型都配备了8速运动型手自一体变速箱，只有320Li的8速手自一体变速箱和316Li的6速手动变速箱除外。作为车型配置，除了知名的豪华型（不适用于335Li）和现代型外，还包括有时尚型和MT型，但不提供运动型\[64\]\[65\]。
+专供中国汽车市场的3系列轿车款已自2012年7月起在[沈阳的](https://zh.wikipedia.org/wiki/沈阳 "wikilink")[华晨宝马铁西工厂下线](../Page/华晨宝马.md "wikilink")。这款拥有额外约11厘米的加长轴距变体是在2012年北京车展首次亮相，从而增加了约90毫米的后排腿部空间。作为标准配置，所有车型都配备了8速运动型手自一体变速箱，只有320Li的8速手自一体变速箱和316Li的6速手动变速箱除外。作为车型配置，除了知名的豪华型（不适用于335Li）和现代型外，还包括有时尚型和MT型，但不提供运动型\[64\]\[65\]。
 
 <table style="width:10%;">
 <colgroup>

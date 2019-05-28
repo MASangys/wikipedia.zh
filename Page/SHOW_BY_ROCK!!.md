@@ -528,7 +528,7 @@ City，在AkibarnStreet進行活動的地下偶像樂隊。商業搭配樂隊為
   -
 
       -
-        作詞、作曲：秋秋（作詞：瀨名惠，作曲：RegaSound，編曲：[Leda](https://zh.wikipedia.org/wiki/Leda "wikilink")），主唱：Plasmagica
+        作詞、作曲：秋秋（作詞：瀨名惠，作曲：RegaSound，編曲：[Leda](../Page/Leda.md "wikilink")），主唱：Plasmagica
 
 ::; 「」（第3、9話）
 

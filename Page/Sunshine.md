@@ -4,7 +4,7 @@
 
 原队长Abby，成员Abby、Nancy、Cheryl、Cindy、Dora是来自[安徽](https://zh.wikipedia.org/wiki/安徽 "wikilink")[亳州市高一同班同学](../Page/亳州市.md "wikilink")，因为对音乐的爱好自发组成组合。
 
-2016年因不滿原公司信念音樂不正當競爭行為和利益分配問題\[5\]，Abby、Cindy、Dora三人退出組合並另名[3unshine開展活動](https://zh.wikipedia.org/wiki/3unshine "wikilink")。
+2016年因不滿原公司信念音樂不正當競爭行為和利益分配問題\[5\]，Abby、Cindy、Dora三人退出組合並另名[3unshine開展活動](../Page/3unshine.md "wikilink")。
 
 ## 网络热议
 

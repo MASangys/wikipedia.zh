@@ -29,8 +29,8 @@ PCH上引出兩條PCIe 2.0通道，也可從LGA 2011-v3插槽的處理器上引�
 
 [AMD則於](https://zh.wikipedia.org/wiki/AMD "wikilink")2017年發表了[Socket
 AM4和](../Page/Socket_AM4.md "wikilink")[Socket
-SP3](https://zh.wikipedia.org/wiki/Socket_SP3 "wikilink")(r2)/LGA
-4094處理器平台，內建SATA Express控制器。\[15\]
+SP3](../Page/Socket_SP3.md "wikilink")(r2)/LGA 4094處理器平台，內建SATA
+Express控制器。\[15\]
 
 ### 使用度
 
@@ -228,8 +228,8 @@ Express連接器的PCIe固態硬碟，與使用普通的SSD無甚區別。但是
 
   - [LFCS: Preparing Linux for nonvolatile memory
     devices](https://lwn.net/Articles/547903/),
-    [LWN.net](https://zh.wikipedia.org/wiki/LWN.net "wikilink"), April
-    19, 2013, by Jonathan Corbet
+    [LWN.net](../Page/LWN.net.md "wikilink"), April 19, 2013, by
+    Jonathan Corbet
 
   - [NVMe vs AHCI: Another Win for
     PCIe](http://www.anandtech.com/show/7843/testing-sata-express-with-asus/4),

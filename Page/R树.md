@@ -20,8 +20,8 @@ R树不保证[最坏情况下的性能](https://zh.wikipedia.org/wiki/最坏情�
 
 ## 变体
 
-  - [R\*树](https://zh.wikipedia.org/wiki/R*树 "wikilink")
-  - [R+树](https://zh.wikipedia.org/wiki/R+树 "wikilink")
+  - [R\*树](../Page/R*树.md "wikilink")
+  - [R+树](../Page/R+树.md "wikilink")
   - [Hilbert R树](https://zh.wikipedia.org/wiki/Hilbert_R树 "wikilink")
   - [X树](https://zh.wikipedia.org/wiki/X树 "wikilink")
 
@@ -54,7 +54,7 @@ R树的数据按（内存）页存储，每一页存储多条数据，数据条�
 还有其它的分割策略，例如Greene's
 Split\[11\]，R\*树启发式分割策略\[12\]（它也试图尽量减小重叠，但同时也偏向正方形的节点）以及Chuan-Heng
 Ang和T. C. Tan提出的线性分割算法\[13\]
-（这种算法会产生形状很不规则的矩形，在很多现实数据分布以及使用搜索框时效率较低）。[R\*树不仅使用了更高级的启发式分割](https://zh.wikipedia.org/wiki/R*树 "wikilink")，而且还通过重新插入一些数值来试图避免分割节点（这跟[B树平衡溢出节点的策略类似](../Page/B树.md "wikilink")）。这个方法被证明还可以减少重叠，从而进一步提高R树性能。
+（这种算法会产生形状很不规则的矩形，在很多现实数据分布以及使用搜索框时效率较低）。[R\*树不仅使用了更高级的启发式分割](../Page/R*树.md "wikilink")，而且还通过重新插入一些数值来试图避免分割节点（这跟[B树平衡溢出节点的策略类似](../Page/B树.md "wikilink")）。这个方法被证明还可以减少重叠，从而进一步提高R树性能。
 
 最后，[X树](https://zh.wikipedia.org/wiki/X树 "wikilink")\[14\]（可以被视为R\*树的变体）也决定避免分割节点。当X树找不到一个好的分割方式（尤其在高维数据的情况下）时会构建一个所谓的“超节点”来放置溢出的数据。
 

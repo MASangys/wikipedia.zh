@@ -317,8 +317,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
     ANIMATION-](https://zh.wikipedia.org/wiki/超級索尼子_\(動畫\) "wikilink")（後藤正浩）
   - [魔女的使命](../Page/魔女的使命.md "wikilink")（後藤正浩）
   - [地球隊長](../Page/地球隊長.md "wikilink")（西山茂）
-  - [世界征服
-    謀略之星](https://zh.wikipedia.org/wiki/世界征服_謀略之星 "wikilink")（後藤正浩）
+  - [世界征服 謀略之星](../Page/世界征服_謀略之星.md "wikilink")（後藤正浩）
   - [農林](../Page/農林.md "wikilink")（坪根健太郎）
   - [狐仙的戀愛入門](../Page/狐仙的戀愛入門.md "wikilink")（西山茂）
   - [最近，妹妹的樣子有點怪？](../Page/最近，妹妹的樣子有點怪？.md "wikilink")（坪根健太郎）
@@ -340,9 +339,9 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - 刀劍神域II（西山茂）
   - 黑執事 Book of Circus（後藤正浩）
   - [修業魔女璐璐萌](../Page/修業魔女璐璐萌.md "wikilink")（西山茂）
-  - [七大罪](https://zh.wikipedia.org/wiki/七大罪_\(漫畫\) "wikilink")（後藤正浩）
+  - [七大罪](../Page/七大罪_\(漫畫\).md "wikilink")（後藤正浩）
   - [狼少女和黑王子](../Page/狼少女和黑王子.md "wikilink")（近藤勇二）
-  - [電波少女與錢仙大人](https://zh.wikipedia.org/wiki/電波少女與錢仙大人 "wikilink")（坪根健太郎）
+  - [電波少女與錢仙大人](../Page/電波少女與錢仙大人.md "wikilink")（坪根健太郎）
   - 棺姬嘉依卡 AVENGING BATTLE（後藤正浩）
 
 <!-- end list -->
@@ -354,7 +353,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - [雙槍激鬥](../Page/雙槍激鬥.md "wikilink")（後藤正浩）
   - 歌之王子殿下 真愛革命（近藤勇二）
   - [在地下城尋求邂逅是否搞錯了什麼](https://zh.wikipedia.org/wiki/在地下城尋求邂逅是否搞錯了什麼 "wikilink")（坪根健太郎）
-  - [百合熊風暴](https://zh.wikipedia.org/wiki/百合熊風暴 "wikilink")（西山茂）
+  - [百合熊風暴](../Page/百合熊風暴.md "wikilink")（西山茂）
   - [血界戰線](../Page/血界戰線.md "wikilink")（西山茂）
   - [食戟之靈](https://zh.wikipedia.org/wiki/食戟之靈 "wikilink")（西山茂）
   - 偵探歌劇 少女福爾摩斯 TD（後藤正浩）
@@ -368,7 +367,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - [若葉女孩](../Page/若葉女孩.md "wikilink")（坪根健太郎）
   - WORKING\!\!\!（坪根健太郎）
   - [動畫鍛鍊！EX](../Page/動畫鍛鍊！EX.md "wikilink")（近藤勇二）
-  - [我被抓到貴族女校當「庶民樣本」](https://zh.wikipedia.org/wiki/我被綁架到貴族女校當「庶民樣本」 "wikilink")（坪根健太郎）
+  - [我被抓到貴族女校當「庶民樣本」](../Page/我被綁架到貴族女校當「庶民樣本」.md "wikilink")（坪根健太郎）
   - [學戰都市Asterisk](../Page/學戰都市Asterisk.md "wikilink")（後藤正浩）
   - [對魔導學園35試驗小隊](../Page/對魔導學園35試驗小隊.md "wikilink")（坪根健太郎）
   - [重裝武器](../Page/重裝武器.md "wikilink")（西山茂）
@@ -389,8 +388,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - [田中君總是如此慵懶](../Page/田中君總是如此慵懶.md "wikilink")（坪根健太郎）
   - [火星異種 復仇](../Page/火星異種.md "wikilink")（近藤勇二）
   - [飛翔的魔女](https://zh.wikipedia.org/wiki/飛翔的魔女 "wikilink")（後藤正浩）
-  - [文豪Stray
-    Dogs](https://zh.wikipedia.org/wiki/文豪Stray_Dogs "wikilink")（西山茂）
+  - [文豪Stray Dogs](../Page/文豪Stray_Dogs.md "wikilink")（西山茂）
   - [超時空要塞Δ](../Page/超時空要塞Δ.md "wikilink")（坪根健太郎）
   - [Re:從零開始的異世界生活](../Page/Re:從零開始的異世界生活.md "wikilink")（須藤瞳）
   - [藍海少女！](../Page/藍海少女！.md "wikilink")（須藤瞳）
@@ -427,22 +425,19 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
 <!-- end list -->
 
-  - [七大罪
-    戒めの復活](https://zh.wikipedia.org/wiki/七大罪_\(漫畫\) "wikilink")（後藤正浩）
+  - [七大罪 戒めの復活](../Page/七大罪_\(漫畫\).md "wikilink")（後藤正浩）
   - 食戟之靈 餐之皿 遠月列車篇（近藤勇二）
   - 續 刀劍亂舞 -花丸-（坪根健太郎）
-  - [Butlers
-    ～千年百年物語～](https://zh.wikipedia.org/wiki/Butlers～千年百年物語～ "wikilink")（瀧川三智）
+  - [Butlers ～千年百年物語～](../Page/Butlers～千年百年物語～.md "wikilink")（瀧川三智）
   - [STEINS;GATE 0](../Page/命運石之門.md "wikilink")（須藤瞳）
-  - [最終休止符
-    -無止境的螺旋物語-](https://zh.wikipedia.org/wiki/最終休止符_-無止境的螺旋物語- "wikilink")（新見元希）
+  - [最終休止符 -無止境的螺旋物語-](../Page/最終休止符_-無止境的螺旋物語-.md "wikilink")（新見元希）
   - [阿宅的戀愛太難](../Page/阿宅的戀愛太難.md "wikilink")（坪根健太郎）
   - [漫畫女孩](https://zh.wikipedia.org/wiki/漫畫女孩 "wikilink")（坪根健太郎）
   - [ALICE OR
     ALICE](https://zh.wikipedia.org/wiki/ALICE_OR_ALICE～妹控哥哥與雙胞胎妹妹～ "wikilink")（新見元希）
-  - [後街女孩](https://zh.wikipedia.org/wiki/後街女孩 "wikilink")（山岸歩奈実）
-  - [春原莊的管理員小姐](https://zh.wikipedia.org/wiki/春原莊的管理員小姐 "wikilink")（坪根健太郎）
-  - [音樂少女](https://zh.wikipedia.org/wiki/音樂少女 "wikilink")（西山茂）
+  - [後街女孩](../Page/後街女孩.md "wikilink")（山岸歩奈実）
+  - [春原莊的管理員小姐](../Page/春原莊的管理員小姐.md "wikilink")（坪根健太郎）
+  - [音樂少女](../Page/音樂少女.md "wikilink")（西山茂）
   - [行星與共](https://zh.wikipedia.org/wiki/行星與共 "wikilink")（近藤勇二）
   - [高分少女](../Page/高分少女.md "wikilink")（坪根健太郎）
   - [搖曳莊的幽奈小姐](../Page/搖曳莊的幽奈小姐.md "wikilink")（坪根健太郎）
@@ -451,8 +446,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - [刀劍神域
     Alicization](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")（近藤勇二）
   - [魔法禁書目錄III](https://zh.wikipedia.org/wiki/魔法禁書目錄 "wikilink")（西山茂）
-  - [RErideD
-    -穿越時空的德希達-](https://zh.wikipedia.org/wiki/RErideD_-穿越時空的德希達- "wikilink")（後藤正浩）
+  - [RErideD -穿越時空的德希達-](../Page/RErideD_-穿越時空的德希達-.md "wikilink")（後藤正浩）
   - [佐賀偶像是傳奇](../Page/佐賀偶像是傳奇.md "wikilink")（後藤正浩）
 
 <!-- end list -->
@@ -464,7 +458,7 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
   - [環戰公主](../Page/環戰公主.md "wikilink")（坪根健太郎）
   - [動物朋友2](../Page/動物朋友.md "wikilink")（新見元希）
   - [盾之勇者成名錄](../Page/盾之勇者成名錄.md "wikilink")（須藤瞳）
-  - [天使降臨到我身邊！](https://zh.wikipedia.org/wiki/天使降臨到我身邊！ "wikilink")（坪根健太郎）
+  - [天使降臨到我身邊！](../Page/天使降臨到我身邊！.md "wikilink")（坪根健太郎）
   - [賢者之孫](https://zh.wikipedia.org/wiki/賢者之孫 "wikilink")（瀧川三智）
   - [異常生物見聞錄](https://zh.wikipedia.org/wiki/異常生物見聞錄 "wikilink")
 
@@ -685,9 +679,8 @@ Animation和REAL-T將近全部的股份。從今以後，REAL-T成為Memory-Tech
 
 <!-- end list -->
 
-  - [未來的未來](https://zh.wikipedia.org/wiki/未來的未來 "wikilink")（西山茂）
-  - [劇場版
-    七大罪：天空的囚人](https://zh.wikipedia.org/wiki/七大罪_\(漫畫\) "wikilink")（後藤正浩）
+  - [未來的未來](../Page/未來的未來.md "wikilink")（西山茂）
+  - [劇場版 七大罪：天空的囚人](../Page/七大罪_\(漫畫\).md "wikilink")（後藤正浩）
   - [劇場版 悠悠哉哉少女日和 Vacation](../Page/悠悠哉哉少女日和.md "wikilink")（坪根健太郎）
 
 ### 網路動畫

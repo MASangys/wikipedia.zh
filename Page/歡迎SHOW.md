@@ -72,7 +72,7 @@
 <td><p>3</p></td>
 <td><p>5月20日<br />
 <small><em>(5月15日)</em></small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a><br />
+<td><p><a href="../Page/徐章煇.md" title="wikilink">徐章煇</a><br />
 <small>(退役韓國國家隊籃球員、現綜藝主持)</small><br />
 <a href="../Page/河錫辰.md" title="wikilink">河錫辰</a><br />
 <small>(演員)</small><br />
@@ -414,7 +414,7 @@ Zico</p></td>
 <td><p><strong>1+1特輯</strong><br />
 <a href="../Page/崔民秀.md" title="wikilink">崔民秀</a><br />
 <small>(演員)</small><br />
-<a href="https://zh.wikipedia.org/wiki/張度練" title="wikilink">張度練</a><br />
+<a href="../Page/張度練.md" title="wikilink">張度練</a><br />
 <small>(搞笑藝人、喜劇演員)</small><br />
 <br />
 <small>(歌手、畫家)</small><br />

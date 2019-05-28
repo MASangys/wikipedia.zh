@@ -5,9 +5,9 @@
 
 ### 播放節目
 
-  - [閃婚100天](https://zh.wikipedia.org/wiki/閃婚100天 "wikilink")
-  - [熱戀100天](https://zh.wikipedia.org/wiki/熱戀100天 "wikilink")
-  - [杜汶澤食住上](https://zh.wikipedia.org/wiki/杜汶澤食住上 "wikilink")
+  - [閃婚100天](../Page/閃婚100天.md "wikilink")
+  - [熱戀100天](../Page/熱戀100天.md "wikilink")
+  - [杜汶澤食住上](../Page/杜汶澤食住上.md "wikilink")
   - [飄](../Page/飄_\(紀錄片\).md "wikilink")
   - [食的秘密](../Page/食的秘密.md "wikilink")
   - 不一樣的香港
@@ -68,7 +68,7 @@
   - 子夜特區：深宵爭議‧性
   - 子夜特區：女人不設防
   - 子夜特區：一路向北
-  - [總有出頭天](https://zh.wikipedia.org/wiki/總有出頭天_\(香港電台電視劇\) "wikilink")
+  - [總有出頭天](../Page/總有出頭天_\(香港電台電視劇\).md "wikilink")
   - [怪談·13冤案](../Page/怪談_\(電視節目\).md "wikilink")
   - [太子妃升職記](../Page/太子妃升职记.md "wikilink")
 
@@ -87,7 +87,7 @@
   - [窃听风云III](../Page/窃听风云3.md "wikilink")
   - [每當變幻時](../Page/每當變幻時_\(電影\).md "wikilink")
   - [致我們終將逝去的青春](../Page/致我们终将逝去的青春_\(电影\).md "wikilink")
-  - [非常婚事](https://zh.wikipedia.org/wiki/非常婚事 "wikilink")
+  - [非常婚事](../Page/非常婚事.md "wikilink")
   - [冰裸殺](../Page/制服_\(电影\).md "wikilink")
   - [女神愛揀宅](../Page/愛情無全順.md "wikilink")
   - 城市遊戲
@@ -146,13 +146,13 @@
   - [東京攻略](../Page/东京攻略.md "wikilink")
   - [絕種鐵金剛](../Page/絕種鐵金剛.md "wikilink")
   - [摩登如來神掌](../Page/摩登如來神掌.md "wikilink")
-  - [性感都市](https://zh.wikipedia.org/wiki/性感都市 "wikilink")
+  - [性感都市](../Page/性感都市.md "wikilink")
   - [美人魚](https://zh.wikipedia.org/wiki/美人魚_\(2016年電影\) "wikilink")
   - [導火綫](https://zh.wikipedia.org/wiki/導火綫_\(電影\) "wikilink")
   - [雙子神偷](../Page/雙子神偷.md "wikilink")
   - [完美假妻168](../Page/完美假妻168.md "wikilink")
   - [龍門飛甲](https://zh.wikipedia.org/wiki/龍門飛甲_\(電影\) "wikilink")
-  - [跳出去](https://zh.wikipedia.org/wiki/跳出去 "wikilink")
+  - [跳出去](../Page/跳出去.md "wikilink")
   - [撕票風雲](../Page/撕票風雲.md "wikilink")
   - 狂舞派
   - [古惑仔3之隻手遮天](../Page/古惑仔3之隻手遮天.md "wikilink")

@@ -19,7 +19,7 @@ Windows發行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，但
 you know the
 way?）\[7\]。角色模組與模因概念分別來自YouTuber「Gregzilla」和瑞典知名實況主的實況，而句子的來源則是烏干達電影《》\[8\]。[Polygon的茱莉亞](../Page/Polygon.md "wikilink")·亞歷山大（Julia
 Alexander）形容該模因是「公然的[種族歧視](https://zh.wikipedia.org/wiki/種族歧視 "wikilink")」和「有問題的網路文化」\[9\]，《》的傑伊·哈德威（Jay
-Hathaway）則形容它是「種族主義的誇張模仿」\[10\]。迷因的主角，纳克鲁斯的3D模型創建者「Gregzilla」對此表示遺憾，並勸告玩家「不要用它來騷擾VRChat的用戶」\[11\]。作為回應，遊戲的開發者在[Medium上登載一封公開信](https://zh.wikipedia.org/wiki/Medium "wikilink")，指他們正開發新的系統，以讓社群有所節制，同時亦要求用戶使用內置的靜音功能\[12\]。
+Hathaway）則形容它是「種族主義的誇張模仿」\[10\]。迷因的主角，纳克鲁斯的3D模型創建者「Gregzilla」對此表示遺憾，並勸告玩家「不要用它來騷擾VRChat的用戶」\[11\]。作為回應，遊戲的開發者在[Medium上登載一封公開信](../Page/Medium.md "wikilink")，指他們正開發新的系統，以讓社群有所節制，同時亦要求用戶使用內置的靜音功能\[12\]。
 
 大多數非官方的角色都是從[MMD的模型轉換而來的](../Page/MikuMikuDance.md "wikilink")。這可能是因為如果在[Google搜尋](../Page/Google.md "wikilink")「vrchat
 custom

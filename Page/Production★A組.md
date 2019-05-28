@@ -2,7 +2,7 @@
 
 ## 概要
 
-2000年（平成12年）7月1日\[2\]，由[九Production的總經理須貝誓子另外獨立](https://zh.wikipedia.org/wiki/九Production "wikilink")，成立**楡ProductionA組**（<small></small>），2001年7月改為現在的公司名稱。2004年10月底，九Production解散後，其所屬聲優大多移籍至此。
+2000年（平成12年）7月1日\[2\]，由[九Production的總經理須貝誓子另外獨立](../Page/九Production.md "wikilink")，成立**楡ProductionA組**（<small></small>），2001年7月改為現在的公司名稱。2004年10月底，九Production解散後，其所屬聲優大多移籍至此。
 
 ## 所屬聲優
 
@@ -10,7 +10,7 @@
 
   - 一戶康太朗
 
-  - [河相智哉](https://zh.wikipedia.org/wiki/河相智哉 "wikilink")
+  - [河相智哉](../Page/河相智哉.md "wikilink")
 
   -
   -
@@ -85,7 +85,7 @@
 
   - [井上文彥](../Page/井上文彥.md "wikilink")（現所屬：remax）
 
-  - [大竹宏](https://zh.wikipedia.org/wiki/大竹宏 "wikilink")（現所屬：[81
+  - [大竹宏](../Page/大竹宏.md "wikilink")（現所屬：[81
     Produce](../Page/81_Produce.md "wikilink")）
 
   - （現所屬：）
@@ -168,8 +168,8 @@
 
   - （舊藝名：林沙世里）
 
-  - [麥穗杏菜](https://zh.wikipedia.org/wiki/麥穗杏菜 "wikilink")（現所屬：[Bell
-    Production](https://zh.wikipedia.org/wiki/Bell_Production "wikilink")）
+  - [麥穗杏菜](../Page/麥穗杏菜.md "wikilink")（現所屬：[Bell
+    Production](../Page/Bell_Production.md "wikilink")）
 
   - （現所屬：Pro-Fit）
 

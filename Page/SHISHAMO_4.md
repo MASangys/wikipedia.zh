@@ -5,8 +5,7 @@
 
 SHISHAMO在2016年12月11日举办的2016秋季巡回演唱会最后一场[东京](../Page/东京.md "wikilink")的演出中宣布了将要发行这张专辑的消息\[1\]。
 
-与上一张专辑《[SHISHAMO
-3](https://zh.wikipedia.org/wiki/SHISHAMO_3 "wikilink")》时隔近1年，新专辑《SHISHAMO
+与上一张专辑《[SHISHAMO 3](../Page/SHISHAMO_3.md "wikilink")》时隔近1年，新专辑《SHISHAMO
 4》共收录包括之前发行的单曲《[夏日恋人](https://zh.wikipedia.org/wiki/夏日恋人 "wikilink")》、NTT
 docomo广告歌《明天也》、[松本人志主演TOWNWORK广告歌](../Page/松本人志.md "wikilink")《像魔法一样》、为NHK“大家的歌”节目所写的《音乐室是秘密基地》等在内的11首歌曲。专辑封面由摄影师[川岛小鸟拍摄](../Page/川島小鳥.md "wikilink")\[2\]。
 

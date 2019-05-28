@@ -1,6 +1,6 @@
 是[日本動畫公司](../Page/日本.md "wikilink")[白組與](../Page/白組.md "wikilink")[EMT
 Squared共同製作的](../Page/EMT_Squared.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，2017年10月至12月在[TOKYO
-MX](../Page/東京都會電視台.md "wikilink")、[AbemaTV及](https://zh.wikipedia.org/wiki/AbemaTV "wikilink")[BS富士首播](../Page/BS富士.md "wikilink")。動畫的原作是2015年5月起於[Crunchyroll連載的插圖小說](../Page/Crunchyroll.md "wikilink")"PARK
+MX](../Page/東京都會電視台.md "wikilink")、[AbemaTV及](../Page/AbemaTV.md "wikilink")[BS富士首播](../Page/BS富士.md "wikilink")。動畫的原作是2015年5月起於[Crunchyroll連載的插圖小說](../Page/Crunchyroll.md "wikilink")"PARK
 Harajuku: Crisis
 Team！"\[1\]\[2\]\[3\]，該小說是Crunchyroll和位於[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[原宿的零售商店PARK](../Page/原宿.md "wikilink")\[4\]共同推出的企劃。
 
@@ -270,7 +270,7 @@ STUDIO MASSKET</p></td>
 
 日本國內／播放電視台、日期、時間\[18\]
 
-網路電視則是由日本[AbemaTV](https://zh.wikipedia.org/wiki/AbemaTV "wikilink")、[Crunchyroll](../Page/Crunchyroll.md "wikilink")；台灣[巴哈姆特動畫瘋](../Page/巴哈姆特電玩資訊站.md "wikilink")；中國[bilibili於日本時間](https://zh.wikipedia.org/wiki/bilibili "wikilink")2017年10月4日至12月20日每週三晚間20時起在全世界同時配信\[20\]。
+網路電視則是由日本[AbemaTV](../Page/AbemaTV.md "wikilink")、[Crunchyroll](../Page/Crunchyroll.md "wikilink")；台灣[巴哈姆特動畫瘋](../Page/巴哈姆特電玩資訊站.md "wikilink")；中國[bilibili於日本時間](https://zh.wikipedia.org/wiki/bilibili "wikilink")2017年10月4日至12月20日每週三晚間20時起在全世界同時配信\[20\]。
 
 ### 藍光\&DVD
 

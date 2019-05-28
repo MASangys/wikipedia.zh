@@ -75,7 +75,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/中国" title="wikilink">中国</a><a href="../Page/湖南卫视.md" title="wikilink">湖南卫视</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/奔跑吧" title="wikilink">奔跑吧2018 - 嘉年华</a></p></td>
+<td><p><a href="../Page/奔跑吧.md" title="wikilink">奔跑吧2018 - 嘉年华</a></p></td>
 <td><p>2018年7月6日</p></td>
 <td><p>晚上19:45</p></td>
 <td><p>现场直播</p></td>

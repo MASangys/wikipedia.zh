@@ -3,7 +3,7 @@ YEARS**》是[韓國的男子樂隊](https://zh.wikipedia.org/wiki/韓國 "wikil
 
 ## 背景
 
-2017年4月，有媒體報導FTIsland將會在6月發表出道十周年紀念專輯，其時[FNC娛樂則表示一切尚未落實](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")\[2\]；到5月22日，官方宣布他們的十周年紀念專輯定於其出道日——6月7日發行\[3\]。
+2017年4月，有媒體報導FTIsland將會在6月發表出道十周年紀念專輯，其時[FNC娛樂則表示一切尚未落實](../Page/FNC娛樂.md "wikilink")\[2\]；到5月22日，官方宣布他們的十周年紀念專輯定於其出道日——6月7日發行\[3\]。
 
 5月23日，FTIsland在其官方Facebook專頁發佈動態海報，公告新專輯會以翻唱出道作《愛情病》（）為先行曲，並邀得《》參賽者[金娜英合唱](https://zh.wikipedia.org/wiki/金娜英 "wikilink")\[4\]；而主打曲目《Wind》之宣傳海報亦於5月30日公開\[5\]。
 

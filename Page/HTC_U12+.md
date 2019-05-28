@@ -6,7 +6,7 @@ S9/S9+](../Page/三星Galaxy_S9.md "wikilink")、[Sony Xperia
 XZ2](../Page/Sony_Xperia_XZ2.md "wikilink")/[XZ2
 Premium](../Page/Sony_Xperia_XZ2_Premium.md "wikilink")、[Asus ZenFone
 5Z](../Page/華碩ZenFone_5_\(2018年\).md "wikilink")、[LG G7
-ThinQ](https://zh.wikipedia.org/wiki/LG_G7_ThinQ "wikilink")、[LG V35
+ThinQ](../Page/LG_G7_ThinQ.md "wikilink")、[LG V35
 ThinQ](https://zh.wikipedia.org/wiki/LG_V35_ThinQ "wikilink")。\[1\]\[2\]
 
 ## 詳細規格

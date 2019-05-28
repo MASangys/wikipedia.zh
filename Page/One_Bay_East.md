@@ -1,7 +1,7 @@
 [One_Bay_East_201606.jpg](https://zh.wikipedia.org/wiki/File:One_Bay_East_201606.jpg "fig:One_Bay_East_201606.jpg")
 [One_Bay_East_Manulife_Tower_Lobby_2016.jpg](https://zh.wikipedia.org/wiki/File:One_Bay_East_Manulife_Tower_Lobby_2016.jpg "fig:One_Bay_East_Manulife_Tower_Lobby_2016.jpg")
 **One Bay
-East**是位於[香港](../Page/香港.md "wikilink")[牛頭角](../Page/牛頭角.md "wikilink")[海濱道](https://zh.wikipedia.org/wiki/海濱道 "wikilink")83號的[寫字樓項目](https://zh.wikipedia.org/wiki/寫字樓 "wikilink")，毗鄰[海濱匯](https://zh.wikipedia.org/wiki/海濱匯 "wikilink")，分為東座（花旗大樓）及西座（宏利大樓）兩座，樓高21層，由[會德豐地產發展](../Page/會德豐地產.md "wikilink")、設計、[協興建築承建的商廈](../Page/協興建築.md "wikilink")，於2015年10月落成啟用。二樓設有面積逾10,000平方呎的綠化平台花園，為商廈租戶提供休憩空間。
+East**是位於[香港](../Page/香港.md "wikilink")[牛頭角](../Page/牛頭角.md "wikilink")[海濱道](https://zh.wikipedia.org/wiki/海濱道 "wikilink")83號的[寫字樓項目](https://zh.wikipedia.org/wiki/寫字樓 "wikilink")，毗鄰[海濱匯](../Page/海濱匯.md "wikilink")，分為東座（花旗大樓）及西座（宏利大樓）兩座，樓高21層，由[會德豐地產發展](../Page/會德豐地產.md "wikilink")、設計、[協興建築承建的商廈](../Page/協興建築.md "wikilink")，於2015年10月落成啟用。二樓設有面積逾10,000平方呎的綠化平台花園，為商廈租戶提供休憩空間。
 
 2011年，會德豐以約35.28億港元投得位於海濱道的商業用地。
 

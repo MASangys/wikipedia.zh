@@ -205,7 +205,7 @@ ISBN 978-4-575-84988-2（附DVD限定版）[12]</p></td>
 
 ## 電影
 
-2015年12月12日於日本上映，[東寶電影公司出品](../Page/東寶.md "wikilink")。7月20日公佈演員人選，歷經3個半月的拍攝之後火速上映\[18\]。全片在[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[松本市拍攝](../Page/松本市.md "wikilink")（部分場景在[鹽尻市](../Page/鹽尻市.md "wikilink")、[飯田市拍攝](../Page/飯田市.md "wikilink")）。9月1日電影拍攝完成，同年10月11日正式殺青。本片為導演橋本光二郎首部長篇電影執導作品\[19\]。由NHK晨間劇《[小希](https://zh.wikipedia.org/wiki/小希 "wikilink")》女主角[土屋太鳳主演](../Page/土屋太鳳.md "wikilink")。同劇中飾演男主角暨丈夫的[山崎賢人亦參與本片的演出](../Page/山崎賢人.md "wikilink")，這是兩人繼晨間劇《[小希](https://zh.wikipedia.org/wiki/小希 "wikilink")》之後的二度合作之影視作品\[20\]\[21\]。
+2015年12月12日於日本上映，[東寶電影公司出品](../Page/東寶.md "wikilink")。7月20日公佈演員人選，歷經3個半月的拍攝之後火速上映\[18\]。全片在[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[松本市拍攝](../Page/松本市.md "wikilink")（部分場景在[鹽尻市](../Page/鹽尻市.md "wikilink")、[飯田市拍攝](../Page/飯田市.md "wikilink")）。9月1日電影拍攝完成，同年10月11日正式殺青。本片為導演橋本光二郎首部長篇電影執導作品\[19\]。由NHK晨間劇《[小希](../Page/小希.md "wikilink")》女主角[土屋太鳳主演](../Page/土屋太鳳.md "wikilink")。同劇中飾演男主角暨丈夫的[山崎賢人亦參與本片的演出](../Page/山崎賢人.md "wikilink")，這是兩人繼晨間劇《[小希](../Page/小希.md "wikilink")》之後的二度合作之影視作品\[20\]\[21\]。
 
 ### 登場人物與演員
 
@@ -274,18 +274,18 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[AT-X等多家電視台
   - 翔的祖母：[高島雅羅](../Page/高島雅羅.md "wikilink")
   - 須和的母親：[淺野真澄](https://zh.wikipedia.org/wiki/淺野真澄 "wikilink")
   - 須和的父親：[廣田實](https://zh.wikipedia.org/wiki/廣田實 "wikilink")
-  - 梓的母親：[山口享佑子](https://zh.wikipedia.org/wiki/山口享佑子 "wikilink")
+  - 梓的母親：[山口享佑子](../Page/山口享佑子.md "wikilink")
   - 梓的父親：[江川央生](../Page/江川央生.md "wikilink")
-  - 長坂：[寺島惇太](https://zh.wikipedia.org/wiki/寺島惇太 "wikilink")
+  - 長坂：[寺島惇太](../Page/寺島惇太.md "wikilink")
   - 穗高：[本橋大輔](https://zh.wikipedia.org/wiki/本橋大輔 "wikilink")
-  - 青木：[石毛翔彌](https://zh.wikipedia.org/wiki/石毛翔彌 "wikilink")
+  - 青木：[石毛翔彌](../Page/石毛翔彌.md "wikilink")
   - 大谷：後藤沙織
   - 鹽尻：[秋奈](https://zh.wikipedia.org/wiki/秋奈 "wikilink")
   - 岡谷：秋月炯
   - 伊那：櫻庭有紗
   - 波田：[結城飛鳥](https://zh.wikipedia.org/wiki/結城飛鳥 "wikilink")
   - 原：小嶋紗里
-  - 長野：[黑木穗乃香](https://zh.wikipedia.org/wiki/黑木穗乃香 "wikilink")
+  - 長野：[黑木穗乃香](../Page/黑木穗乃香.md "wikilink")
   - 大月：吉森未沙希
   - 朝日：[内田愛美](https://zh.wikipedia.org/wiki/内田愛美 "wikilink")
   - 中山：峯田大夢
@@ -298,7 +298,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[AT-X等多家電視台
   - 保健室老師：加藤裕梨
   - 校長：[佐佐健太](https://zh.wikipedia.org/wiki/佐佐健太 "wikilink")
   - 圭惠（タマエ）：[大空直美](../Page/大空直美.md "wikilink")
-  - 真理惠（マリエ）：[北川里奈](https://zh.wikipedia.org/wiki/北川里奈 "wikilink")
+  - 真理惠（マリエ）：[北川里奈](../Page/北川里奈.md "wikilink")
   - 美鈴：[長繩麻理亞](../Page/長繩麻理亞.md "wikilink")
 
 ### 製作團隊
@@ -307,7 +307,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[AT-X等多家電視台
   - 導演：[濱崎博嗣](../Page/濱崎博嗣.md "wikilink")
   - 系列導演：中山奈緒美
   - 助理導演：山田卓（第2－13話）
-  - 劇本：[柿原優子](https://zh.wikipedia.org/wiki/柿原優子 "wikilink")
+  - 劇本：[柿原優子](../Page/柿原優子.md "wikilink")
   - 人物設定、總作畫監督：[結城信輝](../Page/結城信輝.md "wikilink")
   - 道具設定：鈴木政彦、
   - 美術設定：藤瀬智康

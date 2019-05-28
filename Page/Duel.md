@@ -1,4 +1,4 @@
-《**Duel**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN電視台自](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年6月3日起播出的[經典系列電視劇](https://zh.wikipedia.org/wiki/OCN_Original_Series "wikilink")（Original
+《**Duel**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN電視台自](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年6月3日起播出的[經典系列電視劇](../Page/OCN_Original_Series.md "wikilink")（Original
 Series）。本劇由《[Nine：九回時間旅行](../Page/Nine：九回時間旅行.md "wikilink")》金允珠編劇和《[又，吳海英](../Page/又，吳海英.md "wikilink")》李鍾在導演合作，講述的是與複製人相遇後被捲入驚人事件中的刑警張得天（[鄭在詠](../Page/鄭在詠.md "wikilink")
 飾）、對張得天與複製人之間的關係產生疑問並開始追踪真相的崔朝惠（[金諪恩](https://zh.wikipedia.org/wiki/金諪恩 "wikilink")
 飾），與為了生存下去不得不對決，分為善惡兩方的複製人（[梁世宗](../Page/梁世宗_\(韓國\).md "wikilink")
@@ -14,11 +14,11 @@ Asia於播出後24小時之內(6月4日)播出，Viu新加坡版隨即上架。
 | --------------------------------------------------- | -------------------------------------------------------- | --------------------------------------------------- | -------------------------------------------------- |
 | **演員**                                              | **角色**                                                   | **粵語配音員**                                           | **介紹**                                             |
 | [鄭在詠](../Page/鄭在詠.md "wikilink")                    | 張得天                                                      | [袁德基](../Page/袁德基.md "wikilink")                    | 45歲，行事粗糙的重案組隊長，在家卻是一名女兒傻瓜，是一位為了守護珍貴事物而做出錯誤選擇的老練刑警。 |
-| [金諪恩](https://zh.wikipedia.org/wiki/金諪恩 "wikilink") | 崔朝惠                                                      | [馮詠恩](https://zh.wikipedia.org/wiki/馮詠恩 "wikilink") | 38歲，首爾地方檢察廳重案部檢察官，自信能幹、毫不隱藏對成功的野心，渴望成為下一任部長檢察官。    |
+| [金諪恩](https://zh.wikipedia.org/wiki/金諪恩 "wikilink") | 崔朝惠                                                      | [馮詠恩](../Page/馮詠恩.md "wikilink")                    | 38歲，首爾地方檢察廳重案部檢察官，自信能幹、毫不隱藏對成功的野心，渴望成為下一任部長檢察官。    |
 | [梁世宗](../Page/梁世宗_\(韓國\).md "wikilink")             | 李成俊                                                      | [張振熙](../Page/張振熙.md "wikilink")                    | 24歲，失去記憶的嫌疑人，為了找回遺失的記憶而不停追尋著與自己擁有相同面貌的複製人李成勳。      |
 | 李成勳                                                 | 24歲，陷害李成俊使其蒙受冤獄的複製人，雖然和成俊長的一模一樣，卻與成俊有著明確的善惡對比，是一位神秘的殺人魔。 |                                                     |                                                    |
 | 李容碩                                                 | 歲數不明，和成俊和成勳長的一模一樣。1993年為某醫院醫生，因特別事故死亡並遭到冷凍。              |                                                     |                                                    |
-| [徐恩秀](https://zh.wikipedia.org/wiki/徐恩秀 "wikilink") | 柳美萊                                                      | [何凱怡](https://zh.wikipedia.org/wiki/何凱怡 "wikilink") | 27歲，星州日報醫學部二年資歷記者。                                 |
+| [徐恩秀](../Page/徐恩秀.md "wikilink")                    | 柳美萊                                                      | [何凱怡](https://zh.wikipedia.org/wiki/何凱怡 "wikilink") | 27歲，星州日報醫學部二年資歷記者。                                 |
 
 ### 張得天周邊人物
 
@@ -55,7 +55,7 @@ Asia於播出後24小時之內(6月4日)播出，Viu新加坡版隨即上架。
 <td><p>30歲，城北警察局重案組刑警，張得天的搭檔，尊敬張得天的同僚後輩。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李哲民_(演員)" title="wikilink">李哲民</a></p></td>
+<td><p><a href="../Page/李哲民_(演員).md" title="wikilink">李哲民</a></p></td>
 <td><p>朴柳植</p></td>
 <td><p><a href="../Page/黃啟明.md" title="wikilink">黃啟明</a></p></td>
 <td><p>張得天的同期同事，曾提供內幕消息予楊萬春，助其賭檔逃過警察追查。此事雖被張得天識破，但張得天並無向警局報告，因而對張得天心生感激。</p></td>
@@ -184,7 +184,7 @@ Asia於播出後24小時之內(6月4日)播出，Viu新加坡版隨即上架。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/周錫泰" title="wikilink">周錫泰</a></p></td>
+<td><p><a href="../Page/周錫泰.md" title="wikilink">周錫泰</a></p></td>
 <td><p>安廷東</p></td>
 <td></td>
 <td><p>第1集被綁票小孩慧珠的爸爸</p></td>

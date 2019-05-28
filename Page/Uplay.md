@@ -1,10 +1,10 @@
 **Uplay**是由[育碧研发的一款集](../Page/育碧.md "wikilink")[数字发行](https://zh.wikipedia.org/wiki/数字发行 "wikilink")、[数字版权管理](../Page/数字版权管理.md "wikilink")、[多人电子游戏和通信服务的](https://zh.wikipedia.org/wiki/多人电子游戏 "wikilink")[客户端](https://zh.wikipedia.org/wiki/客户端 "wikilink")。同时，Uplay向玩家提供了诸多游戏公司所采用的[成就收集系统](https://zh.wikipedia.org/wiki/成就_\(电子游戏\) "wikilink")。该系统也是跨平台制的（[PC](../Page/个人电脑.md "wikilink")、[PlayStation
-4](../Page/PlayStation_4.md "wikilink")、[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[Wii
+4](../Page/PlayStation_4.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[Wii
 U](../Page/Wii_U.md "wikilink")、[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[Xbox
 360](../Page/Xbox_360.md "wikilink")、[Facebook](../Page/Facebook.md "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android](../Page/Android.md "wikilink")、[Windows
 Phone](../Page/Windows_Phone.md "wikilink")）。[Wii
-U平台的Uplay程序于](../Page/Wii_U.md "wikilink")2012年12月1日在[任天堂eShop上发行](https://zh.wikipedia.org/wiki/任天堂eShop "wikilink")。\[1\]Uplay往往只支持育碧公司自主开发的游戏，尽管有些第三方开发商的游戏仍在育碧商城中贩卖，但Uplay并不支持这些游戏。\[2\]
+U平台的Uplay程序于](../Page/Wii_U.md "wikilink")2012年12月1日在[任天堂eShop上发行](../Page/任天堂eShop.md "wikilink")。\[1\]Uplay往往只支持育碧公司自主开发的游戏，尽管有些第三方开发商的游戏仍在育碧商城中贩卖，但Uplay并不支持这些游戏。\[2\]
 
 ## 特性
 
@@ -42,7 +42,7 @@ Uplay获得的评价大部分是负面的。[Rock, Paper,
 Shotgun的编辑约翰](../Page/Rock,_Paper,_Shotgun.md "wikilink")·沃克称之为“技术上的灾难”，并指出随着《[孤岛惊魂3](../Page/孤岛惊魂3.md "wikilink")》发售时出现的一系列问题导致游戏不能流畅运行，它必须离开市场。\[17\]Ars
 Technica的职员Kyle
 Orland评价UPlay出现的技术漏洞和数字版权管理相关问题时认为其根本没有去尊重PC游戏社区。\[18\]杰弗里·蒂姆，一位lazygamer.net网站的编辑，将支持UPlay的游戏称为其他方面都很优秀唯独此项“最差劲”的产品，尤其批评了它与Steam平台再购买后的运行问题。\[19\][Giant
-Bomb的编辑Patrick](https://zh.wikipedia.org/wiki/Giant_Bomb "wikilink")
+Bomb的编辑Patrick](../Page/Giant_Bomb.md "wikilink")
 Klepek给出了相同方向的批评，说育碧期望能运行一个自主销售平台，然而这个平台技术上没有给消费者提供便利，平台的运营策略也使玩家恼火，毫无吸引力。\[20\]在GadgetReview上肖恩·桑德斯发布了一篇比较三大销售平台的文章，认为和Steam、Origin相比，UPlay占用了过多内存却提供了更少的特性。\[21\]总结大众对其的评价，VG247的Brenna
 Hillier说,“Uplay是最不受欢迎的PC DRM系统其中的一个。你热切希望它死掉，从没成功过。”\[22\]
 

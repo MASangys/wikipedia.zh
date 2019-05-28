@@ -1,5 +1,5 @@
-[第24回](https://zh.wikipedia.org/wiki/第24回TV_LIFE年度日劇大賞 "wikilink") ←
-**第25回** → [第26回](../Page/第26回TV_LIFE年度日劇大賞.md "wikilink")
+[第24回](../Page/第24回TV_LIFE年度日劇大賞.md "wikilink") ← **第25回** →
+[第26回](../Page/第26回TV_LIFE年度日劇大賞.md "wikilink")
 
 **第25回[TV
 LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2015年播出的連續劇做出的觀眾投票。
@@ -205,7 +205,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>　<a href="https://zh.wikipedia.org/wiki/黑木華" title="wikilink">黑木華</a></p></td>
+<td><p>　<a href="../Page/黑木華.md" title="wikilink">黑木華</a></p></td>
 <td><p>　《<a href="https://zh.wikipedia.org/wiki/天皇的御廚#連續劇（2015年版）" title="wikilink">天皇的御廚</a>》</p></td>
 <td></td>
 </tr>
@@ -246,7 +246,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </tr>
 <tr class="odd">
 <td><p>　<a href="../Page/土屋太鳳.md" title="wikilink">土屋太鳳</a></p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/小希" title="wikilink">小希</a>》</p></td>
+<td><p>　《<a href="../Page/小希.md" title="wikilink">小希</a>》</p></td>
 <td></td>
 </tr>
 </tbody>

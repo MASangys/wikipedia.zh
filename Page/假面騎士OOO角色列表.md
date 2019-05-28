@@ -26,11 +26,11 @@
     Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wikilink")\>中因Ankh的幫助而取回所有（除恐龍系硬幣以外，因在48話擊敗真木後，恐龍系硬幣吸進黑洞全被破壞）變身使用的硬幣，可以再次變身成**假面騎士OOO**。得以對抗來自40年後的**假面騎士波賽頓**，並救出湊海遙。事件過後，從海遙手上得到未來的Taka，Tora，Batta硬幣，變成Super
     TATOBA COMBA，與幪面超人Fourze擊敗超銀河王。
     [假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")
+    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")
     [假面騎士ZI-O中再次登場](https://zh.wikipedia.org/wiki/假面騎士ZI-O "wikilink")
 
 **伊達明（だて
-あきら）**（30）（[岩永洋昭飾](../Page/岩永洋昭.md "wikilink")/香港配音：[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")、[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")（代配））
+あきら）**（30）（[岩永洋昭飾](../Page/岩永洋昭.md "wikilink")/香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")、[張裕東](https://zh.wikipedia.org/wiki/張裕東 "wikilink")（代配））
 
   -
     **假面騎士Birth** 的第一任變身者，亦是本作中第二位騎士。

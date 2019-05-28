@@ -42,7 +42,7 @@ SILK（配以[CELT](https://zh.wikipedia.org/wiki/CELT "wikilink")）是混合�
 
 ## 参见
 
-  - [Skype協定](https://zh.wikipedia.org/wiki/Skype協定 "wikilink")
+  - [Skype協定](../Page/Skype協定.md "wikilink")
   - [音频编码格式的比较](https://zh.wikipedia.org/wiki/音频编码格式的比较 "wikilink")
   - [前向錯誤更正](../Page/前向錯誤更正.md "wikilink")
 

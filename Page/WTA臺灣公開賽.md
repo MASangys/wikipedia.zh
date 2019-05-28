@@ -67,7 +67,7 @@ International）等級，冠軍積分280分，首屆總獎金50萬美元（包�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2016年WTA臺灣公開賽" title="wikilink">2016年</a></p></td>
+<td><p><a href="../Page/2016年WTA臺灣公開賽.md" title="wikilink">2016年</a></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/維納斯·威廉姆斯" title="wikilink">維納斯·威廉姆斯</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/土居美咲" title="wikilink">土居美咲</a></p></td>
 <td><p>6-4、6-2</p></td>
@@ -80,7 +80,7 @@ International）等級，冠軍積分280分，首屆總獎金50萬美元（包�
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/蒂美阿·巴包斯" title="wikilink">蒂美阿·巴包斯</a></strong></p></td>
+<td><p><strong><a href="../Page/蒂美阿·巴包斯.md" title="wikilink">蒂美阿·巴包斯</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/卡捷琳娜·科斯洛娃" title="wikilink">卡捷琳娜·科斯洛娃</a></p></td>
 <td><p>7-5、6-1</p></td>
 </tr>
@@ -118,7 +118,7 @@ International）等級，冠軍積分280分，首屆總獎金50萬美元（包�
 <td><p><strong>詹皓晴</strong><br />
  <strong>詹詠然</strong></p></td>
 <td><p><a href="../Page/露絲·哈迪卡.md" title="wikilink">露絲·哈迪卡</a><br />
- <a href="https://zh.wikipedia.org/wiki/凱特琳娜·絲妮柯娃" title="wikilink">凱特琳娜·絲妮柯娃</a></p></td>
+ <a href="../Page/凱特琳娜·絲妮柯娃.md" title="wikilink">凱特琳娜·絲妮柯娃</a></p></td>
 <td><p>6-4、6-2</p></td>
 </tr>
 <tr class="odd">

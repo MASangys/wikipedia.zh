@@ -240,7 +240,7 @@
 <tr class="odd">
 <td><p>2月5日</p></td>
 <td><p>IDOL POWER RAINBOW</p></td>
-<td><p>天海春香（<a href="../Page/中村繪里子.md" title="wikilink">中村繪里子</a>）、如月千早（<a href="../Page/今井麻美.md" title="wikilink">今井麻美</a>）、星井美希（長谷川明子）、島村卯月（<a href="../Page/大橋彩香.md" title="wikilink">大橋彩香</a>）、澀谷凜（<a href="../Page/福原綾香.md" title="wikilink">福原綾香</a>）、本田未央（<a href="../Page/原紗友里.md" title="wikilink">原紗友里</a>）、春日未來（<a href="https://zh.wikipedia.org/wiki/山崎遙" title="wikilink">山崎遙</a>）、最上靜香（<a href="../Page/田所梓.md" title="wikilink">田所梓</a>）、伊吹翼（Machico）</p></td>
+<td><p>天海春香（<a href="../Page/中村繪里子.md" title="wikilink">中村繪里子</a>）、如月千早（<a href="../Page/今井麻美.md" title="wikilink">今井麻美</a>）、星井美希（長谷川明子）、島村卯月（<a href="../Page/大橋彩香.md" title="wikilink">大橋彩香</a>）、澀谷凜（<a href="../Page/福原綾香.md" title="wikilink">福原綾香</a>）、本田未央（<a href="../Page/原紗友里.md" title="wikilink">原紗友里</a>）、春日未來（<a href="../Page/山崎遙.md" title="wikilink">山崎遙</a>）、最上靜香（<a href="../Page/田所梓.md" title="wikilink">田所梓</a>）、伊吹翼（Machico）</p></td>
 <td><p>「IDOL POWER RAINBOW」</p></td>
 <td><p>現場活動「THE IDOLM@STER M@STERS OF IDOL WORLD</p></td>
 </tr>
@@ -344,7 +344,7 @@
 <td><p>漫畫「偶像大師 百萬人演唱會！」關連曲</p></td>
 </tr>
 <tr class="even">
-<td><p>伊吹翼（Machico）、茱莉亞（<a href="../Page/愛美.md" title="wikilink">愛美</a>）、真壁瑞希（<a href="https://zh.wikipedia.org/wiki/阿部里果" title="wikilink">阿部里果</a>）</p></td>
+<td><p>伊吹翼（Machico）、茱莉亞（<a href="../Page/愛美.md" title="wikilink">愛美</a>）、真壁瑞希（<a href="../Page/阿部里果.md" title="wikilink">阿部里果</a>）</p></td>
 <td><p>「my song」</p></td>
 <td></td>
 <td></td>

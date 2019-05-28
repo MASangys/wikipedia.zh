@@ -1,14 +1,14 @@
 **TensorFlow**是一个[开源](../Page/开放源代码.md "wikilink")[软件库](https://zh.wikipedia.org/wiki/库_\(计算机\) "wikilink")，用于各种感知和语言理解任务的[机器学习](../Page/机器学习.md "wikilink")。\[1\]目前被50个团队\[2\]用于研究和生产许多[Google商业产品](../Page/Google产品列表.md "wikilink")\[3\]，如[语音辨識](https://zh.wikipedia.org/wiki/语音辨識 "wikilink")、[Gmail](../Page/Gmail.md "wikilink")、[Google
 相册和搜索](https://zh.wikipedia.org/wiki/Google_相册 "wikilink")\[4\]，其中许多产品曾使用过其前任软件DistBelief。
 
-TensorFlow最初由[谷歌大脑团队开发](https://zh.wikipedia.org/wiki/谷歌大脑 "wikilink")，用于[Google的研究和生产](../Page/Google.md "wikilink")，于2015年11月9日在[Apache
+TensorFlow最初由[谷歌大脑团队开发](../Page/谷歌大脑.md "wikilink")，用于[Google的研究和生产](../Page/Google.md "wikilink")，于2015年11月9日在[Apache
 2.0开源许可证下发布](https://zh.wikipedia.org/wiki/Apache_2.0 "wikilink")。\[5\]\[6\]
 
 ## 历史
 
 ### DistBelief
 
-从2010年开始，谷歌大脑建立DistBelief作为他们的第一代[专有的](https://zh.wikipedia.org/wiki/专有 "wikilink")[机器学习系统](../Page/机器学习.md "wikilink")。50多个团队在Google和其他[Alphabet公司在商业产品部署了DistBelief的](../Page/Alphabet.md "wikilink")[深度学习](https://zh.wikipedia.org/wiki/深度学习 "wikilink")[神经网络](../Page/人工神经网络.md "wikilink")，包括[Google搜索](../Page/Google搜索.md "wikilink")、[Google语音搜索](../Page/Google语音搜索.md "wikilink")、广告、[Google
+从2010年开始，谷歌大脑建立DistBelief作为他们的第一代[专有的](https://zh.wikipedia.org/wiki/专有 "wikilink")[机器学习系统](../Page/机器学习.md "wikilink")。50多个团队在Google和其他[Alphabet公司在商业产品部署了DistBelief的](../Page/Alphabet.md "wikilink")[深度学习](../Page/深度学习.md "wikilink")[神经网络](../Page/人工神经网络.md "wikilink")，包括[Google搜索](../Page/Google搜索.md "wikilink")、[Google语音搜索](../Page/Google语音搜索.md "wikilink")、广告、[Google
 相册](https://zh.wikipedia.org/wiki/Google_相册 "wikilink")、[Google地图](../Page/Google地图.md "wikilink")、[Google街景](https://zh.wikipedia.org/wiki/Google街景 "wikilink")、[Google翻译和](../Page/Google翻译.md "wikilink")[YouTube](../Page/YouTube.md "wikilink")。\[7\]\[8\]Google指派计算机科学家，如Geoffrey
 Hinton和Jeff
 Dean，简化和[重构DistBelief的代码库](../Page/代码重构.md "wikilink")，使其变成一个更快、更健壮的应用级别代码库，形成了TensorFlow。\[9\]2009年，Hinton领导的研究小组大大减少使用DistBelief的神经网络的错误数量，通过Hinton在广义反向传播的科学突破。最值得注意的是，Hinton的突破直接使Google语音识别软件中的错误减少至少25%。\[10\]
@@ -23,7 +23,7 @@ TensorFlow是谷歌大脑的第二代[机器学习系统](../Page/机器学习.m
 
 从0.12.0版本（发布于2016年12月）开始支持Windows系统。该移植代码主要由微软贡献。
 
-1.0.0版本发布于2017年2月11日。虽然参考实现运行在单台设备，TensorFlow可以运行在多个[CPU和](https://zh.wikipedia.org/wiki/CPU "wikilink")[GPU](../Page/圖形處理器.md "wikilink")（和可选的[CUDA扩展和](../Page/CUDA.md "wikilink")[图形处理器通用计算的](../Page/图形处理器通用计算.md "wikilink")[SYCL扩展](https://zh.wikipedia.org/wiki/SYCL "wikilink")）。\[11\]TensorFlow可用于64位[Linux](../Page/Linux.md "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，以及移动计算平台，包括[Android和](../Page/Android.md "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")。
+1.0.0版本发布于2017年2月11日。虽然参考实现运行在单台设备，TensorFlow可以运行在多个[CPU和](https://zh.wikipedia.org/wiki/CPU "wikilink")[GPU](../Page/圖形處理器.md "wikilink")（和可选的[CUDA扩展和](../Page/CUDA.md "wikilink")[图形处理器通用计算的](../Page/图形处理器通用计算.md "wikilink")[SYCL扩展](../Page/SYCL.md "wikilink")）。\[11\]TensorFlow可用于64位[Linux](../Page/Linux.md "wikilink")、[macOS和](https://zh.wikipedia.org/wiki/macOS "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，以及移动计算平台，包括[Android和](../Page/Android.md "wikilink")[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")。
 
 TensorFlow的计算使用有状态的数据流图表示。TensorFlow的名字来源于这类神经网络对多维数组执行的操作。这些多维数组被称为[张量](https://zh.wikipedia.org/wiki/张量 "wikilink")。2016年6月，Jeff
 Dean称在[GitHub有](../Page/GitHub.md "wikilink")1500个库提到了TensorFlow，其中只有5个来自Google。\[12\]
@@ -37,8 +37,8 @@ teraflops性能，组装成64个TPU的集群时提供最高11.5 petaflops性能�
 
 ### TensorFlow Lite
 
-[2017年5月Google宣布从](https://zh.wikipedia.org/wiki/2017年5月 "wikilink")[Android
-Oreo开始](https://zh.wikipedia.org/wiki/Android_Oreo "wikilink")，提供一个专用于Android开发的软件栈TensorFlow
+[2017年5月Google宣布从](../Page/2017年5月.md "wikilink")[Android
+Oreo开始](../Page/Android_Oreo.md "wikilink")，提供一个专用于Android开发的软件栈TensorFlow
 Lite\[15\]。
 
 ### 应用
@@ -182,7 +182,7 @@ step 4: grad = 8
   -
   - [卷积神经网络](../Page/卷积神经网络.md "wikilink")
 
-  - [深度学习](https://zh.wikipedia.org/wiki/深度学习 "wikilink")
+  - [深度学习](../Page/深度学习.md "wikilink")
 
   - [机器学习](../Page/机器学习.md "wikilink")
 

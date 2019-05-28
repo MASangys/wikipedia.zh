@@ -1,4 +1,4 @@
-《**Puck！**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2016年1月1日播出的[特輯電視劇](https://zh.wikipedia.org/wiki/SBS特輯電視劇 "wikilink")，由[李光洙](../Page/李光洙_\(演員\).md "wikilink")、[孫秀賢及](../Page/孫秀賢.md "wikilink")[郭東延主演](../Page/郭東延.md "wikilink")，[李光英導演執導](https://zh.wikipedia.org/wiki/李光英 "wikilink")，[尹賢浩編劇執筆](https://zh.wikipedia.org/wiki/尹賢浩 "wikilink")。\[1\]。此劇是[李光洙時隔兩年回歸小螢幕](../Page/李光洙_\(演員\).md "wikilink")\[2\]
+《**Puck！**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2016年1月1日播出的[特輯電視劇](../Page/SBS特輯電視劇.md "wikilink")，由[李光洙](../Page/李光洙_\(演員\).md "wikilink")、[孫秀賢及](../Page/孫秀賢.md "wikilink")[郭東延主演](../Page/郭東延.md "wikilink")，[李光英導演執導](https://zh.wikipedia.org/wiki/李光英 "wikilink")，[尹賢浩編劇執筆](https://zh.wikipedia.org/wiki/尹賢浩 "wikilink")。\[1\]。此劇是[李光洙時隔兩年回歸小螢幕](../Page/李光洙_\(演員\).md "wikilink")\[2\]
 
 ## 劇情
 
@@ -53,7 +53,7 @@
 <td><p>丈夫欠高利貸，被丈夫家暴</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭海均" title="wikilink">鄭海均</a></p></td>
+<td><p><a href="../Page/鄭海均.md" title="wikilink">鄭海均</a></p></td>
 <td><p>河明根</p></td>
 <td><p>韓國大學冰上曲棍球隊教練，為妻子住院費借錢，接受學校的支持和新生們的錢還債，怕雪上加霜的冰球隊解散，而戰戰兢兢。</p></td>
 </tr>
@@ -98,7 +98,7 @@
 <td><p>黃江畢父親</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/吉海妍" title="wikilink">吉海妍</a></p></td>
+<td><p><a href="../Page/吉海妍.md" title="wikilink">吉海妍</a></p></td>
 <td></td>
 <td><p>黃江畢母親</p></td>
 </tr>

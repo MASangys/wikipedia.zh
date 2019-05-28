@@ -249,7 +249,7 @@ Alive上連載](../Page/月刊Comic_Alive.md "wikilink")。
 <td></td>
 <td><p>奪還</p></td>
 <td><p>大武正光</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/渡部高志" title="wikilink">渡部高志</a></p></td>
+<td><p><a href="../Page/渡部高志.md" title="wikilink">渡部高志</a></p></td>
 <td><p>高島大輔</p></td>
 <td><p>木本茂樹、坂本哲也<br />
 芝田千紗、齊藤美香<br />
@@ -273,7 +273,7 @@ Alive上連載](../Page/月刊Comic_Alive.md "wikilink")。
 <td></td>
 <td><p>暴風雨</p></td>
 <td><p>大武正光</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/五月女浩一朗" title="wikilink">五月女浩一朗</a></p></td>
+<td><p><a href="../Page/五月女浩一朗.md" title="wikilink">五月女浩一朗</a></p></td>
 <td><p>橋本敏一</p></td>
 <td><p>上田峰子、冷水由紀繪<br />
 小淵陽介、藤部生馬<br />

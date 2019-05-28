@@ -26,7 +26,7 @@
 
   - 2015年 -- 2015年第五十七屆加勒比海大賽-全明星隊最佳先發投手。
   - 2017年 --
-    06月27日個人[中華職棒大聯盟一軍生涯初登板於](https://zh.wikipedia.org/wiki/中華職棒大聯盟 "wikilink")[斗六棒球場對戰](../Page/斗六棒球場.md "wikilink")[Lamigo桃猿隊](https://zh.wikipedia.org/wiki/Lamigo桃猿隊 "wikilink")，在六局上接替[林威志上場投球](https://zh.wikipedia.org/wiki/林威志 "wikilink")，面對[劉時豪投出個人](https://zh.wikipedia.org/wiki/劉時豪 "wikilink")[中華職棒大聯盟生涯首次奪三振](https://zh.wikipedia.org/wiki/中華職棒大聯盟 "wikilink")，中繼2.1局被擊出兩支安打，送出三次三振兩次保送失兩分，達成個人[中華職棒大聯盟生涯首次中繼成功](https://zh.wikipedia.org/wiki/中華職棒大聯盟 "wikilink")。
+    06月27日個人[中華職棒大聯盟一軍生涯初登板於](https://zh.wikipedia.org/wiki/中華職棒大聯盟 "wikilink")[斗六棒球場對戰](../Page/斗六棒球場.md "wikilink")[Lamigo桃猿隊](https://zh.wikipedia.org/wiki/Lamigo桃猿隊 "wikilink")，在六局上接替[林威志上場投球](../Page/林威志.md "wikilink")，面對[劉時豪投出個人](../Page/劉時豪.md "wikilink")[中華職棒大聯盟生涯首次奪三振](https://zh.wikipedia.org/wiki/中華職棒大聯盟 "wikilink")，中繼2.1局被擊出兩支安打，送出三次三振兩次保送失兩分，達成個人[中華職棒大聯盟生涯首次中繼成功](https://zh.wikipedia.org/wiki/中華職棒大聯盟 "wikilink")。
 
 ## 個人年表
 

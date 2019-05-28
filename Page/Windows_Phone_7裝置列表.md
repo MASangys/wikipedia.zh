@@ -9,8 +9,8 @@ Phone 7设备均无法升级至Windows Phone 8。
 ### Windows Phone 7.0
 
 第一代 預裝Windows Phone 7的裝置可升級至Windows Phone 7.5和7.8作業系統。該列表所有設備均配備1 GHz
-[Scorpion單核處理器](https://zh.wikipedia.org/wiki/Scorpion_\(CPU\) "wikilink")，512
-MB內存，480×800 WVGA分辨率的屏幕，5百萬像素的後置攝像頭和內置數字羅盤。非LG裝置所配備的芯片組是的Snapdragon
+[Scorpion單核處理器](../Page/Scorpion_\(CPU\).md "wikilink")，512 MB內存，480×800
+WVGA分辨率的屏幕，5百萬像素的後置攝像頭和內置數字羅盤。非LG裝置所配備的芯片組是的Snapdragon
 QSD8250，LG裝置配備Snapdragon QSD8650。有兩個例外，[戴爾Venue
 Pro不配備指南針](https://zh.wikipedia.org/wiki/戴爾Venue_Pro "wikilink")，HTC
 7 Mozart配備一個800萬像素後置攝像頭，而不是500萬像素。
@@ -353,7 +353,7 @@ MB的RAM。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/諾基亞Lumia_505" title="wikilink">諾基亞Lumia 505</a>[1]</p></td>
+<td><p><a href="../Page/諾基亞Lumia_505.md" title="wikilink">諾基亞Lumia 505</a>[1]</p></td>
 <td></td>
 <td><p>0.8 GHz</p></td>
 <td><p>256 MB</p></td>

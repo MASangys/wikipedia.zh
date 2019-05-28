@@ -158,7 +158,7 @@ SOLO</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/Sunshine_(RAINZ迷你專輯)" title="wikilink">SUNSHINE</a></strong>》</p>
+<td><p>首張迷你專輯《<strong><a href="../Page/Sunshine_(RAINZ迷你專輯).md" title="wikilink">SUNSHINE</a></strong>》</p>
 <ul>
 <li>發行日期：2017年10月12日</li>
 <li>語言：韓語</li>
@@ -230,12 +230,12 @@ SOLO</p></td>
 
 ### 綜藝節目
 
-|                          |                                                     |                                                                         |            |
-| ------------------------ | --------------------------------------------------- | ----------------------------------------------------------------------- | ---------- |
-| **日期**                   | **電視台**                                             | **節目名稱**                                                                | **固定演出成員** |
-| 2017年10月10日 -2017年10月17日 | iMBC                                                | 《[偶像的私生活](../Page/偶像的私生活.md "wikilink")》                                | 全員         |
-| 2018年3月20日               | MBCevery1                                           | 《[Video star](https://zh.wikipedia.org/wiki/Video_star "wikilink")》     | 張大賢        |
-| 2018年5月4日                | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[排名秀123](https://zh.wikipedia.org/wiki/Ranking_Show_1,2,3 "wikilink")》 | 張大賢        |
+|                          |                                                     |                                                                     |            |
+| ------------------------ | --------------------------------------------------- | ------------------------------------------------------------------- | ---------- |
+| **日期**                   | **電視台**                                             | **節目名稱**                                                            | **固定演出成員** |
+| 2017年10月10日 -2017年10月17日 | iMBC                                                | 《[偶像的私生活](../Page/偶像的私生活.md "wikilink")》                            | 全員         |
+| 2018年3月20日               | MBCevery1                                           | 《[Video star](https://zh.wikipedia.org/wiki/Video_star "wikilink")》 | 張大賢        |
+| 2018年5月4日                | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | 《[排名秀123](../Page/Ranking_Show_1,2,3.md "wikilink")》                | 張大賢        |
 
 #### 官方頻道單元
 
@@ -260,7 +260,7 @@ SOLO</p></td>
 <td><p>2017年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Sunshine_(RAINZ迷你專輯)" title="wikilink">SUNSHINE</a></p></td>
+<td><p><a href="../Page/Sunshine_(RAINZ迷你專輯).md" title="wikilink">SUNSHINE</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>

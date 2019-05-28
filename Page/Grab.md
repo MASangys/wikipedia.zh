@@ -12,7 +12,7 @@
   - Grab聘请了陸續於[雷曼兄弟控股公司](https://zh.wikipedia.org/wiki/雷曼兄弟控股公司 "wikilink")（Lehman
     Brothers）及[野村證券](../Page/野村證券.md "wikilink")（Nomura
     Holdings）任職的资深金融家John Chua领导财务。
-  - 3月26日，召車服務程式[優步](../Page/優步.md "wikilink")（Uber）已同意將其[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞等](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[東南亞業務出售予](https://zh.wikipedia.org/wiki/東南亞 "wikilink")[Grab](https://zh.wikipedia.org/wiki/Grab "wikilink")，合併後Uber可望獲得Grab
+  - 3月26日，召車服務程式[優步](../Page/優步.md "wikilink")（Uber）已同意將其[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[馬來西亞等](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[東南亞業務出售予](https://zh.wikipedia.org/wiki/東南亞 "wikilink")[Grab](../Page/Grab.md "wikilink")，合併後Uber可望獲得Grab
     27.5%的股權。
   - 5月28日，Grab推出[网上订餐](https://zh.wikipedia.org/wiki/网上订餐 "wikilink")（[外卖](https://zh.wikipedia.org/wiki/外卖 "wikilink")）服务[Grab
     Food](https://zh.wikipedia.org/wiki/Grab_Food "wikilink")。\[5\]\[6\]
@@ -83,7 +83,7 @@
 </ul>
 <p><strong><a href="../Page/蘇門答臘.md" title="wikilink">蘇門答臘</a>：</strong></p>
 <ul>
-<li><em>北苏门答腊：</em><a href="https://zh.wikipedia.org/wiki/棉兰" title="wikilink">棉兰</a>、<a href="https://zh.wikipedia.org/wiki/班达亚齐" title="wikilink">班达亚齐</a>、<a href="https://zh.wikipedia.org/wiki/民礼" title="wikilink">民礼</a>、<a href="https://zh.wikipedia.org/wiki/日里雪冷县" title="wikilink">日里雪冷</a><br />
+<li><em>北苏门答腊：</em><a href="https://zh.wikipedia.org/wiki/棉兰" title="wikilink">棉兰</a>、<a href="https://zh.wikipedia.org/wiki/班达亚齐" title="wikilink">班达亚齐</a>、<a href="https://zh.wikipedia.org/wiki/民礼" title="wikilink">民礼</a>、<a href="../Page/日里雪冷县.md" title="wikilink">日里雪冷</a><br />
 </li>
 <li><em>西苏门答腊：</em><a href="../Page/巴东_(印尼).md" title="wikilink">巴东</a>、<a href="../Page/明古鲁.md" title="wikilink">明古鲁</a><br />
 </li>
@@ -102,7 +102,7 @@
 <ul>
 <li><em>北蘇拉威西：</em><a href="../Page/万鸦老.md" title="wikilink">万鸦老</a></li>
 <li><em>中蘇拉威西：</em><a href="https://zh.wikipedia.org/wiki/帕卢" title="wikilink">帕卢</a></li>
-<li><em>南蘇拉威西：</em><a href="https://zh.wikipedia.org/wiki/望加锡" title="wikilink">望加锡</a>、<a href="https://zh.wikipedia.org/wiki/戈瓦县" title="wikilink">戈瓦</a>、<a href="https://zh.wikipedia.org/wiki/肯达里" title="wikilink">肯达里</a>、<a href="https://zh.wikipedia.org/wiki/马罗斯" title="wikilink">马罗斯</a></li>
+<li><em>南蘇拉威西：</em><a href="https://zh.wikipedia.org/wiki/望加锡" title="wikilink">望加锡</a>、<a href="../Page/戈瓦县.md" title="wikilink">戈瓦</a>、<a href="https://zh.wikipedia.org/wiki/肯达里" title="wikilink">肯达里</a>、<a href="../Page/马罗斯.md" title="wikilink">马罗斯</a></li>
 </ul>
 <p><strong><a href="../Page/摩鹿加群岛.md" title="wikilink">摩鹿加群岛</a>：</strong><a href="../Page/安汶.md" title="wikilink">安汶</a><br />
 <strong><a href="https://zh.wikipedia.org/wiki/西巴布亚" title="wikilink">西巴布亚</a>：</strong><a href="https://zh.wikipedia.org/wiki/查亚普拉" title="wikilink">查亚普拉</a></p></td>
@@ -163,7 +163,7 @@ Grab與优步的计费方式与按表收费的出租车不同，一般出租车�
 
       - 2015年2月14日併購[快的打车](../Page/快的打车.md "wikilink")\[13\]。
 
-  - [Cabify](https://zh.wikipedia.org/wiki/Cabify "wikilink")，2010年成立
+  - [Cabify](../Page/Cabify.md "wikilink")，2010年成立
     ，[葡萄牙語區](https://zh.wikipedia.org/wiki/葡萄牙语国家和地区列表 "wikilink")。
 
   - ，2012年成立 。[印尼最大交通网络公司](https://zh.wikipedia.org/wiki/印尼 "wikilink")。

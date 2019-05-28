@@ -12,7 +12,7 @@ APS水下突擊步槍的出現雖然解決了苏联守衛[海军基地的](../Pa
 
 其他配件包括：阻火器、用於低聲射擊（UPMS）的、各種類型的光學和[夜視](../Page/夜視鏡.md "wikilink")[瞄準鏡以及](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")。該步槍裝有折疊式[槍托](../Page/槍托.md "wikilink")，而且它與和[護木一樣](https://zh.wikipedia.org/wiki/護木 "wikilink")，都是由耐衝擊的[塑料所製成](../Page/塑料.md "wikilink")。
 
-ASM-DT的作戰能力分別與空氣當中的AK-74和水下環境中的APS相媲美。然而ASM-DT的主要缺失在於它在水下時仍然需要使用過長而特殊設計的水下[彈藥及](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[彈匣](../Page/彈匣.md "wikilink")，這意味著它需要一具過長的[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")、為可調節尺寸而變得複雜的兩用彈匣供彈插槽和兩款不同的彈匣。結果俄羅斯聯邦僅在2000年短暫採用ASM-DT。由於ASM-DT仍被認為不適用於作戰當中，改由[KBP儀器設計廠的研發團隊研製新型兩棲突擊步槍](../Page/俄联邦仪器设计局.md "wikilink")——[ADS兩棲突擊步槍](https://zh.wikipedia.org/wiki/ADS兩棲突擊步槍 "wikilink")。
+ASM-DT的作戰能力分別與空氣當中的AK-74和水下環境中的APS相媲美。然而ASM-DT的主要缺失在於它在水下時仍然需要使用過長而特殊設計的水下[彈藥及](https://zh.wikipedia.org/wiki/彈藥 "wikilink")[彈匣](../Page/彈匣.md "wikilink")，這意味著它需要一具過長的[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")、為可調節尺寸而變得複雜的兩用彈匣供彈插槽和兩款不同的彈匣。結果俄羅斯聯邦僅在2000年短暫採用ASM-DT。由於ASM-DT仍被認為不適用於作戰當中，改由[KBP儀器設計廠的研發團隊研製新型兩棲突擊步槍](../Page/俄联邦仪器设计局.md "wikilink")——[ADS兩棲突擊步槍](../Page/ADS兩棲突擊步槍.md "wikilink")。
 
 關於水下射擊能力的考慮，請參閱[APS水下突擊步槍](../Page/APS水下突擊步槍.md "wikilink")。
 
@@ -22,7 +22,7 @@ ASM-DT的作戰能力分別與空氣當中的AK-74和水下環境中的APS相媲
   - [HK P11手槍](../Page/HK_P11手槍.md "wikilink")
   - [SPP-1水下手槍](../Page/SPP-1水下手槍.md "wikilink")
   - [APS水下突擊步槍](../Page/APS水下突擊步槍.md "wikilink")
-  - [ADS兩棲突擊步槍](https://zh.wikipedia.org/wiki/ADS兩棲突擊步槍 "wikilink")
+  - [ADS兩棲突擊步槍](../Page/ADS兩棲突擊步槍.md "wikilink")
   - [06式水下步枪](../Page/06式水下步枪.md "wikilink")
   - [AK-74突擊步枪](https://zh.wikipedia.org/wiki/AK-74突擊步枪 "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")

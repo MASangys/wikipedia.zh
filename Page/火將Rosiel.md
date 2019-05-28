@@ -2,8 +2,7 @@
 
 ## 簡歷
 
-2007年，於日本[Wonder
-Festival模型展中](https://zh.wikipedia.org/wiki/Wonder_Festival "wikilink")
+2007年，於日本[Wonder Festival模型展中](../Page/Wonder_Festival.md "wikilink")
 Cosplay 出道\[2\]。 2015年1月13日，被選為「Amatias
 埼玉女子會×地區情報節目」的固定主持人；同年6月28日，主演的電影「轉生遮那巫女傳」公開。
 2016年4月28日，被選為「真空管Dolls」Alicia 的官方

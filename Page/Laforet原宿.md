@@ -1,5 +1,5 @@
 **Laforet原宿**（，La Foret
-Harajuku）是東京[表參道](../Page/表參道.md "wikilink")（澀谷區[神宮前一丁目](../Page/神宮前_\(澀谷區\).md "wikilink")）的[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")、[時裝大樓](https://zh.wikipedia.org/wiki/時裝大樓 "wikilink")。
+Harajuku）是東京[表參道](../Page/表參道.md "wikilink")（澀谷區[神宮前一丁目](../Page/神宮前_\(澀谷區\).md "wikilink")）的[購物中心](https://zh.wikipedia.org/wiki/購物中心 "wikilink")、[時裝大樓](../Page/時裝大樓.md "wikilink")。
 
 由[森大廈的相關企業森大廈流通系統株式會社](../Page/森大廈.md "wikilink")（森ビル流通システム）營運。
 

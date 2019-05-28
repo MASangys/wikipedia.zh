@@ -28,7 +28,7 @@ XP](../Page/Windows_XP.md "wikilink")、[Windows
 Vista](../Page/Windows_Vista.md "wikilink")、[Windows
 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows
 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")（但在1703更新中默认关闭，1803更新后会移除）\[2\]、[Windows
+10](../Page/Windows_10.md "wikilink")（但在1703更新中默认关闭，1803更新后会移除）\[2\]、[Windows
 Server 2008](../Page/Windows_Server_2008.md "wikilink")、[Windows Server
 2012](../Page/Windows_Server_2012.md "wikilink")、[Windows
 Mobile](../Page/Windows_Mobile.md "wikilink")、[Linux和](../Page/Linux.md "wikilink")[Cisco

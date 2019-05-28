@@ -21,7 +21,7 @@ PITX2基因突變可能導致（Axenfeld-Rieger syndrome, ARS）、（iridogonio
 syndrome, IGDS）等表現爲的病徵\[12\]。
 
 在惡性腫瘤中，PITX2常常會過表達。比如，甲狀腺癌\[13\]、
-卵巢癌\[14\]和結腸癌\[15\]的PITX2表達水平都高於正常的非腫瘤組織。研究人員推測，腫瘤細胞的PITX2表達異常開啓，造成了細胞的惡性增殖。此前的研究表明PITX2會調控[C-Myc以及](https://zh.wikipedia.org/wiki/C-Myc "wikilink")[細胞週期蛋白D](https://zh.wikipedia.org/wiki/細胞週期蛋白 "wikilink")1、D2的表達，這些事實支持上述假說\[16\]\[17\]\[18\]
+卵巢癌\[14\]和結腸癌\[15\]的PITX2表達水平都高於正常的非腫瘤組織。研究人員推測，腫瘤細胞的PITX2表達異常開啓，造成了細胞的惡性增殖。此前的研究表明PITX2會調控[C-Myc以及](../Page/C-Myc.md "wikilink")[細胞週期蛋白D](https://zh.wikipedia.org/wiki/細胞週期蛋白 "wikilink")1、D2的表達，這些事實支持上述假說\[16\]\[17\]\[18\]
 
 研究表明，腎癌組織內，PITX2的表達能提高**基因的表達強度。進一步研究表明，PITX2能與*ABCB1*基因的啓動子結合，使該基因表達。該基因編碼的蛋白能夠轉運多種藥物，使細胞對化療藥物的耐藥性增強。如果降低腎癌細胞內PITX2的表達強度，那麼細胞的增殖速度會減緩，化療藥物多柔比星（doxorubicin）對細胞的殺傷力也會增加\[19\]。
 

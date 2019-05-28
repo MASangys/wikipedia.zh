@@ -43,7 +43,7 @@ CGN部署使用的共享地址空间，以及NAT设备可以处理在入站和�
 
 ## 参见
 
-  - [NAT64](https://zh.wikipedia.org/wiki/NAT64 "wikilink")
+  - [NAT64](../Page/NAT64.md "wikilink")
 
 ## 参考资料
 

@@ -1,17 +1,17 @@
-**C.I.V.A**（）是音樂人李尚民、卓在勳通過共同企劃的紀錄形綜藝節目《音樂之神》第二季組成企劃女子組合，成員包括演員[李秀敏與曾經參加](https://zh.wikipedia.org/wiki/李秀敏_\(1984年\) "wikilink")《[PRODUCE
+**C.I.V.A**（）是音樂人李尚民、卓在勳通過共同企劃的紀錄形綜藝節目《音樂之神》第二季組成企劃女子組合，成員包括演員[李秀敏與曾經參加](../Page/李秀敏_\(1984年\).md "wikilink")《[PRODUCE
 101](../Page/PRODUCE_101.md "wikilink")》的[金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")、[尹彩暻](https://zh.wikipedia.org/wiki/尹彩暻 "wikilink")。
 
 取名之原因為希望成員們能比「著名女歌唱家」（其英文寫法為[DIVA](https://zh.wikipedia.org/wiki/DIVA "wikilink")）還要更強，所以取名為「C.I.V.A.」,但因為在韓語與髒話發音相似，所以只能把字母分開拼讀。\[1\]
 
 ## 成員資料
 
-| 成員列表                                                          |
-| ------------------------------------------------------------- |
-| 藝名                                                            |
-| 漢字                                                            |
-| [李秀敏](https://zh.wikipedia.org/wiki/李秀敏_\(1984年\) "wikilink") |
-| [金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")    |
-| [尹彩暻](https://zh.wikipedia.org/wiki/尹彩暻 "wikilink")           |
+| 成員列表                                                       |
+| ---------------------------------------------------------- |
+| 藝名                                                         |
+| 漢字                                                         |
+| [李秀敏](../Page/李秀敏_\(1984年\).md "wikilink")                 |
+| [金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink") |
+| [尹彩暻](https://zh.wikipedia.org/wiki/尹彩暻 "wikilink")        |
 
 ## 音樂作品
 

@@ -40,7 +40,7 @@ TV**（前称“HyppTV”\[1\]）是由[马来西亚电讯运营的](https://zh.
 <td><p><a href="../Page/TV3_(马来西亚).md" title="wikilink">TV3</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首要媒体" title="wikilink">首要媒体</a>（Media Prima）旗下的马来語综合频道，也有播放<a href="../Page/好莱坞.md" title="wikilink">好莱坞电影</a>，少许英语节目和部分的中文电影。</p></td>
+<td><p><a href="../Page/首要媒体.md" title="wikilink">首要媒体</a>（Media Prima）旗下的马来語综合频道，也有播放<a href="../Page/好莱坞.md" title="wikilink">好莱坞电影</a>，少许英语节目和部分的中文电影。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -163,7 +163,7 @@ TV**（前称“HyppTV”\[1\]）是由[马来西亚电讯运营的](https://zh.
 </tr>
 <tr class="odd">
 <td><p>221<sub>HD</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/RED_by_HBO" title="wikilink">RED by HBO</a> HD</p></td>
+<td><p><a href="../Page/RED_by_HBO.md" title="wikilink">RED by HBO</a> HD</p></td>
 <td><p>宝红 Plus配套/Ultimate 配套</p></td>
 <td></td>
 <td></td>
@@ -327,7 +327,7 @@ FOX Movies精選強勢荷里活第一手猛片， 從票房冠軍到得獎傑作
 </tr>
 <tr class="odd">
 <td><p>402<sub>HD</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/福斯动作电影频道" title="wikilink">Fox Actions Movies HD</a></p></td>
+<td><p><a href="../Page/福斯动作电影频道.md" title="wikilink">Fox Actions Movies HD</a></p></td>
 <td></td>
 <td></td>
 <td><p>無間狂飆<br />
@@ -374,7 +374,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 </tr>
 <tr class="even">
 <td><p>453<sub>HD</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FOX_(亞洲)" title="wikilink">FOX Asia HD</a></p></td>
+<td><p><a href="../Page/FOX_(亞洲).md" title="wikilink">FOX Asia HD</a></p></td>
 <td><p>{</p></td>
 <td></td>
 <td><p>霍士頻道為觀眾帶來美國受歡迎的精彩劇集，爆笑喜劇、動畫及真人騷娛樂節目。节目均由Fox制作。</p></td>
@@ -383,7 +383,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 </tr>
 <tr class="odd">
 <td><p>454<sub>HD</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FX_(亞洲)" title="wikilink">FX Asia HD</a></p></td>
+<td><p><a href="../Page/FX_(亞洲).md" title="wikilink">FX Asia HD</a></p></td>
 <td><p>{</p></td>
 <td></td>
 <td><p>一個結合現實生活與奇情幻想的男性娛樂頻道 – FX。 FX 提供男性喜歡收看的電視節目，由真人遊戲節目到利用微型攝影機的偷拍節目、由成功人士的故事到現代科技玩意，加上動作、冒險、比賽、金錢‧‧‧以及任何男性希望得到的內容。</p></td>
@@ -392,7 +392,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 </tr>
 <tr class="even">
 <td><p>455<sub>HD</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FOX_Life_(亞洲)" title="wikilink">FOX Life HD</a></p></td>
+<td><p><a href="../Page/FOX_Life_(亞洲).md" title="wikilink">FOX Life HD</a></p></td>
 <td><p>{</p></td>
 <td></td>
 <td><p>FOXlife是亞洲一個高質素的娛樂頻道，致力為廣大女性觀眾及其伴侶送上國際頂尖節目，種類多元，包括連續劇、情境喜劇、實況真人騷、直播頒獎禮及精彩的原創作品。FOXlife觀眾來自全亞洲，覆蓋十五個地區，用戶高達９８００萬。</p></td>
@@ -428,7 +428,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 </tr>
 <tr class="even">
 <td><p>473<sub>HD</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BLUE_ANT_Entertainment" title="wikilink">BLUE ANT Entertainment</a> HD</p></td>
+<td><p><a href="../Page/BLUE_ANT_Entertainment.md" title="wikilink">BLUE ANT Entertainment</a> HD</p></td>
 <td></td>
 <td></td>
 <td><p>BLUE ANT Entertainment是這個日常娛樂頻道包羅真人秀、劇集、喜劇及眾多題材廣泛的節目。緊貼放送英美最炙手可熱劇作，還有一系列每日焦點節目，當然亦不少得直播全球矚目的頒獎盛事。</p></td>
@@ -437,7 +437,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 </tr>
 <tr class="odd">
 <td><p>474<sub>HD</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BLUE_ANT_Extreme" title="wikilink">BLUE ANT Extreme</a> HD</p></td>
+<td><p><a href="../Page/BLUE_ANT_Extreme.md" title="wikilink">BLUE ANT Extreme</a> HD</p></td>
 <td><p>免费频道</p></td>
 <td></td>
 <td></td>
@@ -782,9 +782,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
   - The Filipino Channel (135頻道)
 
-  - [WakuWaku
-    Japan](https://zh.wikipedia.org/wiki/WakuWaku_Japan "wikilink")
-    (216頻道)
+  - [WakuWaku Japan](../Page/WakuWaku_Japan.md "wikilink") (216頻道)
 
   - [東森亞洲衛視](../Page/東森亞洲衛視.md "wikilink") (235頻道)
 
@@ -848,15 +846,14 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
   - [HBO Family HD](../Page/HBO溫馨家庭.md "wikilink") (419頻道)
 
-  - [Diva HD](https://zh.wikipedia.org/wiki/Diva_\(電視網\) "wikilink")
-    (457频道, 預告取代Sony Channel HD)
+  - [Diva HD](../Page/Diva_\(電視網\).md "wikilink") (457频道, 預告取代Sony
+    Channel HD)
 
   - ITV Choice HD (472頻道，預告取代Animax HD)
 
   - (475频道)
 
-  - [HITS HD](https://zh.wikipedia.org/wiki/Hits_\(電視頻道\) "wikilink")
-    (476頻道)
+  - [HITS HD](../Page/Hits_\(電視頻道\).md "wikilink") (476頻道)
 
   - Love Nature HD (502頻道)
 
@@ -980,22 +977,22 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
 **提升至高清**
 
-| 频道  | 标志／名字                                                                          | 升級日期        |
-| --- | ------------------------------------------------------------------------------ | ----------- |
-| 612 | [Universal Channel HD](https://zh.wikipedia.org/wiki/環球影劇頻道_\(亞洲\) "wikilink") | 2011年       |
-| 611 | [Syfy HD](https://zh.wikipedia.org/wiki/Syfy_\(亞洲\) "wikilink")                | 2011年       |
-| 228 | [卫视电影台](https://zh.wikipedia.org/wiki/卫视电影台 "wikilink")                        | 2014年9月     |
-| 116 | HyppSensasi                                                                    | 2014年9月     |
-| 225 | [now爆谷台](https://zh.wikipedia.org/wiki/now爆谷台 "wikilink")                      | 2014年5月15日  |
-| 553 | [CBeebies](../Page/CBeebies.md "wikilink")                                     | 2015年10月12日 |
-| 206 | [衛視中文台](../Page/衛視中文台.md "wikilink")                                           | 2017年       |
-| 620 | [BBC Lifestyle](https://zh.wikipedia.org/wiki/BBC_Lifestyle "wikilink")        | 2017年       |
-| 226 | [卫视卡式台](https://zh.wikipedia.org/wiki/卫视卡式台 "wikilink")                        | 2017年4月     |
-| 234 | [TVB8](../Page/TVB8.md "wikilink")                                             | 2018年4月     |
-|     |                                                                                |             |
-| 711 | MUTV                                                                           | 2018年       |
-| 611 | [Channel NewsAsia](https://zh.wikipedia.org/wiki/Channel_NewsAsia "wikilink")  | 2018年10月    |
-|     |                                                                                |             |
+| 频道  | 标志／名字                                                                         | 升級日期        |
+| --- | ----------------------------------------------------------------------------- | ----------- |
+| 612 | [Universal Channel HD](../Page/環球影劇頻道_\(亞洲\).md "wikilink")                   | 2011年       |
+| 611 | [Syfy HD](../Page/Syfy_\(亞洲\).md "wikilink")                                  | 2011年       |
+| 228 | [卫视电影台](https://zh.wikipedia.org/wiki/卫视电影台 "wikilink")                       | 2014年9月     |
+| 116 | HyppSensasi                                                                   | 2014年9月     |
+| 225 | [now爆谷台](https://zh.wikipedia.org/wiki/now爆谷台 "wikilink")                     | 2014年5月15日  |
+| 553 | [CBeebies](../Page/CBeebies.md "wikilink")                                    | 2015年10月12日 |
+| 206 | [衛視中文台](../Page/衛視中文台.md "wikilink")                                          | 2017年       |
+| 620 | [BBC Lifestyle](https://zh.wikipedia.org/wiki/BBC_Lifestyle "wikilink")       | 2017年       |
+| 226 | [卫视卡式台](https://zh.wikipedia.org/wiki/卫视卡式台 "wikilink")                       | 2017年4月     |
+| 234 | [TVB8](../Page/TVB8.md "wikilink")                                            | 2018年4月     |
+|     |                                                                               |             |
+| 711 | MUTV                                                                          | 2018年       |
+| 611 | [Channel NewsAsia](https://zh.wikipedia.org/wiki/Channel_NewsAsia "wikilink") | 2018年10月    |
+|     |                                                                               |             |
 
 **取代、更名並提升至高清**
 
@@ -1022,8 +1019,8 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 
 | 频道  | 标志／名字                                                                                   | 停播日期                                         | 详细                                                                                             |
 | --- | --------------------------------------------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------- |
-| 612 | [Universal Channel HD](https://zh.wikipedia.org/wiki/環球影劇頻道_\(亞洲\) "wikilink")          | 2017年7月1日                                    | 2017年7月起由[Universal Channel亞洲地區停播](https://zh.wikipedia.org/wiki/Universal_Channel "wikilink") |
-| 611 | [Syfy HD](https://zh.wikipedia.org/wiki/Syfy_\(亞洲\) "wikilink")                         | 2017年7月1日                                    | 2017年7月起由[Syfy亞洲地區停播](../Page/Syfy.md "wikilink")                                              |
+| 612 | [Universal Channel HD](../Page/環球影劇頻道_\(亞洲\).md "wikilink")                             | 2017年7月1日                                    | 2017年7月起由[Universal Channel亞洲地區停播](https://zh.wikipedia.org/wiki/Universal_Channel "wikilink") |
+| 611 | [Syfy HD](../Page/Syfy_\(亞洲\).md "wikilink")                                            | 2017年7月1日                                    | 2017年7月起由[Syfy亞洲地區停播](../Page/Syfy.md "wikilink")                                              |
 | 142 | FTV                                                                                     | 2012年5月31日                                   |                                                                                                |
 | 190 | SS TV                                                                                   | 2012年12月31日                                  |                                                                                                |
 | 708 | Fox Football Channel Plus HD                                                            | 2013年7月31日                                   |                                                                                                |
@@ -1042,7 +1039,7 @@ FOX Family Movies為所有年齡層觀眾帶來各大電影公司精彩和全面
 | 712 | Motorvision HD                                                                          | 2017年9月1日                                    |                                                                                                |
 | 704 | HyppSports HD - unifi Liga Super Malaysia                                               | 2018年4月                                      |                                                                                                |
 | 241 | [Channel V台灣](../Page/Channel_V.md "wikilink")                                          | 2018年6月1日                                    | 福斯傳媒集團旗下FOX Crime和Channel V與馬來西亞Unifi TV終止授權兼合約結束                                              |
-| 452 | [FOX Crime HD](https://zh.wikipedia.org/wiki/福斯警匪頻道_\(亞洲\) "wikilink")                  |                                              |                                                                                                |
+| 452 | [FOX Crime HD](../Page/福斯警匪頻道_\(亞洲\).md "wikilink")                                     |                                              |                                                                                                |
 | 532 | [Channel V國際HD](../Page/Channel_V.md "wikilink")                                        |                                              |                                                                                                |
 | 632 | 1News Channel                                                                           | 2018年7月1日                                    | RTM电视广播有限公司与Unifi TV决定暂停播映和裁减RTM资源因收视率下跌                                                       |
 | 701 | HyppSports HD                                                                           | 2018年8月1日                                    | 节目供应商ASN在马来西亚停止营业和将在8月6日在新加坡停止营业(Starhub\[2\]和Singtel\[3\]将在当天停播此频道)                           |

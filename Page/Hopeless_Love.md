@@ -4,7 +4,7 @@ Love**》是[韓國組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[15&�
 ## 概要
 
 本作相距前作《[Love is
-Madness](https://zh.wikipedia.org/wiki/Love_is_Madness "wikilink")》約二個月，亦是朴智敏的首張個人單曲。歌曲〈Hopeless
+Madness](../Page/Love_is_Madness.md "wikilink")》約二個月，亦是朴智敏的首張個人單曲。歌曲〈Hopeless
 Love〉以鋼琴加上反覆的[打擊樂](https://zh.wikipedia.org/wiki/打擊樂 "wikilink")，描述單戀著朋友卻無法實現愛情的痛苦心境。\[1\]
 
 ## 歌曲

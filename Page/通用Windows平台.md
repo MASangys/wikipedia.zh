@@ -1,7 +1,7 @@
 **通用Windows平台**（**Universal Windows
 Platform**，简称**UWP**）是[微软公司建立并在](../Page/微软.md "wikilink")[Windows
-10中首次引入的一个同性質應用程式架构平台](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。此软件平台的目的是帮助发展[Metro样式的應用程式](https://zh.wikipedia.org/wiki/Metro-style_apps "wikilink")，便于軟體可以在[Windows
-10和](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Windows 10
+10中首次引入的一个同性質應用程式架构平台](../Page/Windows_10.md "wikilink")。此软件平台的目的是帮助发展[Metro样式的應用程式](https://zh.wikipedia.org/wiki/Metro-style_apps "wikilink")，便于軟體可以在[Windows
+10和](../Page/Windows_10.md "wikilink")[Windows 10
 Mobile上執行且无需重新編寫](https://zh.wikipedia.org/wiki/Windows_10行動版 "wikilink")。它支援使用[C++](../Page/C++.md "wikilink")、[C\#](../Page/C♯.md "wikilink")、[VB.NET或](../Page/Visual_Basic_.NET.md "wikilink")[XAML开发的](../Page/XAML.md "wikilink")[Windows應用程式](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")。API采用C++实现，并支持C++、VB.NET、C\#和[JavaScript](../Page/JavaScript.md "wikilink")。\[1\]UWP在[Windows
 Server 2012和](../Page/Windows_Server_2012.md "wikilink")[Windows
 8中作为一个](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[Windows
@@ -52,7 +52,7 @@ Sweeney批评UWP是一个“[围墙花园](../Page/封閉平臺.md "wikilink")�
 
 在Build 2016期间，微软Xbox部门负责人Phil
 Spencer宣布公司正在尝试解决一些问题，以改进UWP对PC游戏的能力。其指出微软正在“致力于达到或超过全屏游戏的性能预期，以及提供包括覆盖层、模组等附加功能的支持。”，同时也宣布提供禁用[垂直同步的支持](https://zh.wikipedia.org/wiki/垂直同步 "wikilink")，以及和技术的支持，这将在[Windows
-10的未来更新中添加](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。\[18\]
+10的未来更新中添加](../Page/Windows_10.md "wikilink")。\[18\]
 
 ## 参考资料
 

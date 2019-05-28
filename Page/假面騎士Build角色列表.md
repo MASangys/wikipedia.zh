@@ -2,7 +2,7 @@
 
 ## 假面騎士
 
-****（[犬飼貴丈飾](https://zh.wikipedia.org/wiki/犬飼貴丈 "wikilink")；香港配音：[張振熙](../Page/張振熙.md "wikilink")）
+****（[犬飼貴丈飾](../Page/犬飼貴丈.md "wikilink")；香港配音：[張振熙](../Page/張振熙.md "wikilink")）
 
   -
     **假面騎士Build**、**假面騎士Evol（被艾博魯特附身時）** 的變身者，26歲。
@@ -345,7 +345,7 @@
     化的美空和戰兔對戰，结果被其二度擊倒，還首次评级了其危險等级。
     第44話变身成忍忍漫画形態后和戰兔所变身的坦克坦克形態对战，并直接打中了戰兔的危險扳機，继而使其被定身後被瞬移过后和内海通过影像直播目睹了艾博魯特和戰兔等四人的對戰，在艾博魯特被擊倒後以飞鹰加特林形态夺走了被擊毁的進化驱动器，并表示一切如同自己的計畫。
     第45話最终向戰兔等人透露了自己的计划——「利用超越一切物理法则的现象創立新世界」，正因如此为了人类才會向艾博魯特诈降，以便趁机反击，结果遭到毒殺至倒在其子戰兔的怀里，再道出遗言後便彻底消散。
-    與《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的園咲琉兵衛、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》的笛木奏、《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》的蠻野天十郎、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的檀正宗等皆為父親類型的反派角色。如果進一步分類的話，他屬於為了拯救他人而無奈地成為反派的父親角色類型。
+    與《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的園咲琉兵衛、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》的笛木奏、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的蠻野天十郎、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的檀正宗等皆為父親類型的反派角色。如果進一步分類的話，他屬於為了拯救他人而無奈地成為反派的父親角色類型。
 
 ****（[前川泰之飾](https://zh.wikipedia.org/wiki/前川泰之 "wikilink")；香港配音：[袁德基](../Page/袁德基.md "wikilink")）
 
@@ -395,7 +395,7 @@
     第38話被恢復到完全姿態的艾博魯特擬態成自己的面貌。
     第49話在沒有天空之壁的世界中，同樣擔任「nascita」的店主，而且其泡的咖啡非常好喝，甚至還成了佐藤太郎的粉丝。
     變身成血逐的口號是「蒸血」（日語原文為「蒸血」）。
-    與葛城忍同樣，與《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的園咲琉兵衛、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》的笛木奏、《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》的蠻野天十郎、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的檀正宗等同樣也是父親類型的反派角色，但與葛城忍不同的是，他是屬於被他人操控而成為反派的父親類型反派同時還是首例。
+    與葛城忍同樣，與《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的園咲琉兵衛、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》的笛木奏、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的蠻野天十郎、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的檀正宗等同樣也是父親類型的反派角色，但與葛城忍不同的是，他是屬於被他人操控而成為反派的父親類型反派同時還是首例。
 
 ****（前川泰之飾+[金尾哲夫聲](https://zh.wikipedia.org/wiki/金尾哲夫 "wikilink")）
 
@@ -687,7 +687,7 @@
     三人中最年長及身高最矮，另外也是個為夥伴著想的好男人。
     第19话在血逐和多治見喜子的劝诱下接受改造变成Hazard SMASH，击败战兔夺取数个满装瓶。
     第21話時被因變身成兔子坦克危險形態（RabbitTank Hazard
-    Form）而失去自我的戰兔擊倒後，在猿渡一海的面前消散而亡，死前將一枚[軍牌交給一海](https://zh.wikipedia.org/wiki/军人身份确认牌 "wikilink")。
+    Form）而失去自我的戰兔擊倒後，在猿渡一海的面前消散而亡，死前將一枚[軍牌交給一海](../Page/军人身份确认牌.md "wikilink")。
     三羽鴉中首位陣亡者。
     第46話時被艾博魯特利用自身的遺傳因子擬態而成，之後變身成**鍬形蟲 Lost SMASH**與猿渡一海進行對戰。
     第47話被猿渡消灭。
@@ -1140,10 +1140,10 @@
 64. 第47話艾博魯特對話中得知。
 65. 因为他的进化驱动器是由葛城忍负责开發的，所以會无法超越驅動器的限制而负荷不了。
 66. 於劇場版《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》中得知
+    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》中得知
 67. 於劇場版得知
 68. 一樣於劇場版《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》那里得知
+    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》那里得知
 69. 《ROGUE》序章
 70. 即將兩個平行世界合並和破壞玩家驅動器的機能
 71. 即《[劇場版 假面騎士EX-AID

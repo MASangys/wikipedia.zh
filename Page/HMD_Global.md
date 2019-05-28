@@ -45,7 +45,7 @@ Global有限公司最初于2015年11月9日成立。\[23\]
 ## 产品
 
 [HMD
-Global以](https://zh.wikipedia.org/wiki/HMD_Global "wikilink")“Nokia”的品牌製造設備。该公司与Nokia签署了一项协议，允许在其设备上使用Nokia品牌。
+Global以](../Page/HMD_Global.md "wikilink")“Nokia”的品牌製造設備。该公司与Nokia签署了一项协议，允许在其设备上使用Nokia品牌。
 
 \-{zh-hans:[安卓](https://zh.wikipedia.org/wiki/安卓 "wikilink");
 zh-hant:[Android](../Page/Android.md "wikilink")}-手机：
@@ -82,11 +82,9 @@ zh-hant:[Android](../Page/Android.md "wikilink")}-手机：
     3.1](../Page/Nokia_3.1.md "wikilink")、[Nokia 3.1
     Plus](https://zh.wikipedia.org/wiki/Nokia_3.1_Plus "wikilink")、[Nokia
     3.2](https://zh.wikipedia.org/wiki/Nokia_3.2 "wikilink")
-  - Nokia 2系列：[Nokia
-    2](https://zh.wikipedia.org/wiki/Nokia_2 "wikilink")、[Nokia
+  - Nokia 2系列：[Nokia 2](../Page/Nokia_2.md "wikilink")、[Nokia
     2.1](../Page/Nokia_2.1.md "wikilink")
-  - Nokia 1系列：[Nokia
-    1](https://zh.wikipedia.org/wiki/Nokia_1 "wikilink")、[Nokia 1
+  - Nokia 1系列：[Nokia 1](../Page/Nokia_1.md "wikilink")、[Nokia 1
     Plus](https://zh.wikipedia.org/wiki/Nokia_1_Plus "wikilink")
 
 [经典手机](https://zh.wikipedia.org/wiki/功能手机 "wikilink")：

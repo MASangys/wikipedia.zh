@@ -4,7 +4,7 @@
 
 克拉克生於[紐約州](https://zh.wikipedia.org/wiki/紐約州 "wikilink")，是奧拉蒂亞·D·克拉克（Oratia
 D. Clark）和蘿拉·A·（金·）克拉克（Laura A. (King)
-Clark）的兒子，曾就讀[艾奧瓦大學](https://zh.wikipedia.org/wiki/艾奧瓦大學 "wikilink")\[1\]法律系，並於1874年投身法律行列。他是一名教師，在[曼徹斯特從事法律工作](https://zh.wikipedia.org/wiki/曼彻斯特_\(爱荷华州\) "wikilink")。1874年，他和愛麗絲·唐斯（Alice
+Clark）的兒子，曾就讀[艾奧瓦大學](https://zh.wikipedia.org/wiki/艾奧瓦大學 "wikilink")\[1\]法律系，並於1874年投身法律行列。他是一名教師，在[曼徹斯特從事法律工作](../Page/曼彻斯特_\(爱荷华州\).md "wikilink")。1874年，他和愛麗絲·唐斯（Alice
 Downs）結婚，並在1881年移民到[懷俄明州](https://zh.wikipedia.org/wiki/懷俄明州 "wikilink")[埃文斯頓繼續律師工作](https://zh.wikipedia.org/wiki/埃文斯頓_\(懷俄明州\) "wikilink")，其後於1882年至1884年間出任[尤因塔縣](https://zh.wikipedia.org/wiki/尤因塔縣_\(懷俄明州\) "wikilink")\[2\]。
 
 克拉克的政治生涯始於1889年，該年他成為懷俄明州建州制憲會議的代表之一，並以[共和黨黨員身份成為](../Page/共和黨_\(美國\).md "wikilink")與[眾議院懷俄明州建州眾議員](https://zh.wikipedia.org/wiki/美國眾議院 "wikilink")，任期由1890年12月1日到1893年3月3日\[3\]，但在1892年連任失敗。

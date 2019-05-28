@@ -8,7 +8,7 @@ Max Krohn 等 | launch_date =  | content license = | alexa =
 是一个基于[PGP技术的](../Page/PGP.md "wikilink")[社交网络平台](https://zh.wikipedia.org/wiki/社交网络 "wikilink")，它可以将用户的身份映射到[公钥](https://zh.wikipedia.org/wiki/公钥 "wikilink")，反之亦然。\[1\]目前在
 
 上提供身份验证的网站和服务有：[Twitter](../Page/Twitter.md "wikilink")、[GitHub](../Page/GitHub.md "wikilink")、[Reddit](../Page/Reddit.md "wikilink")、和[Hacker
-News](../Page/Hacker_News.md "wikilink")，另有网站管理员、[比特币](../Page/比特币.md "wikilink")、[Zcash地址的验证](https://zh.wikipedia.org/wiki/Zcash "wikilink")。\[2\]
+News](../Page/Hacker_News.md "wikilink")，另有网站管理员、[比特币](../Page/比特币.md "wikilink")、[Zcash地址的验证](../Page/Zcash.md "wikilink")。\[2\]
 
 ## 提供的服务
 

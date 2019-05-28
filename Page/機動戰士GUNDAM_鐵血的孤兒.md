@@ -4,7 +4,7 @@ GRAND-PRIX第39回年度最佳動畫大獎第一名，並且在同年由日本[N
 
 ## 製作背景
 
-由聯手創作過《[我們仍未知道那天所看見的花的名字。](https://zh.wikipedia.org/wiki/我們仍未知道那天所看見的花的名字。 "wikilink")》的[長井龍雪和](https://zh.wikipedia.org/wiki/長井龍雪 "wikilink")[岡田麿里擔當監督和系列构成](../Page/岡田麿里.md "wikilink")。作品將圍繞兩種關鍵字展開，一是「具有強烈戲劇性，以少年故事為主的鋼彈」，二是「實現階段性變革的鋼彈」。與其他鋼彈作品不同之处是，監督長井龍雪曾在雜誌訪談裡表示「戰艦會被一發光束幹掉太奇怪」，所以本作是自鋼彈誕生至今以來首部完全沒有採用「光束兵器」，而是採用「實體質量兵器」為主的新鋼彈系列作品，除此之外由於監督本人也表明「沒有體驗過戰爭」，因此本作是以描寫日本黑社會歴史作品《[無仁義之戰](https://zh.wikipedia.org/wiki/無仁義之戰 "wikilink")》作為參考題材。
+由聯手創作過《[我們仍未知道那天所看見的花的名字。](https://zh.wikipedia.org/wiki/我們仍未知道那天所看見的花的名字。 "wikilink")》的[長井龍雪和](https://zh.wikipedia.org/wiki/長井龍雪 "wikilink")[岡田麿里擔當監督和系列构成](../Page/岡田麿里.md "wikilink")。作品將圍繞兩種關鍵字展開，一是「具有強烈戲劇性，以少年故事為主的鋼彈」，二是「實現階段性變革的鋼彈」。與其他鋼彈作品不同之处是，監督長井龍雪曾在雜誌訪談裡表示「戰艦會被一發光束幹掉太奇怪」，所以本作是自鋼彈誕生至今以來首部完全沒有採用「光束兵器」，而是採用「實體質量兵器」為主的新鋼彈系列作品，除此之外由於監督本人也表明「沒有體驗過戰爭」，因此本作是以描寫日本黑社會歴史作品《[無仁義之戰](../Page/無仁義之戰.md "wikilink")》作為參考題材。
 
 ## 故事簡介
 
@@ -54,7 +54,7 @@ P.D.325年，因為地球之旅而得知世界實情的古荻利亞設立了「[
   - 執行製片人：佐佐木新、丸山博雄
   - 製片人：小川正和、前田俊博
   - 企劃協力：BANDAI HOBBY事業部
-  - 製作協力：[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")
+  - 製作協力：[創通](../Page/創通.md "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")
   - 製作：[日昇動畫](../Page/日昇動畫.md "wikilink")、[MBS](https://zh.wikipedia.org/wiki/MBS "wikilink")
 
 ## 主題曲

@@ -25,20 +25,17 @@
   - ●[機動戰士海盜GUNDAM 鋼鐵之七人](../Page/機動戰士海盜GUNDAM_鋼鐵之七人.md "wikilink")（）
   - [新機動戰記GUNDAMW
     無盡的華爾茲](https://zh.wikipedia.org/wiki/新機動戰記GUNDAMW_無盡的華爾茲 "wikilink")（）
-  - ★[高達 Reconguista in
-    G](https://zh.wikipedia.org/wiki/GUNDAM_G之复国运动 "wikilink")（）
+  - ★[高達 Reconguista in G](../Page/GUNDAM_G之复国运动.md "wikilink")（）
   - ★[魔神英雄傳](../Page/魔神英雄傳.md "wikilink")（）
   - [勇者特急隊](../Page/勇者特急隊.md "wikilink")（）
   - [Code Geass
     反叛的魯路修R2](https://zh.wikipedia.org/wiki/Code_Geass反叛的魯路修 "wikilink")（）
   - ★[BUDDY COMPLEX](../Page/BUDDY_COMPLEX.md "wikilink")（）
   - ★BUDDY COMPLEX 完結篇 ―在回到那藍天的未來裏―（）
-  - [CROSSANGE
-    天使與龍的輪舞](https://zh.wikipedia.org/wiki/CROSSANGE_天使與龍的輪舞 "wikilink")（）
+  - [CROSSANGE 天使與龍的輪舞](../Page/CROSSANGE_天使與龍的輪舞.md "wikilink")（）
   - [魔神皇帝（原創版）](../Page/魔神皇帝.md "wikilink")（）
   - [真魔神 衝擊！Z篇](../Page/真魔神_衝擊！Z篇.md "wikilink")（）
-  - ●[真魔神ZERO
-    vs暗黑大將軍](https://zh.wikipedia.org/wiki/真無敵鐵金剛ZERO "wikilink")（）
+  - ●[真魔神ZERO vs暗黑大將軍](../Page/真無敵鐵金剛ZERO.md "wikilink")（）
   - [天元突破紅蓮螺巖](https://zh.wikipedia.org/wiki/天元突破紅蓮螺巖 "wikilink")（）
   - 劇場版 天元突破紅蓮螺巖 螺巖篇（）
   - ★[冒險少女娜汀亞](../Page/冒險少女娜汀亞.md "wikilink")（）
@@ -176,9 +173,8 @@ ED「」
     [TWO-MIX](https://zh.wikipedia.org/wiki/TWO-MIX "wikilink")（《機動戰士鋼彈W》OP1）
     10  - TWO-MIX（《機動戰士鋼彈W 無盡的華爾茲》ED）
     11  - TWO-MIX（《機動戰士鋼彈W 無盡的華爾茲 特別篇》ED）
-    12  -
-    [GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")（《鋼彈
-    Reconguista in G》OP1）
+    12  - [GARNiDELiA](../Page/GARNiDELiA.md "wikilink")（《鋼彈 Reconguista
+    in G》OP1）
     13  - [May J.](../Page/May_J..md "wikilink")（《鋼彈 Reconguista in
     G》OP2）
     14  -
@@ -206,8 +202,7 @@ ED「」
     29  - [SKE48](../Page/SKE48.md "wikilink")（《真魔神 衝擊！Z編》ED2）
     30  - [中川翔子](../Page/中川翔子.md "wikilink")（《天元突破紅蓮螺巖》OP）
     31  - 中川翔子（《劇場版 天元突破紅蓮螺巖 螺巖篇》OP）
-    32  -
-    [森川美穗](https://zh.wikipedia.org/wiki/森川美穗 "wikilink")（《海底兩萬哩》OP）
+    32  - [森川美穗](../Page/森川美穗.md "wikilink")（《海底兩萬哩》OP）
     33 （《海底兩萬哩》BGM）
     34  - 森川美穂（《海底兩萬哩》ED）
     35  - [JAM Project](../Page/JAM_Project.md "wikilink")（《魔装機神 THE

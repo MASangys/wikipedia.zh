@@ -1,7 +1,7 @@
 **Team
 SoloMid**（**通稱：TSM**）\[1\]，是一支[北美地區知名的](https://zh.wikipedia.org/wiki/北美地區 "wikilink")[電子競技俱樂部](https://zh.wikipedia.org/wiki/電子競技 "wikilink")，於2009年9月建立，涉足[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")、[CSGO](https://zh.wikipedia.org/wiki/CSGO "wikilink")、[鬥陣特攻等電競項目](../Page/鬥陣特攻.md "wikilink")。
 
-其中TSM的《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》分部電子競技項目是歷史最悠久的隊伍之一，也是目前唯一一支連續七年參予[英雄聯盟世界大賽的電競隊伍](https://zh.wikipedia.org/wiki/英雄聯盟世界大賽 "wikilink")\[2\]，在世界各地都擁有廣大[粉絲群](https://zh.wikipedia.org/wiki/粉絲 "wikilink")，在英雄聯盟賽事中時常出現觀眾不分場合高喊**TSM**隊名的特殊現象，被戲稱為「全球主場」、「北美邪教」。該項目現役先發成員分別是、MikeYeung、[Bjergsen](https://zh.wikipedia.org/wiki/Bjergsen "wikilink")、、等五名選手\[3\]\[4\]。[Red
+其中TSM的《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》分部電子競技項目是歷史最悠久的隊伍之一，也是目前唯一一支連續七年參予[英雄聯盟世界大賽的電競隊伍](https://zh.wikipedia.org/wiki/英雄聯盟世界大賽 "wikilink")\[2\]，在世界各地都擁有廣大[粉絲群](https://zh.wikipedia.org/wiki/粉絲 "wikilink")，在英雄聯盟賽事中時常出現觀眾不分場合高喊**TSM**隊名的特殊現象，被戲稱為「全球主場」、「北美邪教」。該項目現役先發成員分別是、MikeYeung、[Bjergsen](../Page/Bjergsen.md "wikilink")、、等五名選手\[3\]\[4\]。[Red
 Bull公佈於](https://zh.wikipedia.org/wiki/Red_Bull "wikilink")2016將正式成為電競領域的合作夥伴，一同為電子競技的發展而努力。
 Red Bull與TSM之間的合作有別於一般支持廠商與電競俱樂部的傳統合作關係。Red Bull不但為TSM 隊伍送上能量，同時Red
 Bull還會將TSM納入全球發展的運動計劃項目中，並且聯同和TSM一起將選手打造成世界級遊戲明星。
@@ -227,7 +227,7 @@ LirA上。在激烈的第2場比賽中，CG反贏得勝利，但TSM看起來仍�
 <td><p>打野</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Bjergsen" title="wikilink">Bjergsen</a></p></td>
+<td><p><a href="../Page/Bjergsen.md" title="wikilink">Bjergsen</a></p></td>
 <td><p>Søren Bjerg</p></td>
 <td></td>
 <td><p>中单</p></td>

@@ -969,7 +969,7 @@
 <tr class="even">
 <td><p>生或死2</p></td>
 <td><p><em>Dead or Alive 2</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Team_Ninja" title="wikilink">Team Ninja</a></p></td>
+<td><p><a href="../Page/Team_Ninja.md" title="wikilink">Team Ninja</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Tecmo" title="wikilink">Tecmo</a></p></td>
 <td></td>
 <td></td>
@@ -1157,7 +1157,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/玩具总动员2：拯救巴斯光年" title="wikilink">玩具总动员2：拯救巴斯光年</a></p></td>
+<td><p><a href="../Page/玩具总动员2：拯救巴斯光年.md" title="wikilink">玩具总动员2：拯救巴斯光年</a></p></td>
 <td><p><em>Disney/Pixar Toy Story 2: Buzz Lightyear to the Rescue</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Activision" title="wikilink">Activision</a></p></td>
@@ -1699,7 +1699,7 @@
 <tr class="odd">
 <td><p>不可思议的迷宫 风来西林外传 女剑士飞鸟见参!</p></td>
 <td><p><em>Fushigi no Dungeon: Furai no Shiren Gaiden: Jokenji Asuka Kenzan!</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Neverland" title="wikilink">Neverland</a></p></td>
+<td><p><a href="../Page/Neverland.md" title="wikilink">Neverland</a></p></td>
 <td><p><a href="../Page/世嘉.md" title="wikilink">世嘉</a></p></td>
 <td></td>
 <td></td>
@@ -3307,7 +3307,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/NBA_2K2" title="wikilink">NBA 2K2</a></p></td>
+<td><p><a href="../Page/NBA_2K2.md" title="wikilink">NBA 2K2</a></p></td>
 <td><p><em>NBA 2K2</em></p></td>
 <td><p><a href="../Page/Visual_Concepts.md" title="wikilink">Visual Concepts</a></p></td>
 <td><p><a href="../Page/世嘉.md" title="wikilink">世嘉</a></p></td>
@@ -4277,7 +4277,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/雷曼2：胜利大逃亡" title="wikilink">雷曼2：胜利大逃亡</a></p></td>
+<td><p><a href="../Page/雷曼2：胜利大逃亡.md" title="wikilink">雷曼2：胜利大逃亡</a></p></td>
 <td><p><em>Rayman 2: The Great Escape</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft_Montpellier" title="wikilink">Ubisoft Montpellier</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ubisoft" title="wikilink">Ubisoft</a></p></td>
@@ -4409,7 +4409,7 @@
 <tr class="even">
 <td><p>罗德岛战记 邪神降临</p></td>
 <td><p><em>Record of Lodoss War: Advent of Cardice</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Neverland" title="wikilink">Neverland</a></p></td>
+<td><p><a href="../Page/Neverland.md" title="wikilink">Neverland</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Conspiracy_Entertainment" title="wikilink">Conspiracy Entertainment</a></p></td>
 <td></td>
 <td></td>
@@ -4627,7 +4627,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/樱花大战4_～恋爱吧少女～" title="wikilink">樱花大战4 ～恋爱吧少女～</a></p></td>
+<td><p><a href="../Page/樱花大战4_～恋爱吧少女～.md" title="wikilink">樱花大战4 ～恋爱吧少女～</a></p></td>
 <td><p><em>Sakura Taisen 4</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/RED_Entertainment" title="wikilink">RED Entertainment</a></p></td>
 <td><p><a href="../Page/世嘉.md" title="wikilink">世嘉</a></p></td>
@@ -4917,7 +4917,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/莎木_一章_橫須賀" title="wikilink">莎木 一章 橫須賀</a></p></td>
+<td><p><a href="../Page/莎木_一章_橫須賀.md" title="wikilink">莎木 一章 橫須賀</a></p></td>
 <td><p><em>Shenmue</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sega_AM2" title="wikilink">Sega AM2</a></p></td>
 <td><p><a href="../Page/世嘉.md" title="wikilink">世嘉</a></p></td>
@@ -5097,7 +5097,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/索尼克大冒险" title="wikilink">索尼克大冒险</a></p></td>
+<td><p><a href="../Page/索尼克大冒险.md" title="wikilink">索尼克大冒险</a></p></td>
 <td><p><em>Sonic Adventure</em></p></td>
 <td><p><a href="../Page/Sonic_Team.md" title="wikilink">Sonic Team</a></p></td>
 <td><p><a href="../Page/世嘉.md" title="wikilink">世嘉</a></p></td>
@@ -5259,7 +5259,7 @@
 <tr class="odd">
 <td><p>星球大战 绝地武士</p></td>
 <td><p><em>Star Wars Episode I: Jedi Power Battles</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td><p>LucasArts</p></td>
 <td></td>
 <td></td>
@@ -5269,7 +5269,7 @@
 <tr class="even">
 <td><p>星球大战前传 竞速赛车</p></td>
 <td><p><em>Star Wars Episode I Racer</em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td><p>LucasArts</p></td>
 <td></td>
 <td></td>
@@ -5280,7 +5280,7 @@
 <td><p>星球大战激战篇</p></td>
 <td><p><em>Star Wars: Demolition</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Luxoflux,_Inc." title="wikilink">Luxoflux, Inc.</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -5767,7 +5767,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/古墓丽影：最后的启示" title="wikilink">古墓丽影：最后的启示</a></p></td>
+<td><p><a href="../Page/古墓丽影：最后的启示.md" title="wikilink">古墓丽影：最后的启示</a></p></td>
 <td><p><em>Tomb Raider: The Last Revelation</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Core_Design" title="wikilink">Core Design</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Eidos_Interactive" title="wikilink">Eidos Interactive</a></p></td>

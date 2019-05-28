@@ -11,7 +11,7 @@ show遊戲樂樂**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wik
 
 ### 希澈遊戲團
 
-〈希澈遊戲團〉以希澈為監督，洪榛浩和李陳鎬為教練，帶領團員接觸不同種類的遊戲，或接受來自世界各好手的遊戲挑戰進行。為招募節目成員，希澈在音樂節目待機室等偶像歌手經常出現的地方，張貼海報，吸引對熱愛遊戲的偶像參與選拔。目前選拔出的團員為[孔燦](https://zh.wikipedia.org/wiki/孔燦 "wikilink")([B1A4](../Page/B1A4.md "wikilink"))、[崔鍾訓](../Page/崔鍾訓.md "wikilink")([FTIsland](../Page/FTIsland.md "wikilink"))、[宰孝](../Page/宰孝.md "wikilink")([Block
+〈希澈遊戲團〉以希澈為監督，洪榛浩和李陳鎬為教練，帶領團員接觸不同種類的遊戲，或接受來自世界各好手的遊戲挑戰進行。為招募節目成員，希澈在音樂節目待機室等偶像歌手經常出現的地方，張貼海報，吸引對熱愛遊戲的偶像參與選拔。目前選拔出的團員為[孔燦](../Page/孔燦.md "wikilink")([B1A4](../Page/B1A4.md "wikilink"))、[崔鍾訓](../Page/崔鍾訓.md "wikilink")([FTIsland](../Page/FTIsland.md "wikilink"))、[宰孝](../Page/宰孝.md "wikilink")([Block
 B](../Page/Block_B.md "wikilink"))、[熹哲](../Page/熹哲.md "wikilink")([ZE:A](../Page/ZE:A.md "wikilink"))、[宇信](https://zh.wikipedia.org/wiki/宇信 "wikilink")([UP10TION](../Page/UP10TION.md "wikilink"))及金有真([KNK](https://zh.wikipedia.org/wiki/KNK "wikilink"))。
 
 ### 遊戲排位show！

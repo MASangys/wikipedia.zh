@@ -11,8 +11,8 @@
 | [性向](../Page/性取向.md "wikilink")                                                  | 性取向、性倾向   | 指一个人在情感、浪漫、与性上对男性及女性有何种型态的耐久吸引。                                                                 |
 | [同性恋](https://zh.wikipedia.org/wiki/同性恋 "wikilink")                              | 同性向、同性之恋  | 性取向的一种，指相同性别的人之间产生的爱慕、情感及性爱行为。                                                                  |
 | [異性戀](https://zh.wikipedia.org/wiki/異性戀 "wikilink")                              | 異性向       | 一種只喜歡異性的性取向。                                                                                    |
-| [男性向](https://zh.wikipedia.org/wiki/男性向 "wikilink")                              |           | 性取向的一种，是指在情感、心理、性爱方面对男性产生爱慕倾向的一群人。                                                              |
-| [女性向](https://zh.wikipedia.org/wiki/女性向 "wikilink")                              |           | 性取向的一种，是指在情感、心理、性爱方面对女性产生爱慕倾向的一群人。                                                              |
+| [男性向](../Page/男性向.md "wikilink")                                                 |           | 性取向的一种，是指在情感、心理、性爱方面对男性产生爱慕倾向的一群人。                                                              |
+| [女性向](../Page/女性向.md "wikilink")                                                 |           | 性取向的一种，是指在情感、心理、性爱方面对女性产生爱慕倾向的一群人。                                                              |
 | [雙性向](https://zh.wikipedia.org/wiki/雙性向 "wikilink")                              | 雙性戀       | 一種同時喜歡男性、女性的性取向。                                                                                |
 | [無性向](https://zh.wikipedia.org/wiki/無性向 "wikilink")                              | 無性戀       | 一種不喜歡任何性別的性取向。                                                                                  |
 | [同人](https://zh.wikipedia.org/wiki/同人 "wikilink")                                | 同性恋者      | 指同性恋者。其中男性同性恋者称为同男，女性同性恋者称为同女。                                                                  |
@@ -80,8 +80,8 @@
 | [Twink](https://zh.wikipedia.org/wiki/Twink "wikilink")                 | 年轻可爱的男同志，小鮮肉。                                                                   |
 | [Top](../Page/攻受.md "wikilink")                                         | 男同志中的攻者。                                                                        |
 | [Bottom](../Page/攻受.md "wikilink")                                      | 男同志中的受者。                                                                        |
-| [Butch](https://zh.wikipedia.org/wiki/頂底 "wikilink")                    | 女同志中的顶者。                                                                        |
-| [Femme](https://zh.wikipedia.org/wiki/頂底 "wikilink")                    | 女同志中的底者。                                                                        |
+| [Butch](../Page/頂底.md "wikilink")                                       | 女同志中的顶者。                                                                        |
+| [Femme](../Page/頂底.md "wikilink")                                       | 女同志中的底者。                                                                        |
 | [Queer](https://zh.wikipedia.org/wiki/Queer "wikilink")                 | 怪人，也指LGBT族群。                                                                    |
 | [LGBT](../Page/LGBT.md "wikilink")                                      | 彩虹族群，是用来指称女同性恋者（Lesbians）、男同性恋者（Gays）、双性恋者（Bisexuals）与跨性别者（Transgender）的一个集合用语。 |
 | [Gaydar](https://zh.wikipedia.org/wiki/Gaydar "wikilink")               | gay+radar，同志雷达。意指人的一种能力，一种象蝙蝠那样能发出超声波的能力，只要对别人扫上一眼，就能看透对方是不是同志。                 |

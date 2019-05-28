@@ -46,7 +46,7 @@ Choice Top10 | |- | Mwave Global Fans' Choice | 《DRAMARAMA》 | |- |
 
 |- |2015年 |Best Audience Rating Stage\[5\] |MONSTA X | |}
 
-### [Soribada最佳音樂大獎](https://zh.wikipedia.org/wiki/Soribada最佳音樂大獎 "wikilink")
+### [Soribada最佳音樂大獎](../Page/Soribada最佳音樂大獎.md "wikilink")
 
 |- |2017年 |rowspan="2" |本賞 |rowspan="3" |MONSTA X | |- |rowspan="2"
 |2018年 | |- |新韓流藝人賞 | |}

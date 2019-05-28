@@ -1,6 +1,6 @@
 是[日本Falcom所製作的一系列](../Page/日本Falcom.md "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")。首作《[伊苏
 失落的伊苏古国
-序章](../Page/伊苏_失落的伊苏古国_序章.md "wikilink")》於1987年在家用電腦[PC-8801上推出](https://zh.wikipedia.org/wiki/PC-8801 "wikilink")，後来發展到多個遊戲平台上。
+序章](../Page/伊苏_失落的伊苏古国_序章.md "wikilink")》於1987年在家用電腦[PC-8801上推出](../Page/PC-8801.md "wikilink")，後来發展到多個遊戲平台上。
 
 ## 作品
 

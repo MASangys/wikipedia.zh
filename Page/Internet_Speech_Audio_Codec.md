@@ -20,7 +20,7 @@ Solutions授权的[专有编解码器](https://zh.wikipedia.org/wiki/专有 "wik
 
   - [iLBC](https://zh.wikipedia.org/wiki/iLBC "wikilink")
   - [Opus codec](https://zh.wikipedia.org/wiki/Opus_codec "wikilink")
-  - [SILK](https://zh.wikipedia.org/wiki/SILK "wikilink")
+  - [SILK](../Page/SILK.md "wikilink")
   - [G.722](https://zh.wikipedia.org/wiki/G.722 "wikilink")
   - [Speex](https://zh.wikipedia.org/wiki/Speex "wikilink")
   - [编解码器列表](https://zh.wikipedia.org/wiki/编解码器列表 "wikilink")

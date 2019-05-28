@@ -46,7 +46,7 @@ Signal (하트시그널)》。
 
 6月24日，透過官方SNS公開Yuju將於29日發首張單曲專輯的預告。公開的預告圖中畫有一朵淋著雨的紅色花朵，上方寫有Yuju的名字，但單曲名稱、風格和伴唱歌手的身份尚未公開，讓粉絲十分好奇與期待。
 
-27日，GFRIEND透過官方SNS正式公開資訊，Yuju將於與[Suran](https://zh.wikipedia.org/wiki/Suran "wikilink")（申秀蘭）合作新曲《Love
+27日，GFRIEND透過官方SNS正式公開資訊，Yuju將於與[Suran](../Page/Suran.md "wikilink")（申秀蘭）合作新曲《Love
 Rain》，本次的《Love Rain》是Yuju在出道後首次以個人名義發行的單曲。28日，《Love Rain》的歌詞版預告短片，Yuju
 溫柔清亮的歌聲和 Suran 沙啞中略帶稚氣的獨特音質既能鮮明獨立也能完美融合。 由知名製作人 EDEN 創作的 "Love Rain"
 是一首奠基在 swing 風格上的中板 R\&B 歌曲，藉由傾瀉而下的大雨比喻以不同態度面對愛情的女子。
@@ -135,7 +135,7 @@ This Song》是一首由簡潔的鋼琴旋律組合而成的抒情曲，歌詞�
 <td><p>2017年12月5日</p></td>
 <td><p>《CHERISH》</p></td>
 <td><p>첫사랑</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Jung_Key" title="wikilink">정키(Jung Key)</a></p></td>
+<td><p><a href="../Page/Jung_Key.md" title="wikilink">정키(Jung Key)</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

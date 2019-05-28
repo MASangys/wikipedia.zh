@@ -18,7 +18,7 @@
 
   - 2DK、G筆、鬧鐘。（大澤彌生）
 
-  - [立花館戀愛三角關係](https://zh.wikipedia.org/wiki/立花館戀愛三角關係 "wikilink")（merryhachi）
+  - [立花館戀愛三角關係](../Page/立花館戀愛三角關係.md "wikilink")（merryhachi）
 
   - 月色真美啊（）
 
@@ -30,7 +30,7 @@
 
   - 繽紛獸耳繪！（廣瀨圓）
 
-  - [天使降臨到我身邊！](https://zh.wikipedia.org/wiki/天使降臨到我身邊！ "wikilink")（）
+  - [天使降臨到我身邊！](../Page/天使降臨到我身邊！.md "wikilink")（）
 
   - 同居生活六+一（梅原梅）
 

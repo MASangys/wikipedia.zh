@@ -1,17 +1,17 @@
 **意晴**（**Sunny
 Idea**），[香港](../Page/香港.md "wikilink")[唱片公司成立於](../Page/唱片公司.md "wikilink")2013年
 及**HKonlineTV**
-網絡電視成立於2014年。公司現時主要負責[歌手和](../Page/歌手.md "wikilink")[藝人經紀業務](https://zh.wikipedia.org/wiki/藝人 "wikilink")，旗下著名歌手和藝人包括[王灝兒](../Page/王灝兒.md "wikilink")、[關楚耀](../Page/關楚耀.md "wikilink")、[董嘉儀等](https://zh.wikipedia.org/wiki/董嘉儀 "wikilink")。
+網絡電視成立於2014年。公司現時主要負責[歌手和](../Page/歌手.md "wikilink")[藝人經紀業務](https://zh.wikipedia.org/wiki/藝人 "wikilink")，旗下著名歌手和藝人包括[王灝兒](../Page/王灝兒.md "wikilink")、[關楚耀](../Page/關楚耀.md "wikilink")、[董嘉儀等](../Page/董嘉儀.md "wikilink")。
 
 ## 旗下藝人
 
-| **歌手**                                              |
-| --------------------------------------------------- |
-| [王灝兒](../Page/王灝兒.md "wikilink")                    |
-| **藝人**                                              |
-| [董嘉儀](https://zh.wikipedia.org/wiki/董嘉儀 "wikilink") |
-| 關美薇                                                 |
-|                                                     |
+| **歌手**                           |
+| -------------------------------- |
+| [王灝兒](../Page/王灝兒.md "wikilink") |
+| **藝人**                           |
+| [董嘉儀](../Page/董嘉儀.md "wikilink") |
+| 關美薇                              |
+|                                  |
 
 ## 旗下產品
 
@@ -72,7 +72,7 @@ Idea**），[香港](../Page/香港.md "wikilink")[唱片公司成立於](../Pag
 </tr>
 <tr class="even">
 <td><p><a href="../Page/王灝兒.md" title="wikilink">王灝兒</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/My_Tale" title="wikilink">My Tale</a></p></td>
+<td><p><a href="../Page/My_Tale.md" title="wikilink">My Tale</a></p></td>
 <td><p>7月18日</p></td>
 <td><p>矛盾一生</p></td>
 <td><p>多少年</p></td>

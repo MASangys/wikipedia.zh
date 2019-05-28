@@ -65,7 +65,7 @@ RECORDS發行。
     <!-- end list -->
       - 30th單曲第一首
       - [錦戸亮主演](https://zh.wikipedia.org/wiki/錦戸亮 "wikilink")
-        [TBS周日劇場](../Page/TBS.md "wikilink")「[對不起青春！](https://zh.wikipedia.org/wiki/對不起青春！ "wikilink")」主題曲
+        [TBS周日劇場](../Page/TBS.md "wikilink")「[對不起青春！](../Page/對不起青春！.md "wikilink")」主題曲
 14. **ふりむくわけにはいかないぜ**
       -
         作詞・作曲：[山口隆](https://zh.wikipedia.org/wiki/サンボマスター "wikilink")、編曲：Peach

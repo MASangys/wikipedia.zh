@@ -1,5 +1,5 @@
 《**Anne
-Happy♪**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[琴慈的](https://zh.wikipedia.org/wiki/琴慈 "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，於[芳文社雜誌](../Page/芳文社.md "wikilink")《[漫畫時間Kirara
+Happy♪**》是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[琴慈的](../Page/琴慈.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，於[芳文社雜誌](../Page/芳文社.md "wikilink")《[漫畫時間Kirara
 Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》2013年2月號\[1\]開始連載至2019年1月號\[2\]\[3\]。共出版10冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")\[4\]，台灣和香港[東立均已出版第](https://zh.wikipedia.org/wiki/東立 "wikilink")1冊\[5\]\[6\]。由[SILVER
 LINK.負責動畫製作的](../Page/SILVER_LINK..md "wikilink")[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2016年4月7日起陸續由[AT-X等電視台開始播放](../Page/AT-X.md "wikilink")。有时也被翻译成《**Unhappy♪**》
 ，其中Anne来自于主角花小泉杏的名字。
@@ -168,10 +168,9 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[京都放送](../Page/
 
 ### 製作人員
 
-  - 原作：[琴慈](https://zh.wikipedia.org/wiki/琴慈 "wikilink")（芳文社《Manga Time
-    Kirara Forward》連載）
+  - 原作：[琴慈](../Page/琴慈.md "wikilink")（芳文社《Manga Time Kirara Forward》連載）
   - 監督：[大沼心](../Page/大沼心.md "wikilink")
-  - 系列構成：[田中仁](https://zh.wikipedia.org/wiki/田中仁 "wikilink")
+  - 系列構成：[田中仁](../Page/田中仁.md "wikilink")
   - 角色設計、總作畫監督：[大島美和](https://zh.wikipedia.org/wiki/大島美和 "wikilink")
   - 音樂：MONACA
   - 動畫製作：[SILVER LINK.](../Page/SILVER_LINK..md "wikilink")
@@ -253,7 +252,7 @@ Clover［花小泉杏（花守由美里）、雲雀丘瑠璃（白石晴香）�
 <td><p>原友樹、重松佐和子<br />
 丹羽信禮、井嶋惠子<br />
 山犬守</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/荒井切利" title="wikilink">荒井切利</a></p></td>
+<td><p><a href="../Page/荒井切利.md" title="wikilink">荒井切利</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -274,7 +273,7 @@ Clover［花小泉杏（花守由美里）、雲雀丘瑠璃（白石晴香）�
 <td><p>日下直義</p></td>
 <td><p>佐佐木萌、野本正幸<br />
 </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/牛木義隆" title="wikilink">牛木義隆</a></p></td>
+<td><p><a href="../Page/牛木義隆.md" title="wikilink">牛木義隆</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -298,7 +297,7 @@ Clover［花小泉杏（花守由美里）、雲雀丘瑠璃（白石晴香）�
 <td><p>日下直義</p></td>
 <td><p>野本正幸、佐佐木萌<br />
 本田辰雄、</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/千葉鞍" title="wikilink">千葉鞍</a></p></td>
+<td><p><a href="../Page/千葉鞍.md" title="wikilink">千葉鞍</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第七話</p></td>
@@ -369,7 +368,7 @@ Clover［花小泉杏（花守由美里）、雲雀丘瑠璃（白石晴香）�
 小川一郎、木下由美子<br />
 服部憲知、若山政志<br />
 野田惠</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/琴慈" title="wikilink">琴慈</a></p></td>
+<td><p><a href="../Page/琴慈.md" title="wikilink">琴慈</a></p></td>
 <td></td>
 </tr>
 </tbody>

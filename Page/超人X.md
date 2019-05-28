@@ -230,8 +230,8 @@ Noxious event Versus Earth Ranger）裏，擔任實際活動角色的防衛隊�
 <td><p>男主角。變身(即一體化)成為超人X的少年。</p>
 <p>Xio日本分部的研究開發部門「研究隊」的研究員，同時也作為Xio特搜隊員參加與怪獸的實戰。好奇心旺盛的行動派。 在最前線戰鬥的同時，也擁有能夠不打倒怪獸，與怪獸共存的夢想。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/潘昀雋" title="wikilink">潘昀雋</a><br />
-<small>童年：<a href="https://zh.wikipedia.org/wiki/簡森" title="wikilink">簡森</a></small></p></td>
+<p><a href="../Page/潘昀雋.md" title="wikilink">潘昀雋</a><br />
+<small>童年：<a href="../Page/簡森.md" title="wikilink">簡森</a></small></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/夏侯落楓" title="wikilink">夏侯落楓</a></p></td>
 </tr>
@@ -244,7 +244,7 @@ Noxious event Versus Earth Ranger）裏，擔任實際活動角色的防衛隊�
 <td><p>女主角。擅長格鬥技及地面戰的實戰隊員，駕駛浮游戰車型特殊機械「裂地火槍手」。</p>
 <p>大地的「護衛」、搭檔。有著對時尚及甜點感興趣的少女一面。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/成樂怡" title="wikilink">成樂怡</a></p></td>
+<p><a href="../Page/成樂怡.md" title="wikilink">成樂怡</a></p></td>
 <td><center>
 <p><a href="../Page/山新.md" title="wikilink">山新</a></p></td>
 </tr>
@@ -284,7 +284,7 @@ Noxious event Versus Earth Ranger）裏，擔任實際活動角色的防衛隊�
 <td><p>研究隊的年輕天才科學家。</p>
 <p>隨和溫柔的理系男子，不會輕易顯露自己的情緒。與同為研究員的大空大地意氣相投。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/竺諺鴻" title="wikilink">竺諺鴻</a></p></td>
+<p><a href="../Page/竺諺鴻.md" title="wikilink">竺諺鴻</a></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/笑談" title="wikilink">笑談</a></p></td>
 </tr>
@@ -323,7 +323,7 @@ Noxious event Versus Earth Ranger）裏，擔任實際活動角色的防衛隊�
 <td><p>於Xio作戰本部負責管制．通信等的通訊員。</p>
 <p>與同樣喜好音樂的山岸健意氣相投，在公在私也是好拍檔。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/簡森" title="wikilink">簡森</a></p></td>
+<p><a href="../Page/簡森.md" title="wikilink">簡森</a></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/張予佟" title="wikilink">張予佟</a></p></td>
 </tr>
@@ -349,7 +349,7 @@ Noxious event Versus Earth Ranger）裏，擔任實際活動角色的防衛隊�
 <td><p>率領Xio日本分部的隊長，擁有強大的「並非打倒敵人，而是理解敵人」的信念。</p>
 <p>在面對不得不與人類威脅的怪獸戰鬥的現實，同時也不放棄理解及共存，讓大空大地有所同感。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/蔡忠衛" title="wikilink">蔡忠衛</a></p></td>
+<p><a href="../Page/蔡忠衛.md" title="wikilink">蔡忠衛</a></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/寶木中陽" title="wikilink">寶木中陽</a></p></td>
 </tr>
@@ -389,7 +389,7 @@ Noxious event Versus Earth Ranger）裏，擔任實際活動角色的防衛隊�
 <td><p>能夠把自己數據化，寄宿於設備「X終端」的超人。</p>
 <p>與Xio隊員大空大地進行一體化，從而變成實體。透過裝備Xio研究隊研發的「電腦怪獸裝甲」，得到更強大的力量。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/竺諺鴻" title="wikilink">竺諺鴻</a></p></td>
+<p><a href="../Page/竺諺鴻.md" title="wikilink">竺諺鴻</a></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/楊天翔" title="wikilink">楊天翔</a></p></td>
 </tr>
@@ -408,7 +408,7 @@ Noxious event Versus Earth Ranger）裏，擔任實際活動角色的防衛隊�
 <td><p>科學家。Xio研究隊的特別顧問，超線程技術項目的開發者。與人類友好的快樂外星人。好奇心強，喜歡發明。精通宇宙怪獸和外星人的情報。</p>
 <p>梵頓星人對進餐是一個相當神聖的行為，有飯前通過舞蹈儀式為城市祈福，而飯後去睡覺的習慣。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/蔡忠衛" title="wikilink">蔡忠衛</a></p></td>
+<p><a href="../Page/蔡忠衛.md" title="wikilink">蔡忠衛</a></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/圖特哈蒙" title="wikilink">圖特哈蒙</a></p></td>
 </tr>
@@ -446,7 +446,7 @@ Noxious event Versus Earth Ranger）裏，擔任實際活動角色的防衛隊�
 <p>不詳</p></td>
 <td><p>假裝成兩個月前逝世的美容院負責人，間伏涼子，背後是個神秘的女子。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黎皓宜" title="wikilink">黎皓宜</a></p></td>
+<p><a href="../Page/黎皓宜.md" title="wikilink">黎皓宜</a></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/楊希" title="wikilink">楊希</a></p></td>
 </tr>
@@ -462,7 +462,7 @@ Noxious event Versus Earth Ranger）裏，擔任實際活動角色的防衛隊�
 <p>不詳</p></td>
 <td><p>宇宙警備隊超人，擁有能夠穿越次元的能力。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/蔡忠衛" title="wikilink">蔡忠衛</a></p></td>
+<p><a href="../Page/蔡忠衛.md" title="wikilink">蔡忠衛</a></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/郭盛_(配音)" title="wikilink">郭盛</a></p></td>
 </tr>
@@ -478,7 +478,7 @@ tE・rU</p></td>
 <td><p>非常友好，失去過去記憶的青年。</p>
 <p>真正身份為高德星王子，家鄉被ガーゴルゴン摧毀。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/蔡忠衛" title="wikilink">蔡忠衛</a></p></td>
+<p><a href="../Page/蔡忠衛.md" title="wikilink">蔡忠衛</a></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/皇貞季" title="wikilink">皇貞季</a></p></td>
 </tr>
@@ -526,7 +526,7 @@ tE・rU</p></td>
 <td><center>
 <p><a href="../Page/譚漢華.md" title="wikilink">譚漢華</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/郭浩然" title="wikilink">郭浩然</a><br />
+<p><a href="../Page/郭浩然.md" title="wikilink">郭浩然</a><br />
 (當麻博士)<br />
 <a href="https://zh.wikipedia.org/wiki/笑談" title="wikilink">笑談</a><br />
 (古華伊拉)</p></td>
@@ -545,7 +545,7 @@ tE・rU</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/戴倫" title="wikilink">戴倫</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/郭浩然" title="wikilink">郭浩然</a></p></td>
+<p><a href="../Page/郭浩然.md" title="wikilink">郭浩然</a></p></td>
 </tr>
 <tr class="odd">
 <td><center></td>
@@ -585,7 +585,7 @@ tE・rU</p></td>
 <td><p>不會進行侵略，和地球人和平相處的外星人。</p>
 <p>於星雲莊租住。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/竺諺鴻" title="wikilink">竺諺鴻</a></p></td>
+<p><a href="../Page/竺諺鴻.md" title="wikilink">竺諺鴻</a></p></td>
 <td><center></td>
 </tr>
 <tr class="even">
@@ -599,7 +599,7 @@ tE・rU</p></td>
 <td><center>
 <p>不詳</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/蔡忠衛" title="wikilink">蔡忠衛</a></p></td>
+<p><a href="../Page/蔡忠衛.md" title="wikilink">蔡忠衛</a></p></td>
 <td><center></td>
 <td></td>
 </tr>
@@ -689,7 +689,7 @@ tE・rU</p></td>
 <td><p>在扭曲的黑暗宇宙誕生的惡魔。<br />
 與莫魯多亡靈和朱達亡靈組成三為一體的古亞亡靈。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黎皓宜" title="wikilink">黎皓宜</a></p></td>
+<p><a href="../Page/黎皓宜.md" title="wikilink">黎皓宜</a></p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/小連殺" title="wikilink">小連殺</a></p></td>
 </tr>
@@ -787,7 +787,7 @@ tE・rU</p></td>
 <p>9</p></td>
 <td><p>忘不了跟皮古蒙的友誼，心地善良的小女孩。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黎皓宜" title="wikilink">黎皓宜</a></p></td>
+<p><a href="../Page/黎皓宜.md" title="wikilink">黎皓宜</a></p></td>
 <td><center>
 <p><a href="../Page/新月冰冰.md" title="wikilink">新月冰冰</a></p></td>
 </tr>
@@ -800,7 +800,7 @@ tE・rU</p></td>
 <p>24</p></td>
 <td><p>風間渡的青梅竹馬。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黎皓宜" title="wikilink">黎皓宜</a></p></td>
+<p><a href="../Page/黎皓宜.md" title="wikilink">黎皓宜</a></p></td>
 <td><center>
 <p><a href="../Page/C小调_(配音演员).md" title="wikilink">C小調</a></p></td>
 </tr>
@@ -828,7 +828,7 @@ tE・rU</p></td>
 <p>不適用</p></td>
 <td><p>Xio作戰本部的廣播語音。</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黎皓宜" title="wikilink">黎皓宜</a></p></td>
+<p><a href="../Page/黎皓宜.md" title="wikilink">黎皓宜</a></p></td>
 <td><center></td>
 </tr>
 </tbody>

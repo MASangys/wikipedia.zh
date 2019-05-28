@@ -102,7 +102,7 @@
 <td><p>0勝1敗</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Yangpa" title="wikilink">Yangpa</a></p></td>
+<td><p><a href="../Page/Yangpa.md" title="wikilink">Yangpa</a></p></td>
 <td><p>第17集</p></td>
 <td><p>0勝1敗</p></td>
 </tr>
@@ -146,7 +146,7 @@
 
 神的聲音：尹度玹、朴正炫、GUMMY、金朝翰、薛雲道。
 
-藝人陪審團：[金永哲](https://zh.wikipedia.org/wiki/金永哲_\(藝人\) "wikilink")、[黃光熙](../Page/黃光熙.md "wikilink")([ZE:A](../Page/ZE:A.md "wikilink"))、小百合、娜璉,
+藝人陪審團：[金永哲](../Page/金永哲_\(藝人\).md "wikilink")、[黃光熙](../Page/黃光熙.md "wikilink")([ZE:A](../Page/ZE:A.md "wikilink"))、小百合、娜璉,
 Mina,
 彩瑛([Twice](https://zh.wikipedia.org/wiki/TWICE "wikilink"))、[洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、Muzie(UV)、藝正花。
 
@@ -180,7 +180,7 @@ Mina,
 <td><p>全夏英</p></td>
 <td><p>學生</p></td>
 <td><p>少女<br />
-( <a href="https://zh.wikipedia.org/wiki/李文世" title="wikilink">李文世</a> )</p></td>
+( <a href="../Page/李文世.md" title="wikilink">李文世</a> )</p></td>
 <td><p>抓住今夜的尾巴<br />
 ( <a href="https://zh.wikipedia.org/wiki/Solid" title="wikilink">Solid</a> )</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金朝翰" title="wikilink">金朝翰</a></p></td>
@@ -306,7 +306,7 @@ Sorry Sory ( <a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>
 
 神的聲音：尹度玹、朴正炫、GUMMY、金朝翰、薛雲道。
 
-藝人陪審團：Muzie(UV)、[Sunny](../Page/Sunny_\(少女時代\).md "wikilink")(SNSD)、[許齡智](../Page/許齡智.md "wikilink")(Kara)、珍率(April)、康男、金智珉、洪錫天、[梁世炯](https://zh.wikipedia.org/wiki/梁世炯 "wikilink")。
+藝人陪審團：Muzie(UV)、[Sunny](../Page/Sunny_\(少女時代\).md "wikilink")(SNSD)、[許齡智](../Page/許齡智.md "wikilink")(Kara)、珍率(April)、康男、金智珉、洪錫天、[梁世炯](../Page/梁世炯.md "wikilink")。
 
 <table style="width:250%;">
 <colgroup>
@@ -376,7 +376,7 @@ Rough ( <a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a> )</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金朝翰" title="wikilink">金朝翰</a></p></td>
 <td><p>Kissing You ( <a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a> )<br />
 姐姐真漂亮 ( <a href="../Page/SHINee.md" title="wikilink">SHINee</a> )<br />
-貪心鬼 ( <a href="https://zh.wikipedia.org/wiki/沈信" title="wikilink">沈信</a> )<br />
+貪心鬼 ( <a href="../Page/沈信.md" title="wikilink">沈信</a> )<br />
 給我的男朋友 ( <a href="https://zh.wikipedia.org/wiki/Fin.K.L" title="wikilink">Fin.K.L</a> )</p></td>
 <td><p>Kissing You<br />
 ( <a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a> )</p></td>
@@ -726,7 +726,7 @@ velvet)、沈賢甫、Muzie(UV)。
 <tr class="odd">
 <td><p>徐泰和</p></td>
 <td><p>演員</p></td>
-<td><p>幸好有你 （<a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛</a>）</p></td>
+<td><p>幸好有你 （<a href="../Page/李笛.md" title="wikilink">李笛</a>）</p></td>
 <td><p>*第一輪淘汰</p></td>
 <td><p>不適用</p></td>
 <td><p>不適用</p></td>
@@ -809,7 +809,7 @@ velvet)、沈賢甫、Muzie(UV)。
 <td><p><a href="../Page/尹度玹.md" title="wikilink">尹度玹</a></p></td>
 <td><p>你知道嗎 ( <a href="../Page/曹誠模.md" title="wikilink">曹誠模</a> ) 善良的愛情 ( <a href="../Page/金旻鍾.md" title="wikilink">金旻鍾</a> )</p>
 <p>就像第一次感覺到的那樣</p>
-<p>( <a href="https://zh.wikipedia.org/wiki/李素羅" title="wikilink">李素羅</a> )</p>
+<p>( <a href="../Page/李素羅.md" title="wikilink">李素羅</a> )</p>
 <p>在街上 ( <a href="../Page/成始璄.md" title="wikilink">成始璄</a> )</p></td>
 <td><p>在街上</p>
 <p>( <a href="../Page/成始璄.md" title="wikilink">成始璄</a> )</p></td>
@@ -885,7 +885,7 @@ velvet)、沈賢甫、Muzie(UV)。
 <tr class="even">
 <td><p>Terris Brown</p></td>
 <td></td>
-<td><p>在雨中 （<a href="https://zh.wikipedia.org/wiki/李文世" title="wikilink">李文世</a>）</p></td>
+<td><p>在雨中 （<a href="../Page/李文世.md" title="wikilink">李文世</a>）</p></td>
 <td><p>*第一輪淘汰</p></td>
 <td><p>不適用</p></td>
 <td><p>不適用</p></td>

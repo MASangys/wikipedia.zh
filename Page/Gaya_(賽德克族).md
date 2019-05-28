@@ -2,7 +2,7 @@
 
 ## 範例
 
-  - 族人在[狩獵前必須在](../Page/狩獵.md "wikilink")[森林中諦聽](../Page/森林.md "wikilink")[靈鳥Sisin叫聲進行](https://zh.wikipedia.org/wiki/繡眼畫眉 "wikilink")[鳥占](https://zh.wikipedia.org/wiki/鳥占 "wikilink")，以[占卜吉凶](../Page/占卜.md "wikilink")。
+  - 族人在[狩獵前必須在](../Page/狩獵.md "wikilink")[森林中諦聽](../Page/森林.md "wikilink")[靈鳥Sisin叫聲進行](https://zh.wikipedia.org/wiki/繡眼畫眉 "wikilink")[鳥占](../Page/鳥占.md "wikilink")，以[占卜吉凶](../Page/占卜.md "wikilink")。
   - 族人必須定期舉行墾祭、播種祭、除草祭、收割祭、新穀入倉祭，間有敵首祭等[歲時祭儀](https://zh.wikipedia.org/wiki/歲時祭儀 "wikilink")，以向祖靈祈福。
   - 族人在死後有[文面者方得通過祖靈橋Hakaw](https://zh.wikipedia.org/wiki/文面 "wikilink")
     Utux，以回歸祖靈地。

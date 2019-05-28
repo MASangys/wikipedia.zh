@@ -1,7 +1,7 @@
 **YouTube Premium**（前称：**YouTube Red**、**Music
 Key**），是一个提供给[美国](../Page/美国.md "wikilink")、[澳大利亚](../Page/澳大利亚.md "wikilink")、[墨西哥](../Page/墨西哥.md "wikilink")、[新西兰](../Page/新西兰.md "wikilink")、[大韩民国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")、[日本](../Page/日本.md "wikilink")、[中南美洲地區以及](https://zh.wikipedia.org/wiki/中南美洲 "wikilink")[歐洲地區等多個國家的](https://zh.wikipedia.org/wiki/歐洲 "wikilink")[YouTube付费](../Page/YouTube.md "wikilink")[流媒体](../Page/流媒体.md "wikilink")\[1\]。它提供的功能有：沒有广告的YouTube影片播放、使用移动设备离线播放及后台播放影片（僅應用程式）、通过[YouTube
-Music免广告播放音乐](https://zh.wikipedia.org/wiki/YouTube_Music "wikilink")，以及观看《YouTube
-Red Originals》的系列节目和电影的权限\[2\]。
+Music免广告播放音乐](../Page/YouTube_Music.md "wikilink")，以及观看《YouTube Red
+Originals》的系列节目和电影的权限\[2\]。
 
 该服务最初于2014年11月以Music Key为名启用，用户能免广告播放参与了YouTube和Google
 Play音乐的[唱片公司制作的音乐和](../Page/唱片公司.md "wikilink")[音乐录像内容](https://zh.wikipedia.org/wiki/音乐录像 "wikilink")\[3\]\[4\]\[5\]。在一番调整之后，此服务于2015年10月31日以YouTube
@@ -42,7 +42,7 @@ Red重启，这次将范围扩大到提供所有YouTube影片的免广告观看�
 Red扩展至[大韩民国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")\[24\]。
 
 2018年5月17日，YouTube在宣布[YouTube
-Music将会作为各别的订阅音乐服务将会重启的同时](https://zh.wikipedia.org/wiki/YouTube_Music "wikilink")，他们也宣布此服务将会更名为**YouTube
+Music将会作为各别的订阅音乐服务将会重启的同时](../Page/YouTube_Music.md "wikilink")，他们也宣布此服务将会更名为**YouTube
 Premium**。YouTube也宣布服务价格将会从每个月9.99美元涨至11.99美元，并且也让加拿大和13个欧洲市场（包括[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")、[丹麦](https://zh.wikipedia.org/wiki/丹麦 "wikilink")、[芬兰](../Page/芬兰.md "wikilink")、[法国](https://zh.wikipedia.org/wiki/法国 "wikilink")、[德国](../Page/德国.md "wikilink")、[爱尔兰](../Page/爱尔兰.md "wikilink")、[意大利](../Page/意大利.md "wikilink")、[挪威](../Page/挪威.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")、[西班牙](../Page/西班牙.md "wikilink")、[瑞士和](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")）用户能够使用\[25\]\[26\]。
 
 ## 功能

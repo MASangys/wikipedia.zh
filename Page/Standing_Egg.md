@@ -235,30 +235,30 @@
 
 ### 单曲
 
-|                                                                                                                                       |                                                                                                                                                                                               |                                  |
-| ------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| 年份                                                                                                                                    | 曲名                                                                                                                                                                                            | 收錄專輯                             |
-| 2013年                                                                                                                                 | 넌 이별 난 아직 (你離去我仍在)（Feat.[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")、[華莎](https://zh.wikipedia.org/wiki/華莎 "wikilink") of [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")） | \-                               |
-| 2014年                                                                                                                                 | 내게기대 (依靠著我)（Feat.[朴世榮](../Page/朴世榮.md "wikilink")）                                                                                                                                            | The Artist Diary Project Part.8  |
-| 햇살이 아파 (刺眼的陽光)（Feat.[輝人](https://zh.wikipedia.org/wiki/輝人 "wikilink") of [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")） | The Artist Diary Project Part.10                                                                                                                                                              |                                  |
-| 2016年                                                                                                                                 | 무지개（彩虹）（Feat.윤닭 of 오브로젝트）                                                                                                                                                                     | The Artist Diary Project Part.12 |
-| 2017年                                                                                                                                 | Those were the days（Feat.오브로젝트）                                                                                                                                                               | Those were the days              |
-| First Love                                                                                                                            | First Love                                                                                                                                                                                    |                                  |
-| 2018年                                                                                                                                 | 小確幸                                                                                                                                                                                           | 小確幸                              |
-| 오, 잠깐（噢，等等）                                                                                                                           | 오, 잠깐                                                                                                                                                                                         |                                  |
-| 사랑은（愛情是）                                                                                                                              | 사랑은                                                                                                                                                                                           |                                  |
+|                                                                                                                    |                                                                                                                                                                            |                                  |
+| ------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| 年份                                                                                                                 | 曲名                                                                                                                                                                         | 收錄專輯                             |
+| 2013年                                                                                                              | 넌 이별 난 아직 (你離去我仍在)（Feat.[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")、[華莎](../Page/華莎.md "wikilink") of [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")） | \-                               |
+| 2014年                                                                                                              | 내게기대 (依靠著我)（Feat.[朴世榮](../Page/朴世榮.md "wikilink")）                                                                                                                         | The Artist Diary Project Part.8  |
+| 햇살이 아파 (刺眼的陽光)（Feat.[輝人](../Page/輝人.md "wikilink") of [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")） | The Artist Diary Project Part.10                                                                                                                                           |                                  |
+| 2016年                                                                                                              | 무지개（彩虹）（Feat.윤닭 of 오브로젝트）                                                                                                                                                  | The Artist Diary Project Part.12 |
+| 2017年                                                                                                              | Those were the days（Feat.오브로젝트）                                                                                                                                            | Those were the days              |
+| First Love                                                                                                         | First Love                                                                                                                                                                 |                                  |
+| 2018年                                                                                                              | 小確幸                                                                                                                                                                        | 小確幸                              |
+| 오, 잠깐（噢，等等）                                                                                                        | 오, 잠깐                                                                                                                                                                      |                                  |
+| 사랑은（愛情是）                                                                                                           | 사랑은                                                                                                                                                                        |                                  |
 
 ### OST
 
-|               |                                                                                                                                              |                                                                                                                  |
-| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| 年份            | 曲名                                                                                                                                           | 收錄專輯                                                                                                             |
-| 2016年         | 데리러 갈게 (我會帶你走)                                                                                                                               | [MBC水木劇](https://zh.wikipedia.org/wiki/MBC "wikilink")《[舉重妖精金福珠](../Page/舉重妖精金福珠.md "wikilink")》OST Part. 5\[2\] |
-| 2017年         | 어떨까（會怎麼樣）                                                                                                                                    | [JTBC金土劇](../Page/JTBC.md "wikilink")《[大力女子都奉順](../Page/大力女子都奉順.md "wikilink")》OST Part. 3                       |
-| 마음의 지도（心的地圖）  | [JTBC金土劇](../Page/JTBC.md "wikilink")《[Man to Man](../Page/Man_to_Man.md "wikilink")》OST Part.7                                              |                                                                                                                  |
-| 보통의 날（普通的日子）  | [MBC月火劇](https://zh.wikipedia.org/wiki/MBC "wikilink")《[20世紀少男少女](https://zh.wikipedia.org/wiki/20世紀少男少女 "wikilink")》OST Part.1              |                                                                                                                  |
-| 넌 내 안에（你在我心裡） | [KBS1週日劇](https://zh.wikipedia.org/wiki/KBS第1频道 "wikilink")《[Andante](https://zh.wikipedia.org/wiki/Andante_\(韓國電視劇\) "wikilink")》OST Part.3 |                                                                                                                  |
-| 2018年         | 항상 너의 곁에 내가 있을게（總在你身邊）                                                                                                                       | [KBS2水木劇](../Page/KBS第2频道.md "wikilink")《[就算死也喜歡](../Page/就算死也喜歡.md "wikilink")》OST Part.2                       |
+|               |                                                                                                                           |                                                                                                                  |
+| ------------- | ------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| 年份            | 曲名                                                                                                                        | 收錄專輯                                                                                                             |
+| 2016年         | 데리러 갈게 (我會帶你走)                                                                                                            | [MBC水木劇](https://zh.wikipedia.org/wiki/MBC "wikilink")《[舉重妖精金福珠](../Page/舉重妖精金福珠.md "wikilink")》OST Part. 5\[2\] |
+| 2017年         | 어떨까（會怎麼樣）                                                                                                                 | [JTBC金土劇](../Page/JTBC.md "wikilink")《[大力女子都奉順](../Page/大力女子都奉順.md "wikilink")》OST Part. 3                       |
+| 마음의 지도（心的地圖）  | [JTBC金土劇](../Page/JTBC.md "wikilink")《[Man to Man](../Page/Man_to_Man.md "wikilink")》OST Part.7                           |                                                                                                                  |
+| 보통의 날（普通的日子）  | [MBC月火劇](https://zh.wikipedia.org/wiki/MBC "wikilink")《[20世紀少男少女](../Page/20世紀少男少女.md "wikilink")》OST Part.1              |                                                                                                                  |
+| 넌 내 안에（你在我心裡） | [KBS1週日劇](https://zh.wikipedia.org/wiki/KBS第1频道 "wikilink")《[Andante](../Page/Andante_\(韓國電視劇\).md "wikilink")》OST Part.3 |                                                                                                                  |
+| 2018年         | 항상 너의 곁에 내가 있을게（總在你身邊）                                                                                                    | [KBS2水木劇](../Page/KBS第2频道.md "wikilink")《[就算死也喜歡](../Page/就算死也喜歡.md "wikilink")》OST Part.2                       |
 
 ## 出版書籍
 
@@ -301,7 +301,7 @@
 |            |                                                    |                                                                |
 | ---------- | -------------------------------------------------- | -------------------------------------------------------------- |
 | 日期         | 演唱會場次                                              | 舉行地點                                                           |
-| 2013年6月29日 | [首爾場](https://zh.wikipedia.org/wiki/首爾 "wikilink") | [弘益大學大學路藝術中心](../Page/弘益大學.md "wikilink") 大劇場                  |
+| 2013年6月29日 | [首爾場](../Page/首爾.md "wikilink")                    | [弘益大學大學路藝術中心](../Page/弘益大學.md "wikilink") 大劇場                  |
 | 2013年7月5日  | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall   |
 | 2013年7月19日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 嶺南大學天馬藝術中心 Chamber Hall                                        |
 | 2013年7月20日 | [釜山場](https://zh.wikipedia.org/wiki/釜山 "wikilink") | [海雲台文化會館](https://zh.wikipedia.org/wiki/海雲台 "wikilink") 海雲Hall |
@@ -313,7 +313,7 @@
 | ----------- | -------------------------------------------------- | ---------------------------------------------------------------------- |
 | 日期          | 演唱會場次                                              | 舉行地點                                                                   |
 | 2013年12月1日  | [釜山場](https://zh.wikipedia.org/wiki/釜山 "wikilink") | 釜山市民會館大劇場                                                              |
-| 2013年12月14日 | [首爾場](https://zh.wikipedia.org/wiki/首爾 "wikilink") | 麻浦藝術中心                                                                 |
+| 2013年12月14日 | [首爾場](../Page/首爾.md "wikilink")                    | 麻浦藝術中心                                                                 |
 | 2013年12月15日 |                                                    |                                                                        |
 | 2013年12月20日 | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall           |
 | 2013年12月28日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | [嶺南大學天馬藝術中心](https://zh.wikipedia.org/wiki/嶺南大學 "wikilink") Grand Hall |
@@ -325,7 +325,7 @@
 |            |                                                    |                                                              |
 | ---------- | -------------------------------------------------- | ------------------------------------------------------------ |
 | 日期         | 演唱會場次                                              | 舉行地點                                                         |
-| 2014年7月4日  | [首爾場](https://zh.wikipedia.org/wiki/首爾 "wikilink") | [建國大學新千年館](../Page/建國大學.md "wikilink")                       |
+| 2014年7月4日  | [首爾場](../Page/首爾.md "wikilink")                    | [建國大學新千年館](../Page/建國大學.md "wikilink")                       |
 | 2014年7月5日  |                                                    |                                                              |
 | 2014年7月12日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 壽城藝術中心                                                       |
 | 2014年7月26日 | [釜山場](https://zh.wikipedia.org/wiki/釜山 "wikilink") | Centum City                                                  |
@@ -343,7 +343,7 @@
 | 2014年12月7日  | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall |
 | 2014年12月13日 | [光州場](../Page/光州.md "wikilink")                    | 518紀念文化中心 MinJu Hall                                         |
 | 2014年12月14日 | [全州場](https://zh.wikipedia.org/wiki/全州 "wikilink") | [全北大學三星文化會館](../Page/全北大學.md "wikilink")                     |
-| 2014年12月24日 | [首爾場](https://zh.wikipedia.org/wiki/首爾 "wikilink") | [祥明大學藝術中心](../Page/祥明大學.md "wikilink")                       |
+| 2014年12月24日 | [首爾場](../Page/首爾.md "wikilink")                    | [祥明大學藝術中心](../Page/祥明大學.md "wikilink")                       |
 | 2014年12月25日 |                                                    |                                                              |
 | 2014年12月27日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 壽城藝術中心                                                       |
 | 2014年12月28日 | [釜山場](https://zh.wikipedia.org/wiki/釜山 "wikilink") | 海雲台文化會館                                                      |
@@ -360,15 +360,15 @@
 | 2015年6月27日 | [釜山場](https://zh.wikipedia.org/wiki/釜山 "wikilink") | 電影殿堂 天空演奏劇場                                                  |
 | 2015年6月28日 | 昌源場                                                | 3.15藝術中心                                                     |
 | 2015年7月4日  | [光州場](../Page/光州.md "wikilink")                    | 518紀念文化中心 MinJu Hall                                         |
-| 2015年7月11日 | [首爾場](https://zh.wikipedia.org/wiki/首爾 "wikilink") | 韓電藝術中心                                                       |
+| 2015年7月11日 | [首爾場](../Page/首爾.md "wikilink")                    | 韓電藝術中心                                                       |
 | 2015年7月12日 |                                                    |                                                              |
 
   - Standing Egg **LOVING FOREST GARDEN**
 
-|             |                                                    |        |
-| ----------- | -------------------------------------------------- | ------ |
-| 日期          | 演唱會場次                                              | 舉行地點   |
-| 2015年10月17日 | [首爾場](https://zh.wikipedia.org/wiki/首爾 "wikilink") | 奧林匹克公園 |
+|             |                                 |        |
+| ----------- | ------------------------------- | ------ |
+| 日期          | 演唱會場次                           | 舉行地點   |
+| 2015年10月17日 | [首爾場](../Page/首爾.md "wikilink") | 奧林匹克公園 |
 
   - Standing Egg **inner** Tour
 
@@ -377,7 +377,7 @@
 | 日期          | 演唱會場次                                              | 舉行地點                                                         |
 | 2015年12月4日  | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall |
 | 2015年12月12日 | [光州場](../Page/光州.md "wikilink")                    | 518紀念文化中心 MinJu Hall                                         |
-| 2015年12月19日 | [首爾場](https://zh.wikipedia.org/wiki/首爾 "wikilink") | [祥明大學藝術中心](../Page/祥明大學.md "wikilink")                       |
+| 2015年12月19日 | [首爾場](../Page/首爾.md "wikilink")                    | [祥明大學藝術中心](../Page/祥明大學.md "wikilink")                       |
 | 2015年12月20日 |                                                    |                                                              |
 | 2015年12月25日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 嶺南大學天馬藝術中心 Chamber Hall                                      |
 | 2015年12月31日 | [釜山場](https://zh.wikipedia.org/wiki/釜山 "wikilink") | 電影殿堂 天空演奏劇場                                                  |
@@ -386,11 +386,11 @@
 
   - Standing Egg **LOVE SONG** 2016
 
-|            |                                                    |        |
-| ---------- | -------------------------------------------------- | ------ |
-| 日期         | 演唱會場次                                              | 舉行地點   |
-| 2016年2月13日 | [首爾場](https://zh.wikipedia.org/wiki/首爾 "wikilink") | 環球藝術中心 |
-| 2016年2月14日 |                                                    |        |
+|            |                                 |        |
+| ---------- | ------------------------------- | ------ |
+| 日期         | 演唱會場次                           | 舉行地點   |
+| 2016年2月13日 | [首爾場](../Page/首爾.md "wikilink") | 環球藝術中心 |
+| 2016年2月14日 |                                 |        |
 
   - Standing Egg **Rainbow** Tour
 
@@ -402,7 +402,7 @@
 | 2016年6月26日 | 昌源場                                                | 3.15藝術中心                                                     |
 | 2016年7月1日  | [濟州場](https://zh.wikipedia.org/wiki/濟州 "wikilink") |                                                              |
 | 2016年7月2日  | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall |
-| 2016年7月9日  | [首爾場](https://zh.wikipedia.org/wiki/首爾 "wikilink") | 韓電藝術中心                                                       |
+| 2016年7月9日  | [首爾場](../Page/首爾.md "wikilink")                    | 韓電藝術中心                                                       |
 | 2016年7月10日 |                                                    |                                                              |
 | 2016年7月16日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 壽城藝術中心                                                       |
 
@@ -420,7 +420,7 @@
 | 日期          | 演唱會場次                                              | 舉行地點                                                         |
 | 2016年12月9日  | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall |
 | 2016年12月17日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 嶺南大學天馬藝術中心 Chamber Hall                                      |
-| 2016年12月24日 | [首爾場](https://zh.wikipedia.org/wiki/首爾 "wikilink") | [祥明大學藝術中心](../Page/祥明大學.md "wikilink")                       |
+| 2016年12月24日 | [首爾場](../Page/首爾.md "wikilink")                    | [祥明大學藝術中心](../Page/祥明大學.md "wikilink")                       |
 | 2016年12月25日 |                                                    |                                                              |
 | 2016年12月30日 | [光州場](../Page/光州.md "wikilink")                    | 光州市民文化會館                                                     |
 | 2016年12月31日 | [釜山場](https://zh.wikipedia.org/wiki/釜山 "wikilink") | MBC藝術中心                                                      |
@@ -429,12 +429,12 @@
 
   - Standing Egg **LOVE SONG** 2017
 
-|            |                                                    |        |
-| ---------- | -------------------------------------------------- | ------ |
-| 日期         | 演唱會場次                                              | 舉行地點   |
-| 2017年3月10日 | [首爾場](https://zh.wikipedia.org/wiki/首爾 "wikilink") | 韓電藝術中心 |
-| 2017年3月11日 |                                                    |        |
-| 2017年3月12日 |                                                    |        |
+|            |                                 |        |
+| ---------- | ------------------------------- | ------ |
+| 日期         | 演唱會場次                           | 舉行地點   |
+| 2017年3月10日 | [首爾場](../Page/首爾.md "wikilink") | 韓電藝術中心 |
+| 2017年3月11日 |                                 |        |
+| 2017年3月12日 |                                 |        |
 
   - Standing Egg 1st LIVE in Taiwan 2017
 
@@ -457,7 +457,7 @@
 | 日期         | 演唱會場次                                              | 舉行地點                                                         |
 | 2017年7月1日  | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall |
 | 2017年7月8日  | [光州場](../Page/光州.md "wikilink")                    | 光州市民文化會館                                                     |
-| 2017年7月15日 | [首爾場](https://zh.wikipedia.org/wiki/首爾 "wikilink") | 環球藝術中心                                                       |
+| 2017年7月15日 | [首爾場](../Page/首爾.md "wikilink")                    | 環球藝術中心                                                       |
 | 2017年7月16日 |                                                    |                                                              |
 | 2017年7月22日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 壽城藝術中心                                                       |
 | 2017年7月29日 | 昌源場                                                | 3.15藝術中心                                                     |
@@ -473,7 +473,7 @@
 | 2017年12月2日  | [大田場](https://zh.wikipedia.org/wiki/大田 "wikilink") | [忠南大學](https://zh.wikipedia.org/wiki/忠南大學 "wikilink") 白馬Hall |
 | 2017年12月3日  | 昌源場                                                | 3.15藝術中心                                                     |
 | 2017年12月9日  | [光州場](../Page/光州.md "wikilink")                    | 光州市民文化會館                                                     |
-| 2017年12月16日 | [首爾場](https://zh.wikipedia.org/wiki/首爾 "wikilink") | 環球藝術中心                                                       |
+| 2017年12月16日 | [首爾場](../Page/首爾.md "wikilink")                    | 環球藝術中心                                                       |
 | 2017年12月17日 |                                                    |                                                              |
 | 2017年12月23日 | [大邱場](https://zh.wikipedia.org/wiki/大邱 "wikilink") | 嶺南大學天馬藝術中心 Chamber Hall                                      |
 | 2017年12月24日 |                                                    |                                                              |
@@ -500,7 +500,7 @@
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p>햇살이 아파 (Feat. <a href="https://zh.wikipedia.org/wiki/輝人" title="wikilink">輝人</a> of <a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>)</p></td>
+<td><p>햇살이 아파 (Feat. <a href="../Page/輝人.md" title="wikilink">輝人</a> of <a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>)</p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -80,7 +80,7 @@ Wise and Foolish</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>10/05-<br />
 17/05</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/MiMi" title="wikilink">美美</a><br />
+<td style="text-align: center;"><p><a href="../Page/MiMi.md" title="wikilink">美美</a><br />
 MiMi</p></td>
 <td style="text-align: center;"><p>6</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
@@ -253,7 +253,7 @@ My Lawyer Mr. Joe</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>13/12-<br />
 08/01<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">續18年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">續18年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/好運羅曼史.md" title="wikilink">好運羅曼史</a><br />
 Lucky Romance</p></td>
 <td style="text-align: center;"><p>18</p></td>
@@ -424,8 +424,8 @@ Princess Hours</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>21/11-<br />
 22/01<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">續18年</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/繁星四月" title="wikilink">繁星四月</a><br />
+<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">續18年</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/繁星四月.md" title="wikilink">繁星四月</a><br />
 Star April</p></td>
 <td style="text-align: center;"><p>42</p></td>
 <td style="text-align: center;"><p><a href="../Page/吳奇隆.md" title="wikilink">吳奇隆</a>、<a href="../Page/戚薇.md" title="wikilink">戚　薇</a></p></td>
@@ -655,7 +655,7 @@ Bring it on, Ghost</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>15/12-<br />
 11/01<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">續18年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">續18年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/君主－假面的主人.md" title="wikilink">君主－假面的主人</a><br />
 The Emperor: Owner of the Mask</p></td>
 <td style="text-align: center;"><p>18</p></td>
@@ -732,7 +732,7 @@ AKB Love Night Love Factory</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>03/04-<br />
 28/04</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/午夜伴廊" title="wikilink">午夜伴廊</a><br />
+<td style="text-align: center;"><p><a href="../Page/午夜伴廊.md" title="wikilink">午夜伴廊</a><br />
 Midnight Cousin</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/白只.md" title="wikilink">白　只</a>、<a href="https://zh.wikipedia.org/wiki/楊偉倫" title="wikilink">楊偉倫</a>、<a href="https://zh.wikipedia.org/wiki/陳文進" title="wikilink">陳文進</a>、<br />
@@ -744,7 +744,7 @@ Midnight Cousin</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;">5月1日至26日因播映<a href="https://zh.wikipedia.org/wiki/鮮浪潮。語" title="wikilink">鮮浪潮。語關係</a>，本時段沒有劇集播映</p>
+<p><span style="font-size:larger;">5月1日至26日因播映<a href="../Page/鮮浪潮。語.md" title="wikilink">鮮浪潮。語關係</a>，本時段沒有劇集播映</p>
 </div>
 <p></span></p></td>
 <td style="text-align: center;"></td>
@@ -758,11 +758,11 @@ Midnight Cousin</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>29/05-<br />
 07/07</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/詭探" title="wikilink">詭探</a><br />
+<td style="text-align: center;"><p><a href="../Page/詭探.md" title="wikilink">詭探</a><br />
 Psycho Detective</p></td>
 <td style="text-align: center;"><p>30</p></td>
 <td style="text-align: center;"><p><a href="../Page/邵仲衡.md" title="wikilink">邵仲衡</a>、<a href="../Page/蔣祖曼.md" title="wikilink">蔣祖曼</a>、<a href="../Page/尹揚明.md" title="wikilink">尹揚明</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/楊偲泳" title="wikilink">楊偲泳</a>、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<br />
+<a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a>、<a href="../Page/陳子豐.md" title="wikilink">陳子豐</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<br />
 <a href="../Page/車保羅.md" title="wikilink">車保羅</a>、<a href="https://zh.wikipedia.org/wiki/張雷" title="wikilink">張　雷</a>、<a href="../Page/楊思琦.md" title="wikilink">楊思琦</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/psycho-detective">網頁</a></p></td>
@@ -772,10 +772,10 @@ Psycho Detective</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>17/07-<br />
 25/08</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/瑪嘉烈與大衛系列_前度" title="wikilink">瑪嘉烈與大衛系列 前度</a><br />
+<td style="text-align: center;"><p><a href="../Page/瑪嘉烈與大衛系列_前度.md" title="wikilink">瑪嘉烈與大衛系列 前度</a><br />
 Margaret &amp; David - Ex</p></td>
 <td style="text-align: center;"><p>30</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/袁澧林" title="wikilink">袁澧林</a>、<a href="https://zh.wikipedia.org/wiki/劉俊謙_(香港)" title="wikilink">劉俊謙</a>、<a href="../Page/許志安.md" title="wikilink">許志安</a>、<br />
+<td style="text-align: center;"><p><a href="../Page/袁澧林.md" title="wikilink">袁澧林</a>、<a href="../Page/劉俊謙_(香港).md" title="wikilink">劉俊謙</a>、<a href="../Page/許志安.md" title="wikilink">許志安</a>、<br />
 <a href="../Page/廖碧兒.md" title="wikilink">廖碧兒</a>、<a href="../Page/馬志威.md" title="wikilink">馬志威</a>、<a href="../Page/杜小喬.md" title="wikilink">杜小喬</a>、<br />
 <a href="../Page/黃秋生.md" title="wikilink">黃秋生</a>、<a href="../Page/夏文汐.md" title="wikilink">夏文汐</a>、<a href="../Page/恭碩良.md" title="wikilink">恭碩良</a></p></td>
 <td style="text-align: center;"></td>
@@ -783,12 +783,12 @@ Margaret &amp; David - Ex</p></td>
 <td style="text-align: center;"><p>主：愛人們（<a href="../Page/黃劍文.md" title="wikilink">黃劍文</a>）<br />
 尾：恨上癮（<a href="../Page/趙學而.md" title="wikilink">趙學而</a>）<br />
 插：Love Of My Life（<a href="../Page/許志安.md" title="wikilink">許志安</a>）</p></td>
-<td style="text-align: center;"><p>7月10日至14日，本時段播映本劇前奏節目<a href="https://zh.wikipedia.org/wiki/瑪嘉烈與大衛系列_前度" title="wikilink">前度來了</a>，8月23日及25日改為21:30-22:05播映</p></td>
+<td style="text-align: center;"><p>7月10日至14日，本時段播映本劇前奏節目<a href="../Page/瑪嘉烈與大衛系列_前度.md" title="wikilink">前度來了</a>，8月23日及25日改為21:30-22:05播映</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>28/08-<br />
 22/09</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/賤民20" title="wikilink">賤民20</a><br />
+<td style="text-align: center;"><p><a href="../Page/賤民20.md" title="wikilink">賤民20</a><br />
 3 Haters</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、、<br />
@@ -805,8 +805,8 @@ Margaret &amp; David - Ex</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/未來還未來" title="wikilink">未來還未來</a><br />
 Next Exit</p></td>
 <td style="text-align: center;"><p>10</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/劉俊謙_(香港)" title="wikilink">劉俊謙</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="https://zh.wikipedia.org/wiki/羅伊婷" title="wikilink">羅伊婷</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/黃奕晨" title="wikilink">黃奕晨</a>、<a href="../Page/李拾壹.md" title="wikilink">李拾壹</a>、<a href="../Page/唐劍康.md" title="wikilink">唐劍康</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/劉俊謙_(香港).md" title="wikilink">劉俊謙</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a>、<a href="../Page/羅伊婷.md" title="wikilink">羅伊婷</a>、<br />
+<a href="../Page/黃奕晨.md" title="wikilink">黃奕晨</a>、<a href="../Page/李拾壹.md" title="wikilink">李拾壹</a>、<a href="../Page/唐劍康.md" title="wikilink">唐劍康</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/next-exit">網頁</a></p></td>
 <td style="text-align: center;"><p>主：未來未來（<a href="https://zh.wikipedia.org/wiki/Rubberband" title="wikilink">Rubberband</a>）</p></td>
@@ -819,8 +819,8 @@ Next Exit</p></td>
 My Very Short Marriage</p></td>
 <td style="text-align: center;"><p>5</p></td>
 <td style="text-align: center;"><p><a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a>、、<a href="../Page/郭偉亮.md" title="wikilink">Eric Kwok</a>、<br />
-<a href="../Page/蔡潔.md" title="wikilink">蔡　潔</a>、<a href="https://zh.wikipedia.org/wiki/余香凝" title="wikilink">余香凝</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳志發" title="wikilink">陳志發</a></p></td>
+<a href="../Page/蔡潔.md" title="wikilink">蔡　潔</a>、<a href="../Page/余香凝.md" title="wikilink">余香凝</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/陳志發.md" title="wikilink">陳志發</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/my-very-short-marriage">網頁</a></p></td>
 <td style="text-align: center;"><p>主：誰來剪月光（<a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a>）<br />
 插：披風（<a href="../Page/陳奕迅.md" title="wikilink">陳奕迅</a>）</p></td>
@@ -1081,7 +1081,7 @@ Transit Girls</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>23/12-<br />
 24/11<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">續18年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">續18年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/小站_(電視劇).md" title="wikilink">小站</a><br />
 The Late Night Stop</p></td>
 <td style="text-align: center;"><p>47</p></td>
@@ -1207,7 +1207,7 @@ Teacher Gangstar</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>16/12-<br />
 24/02<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">續18年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">續18年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/謊言遊戲.md" title="wikilink">謊言遊戲</a><br />
 Any lie can become Truth</p></td>
 <td style="text-align: center;"><p>20</p></td>
@@ -1289,7 +1289,7 @@ Natsuko Kira</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/CRISIS_公安機動搜查隊特搜班" title="wikilink">CRISIS</a><br />
 CRISIS</p></td>
 <td style="text-align: center;"><p>10</p></td>
-<td style="text-align: center;"><p><a href="../Page/小栗旬.md" title="wikilink">小栗旬</a>、<a href="https://zh.wikipedia.org/wiki/西島秀俊" title="wikilink">西島秀俊</a>、<a href="https://zh.wikipedia.org/wiki/田中哲司" title="wikilink">田中哲司</a>、、<a href="../Page/新木優子.md" title="wikilink">新木優子</a>、<a href="../Page/長塚京三.md" title="wikilink">長塚京三</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/小栗旬.md" title="wikilink">小栗旬</a>、<a href="https://zh.wikipedia.org/wiki/西島秀俊" title="wikilink">西島秀俊</a>、<a href="../Page/田中哲司.md" title="wikilink">田中哲司</a>、、<a href="../Page/新木優子.md" title="wikilink">新木優子</a>、<a href="../Page/長塚京三.md" title="wikilink">長塚京三</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鈴木浩介" title="wikilink">鈴木浩介</a><br />
 白木啓一郎</p></td>
 <td style="text-align: center;"></td>
@@ -1302,7 +1302,7 @@ CRISIS</p></td>
 <td style="text-align: center;"><p><br />
 Kimi wa Pet</p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/入山法子" title="wikilink">入山法子</a>、<a href="../Page/志尊淳.md" title="wikilink">志尊淳</a>、<a href="../Page/竹財輝之助.md" title="wikilink">竹財輝之助</a>、<a href="../Page/野呂佳代.md" title="wikilink">野呂佳代</a>、</p></td>
+<td style="text-align: center;"><p><a href="../Page/入山法子.md" title="wikilink">入山法子</a>、<a href="../Page/志尊淳.md" title="wikilink">志尊淳</a>、<a href="../Page/竹財輝之助.md" title="wikilink">竹財輝之助</a>、<a href="../Page/野呂佳代.md" title="wikilink">野呂佳代</a>、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>主：Rainbow Rain（<a href="https://zh.wikipedia.org/wiki/夢みるアドレセンス" title="wikilink">夢想青春期</a>）</p></td>
@@ -1311,7 +1311,7 @@ Kimi wa Pet</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>02/12-<br />
 10/02<br />
-<a href="https://zh.wikipedia.org/wiki/ViuTV電視劇集列表_(2018年)" title="wikilink">續18年</a></p></td>
+<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">續18年</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黑色筆記本" title="wikilink">黑色筆記本</a><br />
 Black Leather Notebook</p></td>
 <td style="text-align: center;"><p>8</p></td>
@@ -1579,10 +1579,10 @@ Specialist Special</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>11/06-<br />
 18/06</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鳶_(小說)" title="wikilink">父子情深</a><br />
+<td style="text-align: center;"><p><a href="../Page/鳶_(小說).md" title="wikilink">父子情深</a><br />
 Yasu - A Single Father's Story</p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p><a href="../Page/堤真一.md" title="wikilink">堤真一</a>、<a href="../Page/小泉今日子.md" title="wikilink">小泉今日子</a>、<a href="https://zh.wikipedia.org/wiki/池松壯亮" title="wikilink">池松壯亮</a>、<a href="https://zh.wikipedia.org/wiki/古田新太" title="wikilink">古田新太</a>、、<a href="https://zh.wikipedia.org/wiki/塚地武雅" title="wikilink">塚地武雅</a>、、、</p></td>
+<td style="text-align: center;"><p><a href="../Page/堤真一.md" title="wikilink">堤真一</a>、<a href="../Page/小泉今日子.md" title="wikilink">小泉今日子</a>、<a href="https://zh.wikipedia.org/wiki/池松壯亮" title="wikilink">池松壯亮</a>、<a href="../Page/古田新太.md" title="wikilink">古田新太</a>、、<a href="../Page/塚地武雅.md" title="wikilink">塚地武雅</a>、、、</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>主：箒川を渡って（）</p></td>
@@ -1613,7 +1613,7 @@ Professor Eco</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>06/10-<br />
 13/10</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/瑪嘉烈與大衛系列_前度" title="wikilink">瑪嘉烈與大衛系列 前度 (特別篇)</a><br />
+<td style="text-align: center;"><p><a href="../Page/瑪嘉烈與大衛系列_前度.md" title="wikilink">瑪嘉烈與大衛系列 前度 (特別篇)</a><br />
 Margaret and David - Ex Special</p></td>
 <td style="text-align: center;"><p>2</p></td>
 <td style="text-align: center;"><p>、、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>、<br />

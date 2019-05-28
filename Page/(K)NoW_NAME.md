@@ -20,7 +20,7 @@
 
   -
   -
-  - [Shuhei Mutsuki](https://zh.wikipedia.org/wiki/睦月周平 "wikilink")
+  - [Shuhei Mutsuki](../Page/睦月周平.md "wikilink")
 
   - Kohei by SIMONSAYZ
 

@@ -3,8 +3,7 @@
 Phone 8.1](../Page/Windows_Phone_8.1.md "wikilink")
 系统的高端智能手机，发布于2014年2月12日。\[2\]\[3\]
 是[Verizon的定制机型](https://zh.wikipedia.org/wiki/Verizon "wikilink")，
-国际版为[诺基亚Lumia
-930](https://zh.wikipedia.org/wiki/诺基亚Lumia_930 "wikilink")。
+国际版为[诺基亚Lumia 930](../Page/诺基亚Lumia_930.md "wikilink")。
 
 2015年2月11日， Verizon向Lumia Icon推送了[Windows Phone
 8.1系统和](../Page/Windows_Phone_8.1.md "wikilink")[Lumia
@@ -36,8 +35,7 @@ Mobile系统更新](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")�
 除了机身尺寸缩小到5英寸，没有概览屏幕外，Lumia Icon 与[Lumia
 1520的硬件配置几乎没有任何差别](https://zh.wikipedia.org/wiki/Lumia_1520 "wikilink")。\[11\]
 
-[诺基亚Lumia
-930在](https://zh.wikipedia.org/wiki/诺基亚Lumia_930 "wikilink")2014年4月发行，与Lumia
+[诺基亚Lumia 930在](../Page/诺基亚Lumia_930.md "wikilink")2014年4月发行，与Lumia
 Icon的外观和硬件配置几乎相同，但930使用的是GSM频段并且出厂自带[Windows Phone
 8.1操作系统和](../Page/Windows_Phone_8.1.md "wikilink")[Cyan](https://zh.wikipedia.org/wiki/Lumia_Cyan "wikilink")
 固件，它被看作Lumia Icon的国际版。鉴于目前Lumia Icon与Lumia 930都能够升级到Windows 10
@@ -67,8 +65,7 @@ Phone也令人失望，因为它的通话质量实在糟糕。但对处理器性
 
   - [微软 Lumia](https://zh.wikipedia.org/wiki/微软_Lumia "wikilink")
   - [诺基亚Lumia 1520](../Page/诺基亚Lumia_1520.md "wikilink")
-  - [诺基亚Lumia
-    930](https://zh.wikipedia.org/wiki/诺基亚Lumia_930 "wikilink")
+  - [诺基亚Lumia 930](../Page/诺基亚Lumia_930.md "wikilink")
 
 [Tweakbox](https://tweakbox-app.com) [Tweakbox
 app](https://tweakbox-app.org)

@@ -51,7 +51,7 @@ SP4时代的第一个WMI实现发布（作为外部下载）以来，微软一�
 
 许多客户解读了提供者数量的增长，认为这表示着WMI已经成为微软Windows一项“无处不在”的管理层，即使微软从未明确承诺这点。
 
-因为Windows中通过WMI管理数据的不断增加，[信息技术](../Page/信息技术.md "wikilink")领域的人员开始开发基于WMI的脚本和自动化程序。除了脚本需求外，大多数领先的管理软件（包括[MOM](https://zh.wikipedia.org/wiki/MOM "wikilink")、、ADS、[HP](../Page/惠普.md "wikilink")
+因为Windows中通过WMI管理数据的不断增加，[信息技术](../Page/信息技术.md "wikilink")领域的人员开始开发基于WMI的脚本和自动化程序。除了脚本需求外，大多数领先的管理软件（包括[MOM](../Page/MOM.md "wikilink")、、ADS、[HP](../Page/惠普.md "wikilink")
  for Windows（HPOV）、[BMC Software](../Page/BMC軟件公司.md "wikilink")、[CA,
 Inc](https://zh.wikipedia.org/wiki/CA科技 "wikilink")）都提供WMI功能，允许通过各种用户接口使用或提供WMI信息。这使得不能在WMI层面上编程的[系统管理员和操作员无需编写脚本或程序](../Page/系统管理员.md "wikilink")，也能享受到WMI的优势，甚至无需了解它。
 

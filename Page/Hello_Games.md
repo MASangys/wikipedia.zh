@@ -1,5 +1,5 @@
 **Hello Games
-Ltd**是英国一家游戏开发商和发行商，总部设在英国吉尔福德，因开发制作了《[无人深空](https://zh.wikipedia.org/wiki/无人深空 "wikilink")》（No
+Ltd**是英国一家游戏开发商和发行商，总部设在英国吉尔福德，因开发制作了《[无人深空](../Page/无人深空.md "wikilink")》（No
 Man's Sky）而知名。
 
 ## 简介
@@ -30,7 +30,7 @@ Hello Games因在《无人深空》中的欺骗行为而饱受批评。\[9\]
 | 2012 | *[Joe Danger 2: The Movie](https://zh.wikipedia.org/wiki/Joe_Danger_2:_The_Movie "wikilink")* |
 | 2013 | *[Joe Danger Touch\!](https://zh.wikipedia.org/wiki/Joe_Danger_Touch! "wikilink")*            |
 | 2014 | *[Joe Danger Infinity](https://zh.wikipedia.org/wiki/Joe_Danger_Infinity "wikilink")*         |
-| 2016 | [无人深空](https://zh.wikipedia.org/wiki/无人深空 "wikilink")                                         |
+| 2016 | [无人深空](../Page/无人深空.md "wikilink")                                                            |
 
 ## 参考资料
 

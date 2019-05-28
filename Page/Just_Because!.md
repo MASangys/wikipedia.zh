@@ -122,7 +122,7 @@ JAM所擔當](../Page/PINE_JAM.md "wikilink")，本作品也是該公司首次�
   - 動畫製作：[PINE JAM](../Page/PINE_JAM.md "wikilink")
   - 製作：[Just
     Because\!製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（NBC環球、月鈴舎、PINE
-    JAM、[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")、[TOKYO
+    JAM、[創通](../Page/創通.md "wikilink")、[TOKYO
     MX](../Page/東京都會電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、[BS富士](../Page/BS富士.md "wikilink")）
 
 ## 主題曲
@@ -130,7 +130,7 @@ JAM所擔當](../Page/PINE_JAM.md "wikilink")，本作品也是該公司首次�
   - 片頭曲「over and over」（第2話、第4話－第11話）
     作詞、主唱：[やなぎなぎ](https://zh.wikipedia.org/wiki/やなぎなぎ "wikilink")，作曲、編曲：[北川勝利](../Page/ROUND_TABLE.md "wikilink")
   - 片尾曲「behind」（第2話－第12話）
-    作詞、作曲：やなぎなぎ，編曲：川嶋可能，主唱：夏目美緒（[礒部花凜](https://zh.wikipedia.org/wiki/礒部花凜 "wikilink")）、森川葉月（[芳野由奈](../Page/芳野由奈.md "wikilink")）、小宮惠那（[Lynn](https://zh.wikipedia.org/wiki/Lynn_\(日本女配音員\) "wikilink")）
+    作詞、作曲：やなぎなぎ，編曲：川嶋可能，主唱：夏目美緒（[礒部花凜](../Page/礒部花凜.md "wikilink")）、森川葉月（[芳野由奈](../Page/芳野由奈.md "wikilink")）、小宮惠那（[Lynn](https://zh.wikipedia.org/wiki/Lynn_\(日本女配音員\) "wikilink")）
 
 （第7話到第9話，片尾畫面變更為原人物設定比村奇石之原畫。）
 
@@ -365,7 +365,7 @@ Lunch·BOX、<a href="../Page/小美野雅彥.md" title="wikilink">小美野雅�
 『』節目</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
+<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV</a></p></td>
 <td><p>2017年10月7日－12月30日</p></td>
 <td><p>星期六 23時00分－23時30分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/網絡電視" title="wikilink">網絡電視</a></p></td>
@@ -477,7 +477,7 @@ Lunch·BOX、<a href="../Page/小美野雅彥.md" title="wikilink">小美野雅�
 ## 網路電台
 
 《**Radio Because\!
-〜花凜和Lynn的應援電台〜**》（）是一檔網路電台節目，2017年9月13日開始至2018年1月3日止每周星期三在[niconico頻道上播放](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")\[8\]\[9\]。節目由夏目美緒的聲優[礒部花凜與小宮惠那的聲優](https://zh.wikipedia.org/wiki/礒部花凜 "wikilink")[Lynn負責主持](https://zh.wikipedia.org/wiki/Lynn_\(日本女配音員\) "wikilink")。
+〜花凜和Lynn的應援電台〜**》（）是一檔網路電台節目，2017年9月13日開始至2018年1月3日止每周星期三在[niconico頻道上播放](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")\[8\]\[9\]。節目由夏目美緒的聲優[礒部花凜與小宮惠那的聲優](../Page/礒部花凜.md "wikilink")[Lynn負責主持](https://zh.wikipedia.org/wiki/Lynn_\(日本女配音員\) "wikilink")。
 
 ## 小說
 

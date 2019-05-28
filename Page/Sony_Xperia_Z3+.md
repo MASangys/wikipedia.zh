@@ -5,7 +5,7 @@ MSM8994 2.0GHz + 1.5GHz 八核心處理器、3GB記憶體、2,070萬畫素 25mm
 G鏡且支援4K錄影，120fps慢動作錄影，支援 IP65 / 68 防水、防塵功能。
 
 Xperia Z3+為安卓作業系統的旗艦級高階智慧型手機，作為它的前一代[Sony Xperia
-Z3的繼承機型](https://zh.wikipedia.org/wiki/Sony_Xperia_Z3 "wikilink")。同期的主要競爭對手有[Samsung
+Z3的繼承機型](../Page/Sony_Xperia_Z3.md "wikilink")。同期的主要競爭對手有[Samsung
 Galaxy
 S6](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6 "wikilink")、[LG
 G4](https://zh.wikipedia.org/wiki/LG_G4 "wikilink")、[HTC One
@@ -15,7 +15,7 @@ P8](https://zh.wikipedia.org/wiki/Huawei_Ascend_P8 "wikilink")。
 ## 設計特點
 
 在新一代的Xperia Z3+中，側邊的部分與 [Xperia
-Z3不同](https://zh.wikipedia.org/wiki/Sony_Xperia_Z3 "wikilink")，採用了鏡面拋光處理，螢幕上下兩側的喇叭設計，回歸到比較像
+Z3不同](../Page/Sony_Xperia_Z3.md "wikilink")，採用了鏡面拋光處理，螢幕上下兩側的喇叭設計，回歸到比較像
 [Xperia Z2](https://zh.wikipedia.org/wiki/Xperia_Z2 "wikilink")
 的設計，但其開口又沒有那麼寬，此外，大幅提升的 25mm 超廣角 510 萬畫素前置鏡頭，位置與
 Xperia Z3 不同，是置於 LOGO 的左側。microSD 卡與 SIM 卡槽併在一起，因此其設計也較 Xperia Z3

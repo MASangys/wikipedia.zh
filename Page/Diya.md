@@ -2,7 +2,7 @@
 
 ## 生涯
 
-Diya于1999年出生于[辽宁](../Page/辽宁省.md "wikilink")[沈阳](https://zh.wikipedia.org/wiki/沈阳市 "wikilink")，8岁接触FPS类游戏，13岁打进某项目决赛，但是因为年龄问题被取消资格\[1\]，16岁成为《[枪神纪](../Page/槍神紀.md "wikilink")》职业选手，开启职业生涯。2016年7月，他加盟VG电子竞技俱乐部《守望先锋》分部。\[2\]2017年10月31日，[守望先锋联赛队伍](../Page/守望先锋联赛.md "wikilink")[上海龙之队宣布Diya转投该队](https://zh.wikipedia.org/wiki/上海龙之队 "wikilink")。
+Diya于1999年出生于[辽宁](../Page/辽宁省.md "wikilink")[沈阳](https://zh.wikipedia.org/wiki/沈阳市 "wikilink")，8岁接触FPS类游戏，13岁打进某项目决赛，但是因为年龄问题被取消资格\[1\]，16岁成为《[枪神纪](../Page/槍神紀.md "wikilink")》职业选手，开启职业生涯。2016年7月，他加盟VG电子竞技俱乐部《守望先锋》分部。\[2\]2017年10月31日，[守望先锋联赛队伍](../Page/守望先锋联赛.md "wikilink")[上海龙之队宣布Diya转投该队](../Page/上海龙之队.md "wikilink")。
 
 ## 被质疑作弊
 

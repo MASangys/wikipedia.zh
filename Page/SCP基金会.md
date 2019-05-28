@@ -1,4 +1,4 @@
-**SCP基金会**是一个虚构的特工组织，出现于同名的网络[接龙小说项目中](https://zh.wikipedia.org/wiki/接龙小说 "wikilink")。在SCP基金会的宇宙中，SCP基金会是一个跨国组织，负责搜寻并收容各种具有异常属性的个人、地点或物体（统称为SCP）。在现实世界中，SCP基金会是一个基于网站社区的[协同写作小说项目](https://zh.wikipedia.org/wiki/协同写作 "wikilink")，其文章包含多种类型的元素和风格，如[科学幻想](https://zh.wikipedia.org/wiki/科学幻想 "wikilink")、[都市奇幻和](https://zh.wikipedia.org/wiki/都市奇幻 "wikilink")[恐怖小说](https://zh.wikipedia.org/wiki/恐怖小说 "wikilink")。
+**SCP基金会**是一个虚构的特工组织，出现于同名的网络[接龙小说项目中](https://zh.wikipedia.org/wiki/接龙小说 "wikilink")。在SCP基金会的宇宙中，SCP基金会是一个跨国组织，负责搜寻并收容各种具有异常属性的个人、地点或物体（统称为SCP）。在现实世界中，SCP基金会是一个基于网站社区的[协同写作小说项目](https://zh.wikipedia.org/wiki/协同写作 "wikilink")，其文章包含多种类型的元素和风格，如[科学幻想](https://zh.wikipedia.org/wiki/科学幻想 "wikilink")、[都市奇幻和](../Page/都市奇幻.md "wikilink")[恐怖小说](https://zh.wikipedia.org/wiki/恐怖小说 "wikilink")。
 
 在SCP基金会的维基网站上，大多数SCP作品会详细叙述相应SCP的“特殊收容程序”，其中包括该SCP的各种性质以及针对该SCP的收容方式。网站上还包含上千篇“基金会故事”，这些风格迥异的故事基于SCP基金会的世界观，讲述了一个个SCP基金会组织内部所发生的故事。这一系列作品因高质量的剧情以及特有的通过科学、理性、冷静的写作风格传达恐惧的写法而广受称赞。
 
@@ -32,7 +32,7 @@ Burkart指出，一些基金会故事的情节黑暗而压抑，而另一些则�
 
 SCP基金会没有一个统一的标准，\[44\]但其文章却经常相互联系起来，以创造出更为宏大的叙述。\[45\]SCP基金会的编写者可以创建相应的“设定”，用于将一些地点相同、人物相同或情节相似的SCP设定文章或基金会故事进行归类。\[46\]许多“设定”都有一个专属的中心页，用于阐述该“设定”的基本概念并提供一些相应的信息，如相应故事发生的时间以及相关的人物角色等。\[47\]
 
-SCP基金会的文章风格迥异，其创作题材通常可归类为[科学幻想](https://zh.wikipedia.org/wiki/科学幻想 "wikilink")、[都市奇幻以及](https://zh.wikipedia.org/wiki/都市奇幻 "wikilink")[恐怖小说](https://zh.wikipedia.org/wiki/恐怖小说 "wikilink")。\[48\]\[49\]
+SCP基金会的文章风格迥异，其创作题材通常可归类为[科学幻想](https://zh.wikipedia.org/wiki/科学幻想 "wikilink")、[都市奇幻以及](../Page/都市奇幻.md "wikilink")[恐怖小说](https://zh.wikipedia.org/wiki/恐怖小说 "wikilink")。\[48\]\[49\]
 
 ## 經典SCP項目
 
@@ -76,13 +76,13 @@ SCP基金会的作品收到了许多正面积极的评价。[CNET的米歇尔](.
 布莱恩·亚历山大在《The New Digital
 Storytelling》中写道，由于SCP基金会的作者们通过大规模且反复的写作创造出了这一系列惊人的文学作品，因此SCP基金会可能是“用维基讲故事的最先进的成就”。\[75\]
 
-[Medium上的](https://zh.wikipedia.org/wiki/Medium "wikilink")《Dark(ish)
+[Medium上的](../Page/Medium.md "wikilink")《Dark(ish)
 Web》的作者，安德鲁·保罗，注意到了SCP基金会中作品风格的多样性，并将其简短的写作格式与[Snapchat和](../Page/Snapchat.md "wikilink")[Vine等数字媒体当前的流行趋势联系起来](../Page/Vine.md "wikilink")。他还描述了作品中SCP基金会盲目、有序、官僚主义的做法与现实世界政治上的相似性，在他看来，这一相似之处增强了SCP基金会作品所营造出的恐怖氛围。\[76\]
 
 ## 文化影响
 
 SCP基金会的故事启发了众多独立游戏工作室。《[SCP：收容失效](../Page/SCP：收容失效.md "wikilink")》是一款基于SCP基金会的广受欢迎的游戏，\[77\]\[78\]于2012年由[芬兰开发商Joonas](../Page/芬兰.md "wikilink")
-Rikkonen发布。\[79\]\[80\]在游戏中，玩家需要扮演一名试图逃离收容设施的D级人员，\[81\]并在逃离过程中避开全副武装的基金会安保人员以及逃离收容设备的SCP，其中包括SCP-173。\[82\]该游戏存在独特的眨眼机制，当玩家操控的角色闭上眼睛时，SCP-173会迅速靠近甚至杀死玩家。\[83\]《SCP：秘密实验室》是一款基于《SCP：收容失效》的多人游戏。\[84\]在该游戏中玩家可以选择扮演一个SCP、一名基金会科学家或D级人员、或保卫SCP基金会的武装人员或破坏收容设施的“混沌分裂者”组织成员。\[85\]其他主题类似的游戏还包括《SCP-3008》（一款允许玩家在SCP-3008中进行探索的多人游戏）\[86\]和《SCP-087》（一款扮演D级人员在SCP-087中不断下行的恐怖游戏）。\[87\]在2018年[E3上首次亮相的电子游戏](https://zh.wikipedia.org/wiki/E3 "wikilink")《[控制](https://zh.wikipedia.org/wiki/控制_\(遊戲\) "wikilink")》同样深受SCP基金会的影响，该游戏由[芬兰游戏公司](../Page/芬兰.md "wikilink")[绿美迪娱乐进行开发制作](https://zh.wikipedia.org/wiki/绿美迪娱乐 "wikilink")，计划将于2019年发售。\[88\]\[89\]
+Rikkonen发布。\[79\]\[80\]在游戏中，玩家需要扮演一名试图逃离收容设施的D级人员，\[81\]并在逃离过程中避开全副武装的基金会安保人员以及逃离收容设备的SCP，其中包括SCP-173。\[82\]该游戏存在独特的眨眼机制，当玩家操控的角色闭上眼睛时，SCP-173会迅速靠近甚至杀死玩家。\[83\]《SCP：秘密实验室》是一款基于《SCP：收容失效》的多人游戏。\[84\]在该游戏中玩家可以选择扮演一个SCP、一名基金会科学家或D级人员、或保卫SCP基金会的武装人员或破坏收容设施的“混沌分裂者”组织成员。\[85\]其他主题类似的游戏还包括《SCP-3008》（一款允许玩家在SCP-3008中进行探索的多人游戏）\[86\]和《SCP-087》（一款扮演D级人员在SCP-087中不断下行的恐怖游戏）。\[87\]在2018年[E3上首次亮相的电子游戏](https://zh.wikipedia.org/wiki/E3 "wikilink")《[控制](../Page/控制_\(遊戲\).md "wikilink")》同样深受SCP基金会的影响，该游戏由[芬兰游戏公司](../Page/芬兰.md "wikilink")[绿美迪娱乐进行开发制作](https://zh.wikipedia.org/wiki/绿美迪娱乐 "wikilink")，计划将于2019年发售。\[88\]\[89\]
 
 除了电子游戏，SCP基金会还衍生出了许多舞台剧。其中一个题为《欢迎来到伦理道德委员会》的舞台剧于2014年10月在[都柏林的](../Page/都柏林.md "wikilink")进行演出。\[90\]该剧聚焦于SCP基金会的伦理道德委员会，讲述了该委员会如何阻止SCP基金会内部的不[道德行为或收容程序](../Page/伦理学.md "wikilink")。\[91\]
 

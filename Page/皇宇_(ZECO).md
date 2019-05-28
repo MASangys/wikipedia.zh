@@ -26,8 +26,8 @@ GUM月刊展開了漫畫作品《[鋼鐵少女](../Page/钢铁少女.md "wikilin
   - 《[英雄獵人](https://zh.wikipedia.org/wiki/英雄獵人 "wikilink")》手機遊戲 -
     部分角色設定/插圖/原畫
   - 《[鎖鏈戰記](../Page/鎖鏈戰記.md "wikilink")》手機遊戲 - 部分角色設定/插圖/原畫
-  - 《[請命令！提督Sama](https://zh.wikipedia.org/wiki/請命令！提督Sama "wikilink")》手機遊戲
-    - 部分角色設定/插圖/原畫—扶桑號戰艦
+  - 《[請命令！提督Sama](../Page/請命令！提督Sama.md "wikilink")》手機遊戲 -
+    部分角色設定/插圖/原畫—扶桑號戰艦
   - 《[艦隊Collection](../Page/艦隊Collection.md "wikilink")》網頁遊戲 -
     部分角色設定/插圖/原畫—塞繆爾·B·羅伯茨號（USS Samuel B. Roberts，
     DE-413）、約翰斯頓號（USS Johnston， DD-557）

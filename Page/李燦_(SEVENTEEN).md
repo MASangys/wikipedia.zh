@@ -76,7 +76,7 @@ Team成員之一。
 | HIGHLIGHT     | 100001489458                                                                      | ✓                      |              |    |
 | 2017年5月22日    | 《[Al1](../Page/Al1.md "wikilink")》                                                | Swimming Fool          | 100001586537 | ✓  |
 | WHO           | 100001586639                                                                      | ✓                      |              |    |
-| 2017年11月6日    | 《[Teen, Age](https://zh.wikipedia.org/wiki/Teen,_Age "wikilink")》                 | Without You（모자를 눌러 쓰고） | 100001731889 | ✓  |
+| 2017年11月6日    | 《[Teen, Age](../Page/Teen,_Age.md "wikilink")》                                    | Without You（모자를 눌러 쓰고） | 100001731889 | ✓  |
 | 十三月的舞（13월의 춤） | 100001731896                                                                      | ✓                      |              |    |
 | Flower        | 100001731904                                                                      | ✓                      |              |    |
 | 2018年7月16日    | 《[YOU MAKE MY DAY](https://zh.wikipedia.org/wiki/YOU_MAKE_MY_DAY "wikilink")》     | MOONWALKER             | 100002221450 | ✓  |
@@ -107,12 +107,12 @@ Team成員之一。
 
 ### 尚未登記
 
-| 發佈日期          | 收錄專輯                                                              | 歌曲名稱          | 性質                   | 合作成員                                                                                                                                         |
-| ------------- | ----------------------------------------------------------------- | ------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2017年5月22日    | 《[Al1](../Page/Al1.md "wikilink")》                                | Swimming Fool | 共同創作                 | [Jun](../Page/文俊輝.md "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權純永 "wikilink")、[The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink") |
-| 2017年11月6日    | 《[Teen, Age](https://zh.wikipedia.org/wiki/Teen,_Age "wikilink")》 | **CLAP（박수）**  | Jun、Hoshi、The 8、編舞老師 |                                                                                                                                              |
-| 十三月的舞（13월의 춤） | Jun、Hoshi、The 8                                                   |               |                      |                                                                                                                                              |
-| Flower        | 獨自創作                                                              |               |                      |                                                                                                                                              |
+| 發佈日期          | 收錄專輯                                           | 歌曲名稱          | 性質                   | 合作成員                                                                                                                                         |
+| ------------- | ---------------------------------------------- | ------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2017年5月22日    | 《[Al1](../Page/Al1.md "wikilink")》             | Swimming Fool | 共同創作                 | [Jun](../Page/文俊輝.md "wikilink")、[Hoshi](https://zh.wikipedia.org/wiki/權純永 "wikilink")、[The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink") |
+| 2017年11月6日    | 《[Teen, Age](../Page/Teen,_Age.md "wikilink")》 | **CLAP（박수）**  | Jun、Hoshi、The 8、編舞老師 |                                                                                                                                              |
+| 十三月的舞（13월의 춤） | Jun、Hoshi、The 8                                |               |                      |                                                                                                                                              |
+| Flower        | 獨自創作                                           |               |                      |                                                                                                                                              |
 
 ## 影視作品
 

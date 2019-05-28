@@ -403,7 +403,7 @@ SQUAD 卡邦 VS 刑事連者」的前日談描述。
   - 《[宇宙刑事](../Page/宇宙刑事.md "wikilink")》
   - 《[特搜戰隊刑事連者](../Page/特搜戰隊刑事連者.md "wikilink")》
   - 《[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》
-  - 《[英雄媽媽★聯盟](https://zh.wikipedia.org/wiki/英雄媽媽★聯盟 "wikilink")》
+  - 《[英雄媽媽★聯盟](../Page/英雄媽媽★聯盟.md "wikilink")》
 
 ## 註釋
 

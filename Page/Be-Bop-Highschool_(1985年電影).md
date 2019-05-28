@@ -1,4 +1,4 @@
-《**Be-Bop-Highschool**》（）是日本的[青春片](https://zh.wikipedia.org/wiki/青春片 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，於1985年由日本[東映公司發行](../Page/東映.md "wikilink")。
+《**Be-Bop-Highschool**》（）是日本的[青春片](../Page/青春片.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，於1985年由日本[東映公司發行](../Page/東映.md "wikilink")。
 
 本片上映後深受年輕人歡迎，最終票房為14億5000萬日圓，成為1986年度日本電影票房第2位。\[1\]鑑於本片當時在日本受歡迎的程度，東映公司其後在1986年至1988年間拍攝了5部續集。
 

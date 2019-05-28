@@ -197,7 +197,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td><p>San老师</p></td>
 <td><p>Hiphop教室</p></td>
 <td><p>Hiphop</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a> (歌手)</p></td>
+<td><p><a href="../Page/Jessi.md" title="wikilink">Jessi</a> (歌手)</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -497,7 +497,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Lady_Jane" title="wikilink">Lady Jane</a></strong></p></td>
+<td><p><strong><a href="../Page/Lady_Jane.md" title="wikilink">Lady Jane</a></strong></p></td>
 <td><p>丘比特Jane</p></td>
 <td><p>恋爱，不懂装懂...</p></td>
 <td><p>恋爱</p></td>
@@ -1076,7 +1076,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/金東炫" title="wikilink">金東炫</a></strong></p></td>
+<td><p><strong><a href="../Page/金東炫.md" title="wikilink">金東炫</a></strong></p></td>
 <td><p>金蝉</p></td>
 <td><p>明天是冠军</p></td>
 <td><p><a href="../Page/终极格斗冠军赛.md" title="wikilink">UFC</a></p></td>
@@ -1096,7 +1096,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td><p>金九拉</p></td>
 <td><p>真实综艺故事</p></td>
 <td><p>综艺</p></td>
-<td><p>、、金有坤 (<a href="https://zh.wikipedia.org/wiki/日晚" title="wikilink">日晚担当PD</a>)</p></td>
+<td><p>、、金有坤 (<a href="../Page/日晚.md" title="wikilink">日晚担当PD</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1129,7 +1129,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金東炫" title="wikilink">金東炫</a></p></td>
+<td><p><a href="../Page/金東炫.md" title="wikilink">金東炫</a></p></td>
 <td><p>金蝉</p></td>
 <td><p>明天是冠军</p></td>
 <td><p><a href="../Page/终极格斗冠军赛.md" title="wikilink">UFC</a></p></td>
@@ -1252,7 +1252,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>、<strong><a href="https://zh.wikipedia.org/wiki/Yura" title="wikilink">Yura</a></strong></p></td>
+<td><p>、<strong><a href="../Page/Yura.md" title="wikilink">Yura</a></strong></p></td>
 <td><p>李末年&amp; Yulloseu</p></td>
 <td><p>Yo&amp;年</p></td>
 <td><p>网络漫画</p></td>
@@ -1433,7 +1433,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a></strong></p></td>
+<td><p><strong><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a></strong></p></td>
 <td><p>King敬揆</p></td>
 <td><p>你好，敬揆♡</p></td>
 <td><p><a href="../Page/犬.md" title="wikilink">宠物狗</a></p></td>
@@ -1441,7 +1441,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金東炫" title="wikilink">金東炫</a>、<strong><a href="../Page/秋山成勳.md" title="wikilink">秋成勋</a></strong></p></td>
+<td><p><a href="../Page/金東炫.md" title="wikilink">金東炫</a>、<strong><a href="../Page/秋山成勳.md" title="wikilink">秋成勋</a></strong></p></td>
 <td><p>金蝉 ＆ 性感秋</p></td>
 <td><p>今天是冠军</p></td>
 <td><p><a href="../Page/柔道.md" title="wikilink">柔道</a></p></td>
@@ -1493,7 +1493,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a></p></td>
+<td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a></p></td>
 <td><p>King敬揆</p></td>
 <td><p>你好，钓鱼♡</p></td>
 <td><p><a href="../Page/钓鱼.md" title="wikilink">钓鱼</a></p></td>
@@ -1553,7 +1553,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a></p></td>
+<td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a></p></td>
 <td><p>King敬揆</p></td>
 <td><p>你好，马♡</p></td>
 <td><p><a href="../Page/马.md" title="wikilink">马</a></p></td>
@@ -1622,11 +1622,11 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a></p></td>
+<td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a></p></td>
 <td><p>King敬揆</p></td>
 <td><p>你好，花♡</p></td>
 <td><p><a href="../Page/花.md" title="wikilink">花</a></p></td>
-<td><p>、、李艺林 (<a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆女儿</a>)</p></td>
+<td><p>、、李艺林 (<a href="../Page/李敬揆.md" title="wikilink">李敬揆女儿</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1650,7 +1650,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td><p>速度爀</p></td>
 <td><p><a href="../Page/平昌郡.md" title="wikilink">平昌</a> 平昌 平昌！</p></td>
 <td><p>滑冰</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李相花" title="wikilink">李相花</a>、金艺林、 (弟弟)</p></td>
+<td><p><a href="../Page/李相花.md" title="wikilink">李相花</a>、金艺林、 (弟弟)</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1682,7 +1682,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a></p></td>
+<td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a></p></td>
 <td><p>King敬揆</p></td>
 <td><p>你好，<a href="../Page/李小龙.md" title="wikilink">李小龙</a></p></td>
 <td><p><a href="../Page/截拳道.md" title="wikilink">截拳道</a></p></td>
@@ -1734,7 +1734,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a></p></td>
+<td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a></p></td>
 <td><p>King敬揆</p></td>
 <td><p>你好，好球♡</p></td>
 <td><p><a href="../Page/高爾夫球.md" title="wikilink">高尔夫</a></p></td>
@@ -1780,7 +1780,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 
   - 网络直播：2016年6月5日
   - 节目播出：2016年6月11日、6月18日
-  - [李敬揆成功取得](https://zh.wikipedia.org/wiki/李敬揆 "wikilink")5连胜，继料理专家[白钟元后第二位神级成员](https://zh.wikipedia.org/wiki/白钟元 "wikilink")。
+  - [李敬揆成功取得](../Page/李敬揆.md "wikilink")5连胜，继料理专家[白钟元后第二位神级成员](https://zh.wikipedia.org/wiki/白钟元 "wikilink")。
   - 话剧演员安赫模作为My Little Television的固定成员加入节目。
 
 <table>
@@ -1796,7 +1796,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a></p></td>
+<td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a></p></td>
 <td><p>King敬揆</p></td>
 <td><p>你好歌剧团♡</p></td>
 <td><p>隐藏摄像机</p></td>
@@ -1904,7 +1904,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 
   - 网络直播：2016年7月3日
   - 节目播出：2016年7月9日、7月16日
-  - 魔术师是继[白钟元](https://zh.wikipedia.org/wiki/白钟元 "wikilink")、[李敬揆之后第三位登上神级的成员](https://zh.wikipedia.org/wiki/李敬揆 "wikilink")。
+  - 魔术师是继[白钟元](https://zh.wikipedia.org/wiki/白钟元 "wikilink")、[李敬揆之后第三位登上神级的成员](../Page/李敬揆.md "wikilink")。
 
 <table>
 <thead>
@@ -1939,7 +1939,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td><p>安佗里伍斯</p></td>
 <td><p>演技是什么?</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/演技" title="wikilink">演技</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴秀英" title="wikilink">Joy</a> (<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>)、全海春 (豚鼠PD)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴秀英" title="wikilink">Joy</a> (<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>)、全海春 (豚鼠PD)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2045,11 +2045,11 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td><p>猎人康</p></td>
 <td><p>你的狗幸福吗？</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/YooA" title="wikilink">YooA</a> (<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)、</p></td>
+<td><p><a href="../Page/YooA.md" title="wikilink">YooA</a> (<a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a>)、</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/朴載範.md" title="wikilink">朴載範</a></strong>、<strong><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a></strong></p></td>
+<td><p><strong><a href="../Page/朴載範.md" title="wikilink">朴載範</a></strong>、<strong><a href="../Page/Loco.md" title="wikilink">Loco</a></strong></p></td>
 <td><p>Jay Park、Loco Chu</p></td>
 <td><p>The Freshest Room</p></td>
 <td><p>舞蹈</p></td>
@@ -2101,7 +2101,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="../Page/尹普美.md" title="wikilink">普美</a></strong>、<strong><a href="https://zh.wikipedia.org/wiki/李大勋" title="wikilink">李大勋</a></strong></p></td>
+<td><p><strong><a href="../Page/尹普美.md" title="wikilink">普美</a></strong>、<strong><a href="../Page/李大勋.md" title="wikilink">李大勋</a></strong></p></td>
 <td><p>马路基、阿拉基</p></td>
 <td><p>快乐跆拳道节</p></td>
 <td><p><a href="../Page/跆拳道.md" title="wikilink">跆拳道</a></p></td>
@@ -2121,7 +2121,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td><p>冲浪精灵在型</p></td>
 <td><p>还不会冲浪吗？</p></td>
 <td><p><a href="../Page/衝浪.md" title="wikilink">衝浪</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/程潇" title="wikilink">程潇</a> (<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>)、全海春 (豚鼠PD)</p></td>
+<td><p><a href="../Page/程潇.md" title="wikilink">程潇</a> (<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>)、全海春 (豚鼠PD)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2170,7 +2170,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/程潇" title="wikilink">程潇</a></strong></p></td>
+<td><p><strong><a href="../Page/程潇.md" title="wikilink">程潇</a></strong></p></td>
 <td><p>程潇</p></td>
 <td><p>去南山的路</p></td>
 <td><p>真人秀</p></td>
@@ -2226,7 +2226,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td><p>蜜妍在</p></td>
 <td><p>甜蜜艺术体操学校</p></td>
 <td><p><a href="../Page/艺术体操.md" title="wikilink">艺术体操</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/程潇" title="wikilink">程潇</a> (<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>)、<a href="../Page/曹璐.md" title="wikilink">曹璐</a> (<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>)、全海春 (豚鼠PD)</p></td>
+<td><p><a href="../Page/程潇.md" title="wikilink">程潇</a> (<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a>)、<a href="../Page/曹璐.md" title="wikilink">曹璐</a> (<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>)、全海春 (豚鼠PD)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2295,7 +2295,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td><p>俊求妈妈</p></td>
 <td><p>泡菜多好吃啊~？</p></td>
 <td><p><a href="../Page/韓式泡菜.md" title="wikilink">泡菜</a></p></td>
-<td><p><a href="../Page/Baro.md" title="wikilink">Baro</a> (<a href="../Page/B1A4.md" title="wikilink">B1A4</a>)、<a href="https://zh.wikipedia.org/wiki/洪允和" title="wikilink">洪允和</a></p></td>
+<td><p><a href="../Page/Baro.md" title="wikilink">Baro</a> (<a href="../Page/B1A4.md" title="wikilink">B1A4</a>)、<a href="../Page/洪允和.md" title="wikilink">洪允和</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2307,7 +2307,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/曹準好" title="wikilink">曹準好</a></strong>、<strong>曹準銜</strong></p></td>
+<td><p><strong><a href="../Page/曹準好.md" title="wikilink">曹準好</a></strong>、<strong>曹準銜</strong></p></td>
 <td><p>曹教练、曹教练st</p></td>
 <td><p>YOU KNOW 柔道？</p></td>
 <td><p><a href="../Page/柔道.md" title="wikilink">柔道</a></p></td>
@@ -2319,7 +2319,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td><p>花样bra</p></td>
 <td><p>花一样的男人</p></td>
 <td><p><a href="../Page/插花.md" title="wikilink">插花</a>+<a href="../Page/混合健身.md" title="wikilink">混合健身</a></p></td>
-<td><p><a href="../Page/金藝元.md" title="wikilink">金藝元</a>、<a href="https://zh.wikipedia.org/wiki/洪允和" title="wikilink">洪允和</a></p></td>
+<td><p><a href="../Page/金藝元.md" title="wikilink">金藝元</a>、<a href="../Page/洪允和.md" title="wikilink">洪允和</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -2411,7 +2411,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a></p></td>
+<td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a></p></td>
 <td><p>King敬揆</p></td>
 <td><p>你好，敬揆♡2</p></td>
 <td><p><a href="../Page/斗牛犬.md" title="wikilink">斗牛犬</a></p></td>
@@ -2439,7 +2439,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td><p>亲切的lnza</p></td>
 <td><p>我家孩子（？）Show</p></td>
 <td><p><a href="../Page/鞋.md" title="wikilink">鞋</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a></p></td>
+<td><p><a href="../Page/Jessi.md" title="wikilink">Jessi</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -2465,7 +2465,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>、<a href="https://zh.wikipedia.org/wiki/金東炫" title="wikilink">金東炫</a>、、<a href="https://zh.wikipedia.org/wiki/曹準好" title="wikilink">曹準好</a>、曹準銜</p></td>
+<td><p>、<a href="../Page/金東炫.md" title="wikilink">金東炫</a>、、<a href="../Page/曹準好.md" title="wikilink">曹準好</a>、曹準銜</p></td>
 <td><p>Jay Park、金蝉、梁拉提、曹教练、曹教练st</p></td>
 <td><p>豚鼠和好身材朋友们</p></td>
 <td><p><a href="../Page/体育.md" title="wikilink">体育</a></p></td>
@@ -2473,10 +2473,10 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金九拉" title="wikilink">金九拉</a>、<a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金九拉" title="wikilink">金九拉</a>、<a href="../Page/李敬揆.md" title="wikilink">李敬揆</a></p></td>
 <td><p>金九拉、King敬揆</p></td>
 <td><p>综艺之夜</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/娛樂" title="wikilink">娛樂</a></p></td>
+<td><p><a href="../Page/娛樂.md" title="wikilink">娛樂</a></p></td>
 <td><p>、、</p></td>
 <td></td>
 </tr>
@@ -2489,7 +2489,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td></td>
 </tr>
 <tr class="even">
-<td><p>、、柳民珠、<a href="https://zh.wikipedia.org/wiki/程潇" title="wikilink">程潇</a></p></td>
+<td><p>、、柳民珠、<a href="../Page/程潇.md" title="wikilink">程潇</a></p></td>
 <td><p>英Man (Young Man)、蒙面载根、Deli民珠、程潇</p></td>
 <td><p>圣诞节的秘密啊~</p></td>
 <td><p><a href="../Page/艺术.md" title="wikilink">艺术</a></p></td>
@@ -2528,7 +2528,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a></p></td>
+<td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a></p></td>
 <td><p>King敬揆</p></td>
 <td><p>你好，住宅♡</p></td>
 <td><p><a href="../Page/不動產.md" title="wikilink">不動產</a></p></td>
@@ -2580,11 +2580,11 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a></p></td>
+<td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a></p></td>
 <td><p>King敬揆</p></td>
 <td><p>你好，电影♡</p></td>
 <td><p><a href="../Page/电影.md" title="wikilink">电影</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金泰勋" title="wikilink">金泰勋</a> (音乐评论家)</p></td>
+<td><p><a href="../Page/金泰勋.md" title="wikilink">金泰勋</a> (音乐评论家)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2796,7 +2796,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></strong></p></td>
+<td><p><strong><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></strong></p></td>
 <td><p>无所有的ICON</p></td>
 <td><p>房间一角一流生活</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/生活型態" title="wikilink">生活型態</a></p></td>
@@ -2848,7 +2848,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/柳炳宰" title="wikilink">柳炳宰</a></strong></p></td>
+<td><p><strong><a href="../Page/柳炳宰.md" title="wikilink">柳炳宰</a></strong></p></td>
 <td><p>毛克·霍根</p></td>
 <td><p>我的小小摔跤狂</p></td>
 <td><p><a href="../Page/職業摔角.md" title="wikilink">職業摔角</a></p></td>
@@ -2885,7 +2885,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a> (<a href="https://zh.wikipedia.org/wiki/Yura" title="wikilink">Yura</a>、<strong><a href="../Page/惠利.md" title="wikilink">惠利</a></strong>)</p></td>
+<td><p><a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a> (<a href="../Page/Yura.md" title="wikilink">Yura</a>、<strong><a href="../Page/惠利.md" title="wikilink">惠利</a></strong>)</p></td>
 <td><p>Yu柯南、惠洛克</p></td>
 <td><p>Show 逃脱中心</p></td>
 <td><p><a href="../Page/密室逃脱.md" title="wikilink">密室逃脱</a></p></td>
@@ -2901,7 +2901,7 @@ Little Television**》的播出列表，首次出演者以**粗体**标注。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/朴俊炯" title="wikilink">朴俊炯</a></strong></p></td>
+<td><p><strong><a href="../Page/朴俊炯.md" title="wikilink">朴俊炯</a></strong></p></td>
 <td><p>俊儿哥</p></td>
 <td><p>BAMM BAMM 健身</p></td>
 <td><p><a href="../Page/體適能.md" title="wikilink">體適能</a></p></td>

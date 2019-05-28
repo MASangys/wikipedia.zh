@@ -18,9 +18,7 @@
 3.  **GOT ME GOING' (TeddyLoid Remix)**
 4.  **WHO (KNOXX Remix)**
 5.  **OUTTA MY HEAD (YUTO Remix)**
-6.  **[NEVER
-    ENOUGH](https://zh.wikipedia.org/wiki/NEVER_ENOUGH "wikilink") (YUTO
-    Remix)**
+6.  **[NEVER ENOUGH](../Page/NEVER_ENOUGH.md "wikilink") (YUTO Remix)**
 7.  **ALL RIGHT (Voia Remix)**
 8.  **[LIT](https://zh.wikipedia.org/wiki/LIT_\(倖田來未單曲\) "wikilink")
     (YUTO Remix)**

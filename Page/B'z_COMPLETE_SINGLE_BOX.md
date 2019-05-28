@@ -236,14 +236,14 @@ Edition」2種類。
 9.  **[野性のENERGY](https://zh.wikipedia.org/wiki/Typhoon_No.15_〜B'z_LIVE-GYM_The_Final_Pleasure_"IT'S_SHOWTIME!!"_in_渚園〜 "wikilink")**
     \[B'z LIVE-GYM The Final Pleasure -IT'S SHOWTIME\!\!-\] (2003/9/21
     渚園)
-10. **[BANZAI](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2005_-CIRCLE_OF_ROCK- "wikilink")**
+10. **[BANZAI](../Page/B'z_LIVE-GYM_2005_-CIRCLE_OF_ROCK-.md "wikilink")**
     \[B'z LIVE-GYM 2005 -CIRCLE OF ROCK-\](2005/9/19
     [大阪巨蛋](../Page/大阪巨蛋.md "wikilink"))
 11. **[ARIGATO](https://zh.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure"#DVD（僅2CD+DVD版） "wikilink")**
     \[B'z SHOWCASE 2007 -19-\] (2007/6/21 )
-12. **[愛のバクダン](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2005_-CIRCLE_OF_ROCK- "wikilink")**
+12. **[愛のバクダン](../Page/B'z_LIVE-GYM_2005_-CIRCLE_OF_ROCK-.md "wikilink")**
     \[B'z LIVE-GYM 2005 -CIRCLE OF ROCK-\] (2005/9/19 大阪巨蛋)
-13. **[OCEAN](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2005_-CIRCLE_OF_ROCK- "wikilink")**
+13. **[OCEAN](../Page/B'z_LIVE-GYM_2005_-CIRCLE_OF_ROCK-.md "wikilink")**
     \[B'z LIVE-GYM 2005 -CIRCLE OF ROCK-\] (2005/9/19 大阪巨蛋)
 14. **[衝動](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2006_"MONSTER'S_GARAGE" "wikilink")**
     \[B'z LIVE-GYM 2006 -MONSTER'S GARAGE-\] (2006/8/10 東京巨蛋)
@@ -252,13 +252,13 @@ Edition」2種類。
     [名古屋巨蛋](../Page/名古屋巨蛋.md "wikilink"))
 16. **[SPLASH\!](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2006_"MONSTER'S_GARAGE" "wikilink")**
     \[B'z LIVE-GYM 2006 -MONSTER'S GARAGE-\] (2006/8/10 東京巨蛋)
-17. **[永遠の翼](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2008_-ACTION- "wikilink")**
-    \[B'z LIVE-GYM 2008 -ACTION-\] (2008/7/6 )
+17. **[永遠の翼](../Page/B'z_LIVE-GYM_2008_-ACTION-.md "wikilink")** \[B'z
+    LIVE-GYM 2008 -ACTION-\] (2008/7/6 )
 18. **[SUPER LOVE
-    SONG](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2008_-ACTION- "wikilink")**
-    \[B'z LIVE-GYM 2008 -ACTION-\] (2008/7/6 日本ガイシホール)
+    SONG](../Page/B'z_LIVE-GYM_2008_-ACTION-.md "wikilink")** \[B'z
+    LIVE-GYM 2008 -ACTION-\] (2008/7/6 日本ガイシホール)
 19. **[BURN
-    -フメツノフェイス-](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2008_-ACTION- "wikilink")**
+    -フメツノフェイス-](../Page/B'z_LIVE-GYM_2008_-ACTION-.md "wikilink")**
     \[B'z LIVE-GYM 2008 -ACTION-\] (2008/7/6 日本ガイシホール)
 20. **[イチブトゼンブ](https://zh.wikipedia.org/wiki/B'z_LIVE-GYM_2010_"Ain't_No_Magic"_at_TOKYO_DOME "wikilink")**
     \[B'z LIVE-GYM 2010 -Ain't No Magic-\] (2010/3/7 東京巨蛋)

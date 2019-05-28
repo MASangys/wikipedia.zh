@@ -2,9 +2,9 @@
 Kids](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")**迄今共發行4張[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")。2017年成員透過節目《[Stray
 Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》實現全員出道，出道前先行專輯《[Mixtape](../Page/Mixtape_\(Stray_Kids迷你專輯\).md "wikilink")》於2018年1月8日發行，專輯空降韓國[Gaon音樂榜](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")、美國告示牌世界專輯榜第2名。包含先行專輯在內，Stray
 Kids於2018年共發行了4張迷你專輯。正式出道專輯《[I am
-NOT](https://zh.wikipedia.org/wiki/I_am_NOT_\(Stray_Kids迷你專輯\) "wikilink")》於同年3月26日發行，韓國Gaon音樂榜首週獲第4名，並首次進入[法國專輯排行榜](../Page/法國唱片出版業公會.md "wikilink")。2018年第3張專輯《[I
+NOT](../Page/I_am_NOT_\(Stray_Kids迷你專輯\).md "wikilink")》於同年3月26日發行，韓國Gaon音樂榜首週獲第4名，並首次進入[法國專輯排行榜](../Page/法國唱片出版業公會.md "wikilink")。2018年第3張專輯《[I
 am
-WHO](https://zh.wikipedia.org/wiki/I_am_WHO_\(Stray_Kids迷你專輯\) "wikilink")》於8月6日公開，同樣進入臺、韓等地排行榜。2018年10月22日，《[I
+WHO](../Page/I_am_WHO_\(Stray_Kids迷你專輯\).md "wikilink")》於8月6日公開，同樣進入臺、韓等地排行榜。2018年10月22日，《[I
 am YOU](../Page/I_am_YOU_\(Stray_Kids迷你專輯\).md "wikilink")》正式發行。
 2019年3月25日發行迷你4輯《[Clé 1 :
 MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂榜與台灣5大金榜榜首，首週銷量也突破十萬張。
@@ -77,7 +77,7 @@ MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂�
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/I_am_NOT_(Stray_Kids迷你專輯)" title="wikilink">I am NOT</a>》</p></td>
+<td><p>《<a href="../Page/I_am_NOT_(Stray_Kids迷你專輯).md" title="wikilink">I am NOT</a>》</p></td>
 <td><ul>
 <li>發行日期：2018年3月26日</li>
 <li>唱片廠牌：JYP娛樂、<a href="https://zh.wikipedia.org/wiki/iRiver" title="wikilink">iRiver</a></li>
@@ -87,7 +87,7 @@ MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂�
 <td><p>155</p></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/I_am_WHO_(Stray_Kids迷你專輯)" title="wikilink">I am WHO</a>》</p></td>
+<td><p>《<a href="../Page/I_am_WHO_(Stray_Kids迷你專輯).md" title="wikilink">I am WHO</a>》</p></td>
 <td><ul>
 <li>發行日期：2018年8月6日</li>
 <li>唱片廠牌：JYP娛樂、iRiver</li>
@@ -177,7 +177,7 @@ MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂�
 <td><p>—</p></td>
 <td><p>8</p></td>
 <td><p>—</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/I_am_WHO_(Stray_Kids迷你專輯)" title="wikilink">I am WHO</a>》</p></td>
+<td><p>《<a href="../Page/I_am_WHO_(Stray_Kids迷你專輯).md" title="wikilink">I am WHO</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p>《I am YOU》</p></td>

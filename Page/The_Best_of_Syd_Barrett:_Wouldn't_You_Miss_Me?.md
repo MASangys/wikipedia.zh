@@ -1,5 +1,5 @@
 《[The Best of Syd Barrett: Wouldn't You Miss
-Me?](https://zh.wikipedia.org/wiki/The_Best_of_Syd_Barrett:_Wouldn't_You_Miss_Me? "wikilink")》是由[西德·巴雷特于](../Page/西德·巴雷特.md "wikilink")2001年发行的精选专辑，该专辑涵盖了巴雷特的整个独唱生涯。
+Me?](../Page/The_Best_of_Syd_Barrett:_Wouldn't_You_Miss_Me?.md "wikilink")》是由[西德·巴雷特于](../Page/西德·巴雷特.md "wikilink")2001年发行的精选专辑，该专辑涵盖了巴雷特的整个独唱生涯。
 
 ## 曲目
 

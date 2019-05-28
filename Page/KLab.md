@@ -14,7 +14,7 @@ KLab目前在[菲律宾](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")[马
 Food\&Culture”，向全世界推广[日本饮食文化](../Page/日本料理.md "wikilink")\[4\]；另外，KLab也曾进军娱乐产业，并在2015年成立了“KLab
 Entertainment”，以打造原创[IP为主营业务](../Page/知识产权.md "wikilink")\[5\]，但最终在2017年终止了这一业务。
 
-2013年，KLab开发、[武士道运营的](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")[手机游戏](../Page/手机游戏.md "wikilink")《[LoveLive\!
+2013年，KLab开发、[武士道运营的](../Page/武士道_\(公司\).md "wikilink")[手机游戏](../Page/手机游戏.md "wikilink")《[LoveLive\!
 学园偶像祭](https://zh.wikipedia.org/wiki/LoveLive!_学园偶像祭 "wikilink")》开始运营。由于其反应热烈，KLab因而在2013年5月摆脱长期[赤字的困境](https://zh.wikipedia.org/wiki/赤字 "wikilink")，成功扭亏为盈，从预期的亏损9000万日元逆转为盈利9000万日元，也让KLab“两度起死回生”\[6\]\[7\]\[8\]。然而KLab也存在着收入过度依赖某一热门作品进行创收的现象\[9\]。2015年第四季度，由于《LoveLive\!
 学园偶像祭》游戏内容更新缓慢，导致玩家消费意愿降低，KLab营收较前一季度下滑29.2%，季度净亏损2.34亿日元，时隔8个季度再度出现营业赤字\[10\]。
 

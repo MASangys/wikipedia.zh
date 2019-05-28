@@ -34,7 +34,7 @@ WARS！](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink")》、�
 <td><p><a href="../Page/你好_七葉.md" title="wikilink">你好七葉</a></p></td>
 <td></td>
 <td><p>10月6日－12月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/木村寬" title="wikilink">木村寬</a></p></td>
+<td><p><a href="../Page/木村寬.md" title="wikilink">木村寬</a></p></td>
 <td><p>原創</p></td>
 <td><p>5分鐘短篇電視動畫</p></td>
 </tr>
@@ -61,7 +61,7 @@ WARS！](../Page/RAIL_WARS!_-日本國有鐵道公安隊-.md "wikilink")》、�
 <td><p><a href="https://zh.wikipedia.org/wiki/六花的勇者" title="wikilink">六花的勇者</a></p></td>
 <td></td>
 <td><p>7月4日－9月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高橋丈夫" title="wikilink">高橋丈夫</a></p></td>
+<td><p><a href="../Page/高橋丈夫.md" title="wikilink">高橋丈夫</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -283,4 +283,4 @@ OVA
 3.
 4.
 
-5.  前面3期都由[TNK製作](https://zh.wikipedia.org/wiki/TNK "wikilink")。
+5.  前面3期都由[TNK製作](../Page/TNK.md "wikilink")。

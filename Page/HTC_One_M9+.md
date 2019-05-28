@@ -2,7 +2,7 @@
 M9+**是[台灣手機公司](https://zh.wikipedia.org/wiki/台湾 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏达电 "wikilink")2015年所開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手机 "wikilink")，属於[HTC
 One
 系列中的高階旗艦機型](https://zh.wikipedia.org/wiki/HTC_One_\(系列\) "wikilink")，運行最新的[Android](../Page/Android.md "wikilink")[5.0
-Lollipop操作系统](https://zh.wikipedia.org/wiki/Android_Lollipop "wikilink")，競爭對手為[Samsung
+Lollipop操作系统](../Page/Android_Lollipop.md "wikilink")，競爭對手為[Samsung
 Galaxy S6
 edge+](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S6_edge+ "wikilink")、[LG
 V10](https://zh.wikipedia.org/wiki/LG_V10 "wikilink")、[Sony Xperia Z5

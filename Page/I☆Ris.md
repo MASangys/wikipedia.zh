@@ -46,7 +46,7 @@ Vocal Audition」中挑選6名合格者並組成組合\[2\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/茜屋日海夏" title="wikilink">茜屋日海夏</a><br />
+<td><p><a href="../Page/茜屋日海夏.md" title="wikilink">茜屋日海夏</a><br />
 （）</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/秋田縣" title="wikilink">秋田縣</a></p></td>
@@ -56,7 +56,7 @@ Vocal Audition」中挑選6名合格者並組成組合\[2\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/若井友希" title="wikilink">若井友希</a><br />
+<td><p><a href="../Page/若井友希.md" title="wikilink">若井友希</a><br />
 （）</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/岐阜縣" title="wikilink">岐阜縣</a></p></td>
@@ -76,7 +76,7 @@ Vocal Audition」中挑選6名合格者並組成組合\[2\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/澀谷梓希" title="wikilink">澀谷梓希</a><br />
+<td><p><a href="../Page/澀谷梓希.md" title="wikilink">澀谷梓希</a><br />
 （）</p></td>
 <td></td>
 <td><p><a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a></p></td>

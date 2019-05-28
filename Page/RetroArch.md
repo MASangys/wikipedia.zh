@@ -60,7 +60,7 @@
 <td><p>Emux</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/ColecoVision" title="wikilink">ColecoVision</a></p></td>
+<td><p><a href="../Page/ColecoVision.md" title="wikilink">ColecoVision</a></p></td>
 <td><p>blueMSX</p></td>
 </tr>
 <tr class="odd">

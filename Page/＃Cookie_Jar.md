@@ -1,6 +1,6 @@
 《**\#Cookie
 Jar**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet的日本出道迷你專輯](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")，由所屬經紀公司[SM娛樂與日本唱片公司](../Page/SM娛樂.md "wikilink")[AVEX
+Velvet的日本出道迷你專輯](../Page/Red_Velvet.md "wikilink")，由所屬經紀公司[SM娛樂與日本唱片公司](../Page/SM娛樂.md "wikilink")[AVEX
 TRAX共同製作並發行](../Page/愛貝克思集團.md "wikilink")，於2018年7月4日以兩种不同的版本發售該專輯。\[1\]
 
 ## 背景與預告

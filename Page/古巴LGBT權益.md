@@ -29,7 +29,7 @@
 
 ## 參見
 
-  - [古巴人權](https://zh.wikipedia.org/wiki/古巴人權 "wikilink")
+  - [古巴人權](../Page/古巴人權.md "wikilink")
 
   -
   - [美洲LGBT權益](../Page/美洲LGBT權益.md "wikilink")

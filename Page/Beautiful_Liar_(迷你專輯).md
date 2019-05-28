@@ -119,7 +119,7 @@ Liar》作主打曲；同時也釋放一張概念照片\[4\]。到8月10日，�
 <td><p>2015年8月17日</p></td>
 <td><p><a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a><br />
-<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></p></td>
+<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -10,7 +10,7 @@ Knox）。\[3\]
 
 2014年10月，[美国国家安全局批准](../Page/美国国家安全局.md "wikilink")[三星Galaxy设备运行程序以快速部署商用技术](../Page/三星Galaxy.md "wikilink")。批准设备包括[Galaxy
 S4](../Page/三星Galaxy_S4.md "wikilink"), [Galaxy
-S5](https://zh.wikipedia.org/wiki/三星Galaxy_S5 "wikilink")、[Galaxy
+S5](../Page/三星Galaxy_S5.md "wikilink")、[Galaxy
 S6](../Page/三星Galaxy_S6.md "wikilink")、[Galaxy
 S7](../Page/三星Galaxy_S7.md "wikilink")、[Galaxy Note
 3和](../Page/三星Galaxy_Note_3.md "wikilink")[Galaxy Note 10.1

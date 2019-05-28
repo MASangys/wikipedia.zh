@@ -4,7 +4,7 @@
 ## 简介
 
 SHISHAMO在2018年4月8日举办的2018春季巡回演唱会[名古屋站的演出中宣布了将要发行这张专辑的消息](../Page/名古屋市.md "wikilink")\[1\]。与上一张专辑《[SHISHAMO
-4](https://zh.wikipedia.org/wiki/SHISHAMO_4 "wikilink")》时隔1年4个月，新专辑《SHISHAMO
+4](../Page/SHISHAMO_4.md "wikilink")》时隔1年4个月，新专辑《SHISHAMO
 5》共收录包括2018年春季[可尔必思水广告曲](../Page/可爾必思.md "wikilink")《[淡蓝色的日子](../Page/淡蓝色的日子.md "wikilink")》，电影《[恋爱回旋](https://zh.wikipedia.org/wiki/恋爱回旋 "wikilink")》主题曲《[看那笑容](../Page/看那笑容.md "wikilink")》等共13曲\[2\]。
 
 这张专辑中的歌曲《呐，》是继3月21日发售单曲《淡蓝色的日子》后再次由音乐制作人[小林武史参与编曲工作](../Page/小林武史.md "wikilink")。同时《呐，》也成为了可尔必思水2018年夏季广告的广告歌\[3\]。

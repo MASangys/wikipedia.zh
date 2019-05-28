@@ -8,14 +8,14 @@ Music](https://zh.wikipedia.org/wiki/Genie_Music "wikilink") | Producer
 | Reviews = | Last album = [The Red
 Summer](../Page/The_Red_Summer.md "wikilink")
 （2017年） | This album = **[Perfect Velvet / The Perfect Red
-Velvet](https://zh.wikipedia.org/wiki/Perfect_Velvet "wikilink")
+Velvet](../Page/Perfect_Velvet.md "wikilink")
 （2017/8年）** | Next album = [＃Cookie
-Jar](https://zh.wikipedia.org/wiki/＃Cookie_Jar "wikilink")
+Jar](../Page/＃Cookie_Jar.md "wikilink")
 （2018年） | Misc =     }}
 
 《**Perfect
 Velvet**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SM娛樂旗下的](../Page/SM娛樂.md "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet的第二張](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[正規專輯](../Page/音樂專輯.md "wikilink")，該專輯為[SM娛樂製作並於](../Page/SM娛樂.md "wikilink")2017年11月17日由[Genie
+Velvet的第二張](../Page/Red_Velvet.md "wikilink")[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[正規專輯](../Page/音樂專輯.md "wikilink")，該專輯為[SM娛樂製作並於](../Page/SM娛樂.md "wikilink")2017年11月17日由[Genie
 Music發行](https://zh.wikipedia.org/wiki/Genie_Music "wikilink")，主打曲為《Peek-A-Boo》。這是Red
 Velvet繼第一張正規專輯《[The
 Red](../Page/The_Red.md "wikilink")》之後，時隔兩年零三個月發佈第二張正規專輯。
@@ -60,7 +60,7 @@ Velvet也于晚上在Naver V App放送團内第一個的躺播。\[10\]
 Red
 Velvet于11月17日，在[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》帶來主打曲《Peek-A-Boo》及專輯内錄曲《Look》的初放送舞臺。\[11\]
 
-其中成員[SEULGI更在第](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")19届[Mnet亚洲音乐大奖表演](https://zh.wikipedia.org/wiki/Mnet亚洲音乐大奖 "wikilink")《I
+其中成員[SEULGI更在第](../Page/瑟琪.md "wikilink")19届[Mnet亚洲音乐大奖表演](https://zh.wikipedia.org/wiki/Mnet亚洲音乐大奖 "wikilink")《I
 Just》的Remix版本。\[12\]
 
 ### 商業成績

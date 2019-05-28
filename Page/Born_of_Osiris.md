@@ -29,7 +29,7 @@ Enemy同台](https://zh.wikipedia.org/wiki/Arch_Enemy "wikilink")。9月，赴�
 
 ### 音樂風格
 
-樂團的曲風通常被歸類為[金屬核](https://zh.wikipedia.org/wiki/金屬核 "wikilink")、[技術死亡核](https://zh.wikipedia.org/wiki/技術死亡核 "wikilink")、[前衛死亡核](https://zh.wikipedia.org/wiki/前衛死亡核 "wikilink")、、和[前衛金屬](../Page/前衛金屬.md "wikilink")。他們的音樂受到[Meshuggah](https://zh.wikipedia.org/wiki/Meshuggah "wikilink")、、、、[Slayer和](https://zh.wikipedia.org/wiki/Slayer "wikilink")[The
+樂團的曲風通常被歸類為[金屬核](https://zh.wikipedia.org/wiki/金屬核 "wikilink")、[技術死亡核](https://zh.wikipedia.org/wiki/技術死亡核 "wikilink")、[前衛死亡核](https://zh.wikipedia.org/wiki/前衛死亡核 "wikilink")、、和[前衛金屬](../Page/前衛金屬.md "wikilink")。他們的音樂受到[Meshuggah](../Page/Meshuggah.md "wikilink")、、、、[Slayer和](https://zh.wikipedia.org/wiki/Slayer "wikilink")[The
 Mars
 Volta的影響](https://zh.wikipedia.org/wiki/The_Mars_Volta "wikilink")\[10\]。
 

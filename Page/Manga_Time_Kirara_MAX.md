@@ -57,8 +57,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
       - 第2期 - 2015年10月 - 12月播放
       - 劇場版 - 2017年11月11日上映
   - [斯特拉的魔法](../Page/斯特拉的魔法.md "wikilink") - 2016年10月 - 12月播放
-  - [漫画女孩](https://zh.wikipedia.org/wiki/漫画女孩 "wikilink") - 2018年4月 -
-    6月播放
+  - [漫画女孩](../Page/漫画女孩.md "wikilink") - 2018年4月 - 6月播放
 
 ### 改编为游戏的作品
 
@@ -111,15 +110,15 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <tr class="odd">
 <td><p><a href="../Page/斯特拉的魔法.md" title="wikilink">斯特拉的魔法</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Cloba·U" title="wikilink">黑叶・U</a></p></td>
+<td><p><a href="../Page/Cloba·U.md" title="wikilink">黑叶・U</a></p></td>
 <td><p>2012年10月号-11月号</p></td>
 <td><p>2013年2月号</p></td>
 <td><p>在杂志官网设有主页</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/漫画女孩" title="wikilink">漫画女孩</a></p></td>
+<td><p><a href="../Page/漫画女孩.md" title="wikilink">漫画女孩</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/半泽香织" title="wikilink">半泽香织</a></p></td>
+<td><p><a href="../Page/半泽香织.md" title="wikilink">半泽香织</a></p></td>
 <td><p>2014年5月号-7月号</p></td>
 <td><p>2014年8月号</p></td>
 <td></td>
@@ -896,7 +895,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南野彼方" title="wikilink">田仲康二</a></p></td>
+<td><p><a href="../Page/南野彼方.md" title="wikilink">田仲康二</a></p></td>
 <td><p>2011年1-2月号</p></td>
 <td><p>2011年5月号</p></td>
 <td><p>2013年5月号</p></td>
@@ -1202,7 +1201,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/魔法少女的華麗餘生" title="wikilink">魔法少女的華麗餘生</a></p></td>
+<td><p><a href="../Page/魔法少女的華麗餘生.md" title="wikilink">魔法少女的華麗餘生</a></p></td>
 <td></td>
 <td><p><a href="../Page/晴濑浩贵.md" title="wikilink">晴濑浩贵</a></p></td>
 <td><p>2015年11-12月号</p></td>
@@ -1229,7 +1228,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/为什么我进了美术科啊！？" title="wikilink">为什么我进了美术科啊！？</a></p></td>
+<td><p><a href="../Page/为什么我进了美术科啊！？.md" title="wikilink">为什么我进了美术科啊！？</a></p></td>
 <td></td>
 <td></td>
 <td><p>2016年3-5月号</p></td>

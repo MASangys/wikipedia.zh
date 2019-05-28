@@ -1,6 +1,6 @@
 《**Guardian Recall ～守護獸召喚～**》（ガーディアンリコール しゅごじゅうしょうかん，**Guardian Recall
 ～守護獸召喚～**）是[1996年](../Page/1996年.md "wikilink")[7月30日由アグミックス發售的](../Page/7月30日.md "wikilink")[PC-9801](../Page/PC-98系列.md "wikilink")/[PC-9821版](https://zh.wikipedia.org/wiki/PC-9821 "wikilink")[日本成人遊戲](../Page/日本成人遊戲.md "wikilink")，之後移植到[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，
-[1998年](../Page/1998年.md "wikilink")[10月1日由](../Page/10月1日.md "wikilink")[XING發售](../Page/XING.md "wikilink")[PlayStation的全年齢向版](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。
+[1998年](../Page/1998年.md "wikilink")[10月1日由](../Page/10月1日.md "wikilink")[XING發售](../Page/XING.md "wikilink")[PlayStation的全年齢向版](../Page/PlayStation.md "wikilink")。
 
 遊戲系統為[戰略角色扮演遊戲](https://zh.wikipedia.org/wiki/戰略角色扮演遊戲 "wikilink")。最大的特徵是遊戲角色不用直接參與戰鬥，而是利用被叫做「守護獸」的特殊能力將守護獸具體化並且對它們下令進行戰鬥。遊戲中共有兩名主角，序盤時會因為主角不同有不同的劇情發展，但遊戲中盤時會互相會合而變成同一劇情內容。
 
@@ -85,7 +85,7 @@
 
 ### 隱藏角色
 
-  - 武神（たけがみ）:声：[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")
+  - 武神（たけがみ）:声：[梁田清之](../Page/梁田清之.md "wikilink")
     同伴成員中的唯一男性。
     『[クィーン・オブ・デュエリスト外伝](https://zh.wikipedia.org/wiki/クィーン・オブ・デュエリスト外伝 "wikilink")』中的跨界角色。
     PC版中只要破關一次並從頭開始玩就會加入，PS版中則是收集到全部4套的「武神」裝（武神笠，武神手甲，武神黑帶，武神靴），就會在隱藏關卡中加入隊伍。

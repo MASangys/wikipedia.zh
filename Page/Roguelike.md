@@ -11,9 +11,8 @@ Maj'Eyal](https://zh.wikipedia.org/wiki/Tales_of_Maj'Eyal "wikilink")（马基�
 
 近年来，随着个人电脑的发展和游戏系统的完善，出现了很多融合其他游戏元素的Roguelike变体，例如下列[独立游戏](../Page/独立游戏.md "wikilink")：Weird
 Worlds: Return to Infinite Space、Spelunky、The Binding of
-Isaac（[以撒的结合](https://zh.wikipedia.org/wiki/以撒的结合 "wikilink")）、FTL:
-Faster Than Light（超越光速）、Cataclysm: Dark Days Ahead、Rogue
-Legacy（盗贼遗产）、Risks of
+Isaac（[以撒的结合](../Page/以撒的结合.md "wikilink")）、FTL: Faster Than
+Light（超越光速）、Cataclysm: Dark Days Ahead、Rogue Legacy（盗贼遗产）、Risks of
 Rain（雨中冒险）。以上有时被称为“roguelike-like”或“rogue-lite”游戏，以示与传统Roguelike的区别。其他如[暗黑破坏神](../Page/暗黑破坏神_\(游戏\).md "wikilink")（Diablo）、[虚幻世界](../Page/虚幻世界.md "wikilink")（UnReal
 World）等游戏，也明显受到了Roguelike游戏的影响。\[1\]
 

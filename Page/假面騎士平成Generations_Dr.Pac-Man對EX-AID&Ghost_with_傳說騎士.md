@@ -5,7 +5,7 @@
 
   - 本作為假面騎士誕生45週年紀念作品，亦為假面騎士連動劇場版「MOVIE大戰系列」從以往的標題「MOVIE大戰」更改為新的標題「假面騎士平成Generations」後的第一部劇場版作品。
   - 首次與經典遊戲角色[食鬼](https://zh.wikipedia.org/wiki/食鬼 "wikilink")（Pac-Man）合作，食鬼將作爲本作的大反派出場。
-  - 知名演員[佐野史郎為本作演出](https://zh.wikipedia.org/wiki/佐野史郎 "wikilink")\[1\]，另外知名摔跤選手同時也是假面騎士系列作品的大Fans[棚橋弘至亦參與演出](https://zh.wikipedia.org/wiki/棚橋弘至 "wikilink")\[2\]。
+  - 知名演員[佐野史郎為本作演出](../Page/佐野史郎.md "wikilink")\[1\]，另外知名摔跤選手同時也是假面騎士系列作品的大Fans[棚橋弘至亦參與演出](https://zh.wikipedia.org/wiki/棚橋弘至 "wikilink")\[2\]。
   - 本作除了主要演出的假面騎士EX-AID和假面騎士Ghost外，同時前作系列的假面騎士Drive、假面騎士鎧武和假面騎士Wizard亦於本作中作為傳說騎士登場。
   - 於11月24日的完成披露上映會中得知，飾演假面騎士Wizard中的主角操真晴人的演員[白石隼也及假面騎士Drive的主角泊進之介的演員](../Page/白石隼也.md "wikilink")[竹內涼真兩人亦在此劇中真人演出](../Page/竹內涼真.md "wikilink")\[3\]。
   - 電視版本篇中即將現身的雙重動作玩家Level XX於本作先行登場。
@@ -70,17 +70,17 @@
     **假面騎士Wizard**的變身者。
     為了尋找安息之地到處流浪的魔法師，現因追尋著希望而再次出現在眾人面前。
 
-**鏡飛彩（）**（[瀨戶利樹](https://zh.wikipedia.org/wiki/瀨戶利樹 "wikilink") 飾）
+**鏡飛彩（）**（[瀨戶利樹](../Page/瀨戶利樹.md "wikilink") 飾）
 
   -
     **假面騎士Brave**的變身者。
 
-**花家大我（）**（[松本享恭](https://zh.wikipedia.org/wiki/松本享恭 "wikilink") 飾）
+**花家大我（）**（[松本享恭](../Page/松本享恭.md "wikilink") 飾）
 
   -
     **假面騎士Snipe**的變身者。
 
-**九條貴利矢（）**（[小野塚勇人](https://zh.wikipedia.org/wiki/小野塚勇人 "wikilink") 飾）
+**九條貴利矢（）**（[小野塚勇人](../Page/小野塚勇人.md "wikilink") 飾）
 
   -
     **假面騎士Lazer**的變身者。
@@ -99,9 +99,9 @@
 
 **假野明日那（）**（[松田瑠華](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink") 飾）
 
-**檀黎斗（）**（[岩永徹也](https://zh.wikipedia.org/wiki/岩永徹也 "wikilink") 飾）
+**檀黎斗（）**（[岩永徹也](../Page/岩永徹也.md "wikilink") 飾）
 
-**帕拉德（）**（[甲斐翔真飾](https://zh.wikipedia.org/wiki/甲斐翔真 "wikilink")）
+**帕拉德（）**（[甲斐翔真飾](../Page/甲斐翔真.md "wikilink")）
 
 **鏡灰馬（）**（ 飾）
 
@@ -121,7 +121,7 @@
 
 ### 本作登場人物
 
-'''財前美智彦（） '''（[佐野史郎飾](https://zh.wikipedia.org/wiki/佐野史郎 "wikilink")）
+'''財前美智彦（） '''（[佐野史郎飾](../Page/佐野史郎.md "wikilink")）
 
   -
     次世代基因組研究所的所長，也是[遺傳因子治療的專家](https://zh.wikipedia.org/wiki/遺傳因子 "wikilink")，於本作六年前被判定死亡，其實是分離出永夢的崩源體\[5\]的時候遭病毒感染而掉入遊戲世界，現以Dr.
@@ -927,7 +927,7 @@ Level 2</p></td>
   - 作詞：三浦大知、
   - 作曲：岡嶋かな多、Carpainter
   - 編曲：UTA、Carpainter
-  - 演唱：[三浦大知](https://zh.wikipedia.org/wiki/三浦大知 "wikilink")
+  - 演唱：[三浦大知](../Page/三浦大知.md "wikilink")
 
 「**SURPRISE-DRIVE**」
 
@@ -1016,21 +1016,13 @@ Level 2</p></td>
   - 寶生永夢 / 假面騎士EX-AID -
     [飯島寛騎](https://zh.wikipedia.org/wiki/飯島寛騎 "wikilink")
     飾 / 聲
-  - 檀黎斗 / 假面騎士Genm -
-    [岩永徹也](https://zh.wikipedia.org/wiki/岩永徹也 "wikilink")
-    飾 / 聲
+  - 檀黎斗 / 假面騎士Genm - [岩永徹也](../Page/岩永徹也.md "wikilink") 飾 / 聲
   - 仮野明日那 / Poppypipopapo -
     [松田瑠華](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink")
     飾
-  - 鏡飛彩 / 假面騎士Brave -
-    [瀨戶利樹](https://zh.wikipedia.org/wiki/瀨戶利樹 "wikilink")
-    飾 / 聲
-  - 花家大我 / 假面騎士Snipe -
-    [松本享恭](https://zh.wikipedia.org/wiki/松本享恭 "wikilink")
-    飾 / 聲
-  - Dr.Pac-Man / 帕拉德 -
-    [甲斐翔真](https://zh.wikipedia.org/wiki/甲斐翔真 "wikilink")
-    飾 / 聲
+  - 鏡飛彩 / 假面騎士Brave - [瀨戶利樹](../Page/瀨戶利樹.md "wikilink") 飾 / 聲
+  - 花家大我 / 假面騎士Snipe - [松本享恭](../Page/松本享恭.md "wikilink") 飾 / 聲
+  - Dr.Pac-Man / 帕拉德 - [甲斐翔真](../Page/甲斐翔真.md "wikilink") 飾 / 聲
 
 #### 聲音演出
 
@@ -1050,23 +1042,17 @@ Level 2</p></td>
     飾 / 聲
   - 泊進之介 / 假面騎士Drive - [竹內涼真](../Page/竹內涼真.md "wikilink") 飾 / 聲
   - 操真晴人 / 假面騎士Wizard - [白石隼也](../Page/白石隼也.md "wikilink") 飾 / 聲
-  - 鏡飛彩 / 假面騎士Brave -
-    [瀨戶利樹](https://zh.wikipedia.org/wiki/瀨戶利樹 "wikilink")
-    飾 / 聲
-  - 花家大我 / 假面騎士Snipe -
-    [松本享恭](https://zh.wikipedia.org/wiki/松本享恭 "wikilink")
-    飾 / 聲
-  - 九條貴利矢 / 假面騎士Lazer -
-    [小野塚勇人](https://zh.wikipedia.org/wiki/小野塚勇人 "wikilink")
-    飾 / 聲
+  - 鏡飛彩 / 假面騎士Brave - [瀨戶利樹](../Page/瀨戶利樹.md "wikilink") 飾 / 聲
+  - 花家大我 / 假面騎士Snipe - [松本享恭](../Page/松本享恭.md "wikilink") 飾 / 聲
+  - 九條貴利矢 / 假面騎士Lazer - [小野塚勇人](../Page/小野塚勇人.md "wikilink") 飾 / 聲
   - 深海誠 / 假面騎士Specter - [山本涼介](../Page/山本涼介.md "wikilink") 飾 / 聲
   - 亞蘭 / 假面騎士Necrom - [磯村勇斗](../Page/磯村勇斗.md "wikilink") 飾 / 聲
   - 假野明日那 / Poppypipopapo -
     [松田瑠華](https://zh.wikipedia.org/wiki/松田瑠華 "wikilink")
     飾
   - 月村朱里 - [大澤光](../Page/大澤光.md "wikilink") 飾
-  - 檀黎斗 - [岩永徹也](https://zh.wikipedia.org/wiki/岩永徹也 "wikilink") 飾
-  - 帕拉德 - [甲斐翔真](https://zh.wikipedia.org/wiki/甲斐翔真 "wikilink") 飾
+  - 檀黎斗 - [岩永徹也](../Page/岩永徹也.md "wikilink") 飾
+  - 帕拉德 - [甲斐翔真](../Page/甲斐翔真.md "wikilink") 飾
   - 山之內御成 - [柳喬之](../Page/柳喬之.md "wikilink") 飾
   - 八王子涉谷 - [溝口琢矢](../Page/溝口琢矢.md "wikilink") 飾
   - 成田 - [勸修寺玲旺](https://zh.wikipedia.org/wiki/勸修寺玲旺 "wikilink") 飾
@@ -1079,9 +1065,8 @@ Level 2</p></td>
   - 救護員 - [鈴木晃平](https://zh.wikipedia.org/wiki/鈴木晃平 "wikilink") 飾
   - 教師 - [遠藤薰](https://zh.wikipedia.org/wiki/遠藤薰 "wikilink") 飾
   - 北見勇樹 - [高梨理央](https://zh.wikipedia.org/wiki/高梨理央 "wikilink") 飾
-  - 財前美智彦 / Dr.Pac-Man / Genoms -
-    [佐野史郎](https://zh.wikipedia.org/wiki/佐野史郎 "wikilink") 飾
-    / 聲
+  - 財前美智彦 / Dr.Pac-Man / Genoms - [佐野史郎](../Page/佐野史郎.md "wikilink") 飾 /
+    聲
   - 來瀨莊司 / 羅波爾崩源體 -
     [棚橋弘至](https://zh.wikipedia.org/wiki/棚橋弘至 "wikilink")
     飾 / 聲
@@ -1172,7 +1157,7 @@ Level 2</p></td>
 4.
 5.  帕拉德
 6.  其後該遊戲被檀黎斗作為『Perfect Puzzle』的基礎資料。
-7.  另外於後作《[假面騎士Build](https://zh.wikipedia.org/wiki/假面騎士Build "wikilink")》中成為女主角石動美空所玩的手機遊戲。
+7.  另外於後作《[假面騎士Build](../Page/假面騎士Build.md "wikilink")》中成為女主角石動美空所玩的手機遊戲。
 8.  天下統一魂
 9.  『假面騎士EX-AID \[裏技\]假面騎士Para-DX』
 10. 眼魂上簡稱為Tenka

@@ -1,4 +1,4 @@
-**HIKAKIN**（，）是日本的男性[YouTuber](https://zh.wikipedia.org/wiki/YouTuber "wikilink")、遊戲實況主、Beatboxer、演員。\[1\]\[2\]也是YouTuber經紀人公司UUUM的創辦人兼最高顾问。\[3\]血型是O型。\[4\]
+**HIKAKIN**（，）是日本的男性[YouTuber](../Page/YouTuber.md "wikilink")、遊戲實況主、Beatboxer、演員。\[1\]\[2\]也是YouTuber經紀人公司UUUM的創辦人兼最高顾问。\[3\]血型是O型。\[4\]
 
 截至2017年8月，他的四個YouTube频道的總訂閱者已超過1000万人，總播放次數高達69億次，是日本合計訂閱者數目最高的YouTuber。他的YouTube主頻道HikakinTV訂閱數位居全日本第二，僅次於另一位YouTuber
 [Hajime社長](../Page/Hajime社長.md "wikilink") 。\[5\]

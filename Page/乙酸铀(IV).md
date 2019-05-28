@@ -2,7 +2,7 @@
 
 ## 制备
 
-将[氯化铀酰二水合物加入热的冰](https://zh.wikipedia.org/wiki/氯化铀酰 "wikilink")[乙酸中](../Page/乙酸.md "wikilink")，在搅拌回流下加入[锌](../Page/锌.md "wikilink")[汞齐](https://zh.wikipedia.org/wiki/汞齐 "wikilink")，还原过程中会产生蓬松的沉淀。将上层清液倒出，与[乙酸酐共热](../Page/乙酸酐.md "wikilink")，产生亮绿色沉淀，即为乙酸铀(IV)：\[2\]
+将[氯化铀酰二水合物加入热的冰](../Page/氯化铀酰.md "wikilink")[乙酸中](../Page/乙酸.md "wikilink")，在搅拌回流下加入[锌](../Page/锌.md "wikilink")[汞齐](https://zh.wikipedia.org/wiki/汞齐 "wikilink")，还原过程中会产生蓬松的沉淀。将上层清液倒出，与[乙酸酐共热](../Page/乙酸酐.md "wikilink")，产生亮绿色沉淀，即为乙酸铀(IV)：\[2\]
 
   -
     UO<sub>2</sub>Cl<sub>2</sub> + Zn + 4 CH<sub>3</sub>COOH →

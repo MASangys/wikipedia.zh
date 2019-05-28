@@ -1,6 +1,5 @@
 [第14回](https://zh.wikipedia.org/wiki/第14回TV_LIFE年度日劇大賞 "wikilink") ←
-**第15回** →
-[第16回](https://zh.wikipedia.org/wiki/第16回TV_LIFE年度日劇大賞 "wikilink")
+**第15回** → [第16回](../Page/第16回TV_LIFE年度日劇大賞.md "wikilink")
 
 **第15回[TV
 LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2005年播出的連續劇做出的觀眾投票。

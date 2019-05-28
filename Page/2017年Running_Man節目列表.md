@@ -7,7 +7,7 @@ Man》節目主持，將會邀請[姜-{zh-cn:虎东;zh-hk:鎬童;zh-tw:鎬童}-�
 
 2017年1月24日，SBS綜藝節目《Running Man》方面發布聲明，宣布將繼續製作節目《Running
 Man》，取消停播決定，六位成員將繼續奔跑\[8\]。2017年4月3日，SBS綜藝節目《Running
-Man》方面發布聲明，宣布[全昭旻](../Page/全昭旻.md "wikilink")、[梁世燦](https://zh.wikipedia.org/wiki/梁世燦 "wikilink")\[9\]兩人作為新成員合流節目，於同日開始參與錄影\[10\]。
+Man》方面發布聲明，宣布[全昭旻](../Page/全昭旻.md "wikilink")、[梁世燦](../Page/梁世燦.md "wikilink")\[9\]兩人作為新成員合流節目，於同日開始參與錄影\[10\]。
 
   - 主持
 
@@ -20,7 +20,7 @@ Man》方面發布聲明，宣布[全昭旻](../Page/全昭旻.md "wikilink")、
   - [宋智孝](../Page/宋智孝.md "wikilink")
   - [李光洙](../Page/李光洙_\(演員\).md "wikilink")
   - [全昭旻](../Page/全昭旻.md "wikilink")（第346集／4月16日開始）
-  - [梁世燦](https://zh.wikipedia.org/wiki/梁世燦 "wikilink")（第346集／4月16日開始）
+  - [梁世燦](../Page/梁世燦.md "wikilink")（第346集／4月16日開始）
 
 ## 節目
 
@@ -335,7 +335,7 @@ Running House[19]</p></td>
 <td><p>344</p></td>
 <td><p>4月2日<br />
 <small>（3月13日）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/崔民勇" title="wikilink">崔民勇</a>、<br />
+<td><p><a href="../Page/崔民勇.md" title="wikilink">崔民勇</a>、<br />
 <a href="../Page/尹普美.md" title="wikilink">尹普美</a>（<a href="../Page/Apink.md" title="wikilink">Apink</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS有限公司" title="wikilink">SBS放送中心</a><br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
@@ -395,7 +395,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 ### 2017年Running Man全球企劃 （4月至7月）
 
   - 該企劃是新增兩位「Running
-    Mate」**[梁世燦](https://zh.wikipedia.org/wiki/梁世燦 "wikilink")**和**[全昭旻](../Page/全昭旻.md "wikilink")**後的特別企劃。
+    Mate」**[梁世燦](../Page/梁世燦.md "wikilink")**和**[全昭旻](../Page/全昭旻.md "wikilink")**後的特別企劃。
 
 #### Global Race（4月至6月）
 
@@ -515,7 +515,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 <td><p>347</p></td>
 <td><p>4月23日<br />
 <small>（4月10日）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張度練" title="wikilink">張度練</a></p></td>
+<td><p><a href="../Page/張度練.md" title="wikilink">張度練</a></p></td>
 <td><p>Paradise Hotel Incheon<br />
 <small>（<a href="../Page/仁川廣域市.md" title="wikilink">仁川廣域市</a><br />
 <a href="https://zh.wikipedia.org/wiki/中區_(仁川)" title="wikilink">中區</a>）</small></p></td>
@@ -1028,7 +1028,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 金鐘明<br />
 （金鐘國哥哥）、<br />
 、<a href="https://zh.wikipedia.org/wiki/曹世鎬" title="wikilink">曹世鎬</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/太恆浩" title="wikilink">太恆浩</a>、<a href="https://zh.wikipedia.org/wiki/千成文" title="wikilink">千成文</a>、<br />
+<a href="../Page/太恆浩.md" title="wikilink">太恆浩</a>、<a href="../Page/千成文.md" title="wikilink">千成文</a>、<br />
 <a href="../Page/孫娜恩.md" title="wikilink">孫娜恩</a>(<a href="../Page/Apink.md" title="wikilink">Apink</a>)、<br />
 <a href="https://zh.wikipedia.org/wiki/全旭旻" title="wikilink">全旭旻</a></p></td>
 <td><p>朝鮮王家韓屋酒店<br />
@@ -1360,7 +1360,7 @@ vs<br />
 <small>（8月28日）</p></td>
 <td><p><a href="../Page/白智榮.md" title="wikilink">白智榮</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/曹世鎬" title="wikilink">曹世鎬</a>、<a href="../Page/成勛.md" title="wikilink">成勛</a>、<br />
-、<a href="https://zh.wikipedia.org/wiki/黃勝妍" title="wikilink">黃勝妍</a>、<br />
+、<a href="../Page/黃勝妍.md" title="wikilink">黃勝妍</a>、<br />
 <a href="../Page/李伊利雅.md" title="wikilink">李伊利雅</a>、<a href="https://zh.wikipedia.org/wiki/善美" title="wikilink">善美</a>、<br />
 <a href="../Page/Kei.md" title="wikilink">Kei</a>（<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS有限公司" title="wikilink">SBS放送中心</a><br />
@@ -1663,9 +1663,9 @@ Cheongpung Land<br />
 <td><p>374</p></td>
 <td><p>10月29日<br />
 <small>（10月16日）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盧士燕" title="wikilink">盧士燕</a>、<br />
+<td><p><a href="../Page/盧士燕.md" title="wikilink">盧士燕</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/曹世鎬" title="wikilink">曹世鎬</a>、<a href="../Page/夏沇秀.md" title="wikilink">夏沇秀</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/姜丹尼爾" title="wikilink">姜丹尼爾</a>（<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>）</p></td>
+<a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a>（<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>）</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
 ）</small></p></td>
@@ -1700,7 +1700,7 @@ Cheongpung Land<br />
 </tr>
 <tr class="even">
 <td><p>無嘉賓</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/仁川亞運主體育場" title="wikilink">仁川亞運主體育場外</a><br />
+<td><p><a href="../Page/仁川亞運主體育場.md" title="wikilink">仁川亞運主體育場外</a><br />
 <small>（<a href="../Page/仁川廣域市.md" title="wikilink">仁川廣域市</a><br />
 <a href="../Page/西區_(仁川).md" title="wikilink">西區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>神秘秋日回憶旅行</strong></span><br />
@@ -1722,7 +1722,7 @@ Cheongpung Land<br />
 <a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="../Page/東海_(藝人).md" title="wikilink">東海</a>、<br />
 （<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>）<br />
 <a href="../Page/Irene_(Red_Velvet).md" title="wikilink">Irene</a>、<a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a><br />
-（<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>）</p></td>
+（<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）</p></td>
 <td><p>鎮川選手村<br />
 <small>（<a href="../Page/忠清北道.md" title="wikilink">忠清北道</a><a href="https://zh.wikipedia.org/wiki/鎮川郡" title="wikilink">鎮川郡</a><br />
 ）</small></p></td>
@@ -1741,7 +1741,7 @@ Cheongpung Land<br />
 <td><p>11月19日<br />
 <small>（11月11日）</p></td>
 <td><p>、<br />
-<a href="../Page/林世美.md" title="wikilink">林世美</a>、<a href="https://zh.wikipedia.org/wiki/高聖熙" title="wikilink">高聖熙</a>、<br />
+<a href="../Page/林世美.md" title="wikilink">林世美</a>、<a href="../Page/高聖熙.md" title="wikilink">高聖熙</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">金世正</a>（<a href="https://zh.wikipedia.org/wiki/gu9udan" title="wikilink">gu9udan</a>）</p></td>
 <td><p><a href="../Page/仁川國際機場.md" title="wikilink">仁川國際機場</a><br />
 二號客運大樓<br />
@@ -1767,7 +1767,7 @@ Cheongpung Land<br />
 </tbody>
 </table>
 
-  - 10月30日，、、[鄭尚勳](../Page/鄭尚勳.md "wikilink")、[李宥英原定於](https://zh.wikipedia.org/wiki/李宥英 "wikilink")[釜山進行拍攝](https://zh.wikipedia.org/wiki/釜山 "wikilink")，但後來因[李宥英男友](https://zh.wikipedia.org/wiki/李宥英 "wikilink")、演員[金柱赫突然意外逝世](../Page/金柱赫.md "wikilink")，需要前往[首爾辦理金柱赫的身後事](https://zh.wikipedia.org/wiki/首爾 "wikilink")，因而取消所有當日餘下的拍攝\[34\]，而該集錄製內容製作組並未公開。
+  - 10月30日，、、[鄭尚勳](../Page/鄭尚勳.md "wikilink")、[李宥英原定於](../Page/李宥英.md "wikilink")[釜山進行拍攝](https://zh.wikipedia.org/wiki/釜山 "wikilink")，但後來因[李宥英男友](../Page/李宥英.md "wikilink")、演員[金柱赫突然意外逝世](../Page/金柱赫.md "wikilink")，需要前往[首爾辦理金柱赫的身後事](../Page/首爾.md "wikilink")，因而取消所有當日餘下的拍攝\[34\]，而該集錄製內容製作組並未公開。
 
 ### 續・2017年Running Man全球企劃 （11月至12月）
 
@@ -2582,7 +2582,7 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
 6.
 7.
 8.
-9.  양세찬：梁世燦本人在2016年7月31日播出的《[喜劇大聯盟](https://zh.wikipedia.org/wiki/喜劇大聯盟 "wikilink")》自我介紹：我是**梁世燦**，南原梁氏、世界的世、燦爛的燦［남원
+9.  양세찬：梁世燦本人在2016年7月31日播出的《[喜劇大聯盟](../Page/喜劇大聯盟.md "wikilink")》自我介紹：我是**梁世燦**，南原梁氏、世界的世、燦爛的燦［남원
     양(梁), 세상 세(世), 빛날 찬(燦)］
 10.
 11.
@@ -2590,22 +2590,22 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
 13. 金鐘明（金鐘國哥哥）特別出演。
 14. 柳秀晶（池錫辰妻子）特別出演。
 15. 特別出演。
-16. [Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Yeri](../Page/Yeri.md "wikilink")（[Red
-    Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")）特別出演。
+16. [Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](../Page/瑟琪.md "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Yeri](../Page/Yeri.md "wikilink")（[Red
+    Velvet](../Page/Red_Velvet.md "wikilink")）特別出演。
 17. [劉在錫於本集以主持身份出演](../Page/劉在錫.md "wikilink")。
 18. [朴寶英驚喜聲演](https://zh.wikipedia.org/wiki/朴寶英 "wikilink")。
 19. 朴成俊（曆術家）特別出演。
 20. 《星期天真好》時段於本集播出後取消。
-21. [洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、[千成文](https://zh.wikipedia.org/wiki/千成文 "wikilink")（宋智孝弟弟）、、、[朴正民](../Page/朴正民.md "wikilink")、[車太鉉特別出演](https://zh.wikipedia.org/wiki/車太鉉 "wikilink")；[李棟旭](../Page/李棟旭.md "wikilink")、李宗浩（李光洙爸爸）、[趙寅成](../Page/趙寅成.md "wikilink")、[宋仲基特別聲演](../Page/宋仲基.md "wikilink")；[孫賢周](../Page/孫賢周.md "wikilink")、[朴寶劍驚喜出演](https://zh.wikipedia.org/wiki/朴寶劍 "wikilink")。
+21. [洪錫天](https://zh.wikipedia.org/wiki/洪錫天 "wikilink")、[千成文](../Page/千成文.md "wikilink")（宋智孝弟弟）、、、[朴正民](../Page/朴正民.md "wikilink")、[車太鉉特別出演](https://zh.wikipedia.org/wiki/車太鉉 "wikilink")；[李棟旭](../Page/李棟旭.md "wikilink")、李宗浩（李光洙爸爸）、[趙寅成](../Page/趙寅成.md "wikilink")、[宋仲基特別聲演](../Page/宋仲基.md "wikilink")；[孫賢周](../Page/孫賢周.md "wikilink")、[朴寶劍驚喜出演](../Page/朴寶劍.md "wikilink")。
 22. 宣傳電影《》。
-    本集尾段提前播放下集，播放[全昭旻和](../Page/全昭旻.md "wikilink")[梁世燦介紹片段](https://zh.wikipedia.org/wiki/梁世燦 "wikilink")。[梁世炯驚喜出演](https://zh.wikipedia.org/wiki/梁世炯 "wikilink")。
-23. 本集為[全昭旻和](../Page/全昭旻.md "wikilink")[梁世燦開始以成員身份正式參與錄影](https://zh.wikipedia.org/wiki/梁世燦 "wikilink")。
+    本集尾段提前播放下集，播放[全昭旻和](../Page/全昭旻.md "wikilink")[梁世燦介紹片段](../Page/梁世燦.md "wikilink")。[梁世炯驚喜出演](../Page/梁世炯.md "wikilink")。
+23. 本集為[全昭旻和](../Page/全昭旻.md "wikilink")[梁世燦開始以成員身份正式參與錄影](../Page/梁世燦.md "wikilink")。
 24. [李瑞鎮同在](../Page/李瑞鎮.md "wikilink")[仁川國際機場驚喜出現](../Page/仁川國際機場.md "wikilink")。
-25. [梁世炯驚喜出演](https://zh.wikipedia.org/wiki/梁世炯 "wikilink")，[李燦赫驚喜聲演](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")。
+25. [梁世炯驚喜出演](../Page/梁世炯.md "wikilink")，[李燦赫驚喜聲演](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")。
 26. **戰慄迷宮 D-DAY**僅劉在錫、池錫辰、李光洙、全昭旻及梁世燦前往
 27. 特別出演。
-28. [梁世炯驚喜出現](https://zh.wikipedia.org/wiki/梁世炯 "wikilink")。
-29. 宣傳電影《[青年警察](https://zh.wikipedia.org/wiki/青年警察 "wikilink")》。
+28. [梁世炯驚喜出現](../Page/梁世炯.md "wikilink")。
+29. 宣傳電影《[青年警察](../Page/青年警察.md "wikilink")》。
 30. 劉在錫和池錫辰於本集分別以女性角色「Janny」和「錫子」身份參與錄影。
 31. [金淑](../Page/金淑.md "wikilink")、[吳智昊](../Page/吳智昊.md "wikilink")、[朴娜萊](https://zh.wikipedia.org/wiki/朴娜萊_\(喜劇演員\) "wikilink")、[鄭恩地](../Page/鄭恩地.md "wikilink")([Apink](../Page/Apink.md "wikilink"))特別出演。
 32. **真實遊戲**為成員們觀看**印尼燈蛾撲火之旅**片段，並進行遊戲。**中秋懲罰直播**僅由梁世燦及劉在錫現場主持及進行一連串跟現場觀眾參與遊戲任務。

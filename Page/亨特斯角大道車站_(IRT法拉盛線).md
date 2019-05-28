@@ -1,8 +1,8 @@
-**亨特斯角大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線的一個](https://zh.wikipedia.org/wiki/IRT法拉盛線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")[長島市](../Page/長島市.md "wikilink")49大道（亨特斯角大道）及21街交界，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務，而繁忙時段的尖峰方向還有開行[\<7\>列車](../Page/紐約地鐵7號線.md "wikilink")。
+**亨特斯角大道車站**（）是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線的一個](../Page/IRT法拉盛線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")[長島市](../Page/長島市.md "wikilink")49大道（亨特斯角大道）及21街交界，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務，而繁忙時段的尖峰方向還有開行[\<7\>列車](../Page/紐約地鐵7號線.md "wikilink")。
 
 ## 歷史
 
-法拉盛線於1916年2月15日由[維爾農-傑克遜大道車站延長一站至亨特斯角大道](https://zh.wikipedia.org/wiki/維爾農林蔭路-傑克遜大道車站_\(IRT法拉盛線\) "wikilink")\[1\]。
+法拉盛線於1916年2月15日由[維爾農-傑克遜大道車站延長一站至亨特斯角大道](../Page/維爾農林蔭路-傑克遜大道車站_\(IRT法拉盛線\).md "wikilink")\[1\]。
 
 亨特斯角大道車站的月台於1955－1956年延長以容納11節列車\[2\]。
 
@@ -30,7 +30,7 @@
 </tr>
 <tr class="even">
 <td><p><span style="color:#{{NYCS color|purple}}"><strong>南行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-7.svg" title="fig:纽约地铁7号线">纽约地铁7号线</a> <a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-7d.svg" title="fig:纽约地铁7d线">纽约地铁7d线</a> 往<a href="https://zh.wikipedia.org/wiki/34街-哈德遜調車場車站_(IRT法拉盛線)" title="wikilink">34街-哈德遜調車場</a><small>（<a href="https://zh.wikipedia.org/wiki/維爾農林蔭路-傑克遜大道車站_(IRT法拉盛線)" title="wikilink">維爾農林蔭路-傑克遜大道</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-7.svg" title="fig:纽约地铁7号线">纽约地铁7号线</a> <a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-7d.svg" title="fig:纽约地铁7d线">纽约地铁7d线</a> 往<a href="https://zh.wikipedia.org/wiki/34街-哈德遜調車場車站_(IRT法拉盛線)" title="wikilink">34街-哈德遜調車場</a><small>（<a href="../Page/維爾農林蔭路-傑克遜大道車站_(IRT法拉盛線).md" title="wikilink">維爾農林蔭路-傑克遜大道</a>）</small></p></td>
 <td></td>
 </tr>
 <tr class="odd">

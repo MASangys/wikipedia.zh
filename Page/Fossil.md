@@ -2,7 +2,7 @@
 
 ## 功能
 
-Fossil是一个服务器，可以运行于[Linux](../Page/Linux.md "wikilink")、[BSD衍生系统](../Page/BSD.md "wikilink")、[MacOS和](../Page/MacOS.md "wikilink")[Windows等各种平台](https://zh.wikipedia.org/wiki/Windows "wikilink")。它能够提供分布式版本控制、问题跟踪、[wiki服务和博客](https://zh.wikipedia.org/wiki/wiki "wikilink")。该软件有一个内置的[网络接口](../Page/用户界面.md "wikilink")，这降低了[项目跟踪的复杂性](https://zh.wikipedia.org/wiki/项目 "wikilink")，并提升了[状态意识](https://zh.wikipedia.org/wiki/状态意识 "wikilink")。用户可以简单地键入“fossil
+Fossil是一个服务器，可以运行于[Linux](../Page/Linux.md "wikilink")、[BSD衍生系统](../Page/BSD.md "wikilink")、[MacOS和](../Page/MacOS.md "wikilink")[Windows等各种平台](https://zh.wikipedia.org/wiki/Windows "wikilink")。它能够提供分布式版本控制、问题跟踪、[wiki服务和博客](https://zh.wikipedia.org/wiki/wiki "wikilink")。该软件有一个内置的[网络接口](../Page/用户界面.md "wikilink")，这降低了[项目跟踪的复杂性](https://zh.wikipedia.org/wiki/项目 "wikilink")，并提升了[状态意识](../Page/状态意识.md "wikilink")。用户可以简单地键入“fossil
 ui”，Fossil就会自动在用户的[网页浏览器中打开一个网页](../Page/网页浏览器.md "wikilink")，提供详细历史和状态信息。
 
 因为是分布式的，Fossil不需要中央服务器，尽管使用中央服务器可是使协作变得更容易。

@@ -1,15 +1,15 @@
-***Zinaida***是[弄蝶亞科](../Page/弄蝶亞科.md "wikilink")[刺脛弄蝶族裡的一個](https://zh.wikipedia.org/wiki/刺脛弄蝶族 "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。共有14個物種，分佈於中國，少數廣泛分佈至日韓及俄羅斯\[1\]。物種曾經都歸入[孔弄蝶屬](https://zh.wikipedia.org/wiki/孔弄蝶屬 "wikilink")。
+***Zinaida***是[弄蝶亞科](../Page/弄蝶亞科.md "wikilink")[刺脛弄蝶族裡的一個](../Page/刺脛弄蝶族.md "wikilink")[屬](https://zh.wikipedia.org/wiki/屬 "wikilink")，尚無正式中文學名命名。共有14個物種，分佈於中國，少數廣泛分佈至日韓及俄羅斯\[1\]。物種曾經都歸入[孔弄蝶屬](../Page/孔弄蝶屬.md "wikilink")。
 
 ## 種系發生
 
-此屬物種的分類曾經歸入[孔弄蝶屬](https://zh.wikipedia.org/wiki/孔弄蝶屬 "wikilink")\[2\]，直至更新的[分子系統發生學研究發現該分類是多系群](https://zh.wikipedia.org/wiki/分子系統發生學 "wikilink")\[3\]\[4\]，其中這個單系群的演化支今視作獨立一個屬級分類。並發現比起孔弄蝶屬，此屬與[齊諾弄蝶屬和](https://zh.wikipedia.org/wiki/齊諾弄蝶屬 "wikilink")*[Zenonoida](../Page/Zenonoida.md "wikilink")*有更密切的親緣關係\[5\]。
+此屬物種的分類曾經歸入[孔弄蝶屬](../Page/孔弄蝶屬.md "wikilink")\[2\]，直至更新的[分子系統發生學研究發現該分類是多系群](https://zh.wikipedia.org/wiki/分子系統發生學 "wikilink")\[3\]\[4\]，其中這個單系群的演化支今視作獨立一個屬級分類。並發現比起孔弄蝶屬，此屬與[齊諾弄蝶屬和](../Page/齊諾弄蝶屬.md "wikilink")*[Zenonoida](../Page/Zenonoida.md "wikilink")*有更密切的親緣關係\[5\]。
 
 ## 演化樹
 
 ## 參見
 
-  - [孔弄蝶屬](https://zh.wikipedia.org/wiki/孔弄蝶屬 "wikilink")
-  - [齊諾弄蝶屬](https://zh.wikipedia.org/wiki/齊諾弄蝶屬 "wikilink")
+  - [孔弄蝶屬](../Page/孔弄蝶屬.md "wikilink")
+  - [齊諾弄蝶屬](../Page/齊諾弄蝶屬.md "wikilink")
   - *[Zenonoida](../Page/Zenonoida.md "wikilink")*
 
 ## 腳註

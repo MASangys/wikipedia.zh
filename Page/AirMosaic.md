@@ -4,7 +4,7 @@ Mosaic瀏覽器為基礎的早期商業網頁瀏覽器](https://zh.wikipedia.org
 瀏覽器榮獲了Datamation的1994年度最佳產品獎\[2\]。
 
 AirMosaic瀏覽器作為軟件包的一部分提供：[Internet In A
-Box](https://zh.wikipedia.org/wiki/Spry "wikilink")\[3\]\[4\]。AirMosaic也可以作為試用版下載，然後作為單獨的產品透過網際網路購買\[5\]\[6\]。
+Box](../Page/Spry.md "wikilink")\[3\]\[4\]。AirMosaic也可以作為試用版下載，然後作為單獨的產品透過網際網路購買\[5\]\[6\]。
 
 ## 特點
 

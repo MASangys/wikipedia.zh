@@ -8,7 +8,7 @@ LQR是回授控制器，方程式在後面會提到。LQR是[LQG（線性二次�
 
 LQR演算法減少了工程師為了讓控制器最佳化，而需付出的心力。不過工程師仍然要列出成本函數的相關參數，並且將結果和理想的設計目標比較。因此控制器的建構常會是[迭代的](../Page/迭代.md "wikilink")，工程師在[模擬過程中決定最佳控制器](https://zh.wikipedia.org/wiki/模擬 "wikilink")，再去調整參數讓結果更接近設計目標。
 
-在本質上，LQR演算法是找尋合適[狀態回授控制器的](../Page/状态空间.md "wikilink")[自動化方式](https://zh.wikipedia.org/wiki/自動化 "wikilink")。因此也常會有[控制工程師用其他替代方式](../Page/控制工程.md "wikilink")，例如[全狀態回授](https://zh.wikipedia.org/wiki/全狀態回授 "wikilink")（也稱為極點安置）的作法，此作法對控制器參數和控制器性能之間的關係比較明確。而LQR演算法的困難之處在找合適的[加權因子](https://zh.wikipedia.org/wiki/加權 "wikilink")，這也限制了以LQR控制器合成的相關應用。
+在本質上，LQR演算法是找尋合適[狀態回授控制器的](../Page/状态空间.md "wikilink")[自動化方式](https://zh.wikipedia.org/wiki/自動化 "wikilink")。因此也常會有[控制工程師用其他替代方式](../Page/控制工程.md "wikilink")，例如[全狀態回授](../Page/全狀態回授.md "wikilink")（也稱為極點安置）的作法，此作法對控制器參數和控制器性能之間的關係比較明確。而LQR演算法的困難之處在找合適的[加權因子](https://zh.wikipedia.org/wiki/加權 "wikilink")，這也限制了以LQR控制器合成的相關應用。
 
 ## 有限時間長度，連續時間的LQR
 

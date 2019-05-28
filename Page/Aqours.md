@@ -427,7 +427,7 @@ CD+DVD盤</p></td>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2017年4月5日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/HAPPY_PARTY_TRAIN" title="wikilink">HAPPY PARTY TRAIN</a></strong></p></td>
+<td><p><strong><a href="../Page/HAPPY_PARTY_TRAIN.md" title="wikilink">HAPPY PARTY TRAIN</a></strong></p></td>
 <td><p>2位</p></td>
 <td><p>CD+BD<br />
 CD+DVD</p></td>
@@ -447,7 +447,7 @@ CD+DVD盤</p></td>
     本次演唱会安排了日本国内及国外多个转播点进行卫星直播或延时录播。
     演唱會當天的影片《[LoveLive\! Sunshine\!\! Aqours First LoveLive\! 〜Step\!
     ZERO to
-    ONE\!\!〜](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!!_Aqours_First_LoveLive!_〜Step!_ZERO_to_ONE!!〜 "wikilink")》於2017年9月27日發行。
+    ONE\!\!〜](../Page/LoveLive!_Sunshine!!_Aqours_First_LoveLive!_〜Step!_ZERO_to_ONE!!〜.md "wikilink")》於2017年9月27日發行。
 
 <!-- end list -->
 
@@ -456,7 +456,7 @@ CD+DVD盤</p></td>
     分別於2017年8月5日和6日在、8月19日和20日在[神户](https://zh.wikipedia.org/wiki/神户 "wikilink")、9月29日和30日在[埼玉](https://zh.wikipedia.org/wiki/埼玉县 "wikilink")[大都會人壽巨蛋](../Page/西武巨蛋.md "wikilink")所舉辦的第二場演唱會，也是Aqours以及LoveLive\!企划首次巡回演唱会。
     演唱會當天的影片《[LoveLive\! Sunshine\!\! Aqours 2nd LoveLive\! HAPPY PARTY
     TRAIN
-    TOUR](https://zh.wikipedia.org/wiki/LoveLive!_Sunshine!!_Aqours_2nd_LoveLive!_HAPPY_PARTY_TRAIN_TOUR "wikilink")》於2018年4月25日發行。
+    TOUR](../Page/LoveLive!_Sunshine!!_Aqours_2nd_LoveLive!_HAPPY_PARTY_TRAIN_TOUR.md "wikilink")》於2018年4月25日發行。
 
 <!-- end list -->
 
@@ -469,7 +469,7 @@ CD+DVD盤</p></td>
 
   - LoveLive\! Sunshine\!\! Aqours 3rd LoveLive\! Tour ～WONDERFUL
     STORIES～（）
-    2018年6月9日和10日在埼玉[大都會人壽巨蛋](../Page/西武巨蛋.md "wikilink")、6月16日和17日在[大阪城音樂廳](https://zh.wikipedia.org/wiki/大阪城音樂廳 "wikilink")、7月7日和8日在所舉辦的第三場演唱會，也是Aqours、Saint
+    2018年6月9日和10日在埼玉[大都會人壽巨蛋](../Page/西武巨蛋.md "wikilink")、6月16日和17日在[大阪城音樂廳](../Page/大阪城音樂廳.md "wikilink")、7月7日和8日在所舉辦的第三場演唱會，也是Aqours、Saint
     snow（Saint Aqours Snow）以及LoveLive\!企劃第二次巡回演唱会。
 
 <!-- end list -->

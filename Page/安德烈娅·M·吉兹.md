@@ -5,9 +5,9 @@
   - [安妮·坎农天文学奖](https://zh.wikipedia.org/wiki/安妮·坎農天文獎 "wikilink")
     (1994年)\[2\]
   - Packard奖学金 (1996年)\[3\]
-  - [美国天文学会](../Page/美國天文學會.md "wikilink")[牛顿·莱西·皮尔斯天文学奖](https://zh.wikipedia.org/wiki/牛顿·莱西·皮尔斯天文学奖 "wikilink")
+  - [美国天文学会](../Page/美國天文學會.md "wikilink")[牛顿·莱西·皮尔斯天文学奖](../Page/牛顿·莱西·皮尔斯天文学奖.md "wikilink")
     (1998年)\[4\]
-  - [美国物理学会](../Page/美國物理學會.md "wikilink")[玛丽亚·格佩特-梅耶奖](https://zh.wikipedia.org/wiki/玛丽亚·格佩特-梅耶奖 "wikilink")
+  - [美国物理学会](../Page/美國物理學會.md "wikilink")[玛丽亚·格佩特-梅耶奖](../Page/玛丽亚·格佩特-梅耶奖.md "wikilink")
     (1999年)\[5\]
   - 赛克勒奖 (2004年)\[6\]
   - 金盾学院学术卓越奖 (2004年)\[7\]

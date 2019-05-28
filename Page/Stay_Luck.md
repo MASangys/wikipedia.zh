@@ -11,11 +11,11 @@ Entertainment中獨立](../Page/Across_Entertainment.md "wikilink")。除了聲�
   - 岡和也
   - 左座翔丸
   - 橋本祐樹
-  - [村井雄治](https://zh.wikipedia.org/wiki/村井雄治 "wikilink")
+  - [村井雄治](../Page/村井雄治.md "wikilink")
 
 ### 女性
 
-  - [逢澤由理香](https://zh.wikipedia.org/wiki/逢澤由理香 "wikilink")
+  - [逢澤由理香](../Page/逢澤由理香.md "wikilink")
 
   - 小若和郁那
 
@@ -24,11 +24,11 @@ Entertainment中獨立](../Page/Across_Entertainment.md "wikilink")。除了聲�
 
   - [田邊留依](../Page/田邊留依.md "wikilink")
 
-  - [引坂理繪](https://zh.wikipedia.org/wiki/引坂理繪 "wikilink")
+  - [引坂理繪](../Page/引坂理繪.md "wikilink")
 
   - [前田玲奈](../Page/前田玲奈.md "wikilink")
 
-  - [真野步](https://zh.wikipedia.org/wiki/真野步 "wikilink")
+  - [真野步](../Page/真野步.md "wikilink")
 
   - 吉森未沙希
 

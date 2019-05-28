@@ -1,4 +1,4 @@
-**JR總持寺站**（）是位於日本[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[茨木市庄一丁目之](../Page/茨木市.md "wikilink")[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[東海道本線](../Page/東海道本線.md "wikilink")（[JR京都線](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")）的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，[車站編號是JR](../Page/車站編號.md "wikilink")-A40。該站新設在和之間，於2018年3月17日與[大阪東線](../Page/大阪東線.md "wikilink")[衣摺加美北站同日開業](https://zh.wikipedia.org/wiki/衣摺加美北站 "wikilink")\[1\]\[2\]。
+**JR總持寺站**（）是位於日本[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[茨木市庄一丁目之](../Page/茨木市.md "wikilink")[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）[東海道本線](../Page/東海道本線.md "wikilink")（[JR京都線](https://zh.wikipedia.org/wiki/JR京都線 "wikilink")）的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，[車站編號是JR](../Page/車站編號.md "wikilink")-A40。該站新設在和之間，於2018年3月17日與[大阪東線](../Page/大阪東線.md "wikilink")[衣摺加美北站同日開業](../Page/衣摺加美北站.md "wikilink")\[1\]\[2\]。
 
 ## 概要
 

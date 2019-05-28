@@ -121,7 +121,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視�
 </tr>
 <tr class="odd">
 <td><p>'''耶穌布</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小林通孝" title="wikilink">小林通孝</a></p></td>
+<td><p><a href="../Page/小林通孝.md" title="wikilink">小林通孝</a></p></td>
 <td><p><a href="../Page/陳彥鈞.md" title="wikilink">陳彥鈞</a></p></td>
 </tr>
 <tr class="even">
@@ -204,7 +204,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視�
 </tr>
 <tr class="odd">
 <td><p>'''餐具店店員</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/照井春佳" title="wikilink">照井春佳</a><br />
+<td><p><a href="../Page/照井春佳.md" title="wikilink">照井春佳</a><br />
 <a href="../Page/藤井幸代.md" title="wikilink">藤井幸代</a></p></td>
 <td><p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a><br />
 連婉鈞</p></td>
@@ -269,7 +269,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視�
   - 色彩設計・色指定・検査：大武恭子
   - 撮影監督：梅田俊之
   - 音響監督：長崎行男
-  - 分鏡・演出：[森田宏幸](../Page/森田宏幸.md "wikilink")、[高柳哲司](https://zh.wikipedia.org/wiki/高柳哲司 "wikilink")、本郷満、佐佐木忍
+  - 分鏡・演出：[森田宏幸](../Page/森田宏幸.md "wikilink")、[高柳哲司](../Page/高柳哲司.md "wikilink")、本郷満、佐佐木忍
   - 総作画監督：清水洋
   - 作画監督：浜津武広、加野晃、東出太、濱川修二郎、吉井弘幸、松井章
   - 動画検査：成田達司、井上高宏、西田政司

@@ -8,7 +8,7 @@
 
 後來，該歌曲與2017年由[東京電視網播出重製版](../Page/東京電視網.md "wikilink")《咕嚕咕嚕魔法陣》作為後期片尾主題曲使用的[中川翔子主唱同名專輯](../Page/中川翔子.md "wikilink")《Magical
 Circle》一起收錄，與之前版本不一樣的是，新版已經經由電子流行音樂音樂組合[TECHNOBOYS PULCRAFT
-GREEN-FUND重新編曲](https://zh.wikipedia.org/wiki/TECHNOBOYS_PULCRAFT_GREEN-FUND "wikilink")\[3\]，專輯發行之後，也被選為最終話的劇中插入歌使用。
+GREEN-FUND重新編曲](../Page/TECHNOBOYS_PULCRAFT_GREEN-FUND.md "wikilink")\[3\]，專輯發行之後，也被選為最終話的劇中插入歌使用。
 
 ## 收錄歌曲
 
@@ -24,7 +24,7 @@ GREEN-FUND重新編曲](https://zh.wikipedia.org/wiki/TECHNOBOYS_PULCRAFT_GREEN-
 
 ## 相關項目
 
-  - [哈利路亞晴天](https://zh.wikipedia.org/wiki/哈利路亞晴天 "wikilink")－奧井亞紀的第4張單曲，同名表題曲也被選為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[咕嚕咕嚕魔法陣](https://zh.wikipedia.org/wiki/咕嚕咕嚕魔法陣#主題曲（第1作、劇場版） "wikilink")》後期（第32話－第45話）片頭主題曲使用。
+  - [哈利路亞晴天](../Page/哈利路亞晴天.md "wikilink")－奧井亞紀的第4張單曲，同名表題曲也被選為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[咕嚕咕嚕魔法陣](https://zh.wikipedia.org/wiki/咕嚕咕嚕魔法陣#主題曲（第1作、劇場版） "wikilink")》後期（第32話－第45話）片頭主題曲使用。
 
 [Category:咕嚕咕嚕魔法陣](https://zh.wikipedia.org/wiki/Category:咕嚕咕嚕魔法陣 "wikilink")
 [Category:1994年單曲](https://zh.wikipedia.org/wiki/Category:1994年單曲 "wikilink")

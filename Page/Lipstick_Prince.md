@@ -1,14 +1,14 @@
 《**LipStick
-Prince**》（）是為[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[OnStyle的一檔男性](https://zh.wikipedia.org/wiki/OnStyle "wikilink")[美妝](../Page/化妆.md "wikilink")[節目](../Page/綜藝節目.md "wikilink")，2016年12月1日開始\[1\]，逢[韓國時間星期四](../Page/韩国标准时.md "wikilink")21時00分在[OnStyle播出](https://zh.wikipedia.org/wiki/OnStyle "wikilink")，每集約54分鐘。
+Prince**》（）是為[韓國](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[OnStyle的一檔男性](../Page/OnStyle.md "wikilink")[美妝](../Page/化妆.md "wikilink")[節目](../Page/綜藝節目.md "wikilink")，2016年12月1日開始\[1\]，逢[韓國時間星期四](../Page/韩国标准时.md "wikilink")21時00分在[OnStyle播出](../Page/OnStyle.md "wikilink")，每集約54分鐘。
 
 《LipStick
 Prince》是打破「只有女性會化妝」的偏見\[2\]，由八位花美男偶像共同出演的改造節目，透過節目，成員們展示最令人心動的美妝，滿足諸多女性觀眾的幻想與好奇心\[3\]
 ，第一季由[金希澈擔任節目MC](../Page/希澈.md "wikilink")，[Block
 B成員](../Page/Block_B.md "wikilink")[P.O](../Page/P.O.md "wikilink")、[U-Kwon](../Page/U-Kwon.md "wikilink")、[BTOB成員](../Page/BTOB.md "wikilink")[徐恩光](../Page/徐恩光.md "wikilink")、[MONSTA
-X成員](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[Shownu](../Page/孫賢祐.md "wikilink")、[NCT成員](../Page/NCT.md "wikilink")[道英](https://zh.wikipedia.org/wiki/道英 "wikilink")、[SF9成員](https://zh.wikipedia.org/wiki/SF9 "wikilink")[路雲](https://zh.wikipedia.org/wiki/金錫宇 "wikilink")、歌手[Tony
+X成員](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[Shownu](../Page/孫賢祐.md "wikilink")、[NCT成員](../Page/NCT.md "wikilink")[道英](../Page/道英.md "wikilink")、[SF9成員](https://zh.wikipedia.org/wiki/SF9 "wikilink")[路雲](https://zh.wikipedia.org/wiki/金錫宇 "wikilink")、歌手[Tony
 An等七位成員](../Page/安胜浩.md "wikilink")\[4\]將扮演「王子」。每期節目都將邀請不同的「公主」，「王子」們需根據每期不同的主題，依次為「公主」化妝，公主將從中挑選一位最終成功俘獲自己芳心的「王子」。
 
-第二季於2017年3月30開播，舊成員U-Kwon與道英退出，加入新成員[NCT成員](../Page/NCT.md "wikilink")[Johnny](https://zh.wikipedia.org/wiki/徐煐淏 "wikilink")、[VIXX成員](../Page/VIXX.md "wikilink")[N](https://zh.wikipedia.org/wiki/N_\(韓國歌手\) "wikilink")
+第二季於2017年3月30開播，舊成員U-Kwon與道英退出，加入新成員[NCT成員](../Page/NCT.md "wikilink")[Johnny](../Page/徐煐淏.md "wikilink")、[VIXX成員](../Page/VIXX.md "wikilink")[N](https://zh.wikipedia.org/wiki/N_\(韓國歌手\) "wikilink")
 。
 
 ## 節目成員
@@ -116,7 +116,7 @@ An等七位成員](../Page/安胜浩.md "wikilink")\[4\]將扮演「王子」。
 <td><p>缺席集數：1、2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/徐煐淏" title="wikilink">Johnny</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）<br />
+<td><p><a href="../Page/徐煐淏.md" title="wikilink">Johnny</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）<br />
 <small>（쟈니）</small></p></td>
 <td><p>1995年2月9日 ( 23歲)</p></td>
 <td><p><strong>韓國男子團體<a href="../Page/NCT.md" title="wikilink">NCT成員</a></strong></p></td>
@@ -131,7 +131,7 @@ An等七位成員](../Page/安胜浩.md "wikilink")\[4\]將扮演「王子」。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/道英" title="wikilink">道英</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）<br />
+<td><p><a href="../Page/道英.md" title="wikilink">道英</a>（<a href="../Page/NCT.md" title="wikilink">NCT</a>）<br />
 <small>（김동영）</small></p></td>
 <td></td>
 <td><p><strong>韓國男子團體<a href="../Page/NCT.md" title="wikilink">NCT成員</a></strong></p></td>
@@ -199,7 +199,7 @@ An等七位成員](../Page/安胜浩.md "wikilink")\[4\]將扮演「王子」。
 <td><p><a href="https://zh.wikipedia.org/wiki/Hui" title="wikilink">Hui</a>（<a href="../Page/Pentagon_(男子組合).md" title="wikilink">PENTAGON</a>）<br />
 <small>（후이）</small></p></td>
 <td></td>
-<td><p><strong>韩国团体<a href="../Page/Pentagon_(男子組合).md" title="wikilink">PENTAGON及</a><a href="https://zh.wikipedia.org/wiki/Triple_H_(企劃組合)" title="wikilink">Triple H成员</a></strong></p></td>
+<td><p><strong>韩国团体<a href="../Page/Pentagon_(男子組合).md" title="wikilink">PENTAGON及</a><a href="../Page/Triple_H_(企劃組合).md" title="wikilink">Triple H成员</a></strong></p></td>
 <td><p>因<a href="../Page/P.O.md" title="wikilink">P.O缺席录影特別出演第二季第</a>6集。</p></td>
 <td></td>
 </tr>
@@ -216,8 +216,7 @@ An等七位成員](../Page/安胜浩.md "wikilink")\[4\]將扮演「王子」。
 
 ## 播出列表
 
-以下是[OnStyle](https://zh.wikipedia.org/wiki/OnStyle "wikilink")《**Lipstick
-Prince**》的播出列表。
+以下是[OnStyle](../Page/OnStyle.md "wikilink")《**Lipstick Prince**》的播出列表。
 
 ### 第一季
 
@@ -263,8 +262,8 @@ Prince**》的播出列表。
 <td><p>4</p></td>
 <td><p>12月22日</p></td>
 <td><p>宴会妆容（圣诞特辑）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Irene_(模特)" title="wikilink">Irene</a>、<a href="https://zh.wikipedia.org/wiki/崔俊英" title="wikilink">崔俊英</a>、、<a href="https://zh.wikipedia.org/wiki/金娜莱" title="wikilink">金娜莱</a>、<a href="https://zh.wikipedia.org/wiki/安雅凛" title="wikilink">安雅凛</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/道英" title="wikilink">道英</a> (<a href="../Page/NCT.md" title="wikilink">NCT</a>)</p></td>
+<td><p><a href="../Page/Irene_(模特).md" title="wikilink">Irene</a>、<a href="https://zh.wikipedia.org/wiki/崔俊英" title="wikilink">崔俊英</a>、、<a href="https://zh.wikipedia.org/wiki/金娜莱" title="wikilink">金娜莱</a>、<a href="https://zh.wikipedia.org/wiki/安雅凛" title="wikilink">安雅凛</a></p></td>
+<td><p><a href="../Page/道英.md" title="wikilink">道英</a> (<a href="../Page/NCT.md" title="wikilink">NCT</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -337,7 +336,7 @@ Prince**》的播出列表。
 <td><p>2月2日</p></td>
 <td><p><a href="../Page/芭比娃娃.md" title="wikilink">芭比娃娃妆容</a></p></td>
 <td><p>、</p></td>
-<td><p><a href="../Page/安胜浩.md" title="wikilink">Tony An</a>、<a href="../Page/Block_B.md" title="wikilink">Block B</a> (<a href="../Page/P.O.md" title="wikilink">P.O</a>、<a href="../Page/U-Kwon.md" title="wikilink">U-Kwon</a>)、<a href="https://zh.wikipedia.org/wiki/道英" title="wikilink">道英</a> (<a href="../Page/NCT.md" title="wikilink">NCT</a>)</p></td>
+<td><p><a href="../Page/安胜浩.md" title="wikilink">Tony An</a>、<a href="../Page/Block_B.md" title="wikilink">Block B</a> (<a href="../Page/P.O.md" title="wikilink">P.O</a>、<a href="../Page/U-Kwon.md" title="wikilink">U-Kwon</a>)、<a href="../Page/道英.md" title="wikilink">道英</a> (<a href="../Page/NCT.md" title="wikilink">NCT</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -352,7 +351,7 @@ Prince**》的播出列表。
 <td><p>12</p></td>
 <td><p>2月16日</p></td>
 <td><p>呼唤春天妆容</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a> (<a href="https://zh.wikipedia.org/wiki/程瀟" title="wikilink">程瀟</a>、<a href="../Page/EXY.md" title="wikilink">EXY</a>、<a href="https://zh.wikipedia.org/wiki/苞娜" title="wikilink">苞娜</a>、<a href="../Page/雪娥.md" title="wikilink">雪娥</a>、<a href="https://zh.wikipedia.org/wiki/Luda" title="wikilink">Luda</a>、<a href="../Page/恩熙_(歌手).md" title="wikilink">恩熙</a>、<a href="https://zh.wikipedia.org/wiki/多榮" title="wikilink">多榮</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a> (<a href="https://zh.wikipedia.org/wiki/程瀟" title="wikilink">程瀟</a>、<a href="../Page/EXY.md" title="wikilink">EXY</a>、<a href="../Page/苞娜.md" title="wikilink">苞娜</a>、<a href="../Page/雪娥.md" title="wikilink">雪娥</a>、<a href="../Page/Luda.md" title="wikilink">Luda</a>、<a href="../Page/恩熙_(歌手).md" title="wikilink">恩熙</a>、<a href="https://zh.wikipedia.org/wiki/多榮" title="wikilink">多榮</a>)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/孫軒宇" title="wikilink">Shownu</a> (<a href="https://zh.wikipedia.org/wiki/Monsta_X" title="wikilink">Monsta X</a>)</p></td>
 <td></td>
 </tr>
@@ -411,7 +410,7 @@ Prince**》的播出列表。
 <td><p>5</p></td>
 <td><p>4月27日</p></td>
 <td><p><a href="../Page/电影.md" title="wikilink">电影主人公妆容</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/沈素英" title="wikilink">沈素英</a>、</p></td>
+<td><p><a href="../Page/沈素英.md" title="wikilink">沈素英</a>、</p></td>
 <td><p><a href="../Page/安胜浩.md" title="wikilink">Tony An</a>、<a href="https://zh.wikipedia.org/wiki/N_(韓國歌手)" title="wikilink">N</a> (<a href="../Page/VIXX.md" title="wikilink">VIXX</a>)、<a href="https://zh.wikipedia.org/wiki/金錫宇" title="wikilink">路雲</a> (<a href="https://zh.wikipedia.org/wiki/SF9" title="wikilink">SF9</a>)、<a href="../Page/NCT.md" title="wikilink">Johnny</a> (<a href="../Page/NCT.md" title="wikilink">NCT</a>)</p></td>
 <td></td>
 </tr>
@@ -435,7 +434,7 @@ Prince**》的播出列表。
 <td><p>8</p></td>
 <td><p>5月18日</p></td>
 <td><p><a href="../Page/VIXX.md" title="wikilink">VIXX</a><a href="../Page/吸血鬼.md" title="wikilink">吸血鬼妆容</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/gu9udan" title="wikilink">gu9udan</a> (<a href="../Page/世正.md" title="wikilink">世正</a>、<a href="https://zh.wikipedia.org/wiki/娜英" title="wikilink">娜英</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/gu9udan" title="wikilink">gu9udan</a> (<a href="../Page/世正.md" title="wikilink">世正</a>、<a href="../Page/娜英.md" title="wikilink">娜英</a>)</p></td>
 <td><p><a href="../Page/徐恩光.md" title="wikilink">恩光</a> (<a href="../Page/BTOB.md" title="wikilink">BTOB</a>)、<a href="../Page/P.O.md" title="wikilink">P.O</a> (<a href="../Page/Block_B.md" title="wikilink">Block B</a>)、<a href="../Page/孫賢祐.md" title="wikilink">Shownu</a> (<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>)、<a href="../Page/希澈.md" title="wikilink">希澈</a> (<a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>)</p></td>
 <td></td>
 </tr>
@@ -443,7 +442,7 @@ Prince**》的播出列表。
 <td><p>9</p></td>
 <td><p>5月25日</p></td>
 <td><p>庆典妆容</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/薛仁雅" title="wikilink">薛仁雅</a></p></td>
+<td><p><a href="../Page/薛仁雅.md" title="wikilink">薛仁雅</a></p></td>
 <td><p><a href="../Page/孫賢祐.md" title="wikilink">Shownu</a> (<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>)</p></td>
 <td></td>
 </tr>

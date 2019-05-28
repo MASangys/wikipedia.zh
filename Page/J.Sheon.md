@@ -65,7 +65,7 @@ You Again](https://www.youtube.com/watch?v=NoFOcvUlBF8)》改編成中文版本\
 | 2013年5月22日  | 《提示》 feat. J.Sheon         | \-                                                    | [頑童MJ116](../Page/頑童MJ116.md "wikilink") - 小春(Kenzy) |
 | 2014年6月26日  | 《Running》 feat. J.Sheon    | [滾石唱片](../Page/滾石唱片.md "wikilink")                    | [頑童MJ116](../Page/頑童MJ116.md "wikilink")             |
 | 2016年12月30日 | 《早上PAPAPA》 feat. J.Sheon   | [索尼音樂](https://zh.wikipedia.org/wiki/索尼音樂 "wikilink") | [陳星翰](../Page/陳星翰.md "wikilink")                     |
-| 2017年5月5日   | 《啵啦》 feat. 呂士軒             | [索尼音樂](https://zh.wikipedia.org/wiki/索尼音樂 "wikilink") | [呂士軒](https://zh.wikipedia.org/wiki/呂士軒 "wikilink")  |
+| 2017年5月5日   | 《啵啦》 feat. 呂士軒             | [索尼音樂](https://zh.wikipedia.org/wiki/索尼音樂 "wikilink") | [呂士軒](../Page/呂士軒.md "wikilink")                     |
 | 2017年8月7日   | 《你點的歌救了我》 feat. J.Sheon    | [索尼音樂](https://zh.wikipedia.org/wiki/索尼音樂 "wikilink") | [A-Lin](../Page/A-Lin.md "wikilink")                 |
 | 2018年4月30日  | 《friDay 超展開》 feat. J.Sheon | [索尼音樂](https://zh.wikipedia.org/wiki/索尼音樂 "wikilink") | [魏如萱](../Page/魏如萱.md "wikilink")                     |
 | 2018年6月15日  | 《闖空門》 feat. J.Sheon        | [滾石唱片](../Page/滾石唱片.md "wikilink")                    | [孫盛希](https://zh.wikipedia.org/wiki/孫盛希 "wikilink")  |
@@ -243,7 +243,7 @@ You Again](https://www.youtube.com/watch?v=NoFOcvUlBF8)》改編成中文版本\
 <td><p>2017年7月</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/GTM" title="wikilink">GTM</a></p></td>
 <td><p>信號</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/J.Sheon" title="wikilink">J.Sheon</a> /  <a href="https://zh.wikipedia.org/wiki/GTM" title="wikilink">GTM</a></p></td>
+<td><p><a href="../Page/J.Sheon.md" title="wikilink">J.Sheon</a> /  <a href="https://zh.wikipedia.org/wiki/GTM" title="wikilink">GTM</a></p></td>
 <td><p>J.Sheon</p></td>
 <td></td>
 <td><p>2017 FILA X GTM 聯名企劃主題曲</p></td>
@@ -251,17 +251,17 @@ You Again](https://www.youtube.com/watch?v=NoFOcvUlBF8)》改編成中文版本\
 </tr>
 <tr class="odd">
 <td><p>2017年7月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AMYO" title="wikilink">AMYO</a></p></td>
+<td><p><a href="../Page/AMYO.md" title="wikilink">AMYO</a></p></td>
 <td><p>說破</p></td>
 <td><p>J.Sheon / 米奇林 / 孫尤安</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/J.Sheon" title="wikilink">J.Sheon</a> / 米奇林</p></td>
+<td><p><a href="../Page/J.Sheon.md" title="wikilink">J.Sheon</a> / 米奇林</p></td>
 <td></td>
 <td><p>《說破》EP</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017年8月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安那" title="wikilink">安那</a> (ANNA)</p></td>
+<td><p><a href="../Page/安那.md" title="wikilink">安那</a> (ANNA)</p></td>
 <td><p>Party Crasher</p></td>
 <td><p>J.Sheon / 米奇林</p></td>
 <td><p>米奇林</p></td>
@@ -296,7 +296,7 @@ You Again](https://www.youtube.com/watch?v=NoFOcvUlBF8)》改編成中文版本\
 <td><p>J.Sheon / 孫盛希</p></td>
 <td><p>孫盛希 / J.Sheon / <a href="../Page/剃刀蔣.md" title="wikilink">剃刀蔣</a></p></td>
 <td></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/女·人_Woman" title="wikilink">女·人 Woman</a>》</p></td>
+<td><p>《<a href="../Page/女·人_Woman.md" title="wikilink">女·人 Woman</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -68,7 +68,7 @@ MOBANIMATION相關動畫作品的所有版權。
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/冷然之天秤" title="wikilink">冷然之天秤</a></p></td>
+<td><p><a href="../Page/冷然之天秤.md" title="wikilink">冷然之天秤</a></p></td>
 <td></td>
 <td><p>4月8日－6月24日</p></td>
 <td><p>高田昌弘</p></td>
@@ -76,12 +76,12 @@ MOBANIMATION相關動畫作品的所有版權。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/奴隸區_我與23個奴隸" title="wikilink">奴隸區 The Animation</a></p></td>
+<td><p><a href="../Page/奴隸區_我與23個奴隸.md" title="wikilink">奴隸區 The Animation</a></p></td>
 <td></td>
 <td><p>4月13日－6月29日</p></td>
 <td><p>倉谷涼一</p></td>
 <td><p>漫畫</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/TNK" title="wikilink">TNK共同製作</a></p></td>
+<td><p>與<a href="../Page/TNK.md" title="wikilink">TNK共同製作</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -104,7 +104,7 @@ MOBANIMATION相關動畫作品的所有版權。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/偶像大師SideM" title="wikilink">偶像大師 SideM 有理由Mini！</a></p></td>
+<td><p><a href="../Page/偶像大師SideM.md" title="wikilink">偶像大師 SideM 有理由Mini！</a></p></td>
 <td></td>
 <td><p>10月9日－12月25日</p></td>
 <td></td>

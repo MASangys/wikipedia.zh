@@ -9,7 +9,7 @@ b**\[1\]\[2\]）是一顆[太陽系外行星](../Page/太陽系外行星.md "wik
 比鄰星b被認為是[類地行星](https://zh.wikipedia.org/wiki/類地行星 "wikilink")，[質量下限是](../Page/質量下限.md "wikilink")1.27
 [](https://zh.wikipedia.org/wiki/地球質量 "wikilink")\[5\]。實際質量則因為[軌道傾角不明而無從得知](../Page/軌道傾角.md "wikilink")，但低於3
  的機率是90%\[6\]。假設它是由岩石組成並且密度與地球相當的話，它的半徑至少是1.1
-[](https://zh.wikipedia.org/wiki/地球半徑 "wikilink")；如密度較低或[真實質量大於質量下限](../Page/真實質量.md "wikilink")，半徑將會更大\[7\]。比鄰星b的[表面溫度估計為](https://zh.wikipedia.org/wiki/行星平衡溫度 "wikilink")\[8\]。
+[](https://zh.wikipedia.org/wiki/地球半徑 "wikilink")；如密度較低或[真實質量大於質量下限](../Page/真實質量.md "wikilink")，半徑將會更大\[7\]。比鄰星b的[表面溫度估計為](../Page/行星平衡溫度.md "wikilink")\[8\]。
 
 ### 母恆星
 

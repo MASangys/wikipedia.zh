@@ -152,7 +152,7 @@ Entertainment](../Page/TMS娛樂.md "wikilink")（東京電影時期）的電視
 ## 相關人物
 
   - 鈴木信一
-  - [田村盛揮](https://zh.wikipedia.org/wiki/田村盛揮 "wikilink")
+  - [田村盛揮](../Page/田村盛揮.md "wikilink")
 
 ## 相關項目
 

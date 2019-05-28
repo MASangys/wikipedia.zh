@@ -1,6 +1,6 @@
 《**Red
 Velvet演唱會列表**》主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet歷年舉行的演唱會](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")、參與的大型公開演出活動與其他演出。
+Velvet歷年舉行的演唱會](../Page/Red_Velvet.md "wikilink")、參與的大型公開演出活動與其他演出。
 
 ## 單獨演唱會
 
@@ -319,9 +319,7 @@ Velvet歷年舉行的演唱會](https://zh.wikipedia.org/wiki/Red_Velvet "wikili
   - [SMTOWN Live World Tour
     VI](../Page/SMTOWN_Live_World_Tour_VI.md "wikilink") （2017-2018）
   - SMTOWN SPECIAL STAGE in HONG KONG （2017）
-  - [SMTOWN Live
-    2018](https://zh.wikipedia.org/wiki/SMTOWN_Live_2018 "wikilink")
-    （2018）
+  - [SMTOWN Live 2018](../Page/SMTOWN_Live_2018.md "wikilink") （2018）
 
 ## 粉絲見面會
 

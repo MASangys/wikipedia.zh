@@ -200,8 +200,8 @@ AOKP使用[分散式版本控制系统开发](https://zh.wikipedia.org/wiki/分�
     C Spint / T-Mobile / US Cell / Verizon)
   - Galaxy S4 LTE (统一版)
   - Galaxy S4 Mini (GT-I9190 (3G) / GT-I9192 (DS) / GT-I9195 (LTE))
-  - [Galaxy S5](https://zh.wikipedia.org/wiki/三星Galaxy_S5 "wikilink")
-    (GSM / Sprint / US Cell / Vodafone)\[17\]
+  - [Galaxy S5](../Page/三星Galaxy_S5.md "wikilink") (GSM / Sprint / US
+    Cell / Vodafone)\[17\]
   - [Nexus 10](../Page/Nexus_10.md "wikilink")
   - [Vibrant](../Page/三星Galaxy_S.md "wikilink") (T-Mobile)
 
@@ -219,7 +219,7 @@ AOKP使用[分散式版本控制系统开发](https://zh.wikipedia.org/wiki/分�
   - [Xperia Z Ultra](../Page/索尼Xperia_Z_Ultra.md "wikilink")
   - [Xperia Z1](../Page/Sony_Xperia_Z1.md "wikilink")
   - [Xperia Z1 Compact](../Page/Sony_Xperia_Z1_Compact.md "wikilink")
-  - [Xperia Z2](https://zh.wikipedia.org/wiki/Sony_Xperia_Z2 "wikilink")
+  - [Xperia Z2](../Page/Sony_Xperia_Z2.md "wikilink")
   - Xperia ZL
   - Xperia ZR
 

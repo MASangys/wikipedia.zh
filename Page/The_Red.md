@@ -1,6 +1,6 @@
 《**The
 Red**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet的首張韓語](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")[正規專輯](../Page/音樂專輯.md "wikilink")，由[SM
+Velvet的首張韓語](../Page/Red_Velvet.md "wikilink")[正規專輯](../Page/音樂專輯.md "wikilink")，由[SM
 Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2015年9月9日發行，主打曲為《Dumb
 Dumb》。
 

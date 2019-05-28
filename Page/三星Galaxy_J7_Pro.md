@@ -8,8 +8,7 @@ UX介面](../Page/TouchWiz.md "wikilink")。這台智慧型手機搭載了採用
 核心、Mali-T830MP1 GPU、3 GB的記憶體和32 GB儲存空間組成，最大可以擴充到256
 GB的[MicroSD記憶卡](../Page/MicroSD.md "wikilink")，支援4G+3G雙卡雙待，電池為不可拆卸式3600mAh，為可以使用[Samsung
 Pay的較入門機種](https://zh.wikipedia.org/wiki/三星智付 "wikilink")，跟上一代[三星Galaxy
-J7
-Prime一樣為三卡槽](https://zh.wikipedia.org/wiki/三星Galaxy_J7_Prime "wikilink")。\[4\]
+J7 Prime一樣為三卡槽](../Page/三星Galaxy_J7_Prime.md "wikilink")。\[4\]
 
 ## 技術規格
 

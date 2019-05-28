@@ -7,12 +7,12 @@ TV全劇上架](../Page/LINE_TV.md "wikilink")。
 
 ### 主要人物
 
-|                                                     |        |                                        |                                                     |                                  |
-| --------------------------------------------------- | ------ | -------------------------------------- | --------------------------------------------------- | -------------------------------- |
-| **演員**                                              | **角色** | **介紹**                                 | **國語配音**                                            | **粵語配音**                         |
-| [張娜拉](../Page/張娜拉.md "wikilink")                    | 馬珍珠    | 38歲，和崔半島離婚後穿越到過去。1999年為韓國大學歷史系一年級學生。   | [馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink") | [鄭麗麗](../Page/鄭麗麗.md "wikilink") |
-| [孫浩俊](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink") | 崔半島    | 38歲，和馬珍珠離婚後穿越到過去。1999年為韓國大學土木工程系一年級學生。 | [李世揚](../Page/李世揚.md "wikilink")                    | [李鎮然](../Page/李鎮然.md "wikilink") |
-|                                                     |        |                                        |                                                     |                                  |
+|                                                     |        |                                        |                                  |                                  |
+| --------------------------------------------------- | ------ | -------------------------------------- | -------------------------------- | -------------------------------- |
+| **演員**                                              | **角色** | **介紹**                                 | **國語配音**                         | **粵語配音**                         |
+| [張娜拉](../Page/張娜拉.md "wikilink")                    | 馬珍珠    | 38歲，和崔半島離婚後穿越到過去。1999年為韓國大學歷史系一年級學生。   | [馮嘉德](../Page/馮嘉德.md "wikilink") | [鄭麗麗](../Page/鄭麗麗.md "wikilink") |
+| [孫浩俊](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink") | 崔半島    | 38歲，和馬珍珠離婚後穿越到過去。1999年為韓國大學土木工程系一年級學生。 | [李世揚](../Page/李世揚.md "wikilink") | [李鎮然](../Page/李鎮然.md "wikilink") |
+|                                                     |        |                                        |                                  |                                  |
 
 ### 次要人物
 
@@ -21,10 +21,10 @@ TV全劇上架](../Page/LINE_TV.md "wikilink")。
 | **演員**                           | **角色** | **介紹**                                      | **國語配音**                                            | **粵語配音**                                            |
 | [張基龍](../Page/張基龍.md "wikilink") | 鄭南吉    | 馬珍珠的學長，韓國大學理事長的兒子，1999年為韓國大學歷史系四年級學生。喜歡馬珍珠。 | [傅品晟](https://zh.wikipedia.org/wiki/傅品晟 "wikilink") | [關令翹](../Page/關令翹.md "wikilink")                    |
 | [高甫潔](../Page/高甫潔.md "wikilink") | 閔瑞英    | 崔半島的初戀，1999年為韓國大學舞蹈系一年級學生。                  | [陳貞伃](https://zh.wikipedia.org/wiki/陳貞伃 "wikilink") | [陳皓宜](../Page/陳皓宜.md "wikilink")                    |
-| [許正民](../Page/許正民.md "wikilink") | 安在宇    | 崔半島的朋友，1999年為韓國大學土木工程系一年級學生。喜歡尹寶蘭。          | [鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink") | [黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink") |
+| [許正民](../Page/許正民.md "wikilink") | 安在宇    | 崔半島的朋友，1999年為韓國大學土木工程系一年級學生。喜歡尹寶蘭。          | [鈕凱暘](../Page/鈕凱暘.md "wikilink")                    | [黃啟昌](https://zh.wikipedia.org/wiki/黃啟昌 "wikilink") |
 | [韓寶凜](../Page/韓寶凜.md "wikilink") | 尹寶蘭    | 馬珍珠的朋友，1999年為韓國大學歷史系一年級學生。喜歡安在宇。            | [楊凱凱](../Page/楊凱凱.md "wikilink")                    | [凌晞](../Page/凌晞.md "wikilink")                      |
 | [李伊庚](../Page/李伊庚.md "wikilink") | 高獨才    | 崔半島的朋友，1999年為韓國大學土木工程系一年級學生。                | [何志威](../Page/何志威.md "wikilink")                    | [鍾見麟](../Page/鍾見麟.md "wikilink")                    |
-| [曹惠晶](../Page/曹惠晶.md "wikilink") | 千瑟     | 馬珍珠的朋友，1999年為韓國大學歷史系一年級學生。                  | [傅其慧](../Page/傅其慧.md "wikilink")                    | [葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink") |
+| [曹惠晶](../Page/曹惠晶.md "wikilink") | 千瑟     | 馬珍珠的朋友，1999年為韓國大學歷史系一年級學生。                  | [傅其慧](../Page/傅其慧.md "wikilink")                    | [葉曉欣](../Page/葉曉欣.md "wikilink")                    |
 |                                  |        |                                             |                                                     |                                                     |
 
 ### 珍珠周邊人物
@@ -155,7 +155,7 @@ TV全劇上架](../Page/LINE_TV.md "wikilink")。
 <td><p>金藝琳</p></td>
 <td><p>有錢人家的女兒。雖然知道老公朴賢錫劈腿，卻因為愛他只能暗自流淚。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳貞伃" title="wikilink">陳貞伃</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李潤知" title="wikilink">李潤知</a></p></td>
+<td><p><a href="../Page/李潤知.md" title="wikilink">李潤知</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -169,13 +169,13 @@ TV全劇上架](../Page/LINE_TV.md "wikilink")。
 
 ### 特別出演
 
-|                                                     |        |        |                                                     |                                                     |
-| --------------------------------------------------- | ------ | ------ | --------------------------------------------------- | --------------------------------------------------- |
-| **演員**                                              | **角色** | **介紹** | **國語配音**                                            | **粵語配音**                                            |
-| [鄭允浩](../Page/鄭允浩.md "wikilink")                    | 推銷人員   |        |                                                     | [李致林](../Page/李致林.md "wikilink")                    |
-| [楊知元](../Page/楊知元.md "wikilink")                    | 高恩菲    | 聯誼女生   | [陳貞伃](https://zh.wikipedia.org/wiki/陳貞伃 "wikilink") | [廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink") |
-| [李輝才](https://zh.wikipedia.org/wiki/李輝才 "wikilink") | 電台DJ   |        | [何志威](../Page/何志威.md "wikilink")                    | [蘇強文](../Page/蘇強文.md "wikilink")                    |
-| [李尚敏](../Page/李尚敏.md "wikilink")                    | 李尚敏    |        | [鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink") | [李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")            |
+|                                                     |        |        |                                                     |                                          |
+| --------------------------------------------------- | ------ | ------ | --------------------------------------------------- | ---------------------------------------- |
+| **演員**                                              | **角色** | **介紹** | **國語配音**                                            | **粵語配音**                                 |
+| [鄭允浩](../Page/鄭允浩.md "wikilink")                    | 推銷人員   |        |                                                     | [李致林](../Page/李致林.md "wikilink")         |
+| [楊知元](../Page/楊知元.md "wikilink")                    | 高恩菲    | 聯誼女生   | [陳貞伃](https://zh.wikipedia.org/wiki/陳貞伃 "wikilink") | [廖杏茵](../Page/廖杏茵.md "wikilink")         |
+| [李輝才](https://zh.wikipedia.org/wiki/李輝才 "wikilink") | 電台DJ   |        | [何志威](../Page/何志威.md "wikilink")                    | [蘇強文](../Page/蘇強文.md "wikilink")         |
+| [李尚敏](../Page/李尚敏.md "wikilink")                    | 李尚敏    |        | [鈕凱暘](../Page/鈕凱暘.md "wikilink")                    | [李錦綸](../Page/李錦綸_\(配音員\).md "wikilink") |
 
 ## 原聲帶
 
@@ -347,7 +347,7 @@ TV全劇上架](../Page/LINE_TV.md "wikilink")。
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017_KBS演技大獎" title="wikilink">KBS演技大賞</a></p></td>
+<td><p><a href="../Page/2017_KBS演技大獎.md" title="wikilink">KBS演技大賞</a></p></td>
 <td><p>女子最優秀演技獎</p></td>
 <td><p><a href="../Page/張娜拉.md" title="wikilink">張娜拉</a></p></td>
 <td></td>

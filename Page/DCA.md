@@ -41,7 +41,7 @@
 
   - ，一种统计技术
 
-  - [二氯乙酸](https://zh.wikipedia.org/wiki/二氯乙酸 "wikilink")，一种有机酸
+  - [二氯乙酸](../Page/二氯乙酸.md "wikilink")，一种有机酸
 
   - [二氯乙烷](https://zh.wikipedia.org/wiki/二氯乙烷 "wikilink")（Dichloroethanes），一种有机溶液
 

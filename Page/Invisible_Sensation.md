@@ -1,7 +1,7 @@
 《**Invisible
 Sensation**》是[日本](../Page/日本.md "wikilink")[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[UNISON
 SQUARE
-GARDEN的第](https://zh.wikipedia.org/wiki/UNISON_SQUARE_GARDEN "wikilink")12張單曲。2017年11月8日由[TOY'S
+GARDEN的第](../Page/UNISON_SQUARE_GARDEN.md "wikilink")12張單曲。2017年11月8日由[TOY'S
 FACTORY發行](../Page/TOY'S_FACTORY.md "wikilink")\[1\]。
 
 ## 解說

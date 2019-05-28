@@ -97,7 +97,7 @@
 
   - [上橋菜穗子](../Page/上橋菜穗子.md "wikilink")：[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")、特任[教授](../Page/教授.md "wikilink")，本年憑《鹿王》獲得了第12屆[書店大獎中第](https://zh.wikipedia.org/wiki/書店大獎 "wikilink")1位。
 
-  - [大泉洋](../Page/大泉洋.md "wikilink")：本年NHK[連續電視小說](../Page/連續電視小說.md "wikilink")《[小希](https://zh.wikipedia.org/wiki/小希 "wikilink")》及明年[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[真田丸](../Page/真田丸.md "wikilink")》中均有主要角色
+  - [大泉洋](../Page/大泉洋.md "wikilink")：本年NHK[連續電視小說](../Page/連續電視小說.md "wikilink")《[小希](../Page/小希.md "wikilink")》及明年[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[真田丸](../Page/真田丸.md "wikilink")》中均有主要角色
 
   - [堺雅人](../Page/堺雅人.md "wikilink")：演員、明年NHK大河劇《真田丸》中擔任[男主角](https://zh.wikipedia.org/wiki/主角 "wikilink")
 
@@ -171,7 +171,7 @@
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/大原櫻子" title="wikilink">大原櫻子</a></strong></p></td>
+<td><p><strong><a href="../Page/大原櫻子.md" title="wikilink">大原櫻子</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -219,7 +219,7 @@
 <tr class="even">
 <td><p>5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/E-girls" title="wikilink">E-girls</a><br />
-<a href="https://zh.wikipedia.org/wiki/大原櫻子" title="wikilink">大原櫻子</a></p></td>
+<a href="../Page/大原櫻子.md" title="wikilink">大原櫻子</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/V6" title="wikilink">V6</a>、動漫紅白出場歌手<br />
@@ -256,7 +256,7 @@
 </tr>
 <tr class="odd">
 <td><p>24</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天童芳美" title="wikilink">天童芳美</a></p></td>
+<td><p><a href="../Page/天童芳美.md" title="wikilink">天童芳美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>後半</p></td>

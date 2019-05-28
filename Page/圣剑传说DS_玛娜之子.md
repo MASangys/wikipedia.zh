@@ -1,14 +1,14 @@
 是2006年在掌上游戏机[任天堂DS发行的](../Page/任天堂DS.md "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。其由[史克威尔艾尼克斯和](../Page/史克威尔艾尼克斯.md "wikilink")[Nex娱乐开发](https://zh.wikipedia.org/wiki/Nex娱乐 "wikilink")，史克威尔艾尼克斯和[任天堂发行](../Page/任天堂.md "wikilink")。这是[圣剑传说系列第六部作品](https://zh.wikipedia.org/wiki/圣剑传说系列 "wikilink")，是玛娜世界子系列的首部作品，其前作为2003年的《[新约
 圣剑传说](https://zh.wikipedia.org/wiki/新约_圣剑传说 "wikilink")》。《玛娜之子》采用[高度奇幻的世界观](https://zh.wikipedia.org/wiki/高度奇幻 "wikilink")，讲述四名年轻英雄和入侵的怪物战斗，了解毁灭他们家族之大变灾的故事。
 
-《玛娜之子》除了延续圣剑传说前作的即时战斗等动作角色扮演游戏元素外，还更加关注用户友好度。和早期圣剑传说作品不同，《玛娜之子》采用更注重动作的[迷宫](https://zh.wikipedia.org/wiki/迷宫探索 "wikilink")，玩家通过完成随机生成的[关卡推进游戏](https://zh.wikipedia.org/wiki/游戏关卡 "wikilink")。主线和[支线任务皆需要玩家杀过迷宫](https://zh.wikipedia.org/wiki/任务_\(电子游戏\) "wikilink")、击败[头目](https://zh.wikipedia.org/wiki/头目_\(角色类型\) "wikilink")，之后返回中央的玛娜之村。如同大多数前作，游戏支持本地[多人合作游戏](https://zh.wikipedia.org/wiki/合作游戏模式 "wikilink")。
+《玛娜之子》除了延续圣剑传说前作的即时战斗等动作角色扮演游戏元素外，还更加关注用户友好度。和早期圣剑传说作品不同，《玛娜之子》采用更注重动作的[迷宫](https://zh.wikipedia.org/wiki/迷宫探索 "wikilink")，玩家通过完成随机生成的[关卡推进游戏](https://zh.wikipedia.org/wiki/游戏关卡 "wikilink")。主线和[支线任务皆需要玩家杀过迷宫](../Page/任务_\(电子游戏\).md "wikilink")、击败[头目](https://zh.wikipedia.org/wiki/头目_\(角色类型\) "wikilink")，之后返回中央的玛娜之村。如同大多数前作，游戏支持本地[多人合作游戏](../Page/合作游戏模式.md "wikilink")。
 
 《玛娜之子》由系列创作人[石井浩一设计](../Page/石井浩一.md "wikilink")、伊藤芳樹监督。游戏首周销量10万套，获得一般的商业成功。评论对美丽图形和独特的音乐表示称赞，但对简单重复的战斗和薄弱的故事表示批评。
 
 ## 玩法
 
 《圣剑传说DS
-玛娜之子》和之前的[圣剑传说游戏类似](https://zh.wikipedia.org/wiki/圣剑传说系列 "wikilink")，都采用俯视视角，玩家角色在场景中和敌对生物战斗。玩家从四名角色中选择其一为主人公。每名角色都有四类能力值——魔法的伤害力、攻击的速度、[生命值和](../Page/生命值.md "wikilink")[魔法值的高低](https://zh.wikipedia.org/wiki/魔法值 "wikilink")——每类分为五个星级\[1\]。除却少量角色专用任务外，角色选择对情节几无影响。和系列前作不同的是，主人公在游戏中没有伙伴；不过多人模式可让至多四名玩家[合作游戏](https://zh.wikipedia.org/wiki/合作游戏模式 "wikilink")，每名玩家的画面都会显示全部角色\[2\]。多人模式仅能通过本地WiFi连接，且纪录在主人玩家的游戏中保存\[3\]。
+玛娜之子》和之前的[圣剑传说游戏类似](https://zh.wikipedia.org/wiki/圣剑传说系列 "wikilink")，都采用俯视视角，玩家角色在场景中和敌对生物战斗。玩家从四名角色中选择其一为主人公。每名角色都有四类能力值——魔法的伤害力、攻击的速度、[生命值和](../Page/生命值.md "wikilink")[魔法值的高低](https://zh.wikipedia.org/wiki/魔法值 "wikilink")——每类分为五个星级\[1\]。除却少量角色专用任务外，角色选择对情节几无影响。和系列前作不同的是，主人公在游戏中没有伙伴；不过多人模式可让至多四名玩家[合作游戏](../Page/合作游戏模式.md "wikilink")，每名玩家的画面都会显示全部角色\[2\]。多人模式仅能通过本地WiFi连接，且纪录在主人玩家的游戏中保存\[3\]。
 
 和更标准的[动作角色扮演游戏系列前作不同](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")，《玛娜之子》是[迷宫探索游戏](https://zh.wikipedia.org/wiki/迷宫探索 "wikilink")，操作时间大多花费在指定场所而非[开放世界的地图](https://zh.wikipedia.org/wiki/开放世界 "wikilink")。玩家在世界地图上选择前去的场所。各个区域的首要目标是清理迷宫中的怪物。每个迷宫都划分为多个随机生成的楼层，前往下一层必须找到光之水滴，并将之放到发亮的传送点光之泉\[4\]。玩家只有完成之前的迷宫，才能来到最终层和[头目对战](https://zh.wikipedia.org/wiki/头目_\(电子游戏\) "wikilink")\[5\]。除非角色死亡或脱出迷宫，则不能回到之前的楼层；退出迷宫后下次又会从头开始迷宫\[6\]。玩家不闯迷宫时，可以在玛娜之村的商店购买装备。玩家还可在穴熊的商店接村民的[支线任务](https://zh.wikipedia.org/wiki/支线任务 "wikilink")，之后重回迷宫挑战\[7\]。任务模式的迷宫会有些许变化：玩家的起始位置未必相同、层数也不一样、怪物和头目怪兽亦有不小变化。类似主线任务，穴熊的任务包括清理迷宫怪物、或是从迷宫尽头拿到特定道具\[8\]。
 
@@ -41,7 +41,7 @@
 《玛娜之子》由[Nex娱乐开发和史克威尔艾尼克斯合作开发](https://zh.wikipedia.org/wiki/Nex娱乐 "wikilink")，Nex娱乐之前开发过[光明系列的](https://zh.wikipedia.org/wiki/光明系列 "wikilink")[迷宫探索游戏](https://zh.wikipedia.org/wiki/迷宫探索 "wikilink")\[16\]\[17\]。游戏由系列创作人[石井浩一设计](../Page/石井浩一.md "wikilink")，伊藤芳树监督，青山胜治制作。游戏开场影片由[Production
 I.G制作](../Page/Production_I.G.md "wikilink")\[18\]。游戏一开始就设计为利用DS机能优势，“对所有人都有趣的动作类型游戏”。石井格外注重创作真正的多人合作游戏，这个愿望从系列第二作《[圣剑传说2](https://zh.wikipedia.org/wiki/圣剑传说2 "wikilink")》（1993）就延续了下来。不过为了和《圣剑传说2》的本地多人模式保持一致，营造玩家和邻近而非远方之人互动的体验，他选择不用DS的[任天堂Wi-Fi功能](../Page/任天堂Wi-Fi连接.md "wikilink")。在设计多人模式时，他还营造了混乱的兴奋，比如玩家可互动而无需专注于困难或彼此竞争。游戏部分设计选择意味更注重都动作成分，比如攻击会让敌人飞过屏幕，玩家可以同时使用按键和触控笔可简化操控，并可直接控制行动方向。随机生成迷宫的机制亦是为此\[19\]。虽然石井称系列游戏仅仅有主题程度的联系，但他也在采访中表示，《玛娜之子》设定于2007年游戏《[圣剑传说4](https://zh.wikipedia.org/wiki/圣剑传说4 "wikilink")》所述大变灾情节的10年后\[20\]。
 
-《玛娜之子》由[伊藤贤治](https://zh.wikipedia.org/wiki/伊藤贤治 "wikilink")、[岩田匡治和](https://zh.wikipedia.org/wiki/岩田匡治 "wikilink")[相原隆行谱曲](https://zh.wikipedia.org/wiki/相原隆行 "wikilink")。伊藤曾为圣剑传说首作《[圣剑传说
+《玛娜之子》由[伊藤贤治](https://zh.wikipedia.org/wiki/伊藤贤治 "wikilink")、[岩田匡治和](../Page/岩田匡治.md "wikilink")[相原隆行谱曲](https://zh.wikipedia.org/wiki/相原隆行 "wikilink")。伊藤曾为圣剑传说首作《[圣剑传说
 ～最终幻想外传～](https://zh.wikipedia.org/wiki/圣剑传说_～最终幻想外传～ "wikilink")》及其2003年重制版《[新约
 圣剑传说](https://zh.wikipedia.org/wiki/新约_圣剑传说 "wikilink")》作曲。这是岩田和相原首部谱曲的圣剑传说游戏，不过岩田之前有参与多款史克威尔艾尼克斯游戏的配乐。游戏音乐曲风多样，包括[摇滚](../Page/摇滚乐.md "wikilink")、[爵士和](../Page/爵士乐.md "wikilink")[古典乐](../Page/古典音乐.md "wikilink")。史克威尔艾尼克斯音乐在线的克里斯·格林宁称，受任天堂DS硬件的限制，并非所有的[合成乐器都](../Page/合成器.md "wikilink")“非常有美感或逼真”\[21\]。专辑《圣剑传说DS
 玛娜之子原声音乐》收录了33首《玛娜之子》中的曲目，分为两碟合计约1.5小时。专辑由史克威尔艾尼克斯于2006年5月9日在日本[iTunes商店上架](https://zh.wikipedia.org/wiki/iTunes商店 "wikilink")，没有独立的实体专辑发行\[22\]。

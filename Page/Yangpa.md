@@ -25,8 +25,8 @@
   - 2008年 4月：YangPa & Miho (Single) -〈비밀 (秘密)〉
   - 2009年 6月：連續劇[魂](../Page/魂_\(電視劇\).md "wikilink") O.S.T (Digital
     Single) -〈령혼 (靈魂)〉
-  - 2010年12月：音樂劇[天國的眼淚](https://zh.wikipedia.org/wiki/天國的眼淚 "wikilink")
-    (Tears Of Heaven) O.S.T (Digital Single) -〈Can you hear me?〉
+  - 2010年12月：音樂劇[天國的眼淚](../Page/天國的眼淚.md "wikilink") (Tears Of Heaven)
+    O.S.T (Digital Single) -〈Can you hear me?〉
   - 2011年 8月：連續劇[階伯](../Page/階伯_\(電視劇\).md "wikilink") O.S.T Part.1 -〈알고
     있나요 (想知道)〉
   - 2011年11月：連續劇[樹大根深](../Page/樹大根深.md "wikilink") O.S.T Part. 2 -〈기억할께요
@@ -45,8 +45,8 @@
   - 2011年11月：連續劇《[明成皇后](../Page/明成皇后_\(電視劇\).md "wikilink")》 O.S.T - 나
     가거든 (If I Leave)(Clean & White Version)
   - 2005年 3月：電影 《》 O.S.T - 달콤한 인생 (甜蜜人生)
-  - 2008年 4月：[MC夢](https://zh.wikipedia.org/wiki/MC夢 "wikilink") 4輯
-    Show's Just Begun - 아홉번째 구름 (第九片雲) FEATURING. Yangpa
+  - 2008年 4月：[MC夢](../Page/MC夢.md "wikilink") 4輯 Show's Just Begun -
+    아홉번째 구름 (第九片雲) FEATURING. Yangpa
   - 2011年10月：Astro Bits - 어디선가 FEATURING.Yangpa
   - 2013年 5月：[尹鍾信](../Page/尹鍾信.md "wikilink") 月刊尹鍾信 - 나에게 온다 (Coming to
     Me)
@@ -68,8 +68,8 @@
     （冠軍）
   - 2016年：[二重唱歌謠祭](https://zh.wikipedia.org/wiki/二重唱歌謠祭 "wikilink") EP10
   - 2016年：[Vocal 戰爭：神的聲音](../Page/Vocal_戰爭：神的聲音.md "wikilink") EP17
-  - 2017年：[Fantastic Duo
-    2](https://zh.wikipedia.org/wiki/Fantastic_Duo_2 "wikilink") EP15-16
+  - 2017年：[Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")
+    EP15-16
 
 ## 學歷
 

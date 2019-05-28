@@ -10,7 +10,7 @@
 2015年10月18日，美国玩家Angrypug在遊戲《[尸流感](https://zh.wikipedia.org/wiki/生存之道 "wikilink")》中被中國玩家击倒后，故意高喊“台湾
 No.1”并播放[中华民国国歌](https://zh.wikipedia.org/wiki/中华民国国歌 "wikilink")、展示[中华民国国旗](https://zh.wikipedia.org/wiki/中华民国国旗 "wikilink")，中國玩家用中英文怒骂“[Fuck](../Page/Fuck.md "wikilink")”、“[操你妈](https://zh.wikipedia.org/wiki/操你妈 "wikilink")”。台湾网友热捧Angrypug。此后Angrypug常常在游戏中大喊此口号。\[5\]
 
-2016年1月26日美国[Twitch实况主curvyllama在尸流感中杀死一位玩家后](https://zh.wikipedia.org/wiki/Twitch "wikilink")，对方用[普通话大骂](../Page/普通话.md "wikilink")「操你妈」，curvyllama听出他是中国人就用“台湾NO.1”和学来的[汉语回击](../Page/現代標準漢語.md "wikilink")。对方追问curvyllama的Twitch账号，curvyllama则说“我的账号就是台湾NO.1”。curvyllama事后说这是她看过最愤怒的中国玩家。\[6\]同月29日，Angrypug受到直播平台[Twitch邀請](https://zh.wikipedia.org/wiki/Twitch "wikilink")，來到台灣參加[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")，並分享自己受到台灣玩家歡迎的心情\[7\]，根據[外交家雜誌的報導](https://zh.wikipedia.org/wiki/外交家雜誌 "wikilink")，雖然這件流行語挑動了臺海兩岸人民的敏感神經，但Angrypug沒有針對兩岸政治議題表達立場\[8\]。
+2016年1月26日美国[Twitch实况主curvyllama在尸流感中杀死一位玩家后](../Page/Twitch.md "wikilink")，对方用[普通话大骂](../Page/普通话.md "wikilink")「操你妈」，curvyllama听出他是中国人就用“台湾NO.1”和学来的[汉语回击](../Page/現代標準漢語.md "wikilink")。对方追问curvyllama的Twitch账号，curvyllama则说“我的账号就是台湾NO.1”。curvyllama事后说这是她看过最愤怒的中国玩家。\[6\]同月29日，Angrypug受到直播平台[Twitch邀請](../Page/Twitch.md "wikilink")，來到台灣參加[台北國際電玩展](../Page/台北國際電玩展.md "wikilink")，並分享自己受到台灣玩家歡迎的心情\[7\]，根據[外交家雜誌的報導](https://zh.wikipedia.org/wiki/外交家雜誌 "wikilink")，雖然這件流行語挑動了臺海兩岸人民的敏感神經，但Angrypug沒有針對兩岸政治議題表達立場\[8\]。
 
 2017年5月，有位[韓國實況主在一款荒漠生存遊戲](https://zh.wikipedia.org/wiki/韓國 "wikilink")「」中客氣詢問另一位玩家是哪裡人，對方一開始聲稱自己是日本人，卻似乎不瞭解[壽司](https://zh.wikipedia.org/wiki/壽司 "wikilink")，後來韓國實況主開始喊「台灣NO.1」、「台灣是個很美麗的國家」等語，對方即持續用髒話罵他並追殺他，立即讓中國人現出原形。「台灣No.1」一語因而被認為可有效分辨中國人與台灣等其他國家玩家，可達到快速激怒中國人的效果。\[9\]\[10\]
 

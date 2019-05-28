@@ -27,7 +27,7 @@ Heart](../Page/Compile_Heart.md "wikilink")，[Tamsoft於](https://zh.wikipedia.
   -
 
       -
-        作詞、主唱：[Fuki](https://zh.wikipedia.org/wiki/Fuki "wikilink")，作曲、編曲：y0c1e
+        作詞、主唱：[Fuki](../Page/Fuki.md "wikilink")，作曲、編曲：y0c1e
 
 ## 腳註
 

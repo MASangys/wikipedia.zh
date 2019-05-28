@@ -28,10 +28,10 @@ STATION](../Page/MUSIC_STATION.md "wikilink")》進行現場演唱的歌曲\[3\]
 
 ## 收錄作品
 
-| 曲名                                                                              | 專輯                                                                                  | 發行日期                                                           | 備註                                                                |
-| ------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------- |
-| STARTING NOW！                                                                   | 《**[NEOGENE CREATION](https://zh.wikipedia.org/wiki/NEOGENE_CREATION "wikilink")**》 | 2016年12月21日                                                    | 水樹奈奈的個人第12張[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink") |
-| 《**[THE MUSEUM III](https://zh.wikipedia.org/wiki/THE_MUSEUM_III "wikilink")**》 | 2018年1月10日                                                                          | 水樹奈奈的個人第3張[最佳專輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink") |                                                                   |
+| 曲名                                                                              | 專輯                                                               | 發行日期                                                           | 備註                                                                |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------- | -------------------------------------------------------------- | ----------------------------------------------------------------- |
+| STARTING NOW！                                                                   | 《**[NEOGENE CREATION](../Page/NEOGENE_CREATION.md "wikilink")**》 | 2016年12月21日                                                    | 水樹奈奈的個人第12張[原創專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink") |
+| 《**[THE MUSEUM III](https://zh.wikipedia.org/wiki/THE_MUSEUM_III "wikilink")**》 | 2018年1月10日                                                       | 水樹奈奈的個人第3張[最佳專輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink") |                                                                   |
 
 ### DVD、Blu-ray Disc
 

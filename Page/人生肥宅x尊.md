@@ -1,7 +1,7 @@
-**人生肥宅x尊**是由台湾[YouTuber朱玉恩经营的一個](https://zh.wikipedia.org/wiki/YouTuber "wikilink")[YouTube頻道](../Page/YouTube.md "wikilink")\[1\]。朱玉恩畢業於[羅東高商](https://zh.wikipedia.org/wiki/羅東高商 "wikilink")，本名速唸而得藝名**尊**，2018年为全台湾最年轻的百萬訂閱YouTuber，年僅19歲\[2\]。该頻道以實驗[開箱及](../Page/開箱.md "wikilink")[都市傳說系列影片為主](../Page/都市傳說.md "wikilink")。在其開箱影片中，以添加[斷魂椒的](../Page/斷魂椒.md "wikilink")[洋芋片](https://zh.wikipedia.org/wiki/洋芋片 "wikilink")（18禁洋芋片）最為知名\[3\]
+**人生肥宅x尊**是由台湾[YouTuber朱玉恩经营的一個](../Page/YouTuber.md "wikilink")[YouTube頻道](../Page/YouTube.md "wikilink")\[1\]。朱玉恩畢業於[羅東高商](https://zh.wikipedia.org/wiki/羅東高商 "wikilink")，本名速唸而得藝名**尊**，2018年为全台湾最年轻的百萬訂閱YouTuber，年僅19歲\[2\]。该頻道以實驗[開箱及](../Page/開箱.md "wikilink")[都市傳說系列影片為主](../Page/都市傳說.md "wikilink")。在其開箱影片中，以添加[斷魂椒的](../Page/斷魂椒.md "wikilink")[洋芋片](https://zh.wikipedia.org/wiki/洋芋片 "wikilink")（18禁洋芋片）最為知名\[3\]
 \[4\]，並造成網路話題熱潮。
 
-影片風格受到[日本](../Page/日本.md "wikilink")[YouTuber影響](https://zh.wikipedia.org/wiki/YouTuber "wikilink")，因此內容偏向日式。
+影片風格受到[日本](../Page/日本.md "wikilink")[YouTuber影響](../Page/YouTuber.md "wikilink")，因此內容偏向日式。
 
 ## 經歷
 
@@ -15,7 +15,7 @@
 
 2018年1月14日，主頻道達到100萬訂閱，為台灣第十位達成百萬訂閱的創作者，也是目前最年輕的百萬訂閱Youtuber，至今已達124萬訂閱。
 
-2018年參與拍攝《[高三症候群](https://zh.wikipedia.org/wiki/高三症候群 "wikilink")》短篇影集，並與同為Youtuber的親哥哥朱玉宸[小玉共同發佈單曲](https://zh.wikipedia.org/wiki/小玉_\(YouTuber\) "wikilink")《怪人》。
+2018年參與拍攝《[高三症候群](https://zh.wikipedia.org/wiki/高三症候群 "wikilink")》短篇影集，並與同為Youtuber的親哥哥朱玉宸[小玉共同發佈單曲](../Page/小玉_\(YouTuber\).md "wikilink")《怪人》。
 
 ## 頻道風格
 
@@ -24,7 +24,7 @@
 ## 相關條目
 
   - [台灣YouTuber訂閱人數排行榜](https://zh.wikipedia.org/wiki/台灣YouTuber訂閱人數排行榜 "wikilink")
-  - [小玉](https://zh.wikipedia.org/wiki/小玉_\(YouTuber\) "wikilink")
+  - [小玉](../Page/小玉_\(YouTuber\).md "wikilink")
 
 ## 參考資料
 

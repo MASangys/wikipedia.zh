@@ -2,7 +2,7 @@
 Entertainment GmbH）〔前称**媒体控制有限责任公司**（Media Control
 GmbH）与**媒体控制GfK国际有限责任公司**（Media Control GfK
 International
-GmbH）〕代表[聯邦音樂產業協會](https://zh.wikipedia.org/wiki/聯邦音樂產業協會 "wikilink")（Bundesverband
+GmbH）〕代表[聯邦音樂產業協會](../Page/聯邦音樂產業協會.md "wikilink")（Bundesverband
 Musikindustrie）统计发布。GfK娱乐不仅会发布百强专辑和单曲榜单，还会发布各类曲风的分榜单。\[1\]2014年3月，由于遭到Media
 Control AG的提告，媒体控制GfK国际有限责任公司更改至今名。\[2\]
 

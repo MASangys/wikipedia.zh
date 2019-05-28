@@ -1,12 +1,12 @@
 **SIG
 P238**是一系列由[西格-紹爾所研製及生產的袖珍型單動式](../Page/西格&紹爾.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")，並且在2009年（美國著名槍展）上首度展出，發射[手槍](https://zh.wikipedia.org/wiki/手槍 "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
-這是[柯爾特野馬手槍的西格](https://zh.wikipedia.org/wiki/柯爾特野馬手槍 "wikilink")-紹爾生產型版本，\[1\]\[2\]並採用了西格-紹爾經典的倾斜式鋸齒狀突起防滑紋型[滑套和](https://zh.wikipedia.org/wiki/手枪套筒 "wikilink")[扳機護圈下方的手指凹槽](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。握把側板是由凹槽型[聚合物所製造](../Page/聚合物.md "wikilink")，使這把全金屬製[底把槍械可以與同口徑類別的塑料底把手槍](https://zh.wikipedia.org/wiki/机匣 "wikilink")，如[儒格LCP和](https://zh.wikipedia.org/wiki/儒格LCP手槍 "wikilink")[Kel-Tec
+這是[柯爾特野馬手槍的西格](https://zh.wikipedia.org/wiki/柯爾特野馬手槍 "wikilink")-紹爾生產型版本，\[1\]\[2\]並採用了西格-紹爾經典的倾斜式鋸齒狀突起防滑紋型[滑套和](https://zh.wikipedia.org/wiki/手枪套筒 "wikilink")[扳機護圈下方的手指凹槽](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")。握把側板是由凹槽型[聚合物所製造](../Page/聚合物.md "wikilink")，使這把全金屬製[底把槍械可以與同口徑類別的塑料底把手槍](../Page/机匣.md "wikilink")，如[儒格LCP和](https://zh.wikipedia.org/wiki/儒格LCP手槍 "wikilink")[Kel-Tec
 P-3AT競爭](https://zh.wikipedia.org/wiki/Kel-Tec_P-3AT手槍 "wikilink")。\[3\]
 
 ## 概述
 
-P238配有[铝製](../Page/铝.md "wikilink")[底把和](https://zh.wikipedia.org/wiki/机匣 "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")[滑套](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。最初的P238手槍分為標準[瞄準具](https://zh.wikipedia.org/wiki/瞄準具 "wikilink")，以及作為選擇更昂貴的夜間瞄準具。然而，目前生產的所有型號都將夜間瞄準具視作標準配備。從2012年開始，許多衍生型具有標準或是作為選擇的靈巧拇指保險。
+P238配有[铝製](../Page/铝.md "wikilink")[底把和](../Page/机匣.md "wikilink")[不鏽鋼](../Page/不鏽鋼.md "wikilink")[滑套](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。最初的P238手槍分為標準[瞄準具](https://zh.wikipedia.org/wiki/瞄準具 "wikilink")，以及作為選擇更昂貴的夜間瞄準具。然而，目前生產的所有型號都將夜間瞄準具視作標準配備。從2012年開始，許多衍生型具有標準或是作為選擇的靈巧拇指保險。
 
 ## 衍生型
 

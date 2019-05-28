@@ -1,6 +1,6 @@
 **As If It's Your
 Last**（，）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK的數位單曲](../Page/BLACKPINK.md "wikilink")，這首歌曲是作為準備《Square
-Three》期間率先發表的單曲，以及重新錄製為日語版收錄於日本出道迷你專輯《[Blackpink](https://zh.wikipedia.org/wiki/Blackpink_\(迷你專輯\) "wikilink")》的第五首收錄曲。該歌曲曲風以[浩室](https://zh.wikipedia.org/wiki/浩室音樂 "wikilink")、[雷鬼風格為主軸](../Page/雷鬼音樂.md "wikilink")\[1\]，韓語版由[YG娛樂企劃製作](../Page/YG娛樂.md "wikilink")，[Genie音樂發行](https://zh.wikipedia.org/wiki/Genie音樂 "wikilink")，於2017年6月22日下午6時通過各大數位音樂網站公開線上音源\[2\]，日語版本則由所屬經紀公司YG娛樂與日本唱片公司[AVEX共同創立的公司](../Page/愛貝克思集團.md "wikilink")[YGEX製作發行](https://zh.wikipedia.org/wiki/YGEX "wikilink")，在2017年8月29日提供[數位音樂下載](../Page/數位音樂下載.md "wikilink")\[3\]。同年11月，《As
+Three》期間率先發表的單曲，以及重新錄製為日語版收錄於日本出道迷你專輯《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》的第五首收錄曲。該歌曲曲風以[浩室](https://zh.wikipedia.org/wiki/浩室音樂 "wikilink")、[雷鬼風格為主軸](../Page/雷鬼音樂.md "wikilink")\[1\]，韓語版由[YG娛樂企劃製作](../Page/YG娛樂.md "wikilink")，[Genie音樂發行](../Page/Genie音樂.md "wikilink")，於2017年6月22日下午6時通過各大數位音樂網站公開線上音源\[2\]，日語版本則由所屬經紀公司YG娛樂與日本唱片公司[AVEX共同創立的公司](../Page/愛貝克思集團.md "wikilink")[YGEX製作發行](https://zh.wikipedia.org/wiki/YGEX "wikilink")，在2017年8月29日提供[數位音樂下載](../Page/數位音樂下載.md "wikilink")\[3\]。同年11月，《As
 If It's Your
 Last》成為[華納兄弟出品的](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[超級英雄電影](../Page/超級英雄電影.md "wikilink")《[正義聯盟](https://zh.wikipedia.org/wiki/正義聯盟_\(電影\) "wikilink")》的插曲。\[4\]\[5\]
 
@@ -8,7 +8,7 @@ Last》成為[華納兄弟出品的](https://zh.wikipedia.org/wiki/華納兄弟 
 
 早於2017年5月14日，所屬經紀公司[YG娛樂相關人士便透露BLACKPINK正在準備新的音樂作品並以](../Page/YG娛樂.md "wikilink")6月回歸韓國樂壇為目標\[6\]，而在6月5日更向媒體批露將在本週進行新曲音樂錄影帶拍攝日程，並表示正在進行各項行程的商討，詳細的回歸日程，將等待音樂錄影帶拍攝完畢後，另做公告。當日，YG娛樂代表[梁鉉錫也在](../Page/梁鉉錫.md "wikilink")[Instagram專頁公開音樂錄影帶的拍攝現場](../Page/Instagram.md "wikilink")，證實BLACKPINK即將回歸\[7\]，此次也是她們繼2016年11月的活動後，時隔7個月再發新作。\[8\]
 
-2017年6月13日，YG娛樂於上午通過官方主頁公開BLACKPINK回歸預告海報，在燈光照射下的希臘神殿散發的粉色光芒，而海報中的「2017.6.22」字樣，預告著將在6月22日正式回歸韓國樂壇\[9\]，並在6月16日至18日依次公開[Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink")\[10\]、[Jisoo](../Page/金智秀_\(歌手\).md "wikilink")\[11\]、[Lisa及](https://zh.wikipedia.org/wiki/Lisa_\(泰國歌手\) "wikilink")[Rosé四名成員個人概念海報](../Page/Rosé_\(韓國歌手\).md "wikilink")\[12\]。6月19日，公開主打歌為《As
+2017年6月13日，YG娛樂於上午通過官方主頁公開BLACKPINK回歸預告海報，在燈光照射下的希臘神殿散發的粉色光芒，而海報中的「2017.6.22」字樣，預告著將在6月22日正式回歸韓國樂壇\[9\]，並在6月16日至18日依次公開[Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink")\[10\]、[Jisoo](../Page/金智秀_\(歌手\).md "wikilink")\[11\]、[Lisa及](../Page/Lisa_\(泰國歌手\).md "wikilink")[Rosé四名成員個人概念海報](../Page/Rosé_\(韓國歌手\).md "wikilink")\[12\]。6月19日，公開主打歌為《As
 If It's Your
 Last》，將於22日下午6時推出，據YG娛樂稱此次於22日發表的新歌是單曲，是給喜歡BLACKPINK的歌迷一個驚喜禮物，以此填補準備《Square
 Three》期間而出現的空檔，並表示這次會以單曲形式呈現是為了迎接即將到來的炎炎夏日而準備的像清涼飲料般的歌曲，也是BLACKPINK迄今發表的音樂作品中節奏最快，會讓聽眾們同時感受到相當愉悅的心情的歌曲，所以決定在最熱的7月和8月以這首歌進行活動是最為恰當的，最後透露《Square》系列第三部將在《As
@@ -523,7 +523,7 @@ Really](https://zh.wikipedia.org/wiki/Fate_Number_For_\(WINNER韓語單曲\) "wi
 <td><p><a href="https://zh.wikipedia.org/wiki/全球" title="wikilink">全球</a></p></td>
 <td><p>2017年6月22日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></p></td>
-<td><p><a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a>、<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie音樂</a></p></td>
+<td><p><a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a>、<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

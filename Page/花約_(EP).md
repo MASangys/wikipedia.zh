@@ -17,7 +17,7 @@ Twins出道16周年！新歌「有約」是借一個約定的經歷，同時代�
 
   - 《 [不愛之恩](../Page/不愛之恩_\(Twins單曲\).md "wikilink")
     》為[香港電影](../Page/香港.md "wikilink")[原諒他77次插曲](https://zh.wikipedia.org/wiki/原諒他77次 "wikilink")。單曲於2016年7月14日於[iTunes上架](https://zh.wikipedia.org/wiki/iTunes "wikilink")
-  - 《 [有約](https://zh.wikipedia.org/wiki/有約_\(Twins單曲\) "wikilink")
+  - 《 [有約](../Page/有約_\(Twins單曲\).md "wikilink")
     》單曲於2017年4月6日於[iTunes上架](https://zh.wikipedia.org/wiki/iTunes "wikilink")
 
 ## 音樂錄影帶

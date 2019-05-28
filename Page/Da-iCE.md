@@ -23,8 +23,8 @@
   - 2015年1月7日，第4張單曲「もう一度だけ」發行。
   - 2015年4月15日，第5張單曲「BILLION DREAMS」發行。
   - 2015年5月5日～7月30日，第5次巡演「Da-iCE Live House Tour 2015 - PHASE 4 -」。
-  - 2015年6月12日，在[日本赤十字社舉辦的](https://zh.wikipedia.org/wiki/日本赤十字社 "wikilink")「LOVE
-    in Action Meeting (LIVE)」演出\[11\]\[12\]\[13\]。
+  - 2015年6月12日，在[日本赤十字社舉辦的](../Page/日本赤十字社.md "wikilink")「LOVE in Action
+    Meeting (LIVE)」演出\[11\]\[12\]\[13\]。
   - 2015年7月31日～8月6日，在愛貝克思舉辦的夏日野外LIVE「[A-nation](https://zh.wikipedia.org/wiki/A-nation "wikilink")」演出\[14\]。
   - 2015年8月12日，第6張單曲「エビバディ」發行。
   - 2015年11月4日，第7張單曲「HELLO」發行。

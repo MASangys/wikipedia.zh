@@ -1,15 +1,15 @@
 '''Triple H
-'''（）是[Cube娛樂旗下的特別企劃組合](../Page/Cube娛樂.md "wikilink")，成員有個人女歌手的[泫雅](https://zh.wikipedia.org/wiki/泫雅 "wikilink")、男子團體[PENTAGON的主唱和隊長](../Page/Pentagon_\(男子組合\).md "wikilink")[Hui](../Page/李會澤.md "wikilink")、主Rap和主舞[E'Dawn](https://zh.wikipedia.org/wiki/金曉鐘 "wikilink")。企劃名字取自3位成員的英文名、和\[1\]。於2017年5月1日，發表迷你一專輯《199X》正式出道。
+'''（）是[Cube娛樂旗下的特別企劃組合](../Page/Cube娛樂.md "wikilink")，成員有個人女歌手的[泫雅](https://zh.wikipedia.org/wiki/泫雅 "wikilink")、男子團體[PENTAGON的主唱和隊長](../Page/Pentagon_\(男子組合\).md "wikilink")[Hui](../Page/李會澤.md "wikilink")、主Rap和主舞[E'Dawn](../Page/金曉鐘.md "wikilink")。企劃名字取自3位成員的英文名、和\[1\]。於2017年5月1日，發表迷你一專輯《199X》正式出道。
 
 ## 成員
 
-| 成員列表                                                   |
-| ------------------------------------------------------ |
-| 藝名                                                     |
-| 漢字                                                     |
-| [泫雅](../Page/金泫雅.md "wikilink")                        |
-| [Hui](../Page/李會澤.md "wikilink")                       |
-| [E'Dawn](https://zh.wikipedia.org/wiki/金曉鐘 "wikilink") |
+| 成員列表                                |
+| ----------------------------------- |
+| 藝名                                  |
+| 漢字                                  |
+| [泫雅](../Page/金泫雅.md "wikilink")     |
+| [Hui](../Page/李會澤.md "wikilink")    |
+| [E'Dawn](../Page/金曉鐘.md "wikilink") |
 
 ## 歷程
 
@@ -20,7 +20,7 @@
 3月29日，公告泫雅將於5月以企劃組合形式活動。\[3\]
 
 4月3日，公告企劃組合名字為「Triple H」。\[4\]
-4月4日，公告企劃組合成員為[泫雅](../Page/金泫雅.md "wikilink")、[PENTAGON的](../Page/Pentagon_\(男子組合\).md "wikilink")[Hui和](../Page/李會澤.md "wikilink")[E'Dawn三人](https://zh.wikipedia.org/wiki/金曉鐘 "wikilink")。\[5\]
+4月4日，公告企劃組合成員為[泫雅](../Page/金泫雅.md "wikilink")、[PENTAGON的](../Page/Pentagon_\(男子組合\).md "wikilink")[Hui和](../Page/李會澤.md "wikilink")[E'Dawn三人](../Page/金曉鐘.md "wikilink")。\[5\]
 4月5日，公告專屬綜藝節目「Triple H 興信所」將於韓國時間19日晚間8點於K STAR、[CUBE
 TV播出](https://zh.wikipedia.org/wiki/CUBE_TV "wikilink")。\[6\]
 4月12日，公告首張團體概念照。\[7\] 4月13日，公告首張個人概念照\[8\]及「[Triple H
@@ -166,10 +166,10 @@ Futurism》及主打歌〈RETRO FUTURE〉。
 
 ### 專屬節目
 
-| 日期               | 頻道                  | 節目名稱                                                                  | 備註   |
-| ---------------- | ------------------- | --------------------------------------------------------------------- | ---- |
-| 2017年4月19日－5月25日 | K Star、Cube TV      | [Triple H 興信所](https://zh.wikipedia.org/wiki/Triple_H_興信所 "wikilink") | 專屬綜藝 |
-| 2018年7月21日－2018年 | YouTube、Naver V App | RETRO FUTURE花絮                                                        |      |
+| 日期               | 頻道                  | 節目名稱                                               | 備註   |
+| ---------------- | ------------------- | -------------------------------------------------- | ---- |
+| 2017年4月19日－5月25日 | K Star、Cube TV      | [Triple H 興信所](../Page/Triple_H_興信所.md "wikilink") | 專屬綜藝 |
+| 2018年7月21日－2018年 | YouTube、Naver V App | RETRO FUTURE花絮                                     |      |
 
 ### 綜藝節目
 
@@ -191,7 +191,7 @@ Futurism》及主打歌〈RETRO FUTURE〉。
 | 2018年 | 7月13日                    | Pikicast                                                                          | 媽媽睡著後 \[43\]                              |      |
 | 7月25日 | Naver VLive V Cookie     | Hapiness Train                                                                    |                                           |      |
 | 7月30日 | Naver VLive CASPER RADIO | 옥상달빛의 옥탑라됴                                                                        |                                           |      |
-| 8月13日 | SBS funE、SBS MTV         | [School Attack 2018](https://zh.wikipedia.org/wiki/School_Attack_2018 "wikilink") |                                           |      |
+| 8月13日 | SBS funE、SBS MTV         | [School Attack 2018](../Page/School_Attack_2018.md "wikilink")                    |                                           |      |
 
 ### 電台
 

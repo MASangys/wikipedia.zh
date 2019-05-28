@@ -80,15 +80,15 @@ Colaboratory所提供的免費運算資源幫助訓練\[29\]，但後來因為�
 
 ### Minigo
 
-[Minigo同樣也是依照](https://zh.wikipedia.org/wiki/Minigo "wikilink")[AlphaGo
+[Minigo同樣也是依照](../Page/Minigo.md "wikilink")[AlphaGo
 Zero論文所獨立實做出來的軟體](../Page/AlphaGo_Zero.md "wikilink")\[31\]，而Minigo專案取得[Google贊助的計算資源](../Page/Google.md "wikilink")\[32\]，透過大量計算資源得到品質還不錯的訓練網路資料。因此Leela
 Zero的團隊與Minigo的團隊基於雙方的經驗，討論參數的調整能帶來的改善，以及雙方訓練資料共用的可能性\[33\]。
 
 ### ELF OpenGo
 
 [ELF
-OpenGo是](https://zh.wikipedia.org/wiki/ELF_OpenGo "wikilink")[Facebook依照](../Page/Facebook.md "wikilink")[AlphaGo
-Zero與](../Page/AlphaGo_Zero.md "wikilink")[AlphaZero所實做出來的軟體](https://zh.wikipedia.org/wiki/AlphaZero "wikilink")\[34\]，由於Facebook使用大量資源運算（使用2000顆[GPU計算兩週](https://zh.wikipedia.org/wiki/GPU "wikilink")）並公開訓練網路資料，Leela
+OpenGo是](../Page/ELF_OpenGo.md "wikilink")[Facebook依照](../Page/Facebook.md "wikilink")[AlphaGo
+Zero與](../Page/AlphaGo_Zero.md "wikilink")[AlphaZero所實做出來的軟體](../Page/AlphaZero.md "wikilink")\[34\]，由於Facebook使用大量資源運算（使用2000顆[GPU計算兩週](https://zh.wikipedia.org/wiki/GPU "wikilink")）並公開訓練網路資料，Leela
 Zero團隊得以將資料轉換為Leela Zero可以使用的格式（Hash值為`62b5417b`\[35\]），並進行分析。
 
 Leela Zero後來決定將ELF OpenGo的資料混入自我對弈，在2018年5月7日後引入了ELF
@@ -98,7 +98,7 @@ OpenGo的資料\[36\]\[37\]。
 
 ### CGOS
 
-在[CGOS](https://zh.wikipedia.org/wiki/CGOS "wikilink")（）上會有志願者將每次演化的版本掛上進行測試（19x19）\[38\]以比較與其他圍棋軟體的差距。
+在[CGOS](../Page/CGOS.md "wikilink")（）上會有志願者將每次演化的版本掛上進行測試（19x19）\[38\]以比較與其他圍棋軟體的差距。
 
 #### 名稱
 
@@ -137,18 +137,18 @@ Zero），因此CGOS上面的數據需要確認後才有參考價值\[47\]。在
 
 ### 2018世界人工智慧圍棋大賽
 
-在預賽取得第三名，僅輸給[PhoenixGo與](https://zh.wikipedia.org/wiki/PhoenixGo "wikilink")[絕藝](https://zh.wikipedia.org/wiki/絕藝 "wikilink")\[60\]。
+在預賽取得第三名，僅輸給[PhoenixGo與](../Page/PhoenixGo.md "wikilink")[絕藝](https://zh.wikipedia.org/wiki/絕藝 "wikilink")\[60\]。
 
 ## 相關連結
 
   - [AlphaGo Zero](../Page/AlphaGo_Zero.md "wikilink")，Leela
     Zero所參考的論文所實做的電腦圍棋軟體。
   - [ELF
-    OpenGo](https://zh.wikipedia.org/wiki/ELF_OpenGo "wikilink")，由[Facebook團隊依照AlphaGo](../Page/Facebook.md "wikilink")
+    OpenGo](../Page/ELF_OpenGo.md "wikilink")，由[Facebook團隊依照AlphaGo](../Page/Facebook.md "wikilink")
     Zero論文所實做的[開源電腦圍棋軟體](https://zh.wikipedia.org/wiki/開源 "wikilink")，並將訓練的數據被Leela
     Zero團隊納入。
   - [Leela](../Page/Leela.md "wikilink")，同作者的上一代電腦圍棋軟體。
-  - [Minigo](https://zh.wikipedia.org/wiki/Minigo "wikilink")，另外一套開源電腦圍棋軟體。
+  - [Minigo](../Page/Minigo.md "wikilink")，另外一套開源電腦圍棋軟體。
   - [電腦圍棋](https://zh.wikipedia.org/wiki/電腦圍棋 "wikilink")
   - [圍棋軟體](https://zh.wikipedia.org/wiki/圍棋軟體 "wikilink")
 

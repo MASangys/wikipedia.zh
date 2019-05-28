@@ -98,7 +98,7 @@ Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="../Page/2017年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
 <td><p>2017年</p></td>
 <td><p>#37<br />
 （89,761張）</p></td>
@@ -107,7 +107,7 @@ Music新服務，《花樣年華 Young Forever》成為展示牆上七十張專�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
 <td><p>2018年</p></td>
 <td><p>#33<br />
 （129,819張）</p></td>

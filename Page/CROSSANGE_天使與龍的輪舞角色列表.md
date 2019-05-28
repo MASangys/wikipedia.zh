@@ -1,6 +1,6 @@
 **CROSSANGE
 天使與龍的輪舞角色列表**為[日本動畫](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")《[CROSSANGE
-天使與龍的輪舞](https://zh.wikipedia.org/wiki/CROSSANGE_天使與龍的輪舞 "wikilink")》及其外傳登場的角色。
+天使與龍的輪舞](../Page/CROSSANGE_天使與龍的輪舞.md "wikilink")》及其外傳登場的角色。
 
 ## 動畫主角
 
@@ -439,8 +439,7 @@
 
 ## 相關條目
 
-  - [CROSSANGE
-    天使與龍的輪舞](https://zh.wikipedia.org/wiki/CROSSANGE_天使與龍的輪舞 "wikilink")
+  - [CROSSANGE 天使與龍的輪舞](../Page/CROSSANGE_天使與龍的輪舞.md "wikilink")
 
 [Category:日本動漫角色列表](https://zh.wikipedia.org/wiki/Category:日本動漫角色列表 "wikilink")
 

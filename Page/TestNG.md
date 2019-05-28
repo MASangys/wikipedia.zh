@@ -77,7 +77,7 @@ TestNG既有现成软件，又可以通过IDE插件来调用。目前三大主�
 IDE——[Eclipse](../Page/Eclipse.md "wikilink")、[IntelliJ
 IDEA和](../Page/IntelliJ_IDEA.md "wikilink")[NetBeans](../Page/NetBeans.md "wikilink")——都有针对TestNG的插件。它也可以配置为[Apache
 Ant的定制任务](../Page/Apache_Ant.md "wikilink")，并且支持[Apache
-Maven构建系统](../Page/Apache_Maven.md "wikilink")。[Hudson的](https://zh.wikipedia.org/wiki/Hudson_\(软件\) "wikilink")[持续集成服务器已经内建了对TestNG的支持](https://zh.wikipedia.org/wiki/持续集成 "wikilink")，并能进行跟踪，及随时间推移对测试结果进行可视化。多数Java[代码覆盖率工具](https://zh.wikipedia.org/wiki/代码覆盖率 "wikilink")，如，都可以与TestNG无缝衔接。
+Maven构建系统](../Page/Apache_Maven.md "wikilink")。[Hudson的](../Page/Hudson_\(软件\).md "wikilink")[持续集成服务器已经内建了对TestNG的支持](https://zh.wikipedia.org/wiki/持续集成 "wikilink")，并能进行跟踪，及随时间推移对测试结果进行可视化。多数Java[代码覆盖率工具](https://zh.wikipedia.org/wiki/代码覆盖率 "wikilink")，如，都可以与TestNG无缝衔接。
 
 ### 测试报告
 

@@ -60,7 +60,7 @@ RED，由塞巴斯蒂安·杰林斯基主管，位于波兰[罗兹](../Page/罗�
 
 杰林斯基离开了公司，项目由季辛斯基接管。虽然游戏研发得以继续，但此前的演示遭到彻底放弃。CD
 Projekt称，当时的团队内部对该游戏有不同的意见，而且缺少总体的方向。结果这一项目在2003年再次回到了设计草纸阶段。\[23\]\[24\]由于团队缺乏游戏开发经验，所以在接近2年的时间里都是在组织游戏制作事宜\[25\]。他们得到了BioWare的帮助，后者在2004年的[E3上为CD](https://zh.wikipedia.org/wiki/E3 "wikilink")
-Projekt提供了展位，而且就在《[翡翠帝国](https://zh.wikipedia.org/wiki/翡翠帝国 "wikilink")》展位旁边。BioWare还把自己的[极光游戏引擎授权给公司使用](../Page/BioWare.md "wikilink")\[26\]。
+Projekt提供了展位，而且就在《[翡翠帝国](../Page/翡翠帝国.md "wikilink")》展位旁边。BioWare还把自己的[极光游戏引擎授权给公司使用](../Page/BioWare.md "wikilink")\[26\]。
 
 游戏的预算超出了预期。原本只有15人的团队迅速扩张到100人，研发成本超过了2000万兹罗提。据季辛斯基透露，由于预算有限，一些游戏内容不得不删除，但游戏角色的个性则得以保留。然而，如何把波兰文翻译成英文又成为了问题\[27\]。此时，[雅达利同意发行该游戏](../Page/雅達利.md "wikilink")\[28\]。经过五年的开发后\[29\]，游戏将《猎魔人》带给了国际玩家，公司给游戏起了一个英文名：*[The
 Witcher](../Page/巫师_\(游戏\).md "wikilink")。*《巫师》于2007年上市，获得了比较积极的评价。\[30\]
@@ -71,10 +71,10 @@ Projekt回报他们对主机版本开发的资助。季辛斯基同意让雅达�
 Projekt收购了波兰游戏开发商[Metropolis
 Software](https://zh.wikipedia.org/wiki/Metropolis_Software "wikilink")\[35\]。
 
-《白狼》的取消代价是昂贵的，[2007-2008年经济危机时](../Page/2007年–2008年環球金融危機.md "wikilink")\[36\]，公司几乎面临[破产](../Page/破產.md "wikilink")\[37\]。为了让公司维持下去，团队决定专注于《巫师2》的开发和《巫师3》引擎的打造。当引擎（称为[REDengine](https://zh.wikipedia.org/wiki/REDengine "wikilink")）完成后，就可以將游戏移植到其他主机平台\[38\]。为了开发《巫师2》，公司停掉了的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《They》\[39\]。经过3年半的开发后，《[巫师2：国王刺客](../Page/巫师2：国王刺客.md "wikilink")》于2011年发行，获得大量好评\[40\]，销量超过170万\[41\]。
+《白狼》的取消代价是昂贵的，[2007-2008年经济危机时](../Page/2007年–2008年環球金融危機.md "wikilink")\[36\]，公司几乎面临[破产](../Page/破產.md "wikilink")\[37\]。为了让公司维持下去，团队决定专注于《巫师2》的开发和《巫师3》引擎的打造。当引擎（称为[REDengine](../Page/REDengine.md "wikilink")）完成后，就可以將游戏移植到其他主机平台\[38\]。为了开发《巫师2》，公司停掉了的[第一人称射击游戏](../Page/第一人称射击游戏.md "wikilink")《They》\[39\]。经过3年半的开发后，《[巫师2：国王刺客](../Page/巫师2：国王刺客.md "wikilink")》于2011年发行，获得大量好评\[40\]，销量超过170万\[41\]。
 
 《巫师2》发行之后，CD
-Projekt希望做一款与他们其他游戏质量相匹敌的开放世界游戏，公司希望增加新的功能，不想被外界批评为《巫师2.5》。他们希望把游戏画面进行质的提升，并且只为PC以及[第八代游戏主机发布](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第八世代\) "wikilink")。这引发了团队的争议，有些人希望把游戏发布到更久之前的主机平台以使利润最大化。\[42\]《[巫师3：狂猎](../Page/巫师3：狂猎.md "wikilink")》开发耗时3年半\[43\]，成本达到8100万美元\[44\]\[45\]。经历数次跳票后，游戏最终在2015年5月面世\[46\]。《狂猎》在商业上取得成功，首发6周的销量就超过了600万，为工作室在2015年上半年带来了2.36亿兹罗提（6250万美元）的利润\[47\]\[48\]。团队之后发布了15个[追加下载内容和两个扩展包](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")《[石之心](https://zh.wikipedia.org/wiki/巫师3：狂猎－石之心 "wikilink")》与《[血与酒](https://zh.wikipedia.org/wiki/巫师3：狂猎－血与酒 "wikilink")》\[49\]。
+Projekt希望做一款与他们其他游戏质量相匹敌的开放世界游戏，公司希望增加新的功能，不想被外界批评为《巫师2.5》。他们希望把游戏画面进行质的提升，并且只为PC以及[第八代游戏主机发布](https://zh.wikipedia.org/wiki/遊戲機歷史_\(第八世代\) "wikilink")。这引发了团队的争议，有些人希望把游戏发布到更久之前的主机平台以使利润最大化。\[42\]《[巫师3：狂猎](../Page/巫师3：狂猎.md "wikilink")》开发耗时3年半\[43\]，成本达到8100万美元\[44\]\[45\]。经历数次跳票后，游戏最终在2015年5月面世\[46\]。《狂猎》在商业上取得成功，首发6周的销量就超过了600万，为工作室在2015年上半年带来了2.36亿兹罗提（6250万美元）的利润\[47\]\[48\]。团队之后发布了15个[追加下载内容和两个扩展包](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")《[石之心](../Page/巫师3：狂猎－石之心.md "wikilink")》与《[血与酒](../Page/巫师3：狂猎－血与酒.md "wikilink")》\[49\]。
 
 CD
 Projekt还推出了两款巫师相关游戏：《巫师：冒险游戏》（，PC、[iOS以及](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android版桌游](../Page/Android.md "wikilink")）\[50\]和iOS及Android版[多人在线战斗竞技场游戏](../Page/多人在线战斗竞技场游戏.md "wikilink")《巫师：战斗竞技场》（）\[51\]。在[E3
@@ -141,7 +141,7 @@ RED发现他们最初版本（包含DRM技术）的盗版量超过450万，而�
 <td><p>2011</p></td>
 <td><p><a href="../Page/巫师2：国王刺客.md" title="wikilink">巫师2：国王刺客</a></p></td>
 <td><p>Microsoft Windows、OS X、<a href="../Page/Linux.md" title="wikilink">Linux</a>、<a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/REDengine" title="wikilink">REDengine</a></p></td>
+<td><p><a href="../Page/REDengine.md" title="wikilink">REDengine</a></p></td>
 <td><p>2012年推出增强版</p></td>
 </tr>
 <tr class="odd">
@@ -166,7 +166,7 @@ RED发现他们最初版本（包含DRM技术）的盗版量超过450万，而�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/巫师3：狂猎－石之心" title="wikilink">巫师3：狂猎－石之心</a></p></td>
+<td><p><a href="../Page/巫师3：狂猎－石之心.md" title="wikilink">巫师3：狂猎－石之心</a></p></td>
 <td><p>Microsoft Windows、PlayStation 4、Xbox One</p></td>
 <td><p>REDengine 3</p></td>
 <td><p>《巫师3》<a href="https://zh.wikipedia.org/wiki/资料片" title="wikilink">资料片</a></p></td>
@@ -174,14 +174,14 @@ RED发现他们最初版本（包含DRM技术）的盗版量超过450万，而�
 </tr>
 <tr class="odd">
 <td><p>2016</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巫师3：狂猎－血与酒" title="wikilink">巫师3：狂猎－血与酒</a></p></td>
+<td><p><a href="../Page/巫师3：狂猎－血与酒.md" title="wikilink">巫师3：狂猎－血与酒</a></p></td>
 <td><p>Microsoft Windows、PlayStation 4、Xbox One</p></td>
 <td><p>REDengine 3</p></td>
 <td><p>《巫师3》<a href="https://zh.wikipedia.org/wiki/资料片" title="wikilink">资料片</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巫师之昆特牌" title="wikilink">巫师之昆特牌</a></p></td>
+<td><p><a href="../Page/巫师之昆特牌.md" title="wikilink">巫师之昆特牌</a></p></td>
 <td><p>Microsoft Windows、PlayStation 4、Xbox One</p></td>
 <td><p>Unity</p></td>
 <td><p>《巫师3》衍生卡牌游戏</p></td>

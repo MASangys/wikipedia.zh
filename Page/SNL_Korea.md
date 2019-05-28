@@ -8,23 +8,23 @@ Korea的观众年龄分级从19岁调整至15岁。
 
 ### 第一季
 
-担任编剧和导演的电影导演和剧作家[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")，正式宣布节目于2011年11月24日在举行圆桌会议新闻发布会。最初的演员是由17个成员：[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[安英美](https://zh.wikipedia.org/wiki/安英美 "wikilink")、[李漢偉](../Page/李漢偉.md "wikilink")、[鄭雄仁](../Page/鄭雄仁.md "wikilink")、[金彬宇](../Page/金彬宇.md "wikilink")、[張英南](../Page/張英南.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、、[李哲民](https://zh.wikipedia.org/wiki/李哲民_\(演員\) "wikilink")、、、[金志映](../Page/金志映_\(1974年\).md "wikilink")、[金智京](https://zh.wikipedia.org/wiki/金智京 "wikilink")、[閔書賢](https://zh.wikipedia.org/wiki/閔書賢 "wikilink")、、[高庚杓](../Page/高庚杓.md "wikilink")和[金瑟琪组成](../Page/金瑟琪.md "wikilink")。2011年12月3日首播集由演员[金柱赫出演](../Page/金柱赫.md "wikilink")。
+担任编剧和导演的电影导演和剧作家[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")，正式宣布节目于2011年11月24日在举行圆桌会议新闻发布会。最初的演员是由17个成员：[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[安英美](../Page/安英美.md "wikilink")、[李漢偉](../Page/李漢偉.md "wikilink")、[鄭雄仁](../Page/鄭雄仁.md "wikilink")、[金彬宇](../Page/金彬宇.md "wikilink")、[張英南](../Page/張英南.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、、[李哲民](../Page/李哲民_\(演員\).md "wikilink")、、、[金志映](../Page/金志映_\(1974年\).md "wikilink")、[金智京](https://zh.wikipedia.org/wiki/金智京 "wikilink")、[閔書賢](../Page/閔書賢.md "wikilink")、、[高庚杓](../Page/高庚杓.md "wikilink")和[金瑟琪组成](../Page/金瑟琪.md "wikilink")。2011年12月3日首播集由演员[金柱赫出演](../Page/金柱赫.md "wikilink")。
 
 当时和作家[张镇谈到邀请嘉宾的困难](../Page/張鎮_\(韓國導演\).md "wikilink")，说“当你提供一个电影，你给他们一个脚本问他们如何，如果他们说不好，你就说这是好的然后转身，但让人们出现在这个节目，我不得不乞求。我甚至为了求他们出演这个节目，不惜给他们看我下一个电影的脚本。”第一季从2011年12月3日到2012年1月21日共八集。
 
 ### 第二季
 
-第二季从2012年5月26日到2012年7月14日共八集。演员成员是[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[李漢偉](../Page/李漢偉.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、[姜聲振](../Page/姜聲振.md "wikilink")、[張英南](../Page/張英南.md "wikilink")、、[金民教](https://zh.wikipedia.org/wiki/金民教 "wikilink")、、（2015年以前叫鄭明玉）、、、、[安英美](https://zh.wikipedia.org/wiki/安英美 "wikilink")、[权赫秀](https://zh.wikipedia.org/wiki/权赫秀 "wikilink")、[高庚杓和](../Page/高庚杓.md "wikilink")[金瑟琪](../Page/金瑟琪.md "wikilink")。
+第二季从2012年5月26日到2012年7月14日共八集。演员成员是[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[李漢偉](../Page/李漢偉.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、[姜聲振](../Page/姜聲振.md "wikilink")、[張英南](../Page/張英南.md "wikilink")、、[金民教](../Page/金民教.md "wikilink")、、（2015年以前叫鄭明玉）、、、、[安英美](../Page/安英美.md "wikilink")、[权赫秀](https://zh.wikipedia.org/wiki/权赫秀 "wikilink")、[高庚杓和](../Page/高庚杓.md "wikilink")[金瑟琪](../Page/金瑟琪.md "wikilink")。
 
 ### 第三季
 
-第三季从2012年9月8日到2012年11月15日共十七集。演员成员是[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[申東燁](../Page/申東燁.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、、、[金民教](https://zh.wikipedia.org/wiki/金民教 "wikilink")、、、、、[孙宝敏](https://zh.wikipedia.org/wiki/孙宝敏 "wikilink")、[徐宥利](../Page/徐宥利.md "wikilink")、、[权赫秀](https://zh.wikipedia.org/wiki/权赫秀 "wikilink")、[高庚杓和](../Page/高庚杓.md "wikilink")[金瑟琪](../Page/金瑟琪.md "wikilink")。
+第三季从2012年9月8日到2012年11月15日共十七集。演员成员是[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[申東燁](../Page/申東燁.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、、、[金民教](../Page/金民教.md "wikilink")、、、、、[孙宝敏](https://zh.wikipedia.org/wiki/孙宝敏 "wikilink")、[徐宥利](../Page/徐宥利.md "wikilink")、、[权赫秀](https://zh.wikipedia.org/wiki/权赫秀 "wikilink")、[高庚杓和](../Page/高庚杓.md "wikilink")[金瑟琪](../Page/金瑟琪.md "wikilink")。
 
 ### 第四季
 
 第四季从2013年2月2日到2013年11月23日共三十八集。
 
-[朴載範和](../Page/朴載範.md "wikilink")[朴恩智作为团队成员加入](../Page/朴恩智_\(演員\).md "wikilink")（他们都曾经在第三季作为主角出演过）。同时，[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[高庚杓和](../Page/高庚杓.md "wikilink")退出团队。第四季的演员成员是[申東燁](../Page/申東燁.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、、[安英美](https://zh.wikipedia.org/wiki/安英美 "wikilink")、[金民教](https://zh.wikipedia.org/wiki/金民教 "wikilink")、[金瑟琪](../Page/金瑟琪.md "wikilink")、、、[权赫秀](https://zh.wikipedia.org/wiki/权赫秀 "wikilink")、、[徐宥利](../Page/徐宥利.md "wikilink")、、[陈元](https://zh.wikipedia.org/wiki/陈元_\(演员\) "wikilink")、[朴載範和](../Page/朴載範.md "wikilink")[朴恩智](../Page/朴恩智_\(演員\).md "wikilink")。后来在本季新加入了、[俞世潤](https://zh.wikipedia.org/wiki/俞世潤 "wikilink")、[2EYES和](../Page/2EYES.md "wikilink")[Clara](../Page/李成敏.md "wikilink")。[陈元和](https://zh.wikipedia.org/wiki/陈元_\(演员\) "wikilink")[金瑟琪分别在第](../Page/金瑟琪.md "wikilink")18集与第24集退出团队。
+[朴載範和](../Page/朴載範.md "wikilink")[朴恩智作为团队成员加入](../Page/朴恩智_\(演員\).md "wikilink")（他们都曾经在第三季作为主角出演过）。同时，[张镇](../Page/張鎮_\(韓國導演\).md "wikilink")、[高庚杓和](../Page/高庚杓.md "wikilink")退出团队。第四季的演员成员是[申東燁](../Page/申東燁.md "wikilink")、[金元海](https://zh.wikipedia.org/wiki/金元海 "wikilink")、、[安英美](../Page/安英美.md "wikilink")、[金民教](../Page/金民教.md "wikilink")、[金瑟琪](../Page/金瑟琪.md "wikilink")、、、[权赫秀](https://zh.wikipedia.org/wiki/权赫秀 "wikilink")、、[徐宥利](../Page/徐宥利.md "wikilink")、、[陈元](https://zh.wikipedia.org/wiki/陈元_\(演员\) "wikilink")、[朴載範和](../Page/朴載範.md "wikilink")[朴恩智](../Page/朴恩智_\(演員\).md "wikilink")。后来在本季新加入了、[俞世潤](../Page/俞世潤.md "wikilink")、[2EYES和](../Page/2EYES.md "wikilink")[Clara](../Page/李成敏.md "wikilink")。[陈元和](https://zh.wikipedia.org/wiki/陈元_\(演员\) "wikilink")[金瑟琪分别在第](../Page/金瑟琪.md "wikilink")18集与第24集退出团队。
 
 导演安尚熙、白承龙、金敏和赵成慕被称为“SNL Korea's
 [F4](https://zh.wikipedia.org/wiki/花樣男子_\(漫畫\) "wikilink")”。
@@ -61,7 +61,7 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 <td><p>曾在第二季作为主角出演，第三季开始加入并负责主持，同时也是团队成员。与安英美一起进行野外拍摄时申东烨独有的“黄色”段子才华而展现出了不一样的搞笑。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/俞世潤" title="wikilink">俞世潤</a></p></td>
+<td><p><a href="../Page/俞世潤.md" title="wikilink">俞世潤</a></p></td>
 <td><p>第四季 - 至今</p></td>
 <td><p>第四季加入团队出演。最擅长模仿长尾猴，最搞笑的模仿是与安英美梦幻般的化学美。</p></td>
 </tr>
@@ -81,13 +81,13 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 <td><p>第六季加入团队出演。总是以胖子的面貌巧妙地演绎出精彩的搞笑升华，令人忍俊不禁，并在一周播报环节作为特派记者进行中。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金民教" title="wikilink">金民教</a></p></td>
+<td><p><a href="../Page/金民教.md" title="wikilink">金民教</a></p></td>
 <td><p>第二季 - 第五季<br />
 第七季 - 至今</p></td>
 <td><p>第二季加入团队出演后，在第六季退出了团队，第七季重新加入团队。以“瞳孔”演技而出名。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/安英美" title="wikilink">安英美</a></p></td>
+<td><p><a href="../Page/安英美.md" title="wikilink">安英美</a></p></td>
 <td><p>第一季 - 至今</p></td>
 <td><p>第一季加入团队出演，也是在团队最长时间的成员。与申东烨、俞世潤搞笑的化学舞蹈并活跃着的特有的“胸部”舞搞笑。与申东晔野外拍摄。</p></td>
 </tr>
@@ -128,9 +128,9 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 <td><p>第九季加入团队出演。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/張度練" title="wikilink">張度練</a></p></td>
+<td><p><a href="../Page/張度練.md" title="wikilink">張度練</a></p></td>
 <td><p>第九季 - 至今</p></td>
-<td><p>第九季加入团队并接替<a href="https://zh.wikipedia.org/wiki/沈素英" title="wikilink">沈素英主持周末播报</a>。</p></td>
+<td><p>第九季加入团队并接替<a href="../Page/沈素英.md" title="wikilink">沈素英主持周末播报</a>。</p></td>
 </tr>
 </tbody>
 </table>
@@ -207,7 +207,7 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李哲民_(演員)" title="wikilink">李哲民</a></p></td>
+<td><p><a href="../Page/李哲民_(演員).md" title="wikilink">李哲民</a></p></td>
 <td><p>2011 - 2012</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -252,7 +252,7 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/安英美" title="wikilink">安英美</a></p></td>
+<td><p><a href="../Page/安英美.md" title="wikilink">安英美</a></p></td>
 <td><p>2011 - 至今</p></td>
 <td><p>1 - 至今</p></td>
 <td></td>
@@ -261,7 +261,7 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/閔書賢" title="wikilink">閔書賢</a></p></td>
+<td><p><a href="../Page/閔書賢.md" title="wikilink">閔書賢</a></p></td>
 <td><p>2011 - 2012</p></td>
 <td><p>1</p></td>
 <td></td>
@@ -369,7 +369,7 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金民教" title="wikilink">金民教</a></p></td>
+<td><p><a href="../Page/金民教.md" title="wikilink">金民教</a></p></td>
 <td><p>2012 - 2014<br />
 2016 - 至今</p></td>
 <td><p>2 - 5<br />
@@ -471,7 +471,7 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/俞世潤" title="wikilink">俞世潤</a></p></td>
+<td><p><a href="../Page/俞世潤.md" title="wikilink">俞世潤</a></p></td>
 <td><p>2013 - 至今</p></td>
 <td><p>4 - 至今</p></td>
 <td></td>
@@ -725,7 +725,7 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李秀敏_(1984年)" title="wikilink">李秀敏</a></p></td>
+<td><p><a href="../Page/李秀敏_(1984年).md" title="wikilink">李秀敏</a></p></td>
 <td><p>2016</p></td>
 <td><p>8</p></td>
 <td></td>
@@ -788,7 +788,7 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/沈素英" title="wikilink">沈素英</a></p></td>
+<td><p><a href="../Page/沈素英.md" title="wikilink">沈素英</a></p></td>
 <td><p>2017</p></td>
 <td><p>9</p></td>
 <td></td>
@@ -1015,7 +1015,7 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1093,7 +1093,7 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金東炫" title="wikilink">金東炫</a></p></td>
+<td><p><a href="../Page/金東炫.md" title="wikilink">金東炫</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1201,7 +1201,7 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/俞世潤" title="wikilink">俞世潤</a></p></td>
+<td><p><a href="../Page/俞世潤.md" title="wikilink">俞世潤</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1379,12 +1379,12 @@ Single的一部分](../Page/Sexy,_Free_&_Single.md "wikilink")。依照AGB尼尔
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/第51屆百想藝術大賞" title="wikilink">第51屆</a><a href="https://zh.wikipedia.org/wiki/百想藝術大賞" title="wikilink">百想藝術大賞</a></p></td>
 <td><p>最佳综艺赏 - 男子部门</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/俞世潤" title="wikilink">俞世潤</a></p></td>
+<td><p><a href="../Page/俞世潤.md" title="wikilink">俞世潤</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>最佳综艺赏 - 女子部门</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安英美" title="wikilink">安英美</a></p></td>
+<td><p><a href="../Page/安英美.md" title="wikilink">安英美</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1412,7 +1412,7 @@ Single的一部分](../Page/Sexy,_Free_&_Single.md "wikilink")。依照AGB尼尔
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/俞世潤" title="wikilink">俞世潤</a></p></td>
+<td><p><a href="../Page/俞世潤.md" title="wikilink">俞世潤</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1433,7 +1433,7 @@ Single的一部分](../Page/Sexy,_Free_&_Single.md "wikilink")。依照AGB尼尔
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金民教" title="wikilink">金民教</a></p></td>
+<td><p><a href="../Page/金民教.md" title="wikilink">金民教</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1494,7 +1494,7 @@ Single的一部分](../Page/Sexy,_Free_&_Single.md "wikilink")。依照AGB尼尔
 ## 参见
 
   - [週六夜現場](../Page/週六夜現場.md "wikilink")（[NBC](../Page/全国广播公司.md "wikilink")）
-  - [尋笑人](https://zh.wikipedia.org/wiki/尋笑人 "wikilink")（[SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")）
+  - [尋笑人](../Page/尋笑人.md "wikilink")（[SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink")）
   - [搞笑演唱會](../Page/搞笑演唱會.md "wikilink")（[KBS2](../Page/KBS第2频道.md "wikilink")）
   - [喜剧大联盟](https://zh.wikipedia.org/wiki/喜剧大联盟 "wikilink")（[tvN](../Page/TVN.md "wikilink")）
 

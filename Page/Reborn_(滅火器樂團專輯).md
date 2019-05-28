@@ -331,7 +331,7 @@ Music發行](https://zh.wikipedia.org/wiki/Space_Shower_Music "wikilink")《[REB
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/年度專輯獎_(金曲獎)" title="wikilink">最佳年度專輯獎</a></p></td>
+<td><p><a href="../Page/年度專輯獎_(金曲獎).md" title="wikilink">最佳年度專輯獎</a></p></td>
 <td><p>滅火器樂團|<a href="https://zh.wikipedia.org/wiki/滅火器樂團" title="wikilink">滅火器樂團</a></p></td>
 <td></td>
 <td></td>

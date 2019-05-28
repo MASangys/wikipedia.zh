@@ -219,7 +219,7 @@ Junior，將面對各組來賓挑戰「綜藝王」的寶座，若能五連勝�
 <td><p>6</p></td>
 <td><p>2018年7月12日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/(G)I-DLE" title="wikilink">(G)I-DLE</a><br />
+<td><p><a href="../Page/(G)I-DLE.md" title="wikilink">(G)I-DLE</a><br />
 </p></td>
 <td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior勝出</a></p></td>
 </tr>
@@ -235,7 +235,7 @@ Junior，將面對各組來賓挑戰「綜藝王」的寶座，若能五連勝�
 <td><p>8</p></td>
 <td><p>2018年7月26日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/YDPP" title="wikilink">YDPP</a><br />
+<td><p><a href="../Page/YDPP.md" title="wikilink">YDPP</a><br />
 </p></td>
 <td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior勝出</a> [注:希澈因海外行程而暫時缺席]</p></td>
 </tr>
@@ -251,7 +251,7 @@ Junior，將面對各組來賓挑戰「綜藝王」的寶座，若能五連勝�
 <td><p>10</p></td>
 <td><p>2018年8月9日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a><br />
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a><br />
 </p></td>
 <td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior勝出</a></p></td>
 </tr>

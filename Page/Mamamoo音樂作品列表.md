@@ -36,7 +36,7 @@
 <td><ul>
 <li>發行日期：2016年2月26日</li>
 <li>製作公司：<a href="../Page/Rainbow_Bridge_World.md" title="wikilink">Rainbow Bridge World</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></li>
 </ul></td>
 <td><p>2</p></td>
@@ -73,55 +73,55 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Hello_(Mamamoo迷你專輯)" title="wikilink">Hello</a></p></td>
+<td><p><a href="../Page/Hello_(Mamamoo迷你專輯).md" title="wikilink">Hello</a></p></td>
 <td><ul>
 <li>發行日期：2014年6月18日</li>
 <li>製作公司：WA娛樂</li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>16</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Piano_Man_(Mamamoo迷你專輯)" title="wikilink">Piano Man</a></p></td>
+<td><p><a href="../Page/Piano_Man_(Mamamoo迷你專輯).md" title="wikilink">Piano Man</a></p></td>
 <td><ul>
 <li>發行日期：2014年11月21日</li>
 <li>製作公司：WA娛樂</li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>8</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Pink_Funky_(Mamamoo迷你專輯)" title="wikilink">Pink Funky</a></p></td>
+<td><p><a href="../Page/Pink_Funky_(Mamamoo迷你專輯).md" title="wikilink">Pink Funky</a></p></td>
 <td><ul>
 <li>發行日期：2015年6月19日</li>
 <li>製作公司：<a href="../Page/Rainbow_Bridge_World.md" title="wikilink">Rainbow Bridge World</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>6</p></td>
 <td><p>7</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Memory_(Mamamoo迷你專輯)" title="wikilink">Memory</a></p></td>
+<td><p><a href="../Page/Memory_(Mamamoo迷你專輯).md" title="wikilink">Memory</a></p></td>
 <td><ul>
 <li>發行日期：2016年11月7日</li>
 <li>製作公司：<a href="../Page/Rainbow_Bridge_World.md" title="wikilink">Rainbow Bridge World</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>3</p></td>
 <td><p>12</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Purple_(Mamamoo迷你專輯)" title="wikilink">Purple</a></p></td>
+<td><p><a href="../Page/Purple_(Mamamoo迷你專輯).md" title="wikilink">Purple</a></p></td>
 <td><ul>
 <li>發行日期：2017年6月22日</li>
 <li>製作公司：<a href="../Page/Rainbow_Bridge_World.md" title="wikilink">Rainbow Bridge World</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>2</p></td>
@@ -139,7 +139,7 @@
 <td><p>7</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Moon_(Mamamoo迷你專輯)" title="wikilink">Red Moon</a></p></td>
+<td><p><a href="../Page/Red_Moon_(Mamamoo迷你專輯).md" title="wikilink">Red Moon</a></p></td>
 <td><ul>
 <li>發行日期：2018年7月16日</li>
 <li>製作公司：<a href="../Page/Rainbow_Bridge_World.md" title="wikilink">Rainbow Bridge World</a></li>
@@ -568,7 +568,7 @@
 <td><ul>
 <li>韓國：27,988+[20]</li>
 </ul></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Memory_(Mamamoo迷你專輯)" title="wikilink">Memory</a></p></td>
+<td><p><a href="../Page/Memory_(Mamamoo迷你專輯).md" title="wikilink">Memory</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -625,7 +625,7 @@
 </tr>
 <tr class="odd">
 <td><p>This Song<br />
-<small>（與<a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>）</small></p></td>
+<small>（與<a href="../Page/Loco.md" title="wikilink">Loco</a>）</small></p></td>
 <td><p>65</p></td>
 <td><ul>
 <li>韓國：94,371+<ref>Cumulative sales for "This Song":</li>
@@ -633,7 +633,7 @@
 <li></li>
 </ul>
 <p></ref></p></td>
-<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a>《<a href="https://zh.wikipedia.org/wiki/對我而言可愛的她" title="wikilink">對我而言可愛的她</a>》OST</p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a>《<a href="../Page/對我而言可愛的她.md" title="wikilink">對我而言可愛的她</a>》OST</p></td>
 <td></td>
 </tr>
 <tr class="even">

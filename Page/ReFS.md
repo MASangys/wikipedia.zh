@@ -51,12 +51,12 @@ ReFS最初只被添加到[Windows Server
   - 与现有API和技术兼容
     ReFS支持NTFS特性的一个子集，并且仅“广泛使用”的Win32
     API支持它；但它不需要新的系统API，并且大多数文件系统筛选器可在ReFS卷工作。\[13\]ReFS支持许多现有的Windows和NTFS特性，例如[BitLocker](https://zh.wikipedia.org/wiki/BitLocker驱动器加密 "wikilink")
-    加密、[访问控制列表](https://zh.wikipedia.org/wiki/存取控制串列 "wikilink")、[USN日志](https://zh.wikipedia.org/wiki/USN日志 "wikilink")、变更通知\[14\]、[符号链接](../Page/NTFS符号链接.md "wikilink")、、[挂载点](https://zh.wikipedia.org/wiki/挂载点 "wikilink")、[重解析点](../Page/NTFS重解析点.md "wikilink")、[卷快照](../Page/磁碟區陰影複製服務.md "wikilink")、[文件ID和](../Page/NTFS.md "wikilink")[操作锁定](../Page/NTFS.md "wikilink")。ReFS与[存储空间无缝集成](../Page/Windows_8新功能.md "wikilink")\[15\]，[存储虚拟化层允许数据被镜像或条带化](https://zh.wikipedia.org/wiki/儲存虛擬化 "wikilink")，以及作为机器之间的共享存储池。\[16\]ReFS的可恢复功能增强了存储空间提供的镜像功能，可以使用[数据清理流程检测是否有任何文件的镜像副本已经损坏](https://zh.wikipedia.org/wiki/数据清理 "wikilink")（可选启用）
+    加密、[访问控制列表](https://zh.wikipedia.org/wiki/存取控制串列 "wikilink")、[USN日志](../Page/USN日志.md "wikilink")、变更通知\[14\]、[符号链接](../Page/NTFS符号链接.md "wikilink")、、[挂载点](https://zh.wikipedia.org/wiki/挂载点 "wikilink")、[重解析点](../Page/NTFS重解析点.md "wikilink")、[卷快照](../Page/磁碟區陰影複製服務.md "wikilink")、[文件ID和](../Page/NTFS.md "wikilink")[操作锁定](../Page/NTFS.md "wikilink")。ReFS与[存储空间无缝集成](../Page/Windows_8新功能.md "wikilink")\[15\]，[存储虚拟化层允许数据被镜像或条带化](https://zh.wikipedia.org/wiki/儲存虛擬化 "wikilink")，以及作为机器之间的共享存储池。\[16\]ReFS的可恢复功能增强了存储空间提供的镜像功能，可以使用[数据清理流程检测是否有任何文件的镜像副本已经损坏](https://zh.wikipedia.org/wiki/数据清理 "wikilink")（可选启用）
     \[17\]，它会定期读取所有副本并验证它们的校验和，然后使用良好副本替换损坏副本。
 
 ### 已移除功能
 
-某些NTFS功能在ReFS的初始版本中已移除或不支持。这包括[备用数据流](https://zh.wikipedia.org/wiki/备用数据流 "wikilink")、[对象ID](../Page/NTFS重解析点.md "wikilink")、[8.3文件名](https://zh.wikipedia.org/wiki/8.3 "wikilink")、[NTFS压缩](../Page/NTFS.md "wikilink")、[加密文件系统](https://zh.wikipedia.org/wiki/加密文件系统 "wikilink")（EFS）、、、[扩展属性和](../Page/扩展文件属性.md "wikilink")。\[18\]\[19\]\[20\]ReFS最初不提供[重复数据删除](../Page/重复数据删除.md "wikilink")，\[21\]在随后的v3.2版本中实现。此外，Windows目前不能从ReFS卷引导启动。\[22\]镜像或条带化卷的动态磁盘已被“存储空间”提供的镜像或条带化存储池取代；自动纠错仅在镜像空间支持。<span class="cx-segment" data-segmentid="185"></span>
+某些NTFS功能在ReFS的初始版本中已移除或不支持。这包括[备用数据流](https://zh.wikipedia.org/wiki/备用数据流 "wikilink")、[对象ID](../Page/NTFS重解析点.md "wikilink")、[8.3文件名](https://zh.wikipedia.org/wiki/8.3 "wikilink")、[NTFS压缩](../Page/NTFS.md "wikilink")、[加密文件系统](../Page/加密文件系统.md "wikilink")（EFS）、、、[扩展属性和](../Page/扩展文件属性.md "wikilink")。\[18\]\[19\]\[20\]ReFS最初不提供[重复数据删除](../Page/重复数据删除.md "wikilink")，\[21\]在随后的v3.2版本中实现。此外，Windows目前不能从ReFS卷引导启动。\[22\]镜像或条带化卷的动态磁盘已被“存储空间”提供的镜像或条带化存储池取代；自动纠错仅在镜像空间支持。<span class="cx-segment" data-segmentid="185"></span>
 
 在后续实现的Windows 8.1 64位和Server 2012
 R2的ReFS中，文件系统开始支持备用数据流，最大长度128K，以及完整性流在奇偶效验空间上自动纠正损坏数据。\[23\]ReFS在缺乏备用数据流的支持时不适合[Microsoft

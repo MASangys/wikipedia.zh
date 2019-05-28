@@ -97,7 +97,7 @@ Zakapa團員權順日在推特稱讚：「防彈少年團的〈커피(Coffee)〉
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯年榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯年榜</a></p></td>
 <td><p>2018年</p></td>
 <td><p>#82<br />
 （52,203張）</p></td>

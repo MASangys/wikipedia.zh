@@ -4,7 +4,7 @@
 
 Lisa於1997年3月27日出生於[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[武里南府](../Page/武里南府.md "wikilink")\[3\]，她的[继父保羅](https://zh.wikipedia.org/wiki/继父 "wikilink")·馬庫斯·布魯施韋勒（Paul
 Markus
-Bruschweiler）是泰籍[瑞士人](../Page/瑞士人.md "wikilink")，是世界認可的頂級[泰國菜大廚](../Page/泰國飲食.md "wikilink")\[4\]，也在曼谷開設泰式廚藝學校。早年時Lisa曾在泰國與[BamBam](../Page/BamBam.md "wikilink")（[JYP娛樂旗下](../Page/JYP娛樂.md "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[GOT7的現任成員](../Page/GOT7.md "wikilink")）和[Ten](https://zh.wikipedia.org/wiki/Ten_\(歌手\) "wikilink")（[SM娛樂旗下男子音樂組合](../Page/SM娛樂.md "wikilink")[NCT
+Bruschweiler）是泰籍[瑞士人](../Page/瑞士人.md "wikilink")，是世界認可的頂級[泰國菜大廚](../Page/泰國飲食.md "wikilink")\[4\]，也在曼谷開設泰式廚藝學校。早年時Lisa曾在泰國與[BamBam](../Page/BamBam.md "wikilink")（[JYP娛樂旗下](../Page/JYP娛樂.md "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[GOT7的現任成員](../Page/GOT7.md "wikilink")）和[Ten](../Page/Ten_\(歌手\).md "wikilink")（[SM娛樂旗下男子音樂組合](../Page/SM娛樂.md "wikilink")[NCT
 U的現任成員](../Page/NCT.md "wikilink")）隸屬於「We Zaa Cool」\[5\]\[6\]。
 
 ## 演藝生涯

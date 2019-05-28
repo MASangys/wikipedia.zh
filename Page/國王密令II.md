@@ -1,5 +1,5 @@
 是一款由[From
-Software開發的中世紀主題之](https://zh.wikipedia.org/wiki/From_Software "wikilink")[第一人稱](https://zh.wikipedia.org/wiki/第一人称视角游戏 "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，1995年於[PlayStation平台發售](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。本作是國王密令系列的第二作，也是首部發行到海外地區的系列作。由於初代《[國王密令](../Page/國王密令.md "wikilink")》只在日本而未在歐美地區發行，因此歐美版本本作标题不带编号，直接叫“King's
+Software開發的中世紀主題之](https://zh.wikipedia.org/wiki/From_Software "wikilink")[第一人稱](https://zh.wikipedia.org/wiki/第一人称视角游戏 "wikilink")[動作角色扮演遊戲](../Page/動作角色扮演遊戲.md "wikilink")，1995年於[PlayStation平台發售](../Page/PlayStation.md "wikilink")。本作是國王密令系列的第二作，也是首部發行到海外地區的系列作。由於初代《[國王密令](../Page/國王密令.md "wikilink")》只在日本而未在歐美地區發行，因此歐美版本本作标题不带编号，直接叫“King's
 Field”。
 
 ## 劇情

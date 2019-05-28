@@ -38,7 +38,7 @@ Besançon-Viotte）相连，此联络线的其中很长一段都是借用原有�
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巴黎里昂站" title="wikilink">巴黎</a>—<a href="https://zh.wikipedia.org/wiki/贝桑松维约特站" title="wikilink">贝桑松</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巴黎里昂车站" title="wikilink">巴黎</a>—<a href="https://zh.wikipedia.org/wiki/弗赖堡火车总站" title="wikilink">弗莱堡</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巴黎里昂车站" title="wikilink">巴黎</a>—<a href="../Page/弗赖堡火车总站.md" title="wikilink">弗莱堡</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/巴黎里昂车站" title="wikilink">巴黎</a>—<a href="../Page/米卢斯城站.md" title="wikilink">米卢斯</a></p></td>
@@ -133,7 +133,7 @@ Besançon-Viotte）相连，此联络线的其中很长一段都是借用原有�
 
 ## 参见
 
-  - [法国铁路车站列表](https://zh.wikipedia.org/wiki/法国铁路车站列表 "wikilink")
+  - [法国铁路车站列表](../Page/法国铁路车站列表.md "wikilink")
 
 ## 参考文献
 

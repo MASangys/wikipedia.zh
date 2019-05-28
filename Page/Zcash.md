@@ -1,4 +1,4 @@
-**Zcash**是一種[去中心化](https://zh.wikipedia.org/wiki/去中心化 "wikilink")、[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")[互联网](../Page/互联网.md "wikilink")[货币](https://zh.wikipedia.org/wiki/货币 "wikilink")。与[比特币相比](../Page/比特币.md "wikilink")，其更注重于隐私\[1\]\[2\]，以及对交易透明的可控性\[3\]\[4\]。具体体现为：公有[区块链加密了交易记录中的发送人](https://zh.wikipedia.org/wiki/区块链 "wikilink")、接收人、交易量；用户可裁量选择是否向其他人提供查看[密钥](https://zh.wikipedia.org/wiki/密钥 "wikilink")，仅拥有此密钥的人才能看到交易的内容\[5\]。
+**Zcash**是一種[去中心化](https://zh.wikipedia.org/wiki/去中心化 "wikilink")、[开源的](https://zh.wikipedia.org/wiki/开源 "wikilink")[加密](https://zh.wikipedia.org/wiki/加密 "wikilink")[互联网](../Page/互联网.md "wikilink")[货币](https://zh.wikipedia.org/wiki/货币 "wikilink")。与[比特币相比](../Page/比特币.md "wikilink")，其更注重于隐私\[1\]\[2\]，以及对交易透明的可控性\[3\]\[4\]。具体体现为：公有[区块链加密了交易记录中的发送人](../Page/区块链.md "wikilink")、接收人、交易量；用户可裁量选择是否向其他人提供查看[密钥](https://zh.wikipedia.org/wiki/密钥 "wikilink")，仅拥有此密钥的人才能看到交易的内容\[5\]。
 
 ## 历史
 
@@ -30,7 +30,7 @@ Zcash 1.0.0正式版已定于2016年10月28日发布\[7\]\[8\]，同时也将开
       - [加密貨幣](https://zh.wikipedia.org/wiki/加密貨幣 "wikilink")
           - [比特币](../Page/比特币.md "wikilink")
           - [以太坊](../Page/以太坊.md "wikilink")
-          - [比特幣私密](https://zh.wikipedia.org/wiki/比特幣私密 "wikilink")
+          - [比特幣私密](../Page/比特幣私密.md "wikilink")
 
 {{-}}
 

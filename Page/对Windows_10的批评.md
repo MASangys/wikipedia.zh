@@ -1,5 +1,5 @@
 **[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")**是[Microsoft於](../Page/微软.md "wikilink")2015年7月發布的[作業系統](../Page/操作系统.md "wikilink")，其受到了很多評論者和使用者的批評。批評的方面由於主要涉及隱私問題，它已經成為各個團體進行的一系列負面評價的主題。
+10](../Page/Windows_10.md "wikilink")**是[Microsoft於](../Page/微软.md "wikilink")2015年7月發布的[作業系統](../Page/操作系统.md "wikilink")，其受到了很多評論者和使用者的批評。批評的方面由於主要涉及隱私問題，它已經成為各個團體進行的一系列負面評價的主題。
 
 ## 一般批評
 

@@ -1,5 +1,5 @@
 《**Verse 2**》是[韓國男子組合](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JJ
-Project所推出的第一張](../Page/JJ_Project.md "wikilink")[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，同時也是他們時隔五年的回歸，於2017年7月31日發行，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，[Genie音樂發行](https://zh.wikipedia.org/wiki/Genie音樂 "wikilink")。共收錄八首曲目，主打歌為《Tomorrow,
+Project所推出的第一張](../Page/JJ_Project.md "wikilink")[韓語迷你專輯](https://zh.wikipedia.org/wiki/韓語 "wikilink")，同時也是他們時隔五年的回歸，於2017年7月31日發行，由[JYP娛樂製作](../Page/JYP娛樂.md "wikilink")，[Genie音樂發行](../Page/Genie音樂.md "wikilink")。共收錄八首曲目，主打歌為《Tomorrow,
 Today》。
 
 ## 背景

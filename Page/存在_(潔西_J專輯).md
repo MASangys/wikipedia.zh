@@ -18,7 +18,7 @@ Media亦給予專輯褒貶各半的評價，認為潔西已經克服成為普通
 to the floor），有更多讓她的個性與魅力大放異彩的機會。
 
 倫敦標準晚報則相對有較正面的評價，給予專輯4/5顆星，認為潔西是個「對[姬蒂·佩芮非常英式的回應](https://zh.wikipedia.org/wiki/姬蒂·佩芮 "wikilink")」，並認為《存在》是非常21世紀的流行專輯，\[...\]
-它擁有只停留在心很短時間的歌，但同時擁有真正的手藝。[數碼間諜同樣給予專輯正面的評價](https://zh.wikipedia.org/wiki/數碼間諜 "wikilink")：「《存在》整體是一張成功的流行唱片，展示出一個無可否認地有才華的唱作歌手出道至今的進步—但願也是一張能戰勝那些『仇敵』的唱片」，並補充說「《存在》無疑是確實有在其整個過程中切換風格傾向的事實，但總體思路確實感覺比她的出作道更具凝聚力。」《The
+它擁有只停留在心很短時間的歌，但同時擁有真正的手藝。[數碼間諜同樣給予專輯正面的評價](../Page/數碼間諜.md "wikilink")：「《存在》整體是一張成功的流行唱片，展示出一個無可否認地有才華的唱作歌手出道至今的進步—但願也是一張能戰勝那些『仇敵』的唱片」，並補充說「《存在》無疑是確實有在其整個過程中切換風格傾向的事實，但總體思路確實感覺比她的出作道更具凝聚力。」《The
 Guardian》的Phil Mongredien則認為《存在》絕不是一張失敗的作品，但最好避免唱抒情歌。
 
 ## 單曲
@@ -50,12 +50,12 @@ Guardian》的Phil Mongredien則認為《存在》絕不是一張失敗的作品
 | [中國專輯榜](../Page/中國.md "wikilink")（[信諾榜](https://zh.wikipedia.org/wiki/信諾榜 "wikilink")）                                                               | 21   |
 | [荷蘭專輯榜](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")（）                                                                                               | 19   |
 | [法國專輯榜](https://zh.wikipedia.org/wiki/法國 "wikilink")（[SNEP](https://zh.wikipedia.org/wiki/Syndicat_National_de_l'Édition_Phonographique "wikilink")） | 104  |
-| [德國專輯榜](https://zh.wikipedia.org/wiki/德國 "wikilink")（[GfK娱乐榜单](https://zh.wikipedia.org/wiki/GfK娱乐榜单 "wikilink")）                                    | 35   |
+| [德國專輯榜](https://zh.wikipedia.org/wiki/德國 "wikilink")（[GfK娱乐榜单](../Page/GfK娱乐榜单.md "wikilink")）                                                       | 35   |
 | [愛爾蘭專輯榜](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")（[IRMA](https://zh.wikipedia.org/wiki/IRMA "wikilink")）                                        | 6    |
 | [新西蘭專輯榜](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")（[Recorded Music NZ](https://zh.wikipedia.org/wiki/Recorded_Music_NZ "wikilink")）              | 18   |
 | [西班牙專輯榜](../Page/西班牙.md "wikilink")（[PROMUSICAE](https://zh.wikipedia.org/wiki/PROMUSICAE "wikilink")）                                               | 19   |
 | [瑞士專輯榜](https://zh.wikipedia.org/wiki/瑞士 "wikilink")（[瑞士热门音乐榜](https://zh.wikipedia.org/wiki/瑞士热门音乐榜 "wikilink")）                                    | 15   |
-| [英國專輯榜](https://zh.wikipedia.org/wiki/英國 "wikilink")（[官方榜单公司](https://zh.wikipedia.org/wiki/官方榜单公司 "wikilink")）                                      | 3    |
+| [英國專輯榜](https://zh.wikipedia.org/wiki/英國 "wikilink")（[官方榜单公司](../Page/官方榜单公司.md "wikilink")）                                                         | 3    |
 
 ### 認證
 

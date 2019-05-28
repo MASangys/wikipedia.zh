@@ -27,16 +27,14 @@
     R](https://zh.wikipedia.org/wiki/鈴木Wagon_R#第五代MH34S/44S型（2012年迄今） "wikilink")
   - 2013年迄今：[第十一代鈴木Carry
     DA16T](https://zh.wikipedia.org/wiki/鈴木Carry#第十一代DA16T系（2013年迄今） "wikilink")
-  - 2013年迄今：[鈴木Spacia
-    MK32S/42S](https://zh.wikipedia.org/wiki/鈴木Spacia "wikilink")
+  - 2013年迄今：[鈴木Spacia MK32S/42S](../Page/鈴木Spacia.md "wikilink")
   - 2013年迄今：[第二代馬自達Flair
     Wagon](https://zh.wikipedia.org/wiki/馬自達Flair_Wagon#第二代（2013年迄今） "wikilink")
-  - 2014年迄今：[鈴木Hustler
-    MR31S/MR41S](https://zh.wikipedia.org/wiki/鈴木Hustler "wikilink")
+  - 2014年迄今：[鈴木Hustler MR31S/MR41S](../Page/鈴木Hustler.md "wikilink")
   - 2014年迄今：[第八代鈴木Alto
     HA36S/36V](https://zh.wikipedia.org/wiki/鈴木Alto#第八代HA36S/36V型（2014年迄今） "wikilink")
   - 2014年迄今：[馬自達Flair Crossover
-    MS31S](https://zh.wikipedia.org/wiki/馬自達Flair_Crossover "wikilink")
+    MS31S](../Page/馬自達Flair_Crossover.md "wikilink")
   - 2015年迄今：[第五代馬自達Scrum
     DG17](https://zh.wikipedia.org/wiki/馬自達Scrum#第五代（旅行車、廂型車：2015年迄今） "wikilink")
   - 2015年迄今：[第三代鈴木Alto Lapin

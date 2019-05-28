@@ -138,7 +138,7 @@ MF-6900GWS海底线路终端设备（SLTE），以升级目前的40吉比特每�
   -
   - [SEA-ME-WE 3](../Page/SEA-ME-WE_3.md "wikilink")
 
-  - [SEA-ME-WE 5](https://zh.wikipedia.org/wiki/SEA-ME-WE_5 "wikilink")
+  - [SEA-ME-WE 5](../Page/SEA-ME-WE_5.md "wikilink")
 
 ## 参考资料
 

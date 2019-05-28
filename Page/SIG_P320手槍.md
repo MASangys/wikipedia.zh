@@ -139,8 +139,8 @@ Sauer所推介的XM1152全金屬披甲彈和XM1153特別用途彈藥 \[10\]\[11\
   - [瓦爾特PPQ手槍](../Page/瓦爾特PPQ手槍.md "wikilink")
   - [HK VP9手槍](../Page/HK_VP9手槍.md "wikilink")
   - [FN Five-seveN手槍](../Page/FN_Five-seveN手槍.md "wikilink")
-  - [史密斯威森軍警型半自動手槍](https://zh.wikipedia.org/wiki/史密斯威森軍警型半自動手槍 "wikilink")
-  - [史密斯威森西格瑪半自動手槍](https://zh.wikipedia.org/wiki/史密斯威森西格瑪半自動手槍 "wikilink")
+  - [史密斯威森軍警型半自動手槍](../Page/史密斯威森軍警型半自動手槍.md "wikilink")
+  - [史密斯威森西格瑪半自動手槍](../Page/史密斯威森西格瑪半自動手槍.md "wikilink")
 
 ## 參考文獻
 

@@ -1,6 +1,6 @@
 **SIGNATUM**（符號：SIGT）是一種加密貨幣。開發團隊強調沒有[首次代幣發售](https://zh.wikipedia.org/wiki/首次代幣發售 "wikilink")、沒有預先開採、沒有附帶開發費用，對於投資者與礦工而言非常公平，且交易速度很快。由
 Skunkhash
-Raptor演算法進行[工作量證明](https://zh.wikipedia.org/wiki/工作量證明 "wikilink")(PoW)[區塊鏈運算](https://zh.wikipedia.org/wiki/區塊鏈 "wikilink")，到第98,500區塊產生時，轉成與[持有量證明](https://zh.wikipedia.org/wiki/持有量證明 "wikilink")(PoS)混合出塊的模式，到第100,000區塊後，則完全轉換為權益證明模式，其收益為每年可獲得持幣量的5%。
+Raptor演算法進行[工作量證明](../Page/工作量證明.md "wikilink")(PoW)[區塊鏈運算](https://zh.wikipedia.org/wiki/區塊鏈 "wikilink")，到第98,500區塊產生時，轉成與[持有量證明](../Page/持有量證明.md "wikilink")(PoS)混合出塊的模式，到第100,000區塊後，則完全轉換為權益證明模式，其收益為每年可獲得持幣量的5%。
 
 ## 興衰始末
 

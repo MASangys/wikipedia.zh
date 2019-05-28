@@ -5,11 +5,11 @@ Animation**》（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：）
 主要聲優陣容方面則有[宮野真守](../Page/宮野真守.md "wikilink")（飾
 金澤伸明）、[堀江由衣](../Page/堀江由衣.md "wikilink")（飾
 本多奈津子）、[M·A·O](../Page/市道真央.md "wikilink")（飾
-本多智惠美）、[Pile](https://zh.wikipedia.org/wiki/Pile "wikilink")（飾
+本多智惠美）、[Pile](../Page/Pile.md "wikilink")（飾
 岩村莉愛）、[佐佐木祐輔](https://zh.wikipedia.org/wiki/佐佐木祐輔 "wikilink")（飾
 赤松健太）、[立花慎之介](../Page/立花慎之介.md "wikilink")（飾
-橋本直也）、[上原明里](../Page/上原明里.md "wikilink")（飾 松本里緒菜）
-等48名參與配音聲優出演。\[2\]
+橋本直也）、[上原明里](../Page/上原明里.md "wikilink")（飾
+松本里緒菜） 等48名參與配音聲優出演。\[2\]
 
 ## 劇情
 
@@ -88,7 +88,7 @@ Animation**》（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：）
 <tr class="odd">
 <td><p><strong>岩村 莉愛</strong>(<a href="https://zh.wikipedia.org/wiki/鳳凰" title="wikilink">鳳凰</a>)<br />
 <small>いわむら りあ</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Pile" title="wikilink">Pile</a></p></td>
+<td><p><a href="../Page/Pile.md" title="wikilink">Pile</a></p></td>
 <td><p>學號6</p></td>
 <td><p>主要人物之一。伸明的同學，留有半長白髮。<br />
 是個沉默寡言的神祕存在。感情的起伏非常少，基本上面無表情。但極度冷靜，萬分聰明。<br />
@@ -177,7 +177,7 @@ Animation**》（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：）
 <tr class="odd">
 <td><p><strong>中尾 美奈子</strong><br />
 <small>なかお みなこ</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佐佐木未來" title="wikilink">佐佐木未來</a></p></td>
+<td><p><a href="../Page/佐佐木未來.md" title="wikilink">佐佐木未來</a></p></td>
 <td><p>學號19</p></td>
 <td><p>因被利幸脅迫的直也指名而受到懲罰，已死亡。</p></td>
 </tr>
@@ -207,7 +207,7 @@ Animation**》（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：）
 <tr class="odd">
 <td><p><strong>藤岡 俊之</strong><br />
 <small>ふじおか としゆき</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/酒井廣大" title="wikilink">酒井廣大</a></p></td>
+<td><p><a href="../Page/酒井廣大.md" title="wikilink">酒井廣大</a></p></td>
 <td><p>學號23</p></td>
 <td><p>拜託直也指定自己，最後受到懲罰。已死亡。</p></td>
 </tr>
@@ -426,7 +426,7 @@ Animation**》（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：）
 <tr class="odd">
 <td><p><strong>永田 輝晃</strong><br />
 <small>ながた てるあき</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鈴木崚汰" title="wikilink">鈴木崚汰</a></p></td>
+<td><p><a href="../Page/鈴木崚汰.md" title="wikilink">鈴木崚汰</a></p></td>
 <td><p>學號21</p></td>
 <td><p>夢想成為理髮師。<br />
 因命令而與本多奈津子做愛，也因這樣手機被奪走而被其威脅。為了奪回手機而自斷手指要求本多奈津子把自己的手機和伸明的手機還給自己和伸明，斷了左手5根，負分4分給了本多奈津子，另一個負分1分給了愛美，但是本多奈津子預料到輝晃會奪回手機，而早已將他的手機設定成拒收國王的簡訊，因拒收國王的簡訊是違反規則，不允許中途放棄，而深害他被國王懲罰，被罰斷頭死去，已死亡。</p></td>
@@ -549,7 +549,7 @@ Animation**》（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：）
   - 片頭曲「FEED THE FIRE」
     填詞：Masato；作曲：Y.K.C；主唱：[coldrain](https://zh.wikipedia.org/wiki/coldrain "wikilink")
   - 片尾曲「Lost Paradise」
-    填詞：安田尊行，作曲：，主唱：[Pile](https://zh.wikipedia.org/wiki/Pile "wikilink")（岩村莉愛）
+    填詞：安田尊行，作曲：，主唱：[Pile](../Page/Pile.md "wikilink")（岩村莉愛）
 
 ## 各話標題
 

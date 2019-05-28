@@ -47,7 +47,7 @@ Google身份验证器给予用户一个六位到八位的[一次性密码用于�
 ## 技术说明
 
 服务提供商为每个用户生成80位的密钥（然而RFC 4226
-§4要求使用128位并建议使用160位密钥）。\[36\] 它以16位、26位或者32位base32的字符串亦或是[二维码的方式提供出来](https://zh.wikipedia.org/wiki/二维码 "wikilink")。客户端使用此密钥生成[HMAC](https://zh.wikipedia.org/wiki/金鑰雜湊訊息鑑別碼 "wikilink")-[SHA1](../Page/SHA-1.md "wikilink")。经过HMAC处理过的信息可能为：
+§4要求使用128位并建议使用160位密钥）。\[36\] 它以16位、26位或者32位base32的字符串亦或是[二维码的方式提供出来](https://zh.wikipedia.org/wiki/二维码 "wikilink")。客户端使用此密钥生成[HMAC](../Page/金鑰雜湊訊息鑑別碼.md "wikilink")-[SHA1](../Page/SHA-1.md "wikilink")。经过HMAC处理过的信息可能为：
 
   - 自[UNIX时间](../Page/UNIX时间.md "wikilink")（[TOTP](https://zh.wikipedia.org/wiki/TOTP "wikilink")）起始之后所经过的30秒周期数
   - 随着每个新密码所增加的计数（[HOTP](https://zh.wikipedia.org/wiki/基于哈希的一次性密码算法 "wikilink")）

@@ -41,7 +41,7 @@ IA2的導氣系統為可手動調節。\[5\]
 
 ## 附件
 
-由於整合了[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，IA2可以裝上各種設備和附件，比如[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")、[雷射瞄準器等](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。槍管配有北約標準的，可用以發射[22毫米](https://zh.wikipedia.org/wiki/22毫米槍榴彈 "wikilink")[槍榴彈](../Page/步槍用榴彈.md "wikilink")。該槍亦可以配備由IMBEL生產的IA2或AMZ接口。
+由於整合了[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，IA2可以裝上各種設備和附件，比如[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[M203榴彈發射器](../Page/M203榴彈發射器.md "wikilink")、[雷射瞄準器等](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。槍管配有北約標準的，可用以發射[22毫米](../Page/22毫米槍榴彈.md "wikilink")[槍榴彈](../Page/步槍用榴彈.md "wikilink")。該槍亦可以配備由IMBEL生產的IA2或AMZ接口。
 
 ## 衍生型
 

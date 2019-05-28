@@ -19,7 +19,7 @@
 <tbody>
 <tr class="odd">
 <td><p>1月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SMAP_25_YEARS" title="wikilink">SMAP 25 YEARS</a></p></td>
+<td><p><a href="../Page/SMAP_25_YEARS.md" title="wikilink">SMAP 25 YEARS</a></p></td>
 <td><p><a href="../Page/SMAP.md" title="wikilink">SMAP</a></p></td>
 <td><p>精選</p></td>
 <td><p>66.8</p></td>
@@ -43,7 +43,7 @@
 </tr>
 <tr class="even">
 <td><p>1月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ambitions" title="wikilink">Ambitions</a></p></td>
+<td><p><a href="../Page/Ambitions.md" title="wikilink">Ambitions</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK</a></p></td>
 <td><p>原創</p></td>
 <td><p>23.2</p></td>
@@ -51,7 +51,7 @@
 </tr>
 <tr class="odd">
 <td><p>1月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/E.G._CRAZY" title="wikilink">E.G. CRAZY</a></p></td>
+<td><p><a href="../Page/E.G._CRAZY.md" title="wikilink">E.G. CRAZY</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/E-girls" title="wikilink">E-girls</a></p></td>
 <td><p>原創</p></td>
 <td><p>9.3</p></td>
@@ -59,7 +59,7 @@
 </tr>
 <tr class="even">
 <td><p>2月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/點時成菁" title="wikilink">點時成菁</a></p></td>
+<td><p><a href="../Page/點時成菁.md" title="wikilink">點時成菁</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>原創</p></td>
 <td><p>60.9</p></td>
@@ -83,7 +83,7 @@
 </tr>
 <tr class="odd">
 <td><p>2月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MADE_(BIGBANG日語專輯)" title="wikilink">MADE</a></p></td>
+<td><p><a href="../Page/MADE_(BIGBANG日語專輯).md" title="wikilink">MADE</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a></p></td>
 <td><p>原創</p></td>
 <td><p>10.1</p></td>
@@ -91,7 +91,7 @@
 </tr>
 <tr class="even">
 <td><p>3月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/WAY_OF_GLORY" title="wikilink">WAY OF GLORY</a></p></td>
+<td><p><a href="../Page/WAY_OF_GLORY.md" title="wikilink">WAY OF GLORY</a></p></td>
 <td><p><a href="../Page/AAA_(團體).md" title="wikilink">AAA</a></p></td>
 <td><p>原創</p></td>
 <td><p>10.8</p></td>
@@ -107,7 +107,7 @@
 </tr>
 <tr class="even">
 <td><p>3月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/W_FACE" title="wikilink">W FACE ～outside～</a></p></td>
+<td><p><a href="../Page/W_FACE.md" title="wikilink">W FACE ～outside～</a></p></td>
 <td><p><a href="../Page/倖田來未.md" title="wikilink">倖田來未</a></p></td>
 <td><p>原創</p></td>
 <td><p>2.0</p></td>
@@ -131,7 +131,7 @@
 </tr>
 <tr class="odd">
 <td><p>4月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/THE_JSB_WORLD" title="wikilink">THE JSB WORLD</a></p></td>
+<td><p><a href="../Page/THE_JSB_WORLD.md" title="wikilink">THE JSB WORLD</a></p></td>
 <td><p><a href="../Page/J_Soul_Brothers.md" title="wikilink">第三代J Soul Brothers</a></p></td>
 <td><p>精選</p></td>
 <td><p>35.7</p></td>
@@ -235,7 +235,7 @@
 </tr>
 <tr class="even">
 <td><p>7月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/果醬_(關西傑尼斯8專輯)" title="wikilink">果醬</a></p></td>
+<td><p><a href="../Page/果醬_(關西傑尼斯8專輯).md" title="wikilink">果醬</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>原創</p></td>
 <td><p>32.7</p></td>
@@ -259,7 +259,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/抹黑純真" title="wikilink">抹黑純真</a></p></td>
+<td><p><a href="../Page/抹黑純真.md" title="wikilink">抹黑純真</a></p></td>
 <td><p><a href="../Page/櫸坂46.md" title="wikilink">櫸坂46</a></p></td>
 <td><p>原創</p></td>
 <td><p>27.9</p></td>
@@ -275,7 +275,7 @@
 </tr>
 <tr class="odd">
 <td><p>8月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/難波愛～現在、想到的事情～" title="wikilink">難波愛～現在、想到的事情～</a></p></td>
+<td><p><a href="../Page/難波愛～現在、想到的事情～.md" title="wikilink">難波愛～現在、想到的事情～</a></p></td>
 <td><p><a href="../Page/NMB48.md" title="wikilink">NMB48</a></p></td>
 <td><p>原創</p></td>
 <td><p>15.9</p></td>
@@ -307,7 +307,7 @@
 </tr>
 <tr class="odd">
 <td><p>9月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Blackpink_(迷你專輯)" title="wikilink">Blackpink</a></p></td>
+<td><p><a href="../Page/Blackpink_(迷你專輯).md" title="wikilink">Blackpink</a></p></td>
 <td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
 <td><p>原創</p></td>
 <td><p>3.9</p></td>
@@ -339,7 +339,7 @@
 </tr>
 <tr class="odd">
 <td><p>10月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Love_Yourself_承_&#39;Her&#39;" title="wikilink">Love Yourself 承 'Her'</a></p></td>
+<td><p><a href="../Page/Love_Yourself_承_&#39;Her&#39;.md" title="wikilink">Love Yourself 承 'Her'</a></p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
 <td><p>原創</p></td>
 <td><p>5.2</p></td>
@@ -387,7 +387,7 @@
 </tr>
 <tr class="odd">
 <td><p>11月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Finally" title="wikilink">Finally</a></p></td>
+<td><p><a href="../Page/Finally.md" title="wikilink">Finally</a></p></td>
 <td><p><a href="../Page/安室奈美惠.md" title="wikilink">安室奈美惠</a></p></td>
 <td><p>精選</p></td>
 <td><p>111.1</p></td>
@@ -411,7 +411,7 @@
 </tr>
 <tr class="even">
 <td><p>12月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DINOSAUR" title="wikilink">DINOSAUR</a></p></td>
+<td><p><a href="../Page/DINOSAUR.md" title="wikilink">DINOSAUR</a></p></td>
 <td><p><a href="../Page/B&#39;z.md" title="wikilink">B'z</a></p></td>
 <td><p>原創</p></td>
 <td><p>20.1</p></td>
@@ -438,7 +438,7 @@
 
 ## 參見
 
-  - [2017年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2017年Oricon單曲週榜冠軍作品列表 "wikilink")
+  - [2017年Oricon單曲週榜冠軍作品列表](../Page/2017年Oricon單曲週榜冠軍作品列表.md "wikilink")
 
 ## 參考資料
 

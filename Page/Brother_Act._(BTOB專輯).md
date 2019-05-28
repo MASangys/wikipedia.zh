@@ -303,7 +303,7 @@ COMEBACK V LIVE</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon單曲冠軍作品列表" title="wikilink">單曲年榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon單曲冠軍作品列表.md" title="wikilink">單曲年榜</a></p></td>
 <td><p>2018年</p></td>
 <td><p>#37</p></td>
 <td><p>[42]</p></td>

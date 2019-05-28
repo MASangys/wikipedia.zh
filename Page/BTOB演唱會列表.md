@@ -6,7 +6,7 @@
 
 ### 韓國
 
-#### 1st：[Hello, Melody](https://zh.wikipedia.org/wiki/Hello,_Melody "wikilink")
+#### 1st：[Hello, Melody](../Page/Hello,_Melody.md "wikilink")
 
 <table>
 <tbody>
@@ -19,7 +19,7 @@
 <tr class="even">
 <td><p>2014年10月31日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td><p><a href="../Page/奧林匹克公園_(首爾).md" title="wikilink">奧林匹克公園奧林匹克Hall</a></p></td>
 </tr>
 <tr class="odd">
@@ -43,7 +43,7 @@
 </tbody>
 </table>
 
-#### 2nd：[Born To Beat Time](https://zh.wikipedia.org/wiki/Born_To_Beat_Time "wikilink")
+#### 2nd：[Born To Beat Time](../Page/Born_To_Beat_Time.md "wikilink")
 
 <table>
 <tbody>
@@ -74,7 +74,7 @@
 </tbody>
 </table>
 
-##### [Born To Beat Time \~ Encore \~](https://zh.wikipedia.org/wiki/Born_To_Beat_Time "wikilink")
+##### [Born To Beat Time \~ Encore \~](../Page/Born_To_Beat_Time.md "wikilink")
 
 <table>
 <tbody>
@@ -105,7 +105,7 @@
 </tbody>
 </table>
 
-#### 3rd：[BTOB TIME](https://zh.wikipedia.org/wiki/BTOB_TIME "wikilink")
+#### 3rd：[BTOB TIME](../Page/BTOB_TIME.md "wikilink")
 
 <table>
 <tbody>
@@ -136,7 +136,7 @@
 </tbody>
 </table>
 
-#### 4th：[BTOB TIME ～我們的演唱會～](https://zh.wikipedia.org/wiki/BTOB_TIME_～我們的演唱會～ "wikilink")
+#### 4th：[BTOB TIME ～我們的演唱會～](../Page/BTOB_TIME_～我們的演唱會～.md "wikilink")
 
 <table>
 <tbody>
@@ -173,7 +173,7 @@
 </tbody>
 </table>
 
-#### 5th：[BTOB TIME -THIS IS US-](https://zh.wikipedia.org/wiki/BTOB_TIME_-THIS_IS_US- "wikilink")
+#### 5th：[BTOB TIME -THIS IS US-](../Page/BTOB_TIME_-THIS_IS_US-.md "wikilink")
 
 <table>
 <tbody>
@@ -371,7 +371,7 @@
 <td><p>BTOB 出道七周年紀念展覽會<br />
 '7YEARS 7MEMBERS WITH MELODY'</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a> The Seouliteum</p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a> The Seouliteum</p></td>
 </tr>
 <tr class="odd">
 <td></td>

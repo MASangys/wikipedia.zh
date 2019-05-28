@@ -279,7 +279,7 @@ MX等台首播](../Page/東京都會電視台.md "wikilink")。
 
   - 原作－黑神遊夜／神崎（KADOKAWA「[月刊少年Ace](../Page/月刊少年Ace.md "wikilink")」連載）
   - 導演－橘秀樹
-  - [劇本統籌](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")－[下山健人](https://zh.wikipedia.org/wiki/下山健人 "wikilink")
+  - [劇本統籌](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")－[下山健人](../Page/下山健人.md "wikilink")
   - [人物設定](../Page/人物設計.md "wikilink")－瀧本祥子
   - 美術監督－李凡善
   - 美術設定－-{坂}-本龍
@@ -304,7 +304,7 @@ MX等台首播](../Page/東京都會電視台.md "wikilink")。
 <!-- end list -->
 
   - 片尾曲「DECIDE」
-    作詞－櫻惠／作曲－武田城以／編曲－池田健仁／主唱－天下五劍［鬼瓦輪（[高田憂希](../Page/高田憂希.md "wikilink")）、龜鶴城瑪麗（[北原沙彌香](https://zh.wikipedia.org/wiki/北原沙彌香 "wikilink")）、眠目佐鳥（[西田望見](../Page/西田望見.md "wikilink")）、花酒蕨（[日高里菜](../Page/日高里菜.md "wikilink")）、因幡月夜（[日岡夏美](../Page/日岡夏美.md "wikilink")）］
+    作詞－櫻惠／作曲－武田城以／編曲－池田健仁／主唱－天下五劍［鬼瓦輪（[高田憂希](../Page/高田憂希.md "wikilink")）、龜鶴城瑪麗（[北原沙彌香](../Page/北原沙彌香.md "wikilink")）、眠目佐鳥（[西田望見](../Page/西田望見.md "wikilink")）、花酒蕨（[日高里菜](../Page/日高里菜.md "wikilink")）、因幡月夜（[日岡夏美](../Page/日岡夏美.md "wikilink")）］
 
 ### 各話列表
 
@@ -326,7 +326,7 @@ MX等台首播](../Page/東京都會電視台.md "wikilink")。
 <td><p>第1節</p></td>
 <td></td>
 <td><p>完美刀刃「鬼瓦輪」</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/下山健人" title="wikilink">下山健人</a></p></td>
+<td><p><a href="../Page/下山健人.md" title="wikilink">下山健人</a></p></td>
 <td><p>橘秀樹</p></td>
 <td><p>瀧本祥子</p></td>
 <td><p>第1話</p></td>
@@ -515,7 +515,7 @@ Park I Nam、Im Chae Gil</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV新作動畫台</a></p></td>
+<td><p><a href="../Page/AbemaTV.md" title="wikilink">AbemaTV新作動畫台</a></p></td>
 <td><p>星期六 25時30分－26時00分</p></td>
 <td></td>
 <td></td>
@@ -630,7 +630,7 @@ Park I Nam、Im Chae Gil</p></td>
 ### 網路廣播
 
 以『**武裝少女Machiavellianism
-很快地很快地幫你矯正！**』為標題，2017年4月6日每週四起在[音泉](../Page/音泉.md "wikilink")、[Niconico動畫的](../Page/Niconico動畫.md "wikilink")〈音泉〉頻道專區進行配信\[6\]。由鬼瓦輪的聲優[高田憂希](../Page/高田憂希.md "wikilink")、龜鶴城的聲優[北原沙彌香及眠目佐鳥的聲優](https://zh.wikipedia.org/wiki/北原沙彌香 "wikilink")[西田望見共](../Page/西田望見.md "wikilink")3人主持。主角納村不道的聲優[畠中祐擔任製作人](../Page/畠中祐.md "wikilink")。
+很快地很快地幫你矯正！**』為標題，2017年4月6日每週四起在[音泉](../Page/音泉.md "wikilink")、[Niconico動畫的](../Page/Niconico動畫.md "wikilink")〈音泉〉頻道專區進行配信\[6\]。由鬼瓦輪的聲優[高田憂希](../Page/高田憂希.md "wikilink")、龜鶴城的聲優[北原沙彌香及眠目佐鳥的聲優](../Page/北原沙彌香.md "wikilink")[西田望見共](../Page/西田望見.md "wikilink")3人主持。主角納村不道的聲優[畠中祐擔任製作人](../Page/畠中祐.md "wikilink")。
 
 ## 參考資料
 

@@ -45,7 +45,7 @@ International」\[2\]。
 <td><p>2013</p></td>
 <td><p><em></em></p></td>
 <td></td>
-<td><p>|<a href="https://zh.wikipedia.org/wiki/A24_(公司)" title="wikilink">A24聯合製作</a></p></td>
+<td><p>|<a href="../Page/A24_(公司).md" title="wikilink">A24聯合製作</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2013</p></td>
@@ -74,7 +74,7 @@ International」\[2\]。
 <tr class="even">
 <td><p>2016</p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/我谈论的就是这个" title="wikilink">我谈论的就是这个</a></em></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/理查德·林克莱特" title="wikilink">理查德·林克莱特</a></p></td>
+<td><p><a href="../Page/理查德·林克莱特.md" title="wikilink">理查德·林克莱特</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/派拉蒙電影" title="wikilink">派拉蒙電影聯合製作</a>[3]</p></td>
 </tr>
 <tr class="odd">
@@ -98,13 +98,13 @@ Announced [4]</p></td>
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/二十世紀女性" title="wikilink">20世紀女性</a></em></p></td>
+<td><p><em><a href="../Page/二十世紀女性.md" title="wikilink">20世紀女性</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mike_Mills_(director)" title="wikilink">Mike Mills</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/霓裳魅影" title="wikilink">霓裳魅影</a></em></p></td>
+<td><p><em><a href="../Page/霓裳魅影.md" title="wikilink">霓裳魅影</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Paul_Thomas_Anderson" title="wikilink">Paul Thomas Anderson</a></p></td>
 <td></td>
 </tr>

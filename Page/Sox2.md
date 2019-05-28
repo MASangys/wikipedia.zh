@@ -8,7 +8,7 @@ group，高遷移律組）盒結構域\[3\]。
 
 ### 幹性維持
 
-[白血病抑制因子](https://zh.wikipedia.org/wiki/白血病抑制因子 "wikilink")（LIF）能通過激活Sox2調控的下游，諸如[JAK-STAT信號通路](https://zh.wikipedia.org/wiki/JAK-STAT信號通路 "wikilink")，繼而激活（家族下的一種蛋白質）的表達，以維持[胚胎幹細胞的幹性](../Page/胚胎幹細胞.md "wikilink")。[Oct4](../Page/Oct4.md "wikilink")、Sox2以及[Nanog能增強所有LIF調控的通路相關的蛋白質的表達](https://zh.wikipedia.org/wiki/Nanog "wikilink")\[4\]。
+[白血病抑制因子](../Page/白血病抑制因子.md "wikilink")（LIF）能通過激活Sox2調控的下游，諸如[JAK-STAT信號通路](https://zh.wikipedia.org/wiki/JAK-STAT信號通路 "wikilink")，繼而激活（家族下的一種蛋白質）的表達，以維持[胚胎幹細胞的幹性](../Page/胚胎幹細胞.md "wikilink")。[Oct4](../Page/Oct4.md "wikilink")、Sox2以及[Nanog能增強所有LIF調控的通路相關的蛋白質的表達](https://zh.wikipedia.org/wiki/Nanog "wikilink")\[4\]。
 
 是一種與細胞增殖相關的轉錄調節蛋白，在胚胎幹細胞中能與Sox2、Oct4、Nanog形成[蛋白複合物](https://zh.wikipedia.org/wiki/蛋白複合物 "wikilink")\[5\]。Sox2、Oct4、Nanog三個轉錄因子共同組成了一個與多能性維持相關的轉錄調控網絡。Sox2能與Oct4一同與DNA非回文序列結合，以激活與多能性維持的關鍵因子轉錄\[6\]。令人驚訝的是，對Oct4-Sox2增強子的調控即使沒有Sox2也可以發生，可能是因爲其他Sox家族的蛋白質的表達。不過，已有研究人員確認Sox2在胚胎幹細胞幹性維持中的主要作用是控制Oct4的表達。另外，Oct4、Sox2一旦表達，就會自我維持持續表達的狀態\[7\]。
 
@@ -22,7 +22,7 @@ Sox2不同的表達水平決定了胚胎幹細胞的分化命運。Sox2能抑制
 
 #### 神經幹細胞
 
-[神經發生過程中](https://zh.wikipedia.org/wiki/神經發生 "wikilink")，Sox2在[神經管細胞以及](https://zh.wikipedia.org/wiki/神經管 "wikilink")[中樞神經系統祖細胞增殖過程中會表達](../Page/中樞神經系統.md "wikilink")。然而，在祖細胞退出細胞週期，進入G0期的過程中，Sox2的表達會下調\[14\]。細胞表達Sox2能促進細胞增殖，也能促進細胞分化爲神經細胞，而細胞增殖和分化的能力正是幹細胞的兩個最顯著的特徵。表達Sox2的（Sox2+）[神經幹細胞能進行細胞分裂](https://zh.wikipedia.org/wiki/神經幹細胞 "wikilink")，產生與其相同的Sox2+神經幹細胞，同時還能產生神經細胞前體細胞\[15\]。
+[神經發生過程中](https://zh.wikipedia.org/wiki/神經發生 "wikilink")，Sox2在[神經管細胞以及](https://zh.wikipedia.org/wiki/神經管 "wikilink")[中樞神經系統祖細胞增殖過程中會表達](../Page/中樞神經系統.md "wikilink")。然而，在祖細胞退出細胞週期，進入G0期的過程中，Sox2的表達會下調\[14\]。細胞表達Sox2能促進細胞增殖，也能促進細胞分化爲神經細胞，而細胞增殖和分化的能力正是幹細胞的兩個最顯著的特徵。表達Sox2的（Sox2+）[神經幹細胞能進行細胞分裂](../Page/神經幹細胞.md "wikilink")，產生與其相同的Sox2+神經幹細胞，同時還能產生神經細胞前體細胞\[15\]。
 
 使用成體神經幹細胞（其Sox2以及c-Myc的表達水平高於胚胎幹細胞），只需要轉入兩種因子（其中一個必須是Oct4）就足以產生誘導多能性幹細胞，減少了轉入多個因子時可能產生的風險以及副作用\[16\]。
 

@@ -9,7 +9,7 @@ Access軟件包括的基本功能](../Page/Microsoft_Access.md "wikilink")。
   - [Calc](../Page/LibreOffice_Calc.md "wikilink")
   - [Impress](../Page/LibreOffice_Impress.md "wikilink")
   - [Draw](../Page/LibreOffice_Draw.md "wikilink")
-  - [Math](https://zh.wikipedia.org/wiki/LibreOffice_Math "wikilink")
+  - [Math](../Page/LibreOffice_Math.md "wikilink")
 
 ## 外部連結
 

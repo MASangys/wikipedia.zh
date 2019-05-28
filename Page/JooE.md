@@ -116,7 +116,7 @@ Star](../Page/黄金渔场_Radio_Star.md "wikilink")》中出色的综艺表现�
 <tr class="odd">
 <td><p>2018年6月25日－</p></td>
 <td></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/School_Attack_2018" title="wikilink">School Attack 2018</a>》</p></td>
+<td><p>《<a href="../Page/School_Attack_2018.md" title="wikilink">School Attack 2018</a>》</p></td>
 <td><p>固定MC</p></td>
 </tr>
 <tr class="even">

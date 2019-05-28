@@ -17,7 +17,7 @@ Location 头部中规定的 URI，而无视原先请求的方法。\[3\]
 根据\[//tools.ietf.org/html/rfc2616\#section-10.3.2 RFC 2616\] 定义:
 
   - 响应实体必须带有一个[HTTP
-    Location头部来指示新地址](https://zh.wikipedia.org/wiki/HTTP_Location "wikilink")。
+    Location头部来指示新地址](../Page/HTTP_Location.md "wikilink")。
   - 如果一个客户端有链接编辑能力，其应当把所有的引用链接重定向到新的URL上。
   - 除非带有 Cache-Control 或 Expires 头部，否则该响应不能被缓存。
   - 除非请求方法是 HEAD, 否则响应实体应该包含一个小型的超文本，标注一个超链接到新的URL。

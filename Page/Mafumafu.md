@@ -1,7 +1,7 @@
 **Mafumafu**（まふまふ，），是日本男性歌手、作曲家。身高178公分，體重60公斤。
 
 負責音樂團體[After the
-Rain的歌唱](https://zh.wikipedia.org/wiki/After_the_Rain "wikilink")、作詞、作曲、編曲。
+Rain的歌唱](../Page/After_the_Rain.md "wikilink")、作詞、作曲、編曲。
 
 也會提供樂曲給其他歌手。
 
@@ -12,7 +12,7 @@ Rain的歌唱](https://zh.wikipedia.org/wiki/After_the_Rain "wikilink")、作詞
   - 由2010年開始在[niconico動畫活動](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")。唱歌、歌词、作曲、編曲、演奏、技術等這些大多是獨自處理。也有向遊戲、動畫作品等其他歌手提供樂曲。
   - 以發行同人專輯為主要活動，2016年1月8日和[そらる組成音樂團體](https://zh.wikipedia.org/wiki/そらる "wikilink")「[After
     the
-    Rain](https://zh.wikipedia.org/wiki/After_the_Rain "wikilink")」，2016年4月13日發售專輯『クロクレストストーリー』，於[Oricon公信榜獲得第](../Page/Oricon公信榜.md "wikilink")2名\[1\]。。
+    Rain](../Page/After_the_Rain.md "wikilink")」，2016年4月13日發售專輯『クロクレストストーリー』，於[Oricon公信榜獲得第](../Page/Oricon公信榜.md "wikilink")2名\[1\]。。
   - 現在也以[niconico動畫](https://zh.wikipedia.org/wiki/niconico動畫 "wikilink")、[niconico直播為中心活動](https://zh.wikipedia.org/wiki/niconico直播 "wikilink")。此外還參加了Live、夏季Comic
     Market等活動。
   - 第一人稱是"僕（boku）"。在[Twitter談論時以](../Page/Twitter.md "wikilink")"ボク"為居多，有時候會用"俺（ore）"。

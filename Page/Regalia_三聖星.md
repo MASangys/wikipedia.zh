@@ -1,5 +1,5 @@
 《**Regalia
-三聖星**》是[永谷敬之擔任製作人](https://zh.wikipedia.org/wiki/永谷敬之 "wikilink")，[QP:flapper擔當角色原案](https://zh.wikipedia.org/wiki/QP:flapper "wikilink")，[Actas製作的原創動畫](https://zh.wikipedia.org/wiki/Actas "wikilink")，電視動畫於2016年7月7日開始播出\[1\]。
+三聖星**》是[永谷敬之擔任製作人](../Page/永谷敬之.md "wikilink")，[QP:flapper擔當角色原案](../Page/QP:flapper.md "wikilink")，[Actas製作的原創動畫](../Page/Actas.md "wikilink")，電視動畫於2016年7月7日開始播出\[1\]。
 
 在第3話播出後，官方宣佈由於已經播出的動畫品質沒有達到預期要求，因此第4話之後動畫將停止播出。據官方推特表示，因製作趕不上放映時間而被迫延期，動畫在9月1日開始從第1集重新播放。影碟（藍光和DVD）也將延期一個月發售\[2\]\[3\]。
 
@@ -127,8 +127,7 @@
   - 原作 - Delegation of Enastoria
   - 監督 - 登坂晋
   - 構成、腳本 - 小柳啓伍
-  - 人物原案 -
-    [QP:flapper](https://zh.wikipedia.org/wiki/QP:flapper "wikilink")
+  - 人物原案 - [QP:flapper](../Page/QP:flapper.md "wikilink")
   - 人物設計 -
   - 副人物設計 - 常盤健太郎
   - 機械設計、機械總作畫監督 - 鈴木勘太
@@ -144,8 +143,8 @@
   - 製作人 - 川村仁、百武弘二、岡村武真、山崎史紀、金庭こず惠、中島保裕、土橋哲也、大橋智之、若林由美（第2話 -
     ）、伊藤幸弘、青木絵理子、兼光一博（復活放送第3話 - ）
   - 動畫製作人 - 丸山俊平
-  - 監製 - [永谷敬之](https://zh.wikipedia.org/wiki/永谷敬之 "wikilink")
-  - 動畫製作 - [Actas](https://zh.wikipedia.org/wiki/Actas "wikilink")
+  - 監製 - [永谷敬之](../Page/永谷敬之.md "wikilink")
+  - 動畫製作 - [Actas](../Page/Actas.md "wikilink")
   - 製作 - Regalia Project
 
 ## 主題曲

@@ -1,5 +1,5 @@
 **Windows 10 -{zh-cn:移动版; zh-tw:行動裝置版;zh-hk: Mobile;}-**，是[Windows
-10作業系統的分支版本](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。此版本是专为屏幕尺寸低于8寸的[智能手机和](../Page/智能手机.md "wikilink")[平板电脑运行](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。它採用[ARM架构和](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")[IA-32处理器架构](https://zh.wikipedia.org/wiki/IA-32 "wikilink")。該版本為[移动设备提供了强大的功能](../Page/移动设备.md "wikilink")。其中包括：同步處理功能、通用應用程式（）、从[Android和](../Page/Android.md "wikilink")[iOS的平台](https://zh.wikipedia.org/wiki/iOS "wikilink")[移植的应用](https://zh.wikipedia.org/wiki/移植_\(软件\) "wikilink")、将裝置连接至外部螢幕、可使用类似[PC的滑鼠和键盘输入](../Page/PC.md "wikilink")。微软曾经在Twitter上承诺所有Lumia
+10作業系統的分支版本](../Page/Windows_10.md "wikilink")。此版本是专为屏幕尺寸低于8寸的[智能手机和](../Page/智能手机.md "wikilink")[平板电脑运行](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。它採用[ARM架构和](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")[IA-32处理器架构](https://zh.wikipedia.org/wiki/IA-32 "wikilink")。該版本為[移动设备提供了强大的功能](../Page/移动设备.md "wikilink")。其中包括：同步處理功能、通用應用程式（）、从[Android和](../Page/Android.md "wikilink")[iOS的平台](https://zh.wikipedia.org/wiki/iOS "wikilink")[移植的应用](https://zh.wikipedia.org/wiki/移植_\(软件\) "wikilink")、将裝置连接至外部螢幕、可使用类似[PC的滑鼠和键盘输入](../Page/PC.md "wikilink")。微软曾经在Twitter上承诺所有Lumia
 Windows Phone 8 智能手机均可升级Windows 10
 Mobile，\[1\]但一些功能取决于硬體設備的兼容性。\[2\]\[3\]微软官方曾表示會为所有搭载Windows
 Phone 8操作系统的设备提供Windows 10 Mobile更新。\[4\]Windows
@@ -27,8 +27,7 @@ One](../Page/Xbox_One.md "wikilink")。用户数据和[许可证](https://zh.wik
 Nadella说](https://zh.wikipedia.org/wiki/Satya_Nadella "wikilink")，公司计划“将使三个版本的Windows操作系统精简为一个单一的聚合操作系统屏幕，“统一Windows、[Windows
 Phone](../Page/Windows_Phone.md "wikilink")、“Windows嵌入式系统”在一个共同的架构和统一的應用程式生态系统。然而，Nadella表示，这些内部变化不会影响任何操作系统的功能。\[13\]\[14\]
 
-2014年9月30日，微软推出了[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，[Terry
+2014年9月30日，微软推出了[Windows 10](../Page/Windows_10.md "wikilink")，[Terry
 Myerson说](https://zh.wikipedia.org/wiki/Terry_Myerson "wikilink"),Windows
 10将是微软的“最统一的平台,”并计划为[台式电脑](https://zh.wikipedia.org/wiki/台式电脑 "wikilink")，[笔记本](https://zh.wikipedia.org/wiki/笔记本 "wikilink")，[平板电脑](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")，[智能手机](../Page/智能手机.md "wikilink")，[一体机](https://zh.wikipedia.org/wiki/一体机 "wikilink")，[物联网](../Page/物联网.md "wikilink")，混合现实头盔等设备提供一个“统一”的平台。\[15\]\[16\]2015年1月21日，在“Windows
 10:下一章”新闻发布会中，Windows 10 Mobile预览版公开发布。与之前的Windows Phone版本相比,Windows

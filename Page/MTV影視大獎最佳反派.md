@@ -679,7 +679,7 @@ Villain）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "
 <td><p><strong>2016<br />
 (第25屆)<br />
 [3]</strong></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/亞當·崔佛" title="wikilink">亞當·崔佛</a></strong></p></td>
+<td><p><strong><a href="../Page/亞當·崔佛.md" title="wikilink">亞當·崔佛</a></strong></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/星球大戰：原力覺醒" title="wikilink">星球大戰：原力覺醒</a></strong></p></td>
 </tr>
 <tr class="even">
@@ -741,7 +741,7 @@ Villain）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "
 <td><p>'''<a href="../Page/黑豹_(電影).md" title="wikilink">黑豹</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/亞當·崔佛" title="wikilink">亞當·崔佛</a></p></td>
+<td><p><a href="../Page/亞當·崔佛.md" title="wikilink">亞當·崔佛</a></p></td>
 <td><p><a href="../Page/STAR_WARS：最後的絕地武士.md" title="wikilink">STAR WARS：最後的絕地武士</a></p></td>
 <td></td>
 </tr>
@@ -757,7 +757,7 @@ Villain）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "
 </tr>
 <tr class="even">
 <td><p><a href="../Page/比爾·斯卡斯加德.md" title="wikilink">比爾·斯卡斯加德</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/牠_(電影)" title="wikilink">牠</a></p></td>
+<td><p><a href="../Page/牠_(電影).md" title="wikilink">牠</a></p></td>
 <td></td>
 </tr>
 </tbody>

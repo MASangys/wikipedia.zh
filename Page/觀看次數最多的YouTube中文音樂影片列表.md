@@ -74,7 +74,7 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/漂向北方" title="wikilink">漂向北方</a>[6]</p></td>
+<td><p><a href="../Page/漂向北方.md" title="wikilink">漂向北方</a>[6]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黄明志" title="wikilink">黃明志</a> ft. <a href="../Page/王力宏.md" title="wikilink">王力宏</a></p></td>
 <td><p>151,367,721</p></td>
 <td></td>
@@ -119,7 +119,7 @@
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我们不一样" title="wikilink">我們不一樣</a>[11]</p></td>
+<td><p><a href="../Page/我们不一样.md" title="wikilink">我們不一樣</a>[11]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大壯" title="wikilink">大壯</a></p></td>
 <td><p>117,098,927</p></td>
 <td></td>
@@ -164,7 +164,7 @@
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/帥到分手" title="wikilink">帥到分手</a>[16]</p></td>
+<td><p><a href="../Page/帥到分手.md" title="wikilink">帥到分手</a>[16]</p></td>
 <td><p><a href="../Page/周湯豪.md" title="wikilink">周湯豪</a></p></td>
 <td><p>103,886,833</p></td>
 <td></td>
@@ -363,7 +363,7 @@
 <tr class="odd">
 <td><p>39</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/凉凉" title="wikilink">凉凉</a>[38]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/楊宗緯" title="wikilink">楊宗緯</a> ft. <a href="https://zh.wikipedia.org/wiki/张碧晨" title="wikilink">張碧晨</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/楊宗緯" title="wikilink">楊宗緯</a> ft. <a href="../Page/张碧晨.md" title="wikilink">張碧晨</a></p></td>
 <td><p>72,902,274</p></td>
 <td></td>
 <td></td>
@@ -372,7 +372,7 @@
 <tr class="even">
 <td><p>40</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/怎麼還不愛" title="wikilink">怎麼還不愛</a>[39]</p></td>
-<td><p><a href="../Page/楊凱琳.md" title="wikilink">楊凱琳</a> ft. <a href="https://zh.wikipedia.org/wiki/余枫_(歌手)" title="wikilink">余楓</a></p></td>
+<td><p><a href="../Page/楊凱琳.md" title="wikilink">楊凱琳</a> ft. <a href="../Page/余枫_(歌手).md" title="wikilink">余楓</a></p></td>
 <td><p>72,528,364</p></td>
 <td></td>
 <td></td>
@@ -481,7 +481,7 @@
 <td><p>52</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/浪子回頭" title="wikilink">浪子回頭</a><ref>{{Citation|last=茄子蛋EggPlantEgg</p></td>
 <td><p>title=茄子蛋EggPlantEgg - 浪子回頭 Back Here Again (Official Music Video)|date=2017-12-03|url=<a href="https://www.youtube.com/watch?v=x3bDhtuC5yk">https://www.youtube.com/watch?v=x3bDhtuC5yk</a>}}</ref></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/茄子蛋" title="wikilink">茄子蛋</a></p></td>
+<td><p><a href="../Page/茄子蛋.md" title="wikilink">茄子蛋</a></p></td>
 <td><p>63,477,580</p></td>
 <td></td>
 <td><p>1</p></td>
@@ -795,7 +795,7 @@
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/漂向北方" title="wikilink">漂向北方</a></p></td>
+<td><p><a href="../Page/漂向北方.md" title="wikilink">漂向北方</a></p></td>
 <td></td>
 <td></td>
 <td><p>290</p></td>
@@ -835,7 +835,7 @@
 </tr>
 <tr class="odd">
 <td><p>14</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/帥到分手" title="wikilink">帥到分手</a></p></td>
+<td><p><a href="../Page/帥到分手.md" title="wikilink">帥到分手</a></p></td>
 <td></td>
 <td></td>
 <td><p>761</p></td>

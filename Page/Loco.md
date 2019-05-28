@@ -373,10 +373,10 @@ Money](../Page/Show_Me_The_Money.md "wikilink")》第一季获得冠軍。\[1\]\
 <tr class="odd">
 <td><p>2015年4月21日</p></td>
 <td><p>S.O.L.O</p></td>
-<td><p>、Loco、<a href="https://zh.wikipedia.org/wiki/Skull_(歌手)" title="wikilink">Skull</a></p></td>
+<td><p>、Loco、<a href="../Page/Skull_(歌手).md" title="wikilink">Skull</a></p></td>
 <td><p>《Catch Music If You Can》</p></td>
-<td><p>作词：Loco、<a href="https://zh.wikipedia.org/wiki/Skull_(歌手)" title="wikilink">Skull</a>、<br />
-Rap：、Loco、<a href="https://zh.wikipedia.org/wiki/Skull_(歌手)" title="wikilink">Skull</a></p></td>
+<td><p>作词：Loco、<a href="../Page/Skull_(歌手).md" title="wikilink">Skull</a>、<br />
+Rap：、Loco、<a href="../Page/Skull_(歌手).md" title="wikilink">Skull</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017年1月25日</p></td>
@@ -625,11 +625,11 @@ Feat.：Loco</p></td>
 <tr class="odd">
 <td><p>2014年12月17日</p></td>
 <td><p>P.A.P.E.R</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Qwala" title="wikilink">Qwala</a>（Feat. Loco, <a href="https://zh.wikipedia.org/wiki/Samuel_Seo" title="wikilink">Samuel Seo</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Qwala" title="wikilink">Qwala</a>（Feat. Loco, <a href="../Page/Samuel_Seo.md" title="wikilink">Samuel Seo</a>）</p></td>
 <td><p>《Monsta Truck 2014》</p></td>
 <td><p>作词、Feat.</p></td>
-<td><p>作词：<a href="https://zh.wikipedia.org/wiki/Qwala" title="wikilink">Qwala</a>、Loco、<a href="https://zh.wikipedia.org/wiki/Samuel_Seo" title="wikilink">Samuel Seo</a><br />
-Feat.：Loco、<a href="https://zh.wikipedia.org/wiki/Samuel_Seo" title="wikilink">Samuel Seo</a></p></td>
+<td><p>作词：<a href="https://zh.wikipedia.org/wiki/Qwala" title="wikilink">Qwala</a>、Loco、<a href="../Page/Samuel_Seo.md" title="wikilink">Samuel Seo</a><br />
+Feat.：Loco、<a href="../Page/Samuel_Seo.md" title="wikilink">Samuel Seo</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年3月18日</p></td>
@@ -705,11 +705,11 @@ Feat.：Loco、<a href="https://zh.wikipedia.org/wiki/TakeOne" title="wikilink">
 <tr class="even">
 <td><p>2016年5月2日</p></td>
 <td><p>Local Market</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TK_(歌手)" title="wikilink">TK</a>（Feat. Loco &amp; <a href="https://zh.wikipedia.org/wiki/Suran" title="wikilink">Suran</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TK_(歌手)" title="wikilink">TK</a>（Feat. Loco &amp; <a href="../Page/Suran.md" title="wikilink">Suran</a>）</p></td>
 <td><p>《Tourist》</p></td>
 <td><p>作词、Feat.</p></td>
 <td><p>作词：<a href="https://zh.wikipedia.org/wiki/TK_(歌手)" title="wikilink">TK</a>、Loco<br />
-Feat.：Loco、<a href="https://zh.wikipedia.org/wiki/Suran" title="wikilink">Suran</a></p></td>
+Feat.：Loco、<a href="../Page/Suran.md" title="wikilink">Suran</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年5月13日</p></td>
@@ -758,7 +758,7 @@ Feat.：Loco</p></td>
 <tr class="even">
 <td><p>2016年7月15日</p></td>
 <td><p>无法忍受（못참겠어）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Eric_Nam" title="wikilink">Eric Nam</a>（Feat. Loco）</p></td>
+<td><p><a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a>（Feat. Loco）</p></td>
 <td><p>《无法忍受》（못참겠어）</p></td>
 <td><p>作词、Feat.</p></td>
 <td><p>作词：Loco、<a href="https://zh.wikipedia.org/wiki/李善雄" title="wikilink">Tablo</a><br />
@@ -843,10 +843,10 @@ Feat.：Loco</p></td>
 <tr class="even">
 <td><p>2017年9月4日</p></td>
 <td><p>時差 (We Are)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/禹元宰" title="wikilink">禹元宰</a>（Feat. Loco、Gray）</p></td>
+<td><p><a href="../Page/禹元宰.md" title="wikilink">禹元宰</a>（Feat. Loco、Gray）</p></td>
 <td></td>
 <td><p>作词、Feat.</p></td>
-<td><p>作词：<a href="https://zh.wikipedia.org/wiki/禹元宰" title="wikilink">禹元宰</a>、Loco、<a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a></p></td>
+<td><p>作词：<a href="../Page/禹元宰.md" title="wikilink">禹元宰</a>、Loco、<a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年9月6日</p></td>
@@ -925,7 +925,7 @@ Feat.：Loco</p></td>
 <td><p>2014年4月9日</p></td>
 <td><p>Show Me The Money 3</p></td>
 <td><p>、、、、、Loco、<a href="https://zh.wikipedia.org/wiki/JIN_DOGGAE" title="wikilink">JIN DOGGAE</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_3" title="wikilink">Show Me The Money 3</a>》</p></td>
+<td><p>《<a href="../Page/Show_Me_The_Money_3.md" title="wikilink">Show Me The Money 3</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -933,7 +933,7 @@ Feat.：Loco</p></td>
 <td><p>2015年8月15日</p></td>
 <td><p>ON IT + BO$$</p></td>
 <td><p>、Loco、<a href="../Page/朴載範.md" title="wikilink">朴載範</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_4" title="wikilink">Show Me The Money 4 Episode 4</a>》（쇼미더머니 4 Episode 4）</p></td>
+<td><p>《<a href="../Page/Show_Me_The_Money_4.md" title="wikilink">Show Me The Money 4 Episode 4</a>》（쇼미더머니 4 Episode 4）</p></td>
 <td><p>作词、Feat.</p></td>
 <td><p>作词：<a href="../Page/朴載範.md" title="wikilink">朴載範</a>、、Loco、<a href="https://zh.wikipedia.org/wiki/MASSER_MICHAEL" title="wikilink">MASSER MICHAEL</a><br />
 Feat.：<a href="../Page/朴載範.md" title="wikilink">朴載範</a>、、Loco</p></td>
@@ -941,10 +941,10 @@ Feat.：<a href="../Page/朴載範.md" title="wikilink">朴載範</a>、、Loco<
 <tr class="odd">
 <td><p>2015年10月3日</p></td>
 <td><p>Solo (Remix) (Prod. by <a href="../Page/朴載範.md" title="wikilink">朴載範</a>, )</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Yezi" title="wikilink">Yezi</a>（Feat. <a href="../Page/朴載範.md" title="wikilink">朴載範</a>, Loco）</p></td>
+<td><p><a href="../Page/Yezi.md" title="wikilink">Yezi</a>（Feat. <a href="../Page/朴載範.md" title="wikilink">朴載範</a>, Loco）</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2" title="wikilink">Unpretty Rapstar 2 Track 4</a>》（언프리티 랩스타 2 Track 4）</p></td>
 <td><p>作词、Feat.</p></td>
-<td><p>作词：<a href="../Page/朴載範.md" title="wikilink">朴載範</a>、Loco、、<a href="https://zh.wikipedia.org/wiki/Yezi" title="wikilink">Yezi</a><br />
+<td><p>作词：<a href="../Page/朴載範.md" title="wikilink">朴載範</a>、Loco、、<a href="../Page/Yezi.md" title="wikilink">Yezi</a><br />
 Feat.：<a href="../Page/朴載範.md" title="wikilink">朴載範</a>、Loco</p></td>
 </tr>
 <tr class="even">
@@ -970,7 +970,7 @@ Feat.：<a href="../Page/華莎.md" title="wikilink">華莎</a>、Loco</p></td>
 <td><p>2018年6月22日</p></td>
 <td><p>我不害怕(아깝지 않아) (Prod. by Gray)</p></td>
 <td><p>Loco、<a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>、<a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/黃致列.md" title="wikilink">黃致列</a>、<a href="https://zh.wikipedia.org/wiki/UV" title="wikilink">UV</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/The_Call" title="wikilink">The Call</a>》（4th Line Up）</p></td>
+<td><p>《<a href="../Page/The_Call.md" title="wikilink">The Call</a>》（4th Line Up）</p></td>
 <td><p>作词、作曲、Feat.</p></td>
 <td><p>作词：<a href="../Page/朴載範.md" title="wikilink">朴載範</a>、<a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>、Loco<br />
 作曲：<a href="../Page/朴載範.md" title="wikilink">朴載範</a>、<a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a><br />
@@ -986,7 +986,7 @@ Feat.：Loco、<a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>、<a
 | 年份            | 播放日期                                                                                | 节目名称                                                                                                      | 电视台                                                                                                                                                                      | 备注                                                            |
 | ------------- | ----------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------- |
 | 2012          | 6月22日－8月10日                                                                         | [Show Me the Money](../Page/Show_Me_The_Money.md "wikilink")                                              | [Mnet](../Page/Mnet媒體.md "wikilink")                                                                                                                                     | 选手及冠军                                                         |
-| 2015          | 6月26日－8月28日                                                                         | [Show Me The Money 4](https://zh.wikipedia.org/wiki/Show_Me_The_Money_4 "wikilink")                       | 导师，与[朴載範](../Page/朴載範.md "wikilink")                                                                                                                                     |                                                               |
+| 2015          | 6月26日－8月28日                                                                         | [Show Me The Money 4](../Page/Show_Me_The_Money_4.md "wikilink")                                          | 导师，与[朴載範](../Page/朴載範.md "wikilink")                                                                                                                                     |                                                               |
 | 5月22日         | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")                         | [KBS](../Page/韓國放送公社.md "wikilink")                                                                       | 嘉宾，第274集，与[朴載範](../Page/朴載範.md "wikilink")、[Gray](../Page/Gray_\(歌手\).md "wikilink")                                                                                     |                                                               |
 | 8月28日         | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")                         | [KBS](../Page/韓國放送公社.md "wikilink")                                                                       | 嘉宾，第287集，与[朴載範](../Page/朴載範.md "wikilink")、[Simon D](../Page/Simon_D.md "wikilink")                                                                                      |                                                               |
 | 11月3日         | [Two Yoo Project - Sugar Man第一季](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") | [JTBC](../Page/JTBC.md "wikilink")                                                                        | 表演歌手，第3集，与[Crush](../Page/Crush_\(歌手\).md "wikilink")                                                                                                                    |                                                               |
@@ -999,10 +999,10 @@ Feat.：Loco、<a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>、<a
 | 8月19日         | [柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")                         | [KBS](../Page/韓國放送公社.md "wikilink")                                                                       | 嘉賓，第378集，与[Gray](../Page/Gray_\(歌手\).md "wikilink")、、[DJ Pumkin](https://zh.wikipedia.org/wiki/DJ_Pumkin "wikilink")                                                     |                                                               |
 | 10月7日         | [鍵盤上的鬣狗](https://zh.wikipedia.org/wiki/鍵盤上的鬣狗 "wikilink")                           | [JTBC](../Page/JTBC.md "wikilink")                                                                        | 嘉宾，與[Gray](../Page/Gray_\(歌手\).md "wikilink")、[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink")、                                                                 |                                                               |
 | 2018          | 4月4日                                                                                | [Radio Star](https://zh.wikipedia.org/wiki/Radio_Star "wikilink")                                         | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                                                                                                                      | 嘉賓                                                            |
-| 4月5日－7月12日    | [被子外面很危險](https://zh.wikipedia.org/wiki/被子外面很危險 "wikilink")                         | 節目成員                                                                                                      |                                                                                                                                                                          |                                                               |
+| 4月5日－7月12日    | [被子外面很危險](../Page/被子外面很危險.md "wikilink")                                            | 節目成員                                                                                                      |                                                                                                                                                                          |                                                               |
 | 4月13日、20日     | [鍵盤上的鬣狗](https://zh.wikipedia.org/wiki/鍵盤上的鬣狗 "wikilink")                           | [JTBC](../Page/JTBC.md "wikilink")                                                                        | 嘉賓，與[華莎](../Page/華莎.md "wikilink")、WOOGIE                                                                                                                                |                                                               |
-| 6月15日、22日、29日 | [The Call](https://zh.wikipedia.org/wiki/The_Call "wikilink")                       | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 嘉賓，與[Gray](../Page/Gray_\(歌手\).md "wikilink")                                                                                                                            |                                                               |
-| 9月17日－10月26日  | [有品位地吃吧](../Page/有品位地吃吧.md "wikilink")                                              | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")、SBS funE                                              | 共同主持，與[李敬揆](https://zh.wikipedia.org/wiki/李敬揆 "wikilink")、[金相中](../Page/金相中.md "wikilink")、[蔡琳](../Page/蔡琳.md "wikilink")                                                |                                                               |
+| 6月15日、22日、29日 | [The Call](../Page/The_Call.md "wikilink")                                          | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 嘉賓，與[Gray](../Page/Gray_\(歌手\).md "wikilink")                                                                                                                            |                                                               |
+| 9月17日－10月26日  | [有品位地吃吧](../Page/有品位地吃吧.md "wikilink")                                              | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")、SBS funE                                              | 共同主持，與[李敬揆](../Page/李敬揆.md "wikilink")、[金相中](../Page/金相中.md "wikilink")、[蔡琳](../Page/蔡琳.md "wikilink")                                                                   |                                                               |
 | 2019          | 1月23日                                                                               | [請給一頓飯](../Page/請給一頓飯.md "wikilink")                                                                      | [JTBC](../Page/JTBC.md "wikilink")                                                                                                                                       | 嘉賓，與[Gray一同出演](https://zh.wikipedia.org/wiki/Gray "wikilink") |
 | 1月24日         | [不是你認識的我](https://zh.wikipedia.org/wiki/不是你認識的我 "wikilink")                         | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                                                     | 主要觀察對象                                                                                                                                                                   |                                                               |
 | 2月1日          | [看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")                           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | 嘉賓，與[Gray](https://zh.wikipedia.org/wiki/Gray "wikilink")、[Simon D](../Page/Simon_D.md "wikilink")、[Code Kunst一同出演](https://zh.wikipedia.org/wiki/Code_Kunst "wikilink") |                                                               |

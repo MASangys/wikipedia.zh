@@ -30,9 +30,9 @@ X·Y](https://zh.wikipedia.org/wiki/精靈寶可夢_X·Y "wikilink")》發售前
 
   - ：[小山力也](../Page/小山力也.md "wikilink")
 
-  - ：[川島得愛](https://zh.wikipedia.org/wiki/川島得愛 "wikilink")
+  - ：[川島得愛](../Page/川島得愛.md "wikilink")
 
-  - ：[稻葉實](https://zh.wikipedia.org/wiki/稻葉實 "wikilink")
+  - ：[稻葉實](../Page/稻葉實.md "wikilink")
 
   - ：[石川由依](../Page/石川由依.md "wikilink")
 
@@ -74,7 +74,7 @@ X·Y](https://zh.wikipedia.org/wiki/精靈寶可夢_X·Y "wikilink")》發售前
 <tr class="odd">
 <td><p>報告1</p></td>
 <td><p>小火龍</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廣田光毅" title="wikilink">廣田光毅</a></p></td>
+<td><p><a href="../Page/廣田光毅.md" title="wikilink">廣田光毅</a></p></td>
 <td><p><a href="../Page/川崎逸朗.md" title="wikilink">川崎逸朗</a></p></td>
 <td><p>-</p></td>
 <td><p>片桐貴悠</p></td>

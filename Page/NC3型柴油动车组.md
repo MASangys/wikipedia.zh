@@ -1,4 +1,4 @@
-**NC3型柴油动车组**是[中国铁路从](../Page/中華人民共和國鐵路運輸.md "wikilink")[匈牙利进口的](../Page/匈牙利.md "wikilink")[柴油动车组车型](https://zh.wikipedia.org/wiki/柴油动车组 "wikilink")，由[冈茨-马瓦格机车车辆工厂](https://zh.wikipedia.org/wiki/冈茨-马瓦格机车车辆工厂 "wikilink")（Ganz–MÁVAG）于1962年设计制造\[1\]\[2\]。
+**NC3型柴油动车组**是[中国铁路从](../Page/中華人民共和國鐵路運輸.md "wikilink")[匈牙利进口的](../Page/匈牙利.md "wikilink")[柴油动车组车型](https://zh.wikipedia.org/wiki/柴油动车组 "wikilink")，由[冈茨-马瓦格机车车辆工厂](../Page/冈茨-马瓦格机车车辆工厂.md "wikilink")（Ganz–MÁVAG）于1962年设计制造\[1\]\[2\]。
 
 ## 运用历史
 

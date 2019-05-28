@@ -11,7 +11,7 @@ HOUSE**》，為2016年4月17日起毎週日晚間9:00－9:54於[富士電視台
     伴奏太的第二任妻子
   - 伴奏太：[山本耕史](../Page/山本耕史.md "wikilink")
     櫻子、光太郎、新太郎、桃子的父親
-  - 伴光太郎：[加藤清史郎](https://zh.wikipedia.org/wiki/加藤清史郎 "wikilink")
+  - 伴光太郎：[加藤清史郎](../Page/加藤清史郎.md "wikilink")
     伴家長男，中學三年級學生
   - 伴新太郎：[寺田心](../Page/寺田心.md "wikilink")
     伴家次男，小學二年級學生
@@ -30,7 +30,7 @@ HOUSE**》，為2016年4月17日起毎週日晚間9:00－9:54於[富士電視台
 
 ### 其他
 
-  - 鏡准一：[犬飼貴丈](https://zh.wikipedia.org/wiki/犬飼貴丈 "wikilink")
+  - 鏡准一：[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")
   - 大川多美：[西本まりん](https://zh.wikipedia.org/wiki/西本まりん "wikilink")
   - 早川南：
   - 須磨省吾：

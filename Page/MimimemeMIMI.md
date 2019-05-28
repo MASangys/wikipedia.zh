@@ -181,7 +181,7 @@ AZNT-30（會場限定盤）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/洪门剑灵传说" title="wikilink">洪门剑灵传说</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="../Page/洪门剑灵传说.md" title="wikilink">洪门剑灵传说</a>》片頭曲</p></td>
 <td><p>2014年</p></td>
 </tr>
 <tr class="even">
@@ -211,7 +211,7 @@ AZNT-30（會場限定盤）</p></td>
 </tr>
 <tr class="odd">
 <td><p>天手古舞</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/姐姐的妄想日記" title="wikilink">姐姐的妄想日記</a>》《<a href="https://zh.wikipedia.org/wiki/偷×看" title="wikilink">偷×看</a>》片頭曲[12]</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/姐姐的妄想日記" title="wikilink">姐姐的妄想日記</a>》《<a href="../Page/偷×看.md" title="wikilink">偷×看</a>》片頭曲[12]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -221,7 +221,7 @@ AZNT-30（會場限定盤）</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/天真與閃電" title="wikilink">天真與閃電</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="../Page/天真與閃電.md" title="wikilink">天真與閃電</a>》片頭曲</p></td>
 <td></td>
 </tr>
 <tr class="even">

@@ -119,7 +119,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Love_Yourself_承_&#39;Her&#39;" title="wikilink">DNA</a>[10]</p></td>
+<td><p><a href="../Page/Love_Yourself_承_&#39;Her&#39;.md" title="wikilink">DNA</a>[10]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
 <td><p>7.18</p></td>
 <td><p>2017年9月18日</p></td>
@@ -127,7 +127,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/As_If_It&#39;s_Your_Last" title="wikilink">AS IF IT'S YOUR LAST</a>[11]</p></td>
+<td><p><a href="../Page/As_If_It&#39;s_Your_Last.md" title="wikilink">AS IF IT'S YOUR LAST</a>[11]</p></td>
 <td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
 <td><p>5.83</p></td>
 <td><p>2017年6月22日</p></td>
@@ -159,7 +159,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Love_Yourself_承_&#39;Her&#39;" title="wikilink">MIC Drop (Steve Aoki Remix)</a>[15]</p></td>
+<td><p><a href="../Page/Love_Yourself_承_&#39;Her&#39;.md" title="wikilink">MIC Drop (Steve Aoki Remix)</a>[15]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
 <td><p>4.87</p></td>
 <td><p>2017年11月24日</p></td>
@@ -239,7 +239,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="even">
 <td><p>20</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Twicetagram" title="wikilink">LIKEY</a>[25]</p></td>
+<td><p><a href="../Page/Twicetagram.md" title="wikilink">LIKEY</a>[25]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td><p>3.75</p></td>
 <td><p>2017年10月30日</p></td>
@@ -255,7 +255,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="even">
 <td><p>22</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BBoom_BBoom" title="wikilink">BBoom BBoom</a>[27]</p></td>
+<td><p><a href="../Page/BBoom_BBoom.md" title="wikilink">BBoom BBoom</a>[27]</p></td>
 <td><p><a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a></p></td>
 <td><p>3.47</p></td>
 <td><p>2018年1月3日</p></td>
@@ -295,7 +295,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Return_(iKON專輯)" title="wikilink">LOVE SCENARIO</a>[32]</p></td>
+<td><p><a href="../Page/Return_(iKON專輯).md" title="wikilink">LOVE SCENARIO</a>[32]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a></p></td>
 <td><p>2.95</p></td>
 <td><p>2018年1月25日</p></td>
@@ -304,7 +304,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 <tr class="even">
 <td><p>28</p></td>
 <td><p><a href="../Page/Solo_(單曲).md" title="wikilink">SOLO</a>[33]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Jennie_(韓國歌手)" title="wikilink">JENNIE</a></p></td>
+<td><p><a href="../Page/Jennie_(韓國歌手).md" title="wikilink">JENNIE</a></p></td>
 <td><p>2.93</p></td>
 <td><p>2018年11月12日</p></td>
 <td></td>
@@ -319,7 +319,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="even">
 <td><p>30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/What_is_Love?" title="wikilink">What is Love?</a>[35]</p></td>
+<td><p><a href="../Page/What_is_Love?.md" title="wikilink">What is Love?</a>[35]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td><p>2.89</p></td>
 <td><p>2018年4月9日</p></td>
@@ -351,7 +351,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="even">
 <td><p>34</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Merry&amp;Happy" title="wikilink">Heart Shaker</a><ref>{{Citation|last=jypentertainment|title=TWICE "Heart Shaker" M/V|date=2017-12-11|url=<a href="https://www.youtube.com/watch?v=">https://www.youtube.com/watch?v=</a></p></td>
+<td><p><a href="../Page/Merry&amp;Happy.md" title="wikilink">Heart Shaker</a><ref>{{Citation|last=jypentertainment|title=TWICE "Heart Shaker" M/V|date=2017-12-11|url=<a href="https://www.youtube.com/watch?v=">https://www.youtube.com/watch?v=</a></p></td>
 <td><p>accessdate=2018-08-10}}</ref></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td><p>2.64</p></td>
@@ -368,7 +368,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 <tr class="even">
 <td><p>36</p></td>
 <td><p>[40]</p></td>
-<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a> feat.<a href="https://zh.wikipedia.org/wiki/海爾希_(歌手)" title="wikilink">Halsey</a></p></td>
+<td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a> feat.<a href="../Page/海爾希_(歌手).md" title="wikilink">Halsey</a></p></td>
 <td><p>2.50</p></td>
 <td><p>2019年4月12日</p></td>
 <td></td>
@@ -376,7 +376,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 <tr class="odd">
 <td><p>37</p></td>
 <td><p>[41]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GD_X_TAEYANG" title="wikilink">GD X TAEYANG</a> (<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>)</p></td>
+<td><p><a href="../Page/GD_X_TAEYANG.md" title="wikilink">GD X TAEYANG</a> (<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>)</p></td>
 <td><p>2.38</p></td>
 <td><p>2014年11月20日</p></td>
 <td></td>
@@ -431,7 +431,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="even">
 <td><p>44</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_War" title="wikilink">Ko Ko Bop</a>[48]</p></td>
+<td><p><a href="../Page/The_War.md" title="wikilink">Ko Ko Bop</a>[48]</p></td>
 <td><p><a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
 <td><p>2.17</p></td>
 <td><p>2017年7月18日</p></td>
@@ -439,7 +439,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="odd">
 <td><p>45</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Signal_(TWICE迷你專輯)" title="wikilink">SIGNAL</a>[49]</p></td>
+<td><p><a href="../Page/Signal_(TWICE迷你專輯).md" title="wikilink">SIGNAL</a>[49]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td><p>2.10</p></td>
 <td><p>2017年5月15日</p></td>
@@ -448,7 +448,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 <tr class="even">
 <td><p>46</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/The_Perfect_Red_Velvet" title="wikilink">Bad Boy</a>[50]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>2.05</p></td>
 <td><p>2018年1月29日</p></td>
 <td></td>
@@ -471,7 +471,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="odd">
 <td><p>49</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DARK_&amp;_WILD" title="wikilink">War of Hormone</a>[53]</p></td>
+<td><p><a href="../Page/DARK_&amp;_WILD.md" title="wikilink">War of Hormone</a>[53]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
 <td><p>1.88</p></td>
 <td><p>2014年10月21日</p></td>
@@ -519,7 +519,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="odd">
 <td><p>55</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Summer_Nights" title="wikilink">Dance The Night Away</a>[59]</p></td>
+<td><p><a href="../Page/Summer_Nights.md" title="wikilink">Dance The Night Away</a>[59]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td><p>1.70</p></td>
 <td><p>2018年7月9日</p></td>
@@ -608,7 +608,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 <tr class="even">
 <td><p>66</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Russian_Roulette_(Red_Velvet迷你專輯)" title="wikilink">Russian Roulette</a>[70]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>1.44</p></td>
 <td><p>2016年9月6日</p></td>
 <td></td>
@@ -655,15 +655,15 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="even">
 <td><p>72</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Perfect_Velvet" title="wikilink">Peek-A-Boo</a>[76]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Perfect_Velvet.md" title="wikilink">Peek-A-Boo</a>[76]</p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>1.34</p></td>
 <td><p>2017年11月17日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>73</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Al1" title="wikilink">Don't Wanna Cry</a>[77]</p></td>
+<td><p><a href="../Page/Al1.md" title="wikilink">Don't Wanna Cry</a>[77]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a></p></td>
 <td><p>1.32</p></td>
 <td><p>2017年5月22日</p></td>
@@ -679,7 +679,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="odd">
 <td><p>75</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DARK_&amp;_WILD" title="wikilink">Danger</a>[79]</p></td>
+<td><p><a href="../Page/DARK_&amp;_WILD.md" title="wikilink">Danger</a>[79]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
 <td><p>1.27</p></td>
 <td><p>2014年8月19日</p></td>
@@ -687,8 +687,8 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="even">
 <td><p>76</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/The_Red_Summer" title="wikilink">Red Flavor</a>[80]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/The_Red_Summer.md" title="wikilink">Red Flavor</a>[80]</p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>1.22</p></td>
 <td><p>2017年7月8日</p></td>
 <td></td>
@@ -719,7 +719,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="even">
 <td><p>80</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Stand_Up_(BIGBANG迷你專輯)" title="wikilink">HARU HARU</a>[84]</p></td>
+<td><p><a href="../Page/Stand_Up_(BIGBANG迷你專輯).md" title="wikilink">HARU HARU</a>[84]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a></p></td>
 <td><p>1.19</p></td>
 <td><p>2008年8月8日</p></td>
@@ -736,7 +736,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 <tr class="even">
 <td><p>82</p></td>
 <td><p><a href="../Page/The_Red.md" title="wikilink">Dumb Dumb</a>[86]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>1.16</p></td>
 <td><p>2015年9月8日</p></td>
 <td></td>
@@ -799,7 +799,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="even">
 <td><p>90</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Palette_(IU专辑)" title="wikilink">Palette</a>[94]</p></td>
+<td><p><a href="../Page/Palette_(IU专辑).md" title="wikilink">Palette</a>[94]</p></td>
 <td><p><a href="../Page/IU_(艺人).md" title="wikilink">IU</a> ft.<a href="../Page/G-Dragon.md" title="wikilink">G-DRAGON</a></p></td>
 <td><p>1.11</p></td>
 <td><p>2017年4月21日</p></td>
@@ -815,8 +815,8 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="even">
 <td><p>92</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/I_am" title="wikilink">LATATA</a>[96]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/(G)I-DLE" title="wikilink">(G)I-DLE</a></p></td>
+<td><p><a href="../Page/I_am.md" title="wikilink">LATATA</a>[96]</p></td>
+<td><p><a href="../Page/(G)I-DLE.md" title="wikilink">(G)I-DLE</a></p></td>
 <td><p>1.10</p></td>
 <td><p>2018年5月2日</p></td>
 <td></td>
@@ -871,7 +871,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 </tr>
 <tr class="odd">
 <td><p>99</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DARK_&amp;_WILD" title="wikilink">We Are Bulletproof Pt2</a>[103]</p></td>
+<td><p><a href="../Page/DARK_&amp;_WILD.md" title="wikilink">We Are Bulletproof Pt2</a>[103]</p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
 <td><p>1.05</p></td>
 <td><p>2013年7月16日</p></td>
@@ -921,7 +921,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 <a href="../Page/WINNER.md" title="wikilink">WINNER</a><br />
 <a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a><br />
 <a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a><br />
-<a href="https://zh.wikipedia.org/wiki/Jennie_(韓國歌手)" title="wikilink">JENNIE</a></p></td>
+<a href="../Page/Jennie_(韓國歌手).md" title="wikilink">JENNIE</a></p></td>
 <td><p>2001<br />
 2006<br />
 2008<br />
@@ -949,7 +949,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 <a href="../Page/SHINee.md" title="wikilink">SHINee</a><br />
 <a href="../Page/F(x)_(組合).md" title="wikilink">f(x)</a><br />
 <a href="../Page/EXO.md" title="wikilink">EXO</a><br />
-<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a><br />
+<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a><br />
 <a href="../Page/太妍.md" title="wikilink">太妍</a></p></td>
 <td><p>2005<br />
 2007<br />
@@ -992,7 +992,7 @@ STYLE和](../Page/江南Style.md "wikilink")[GENTLEMAN是唯二在YouTube上达�
 <td><p><a href="../Page/4minute.md" title="wikilink">4MINUTE</a><br />
 <a href="https://zh.wikipedia.org/wiki/泫雅" title="wikilink">泫雅</a><br />
 <a href="../Page/Pentagon_(男子組合).md" title="wikilink">PENTAGON</a><br />
-<a href="https://zh.wikipedia.org/wiki/(G)I-DLE" title="wikilink">(G)I-DLE</a></p></td>
+<a href="../Page/(G)I-DLE.md" title="wikilink">(G)I-DLE</a></p></td>
 <td><p>2009<br />
 2010<br />
 2016<br />

@@ -32,7 +32,7 @@
     助理律師\[5\]。
   - 貓田純一
     演 -
-    [杉本哲太](https://zh.wikipedia.org/wiki/杉本哲太 "wikilink")（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
+    [杉本哲太](../Page/杉本哲太.md "wikilink")（香港配音：[招世亮](../Page/招世亮.md "wikilink")）
     Good Partner律師。
   - 城之内麻里（城ノ内麻里）
     演 - （香港配音：[吳羨婷](../Page/吳羨婷.md "wikilink")）
@@ -102,7 +102,7 @@
     演 - （香港配音：[曹啟謙](../Page/曹啟謙.md "wikilink")）
     前園的部下。
   - 橋本直之
-    演 - （香港配音：[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")）
+    演 - （香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）
     「帝都廣告」法務部課長。
   - 柿内萌子
     演 - 前野惠（香港配音：[朱妙蘭](../Page/朱妙蘭.md "wikilink")）
@@ -238,7 +238,7 @@
     「桂綜合醫院」外科醫生。
   - 久米杏奈
     演 -
-    [坂井裕美](https://zh.wikipedia.org/wiki/坂井裕美 "wikilink")（香港配音：[李潤知](https://zh.wikipedia.org/wiki/李潤知 "wikilink")）
+    [坂井裕美](https://zh.wikipedia.org/wiki/坂井裕美 "wikilink")（香港配音：[李潤知](../Page/李潤知.md "wikilink")）
     「桂綜合醫院」員工。
   - 原真利奈
     演 - （香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
@@ -258,7 +258,7 @@
     演 - （香港配音：[林芷筠](../Page/林芷筠.md "wikilink")）
     「神宮寺法律事務所」的客戶。
   - 葛原泉美
-    演 - （香港配音：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")）
+    演 - （香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
     葛原的女兒。
   - 鈴木佐奈子
     演 - [吉田直未](https://zh.wikipedia.org/wiki/吉田直未 "wikilink")

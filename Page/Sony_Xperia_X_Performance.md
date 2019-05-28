@@ -3,7 +3,7 @@
 曲面玻璃顯示幕、[Snapdragon](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")
 820 處理器、3 GB 記憶體。2,300萬畫素主鏡頭，120fps慢動作錄影，支援 IP65 / 68
 防水、防塵功能，配有指紋傳感器。同時發佈X系列的[Xperia
-X及](https://zh.wikipedia.org/wiki/Sony_Xperia_X "wikilink")[Xperia
+X及](../Page/Sony_Xperia_X.md "wikilink")[Xperia
 XA](https://zh.wikipedia.org/wiki/Xperia_XA "wikilink")。
 
 Xperia X
@@ -11,7 +11,7 @@ Performance為安卓作業系統的旗艦級高階智慧型手機。同期(2016�
 [iPhone 6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")、[HTC
 10](../Page/HTC_10.md "wikilink")、[Huawei
 P9](https://zh.wikipedia.org/wiki/Huawei_P9 "wikilink")、[LG
-G5](https://zh.wikipedia.org/wiki/LG_G5 "wikilink") 與[Samsung Galaxy
+G5](../Page/LG_G5.md "wikilink") 與[Samsung Galaxy
 S7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S7 "wikilink")。\[1\]
 
 Xperia X Performance為Sony Xperia X系列中第一部旗艦級手機。

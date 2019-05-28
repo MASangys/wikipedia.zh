@@ -1,4 +1,4 @@
-《**Master－麵條之神**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2016年4月27日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由《[加油，金先生！](../Page/加油，金先生！.md "wikilink")》、《[鋼鐵人](https://zh.wikipedia.org/wiki/鋼鐵人_\(電視劇\) "wikilink")》[金鐘淵導演執導](https://zh.wikipedia.org/wiki/金鐘淵 "wikilink")、《[感激時代：鬪神的誕生](../Page/感激時代：鬪神的誕生.md "wikilink")》[蔡承代編劇執筆](https://zh.wikipedia.org/wiki/蔡承代 "wikilink")，改編自[朴寅權畫家的漫畫作品](https://zh.wikipedia.org/wiki/朴寅權 "wikilink")《**麵條之神**》，講述了為了復仇而鑽研麵條技術的男主角的成長故事。\[1\]
+《**Master－麵條之神**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2016年4月27日起播出的[水木連續劇](../Page/KBS水木連續劇.md "wikilink")，由《[加油，金先生！](../Page/加油，金先生！.md "wikilink")》、《[鋼鐵人](../Page/鋼鐵人_\(電視劇\).md "wikilink")》[金鐘淵導演執導](https://zh.wikipedia.org/wiki/金鐘淵 "wikilink")、《[感激時代：鬪神的誕生](../Page/感激時代：鬪神的誕生.md "wikilink")》[蔡承代編劇執筆](https://zh.wikipedia.org/wiki/蔡承代 "wikilink")，改編自[朴寅權畫家的漫畫作品](https://zh.wikipedia.org/wiki/朴寅權 "wikilink")《**麵條之神**》，講述了為了復仇而鑽研麵條技術的男主角的成長故事。\[1\]
 
 ## 演員陣容
 
@@ -72,7 +72,7 @@
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金宰英" title="wikilink">金宰英</a><br />
+<td><p><a href="../Page/金宰英.md" title="wikilink">金宰英</a><br />
 <small>少年：<a href="https://zh.wikipedia.org/wiki/安元鎮" title="wikilink">安元鎮</a></small></p></td>
 <td><p>高吉勇</p></td>
 <td><p>是保育院四人幫中的一名。雖然是個經常闖禍的民害，卻有著溫暖的內心。暗戀著汝景，默默的在一旁守候，以長腿叔叔自稱，照顧著汝景。</p></td>
@@ -103,14 +103,14 @@
 
 ### 其他角色
 
-|                                                     |        |        |
-| --------------------------------------------------- | ------ | ------ |
-| **演員**                                              | **角色** | **介紹** |
-| [曹熙奉](../Page/曹熙奉.md "wikilink")                    | 都久     | 黑幫老大   |
-| [金炳基](../Page/金炳基.md "wikilink")                    | 蘇泰燮    | 議員     |
-| [徐宜淑](https://zh.wikipedia.org/wiki/徐宜淑 "wikilink") | 薛美子    | 美食評論家  |
-| [嚴孝燮](../Page/嚴孝燮.md "wikilink")                    | 崔成道    | 議員     |
-| [車道鎮](../Page/車道鎮.md "wikilink")                    | 李基白    | 副麵長    |
+|                                  |        |        |
+| -------------------------------- | ------ | ------ |
+| **演員**                           | **角色** | **介紹** |
+| [曹熙奉](../Page/曹熙奉.md "wikilink") | 都久     | 黑幫老大   |
+| [金炳基](../Page/金炳基.md "wikilink") | 蘇泰燮    | 議員     |
+| [徐宜淑](../Page/徐宜淑.md "wikilink") | 薛美子    | 美食評論家  |
+| [嚴孝燮](../Page/嚴孝燮.md "wikilink") | 崔成道    | 議員     |
+| [車道鎮](../Page/車道鎮.md "wikilink") | 李基白    | 副麵長    |
 
 ### 客串演出
 
@@ -126,7 +126,7 @@
 | [朴智煥](https://zh.wikipedia.org/wiki/朴智煥 "wikilink") | 二哲     | 都久的小弟        |
 | [林度允](https://zh.wikipedia.org/wiki/林度允 "wikilink") | 洪燦英    | 餐夫，無名在宮樂園的臥底 |
 | [李英真](https://zh.wikipedia.org/wiki/李英真 "wikilink") | 金警長    | 調查員          |
-| [崔秉默](https://zh.wikipedia.org/wiki/崔秉默 "wikilink") | 安忠勇    | 大檢特殊部部長      |
+| [崔秉默](../Page/崔秉默.md "wikilink")                    | 安忠勇    | 大檢特殊部部長      |
 
 ### 特別演出
 

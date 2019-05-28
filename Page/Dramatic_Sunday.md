@@ -29,7 +29,7 @@ Sunday**（）是[日本](../Page/日本.md "wikilink")[富士電視台及其](.
       - 導演：[土方政人](https://zh.wikipedia.org/wiki/土方政人 "wikilink")、岩田和行 等
       - 製作人：永井麗子
       - 音樂：[延近輝之](https://zh.wikipedia.org/wiki/延近輝之 "wikilink")
-      - 主題歌：[Sambomaster](https://zh.wikipedia.org/wiki/Sambomaster "wikilink")「希望之道」
+      - 主題歌：[Sambomaster](../Page/Sambomaster.md "wikilink")「希望之道」
       - 製作著作：共同電視
   - 4月24日－7月3日：**[MARUMO的規定](../Page/MARUMO的規定.md "wikilink")**（）
       - 出演：[阿部貞夫](../Page/阿部貞夫.md "wikilink")、[蘆田愛菜](../Page/蘆田愛菜.md "wikilink")、[鈴木福](../Page/鈴木福.md "wikilink")、[世良公則](https://zh.wikipedia.org/wiki/世良公則 "wikilink")、[比嘉愛未](../Page/比嘉愛未.md "wikilink")、[伊武雅刀等](../Page/伊武雅刀.md "wikilink")
@@ -112,7 +112,7 @@ Sunday**（）是[日本](../Page/日本.md "wikilink")[富士電視台及其](.
 #### 2013年
 
   - 1月13日－3月：**[dinner](https://zh.wikipedia.org/wiki/dinner "wikilink")**（）
-      - 出演：[江口洋介](../Page/江口洋介.md "wikilink")、[倉科佳奈](https://zh.wikipedia.org/wiki/倉科佳奈 "wikilink")、、[風間杜夫](../Page/風間杜夫.md "wikilink")、[松重豐](https://zh.wikipedia.org/wiki/松重豐 "wikilink")、[袴田吉彥](https://zh.wikipedia.org/wiki/袴田吉彥 "wikilink")、[關惠美等](../Page/關惠美.md "wikilink")
+      - 出演：[江口洋介](../Page/江口洋介.md "wikilink")、[倉科佳奈](https://zh.wikipedia.org/wiki/倉科佳奈 "wikilink")、、[風間杜夫](../Page/風間杜夫.md "wikilink")、[松重豐](../Page/松重豐.md "wikilink")、[袴田吉彥](https://zh.wikipedia.org/wiki/袴田吉彥 "wikilink")、[關惠美等](../Page/關惠美.md "wikilink")
       - 編成企劃：鹿内植
       - 劇本：[黑岩勉](https://zh.wikipedia.org/wiki/黑岩勉 "wikilink")
       - 導演：星護、 土方政人、城寶秀則

@@ -30,9 +30,9 @@ Framework](../Page/.NET框架.md "wikilink")
 XP用户选择修改](../Page/Windows_XP.md "wikilink")[注册表以伪装成该系统用户](../Page/注册表.md "wikilink")、欺骗[Windows
 Update](../Page/Windows_Update.md "wikilink")，从而在2019年Windows Embedded
 POSReady 2009的扩展支持结束前，继续接收可用于Windows
-XP的更新\[10\]\[11\]\[12\]。一个[非官方的](https://zh.wikipedia.org/wiki/非官方补丁 "wikilink")[Windows
+XP的更新\[10\]\[11\]\[12\]。一个[非官方的](../Page/非官方补丁.md "wikilink")[Windows
 XP](../Page/Windows_XP.md "wikilink")
-SP4亦包含该[Windows注册表](../Page/注册表.md "wikilink")“[补丁](https://zh.wikipedia.org/wiki/修補程式 "wikilink")”，以及在[产品寿命结束后针对](https://zh.wikipedia.org/wiki/產品壽命結束 "wikilink")[XP制作的其他修补](../Page/Windows_XP.md "wikilink")\[13\]。在WEPOS的支持结束后，目前仅剩下POSReady
+SP4亦包含该[Windows注册表](../Page/注册表.md "wikilink")“[补丁](https://zh.wikipedia.org/wiki/修補程式 "wikilink")”，以及在[产品寿命结束后针对](../Page/產品壽命結束.md "wikilink")[XP制作的其他修补](../Page/Windows_XP.md "wikilink")\[13\]。在WEPOS的支持结束后，目前仅剩下POSReady
 2009和[Windows Embedded
 Standard](https://zh.wikipedia.org/wiki/Windows_Embedded "wikilink")
 2009两款[XP衍生](../Page/Windows_XP.md "wikilink")[操作系统仍受官方支持](../Page/操作系统.md "wikilink")。

@@ -1,7 +1,7 @@
 《**W**》\[1\]（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年7月20日起播出的[水木連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")，由《[她很漂亮](https://zh.wikipedia.org/wiki/她很漂亮 "wikilink")》[鄭大胤導演執導](https://zh.wikipedia.org/wiki/鄭大胤 "wikilink")，《[仁顯王后的男人](../Page/仁顯王后的男人.md "wikilink")》、《[Nine：九回時間旅行](../Page/Nine：九回時間旅行.md "wikilink")》[宋在貞作者執筆](../Page/宋在貞.md "wikilink")，是一部充滿奇幻且浪漫的電視劇。\[2\]。
 W兩個世界於2016年9月14日播发完结。
 
-[myVideo](https://zh.wikipedia.org/wiki/myVideo "wikilink")、[KKTV等OTT平台均有播出](https://zh.wikipedia.org/wiki/KKTV "wikilink")。中華電信MOD龍華偶像台、龍華影劇台獲得台灣播映版權，於7月30日起播出。[Viu獲得香港播映權](../Page/Viu.md "wikilink")，每集在韓​​國首播後四小時連同繁體字幕上線。
+[myVideo](https://zh.wikipedia.org/wiki/myVideo "wikilink")、[KKTV等OTT平台均有播出](../Page/KKTV.md "wikilink")。中華電信MOD龍華偶像台、龍華影劇台獲得台灣播映版權，於7月30日起播出。[Viu獲得香港播映權](../Page/Viu.md "wikilink")，每集在韓​​國首播後四小時連同繁體字幕上線。
 
 ## 劇情簡介
 
@@ -81,7 +81,7 @@ W兩個世界於2016年9月14日播发完结。
 <td><p>1-5、7-16</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/鄭釉珍" title="wikilink">鄭釉珍</a></strong></p></td>
+<td><p><strong><a href="../Page/鄭釉珍.md" title="wikilink">鄭釉珍</a></strong></p></td>
 <td><p><strong>尹昭熙</strong></p></td>
 <td><p>30歲，姜哲的秘書兼老友。很快就能洞悉姜哲的想法。解決事情非常迅速，但和酷酷的外表不同的是她熱血又暴躁的性格，動不動就忘了自己的秘書身份，對上司姜哲嘮叨以及亂說話。高傲又性感的她彷彿實現了男人心中的所有幻想，但從高中起，她的眼裡就只有姜哲。突然出現在姜哲面前的神秘女人吳妍珠，讓她感到非常礙眼。</p></td>
 <td><p><a href="../Page/蔣篤慧.md" title="wikilink">蔣篤慧</a></p></td>
@@ -136,7 +136,7 @@ W兩個世界於2016年9月14日播发完结。
 <td><p><strong>登場集數</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/金義聖" title="wikilink">金義聖</a></strong></p></td>
+<td><p><strong><a href="../Page/金義聖.md" title="wikilink">金義聖</a></strong></p></td>
 <td><p><strong>吳成務</strong></p></td>
 <td><p>62歲，吳妍珠的爸爸，著名漫畫家，姜哲的岳父。有著藝術家的自負心，還有長時間的無名歲月帶來的自卑心。對因為貧窮而與自己離婚的妻子非常怨恨，連載漫畫也給他帶來很大壓力，是有著複雜情感的敏感男人。個性鋒利又怪異，不喝酒根本無法畫漫畫，是持有著姜哲和吳妍珠之間不為人知秘密鑰匙的人物。</p></td>
 <td><p><a href="../Page/陳幼文.md" title="wikilink">陳幼文</a></p></td>
@@ -156,7 +156,7 @@ W兩個世界於2016年9月14日播发完结。
 <td><p><strong>朴秀峰</strong></p></td>
 <td><p>27歲，吳成務的門生。外貌可怕卻是個柔弱淳樸又感性的鄉下青年，老相的他實際上卻比妍珠小很多歲，像弟弟一樣依賴著妍珠。最喜歡而且只對漫畫感興趣，為漫畫而活的人，成為吳成務的門生後，三年來只做師父的跟屁蟲。吳成務失蹤後，他比妍珠壓力更大，每天晚上都睡不著，時刻感受著恐懼的不走運的男人。</p></td>
 <td><p><a href="../Page/蘇振威.md" title="wikilink">蘇振威</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄧燦陽" title="wikilink">鄧燦陽</a></p></td>
+<td><p><a href="../Page/鄧燦陽.md" title="wikilink">鄧燦陽</a></p></td>
 <td><p>1-13</p></td>
 </tr>
 <tr class="odd">
@@ -223,7 +223,7 @@ W兩個世界於2016年9月14日播发完结。
 <td><p><strong>登場集數</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/姜其永" title="wikilink">姜其永</a></p></td>
+<td><p><a href="../Page/姜其永.md" title="wikilink">姜其永</a></p></td>
 <td><p>姜錫範</p></td>
 <td><p>30歲，明世醫院胸腔外科住院醫師，吳妍珠和金侑利的同事。由於認識的時間太長，他和妍珠成了一種無視對方性別的關係。錫範一直感到很疲憊，對人和事都有著諸多抱怨，表現欠揍，似乎對什麼都沒有興趣，只在嘲笑妍珠的事情上充滿活力。</p></td>
 <td><p><a href="../Page/蘇振威.md" title="wikilink">蘇振威</a></p></td>
@@ -302,7 +302,7 @@ W兩個世界於2016年9月14日播发完结。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金正根" title="wikilink">金正根</a></p></td>
+<td><p><a href="../Page/金正根.md" title="wikilink">金正根</a></p></td>
 <td><p>金正根</p></td>
 <td><p>新聞主播，犯罪搜查節目《W》主持人</p></td>
 <td></td>
@@ -318,7 +318,7 @@ W兩個世界於2016年9月14日播发完结。
 <td><p>6</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃石正" title="wikilink">黃石正</a></p></td>
+<td><p><a href="../Page/黃石正.md" title="wikilink">黃石正</a></p></td>
 <td></td>
 <td><p>少女漫畫作家</p></td>
 <td><p><a href="../Page/蔣篤慧.md" title="wikilink">蔣篤慧</a></p></td>
@@ -551,7 +551,7 @@ W兩個世界於2016年9月14日播发完结。
 </tr>
 <tr class="odd">
 <td><p>男子演技賞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金義聖" title="wikilink">金義聖</a></p></td>
+<td><p><a href="../Page/金義聖.md" title="wikilink">金義聖</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -714,8 +714,8 @@ W兩個世界於2016年9月14日播发完结。
 
 ## 其他
 
-  - [李鍾碩跟](../Page/李鍾碩.md "wikilink")[金義聖繼電影](https://zh.wikipedia.org/wiki/金義聖 "wikilink")《[觀相](../Page/觀相.md "wikilink")》再度合作。
-  - [李泰煥跟](../Page/李泰煥.md "wikilink")[姜其永繼](https://zh.wikipedia.org/wiki/姜其永 "wikilink")《[高校處世王](../Page/高校處世王.md "wikilink")》和《[回來吧大叔](../Page/回來吧大叔.md "wikilink")》再度合作。
+  - [李鍾碩跟](../Page/李鍾碩.md "wikilink")[金義聖繼電影](../Page/金義聖.md "wikilink")《[觀相](../Page/觀相.md "wikilink")》再度合作。
+  - [李泰煥跟](../Page/李泰煥.md "wikilink")[姜其永繼](../Page/姜其永.md "wikilink")《[高校處世王](../Page/高校處世王.md "wikilink")》和《[回來吧大叔](../Page/回來吧大叔.md "wikilink")》再度合作。
   - 8月15日播出長達100分鐘的特輯－「W完全征服」，收錄《W》第一至七集所有經典場面。
   - 9月17日播出特別篇－「W特輯－未完成的故事」，收錄《W》電視劇拍攝現場和精彩的場面以及觀眾好奇的故事。
 

@@ -75,7 +75,7 @@ BOX」版（附贈[T恤](../Page/T恤.md "wikilink")）\[4\]\[5\]\[6\]。
   - 成員
       - [大村孝佳](../Page/大村孝佳.md "wikilink") - 吉他
 
-      - [Leda](https://zh.wikipedia.org/wiki/Leda "wikilink") - 吉他
+      - [Leda](../Page/Leda.md "wikilink") - 吉他
 
       - \- 貝斯
 
@@ -87,7 +87,7 @@ BOX」版（附贈[T恤](../Page/T恤.md "wikilink")）\[4\]\[5\]\[6\]。
 
   - 成員
       - Leda - 吉他
-      - [藤岡幹大](https://zh.wikipedia.org/wiki/藤岡幹大 "wikilink") - 吉他
+      - [藤岡幹大](../Page/藤岡幹大.md "wikilink") - 吉他
       - BOH - 貝斯
       - 青山英樹 - 鼓
 

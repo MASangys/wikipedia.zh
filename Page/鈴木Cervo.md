@@ -112,7 +112,7 @@ Image:MHV Maruti Zen 02.jpg|印度馬魯蒂Zen車尾
 
 2006年 -
 睽違8年之久，第五代Cervo終於在11月7日重返日本車壇\[5\]。基本機械結構與[第六代Alto相同](https://zh.wikipedia.org/wiki/鈴木Alto#第六代HA24S/24V型（2004年-2009年） "wikilink")，車身外型設計得更為動感。開發初期原廠便已決定「[鈴木MR
-Wagon針對](https://zh.wikipedia.org/wiki/鈴木MR_Wagon "wikilink")[女性車主](../Page/女性.md "wikilink")，第五代鈴木Cervo則針對[男性車主](../Page/男性.md "wikilink")」的定位，全車做五門掀背之設計。[變速箱皆設定成四速手自排](../Page/变速器.md "wikilink")，搭配兩種動力心臟：658c.c.直列三缸DOHC
+Wagon針對](../Page/鈴木MR_Wagon.md "wikilink")[女性車主](../Page/女性.md "wikilink")，第五代鈴木Cervo則針對[男性車主](../Page/男性.md "wikilink")」的定位，全車做五門掀背之設計。[變速箱皆設定成四速手自排](../Page/变速器.md "wikilink")，搭配兩種動力心臟：658c.c.直列三缸DOHC
 VVT
 [K6A型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")，或者658c.c.直列三缸DOHC
 VVT[K6A型](https://zh.wikipedia.org/wiki/鈴木K族引擎#K6A型 "wikilink")[渦輪增壓引擎](../Page/渦輪增壓器.md "wikilink")（附中冷器）。全車標配Keyless免鑰匙感應門鎖與引擎啟動系統，其中頂級車型甚至包含符合[藍牙規範的](../Page/藍牙規範.md "wikilink")[手機](../Page/移动电话.md "wikilink")裝置。

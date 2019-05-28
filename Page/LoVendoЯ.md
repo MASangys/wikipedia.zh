@@ -478,8 +478,7 @@ Agency](https://zh.wikipedia.org/wiki/UFG#UP-FRONT_AGENCY "wikilink")。
   - Japan Festa in Bangkok 2014（8月30日、)
   - 本格音楽女子祭〜前祭〜（9月2日、TSUTAYA O-EAST）
   - GRACE ROCK MUSEUM（9月9日、TSUTAYA O-WEST） -
-    演出：[Aldious](https://zh.wikipedia.org/wiki/Aldious "wikilink")
-    / LoVendoЯ
+    演出：[Aldious](../Page/Aldious.md "wikilink") / LoVendoЯ
   - THE BIG PARADE 2014（9月15日、[代官山エリア](../Page/代官山町.md "wikilink")）
   - Kikkastock Music and Art Festival 2014（9月27日、AKIBAカルチャーズ劇場） - 魚住・宮澤
   - Lady's

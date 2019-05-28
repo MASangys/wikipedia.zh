@@ -4,7 +4,7 @@ Ultra**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[
 8.0操作系统](https://zh.wikipedia.org/wiki/Android_8.0 "wikilink")，競爭對手為[Samsung
 Galaxy S7 edge](../Page/三星Galaxy_S7.md "wikilink")、[LG
 V20](https://zh.wikipedia.org/wiki/LG_V20 "wikilink")、[Sony Xperia XZ
-Premium](https://zh.wikipedia.org/wiki/Sony_Xperia_XZ_Premium "wikilink")。
+Premium](../Page/Sony_Xperia_XZ_Premium.md "wikilink")。
 
 ## 簡介
 

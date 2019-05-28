@@ -1,5 +1,5 @@
 《**少女☆歌劇Revue
-Starlight**》（）是由[武士道和](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")共同策劃的[跨媒體製作企劃](../Page/跨媒體製作.md "wikilink")，推出了[音樂劇和](../Page/音樂劇.md "wikilink")[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]。
+Starlight**》（）是由[武士道和](../Page/武士道_\(公司\).md "wikilink")共同策劃的[跨媒體製作企劃](../Page/跨媒體製作.md "wikilink")，推出了[音樂劇和](../Page/音樂劇.md "wikilink")[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]。
 
 ## 登場人物
 
@@ -86,7 +86,7 @@ Starlight**》（）是由[武士道和](https://zh.wikipedia.org/wiki/武士道
 
 ### 製作人員
 
-  - 原作：[武士道](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")、、[Kinema
+  - 原作：[武士道](../Page/武士道_\(公司\).md "wikilink")、、[Kinema
     Citrus](../Page/Kinema_Citrus.md "wikilink")
   - 導演：古川知宏
   - 副導演、Revue衣裝、武器設計：小出卓史
@@ -132,9 +132,9 @@ Starlight**》（）是由[武士道和](https://zh.wikipedia.org/wiki/武士道
     主唱（第6話）：石動雙葉（）、花柳香子（[伊藤彩沙](../Page/伊藤彩沙.md "wikilink")）
     第7話為伴奏版本。
     主唱（第8話）：愛城華戀（小山百代）
-    主唱（第9話）：星見純那（[佐藤日向](https://zh.wikipedia.org/wiki/佐藤日向 "wikilink")）、大場奈奈（[小泉萌香](../Page/小泉萌香.md "wikilink")）
+    主唱（第9話）：星見純那（[佐藤日向](../Page/佐藤日向.md "wikilink")）、大場奈奈（[小泉萌香](../Page/小泉萌香.md "wikilink")）
     主唱（第10話）：天堂真矢（[富田麻帆](../Page/富田麻帆.md "wikilink")）、西條克勞迪恩（[相羽亞衣奈](../Page/相羽亞衣奈.md "wikilink")）
-    主唱（第11話）：星見純那（[佐藤日向](https://zh.wikipedia.org/wiki/佐藤日向 "wikilink")）、露崎真晝（）、石動雙葉（）、花柳香子（[伊藤彩沙](../Page/伊藤彩沙.md "wikilink")）、大場奈奈（[小泉萌香](../Page/小泉萌香.md "wikilink")）、天堂真矢（[富田麻帆](../Page/富田麻帆.md "wikilink")）、西條克勞迪恩（[相羽亞衣奈](../Page/相羽亞衣奈.md "wikilink")）
+    主唱（第11話）：星見純那（[佐藤日向](../Page/佐藤日向.md "wikilink")）、露崎真晝（）、石動雙葉（）、花柳香子（[伊藤彩沙](../Page/伊藤彩沙.md "wikilink")）、大場奈奈（[小泉萌香](../Page/小泉萌香.md "wikilink")）、天堂真矢（[富田麻帆](../Page/富田麻帆.md "wikilink")）、西條克勞迪恩（[相羽亞衣奈](../Page/相羽亞衣奈.md "wikilink")）
     主唱（第12話）：Starlight九九組
 
 ### 劇中歌

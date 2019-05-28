@@ -76,8 +76,7 @@
   - 2017年4月28日 [D.S. i.F. -Dal Segno- in
     Future](../Page/D.S._-Dal_Segno-.md "wikilink")
   - 2017年9月29日 D.C.III DreamDays～ダ・カーポIII～ドリームデイズ
-  - 2018年4月27日
-    [てんぷれっ\!\!](https://zh.wikipedia.org/wiki/Tenpure!! "wikilink")
+  - 2018年4月27日 [てんぷれっ\!\!](../Page/Tenpure!!.md "wikilink")
   - 2018年11月30日 スペースライブ
   - 2019年5月31日 D.C.4 ～ダ・カーポ4～
 

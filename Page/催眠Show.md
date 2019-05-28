@@ -4,8 +4,7 @@
 
 **DVD**
 
-1.  [真命天子](https://zh.wikipedia.org/wiki/真命天子_\(羅志祥歌曲\) "wikilink")
-    (Music Video)
+1.  [真命天子](../Page/真命天子_\(羅志祥歌曲\).md "wikilink") (Music Video)
 2.  自我催眠 (Music Video)
 3.  嗆司嗆司 (Music Video)
 

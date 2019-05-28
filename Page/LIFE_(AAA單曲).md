@@ -3,7 +3,7 @@ trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。\[1\]
 
 ## 概要
 
-  - A面曲《LIFE》是[富士電視台](../Page/富士電視台.md "wikilink")[月9電視劇](https://zh.wikipedia.org/wiki/月9 "wikilink")『[民眾之敵～在這世上，不是很奇怪嗎！？～](https://zh.wikipedia.org/wiki/民眾之敵～在這世上，不是很奇怪嗎！？～ "wikilink")』的主題曲。\[2\]。
+  - A面曲《LIFE》是[富士電視台](../Page/富士電視台.md "wikilink")[月9電視劇](https://zh.wikipedia.org/wiki/月9 "wikilink")『[民眾之敵～在這世上，不是很奇怪嗎！？～](../Page/民眾之敵～在這世上，不是很奇怪嗎！？～.md "wikilink")』的主題曲。\[2\]。
   - 此單曲更收錄了2017年7月9日『AAA ARENA TOUR 2017 -WAY OF
     GLORY-』[埼玉超級競技場公演](../Page/埼玉超級競技場.md "wikilink")、曲目《[MAGIC](../Page/MAGIC_\(AAA單曲\).md "wikilink")》的演唱會音源和2017年8月26日『[a-nation](https://zh.wikipedia.org/wiki/a-nation "wikilink")
     2017』[味之素球場公演](../Page/東京體育場.md "wikilink")、曲目《[Eighth

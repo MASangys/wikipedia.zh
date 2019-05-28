@@ -26,24 +26,21 @@ re-do](https://zh.wikipedia.org/wiki/me,_re-do "wikilink")》創下最多冠軍�
 
 ## 獎項
 
-  - [2016勁歌金曲優秀選第二回](https://zh.wikipedia.org/wiki/2016年勁歌金曲優秀選第二回得獎名單 "wikilink")
-    — 得獎歌曲《專業失戀30年》
+  - [2016勁歌金曲優秀選第二回](../Page/2016年勁歌金曲優秀選第二回得獎名單.md "wikilink") —
+    得獎歌曲《專業失戀30年》
   - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink") — 勁爆歌曲《聲音騷了》
   - [2016年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")
     — 專業推介叱咤十大 第四位《聲音騷了》
   - [2016年度勁歌金曲頒獎典禮](../Page/2016年度勁歌金曲得獎名單.md "wikilink") —
     勁歌金曲獎《專業失戀30年》
-  - [2017勁歌金曲優秀選第一回](https://zh.wikipedia.org/wiki/2017年勁歌金曲優秀選第一回得獎名單 "wikilink")
-    — 得獎歌曲《一刻戀上》
-  - [YAHOO\!人氣大獎2017
-    頒獎典禮](https://zh.wikipedia.org/wiki/2017年度YAHOO!搜尋人氣大獎得獎名單 "wikilink")
+  - [2017勁歌金曲優秀選第一回](../Page/2017年勁歌金曲優秀選第一回得獎名單.md "wikilink") —
+    得獎歌曲《一刻戀上》
+  - [YAHOO\!人氣大獎2017 頒獎典禮](../Page/2017年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")
     - 人氣MV《一刻戀上》
-  - [第四十屆十大中文金曲頒獎典禮](https://zh.wikipedia.org/wiki/第四十屆十大中文金曲得獎名單 "wikilink")
-    - 十大中文金曲《兄兄我我》
-  - [新城勁爆頒獎禮2017](https://zh.wikipedia.org/wiki/2017年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 勁爆歌曲《一刻戀上》
-  - [2017年度勁歌金曲頒獎典禮](https://zh.wikipedia.org/wiki/2017年度勁歌金曲得獎名單 "wikilink")
-    - 勁歌金曲獎《一刻戀上》
+  - [第四十屆十大中文金曲頒獎典禮](../Page/第四十屆十大中文金曲得獎名單.md "wikilink") -
+    十大中文金曲《兄兄我我》
+  - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆歌曲《一刻戀上》
+  - [2017年度勁歌金曲頒獎典禮](../Page/2017年度勁歌金曲得獎名單.md "wikilink") - 勁歌金曲獎《一刻戀上》
 
 [Category:C_AllStar音樂專輯](https://zh.wikipedia.org/wiki/Category:C_AllStar音樂專輯 "wikilink")
 [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

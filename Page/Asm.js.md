@@ -132,8 +132,8 @@ Mozilla指出本地编译代码的性能不是单个度量，而是一个范围�
   - [Unreal Engine
     4](https://zh.wikipedia.org/wiki/Unreal_Engine_4 "wikilink")
   - [Unity](../Page/Unity_\(游戏引擎\).md "wikilink")\[27\]
-  - [ScummVM](https://zh.wikipedia.org/wiki/ScummVM "wikilink")，它支持许多经典的冒险游戏\[28\]
-  - [Godot](https://zh.wikipedia.org/wiki/Godot "wikilink")\[29\]
+  - [ScummVM](../Page/ScummVM.md "wikilink")，它支持许多经典的冒险游戏\[28\]
+  - [Godot](../Page/Godot.md "wikilink")\[29\]
 
 ### 游戏
 

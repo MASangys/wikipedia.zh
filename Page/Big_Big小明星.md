@@ -142,7 +142,7 @@ Big小明星2017》\[5\]\[6\]\[7\]進入該節目\[8\]。
 | [鄧家禮](https://zh.wikipedia.org/wiki/:zh-yue:鄧家禮 "wikilink")（Vincent） | Vincent  | 2018年9月1日  | 2018年10月6日      |
 | [鍾晴](../Page/鍾晴_\(藝人\).md "wikilink")（Karlie）                        | Karlie   | 2017年7月1日  | 2019年2月2日\[12\] |
 | [鍾君揚](../Page/鍾君揚.md "wikilink")（Freeyon）                            | Freeyon  | 2017年7月1日  | 2019年1月19日      |
-| [何依婷](https://zh.wikipedia.org/wiki/何依婷 "wikilink")（Regina）          | Regina   | 2018年5月8日  | 2019年1月19日      |
+| [何依婷](../Page/何依婷.md "wikilink")（Regina）                             | Regina   | 2018年5月8日  | 2019年1月19日      |
 | [伍樂怡](../Page/伍樂怡.md "wikilink")（Kelly）                              | Kelly    | 2018年3月10日 | 2019年1月19日      |
 |                                                                      |          |            |                 |
 

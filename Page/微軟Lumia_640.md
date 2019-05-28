@@ -60,8 +60,7 @@ Mobile](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")。\[11\]
 ## 參見
 
   - [微軟Lumia](https://zh.wikipedia.org/wiki/微軟Lumia "wikilink")
-  - [諾基亞Lumia
-    630](https://zh.wikipedia.org/wiki/諾基亞Lumia_630 "wikilink")
+  - [諾基亞Lumia 630](../Page/諾基亞Lumia_630.md "wikilink")
   - [諾基亞Lumia 1320](../Page/諾基亞Lumia_1320.md "wikilink")
 
 ## 參考文獻

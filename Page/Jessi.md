@@ -20,7 +20,7 @@ Man](../Page/Running_Man.md "wikilink")》\[12\]、《[Happy
 Together](../Page/歡樂在一起.md "wikilink")》等各种受欢迎的综艺节目中。9月15日，推出了她的首张饶舌单曲《强势姐姐》。\[13\]10月16日，Jessi于美国[洛杉矶的贝拉斯科剧院举行了首场公演](../Page/洛杉矶.md "wikilink")，公演随着与嘻哈二人组[MIGHTY
 MOUTH的共同表演而拉开序幕](../Page/MIGHTY_MOUTH.md "wikilink")。\[14\]在《[Unpretty
 Rapstar
-2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》中，Jessi与第一季的冠军[Cheetah在](https://zh.wikipedia.org/wiki/Cheetah "wikilink")的音源任务中作为导师出演。\[15\]2015年12月，Jessi在《[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")》的舞台表演了饶舌歌曲《强势姐姐》。\[16\]
+2](https://zh.wikipedia.org/wiki/Unpretty_Rapstar_2 "wikilink")》中，Jessi与第一季的冠军[Cheetah在](../Page/Cheetah.md "wikilink")的音源任务中作为导师出演。\[15\]2015年12月，Jessi在《[Mnet亞洲音樂大獎](../Page/Mnet亞洲音樂大獎.md "wikilink")》的舞台表演了饶舌歌曲《强势姐姐》。\[16\]
 
 2016年，Jessi作为固定成员出演了KBS的综艺节目《[姐姐們的Slam
 Dunk](../Page/姐姐們的Slam_Dunk.md "wikilink")》第一季。\[17\]
@@ -59,7 +59,7 @@ tag》。\[24\]\[25\]除了Tiffany外，她的朋友还包括[4minute前成员�
 <td><p>Get Up</p></td>
 <td><ul>
 <li>发行日期：2005年12月1日</li>
-<li>发行公司：<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Doremi Records</a></li>
+<li>发行公司：<a href="../Page/Genie音樂.md" title="wikilink">Doremi Records</a></li>
 <li>发行介质：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">数位音乐下载</a></li>
 </ul></td>
 <td><p>—</p></td>
@@ -89,7 +89,7 @@ tag》。\[24\]\[25\]除了Tiffany外，她的朋友还包括[4minute前成员�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/UN2VERSE" title="wikilink">UN2VERSE</a>[33]</p></td>
+<td><p><a href="../Page/UN2VERSE.md" title="wikilink">UN2VERSE</a>[33]</p></td>
 <td><ul>
 <li>发行日期：2017年7月13日</li>
 <li>发行公司：<a href="https://zh.wikipedia.org/wiki/YMC娱乐" title="wikilink">YMC娱乐</a>、<a href="https://zh.wikipedia.org/wiki/LOEN娛樂" title="wikilink">LOEN娛樂</a></li>
@@ -214,7 +214,7 @@ tag》。\[24\]\[25\]除了Tiffany外，她的朋友还包括[4minute前成员�
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p>My Type (Prod. By )（with <a href="https://zh.wikipedia.org/wiki/Cheetah" title="wikilink">Cheetah</a> feat. <a href="../Page/滑川康男.md" title="wikilink">滑川康男</a>）</p></td>
+<td><p>My Type (Prod. By )（with <a href="../Page/Cheetah.md" title="wikilink">Cheetah</a> feat. <a href="../Page/滑川康男.md" title="wikilink">滑川康男</a>）</p></td>
 <td><p>2</p></td>
 <td><ul>
 <li>KOR: 778,193+[43]</li>
@@ -440,7 +440,7 @@ tag》。\[24\]\[25\]除了Tiffany外，她的朋友还包括[4minute前成员�
 | 11月27日       | [柳喜烈的寫生簿](../Page/柳喜烈的寫生簿.md "wikilink")                                               | [KBS](../Page/韓國放送公社.md "wikilink")                                                    | 嘉宾                                      |        |
 | 11月29日       | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")\[56\]                                   | [MBC](../Page/文化廣播公司.md "wikilink")                                                    | 参赛者                                     |        |
 | 12月16日       | [黄金渔场 Radio Star](../Page/黄金渔场_Radio_Star.md "wikilink")\[57\]                         | 嘉宾                                                                                     |                                         |        |
-| 12月28日       | [Healing Camp](https://zh.wikipedia.org/wiki/Healing_Camp "wikilink")\[58\]            | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                                |                                         |        |
+| 12月28日       | [Healing Camp](../Page/Healing_Camp.md "wikilink")\[58\]                               | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                                |                                         |        |
 | 2016         | 1月30日                                                                                  | [同床異夢，沒關係沒關係](../Page/同床異夢，沒關係沒關係.md "wikilink")                                       | [SBS](../Page/SBS_\(韓國\).md "wikilink") |        |
 | 3月4日         | [我獨自生活](../Page/我獨自生活.md "wikilink")                                                   | [MBC](../Page/文化廣播公司.md "wikilink")                                                    |                                         |        |
 | 3月14日-3月21日  | [拜托了冰箱](../Page/拜托了冰箱.md "wikilink")\[59\]                                             | [JTBC](../Page/JTBC.md "wikilink")                                                     |                                         |        |
@@ -454,7 +454,7 @@ tag》。\[24\]\[25\]除了Tiffany外，她的朋友还包括[4minute前成员�
 | 9月8日         | [Happy Together](../Page/歡樂在一起.md "wikilink")\[61\]                                    | [KBS](../Page/韓國放送公社.md "wikilink")                                                    | 嘉宾                                      |        |
 | 2017         | 2月10日-3月31日                                                                            | [高等Rapper](../Page/高等Rapper.md "wikilink")                                             | [Mnet](../Page/Mnet媒體.md "wikilink")    | 导师     |
 | 7月22日        | [柳喜烈的寫生簿](../Page/柳喜烈的寫生簿.md "wikilink")                                               | [KBS](../Page/韓國放送公社.md "wikilink")                                                    | 嘉宾                                      |        |
-| 8月20日-8月27日  | [Fantastic Duo 2](https://zh.wikipedia.org/wiki/Fantastic_Duo_2 "wikilink")            | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                                | 參賽者                                     |        |
+| 8月20日-8月27日  | [Fantastic Duo 2](../Page/Fantastic_Duo_2.md "wikilink")                               | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                                | 參賽者                                     |        |
 |              | [Mix at the City](https://zh.wikipedia.org/wiki/Mix_at_the_City "wikilink")            | [JTBC](../Page/JTBC.md "wikilink")                                                     | 固定成員                                    |        |
 | 12月17日       | [我家的熊孩子](../Page/我家的熊孩子.md "wikilink")                                                 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                                | 嘉宾                                      |        |
 | 2018         | 3月7日                                                                                   | [請給一頓飯](../Page/請給一頓飯.md "wikilink")                                                   | [JTBC](../Page/JTBC.md "wikilink")      | 嘉宾     |

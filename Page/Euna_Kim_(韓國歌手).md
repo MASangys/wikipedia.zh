@@ -30,11 +30,11 @@ Money》第五季的舞台中。12月，与Maroo娱乐签署合约。
 
 2017年11月3日，以前組合**THE
 ARK**成員的身份出演[KBS2偶像重振計劃](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》\[5\]。
+Unit](../Page/The_Unit.md "wikilink")》\[5\]。
 
 2018年3月26日，據媒體報導，將和[全珉柱組成分隊](../Page/全珉柱.md "wikilink")，並獲得公司證實正在討論相關細節\[6\]。
 
-2018年4月12日，[Maroo企劃表示](https://zh.wikipedia.org/wiki/Maroo企劃 "wikilink")[全珉柱與Euna](../Page/全珉柱.md "wikilink")
+2018年4月12日，[Maroo企劃表示](../Page/Maroo企劃.md "wikilink")[全珉柱與Euna](../Page/全珉柱.md "wikilink")
 Kim組成了雙人組合[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")，目前正以5月中旬出道為目標進行相關準備工作\[7\]。
 
 2018年5月23日，Euna

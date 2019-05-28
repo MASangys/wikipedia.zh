@@ -45,7 +45,7 @@ Romance**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikili
 <td><p><a href="../Page/梁偉德.md" title="wikilink">梁偉德</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Yura" title="wikilink">Yura</a></p></td>
+<td><p><a href="../Page/Yura.md" title="wikilink">Yura</a></p></td>
 <td><p>陳泰梨</p></td>
 <td><p>28歲，曾經是一線女演員，但三年前因為酒駕事件，事業陷入低谷。最後和俊宇在一起。</p></td>
 <td><p><a href="../Page/黃昕瑜.md" title="wikilink">黃昕瑜</a></p></td>
@@ -121,7 +121,7 @@ Romance**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikili
 <td></td>
 <td><p>乾旱</p></td>
 <td><p>電台作家，輔助作家第三年，製作的節目總是獲得低迷的收聽率。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廖杏茵" title="wikilink">廖杏茵</a></p></td>
+<td><p><a href="../Page/廖杏茵.md" title="wikilink">廖杏茵</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -213,14 +213,14 @@ Romance**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikili
 
 ### 特別出演
 
-|                                        |        |                                             |          |                                                     |
-| -------------------------------------- | ------ | ------------------------------------------- | -------- | --------------------------------------------------- |
-| **演員**                                 | **角色** | **介紹**                                      | **出演集數** | **粵語配音**                                            |
-| [U-Kwon](../Page/U-Kwon.md "wikilink") | 姜Minu  | 明星兼電臺DJ，答應可琳主持節目「Minu六點的幸福時光」，後拋下主持節目的承諾出國。 | 1        | [陳灝瑋](../Page/陳灝瑋.md "wikilink")                    |
-| [池一株](../Page/池一株.md "wikilink")       | 吳鎮修    | 與秀浩合作古代劇的男演員。                               | 2、3      | [林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink") |
-| [鄭奎洙](../Page/鄭奎洙.md "wikilink")       | 爺爺     | 在鄉間誤當秀浩是他離家多年的兒子的老爺爺。                       | 4        | [朱子聰](../Page/朱子聰.md "wikilink")                    |
-| [苞娜](../Page/苞娜.md "wikilink")         | J      | 新人DJ，主持節目時被自以為是的嘉賓泰梨搶了風頭。                   | 5        | [葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink") |
-|                                        |        |                                             |          |                                                     |
+|                                        |        |                                             |          |                                  |
+| -------------------------------------- | ------ | ------------------------------------------- | -------- | -------------------------------- |
+| **演員**                                 | **角色** | **介紹**                                      | **出演集數** | **粵語配音**                         |
+| [U-Kwon](../Page/U-Kwon.md "wikilink") | 姜Minu  | 明星兼電臺DJ，答應可琳主持節目「Minu六點的幸福時光」，後拋下主持節目的承諾出國。 | 1        | [陳灝瑋](../Page/陳灝瑋.md "wikilink") |
+| [池一株](../Page/池一株.md "wikilink")       | 吳鎮修    | 與秀浩合作古代劇的男演員。                               | 2、3      | [林筠翔](../Page/林筠翔.md "wikilink") |
+| [鄭奎洙](../Page/鄭奎洙.md "wikilink")       | 爺爺     | 在鄉間誤當秀浩是他離家多年的兒子的老爺爺。                       | 4        | [朱子聰](../Page/朱子聰.md "wikilink") |
+| [苞娜](../Page/苞娜.md "wikilink")         | J      | 新人DJ，主持節目時被自以為是的嘉賓泰梨搶了風頭。                   | 5        | [葉曉欣](../Page/葉曉欣.md "wikilink") |
+|                                        |        |                                             |          |                                  |
 
 ## 原聲帶
 
@@ -376,7 +376,7 @@ Romance**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikili
 ## 同時段競爭作品
 
   - [MBC](../Page/文化廣播公司.md "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）、《[偉大的誘惑者](https://zh.wikipedia.org/wiki/偉大的誘惑者 "wikilink")》
+    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[白色巨塔](../Page/白色巨塔_\(2007年韓劇\).md "wikilink")》（重播）、《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")
     [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[疑問的一勝](../Page/疑問的一勝.md "wikilink")》、《[能先接吻嗎？](https://zh.wikipedia.org/wiki/能先接吻嗎？ "wikilink")》
   - [tvN](../Page/TVN.md "wikilink")

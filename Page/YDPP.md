@@ -8,7 +8,7 @@ IT LIVE IT》岀道。
 
 ### 2018年
 
-  - [YDPP是繼](https://zh.wikipedia.org/wiki/YDPP "wikilink")[Wanna
+  - [YDPP是繼](../Page/YDPP.md "wikilink")[Wanna
     One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")、[JBJ](../Page/JBJ.md "wikilink")、[RAINZ之後](../Page/RAINZ.md "wikilink")《[PRODUCE
     101
     (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》第四個企划組合。

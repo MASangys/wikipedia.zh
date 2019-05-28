@@ -57,8 +57,7 @@ TestDisk快速检查磁盘的结构并与分区表比对以检测错误。
     [HFS+](../Page/HFS+.md "wikilink") and HFSX,
     [分层文件系统](../Page/分层文件系统.md "wikilink")
 
-  - [JFS](https://zh.wikipedia.org/wiki/JFS_\(文件系统\) "wikilink"), IBM
-    日志文件系统
+  - [JFS](../Page/JFS_\(文件系统\).md "wikilink"), IBM 日志文件系统
 
   - Linux
     [ext2](https://zh.wikipedia.org/wiki/ext2 "wikilink")、[ext3](https://zh.wikipedia.org/wiki/ext3 "wikilink")、[ext4](https://zh.wikipedia.org/wiki/ext4 "wikilink")

@@ -37,8 +37,8 @@ Blockly 被使用在一些著名的计画中，其中包括：
     Hour of Code 计画中了。\[7\]
   - 来自 Code For Life 的 Rapid Router，教导小学生程式设计的概念。\[8\]
   - RoboBlockly，一款以网页为操作基底的机器人模拟环境，用来教导程式设计与数学。
-  - [Verge3D](https://zh.wikipedia.org/wiki/Verge3D "wikilink") 利用
-    Blockly 作为 WebGL 的脚本环境 (被称为拼图)。\[9\]
+  - [Verge3D](../Page/Verge3D.md "wikilink") 利用 Blockly 作为 WebGL
+    的脚本环境 (被称为拼图)。\[9\]
   - Wonder Workshop，用在控制他们的 Dot and Dash 教育机器人。\[10\]
 
 ## 功能

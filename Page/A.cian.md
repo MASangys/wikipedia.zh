@@ -221,11 +221,11 @@ PlotData =
 
 ### 其他歌曲
 
-|             |                     |                                                               |                 |    |
-| ----------- | ------------------- | ------------------------------------------------------------- | --------------- | -- |
-| 日期          | 專輯 / 歌曲             | 歌手 / 企劃                                                       | 參與成員            | 備註 |
-| 2017年10月13日 | THE UNI+ - My turn  | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | JungSang, Jin.O |    |
-| 2017年10月20日 | THE UNI+ - Last One | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | JungSang, Jin.O |    |
+|             |                     |                                            |                 |    |
+| ----------- | ------------------- | ------------------------------------------ | --------------- | -- |
+| 日期          | 專輯 / 歌曲             | 歌手 / 企劃                                    | 參與成員            | 備註 |
+| 2017年10月13日 | THE UNI+ - My turn  | [The Unit](../Page/The_Unit.md "wikilink") | JungSang, Jin.O |    |
+| 2017年10月20日 | THE UNI+ - Last One | [The Unit](../Page/The_Unit.md "wikilink") | JungSang, Jin.O |    |
 
 ## 音樂錄影帶
 
@@ -267,12 +267,12 @@ PlotData =
 
 ### 其他音樂錄影帶
 
-|        |                                                               |                                                               |                 |                 |              |
-| ------ | ------------------------------------------------------------- | ------------------------------------------------------------- | --------------- | --------------- | ------------ |
-| 年份     | 發布日期                                                          | 歌手/企劃                                                         | 歌曲名稱            | 參與成員            | 連結/備註        |
-| 2017年  | 10月16日                                                        | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | My Turn         | JungSang, Jin.O | \[40\]\[41\] |
-| 10月23日 | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | Last One                                                      | JungSang, Jin.O | \[42\]\[43\]    |              |
-| 11月18日 | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink") | My Turn (Edition version)                                     | JungSang, Jin.O | \[44\]          |              |
+|        |                                            |                                            |                 |                 |              |
+| ------ | ------------------------------------------ | ------------------------------------------ | --------------- | --------------- | ------------ |
+| 年份     | 發布日期                                       | 歌手/企劃                                      | 歌曲名稱            | 參與成員            | 連結/備註        |
+| 2017年  | 10月16日                                     | [The Unit](../Page/The_Unit.md "wikilink") | My Turn         | JungSang, Jin.O | \[40\]\[41\] |
+| 10月23日 | [The Unit](../Page/The_Unit.md "wikilink") | Last One                                   | JungSang, Jin.O | \[42\]\[43\]    |              |
+| 11月18日 | [The Unit](../Page/The_Unit.md "wikilink") | My Turn (Edition version)                  | JungSang, Jin.O | \[44\]          |              |
 
 ## 綜藝節目
 
@@ -301,7 +301,7 @@ PlotData =
 | 2016年9月7日              | [Hello Korea 2](http://m.tvcast.naver.com/v/1098999?spi_ref=m_tvcast_twitter) | 全體                         | \[헬로코리아2 14회\]\[예고\] 에이션의 여름아 부탁해♥                                                              |
 | 2016年9月8日              | [Hello Korea 2](http://tvcast.naver.com/v/1110445)                            | 全體                         | \[풀버전\] 헬로코리아 시즌 2 14회-'여름아 노동을 부탁해'_에이션(A.cian)                                               |
 | 2016年9月22日             | [A.cian直播](http://www.meipai.com/media/586361809)                             | 全體                         |                                                                                                 |
-| 2017年10月28日－2018年2月10日 | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")                 | 全體                         | JungSang, Jin.O                                                                                 |
+| 2017年10月28日－2018年2月10日 | [The Unit](../Page/The_Unit.md "wikilink")                                    | 全體                         | JungSang, Jin.O                                                                                 |
 
 ## 參考資料
 

@@ -6,7 +6,7 @@
   - 2016年5月18日，遭受[DDOS攻擊癱瘓](https://zh.wikipedia.org/wiki/DDOS攻擊 "wikilink")\[4\]。
   - 2016年7月6日，直播第18屆[台北電影節](../Page/台北電影節.md "wikilink")。
   - 2016年10月8日，直播[第51屆金鐘獎電視金鐘獎頒獎典禮](https://zh.wikipedia.org/wiki/第51屆金鐘獎 "wikilink")。
-  - 2016年12月12日，直播第5屆[華劇大賞](https://zh.wikipedia.org/wiki/華劇大賞 "wikilink")。
+  - 2016年12月12日，直播第5屆[華劇大賞](../Page/華劇大賞.md "wikilink")。
   - 2016年12月31日，直播2017[臺北最HIGH新年城](https://zh.wikipedia.org/wiki/臺北最HIGH新年城 "wikilink")。
   - 2017年2月24日，遭兩位離職工程師刪除存放於[亞馬遜雲的所有影音資料並複製主機](https://zh.wikipedia.org/wiki/亞馬遜雲 "wikilink")[金鑰](https://zh.wikipedia.org/wiki/金鑰 "wikilink")，檢警依涉犯《[中華民國刑法](../Page/中華民國刑法.md "wikilink")》妨害電腦使用罪提起公訴。\[5\]
   - 2017年10月30日，直播[第52屆金鐘獎電視金鐘獎頒獎典禮](https://zh.wikipedia.org/wiki/第52屆金鐘獎 "wikilink")。
@@ -36,7 +36,7 @@
 <td><p>2016年1月</p></td>
 <td><p>夜宵</p></td>
 <td><p>山下勝、<a href="../Page/陳子玄.md" title="wikilink">陳子玄</a>、<a href="../Page/是元介.md" title="wikilink">是元介</a>、<a href="../Page/李亮瑾.md" title="wikilink">李亮瑾</a>、<a href="../Page/孫其君.md" title="wikilink">孫其君</a>、<br />
-<a href="../Page/林可彤.md" title="wikilink">林可彤</a>、<a href="../Page/雷瑟琳.md" title="wikilink">雷瑟琳</a>、<a href="https://zh.wikipedia.org/wiki/洪言翔" title="wikilink">洪言翔</a>、<a href="../Page/蘇小軒.md" title="wikilink">蘇小軒</a>、<a href="../Page/蕭青陽.md" title="wikilink">蕭青陽</a></p></td>
+<a href="../Page/林可彤.md" title="wikilink">林可彤</a>、<a href="../Page/雷瑟琳.md" title="wikilink">雷瑟琳</a>、<a href="../Page/洪言翔.md" title="wikilink">洪言翔</a>、<a href="../Page/蘇小軒.md" title="wikilink">蘇小軒</a>、<a href="../Page/蕭青陽.md" title="wikilink">蕭青陽</a></p></td>
 <td><p>綜藝</p></td>
 </tr>
 <tr class="even">
@@ -97,7 +97,7 @@
 </tr>
 <tr class="odd">
 <td><p>2017年9月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我的未來男友" title="wikilink">我的未來男友</a>[9]</p></td>
+<td><p><a href="../Page/我的未來男友.md" title="wikilink">我的未來男友</a>[9]</p></td>
 <td><p><a href="../Page/張軒睿.md" title="wikilink">張軒睿</a>、<a href="../Page/程予希.md" title="wikilink">程予希</a></p></td>
 <td><p>劇集</p></td>
 </tr>
@@ -176,7 +176,7 @@
 <tr class="even">
 <td><p>2018年11月</p></td>
 <td><p>Dr. 沃普瑞斯</p></td>
-<td><p>卓苡瑄 、張小筑、廖邱堃、王煜開、丁鈺頷、黃梓維、鄭羽廷、<a href="https://zh.wikipedia.org/wiki/織田紀香" title="wikilink">織田紀香</a></p></td>
+<td><p>卓苡瑄 、張小筑、廖邱堃、王煜開、丁鈺頷、黃梓維、鄭羽廷、<a href="../Page/織田紀香.md" title="wikilink">織田紀香</a></p></td>
 <td><p>綜藝</p></td>
 </tr>
 <tr class="odd">
@@ -224,7 +224,7 @@
 <tr class="even">
 <td><p>2019年05月</p></td>
 <td><p>哈囉，你有事嗎？</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/何美" title="wikilink">何美</a>、小吳</p></td>
+<td><p><a href="../Page/何美.md" title="wikilink">何美</a>、小吳</p></td>
 <td><p>綜藝</p></td>
 </tr>
 <tr class="odd">

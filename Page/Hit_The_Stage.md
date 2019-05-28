@@ -69,7 +69,7 @@ Stage》的舞蹈競技節目，首集將有8名明星參加，每集亦會加�
 <td><p>1-4</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Ten_(歌手)" title="wikilink">Ten</a></p></td>
+<td><p><a href="../Page/Ten_(歌手).md" title="wikilink">Ten</a></p></td>
 <td><p><a href="../Page/NCT.md" title="wikilink">NCT</a></p></td>
 <td><p>1996</p></td>
 <td><p><a href="../Page/曼谷.md" title="wikilink">曼谷</a></p></td>
@@ -146,7 +146,7 @@ Stage》的舞蹈競技節目，首集將有8名明星參加，每集亦會加�
 <td><p>9</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金有謙" title="wikilink">有謙</a></p></td>
+<td><p><a href="../Page/金有謙.md" title="wikilink">有謙</a></p></td>
 <td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
 <td><p>1997</p></td>
 <td><p><a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/南楊州市.md" title="wikilink">南楊州市</a></p></td>
@@ -182,7 +182,7 @@ Stage》的舞蹈競技節目，首集將有8名明星參加，每集亦會加�
 
   - 播出日期：2016年7月27日、8月3日
   - 藝人評審團：<small>J
-    Black、[黃光熙](../Page/黃光熙.md "wikilink")（[ZE:A](../Page/ZE:A.md "wikilink")）、[朴娜萊](https://zh.wikipedia.org/wiki/朴娜萊_\(喜劇演員\) "wikilink")、[文熙俊](../Page/文熙俊.md "wikilink")、[金希珍](https://zh.wikipedia.org/wiki/金希珍 "wikilink")、[朴俊炯](https://zh.wikipedia.org/wiki/朴俊炯 "wikilink")（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、[具俊曄](https://zh.wikipedia.org/wiki/具俊曄 "wikilink")（[酷龍](../Page/酷龍.md "wikilink")）、、[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[志效](https://zh.wikipedia.org/wiki/朴志效 "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")、[定延](https://zh.wikipedia.org/wiki/定延 "wikilink")、[娜璉](../Page/娜璉.md "wikilink")、[Sana](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")、[子瑜](../Page/周子瑜.md "wikilink")、[Mina](../Page/Mina_\(TWICE\).md "wikilink")、[多賢](../Page/多賢.md "wikilink")）</small>
+    Black、[黃光熙](../Page/黃光熙.md "wikilink")（[ZE:A](../Page/ZE:A.md "wikilink")）、[朴娜萊](https://zh.wikipedia.org/wiki/朴娜萊_\(喜劇演員\) "wikilink")、[文熙俊](../Page/文熙俊.md "wikilink")、[金希珍](https://zh.wikipedia.org/wiki/金希珍 "wikilink")、[朴俊炯](../Page/朴俊炯.md "wikilink")（[g.o.d](https://zh.wikipedia.org/wiki/g.o.d "wikilink")）、[具俊曄](https://zh.wikipedia.org/wiki/具俊曄 "wikilink")（[酷龍](../Page/酷龍.md "wikilink")）、、[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")（[志效](https://zh.wikipedia.org/wiki/朴志效 "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink")、[定延](../Page/定延.md "wikilink")、[娜璉](../Page/娜璉.md "wikilink")、[Sana](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")、[子瑜](../Page/周子瑜.md "wikilink")、[Mina](../Page/Mina_\(TWICE\).md "wikilink")、[多賢](../Page/多賢.md "wikilink")）</small>
 
 <table>
 <tbody>
@@ -306,24 +306,24 @@ Priest Kim Ver.) + Opening + Sabbath</p></td>
   - 藝人評審團：<small>、、黃光熙（ZE:A）、朴娜萊、文熙俊、[李國主](../Page/李國主.md "wikilink")、朴俊炯（g.o.d）、具俊燁（酷龍）、裴允貞、J
     Black</small>
 
-|    |                    |                                                       |                                              |                |      |     |    |
-| -- | ------------------ | ----------------------------------------------------- | -------------------------------------------- | -------------- | ---- | --- | -- |
-| 集數 | 順序                 | 參賽者                                                   | 舞者                                           | 配樂             | 題材   | 得票數 | 優勝 |
-| 3  | OP                 | J Black X MMARY                                       | 表演舞台                                         | **Hoya X 崔孝珍** |      |     |    |
-| 1  | Ten                | 鄭詩妍                                                   | Hey Momma + Hit the Road Jack Pentatonix Ver | 清新的愛情          | 135  |     |    |
-| 2  | 張賢勝                | Stephanie                                             | No Filter                                    | 一見鍾情           | 138  |     |    |
-| 3  | 金請夏                | Waack Crush                                           | Intro + Single Ladies + Run the World(Girls) | 離別的女子          | 136  |     |    |
-| 4  | U-Kwon             | [YooA](https://zh.wikipedia.org/wiki/YooA "wikilink") | I'm Yours + Down In The DM (DJ Flex)         | 寵物的日常          | 142  |     |    |
-| 4  | 5                  | 孝淵                                                    | 劉俊善                                          | 姊姊 你太美了        | 曖昧男女 | 149 |    |
-| 6  | Feeldog            | Feel Crush\[4\]                                       | Work (R3hab & Quintino Remix)                | 愛情的對立          | 159  |     |    |
-| HS | 李國主 X 孫秉賢、、金秀路、李善泰 | 表演舞台                                                  |                                              |                |      |     |    |
-| 7  | Momo               | [Mina](../Page/Mina_\(TWICE\).md "wikilink")          | Crazy in Love (Remix)                        | 慾望和執著          | 141  |     |    |
-| 8  | Hoya               | 崔孝珍                                                   | Close (Feat. Tove Lo)                        | 悲戀             | 161  |     |    |
+|    |                    |                                              |                                              |                |      |     |    |
+| -- | ------------------ | -------------------------------------------- | -------------------------------------------- | -------------- | ---- | --- | -- |
+| 集數 | 順序                 | 參賽者                                          | 舞者                                           | 配樂             | 題材   | 得票數 | 優勝 |
+| 3  | OP                 | J Black X MMARY                              | 表演舞台                                         | **Hoya X 崔孝珍** |      |     |    |
+| 1  | Ten                | 鄭詩妍                                          | Hey Momma + Hit the Road Jack Pentatonix Ver | 清新的愛情          | 135  |     |    |
+| 2  | 張賢勝                | Stephanie                                    | No Filter                                    | 一見鍾情           | 138  |     |    |
+| 3  | 金請夏                | Waack Crush                                  | Intro + Single Ladies + Run the World(Girls) | 離別的女子          | 136  |     |    |
+| 4  | U-Kwon             | [YooA](../Page/YooA.md "wikilink")           | I'm Yours + Down In The DM (DJ Flex)         | 寵物的日常          | 142  |     |    |
+| 4  | 5                  | 孝淵                                           | 劉俊善                                          | 姊姊 你太美了        | 曖昧男女 | 149 |    |
+| 6  | Feeldog            | Feel Crush\[4\]                              | Work (R3hab & Quintino Remix)                | 愛情的對立          | 159  |     |    |
+| HS | 李國主 X 孫秉賢、、金秀路、李善泰 | 表演舞台                                         |                                              |                |      |     |    |
+| 7  | Momo               | [Mina](../Page/Mina_\(TWICE\).md "wikilink") | Crazy in Love (Remix)                        | 慾望和執著          | 141  |     |    |
+| 8  | Hoya               | 崔孝珍                                          | Close (Feat. Tove Lo)                        | 悲戀             | 161  |     |    |
 
 ### Uniform
 
   - 播出日期：2016年8月24日、8月31日
-  - 藝人評審團：<small>具俊燁（酷龍）、朴俊炯（g.o.d）、[朴娜勑](../Page/朴娜勑.md "wikilink")、[梁世炯](https://zh.wikipedia.org/wiki/梁世炯 "wikilink")、李國主、文熙俊、[金在德](https://zh.wikipedia.org/wiki/金在德 "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）、裴允貞、[鄭珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（[2AM](../Page/2AM.md "wikilink")）、J
+  - 藝人評審團：<small>具俊燁（酷龍）、朴俊炯（g.o.d）、[朴娜勑](../Page/朴娜勑.md "wikilink")、[梁世炯](../Page/梁世炯.md "wikilink")、李國主、文熙俊、[金在德](../Page/金在德.md "wikilink")（[水晶男孩](../Page/水晶男孩.md "wikilink")）、裴允貞、[鄭珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（[2AM](../Page/2AM.md "wikilink")）、J
     Black
 
 <table>

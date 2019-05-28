@@ -87,7 +87,7 @@ A.O'Dell）则自称为。
   - 蒙马阿姨（Auntie
     Momma，《[克利夫兰秀](https://zh.wikipedia.org/wiki/克利夫兰秀 "wikilink")》）
 
-  - [帕蒂和塞尔玛阿姨](https://zh.wikipedia.org/wiki/帕蒂和塞尔玛 "wikilink")（《[辛普森一家](../Page/辛普森一家.md "wikilink")》）
+  - [帕蒂和塞尔玛阿姨](../Page/帕蒂和塞尔玛.md "wikilink")（《[辛普森一家](../Page/辛普森一家.md "wikilink")》）
 
   - （《[东区人](../Page/东区人.md "wikilink")》）
 

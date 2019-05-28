@@ -544,7 +544,7 @@ Duo）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wiki
 </tr>
 <tr class="even">
 <td><p><a href="../Page/生命中的美好缺憾_(電影).md" title="wikilink">生命中的美好缺憾</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/莎蓮·活莉" title="wikilink">莎蓮·活莉</a> / <a href="../Page/安塞爾·埃爾格特.md" title="wikilink">安塞爾·埃爾格特</a></p></td>
+<td><p><a href="../Page/莎蓮·活莉.md" title="wikilink">莎蓮·活莉</a> / <a href="../Page/安塞爾·埃爾格特.md" title="wikilink">安塞爾·埃爾格特</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -560,18 +560,18 @@ Duo）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wiki
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/亞特蘭大_(電視劇)" title="wikilink">亞特蘭大</a></p></td>
+<td><p><a href="../Page/亞特蘭大_(電視劇).md" title="wikilink">亞特蘭大</a></p></td>
 <td><p>/ </p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/美國好聲音" title="wikilink">美國好聲音</a></p></td>
-<td><p><a href="../Page/亞當·列維.md" title="wikilink">亞當·列維</a> / <a href="https://zh.wikipedia.org/wiki/布雷克·谢尔顿" title="wikilink">布雷克·谢尔顿</a></p></td>
+<td><p><a href="../Page/亞當·列維.md" title="wikilink">亞當·列維</a> / <a href="../Page/布雷克·谢尔顿.md" title="wikilink">布雷克·谢尔顿</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/美女與野獸_(2017年電影).md" title="wikilink">美女與野獸</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/乔什·盖德" title="wikilink">乔什·盖德</a> / <a href="https://zh.wikipedia.org/wiki/盧克·伊萬斯" title="wikilink">盧克·伊萬斯</a></p></td>
+<td><p><a href="../Page/乔什·盖德.md" title="wikilink">乔什·盖德</a> / <a href="https://zh.wikipedia.org/wiki/盧克·伊萬斯" title="wikilink">盧克·伊萬斯</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -583,12 +583,12 @@ Duo）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wiki
 <td><p>'''2018<br />
 (第27屆)</p></td>
 <td><p>'''<a href="../Page/牠_(電影).md" title="wikilink">牠</a></p></td>
-<td><p>'''<a href="../Page/芬恩·伍法德.md" title="wikilink">芬恩·伍法德</a> /  / <a href="https://zh.wikipedia.org/wiki/傑登·里柏赫" title="wikilink">傑登·里柏赫</a> / <br />
+<td><p>'''<a href="../Page/芬恩·伍法德.md" title="wikilink">芬恩·伍法德</a> /  / <a href="../Page/傑登·里柏赫.md" title="wikilink">傑登·里柏赫</a> / <br />
  /  / </p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/黑豹_(電影).md" title="wikilink">黑豹</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/查德維克·博斯曼" title="wikilink">查德維克·博斯曼</a> / <a href="https://zh.wikipedia.org/wiki/露琵塔·尼詠歐" title="wikilink">露琵塔·尼詠歐</a> / <br />
+<td><p><a href="../Page/查德維克·博斯曼.md" title="wikilink">查德維克·博斯曼</a> / <a href="https://zh.wikipedia.org/wiki/露琵塔·尼詠歐" title="wikilink">露琵塔·尼詠歐</a> / <br />
 <a href="https://zh.wikipedia.org/wiki/莱蒂希娅·赖特" title="wikilink">莱蒂希娅·赖特</a></p></td>
 <td></td>
 </tr>
@@ -599,7 +599,7 @@ Duo）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wiki
 </tr>
 <tr class="even">
 <td><p><a href="../Page/一級玩家_(電影).md" title="wikilink">一級玩家</a></p></td>
-<td><p><a href="../Page/泰·謝里丹.md" title="wikilink">泰·謝里丹</a> / <a href="https://zh.wikipedia.org/wiki/奥利维亚·库克" title="wikilink">奥利维亚·库克</a> / <a href="https://zh.wikipedia.org/wiki/赵家正" title="wikilink">赵家正</a> /  / </p></td>
+<td><p><a href="../Page/泰·謝里丹.md" title="wikilink">泰·謝里丹</a> / <a href="../Page/奥利维亚·库克.md" title="wikilink">奥利维亚·库克</a> / <a href="../Page/赵家正.md" title="wikilink">赵家正</a> /  / </p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -31,7 +31,7 @@ Spirit是围绕着还没有成功达到主流的十二个女子组合的歌手�
 | 参赛者                                               | 所属组合                                                              | 出道年份 | feat. | 流行歌曲  |
 | ------------------------------------------------- | ----------------------------------------------------------------- | ---- | ----- | ----- |
 | [Kei](../Page/Kei.md "wikilink")                  | [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")       | 2014 |       |       |
-| [旼宰](https://zh.wikipedia.org/wiki/旼宰 "wikilink") | [SONAMOO](../Page/SONAMOO.md "wikilink")                          | 2014 | Ep.4  |       |
+| [旼宰](../Page/旼宰.md "wikilink")                    | [SONAMOO](../Page/SONAMOO.md "wikilink")                          | 2014 | Ep.4  |       |
 | 吴承姬                                               | [CLC](../Page/CLC.md "wikilink")                                  | 2015 | Ep.9  |       |
 | 玄胜熙                                               | [Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink") | 2015 | Ep.9  | Ep.11 |
 | [多願](https://zh.wikipedia.org/wiki/多願 "wikilink") | [宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")             | 2016 | Ep.4  |       |
@@ -46,7 +46,7 @@ Spirit是围绕着还没有成功达到主流的十二个女子组合的歌手�
 | [保亨](../Page/金保亨.md "wikilink")                    | [SPICA](../Page/SPICA_\(組合\).md "wikilink")                      | 2012 | Ep.5  | Ep.11 |
 | 惠美                                                 | [FIESTAR](../Page/FIESTAR.md "wikilink")                         | 2012 | Ep.10 |       |
 | 昭政                                                 | [Ladies' Code](../Page/Ladies'_Code.md "wikilink")               | 2013 |       |       |
-| [有智](https://zh.wikipedia.org/wiki/鄭有智 "wikilink") | [BESTie](https://zh.wikipedia.org/wiki/BESTie "wikilink")        | 2013 |       | Ep.3  |
+| [有智](https://zh.wikipedia.org/wiki/鄭有智 "wikilink") | [BESTie](../Page/BESTie.md "wikilink")                           | 2013 |       | Ep.3  |
 | 昭娟                                                 | [LABOUM](../Page/LABOUM.md "wikilink")                           | 2014 | Ep.10 | Ep.10 |
 | 真率                                                 | [APRIL](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink") | 2015 | Ep 10 |       |
 |                                                    |                                                                  |      |       |       |
@@ -110,7 +110,7 @@ Spirit是围绕着还没有成功达到主流的十二个女子组合的歌手�
 <tr class="even">
 <td><p>Kei</p></td>
 <td><p>6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/A_New_Trilogy" title="wikilink">Destiny</a>（我的地球）</p></td>
+<td><p><a href="../Page/A_New_Trilogy.md" title="wikilink">Destiny</a>（我的地球）</p></td>
 <td><p><a href="../Page/Modern_Times_(IU专辑).md" title="wikilink">星期五见面</a>（<a href="https://zh.wikipedia.org/wiki/IU_(歌手)" title="wikilink">IU</a>）</p></td>
 <td><p>63</p></td>
 </tr>
@@ -145,7 +145,7 @@ Spirit是围绕着还没有成功达到主流的十二个女子组合的歌手�
 <tr class="odd">
 <td><p>多愿</p></td>
 <td><p>11</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Would_You_Like?" title="wikilink">MoMoMo</a></p></td>
+<td><p><a href="../Page/Would_You_Like?.md" title="wikilink">MoMoMo</a></p></td>
 <td><p>Music Is My Life（<a href="../Page/林正姬.md" title="wikilink">林正姬</a>）</p></td>
 <td><p>59</p></td>
 </tr>
@@ -383,7 +383,7 @@ SONAMOO：娜玹、宜珍</p></td>
 <td><p>2</p></td>
 <td><p><em>无</em></p></td>
 <td><p>妈妈</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ra.D" title="wikilink">Ra.D</a></p></td>
+<td><p><a href="../Page/Ra.D.md" title="wikilink">Ra.D</a></p></td>
 <td><p>308</p></td>
 </tr>
 <tr class="odd">
@@ -414,7 +414,7 @@ PRISTIN：恩宇、珉京</p></td>
 <td><p>5</p></td>
 <td><p>APRIL：採媛、娜恩<br />
 宇宙少女：EXY、程潇</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TOUCH_&amp;_MOVE" title="wikilink">Touch My Body</a><br />
+<td><p><a href="../Page/TOUCH_&amp;_MOVE.md" title="wikilink">Touch My Body</a><br />
 <a href="../Page/Mr._(KARA單曲).md" title="wikilink">Mr.</a></p></td>
 <td><p><a href="../Page/SISTAR.md" title="wikilink">SISTAR</a><br />
 <a href="../Page/Kara.md" title="wikilink">Kara</a></p></td>
@@ -852,7 +852,7 @@ B组：
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/幸福_(Red_Velvet单曲).md" title="wikilink">Happiness</a>（幸福）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td></td>
 <td></td>
 <td></td>

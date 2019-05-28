@@ -390,12 +390,12 @@ FM聯合頒發，最初名為《Astro華麗台電視劇大獎》，及後名為�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/黃浩然.md" title="wikilink">黃浩然</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/名門暗戰" title="wikilink">名門暗戰</a></p></td>
+<td><p><a href="../Page/名門暗戰.md" title="wikilink">名門暗戰</a></p></td>
 <td><p>鍾曉陽</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/蕭正楠.md" title="wikilink">蕭正楠</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/名門暗戰" title="wikilink">名門暗戰</a></p></td>
+<td><p><a href="../Page/名門暗戰.md" title="wikilink">名門暗戰</a></p></td>
 <td><p>袁小田</p></td>
 </tr>
 </tbody>
@@ -449,7 +449,7 @@ FM聯合頒發，最初名為《Astro華麗台電視劇大獎》，及後名為�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/方力申.md" title="wikilink">方力申</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/華麗轉身" title="wikilink">華麗轉身</a></p></td>
+<td><p><a href="../Page/華麗轉身.md" title="wikilink">華麗轉身</a></p></td>
 <td><p>桑尚恆</p></td>
 </tr>
 <tr class="even">
@@ -481,7 +481,7 @@ FM聯合頒發，最初名為《Astro華麗台電視劇大獎》，及後名為�
 </table></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2016" title="wikilink">2016年</a></strong><br />
+<td><p><strong><a href="../Page/TVB_馬來西亞星光薈萃頒獎典禮2016.md" title="wikilink">2016年</a></strong><br />
 <small>第13屆</small></p></td>
 <td><p><strong><a href="../Page/楊明.md" title="wikilink">楊　明</a></strong></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/火線下的江湖大佬" title="wikilink">火線下的江湖大佬</a></strong></p></td>
@@ -564,7 +564,7 @@ FM聯合頒發，最初名為《Astro華麗台電視劇大獎》，及後名為�
 </table></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2017" title="wikilink">2017年</a><br />
+<td><p><a href="../Page/TVB_馬來西亞星光薈萃頒獎典禮2017.md" title="wikilink">2017年</a><br />
 <small>第14屆</p></td>
 <td><p><strong><a href="../Page/陳山聰.md" title="wikilink">陳山聰</a></strong></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/同盟" title="wikilink">同盟</a></strong></p></td>
@@ -604,7 +604,7 @@ FM聯合頒發，最初名為《Astro華麗台電視劇大獎》，及後名為�
 <td><p>游俊傑</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/張振朗" title="wikilink">張振朗</a></p></td>
+<td><p><a href="../Page/張振朗.md" title="wikilink">張振朗</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/踩過界" title="wikilink">踩過界</a></p></td>
 <td><p>谷一夏</p></td>
 </tr>
@@ -625,7 +625,7 @@ FM聯合頒發，最初名為《Astro華麗台電視劇大獎》，及後名為�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/蔣志光.md" title="wikilink">蔣志光</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/老表，畢業喇！" title="wikilink">老表，畢業喇！</a></p></td>
+<td><p><a href="../Page/老表，畢業喇！.md" title="wikilink">老表，畢業喇！</a></p></td>
 <td><p>程　郎</p></td>
 </tr>
 </tbody>

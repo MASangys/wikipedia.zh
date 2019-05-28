@@ -6,8 +6,7 @@ wz.
 1996「鈹」的卡賓槍版本](../Page/Wz._1996鈹式突擊步槍.md "wikilink")，發射[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子弹](https://zh.wikipedia.org/wiki/子弹 "wikilink")。
 
 該卡賓槍是用以取代[波蘭武裝部隊所使用的](../Page/波蘭軍事.md "wikilink")[5.45×39毫米](../Page/5.45×39mm.md "wikilink")[苏联口徑](../Page/苏联.md "wikilink")[Skbk
-wz.
-1989「縞瑪瑙」卡賓槍](https://zh.wikipedia.org/wiki/Wz._1989縞瑪瑙卡賓槍 "wikilink")。
+wz. 1989「縞瑪瑙」卡賓槍](../Page/Wz._1989縞瑪瑙卡賓槍.md "wikilink")。
 
 ## 研發歷史
 
@@ -22,7 +21,7 @@ mm karabinek krotki wz. 1996**（意為：1996年型號短卡賓槍）。
 ## 設計細節
 
 迷你「鈹」式卡賓槍的設計佈局和操作的系統可說是[Skbk wz.
-1989「縞瑪瑙」卡賓槍與](https://zh.wikipedia.org/wiki/Wz._1989縞瑪瑙卡賓槍 "wikilink")[Kbs
+1989「縞瑪瑙」卡賓槍與](../Page/Wz._1989縞瑪瑙卡賓槍.md "wikilink")[Kbs
 wz.
 1996「鈹式」步槍所結合的版本](../Page/Wz._1996鈹式突擊步槍.md "wikilink")，而主要的差異，主要是由於使用不同的彈種所造成，包括以下多個部分：槍管、槍管耳軸、上下[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")、槍口裝置和[彈匣](../Page/彈匣.md "wikilink")。當使用適配器，它還可以使用[M16](../Page/M16突擊步槍.md "wikilink")[北約制式的彈匣](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")。武器的操作方法、[滾轉式槍機閉鎖機構和彈藥的那些與Wz](../Page/滾轉式槍機.md "wikilink").
 1996「鈹」式制式步槍相同。
@@ -32,7 +31,7 @@ wz.
 ，也就是說是在兩彈之間的一個比較好的妥協。槍管的外部輪廓（從到準星基座）幾乎與「縞瑪瑙」卡賓槍的槍管相同，只是稍為延長，以適應修改後的導氣箍。
 
 從外觀方面而言，其槍口裝置類似於Wz.
-1989縞瑪瑙卡賓槍的槍口附件的外表，具有層次更深入的螺紋，用以把擰入導氣箍（它具有位置較低的容積減壓艙）。其補償器為槍口裝置的槍口方向的末端以相對於彼此成90°角以下成對排列的兩個排氣孔。槍口附件也可以用以發射[22毫米](https://zh.wikipedia.org/wiki/22毫米槍榴彈 "wikilink")[槍榴彈](../Page/步槍用榴彈.md "wikilink")，有效射程可達150米。
+1989縞瑪瑙卡賓槍的槍口附件的外表，具有層次更深入的螺紋，用以把擰入導氣箍（它具有位置較低的容積減壓艙）。其補償器為槍口裝置的槍口方向的末端以相對於彼此成90°角以下成對排列的兩個排氣孔。槍口附件也可以用以發射[22毫米](../Page/22毫米槍榴彈.md "wikilink")[槍榴彈](../Page/步槍用榴彈.md "wikilink")，有效射程可達150米。
 
 為迷你「鈹」式卡賓槍研發的彈匣相比起「鈹」式步槍的標準型彈匣要短和容量相應的有所縮小（為20發），但也可以使用原為「鈹」式步槍的標準型彈匣。新型彈匣都是由半透明聚合物模制成型體，使得射手可以直觀監測彈藥的水平從而得知剩餘彈數，而且不可與Wz.
 89縞瑪瑙卡賓槍的彈匣互換使用。
@@ -67,11 +66,9 @@ Metalowe Mesko工廠生產。
 
   - [Kbs wz. 1996「鈹」](../Page/Wz._1996鈹式突擊步槍.md "wikilink")
 
-  - [Kbkg wz.
-    1960](https://zh.wikipedia.org/wiki/Kbkg_wz._1960槍榴彈發射步槍 "wikilink")
+  - [Kbkg wz. 1960](../Page/Kbkg_wz._1960槍榴彈發射步槍.md "wikilink")
 
-  - [Skbk wz. 1989
-    Onyks](https://zh.wikipedia.org/wiki/Wz._1989縞瑪瑙卡賓槍 "wikilink")
+  - [Skbk wz. 1989 Onyks](../Page/Wz._1989縞瑪瑙卡賓槍.md "wikilink")
 
   -
   - [Kbk wz. 2005 Jantar](../Page/Wz._2005_Jantar突擊步槍.md "wikilink")

@@ -1,7 +1,7 @@
 **Imagine
 Asia**\[1\]（），是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")。成立在1976年7月，包括影劇投資製作、電影投資製作、藝人管理、歌手演唱會企劃等，在2013年12月2日併購（Dream
 T
-Entertainment）\[2\]，另外在2015年7月1日聯同DreamT娛樂購入[YMC娛樂合共](https://zh.wikipedia.org/wiki/YMC娛樂 "wikilink")80%的股份並由DreamT娛樂管理。
+Entertainment）\[2\]，另外在2015年7月1日聯同DreamT娛樂購入[YMC娛樂合共](../Page/YMC娛樂.md "wikilink")80%的股份並由DreamT娛樂管理。
 
 ## 旗下藝人
 
@@ -30,7 +30,7 @@ Entertainment）\[2\]，另外在2015年7月1日聯同DreamT娛樂購入[YMC娛�
   - [柳和榮](../Page/柳和榮.md "wikilink")
 
   -
-  - [崔武成](https://zh.wikipedia.org/wiki/崔武成 "wikilink")
+  - [崔武成](../Page/崔武成.md "wikilink")
 
 ## 已離開藝人
 
@@ -120,14 +120,14 @@ Entertainment）\[2\]，另外在2015年7月1日聯同DreamT娛樂購入[YMC娛�
 
   - [金佳花](https://zh.wikipedia.org/wiki/金佳花 "wikilink")
 
-  - [具件敏](https://zh.wikipedia.org/wiki/具件敏 "wikilink")
+  - [具件敏](../Page/具件敏.md "wikilink")
 
   -
-  - [李善彬](https://zh.wikipedia.org/wiki/李善彬 "wikilink")
+  - [李善彬](../Page/李善彬.md "wikilink")
 
 <!-- end list -->
 
-  - [趙銀政](https://zh.wikipedia.org/wiki/趙銀政 "wikilink")
+  - [趙銀政](../Page/趙銀政.md "wikilink")
   - [金宇靜](https://zh.wikipedia.org/wiki/金宇靜 "wikilink")，[Happy
     Face練習生出身](../Page/Happy_Face娛樂.md "wikilink")，[PRODUCE
     101參賽者](../Page/PRODUCE_101.md "wikilink")
@@ -153,7 +153,7 @@ Entertainment）\[2\]，另外在2015年7月1日聯同DreamT娛樂購入[YMC娛�
   - 韓語：드림티 엔터테인먼트
   - [Girl's Day](../Page/Girl's_Day.md "wikilink")
   - [Jevice](../Page/Jevice.md "wikilink")
-  - [MC夢](https://zh.wikipedia.org/wiki/MC夢 "wikilink")
+  - [MC夢](../Page/MC夢.md "wikilink")
   - [M.A.P6](https://zh.wikipedia.org/wiki/M.A.P6 "wikilink")
   - [智鉉寓](../Page/智鉉寓.md "wikilink")
   - [洪秀兒](../Page/洪秀兒.md "wikilink")
@@ -183,12 +183,12 @@ Entertainment）\[2\]，另外在2015年7月1日聯同DreamT娛樂購入[YMC娛�
     101參賽者](../Page/PRODUCE_101.md "wikilink")。轉投We Can Do
     It\!娛樂，UNI成員
   - [黃召硯](https://zh.wikipedia.org/wiki/黃召硯 "wikilink")，[PRODUCE
-    48參賽者](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")。轉投[M\&H娛樂](https://zh.wikipedia.org/wiki/M&H娛樂 "wikilink")
+    48參賽者](../Page/PRODUCE_48.md "wikilink")。轉投[M\&H娛樂](../Page/M&H娛樂.md "wikilink")
   - [姜多珉](https://zh.wikipedia.org/wiki/姜多珉 "wikilink")，[PRODUCE
-    48參賽者](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")。轉投[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")
+    48參賽者](../Page/PRODUCE_48.md "wikilink")。轉投[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")
   - 姣妍，轉投We Can Do It\!娛樂，UNI成員
 
-#### [YMC娛樂](https://zh.wikipedia.org/wiki/YMC娛樂 "wikilink")
+#### [YMC娛樂](../Page/YMC娛樂.md "wikilink")
 
   - [Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink")
   - [申寶羅](https://zh.wikipedia.org/wiki/申寶羅 "wikilink")
@@ -201,15 +201,13 @@ Entertainment）\[2\]，另外在2015年7月1日聯同DreamT娛樂購入[YMC娛�
 ### 電視劇
 
   - 2012年：[MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[吳子龍走吧](../Page/吳子龍走吧.md "wikilink")》
-  - 2014年：MBC《[薔薇色戀人們](https://zh.wikipedia.org/wiki/薔薇色戀人們 "wikilink")》
+  - 2014年：MBC《[薔薇色戀人們](../Page/薔薇色戀人們.md "wikilink")》
   - 2016年：[SBS](../Page/SBS_\(韓國\).md "wikilink")《[戲子](../Page/戲子_\(電視劇\).md "wikilink")》
   - 2016年：SBS《[Wanted](../Page/Wanted.md "wikilink")》
   - 2016年：[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[女人的秘密](../Page/女人的秘密.md "wikilink")》（由DreamTea娛樂製作）
   - 2017年：KBS《[瘋狗](https://zh.wikipedia.org/wiki/瘋狗_\(電視劇\) "wikilink")》（与Celltrion
     Entertainment相关联）
-  - 2018年：MBC
-    《[過來抱抱我](https://zh.wikipedia.org/wiki/過來抱抱我 "wikilink")》（与Company
-    Ching相关联）
+  - 2018年：MBC 《[過來抱抱我](../Page/過來抱抱我.md "wikilink")》（与Company Ching相关联）
   - 2018年：MBC
     《[時間](https://zh.wikipedia.org/wiki/時間_\(韓國電視劇\) "wikilink")》（与[Will
     Entertainment相关联](../Page/Will娛樂.md "wikilink")）

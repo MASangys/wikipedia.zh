@@ -15,7 +15,7 @@ Hit娛樂稱防彈少年團將以「Love Yourself
 Yourself」將從每位成員的故事和經驗粹取出來，並能表現經過青春的彷徨期，邁向成功的防彈少年團未來的概念。\[6\]\[7\]
 
 新系列主題的首波預告海報以[Jung
-Kook率先登場](../Page/田柾國.md "wikilink")，在8月11日釋出，海報中寫有「心向著的方向，想跑去那裡的日子」作為開端\[8\]，陸續公開[SUGA](../Page/閔玧其.md "wikilink")「不要接近我，會變得不幸」、[j-hope](https://zh.wikipedia.org/wiki/鄭號錫 "wikilink")「我沒關係，只要能讓妳發光」、Rap
+Kook率先登場](../Page/田柾國.md "wikilink")，在8月11日釋出，海報中寫有「心向著的方向，想跑去那裡的日子」作為開端\[8\]，陸續公開[SUGA](../Page/閔玧其.md "wikilink")「不要接近我，會變得不幸」、[j-hope](../Page/鄭號錫.md "wikilink")「我沒關係，只要能讓妳發光」、Rap
 Monster「因為現在還不是時候，我會只望著妳的背影」、[Jin](../Page/金碩珍.md "wikilink")「如果時間能夠倒轉，我想成為世界上最好的男人」、[Jimin](../Page/朴智旻.md "wikilink")「我說謊了，像我這樣的人沒有資格擁有愛情」、[V](https://zh.wikipedia.org/wiki/金泰亨_\(1995年生\) "wikilink")「如果當時我做出其他的選擇，妳能不離開嗎?」等海報及台詞\[9\]，8月13則公開第二波預告，這次釋出的一系列海報中除了Jin之外，其餘成員們則兩兩一組以明暗對比的方式進行拍攝。像是SUGA、Jung
 Kook一個坐在椅子上低頭沉思，一個則是坐在病床上抬頭仰望；或是分別坐在一明一暗的空間中的j-hope與Jimin、躺在柏油路和草地的Rap
 Monster、V，均營造出完全相反的氛圍，不過海報上的台詞卻都是「從那片大海回來後，我們全都是一個人了」，只有Jin是寫著「若時間能倒轉，想回到那年夏天的大海」\[10\]。「Love
@@ -555,7 +555,7 @@ Yourself 承
 <tbody>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年Mnet亞洲音樂大獎" title="wikilink">Mnet亞洲音樂大獎</a></p></td>
+<td><p><a href="../Page/2017年Mnet亞洲音樂大獎.md" title="wikilink">Mnet亞洲音樂大獎</a></p></td>
 <td></td>
 <td><p>《Love Yourself 承 'Her'》</p></td>
 <td></td>

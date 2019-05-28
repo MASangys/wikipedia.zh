@@ -1,30 +1,30 @@
-**SixTONES**是由[傑尼斯事務所的](../Page/傑尼斯事務所.md "wikilink")[小傑尼斯](../Page/小傑尼斯.md "wikilink")──[傑西](../Page/傑西.md "wikilink")、[松村北斗](https://zh.wikipedia.org/wiki/松村北斗 "wikilink")、[森本慎太郎](../Page/森本慎太郎.md "wikilink")、[京本大我](../Page/京本大我.md "wikilink")、[田中樹及](https://zh.wikipedia.org/wiki/田中樹 "wikilink")[高地優吾六人組成](../Page/高地優吾.md "wikilink")。
+**SixTONES**是由[傑尼斯事務所的](../Page/傑尼斯事務所.md "wikilink")[小傑尼斯](../Page/小傑尼斯.md "wikilink")──[傑西](../Page/傑西.md "wikilink")、[松村北斗](../Page/松村北斗.md "wikilink")、[森本慎太郎](../Page/森本慎太郎.md "wikilink")、[京本大我](../Page/京本大我.md "wikilink")、[田中樹及](../Page/田中樹.md "wikilink")[高地優吾六人組成](../Page/高地優吾.md "wikilink")。
 
 SixTONES的意思是解作六個不同的音階，代表著六人每人也有各自屬於自己的音調。
 
 ### 成員
 
-| 成員名                                                   | 平/片假名      | 生日         | 血型 | 出身                                                  | 代表色 |
-| ----------------------------------------------------- | ---------- | ---------- | -- | --------------------------------------------------- | --- |
-| [高地優吾](../Page/高地優吾.md "wikilink")                    | こうち ゆうご    | 1994年3月8日  | A  | [神奈川縣](../Page/神奈川縣.md "wikilink")                  | 黃   |
-| [京本大我](../Page/京本大我.md "wikilink")                    | きょうもと たいが  | 1994年12月3日 | B  | [東京都](../Page/東京都.md "wikilink")                    | 桃   |
-| [田中樹](https://zh.wikipedia.org/wiki/田中樹 "wikilink")   | たなか じゅり    | 1995年6月15日 | B  | [千葉縣](../Page/千葉縣.md "wikilink")                    | 藍   |
-| [松村北斗](https://zh.wikipedia.org/wiki/松村北斗 "wikilink") | まつむら ほくと   | 1995年6月18日 | B  | [静岡縣](https://zh.wikipedia.org/wiki/静岡縣 "wikilink") | 黑   |
-| [傑西](../Page/傑西.md "wikilink")                        | ジェシー       | 1996年6月11日 | O  | [東京都](../Page/東京都.md "wikilink")                    | 紅   |
-| [森本慎太郎](../Page/森本慎太郎.md "wikilink")                  | もりもと しんたろう | 1997年7月15日 | A  | [神奈川縣](../Page/神奈川縣.md "wikilink")                  | 綠   |
-|                                                       |            |            |    |                                                     |     |
+| 成員名                                  | 平/片假名      | 生日         | 血型 | 出身                                                  | 代表色 |
+| ------------------------------------ | ---------- | ---------- | -- | --------------------------------------------------- | --- |
+| [高地優吾](../Page/高地優吾.md "wikilink")   | こうち ゆうご    | 1994年3月8日  | A  | [神奈川縣](../Page/神奈川縣.md "wikilink")                  | 黃   |
+| [京本大我](../Page/京本大我.md "wikilink")   | きょうもと たいが  | 1994年12月3日 | B  | [東京都](../Page/東京都.md "wikilink")                    | 桃   |
+| [田中樹](../Page/田中樹.md "wikilink")     | たなか じゅり    | 1995年6月15日 | B  | [千葉縣](../Page/千葉縣.md "wikilink")                    | 藍   |
+| [松村北斗](../Page/松村北斗.md "wikilink")   | まつむら ほくと   | 1995年6月18日 | B  | [静岡縣](https://zh.wikipedia.org/wiki/静岡縣 "wikilink") | 黑   |
+| [傑西](../Page/傑西.md "wikilink")       | ジェシー       | 1996年6月11日 | O  | [東京都](../Page/東京都.md "wikilink")                    | 紅   |
+| [森本慎太郎](../Page/森本慎太郎.md "wikilink") | もりもと しんたろう | 1997年7月15日 | A  | [神奈川縣](../Page/神奈川縣.md "wikilink")                  | 綠   |
+|                                      |            |            |    |                                                     |     |
 
 ## 組合過程
 
-在2012年4月在[日本電視台深夜劇](../Page/日本電視台.md "wikilink")[私立馬鹿蘭高校開演後](../Page/私立馬鹿蘭高校.md "wikilink")，[傑西](../Page/傑西.md "wikilink")、[松村北斗](https://zh.wikipedia.org/wiki/松村北斗 "wikilink")、[森本慎太郎](../Page/森本慎太郎.md "wikilink")、[京本大我](../Page/京本大我.md "wikilink")、[田中樹及](https://zh.wikipedia.org/wiki/田中樹 "wikilink")[高地優吾便經常以六人姿態上少年俱樂部](../Page/高地優吾.md "wikilink")、傑尼斯其他公演及接受各種雜誌訪問，由於當時並沒有組合名字而被通稱為「馬鹿蘭組」（バカレア組）。
+在2012年4月在[日本電視台深夜劇](../Page/日本電視台.md "wikilink")[私立馬鹿蘭高校開演後](../Page/私立馬鹿蘭高校.md "wikilink")，[傑西](../Page/傑西.md "wikilink")、[松村北斗](../Page/松村北斗.md "wikilink")、[森本慎太郎](../Page/森本慎太郎.md "wikilink")、[京本大我](../Page/京本大我.md "wikilink")、[田中樹及](../Page/田中樹.md "wikilink")[高地優吾便經常以六人姿態上少年俱樂部](../Page/高地優吾.md "wikilink")、傑尼斯其他公演及接受各種雜誌訪問，由於當時並沒有組合名字而被通稱為「馬鹿蘭組」（バカレア組）。
 
 因為他們走的表演風格跟[KAT-TUN初出道時的](../Page/KAT-TUN.md "wikilink")「惡羅惡羅系」（オラオラ系）很接近從而抓住了不少支持者的心\[1\]，據「週刊女性PRIME」在2015年4月非正式調查「喜歡的Johnny
-Jr」裡，[松村北斗](https://zh.wikipedia.org/wiki/松村北斗 "wikilink")、[京本大我及](../Page/京本大我.md "wikilink")[傑西分別排第三](../Page/傑西.md "wikilink")、第五及第七名。\[2\]
+Jr」裡，[松村北斗](../Page/松村北斗.md "wikilink")、[京本大我及](../Page/京本大我.md "wikilink")[傑西分別排第三](../Page/傑西.md "wikilink")、第五及第七名。\[2\]
 
-但是隨著[傑西及](../Page/傑西.md "wikilink")[松村北斗的個人活動增加](https://zh.wikipedia.org/wiki/松村北斗 "wikilink")，「馬鹿蘭組」的曝光度開始減低，甚至出現解散危機。
+但是隨著[傑西及](../Page/傑西.md "wikilink")[松村北斗的個人活動增加](../Page/松村北斗.md "wikilink")，「馬鹿蘭組」的曝光度開始減低，甚至出現解散危機。
 
 在2014年5月舉行的「ガムシャラ J’s Party\!\!
-Vol.4」上，「馬鹿蘭組」久違地重新集結，[京本大我及](../Page/京本大我.md "wikilink")[松村北斗在雜誌對談當中也分別作出了](https://zh.wikipedia.org/wiki/松村北斗 "wikilink")「以這個公演為契機，放下對『馬鹿蘭組』的依戀」及「明明是站在同一個台上，但總是覺得有點格格不入…」的發言。\[3\]
+Vol.4」上，「馬鹿蘭組」久違地重新集結，[京本大我及](../Page/京本大我.md "wikilink")[松村北斗在雜誌對談當中也分別作出了](../Page/松村北斗.md "wikilink")「以這個公演為契機，放下對『馬鹿蘭組』的依戀」及「明明是站在同一個台上，但總是覺得有點格格不入…」的發言。\[3\]
 
 直到2015年5月1日，雖然[京本大我因為要排練舞台劇](../Page/京本大我.md "wikilink")「[伊麗莎白](https://zh.wikipedia.org/wiki/伊麗莎白 "wikilink")」而不參與表演，也特地出現到「傑尼斯銀座2015」舞台劇，由六人一起宣佈正式組成新組合「SixTONES」。\[4\]
 

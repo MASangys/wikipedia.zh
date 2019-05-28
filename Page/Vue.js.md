@@ -1,4 +1,4 @@
-**Vue.js**（，或简称为**Vue**）是一个用于创建用户界面的[开源](../Page/开源软件.md "wikilink")[JavaScript框架](../Page/JavaScript.md "wikilink")，也是一个创建[单页应用的](https://zh.wikipedia.org/wiki/单页应用 "wikilink")[Web应用框架](../Page/Web应用框架.md "wikilink")\[1\]。
+**Vue.js**（，或简称为**Vue**）是一个用于创建用户界面的[开源](../Page/开源软件.md "wikilink")[JavaScript框架](../Page/JavaScript.md "wikilink")，也是一个创建[单页应用的](../Page/单页应用.md "wikilink")[Web应用框架](../Page/Web应用框架.md "wikilink")\[1\]。
 2016年一项针对JavaScript的调查表明，Vue有着89%的开发者满意度。\[2\]
 在[GitHub上](../Page/GitHub.md "wikilink")，该项目平均每天能收获95颗星，\[3\]\[4\]为Github有史以来星标数第3多的项目。\[5\]
 

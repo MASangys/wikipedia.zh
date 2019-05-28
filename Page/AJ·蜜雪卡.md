@@ -1,14 +1,14 @@
 **亞曼達·喬伊·「AJ」·蜜雪卡**
 ([英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：**Amanda
 Joy "AJ" Michalka** ；1991年4月10日\[1\] -
-)，通常被稱呼為AJ·蜜雪卡，為[美國女演員](https://zh.wikipedia.org/wiki/美國 "wikilink")、創作歌手及音樂家，她先以模特兒身分出道，之後成為女演員。她知名的身分是與姊姊[艾莉·蜜雪卡組成](https://zh.wikipedia.org/wiki/艾莉·蜜雪卡 "wikilink")[78violet演唱組合](https://zh.wikipedia.org/wiki/78violet "wikilink")
+)，通常被稱呼為AJ·蜜雪卡，為[美國女演員](https://zh.wikipedia.org/wiki/美國 "wikilink")、創作歌手及音樂家，她先以模特兒身分出道，之後成為女演員。她知名的身分是與姊姊[艾莉·蜜雪卡組成](../Page/艾莉·蜜雪卡.md "wikilink")[78violet演唱組合](https://zh.wikipedia.org/wiki/78violet "wikilink")
 (前身為 Aly & AJ) 。 AJ 曾經替電影「奔騰人生」錄製電影主題曲「It's Who You Are」。
 AJ也曾經替電影「葛莉絲不插電」 原聲帶錄製單曲及音樂錄影帶「All I've Ever
 Needed」。
 
 ## 早期生活
 
-AJ出生於美國加利福尼亞州托倫斯。她與姊姊[艾莉成長過程歷經西雅圖](https://zh.wikipedia.org/wiki/艾莉·蜜雪卡 "wikilink")、南加州等地。她的父親馬克，為建設公司的老闆，母親凱莉，是音樂人以及基督樂團「JC
+AJ出生於美國加利福尼亞州托倫斯。她與姊姊[艾莉成長過程歷經西雅圖](../Page/艾莉·蜜雪卡.md "wikilink")、南加州等地。她的父親馬克，為建設公司的老闆，母親凱莉，是音樂人以及基督樂團「JC
 Band」的成員\[2\]\[3\]。艾莉擁有波蘭、德國、英國、蘇格蘭、威爾斯以及愛爾蘭的血統\[4\]。AJ
 從四歲開始學習鋼琴，並在青少年時期學習吉他。在五歲時開始演戲，大部分都是在教會。她也是虔誠的教徒\[5\]\[6\]\[7\]。AJ
 在密爾瓦基求學時，就是學校的音樂劇成員之一。\[8\]

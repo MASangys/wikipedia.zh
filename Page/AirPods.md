@@ -35,7 +35,7 @@ AirPods的外型類似於預設随[iPhone](https://zh.wikipedia.org/wiki/iPhone 
 AirPods需要完整的功能，需要至少執行[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
 10.2，[macOS
 Sierra或](https://zh.wikipedia.org/wiki/macOS_Sierra "wikilink")[watchOS
-3的裝置](https://zh.wikipedia.org/wiki/WatchOS版本历史 "wikilink")。透過[iCloud自動同步](https://zh.wikipedia.org/wiki/iCloud "wikilink")，以便使用者可以切換到其他受支援的裝置登入到相同的[Apple
+3的裝置](../Page/WatchOS版本历史.md "wikilink")。透過[iCloud自動同步](https://zh.wikipedia.org/wiki/iCloud "wikilink")，以便使用者可以切換到其他受支援的裝置登入到相同的[Apple
 ID](https://zh.wikipedia.org/wiki/Apple_ID "wikilink")。AirPods還可以從任何支援[藍牙4.0或更高版本的裝置播放音訊](../Page/藍牙.md "wikilink")，包括[Android裝置](../Page/Android.md "wikilink")(可以使用點兩下手勢來控制播放)。\[4\]
 
 在2017年蘋果特別活動中，蘋果公司公開了一款名為 AirPower 的可選無線充電器。但是歷經將近兩年的延期後，蘋果在 2019 年 03 月
@@ -66,12 +66,10 @@ Wireless Stereo，簡稱TWS)
 
 ## 相關條目
 
-  - [Samsung Gear
-    IconX](https://zh.wikipedia.org/wiki/Samsung_Gear_IconX "wikilink")
+  - [Samsung Gear IconX](../Page/Samsung_Gear_IconX.md "wikilink")
   - [Samsung Gear IconX
-    (2018)](https://zh.wikipedia.org/wiki/Samsung_Gear_IconX_\(2018\) "wikilink")
-  - [Google Pixel
-    Buds](https://zh.wikipedia.org/wiki/Google_Pixel_Buds "wikilink")
+    (2018)](../Page/Samsung_Gear_IconX_\(2018\).md "wikilink")
+  - [Google Pixel Buds](../Page/Google_Pixel_Buds.md "wikilink")
 
 ## 参考文獻
 

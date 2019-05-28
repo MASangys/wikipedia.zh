@@ -1,11 +1,10 @@
 **LG
 G6**是由[LG電子製造的一款](../Page/LG電子.md "wikilink")[Android](../Page/Android.md "wikilink")[智慧型手機](../Page/智能手机.md "wikilink")，於2017年2月26日在2017年[MWC發布](../Page/世界行動通訊大會.md "wikilink")，為[LG
-G5的後續機種](https://zh.wikipedia.org/wiki/LG_G5 "wikilink")。G6放棄了模組化，增加了IP68防水防塵，並且採用了較高的18:9
+G5的後續機種](../Page/LG_G5.md "wikilink")。G6放棄了模組化，增加了IP68防水防塵，並且採用了較高的18:9
 5.7吋螢幕。\[1\]\[2\]\[3\]\[4\]\[5\]同期最大的競爭對手為[三星Galaxy
-S8](https://zh.wikipedia.org/wiki/三星Galaxy_S8 "wikilink")、[Sony Xperia
-XZ
-Premium](https://zh.wikipedia.org/wiki/Sony_Xperia_XZ_Premium "wikilink")、[HTC
-U Ultra](../Page/HTC_U_Ultra.md "wikilink")。
+S8](../Page/三星Galaxy_S8.md "wikilink")、[Sony Xperia XZ
+Premium](../Page/Sony_Xperia_XZ_Premium.md "wikilink")、[HTC U
+Ultra](../Page/HTC_U_Ultra.md "wikilink")。
 
 ## 技術規格
 

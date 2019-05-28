@@ -278,7 +278,7 @@ SRCL-9810（通常盤）</p></td>
 | 2014年                            |                                                                                                  |
 | 《evils fall》                     | 電視劇《[BORDER](../Page/BORDER.md "wikilink")》主題曲                                                   |
 | 2015年                            |                                                                                                  |
-| 《Seven Deadly Sins》              | 電視動畫《[七大罪](https://zh.wikipedia.org/wiki/七大罪_\(漫畫\) "wikilink")》片頭曲                              |
+| 《Seven Deadly Sins》              | 電視動畫《[七大罪](../Page/七大罪_\(漫畫\).md "wikilink")》片頭曲                                                 |
 | 《Dive》                           | 電影《新宿天鵝》主題曲                                                                                      |
 | 《Falling》                        | [資生堂](../Page/資生堂.md "wikilink")「膠原蛋白」廣告歌                                                        |
 | 《Raise your flag》                | 電視動畫《[機動戰士GUNDAM 鐵血的孤兒](../Page/機動戰士GUNDAM_鐵血的孤兒.md "wikilink")》片頭曲                              |

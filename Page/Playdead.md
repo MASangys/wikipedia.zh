@@ -29,7 +29,7 @@ Limbo</p></td>
 <a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="../Page/PlayStation_Vita.md" title="wikilink">PlayStation Vita</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/Windows" title="wikilink">Windows</a>、<a href="https://zh.wikipedia.org/wiki/OS_X" title="wikilink">OS X</a>、<a href="../Page/Linux.md" title="wikilink">Linux</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/Steam_OS" title="wikilink">Steam OS</a>、<a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/任天堂Switch" title="wikilink">任天堂Switch</a></p></td>
+<a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a></p></td>
 <td><p>PlayStation Vita、Xbox One和PlayStation 4由英国工作室负责移植[2]<br />
 Xbox 360版由<a href="https://zh.wikipedia.org/wiki/微软工作室" title="wikilink">微软工作室发行</a>[3]</p></td>
 </tr>

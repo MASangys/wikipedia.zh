@@ -26,7 +26,7 @@ FACTORY主流出道](../Page/TOY'S_FACTORY.md "wikilink")。同年10月又推出
   - 2012年12月5日，1st專輯『HYPERGIRL-向こう側の女の子-』發布。
   - 2013年7月24日，ESNO的協作樂曲「夕暮れパラレリズム」配信限定發布。
   - 2013年9月11日，1st EP『UTUTU』經由LOW HIGH WHO?生產並發布。
-  - 2017年8月、與音樂家[米津玄師錄製單曲](../Page/米津玄師.md "wikilink")《[打上花火](https://zh.wikipedia.org/wiki/打上花火 "wikilink")》，被選為動畫電影《[升起的煙花，從下面看？還是從側面看？](https://zh.wikipedia.org/wiki/烟花_\(动画电影\) "wikilink")》的主題曲。
+  - 2017年8月、與音樂家[米津玄師錄製單曲](../Page/米津玄師.md "wikilink")《[打上花火](../Page/打上花火.md "wikilink")》，被選為動畫電影《[升起的煙花，從下面看？還是從側面看？](https://zh.wikipedia.org/wiki/烟花_\(动画电影\) "wikilink")》的主題曲。
   - 2017年10月、與演唱動畫作品《[血界戰線 &
     BEYOND](../Page/血界戰線.md "wikilink")》片尾曲「ステップアップLOVE」
   - 2018年1月5日、1月6日在高雄LIVE WAREHOUSE舉行「DAOKO TOUR 2017-2018 “THANK YOU

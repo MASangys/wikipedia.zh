@@ -1,7 +1,7 @@
 《**Mrs. Cop
 2**》（）為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[SBS自](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")2016年3月5日起播出的[週末特別計劃劇](../Page/SBS週末特別計劃劇.md "wikilink")，是《[Mrs.
 Cop](../Page/Mrs._Cop.md "wikilink")》系列作品第二季。由《[Mrs.
-Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](https://zh.wikipedia.org/wiki/黃洙夏 "wikilink")
+Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilink")
 作家與[劉仁植導演再次攜手打造](../Page/劉仁植.md "wikilink")。\[1\]
 
 ## 劇情大綱
@@ -81,7 +81,7 @@ Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](https://zh.wikipedia.org/wiki
 <td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金熙燦" title="wikilink">金熙燦</a></p></td>
+<td><p><a href="../Page/金熙燦.md" title="wikilink">金熙燦</a></p></td>
 <td><p>姜尚哲[2]</p></td>
 <td><p><strong>首爾地方警察廳重案1組組員</strong><br />
 劍道特科院出身，有幹勁但不聰明的小伙子。在派出所工作的小巡警，一直希望進入重案組做事。</p></td>
@@ -99,13 +99,13 @@ Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](https://zh.wikipedia.org/wiki
 
 ### EL Capital
 
-|                                                            |        |                                                                                                                             |                                                     |
-| ---------------------------------------------------------- | ------ | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------- |
-| **演員**                                                     | **角色** | **介紹**                                                                                                                      | **粵語配音**                                            |
-| [崔鎮鎬](../Page/崔鎮鎬.md "wikilink")                           | 白鐘植    | EL Capital理事，前北韓特工（[脫北者](../Page/脫北者.md "wikilink")），路俊身邊的左右手，經常為路俊作不法的事，或為他親手做的壞事作善後工作。若以一枚硬幣形容兩人，路俊是硬幣光亮的一面，白理事就是硬幣黑暗的背面。 |                                                     |
-| [李哲民](https://zh.wikipedia.org/wiki/李哲民_\(演員\) "wikilink") | 朴俊英    | EL Capital理事，李范鎮的左右手，為他解決一切棘手的問題。與李路俊敵對，並希望尋找機會拉他落台，取代他的位置。                                                                 |                                                     |
-| [南慶邑](../Page/南慶邑.md "wikilink")                           | 李范鎮    | 路俊的爸爸，因路俊認為他不重視自己所付出的努力而被憤恨。                                                                                                |                                                     |
-| [車和娟](../Page/車和娟.md "wikilink")                           | 徐正美    | 路俊的媽媽，早年路俊的爸爸去世後，獨自撫養他成人。曾經營多種小生意但失敗告終，被員工稱為地獄夫人。                                                                           | [馮詠恩](https://zh.wikipedia.org/wiki/馮詠恩 "wikilink") |
+|                                         |        |                                                                                                                             |                                  |
+| --------------------------------------- | ------ | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------- |
+| **演員**                                  | **角色** | **介紹**                                                                                                                      | **粵語配音**                         |
+| [崔鎮鎬](../Page/崔鎮鎬.md "wikilink")        | 白鐘植    | EL Capital理事，前北韓特工（[脫北者](../Page/脫北者.md "wikilink")），路俊身邊的左右手，經常為路俊作不法的事，或為他親手做的壞事作善後工作。若以一枚硬幣形容兩人，路俊是硬幣光亮的一面，白理事就是硬幣黑暗的背面。 |                                  |
+| [李哲民](../Page/李哲民_\(演員\).md "wikilink") | 朴俊英    | EL Capital理事，李范鎮的左右手，為他解決一切棘手的問題。與李路俊敵對，並希望尋找機會拉他落台，取代他的位置。                                                                 |                                  |
+| [南慶邑](../Page/南慶邑.md "wikilink")        | 李范鎮    | 路俊的爸爸，因路俊認為他不重視自己所付出的努力而被憤恨。                                                                                                |                                  |
+| [車和娟](../Page/車和娟.md "wikilink")        | 徐正美    | 路俊的媽媽，早年路俊的爸爸去世後，獨自撫養他成人。曾經營多種小生意但失敗告終，被員工稱為地獄夫人。                                                                           | [馮詠恩](../Page/馮詠恩.md "wikilink") |
 
 ### 高潤靜周邊人物
 
@@ -137,7 +137,7 @@ Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](https://zh.wikipedia.org/wiki
 <td><p><a href="../Page/黃志成.md" title="wikilink">黃志成</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李孝濟" title="wikilink">李孝濟</a></p></td>
+<td><p><a href="../Page/李孝濟.md" title="wikilink">李孝濟</a></p></td>
 <td><p>朴珉載</p></td>
 <td><p>潤靜的兒子，喜愛說英語而不說韓語。</p></td>
 <td><p><a href="../Page/顧詠雪.md" title="wikilink">顧詠雪</a></p></td>
@@ -171,7 +171,7 @@ Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](https://zh.wikipedia.org/wiki
 
   - [金瑞慶](https://zh.wikipedia.org/wiki/金瑞慶 "wikilink")
 
-  - [周錫泰](https://zh.wikipedia.org/wiki/周錫泰 "wikilink")
+  - [周錫泰](../Page/周錫泰.md "wikilink")
 
   - [李賢旭](https://zh.wikipedia.org/wiki/李賢旭 "wikilink")
 
@@ -208,7 +208,7 @@ Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](https://zh.wikipedia.org/wiki
   - [政旭](../Page/政旭.md "wikilink")
   - [閔成旭](https://zh.wikipedia.org/wiki/閔成旭 "wikilink")
   - [李振權](https://zh.wikipedia.org/wiki/李振權 "wikilink")
-  - [閔鎮雄](https://zh.wikipedia.org/wiki/閔鎮雄 "wikilink")
+  - [閔鎮雄](../Page/閔鎮雄.md "wikilink")
   - [鄭承吉](https://zh.wikipedia.org/wiki/鄭承吉 "wikilink")
   - [朴泰星](https://zh.wikipedia.org/wiki/朴泰星 "wikilink")
   - [崔宏一](https://zh.wikipedia.org/wiki/崔宏一 "wikilink")

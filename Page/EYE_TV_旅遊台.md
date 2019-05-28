@@ -276,7 +276,7 @@ TRAVEL），是[萬達超媒體電視股份有限公司旗下的旅遊頻道](ht
 | 《GOGO台灣 (第二季)》                                                      |                                                                     | 13                                                               |                                                                                                                                                             |
 | 《日本風景遺產巡禮》                                                          |                                                                     | 20                                                               | [加藤千洋](../Page/加藤千洋.md "wikilink")                                                                                                                          |
 | 《醬玩就對了》                                                             |                                                                     | 6                                                                |                                                                                                                                                             |
-| 《[瀨上剛in台灣](https://zh.wikipedia.org/wiki/瀨上剛in台灣 "wikilink")》       |                                                                     |                                                                  | [瀨上剛](https://zh.wikipedia.org/wiki/瀨上剛 "wikilink")                                                                                                         |
+| 《[瀨上剛in台灣](https://zh.wikipedia.org/wiki/瀨上剛in台灣 "wikilink")》       |                                                                     |                                                                  | [瀨上剛](../Page/瀨上剛.md "wikilink")                                                                                                                            |
 | 《蜜蜜甜心派》                                                             |                                                                     | 26                                                               |                                                                                                                                                             |
 | 《來去北海道》                                                             |                                                                     | 60                                                               |                                                                                                                                                             |
 | 《GOGO台灣》                                                            |                                                                     | 13                                                               |                                                                                                                                                             |
@@ -326,7 +326,7 @@ TRAVEL），是[萬達超媒體電視股份有限公司旗下的旅遊頻道](ht
 |abbr1=旗下頻道 |group1=旗下頻道
 |list1=[EYE TV
 戲劇台](https://zh.wikipedia.org/wiki/EYE_TV_戲劇台 "wikilink"){{\!wrap}}[EYE
-TV 旅遊台](https://zh.wikipedia.org/wiki/EYE_TV_旅遊台 "wikilink")
+TV 旅遊台](../Page/EYE_TV_旅遊台.md "wikilink")
 
 ` }}`
 

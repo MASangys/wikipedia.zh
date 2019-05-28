@@ -32,8 +32,7 @@ YouTube](https://www.youtube.com/watch?v=vt7z0F47j0Q) }}
     darkness-](../Page/機動戰艦_The_prince_of_darkness.md "wikilink")（）
   - [真蓋特機器人 世界最後之日](../Page/真蓋特機器人_世界最後之日.md "wikilink")（）
   - [真魔神 衝擊！Z篇](../Page/真魔神_衝擊！Z篇.md "wikilink")（）
-  - ★●[真魔神ZERO
-    vs暗黑大將軍](https://zh.wikipedia.org/wiki/真無敵鐵金剛ZERO "wikilink")（）
+  - ★●[真魔神ZERO vs暗黑大將軍](../Page/真無敵鐵金剛ZERO.md "wikilink")（）
   - [驚爆危機](../Page/驚爆危機.md "wikilink")（）
   - [驚爆危機？校園篇](../Page/驚爆危機.md "wikilink")（）
   - [驚爆危機！The Second Raid](../Page/驚爆危機.md "wikilink")（）
@@ -42,8 +41,7 @@ YouTube](https://www.youtube.com/watch?v=vt7z0F47j0Q) }}
   - [福音戰士新劇場版：破](../Page/福音戰士新劇場版：破.md "wikilink")（）
   - ●[福音戰士新劇場版：Q](../Page/福音戰士新劇場版：Q.md "wikilink")（）
   - ★[宇宙戰艦大和號2199](../Page/宇宙戰艦大和號2199.md "wikilink")（）
-  - ★[CROSSANGE
-    天使與龍的輪舞](https://zh.wikipedia.org/wiki/CROSSANGE_天使與龍的輪舞 "wikilink")（）
+  - ★[CROSSANGE 天使與龍的輪舞](../Page/CROSSANGE_天使與龍的輪舞.md "wikilink")（）
 
 ### 解說
 
@@ -253,9 +251,8 @@ ED「NEW BLUE」
     23  - ULTIMATE LAZY for MAZINGER (《真魔神 衝擊！Z篇》OP)
     24  - [JAM Project](../Page/JAM_Project.md "wikilink") (《真魔神
     衝擊！Z篇》OP2)
-    25
-    [tomorrow](https://zh.wikipedia.org/wiki/Tomorrow／不會枯萎的花 "wikilink")
-    - [下川美娜](../Page/下川美娜.md "wikilink") (《驚爆危機》OP)
+    25 [tomorrow](../Page/Tomorrow／不會枯萎的花.md "wikilink") -
+    [下川美娜](../Page/下川美娜.md "wikilink") (《驚爆危機》OP)
     26  - 下川美娜 (《驚爆危機？校園篇》OP)
     27 [南風](../Page/南風／想再一次見到你.md "wikilink") - 下川美娜 (《驚爆危機！The Second
     Raid》OP)

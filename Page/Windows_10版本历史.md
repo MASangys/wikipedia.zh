@@ -1,5 +1,5 @@
 **[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")**是一款由[微软公司制作的](../Page/微软.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。在微软“操作系统即服务”的策略下，Windows
+10](../Page/Windows_10.md "wikilink")**是一款由[微软公司制作的](../Page/微软.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")。在微软“操作系统即服务”的策略下，Windows
 10大约每半年发布一个功能性更新，并不定时发布安全性和其他更新。本条目列举Windows 10的全部公开发布版本，但不包括被“泄漏”的内部版本。
 
 ## 概述

@@ -43,7 +43,7 @@ Style移轉至新公司\[3\]。
 
   -
   -
-  - [筆村榮心](https://zh.wikipedia.org/wiki/筆村榮心 "wikilink")
+  - [筆村榮心](../Page/筆村榮心.md "wikilink")
 
   - ONDY（事業合作）
 
@@ -65,7 +65,7 @@ Style移轉至新公司\[3\]。
 
   - [小倉唯](../Page/小倉唯.md "wikilink")（唯夏織成員及前StylipS成員，於2013年9月16日宣佈退出\[4\]，其間曾隸屬Sigma
     Seven e與Sigma Seven，後於2016年1月1日轉屬[CLARE
-    VOICE](https://zh.wikipedia.org/wiki/CLARE_VOICE "wikilink")\[5\]）
+    VOICE](../Page/CLARE_VOICE.md "wikilink")\[5\]）
 
   - （自轉入，於2013年9月21日宣佈成為自由身）
 
@@ -77,7 +77,7 @@ Style移轉至新公司\[3\]。
   - [松永真穗](../Page/松永真穗.md "wikilink")（[水面下之空成員及前StylipS成員](https://zh.wikipedia.org/wiki/水面下之空 "wikilink")，於2016年5月20日退出並結束聲優活動\[8\]）
 
   - [田邊留依](../Page/田邊留依.md "wikilink")（2017年5月1日退所轉屬[Stay
-    Luck](https://zh.wikipedia.org/wiki/Stay_Luck "wikilink")）\[9\]
+    Luck](../Page/Stay_Luck.md "wikilink")）\[9\]
 
 ## 註釋
 

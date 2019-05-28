@@ -8,7 +8,7 @@
 
 ## CBS本地广播
 
-  - [CBS电台](https://zh.wikipedia.org/wiki/CBS电台 "wikilink")
+  - [CBS电台](../Page/CBS电台.md "wikilink")
       -
       -
       -
@@ -160,7 +160,7 @@
   -
 <!-- end list -->
 
-  - [西屋广播](https://zh.wikipedia.org/wiki/西屋广播 "wikilink")
+  - [西屋广播](../Page/西屋广播.md "wikilink")
       - 西屋集团制作（）
 
 <!-- end list -->

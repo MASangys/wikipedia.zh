@@ -1,5 +1,5 @@
 《**17
-CARAT**》\[1\]\[2\]\[3\]是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[SEVENTEEN的首張迷你專輯並出道專輯](../Page/Seventeen_\(組合\).md "wikilink")，由[WOOZI以及PJR](https://zh.wikipedia.org/wiki/李知勳_\(SEVENTEEN\) "wikilink")
+CARAT**》\[1\]\[2\]\[3\]是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[SEVENTEEN的首張迷你專輯並出道專輯](../Page/Seventeen_\(組合\).md "wikilink")，由[WOOZI以及PJR](../Page/李知勳_\(SEVENTEEN\).md "wikilink")
 Entertainment的桂範洙（）擔任製作人，其他成員們共同參與作詞和編舞，展現組合清新活潑面貌。由[Pledis娛樂企劃](../Page/Pledis娛樂.md "wikilink")，[LOEN娛樂於](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")2015年5月29日發行，主打曲為〈아낀다（Adore
 U）〉。
 

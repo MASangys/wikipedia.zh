@@ -52,7 +52,7 @@ PLUS的[子公司](../Page/子公司.md "wikilink")，改名为**YGKPLUS**。
   - 李厚林 - 1992, 187cm
     [sohot_hl](http://www.instagram.com/sohot_hl)，PRODUCE 101 第二季參賽者
   - 趙孝仁 - 1993, 187cm [jhyinnn](http://www.instagram.com/jhyinnn)
-  - [權玄彬](https://zh.wikipedia.org/wiki/權玄彬 "wikilink") - 1997, 187cm
+  - [權玄彬](../Page/權玄彬.md "wikilink") - 1997, 187cm
     [komurola](http://www.instagram.com/komurola)，PRODUCE 101 第二季參賽者
   - 池元赫 - 1998, 188cm [jiwonhyuk](http://www.instagram.com/jiwonhyuk)
   - 李相賢 - 1995, 187cm [royalee_](http://www.instagram.com/royalee_)
@@ -199,14 +199,11 @@ PLUS的[子公司](../Page/子公司.md "wikilink")，改名为**YGKPLUS**。
 
 ## 旗下練習生
 
-  - 鄭孝俊，[PRODUCE 101
-    第二季參賽者](https://zh.wikipedia.org/wiki/PRODUCE_101_第二季 "wikilink")
+  - 鄭孝俊，[PRODUCE 101 第二季參賽者](../Page/PRODUCE_101_第二季.md "wikilink")
   - 文炫珠，[PRODUCE
     101參賽者](../Page/PRODUCE_101.md "wikilink")，[Fantagio娛樂以及NEXTAR練習生出身](https://zh.wikipedia.org/wiki/Fantagio娛樂 "wikilink")
-  - 安藝媛，[PRODUCE
-    48參賽者](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")
-  - 崔璉洙，[PRODUCE
-    48參賽者](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")
+  - 安藝媛，[PRODUCE 48參賽者](../Page/PRODUCE_48.md "wikilink")
+  - 崔璉洙，[PRODUCE 48參賽者](../Page/PRODUCE_48.md "wikilink")
 
 ## 外部連結
 

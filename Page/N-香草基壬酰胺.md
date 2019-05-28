@@ -1,6 +1,6 @@
 **N-香草基壬酰胺**（**N-vanillylnonanamide**，**Nonivamide**）又称**壬酸香兰基酰胺**（**Nonyl
 Vanillylamide**）、**天竺葵酸香兰基酰胺**（**pelargonic acid
-vanillylamide**，缩写**PAVA**）、**诺香草胺**（**Nonivamide**）、**合成辣椒素**等，是一种属于[辣椒素类物质的](../Page/辣椒素.md "wikilink")[芳香族](https://zh.wikipedia.org/wiki/芳香族 "wikilink")[有机化合物](../Page/有机化合物.md "wikilink")。是[天竺葵酸和](https://zh.wikipedia.org/wiki/天竺葵酸 "wikilink")[香兰素胺的](https://zh.wikipedia.org/wiki/香兰素胺 "wikilink")[酰胺](../Page/酰胺.md "wikilink")。存在于[辣椒中](../Page/辣椒.md "wikilink")\[1\]，但一般通过合成生产。热稳定性较[辣椒素更好](../Page/辣椒素.md "wikilink")。
+vanillylamide**，缩写**PAVA**）、**诺香草胺**（**Nonivamide**）、**合成辣椒素**等，是一种属于[辣椒素类物质的](../Page/辣椒素.md "wikilink")[芳香族](https://zh.wikipedia.org/wiki/芳香族 "wikilink")[有机化合物](../Page/有机化合物.md "wikilink")。是[天竺葵酸和](https://zh.wikipedia.org/wiki/天竺葵酸 "wikilink")[香兰素胺的](../Page/香兰素胺.md "wikilink")[酰胺](../Page/酰胺.md "wikilink")。存在于[辣椒中](../Page/辣椒.md "wikilink")\[1\]，但一般通过合成生产。热稳定性较[辣椒素更好](../Page/辣椒素.md "wikilink")。
 
 ## 结构
 

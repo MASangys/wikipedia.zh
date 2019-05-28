@@ -28,8 +28,7 @@ Limited」二種特仕車，翌年11月21日復推出「Limited II」、「SW Li
 2月27日部分改良，藉由降低CVT變速箱油的[黏度係數](../Page/黏度指數.md "wikilink")、減少CVT內部機件的摩擦等提升[油耗表現](../Page/汽车燃油经济性.md "wikilink")；以JC08模式（JC08モード）測試從原先的20.2km/L提升至20.8km/L。6月18日則實施部分改良（4型），6月26日開始換牌成[馬自達Flair
 Wagon](../Page/馬自達Flair_Wagon.md "wikilink")，供應給[馬自達](https://zh.wikipedia.org/wiki/馬自達 "wikilink")\[5\]。
 
-2013年 -
-2月26日隨著後繼車款[鈴木Spacia面世而停產](https://zh.wikipedia.org/wiki/鈴木Spacia "wikilink")。
+2013年 - 2月26日隨著後繼車款[鈴木Spacia面世而停產](../Page/鈴木Spacia.md "wikilink")。
 
 Image:Suzuki Palette 102.JPG Image:2010 Suzuki Palette X
 interior.jpg|內裝照 Image:Suzuki Palette SW MK21S.JPG Image:Suzuki
@@ -44,7 +43,7 @@ front.JPG|第一代馬自達Flair Wagon Image:Nissanroox1.png|日產Roox
 ## 內部連結
 
   - [馬自達Flair Wagon](../Page/馬自達Flair_Wagon.md "wikilink")
-  - [鈴木Spacia](https://zh.wikipedia.org/wiki/鈴木Spacia "wikilink")
+  - [鈴木Spacia](../Page/鈴木Spacia.md "wikilink")
 
 ## 參考資料
 

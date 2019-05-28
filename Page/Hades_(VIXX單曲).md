@@ -117,7 +117,7 @@ Channel作曲](https://zh.wikipedia.org/wiki/Devine_Channel "wikilink")、金美
 <td><p>2016年8月12日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a>、<a href="../Page/CD.md" title="wikilink">CD</a></p></td>
 <td><p><a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a><br />
-<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a> &lt;!--|-</p></td>
+<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a> &lt;!--|-</p></td>
 </tr>
 </tbody>
 </table>

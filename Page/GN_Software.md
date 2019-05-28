@@ -355,14 +355,14 @@ Software**（GNソフトウェア）是[日本GoodNavigate](../Page/日本.md "w
 <td><p>2017年7月20日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Amenity&#39;s_Life" title="wikilink">Amenity's Life</a></p></td>
+<td><p><a href="../Page/Amenity&#39;s_Life.md" title="wikilink">Amenity's Life</a></p></td>
 <td><p>Amenity's Life</p></td>
 <td><p>PSV</p></td>
 <td><p>HOOKSOFT</p></td>
 <td><p>2017年11月22日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/女友＊步驟" title="wikilink">カノジョ＊ステップ</a></p></td>
+<td><p><a href="../Page/女友＊步驟.md" title="wikilink">カノジョ＊ステップ</a></p></td>
 <td><p>カノジョ＊ステップ</p></td>
 <td><p>PSV</p></td>
 <td><p>HOOKSOFT</p></td>

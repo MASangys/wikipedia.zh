@@ -9,7 +9,7 @@
 美麗的逃亡者系列》是同名漫畫原作者[椎名高志的](../Page/椎名高志.md "wikilink")[漫畫改編](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[GS美神](../Page/GS美神_極樂大作戰！！.md "wikilink")》衍生的[角色歌曲](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")、[單曲系列](https://zh.wikipedia.org/wiki/單曲 "wikilink")。1994年1月21日全5張同步發行之後曾在同年3月度創下2萬張最高銷售記錄，其中以飾演小絹的聲優[國府田麻理子的](../Page/國府田麻理子.md "wikilink")『V』（「悲DESTINY」）更創下高達2萬8000張的銷售記錄\[1\]。
 
 還有，《GS美神
-美麗的逃亡者系列》的單曲封面插圖是由動畫版負責[人物設定的](../Page/人物設計.md "wikilink")繪製。至於另外收錄的迷你廣播劇劇本是由動畫編劇[松井亞彌負責](https://zh.wikipedia.org/wiki/松井亞彌 "wikilink")。
+美麗的逃亡者系列》的單曲封面插圖是由動畫版負責[人物設定的](../Page/人物設計.md "wikilink")繪製。至於另外收錄的迷你廣播劇劇本是由動畫編劇[松井亞彌負責](../Page/松井亞彌.md "wikilink")。
 
 後來，5張[角色歌曲](https://zh.wikipedia.org/wiki/角色歌曲 "wikilink")、[單曲系列的表題曲都在](https://zh.wikipedia.org/wiki/單曲 "wikilink")1995年7月21日發行的同名動畫CD原聲帶《》收錄，2005年1月26日以[精選專輯形式再發盤](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
 

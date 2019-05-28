@@ -1,5 +1,5 @@
 《**Goodbye Mr.
-Black**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年3月16日起播出的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由[李陣郁](../Page/李陣郁.md "wikilink")、[文彩元](../Page/文彩元.md "wikilink")、[金剛-{于}-](../Page/金剛于.md "wikilink")、[宋再臨及](../Page/宋再臨.md "wikilink")-{[柳仁英](../Page/柳仁英.md "wikilink")}-主演。此劇改編自同名網路漫畫，概念来自《[基度山恩仇記](../Page/基度山恩仇記.md "wikilink")》，由《[想你](../Page/想你.md "wikilink")》、《[能聽見我的心嗎？](../Page/能聽見我的心嗎？.md "wikilink")》、《[心情好的日子](https://zh.wikipedia.org/wiki/心情好的日子 "wikilink")》的[文熙貞作家執筆和曾執導](https://zh.wikipedia.org/wiki/文熙貞 "wikilink")《[Dr.
+Black**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC於](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")2016年3月16日起播出的[水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")，由[李陣郁](../Page/李陣郁.md "wikilink")、[文彩元](../Page/文彩元.md "wikilink")、[金剛-{于}-](../Page/金剛于.md "wikilink")、[宋再臨及](../Page/宋再臨.md "wikilink")-{[柳仁英](../Page/柳仁英.md "wikilink")}-主演。此劇改編自同名網路漫畫，概念来自《[基度山恩仇記](../Page/基度山恩仇記.md "wikilink")》，由《[想你](../Page/想你.md "wikilink")》、《[能聽見我的心嗎？](../Page/能聽見我的心嗎？.md "wikilink")》、《[心情好的日子](../Page/心情好的日子.md "wikilink")》的[文熙貞作家執筆和曾執導](https://zh.wikipedia.org/wiki/文熙貞 "wikilink")《[Dr.
 JIN](../Page/Dr._JIN.md "wikilink")》、《[奇皇后](../Page/奇皇后_\(電視劇\).md "wikilink")》的[韓熙導演合作](../Page/韓熙.md "wikilink")。
 
 [Viu獲得香港地區播映版權](../Page/Viu.md "wikilink")，並於韓國播放完畢後4小時內放送繁體中文字幕版。而[LINE
@@ -115,20 +115,20 @@ Swan</p></td>
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/河戀姝" title="wikilink">河戀姝</a></p></td>
+<td><p><a href="../Page/河戀姝.md" title="wikilink">河戀姝</a></p></td>
 <td><p>高敏荷／<br />
 May</p></td>
 <td><p><a href="../Page/王慧珠.md" title="wikilink">王慧珠</a></p></td>
 <td><p>Hedge Fund MRB National首席經紀人，高晟敏之女，於父親因為智源改過自新後返回韓國協助智源復仇。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/裴侑藍" title="wikilink">裴侑藍</a></p></td>
+<td><p><a href="../Page/裴侑藍.md" title="wikilink">裴侑藍</a></p></td>
 <td><p>安啟東</p></td>
 <td></td>
 <td><p>車智源在軍隊時的下屬，現為車智源復仇團隊成員之一。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/吉海妍" title="wikilink">吉海妍</a></p></td>
+<td><p><a href="../Page/吉海妍.md" title="wikilink">吉海妍</a></p></td>
 <td><p>洪仁子</p></td>
 <td><p><a href="../Page/陳凱婷.md" title="wikilink">陳凱婷</a></p></td>
 <td><p>閔善宰家的保姆，實為高晟敏及車智源的暗線，負責觀察善宰的一舉一動並找尋錄音筆，在第16集離開、轉為高晟敏一家服務。</p></td>

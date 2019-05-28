@@ -2,7 +2,7 @@
 Man**》（）是韓國[JTBC電視台的音樂綜藝節目](../Page/JTBC.md "wikilink")\[1\]\[2\]，於2015年8月19日及8月26日以《Two
 Yoo Project - 尋找Sugar
 Man》為名試播；第一季自10月20日起至2016年7月12日止，逢韓國時間星期二晚上10時50分開始播放，每集約85分鐘\[3\]；第二季自2018年1月14日起，逢韓國時間星期日晚上10時30分開始播放。第一季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、作詞家[金伊娜及](../Page/金伊娜.md "wikilink")[2NE1成員](../Page/2NE1.md "wikilink")[Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")。第二季主持人為[劉在錫](../Page/劉在錫.md "wikilink")、[柳熙烈](https://zh.wikipedia.org/wiki/柳熙烈 "wikilink")、[Red
-Velvet成員](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")[Joy及諧星](../Page/Joy_\(Red_Velvet\).md "wikilink")[朴娜勑](../Page/朴娜勑.md "wikilink")。
+Velvet成員](../Page/Red_Velvet.md "wikilink")[Joy及諧星](../Page/Joy_\(Red_Velvet\).md "wikilink")[朴娜勑](../Page/朴娜勑.md "wikilink")。
 
 節目尋找曾經風靡一時，但現在卻逐漸被遺忘的歌手，將其經典歌曲重新編製，並呈現出不一樣的舞台。每次邀請兩位Sugar Man、兩組Show
 Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部分藉由聆聽申請原因及路人反應猜測歌曲及召喚歌手，後半部分由劉在錫及柳熙烈為首帶領的兩隊結構重編過程及進行經典歌曲再演繹的對決，並由100名觀眾投票選出該集獲勝隊伍。
@@ -121,7 +121,7 @@ Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部�
 <td></td>
 <td><p>在錫隊</p></td>
 <td><p><small><a href="../Page/素珍_(韓國歌手).md" title="wikilink">素珍</a>、出演<br />
-、<a href="../Page/韓尚進.md" title="wikilink">韓尚進</a>、<a href="https://zh.wikipedia.org/wiki/卞真燮" title="wikilink">卞真燮</a>、<br />
+、<a href="../Page/韓尚進.md" title="wikilink">韓尚進</a>、<a href="../Page/卞真燮.md" title="wikilink">卞真燮</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/李鉉宇" title="wikilink">李鉉宇</a>、<a href="../Page/金慶皓.md" title="wikilink">金慶皓影像出演</a></small></p></td>
 </tr>
 <tr class="odd">
@@ -174,7 +174,7 @@ Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部�
 <td><p>02</p></td>
 <td><p><small>10月27日</small></p></td>
 <td><p>在錫隊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/具本承" title="wikilink">具本承</a></p></td>
+<td><p><a href="../Page/具本承.md" title="wikilink">具本承</a></p></td>
 <td><p>只為了你一人<small>（）</small></p></td>
 <td><p><a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a></p></td>
 <td></td>
@@ -186,7 +186,7 @@ Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部�
 <td><p>熙烈隊</p></td>
 <td><p>金主一、金南相（Juliet）</p></td>
 <td><p>等著吧 狼<small>（）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a>（feat. ）</p></td>
+<td><p><a href="../Page/Jessi.md" title="wikilink">Jessi</a>（feat. ）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -199,7 +199,7 @@ Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部�
 <td><p>在錫隊</p></td>
 <td></td>
 <td><p>也許是那樣<small>（）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、<a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a></p></td>
+<td><p><a href="../Page/Loco.md" title="wikilink">Loco</a>、<a href="../Page/Crush_(歌手).md" title="wikilink">Crush</a></p></td>
 <td></td>
 <td><p>熙烈隊</p></td>
 <td><p><small><a href="https://zh.wikipedia.org/wiki/朴慶琳" title="wikilink">朴慶琳出演</a><br />
@@ -256,7 +256,7 @@ Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部�
 <td><p>熙烈隊</p></td>
 <td><p>吳真成（）</p></td>
 <td><p>急診室<small>（）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭承煥" title="wikilink">鄭承煥</a></p></td>
+<td><p><a href="../Page/鄭承煥.md" title="wikilink">鄭承煥</a></p></td>
 <td><p><a href="../Page/Don_Spike.md" title="wikilink">Don Spike</a></p></td>
 <td></td>
 <td></td>
@@ -269,7 +269,7 @@ Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部�
 <td><p>在錫隊</p></td>
 <td></td>
 <td><p>一如往昔<small>（）</small></p></td>
-<td><p><small>頌樂、<a href="https://zh.wikipedia.org/wiki/玟星" title="wikilink">玟星</a>（<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>）</small></p></td>
+<td><p><small>頌樂、<a href="../Page/玟星.md" title="wikilink">玟星</a>（<a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a>）</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Brave_Brothers" title="wikilink">勇敢兄弟</a></p></td>
 <td><p>在錫隊</p></td>
 <td><p><small><a href="../Page/金正民.md" title="wikilink">金正民影像出演</a></small></p></td>
@@ -317,7 +317,7 @@ Man、兩組製作人及100名10代到50代以上年齡層的觀眾，前半部�
 <td><p>黑眼必勝</p></td>
 <td><p>熙烈隊</p></td>
 <td><p><strong>Sugar Man特輯</strong><br />
-<small><a href="https://zh.wikipedia.org/wiki/金亨錫" title="wikilink">金亨錫</a>、<a href="../Page/鄭在炯.md" title="wikilink">鄭在炯出演</a></small></p></td>
+<small><a href="../Page/金亨錫.md" title="wikilink">金亨錫</a>、<a href="../Page/鄭在炯.md" title="wikilink">鄭在炯出演</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
@@ -458,7 +458,7 @@ Super Diva特輯</strong><br />
 （）</p></td>
 <td><p>對你的要求<small>（）</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/裴柱現" title="wikilink">Irene</a>、<a href="https://zh.wikipedia.org/wiki/姜瑟琪" title="wikilink">Seulgi</a>、<a href="https://zh.wikipedia.org/wiki/孫承宛" title="wikilink">Wendy</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/金藝琳_(1999年出生)" title="wikilink">Yeri</a>（<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>）</p></td>
+<a href="https://zh.wikipedia.org/wiki/金藝琳_(1999年出生)" title="wikilink">Yeri</a>（<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）</p></td>
 <td></td>
 <td><p>熙烈隊</p></td>
 <td><p><strong>新年特輯第二彈</strong><br />
@@ -485,8 +485,8 @@ OOON、載庸（<a href="../Page/HALO_(韓國組合).md" title="wikilink">HALO</
 <td><p>在錫隊</p></td>
 <td></td>
 <td><p>這就是愛<small>（）</small></p></td>
-<td><p><a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a>、<a href="https://zh.wikipedia.org/wiki/具俊會" title="wikilink">具俊會</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/金東赫" title="wikilink">金東赫</a>（<a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a>）</p></td>
+<td><p><a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a>、<a href="../Page/具俊會.md" title="wikilink">具俊會</a>、<br />
+<a href="../Page/金東赫.md" title="wikilink">金東赫</a>（<a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/權革" title="wikilink">Dean</a></p></td>
 <td><p>熙烈隊</p></td>
 <td><p><small>影像出演</small></p></td>
@@ -590,7 +590,7 @@ OOON、載庸（<a href="../Page/HALO_(韓國組合).md" title="wikilink">HALO</
 <td><p>熙烈隊</p></td>
 <td></td>
 <td><p>沒有去學校<small>（）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Cheetah" title="wikilink">Cheetah</a>、<a href="../Page/滑川康男.md" title="wikilink">康男</a>（<a href="../Page/M.I.B.md" title="wikilink">M.I.B</a>）</p></td>
+<td><p><a href="../Page/Cheetah.md" title="wikilink">Cheetah</a>、<a href="../Page/滑川康男.md" title="wikilink">康男</a>（<a href="../Page/M.I.B.md" title="wikilink">M.I.B</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -651,7 +651,7 @@ Big Match特輯</strong><br />
 <td><p>在錫隊</p></td>
 <td></td>
 <td><p>Je T'aime<small>（）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南太鉉" title="wikilink">南太鉉</a>、<a href="https://zh.wikipedia.org/wiki/姜勝允" title="wikilink">姜勝允</a>、<br />
+<td><p><a href="../Page/南太鉉.md" title="wikilink">南太鉉</a>、<a href="https://zh.wikipedia.org/wiki/姜勝允" title="wikilink">姜勝允</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink">宋旻浩</a>（<a href="../Page/WINNER.md" title="wikilink">WINNER</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/權革" title="wikilink">Dean</a></p></td>
 <td><p>熙烈隊</p></td>
@@ -699,7 +699,7 @@ Big Match特輯</strong><br />
 <td><p>在錫隊</p></td>
 <td><p>Mono</p></td>
 <td><p>你無論何時<small>（）</small></p></td>
-<td><p><a href="../Page/Simon_D.md" title="wikilink">Simon D</a>（<a href="https://zh.wikipedia.org/wiki/Supreme_Team" title="wikilink">Supreme Team</a>）、<a href="https://zh.wikipedia.org/wiki/Gray_(歌手)" title="wikilink">Gray</a><br />
+<td><p><a href="../Page/Simon_D.md" title="wikilink">Simon D</a>（<a href="https://zh.wikipedia.org/wiki/Supreme_Team" title="wikilink">Supreme Team</a>）、<a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a><br />
 （feat. ）</p></td>
 <td><p>在錫隊</p></td>
 <td><p><small>《<a href="https://zh.wikipedia.org/wiki/舌戰" title="wikilink">舌戰</a>》劇組影像出演</small></p></td>
@@ -709,7 +709,7 @@ Big Match特輯</strong><br />
 <td><p>熙烈隊</p></td>
 <td><p>朱多仁（）</p></td>
 <td><p>我就是我自己<small>（）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/玫瑰旅館" title="wikilink">玫瑰旅館</a></p></td>
+<td><p><a href="../Page/玫瑰旅館.md" title="wikilink">玫瑰旅館</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -731,7 +731,7 @@ Big Match特輯</strong><br />
 <td><p>熙烈隊</p></td>
 <td></td>
 <td><p>Endless</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/車智妍" title="wikilink">車智妍</a></p></td>
+<td><p><a href="../Page/車智妍.md" title="wikilink">車智妍</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Rocoberry" title="wikilink">Rocoberry</a></p></td>
 <td></td>
 <td></td>
@@ -755,7 +755,7 @@ Big Match特輯</strong><br />
 <td><p>熙烈隊</p></td>
 <td><p><a href="../Page/Diva_(音樂團體).md" title="wikilink">Diva</a></p></td>
 <td><p>Up &amp; Down</p></td>
-<td><p><a href="../Page/Haha.md" title="wikilink">Haha</a>、<a href="https://zh.wikipedia.org/wiki/Skull_(歌手)" title="wikilink">Skull</a></p></td>
+<td><p><a href="../Page/Haha.md" title="wikilink">Haha</a>、<a href="../Page/Skull_(歌手).md" title="wikilink">Skull</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/二段橫踢" title="wikilink">Chancellor</a></p></td>
 <td></td>
 <td></td>
@@ -794,7 +794,7 @@ Big Match特輯</strong><br />
 <td><p>Esther</p></td>
 <td><p>到底做錯了什麼<br />
 <small>（）</small></p></td>
-<td><p><small><a href="https://zh.wikipedia.org/wiki/鄭燁" title="wikilink">鄭燁</a>（<a href="https://zh.wikipedia.org/wiki/Brown_Eyed_Soul" title="wikilink">Brown Eyed Soul</a>）</small></p></td>
+<td><p><small><a href="../Page/鄭燁.md" title="wikilink">鄭燁</a>（<a href="../Page/Brown_Eyed_Soul.md" title="wikilink">Brown Eyed Soul</a>）</small></p></td>
 <td></td>
 <td><p>在錫隊</p></td>
 <td><p><small><a href="../Page/Haha.md" title="wikilink">Haha</a>、<a href="../Page/Star_(韓國歌手).md" title="wikilink">Star影像出演</a></small></p></td>
@@ -827,7 +827,7 @@ Tenzo</p></td>
 <td><p>熙烈隊</p></td>
 <td></td>
 <td><p>你為什麼<small>（）</small></p></td>
-<td><p><small><a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a>、（<a href="https://zh.wikipedia.org/wiki/Phantom" title="wikilink">Phantom</a>）</small></p></td>
+<td><p><small><a href="../Page/Jessi.md" title="wikilink">Jessi</a>、（<a href="../Page/Phantom.md" title="wikilink">Phantom</a>）</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -917,7 +917,7 @@ Tenzo</p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/TheThe" title="wikilink">TheThe</a>）</p></td>
+<td><p>（<a href="../Page/TheThe.md" title="wikilink">TheThe</a>）</p></td>
 <td><p>再次對我<small>（）</small></p></td>
 <td><p><a href="../Page/率智.md" title="wikilink">率智</a>、<a href="https://zh.wikipedia.org/wiki/安喜延" title="wikilink">哈妮</a>（<a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>）</p></td>
 <td><p><small>Tenzo &amp; Tasco</small></p></td>
@@ -963,7 +963,7 @@ Tenzo</p></td>
 <td><p>、、<br />
 （）</p></td>
 <td><p>一又二分之一<small>（）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南優賢" title="wikilink">南優賢</a>（<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>）</p></td>
+<td><p><a href="../Page/南優賢.md" title="wikilink">南優賢</a>（<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1011,7 +1011,7 @@ Tenzo</p></td>
 <td><p><a href="../Page/尹賢淑.md" title="wikilink">尹賢淑</a>、黃賢旻、申成彬、<br />
 金賢中（）</p></td>
 <td><p>我不停止<small>（）</small></p></td>
-<td><p>、<a href="https://zh.wikipedia.org/wiki/權珍雅" title="wikilink">權珍雅</a></p></td>
+<td><p>、<a href="../Page/權珍雅.md" title="wikilink">權珍雅</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1037,7 +1037,7 @@ Tenzo</p></td>
 <td><p>Good Time</p></td>
 <td><p><a href="../Page/曹璐.md" title="wikilink">曹璐</a>、禮智、<br />
 Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ra.D" title="wikilink">Ra.D</a></p></td>
+<td><p><a href="../Page/Ra.D.md" title="wikilink">Ra.D</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1140,7 +1140,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p><small>7月12日</small></p></td>
 <td><center>
 <p><strong>Sugar Man，在那之後</strong><br />
-<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="https://zh.wikipedia.org/wiki/洪京民" title="wikilink">洪京民</a>、（、<a href="https://zh.wikipedia.org/wiki/姜斗" title="wikilink">姜斗</a>）、金賢廷（）、<a href="../Page/Diva_(音樂團體).md" title="wikilink">Diva</a>（<a href="https://zh.wikipedia.org/wiki/金佳英" title="wikilink">Vicky</a>、、）、（）、、<br />
+<a href="https://zh.wikipedia.org/wiki/車太鉉" title="wikilink">車太鉉</a>、<a href="https://zh.wikipedia.org/wiki/洪京民" title="wikilink">洪京民</a>、（、<a href="https://zh.wikipedia.org/wiki/姜斗" title="wikilink">姜斗</a>）、金賢廷（）、<a href="../Page/Diva_(音樂團體).md" title="wikilink">Diva</a>（<a href="../Page/金佳英.md" title="wikilink">Vicky</a>、、）、（）、、<br />
 <a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>、<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>、、吳真成（）、<a href="../Page/金多炫.md" title="wikilink">金多炫</a>（）、、、、高載根（）、（朴俊植、<a href="../Page/智鉉寓.md" title="wikilink">智鉉寓</a>）、<br />
 （）、<a href="https://zh.wikipedia.org/wiki/李承鉉" title="wikilink">李承鉉</a>（<a href="../Page/TAKE_(音樂團體).md" title="wikilink">TAKE</a>）、<a href="../Page/戚薇.md" title="wikilink">戚薇出演</a>；、影像出演</p></td>
 <td></td>
@@ -1205,7 +1205,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>熙烈隊</p></td>
 <td></td>
 <td><p>You</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MeloMance" title="wikilink">MeloMance</a></p></td>
+<td><p><a href="../Page/MeloMance.md" title="wikilink">MeloMance</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1217,9 +1217,9 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>在錫隊</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SESESE" title="wikilink">SESESE</a></p></td>
 <td><p>我要走了<small>（）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>熙烈隊</p></td>
-<td><p><small><a href="https://zh.wikipedia.org/wiki/安英美" title="wikilink">安英美</a>、<a href="../Page/希澈.md" title="wikilink">金希澈影像出演</a></small></p></td>
+<td><p><small><a href="../Page/安英美.md" title="wikilink">安英美</a>、<a href="../Page/希澈.md" title="wikilink">金希澈影像出演</a></small></p></td>
 </tr>
 <tr class="even">
 <td><p>熙烈隊</p></td>
@@ -1286,7 +1286,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>熙烈隊</p></td>
 <td></td>
 <td><p>世界上不存在的愛情<small>（）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/城市札卡巴" title="wikilink">Urban Zakapa</a></p></td>
+<td><p><a href="../Page/城市札卡巴.md" title="wikilink">Urban Zakapa</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1400,10 +1400,10 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>在錫隊</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Jewelry" title="wikilink">Jewelry</a></p></td>
 <td><p>One More Time</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Weki_Meki" title="wikilink">Weki Meki</a></p></td>
+<td><p><a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a></p></td>
 <td><p>熙烈隊</p></td>
 <td><p><strong>Dance百盞燈衝啊特輯</strong><br />
-<small><a href="https://zh.wikipedia.org/wiki/薛仁雅" title="wikilink">薛仁雅代班主持</a><br />
+<small><a href="../Page/薛仁雅.md" title="wikilink">薛仁雅代班主持</a><br />
 <a href="../Page/李玟雨.md" title="wikilink">李玟雨影像出演</a></small></p></td>
 </tr>
 <tr class="even">
@@ -1422,7 +1422,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>在錫隊</p></td>
 <td></td>
 <td><p>一個人的戀愛<small>（）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭燁" title="wikilink">鄭燁</a> &amp; </p></td>
+<td><p><a href="../Page/鄭燁.md" title="wikilink">鄭燁</a> &amp; </p></td>
 <td><p>在錫隊</p></td>
 <td><p><strong>God名曲特輯</strong><br />
 <small>、<a href="../Page/尹未來.md" title="wikilink">尹未來</a>、特別出演<br />
@@ -1432,7 +1432,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>熙烈隊</p></td>
 <td></td>
 <td><p>感冒<small>（）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BTOB－BLUE" title="wikilink">BTOB－BLUE</a></p></td>
+<td><p><a href="../Page/BTOB－BLUE.md" title="wikilink">BTOB－BLUE</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1453,7 +1453,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>熙烈隊</p></td>
 <td></td>
 <td><p>怎麼樣<small>（）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭承煥" title="wikilink">鄭承煥</a></p></td>
+<td><p><a href="../Page/鄭承煥.md" title="wikilink">鄭承煥</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1533,7 +1533,7 @@ Linzy（<a href="../Page/FIESTAR.md" title="wikilink">FIESTAR</a>）</p></td>
 <td><p>熙烈隊</p></td>
 <td></td>
 <td><p>好像是吧<small>（）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/UNB" title="wikilink">UNB</a></p></td>
+<td><p><a href="../Page/UNB.md" title="wikilink">UNB</a></p></td>
 <td></td>
 <td></td>
 <td></td>

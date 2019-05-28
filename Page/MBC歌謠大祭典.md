@@ -706,7 +706,7 @@ Moves Like Jagger（原唱：<a href="../Page/魔力紅.md" title="wikilink">魔
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛</a> － 謊言 謊言 謊言 + 奔向天空 + 左撇子</p></td>
+<p><a href="../Page/李笛.md" title="wikilink">李笛</a> － 謊言 謊言 謊言 + 奔向天空 + 左撇子</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -844,7 +844,7 @@ Moves Like Jagger（原唱：<a href="../Page/魔力紅.md" title="wikilink">魔
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/亨敦和大俊" title="wikilink">亨敦和大俊</a> － 奧林匹克大路 + 不爽的時候聽 讓你更不爽的歌[15]</p></td>
+<p><a href="../Page/亨敦和大俊.md" title="wikilink">亨敦和大俊</a> － 奧林匹克大路 + 不爽的時候聽 讓你更不爽的歌[15]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -885,7 +885,7 @@ Moves Like Jagger（原唱：<a href="../Page/魔力紅.md" title="wikilink">魔
 <td><p><a href="https://zh.wikipedia.org/wiki/宣美" title="wikilink">宣美</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/宣美" title="wikilink">宣美</a> × <a href="https://zh.wikipedia.org/wiki/金有謙" title="wikilink">有謙</a>（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宣美" title="wikilink">宣美</a> × <a href="../Page/金有謙.md" title="wikilink">有謙</a>（<a href="../Page/GOT7.md" title="wikilink">GOT7</a>）</p></td>
 <td><p>24小時也不夠</p></td>
 </tr>
 <tr class="odd">
@@ -910,7 +910,7 @@ Moves Like Jagger（原唱：<a href="../Page/魔力紅.md" title="wikilink">魔
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/金明洙.md" title="wikilink">L</a>（<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>）× <a href="../Page/EXO.md" title="wikilink">EXO</a>（<a href="../Page/Chanyeol.md" title="wikilink">Chanyeol</a> × <a href="https://zh.wikipedia.org/wiki/伯賢" title="wikilink">伯賢</a>）－ 我心中的寶石盒子（原唱：）+ wedding cake（原唱：Twin Folio）[17]</p></td>
+<p><a href="../Page/金明洙.md" title="wikilink">L</a>（<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>）× <a href="../Page/EXO.md" title="wikilink">EXO</a>（<a href="../Page/Chanyeol.md" title="wikilink">Chanyeol</a> × <a href="../Page/伯賢.md" title="wikilink">伯賢</a>）－ 我心中的寶石盒子（原唱：）+ wedding cake（原唱：Twin Folio）[17]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1107,7 +1107,7 @@ Moves Like Jagger（原唱：<a href="../Page/魔力紅.md" title="wikilink">魔
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>Ice Cream Cake[26]</p></td>
 </tr>
 <tr class="odd">
@@ -1258,7 +1258,7 @@ Moves Like Jagger（原唱：<a href="../Page/魔力紅.md" title="wikilink">魔
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/申昇勳" title="wikilink">申昇勳</a></p></td>
+<td><p><a href="../Page/申昇勳.md" title="wikilink">申昇勳</a></p></td>
 <td><p>I Believe + 微笑中的你[47] + 像初次的感覺一樣[48]</p></td>
 </tr>
 <tr class="odd">
@@ -1318,7 +1318,7 @@ Moves Like Jagger（原唱：<a href="../Page/魔力紅.md" title="wikilink">魔
 </tr>
 <tr class="even">
 <td><p>經典歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>I Love You（原唱：<a href="../Page/S.E.S._(組合).md" title="wikilink">S.E.S.</a>）[56]</p></td>
 </tr>
 <tr class="odd">
@@ -1394,9 +1394,9 @@ Uptown Funk（原唱：<a href="../Page/馬克·朗森.md" title="wikilink">馬�
 </tr>
 <tr class="odd">
 <td><p>限定合作舞台</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/申昇勳" title="wikilink">申昇勳</a> × <a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">TEEN TOP</a> × <a href="../Page/Apink.md" title="wikilink">Apink</a> × <a href="../Page/B1A4.md" title="wikilink">B1A4</a> ×<br />
+<td><p><a href="../Page/申昇勳.md" title="wikilink">申昇勳</a> × <a href="https://zh.wikipedia.org/wiki/TEEN_TOP" title="wikilink">TEEN TOP</a> × <a href="../Page/Apink.md" title="wikilink">Apink</a> × <a href="../Page/B1A4.md" title="wikilink">B1A4</a> ×<br />
 <a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a> × <a href="../Page/VIXX.md" title="wikilink">VIXX</a> × <a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a> × <a href="https://zh.wikipedia.org/wiki/MAMAMOO" title="wikilink">MAMAMOO</a> ×<br />
-<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a> × <a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a> × <a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a></p></td>
+<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a> × <a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a> × <a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a></p></td>
 <td><p>Hello, Hello, Hello[67]</p></td>
 </tr>
 <tr class="even">
@@ -1529,7 +1529,7 @@ Uptown Funk（原唱：<a href="../Page/馬克·朗森.md" title="wikilink">馬�
 <tr class="even">
 <td><p>限定合作舞台</p></td>
 <td><p><a href="../Page/韓東根.md" title="wikilink">韓東根</a> × 崔孝仁</p></td>
-<td><p>謊言 謊言 謊言[80]（原唱：<a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛</a>）</p></td>
+<td><p>謊言 謊言 謊言[80]（原唱：<a href="../Page/李笛.md" title="wikilink">李笛</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>經典歌曲表演</p></td>
@@ -1598,7 +1598,7 @@ Uptown Funk（原唱：<a href="../Page/馬克·朗森.md" title="wikilink">馬�
 </tr>
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>Russian Roulette[90]</p></td>
 </tr>
 <tr class="odd">
@@ -1941,7 +1941,7 @@ Uptown Funk（原唱：<a href="../Page/馬克·朗森.md" title="wikilink">馬�
 <tr class="odd">
 <td><p>2017女團熱門歌曲串燒</p></td>
 <td></td>
-<td><p>SIGNAL（原唱：<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>）+ Red Flavor（原唱：<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>）+ Gashina（原唱：<a href="https://zh.wikipedia.org/wiki/宣美" title="wikilink">宣美</a>）[135]</p></td>
+<td><p>SIGNAL（原唱：<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>）+ Red Flavor（原唱：<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）+ Gashina（原唱：<a href="https://zh.wikipedia.org/wiki/宣美" title="wikilink">宣美</a>）[135]</p></td>
 </tr>
 <tr class="even">
 <td><p>2017男團熱門歌曲串燒</p></td>
@@ -2031,7 +2031,7 @@ DNA（原唱：<a href="../Page/防彈少年團.md" title="wikilink">防彈少�
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>Peek-A-Boo[150]</p></td>
 </tr>
 <tr class="even">
@@ -2123,11 +2123,11 @@ DNA（原唱：<a href="../Page/防彈少年團.md" title="wikilink">防彈少�
 <tr class="even">
 <td><p>熱門歌曲表演</p></td>
 <td><p><a href="../Page/MOMOLAND.md" title="wikilink">MOMOLAND</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BBoom_BBoom" title="wikilink">BBoom BBoom</a> + BAAM</p></td>
+<td><p><a href="../Page/BBoom_BBoom.md" title="wikilink">BBoom BBoom</a> + BAAM</p></td>
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲REMIX表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/(G)I-DLE" title="wikilink">(G)I-DLE</a></p></td>
+<td><p><a href="../Page/(G)I-DLE.md" title="wikilink">(G)I-DLE</a></p></td>
 <td><p>LATATA (House Ver.)[163]</p></td>
 </tr>
 <tr class="even">
@@ -2377,7 +2377,7 @@ DNA（原唱：<a href="../Page/防彈少年團.md" title="wikilink">防彈少�
 </tr>
 <tr class="odd">
 <td><p>熱門歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>Intro (Dance Performance) + RBB (Really Bad Boy)[187]</p></td>
 </tr>
 <tr class="even">

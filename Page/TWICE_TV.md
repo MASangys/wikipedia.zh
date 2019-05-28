@@ -15,7 +15,7 @@ TVcast播出。\[1\]
 | 1  | 2015年7月17日 | [娜璉](../Page/娜璉.md "wikilink")、[子瑜](../Page/周子瑜.md "wikilink")                                                                                                                  |
 | 2  | 2015年7月24日 | [Sana](https://zh.wikipedia.org/wiki/湊崎紗夏 "wikilink")、[Mina](../Page/Mina_\(TWICE\).md "wikilink")、 [Momo](../Page/Momo_\(TWICE\).md "wikilink")、[彩瑛](../Page/彩瑛.md "wikilink") |
 | 3  | 2015年7月31日 |                                                                                                                                                                                 |
-| 4  | 2015年8月7日  | [定延](https://zh.wikipedia.org/wiki/定延 "wikilink")、[志效](../Page/志效.md "wikilink")、[多賢](../Page/多賢.md "wikilink")、[娜璉](../Page/娜璉.md "wikilink")、[子瑜](../Page/周子瑜.md "wikilink")  |
+| 4  | 2015年8月7日  | [定延](../Page/定延.md "wikilink")、[志效](../Page/志效.md "wikilink")、[多賢](../Page/多賢.md "wikilink")、[娜璉](../Page/娜璉.md "wikilink")、[子瑜](../Page/周子瑜.md "wikilink")                     |
 | 5  | 2015年8月14日 | 全體                                                                                                                                                                              |
 
 ## 第二季

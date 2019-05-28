@@ -63,7 +63,7 @@ Mate**》在同年4月播出\[2\]。第二期動畫於2018年7月2日播映\[3\]
   - 音樂：
   - 音樂製作：
   - 製作人：後藤裕、鈴木良兵、鈴木脩一
-  - 動畫製作：[颱風Graphics](https://zh.wikipedia.org/wiki/颱風Graphics "wikilink")、[ZERO-G](https://zh.wikipedia.org/wiki/ZERO-G "wikilink")（One
+  - 動畫製作：[颱風Graphics](https://zh.wikipedia.org/wiki/颱風Graphics "wikilink")、[ZERO-G](../Page/ZERO-G.md "wikilink")（One
     Room Second Season）
   - 製作：「One Room」製作委員會、「Room Mate」製作委員會、「One Room Second Season」製作委員會
 

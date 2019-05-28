@@ -1,4 +1,4 @@
-《**Argon**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2017年9月4日起播出的[月火連續劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")，由《[奶酪陷阱](../Page/奶酪陷阱.md "wikilink")》[李允正導演執導與全英信](https://zh.wikipedia.org/wiki/李允正 "wikilink")、朱元奎、申河恩作家合作打造。\[1\]此劇講述在假新聞氾濫的社會中，一群只透過事實揭露真相的熱血記者們炙熱的生活故事。
+《**Argon**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN於](../Page/TVN.md "wikilink")2017年9月4日起播出的[月火連續劇](https://zh.wikipedia.org/wiki/tvN月火連續劇 "wikilink")，由《[奶酪陷阱](../Page/奶酪陷阱.md "wikilink")》[李允正導演執導與全英信](../Page/李允正.md "wikilink")、朱元奎、申河恩作家合作打造。\[1\]此劇講述在假新聞氾濫的社會中，一群只透過事實揭露真相的熱血記者們炙熱的生活故事。
 
 ## 演員陣容
 
@@ -35,7 +35,7 @@
 <td><p>《Argon》節目製作人、資深新聞記者，在現場會不惜身體進行取材的熱血角色。在《Argon》團隊中經常與金百鎮因意見相左而起衝突，但事實上卻是最了解彼此的人。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴喜本" title="wikilink">朴喜本</a></p></td>
+<td><p><a href="../Page/朴喜本.md" title="wikilink">朴喜本</a></p></td>
 <td><p>陸惠莉</p></td>
 <td><p>《Argon》資深作家，在新聞局內擔任作家已有10年之久，是金百鎮最信賴的作家。</p></td>
 </tr>
@@ -102,7 +102,7 @@
 <td><p>HBC NEWS 9 主播。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/金佳英" title="wikilink">金佳英</a></p></td>
+<td><p><a href="../Page/金佳英.md" title="wikilink">金佳英</a></p></td>
 <td><p>金佳英</p></td>
 <td><p>HBC NEWS 9 播報員。</p></td>
 </tr>
@@ -348,7 +348,7 @@
 ## 同時段作品
 
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[學校2017](https://zh.wikipedia.org/wiki/學校2017 "wikilink")》、《[內衣少女時代](https://zh.wikipedia.org/wiki/內衣少女時代 "wikilink")》
+    [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[學校2017](../Page/學校2017.md "wikilink")》、《[內衣少女時代](../Page/內衣少女時代.md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
     [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[王在相愛](../Page/王在相愛.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")

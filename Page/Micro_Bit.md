@@ -46,9 +46,9 @@ I/O包括环孔连接器：3个[GPIO](https://zh.wikipedia.org/wiki/GPIO "wikili
 
 Micro
 Bit的软件是使用[ARM](https://zh.wikipedia.org/wiki/ARM_Holdings "wikilink")
-[Mbed开发工具建立的](https://zh.wikipedia.org/wiki/Mbed "wikilink")\[21\]，并且采用了其编程接口[DAPLink](https://www.mbed.com/en/platform/hardware/prototyping-production/daplink/daplink-on-kl26z/)，设备在连接到计算机的时候，是作为一个[USB大容量存储设备而出现的](https://zh.wikipedia.org/wiki/USB大容量存储设备 "wikilink")\[22\]。[兰卡斯特大学开发了micro](../Page/兰卡斯特大学.md "wikilink"):bit[运行时系统](https://zh.wikipedia.org/wiki/运行时系统 "wikilink")（有时称为设备抽象层），提供了[事件驱动编程和](https://zh.wikipedia.org/wiki/事件驱动 "wikilink")机制\[23\]，采用了的[nRF51
+[Mbed开发工具建立的](../Page/Mbed.md "wikilink")\[21\]，并且采用了其编程接口[DAPLink](https://www.mbed.com/en/platform/hardware/prototyping-production/daplink/daplink-on-kl26z/)，设备在连接到计算机的时候，是作为一个[USB大容量存储设备而出现的](https://zh.wikipedia.org/wiki/USB大容量存储设备 "wikilink")\[22\]。[兰卡斯特大学开发了micro](../Page/兰卡斯特大学.md "wikilink"):bit[运行时系统](https://zh.wikipedia.org/wiki/运行时系统 "wikilink")（有时称为设备抽象层），提供了[事件驱动编程和](https://zh.wikipedia.org/wiki/事件驱动 "wikilink")机制\[23\]，采用了的[nRF51
 SDK](https://github.com/ARMmbed/nrf51-sdk)和[S110
-SoftDevice](http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.softdevices51/dita/softdevices/s110/s110.html?cp=3_7_0)，以及[Mbed的](https://zh.wikipedia.org/wiki/Mbed "wikilink")[BLE
+SoftDevice](http://infocenter.nordicsemi.com/topic/com.nordic.infocenter.softdevices51/dita/softdevices/s110/s110.html?cp=3_7_0)，以及[Mbed的](../Page/Mbed.md "wikilink")[BLE
 API](https://os.mbed.com/teams/Bluetooth-Low-Energy/)，并与[蓝牙技术联盟协作开发了定制的BLE](https://zh.wikipedia.org/wiki/蓝牙技术联盟 "wikilink")
 [profile](https://lancaster-university.github.io/microbit-docs/ble/profile/)。用户用[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")/[C++语言编写的应用程序](../Page/C++.md "wikilink")，可以通过Mbed在线编译器\[24\]、[Mbed
 CLI](https://github.com/ARMmbed/mbed-cli)、[GNU MCU
@@ -63,7 +63,7 @@ ARM工具链](https://developer.arm.com/open-source/gnu-toolchain)来进行编�
     Blocks编辑器和浏览器内[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")，曾经称为[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
     PXT编辑器，[PXT](https://makecode.com/docs)（编程实验工具包）完全在用户[浏览器中运行](https://zh.wikipedia.org/wiki/浏览器 "wikilink")，它通过内置的[ARM
     Thumb](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")[编译器生成](https://zh.wikipedia.org/wiki/编译器 "wikilink")[目标代码](../Page/目标代码.md "wikilink")，浏览器同时还装载了预编译的micro:bit[运行时系统](https://zh.wikipedia.org/wiki/运行时系统 "wikilink")，从而与用户目标代码[链接成最终目标代码](../Page/链接器.md "wikilink")，还可以在刷写入设备之前在内置的micro:bit[模拟器中见到它的运行效果](https://zh.wikipedia.org/wiki/模拟器 "wikilink")\[25\]。
-  - [MicroPython](https://zh.wikipedia.org/wiki/MicroPython "wikilink")，是完整的[Python](../Page/Python.md "wikilink")
+  - [MicroPython](../Page/MicroPython.md "wikilink")，是完整的[Python](../Page/Python.md "wikilink")
     3语言实现，包含了Python[标准库的一个小子集](../Page/标准库.md "wikilink")，带有[音乐编程语言和](../Page/音阶.md "wikilink")[语音合成器](../Page/语音合成.md "wikilink")，本地[文件系统](../Page/文件系统.md "wikilink")，被推荐用于做进一步的编程[实验](https://zh.wikipedia.org/wiki/实验 "wikilink")\[26\]\[27\]。用户可以在[web编辑器中写Python](https://zh.wikipedia.org/wiki/web "wikilink")[脚本](../Page/脚本语言.md "wikilink")，其[源代码被附加于MicroPython实现](../Page/源代码.md "wikilink")[固件的后面](https://zh.wikipedia.org/wiki/固件 "wikilink")，把这个最终复合固件下载后刷写到设备中，MicroPython运行后将附随的源代码编译成[字节码并在](https://zh.wikipedia.org/wiki/字节码 "wikilink")[虚拟机中运行](https://zh.wikipedia.org/wiki/虚拟机 "wikilink")，由于内存限制在MicroPython内未启用[nRF51的蓝牙协议栈](https://zh.wikipedia.org/wiki/nRF51 "wikilink")\[28\]。可以通过USB串行连接访问MicroPython
     [REPL](../Page/读取﹣求值﹣输出循环.md "wikilink")，从而可直接交互于Micro
     Bit的外设。MicroPython的编辑器还有给初学者在[PC上用](../Page/个人电脑.md "wikilink")[Mu](http://codewith.mu/)，和[在线blocks编辑器](https://zh.wikipedia.org/wiki/在线 "wikilink")[EduBlocks](https://microbit.edublocks.org)。
@@ -81,7 +81,7 @@ ARM工具链](https://developer.arm.com/open-source/gnu-toolchain)来进行编�
 除了micro:bit运行时系统所采用的[Mbed
 OS 2](https://os.mbed.com/handbook/Homepage)，以及nRF51
 SDK支持的[CMSIS-RTOS
-RTX](http://www2.keil.com/mdk5/cmsis/rtx)\[30\]\[31\]\[32\]，可以在micro:bit上运行的[嵌入式操作系统还有](https://zh.wikipedia.org/wiki/嵌入式操作系统 "wikilink")：[Zephyr](https://zh.wikipedia.org/wiki/Zephyr "wikilink")，，[RIOT](../Page/RIOT.md "wikilink")。
+RTX](http://www2.keil.com/mdk5/cmsis/rtx)\[30\]\[31\]\[32\]，可以在micro:bit上运行的[嵌入式操作系统还有](https://zh.wikipedia.org/wiki/嵌入式操作系统 "wikilink")：[Zephyr](../Page/Zephyr.md "wikilink")，，[RIOT](../Page/RIOT.md "wikilink")。
 
 针对micro:bit的其他编程语言有：u[Lisp](https://zh.wikipedia.org/wiki/Lisp "wikilink")\[33\]、Mecrisp
 [Forth](../Page/Forth.md "wikilink")\[34\]、[Free
@@ -103,7 +103,7 @@ Micro这项遗产之上](../Page/BBC_Micro.md "wikilink")\[47\]。
 Micro Bit的开发汇集了众多伙伴与BBC一起工作：
 
   - [ARM控股](https://zh.wikipedia.org/wiki/ARM_Holdings "wikilink") –
-    提供[Mbed开发工具](https://zh.wikipedia.org/wiki/Mbed "wikilink")、[固件和编译器服务](https://zh.wikipedia.org/wiki/固件 "wikilink")\[48\]。
+    提供[Mbed开发工具](../Page/Mbed.md "wikilink")、[固件和编译器服务](https://zh.wikipedia.org/wiki/固件 "wikilink")\[48\]。
 
   - –
     为这个设备提供目标[MCU和](https://zh.wikipedia.org/wiki/微控制器单元 "wikilink")[BLE](../Page/蓝牙低功耗.md "wikilink")[协议栈](../Page/协议栈.md "wikilink")\[49\]。
@@ -124,7 +124,7 @@ Micro Bit的开发汇集了众多伙伴与BBC一起工作：
 
   - [Python软件基金会](https://zh.wikipedia.org/wiki/Python软件基金会 "wikilink")
     –
-    将[MicroPython](https://zh.wikipedia.org/wiki/MicroPython "wikilink")[移植到这个设备](https://zh.wikipedia.org/wiki/移植_\(软件\) "wikilink")，建立本机和基于web的初学者友好的Python代码编辑器，出品大量教育资源并为教师建立有组织的开发者领导的工场\[55\]\[56\]。
+    将[MicroPython](../Page/MicroPython.md "wikilink")[移植到这个设备](https://zh.wikipedia.org/wiki/移植_\(软件\) "wikilink")，建立本机和基于web的初学者友好的Python代码编辑器，出品大量教育资源并为教师建立有组织的开发者领导的工场\[55\]\[56\]。
 
   - – 监督这个设备的制造\[57\]。
 

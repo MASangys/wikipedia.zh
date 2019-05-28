@@ -1,4 +1,4 @@
-《**Eighteen**》是[韓國歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Shannon的第一張韓語迷你專輯](https://zh.wikipedia.org/wiki/Shannon_\(韓國歌手\) "wikilink")，由[MBK娛樂之子公司](../Page/MBK娛樂.md "wikilink")[Dap
+《**Eighteen**》是[韓國歌手](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Shannon的第一張韓語迷你專輯](../Page/Shannon_\(韓國歌手\).md "wikilink")，由[MBK娛樂之子公司](../Page/MBK娛樂.md "wikilink")[Dap
 sound於](../Page/MBK娛樂.md "wikilink")2015年3月5日發佈\[1\]。
 
 ## 發行背景

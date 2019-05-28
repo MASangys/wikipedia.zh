@@ -3,8 +3,7 @@
 ## 评价
 
 [Honkai_Impact_3_booth,_Taipei_Game_Show_20180126.jpg](https://zh.wikipedia.org/wiki/File:Honkai_Impact_3_booth,_Taipei_Game_Show_20180126.jpg "fig:Honkai_Impact_3_booth,_Taipei_Game_Show_20180126.jpg")，《崩壞3rd》攤位\]\]
-《崩坏3》曾获得《2016 [Tap
-Tap](https://zh.wikipedia.org/wiki/TapTap_\(游戏社区\) "wikilink")
+《崩坏3》曾获得《2016 [Tap Tap](../Page/TapTap_\(游戏社区\).md "wikilink")
 年度最佳游戏提名》\[4\]和《2016 TapTap
 年度最佳视觉奖》\[5\]。在製作成遊戲之前，還於《[有妖气](../Page/有妖气.md "wikilink")》、《[布卡漫画](../Page/布卡漫画.md "wikilink")》等漫画平台連載漫畫。
 

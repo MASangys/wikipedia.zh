@@ -9,7 +9,7 @@ OK？”（你没事吧？），而雷语所说的英文带有浓厚的口音及
 
 [哔哩哔哩用户Mr](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink").
 Lemon以雷军的上述英语演讲为素材对Lou
-Bega演唱的歌曲《Angelina》重新填词，将其剪辑制作成[音MAD作品](https://zh.wikipedia.org/wiki/音MAD "wikilink")，并于2015年4月30日以《【循环向】跟着雷总摇起来！Are
+Bega演唱的歌曲《Angelina》重新填词，将其剪辑制作成[音MAD作品](../Page/音MAD.md "wikilink")，并于2015年4月30日以《【循环向】跟着雷总摇起来！Are
 you
 OK！》为题上传到[bilibili](https://zh.wikipedia.org/wiki/bilibili "wikilink")，由于该作品音乐押韵，且雷军神态可掬，于是迅速走红网络。\[3\]
 

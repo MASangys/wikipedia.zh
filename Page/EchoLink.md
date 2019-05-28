@@ -41,7 +41,7 @@ Windows版本的EchoLink也可以借由](https://zh.wikipedia.org/wiki/Microsoft
 
   -
   -
-  - [广覆盖互联网中继器增强系统](https://zh.wikipedia.org/wiki/广覆盖互联网中继器增强系统 "wikilink")
+  - [广覆盖互联网中继器增强系统](../Page/广覆盖互联网中继器增强系统.md "wikilink")
 
 ## 註腳
 

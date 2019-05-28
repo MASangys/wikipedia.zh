@@ -39,7 +39,7 @@ hand”。
 
 ## 另见
 
-  - [情感计算](https://zh.wikipedia.org/wiki/情感计算 "wikilink")
+  - [情感计算](../Page/情感计算.md "wikilink")
   - [人工智能](../Page/人工智能.md "wikilink")
 
 ## 参见

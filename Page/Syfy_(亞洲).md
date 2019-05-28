@@ -16,14 +16,14 @@
 
   - [地球異世界](../Page/地球異世界.md "wikilink")
 
-  - [天使聖戰](https://zh.wikipedia.org/wiki/天使聖戰 "wikilink")
+  - [天使聖戰](../Page/天使聖戰.md "wikilink")
 
   - [天才之城](../Page/靈異之城.md "wikilink")
 
   -
   - [異天堂](../Page/避風港_\(電視劇\).md "wikilink")
 
-  - [全面駭入](https://zh.wikipedia.org/wiki/全面駭入 "wikilink")
+  - [全面駭入](../Page/全面駭入.md "wikilink")
 
   -
   - [靈媒緝凶](../Page/靈媒緝凶.md "wikilink")

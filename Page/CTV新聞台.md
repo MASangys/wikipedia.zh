@@ -1,4 +1,4 @@
-**CTV新聞台**（）是[加拿大一個丙類收費電視頻道](https://zh.wikipedia.org/wiki/加拿大電視 "wikilink")，母公司為[加拿大貝爾屬下的](https://zh.wikipedia.org/wiki/加拿大貝爾 "wikilink")[貝爾傳媒](../Page/貝爾傳媒.md "wikilink")，定位為24小時新聞頻道，播放國内外頭條和突發新聞，從設於[安大略省](../Page/安大略省.md "wikilink")[多倫多市](https://zh.wikipedia.org/wiki/多倫多 "wikilink")[士嘉堡區](../Page/士嘉堡.md "wikilink")[愛靜閣社區的CTV全國總部廣播](../Page/愛靜閣.md "wikilink")。
+**CTV新聞台**（）是[加拿大一個丙類收費電視頻道](https://zh.wikipedia.org/wiki/加拿大電視 "wikilink")，母公司為[加拿大貝爾屬下的](../Page/加拿大貝爾.md "wikilink")[貝爾傳媒](../Page/貝爾傳媒.md "wikilink")，定位為24小時新聞頻道，播放國内外頭條和突發新聞，從設於[安大略省](../Page/安大略省.md "wikilink")[多倫多市](https://zh.wikipedia.org/wiki/多倫多 "wikilink")[士嘉堡區](../Page/士嘉堡.md "wikilink")[愛靜閣社區的CTV全國總部廣播](../Page/愛靜閣.md "wikilink")。
 
 ## 歷史
 
@@ -7,7 +7,7 @@
 
 CTV在頻道啓播後一直爭取修改其牌照條款，以容許該台較大彈性覆蓋突發新聞及播放時事討論節目。CRTC終在2005年4月決定放寬CTV新聞網的牌照條款，取消該台每15分鐘一次循環式廣播的規定，並允許該台撥出少量廣播時段播出時事討論節目\[4\]。頻道於2009年5月26日改稱「CTV新聞台」並維持至今，但沒有改革節目時間表或廣播模式\[5\]。
 
-[加拿大貝爾於](https://zh.wikipedia.org/wiki/加拿大貝爾 "wikilink")2010年9月宣佈計劃全資收購CTV新聞台的母公司CTV環球傳媒（）\[6\]；交易於2011年3月7日獲CRTC批准\[7\]，而CTV新聞台及其他同系頻道則於同年4月1日撥入新成立的貝爾傳媒。
+[加拿大貝爾於](../Page/加拿大貝爾.md "wikilink")2010年9月宣佈計劃全資收購CTV新聞台的母公司CTV環球傳媒（）\[6\]；交易於2011年3月7日獲CRTC批准\[7\]，而CTV新聞台及其他同系頻道則於同年4月1日撥入新成立的貝爾傳媒。
 
 CTV新聞台於2011年12月19日更新視覺形象，啓用新台徽標誌、鏡面設計和佈景，並引入[高清製作](https://zh.wikipedia.org/wiki/高清電視 "wikilink")\[8\]。頻道的高清訊號於2012年2月在貝爾的Fibe
 TV平台啓播。

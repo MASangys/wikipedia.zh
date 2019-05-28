@@ -2,7 +2,7 @@
 1.0、[SAX](https://zh.wikipedia.org/wiki/Simple_API_for_XML "wikilink")、[XSLT](https://zh.wikipedia.org/wiki/XSL_Transformations "wikilink")
 1.0，并提供了包括[XSD和](https://zh.wikipedia.org/wiki/XSD "wikilink")[XDR在内的](https://zh.wikipedia.org/wiki/XDR_Schema "wikilink")[XML
 Schema
-语言](https://zh.wikipedia.org/wiki/XML_Schema_语言 "wikilink")、[XMLHttpRequest](../Page/XMLHttpRequest.md "wikilink")、[XPath等技术](../Page/XPath.md "wikilink")。
+语言](../Page/XML_Schema_语言.md "wikilink")、[XMLHttpRequest](../Page/XMLHttpRequest.md "wikilink")、[XPath等技术](../Page/XPath.md "wikilink")。
 
 XMLlite是前向读写XML文件，不缓冲或者建立XML文件的结构。
 
@@ -12,7 +12,7 @@ XMLlite并不是[COM组件](https://zh.wikipedia.org/wiki/Component_Object_Model
   - 数据存储使用了COM的IStream；
   - 接口对象的管理使用[ATL的CComPtr](../Page/活动模板库.md "wikilink")。
 
-使用这些COM资源时应该注意用后调用Release函数或者CComPtr的[RAII](https://zh.wikipedia.org/wiki/RAII "wikilink")。
+使用这些COM资源时应该注意用后调用Release函数或者CComPtr的[RAII](../Page/RAII.md "wikilink")。
 
 ## 系统安装
 

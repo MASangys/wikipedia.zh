@@ -18,7 +18,7 @@ OVER-*'』為日本團體[AAA於](../Page/AAA_\(團體\).md "wikilink")2016年11
       -
         「[AAA TOUR 2013 Eighth
         Wonder](../Page/AAA_TOUR_2013_Eighth_Wonder.md "wikilink")」之後的首次影像化。
-4.  **[SHOW TIME](https://zh.wikipedia.org/wiki/SHOW_TIME "wikilink")**
+4.  **[SHOW TIME](../Page/SHOW_TIME.md "wikilink")**
       -
         「[AAA ARENA TOUR 2014 -Gold
         Symphony-](../Page/AAA_ARENA_TOUR_2014_-Gold_Symphony-.md "wikilink")」之後的首次影像化。
@@ -70,7 +70,7 @@ OVER-*'』為日本團體[AAA於](../Page/AAA_\(團體\).md "wikilink")2016年11
       -
         「AAA 10th ANNIVERSARY Documentary 〜Road of 10th
         ANNIVERSARY〜」之後的首次影像化。
-18. **[說再見之前](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")** (ENCORE)
+18. **[說再見之前](../Page/說再見之前.md "wikilink")** (ENCORE)
       -
         「AAA 10th ANNIVERSARY Documentary 〜Road of 10th
         ANNIVERSARY〜」之後的首次影像化。

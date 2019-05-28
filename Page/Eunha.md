@@ -25,9 +25,9 @@ My God\! Tip\[7\]。5月25日，銀河與朴經合作，推出歌曲《自卑心
 
 2016年11月，Eunha加入Sunny Girls
 -《人氣歌謠》特別合作企劃女團，該組合其他成員4個成员分別是：[宇宙少女的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")[程瀟](https://zh.wikipedia.org/wiki/程瀟 "wikilink")、[gu9udan](https://zh.wikipedia.org/wiki/gu9udan "wikilink")
-的 [娜英](https://zh.wikipedia.org/wiki/娜英 "wikilink")、[Oh My
+的 [娜英](../Page/娜英.md "wikilink")、[Oh My
 Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink") 的
-[YooA](https://zh.wikipedia.org/wiki/YooA "wikilink")、[MOMOLAND](https://zh.wikipedia.org/wiki/MOMOLAND "wikilink")
+[YooA](../Page/YooA.md "wikilink")、[MOMOLAND](../Page/MOMOLAND.md "wikilink")
 的 [Nancy](https://zh.wikipedia.org/wiki/Nancy "wikilink")
 ，一共五人所組成的特別合作女團並表演歌曲。\[10\]
 
@@ -106,15 +106,15 @@ Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink") 的
 
 ### 合作單曲
 
-|        |                  |                                                      |                                                          |
-| ------ | ---------------- | ---------------------------------------------------- | -------------------------------------------------------- |
-| 年份     | 日期               | 歌曲名稱                                                 | 備註                                                       |
-| 2015   | 10月21日           | 漢江的夜晚 （밤에 본 한강）                                      | 與[Pro C](../Page/Pro_C.md "wikilink")                    |
-| 2016   | 5月25日            | 自卑心理（자격지심）                                           | 與[朴經](../Page/朴經.md "wikilink")                          |
-| 10月12日 | Firefly（반딧불이）    | 與[黃致列](../Page/黃致列.md "wikilink")                    |                                                          |
-| 11月2日  | Chemistry (케미)   | 與[MC夢](https://zh.wikipedia.org/wiki/MC夢 "wikilink") |                                                          |
-| 2017   | 10月26日           | 左手右手（왼손 오른손）                                         | 与[天地](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink") |
-| 11月3日  | 今天特别漂亮（오늘따라 예쁘다） | 与Yun DDan DDan                                       |                                                          |
+|        |                  |                                   |                                                          |
+| ------ | ---------------- | --------------------------------- | -------------------------------------------------------- |
+| 年份     | 日期               | 歌曲名稱                              | 備註                                                       |
+| 2015   | 10月21日           | 漢江的夜晚 （밤에 본 한강）                   | 與[Pro C](../Page/Pro_C.md "wikilink")                    |
+| 2016   | 5月25日            | 自卑心理（자격지심）                        | 與[朴經](../Page/朴經.md "wikilink")                          |
+| 10月12日 | Firefly（반딧불이）    | 與[黃致列](../Page/黃致列.md "wikilink") |                                                          |
+| 11月2日  | Chemistry (케미)   | 與[MC夢](../Page/MC夢.md "wikilink") |                                                          |
+| 2017   | 10月26日           | 左手右手（왼손 오른손）                      | 与[天地](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink") |
+| 11月3日  | 今天特别漂亮（오늘따라 예쁘다） | 与Yun DDan DDan                    |                                                          |
 
 ### 音樂現場
 

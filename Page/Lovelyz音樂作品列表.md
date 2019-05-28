@@ -192,7 +192,7 @@
 <p></ref></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Fall_in_Lovelyz" title="wikilink">Fall in Lovelyz</a></p></td>
+<td><p><a href="../Page/Fall_in_Lovelyz.md" title="wikilink">Fall in Lovelyz</a></p></td>
 <td><ul>
 <li>發行日期：2017年11月14日</li>
 <li>廠牌：Woollim娛樂</li>
@@ -206,7 +206,7 @@
 <p></ref></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/治癒_(專輯)" title="wikilink">治癒</a></p></td>
+<td><p><a href="../Page/治癒_(專輯).md" title="wikilink">治癒</a></p></td>
 <td><ul>
 <li>發行日期：2018年4月23日</li>
 <li>廠牌：Woollim娛樂</li>
@@ -761,7 +761,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/推理的女王2" title="wikilink">推理的女王2</a> OST Part.2 《<strong>最近的你最近的我</strong>》</p>
+<td><p><a href="../Page/推理的女王2.md" title="wikilink">推理的女王2</a> OST Part.2 《<strong>最近的你最近的我</strong>》</p>
 <ul>
 <li>發行日期：2018年3月8日</li>
 <li>語言：韓語</li>
@@ -769,7 +769,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Rich_Man" title="wikilink">Rich Man</a> OST Part.3 《<strong>Let’s Pray</strong>》</p>
+<td><p><a href="../Page/Rich_Man.md" title="wikilink">Rich Man</a> OST Part.3 《<strong>Let’s Pray</strong>》</p>
 <ul>
 <li>發行日期：2018年5月26日</li>
 <li>語言：韓語</li>
@@ -813,7 +813,7 @@
 <li>發行日期：2013年1月11日</li>
 <li>語言：韓語</li>
 </ul></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/INFINITE_H" title="wikilink">INFINITE H</a> 《<a href="https://zh.wikipedia.org/wiki/Fly_High" title="wikilink">Fly High</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/INFINITE_H" title="wikilink">INFINITE H</a> 《<a href="../Page/Fly_High.md" title="wikilink">Fly High</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">

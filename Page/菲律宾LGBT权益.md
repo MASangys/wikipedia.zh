@@ -12,7 +12,7 @@
 
 ### 基督堂教会
 
-基督堂教会不是谴责同性恋的事实本身，而是坚持以[圣经为教导](https://zh.wikipedia.org/wiki/圣经 "wikilink")，谴责那些同性恋行为，因为这些行为被视为不道德和[邪恶](../Page/惡.md "wikilink")。\[13\]这些行为包括：发生同性性行为，与同性建立伴侣关系，[異裝以及同性婚姻](https://zh.wikipedia.org/wiki/異裝 "wikilink")。\[14\]此外，在基督堂教会，男人不准留长发，因为长发被看作是[女性化的象征](https://zh.wikipedia.org/wiki/女性化 "wikilink")，应该专属女人。\[15\]由于教会的信仰建立在圣经上，当有成员被发现是同性恋后，将因为不符合信仰而被要求离开教会。
+基督堂教会不是谴责同性恋的事实本身，而是坚持以[圣经为教导](https://zh.wikipedia.org/wiki/圣经 "wikilink")，谴责那些同性恋行为，因为这些行为被视为不道德和[邪恶](../Page/惡.md "wikilink")。\[13\]这些行为包括：发生同性性行为，与同性建立伴侣关系，[異裝以及同性婚姻](../Page/異裝.md "wikilink")。\[14\]此外，在基督堂教会，男人不准留长发，因为长发被看作是[女性化的象征](https://zh.wikipedia.org/wiki/女性化 "wikilink")，应该专属女人。\[15\]由于教会的信仰建立在圣经上，当有成员被发现是同性恋后，将因为不符合信仰而被要求离开教会。
 
 ### 伊斯兰教
 
@@ -81,7 +81,7 @@ Brocka。
 
 ## 参见
 
-  - [菲律宾LGBT文化](https://zh.wikipedia.org/wiki/菲律宾LGBT文化 "wikilink")
+  - [菲律宾LGBT文化](../Page/菲律宾LGBT文化.md "wikilink")
 
 ## 参考资料
 

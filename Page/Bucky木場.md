@@ -174,7 +174,7 @@
 
   - [超人機梅塔路達](../Page/超人機.md "wikilink")（1987年－1988年，朝日電視台）－暴魂X騎士的配音、爆鬥士羅賓肯的配音。
 
-  - [假面騎士Build](https://zh.wikipedia.org/wiki/假面騎士Build "wikilink")（2017年－2018年，朝日電視台）－旁白\[6\]
+  - [假面騎士Build](../Page/假面騎士Build.md "wikilink")（2017年－2018年，朝日電視台）－旁白\[6\]
 
 ### 電視動畫
 
@@ -193,8 +193,7 @@
 
 <!-- end list -->
 
-  - [少年
-    你對群馬一無所知](https://zh.wikipedia.org/wiki/少年_你對群馬一無所知 "wikilink")（旁白、天之聲A）
+  - [少年 你對群馬一無所知](../Page/少年_你對群馬一無所知.md "wikilink")（旁白、天之聲A）
 
 ### 電影
 

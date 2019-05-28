@@ -5,7 +5,7 @@ AV於1998年10月30日發行\[1\]。專輯收錄十三首歌曲，其中六首�
 ## 軼事
 
   - 專輯別名為「3.5輯」，代表此專輯為[水晶男孩於](../Page/水晶男孩.md "wikilink")1998年7月15日推出的第三張正規專輯《[Road
-    Fighter](https://zh.wikipedia.org/wiki/Road_Fighter_\(專輯\) "wikilink")》的後續作品。
+    Fighter](../Page/Road_Fighter_\(專輯\).md "wikilink")》的後續作品。
   - 專輯收錄歌曲〈飛翔〉為電影《[Seventeen](../Page/Seventeen_\(電影\).md "wikilink")》的片頭曲，另收錄此電影之插曲〈送你離開〉、〈Couple〉、〈在你熟睡時〉、〈明白我的心嗎〉及〈改變〉，專輯因而被視為此電影之原聲帶。
   - 由於水晶男孩發行此專輯時仍未結束正規三輯宣傳活動，因此水晶男孩出演音樂節目時會同時表演兩張專輯的歌曲。
   - 主打歌〈Couple〉為水晶男孩第一首三台冠軍歌曲，亦是水晶男孩傳唱度最高的一首單曲，後輩歌手包括[SS501](../Page/SS501.md "wikilink")\[2\]、[FTIsland](../Page/FTIsland.md "wikilink")\[3\]、[B1A4](../Page/B1A4.md "wikilink")\[4\]等亦有翻唱此曲。

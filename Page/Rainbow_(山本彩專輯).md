@@ -13,7 +13,7 @@ Rainbow Rose》和《特別影片2 專輯Rainbow製作特輯》\[4\]。專輯亦
 ## 宣傳
 
 2016年8月24日，山本彩在[日本放送的電台節目](../Page/日本放送.md "wikilink")《》中宣佈推出首張個人專輯，這是繼在[AKB48家族
-猜拳大會2014勝出而推出了個人單曲](https://zh.wikipedia.org/wiki/AKB48家族_猜拳大會2014 "wikilink")《[與其溫柔不如給我一個吻](../Page/與其溫柔不如給我一個吻.md "wikilink")》的[渡邊美優紀後](../Page/渡邊美優紀.md "wikilink")，第二位[NMB48成員出道推出個人音樂作品](../Page/NMB48.md "wikilink")\[6\]。同月27日，她在[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")舉行的《NMB48
+猜拳大會2014勝出而推出了個人單曲](../Page/AKB48家族_猜拳大會2014.md "wikilink")《[與其溫柔不如給我一個吻](../Page/與其溫柔不如給我一個吻.md "wikilink")》的[渡邊美優紀後](../Page/渡邊美優紀.md "wikilink")，第二位[NMB48成員出道推出個人音樂作品](../Page/NMB48.md "wikilink")\[6\]。同月27日，她在[兵庫縣](https://zh.wikipedia.org/wiki/兵庫縣 "wikilink")[神戶市](https://zh.wikipedia.org/wiki/神戶市 "wikilink")舉行的《NMB48
 Request Hour Setlist Best235
 2016》中宣佈於同年11月舉行巡迴演出\[7\]。9月28日，專輯名和藝人照對外公開\[8\]，10月6日時則公佈了封面照，兩者均由新加坡攝影師[紀嘉良拍攝](../Page/紀嘉良.md "wikilink")\[9\]。10月3日，她在[MBS電台節目](../Page/MBS電台.md "wikilink")《》首次播放了《雪戀》\[10\]。10月7日，為了紀念專輯發賣，她在特別節目《山本彩的LINELIVE\!》介紹了製作專輯時的點滴等，亦首次公開了《雪戀》的音樂錄影帶\[11\]。10月26日，她在[東京都](../Page/東京都.md "wikilink")[文京區的](../Page/文京區.md "wikilink")[東京巨蛋城laqua
 garden

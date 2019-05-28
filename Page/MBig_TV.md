@@ -16,7 +16,7 @@ TV的宗旨是「雖然是Mobile，卻可以為觀眾提供Big的趣味和價值
     Tip](https://zh.wikipedia.org/wiki/Oh_My_God!_Tip "wikilink")》
   - 《[M本部 Hidden
     Stage](https://zh.wikipedia.org/wiki/M本部_Hidden_Stage "wikilink")》
-  - 《[實話實說放開吃](https://zh.wikipedia.org/wiki/實話實說放開吃 "wikilink")》
+  - 《[實話實說放開吃](../Page/實話實說放開吃.md "wikilink")》
 
 ## 註釋與參考資料
 

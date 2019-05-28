@@ -3,7 +3,7 @@
 
 节目由CJ E\&M与Fox
 International共同打造，在[tvN](../Page/TVN.md "wikilink")、Channel
-V和Mnet等频道播出。第一季和第二季与[Cube娱乐合作](https://zh.wikipedia.org/wiki/Cube娱乐 "wikilink")，第三季则与[FNC娱乐合作](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink") ，共同寻找K-Pop明星。
+V和Mnet等频道播出。第一季和第二季与[Cube娱乐合作](https://zh.wikipedia.org/wiki/Cube娱乐 "wikilink")，第三季则与[FNC娱乐合作](../Page/FNC娛樂.md "wikilink") ，共同寻找K-Pop明星。
 
 第一季的冠军由来自泰国的[Sorn获得](https://zh.wikipedia.org/wiki/Sorn "wikilink")\[1\] ，第二季的冠军是来自泰国的Ling
 Ling，而台湾的[苏一晋](../Page/蘇一晉.md "wikilink")（Andy）则获得了第三季的冠军。
@@ -212,8 +212,8 @@ Entertainment的专业培训和发行一张专辑的机会，还可以参加2013
   - [恩光队](https://zh.wikipedia.org/wiki/恩光 "wikilink")：Erul，Sam和Lia演唱[郑恩地和](../Page/鄭恩地.md "wikilink")[徐仁国的](../Page/徐仁國.md "wikilink")《All
     For You》
   - [昌燮队](https://zh.wikipedia.org/wiki/昌燮 "wikilink")：Ling
-    Ling和Ereene演唱[mc夢和Lyn的](https://zh.wikipedia.org/wiki/MC夢 "wikilink")《Letter
-    To You》
+    Ling和Ereene演唱[mc夢和Lyn的](../Page/MC夢.md "wikilink")《Letter To
+    You》
 
 任务三：演唱由新沙洞老虎挑选的歌曲
 
@@ -238,13 +238,13 @@ Entertainment的专业培训和发行一张专辑的机会，还可以参加2013
 ## 第三季(2013-2014年)
 
 第三季由Channel M、CJE\&M和Fox International
-Channel组织，与[FNC娱乐合作推出](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")。该赛季的冠军赞助商是The
+Channel组织，与[FNC娱乐合作推出](../Page/FNC娛樂.md "wikilink")。该赛季的冠军赞助商是The
 Moving Visuals有限公司新加坡航空公司。
 
 第三季的选秀开始于2013年8月1日，第一步是网络视频的提交。
 
 第三季的总冠军将得到与 CJ E\&M 和
-[FNC娱乐签订合同的机会和在韩国的](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")6\~12个月的培训机会，一个和FNC艺人合作发行歌曲机会和在韩国出道或在他们祖国出道的机会，并参加2014年Global
+[FNC娱乐签订合同的机会和在韩国的](../Page/FNC娛樂.md "wikilink")6\~12个月的培训机会，一个和FNC艺人合作发行歌曲机会和在韩国出道或在他们祖国出道的机会，并参加2014年Global
 M Countdown。
 
 在这一季度选秀的国家或地区：
@@ -375,7 +375,7 @@ M Countdown。
 
 第三季:
 
-  - Andy是个[FNC娱乐的练习生](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")。 他首次在中国亮相是发布单曲《Puppy
+  - Andy是个[FNC娱乐的练习生](../Page/FNC娛樂.md "wikilink")。 他首次在中国亮相是发布单曲《Puppy
     Love》的时候。
   - Putri回到了马来西亚，做一个独立歌手。在2015年她生下一个女孩。
   - Stephanie搬到了澳大利亚悉尼去为她的音乐事业奋斗。

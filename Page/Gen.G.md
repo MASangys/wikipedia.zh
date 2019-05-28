@@ -10,7 +10,7 @@ S3结束后，SSO扩军改组为Samsung Galaxy White(SSW，三星白)和Samsung 
 Blue（SSB，三星蓝）两支队伍，SSW和SSB在2014年英雄联盟全球总决赛的半决赛中相遇，SSW击败SSB进入决赛并最终夺得冠军。
 
 S4结束后，由于[Riot
-Games规定每个俱乐部只能拥有一支战队](https://zh.wikipedia.org/wiki/Riot_Games "wikilink")，使得该俱乐部将两者重组为Samsung
+Games规定每个俱乐部只能拥有一支战队](../Page/Riot_Games.md "wikilink")，使得该俱乐部将两者重组为Samsung
 Galaxy (SSG)。\[1\]
 
 SSG与[SKT曾连续两年在全球总决赛的决赛中相遇](../Page/SK_Telecom_T1.md "wikilink")，2016年SSG
@@ -125,7 +125,7 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 
 ## 守望先锋
 
-Gen.G俱乐部是[守望先锋联赛中](https://zh.wikipedia.org/wiki/守望先锋联赛 "wikilink")[首尔王朝队的拥有者](https://zh.wikipedia.org/wiki/首尔王朝 "wikilink")。
+Gen.G俱乐部是[守望先锋联赛中](../Page/守望先锋联赛.md "wikilink")[首尔王朝队的拥有者](../Page/首尔王朝.md "wikilink")。
 
 ## 绝地求生
 

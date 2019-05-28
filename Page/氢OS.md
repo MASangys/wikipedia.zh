@@ -10,7 +10,7 @@ Inc.合作推出的](https://zh.wikipedia.org/wiki/Cyanogen "wikilink")[一加�
 OS，中國版採用的是母公司[OPPO的](../Page/OPPO.md "wikilink")[ColorOS](../Page/ColorOS.md "wikilink")。往後一加為擺脫對Color
 OS的依賴而推出氫OS的開發計劃，但是直接使氫OS/Oxygen OS被提上商用日程的，是由於一加科技與Cyanogen
 Inc.的合作終止，這樣一來一加日後推出的Android智慧型手機便不能繼續搭載[Cyanogen
-OS](https://zh.wikipedia.org/wiki/Cyanogen_OS "wikilink")，而需要一款自己客製的Android。
+OS](../Page/Cyanogen_OS.md "wikilink")，而需要一款自己客製的Android。
 
 ### 早期版本
 

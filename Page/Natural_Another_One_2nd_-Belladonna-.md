@@ -36,10 +36,8 @@
 
 ## 相關條目
 
-  - [Natural2
-    -DUO-](https://zh.wikipedia.org/wiki/Natural2_-DUO- "wikilink")
-  - [Natural Another
-    One](https://zh.wikipedia.org/wiki/Natural_Another_One "wikilink")
+  - [Natural2 -DUO-](../Page/Natural2_-DUO-.md "wikilink")
+  - [Natural Another One](../Page/Natural_Another_One.md "wikilink")
 
 ## 參考來源
 

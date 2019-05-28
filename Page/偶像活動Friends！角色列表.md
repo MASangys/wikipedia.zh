@@ -118,7 +118,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[大西沙織](https://zh.wikipedia.org/wiki/大西沙織 "wikilink")
+    配音員：日：[大西沙織](../Page/大西沙織.md "wikilink")
     2月23日出生，[雙魚座](https://zh.wikipedia.org/wiki/雙魚座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
     曾經和響一組的偶像。
     有著獨特氣氛的美少女和讓人看到著迷的魅力。
@@ -164,7 +164,7 @@
 ### 學生
 
   -
-    配音員：日：[田中貴子](https://zh.wikipedia.org/wiki/田中貴子_\(聲優\) "wikilink")
+    配音員：日：[田中貴子](../Page/田中貴子_\(聲優\).md "wikilink")
     普通科二年級生，愛音一年級時的同班同學。
 
 <!-- end list -->
@@ -256,7 +256,7 @@
 <!-- end list -->
 
   -
-    YouTube上的偶像活動！頻道「偶Tube」的[虛擬YouTuber](https://zh.wikipedia.org/wiki/虛擬YouTuber "wikilink")，樣貌跟可可相似。動畫中未登場。
+    YouTube上的偶像活動！頻道「偶Tube」的[虛擬YouTuber](../Page/虛擬YouTuber.md "wikilink")，樣貌跟可可相似。動畫中未登場。
 
 <!-- end list -->
 

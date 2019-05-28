@@ -18,7 +18,7 @@ IdolCON 進行團體宣傳活動。\[9\]
 
 2017年6月2日至4日，官方逐步放出組合個人照片和預告，但并沒公開成員的名字，同時，組合翻唱了[卡莉·蕾·杰普森的歌曲](../Page/卡莉·蕾·杰普森.md "wikilink")《[Call
 Me
-Maybe](https://zh.wikipedia.org/wiki/有空叩我 "wikilink")》、[洛德的](https://zh.wikipedia.org/wiki/洛德_\(歌手\) "wikilink")《[贵族](https://zh.wikipedia.org/wiki/贵族_\(歌曲\) "wikilink")》和[防彈少年團的](../Page/防彈少年團.md "wikilink")《봄날（Spring
+Maybe](https://zh.wikipedia.org/wiki/有空叩我 "wikilink")》、[洛德的](../Page/洛德_\(歌手\).md "wikilink")《[贵族](https://zh.wikipedia.org/wiki/贵族_\(歌曲\) "wikilink")》和[防彈少年團的](../Page/防彈少年團.md "wikilink")《봄날（Spring
 Day）》。\[10\]\[11\]\[12\]
 
 6月8日，DWM娛樂公佈P.O.P成員的個人照片，照片中含有成員的名字。\[13\]\[14\]6月10日放出團體預覽照。\[15\]6月30日，官方放出了模仿[Produce

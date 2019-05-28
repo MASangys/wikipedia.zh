@@ -71,11 +71,11 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S "wikilink")》在2014年8月17日正
 <td><p>2</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/EVERYD4Y" title="wikilink">EVERYD4Y</a></p></td>
+<td><p><a href="../Page/EVERYD4Y.md" title="wikilink">EVERYD4Y</a></p></td>
 <td><ul>
 <li>發行日期：2018年4月4日</li>
 <li>日本專輯發行日期：2018年10月3日</li>
-<li>廠牌：<a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a>、<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie音樂</a>、<a href="https://zh.wikipedia.org/wiki/YGEX" title="wikilink">YGEX</a></li>
+<li>廠牌：<a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a>、<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a>、<a href="https://zh.wikipedia.org/wiki/YGEX" title="wikilink">YGEX</a></li>
 <li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></li>
 </ul></td>
 <td><p>1</p></td>
@@ -205,21 +205,21 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S "wikilink")》在2014年8月17日正
 </li>
 <li><p></ref></p></li>
 <li>製作公司：<a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie音樂</a>、<a href="https://zh.wikipedia.org/wiki/YGEX" title="wikilink">YGEX</a></li>
+<li>發行公司：<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a>、<a href="https://zh.wikipedia.org/wiki/YGEX" title="wikilink">YGEX</a></li>
 <li>形式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></li>
 </ul></td>
 <td><p>2</p></td>
 <td><p>7</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Our_Twenty_For_(WINNER韓語單曲)" title="wikilink">OUR TWENTY FOR</a></p></td>
+<td><p><a href="../Page/Our_Twenty_For_(WINNER韓語單曲).md" title="wikilink">OUR TWENTY FOR</a></p></td>
 <td><ul>
 <li>發行日期：2017年8月4日</li>
 <li>日本單曲發行日期：2017年8月12日<ref>YGEX網站簡介:<br />
 </li>
 <li><p></ref></p></li>
 <li>製作公司：<a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie音樂</a>、<a href="https://zh.wikipedia.org/wiki/YGEX" title="wikilink">YGEX</a></li>
+<li>發行公司：<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a>、<a href="https://zh.wikipedia.org/wiki/YGEX" title="wikilink">YGEX</a></li>
 <li>形式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></li>
 </ul></td>
 <td><p>3</p></td>
@@ -230,7 +230,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S "wikilink")》在2014年8月17日正
 <td><ul>
 <li>發行日期：2018年12月19日</li>
 <li>製作公司：<a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie音樂</a></li>
+<li>發行公司：<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a></li>
 <li>形式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></li>
 </ul></td>
 <td><p>8</p></td>
@@ -288,7 +288,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S "wikilink")》在2014年8月17日正
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2016_Winner_Exit_Tour_in_Seoul_Live_CD_(現場專輯)" title="wikilink">2016 Winner Exit Tour In Seoul Live CD</a></p></td>
+<td><p><a href="../Page/2016_Winner_Exit_Tour_in_Seoul_Live_CD_(現場專輯).md" title="wikilink">2016 Winner Exit Tour In Seoul Live CD</a></p></td>
 <td><ul>
 <li>發行日期：2016年7月28日</li>
 <li>製作公司：YG娛樂</li>
@@ -432,7 +432,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S "wikilink")》在2014年8月17日正
 </tr>
 <tr class="odd">
 <td><p>Pricked（사랑가시）<br />
-<small>（<a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink">Mino</a> &amp; <a href="https://zh.wikipedia.org/wiki/南太鉉" title="wikilink">Taehyun合唱</a>）</small></p></td>
+<small>（<a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink">Mino</a> &amp; <a href="../Page/南太鉉.md" title="wikilink">Taehyun合唱</a>）</small></p></td>
 <td><p>2016</p></td>
 <td><p>7</p></td>
 <td><p>133</p></td>

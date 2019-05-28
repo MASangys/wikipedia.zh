@@ -1,7 +1,7 @@
 **IT之家**是[软媒公司建立的网站](https://zh.wikipedia.org/wiki/青岛软媒网络科技有限公司 "wikilink")，于2011年5月27日正式运行。后来软媒将其所属的Vista之家、Win7之家、Win8之家的内容将合并至IT之家中，并开发了[Android](../Page/Android.md "wikilink")，[IOS](../Page/IOS.md "wikilink")，[Windows
 Phone](../Page/Windows_Phone.md "wikilink")，[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
-[UWP客户端](https://zh.wikipedia.org/wiki/UWP "wikilink")\[1\]和[微信小程序](https://zh.wikipedia.org/wiki/微信小程序 "wikilink")。现下属Win10之家，Win7之家，Win8之家，Vista之家，辣品等多个子网站，\[2\]还开发了旗鱼浏览器等软件。
+10](../Page/Windows_10.md "wikilink")
+[UWP客户端](https://zh.wikipedia.org/wiki/UWP "wikilink")\[1\]和[微信小程序](../Page/微信小程序.md "wikilink")。现下属Win10之家，Win7之家，Win8之家，Vista之家，辣品等多个子网站，\[2\]还开发了旗鱼浏览器等软件。
 
 ## 简介
 

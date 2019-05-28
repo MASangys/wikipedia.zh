@@ -59,8 +59,7 @@
         [Haswell处理器](../Page/Haswell微架構.md "wikilink")。（i3-4000m\[10\]、奔腾和赛扬除外）
       - Intel在其网站上有一个列表，写明了支持AES-NI的处理器\[11\]
   - [AMD](../Page/超威半导体.md "wikilink")
-      - [AMD
-        Ryzen架构处理器](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink")。
+      - [AMD Ryzen架构处理器](../Page/AMD_Ryzen.md "wikilink")。
       - [AMD Bulldozer架构处理器](../Page/AMD_Bulldozer.md "wikilink")。\[12\]
       - [AMD Piledriver架构处理器](../Page/AMD_Piledriver.md "wikilink")。
       - [AMD Steamroller架构处理器](../Page/AMD_Steamroller.md "wikilink")。
@@ -150,7 +149,7 @@ AES/[GCM的吞吐量从大约每字节](https://zh.wikipedia.org/wiki/伽羅瓦/
   -
   - [FMA指令集](https://zh.wikipedia.org/wiki/熔合乘法累积指令集 "wikilink")（FMA3、FMA4）
 
-  - [RdRand](https://zh.wikipedia.org/wiki/RdRand "wikilink")
+  - [RdRand](../Page/RdRand.md "wikilink")
 
 ## 参考资料
 

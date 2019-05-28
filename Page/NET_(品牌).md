@@ -27,7 +27,7 @@ NET力求用平實價格提供兼具品質及設計感商品的經營理念，�
 
   - [Zara](https://zh.wikipedia.org/wiki/Zara "wikilink")
   - [Uniqlo](https://zh.wikipedia.org/wiki/Uniqlo "wikilink")
-  - [GU](https://zh.wikipedia.org/wiki/GU "wikilink")
+  - [GU](../Page/GU.md "wikilink")
   - [H\&M](../Page/H&M.md "wikilink")
   - [GAP](https://zh.wikipedia.org/wiki/Gap_\(服饰\) "wikilink")
   - [Forever 21](../Page/永遠21.md "wikilink")

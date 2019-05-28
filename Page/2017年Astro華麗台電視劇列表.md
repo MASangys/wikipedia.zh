@@ -56,11 +56,11 @@ May Fortune Smile On You</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>20/02-<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/愛·回家之開心速遞" title="wikilink">愛·回家之開心速遞</a><br />
+<td style="text-align: center;"><p><a href="../Page/愛·回家之開心速遞.md" title="wikilink">愛·回家之開心速遞</a><br />
 Come Home Love：Lo And Behold</p></td>
 <td style="text-align: center;"><p>300（暫定）</p></td>
 <td style="text-align: center;"><p><a href="../Page/劉丹_(香港).md" title="wikilink">劉　丹</a>、<a href="../Page/單立文.md" title="wikilink">單立文</a>、<a href="../Page/湯盈盈.md" title="wikilink">湯盈盈</a>、<br />
-<a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a>、<a href="https://zh.wikipedia.org/wiki/陳浚霆" title="wikilink">陳浚霆</a>、<a href="https://zh.wikipedia.org/wiki/蘇韻姿" title="wikilink">蘇韻姿</a></p></td>
+<a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a>、<a href="../Page/陳浚霆.md" title="wikilink">陳浚霆</a>、<a href="../Page/蘇韻姿.md" title="wikilink">蘇韻姿</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/羅鎮岳.md" title="wikilink">羅鎮岳</a></p></td>
 <td style="text-align: center;"><p>主：（<a href="../Page/張家誠.md" title="wikilink">張家誠作曲</a>）</p></td>
 <td style="text-align: center;"><p>3月14日暫停播映</p></td>
@@ -149,7 +149,7 @@ Angel In-the-Making</p></td>
 <td style="text-align: center;"><p>25</p></td>
 <td style="text-align: center;"><p><a href="../Page/洪永城.md" title="wikilink">洪永城</a>、<a href="https://zh.wikipedia.org/wiki/岑麗香" title="wikilink">岑麗香</a>、<a href="../Page/單立文.md" title="wikilink">單立文</a>、<br />
 <a href="../Page/陳煒.md" title="wikilink">陳　煒</a>、<a href="https://zh.wikipedia.org/wiki/姚子羚" title="wikilink">姚子羚</a>、<a href="../Page/陳山聰.md" title="wikilink">陳山聰</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/葉鎮輝" title="wikilink">葉鎮輝</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/葉鎮輝.md" title="wikilink">葉鎮輝</a></p></td>
 <td style="text-align: center;"><p>主：我們都受傷（<a href="../Page/吳若希.md" title="wikilink">吳若希</a>）</p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -162,7 +162,7 @@ Beyond The Rainbow</p></td>
 <td style="text-align: center;"><p><a href="../Page/夏雨_(香港).md" title="wikilink">夏　雨</a>、<a href="../Page/鮑起靜.md" title="wikilink">鮑起靜</a>、<a href="../Page/黃日華.md" title="wikilink">黃日華</a>、<br />
 <a href="../Page/唐寧_(香港).md" title="wikilink">唐　寧</a>、<a href="../Page/關寶慧.md" title="wikilink">關寶慧</a>、<a href="../Page/姜皓文.md" title="wikilink">姜皓文</a>、<br />
 <a href="../Page/曾偉權.md" title="wikilink">曾偉權</a>、<a href="../Page/林利.md" title="wikilink">林　利</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃國強" title="wikilink">黃國強</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/黃國強.md" title="wikilink">黃國強</a></p></td>
 <td style="text-align: center;"><p>主：獅子山下主題音樂（<a href="../Page/顧嘉煇.md" title="wikilink">顧嘉煇原曲</a>、<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧改編</a>）<br />
 插：一些往事（<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧</a>）<br />
 插：Sealed With A Kiss（）</p></td>
@@ -385,7 +385,7 @@ The Menu</p></td>
 <td style="text-align: center;"><p><a href="../Page/梁小冰.md" title="wikilink">梁小冰</a>、<a href="../Page/周家怡.md" title="wikilink">周家怡</a>、<a href="https://zh.wikipedia.org/wiki/楊淇" title="wikilink">楊　淇</a>、<br />
 <a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<a href="../Page/石修.md" title="wikilink">石　修</a>、<a href="../Page/姜文杰.md" title="wikilink">姜文杰</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/郭峰_(演员)" title="wikilink">郭　峰</a>、<a href="../Page/駱應鈞.md" title="wikilink">駱應鈞</a>、<a href="../Page/楊天經.md" title="wikilink">楊天經</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/方俊華" title="wikilink">方俊華</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/方俊華.md" title="wikilink">方俊華</a></p></td>
 <td style="text-align: center;"><p>主：導火新聞線主題音樂（<a href="https://zh.wikipedia.org/wiki/江暉_(演員)" title="wikilink">江暉作曲</a>）<br />
 插：Can't Let Go</p></td>
 <td style="text-align: center;"></td>
@@ -534,7 +534,7 @@ Blood</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>12月23日 -<br />
 4月1日(18年)</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Healer" title="wikilink">奪命任務</a><br />
+<td style="text-align: center;"><p><a href="../Page/Healer.md" title="wikilink">奪命任務</a><br />
 Healer</p></td>
 <td style="text-align: center;"><p>28</p></td>
 <td style="text-align: center;"><p><a href="../Page/池昌旭.md" title="wikilink">池昌旭</a>、<a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a>、<a href="../Page/劉智泰.md" title="wikilink">劉智泰</a></p></td>

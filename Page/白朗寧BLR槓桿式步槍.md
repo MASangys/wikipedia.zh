@@ -1,5 +1,5 @@
 **白朗寧BLR**（全稱：**B**rowning **L**ever-action
-**R**ifle，意為：白朗寧槓桿式步槍）是一款由[美国槍械公司](../Page/美国.md "wikilink")[白朗寧武器公司所生產的](https://zh.wikipedia.org/wiki/白朗寧武器公司 "wikilink")[步枪](../Page/步枪.md "wikilink")。它具有許多不同的[口徑與衍生型](https://zh.wikipedia.org/wiki/口徑 "wikilink")，可發射由、到等傳統[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
+**R**ifle，意為：白朗寧槓桿式步槍）是一款由[美国槍械公司](../Page/美国.md "wikilink")[白朗寧武器公司所生產的](../Page/白朗寧武器公司.md "wikilink")[步枪](../Page/步枪.md "wikilink")。它具有許多不同的[口徑與衍生型](https://zh.wikipedia.org/wiki/口徑 "wikilink")，可發射由、到等傳統[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。\[1\]
 
 ## 設計
 

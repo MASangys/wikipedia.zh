@@ -27,7 +27,7 @@
 
   - [智友](https://zh.wikipedia.org/wiki/智友 "wikilink")
 
-  - [高聖熙](https://zh.wikipedia.org/wiki/高聖熙 "wikilink")
+  - [高聖熙](../Page/高聖熙.md "wikilink")
 
   -
   - 李賢培

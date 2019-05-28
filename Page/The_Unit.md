@@ -5,7 +5,7 @@ MATCH**）為[MBK娛樂及](../Page/MBK娛樂.md "wikilink")[韓國](https://zh.
 節目邀請現役或曾活動的偶像，重新挖掘其價值與潛力，並推出限定團體。\[5\]\[6\]製作組約收到500份左右申請書，節目於2017年10月28日正式開播，并在2018年2月11日结束。\[7\]\[8\]
 
 最終成員，UNI+B由Jun、宜縝、高鎬廷、Feel
-Dog、Marco、池韓率、大元、基重、Chan勝出，以**[UNB](https://zh.wikipedia.org/wiki/UNB "wikilink")**出道，UNI+G由宜珍、豫彬、NC.A、胤祖、李玹珠、楊知元、優熙、ZN、李繡至勝出，以**[UNI.T](https://zh.wikipedia.org/wiki/UNI.T "wikilink")**出道。
+Dog、Marco、池韓率、大元、基重、Chan勝出，以**[UNB](../Page/UNB.md "wikilink")**出道，UNI+G由宜珍、豫彬、NC.A、胤祖、李玹珠、楊知元、優熙、ZN、李繡至勝出，以**[UNI.T](../Page/UNI.T.md "wikilink")**出道。
 
 節目製作方由[KBS及](../Page/韓國放送公社.md "wikilink")[MBK娛樂合作](../Page/MBK娛樂.md "wikilink")，[MBK娛樂也會負責製作及管理出道組](../Page/MBK娛樂.md "wikilink")。\[9\]
 
@@ -21,7 +21,7 @@ Dog、Marco、池韓率、大元、基重、Chan勝出，以**[UNB](https://zh.w
 
   - 已成功通過取得資格的126名參賽者將在10月7日至9日，爲期三天的合宿完成第一個任務“拍攝MV”。此MV的中心組由各九男九女組成，其中最突出的即為**主中心**。\[15\]
   - 10月13日，《The Unit》官方YouTube放出《My
-    Turn》MV，同時間也在[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》中播映。並揭露了主中心為[SONAMOO的](../Page/SONAMOO.md "wikilink")[宜珍和](https://zh.wikipedia.org/wiki/宜珍_\(SONAMOO\) "wikilink")[IM的基重](../Page/IM66.md "wikilink")。\[16\]
+    Turn》MV，同時間也在[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》中播映。並揭露了主中心為[SONAMOO的](../Page/SONAMOO.md "wikilink")[宜珍和](../Page/宜珍_\(SONAMOO\).md "wikilink")[IM的基重](../Page/IM66.md "wikilink")。\[16\]
 
 ### 投票規則
 
@@ -54,19 +54,19 @@ Dog、Marco、池韓率、大元、基重、Chan勝出，以**[UNB](https://zh.w
 
 ### UNI+ G
 
-| 最終出道成員列表                                                       |
-| -------------------------------------------------------------- |
-| 姓名                                                             |
-| [楊知元](../Page/楊知元.md "wikilink")                               |
-| [裴優熙](../Page/優熙.md "wikilink")                                |
-| [慎胤祖](https://zh.wikipedia.org/wiki/慎胤祖 "wikilink")            |
-| [裴津銳](https://zh.wikipedia.org/wiki/ZN_\(LABOUM\) "wikilink")  |
-| [任昭垠](../Page/NC.A.md "wikilink")                              |
-| [洪宜珍](https://zh.wikipedia.org/wiki/宜珍_\(SONAMOO\) "wikilink") |
-| [白豫彬](../Page/白豫彬.md "wikilink")                               |
-| [李玹珠](../Page/李玹珠.md "wikilink")                               |
-| [李繡至](https://zh.wikipedia.org/wiki/李繡至 "wikilink")            |
-|                                                                |
+| 最終出道成員列表                                            |
+| --------------------------------------------------- |
+| 姓名                                                  |
+| [楊知元](../Page/楊知元.md "wikilink")                    |
+| [裴優熙](../Page/優熙.md "wikilink")                     |
+| [慎胤祖](../Page/慎胤祖.md "wikilink")                    |
+| [裴津銳](../Page/ZN_\(LABOUM\).md "wikilink")          |
+| [任昭垠](../Page/NC.A.md "wikilink")                   |
+| [洪宜珍](../Page/宜珍_\(SONAMOO\).md "wikilink")         |
+| [白豫彬](../Page/白豫彬.md "wikilink")                    |
+| [李玹珠](../Page/李玹珠.md "wikilink")                    |
+| [李繡至](https://zh.wikipedia.org/wiki/李繡至 "wikilink") |
+|                                                     |
 
 <table>
 <thead>
@@ -2166,8 +2166,7 @@ Dog、Marco、池韓率、大元、基重、Chan勝出，以**[UNB](https://zh.w
   - [明星帝國娛樂](../Page/明星帝國娛樂.md "wikilink")
   - Star Crew
   - Arc Partners
-  - [APPLE OF THE
-    EYE](https://zh.wikipedia.org/wiki/APPLE_OF_THE_EYE "wikilink")
+  - [APPLE OF THE EYE](../Page/APPLE_OF_THE_EYE.md "wikilink")
   - Yama Hotchicks
   - YOUNG MUSIC
   - WAN娛樂
@@ -2186,7 +2185,7 @@ Dog、Marco、池韓率、大元、基重、Chan勝出，以**[UNB](https://zh.w
   - [Happy Face娛樂](../Page/Happy_Face娛樂.md "wikilink")
   - HyeokEn(音譯) Company
   - HyeonDa(音譯) Company
-  - [HUNUS娛樂](https://zh.wikipedia.org/wiki/HUNUS娛樂 "wikilink")
+  - [HUNUS娛樂](../Page/HUNUS娛樂.md "wikilink")
   - Hoon Star
   - BG娛樂
   - [C9娛樂](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")

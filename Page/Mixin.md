@@ -89,7 +89,7 @@ Lisp的部分](../Page/Common_Lisp.md "wikilink"))，其他语言的支持:
 
   - [Python](../Page/Python.md "wikilink")
 
-  - [Racket](https://zh.wikipedia.org/wiki/Racket "wikilink")
+  - [Racket](../Page/Racket.md "wikilink")
     (\[<http://docs.racket-lang.org/guide/classes.html#(part._.Mixins>)
     mixins documentation\])
 

@@ -1,5 +1,5 @@
-[比尔·芬格](https://zh.wikipedia.org/wiki/比尔·芬格 "wikilink") |characters =
-|seealso =  |cat = 超级英雄 |subcat = DC漫画 |hero = y |sortkey = Batman }}
+[比尔·芬格](../Page/比尔·芬格.md "wikilink") |characters =  |seealso =  |cat =
+超级英雄 |subcat = DC漫画 |hero = y |sortkey = Batman }}
 **[蝙蝠侠](https://zh.wikipedia.org/wiki/蝙蝠侠 "wikilink")**是由[DC漫画出版的](https://zh.wikipedia.org/wiki/DC漫画 "wikilink")[美国](../Page/美国.md "wikilink")[漫画书中的虚构](https://zh.wikipedia.org/wiki/漫画 "wikilink")[超级英雄的名字](../Page/超级英雄.md "wikilink")。最初和最著名的蝙蝠侠是[布鲁斯·韦恩](https://zh.wikipedia.org/wiki/布鲁斯·韦恩 "wikilink")，不过有时会由[DC宇宙中的其他角色继承这个名号](../Page/DC宇宙.md "wikilink")。
 
 ## 角色

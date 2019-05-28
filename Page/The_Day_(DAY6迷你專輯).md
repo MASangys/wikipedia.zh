@@ -16,7 +16,7 @@ Day》的歌曲類型包含[流行搖滾](../Page/流行搖滾.md "wikilink")、
 Freebird2舉行的演唱會上擔任開場演出，7月31日參與在弘大Club FF的「LIVE CLUB
 DAY」演唱會\[3\]，8月8日參加「2015釜山搖滾節」，8月20日參與[光山PODCAST演唱會](https://zh.wikipedia.org/wiki/光山區 "wikilink")，8月27日出席JYP娛樂的練習生Showcase，在演出中成員們透露他們即將出道。
 
-官方正式發布出道消息後，9月5日參與在[首爾蘭芝漢江公園舉辦的](https://zh.wikipedia.org/wiki/首爾 "wikilink")「Someday
+官方正式發布出道消息後，9月5日參與在[首爾蘭芝漢江公園舉辦的](../Page/首爾.md "wikilink")「Someday
 Festival 2015」。9月6日舉行首張迷你專輯Showcase，除了表演專輯內收錄的〈Freely〉、〈Out Of My
 Mind〉、〈Congratulations〉和〈Habits〉，還有演唱自創曲〈You〉以及改編[2PM的](https://zh.wikipedia.org/wiki/2PM "wikilink")〈[我們家](../Page/No.5_\(2PM專輯\).md "wikilink")〉。9月11日與其它樂團在Rolling
 Hall舉行小型演唱會「Bright Right」。

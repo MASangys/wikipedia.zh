@@ -6,7 +6,7 @@ PLUS**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都](
 Pieerot
 PLUS的前身是「**株式會社旗艦工作室**（<small></small>）」。1992年5月，由動畫製作人[草野啟二就任代表取締役社長](https://zh.wikipedia.org/wiki/草野啟二 "wikilink")，和[龍之子製作公司製作出身](../Page/龍之子製作公司.md "wikilink")、曾經在[日昇動畫及](../Page/日昇動畫.md "wikilink")擔任製作人的[栃平吉和等人共同創立](https://zh.wikipedia.org/wiki/栃平吉和 "wikilink")。
 
-旗艦工作室創設初期則以製作[成人動畫](../Page/成人動畫.md "wikilink")[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")《[淫獸學園](https://zh.wikipedia.org/wiki/淫獸學園 "wikilink")》等作品起家，1993年播出至今的《[可愛巧虎島](../Page/可愛巧虎島.md "wikilink")》系列開始投入一般年齡層動畫的製作。1996年，由旗艦工作室的經理[清水修以製作成人動畫為主要業務](https://zh.wikipedia.org/wiki/清水修 "wikilink")，另外成立**[有限公司Arms](https://zh.wikipedia.org/wiki/Arms "wikilink")**，旗艦工作室從此停止製作成人動畫，轉移向別家總承包商承包分工製作，特別是向[Studio
+旗艦工作室創設初期則以製作[成人動畫](../Page/成人動畫.md "wikilink")[OVA](https://zh.wikipedia.org/wiki/OVA "wikilink")《[淫獸學園](https://zh.wikipedia.org/wiki/淫獸學園 "wikilink")》等作品起家，1993年播出至今的《[可愛巧虎島](../Page/可愛巧虎島.md "wikilink")》系列開始投入一般年齡層動畫的製作。1996年，由旗艦工作室的經理[清水修以製作成人動畫為主要業務](https://zh.wikipedia.org/wiki/清水修 "wikilink")，另外成立**[有限公司Arms](../Page/Arms.md "wikilink")**，旗艦工作室從此停止製作成人動畫，轉移向別家總承包商承包分工製作，特別是向[Studio
 Pierrot承包最多](../Page/Studio_Pierrot.md "wikilink")。
 
 2008年9月，旗艦工作室從[東京都](../Page/東京都.md "wikilink")[中野區](../Page/中野區.md "wikilink")[上鷺宮搬移至](../Page/上鷺宮.md "wikilink")[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")\[1\]。
@@ -141,7 +141,7 @@ PLUS”、“Pierrot+”\[3\]表示。在商標著作上則以“Studio Pierrot+
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/魔法少女_我" title="wikilink">魔法少女 我</a></p></td>
+<td><p><a href="../Page/魔法少女_我.md" title="wikilink">魔法少女 我</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -438,7 +438,7 @@ PLUS”、“Pierrot+”\[3\]表示。在商標著作上則以“Studio Pierrot+
 <td><p>2006年</p></td>
 <td><p><a href="../Page/忍者少女.md" title="wikilink">忍者少女！</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Arms" title="wikilink">Arms</a></p></td>
+<td><p><a href="../Page/Arms.md" title="wikilink">Arms</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -571,7 +571,7 @@ PLUS”、“Pierrot+”\[3\]表示。在商標著作上則以“Studio Pierrot+
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三麗鷗男子" title="wikilink">三麗鷗男子</a></p></td>
+<td><p><a href="../Page/三麗鷗男子.md" title="wikilink">三麗鷗男子</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -632,7 +632,7 @@ PLUS”、“Pierrot+”\[3\]表示。在商標著作上則以“Studio Pierrot+
 
   - [Studio
     Pierrot](../Page/Studio_Pierrot.md "wikilink")，僅知同在Pierrot所屬的辦公大樓，兩家的關係不明。
-  - [Arms](https://zh.wikipedia.org/wiki/Arms "wikilink")
+  - [Arms](../Page/Arms.md "wikilink")
   - 韓鎮動畫（HANJIN ANIMATION）－知遇動畫（JIWOO ANIMATION）－NARA動畫（NARA Animation）
   - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 

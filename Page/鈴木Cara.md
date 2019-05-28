@@ -5,7 +5,7 @@ AZ-1](../Page/Autozam_AZ-1.md "wikilink")。
 
 在[日本泡沫經濟時期國民普遍富裕](https://zh.wikipedia.org/wiki/日本泡沫經濟 "wikilink")，於是各車廠紛紛開發外觀帥氣又兼具駕駛樂趣的車款，以吸引消費者掏腰包購買。其中「[Autozam
 AZ-1](../Page/Autozam_AZ-1.md "wikilink")」是馬自達委託鈴木公司[OEM代工製造](https://zh.wikipedia.org/wiki/貼牌生產 "wikilink")，貼上「[Autozam](../Page/Autozam.md "wikilink")」標誌發售的雙門二人座輕型轎跑車，鈴木Cara則是延遲於1993年發售的雙生車款。此外，同時期發售的Autozam
-AZ-1、[本田Beat](https://zh.wikipedia.org/wiki/本田Beat "wikilink")、[鈴木Cappuccino等被消費者截取車名字首](../Page/鈴木Cappuccino.md "wikilink")，合稱為「」。
+AZ-1、[本田Beat](../Page/本田Beat.md "wikilink")、[鈴木Cappuccino等被消費者截取車名字首](../Page/鈴木Cappuccino.md "wikilink")，合稱為「」。
 
 ## 歷史
 
@@ -20,7 +20,7 @@ A、B、C三款：
     C：車身為白色，受到當時馬自達派出[767參加](../Page/馬自達767.md "wikilink")[利曼24小時耐力賽之影響](https://zh.wikipedia.org/wiki/勒芒24小時耐力賽 "wikilink")，外觀設計成[C組賽車的模樣](../Page/C組賽車.md "wikilink")。
 
 其中具有[鷗翼式上掀車門的Type](https://zh.wikipedia.org/wiki/鷗翼車門 "wikilink")
-A受到全場最吸睛的注目焦點；加上1990年元月新的輕型車法規出爐，放寬[排氣量從](https://zh.wikipedia.org/wiki/排氣量 "wikilink")550c.c.提升至660c.c.；而且市場上[本田Beat與](https://zh.wikipedia.org/wiki/本田Beat "wikilink")[鈴木Cappuccino兩款輕型敞篷車熱賣](../Page/鈴木Cappuccino.md "wikilink")，於是馬自達決定以Type
+A受到全場最吸睛的注目焦點；加上1990年元月新的輕型車法規出爐，放寬[排氣量從](https://zh.wikipedia.org/wiki/排氣量 "wikilink")550c.c.提升至660c.c.；而且市場上[本田Beat與](../Page/本田Beat.md "wikilink")[鈴木Cappuccino兩款輕型敞篷車熱賣](../Page/鈴木Cappuccino.md "wikilink")，於是馬自達決定以Type
 A[概念車為基礎製作量產車](../Page/概念車.md "wikilink")，找上輕型車霸主鈴木[OEM代工](https://zh.wikipedia.org/wiki/貼牌生產 "wikilink")。
 
 1991年 - 於是，Autozam AZ-1正式在該年的東京國際車展公開亮相。

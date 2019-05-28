@@ -34,7 +34,7 @@ Presents Super Girls Flash On Live 2015》，反應熱烈，受到行內人讚�
 <td><p>One Cool Jam Cast 天下一將士藝人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/余香凝" title="wikilink">余香凝</a></p></td>
+<td><p><a href="../Page/余香凝.md" title="wikilink">余香凝</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>JamCast Management</p></td>

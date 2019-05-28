@@ -45,7 +45,7 @@ Fripp是唯一一個從創團至今從未離隊的成员，并被认为是乐队
 ## 錄音室專輯
 
   - 《[In the Court of the Crimson
-    King](https://zh.wikipedia.org/wiki/In_the_Court_of_the_Crimson_King "wikilink")》（1969年10月10日）
+    King](../Page/In_the_Court_of_the_Crimson_King.md "wikilink")》（1969年10月10日）
   - 《》（1970年5月15日）
   - 《》（1970年12月10日）
   - 《》（1971年12月3日）

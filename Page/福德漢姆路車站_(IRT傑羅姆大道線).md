@@ -13,7 +13,7 @@
 </tr>
 <tr class="even">
 <td><p><span style="color:#{{NYCS color|green}}"><strong>北行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-4.svg" title="fig:纽约地铁4号线">纽约地铁4号线</a> 往<a href="https://zh.wikipedia.org/wiki/伍德羅恩車站_(IRT傑羅姆大道線)" title="wikilink">伍德羅恩</a><small>（<a href="https://zh.wikipedia.org/wiki/王橋路車站_(IRT傑羅姆大道線)" title="wikilink">王橋路</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-4.svg" title="fig:纽约地铁4号线">纽约地铁4号线</a> 往<a href="https://zh.wikipedia.org/wiki/伍德羅恩車站_(IRT傑羅姆大道線)" title="wikilink">伍德羅恩</a><small>（<a href="../Page/王橋路車站_(IRT傑羅姆大道線).md" title="wikilink">王橋路</a>）</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><span style="color:#{{NYCS color|black}}"><strong><em>尖峰特快</em></strong></span></p></td>

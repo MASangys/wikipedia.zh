@@ -24,7 +24,7 @@
   - [Voice～來自亡者的聲音](../Page/Voice～來自亡者的聲音.md "wikilink")，2009年日本[富士电视台电视剧](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")
   - [Voice
     (韓國電視劇)](../Page/Voice_\(韓國電視劇\).md "wikilink")，2017年韩国[OCN电视台播映的电视剧](https://zh.wikipedia.org/wiki/OCN "wikilink")
-  - [Voice2](https://zh.wikipedia.org/wiki/Voice2 "wikilink")，2018年韩国[OCN电视台播映的电视剧](https://zh.wikipedia.org/wiki/OCN "wikilink")，為[Voice
+  - [Voice2](../Page/Voice2.md "wikilink")，2018年韩国[OCN电视台播映的电视剧](https://zh.wikipedia.org/wiki/OCN "wikilink")，為[Voice
     (韓國電視劇)的第二季](../Page/Voice_\(韓國電視劇\).md "wikilink")。
 
 ## 音乐专辑
@@ -43,7 +43,7 @@
   - [VOICE
     (金楨勳專輯)](../Page/VOICE_\(金楨勳專輯\).md "wikilink")，韩国男歌手[金桢勋出版的第四张日语翻唱专辑](https://zh.wikipedia.org/wiki/金桢勋 "wikilink")
   - [VOICE
-    (2AM專輯)](https://zh.wikipedia.org/wiki/VOICE_\(2AM專輯\) "wikilink")，韩国男子偶像团体[2AM首张日语专辑](../Page/2AM.md "wikilink")
+    (2AM專輯)](../Page/VOICE_\(2AM專輯\).md "wikilink")，韩国男子偶像团体[2AM首张日语专辑](../Page/2AM.md "wikilink")
   - [VOICE
     (CNBLUE迷你專輯)](../Page/VOICE_\(CNBLUE迷你專輯\).md "wikilink")，韩国摇滚乐团[CNBLUE的第二张日语专辑](../Page/CNBLUE.md "wikilink")
   - [Inner

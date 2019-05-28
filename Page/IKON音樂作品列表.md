@@ -1,6 +1,6 @@
 **iKON音樂作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[iKON自](https://zh.wikipedia.org/wiki/iKON "wikilink")2015年出道至今所發行的音樂作品。該團體是透過生存節目《[MIX
 &
-MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")》所誕生的韓國七人男子團體，隸屬於[YG娛樂](../Page/YG娛樂.md "wikilink")，先以單曲《取向狙擊》在2015年9月15日正式出道，隨後發行出道正規專輯《[Welcome
+MATCH](../Page/MIX_&_MATCH.md "wikilink")》所誕生的韓國七人男子團體，隸屬於[YG娛樂](../Page/YG娛樂.md "wikilink")，先以單曲《取向狙擊》在2015年9月15日正式出道，隨後發行出道正規專輯《[Welcome
 Back](../Page/WELCOME_BACK_\(iKON韓語專輯\).md "wikilink")》。迄今，iKON在韓國及日本共發行了3張正規專輯、2張迷你專輯、2張單曲及一張精選輯。
 
 ## 正規專輯
@@ -75,18 +75,18 @@ Dig.</a><br />
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Return_(iKON專輯)" title="wikilink">Return</a></p></td>
+<td><p><a href="../Page/Return_(iKON專輯).md" title="wikilink">Return</a></p></td>
 <td><ul>
 <li>韓國線上音源發行日期：2018年1月25日</li>
 <li>韓國實體專輯發行日期：2018年1月26日</li>
-<li>廠牌：YG娛樂、<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie音樂</a></li>
+<li>廠牌：YG娛樂、<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a></li>
 <li>格式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>2</p></td>
 <td><p>117</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Return_-KR_Edition-" title="wikilink">Return -KR Edition-</a></strong></p>
+<td><p><strong><a href="../Page/Return_-KR_Edition-.md" title="wikilink">Return -KR Edition-</a></strong></p>
 <ul>
 <li>日本線上音源發行日期：2018年1月27日</li>
 <li>日本實體專輯發行日期：2018年3月14日</li>
@@ -266,7 +266,7 @@ Dig.</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/New_Kids:_Begin_(iKON韓語單曲)" title="wikilink">New Kids：Begin</a></p></td>
+<td><p><a href="../Page/New_Kids:_Begin_(iKON韓語單曲).md" title="wikilink">New Kids：Begin</a></p></td>
 <td><ul>
 <li>線上音源發行日期：2017年5月22日</li>
 <li>實體專輯發行日期：2017年5月23日</li>
@@ -402,7 +402,7 @@ Dig.</a></p></td>
 <td><p>19</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/MIX_&amp;_MATCH" title="wikilink">MIX &amp; MATCH</a></p></td>
+<td><p><a href="../Page/MIX_&amp;_MATCH.md" title="wikilink">MIX &amp; MATCH</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -764,7 +764,7 @@ Dig.</a></p></td>
 </tr>
 <tr class="even">
 <td><p>It's Love（사랑인걸）<br />
-<small>（<a href="../Page/金知元_(饒舌者).md" title="wikilink">Bobby</a>、<a href="https://zh.wikipedia.org/wiki/具俊會" title="wikilink">具俊會</a>、<a href="https://zh.wikipedia.org/wiki/金東赫" title="wikilink">金東赫</a>）</small></p></td>
+<small>（<a href="../Page/金知元_(饒舌者).md" title="wikilink">Bobby</a>、<a href="../Page/具俊會.md" title="wikilink">具俊會</a>、<a href="../Page/金東赫.md" title="wikilink">金東赫</a>）</small></p></td>
 <td><p>2016</p></td>
 <td><p>41</p></td>
 <td><p>—</p></td>
@@ -845,21 +845,21 @@ Dig.</a></p></td>
 
 ## 出道前音乐作品
 
-| 發佈日期                                                            | 歌曲名稱                                                                                                                        | 參與成員                          | 相關節目/备注                                                                             |
-| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ----------------------------------------------------------------------------------- |
-| 2013年10月22日                                                     | [Winnin(未发行音源)](https://www.youtube.com/watch?v=1ZxWcaEKFbY)                                                                | Team B                        | [WIN](../Page/WIN.md "wikilink")                                                    |
-| 2013年10月28日                                                     | [Climax](https://www.youtube.com/watch?v=-hlm7oVFCcs)                                                                       |                               |                                                                                     |
-| [Just Another Boy](https://www.youtube.com/watch?v=1mTALiBTVuc) |                                                                                                                             |                               |                                                                                     |
-| 2014年8月8日                                                       | [Be I](https://www.youtube.com/watch?v=pBSKYG0yYIg&index=33&list=PLuWI86ItS2gHhVHvpSTevCVVFcPAlOSwJ)                        | B.I                           | [Show Me The Money 3](https://zh.wikipedia.org/wiki/Show_Me_The_Money_3 "wikilink") |
-| 2014年8月14日                                                      | [Go(가)](https://www.youtube.com/watch?v=0LmpqhVG6QM&index=32&list=PLuWI86ItS2gHhVHvpSTevCVVFcPAlOSwJ)                       | Bobby                         |                                                                                     |
-| 2014年8月21日                                                      | [L4L(Lookin' For Luv)](https://www.youtube.com/watch?v=RLTzb7RIf78&index=30&list=PLuWI86ItS2gHhVHvpSTevCVVFcPAlOSwJ)        | Bobby feat. Dok2 & The Quiett |                                                                                     |
-| 2014年8月29日                                                      | [YGGR \# Hip Hop(연결고리 \# 힙합)](https://www.youtube.com/watch?v=qsUA0w6uYEE&index=29&list=PLuWI86ItS2gHhVHvpSTevCVVFcPAlOSwJ) | Bobby                         |                                                                                     |
-| 2014年9月5日                                                       | [Bounce(가드올리고 바운스)](https://www.youtube.com/watch?v=EYYQm_bgIVw)                                                            |                               |                                                                                     |
-| 2014年9月11日                                                      | [Wait For Me(기다려)](https://www.youtube.com/watch?v=sEJi_Bltlq0)                                                             | Team B                        | [MIX & MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")                 |
-| 2014年10月30日                                                     | [Long Time No See](https://www.youtube.com/watch?v=0LpwPGKdWaA)                                                             | B.I、Bobby、金振煥、宋允亨、鄭鎮馨、鄭粲右     |                                                                                     |
-| [預備開始(시노시작)](https://www.youtube.com/watch?v=Wy9uYJLNEAk)       | B.I、Bobby、金振煥、具俊會、金東赫、梁洪碩                                                                                                   |                               |                                                                                     |
-| 2014年12月31日                                                     | [Eyes Nose Lips](https://www.youtube.com/watch?v=3FrN6ue3R-s)                                                               | Team B                        | [MIX & MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink") DVD             |
-| 2015年5月15日                                                      | [King of the youth](https://www.youtube.com/watch?v=ko9QuyGpeyI)                                                            | Bobby                         | [Show Me The Money 4](https://zh.wikipedia.org/wiki/Show_Me_The_Money_4 "wikilink") |
+| 發佈日期                                                            | 歌曲名稱                                                                                                                        | 參與成員                          | 相關節目/备注                                                          |
+| --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---------------------------------------------------------------- |
+| 2013年10月22日                                                     | [Winnin(未发行音源)](https://www.youtube.com/watch?v=1ZxWcaEKFbY)                                                                | Team B                        | [WIN](../Page/WIN.md "wikilink")                                 |
+| 2013年10月28日                                                     | [Climax](https://www.youtube.com/watch?v=-hlm7oVFCcs)                                                                       |                               |                                                                  |
+| [Just Another Boy](https://www.youtube.com/watch?v=1mTALiBTVuc) |                                                                                                                             |                               |                                                                  |
+| 2014年8月8日                                                       | [Be I](https://www.youtube.com/watch?v=pBSKYG0yYIg&index=33&list=PLuWI86ItS2gHhVHvpSTevCVVFcPAlOSwJ)                        | B.I                           | [Show Me The Money 3](../Page/Show_Me_The_Money_3.md "wikilink") |
+| 2014年8月14日                                                      | [Go(가)](https://www.youtube.com/watch?v=0LmpqhVG6QM&index=32&list=PLuWI86ItS2gHhVHvpSTevCVVFcPAlOSwJ)                       | Bobby                         |                                                                  |
+| 2014年8月21日                                                      | [L4L(Lookin' For Luv)](https://www.youtube.com/watch?v=RLTzb7RIf78&index=30&list=PLuWI86ItS2gHhVHvpSTevCVVFcPAlOSwJ)        | Bobby feat. Dok2 & The Quiett |                                                                  |
+| 2014年8月29日                                                      | [YGGR \# Hip Hop(연결고리 \# 힙합)](https://www.youtube.com/watch?v=qsUA0w6uYEE&index=29&list=PLuWI86ItS2gHhVHvpSTevCVVFcPAlOSwJ) | Bobby                         |                                                                  |
+| 2014年9月5日                                                       | [Bounce(가드올리고 바운스)](https://www.youtube.com/watch?v=EYYQm_bgIVw)                                                            |                               |                                                                  |
+| 2014年9月11日                                                      | [Wait For Me(기다려)](https://www.youtube.com/watch?v=sEJi_Bltlq0)                                                             | Team B                        | [MIX & MATCH](../Page/MIX_&_MATCH.md "wikilink")                 |
+| 2014年10月30日                                                     | [Long Time No See](https://www.youtube.com/watch?v=0LpwPGKdWaA)                                                             | B.I、Bobby、金振煥、宋允亨、鄭鎮馨、鄭粲右     |                                                                  |
+| [預備開始(시노시작)](https://www.youtube.com/watch?v=Wy9uYJLNEAk)       | B.I、Bobby、金振煥、具俊會、金東赫、梁洪碩                                                                                                   |                               |                                                                  |
+| 2014年12月31日                                                     | [Eyes Nose Lips](https://www.youtube.com/watch?v=3FrN6ue3R-s)                                                               | Team B                        | [MIX & MATCH](../Page/MIX_&_MATCH.md "wikilink") DVD             |
+| 2015年5月15日                                                      | [King of the youth](https://www.youtube.com/watch?v=ko9QuyGpeyI)                                                            | Bobby                         | [Show Me The Money 4](../Page/Show_Me_The_Money_4.md "wikilink") |
 
 ## 其他歌曲
 

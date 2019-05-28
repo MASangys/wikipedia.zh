@@ -22,8 +22,7 @@
   - [2014年](../Page/2014年.md "wikilink")
     [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")
     [水木迷你劇](../Page/文化廣播公司.md "wikilink")
-    《[我人生的春天](https://zh.wikipedia.org/wiki/我人生的春天 "wikilink")》
-    ( 共同製作 )
+    《[我人生的春天](../Page/我人生的春天.md "wikilink")》 ( 共同製作 )
   - [2016年](../Page/2016年.md "wikilink")
     [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")
     [SBS特別劇](../Page/SBS特別劇.md "wikilink")
@@ -40,14 +39,14 @@
   - [2018年](../Page/2018年.md "wikilink")
     [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")
     [SBS週末連續劇](../Page/SBS週末連續劇.md "wikilink")
-    《[善良魔女傳](https://zh.wikipedia.org/wiki/善良魔女傳 "wikilink")》
+    《[善良魔女傳](../Page/善良魔女傳.md "wikilink")》
 
 ## 目前旗下藝人
 
 ### 音樂團體
 
-  - [XENO-T](https://zh.wikipedia.org/wiki/XENO-T "wikilink")
-    (原ToppDogg): 韓國製作人兼歌手趙PD旗下男子組合，於2013年10月24日以迷你一輯《Dogg\`s
+  - [XENO-T](../Page/XENO-T.md "wikilink") (原ToppDogg):
+    韓國製作人兼歌手趙PD旗下男子組合，於2013年10月24日以迷你一輯《Dogg\`s
     out》主打曲《說出來吧》（韓語：말로해）出道。
   - [ELRIS](https://zh.wikipedia.org/wiki/Elris "wikilink"):
     由Hunus娛樂公司於2017年推出的韓國女子團體。該團體是由Sohee、Yukyung、Bella、Hyeseong和Karin共五名成員所組成。
@@ -60,8 +59,7 @@
   - [郭正旭](../Page/郭正旭.md "wikilink"): 韓國男演員，6歲時便以童星出道。曾為INFINITE預備成員。
   - [朴胤載](../Page/朴胤載.md "wikilink"):
     韓國男演員，姊姊為演員[蔡琳](../Page/蔡琳.md "wikilink")
-  - [陳藝瑟](https://zh.wikipedia.org/wiki/陳藝瑟 "wikilink"):
-    韓國女演員，2009年參與SBS第11期公開招募電視劇演員出道。
+  - [陳藝瑟](../Page/陳藝瑟.md "wikilink"): 韓國女演員，2009年參與SBS第11期公開招募電視劇演員出道。
   - 李鐘朴(이종박): 韓國男演員。
   - 俞夏恩(유하은): 韓國女演員。
   - 薛正煥(설정환) :韓國男演員。

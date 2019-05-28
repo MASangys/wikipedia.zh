@@ -1,5 +1,5 @@
 **美樂達
-SR-M**是一台由日本照相器材制造商[美能达](https://zh.wikipedia.org/wiki/美能达 "wikilink")，於1970年开发的一款[单反相机](https://zh.wikipedia.org/wiki/单反相机 "wikilink")，使用[美能達SR接環](https://zh.wikipedia.org/wiki/美能達SR接環 "wikilink")。
+SR-M**是一台由日本照相器材制造商[美能达](https://zh.wikipedia.org/wiki/美能达 "wikilink")，於1970年开发的一款[单反相机](https://zh.wikipedia.org/wiki/单反相机 "wikilink")，使用[美能達SR接環](../Page/美能達SR接環.md "wikilink")。
 
 ## 概述
 

@@ -5,7 +5,7 @@ Family於2016年推出的旅遊[綜藝節目](../Page/綜藝節目.md "wikilink"
 ## 節目內容
 
 **《Plan
-Man》**為一旅遊[綜藝節目](../Page/綜藝節目.md "wikilink")，由在《[兩天一夜](../Page/兩天一夜.md "wikilink")》、《[新西遊記](https://zh.wikipedia.org/wiki/新西遊記 "wikilink")》等國內外旅遊探險節目中表現活躍的[殷志源擔任主持](https://zh.wikipedia.org/wiki/殷志源 "wikilink")\[2\]，在節目中接受明星們的委託，親自為他們制定旅遊計劃。不僅包括旅行地的選擇、行程安排，[殷志源還擔任導遊與明星們一同出遊](https://zh.wikipedia.org/wiki/殷志源 "wikilink")\[3\]。
+Man》**為一旅遊[綜藝節目](../Page/綜藝節目.md "wikilink")，由在《[兩天一夜](../Page/兩天一夜.md "wikilink")》、《[新西遊記](../Page/新西遊記.md "wikilink")》等國內外旅遊探險節目中表現活躍的[殷志源擔任主持](https://zh.wikipedia.org/wiki/殷志源 "wikilink")\[2\]，在節目中接受明星們的委託，親自為他們制定旅遊計劃。不僅包括旅行地的選擇、行程安排，[殷志源還擔任導遊與明星們一同出遊](https://zh.wikipedia.org/wiki/殷志源 "wikilink")\[3\]。
 
 旅程名稱為「JJANG我！Tour」（），有「我是最棒」的意思。在每次旅程開始前，[殷志源與嘉賓均會獲發印有](https://zh.wikipedia.org/wiki/殷志源 "wikilink")「JJANG我！Tour」標誌的團體服\[4\]。
 

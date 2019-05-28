@@ -1,9 +1,9 @@
-，通稱《**捏造陷阱**》，由日本女性漫畫家[コダマナオコ繪畫的](https://zh.wikipedia.org/wiki/Kodamanaoko "wikilink")[百合漫畫](https://zh.wikipedia.org/wiki/百合_\(文化\) "wikilink")，2014年11月18日開始連載於[一迅社](../Page/一迅社.md "wikilink")《[Comic百合姬](https://zh.wikipedia.org/wiki/Comic百合姬 "wikilink")》\[1\]。
+，通稱《**捏造陷阱**》，由日本女性漫畫家[コダマナオコ繪畫的](https://zh.wikipedia.org/wiki/Kodamanaoko "wikilink")[百合漫畫](https://zh.wikipedia.org/wiki/百合_\(文化\) "wikilink")，2014年11月18日開始連載於[一迅社](../Page/一迅社.md "wikilink")《[Comic百合姬](../Page/Comic百合姬.md "wikilink")》\[1\]。
 
 ## 概要
 
 《捏造陷阱
--NTR-》於2014年11月18日開始於一迅社《[Comic百合姬](https://zh.wikipedia.org/wiki/Comic百合姬 "wikilink")》連載\[2\]\[3\]，[單行本第](https://zh.wikipedia.org/wiki/單行本 "wikilink")1卷則在2015年6月18日發行\[4\]。官方中文版單行本的代理商為[東立出版社](../Page/東立出版社.md "wikilink")，第1卷單行本在2016年7月18日公開發售\[5\]。官方簡體中文電子版的代理商為[布卡漫畫](https://zh.wikipedia.org/wiki/布卡漫畫 "wikilink")\[6\]。北美地區的官方英文版則由代理，並於2016年9月20日發布第1卷單行本\[7\]\[8\]，七海娛樂創辦人傑森·迪安吉利斯（Jason
+-NTR-》於2014年11月18日開始於一迅社《[Comic百合姬](../Page/Comic百合姬.md "wikilink")》連載\[2\]\[3\]，[單行本第](https://zh.wikipedia.org/wiki/單行本 "wikilink")1卷則在2015年6月18日發行\[4\]。官方中文版單行本的代理商為[東立出版社](../Page/東立出版社.md "wikilink")，第1卷單行本在2016年7月18日公開發售\[5\]。官方簡體中文電子版的代理商為[布卡漫畫](https://zh.wikipedia.org/wiki/布卡漫畫 "wikilink")\[6\]。北美地區的官方英文版則由代理，並於2016年9月20日發布第1卷單行本\[7\]\[8\]，七海娛樂創辦人傑森·迪安吉利斯（Jason
 DeAngelis）表示讀者希望公司代理更多百合漫畫，並稱《捏造陷阱
 -NTR-》作者Kodamanaoko的戲劇性故事與漂亮的畫工會吸引到《[citrus\~柑橘味香氣\~](https://zh.wikipedia.org/wiki/citrus~柑橘味香氣~ "wikilink")》的讀者觀看\[9\]。
 

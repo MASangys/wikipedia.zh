@@ -119,7 +119,7 @@ F-在輔音前一般保留，在半元音<span class="IPA" title="Representació
 
 ### 巴斯克語底層的爭議
 
-[拉蒙·梅嫩德斯·皮达尔提出了所有解釋當中最爲系統的假設](../Page/拉蒙·梅嫩德斯·皮达尔.md "wikilink")，並且被廣泛接受。根據他的學說，巴斯克-坎塔布里-伊比利亞底層是導致這一變化的元音。理論指出，[巴斯克及](https://zh.wikipedia.org/wiki/巴斯克 "wikilink")<span class="cx-segment" data-segmentid="214"></span>[坎塔布里人](https://zh.wikipedia.org/wiki/坎塔布里人 "wikilink")（也包括[伊比利亞人](https://zh.wikipedia.org/wiki/伊比利人 "wikilink")）的語言中缺少\[f\]，由於在聽感上的相似性，他們便使用\[h\]來代替這一讀音。這和這一變化首先始於卡斯蒂利亞北部這一事實相吻合：在這一區域人們使用巴斯克語，此外在[比利牛斯山的另一邊](../Page/比利牛斯山.md "wikilink")，在[古代史中](../Page/古代史.md "wikilink")[加斯科涅的原住民也使用](https://zh.wikipedia.org/wiki/加斯科涅 "wikilink")[巴斯克語以及一種相似的語言](../Page/巴斯克語.md "wikilink")。<span class="cx-segment" data-segmentid="220"></span>
+[拉蒙·梅嫩德斯·皮达尔提出了所有解釋當中最爲系統的假設](../Page/拉蒙·梅嫩德斯·皮达尔.md "wikilink")，並且被廣泛接受。根據他的學說，巴斯克-坎塔布里-伊比利亞底層是導致這一變化的元音。理論指出，[巴斯克及](https://zh.wikipedia.org/wiki/巴斯克 "wikilink")<span class="cx-segment" data-segmentid="214"></span>[坎塔布里人](../Page/坎塔布里人.md "wikilink")（也包括[伊比利亞人](https://zh.wikipedia.org/wiki/伊比利人 "wikilink")）的語言中缺少\[f\]，由於在聽感上的相似性，他們便使用\[h\]來代替這一讀音。這和這一變化首先始於卡斯蒂利亞北部這一事實相吻合：在這一區域人們使用巴斯克語，此外在[比利牛斯山的另一邊](../Page/比利牛斯山.md "wikilink")，在[古代史中](../Page/古代史.md "wikilink")[加斯科涅的原住民也使用](https://zh.wikipedia.org/wiki/加斯科涅 "wikilink")[巴斯克語以及一種相似的語言](../Page/巴斯克語.md "wikilink")。<span class="cx-segment" data-segmentid="220"></span>
 
 雖然在[羅馬尼亞的其他地區也發生了同樣的變化](https://zh.wikipedia.org/wiki/拉丁歐洲 "wikilink")，但是只有卡斯蒂利亞及[加斯科語最終穩固並普及開來](https://zh.wikipedia.org/wiki/加斯科方言 "wikilink")。也就是說這兩個地區的存在證明了巴斯克-阿基坦人在羅馬人到來之前就已經生活在這一帶了。
 

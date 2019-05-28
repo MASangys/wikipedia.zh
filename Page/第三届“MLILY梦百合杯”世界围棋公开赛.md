@@ -12,7 +12,7 @@
 
 ### 第2组（公开组）
 
-2017年3月26日：[李轩豪](https://zh.wikipedia.org/wiki/李轩豪 "wikilink") 六段 胜
+2017年3月26日：[李轩豪](../Page/李轩豪.md "wikilink") 六段 胜
 [石金昊](https://zh.wikipedia.org/wiki/石金昊 "wikilink") 二段
 
 ### 第3组（公开组）
@@ -32,7 +32,7 @@
 
 ### 第6组（公开组）
 
-2017年3月26日：[严欢](https://zh.wikipedia.org/wiki/严欢 "wikilink") 六段 胜
+2017年3月26日：[严欢](../Page/严欢.md "wikilink") 六段 胜
 [张健贤](https://zh.wikipedia.org/wiki/张健贤 "wikilink") 三段
 
 ### 第7组（公开组）
@@ -42,12 +42,12 @@
 
 ### 第8组（公开组）
 
-2017年3月26日：[安冬旭](https://zh.wikipedia.org/wiki/安冬旭 "wikilink") 六段 胜
-[芝野虎丸](https://zh.wikipedia.org/wiki/芝野虎丸 "wikilink") 三段
+2017年3月26日：[安冬旭](../Page/安冬旭.md "wikilink") 六段 胜
+[芝野虎丸](../Page/芝野虎丸.md "wikilink") 三段
 
 ### 第9组（公开组）
 
-2017年3月26日：[夏晨琨](https://zh.wikipedia.org/wiki/夏晨琨 "wikilink") 五段 胜
+2017年3月26日：[夏晨琨](../Page/夏晨琨.md "wikilink") 五段 胜
 [方昊](https://zh.wikipedia.org/wiki/方昊 "wikilink") 四段
 
 ### 第10组（公开组）

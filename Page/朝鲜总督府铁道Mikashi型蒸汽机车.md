@@ -16,7 +16,7 @@
 
   - [朝鲜总督府铁道Mikani型蒸汽机车](../Page/朝鲜总督府铁道Mikani型蒸汽机车.md "wikilink")
 
-  - [朝鲜总督府铁道Mikasa型蒸汽机车](https://zh.wikipedia.org/wiki/朝鲜总督府铁道Mikasa型蒸汽机车 "wikilink")
+  - [朝鲜总督府铁道Mikasa型蒸汽机车](../Page/朝鲜总督府铁道Mikasa型蒸汽机车.md "wikilink")
 
   - [中国铁路解放1型蒸汽機車](https://zh.wikipedia.org/wiki/中国铁路解放1型蒸汽機車 "wikilink")
 

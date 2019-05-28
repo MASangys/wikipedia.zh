@@ -141,7 +141,7 @@
 <td><p>物流公司老闆，實為全東南亞最大走私生意龍頭之一，後被殺害。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/彭懷安" title="wikilink">彭懷安</a></p></td>
+<td><p><a href="../Page/彭懷安.md" title="wikilink">彭懷安</a></p></td>
 <td></td>
 <td><p>洪文剛之手下，後被殺害。</p></td>
 </tr>

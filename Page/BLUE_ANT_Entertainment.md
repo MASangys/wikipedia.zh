@@ -8,7 +8,7 @@ Ant Media所有。\[1\]
 
 ### 播映中
 
-  - [律政狂牛](https://zh.wikipedia.org/wiki/律政狂牛 "wikilink")
+  - [律政狂牛](../Page/律政狂牛.md "wikilink")
 
   - [福爾摩斯新傳](https://zh.wikipedia.org/wiki/基本演繹法 "wikilink")
 

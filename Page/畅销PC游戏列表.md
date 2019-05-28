@@ -356,8 +356,8 @@ Entertainment](https://zh.wikipedia.org/wiki/Blizzard_Entertainment "wikilink")
 (North America)
 [Ubisoft](https://zh.wikipedia.org/wiki/Ubisoft "wikilink") (Europe) |-
 | [孤岛惊魂](../Page/孤岛惊魂_\(游戏\).md "wikilink") | \[41\] |  |
-*[孤岛惊魂系列](https://zh.wikipedia.org/wiki/孤岛惊魂系列 "wikilink")*
-|  | [第一人称射击](../Page/第一人称射击游戏.md "wikilink") |
+*[孤岛惊魂系列](../Page/孤岛惊魂系列.md "wikilink")* |  |
+[第一人称射击](../Page/第一人称射击游戏.md "wikilink") |
 [Crytek](../Page/Crytek.md "wikilink") |
 [Ubisoft](https://zh.wikipedia.org/wiki/Ubisoft "wikilink") |- |
 [战地1942](https://zh.wikipedia.org/wiki/战地1942 "wikilink") | \[42\] |
@@ -371,7 +371,7 @@ Witcher* |  |
 [动作角色扮演](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")，[砍杀](../Page/砍殺遊戲.md "wikilink")
 | [CD Projekt
 RED](https://zh.wikipedia.org/wiki/CD_Projekt_RED "wikilink") | [CD
-Projekt](https://zh.wikipedia.org/wiki/CD_Projekt "wikilink") (Poland)
+Projekt](../Page/CD_Projekt.md "wikilink") (Poland)
 [Atari,
 Inc](https://zh.wikipedia.org/wiki/Atari,_Inc_\(Infogrames\) "wikilink")
 (North America)
@@ -407,8 +407,7 @@ Empires](https://zh.wikipedia.org/wiki/Age_of_Empires "wikilink")* |  |
 [即时战略](../Page/即时战略游戏.md "wikilink") | *[Ensemble
 Studios](https://zh.wikipedia.org/wiki/Ensemble_Studios "wikilink")* |
 *[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")* |- |
-[以撒的结合](https://zh.wikipedia.org/wiki/以撒的结合 "wikilink") | \[48\] |  |
-|  |
+[以撒的结合](../Page/以撒的结合.md "wikilink") | \[48\] |  |  |  |
 [Action-adventure](https://zh.wikipedia.org/wiki/Action-adventure_game "wikilink"),
 [dungeon crawl](https://zh.wikipedia.org/wiki/dungeon_crawl "wikilink"),
 [roguelike](https://zh.wikipedia.org/wiki/roguelike "wikilink") |
@@ -436,13 +435,12 @@ strategy](https://zh.wikipedia.org/wiki/Turn-based_strategy "wikilink")
 | [id Software](https://zh.wikipedia.org/wiki/id_Software "wikilink") |
 [GT
 Interactive](https://zh.wikipedia.org/wiki/GT_Interactive "wikilink") |-
-| [欧洲卡车模拟2](https://zh.wikipedia.org/wiki/歐洲卡車模擬2 "wikilink") | \[52\] |
- | *Euro Trucks Simulator* | October 19, 2012 | [Simulation video
+| [欧洲卡车模拟2](../Page/歐洲卡車模擬2.md "wikilink") | \[52\] |  | *Euro Trucks
+Simulator* | October 19, 2012 | [Simulation video
 game](https://zh.wikipedia.org/wiki/Simulation_video_game "wikilink") |
-[SCS Software](https://zh.wikipedia.org/wiki/SCS_Software "wikilink") |
-SCS Software |- |
-[四海兄弟：失落的天堂](https://zh.wikipedia.org/wiki/四海兄弟：失落的天堂 "wikilink")
-| \[53\] |  | *Mafia* |  | [Third-person
+[SCS Software](../Page/SCS_Software.md "wikilink") | SCS Software |- |
+[四海兄弟：失落的天堂](https://zh.wikipedia.org/wiki/四海兄弟：失落的天堂 "wikilink") |
+\[53\] |  | *Mafia* |  | [Third-person
 shooter](https://zh.wikipedia.org/wiki/Third-person_shooter "wikilink")
 | [Illusion Softworks](../Page/2K_Czech.md "wikilink") | [Gathering of
 Developers](../Page/Gathering_of_Developers.md "wikilink") |- |
@@ -488,10 +486,9 @@ Entertainment](https://zh.wikipedia.org/wiki/Blizzard_Entertainment "wikilink")
 | [第一人称射击](../Page/第一人称射击游戏.md "wikilink") | [id
 Software](https://zh.wikipedia.org/wiki/id_Software "wikilink") | [GT
 Interactive](https://zh.wikipedia.org/wiki/GT_Interactive "wikilink") |-
-| [圣域](https://zh.wikipedia.org/wiki/圣域_\(游戏\) "wikilink") | \[61\] |  |
-*Sacred* |  |
-[动作角色扮演](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")
-| [Ascaron](https://zh.wikipedia.org/wiki/Ascaron "wikilink") |
+| [圣域](../Page/圣域_\(游戏\).md "wikilink") | \[61\] |  | *Sacred* |  |
+[动作角色扮演](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink") |
+[Ascaron](https://zh.wikipedia.org/wiki/Ascaron "wikilink") |
 [Encore](https://zh.wikipedia.org/wiki/Encore,_Inc. "wikilink")
 Koch Media
 [Red Ant
@@ -503,8 +500,7 @@ game](https://zh.wikipedia.org/wiki/Role-playing_video_game "wikilink")
 Games](https://zh.wikipedia.org/wiki/Gas_Powered_Games "wikilink") |
 [Microsoft Game
 Studios](https://zh.wikipedia.org/wiki/Microsoft_Game_Studios "wikilink")
-|- | [爱丽丝梦游魔境](https://zh.wikipedia.org/wiki/爱丽丝梦游魔境 "wikilink") |
-\[63\] |  | *Alice* |  |
+|- | [爱丽丝梦游魔境](../Page/爱丽丝梦游魔境.md "wikilink") | \[63\] |  | *Alice* |  |
 [Action-adventure](https://zh.wikipedia.org/wiki/Action-adventure_game "wikilink"),
 [platformer](https://zh.wikipedia.org/wiki/Platform_game "wikilink") |
 [Rogue
@@ -539,9 +535,9 @@ Entertainment](https://zh.wikipedia.org/wiki/Sony_Online_Entertainment "wikilink
 (North America)
 [Electronic
 Arts](https://zh.wikipedia.org/wiki/Electronic_Arts "wikilink") (Japan)
-| [LucasArts](https://zh.wikipedia.org/wiki/LucasArts "wikilink") |- |
-[要塞](../Page/要塞_\(2001年游戏\).md "wikilink") | \[68\] |  |*Stronghold* |
- | [即时战略](../Page/即时战略游戏.md "wikilink") | [Firefly
+| [LucasArts](../Page/LucasArts.md "wikilink") |- |
+[要塞](../Page/要塞_\(2001年游戏\).md "wikilink") | \[68\] |
+|*Stronghold* |  | [即时战略](../Page/即时战略游戏.md "wikilink") | [Firefly
 Studios](https://zh.wikipedia.org/wiki/Firefly_Studios "wikilink") |
 [Take-Two Interactive](../Page/Take-Two_Interactive.md "wikilink") /
 [Gathering of Developers](../Page/Gathering_of_Developers.md "wikilink")
@@ -648,8 +644,8 @@ Interactive](https://zh.wikipedia.org/wiki/Bohemia_Interactive "wikilink")
 | [Bohemia
 Interactive](https://zh.wikipedia.org/wiki/Bohemia_Interactive "wikilink")
 |- | [生化奇兵](../Page/生化奇兵_\(游戏\).md "wikilink") | \[81\] |  |
-*[生化奇兵系列](https://zh.wikipedia.org/wiki/生化奇兵系列 "wikilink")*
-|  | [第一人称射击](../Page/第一人称射击游戏.md "wikilink")，[action
+*[生化奇兵系列](../Page/生化奇兵系列.md "wikilink")* |  |
+[第一人称射击](../Page/第一人称射击游戏.md "wikilink")，[action
 adventure](https://zh.wikipedia.org/wiki/Action-adventure_game "wikilink")，[恐怖](../Page/恐怖遊戲.md "wikilink")
 | [Irrational Games](../Page/Irrational_Games.md "wikilink") (as 2K
 Boston) | [2K Games](../Page/2K_Games.md "wikilink") |- |
@@ -721,9 +717,9 @@ Studio](https://zh.wikipedia.org/wiki/SCE_Cambridge_Studio "wikilink") |
 Interactive](https://zh.wikipedia.org/wiki/Hasbro_Interactive "wikilink")
 |- | [極速天龍](../Page/極速天龍.md "wikilink") | \[93\] |  |  |  | [Graphic
 adventure](https://zh.wikipedia.org/wiki/Graphic_adventure "wikilink") |
-[LucasArts](https://zh.wikipedia.org/wiki/LucasArts "wikilink") |
-[LucasArts](https://zh.wikipedia.org/wiki/LucasArts "wikilink") |- |  |
-\[94\] |  |  |  | [City-building
+[LucasArts](../Page/LucasArts.md "wikilink") |
+[LucasArts](../Page/LucasArts.md "wikilink") |- |  | \[94\] |  |  |  |
+[City-building
 game](https://zh.wikipedia.org/wiki/City-building_game "wikilink") |
 [Haemimont
 Games](https://zh.wikipedia.org/wiki/Haemimont_Games "wikilink") |
@@ -831,9 +827,10 @@ House](https://zh.wikipedia.org/wiki/Keen_Software_House "wikilink") |-
 |  |\[111\] |  | *[Star
 Wars](https://zh.wikipedia.org/wiki/Star_Wars "wikilink")* |  | [Rail
 shooter](https://zh.wikipedia.org/wiki/Rail_shooter "wikilink") |
-[LucasArts](https://zh.wikipedia.org/wiki/LucasArts "wikilink") |
-[LucasArts](https://zh.wikipedia.org/wiki/LucasArts "wikilink") |- |
-[最高指挥官](../Page/最高指揮官.md "wikilink") | \[112\] |  | *[Total
+[LucasArts](../Page/LucasArts.md "wikilink") |
+[LucasArts](../Page/LucasArts.md "wikilink") |- |
+[最高指挥官](../Page/最高指揮官.md "wikilink") | \[112\] |  |
+*[Total
 Annihilation](https://zh.wikipedia.org/wiki/Total_Annihilation "wikilink")*
 |  | [即时战略](../Page/即时战略游戏.md "wikilink") | [Gas Powered
 Games](https://zh.wikipedia.org/wiki/Gas_Powered_Games "wikilink") |
@@ -886,7 +883,7 @@ Micro](../Page/BBC_Micro.md "wikilink")，，[Commodore
 64](https://zh.wikipedia.org/wiki/Commodore_64 "wikilink")，[FM-7](../Page/FM-7.md "wikilink")，[FM
 Towns](../Page/FM_Towns.md "wikilink")，[MSX](../Page/MSX.md "wikilink")，[NEC
 PC-8801](https://zh.wikipedia.org/wiki/NEC_PC-8801 "wikilink")，[PC-98](../Page/PC-98系列.md "wikilink")，[Sharp
-X1和](../Page/X1.md "wikilink")[X68000](https://zh.wikipedia.org/wiki/X68000 "wikilink")。当这些平台处于活跃期时，电脑游戏产业要比现在要小得多，但也在不断增加。直到1982年6月，最畅销的电脑游戏总共买出了3.5万份\[119\]。在1983的一个重要冲击，销售近5万份。在1985的一个重要冲击，销售近15万份。\[120\]因此，进入此列表的游戏的最低标准为：1982年之前发布的游戏至少售出3.5万份；1983年发布的游戏至少售出5万份；1984年之后发布的游戏至少售出10万份。
+X1和](../Page/X1.md "wikilink")[X68000](../Page/X68000.md "wikilink")。当这些平台处于活跃期时，电脑游戏产业要比现在要小得多，但也在不断增加。直到1982年6月，最畅销的电脑游戏总共买出了3.5万份\[119\]。在1983的一个重要冲击，销售近5万份。在1985的一个重要冲击，销售近15万份。\[120\]因此，进入此列表的游戏的最低标准为：1982年之前发布的游戏至少售出3.5万份；1983年发布的游戏至少售出5万份；1984年之后发布的游戏至少售出10万份。
 
 <table>
 <thead>

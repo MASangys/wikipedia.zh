@@ -1,4 +1,4 @@
-**SD40X型柴油机车**是两种由[美国](../Page/美国.md "wikilink")[通用汽车](../Page/通用汽车.md "wikilink")[易安迪公司](../Page/易安迪.md "wikilink")（GM-EMD）研制的[柴油机车](../Page/柴油機車.md "wikilink")[原型车之型号统称](../Page/原型_\(工程\).md "wikilink")，其中，第一代SD40X型柴油机车于1964年至1965年制造，目的是作为[SD40型柴油机车的技术试验平台](https://zh.wikipedia.org/wiki/SD40型柴油机车 "wikilink")；而第二代SD40X型柴油机车于1979年制造，目的是作为[SD50型柴油机车的技术试验平台](../Page/SD50型柴油机车.md "wikilink")。
+**SD40X型柴油机车**是两种由[美国](../Page/美国.md "wikilink")[通用汽车](../Page/通用汽车.md "wikilink")[易安迪公司](../Page/易安迪.md "wikilink")（GM-EMD）研制的[柴油机车](../Page/柴油機車.md "wikilink")[原型车之型号统称](../Page/原型_\(工程\).md "wikilink")，其中，第一代SD40X型柴油机车于1964年至1965年制造，目的是作为[SD40型柴油机车的技术试验平台](../Page/SD40型柴油机车.md "wikilink")；而第二代SD40X型柴油机车于1979年制造，目的是作为[SD50型柴油机车的技术试验平台](../Page/SD50型柴油机车.md "wikilink")。
 
 ## 第一代
 
@@ -13,7 +13,7 @@
 
 ## 参见
 
-  - [SD40型柴油机车](https://zh.wikipedia.org/wiki/SD40型柴油机车 "wikilink")
+  - [SD40型柴油机车](../Page/SD40型柴油机车.md "wikilink")
   - [GP40型柴油机车](../Page/GP40型柴油机车.md "wikilink")
   - [SD50型柴油机车](../Page/SD50型柴油机车.md "wikilink")
   - [GP50型柴油机车](../Page/GP50型柴油机车.md "wikilink")

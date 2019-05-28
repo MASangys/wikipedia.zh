@@ -25,7 +25,7 @@ eShop上架销售\[3\]。
 School
 Studio）與[微軟共同宣布](https://zh.wikipedia.org/wiki/微軟 "wikilink")《Oxenfree》將於2016年1月在[Xbox
 One和](../Page/Xbox_One.md "wikilink")[Windows
-10上發行](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。\[8\]遊戲的開發團隊夜校工作室包含了來自[訴說遊戲以及](../Page/訴說遊戲.md "wikilink")[迪士尼等公司的前任職員](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")，而《Oxenfree》也是該工作室的首作。遊戲的原始藝術由海瑟·格羅斯（Heather
+10上發行](../Page/Windows_10.md "wikilink")。\[8\]遊戲的開發團隊夜校工作室包含了來自[訴說遊戲以及](../Page/訴說遊戲.md "wikilink")[迪士尼等公司的前任職員](https://zh.wikipedia.org/wiki/華特迪士尼公司 "wikilink")，而《Oxenfree》也是該工作室的首作。遊戲的原始藝術由海瑟·格羅斯（Heather
 Gross）創作，而《》的首席作家亞當·漢斯（Adam
 Hines）則負責遊戲的劇本。\[9\]為遊戲擔任配音的成員則包括艾維塔·艾許（Avital
 Ash）、布-{里}-塔妮·強森（Britanni Johnson）、、、亞倫·庫班（Aaron Kuban）及喬·齊葉雅（Joe
@@ -36,7 +36,7 @@ Zieja）等人。\[10\]
 ## 實境遊戲
 
 在遊戲中，玩家透過收音機在島上各處找到的隱藏頻道的頻率數字可以組成一個真實世界中的電話號碼。這組電話號碼的線索指向一個[推特帳號](https://zh.wikipedia.org/wiki/推特 "wikilink")@xray9169363733，該帳號曾發布許多加密的訊息，而這些訊息則似乎指向一個真實世界中的地點。2016年5月7日，[YouTube用戶傑西](../Page/YouTube.md "wikilink")·考克斯（Jesse
-Cox）發布了他所收到該推特帳號寄出的一部《Oxenfree》的[PS4版本預告片](https://zh.wikipedia.org/wiki/PS4 "wikilink")；他所收到的預告片和[PlayStation在其官方YouTube頻道發布的版本相似](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，除了結尾有部分字母被標上紅底，而那些紅底的字母則指向網站[www.edwardsisland.com](http://www.edwardsisland.com)。網站中又有一些訊息被發現，其中最重要的一則是「MILNER
+Cox）發布了他所收到該推特帳號寄出的一部《Oxenfree》的[PS4版本預告片](https://zh.wikipedia.org/wiki/PS4 "wikilink")；他所收到的預告片和[PlayStation在其官方YouTube頻道發布的版本相似](../Page/PlayStation.md "wikilink")，除了結尾有部分字母被標上紅底，而那些紅底的字母則指向網站[www.edwardsisland.com](http://www.edwardsisland.com)。網站中又有一些訊息被發現，其中最重要的一則是「MILNER
 IS
 WARD」，也證實了玩家的懷疑——某項特別的物品已被藏在[華盛頓州](https://zh.wikipedia.org/wiki/華盛頓州 "wikilink")[班布里治島上的](../Page/班布里治島_\(華盛頓州\).md "wikilink")中。\[12\]
 

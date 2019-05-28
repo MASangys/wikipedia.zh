@@ -96,7 +96,7 @@ Entertainment发行](https://zh.wikipedia.org/wiki/EARTH_STAR_Entertainment "wik
     作詞、作曲、编曲：[前山田健一](../Page/前山田健一.md "wikilink")，主唱：栗原雪（加隈亞衣）、桃月心也（[岡本信彦](https://zh.wikipedia.org/wiki/岡本信彦 "wikilink")）
   - 电视动画片尾曲「」
     作詞：[結城愛良](../Page/結城愛良.md "wikilink")，作曲、编曲：Kon-K，主唱：[Mia
-    REGINA](https://zh.wikipedia.org/wiki/Mia_REGINA "wikilink")
+    REGINA](../Page/Mia_REGINA.md "wikilink")
 
 ### 各話列表
 

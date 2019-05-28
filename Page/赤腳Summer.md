@@ -89,7 +89,7 @@ Singles Sales年榜則取得第6位\[33\]。
 
 （Center：樋口日奈）
 
-  - [伊藤萬理華](../Page/伊藤萬理華.md "wikilink")、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[川後陽菜](../Page/川後陽菜.md "wikilink")、[川村真洋](../Page/川村真洋.md "wikilink")、[齋藤千春](../Page/齋藤千春.md "wikilink")、[齊藤優里](https://zh.wikipedia.org/wiki/齊藤優里 "wikilink")、[中田花奈](../Page/中田花奈.md "wikilink")、[能條愛未](../Page/能條愛未.md "wikilink")、[樋口日奈](../Page/樋口日奈.md "wikilink")、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")、伊藤卡琳、伊藤純奈、[相樂伊織](https://zh.wikipedia.org/wiki/相樂伊織 "wikilink")、佐佐木琴子、[新內真衣](https://zh.wikipedia.org/wiki/新內真衣 "wikilink")、鈴木絢音、寺田蘭世、[山崎-{怜}-奈](https://zh.wikipedia.org/wiki/山崎怜奈 "wikilink")、渡邊米莉愛\[42\]
+  - [伊藤萬理華](../Page/伊藤萬理華.md "wikilink")、[井上小百合](../Page/井上小百合_\(偶像\).md "wikilink")、[川後陽菜](../Page/川後陽菜.md "wikilink")、[川村真洋](../Page/川村真洋.md "wikilink")、[齋藤千春](../Page/齋藤千春.md "wikilink")、[齊藤優里](../Page/齊藤優里.md "wikilink")、[中田花奈](../Page/中田花奈.md "wikilink")、[能條愛未](../Page/能條愛未.md "wikilink")、[樋口日奈](../Page/樋口日奈.md "wikilink")、[和田真彩](https://zh.wikipedia.org/wiki/和田真彩 "wikilink")、伊藤卡琳、伊藤純奈、[相樂伊織](https://zh.wikipedia.org/wiki/相樂伊織 "wikilink")、佐佐木琴子、[新內真衣](https://zh.wikipedia.org/wiki/新內真衣 "wikilink")、鈴木絢音、寺田蘭世、[山崎-{怜}-奈](https://zh.wikipedia.org/wiki/山崎怜奈 "wikilink")、渡邊米莉愛\[42\]
 
 ### 無處可去的我們
 

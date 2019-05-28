@@ -7,7 +7,7 @@ zone發售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 ## 概要
 
   - A面曲《Summer Madness》是第三代J Soul
-    Brothers與[荷蘭的](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[音樂製作人及](../Page/音樂製作人.md "wikilink")[唱片騎師](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")[艾佛傑克](https://zh.wikipedia.org/wiki/艾佛傑克 "wikilink")（Afrojack）的合作單曲，亦是航空公司[ANA](../Page/全日本空輸.md "wikilink")「2015
+    Brothers與[荷蘭的](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[音樂製作人及](../Page/音樂製作人.md "wikilink")[唱片騎師](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")[艾佛傑克](../Page/艾佛傑克.md "wikilink")（Afrojack）的合作單曲，亦是航空公司[ANA](../Page/全日本空輸.md "wikilink")「2015
     夏の旅割」的電視廣告歌曲。
   - 有別於前作，此單曲並未收錄任何B面曲。
   - 此單曲有2個版本，分別有「CD+DVD」和「CD ONLY」。「CD+DVD」收錄了《Summer Madness》的Music

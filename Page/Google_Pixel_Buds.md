@@ -1,6 +1,6 @@
 **Pixel
 Buds**是由Google開發和銷售的無線耳機。Google於2017年10月4日在Google發布會上推出，並在[Google
-Store上以](https://zh.wikipedia.org/wiki/Google_Store "wikilink")159美元的價格預購。\[1\]\[2\]
+Store上以](../Page/Google_Store.md "wikilink")159美元的價格預購。\[1\]\[2\]
 內置[Google智能助理並支持](https://zh.wikipedia.org/wiki/Google智能助理 "wikilink")[Google翻譯](../Page/Google翻译.md "wikilink")。
 
 Pixel

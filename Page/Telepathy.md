@@ -10,9 +10,9 @@
   - **Idle**：供[IRC使用](../Page/IRC.md "wikilink")
   - **Salut**：供本機連線的[XMPP使用](https://zh.wikipedia.org/wiki/XMPP "wikilink")
   - **Haze**：用於存取libpurple支援的協定，libpurple是[Pidgin所使用的函式庫](../Page/Pidgin.md "wikilink")。這個軟體是在2007年的[Google夏日程式碼大賽中完成的](../Page/Google夏日程式碼大賽.md "wikilink")\[1\]。
-  - **Spirit**：供在[諾基亞N900與](https://zh.wikipedia.org/wiki/諾基亞N900 "wikilink")[諾基亞N9上的](../Page/諾基亞N9.md "wikilink")[Skype協定所使用](https://zh.wikipedia.org/wiki/Skype協定 "wikilink")
+  - **Spirit**：供在[諾基亞N900與](https://zh.wikipedia.org/wiki/諾基亞N900 "wikilink")[諾基亞N9上的](../Page/諾基亞N9.md "wikilink")[Skype協定所使用](../Page/Skype協定.md "wikilink")
   - **Rakia**：供[会话发起协议](../Page/会话发起协议.md "wikilink")(SIP)使用，利用諾基亞的開放原始碼Sofia-SIP函式庫實作
-  - **Morse**：供[Telegram使用](https://zh.wikipedia.org/wiki/Telegram "wikilink")
+  - **Morse**：供[Telegram使用](../Page/Telegram.md "wikilink")
 
 任務控制是其中一個組件的名稱，其提供了終端使用者的應用程式抽象一些低階Telepathy組件，如連線管理員的功能\[2\]。
 

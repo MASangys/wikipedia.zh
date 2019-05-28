@@ -6,7 +6,7 @@
 
 ## 参见
 
-  - [大学美式足球季后赛](https://zh.wikipedia.org/wiki/大学美式足球季后赛 "wikilink")
+  - [大学美式足球季后赛](../Page/大学美式足球季后赛.md "wikilink")
 
 ## 参考文献
 

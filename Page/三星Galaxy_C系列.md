@@ -16,12 +16,11 @@ C系列以全金屬一體式機身、纖薄設計、大螢幕搭配指紋辨識�
     C7](https://zh.wikipedia.org/wiki/三星Galaxy_C7 "wikilink")\[9\]
   - [三星Galaxy C7
     Pro](https://zh.wikipedia.org/wiki/三星Galaxy_C7_Pro "wikilink")\[10\]\[11\]
-  - [三星Galaxy C9
-    Pro](https://zh.wikipedia.org/wiki/三星Galaxy_C9_Pro "wikilink")\[12\]\[13\]
+  - [三星Galaxy C9 Pro](../Page/三星Galaxy_C9_Pro.md "wikilink")\[12\]\[13\]
     (有推出國際版，型號為SM-C900F\[14\]。台灣也有上市，型號為SM-C900Y。\[15\])
   - [三星Galaxy
-    C8](https://zh.wikipedia.org/wiki/三星Galaxy_J7+ "wikilink")\[16\]\[17\](有推出國際版，以[三星Galaxy
-    J7+的名稱上市](https://zh.wikipedia.org/wiki/三星Galaxy_J7+ "wikilink")，台灣也有上市，型號為SM-C710F。\[18\])
+    C8](../Page/三星Galaxy_J7+.md "wikilink")\[16\]\[17\](有推出國際版，以[三星Galaxy
+    J7+的名稱上市](../Page/三星Galaxy_J7+.md "wikilink")，台灣也有上市，型號為SM-C710F。\[18\])
 
 ## 参考资料
 

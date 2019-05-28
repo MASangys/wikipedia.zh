@@ -21,7 +21,7 @@ account)提供比特幣交易的公司，\[7\]\[8\]\[9\]同時，也是香港第
 Gatecoin在2014年贏得了由Talent
 Unleashed頒發的中東亞地區最佳初創企業獎。這項比賽的評審包括了[理查德·布蘭森和](../Page/理查德·布蘭森.md "wikilink")[史蒂夫·沃茲尼克](https://zh.wikipedia.org/wiki/史蒂夫·沃茲尼克 "wikilink")。\[15\]\[16\]由Startup
 Asia舉辦的一場辯論會中，Aurélien
-Menant和[新加坡銀行的首席](https://zh.wikipedia.org/wiki/新加坡銀行 "wikilink")[經濟學家](../Page/经济学家.md "wikilink")
+Menant和[新加坡銀行的首席](../Page/新加坡銀行.md "wikilink")[經濟學家](../Page/经济学家.md "wikilink")
 － Richard Jerram在“比特幣成為主流的可能性”這項主題上進行了辯論。\[17\]\[18\]這場辯論會最後的優勝者為Richard
 Jerram。更近期的是，Gatecoin在2015年被列入為香港20大熱門創業公司之一。\[19\]
 

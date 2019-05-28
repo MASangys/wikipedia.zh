@@ -6,7 +6,7 @@
 
 ICE-4列车是作为用于的[动车组](https://zh.wikipedia.org/wiki/动车组 "wikilink")（不含[机车](https://zh.wikipedia.org/wiki/铁路机车 "wikilink")）而设计。列车的传动不同以往的[ICE车系](https://zh.wikipedia.org/wiki/ICE列车 "wikilink")，它是通过分布在整列车之中、多个相互独立的动力车厢（[动车组动车](https://zh.wikipedia.org/wiki/动车组动车 "wikilink")）来实现\[4\]。车辆的内部及外部设计基本上对应于现行的ICE标准\[5\]。相较于以往所有的ICE列车，ICE-4列车每节长约28m的车体均为[钢结构而非](../Page/钢结构.md "wikilink")[铝结构制造](../Page/铝.md "wikilink")，并对此应用了[激光焊接技术](https://zh.wikipedia.org/wiki/激光焊 "wikilink")\[6\]。
 
-在2012年的上，[德国铁路在它们的展位上首次呈现了一具ICE](../Page/德国铁路.md "wikilink")-4端部车厢的局部[1:1模型](https://zh.wikipedia.org/wiki/Mockup "wikilink")\[7\]。自2013年底开始，一节端部车厢和另一节车厢的1:1模型开始在[纽伦堡德铁博物馆展出](../Page/紐倫堡交通博物館.md "wikilink")\[8\]\[9\]。
+在2012年的上，[德国铁路在它们的展位上首次呈现了一具ICE](../Page/德国铁路.md "wikilink")-4端部车厢的局部[1:1模型](../Page/Mockup.md "wikilink")\[7\]。自2013年底开始，一节端部车厢和另一节车厢的1:1模型开始在[纽伦堡德铁博物馆展出](../Page/紐倫堡交通博物館.md "wikilink")\[8\]\[9\]。
 
 车辆的外观设计在2015年获得了[紅點設計大獎](../Page/紅點設計大獎.md "wikilink")\[10\]。同样，ICE-4的外观设计还在2016年的德国设计大奖（）中被授予运输类别奖\[11\]
 。

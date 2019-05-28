@@ -118,7 +118,7 @@ Strike\!**》（）是[都築真紀製作的](../Page/都築真紀.md "wikilink"
   - 音響製作：Glovision Inc.
   - 音樂：吉川洋一郎
   - 動畫製作：[Seven Arcs
-    Pictures](https://zh.wikipedia.org/wiki/Seven_Arcs_Pictures "wikilink")
+    Pictures](../Page/Seven_Arcs_Pictures.md "wikilink")
   - 製作：ViVid Strike PROJECT（[King
     Records](../Page/國王唱片.md "wikilink")、[Seven
     Arcs](../Page/Seven_Arcs.md "wikilink")、、）
@@ -132,8 +132,7 @@ Strike\!**》（）是[都築真紀製作的](../Page/都築真紀.md "wikilink"
 
 <!-- end list -->
 
-  - 片尾曲 「[Starry
-    Wish](https://zh.wikipedia.org/wiki/Starry_Wish "wikilink")」
+  - 片尾曲 「[Starry Wish](../Page/Starry_Wish.md "wikilink")」
     作詞：nozomi / 作曲：KOUGA、nozomi / 编曲：KOUGA /
     主唱：[水瀨祈](../Page/水瀨祈.md "wikilink")
 

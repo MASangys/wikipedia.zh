@@ -2,7 +2,7 @@
 
 ## 概要
 
-2009年1月19日\[2\]，由[日高範子和母公司](../Page/日高範子.md "wikilink")社長[三矢雄二共兩位聲優代表](https://zh.wikipedia.org/wiki/三矢雄二 "wikilink")，在[東京都](../Page/東京都.md "wikilink")[世田谷區成立](../Page/世田谷區.md "wikilink")。
+2009年1月19日\[2\]，由[日高範子和母公司](../Page/日高範子.md "wikilink")社長[三矢雄二共兩位聲優代表](../Page/三矢雄二.md "wikilink")，在[東京都](../Page/東京都.md "wikilink")[世田谷區成立](../Page/世田谷區.md "wikilink")。
 
 ## 所屬聲優
 
@@ -13,7 +13,7 @@
 
 ### 男性
 
-  - [三矢雄二](https://zh.wikipedia.org/wiki/三矢雄二 "wikilink")
+  - [三矢雄二](../Page/三矢雄二.md "wikilink")
 
 ## 過往所屬聲優
 
@@ -22,7 +22,7 @@
 
   - [仲尾梓](https://zh.wikipedia.org/wiki/仲尾梓 "wikilink")（自由職業）
 
-  - [濱野一三](https://zh.wikipedia.org/wiki/濱野一三 "wikilink")（[音響監督](https://zh.wikipedia.org/wiki/音響監督 "wikilink")，自由職業）
+  - [濱野一三](../Page/濱野一三.md "wikilink")（[音響監督](https://zh.wikipedia.org/wiki/音響監督 "wikilink")，自由職業）
 
   - （現所屬：Mitsuya Project）
 

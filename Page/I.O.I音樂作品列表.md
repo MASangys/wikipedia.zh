@@ -44,7 +44,7 @@ World</a><br />
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Chrysalis_(I.O.I迷你專輯)" title="wikilink">Chrysalis</a></p></td>
+<td><p><a href="../Page/Chrysalis_(I.O.I迷你專輯).md" title="wikilink">Chrysalis</a></p></td>
 <td><ul>
 <li>發行日期：2016年5月4日</li>
 <li>製作公司：<a href="../Page/Imagine_Asia.md" title="wikilink">YMC娛樂</a></li>

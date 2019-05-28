@@ -444,7 +444,7 @@ Azure 支援下列 Linux 作業系統：
 
   - [OpenLogic](https://zh.wikipedia.org/wiki/OpenLogic "wikilink")
     [CentOS](../Page/CentOS.md "wikilink") 6.3+, 7.0+
-  - [CoreOS](https://zh.wikipedia.org/wiki/CoreOS "wikilink") 494.4.0+
+  - [CoreOS](../Page/CoreOS.md "wikilink") 494.4.0+
   - [Debian](../Page/Debian.md "wikilink") 7.9+, 8.2+
   - [Oracle Linux](../Page/Oracle_Linux.md "wikilink") 6.4+, 7.0+
   - [Red Hat Enterprise
@@ -468,8 +468,7 @@ Azure 支援下列 Windows 作業系統:
     7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows
     8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows
     8.1](../Page/Windows_8.1.md "wikilink")、[Windows
-    10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink") 等用戶端作業系統
-    (僅有 MSDN 訂閱戶才能使用)
+    10](../Page/Windows_10.md "wikilink") 等用戶端作業系統 (僅有 MSDN 訂閱戶才能使用)
 
 ### 預載軟體
 

@@ -2,9 +2,9 @@
 
 ## 制备
 
-[硫酸铀酰溶液经过](https://zh.wikipedia.org/wiki/硫酸铀酰 "wikilink")[光化学还原可以得到硫酸铀](../Page/光化学.md "wikilink")(IV)，以[乙醇为还原剂](../Page/乙醇.md "wikilink")，光化学还原可以在日光下进行。硫酸铀(IV)在溶液中结晶，或者加入过量的[乙醇使之沉淀](../Page/乙醇.md "wikilink")。硫酸铀有多种水合物。这种光化学反应在热力学和动力学上都是有利的。
+[硫酸铀酰溶液经过](../Page/硫酸铀酰.md "wikilink")[光化学还原可以得到硫酸铀](../Page/光化学.md "wikilink")(IV)，以[乙醇为还原剂](../Page/乙醇.md "wikilink")，光化学还原可以在日光下进行。硫酸铀(IV)在溶液中结晶，或者加入过量的[乙醇使之沉淀](../Page/乙醇.md "wikilink")。硫酸铀有多种水合物。这种光化学反应在热力学和动力学上都是有利的。
 
-[硫酸铀酰阴极还原也能得到硫酸铀](https://zh.wikipedia.org/wiki/硫酸铀酰 "wikilink")(IV)：\[1\]
+[硫酸铀酰阴极还原也能得到硫酸铀](../Page/硫酸铀酰.md "wikilink")(IV)：\[1\]
 
   -
     UO<sub>2</sub>SO<sub>4</sub> + 2H<sub>2</sub>SO<sub>4</sub> →

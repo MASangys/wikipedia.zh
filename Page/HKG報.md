@@ -19,7 +19,7 @@ Limited持有人，持有「羣聲社會政策研究顧問」七成[股權](http
 
 ### 支持七警案犯人
 
-2017年2月，《HKG報》發起網上聯署，要求法院輕判[七警案中的七名](https://zh.wikipedia.org/wiki/七警案 "wikilink")「襲擊致造成身體傷害」罪成的犯人，《HKG報》將[網民在](https://zh.wikipedia.org/wiki/網民 "wikilink")[臉書的按鍵表態](https://zh.wikipedia.org/wiki/臉書 "wikilink")（扣除情緒符號「嬲」）和留言等同簽名後，以聯署求情信形式呈交代表律師\[8\]。
+2017年2月，《HKG報》發起網上聯署，要求法院輕判[七警案中的七名](../Page/七警案.md "wikilink")「襲擊致造成身體傷害」罪成的犯人，《HKG報》將[網民在](https://zh.wikipedia.org/wiki/網民 "wikilink")[臉書的按鍵表態](https://zh.wikipedia.org/wiki/臉書 "wikilink")（扣除情緒符號「嬲」）和留言等同簽名後，以聯署求情信形式呈交代表律師\[8\]。
 
 ### 投訴及抨擊香港電台
 

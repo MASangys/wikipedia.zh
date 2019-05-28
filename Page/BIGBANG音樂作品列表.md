@@ -1,8 +1,8 @@
 [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")[BIGBANG於](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")2006年開始他們的歌手職業生涯，組合剛出道時成果雖尚未顯著但也是相當成功的，首張正規專輯《[Bigbang
-Vol.1](https://zh.wikipedia.org/wiki/BIGBANG_Vol.1_\(BIGBANG專輯\) "wikilink")》的淨銷售量已超過15萬張\[1\]。2007年發行首張迷你專輯《[Always](https://zh.wikipedia.org/wiki/Always_\(BIGBANG迷你專輯\) "wikilink")》，包含成名作品〈謊言〉（韓語：거짓말），成為團體首張熱門專輯。後續發行的迷你專輯取得與先前一樣的成功，《[Hot
-Issue](https://zh.wikipedia.org/wiki/Hot_Issue_\(BIGBANG迷你專輯\) "wikilink")》帶來了〈最後的問候〉（韓語：마지막
+Vol.1](../Page/BIGBANG_Vol.1_\(BIGBANG專輯\).md "wikilink")》的淨銷售量已超過15萬張\[1\]。2007年發行首張迷你專輯《[Always](../Page/Always_\(BIGBANG迷你專輯\).md "wikilink")》，包含成名作品〈謊言〉（韓語：거짓말），成為團體首張熱門專輯。後續發行的迷你專輯取得與先前一樣的成功，《[Hot
+Issue](../Page/Hot_Issue_\(BIGBANG迷你專輯\).md "wikilink")》帶來了〈最後的問候〉（韓語：마지막
 인사），而《[Stand
-Up](https://zh.wikipedia.org/wiki/Stand_Up_\(BIGBANG迷你專輯\) "wikilink")》則帶來〈一天一天〉（韓語：하루하루），兩首主打曲均居於榜單前列\[2\]\[3\]。第二張韓語正規專輯《[Remember](https://zh.wikipedia.org/wiki/Remember_\(BIGBANG專輯\) "wikilink")》在2008年11月5日發行，主打曲〈紅霞〉也成為BIGBANG歷年發行的作品最熱門的歌曲之一。
+Up](../Page/Stand_Up_\(BIGBANG迷你專輯\).md "wikilink")》則帶來〈一天一天〉（韓語：하루하루），兩首主打曲均居於榜單前列\[2\]\[3\]。第二張韓語正規專輯《[Remember](https://zh.wikipedia.org/wiki/Remember_\(BIGBANG專輯\) "wikilink")》在2008年11月5日發行，主打曲〈紅霞〉也成為BIGBANG歷年發行的作品最熱門的歌曲之一。
 
 2007年末，BIGBANG進軍日本音樂產業，首張日語迷你專輯《[For the
 World](https://zh.wikipedia.org/wiki/For_the_World_\(BIGBANG日語迷你專輯\) "wikilink")》發行於2008年初\[4\]</ref>，而在2009年8月19日推出日語正規二輯《[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG_\(2009年專輯\) "wikilink")》\[5\]\[6\]，收錄了兩首主打曲《[My
@@ -54,7 +54,7 @@ World</a><br />
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/BIGBANG_Vol.1_(BIGBANG專輯)" title="wikilink">BIGBANG Vol.1</a></strong>》</p>
+<td><p>《<strong><a href="../Page/BIGBANG_Vol.1_(BIGBANG專輯).md" title="wikilink">BIGBANG Vol.1</a></strong>》</p>
 <ul>
 <li>發行日期：2006年12月21日</li>
 <li>製作公司：<a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a></li>
@@ -130,7 +130,7 @@ World</a><br />
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Always_(BIGBANG迷你專輯)" title="wikilink">Always</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Always_(BIGBANG迷你專輯).md" title="wikilink">Always</a></strong>》</p>
 <ul>
 <li>發行日期：2007年8月16日</li>
 <li>製作公司：YG娛樂</li>
@@ -142,7 +142,7 @@ World</a><br />
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Hot_Issue_(BIGBANG迷你專輯)" title="wikilink">Hot Issue</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Hot_Issue_(BIGBANG迷你專輯).md" title="wikilink">Hot Issue</a></strong>》</p>
 <ul>
 <li>發行日期：2007年11月22日</li>
 <li>製作公司：YG娛樂</li>
@@ -154,7 +154,7 @@ World</a><br />
 </tr>
 <tr class="even">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Stand_Up_(BIGBANG迷你專輯)" title="wikilink">Stand Up</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Stand_Up_(BIGBANG迷你專輯).md" title="wikilink">Stand Up</a></strong>》</p>
 <ul>
 <li>發行日期：2008年8月8日</li>
 <li>製作公司：YG娛樂</li>
@@ -252,7 +252,7 @@ World</a><br />
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/BIGBANG_(2006年單曲)" title="wikilink">BIGBANG</a></strong>》</p>
+<td><p>《<strong><a href="../Page/BIGBANG_(2006年單曲).md" title="wikilink">BIGBANG</a></strong>》</p>
 <ul>
 <li>發行日期：2006年8月29日</li>
 <li>製作公司：YG娛樂</li>
@@ -264,7 +264,7 @@ World</a><br />
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/BIGBANG_Is_V.I.P" title="wikilink">BIGBANG Is V.I.P</a></strong>》</p>
+<td><p>《<strong><a href="../Page/BIGBANG_Is_V.I.P.md" title="wikilink">BIGBANG Is V.I.P</a></strong>》</p>
 <ul>
 <li>發行日期：2006年9月28日</li>
 <li>製作公司：YG娛樂</li>
@@ -276,7 +276,7 @@ World</a><br />
 </tr>
 <tr class="even">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/BIGBANG_03" title="wikilink">BIGBANG 03</a></strong>》</p>
+<td><p>《<strong><a href="../Page/BIGBANG_03.md" title="wikilink">BIGBANG 03</a></strong>》</p>
 <ul>
 <li>發行日期：2006年11月22日</li>
 <li>製作公司：YG娛樂</li>
@@ -390,7 +390,7 @@ World</a><br />
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/The_Real_Vol.1_Live_Concert" title="wikilink">The Real Vol.1 Live Concert</a></strong>》</p>
+<td><p>《<strong><a href="../Page/The_Real_Vol.1_Live_Concert.md" title="wikilink">The Real Vol.1 Live Concert</a></strong>》</p>
 <ul>
 <li>舉行日期：2006年12月30日</li>
 <li>發行日期：2007年2月8日</li>
@@ -402,7 +402,7 @@ World</a><br />
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/The_Great_Vol.2_Live_Concert" title="wikilink">The Great Vol.2 Live Concert</a></strong>》</p>
+<td><p>《<strong><a href="../Page/The_Great_Vol.2_Live_Concert.md" title="wikilink">The Great Vol.2 Live Concert</a></strong>》</p>
 <ul>
 <li>舉辦日期：2007年12月28日－12月30日</li>
 <li>音源發行日期：2008年2月27日</li>
@@ -415,7 +415,7 @@ World</a><br />
 </tr>
 <tr class="even">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/2009_Big_Show_(現場專輯)" title="wikilink">2009 Big Show</a></strong>》</p>
+<td><p>《<strong><a href="../Page/2009_Big_Show_(現場專輯).md" title="wikilink">2009 Big Show</a></strong>》</p>
 <ul>
 <li>舉辦日期：2009年1月30日－2月1日</li>
 <li>發行日期：2009年4月22日</li>
@@ -427,7 +427,7 @@ World</a><br />
 </tr>
 <tr class="odd">
 <td><p><strong>4th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/2010_Big_Show_(現場專輯)" title="wikilink">2010 Big Show</a></strong>》</p>
+<td><p>《<strong><a href="../Page/2010_Big_Show_(現場專輯).md" title="wikilink">2010 Big Show</a></strong>》</p>
 <ul>
 <li>舉辦日期：2010年1月29日－1月31日</li>
 <li>發行日期：2010年6月23日</li>
@@ -439,7 +439,7 @@ World</a><br />
 </tr>
 <tr class="even">
 <td><p><strong>5th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/2011_Big_Show_(現場專輯)" title="wikilink">2011 Big Show</a></strong>》</p>
+<td><p>《<strong><a href="../Page/2011_Big_Show_(現場專輯).md" title="wikilink">2011 Big Show</a></strong>》</p>
 <ul>
 <li>舉辦日期：2011年2月25日－2月27日</li>
 <li>音源發行日期：2011年6月14日</li>
@@ -452,7 +452,7 @@ World</a><br />
 </tr>
 <tr class="odd">
 <td><p><strong>6th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/2012_BIGBANG_Alive_Tour_(現場專輯)" title="wikilink">2012 BIGBANG Alive Tour</a></strong>》</p>
+<td><p>《<strong><a href="../Page/2012_BIGBANG_Alive_Tour_(現場專輯).md" title="wikilink">2012 BIGBANG Alive Tour</a></strong>》</p>
 <ul>
 <li>舉辦日期：2012年3月2日－3月4日</li>
 <li>發行日期：2013年1月10日</li>
@@ -465,7 +465,7 @@ World</a><br />
 </tr>
 <tr class="even">
 <td><p><strong>7th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/2013_BIGBANG_Alive_Galaxy_Tour:_The_Final_In_Seoul_(現場專輯)" title="wikilink">2013 BIGBANG Alive Galaxy Tour：The Final In Seoul</a></strong>》</p>
+<td><p>《<strong><a href="../Page/2013_BIGBANG_Alive_Galaxy_Tour:_The_Final_In_Seoul_(現場專輯).md" title="wikilink">2013 BIGBANG Alive Galaxy Tour：The Final In Seoul</a></strong>》</p>
 <ul>
 <li>舉辦日期：2013年1月25日－1月27日</li>
 <li>發行日期：2013年5月30日，2013年6月21日（臺灣發行）</li>
@@ -478,7 +478,7 @@ World</a><br />
 </tr>
 <tr class="odd">
 <td><p><strong>8th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/2014_BIGBANG_+α_in_Seoul_(現場專輯)" title="wikilink">2014 BIGBANG +α in Seoul</a></strong>》</p>
+<td><p>《<strong><a href="../Page/2014_BIGBANG_+α_in_Seoul_(現場專輯).md" title="wikilink">2014 BIGBANG +α in Seoul</a></strong>》</p>
 <ul>
 <li>舉辦日期：2014年1月24日－1月26日</li>
 <li>發行日期：2014年3月28日[32]</li>
@@ -665,7 +665,7 @@ World</a><br />
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/We_Like_2_Party_(BIGBANG歌曲)" title="wikilink">We Like 2 Party</a></p></td>
+<td><p><a href="../Page/We_Like_2_Party_(BIGBANG歌曲).md" title="wikilink">We Like 2 Party</a></p></td>
 <td><p>3</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -1001,7 +1001,7 @@ World</a><br />
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Number_1_(BIGBANG日語專輯)" title="wikilink">Number 1</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Number_1_(BIGBANG日語專輯).md" title="wikilink">Number 1</a></strong>》</p>
 <ul>
 <li>發行日期：2008年10月22日</li>
 <li>製作公司：YG娛樂</li>
@@ -1091,7 +1091,7 @@ World</a><br />
 </tr>
 <tr class="even">
 <td><p><strong>6th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/MADE_(BIGBANG日語專輯)" title="wikilink">MADE</a></strong>》</p>
+<td><p>《<strong><a href="../Page/MADE_(BIGBANG日語專輯).md" title="wikilink">MADE</a></strong>》</p>
 <ul>
 <li>發行日期：2017年2月15日</li>
 <li>製作公司：YG娛樂</li>
@@ -1147,7 +1147,7 @@ World</a><br />
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/For_the_World" title="wikilink">For the World</a></strong>》</p>
+<td><p>《<strong><a href="../Page/For_the_World.md" title="wikilink">For the World</a></strong>》</p>
 <ul>
 <li>發行日期：2008年1月4日</li>
 <li>製作公司：YG娛樂</li>
@@ -1161,7 +1161,7 @@ World</a><br />
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/With_U_(BIGBANG迷你專輯)" title="wikilink">With U</a></strong>》</p>
+<td><p>《<strong><a href="../Page/With_U_(BIGBANG迷你專輯).md" title="wikilink">With U</a></strong>》</p>
 <ul>
 <li>發行日期：2008年5月28日</li>
 <li>製作公司：YG娛樂</li>
@@ -1175,7 +1175,7 @@ World</a><br />
 </tr>
 <tr class="even">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Special_Final_in_Dome_Memorial_Collection" title="wikilink">巨蛋日巡紀念迷你專輯</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Special_Final_in_Dome_Memorial_Collection.md" title="wikilink">巨蛋日巡紀念迷你專輯</a></strong>》</p>
 <ul>
 <li>發行日期：2012年12月5日</li>
 <li>製作公司：YG娛樂</li>
@@ -1314,7 +1314,7 @@ World</a><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Asia_Best_2006-2009" title="wikilink">Asia Best 2006-2009</a></strong></p></td>
+<td><p><strong><a href="../Page/Asia_Best_2006-2009.md" title="wikilink">Asia Best 2006-2009</a></strong></p></td>
 <td><ul>
 <li>發行日期：2009年8月19日</li>
 <li>製作公司：YG娛樂</li>
@@ -1326,7 +1326,7 @@ World</a><br />
 <td><p>rowspan="2" </p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/The_Ultimate_-International_Best-" title="wikilink">The Ultimate -International Best-</a></strong></p></td>
+<td><p><strong><a href="../Page/The_Ultimate_-International_Best-.md" title="wikilink">The Ultimate -International Best-</a></strong></p></td>
 <td><ul>
 <li>發行日期：2011年5月25日</li>
 <li>製作公司：YG娛樂</li>
@@ -1350,7 +1350,7 @@ World</a><br />
 <td><p><strong>金唱片</strong>[53]</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/BIGBANG_The_Non_Stop_MIX" title="wikilink">BIGBANG The Non Stop MIX</a></strong></p></td>
+<td><p><strong><a href="../Page/BIGBANG_The_Non_Stop_MIX.md" title="wikilink">BIGBANG The Non Stop MIX</a></strong></p></td>
 <td><ul>
 <li>發行日期：2012年4月4日</li>
 <li>製作公司：YG娛樂</li>
@@ -1362,7 +1362,7 @@ World</a><br />
 <td><p>rowspan="3" </p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/BIGBANG_Best_Selection" title="wikilink">BIGBANG Best Selection</a></strong></p></td>
+<td><p><strong><a href="../Page/BIGBANG_Best_Selection.md" title="wikilink">BIGBANG Best Selection</a></strong></p></td>
 <td><ul>
 <li>發行日期：2012年6月6日</li>
 <li>製作公司：YG娛樂</li>
@@ -1386,7 +1386,7 @@ World</a><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/The_Best_of_Big_Bang_2006-2014" title="wikilink">The Best of Big Bang 2006-2014</a></strong></p></td>
+<td><p><strong><a href="../Page/The_Best_of_Big_Bang_2006-2014.md" title="wikilink">The Best of Big Bang 2006-2014</a></strong></p></td>
 <td><ul>
 <li>發行日期：2014年11月26日</li>
 <li>製作公司：YG娛樂</li>
@@ -1473,7 +1473,7 @@ Hot 100</a><br />
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Number_1_(BIGBANG日語專輯)" title="wikilink">Number 1</a></strong></p></td>
+<td><p><strong><a href="../Page/Number_1_(BIGBANG日語專輯).md" title="wikilink">Number 1</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">

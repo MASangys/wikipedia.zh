@@ -104,7 +104,7 @@
 <td><p>青木浩一</p></td>
 <td><p>小鹿英吉</p></td>
 <td><p>内田祐司</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/土器手司" title="wikilink">土器手司</a></p></td>
+<td><p><a href="../Page/土器手司.md" title="wikilink">土器手司</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>

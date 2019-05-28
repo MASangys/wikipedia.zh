@@ -16,9 +16,8 @@ OVER-*'』是日本團體[AAA於](../Page/AAA_\(團體\).md "wikilink")2017年3�
 2.  **[深愛著，卻不能愛](../Page/深愛著，卻不能愛.md "wikilink")**
       -
         「[AAA ARENA TOUR 2016 -LEAP
-        OVER-](https://zh.wikipedia.org/wiki/AAA_ARENA_TOUR_2016_-LEAP_OVER- "wikilink")」之後的首次影像化。
-3.  **[SHOUT &
-    SHAKE](https://zh.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")**
+        OVER-](../Page/AAA_ARENA_TOUR_2016_-LEAP_OVER-.md "wikilink")」之後的首次影像化。
+3.  **[SHOUT & SHAKE](../Page/GOLD_SYMPHONY.md "wikilink")**
       -
         「[AAA 10th Anniversary SPECIAL 野外LIVE in
         富士急高原樂園](../Page/AAA_10th_Anniversary_SPECIAL_野外LIVE_in_富士急高原樂園.md "wikilink")」之後的首次影像化。
@@ -41,7 +40,7 @@ OVER-*'』是日本團體[AAA於](../Page/AAA_\(團體\).md "wikilink")2017年3�
 8.  **[戀歌與雨天](../Page/戀歌與雨天.md "wikilink")**
       -
         「AAA ARENA TOUR 2016 -LEAP OVER-」之後的首次影像化。
-9.  **[說再見之前](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")**
+9.  **[說再見之前](../Page/說再見之前.md "wikilink")**
       -
         「AAA ARENA TOUR 2016 -LEAP OVER-」之後的首次影像化。
 10. **[Jewel](../Page/沒有眼淚的世界.md "wikilink")**
@@ -60,7 +59,7 @@ OVER-*'』是日本團體[AAA於](../Page/AAA_\(團體\).md "wikilink")2017年3�
 14. **[沒有眼淚的世界](../Page/沒有眼淚的世界.md "wikilink")**
       -
         首次影像化。
-15. **[Next Stage](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")**
+15. **[Next Stage](../Page/說再見之前.md "wikilink")**
       -
         「AAA 10th ANNIVERSARY Documentary 〜Road of 10th
         ANNIVERSARY〜」之後的首次影像化。
@@ -83,8 +82,7 @@ OVER-*'』是日本團體[AAA於](../Page/AAA_\(團體\).md "wikilink")2017年3�
     (ENCORE)
       -
         「AAA ARENA TOUR 2016 -LEAP OVER-」之後的首次影像化。
-21. **[Love](https://zh.wikipedia.org/wiki/Love_\(AAA單曲\) "wikilink")**
-    (ENCORE)
+21. **[Love](../Page/Love_\(AAA單曲\).md "wikilink")** (ENCORE)
       -
         「AAA 10th Anniversary SPECIAL 野外LIVE in 富士急高原樂園」之後的首次影像化。
 22. **[虹](https://zh.wikipedia.org/wiki/虹_\(AAA單曲\) "wikilink")**

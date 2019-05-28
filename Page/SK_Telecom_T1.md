@@ -1,7 +1,7 @@
 **SK Telecom T1**（简称**SKT
 T1**或**SKT**），是一支来自韩国的职业[电子竞技队伍](../Page/电子竞技.md "wikilink")。该战队的前身是由[Boxer于](https://zh.wikipedia.org/wiki/Boxer "wikilink")2002年所成立的Orion战队，后于2003年12月更名为Union，2004年，[SK电讯开始赞助该战队](../Page/SK电讯.md "wikilink")，该战队亦更名为SK
 Telecom
-T1。该战队目前有[英雄联盟和](../Page/英雄联盟.md "wikilink")[星际争霸分部](https://zh.wikipedia.org/wiki/星际争霸 "wikilink")，其中英雄联盟分部曾在2013、2015和2016的[英雄联盟全球总决赛中获得冠军](https://zh.wikipedia.org/wiki/英雄联盟全球总决赛 "wikilink")，并曾在2017的英雄联盟全球总决赛中获得亞軍。
+T1。该战队目前有[英雄联盟和](../Page/英雄联盟.md "wikilink")[星际争霸分部](https://zh.wikipedia.org/wiki/星际争霸 "wikilink")，其中英雄联盟分部曾在2013、2015和2016的[英雄联盟全球总决赛中获得冠军](../Page/英雄联盟全球总决赛.md "wikilink")，并曾在2017的英雄联盟全球总决赛中获得亞軍。
 
 ## 成员
 

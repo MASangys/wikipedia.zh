@@ -25,21 +25,21 @@ Wire上宣布将黑图斯克工作室更名为The Coalition。\[7\]
 <td><p><a href="../Page/戰爭機器_(遊戲).md" title="wikilink">战争机器：终极版</a><br />
 <em>Gears of War: Ultimate Edition</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Studios" title="wikilink">Microsoft Studios</a></p></td>
-<td><p><a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>、<a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>、<a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 <td><p>2015年8月25日</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/戰爭機器4.md" title="wikilink">戰爭機器4</a><br />
 <em>Gears of War 4</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Studios" title="wikilink">Microsoft Studios</a></p></td>
-<td><p><a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>、<a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>、<a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 <td><p>2016年10月11日</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/戰爭機器5" title="wikilink">戰爭機器5</a><br />
 <em>Gears of War 5</em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Microsoft_Studios" title="wikilink">Microsoft Studios</a></p></td>
-<td><p><a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>、<a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>、<a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 <td><p>2019年預定</p></td>
 </tr>
 </tbody>

@@ -108,7 +108,7 @@ Aero」\[9\]，以「FM」車型為底加裝2DIN音響裝置、全車空力套�
 Aero」特仕車，外觀設計稍作變化，且附[MD](https://zh.wikipedia.org/wiki/MD "wikilink")/[CD](../Page/CD.md "wikilink")/[錄音帶三合一音響系統](https://zh.wikipedia.org/wiki/錄音帶 "wikilink")。同年12月5日發表小改款（3型），K6A型引擎車型之原廠代號為MC22S，F6A型則為MC12S。頭燈組、前後保桿、輪圈蓋的造型煥然一新，內裝也有所更改。
 
 2001年 - 5月16日推出復古設計的「C2」車型\[10\]，6月15日推出「FM-G
-Limited」特仕車，6月20日發售限量3千部的「150萬台紀念車」，配置MD/CD音響、4支喇叭加高音喇叭、木紋內裝飾板、專屬座椅等。11月14日實施小改款（4型），雙前座[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、[轉速表列入標準配備](https://zh.wikipedia.org/wiki/轉速表 "wikilink")，後輪[懸吊系統的](../Page/懸吊系統.md "wikilink")[減震筒從後葉子板内側前方移向内側後方](https://zh.wikipedia.org/wiki/阻尼器 "wikilink")，全車系的自排車型統一成方向機式排檔桿，原搭載F6A型引擎的車型統一改為K6A型。
+Limited」特仕車，6月20日發售限量3千部的「150萬台紀念車」，配置MD/CD音響、4支喇叭加高音喇叭、木紋內裝飾板、專屬座椅等。11月14日實施小改款（4型），雙前座[安全氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")、[轉速表列入標準配備](../Page/轉速表.md "wikilink")，後輪[懸吊系統的](../Page/懸吊系統.md "wikilink")[減震筒從後葉子板内側前方移向内側後方](https://zh.wikipedia.org/wiki/阻尼器 "wikilink")，全車系的自排車型統一成方向機式排檔桿，原搭載F6A型引擎的車型統一改為K6A型。
 
 2002年 - 2月5日與異業結盟，推出限量3千部的「Miki House
 Version」特仕車。2月12日推出助手席可迴轉90度的車型，座椅下方並附有摺疊式腳靠。9月3日再次實施小改款（5型），全車系新增後座滑軌，追加「N-1

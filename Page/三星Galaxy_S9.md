@@ -2,11 +2,10 @@
 是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[三星電子於](../Page/三星電子.md "wikilink")2018年2月25日[世界行動通訊大會首發的Android系統高階旗艦](../Page/世界行動通訊大會.md "wikilink")[智能手機](https://zh.wikipedia.org/wiki/智能手機 "wikilink")\[1\]\[2\]\[3\]，是三星[Galaxy
 S系列中的第九代](https://zh.wikipedia.org/wiki/Galaxy_S系列 "wikilink")，承繼三星[Galaxy
 S8](../Page/三星Galaxy_S8.md "wikilink")，S9及S9+也是均為雙曲面玻璃屏幕，不設平面螢幕版本。三星S9擁有午夜黑、鈦金灰、丁香紫、珊瑚藍顏色款式。\[4\]同期競爭對手為[Sony
-Xperia
-XZ2](https://zh.wikipedia.org/wiki/Sony_Xperia_XZ2 "wikilink")、[HTC
-U12+](https://zh.wikipedia.org/wiki/HTC_U12+ "wikilink")、**[LG V30s
-ThinQ](https://zh.wikipedia.org/wiki/LG_V30s_ThinQ "wikilink")**、[LG V35
-ThinQ和](https://zh.wikipedia.org/wiki/LG_V35_ThinQ "wikilink")[华为P20系列](https://zh.wikipedia.org/wiki/华为P20系列 "wikilink")。
+Xperia XZ2](../Page/Sony_Xperia_XZ2.md "wikilink")、[HTC
+U12+](../Page/HTC_U12+.md "wikilink")、**[LG V30s
+ThinQ](../Page/LG_V30s_ThinQ.md "wikilink")**、[LG V35
+ThinQ和](https://zh.wikipedia.org/wiki/LG_V35_ThinQ "wikilink")[华为P20系列](../Page/华为P20系列.md "wikilink")。
 
 ## 特色
 

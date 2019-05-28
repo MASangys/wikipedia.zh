@@ -8,7 +8,7 @@
 
 根据交通部副部长[阿兹卡拉威所称](https://zh.wikipedia.org/wiki/阿兹卡拉威 "wikilink")，Flymojo将会增强[马来西亚半岛](../Page/马来西亚半岛.md "wikilink")、[沙巴州与](https://zh.wikipedia.org/wiki/沙巴州 "wikilink")[砂拉越的关联](../Page/砂拉越.md "wikilink")。公司将总部设置于[士乃国际机场](../Page/士乃国际机场.md "wikilink")，将会使机场成为区域重要航空及物流枢纽；并极大帮助[依斯干达经济特区的发展](https://zh.wikipedia.org/wiki/依斯干达经济特区 "wikilink")\[7\]。
 
-2016年5月30日，由于Flymojo的项目截止临近导致其吊销。[民航局签署了一个展期许可](https://zh.wikipedia.org/wiki/马来西亚民航局 "wikilink")，允许Flymojo可以获取资金购买飞机，但由于庞巴迪C系列的延迟支付，意味着公司并没有飞机运营，从而丧失了航空营运许可证延期的预设条件\[8\]。
+2016年5月30日，由于Flymojo的项目截止临近导致其吊销。[民航局签署了一个展期许可](../Page/马来西亚民航局.md "wikilink")，允许Flymojo可以获取资金购买飞机，但由于庞巴迪C系列的延迟支付，意味着公司并没有飞机运营，从而丧失了航空营运许可证延期的预设条件\[8\]。
 
 ## 目的地
 

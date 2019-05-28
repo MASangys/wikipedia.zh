@@ -28,7 +28,7 @@
   - [Kohana是一个支持HMVC模式的PHP框架](https://zh.wikipedia.org/wiki/Kohana "wikilink")，为[CodeIgniter一个分支](../Page/CodeIgniter.md "wikilink")。
   - [Krystal
     Framework](http://krystal-framework.ml/)是一个轻量级的PHP框架，用以开发可维护的Web应用。
-  - [Laravel是一个开源的](https://zh.wikipedia.org/wiki/Laravel "wikilink")[PHP框架](../Page/PHP.md "wikilink")，它由Taylor
+  - [Laravel是一个开源的](../Page/Laravel.md "wikilink")[PHP框架](../Page/PHP.md "wikilink")，它由Taylor
     Otwell开发，支持MVC模式。它配备有一个模块化[软件包管理系统和专用依赖管理器](../Page/软件包管理系统.md "wikilink")。它提供多种访问[关系数据库的方式](../Page/关系数据库.md "wikilink")，以及有助于应用部署和维护的实用程序。
   - [Lithium](http://li3.me/)是一个全栈PHP框架，支持PHP 5.3以上版本，支持MVC模式。
   - [Mako Framework](http://makoframework.com/)是一个轻量级的、易用的PHP框架。

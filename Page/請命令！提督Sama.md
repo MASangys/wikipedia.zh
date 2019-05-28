@@ -178,7 +178,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/俾斯麥級戰艦" title="wikilink">俾斯麥級</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/俾斯麥號戰艦" title="wikilink">俾斯麥</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/井澤詩織" title="wikilink">井澤詩織</a></p></td>
+<td><p><a href="../Page/井澤詩織.md" title="wikilink">井澤詩織</a></p></td>
 <td><p><a href="../Page/高橋李依.md" title="wikilink">高橋李依</a></p></td>
 <td></td>
 </tr>
@@ -214,7 +214,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/北卡羅來納級戰列艦" title="wikilink">北卡羅來納級</a></p></td>
 <td><p><a href="../Page/華盛頓號戰艦_(BB-56).md" title="wikilink">華盛頓</a></p></td>
 <td><p>廣瀨小夜</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/川上千尋" title="wikilink">川上千尋</a></p></td>
+<td><p><a href="../Page/川上千尋.md" title="wikilink">川上千尋</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -383,7 +383,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/吹雪級驅逐艦" title="wikilink">吹雪級</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吹雪號驅逐艦_(吹雪型)" title="wikilink">吹雪</a></p></td>
+<td><p><a href="../Page/吹雪號驅逐艦_(吹雪型).md" title="wikilink">吹雪</a></p></td>
 <td><p><a href="../Page/水瀨祈.md" title="wikilink">水瀨祈</a></p></td>
 <td><p><a href="../Page/近藤佳奈子.md" title="wikilink">近藤佳奈子</a></p></td>
 <td><p>中國服名稱「初冬」</p></td>
@@ -664,7 +664,7 @@
   - [艦隊Collection](../Page/艦隊Collection.md "wikilink")─由日本[角川遊戲製作](https://zh.wikipedia.org/wiki/角川遊戲 "wikilink")，[DMM.com發行](../Page/DMM.com.md "wikilink")，為大部分艦船擬人化主題遊戲的靈感來源。
   - [戰艦少女](https://zh.wikipedia.org/wiki/戰艦少女 "wikilink")─由中國[上海幻萌製作及發行](https://zh.wikipedia.org/wiki/幻萌網絡 "wikilink")。
   - [碧藍航線](../Page/碧藍航線.md "wikilink")─由中國[上海蠻啾與](https://zh.wikipedia.org/wiki/上海蠻啾 "wikilink")[廈門勇仕製作](https://zh.wikipedia.org/wiki/廈門勇仕 "wikilink")，[Bilibili發行](../Page/Bilibili.md "wikilink")。
-  - [深淵地平線](https://zh.wikipedia.org/wiki/深淵地平線 "wikilink")─由中國[重慶煜顔製作](https://zh.wikipedia.org/wiki/重慶煜顔 "wikilink")，[心動網絡發行](https://zh.wikipedia.org/wiki/心動網絡 "wikilink")。
+  - [深淵地平線](../Page/深淵地平線.md "wikilink")─由中國[重慶煜顔製作](https://zh.wikipedia.org/wiki/重慶煜顔 "wikilink")，[心動網絡發行](https://zh.wikipedia.org/wiki/心動網絡 "wikilink")。
   - [超次元大海戰](https://zh.wikipedia.org/wiki/超次元大海戰 "wikilink")─由中國[江蘇甲子製作](https://zh.wikipedia.org/wiki/江蘇甲子 "wikilink")，[次元遊戲社發行](https://zh.wikipedia.org/wiki/次元遊戲社 "wikilink")。
 
 ## 參考資料

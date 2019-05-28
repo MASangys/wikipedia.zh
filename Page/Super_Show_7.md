@@ -36,14 +36,14 @@ Duper》首次公開\[6\]。
 <ul>
 <li><a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">"Black Suit"</a></li>
 <li><a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">"Scene Stealer"</a></li>
-<li>"<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a>"</li>
+<li>"<a href="../Page/Mamacita.md" title="wikilink">Mamacita</a>"</li>
 </ul>
 <dl>
 <dt>First MENT</dt>
 
 </dl>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">"Shirt"</a></li>
+<li><a href="../Page/Mamacita.md" title="wikilink">"Shirt"</a></li>
 </ul>
 <dl>
 <dt>VCR #1</dt>
@@ -51,7 +51,7 @@ Duper》首次公開\[6\]。
 </dl>
 <ul>
 <li><a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">"Girlfriend"</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">"This is Love"</a></li>
+<li><a href="../Page/Mamacita.md" title="wikilink">"This is Love"</a></li>
 <li><a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">"Too Late"</a></li>
 <li>"<a href="../Page/It&#39;s_You.md" title="wikilink">It's You</a>"</li>
 </ul>
@@ -80,7 +80,7 @@ Duper》首次公開\[6\]。
 </dl>
 <ul>
 <li><a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">"Runaway"</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">"Too Many Beautiful Girls"</a></li>
+<li><a href="../Page/Mamacita.md" title="wikilink">"Too Many Beautiful Girls"</a></li>
 <li><a href="../Page/Super_Junior05.md" title="wikilink">"Miracle"</a></li>
 </ul>
 <dl>
@@ -89,7 +89,7 @@ Duper》首次公開\[6\]。
 </dl>
 <ul>
 <li>"Rokkugo(來過倒)"</li>
-<li><a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">"Let's Dance"</a></li>
+<li><a href="../Page/Mamacita.md" title="wikilink">"Let's Dance"</a></li>
 <li>Club Medley Mix</li>
 <li>"司機哥哥的Swag"</li>
 <li>"On &amp; On"</li>

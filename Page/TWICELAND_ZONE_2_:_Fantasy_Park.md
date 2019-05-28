@@ -70,7 +70,7 @@ Convention Exhibition-Hall 5舉行。
 <tr class="odd">
 <td><p>2018年6月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大阪" title="wikilink">大阪</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大阪城音樂廳" title="wikilink">大阪城展演廳</a></p></td>
+<td><p><a href="../Page/大阪城音樂廳.md" title="wikilink">大阪城展演廳</a></p></td>
 <td><p>20,000</p></td>
 <td></td>
 </tr>

@@ -25,9 +25,9 @@ Ridge」四CPU核心+GPU的晶片。
 #### 「Summit Ridge」/「Whitehaven」核心
 
   - 主流效能級平台使用[μPGA封裝](https://zh.wikipedia.org/wiki/插针网格阵列封装 "wikilink")，[Socket
-    AM4插座](../Page/Socket_AM4.md "wikilink")。\[6\]\[7\]極致效能型號採用與[Epyc相同的LGA封裝](https://zh.wikipedia.org/wiki/AMD_Epyc "wikilink")，與[Socket
-    SP3相同規格的](https://zh.wikipedia.org/wiki/Socket_SP3 "wikilink")[Socket
-    TR4](https://zh.wikipedia.org/wiki/Socket_TR4 "wikilink")。
+    AM4插座](../Page/Socket_AM4.md "wikilink")。\[6\]\[7\]極致效能型號採用與[Epyc相同的LGA封裝](../Page/AMD_Epyc.md "wikilink")，與[Socket
+    SP3相同規格的](../Page/Socket_SP3.md "wikilink")[Socket
+    TR4](../Page/Socket_TR4.md "wikilink")。
   - 僅支援[DDR4記憶體](https://zh.wikipedia.org/wiki/DDR4 "wikilink")，支援DDR4-2666單面（Rank）記憶體模組規格或DDR4-2400雙面記憶體模組規格、DDR4-2133單面模組或DDR4-1866雙面模組，\[8\]\[9\]不過，2017年3月下旬開始新推出的AM4主機板、更新舊AM4主機板的BIOS修正檔以後能支援至最高DDR4-3200之規格。\[10\]
   - 保留大部分[AMD
     FX時代的指令集支援](../Page/AMD_FX.md "wikilink")，包括[x87](https://zh.wikipedia.org/wiki/x87 "wikilink")、[MMX](../Page/MMX.md "wikilink")、[SSE](../Page/SSE.md "wikilink")/[SSE2](../Page/SSE2.md "wikilink")/[SSE3](../Page/SSE3.md "wikilink")/[SSSE3](../Page/SSSE3.md "wikilink")/SSE4.1/SSE4.2、[AES](../Page/AES指令集.md "wikilink")、CLMUL、[AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")/AVX2、[FMA3](https://zh.wikipedia.org/wiki/FMA3 "wikilink")、CVT16/F16C、ABM、BMI1/BMI2、SHA。\[11\]
@@ -1032,7 +1032,7 @@ Vega 3，配置有3組CU；型號結尾帶「E」的爲低功耗版本：
 
 目前推出的 Ryzen Mobile
 系列處理器主要用於[超極致筆電](../Page/Ultrabook.md "wikilink")，\[84\]全數使用「Raven
-Ridge」晶片，含一個CCX（有4個CPU核心），[BGA封裝的](https://zh.wikipedia.org/wiki/球柵陣列封裝 "wikilink")[Socket
+Ridge」晶片，含一個CCX（有4個CPU核心），[BGA封裝的](../Page/球柵陣列封裝.md "wikilink")[Socket
 FP5](https://zh.wikipedia.org/wiki/Socket_FP5 "wikilink")，支援雙通道記憶體，內建GPU，部分型號還不會開啓[同步多執行緒](https://zh.wikipedia.org/wiki/同步多執行緒 "wikilink")。
 
 ##### Ryzen 7 Mobile 系列
@@ -1512,7 +1512,7 @@ AM4連接介面和支援[雙通道記憶體](https://zh.wikipedia.org/wiki/雙�
 ##### Ryzen Threadripper 系列
 
 Threadripper 2000系列於2018年Computex上發表，採用[Socket
-TR4插座](https://zh.wikipedia.org/wiki/Socket_TR4 "wikilink")，支援最高[四通道記憶體](../Page/多通道記憶體技術.md "wikilink")（由四個雙通道記憶體控制器提供支援），最多提供64個PCIe通道，本系列採用[多晶片模組](../Page/多晶片模組.md "wikilink")，代號「Colfax」，實際上是將4個與「Pinnacle
+TR4插座](../Page/Socket_TR4.md "wikilink")，支援最高[四通道記憶體](../Page/多通道記憶體技術.md "wikilink")（由四個雙通道記憶體控制器提供支援），最多提供64個PCIe通道，本系列採用[多晶片模組](../Page/多晶片模組.md "wikilink")，代號「Colfax」，實際上是將4個與「Pinnacle
 Ridge」相同的8核心晶片封裝於處理器基板上（視良率而開啓部分CPU核心等部分），最高會有32個CPU核心的配置，3.0
 GHz以上的基準時脈，最高TDP也達到180W～250W，其盒裝版本配備了一個高達14條導熱管的大體積散熱器。\[112\]若主機板廠商提供BIOS韌體更新的話，Threadripper
 2000系列也會相容於供電設計足夠、已有的使用AMD
@@ -1991,7 +1991,7 @@ YD2600BBAFBOX</p></td>
 
   - [AMD APU](https://zh.wikipedia.org/wiki/AMD_APU "wikilink")
       - [AMD加速處理器列表](../Page/AMD加速處理器列表.md "wikilink")
-  - [AMD Epyc](https://zh.wikipedia.org/wiki/AMD_Epyc "wikilink")
+  - [AMD Epyc](../Page/AMD_Epyc.md "wikilink")
 
 ## 外部連結
 

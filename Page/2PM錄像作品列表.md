@@ -177,7 +177,7 @@
 <tr class="even">
 <td><p>Go Crazy!</p></td>
 <td><p>2014年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/瘋了嗎？" title="wikilink">Go Crazy!</a></p></td>
+<td><p><a href="../Page/瘋了嗎？.md" title="wikilink">Go Crazy!</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

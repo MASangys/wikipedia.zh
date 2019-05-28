@@ -82,7 +82,7 @@ Devil Cat | length5 = 3:23
 Zelo
 朴秀錫
 金昌樂
-[朴恩佑](https://zh.wikipedia.org/wiki/朴恩佑 "wikilink") | music7 = 朴秀錫
+[朴恩佑](../Page/朴恩佑.md "wikilink") | music7 = 朴秀錫
 金昌樂 | arranger7 = 朴秀錫（박수석） | length7 = 3:23
 
 | title8 = Chiquita | lyrics8 = 方容國

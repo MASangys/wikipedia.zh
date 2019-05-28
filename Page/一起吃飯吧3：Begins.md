@@ -273,7 +273,7 @@
     [月火連續劇](../Page/KBS月火連續劇.md "wikilink")：《[你也是人類嗎](../Page/你也是人類嗎.md "wikilink")》、《[Lovely
     Horribly](../Page/Lovely_Horribly.md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[檢法男女](../Page/檢法男女.md "wikilink")》、《[生死決斷羅曼史](https://zh.wikipedia.org/wiki/生死決斷羅曼史 "wikilink")》
+    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[檢法男女](../Page/檢法男女.md "wikilink")》、《[生死決斷羅曼史](../Page/生死決斷羅曼史.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")
     [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[油膩的Melo](../Page/油膩的Melo.md "wikilink")》、《[雖然30但仍17](../Page/雖然30但仍17.md "wikilink")》
 

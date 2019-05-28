@@ -16,7 +16,7 @@ Dual Rail EDR（頻寬23GB/s），\[6\]它們用以將POWER9 CPU與基於Volta�
   - [Intel QuickPath Interconnect](../Page/快速通道互联.md "wikilink")
   - [PCI Express](../Page/PCI_Express.md "wikilink")
   - [HyperTransport](../Page/HyperTransport.md "wikilink")
-  - [InfiniBand](https://zh.wikipedia.org/wiki/InfiniBand "wikilink")
+  - [InfiniBand](../Page/InfiniBand.md "wikilink")
 
 ## 參見
 

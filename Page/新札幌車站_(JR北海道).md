@@ -10,7 +10,7 @@
 
 ### 停靠列車
 
-  - [特急](../Page/特別急行列車.md "wikilink")「[北斗](https://zh.wikipedia.org/wiki/北斗號列車 "wikilink")」及「[超級北斗](https://zh.wikipedia.org/wiki/北斗號列車 "wikilink")」
+  - [特急](../Page/特別急行列車.md "wikilink")「[北斗](../Page/北斗號列車.md "wikilink")」及「[超級北斗](../Page/北斗號列車.md "wikilink")」
   - 特急「[鈴蘭](../Page/鈴蘭號列車.md "wikilink")」（）
   - 特急「[超級大空](../Page/超級大空號列車.md "wikilink")」（）
   - 特急「[超級十勝](https://zh.wikipedia.org/wiki/超級十勝號列車 "wikilink")」（）

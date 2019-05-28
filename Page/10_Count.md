@@ -3,7 +3,7 @@
 
 ## 故事內容
 
-[不潔恐懼症的青年和](https://zh.wikipedia.org/wiki/洁癖 "wikilink")的[輔導員](../Page/輔導.md "wikilink")（[心理諮商師](https://zh.wikipedia.org/wiki/心理諮詢師 "wikilink")）的青年之間戀愛關係描寫的[BL](https://zh.wikipedia.org/wiki/BL_\(和製英語\) "wikilink")（[耽美](../Page/Yaoi.md "wikilink")）作品。10
+[不潔恐懼症的青年和](https://zh.wikipedia.org/wiki/洁癖 "wikilink")的[輔導員](../Page/輔導.md "wikilink")（[心理諮商師](https://zh.wikipedia.org/wiki/心理諮詢師 "wikilink")）的青年之間戀愛關係描寫的[BL](../Page/BL_\(和製英語\).md "wikilink")（[耽美](../Page/Yaoi.md "wikilink")）作品。10
 Count是患有不潔恐怖症的故事主角在治療過程中有10項達成的目標的意思，英語寫作10 COUNT或Ten Count。
 
 身為[社長](https://zh.wikipedia.org/wiki/社長 "wikilink")[秘書的](../Page/公司秘書.md "wikilink")有著笑容表面下的陰影，年幼時曾受[心理創傷](../Page/心理創傷.md "wikilink")，因為與社長關係良好受到信賴，而和外人逃避隔絕關係，因緣際會下與心理治療師相遇，展開兩人深刻密切的朋友和諮商關係，後來變成禁欲與身體接觸之間的關係。

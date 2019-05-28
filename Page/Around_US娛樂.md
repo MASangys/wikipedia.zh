@@ -21,7 +21,7 @@ US」寓意為「渴望更頻繁、更接近接觸人群」，並以「創造任
 <!-- end list -->
 
   - 12月21日，Arion
-    Technology宣稱為了加強娛樂事業計劃，分別針對、[YMC娛樂](https://zh.wikipedia.org/wiki/YMC娛樂 "wikilink")、Red
+    Technology宣稱為了加強娛樂事業計劃，分別針對、[YMC娛樂](../Page/YMC娛樂.md "wikilink")、Red
     Line娛樂、Around US娛樂等共四家娛樂公司進行投資，其中對Around
     US娛樂總共收購1500股票，相當於投入20億韓元，同時也佔該公司整體30%的總資本額，是目前最大投資者。而業界人士認為，「即使Around
     US娛樂目前為了BEAST名稱商標正在與前公司[Cube娛樂進行協商的情況下](../Page/Cube娛樂.md "wikilink")，但仍然有十足的價值以及潛力存在，因此才會有大舉投入的資金」。

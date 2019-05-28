@@ -364,8 +364,7 @@ Note](https://zh.wikipedia.org/wiki/Angel_Note "wikilink")**\[1\]。主要创作
 
 <!-- end list -->
 
-  - **[俺の彼女のウラオモテ](https://zh.wikipedia.org/wiki/我的女友表裡不一 "wikilink")**
-    (Aries)
+  - **[俺の彼女のウラオモテ](../Page/我的女友表裡不一.md "wikilink")** (Aries)
       - OP主題歌『Knowing』
           - 作詞：真里歌 / 作曲・編曲： Meis Clauson（Angel Note）
 

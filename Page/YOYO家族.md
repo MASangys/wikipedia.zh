@@ -64,7 +64,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/草莓姐姐" title="wikilink">草莓姐姐</a></p></td>
+<td><p><a href="../Page/草莓姐姐.md" title="wikilink">草莓姐姐</a></p></td>
 <td><p>簡皎竹</p></td>
 <td><p>3期</p></td>
 <td><p>2005年 -</p></td>
@@ -274,7 +274,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p>天秤座</p></td>
 <td><p>A型</p></td>
 <td><p>1－5</p></td>
-<td><p>移籍至<a href="../Page/MOMO親子台.md" title="wikilink">MOMO親子台並加入</a><a href="https://zh.wikipedia.org/wiki/MOMO家族" title="wikilink">MOMO家族</a>，已婚，育有一子，曾擔任<a href="https://zh.wikipedia.org/wiki/空中服務員" title="wikilink">空中服務員</a>，在<a href="../Page/中國.md" title="wikilink">中國經營親子酒店</a></p></td>
+<td><p>移籍至<a href="../Page/MOMO親子台.md" title="wikilink">MOMO親子台並加入</a><a href="../Page/MOMO家族.md" title="wikilink">MOMO家族</a>，已婚，育有一子，曾擔任<a href="https://zh.wikipedia.org/wiki/空中服務員" title="wikilink">空中服務員</a>，在<a href="../Page/中國.md" title="wikilink">中國經營親子酒店</a></p></td>
 <td><p><br />
 紅色</p></td>
 <td></td>

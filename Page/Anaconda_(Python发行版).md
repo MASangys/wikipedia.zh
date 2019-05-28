@@ -54,8 +54,7 @@ Cloud账号就可以搜索、下载和安装软件包。
 
 ## 參見
 
-  - [Pip
-    (软件包管理系统)](https://zh.wikipedia.org/wiki/Pip_\(軟件包管理系統\) "wikilink")
+  - [Pip (软件包管理系统)](../Page/Pip_\(軟件包管理系統\).md "wikilink")
   - [软件包管理系统](https://zh.wikipedia.org/wiki/Category:软件包管理系统 "wikilink")
 
 ## 参考來源

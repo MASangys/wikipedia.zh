@@ -55,7 +55,7 @@ transformation），\(F_\ell\)定義為（其下標表示「較低的」）
 ## 相關條目
 
   - [哈代空間](../Page/哈代空間.md "wikilink")
-  - [H square](https://zh.wikipedia.org/wiki/H_square "wikilink")
+  - [H square](../Page/H_square.md "wikilink")
   - [H-infinity迴路整形](https://zh.wikipedia.org/wiki/H-infinity迴路整形 "wikilink")
   - [線性平方高斯控制](https://zh.wikipedia.org/wiki/線性平方高斯控制 "wikilink")（LQG）
   - [羅森布魯克系統矩陣](https://zh.wikipedia.org/wiki/羅森布魯克系統矩陣 "wikilink")

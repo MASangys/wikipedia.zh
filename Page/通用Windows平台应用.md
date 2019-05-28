@@ -16,7 +16,7 @@ charm中的特製菜單](https://zh.wikipedia.org/wiki/Windows_shell#The_charms 
 
 根據用戶的反饋，微軟逐漸寬鬆了這種無界面元素的規則。在[Windows
 8.1中](../Page/Windows_8.1.md "wikilink")，標題欄被引入但處於隱藏的狀態，除非用戶將滑鼠滑越於熒屏頂端，否則它決不會現身。[Windows
-10引入了](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[平板模式](https://zh.wikipedia.org/wiki/平板模式 "wikilink")，平板電腦安裝後會自動開啟這種模式；而在桌面或筆電中它被默認是關閉的，但卻可手動開啟與關閉。當這種模式關閉時，運行於桌面的Metro風格應用程式有可見的標題欄，大小也是可調的。當平板模式開啟後，Metro風格應用回退至Windows
+10引入了](../Page/Windows_10.md "wikilink")[平板模式](https://zh.wikipedia.org/wiki/平板模式 "wikilink")，平板電腦安裝後會自動開啟這種模式；而在桌面或筆電中它被默認是關閉的，但卻可手動開啟與關閉。當這種模式關閉時，運行於桌面的Metro風格應用程式有可見的標題欄，大小也是可調的。當平板模式開啟後，Metro風格應用回退至Windows
 8.1時的樣式，所有應用程式都以最大化呈現佔據著整個熒屏，不可調節尺寸。\[1\]\[2\]\[3\]
 
 此外，Windows 10也將設定Charm移除，被一種稱之為“漢堡菜單”的系統菜單變體所取代。

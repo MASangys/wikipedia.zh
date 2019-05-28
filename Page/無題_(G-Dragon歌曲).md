@@ -191,7 +191,7 @@ All-Kill」」\[9\]。此外，無題也在[美國](https://zh.wikipedia.org/wik
 <td><p>全球</p></td>
 <td><p>2017年6月8日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></p></td>
-<td><p><a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a>、<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie音樂</a></p></td>
+<td><p><a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a>、<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

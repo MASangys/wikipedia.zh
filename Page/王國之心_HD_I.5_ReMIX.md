@@ -1,5 +1,5 @@
 《**[王國之心 HD I.5
-ReMIX](https://zh.wikipedia.org/wiki/王國之心_HD_I.5_ReMIX "wikilink")**》，是一個將原本在[PlayStation
+ReMIX](../Page/王國之心_HD_I.5_ReMIX.md "wikilink")**》，是一個將原本在[PlayStation
 2的遊戲](../Page/PlayStation_2.md "wikilink")《[王國之心](../Page/王国之心_\(游戏\).md "wikilink")》與《[王國之心
 記憶之鍊](../Page/王國之心_記憶之鍊.md "wikilink")》混合後的高解析移植到[PlayStation
 3的版本](../Page/PlayStation_3.md "wikilink")。同時也重新翻拍加入原本[任天堂DS的遊戲](../Page/任天堂DS.md "wikilink")《[王國之心

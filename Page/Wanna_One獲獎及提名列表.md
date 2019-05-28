@@ -4,7 +4,7 @@ One在出道限定期間內於頒獎典禮](https://zh.wikipedia.org/wiki/Wanna_
 
 ## 韓國
 
-### [Soribada最佳音樂大獎](https://zh.wikipedia.org/wiki/Soribada最佳音樂大獎 "wikilink")
+### [Soribada最佳音樂大獎](../Page/Soribada最佳音樂大獎.md "wikilink")
 
 |- |rowspan="3"|2017 | 新人獎 | rowspan="3"|Wanna One\[1\]\[2\] |  |- |
 新韓流Rising Hot Star獎 |  |- | 本賞 |  |- |rowspan="3"|2018 | 本賞 |

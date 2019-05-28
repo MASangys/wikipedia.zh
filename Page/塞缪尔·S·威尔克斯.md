@@ -11,7 +11,7 @@
 
 ## 荣誉
 
-[美国统计协会以他的名字命名统计学奖项](https://zh.wikipedia.org/wiki/美国统计协会 "wikilink")[威尔克斯纪念奖](https://zh.wikipedia.org/wiki/威尔克斯纪念奖 "wikilink")，表彰他的卓越贡献。
+[美国统计协会以他的名字命名统计学奖项](https://zh.wikipedia.org/wiki/美国统计协会 "wikilink")[威尔克斯纪念奖](../Page/威尔克斯纪念奖.md "wikilink")，表彰他的卓越贡献。
 
 ## 参考来源
 

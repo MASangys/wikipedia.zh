@@ -275,7 +275,7 @@ CASH金帆音樂獎最佳男歌手演繹獎每年由香港作曲家及作詞家�
 | 2014                                                            | '''[張敬軒](https://zh.wikipedia.org/wiki/張敬軒 "wikilink") ''' | **《青春常駐》** |
 | [Eric Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink") | 《Iron Man》                                                 |            |
 | [鍾一諾](../Page/鍾一諾.md "wikilink")                                | 《麻醉式快樂》                                                    |            |
-| [符致逸](https://zh.wikipedia.org/wiki/符致逸 "wikilink")             | 《恃愛行兇》                                                     |            |
+| [符致逸](../Page/符致逸.md "wikilink")                                | 《恃愛行兇》                                                     |            |
 | [側田](../Page/側田.md "wikilink")                                  | 《I Miss Love》                                              |            |
 | [黃耀明](../Page/黃耀明.md "wikilink")                                | 《太平山下》                                                     |            |
 | 2015                                                            | '''[陳奕迅](../Page/陳奕迅.md "wikilink") '''                    | **《無條件》**  |
@@ -324,7 +324,7 @@ CASH金帆音樂獎最佳男歌手演繹獎每年由香港作曲家及作詞家�
 | [陳柏宇](../Page/陳柏宇.md "wikilink")                                | 0    | 1    |
 | [Eric Kwok](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink") | 0    | 1    |
 | [恭碩良](../Page/恭碩良.md "wikilink")                                | 0    | 1    |
-| [符致逸](https://zh.wikipedia.org/wiki/符致逸 "wikilink")             | 0    | 1    |
+| [符致逸](../Page/符致逸.md "wikilink")                                | 0    | 1    |
 | [陳奐仁](../Page/陳奐仁.md "wikilink")                                | 0    | 1    |
 | [黃貫中](../Page/黃貫中.md "wikilink")                                | 0    | 1    |
 | [梁釗峰](../Page/梁釗峰.md "wikilink")                                | 0    | 1    |

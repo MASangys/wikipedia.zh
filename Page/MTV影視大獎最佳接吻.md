@@ -626,7 +626,7 @@ Kiss）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/名瞞戇族" title="wikilink">名瞞戇族</a></strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/莎蓮·活莉" title="wikilink">莎蓮·活莉</a> &amp; <a href="../Page/麥爾斯·泰勒.md" title="wikilink">麥爾斯·泰勒</a></p></td>
+<td><p><a href="../Page/莎蓮·活莉.md" title="wikilink">莎蓮·活莉</a> &amp; <a href="../Page/麥爾斯·泰勒.md" title="wikilink">麥爾斯·泰勒</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -649,7 +649,7 @@ Kiss）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 <td><p><strong>2015<br />
 (第24屆)<br />
 [1]</strong></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/莎蓮·活莉" title="wikilink">莎蓮·活莉</a> &amp; <a href="../Page/安塞爾·埃爾格特.md" title="wikilink">安塞爾·埃爾格特</a></strong></p></td>
+<td><p><strong><a href="../Page/莎蓮·活莉.md" title="wikilink">莎蓮·活莉</a> &amp; <a href="../Page/安塞爾·埃爾格特.md" title="wikilink">安塞爾·埃爾格特</a></strong></p></td>
 <td><p><strong><a href="../Page/生命中的美好缺憾_(電影).md" title="wikilink">生命中的美好缺憾</a></strong></p></td>
 </tr>
 <tr class="odd">
@@ -685,7 +685,7 @@ Kiss）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/占美·杜倫" title="wikilink">占美·杜倫</a> &amp; <a href="https://zh.wikipedia.org/wiki/達珂塔·強生" title="wikilink">達珂塔·強生</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/占美·杜倫" title="wikilink">占美·杜倫</a> &amp; <a href="../Page/達珂塔·強生.md" title="wikilink">達珂塔·強生</a></p></td>
 <td><p><a href="../Page/格雷的五十道陰影_(電影).md" title="wikilink">格雷的五十道陰影</a></p></td>
 <td></td>
 </tr>
@@ -708,7 +708,7 @@ Kiss）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 <td><p>'''2017<br />
 (第26屆)<br />
 [3]</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/艾許頓·桑德斯" title="wikilink">艾許頓·桑德斯</a> &amp; Jharrel Jerome</strong></p></td>
+<td><p><strong><a href="../Page/艾許頓·桑德斯.md" title="wikilink">艾許頓·桑德斯</a> &amp; Jharrel Jerome</strong></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/月亮喜歡藍" title="wikilink">月亮喜歡藍</a></strong></p></td>
 </tr>
 <tr class="even">
@@ -734,8 +734,8 @@ Kiss）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 <tr class="even">
 <td><p>'''2018<br />
 (第27屆)</p></td>
-<td><p>'''<a href="../Page/尼克·羅賓森.md" title="wikilink">尼克·羅賓森</a> &amp; <a href="https://zh.wikipedia.org/wiki/凱南·羅斯戴爾" title="wikilink">凱南·羅斯戴爾</a></p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/親愛的初戀" title="wikilink">親愛的初戀</a></p></td>
+<td><p>'''<a href="../Page/尼克·羅賓森.md" title="wikilink">尼克·羅賓森</a> &amp; <a href="../Page/凱南·羅斯戴爾.md" title="wikilink">凱南·羅斯戴爾</a></p></td>
+<td><p>'''<a href="../Page/親愛的初戀.md" title="wikilink">親愛的初戀</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/吉娜·羅德里奎.md" title="wikilink">吉娜·羅德里奎</a> &amp; <a href="https://zh.wikipedia.org/wiki/賈斯汀·巴爾多尼" title="wikilink">賈斯汀·巴爾多尼</a></p></td>
@@ -743,13 +743,13 @@ Kiss）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/奥利维亚·库克" title="wikilink">奥利维亚·库克</a> &amp; <a href="../Page/泰·謝里丹.md" title="wikilink">泰·謝里丹</a></p></td>
+<td><p><a href="../Page/奥利维亚·库克.md" title="wikilink">奥利维亚·库克</a> &amp; <a href="../Page/泰·謝里丹.md" title="wikilink">泰·謝里丹</a></p></td>
 <td><p><a href="../Page/一級玩家_(電影).md" title="wikilink">一級玩家</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/K·J·阿帕" title="wikilink">K·J·阿帕</a> &amp; </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/河谷鎮_(電視劇)" title="wikilink">河谷鎮</a></p></td>
+<td><p><a href="../Page/K·J·阿帕.md" title="wikilink">K·J·阿帕</a> &amp; </p></td>
+<td><p><a href="../Page/河谷鎮_(電視劇).md" title="wikilink">河谷鎮</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

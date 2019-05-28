@@ -73,7 +73,7 @@ O型星很罕見但很明亮，所以它們很容易就可以檢測到，因此�
       - [HD 93205](../Page/HD_93205.md "wikilink")（船底座V560）
       - [天鴿座μ](https://zh.wikipedia.org/wiki/天鴿座μ "wikilink")
       - [參宿增一](../Page/參宿增一.md "wikilink")（獵戶座σ）
-      - [獵戶座θ<sup>1</sup>C](https://zh.wikipedia.org/wiki/獵戶座θ1C "wikilink")
+      - [獵戶座θ<sup>1</sup>C](../Page/獵戶座θ1C.md "wikilink")
       - [VFTS 102](../Page/VFTS_102.md "wikilink")
       - [天市右垣十一](../Page/天市右垣十一.md "wikilink")（蛇夫座ζ）
 
@@ -109,8 +109,7 @@ O型星很罕見但很明亮，所以它們很容易就可以檢測到，因此�
 
 ### [O型次矮星](../Page/O型次矮星.md "wikilink")
 
-  -   - [HD 49798](https://zh.wikipedia.org/wiki/HD_49798 "wikilink")
-        (sdO6p)
+  -   - [HD 49798](../Page/HD_49798.md "wikilink") (sdO6p)
 
 ## 位置
 
@@ -131,7 +130,7 @@ O型星也有強大的[恆星風](https://zh.wikipedia.org/wiki/恆星風 "wikil
 O型星爆炸成超新星，當它們死亡時，釋放出的大量能量，有助於分子雲的分裂\[18\]。
 這些影響到分散的剩餘分子雲物質，最終阻止新恆星的誕生，和可能留下一個年輕的[疏散星團](https://zh.wikipedia.org/wiki/疏散星團 "wikilink")。
 
-然而，分子雲潰散之前，被膨脹的氣泡掃掠（稱為蒐集或坍縮）的氣體，或現有被壓縮（稱為輻射驅動的向內爆炸），都會導致新恆星的誕生。觸發恆星形成的證據出現在大量恆星形成的區域，例如仙王座B和[象鼻管星雲](https://zh.wikipedia.org/wiki/象鼻管星雲 "wikilink")（計算有4-25%的恆星在這兒形成）\[19\]\[20\]。
+然而，分子雲潰散之前，被膨脹的氣泡掃掠（稱為蒐集或坍縮）的氣體，或現有被壓縮（稱為輻射驅動的向內爆炸），都會導致新恆星的誕生。觸發恆星形成的證據出現在大量恆星形成的區域，例如仙王座B和[象鼻管星雲](../Page/象鼻管星雲.md "wikilink")（計算有4-25%的恆星在這兒形成）\[19\]\[20\]。
 
 {{-}}
 

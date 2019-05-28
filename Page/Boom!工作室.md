@@ -29,7 +29,7 @@ Snowman於](https://zh.wikipedia.org/wiki/the_Snowman "wikilink")2014年12月推
 ## BOOM\! Box
 
 BOOM\!
-Box為業餘作者的的實驗性漫畫為主，作品多以面向成人和孩子的先導漫畫\[4\]，作品包括「[非凡歲月](https://zh.wikipedia.org/wiki/非凡歲月_\(Boom!漫畫\) "wikilink")」
+Box為業餘作者的的實驗性漫畫為主，作品多以面向成人和孩子的先導漫畫\[4\]，作品包括「[非凡歲月](../Page/非凡歲月_\(Boom!漫畫\).md "wikilink")」
 。
 
 ## 參考資料

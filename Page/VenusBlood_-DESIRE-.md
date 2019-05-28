@@ -203,9 +203,9 @@ BEAR發售[DVDPG](https://zh.wikipedia.org/wiki/DVDPG "wikilink")。\[3\]VenusBl
 
 ## 相關條目
 
-  - [VenusBlood](https://zh.wikipedia.org/wiki/VenusBlood "wikilink")：VenusBlood系列的第一部作品。
+  - [VenusBlood](../Page/VenusBlood.md "wikilink")：VenusBlood系列的第一部作品。
   - [VenusBlood
-    -FRONTIER-](https://zh.wikipedia.org/wiki/VenusBlood_-FRONTIER- "wikilink")：VenusBlood系列的第五部作品。
+    -FRONTIER-](../Page/VenusBlood_-FRONTIER-.md "wikilink")：VenusBlood系列的第五部作品。
 
 ## 參考來源
 

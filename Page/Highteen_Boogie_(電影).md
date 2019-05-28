@@ -1,5 +1,5 @@
 《**Highteen
-Boogie**》（）是日本的[青春片](https://zh.wikipedia.org/wiki/青春片 "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，於1982年由日本[東寶公司發行](../Page/東寶.md "wikilink")。
+Boogie**》（）是日本的[青春片](../Page/青春片.md "wikilink")[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")，於1982年由日本[東寶公司發行](../Page/東寶.md "wikilink")。
 
 ## 概要
 

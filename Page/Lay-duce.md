@@ -20,7 +20,7 @@
 <tbody>
 <tr class="odd">
 <td><p>2014年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Project575" title="wikilink">Go!Go!575</a></p></td>
+<td><p><a href="../Page/Project575.md" title="wikilink">Go!Go!575</a></p></td>
 <td></td>
 <td><p>1月9日－30日</p></td>
 <td><p>安齋剛文</p></td>

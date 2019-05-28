@@ -28,7 +28,7 @@ Boy**（）乃是[日本鈴木汽車工業](../Page/日本.md "wikilink")（今[
 Boy則採[直徑](https://zh.wikipedia.org/wiki/直徑 "wikilink")152mm、較為廉價的圓形。車型編為L、A二種，差異在於前者具備可覆蓋車斗的斗篷，而後者是配置四速手排變速箱的入門款。
 
 1985年 -
-2月實行小改款，全車系改成方形頭燈；L車型改以替換斗篷。此外，L車型的標準配備是前輪碟煞、五速手排變速箱、里程記數表、[轉速表等](https://zh.wikipedia.org/wiki/轉速表 "wikilink")。同年開始外銷此車款，卻僅[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[賽普勒斯等二個](../Page/賽普勒斯.md "wikilink")[國家而已](https://zh.wikipedia.org/wiki/國家 "wikilink")。澳規包含鍍鉻車頂架、賽車筒椅和12吋輪圈，可惜未含[轉速表](https://zh.wikipedia.org/wiki/轉速表 "wikilink")、五速手排變速箱等\[3\]。
+2月實行小改款，全車系改成方形頭燈；L車型改以替換斗篷。此外，L車型的標準配備是前輪碟煞、五速手排變速箱、里程記數表、[轉速表等](../Page/轉速表.md "wikilink")。同年開始外銷此車款，卻僅[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[賽普勒斯等二個](../Page/賽普勒斯.md "wikilink")[國家而已](https://zh.wikipedia.org/wiki/國家 "wikilink")。澳規包含鍍鉻車頂架、賽車筒椅和12吋輪圈，可惜未含[轉速表](../Page/轉速表.md "wikilink")、五速手排變速箱等\[3\]。
 
 1988年 - 1月隨著Cervo改朝換代而停產，外銷也隨之中止。
 

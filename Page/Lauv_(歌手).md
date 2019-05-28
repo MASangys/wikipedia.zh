@@ -352,7 +352,7 @@ Bub.</a><br />
 </tr>
 <tr class="even">
 <td><p>"你的想法"</p></td>
-<td><p>Arty ft. <a href="https://zh.wikipedia.org/wiki/Eric_Nam" title="wikilink">Eric Nam</a></p></td>
+<td><p>Arty ft. <a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

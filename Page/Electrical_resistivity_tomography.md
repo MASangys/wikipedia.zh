@@ -3,10 +3,9 @@
 **电阻断层扫描(ERT)** 或 **电阻率成像(ERI)** 是一个
 [地球物理技术](../Page/地球物理学.md "wikilink")，从表层测量电阻率或者通过
 电极 在一个或多个电极，对地表以下结构成像。 如果极悬浮在水井、深入的部分可以进行调查。 它是密切相关的医疗成像技术 的电阻断层扫描
-(转型期)，并在数学上是相同的
-[反问题的](https://zh.wikipedia.org/wiki/逆問題 "wikilink")。
-与此相反的医疗经济转型然而ERT基本上是一个直接目前的方法。 一个相关的地球物理方法， 致偏 (或
-光谱致偏)，采取措施的瞬态反应和目的在于确定地下带电的特性。 <grammarly-btn>
+(转型期)，并在数学上是相同的 [反问题的](../Page/逆問題.md "wikilink")。
+与此相反的医疗经济转型然而ERT基本上是一个直接目前的方法。 一个相关的地球物理方法， 致偏
+(或 光谱致偏)，采取措施的瞬态反应和目的在于确定地下带电的特性。 <grammarly-btn>
 
 <div data-reactroot="" class="_e725ae-textarea_btn _e725ae-show _e725ae-field_hovered" style="z-index: 2; transform: translate(357.078px, 897px);">
 

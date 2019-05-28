@@ -26,7 +26,7 @@
 
 AKB48出場時首先演唱《[River](../Page/RIVER_\(AKB48單曲\).md "wikilink")》，接著公布「紅白選拔」得票前16名的排名順位（背景音樂為《[飛翔入手](../Page/飛翔入手.md "wikilink")》），最後由第一名擔任[Center](https://zh.wikipedia.org/wiki/AKB48組合構成#中心位置 "wikilink")（中心位置成員）帶領選拔組16人演唱《[你就是旋律](../Page/你就是旋律.md "wikilink")》。該活動最終由[NMB48成員](../Page/NMB48.md "wikilink")[山本彩以](../Page/山本彩.md "wikilink")41,190票拿下第一\[11\]。
 
-原本[HKT48的](../Page/HKT48.md "wikilink")[矢吹奈子與](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")[田中美久亦有入選](../Page/田中美久_\(HKT48\).md "wikilink")，兩人排名分別為第17與45名，但AKB48預定的出場時間落在晚上9時後，礙於日本《》規定的「」，兩人還在就讀[初中無法在晚上](https://zh.wikipedia.org/wiki/初级中學 "wikilink")9時後作公開出演，因而改成在[天童芳美登場演唱時](https://zh.wikipedia.org/wiki/天童芳美 "wikilink")，以應援者身分出場演出；田中與矢吹留下的「紅白選拔」演出空缺，則由獲得第49、50名的[SKE48成員](../Page/SKE48.md "wikilink")[北川綾巴](../Page/北川綾巴.md "wikilink")、[惣田紗莉渚替補](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")\[12\]。
+原本[HKT48的](../Page/HKT48.md "wikilink")[矢吹奈子與](../Page/矢吹奈子.md "wikilink")[田中美久亦有入選](../Page/田中美久_\(HKT48\).md "wikilink")，兩人排名分別為第17與45名，但AKB48預定的出場時間落在晚上9時後，礙於日本《》規定的「」，兩人還在就讀[初中無法在晚上](https://zh.wikipedia.org/wiki/初级中學 "wikilink")9時後作公開出演，因而改成在[天童芳美登場演唱時](../Page/天童芳美.md "wikilink")，以應援者身分出場演出；田中與矢吹留下的「紅白選拔」演出空缺，則由獲得第49、50名的[SKE48成員](../Page/SKE48.md "wikilink")[北川綾巴](../Page/北川綾巴.md "wikilink")、[惣田紗莉渚替補](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")\[12\]。
 
 ## 主持人
 
@@ -131,7 +131,7 @@ AKB48出場時首先演唱《[River](../Page/RIVER_\(AKB48單曲\).md "wikilink"
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天童芳美" title="wikilink">天童芳美</a><br />
+<td><p><a href="../Page/天童芳美.md" title="wikilink">天童芳美</a><br />
 （）</p></td>
 </tr>
 <tr class="odd">
@@ -162,7 +162,7 @@ AKB48出場時首先演唱《[River](../Page/RIVER_\(AKB48單曲\).md "wikilink"
 （）</p></td>
 </tr>
 <tr class="odd">
-<td><p>「紅白 HalfTime Show」特別企劃 -- <a href="../Page/渡邊直美.md" title="wikilink">渡邊直美</a>、<a href="https://zh.wikipedia.org/wiki/古坂大魔王" title="wikilink">Piko太郎</a></p></td>
+<td><p>「紅白 HalfTime Show」特別企劃 -- <a href="../Page/渡邊直美.md" title="wikilink">渡邊直美</a>、<a href="../Page/古坂大魔王.md" title="wikilink">Piko太郎</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -238,7 +238,7 @@ AKB48出場時首先演唱《[River](../Page/RIVER_\(AKB48單曲\).md "wikilink"
 
 与[上一届相比](../Page/第66回NHK紅白歌合戰.md "wikilink")，本次红白的收视率有所上升。其中下半部分在日本关东地区收视率为40.2%，这也是时隔两年之后，红白在日本关东地区收视率再次突破40%\[14\]。
 
-值得注意的是，本次红白中间插播的[新闻收视率竟反超红白收视率](https://zh.wikipedia.org/wiki/NHK新闻_\(电视节目\) "wikilink")，日本关东地区收视率为40.4%，关西地区收视率达到41.0%\[15\]。然而由于日本不超过15分钟的节目不计入收视率排名，因此当年收视率最高的节目仍然是红白。
+值得注意的是，本次红白中间插播的[新闻收视率竟反超红白收视率](../Page/NHK新闻_\(电视节目\).md "wikilink")，日本关东地区收视率为40.4%，关西地区收视率达到41.0%\[15\]。然而由于日本不超过15分钟的节目不计入收视率排名，因此当年收视率最高的节目仍然是红白。
 
 日本各地收视率如下（数据来源：[Video
 Research](../Page/Video_Research.md "wikilink")\[16\]）：

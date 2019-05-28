@@ -27,7 +27,7 @@
 </tr>
 <tr class="even">
 <td><p>1月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/092" title="wikilink">092</a></p></td>
+<td><p><a href="../Page/092.md" title="wikilink">092</a></p></td>
 <td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a></p></td>
 <td><p>原創</p></td>
 <td><p>12.2</p></td>
@@ -59,7 +59,7 @@
 </tr>
 <tr class="even">
 <td><p>2月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/那個黎明，我們都知道" title="wikilink">那個黎明，我們都知道</a></p></td>
+<td><p><a href="../Page/那個黎明，我們都知道.md" title="wikilink">那個黎明，我們都知道</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>原創</p></td>
 <td><p>57.6</p></td>
@@ -75,7 +75,7 @@
 </tr>
 <tr class="even">
 <td><p>2月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/20歲的早安少女組。" title="wikilink">20歲的早安少女組。</a></p></td>
+<td><p><a href="../Page/20歲的早安少女組。.md" title="wikilink">20歲的早安少女組。</a></p></td>
 <td><p><a href="../Page/早安少女組。.md" title="wikilink">早安少女組。20th</a></p></td>
 <td><p>原創</p></td>
 <td><p>4.7</p></td>
@@ -139,7 +139,7 @@
 </tr>
 <tr class="even">
 <td><p>4月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Face_Yourself" title="wikilink">Face Yourself</a></p></td>
+<td><p><a href="../Page/Face_Yourself.md" title="wikilink">Face Yourself</a></p></td>
 <td><p><a href="../Page/防彈少年團.md" title="wikilink">防彈少年團</a></p></td>
 <td><p>原創</p></td>
 <td><p>28.2</p></td>
@@ -155,7 +155,7 @@
 </tr>
 <tr class="even">
 <td><p>4月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SHINee_THE_BEST_FROM_NOW_ON" title="wikilink">SHINee THE BEST FROM NOW ON</a></p></td>
+<td><p><a href="../Page/SHINee_THE_BEST_FROM_NOW_ON.md" title="wikilink">SHINee THE BEST FROM NOW ON</a></p></td>
 <td><p><a href="../Page/SHINee.md" title="wikilink">SHINee</a></p></td>
 <td><p>精選</p></td>
 <td><p>8.9</p></td>
@@ -211,7 +211,7 @@
 </tr>
 <tr class="odd">
 <td><p>6月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FUTURE_(專輯)" title="wikilink">FUTURE</a></p></td>
+<td><p><a href="../Page/FUTURE_(專輯).md" title="wikilink">FUTURE</a></p></td>
 <td><p><a href="../Page/J_Soul_Brothers.md" title="wikilink">第三代J Soul Brothers</a></p></td>
 <td><p>原創</p></td>
 <td><p>18.1</p></td>
@@ -227,7 +227,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/起跑的瞬間" title="wikilink">起跑的瞬間</a></p></td>
+<td><p><a href="../Page/起跑的瞬間.md" title="wikilink">起跑的瞬間</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/櫸坂46#平假名櫸坂46" title="wikilink">平假名櫸坂46</a></p></td>
 <td><p>原創</p></td>
 <td><p>15.4</p></td>
@@ -323,7 +323,7 @@
 </tr>
 <tr class="odd">
 <td><p>9月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BDZ_(TWICE專輯)" title="wikilink">BDZ</a></p></td>
+<td><p><a href="../Page/BDZ_(TWICE專輯).md" title="wikilink">BDZ</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 <td><p>原創</p></td>
 <td><p>18.1</p></td>
@@ -395,7 +395,7 @@
 </tr>
 <tr class="even">
 <td><p>11月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/催眠麥克風" title="wikilink">MAD TRIGGER CREW VS 麻天狼</a></p></td>
+<td><p><a href="../Page/催眠麥克風.md" title="wikilink">MAD TRIGGER CREW VS 麻天狼</a></p></td>
 <td><p>MAD TRIGGER CREW VS 麻天狼</p></td>
 <td><p>原聲</p></td>
 <td><p>7.2</p></td>

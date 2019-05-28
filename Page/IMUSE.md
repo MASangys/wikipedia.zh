@@ -1,4 +1,4 @@
-**iMUSE**是由電子遊戲作曲家[麥可·蘭德](../Page/麥可·蘭德.md "wikilink")、[彼得·麥康奈爾所開發](../Page/彼得·麥康奈爾.md "wikilink")，為一種能讓[電子遊戲的背景音樂依照遊戲角色於場景裡的動作內容](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")；產生曲風上變化之擁有互動效果的[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")。此應用於由美國遊戲公司[LucasArts所推出的作品為主](https://zh.wikipedia.org/wiki/LucasArts "wikilink")，其名稱則是「Interactive
+**iMUSE**是由電子遊戲作曲家[麥可·蘭德](../Page/麥可·蘭德.md "wikilink")、[彼得·麥康奈爾所開發](../Page/彼得·麥康奈爾.md "wikilink")，為一種能讓[電子遊戲的背景音樂依照遊戲角色於場景裡的動作內容](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")；產生曲風上變化之擁有互動效果的[遊戲引擎](https://zh.wikipedia.org/wiki/遊戲引擎 "wikilink")。此應用於由美國遊戲公司[LucasArts所推出的作品為主](../Page/LucasArts.md "wikilink")，其名稱則是「Interactive
 Music Streaming Engine」（互動式音樂串流引擎）所簡寫組成的頭字語。
 
 ## 起源
@@ -7,20 +7,20 @@ Music Streaming Engine」（互動式音樂串流引擎）所簡寫組成的頭�
 
 ## 應用
 
-網路上在介紹iMUSE效能的專欄文章；多以《猴島小英雄2：老查克的復仇》的遊戲前段開頭作為範例。在該範例中遊戲的主角─年輕男性海盜「[小蓋](https://zh.wikipedia.org/wiki/蓋伯拉許·崔普伍德 "wikilink")」在遊走碼頭一帶時的配樂主題曲，會隨著他進入不同室內場景時；以不中斷的方式突然切換成不同的節奏，而當他走回到室外的碼頭時；場景主題曲又會不中斷地調回到一開始的曲風。\[4\]
+網路上在介紹iMUSE效能的專欄文章；多以《猴島小英雄2：老查克的復仇》的遊戲前段開頭作為範例。在該範例中遊戲的主角─年輕男性海盜「[小蓋](../Page/蓋伯拉許·崔普伍德.md "wikilink")」在遊走碼頭一帶時的配樂主題曲，會隨著他進入不同室內場景時；以不中斷的方式突然切換成不同的節奏，而當他走回到室外的碼頭時；場景主題曲又會不中斷地調回到一開始的曲風。\[4\]
 
 ## 採用作品
 
   - [猴島小英雄2：老查克的復仇](../Page/猴島小英雄2：老查克的復仇.md "wikilink")（1991年）
   - [星際大戰：X戰機](https://zh.wikipedia.org/wiki/星際大戰：X戰機 "wikilink")（1992年）
-  - [亞特蘭提斯之謎](https://zh.wikipedia.org/wiki/亞特蘭提斯之謎 "wikilink")（1992年）
+  - [亞特蘭提斯之謎](../Page/亞特蘭提斯之謎.md "wikilink")（1992年）
   - [妙探闖通關 大腳之謎](../Page/妙探闖通關_大腳之謎.md "wikilink")（1993年）
   - [瘋狂時代](../Page/瘋狂時代.md "wikilink")（1993年）
   - [星際大戰：鈦戰機](https://zh.wikipedia.org/wiki/星際大戰：鈦戰機 "wikilink")（1995年）
   - [星際大戰：暗黑原力](https://zh.wikipedia.org/wiki/星際大戰：暗黑原力 "wikilink")（1995年）
   - [極速天龍](../Page/極速天龍.md "wikilink")（1995年）
-  - [異星搜奇](https://zh.wikipedia.org/wiki/異星搜奇 "wikilink")（1995年）
-  - [猴島的詛咒](https://zh.wikipedia.org/wiki/猴島的詛咒 "wikilink")（1997年）
+  - [異星搜奇](../Page/異星搜奇.md "wikilink")（1995年）
+  - [猴島的詛咒](../Page/猴島的詛咒.md "wikilink")（1997年）
   - [神通鬼大](../Page/神通鬼大.md "wikilink")（1998年）
   - [猴島小英雄 逃離猴島](../Page/猴島小英雄_逃離猴島.md "wikilink")（2000年）
 

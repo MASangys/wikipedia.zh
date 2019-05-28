@@ -551,7 +551,7 @@
 <td><p>26/04</p></td>
 <td><p>"Why So Serious?"</p></td>
 <td><p>SHINee</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Why_So_Serious?_-_The_Misconceptions_Of_Me" title="wikilink">Why So Serious? - The Misconceptions Of Me</a><br />
+<td><p><a href="../Page/Why_So_Serious?_-_The_Misconceptions_Of_Me.md" title="wikilink">Why So Serious? - The Misconceptions Of Me</a><br />
 </p></td>
 <td><p>15</p></td>
 </tr>
@@ -616,14 +616,14 @@
 <td><p>01/06</p></td>
 <td><p>"너의 남자 (Your Man)"</p></td>
 <td><p><a href="../Page/東方神起.md" title="wikilink">東方神起</a></p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/TENSE" title="wikilink">TENSE</a></em></p></td>
+<td><p><em><a href="../Page/TENSE.md" title="wikilink">TENSE</a></em></p></td>
 <td><p>68</p></td>
 </tr>
 <tr class="even">
 <td><p>02/24</p></td>
 <td><p>"Europa"</p></td>
 <td><p>少女時代</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/Mr.Mr." title="wikilink">Mr.Mr.</a></em></p></td>
+<td><p><em><a href="../Page/Mr.Mr..md" title="wikilink">Mr.Mr.</a></em></p></td>
 <td><p>25</p></td>
 </tr>
 <tr class="odd">
@@ -727,7 +727,7 @@
 <tr class="odd">
 <td><p>09/09</p></td>
 <td><p>"Lady's Room"</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p><em><a href="../Page/The_Red.md" title="wikilink">The Red</a></em></p></td>
 <td><p>83</p></td>
 </tr>
@@ -917,7 +917,7 @@
 <td><p>11/17</p></td>
 <td><p>"Attaboy"</p></td>
 <td><p>Red Velvet</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/Perfect_Velvet" title="wikilink">Perfect Velvet</a></em></p></td>
+<td><p><em><a href="../Page/Perfect_Velvet.md" title="wikilink">Perfect Velvet</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">

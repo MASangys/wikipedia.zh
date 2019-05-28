@@ -24,7 +24,7 @@ Show）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 [1]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/艾美莉·克拉克" title="wikilink">艾美莉·克拉克</a></p></td>
+<td><p><a href="../Page/艾美莉·克拉克.md" title="wikilink">艾美莉·克拉克</a></p></td>
 <td><p>《<a href="../Page/权力的游戏_(电视剧).md" title="wikilink">權力遊戲</a>》</p></td>
 <td></td>
 <td></td>
@@ -36,8 +36,8 @@ Show）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/唐納·葛洛佛" title="wikilink">唐納·葛洛佛</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/亞特蘭大_(電視劇)" title="wikilink">亞特蘭大</a>》</p></td>
+<td><p><a href="../Page/唐納·葛洛佛.md" title="wikilink">唐納·葛洛佛</a></p></td>
+<td><p>《<a href="../Page/亞特蘭大_(電視劇).md" title="wikilink">亞特蘭大</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -68,13 +68,13 @@ Show）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wik
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/達倫·克里斯.md" title="wikilink">達倫·克里斯</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/凡賽斯遇刺案：美國犯罪故事" title="wikilink">凡賽斯遇刺案：美國犯罪故事</a>》</p></td>
+<td><p>《<a href="../Page/凡賽斯遇刺案：美國犯罪故事.md" title="wikilink">凡賽斯遇刺案：美國犯罪故事</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/凯瑟琳·兰福德" title="wikilink">凯瑟琳·兰福德</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/漢娜的遺言_(電視劇)" title="wikilink">漢娜的遺言</a>》</p></td>
+<td><p><a href="../Page/凯瑟琳·兰福德.md" title="wikilink">凯瑟琳·兰福德</a></p></td>
+<td><p>《<a href="../Page/漢娜的遺言_(電視劇).md" title="wikilink">漢娜的遺言</a>》</p></td>
 <td></td>
 <td></td>
 </tr>

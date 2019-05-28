@@ -1,6 +1,6 @@
 是一位日本[正弦波演奏家](https://zh.wikipedia.org/wiki/正弦波 "wikilink")、[即兴音乐家和作曲家](https://zh.wikipedia.org/wiki/音乐即兴 "wikilink")，她的艺名**Sachiko
 M**更为人熟知。\[1\] 她在1999年发行了第一张独奏专辑：《Sine Wave
-Solo》。\[2\]2004年，她发行了与[大友良英和](../Page/大友良英.md "wikilink")[中村延和的合作专辑](https://zh.wikipedia.org/wiki/中村延和 "wikilink")《Good
+Solo》。\[2\]2004年，她发行了与[大友良英和](../Page/大友良英.md "wikilink")[中村延和的合作专辑](../Page/中村延和.md "wikilink")《Good
 Morning Good
 Night》\[3\]。由她与[大友良英共同作曲](../Page/大友良英.md "wikilink")、[小泉今日子演唱的歌曲](../Page/小泉今日子.md "wikilink")《[潮声的回忆](https://zh.wikipedia.org/wiki/潮声的回忆 "wikilink")》，获得了[日本唱片大赏的作曲赏](https://zh.wikipedia.org/wiki/日本唱片大赏 "wikilink")\[4\]。
 
@@ -17,7 +17,7 @@ Night》\[3\]。由她与[大友良英共同作曲](../Page/大友良英.md "wik
   - AstroTwin and Cosmos（2002年） - 与吉田アミと合作
   - Absinth（2002年） - 与Werner Dafeldecker、Franz Hautzinger、John Tilbury合作
   - Good Morning Good Night（2004年） -
-    与大友良英、[中村延和合作](https://zh.wikipedia.org/wiki/中村延和 "wikilink")
+    与大友良英、[中村延和合作](../Page/中村延和.md "wikilink")
   - Concert in St. Louis（2004年） -
     [格涅·科尔曼](https://zh.wikipedia.org/wiki/格涅·科尔曼 "wikilink")、Franz
     Hautzinger、大友良英合作

@@ -1,7 +1,6 @@
 《**BREAKERS**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet綜藝節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")\[1\]，由[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）主持\[2\]\[3\]，而知名創作歌手PENOMECO、Colde、Cha
 Ji Hye、[周永](../Page/周永_\(歌手\).md "wikilink")、[Samuel
-Seo](https://zh.wikipedia.org/wiki/Samuel_Seo "wikilink")、20 Years of
-Age、Mia、Jeong
+Seo](../Page/Samuel_Seo.md "wikilink")、20 Years of Age、Mia、Jeong
 Jae、[Hui等人參與](../Page/李會澤.md "wikilink")，節目主軸為創作型歌手的音樂對決，並結合觀眾和網友投票評判高下。
 
 ## 各集內容
@@ -29,11 +28,11 @@ Jae、[Hui等人參與](../Page/李會澤.md "wikilink")，節目主軸為創作
 <td><p>第1名[4]</p></td>
 <td><p><a href="../Page/白娥娟.md" title="wikilink">白娥娟</a></p></td>
 <td><p>《初次》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Samuel_Seo" title="wikilink">Samuel Seo</a></p></td>
+<td><p><a href="../Page/Samuel_Seo.md" title="wikilink">Samuel Seo</a></p></td>
 <td><p><a href="../Page/周永_(歌手).md" title="wikilink">周永</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Samuel_Seo" title="wikilink">Samuel Seo</a></p></td>
+<td><p><a href="../Page/Samuel_Seo.md" title="wikilink">Samuel Seo</a></p></td>
 <td><p>第5名[5]</p></td>
 <td><p>Rapper </p></td>
 <td><p>《寂靜2018》</p></td>

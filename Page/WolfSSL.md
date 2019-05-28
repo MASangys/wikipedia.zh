@@ -79,7 +79,7 @@ wolfSSL 使用以下加密库:
 [DSS](https://zh.wikipedia.org/wiki/Digital_Signature_Algorithm "wikilink"),
 [Diffie–Hellman](https://zh.wikipedia.org/wiki/Diffie–Hellman_key_exchange "wikilink"),
 [EDH](https://zh.wikipedia.org/wiki/Error_Detection_and_Handling "wikilink"),
-[NTRU](https://zh.wikipedia.org/wiki/NTRU "wikilink"),
+[NTRU](../Page/NTRU.md "wikilink"),
 [DES](https://zh.wikipedia.org/wiki/Data_Encryption_Standard "wikilink"),
 [Triple DES](https://zh.wikipedia.org/wiki/Triple_DES "wikilink"),
 [AES](https://zh.wikipedia.org/wiki/Advanced_Encryption_Standard "wikilink")
@@ -101,8 +101,7 @@ domain
 software](https://zh.wikipedia.org/wiki/public_domain_software "wikilink")）的实验密码，[Rabbit](https://zh.wikipedia.org/wiki/Rabbit_\(cipher\) "wikilink")。
 Rabbit对于那些在高性能，高需求环境中对流媒体进行加密的潜在用户非常有用。
 
-wolfCrypt 还支持最近的
-[Curve25519](https://zh.wikipedia.org/wiki/Curve25519 "wikilink") 和
+wolfCrypt 还支持最近的 [Curve25519](../Page/Curve25519.md "wikilink") 和
 [Ed25519](https://zh.wikipedia.org/wiki/EdDSA "wikilink") 算法。
 
 wolfCrypt 充当几个流行软件包和库的后端加密实现，包括[MIT
@@ -314,7 +313,7 @@ wolfSSL 支持使用英特尔SGX
 
 |  |                                                                                                                                                             |
 |  | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  | [Curve25519](https://zh.wikipedia.org/wiki/Curve25519 "wikilink")                                                                                           |
+|  | [Curve25519](../Page/Curve25519.md "wikilink")                                                                                                              |
 |  | [Ed25519](https://zh.wikipedia.org/wiki/EdDSA "wikilink")                                                                                                   |
 |  | [AES](https://zh.wikipedia.org/wiki/Advanced_Encryption_Standard "wikilink")-[CCM](https://zh.wikipedia.org/wiki/CCM_mode "wikilink")                       |
 |  | [AES](https://zh.wikipedia.org/wiki/Advanced_Encryption_Standard "wikilink")-[ECB](https://zh.wikipedia.org/wiki/Block_cipher_mode_of_operation "wikilink") |

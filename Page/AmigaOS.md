@@ -4,7 +4,7 @@
 1000 的上市而发行。 早期版本的 AmigaOS
 需要运行于[摩托罗拉](../Page/摩托罗拉.md "wikilink")系列的[16位或](https://zh.wikipedia.org/wiki/16位 "wikilink")[32位处理器](https://zh.wikipedia.org/wiki/32位 "wikilink")。后来的版本则由（AmigaOS
 3.5 和 3.9）开发，这之后则由（AmigaOS 4.0-4.1）开发。而进来的发行的 [AmigaOS
-4](https://zh.wikipedia.org/wiki/AmigaOS_4 "wikilink")
+4](../Page/AmigaOS_4.md "wikilink")
 则要求使用 [PowerPC](../Page/PowerPC.md "wikilink") 微处理器。
 
 AmigaOS

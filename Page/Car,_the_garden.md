@@ -46,7 +46,7 @@ Five文化產業專門會社負責經紀管理](https://zh.wikipedia.org/wiki/Th
   - 2018.05.12：《[Secret Mother](../Page/Secret_Mother.md "wikilink") 시크릿
     마더 OST Part 1 - Nothing》
 
-### [韓國音樂著作權協會](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
+### [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
 
 | 姓名              | 登記名字              | 登記編號     | 參與歌曲列表 |
 | --------------- | ----------------- | -------- | ------ |

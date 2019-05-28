@@ -27,7 +27,7 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 
 某些字段中可以包含注释内容（例如User-Agent、Server和Via字段中)，这些注释内容可由应用程序忽略\[5\]。
 
-很多字段的值中可以包含带有权重的[质量](../Page/质量.md "wikilink")（quality，常被简称为Q）的键值对，指定的“重量”会在[内容协商的过程中使用](https://zh.wikipedia.org/wiki/内容协商 "wikilink")\[6\]。
+很多字段的值中可以包含带有权重的[质量](../Page/质量.md "wikilink")（quality，常被简称为Q）的键值对，指定的“重量”会在[内容协商的过程中使用](../Page/内容协商.md "wikilink")\[6\]。
 
 ## 大小限制
 
@@ -38,10 +38,10 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 
 | 协议头字段名                                                                                                                                          | 说明                                                                                                                                       | 示例                                                                                 | 状态       |
 | ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------- | -------- |
-| Accept                                                                                                                                          | 能够接受的回应内容类型（Content-Types）。参见[内容协商](https://zh.wikipedia.org/wiki/内容协商 "wikilink")。                                                      | `Accept: text/plain`                                                               | 常设       |
+| Accept                                                                                                                                          | 能够接受的回应内容类型（Content-Types）。参见[内容协商](../Page/内容协商.md "wikilink")。                                                                         | `Accept: text/plain`                                                               | 常设       |
 | Accept-Charset                                                                                                                                  | 能够接受的字符集                                                                                                                                 | `Accept-Charset: utf-8`                                                            | 常设       |
 | Accept-Encoding                                                                                                                                 | 能够接受的编码方式列表。参考[HTTP压缩](../Page/HTTP压缩.md "wikilink")。                                                                                    | `Accept-Encoding: gzip, deflate`                                                   | 常设       |
-| Accept-Language                                                                                                                                 | 能够接受的回应内容的自然语言列表。参考 [内容协商](https://zh.wikipedia.org/wiki/内容协商 "wikilink") 。                                                              | `Accept-Language: en-US`                                                           | 常设       |
+| Accept-Language                                                                                                                                 | 能够接受的回应内容的自然语言列表。参考 [内容协商](../Page/内容协商.md "wikilink") 。                                                                                 | `Accept-Language: en-US`                                                           | 常设       |
 | Accept-Datetime                                                                                                                                 | 能够接受的按照时间来表示的版本                                                                                                                          | `Accept-Datetime: Thu, 31 May 2007 20:35:00 GMT`                                   | 临时       |
 | Authorization                                                                                                                                   | 用于超文本传输协议的认证的认证信息                                                                                                                        | `Authorization: Basic QWxhZGRpbjpvcGVuIHNlc2FtZQ==`                                | 常设       |
 | [Cache-Control](https://zh.wikipedia.org/wiki/网页快照 "wikilink")                                                                                  | 用来指定在这次的请求/响应链中的所有缓存机制 都必须 遵守的指令                                                                                                         | `Cache-Control: no-cache`                                                          | 常设       |
@@ -220,7 +220,7 @@ HTTP 头字段根据实际用途被分为以下 4 种类型：
 <td><p>常设</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/HTTP_Location" title="wikilink">Location</a></p></td>
+<td><p><a href="../Page/HTTP_Location.md" title="wikilink">Location</a></p></td>
 <td><p>用来 进行重定向，或者在创建了某个新资源时使用。</p></td>
 <td><p><code>Location: http://www.w3.org/pub/WWW/People.html</code></p></td>
 <td><p>常设</p></td>

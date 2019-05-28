@@ -34,7 +34,7 @@ X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，又或是使用完全自
 ## Windows 10
 
 在[Windows
-10釋出後](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，因其專有軟體的本質，自由軟體基金會發表聲明來勸使用者不要使用Windows
+10釋出後](../Page/Windows_10.md "wikilink")，因其專有軟體的本質，自由軟體基金會發表聲明來勸使用者不要使用Windows
 10。基金會也引用來其他與此相關的來源，像是強制付較少款項的客戶比付了較多款項的客戶先測試較不安全的更新、微軟在2013年的全球監控醜聞中扮演的角色，以及在Windows
 10開始的新隱私權政策\[13\]。
 

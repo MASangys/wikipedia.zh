@@ -40,9 +40,9 @@ Living」為主題。廣告於[日本](../Page/日本.md "wikilink")[東京](htt
 ## 會德豐「澳南」項目
 
 1.  **The Parkside**
-2.  [CAPRI](https://zh.wikipedia.org/wiki/CAPRI "wikilink")
+2.  [CAPRI](../Page/CAPRI.md "wikilink")
 3.  [Savannah](../Page/Savannah_\(住宅\).md "wikilink")
-4.  [MONTEREY](https://zh.wikipedia.org/wiki/MONTEREY "wikilink")
+4.  [MONTEREY](../Page/MONTEREY.md "wikilink")
 
 ## 興建圖片
 

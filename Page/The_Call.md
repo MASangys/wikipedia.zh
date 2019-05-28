@@ -1,6 +1,6 @@
 《**The
 Call**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")、[tvN於](https://zh.wikipedia.org/wiki/tvN "wikilink")2018年5月4日推出的音樂綜藝節目，由
-[李尚敏](../Page/李尚敏.md "wikilink")、[俞世潤主持](../Page/俞世潤.md "wikilink")，[輝晟](https://zh.wikipedia.org/wiki/輝晟 "wikilink")、[金範洙](../Page/金範洙.md "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[申昇勳等出演](https://zh.wikipedia.org/wiki/申昇勳 "wikilink")。出演者向希望合作的對方，發送Love
+[李尚敏](../Page/李尚敏.md "wikilink")、[俞世潤主持](../Page/俞世潤.md "wikilink")，[輝晟](https://zh.wikipedia.org/wiki/輝晟 "wikilink")、[金範洙](../Page/金範洙.md "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[申昇勳等出演](../Page/申昇勳.md "wikilink")。出演者向希望合作的對方，發送Love
 call邀請的節目，在交錯的Love
 call之中，經過激烈競爭成功組隊的人，可以正式開始製作新歌。節目由《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》節目組製作，接檔《看見你的聲音5》。\[1\]\[2\]
 
@@ -9,7 +9,7 @@ call之中，經過激烈競爭成功組隊的人，可以正式開始製作新�
   - 《看見你的聲音》製作組準備的《The Call》是音樂人合作節目，描寫各種世代和風格的藝人們組成搭檔並完成音樂的過程。
   - 曾製作《Show Me The Money》、《看見你的聲音》的李善英CP表示：「《看見你的聲音》是普通出演者實現夢想的舞台，《The
     Call》目標則是藝人完成合作。歌手們用音樂愉快進行交流，像《看見你的聲音》同時呈現樂趣和感動，抓住出演者與觀眾們的心。」
-  - 第一輪出演者，[申昇勳](https://zh.wikipedia.org/wiki/申昇勳 "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[金範洙](../Page/金範洙.md "wikilink")
+  - 第一輪出演者，[申昇勳](../Page/申昇勳.md "wikilink")、[金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")、[金範洙](../Page/金範洙.md "wikilink")
     、
     [輝晟](https://zh.wikipedia.org/wiki/輝晟 "wikilink")，分別為四組隊伍，每一輪競爭邀請不同出演者合作。\[3\]
   - 現場觀眾投票選出「Best Couple 」。
@@ -24,7 +24,7 @@ call之中，經過激烈競爭成功組隊的人，可以正式開始製作新�
 | 1st Line Up                                                                                    | [輝晟](https://zh.wikipedia.org/wiki/輝晟 "wikilink")                       | 1 - 5、8 |
 | [金範洙](../Page/金範洙.md "wikilink")                                                               | 1 - 8                                                                   |         |
 | [金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink")                                            | 1 - 8                                                                   |         |
-| [申昇勳](https://zh.wikipedia.org/wiki/申昇勳 "wikilink")                                            | 1 - 8                                                                   |         |
+| [申昇勳](../Page/申昇勳.md "wikilink")                                                               | 1 - 8                                                                   |         |
 | 2nd Line Up                                                                                    | [Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink")                 | 1 - 9   |
 | [泰欥](https://zh.wikipedia.org/wiki/泰欥 "wikilink") ([Block B](../Page/Block_B.md "wikilink"))   | 1 - 5、7 - 8                                                             |         |
 | [BewhY](../Page/BewhY.md "wikilink")                                                           | 1 - 8                                                                   |         |
@@ -92,7 +92,7 @@ call之中，經過激烈競爭成功組隊的人，可以正式開始製作新�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/申昇勳" title="wikilink">申昇勳</a> x <a href="https://zh.wikipedia.org/wiki/Ailee" title="wikilink">Ailee</a></strong></p></td>
+<td><p><strong><a href="../Page/申昇勳.md" title="wikilink">申昇勳</a> x <a href="https://zh.wikipedia.org/wiki/Ailee" title="wikilink">Ailee</a></strong></p></td>
 <td><p><strong>Fly Away</strong></p></td>
 <td><p><a href="../Page/金伊娜.md" title="wikilink">金伊娜</a></p></td>
 <td><p>申昇勳 Jay Lee</p></td>
@@ -102,7 +102,7 @@ call之中，經過激烈競爭成功組隊的人，可以正式開始製作新�
 <tr class="odd">
 <td><p>EP 3<br />
 這瞬間這首歌 [5]</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/申昇勳" title="wikilink">申昇勳</a> x <a href="../Page/BewhY.md" title="wikilink">BewhY</a></strong></p></td>
+<td><p><strong><a href="../Page/申昇勳.md" title="wikilink">申昇勳</a> x <a href="../Page/BewhY.md" title="wikilink">BewhY</a></strong></p></td>
 <td><p>'''Lullaby '''</p></td>
 <td><p><a href="../Page/金伊娜.md" title="wikilink">金伊娜</a> BewhY</p></td>
 <td><p>申昇勳</p></td>
@@ -191,7 +191,7 @@ Retro</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/申昇勳" title="wikilink">申昇勳</a> x <a href="../Page/Eddy_Kim.md" title="wikilink">Eddy Kim</a></p></td>
+<td><p><a href="../Page/申昇勳.md" title="wikilink">申昇勳</a> x <a href="../Page/Eddy_Kim.md" title="wikilink">Eddy Kim</a></p></td>
 <td><p>슈퍼스타 Superstar</p></td>
 <td><p><a href="../Page/金伊娜.md" title="wikilink">金伊娜</a></p></td>
 <td><p>申昇勳 Jay Lee</p></td>

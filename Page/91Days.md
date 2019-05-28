@@ -115,8 +115,8 @@
 ### 製作人員
 
   - 原作：Vanetti Family
-  - 監督： [鏑木宏](https://zh.wikipedia.org/wiki/鏑木宏 "wikilink")
-  - 系列構成：[岸本卓](https://zh.wikipedia.org/wiki/岸本卓 "wikilink")
+  - 監督： [鏑木宏](../Page/鏑木宏.md "wikilink")
+  - 系列構成：[岸本卓](../Page/岸本卓.md "wikilink")
   - 人物設計、總作畫監督：岸友洋
   - 佈景設計：青木智由紀
   - 美術監督：小倉宏昌
@@ -161,8 +161,8 @@
 <td><p>Day1</p></td>
 <td></td>
 <td><p>殺人之夜</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岸本卓" title="wikilink">岸本卓</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鏑木宏" title="wikilink">鏑木宏</a></p></td>
+<td><p><a href="../Page/岸本卓.md" title="wikilink">岸本卓</a></p></td>
+<td><p><a href="../Page/鏑木宏.md" title="wikilink">鏑木宏</a></p></td>
 <td><p>岸友洋</p></td>
 <td></td>
 </tr>

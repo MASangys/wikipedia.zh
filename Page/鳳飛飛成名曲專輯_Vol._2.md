@@ -19,7 +19,7 @@
 <td><p>A1</p></td>
 <td><p>我是一片雲</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/瓊瑤" title="wikilink">瓊瑤</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/左宏元" title="wikilink">古月</a></p></td>
+<td><p><a href="../Page/左宏元.md" title="wikilink">古月</a></p></td>
 <td><p>林國雄</p></td>
 <td></td>
 <td><p>原收錄於鳳飛飛《<a href="https://zh.wikipedia.org/wiki/我是一片雲_(專輯)" title="wikilink">我是一片雲 (專輯)</a>》 電影《<a href="https://zh.wikipedia.org/wiki/我是一片雲" title="wikilink">我是一片雲</a>》主題曲[1]</p>
@@ -128,7 +128,7 @@
 <td><p>B3</p></td>
 <td><p>就是溜溜的她</p></td>
 <td><p>晨曦</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/左宏元" title="wikilink">左宏元</a></p></td>
+<td><p><a href="../Page/左宏元.md" title="wikilink">左宏元</a></p></td>
 <td><p>林國雄</p></td>
 <td></td>
 <td><p>原收錄於鳳飛飛《<a href="../Page/就是溜溜的她.md" title="wikilink">就是溜溜的她</a>》 電影《就是溜溜的她》主題曲</p></td>

@@ -39,7 +39,7 @@ fea-2.JPG|FEA-II型 Image:1967 Suzulight Fronte.jpg
 / 5,000rpm的最大馬力及3.7kg·m / 4,000rpm的最大扭力。
 
 1968年 - 11月追加運動化的「Fronte SS」車型（代表**S**treet
-**S**ports），馬力提升至36ps。這款車的[廣告邀請](../Page/廣告.md "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[賽車手](../Page/賽車手.md "wikilink")[斯特林·莫斯及](https://zh.wikipedia.org/wiki/斯特林·莫斯 "wikilink")[冠軍伊藤光夫各駕駛一紅](https://zh.wikipedia.org/wiki/冠軍 "wikilink")、一黃的Fronte
+**S**ports），馬力提升至36ps。這款車的[廣告邀請](../Page/廣告.md "wikilink")[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[賽車手](../Page/賽車手.md "wikilink")[斯特林·莫斯及](../Page/斯特林·莫斯.md "wikilink")[冠軍伊藤光夫各駕駛一紅](https://zh.wikipedia.org/wiki/冠軍 "wikilink")、一黃的Fronte
 SS，在[義大利的](https://zh.wikipedia.org/wiki/義大利 "wikilink")[A1高速公路馳騁](https://zh.wikipedia.org/wiki/A1高速公路_\(義大利\) "wikilink")，結果平均時速達到122.44km/hr；目前這輛紅色的Fronte
 SS收藏在原廠設於[濱松市的鈴木博物館內](https://zh.wikipedia.org/wiki/濱松市 "wikilink")（請見下圖）。
 

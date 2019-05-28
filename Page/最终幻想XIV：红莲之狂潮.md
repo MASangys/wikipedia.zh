@@ -1,4 +1,4 @@
-是由[史克威尔艾尼克斯开发的](../Page/史克威尔艾尼克斯.md "wikilink")[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")（MMORPG）《[最终幻想XIV：重生之境](https://zh.wikipedia.org/wiki/最终幻想XIV：重生之境 "wikilink")》的第二部[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")，发行于[Microsoft
+是由[史克威尔艾尼克斯开发的](../Page/史克威尔艾尼克斯.md "wikilink")[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")（MMORPG）《[最终幻想XIV：重生之境](../Page/最终幻想XIV：重生之境.md "wikilink")》的第二部[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")，发行于[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
 OS X和](../Page/MacOS.md "wikilink")[PlayStation
 4平台](../Page/PlayStation_4.md "wikilink")。该资料片于2017年6月20日在全球发行\[1\]，于2017年9月26日在中国发行。

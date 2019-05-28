@@ -32,7 +32,7 @@
 | 光石憂一  | [永嶋柊吾](https://zh.wikipedia.org/wiki/永嶋柊吾 "wikilink")   | 吉川菜緒的高中同班同學                 |
 | 阿部順   | [長澤航也](https://zh.wikipedia.org/wiki/長澤航也 "wikilink")   | 吉川菜緒與上原久志同級生                |
 | 草剃奈奈子 | [田中日奈子](https://zh.wikipedia.org/wiki/田中日奈子 "wikilink") | 咖啡店老闆的女兒 （上原久志打工地方）         |
-| 上原卓也  | [田中圭](https://zh.wikipedia.org/wiki/田中圭 "wikilink")     | 上原久志的哥哥                     |
+| 上原卓也  | [田中圭](../Page/田中圭.md "wikilink")                        | 上原久志的哥哥                     |
 
 ### 製作團隊
 

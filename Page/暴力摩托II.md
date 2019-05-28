@@ -1,4 +1,4 @@
-是[艺电开发](../Page/艺电.md "wikilink")[竞速游戏系列](https://zh.wikipedia.org/wiki/竞速游戏 "wikilink")[暴力摩托的第二款游戏](https://zh.wikipedia.org/wiki/暴力摩托系列 "wikilink")。游戏于1992年在[Mega
+是[艺电开发](../Page/艺电.md "wikilink")[竞速游戏系列](https://zh.wikipedia.org/wiki/竞速游戏 "wikilink")[暴力摩托的第二款游戏](../Page/暴力摩托系列.md "wikilink")。游戏于1992年在[Mega
 Drive上发行](../Page/Mega_Drive.md "wikilink")。游戏大量沿用[前作的引擎和](../Page/暴力摩托.md "wikilink")[精灵图](../Page/精灵图.md "wikilink")。《暴力摩托》还为系列开创了一些新元素，如[氮氧加速器和各类武器](https://zh.wikipedia.org/wiki/氮氧加速器 "wikilink")。
 
 游戏音乐由[罗伯·哈伯德创作](https://zh.wikipedia.org/wiki/罗伯·哈伯德 "wikilink")，唐·维卡也创作了曲目\[1\]。

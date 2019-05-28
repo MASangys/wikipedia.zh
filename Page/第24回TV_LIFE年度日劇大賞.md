@@ -157,7 +157,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>　<a href="https://zh.wikipedia.org/wiki/松重豐" title="wikilink">松重豐</a></p></td>
+<td><p>　<a href="../Page/松重豐.md" title="wikilink">松重豐</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -208,7 +208,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </tr>
 <tr class="odd">
 <td><p>　<a href="../Page/滿島光.md" title="wikilink">滿島光</a></p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/對不起青春！" title="wikilink">對不起青春！</a>》</p></td>
+<td><p>　《<a href="../Page/對不起青春！.md" title="wikilink">對不起青春！</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -238,8 +238,8 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>　<a href="https://zh.wikipedia.org/wiki/大原櫻子" title="wikilink">大原櫻子</a></p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/水球不良少年" title="wikilink">水球不良少年</a>》</p></td>
+<td><p>　<a href="../Page/大原櫻子.md" title="wikilink">大原櫻子</a></p></td>
+<td><p>　《<a href="../Page/水球不良少年.md" title="wikilink">水球不良少年</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">

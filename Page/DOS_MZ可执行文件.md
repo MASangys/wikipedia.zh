@@ -27,7 +27,7 @@ Watcom的WLINK](https://zh.wikipedia.org/wiki/Watcom_C/C++编译器 "wikilink")�
   - [DOS 扩展器](https://zh.wikipedia.org/wiki/DOS_扩展器 "wikilink")
   - [Comparison of executable file
     formats](https://zh.wikipedia.org/wiki/Comparison_of_executable_file_formats "wikilink")
-  - [MS-DOS API](https://zh.wikipedia.org/wiki/MS-DOS_API "wikilink")
+  - [MS-DOS API](../Page/MS-DOS_API.md "wikilink")
 
 ## 参考资料
 

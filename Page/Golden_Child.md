@@ -32,7 +32,7 @@ Project第三彈，公開[大烈](../Page/李大烈.md "wikilink")、在錫、[�
 [Woollim娛樂通過官方Twitter公開團體名稱](../Page/Woollim娛樂.md "wikilink")\[1\]、LOGO及專輯名稱，並且開設Golden
 Child 官方Fan
 Cafe、Twitter和Facebook。5月17日，公開所有成員的名字。\[2\]5月22日，公開出道團綜《[2017
-WoollimPICK](https://zh.wikipedia.org/wiki/2017_WOOLLIM_PICK "wikilink")》概念照\[3\]及預告；5月30日，於Mnet及Vapp初放送。
+WoollimPICK](../Page/2017_WOOLLIM_PICK.md "wikilink")》概念照\[3\]及預告；5月30日，於Mnet及Vapp初放送。
 
 #### 出道
 
@@ -67,7 +67,7 @@ JAPAN〉見面會。
 
 #### 第一張單曲專輯
 
-6月20日，陸續公開第一張單曲專輯《[Goldenness](https://zh.wikipedia.org/wiki/Goldenness "wikilink")》的成員概念照，並確定於7月4日回歸。6月27日，陸續公開《Goldenness》的MV
+6月20日，陸續公開第一張單曲專輯《[Goldenness](../Page/Goldenness.md "wikilink")》的成員概念照，並確定於7月4日回歸。6月27日，陸續公開《Goldenness》的MV
 預告。7月4日，公開第一張單曲專輯《Goldenness》專輯音源及主打歌〈LET ME〉MV。
 
 7月6日，於《Music Bank》開始正式進行第一張單曲專輯《Goldenness》宣傳活動。8月17日，於《Music
@@ -189,7 +189,7 @@ High](../Page/Legal_High.md "wikilink")》演唱第三波原聲帶歌曲 "NEVER"
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/Gol-Cha!" title="wikilink">Gol-Cha!</a></strong>》</p>
+<td><p>首張迷你專輯《<strong><a href="../Page/Gol-Cha!.md" title="wikilink">Gol-Cha!</a></strong>》</p>
 <ul>
 <li>發行日期：2017年8月28日</li>
 <li>語言：韓語</li>
@@ -199,7 +199,7 @@ High](../Page/Legal_High.md "wikilink")》演唱第三波原聲帶歌曲 "NEVER"
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>第二張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/奇蹟_(Golden_Child專輯)" title="wikilink">奇蹟 (기적)</a></strong>》</p>
+<td><p>第二張迷你專輯《<strong><a href="../Page/奇蹟_(Golden_Child專輯).md" title="wikilink">奇蹟 (기적)</a></strong>》</p>
 <ul>
 <li>發行日期：2018年1月29日</li>
 <li>語言：韓語</li>
@@ -233,7 +233,7 @@ High](../Page/Legal_High.md "wikilink")》演唱第三波原聲帶歌曲 "NEVER"
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p>首張單曲專輯《<strong><a href="https://zh.wikipedia.org/wiki/Goldenness" title="wikilink">Goldenness</a></strong>》</p>
+<td><p>首張單曲專輯《<strong><a href="../Page/Goldenness.md" title="wikilink">Goldenness</a></strong>》</p>
 <ul>
 <li>發行日期：2018年7月4日</li>
 <li>語言：韓語</li>
@@ -248,10 +248,10 @@ High](../Page/Legal_High.md "wikilink")》演唱第三波原聲帶歌曲 "NEVER"
 
   - 原聲帶
 
-| 年份    | 日期     | 影視作品                                                                      | 歌曲名稱        | 參與成員 |
-| ----- | ------ | ------------------------------------------------------------------------- | ----------- | ---- |
-| 2017年 | 10月16日 | 《[20世紀少男少女](https://zh.wikipedia.org/wiki/20世紀少男少女 "wikilink")》OST Part.3 | Love Letter | 全員   |
-| 2019年 | 3月1日   | 《[Legal High](../Page/Legal_High_\(韓國電視劇\).md "wikilink")》OST Part.3      | NEVER       | Y、勝民 |
+| 年份    | 日期     | 影視作品                                                                 | 歌曲名稱        | 參與成員 |
+| ----- | ------ | -------------------------------------------------------------------- | ----------- | ---- |
+| 2017年 | 10月16日 | 《[20世紀少男少女](../Page/20世紀少男少女.md "wikilink")》OST Part.3               | Love Letter | 全員   |
+| 2019年 | 3月1日   | 《[Legal High](../Page/Legal_High_\(韓國電視劇\).md "wikilink")》OST Part.3 | NEVER       | Y、勝民 |
 
   - 合作單曲
 
@@ -319,7 +319,7 @@ High](../Page/Legal_High.md "wikilink")》演唱第三波原聲帶歌曲 "NEVER"
 |       |      |                                     |                                                             |                                 |                                                             |
 | ----- | ---- | ----------------------------------- | ----------------------------------------------------------- | ------------------------------- | ----------------------------------------------------------- |
 | 年份    | 發佈日期 | 歌曲名稱                                | 演唱者                                                         | 出演成員                            | 共同出演                                                        |
-| 2014年 | 4月6日 | 〈Tell Me Why〉\[30\]                 | [Toheart](https://zh.wikipedia.org/wiki/Toheart "wikilink") | [大烈](../Page/李大烈.md "wikilink") | [文佳煐](../Page/文佳煐.md "wikilink")                            |
+| 2014年 | 4月6日 | 〈Tell Me Why〉\[30\]                 | [Toheart](../Page/Toheart.md "wikilink")                    | [大烈](../Page/李大烈.md "wikilink") | [文佳煐](../Page/文佳煐.md "wikilink")                            |
 | 2016年 | 7月7日 | 〈That Summer (Second Story)〉 \[31\] | [INFINITE](../Page/INFINITE.md "wikilink")                  | Y、普閔                            | [INFINITE](../Page/INFINITE.md "wikilink")                  |
 | 2017年 | 5月2日 | 〈Now, We〉\[32\] \[33\]              | [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink") | 普閔                              | [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink") |
 
@@ -327,12 +327,12 @@ High](../Page/Legal_High.md "wikilink")》演唱第三波原聲帶歌曲 "NEVER"
 
 ### 電視劇
 
-|       |                                         |                                                                 |                                 |            |       |    |
-| ----- | --------------------------------------- | --------------------------------------------------------------- | ------------------------------- | ---------- | ----- | -- |
-| 年份    | 電視台                                     | 劇名                                                              | 參演成員                            | 角色         | 集數    | 備註 |
-| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[對我而言可愛的她](https://zh.wikipedia.org/wiki/對我而言可愛的她 "wikilink")》 | [大烈](../Page/李大烈.md "wikilink") | 山亞（無限動力成員） |       | 客串 |
-| Y     | 俊俊（無限動力成員）                              |                                                                 |                                 |            |       |    |
-| 2017年 | [MBC](../Page/文化廣播公司.md "wikilink")     | 《[20世紀少男少女](https://zh.wikipedia.org/wiki/20世紀少男少女 "wikilink")》 | 全員                              | 電台來賓       | EP1、4 | 客串 |
+|       |                                         |                                              |                                 |            |       |    |
+| ----- | --------------------------------------- | -------------------------------------------- | ------------------------------- | ---------- | ----- | -- |
+| 年份    | 電視台                                     | 劇名                                           | 參演成員                            | 角色         | 集數    | 備註 |
+| 2014年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》 | [大烈](../Page/李大烈.md "wikilink") | 山亞（無限動力成員） |       | 客串 |
+| Y     | 俊俊（無限動力成員）                              |                                              |                                 |            |       |    |
+| 2017年 | [MBC](../Page/文化廣播公司.md "wikilink")     | 《[20世紀少男少女](../Page/20世紀少男少女.md "wikilink")》 | 全員                              | 電台來賓       | EP1、4 | 客串 |
 
 ### 網路劇
 
@@ -559,7 +559,7 @@ High](../Page/Legal_High.md "wikilink")》演唱第三波原聲帶歌曲 "NEVER"
 <td><p>5月30日 - 7月18日</p></td>
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a><br />
 V LIVE</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/2017_WOOLLIM_PICK" title="wikilink">2017 WoollimPICK</a>》</p></td>
+<td><p>《<a href="../Page/2017_WOOLLIM_PICK.md" title="wikilink">2017 WoollimPICK</a>》</p></td>
 <td><p>8集</p></td>
 </tr>
 <tr class="even">
@@ -1638,7 +1638,7 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 </tr>
 <tr class="even">
 <td><p>7月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IDOL_RADIO" title="wikilink">IDOL RADIO</a></p></td>
+<td><p><a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>全員</p></td>
 <td></td>
@@ -1682,7 +1682,7 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 </tr>
 <tr class="even">
 <td><p>11月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IDOL_RADIO" title="wikilink">IDOL RADIO</a></p></td>
+<td><p><a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>周燦</p></td>
 <td></td>
@@ -1712,7 +1712,7 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 </tr>
 <tr class="even">
 <td><p>12月4日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IDOL_RADIO" title="wikilink">IDOL RADIO</a></p></td>
+<td><p><a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>周燦</p></td>
 <td></td>
@@ -1727,7 +1727,7 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 <tr class="even">
 <td><p>2019年</p></td>
 <td><p>1月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IDOL_RADIO" title="wikilink">IDOL RADIO</a></p></td>
+<td><p><a href="../Page/IDOL_RADIO.md" title="wikilink">IDOL RADIO</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>Y</p></td>
 </tr>
@@ -2013,7 +2013,7 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月31日</p></td>
-<td><p>2018 <a href="https://zh.wikipedia.org/wiki/MBC歌謠大祭典" title="wikilink">MBC歌謠大祭典</a></p></td>
+<td><p>2018 <a href="../Page/MBC歌謠大祭典.md" title="wikilink">MBC歌謠大祭典</a></p></td>
 <td><p>上岩洞 <a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a> 經營中心</p></td>
 </tr>
 </tbody>
@@ -2141,19 +2141,19 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 <td><p>2017年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Gol-Cha!" title="wikilink">Gol-Cha!</a></p></td>
+<td><p><a href="../Page/Gol-Cha!.md" title="wikilink">Gol-Cha!</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/奇蹟_(Golden_Child專輯)" title="wikilink">奇蹟</a></p></td>
+<td><p><a href="../Page/奇蹟_(Golden_Child專輯).md" title="wikilink">奇蹟</a></p></td>
 </tr>
 <tr class="even">
 <td><p>LADY</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Goldenness" title="wikilink">Goldenness</a></p></td>
+<td><p><a href="../Page/Goldenness.md" title="wikilink">Goldenness</a></p></td>
 </tr>
 <tr class="even">
 <td><p>IF</p></td>

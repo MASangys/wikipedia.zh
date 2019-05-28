@@ -9,8 +9,7 @@ Kim**（；），[藝名](../Page/藝名.md "wikilink")：**Irene**（），[韓
 
 ### 綜藝節目
 
-  - 2014年：[CJ
-    E\&M](https://zh.wikipedia.org/wiki/CJ_E&M "wikilink")《K-Style》
+  - 2014年：[CJ E\&M](../Page/CJ_E&M.md "wikilink")《K-Style》
   - 2014年：[FashionN](https://zh.wikipedia.org/wiki/FashionN "wikilink")《Follow
     Me》第三季
   - 2015年：[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[Running

@@ -2,9 +2,8 @@
 
 ## 物種
 
-  - [埃及蚂蚱](https://zh.wikipedia.org/wiki/埃及蚂蚱 "wikilink") *Anacridium
-    aegyptium* <span style="font-variant: small-caps">(Linnaeus,
-    1764)</span>
+  - [埃及蚂蚱](../Page/埃及蚂蚱.md "wikilink") *Anacridium aegyptium*
+    <span style="font-variant: small-caps">(Linnaeus, 1764)</span>
       - *Anacridium aegyptium* var. *rubrispinum* <small> Bei-Bienko,
         1948 </small> - *Anacridium rubrispinum* <small> Bei-Bienko,
         1948</small>

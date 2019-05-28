@@ -5,8 +5,7 @@
   - [Daf-2](https://zh.wikipedia.org/wiki/Daf-2 "wikilink")
   - [加里·鲁夫昆](../Page/加里·鲁夫昆.md "wikilink")（Gary Ruvkun）
   - [FOX蛋白](https://zh.wikipedia.org/wiki/FOX蛋白 "wikilink")
-  - [辛西娅·凯尼恩](https://zh.wikipedia.org/wiki/辛西娅·凯尼恩 "wikilink")（Cynthia
-    Kenyon）
+  - [辛西娅·凯尼恩](../Page/辛西娅·凯尼恩.md "wikilink")（Cynthia Kenyon）
 
 ## 参考文献
 

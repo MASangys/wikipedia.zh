@@ -40,7 +40,7 @@
 <td><p><a href="../Page/馮友薇.md" title="wikilink">馮友薇</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李仁_(演員)" title="wikilink">李仁</a></p></td>
+<td><p><a href="../Page/李仁_(演員).md" title="wikilink">李仁</a></p></td>
 <td><p>朴道訓<br />
 申道訓</p></td>
 <td><p>1987年8月25日生，侔娥的丈夫後離婚。孤兒出身，在30歲依然在考在職試的男人，並依靠著妻子侔娥的收入度日。在淑子的中華餐館裡送外賣，飽受寄人籬下的壓力。後來突然發現自己是TMO集團會長家失蹤多年的兒子，便開始逐漸變質，更為了拯救卑劣的母親明淑，而拋棄自己的糟糠之妻、瞞騙英化。在侔娥失憶後，雖然曾試圖從母親與叔叔手中拯救陷入危險的侔娥，但為了會長之位，仍選擇睜一隻眼閉一隻眼。</p></td>
@@ -50,7 +50,7 @@
 <td></td>
 <td><p>車英化</p></td>
 <td><p>30歲，國會議員的女兒，從美國歸來的設計師，個性傲骨。患有不孕症，因此離過一次婚，並不對婚姻抱持希望。在偶然與男具相遇後，被他深深得吸引著，其後兩人處於互相曖昧的狀態，即使知道他出身卑寒也沒有看不起他。在被男具拒絕後，受到道訓的情感攻勢，選擇嫁給道訓。由於對父母的虧欠，以及對孩子的執著，即便發現申家卑劣的作為，選擇瞞騙侔娥，更因此漸漸地做出傷害侔娥的事件。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馮嘉德" title="wikilink">馮嘉德</a></p></td>
+<td><p><a href="../Page/馮嘉德.md" title="wikilink">馮嘉德</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -113,7 +113,7 @@
 <td><p>朴在敏<br />
 申在敏</p></td>
 <td><p>6歲，侔娥與道訓的兒子。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馮嘉德" title="wikilink">馮嘉德</a></p></td>
+<td><p><a href="../Page/馮嘉德.md" title="wikilink">馮嘉德</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/李恩采" title="wikilink">李恩采</a></p></td>
@@ -156,7 +156,7 @@
 <td><p><a href="../Page/許英蘭.md" title="wikilink">許英蘭</a></p></td>
 <td><p>姜莮喜</p></td>
 <td><p>1980年9月2日生，37歲，男具的姐姐，實際上毫無血緣關係。患有智能障礙三級，但個性開朗單純，在洗車店中幫忙洗車。幼時為了救男具因而發生車禍，導致她智能障礙。</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馮嘉德" title="wikilink">馮嘉德</a></p></td>
+<td><p><a href="../Page/馮嘉德.md" title="wikilink">馮嘉德</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -1047,9 +1047,9 @@
 ### 同一劇集時段作品
 
   - [KBS2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")
-    [TV小說](../Page/KBS_TV小說.md "wikilink")：《[在天空中的太陽](../Page/在天空中的太陽.md "wikilink")》、《[那女人的大海](https://zh.wikipedia.org/wiki/那女人的大海 "wikilink")》
+    [TV小說](../Page/KBS_TV小說.md "wikilink")：《[在天空中的太陽](../Page/在天空中的太陽.md "wikilink")》、《[那女人的大海](../Page/那女人的大海.md "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")
-    [晨間連續劇](../Page/MBC晨間連續劇.md "wikilink")：《[春日常在](../Page/春日常在.md "wikilink")》、《[訓長吳純南](https://zh.wikipedia.org/wiki/訓長吳純南 "wikilink")》
+    [晨間連續劇](../Page/MBC晨間連續劇.md "wikilink")：《[春日常在](../Page/春日常在.md "wikilink")》、《[訓長吳純南](../Page/訓長吳純南.md "wikilink")》
 
 ## 記事
 
@@ -1071,4 +1071,4 @@
 1.  [TNmS 멀티미디어 홈페이지](http://www.tnms.tv/rating/default.asp)
 2.  [AGB닐슨 미디어리서치 홈페이지](http://www.agbnielsen.co.kr/index.asp?ref=0)
 3.  1月9日因直播PGA高爾夫球賽事而停播一次。
-4.  3月10日因直播[韩国宪法法院针对](../Page/韩国宪法法院.md "wikilink")[朴槿惠弹劾案的判决而只播出](https://zh.wikipedia.org/wiki/朴槿惠弹劾案 "wikilink")25分钟。
+4.  3月10日因直播[韩国宪法法院针对](../Page/韩国宪法法院.md "wikilink")[朴槿惠弹劾案的判决而只播出](../Page/朴槿惠弹劾案.md "wikilink")25分钟。

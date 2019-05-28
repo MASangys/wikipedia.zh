@@ -226,7 +226,7 @@ milady](https://zh.wikipedia.org/wiki/petit_milady "wikilink")
 <td><p>TRIP 3</p></td>
 <td></td>
 <td><p>聽說能偶像出道，就傻傻上鉤的結果</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/雜破業" title="wikilink">雜破業</a></p></td>
+<td><p><a href="../Page/雜破業.md" title="wikilink">雜破業</a></p></td>
 <td><p><a href="../Page/川口敬一郎.md" title="wikilink">川口敬一郎</a></p></td>
 <td><p>北井嘉樹</p></td>
 <td><p>佐佐木貴宏</p></td>
@@ -258,7 +258,7 @@ Park Jae seok</p></td>
 <td></td>
 <td><p>回憶滿滿</p></td>
 <td><p>雜破業</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/八谷賢一" title="wikilink">八谷賢一</a></p></td>
+<td><p><a href="../Page/八谷賢一.md" title="wikilink">八谷賢一</a></p></td>
 <td><p>佐佐木貴宏</p></td>
 <td><p>鎌田均</p></td>
 <td></td>
@@ -334,7 +334,7 @@ Park Jaeseok</p></td>
 <td><p>博史池畠</p></td>
 <td><p>滿田一<br />
 清丸悟</p></td>
-<td><p>滿田一、鎌田均、<a href="https://zh.wikipedia.org/wiki/大隈孝晴" title="wikilink">大隈孝晴</a><br />
+<td><p>滿田一、鎌田均、<a href="../Page/大隈孝晴.md" title="wikilink">大隈孝晴</a><br />
 李少雷、Park Jae seok<br />
 杉村友和、北川隆之、桑原壽彌</p></td>
 <td></td>

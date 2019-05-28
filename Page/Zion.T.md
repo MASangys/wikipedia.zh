@@ -107,7 +107,7 @@ click me click, click me」。與其說是歌手，Zion. T
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p><strong>11th</strong></p></td>
-<td style="text-align: left;"><p>《<strong>눈(SNOW)</strong>》（<a href="https://zh.wikipedia.org/wiki/李文世" title="wikilink">李文世</a>）</p>
+<td style="text-align: left;"><p>《<strong>눈(SNOW)</strong>》（<a href="../Page/李文世.md" title="wikilink">李文世</a>）</p>
 <ul>
 <li>發行日期：2017年12月4日</li>
 <li>語言：韓語</li>
@@ -195,7 +195,7 @@ click me click, click me」。與其說是歌手，Zion. T
 <td><p>2012</p></td>
 <td><p>5月16日</p></td>
 <td><p>忘記（깜빡)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Gray_(歌手)" title="wikilink">Gray</a>( Feat.、Zion.T )</p></td>
+<td><p><a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>( Feat.、Zion.T )</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -236,7 +236,7 @@ click me click, click me」。與其說是歌手，Zion. T
 <tr class="even">
 <td><p>8月11日</p></td>
 <td><p>A Real Lady</p></td>
-<td><p>( Feat.、<a href="https://zh.wikipedia.org/wiki/Gray_(歌手)" title="wikilink">Gray</a>、Zion.T )</p></td>
+<td><p>( Feat.、<a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>、Zion.T )</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -278,7 +278,7 @@ click me click, click me」。與其說是歌手，Zion. T
 <tr class="even">
 <td><p>5月27日</p></td>
 <td><p>SOLD OUT</p></td>
-<td><p>( Feat. <a href="https://zh.wikipedia.org/wiki/Tablo" title="wikilink">Tablo</a>、<a href="https://zh.wikipedia.org/wiki/Loco" title="wikilink">Loco</a>、Zion.T )</p></td>
+<td><p>( Feat. <a href="https://zh.wikipedia.org/wiki/Tablo" title="wikilink">Tablo</a>、<a href="../Page/Loco.md" title="wikilink">Loco</a>、Zion.T )</p></td>
 <td><p>Andre</p></td>
 <td></td>
 </tr>
@@ -322,21 +322,21 @@ click me click, click me」。與其說是歌手，Zion. T
 <td><p>6月10日</p></td>
 <td><p>MACHINE GUN</p></td>
 <td><p>&amp; Zion.T(Feat. <a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink">宋旻浩</a>)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5</a><br />
+<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5</a><br />
 製作人特別舞台</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月17日</p></td>
 <td><p>신사($insa)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/C_Jamm" title="wikilink">C Jamm</a> &amp;  &amp; (Feat. Zion.T)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5</a></p></td>
+<td><p><a href="../Page/C_Jamm.md" title="wikilink">C Jamm</a> &amp;  &amp; (Feat. Zion.T)</p></td>
+<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>7月1日</p></td>
 <td><p>鼓手 (Drummer)</p></td>
 <td><p>(Feat. Zion.T、)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5</a></p></td>
+<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -351,7 +351,7 @@ click me click, click me」。與其說是歌手，Zion. T
 <td><p>9月1日</p></td>
 <td><p>bestdriverZ</p></td>
 <td><p>( Feat. <a href="https://zh.wikipedia.org/wiki/DEAN" title="wikilink">DEAN</a>、Zion.T )</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_6" title="wikilink">Show Me The Money 6</a><br />
+<td><p><a href="../Page/Show_Me_The_Money_6.md" title="wikilink">Show Me The Money 6</a><br />
 總決賽表演曲</p></td>
 </tr>
 <tr class="odd">
@@ -366,11 +366,11 @@ click me click, click me」。與其說是歌手，Zion. T
 
 ### OST
 
-| 年份   | 發布日期   | 劇名                                                            | 歌曲名稱    |
-| ---- | ------ | ------------------------------------------------------------- | ------- |
-| 2014 | 12月24日 | 《[皮諾丘](https://zh.wikipedia.org/wiki/皮諾丘_\(電視劇\) "wikilink")》 | Kiss Me |
-| 2018 | 1月11日  | 《[機智牢房生活](https://zh.wikipedia.org/wiki/機智牢房生活 "wikilink")》   | 一天日程    |
-|      |        |                                                               |         |
+| 年份   | 發布日期   | 劇名                                         | 歌曲名稱    |
+| ---- | ------ | ------------------------------------------ | ------- |
+| 2014 | 12月24日 | 《[皮諾丘](../Page/皮諾丘_\(電視劇\).md "wikilink")》 | Kiss Me |
+| 2018 | 1月11日  | 《[機智牢房生活](../Page/機智牢房生活.md "wikilink")》   | 一天日程    |
+|      |        |                                            |         |
 
 ## 綜藝節目
 
@@ -476,17 +476,17 @@ click me click, click me」。與其說是歌手，Zion. T
 <tr class="odd">
 <td><p>2016年5月3日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/現場脫口秀Taxi" title="wikilink">現場脫口秀Taxi</a>》 E426</p></td>
+<td><p>《<a href="../Page/現場脫口秀Taxi.md" title="wikilink">現場脫口秀Taxi</a>》 E426</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年5月13日-7月15日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Mnet" title="wikilink">Mnet</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5</a>》 E01-E10</p></td>
+<td><p>《<a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5</a>》 E01-E10</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年6月8日-6月15日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Vocal_戰爭：神的聲音" title="wikilink">Vocal戰爭-神的聲音</a>》 E09-E10</p></td>
+<td><p>《<a href="../Page/Vocal_戰爭：神的聲音.md" title="wikilink">Vocal戰爭-神的聲音</a>》 E09-E10</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年10月23日、11月6日</p></td>
@@ -506,7 +506,7 @@ click me click, click me」。與其說是歌手，Zion. T
 <tr class="odd">
 <td><p>2017年2月17日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBS" title="wikilink">MBS</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/我獨自生活" title="wikilink">我獨自生活</a>》 E197</p></td>
+<td><p>《<a href="../Page/我獨自生活.md" title="wikilink">我獨自生活</a>》 E197</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年3月26日</p></td>
@@ -541,7 +541,7 @@ click me click, click me」。與其說是歌手，Zion. T
 <tr class="even">
 <td><p>2017年12月10日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Fantastic_Duo_2" title="wikilink">Fantastic Duo 2</a>》 E36</p></td>
+<td><p>《<a href="../Page/Fantastic_Duo_2.md" title="wikilink">Fantastic Duo 2</a>》 E36</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年12月20日</p></td>
@@ -551,7 +551,7 @@ click me click, click me」。與其說是歌手，Zion. T
 <tr class="even">
 <td><p>2018年2月26日、3月5日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/平凡的英雄" title="wikilink">平凡的英雄</a>》 E01-E02</p></td>
+<td><p>《<a href="../Page/平凡的英雄.md" title="wikilink">平凡的英雄</a>》 E01-E02</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年8月26日</p></td>

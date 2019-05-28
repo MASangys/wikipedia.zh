@@ -42,7 +42,7 @@ no Kawa》是Nakagawa Haruka的畢業曲\[2\]\[3\]。
 5.  《Sakura, Minna de Tabeta》（Sakura Kita Makan Bersama）- Team T
       -
         （日文原版作詞：[秋元康](../Page/秋元康.md "wikilink")，作曲：江川裕史，編曲：武藤星兜）
-        原曲收錄于HKT48第3张单曲《[櫻花，大家一起來品嚐](https://zh.wikipedia.org/wiki/櫻花，大家一起來品嚐 "wikilink")》。
+        原曲收錄于HKT48第3张单曲《[櫻花，大家一起來品嚐](../Page/櫻花，大家一起來品嚐.md "wikilink")》。
 6.  《Spectacular》
       -
         （日文原版作詞：[秋元康](../Page/秋元康.md "wikilink")，作曲：和泉一彌，編曲：野中“まさ”雄一）

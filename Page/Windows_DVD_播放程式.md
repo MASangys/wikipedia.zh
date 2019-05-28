@@ -9,7 +9,7 @@ Player和](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")[Window
 Media Center](../Page/Windows_Media_Center.md "wikilink")。
 
 由于Media Center从[Windows
-10开始被移除](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，并且DVD编解码器也已在此前从Windows操作系统中移除，一个新的独立的DVD播放器程序被再次引入。
+10开始被移除](../Page/Windows_10.md "wikilink")，并且DVD编解码器也已在此前从Windows操作系统中移除，一个新的独立的DVD播放器程序被再次引入。
 
 ## 功能
 
@@ -33,7 +33,7 @@ Windows Media Center和DVD播放支持被归入一个Windows 8
 
 **Windows
 DVD播放器**是一个[Windows商店应用](https://zh.wikipedia.org/wiki/Metro-style_apps "wikilink")，它可以为[Windows
-10提供DVD播放功能](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。\[5\]
+10提供DVD播放功能](../Page/Windows_10.md "wikilink")。\[5\]
 
 在该应用启动时，它会搜索光盘驱动器上的影片文件以启动。它也可以作为一个光盘插入时的“自动播放”选项被使用。但是，如果应用运行时光盘被切换，该应用需要被重新启动。\[6\]
 

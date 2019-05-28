@@ -16,14 +16,14 @@ RFC 6961定义了多证书状态查询扩展，允许TLS握手中发送多个证
 
 服务器端的支持情况：
 
-| 软件名                                                         | 版本                                                                     |
-| ----------------------------------------------------------- | ---------------------------------------------------------------------- |
-| [Httpd](../Page/Apache_HTTP_Server.md "wikilink")           | 2.3.3\[8\]                                                             |
-| [Nginx](../Page/Nginx.md "wikilink")                        | 1.3.7\[9\]                                                             |
-| [IIS](../Page/網際網路資訊服務.md "wikilink")                       | [Windows Server 2008](../Page/Windows_Server_2008.md "wikilink")\[10\] |
-| [HAProxy](https://zh.wikipedia.org/wiki/HAProxy "wikilink") | 1.5.0\[11\]                                                            |
-| LiteSpeed Web Server                                        | 4.2.4\[12\]                                                            |
-| F5 Networks BIG-IP                                          | 11.6.0\[13\]                                                           |
+| 软件名                                               | 版本                                                                     |
+| ------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Httpd](../Page/Apache_HTTP_Server.md "wikilink") | 2.3.3\[8\]                                                             |
+| [Nginx](../Page/Nginx.md "wikilink")              | 1.3.7\[9\]                                                             |
+| [IIS](../Page/網際網路資訊服務.md "wikilink")             | [Windows Server 2008](../Page/Windows_Server_2008.md "wikilink")\[10\] |
+| [HAProxy](../Page/HAProxy.md "wikilink")          | 1.5.0\[11\]                                                            |
+| LiteSpeed Web Server                              | 4.2.4\[12\]                                                            |
+| F5 Networks BIG-IP                                | 11.6.0\[13\]                                                           |
 
 浏览器的支持情况：
 

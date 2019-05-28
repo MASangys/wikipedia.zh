@@ -12,7 +12,7 @@ NIGHT〜**》（[日](https://zh.wikipedia.org/wiki/日語 "wikilink")：ライ�
 這張專輯為會員網站「- THE ONE
 -」會員限定版的附屬商品，並沒有公開販售。\[2\]。收錄於2015年1月7日發行的現場影像作品《[LIVE
 AT BUDOKAN 〜RED NIGHT & BLACK NIGHT
-APOCALYPSE〜](https://zh.wikipedia.org/wiki/LIVE_AT_BUDOKAN_〜RED_NIGHT_&_BLACK_NIGHT_APOCALYPSE〜 "wikilink")》限量版「LIVE
+APOCALYPSE〜](../Page/LIVE_AT_BUDOKAN_〜RED_NIGHT_&_BLACK_NIGHT_APOCALYPSE〜.md "wikilink")》限量版「LIVE
 AT BUDOKAN "BUDO-CAN"- THE ONE - LIMITED BOX」中\[3\]。
 
 ## 收錄內容
@@ -26,7 +26,7 @@ AT BUDOKAN "BUDO-CAN"- THE ONE - LIMITED BOX」中\[3\]。
   - 成員
       - [大村孝佳](../Page/大村孝佳.md "wikilink") - 吉他
 
-      - [Leda](https://zh.wikipedia.org/wiki/Leda "wikilink") - 吉他
+      - [Leda](../Page/Leda.md "wikilink") - 吉他
 
       - \- 貝斯
 

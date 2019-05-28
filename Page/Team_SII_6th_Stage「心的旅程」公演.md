@@ -62,7 +62,7 @@ SII的特点加入了更多元化风格的尝试，带来全新的音乐体验�
 
   - 公演期間：2016年5月20日－2017年6月10日\[2\]\[3\]
   - 出演成员
-      - 常规16人演出：[陳觀慧](https://zh.wikipedia.org/wiki/陳觀慧 "wikilink")、[陳思](https://zh.wikipedia.org/wiki/陳思 "wikilink")、[戴萌](https://zh.wikipedia.org/wiki/戴萌 "wikilink")、蔣芸、孔肖吟、李宇琪、[莫寒](https://zh.wikipedia.org/wiki/莫寒 "wikilink")、錢蓓婷、[邱欣怡](../Page/邱欣怡.md "wikilink")、[孫芮](https://zh.wikipedia.org/wiki/孫芮 "wikilink")、[吳哲晗](https://zh.wikipedia.org/wiki/吳哲晗 "wikilink")、徐晨辰、[許佳琪](https://zh.wikipedia.org/wiki/許佳琪 "wikilink")、徐子軒、袁雨楨、張語格
+      - 常规16人演出：[陳觀慧](https://zh.wikipedia.org/wiki/陳觀慧 "wikilink")、[陳思](https://zh.wikipedia.org/wiki/陳思 "wikilink")、[戴萌](https://zh.wikipedia.org/wiki/戴萌 "wikilink")、蔣芸、孔肖吟、李宇琪、[莫寒](../Page/莫寒.md "wikilink")、錢蓓婷、[邱欣怡](../Page/邱欣怡.md "wikilink")、[孫芮](https://zh.wikipedia.org/wiki/孫芮 "wikilink")、[吳哲晗](https://zh.wikipedia.org/wiki/吳哲晗 "wikilink")、徐晨辰、[許佳琪](https://zh.wikipedia.org/wiki/許佳琪 "wikilink")、徐子軒、袁雨楨、張語格
       - 初日演出：陳觀慧、陳思、成珏、戴萌、馮曉菲、蔣芸、孔肖吟、李宇琪、劉力瑋、莫寒、錢蓓婷、沈之琳、[吳哲晗](https://zh.wikipedia.org/wiki/吳哲晗 "wikilink")、徐晨辰、徐子軒、許佳琪、袁丹妮、袁雨楨
   - 分組曲擔當
       - 好友創可貼（**戴萌**、李宇琪、孙芮（馮曉菲）、徐子轩）

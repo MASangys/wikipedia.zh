@@ -7,35 +7,35 @@
 
 ### 作為製作單位時代
 
-| 年    | 月                                                    | 中文片名                                                            | 英文片名                                                | 播映電視台                               | 備註                |
-| ---- | ---------------------------------------------------- | --------------------------------------------------------------- | --------------------------------------------------- | ----------------------------------- | ----------------- |
-| 2010 |                                                      |                                                                 |                                                     |                                     |                   |
-| 2011 |                                                      | 《[夢想起飛Dream High](../Page/夢想起飛Dream_High.md "wikilink")》        |                                                     | [KBS](../Page/韓國放送公社.md "wikilink") |                   |
-|      | 《[Royal Family](../Page/Royal_Family.md "wikilink")》 |                                                                 | [MBC](../Page/文化廣播公司.md "wikilink")                 |                                     |                   |
-|      | 《[神的測驗](../Page/神的測驗.md "wikilink")》                 |                                                                 | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") |                                     |                   |
-| 2012 |                                                      | 《[特殊案件專案組TEN](../Page/特殊案件專案組TEN.md "wikilink")》                |                                                     | OCN                                 |                   |
-|      | 《[英雄](../Page/英雄_\(OCN\).md "wikilink")》             | Hero                                                            | OCN                                                 |                                     |                   |
-|      | 《[一年十二個男人](../Page/一年十二個男人.md "wikilink")》           | Twelve Men in a Year                                            | OCN                                                 |                                     |                   |
-|      | 《[紳士的品格](../Page/紳士的品格.md "wikilink")》               | A Gentleman's Dignity                                           | [SBS](../Page/SBS_\(韓國\).md "wikilink")             |                                     |                   |
-| 4    | 《[仁顯王后的男人](../Page/仁顯王后的男人.md "wikilink")》           | Queen In-Hyun's Man                                             | [tvN](../Page/TVN.md "wikilink")                    | 綠蛇傳媒                                |                   |
-| 5    | 《[神的測驗](../Page/神的測驗.md "wikilink")》                 | Quiz from God 3                                                 | OCN                                                 |                                     |                   |
-| 5    | 《[我愛李太利](../Page/我愛李太利.md "wikilink")》               | I Love Lee Tae-ri                                               | tvN                                                 |                                     |                   |
-| 6    | 《[需要浪漫2012](../Page/需要浪漫2012.md "wikilink")》         | I Need Romance 2012                                             | tvN                                                 |                                     |                   |
-| 9    | 《[玻璃假面](../Page/玻璃假面_\(韓國電視劇\).md "wikilink")》       | Glass Mask                                                      | tvN                                                 |                                     |                   |
-| 9    | 《[第三醫院](../Page/第三醫院.md "wikilink")》                 | The 3rd Hospital                                                | tvN                                                 |                                     |                   |
-| 9    | 《[吸血鬼檢察官2](../Page/吸血鬼檢察官.md "wikilink") 》           | Vampire Prosecutor                                              | OCN                                                 |                                     |                   |
-| 2013 |                                                      | 《[Nine：九回時間旅行](../Page/Nine：九回時間旅行.md "wikilink")》              | 9: Nine Time Travels                                | tvN                                 |                   |
-|      | 3                                                    | 《[病毒](../Page/病毒_\(電視劇\).md "wikilink")》                        | The Virus                                           | OCN                                 |                   |
-|      | 4                                                    | 《[瘋狂愛情](../Page/瘋狂愛情.md "wikilink")》                            | Crazy Love                                          | tvN                                 |                   |
-|      | 4                                                    | 《特殊案件專案組TEN 2》                                                  | TEN 2                                               | OCN                                 |                   |
-|      | 4                                                    | 《[驚豔的她](../Page/驚豔的她.md "wikilink")》                            | She is Wow                                          | tvN                                 | Urban Works Media |
-|      | 5                                                    | 《[Monster](../Page/Monster_\(電視劇\).md "wikilink")》              | Monster                                             | MBC                                 | Victory Contents  |
-| 2014 |                                                      | 《[沒關係，是愛情啊](https://zh.wikipedia.org/wiki/沒關係，是愛情啊 "wikilink")》 | It's okay. That's love                              | SBS                                 |                   |
-|      | 《[未生](../Page/未生.md "wikilink")》                     | Misaeng                                                         | tvN                                                 |                                     |                   |
-|      | 《Forever Young 1》                                    |                                                                 | VTV                                                 |                                     |                   |
-| 2015 |                                                      | 《[相愛穿梭千年](https://zh.wikipedia.org/wiki/相愛穿梭千年 "wikilink")》     | Love Through a Millennium                           | 湖南衛視                                |                   |
-|      | 《[Oh 我的鬼神君](../Page/Oh_我的鬼神君.md "wikilink")》         | Oh My Ghostess                                                  | tvN                                                 |                                     |                   |
-|      | 《[記得你](../Page/記得你.md "wikilink")》                   | Hello Monster                                                   | KBS                                                 |                                     |                   |
+| 年    | 月                                                    | 中文片名                                                        | 英文片名                                                | 播映電視台                               | 備註                |
+| ---- | ---------------------------------------------------- | ----------------------------------------------------------- | --------------------------------------------------- | ----------------------------------- | ----------------- |
+| 2010 |                                                      |                                                             |                                                     |                                     |                   |
+| 2011 |                                                      | 《[夢想起飛Dream High](../Page/夢想起飛Dream_High.md "wikilink")》    |                                                     | [KBS](../Page/韓國放送公社.md "wikilink") |                   |
+|      | 《[Royal Family](../Page/Royal_Family.md "wikilink")》 |                                                             | [MBC](../Page/文化廣播公司.md "wikilink")                 |                                     |                   |
+|      | 《[神的測驗](../Page/神的測驗.md "wikilink")》                 |                                                             | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") |                                     |                   |
+| 2012 |                                                      | 《[特殊案件專案組TEN](../Page/特殊案件專案組TEN.md "wikilink")》            |                                                     | OCN                                 |                   |
+|      | 《[英雄](../Page/英雄_\(OCN\).md "wikilink")》             | Hero                                                        | OCN                                                 |                                     |                   |
+|      | 《[一年十二個男人](../Page/一年十二個男人.md "wikilink")》           | Twelve Men in a Year                                        | OCN                                                 |                                     |                   |
+|      | 《[紳士的品格](../Page/紳士的品格.md "wikilink")》               | A Gentleman's Dignity                                       | [SBS](../Page/SBS_\(韓國\).md "wikilink")             |                                     |                   |
+| 4    | 《[仁顯王后的男人](../Page/仁顯王后的男人.md "wikilink")》           | Queen In-Hyun's Man                                         | [tvN](../Page/TVN.md "wikilink")                    | 綠蛇傳媒                                |                   |
+| 5    | 《[神的測驗](../Page/神的測驗.md "wikilink")》                 | Quiz from God 3                                             | OCN                                                 |                                     |                   |
+| 5    | 《[我愛李太利](../Page/我愛李太利.md "wikilink")》               | I Love Lee Tae-ri                                           | tvN                                                 |                                     |                   |
+| 6    | 《[需要浪漫2012](../Page/需要浪漫2012.md "wikilink")》         | I Need Romance 2012                                         | tvN                                                 |                                     |                   |
+| 9    | 《[玻璃假面](../Page/玻璃假面_\(韓國電視劇\).md "wikilink")》       | Glass Mask                                                  | tvN                                                 |                                     |                   |
+| 9    | 《[第三醫院](../Page/第三醫院.md "wikilink")》                 | The 3rd Hospital                                            | tvN                                                 |                                     |                   |
+| 9    | 《[吸血鬼檢察官2](../Page/吸血鬼檢察官.md "wikilink") 》           | Vampire Prosecutor                                          | OCN                                                 |                                     |                   |
+| 2013 |                                                      | 《[Nine：九回時間旅行](../Page/Nine：九回時間旅行.md "wikilink")》          | 9: Nine Time Travels                                | tvN                                 |                   |
+|      | 3                                                    | 《[病毒](../Page/病毒_\(電視劇\).md "wikilink")》                    | The Virus                                           | OCN                                 |                   |
+|      | 4                                                    | 《[瘋狂愛情](../Page/瘋狂愛情.md "wikilink")》                        | Crazy Love                                          | tvN                                 |                   |
+|      | 4                                                    | 《特殊案件專案組TEN 2》                                              | TEN 2                                               | OCN                                 |                   |
+|      | 4                                                    | 《[驚豔的她](../Page/驚豔的她.md "wikilink")》                        | She is Wow                                          | tvN                                 | Urban Works Media |
+|      | 5                                                    | 《[Monster](../Page/Monster_\(電視劇\).md "wikilink")》          | Monster                                             | MBC                                 | Victory Contents  |
+| 2014 |                                                      | 《[沒關係，是愛情啊](../Page/沒關係，是愛情啊.md "wikilink")》                | It's okay. That's love                              | SBS                                 |                   |
+|      | 《[未生](../Page/未生.md "wikilink")》                     | Misaeng                                                     | tvN                                                 |                                     |                   |
+|      | 《Forever Young 1》                                    |                                                             | VTV                                                 |                                     |                   |
+| 2015 |                                                      | 《[相愛穿梭千年](https://zh.wikipedia.org/wiki/相愛穿梭千年 "wikilink")》 | Love Through a Millennium                           | 湖南衛視                                |                   |
+|      | 《[Oh 我的鬼神君](../Page/Oh_我的鬼神君.md "wikilink")》         | Oh My Ghostess                                              | tvN                                                 |                                     |                   |
+|      | 《[記得你](../Page/記得你.md "wikilink")》                   | Hello Monster                                               | KBS                                                 |                                     |                   |
 
 ### 作为製作公司
 
@@ -82,11 +82,8 @@
 
 #### 2018年
 
-  - OCN 《[小神的孩子們](https://zh.wikipedia.org/wiki/小神的孩子們 "wikilink")》
-    (KPJ与合作伙伴关系)
-  - tvN
-    《[Live](https://zh.wikipedia.org/wiki/Live_\(韓國電視劇\) "wikilink")》
-    (GT:st与合作伙伴关系)
+  - OCN 《[小神的孩子們](../Page/小神的孩子們.md "wikilink")》 (KPJ与合作伙伴关系)
+  - tvN 《[Live](../Page/Live_\(韓國電視劇\).md "wikilink")》 (GT:st与合作伙伴关系)
   - tvN 《[陽光先生](../Page/陽光先生.md "wikilink")》 (Hwa\&Dam Pictures与合作伙伴关系)
 
 ### 作为策划者/创作者/开发者
@@ -101,8 +98,8 @@
 
 #### 2017年
 
-  - OCN 《[Voice](https://zh.wikipedia.org/wiki/Voice "wikilink")》
-    ([CONTENT K的生产](../Page/Keyeast.md "wikilink"))
+  - OCN 《[Voice](../Page/Voice.md "wikilink")》 ([CONTENT
+    K的生产](../Page/Keyeast.md "wikilink"))
   - tvN 《[內向的老闆](../Page/內向的老闆.md "wikilink")》 (,
     [內向的老闆文化產業專門會社的生产](https://zh.wikipedia.org/wiki/內向的老闆文化產業專門會社 "wikilink"))
   - tvN 《[明天和你](../Page/明天和你.md "wikilink")》 (的生产)

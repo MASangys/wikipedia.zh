@@ -1,4 +1,4 @@
-**TUD**，台灣新生代[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，現任成員包括[姜沛芯](https://zh.wikipedia.org/wiki/姜沛芯 "wikilink")（貝果）、[林靖軒](https://zh.wikipedia.org/wiki/林靖軒_\(藝人\) "wikilink")（靖軒）、[黃怡瑄](https://zh.wikipedia.org/wiki/黃怡瑄 "wikilink")（Kadi）、[彭郁真](https://zh.wikipedia.org/wiki/彭郁真 "wikilink")（小班）等四位。其團員皆出身於網路節目《[校花點點名](https://zh.wikipedia.org/wiki/校花點點名 "wikilink")》，於2017年9月29日正式發行團體首張EP《Monster》。\[1\]\[2\]\[3\]\[4\]\[5\]
+**TUD**，台灣新生代[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，現任成員包括[姜沛芯](../Page/姜沛芯.md "wikilink")（貝果）、[林靖軒](../Page/林靖軒_\(藝人\).md "wikilink")（靖軒）、[黃怡瑄](../Page/黃怡瑄.md "wikilink")（Kadi）、[彭郁真](../Page/彭郁真.md "wikilink")（小班）等四位。其團員皆出身於網路節目《[校花點點名](https://zh.wikipedia.org/wiki/校花點點名 "wikilink")》，於2017年9月29日正式發行團體首張EP《Monster》。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 ## TUD 團名之由來
 
@@ -20,7 +20,7 @@ Duckling（醜小鴨）的英文[首字母縮略字](../Page/首字母縮略字.
 <td><p>style="width:180px|<strong>個人專頁</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/姜沛芯" title="wikilink">姜沛芯</a></p></td>
+<td><p><a href="../Page/姜沛芯.md" title="wikilink">姜沛芯</a></p></td>
 <td><p>貝果</p></td>
 <td></td>
 <td><ul>
@@ -34,7 +34,7 @@ Duckling（醜小鴨）的英文[首字母縮略字](../Page/首字母縮略字.
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center;|<a href="https://zh.wikipedia.org/wiki/林靖軒_(藝人)" title="wikilink">林靖軒</a></p></td>
+<td><p>style="text-align:center;|<a href="../Page/林靖軒_(藝人).md" title="wikilink">林靖軒</a></p></td>
 <td><p>三歲</p></td>
 <td></td>
 <td><ul>
@@ -49,7 +49,7 @@ Duckling（醜小鴨）的英文[首字母縮略字](../Page/首字母縮略字.
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>style="text-align:center;|<a href="https://zh.wikipedia.org/wiki/黃怡瑄" title="wikilink">黃怡瑄</a></p></td>
+<td><p>style="text-align:center;|<a href="../Page/黃怡瑄.md" title="wikilink">黃怡瑄</a></p></td>
 <td><p>Kadi</p></td>
 <td></td>
 <td><ul>
@@ -64,7 +64,7 @@ Duckling（醜小鴨）的英文[首字母縮略字](../Page/首字母縮略字.
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>style="text-align:center;|<a href="https://zh.wikipedia.org/wiki/彭郁真" title="wikilink">彭郁真</a></p></td>
+<td><p>style="text-align:center;|<a href="../Page/彭郁真.md" title="wikilink">彭郁真</a></p></td>
 <td><p>小班</p></td>
 <td></td>
 <td><ul>
@@ -94,7 +94,7 @@ Duckling（醜小鴨）的英文[首字母縮略字](../Page/首字母縮略字.
 <td><p>style="width:180px|<strong>個人專頁</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳芷妧" title="wikilink">陳芷妧</a></p></td>
+<td><p><a href="../Page/陳芷妧.md" title="wikilink">陳芷妧</a></p></td>
 <td><p>晚玩</p></td>
 <td></td>
 <td><ul>
@@ -184,7 +184,7 @@ Duckling（醜小鴨）的英文[首字母縮略字](../Page/首字母縮略字.
 | 2017年10月13日 | 《當我們喇在一起》（Live）                                                 | 17直播                                        | [來賓 TUD](https://www.facebook.com/LaTogetherLive/videos/1112796268861885/)                                             | 全員            |
 | 2017年10月17日 | 《[歡樂智多星](../Page/歡樂智多星.md "wikilink")》                          | 衛視中文台                                       | [歡樂運動會 TUD隊 TMD隊 挑戰賽](https://www.youtube.com/watch?v=n6QZfegvVZc)                                                     | 全員            |
 | 2017年10月18日 | 《安安大明星》（Live）                                                   | 三立線上直播                                      | [TUD專訪](https://www.youtube.com/watch?v=HbCKAqYw7uo)                                                                   | 全員            |
-| 2017年10月20日 | 《[天天樂財神](https://zh.wikipedia.org/wiki/天天樂財神 "wikilink")》       | 中天娛樂台                                       | [TUD新鮮人超可愛～　椅子用爬的還排「人形蜈蚣」](https://www.youtube.com/watch?v=jT0a62-otHc)                                                | 全員            |
+| 2017年10月20日 | 《[天天樂財神](../Page/天天樂財神.md "wikilink")》                          | 中天娛樂台                                       | [TUD新鮮人超可愛～　椅子用爬的還排「人形蜈蚣」](https://www.youtube.com/watch?v=jT0a62-otHc)                                                | 全員            |
 | 2017年10月27日 | 《[娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")》       | 八大綜合台                                       | [新聲耳mazing](https://www.youtube.com/watch?v=JRD_smd-YcU)                                                               | 全員            |
 | 2017年10月28日 | 《新電玩快打》                                                         | 緯來綜合台                                       | [萬聖節全民熱鬧運動會](https://www.youtube.com/watch?v=J6SZgBYTiGA)                                                              | 全員            |
 | 2017年10月28日 | 《[娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")》       | 八大綜合台                                       | [百分百遊戲王](https://www.youtube.com/watch?v=fi4xEg5wuHc)                                                                  | 小班、靖軒         |
@@ -222,9 +222,9 @@ Duckling（醜小鴨）的英文[首字母縮略字](../Page/首字母縮略字.
 
 ## TUD 2018零元徒步環島計畫
 
-TUD五名團員於2018年1月24日，啟動「零元徒步環島計畫」（又名「TUD公轉自轉」），當天正好是團員[姜沛芯（貝果）生日](https://zh.wikipedia.org/wiki/姜沛芯 "wikilink")。為累積人氣與知名度，五位團員由台灣南部（高雄）開始，徒步深入各角落，拜訪了傳統市場、老人院、幼兒園、廟宇、商場與風景區等，沿途除了打工賺旅費外，也利用17直播與臉書直播，將現場即時畫面與各地網友分享。\[8\]\[9\]\[10\]
+TUD五名團員於2018年1月24日，啟動「零元徒步環島計畫」（又名「TUD公轉自轉」），當天正好是團員[姜沛芯（貝果）生日](../Page/姜沛芯.md "wikilink")。為累積人氣與知名度，五位團員由台灣南部（高雄）開始，徒步深入各角落，拜訪了傳統市場、老人院、幼兒園、廟宇、商場與風景區等，沿途除了打工賺旅費外，也利用17直播與臉書直播，將現場即時畫面與各地網友分享。\[8\]\[9\]\[10\]
 
-2018年2月6日，也就是「零元徒步環島計畫」的第14天，團員們夜宿高雄市路竹區的當晚11點50分，花蓮發生震度高達7級的強震，多棟樓房倒塌。老家在花蓮的[貝果非常擔心花蓮親友的狀況](https://zh.wikipedia.org/wiki/姜沛芯 "wikilink")，一度想中止計畫趕回花蓮，後來得知家人都平安才打消中斷計畫的念頭。從新聞報導得知花蓮災情慘重，TUD團員們一致決定捐助沿途打工賺來的旅費新台幣一萬元，幫助花蓮鄉親做為救災之急用。\[11\]
+2018年2月6日，也就是「零元徒步環島計畫」的第14天，團員們夜宿高雄市路竹區的當晚11點50分，花蓮發生震度高達7級的強震，多棟樓房倒塌。老家在花蓮的[貝果非常擔心花蓮親友的狀況](../Page/姜沛芯.md "wikilink")，一度想中止計畫趕回花蓮，後來得知家人都平安才打消中斷計畫的念頭。從新聞報導得知花蓮災情慘重，TUD團員們一致決定捐助沿途打工賺來的旅費新台幣一萬元，幫助花蓮鄉親做為救災之急用。\[11\]
 
 截至2018年3月3日，TUD共計以34天的時間完成徒步行走高雄全部38個行政區的任務，並於次日(2018年3月4日)於高雄市苓雅區的飛行家青年旅館舉辦首場粉絲見面會。
 

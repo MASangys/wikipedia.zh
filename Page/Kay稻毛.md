@@ -3,7 +3,7 @@
 ## 人物簡介
 
 舊藝名**稻毛一弘**（）。現在是所屬\[2\]，原[大阪TV talent
-bureau（簡稱TTB）](https://zh.wikipedia.org/wiki/大阪TV_talent_bureau "wikilink")、所屬。
+bureau（簡稱TTB）](../Page/大阪TV_talent_bureau.md "wikilink")、所屬。
 
 除了主要從事柏青哥節目的實況和旁述、[電台DJ](https://zh.wikipedia.org/wiki/電台 "wikilink")（在）之外。也有參加電玩遊戲的角色配音演出，為人熟悉的代表配音作品是[SNK電玩](https://zh.wikipedia.org/wiki/SNK_Playmore "wikilink")[格鬥遊戲](../Page/格鬥遊戲.md "wikilink")《[龍虎之拳](../Page/龍虎之拳.md "wikilink")》系列的主角羅伯特·卡爾西亞（之後也在格鬥天王系列及其他格鬥遊戲出場）、《[侍魂](../Page/侍魂系列.md "wikilink")》系列的加爾福特、千兩狂死郎及《[格鬥天王](../Page/拳皇系列.md "wikilink")》系列的拉奇·克勞勃。
 
@@ -96,6 +96,6 @@ bureau（簡稱TTB）](https://zh.wikipedia.org/wiki/大阪TV_talent_bureau "wik
 
 2.
 3.
-4.  除了《'96》至《2003》由[小市慢太郎配音之外](https://zh.wikipedia.org/wiki/小市慢太郎 "wikilink")，《XIV》開始改由配音。
+4.  除了《'96》至《2003》由[小市慢太郎配音之外](../Page/小市慢太郎.md "wikilink")，《XIV》開始改由配音。
 
 5.  《侍魂 (1993年)》～《斬紅郎無雙劍》、《閃》擔任。

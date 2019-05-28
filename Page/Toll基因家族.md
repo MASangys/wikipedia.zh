@@ -1,5 +1,5 @@
 **Toll基因**\[1\]编码[Toll样受体蛋白家族](../Page/Toll样受体.md "wikilink")。Toll基因的突变最初由1995年诺贝尔奖得主[克里斯汀·紐斯林-沃爾哈德以及](../Page/克里斯汀·紐斯林-沃爾哈德.md "wikilink")[艾瑞克·威斯喬斯以及他们的同事於](../Page/艾瑞克·威斯喬斯.md "wikilink")1985年在[黑腹](../Page/黑腹果蝇.md "wikilink")[果蝇](https://zh.wikipedia.org/wiki/果蝇 "wikilink")（*Drosophila
-melanogaster*）体内发现\[2\]，并由凯瑟琳·安德森的实验室在1988年克隆\[3\]。至今，共确认了十三种[哺乳动物的Toll基因](../Page/哺乳动物.md "wikilink")。在苍蝇体内，Toll基因最初被认为是一种对[胚胎發育中的背](https://zh.wikipedia.org/wiki/胚胎發育 "wikilink")-腹轴建立过程很重要的基因。1996年，研究人员发现，Toll基因会在苍蝇对[真菌](https://zh.wikipedia.org/wiki/真菌 "wikilink")[感染的](https://zh.wikipedia.org/wiki/感染 "wikilink")[免疫过程中发挥作用](../Page/免疫.md "wikilink")\[4\]。哺乳动物和無脊椎動物的Toll基因都为[先天免疫系統所必需](../Page/先天免疫系統.md "wikilink")。
+melanogaster*）体内发现\[2\]，并由凯瑟琳·安德森的实验室在1988年克隆\[3\]。至今，共确认了十三种[哺乳动物的Toll基因](../Page/哺乳动物.md "wikilink")。在苍蝇体内，Toll基因最初被认为是一种对[胚胎發育中的背](https://zh.wikipedia.org/wiki/胚胎發育 "wikilink")-腹轴建立过程很重要的基因。1996年，研究人员发现，Toll基因会在苍蝇对[真菌](../Page/真菌.md "wikilink")[感染的](https://zh.wikipedia.org/wiki/感染 "wikilink")[免疫过程中发挥作用](../Page/免疫.md "wikilink")\[4\]。哺乳动物和無脊椎動物的Toll基因都为[先天免疫系統所必需](../Page/先天免疫系統.md "wikilink")。
 
 哺乳动物的Toll样受体在1997年由[耶鲁大学的](../Page/耶鲁大学.md "wikilink")（Ruslan
 Medzhitov）以及（Charles

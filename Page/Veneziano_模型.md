@@ -1,4 +1,4 @@
-[粒子物理学中](https://zh.wikipedia.org/wiki/粒子物理学 "wikilink")，**韦内齐亚诺模型**\[1\]（）是一个簡單的4粒子[散射模型](../Page/散射.md "wikilink")，特徵是它明顯有s-channel和t-channel的交叉對稱性。它由[加布里埃莱·韦内齐亚诺在](https://zh.wikipedia.org/wiki/加布里埃莱·韦内齐亚诺 "wikilink")1968年提出。經過很多人的努力後，引出了對偶共振態模型，後來改名为[弦論](https://zh.wikipedia.org/wiki/弦論 "wikilink")。
+[粒子物理学中](https://zh.wikipedia.org/wiki/粒子物理学 "wikilink")，**韦内齐亚诺模型**\[1\]（）是一个簡單的4粒子[散射模型](../Page/散射.md "wikilink")，特徵是它明顯有s-channel和t-channel的交叉對稱性。它由[加布里埃莱·韦内齐亚诺在](../Page/加布里埃莱·韦内齐亚诺.md "wikilink")1968年提出。經過很多人的努力後，引出了對偶共振態模型，後來改名为[弦論](https://zh.wikipedia.org/wiki/弦論 "wikilink")。
 
 韦内齐亚诺假設的散射波幅 (Veneziano amplitude)是：
 

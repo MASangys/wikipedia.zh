@@ -19,7 +19,7 @@ Leela在2008年的[奧林匹亞電腦遊戲程式競賽中](../Page/奧林匹亞
 
 ### CGOS
 
-目前在[CGOS上最強的帳號為](https://zh.wikipedia.org/wiki/CGOS "wikilink")`Leela-0.10.5-16t1g`\[17\]，這個帳號是使用[AMD
+目前在[CGOS上最強的帳號為](../Page/CGOS.md "wikilink")`Leela-0.10.5-16t1g`\[17\]，這個帳號是使用[AMD
 Ryzen](../Page/AMD_Ryzen.md "wikilink")
 1700與[Nvidia](https://zh.wikipedia.org/wiki/Nvidia "wikilink") GeForce
 GTX 1080 Ti運算\[18\]，BayesElo約3590分\[19\]。
@@ -27,13 +27,13 @@ GTX 1080 Ti運算\[18\]，BayesElo約3590分\[19\]。
 目前最新版0.11.0版中，表現最好的帳號是`Leela0110_vega6c`\[20\]，BayesElo約3570分\[21\]。
 
 另外有志願者將0.11.0版設定特殊參數放到CGOS上與其他軟體比較（即`leela-0.11.0-p1600`\[22\]），這是為了與[Leela
-Zero比較](https://zh.wikipedia.org/wiki/Leela_Zero "wikilink")，所以使用與Leela
+Zero比較](../Page/Leela_Zero.md "wikilink")，所以使用與Leela
 Zero測試時相同的參數。這個版本BayesElo約3070分\[23\]。
 
 ## 相關連結
 
   - [AlphaGo](../Page/AlphaGo.md "wikilink")
-  - [Leela Zero](https://zh.wikipedia.org/wiki/Leela_Zero "wikilink")
+  - [Leela Zero](../Page/Leela_Zero.md "wikilink")
   - [電腦圍棋](https://zh.wikipedia.org/wiki/電腦圍棋 "wikilink")
   - [圍棋軟體](https://zh.wikipedia.org/wiki/圍棋軟體 "wikilink")
 

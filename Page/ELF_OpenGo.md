@@ -5,7 +5,7 @@ Research團隊（）所開發的[電腦圍棋軟體及所釋出的資料](https:
 
 ELF OpenGo是[Facebook](../Page/Facebook.md "wikilink") AI
 Research團隊（）依照[DeepMind在科學期刊](../Page/DeepMind.md "wikilink")《[自然](../Page/自然_\(期刊\).md "wikilink")》上對於[AlphaGo
-Zero所發表的論文](../Page/AlphaGo_Zero.md "wikilink")《\[2\]》與[AlphaZero的論文](https://zh.wikipedia.org/wiki/AlphaZero "wikilink")《\[3\]》所實做出的[開源電腦圍棋程式](https://zh.wikipedia.org/wiki/開源 "wikilink")\[4\]，也就是不使用人類棋譜與累積的圍棋知識，僅實做[圍棋規則](https://zh.wikipedia.org/wiki/圍棋規則 "wikilink")，使用單一[類神經網路從自我對弈中學習](https://zh.wikipedia.org/wiki/類神經網路 "wikilink")（不像[AlphaGo以人類角度思考](../Page/AlphaGo.md "wikilink")，設計了Policy
+Zero所發表的論文](../Page/AlphaGo_Zero.md "wikilink")《\[2\]》與[AlphaZero的論文](../Page/AlphaZero.md "wikilink")《\[3\]》所實做出的[開源電腦圍棋程式](https://zh.wikipedia.org/wiki/開源 "wikilink")\[4\]，也就是不使用人類棋譜與累積的圍棋知識，僅實做[圍棋規則](https://zh.wikipedia.org/wiki/圍棋規則 "wikilink")，使用單一[類神經網路從自我對弈中學習](https://zh.wikipedia.org/wiki/類神經網路 "wikilink")（不像[AlphaGo以人類角度思考](../Page/AlphaGo.md "wikilink")，設計了Policy
 Network與Value Network）。
 
 訓練網路使用20 blocks x 224

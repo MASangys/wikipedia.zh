@@ -22,7 +22,7 @@
 <td><p><a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a><br />
 <a href="../Page/PlayStation_Vita.md" title="wikilink">PlayStation Vita</a><br />
 <a href="https://zh.wikipedia.org/wiki/Windows" title="wikilink">Windows</a>[2]<br />
-<a href="https://zh.wikipedia.org/wiki/任天堂Switch" title="wikilink">任天堂Switch</a></p></td>
+<a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

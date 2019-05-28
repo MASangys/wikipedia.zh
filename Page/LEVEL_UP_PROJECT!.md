@@ -1,12 +1,12 @@
 《**LEVEL UP
 PROJECT\!**》（）是[韓國Oksusu的](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[真人實境-{zh-hans:秀;zh-hant:秀;zh-hk:騷}-](../Page/真人實境秀.md "wikilink")，由[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet拍攝](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。
+Velvet拍攝](../Page/Red_Velvet.md "wikilink")。
 
 2017年7月27日起逢星期四至六[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")10:00在手機視頻APP“Oksusu”先行播出。
 
 2017年8月2日在[KBS
 Joy每週三](https://zh.wikipedia.org/wiki/KBS_Joy "wikilink")14:10首次播出。為[Red
-Velvet首個實境節目](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")\[1\]。
+Velvet首個實境節目](../Page/Red_Velvet.md "wikilink")\[1\]。
 
 ## 節目介紹
 
@@ -20,7 +20,7 @@ Velvet首個實境節目](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")\[
 ## 演出成員
 
   - [Irene](https://zh.wikipedia.org/wiki/裴柱現 "wikilink")
-  - [Seulgi](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")
+  - [Seulgi](../Page/瑟琪.md "wikilink")
   - [Wendy](https://zh.wikipedia.org/wiki/孙胜完 "wikilink")
   - [Yeri](../Page/Yeri.md "wikilink")
   - 塔察拉·隆普拉塞德 （28歲，曾是[NCT Life In

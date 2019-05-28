@@ -50,7 +50,7 @@
 
 ## 参见
 
-  - [中国国际贸易中心三期B阶段](https://zh.wikipedia.org/wiki/中国国际贸易中心三期B阶段 "wikilink")
+  - [中国国际贸易中心三期B阶段](../Page/中国国际贸易中心三期B阶段.md "wikilink")
   - [北京摩天大楼列表](https://zh.wikipedia.org/wiki/北京摩天大楼列表 "wikilink")
   - [中华人民共和国摩天大楼](https://zh.wikipedia.org/wiki/中华人民共和国摩天大楼 "wikilink")
 

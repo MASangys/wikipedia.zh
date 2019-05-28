@@ -39,12 +39,12 @@ MEDIA綜合學院的[合資公司](../Page/合資公司.md "wikilink")，並更�
 <li><a href="../Page/小菅真美.md" title="wikilink">小菅真美</a></li>
 <li></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/佐佐木優子" title="wikilink">佐佐木優子</a></li>
+<li><a href="../Page/佐佐木優子.md" title="wikilink">佐佐木優子</a></li>
 <li><a href="../Page/定岡小百合.md" title="wikilink">定岡小百合</a></li>
 <li><a href="../Page/設樂麻美.md" title="wikilink">設樂麻美</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/島形麻衣奈" title="wikilink">島形麻衣奈</a></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/藏合紗惠子" title="wikilink">藏合紗惠子</a></li>
+<li><a href="../Page/藏合紗惠子.md" title="wikilink">藏合紗惠子</a></li>
 <li></li>
 <li></li>
 <li><a href="https://zh.wikipedia.org/wiki/鳥羽優好" title="wikilink">鳥羽優好</a></li>
@@ -62,7 +62,7 @@ MEDIA綜合學院的[合資公司](../Page/合資公司.md "wikilink")，並更�
 <li></li>
 <li></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/水谷麻鈴" title="wikilink">水谷麻鈴</a></li>
+<li><a href="../Page/水谷麻鈴.md" title="wikilink">水谷麻鈴</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/水村有里" title="wikilink">水村有里</a></li>
 <li></li>
 <li><a href="../Page/美名.md" title="wikilink">美名</a></li>
@@ -101,7 +101,7 @@ MEDIA綜合學院的[合資公司](../Page/合資公司.md "wikilink")，並更�
 <li></li>
 <li><a href="https://zh.wikipedia.org/wiki/黑羽保" title="wikilink">黑羽保</a></li>
 <li><a href="../Page/河本啟佑.md" title="wikilink">河本啟佑</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/里卓哉" title="wikilink">里卓哉</a></li>
+<li><a href="../Page/里卓哉.md" title="wikilink">里卓哉</a></li>
 <li></li>
 <li><a href="https://zh.wikipedia.org/wiki/菅井一步" title="wikilink">菅井一步</a></li>
 <li></li>
@@ -170,7 +170,7 @@ MEDIA綜合學院的[合資公司](../Page/合資公司.md "wikilink")，並更�
 <li><a href="https://zh.wikipedia.org/wiki/水野惠理子" title="wikilink">水野惠理子</a></li>
 <li><p>（）</p></li>
 <li></li>
-<li><a href="https://zh.wikipedia.org/wiki/八木侑紀" title="wikilink">八木侑紀</a></li>
+<li><a href="../Page/八木侑紀.md" title="wikilink">八木侑紀</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/矢部仁美" title="wikilink">矢部仁美</a></li>
 <li><a href="../Page/山田奈都美.md" title="wikilink">山田奈都美</a></li>
 <li></li>
@@ -392,7 +392,7 @@ MEDIA綜合學院的[合資公司](../Page/合資公司.md "wikilink")，並更�
 
   - [南埜高之](https://zh.wikipedia.org/wiki/南埜高之 "wikilink")
 
-  - [增川洋一](https://zh.wikipedia.org/wiki/增川洋一 "wikilink")（現自由身）
+  - [增川洋一](../Page/增川洋一.md "wikilink")（現自由身）
 
   - [三好一平](https://zh.wikipedia.org/wiki/三好一平 "wikilink")
 

@@ -2,8 +2,7 @@
 TV電視台製作的綜藝節目](https://zh.wikipedia.org/wiki/Olive_TV "wikilink")，第一季至第六季均由[朴秀真夥拍不同搭檔主持節目](../Page/朴秀真.md "wikilink")，包括諧星朴智宣、[金成恩](../Page/金成恩.md "wikilink")、[Lizzy](https://zh.wikipedia.org/wiki/Lizzy "wikilink")（[After
 School](../Page/After_School.md "wikilink")）\[1\]。隨著《Tasty Road
 2015》（亦即本節目系列之第六季）播出完畢，[朴秀真亦宣布告別節目](../Page/朴秀真.md "wikilink")，[Lizzy亦同時退出](https://zh.wikipedia.org/wiki/Lizzy "wikilink")。《Tasty
-Road
-2016》改由[Yura](https://zh.wikipedia.org/wiki/Yura "wikilink")（[Girl's
+Road 2016》改由[Yura](../Page/Yura.md "wikilink")（[Girl's
 Day](../Page/Girl's_Day.md "wikilink")）、[金玟廷主持](../Page/金玟廷.md "wikilink")。節目每集會指定尋找的韓國美食，並邀請藝人擔任來賓，一同與主持達成目標\[2\]。
 
 ## 節目播出相關事件
@@ -36,7 +35,7 @@ Day](../Page/Girl's_Day.md "wikilink")）、[金玟廷主持](../Page/金玟廷.
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2016年2月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/素珍" title="wikilink">素珍</a>（<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>）、<a href="https://zh.wikipedia.org/wiki/梁世炯" title="wikilink">梁世炯</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/素珍" title="wikilink">素珍</a>（<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>）、<a href="../Page/梁世炯.md" title="wikilink">梁世炯</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -156,12 +155,12 @@ Day](../Page/Girl's_Day.md "wikilink")）、[金玟廷主持](../Page/金玟廷.
 <tr class="odd">
 <td><p>25</p></td>
 <td><p>2016年9月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洪允和" title="wikilink">洪允和</a>、</p></td>
+<td><p><a href="../Page/洪允和.md" title="wikilink">洪允和</a>、</p></td>
 </tr>
 <tr class="even">
 <td><p>26</p></td>
 <td><p>2016年9月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張度練" title="wikilink">張度練</a>、<a href="https://zh.wikipedia.org/wiki/梁世燦" title="wikilink">梁世燦</a></p></td>
+<td><p><a href="../Page/張度練.md" title="wikilink">張度練</a>、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>27</p></td>

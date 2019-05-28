@@ -5,8 +5,7 @@ Planet娱乐推出的四人女子组合，現由Rui、Yehin、Chehee、Seoryeong
 
 Rui曾在第十三、十四届《[MBC偶像明星运动会](https://zh.wikipedia.org/wiki/MBC偶像明星運動會 "wikilink")》（2017－18年）的女子田径60米项目获得冠军，第二次獲勝時成為第二位女選手打破9秒關口（8.99秒，離大會紀錄僅差0.01秒），並在2017年參加综艺节目《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》。
 
-2017年10月，Hyosun参加综艺节目《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》。
+2017年10月，Hyosun参加综艺节目《[The Unit](../Page/The_Unit.md "wikilink")》。
 
 ## 历史
 
@@ -15,7 +14,7 @@ Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》。
 11月24日，H.U.B以Gracie、Yui、Yuem、Keina四人姿態发布數位單曲《我们一起的时间》（우리가 함께한
 시간）正式出道，並由Gracie擔任隊長一職。
 
-### 2017年：發行單曲、新成員加入、成員參加選秀節目《[The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》及《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》
+### 2017年：發行單曲、新成員加入、成員參加選秀節目《[The Unit](../Page/The_Unit.md "wikilink")》及《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》
 
 2月9日，发行第二張数位單曲《女孩們》（미친듯이）。
 
@@ -26,7 +25,7 @@ Band成員、《[PRODUCE
 6月1日，发行第三張数位單曲《Ooh Ooh》。
 
 10月，Rui參加選秀節目《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，最終排名為第25名；而Hyosun則參加選秀節目《[The
-Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》，最終排名為第19名。
+Unit](../Page/The_Unit.md "wikilink")》，最終排名為第19名。
 
 ### 2018年：成員退出、新成員加入
 

@@ -151,7 +151,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李哲民_(演員)" title="wikilink">李哲民</a></p></td>
+<td><p><a href="../Page/李哲民_(演員).md" title="wikilink">李哲民</a></p></td>
 <td><p>民哲</p></td>
 <td><p>朴冠守的祕書官。最後因勢力變動，倒向勢力最大的一邊，並成為逼迫朴冠守自殺的人。</p></td>
 <td><p><a href="../Page/劉奕希.md" title="wikilink">劉奕希</a></p></td>
@@ -207,14 +207,14 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/廉惠蘭" title="wikilink">廉惠蘭</a></p></td>
+<td><p><a href="../Page/廉惠蘭.md" title="wikilink">廉惠蘭</a></p></td>
 <td></td>
 <td><p>JSS萬年科長，負責安娜的生活起居。</p></td>
 <td><p><a href="../Page/蔡惠萍.md" title="wikilink">蔡惠萍</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/車順裴" title="wikilink">車順裴</a></p></td>
+<td><p><a href="../Page/車順裴.md" title="wikilink">車順裴</a></p></td>
 <td></td>
 <td><p>醫生。</p></td>
 <td></td>

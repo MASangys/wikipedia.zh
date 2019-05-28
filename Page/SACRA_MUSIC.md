@@ -6,12 +6,12 @@ MUSIC**（）是[日本索尼音樂娛樂的旗下的子公司](../Page/日本�
   - [藍井艾露](../Page/藍井艾露.md "wikilink")\[1\]
   - [ASCA](../Page/ASCA.md "wikilink")
   - [綾野ましろ](../Page/綾野真白.md "wikilink")\[2\]
-  - [=LOVE](https://zh.wikipedia.org/wiki/=LOVE "wikilink")
+  - [=LOVE](../Page/=LOVE.md "wikilink")
   - [EGOIST](../Page/EGOIST.md "wikilink")\[3\]
   - [ELISA](../Page/ELISA_\(歌手\).md "wikilink")\[4\]
   - [輝夜月](https://zh.wikipedia.org/wiki/輝夜月 "wikilink")
   - [Kalafina](../Page/Kalafina.md "wikilink")\[5\]
-  - [GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")\[6\]
+  - [GARNiDELiA](../Page/GARNiDELiA.md "wikilink")\[6\]
   - [ClariS](../Page/ClariS.md "wikilink")\[7\]
   - [齊藤壯馬](https://zh.wikipedia.org/wiki/齊藤壯馬 "wikilink")
   - [佐香智久](../Page/佐香智久.md "wikilink")\[8\]
@@ -26,7 +26,7 @@ MUSIC**（）是[日本索尼音樂娛樂的旗下的子公司](../Page/日本�
   - [PENGUIN
     RESEARCH](https://zh.wikipedia.org/wiki/PENGUIN_RESEARCH "wikilink")\[16\]
   - [LiSA](../Page/LiSA.md "wikilink")\[17\]
-  - [ReoNa](https://zh.wikipedia.org/wiki/ReoNa "wikilink")
+  - [ReoNa](../Page/ReoNa.md "wikilink")
 
 ## 註釋
 

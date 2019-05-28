@@ -58,7 +58,7 @@ Online》一個人盡情遊玩的女性玩家，她最喜歡可愛的東西，�
     SJ2時在香蓮的請求下從ALO轉移到GGO，和蓮一起組隊參加SJ2。
     SJ2大賽中主要以槍榴彈砲擊和煙霧彈干擾來支援蓮戰鬥，與Pitohui的對決時也駕駛悍馬車營救處於危險中的蓮。
     遊戲中的角色是一個金色直髮、瞳色是微紅的茶色的嬌小少女，角色為F8000系列。身高大約150CM、外貌給人的感覺相當銳利，就像是一看見就會湧起警戒心的惡魔使者或是像魔女的見習生那樣的感覺。背後的頭髮纏成團子狀髮髻然後用髮釵插上、服裝是綠色[多地形迷彩戰鬥服然後穿著可裝載槍榴彈的綠色防彈背心](https://zh.wikipedia.org/wiki/多地形迷彩 "wikilink")。繼承自ALO的能力值，除了敏捷和靈活度比蓮低以外，其它數值都大大的超越蓮。駕駛車輛的技術是美優從現實世界和競速賽車遊戲中習得的。
-    戰鬥中擔任火力支援、因為擁有高筋力值，所以可以雙手同時靈活運用兩把[MGL-140](https://zh.wikipedia.org/wiki/米爾科姆轉輪連發式榴彈發射器 "wikilink")6發肩射型榴彈發射器（右手持的稱為「右太」、左手持得稱為「左子」）。武器除槍榴彈發射器外還有一把[史密斯威森M\&P](https://zh.wikipedia.org/wiki/史密斯威森軍警型半自動手槍 "wikilink")9毫米口徑自動手槍，和加工成髮髻的一把軍刀。背包的儲存空間幾乎都拿來裝預備的槍榴彈。
+    戰鬥中擔任火力支援、因為擁有高筋力值，所以可以雙手同時靈活運用兩把[MGL-140](https://zh.wikipedia.org/wiki/米爾科姆轉輪連發式榴彈發射器 "wikilink")6發肩射型榴彈發射器（右手持的稱為「右太」、左手持得稱為「左子」）。武器除槍榴彈發射器外還有一把[史密斯威森M\&P](../Page/史密斯威森軍警型半自動手槍.md "wikilink")9毫米口徑自動手槍，和加工成髮髻的一把軍刀。背包的儲存空間幾乎都拿來裝預備的槍榴彈。
     在GGO時的鍛鍊使她在SJ2大賽時不用眼見目標物，只要照著指示方向就可以擊中遠方的敵人。在ALO的戰鬥經驗也活用在近距離戰鬥中，將長型槍枝雙手握持像是揮舞劍般鈍擊敵人。只是手槍技術爛到不行，就算敵人近在眼前也能全部射偏。
     在ALO中角色種族是風之精靈，是一名使用劍的劍士，游戏角色名字取自家中從小到大一直陪伴著自己但已經過世的寵物犬。
     在《[刀劍神域劇場版：序列爭戰](../Page/刀劍神域劇場版：序列爭戰.md "wikilink")》中節目MMO
@@ -96,7 +96,7 @@ Online》一個人盡情遊玩的女性玩家，她最喜歡可愛的東西，�
     「**M**e**m**en**t**o
     **m**ori（）」的簡稱，為拉丁文的諺語，意思是「記住你將有一天會死亡」。團員身上具有骷髏臂章，SJ2起服裝統一為綠色以直線基調組合起來的舊瑞典軍隊迷彩服。為具有中堅實力的強隊之一。
       -
-        中隊隊長，武器為「STM-556」和「[斯泰爾M9A手槍](https://zh.wikipedia.org/wiki/斯泰爾M手槍 "wikilink")」和一把光劍「之定N2」，現實中為速遞公司員工。
+        中隊隊長，武器為「STM-556」和「[斯泰爾M9A手槍](../Page/斯泰爾M手槍.md "wikilink")」和一把光劍「之定N2」，現實中為速遞公司員工。
         在遊戲黎明期曾與Pitohui待過同一中隊，是少數知道Pitohui危險程度的人。曾給予Pitohui的瘋狂「似乎想要忘記自己還活著」的評語。
       -
         中隊副隊長，武器為「[HK21通用機槍](../Page/HK21通用機槍.md "wikilink")」。
@@ -468,27 +468,27 @@ one特種部隊，所處的部隊是必須對外保持機密的存在，從軍�
 :; 「」（第2話、第3話）
 
 :: 填詞：ハヤシケイ（LIVE LAB.），作曲：rui（fade），編曲：毛蟹（LIVE LAB.），主唱：神崎艾莎
-（[ReoNa](https://zh.wikipedia.org/wiki/ReoNa "wikilink")）
+（[ReoNa](../Page/ReoNa.md "wikilink")）
 
 :; 「step, step」（第4話）
 
 :: 填詞：ハヤシケイ（LIVE LAB.），作曲、編曲：毛蟹（LIVE
-LAB.），主唱：神崎艾莎（[ReoNa](https://zh.wikipedia.org/wiki/ReoNa "wikilink")）
+LAB.），主唱：神崎艾莎（[ReoNa](../Page/ReoNa.md "wikilink")）
 
 :; 「Independence」（第5話、第5.5話、第11話）
 
 :: 填詞：ハヤシケイ（LIVE LAB.），作曲、編曲：毛蟹（LIVE
-LAB.），主唱：神崎艾莎（[ReoNa](https://zh.wikipedia.org/wiki/ReoNa "wikilink")）
+LAB.），主唱：神崎艾莎（[ReoNa](../Page/ReoNa.md "wikilink")）
 
 :; 「ヒカリ」（第6話）
 
 :: 填詞：ハヤシケイ（LIVE LAB.），作曲、編曲：毛蟹（LIVE
-LAB.），主唱：神崎艾莎（[ReoNa](https://zh.wikipedia.org/wiki/ReoNa "wikilink")）
+LAB.），主唱：神崎艾莎（[ReoNa](../Page/ReoNa.md "wikilink")）
 
 :; 「Disorder」（第9話）
 
 :: 填詞：ハヤシケイ（LIVE LAB.），作曲、編曲：毛蟹（LIVE
-LAB.），主唱：神崎艾莎（[ReoNa](https://zh.wikipedia.org/wiki/ReoNa "wikilink")）
+LAB.），主唱：神崎艾莎（[ReoNa](../Page/ReoNa.md "wikilink")）
 
 :; 「Rea(s)oN」（第12話）
 
@@ -496,7 +496,7 @@ LAB.），主唱：神崎艾莎（[ReoNa](https://zh.wikipedia.org/wiki/ReoNa "w
 
       -
         填詞：ハヤシケイ（LIVE LAB.），作曲、編曲：毛蟹（LIVE
-        LAB.），主唱：神崎艾莎（[ReoNa](https://zh.wikipedia.org/wiki/ReoNa "wikilink")）
+        LAB.），主唱：神崎艾莎（[ReoNa](../Page/ReoNa.md "wikilink")）
 
 ### 各話列表
 

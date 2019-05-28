@@ -35,7 +35,7 @@ JAM**（）是[日本的](../Page/日本.md "wikilink")[動畫製作公司](../P
 <td><p>[3]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Just_Because!" title="wikilink">Just Because!</a></p></td>
+<td><p><a href="../Page/Just_Because!.md" title="wikilink">Just Because!</a></p></td>
 <td><p>10月－12月</p></td>
 <td><p>[4]</p></td>
 <td></td>

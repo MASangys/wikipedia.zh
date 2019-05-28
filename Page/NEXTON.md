@@ -279,11 +279,10 @@ Light的作品請參閱[BaseSon](../Page/BaseSon.md "wikilink")。
 
 ### あざらしそふと
 
-  - 2014年12月19日
-    [アマカノ](https://zh.wikipedia.org/wiki/甜蜜女友 "wikilink")\[7\]
+  - 2014年12月19日 [アマカノ](../Page/甜蜜女友.md "wikilink")\[7\]
   - 2015年10月30日 ロイヤルガーデン ～乙女に恋する皇子の戯曲～
   - 2015年12月25日 アマカノ ～Second Season～\[8\]
-  - 2016年12月22日 [アマカノ＋](https://zh.wikipedia.org/wiki/甜蜜女友 "wikilink")
+  - 2016年12月22日 [アマカノ＋](../Page/甜蜜女友.md "wikilink")
   - 2017年1月27日 アイカギ
   - 2017年12月22日 アマカノ ～Second Season～＋
   - 2018年1月26日 アイカギ ～アフターデイズ～

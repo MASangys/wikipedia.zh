@@ -26,7 +26,7 @@ One平台發行](../Page/Xbox_One.md "wikilink")\[2\]。該遊戲與前作相隔
 
   - [夢魘](../Page/夢魘_\(劍魂\).md "wikilink")\[13\]
 
-  - [齊格飛](https://zh.wikipedia.org/wiki/齊格飛·胥陶芬 "wikilink")
+  - [齊格飛](../Page/齊格飛·胥陶芬.md "wikilink")
 
   - \[14\]
 

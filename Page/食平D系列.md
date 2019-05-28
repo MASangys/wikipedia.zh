@@ -6,12 +6,10 @@
 \*第三輯：《**[食平3D](../Page/食平3D.md "wikilink")**》，共40集；
 \*第四輯：《**[暖DD·食平D](../Page/暖DD·食平D.md "wikilink")**》，共30集；
 \*第五輯：《**[今個夏天食平D](../Page/今個夏天食平D.md "wikilink")**》，共30集；
-\*第六輯：《**[阿媽教落食平D](https://zh.wikipedia.org/wiki/阿媽教落食平D "wikilink")**》，共25集；
-\*第七輯：《**[食好D
-食平D](https://zh.wikipedia.org/wiki/食好D_食平D "wikilink")**》（第一季），共30集；
+\*第六輯：《**[阿媽教落食平D](../Page/阿媽教落食平D.md "wikilink")**》，共25集；
+\*第七輯：《**[食好D 食平D](../Page/食好D_食平D.md "wikilink")**》（第一季），共30集；
 \*番外篇：《**[肥媽優質食好D](../Page/肥媽優質食好D.md "wikilink")**》，共5集。
-\*第八輯：《**[食好D
-食平D](https://zh.wikipedia.org/wiki/食好D_食平D "wikilink")**》（第二季），共30集；
+\*第八輯：《**[食好D 食平D](../Page/食好D_食平D.md "wikilink")**》（第二季），共30集；
 
 ## 播出時間
 
@@ -40,10 +38,10 @@
   - 第三輯：[食平3D](../Page/食平3D.md "wikilink")
   - 第四輯：[暖DD·食平D](../Page/暖DD·食平D.md "wikilink")
   - 第五輯：[今個夏天食平D](../Page/今個夏天食平D.md "wikilink")
-  - 第六輯：[阿媽教落食平D](https://zh.wikipedia.org/wiki/阿媽教落食平D "wikilink")
-  - 第七輯：[食好D 食平D](https://zh.wikipedia.org/wiki/食好D_食平D "wikilink")
+  - 第六輯：[阿媽教落食平D](../Page/阿媽教落食平D.md "wikilink")
+  - 第七輯：[食好D 食平D](../Page/食好D_食平D.md "wikilink")
   - 番外篇：[肥媽優質食好D](../Page/肥媽優質食好D.md "wikilink")
-  - 第八輯：[食好D 食平D](https://zh.wikipedia.org/wiki/食好D_食平D "wikilink")
+  - 第八輯：[食好D 食平D](../Page/食好D_食平D.md "wikilink")
 
 ## 外部連結
 

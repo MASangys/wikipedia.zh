@@ -5,7 +5,7 @@ Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[操作系�
 
 对于几乎所有密码系统来说，最困难的挑战之一是“密钥管理”——其中部分即是，如何安全地存储解密密钥。如果密钥以纯文本存储，则可以访问密钥的任何用户都可以访问加密的数据。如果密钥被加密，则又需要另一个密钥，周而复始。DPAPI允许开发者使用从用户的登录私钥导出的对称密钥来加密密钥，或者在系统加密的情况下使用系统的域验证私钥来加密密钥。
 
-用于加密用户RSA密钥的DPAPI密钥存储在`%APPDATA%\Microsoft\Protect\{SID}`目录，其中{SID}为该用户的[安全标识符](https://zh.wikipedia.org/wiki/安全标识符 "wikilink")。DPAPI密钥存储在与保护用户私钥的主密钥相同的文件中。它通常为64字节的随机数据。
+用于加密用户RSA密钥的DPAPI密钥存储在`%APPDATA%\Microsoft\Protect\{SID}`目录，其中{SID}为该用户的[安全标识符](../Page/安全标识符.md "wikilink")。DPAPI密钥存储在与保护用户私钥的主密钥相同的文件中。它通常为64字节的随机数据。
 
 2010年，和在Black Hat DC 2010提出了Reversing DPAPI and Stealing Windows Secrets
 Offline。\[1\]除了他们的简报，Bursztein和Picod发布了能离线解密DPAPI加密数据的DPAPIck。2012年，Passcape
@@ -31,8 +31,7 @@ Explorer
 
   - [Windows
     8中的图片密码](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、PIN和指纹
-  - Windows
-    2000及之后版本中的[加密文件系统](https://zh.wikipedia.org/wiki/加密文件系统 "wikilink")
+  - Windows 2000及之后版本中的[加密文件系统](../Page/加密文件系统.md "wikilink")
   - SQL Server （TDE）服务的主加密密钥\[6\]
   - [Internet Explorer
     7](../Page/Internet_Explorer_7.md "wikilink")，无论是适用于[Windows

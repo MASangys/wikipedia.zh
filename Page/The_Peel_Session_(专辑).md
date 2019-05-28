@@ -1,5 +1,5 @@
 《[The Peel
-Session](https://zh.wikipedia.org/wiki/The_Peel_Session_\(专辑\) "wikilink")》是[西德·巴雷特](../Page/西德·巴雷特.md "wikilink")1987年1月25日出版的精选集。这张专辑包含了1970年5月24日他在John
+Session](../Page/The_Peel_Session_\(专辑\).md "wikilink")》是[西德·巴雷特](../Page/西德·巴雷特.md "wikilink")1987年1月25日出版的精选集。这张专辑包含了1970年5月24日他在John
 Peel Top Gear 表演的五首曲目\[1\]，并在不久之后播出。
 
 ## 曲目

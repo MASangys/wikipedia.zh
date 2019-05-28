@@ -13,7 +13,7 @@ Stage](https://zh.wikipedia.org/wiki/tvN_Drama_Stage "wikilink")，由導演[尹
 | [趙宇鎮](../Page/趙宇鎮.md "wikilink")                    | 沈秉善    | 皮鞋公司的科長，外型樸素老實。         |
 | [吳娜拉](../Page/吳娜拉.md "wikilink")                    | 金泰熙    | 。                       |
 | [姜制倫](https://zh.wikipedia.org/wiki/姜制倫 "wikilink") | 宋在賢    | 。                       |
-| [周錫泰](https://zh.wikipedia.org/wiki/周錫泰 "wikilink") | 金明彥    | 。                       |
+| [周錫泰](../Page/周錫泰.md "wikilink")                    | 金明彥    | 。                       |
 
 ## 收視率
 

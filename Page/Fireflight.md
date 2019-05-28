@@ -25,13 +25,11 @@
 
 ## 唱片
 
-  - *[The Healing of
-    Harms](https://zh.wikipedia.org/wiki/The_Healing_of_Harms "wikilink")*
+  - *[The Healing of Harms](../Page/The_Healing_of_Harms.md "wikilink")*
     (2006)
   - *[Unbreakable](https://zh.wikipedia.org/wiki/Unbreakable_\(Fireflight_album\) "wikilink")*
     (2008)
-  - *[For Those Who
-    Wait](https://zh.wikipedia.org/wiki/For_Those_Who_Wait "wikilink")*
+  - *[For Those Who Wait](../Page/For_Those_Who_Wait.md "wikilink")*
     (2010)
   - *[Now](https://zh.wikipedia.org/wiki/Now_\(Fireflight_album\) "wikilink")*
     (2012)
@@ -42,9 +40,9 @@
 
 | 年份                                                                                           | 歌曲                                                                                        | 專輯                                                                                         |
 | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| 2006                                                                                         | "[You Decide](https://zh.wikipedia.org/wiki/You_Decide_\(Fireflight_song\) "wikilink")"   | *[The Healing of Harms](https://zh.wikipedia.org/wiki/The_Healing_of_Harms "wikilink")*    |
+| 2006                                                                                         | "[You Decide](https://zh.wikipedia.org/wiki/You_Decide_\(Fireflight_song\) "wikilink")"   | *[The Healing of Harms](../Page/The_Healing_of_Harms.md "wikilink")*                       |
 | 2008                                                                                         | "[Unbreakable](https://zh.wikipedia.org/wiki/Unbreakable_\(Fireflight_song\) "wikilink")" | *[Unbreakable](https://zh.wikipedia.org/wiki/Unbreakable_\(Fireflight_album\) "wikilink")* |
-| 2010                                                                                         | "[Desperate](https://zh.wikipedia.org/wiki/Desperate_\(song\) "wikilink")"                | *[For Those Who Wait](https://zh.wikipedia.org/wiki/For_Those_Who_Wait "wikilink")*        |
+| 2010                                                                                         | "[Desperate](https://zh.wikipedia.org/wiki/Desperate_\(song\) "wikilink")"                | *[For Those Who Wait](../Page/For_Those_Who_Wait.md "wikilink")*                           |
 | "[For Those Who Wait](https://zh.wikipedia.org/wiki/For_Those_Who_Wait_\(song\) "wikilink")" |                                                                                           |                                                                                            |
 | 2012                                                                                         | "[Stay Close](https://zh.wikipedia.org/wiki/Stay_Close_\(Fireflight_song\) "wikilink")"   | *[Now](https://zh.wikipedia.org/wiki/Now_\(Fireflight_album\) "wikilink")*                 |
 | 2015                                                                                         | "We Are Alive"                                                                            | *[Innova](https://zh.wikipedia.org/wiki/Innova_\(album\) "wikilink")*                      |

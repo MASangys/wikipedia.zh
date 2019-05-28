@@ -1,9 +1,9 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:All-in-HK_April-2016.jpg "fig:缩略图")
-**ALLinHK**是[香港本土派部分](https://zh.wikipedia.org/wiki/本土派_\(香港\) "wikilink")[傘後組織成立的](../Page/傘後組織.md "wikilink")[選舉聯盟](https://zh.wikipedia.org/wiki/選舉聯盟 "wikilink")，以「[香港民族](../Page/香港民族主義.md "wikilink")，[前途自決](../Page/民族自決.md "wikilink")」作競選綱領，成員包括[青年新政](../Page/青年新政.md "wikilink")、[本土民主前線](../Page/本土民主前線.md "wikilink")、[東九龍社區關注組](../Page/東九龍社區關注組.md "wikilink")、[天水圍民生關注平台](../Page/天水圍民生關注平台.md "wikilink")、[慈雲山建設力量](https://zh.wikipedia.org/wiki/慈雲山建設力量 "wikilink")、[長沙灣社區發展力量和](https://zh.wikipedia.org/wiki/長沙灣社區發展力量 "wikilink")[屯門社區關注組](../Page/屯門社區網絡.md "wikilink")\[1\]\[2\]，不是有召集人或發言人的政團。後來本土民主前線因為梁天琦被選舉事務主任取消資格，由青年新政梁頌恆代為出選。\[3\]
+**ALLinHK**是[香港本土派部分](https://zh.wikipedia.org/wiki/本土派_\(香港\) "wikilink")[傘後組織成立的](../Page/傘後組織.md "wikilink")[選舉聯盟](https://zh.wikipedia.org/wiki/選舉聯盟 "wikilink")，以「[香港民族](../Page/香港民族主義.md "wikilink")，[前途自決](../Page/民族自決.md "wikilink")」作競選綱領，成員包括[青年新政](../Page/青年新政.md "wikilink")、[本土民主前線](../Page/本土民主前線.md "wikilink")、[東九龍社區關注組](../Page/東九龍社區關注組.md "wikilink")、[天水圍民生關注平台](../Page/天水圍民生關注平台.md "wikilink")、[慈雲山建設力量](../Page/慈雲山建設力量.md "wikilink")、[長沙灣社區發展力量和](https://zh.wikipedia.org/wiki/長沙灣社區發展力量 "wikilink")[屯門社區關注組](../Page/屯門社區網絡.md "wikilink")\[1\]\[2\]，不是有召集人或發言人的政團。後來本土民主前線因為梁天琦被選舉事務主任取消資格，由青年新政梁頌恆代為出選。\[3\]
 
 ## 2016年香港立法會選舉
 
-在2016年[立法會選舉](https://zh.wikipedia.org/wiki/2016年香港立法會選舉 "wikilink")，聯盟除港島區外，其他四個選區都各派一張名單參選，後來集中資源僅派出九西、新東、新西三張名單，最後青年新政的[游蕙禎和](../Page/游蕙禎.md "wikilink")[梁頌恆兩張名單贏到共兩名議席](../Page/梁頌恆.md "wikilink")。\[4\]
+在2016年[立法會選舉](../Page/2016年香港立法會選舉.md "wikilink")，聯盟除港島區外，其他四個選區都各派一張名單參選，後來集中資源僅派出九西、新東、新西三張名單，最後青年新政的[游蕙禎和](../Page/游蕙禎.md "wikilink")[梁頌恆兩張名單贏到共兩名議席](../Page/梁頌恆.md "wikilink")。\[4\]
 
 ## 參選名單
 

@@ -74,7 +74,7 @@ X绝不会就此罢休，果然不出所料，对方在失踪不久后，就寄�
 爱琳和奕如来到事发地点旁丽玛组屋询问附近的居民，却发现当天是林丹和李宗伟在奥运会的世纪大战，大家都忙着欢呼而没有人听到Ivy的求救声。调查完毕后，正当奕如和爱琳打算离开组屋时，一个花盆从天而降，差点砸中奕如，奕如和爱琳马上上楼追捕但仍被犯人逃走，令众人觉得案件不单纯。另一边厢，启生从Ivy身边的朋友得知Ivy有一好友May（[陈碧宁](https://zh.wikipedia.org/wiki/陈碧宁 "wikilink")
 饰演），并得知Ivy的私生活极乱，只要是能利用的男生她都会主动靠近。
 
-此时，一个叫做Kenny（[朱浩仁](https://zh.wikipedia.org/wiki/朱浩仁 "wikilink")
+此时，一个叫做Kenny（[朱浩仁](../Page/朱浩仁.md "wikilink")
 饰演）的人主动联络DOGO侦探社，并告知Ivy在当晚来到他的家剪辑短片以作参赛用途。后来，奕如无意间发现一名叫做陈广才（[陈昱炜](https://zh.wikipedia.org/wiki/陈昱炜 "wikilink")
 饰演）的人在偷取货物，两人在争执时广才包里的东西掉了出来，爱琳发现广才身上带着一支刻有Ivy的笔。广才随即逃跑，爱琳和奕如追上，在Kenny的帮助下成功逮捕广才。
 
@@ -302,7 +302,7 @@ DOGO侦探社员工<br />
 </tr>
 <tr class="even">
 <td><center>
-<p><strong><a href="https://zh.wikipedia.org/wiki/朱浩仁" title="wikilink">朱浩仁</a></strong></p></td>
+<p><strong><a href="../Page/朱浩仁.md" title="wikilink">朱浩仁</a></strong></p></td>
 <td><center>
 <p><strong>郑元峰（Kenny）</strong></p></td>
 <td><p><strong>阿峰</strong><br />

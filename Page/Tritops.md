@@ -40,7 +40,7 @@ You》在韓國回歸。在單曲MV中，金日君與日本模特兒[仲嶺梨�
 
 2015年6月10日，推出另一首數碼單曲《Sorry that I'm
 Ugly》，MV女主角由[GI](https://zh.wikipedia.org/wiki/GI "wikilink")([Global
-Icon](https://zh.wikipedia.org/wiki/Global_Icon "wikilink"))的EunJi飾演。
+Icon](../Page/Global_Icon.md "wikilink"))的EunJi飾演。
 
 ## 成員資料
 
@@ -71,8 +71,7 @@ Icon](https://zh.wikipedia.org/wiki/Global_Icon "wikilink"))的EunJi飾演。
   - 2009年11月9日，在Espresso的《Merry Christmas》中客串演唱
   - 2010年︰為韓劇《[金首露](../Page/金首露_\(電視劇\).md "wikilink")》獻聲，演唱OST《Want To
     See / 보고 싶어요 반형문》
-  - 2010年︰[Apeace](https://zh.wikipedia.org/wiki/Apeace "wikilink")（前名[Double
-    B
+  - 2010年︰[Apeace](../Page/Apeace.md "wikilink")（前名[Double B
     21](https://zh.wikipedia.org/wiki/Double_B_21 "wikilink")）出道曲《One》及《S.O.S》作曲作詞；金素麗Sori《HIP
     GIRL》迷你專輯製作
   - 2011年︰[MYNAME出道曲](../Page/MYNAME.md "wikilink")《Message》作曲作詞、金素麗Sori《Dancing
@@ -99,7 +98,7 @@ Icon](https://zh.wikipedia.org/wiki/Global_Icon "wikilink"))的EunJi飾演。
   - 2012年︰在[Still
     PM的單曲](https://zh.wikipedia.org/wiki/Still_PM "wikilink")《Canada
     Girl》中客串演唱
-  - 2017年︰日君初次出演舞台劇，在喜劇《伊賀の花嫁》中飾演ヨンファ，搭檔為[大國男兒的李仁俊](../Page/大國男兒.md "wikilink")、[Apeace的황두환以及前](https://zh.wikipedia.org/wiki/Apeace "wikilink")[April成員](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")[李玹珠](../Page/李玹珠.md "wikilink")。該劇於1月13日至22日在東京銀座博品館劇場上演，共15場。\[12\]
+  - 2017年︰日君初次出演舞台劇，在喜劇《伊賀の花嫁》中飾演ヨンファ，搭檔為[大國男兒的李仁俊](../Page/大國男兒.md "wikilink")、[Apeace的황두환以及前](../Page/Apeace.md "wikilink")[April成員](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")[李玹珠](../Page/李玹珠.md "wikilink")。該劇於1月13日至22日在東京銀座博品館劇場上演，共15場。\[12\]
   - 2019年3月20日個人日本出道，出版首張日語單曲\[13\]。
 
 <!-- end list -->

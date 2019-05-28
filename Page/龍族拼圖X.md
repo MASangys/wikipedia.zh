@@ -9,7 +9,7 @@
 ## 登場角色
 
   -
-    聲：[吉永拓斗](../Page/吉永拓斗.md "wikilink")、[田中誠人](https://zh.wikipedia.org/wiki/田中誠人 "wikilink")（幼時）（日本）；[黃尉斯](https://zh.wikipedia.org/wiki/黃尉斯 "wikilink")（香港）
+    聲：[吉永拓斗](../Page/吉永拓斗.md "wikilink")、[田中誠人](https://zh.wikipedia.org/wiki/田中誠人 "wikilink")（幼時）（日本）；[黃尉斯](../Page/黃尉斯.md "wikilink")（香港）
   -
     聲：[柿原徹也](../Page/柿原徹也.md "wikilink")、[矢島晶子](../Page/矢島晶子.md "wikilink")（幼時）（日本）；[簡懷甄](../Page/簡懷甄.md "wikilink")（香港）
   -
@@ -21,7 +21,7 @@
   -
     聲：[寺崎裕香](../Page/寺崎裕香.md "wikilink")
   -
-    聲：[山下七海](https://zh.wikipedia.org/wiki/山下七海 "wikilink")（日本）；[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")（香港）
+    聲：[山下七海](../Page/山下七海.md "wikilink")（日本）；[陳雪瑩](https://zh.wikipedia.org/wiki/陳雪瑩 "wikilink")（香港）
   -
     聲：[中村悠一](../Page/中村悠一.md "wikilink")、吉永拓斗（幼少）
   -
@@ -66,7 +66,7 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
 
   - 原作：[GungHo Online
     Entertainment](https://zh.wikipedia.org/wiki/GungHo "wikilink")
-  - 監督：[龜垣一](https://zh.wikipedia.org/wiki/龜垣一 "wikilink")
+  - 監督：[龜垣一](../Page/龜垣一.md "wikilink")
   - 系列構成：[佐藤大](https://zh.wikipedia.org/wiki/佐藤大 "wikilink")、StoryRiders
   - 人物設定：秋山由樹子
   - 怪物設定：、遠藤正明、桝田浩史、
@@ -156,7 +156,7 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
 <td><p>寶珠衝擊</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/永川成基" title="wikilink">永川成基</a><br />
 </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/龜垣一" title="wikilink">龜垣一</a></p></td>
+<td><p><a href="../Page/龜垣一.md" title="wikilink">龜垣一</a></p></td>
 <td><p>秋山由樹子</p></td>
 <td></td>
 <td></td>
@@ -166,7 +166,7 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
 <td></td>
 <td><p>Cross On</p></td>
 <td><p>永川成基</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高本宣弘" title="wikilink">高本宣弘</a></p></td>
+<td><p><a href="../Page/高本宣弘.md" title="wikilink">高本宣弘</a></p></td>
 <td><p>阿部達也</p></td>
 <td><p>一居一平</p></td>
 <td><p>安食圭<br />
@@ -177,7 +177,7 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
 <td></td>
 <td><p>蛋藏奪回大作戰</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/名田寬" title="wikilink">名田寬</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/影山楙倫" title="wikilink">影山楙倫</a></p></td>
+<td><p><a href="../Page/影山楙倫.md" title="wikilink">影山楙倫</a></p></td>
 <td><p>關田修<br />
 福田皖</p></td>
 <td><p>櫻井拓郎、神戶環<br />
@@ -241,7 +241,7 @@ Comic](../Page/快樂快樂月刊.md "wikilink")》2016年5月號開始連載。
 <td><p>第9話</p></td>
 <td></td>
 <td><p>來自蓋澤的男人</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/上野貴美子" title="wikilink">上野貴美子</a></p></td>
+<td><p><a href="../Page/上野貴美子.md" title="wikilink">上野貴美子</a></p></td>
 <td><p>影山楙倫</p></td>
 <td><p>福田皖</p></td>
 <td><p>村松尚雄、遠藤裕一</p></td>
@@ -288,7 +288,7 @@ Lee Sang Jin、<a href="https://zh.wikipedia.org/wiki/石橋有希子" title="wi
 <td></td>
 <td><p>公會入團考試</p></td>
 <td><p>高本宣弘</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a></p></td>
+<td><p><a href="../Page/小坂春女.md" title="wikilink">小坂春女</a></p></td>
 <td><p>相馬滿、一居一平</p></td>
 <td><p>安食圭</p></td>
 <td></td>
@@ -351,7 +351,7 @@ Lee Sang Jin、<a href="https://zh.wikipedia.org/wiki/石橋有希子" title="wi
 <td><p>第19話</p></td>
 <td></td>
 <td><p>寶珠的秘密</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藤田伸三" title="wikilink">藤田伸三</a></p></td>
+<td><p><a href="../Page/藤田伸三.md" title="wikilink">藤田伸三</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/松井仁之" title="wikilink">松井仁之</a></p></td>
 <td><p>佐藤清光</p></td>
 <td><p>石橋有希子、服部憲知<br />
@@ -531,7 +531,7 @@ Hue Hye Jung</p></td>
 長尾圭悟</p></td>
 <td><p>楠本祐子<br />
 秋山由樹子<br />
-<a href="https://zh.wikipedia.org/wiki/芝美奈子" title="wikilink">芝美奈子</a></p></td>
+<a href="../Page/芝美奈子.md" title="wikilink">芝美奈子</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1022,7 +1022,7 @@ Park Sang Ho、石橋有希子<br />
 <td><p>第77話</p></td>
 <td></td>
 <td><p>冰凍的太陽</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/村田雅彥" title="wikilink">村田雅彥</a></p></td>
+<td><p><a href="../Page/村田雅彥.md" title="wikilink">村田雅彥</a></p></td>
 <td><p>秋山由樹子、矢吹智美<br />
 遠藤裕一</p></td>
 <td></td>

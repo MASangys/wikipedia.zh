@@ -1113,7 +1113,7 @@ DVD[VIBL-704]</p></td>
   - 2014年 - ROCKIN' THIS JOINT TONIGHT
   - 2014年 - ～The 10th Anniversary～ Like a Rockin' Rollin' Stone Tour
       -
-        w/[［Alexandros］](https://zh.wikipedia.org/wiki/［Alexandros］ "wikilink")/9mm
+        w/[［Alexandros］](../Page/［Alexandros］.md "wikilink")/9mm
         Parabellum
         Bullet//////[東京斯卡樂園管絃樂團](https://zh.wikipedia.org/wiki/東京斯卡 "wikilink")
   - 2014年〜2015年 - 「Boys\!」TOUR 2014-2015

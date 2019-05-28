@@ -1,5 +1,5 @@
 **Windows Ink Workspace**（簡稱：**Windows Ink**）是[Windows
-10中推出的系統功能](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。簡化電腦上使用[觸控筆的體驗](../Page/觸控筆.md "wikilink")\[1\]。
+10中推出的系統功能](../Page/Windows_10.md "wikilink")。簡化電腦上使用[觸控筆的體驗](../Page/觸控筆.md "wikilink")\[1\]。
 
 ## 啟動
 
@@ -27,7 +27,7 @@
 
 ## 參見
 
-  - [Windows 10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
+  - [Windows 10](../Page/Windows_10.md "wikilink")
   - [Microsoft
     Cortana](https://zh.wikipedia.org/wiki/Microsoft_Cortana "wikilink")
 

@@ -42,7 +42,7 @@ GROUP暨SNH48出道五周年纪念演唱会](https://zh.wikipedia.org/wiki/SNH48
 | [費沁源](../Page/費沁源.md "wikilink")                            |
 | [洪珮-{雲}-](../Page/洪珮雲.md "wikilink")                        |
 | [謝妮](https://zh.wikipedia.org/wiki/謝妮 "wikilink")           |
-| [孙珍妮](https://zh.wikipedia.org/wiki/孙珍妮 "wikilink")         |
+| [孙珍妮](../Page/孙珍妮.md "wikilink")                            |
 | [杨冰怡](https://zh.wikipedia.org/wiki/杨冰怡 "wikilink")         |
 | 過往成員                                                        |
 | [陳音](https://zh.wikipedia.org/wiki/陳音_\(SNH48\) "wikilink") |

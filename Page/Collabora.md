@@ -34,7 +34,7 @@ CloudSuite\[4\]。
   - [Wayland與Weston](../Page/Wayland.md "wikilink")（顯示伺服器協定）
   - [Linux内核的藍牙子系統](../Page/Linux内核.md "wikilink")：Collabora雇用了Gustavo
     Padovan，他是Linux核心藍牙子系統的維護者\[14\]，也對BlueZ有所貢獻。
-  - Farstream與[Telepathy](https://zh.wikipedia.org/wiki/Telepathy "wikilink")：一個由Collabora創立者所打造的VoIP與協作框架。包含了Empathy聊天客戶端。
+  - Farstream與[Telepathy](../Page/Telepathy.md "wikilink")：一個由Collabora創立者所打造的VoIP與協作框架。包含了Empathy聊天客戶端。
   - [Pitivi與GES](https://zh.wikipedia.org/wiki/Pitivi "wikilink")：[自由软件桌面的影片編輯器](../Page/自由软件.md "wikilink")。在2008年至2009年間，Collabora的多媒體事務部努力改善Pitivi\[15\]。GES函式庫最初由Collabora於2011年建立，提供在[MeeGo平臺上編輯影片的能力](../Page/MeeGo.md "wikilink")\[16\]。
   - Maynard，一個Weston殼層
 

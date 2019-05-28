@@ -138,7 +138,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/大英雄沒有職業有哪裡不對" title="wikilink">大英雄沒有職業有哪裡不對</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/十文字青" title="wikilink">十文字青</a></p></td>
+<td><p><a href="../Page/十文字青.md" title="wikilink">十文字青</a></p></td>
 <td><p>エレクトさわる</p></td>
 <td><p><a href="http://ncode.syosetu.com/n1170bs/">大英雄が無職で何が悪い</a></p></td>
 <td><p>青文</p></td>

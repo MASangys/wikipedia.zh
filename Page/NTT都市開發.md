@@ -45,7 +45,7 @@
 
   - UD日比谷大廈（東京都千代田區）
 
-  - 大手町一丁目地區第一種市街地再開發事業（[日經大廈](https://zh.wikipedia.org/wiki/日本經濟新聞社 "wikilink")、[JA大廈](https://zh.wikipedia.org/wiki/JA大廈 "wikilink")、）（東京都千代田區）
+  - 大手町一丁目地區第一種市街地再開發事業（[日經大廈](https://zh.wikipedia.org/wiki/日本經濟新聞社 "wikilink")、[JA大廈](../Page/JA大廈.md "wikilink")、）（東京都千代田區）
 
   - N館（東京都港區）
 

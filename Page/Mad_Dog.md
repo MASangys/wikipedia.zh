@@ -358,7 +358,7 @@
 
   - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")：《[當你沉睡時](../Page/當你沉睡時.md "wikilink")》、《[理判事判](https://zh.wikipedia.org/wiki/理判事判 "wikilink")》
   - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[醫療船](../Page/醫療船_\(韓國電視劇\).md "wikilink")》
-  - [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")：《[付岩洞復仇者們](https://zh.wikipedia.org/wiki/付岩洞復仇者們 "wikilink")》、《[機智牢房生活](https://zh.wikipedia.org/wiki/機智牢房生活 "wikilink")》
+  - [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")：《[付岩洞復仇者們](../Page/付岩洞復仇者們.md "wikilink")》、《[機智牢房生活](../Page/機智牢房生活.md "wikilink")》
 
 ## 提名&得獎列表
 
@@ -373,7 +373,7 @@
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017_KBS演技大獎" title="wikilink">KBS演技大賞</a></p></td>
+<td><p><a href="../Page/2017_KBS演技大獎.md" title="wikilink">KBS演技大賞</a></p></td>
 <td><p>男子最優秀演技獎</p></td>
 <td><p><a href="../Page/劉智泰.md" title="wikilink">劉智泰</a></p></td>
 <td></td>

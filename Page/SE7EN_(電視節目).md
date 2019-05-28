@@ -53,7 +53,7 @@
 <td><p>少爺仔</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a></p></td>
+<td><p><a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
 <td><p>Bonde</p></td>
 <td><p>24</p></td>
 <td><p>1-2</p></td>
@@ -67,7 +67,7 @@
 <td><p>朱仔</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/楊偲泳" title="wikilink">楊偲泳</a></p></td>
+<td><p><a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a></p></td>
 <td><p>Renci</p></td>
 <td><p>23</p></td>
 <td><p>1-2</p></td>
@@ -101,7 +101,7 @@
 <tr class="even">
 <td><p>1</p></td>
 <td><p>4月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岑樂怡" title="wikilink">岑樂怡</a></p></td>
+<td><p><a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
 <td><p>紙船過大海</p></td>
 <td><p>用紙製船渡海</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/西貢" title="wikilink">西貢內海</a><a href="../Page/鹽田梓.md" title="wikilink">鹽田梓</a></p></td>
@@ -213,7 +213,7 @@
 <tr class="even">
 <td><p>9</p></td>
 <td><p>6月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/楊偲泳" title="wikilink">楊偲泳</a></p></td>
+<td><p><a href="../Page/楊偲泳.md" title="wikilink">楊偲泳</a></p></td>
 <td><p>挑戰垃圾灣<br />
 清走數以噸計垃圾</p></td>
 <td><p>清走垃圾灣上所有垃圾</p></td>
@@ -289,14 +289,14 @@
 <td><p>SE7EN全體</p></td>
 <td><p>SE7EN挑戰拉動數十噸民航機</p></td>
 <td><p>SE7EN全體連同嘉賓、香港拔河代表隊隊員、<a href="../Page/香港航空.md" title="wikilink">香港航空代表及</a><a href="https://zh.wikipedia.org/wiki/世界宣明會" title="wikilink">宣明會代表合共</a>40人挑戰拉動A320飛機[6]<br />
-（嘉賓：<a href="../Page/梁梓禧.md" title="wikilink">梁梓禧</a>、<a href="https://zh.wikipedia.org/wiki/李靖筠" title="wikilink">李靖筠</a>、<a href="../Page/項明生.md" title="wikilink">項明生</a>、<a href="https://zh.wikipedia.org/wiki/仇多明" title="wikilink">仇多明</a>、<a href="https://zh.wikipedia.org/wiki/Jerry.C" title="wikilink">Jerry.C</a>）</p></td>
+（嘉賓：<a href="../Page/梁梓禧.md" title="wikilink">梁梓禧</a>、<a href="../Page/李靖筠.md" title="wikilink">李靖筠</a>、<a href="../Page/項明生.md" title="wikilink">項明生</a>、<a href="https://zh.wikipedia.org/wiki/仇多明" title="wikilink">仇多明</a>、<a href="https://zh.wikipedia.org/wiki/Jerry.C" title="wikilink">Jerry.C</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/香港飛機工程公司" title="wikilink">HAECO飛機維修廠房</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2月18日</p></td>
-<td><p>駱振偉、黃奕晨、余曉彤、<a href="https://zh.wikipedia.org/wiki/梁諾妍" title="wikilink">梁諾妍</a></p></td>
+<td><p>駱振偉、黃奕晨、余曉彤、<a href="../Page/梁諾妍.md" title="wikilink">梁諾妍</a></p></td>
 <td><p>SE7EN毅行者挑戰（2）</p></td>
 <td><p><a href="../Page/毅行者.md" title="wikilink">毅行者</a>100公里山路比賽<br />
 （嘉賓：）</p></td>

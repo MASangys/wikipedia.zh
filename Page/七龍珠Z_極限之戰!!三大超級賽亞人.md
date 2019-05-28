@@ -52,7 +52,7 @@ Saiyans），是[七龍珠在](../Page/七龙珠.md "wikilink")1992年7月11日�
 </tr>
 <tr class="even">
 <td><p><strong>人造人15号</strong></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/小林俊夫" title="wikilink">小林俊夫</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/小林俊夫.md" title="wikilink">小林俊夫</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>烏龍</p></td>
@@ -93,9 +93,9 @@ Saiyans），是[七龍珠在](../Page/七龙珠.md "wikilink")1992年7月11日�
 
   - 製作總指揮：[今田智憲](https://zh.wikipedia.org/wiki/今田智憲 "wikilink")、安齊富夫
   - 原作：[鳥山明](../Page/鳥山明.md "wikilink")
-  - 企画：[森下孝三](https://zh.wikipedia.org/wiki/森下孝三 "wikilink")、[清水賢治](https://zh.wikipedia.org/wiki/清水賢治 "wikilink")、金田耕司、[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")
+  - 企画：[森下孝三](https://zh.wikipedia.org/wiki/森下孝三 "wikilink")、[清水賢治](../Page/清水賢治.md "wikilink")、金田耕司、[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")
   - 製作担当：[小塚憲夫](https://zh.wikipedia.org/wiki/小塚憲夫 "wikilink")
-  - 劇本：[小山高生](https://zh.wikipedia.org/wiki/小山高生 "wikilink")
+  - 劇本：[小山高生](../Page/小山高生.md "wikilink")
   - 音樂：[菊池俊輔](../Page/菊池俊輔.md "wikilink")
   - 撮影監督：武井利晴
   - 録音：二宮健治
@@ -104,7 +104,7 @@ Saiyans），是[七龍珠在](../Page/七龙珠.md "wikilink")1992年7月11日�
   - 美術監督：長崎斉
   - 作画監督：[前田実](https://zh.wikipedia.org/wiki/前田実 "wikilink")
   - 監督：菊池一仁
-  - 原画：[中鶴勝祥](https://zh.wikipedia.org/wiki/中鶴勝祥 "wikilink")、[稲上晃](https://zh.wikipedia.org/wiki/稲上晃 "wikilink")、[長谷川真也](https://zh.wikipedia.org/wiki/長谷川眞也 "wikilink")
+  - 原画：[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")、[稲上晃](https://zh.wikipedia.org/wiki/稲上晃 "wikilink")、[長谷川真也](https://zh.wikipedia.org/wiki/長谷川眞也 "wikilink")
     他　
 
 ## 主題曲

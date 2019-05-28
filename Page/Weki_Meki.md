@@ -41,7 +41,7 @@ Crazy\! 大家好，我們是Weki Meki！」。說出「Crazy」的同時，雙�
     Meki，干嘛呢？》一個從宿舍開始，橫跨韓國、日本、泰國拍攝的團綜／真人秀。以贏得任務和比賽的方式，換取實現3個重要願望的機會。節目中也透露第二張迷你專輯《LUCKY》造型轉換和幕後花絮，並且有跟YouTube網博客開吃播、美妝課、在Engoo\[4\]與外籍老師學習英語以應付泰國行程......等等豐富的內容。
   - 2018年2月21日，Weki Meki發行第二張迷你專輯《Lucky》，主打歌曲為〈La La La〉，並進行為期一個月的宣傳活動。
   - 2018年5月1日，Weki
-    Meki及[宇宙少女方同時在各自的官方社群帳號中公開了企劃組合](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")「[宇宙Meki](https://zh.wikipedia.org/wiki/宇宙Meki "wikilink")」（）的預告圖\[5\]\[6\]，該組合由Weki
+    Meki及[宇宙少女方同時在各自的官方社群帳號中公開了企劃組合](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")「[宇宙Meki](../Page/宇宙Meki.md "wikilink")」（）的預告圖\[5\]\[6\]，該組合由Weki
     Meki成員[有情](../Page/磪有情.md "wikilink")、[度延及宇宙少女](../Page/金度延.md "wikilink")[雪娥](../Page/雪娥.md "wikilink")、LUDA組成。\[7\]
   - 2018年8月8日，在出道一周年之際，公開粉絲名「Ki-Ling」\[8\]及官方應援色：「由小番茄紅和亮黃色所組成的漸層」。\[9\]
   - 2018年10月11日，Weki Meki發行單曲專輯《KISS, KICKS》，以主打歌曲〈Crush〉回歸。
@@ -163,7 +163,7 @@ Crazy\! 大家好，我們是Weki Meki！」。說出「Crazy」的同時，雙�
 <td><p>Love Diamond</p></td>
 <td><p>秀娟、Elly</p></td>
 <td></td>
-<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/我的ID是江南美人" title="wikilink">我的ID是江南美人</a>》</p></td>
+<td><p>電視劇《<a href="../Page/我的ID是江南美人.md" title="wikilink">我的ID是江南美人</a>》</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -234,12 +234,12 @@ Crazy\! 大家好，我們是Weki Meki！」。說出「Crazy」的同時，雙�
 
 ### 專屬網路節目
 
-| 日期                   | 放送平台                    | 節目名稱                                                                             | 參與成員         | 備註                      |
-| -------------------- | ----------------------- | -------------------------------------------------------------------------------- | ------------ | ----------------------- |
-| 2017年3月25日－2017年7月3日 | V LIVE                  | 放學後的秘密基地                                                                         | i-Teen Girls | 出道前的每日直播，共60次           |
-| 2017年4月7日－5月19日      | KCON TV、YouTube         | [DODAEN'S Diary in LA](https://zh.wikipedia.org/wiki/DoDaeng's_Diary "wikilink") | 有情、度延        | 記錄兩人**出道前**在美國訓練與生活，共7集 |
-| 2017年9月5日－           | V LIVE、YouTube          | KiKiCAM                                                                          | 全員           | 不定期放送                   |
-| 2018年2月1日－4月1日       | Naver TV、V LIVE、YouTube | Weki Meki，干嘛呢？                                                                   | 每日放送，共60集    |                         |
+| 日期                   | 放送平台                    | 節目名稱                                                          | 參與成員         | 備註                      |
+| -------------------- | ----------------------- | ------------------------------------------------------------- | ------------ | ----------------------- |
+| 2017年3月25日－2017年7月3日 | V LIVE                  | 放學後的秘密基地                                                      | i-Teen Girls | 出道前的每日直播，共60次           |
+| 2017年4月7日－5月19日      | KCON TV、YouTube         | [DODAEN'S Diary in LA](../Page/DoDaeng's_Diary.md "wikilink") | 有情、度延        | 記錄兩人**出道前**在美國訓練與生活，共7集 |
+| 2017年9月5日－           | V LIVE、YouTube          | KiKiCAM                                                       | 全員           | 不定期放送                   |
+| 2018年2月1日－4月1日       | Naver TV、V LIVE、YouTube | Weki Meki，干嘛呢？                                                | 每日放送，共60集    |                         |
 
 ### 電視 / 網路劇
 
@@ -314,7 +314,7 @@ Crazy\! 大家好，我們是Weki Meki！」。說出「Crazy」的同時，雙�
 <td><p>2018年</p></td>
 <td><p>Olleh TV (網絡版）、<br />
 OCN (電視版）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Short_(電視劇)" title="wikilink">Short</a> [19]</p></td>
+<td><p><a href="../Page/Short_(電視劇).md" title="wikilink">Short</a> [19]</p></td>
 <td><p>度延</p></td>
 <td><p>刘志娜</p></td>
 <td></td>
@@ -568,7 +568,7 @@ OCN (電視版）</p></td>
 | 3月18日       | EBS Radio           | 傾聽                                                                     | 全員       |         |
 | 9月28日       | SBS Power FM        | 崔华静的Power Time                                                         | 度延       |         |
 | 10月14日      | EBS Radio           | 傾聽                                                                     | 全員       |         |
-| 10月17日      | MBC標準FM             | [IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink")      |          |         |
+| 10月17日      | MBC標準FM             | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")                         |          |         |
 
 ## 音樂現場
 

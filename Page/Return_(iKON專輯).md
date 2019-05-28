@@ -3,7 +3,7 @@ Back](../Page/WELCOME_BACK_\(iKON韓語專輯\).md "wikilink")》後時隔兩年
 Bonus」歌曲，其中收錄的《Love
 Scenario》為主打歌，專輯由[YG娛樂企劃製作](../Page/YG娛樂.md "wikilink")，[Genie音樂發行](../Page/Genie音樂.md "wikilink")，於2018年1月25日下午6時通過各大數位音樂網站公開線上音源\[1\]，實體專輯則在1月18日至1月25日公開預售，並定於1月26日以兩種不同版本發售\[2\]。而通過這張專輯的歌曲《Love
 Scenario》突破[韓國流行音樂近](../Page/韓國流行音樂.md "wikilink")10年來男子團體在音樂網站創下「一位最長時間」的記錄\[3\]\[4\]，iKON以此為由在2018年3月5日發行數位單曲《[Rubber
-Band](https://zh.wikipedia.org/wiki/Rubber_Band_\(iKON歌曲\) "wikilink")》回饋歌迷的支持。
+Band](../Page/Rubber_Band_\(iKON歌曲\).md "wikilink")》回饋歌迷的支持。
 
 ## 背景及預告
 
@@ -31,9 +31,8 @@ Back》已有兩年時間，一如新專輯名稱《Return》，YG娛樂表示�
 
 專輯曲目表在2018年1月16日上午10時公開，iKON此次的新專輯共收錄了12首歌曲，包括8首新歌，而另外特別以「Special
 Bonus」標註的4首歌曲，是出道之前他們曾在生存節目《[MIX &
-MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")》展現過的《Sinosijak》、《Long
-Time No See》，以及曾在日本發表過的歌曲《Love Me》、《Just
-Go》重新錄製成韓語版本收錄於這張專輯中。\[17\]\[18\]
+MATCH](../Page/MIX_&_MATCH.md "wikilink")》展現過的《Sinosijak》、《Long Time No
+See》，以及曾在日本發表過的歌曲《Love Me》、《Just Go》重新錄製成韓語版本收錄於這張專輯中。\[17\]\[18\]
 
 在釋出的歌曲目錄中，隊長[B.I包攬了全部](../Page/B.I.md "wikilink")12首收錄曲的詞曲創作，專輯中也收錄了他的獨唱歌曲，以低音段808
 Base和相對應的打擊樂器作為基本元素的《One and

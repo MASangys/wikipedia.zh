@@ -86,7 +86,7 @@ Revolutio
 <ul>
 <li><a href="../Page/東京電視台.md" title="wikilink">東京電視台電視動畫</a>《<a href="https://zh.wikipedia.org/wiki/咕嚕咕嚕魔法陣#2017年《咕嚕咕嚕魔法陣》（第3作）" title="wikilink">咕嚕咕嚕魔法陣</a>》ED主題歌曲</li>
 </ul></li>
-<li>夏 feat.<a href="https://zh.wikipedia.org/wiki/井澤詩織" title="wikilink">井澤詩織</a></li>
+<li>夏 feat.<a href="../Page/井澤詩織.md" title="wikilink">井澤詩織</a></li>
 <li>Round&amp;Round&amp;Round -Instrumental-</li>
 <li>夏 -Instrumental-</li>
 </ol></td>
@@ -224,7 +224,7 @@ Revolutio
       - **『流星』** （單曲）編曲（與小島英也共同）
           - 電視動畫《咕嚕咕嚕魔法陣》後半季片頭主題曲。
 
-  - ☆【納克拉維（[茜屋日海夏](https://zh.wikipedia.org/wiki/茜屋日海夏 "wikilink")）、泰坦妮亞（[高橋李依](../Page/高橋李依.md "wikilink")）、丘比特（[東山奈央](../Page/東山奈央.md "wikilink")）、碧姬（[芹澤優](../Page/芹澤優.md "wikilink")）、伯達克（[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")）、貝托爾（[日高里菜](../Page/日高里菜.md "wikilink")）】／『**KI-te
+  - ☆【納克拉維（[茜屋日海夏](../Page/茜屋日海夏.md "wikilink")）、泰坦妮亞（[高橋李依](../Page/高橋李依.md "wikilink")）、丘比特（[東山奈央](../Page/東山奈央.md "wikilink")）、碧姬（[芹澤優](../Page/芹澤優.md "wikilink")）、伯達克（[三森鈴子](https://zh.wikipedia.org/wiki/三森鈴子 "wikilink")）、貝托爾（[日高里菜](../Page/日高里菜.md "wikilink")）】／『**KI-te
     MI-te HIT PARADE！**』（單曲）作詞、作曲、編曲\[1\]
 
       - 電視動畫《[叛逆性百萬亞瑟王](../Page/擴散性百萬亞瑟王.md "wikilink")》片尾主題曲

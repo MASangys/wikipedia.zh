@@ -19,7 +19,7 @@
 </tr>
 <tr class="even">
 <td><p>&lt;span style=color:#&gt;<strong>南行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-F.svg" title="fig:纽约地铁F线">纽约地铁F线</a> 往<a href="https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站" title="wikilink">康尼島-斯提威爾大道</a><small>（<a href="https://zh.wikipedia.org/wiki/X大道車站_(IND卡爾弗線)" title="wikilink">X大道</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-F.svg" title="fig:纽约地铁F线">纽约地铁F线</a> 往<a href="https://zh.wikipedia.org/wiki/康尼島-斯提威爾大道車站" title="wikilink">康尼島-斯提威爾大道</a><small>（<a href="../Page/X大道車站_(IND卡爾弗線).md" title="wikilink">X大道</a>）</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><small><a href="../Page/側式月台.md" title="wikilink">側式月台</a>，右側開門</small></p></td>

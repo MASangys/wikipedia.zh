@@ -72,7 +72,7 @@ Monkey》、《Treasurenauts》等2D横版游戏的版权，而格雷格·哈格
 <td></td>
 <td><p><a href="../Page/平台游戏.md" title="wikilink">平台</a></p></td>
 <td><p>Renegade Kid</p></td>
-<td><p>任天堂3DS <a href="https://zh.wikipedia.org/wiki/任天堂eShop" title="wikilink">eShop</a>、<a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a></p></td>
+<td><p>任天堂3DS <a href="../Page/任天堂eShop.md" title="wikilink">eShop</a>、<a href="https://zh.wikipedia.org/wiki/iOS" title="wikilink">iOS</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

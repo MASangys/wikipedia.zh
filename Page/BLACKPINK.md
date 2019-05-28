@@ -1,4 +1,4 @@
-**BLACKPINK**（風格化為**BLΛƆKPIИK**，，）是[YG娛樂於](../Page/YG娛樂.md "wikilink")2016年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是繼2009年[2NE1後該經紀公司時隔](../Page/2NE1.md "wikilink")7年再次推出的女子偶像團體，由[Jisoo](https://zh.wikipedia.org/wiki/金智秀_\(歌手\) "wikilink")、[Jennie](https://zh.wikipedia.org/wiki/Jennie_\(韓國歌手\) "wikilink")、[Rosé與](https://zh.wikipedia.org/wiki/Rosé_\(韓國歌手\) "wikilink")[Lisa共四名成員組成](https://zh.wikipedia.org/wiki/Lisa_\(泰國歌手\) "wikilink")，而她們也在YG娛樂各自經歷了5年到7年的練習生生涯。\[1\]
+**BLACKPINK**（風格化為**BLΛƆKPIИK**，，）是[YG娛樂於](../Page/YG娛樂.md "wikilink")2016年推出的[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是繼2009年[2NE1後該經紀公司時隔](../Page/2NE1.md "wikilink")7年再次推出的女子偶像團體，由[Jisoo](../Page/金智秀_\(歌手\).md "wikilink")、[Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink")、[Rosé與](../Page/Rosé_\(韓國歌手\).md "wikilink")[Lisa共四名成員組成](../Page/Lisa_\(泰國歌手\).md "wikilink")，而她們也在YG娛樂各自經歷了5年到7年的練習生生涯。\[1\]
 
 BLACKPINK原定於2012年出道，且最初的女團計劃原定有九人，官方在當時除了預示著即將推出女團外，並陸續釋出練習影像及成員身份，然而到了2014年仍舊尚未出道，直至2016年中旬才正式透過官方公開了成員名單、組合名稱及出道日期。2016年8月8日以單曲專輯《[Square
 One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》雙主打曲《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》正式出道，8月14日登上[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》出道舞台。
@@ -28,19 +28,19 @@ PINK」的前兩個字母「BL」和最後三個字母「INK」組成，帶有�
   -
     <small>各成員的詳細資料請參閱各成員之條目。</small>
 
-| 成員列表\[16\]                                                             |
-| ---------------------------------------------------------------------- |
-| 藝名                                                                     |
-| 英文                                                                     |
-| 羅馬拼音                                                                   |
-| **[Jisoo](https://zh.wikipedia.org/wiki/金智秀_\(歌手\) "wikilink")**       |
-| Kim Ji-Soo                                                             |
-| **[Jennie](https://zh.wikipedia.org/wiki/Jennie_\(韓國歌手\) "wikilink")** |
-| Kim Je-Ni                                                              |
-| **[Rosé](https://zh.wikipedia.org/wiki/Rosé_\(韓國歌手\) "wikilink")**     |
-| Park Chae-Young                                                        |
-| **[Lisa](https://zh.wikipedia.org/wiki/Lisa_\(泰國歌手\) "wikilink")**     |
-| Lalisa Manoban                                                         |
+| 成員列表\[16\]                                          |
+| --------------------------------------------------- |
+| 藝名                                                  |
+| 英文                                                  |
+| 羅馬拼音                                                |
+| **[Jisoo](../Page/金智秀_\(歌手\).md "wikilink")**       |
+| Kim Ji-Soo                                          |
+| **[Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink")** |
+| Kim Je-Ni                                           |
+| **[Rosé](../Page/Rosé_\(韓國歌手\).md "wikilink")**     |
+| Park Chae-Young                                     |
+| **[Lisa](../Page/Lisa_\(泰國歌手\).md "wikilink")**     |
+| Lalisa Manoban                                      |
 
 ## 歷程
 
@@ -49,7 +49,7 @@ PINK」的前兩個字母「BL」和最後三個字母「INK」組成，帶有�
 #### Jennie、 Lisa首度亮相
 
 繼2009年推出[2NE1後](../Page/2NE1.md "wikilink")，YG娛樂在2011年表示將推出第二組女子團體\[17\]，2012年開始逐一釋出新女團的預備生資訊，在4月6日首度於官方[YouTube頻道公開曾是預計名單之一的練習生](../Page/YouTube.md "wikilink")[Euna
-Kim及金恩菲的練習影像](https://zh.wikipedia.org/wiki/Euna_Kim_\(韓國歌手\) "wikilink")\[18\]\[19\]。5月10日則發佈了引發大眾關注的「Who's
+Kim及金恩菲的練習影像](../Page/Euna_Kim_\(韓國歌手\).md "wikilink")\[18\]\[19\]。5月10日則發佈了引發大眾關注的「Who's
 That Girl???」短片，內容為一位女練習生舞蹈練習過程，此位練習生即為1997年生的泰國籍成員Lalisa
 Manoban，然而，即便當時官方除了年齡、一張照片與這段練習短片之外並未公開任何關於她的資訊\[20\]。同一年的7月1日，YG娛樂再度於官方YouTube頻道公開名為「Future
 [2NE1](../Page/2NE1.md "wikilink")」的四名女練習生練習影像，但未釋出影片中練習生的更多訊息。\[21\]
@@ -69,7 +69,7 @@ Kim已逐漸為大眾所熟知\[28\]，即便如此，新女團仍未有正式�
 #### 張漢娜加入、金恩菲離開、Jisoo參與前輩音樂錄影帶演出
 
 2014年，YG娛樂已推出[樂童音樂家及](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")[WINNER兩組新人團體](../Page/WINNER.md "wikilink")，透過實境生存節目選出成員的[iKON也即將出道](https://zh.wikipedia.org/wiki/iKON "wikilink")，至此已一年多沒有再釋出關於新女團的消息。5月，《[K-pop
-Star](https://zh.wikipedia.org/wiki/K-pop_Star_3 "wikilink")》第三季選手張漢娜加入YG娛樂的消息曝光\[29\]，外界猜測張漢娜是否也是新女團的成員之一\[30\]。而後，與[三星集團子公司](https://zh.wikipedia.org/wiki/三星集团 "wikilink")合作的時尚品牌「NONAGON」宣傳影片中也久違的見到了Lalisa的身影\[31\]，並且由於YG娛樂旗下歌手在2014年逐一回歸，官方再次透露新女團即將在今年出道。\[32\]
+Star](../Page/K-pop_Star_3.md "wikilink")》第三季選手張漢娜加入YG娛樂的消息曝光\[29\]，外界猜測張漢娜是否也是新女團的成員之一\[30\]。而後，與[三星集團子公司](https://zh.wikipedia.org/wiki/三星集团 "wikilink")合作的時尚品牌「NONAGON」宣傳影片中也久違的見到了Lalisa的身影\[31\]，並且由於YG娛樂旗下歌手在2014年逐一回歸，官方再次透露新女團即將在今年出道。\[32\]
 
 2014年10月，嘻哈團體[Epik
 High以全新正規專輯回歸樂壇](../Page/Epik_High.md "wikilink")，主打歌音樂錄影帶由新女團成員Jisoo擔任女主角，使得大眾的好奇心重新燃起\[33\]。10月中旬，YG娛樂透過媒體告知金恩菲因健康問題已離開公司\[34\]\[35\]。11月11日，YG推出限定組合[HI秀賢](../Page/HI秀賢.md "wikilink")，主打歌《我不一樣》的音樂影片在18日公開，無預警揭露Jisoo再次參與了音樂錄影帶的演出\[36\]，但直至年底暫時仍沒有新女團要出道的確切消息。
@@ -86,7 +86,7 @@ Rapstar
 從2012年開始逐年釋出新女團預計人選後，最終在2016年5月18日，YG娛樂透過新聞稿證實新女團將於今年夏天出道並於5月30日宣佈會在每週三依次公開正式成員的資訊\[39\]\[40\]。6月1日，公佈首位新女團成員：Jennie，韓國籍\[41\]；8日，公佈第二位成員：Lisa（即Lalisa），泰國籍\[42\]；15日，公佈第三位成員：Jisoo，韓國籍\[43\]；22日，公佈最終成員：Rosé（即Roseanne），紐韓雙籍\[44\]\[45\]\[46\]，共四名成員。6月29日，公佈組合名稱為「**BLACKPINK**」\[47\]，並在7月29日宣佈將於8月8日晚間8時正式出道。\[48\]
 
 2016年8月8日，BLACKPINK於下午3時舉行出道Showcase並公開首張單曲《[Square
-One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》收錄的《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》音樂錄影帶及拍攝花絮\[49\]，當日晚間8時正式通過各大音源網站公開。發行後，BLACKPINK憑藉此張出道單曲打破多項新人組合紀錄，兩首歌曲在發佈後隨即空降韓國主要音源網站的實時榜第一及第二名的位置\[50\]，其中《口哨》一曲則連續16日佔據八大數位音樂網站音源排行榜冠軍以及同時包攬了六大月榜第一位，並在韓國最具權威的音樂綜合榜單[加翁排行榜](https://zh.wikipedia.org/wiki/加翁排行榜 "wikilink")8月份的[數位單曲](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink")、[數位下載](https://zh.wikipedia.org/wiki/2016年Gaon數位下載冠軍作品列表 "wikilink")、[流媒體](https://zh.wikipedia.org/wiki/2016年Gaon流媒體冠軍作品列表 "wikilink")、移動通信均獲得週榜及月榜一位，海外的部分以《Boombayah》取得了美國告示牌世界單曲榜冠軍。做為新人，BLACKPINK創下了韓國流行音樂數個「最初」及「最短」的紀錄，包括第一組以出道曲在iChart榜單上達成「Perfect
+One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》收錄的《[口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")》、《[Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")》音樂錄影帶及拍攝花絮\[49\]，當日晚間8時正式通過各大音源網站公開。發行後，BLACKPINK憑藉此張出道單曲打破多項新人組合紀錄，兩首歌曲在發佈後隨即空降韓國主要音源網站的實時榜第一及第二名的位置\[50\]，其中《口哨》一曲則連續16日佔據八大數位音樂網站音源排行榜冠軍以及同時包攬了六大月榜第一位，並在韓國最具權威的音樂綜合榜單[加翁排行榜](https://zh.wikipedia.org/wiki/加翁排行榜 "wikilink")8月份的[數位單曲](../Page/2016年Gaon單曲冠軍作品列表.md "wikilink")、[數位下載](../Page/2016年Gaon數位下載冠軍作品列表.md "wikilink")、[流媒體](../Page/2016年Gaon流媒體冠軍作品列表.md "wikilink")、移動通信均獲得週榜及月榜一位，海外的部分以《Boombayah》取得了美國告示牌世界單曲榜冠軍。做為新人，BLACKPINK創下了韓國流行音樂數個「最初」及「最短」的紀錄，包括第一組以出道曲在iChart榜單上達成「Perfect
 All-Kill」的組合\[51\]；憑藉《Boombayah》截至目前仍保持著韓國「最快破億的出道曲」及「瀏覽數最多的出道曲」音樂錄影帶記錄\[52\]\[53\]；僅出道14天便贏得了她們在《人氣歌謠》的第一座獎杯\[54\]，並締造了韓國所有團體用時最短登頂美國iTunes排行榜\[55\]\[56\]、告示牌榜單的歌手\[57\]。其亮眼的成績與受到認可的實力，BLACKPINK成為繼WINNER、iKON之後被大眾廣泛譽為「怪物新人」的偶像團體。\[58\]\[59\]
 
 隨著出道大獲成功，BLACKPINK在11月1日攜第二張單曲專輯《[Square
@@ -100,12 +100,12 @@ Fire》也讓BLACKPINK二度打進美國告示牌世界單曲榜冠軍\[64\]，�
 
 ### 2017年：發展，進軍日本
 
-在準備下一張韓語作品期間，所屬日本唱片公司[YGEX早於](https://zh.wikipedia.org/wiki/YGEX "wikilink")5月17日通過官方網站披露BLACKPINK即將打入日本音樂市場\[74\]，並宣佈為進軍前搶先於7月20日在[日本武道館舉行首場海外Showcase](../Page/日本武道館.md "wikilink")\[75\]，8月30日正式發表出道音樂專輯《[Blackpink](https://zh.wikipedia.org/wiki/Blackpink_\(迷你專輯\) "wikilink")》\[76\]，值得一提的是，作為新人歌手在日本武道館舉辦Showcase已是罕見，也讓BLACKPINK成為首組尚未在日本出道便於此地舉行公演的海外女藝人\[77\]，而這場演出總計1萬4千張門票在開賣後全數售罄\[78\]\[79\]，仍舊吸引超過原定席次數十倍的人數\[80\]，高達20萬名歌迷均透過各種管道向YG娛樂表達想要入場的意願及購票請求\[81\]\[82\]，顯示出日本歌迷對她們的期待。
+在準備下一張韓語作品期間，所屬日本唱片公司[YGEX早於](https://zh.wikipedia.org/wiki/YGEX "wikilink")5月17日通過官方網站披露BLACKPINK即將打入日本音樂市場\[74\]，並宣佈為進軍前搶先於7月20日在[日本武道館舉行首場海外Showcase](../Page/日本武道館.md "wikilink")\[75\]，8月30日正式發表出道音樂專輯《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》\[76\]，值得一提的是，作為新人歌手在日本武道館舉辦Showcase已是罕見，也讓BLACKPINK成為首組尚未在日本出道便於此地舉行公演的海外女藝人\[77\]，而這場演出總計1萬4千張門票在開賣後全數售罄\[78\]\[79\]，仍舊吸引超過原定席次數十倍的人數\[80\]，高達20萬名歌迷均透過各種管道向YG娛樂表達想要入場的意願及購票請求\[81\]\[82\]，顯示出日本歌迷對她們的期待。
 
 BLACKPINK首次音樂上的突破是在6月22日發行的第三張數位單曲《[As If It's Your
-Last](https://zh.wikipedia.org/wiki/As_If_It's_Your_Last "wikilink")》。如果說先前的《口哨》、《Boombayah》及《Playing
+Last](../Page/As_If_It's_Your_Last.md "wikilink")》。如果說先前的《口哨》、《Boombayah》及《Playing
 with Fire》是大玩「Black」的風格，那這次的單曲則是以「Pink」為主，呈現了破格的改變，《As If It's Your
-Last》也被認為是BLACKPINK當時風格最強烈的一首歌\[83\]。發行後，單曲共包攬了27國冠軍\[84\]，在美國最高排第12名\[85\]，次週則分別取得加拿大百大單曲榜第45名\[86\]、[《告示牌》榜外單曲榜第](https://zh.wikipedia.org/wiki/告示牌榜外單曲榜 "wikilink")13名的成績\[87\]\[88\]，均成為韓國女團的最佳名次紀錄，使她們被媒體冠以「新紀錄製造機」的美譽。\[89\]
+Last》也被認為是BLACKPINK當時風格最強烈的一首歌\[83\]。發行後，單曲共包攬了27國冠軍\[84\]，在美國最高排第12名\[85\]，次週則分別取得加拿大百大單曲榜第45名\[86\]、[《告示牌》榜外單曲榜第](../Page/告示牌榜外單曲榜.md "wikilink")13名的成績\[87\]\[88\]，均成為韓國女團的最佳名次紀錄，使她們被媒體冠以「新紀錄製造機」的美譽。\[89\]
 
 2017年8月8日，BLACKPINK迎來成軍第1年，在團體一週年之際，除了官方釋出的慶祝海報與即將舉行的紀念活動外，世界各地的歌迷也均通過[社群網站上以帶有](https://zh.wikipedia.org/wiki/社群網站 "wikilink")「\#BLACKP1NKinYourArea」的話題進行發文，藉此慶祝BLACKPINK出道一週年，在該話題的影響下不僅成為了Twitter的熱門標籤，甚至一度位列全球趨勢第一位\[90\]\[91\]\[92\]，並獲得海外媒體的關注，包括美國音樂雜誌《告示牌》特地為其撰寫專文報導，此前發行的單曲《As
 If It's Your
@@ -118,21 +118,21 @@ Last》取得了重大成就，除了登上《告示牌》在美國時間9月7�
 
 [골든_디스크_어워드_-_블랙핑크.jpg](https://zh.wikipedia.org/wiki/File:골든_디스크_어워드_-_블랙핑크.jpg "fig:골든_디스크_어워드_-_블랙핑크.jpg")
 年初1月，BLACKPINK首部擔綱演出的[真人實境秀](../Page/真人實境秀.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")《[Blackpink
-House](https://zh.wikipedia.org/wiki/Blackpink_House "wikilink")》通過[影音分享網站YouTube及Naver](https://zh.wikipedia.org/wiki/影音分享網站 "wikilink")
+House](../Page/Blackpink_House.md "wikilink")》通過[影音分享網站YouTube及Naver](https://zh.wikipedia.org/wiki/影音分享網站 "wikilink")
 V Live頻道首播\[102\]，在日本推出的首張迷你專輯的後續改版專輯也在該月份釋出消息，這張專輯命名為《[Re:
-Blackpink](https://zh.wikipedia.org/wiki/Re:_Blackpink "wikilink")》發行於3月28日，而後順勢宣布她們將赴日本舉行出道後首場的日本競技場巡迴演唱會「[BLACKPINK
+Blackpink](../Page/Re:_Blackpink.md "wikilink")》發行於3月28日，而後順勢宣布她們將赴日本舉行出道後首場的日本競技場巡迴演唱會「[BLACKPINK
 Arena Tour
 2018](../Page/2018年BLACKPINK競技場巡迴演唱會.md "wikilink")」，以7月24日在日本[大阪為起點](../Page/大阪市.md "wikilink")，先後在[福岡](../Page/福岡市.md "wikilink")、[千葉共](../Page/千葉市.md "wikilink")3座城市舉辦8場公演，總計動員125,000名觀眾\[103\]。
 
 經過一年團體在韓國的空白期後，BLACKPINK於6月15日發行首張迷你專輯《[Square
-Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》，這張專輯是將過去的單曲概念集合起來再升級的音樂作品，專輯包含了多種曲風，從節奏感強烈的[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")、[流行舞曲](../Page/流行舞曲.md "wikilink")、[陷阱音樂來到輕快的](https://zh.wikipedia.org/wiki/陷阱音樂 "wikilink")[靈魂樂](../Page/靈魂樂.md "wikilink")、[节奏布鲁斯](../Page/节奏布鲁斯.md "wikilink")，體現了BLACKPINK多樣化的音樂領域\[104\]。發行後，BLACKPINK以包攬海外共52國iTunes專輯排行榜冠軍的成績\[105\]，刷新韓國流行音樂歷史上女性歌手拿下最多國家榜單1位的紀錄，同一時間發佈的錄影帶則在上線首日豎立韓國歌手[於YouTube在24小時內觀看次數最多的音樂錄影帶新的里程碑](../Page/發布後24小時內觀看次數最多的網路影片列表.md "wikilink")，亦是全球第二部首日觀看最多的音樂影片，點閱數達到3620萬次\[106\]，這項紀錄維持至2018年8月25日。而隨著各大榜單陸續更新，《Square
+Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》，這張專輯是將過去的單曲概念集合起來再升級的音樂作品，專輯包含了多種曲風，從節奏感強烈的[嘻哈音樂](../Page/嘻哈音樂.md "wikilink")、[流行舞曲](../Page/流行舞曲.md "wikilink")、[陷阱音樂來到輕快的](../Page/陷阱音樂.md "wikilink")[靈魂樂](../Page/靈魂樂.md "wikilink")、[节奏布鲁斯](../Page/节奏布鲁斯.md "wikilink")，體現了BLACKPINK多樣化的音樂領域\[104\]。發行後，BLACKPINK以包攬海外共52國iTunes專輯排行榜冠軍的成績\[105\]，刷新韓國流行音樂歷史上女性歌手拿下最多國家榜單1位的紀錄，同一時間發佈的錄影帶則在上線首日豎立韓國歌手[於YouTube在24小時內觀看次數最多的音樂錄影帶新的里程碑](../Page/發布後24小時內觀看次數最多的網路影片列表.md "wikilink")，亦是全球第二部首日觀看最多的音樂影片，點閱數達到3620萬次\[106\]，這項紀錄維持至2018年8月25日。而隨著各大榜單陸續更新，《Square
 Up》成為BLACKPINK在歐美的音樂榜上成就頗大的一張專輯，包括在[英國官方榜單公司](https://zh.wikipedia.org/wiki/官方榜單公司 "wikilink")、[奧地利Ö3四十強音樂榜](https://zh.wikipedia.org/wiki/奧地利Ö3四十強音樂榜 "wikilink")、[瑞士熱門音樂榜等榜單均首次佔有一席之位](https://zh.wikipedia.org/wiki/瑞士熱門音樂榜 "wikilink")。美國《告示牌》方面，BLACKPINK在其[百大單曲榜和](../Page/告示牌百强单曲榜.md "wikilink")[二百大專輯榜均成為排位最高的K](../Page/公告牌二百强专辑榜.md "wikilink")-Pop女團，她們的單曲《[Ddu-Du
 Ddu-Du](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")》在前者位居第55名，專輯則初次亮相即在後者中位居第40名，BLACKPINK本身也坐落新興藝人榜冠軍之位\[107\]。優異的商業表現獲《[富比士](https://zh.wikipedia.org/wiki/富比士 "wikilink")》讚賞，其記者塔瑪·赫爾曼以「全美最具影響力的K-Pop女子組合」為題，稱她們「無疑是質優於量的女團」\[108\]，《[紐約時報](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")》則將她們的歌曲列入年度最熱門的歌曲之一\[109\]。
 
 結束《Square Up》的宣傳後，BLACKPINK便飛往日本繼續開展後續的日本巡演場次，期間也著手準備了日語作品《[Ddu-Du
 Ddu-Du](../Page/Ddu-Du_Ddu-Du_\(日本單曲\).md "wikilink")》\[110\]和《[Blackpink
 in Your
-Area](../Page/Blackpink_in_Your_Area.md "wikilink")》，並參與錄製一些周邊歌曲，包括與[英國歌手](https://zh.wikipedia.org/wiki/英國 "wikilink")[杜娃·黎波進行的跨國合作](https://zh.wikipedia.org/wiki/杜娃·黎波 "wikilink")，其合作歌曲《》收錄在杜娃·黎波個人的精裝版本內，發行於10月19日\[111\]。此時，她們受到[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")[董事長兼](../Page/董事長.md "wikilink")[首席執行長](../Page/首席执行官.md "wikilink")的關注，他在該企業全球幹部齊聚的會議中宣佈與YG娛樂合作，將BLACKPINK簽約至隸屬於旗下的[新視鏡唱片](https://zh.wikipedia.org/wiki/新視鏡唱片 "wikilink")，以協助她們進軍[美國音樂市場](../Page/美国流行音乐.md "wikilink")\[112\]。
+Area](../Page/Blackpink_in_Your_Area.md "wikilink")》，並參與錄製一些周邊歌曲，包括與[英國歌手](https://zh.wikipedia.org/wiki/英國 "wikilink")[杜娃·黎波進行的跨國合作](../Page/杜娃·黎波.md "wikilink")，其合作歌曲《》收錄在杜娃·黎波個人的精裝版本內，發行於10月19日\[111\]。此時，她們受到[環球唱片](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")[董事長兼](../Page/董事長.md "wikilink")[首席執行長](../Page/首席执行官.md "wikilink")的關注，他在該企業全球幹部齊聚的會議中宣佈與YG娛樂合作，將BLACKPINK簽約至隸屬於旗下的[新視鏡唱片](../Page/新視鏡唱片.md "wikilink")，以協助她們進軍[美國音樂市場](../Page/美国流行音乐.md "wikilink")\[112\]。
 
 ### 2019年至今：世界巡演、進軍美國、《Kill This Love》
 
@@ -159,7 +159,7 @@ revolution」等標誌性口號，更加集中展現出她們的自信與影響�
 [180125_서울가요대상_-_블랙핑크.png](https://zh.wikipedia.org/wiki/File:180125_서울가요대상_-_블랙핑크.png "fig:180125_서울가요대상_-_블랙핑크.png")
 BLACKPINK於2016年8月8日正式出道，推出的出道專輯《Square
 One》為[韓國流行音樂書寫了多項紀錄](../Page/韓國流行音樂.md "wikilink")，她們是迄今為止通過出道音樂作品最快登頂美國告示牌榜單的歌手、締造K-Pop最短時間摘得美國iTunes專輯排行榜冠軍的團體，並且成為繼美國女子組合[五佳人後世界上唯二登頂iTunes世界專輯榜的女團](../Page/五佳人.md "wikilink")\[129\]，以及與同經紀公司的G-Dragon是第二個登頂該榜單的韓國歌手，同年11月1日，BLACKPINK趁勝追擊推出第二張單曲《Square
-Two》，這張單曲則為韓國樂壇帶來以女團身份最初登上加拿大百強單曲榜的成績，而她們也作為2016年出道的新人，成功包攬韓國大型頒獎典禮的新人獎項，包括在「[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")」、「[亞洲明星盛典](https://zh.wikipedia.org/wiki/亞洲明星盛典 "wikilink")」、「KpopStarz大賞」、「年度Soompi大獎」、「[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")」、「[首爾音樂獎](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")」及「[Gaon
+Two》，這張單曲則為韓國樂壇帶來以女團身份最初登上加拿大百強單曲榜的成績，而她們也作為2016年出道的新人，成功包攬韓國大型頒獎典禮的新人獎項，包括在「[甜瓜音樂獎](../Page/甜瓜音樂獎.md "wikilink")」、「[亞洲明星盛典](../Page/亞洲明星盛典.md "wikilink")」、「KpopStarz大賞」、「年度Soompi大獎」、「[金唱片獎](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")」、「[首爾音樂獎](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink")」及「[Gaon
 Chart
 K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink")」均獲頒新人獎\[130\]\[131\]\[132\]\[133\]\[134\]。2017年發行的第三張單曲《As
 If It's Your
@@ -182,7 +182,7 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
   - 2016年《[Square
     Two](https://zh.wikipedia.org/wiki/Square_Two_\(Black_Pink單曲\) "wikilink")》
   - 2017年《[As If It's Your
-    Last](https://zh.wikipedia.org/wiki/As_If_It's_Your_Last "wikilink")》
+    Last](../Page/As_If_It's_Your_Last.md "wikilink")》
 
 #### 翻唱單曲
 
@@ -198,9 +198,8 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 
 #### 迷你專輯
 
-  - 2017年《[Blackpink](https://zh.wikipedia.org/wiki/Blackpink_\(迷你專輯\) "wikilink")》
-  - 2018年《[Re:
-    Blackpink](https://zh.wikipedia.org/wiki/Re:_Blackpink "wikilink")》
+  - 2017年《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》
+  - 2018年《[Re: Blackpink](../Page/Re:_Blackpink.md "wikilink")》
 
 #### 單曲
 
@@ -210,8 +209,7 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 
 ### 專屬節目
 
-  - 2018年：[Blackpink
-    House](https://zh.wikipedia.org/wiki/Blackpink_House "wikilink")
+  - 2018年：[Blackpink House](../Page/Blackpink_House.md "wikilink")
   - 2019年：Blackpink Diaries
 
 ## 演唱會
@@ -271,7 +269,7 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 </tr>
 <tr class="even">
 <td><p>手機品牌</p></td>
-<td><p>「LG」，型號「<a href="https://zh.wikipedia.org/wiki/LG_G6" title="wikilink">LG G6</a>」</p></td>
+<td><p>「LG」，型號「<a href="../Page/LG_G6.md" title="wikilink">LG G6</a>」</p></td>
 <td><p>[142]</p></td>
 <td></td>
 <td></td>
@@ -307,7 +305,7 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 <tr class="odd">
 <td><p>飲品</p></td>
 <td><p>「<a href="../Page/雪碧.md" title="wikilink">雪碧</a>」</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/禹棹煥" title="wikilink">禹棹煥</a></p></td>
+<td><p><a href="../Page/禹棹煥.md" title="wikilink">禹棹煥</a></p></td>
 <td><p>[147]</p></td>
 <td></td>
 </tr>
@@ -362,7 +360,7 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/電子商務" title="wikilink">電子商務</a></p></td>
-<td><p>「<a href="https://zh.wikipedia.org/wiki/蝦皮購物" title="wikilink">蝦皮購物</a>」</p></td>
+<td><p>「<a href="../Page/蝦皮購物.md" title="wikilink">蝦皮購物</a>」</p></td>
 <td><p>[155]</p></td>
 <td></td>
 <td></td>
@@ -442,7 +440,7 @@ Last》為組合進一步提升全球知名度，使BLACKPINK在美國告示牌5
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/As_If_It&#39;s_Your_Last" title="wikilink">As If It's Your Last</a></p></td>
+<td><p><a href="../Page/As_If_It&#39;s_Your_Last.md" title="wikilink">As If It's Your Last</a></p></td>
 <td><p>2</p></td>
 </tr>
 <tr class="odd">

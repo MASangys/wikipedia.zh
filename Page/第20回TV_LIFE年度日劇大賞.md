@@ -1,6 +1,5 @@
-[第19回](https://zh.wikipedia.org/wiki/第19回TV_LIFE年度日劇大賞 "wikilink") ←
-**第20回** →
-[第21回](https://zh.wikipedia.org/wiki/第21回TV_LIFE年度日劇大賞 "wikilink")
+[第19回](../Page/第19回TV_LIFE年度日劇大賞.md "wikilink") ← **第20回** →
+[第21回](../Page/第21回TV_LIFE年度日劇大賞.md "wikilink")
 
 **第20回[TV
 LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2010年播出的連續劇做出的觀眾投票。
@@ -40,7 +39,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </tr>
 <tr class="even">
 <td><p>第四位</p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/无法坦诚相对" title="wikilink">无法坦诚相对</a>》</p></td>
+<td><p>　《<a href="../Page/无法坦诚相对.md" title="wikilink">无法坦诚相对</a>》</p></td>
 <td><p>　<a href="../Page/富士電視台.md" title="wikilink">富士電視台</a></p></td>
 </tr>
 <tr class="odd">
@@ -121,7 +120,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 <tr class="odd">
 <td><p>第七位</p></td>
 <td><p>　<a href="../Page/瑛太.md" title="wikilink">瑛　太</a></p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/无法坦诚相对" title="wikilink">无法坦诚相对</a>》</p></td>
+<td><p>　《<a href="../Page/无法坦诚相对.md" title="wikilink">无法坦诚相对</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>第八位</p></td>
@@ -191,7 +190,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 <tr class="even">
 <td><p>第八位</p></td>
 <td><p>　<a href="../Page/上野樹里.md" title="wikilink">上野樹里</a></p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/无法坦诚相对" title="wikilink">无法坦诚相对</a>》</p></td>
+<td><p>　《<a href="../Page/无法坦诚相对.md" title="wikilink">无法坦诚相对</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p>第九位</p></td>
@@ -226,7 +225,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 <tr class="even">
 <td><p>第二位</p></td>
 <td><p>　<a href="../Page/金在中.md" title="wikilink">金在中</a></p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/无法坦诚相对" title="wikilink">无法坦诚相对</a>》</p></td>
+<td><p>　《<a href="../Page/无法坦诚相对.md" title="wikilink">无法坦诚相对</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p>第三位</p></td>
@@ -361,7 +360,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 <tr class="odd">
 <td><p>第三位</p></td>
 <td><p>　<a href="../Page/金在中.md" title="wikilink">金在中</a></p></td>
-<td><p>　《<a href="https://zh.wikipedia.org/wiki/无法坦诚相对" title="wikilink">无法坦诚相对</a>》</p></td>
+<td><p>　《<a href="../Page/无法坦诚相对.md" title="wikilink">无法坦诚相对</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>第四位</p></td>

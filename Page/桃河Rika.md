@@ -103,7 +103,7 @@ WING所屬](../Page/EARLY_WING.md "wikilink")\[2\]。出身於[岡山縣](../Pag
   - （2015年4月1日－6月24日，[TOKYO MX等](../Page/東京都會電視台.md "wikilink")）
 
   - Voice Bar
-    'S（2015年10月12日，[NOTTV](https://zh.wikipedia.org/wiki/NOTTV "wikilink")）\[23\]\[24\]
+    'S（2015年10月12日，[NOTTV](../Page/NOTTV.md "wikilink")）\[23\]\[24\]
 
 ### 其它
 

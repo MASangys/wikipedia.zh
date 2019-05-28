@@ -316,7 +316,7 @@ Movie）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wi
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/追殺比爾2：愛的大逃殺" title="wikilink">追殺比爾2：愛的大逃殺</a></p></td>
+<td><p><a href="../Page/追殺比爾2：愛的大逃殺.md" title="wikilink">追殺比爾2：愛的大逃殺</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -626,7 +626,7 @@ Movie）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wi
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/牠_(電影)" title="wikilink">牠</a></p></td>
+<td><p><a href="../Page/牠_(電影).md" title="wikilink">牠</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -1,6 +1,6 @@
 **SIG
 P290**是一款由[西格-紹爾在](../Page/西格&紹爾.md "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[新罕布什尔州](../Page/新罕布什尔州.md "wikilink")[埃克塞特市的工廠所研製及於](../Page/埃克塞特_\(新罕布什尔州\).md "wikilink")2011年至2017年生產的袖珍型單動式[半自動手槍](../Page/半自動手槍.md "wikilink")，採用[聚合物](../Page/聚合物.md "wikilink")[底把與](https://zh.wikipedia.org/wiki/機匣 "wikilink")[不銹鋼](https://zh.wikipedia.org/wiki/不銹鋼 "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，發射[9×19毫米](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。它已被[SIG
-P365所取代](https://zh.wikipedia.org/wiki/SIG_P365手槍 "wikilink")。
+P365所取代](../Page/SIG_P365手槍.md "wikilink")。
 
 ## 概述
 
@@ -39,12 +39,11 @@ Capability）。因此，該槍在型號數以後加上RS。如果出現啞火�
   - [SIG P230手槍](../Page/SIG_P230手槍.md "wikilink")
   - [SIG P238手槍](../Page/SIG_P238手槍.md "wikilink")
   - [SIG P239手槍](../Page/SIG_P239手槍.md "wikilink")
-  - [SIG P365手槍](https://zh.wikipedia.org/wiki/SIG_P365手槍 "wikilink")
+  - [SIG P365手槍](../Page/SIG_P365手槍.md "wikilink")
   - [SIG P938手槍](../Page/SIG_P938手槍.md "wikilink")
-  - [S\&W
-    M\&P護盾型](https://zh.wikipedia.org/wiki/史密斯威森軍警型半自動手槍 "wikilink")
+  - [S\&W M\&P護盾型](../Page/史密斯威森軍警型半自動手槍.md "wikilink")
   - [-{zh-tw:華瑟;zh-cn:瓦爾特;}-PPS手槍](../Page/瓦爾特PPS手槍.md "wikilink")
-  - [-{zh-tw:華瑟;zh-cn:瓦爾特;}-CCP手槍](https://zh.wikipedia.org/wiki/瓦爾特CCP手槍 "wikilink")
+  - [-{zh-tw:華瑟;zh-cn:瓦爾特;}-CCP手槍](../Page/瓦爾特CCP手槍.md "wikilink")
 
 ## 資料來源
 

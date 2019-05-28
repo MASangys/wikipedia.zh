@@ -20,7 +20,7 @@ VR在2017年10月发售的小改款中内置了耳机，并且处理单元支持
 ## 支持游戏
 
 PlayStation
-VR最初公布的游戏多为类似技术演示的作品，不过后来获得了不少第三方游戏开发商的支持。例如[史克威尔艾尼克斯的](../Page/史克威尔艾尼克斯.md "wikilink")《[最终幻想XV](https://zh.wikipedia.org/wiki/最终幻想XV "wikilink")》、[卡普空的](../Page/卡普空.md "wikilink")《[生化危机7](https://zh.wikipedia.org/wiki/生化危机7 "wikilink")》、[万代南梦宫的](https://zh.wikipedia.org/wiki/万代南梦宫 "wikilink")《[皇牌空战7](https://zh.wikipedia.org/wiki/皇牌空战7 "wikilink")》、《[铁拳7](https://zh.wikipedia.org/wiki/铁拳7 "wikilink")》、《》都会支持PlayStation
+VR最初公布的游戏多为类似技术演示的作品，不过后来获得了不少第三方游戏开发商的支持。例如[史克威尔艾尼克斯的](../Page/史克威尔艾尼克斯.md "wikilink")《[最终幻想XV](https://zh.wikipedia.org/wiki/最终幻想XV "wikilink")》、[卡普空的](../Page/卡普空.md "wikilink")《[生化危机7](https://zh.wikipedia.org/wiki/生化危机7 "wikilink")》、[万代南梦宫的](https://zh.wikipedia.org/wiki/万代南梦宫 "wikilink")《[皇牌空战7](https://zh.wikipedia.org/wiki/皇牌空战7 "wikilink")》、《[铁拳7](../Page/铁拳7.md "wikilink")》、《》都会支持PlayStation
 VR显示。而像[光荣特库摩的](../Page/光荣特库摩.md "wikilink")《[死或生
 沙滩排球3](https://zh.wikipedia.org/wiki/死或生_沙滩排球3 "wikilink")》和[Slightly
 Mad
@@ -30,7 +30,7 @@ VR推出相应的版本。\[4\]
 ## 销售
 
 PlayStation VR在2016年10月13日起在全球范围内发售。根据[Media
-Create统计](https://zh.wikipedia.org/wiki/Media_Create "wikilink")，PlayStation
+Create统计](../Page/Media_Create.md "wikilink")，PlayStation
 VR在日本首周销量为5万1千台\[5\]。2017年12月，Sony公佈PS
 VR的全球銷量已突破200万組\[6\]。截至2019年3月，全世界累計銷量超過了420萬台\[7\]。
 
@@ -40,7 +40,7 @@ PlayStation VR的開發計畫名称“墨菲斯（morpheus）”与[PlayStation 
 Pro的計畫名称](https://zh.wikipedia.org/wiki/PlayStation_4_Pro "wikilink")“尼奥（neo）”，是对应電影《[-{zh-cn:黑客帝国;zh-tw:駭客任務;}-](https://zh.wikipedia.org/wiki/駭客任務 "wikilink")》中的人物。\[8\]
 
 2017年上映的日本電影《[劇場版 假面騎士EX-AID
-True·Ending](https://zh.wikipedia.org/wiki/劇場版_假面騎士EX-AID_True·Ending "wikilink")》中，主角寶生永夢所使用的VR裝置「幻夢VR」即是以PS
+True·Ending](../Page/劇場版_假面騎士EX-AID_True·Ending.md "wikilink")》中，主角寶生永夢所使用的VR裝置「幻夢VR」即是以PS
 VR為設計原型\[9\]。
 
 ## 相关条目

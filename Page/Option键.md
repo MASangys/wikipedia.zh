@@ -1,5 +1,5 @@
 [Third-party_option_key.JPG](https://zh.wikipedia.org/wiki/File:Third-party_option_key.JPG "fig:Third-party_option_key.JPG")
-**Option键**是[苹果标准键盘中的按键](https://zh.wikipedia.org/wiki/苹果标准键盘 "wikilink")，一般位于[Control键与](https://zh.wikipedia.org/wiki/Control键 "wikilink")[Command键之间](https://zh.wikipedia.org/wiki/Command键 "wikilink")。现代的[苹果台式机和笔记本的键盘上有两个Option键](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，分别位于[空格键两侧](https://zh.wikipedia.org/wiki/空格键 "wikilink")。
+**Option键**是[苹果标准键盘中的按键](https://zh.wikipedia.org/wiki/苹果标准键盘 "wikilink")，一般位于[Control键与](https://zh.wikipedia.org/wiki/Control键 "wikilink")[Command键之间](../Page/Command键.md "wikilink")。现代的[苹果台式机和笔记本的键盘上有两个Option键](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，分别位于[空格键两侧](https://zh.wikipedia.org/wiki/空格键 "wikilink")。
 
 苹果通常使用 ⌥（U+2325）来代表Option键。\[1\]\[2\]
 

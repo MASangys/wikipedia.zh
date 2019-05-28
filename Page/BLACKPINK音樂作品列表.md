@@ -130,7 +130,7 @@ Albums</small></a><br />
 <td><p><a href="https://zh.wikipedia.org/wiki/Square_Up_(迷你專輯)" title="wikilink">Square Up</a></p></td>
 <td><ul>
 <li>發行日期：2018年6月15日</li>
-<li>廠牌：<a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a>、<a href="https://zh.wikipedia.org/wiki/Genie音樂" title="wikilink">Genie音樂</a></li>
+<li>廠牌：<a href="../Page/YG娛樂.md" title="wikilink">YG娛樂</a>、<a href="../Page/Genie音樂.md" title="wikilink">Genie音樂</a></li>
 <li>格式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>1</p></td>
@@ -141,7 +141,7 @@ Albums</small></a><br />
 <td><p><a href="../Page/Kill_This_Love.md" title="wikilink">Kill This Love</a></p></td>
 <td><ul>
 <li>發行日期：2019年4月5日</li>
-<li>廠牌：YG娛樂、Genie音樂、<a href="https://zh.wikipedia.org/wiki/新視鏡唱片" title="wikilink">新視鏡唱片</a></li>
+<li>廠牌：YG娛樂、Genie音樂、<a href="../Page/新視鏡唱片.md" title="wikilink">新視鏡唱片</a></li>
 <li>格式：CD、數位音樂下載</li>
 </ul></td>
 <td></td>
@@ -154,7 +154,7 @@ Albums</small></a><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Blackpink_(迷你專輯)" title="wikilink">Blackpink</a></p></td>
+<td><p><a href="../Page/Blackpink_(迷你專輯).md" title="wikilink">Blackpink</a></p></td>
 <td><ul>
 <li>發行日期：2017年8月30日</li>
 <li>廠牌：YGEX</li>
@@ -165,7 +165,7 @@ Albums</small></a><br />
 </tr>
 <tr class="even">
 <td><ul>
-<li>改版發行日期：2018年3月28日《<a href="https://zh.wikipedia.org/wiki/Re:_Blackpink" title="wikilink">Re: Blackpink</a>》</li>
+<li>改版發行日期：2018年3月28日《<a href="../Page/Re:_Blackpink.md" title="wikilink">Re: Blackpink</a>》</li>
 <li>語言：日語</li>
 <li>廠牌：YGEX</li>
 <li>格式：CD、DVD、數位音樂下載、PlayButton</li>
@@ -360,7 +360,7 @@ Hot<br />
 <td><p>48</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/As_If_It&#39;s_Your_Last" title="wikilink">As If It's Your Last</a></p></td>
+<td><p><a href="../Page/As_If_It&#39;s_Your_Last.md" title="wikilink">As If It's Your Last</a></p></td>
 <td><p>2017</p></td>
 <td><p>3</p></td>
 <td><p>2</p></td>
@@ -427,7 +427,7 @@ Hot<br />
 <li></li>
 </ul>
 <p></ref></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新西兰官方音乐榜" title="wikilink">NZ<br />
+<td><p><a href="../Page/新西兰官方音乐榜.md" title="wikilink">NZ<br />
 Heat.</a><br />
 <ref>紐西蘭最佳熱門發現歌曲榜：</p>
 <ul>
@@ -545,7 +545,7 @@ Tip</a><br />
 </tr>
 <tr class="even">
 <td><p><br />
-<small>（與<a href="https://zh.wikipedia.org/wiki/杜娃·黎波" title="wikilink">杜娃·黎波</a>）</small></p></td>
+<small>（與<a href="../Page/杜娃·黎波.md" title="wikilink">杜娃·黎波</a>）</small></p></td>
 <td><p>2018</p></td>
 <td><p>75</p></td>
 <td><p>33</p></td>

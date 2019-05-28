@@ -2,7 +2,7 @@
 
 ## 制备
 
-HKUST-1可由可溶性Cu<sup>2+</sup>盐和[均苯三甲酸在一定条件下反应得到](https://zh.wikipedia.org/wiki/均苯三甲酸 "wikilink")。常用的方法有溶剂热合成法\[2\]、常温法\[3\]等。[乙酸铜](../Page/乙酸铜.md "wikilink")、[硝酸铜](../Page/硝酸铜.md "wikilink")、[氯化铜和](../Page/氯化铜.md "wikilink")[硫酸铜通过反应均能得到该配合物](../Page/硫酸铜.md "wikilink")：\[4\]
+HKUST-1可由可溶性Cu<sup>2+</sup>盐和[均苯三甲酸在一定条件下反应得到](../Page/均苯三甲酸.md "wikilink")。常用的方法有溶剂热合成法\[2\]、常温法\[3\]等。[乙酸铜](../Page/乙酸铜.md "wikilink")、[硝酸铜](../Page/硝酸铜.md "wikilink")、[氯化铜和](../Page/氯化铜.md "wikilink")[硫酸铜通过反应均能得到该配合物](../Page/硫酸铜.md "wikilink")：\[4\]
 
   -
     3 CuCl<sub>2</sub> + 2 C<sub>9</sub>H<sub>6</sub>O<sub>6</sub> →

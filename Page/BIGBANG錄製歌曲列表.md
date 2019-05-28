@@ -39,7 +39,7 @@
 <tr class="odd">
 <td><p><span id="A">A Fool's Only Tears</span></p></td>
 <td><p><a href="../Page/G-Dragon.md" title="wikilink">G-Dragon</a>, An Young Min</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG_Vol.1_(BIGBANG專輯)" title="wikilink">BIGBANG Vol.1</a> / <a href="../Page/BIGBANG_(2006年單曲).md" title="wikilink">BIGBANG（單曲）</a></p></td>
+<td><p><a href="../Page/BIGBANG_Vol.1_(BIGBANG專輯).md" title="wikilink">BIGBANG Vol.1</a> / <a href="../Page/BIGBANG_(2006年單曲).md" title="wikilink">BIGBANG（單曲）</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2006</p></td>
 </tr>
@@ -73,7 +73,7 @@
 </tr>
 <tr class="even">
 <td><p>G-Dragon, <a href="https://zh.wikipedia.org/wiki/Teddy_Park" title="wikilink">Teddy</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Always_(BIGBANG迷你專輯)" title="wikilink">Always</a></p></td>
+<td><p><a href="../Page/Always_(BIGBANG迷你專輯).md" title="wikilink">Always</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -214,7 +214,7 @@
 <tr class="even">
 <td><p><span id="D">Dirty Cash </span></p></td>
 <td><p>G-Dragon, 072</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG_Vol.1_(BIGBANG專輯)" title="wikilink">BIGBANG Vol.1</a></p></td>
+<td><p><a href="../Page/BIGBANG_Vol.1_(BIGBANG專輯).md" title="wikilink">BIGBANG Vol.1</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2006</p></td>
 </tr>
@@ -410,7 +410,7 @@
 <tr class="even">
 <td><p>Intro（Big Bang）</p></td>
 <td><p>G-Dragon</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG_Vol.1_(BIGBANG專輯)" title="wikilink">BIGBANG Vol.1</a></p></td>
+<td><p><a href="../Page/BIGBANG_Vol.1_(BIGBANG專輯).md" title="wikilink">BIGBANG Vol.1</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2006</p></td>
 </tr>
@@ -493,7 +493,7 @@
 </tr>
 <tr class="even">
 <td><p>BIGBANG</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG_Vol.1_(BIGBANG專輯)" title="wikilink">BIGBANG Vol.1</a> / <a href="../Page/BIGBANG_Is_V.I.P.md" title="wikilink">BIGBANG Is V.I.P</a></p></td>
+<td><p><a href="../Page/BIGBANG_Vol.1_(BIGBANG專輯).md" title="wikilink">BIGBANG Vol.1</a> / <a href="../Page/BIGBANG_Is_V.I.P.md" title="wikilink">BIGBANG Is V.I.P</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2006</p></td>
 <td></td>
@@ -549,7 +549,7 @@
 </tr>
 <tr class="even">
 <td><p>G-Dragon</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Always_(BIGBANG迷你專輯)" title="wikilink">Always</a></p></td>
+<td><p><a href="../Page/Always_(BIGBANG迷你專輯).md" title="wikilink">Always</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2007</p></td>
 <td></td>
@@ -655,7 +655,7 @@
 <tr class="odd">
 <td><p><span id="O">Oh Ma Baby</span></p></td>
 <td><p>G-Dragon</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Always_(BIGBANG迷你專輯)" title="wikilink">Always</a></p></td>
+<td><p><a href="../Page/Always_(BIGBANG迷你專輯).md" title="wikilink">Always</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2007</p></td>
 </tr>
@@ -697,7 +697,7 @@
 <tr class="odd">
 <td><p><span id="S">Shake It<small>（Lee Eun-ju配唱）</small> </span></p></td>
 <td><p>G-Dragon</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG_Vol.1_(BIGBANG專輯)" title="wikilink">BIGBANG Vol.1</a></p></td>
+<td><p><a href="../Page/BIGBANG_Vol.1_(BIGBANG專輯).md" title="wikilink">BIGBANG Vol.1</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2006</p></td>
 </tr>
@@ -711,7 +711,7 @@
 <tr class="odd">
 <td><p>She Can't Get Enough</p></td>
 <td><p>G-Dragon, Kim Ina</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG_Vol.1_(BIGBANG專輯)" title="wikilink">BIGBANG Vol.1</a></p></td>
+<td><p><a href="../Page/BIGBANG_Vol.1_(BIGBANG專輯).md" title="wikilink">BIGBANG Vol.1</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2006</p></td>
 </tr>
@@ -851,7 +851,7 @@
 <tr class="odd">
 <td><p><span id="W">We are Big Bang（Intro）</span></p></td>
 <td><p>BIGBANG</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Always_(BIGBANG迷你專輯)" title="wikilink">Always</a></p></td>
+<td><p><a href="../Page/Always_(BIGBANG迷你專輯).md" title="wikilink">Always</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2007</p></td>
 </tr>
@@ -893,7 +893,7 @@
 <tr class="odd">
 <td><p>Wrong Number（So Beautiful）</p></td>
 <td><p>梁鉉錫</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Always_(BIGBANG迷你專輯)" title="wikilink">Always</a></p></td>
+<td><p><a href="../Page/Always_(BIGBANG迷你專輯).md" title="wikilink">Always</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2007</p></td>
 </tr>
@@ -941,7 +941,7 @@
 <tr class="odd">
 <td><p>This Love </p></td>
 <td><p>G-Dragon</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG_Vol.1_(BIGBANG專輯)" title="wikilink">BIGBANG Vol.1</a></p></td>
+<td><p><a href="../Page/BIGBANG_Vol.1_(BIGBANG專輯).md" title="wikilink">BIGBANG Vol.1</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2006</p></td>
 </tr>
@@ -1193,7 +1193,7 @@
 <tr class="odd">
 <td><p>Intro.權志龍</p></td>
 <td><p>G-Dragon, 24, Kush</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/權志龍_(專輯)" title="wikilink">權志龍</a></p></td>
+<td><p><a href="../Page/權志龍_(專輯).md" title="wikilink">權志龍</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2017</p></td>
 </tr>
@@ -1212,7 +1212,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/無題_(G-Dragon歌曲)" title="wikilink">無題</a></p></td>
+<td><p><a href="../Page/無題_(G-Dragon歌曲).md" title="wikilink">無題</a></p></td>
 <td><p>G-Dragon, Choice37</p></td>
 <td><p>韓語</p></td>
 <td><p>2017</p></td>
@@ -1244,7 +1244,7 @@
 <tr class="odd">
 <td><p>My Girl </p></td>
 <td><p>G-Dragon</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG_Vol.1_(BIGBANG專輯)" title="wikilink">BIGBANG Vol.1</a></p></td>
+<td><p><a href="../Page/BIGBANG_Vol.1_(BIGBANG專輯).md" title="wikilink">BIGBANG Vol.1</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2006</p></td>
 </tr>
@@ -1505,7 +1505,7 @@
 <tr class="odd">
 <td><p>Try Smiling</p></td>
 <td><p>An Young Min</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG_Vol.1_(BIGBANG專輯)" title="wikilink">BIGBANG Vol.1</a></p></td>
+<td><p><a href="../Page/BIGBANG_Vol.1_(BIGBANG專輯).md" title="wikilink">BIGBANG Vol.1</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2006</p></td>
 </tr>
@@ -1775,7 +1775,7 @@
 
 | 歌曲                                                                                       | 作曲及填詞                                                                                     | 首次收錄專輯                                                                                                                                                     | 語言   | 年份   |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | ---- |
-| Next Day                                                                                 | Sim Jae Hee                                                                               | [BIGBANG Vol.1](https://zh.wikipedia.org/wiki/BIGBANG_Vol.1_\(BIGBANG專輯\) "wikilink")                                                                      | 韓語   | 2006 |
+| Next Day                                                                                 | Sim Jae Hee                                                                               | [BIGBANG Vol.1](../Page/BIGBANG_Vol.1_\(BIGBANG專輯\).md "wikilink")                                                                                         | 韓語   | 2006 |
 | Strong Baby                                                                              | G-Dragon                                                                                  | [Remember](https://zh.wikipedia.org/wiki/Remember_\(BIGBANG專輯\) "wikilink")                                                                                | 韓語   | 2008 |
 | G-Dragon, Jinyeol Bae, Sunny Boy                                                         | [Let's Talk About Love（日本正規專輯）](../Page/Let's_Talk_About_Love_\(勝利韓語迷你專輯\).md "wikilink") | 日語                                                                                                                                                         | 2013 |      |
 | VVIP                                                                                     | 勝利, Choi Pil-kang                                                                         | [V.V.I.P](https://zh.wikipedia.org/wiki/V.V.I.P "wikilink")                                                                                                | 韓語   | 2011 |
@@ -1821,14 +1821,14 @@
 <tr class="odd">
 <td><p>Big Boy</p></td>
 <td><p>T.O.P</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIGBANG_Vol.1_(BIGBANG專輯)" title="wikilink">BIGBANG Vol.1</a></p></td>
+<td><p><a href="../Page/BIGBANG_Vol.1_(BIGBANG專輯).md" title="wikilink">BIGBANG Vol.1</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2006</p></td>
 </tr>
 <tr class="even">
 <td><p>Act Like Nothing's Wrong<small>（Kim Ji Eun配唱）</small></p></td>
 <td><p>T.O.P</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Always_(BIGBANG迷你專輯)" title="wikilink">Always</a></p></td>
+<td><p><a href="../Page/Always_(BIGBANG迷你專輯).md" title="wikilink">Always</a></p></td>
 <td><p>韓語</p></td>
 <td><p>2007</p></td>
 </tr>

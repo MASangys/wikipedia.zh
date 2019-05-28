@@ -60,7 +60,7 @@ B在各官方社交平台宣布於2018年1月8日推出《Montage》的改版專
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯周榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯周榜</a></p></td>
 <td><p>2018年1月7日－1月13日</p></td>
 <td><p>#5<br />
 （《Re:Montage》）</p></td>
@@ -78,7 +78,7 @@ B在各官方社交平台宣布於2018年1月8日推出《Montage》的改版專
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2018年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2018年1月</p></td>
 <td><p>#13<br />
 （20,000張）<br />
@@ -155,7 +155,7 @@ B在各官方社交平台宣布於2018年1月8日推出《Montage》的改版專
 <td><p>2017年11月7日</p></td>
 <td><p><a href="../Page/數位音樂下載.md" title="wikilink">數位下載</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Seven_Seasons" title="wikilink">Seven Seasons</a><br />
-<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></p></td>
+<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017年11月13日[23]</p></td>

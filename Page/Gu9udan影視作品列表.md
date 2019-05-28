@@ -171,18 +171,18 @@
 
 ## 廣播節目
 
-| 日期          | 電台                                           | 節目名稱                                                                | 參與成員                         | 備註   |
-| ----------- | -------------------------------------------- | ------------------------------------------------------------------- | ---------------------------- | ---- |
-| 2016年6月30日  | SBS Power FM                                 | 《金昌烈的Old School》                                                    | 全員                           | 可視電台 |
-| 2016年7月5日   | 《裴成宰的Ten》                                    | HANA、SEJEONG                                                        |                              |      |
-| 2016年7月12日  | MBC 標準FM                                     | 《朴貞雅的月光樂園》                                                          | 全員                           |      |
-| 2017年3月19日  | [KBS Cool FM](../Page/KBS第2FM.md "wikilink") | 《》                                                                  | 可視電台                         |      |
-| 2017年11月27日 | SBS Power FM                                 | 《》                                                                  |                              |      |
-| 2018年2月7日   | 《NCT的 Night Night\!》                         |                                                                     |                              |      |
-| 2017年2月9日   | KBS Cool FM                                  | 《李洪基的 Kiss The Radio》                                               |                              |      |
-| 2018年2月14日  | SBS Power FM                                 | 《崔華靜的 Power Time》                                                   | MINA、HYEYEON                 |      |
-| 2018年7月27日  | MBC 標準FM                                     | 《[IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink")》 | SEJEONG、MINA、NAYOUNG（SEMINA） | 可視電台 |
-|             |                                              |                                                                     |                              |      |
+| 日期          | 電台                                           | 節目名稱                                             | 參與成員                         | 備註   |
+| ----------- | -------------------------------------------- | ------------------------------------------------ | ---------------------------- | ---- |
+| 2016年6月30日  | SBS Power FM                                 | 《金昌烈的Old School》                                 | 全員                           | 可視電台 |
+| 2016年7月5日   | 《裴成宰的Ten》                                    | HANA、SEJEONG                                     |                              |      |
+| 2016年7月12日  | MBC 標準FM                                     | 《朴貞雅的月光樂園》                                       | 全員                           |      |
+| 2017年3月19日  | [KBS Cool FM](../Page/KBS第2FM.md "wikilink") | 《》                                               | 可視電台                         |      |
+| 2017年11月27日 | SBS Power FM                                 | 《》                                               |                              |      |
+| 2018年2月7日   | 《NCT的 Night Night\!》                         |                                                  |                              |      |
+| 2017年2月9日   | KBS Cool FM                                  | 《李洪基的 Kiss The Radio》                            |                              |      |
+| 2018年2月14日  | SBS Power FM                                 | 《崔華靜的 Power Time》                                | MINA、HYEYEON                 |      |
+| 2018年7月27日  | MBC 標準FM                                     | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")》 | SEJEONG、MINA、NAYOUNG（SEMINA） | 可視電台 |
+|             |                                              |                                                  |                              |      |
 
 ## 電影
 

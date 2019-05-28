@@ -85,7 +85,7 @@ for the Truth/Secret Sky」正式出道\[6\]。
 
   - Music Spice！（，2016年4月7日－）
 
-  - （2017年－，[超！A\&G+](https://zh.wikipedia.org/wiki/超！A&G+ "wikilink")）
+  - （2017年－，[超！A\&G+](../Page/超！A&G+.md "wikilink")）
 
 ## 參考資料
 

@@ -1,12 +1,12 @@
 **MOMOLAND**（），是（前稱Dublekick
 Company）於2016年透過與[Mnet合作的練習生競爭節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")[《SURVIVAL
 MOMOLAND를
-찾아서》選出的女子演唱團體](https://zh.wikipedia.org/wiki/尋找MOMOLAND "wikilink")，由10位少女在節目中挑戰不同任務，爭取出道機會，最終選出
-[慧彬](https://zh.wikipedia.org/wiki/慧彬 "wikilink")、[Nancy](https://zh.wikipedia.org/wiki/南希·麥多尼 "wikilink")、、[娜允](https://zh.wikipedia.org/wiki/娜允 "wikilink")、[妸仁](https://zh.wikipedia.org/wiki/妸仁 "wikilink")、[珠伊](https://zh.wikipedia.org/wiki/JooE "wikilink")、JANE
+찾아서》選出的女子演唱團體](../Page/尋找MOMOLAND.md "wikilink")，由10位少女在節目中挑戰不同任務，爭取出道機會，最終選出
+[慧彬](https://zh.wikipedia.org/wiki/慧彬 "wikilink")、[Nancy](../Page/南希·麥多尼.md "wikilink")、、[娜允](https://zh.wikipedia.org/wiki/娜允 "wikilink")、[妸仁](https://zh.wikipedia.org/wiki/妸仁 "wikilink")、[珠伊](../Page/JooE.md "wikilink")、JANE
 七名成員。
 
 2017年3月28日，加入在[《SURVIVAL MOMOLAND를
-찾아서》落選](https://zh.wikipedia.org/wiki/尋找MOMOLAND "wikilink")，[JYP娛樂練習生出身的](../Page/JYP娛樂.md "wikilink")[DAISY](https://zh.wikipedia.org/wiki/DAISY "wikilink")。
+찾아서》落選](../Page/尋找MOMOLAND.md "wikilink")，[JYP娛樂練習生出身的](../Page/JYP娛樂.md "wikilink")[DAISY](https://zh.wikipedia.org/wiki/DAISY "wikilink")。
 
 2017年4月10日，加入[PRODUCE
 101](../Page/PRODUCE_101.md "wikilink")、[STARSHIP娛樂練習生](../Page/STARSHIP娛樂.md "wikilink")、[宇宙少女預備成員出身的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")（[JYJ成員](../Page/JYJ.md "wikilink")[金俊秀的堂妹](../Page/金俊秀.md "wikilink")）。
@@ -20,7 +20,7 @@ ticket\!"，可知MOMOLAND團名的含意是一座遊樂園。粉絲名為"'''Me
 ### 出道前
 
 2016年8月26日，在Mnet出道生存實境節目[《SURVIVAL MOMOLAND를
-찾아서》中未能完成最終任務](https://zh.wikipedia.org/wiki/尋找MOMOLAND "wikilink")，10位練習生在「聚集三千人」的最終任務中未能成功，現場只有約2,300多位市民參與，確定延後出道。
+찾아서》中未能完成最終任務](../Page/尋找MOMOLAND.md "wikilink")，10位練習生在「聚集三千人」的最終任務中未能成功，現場只有約2,300多位市民參與，確定延後出道。
 
 ### 2016年：出道、《Welcome to MOMOLAND》
 
@@ -42,7 +42,7 @@ Company發表聲明，因受傷無限期暫休，接下來這段日子MOMOLAND�
 ### 2017年：加入新成員、《Wonderful love》、《Freeze\!》
 
 3月28日，加入一起參與[《SURVIVAL MOMOLAND를
-찾아서》出道節目](https://zh.wikipedia.org/wiki/尋找MOMOLAND "wikilink")，曾是[JYP娛樂練習生的](../Page/JYP娛樂.md "wikilink")[DAISY](https://zh.wikipedia.org/wiki/DAISY "wikilink")\[7\]。DAISY直到11歲都在加拿大溫哥華生活，有良好的外語及芭蕾舞實力。
+찾아서》出道節目](../Page/尋找MOMOLAND.md "wikilink")，曾是[JYP娛樂練習生的](../Page/JYP娛樂.md "wikilink")[DAISY](https://zh.wikipedia.org/wiki/DAISY "wikilink")\[7\]。DAISY直到11歲都在加拿大溫哥華生活，有良好的外語及芭蕾舞實力。
 
 4月10日，再加入[PRODUCE
 101](../Page/PRODUCE_101.md "wikilink")、[STARSHIP娛樂練習生](../Page/STARSHIP娛樂.md "wikilink")、[宇宙少女預備成員出身的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，也預計在26日發行全新單曲《非常非常
@@ -76,8 +76,7 @@ Mi》之爭議，經原作者新沙洞老虎出面否認。
 1月3日，發表第三張迷你專輯《GREAT\!》回歸，並舉辦回歸Showcase、主打歌《BBoom BBoom
 (뿜뿜)》首度進入各大音源排行榜的前100名\[8\]。
 
-1月11日，《[BBoom
-BBoom](https://zh.wikipedia.org/wiki/BBoom_BBoom "wikilink") (뿜뿜)》一曲於《[M
+1月11日，《[BBoom BBoom](../Page/BBoom_BBoom.md "wikilink") (뿜뿜)》一曲於《[M
 Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》獲得出道以來首個一位後，主打歌《BBoom
 BBoom (뿜뿜)》音源開始逆行。1月26日，《BBoom BBoom (뿜뿜)》進入美國本周「World Digital Song Sale
 Chart」的第四位，Billboard更是以「意想不到的成長」大篇幅地介紹了她們的這首新歌，力贊「
@@ -166,7 +165,7 @@ ver.-》。
 <td><p>戴西·柳</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/JooE" title="wikilink">珠伊</a></p></td>
+<td><p><a href="../Page/JooE.md" title="wikilink">珠伊</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/妸仁" title="wikilink">妸仁</a></p></td>
@@ -175,7 +174,7 @@ ver.-》。
 <td><p><em><a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a>、<a href="https://zh.wikipedia.org/wiki/杭州" title="wikilink">杭州</a>、</em></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/南希·麥多尼" title="wikilink">Nancy</a></p></td>
+<td><p><a href="../Page/南希·麥多尼.md" title="wikilink">Nancy</a></p></td>
 </tr>
 <tr class="even">
 <td><p>李그루</p></td>
@@ -385,13 +384,13 @@ LineData =
 
 ### 其他歌曲
 
-| 發行日期        | 形式                                                                | 專輯名稱                      | 歌曲名稱                                                                                      | 參與成員                                                                                                                        | 備註                                                       |
-| ----------- | ----------------------------------------------------------------- | ------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
-| 2015年12月17日 | 數位單曲                                                              | 《PICK ME》                 | PICK ME                                                                                   | 泰河                                                                                                                          | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink") 練習生合作作品 |
-| 2017年6月16日  | 《Wonderful love》                                                  | Wonderful love(EDM Ver.)  | 全體                                                                                        |                                                                                                                             |                                                          |
-| 2018年3月12日  | 《[Cross](https://zh.wikipedia.org/wiki/Cross_\(電視劇\) "wikilink")》 | I Need You and I Want You | 泰河、妸仁                                                                                     | [tvN月火劇](https://zh.wikipedia.org/wiki/tvN "wikilink")《[Cross](https://zh.wikipedia.org/wiki/Cross_\(電視劇\) "wikilink")》 OST |                                                          |
-| 2018年3月21日  | 《[偉大的誘惑者](https://zh.wikipedia.org/wiki/偉大的誘惑者 "wikilink")》       | Hug Me                    | 泰河、妸仁、珠伊、[Nancy](https://zh.wikipedia.org/wiki/Nancy_Jewel_McDonie "wikilink")            | [MBC月火劇](https://zh.wikipedia.org/wiki/MBC "wikilink")《[偉大的誘惑者](https://zh.wikipedia.org/wiki/偉大的誘惑者 "wikilink")》 OST       |                                                          |
-| 2019年4月3日   | 《[淘氣小企鵝](https://zh.wikipedia.org/wiki/淘氣小企鵝 "wikilink")》         | BANANA CHA CHA            | 妸仁、珠伊、[Nancy](https://zh.wikipedia.org/wiki/Nancy_Jewel_McDonie "wikilink")、慧彬、妍雨、Jane、娜允 | 《[淘氣小企鵝](https://zh.wikipedia.org/wiki/淘氣小企鵝 "wikilink")》 OST                                                               |                                                          |
+| 發行日期        | 形式                                                        | 專輯名稱                      | 歌曲名稱                                                                                      | 參與成員                                                                                                     | 備註                                                       |
+| ----------- | --------------------------------------------------------- | ------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| 2015年12月17日 | 數位單曲                                                      | 《PICK ME》                 | PICK ME                                                                                   | 泰河                                                                                                       | [PRODUCE 101](../Page/PRODUCE_101.md "wikilink") 練習生合作作品 |
+| 2017年6月16日  | 《Wonderful love》                                          | Wonderful love(EDM Ver.)  | 全體                                                                                        |                                                                                                          |                                                          |
+| 2018年3月12日  | 《[Cross](../Page/Cross_\(電視劇\).md "wikilink")》            | I Need You and I Want You | 泰河、妸仁                                                                                     | [tvN月火劇](https://zh.wikipedia.org/wiki/tvN "wikilink")《[Cross](../Page/Cross_\(電視劇\).md "wikilink")》 OST |                                                          |
+| 2018年3月21日  | 《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》                  | Hug Me                    | 泰河、妸仁、珠伊、[Nancy](https://zh.wikipedia.org/wiki/Nancy_Jewel_McDonie "wikilink")            | [MBC月火劇](https://zh.wikipedia.org/wiki/MBC "wikilink")《[偉大的誘惑者](../Page/偉大的誘惑者.md "wikilink")》 OST       |                                                          |
+| 2019年4月3日   | 《[淘氣小企鵝](https://zh.wikipedia.org/wiki/淘氣小企鵝 "wikilink")》 | BANANA CHA CHA            | 妸仁、珠伊、[Nancy](https://zh.wikipedia.org/wiki/Nancy_Jewel_McDonie "wikilink")、慧彬、妍雨、Jane、娜允 | 《[淘氣小企鵝](https://zh.wikipedia.org/wiki/淘氣小企鵝 "wikilink")》 OST                                            |                                                          |
 
 ## 影視作品
 
@@ -480,7 +479,7 @@ LineData =
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第2屆<a href="https://zh.wikipedia.org/wiki/亞洲明星盛典" title="wikilink">亞洲明星盛典</a></p></td>
+<td><p>第2屆<a href="../Page/亞洲明星盛典.md" title="wikilink">亞洲明星盛典</a></p></td>
 <td><p>歌手部門Rising Star賞</p></td>
 <td></td>
 <td></td>
@@ -488,13 +487,13 @@ LineData =
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p>第2屆<a href="https://zh.wikipedia.org/wiki/Soribada最佳音樂大獎" title="wikilink">Soribada最佳音樂大獎</a></p></td>
+<td><p>第2屆<a href="../Page/Soribada最佳音樂大獎.md" title="wikilink">Soribada最佳音樂大獎</a></p></td>
 <td><p>本賞</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>第3屆<a href="https://zh.wikipedia.org/wiki/亞洲明星盛典" title="wikilink">亞洲明星盛典</a></p></td>
+<td><p>第3屆<a href="../Page/亞洲明星盛典.md" title="wikilink">亞洲明星盛典</a></p></td>
 <td><p>Best Icon獎</p></td>
 <td></td>
 <td></td>

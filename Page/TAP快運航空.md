@@ -79,7 +79,7 @@
   - [马德里](../Page/马德里.md "wikilink") -
     [阿道弗·苏亚雷斯马德里-巴拉哈斯机场](../Page/阿道弗·苏亚雷斯马德里-巴拉哈斯机场.md "wikilink")
   - [毕尔巴鄂](https://zh.wikipedia.org/wiki/毕尔巴鄂 "wikilink") -
-    [毕尔巴鄂机场](https://zh.wikipedia.org/wiki/毕尔巴鄂机场 "wikilink")
+    [毕尔巴鄂机场](../Page/毕尔巴鄂机场.md "wikilink")
   - [阿利坎特](../Page/阿利坎特.md "wikilink") -
     [阿利坎特-埃爾切機場](https://zh.wikipedia.org/wiki/阿利坎特-埃爾切機場 "wikilink")
   - [巴伦西亚](https://zh.wikipedia.org/wiki/巴倫西亞 "wikilink") -
@@ -87,7 +87,7 @@
   - [拉科鲁尼亚](../Page/拉科魯尼亞.md "wikilink") -
     [拉科鲁尼亚机场](../Page/拉科鲁尼亚机场.md "wikilink")
   - [阿斯图里亚斯](../Page/阿斯图里亚斯.md "wikilink") -
-    [阿斯图里亚斯机场](https://zh.wikipedia.org/wiki/阿斯图里亚斯机场 "wikilink")
+    [阿斯图里亚斯机场](../Page/阿斯图里亚斯机场.md "wikilink")
   - [马拉加](../Page/马拉加.md "wikilink") -
     [馬拉加機場](https://zh.wikipedia.org/wiki/馬拉加機場 "wikilink")
   - [塞维利亚](../Page/塞维利亚.md "wikilink") -

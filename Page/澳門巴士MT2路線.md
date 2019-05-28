@@ -68,7 +68,7 @@
 
 ## 備註
 
-交通事務局官方指MT2路線的折返點為運動場圓形地，所指的是街道名稱，本線並無停靠與其同名的巴士站。前往[澳門運動場的乘客需在美景花園下車步行前往](../Page/奧林匹克體育中心-運動場.md "wikilink")，或乘搭[MT1路線](https://zh.wikipedia.org/wiki/澳門巴士MT1路線 "wikilink")。
+交通事務局官方指MT2路線的折返點為運動場圓形地，所指的是街道名稱，本線並無停靠與其同名的巴士站。前往[澳門運動場的乘客需在美景花園下車步行前往](../Page/奧林匹克體育中心-運動場.md "wikilink")，或乘搭[MT1路線](../Page/澳門巴士MT1路線.md "wikilink")。
 
 ## 相關條目
 
@@ -76,7 +76,7 @@
   - [澳門公交車資優惠計劃](https://zh.wikipedia.org/wiki/澳門公交車資優惠計劃 "wikilink")
   - [澳門巴士路線列表](../Page/澳門巴士路線列表.md "wikilink")
   - [澳門巴士轉乘服務](../Page/澳門巴士轉乘服務.md "wikilink")
-  - [澳門巴士MT1路線](https://zh.wikipedia.org/wiki/澳門巴士MT1路線 "wikilink")
+  - [澳門巴士MT1路線](../Page/澳門巴士MT1路線.md "wikilink")
   - [澳門巴士MT1、MT2路線](../Page/澳門巴士MT1、MT2路線.md "wikilink")
 
 ## 参考文献

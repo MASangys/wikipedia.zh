@@ -1,6 +1,6 @@
 《**The
 Velvet**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Red
-Velvet的第二張](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，由[SM
+Velvet的第二張](../Page/Red_Velvet.md "wikilink")[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")，由[SM
 Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2016年3月17日發行。
 
 ## 發行與宣傳

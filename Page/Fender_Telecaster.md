@@ -56,7 +56,7 @@ Telecaster是一种电吉他型号，弦长为648毫米，的琴体外形轮廓�
 [Fender_72_Telecaster_Thinline.png](https://zh.wikipedia.org/wiki/File:Fender_72_Telecaster_Thinline.png "fig:Fender_72_Telecaster_Thinline.png")
 
   - **Thinline**：这种型号于1968年前后问世，它的一部分琴体是中空的，并且有一个F形音孔（对应了其名称Thinline即“细线”之意）。根据型号之间的差异，Thinline系列既有配备原版的单线圈拾音器的吉他型号，也有配备了专门为这种系列设计的双线圈拾音器的吉他型号。配备了双线圈拾音器的型号甚至被认为是[Gibson
-    ES-335系列直接的竞争对手](https://zh.wikipedia.org/wiki/Gibson_ES-335 "wikilink")，因为它也有部分空心的琴体。
+    ES-335系列直接的竞争对手](../Page/Gibson_ES-335.md "wikilink")，因为它也有部分空心的琴体。
 
 [Telecaster_Deluxe_Black_Dove.jpg](https://zh.wikipedia.org/wiki/File:Telecaster_Deluxe_Black_Dove.jpg "fig:Telecaster_Deluxe_Black_Dove.jpg")
 
@@ -68,7 +68,7 @@ Telecaster是一种电吉他型号，弦长为648毫米，的琴体外形轮廓�
     Tele**：这个系列的吉他配备有三个单线圈拾音器，并且配备了与Stratocaster相同的电路，这为原本的Telecaster拓宽了音色的选择范围。“Nashville”这个名字来源于[纳什维尔](../Page/纳什维尔.md "wikilink")（）难以计数的录音室——许多乡村音乐的录音都是在纳什维尔的录音室里完成的。虽然Telecaster最早的型号受到了乡村音乐吉他手的喜爱，但是这些吉他手在录音室里却需要根据不同的情况用不同的音色演奏。由于原款Telecaster已经无法达到这样的要求，为了继续让那些吉他手使用Telecaster进行录音，“Nashville
     Tele”就应运而生了。
   - **B-Bender
-    Tele**：这种型号的Telecaster的前背带扣与一套特殊的弯音（Bender）装置相连，使用它可以将吉他的B弦升高一个全音，这也是“B-Bender”这个名称的由来。如果熟练使用这套装置的话，吉他手就可以制造出类似于夏威夷钢棒吉他的声音。开创这种技巧的吉他手是[飞鸟乐队乐队的](https://zh.wikipedia.org/wiki/飞鸟乐队 "wikilink")和，他们在1968年改装了一把Telecaster吉他，并且让这种弯音装置流传了开来。
+    Tele**：这种型号的Telecaster的前背带扣与一套特殊的弯音（Bender）装置相连，使用它可以将吉他的B弦升高一个全音，这也是“B-Bender”这个名称的由来。如果熟练使用这套装置的话，吉他手就可以制造出类似于夏威夷钢棒吉他的声音。开创这种技巧的吉他手是[飞鸟乐队乐队的](../Page/飞鸟乐队.md "wikilink")和，他们在1968年改装了一把Telecaster吉他，并且让这种弯音装置流传了开来。
   - **Telecaster
     HH**：这种型号在2003至2007年间由美国芬达公司生产，它配备了两个增强版双线圈拾音器，并且配有S-1开关，可以起到分线圈（）的效果。
 

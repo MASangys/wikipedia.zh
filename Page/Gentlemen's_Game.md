@@ -73,7 +73,7 @@ Be)〉歌曲概念為「如史詩般」、「大規模」及「男子氣概」�
 </tr>
 <tr class="even">
 <td><p>串流媒體榜</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2016年Gaon流媒體冠軍作品列表" title="wikilink">週榜</a></p></td>
+<td><p><a href="../Page/2016年Gaon流媒體冠軍作品列表.md" title="wikilink">週榜</a></p></td>
 <td><p>#121</p></td>
 <td><p>[11]</p></td>
 <td></td>
@@ -89,7 +89,7 @@ Be)〉歌曲概念為「如史詩般」、「大規模」及「男子氣概」�
 </tr>
 <tr class="even">
 <td><p>數位下載榜</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2016年Gaon數位下載冠軍作品列表" title="wikilink">週榜</a></p></td>
+<td><p><a href="../Page/2016年Gaon數位下載冠軍作品列表.md" title="wikilink">週榜</a></p></td>
 <td><p>#37</p></td>
 <td><p>26,768首</p></td>
 <td><p>[13]</p></td>

@@ -13,7 +13,7 @@ SEGA Channel雖然因其不佳的推出時間等諸多因素普遍被視為失�
 [Mega Drive](../Page/Mega_Drive.md "wikilink")（在北美地區被稱為SEGA
 Genesis）於1988年首發，銷量達3075萬部，是世嘉歷年來最成功的主機\[1\]。
 1990年，世嘉在日本推出了其第一個官方線上服務[SEGA
-Meganet](https://zh.wikipedia.org/wiki/SEGA_Meganet "wikilink")。透過內附的卡帶和配件「Mega
+Meganet](../Page/SEGA_Meganet.md "wikilink")。透過內附的卡帶和配件「Mega
 Modem」，提供線上遊玩遊戲、透過網路與朋友連線對戰機能以及其他生活化服務。原本計畫也要推出名為「Tele-Genesis」的北美地區版本，但是由於主機在日本的銷量不佳，服務擁有的遊戲過少，最終於1993年於日本終止服務，配件所使用的專用插槽也在主機的新機型（Model
 2）中被移除\[2\]\[3\]。SEGA Meganet雖然失敗，但是為後來SEGA Channel的發展奠下良好的基礎\[4\]。
 [左](https://zh.wikipedia.org/wiki/File:Sega-Genesis-Mk2-6button.jpg "fig:左")

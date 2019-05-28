@@ -7,7 +7,7 @@ Premium採用16:9螢幕比例，所以也是XZ2系列唯一一款非18:9比例�
 RAM及64GB UFS存储的组合，运行[Android
 Oreo作業系統](https://zh.wikipedia.org/wiki/Android_8.0_Oreo "wikilink")，支持无线充电及IP65/68防水防尘。\[1\]\[2\]\[3\]\[4\]同期競爭對手為[三星Galaxy
 S9、S9+](../Page/三星Galaxy_S9.md "wikilink")、[HTC
-U12+](https://zh.wikipedia.org/wiki/HTC_U12+ "wikilink")、[LG V30s
+U12+](../Page/HTC_U12+.md "wikilink")、[LG V30s
 ThinQ](../Page/LG_V30s_ThinQ.md "wikilink")、[LG V35
 ThinQ和](https://zh.wikipedia.org/wiki/LG_V35_ThinQ "wikilink")[華為P20系列](https://zh.wikipedia.org/wiki/華為P20系列 "wikilink")。
 

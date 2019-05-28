@@ -35,7 +35,7 @@
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Twicetagram" title="wikilink">Twicetagram</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Twicetagram.md" title="wikilink">Twicetagram</a></strong>》</p>
 <ul>
 <li>發行日期：2017年10月30日</li>
 <li>唱片公司：JYP Entertainment</li>
@@ -47,7 +47,7 @@
 </tr>
 <tr class="odd">
 <td><p>1st Repackage</p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Merry&amp;Happy" title="wikilink">Merry&amp;Happy</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Merry&amp;Happy.md" title="wikilink">Merry&amp;Happy</a></strong>》</p>
 <ul>
 <li>發行日期：2017年12月11日</li>
 <li>唱片公司：JYP Entertainment</li>
@@ -137,7 +137,7 @@
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/TWICEcoaster:_LANE_1" title="wikilink">TWICEcoaster: LANE 1</a></strong>》</p>
+<td><p>《<strong><a href="../Page/TWICEcoaster:_LANE_1.md" title="wikilink">TWICEcoaster: LANE 1</a></strong>》</p>
 <ul>
 <li>發行日期：2016年10月24日</li>
 <li>唱片公司：<a href="https://zh.wikipedia.org/wiki/JYP_Entertainment" title="wikilink">JYP Entertainment</a></li>
@@ -165,7 +165,7 @@
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/What_is_Love?" title="wikilink">What is Love?</a></strong>》</p>
+<td><p>《<strong><a href="../Page/What_is_Love?.md" title="wikilink">What is Love?</a></strong>》</p>
 <ul>
 <li>發行日期：2018年4月9日</li>
 <li>唱片公司：<a href="https://zh.wikipedia.org/wiki/JYP_Entertainment" title="wikilink">JYP Entertainment</a></li>
@@ -251,7 +251,7 @@
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/TWICEcoaster:_LANE_2" title="wikilink">TWICEcoaster: LANE 2</a></strong>》</p>
+<td><p>《<strong><a href="../Page/TWICEcoaster:_LANE_2.md" title="wikilink">TWICEcoaster: LANE 2</a></strong>》</p>
 <ul>
 <li>發行日期：2017年2月20日</li>
 <li>唱片公司：<a href="https://zh.wikipedia.org/wiki/JYP_Entertainment" title="wikilink">JYP Entertainment</a></li>
@@ -263,7 +263,7 @@
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Summer_Nights" title="wikilink">Summer Nights</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Summer_Nights.md" title="wikilink">Summer Nights</a></strong>》</p>
 <ul>
 <li>發行日期：2018年7月9日</li>
 <li>唱片公司：<a href="https://zh.wikipedia.org/wiki/JYP_Entertainment" title="wikilink">JYP Entertainment</a></li>
@@ -543,7 +543,7 @@
 <li>南韓: 51,243+<ref name="gaonoct44">Cumulative sales of "1 to 10", "Ponytail", "Jelly Jelly", "Pit-a-Pat", "Next Page", "One in a Million"</li>
 <li><p></ref></p></li>
 </ul></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/TWICEcoaster:_LANE_1" title="wikilink">TWICEcoaster: LANE 1</a>》</p></td>
+<td><p>《<a href="../Page/TWICEcoaster:_LANE_1.md" title="wikilink">TWICEcoaster: LANE 1</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -599,7 +599,7 @@
 <li>南韓: 62,170+<ref>Cumulative sales of "Ice Cream":</li>
 <li><p></ref></p></li>
 </ul></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/TWICEcoaster:_LANE_2" title="wikilink">TWICEcoaster: LANE 2</a>》</p></td>
+<td><p>《<a href="../Page/TWICEcoaster:_LANE_2.md" title="wikilink">TWICEcoaster: LANE 2</a>》</p></td>
 </tr>
 <tr class="odd">
 <td><p>Three Times a Day</p></td>
@@ -608,7 +608,7 @@
 <li>南韓: 31,780+<ref name="gaonmay20">Cumulative sales of "Three Times a Day", "Only You", "Hold Me Tight", "Eye Eye Eyes", "Someone Like Me"</li>
 <li><p></ref></p></li>
 </ul></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Signal_(TWICE迷你專輯)" title="wikilink">SIGNAL</a>》</p></td>
+<td><p>《<a href="../Page/Signal_(TWICE迷你專輯).md" title="wikilink">SIGNAL</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -653,7 +653,7 @@
 <td><ul>
 <li>南韓: 48,485+</li>
 </ul></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Twicetagram" title="wikilink">Twicetagram</a>》</p></td>
+<td><p>《<a href="../Page/Twicetagram.md" title="wikilink">Twicetagram</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -803,7 +803,7 @@
 </tr>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/BDZ_(TWICE專輯)" title="wikilink">BDZ</a></strong>》</p>
+<td><p>《<strong><a href="../Page/BDZ_(TWICE專輯).md" title="wikilink">BDZ</a></strong>》</p>
 <ul>
 <li>發行日期：2018年9月12日</li>
 <li>唱片公司：<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a></li>
@@ -872,7 +872,7 @@
 </tr>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/＃TWICE" title="wikilink">#TWICE</a></strong>》</p>
+<td><p>《<strong><a href="../Page/＃TWICE.md" title="wikilink">#TWICE</a></strong>》</p>
 <ul>
 <li>發行日期：2017年6月28日</li>
 <li>唱片公司：<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a></li>
@@ -941,7 +941,7 @@
 </tr>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/One_More_Time" title="wikilink">One More Time</a></strong>》</p>
+<td><p>《<strong><a href="../Page/One_More_Time.md" title="wikilink">One More Time</a></strong>》</p>
 <ul>
 <li>發行日期：2017年10月18日</li>
 <li>唱片公司：<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a></li>
@@ -953,7 +953,7 @@
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Candy_Pop" title="wikilink">Candy Pop</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Candy_Pop.md" title="wikilink">Candy Pop</a></strong>》</p>
 <ul>
 <li>發行日期：2018年2月7日</li>
 <li>唱片公司：<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a></li>
@@ -965,7 +965,7 @@
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Wake_Me_Up_(TWICE單曲)" title="wikilink">Wake Me Up</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Wake_Me_Up_(TWICE單曲).md" title="wikilink">Wake Me Up</a></strong>》</p>
 <ul>
 <li>發行日期：2018年5月16日</li>
 <li>唱片公司：<a href="../Page/JYP娛樂.md" title="wikilink">JYP娛樂</a></li>
@@ -1045,7 +1045,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/娜璉.md" title="wikilink">娜璉</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/定延" title="wikilink">定延</a></p></td>
+<td><p><a href="../Page/定延.md" title="wikilink">定延</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Momo" title="wikilink">Momo</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sana" title="wikilink">Sana</a></p></td>
 <td><p><a href="../Page/志效.md" title="wikilink">志效</a></p></td>
@@ -1262,14 +1262,14 @@
 
 ### 非主唱創作作品
 
-|                        |                                                                                                                                                                   |      |    |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- | -- |
-| 名稱                     | 原唱者                                                                                                                                                               | 參與成員 | 性質 |
-| 作曲                     | 填詞                                                                                                                                                                | 其他   |    |
-| The Way You Love Me    | [Keri Hilson](../Page/凯莉·希尔森.md "wikilink") ([SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink") 翻唱版)                                                     | Momo |    |
-| Coming-of-Age Ceremony | 朴志胤                                                                                                                                                               |      |    |
-| Yoncé                  | [Beyoncé](https://zh.wikipedia.org/wiki/碧昂絲·諾利斯 "wikilink") ([TWICELAND - The Opening -](https://zh.wikipedia.org/wiki/TWICELAND_-_The_Opening_- "wikilink") 翻跳版) |      |    |
-|                        |                                                                                                                                                                   |      |    |
+|                        |                                                                                                                                                |      |    |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------- | ---- | -- |
+| 名稱                     | 原唱者                                                                                                                                            | 參與成員 | 性質 |
+| 作曲                     | 填詞                                                                                                                                             | 其他   |    |
+| The Way You Love Me    | [Keri Hilson](../Page/凯莉·希尔森.md "wikilink") ([SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink") 翻唱版)                                  | Momo |    |
+| Coming-of-Age Ceremony | 朴志胤                                                                                                                                            |      |    |
+| Yoncé                  | [Beyoncé](https://zh.wikipedia.org/wiki/碧昂絲·諾利斯 "wikilink") ([TWICELAND - The Opening -](../Page/TWICELAND_-_The_Opening_-.md "wikilink") 翻跳版) |      |    |
+|                        |                                                                                                                                                |      |    |
 
 ## 註釋與參考資料
 

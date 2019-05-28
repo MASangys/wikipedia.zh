@@ -261,7 +261,7 @@ GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS
 
       -
         主唱：Growth
-        ［衛藤昂輝([土岐隼一](../Page/土岐隼一.md "wikilink"))、八重樫劍介([山谷祥生](../Page/山谷祥生.md "wikilink"))、櫻庭涼太([山下大輝](https://zh.wikipedia.org/wiki/山下大輝 "wikilink"))、藤村衛([寺島惇太](../Page/寺島惇太.md "wikilink"))］
+        ［衛藤昂輝([土岐隼一](../Page/土岐隼一.md "wikilink"))、八重樫劍介([山谷祥生](../Page/山谷祥生.md "wikilink"))、櫻庭涼太([山下大輝](../Page/山下大輝.md "wikilink"))、藤村衛([寺島惇太](../Page/寺島惇太.md "wikilink"))］
 
 <!-- end list -->
 
@@ -301,7 +301,7 @@ GRAVITY、Procellarum、Fluna、Seleas四個組合，第二天出場的有SolidS
       -
         作詞、作曲、編曲：泷泽章
         主唱：Growth
-        ［衛藤昂輝([土岐隼一](../Page/土岐隼一.md "wikilink"))、八重樫劍介([山谷祥生](../Page/山谷祥生.md "wikilink"))、櫻庭涼太([山下大輝](https://zh.wikipedia.org/wiki/山下大輝 "wikilink"))、藤村衛([寺島惇太](../Page/寺島惇太.md "wikilink"))］
+        ［衛藤昂輝([土岐隼一](../Page/土岐隼一.md "wikilink"))、八重樫劍介([山谷祥生](../Page/山谷祥生.md "wikilink"))、櫻庭涼太([山下大輝](../Page/山下大輝.md "wikilink"))、藤村衛([寺島惇太](../Page/寺島惇太.md "wikilink"))］
 
 <!-- end list -->
 

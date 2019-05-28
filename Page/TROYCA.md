@@ -10,7 +10,7 @@ Pictures合作的首部作品](../Page/A-1_Pictures.md "wikilink")，原創電�
 
 2015年10月，首部獨立主導製作的動畫《櫻子小姐的腳下埋着屍體》開始播放。
 
-2017年4月8日廣江禮威原作，青木英監督的原創動畫《[Re:CREATORS](https://zh.wikipedia.org/wiki/Re:CREATORS "wikilink")》播放，全22話\[1\]。
+2017年4月8日廣江禮威原作，青木英監督的原創動畫《[Re:CREATORS](../Page/Re:CREATORS.md "wikilink")》播放，全22話\[1\]。
 
 ### 獨立製作
 
@@ -50,7 +50,7 @@ Pictures合作的首部作品](../Page/A-1_Pictures.md "wikilink")，原創電�
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Re:CREATORS" title="wikilink">Re:CREATORS</a></p></td>
+<td><p><a href="../Page/Re:CREATORS.md" title="wikilink">Re:CREATORS</a></p></td>
 <td></td>
 <td><p>4月8日－9月16日</p></td>
 <td><p>青木英</p></td>
@@ -59,7 +59,7 @@ Pictures合作的首部作品](../Page/A-1_Pictures.md "wikilink")，原創電�
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IDOLiSH7" title="wikilink">IDOLiSH7</a></p></td>
+<td><p><a href="../Page/IDOLiSH7.md" title="wikilink">IDOLiSH7</a></p></td>
 <td></td>
 <td><p>1月7日－5月19日</p></td>
 <td><p>別所誠人</p></td>
@@ -67,7 +67,7 @@ Pictures合作的首部作品](../Page/A-1_Pictures.md "wikilink")，原創電�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/終將成為妳" title="wikilink">終將成為妳</a></p></td>
+<td><p><a href="../Page/終將成為妳.md" title="wikilink">終將成為妳</a></p></td>
 <td></td>
 <td><p>10月5日－12月28日</p></td>
 <td><p>加藤誠</p></td>
@@ -121,13 +121,13 @@ Pictures合作的首部作品](../Page/A-1_Pictures.md "wikilink")，原創電�
 <td><p>2016年</p></td>
 <td><p><a href="../Page/野球少年.md" title="wikilink">野球少年</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ZERO-G" title="wikilink">ZERO-G</a></p></td>
+<td><p><a href="../Page/ZERO-G.md" title="wikilink">ZERO-G</a></p></td>
 <td><p>第6話</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/你的名字。.md" title="wikilink">你的名字。</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CoMix_Wave_Films" title="wikilink">CoMix Wave Films</a></p></td>
+<td><p><a href="../Page/CoMix_Wave_Films.md" title="wikilink">CoMix Wave Films</a></p></td>
 <td><p>劇場版</p></td>
 <td></td>
 </tr>

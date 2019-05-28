@@ -142,7 +142,7 @@
 <td style="text-align: center;"><p><br />
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p><small><a href="../Page/朴根瀅.md" title="wikilink">朴根瀅</a>、<a href="../Page/崔佛岩.md" title="wikilink">崔佛岩</a>、<a href="../Page/高斗心.md" title="wikilink">高斗心</a>、<a href="https://zh.wikipedia.org/wiki/金容琳" title="wikilink">金容琳</a>、</small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/朴根瀅.md" title="wikilink">朴根瀅</a>、<a href="../Page/崔佛岩.md" title="wikilink">崔佛岩</a>、<a href="../Page/高斗心.md" title="wikilink">高斗心</a>、<a href="../Page/金容琳.md" title="wikilink">金容琳</a>、</small></p></td>
 <td style="text-align: center;"><p>創社特輯電視劇</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -706,7 +706,7 @@
 <td style="text-align: center;"><p><br />
 </p></td>
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><p><small>、、<a href="https://zh.wikipedia.org/wiki/金容琳" title="wikilink">金容琳</a>、、</small></p></td>
+<td style="text-align: center;"><p><small>、、<a href="../Page/金容琳.md" title="wikilink">金容琳</a>、、</small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/高錫萬" title="wikilink">高錫萬</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金基八" title="wikilink">金基八</a></p></td>
 <td style="text-align: center;"><p>3.1節特輯電視劇</p></td>
@@ -1174,7 +1174,7 @@
 <td style="text-align: center;"><p><br />
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p><small><a href="../Page/曹在顯.md" title="wikilink">曹在顯</a>、<a href="https://zh.wikipedia.org/wiki/金容琳" title="wikilink">金容琳</a>、<a href="../Page/金炳基.md" title="wikilink">金炳基</a>、<a href="../Page/鄭東煥.md" title="wikilink">鄭東煥</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/曹在顯.md" title="wikilink">曹在顯</a>、<a href="../Page/金容琳.md" title="wikilink">金容琳</a>、<a href="../Page/金炳基.md" title="wikilink">金炳基</a>、<a href="../Page/鄭東煥.md" title="wikilink">鄭東煥</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭允炫" title="wikilink">鄭允炫</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李善_(編劇)" title="wikilink">李善</a></p></td>
 <td style="text-align: center;"><p>企劃特輯電視劇</p></td>
@@ -1452,7 +1452,7 @@
 <td style="text-align: center;"><p><br />
 </p></td>
 <td style="text-align: center;"><p><small><a href="../Page/黃秀貞.md" title="wikilink">黃秀貞</a>、<a href="../Page/李在龍.md" title="wikilink">李在龍</a>、<a href="../Page/鄭惠先.md" title="wikilink">鄭惠先</a>、<a href="../Page/李京進.md" title="wikilink">李京進</a>、<a href="../Page/安妍紅.md" title="wikilink">安妍紅</a></small></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔昌旭" title="wikilink">崔昌旭</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/崔昌旭.md" title="wikilink">崔昌旭</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金泰冠" title="wikilink">金泰冠</a></p></td>
 <td style="text-align: center;"><p>6.25特輯電視劇</p></td>
 <td style="text-align: center;"></td>
@@ -1601,17 +1601,17 @@
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
 <td style="text-align: center;"><p><small><a href="../Page/高斗心.md" title="wikilink">高斗心</a>、、<a href="../Page/吉用祐.md" title="wikilink">吉用祐</a>、<a href="../Page/李京進.md" title="wikilink">李京進</a></small></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔昌旭" title="wikilink">崔昌旭</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/崔昌旭.md" title="wikilink">崔昌旭</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金泰冠" title="wikilink">金泰冠</a></p></td>
 <td style="text-align: center;"><p>企劃特輯電視劇</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>1996年12月2日－<br />
 1996年12月3日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/世上最美麗的離別_(1996年電視劇)" title="wikilink">世界上最美麗的離別</a><br />
+<td style="text-align: center;"><p><a href="../Page/世上最美麗的離別_(1996年電視劇).md" title="wikilink">世界上最美麗的離別</a><br />
 </p></td>
 <td style="text-align: center;"><p>4</p></td>
-<td style="text-align: center;"><p><small><a href="https://zh.wikipedia.org/wiki/羅文熙" title="wikilink">羅文熙</a>、<a href="../Page/朱鉉.md" title="wikilink">朱鉉</a>、<a href="../Page/金英玉.md" title="wikilink">金英玉</a>、<a href="../Page/李敏英.md" title="wikilink">李敏英</a>、<a href="https://zh.wikipedia.org/wiki/李宗秀" title="wikilink">李宗秀</a>、<a href="../Page/孟床訓.md" title="wikilink">孟床訓</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="https://zh.wikipedia.org/wiki/羅文熙" title="wikilink">羅文熙</a>、<a href="../Page/朱鉉.md" title="wikilink">朱鉉</a>、<a href="../Page/金英玉.md" title="wikilink">金英玉</a>、<a href="../Page/李敏英.md" title="wikilink">李敏英</a>、<a href="../Page/李宗秀.md" title="wikilink">李宗秀</a>、<a href="../Page/孟床訓.md" title="wikilink">孟床訓</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴鍾" title="wikilink">朴鍾</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/盧熙京.md" title="wikilink">盧熙京</a></p></td>
 <td style="text-align: center;"><p>創社特輯電視劇</p></td>
@@ -1749,7 +1749,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/雪白的鳥" title="wikilink">雪白的鳥</a><br />
 [3]</p></td>
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><p><small><a href="../Page/李惠淑.md" title="wikilink">李惠淑</a>、<a href="../Page/吉用祐.md" title="wikilink">吉用祐</a>、<a href="../Page/朴根瀅.md" title="wikilink">朴根瀅</a>、<a href="https://zh.wikipedia.org/wiki/金容琳" title="wikilink">金容琳</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/李惠淑.md" title="wikilink">李惠淑</a>、<a href="../Page/吉用祐.md" title="wikilink">吉用祐</a>、<a href="../Page/朴根瀅.md" title="wikilink">朴根瀅</a>、<a href="../Page/金容琳.md" title="wikilink">金容琳</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔順植" title="wikilink">崔順植</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李在岬" title="wikilink">李在岬</a></p></td>
 <td style="text-align: center;"><p>創社特輯電視劇</p></td>
@@ -1918,7 +1918,7 @@
 <td style="text-align: center;"><p><br />
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p><small><a href="../Page/甘宇成.md" title="wikilink">甘宇成</a>、、<a href="../Page/金慧渲.md" title="wikilink">金慧渲</a>、<a href="https://zh.wikipedia.org/wiki/尹泰榮" title="wikilink">尹泰榮</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/甘宇成.md" title="wikilink">甘宇成</a>、、<a href="../Page/金慧渲.md" title="wikilink">金慧渲</a>、<a href="../Page/尹泰榮.md" title="wikilink">尹泰榮</a></small></p></td>
 <td style="text-align: center;"><p><a href="../Page/金允哲.md" title="wikilink">金允哲</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金仁英.md" title="wikilink">金仁英</a></p></td>
 <td style="text-align: center;"><p>8.15特輯電視劇</p></td>
@@ -2178,7 +2178,7 @@
 <td style="text-align: center;"><p>4</p></td>
 <td style="text-align: center;"><p><small><a href="../Page/深田恭子.md" title="wikilink">深田恭子</a>、<a href="../Page/元斌.md" title="wikilink">元斌</a>、<a href="../Page/矢田亞希子.md" title="wikilink">矢田亞希子</a>、<a href="../Page/小澤征悅.md" title="wikilink">小澤征悅</a>、<a href="../Page/李東健.md" title="wikilink">李東健</a>、<a href="../Page/韓惠軫.md" title="wikilink">韓惠軫</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓哲秀" title="wikilink">韓哲秀</a><br />
-<a href="https://zh.wikipedia.org/wiki/土井裕泰" title="wikilink">土井裕泰</a></p></td>
+<a href="../Page/土井裕泰.md" title="wikilink">土井裕泰</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃聖妍" title="wikilink">黃聖妍</a></p></td>
 <td style="text-align: center;"><p>世界杯紀念、韓日合作特輯電視劇</p></td>
 </tr>
@@ -2219,7 +2219,7 @@
 2002年9月12日</p></td>
 <td style="text-align: center;"><p><br />
 </p></td>
-<td style="text-align: center;"><p><small><a href="https://zh.wikipedia.org/wiki/韓曉友" title="wikilink">韓曉友</a>、<a href="../Page/李東健.md" title="wikilink">李東健</a>、<a href="../Page/鄭泰祐.md" title="wikilink">鄭泰祐</a>、<a href="../Page/李多海.md" title="wikilink">李多海</a>、<a href="https://zh.wikipedia.org/wiki/河有美" title="wikilink">河有美</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="https://zh.wikipedia.org/wiki/韓曉友" title="wikilink">韓曉友</a>、<a href="../Page/李東健.md" title="wikilink">李東健</a>、<a href="../Page/鄭泰祐.md" title="wikilink">鄭泰祐</a>、<a href="../Page/李多海.md" title="wikilink">李多海</a>、<a href="../Page/河有美.md" title="wikilink">河有美</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓哲秀" title="wikilink">韓哲秀</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>中韓合作特輯電視劇</p></td>
@@ -2241,7 +2241,7 @@
 <td style="text-align: center;"><p><br />
 </p></td>
 <td style="text-align: center;"><p>4</p></td>
-<td style="text-align: center;"><p><small><a href="../Page/李勳.md" title="wikilink">李勳</a>、<a href="../Page/成宥利.md" title="wikilink">成宥利</a>、<a href="https://zh.wikipedia.org/wiki/尹泰榮" title="wikilink">尹泰榮</a>、、、<a href="../Page/朴仁煥.md" title="wikilink">朴仁煥</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/李勳.md" title="wikilink">李勳</a>、<a href="../Page/成宥利.md" title="wikilink">成宥利</a>、<a href="../Page/尹泰榮.md" title="wikilink">尹泰榮</a>、、、<a href="../Page/朴仁煥.md" title="wikilink">朴仁煥</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔燦旭" title="wikilink">崔燦旭</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/林泰宇" title="wikilink">林泰宇</a></p></td>
 <td style="text-align: center;"><p>國防宣傳院共同製作特輯</p></td>
@@ -2676,7 +2676,7 @@
 <td style="text-align: center;"><p><br />
 </p></td>
 <td style="text-align: center;"><p>4</p></td>
-<td style="text-align: center;"><p><small>、<a href="https://zh.wikipedia.org/wiki/金容琳" title="wikilink">金容琳</a>、<a href="../Page/高斗心.md" title="wikilink">高斗心</a>、<a href="../Page/林玄植.md" title="wikilink">林玄植</a>、</small></p></td>
+<td style="text-align: center;"><p><small>、<a href="../Page/金容琳.md" title="wikilink">金容琳</a>、<a href="../Page/高斗心.md" title="wikilink">高斗心</a>、<a href="../Page/林玄植.md" title="wikilink">林玄植</a>、</small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/權以尚" title="wikilink">權以尚</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金正秀.md" title="wikilink">金正秀</a></p></td>
 <td style="text-align: center;"><p>重播</p></td>
@@ -2817,10 +2817,10 @@
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2011年8月15日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/絕頂_(電視劇)" title="wikilink">絶頂</a><br />
+<td style="text-align: center;"><p><a href="../Page/絕頂_(電視劇).md" title="wikilink">絶頂</a><br />
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p><small><a href="../Page/金烔完.md" title="wikilink">金烔完</a>、<a href="../Page/徐玄振.md" title="wikilink">徐玄振</a>、<a href="../Page/李承洨.md" title="wikilink">李承洨</a>、<a href="https://zh.wikipedia.org/wiki/尹智慧" title="wikilink">尹智慧</a>、<a href="../Page/嚴孝燮.md" title="wikilink">嚴孝燮</a>、<a href="../Page/朴誠雄.md" title="wikilink">朴誠雄</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/金烔完.md" title="wikilink">金烔完</a>、<a href="../Page/徐玄振.md" title="wikilink">徐玄振</a>、<a href="../Page/李承洨.md" title="wikilink">李承洨</a>、<a href="../Page/尹智慧.md" title="wikilink">尹智慧</a>、<a href="../Page/嚴孝燮.md" title="wikilink">嚴孝燮</a>、<a href="../Page/朴誠雄.md" title="wikilink">朴誠雄</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李尚燁" title="wikilink">李尚燁</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃真英" title="wikilink">黃真英</a></p></td>
 <td style="text-align: center;"><p>8.15特輯電視劇</p></td>
@@ -3029,7 +3029,7 @@
 
 ## 相關連結
 
-  - [KBS特輯電視劇](https://zh.wikipedia.org/wiki/KBS特輯電視劇 "wikilink")
+  - [KBS特輯電視劇](../Page/KBS特輯電視劇.md "wikilink")
   - [SBS特輯電視劇](../Page/SBS特輯電視劇.md "wikilink")
 
 [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")

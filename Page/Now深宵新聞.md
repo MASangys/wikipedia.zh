@@ -90,10 +90,10 @@
   - 2016年6月24日：直播牛頭角道七號淘大工業大廈四級大火最新消息（主播：[李臻](../Page/李臻.md "wikilink")／[容靜怡](https://zh.wikipedia.org/wiki/容靜怡 "wikilink")）
   - 2016年7月16日：報道[第五屆香港立法會會期午夜結束情況](../Page/第五屆香港立法會.md "wikilink")（主播：[蔣俊傑](https://zh.wikipedia.org/wiki/蔣俊傑 "wikilink")，使用細螢幕）
   - 2016年8月2日：直播[颱風妮妲吹襲香港最新消息](https://zh.wikipedia.org/wiki/颱風妮妲_\(2016年\) "wikilink")（主播：[蘇婉雯](https://zh.wikipedia.org/wiki/蘇婉雯 "wikilink")／[蔣俊傑](https://zh.wikipedia.org/wiki/蔣俊傑 "wikilink")，於大廠進行；ViuTV於03:00起以《深宵新聞》名義聯播）
-  - 2016年9月5日：直播[2016年香港立法會選舉點票消息](https://zh.wikipedia.org/wiki/2016年香港立法會選舉 "wikilink")（主播：[黃凱廸](../Page/黃凱迪.md "wikilink")／[黃浩霖](https://zh.wikipedia.org/wiki/黃浩霖 "wikilink")，於大廠進行，以《2016立法會選舉
+  - 2016年9月5日：直播[2016年香港立法會選舉點票消息](../Page/2016年香港立法會選舉.md "wikilink")（主播：[黃凱廸](../Page/黃凱迪.md "wikilink")／[黃浩霖](https://zh.wikipedia.org/wiki/黃浩霖 "wikilink")，於大廠進行，以《2016立法會選舉
     開票直擊》播出；ViuTV於00:30起以《開票直擊》名義聯播）
   - 2016年11月7日：直播香港眾志及社民連前往中聯辦佔據德輔道西最新消息（主播：[劉銘欣](https://zh.wikipedia.org/wiki/劉銘欣 "wikilink")／[陳潁楓](https://zh.wikipedia.org/wiki/陳潁楓 "wikilink")，於大廠進行）
-  - 2016年12月12日：直播[2016年香港選舉委員會界別分組選舉點票消息](https://zh.wikipedia.org/wiki/2016年香港選舉委員會界別分組選舉 "wikilink")（主播：[李臻](../Page/李臻.md "wikilink")）
+  - 2016年12月12日：直播[2016年香港選舉委員會界別分組選舉點票消息](../Page/2016年香港選舉委員會界別分組選舉.md "wikilink")（主播：[李臻](../Page/李臻.md "wikilink")）
   - 2016年12月16日：報道[美國聯儲局的議息結果](https://zh.wikipedia.org/wiki/聯邦儲備系統 "wikilink")（主播：[鞠頴怡](https://zh.wikipedia.org/wiki/鞠頴怡 "wikilink")，使用細螢幕）
   - 2016年12月25日：報道平安夜香港的情況（主播：[吳天佑](https://zh.wikipedia.org/wiki/吳天佑 "wikilink")）
   - 2017年1月1日：報道除夕夜香港的情況（主播：[饒慧珊](https://zh.wikipedia.org/wiki/饒慧珊 "wikilink")，使用細螢幕）
@@ -104,7 +104,7 @@
   - 2018年3月12日：直播[2018年立法會補選點票情況](https://zh.wikipedia.org/wiki/2018年香港立法會補選 "wikilink")（主播：[黃浩霖](https://zh.wikipedia.org/wiki/黃浩霖 "wikilink")／[李臻](../Page/李臻.md "wikilink")，於大廠進行）
   - 2018年7月16日：報道[2018年國際足協世界盃決賽戰果](https://zh.wikipedia.org/wiki/2018年國際足協世界盃 "wikilink")（主播：[陳詠賢](https://zh.wikipedia.org/wiki/陳詠賢 "wikilink")，使用細螢幕）
   - 2018年9月16日：直播[超強颱風山竹吹襲香港最新消息](../Page/颱風山竹_\(2018年\).md "wikilink")（主播：[鄧文瀚](https://zh.wikipedia.org/wiki/鄧文瀚 "wikilink")）
-  - 2018年11月26日，直播[2018年立法會九龍西補選點票情況主播](https://zh.wikipedia.org/wiki/2018年11月香港立法會九龍西地方選區補選 "wikilink")（主播：[黃浩霖](https://zh.wikipedia.org/wiki/黃浩霖 "wikilink")）
+  - 2018年11月26日，直播[2018年立法會九龍西補選點票情況主播](../Page/2018年11月香港立法會九龍西地方選區補選.md "wikilink")（主播：[黃浩霖](https://zh.wikipedia.org/wiki/黃浩霖 "wikilink")）
   - 2019年2月5日：報道農曆新年除夕夜香港的情況（主播：[鄧文瀚](https://zh.wikipedia.org/wiki/鄧文瀚 "wikilink")）
 
 ## 節目調動（ViuTV）
@@ -116,9 +116,9 @@
   - 2017年11月27日至12月18日：由於星期一凌晨00:00-00:30及00:30-01:30分別播映《踢拖遊海南》及《第十四屆全球華語大學生影視獎-精選作品》，期間星期一之《深宵新聞》改為01:30-02:00播出。
   - 2018年2月25日至5月27日：由於星期六（3月17日及5月19日除外）21:30-22:45播出《徒步旅程》／《[鋒味](https://zh.wikipedia.org/wiki/12道鋒味 "wikilink")》，《飛不甩家毛》／《泰國72小時》、《[衝三小喪玩星馬泰](https://zh.wikipedia.org/wiki/衝三小喪玩星馬泰 "wikilink")》／《非常食客》、《[晚吹](../Page/晚吹.md "wikilink")-[Close噏](https://zh.wikipedia.org/wiki/Close噏 "wikilink")》及《[海賊王](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》順延播出，期間星期日之《深宵新聞》改為01:30-02:00播出。
   - 2018年2月26日至6月11日：由於星期一凌晨00:00-01:00播出《我們的世界盃》，期間星期一之《深宵新聞》改為01:00-01:30播出。
-  - 2018年5月15日至26日：由於星期一至五22:30-23:15播出《[鮮浪潮。語2018](https://zh.wikipedia.org/wiki/鮮浪潮。語 "wikilink")》加長版，《[晚吹](../Page/晚吹.md "wikilink")》系列、《十五分鐘熱度》及《Girl's
+  - 2018年5月15日至26日：由於星期一至五22:30-23:15播出《[鮮浪潮。語2018](../Page/鮮浪潮。語.md "wikilink")》加長版，《[晚吹](../Page/晚吹.md "wikilink")》系列、《十五分鐘熱度》及《Girl's
     Talk》順延播出，期間星期二至六之《深宵新聞》改為00:15-00:45播出（5月24日除外）。
-  - 2019年4月2日至25日：由於星期二至五00:00-01:00重播《[詭探](https://zh.wikipedia.org/wiki/詭探 "wikilink")》，期間星期二至五之《深宵新聞》改為01:00-01:30播出。
+  - 2019年4月2日至25日：由於星期二至五00:00-01:00重播《[詭探](../Page/詭探.md "wikilink")》，期間星期二至五之《深宵新聞》改為01:00-01:30播出。
 
 ### 特别調動
 
@@ -132,17 +132,17 @@
   - 2016年12月2日（星期五）：由於19:30-23:35直播《[MAMA 亞洲音樂大獎
     2016](../Page/Mnet亞洲音樂大獎.md "wikilink")》，當日《[8點新聞報道](../Page/Now新聞報道.md "wikilink")》暫停播映，並於當日23:35-00:00播出《深宵新聞》。而該節「深宵新聞」是中途插播[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")23:30直播的一節《Now深宵新聞》。
   - 2017年1月1日（星期日）：由於1日20:00至2日00:35直播《[2016年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")》，當日《[8點新聞報道](../Page/Now新聞報道.md "wikilink")》暫停播映，並於翌日00:35-01:05播出《深宵新聞》。而該節「深宵新聞」是播出[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")23:00直播的一節《Now深宵新聞》。
-  - 2017年2月10日（星期五）：因應發生[港鐵尖沙咀站車廂縱火事件](https://zh.wikipedia.org/wiki/2017年港鐵縱火案 "wikilink")，當日23:30-00:00加插一節《深宵新聞》播出。
+  - 2017年2月10日（星期五）：因應發生[港鐵尖沙咀站車廂縱火事件](../Page/2017年港鐵縱火案.md "wikilink")，當日23:30-00:00加插一節《深宵新聞》播出。
   - 2017年4月9日（星期日）：由於01:00-01:30播出《[國泰航空/匯豐香港國際七人欖球賽-Rugby
     Centre](../Page/香港國際七人欖球賽.md "wikilink")》，當日改為01:30-02:00播出。
   - 2017年4月30日（星期日）：由於00:30-02:30直播《西甲 - 拉斯帕馬斯 對
     馬德里體育會》，當日改為00:00-00:30播出。
-  - 2017年5月28日（星期日）：由於27日20:30-21:45播出《[CRISIS](https://zh.wikipedia.org/wiki/CRISIS "wikilink")》第1集加長版，《[尋覓原味](https://zh.wikipedia.org/wiki/尋覓原味 "wikilink")》第8集、《[交換旅遊日記](https://zh.wikipedia.org/wiki/交換旅遊日記 "wikilink")》第8集、《[精裝送禮仔](https://zh.wikipedia.org/wiki/精裝送禮仔 "wikilink")》第8集、《[晚吹](../Page/晚吹.md "wikilink")
+  - 2017年5月28日（星期日）：由於27日20:30-21:45播出《[CRISIS](https://zh.wikipedia.org/wiki/CRISIS "wikilink")》第1集加長版，《[尋覓原味](../Page/尋覓原味.md "wikilink")》第8集、《[交換旅遊日記](https://zh.wikipedia.org/wiki/交換旅遊日記 "wikilink")》第8集、《[精裝送禮仔](../Page/精裝送禮仔.md "wikilink")》第8集、《[晚吹](../Page/晚吹.md "wikilink")
     -
     男人講嘢》第16集及《[海賊王](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》第625-626集順延播出，當日改為01:30-02:00播出。
   - 2017年7月23日及24日（星期日及一）：由於23日02:00-03:00及24日00:30-01:30播映《香港世界桌球大師賽
     2017 - 每日精華》，當日分別改為03:00-03:30及02:00-02:30播出。
-  - 2017年7月30日（星期日）：由於29日20:30-21:45播出《[CRISIS](https://zh.wikipedia.org/wiki/CRISIS "wikilink")》大結局，《[磚。家](https://zh.wikipedia.org/wiki/磚。家 "wikilink")》第1集、《-{[喝吧！台灣](https://zh.wikipedia.org/wiki/喝吧！台灣 "wikilink")}-》第1集、《[我是地球人](https://zh.wikipedia.org/wiki/我是地球人 "wikilink")》第8集、《[虔誠到爆](https://zh.wikipedia.org/wiki/虔誠到爆 "wikilink")》第8集、《[晚吹](../Page/晚吹.md "wikilink")
+  - 2017年7月30日（星期日）：由於29日20:30-21:45播出《[CRISIS](https://zh.wikipedia.org/wiki/CRISIS "wikilink")》大結局，《[磚。家](https://zh.wikipedia.org/wiki/磚。家 "wikilink")》第1集、《-{[喝吧！台灣](../Page/喝吧！台灣.md "wikilink")}-》第1集、《[我是地球人](https://zh.wikipedia.org/wiki/我是地球人 "wikilink")》第8集、《[虔誠到爆](../Page/虔誠到爆.md "wikilink")》第8集、《[晚吹](../Page/晚吹.md "wikilink")
     - 男人講嘢》第25集及《[中國新歌聲
     (第二季)](https://zh.wikipedia.org/wiki/中國新歌聲_\(第二季\) "wikilink")》第三期順延播出，當日改為02:30-03:00播出。
   - 2017年11月17日（星期五）：由於17:05-18:15直播《港島及九龍地域中學校際籃球比賽
@@ -189,7 +189,7 @@
   - 2018年4月1日（星期日）：由於00:15-01:15播出《海賊王》及01:15-03:30播出《海賊王大電影：索柏身世之謎》，當日暫停播映。
   - 2018年4月2日（星期一）：由於00:00-01:00播出《我們的世界盃》及01:00-03:15播出《海賊王大電影：Film
     Z》，當日暫停播映。
-  - 2018年4月16日（星期一）：由於15日17:30-19:25直播《[第37屆香港電影金像獎頒獎典禮紅地氈盛況](https://zh.wikipedia.org/wiki/第37屆香港電影金像獎 "wikilink")》及20:00-00:00直播《[第37屆香港電影金像獎頒獎典禮](https://zh.wikipedia.org/wiki/第37屆香港電影金像獎 "wikilink")》，當日《6點新聞報道》及《8點新聞報道》暫停播映，原編定改於4月15日19:30-20:00及23:30-00:00播出《新聞報道》，但因頒獎典禮超時，當晚第二節的《新聞報道》最終於16日00:00-00:30，以錄播23:00一節《[Now深宵新聞](../Page/Now深宵新聞.md "wikilink")》形式播出。
+  - 2018年4月16日（星期一）：由於15日17:30-19:25直播《[第37屆香港電影金像獎頒獎典禮紅地氈盛況](../Page/第37屆香港電影金像獎.md "wikilink")》及20:00-00:00直播《[第37屆香港電影金像獎頒獎典禮](../Page/第37屆香港電影金像獎.md "wikilink")》，當日《6點新聞報道》及《8點新聞報道》暫停播映，原編定改於4月15日19:30-20:00及23:30-00:00播出《新聞報道》，但因頒獎典禮超時，當晚第二節的《新聞報道》最終於16日00:00-00:30，以錄播23:00一節《[Now深宵新聞](../Page/Now深宵新聞.md "wikilink")》形式播出。
   - 2018年4月22日（星期日）：由於21日23:45-02:15直播《英格蘭足總盃 - 準決賽：曼聯 對
     熱刺》，當日改為02:30-03:00播出。
   - 2018年4月26日（星期四）：由於播映《英格蘭足總盃精華》，當日暫停播映。
@@ -210,12 +210,12 @@
   - 2018年10月13日（星期六）：由於01:00-02:30播出《[小站](../Page/小站_\(電視劇\).md "wikilink")》第45至47集，當日暫停播映。
   - 2018年11月3日及10日（星期六）：由於00:30-01:30播出《遺愛人間》，當日暫停播映。
   - 2018年11月21日（星期三）：由於00:30-02:00播出《[2018立法會補選論壇 -
-    九龍西](https://zh.wikipedia.org/wiki/2018年11月香港立法會九龍西地方選區補選 "wikilink")》，當日改為02:00-02:30播出。
+    九龍西](../Page/2018年11月香港立法會九龍西地方選區補選.md "wikilink")》，當日改為02:00-02:30播出。
   - 2018年12月11日（星期二）：由於00:30-02:00播出《對比時尚 x 音樂 2018》，當日暫停播映。
   - 2018年12月15日（星期六）：由於14日19:00直播的《[2018 MAMA亞洲音樂大獎 -
     香港站](https://zh.wikipedia.org/wiki/2018年Mnet亞洲音樂大獎 "wikilink")》超時，《7點新聞報道》暫停播映，原定改為於14日23:00-23:30播出的《新聞報道》順延至15日00:00-00:30播映，《假若愛有期限》、《十五分鐘熱度》及《Girls'
     Talk》亦順延播出，原定15日01:00-01:30播出的《深宵新聞》因臨時節目調動關係暫停播映。
-  - 2018年12月25日至27日（星期二至四）：由於00:30-03:00重播《[走佬去臺灣](https://zh.wikipedia.org/wiki/走佬去臺灣 "wikilink")》，當日暫停播映。
+  - 2018年12月25日至27日（星期二至四）：由於00:30-03:00重播《[走佬去臺灣](../Page/走佬去臺灣.md "wikilink")》，當日暫停播映。
   - 2019年1月1日（星期二）：由於00:30-03:00重播《[Good Night Show
     全民造星總決賽](https://zh.wikipedia.org/wiki/Good_Night_Show_全民造星 "wikilink")》，當日暫停播映。
   - 2019年1月2日（星期三）：由於1日20:30至2日01:15轉播《[2018年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2018年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")》，當日暫停播映。

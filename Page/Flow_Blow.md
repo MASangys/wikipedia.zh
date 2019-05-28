@@ -11,7 +11,7 @@ Music Group。\[1\] \[2\]
 | Venta |
 |       |
 
-## [韓國音樂著作權協會](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
+## [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
 
 | 成員    | KOMCA 登記名字           | 編號                                                                                     | 歌曲    |
 | ----- | -------------------- | -------------------------------------------------------------------------------------- | ----- |
@@ -47,7 +47,7 @@ Music Group。\[1\] \[2\]
   - [田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink")，Idle Song
   - [PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")，Shine
   - [PRODUCE
-    48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")，[IZ\*ONE](../Page/IZ*ONE.md "wikilink")，是我的
+    48](../Page/PRODUCE_48.md "wikilink")，[IZ\*ONE](../Page/IZ*ONE.md "wikilink")，是我的
     (PICK ME)
   - [PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")，Naughty Boy
   - [JBJ95](https://zh.wikipedia.org/wiki/JBJ95 "wikilink")，算了 (STAY)

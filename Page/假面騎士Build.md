@@ -1,7 +1,7 @@
 《**假面騎士Build**》（），為2017年9月3日於[朝日電視台](../Page/朝日電視台.md "wikilink")08:00\~08:30，\[1\]播放的日本[特攝電視劇](https://zh.wikipedia.org/wiki/特攝 "wikilink")\[2\]\[3\]，為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》第19部[平成系列作品](../Page/平成.md "wikilink")，假面騎士Build
 也是本作主角變身的英雄的名字。口號是「勝利的法則已被確定\! 」\[4\]
 
-香港方面，在無線電視取消假面騎士時段導致《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》被跳過播放之後，[香港電視娛樂購入了](../Page/香港電視娛樂.md "wikilink")《-{幪面超人系列}-》版權，并由該作開始播放，並將本作譯名為《-{幪面超人Build}-》，由2018年12月30日開始，於[ViuTV每週日上午](../Page/ViuTV.md "wikilink")11:00－11:30雙語廣播粵語配音版及日語版（第二至十集，週日中午12:00－12:30；第十一至十三集，週六深夜00:30－01:00重播；第十四集起，週六深夜00:35－01:00重播）。粵語配音版配上繁體中文字幕後進行網上直播。提供約7日節目重溫。此作是[香港電視娛樂首部播放的](../Page/香港電視娛樂.md "wikilink")《-{幪面超人系列}-》作品。
+香港方面，在無線電視取消假面騎士時段導致《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》被跳過播放之後，[香港電視娛樂購入了](../Page/香港電視娛樂.md "wikilink")《-{幪面超人系列}-》版權，并由該作開始播放，並將本作譯名為《-{幪面超人Build}-》，由2018年12月30日開始，於[ViuTV每週日上午](../Page/ViuTV.md "wikilink")11:00－11:30雙語廣播粵語配音版及日語版（第二至十集，週日中午12:00－12:30；第十一至十三集，週六深夜00:30－01:00重播；第十四集起，週六深夜00:35－01:00重播）。粵語配音版配上繁體中文字幕後進行網上直播。提供約7日節目重溫。此作是[香港電視娛樂首部播放的](../Page/香港電視娛樂.md "wikilink")《-{幪面超人系列}-》作品。
 
 中國大陸[騰訊視頻于](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")2019年2月10日全集上架該作日語版本。
 
@@ -38,7 +38,7 @@
   - 本作的主角騎士假面騎士Build
     是以「[生物](../Page/生物.md "wikilink")」及「[非生物](https://zh.wikipedia.org/wiki/非生物 "wikilink")」造型及交錯配色為設計概念。
   - 本作繼《[假面騎士Kabuto](https://zh.wikipedia.org/wiki/假面騎士Kabuto "wikilink")》、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》後再次繼續採用連貫式劇本，而劇中亦首次出現暗示性的情節，令人可以大致上想像後續的劇情。
-  - 本作自《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》起連續四套均有使用「假面騎士」的稱呼，為平成假面騎士系列的首次\[6\]，同時亦是系列第二次設定上將假面騎士作爲政府組織所製造並用以軍事用途\[7\]。本作在第15集至今第一次以戰爭在故事中期開始
+  - 本作自《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》起連續四套均有使用「假面騎士」的稱呼，為平成假面騎士系列的首次\[6\]，同時亦是系列第二次設定上將假面騎士作爲政府組織所製造並用以軍事用途\[7\]。本作在第15集至今第一次以戰爭在故事中期開始
   - 本作繼前作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》後再次出現多於三名假面騎士，亦是繼《[假面騎士Kabuto](https://zh.wikipedia.org/wiki/假面騎士Kabuto "wikilink")》後連續兩部作品出現多於三名假面騎士。
   - 本作主角為《平成假面騎士系列》中智商（IQ）最高的主角\[8\]，同時亦是首位被設定為科學家\[9\]的平成男主角。
       - 正因爲男主角被設定為科學家，所以劇中經常出現不同算式，如每話的開頭顯示該話的標題時首先會顯示出與該話數相關的算式，之後才會顯示正式的話數（如第1話就首先顯示「\(1010^0\)」，之後就會顯示「1」，因爲「\(1010^0\)
@@ -48,7 +48,7 @@
     SUPER BOY大獎得主為主角假面騎士](../Page/JUNON_SUPER_BOY.md "wikilink")\[14\]。
   - 本作繼演唱《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》主題曲的土屋安娜後睽違6年再度由女性歌手演唱《假面騎士系列》作品的主題曲\[15\]。
   - 自《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》後，再次調整回9月初首播假面騎士\[16\]，並在片頭曲開始時再有旁白介紹劇情簡介。
-  - 自《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》期間，除笫1話和最終回，大多數集數不先播放上回提要和故事開頭，先播片頭曲再進入上回提要和故事開頭，至本作恢復播放上回提要和故事開頭。
+  - 自《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》至《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》期間，除笫1話和最終回，大多數集數不先播放上回提要和故事開頭，先播片頭曲再進入上回提要和故事開頭，至本作恢復播放上回提要和故事開頭。
   - 自《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》起，連續3部假面騎士作品第1話沒有常規電視片頭曲片段和主題曲的MV中無假面騎士參與演出的畫面，此外部份話數沒有播放常規電視片頭曲片段，是繼《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》再次有相關安排。
   - 本作是首部官方主題曲宣傳片段（電視版長度）早過電視版流出\[17\]。
   - 本作主角是《假面騎士系列》中創下最早由人類直接變身成具有戰鬥力的非基本型態戰鬥，於第2話桐生戰兔與夜霸戰鬥時，直接變身成Trial
@@ -61,7 +61,7 @@
       - 與《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》、《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》、《[假面騎士KIVA](https://zh.wikipedia.org/wiki/假面騎士KIVA "wikilink")》和《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》一樣，亦採用幻想種生物之一「龍」，其中假面騎士Cross-Z飛踢必殺技更像假面騎士龍騎。亦繼《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》後,再度出現已死的假面騎士變身者於最終回復活。\[27\]
       - 與《[假面騎士555](../Page/假面騎士555.md "wikilink")》、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》、《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》一樣，變身者必須擁有特定條件，普通人類不能變身\[28\]。此外由於假面騎士Build是使用外掛型變身腰帶的關係,除《[假面騎士空我](../Page/假面騎士空我.md "wikilink")》、《[假面騎士顎門](https://zh.wikipedia.org/wiki/假面騎士顎門 "wikilink")》、《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》、《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》與《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》之外,與以往所有使用外掛型變身腰帶的平成騎士一樣,本作再次有複數變身者存在\[29\];而且繼《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的假面騎士斬月
         (吳島貴虎Ver.) VS
-        假面騎士斬月．真(吳島光實Ver.)、《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》的假面騎士Dark
+        假面騎士斬月．真(吳島光實Ver.)、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的假面騎士Dark
         Drive(泊英志Ver.) VS 假面騎士超Dead Heat
         Drive(泊進之介Ver.)、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的假面騎士
         Gamedeus Cronus (檀正宗Ver.) VS
@@ -69,10 +69,10 @@
         坦克坦克型態(桐生戰兔Ver.) vs 假面騎士Build ( 葛城忍Ver.)。
       - 與《[假面騎士劍](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")》一樣，敵人被打敗後雖然出現綠色火焰的爆炸，但只是身體機能停止運作，並不會被打爆，之後透過道具將敵人封印或吸收。
       - 與《[假面騎士Kabuto](https://zh.wikipedia.org/wiki/假面騎士Kabuto "wikilink")》一樣與主角假面騎士敵對的政府組織。而且第二男主角兼第二位假面騎士先於第1話登場,曾首次嘗試變身但失敗,並在故事中期獲得變身能力和先後使用不同變身器變身不同騎士。\[30\]
-      - 與《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》的鏡像真司、《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》的異魔神、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的帕拉德、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的光金一樣，艾博魯特可附身其他人類以變身其騎士姿態,直至第38話艾博魯特因恢復到完全姿態而無需靠附身人類來變身,但擬態成其他人樣貌,與《[假面騎士KABUTO](https://zh.wikipedia.org/wiki/假面騎士KABUTO "wikilink")》的怪人異蟲,《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》的怪人Roidmude一樣。
+      - 與《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》的鏡像真司、《[假面騎士電王](https://zh.wikipedia.org/wiki/假面騎士電王 "wikilink")》的異魔神、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的帕拉德、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的光金一樣，艾博魯特可附身其他人類以變身其騎士姿態,直至第38話艾博魯特因恢復到完全姿態而無需靠附身人類來變身,但擬態成其他人樣貌,與《[假面騎士KABUTO](https://zh.wikipedia.org/wiki/假面騎士KABUTO "wikilink")》的怪人異蟲,《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的怪人Roidmude一樣。
       - 與《[假面騎士Decade](../Page/假面騎士Decade.md "wikilink")》一樣，Build的世界觀與新平成騎士世界如OOO、Fourze和EX-AID等完全獨立\[31\]，可視為2個地球，因此劇場版《[假面騎士平成Generations
         FINAL Build & EX-AID with
-        傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》解釋出EX-AID世界沒有天空之壁。此劇場版亦描述反派角色「最上魁星」利用平行世界移動裝置Enigma，讓兩個地球互相衝突，想把Build世界的最上魁星與另一個自己融合並企圖獲取不老不死的肉體，此情節猶如Decade一樣，Decade都是不同騎士存在的9個平行世界正開始融合而崩解。\[32\]此外Build可變身成平成歷代騎士，如Ex-aid，但只限此劇場版<ref group="注">不像過去新平成騎士變身歷代騎士時，因應該騎士特徵而需特別設計，如Ex-aid於上一個聯動劇場版變身成Ghost
+        傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》解釋出EX-AID世界沒有天空之壁。此劇場版亦描述反派角色「最上魁星」利用平行世界移動裝置Enigma，讓兩個地球互相衝突，想把Build世界的最上魁星與另一個自己融合並企圖獲取不老不死的肉體，此情節猶如Decade一樣，Decade都是不同騎士存在的9個平行世界正開始融合而崩解。\[32\]此外Build可變身成平成歷代騎士，如Ex-aid，但只限此劇場版<ref group="注">不像過去新平成騎士變身歷代騎士時，因應該騎士特徵而需特別設計，如Ex-aid於上一個聯動劇場版變身成Ghost
         Gamer
 
 Level
@@ -83,12 +83,12 @@ Level
       - 與《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》一樣以宇宙作爲故事開端的舞台\[34\]。
       - 與《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》一樣，敵方是為了找尋符合騎士變身資格的人才會製造怪人。
       - 與《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》一樣，主角騎士所騎乘的交通工具是由攜帶型道具轉換而成;第二男主角兼第二位假面騎士先後使用不同變身器變身不同騎士,但後期第二代變身器以某種理由而破壞。\[35\]
-      - 與《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》一樣，出現假面騎士以外的敵役騎士及假面騎士的身份為非公開\[36\]，另外也出現遭到政府組織通緝的劇情。亦繼《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的假面騎士Duke和假面騎士Baron\[37\]、《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》的假面騎士Chaser和假面騎士Heart後,本作第3次出現其中一位騎士變身者據有機械複製人設定\[38\]。
+      - 與《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》一樣，出現假面騎士以外的敵役騎士及假面騎士的身份為非公開\[36\]，另外也出現遭到政府組織通緝的劇情。亦繼《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》的假面騎士Duke和假面騎士Baron\[37\]、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的假面騎士Chaser和假面騎士Heart後,本作第3次出現其中一位騎士變身者據有機械複製人設定\[38\]。
       - 與《[假面騎士Ghost](../Page/假面騎士Ghost.md "wikilink")》中的仙人一樣，本作的第二男主角－萬丈龍我因在劇中的身份（前期）是遭到通緝的通緝犯，所以在外出時需要靠變裝來行動，也因此劇情上時常出現其變裝畫面。
       - 與《[假面騎士龍騎](../Page/假面騎士龍騎.md "wikilink")》的淺倉威、《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》的檀正宗一樣，其中一位騎士變身者（萬丈龍我）在故事開始初期以囚犯身份登場，然而與前兩者不同的是，前面兩人皆為反派而萬丈為正派立場。
       - 與《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的菲理普、《[假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")》的歌星賢吾一樣，第二男主角萬丈龍我在故事後期發現自己不是人類\[39\]\[40\]。
       - 第34話至第36話採用人物關係圖的形式做前情提要，與《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》的偶數回一樣
-      - 本作最終首腦Evolto/假面騎士Evol為繼《[假面騎士555](../Page/假面騎士555.md "wikilink")》中的乾巧/假面騎士555/狼型操冥使徒、《[假面騎士劍](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")》中的相川始/假面騎士聖杯/Joker、《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》中的火野映司/假面騎士OOO/映司Greeed、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中的笛木奏/假面騎士Wiseman/卡巴克魯、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》中的驅紋戒斗/假面騎士男爵/帝王巴隆、《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》的Chase
+      - 本作最終首腦Evolto/假面騎士Evol為繼《[假面騎士555](../Page/假面騎士555.md "wikilink")》中的乾巧/假面騎士555/狼型操冥使徒、《[假面騎士劍](https://zh.wikipedia.org/wiki/假面騎士劍 "wikilink")》中的相川始/假面騎士聖杯/Joker、《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》中的火野映司/假面騎士OOO/映司Greeed、《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》中的笛木奏/假面騎士Wiseman/卡巴克魯、《[假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")》中的驅紋戒斗/假面騎士男爵/帝王巴隆、《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的Chase
         /假面騎士Chaser/零原型後再次出現同時擁有騎士與怪人型態的戰士
 
   - 本作劇情中出現一個關於與前作《[假面騎士EX-AID](../Page/假面騎士EX-AID.md "wikilink")》相關的小連結，就是第2話中女主角石動美空所玩的手遊畫面，正是聯動劇場版《[平成Generations](../Page/假面騎士平成Generations_Dr.Pac-Man對EX-AID&Ghost_with_傳說騎士.md "wikilink")》中登場的角色清宮東吾所開發的遊戲「Hatesate
@@ -102,9 +102,9 @@ Level
 
   - 本作的主角騎士是目前唯一出現兩個超級型態\[43\]\[44\]
 
-  - 本作繼《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》及《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》後第三次一騎和二騎一開始是戰友的關係。\[45\]\[46\]
+  - 本作繼《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》及《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》後第三次一騎和二騎一開始是戰友的關係。\[45\]\[46\]
 
-      - 不同的是，《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》及《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》的一騎和二騎在故事中期\[47\]開始合作，而本作的一騎和二騎故事開始已是戰友。
+      - 不同的是，《[假面騎士響鬼](https://zh.wikipedia.org/wiki/假面騎士響鬼 "wikilink")》及《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的一騎和二騎在故事中期\[47\]開始合作，而本作的一騎和二騎故事開始已是戰友。
 
   - 本作中飾演鷲尾兄弟（童年期）的高岩芯泰及渡邊虎雅兩人分別為《假面騎士系列》中平成假面騎士主替身演員的高岩成二\[48\]和渡邊淳\[49\]之子。
 
@@ -114,7 +114,7 @@ Level
 
   - 由《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》起，二騎均會在故事中後期短暫地叛變到敵方陣營\[52\]\[53\]。
 
-  - 繼《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》的假面騎士Birth，《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》的假面騎士Drive
+  - 繼《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》的假面騎士Birth，《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》的假面騎士Drive
     / Mach後，本作第三次有騎士頭部內部特寫畫面，暫時只有假面騎士Build, Cross-Z和Rogue。
 
   - 本作繼《[假面騎士Wizard](https://zh.wikipedia.org/wiki/假面騎士Wizard "wikilink")》後再次在春季不與超級戰隊系列聯動劇情\[54\]。
@@ -4703,7 +4703,7 @@ Form</strong><br />
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/鳳凰" title="wikilink">鳳凰般的火焰</a>、飛行及修復能力。</p></td>
 <td><p>可與非生物的「Robot」組成Best Match 組合。<br />
 進化配對下的腰帶音效為「Fushicho」（日文原文：）。<br />
-此滿裝瓶於聯動劇場版《<a href="https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&amp;_EX-AID_with_傳說騎士" title="wikilink">假面騎士平成Generations FINAL Build &amp; EX-AID with 傳說騎士</a>》中由石動惣一所給予的，並在結尾時被假面騎士Grease 奪走。<br />
+此滿裝瓶於聯動劇場版《<a href="../Page/假面騎士平成Generations_FINAL_Build_&amp;_EX-AID_with_傳說騎士.md" title="wikilink">假面騎士平成Generations FINAL Build &amp; EX-AID with 傳說騎士</a>》中由石動惣一所給予的，並在結尾時被假面騎士Grease 奪走。<br />
 </p></td>
 <td></td>
 </tr>
@@ -5064,7 +5064,7 @@ Form</strong><br />
 <td><p>擁有<a href="https://zh.wikipedia.org/wiki/機器人" title="wikilink">機器人般的精凖操作</a>。</p></td>
 <td><p>可與生物的「Phoenix」組成Best Match 組合。<br />
 最佳配對下的腰帶音效為「Robo」（日文原文：）。<br />
-此滿裝瓶於聯動劇場版《<a href="https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&amp;_EX-AID_with_傳說騎士" title="wikilink">假面騎士平成Generations FINAL Build &amp; EX-AID with 傳說騎士</a>》中由石動惣一所給予的，並在結尾時被假面騎士Grease 奪走。<br />
+此滿裝瓶於聯動劇場版《<a href="../Page/假面騎士平成Generations_FINAL_Build_&amp;_EX-AID_with_傳說騎士.md" title="wikilink">假面騎士平成Generations FINAL Build &amp; EX-AID with 傳說騎士</a>》中由石動惣一所給予的，並在結尾時被假面騎士Grease 奪走。<br />
 </p></td>
 <td></td>
 </tr>
@@ -7575,9 +7575,9 @@ Form</strong><br />
   - 《[劇場版 假面騎士EX-AID
     True•Ending](https://zh.wikipedia.org/wiki/劇場版_假面騎士EX-AID_True•Ending "wikilink")》（2017年8月5日上映）
   - 《[假面騎士平成Generations FINAL Build & EX-AID with
-    傳說騎士](https://zh.wikipedia.org/wiki/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士 "wikilink")》（2017年12月9日上映）
+    傳說騎士](../Page/假面騎士平成Generations_FINAL_Build_&_EX-AID_with_傳說騎士.md "wikilink")》（2017年12月9日上映）
   - 《[劇場版 假面騎士Build Be The
-    One](https://zh.wikipedia.org/wiki/劇場版_假面騎士Build_Be_The_One "wikilink")》（2018年8月4日上映）
+    One](../Page/劇場版_假面騎士Build_Be_The_One.md "wikilink")》（2018年8月4日上映）
   - 《[假面騎士平成Generations
     Forever](../Page/假面騎士平成Generations_Forever.md "wikilink")》（2018年12月22日上映）
 
@@ -7760,7 +7760,7 @@ Form</strong><br />
 ## 《[超級英雄時間](../Page/超級英雄時間.md "wikilink")》相關條目
 
   - 《[宇宙戰隊九連者](https://zh.wikipedia.org/wiki/宇宙戰隊九連者 "wikilink")》
-  - 《[快盜戰隊魯邦連者VS警察戰隊巡邏連者](https://zh.wikipedia.org/wiki/快盜戰隊魯邦連者VS警察戰隊巡邏連者 "wikilink")》
+  - 《[快盜戰隊魯邦連者VS警察戰隊巡邏連者](../Page/快盜戰隊魯邦連者VS警察戰隊巡邏連者.md "wikilink")》
 
 ## 播放詳情
 
@@ -7849,7 +7849,7 @@ Form</strong><br />
 
 13. 聯動劇場版中帕拉德為了追回永夢的力量而來到Build世界兩年，但在EX-AID世界卻只是消失一個禮拜而已。
 
-14. 包含飾演天空寺尊的[西銘駿](../Page/西銘駿.md "wikilink")（第27屆）、飾演寶生永夢的[飯島寬騎](../Page/飯島寬騎.md "wikilink")（第28屆），加上飾演本作主角桐生戰兔的[犬飼貴丈](https://zh.wikipedia.org/wiki/犬飼貴丈 "wikilink")（第25屆）在內的三屆大獎得主。
+14. 包含飾演天空寺尊的[西銘駿](../Page/西銘駿.md "wikilink")（第27屆）、飾演寶生永夢的[飯島寬騎](../Page/飯島寬騎.md "wikilink")（第28屆），加上飾演本作主角桐生戰兔的[犬飼貴丈](../Page/犬飼貴丈.md "wikilink")（第25屆）在內的三屆大獎得主。
 
 15. 歌曲中若是出現男女混合團體的話，則以主唱者來判定，《Be The One》這首歌曲因主唱是Beverly，所以分類至女性歌手。
 
@@ -7943,7 +7943,7 @@ Form</strong><br />
 
 54. 以往幾年為假面騎士與超級戰隊會有一話一小時春季特別篇或者假面騎士一騎和超級戰隊的紅色戰士在同一話互相穿插劇情中合作戰鬥。
 
-55. 《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》沒有官方認定TV版最終型態,但按**TV版最終聯組**是恐龍聯組;《[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")》第48話中的戰鬥只是泊進之介的回憶,不計算在內。
+55. 《[假面騎士OOO](../Page/假面騎士OOO.md "wikilink")》沒有官方認定TV版最終型態,但按**TV版最終聯組**是恐龍聯組;《[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")》第48話中的戰鬥只是泊進之介的回憶,不計算在內。
 
 56. 在《[假面騎士W](https://zh.wikipedia.org/wiki/假面騎士W "wikilink")》第47集中，曾出現財團X資助O-Medal研究的畫面;本作桐生戰兔最終戰後獲得CROSS-Z
     騎士手錶

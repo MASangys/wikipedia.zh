@@ -2,9 +2,8 @@
 東離劍遊紀**》是一部由[臺灣和](../Page/臺灣.md "wikilink")[日本雙方合作的](../Page/日本.md "wikilink")[奇幻](https://zh.wikipedia.org/wiki/奇幻 "wikilink")[武俠](https://zh.wikipedia.org/wiki/武俠 "wikilink")[布袋戲偶電視劇集作品](../Page/布袋戲.md "wikilink")。劇本由日本編劇[虛淵玄撰寫](../Page/虛淵玄.md "wikilink")，布袋戲劇由臺灣[霹靂布袋戲製作](../Page/霹靂布袋戲.md "wikilink")，劇名由霹靂的黃強華董事長命名。\[1\]本作是[布袋戲此一傳統藝術首次進行臺灣及日本跨界合作的作品](../Page/布袋戲.md "wikilink")。自2016年7月8日起在日本首播，並由[巴哈姆特動畫瘋與](../Page/巴哈姆特電玩資訊站.md "wikilink")[愛奇藝臺灣站](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")、[哔哩哔哩及](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink")[Crunchyroll進行三地聯播](../Page/Crunchyroll.md "wikilink")。
 
 2017年上映外傳電影《[Thunderbolt Fantasy
-生死一劍](https://zh.wikipedia.org/wiki/Thunderbolt_Fantasy_生死一劍 "wikilink")》。2018年10月1日開播第二季《[Thunderbolt
-Fantasy
-東離劍遊紀2](https://zh.wikipedia.org/wiki/Thunderbolt_Fantasy_東離劍遊紀2 "wikilink")》。
+生死一劍](../Page/Thunderbolt_Fantasy_生死一劍.md "wikilink")》。2018年10月1日開播第二季《[Thunderbolt
+Fantasy 東離劍遊紀2](../Page/Thunderbolt_Fantasy_東離劍遊紀2.md "wikilink")》。
 
 ## 製作
 
@@ -34,7 +33,7 @@ Fantasy作品企劃就此誕生。
   - 音響監督：[岩浪美和](../Page/岩浪美和.md "wikilink")
   - 製片人：陳義方、西本有里、北岡功、中原広絵、山田香穂
   - 助理製作人：宇佐義大、沢野麻由美
-  - 執行製片人：[黃亮勛](https://zh.wikipedia.org/wiki/黃亮勛 "wikilink")、でじたろう、安藝貴範
+  - 執行製片人：[黃亮勛](../Page/黃亮勛.md "wikilink")、でじたろう、安藝貴範
   - 出品：[霹靂國際多媒體](../Page/霹靂國際多媒體.md "wikilink")、Nitro+、Good Smile
     Company
 
@@ -167,7 +166,7 @@ Fantasy作品企劃就此誕生。
 <!-- end list -->
 
   -
-    聲：[山路和弘](https://zh.wikipedia.org/wiki/山路和弘 "wikilink")（日語）／黃滙峰（臺語）
+    聲：[山路和弘](../Page/山路和弘.md "wikilink")（日語）／黃滙峰（臺語）
     兩鬢飛霜的老者。因持有攻克迷宮所需的「迴靈笛」而受凜雪鴉請託，但半途卻遇上殺無生並被他殺害，身上的「迴靈笛」也被取走。
 
 <!-- end list -->

@@ -40,7 +40,7 @@ Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikili
 
   - 金善雄
 
-  - [申譞洙](https://zh.wikipedia.org/wiki/申譞洙 "wikilink")
+  - [申譞洙](../Page/申譞洙.md "wikilink")
 
 ## 電視編劇
 
@@ -75,7 +75,7 @@ Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikili
 
   - [姜素拉](../Page/姜素拉.md "wikilink")
 
-  - [蔡舒辰](https://zh.wikipedia.org/wiki/蔡舒辰 "wikilink")
+  - [蔡舒辰](../Page/蔡舒辰.md "wikilink")
 
 ## 電視劇製作
 

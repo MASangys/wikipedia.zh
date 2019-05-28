@@ -547,7 +547,7 @@ Movie）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wi
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/奧瑪·花曼" title="wikilink">奧瑪·花曼</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/追殺比爾2：愛的大逃殺" title="wikilink">追殺比爾2：愛的大逃殺</a></p></td>
+<td><p><a href="../Page/追殺比爾2：愛的大逃殺.md" title="wikilink">追殺比爾2：愛的大逃殺</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/韋·史密夫" title="wikilink">韋·史密夫</a></p></td>
 <td><p><a href="../Page/情場絕橋王.md" title="wikilink">情場絕橋王</a></p></td>
 <td></td>
@@ -925,7 +925,7 @@ Movie）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wi
 <td><p><strong>2015<br />
 (第24屆)<br />
 [2]</strong></p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/莎蓮·活莉" title="wikilink">莎蓮·活莉</a> '''</p></td>
+<td><p>'''<a href="../Page/莎蓮·活莉.md" title="wikilink">莎蓮·活莉</a> '''</p></td>
 <td><p><strong><a href="../Page/生命中的美好缺憾_(電影).md" title="wikilink">生命中的美好缺憾</a></strong></p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/畢列·谷巴" title="wikilink">畢列·谷巴</a> ‡</strong></p></td>
 <td><p><strong><a href="../Page/美國狙擊手_(電影).md" title="wikilink">美國狙擊手</a></strong></p></td>
@@ -1052,21 +1052,21 @@ Movie）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wi
 <td><p>'''2018<br />
 (第27屆)<br />
 </p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/查德維克·博斯曼" title="wikilink">查德維克·博斯曼</a></p></td>
+<td><p>'''<a href="../Page/查德維克·博斯曼.md" title="wikilink">查德維克·博斯曼</a></p></td>
 <td><p>'''<a href="../Page/黑豹_(電影).md" title="wikilink">黑豹</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/瑟夏·羅南.md" title="wikilink">瑟夏·羅南</a> ‡</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/淑女鳥" title="wikilink">淑女鳥</a></p></td>
+<td><p><a href="../Page/淑女鳥.md" title="wikilink">淑女鳥</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/提摩西·夏勒梅" title="wikilink">提摩西·夏勒梅</a> ‡</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/请以你的名字呼唤我_(电影)" title="wikilink">请以你的名字呼唤我</a></p></td>
+<td><p><a href="../Page/提摩西·夏勒梅.md" title="wikilink">提摩西·夏勒梅</a> ‡</p></td>
+<td><p><a href="../Page/请以你的名字呼唤我_(电影).md" title="wikilink">请以你的名字呼唤我</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1080,7 +1080,7 @@ Movie）是[MTV影視大獎重要的獎項之一](../Page/MTV影視大獎.md "wi
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/安塞爾·埃爾格特.md" title="wikilink">安塞爾·埃爾格特</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/玩命再劫" title="wikilink">玩命再劫</a></p></td>
+<td><p><a href="../Page/玩命再劫.md" title="wikilink">玩命再劫</a></p></td>
 <td></td>
 <td></td>
 <td></td>

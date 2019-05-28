@@ -1,5 +1,5 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:Century_Avenue_Station_Line_4_Platform.jpg "fig:缩略图")[世纪大道站站台上的](https://zh.wikipedia.org/wiki/世纪大道站_\(上海\) "wikilink")《I时代报》取阅架\]\]
-《**I时代报**》（亦可称作《时代报》），是[中华人民共和国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[上海市出版的一份报纸](https://zh.wikipedia.org/wiki/上海市 "wikilink")，前身为上海市科委主管的《上海计算机报》（2000年改为[解放日报报业集团主管](https://zh.wikipedia.org/wiki/解放日报报业集团 "wikilink")），2001年更名为《I时代报》，改版为“具有男性气质的新闻加服务类周报”。2003年，该报再次改版，转型为[免费地铁报](https://zh.wikipedia.org/wiki/免费报纸 "wikilink")，改在[上海地铁各车站发行](https://zh.wikipedia.org/wiki/上海地铁 "wikilink")，以“上班族通勤路上获得资讯的报纸”为定位，成为中国内地第一家免费报纸。在停刊前，该报由[上海报业集团主管](../Page/上海报业集团.md "wikilink")，由上海地铁时代传媒发展有限公司负责日常运营\[1\]。报纸口号为“笑迎第一缕阳光，品读第一份资讯”。
+《**I时代报**》（亦可称作《时代报》），是[中华人民共和国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[上海市出版的一份报纸](https://zh.wikipedia.org/wiki/上海市 "wikilink")，前身为上海市科委主管的《上海计算机报》（2000年改为[解放日报报业集团主管](../Page/解放日报报业集团.md "wikilink")），2001年更名为《I时代报》，改版为“具有男性气质的新闻加服务类周报”。2003年，该报再次改版，转型为[免费地铁报](https://zh.wikipedia.org/wiki/免费报纸 "wikilink")，改在[上海地铁各车站发行](https://zh.wikipedia.org/wiki/上海地铁 "wikilink")，以“上班族通勤路上获得资讯的报纸”为定位，成为中国内地第一家免费报纸。在停刊前，该报由[上海报业集团主管](../Page/上海报业集团.md "wikilink")，由上海地铁时代传媒发展有限公司负责日常运营\[1\]。报纸口号为“笑迎第一缕阳光，品读第一份资讯”。
 
 2018年1月16日，《I时代报》头版刊发休刊公告，称经报业集团研究决定，《I时代报》自2018年1月17日起休刊\[2\]。
 

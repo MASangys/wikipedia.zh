@@ -124,7 +124,7 @@ Food.jpg|車內販賣的[車站便當](https://zh.wikipedia.org/wiki/車站便�
 
   - [韓國高速鐵道](../Page/韓國高速鐵道.md "wikilink")
 
-  - [KTX-I](https://zh.wikipedia.org/wiki/KTX-I "wikilink")
+  - [KTX-I](../Page/KTX-I.md "wikilink")
 
   -
   -

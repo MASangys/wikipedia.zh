@@ -1,5 +1,5 @@
 《**Versailles**》是日本[視覺系搖滾樂團](../Page/視覺系.md "wikilink")[Versailles的第四張](https://zh.wikipedia.org/wiki/Versailles "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，這張同名作品是他們的最後一張錄音室專輯，於2012年9月26日發行。\[1\]\[2\]\[3\]專輯分「初回限定盤」和「通常盤」兩種形態發售，初回盤內含DVD一張，收錄Versailles製作並主演的約17分鐘[迷你電影](https://zh.wikipedia.org/wiki/短片 "wikilink")《[ASCENDEAD
-MASTER](https://zh.wikipedia.org/wiki/ASCENDEAD_MASTER "wikilink")》以及此曲的[MV和其他五支音樂錄影帶](https://zh.wikipedia.org/wiki/MV "wikilink")（見曲目列表）。專輯第一曲《Prelude》來自樂團的首張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[NOBLE](../Page/NOBLE.md "wikilink")》，最後一曲是經過重新編曲的《Sympathia》，來自他們更早之前的[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《[Lyrical
+MASTER](../Page/ASCENDEAD_MASTER.md "wikilink")》以及此曲的[MV和其他五支音樂錄影帶](https://zh.wikipedia.org/wiki/MV "wikilink")（見曲目列表）。專輯第一曲《Prelude》來自樂團的首張[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[NOBLE](../Page/NOBLE.md "wikilink")》，最後一曲是經過重新編曲的《Sympathia》，來自他們更早之前的[迷你專輯](https://zh.wikipedia.org/wiki/迷你專輯 "wikilink")《[Lyrical
 Sympathy](../Page/Lyrical_Sympathy.md "wikilink")》。
 
 ## 背景

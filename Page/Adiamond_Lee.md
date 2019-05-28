@@ -9,10 +9,8 @@ Landed](https://zh.wikipedia.org/wiki/急觸Rushly_Landed "wikilink")》等。
   - 2017《[深藍與月光](../Page/深藍與月光.md "wikilink")》│編劇
     [吳洛纓](../Page/吳洛纓.md "wikilink")│[酷瞧](https://zh.wikipedia.org/wiki/酷瞧 "wikilink")│
 
-主演 [王庭勻](../Page/王庭勻.md "wikilink") /
-[林柏叡](https://zh.wikipedia.org/wiki/林柏叡 "wikilink") /
-[黃庭軒](https://zh.wikipedia.org/wiki/黃庭軒 "wikilink") /
-[陳彥名](https://zh.wikipedia.org/wiki/陳彥名 "wikilink") /
+主演 [王庭勻](../Page/王庭勻.md "wikilink") / [林柏叡](../Page/林柏叡.md "wikilink") /
+[黃庭軒](../Page/黃庭軒.md "wikilink") / [陳彥名](../Page/陳彥名.md "wikilink") /
 [王可元](https://zh.wikipedia.org/wiki/王可元 "wikilink") /
 [武廣君](https://zh.wikipedia.org/wiki/武廣君 "wikilink") /
 [詹雅涵](https://zh.wikipedia.org/wiki/詹雅涵 "wikilink")
@@ -27,15 +25,14 @@ Landed](https://zh.wikipedia.org/wiki/急觸Rushly_Landed "wikilink")》等。
 [徐韜](https://zh.wikipedia.org/wiki/徐韜 "wikilink") /
 [潘俊佳](../Page/潘俊佳.md "wikilink") /
 [趙靜儀](../Page/天气女孩.md "wikilink") /
-[何美](https://zh.wikipedia.org/wiki/何美 "wikilink") /
-[各務孝太](https://zh.wikipedia.org/wiki/各務孝太 "wikilink")
+[何美](../Page/何美.md "wikilink") /
+[各務孝太](../Page/各務孝太.md "wikilink")
 
   - 2017《[著魔](../Page/HIStory_\(2017年電視劇\).md "wikilink")》│編劇 林珮瑜│[CHOCO
     TV](../Page/CHOCO_TV.md "wikilink")│
 
 主演 [何林駿](https://zh.wikipedia.org/wiki/何林駿 "wikilink") /
-[任祐成](https://zh.wikipedia.org/wiki/任祐成 "wikilink") / 李家慶 / 吳澤煒 /
-美強森
+[任祐成](../Page/任祐成.md "wikilink") / 李家慶 / 吳澤煒 / 美強森
 
   - 2014《[窩在妳的情慾裡縱火](https://zh.wikipedia.org/wiki/窩在妳的情慾裡縱火 "wikilink")》
 

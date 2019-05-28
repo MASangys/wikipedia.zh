@@ -99,7 +99,7 @@ John Stewart</p></td>
 Flash</p></td>
 <td><p>貝瑞·艾倫<br />
 Barry Allen</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/威尔·惠顿" title="wikilink">威尔·惠顿</a></p></td>
+<td><p><a href="../Page/威尔·惠顿.md" title="wikilink">威尔·惠顿</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

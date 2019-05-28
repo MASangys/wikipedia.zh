@@ -6,7 +6,7 @@ Ltd開發的[网页](../Page/网页游戏.md "wikilink")[獨立遊戲](https://z
 ## 商业模式
 
 该游戏没有广告，完全通过可选购的、有微交易提供优势的“声望”资助。\[6\]该虚拟货币可以通过[PayPal购买](../Page/PayPal.md "wikilink")、使用[Fortumo的移动支付](https://zh.wikipedia.org/wiki/Fortumo "wikilink")\[7\]，[Facebook的玩家则可使用](../Page/Facebook.md "wikilink")[Google
-Checkout](https://zh.wikipedia.org/wiki/Google_Checkout "wikilink")\[8\]或[Facebook
+Checkout](../Page/Google_Checkout.md "wikilink")\[8\]或[Facebook
 Credits完成目标](https://zh.wikipedia.org/wiki/Facebook_Credits "wikilink")\[9\]。
 
 ## 參考文獻

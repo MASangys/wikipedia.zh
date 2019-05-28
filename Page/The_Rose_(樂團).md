@@ -107,14 +107,14 @@ We Used To》也收錄其中。 2018年5月12日、5月13日舉辦韓國國內�
 
 ### 音樂錄影帶
 
-| 年份          | 歌曲名稱                                                                  | 歌手                                                                   | 參與成員 |
-| ----------- | --------------------------------------------------------------------- | -------------------------------------------------------------------- | ---- |
-| 2013年       | Hate You                                                              | [Ladies' Code](../Page/Ladies'_Code.md "wikilink")                   | 佑星   |
-| 2017年8月2日   | [Sorry](https://www.youtube.com/watch?v=uXcpLWB2eBA)                  | [The Rose](https://zh.wikipedia.org/wiki/The_Rose_\(樂團\) "wikilink") | 全體   |
-| 2017年10月31日 | [좋았는데 (Like We Used To)](https://www.youtube.com/watch?v=K1FQeUXn_sc) | [The Rose](https://zh.wikipedia.org/wiki/The_Rose_\(樂團\) "wikilink") | 全體   |
-| 2018年4月15日  | [BABY](https://www.youtube.com/watch?v=xT2xVw8av8c)                   | [The Rose](https://zh.wikipedia.org/wiki/The_Rose_\(樂團\) "wikilink") | 全體   |
-| 2018年5月23日  | [I.L.Y](https://www.youtube.com/watch?v=Vn0emeBJRGA)                  | [The Rose](https://zh.wikipedia.org/wiki/The_Rose_\(樂團\) "wikilink") | 全體   |
-| 2018年10月4日  | [She's In The Rain](https://www.youtube.com/watch?v=xBrTNZ5tRTQ)      | [The Rose](https://zh.wikipedia.org/wiki/The_Rose_\(樂團\) "wikilink") | 全體   |
+| 年份          | 歌曲名稱                                                                  | 歌手                                                 | 參與成員 |
+| ----------- | --------------------------------------------------------------------- | -------------------------------------------------- | ---- |
+| 2013年       | Hate You                                                              | [Ladies' Code](../Page/Ladies'_Code.md "wikilink") | 佑星   |
+| 2017年8月2日   | [Sorry](https://www.youtube.com/watch?v=uXcpLWB2eBA)                  | [The Rose](../Page/The_Rose_\(樂團\).md "wikilink")  | 全體   |
+| 2017年10月31日 | [좋았는데 (Like We Used To)](https://www.youtube.com/watch?v=K1FQeUXn_sc) | [The Rose](../Page/The_Rose_\(樂團\).md "wikilink")  | 全體   |
+| 2018年4月15日  | [BABY](https://www.youtube.com/watch?v=xT2xVw8av8c)                   | [The Rose](../Page/The_Rose_\(樂團\).md "wikilink")  | 全體   |
+| 2018年5月23日  | [I.L.Y](https://www.youtube.com/watch?v=Vn0emeBJRGA)                  | [The Rose](../Page/The_Rose_\(樂團\).md "wikilink")  | 全體   |
+| 2018年10月4日  | [She's In The Rain](https://www.youtube.com/watch?v=xBrTNZ5tRTQ)      | [The Rose](../Page/The_Rose_\(樂團\).md "wikilink")  | 全體   |
 
 ## 註釋與參考資料
 

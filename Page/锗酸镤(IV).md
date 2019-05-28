@@ -15,7 +15,7 @@
     4，具有[CaWO{{sub结构](https://zh.wikipedia.org/wiki/钨酸钙 "wikilink")；
   - β-PaGeO，属于[正交晶系](../Page/正交晶系.md "wikilink")，晶胞参数为*a* = 0,7157 nm,
     *c* = 0,6509 nm, Z =
-    4，具有[ZrSiO{{sub结构](https://zh.wikipedia.org/wiki/硅酸锆 "wikilink")。\[1\]\[2\].
+    4，具有[ZrSiO{{sub结构](../Page/硅酸锆.md "wikilink")。\[1\]\[2\].
 
 ## 参考文献
 

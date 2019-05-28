@@ -2,8 +2,8 @@
 Premium**是[索尼行動通訊於](https://zh.wikipedia.org/wiki/索尼行動通訊 "wikilink")2017年2月27日發布的旗艦手機\[1\]\[2\]，乃繼[Sony
 Xperia Z5
 Premium後第二部搭载](../Page/Sony_Xperia_Z5_Premium.md "wikilink")[4K解析度的機型](../Page/4K解析度.md "wikilink")。同期競爭對手為[Samsung
-Galaxy S8](https://zh.wikipedia.org/wiki/三星Galaxy_S8 "wikilink")、[HTC
-U11](https://zh.wikipedia.org/wiki/HTC_U11 "wikilink")、[iPhone
+Galaxy S8](../Page/三星Galaxy_S8.md "wikilink")、[HTC
+U11](../Page/HTC_U11.md "wikilink")、[iPhone
 8及](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")[LG
 G6](../Page/LG_G6.md "wikilink")。
 
@@ -83,7 +83,7 @@ Cast、[NFC等技术](../Page/近場通訊.md "wikilink")。\[20\]
 ### 电池
 
 Xperia XZ Premium 配备了 3230mAh 容量的电池\[21\]，其内置高通的 [QuickCharge
-3.0](https://zh.wikipedia.org/wiki/高通快充 "wikilink") 和 Qnovo 自适应充电技术。
+3.0](../Page/高通快充.md "wikilink") 和 Qnovo 自适应充电技术。
 这使设备能够实时监测电池充电过程，并相应地调整充电参数，以最大限度地减少电池损坏并延长电池组的使用寿命。
 它还附带了索尼专有的电池保护功能，通过学习和识别用户的充电区间来控制电话的充电时间，防止手机因过度充电而损坏电池的电池\[22\]。\[23\]
 
@@ -100,9 +100,9 @@ Xperia XZ Premium 配备了 3230mAh 容量的电池\[21\]，其内置高通的 [
 
 Xperia XZ Premium 发售时采用[Android 7.1.1
 Nougat操作系统](../Page/Android_Nougat.md "wikilink")\[24\]，其[Android
-Oreo](https://zh.wikipedia.org/wiki/Android_Oreo "wikilink")
+Oreo](../Page/Android_Oreo.md "wikilink")
 操作系统已从2017年10月23日开始向各个版本推送。\[25\][Android
-Pie(9.0)操作系統已從](https://zh.wikipedia.org/wiki/Android_Pie "wikilink")2018年11月10日開始向各個版本推送。\[26\]
+Pie(9.0)操作系統已從](../Page/Android_Pie.md "wikilink")2018年11月10日開始向各個版本推送。\[26\]
 
 ## 引用
 

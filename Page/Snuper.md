@@ -500,15 +500,15 @@ Jekyll，我](https://zh.wikipedia.org/wiki/Hyde_Jekyll，我 "wikilink")》演�
 | 2016年3月13日- 2016年3月20日 | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")             | Dream Team 2                                                    | 秀賢、優盛、世賓                |
 | 2016年3月29日             | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | Pops in Seoul                                                   | 全員                      |
 | 2016年10月2日             | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")               | [Running Man](../Page/Running_Man.md "wikilink")                | 全員                      |
-| 2017年10月28日            | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | [The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")   | 崔炯根(秀賢)、沈相逸(相逸)、張世賓(世賓) |
+| 2017年10月28日            | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | [The Unit](../Page/The_Unit.md "wikilink")                      | 崔炯根(秀賢)、沈相逸(相逸)、張世賓(世賓) |
 |                        |                                                                   |                                                                 |                         |
 
 ### 廣播節目
 
-|             |                                                                   |          |
-| ----------- | ----------------------------------------------------------------- | -------- |
-| **日期**      | **節目名稱**                                                          | **參與成員** |
-| 2018年10月16日 | [IDOL RADIO](https://zh.wikipedia.org/wiki/IDOL_RADIO "wikilink") | 全員       |
+|             |                                                |          |
+| ----------- | ---------------------------------------------- | -------- |
+| **日期**      | **節目名稱**                                       | **參與成員** |
+| 2018年10月16日 | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 全員       |
 
 ### 廣告代言
 

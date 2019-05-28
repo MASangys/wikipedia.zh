@@ -37,7 +37,7 @@ DTC EUROP口徑，但可以發射.338拉普麥格農。
   - [OM 50](../Page/OM_50復仇女神狙擊步槍.md "wikilink")
   - [麥克米蘭TAC-50](../Page/TAC-50狙擊步槍.md "wikilink")
   - [風行者M96](../Page/風行者M96狙擊步槍.md "wikilink")
-  - [羅巴爾RC-50](https://zh.wikipedia.org/wiki/羅巴爾RC-50狙擊步槍 "wikilink")
+  - [羅巴爾RC-50](../Page/羅巴爾RC-50狙擊步槍.md "wikilink")
   - [斯泰爾HS .50](../Page/斯泰爾HS_.50狙擊步槍.md "wikilink")
   - [風行者M96](../Page/風行者M96狙擊步槍.md "wikilink")
   - [扎斯塔瓦M93“黑箭”](../Page/扎斯塔瓦M93黑箭狙擊步槍.md "wikilink")

@@ -56,7 +56,7 @@ TB-3重型轟炸機所取代](../Page/圖波列夫_TB-3重型轟炸機.md "wikil
 
   - [圖波列夫 TB-3重型轟炸機](../Page/圖波列夫_TB-3重型轟炸機.md "wikilink")
   - <span data-source="mwYA" id="cxmwYA" tabindex="0" contenteditable="false"></span><span data-source="mwYA" id="cxmwYA" tabindex="0" contenteditable="false"></span><span data-source="mwYA" id="cxmwYA" tabindex="0" contenteditable="false"></span><span data-source="mwYA" id="cxmwYA" tabindex="0" contenteditable="false"></span>[圖波列夫
-    R-6](https://zh.wikipedia.org/wiki/圖波列夫_ANT-7 "wikilink")
+    R-6](../Page/圖波列夫_ANT-7.md "wikilink")
 
 ## 註記
 

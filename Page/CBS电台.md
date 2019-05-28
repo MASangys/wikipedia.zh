@@ -1,4 +1,4 @@
-**CBS电台公司**（）是[CBS公司拥有的一家](../Page/CBS公司.md "wikilink")[电台广播公司和](https://zh.wikipedia.org/wiki/无线电 "wikilink")[电台联播网运营公司](https://zh.wikipedia.org/wiki/電台網#電台聯播網 "wikilink")。20世纪20年代时，该公司隶属[西屋广播公司{{\\}}W集团](https://zh.wikipedia.org/wiki/西屋广播 "wikilink")；20世纪70年代时，该公司转售给。2017年11月17日，CBS电台公司被出售给。\[1\]
+**CBS电台公司**（）是[CBS公司拥有的一家](../Page/CBS公司.md "wikilink")[电台广播公司和](https://zh.wikipedia.org/wiki/无线电 "wikilink")[电台联播网运营公司](https://zh.wikipedia.org/wiki/電台網#電台聯播網 "wikilink")。20世纪20年代时，该公司隶属[西屋广播公司{{\\}}W集团](../Page/西屋广播.md "wikilink")；20世纪70年代时，该公司转售给。2017年11月17日，CBS电台公司被出售给。\[1\]
 
 虽然[哥伦比亚广播公司拥有电台广播业务最早可以追溯到](../Page/CBS_\(電視網\).md "wikilink")1927年时的原初CBS电台联播网，但CBS电台公司的实际主体源自时属的哥伦比亚广播公司在1997年所收购的。1999年，无限广播公司成为的一个部门；2005年，维亚康姆将哥伦比亚广播公司与无限广播合并重组成一家独立公司，其电台业务部门改名为“CBS电台”。
 

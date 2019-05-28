@@ -1,7 +1,7 @@
 《**News Roundup**》（節目表及主播口播為《ViuTV
 News》），是由[路透社製作](../Page/路透社.md "wikilink")、[香港電視娛樂旗下英文頻道](../Page/香港電視娛樂.md "wikilink")[ViuTVsix播出的英語新聞節目](../Page/ViuTVsix.md "wikilink")，[香港時間每天](../Page/香港時間.md "wikilink")19:00-19:30和23:30-00:00播出\[1\]。
 
-香港其他免費電視台的英語新聞節目有[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[明珠台的](../Page/明珠台.md "wikilink")《[七點半新聞報道](../Page/七點半新聞報道.md "wikilink")》（）和《[晚間新聞](../Page/無綫電視晚間新聞.md "wikilink")》（）及[奇妙電視](../Page/奇妙電視.md "wikilink")[香港國際財經台的](https://zh.wikipedia.org/wiki/香港國際財經台 "wikilink")[Main
+香港其他免費電視台的英語新聞節目有[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[明珠台的](../Page/明珠台.md "wikilink")《[七點半新聞報道](../Page/七點半新聞報道.md "wikilink")》（）和《[晚間新聞](../Page/無綫電視晚間新聞.md "wikilink")》（）及[奇妙電視](../Page/奇妙電視.md "wikilink")[香港國際財經台的](../Page/香港國際財經台.md "wikilink")[Main
 News和](https://zh.wikipedia.org/wiki/Main_News_\(香港國際財經台\) "wikilink")[Late
 News](https://zh.wikipedia.org/wiki/Late_News_\(香港國際財經台\) "wikilink")。
 
@@ -18,15 +18,15 @@ News](https://zh.wikipedia.org/wiki/Late_News_\(香港國際財經台\) "wikilin
     馬德里體育會](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")》，當日23:30一節提早至21:30-22:10播映。
   - 2017年9月30日及10月1日：由於18:00-20:00直播《[游泳世界盃香港2017](https://zh.wikipedia.org/wiki/游泳世界盃香港2017 "wikilink")》，當日19:00一節順延至20:00-20:30播映。
   - 2017年10月9日至10月13日：由於19:00-21:00直播《[英國保誠呈獻：保誠香港網球公開賽
-    2017](https://zh.wikipedia.org/wiki/香港網球公開賽 "wikilink")》，當日19:00一節提早至18:30-19:00播映。
+    2017](../Page/香港網球公開賽.md "wikilink")》，當日19:00一節提早至18:30-19:00播映。
   - 2017年10月15日：由於原定20:30-22:30直播的《[英國保誠呈獻：保誠香港網球公開賽2017 -
-    單打決賽](https://zh.wikipedia.org/wiki/香港網球公開賽 "wikilink")》超時至01:05，當日23:30一節順延至翌日01:05-01:25播映。
+    單打決賽](../Page/香港網球公開賽.md "wikilink")》超時至01:05，當日23:30一節順延至翌日01:05-01:25播映。
   - 2017年11月5日：由於22:00-00:00直播《[英格蘭足總盃](../Page/英格蘭足總盃.md "wikilink")
     17/18 第一圈：禾京 對 貝利》，當日23:30一節順延至翌日00:00-00:30播映。
   - 2017年11月25日：由於23:10-01:15直播《[西班牙甲組足球聯賽 - 皇家馬德里 對
     馬拉加](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")》，當日23:30一節提早至22:45-23:10播映。
   - 2017年11月29日：由於18:00-21:00直播《[2017 MAMA亞洲音樂大獎 -
-    日本站](https://zh.wikipedia.org/wiki/2017年Mnet亞洲音樂大獎 "wikilink")》以及22:30-23:40播出《》大結局，當日19:00一節提早至17:30-18:00播映，而23:30一節順延至23:40-00:10播映。
+    日本站](../Page/2017年Mnet亞洲音樂大獎.md "wikilink")》以及22:30-23:40播出《》大結局，當日19:00一節提早至17:30-18:00播映，而23:30一節順延至23:40-00:10播映。
   - 2017年12月1日：由於23:00-00:00直播《2018
     FIFA世界盃決賽周抽籤儀式》，當日23:30一節提早至22:30-23:00播映。
   - 2017年12月2日：由於22:55-01:00直播《[英格蘭足總盃](../Page/英格蘭足總盃.md "wikilink")
@@ -43,7 +43,7 @@ News](https://zh.wikipedia.org/wiki/Late_News_\(香港國際財經台\) "wikilin
   - 2018年4月2日：由於22:30-23:40播出《[捲土重來2](https://zh.wikipedia.org/wiki/喜劇女王慶回歸 "wikilink")》第5集，當日23:30一節順延至23:40-00:10播映。
   - 2018年5月20日：由於22:10-00:15直播《[西班牙甲組足球聯賽 - 畢爾包 對
     愛斯賓奴](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")》，當日23:30一節順延至翌日00:15-00:30播映。
-  - 2018年10月8日至12日：由於19:00-21:00直播《[保誠香港網球公開賽2018](https://zh.wikipedia.org/wiki/香港網球公開賽 "wikilink")》，19:00一節提前至18:30-19:00播映。
+  - 2018年10月8日至12日：由於19:00-21:00直播《[保誠香港網球公開賽2018](../Page/香港網球公開賽.md "wikilink")》，19:00一節提前至18:30-19:00播映。
 
 ## 新聞部員工
 

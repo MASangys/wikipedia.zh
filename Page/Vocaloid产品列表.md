@@ -701,7 +701,7 @@ Maui（Wil）</p></td>
 山葉公司/Bplats</p></td>
 <td><p>漢語</p></td>
 <td><p>女性</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/劉婧犖" title="wikilink">劉婧犖</a></p></td>
+<td><p><a href="../Page/劉婧犖.md" title="wikilink">劉婧犖</a></p></td>
 <td><p>2013年7月11日</p></td>
 </tr>
 <tr class="odd">
@@ -1187,7 +1187,7 @@ MTK</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/LUMi" title="wikilink">LUMi</a></p></td>
+<td><p><a href="../Page/LUMi.md" title="wikilink">LUMi</a></p></td>
 <td><p>Akatsuki Virtual Artists</p></td>
 <td><p>日語</p></td>
 <td><p>女性</p></td>
@@ -1228,7 +1228,7 @@ MTK</p></td>
 <td><p>2017年12月30日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/绁星灯" title="wikilink">绁星灯</a></p></td>
+<td><p><a href="../Page/绁星灯.md" title="wikilink">绁星灯</a></p></td>
 <td><p>AH-Software</p></td>
 <td><p>日语</p></td>
 <td><p>女性</p></td>

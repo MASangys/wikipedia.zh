@@ -32,7 +32,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ### HIROOMI TOSAKA
 
-  - 所有收錄歌曲皆由世界知名音樂製作人[艾佛傑克負責製作](https://zh.wikipedia.org/wiki/艾佛傑克 "wikilink")。
+  - 所有收錄歌曲皆由世界知名音樂製作人[艾佛傑克負責製作](../Page/艾佛傑克.md "wikilink")。
   - 由本人負責填詞的《》、《》、與合作的《》皆為初CD化，並收錄《End of Line》、《Smile Moon
     Night》與《HEY》等新曲。
 

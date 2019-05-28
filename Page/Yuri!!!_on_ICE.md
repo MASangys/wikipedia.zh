@@ -1,5 +1,5 @@
 《**YURI\!\!\! on
-ICE**》（）是由日本動畫公司[MAPPA製作的原創](https://zh.wikipedia.org/wiki/MAPPA "wikilink")[花式滑冰題材](https://zh.wikipedia.org/wiki/花式滑冰 "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]。自2016年10月5日起播放至同年12月21日止，全12集。\[2\]劇情描述日本花式滑冰運動員勝生勇利、他的偶像（後來成為教練）的俄羅斯滑冰冠軍維克托、以及俄羅斯新生代滑冰運動員尤里互相切磋，並參加[国际滑冰联盟花样滑冰大奖赛的故事](../Page/国际滑冰联盟花样滑冰大奖赛.md "wikilink")。
+ICE**》（）是由日本動畫公司[MAPPA製作的原創](../Page/MAPPA.md "wikilink")[花式滑冰題材](https://zh.wikipedia.org/wiki/花式滑冰 "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")\[1\]。自2016年10月5日起播放至同年12月21日止，全12集。\[2\]劇情描述日本花式滑冰運動員勝生勇利、他的偶像（後來成為教練）的俄羅斯滑冰冠軍維克托、以及俄羅斯新生代滑冰運動員尤里互相切磋，並參加[国际滑冰联盟花样滑冰大奖赛的故事](../Page/国际滑冰联盟花样滑冰大奖赛.md "wikilink")。
 
 在日本，作品的BD銷量超過40000張，還獲得了[東京動畫獎票選年度最佳動畫等多項殊榮](../Page/東京動畫獎.md "wikilink")。該作品對主角之間的同性關係的描述也引發討論。
 
@@ -238,7 +238,7 @@ ICE中取得勝利的勇利找回了自信，並以「愛」為主題再度挑�
   - 音樂製作：PIANO
   - 音樂製作人：冨永恵介
   - 動畫製作人：野田楓子、小川崇博
-  - 動畫製作：[MAPPA](https://zh.wikipedia.org/wiki/MAPPA "wikilink")
+  - 動畫製作：[MAPPA](../Page/MAPPA.md "wikilink")
   - 製作：Yuri\!\!\! on ICE製作委員會
 
 ## 主題曲
@@ -602,7 +602,7 @@ Beethoven</a>（作曲）<br />
 <td><p>要超加油！<br />
 大獎賽總決賽前特輯</p></td>
 <td><p><a href="../Page/立川讓.md" title="wikilink">立川讓</a>、宍戸淳</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/森邦宏" title="wikilink">森邦宏</a><br />
+<td><p><a href="../Page/森邦宏.md" title="wikilink">森邦宏</a><br />
 高橋謙仁</p></td>
 <td><p>崎口沙織、芳賀亮、久木晃嗣、梅津茜<br />
 竹島照子、河村夏生、朱原デーナ<br />
@@ -652,7 +652,7 @@ Beckett將尤里選為2016年動畫中的最佳角色之一\[4\]；Charapedia舉
 on
 ICE》選為最佳作品\[9\]；然而、對花式滑冰的技巧術語缺乏適當的說明\[10\]、動畫的品質良莠不齊和[重複性過高也讓它受到負評](https://zh.wikipedia.org/wiki/兼用卡 "wikilink")\[11\]。
 
-本作品受到、[葉甫根尼婭·梅德韋傑娃](https://zh.wikipedia.org/wiki/葉甫根尼婭·梅德韋傑娃 "wikilink")、[丹尼斯·丁](https://zh.wikipedia.org/wiki/丹尼斯·丁 "wikilink")、[葉甫根尼·普魯申科](https://zh.wikipedia.org/wiki/葉甫根尼·普魯申科 "wikilink")、木村真人等職業花式滑冰運動員的喜歡\[12\]\[13\]，[史蒂芬·蘭比爾](https://zh.wikipedia.org/wiki/史蒂芬·蘭比爾 "wikilink")、更在故事中[友情客串](../Page/友情客串.md "wikilink")\[14\]。第十集片尾時的勇利跳[鋼管舞的寫實感受到職業鋼管舞者的讚譽](https://zh.wikipedia.org/wiki/鋼管舞 "wikilink")\[15\]。
+本作品受到、[葉甫根尼婭·梅德韋傑娃](https://zh.wikipedia.org/wiki/葉甫根尼婭·梅德韋傑娃 "wikilink")、[丹尼斯·丁](../Page/丹尼斯·丁.md "wikilink")、[葉甫根尼·普魯申科](https://zh.wikipedia.org/wiki/葉甫根尼·普魯申科 "wikilink")、木村真人等職業花式滑冰運動員的喜歡\[12\]\[13\]，[史蒂芬·蘭比爾](https://zh.wikipedia.org/wiki/史蒂芬·蘭比爾 "wikilink")、更在故事中[友情客串](../Page/友情客串.md "wikilink")\[14\]。第十集片尾時的勇利跳[鋼管舞的寫實感受到職業鋼管舞者的讚譽](https://zh.wikipedia.org/wiki/鋼管舞 "wikilink")\[15\]。
 
 《Yuri\!\!\! on
 ICE》也被其它動畫作品引用。在美國喜劇動畫《[南方公園](../Page/南方公園.md "wikilink")》第277集〈〉中，凱爾·布拉夫斯其的弟弟BB的瀏覽器搜尋記錄裡顯示了《Yuuri
@@ -663,7 +663,7 @@ ICE》第十二集的閃回裡，一個童年時代的J.J.穿著和《南方公�
 
 動畫吸引了大量的線上支持者。根據[角川Ascii綜合研究所的訊息趨勢分析顯示](https://zh.wikipedia.org/wiki/角川Ascii綜合研究所 "wikilink")，在[Twitter上有](../Page/Twitter.md "wikilink")144萬596條關於《Yuri\!\!\!
 on
-ICE》的文章或留言，是該季的動畫中最多的，比第二名《[排球少年！！](https://zh.wikipedia.org/wiki/排球少年！！ "wikilink")》的34萬8109則高出了一百萬。\[19\]
+ICE》的文章或留言，是該季的動畫中最多的，比第二名《[排球少年！！](../Page/排球少年！！.md "wikilink")》的34萬8109則高出了一百萬。\[19\]
 此外、在第一季最後一集播出的那一天，[Crunchyroll網站的串流服務癱瘓](../Page/Crunchyroll.md "wikilink")，推測是因為高頻率的網路活動導致\[20\]。Crunchyroll發佈的數據顯示，《Yuri\!\!\!
 on
 ICE》在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")、[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[寮國](https://zh.wikipedia.org/wiki/寮國 "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")、[捷克](../Page/捷克.md "wikilink")、[獅子山共和國](https://zh.wikipedia.org/wiki/獅子山共和國 "wikilink")、[布吉納法索](../Page/布吉納法索.md "wikilink")、[馬拉威和](https://zh.wikipedia.org/wiki/馬拉威 "wikilink")[波札那最受歡迎](../Page/波札那.md "wikilink")，不過它並不是這一季中最受歡迎的動畫，最受歡迎的是《[Re:從零開始的異世界生活](../Page/Re:從零開始的異世界生活.md "wikilink")》。\[21\]

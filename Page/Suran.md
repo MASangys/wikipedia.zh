@@ -258,7 +258,7 @@ Go》而备受关注。不仅如此，她还凭借着富有个性的声线和爆
 <li></li>
 <li><p></ref></p></li>
 </ul></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Show_Me_The_Money_5" title="wikilink">Show Me The Money 5 Episode 4</a></p></td>
+<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5 Episode 4</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Beside Me( feat. <a href="../Page/BewhY.md" title="wikilink">BewhY</a>, <a href="../Page/梁東根.md" title="wikilink">YDG</a> &amp; Suran)</p></td>
@@ -373,7 +373,7 @@ Go》而备受关注。不仅如此，她还凭借着富有个性的声线和爆
 <tr class="odd">
 <td><p>I'll Be Fine（뒷모습）</p></td>
 <td><p>—</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/和遊記" title="wikilink">和遊記 OST Part 3</a></p></td>
+<td><p><a href="../Page/和遊記.md" title="wikilink">和遊記 OST Part 3</a></p></td>
 <td></td>
 <td></td>
 </tr>

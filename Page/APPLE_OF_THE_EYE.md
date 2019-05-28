@@ -2,7 +2,7 @@
 EYE**（，簡稱：**A.O.E**）是[韓國的一所小型](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](../Page/經紀公司.md "wikilink")\[1\]，它成立于2009年9月15日。當前藝人包括演員[丹尼爾·海尼](../Page/丹尼爾·海尼.md "wikilink")、Kim
 Wook、Kwon Hee、組合[Royal
 Pirates](../Page/Royal_Pirates.md "wikilink")、簽約藝人Brian
-Park、[李绣至](https://zh.wikipedia.org/wiki/李绣至 "wikilink")、鄭時顯及[千載寅](https://zh.wikipedia.org/wiki/千載寅 "wikilink")。
+Park、[李绣至](../Page/李绣至.md "wikilink")、鄭時顯及[千載寅](https://zh.wikipedia.org/wiki/千載寅 "wikilink")。
 
 ## 旗下藝人
 

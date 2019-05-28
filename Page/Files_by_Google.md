@@ -11,7 +11,7 @@ Go}-”中国定制版，同时通过百度、华为、腾讯、小米四家应�
 
 Google最早在2017年11月推出了该应用的测试版。Files Go是为[Android
 Go版设备打造](https://zh.wikipedia.org/wiki/Android_Oreo#Android_Go "wikilink")，但也可在任何运行[Android
-Lollipop](https://zh.wikipedia.org/wiki/Android_Lollipop "wikilink")（5.x）或更高版本的设备上使用。
+Lollipop](../Page/Android_Lollipop.md "wikilink")（5.x）或更高版本的设备上使用。
 
 此外，与[苹果公司的](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[AirDrop技术类似](https://zh.wikipedia.org/wiki/AirDrop "wikilink")，安装了Files
 Go应用程序的两台设备可以直接传输文件（速度最高达490Mbps\[7\]），无需花费移动数据流量。

@@ -18,7 +18,7 @@
 
   - [史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")，一家电子游戏公司
 
-  - [法國特大航空](https://zh.wikipedia.org/wiki/法國特大航空 "wikilink")（IATA标识SE；以前称为“星航”）
+  - [法國特大航空](../Page/法國特大航空.md "wikilink")（IATA标识SE；以前称为“星航”）
 
   - （铁路报告标志SE）
 

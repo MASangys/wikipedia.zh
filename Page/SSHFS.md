@@ -11,7 +11,7 @@ SFTP能提供安全的文件传输和安全的远程文件系统。虽然SFTP客
 
 在sshfs中使用[Unix命令](../Page/Unix实用程序列表.md "wikilink")[ls有时不能正确列出文件的所有者](https://zh.wikipedia.org/wiki/ls "wikilink")，尽管可以手动映射它们。\[4\]\[5\]
 
-有多个用户的分布式远程文件系统较常使用诸如[苹果归档协议](https://zh.wikipedia.org/wiki/苹果归档协议 "wikilink")（AFP）、[网络文件系统](../Page/网络文件系统.md "wikilink")（NFS）和[伺服器訊息區塊](../Page/伺服器訊息區塊.md "wikilink")（SMB）。SSHFS是这些协议的备选方案，仅适合用于用户确信文件和目录不会同时在被另一个用户写入。
+有多个用户的分布式远程文件系统较常使用诸如[苹果归档协议](../Page/苹果归档协议.md "wikilink")（AFP）、[网络文件系统](../Page/网络文件系统.md "wikilink")（NFS）和[伺服器訊息區塊](../Page/伺服器訊息區塊.md "wikilink")（SMB）。SSHFS是这些协议的备选方案，仅适合用于用户确信文件和目录不会同时在被另一个用户写入。
 
 SSHFS在与其他网络文件系统协议相比时的优点是，由于用户已具有对主机的SSH访问，它不需要任何额外的配置工作，也不需要在[防火墙中打开额外的传入端口](../Page/防火墙.md "wikilink")。
 
@@ -22,13 +22,13 @@ SSHFS在与其他网络文件系统协议相比时的优点是，由于用户已
 
   - [FileZilla](../Page/FileZilla.md "wikilink")，一个自由软件实用工具，面向多个平台。
 
-  - [FTPFS](https://zh.wikipedia.org/wiki/FTPFS "wikilink")
+  - [FTPFS](../Page/FTPFS.md "wikilink")
 
   - [GVfs](https://zh.wikipedia.org/wiki/GVfs "wikilink")
 
   - [SSH文件传输协议](../Page/SSH文件传输协议.md "wikilink")（SFTP）
 
-  - [安全复制](https://zh.wikipedia.org/wiki/安全复制 "wikilink")（SCP）
+  - [安全复制](../Page/安全复制.md "wikilink")（SCP）
 
   - [WinSCP](../Page/WinSCP.md "wikilink")
 

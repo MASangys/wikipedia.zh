@@ -12,7 +12,7 @@
       - [梁 (渔具)](../Page/梁_\(渔具\).md "wikilink")
 
       -
-      - [捕鼠器](https://zh.wikipedia.org/wiki/捕鼠器 "wikilink")
+      - [捕鼠器](../Page/捕鼠器.md "wikilink")
 
   - [詭雷](../Page/詭雷.md "wikilink")
 
@@ -77,8 +77,7 @@
   -
 ### 音乐
 
-  - [陷阱音樂](https://zh.wikipedia.org/wiki/陷阱音樂 "wikilink")（又名渣铺，英语：Trap
-    music）
+  - [陷阱音樂](../Page/陷阱音樂.md "wikilink")（又名渣铺，英语：Trap music）
 
   - [Trap (专辑)](../Page/Trap_\(专辑\).md "wikilink")，香港歌手林峯的第7张粤语专辑
 

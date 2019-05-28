@@ -7,7 +7,7 @@ Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
 同名標題曲「naked
 mind」是動畫《[秀逗魔導士](../Page/秀逗魔導士_\(動畫\).md "wikilink")》衍生、由[文化放送節目](../Page/文化放送_\(日本\).md "wikilink")「有希與美冬的[秀逗魔導士Pachi](../Page/秀逗魔導士.md "wikilink")^2之夜」播出的廣播劇「[秀逗魔導士N·EX.](https://zh.wikipedia.org/wiki/秀逗魔導士_\(動畫\)#Slayers_N＞EX. "wikilink")」選用的片頭主題曲。至於B面歌曲「虹」同樣也被選為同名廣播劇的片尾主題曲使用。
 
-該單曲是除了奧井她現在的部分樂曲作品以外、到2001年發行的個人總計第26張《[Shuffle](https://zh.wikipedia.org/wiki/Shuffle_\(奧井雅美單曲\) "wikilink")》以前，由奧井作詞兼合音，作曲&編曲由長年與奧井合作的[矢吹俊郎負責的單曲](../Page/矢吹俊郎.md "wikilink")。
+該單曲是除了奧井她現在的部分樂曲作品以外、到2001年發行的個人總計第26張《[Shuffle](../Page/Shuffle_\(奧井雅美單曲\).md "wikilink")》以前，由奧井作詞兼合音，作曲&編曲由長年與奧井合作的[矢吹俊郎負責的單曲](../Page/矢吹俊郎.md "wikilink")。
 
 該單曲後來有收錄在奧井她的專輯《》中，並與B面歌都經過dynamix的混音方式一起收錄。
 

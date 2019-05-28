@@ -146,7 +146,7 @@ OFF》首秀場，MV、專輯並於當日正式公開。
 | 2015年7月8日      | Ring My Bell                                                         | Girl's Day《Love》                                                                                                                             |      |    |
 | Come slowly    |                                                                      |                                                                                                                                              |      |    |
 | 2015年11月18日    | Hot Pink                                                             | [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")《[Hot Pink](https://zh.wikipedia.org/wiki/Hot_Pink_\(EXID單曲\) "wikilink")》              |      |    |
-| 2016年1月28日     | Sting                                                                | [Stellar](https://zh.wikipedia.org/wiki/Stellar "wikilink")《Sting》                                                                           |      |    |
+| 2016年1月28日     | Sting                                                                | [Stellar](../Page/Stellar.md "wikilink")《Sting》                                                                                              |      |    |
 | 2016年3月17日     | Sketch                                                               | 孝敏《Sketch》                                                                                                                                   |      |    |
 
 ## 影視作品

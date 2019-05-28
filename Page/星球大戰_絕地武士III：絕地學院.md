@@ -1,5 +1,5 @@
 是一款[星際大戰游戏](../Page/星際大戰.md "wikilink")，于2003年發行的[第一和](https://zh.wikipedia.org/wiki/第一人稱射擊遊戲 "wikilink")[第三人稱射擊游戏](https://zh.wikipedia.org/wiki/第三人稱射擊遊戲 "wikilink")。遊戲由[Raven
-Software開發](../Page/Raven_Software.md "wikilink")，[LucasArts在北美发行](https://zh.wikipedia.org/wiki/LucasArts "wikilink")、[動視在欧洲發行](https://zh.wikipedia.org/wiki/動視 "wikilink")、[CyberFron在日本发行](https://zh.wikipedia.org/wiki/CyberFron "wikilink")。遊戲于2003年9月[Microsoft
+Software開發](../Page/Raven_Software.md "wikilink")，[LucasArts在北美发行](../Page/LucasArts.md "wikilink")、[動視在欧洲發行](https://zh.wikipedia.org/wiki/動視 "wikilink")、[CyberFron在日本发行](https://zh.wikipedia.org/wiki/CyberFron "wikilink")。遊戲于2003年9月[Microsoft
 Windows和](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Mac
 OS
 X上发行](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，11月在[Xbox上发行](../Page/Xbox_\(遊戲機\).md "wikilink")，並獲得了積極的評價。

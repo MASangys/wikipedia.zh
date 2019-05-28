@@ -304,8 +304,7 @@ bureau**（，）是一家位於[日本](../Page/日本.md "wikilink")[大阪府
 
   - 畠山綾子
 
-  - [早坂好惠](https://zh.wikipedia.org/wiki/早坂好惠 "wikilink")（現所屬：Partner's
-    Pro）
+  - [早坂好惠](../Page/早坂好惠.md "wikilink")（現所屬：Partner's Pro）
 
   - （現所屬：株式會社TAKARA）
 

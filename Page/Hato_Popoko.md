@@ -59,8 +59,7 @@ Works](../Page/ASCII_Media_Works.md "wikilink")《[電撃萌王](https://zh.wiki
 
   - 電視動畫 [灰色的果實](../Page/灰色的果實.md "wikilink")（第13話片尾插圖）
   - 電視動畫 [長騎美眉](https://zh.wikipedia.org/wiki/長騎美眉 "wikilink")（第3話片尾插圖）
-  - 電視動畫
-    [天使降臨到我身邊！](https://zh.wikipedia.org/wiki/天使降臨到我身邊！ "wikilink")（第9話片尾插圖）
+  - 電視動畫 [天使降臨到我身邊！](../Page/天使降臨到我身邊！.md "wikilink")（第9話片尾插圖）
 
 ## 外部連結
 

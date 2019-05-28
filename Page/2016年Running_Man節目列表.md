@@ -68,7 +68,7 @@
 <td><p>1月10日<br />
 <small>（2015年<br />
 12月22日）</small>[2]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林智妍" title="wikilink">林智妍</a></p></td>
+<td><p><a href="../Page/林智妍.md" title="wikilink">林智妍</a></p></td>
 <td><p>HS Ville<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/加平郡.md" title="wikilink">加平郡</a><br />
 <a href="https://zh.wikipedia.org/wiki/三和里" title="wikilink">三和里</a>）</small></p></td>
@@ -85,7 +85,7 @@
 <small>（414）</small></p></td>
 <td><p>1月17日<br />
 <small>（1月4日）</small></p></td>
-<td><p><a href="../Page/李熙俊.md" title="wikilink">李熙俊</a>、<a href="https://zh.wikipedia.org/wiki/洪允和" title="wikilink">洪允和</a>、<br />
+<td><p><a href="../Page/李熙俊.md" title="wikilink">李熙俊</a>、<a href="../Page/洪允和.md" title="wikilink">洪允和</a>、<br />
 <a href="../Page/時完.md" title="wikilink">任時完</a>（<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>）、<br />
 <a href="../Page/高我星.md" title="wikilink">高我星</a>[4]</p></td>
 <td><p>香草國農園<br />
@@ -98,7 +98,7 @@
 高我星、劉在錫、池錫辰、Gary、李熙俊</p></td>
 <td><p><span style=font-size:110%><strong>最終任務</strong></span><br />
 <span style=color:#0000FF><strong>魔女</strong></span><br />
-<a href="https://zh.wikipedia.org/wiki/洪允和" title="wikilink">洪允和</a></span><br />
+<a href="../Page/洪允和.md" title="wikilink">洪允和</a></span><br />
 <strong>任務隊</strong><br />
 <span style=color:#00008B><strong>智孝家</strong></span><br />
 宋智孝、金鐘國、哈哈、李光洙、任時完</span><br />
@@ -338,7 +338,7 @@ Running Man 冠軍聯賽</strong></span><br />
 <small>（426）</small></p></td>
 <td><p>4月10日<br />
 <small>（3月29日）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink">宋旻浩</a>、<a href="https://zh.wikipedia.org/wiki/南太鉉" title="wikilink">南太鉉</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink">宋旻浩</a>、<a href="../Page/南太鉉.md" title="wikilink">南太鉉</a><br />
 （<a href="../Page/WINNER.md" title="wikilink">WINNER</a>）、<br />
 <a href="../Page/惠利.md" title="wikilink">惠利</a>（<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>）</p></td>
 <td><p><a href="../Page/大邱體育場.md" title="wikilink">大邱體育場</a><br />
@@ -511,7 +511,7 @@ vs<br />
 <td><p>6月5日<br />
 <small>（5月24日）</small></p></td>
 <td><p><a href="../Page/呂珍九.md" title="wikilink">呂珍九</a>、<br />
-<a href="../Page/娜璉.md" title="wikilink">娜璉</a>、<a href="https://zh.wikipedia.org/wiki/定延" title="wikilink">定延</a>、<a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a>、<br />
+<a href="../Page/娜璉.md" title="wikilink">娜璉</a>、<a href="../Page/定延.md" title="wikilink">定延</a>、<a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/湊崎紗夏" title="wikilink">Sana</a>、<a href="https://zh.wikipedia.org/wiki/朴志效" title="wikilink">志效</a>、<a href="../Page/Mina_(TWICE).md" title="wikilink">Mina</a>、<br />
 <a href="../Page/多賢.md" title="wikilink">多賢</a>、<a href="../Page/彩瑛.md" title="wikilink">彩瑛</a>、<a href="../Page/周子瑜.md" title="wikilink">子瑜</a><br />
 （<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>）[19]</p></td>
@@ -603,8 +603,8 @@ vs<br />
 <small>（437）</small></p></td>
 <td><p>6月26日<br />
 <small>（6月13日）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a>、<a href="../Page/李廷鎮.md" title="wikilink">李廷鎮</a>、<br />
-、<a href="https://zh.wikipedia.org/wiki/金東炫" title="wikilink">金東炫</a>、<br />
+<td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a>、<a href="../Page/李廷鎮.md" title="wikilink">李廷鎮</a>、<br />
+、<a href="../Page/金東炫.md" title="wikilink">金東炫</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/曹世鎬" title="wikilink">曹世鎬</a>、、<br />
 <a href="https://zh.wikipedia.org/wiki/李秀敏" title="wikilink">李秀敏</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS登村洞公開廳</a><br />
@@ -614,7 +614,7 @@ vs<br />
 <span style=color:#808080><strong>Running Man隊</strong></span><br />
 <a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、池錫辰、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、Gary、<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a><br />
 <span style=color:#FF8C00><strong>Avengers隊</strong></span><br />
-<a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a>、<a href="../Page/李廷鎮.md" title="wikilink">李廷鎮</a>、<a href="https://zh.wikipedia.org/wiki/金俊鉉" title="wikilink">金俊鉉</a>、<a href="https://zh.wikipedia.org/wiki/金東炫" title="wikilink">金東炫</a>、<a href="https://zh.wikipedia.org/wiki/曹世鎬" title="wikilink">曹世鎬</a>、<a href="https://zh.wikipedia.org/wiki/劉在煥" title="wikilink">劉在煥</a>、<a href="https://zh.wikipedia.org/wiki/李秀敏" title="wikilink">李秀敏</a></p></td>
+<a href="../Page/李敬揆.md" title="wikilink">李敬揆</a>、<a href="../Page/李廷鎮.md" title="wikilink">李廷鎮</a>、<a href="https://zh.wikipedia.org/wiki/金俊鉉" title="wikilink">金俊鉉</a>、<a href="../Page/金東炫.md" title="wikilink">金東炫</a>、<a href="https://zh.wikipedia.org/wiki/曹世鎬" title="wikilink">曹世鎬</a>、<a href="https://zh.wikipedia.org/wiki/劉在煥" title="wikilink">劉在煥</a>、<a href="https://zh.wikipedia.org/wiki/李秀敏" title="wikilink">李秀敏</a></p></td>
 <td><p>Running Man隊<strong>勝出</strong><br />
 獲得金徽章七個[23]</p></td>
 <td></td>
@@ -777,7 +777,7 @@ vs<br />
 <small>（7月26日）</small></p></td>
 <td><p><a href="../Page/尹鍾信.md" title="wikilink">尹鍾信</a>、<a href="../Page/金慶皓.md" title="wikilink">金慶皓</a>、<br />
 <a href="../Page/趙正治.md" title="wikilink">趙正治</a>、<a href="../Page/Bada_(歌手).md" title="wikilink">Bada</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/柳炳宰" title="wikilink">柳炳宰</a></p></td>
+<a href="../Page/柳炳宰.md" title="wikilink">柳炳宰</a></p></td>
 <td><p>京畿楊平英語村<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/楊平郡.md" title="wikilink">楊平郡</a><br />
 ）</small></p></td>
@@ -796,7 +796,7 @@ vs<br />
 <small>（445）</small></p></td>
 <td><p>8月21日<br />
 <small>（8月8日）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盧士燕" title="wikilink">盧士燕</a>、、<br />
+<td><p><a href="../Page/盧士燕.md" title="wikilink">盧士燕</a>、、<br />
 <a href="../Page/河在淑.md" title="wikilink">河在淑</a>、<br />
 <a href="../Page/李美珠.md" title="wikilink">李美珠</a>（<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>）、<br />
 <a href="https://zh.wikipedia.org/wiki/金世正" title="wikilink">金世正</a>（<a href="https://zh.wikipedia.org/wiki/gu9udan" title="wikilink">gu9udan</a>、<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a>）</p></td>
@@ -873,10 +873,10 @@ vs<br />
 <small>（449）</small></p></td>
 <td><p>9月18日<br />
 <small>（9月6日）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李敬揆" title="wikilink">李敬揆</a>、<br />
+<td><p><a href="../Page/李敬揆.md" title="wikilink">李敬揆</a>、<br />
 <a href="../Page/文熙俊.md" title="wikilink">-{文熙俊}-</a>（<a href="../Page/H.O.T..md" title="wikilink">H.O.T.</a>）、<br />
 、<a href="../Page/韓惠軫.md" title="wikilink">韓惠軫</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/金東炫" title="wikilink">金東炫</a>、<a href="../Page/成勛.md" title="wikilink">成勛</a>、<br />
+<a href="../Page/金東炫.md" title="wikilink">金東炫</a>、<a href="../Page/成勛.md" title="wikilink">成勛</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a>（<a href="../Page/SHINee.md" title="wikilink">SHINee</a>）</p></td>
 <td><p>Starfield HANAM<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="https://zh.wikipedia.org/wiki/河南市" title="wikilink">河南市</a><br />
@@ -938,7 +938,7 @@ vs<br />
 吳福男、、<br />
 、、<br />
 、<br />
-<a href="https://zh.wikipedia.org/wiki/洪允和" title="wikilink">洪允和</a>、、<br />
+<a href="../Page/洪允和.md" title="wikilink">洪允和</a>、、<br />
 <a href="https://zh.wikipedia.org/wiki/李宰煥" title="wikilink">KEN</a>、<a href="https://zh.wikipedia.org/wiki/RAVI" title="wikilink">RAVI</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/爀" title="wikilink">爀</a>（<a href="../Page/VIXX.md" title="wikilink">VIXX</a>）、<br />
 <a href="../Page/24K_(韓國組合).md" title="wikilink">Cory</a>、<a href="../Page/24K_(韓國組合).md" title="wikilink">SungOh</a>、<br />
@@ -951,7 +951,7 @@ vs<br />
 <a href="https://zh.wikipedia.org/wiki/Bigstar" title="wikilink">來桓</a>、<a href="https://zh.wikipedia.org/wiki/Bigstar" title="wikilink">Feeldog</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/Bigstar" title="wikilink">聖學</a>、<a href="https://zh.wikipedia.org/wiki/Bigstar" title="wikilink">Jude</a>（<a href="../Page/BIGSTAR.md" title="wikilink">BIGSTAR</a>）、<br />
 <a href="https://zh.wikipedia.org/wiki/蕙姸" title="wikilink">蕙姸</a>、<a href="../Page/有智.md" title="wikilink">有智</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/宋多惠" title="wikilink">多惠</a>、<a href="../Page/海嶺.md" title="wikilink">海嶺</a>（<a href="https://zh.wikipedia.org/wiki/BESTie" title="wikilink">BESTie</a>）、<br />
+<a href="https://zh.wikipedia.org/wiki/宋多惠" title="wikilink">多惠</a>、<a href="../Page/海嶺.md" title="wikilink">海嶺</a>（<a href="../Page/BESTie.md" title="wikilink">BESTie</a>）、<br />
 <a href="https://zh.wikipedia.org/wiki/Topp_Dogg" title="wikilink">P-Goon</a>、<a href="https://zh.wikipedia.org/wiki/Topp_Dogg" title="wikilink">Hojoon</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/Topp_Dogg" title="wikilink">Nakta</a>、<a href="https://zh.wikipedia.org/wiki/Topp_Dogg" title="wikilink">Hansol</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/Topp_Dogg" title="wikilink">B-Joo</a>、<a href="https://zh.wikipedia.org/wiki/Topp_Dogg" title="wikilink">Xero</a>、<br />
@@ -1011,8 +1011,8 @@ vs<br />
 <small>（452）</small></p></td>
 <td><p>10月9日<br />
 <small>（10月3日）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柳海真" title="wikilink">柳海真</a>、<a href="../Page/趙胤熙.md" title="wikilink">趙胤熙</a>、<br />
-<a href="../Page/李準_(歌手).md" title="wikilink">李準</a>、<a href="https://zh.wikipedia.org/wiki/林智妍" title="wikilink">林智妍</a></p></td>
+<td><p><a href="../Page/柳海真.md" title="wikilink">柳海真</a>、<a href="../Page/趙胤熙.md" title="wikilink">趙胤熙</a>、<br />
+<a href="../Page/李準_(歌手).md" title="wikilink">李準</a>、<a href="../Page/林智妍.md" title="wikilink">林智妍</a></p></td>
 <td><p>國立韓文博物館<br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/龍山區_(首爾).md" title="wikilink">龍山區</a><a href="../Page/龍山洞_(首爾).md" title="wikilink">龍山洞</a>）</small></p></td>
@@ -1040,7 +1040,7 @@ vs<br />
 <td><p>10月16日<br />
 <small>（10月4日）</small></p></td>
 <td><p><a href="../Page/朴修弘.md" title="wikilink">朴修弘</a>、<a href="../Page/李奎翰.md" title="wikilink">李奎翰</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">朴娜萊</a>、<a href="https://zh.wikipedia.org/wiki/梁世燦" title="wikilink">梁世燦</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/朴娜萊_(喜劇演員)" title="wikilink">朴娜萊</a>、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/率濱" title="wikilink">率濱</a>（<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>）</p></td>
 <td><p><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/坡州市.md" title="wikilink">坡州市</a><br />
@@ -1062,7 +1062,7 @@ vs<br />
 <small>（10月10日）</small></p></td>
 <td><p><a href="../Page/朴美善.md" title="wikilink">朴美善</a>、<a href="../Page/芮智媛.md" title="wikilink">芮智媛</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/姜珉耿" title="wikilink">姜珉耿</a>（<a href="../Page/Davichi.md" title="wikilink">Davichi</a>）、<br />
-<a href="https://zh.wikipedia.org/wiki/Yura" title="wikilink">Yura</a>（<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>）、<br />
+<a href="../Page/Yura.md" title="wikilink">Yura</a>（<a href="../Page/Girl&#39;s_Day.md" title="wikilink">Girl's Day</a>）、<br />
 <a href="../Page/孫延在.md" title="wikilink">孫延在</a></p></td>
 <td><p>統一體驗學習場<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/坡州市.md" title="wikilink">坡州市</a><br />
@@ -1089,7 +1089,7 @@ vs<br />
 <td><p>10月30日<br />
 <small>（10月17日）</small></p></td>
 <td><p>、<a href="../Page/徐智慧_(1984年).md" title="wikilink">徐智慧</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/張度練" title="wikilink">張度練</a>、<a href="https://zh.wikipedia.org/wiki/梁世燦" title="wikilink">梁世燦</a>、<br />
+<a href="../Page/張度練.md" title="wikilink">張度練</a>、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a>、<br />
 <a href="../Page/珉豪.md" title="wikilink">珉豪</a>（<a href="../Page/SHINee.md" title="wikilink">SHINee</a>）</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
@@ -1102,7 +1102,7 @@ vs<br />
 <span style=color:#808080>哈哈、金俊鉉</span><br />
 <span style=color:#FF1493>宋智孝、李光洙</p></td>
 <td><p>前四名找到兩個金箱子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="https://zh.wikipedia.org/wiki/張度練" title="wikilink">張度練</a>，Gary、<a href="../Page/珉豪.md" title="wikilink">珉豪</a>，<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="https://zh.wikipedia.org/wiki/金俊鉉" title="wikilink">金俊鉉</a>，<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、<a href="../Page/張度練.md" title="wikilink">張度練</a>，Gary、<a href="../Page/珉豪.md" title="wikilink">珉豪</a>，<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="https://zh.wikipedia.org/wiki/金俊鉉" title="wikilink">金俊鉉</a>，<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙.md" title="wikilink">李光洙</a><strong>勝出</strong><br />
 劉在錫、徐智慧，池錫辰、梁世燦需要通過最終測試，由於池錫辰、梁世燦擁有炸彈箱子，所以須接受面粉炸彈懲罰[34]</p></td>
 </tr>
 <tr class="even">
@@ -1141,9 +1141,9 @@ Gary獲得由Running Man成員們贈送的紀念品[36]</p></td>
 <small>（458）</small></p></td>
 <td><p>11月20日<br />
 <small>（11月8日）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a>、<a href="https://zh.wikipedia.org/wiki/李宰鎮" title="wikilink">李宰鎮</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/金在德" title="wikilink">金在德</a>、<a href="https://zh.wikipedia.org/wiki/姜成勳" title="wikilink">姜成勳</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/張水院" title="wikilink">張水院</a>（<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>）、<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a>、<a href="../Page/李宰鎮.md" title="wikilink">李宰鎮</a>、<br />
+<a href="../Page/金在德.md" title="wikilink">金在德</a>、<a href="https://zh.wikipedia.org/wiki/姜成勳" title="wikilink">姜成勳</a>、<br />
+<a href="../Page/張水院.md" title="wikilink">張水院</a>（<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>）、<br />
 <a href="../Page/黃雨瑟惠.md" title="wikilink">黃雨瑟惠</a></p></td>
 <td><p><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="https://zh.wikipedia.org/wiki/利川市_(韓國)" title="wikilink">利川市</a>）</small></p></td>
@@ -1190,7 +1190,7 @@ Gary獲得由Running Man成員們贈送的紀念品[36]</p></td>
 <small>（460）</small></p></td>
 <td><p>12月4日<br />
 <small>（11月15日）</small></p></td>
-<td><p><a href="../Page/娜璉.md" title="wikilink">娜璉</a>、<a href="https://zh.wikipedia.org/wiki/定延" title="wikilink">定延</a>、<a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a>、<br />
+<td><p><a href="../Page/娜璉.md" title="wikilink">娜璉</a>、<a href="../Page/定延.md" title="wikilink">定延</a>、<a href="../Page/Momo_(TWICE).md" title="wikilink">Momo</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/湊崎紗夏" title="wikilink">Sana</a>、<a href="../Page/志效.md" title="wikilink">志效</a>、<a href="../Page/Mina_(TWICE).md" title="wikilink">Mina</a>、<br />
 <a href="../Page/多賢.md" title="wikilink">多賢</a>、<a href="../Page/彩瑛.md" title="wikilink">彩瑛</a>、<a href="../Page/周子瑜.md" title="wikilink">子瑜</a><br />
 （<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>）</p></td>
@@ -1231,8 +1231,8 @@ Gary獲得由Running Man成員們贈送的紀念品[36]</p></td>
 <small>（462）</small></p></td>
 <td><p>12月18日<br />
 <small>（同上）</small></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金智秀_(歌手)" title="wikilink">Jisoo</a>、<a href="https://zh.wikipedia.org/wiki/Jennie_(韓國歌手)" title="wikilink">Jennie</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/Rosé_(韓國歌手)" title="wikilink">Rosé</a>、<a href="https://zh.wikipedia.org/wiki/Lisa_(泰國歌手)" title="wikilink">Lisa</a><br />
+<td><p><a href="../Page/金智秀_(歌手).md" title="wikilink">Jisoo</a>、<a href="../Page/Jennie_(韓國歌手).md" title="wikilink">Jennie</a>、<br />
+<a href="../Page/Rosé_(韓國歌手).md" title="wikilink">Rosé</a>、<a href="../Page/Lisa_(泰國歌手).md" title="wikilink">Lisa</a><br />
 （<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
 <td><p>全州韓屋村<br />
 <small>（<a href="../Page/全羅北道.md" title="wikilink">全羅北道</a><a href="../Page/全州市.md" title="wikilink">全州市</a><br />
@@ -1646,7 +1646,7 @@ Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink
 
 1.
 2.
-3.  [林智妍於本集以嘉賓主持身份出演](https://zh.wikipedia.org/wiki/林智妍 "wikilink")。
+3.  [林智妍於本集以嘉賓主持身份出演](../Page/林智妍.md "wikilink")。
 4.
 5.  金泰映、金東進、金在成、丁一宇、韓國榮只參演第283集。
 6.  概念來自電影《[暗殺](https://zh.wikipedia.org/wiki/暗殺_\(2015年電影\) "wikilink")》
@@ -1655,16 +1655,16 @@ Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink
 9.  [金信英驚喜聲演](../Page/金信英.md "wikilink")。
 10. 金炳俊（教授）、金鐘明（金鐘國哥哥）特別出演。
 11. [金泰希驚喜聲演](../Page/金泰希.md "wikilink")，本集為[Lizzy離隊後首次以嘉賓身份參與錄影](https://zh.wikipedia.org/wiki/朴修映 "wikilink")。
-12. 概念來自[2016年韓國國會選舉](https://zh.wikipedia.org/wiki/2016年大韓民國國會選舉 "wikilink")，（）、[柳演錫](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")、[徐玄](../Page/徐朱玄.md "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）、[朴寶劍](https://zh.wikipedia.org/wiki/朴寶劍 "wikilink")、[雪炫](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")（[AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")）特別出演，[郭東延](../Page/郭東延.md "wikilink")、[柳俊烈](../Page/柳俊烈.md "wikilink")、[鄭恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）驚喜聲演。
+12. 概念來自[2016年韓國國會選舉](https://zh.wikipedia.org/wiki/2016年大韓民國國會選舉 "wikilink")，（）、[柳演錫](https://zh.wikipedia.org/wiki/柳演錫 "wikilink")、[徐玄](../Page/徐朱玄.md "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）、[朴寶劍](../Page/朴寶劍.md "wikilink")、[雪炫](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")（[AOA](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")）特別出演，[郭東延](../Page/郭東延.md "wikilink")、[柳俊烈](../Page/柳俊烈.md "wikilink")、[鄭恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）驚喜聲演。
 13. 特別出演。
 14. [-{文熙俊}-](../Page/文熙俊.md "wikilink")（[H.O.T.](../Page/H.O.T..md "wikilink")）、[李枖原](../Page/李枖原.md "wikilink")、、[圭賢](../Page/圭賢.md "wikilink")（[Super
     Junior](../Page/Super_Junior.md "wikilink")）、[朴敘俊特別出演](../Page/朴敘俊.md "wikilink")，[金昌完](../Page/金昌完.md "wikilink")、文-{}-熙俊媽媽驚喜聲演。
-15. [李文世](https://zh.wikipedia.org/wiki/李文世 "wikilink")、[李承俊](../Page/李承俊.md "wikilink")、、[蔡煐引](../Page/蔡煐引.md "wikilink")、廉英姬老師、趙惠善（金鐘國媽媽）、慧珍（李光洙朋友）特別出演。
+15. [李文世](../Page/李文世.md "wikilink")、[李承俊](../Page/李承俊.md "wikilink")、、[蔡煐引](../Page/蔡煐引.md "wikilink")、廉英姬老師、趙惠善（金鐘國媽媽）、慧珍（李光洙朋友）特別出演。
 16. 池錫辰、金鐘國於本集以女性角色身份參與錄影。
 17. [洪真英因行程關係而未能參與最終任務](../Page/洪真英.md "wikilink")。
 18. [防彈少年團特別出演](../Page/防彈少年團.md "wikilink")。
 19. TWICE全員只參與最終任務。
-20. 宣傳電影《[狩獵](https://zh.wikipedia.org/wiki/狩獵_\(電影\) "wikilink")》。
+20. 宣傳電影《[狩獵](../Page/狩獵_\(電影\).md "wikilink")》。
 21. 宋智孝、朴信惠和李聖經於本集以女神角色「神智孝」（갓지효）、「神信惠」（갓신혜） 、
     和「神聖經」（갓성경）身份參與錄影，背部名牌上的名字亦有更改。
 22. 宣傳[SBS月火劇](../Page/SBS月火連續劇.md "wikilink")《[Doctors](../Page/Doctors.md "wikilink")》，金昭希（跆拳道選手）特別出演。
@@ -1677,8 +1677,8 @@ Man**》單獨收視及《[星期天真好](../Page/星期天真好.md "wikilink
 28. [安吉強與他的兩名女兒特別出演](../Page/安吉強.md "wikilink")。
 29. 宣傳[SBS月火劇](../Page/SBS月火連續劇.md "wikilink")《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink")》
 30. 概念來自電影《[釜山行](../Page/屍速列車.md "wikilink")》，[GOT7](../Page/GOT7.md "wikilink")、[孝琳](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")（[SISTAR](../Page/SISTAR.md "wikilink")）特別出演。
-31. 、[朴詩妍](https://zh.wikipedia.org/wiki/朴詩妍 "wikilink")、[Mikey](https://zh.wikipedia.org/wiki/趙明翼 "wikilink")（[Turbo](../Page/Turbo_\(韓國男子團體\).md "wikilink")）、[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink")（[Untouchable](https://zh.wikipedia.org/wiki/Untouchable_\(南韓組合\) "wikilink")）、、[韓昇延](../Page/韓昇延.md "wikilink")、[燦盛](../Page/黃燦盛.md "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）、[宋枝恩](../Page/宋枝恩.md "wikilink")（[Secret](../Page/Secret_\(組合\).md "wikilink")）、[林智妍](https://zh.wikipedia.org/wiki/林智妍 "wikilink")、[Crush](../Page/Crush_\(歌手\).md "wikilink")（VV:D）、[Mark](https://zh.wikipedia.org/wiki/段宜恩 "wikilink")、[珍榮](../Page/朴珍榮.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）、[李善彬](https://zh.wikipedia.org/wiki/李善彬 "wikilink")、[金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")（[I.B.I](../Page/I.B.I.md "wikilink")）特別出演，[文瑾瑩](../Page/文瑾瑩.md "wikilink")、[鄭恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）驚喜聲演。
-32. 宣傳舞台劇《黑鳥》，[宋在喜](../Page/宋在喜.md "wikilink")、、[沈志浩](../Page/沈志浩.md "wikilink")、[李莞](../Page/李莞.md "wikilink")、、[宋再臨](../Page/宋再臨.md "wikilink")、[金玟錫](https://zh.wikipedia.org/wiki/金玟錫 "wikilink")、[宋枝恩](../Page/宋枝恩.md "wikilink")（[Secret](../Page/Secret_\(組合\).md "wikilink")）、[孔昇延](https://zh.wikipedia.org/wiki/孔昇延 "wikilink")、[定延](https://zh.wikipedia.org/wiki/定延 "wikilink")（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）、[宇宙少女驚喜出演](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，[景收真驚喜聲演](../Page/景收真.md "wikilink")。概念來自遊戲《[精靈寶可夢GO](../Page/精靈寶可夢GO.md "wikilink")》。
+31. 、[朴詩妍](https://zh.wikipedia.org/wiki/朴詩妍 "wikilink")、[Mikey](https://zh.wikipedia.org/wiki/趙明翼 "wikilink")（[Turbo](../Page/Turbo_\(韓國男子團體\).md "wikilink")）、[Sleepy](https://zh.wikipedia.org/wiki/Sleepy "wikilink")（[Untouchable](https://zh.wikipedia.org/wiki/Untouchable_\(南韓組合\) "wikilink")）、、[韓昇延](../Page/韓昇延.md "wikilink")、[燦盛](../Page/黃燦盛.md "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）、[宋枝恩](../Page/宋枝恩.md "wikilink")（[Secret](../Page/Secret_\(組合\).md "wikilink")）、[林智妍](../Page/林智妍.md "wikilink")、[Crush](../Page/Crush_\(歌手\).md "wikilink")（VV:D）、[Mark](../Page/段宜恩.md "wikilink")、[珍榮](../Page/朴珍榮.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）、[李善彬](../Page/李善彬.md "wikilink")、[金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")（[I.B.I](../Page/I.B.I.md "wikilink")）特別出演，[文瑾瑩](../Page/文瑾瑩.md "wikilink")、[鄭恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）驚喜聲演。
+32. 宣傳舞台劇《黑鳥》，[宋在喜](../Page/宋在喜.md "wikilink")、、[沈志浩](../Page/沈志浩.md "wikilink")、[李莞](../Page/李莞.md "wikilink")、、[宋再臨](../Page/宋再臨.md "wikilink")、[金玟錫](https://zh.wikipedia.org/wiki/金玟錫 "wikilink")、[宋枝恩](../Page/宋枝恩.md "wikilink")（[Secret](../Page/Secret_\(組合\).md "wikilink")）、[孔昇延](https://zh.wikipedia.org/wiki/孔昇延 "wikilink")、[定延](../Page/定延.md "wikilink")（[TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")）、[宇宙少女驚喜出演](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")，[景收真驚喜聲演](../Page/景收真.md "wikilink")。概念來自遊戲《[精靈寶可夢GO](../Page/精靈寶可夢GO.md "wikilink")》。
 33. 特別出演。
 34. 概念來自電影《[阿凡達](https://zh.wikipedia.org/wiki/阿凡達 "wikilink")》
 35. 本集為[Gary最後一次以成員身份參與錄影](../Page/Gary_\(韓國歌手\).md "wikilink")。

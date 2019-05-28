@@ -11,7 +11,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>南行</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="https://zh.wikipedia.org/wiki/夫拉特布殊大道-布魯克林學院車站_(IRT諾斯特蘭大道線)" title="wikilink">夫拉特布殊大道-布魯克林學院</a><small>（<a href="https://zh.wikipedia.org/wiki/布朗克斯公園東車站_(IRT白原路線)" title="wikilink">布朗克斯公園東</a>）</small><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-2.svg" title="fig:纽约地铁2号线">纽约地铁2号线</a> 往<a href="https://zh.wikipedia.org/wiki/夫拉特布殊大道-布魯克林學院車站_(IRT諾斯特蘭大道線)" title="wikilink">夫拉特布殊大道-布魯克林學院</a><small>（<a href="../Page/布朗克斯公園東車站_(IRT白原路線).md" title="wikilink">布朗克斯公園東</a>）</small><br />
  <a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-5.svg" title="fig:纽约地铁5号线">纽约地铁5号线</a> 往夫拉特布殊大道-布魯克林學院（早上尖峰時段）<small>（布朗克斯公園東）</small></p></td>
 </tr>
 <tr class="odd">

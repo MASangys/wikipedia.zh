@@ -1,6 +1,6 @@
 **WannaCry**（直译“想哭”\[1\]\[2\]、“想解密”\[3\]，俗名“魔窟”\[4\]\[5\]，或称**WannaCrypt**\[6\]、**WanaCrypt0r
 2.0**\[7\]\[8\]、**Wanna
-Decryptor**\[9\]）是一种利用[NSA的](../Page/美国国家安全局.md "wikilink")“[永恒之蓝](https://zh.wikipedia.org/wiki/永恒之蓝 "wikilink")”（EternalBlue）[漏洞利用程序透過](https://zh.wikipedia.org/wiki/漏洞利用程序 "wikilink")[互联网对全球运行](../Page/互联网.md "wikilink")[Microsoft
+Decryptor**\[9\]）是一种利用[NSA的](../Page/美国国家安全局.md "wikilink")“[永恒之蓝](../Page/永恒之蓝.md "wikilink")”（EternalBlue）[漏洞利用程序透過](https://zh.wikipedia.org/wiki/漏洞利用程序 "wikilink")[互联网对全球运行](../Page/互联网.md "wikilink")[Microsoft
 Windows操作系统的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[计算机进行攻击的加密型](https://zh.wikipedia.org/wiki/计算机 "wikilink")[勒索軟體兼](../Page/勒索軟體.md "wikilink")[蠕虫病毒](../Page/電腦蠕蟲.md "wikilink")（Encrypting
 Ransomware
 Worm）。该病毒利用[AES-128和](https://zh.wikipedia.org/wiki/AES-128 "wikilink")[RSA算法恶意加密用户文件以勒索](../Page/RSA加密演算法.md "wikilink")[比特币](../Page/比特币.md "wikilink")，使用[Tor进行通讯](../Page/Tor.md "wikilink")\[10\]，为WanaCrypt0r
@@ -9,7 +9,7 @@ Worm）。该病毒利用[AES-128和](https://zh.wikipedia.org/wiki/AES-128 "wik
 2017年5月，此程式大规模感染包括[西班牙電信在内的许多西班牙公司](../Page/西班牙電信.md "wikilink")、[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[國民保健署](../Page/國民保健署_\(英國\).md "wikilink")\[12\]、[聯邦快遞和](../Page/聯邦快遞.md "wikilink")[德国铁路股份公司](../Page/德国铁路.md "wikilink")。据报道，至少有99个国家的其他目标在同一时间遭到WanaCrypt0r
 2.0的攻击（目前已有大约150个国家遭到攻击）。\[13\]\[14\]\[15\]\[16\][俄罗斯联邦内务部](../Page/俄罗斯联邦内务部.md "wikilink")、[俄羅斯聯邦緊急情況部和俄罗斯电信公司](../Page/俄羅斯聯邦緊急情況部.md "wikilink")共有超过1000台计算机受到感染。\[17\][中国教育网相连的中国大陆高校也出现大规模的感染](https://zh.wikipedia.org/wiki/中国教育网 "wikilink")\[18\]，感染甚至波及到了[公安机关使用的](../Page/公安机关.md "wikilink")[内网](https://zh.wikipedia.org/wiki/内部网 "wikilink")\[19\]，[国家互联网应急中心亦发布通报](https://zh.wikipedia.org/wiki/国家互联网应急中心 "wikilink")\[20\]\[21\]。
 
-WannaCry被认为利用了[美国国家安全局的](../Page/美国国家安全局.md "wikilink")“[永恒之蓝](https://zh.wikipedia.org/wiki/永恒之蓝 "wikilink")”（EternalBlue）[工具以攻击运行Microsoft](https://zh.wikipedia.org/wiki/漏洞利用 "wikilink")
+WannaCry被认为利用了[美国国家安全局的](../Page/美国国家安全局.md "wikilink")“[永恒之蓝](../Page/永恒之蓝.md "wikilink")”（EternalBlue）[工具以攻击运行Microsoft](https://zh.wikipedia.org/wiki/漏洞利用 "wikilink")
 Windows操作系统的计算机。\[22\]\[23\]“永恒之蓝”传播的勒索病毒以ONION和WNCRY两个家族为主\[24\]。“永恒之蓝”利用了某些版本的微软[伺服器訊息區塊](../Page/伺服器訊息區塊.md "wikilink")（SMB）协议中的數個漏洞，而當中最嚴重的漏洞是允許遠端電腦執行程式碼。修复该漏洞的安全补丁已經于此前的2017年3月14日发布\[25\]，但并非所有计算机都进行了安装\[26\]。
 
 ## 背景
@@ -111,7 +111,7 @@ Switch），會向該域名發出[DNS請求](https://zh.wikipedia.org/wiki/DNS "
 
 該病毒會「读取源文件并生成加密文件，直接把源文件作删除操作」\[128\]。2017年5月19日，安全研究人员Adrien
 Guinet发现病毒用来加密的Windows API存在的缺陷，在非最新版操作系统（[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")）中，所用[私钥会暂时留在内存中而不会被立即清除](https://zh.wikipedia.org/wiki/私钥 "wikilink")。他开发并开源了一个名为wannakey的工具，并称这适用于为感染该病毒且运行Windows
+10](../Page/Windows_10.md "wikilink")）中，所用[私钥会暂时留在内存中而不会被立即清除](https://zh.wikipedia.org/wiki/私钥 "wikilink")。他开发并开源了一个名为wannakey的工具，并称这适用于为感染该病毒且运行Windows
 XP的计算机找回文件，前提是该计算机在感染病毒后并未重启，且私钥所在内存还未被覆盖（这需要运气）\[129\]。后有开发者基于此原理开发了名为「wanakiwi」的软件，使恢复过程更加自动化，并确认该方法适用于运行Windows
 XP至Windows
 7时期间的多款Windows操作系统\[130\]。一些安全厂商也基于此原理或软件开发并提供了[图形化工具以帮助用户恢复文件](https://zh.wikipedia.org/wiki/图形化用户界面 "wikilink")\[131\]\[132\]。
@@ -120,7 +120,7 @@ XP至Windows
 
 一些人士批评与此事件有关联的美国国家安全局（NSA）。[棱镜计划告密人](https://zh.wikipedia.org/wiki/棱镜计划 "wikilink")[爱德华·斯诺登称](../Page/爱德华·斯诺登.md "wikilink")，如果NSA“在发现用于此次对医院进行攻击的缺陷时就进行，而不是等到丢失时才说，（此次攻击）就可能不会发生”\[133\]。微软总裁布拉德·史密斯则表示：“政府手中的漏洞利用程序一次又一次地泄露到公共领域，造成广泛破坏。如果用常规武器来说，这种情况等同于美军的[战斧导弹发生失窃](https://zh.wikipedia.org/wiki/战斧导弹 "wikilink")。”\[134\]\[135\]
 
-也有人士聚焦于网络安全意识方面。德国[联邦信息安全办公室主任Arne](https://zh.wikipedia.org/wiki/联邦信息安全办公室 "wikilink")
+也有人士聚焦于网络安全意识方面。德国[联邦信息安全办公室主任Arne](../Page/联邦信息安全办公室.md "wikilink")
 Schönbohm声明道：“现在发生的攻击突显出我们的[信息社会是多么脆弱](https://zh.wikipedia.org/wiki/信息社会 "wikilink")。这对公司是一次警醒，是时候认真考虑IT安全了。”\[136\]\[137\][美国外交关系协会数字和网络政策项目负责人](../Page/美国外交关系协会.md "wikilink")认为政府和私营部门的补丁和更新系统运转不正常，不是所有人都会在第一时间为系统漏洞打上补丁\[138\]；[半岛电视台在文章中引述观点称](../Page/半岛电视台.md "wikilink")，许多企业的员工缺乏网络安全方面的训练\[139\]。《[福布斯](../Page/福布斯.md "wikilink")》网站上的一篇专栏文章则认为，该攻击生动地证明了[备份和良好安全习惯的重要性](../Page/备份.md "wikilink")，包括及时安装最新的安全更新\[140\]。[英国首相](../Page/英国首相.md "wikilink")[特雷莎·梅也就此次攻击发表讲话](https://zh.wikipedia.org/wiki/特雷莎·梅 "wikilink")，称[英国国家网络安全中心正在与所有受攻击的机构合作调查](https://zh.wikipedia.org/wiki/英国国家网络安全中心 "wikilink")\[141\]。特雷莎·梅还表示：“这不是针对[国民保健署的攻击](https://zh.wikipedia.org/wiki/国民保健署_\(英国\) "wikilink")，这是国际性的攻击，全世界数以千计的国家和组织都受到了影响\[142\]。”
 
 ## 调查

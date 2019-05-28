@@ -2,7 +2,7 @@
 Saga**》（也译“**糖果粉碎苏打传奇**”），由英國網絡遊戲公司[King開發](../Page/King_\(遊戲公司\).md "wikilink")，为寶石方塊類遊戲《[Candy
 Crush
 Saga](../Page/Candy_Crush_Saga.md "wikilink")》的续作，于2014年10月20日推出。游戏具有同步功能，用戶的遊戲進度可於[Android和](../Page/Android.md "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows
-10和](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Windows
+10和](../Page/Windows_10.md "wikilink")[Windows
 Phone平台上切換](../Page/Windows_Phone.md "wikilink")。
 
 游戏因收到欢迎带动开发公司股价上涨\[1\]。

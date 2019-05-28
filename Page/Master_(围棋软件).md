@@ -1,4 +1,4 @@
-**Master**是计算机围棋软件[AlphaGo的一个版本](../Page/AlphaGo.md "wikilink")，因其在2016年底至2017年初使用Master的网络账号（最初名为**Magister**，中国大陆客户端显示为**Magist**）而得名。Master于2016年12月29日至2017年1月4日出现于弈城围棋网和腾讯野狐围棋网，取得60连胜的成绩，以其空前的实力轰动了围棋界。\[1\]\[2\]中国职业棋手大多认为，即使被Master[让先仍难以获胜](https://zh.wikipedia.org/wiki/让先 "wikilink")\[3\]\[4\]。该版本也参加了2017年5月的[中国乌镇围棋峰会](https://zh.wikipedia.org/wiki/中国乌镇围棋峰会 "wikilink")\[5\]\[6\]。DeepMind团队称此版本为**AlphaGo
+**Master**是计算机围棋软件[AlphaGo的一个版本](../Page/AlphaGo.md "wikilink")，因其在2016年底至2017年初使用Master的网络账号（最初名为**Magister**，中国大陆客户端显示为**Magist**）而得名。Master于2016年12月29日至2017年1月4日出现于弈城围棋网和腾讯野狐围棋网，取得60连胜的成绩，以其空前的实力轰动了围棋界。\[1\]\[2\]中国职业棋手大多认为，即使被Master[让先仍难以获胜](https://zh.wikipedia.org/wiki/让先 "wikilink")\[3\]\[4\]。该版本也参加了2017年5月的[中国乌镇围棋峰会](../Page/中国乌镇围棋峰会.md "wikilink")\[5\]\[6\]。DeepMind团队称此版本为**AlphaGo
 Master**，是使用了1个[TPU的单机版](https://zh.wikipedia.org/wiki/TPU "wikilink")\[7\]，棋力比2016年[李世乭五番棋所用的版本提高了三子](../Page/AlphaGo李世乭五番棋.md "wikilink")，Elo等级分达到4500分以上\[8\]。
 
 ## 经过
@@ -680,7 +680,7 @@ Master网棋60局之后，[朴永训](../Page/朴永训.md "wikilink")、[李喆
 </tr>
 <tr class="even">
 <td><p>2017年4月27日<a href="https://zh.wikipedia.org/wiki/中国围甲" title="wikilink">中国围甲第二轮</a><br />
-<a href="https://zh.wikipedia.org/wiki/李喆_(围棋手)" title="wikilink">李喆执黑对</a><a href="https://zh.wikipedia.org/wiki/李轩豪" title="wikilink">李轩豪</a>，前7手[36]<br />
+<a href="https://zh.wikipedia.org/wiki/李喆_(围棋手)" title="wikilink">李喆执黑对</a><a href="../Page/李轩豪.md" title="wikilink">李轩豪</a>，前7手[36]<br />
 （共195手，黑中盘胜）</p></td>
 <td></td>
 <td></td>

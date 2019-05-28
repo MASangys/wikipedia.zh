@@ -25,9 +25,8 @@
 |-
 |rowspan="2"|[2016](https://zh.wikipedia.org/wiki/2016年Mnet亞洲音樂大獎 "wikilink")
 |\[2\] |rowspan="2" |NCT 127 | |- |align="center"| | |- |rowspan=3|
-[2017](https://zh.wikipedia.org/wiki/2017年Mnet亞洲音樂大獎 "wikilink")
-|男子組合舞蹈表演賞 |rowspan=3| NCT 127 《Cherry Bomb》 | |- |亞洲新人賞 |
-|- |Qoo10 年度歌曲 | |- |rowspan=2|
+[2017](../Page/2017年Mnet亞洲音樂大獎.md "wikilink") |男子組合舞蹈表演賞 |rowspan=3| NCT
+127 《Cherry Bomb》 | |- |亞洲新人賞 | |- |Qoo10 年度歌曲 | |- |rowspan=2|
 [2018](https://zh.wikipedia.org/wiki/2018年Mnet亞洲音樂大獎 "wikilink")
 |Worldwide Fans' Choice Top10 |rowspan=2| NCT 127 | |- |最佳男子團體賞 | |}
 

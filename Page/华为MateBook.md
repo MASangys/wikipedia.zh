@@ -1,9 +1,9 @@
 **华为MateBook**是[华为研发的](../Page/华为.md "wikilink")，运行[Windows
-10系统的](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[2合1电脑产品](https://zh.wikipedia.org/wiki/2合1电脑 "wikilink")，于2016年2月21日在[世界移动通信大会开幕前夕对外推出](https://zh.wikipedia.org/wiki/世界移动通信大会 "wikilink")。MateBook也是华为的第一款2合1电脑产品\[1\]\[2\]。
+10系统的](../Page/Windows_10.md "wikilink")[2合1电脑产品](https://zh.wikipedia.org/wiki/2合1电脑 "wikilink")，于2016年2月21日在[世界移动通信大会开幕前夕对外推出](https://zh.wikipedia.org/wiki/世界移动通信大会 "wikilink")。MateBook也是华为的第一款2合1电脑产品\[1\]\[2\]。
 
 ## 发展历史
 
-在华为MateBook发布之前，有媒体曝光称华为将于2016年上半年进军PC市场，并从分析中指出，华为的PC业务应该适合于消费者事业部门\[3\]。而在2015年9月21日，华为已经申请了“Matebook”商标\[4\]。另外，華為消費者事业部门的CEO[余承东称](https://zh.wikipedia.org/wiki/余承东 "wikilink")，早在2015年，华为就有想做一台筆記本的打算，并表示“每一個華為人都需要一台高效的辦公電腦”，还声称華為“要做到PC領域的第一”\[5\]。
+在华为MateBook发布之前，有媒体曝光称华为将于2016年上半年进军PC市场，并从分析中指出，华为的PC业务应该适合于消费者事业部门\[3\]。而在2015年9月21日，华为已经申请了“Matebook”商标\[4\]。另外，華為消費者事业部门的CEO[余承东称](../Page/余承东.md "wikilink")，早在2015年，华为就有想做一台筆記本的打算，并表示“每一個華為人都需要一台高效的辦公電腦”，还声称華為“要做到PC領域的第一”\[5\]。
 
 2016年2月20日晚，余承東在其微博上承認了“華為筆記本”的傳聞，宣布于2月21日推出首款筆記本電腦\[6\]。最终华为在2月21日[世界移动通信大会开幕前夕](https://zh.wikipedia.org/wiki/世界移动通信大会 "wikilink")，正式对外发布MateBook\[7\]。
 
@@ -16,7 +16,7 @@ M](https://zh.wikipedia.org/wiki/Core_M "wikilink")3.1GHz處理器。由于機�
 3.0接口](../Page/USB_3.0.md "wikilink")\[12\]\[13\]\[14\]。
 
 MateBook搭载[Windows
-10系统](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")\[15\]，此前有消息爆料指出该机支持Windows
+10系统](../Page/Windows_10.md "wikilink")\[15\]，此前有消息爆料指出该机支持Windows
 10和[Android双系统](../Page/Android.md "wikilink")，日常状态下运行Windows
 10，将键盘拆开后改为运行Android。而实际上MateBook并没有搭载Android系统\[16\]。
 

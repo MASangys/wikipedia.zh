@@ -46,7 +46,7 @@
 <tr class="even">
 <td><p>2013年5月17日－<br />
 2013年8月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Monstar" title="wikilink">Monstar</a><br />
+<td><p><a href="../Page/Monstar.md" title="wikilink">Monstar</a><br />
 （몬스타）</p></td>
 <td><p><small><a href="../Page/龍俊亨.md" title="wikilink">龍俊亨</a>、<a href="../Page/夏沇秀.md" title="wikilink">夏沇秀</a>、<a href="../Page/姜河那.md" title="wikilink">姜河那</a>、<a href="../Page/安內相.md" title="wikilink">安內相</a></small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鄭允晶" title="wikilink">鄭允晶</a></p></td>
@@ -67,7 +67,7 @@
 <tr class="even">
 <td><p>2014年2月21日－<br />
 2014年3月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/MiMi" title="wikilink">MiMi</a><br />
+<td><p><a href="../Page/MiMi.md" title="wikilink">MiMi</a><br />
 （미미）</p></td>
 <td><p><small><a href="../Page/沈昌珉.md" title="wikilink">沈昌珉</a>、<a href="https://zh.wikipedia.org/wiki/文佳英" title="wikilink">文佳英</a>、<a href="../Page/申賢彬.md" title="wikilink">申賢彬</a></small></p></td>
 <td><p>徐宥善</p></td>

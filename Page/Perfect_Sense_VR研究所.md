@@ -1,5 +1,5 @@
 《**Perfect Sense
-VR研究所**》（；）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OGN電視台播出的](https://zh.wikipedia.org/wiki/OGN "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[張東民](../Page/張東民.md "wikilink")、[申雅瑩等人共同主持](https://zh.wikipedia.org/wiki/申雅英 "wikilink")\[1\]，節目主軸以邀請來賓體驗VR為主軸\[2\]\[3\]。
+VR研究所**》（；）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OGN電視台播出的](https://zh.wikipedia.org/wiki/OGN "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[張東民](../Page/張東民.md "wikilink")、[申雅瑩等人共同主持](../Page/申雅英.md "wikilink")\[1\]，節目主軸以邀請來賓體驗VR為主軸\[2\]\[3\]。
 
 ## 各集內容
 

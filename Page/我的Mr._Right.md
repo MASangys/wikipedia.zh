@@ -8,7 +8,7 @@ Right**》（），是一部於[2015年上映的愛情喜劇電影](https://zh.w
 | **演員姓名**                                                     | **角色名稱** | **介紹** |
 | [林美秀](../Page/林美秀_\(演員\).md "wikilink")                      | 秀美       |        |
 | [庹宗華](../Page/庹宗華.md "wikilink")                             | 世傑       |        |
-| [王睿](https://zh.wikipedia.org/wiki/王睿_\(演員\) "wikilink")     | 王浩       |        |
+| [王睿](../Page/王睿_\(演員\).md "wikilink")                        | 王浩       |        |
 | [蘇暢](https://zh.wikipedia.org/wiki/蘇暢 "wikilink")            | 蘇小寧      |        |
 | [陳為民](../Page/陳為民.md "wikilink")                             | 周英俊      |        |
 | [謝麗萍](https://zh.wikipedia.org/wiki/謝麗萍 "wikilink")          | Anna     |        |

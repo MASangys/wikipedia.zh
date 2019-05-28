@@ -17,22 +17,21 @@ Anniversary SPECIAL 野外LIVE in
 2.  [SUNSHINE](../Page/夏日風物.md "wikilink")
 3.  [Love Is In The Air](../Page/Love_Is_In_The_Air.md "wikilink")
 4.  [LOVER](../Page/LOVER.md "wikilink")
-5.  [V.O.L](https://zh.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")
+5.  [V.O.L](../Page/GOLD_SYMPHONY.md "wikilink")
 6.  Special
     Medley([唇からロマンチカ](https://zh.wikipedia.org/wiki/紅唇羅曼蒂卡_/_That's_Right "wikilink")〜[逢いたい理由](https://zh.wikipedia.org/wiki/想見你的理由_/_Dream_After_Dream_～夢醒之夢～ "wikilink")〜[Summer
     Revolution](https://zh.wikipedia.org/wiki/Break_Down_/_Break_your_name_/_Summer_Revolution "wikilink")〜[CALL](https://zh.wikipedia.org/wiki/CALL_/_I4U "wikilink")〜[不屈的心](../Page/不屈的心.md "wikilink")〜[Still
     Love
-    You](../Page/Still_Love_You.md "wikilink")〜[Love](https://zh.wikipedia.org/wiki/Love_\(AAA單曲\) "wikilink"))
+    You](../Page/Still_Love_You.md "wikilink")〜[Love](../Page/Love_\(AAA單曲\).md "wikilink"))
 7.  [颶風·莉莉，波士頓·瑪麗](../Page/颶風·莉莉，波士頓·瑪麗.md "wikilink")
 8.  [Lil' Infinity](../Page/Lil'_Infinity.md "wikilink")
 9.  [風に薫る夏の記憶](../Page/Wake_up!.md "wikilink")
 10. [我的憂鬱與不開心的她](../Page/我的憂鬱與不開心的她.md "wikilink")
-11. [說再見之前](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")
+11. [說再見之前](../Page/說再見之前.md "wikilink")
 12. [戀歌與雨天](../Page/戀歌與雨天.md "wikilink")
-13. [Next Stage](https://zh.wikipedia.org/wiki/說再見之前 "wikilink")
+13. [Next Stage](../Page/說再見之前.md "wikilink")
 14. [深愛著，卻不能愛](../Page/深愛著，卻不能愛.md "wikilink")
-15. [SHOUT &
-    SHAKE](https://zh.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")
+15. [SHOUT & SHAKE](../Page/GOLD_SYMPHONY.md "wikilink")
 16. [GAME OVER?](../Page/GAME_OVER?.md "wikilink")
 17. [PARTY IT UP](../Page/PARTY_IT_UP.md "wikilink")
 18. [MUSIC\!\!\!](https://zh.wikipedia.org/wiki/MUSIC!!!_/_ZERO "wikilink")

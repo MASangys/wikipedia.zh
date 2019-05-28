@@ -93,14 +93,14 @@
 </tr>
 <tr class="even">
 <td><p>3月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/打破玻璃！" title="wikilink">打破玻璃！</a></p></td>
+<td><p><a href="../Page/打破玻璃！.md" title="wikilink">打破玻璃！</a></p></td>
 <td><p><a href="../Page/櫸坂46.md" title="wikilink">櫸坂46</a></p></td>
 <td><p>83.3</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Ja-Ba-Ja" title="wikilink">Ja-Ba-Ja</a></p></td>
+<td><p><a href="../Page/Ja-Ba-Ja.md" title="wikilink">Ja-Ba-Ja</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>111.5</p></td>
 <td><p>1</p></td>
@@ -115,13 +115,13 @@
 <tr class="odd">
 <td><p>4月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/PAiNT_it_BLACK" title="wikilink">PAiNT it BLACK</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BiSH" title="wikilink">BiSH</a></p></td>
+<td><p><a href="../Page/BiSH.md" title="wikilink">BiSH</a></p></td>
 <td><p>3.8</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>4月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/欲望者" title="wikilink">欲望者</a></p></td>
+<td><p><a href="../Page/欲望者.md" title="wikilink">欲望者</a></p></td>
 <td><p><a href="../Page/NMB48.md" title="wikilink">NMB48</a></p></td>
 <td><p>19.3</p></td>
 <td><p>1</p></td>
@@ -149,7 +149,7 @@
 </tr>
 <tr class="even">
 <td><p>5月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/快進的日曆" title="wikilink">快進的日曆</a></p></td>
+<td><p><a href="../Page/快進的日曆.md" title="wikilink">快進的日曆</a></p></td>
 <td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a></p></td>
 <td><p>16.5</p></td>
 <td><p>1</p></td>
@@ -163,7 +163,7 @@
 </tr>
 <tr class="even">
 <td><p>5月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Wake_Me_Up_(TWICE單曲)" title="wikilink">Wake Me Up</a></p></td>
+<td><p><a href="../Page/Wake_Me_Up_(TWICE單曲).md" title="wikilink">Wake Me Up</a></p></td>
 <td><p>TWICE</p></td>
 <td><p>26.2</p></td>
 <td><p>1</p></td>
@@ -171,13 +171,13 @@
 <tr class="odd">
 <td><p>6月4日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/King_&amp;_Prince" title="wikilink">King &amp; Prince</a></p></td>
+<td><p><a href="../Page/King_&amp;_Prince.md" title="wikilink">King &amp; Prince</a></p></td>
 <td><p>57.6</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>6月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Teacher_Teacher" title="wikilink">Teacher Teacher</a></p></td>
+<td><p><a href="../Page/Teacher_Teacher.md" title="wikilink">Teacher Teacher</a></p></td>
 <td><p>AKB48</p></td>
 <td><p>166.1</p></td>
 <td><p>1</p></td>
@@ -227,7 +227,7 @@
 <tr class="odd">
 <td><p>7月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/逆轉Lovers" title="wikilink">逆轉Lovers</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KEN☆Tackey" title="wikilink">KEN☆Tackey</a></p></td>
+<td><p><a href="../Page/KEN☆Tackey.md" title="wikilink">KEN☆Tackey</a></p></td>
 <td><p>10.4</p></td>
 <td><p>1</p></td>
 </tr>
@@ -390,7 +390,7 @@
 
 ## 參見
 
-  - [2018年Oricon專輯週榜冠軍作品列表](https://zh.wikipedia.org/wiki/2018年Oricon專輯週榜冠軍作品列表 "wikilink")
+  - [2018年Oricon專輯週榜冠軍作品列表](../Page/2018年Oricon專輯週榜冠軍作品列表.md "wikilink")
 
 ## 參考資料
 

@@ -2,7 +2,7 @@
 Alive](../Page/月刊Comic_Alive.md "wikilink")》中的一個四格漫畫欄目《COMIC
 CUNE》\[1\]，後來轉移至於2015年8月27日正式創刊的四格漫畫雜誌《[COMIC
 CUNE](https://zh.wikipedia.org/wiki/COMIC_CUNE "wikilink")》發表\[2\]。ComicWalker網站也發表該四格漫畫。\[3\]第1冊[單行本於](https://zh.wikipedia.org/wiki/單行本 "wikilink")2015年12月26日發售。由[EMT
-Squared負責動畫製作的](https://zh.wikipedia.org/wiki/EMT_Squared "wikilink")[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2017年1月8日開始播放。
+Squared負責動畫製作的](../Page/EMT_Squared.md "wikilink")[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2017年1月8日開始播放。
 
 ## 故事簡介
 
@@ -50,8 +50,7 @@ CUNE》2016年11月號發布電視動畫化消息\[7\]。於2017年1月8日開�
   - 音樂製作人：長島幸司
   - 音響監督：阿部信行
   - 音響製作：Quatre Stella
-  - 動畫製作：[EMT
-    Squared](https://zh.wikipedia.org/wiki/EMT_Squared "wikilink")
+  - 動畫製作：[EMT Squared](../Page/EMT_Squared.md "wikilink")
   - 製作：喵咪同盟
 
 ### 主題曲

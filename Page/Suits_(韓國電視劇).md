@@ -64,7 +64,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/高聖熙" title="wikilink">高聖熙</a></p></td>
+<td><p><a href="../Page/高聖熙.md" title="wikilink">高聖熙</a></p></td>
 <td><p>金智娜</p></td>
 <td><p>姜&amp;咸律師事務所的法律事務主任。<br />
 既有美麗外表，更有淵博的法律知識，夢想成為律師。喜歡高延宇，也是金&amp;曹律師事務所代表的女兒。</p></td>
@@ -445,11 +445,11 @@
 ## 同時段競爭作品
 
   - [MBC](../Page/文化廣播公司.md "wikilink")
-    [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[牽著手，看夕陽西下](../Page/牽著手，看夕陽西下.md "wikilink")》、《[過來抱抱我](https://zh.wikipedia.org/wiki/過來抱抱我 "wikilink")》
+    [水木迷你連續劇](../Page/MBC水木迷你連續劇.md "wikilink")：《[牽著手，看夕陽西下](../Page/牽著手，看夕陽西下.md "wikilink")》、《[過來抱抱我](../Page/過來抱抱我.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")
     [特別劇](../Page/SBS特別劇.md "wikilink")：《[Switch－改變世界](../Page/Switch－改變世界.md "wikilink")》、《[訓南正音](../Page/訓南正音.md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink")
-    [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[我的大叔](../Page/我的大叔.md "wikilink")》、《[金秘書為何那樣](https://zh.wikipedia.org/wiki/金秘書為何那樣 "wikilink")》
+    [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[我的大叔](../Page/我的大叔.md "wikilink")》、《[金秘書為何那樣](../Page/金秘書為何那樣.md "wikilink")》
 
 ## 注釋
 

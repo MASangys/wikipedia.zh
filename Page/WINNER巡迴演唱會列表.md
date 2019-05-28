@@ -208,7 +208,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S_-Japan_Collection- "wikilink")》所
 <tbody>
 <tr class="odd">
 <td><p>2016年3月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="../Page/首尔奥林匹克体操竞技场.md" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
 <td><p>33,000</p></td>
@@ -441,7 +441,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S_-Japan_Collection- "wikilink")》所
 <tbody>
 <tr class="odd">
 <td><p>2018年8月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
 </tr>
@@ -473,7 +473,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S_-Japan_Collection- "wikilink")》所
 <td><p>2018年9月23日</p></td>
 <td><p><a href="../Page/臺北.md" title="wikilink">臺北</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/國立體育大學綜合體育館" title="wikilink">國立體育大學綜合體育館</a></p></td>
+<td><p><a href="../Page/國立體育大學綜合體育館.md" title="wikilink">國立體育大學綜合體育館</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年9月29日</p></td>
@@ -555,7 +555,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S_-Japan_Collection- "wikilink")》所
 </tr>
 <tr class="even">
 <td><p>2019年1月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾安可場</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾安可場</a></p></td>
 <td></td>
 <td><p>KSPO DOME</p></td>
 </tr>
@@ -649,7 +649,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S_-Japan_Collection- "wikilink")》所
 </tr>
 <tr class="even">
 <td><p>2015年1月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="../Page/首尔奥林匹克体操竞技场.md" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
 <td></td>
@@ -788,7 +788,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S_-Japan_Collection- "wikilink")》所
 <tr class="odd">
 <td><p>2018年6月17日</p></td>
 <td><p>13:00場次</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p>奧林匹克大廳</p></td>
 <td><p>6,000[10]</p></td>
@@ -854,7 +854,7 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S_-Japan_Collection- "wikilink")》所
 | 2017年12月5日     | Severance 1%分享10周年紀念分享公演                                                                                     | 延世大學附屬醫院Severance本館                            |
 | 2017年12月25日    | SBS歌謠大戰                                                                                                      | 首爾高尺天空巨蛋                                       |
 | 2017年12月28日    | [PSY演唱會](../Page/PSY.md "wikilink")《ALL NIGHT STAND 2017》                                                    | 首爾蠶室室內體育館（特別嘉賓）                                |
-| 2017年12月31日    | [MBC歌謠大祭典](https://zh.wikipedia.org/wiki/MBC歌謠大祭典 "wikilink")：The FAN                                        | 日山MBC Dream Center                             |
+| 2017年12月31日    | [MBC歌謠大祭典](../Page/MBC歌謠大祭典.md "wikilink")：The FAN                                                           | 日山MBC Dream Center                             |
 | 2018年4月26日     | 第64屆京畿道體育大會                                                                                                  | 楊平綜合運動場                                        |
 | 2018年4月30日     | 高麗大學世宗校區校慶                                                                                                   | 高麗大學世宗校區                                       |
 | 2018年5月3日      | 首爾大學校慶                                                                                                       | 首爾大學                                           |

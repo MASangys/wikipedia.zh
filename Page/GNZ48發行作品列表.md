@@ -209,8 +209,8 @@ Group第五届年度金曲大赏BEST
 
 ## 相關條目
 
-  - [SNH48原創發行作品列表](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表 "wikilink")
-  - [BEJ48發行作品列表](https://zh.wikipedia.org/wiki/BEJ48發行作品列表 "wikilink")
+  - [SNH48原創發行作品列表](../Page/SNH48原創發行作品列表.md "wikilink")
+  - [BEJ48發行作品列表](../Page/BEJ48發行作品列表.md "wikilink")
   - [前行的力量](../Page/前行的力量.md "wikilink")
 
 ## 參考文獻

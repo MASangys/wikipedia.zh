@@ -22,7 +22,7 @@
 <td><p>B'z</p></td>
 <td></td>
 <td><p><a href="../Page/富士電視台.md" title="wikilink">富士電視台</a></p></td>
-<td><p>「<a href="https://zh.wikipedia.org/wiki/BAD_COMMUNICATION" title="wikilink">BAD COMMUNICATION</a>」<br />
+<td><p>「<a href="../Page/BAD_COMMUNICATION.md" title="wikilink">BAD COMMUNICATION</a>」<br />
 Opening Music - 「<a href="https://zh.wikipedia.org/wiki/君の中で踊りたい" title="wikilink">君の中で踊りたい</a>」</p></td>
 </tr>
 <tr class="even">
@@ -1462,7 +1462,7 @@ B'z 稲葉浩志×小室哲哉「対談企画」</p></td>
 <td><p>2005年12月3日</p></td>
 <td><p>COUNT DOWN TV</p></td>
 <td><p>TBS電視台</p></td>
-<td><p>留言：介紹專輯『<a href="https://zh.wikipedia.org/wiki/B&#39;z_The_Best_&quot;Pleasure_II&quot;" title="wikilink">B'z The Best "Pleasure II"</a>』。</p></td>
+<td><p>留言：介紹專輯『<a href="../Page/B&#39;z_The_Best_&quot;Pleasure_II&quot;.md" title="wikilink">B'z The Best "Pleasure II"</a>』。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1687,7 +1687,7 @@ B'z 稲葉浩志×小室哲哉「対談企画」</p></td>
 <td><p>2008年10月13日</p></td>
 <td><p>Roppongi 5ch</p></td>
 <td><p>朝日電視台</p></td>
-<td><p>留言：介紹擔任連續劇『』主題歌「<a href="https://zh.wikipedia.org/wiki/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;" title="wikilink">いつかまたここで</a>」。</p></td>
+<td><p>留言：介紹擔任連續劇『』主題歌「<a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;.md" title="wikilink">いつかまたここで</a>」。</p></td>
 <td></td>
 <td></td>
 </tr>

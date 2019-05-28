@@ -29,7 +29,7 @@
   - （第5期）
 
   -
-  - [萩野志保子](https://zh.wikipedia.org/wiki/萩野志保子 "wikilink")（第5期）
+  - [萩野志保子](../Page/萩野志保子.md "wikilink")（第5期）
 
 ## 特別來賓
 
@@ -94,7 +94,7 @@
 
   - [村上幸平](../Page/村上幸平.md "wikilink")
 
-  - [高橋光](https://zh.wikipedia.org/wiki/高橋光 "wikilink")
+  - [高橋光](../Page/高橋光.md "wikilink")
 
   -
 <!-- end list -->
@@ -110,7 +110,7 @@
 
 “欽，你在哪裡？”復活特輯
 
-  - [萩本欽一](https://zh.wikipedia.org/wiki/萩本欽一 "wikilink")
+  - [萩本欽一](../Page/萩本欽一.md "wikilink")
   - [慎吾媽媽](../Page/香取慎吾.md "wikilink")
 
 <!-- end list -->

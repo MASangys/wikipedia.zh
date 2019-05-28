@@ -180,7 +180,7 @@ ZXRC-1082（DO盘）</p></td>
 
 ## 相关组合
 
-  - [樱花蘑菇](https://zh.wikipedia.org/wiki/樱花蘑菇 "wikilink")
+  - [樱花蘑菇](../Page/樱花蘑菇.md "wikilink")
   - [M\!LK](https://zh.wikipedia.org/wiki/M!LK "wikilink")
 
 ## 参考资料

@@ -50,9 +50,9 @@ city」為主題。電視廣告於[新加坡拍攝](../Page/新加坡.md "wikili
 ## 會德豐「澳南」項目
 
 1.  [The Parkside](../Page/The_Parkside.md "wikilink")
-2.  [Capri](https://zh.wikipedia.org/wiki/CAPRI "wikilink")
+2.  [Capri](../Page/CAPRI.md "wikilink")
 3.  [Savannah](../Page/Savannah_\(住宅\).md "wikilink")
-4.  [Monterey](https://zh.wikipedia.org/wiki/MONTEREY "wikilink")
+4.  [Monterey](../Page/MONTEREY.md "wikilink")
 
 ## 交通
 
@@ -95,7 +95,7 @@ city」為主題。電視廣告於[新加坡拍攝](../Page/新加坡.md "wikili
   - [海翩滙](../Page/海翩滙.md "wikilink")
   - [怡明邨](../Page/怡明邨.md "wikilink")
   - [播道書院](../Page/播道書院.md "wikilink")
-  - [MALIBU](https://zh.wikipedia.org/wiki/MALIBU "wikilink")
+  - [MALIBU](../Page/MALIBU.md "wikilink")
   - [MONTARA](../Page/MONTARA.md "wikilink")
   - [康城站](https://zh.wikipedia.org/wiki/康城站 "wikilink")
 

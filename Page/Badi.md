@@ -2,7 +2,7 @@
 
 ## 概要
 
-《Bʌ́di》係1994年11月（1995年1月号《第1号》）创刊，為面向男同性恋者的[综合情报志](https://zh.wikipedia.org/wiki/综合情报 "wikilink")。网罗从[体育男](../Page/体育.md "wikilink")、[肌肉男](https://zh.wikipedia.org/wiki/肌肉男 "wikilink")、美青年、[傑尼斯系的年轻层到健壯豐滿型](../Page/傑尼斯事務所.md "wikilink")（ガチムチ系）和野郎系，与《G-men》等杂志致力于某一目标主题相比，综合志色彩更强。虽然出版期数较少，也曾出版过[情色特辑](../Page/情色.md "wikilink")。亦擅长刊登有关艺人的强娱乐性文章。作为評論員、作家而活跃的[貴婦松子和](https://zh.wikipedia.org/wiki/貴婦松子 "wikilink")之前也曾在编辑部工作。由Tera（テラ）出版发行。销售方于2005年由之前的成人系出版社[日正堂变更为因出版](https://zh.wikipedia.org/wiki/日正堂 "wikilink")[科学](../Page/科学.md "wikilink")、[技术书籍而被广为人知的](../Page/技术.md "wikilink")社。杂志编码为07485。
+《Bʌ́di》係1994年11月（1995年1月号《第1号》）创刊，為面向男同性恋者的[综合情报志](https://zh.wikipedia.org/wiki/综合情报 "wikilink")。网罗从[体育男](../Page/体育.md "wikilink")、[肌肉男](https://zh.wikipedia.org/wiki/肌肉男 "wikilink")、美青年、[傑尼斯系的年轻层到健壯豐滿型](../Page/傑尼斯事務所.md "wikilink")（ガチムチ系）和野郎系，与《G-men》等杂志致力于某一目标主题相比，综合志色彩更强。虽然出版期数较少，也曾出版过[情色特辑](../Page/情色.md "wikilink")。亦擅长刊登有关艺人的强娱乐性文章。作为評論員、作家而活跃的[貴婦松子和](../Page/貴婦松子.md "wikilink")之前也曾在编辑部工作。由Tera（テラ）出版发行。销售方于2005年由之前的成人系出版社[日正堂变更为因出版](https://zh.wikipedia.org/wiki/日正堂 "wikilink")[科学](../Page/科学.md "wikilink")、[技术书籍而被广为人知的](../Page/技术.md "wikilink")社。杂志编码为07485。
 
 ## 内容
 

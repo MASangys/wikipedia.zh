@@ -5,7 +5,7 @@ Oct4（八聚體結合轉錄因子4）名稱中的「八聚體」（octamer）�
 
 ## 參見
 
-  - [Sox2](https://zh.wikipedia.org/wiki/Sox2 "wikilink")
+  - [Sox2](../Page/Sox2.md "wikilink")
   - [Nanog](https://zh.wikipedia.org/wiki/Nanog "wikilink")
 
 ## 參考

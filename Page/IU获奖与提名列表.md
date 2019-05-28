@@ -195,7 +195,7 @@ rowspan="2"|《星期五见面》 |  |- | **UnionPay年度歌曲** |  |- |
 |- | rowspan="1"| 2015 | 中篇電視劇 女子優秀演技賞\[40\] |
 《[制作人](https://zh.wikipedia.org/wiki/制作人 "wikilink")》 |  |- |
 rowspan="1"| 2018 | 中篇電視劇 女子最優秀演技賞\[41\] |
-《[我的大叔](https://zh.wikipedia.org/wiki/我的大叔 "wikilink")》 |  |}
+《[我的大叔](../Page/我的大叔.md "wikilink")》 |  |}
 
 ### Soompi Awards
 

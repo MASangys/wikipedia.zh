@@ -5,12 +5,11 @@ S6](../Page/三星Galaxy_S6.md "wikilink")。該手機在2016年2月21日[MWC](h
 S6 一樣，S7分為普通版和擁有曲面屏的Edge版本，S7也是前代S6的改進，恢復[Galaxy
 S5的一些設計特徵](https://zh.wikipedia.org/wiki/Galaxy_S5 "wikilink")，
 競爭對手為[iPhone 6S](https://zh.wikipedia.org/wiki/iPhone_6S "wikilink")、[LG
-G5](https://zh.wikipedia.org/wiki/LG_G5 "wikilink")、[Sony Xperia X
+G5](../Page/LG_G5.md "wikilink")、[Sony Xperia X
 Performance](../Page/Sony_Xperia_X_Performance.md "wikilink")、Huawei
 P9、HTC 10、小米5。\[1\]\[2\]目前已經可以更新到 [Samsung
-Experience](https://zh.wikipedia.org/wiki/Samsung_Experience "wikilink")
-9介面的 [Android
-Oreo](https://zh.wikipedia.org/wiki/Android_Oreo "wikilink") (8)版本。\[3\]
+Experience](../Page/Samsung_Experience.md "wikilink") 9介面的 [Android
+Oreo](../Page/Android_Oreo.md "wikilink") (8)版本。\[3\]
 
 全球移动通信系统协会(GSMA)在2017年移动世界大会期间宣布，Galaxy S7 edge被评为(移动设备类别下的)“MWC2017
 最佳智能手机”。
@@ -27,8 +26,7 @@ Galaxy S7系列亦因三星重新調整edge版的出貨量，加上[Galaxy Note
 
 ### 鏡頭
 
-  - 手機主鏡頭採用[Dual
-    Pixel技術](https://zh.wikipedia.org/wiki/Dual_Pixel "wikilink")
+  - 手機主鏡頭採用[Dual Pixel技術](../Page/Dual_Pixel.md "wikilink")
   - 新增動態全景及動態照片
   - 新增自拍閃光燈
 

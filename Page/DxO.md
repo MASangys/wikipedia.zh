@@ -4,7 +4,7 @@ DxO销售、ViewPoint和FilmPack图像处理软件，以及相机。
 
 ## 历史
 
-DxO创办了为独立[相机](https://zh.wikipedia.org/wiki/相机 "wikilink")、[镜头和配有相机部件的](https://zh.wikipedia.org/wiki/镜头 "wikilink")[移动设备所拍摄的](../Page/移动设备.md "wikilink")[照片进行图像评分的网站](https://zh.wikipedia.org/wiki/照片 "wikilink")[DxOMark.com](https://zh.wikipedia.org/wiki/DxOMark "wikilink")。\[1\]不过DxOMark.com已转为独立公司，即DxOMark
+DxO创办了为独立[相机](https://zh.wikipedia.org/wiki/相机 "wikilink")、[镜头和配有相机部件的](https://zh.wikipedia.org/wiki/镜头 "wikilink")[移动设备所拍摄的](../Page/移动设备.md "wikilink")[照片进行图像评分的网站](https://zh.wikipedia.org/wiki/照片 "wikilink")[DxOMark.com](../Page/DxOMark.md "wikilink")。\[1\]不过DxOMark.com已转为独立公司，即DxOMark
 Image Labs。\[2\]\[3\]2017年10月25日，DxO宣布从Google手中收购的资产。\[4\]
 
 ## 参考资料

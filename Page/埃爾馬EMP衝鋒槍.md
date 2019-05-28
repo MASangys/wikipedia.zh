@@ -56,7 +56,7 @@ Erma）名義銷售的衝鋒槍基本上就是VMP1930，只是其重新裝上其
   - [MP34](../Page/MP34冲锋枪.md "wikilink")
   - [MP35](../Page/MP35衝鋒槍.md "wikilink")
   - [MP38／MP40](../Page/MP40冲锋枪.md "wikilink")
-  - [MP41](https://zh.wikipedia.org/wiki/MP41衝鋒槍 "wikilink")
+  - [MP41](../Page/MP41衝鋒槍.md "wikilink")
   - [EMP44](../Page/EMP44衝鋒槍.md "wikilink")
   - [MP3008](../Page/MP3008衝鋒槍.md "wikilink")
   - [ZK-383](../Page/ZK-383衝鋒槍.md "wikilink")

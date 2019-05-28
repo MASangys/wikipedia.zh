@@ -49,7 +49,7 @@ either基于时间或基于事件。此外，一个任务也可以包含定义�
 ## 软件缺陷
 
 在Windows 2000和Windows
-XP中，分配为使用SYSTEM权限运行的任务在计算机准备使用[`sysprep`](https://zh.wikipedia.org/wiki/sysprep "wikilink")的磁盘映像时不会生效。Sysprep会更改[安全标识符](https://zh.wikipedia.org/wiki/安全标识符 "wikilink")（SID）以避免重复，但不会更新计划任务为使用新的SID。因此，所有SYSTEM的计划任务在映像的计算机上都会运行失败。没有适用于此问题的解决方案，但重新计划该任务可以暂时缓解问题。\[16\]
+XP中，分配为使用SYSTEM权限运行的任务在计算机准备使用[`sysprep`](https://zh.wikipedia.org/wiki/sysprep "wikilink")的磁盘映像时不会生效。Sysprep会更改[安全标识符](../Page/安全标识符.md "wikilink")（SID）以避免重复，但不会更新计划任务为使用新的SID。因此，所有SYSTEM的计划任务在映像的计算机上都会运行失败。没有适用于此问题的解决方案，但重新计划该任务可以暂时缓解问题。\[16\]
 
 在Windows Vista和Windows Server 2008上，如果未安装Service Pack
 2，任务计划程序中的“下次运行时间”可能显示错误。\[17\]

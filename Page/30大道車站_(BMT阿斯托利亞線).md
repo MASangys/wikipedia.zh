@@ -1,4 +1,4 @@
-**30大道車站**（），又稱「30大道-格蘭大道車站」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT阿斯托利亞線的一個慢車](https://zh.wikipedia.org/wiki/BMT阿斯托利亞線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")[阿斯托利亞](https://zh.wikipedia.org/wiki/阿斯托里亞_\(皇后區\) "wikilink")30大道及31街交界，設有[N線](../Page/紐約地鐵N線.md "wikilink")（任何時候停站）、[W線](../Page/紐約地鐵W線.md "wikilink")（僅平日停站）列車服務。
+**30大道車站**（），又稱「30大道-格蘭大道車站」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT阿斯托利亞線的一個慢車](https://zh.wikipedia.org/wiki/BMT阿斯托利亞線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")[阿斯托利亞](../Page/阿斯托里亞_\(皇后區\).md "wikilink")30大道及31街交界，設有[N線](../Page/紐約地鐵N線.md "wikilink")（任何時候停站）、[W線](../Page/紐約地鐵W線.md "wikilink")（僅平日停站）列車服務。
 
 ## 車站結構
 

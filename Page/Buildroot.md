@@ -35,8 +35,8 @@ Korsgaard维护并在[GNU通用公共许可证](../Page/GNU通用公共许可证
 
   - [Deciding between Buildroot and
     Yocto](https://lwn.net/Articles/682540/),
-    [LWN.net](https://zh.wikipedia.org/wiki/LWN.net "wikilink"), April
-    6, 2016, by Nathan Willis
+    [LWN.net](../Page/LWN.net.md "wikilink"), April 6, 2016, by Nathan
+    Willis
 
 [Category:自动化构建](https://zh.wikipedia.org/wiki/Category:自动化构建 "wikilink")
 [Category:嵌入式Linux](https://zh.wikipedia.org/wiki/Category:嵌入式Linux "wikilink")

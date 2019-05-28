@@ -5,7 +5,7 @@ Matter**（缩写：**BLM**），意为“**黑人的命很重要**”或“**�
 这场运动开始于2013年。2012年2月美国非裔青年崔温·马丁（Trayvon
 Martin）被警察枪杀。次年，开枪的警察乔治·齐默尔曼（George
 Zimmerman）被判无罪，社交网络上发起了 **\#BlackLivesMatter**
-的话题。2014年中的[邁克爾·布朗](https://zh.wikipedia.org/wiki/邁克爾·布朗命案 "wikilink")（Michael
+的话题。2014年中的[邁克爾·布朗](../Page/邁克爾·布朗命案.md "wikilink")（Michael
 Brown）和纽约市的埃里克·加纳（Eric
 Garner）丧生，这两起非裔美国人的死亡所引发的街头游行使得“黑人的命也是命”获得了全国性的关注\[7\]\[8\]。自弗格森骚乱后，运动的参与者多次举行游行示威，抗议数名非裔美国人在警方行动或警方拘留中死亡。2015年夏天，“黑人的命也是命”维权人士参与到了[2016年美国总统选举中](https://zh.wikipedia.org/wiki/2016年美国总统选举 "wikilink")\[9\]。话题标签的发起人和运动的召集人，艾丽西亚·加尔萨（Alicia
 Garza）、帕特希·库拉斯（Patrisse Cullors）和欧帕尔·托米提（Opal
@@ -34,7 +34,7 @@ Matter）。库拉斯回复道：“\#BlackLivesMatter”。托米提随后也�
 ### 弗格斯的行动
 
 2014年8月，在[迈克尔·布朗枪击案后](https://zh.wikipedia.org/wiki/迈克尔·布朗枪击案 "wikilink")，BLM
-成员采用“黑人的命也是命[自由乘车](../Page/自由乘车者.md "wikilink")”的形式，在[密苏里](https://zh.wikipedia.org/wiki/密苏里 "wikilink")[弗格森组织了第一次全国性现场抗议](https://zh.wikipedia.org/wiki/弗格森_\(密蘇里州\) "wikilink")\[24\]。超过500名抗议者突然出现在弗格森参与非暴力示威。在出现于弗格森的众多团体中，BLM
+成员采用“黑人的命也是命[自由乘车](../Page/自由乘车者.md "wikilink")”的形式，在[密苏里](https://zh.wikipedia.org/wiki/密苏里 "wikilink")[弗格森组织了第一次全国性现场抗议](../Page/弗格森_\(密蘇里州\).md "wikilink")\[24\]。超过500名抗议者突然出现在弗格森参与非暴力示威。在出现于弗格森的众多团体中，BLM
 组织尤为突出，被广泛认作这场新兴运动的代表符号\[25\]。
 
 自此之后，“黑人的命也是命”已经组织了数千场抗议和游行。除了街头抗议，BLM

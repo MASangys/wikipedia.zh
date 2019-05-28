@@ -16,7 +16,7 @@
     \[8\]
   - 2016年，[沈绪榜院士](https://zh.wikipedia.org/wiki/沈绪榜 "wikilink")、[唐泽圣教授](https://zh.wikipedia.org/wiki/唐泽圣 "wikilink")
     \[9\]
-  - 2017年，[胡启恒院士](../Page/胡启恒.md "wikilink")，[李伯虎院士](https://zh.wikipedia.org/wiki/李伯虎 "wikilink")\[10\]
+  - 2017年，[胡启恒院士](../Page/胡启恒.md "wikilink")，[李伯虎院士](../Page/李伯虎.md "wikilink")\[10\]
 
 ## 参考文献
 

@@ -81,7 +81,7 @@ Burst Super Z》。 2019年4月5日開始播出第四季《ベイブレードバ
 <!-- end list -->
 
   -
-    配音：[小林優](../Page/小林優.md "wikilink")（日本）；[黃積權](../Page/黃積權.md "wikilink")（香港）；[翁瑞陽](https://zh.wikipedia.org/wiki/翁瑞陽 "wikilink")（台灣東森幼幼台）／[張乃文](https://zh.wikipedia.org/wiki/張乃文_\(配音員\) "wikilink")（第一季）→[楊詩穎](../Page/楊詩穎.md "wikilink")（第二季）（台灣Netflix）
+    配音：[小林優](../Page/小林優.md "wikilink")（日本）；[黃積權](../Page/黃積權.md "wikilink")（香港）；[翁瑞陽](https://zh.wikipedia.org/wiki/翁瑞陽 "wikilink")（台灣東森幼幼台）／[張乃文](../Page/張乃文_\(配音員\).md "wikilink")（第一季）→[楊詩穎](../Page/楊詩穎.md "wikilink")（第二季）（台灣Netflix）
     持有陀螺：狂野龍獸.V.O（第一季）→颶風龍獸.4G.At（第二季）
     絕招：護盾破壞，超級護盾破壞，颶風護盾，超級颶風攻擊
     使用防禦型陀螺，名字代表有翼的雙足龍[飛龍](../Page/飛龍_\(傳說生物\).md "wikilink")。第二季，它的外圍的刃環能完全自由迴轉，化解對手攻擊的同時亦防止任何傷害傳遞到本體。\[13\]
@@ -231,7 +231,7 @@ Burst Super Z》。 2019年4月5日開始播出第四季《ベイブレードバ
     使用持久型陀螺，名字代表有三個尖齿的矛[三叉戟](https://zh.wikipedia.org/wiki/三叉戟 "wikilink")。外圍和内圍連接大量的橡膠，允許刀片在衝擊下吸收衝擊以減小反沖並成為旋轉力\[45\]
     陀螺社: 沒有（第一季）→沒有（第二季）→米駒學園戰鬥陀螺社（第三季）
   -
-    配音：[奈良徹](../Page/奈良徹.md "wikilink")（日本）；[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")（香港）；[鍾少庭](https://zh.wikipedia.org/wiki/鍾少庭 "wikilink")（台灣東森幼幼台）／[何志威](../Page/何志威.md "wikilink")（台灣Netflix）
+    配音：[奈良徹](../Page/奈良徹.md "wikilink")（日本）；[鄧志堅](../Page/鄧志堅.md "wikilink")（香港）；[鍾少庭](https://zh.wikipedia.org/wiki/鍾少庭 "wikilink")（台灣東森幼幼台）／[何志威](../Page/何志威.md "wikilink")（台灣Netflix）
     持有陀螺：聖光神鷹.U.C
     絕招：神隼領域
     動畫原創角色，第六集正式登場，忠於協屋，性格善良\[46\]
@@ -266,7 +266,7 @@ Burst Super Z》。 2019年4月5日開始播出第四季《ベイブレードバ
     使用攻擊型陀螺，名字代表北歐傳頌的尊神[奧丁](https://zh.wikipedia.org/wiki/奧丁 "wikilink")。
     陀螺社:沒有→超級明星隊
   -
-    配音：[浪川大輔](../Page/浪川大輔.md "wikilink")（日本）；[林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink")（香港）；[鍾少庭](https://zh.wikipedia.org/wiki/鍾少庭 "wikilink")（台灣東森幼幼台）／[何志威](../Page/何志威.md "wikilink")（台灣Netflix）
+    配音：[浪川大輔](../Page/浪川大輔.md "wikilink")（日本）；[林筠翔](../Page/林筠翔.md "wikilink")（香港）；[鍾少庭](https://zh.wikipedia.org/wiki/鍾少庭 "wikilink")（台灣東森幼幼台）／[何志威](../Page/何志威.md "wikilink")（台灣Netflix）
     持有陀螺：萬象宙斯.I.W
     絕招：陽光迴旋，爆轉發射
     第二十二集登場。第三個登場的四旋王。從心底愛著陀螺的陀螺手，很受女孩們歡迎，天生的藝人。同時是爆旋陀螺團體大賽超級明星隊隊長。\[49\]
@@ -321,7 +321,7 @@ Burst Super Z》。 2019年4月5日開始播出第四季《ベイブレードバ
     第四十三集登場，在全國大賽個人賽第一輪對付紅修。
     使用持久型陀螺，名字代表身型極為龐大的巨蛇[耶夢加得](../Page/耶夢加得.md "wikilink")。
   -
-    配音：[山本和臣](../Page/山本和臣.md "wikilink")（日本）；[陳灝瑋](../Page/陳灝瑋.md "wikilink")（香港）；[曾莉婷](https://zh.wikipedia.org/wiki/曾莉婷 "wikilink")（台灣東森幼幼台）／[張乃文](https://zh.wikipedia.org/wiki/張乃文_\(配音員\) "wikilink")（台灣Netflix）
+    配音：[山本和臣](../Page/山本和臣.md "wikilink")（日本）；[陳灝瑋](../Page/陳灝瑋.md "wikilink")（香港）；[曾莉婷](https://zh.wikipedia.org/wiki/曾莉婷 "wikilink")（台灣東森幼幼台）／[張乃文](../Page/張乃文_\(配音員\).md "wikilink")（台灣Netflix）
     持有陀螺：幻魔冥神.Y.O
     絕招：完美迴旋
     動畫原創角色，第四十三集登場。
@@ -348,7 +348,7 @@ Burst Super Z》。 2019年4月5日開始播出第四季《ベイブレードバ
     使用防禦型陀螺，名字代表神灯裏的藍色精灵[鎮尼](../Page/鎮尼.md "wikilink")。當受到強烈的碰撞時，攻擊環的外圍刃環就會因此而往上轉動，令攻擊環形成一個高大牆壁\[57\]
     陀螺社:紐約公牛
   -
-    配音：[澤城千春](https://zh.wikipedia.org/wiki/澤城千春 "wikilink")（日本）；曹啟謙（香港）；[謝宗佑](https://zh.wikipedia.org/wiki/謝宗佑 "wikilink")（台灣）
+    配音：[澤城千春](../Page/澤城千春.md "wikilink")（日本）；曹啟謙（香港）；[謝宗佑](https://zh.wikipedia.org/wiki/謝宗佑 "wikilink")（台灣）
     持有陀螺：聖護雄獅.5S.Tw
     絕招：尖牙攻擊，聖護防禦
     第二十五集登場，第四個登場的BigFive，世界排名第四，巴西里約的成員兼阿凱的隊友，來自中國。\[58\]使用的平衡型陀螺能在於高速迴轉時頭和爪子飛出的攻擊模式，及低速時頭和爪子隱藏的防禦模式間自動變形。\[59\]使用代表獅子星[軒轅十四的陀螺](../Page/軒轅十四.md "wikilink")

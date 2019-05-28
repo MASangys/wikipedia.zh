@@ -1,4 +1,4 @@
-是[日本Falcom于](../Page/日本Falcom.md "wikilink")1988年在日本个人电脑[PC-8801出品的](https://zh.wikipedia.org/wiki/PC-8801 "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。游戏是[伊苏系列的第二作](../Page/伊苏系列.md "wikilink")，情节紧接前作《[伊苏
+是[日本Falcom于](../Page/日本Falcom.md "wikilink")1988年在日本个人电脑[PC-8801出品的](../Page/PC-8801.md "wikilink")[动作角色扮演游戏](https://zh.wikipedia.org/wiki/动作角色扮演游戏 "wikilink")。游戏是[伊苏系列的第二作](../Page/伊苏系列.md "wikilink")，情节紧接前作《[伊苏
 失落的伊苏古国
 序章](../Page/伊苏_失落的伊苏古国_序章.md "wikilink")》，讲述主人公亚特鲁集齐六本伊苏之书后，被传送到伊苏国的故事。游戏后来移植到多个平台，并常与前作捆绑销售。
 
@@ -130,7 +130,7 @@
 
 ## 版本
 
-《伊苏II》于1988年4月22日在个人电脑[PC8801mkIISR发行](https://zh.wikipedia.org/wiki/PC-8801 "wikilink")，同年在[PC-9801](https://zh.wikipedia.org/wiki/PC-9801 "wikilink")、[X1-turbo](https://zh.wikipedia.org/wiki/X1-turbo "wikilink")、[FM-77AV](https://zh.wikipedia.org/wiki/FM-77AV "wikilink")、[MSX2等个人电脑上](https://zh.wikipedia.org/wiki/MSX2 "wikilink")。1989年，Vector发行[红白机版游戏](../Page/红白机.md "wikilink")。同年，Hudson
+《伊苏II》于1988年4月22日在个人电脑[PC8801mkIISR发行](../Page/PC-8801.md "wikilink")，同年在[PC-9801](https://zh.wikipedia.org/wiki/PC-9801 "wikilink")、[X1-turbo](https://zh.wikipedia.org/wiki/X1-turbo "wikilink")、[FM-77AV](https://zh.wikipedia.org/wiki/FM-77AV "wikilink")、[MSX2等个人电脑上](https://zh.wikipedia.org/wiki/MSX2 "wikilink")。1989年，Vector发行[红白机版游戏](../Page/红白机.md "wikilink")。同年，Hudson
 Soft发行[PC
 Engine版游戏](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")，这也是游戏唯一在西方发行的版本。1998年，Vector在[世嘉土星上发行PC](../Page/世嘉土星.md "wikilink")
 Engine的移植版。2000年，收录游戏的Windows合辑《Falcom

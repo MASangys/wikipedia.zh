@@ -9,7 +9,7 @@ DSP Media 表示：「混聲企劃團體 K.A.R.D
 
 ### 出道前
 
-2012年，[全昭珉曾為女團](https://zh.wikipedia.org/wiki/全昭珉 "wikilink")[PURETTY成员](../Page/PURETTY.md "wikilink")，现已解散。2014年，全昭珉成為[Baby
+2012年，[全昭珉曾為女團](../Page/全昭珉.md "wikilink")[PURETTY成员](../Page/PURETTY.md "wikilink")，现已解散。2014年，全昭珉成為[Baby
 Kara成员之一](../Page/Baby_Kara.md "wikilink")，後[許齡智成為](../Page/許齡智.md "wikilink")[Kara正式成員](../Page/Kara.md "wikilink")，全昭珉結束活動。
 
 2015年8月24日，全昭珉以[APRIL隊長身分出道](https://zh.wikipedia.org/wiki/APRIL_\(女子團體\) "wikilink")，但未滿3個月就退出團體。\[2\]
@@ -94,8 +94,8 @@ Me》音源與MV。\[35\]
 
 **第三張迷你專輯《Ride On The Wind》**
 
-[全昭珉](https://zh.wikipedia.org/wiki/全昭珉 "wikilink")、[全志佑參與](https://zh.wikipedia.org/wiki/全志佑 "wikilink")[Super
-Junior改版專輯](../Page/Super_Junior.md "wikilink")《[Replay](https://zh.wikipedia.org/wiki/Play_\(Super_Junior專輯\) "wikilink")》的歌曲《Lo
+[全昭珉](../Page/全昭珉.md "wikilink")、[全志佑參與](https://zh.wikipedia.org/wiki/全志佑 "wikilink")[Super
+Junior改版專輯](../Page/Super_Junior.md "wikilink")《[Replay](../Page/Play_\(Super_Junior專輯\).md "wikilink")》的歌曲《Lo
 Siento (feat. KARD)》，並於2018年4月12日的音樂節目[M
 Countdown同台演出](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")\[36\]。
 
@@ -161,7 +161,7 @@ Wind》之后时隔8个多月发行的新單曲。据悉，组合自上一张专
 <td><p>男</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/全昭珉" title="wikilink">全昭珉</a></p></td>
+<td><p><a href="../Page/全昭珉.md" title="wikilink">全昭珉</a></p></td>
 <td><p>전소민</p></td>
 <td><p>全昭珉<br />
 [40]</p></td>
@@ -199,19 +199,19 @@ Wind》之后时隔8个多月发行的新單曲。据悉，组合自上一张专
 
 ### 綜藝節目
 
-| 播出日期                                                | 電視台                                                                               | 節目名稱                                                                              | 備註 |
-| --------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | -- |
-| 2016年12月29日                                         | [Arirang TV](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")                     | 《[韓國音樂流行榜](../Page/韓國音樂流行榜.md "wikilink")》                                        |    |
-| 2017年2月28日                                          | 《[After School Club](https://zh.wikipedia.org/wiki/After_School_Club "wikilink")》 |                                                                                   |    |
-| 2017年7月25日                                          | 《[After School Club](https://zh.wikipedia.org/wiki/After_School_Club "wikilink")》 |                                                                                   |    |
-| 2017年8月19日                                          | [KBS第2頻道](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")                       | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》                     |    |
-| 2017年12月31日                                         | [KBS第1頻道](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")                       | 《》                                                                                |    |
-| 2018年1月13日                                          | [KBS第2頻道](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")                       | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》                                |    |
-| 2018年7月19日                                          | XtvN                                                                              | 《[SUPER TV 2](https://zh.wikipedia.org/wiki/SUPER_TV "wikilink")》                 |    |
-| 2018年7月31日                                          | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink")                 | 《[After School Club](https://zh.wikipedia.org/wiki/After_School_Club "wikilink")》 |    |
-| TBS TV                                              | 《Fact in Star》                                                                    |                                                                                   |    |
-| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《深夜本格演藝》                                                                          |                                                                                   |    |
-| 2018年8月30日                                          | K-Tigers TV                                                                       | 《神童的Kick Service》                                                                 |    |
+| 播出日期                                                | 電視台                                                               | 節目名稱                                                           | 備註 |
+| --------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------- | -- |
+| 2016年12月29日                                         | [Arirang TV](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")     | 《[韓國音樂流行榜](../Page/韓國音樂流行榜.md "wikilink")》                     |    |
+| 2017年2月28日                                          | 《[After School Club](../Page/After_School_Club.md "wikilink")》    |                                                                |    |
+| 2017年7月25日                                          | 《[After School Club](../Page/After_School_Club.md "wikilink")》    |                                                                |    |
+| 2017年8月19日                                          | [KBS第2頻道](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")       | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》  |    |
+| 2017年12月31日                                         | [KBS第1頻道](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")       | 《》                                                             |    |
+| 2018年1月13日                                          | [KBS第2頻道](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")       | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》             |    |
+| 2018年7月19日                                          | XtvN                                                              | 《[SUPER TV 2](../Page/SUPER_TV.md "wikilink")》                 |    |
+| 2018年7月31日                                          | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》 |    |
+| TBS TV                                              | 《Fact in Star》                                                    |                                                                |    |
+| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《深夜本格演藝》                                                          |                                                                |    |
+| 2018年8月30日                                          | K-Tigers TV                                                       | 《神童的Kick Service》                                              |    |
 
 ### 電台節目
 
@@ -355,9 +355,9 @@ Wind》之后时隔8个多月发行的新單曲。据悉，组合自上一张专
 
 ### 合作歌曲
 
-| \#      | 專輯資料                                                                                                                                                | 合作曲目                  | 參與成員                                                                                                    |
-| ------- | --------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------- |
-| **1st** | [Super Junior](../Page/Super_Junior.md "wikilink") 8th Repackaged Album《[Replay](https://zh.wikipedia.org/wiki/Play_\(Super_Junior專輯\) "wikilink")》 | Lo Siento（feat. KARD） | [全昭珉](https://zh.wikipedia.org/wiki/全昭珉 "wikilink")、[全志佑](https://zh.wikipedia.org/wiki/全志佑 "wikilink") |
+| \#      | 專輯資料                                                                                                                             | 合作曲目                  | 參與成員                                                                                 |
+| ------- | -------------------------------------------------------------------------------------------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------ |
+| **1st** | [Super Junior](../Page/Super_Junior.md "wikilink") 8th Repackaged Album《[Replay](../Page/Play_\(Super_Junior專輯\).md "wikilink")》 | Lo Siento（feat. KARD） | [全昭珉](../Page/全昭珉.md "wikilink")、[全志佑](https://zh.wikipedia.org/wiki/全志佑 "wikilink") |
 
 ### 音樂創作作品
 

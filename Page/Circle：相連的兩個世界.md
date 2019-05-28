@@ -27,7 +27,7 @@
 <p>從小就跟雙胞胎哥哥形影不離，相信著外星人的存在，即使發生父親疑問的失蹤和一連串的事件也沒有錯失韓潭科技大學首席位置的天才，是唯一可以啟動記憶影像化系統的人。2017年與靜妍把失去記憶的範均託付給敏英，為了保護靜妍和範均，獨自去找朴教授，逃跑途中遭遇車禍成為植物人，朴東建做了克隆人並植入記憶當作CircleRate3以啟動系統，成功後讓已成為植物人的真正宇鎮斷氣。第十一集醒來逃跑造成HumanB中心系統癱瘓，途中與俊赫和靜妍相遇；第十二集配合俊赫和靜妍的計畫再次進入HumanB，朴東健倒台後將其綁架至頂樓要逃跑，趁亂將HumanB系統的關鍵CUBE扔出導致朴東健墜樓身亡，最後和哥哥、靜妍一起生活。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/安友淵" title="wikilink">安友淵</a><br />
+<td><p><a href="../Page/安友淵.md" title="wikilink">安友淵</a><br />
 <small>（童年：<a href="https://zh.wikipedia.org/wiki/金藝俊" title="wikilink">金藝俊</a>）</p></td>
 <td><p>金範均<br />
 <small>（2017年）</small><br />
@@ -45,7 +45,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/孔昇延" title="wikilink">孔昇延</a></p></td>
 <td><p>韓靜妍／星星</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/謝穎茵" title="wikilink">謝穎茵</a></p></td>
+<td><p><a href="../Page/謝穎茵.md" title="wikilink">謝穎茵</a></p></td>
 <td><p>2007年時為外星人，宇鎮取名為星星，為了讓宇鎮見到媽媽而創建了記憶影像化的系統，後得知可能給人類帶來災難便要求金圭哲協助刪除自己的記憶；2017年時為韓譚科技大學電腦工學系女神，與宇鎮一同調查大學自殺事件及哥哥的失蹤；2037年時為藍鳥，駭客們口中的神秘人物，陸續破解智能地球市民們被HumanB刪除的記憶；第五集開始與俊赫一同尋找宇鎮；第十集在昊秀幫助下與俊赫進入大樓找宇鎮，一度被朴東健綁架要植入晶片但因宇鎮醒來而得以逃跑；第十二集恢復尹市長記憶並將韓教授送至醫院照顧。</p></td>
 </tr>
 <tr class="even">
@@ -80,13 +80,13 @@
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/權赫秀" title="wikilink">權赫秀</a></p></td>
+<td><p><a href="../Page/權赫秀.md" title="wikilink">權赫秀</a></p></td>
 <td><p>吳刑警</p></td>
 <td><p>| align="left" |2037年俊赫後輩。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭仁仙" title="wikilink">鄭仁仙</a> / <a href="../Page/金敏京.md" title="wikilink">金敏京</a></p></td>
+<td><p><a href="../Page/鄭仁仙.md" title="wikilink">鄭仁仙</a> / <a href="../Page/金敏京.md" title="wikilink">金敏京</a></p></td>
 <td><p>朴敏英</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳雪瑩" title="wikilink">陳雪瑩</a> / <a href="../Page/陳凱婷.md" title="wikilink">陳凱婷</a></p></td>
 <td><p>2017年，西延大學醫學系學生，被害者之一，存活了下來，但精神狀況變得不太好，曾與範均有共患難的情誼，從宇鎮和靜妍那邊接下失去記憶的範均；2037年為一名醫生，確定移除了晶片卻沒失憶。是最了解俊赫的人之一，對俊赫有好感。</p></td>
@@ -101,7 +101,7 @@
 <tr class="odd">
 <td><p><a href="../Page/韓尚進.md" title="wikilink">韓尚進</a></p></td>
 <td><p>朴東健</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柯偉聰" title="wikilink">柯偉聰</a></p></td>
+<td><p><a href="../Page/柯偉聰.md" title="wikilink">柯偉聰</a></p></td>
 <td><p>韓譚大學神經學副教授；2037年為科學經濟部長官，第八集被揭露為HUMANB會長，刪除市長記憶嫁禍給藍鳥並藉法條之便同時領導市政廳，將俊赫和靜妍列為通緝犯下令追捕；最後因所作所為被公諸於世而倒台，但仍不死心拿著CUBE打算帶宇鎮搭直昇機逃跑，被俊赫、靜妍阻止，最後為了抓住宇鎮扔出的CUBE而墜樓眼睜睜看著CUBE掉入水溝死不瞑目。</p></td>
 </tr>
 <tr class="even">
@@ -119,7 +119,7 @@
 <tr class="even">
 <td><p><a href="../Page/李瑜瑛.md" title="wikilink">李瑜瑛</a></p></td>
 <td><p>申秘書</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馮詠恩" title="wikilink">馮詠恩</a></p></td>
+<td><p><a href="../Page/馮詠恩.md" title="wikilink">馮詠恩</a></p></td>
 <td><p>2037年HUMAN B本部長李賢錫的左右手。</p></td>
 </tr>
 <tr class="odd">

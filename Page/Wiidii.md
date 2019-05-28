@@ -34,7 +34,7 @@ Axa-Assistance\[6\],
   - 2017年4月7号，Cédric Dumas 携wiidii 全体员工在法国农业信贷银行的创业中心接待当地副市长Virginie
     Calmels。
   - 2016年5月9号，Cédric Dumas
-    向时任法国经济部长，如今的法国总统[埃马纽埃尔·马克龙介绍手机软件wiidii](https://zh.wikipedia.org/wiki/埃马纽埃尔·马克龙 "wikilink")。
+    向时任法国经济部长，如今的法国总统[埃马纽埃尔·马克龙介绍手机软件wiidii](../Page/埃马纽埃尔·马克龙.md "wikilink")。
   - 2017 年6月，巴黎科技展博会Viva Technology Paris\[15\]
   - 2017 年1月，美国拉斯维加斯消費電子展 (Consumer Electronic Show )\[16\]
   - 2017 年3月，巴塞罗那 4 Years from Now 国际沙龙\[17\]

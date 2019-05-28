@@ -416,7 +416,7 @@ stick.jpg|在自拍杆端的THETA S Ricoh Theta S, tripod, hard cover.jpg|THETA�
 ## 参见
 
   - [全景](https://zh.wikipedia.org/wiki/全景 "wikilink")
-  - [全景相机列表](https://zh.wikipedia.org/wiki/全景相机列表 "wikilink")
+  - [全景相机列表](../Page/全景相机列表.md "wikilink")
 
 ## 参考与引用
 

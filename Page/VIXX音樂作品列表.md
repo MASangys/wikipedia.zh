@@ -42,7 +42,7 @@
 <td><ul>
 <li>發行日期：2013年11月25日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></li>
 </ul></td>
 <td><p>1</p></td>
@@ -53,14 +53,14 @@
 <td><ul>
 <li>發行日期：2015年11月10日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></li>
 </ul></td>
 <td><p>1</p></td>
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/EAU_DE_VIXX" title="wikilink">EAU DE VIXX</a></p></td>
+<td><p><a href="../Page/EAU_DE_VIXX.md" title="wikilink">EAU DE VIXX</a></p></td>
 <td><ul>
 <li>發行日期：2018年4月17日</li>
 <li>製作公司：Jellyfish娛樂</li>
@@ -146,7 +146,7 @@
 <td><ul>
 <li>發行日期：2013年5月20日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>3</p></td>
@@ -157,7 +157,7 @@
 <td><ul>
 <li>發行日期：2013年7月31日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>3</p></td>
@@ -168,7 +168,7 @@
 <td><ul>
 <li>發行日期：2014年10月14日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>1</p></td>
@@ -179,7 +179,7 @@
 <td><ul>
 <li>發行日期：2015年8月17日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>2</p></td>
@@ -190,7 +190,7 @@
 <td><ul>
 <li>發行日期：2016年10月31日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>2</p></td>
@@ -201,18 +201,18 @@
 <td><ul>
 <li>發行日期：2017年1月9日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>2</p></td>
 <td><p>11</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/桃源境" title="wikilink">桃源境</a></p></td>
+<td><p><a href="../Page/桃源境.md" title="wikilink">桃源境</a></p></td>
 <td><ul>
 <li>發行日期：2017年5月15日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>2</p></td>
@@ -267,7 +267,7 @@
 <td><ul>
 <li>發行日期：2012年5月24日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>18</p></td>
@@ -278,7 +278,7 @@
 <td><ul>
 <li>發行日期：2012年8月14日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>8</p></td>
@@ -289,7 +289,7 @@
 <td><ul>
 <li>發行日期：2013年1月17日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>4</p></td>
@@ -300,7 +300,7 @@
 <td><ul>
 <li>發行日期：2014年5月27日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>1</p></td>
@@ -311,7 +311,7 @@
 <td><ul>
 <li>發行日期：2015年2月24日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>1</p></td>
@@ -322,7 +322,7 @@
 <td><ul>
 <li>發行日期：2016年4月19日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>1</p></td>
@@ -333,7 +333,7 @@
 <td><ul>
 <li>發行日期：2016年8月12日</li>
 <li>製作公司：<a href="../Page/Jellyfish娛樂.md" title="wikilink">Jellyfish娛樂</a></li>
-<li>發行公司：<a href="https://zh.wikipedia.org/wiki/CJ_E&amp;M" title="wikilink">CJ E&amp;M</a></li>
+<li>發行公司：<a href="../Page/CJ_E&amp;M.md" title="wikilink">CJ E&amp;M</a></li>
 <li>形式：CD、數位音樂下載</li>
 </ul></td>
 <td><p>1</p></td>
@@ -473,7 +473,7 @@
 <td><ul>
 <li>韓國：76,294+</li>
 </ul></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/VOODOO" title="wikilink">VOODOO</a></p></td>
+<td><p><a href="../Page/VOODOO.md" title="wikilink">VOODOO</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Voodoo Doll</p></td>
@@ -590,7 +590,7 @@
 <td><ul>
 <li>韓國：TBA</li>
 </ul></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/桃源境" title="wikilink">桃源境</a></p></td>
+<td><p><a href="../Page/桃源境.md" title="wikilink">桃源境</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>

@@ -22,7 +22,7 @@ Heart](../Page/To_Heart.md "wikilink")》及遊戲公司[Leaf的作品為中心�
   - [星之王子](https://zh.wikipedia.org/wiki/星之王子 "wikilink")（Leaf）
     原畫、角色設計\[4\]
 
-  - [Berry's](https://zh.wikipedia.org/wiki/Berry's "wikilink")（[Sphere](../Page/CUFFS.md "wikilink")）原畫、角色設計
+  - [Berry's](../Page/Berry's.md "wikilink")（[Sphere](../Page/CUFFS.md "wikilink")）原畫、角色設計
 
 ### 插畫
 
@@ -44,7 +44,7 @@ Heart](../Page/To_Heart.md "wikilink")》及遊戲公司[Leaf的作品為中心�
     第5話片尾插圖
   - [Regalia 三聖星](../Page/Regalia_三聖星.md "wikilink") 角色原案\[6\]
   - [不正經的魔術講師與禁忌教典](../Page/不正經的魔術講師與禁忌教典.md "wikilink") 第8話片尾插圖（櫻小春）
-  - [音樂少女](https://zh.wikipedia.org/wiki/音樂少女 "wikilink") 角色原案協力
+  - [音樂少女](../Page/音樂少女.md "wikilink") 角色原案協力
 
 ## 參考資料
 

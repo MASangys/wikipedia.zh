@@ -104,7 +104,7 @@ Production附屬養成學校B☆ACE\[3\]。
 
   - [那須惠](../Page/那須惠.md "wikilink")（自由職業、（業務提攜））
 
-  - [麥穗杏菜](https://zh.wikipedia.org/wiki/麥穗杏菜 "wikilink")（自由職業）
+  - [麥穗杏菜](../Page/麥穗杏菜.md "wikilink")（自由職業）
 
 ## 來源
 

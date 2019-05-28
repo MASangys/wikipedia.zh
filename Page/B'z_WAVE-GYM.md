@@ -12,9 +12,9 @@ WAVE-GYM』由來為B'z的演唱會名稱『[LIVE-GYM](../Page/LIVE-GYM.md "wiki
 
 對於B'z而言，是首次擔任廣播電台節目的廣播主持人，亦是B'z的首個[廣播節目](https://zh.wikipedia.org/wiki/電臺廣播 "wikilink")。之後，對於稻葉浩志而言，亦是首次獨自擔任廣播主持人。
 
-本節目為節目，起初贊助商標註[JTB](https://zh.wikipedia.org/wiki/JTB "wikilink")，途中取代為Circle
-K（現今的）。伴隨著節目名稱Title Call，起初冠名JTB公司作為『COME ON JTB B'z
-WAVE-GYM』，但[1993年以後](../Page/1993年.md "wikilink")，伴隨著贊助商換成Circle
+本節目為節目，起初贊助商標註[JTB](../Page/JTB.md "wikilink")，途中取代為Circle
+K（現今的）。伴隨著節目名稱Title Call，起初冠名JTB公司作為『COME ON
+JTB B'z WAVE-GYM』，但[1993年以後](../Page/1993年.md "wikilink")，伴隨著贊助商換成Circle
 K，而變更為『Circle K PRESENTS B'z WAVE-GYM』（）。
 
 [單曲或](https://zh.wikipedia.org/wiki/單曲 "wikilink")[BGM基本上每次皆會使用數首B](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")'z樂曲。再者，所播放的樂曲會因播出集數而異，有時會以數曲[混合形式接連播放](https://zh.wikipedia.org/wiki/混合 "wikilink")。
@@ -77,7 +77,7 @@ K，而變更為『Circle K PRESENTS B'z WAVE-GYM』（）。
   - [B'z](../Page/B'z.md "wikilink")
 
   -
-  - [JTB](https://zh.wikipedia.org/wiki/JTB "wikilink")
+  - [JTB](../Page/JTB.md "wikilink")
 
   -
 [Category:B'z](https://zh.wikipedia.org/wiki/Category:B'z "wikilink")

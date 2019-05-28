@@ -39,7 +39,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 <td><p>評審團團員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a></p></td>
+<td><p><a href="../Page/張允瀞.md" title="wikilink">張允瀞</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -102,7 +102,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 <td><p><a href="../Page/朴明洙.md" title="wikilink">朴明洙</a></p></td>
 <td><p>冷面<br />
 （냉면）</p></td>
-<td><p><small>、<a href="../Page/金淑.md" title="wikilink">金淑</a>、、、<a href="../Page/姜均成.md" title="wikilink">姜均成</a>、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="../Page/金秀路.md" title="wikilink">金秀路</a>、<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>（<a href="../Page/Kei.md" title="wikilink">Kei</a>、<a href="https://zh.wikipedia.org/wiki/叡仁" title="wikilink">叡仁</a>）</small></p></td>
+<td><p><small>、<a href="../Page/金淑.md" title="wikilink">金淑</a>、、、<a href="../Page/姜均成.md" title="wikilink">姜均成</a>、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/金秀路.md" title="wikilink">金秀路</a>、<a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a>（<a href="../Page/Kei.md" title="wikilink">Kei</a>、<a href="https://zh.wikipedia.org/wiki/叡仁" title="wikilink">叡仁</a>）</small></p></td>
 <td><p>"國樂姊妹"－李明華、李明學</p></td>
 <td><p>／</p></td>
 <td><p>FourSir</p></td>
@@ -127,7 +127,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a></p></td>
+<td><p><a href="../Page/張允瀞.md" title="wikilink">張允瀞</a></p></td>
 <td><p>喜歡你<br />
 （당신이좋아）</p></td>
 <td><p>"心動聲樂家"－李昇勳</p></td>
@@ -267,7 +267,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 <td><p><a href="../Page/任昌丁.md" title="wikilink">任昌丁</a></p></td>
 <td><p>我這樣的傢伙<br />
 （나란놈이란）</p></td>
-<td><p><small>、、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="https://zh.wikipedia.org/wiki/盧士燕" title="wikilink">盧士燕</a>、、<a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、<a href="../Page/圭賢.md" title="wikilink">圭賢</a>、<a href="../Page/姜昇潤.md" title="wikilink">姜昇潤</a>、<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>（ZN、<a href="https://zh.wikipedia.org/wiki/率濱" title="wikilink">率濱</a>）</small></p></td>
+<td><p><small>、、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/盧士燕.md" title="wikilink">盧士燕</a>、、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、<a href="../Page/圭賢.md" title="wikilink">圭賢</a>、<a href="../Page/姜昇潤.md" title="wikilink">姜昇潤</a>、<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>（ZN、<a href="https://zh.wikipedia.org/wiki/率濱" title="wikilink">率濱</a>）</small></p></td>
 <td><p>"結婚Gummy"－朱雪玉</p></td>
 <td><p>／</p></td>
 <td><p>朱雪玉</p></td>
@@ -384,7 +384,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 <td><p><a href="../Page/曹誠模.md" title="wikilink">曹誠模</a></p></td>
 <td><p>不滅的愛情<br />
 （불멸의 사랑）</p></td>
-<td><p><small>、、<a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a>、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、<a href="../Page/哈妮.md" title="wikilink">Hani</a>、<a href="../Page/洪智敏.md" title="wikilink">洪智敏</a>、金多美</small></p></td>
+<td><p><small>、、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、<a href="../Page/哈妮.md" title="wikilink">Hani</a>、<a href="../Page/洪智敏.md" title="wikilink">洪智敏</a>、金多美</small></p></td>
 <td><p>"三千浦漢堡王子"－柳勇賢</p></td>
 <td><p>To Heaven（發往天國的信）</p></td>
 <td><p>柳勇賢</p></td>
@@ -436,7 +436,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/卞真燮" title="wikilink">卞真燮</a></p></td>
+<td><p><a href="../Page/卞真燮.md" title="wikilink">卞真燮</a></p></td>
 <td><p>致淑女<br />
 （숙녀에게）</p></td>
 <td><p>"默契和音"－吳濟勳 &amp; 朴楚熙</p></td>
@@ -475,7 +475,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 </tr>
 <tr class="even">
 <td><p>特別舞台</p></td>
-<td><p><a href="../Page/李仙姬.md" title="wikilink">李仙姬</a> &amp; <a href="https://zh.wikipedia.org/wiki/卞真燮" title="wikilink">卞真燮</a></p></td>
+<td><p><a href="../Page/李仙姬.md" title="wikilink">李仙姬</a> &amp; <a href="../Page/卞真燮.md" title="wikilink">卞真燮</a></p></td>
 <td><p>能給你的只有愛情<br />
 （네게 줄수 있는 건 오직 사랑뿐）</p></td>
 <td></td>
@@ -500,7 +500,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 <td><p><a href="https://zh.wikipedia.org/wiki/Ailee" title="wikilink">Ailee</a></p></td>
 <td><p>給你看<br />
 （보여줄게）</p></td>
-<td><p><small>、、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、<a href="../Page/Apink.md" title="wikilink">Apink</a>（<a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a>、<a href="../Page/金南珠_(歌手).md" title="wikilink">金南珠</a>）</small></p></td>
+<td><p><small>、、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、<a href="../Page/Apink.md" title="wikilink">Apink</a>（<a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a>、<a href="../Page/金南珠_(歌手).md" title="wikilink">金南珠</a>）</small></p></td>
 <td><p>"跳舞釜山銀行女"－朴惠真</p></td>
 <td><p>／</p></td>
 <td><p>李敏貞</p></td>
@@ -553,7 +553,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/申昇勳" title="wikilink">申昇勳</a></p></td>
+<td><p><a href="../Page/申昇勳.md" title="wikilink">申昇勳</a></p></td>
 <td><p>I Believe</p></td>
 <td><p>"工大樂譜女"－石仁惠</p></td>
 <td><p>／</p></td>
@@ -592,7 +592,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 </tr>
 <tr class="even">
 <td><p>特別舞台</p></td>
-<td><p>&amp; <a href="https://zh.wikipedia.org/wiki/申昇勳" title="wikilink">申昇勳</a> &amp; <a href="https://zh.wikipedia.org/wiki/Ailee" title="wikilink">Ailee</a></p></td>
+<td><p>&amp; <a href="../Page/申昇勳.md" title="wikilink">申昇勳</a> &amp; <a href="https://zh.wikipedia.org/wiki/Ailee" title="wikilink">Ailee</a></p></td>
 <td><p>微笑中映照出的你<br />
 （미소 속에 비친 그대）<br />
 </p></td>
@@ -602,7 +602,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p> &amp; <a href="https://zh.wikipedia.org/wiki/申昇勳" title="wikilink">申昇勳</a></p></td>
+<td><p> &amp; <a href="../Page/申昇勳.md" title="wikilink">申昇勳</a></p></td>
 <td><p>被擋住的路（가리워진 길）<br />
 </p></td>
 <td></td>
@@ -619,7 +619,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 <td></td>
 <td><p>南行列車<br />
 （남행열차）</p></td>
-<td><p><small>、、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、<a href="../Page/洪智敏.md" title="wikilink">洪智敏</a>、</small></p></td>
+<td><p><small>、、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、<a href="../Page/洪智敏.md" title="wikilink">洪智敏</a>、</small></p></td>
 <td><p>"黃家興致姊妹"－黃甫拉兒、黃甫瑟兒</p></td>
 <td><p>停車場、忘不了</p></td>
 <td><p>吳志英</p></td>
@@ -728,7 +728,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 <td><p><a href="../Page/金旻鍾.md" title="wikilink">金旻鍾</a></p></td>
 <td><p>善良的愛<br />
 （착한 사랑）</p></td>
-<td><p><small>、、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、<a href="../Page/金元俊.md" title="wikilink">金元俊</a>、<a href="../Page/李勳.md" title="wikilink">李勳</a>、、<a href="../Page/李遐怡.md" title="wikilink">李遐怡</a></small></p></td>
+<td><p><small>、、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、<a href="../Page/金元俊.md" title="wikilink">金元俊</a>、<a href="../Page/李勳.md" title="wikilink">李勳</a>、、<a href="../Page/李遐怡.md" title="wikilink">李遐怡</a></small></p></td>
 <td><p>"水流里起承轉Rock"－趙容周</p></td>
 <td><p>和你在一起</p></td>
 <td><p>鄭允昌</p></td>
@@ -846,7 +846,7 @@ Duo後，便會開始二人組合之間的最終競演。每隊的舞台完結�
 <td><p><a href="../Page/金泰宇.md" title="wikilink">金泰宇</a></p></td>
 <td><p>愛情雨<br />
 （사랑비）</p></td>
-<td><p><small>、、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、<a href="../Page/安信源.md" title="wikilink">安信源</a>、、<a href="https://zh.wikipedia.org/wiki/洪錫天" title="wikilink">洪錫天</a>、、、<a href="https://zh.wikipedia.org/wiki/喜悅Dana" title="wikilink">喜悅Dana</a></small></p></td>
+<td><p><small>、、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、<a href="../Page/安信源.md" title="wikilink">安信源</a>、、<a href="https://zh.wikipedia.org/wiki/洪錫天" title="wikilink">洪錫天</a>、、、<a href="../Page/喜悅Dana.md" title="wikilink">喜悅Dana</a></small></p></td>
 <td><p>"東大門孝子洪兒"－洪鎮勇</p></td>
 <td><p>愛你並記住你</p></td>
 <td><p>朴周賢</p></td>
@@ -957,7 +957,7 @@ Sea Of Love</p></td>
 </tr>
 <tr class="odd">
 <td><p>特別舞台</p></td>
-<td><p>&amp; <a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a></p></td>
+<td><p>&amp; <a href="../Page/張允瀞.md" title="wikilink">張允瀞</a></p></td>
 <td><p>心痛（가슴 아프게）</p></td>
 <td></td>
 <td></td>
@@ -968,10 +968,10 @@ Sea Of Love</p></td>
 <td><p><strong>13–14</strong><br />
 (2016年7月10日)<br />
 (2016年7月17日)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/楊姬銀" title="wikilink">楊姬銀</a></p></td>
+<td><p><a href="../Page/楊姬銀.md" title="wikilink">楊姬銀</a></p></td>
 <td><p>晨露<br />
 （아침이슬）</p></td>
-<td><p><small>、<a href="../Page/朴美善.md" title="wikilink">朴美善</a>、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、、<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>（<a href="https://zh.wikipedia.org/wiki/金柔廷" title="wikilink">金柔廷</a>、<a href="https://zh.wikipedia.org/wiki/率濱" title="wikilink">率濱</a>）、</small></p></td>
+<td><p><small>、<a href="../Page/朴美善.md" title="wikilink">朴美善</a>、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、、<a href="../Page/LABOUM.md" title="wikilink">LABOUM</a>（<a href="../Page/金柔廷.md" title="wikilink">金柔廷</a>、<a href="https://zh.wikipedia.org/wiki/率濱" title="wikilink">率濱</a>）、</small></p></td>
 <td><p>"舍堂洞雙酒窩"－林秀宗</p></td>
 <td><p>無法實現的愛情</p></td>
 <td><p>林秀宗</p></td>
@@ -1062,7 +1062,7 @@ Sea Of Love</p></td>
 </tr>
 <tr class="even">
 <td><p>特別舞台</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/楊姬銀" title="wikilink">楊姬銀</a> &amp; <a href="https://zh.wikipedia.org/wiki/樂童音樂家" title="wikilink">樂童音樂家</a></p></td>
+<td><p><a href="../Page/楊姬銀.md" title="wikilink">楊姬銀</a> &amp; <a href="https://zh.wikipedia.org/wiki/樂童音樂家" title="wikilink">樂童音樂家</a></p></td>
 <td><p>媽媽對女兒（엄마가 딸에게）</p></td>
 <td></td>
 <td></td>
@@ -1070,7 +1070,7 @@ Sea Of Love</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/楊姬銀" title="wikilink">楊姬銀</a> &amp; <a href="https://zh.wikipedia.org/wiki/金健模" title="wikilink">金健模</a> &amp; <a href="../Page/金泰宇.md" title="wikilink">金泰宇</a> &amp; <a href="../Page/SISTAR.md" title="wikilink">SISTAR</a></p></td>
+<td><p><a href="../Page/楊姬銀.md" title="wikilink">楊姬銀</a> &amp; <a href="https://zh.wikipedia.org/wiki/金健模" title="wikilink">金健模</a> &amp; <a href="../Page/金泰宇.md" title="wikilink">金泰宇</a> &amp; <a href="../Page/SISTAR.md" title="wikilink">SISTAR</a></p></td>
 <td><p>藉口（핑계）</p></td>
 <td></td>
 <td></td>
@@ -1085,7 +1085,7 @@ Sea Of Love</p></td>
 <td><p><a href="../Page/閔庚勳.md" title="wikilink">閔庚勳</a></p></td>
 <td><p>膽小鬼<br />
 （겁쟁이）</p></td>
-<td><p><small>、、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、<a href="https://zh.wikipedia.org/wiki/李秀英" title="wikilink">李秀英</a>、<a href="https://zh.wikipedia.org/wiki/洪京民" title="wikilink">洪京民</a>、<a href="../Page/權五重.md" title="wikilink">權五重</a>、</small></p></td>
+<td><p><small>、、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、<a href="https://zh.wikipedia.org/wiki/李秀英" title="wikilink">李秀英</a>、<a href="https://zh.wikipedia.org/wiki/洪京民" title="wikilink">洪京民</a>、<a href="../Page/權五重.md" title="wikilink">權五重</a>、</small></p></td>
 <td><p>"南楊州慶典王子"－尹載赫</p></td>
 <td><p>離開我的愛情</p></td>
 <td><p>朴鎮國</p></td>
@@ -1183,7 +1183,7 @@ Sea Of Love</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Gummy_(韓國歌手)" title="wikilink">Gummy</a></p></td>
 <td><p>大小孩<br />
 （어른아이）</p></td>
-<td><p><small>、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、<a href="../Page/文熙景.md" title="wikilink">文熙景</a>、、、、</small></p></td>
+<td><p><small>、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、<a href="../Page/文熙景.md" title="wikilink">文熙景</a>、、、、</small></p></td>
 <td><p>"Mr.洪振丹"－洪昇</p></td>
 <td><p>早知道做個朋友也好</p></td>
 <td><p>鄭昌勳</p></td>
@@ -1288,10 +1288,10 @@ Sea Of Love</p></td>
 <td><p><strong>19–20</strong><br />
 (2016年8月21日)<br />
 (2016年8月28日)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/盧士燕" title="wikilink">盧士燕</a></p></td>
+<td><p><a href="../Page/盧士燕.md" title="wikilink">盧士燕</a></p></td>
 <td><p>相遇<br />
 （만남）</p></td>
-<td><p><small>、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>、、、<a href="https://zh.wikipedia.org/wiki/梁世燦" title="wikilink">梁世燦</a></small></p></td>
+<td><p><small>、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>、、、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a></small></p></td>
 <td><p>"仁川梅花鹿獵手"－申星薰</p></td>
 <td><p>只有你</p></td>
 <td><p>孫正秀</p></td>
@@ -1389,7 +1389,7 @@ Sea Of Love</p></td>
 <td></td>
 <td><p>在歌唱的地方<br />
 （노래하는 곳에）</p></td>
-<td><p><small>、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、、、、<a href="https://zh.wikipedia.org/wiki/具本承" title="wikilink">具本承</a></small></p></td>
+<td><p><small>、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、、、、<a href="../Page/具本承.md" title="wikilink">具本承</a></small></p></td>
 <td><p>"快速送遞員"－沈勇善</p></td>
 <td><p>不復返</p></td>
 <td><p>沈勇善</p></td>
@@ -1489,7 +1489,7 @@ Sea Of Love</p></td>
 <td><p><a href="../Page/高耀太.md" title="wikilink">高耀太</a></p></td>
 <td><p>純情<br />
 （순정）</p></td>
-<td><p><small>、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、、、、</small></p></td>
+<td><p><small>、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、、、、</small></p></td>
 <td><p>"新入社員"－元周熙</p></td>
 <td><p>相遇</p></td>
 <td><p>元周熙</p></td>
@@ -1595,7 +1595,7 @@ Sea Of Love</p></td>
 <td><p><a href="../Page/Zion.T.md" title="wikilink">Zion.T</a></p></td>
 <td><p>拿出來吃吧<br />
 （꺼내 먹어요）</p></td>
-<td><p><small>、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、、<a href="https://zh.wikipedia.org/wiki/朴俊炯" title="wikilink">朴俊炯</a>、、<a href="../Page/Ladies&#39;_Code.md" title="wikilink">Ladies' Code</a>（主美、昭政）</small></p></td>
+<td><p><small>、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、、<a href="../Page/朴俊炯.md" title="wikilink">朴俊炯</a>、、<a href="../Page/Ladies&#39;_Code.md" title="wikilink">Ladies' Code</a>（主美、昭政）</small></p></td>
 <td><p>"KAIST小混混"－金智允</p></td>
 <td><p>Sponsor($ponsor)</p></td>
 <td><p>鄭允京</p></td>
@@ -1647,7 +1647,7 @@ Sea Of Love</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李文世" title="wikilink">李文世</a></p></td>
+<td><p><a href="../Page/李文世.md" title="wikilink">李文世</a></p></td>
 <td><p>當我站在樹蔭之下<br />
 （가로수 그늘아래 서면）</p></td>
 <td><p>"佛光洞請願警察"－金寶藍</p></td>
@@ -1688,7 +1688,7 @@ Sea Of Love</p></td>
 </tr>
 <tr class="even">
 <td><p>特別舞台</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李文世" title="wikilink">李文世</a> &amp; <a href="../Page/Zion.T.md" title="wikilink">Zion.T</a></p></td>
+<td><p><a href="../Page/李文世.md" title="wikilink">李文世</a> &amp; <a href="../Page/Zion.T.md" title="wikilink">Zion.T</a></p></td>
 <td><p>你還不知道<br />
 （난 아직 모르잖아요）</p></td>
 <td></td>
@@ -1703,7 +1703,7 @@ Sea Of Love</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a></p></td>
 <td><p>從今天起的第一天<br />
 （오늘부터 1일）</p></td>
-<td><p><small>、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、、、<a href="https://zh.wikipedia.org/wiki/梁世燦" title="wikilink">梁世燦</a>、</small></p></td>
+<td><p><small>、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/張允瀞.md" title="wikilink">張允瀞</a>、<a href="../Page/朴明洙.md" title="wikilink">朴明洙</a>、、、、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a>、</small></p></td>
 <td><p>"唱詩班蜜姐姐"－安智妍</p></td>
 <td><p>Love Blossom</p></td>
 <td><p>徐智秀</p></td>
@@ -1784,7 +1784,7 @@ Sea Of Love</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李文世" title="wikilink">李文世</a></p></td>
+<td><p><a href="../Page/李文世.md" title="wikilink">李文世</a></p></td>
 <td><p>不適用</p></td>
 <td><p>不適用</p></td>
 <td><p>金允熙</p></td>
@@ -1803,7 +1803,7 @@ Sea Of Love</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/李文世" title="wikilink">李文世</a> &amp; <a href="../Page/金慶皓.md" title="wikilink">金慶皓</a> &amp; <a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a></p></td>
+<td><p><a href="../Page/李文世.md" title="wikilink">李文世</a> &amp; <a href="../Page/金慶皓.md" title="wikilink">金慶皓</a> &amp; <a href="https://zh.wikipedia.org/wiki/K.Will" title="wikilink">K.Will</a></p></td>
 <td><p>無法預料的人生<br />
 （알 수 없는 인생）</p></td>
 <td></td>
@@ -1862,15 +1862,15 @@ Sea Of Love</p></td>
 <td><p>&amp;<br />
 方背洞醜小子－<a href="https://zh.wikipedia.org/wiki/金健模" title="wikilink">金健模</a></p></td>
 <td><p>59年 往十里（59년 왕십리）</p></td>
-<td><p>&amp; <a href="https://zh.wikipedia.org/wiki/楊姬銀" title="wikilink">楊姬銀</a></p></td>
+<td><p>&amp; <a href="../Page/楊姬銀.md" title="wikilink">楊姬銀</a></p></td>
 <td><p>常青樹（상록수）</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張允瀞" title="wikilink">張允瀞</a> &amp;<br />
+<td><p><a href="../Page/張允瀞.md" title="wikilink">張允瀞</a> &amp;<br />
 安東市內明星－孫正秀</p></td>
 <td><p>招魂 II（초혼 II）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/楊姬銀" title="wikilink">楊姬銀</a> &amp;<br />
+<td><p><a href="../Page/楊姬銀.md" title="wikilink">楊姬銀</a> &amp;<br />
 閣樓揚聲器－桂敏雅</p></td>
 <td><p>悲傷現在再見（슬픔 이젠 안녕）</p></td>
 </tr>
@@ -2017,7 +2017,7 @@ Maria </p></td>
 <tr class="even">
 <td><p>9</p></td>
 <td><p>27–28</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李文世" title="wikilink">李文世</a></p></td>
+<td><p><a href="../Page/李文世.md" title="wikilink">李文世</a></p></td>
 <td><p>元一中波斯菊－金允熙</p></td>
 <td><p>295</p></td>
 </tr>

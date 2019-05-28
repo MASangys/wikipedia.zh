@@ -193,10 +193,10 @@ WIN的正夏](https://zh.wikipedia.org/wiki/BEAT_WIN "wikilink")、[DIA的主恩
 <tr class="odd">
 <td><p>6月30日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Idol_Room" title="wikilink">Idol Room</a>》</p></td>
+<td><p>《<a href="../Page/Idol_Room.md" title="wikilink">Idol Room</a>》</p></td>
 <td><p>全體</p></td>
 <td><p>EP.8 (6月12日錄製)<br />
-與<a href="https://zh.wikipedia.org/wiki/UNI.T" title="wikilink">UNI.T</a></p></td>
+與<a href="../Page/UNI.T.md" title="wikilink">UNI.T</a></p></td>
 </tr>
 <tr class="even">
 <td><p>11月23日-</p></td>
@@ -219,12 +219,12 @@ WIN的正夏](https://zh.wikipedia.org/wiki/BEAT_WIN "wikilink")、[DIA的主恩
 
 ### 演唱會
 
-| 年份    | 日期          | 活動名稱                                    | 地點                           | 備註                                                                  |
-| ----- | ----------- | --------------------------------------- | ---------------------------- | ------------------------------------------------------------------- |
-| 2018年 | 7月1日        | 2018 UNB Fan-Con: LET'S BEGIN, UNME     | 韓國首爾，YES 24 Live Hall        | 此為[UNB在韓國第一次舉行的單獨演唱會](https://zh.wikipedia.org/wiki/UNB "wikilink") |
-| 2018年 | 7月6日、7月8日   | 2018 UNB JAPAN 1st CONCERT              | 東京豊洲PIT，大阪Zepp Osaka Bayside | 共四場                                                                 |
-| 2018年 | 9月22日、9月28日 | 2018 UNB JAPAN 2nd CONCERT              | 大阪堂島リバーフォーラム，東京豊洲PIT         | 共四場                                                                 |
-| 2019年 | 1月25日、27日   | UNB JAPAN FINAL CONCERT \~THANKS UNME\~ | 大阪なんばHatch, 千葉舞浜アンフィシアター     | 共四場                                                                 |
+| 年份    | 日期          | 活動名稱                                    | 地點                           | 備註                                               |
+| ----- | ----------- | --------------------------------------- | ---------------------------- | ------------------------------------------------ |
+| 2018年 | 7月1日        | 2018 UNB Fan-Con: LET'S BEGIN, UNME     | 韓國首爾，YES 24 Live Hall        | 此為[UNB在韓國第一次舉行的單獨演唱會](../Page/UNB.md "wikilink") |
+| 2018年 | 7月6日、7月8日   | 2018 UNB JAPAN 1st CONCERT              | 東京豊洲PIT，大阪Zepp Osaka Bayside | 共四場                                              |
+| 2018年 | 9月22日、9月28日 | 2018 UNB JAPAN 2nd CONCERT              | 大阪堂島リバーフォーラム，東京豊洲PIT         | 共四場                                              |
+| 2019年 | 1月25日、27日   | UNB JAPAN FINAL CONCERT \~THANKS UNME\~ | 大阪なんばHatch, 千葉舞浜アンフィシアター     | 共四場                                              |
 
 ### 粉絲見面會
 

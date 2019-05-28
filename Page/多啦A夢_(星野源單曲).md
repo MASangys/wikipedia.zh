@@ -1,5 +1,5 @@
 《**多啦A夢**》（）是日本[唱作歌手](https://zh.wikipedia.org/wiki/唱作歌手 "wikilink")[星野源的第](../Page/星野源.md "wikilink")11首單曲，由[SPEEDSTAR
-RECORDS在](https://zh.wikipedia.org/wiki/SPEEDSTAR_RECORDS "wikilink")[2018年](../Page/2018年.md "wikilink")[2月28日发行](../Page/2月28日.md "wikilink")\[1\]，单曲A面曲是[同名動漫的電影](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")《[大雄的金銀島](https://zh.wikipedia.org/wiki/大雄的金銀島 "wikilink")》的主題曲\[2\]。
+RECORDS在](../Page/SPEEDSTAR_RECORDS.md "wikilink")[2018年](../Page/2018年.md "wikilink")[2月28日发行](../Page/2月28日.md "wikilink")\[1\]，单曲A面曲是[同名動漫的電影](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")《[大雄的金銀島](https://zh.wikipedia.org/wiki/大雄的金銀島 "wikilink")》的主題曲\[2\]。
 
 ## 背景
 

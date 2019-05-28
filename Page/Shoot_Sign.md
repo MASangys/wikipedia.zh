@@ -184,7 +184,7 @@ E則收錄了與坂道系列（[乃木坂46及](https://zh.wikipedia.org/wiki/�
     B：[加藤玲奈](https://zh.wikipedia.org/wiki/加藤玲奈 "wikilink")、[木崎由里亞](../Page/木崎由里亞.md "wikilink")、[渡辺麻友](https://zh.wikipedia.org/wiki/渡辺麻友 "wikilink")
   - Team B / NGT48 Team NIII：[柏木由紀](../Page/柏木由紀.md "wikilink")
   - Team
-    4：[岡田奈奈](../Page/岡田奈奈_\(AKB48\).md "wikilink")、[川本紗矢](https://zh.wikipedia.org/wiki/川本紗矢 "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")
+    4：[岡田奈奈](../Page/岡田奈奈_\(AKB48\).md "wikilink")、[川本紗矢](../Page/川本紗矢.md "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[高橋朱里](../Page/高橋朱里.md "wikilink")
   - Team 8：[小栗有以](../Page/小栗有以.md "wikilink")、大西桃香
   - SKE48 Team S：[松井珠理奈](../Page/松井珠理奈.md "wikilink")
   - SKE48 Team
@@ -195,7 +195,7 @@ E則收錄了與坂道系列（[乃木坂46及](https://zh.wikipedia.org/wiki/�
   - HKT48 Team H：[指原莉乃](../Page/指原莉乃.md "wikilink")
   - HKT48 Team TII：[松岡花](../Page/松岡花.md "wikilink")
   - NGT48 Team
-    NIII：[北原里英](../Page/北原里英.md "wikilink")、[中井莉加](https://zh.wikipedia.org/wiki/中井莉加 "wikilink")
+    NIII：[北原里英](../Page/北原里英.md "wikilink")、[中井莉加](../Page/中井莉加.md "wikilink")
 
 ### 悄悄的…
 
@@ -210,7 +210,7 @@ E則收錄了與坂道系列（[乃木坂46及](https://zh.wikipedia.org/wiki/�
   - Team 4 / SKE48 Team S：[北川綾巴](../Page/北川綾巴.md "wikilink")
   - SKE48 Team S：二村春香、松井珠理奈
   - SKE48 Team
-    KII：[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[小畑優奈](https://zh.wikipedia.org/wiki/小畑優奈 "wikilink")、[惣田紗莉渚](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[竹内彩姫](https://zh.wikipedia.org/wiki/竹内彩姫 "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[松村香織](../Page/松村香織.md "wikilink")
+    KII：[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[小畑優奈](../Page/小畑優奈.md "wikilink")、[惣田紗莉渚](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[竹内彩姫](https://zh.wikipedia.org/wiki/竹内彩姫 "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[松村香織](../Page/松村香織.md "wikilink")
   - SKE48 Team
     E：[木本花音](../Page/木本花音.md "wikilink")、熊崎晴香、[後藤乐乐](https://zh.wikipedia.org/wiki/後藤乐乐 "wikilink")、斉藤真木子、菅原茉椰、[須田亜香里](https://zh.wikipedia.org/wiki/須田亜香里 "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")
 
@@ -228,7 +228,7 @@ E則收錄了與坂道系列（[乃木坂46及](https://zh.wikipedia.org/wiki/�
   - NMB48 Team
     M：[加藤夕夏](https://zh.wikipedia.org/wiki/加藤夕夏 "wikilink")、[木下百花](../Page/木下百花.md "wikilink")、[吉田朱里](../Page/吉田朱里.md "wikilink")
   - NMB48 Team
-    BII：植村梓、[太田夢莉](https://zh.wikipedia.org/wiki/太田夢莉 "wikilink")、沖田彩華、[藤江丽奈](https://zh.wikipedia.org/wiki/藤江丽奈 "wikilink")、村瀬紗英、[矢倉楓子](../Page/矢倉楓子.md "wikilink")
+    BII：植村梓、[太田夢莉](../Page/太田夢莉.md "wikilink")、沖田彩華、[藤江丽奈](https://zh.wikipedia.org/wiki/藤江丽奈 "wikilink")、村瀬紗英、[矢倉楓子](../Page/矢倉楓子.md "wikilink")
 
 ### 轉不停的摩天輪
 
@@ -238,8 +238,7 @@ E則收錄了與坂道系列（[乃木坂46及](https://zh.wikipedia.org/wiki/�
 
   - Team A / HKT48 Team KIV：[宮脇咲良](../Page/宮脇咲良.md "wikilink")
   - Team K / HKT48 Team H：兒玉遥
-  - Team B / HKT48 Team
-    H：[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")
+  - Team B / HKT48 Team H：[矢吹奈子](../Page/矢吹奈子.md "wikilink")
   - Team 4 / HKT48 Team
     KIV：[朝長美桜](https://zh.wikipedia.org/wiki/朝長美桜 "wikilink")
   - HKT48 Team
@@ -259,9 +258,9 @@ E則收錄了與坂道系列（[乃木坂46及](https://zh.wikipedia.org/wiki/�
     A：[谷口惠](../Page/谷口惠.md "wikilink")、[樋渡結依](../Page/樋渡結依.md "wikilink")
   - Team K：[向井地美音](../Page/向井地美音.md "wikilink")
   - Team
-    B：加藤玲奈、[後藤萌咲](https://zh.wikipedia.org/wiki/後藤萌咲 "wikilink")、[福岡聖菜](../Page/福岡聖菜.md "wikilink")
+    B：加藤玲奈、[後藤萌咲](../Page/後藤萌咲.md "wikilink")、[福岡聖菜](../Page/福岡聖菜.md "wikilink")
   - Team
-    4：岡田奈奈、[川本紗矢](https://zh.wikipedia.org/wiki/川本紗矢 "wikilink")、小嶋真子、込山榛香、高橋朱里、[村山彩希](../Page/村山彩希.md "wikilink")
+    4：岡田奈奈、[川本紗矢](../Page/川本紗矢.md "wikilink")、小嶋真子、込山榛香、高橋朱里、[村山彩希](../Page/村山彩希.md "wikilink")
   - Team 8：[小栗有以](../Page/小栗有以.md "wikilink")、倉野尾成美、佐藤七海
   - Team 8 / Team B：坂口渚沙
   - 研究生：久保怜音、千葉恵里
@@ -274,7 +273,7 @@ E則收錄了與坂道系列（[乃木坂46及](https://zh.wikipedia.org/wiki/�
 
   - Team B / NGT48 Team NIII：柏木由紀
   - NGT48 Team
-    NIII：[荻野由佳](../Page/荻野由佳.md "wikilink")、小熊倫実、[加藤美南](../Page/加藤美南.md "wikilink")、北原里英、佐藤杏樹、菅原里子、高倉萌香、太野彩香、中井莉加、[西潟茉莉奈](../Page/西潟茉莉奈.md "wikilink")、長谷川玲奈、[本間日陽](https://zh.wikipedia.org/wiki/本間日陽 "wikilink")、村雲颯香、山口真帆、山田野絵
+    NIII：[荻野由佳](../Page/荻野由佳.md "wikilink")、小熊倫実、[加藤美南](../Page/加藤美南.md "wikilink")、北原里英、佐藤杏樹、菅原里子、高倉萌香、太野彩香、中井莉加、[西潟茉莉奈](../Page/西潟茉莉奈.md "wikilink")、長谷川玲奈、[本間日陽](../Page/本間日陽.md "wikilink")、村雲颯香、山口真帆、山田野絵
   - NGT48研究生：大滝友梨亚、角尤利娅、日下部愛菜、清司麗菜、髙橋真生、中村歩加、奈良未遥、西村菜那子、水澤彩佳、[宮島亚弥](https://zh.wikipedia.org/wiki/宮島亚弥 "wikilink")
 
 ### 你最愛的 是誰？

@@ -36,10 +36,10 @@ CEO[杰米斯·哈萨比斯声明确认Master就是升级版AlphaGo](../Page/杰
 Zero，这是一个没有用到人类数据的版本，比以前任何击败人类的版本都要强大。\[27\] 通过跟自己对战，AlphaGo
 Zero经过3天的学习，以100:0的成绩超越了[AlphaGo
 Lee的实力](../Page/AlphaGo李世乭五番棋.md "wikilink")，21天后达到了[AlphaGo
-Master的水平](https://zh.wikipedia.org/wiki/Master_\(围棋软件\) "wikilink")，并在40天内超过了所有之前的版本。\[28\]
+Master的水平](../Page/Master_\(围棋软件\).md "wikilink")，并在40天内超过了所有之前的版本。\[28\]
 
 2018年12月7日，DeepMind在《[科学](../Page/科学_\(期刊\).md "wikilink")》期刊上发表关于AlphaZero的论文，AlphaZero使用與[AlphaGo
-Zero類似但更一般性的演算法](https://zh.wikipedia.org/wiki/AlphaGo_Zero "wikilink")，在不做太多改變的前提下，並將演算法從[圍棋延伸到](https://zh.wikipedia.org/wiki/圍棋 "wikilink")[将棋與](../Page/将棋_\(日本\).md "wikilink")[國際象棋上](https://zh.wikipedia.org/wiki/國際象棋 "wikilink")。
+Zero類似但更一般性的演算法](../Page/AlphaGo_Zero.md "wikilink")，在不做太多改變的前提下，並將演算法從[圍棋延伸到](https://zh.wikipedia.org/wiki/圍棋 "wikilink")[将棋與](../Page/将棋_\(日本\).md "wikilink")[國際象棋上](https://zh.wikipedia.org/wiki/國際象棋 "wikilink")。
 
 2019年1月25日，DeepMind人工智慧AlphaStar在《[星海爭霸II](https://zh.wikipedia.org/wiki/星海爭霸II "wikilink")》以10：1戰勝人類職業玩家。\[29\]
 

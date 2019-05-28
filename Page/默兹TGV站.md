@@ -29,7 +29,7 @@ Sacrée）后缀指的是车站东侧连接[巴勒迪克和](https://zh.wikipedi
 <td style="text-align: center;"><p><a href="../Page/巴黎东站.md" title="wikilink">巴黎</a>—<a href="../Page/梅斯城站.md" title="wikilink">梅斯</a>/<a href="https://zh.wikipedia.org/wiki/卢森堡车站" title="wikilink">卢森堡</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="../Page/巴黎东站.md" title="wikilink">巴黎</a>—<a href="../Page/南锡城站.md" title="wikilink">南锡</a>/<a href="https://zh.wikipedia.org/wiki/孚日圣迪耶站" title="wikilink">圣迪耶</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/巴黎东站.md" title="wikilink">巴黎</a>—<a href="../Page/南锡城站.md" title="wikilink">南锡</a>/<a href="../Page/孚日圣迪耶站.md" title="wikilink">圣迪耶</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><a href="../Page/巴黎东站.md" title="wikilink">巴黎</a>—<a href="../Page/斯特拉斯堡城站.md" title="wikilink">斯特拉斯堡</a></p></td>

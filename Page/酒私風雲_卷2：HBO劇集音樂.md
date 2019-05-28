@@ -19,7 +19,7 @@
 13. 《》，表演者：和the Nighthawks
 14. 《Jimbo
     Jambo》，表演者：[洛福斯·溫萊特](https://zh.wikipedia.org/wiki/洛福斯·溫萊特 "wikilink")
-15. 《》，表演者：[凱西·布瑞爾](https://zh.wikipedia.org/wiki/凱西·布瑞爾 "wikilink")
+15. 《》，表演者：[凱西·布瑞爾](../Page/凱西·布瑞爾.md "wikilink")
 16. 《》，表演者：[瑪歌·冰咸](../Page/瑪歌·冰咸.md "wikilink")
 17. 《》，表演者：Chaim Tannenbaum
 18. 《》，表演者：

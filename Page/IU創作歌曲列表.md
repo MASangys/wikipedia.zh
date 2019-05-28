@@ -1,7 +1,7 @@
 **李知恩**（；），藝名**IU**（
 ），[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[创作歌手](../Page/創作歌手.md "wikilink")、[女演员](https://zh.wikipedia.org/wiki/女演员 "wikilink")。
 
-## [韓國音樂著作權協會](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
+## [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
 
 | 姓名 | 登記名字       | 登記編號     | 參與歌曲列表 |
 | -- | ---------- | -------- | ------ |
@@ -38,11 +38,11 @@
 <tr class="even">
 <td><p>2011</p></td>
 <td><p><a href="../Page/Last_Fantasy.md" title="wikilink">Last Fantasy</a></p></td>
-<td><p>叔叔 (삼촌) (featuring <a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛</a>)</p></td>
+<td><p>叔叔 (삼촌) (featuring <a href="../Page/李笛.md" title="wikilink">李笛</a>)</p></td>
 <td></td>
 <td><p>✓</p></td>
 <td></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛共同作詞</a></p></td>
+<td><p>與<a href="../Page/李笛.md" title="wikilink">李笛共同作詞</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

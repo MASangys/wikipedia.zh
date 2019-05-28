@@ -10,7 +10,7 @@
   - 0.1% [SDS](../Page/十二烷基硫酸钠.md "wikilink")（可选）
   - 0.5%的 脱氧胆酸钠
   - 1％的Triton X-100或 NP-40
-  - [蛋白酶抑制剂](https://zh.wikipedia.org/wiki/蛋白酶 "wikilink")，例如[苯甲基磺酰氟](https://zh.wikipedia.org/wiki/苯甲基磺酰氟 "wikilink")（PMSF）或其它蛋白酶抑制剂（根据试剂商提供的说明使用）。
+  - [蛋白酶抑制剂](https://zh.wikipedia.org/wiki/蛋白酶 "wikilink")，例如[苯甲基磺酰氟](../Page/苯甲基磺酰氟.md "wikilink")（PMSF）或其它蛋白酶抑制剂（根据试剂商提供的说明使用）。
 
 ## 参考文献
 

@@ -8,7 +8,7 @@ Die》，2014年9月发布第二张录音室专辑《In
 Return》。\[2\]\[3\]\[4\]匈牙利电子乐手重新混音的Odesza与Zyra合作的曲目《Say
 My
 Name》在[第58届格莱美奖被提名为](../Page/第58届格莱美奖.md "wikilink")“最佳非古典重混制作”。\[5\]在电子游戏《[极限竞速
-地平线3](https://zh.wikipedia.org/wiki/极限竞速_地平线3 "wikilink")》中，他们的《Say My
+地平线3](../Page/极限竞速_地平线3.md "wikilink")》中，他们的《Say My
 Name》被收录进游戏中的虚拟电台“Horizon Pulse”。\[6\]
 
 ## 乐队由来

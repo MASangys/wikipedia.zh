@@ -384,8 +384,7 @@ int _cdecl main(int argc, char** argv)
 
   - [Berkeley
     sockets](https://zh.wikipedia.org/wiki/Berkeley_sockets "wikilink")
-  - [分层服务提供者](https://zh.wikipedia.org/wiki/分层服务提供者 "wikilink") (Winsock
-    LSP)
+  - [分层服务提供者](../Page/分层服务提供者.md "wikilink") (Winsock LSP)
 
 ## 参考文献
 

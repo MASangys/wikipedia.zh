@@ -85,7 +85,7 @@ E](../Page/San_E.md "wikilink")）：**
 
   - ，Rapper老手，曾与[Dok2组成Hiphop组合ALL](../Page/Dok2.md "wikilink") BLACK
 
-  - [Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")，[Phantom成员](https://zh.wikipedia.org/wiki/Phantom_\(韓國組合\) "wikilink")，隶属[Brand
+  - [Hanhae](https://zh.wikipedia.org/wiki/Hanhae "wikilink")，[Phantom成员](../Page/Phantom_\(韓國組合\).md "wikilink")，隶属[Brand
     New
     Music及](../Page/Brand_New_Music.md "wikilink")[RBW旗下](../Page/Rainbow_Bridge_World.md "wikilink")
 
@@ -178,7 +178,7 @@ Dogg作为特别制作人担任此轮的评审](../Page/史努比狗狗.md "wiki
 | 制作人团队                                                                                      | 演唱者                                                             | 歌曲           |
 | ------------------------------------------------------------------------------------------ | --------------------------------------------------------------- | ------------ |
 | Brand New队                                                                                 | San E                                                           | 想要成功         |
-| San E、、[C Jamm](https://zh.wikipedia.org/wiki/C_Jamm "wikilink")                           | $$o Dope                                                        |              |
+| San E、、[C Jamm](../Page/C_Jamm.md "wikilink")                                              | $$o Dope                                                        |              |
 | Verbal Jint                                                                                | 1219 Epiphany                                                   |              |
 | 租房者flow                                                                                    |                                                                 |              |
 | Verbal Jint、San E                                                                          | 半岛的普通Rapper                                                     |              |
@@ -392,7 +392,7 @@ New队则得到了5人的选择。此轮将产生16强Rapper。
 <td><p><a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink"><strong>MINO</strong></a> - 怯<br />
 <small> (Feat. <a href="../Page/太陽_(歌手).md" title="wikilink">太阳</a>)</small></p></td>
 <td><p><strong></strong> - 我能做的<br />
-<small> (Feat. <a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a>)</small></p></td>
+<small> (Feat. <a href="../Page/Jessi.md" title="wikilink">Jessi</a>)</small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -735,7 +735,7 @@ Rap而闻名](../Page/即興饒舌.md "wikilink")）、（SMTM3参赛者）
 </tr>
 <tr class="odd">
 <td><p>我能做的</p></td>
-<td><p>(feat. <a href="https://zh.wikipedia.org/wiki/Jessi" title="wikilink">Jessi</a>)</p></td>
+<td><p>(feat. <a href="../Page/Jessi.md" title="wikilink">Jessi</a>)</p></td>
 <td><p>12</p></td>
 <td><ul>
 <li>KOR: 292,148+<ref>我能做的（내가 할 수 있는 건）累计销量：</li>

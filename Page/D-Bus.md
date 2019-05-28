@@ -80,7 +80,7 @@ D-Bus最初用于桌面環境，后来使用範圍逐漸扩展，包含的系統
     COM](https://zh.wikipedia.org/wiki/Distributed_COM "wikilink")
   - [Java远程方法调用](https://zh.wikipedia.org/wiki/Java远程方法调用 "wikilink")
   - [遠程過程調用](../Page/遠程過程調用.md "wikilink")
-  - [XPCOM](https://zh.wikipedia.org/wiki/XPCOM "wikilink")
+  - [XPCOM](../Page/XPCOM.md "wikilink")
 
 ## 參考資料
 

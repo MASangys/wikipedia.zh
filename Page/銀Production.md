@@ -2,7 +2,7 @@
 
 ## 概要
 
-有限公司銀Production的前身是「**劇團銀Production**」。1992年4月，由[青二Production出身的](../Page/青二製作.md "wikilink")[聲優](../Page/聲優.md "wikilink")[松尾銀三自行就任](../Page/松尾銀三.md "wikilink")[執行董事](https://zh.wikipedia.org/wiki/執行董事 "wikilink")，與同樣為聲優的，在[東京都](../Page/東京都.md "wikilink")[世田谷區](../Page/世田谷區.md "wikilink")[代田成立](https://zh.wikipedia.org/wiki/代田_\(世田谷區\) "wikilink")。1997年登記成為現在的有限公司。2001年松尾因病去世，由世田接任至今\[1\]。
+有限公司銀Production的前身是「**劇團銀Production**」。1992年4月，由[青二Production出身的](../Page/青二製作.md "wikilink")[聲優](../Page/聲優.md "wikilink")[松尾銀三自行就任](../Page/松尾銀三.md "wikilink")[執行董事](https://zh.wikipedia.org/wiki/執行董事 "wikilink")，與同樣為聲優的，在[東京都](../Page/東京都.md "wikilink")[世田谷區](../Page/世田谷區.md "wikilink")[代田成立](../Page/代田_\(世田谷區\).md "wikilink")。1997年登記成為現在的有限公司。2001年松尾因病去世，由世田接任至今\[1\]。
 
 ## 所属演員、聲優
 
@@ -182,7 +182,7 @@
 
 ### 男性
 
-  - [大竹宏](https://zh.wikipedia.org/wiki/大竹宏 "wikilink")（現所屬：[81
+  - [大竹宏](../Page/大竹宏.md "wikilink")（現所屬：[81
     Produce](../Page/81_Produce.md "wikilink")）
 
   - （現所屬：81 Produce）

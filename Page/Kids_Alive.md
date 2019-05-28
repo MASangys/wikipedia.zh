@@ -11,7 +11,7 @@ ALIVE**」表示。
     Alive的所有成員都是高中在校生，並將活動地點野從北海道轉移至東京。後同名單曲被選為[富士電視台的音樂節目](../Page/富士電視台.md "wikilink")《[HEY！HEY！HEY！MUSIC
     CHAMP](../Page/HEY!HEY!HEY!MUSIC_CHAMP.md "wikilink")》使用。
   - 2001年11月，Kids
-    Alive的第4張單曲《[我們的冒險](https://zh.wikipedia.org/wiki/我們的冒險 "wikilink")（）》由於發售之後獲得熱烈迴響，因此創下Oricon攀登第30名的最高排名紀錄，而且被[東京電視網](../Page/東京電視網.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《**[棋魂](https://zh.wikipedia.org/wiki/棋魂 "wikilink")**》當片尾主題曲使用而廣為人知。
+    Alive的第4張單曲《[我們的冒險](../Page/我們的冒險.md "wikilink")（）》由於發售之後獲得熱烈迴響，因此創下Oricon攀登第30名的最高排名紀錄，而且被[東京電視網](../Page/東京電視網.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《**[棋魂](https://zh.wikipedia.org/wiki/棋魂 "wikilink")**》當片尾主題曲使用而廣為人知。
   - 2002年，Kids Alive的唯一專輯《3 Colors Infinity》發行。
   - 2003年，Kids Alive的最後一張單曲《二人的季節 ～North Point～（）》發售之後，從此休止音樂活動。
 
@@ -111,7 +111,7 @@ ALIVE**」表示。
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我們的冒險" title="wikilink">我們的冒險</a><br />
+<td><p><a href="../Page/我們的冒險.md" title="wikilink">我們的冒險</a><br />
 （）</p></td>
 <td><p>2001年11月14日</p></td>
 <td><ol>

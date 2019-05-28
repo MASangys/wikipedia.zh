@@ -2,7 +2,7 @@
 Games开发的](../Page/Firaxis_Games.md "wikilink")[回合策略游戏](https://zh.wikipedia.org/wiki/回合策略游戏 "wikilink")，是[文明系列的最新作品](../Page/文明系列.md "wikilink")，同时是庆祝该系列25周年的作品\[1\]。游戏对应[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
 OS
-X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux平台](../Page/Linux.md "wikilink")，于2016年10月21日在全球发行。2017年12月21日登陆iOS平台（最初只支持iPad，2018年10月6日开始支持iPhone）；2018年11月16日登陆[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")\[2\]。
+X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux平台](../Page/Linux.md "wikilink")，于2016年10月21日在全球发行。2017年12月21日登陆iOS平台（最初只支持iPad，2018年10月6日开始支持iPhone）；2018年11月16日登陆[任天堂Switch](../Page/任天堂Switch.md "wikilink")\[2\]。
 
 ## 游戏概况
 
@@ -241,7 +241,7 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 <td><p>王室寺院</p></td>
 <td><p>人工大湖</p></td>
 <td><p>高棉战象</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/十二塔庙" title="wikilink">高棉佛堂</a></p></td>
+<td><p><a href="../Page/十二塔庙.md" title="wikilink">高棉佛堂</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/印尼" title="wikilink">印尼</a></p></td>
@@ -305,7 +305,7 @@ Beach指出这一变化是为了令玩家脱离自动地跟随科技树所提供
 <td><p><a href="../Page/善德女王.md" title="wikilink">善德女王</a></p></td>
 <td><p><a href="../Page/花郎.md" title="wikilink">花郎</a></p></td>
 <td><p><a href="../Page/朝鲜三国时代.md" title="wikilink">三国时代</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/火车_(武器)" title="wikilink">火车</a></p></td>
+<td><p><a href="../Page/火车_(武器).md" title="wikilink">火车</a></p></td>
 <td><p>書院</p></td>
 </tr>
 <tr class="even">

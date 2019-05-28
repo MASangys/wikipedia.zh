@@ -22,8 +22,7 @@ One**》是由[FC03於](../Page/F&C.md "wikilink")2003年9月26日發售的[戀�
 
 ## 相關條目
 
-  - [Natural2
-    -DUO-](https://zh.wikipedia.org/wiki/Natural2_-DUO- "wikilink")
+  - [Natural2 -DUO-](../Page/Natural2_-DUO-.md "wikilink")
   - [Natural Another One 2nd
     -Belladonna-](../Page/Natural_Another_One_2nd_-Belladonna-.md "wikilink")
 

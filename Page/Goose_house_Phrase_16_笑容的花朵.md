@@ -4,7 +4,7 @@ house的第](https://zh.wikipedia.org/wiki/Goose_house "wikilink")6張[單曲](h
 ## 概要
 
   - 自《[Goose house Phrase \#14
-    屬於我們的自我](https://zh.wikipedia.org/wiki/Goose_house_Phrase_14_屬於我們的自我 "wikilink")》以來，時隔約10個月發行的單曲。
+    屬於我們的自我](../Page/Goose_house_Phrase_14_屬於我們的自我.md "wikilink")》以來，時隔約10個月發行的單曲。
 
   - 前成員竹澤汀畢業後，Goose house以六人體制所發表的第一張單曲\[3\]\[4\]。
 

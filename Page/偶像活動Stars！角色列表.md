@@ -114,7 +114,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[村上奈津實](https://zh.wikipedia.org/wiki/村上奈津實 "wikilink")（聲）、（歌）／台：[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")
+    配音員：日：[村上奈津實](../Page/村上奈津實.md "wikilink")（聲）、（歌）／台：[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")
     9月25日出生，[天秤座](../Page/天秤座.md "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
     街機1彈登場玩家。
     常用品牌：**Shiny Smile**→**Fuwa Fuwa Dream**。
@@ -141,7 +141,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[宮本侑芽](https://zh.wikipedia.org/wiki/宮本侑芽 "wikilink")（聲）、星咲花那（歌）／台：連思宇
+    配音員：日：[宮本侑芽](../Page/宮本侑芽.md "wikilink")（聲）、星咲花那（歌）／台：連思宇
     10月28日出生，[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，血型[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")。
     街機2彈登場玩家。
     常用品牌：**Romance Kiss**。
@@ -324,7 +324,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[江口菜子](https://zh.wikipedia.org/wiki/江口菜子 "wikilink")（聲）、天音美穗（歌）／台：連思宇
+    配音員：日：[江口菜子](../Page/江口菜子.md "wikilink")（聲）、天音美穗（歌）／台：連思宇
     3月30日出生，[牡羊座](https://zh.wikipedia.org/wiki/牡羊座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。
     街機星之翼1彈登場玩家。
     常用品牌：**Fuwa Fuwa Dream**。
@@ -361,7 +361,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[前田佳織里](https://zh.wikipedia.org/wiki/前田佳織里 "wikilink")（聲）、遠藤瑠香（歌）／台：連婉鈞
+    配音員：日：[前田佳織里](../Page/前田佳織里.md "wikilink")（聲）、遠藤瑠香（歌）／台：連婉鈞
     12月24日出生，[魔羯座](https://zh.wikipedia.org/wiki/魔羯座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。
     街機星之翼4彈登場玩家。
     常用品牌：**My Little Heart**。
@@ -403,7 +403,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[古賀葵](https://zh.wikipedia.org/wiki/古賀葵 "wikilink")／台：劉如蘋
+    配音員：日：[古賀葵](../Page/古賀葵.md "wikilink")／台：劉如蘋
 
 <!-- end list -->
 
@@ -414,14 +414,14 @@
 <!-- end list -->
 
   -
-    配音員：日：[澤田美晴](https://zh.wikipedia.org/wiki/澤田美晴 "wikilink")（聲）／台：石-{采}-薇
+    配音員：日：[澤田美晴](../Page/澤田美晴.md "wikilink")（聲）／台：石-{采}-薇
     第1部時就讀中學二年級，屬風之舞組的幹部之一。
     與美紀負責捕捉常常到處亂跑的柚子，在必要時會以追擊炮射出捕網。
 
 <!-- end list -->
 
   -
-    配音員：日：[中惠光城](https://zh.wikipedia.org/wiki/中惠光城 "wikilink")（聲）／台：連婉鈞
+    配音員：日：[中惠光城](../Page/中惠光城.md "wikilink")（聲）／台：連婉鈞
     第1部時就讀中學二年級，學園執行會之一，屬鳥之劇組。
 
 <!-- end list -->
@@ -531,7 +531,7 @@
 ## 維納斯方舟（Venus Ark）
 
   -
-    配音員：日：[田中貴子](https://zh.wikipedia.org/wiki/田中貴子_\(聲優\) "wikilink")（聲）／台：石-{采}-薇
+    配音員：日：[田中貴子](../Page/田中貴子_\(聲優\).md "wikilink")（聲）／台：石-{采}-薇
     第2部時就讀中學一年級，後來就讀花之歌組，來自法國。
     曾經是維納斯方舟的學生，於第71話表示已轉至四星學園。
     第97話時決定復學「Neo・維納斯方舟」。
@@ -539,7 +539,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[古賀葵](https://zh.wikipedia.org/wiki/古賀葵 "wikilink")／台：連思宇
+    配音員：日：[古賀葵](../Page/古賀葵.md "wikilink")／台：連思宇
     街機3彈登場NPC、星之翼4彈登場玩家。
     第1部時就讀中學二年級，學園會成員之一，屬花之歌組，會進行「有莉的Dress Make講座」。
     第97話時入學「Neo・維納斯方舟」。
@@ -569,18 +569,18 @@
 <!-- end list -->
 
   -
-    配音員：日：[長谷川育美](https://zh.wikipedia.org/wiki/長谷川育美 "wikilink")／台：連婉鈞
+    配音員：日：[長谷川育美](../Page/長谷川育美.md "wikilink")／台：連婉鈞
 
 <!-- end list -->
 
   -
-    配音員：日：[南早紀](https://zh.wikipedia.org/wiki/南早紀 "wikilink")／台：石-{采}-薇
+    配音員：日：[南早紀](../Page/南早紀.md "wikilink")／台：石-{采}-薇
     以上3人皆在第34話登場。從上到下的順序假名為蘇珊、莫妮卡、艾咪。曾到四星學園找香澄真晝踢館，後來成為真晝的粉絲。
 
 <!-- end list -->
 
   -
-    配音員：日：[北原沙彌香](https://zh.wikipedia.org/wiki/北原沙彌香 "wikilink")／台：石-{采}-薇
+    配音員：日：[北原沙彌香](../Page/北原沙彌香.md "wikilink")／台：石-{采}-薇
     第39話登場。陽光學園的學生。
 
 ## 藝能工作者
@@ -676,7 +676,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[井上雄貴](https://zh.wikipedia.org/wiki/井上雄貴 "wikilink")／台：
+    配音員：日：[井上雄貴](../Page/井上雄貴.md "wikilink")／台：
     第53話登場。
 
 <!-- end list -->
@@ -722,7 +722,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[川島得愛](https://zh.wikipedia.org/wiki/川島得愛 "wikilink")／台：蔣鐵城
+    配音員：日：[川島得愛](../Page/川島得愛.md "wikilink")／台：蔣鐵城
 
 <!-- end list -->
 
@@ -770,7 +770,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[松田颯水](../Page/松田颯水.md "wikilink")、[松田利冴](https://zh.wikipedia.org/wiki/松田利冴 "wikilink")／台：劉如蘋、石-{采}-薇
+    配音員：日：[松田颯水](../Page/松田颯水.md "wikilink")、[松田利冴](../Page/松田利冴.md "wikilink")／台：劉如蘋、石-{采}-薇
     第45話登場。
 
 <!-- end list -->
@@ -794,7 +794,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[大野柚布子](https://zh.wikipedia.org/wiki/大野柚布子 "wikilink")／台：連婉鈞
+    配音員：日：[大野柚布子](../Page/大野柚布子.md "wikilink")／台：連婉鈞
     第65話登場。
 
 <!-- end list -->
@@ -806,13 +806,13 @@
 <!-- end list -->
 
   -
-    配音員：日：[石見舞菜香](https://zh.wikipedia.org/wiki/石見舞菜香 "wikilink")／台：石-{采}-薇
+    配音員：日：[石見舞菜香](../Page/石見舞菜香.md "wikilink")／台：石-{采}-薇
     第65話登場。
 
 <!-- end list -->
 
   -
-    配音員：日：[武田羅梨沙多胡](https://zh.wikipedia.org/wiki/武田羅梨沙多胡 "wikilink")／台：劉如蘋
+    配音員：日：[武田羅梨沙多胡](../Page/武田羅梨沙多胡.md "wikilink")／台：劉如蘋
     第65話登場。
 
 <!-- end list -->
@@ -829,24 +829,24 @@
 
 ## 登場季數
 
-| 配音                                                      | 角色     | 登場季數        |
-| ------------------------------------------------------- | ------ | ----------- |
-| 1                                                       | 2      |             |
-| [富田美憂](../Page/富田美憂.md "wikilink")                      | 虹野夢    | colspan="2" |
-| [朝井彩加](../Page/朝井彩加.md "wikilink")                      | 櫻庭蘿拉   | colspan="2" |
-| [山口愛](../Page/山口愛.md "wikilink")                        | 七倉小春   | colspan="1" |
-| [村上奈津實](https://zh.wikipedia.org/wiki/村上奈津實 "wikilink") | 早乙女亞子  | colspan="2" |
-| [宮本侑芽](https://zh.wikipedia.org/wiki/宮本侑芽 "wikilink")   | 香澄真晝   | colspan="2" |
-| [上田麗奈](../Page/上田麗奈.md "wikilink")                      | 白銀莉莉   | colspan="2" |
-| [田所梓](../Page/田所梓.md "wikilink")                        | 二階堂柚子  | colspan="1" |
-| [津田美波](../Page/津田美波.md "wikilink")                      | 白鳥姬    | colspan="1" |
-| [諸星堇](../Page/諸星堇.md "wikilink")                        | 如月翼    | colspan="1" |
-| [大橋彩香](../Page/大橋彩香.md "wikilink")                      | 香澄夜空   | colspan="1" |
-| [日笠陽子](../Page/日笠陽子.md "wikilink")                      | 艾爾莎・福特 | colspan="1" |
-| [江口菜子](https://zh.wikipedia.org/wiki/江口菜子 "wikilink")   | 花園綺羅羅  | colspan="1" |
-| [藤原夏海](../Page/藤原夏海.md "wikilink")                      | 騎咲禮    | colspan="1" |
-| [前田佳織里](https://zh.wikipedia.org/wiki/前田佳織里 "wikilink") | 雙葉亞里亞  | colspan="1" |
-|                                                         |        |             |
+| 配音                                   | 角色     | 登場季數        |
+| ------------------------------------ | ------ | ----------- |
+| 1                                    | 2      |             |
+| [富田美憂](../Page/富田美憂.md "wikilink")   | 虹野夢    | colspan="2" |
+| [朝井彩加](../Page/朝井彩加.md "wikilink")   | 櫻庭蘿拉   | colspan="2" |
+| [山口愛](../Page/山口愛.md "wikilink")     | 七倉小春   | colspan="1" |
+| [村上奈津實](../Page/村上奈津實.md "wikilink") | 早乙女亞子  | colspan="2" |
+| [宮本侑芽](../Page/宮本侑芽.md "wikilink")   | 香澄真晝   | colspan="2" |
+| [上田麗奈](../Page/上田麗奈.md "wikilink")   | 白銀莉莉   | colspan="2" |
+| [田所梓](../Page/田所梓.md "wikilink")     | 二階堂柚子  | colspan="1" |
+| [津田美波](../Page/津田美波.md "wikilink")   | 白鳥姬    | colspan="1" |
+| [諸星堇](../Page/諸星堇.md "wikilink")     | 如月翼    | colspan="1" |
+| [大橋彩香](../Page/大橋彩香.md "wikilink")   | 香澄夜空   | colspan="1" |
+| [日笠陽子](../Page/日笠陽子.md "wikilink")   | 艾爾莎・福特 | colspan="1" |
+| [江口菜子](../Page/江口菜子.md "wikilink")   | 花園綺羅羅  | colspan="1" |
+| [藤原夏海](../Page/藤原夏海.md "wikilink")   | 騎咲禮    | colspan="1" |
+| [前田佳織里](../Page/前田佳織里.md "wikilink") | 雙葉亞里亞  | colspan="1" |
+|                                      |        |             |
 
 ## 注釋
 

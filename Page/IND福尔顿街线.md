@@ -105,7 +105,7 @@
 <td><p>慢車</p></td>
 <td></td>
 <td><p>1936年4月9日</p></td>
-<td><p>1946年關閉，1976年以<a href="https://zh.wikipedia.org/wiki/紐約交通博物館" title="wikilink">紐約交通博物館重開</a></p></td>
+<td><p>1946年關閉，1976年以<a href="../Page/紐約交通博物館.md" title="wikilink">紐約交通博物館重開</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -157,7 +157,7 @@
 <td><p>慢車</p></td>
 <td></td>
 <td><p>1936年4月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BMT富蘭克林大道線" title="wikilink">BMT富蘭克林大道線</a>（）</p></td>
+<td><p><a href="../Page/BMT富蘭克林大道線.md" title="wikilink">BMT富蘭克林大道線</a>（）</p></td>
 </tr>
 <tr class="odd">
 <td></td>

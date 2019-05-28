@@ -38,8 +38,7 @@ channel的主版面分為：最HIT、直播、藝人、達人、煮食、揾食�
 
 ### 翡翠台播出特備節目
 
-  - [Big Big小明星](https://zh.wikipedia.org/wiki/Big_Big小明星 "wikilink")
-    2017
+  - [Big Big小明星](../Page/Big_Big小明星.md "wikilink") 2017
 
   - big big channel失驚無神賀中秋
 
@@ -98,9 +97,9 @@ channel的主版面分為：最HIT、直播、藝人、達人、煮食、揾食�
 <tbody>
 <tr class="odd">
 <td style="text-align: center;"><p>2017/12/01</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/降魔的番外篇_-_首部曲" title="wikilink">降魔的番外篇 - 首部曲</a>[7][8]</p></td>
+<td style="text-align: center;"><p><a href="../Page/降魔的番外篇_-_首部曲.md" title="wikilink">降魔的番外篇 - 首部曲</a>[7][8]</p></td>
 <td style="text-align: center;"><p>12</p></td>
-<td style="text-align: center;"><p><a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a>、<a href="https://zh.wikipedia.org/wiki/黃建東" title="wikilink">黃建東</a>、<a href="../Page/鄧佩儀.md" title="wikilink">鄧佩儀</a>、<a href="../Page/張曦雯.md" title="wikilink">張曦雯</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a>、<a href="../Page/黃建東.md" title="wikilink">黃建東</a>、<a href="../Page/鄧佩儀.md" title="wikilink">鄧佩儀</a>、<a href="../Page/張曦雯.md" title="wikilink">張曦雯</a></p></td>
 <td style="text-align: center;"><p>主：花森林（<a href="../Page/譚嘉儀.md" title="wikilink">譚嘉儀</a>）<br />
 尾：宿命（<a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a>）</p></td>
 </tr>
@@ -285,7 +284,7 @@ channel廣受關注的視頻影片，共發14個獎項。由[陸浩明](../Page/
 <td><p>「最高顏值女子電競隊獎」</p></td>
 <td><p>《傳說女神育成計劃》</p></td>
 <td><p>「Godlikes Girls」<br />
-<a href="../Page/李豪.md" title="wikilink">李豪</a>、<a href="https://zh.wikipedia.org/wiki/尹詩沛" title="wikilink">尹詩沛</a>、<a href="../Page/葉蒨文_(演員).md" title="wikilink">葉蒨文</a> 、<a href="https://zh.wikipedia.org/wiki/沈愛琳" title="wikilink">沈愛琳</a>、<a href="../Page/林泳淘.md" title="wikilink">林泳淘</a>、<a href="https://zh.wikipedia.org/wiki/鄧以婷" title="wikilink">鄧以婷</a>、<a href="https://zh.wikipedia.org/wiki/王卓淇" title="wikilink">王卓淇</a>、<a href="../Page/李君妍.md" title="wikilink">李君妍</a>、<a href="https://zh.wikipedia.org/wiki/楊嘉欣" title="wikilink">楊嘉欣</a></p></td>
+<a href="../Page/李豪.md" title="wikilink">李豪</a>、<a href="../Page/尹詩沛.md" title="wikilink">尹詩沛</a>、<a href="../Page/葉蒨文_(演員).md" title="wikilink">葉蒨文</a> 、<a href="https://zh.wikipedia.org/wiki/沈愛琳" title="wikilink">沈愛琳</a>、<a href="../Page/林泳淘.md" title="wikilink">林泳淘</a>、<a href="../Page/鄧以婷.md" title="wikilink">鄧以婷</a>、<a href="../Page/王卓淇.md" title="wikilink">王卓淇</a>、<a href="../Page/李君妍.md" title="wikilink">李君妍</a>、<a href="../Page/楊嘉欣.md" title="wikilink">楊嘉欣</a></p></td>
 <td><p><a href="../Page/陸浩明.md" title="wikilink">陸浩明</a></p></td>
 <td><p>無提及</p></td>
 </tr>

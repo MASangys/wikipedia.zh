@@ -1,4 +1,4 @@
-**阿斯托利亞林蔭路車站**（），又稱「阿斯托利亞林蔭路-霍伊特大道車站」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT阿斯托利亞線的一個快車](https://zh.wikipedia.org/wiki/BMT阿斯托利亞線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")[阿斯托利亞](https://zh.wikipedia.org/wiki/阿斯托里亞_\(皇后區\) "wikilink")及，31街上方，設有[N線](../Page/紐約地鐵N線.md "wikilink")（任何時候停站）與[W線](../Page/紐約地鐵W線.md "wikilink")（僅平日停站）列車服務。
+**阿斯托利亞林蔭路車站**（），又稱「阿斯托利亞林蔭路-霍伊特大道車站」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[BMT阿斯托利亞線的一個快車](https://zh.wikipedia.org/wiki/BMT阿斯托利亞線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，位於[皇后區](../Page/皇后區.md "wikilink")[阿斯托利亞](../Page/阿斯托里亞_\(皇后區\).md "wikilink")及，31街上方，設有[N線](../Page/紐約地鐵N線.md "wikilink")（任何時候停站）與[W線](../Page/紐約地鐵W線.md "wikilink")（僅平日停站）列車服務。
 
 车站于2019年3月起关闭至12月，期间车站将进行翻新，包括抬高站厅、新增连接站台与站厅及站厅至路面的升降电梯等工程\[1\]\[2\]。
 

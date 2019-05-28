@@ -10,7 +10,7 @@
 
   - [大广](https://zh.wikipedia.org/wiki/大广 "wikilink")（与美国[埃培智市场咨询有业务合作关系](../Page/Interpublic.md "wikilink")）
 
-  - [读卖广告社](https://zh.wikipedia.org/wiki/讀賣廣告社 "wikilink")
+  - [读卖广告社](../Page/讀賣廣告社.md "wikilink")
 
   -   - （前东芝娱乐）
 

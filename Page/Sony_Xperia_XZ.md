@@ -2,8 +2,7 @@
 XZ**是[索尼於](../Page/索尼.md "wikilink")2016年9月1日正式發表的旗艦手機\[1\]，乃继[Sony
 Xperia X
 Performance后所发表的机型](../Page/Sony_Xperia_X_Performance.md "wikilink")。与其一同发布的还有主打小屏的[Sony
-Xperia X
-Compact](https://zh.wikipedia.org/wiki/Sony_Xperia_X_Compact "wikilink")。
+Xperia X Compact](../Page/Sony_Xperia_X_Compact.md "wikilink")。
 
 XZ搭载5.2吋屏幕、[高通](../Page/高通.md "wikilink")[Snapdragon
 820处理器](https://zh.wikipedia.org/wiki/Snapdragon "wikilink")、3GB内存，2300万24mm

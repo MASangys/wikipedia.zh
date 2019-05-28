@@ -96,7 +96,7 @@
 <td><p>10</p></td>
 <td><p>4月10日</p></td>
 <td><p><a href="../Page/胡楓.md" title="wikilink">胡　楓</a>、<a href="../Page/羅蘭_(香港).md" title="wikilink">羅蘭</a></p></td>
-<td><p><a href="../Page/吳業坤.md" title="wikilink">吳業坤</a>、<a href="https://zh.wikipedia.org/wiki/張振朗" title="wikilink">張振朗</a>、<a href="../Page/李綺雯.md" title="wikilink">李綺雯</a>、<a href="https://zh.wikipedia.org/wiki/陳嘉佳" title="wikilink">小寶</a><br />
+<td><p><a href="../Page/吳業坤.md" title="wikilink">吳業坤</a>、<a href="../Page/張振朗.md" title="wikilink">張振朗</a>、<a href="../Page/李綺雯.md" title="wikilink">李綺雯</a>、<a href="https://zh.wikipedia.org/wiki/陳嘉佳" title="wikilink">小寶</a><br />
 特別嘉賓：<a href="../Page/鄭耀軒.md" title="wikilink">鄭耀軒</a><br />
 (小戲王)</p></td>
 <td><p><a href="../Page/蘇恩磁.md" title="wikilink">蘇恩磁</a><br />
@@ -147,7 +147,7 @@
 <td><p>5月29日</p></td>
 <td><p><a href="../Page/潘志文.md" title="wikilink">潘志文</a>、<a href="../Page/魏秋樺.md" title="wikilink">魏秋樺</a></p></td>
 <td><p><a href="../Page/張文慈.md" title="wikilink">張文慈</a>、<a href="../Page/袁文傑.md" title="wikilink">袁文傑</a>、<a href="../Page/袁潔儀.md" title="wikilink">袁潔儀</a>、<a href="../Page/劉錫賢.md" title="wikilink">劉錫賢</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭恕峰" title="wikilink">鄭恕峰</a><br />
+<td><p><a href="../Page/鄭恕峰.md" title="wikilink">鄭恕峰</a><br />
 (惡人王)</p></td>
 </tr>
 <tr class="even">
@@ -285,7 +285,7 @@
 
 ## 獎項
 
-### [TVB 馬來西亞星光薈萃頒獎典禮2016](https://zh.wikipedia.org/wiki/TVB_馬來西亞星光薈萃頒獎典禮2016 "wikilink")
+### [TVB 馬來西亞星光薈萃頒獎典禮2016](../Page/TVB_馬來西亞星光薈萃頒獎典禮2016.md "wikilink")
 
 | 獎項           | 獲奬單位      |
 | ------------ | --------- |

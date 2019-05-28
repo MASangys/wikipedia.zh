@@ -31,7 +31,7 @@ Pictures**是日本一間以動畫企畫、製作為主要業務的企業，於2
 <td><p><a href="https://zh.wikipedia.org/wiki/Mysteria_Friends" title="wikilink">Mysteria Friends</a></p></td>
 <td></td>
 <td><p>1月20日－預定</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岡本英樹" title="wikilink">岡本英樹</a></p></td>
+<td><p><a href="../Page/岡本英樹.md" title="wikilink">岡本英樹</a></p></td>
 <td><p>遊戲</p></td>
 <td><p>獨立製作</p></td>
 </tr>
@@ -64,7 +64,7 @@ Pictures**是日本一間以動畫企畫、製作為主要業務的企業，於2
 <tbody>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/銀翼殺手：2022大停電" title="wikilink">銀翼殺手Black Out 2022</a></p></td>
+<td><p><a href="../Page/銀翼殺手：2022大停電.md" title="wikilink">銀翼殺手Black Out 2022</a></p></td>
 <td></td>
 <td><p>9月27日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/渡邊信一郎" title="wikilink">渡邊信一郎</a></p></td>

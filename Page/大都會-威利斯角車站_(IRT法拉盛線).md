@@ -1,4 +1,4 @@
-**大都會-威利斯角車站**（），曾名為「威利斯角-謝亞球場車站」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線的一個快車](https://zh.wikipedia.org/wiki/IRT法拉盛線 "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務，以及在大部分[紐約大都會棒球比賽和](../Page/紐約大都會.md "wikilink")[美國網球公開賽後前往](https://zh.wikipedia.org/wiki/美國網球公開賽 "wikilink")[曼哈頓時營運](../Page/曼哈頓.md "wikilink")，而繁忙時段的尖峰方向還有開行[\<7\>列車](../Page/紐約地鐵7號線.md "wikilink")\[1\]。車站位於[皇后區](../Page/皇后區.md "wikilink")[法拉盛草原-可樂娜公園介乎](https://zh.wikipedia.org/wiki/法拉盛草原-可樂娜公園 "wikilink")114街及126街的。車站的高峰期通常是大都會在位於車站北側的[花旗球場](../Page/花旗球場.md "wikilink")（以及自1964年起至2008年為止在[謝亞球場](../Page/謝亞球場.md "wikilink")）比賽時，以及在車站南面的[美國網球協會比莉·珍·金網球中心時](../Page/美國網球協會比莉·珍·金網球中心.md "wikilink")。
+**大都會-威利斯角車站**（），曾名為「威利斯角-謝亞球場車站」（），是[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")[IRT法拉盛線的一個快車](../Page/IRT法拉盛線.md "wikilink")[地鐵站](https://zh.wikipedia.org/wiki/地鐵站 "wikilink")，設有[7號線](../Page/紐約地鐵7號線.md "wikilink")（任何時候停站）列車服務，以及在大部分[紐約大都會棒球比賽和](../Page/紐約大都會.md "wikilink")[美國網球公開賽後前往](https://zh.wikipedia.org/wiki/美國網球公開賽 "wikilink")[曼哈頓時營運](../Page/曼哈頓.md "wikilink")，而繁忙時段的尖峰方向還有開行[\<7\>列車](../Page/紐約地鐵7號線.md "wikilink")\[1\]。車站位於[皇后區](../Page/皇后區.md "wikilink")[法拉盛草原-可樂娜公園介乎](https://zh.wikipedia.org/wiki/法拉盛草原-可樂娜公園 "wikilink")114街及126街的。車站的高峰期通常是大都會在位於車站北側的[花旗球場](../Page/花旗球場.md "wikilink")（以及自1964年起至2008年為止在[謝亞球場](../Page/謝亞球場.md "wikilink")）比賽時，以及在車站南面的[美國網球協會比莉·珍·金網球中心時](../Page/美國網球協會比莉·珍·金網球中心.md "wikilink")。
 
 ## 車站結構
 
@@ -11,8 +11,8 @@
 </tr>
 <tr class="even">
 <td><p><span style="color:#{{NYCS color|purple}}"><strong>南行</strong></span></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-7.svg" title="fig:纽约地铁7号线">纽约地铁7号线</a> 往<a href="https://zh.wikipedia.org/wiki/34街-哈德遜調車場車站_(IRT法拉盛線)" title="wikilink">34街-哈德遜調車場</a><small>（<a href="https://zh.wikipedia.org/wiki/111街車站_(IRT法拉盛線)" title="wikilink">111街</a>）</small><br />
- <a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-7d.svg" title="fig:纽约地铁7d线">纽约地铁7d线</a> 往34街-哈德遜調車場（早上尖峰時段）<small>（<a href="https://zh.wikipedia.org/wiki/交匯林蔭路車站_(IRT法拉盛線)" title="wikilink">交匯林蔭路</a>）</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-7.svg" title="fig:纽约地铁7号线">纽约地铁7号线</a> 往<a href="https://zh.wikipedia.org/wiki/34街-哈德遜調車場車站_(IRT法拉盛線)" title="wikilink">34街-哈德遜調車場</a><small>（<a href="../Page/111街車站_(IRT法拉盛線).md" title="wikilink">111街</a>）</small><br />
+ <a href="https://zh.wikipedia.org/wiki/File:NYCS-bull-trans-7d.svg" title="fig:纽约地铁7d线">纽约地铁7d线</a> 往34街-哈德遜調車場（早上尖峰時段）<small>（<a href="../Page/交匯林蔭路車站_(IRT法拉盛線).md" title="wikilink">交匯林蔭路</a>）</small></p></td>
 </tr>
 <tr class="odd">
 <td><p><span style="color:#{{NYCS color|purple}}"><strong>中央軌道</strong></span></p></td>
@@ -50,7 +50,7 @@
 [Trim5779.JPG](https://zh.wikipedia.org/wiki/File:Trim5779.JPG "fig:Trim5779.JPG")\[7\]位於背景\]\]
 [Mets_Willets_Point_with_train_and_stadium_vc.jpg](https://zh.wikipedia.org/wiki/File:Mets_Willets_Point_with_train_and_stadium_vc.jpg "fig:Mets_Willets_Point_with_train_and_stadium_vc.jpg")\]\]
 
-部分黃昏尖峰時段7號線慢車使用快車軌道為總站\[8\]。車站以西在慢車軌道、快車軌道以及北面前往[111街車站的軌道設有轉轍器](https://zh.wikipedia.org/wiki/111街車站_\(IRT法拉盛線\) "wikilink")。車站以東，轉轍器容許位於任何方向的快車軌道列車轉往慢車軌道，但無法反方向\[9\]\[10\]。
+部分黃昏尖峰時段7號線慢車使用快車軌道為總站\[8\]。車站以西在慢車軌道、快車軌道以及北面前往[111街車站的軌道設有轉轍器](../Page/111街車站_\(IRT法拉盛線\).md "wikilink")。車站以東，轉轍器容許位於任何方向的快車軌道列車轉往慢車軌道，但無法反方向\[9\]\[10\]。
 
 ## 註釋
 

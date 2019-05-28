@@ -48,7 +48,7 @@
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/金來沅" title="wikilink">金來沅</a></strong><br />
 <small>童年：吉政佑</small><br />
-<small>少年：<a href="https://zh.wikipedia.org/wiki/朴所羅門" title="wikilink">朴所羅門</a></small></p></td>
+<small>少年：<a href="../Page/朴所羅門.md" title="wikilink">朴所羅門</a></small></p></td>
 <td><p><strong>洪智弘</strong><br />
 （李智弘）</p></td>
 <td><p>27歲→40歲，国日医院神经外科教授。童年時父母出車禍成為孤兒，高中時被国日医院理事長收養，有着与生俱来的聪明头脑，是医科大学的佼佼者。因实习期间的失误，放弃医生工作成为南陽女高的生物教师然後認識慧靜。通过慧静，领悟到他真正想做的依然是医生。第4集(13年後)接收患者時遇到成为了医生的慧静，他的心脏重新开始跳动。曾跟隨養父到美國深造。擁有世界級的開顱技術。已向劉慧靜求婚成功。</p></td>
@@ -120,10 +120,10 @@
 <td><p>慧靜的祖母，64歲，為了生存無所不賣，笑與心也包括在內。經營婆婆湯飯。因為獨生子的錯誤獨自撫養著孫女所以總是對她懷著抱歉的心。得了胃癌後，在陳明勳所主刀的手術現場死亡</p></td>
 <td><p>1-3、5-6、17</p></td>
 <td><p><a href="../Page/王瑞芹.md" title="wikilink">王瑞芹</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/王綺婷" title="wikilink">王綺婷</a></p></td>
+<td><p><a href="../Page/王綺婷.md" title="wikilink">王綺婷</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭海均" title="wikilink">鄭海均</a></p></td>
+<td><p><a href="../Page/鄭海均.md" title="wikilink">鄭海均</a></p></td>
 <td><p>劉敏浩</p></td>
 <td><p>慧靜的父親，53歲，敏感且自尊心強，強烈的支配性格，若不依從他就會生氣。性格和慧靜母親一樣強烈，兩人總是相碰；雖非本意但慧靜母親因而逝世，後再娶李佳珍，並育有一女。對慧靜有愧疚感，因愧疚對她更冷漠。</p></td>
 <td><p>1、3、6-8、13-14、19-20</p></td>
@@ -136,7 +136,7 @@
 <td><p>慧靜的繼母，47歲，情婦變為妻子。勢利的親切，在丈夫面前無條件的都說「好」。13年後，一次生病發現慧靜成為醫生後，才攀親帶故。</p></td>
 <td><p>3、6-8</p></td>
 <td><p><a href="../Page/魏晶琦.md" title="wikilink">魏晶琦</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張惠雯" title="wikilink">張惠雯</a></p></td>
+<td><p><a href="../Page/張惠雯.md" title="wikilink">張惠雯</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/韓寶貝.md" title="wikilink">韓寶貝</a></p></td>
@@ -144,7 +144,7 @@
 <td><p>慧靜的異母妹妹，22歲，性格跟父親很像所以到哪裡都有領導性格，但敵人很多。對姐姐很友好，是慧靜連接家族的那條線。因媽媽感到自卑。</p></td>
 <td><p>6-7</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/王綺婷" title="wikilink">王綺婷</a></p></td>
+<td><p><a href="../Page/王綺婷.md" title="wikilink">王綺婷</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金志洙.md" title="wikilink">金志洙</a><br />
@@ -153,7 +153,7 @@
 <td><p>18歲→31歲，慧靜徬徨時期出現的男性友人，高中時是他人生最精采時期，拳頭有力，人好在近東學校赫赫有名、臭美的男生。被帶刺又高貴的慧靜吸引，為得到她的心付出了很多無知的努力，現在視慧靜為妹妹。已離婚，育有一子。</p></td>
 <td><p>1-4、5、7-8</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳漢祺" title="wikilink">陳漢祺</a></p></td>
+<td><p><a href="../Page/陳漢祺.md" title="wikilink">陳漢祺</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/文知茵.md" title="wikilink">文知茵</a></strong></p></td>
@@ -192,7 +192,7 @@
 <td><p>志弘的養父，前國日集團理事長。在11集因心肌梗塞而過世。</p></td>
 <td><p>1-11</p></td>
 <td><p><a href="../Page/吳文民.md" title="wikilink">吳文民</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馮瀚輝" title="wikilink">馮瀚輝</a></p></td>
+<td><p><a href="../Page/馮瀚輝.md" title="wikilink">馮瀚輝</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/劉多仁.md" title="wikilink">劉多仁</a><br />
@@ -260,12 +260,12 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/金康鉉" title="wikilink">金康鉉</a></p></td>
+<td><p><a href="../Page/金康鉉.md" title="wikilink">金康鉉</a></p></td>
 <td><p>姜慶俊</p></td>
 <td><p>神經外科住院總醫生四年生。個性追求完美對周遭人都很尖銳、孤僻又時常帶著偏見，讓他人感到非常疲憊。</p></td>
 <td><p>1、3-20</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄧燦陽" title="wikilink">鄧燦陽</a></p></td>
+<td><p><a href="../Page/鄧燦陽.md" title="wikilink">鄧燦陽</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/趙賢植" title="wikilink">趙賢植</a></p></td>
@@ -351,7 +351,7 @@
 <td></td>
 <td><p>夜店DJ</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄧燦陽" title="wikilink">鄧燦陽</a></p></td>
+<td><p><a href="../Page/鄧燦陽.md" title="wikilink">鄧燦陽</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -376,7 +376,7 @@
 <td><p>南陽女高教務主任</p></td>
 <td><p>1-2</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張惠雯" title="wikilink">張惠雯</a></p></td>
+<td><p><a href="../Page/張惠雯.md" title="wikilink">張惠雯</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -427,7 +427,7 @@
 <td><p><a href="../Page/何偉誠.md" title="wikilink">何偉誠</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/林智妍" title="wikilink">林智妍</a></p></td>
+<td><p><a href="../Page/林智妍.md" title="wikilink">林智妍</a></p></td>
 <td><p>李秀晶</p></td>
 <td><p>患有手顫症的前國家射箭隊金牌選手，經過清醒開顱手術後恢復</p></td>
 <td><p>7-8</p></td>
@@ -456,7 +456,7 @@
 <td><p>南陽和南月的爸爸</p></td>
 <td><p>13-15</p></td>
 <td><p><a href="../Page/曹冀魯.md" title="wikilink">曹冀魯</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馮瀚輝" title="wikilink">馮瀚輝</a></p></td>
+<td><p><a href="../Page/馮瀚輝.md" title="wikilink">馮瀚輝</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -471,7 +471,7 @@
 <td><p>南月</p></td>
 <td><p>罹患神經母細胞腫瘤，走路會一拐一拐</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/張惠雯" title="wikilink">張惠雯</a></p></td>
+<td><p><a href="../Page/張惠雯.md" title="wikilink">張惠雯</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -491,7 +491,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/呂會鉉" title="wikilink">呂會鉉</a></p></td>
+<td><p><a href="../Page/呂會鉉.md" title="wikilink">呂會鉉</a></p></td>
 <td><p>崔英洙</p></td>
 <td><p>當兵中， 崔強洙的弟弟</p></td>
 <td><p>17-18</p></td>
@@ -893,7 +893,7 @@
 
   - 此劇主角[朴信惠](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")、[金來沅都是首次飾演醫生](https://zh.wikipedia.org/wiki/金來沅 "wikilink")，有別於以往的角色。
   - 此劇主角[朴信惠與](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[白成鉉繼電視劇](../Page/白成鉉.md "wikilink")[天國的階梯後時隔](../Page/天國的階梯.md "wikilink")13年後再次合作。
-  - 此劇主角[朴信惠與](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[尹均相繼](https://zh.wikipedia.org/wiki/尹均相 "wikilink")《[皮諾丘](https://zh.wikipedia.org/wiki/皮諾丘_\(電視劇\) "wikilink")》後第二次合作。
+  - 此劇主角[朴信惠與](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[尹均相繼](https://zh.wikipedia.org/wiki/尹均相 "wikilink")《[皮諾丘](../Page/皮諾丘_\(電視劇\).md "wikilink")》後第二次合作。
   - 此劇主角[朴信惠與](https://zh.wikipedia.org/wiki/朴信惠 "wikilink")[葛素媛繼電影](https://zh.wikipedia.org/wiki/葛素媛 "wikilink")[7號房的禮物後第二次飾演同一個角色的成年及童年](../Page/7號房的禮物.md "wikilink")。
   - 此劇於6月20日開播後，與[MBC的](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[Monster](../Page/Monster_\(電視劇\).md "wikilink")》及[KBS的](../Page/韓國放送公社.md "wikilink")《[Beautiful
     Mind](../Page/Beautiful_Mind.md "wikilink")》月火連續劇皆是以英文作劇名，為韓國電視台首次出現此情況。

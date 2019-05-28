@@ -26,7 +26,7 @@ CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》[趙南國導演與](../Pa
 | [金池勳](https://zh.wikipedia.org/wiki/金池勳 "wikilink")        | 吳工頭    | 46歲                                                 |
 | [金亨奎](../Page/金亨奎.md "wikilink")                           | 螳螂     | 30代，郭興三的保鑣兼殺手                                       |
 | [尹帝文](../Page/尹帝文.md "wikilink")                           | 鍘刀     | 40代，流浪者No.3，神秘的人物。因得知裴中士死亡消息，決意離開首爾站                |
-| [李哲民](https://zh.wikipedia.org/wiki/李哲民_\(演員\) "wikilink") | 毒蛇     | 36歲，流浪者No.4                                         |
+| [李哲民](../Page/李哲民_\(演員\).md "wikilink")                    | 毒蛇     | 36歲，流浪者No.4                                         |
 | [張元英](https://zh.wikipedia.org/wiki/張元英_\(演員\) "wikilink") | 鱷魚     | 39歲，流浪者No.5                                         |
 | [金英雄](../Page/金英雄.md "wikilink")                           | 裴中士    | 41歲，流浪者No.6，收受回扣。因為不滿泰浩快速上位，想悄無聲息的殺掉泰浩，最後被興三派來的螳螂殺死 |
 | [趙在允](../Page/趙在允.md "wikilink")                           | 蛇眼     | 35歲，流浪者No.7，首爾地區回扣管理                                |
@@ -52,7 +52,7 @@ CHASER](../Page/追擊者_THE_CHASER.md "wikilink")》[趙南國導演與](../Pa
 | [朴根瀅](../Page/朴根瀅.md "wikilink")                    |        |        |
 | [張成奎](https://zh.wikipedia.org/wiki/張成奎 "wikilink") |        |        |
 | [宋民教](https://zh.wikipedia.org/wiki/宋民教 "wikilink") |        |        |
-| [趙敏兒](https://zh.wikipedia.org/wiki/趙敏兒 "wikilink") | 柳恩智    | 柳忠九的女兒 |
+| [趙敏兒](../Page/趙敏兒.md "wikilink")                    | 柳恩智    | 柳忠九的女兒 |
 
 ## 原聲帶
 

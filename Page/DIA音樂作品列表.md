@@ -249,12 +249,12 @@
 
 ### 原聲帶
 
-| 年份              | 收錄專輯                                                                          | 歌名             | 參與成員               | 合唱者                                                                                                                 |
-| --------------- | ----------------------------------------------------------------------------- | -------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------- |
-| 2014            | 電視劇《[Triangle](https://zh.wikipedia.org/wiki/Triangle_\(電視劇\) "wikilink")》OST | 《Kiss And Cry》 | 承希                 | 與Shorry J、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")[芝妍](https://zh.wikipedia.org/wiki/朴芝妍 "wikilink") |
-| 2016            | 電視劇《[Wanted](../Page/Wanted.md "wikilink")》OST                                | 《Shadow》       | 彩娟                 | 與[FIESTAR](../Page/FIESTAR.md "wikilink") [Yezi](https://zh.wikipedia.org/wiki/利禮智 "wikilink")                      |
-| 綜藝節目《白老師放煮假》OST | 《Together》                                                                    | 彩娟             | 與Basick、 Janey 、承希 |                                                                                                                     |
-| 2018            | 網路劇《Do Dream》OST                                                              | 《Lost Star》    | 主恩                 |                                                                                                                     |
+| 年份              | 收錄專輯                                                       | 歌名             | 參與成員               | 合唱者                                                                                                                 |
+| --------------- | ---------------------------------------------------------- | -------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------- |
+| 2014            | 電視劇《[Triangle](../Page/Triangle_\(電視劇\).md "wikilink")》OST | 《Kiss And Cry》 | 承希                 | 與Shorry J、[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")[芝妍](https://zh.wikipedia.org/wiki/朴芝妍 "wikilink") |
+| 2016            | 電視劇《[Wanted](../Page/Wanted.md "wikilink")》OST             | 《Shadow》       | 彩娟                 | 與[FIESTAR](../Page/FIESTAR.md "wikilink") [Yezi](https://zh.wikipedia.org/wiki/利禮智 "wikilink")                      |
+| 綜藝節目《白老師放煮假》OST | 《Together》                                                 | 彩娟             | 與Basick、 Janey 、承希 |                                                                                                                     |
+| 2018            | 網路劇《Do Dream》OST                                           | 《Lost Star》    | 主恩                 |                                                                                                                     |
 
 ### PRODUCE 101、I.O.I
 
@@ -406,7 +406,7 @@
 
 ## 創作作品
 
-### [韓國音樂著作權協會](https://zh.wikipedia.org/wiki/韓國音樂著作權協會 "wikilink")
+### [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
 
 | 成員     | KOMCA 登記名字 | 編號       | 歌曲列表   |
 | ------ | ---------- | -------- | ------ |

@@ -14,7 +14,7 @@
 IMX363感光元件的手機，規格為1,200萬畫素、F/1.8光圈、1.4µm像素大小、支援OIS/EIS，支援AI運算，可偵測16種場景；而副鏡頭為120°的廣角鏡頭。
 
 ZenFone 5在評測機構[DxOMark
-Mobile中獲得](https://zh.wikipedia.org/wiki/DxOMark "wikilink")90分\[3\]。
+Mobile中獲得](../Page/DxOMark.md "wikilink")90分\[3\]。
 
 5 Lite
 (5Q)使用1600萬畫素、F/2.2光圈後鏡頭(主)，120度廣角後鏡頭(輔)，2,000萬畫素、F/2.0光圈前鏡頭，以及800萬畫素120°廣角鏡頭。

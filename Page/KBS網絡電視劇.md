@@ -89,7 +89,7 @@
 <td><p><br />
 （아부쟁이 얍!）[4]</p></td>
 <td><p><small><a href="../Page/郭東延.md" title="wikilink">郭東延</a>、<a href="https://zh.wikipedia.org/wiki/尹寶拉" title="wikilink">尹寶拉</a>、<a href="https://zh.wikipedia.org/wiki/李在真" title="wikilink">李在真</a>、、<a href="../Page/鄭在炯.md" title="wikilink">鄭在炯</a><br />
-特別出演：<a href="https://zh.wikipedia.org/wiki/李哲民_(演員)" title="wikilink">李哲民</a>、<a href="../Page/趙軟祐.md" title="wikilink">趙軟祐</a>、<a href="../Page/河莉秀.md" title="wikilink">河莉秀</a></small></p></td>
+特別出演：<a href="../Page/李哲民_(演員).md" title="wikilink">李哲民</a>、<a href="../Page/趙軟祐.md" title="wikilink">趙軟祐</a>、<a href="../Page/河莉秀.md" title="wikilink">河莉秀</a></small></p></td>
 <td></td>
 <td><p>李珉熙</p></td>
 <td><p>權秀景<br />
@@ -159,8 +159,7 @@
   -
   -
   -
-  - [MBC Drama
-    Festival](https://zh.wikipedia.org/wiki/Drama_Festival "wikilink")
+  - [MBC Drama Festival](../Page/Drama_Festival.md "wikilink")
 
   -
   -

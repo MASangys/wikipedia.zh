@@ -141,9 +141,9 @@ Guy），是[七龍珠在](../Page/七龙珠.md "wikilink")1993年7月10日上�
 
   - 製作総指揮：[今田智憲](https://zh.wikipedia.org/wiki/今田智憲 "wikilink")、安齊富夫
   - 原作：[鳥山明](../Page/鳥山明.md "wikilink")
-  - 企画：[森下孝三](https://zh.wikipedia.org/wiki/森下孝三 "wikilink")、[清水賢治](https://zh.wikipedia.org/wiki/清水賢治 "wikilink")、金田耕司、[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")
+  - 企画：[森下孝三](https://zh.wikipedia.org/wiki/森下孝三 "wikilink")、[清水賢治](../Page/清水賢治.md "wikilink")、金田耕司、[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")
   - 製作担当：[樋口宗久](https://zh.wikipedia.org/wiki/樋口宗久 "wikilink")
-  - 脚本：[小山高生](https://zh.wikipedia.org/wiki/小山高生 "wikilink")
+  - 脚本：[小山高生](../Page/小山高生.md "wikilink")
   - 音楽：[菊池俊輔](../Page/菊池俊輔.md "wikilink")
   - 撮影監督：清水政夫
   - 録音：二宮健治

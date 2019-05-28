@@ -20,16 +20,15 @@
 ### 已離開藝人
 
   - [THE ARK](../Page/THE_ARK.md "wikilink")（2015年4月12日出道，2016年解散）
-      - [珉柱](https://zh.wikipedia.org/wiki/全珉柱 "wikilink")（于2017年簽署HYWY娛樂，並作爲DAYDAY其中一員但未出道將其解散）\[2\]
+      - [珉柱](../Page/全珉柱.md "wikilink")（于2017年簽署HYWY娛樂，並作爲DAYDAY其中一員但未出道將其解散）\[2\]
       - [Yuna
         Kim](https://zh.wikipedia.org/wiki/金宥娜 "wikilink")（于2016年簽署[Maroo娛樂](https://zh.wikipedia.org/wiki/Maroo娛樂 "wikilink")）
       - 鄭有珍（作爲Power Vocal的學員培訓中，現無所屬社）
-      - [漢拏](https://zh.wikipedia.org/wiki/李绣至 "wikilink")（2016年作爲[Real
-        Girls
-        Project其中一員出道](https://zh.wikipedia.org/wiki/Real_Girls_Project "wikilink")，2017年簽署[A.O.E](https://zh.wikipedia.org/wiki/APPLE_OF_THE_EYE "wikilink")）
+      - [漢拏](../Page/李绣至.md "wikilink")（2016年作爲[Real Girls
+        Project其中一員出道](../Page/Real_Girls_Project.md "wikilink")，2017年簽署[A.O.E](../Page/APPLE_OF_THE_EYE.md "wikilink")）
       - [Jane](https://zh.wikipedia.org/wiki/載寅_\(1999年\) "wikilink")（2016年作爲[Real
         Girls
-        Project其中一員出道](https://zh.wikipedia.org/wiki/Real_Girls_Project "wikilink")，2017年簽署[A.O.E](https://zh.wikipedia.org/wiki/APPLE_OF_THE_EYE "wikilink")）
+        Project其中一員出道](../Page/Real_Girls_Project.md "wikilink")，2017年簽署[A.O.E](../Page/APPLE_OF_THE_EYE.md "wikilink")）
   - [金珠娜](../Page/金珠娜.md "wikilink")
 
 ## 參考文獻

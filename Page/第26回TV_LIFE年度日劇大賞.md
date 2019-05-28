@@ -1,6 +1,5 @@
-[第25回](https://zh.wikipedia.org/wiki/第25回TV_LIFE年度日劇大賞 "wikilink") ←
-**第26回** →
-[第27回](https://zh.wikipedia.org/wiki/第27回TV_LIFE年度日劇大賞 "wikilink")
+[第25回](../Page/第25回TV_LIFE年度日劇大賞.md "wikilink") ← **第26回** →
+[第27回](../Page/第27回TV_LIFE年度日劇大賞.md "wikilink")
 
 **第26回[TV
 LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針對2016年播出的連續劇做出的觀眾投票。
@@ -116,7 +115,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>　<a href="https://zh.wikipedia.org/wiki/黑木華" title="wikilink">黑木華</a></p></td>
+<td><p>　<a href="../Page/黑木華.md" title="wikilink">黑木華</a></p></td>
 <td><p>　《<a href="https://zh.wikipedia.org/wiki/重版出来！#電視劇" title="wikilink">重版出来！</a>》</p></td>
 <td></td>
 </tr>
@@ -151,7 +150,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 <td><p>　《<a href="https://zh.wikipedia.org/wiki/僱傭妻子" title="wikilink">僱傭妻子</a>》</p></td>
 </tr>
 <tr class="even">
-<td><p>　<a href="https://zh.wikipedia.org/wiki/小瀧望" title="wikilink">小瀧望</a></p></td>
+<td><p>　<a href="../Page/小瀧望.md" title="wikilink">小瀧望</a></p></td>
 <td><p>　《<a href="../Page/世界上最艱難的戀愛.md" title="wikilink">世界上最艱難的戀愛</a>》</p></td>
 <td></td>
 </tr>
@@ -225,7 +224,7 @@ LIFE年度日劇大賞](../Page/TV_LIFE年度日劇大賞.md "wikilink")**是針
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/小瀧望" title="wikilink">小瀧望</a><br />
+<td><p>'''<a href="../Page/小瀧望.md" title="wikilink">小瀧望</a><br />
 《<a href="../Page/世界上最艱難的戀愛.md" title="wikilink">世界上最艱難的戀愛</a>》</p></td>
 <td><p>　<a href="../Page/黑島結菜.md" title="wikilink">黑島結菜</a></p></td>
 <td><p>　《<a href="../Page/穿越時空的少女_(電視劇).md" title="wikilink">穿越時空的少女</a>》</p></td>

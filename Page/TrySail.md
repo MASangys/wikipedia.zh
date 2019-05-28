@@ -1,6 +1,6 @@
 **Trysail**（\[1\]）是[Music
 Ray'n所屬的](../Page/Music_Ray'n.md "wikilink")[女性](../Page/女性.md "wikilink")[聲優團體](https://zh.wikipedia.org/wiki/聲優組合 "wikilink")。所屬唱片公司為[SACRA
-MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。2014年組成\[2\]、2015年正式開始活動\[3\]。
+MUSIC](../Page/SACRA_MUSIC.md "wikilink")。2014年組成\[2\]、2015年正式開始活動\[3\]。
 
 ## 概要
 
@@ -18,7 +18,7 @@ harmony」第53回中決定以「TrySail」團體名義開始活動\[7\]。
 Dreamer」\[8\]。
 
 2017年4月，由原先[Aniplex移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/Aniplex.md "wikilink")[SACRA
-MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。\[9\]
+MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[9\]
 
 ## 成員
 
@@ -33,7 +33,7 @@ MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。\[9\]
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/麻倉桃" title="wikilink">麻倉桃</a></strong></p></td>
+<td><p><strong><a href="../Page/麻倉桃.md" title="wikilink">麻倉桃</a></strong></p></td>
 <td><p>1994年6月25日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/粉紅色" title="wikilink">粉紅色</a></p></td>
@@ -45,7 +45,7 @@ MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。\[9\]
 <td><p><a href="https://zh.wikipedia.org/wiki/藍" title="wikilink">藍</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/夏川椎菜" title="wikilink">夏川椎菜</a></strong></p></td>
+<td><p><strong><a href="../Page/夏川椎菜.md" title="wikilink">夏川椎菜</a></strong></p></td>
 <td><p>1996年7月18日</p></td>
 <td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黃色" title="wikilink">黃色</a></p></td>
@@ -237,12 +237,12 @@ MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。\[9\]
 </tr>
 <tr class="even">
 <td><p>かかわり</p></td>
-<td><p>手機遊戲《<a href="https://zh.wikipedia.org/wiki/魔法紀錄_魔法少女小圓外傳" title="wikilink">魔法紀錄 魔法少女小圓外傳</a>》主題曲</p></td>
+<td><p>手機遊戲《<a href="../Page/魔法紀錄_魔法少女小圓外傳.md" title="wikilink">魔法紀錄 魔法少女小圓外傳</a>》主題曲</p></td>
 <td><p>2017年</p></td>
 </tr>
 <tr class="odd">
 <td><p>オリジナル。</p></td>
-<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/亞人醬有話要說" title="wikilink">亞人醬有話要說</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="../Page/亞人醬有話要說.md" title="wikilink">亞人醬有話要說</a>》片頭曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -257,7 +257,7 @@ MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。\[9\]
 </tr>
 <tr class="even">
 <td><p>Truth.</p></td>
-<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/沒有心跳的少女_BEATLESS" title="wikilink">沒有心跳的少女 BEATLESS</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="../Page/沒有心跳的少女_BEATLESS.md" title="wikilink">沒有心跳的少女 BEATLESS</a>》片頭曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">

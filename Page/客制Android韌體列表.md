@@ -21,7 +21,7 @@ OS等某些機型預載，但是它們本身也開放其它廠商的機型刷寫
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/AOKP" title="wikilink">AOKP</a></p></td>
+<td><p><a href="../Page/AOKP.md" title="wikilink">AOKP</a></p></td>
 <td><p>Team Kang</p></td>
 <td></td>
 <td><p>是</p></td>
@@ -43,7 +43,7 @@ OS等某些機型預載，但是它們本身也開放其它廠商的機型刷寫
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/百度雲OS" title="wikilink">百度雲OS</a></p></td>
+<td><p><a href="../Page/百度雲OS.md" title="wikilink">百度雲OS</a></p></td>
 <td><p><a href="../Page/百度.md" title="wikilink">百度</a></p></td>
 <td></td>
 <td><p>否</p></td>
@@ -109,7 +109,7 @@ OS等某些機型預載，但是它們本身也開放其它廠商的機型刷寫
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/樂蛙OS" title="wikilink">樂蛙OS</a></p></td>
+<td><p><a href="../Page/樂蛙OS.md" title="wikilink">樂蛙OS</a></p></td>
 <td><p>Lewa Technology</p></td>
 <td></td>
 <td><p>閉源但開源組件可用</p></td>

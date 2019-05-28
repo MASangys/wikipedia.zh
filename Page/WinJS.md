@@ -1,7 +1,7 @@
 **Windows Library for
 JavaScript**（缩写**WinJS**）是[微软开发的一个](../Page/微软.md "wikilink")[开放源代码](../Page/开放源代码.md "wikilink")[JavaScript](../Page/JavaScript.md "wikilink")[函式庫](../Page/函式庫.md "wikilink")。设计目的是为简化使用[HTML5和](../Page/HTML5.md "wikilink")[JavaScript完成适用于](../Page/JavaScript.md "wikilink")[Windows
 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows
-10的](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Windows商店应用](../Page/通用Windows平台应用.md "wikilink")、适用于[Windows
+10的](../Page/Windows_10.md "wikilink")[Windows商店应用](../Page/通用Windows平台应用.md "wikilink")、适用于[Windows
 Phone 8.1](../Page/Windows_Phone_8.1.md "wikilink")、[Windows 10
 行動裝置版的Windows](../Page/Windows_10_行動裝置版.md "wikilink")
 Phone应用，以及[Xbox
@@ -16,7 +16,7 @@ Build开发者会议上宣布](../Page/Build_\(开发者大会\).md "wikilink")�
 
 WinJS为使用[HTML5和](../Page/HTML5.md "wikilink")[JavaScript开发](../Page/JavaScript.md "wikilink")[通用Windows平台应用提供帮助](../Page/通用Windows平台应用.md "wikilink")。该库以符合一种JavaScript编码惯例的基础上，由揭示[Windows
 Runtime的模块和函数组成](../Page/Windows_Runtime.md "wikilink")。WinJS使在[HTML中添加Windows](../Page/HTML.md "wikilink")
-[UI控件成为可能](../Page/用户界面.md "wikilink")。这也伴有[数据绑定和一个](https://zh.wikipedia.org/wiki/数据绑定 "wikilink")[樣板處理器](https://zh.wikipedia.org/wiki/樣板處理器 "wikilink")。
+[UI控件成为可能](../Page/用户界面.md "wikilink")。这也伴有[数据绑定和一个](../Page/数据绑定.md "wikilink")[樣板處理器](https://zh.wikipedia.org/wiki/樣板處理器 "wikilink")。
 
 其他JavaScript框架（如[jQuery](https://zh.wikipedia.org/wiki/jQuery "wikilink")）可以与WinJS相伴工作。该库附有额外的声明文件，为使用[TypeScript的开发者提供丰富的体验](../Page/TypeScript.md "wikilink")。TypeScript支持代码完成和重构，并保有与JavaScript的兼容性。
 

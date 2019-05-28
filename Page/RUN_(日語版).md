@@ -2,7 +2,7 @@
 Ver.-**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子團體](https://zh.wikipedia.org/wiki/男子團體 "wikilink")[防彈少年團的第六張日語單曲](../Page/防彈少年團.md "wikilink")，由[PDOGG](https://zh.wikipedia.org/wiki/PDOGG "wikilink")、[HITMAN
 BANG](https://zh.wikipedia.org/wiki/房時赫 "wikilink")、[Rap
 Monster](../Page/金南俊.md "wikilink")、[SUGA](../Page/閔玧其.md "wikilink")、[V](https://zh.wikipedia.org/wiki/金泰亨 "wikilink")、[Jung
-Kook](../Page/田柾國.md "wikilink")、[j-hope作曲](https://zh.wikipedia.org/wiki/鄭號錫 "wikilink")、作詞，並在2016年3月15日以四個不同版本推出\[1\]。
+Kook](../Page/田柾國.md "wikilink")、[j-hope作曲](../Page/鄭號錫.md "wikilink")、作詞，並在2016年3月15日以四個不同版本推出\[1\]。
 
 ## 背景
 

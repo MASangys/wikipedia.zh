@@ -34,7 +34,7 @@ disability）。这是一个偶发性突变，发生在父母的[配子](https:/
 
 ## 相互作用
 
-SYNGAP1被发现可以与[DLG3和](https://zh.wikipedia.org/wiki/DLG3 "wikilink")[ULK1产生相互作用](https://zh.wikipedia.org/wiki/ULK1 "wikilink")。\[17\]\[18\]
+SYNGAP1被发现可以与[DLG3和](../Page/DLG3.md "wikilink")[ULK1产生相互作用](https://zh.wikipedia.org/wiki/ULK1 "wikilink")。\[17\]\[18\]
 
 ## 参考文献
 
