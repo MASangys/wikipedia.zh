@@ -1,6 +1,6 @@
 **Kalafina**（台：華麗菲娜\[1\]，陸：卡拉菲娜）是[梶浦由記創立的](../Page/梶浦由記.md "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")，隸屬於[SPACE
 CRAFT](../Page/SPACE_CRAFT.md "wikilink")（經紀公司）\[2\]及[SACRA
-MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")（唱片公司）\[3\]\[4\]。2019年3月13日官方宣告解散\[5\]。
+MUSIC](../Page/SACRA_MUSIC.md "wikilink")（唱片公司）\[3\]\[4\]。2019年3月13日官方宣告解散\[5\]。
 
 ## 概要
 
@@ -16,8 +16,8 @@ Heaven](../Page/Seventh_Heaven_\(Kalafina專輯\).md "wikilink")》之后Maya离
 
 2017年4月，由原先[SME
 Records移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/SME_Records.md "wikilink")[SACRA
-MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")\[10\]。7月15日、16日四度來台，於台北
-ATT SHOW BOX舉行九週年海外巡迴「Kalafina 9＋ONE 」\[11\]。
+MUSIC](../Page/SACRA_MUSIC.md "wikilink")\[10\]。7月15日、16日四度來台，於台北 ATT
+SHOW BOX舉行九週年海外巡迴「Kalafina 9＋ONE 」\[11\]。
 
 2017年12月，隨著[梶浦由記將在](../Page/梶浦由記.md "wikilink")2018年2月時離開所屬的事務所[SPACE
 CRAFT](../Page/SPACE_CRAFT.md "wikilink")，也跟著出現「Kalafina也因此中止相關活動」的報導\[12\]\[13\]。
@@ -284,7 +284,7 @@ SECL-1743～4(B)</p></td>
 <tr class="even">
 <td><p>19th</p></td>
 <td><p>2016年8月10日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Blaze_(Kalafina單曲)" title="wikilink">blaze</a></strong></p></td>
+<td><p><strong><a href="../Page/Blaze_(Kalafina單曲).md" title="wikilink">blaze</a></strong></p></td>
 <td><p>SECL-1956～7(A)<br />
 SECL-1958～9(B)</p></td>
 <td><p>SECL-1960</p></td>
@@ -928,9 +928,8 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
   - 11月3日 ANIMAX MUSIX FALL 2010（[橫濱體育館](../Page/橫濱體育館.md "wikilink")）
   - 12月10日 （）
   - 12月17日 Kalafina LIVE 2010“Red Moon”in Taipei（Legacy Taipei傳音樂展演空間）
-  - 12月19日 [Lis
-    Ani\!LIVE](https://zh.wikipedia.org/wiki/Lis_Ani! "wikilink") 2010
-    DAY STAGE/NIGHT STAGE（東京國際論壇 Hall A）
+  - 12月19日 [Lis Ani\!LIVE](../Page/Lis_Ani!.md "wikilink") 2010 DAY
+    STAGE/NIGHT STAGE（東京國際論壇 Hall A）
 
 <!-- end list -->
 

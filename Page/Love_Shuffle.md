@@ -106,7 +106,7 @@
   - 電玩中心工作人員 - [蒲生純一](https://zh.wikipedia.org/wiki/蒲生純一 "wikilink")
     饰演（第3話）
   - 瀧川陽治 - [大東俊介](https://zh.wikipedia.org/wiki/大東俊介 "wikilink") 饰演（第4話）
-  - 上條裕也 - [尾美利德](https://zh.wikipedia.org/wiki/尾美利德 "wikilink") 饰演（第6話）
+  - 上條裕也 - [尾美利德](../Page/尾美利德.md "wikilink") 饰演（第6話）
   - 龜井五郎 - [袴田吉彦](https://zh.wikipedia.org/wiki/袴田吉彦 "wikilink")
     饰演（第7話～第9話）
   - 龜井美惠 - [梅宮萬紗子](https://zh.wikipedia.org/wiki/梅宮萬紗子 "wikilink")

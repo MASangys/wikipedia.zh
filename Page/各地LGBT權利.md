@@ -34,7 +34,7 @@ LGBT權利的[人權論述在](https://zh.wikipedia.org/wiki/人權 "wikilink")1
   - 跨性別者可施行[性別重置手術和](../Page/性別重置手術.md "wikilink")[激素替代療法](../Page/激素替代療法.md "wikilink")
   - 政府允許性別變更登記（承認其性別身份）
 
-[反對LGBT權益的法律包括](https://zh.wikipedia.org/wiki/反對LGBT權益 "wikilink")[性悖軌法](../Page/性悖軌法.md "wikilink")（sodomy
+[反對LGBT權益的法律包括](../Page/反對LGBT權益.md "wikilink")[性悖軌法](../Page/性悖軌法.md "wikilink")（sodomy
 law）的制定：處罰合意的同性性行為，為同性性行為制定較高的性交[同意年齡](https://zh.wikipedia.org/wiki/最低合法性交年齡 "wikilink")，LGBT相關的[言論自由以及](../Page/言論自由.md "wikilink")[集會自由](../Page/集會自由.md "wikilink")、[結社自由受到法律限制等等](../Page/結社自由.md "wikilink")。
 
 2011年，[聯合國通過首份承認LGBT權利的決議案](https://zh.wikipedia.org/wiki/聯合國 "wikilink")，隨後並提出侵犯LGBT權利的報告，具體調查世界各國境內仇恨罪、同性性行為之刑事定罪以及相關歧視等行為。\[3\]\[4\]

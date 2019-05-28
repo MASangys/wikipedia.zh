@@ -566,7 +566,7 @@ SQ》編輯的規制較鬆，會有[社會問題](https://zh.wikipedia.org/wiki/
 </tr>
 <tr class="even">
 <td><p>52</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/帝一之國" title="wikilink">帝一之國</a></p></td>
+<td><p><a href="../Page/帝一之國.md" title="wikilink">帝一之國</a></p></td>
 <td><p><a href="../Page/古屋兔丸.md" title="wikilink">古屋兔丸</a></p></td>
 <td><p>－</p></td>
 <td><p>2012.03</p></td>
@@ -707,7 +707,7 @@ SQ》編輯的規制較鬆，會有[社會問題](https://zh.wikipedia.org/wiki/
 <td><p>66</p></td>
 <td></td>
 <td><p><a href="../Page/河下水希.md" title="wikilink">河下水希</a>（作畫）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大崎知仁" title="wikilink">大崎知仁</a>（原作）</p></td>
+<td><p><a href="../Page/大崎知仁.md" title="wikilink">大崎知仁</a>（原作）</p></td>
 <td><p>2013.06</p></td>
 <td><p>2015.01</p></td>
 <td></td>
@@ -1054,7 +1054,7 @@ SQ》編輯的規制較鬆，會有[社會問題](https://zh.wikipedia.org/wiki/
 <tr class="odd">
 <td><p>100</p></td>
 <td><p><strong></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/黑羽" title="wikilink">黑羽</a></p></td>
+<td><p><a href="../Page/黑羽.md" title="wikilink">黑羽</a></p></td>
 <td><p>－</p></td>
 <td><p>2017.08</p></td>
 <td><p>連載中</p></td>
@@ -1080,7 +1080,7 @@ SQ》編輯的規制較鬆，會有[社會問題](https://zh.wikipedia.org/wiki/
 </tr>
 <tr class="even">
 <td><p>103</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/童話魔法使" title="wikilink">童話魔法使</a></p></td>
+<td><p><a href="../Page/童話魔法使.md" title="wikilink">童話魔法使</a></p></td>
 <td><p>中村尚儁（分鏡構成）<br />
 山縣清繼（作畫）</p></td>
 <td><p><a href="../Page/松智洋.md" title="wikilink">松智洋</a>／StoryWorks（原作）<br />
@@ -1348,7 +1348,7 @@ SQ》編輯的規制較鬆，會有[社會問題](https://zh.wikipedia.org/wiki/
 <tr class="odd">
 <td><p>01</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/3年Z組銀八先生" title="wikilink">3年Z組銀八先生</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大崎知仁" title="wikilink">大崎知仁</a></p></td>
+<td><p><a href="../Page/大崎知仁.md" title="wikilink">大崎知仁</a></p></td>
 <td><p><a href="../Page/空知英秋.md" title="wikilink">空知英秋</a></p></td>
 <td><p><a href="../Page/日昇動畫.md" title="wikilink">Sunrise</a></p></td>
 <td><p>2007.12</p></td>
@@ -1358,7 +1358,7 @@ SQ》編輯的規制較鬆，會有[社會問題](https://zh.wikipedia.org/wiki/
 <tr class="even">
 <td><p>02</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN!#小說" title="wikilink">家庭教師HITMAN REBORN! 隱藏彈</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/子安秀明" title="wikilink">子安秀明</a></p></td>
+<td><p><a href="../Page/子安秀明.md" title="wikilink">子安秀明</a></p></td>
 <td><p><a href="../Page/天野明.md" title="wikilink">天野明</a></p></td>
 <td><p><a href="../Page/天野明.md" title="wikilink">天野明</a></p></td>
 <td><p>2008.06</p></td>

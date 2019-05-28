@@ -318,7 +318,7 @@ PIECE FILM Strong World》劇場版的前150萬人的觀眾，將獲得《海賊
   - 「佛」之戰國：石森達幸
   - 蒙其·D·卡普：中博史
   - 「青雉」庫山（年輕時期）：[子安武人](../Page/子安武人.md "wikilink")
-  - 鶴：[松島實](https://zh.wikipedia.org/wiki/松島實 "wikilink")
+  - 鶴：[松島實](../Page/松島實.md "wikilink")
   - 哈古瓦爾·D·薩烏羅
   - 「黃猿」波爾薩利諾（年輕時期）
   - 「赤犬」薩卡斯基（年輕時期）
@@ -333,7 +333,7 @@ PIECE FILM Strong World》劇場版的前150萬人的觀眾，將獲得《海賊
   - 「鷹眼」密佛格（年輕時期）
   - 沙·克洛克達爾（年輕時期）
   - 「月光」摩利亞（年輕時期）
-  - 娜菲魯塔莉·寇布拉：[家弓家正](https://zh.wikipedia.org/wiki/家弓家正 "wikilink")
+  - 娜菲魯塔莉·寇布拉：[家弓家正](../Page/家弓家正.md "wikilink")
   - 娜菲魯塔莉·蒂蒂
   - 尹卡萊姆
   - 卡西：[福原耕平](../Page/福原耕平.md "wikilink")
@@ -361,7 +361,7 @@ PIECE FILM Strong World》劇場版的前150萬人的觀眾，將獲得《海賊
   - 耕四郎：[石塚運昇](../Page/石塚運昇.md "wikilink")
   - 克伊娜的母親
   - 克伊娜（嬰兒時期）
-  - 耶穌布：[小林通孝](https://zh.wikipedia.org/wiki/小林通孝 "wikilink")
+  - 耶穌布：[小林通孝](../Page/小林通孝.md "wikilink")
   - 梅利：[土門仁](https://zh.wikipedia.org/wiki/土門仁 "wikilink")
   - 貝爾梅爾：[日高範子](../Page/日高範子.md "wikilink")
   - 西爾爾克：[牛山茂](https://zh.wikipedia.org/wiki/牛山茂 "wikilink")
@@ -415,7 +415,7 @@ PIECE FILM Strong World》劇場版的前150萬人的觀眾，將獲得《海賊
 <!-- end list -->
 
   -
-    聲優：[長嶝高士](https://zh.wikipedia.org/wiki/長嶝高士 "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[長嶝高士](../Page/長嶝高士.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     韓森島村民。跟索隆同個村子出身。
 
 <!-- end list -->

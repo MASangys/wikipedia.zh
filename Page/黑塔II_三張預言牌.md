@@ -1,4 +1,4 @@
-《**三張預言牌**》（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[史蒂芬金於](https://zh.wikipedia.org/wiki/史蒂芬金 "wikilink")1987年所寫的長篇[奇幻小說](https://zh.wikipedia.org/wiki/奇幻小說 "wikilink")[黑塔系列中的第二集](https://zh.wikipedia.org/wiki/黑塔 "wikilink")，在遇到黑衣人之後，羅蘭在海灘受到肉食怪物『龍蝦怪』襲擊，因而受了[重傷](https://zh.wikipedia.org/wiki/重傷 "wikilink")，還被『龍蝦怪』的[毒液感染](https://zh.wikipedia.org/wiki/毒液 "wikilink")，性命垂危，他還必須打開海灘上的三道門，牽引出命運中的三個人。此集的副標題為『舊而復新』。
+《**三張預言牌**》（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[小說家](https://zh.wikipedia.org/wiki/小說家 "wikilink")[史蒂芬金於](https://zh.wikipedia.org/wiki/史蒂芬金 "wikilink")1987年所寫的長篇[奇幻小說](https://zh.wikipedia.org/wiki/奇幻小說 "wikilink")[黑塔系列中的第二集](https://zh.wikipedia.org/wiki/黑塔 "wikilink")，在遇到黑衣人之後，羅蘭在海灘受到肉食怪物『龍蝦怪』襲擊，因而受了[重傷](https://zh.wikipedia.org/wiki/重傷 "wikilink")，還被『龍蝦怪』的[毒液感染](../Page/毒液.md "wikilink")，性命垂危，他還必須打開海灘上的三道門，牽引出命運中的三個人。此集的副標題為『舊而復新』。
 
 ## 劇情概要
 

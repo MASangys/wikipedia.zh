@@ -9,7 +9,7 @@ PMIC的主要功用為控制電量流量及流向以配合主系統需要。在�
 
 PMIC可以具有一个或者多个功能，這些功能包括：
 
-  - [直流-直流轉換器](https://zh.wikipedia.org/wiki/直流-直流轉換器 "wikilink")
+  - [直流-直流轉換器](../Page/直流-直流轉換器.md "wikilink")
   - [低壓差穩壓器](../Page/低壓差穩壓器.md "wikilink")(LDO)
   - [電池充電器](../Page/充電器.md "wikilink")
   - 電源選擇

@@ -146,7 +146,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中磁鼓島篇（喬巴篇
 
   - 原作·企劃合作：[尾田榮一郎](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")
   - 監督·畫素描筆：[志水淳兒](https://zh.wikipedia.org/wiki/志水淳兒 "wikilink")
-  - 畫素描筆合作：[龜垣一](https://zh.wikipedia.org/wiki/龜垣一 "wikilink")
+  - 畫素描筆合作：[龜垣一](../Page/龜垣一.md "wikilink")
   - 脚本：[上坂浩彦](https://zh.wikipedia.org/wiki/上坂浩彦 "wikilink")
   - 美術監督：[平間由香](https://zh.wikipedia.org/wiki/平間由香 "wikilink")
   - 人物設計・作畫監督：[舘直樹](https://zh.wikipedia.org/wiki/舘直樹 "wikilink")

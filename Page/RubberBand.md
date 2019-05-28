@@ -249,7 +249,7 @@ flat”，最先見於其首張大碟《[Apollo
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>6th</p></td>
-<td style="text-align: left;"><p>F: <a href="https://zh.wikipedia.org/wiki/Frank" title="wikilink">Frank</a></p></td>
+<td style="text-align: left;"><p>F: <a href="../Page/Frank.md" title="wikilink">Frank</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/寰亞唱片" title="wikilink">寰亞唱片</a></p></td>
 <td style="text-align: left;"><p>2014年4月10日</p></td>
@@ -277,7 +277,7 @@ flat”，最先見於其首張大碟《[Apollo
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>7th</p></td>
-<td style="text-align: left;"><p>G: <a href="https://zh.wikipedia.org/wiki/Gotta_Go" title="wikilink">Gotta Go</a></p></td>
+<td style="text-align: left;"><p>G: <a href="../Page/Gotta_Go.md" title="wikilink">Gotta Go</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/寰亞唱片" title="wikilink">寰亞唱片</a></p></td>
 <td style="text-align: left;"><p>2016年1月8日</p></td>
@@ -1248,7 +1248,7 @@ featuring 6號＠RubberBand</p></td>
 | Easy                                                                                     |
 | [橡芽](https://zh.wikipedia.org/wiki/橡芽 "wikilink")                                        |
 | **2013年**                                                                                |
-| [Frank](https://zh.wikipedia.org/wiki/Frank "wikilink")                                  |
+| [Frank](../Page/Frank.md "wikilink")                                                     |
 | **2014年**                                                                                |
 | Frank                                                                                    |
 | Frank                                                                                    |
@@ -1260,7 +1260,7 @@ featuring 6號＠RubberBand</p></td>
 |                                                                                          |
 | Frank?                                                                                   |
 | **2015年**                                                                                |
-| [Gotta Go](https://zh.wikipedia.org/wiki/Gotta_Go "wikilink")                            |
+| [Gotta Go](../Page/Gotta_Go.md "wikilink")                                               |
 | Gotta Go                                                                                 |
 | Gotta Go                                                                                 |
 | Gotta Go                                                                                 |
@@ -1401,8 +1401,8 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 
 ### 2010年度
 
-  - [2010勁歌金曲優秀選第三回](https://zh.wikipedia.org/wiki/2010年勁歌金曲優秀選第三回得獎名單 "wikilink")
-    - 得獎歌曲《SimpleLoveSong》
+  - [2010勁歌金曲優秀選第三回](../Page/2010年勁歌金曲優秀選第三回得獎名單.md "wikilink") -
+    得獎歌曲《SimpleLoveSong》
   - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") -
     新城勁爆歌曲《SimpleLoveSong》
   - [新城勁爆頒獎禮2010](../Page/2010年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆年度專輯
@@ -1435,8 +1435,8 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
   - [新城國語力頒獎禮2011](../Page/2011年度新城國語力頒獎禮得獎名單.md "wikilink") -
     新城國語力歌曲《SimpleLoveSong》
   - [新城國語力頒獎禮2011](../Page/2011年度新城國語力頒獎禮得獎名單.md "wikilink") - 新城國語力樂團
-  - [2010勁歌金曲優秀選第二回](https://zh.wikipedia.org/wiki/2011年勁歌金曲優秀選第二回得獎名單 "wikilink")
-    - 得獎歌曲《陪著你走》
+  - [2010勁歌金曲優秀選第二回](../Page/2011年勁歌金曲優秀選第二回得獎名單.md "wikilink") -
+    得獎歌曲《陪著你走》
   - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") -
     新城勁爆改編歌曲《陪著你走》
   - [新城勁爆頒獎禮2011](../Page/2011年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆樂隊
@@ -1452,12 +1452,12 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 
 ### 2012年度
 
-  - [2012勁歌金曲優秀選第一回](https://zh.wikipedia.org/wiki/2012年勁歌金曲優秀選第一回得獎名單 "wikilink")
-    - 得獎歌曲《Easy》
+  - [2012勁歌金曲優秀選第一回](../Page/2012年勁歌金曲優秀選第一回得獎名單.md "wikilink") -
+    得獎歌曲《Easy》
   - [2012年CASH金帆音樂獎](../Page/2012年CASH金帆音樂獎.md "wikilink") -
     最佳樂隊演繹《Easy》
-  - [2012勁歌金曲優秀選第三回](https://zh.wikipedia.org/wiki/2012年勁歌金曲優秀選第三回得獎名單 "wikilink")
-    - 得獎歌曲《睜開眼》
+  - [2012勁歌金曲優秀選第三回](../Page/2012年勁歌金曲優秀選第三回得獎名單.md "wikilink") -
+    得獎歌曲《睜開眼》
   - [YAHOO\!搜尋人氣大獎2012](../Page/2012年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink") -
     本地音樂組合
   - [新城勁爆頒獎禮2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink") -
@@ -1465,7 +1465,7 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
   - [新城勁爆頒獎禮2012](../Page/2012年度新城勁爆頒獎禮得獎名單.md "wikilink") -
     新城勁爆亞洲創作樂隊大獎
   - [2012年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2012年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    - 叱咤樂壇至尊唱片大獎《[Easy](https://zh.wikipedia.org/wiki/Easy "wikilink")》
+    - 叱咤樂壇至尊唱片大獎《[Easy](../Page/Easy.md "wikilink")》
   - [2012年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2012年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
     - 叱吒樂壇組合 金獎
   - [2012年度十大勁歌金曲頒獎典禮](../Page/2012年度十大勁歌金曲得獎名單.md "wikilink") - 最受歡迎組合獎
@@ -1500,22 +1500,21 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
   - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") -
     新城勁爆歌曲《成長說明書》
   - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") -
-    新城勁爆專輯《[Frank](https://zh.wikipedia.org/wiki/Frank "wikilink")》
+    新城勁爆專輯《[Frank](../Page/Frank.md "wikilink")》
   - [新城勁爆頒獎禮2014](../Page/2014年度新城勁爆頒獎禮得獎名單.md "wikilink") - 新城勁爆亞洲樂隊大獎
   - [2014年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2014年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
-    -
-    叱咤樂壇至尊唱片大獎《[Frank](https://zh.wikipedia.org/wiki/Frank "wikilink")》
+    - 叱咤樂壇至尊唱片大獎《[Frank](../Page/Frank.md "wikilink")》
   - [2014年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2014年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
     - 叱吒樂壇組合 金獎
   - 2014年度叱咤樂壇流行榜頒獎典禮 -
     叱咤樂壇我最喜愛歌曲《[撐起雨傘](../Page/撐起雨傘.md "wikilink")》（6號、泥鯭、阿偉）
   - [IFPI香港唱片銷量大獎2014](../Page/IFPI香港唱片銷量大獎頒獎禮2014.md "wikilink") -
-    十大銷量廣東唱片《[Frank](https://zh.wikipedia.org/wiki/Frank "wikilink")》
+    十大銷量廣東唱片《[Frank](../Page/Frank.md "wikilink")》
   - 快樂的私家播放指數2014 Top 12 Songs \#1《撐起雨傘》（6號、泥鯭、阿偉）
   - Cool Music Forum會員共和榜 2014年度共和唱作人 銀獎
   - Cool Music Forum會員共和榜 2014年度共和組合 金獎
   - Cool Music Forum會員共和榜 2014年度共和唱片
-    銅獎《[Frank](https://zh.wikipedia.org/wiki/Frank "wikilink")》
+    銅獎《[Frank](../Page/Frank.md "wikilink")》
   - 當下音樂 一四總結 年度20大 第十位 《你和我》
   - 2014 Music Picks 最喜愛MV 《你和我》
   - 2014 Music Picks 最喜愛30首 《語言藝術》
@@ -1537,14 +1536,12 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 
 ### 2016年度
 
-  - [新城勁爆頒獎禮2016](https://zh.wikipedia.org/wiki/2016年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 勁爆樂隊 銅獎
-  - [新城勁爆頒獎禮2016](https://zh.wikipedia.org/wiki/2016年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 勁爆編曲《芝士》
+  - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆樂隊 銅獎
+  - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆編曲《芝士》
   - [2016年度叱吒樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱吒樂壇流行榜頒獎典禮得獎名單 "wikilink")
     - 專業推介叱吒十大 第七位《終於好天氣》（與[方皓玟合唱](../Page/方皓玟.md "wikilink")）
-  - [第三十九屆十大中文金曲頒獎音樂會](https://zh.wikipedia.org/wiki/第三十九屆十大中文金曲得獎名單 "wikilink")
-    - 全年最佳樂隊/組合獎 銅獎
+  - [第三十九屆十大中文金曲頒獎音樂會](../Page/第三十九屆十大中文金曲得獎名單.md "wikilink") -
+    全年最佳樂隊/組合獎 銅獎
   - 快樂的 - 最愛演唱會2016 TOP 3 《呢度RubberBand Live》
   - 斐宇梧的中文唱片架 自選2016年中港台50首最佳歌曲 第十三位 《堅彌地城》（feat. Charatay）
   - 2016 Music Picks 最喜愛歌曲 第六位《堅彌地城》（feat. Charatay）
@@ -1563,10 +1560,9 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 
 ### 2017年度
 
-  - [新城勁爆頒獎禮2017](https://zh.wikipedia.org/wiki/2017年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 勁爆合唱歌曲《黑膠》（6號與[李克勤合唱](../Page/李克勤.md "wikilink")）
-  - [新城勁爆頒獎禮2017](https://zh.wikipedia.org/wiki/2017年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 勁爆樂隊
+  - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") -
+    勁爆合唱歌曲《黑膠》（6號與[李克勤合唱](../Page/李克勤.md "wikilink")）
+  - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆樂隊
   - [2017年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2017年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")
     - 叱咤樂壇組合 銀獎
   - 論盡音樂 第一屆 論盡樂迷大賞 (2006-2016)「論盡樂迷樂隊組合大賞」銅獎

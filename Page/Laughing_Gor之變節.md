@@ -218,7 +218,7 @@ Laughing哥之教官</p></td>
 <td><p>探員</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚　兵</a></p></td>
+<td><p><a href="../Page/姚兵.md" title="wikilink">姚　兵</a></p></td>
 <td><p>探　員</p></td>
 <td><p>探員</p></td>
 </tr>

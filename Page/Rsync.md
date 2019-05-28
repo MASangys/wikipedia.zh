@@ -29,7 +29,7 @@ checksum）算法。
 
 ## 使用
 
-**`rsync`**的撰寫是用来取代[rcp與](https://zh.wikipedia.org/wiki/rcp "wikilink")[SCP](https://zh.wikipedia.org/wiki/安全复制 "wikilink")\[2\]。rsync最早期程式的其中之一是用來實現透過rsync/ssh與標準Unix帳號，從多重Unix客戶端鏡像或者備份到中央Unix伺服器。與如[Cron類似的排程應用程式配合](../Page/Cron.md "wikilink")，任何人皆可排程介於多台電腦與中央伺服器間自動加密過、基於rsync的鏡像備份。
+**`rsync`**的撰寫是用来取代[rcp與](https://zh.wikipedia.org/wiki/rcp "wikilink")[SCP](../Page/安全复制.md "wikilink")\[2\]。rsync最早期程式的其中之一是用來實現透過rsync/ssh與標準Unix帳號，從多重Unix客戶端鏡像或者備份到中央Unix伺服器。與如[Cron類似的排程應用程式配合](../Page/Cron.md "wikilink")，任何人皆可排程介於多台電腦與中央伺服器間自動加密過、基於rsync的鏡像備份。
 
 ## 變種
 

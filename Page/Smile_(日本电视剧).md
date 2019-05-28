@@ -57,7 +57,7 @@ III](https://zh.wikipedia.org/wiki/长不齐的苹果们 "wikilink")》12年后�
 
 <!-- end list -->
 
-  - 柏木启介：[勝村政信](https://zh.wikipedia.org/wiki/勝村政信 "wikilink")
+  - 柏木启介：[勝村政信](../Page/勝村政信.md "wikilink")
 
 <!-- end list -->
 
@@ -87,7 +87,7 @@ III](https://zh.wikipedia.org/wiki/长不齐的苹果们 "wikilink")》12年后�
 
 <!-- end list -->
 
-  - 甲斐：[松田悟志](https://zh.wikipedia.org/wiki/松田悟志 "wikilink")
+  - 甲斐：[松田悟志](../Page/松田悟志.md "wikilink")
 
 <!-- end list -->
 

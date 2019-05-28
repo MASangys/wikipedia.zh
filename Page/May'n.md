@@ -204,7 +204,7 @@ Fanclub）
     5.  Soliste〜ソリスト（without May'n）
     6.  Dear YES＞＜NO（without May'n）
 12. **Re:REMEMBER**（2014年6月18日 商品番號：VTCL-35184）
-    1.  Re:REMEMBER（動畫「[M3～其為黑鋼～](https://zh.wikipedia.org/wiki/M3～其為黑鋼～ "wikilink")」OP）
+    1.  Re:REMEMBER（動畫「[M3～其為黑鋼～](../Page/M3～其為黑鋼～.md "wikilink")」OP）
     2.  誰がために
     3.  カタツムリ
     4.  Re:REMEMBER（without May'n）
@@ -284,7 +284,7 @@ Fanclub）
   - May'n UNITE\!\! ASIA TOUR 2011
       - 2011年5月13日/[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")・上海商城劇場
       - 2011年5月15日/[中國](../Page/中國.md "wikilink")[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")・蓓蕾劇院
-      - 2011年5月21日/[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")・V-HALL
+      - 2011年5月21日/[首爾](../Page/首爾.md "wikilink")・V-HALL
       - 2011年5月27日/[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")・新北市板橋區體育館
       - 2011年5月29日/[香港](../Page/香港.md "wikilink")・九龍灣國際展貿中心
       - 2011年6月4日/[新加坡](../Page/新加坡.md "wikilink")・\*SCAPE

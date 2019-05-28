@@ -10,7 +10,7 @@ Series**》（），是[科樂美](../Page/科樂美.md "wikilink")（KONAMI）�
 
 本遊戲由[科樂美電腦娛樂日本](https://zh.wikipedia.org/wiki/科樂美電腦娛樂日本 "wikilink")（Konami
 Computer Entertainment
-Japan）[小島組製作](https://zh.wikipedia.org/wiki/小島組 "wikilink")，在[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")（PS）及[SEGA
+Japan）[小島組製作](https://zh.wikipedia.org/wiki/小島組 "wikilink")，在[PlayStation](../Page/PlayStation.md "wikilink")（PS）及[SEGA
 Saturn](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")（SS）推出，唯只有SS版本在Vol.3時有限定版發售。
 
 ## 概要

@@ -164,7 +164,7 @@ Image:Suzuki S-Cross Cruising Concept - Mondial de l'Automobile de Paris
 [Category:拉力賽車輛](https://zh.wikipedia.org/wiki/Category:拉力賽車輛 "wikilink")
 [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
 
-1.  有趣的是，舊世代的[鈴木Liana由另一家合資企業](../Page/鈴木Liana.md "wikilink")[昌河鈴木投產](https://zh.wikipedia.org/wiki/昌河汽车 "wikilink")，形成新、舊世代車款同台較勁的有趣場面，這是中國汽車市場的特殊現象。
+1.  有趣的是，舊世代的[鈴木Liana由另一家合資企業](../Page/鈴木Liana.md "wikilink")[昌河鈴木投產](../Page/昌河汽车.md "wikilink")，形成新、舊世代車款同台較勁的有趣場面，這是中國汽車市場的特殊現象。
 2.  [AutoNet汽車日報：北京車展新聞-長安鈴木天語SUZUKI
     SX4中國版正式下線](http://mobile.autonet.com.tw/cgi-bin/file_view.cgi?a6110852061129)。
 3.  參見[スズキWRCチャレンジ：参戦体制について](http://www.globalsuzuki.com/motorsports_2007/team/j/index.html)。

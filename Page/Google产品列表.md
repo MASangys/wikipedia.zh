@@ -229,7 +229,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Checkout](https://zh.wikipedia.org/wiki/Google_Checkout "wikilink")**
+  - **[Checkout](../Page/Google_Checkout.md "wikilink")**
     [22](https://swap.stanford.edu/20140131180147/https://checkout.google.com/)
 
 <!-- end list -->
@@ -520,7 +520,7 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 
 <!-- end list -->
 
-  - **[Dodgeball](https://zh.wikipedia.org/wiki/Dodgeball "wikilink")**
+  - **[Dodgeball](../Page/Dodgeball.md "wikilink")**
     [53](https://web.archive.org/web/20090430083341/http://www.dodgeball.com/)
 
 <!-- end list -->
@@ -979,8 +979,7 @@ Earth，参见“[獨立應用程序](https://zh.wikipedia.org/wiki/Google产品
   - [Nexus 6](../Page/Nexus_6.md "wikilink")
   - [Nexus 5X](../Page/Nexus_5X.md "wikilink")
   - [Nexus 6P](../Page/Nexus_6P.md "wikilink")
-  - [Google
-    Pixel](https://zh.wikipedia.org/wiki/Google_Pixel "wikilink")
+  - [Google Pixel](../Page/Google_Pixel.md "wikilink")
   - [Google Pixel
     2](https://zh.wikipedia.org/wiki/Google_Pixel_2 "wikilink")
   - [Google Pixel

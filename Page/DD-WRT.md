@@ -102,7 +102,7 @@ LSX以及[Netgear](https://zh.wikipedia.org/wiki/Netgear "wikilink")、[Belkin](
 
 ## 参见
 
-  - [客制路由器韌體清單](https://zh.wikipedia.org/wiki/客制路由器韌體清單 "wikilink")
+  - [客制路由器韌體清單](../Page/客制路由器韌體清單.md "wikilink")
   - [Tomato](https://zh.wikipedia.org/wiki/Tomato "wikilink")
   - [OpenWrt](../Page/OpenWrt.md "wikilink")
 

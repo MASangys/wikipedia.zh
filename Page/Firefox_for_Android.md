@@ -4,7 +4,7 @@ Mobile”）是[Firefox](../Page/Firefox.md "wikilink")[瀏覽器針對](https:/
 Firefox for Android使用和[Mozilla
 Firefox相同的](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Gecko](../Page/Gecko.md "wikilink")[排版引擎](../Page/排版引擎.md "wikilink")。例如，版本1.0使用與Firefox
 3.6相同的引擎，而4.0以後版本與Firefox
-4.0共享核心代碼。它的功能包括[HTML5支援](../Page/HTML5.md "wikilink")、[同步](../Page/Firefox_Sync.md "wikilink")、[附加元件和](https://zh.wikipedia.org/wiki/附加组件_\(Mozilla\) "wikilink")[分頁式瀏覽](https://zh.wikipedia.org/wiki/分頁式瀏覽 "wikilink")\[1\]。
+4.0共享核心代碼。它的功能包括[HTML5支援](../Page/HTML5.md "wikilink")、[同步](../Page/Firefox_Sync.md "wikilink")、[附加元件和](../Page/附加组件_\(Mozilla\).md "wikilink")[分頁式瀏覽](https://zh.wikipedia.org/wiki/分頁式瀏覽 "wikilink")\[1\]。
 
 ## 命名
 
@@ -183,8 +183,7 @@ Benedetti評選為優秀設計、高效率記憶體消耗、瀏覽器的開源�
 ## 參見
 
   - [Firefox for iOS](../Page/Firefox_for_iOS.md "wikilink")
-  - [Firefox
-    Focus](https://zh.wikipedia.org/wiki/Firefox_Focus "wikilink")
+  - [Firefox Focus](../Page/Firefox_Focus.md "wikilink")
   - [Minimo](../Page/Minimo.md "wikilink")
 
 ## 外部链接

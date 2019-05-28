@@ -59,7 +59,7 @@ __NOTOC__
 </ul></li>
 <li>赛车
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/2015年世界一级方程式锦标赛" title="wikilink">世界一级方程式锦标赛</a></li>
+<li><a href="../Page/2015年世界一级方程式锦标赛.md" title="wikilink">世界一级方程式锦标赛</a></li>
 <li><a href="../Page/2015年世界拉力锦标赛.md" title="wikilink">世界拉力锦标赛</a></li>
 </ul></li>
 </ul></td>

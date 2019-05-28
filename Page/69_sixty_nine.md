@@ -30,11 +30,11 @@ nine**》，[日本作家](../Page/日本.md "wikilink")[村上龍的自傳小�
   - 工業の番長：[新井浩文](../Page/新井浩文.md "wikilink")
   - 阿爾法·羅密歐の女：[井川遥](https://zh.wikipedia.org/wiki/井川遥 "wikilink")
   - 極道：[村上淳](https://zh.wikipedia.org/wiki/村上淳 "wikilink")
-  - 中村譲：[星野源](https://zh.wikipedia.org/wiki/星野源 "wikilink")
+  - 中村譲：[星野源](../Page/星野源.md "wikilink")
   - 大滝良：[加瀨亮](../Page/加瀨亮.md "wikilink")
   - 福島清：[与座嘉秋](https://zh.wikipedia.org/wiki/与座嘉秋 "wikilink")
   - 成島五郎：[三浦哲郁](https://zh.wikipedia.org/wiki/三浦哲郁 "wikilink")
-  - 増垣達夫：[柄本佑](https://zh.wikipedia.org/wiki/柄本佑 "wikilink")
+  - 増垣達夫：[柄本佑](../Page/柄本佑.md "wikilink")
   - 書記長：瀨山俊行
   - 城串裕二：[桐谷健太](../Page/桐谷健太.md "wikilink")
   - 相原先生：[嶋田久作](https://zh.wikipedia.org/wiki/嶋田久作 "wikilink")

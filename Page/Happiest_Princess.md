@@ -6,8 +6,7 @@ Princess**」是[日本配音員](https://zh.wikipedia.org/wiki/日本配音員 
 1.  Happiest Princess
       - [作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink")・[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink")：[Funta](https://zh.wikipedia.org/wiki/Funta "wikilink")、[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink")：[宅見将典](https://zh.wikipedia.org/wiki/宅見将典 "wikilink")
       - [PS2版](../Page/PlayStation_2.md "wikilink")[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")《[White
-        Princess the
-        second](https://zh.wikipedia.org/wiki/White_Princess "wikilink")》主題曲
+        Princess the second](../Page/White_Princess.md "wikilink")》主題曲
 2.  Butterfly（）
       - 作詞・作曲・編曲：[宮崎誠](https://zh.wikipedia.org/wiki/宮崎誠 "wikilink")
 3.  Happiest Princess（off vocal）

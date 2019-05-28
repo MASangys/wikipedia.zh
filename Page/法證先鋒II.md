@@ -1148,13 +1148,13 @@ David Leung之顧客<br />
 於第22集被捕</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td><p>何永虎</p></td>
 <td><p>綁匪“虎皮鲨”<br />
 於第22集被捕</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
+<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
 <td><p>王廣昌</p></td>
 <td><p>馬國宏的百囍酒樓的經理（部長）<br />
 三合會會員 绰号“大佬昌”</p></td>
@@ -1249,7 +1249,7 @@ David Leung之顧客<br />
 何良之父</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/陳少邦" title="wikilink">陳少邦</a></p></td>
+<td><p><a href="../Page/陳少邦.md" title="wikilink">陳少邦</a></p></td>
 <td><p>曾浩南</p></td>
 <td><p>張燕瓊之男友，於第25集分手</p></td>
 </tr>
@@ -1755,7 +1755,7 @@ David Leung之顧客<br />
 </tr>
 <tr class="even">
 <td><p>2010</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/星和無綫電視大獎2010" title="wikilink">星和無綫電視大獎2010</a></p></td>
+<td><p><a href="../Page/星和無綫電視大獎2010.md" title="wikilink">星和無綫電視大獎2010</a></p></td>
 <td><p>我最愛TVB女藝人</p></td>
 <td></td>
 <td></td>

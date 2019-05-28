@@ -49,8 +49,7 @@
 ## 电影和电视
 
   - 特工J，电影《[黑衣人](../Page/黑衣人.md "wikilink")》中[威尔·史密斯饰演的一个](https://zh.wikipedia.org/wiki/威尔·史密斯 "wikilink")[虚构角色](https://zh.wikipedia.org/wiki/虚构角色 "wikilink")
-  - J，《[鼻毛真拳](https://zh.wikipedia.org/wiki/鼻毛真拳 "wikilink")》（*Bobobo-bo
-    Bo-bobo*）中的一个反面角色
+  - J，《[鼻毛真拳](../Page/鼻毛真拳.md "wikilink")》（*Bobobo-bo Bo-bobo*）中的一个反面角色
   - 《》，一部[日本电影](../Page/日本.md "wikilink")
 
 ## 其他

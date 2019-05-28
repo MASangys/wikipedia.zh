@@ -1,6 +1,6 @@
-是由[科樂美开发的](../Page/科樂美.md "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。本作最初于1997年3月20日在[PlayStation平台发售](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，后又推出了[Sega
+是由[科樂美开发的](../Page/科樂美.md "wikilink")[动作游戏](../Page/动作游戏.md "wikilink")。本作最初于1997年3月20日在[PlayStation平台发售](../Page/PlayStation.md "wikilink")，后又推出了[Sega
 Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。該作品为《[惡魔城X
-血之輪迴](../Page/惡魔城X_血之輪迴.md "wikilink")》的续作，被称为恶魔城系列的巅峰之作，也奠定了[类银河战士恶魔城游戏的基本风格](https://zh.wikipedia.org/wiki/类银河战士恶魔城游戏 "wikilink")。作品一改以往风格，大量增加養成與隱藏要素，為當時橫向卷軸遊戲之創舉，也成为后續[恶魔城遊戲的典範與整個系列評價最高的作品](../Page/恶魔城系列.md "wikilink")。
+血之輪迴](../Page/惡魔城X_血之輪迴.md "wikilink")》的续作，被称为恶魔城系列的巅峰之作，也奠定了[类银河战士恶魔城游戏的基本风格](../Page/类银河战士恶魔城游戏.md "wikilink")。作品一改以往风格，大量增加養成與隱藏要素，為當時橫向卷軸遊戲之創舉，也成为后續[恶魔城遊戲的典範與整個系列評價最高的作品](../Page/恶魔城系列.md "wikilink")。
 
 ## 角色介绍
 
@@ -17,7 +17,7 @@ Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。該作品为�
     Renard）之妹，具有操控東方[四聖獸的特殊力量](https://zh.wikipedia.org/wiki/四聖獸 "wikilink")。
     一年前里希達失蹤之後她開始四處尋找其下落，遇到惡魔城之後，她相信里希達就在這裡，因此自己闖了進來。
   - 里希達‧貝爾蒙多（リヒター‧ベルモント、Richter Belmont）
-    配音：[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")
+    配音：[梁田清之](../Page/梁田清之.md "wikilink")
     五年前成功封印德古拉伯爵的最強吸血鬼獵人。但是在一年前的一個[月圓之夜受到夏福特控制成為表惡魔城主](https://zh.wikipedia.org/wiki/月圓 "wikilink")，被外界誤認失蹤下落不明，作為城中的大BOSS迎戰艾卡多。
   - 夏福特（シャフト、Shaft）
     配音：梁田清之
@@ -75,14 +75,14 @@ Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。該作品为�
 
 ## 發售
 
-游戏的[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")[PlayStation版本发行于](https://zh.wikipedia.org/wiki/PlayStation "wikilink")1997年，相应的[Sega
+游戏的[Sony](https://zh.wikipedia.org/wiki/Sony "wikilink")[PlayStation版本发行于](../Page/PlayStation.md "wikilink")1997年，相应的[Sega
 Saturn版本发行于](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")1998年。2007年3月，移植至[Xbox
 360平台](../Page/Xbox_360.md "wikilink")。2007年10月，《[惡魔城X年代記](../Page/惡魔城X年代記.md "wikilink")》於[PlayStation
 Portable平台發售](../Page/PlayStation_Portable.md "wikilink")，其中也收錄了PS版的月下。2018年10月26日，《惡魔城X
 精選集：月下夜想曲＆血之輪迴》於[PlayStation
 4平台發售](../Page/PlayStation_4.md "wikilink")，該版本的月下移植至PSP版遊戲，提供更高的解析度。\[1\]。PlayStation
 Portable與PlayStation
-4版基本上皆以[PlayStation版本進行移植](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，沒有[Sega
+4版基本上皆以[PlayStation版本進行移植](../Page/PlayStation.md "wikilink")，沒有[Sega
 Saturn版本新增的地圖內容](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")。
 
 ## 版本差異
@@ -107,9 +107,7 @@ Saturn版本新增的地圖內容](https://zh.wikipedia.org/wiki/Sega_Saturn "wi
 
 <!-- end list -->
 
-  - 改良版（[The
-    Best版](https://zh.wikipedia.org/wiki/The_Best "wikilink")、PS one
-    Books版）
+  - 改良版（[The Best版](../Page/The_Best.md "wikilink")、PS one Books版）
 
 <!-- end list -->
 

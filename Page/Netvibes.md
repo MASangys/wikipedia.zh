@@ -11,7 +11,7 @@ Mail](../Page/Yahoo!_Mail.md "wikilink")、[GMail等的郵件閱讀器](https://
 
 ## 宇宙
 
-Netvibes的「宇宙」是可以讓所有人看見的個人化頁面，每個宇宙為了一個品牌、媒體等建立的，現時有的「宇宙」有[時代雜誌](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")、[Mandy
+Netvibes的「宇宙」是可以讓所有人看見的個人化頁面，每個宇宙為了一個品牌、媒體等建立的，現時有的「宇宙」有[時代雜誌](../Page/時代雜誌.md "wikilink")、[Mandy
 Moore等](https://zh.wikipedia.org/wiki/Mandy_Moore "wikilink")。在將來，每個用戶亦可設計自己的「宇宙」。
 
 ## API

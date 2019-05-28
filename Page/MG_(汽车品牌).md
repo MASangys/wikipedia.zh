@@ -31,7 +31,7 @@ Motor Company Limited。
 1966年9月，BMC与[捷豹汽车合并](https://zh.wikipedia.org/wiki/捷豹汽车 "wikilink")，并于当年12月改名为英国汽车控股公司（The
 British Motor Holdings Limited,BMH）。
 
-[英国汽车控股公司於](https://zh.wikipedia.org/wiki/英国汽车控股 "wikilink")1968年與[利蘭合併为](../Page/利蘭.md "wikilink")[英國利蘭汽車公司](https://zh.wikipedia.org/wiki/英國利蘭 "wikilink")。
+[英国汽车控股公司於](https://zh.wikipedia.org/wiki/英国汽车控股 "wikilink")1968年與[利蘭合併为](../Page/利蘭.md "wikilink")[英國利蘭汽車公司](../Page/英國利蘭.md "wikilink")。
 
 ### 宝马控股
 

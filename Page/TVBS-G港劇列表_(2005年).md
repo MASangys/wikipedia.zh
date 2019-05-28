@@ -144,7 +144,7 @@ Summer Heat</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/馬德鐘" title="wikilink">馬德鐘</a>、<a href="../Page/滕麗名.md" title="wikilink">滕麗名</a>、<a href="../Page/郭耀明.md" title="wikilink">郭耀明</a>、<a href="../Page/左慧琪.md" title="wikilink">左慧琪</a><br />
 <a href="../Page/鍾麗淇.md" title="wikilink">鍾麗淇</a>、<a href="../Page/羅冠蘭.md" title="wikilink">羅冠蘭</a>、<a href="https://zh.wikipedia.org/wiki/郭鋒" title="wikilink">郭　鋒</a>、<a href="../Page/程可為.md" title="wikilink">程可為</a><br />
 <a href="https://zh.wikipedia.org/wiki/黃紀瑩" title="wikilink">黃紀瑩</a>、<a href="../Page/黃宇詩.md" title="wikilink">黃宇詩</a>、<a href="https://zh.wikipedia.org/wiki/羅蘭" title="wikilink">羅　蘭</a>、<a href="../Page/莫家堯.md" title="wikilink">莫家堯</a><br />
-<a href="../Page/曹永廉.md" title="wikilink">曹永廉</a>、<a href="../Page/陳敏之.md" title="wikilink">陳敏之</a>、<a href="https://zh.wikipedia.org/wiki/古天祥" title="wikilink">古天祥</a>、<a href="../Page/張松枝.md" title="wikilink">張松枝</a></p></td>
+<a href="../Page/曹永廉.md" title="wikilink">曹永廉</a>、<a href="../Page/陳敏之.md" title="wikilink">陳敏之</a>、<a href="../Page/古天祥.md" title="wikilink">古天祥</a>、<a href="../Page/張松枝.md" title="wikilink">張松枝</a></p></td>
 <td style="text-align: center;"><p>潘嘉德</p></td>
 <td style="text-align: center;"><p><a href="https://web.archive.org/web/20080707003250/http://tvcity.tvb.com/drama/summer_heat/">網頁</a></p></td>
 <td style="text-align: center;"><p>台灣播出時劇名為《愛情捉迷藏》</p></td>

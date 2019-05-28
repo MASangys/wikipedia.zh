@@ -93,14 +93,14 @@ Sea Gripen:
 
   - [捷克空軍](https://zh.wikipedia.org/wiki/捷克空軍 "wikilink")：租賃14架，2架雙座型，2005年8月完成交機。
 
-  - [匈牙利空軍](https://zh.wikipedia.org/wiki/匈牙利空軍 "wikilink")：租賃14架，2架雙座型。
+  - [匈牙利空軍](../Page/匈牙利空軍.md "wikilink")：租賃14架，2架雙座型。
 
   - [南非空軍](https://zh.wikipedia.org/wiki/南非空軍 "wikilink")：訂購28架，9架雙座機，用於汰換美洲豹C/D戰鬥機。
 
   - [英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[帝國試飛員學校](https://zh.wikipedia.org/wiki/帝國試飛員學校 "wikilink")（Empire
     Test Pilots' School）。
 
-  - [泰國皇家空軍](https://zh.wikipedia.org/wiki/泰國皇家空軍 "wikilink")：至2013年4月止共12架JAS-39C/D。
+  - [泰國皇家空軍](../Page/泰國皇家空軍.md "wikilink")：至2013年4月止共12架JAS-39C/D。
 
   - [巴西空軍](https://zh.wikipedia.org/wiki/巴西空軍 "wikilink")：巴西於2014年10月27日正式與SAAB簽署正式合同，購買36架鷹獅NG型戰機，價值45億美元。
 

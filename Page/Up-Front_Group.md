@@ -25,7 +25,7 @@ Channel](http://www.youtube.com/upfrontchannel)」。
 除演藝事業外，集團亦以[環保作為公司的理念](https://zh.wikipedia.org/wiki/環保 "wikilink")：
 
   - 作為資源消耗的企業，會以努力減低對環境的負荷為企業的義務。
-  - 通過[娛樂](https://zh.wikipedia.org/wiki/娛樂 "wikilink")、[生命](../Page/生命.md "wikilink")、[文化等事業](../Page/文化.md "wikilink")，提高社會對以[全球暖化為中心的](https://zh.wikipedia.org/wiki/全球暖化 "wikilink")[環保問題的意識](https://zh.wikipedia.org/wiki/環保 "wikilink")。
+  - 通過[娛樂](../Page/娛樂.md "wikilink")、[生命](../Page/生命.md "wikilink")、[文化等事業](../Page/文化.md "wikilink")，提高社會對以[全球暖化為中心的](https://zh.wikipedia.org/wiki/全球暖化 "wikilink")[環保問題的意識](https://zh.wikipedia.org/wiki/環保 "wikilink")。
 
 ## 集團旗下歌手
 
@@ -83,7 +83,7 @@ EGG](https://zh.wikipedia.org/wiki/Hello!_pro_EGG "wikilink")
     Possible
     )](https://zh.wikipedia.org/wiki/\(THE_Possible_\) "wikilink")（2018年8月解散）
   - [吉川友](https://zh.wikipedia.org/wiki/吉川友 "wikilink")
-  - [北原沙彌香](https://zh.wikipedia.org/wiki/北原沙彌香 "wikilink")
+  - [北原沙彌香](../Page/北原沙彌香.md "wikilink")
   - [橋田三令](https://zh.wikipedia.org/wiki/橋田三令 "wikilink")
 
 [射亂Q](https://zh.wikipedia.org/wiki/射亂Q "wikilink")（[淳君](../Page/淳君.md "wikilink")、、、）

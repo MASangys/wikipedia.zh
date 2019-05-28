@@ -5,7 +5,7 @@
 **Feel.**是日本一家以執行動畫的企畫和製作為主要事業內容的動畫製作工作室。由[Studio
 Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧ヶ崎誠和上坂陽一郎等人，於2002年12月在[東京都](../Page/東京都.md "wikilink")[武藏野市正式創立](../Page/武藏野市.md "wikilink")。
 
-2003年初，由[名和宗則等製作人員](https://zh.wikipedia.org/wiki/名和宗則 "wikilink")[統包演出](../Page/統包.md "wikilink")、作畫監督和上色之業務製作的首部電視動畫《[初音島](../Page/初音島.md "wikilink")》。
+2003年初，由[名和宗則等製作人員](../Page/名和宗則.md "wikilink")[統包演出](../Page/統包.md "wikilink")、作畫監督和上色之業務製作的首部電視動畫《[初音島](../Page/初音島.md "wikilink")》。
 
 2005年開始以統包方式製作《[人機系列](../Page/人機系列.md "wikilink")》。之後主要以統包動畫公司的動畫作品之事業為中心。2007年左右搬遷至東京都[小金井市至今](../Page/小金井市.md "wikilink")。
 
@@ -66,7 +66,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 <td><p><a href="https://zh.wikipedia.org/wiki/粗點心戰爭" title="wikilink">粗點心戰爭</a></p></td>
 <td></td>
 <td><p>1月7日－3月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高柳滋仁" title="wikilink">高柳滋仁</a></p></td>
+<td><p><a href="../Page/高柳滋仁.md" title="wikilink">高柳滋仁</a></p></td>
 <td><p>漫畫</p></td>
 <td></td>
 </tr>
@@ -83,14 +83,14 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 <td><p><a href="https://zh.wikipedia.org/wiki/這個美術社大有問題！" title="wikilink">這個美術社大有問題！</a></p></td>
 <td></td>
 <td><p>7月7日－9月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/及川啟" title="wikilink">及川啟</a></p></td>
+<td><p><a href="../Page/及川啟.md" title="wikilink">及川啟</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/月色真美" title="wikilink">月色真美</a></p></td>
+<td><p><a href="../Page/月色真美.md" title="wikilink">月色真美</a></p></td>
 <td></td>
 <td><p>4月6日－6月29日</p></td>
 <td><p><a href="../Page/岸誠二.md" title="wikilink">岸誠二</a></p></td>
@@ -99,7 +99,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/極道超女" title="wikilink">極道超女</a></p></td>
+<td><p><a href="../Page/極道超女.md" title="wikilink">極道超女</a></p></td>
 <td></td>
 <td><p>4月6日－</p></td>
 <td><p>及川啟</p></td>
@@ -107,7 +107,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/ISLAND_(遊戲)" title="wikilink">ISLAND</a></p></td>
+<td><p><a href="../Page/ISLAND_(遊戲).md" title="wikilink">ISLAND</a></p></td>
 <td><p>7月1日－9月16日</p></td>
 <td><p><a href="../Page/川口敬一郎.md" title="wikilink">川口敬一郎</a></p></td>
 <td><p>遊戲</p></td>
@@ -117,7 +117,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/YU-NO_在這世界盡頭詠唱愛的少女" title="wikilink">YU-NO 在這世界盡頭詠唱愛的少女</a></p></td>
+<td><p><a href="../Page/YU-NO_在這世界盡頭詠唱愛的少女.md" title="wikilink">YU-NO 在這世界盡頭詠唱愛的少女</a></p></td>
 <td></td>
 <td><p>4月－預定</p></td>
 <td><p>　</p></td>
@@ -157,7 +157,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 
 ### 網絡動畫
 
-  - [擴張少女系三重奏](https://zh.wikipedia.org/wiki/擴張少女系三重奏 "wikilink")（）（2016年）
+  - [擴張少女系三重奏](../Page/擴張少女系三重奏.md "wikilink")（）（2016年）
 
 ### 協力製作
 

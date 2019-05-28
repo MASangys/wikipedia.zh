@@ -14,9 +14,9 @@ Solomon）、、[克里斯多弗·麥奎里和](https://zh.wikipedia.org/wiki/�
 
 1944年，於[二戰期間遭](https://zh.wikipedia.org/wiki/二戰 "wikilink")[納粹](https://zh.wikipedia.org/wiki/納粹 "wikilink")的[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")，十四歲[猶太男孩](https://zh.wikipedia.org/wiki/猶太 "wikilink")[艾瑞克·藍歇爾與父母被關在](../Page/萬磁王.md "wikilink")[奧斯維辛集中營時](https://zh.wikipedia.org/wiki/奧斯維辛集中營 "wikilink")，由於被納粹強制和父母分開，他奮力舉手伸向遠處的父母時，卻一瞬間爆發出能夠控制金屬的變種能力，導致金屬柵欄門開始從裏到外歪曲後，他最終遭守衛制伏。2002年，一位對變種人有著敵意的[美國參議員](https://zh.wikipedia.org/wiki/美國參議員 "wikilink")計畫創立《》，未來將會強迫所有變種人公開身份和能力。現今中年的艾瑞克出席會議後，巧遇他的老朋友、擁有強大心電感應能力的[查爾斯·賽維爾](../Page/X教授.md "wikilink")。嚮往和平的查爾斯一直希望人類和變種人能和平共處，歷年來一直抗爭著意圖讓變種人取代人類、征服世界的艾瑞克，他開始擔心艾瑞克會對這樁法案做出威脅行動。
 
-居住在[密西西比州](../Page/密西西比州.md "wikilink")的十七歲少女[瑪莉·丹肯托](https://zh.wikipedia.org/wiki/小淘氣 "wikilink")，未知她擁有能夠通過觸碰來吸收他人生命精華的變種能力，不慎將她的男友通過親吻致重度昏迷後離家出走，從此用著小名「小淘氣」。當她流浪到[加拿大](../Page/加拿大.md "wikilink")[艾伯塔州時](../Page/艾伯塔省.md "wikilink")，走進酒吧裏遇見一名叫作「羅根」、又稱「[金剛狼](https://zh.wikipedia.org/wiki/金剛狼 "wikilink")」的變種人。小淘氣目睹羅根經過拳賽打鬥卻傷痕自愈、以及從他的兩隻手拳頭之間能夠分別伸出三根金剛爪後，決定跟著他一起上路。但在林中，他們倆遭到為艾瑞克賣命的變種人[劍齒虎的襲擊](https://zh.wikipedia.org/wiki/劍齒虎_\(漫威漫畫\) "wikilink")，直到查爾斯派來的兩名變種人戰士[獨眼龍和](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")[暴風女趕到後救出他們倆](https://zh.wikipedia.org/wiki/暴風女 "wikilink")。羅根和小淘氣被帶至查爾斯位於[威斯特徹斯特郡的](../Page/威斯特徹斯特郡.md "wikilink")中治療，羅根醒後也發現此地是查爾斯為變種人們所建立的美好校園。小淘氣成為學校一份子後，查爾斯希望羅根能留下來，讓他們來調查艾瑞克為何襲擊他們。
+居住在[密西西比州](../Page/密西西比州.md "wikilink")的十七歲少女[瑪莉·丹肯托](../Page/小淘氣.md "wikilink")，未知她擁有能夠通過觸碰來吸收他人生命精華的變種能力，不慎將她的男友通過親吻致重度昏迷後離家出走，從此用著小名「小淘氣」。當她流浪到[加拿大](../Page/加拿大.md "wikilink")[艾伯塔州時](../Page/艾伯塔省.md "wikilink")，走進酒吧裏遇見一名叫作「羅根」、又稱「[金剛狼](https://zh.wikipedia.org/wiki/金剛狼 "wikilink")」的變種人。小淘氣目睹羅根經過拳賽打鬥卻傷痕自愈、以及從他的兩隻手拳頭之間能夠分別伸出三根金剛爪後，決定跟著他一起上路。但在林中，他們倆遭到為艾瑞克賣命的變種人[劍齒虎的襲擊](../Page/劍齒虎_\(漫威漫畫\).md "wikilink")，直到查爾斯派來的兩名變種人戰士[獨眼龍和](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")[暴風女趕到後救出他們倆](../Page/暴風女.md "wikilink")。羅根和小淘氣被帶至查爾斯位於[威斯特徹斯特郡的](../Page/威斯特徹斯特郡.md "wikilink")中治療，羅根醒後也發現此地是查爾斯為變種人們所建立的美好校園。小淘氣成為學校一份子後，查爾斯希望羅根能留下來，讓他們來調查艾瑞克為何襲擊他們。
 
-凱利參議員這時被艾瑞克的另外兩名部下和[魔形女綁架](../Page/魔形女.md "wikilink")，被帶至一座與世隔絕的吉諾沙島上。艾瑞克將凱利作為實驗對象，通過他的金屬控制能力發動一台能夠產生大型輻射的機器，作用於能夠將激發普通人體內的變種細胞。實驗成功之下，凱利發現他已經被轉化為一個身體能夠自由伸縮的變種人，但也幸運地用能力掙脫出籠子後逃出小島。在學校，小淘氣聽見羅根睡覺時翻來翻去而跑到他身邊，但羅根因為身體被改造時的悲慘回憶所導致的噩夢而驚醒。小淘氣被羅根的金剛爪刺傷，被迫在眾人面前用手吸收羅根的自愈能力使他昏迷。因為這件事在學校引起騷動，魔形女潛入校園變形成和小淘氣走得很近的學生[巴比·德雷克](https://zh.wikipedia.org/wiki/冰人_\(漫威漫畫\) "wikilink")，謊稱查爾斯因為她惹出的事情而生氣，縱使小淘氣離開學校。
+凱利參議員這時被艾瑞克的另外兩名部下和[魔形女綁架](../Page/魔形女.md "wikilink")，被帶至一座與世隔絕的吉諾沙島上。艾瑞克將凱利作為實驗對象，通過他的金屬控制能力發動一台能夠產生大型輻射的機器，作用於能夠將激發普通人體內的變種細胞。實驗成功之下，凱利發現他已經被轉化為一個身體能夠自由伸縮的變種人，但也幸運地用能力掙脫出籠子後逃出小島。在學校，小淘氣聽見羅根睡覺時翻來翻去而跑到他身邊，但羅根因為身體被改造時的悲慘回憶所導致的噩夢而驚醒。小淘氣被羅根的金剛爪刺傷，被迫在眾人面前用手吸收羅根的自愈能力使他昏迷。因為這件事在學校引起騷動，魔形女潛入校園變形成和小淘氣走得很近的學生[巴比·德雷克](../Page/冰人_\(漫威漫畫\).md "wikilink")，謊稱查爾斯因為她惹出的事情而生氣，縱使小淘氣離開學校。
 
 查爾斯利用位於宅邸地下的「」得知小淘氣在火車站準備離開，羅根身體恢復後便搶先來到火車上找到小淘氣。這時，艾瑞克帶領癩蛤蟆和劍齒虎襲擊火車站，羅根因為全身都是金屬構造而輕易地被艾瑞克制伏，艾瑞克也表明他要的人其實是小淘氣。躲在暗處的查爾斯操縱劍齒虎的大腦，本想靠控制他來阻止艾瑞克，但艾瑞克卻控制所有在場警察的金屬槍械，使得查爾斯只能放過艾瑞克帶著小淘氣揚長而去。後來，凱利跑到學校裏求助，查爾斯透視他的大腦後得知，艾瑞克發動輻射製造機的同時、剛好也使他自己差點送命，因此發現艾瑞克是要讓小淘氣獲得他的能力後去代替他操作機器。不久，凱利因為身體排斥變種細胞而化為液體喪命，查爾斯認為艾瑞克的計畫將會害死所有人類，本想再次通過腦波強化機尋找小淘氣，但不知道機器被魔形女動過手腳而遭到反噬陷入昏迷。
 
@@ -55,13 +55,13 @@ Magneto</p></td>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/安娜·派昆" title="wikilink">安娜·派昆</a><br />
 Anna Paquin</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小淘氣" title="wikilink">小淘氣</a><br />
+<td><p><a href="../Page/小淘氣.md" title="wikilink">小淘氣</a><br />
 Rogue</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/芳姬·詹森.md" title="wikilink">芳姬·詹森</a><br />
 Famke Beumer Janssen</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/琴·葛雷" title="wikilink">琴·葛雷</a><br />
+<td><p><a href="../Page/琴·葛雷.md" title="wikilink">琴·葛雷</a><br />
 Dr. Jean Grey</p></td>
 </tr>
 <tr class="even">
@@ -79,7 +79,7 @@ Senator Robert Kelly</p></td>
 <tr class="even">
 <td><p><a href="../Page/荷莉·貝瑞.md" title="wikilink">荷莉·貝瑞</a><br />
 Halle Maria Berry</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/暴風女" title="wikilink">暴風女</a><br />
+<td><p><a href="../Page/暴風女.md" title="wikilink">暴風女</a><br />
 Storm</p></td>
 </tr>
 <tr class="odd">
@@ -97,13 +97,13 @@ Toad</p></td>
 <tr class="odd">
 <td><p><br />
 Tyler Mane</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/劍齒虎_(漫威漫畫)" title="wikilink">劍齒虎</a><br />
+<td><p><a href="../Page/劍齒虎_(漫威漫畫).md" title="wikilink">劍齒虎</a><br />
 Sabretooth</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/肖恩·阿什莫.md" title="wikilink">肖恩·阿什莫</a><br />
 Shawn Ashmore</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/冰人_(漫威漫畫)" title="wikilink">冰人</a><br />
+<td><p><a href="../Page/冰人_(漫威漫畫).md" title="wikilink">冰人</a><br />
 Iceman</p></td>
 </tr>
 </tbody>
@@ -115,18 +115,18 @@ Iceman</p></td>
 
 漫威漫畫作家及編劇和在1984年撰寫了一本關於X戰警的劇本，當時Orion
 Pictures持有電影的版權，但在Orion開始面臨財政危機時，發展便停滯不前。而在1989年和1990年期間，[史丹·李和](../Page/史丹·李.md "wikilink")正在與Carolco
-Pictures商討一部X戰警改編的電影\[3\]，由[凱薩琳·畢格羅執導且編劇](https://zh.wikipedia.org/wiki/凱薩琳·畢格羅 "wikilink")，[詹姆斯·卡麥隆製片](https://zh.wikipedia.org/wiki/詹姆斯·卡麥隆 "wikilink")，[金鋼狼角色一任為](../Page/金鋼狼.md "wikilink")[鮑勃·霍斯金斯所擔任](https://zh.wikipedia.org/wiki/鮑勃·霍斯金斯 "wikilink")，[暴風女則由](https://zh.wikipedia.org/wiki/暴風女 "wikilink")[安吉拉·巴塞特飾演](https://zh.wikipedia.org/wiki/安吉拉·巴塞特 "wikilink")。但史丹·李在一部蜘蛛人的電影上引起卡麥隆的注意，於是這筆交易便崩毀了\[4\]。而後，Carolco破產，電影版權回到了漫威手中\[5\]。1992年12月，漫威討論將版權賣給[哥倫比亞電影公司](https://zh.wikipedia.org/wiki/哥倫比亞電影公司 "wikilink")\[6\]，同時為[Fox
-Kids製作了動畫連續劇](../Page/Fox_Kids.md "wikilink")《》，[二十世紀福斯對電視節目的成功印象深刻](../Page/二十世紀福斯.md "wikilink")。1994年，買下了電影版權\[7\]\[8\]，且讓[安德魯·凱文·沃克撰寫該部劇本](https://zh.wikipedia.org/wiki/安德鲁·凯文·沃克 "wikilink")\[9\]。
+Pictures商討一部X戰警改編的電影\[3\]，由[凱薩琳·畢格羅執導且編劇](https://zh.wikipedia.org/wiki/凱薩琳·畢格羅 "wikilink")，[詹姆斯·卡麥隆製片](https://zh.wikipedia.org/wiki/詹姆斯·卡麥隆 "wikilink")，[金鋼狼角色一任為](../Page/金鋼狼.md "wikilink")[鮑勃·霍斯金斯所擔任](https://zh.wikipedia.org/wiki/鮑勃·霍斯金斯 "wikilink")，[暴風女則由](../Page/暴風女.md "wikilink")[安吉拉·巴塞特飾演](https://zh.wikipedia.org/wiki/安吉拉·巴塞特 "wikilink")。但史丹·李在一部蜘蛛人的電影上引起卡麥隆的注意，於是這筆交易便崩毀了\[4\]。而後，Carolco破產，電影版權回到了漫威手中\[5\]。1992年12月，漫威討論將版權賣給[哥倫比亞電影公司](https://zh.wikipedia.org/wiki/哥倫比亞電影公司 "wikilink")\[6\]，同時為[Fox
+Kids製作了動畫連續劇](../Page/Fox_Kids.md "wikilink")《》，[二十世紀福斯對電視節目的成功印象深刻](../Page/二十世紀福斯.md "wikilink")。1994年，買下了電影版權\[7\]\[8\]，且讓[安德魯·凱文·沃克撰寫該部劇本](../Page/安德鲁·凯文·沃克.md "wikilink")\[9\]。
 
-沃克的劇本提到[X教授招募金鋼狼加入X戰警](../Page/X教授.md "wikilink")，包含[獨眼龍](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")、[琴葛雷](https://zh.wikipedia.org/wiki/琴葛雷 "wikilink")、[冰人](https://zh.wikipedia.org/wiki/冰人_\(漫威漫畫\) "wikilink")、[野獸和](https://zh.wikipedia.org/wiki/野獸_\(漫畫\) "wikilink")。（Brotherhood
+沃克的劇本提到[X教授招募金鋼狼加入X戰警](../Page/X教授.md "wikilink")，包含[獨眼龍](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")、[琴葛雷](https://zh.wikipedia.org/wiki/琴葛雷 "wikilink")、[冰人](../Page/冰人_\(漫威漫畫\).md "wikilink")、[野獸和](../Page/野獸_\(漫畫\).md "wikilink")。（Brotherhood
 of
-Mutants）則由[萬磁王](../Page/萬磁王.md "wikilink")、[劍齒虎](https://zh.wikipedia.org/wiki/劍齒虎_\(漫威漫畫\) "wikilink")、、及大塊頭組成，試圖征服紐約市。而和用三個8英尺（2.4米）高的哨兵攻擊X戰警。劇情集中在金鋼狼與獨眼龍間的對抗，以及後者做為領導者的自我懷疑。沃克在1994年6月提交了第二份劇本。之後，（Laeta
+Mutants）則由[萬磁王](../Page/萬磁王.md "wikilink")、[劍齒虎](../Page/劍齒虎_\(漫威漫畫\).md "wikilink")、、及大塊頭組成，試圖征服紐約市。而和用三個8英尺（2.4米）高的哨兵攻擊X戰警。劇情集中在金鋼狼與獨眼龍間的對抗，以及後者做為領導者的自我懷疑。沃克在1994年6月提交了第二份劇本。之後，（Laeta
 Kalogridis）\[10\]、（John
 Logan）、[詹姆士·夏姆斯](https://zh.wikipedia.org/wiki/詹姆士·夏姆斯 "wikilink")（James
 Schamus）\[11\]及[喬斯·溫登重新撰寫了劇本](../Page/喬斯·溫登.md "wikilink")，其中一個段落保留了萬磁王將曼哈頓變成“突變家園”的想法，以及金鋼狼與風暴女之間的情愫\[12\]。溫登的草稿以（Danger
 Room）及琴葛雷蛻變成為火鳳凰為特色\[13\]。根據《娛樂周刊》，這個劇本最後被退回\[14\]。
 
-福斯原本認定[布萊特·拉特納擔任其導演](https://zh.wikipedia.org/wiki/布萊特·拉特納 "wikilink")\[15\]，並提供職位給[羅伯特·羅德里格斯](https://zh.wikipedia.org/wiki/羅伯特·羅德里格斯 "wikilink")，卻遭到拒絕\[16\]。繼《[刺激驚爆點](https://zh.wikipedia.org/wiki/刺激驚爆點 "wikilink")》上映後，[布萊恩·辛格正在尋找一部科幻電影](../Page/布萊恩·辛格.md "wikilink")，福斯為他提供了《[異形4：浴火重生](https://zh.wikipedia.org/wiki/異形4：浴火重生 "wikilink")》的執導權，但製片人認為他會更適合這部電影。到了1996年12月，辛格接下了導演的職務，並於1997年4月聘請了來撰寫劇本。福斯宣布1998年聖誕節發布日期\[17\]\[18\]。
+福斯原本認定[布萊特·拉特納擔任其導演](../Page/布萊特·拉特納.md "wikilink")\[15\]，並提供職位給[羅伯特·羅德里格斯](https://zh.wikipedia.org/wiki/羅伯特·羅德里格斯 "wikilink")，卻遭到拒絕\[16\]。繼《[刺激驚爆點](https://zh.wikipedia.org/wiki/刺激驚爆點 "wikilink")》上映後，[布萊恩·辛格正在尋找一部科幻電影](../Page/布萊恩·辛格.md "wikilink")，福斯為他提供了《[異形4：浴火重生](https://zh.wikipedia.org/wiki/異形4：浴火重生 "wikilink")》的執導權，但製片人認為他會更適合這部電影。到了1996年12月，辛格接下了導演的職務，並於1997年4月聘請了來撰寫劇本。福斯宣布1998年聖誕節發布日期\[17\]\[18\]。
 
 ### 拍攝
 
@@ -141,7 +141,7 @@ Room）及琴葛雷蛻變成為火鳳凰為特色\[13\]。根據《娛樂周刊�
 
 ### 行銷
 
-2000年6月1日，漫威發行了一本漫畫書“X-Men：X-Men：Beginnings”，其中介紹了[萬磁王](../Page/萬磁王.md "wikilink")、[小淘氣及](https://zh.wikipedia.org/wiki/小淘氣 "wikilink")[金鋼狼的背景故事](../Page/金鋼狼.md "wikilink")\[29\]，。
+2000年6月1日，漫威發行了一本漫畫書“X-Men：X-Men：Beginnings”，其中介紹了[萬磁王](../Page/萬磁王.md "wikilink")、[小淘氣及](../Page/小淘氣.md "wikilink")[金鋼狼的背景故事](../Page/金鋼狼.md "wikilink")\[29\]，。
 
 ### 原聲帶
 

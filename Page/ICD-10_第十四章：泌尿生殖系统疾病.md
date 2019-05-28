@@ -78,7 +78,7 @@ N40-N51 男性生殖器官疾病
     [水囊肿](https://zh.wikipedia.org/wiki/水囊肿 "wikilink")（睾丸鞘膜积液）和[精子囊肿](https://zh.wikipedia.org/wiki/精子囊肿 "wikilink")
   - N44 睾丸扭转
   - N45
-    [睾丸炎和](https://zh.wikipedia.org/wiki/睾丸炎 "wikilink")[附睾炎](https://zh.wikipedia.org/wiki/附睾炎 "wikilink")
+    [睾丸炎和](../Page/睾丸炎.md "wikilink")[附睾炎](https://zh.wikipedia.org/wiki/附睾炎 "wikilink")
   - N46 男性不育症
   - N47
     [包皮过长](https://zh.wikipedia.org/wiki/包皮过长 "wikilink")、[包茎和](https://zh.wikipedia.org/wiki/包茎 "wikilink")[包茎嵌顿](https://zh.wikipedia.org/wiki/包茎嵌顿 "wikilink")

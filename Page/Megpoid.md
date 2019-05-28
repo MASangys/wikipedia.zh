@@ -95,7 +95,7 @@ VOCALOID傳說曲是指歌曲影片再生數超過100萬人觀看的著名曲，
 <tr class="odd">
 <td><p><a href="http://www.nicovideo.jp/watch/sm10393864"></a></p></td>
 <td><p>膽小鬼蒙布朗</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DECO*27" title="wikilink">DECO*27</a></p></td>
+<td><p><a href="../Page/DECO*27.md" title="wikilink">DECO*27</a></p></td>
 <td><p>2010-04-15</p></td>
 <td><p>VOCALOID傳說曲，截至2017年12月30日有超過500萬人觀看。收錄於CD<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B003TEXL8W/nicovideojp-22/ref=nosim"></a>中（由作者發行，全碟皆為Gumi歌曲）。</p></td>
 </tr>
@@ -630,7 +630,7 @@ Store之类的网络音乐配信平台上](https://zh.wikipedia.org/wiki/iTunes_
 
 インビジブル（原作：[kemu](https://zh.wikipedia.org/wiki/kemu "wikilink")、作者：岩関昴道、出版社：PHP研究所）
 
-弱虫モンブラン（原作：[DECO\*27](https://zh.wikipedia.org/wiki/DECO*27 "wikilink")、作者：櫻川さなぎ、出版社：KADOKAWA）
+弱虫モンブラン（原作：[DECO\*27](../Page/DECO*27.md "wikilink")、作者：櫻川さなぎ、出版社：KADOKAWA）
 
 ECHO（原作：Crusher-P、作者：[日日日](../Page/日日日.md "wikilink")、绘：おぐち、出版社：PHP研究所）
 

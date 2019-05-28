@@ -165,7 +165,7 @@ UMP有三種口徑的型號和半自動民用型號：
     M900[前握把等配件](../Page/輔助握把.md "wikilink")，於故事後期被泰迪的其中三名手下所使用。
   - 2016年—《[-{zh-cn:人类清除计划3：大选年; zh-tw:國定殺戮日：大選之年;
     zh-hk:國定殺戮日：大選狂屠;}-](https://zh.wikipedia.org/wiki/國定殺戮日：大選之年 "wikilink")》：型號為UMP45，被[新納粹傭兵部隊所使用](https://zh.wikipedia.org/wiki/新納粹 "wikilink")。
-  - 2018年—《[怒火邊界2：毒刑者](https://zh.wikipedia.org/wiki/怒火邊界2：毒刑者 "wikilink")》：型號為UMP45，被[美國聯邦政府不承認的特別探員亞歷山卓](../Page/美國聯邦政府.md "wikilink")·吉利克與美國[中央情報局特別活動科一起行動時使用](https://zh.wikipedia.org/wiki/中央情報局特別活動科 "wikilink")。
+  - 2018年—《[怒火邊界2：毒刑者](../Page/怒火邊界2：毒刑者.md "wikilink")》：型號為UMP45，被[美國聯邦政府不承認的特別探員亞歷山卓](../Page/美國聯邦政府.md "wikilink")·吉利克與美國[中央情報局特別活動科一起行動時使用](https://zh.wikipedia.org/wiki/中央情報局特別活動科 "wikilink")。
 
 ### 電子遊戲
 
@@ -204,7 +204,7 @@ UMP有三種口徑的型號和半自動民用型號：
     UMP”，為工程兵專用武器，使用25發彈匣，換彈時會直接拉動拉機柄上膛。中國大陸伺服器為專家解鎖武器，歐美與俄羅斯伺服器為抽獎武器，拥有皇冠币专属涂装版本与周年庆专属涂装版本，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器、[冲锋枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[冲锋枪刺刀](../Page/刺刀.md "wikilink")）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、[冲锋枪握把](https://zh.wikipedia.org/wiki/宽型前握把 "wikilink")、冲锋枪握把架）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、冲锋枪普通瞄准镜、冲锋枪高级瞄准镜以及[冲锋枪专家瞄准镜](https://zh.wikipedia.org/wiki/Leupold_Mark_4_CQ/T光学瞄准镜 "wikilink")）。
   - 2013年—《[-{zh-cn:收获日;
-    zh-tw:劫薪日}-2](https://zh.wikipedia.org/wiki/劫薪日2 "wikilink")》：型號為UMP45(預設)，最初只被遊戲中的[NPC所使用](../Page/非玩家角色.md "wikilink")，玩家無法使用。
+    zh-tw:劫薪日}-2](../Page/劫薪日2.md "wikilink")》：型號為UMP45(預設)，最初只被遊戲中的[NPC所使用](../Page/非玩家角色.md "wikilink")，玩家無法使用。
       - 2016年新增在“John Wick Weapon Pack”資料片中，命名為「Jackal
         SMG」，可在黑市購買後並另外花費自行組裝。
   - 2013年—《[-{zh-cn:战地4;
@@ -220,18 +220,18 @@ UMP有三種口徑的型號和半自動民用型號：
       - UMP9命名為「UMP-9」，歸類為衝鋒槍為資料片「大逃亡」中新增武器，30+1發彈匣，被警匪雙方機械師（Mechanic）所使用，價格為$30,200。奇怪地打空彈匣後拉機柄會自動鎖定，換彈時會按下槍機釋放鈕上膛。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro
         T1、SRS 02、[Comp
         M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍）
-        、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
+        、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
       - UMP45命名為“UMP-45”，歸類為衝鋒槍，25+1發彈匣，預設配備[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")，被匪方機械師（Mechanic）所使用，價格為$10,200（原先為警察專用武器，但後來基於遊戲公平性而進行了調整，令其成為罪犯專用武器；警察解鎖條件為：以任何陣營進行遊戲使用該槍擊殺1250名敵人後購買武器執照）。奇怪地打空彈匣後拉機柄會自動鎖定，換彈時會按下槍機釋放鈕上膛。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro
         T1、SRS 02、[Comp
         M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍）
         、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡
-        、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。劇情模式當中則能夠被主角尼古拉斯·門多薩所使用，也被[特種武器和戰術部隊](../Page/特種武器和戰術部隊.md "wikilink")、罪犯和「理想結果」的成員所使用。
+        、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。劇情模式當中則能夠被主角尼古拉斯·門多薩所使用，也被[特種武器和戰術部隊](../Page/特種武器和戰術部隊.md "wikilink")、罪犯和「理想結果」的成員所使用。
   - 2015年—《[-{zh-hans:彩虹六号：围攻;
     zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》：被[聯邦調查局特種武器和戰術部隊所使用](../Page/聯邦調查局特種武器和戰術部隊.md "wikilink")，命名為「UMP45」，奇怪地射擊時拉機柄會隨槍機一同復進，並在彈匣打空後會自動鎖定。
   - 2016年—《[-{zh-hans:使命召唤：无限战争;
     zh-hant:決勝時刻：無盡戰爭;}-](../Page/使命召唤：无限战争.md "wikilink")》：型號為UMP45，命名為「MacTav-45」，歸類為「經典」武器。奇怪地在打空彈匣後拉機柄會自動鎖定。
   - 2016年（台版2017年）—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：UMP9,UMP45和UMP40先後以[拟人化的姐妹形象出现](https://zh.wikipedia.org/wiki/萌拟人化 "wikilink")。
-  - 2017年—《[絕地求生](https://zh.wikipedia.org/wiki/絕地求生 "wikilink")》：型號為UMP45，可以搭配配件使用。（舊為UMP9）
+  - 2017年—《[絕地求生](../Page/絕地求生.md "wikilink")》：型號為UMP45，可以搭配配件使用。（舊為UMP9）
 
 ### [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")
 

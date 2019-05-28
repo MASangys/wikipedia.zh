@@ -33,7 +33,7 @@ IN CRIES。
 
 ## 影响
 
-许多后辈视觉系乐队成员因深受他们影响而踏上音乐道路。[yukihiro](https://zh.wikipedia.org/wiki/yukihiro "wikilink")（[L'Arc\~en\~Ciel](../Page/彩虹乐团.md "wikilink")）、[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink")（[L'Arc\~en\~Ciel](../Page/彩虹乐团.md "wikilink")）、[INORAN](https://zh.wikipedia.org/wiki/INORAN "wikilink")（[LUNA
+许多后辈视觉系乐队成员因深受他们影响而踏上音乐道路。[yukihiro](https://zh.wikipedia.org/wiki/yukihiro "wikilink")（[L'Arc\~en\~Ciel](../Page/彩虹乐团.md "wikilink")）、[hyde](https://zh.wikipedia.org/wiki/hyde "wikilink")（[L'Arc\~en\~Ciel](../Page/彩虹乐团.md "wikilink")）、[INORAN](../Page/INORAN.md "wikilink")（[LUNA
 SEA](../Page/月之海.md "wikilink")）、樱井青（cali≠gari）、[HISASHI](../Page/Hisashi.md "wikilink")（[GLAY](../Page/GLAY.md "wikilink")）、Die([DIR
 EN
 GREY](../Page/Dir_en_grey.md "wikilink"))、Karyu（Angelo）、ミヤ（[MUCC](../Page/MUCC.md "wikilink")）、逹瑯（[MUCC](../Page/MUCC.md "wikilink")）等后辈音乐人（按年龄顺序排列）都曾公开表达过自己对D'ERLANGER的喜爱和憧憬。

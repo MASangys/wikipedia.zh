@@ -36,7 +36,7 @@
 
   - （業務提攜）
 
-  - [清水茉菜](https://zh.wikipedia.org/wiki/清水茉菜 "wikilink")
+  - [清水茉菜](../Page/清水茉菜.md "wikilink")
 
   - [新谷良子](../Page/新谷良子.md "wikilink")
 
@@ -86,7 +86,7 @@
   - 土方淳子
 
   - [葉山郁美](../Page/葉山郁美.md "wikilink")（現所屬：[CLARE
-    VOICE](https://zh.wikipedia.org/wiki/CLARE_VOICE "wikilink")）
+    VOICE](../Page/CLARE_VOICE.md "wikilink")）
 
   - （現所屬：Aksent）
 

@@ -555,7 +555,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 首周18.4萬張</p></td>
 <td><p>1位</p></td>
 <td><p><strong>Weekender</strong> : 電視劇『<a href="https://zh.wikipedia.org/wiki/金田一少年之事件簿_(電視劇)#連續劇系列（N）（2014年）" title="wikilink">金田一少年之事件簿N (neo)</a>』主題曲<br />
-<strong>向明天的YELL</strong> : 電視劇『<a href="https://zh.wikipedia.org/wiki/水球不良少年" title="wikilink">水球不良少年</a>』主題曲</p></td>
+<strong>向明天的YELL</strong> : 電視劇『<a href="../Page/水球不良少年.md" title="wikilink">水球不良少年</a>』主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
@@ -579,7 +579,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <tr class="even">
 <td><p>16</p></td>
 <td><p>2016年5月11日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/認真SUNSHINE" title="wikilink">認真SUNSHINE</a></strong></p></td>
+<td><p><strong><a href="../Page/認真SUNSHINE.md" title="wikilink">認真SUNSHINE</a></strong></p></td>
 <td><p>首日14.5萬張<br />
 首周26.7萬張</p></td>
 <td><p>1位</p></td>
@@ -592,7 +592,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <td><p>首日15.4萬張<br />
 首周26.6萬張</p></td>
 <td><p>1位</p></td>
-<td><p>動畫『<a href="https://zh.wikipedia.org/wiki/救難小英雄24" title="wikilink">救難小英雄24</a>』1-13集片頭主題曲</p></td>
+<td><p>動畫『<a href="../Page/救難小英雄24.md" title="wikilink">救難小英雄24</a>』1-13集片頭主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
@@ -610,7 +610,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <td><p>首日14.6萬張<br />
 首周27.2萬張</p></td>
 <td><p>1位</p></td>
-<td><p>動畫『<a href="https://zh.wikipedia.org/wiki/救難小英雄24" title="wikilink">タイムボカン24</a>』14集起片頭主題曲</p></td>
+<td><p>動畫『<a href="../Page/救難小英雄24.md" title="wikilink">タイムボカン24</a>』14集起片頭主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
@@ -668,7 +668,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 | 2 | 2012年6月6日  | **[JUMP WORLD](../Page/JUMP_WORLD.md "wikilink")**                               | 首周 12.7萬張          | 1位    |          |
 | 3 | 2014年6月18日 | **[smart](https://zh.wikipedia.org/wiki/smart_\(Hey!_Say!_JUMP專輯\) "wikilink")** | 首周 12.7萬張          | 1位    |          |
 | 4 | 2015年6月24日 | **[JUMPing CAR](../Page/JUMPing_CAR.md "wikilink")**                             | 首周 17.7萬張          | 1位    |          |
-| 5 | 2016年7月27日 | '''[DEAR.](https://zh.wikipedia.org/wiki/DEAR. "wikilink")                       | 首周 25.8萬張 次周 1.7萬張 | 1位    | 初次連續兩週首位 |
+| 5 | 2016年7月27日 | '''[DEAR.](../Page/DEAR..md "wikilink")                                          | 首周 25.8萬張 次周 1.7萬張 | 1位    | 初次連續兩週首位 |
 | 6 | 2018年8月22日 | '''[SENSE OR LOVE](https://zh.wikipedia.org/wiki/SENSE_OR_LOVE "wikilink")       | 首周20.9萬張           | 1位    |          |
 
 ### 精選輯
@@ -934,7 +934,7 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
     [有岡大貴](../Page/有岡大貴.md "wikilink")，[八乙女光](../Page/八乙女光.md "wikilink")
   - 「[リトルトーキョーライブ](http://www.tv-tokyo.co.jp/little-tokyolife/)～みんなで作るいっぱいいっぱい生放送～」（2014年10月8日－、[東京電視台](../Page/東京電視台.md "wikilink")）-和[ジャニーズWEST隔週輪流擔任主持](https://zh.wikipedia.org/wiki/ジャニーズWEST "wikilink")
   - [攻頂High
-    JUMP](https://zh.wikipedia.org/wiki/攻頂High_Jump "wikilink")([いただきハイジャンプ](http://www.fujitv.co.jp/high-jump/))(2014年12月29日晚上25:00-26:00即凌晨01:00-02:00,第二彈-2015年6月10日晚上25:35-26:35,並於節目錄製時向Hey\!
+    JUMP](../Page/攻頂High_Jump.md "wikilink")([いただきハイジャンプ](http://www.fujitv.co.jp/high-jump/))(2014年12月29日晚上25:00-26:00即凌晨01:00-02:00,第二彈-2015年6月10日晚上25:35-26:35,並於節目錄製時向Hey\!
     Say\! JUMP宣布於7月8日正規化,從7月8日起每週三晚上25:25-25:55
     [富士電視台](../Page/富士電視台.md "wikilink"))
 

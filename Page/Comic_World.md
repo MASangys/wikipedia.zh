@@ -21,7 +21,7 @@ Kong」（簡稱CWT-HK），與CWHK不同。競爭對手為[開拓動漫祭](../
 ### 韓國
 
 Comic
-World從1999年開始，在[首爾與](https://zh.wikipedia.org/wiki/首爾 "wikilink")[釜山巡迴舉辦](https://zh.wikipedia.org/wiki/釜山 "wikilink")。每回活動均以「（○回）（都市名）Comic
+World從1999年開始，在[首爾與](../Page/首爾.md "wikilink")[釜山巡迴舉辦](https://zh.wikipedia.org/wiki/釜山 "wikilink")。每回活動均以「（○回）（都市名）Comic
 World」命名。
 
 ## 外部連結

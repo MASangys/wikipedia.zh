@@ -4,7 +4,7 @@
 bus**），（2009年5月18日─2010年12月31日）推出時口號為**天天坐不用錢**（**TTJBUS**），至2011年則以Taichung-city
 Taichung-county
 Joint為意涵，\[1\]是[臺中市政府為推廣民眾多使用](../Page/臺中市政府.md "wikilink")[公車而開辦的一系列新公車路線及免費方案](https://zh.wikipedia.org/wiki/公車 "wikilink")。
-此系列公車創立時雖以[捷運命名](../Page/捷運.md "wikilink")，事實上它並沒有專用道，也沒有專用或優先號誌，更沒有車外收費系統，所以它並不是[公車捷運系統](https://zh.wikipedia.org/wiki/公車捷運系統 "wikilink")，而是屬於[捷運先導公車](https://zh.wikipedia.org/wiki/捷運先導公車 "wikilink")，直到2010年底。實質上為台中市鼓勵民眾多使用公車而開辦的一系列新公車路線及免費公車方案。
+此系列公車創立時雖以[捷運命名](../Page/捷運.md "wikilink")，事實上它並沒有專用道，也沒有專用或優先號誌，更沒有車外收費系統，所以它並不是[公車捷運系統](https://zh.wikipedia.org/wiki/公車捷運系統 "wikilink")，而是屬於[捷運先導公車](../Page/捷運先導公車.md "wikilink")，直到2010年底。實質上為台中市鼓勵民眾多使用公車而開辦的一系列新公車路線及免費公車方案。
 
 最初停靠模式比照[捷運模式](../Page/捷運.md "wikilink")，將公車站牌間距拉長。第二年開始停站模式比照一般公車辦理，行駛範圍也由原本的[臺中市部分](../Page/臺中市_\(省轄市\).md "wikilink")[市轄區內的主要幹道及地區延伸到](https://zh.wikipedia.org/wiki/市轄區 "wikilink")[台中縣](https://zh.wikipedia.org/wiki/台中縣 "wikilink")。第三年因為新成立的[臺中直轄市將預算補助對象調整為所有的市區公車](https://zh.wikipedia.org/wiki/臺中市 "wikilink")，此名稱基本失去原本意義。
 

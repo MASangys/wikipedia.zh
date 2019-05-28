@@ -128,7 +128,7 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Young_Magazine "wikilink")》繼�
 ### 製作人員
 
   - 原作：Ditama某（講談社《Young Magazine》揭載）
-  - 導演：[名和宗則](https://zh.wikipedia.org/wiki/名和宗則 "wikilink")
+  - 導演：[名和宗則](../Page/名和宗則.md "wikilink")
   - 人物設計：下谷智之
   - 總作畫監督、副人物設計：枡田邦彰
   - 色彩設計：佐藤直子
@@ -186,8 +186,8 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Young_Magazine "wikilink")》繼�
 <td><p>第1話</p></td>
 <td></td>
 <td><p>同一屋簷下</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鈴木雅詞" title="wikilink">鈴木雅詞</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/名和宗則" title="wikilink">名和宗則</a></p></td>
+<td><p><a href="../Page/鈴木雅詞.md" title="wikilink">鈴木雅詞</a></p></td>
+<td><p><a href="../Page/名和宗則.md" title="wikilink">名和宗則</a></p></td>
 <td><p>丸山隆</p></td>
 <td><p>鈴木豪</p></td>
 <td><p>2009年5月22日</p></td>
@@ -337,7 +337,7 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Young_Magazine "wikilink")》繼�
 ### 製作人員
 
   - 原作：Ditama某（講談社《月刊Young Magazine》揭載）
-  - 導演：[名和宗則](https://zh.wikipedia.org/wiki/名和宗則 "wikilink")
+  - 導演：[名和宗則](../Page/名和宗則.md "wikilink")
   - 系列構成：長谷川勝己
   - 人物設計：下谷智之
   - 副人物設計：枡田邦彰
@@ -422,7 +422,7 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Young_Magazine "wikilink")》繼�
 <td><p>2</p></td>
 <td></td>
 <td><p>只有两人的课堂</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鈴木雅詞" title="wikilink">鈴木雅詞</a></p></td>
+<td><p><a href="../Page/鈴木雅詞.md" title="wikilink">鈴木雅詞</a></p></td>
 <td><p>菜香ゆき</p></td>
 <td><p>立田眞一<br />
 川島勝</p></td>
@@ -433,7 +433,7 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Young_Magazine "wikilink")》繼�
 <td><p>3</p></td>
 <td></td>
 <td><p>诱惑的甜点</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/植竹須美男" title="wikilink">植竹須美男</a></p></td>
+<td><p><a href="../Page/植竹須美男.md" title="wikilink">植竹須美男</a></p></td>
 <td><p>所俊克</p></td>
 <td><p>渡部周</p></td>
 <td><p>藤原未来夫<br />

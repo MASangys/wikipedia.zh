@@ -1,6 +1,6 @@
   -
 
-[Pi-explosion.jpg](https://zh.wikipedia.org/wiki/File:Pi-explosion.jpg "fig:Pi-explosion.jpg")。左上角陳列了此效果使用了的[貼圖](https://zh.wikipedia.org/wiki/貼圖 "wikilink")。爆炸發射器本身應用了[超級發射器的功能](https://zh.wikipedia.org/wiki/超級發射器 "wikilink")，在製作煙花及爆炸效果時經常會被用上。\]\]
+[Pi-explosion.jpg](https://zh.wikipedia.org/wiki/File:Pi-explosion.jpg "fig:Pi-explosion.jpg")。左上角陳列了此效果使用了的[貼圖](../Page/貼圖.md "wikilink")。爆炸發射器本身應用了[超級發射器的功能](https://zh.wikipedia.org/wiki/超級發射器 "wikilink")，在製作煙花及爆炸效果時經常會被用上。\]\]
 **particleIllusion**（官方簡稱為**pIllusion**；中文直譯為**粒子幻覺**），是一個主要以[Windows為平臺獨立運作的](https://zh.wikipedia.org/wiki/Windows "wikilink")[電腦動畫](https://zh.wikipedia.org/wiki/電腦動畫 "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")。pIllusion的唯一主力範疇是以[粒子系统的技術創作諸如](../Page/粒子系统.md "wikilink")[火](../Page/火.md "wikilink")、[爆炸](https://zh.wikipedia.org/wiki/爆炸 "wikilink")、[煙霧及](../Page/煙霧.md "wikilink")[煙花等動畫效果](https://zh.wikipedia.org/wiki/煙花 "wikilink")。pIllusion的前身為由Impulse
 Inc. 代理的**Illusion
 2**（1999\~2001），由於主[程序員與該公司意見不合而離開及創立新公司Wondertouch](https://zh.wikipedia.org/wiki/程序員 "wikilink")，將Illusion

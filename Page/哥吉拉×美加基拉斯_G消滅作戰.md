@@ -35,7 +35,7 @@ G消滅作戰**》（），2000年上映的[日本](../Page/日本.md "wikilink"
 
   - 辻森桐子：[田中美里](https://zh.wikipedia.org/wiki/田中美里 "wikilink")
   - 工藤元：[谷原章介](../Page/谷原章介.md "wikilink")
-  - 新倉誠：[勝村政信](https://zh.wikipedia.org/wiki/勝村政信 "wikilink")
+  - 新倉誠：[勝村政信](../Page/勝村政信.md "wikilink")
   - 美馬和男：[池內萬作](https://zh.wikipedia.org/wiki/池內萬作 "wikilink")
   - 早坂淳：[鈴木博之](https://zh.wikipedia.org/wiki/鈴木博之 "wikilink")
   - 細野精一：[山口馬木也](https://zh.wikipedia.org/wiki/山口馬木也 "wikilink")

@@ -5,7 +5,7 @@ RECORDS負責分銷](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")。�
 ## 收錄歌曲
 
 1.  Little Wish ～lyrical step～
-      - 作詞：[椎名可憐](https://zh.wikipedia.org/wiki/椎名可憐 "wikilink")；作曲、編曲：[太田雅友](https://zh.wikipedia.org/wiki/太田雅友 "wikilink")
+      - 作詞：[椎名可憐](https://zh.wikipedia.org/wiki/椎名可憐 "wikilink")；作曲、編曲：[太田雅友](../Page/太田雅友.md "wikilink")
       - 動畫「[魔法少女奈葉](https://zh.wikipedia.org/wiki/魔法少女奈葉 "wikilink")」片尾曲
 2.  永遠
       - 作詞、作曲、編曲：太田雅友

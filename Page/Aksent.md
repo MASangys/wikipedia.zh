@@ -2,7 +2,7 @@
 
 ## 概要
 
-1987年（昭和62年）5月28日\[2\]成立。另有附屬養成所Shine（也有遠程通信課程）以培養新人，成立於1999年1月\[3\]，所長由聲優[一龍齋春水](https://zh.wikipedia.org/wiki/一龍齋春水 "wikilink")（麻上洋子）就任\[4\]\[5\]。
+1987年（昭和62年）5月28日\[2\]成立。另有附屬養成所Shine（也有遠程通信課程）以培養新人，成立於1999年1月\[3\]，所長由聲優[一龍齋春水](../Page/一龍齋春水.md "wikilink")（麻上洋子）就任\[4\]\[5\]。
 
 2012年1月10日，公司總部搬到現在地址。
 
@@ -25,7 +25,7 @@
   - 岩城泰司
 
   -
-  - [大森章督](https://zh.wikipedia.org/wiki/大森章督 "wikilink")
+  - [大森章督](../Page/大森章督.md "wikilink")
 
   -
 <!-- end list -->
@@ -57,9 +57,9 @@
 
   - 齋藤凌
 
-  - [阪口周平](https://zh.wikipedia.org/wiki/阪口周平 "wikilink")
+  - [阪口周平](../Page/阪口周平.md "wikilink")
 
-  - [坂詰貴之](https://zh.wikipedia.org/wiki/坂詰貴之 "wikilink")
+  - [坂詰貴之](../Page/坂詰貴之.md "wikilink")
 
   -
   -
@@ -83,11 +83,11 @@
 
   - 平拳
 
-  - [高瀨右光](https://zh.wikipedia.org/wiki/高瀨右光 "wikilink")
+  - [高瀨右光](../Page/高瀨右光.md "wikilink")
 
   -
   -
-  - [玉木雅士](https://zh.wikipedia.org/wiki/玉木雅士 "wikilink")
+  - [玉木雅士](../Page/玉木雅士.md "wikilink")
 
   - 藤翔平
 
@@ -172,7 +172,7 @@
 
   - 市邑咲
 
-  - [一龍齋春水](https://zh.wikipedia.org/wiki/一龍齋春水 "wikilink")（麻上洋子）
+  - [一龍齋春水](../Page/一龍齋春水.md "wikilink")（麻上洋子）
 
   -
   -
@@ -199,7 +199,7 @@
 
   - 栞菜
 
-  - [菊地瞳](https://zh.wikipedia.org/wiki/菊地瞳 "wikilink")
+  - [菊地瞳](../Page/菊地瞳.md "wikilink")
 
   - 木村香央里
 
@@ -322,7 +322,7 @@
 
   - [石塚運昇](../Page/石塚運昇.md "wikilink")（移籍[青二Production之後於在籍中死去](../Page/青二製作.md "wikilink")）
 
-  - [石塚堅](https://zh.wikipedia.org/wiki/石塚堅 "wikilink")
+  - [石塚堅](../Page/石塚堅.md "wikilink")
 
   - （現所屬：）
 
@@ -331,14 +331,13 @@
   -
   - 株田裕介
 
-  - （現所屬：[Production
-    Ace](https://zh.wikipedia.org/wiki/Production_Ace "wikilink")）
+  - （現所屬：[Production Ace](../Page/Production_Ace.md "wikilink")）
 
   - [近藤隆幸](../Page/近藤隆幸.md "wikilink")（現所屬：）
 
   - 櫻庭裕士（現所屬：）
 
-  - [田中哲司](https://zh.wikipedia.org/wiki/田中哲司 "wikilink")（現所屬：）
+  - [田中哲司](../Page/田中哲司.md "wikilink")（現所屬：）
 
   - （現所屬：青二Production）
 
@@ -346,7 +345,7 @@
 
   - [成田劍](../Page/成田劍.md "wikilink")（[自由職業](../Page/自由職業.md "wikilink")）
 
-  - [橋本晃一](https://zh.wikipedia.org/wiki/橋本晃一 "wikilink")（自由職業、（業務委託））
+  - [橋本晃一](../Page/橋本晃一.md "wikilink")（自由職業、（業務委託））
 
   -
   - （現所屬：[Production baobab](../Page/Production_baobab.md "wikilink")）
@@ -382,7 +381,7 @@
 
   - [津村真琴](../Page/津村真琴.md "wikilink")（現所屬：青二Production）
 
-  - [寺依沙織](https://zh.wikipedia.org/wiki/寺依沙織 "wikilink")（現所屬：[Mausu
+  - [寺依沙織](../Page/寺依沙織.md "wikilink")（現所屬：[Mausu
     Promotion](../Page/Mausu_Promotion.md "wikilink")）
 
   - （自由職業）

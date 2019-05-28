@@ -194,7 +194,7 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
 
   - 原作：5pb.、Nitroplus、RED FLAGSHIP
   - 監督：
-  - 系列構成、劇本：[井上敏樹](https://zh.wikipedia.org/wiki/井上敏樹 "wikilink")
+  - 系列構成、劇本：[井上敏樹](../Page/井上敏樹.md "wikilink")
   - 人物原案：
   - 人物設定：[島村秀一](https://zh.wikipedia.org/wiki/島村秀一 "wikilink")
   - 音響監督：中嶋聰彥
@@ -256,7 +256,7 @@ Z（推薦18歲以上）。PSP版移植时对折原梢线的画面表现加以�
 <td><p>1</p></td>
 <td><p>起動<br />
 boot up</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/井上敏樹" title="wikilink">井上敏樹</a></p></td>
+<td><p><a href="../Page/井上敏樹.md" title="wikilink">井上敏樹</a></p></td>
 <td><p>宍戸淳</p></td>
 <td><p>大谷肇</p></td>
 <td><p>大塚美登理<br />
@@ -338,7 +338,7 @@ linkage</p></td>
 <td><p>拒絶<br />
 rejection</p></td>
 <td><p>石山贵明</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/石踊宏" title="wikilink">石踊宏</a></p></td>
+<td><p><a href="../Page/石踊宏.md" title="wikilink">石踊宏</a></p></td>
 <td><p>川島尚</p></td>
 <td></td>
 </tr>

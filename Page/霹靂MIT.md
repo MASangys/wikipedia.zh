@@ -630,7 +630,7 @@ MIT任務，即將出發……
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/林昀希" title="wikilink">林昀希</a></p></td>
+<p><a href="../Page/林昀希.md" title="wikilink">林昀希</a></p></td>
 <td><center>
 <p>姚千慧</p></td>
 <td><center>

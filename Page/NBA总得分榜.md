@@ -74,7 +74,7 @@
 <a href="https://zh.wikipedia.org/wiki/邁阿密熱火" title="wikilink">邁阿密熱火</a><br />
 （<a href="../Page/2010-11_NBA賽季.md" title="wikilink">2010-11</a>--<a href="../Page/2013-14_NBA賽季.md" title="wikilink">2013-14</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a><br />
-（<a href="../Page/2014-15_NBA賽季.md" title="wikilink">2014-15</a>—<a href="https://zh.wikipedia.org/wiki/2017-18_NBA賽季" title="wikilink">2017-18</a>）<br />
+（<a href="../Page/2014-15_NBA賽季.md" title="wikilink">2014-15</a>—<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a><br />
 （<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19</a>--[5]）</p></td>
 <td><p><font color="#007FFF"><strong>32,543</strong></font></p></td>
@@ -353,7 +353,7 @@
 （<a href="https://zh.wikipedia.org/wiki/2003-04_NBA賽季" title="wikilink">2003-04</a>--<a href="https://zh.wikipedia.org/wiki/2010-11_NBA赛季" title="wikilink">2010-11</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/紐約尼克斯" title="wikilink">紐約尼克斯</a><br />
 （<a href="../Page/2010-11_NBA賽季.md" title="wikilink">2010-11</a>--<a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17</a>） <a href="https://zh.wikipedia.org/wiki/俄克拉荷马雷霆" title="wikilink">俄克拉荷马雷霆</a><br />
-（<a href="https://zh.wikipedia.org/wiki/2017-18_NBA賽季" title="wikilink">2017-18</a>—2017-18[18]）</p></td>
+（<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>—2017-18[18]）</p></td>
 <td><p><font color="#007FFF"><strong>25,551</strong></font></p></td>
 <td><p>1,064</p></td>
 <td><p>9,137</p></td>
@@ -379,7 +379,7 @@
 （<a href="https://zh.wikipedia.org/wiki/2011-12_NBA賽季" title="wikilink">2011-12</a>--<a href="https://zh.wikipedia.org/wiki/2012-13_NBA賽季" title="wikilink">2012-13</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/曼菲斯灰熊" title="wikilink">曼菲斯灰熊</a><br />
 （<a href="../Page/2014-15_NBA賽季.md" title="wikilink">2014-15</a>--<a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17</a>） <a href="https://zh.wikipedia.org/wiki/萨克拉门托国王" title="wikilink">萨克拉门托国王</a><br />
-（<a href="https://zh.wikipedia.org/wiki/2017-18_NBA賽季" title="wikilink">2017-18</a>[19]）</p>
+（<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>[19]）</p>
 <p><a href="../Page/亚特兰大老鹰.md" title="wikilink">亞特蘭大老鷹</a>(<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19</a>)</p></td>
 <td><p><font color="#007FFF"><strong>25,430</strong></font></p></td>
 <td><p>1,481</p></td>
@@ -581,9 +581,9 @@ color="#007FFF"><strong>18.2</strong></font></p></td>
 <a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a><br />
 （<a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17</a>）<br />
 <a href="../Page/克里夫兰骑士.md" title="wikilink">克里夫兰骑士</a><br />
-（<a href="https://zh.wikipedia.org/wiki/2017-18_NBA賽季" title="wikilink">2017-18</a>）<br />
+（<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/邁阿密熱火" title="wikilink">邁阿密熱火</a><br />
-（<a href="https://zh.wikipedia.org/wiki/2017-18_NBA賽季" title="wikilink">2017-18</a>—<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19</a>）</p></td>
+（<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>—<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19</a>）</p></td>
 <td><p><font color="#007FFF"><strong>23,048</strong></font></p></td>
 <td><p>1054</p></td>
 <td><p>8,454</p></td>
@@ -801,7 +801,7 @@ color="#007FFF"><strong>18.2</strong></font></p></td>
 <a href="https://zh.wikipedia.org/wiki/猶他爵士" title="wikilink">猶他爵士</a><br />
 （<a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17</a>—2017-18)<br />
 <a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">休士頓火箭</a><br />
-（<a href="https://zh.wikipedia.org/wiki/2017-18_NBA賽季" title="wikilink">2017-18</a>—2017-18[31]）</p></td>
+（<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>—2017-18[31]）</p></td>
 <td><p><font color="#007FFF"><strong>20,405</strong></font></p></td>
 <td><p>1,267</p></td>
 <td><p>7,801</p></td>
@@ -944,7 +944,7 @@ color="#007FFF"><strong>18.2</strong></font></p></td>
 <td><p><strong><a href="../Page/托尼·帕克.md" title="wikilink">托尼·帕克</a>^</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/控球後衛" title="wikilink">控球後衛</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a><br />
-（<a href="https://zh.wikipedia.org/wiki/2001-02_NBA賽季" title="wikilink">2001-02</a>—<a href="https://zh.wikipedia.org/wiki/2017-18_NBA賽季" title="wikilink">2017-18</a>）<br />
+（<a href="https://zh.wikipedia.org/wiki/2001-02_NBA賽季" title="wikilink">2001-02</a>—<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>）<br />
 <a href="../Page/夏洛特黃蜂.md" title="wikilink">夏洛特黃蜂</a><br />
 （<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19</a>）</p></td>
 <td><p><font color="#007FFF"><strong>19,473</strong></font></p></td>

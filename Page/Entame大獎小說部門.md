@@ -483,7 +483,7 @@
 （2011年）</p></td>
 <td><p>大賞</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鳳乃一真" title="wikilink">鳳乃一真</a></p></td>
+<td><p><a href="../Page/鳳乃一真.md" title="wikilink">鳳乃一真</a></p></td>
 <td><p>尖端代理</p></td>
 </tr>
 <tr class="odd">

@@ -28,7 +28,7 @@
 
 全程：$7.6
 
-  - [興發街往小西灣](https://zh.wikipedia.org/wiki/興發街 "wikilink")（藍灣半島）：$5.9
+  - [興發街往小西灣](../Page/興發街.md "wikilink")（藍灣半島）：$5.9
   - [張振興伉儷書院往小西灣](../Page/張振興伉儷書院.md "wikilink")（藍灣半島）：$4.8
   - \*八達通雙向分段收費，乘客須在上、落車時用同一張八達通卡輕觸收費器。
       - 百德新街往[灣景中心大廈](../Page/灣景中心大廈.md "wikilink")：$5.1
@@ -44,7 +44,7 @@
 
 ## 行車路線
 
-**經**：[小西灣道](../Page/小西灣道.md "wikilink")、[柴灣道](../Page/柴灣道.md "wikilink")、[東區走廊](../Page/東區走廊.md "wikilink")、[東喜道](https://zh.wikipedia.org/wiki/東喜道 "wikilink")、[南安里](https://zh.wikipedia.org/wiki/南安里 "wikilink")、[南安街](https://zh.wikipedia.org/wiki/南安街 "wikilink")、東區走廊、[維園道](https://zh.wikipedia.org/wiki/維園道 "wikilink")、[告士打道](../Page/告士打道.md "wikilink")、[杜老誌道天橋](../Page/杜老誌道.md "wikilink")、杜老誌道、[港灣道](../Page/港灣道.md "wikilink")、[菲林明道](../Page/菲林明道.md "wikilink")、天橋、菲林明道、[軒尼詩道](../Page/軒尼詩道.md "wikilink")、[怡和街](../Page/怡和街.md "wikilink")、[高士威道](../Page/高士威道.md "wikilink")、[興發街](https://zh.wikipedia.org/wiki/興發街 "wikilink")、東區走廊、東喜道、東區走廊、柴灣道、小西灣道。
+**經**：[小西灣道](../Page/小西灣道.md "wikilink")、[柴灣道](../Page/柴灣道.md "wikilink")、[東區走廊](../Page/東區走廊.md "wikilink")、[東喜道](https://zh.wikipedia.org/wiki/東喜道 "wikilink")、[南安里](https://zh.wikipedia.org/wiki/南安里 "wikilink")、[南安街](https://zh.wikipedia.org/wiki/南安街 "wikilink")、東區走廊、[維園道](https://zh.wikipedia.org/wiki/維園道 "wikilink")、[告士打道](../Page/告士打道.md "wikilink")、[杜老誌道天橋](../Page/杜老誌道.md "wikilink")、杜老誌道、[港灣道](../Page/港灣道.md "wikilink")、[菲林明道](../Page/菲林明道.md "wikilink")、天橋、菲林明道、[軒尼詩道](../Page/軒尼詩道.md "wikilink")、[怡和街](../Page/怡和街.md "wikilink")、[高士威道](../Page/高士威道.md "wikilink")、[興發街](../Page/興發街.md "wikilink")、東區走廊、東喜道、東區走廊、柴灣道、小西灣道。
 
 ### 沿線車站
 

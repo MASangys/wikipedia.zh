@@ -19,26 +19,26 @@
 
 [Ellingham_diagram.GIF](https://zh.wikipedia.org/wiki/File:Ellingham_diagram.GIF "fig:Ellingham_diagram.GIF")
 
-  - **[哪个化学实验](https://zh.wikipedia.org/wiki/大象牙膏 "wikilink")**中[过氧化氢分解产生大量泡沫](../Page/过氧化氢.md "wikilink")，因类似牙膏而得名？
+  - **[哪个化学实验](../Page/大象牙膏.md "wikilink")**中[过氧化氢分解产生大量泡沫](../Page/过氧化氢.md "wikilink")，因类似牙膏而得名？
 
 [Elephant_Toothpaste_Denver_JDS_Labs.jpg](https://zh.wikipedia.org/wiki/File:Elephant_Toothpaste_Denver_JDS_Labs.jpg "fig:Elephant_Toothpaste_Denver_JDS_Labs.jpg")
 
-  - **[哪种有机试剂](https://zh.wikipedia.org/wiki/Bestmann-Ohira试剂 "wikilink")**能通过磷叶立德中间体将[羰基转化为炔基](../Page/羰基.md "wikilink")？
+  - **[哪种有机试剂](../Page/Bestmann-Ohira试剂.md "wikilink")**能通过磷叶立德中间体将[羰基转化为炔基](../Page/羰基.md "wikilink")？
 
 [ohira-bestmann_reagent_2d-skeletal.png](https://zh.wikipedia.org/wiki/File:ohira-bestmann_reagent_2d-skeletal.png "fig:ohira-bestmann_reagent_2d-skeletal.png")
 
-  - **[哪条](https://zh.wikipedia.org/wiki/洪德最大多重度规则 "wikilink")**[洪德规则与](https://zh.wikipedia.org/wiki/洪德规则 "wikilink")[自旋](../Page/自旋.md "wikilink")[量子数](../Page/量子数.md "wikilink")
+  - **[哪条](../Page/洪德最大多重度规则.md "wikilink")**[洪德规则与](https://zh.wikipedia.org/wiki/洪德规则 "wikilink")[自旋](../Page/自旋.md "wikilink")[量子数](../Page/量子数.md "wikilink")
 
     有关，且在[中等教育中经常被简称为洪德规则](https://zh.wikipedia.org/wiki/中等教育 "wikilink")？
-  - 在[化工生產中](https://zh.wikipedia.org/wiki/化學工業 "wikilink")，**[哪種生產設備](https://zh.wikipedia.org/wiki/化學反應器 "wikilink")**被稱為是[化工廠的心臟](https://zh.wikipedia.org/wiki/化工廠 "wikilink")？
+  - 在[化工生產中](https://zh.wikipedia.org/wiki/化學工業 "wikilink")，**[哪種生產設備](../Page/化學反應器.md "wikilink")**被稱為是[化工廠的心臟](https://zh.wikipedia.org/wiki/化工廠 "wikilink")？
 
 [Batch_reactor_STR.svg](https://zh.wikipedia.org/wiki/File:Batch_reactor_STR.svg "fig:Batch_reactor_STR.svg")
 
-  - **[哪种形似楔子的烷烃](https://zh.wikipedia.org/wiki/楔形烷 "wikilink")**是由[立方烷通过](../Page/立方烷.md "wikilink")[σ迁移反应所得到](https://zh.wikipedia.org/wiki/σ迁移反应 "wikilink")？
+  - **[哪种形似楔子的烷烃](../Page/楔形烷.md "wikilink")**是由[立方烷通过](../Page/立方烷.md "wikilink")[σ迁移反应所得到](https://zh.wikipedia.org/wiki/σ迁移反应 "wikilink")？
 
 [Cuneane-HF-Mercury-3D-balls.png](https://zh.wikipedia.org/wiki/File:Cuneane-HF-Mercury-3D-balls.png "fig:Cuneane-HF-Mercury-3D-balls.png")
 
-  - **[哪一种一氧化碳的等电子体](https://zh.wikipedia.org/wiki/一氟化硼 "wikilink")**能自发聚合？
+  - **[哪一种一氧化碳的等电子体](../Page/一氟化硼.md "wikilink")**能自发聚合？
   - **[哪種含砒有機物](https://zh.wikipedia.org/wiki/偶氮胂III "wikilink")**可以用來測定血清鈣？
 
 [Arsenazo_iii.jpg](https://zh.wikipedia.org/wiki/File:Arsenazo_iii.jpg "fig:Arsenazo_iii.jpg")
@@ -48,17 +48,17 @@
 
 [Cuban.svg](https://zh.wikipedia.org/wiki/File:Cuban.svg "fig:Cuban.svg")
 
-  - **[哪种有机铝化合物](https://zh.wikipedia.org/wiki/三甲基铝 "wikilink")**能与[炔烃反应生成烯基铝](../Page/炔烃.md "wikilink")，在工业上有重要的用途？
+  - **[哪种有机铝化合物](../Page/三甲基铝.md "wikilink")**能与[炔烃反应生成烯基铝](../Page/炔烃.md "wikilink")，在工业上有重要的用途？
   - **[哪位科学家](../Page/玛丽·居里.md "wikilink")**是首位获得诺贝尔奖的女性和获得两次诺贝尔奖的第一人？
-  - **[哪一名德国化学家](https://zh.wikipedia.org/wiki/克拉拉·伊梅瓦尔 "wikilink")**是第一个在德国取得博士学位的女性？
-  - 熔融的[硫氰酸钾作用于](../Page/硫氰酸钾.md "wikilink")[二氧化锡](../Page/二氧化锡.md "wikilink")，产生**[哪种化合物](https://zh.wikipedia.org/wiki/硫化亚锡 "wikilink")**？
-  - 锡的**[哪种氧化物](https://zh.wikipedia.org/wiki/氧化亚锡 "wikilink")**可以催化羧酸和醇之间的[酯化反应](../Page/酯化反应.md "wikilink")？
-  - 在[电化学中](../Page/电化学.md "wikilink")，**[哪一种电极](https://zh.wikipedia.org/wiki/标准氢电极 "wikilink")**的电位是所有电极电势的基准值？
-  - [锰族元素的最高价含氧酸中](https://zh.wikipedia.org/wiki/锰族元素 "wikilink")，氧化性最弱的是**[哪一个](https://zh.wikipedia.org/wiki/高铼酸 "wikilink")**？
-  - **[哪一种分析方法](https://zh.wikipedia.org/wiki/定性无机分析 "wikilink")**被用来定性检测无机物的元素组成？
-  - 由[镉](../Page/镉.md "wikilink")、[氢](../Page/氢.md "wikilink")、[氧三种元素组成的最稳定的化合物是](../Page/氧.md "wikilink")**[什么](https://zh.wikipedia.org/wiki/氢氧化镉 "wikilink")**？
+  - **[哪一名德国化学家](../Page/克拉拉·伊梅瓦尔.md "wikilink")**是第一个在德国取得博士学位的女性？
+  - 熔融的[硫氰酸钾作用于](../Page/硫氰酸钾.md "wikilink")[二氧化锡](../Page/二氧化锡.md "wikilink")，产生**[哪种化合物](../Page/硫化亚锡.md "wikilink")**？
+  - 锡的**[哪种氧化物](../Page/氧化亚锡.md "wikilink")**可以催化羧酸和醇之间的[酯化反应](../Page/酯化反应.md "wikilink")？
+  - 在[电化学中](../Page/电化学.md "wikilink")，**[哪一种电极](../Page/标准氢电极.md "wikilink")**的电位是所有电极电势的基准值？
+  - [锰族元素的最高价含氧酸中](https://zh.wikipedia.org/wiki/锰族元素 "wikilink")，氧化性最弱的是**[哪一个](../Page/高铼酸.md "wikilink")**？
+  - **[哪一种分析方法](../Page/定性无机分析.md "wikilink")**被用来定性检测无机物的元素组成？
+  - 由[镉](../Page/镉.md "wikilink")、[氢](../Page/氢.md "wikilink")、[氧三种元素组成的最稳定的化合物是](../Page/氧.md "wikilink")**[什么](../Page/氢氧化镉.md "wikilink")**？
   - **[哪一种气态元素](../Page/氡.md "wikilink")**的放射性是肺癌的第二大成因？
-  - **[哪位女性化学家](https://zh.wikipedia.org/wiki/默特尔·克莱尔·巴舍尔德 "wikilink")**曾参与[曼哈顿计划](../Page/曼哈顿计划.md "wikilink")，并发展了稀有元素[碲和](../Page/碲.md "wikilink")[铟的提纯法](../Page/铟.md "wikilink")？
+  - **[哪位女性化学家](../Page/默特尔·克莱尔·巴舍尔德.md "wikilink")**曾参与[曼哈顿计划](../Page/曼哈顿计划.md "wikilink")，并发展了稀有元素[碲和](../Page/碲.md "wikilink")[铟的提纯法](../Page/铟.md "wikilink")？
   - **[哪一种有机化合物](../Page/脂類.md "wikilink")**包括了脂肪、蜡、类固醇等，是生物储存能量的来源之一？
   - [锌粉在](../Page/锌.md "wikilink")[氨气气氛中加热](https://zh.wikipedia.org/wiki/氨气 "wikilink")，会得到**[哪种锌的化合物](../Page/氮化锌.md "wikilink")**？
   - **[哪位女性药理学家](../Page/弗朗西斯·奥尔德姆·凯尔西.md "wikilink")**曾在供职[美国食品药品监督管理局期间阻止了](../Page/美国食品药品监督管理局.md "wikilink")[沙利度胺上市](../Page/沙利度胺.md "wikilink")？
@@ -102,8 +102,8 @@
 
 [Michel_Eugène_Chevreul.jpg](https://zh.wikipedia.org/wiki/File:Michel_Eugène_Chevreul.jpg "fig:Michel_Eugène_Chevreul.jpg")
 
-  - **[哪位法国化学家](https://zh.wikipedia.org/wiki/米歇尔·欧仁·谢弗勒尔 "wikilink")**活到了102岁，还因对动物脂肪和色彩对比的研究获得过[科普利奖章](https://zh.wikipedia.org/wiki/科普利奖章 "wikilink")？
-  - **[哪种抗抑郁药](https://zh.wikipedia.org/wiki/单胺氧化酶抑制剂 "wikilink")**因为其与其他抗抑郁药的严重相互作用而受到冷落？
+  - **[哪位法国化学家](../Page/米歇尔·欧仁·谢弗勒尔.md "wikilink")**活到了102岁，还因对动物脂肪和色彩对比的研究获得过[科普利奖章](https://zh.wikipedia.org/wiki/科普利奖章 "wikilink")？
+  - **[哪种抗抑郁药](../Page/单胺氧化酶抑制剂.md "wikilink")**因为其与其他抗抑郁药的严重相互作用而受到冷落？
 
 [Thallium_pieces_in_ampoule.jpg](https://zh.wikipedia.org/wiki/File:Thallium_pieces_in_ampoule.jpg "fig:Thallium_pieces_in_ampoule.jpg")
 
@@ -1704,7 +1704,7 @@
 
 -----
 
-**[分子对接](../Page/分子对接.md "wikilink")**是[分子模拟的重要方法之一](https://zh.wikipedia.org/wiki/分子模拟 "wikilink")，其本质是两个或多个[分子之间的](../Page/分子.md "wikilink")[识别过程](https://zh.wikipedia.org/wiki/分子识别 "wikilink")，其过程涉及分子之间的空间匹配和能量匹配。分子对接方法在[药物设计](../Page/药物.md "wikilink")、[材料设计等领域有广泛的应用](../Page/材料.md "wikilink")。早期的分子对接方法用[分子力学方法或者](https://zh.wikipedia.org/wiki/分子力学 "wikilink")[量子化学方法计算小分子之间分子识别](../Page/量子化学.md "wikilink")，在一些[分子模拟软件包中也含有分子对接的模块](https://zh.wikipedia.org/wiki/分子模拟 "wikilink")。但是由于算法和计算机处理能力的限制，早期的对接方法较难处理含有大分子的分子对接过程。
+**[分子对接](../Page/分子对接.md "wikilink")**是[分子模拟的重要方法之一](https://zh.wikipedia.org/wiki/分子模拟 "wikilink")，其本质是两个或多个[分子之间的](../Page/分子.md "wikilink")[识别过程](https://zh.wikipedia.org/wiki/分子识别 "wikilink")，其过程涉及分子之间的空间匹配和能量匹配。分子对接方法在[药物设计](../Page/药物.md "wikilink")、[材料设计等领域有广泛的应用](../Page/材料.md "wikilink")。早期的分子对接方法用[分子力学方法或者](../Page/分子力学.md "wikilink")[量子化学方法计算小分子之间分子识别](../Page/量子化学.md "wikilink")，在一些[分子模拟软件包中也含有分子对接的模块](https://zh.wikipedia.org/wiki/分子模拟 "wikilink")。但是由于算法和计算机处理能力的限制，早期的对接方法较难处理含有大分子的分子对接过程。
 
 -----
 

@@ -61,7 +61,7 @@ Oじろー、フレーム</p></td>
 <td><p>2011年9月30日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/戀色婚姻" title="wikilink">戀色婚姻</a></p></td>
+<td><p><a href="../Page/戀色婚姻.md" title="wikilink">戀色婚姻</a></p></td>
 <td><p>さそりがため、ちこたむ<br />
 村上水軍、ここのか（SD）</p></td>
 <td><p>吉川芳佳、三日堂</p></td>

@@ -238,7 +238,7 @@ Expo車展展出。
 
   - [富豪B5TL](../Page/富豪B5TL.md "wikilink")
   - [富豪B9TL](https://zh.wikipedia.org/wiki/富豪B9TL "wikilink")
-  - [VDL DB300](https://zh.wikipedia.org/wiki/VDL_DB300 "wikilink")
+  - [VDL DB300](../Page/VDL_DB300.md "wikilink")
 
 ## 參考資料
 

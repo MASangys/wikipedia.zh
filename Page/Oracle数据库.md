@@ -22,11 +22,11 @@ Oracle数据库管理系统可以保存并运行自己的[存储程序和函数]
 
 ### 存储
 
-Oracle关系型数据库管理系统从逻辑上把数据保存在[表空间内](https://zh.wikipedia.org/wiki/表空间 "wikilink")，在物理上以数据文件的形式存储。表空间可以包含多种类型的[内存区段](https://zh.wikipedia.org/wiki/内存区段 "wikilink")，例如数据区段（Data
+Oracle关系型数据库管理系统从逻辑上把数据保存在[表空间内](../Page/表空间.md "wikilink")，在物理上以数据文件的形式存储。表空间可以包含多种类型的[内存区段](https://zh.wikipedia.org/wiki/内存区段 "wikilink")，例如数据区段（Data
 Segment）、索引区段（Index
 Segment）等等。区段相应的由一个或多个扩展（extent）组成。扩展由相连的数据区块组成。数据区块是数据存储的基本单元。
 
-Oracle数据库管理系统通过存储在`SYSTEM`表空间内的信息来跟踪数据存储。`SYSTEM`表空间包含了[数据字典](https://zh.wikipedia.org/wiki/数据字典 "wikilink")—以及（默认的）[索引和](https://zh.wikipedia.org/wiki/数据库索引 "wikilink")[集群](https://zh.wikipedia.org/wiki/计算机集群 "wikilink")。数据字典包含了一个保存了所有数据库中用户对象的信息的[表](https://zh.wikipedia.org/wiki/数据库表 "wikilink")。从8i版本开始，Oracle开始支持*本地管理*表空间，即把空间管理信息保存在它们自己的[信头的位图中而不是](https://zh.wikipedia.org/wiki/信头 "wikilink")`SYSTEM`表空间内。
+Oracle数据库管理系统通过存储在`SYSTEM`表空间内的信息来跟踪数据存储。`SYSTEM`表空间包含了[数据字典](https://zh.wikipedia.org/wiki/数据字典 "wikilink")—以及（默认的）[索引和](https://zh.wikipedia.org/wiki/数据库索引 "wikilink")[集群](../Page/计算机集群.md "wikilink")。数据字典包含了一个保存了所有数据库中用户对象的信息的[表](https://zh.wikipedia.org/wiki/数据库表 "wikilink")。从8i版本开始，Oracle开始支持*本地管理*表空间，即把空间管理信息保存在它们自己的[信头的位图中而不是](https://zh.wikipedia.org/wiki/信头 "wikilink")`SYSTEM`表空间内。
 
 #### 磁盘文件
 

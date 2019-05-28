@@ -177,8 +177,7 @@ Gundam Virsago）
     超必殺：強襲.烈雷爪
     神器：黑暗玉璽
 
-**[石永](https://zh.wikipedia.org/wiki/石永 "wikilink")-{zh-hk:渣古;zh-tw:薩克;}-**I（MS-05B
-Zaku I）
+**[石永](../Page/石永.md "wikilink")-{zh-hk:渣古;zh-tw:薩克;}-**I（MS-05B Zaku I）
 
   -
     在博望坡之戰中為了建功，違抗[夏侯惇的命令火燒村莊引出](../Page/夏侯惇.md "wikilink")[劉備眾人](https://zh.wikipedia.org/wiki/劉備 "wikilink")，被憤怒的[關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")、[關平父子打敗](../Page/關平.md "wikilink")。

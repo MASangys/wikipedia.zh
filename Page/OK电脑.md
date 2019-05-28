@@ -4,7 +4,7 @@ Computer》增强了乐队在海外的影响力，是电台司令最后一张在
 Computer》收錄了单曲「」、「」和「」。
 
 这张专辑在[牛津郡和](../Page/牛津郡.md "wikilink")[巴斯乡间与](https://zh.wikipedia.org/wiki/巴斯 "wikilink")[奈杰尔·古德里奇](https://zh.wikipedia.org/wiki/奈杰尔·古德里奇 "wikilink")（[Nigel
-Godrich](https://zh.wikipedia.org/wiki/尼杰尔·歌德里希 "wikilink")）一起创作。此人又参加了以后所有电台司令的专辑的创作。尽管《OK
+Godrich](../Page/尼杰尔·歌德里希.md "wikilink")）一起创作。此人又参加了以后所有电台司令的专辑的创作。尽管《OK
 Computer》主要是用吉他演奏，但是他们在这张专辑中尝试了很宽的乐器范围，从很多当时著名的英伦摇滚与另类摇滚乐团中汲取了精华，並为以后他们风格的转变、实验性的增强埋下了伏笔。\[4\]歌词均由[湯姆·約克创作](../Page/湯姆·約克.md "wikilink")，而专辑封面是由湯姆与另一位画家所创作。这封面所隐喻的是一些社会问题，尽管乐團否认他们是在做一张概念专辑。\[5\]
 
 《OK

@@ -169,7 +169,7 @@ Atlus總部設於日本，在美國、沈阳、南京、[香港等地均設有�
 <td><p><a href="https://zh.wikipedia.org/wiki/SEGA" title="wikilink">SEGA代理發行</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/女神异闻录Persona" title="wikilink">女神异闻录Persona</a><br />
+<td><p><a href="../Page/女神异闻录Persona.md" title="wikilink">女神异闻录Persona</a><br />
 <em>Revelations: Persona</em></p></td>
 <td></td>
 <td><p>1996年9月20日</p></td>
@@ -177,7 +177,7 @@ Atlus總部設於日本，在美國、沈阳、南京、[香港等地均設有�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/女神異聞錄2" title="wikilink">女神異聞錄2</a><br />
+<td><p><a href="../Page/女神異聞錄2.md" title="wikilink">女神異聞錄2</a><br />
 <em>Persona 2</em></p></td>
 <td></td>
 <td><p>1999年6月24日</p></td>
@@ -304,7 +304,7 @@ Atlus總部設於日本，在美國、沈阳、南京、[香港等地均設有�
 <td><p>由<a href="https://zh.wikipedia.org/wiki/Sting_(遊戲公司)" title="wikilink">Sting开发</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/世界樹迷宮" title="wikilink">世界樹迷宮</a><br />
+<td><p><a href="../Page/世界樹迷宮.md" title="wikilink">世界樹迷宮</a><br />
 <em>Etrian Odyssey</em></p></td>
 <td></td>
 <td><p>2007年1月18日</p></td>
@@ -466,7 +466,7 @@ Atlus總部設於日本，在美國、沈阳、南京、[香港等地均設有�
   - [磯貝正吾](https://zh.wikipedia.org/wiki/磯貝正吾 "wikilink")
   - [橋野桂](https://zh.wikipedia.org/wiki/橋野桂 "wikilink")
   - [副島成記](https://zh.wikipedia.org/wiki/副島成記 "wikilink")
-  - [目黑将司](https://zh.wikipedia.org/wiki/目黑将司 "wikilink")
+  - [目黑将司](../Page/目黑将司.md "wikilink")
 
 <!-- end list -->
 

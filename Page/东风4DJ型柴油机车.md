@@ -17,7 +17,7 @@
 
 ### 试验
 
-2000年8月，东风4DJ型机车在[铁道部科学研究院](../Page/中国铁道科学研究院.md "wikilink")[北京环形铁道内进行了安全性能](https://zh.wikipedia.org/wiki/北京环形铁道 "wikilink")、牵引性能、制动性能、防空转性能等试验，均达到了设计要求。此后，机车又在京承铁路北京至洞庙河区段、京秦铁路北京至秦皇岛区段分别完成了小曲线和高速动力学性能试验，期间最高试验速度达到158公里/小时。根据铁道部安排，两台机车完成安全评估试验后，于2001年5月配属北京铁路局丰台机务段投入运用考核，主要担当[京原铁路](../Page/京原铁路.md "wikilink")[丰台西至](../Page/丰台西站.md "wikilink")[灵丘](https://zh.wikipedia.org/wiki/灵丘站 "wikilink")、[京沪铁路](../Page/京沪铁路.md "wikilink")[丰台西至](../Page/丰台西站.md "wikilink")[南仓间的货运交路](../Page/南仓站_\(天津市\).md "wikilink")，至2003年7月均已完成15万公里运用考核\[7\]。
+2000年8月，东风4DJ型机车在[铁道部科学研究院](../Page/中国铁道科学研究院.md "wikilink")[北京环形铁道内进行了安全性能](https://zh.wikipedia.org/wiki/北京环形铁道 "wikilink")、牵引性能、制动性能、防空转性能等试验，均达到了设计要求。此后，机车又在京承铁路北京至洞庙河区段、京秦铁路北京至秦皇岛区段分别完成了小曲线和高速动力学性能试验，期间最高试验速度达到158公里/小时。根据铁道部安排，两台机车完成安全评估试验后，于2001年5月配属北京铁路局丰台机务段投入运用考核，主要担当[京原铁路](../Page/京原铁路.md "wikilink")[丰台西至](../Page/丰台西站.md "wikilink")[灵丘](../Page/灵丘站.md "wikilink")、[京沪铁路](../Page/京沪铁路.md "wikilink")[丰台西至](../Page/丰台西站.md "wikilink")[南仓间的货运交路](../Page/南仓站_\(天津市\).md "wikilink")，至2003年7月均已完成15万公里运用考核\[7\]。
 
 ### 运用及车辆保存
 
@@ -34,7 +34,7 @@
 
 ### 柴油机
 
-东风4DJ型机车装用一台16V240ZJD型[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，是由大连机车车辆厂在16V240ZJB型柴油机基础上，通过与[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[里卡多咨询工程公司技术合作](../Page/里卡多公司.md "wikilink")，于1986年开发完成的大功率机车柴油机，属于240/275系列产品之一。该型柴油机为16[气缸](https://zh.wikipedia.org/wiki/气缸 "wikilink")、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[废气涡轮增压的直喷式](https://zh.wikipedia.org/wiki/涡轮增压 "wikilink")[V型中速柴油机](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")，重新设计了缸盖和气门机构，采用整体铸钢主轴承座与钢板焊接而成的机体、稀土合金球铁曲轴、定压增压系统；在50°V形夹角上方布置两套增压器和[中冷器](https://zh.wikipedia.org/wiki/中冷器 "wikilink")，柴油机标定功率为3240千瓦（4400[马力](https://zh.wikipedia.org/wiki/马力 "wikilink")），装车功率为2940千瓦（4000马力）。
+东风4DJ型机车装用一台16V240ZJD型[柴油机](https://zh.wikipedia.org/wiki/柴油机 "wikilink")，是由大连机车车辆厂在16V240ZJB型柴油机基础上，通过与[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[里卡多咨询工程公司技术合作](../Page/里卡多公司.md "wikilink")，于1986年开发完成的大功率机车柴油机，属于240/275系列产品之一。该型柴油机为16[气缸](https://zh.wikipedia.org/wiki/气缸 "wikilink")、[四冲程](https://zh.wikipedia.org/wiki/四冲程 "wikilink")、[废气涡轮增压的直喷式](https://zh.wikipedia.org/wiki/涡轮增压 "wikilink")[V型中速柴油机](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")，重新设计了缸盖和气门机构，采用整体铸钢主轴承座与钢板焊接而成的机体、稀土合金球铁曲轴、定压增压系统；在50°V形夹角上方布置两套增压器和[中冷器](../Page/中冷器.md "wikilink")，柴油机标定功率为3240千瓦（4400[马力](https://zh.wikipedia.org/wiki/马力 "wikilink")），装车功率为2940千瓦（4000马力）。
 
 ### 传动系统
 

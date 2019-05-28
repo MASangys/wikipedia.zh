@@ -52,12 +52,12 @@ Play名義發行休閒益智遊戲](https://zh.wikipedia.org/wiki/2K_Play "wikil
 
   - 2K Games
       - 2K澳大利亚（[2K Australia](../Page/2K_Australia.md "wikilink")）
-      - [2K中国](https://zh.wikipedia.org/wiki/2K中国 "wikilink")（2K China）
+      - [2K中国](../Page/2K中国.md "wikilink")（2K China）
       - 2K捷克（[2K Czech](../Page/2K_Czech.md "wikilink")）
       - 2K馬林（[2K Marin](../Page/2K_Marin.md "wikilink")）
       - 2K维加斯（2K Vegas）
       - [Firaxis Games](../Page/Firaxis_Games.md "wikilink")
-      - [Hangar 13](https://zh.wikipedia.org/wiki/Hangar_13 "wikilink")
+      - [Hangar 13](../Page/Hangar_13.md "wikilink")
   - [2K Play](https://zh.wikipedia.org/wiki/2K_Play "wikilink")
       - [Cat Daddy
         Games](https://zh.wikipedia.org/wiki/Cat_Daddy_Games "wikilink")

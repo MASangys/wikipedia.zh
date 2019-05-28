@@ -2,7 +2,7 @@
 
 ## 簡史
 
-arXiv最早是由物理學家[保罗·金斯巴格在](https://zh.wikipedia.org/wiki/保罗·金斯巴格 "wikilink")1991年建立的網站，本意在收集物理學的論文預印本，隨後括及天文、數學等其它領域。金斯巴格因這個網站獲得了2002年的[麦克阿瑟奖](https://zh.wikipedia.org/wiki/麦克阿瑟奖 "wikilink")。
+arXiv最早是由物理學家[保罗·金斯巴格在](../Page/保罗·金斯巴格.md "wikilink")1991年建立的網站，本意在收集物理學的論文預印本，隨後括及天文、數學等其它領域。金斯巴格因這個網站獲得了2002年的[麦克阿瑟奖](https://zh.wikipedia.org/wiki/麦克阿瑟奖 "wikilink")。
 
 arXiv原先掛在[洛斯阿拉莫斯國家實驗室](https://zh.wikipedia.org/wiki/洛斯阿拉莫斯國家實驗室 "wikilink")，是故早期被稱為「LANL預印本資料庫」。目前arXiv落腳於[康乃爾大學](https://zh.wikipedia.org/wiki/康乃爾大學 "wikilink")\[7\]，並在全球各地設有[鏡像站點](https://zh.wikipedia.org/wiki/鏡像站點 "wikilink")。網站在1999年改名為arXiv.org。
 

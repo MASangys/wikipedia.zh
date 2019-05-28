@@ -2,7 +2,7 @@
 Network）是一間由乔纳森·辛普森-宾特在1996年创立的多媒體和評論[網站](../Page/網站.md "wikilink")，主要對象為[電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")。母公司是**IGN
 Entertainment**（[GameSpy](../Page/GameSpy.md "wikilink")、[爛番茄](../Page/爛番茄.md "wikilink")、[AskMen持有者](https://zh.wikipedia.org/wiki/AskMen "wikilink")）。
 
-IGN的主網站包含數個特別網頁或「頻道」，每一個都在IGN有分區。遊戲有關的頻道例如有：[电-{}-脑游戏](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")、[任天堂](../Page/任天堂.md "wikilink")、[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")、[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")、[Retro](https://zh.wikipedia.org/wiki/Retro "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")。IGN頻道還包含：電影、音樂、工具、科技、運動、電視等等。
+IGN的主網站包含數個特別網頁或「頻道」，每一個都在IGN有分區。遊戲有關的頻道例如有：[电-{}-脑游戏](https://zh.wikipedia.org/wiki/電腦遊戲 "wikilink")、[任天堂](../Page/任天堂.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[PlayStation](../Page/PlayStation.md "wikilink")、[行動電話](https://zh.wikipedia.org/wiki/行動電話 "wikilink")、[Retro](https://zh.wikipedia.org/wiki/Retro "wikilink")、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")。IGN頻道還包含：電影、音樂、工具、科技、運動、電視等等。
 
 ## 歷史
 
@@ -108,8 +108,8 @@ IGN很少給予滿分。从1990年代起，總共有38款遊戲得到滿分\[5\]
 
 27. （iOS, 2011）\[35\]
 
-28. [最後生還者](https://zh.wikipedia.org/wiki/最後生還者 "wikilink")（PlayStation
-    3和PlayStation 4, 2013/2014）\[36\]
+28. [最後生還者](../Page/最後生還者.md "wikilink")（PlayStation 3和PlayStation 4,
+    2013/2014）\[36\]
 
 29. [俠盜獵車手V](../Page/俠盜獵車手V.md "wikilink")（PlayStation 3和Xbox
     360和PlayStation4和Xbox one）\[37\]
@@ -128,15 +128,13 @@ IGN很少給予滿分。从1990年代起，總共有38款遊戲得到滿分\[5\]
 34. [薩爾達傳說 旷野之息](../Page/塞尔达传说_旷野之息.md "wikilink") （Wii U和Nintendo
     Switch，2017）\[42\]
 
-35. [超级马里奥
-    奥德赛](https://zh.wikipedia.org/wiki/超级马里奥_奥德赛 "wikilink")（Nintendo
+35. [超级马里奥 奥德赛](../Page/超级马里奥_奥德赛.md "wikilink")（Nintendo
     Switch，2017）\[43\]
 
 36. [碧藍山嶺:探尋自我](https://zh.wikipedia.org/wiki/碧藍山嶺:探尋自我 "wikilink") （PC
     和 PS4 和 XBox， 2018）\[44\]
 
-37. [戰神](https://zh.wikipedia.org/wiki/戰神_\(2018年遊戲\) "wikilink") （PS4，
-    2018）\[45\]
+37. [戰神](../Page/戰神_\(2018年遊戲\).md "wikilink") （PS4， 2018）\[45\]
 
 38. [碧血狂殺2](https://zh.wikipedia.org/wiki/荒野大镖客2 "wikilink") （PS4 和
     XBox， 2018）\[46\]

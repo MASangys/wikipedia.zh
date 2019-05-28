@@ -7,7 +7,7 @@ REC7為民用型運動步槍，分為兩種構型：採用短行程活塞的REC7
 Impingement）。它同時使用了多種口徑，分別為5.56×45mm NATO、6.8mm SPC和.300 AAC
 Blackout。其中.300 AAC Blackout只有REC7 DI有提供部件來使用這款彈藥。
 
-巴雷特生產的REC7軍用型M468，不同于以往的M4/M16取代方案（诸如被取消的[XM8](https://zh.wikipedia.org/wiki/XM8 "wikilink")），M468并不是一把全新的步枪，它只是用巴雷特公司生产的一个上[机匣搭配上普通M](https://zh.wikipedia.org/wiki/机匣 "wikilink")4/M16的下机匣，因此它可以与M4/M16步枪共用大多数的零件，也可以轻易地安装在美军现有使用的M4/M16步枪之上。
+巴雷特生產的REC7軍用型M468，不同于以往的M4/M16取代方案（诸如被取消的[XM8](https://zh.wikipedia.org/wiki/XM8 "wikilink")），M468并不是一把全新的步枪，它只是用巴雷特公司生产的一个上[机匣搭配上普通M](../Page/机匣.md "wikilink")4/M16的下机匣，因此它可以与M4/M16步枪共用大多数的零件，也可以轻易地安装在美军现有使用的M4/M16步枪之上。
 
 M468使用了新的[6.8毫米雷明顿SPC](https://zh.wikipedia.org/wiki/6.8毫米雷明顿SPC "wikilink")（6.8
 ×

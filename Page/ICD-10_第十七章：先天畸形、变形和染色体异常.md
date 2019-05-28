@@ -40,7 +40,7 @@ Q20-Q28 [循环系统先天性畸形](../Page/循环系统.md "wikilink")
   - Q22
     [肺动脉瓣和](https://zh.wikipedia.org/wiki/肺动脉瓣 "wikilink")[三尖瓣先天性畸形](https://zh.wikipedia.org/wiki/三尖瓣 "wikilink")
   - Q23
-    [主动脉瓣和](https://zh.wikipedia.org/wiki/主动脉瓣 "wikilink")[二尖瓣先天性畸形](https://zh.wikipedia.org/wiki/二尖瓣 "wikilink")
+    [主动脉瓣和](https://zh.wikipedia.org/wiki/主动脉瓣 "wikilink")[二尖瓣先天性畸形](../Page/二尖瓣.md "wikilink")
   - Q24 心脏的其他先天性畸形
   - Q25 大动脉先天性畸形
   - Q26 大静脉先天性畸形
@@ -108,8 +108,7 @@ Q60-Q64 [泌尿系统先天性畸形](https://zh.wikipedia.org/wiki/泌尿系统
 
 ## Q65-Q79 肌肉骨骼系统先天性畸形和变形
 
-Q65-Q79
-[肌肉骨骼系统先天性畸形和变形](https://zh.wikipedia.org/wiki/肌肉骨骼系统 "wikilink")
+Q65-Q79 [肌肉骨骼系统先天性畸形和变形](../Page/肌肉骨骼系统.md "wikilink")
 
   - Q65 [髋先天性变形](https://zh.wikipedia.org/wiki/髋 "wikilink")
   - Q66 [足先天性变形](https://zh.wikipedia.org/wiki/足 "wikilink")

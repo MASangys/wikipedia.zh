@@ -51,7 +51,7 @@ T568B）
 
 ### 影音
 
-在2008年的[中國數字家庭產業高峰會上](https://zh.wikipedia.org/wiki/中國數字家庭產業高峰會 "wikilink")，[DIVA](https://zh.wikipedia.org/wiki/数字高清互动接口 "wikilink")（Digital
+在2008年的[中國數字家庭產業高峰會上](https://zh.wikipedia.org/wiki/中國數字家庭產業高峰會 "wikilink")，[DIVA](../Page/数字高清互动接口.md "wikilink")（Digital
 Interface for Video and Audio）推廣聯盟使用了一條CAT-6線進行影音傳輸。\[1\]
 使CAT-6線的用途變得更廣。
 

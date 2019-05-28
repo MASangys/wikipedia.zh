@@ -182,7 +182,7 @@ JUNON」開始進行第二次審査落選者的敗部復活人氣投票活動。
 <td><p><a href="../Page/姜暢雄.md" title="wikilink">姜暢雄</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/根田淳弘" title="wikilink">根田淳弘</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/永山たかし" title="wikilink">永山たかし</a><br />
-<a href="https://zh.wikipedia.org/wiki/松田悟志" title="wikilink">松田悟志</a></p></td>
+<a href="../Page/松田悟志.md" title="wikilink">松田悟志</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>第十二屆</strong><br />
@@ -361,7 +361,7 @@ IKKO<br />
 <td><p>15491</p></td>
 <td><p><a href="../Page/小池徹平.md" title="wikilink">小池徹平</a><br />
 <a href="../Page/木下優樹菜.md" title="wikilink">木下優樹菜</a><br />
-<a href="https://zh.wikipedia.org/wiki/井本絢子" title="wikilink">井本絢子</a></p></td>
+<a href="../Page/井本絢子.md" title="wikilink">井本絢子</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/稲葉友" title="wikilink">稲葉友</a></p></td>
 <td><p><a href="../Page/鈴木勝大.md" title="wikilink">鈴木勝大</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鈴木身来" title="wikilink">鈴木身来</a></p></td>
@@ -386,7 +386,7 @@ IKKO<br />
 <td><p><a href="../Page/上遠野太洸.md" title="wikilink">上遠野太洸</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黒羽麻璃央" title="wikilink">黒羽麻璃央</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/飯田のえる" title="wikilink">飯田のえる</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山崎大輝" title="wikilink">山崎大輝</a><br />
+<td><p><a href="../Page/山崎大輝.md" title="wikilink">山崎大輝</a><br />
 <a href="https://zh.wikipedia.org/wiki/田之上賢志" title="wikilink">田之上賢志</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/戸塚純貴" title="wikilink">戸塚純貴</a><br />
 <a href="https://zh.wikipedia.org/wiki/河野聡太" title="wikilink">河野聡太</a><br />
@@ -422,7 +422,7 @@ IKKO<br />
 <td><p>13816</p></td>
 <td><p><br />
 <a href="../Page/小池徹平.md" title="wikilink">小池徹平</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/犬飼貴丈" title="wikilink">犬飼貴丈</a></p></td>
+<td><p><a href="../Page/犬飼貴丈.md" title="wikilink">犬飼貴丈</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/上野凱" title="wikilink">上野凱</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/財木琢磨" title="wikilink">財木琢磨</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/橫田龍儀" title="wikilink">橫田龍儀</a><br />
@@ -470,7 +470,7 @@ IVAN</p></td>
 <a href="https://zh.wikipedia.org/wiki/菅沼凌" title="wikilink">菅沼凌</a><br />
 <a href="../Page/渡邊劍.md" title="wikilink">渡邊劍</a><br />
 <a href="https://zh.wikipedia.org/wiki/谷水力" title="wikilink">谷水力</a><br />
-<a href="https://zh.wikipedia.org/wiki/岐洲匠" title="wikilink">岐洲匠</a><br />
+<a href="../Page/岐洲匠.md" title="wikilink">岐洲匠</a><br />
 <a href="https://zh.wikipedia.org/wiki/石川愼太郎" title="wikilink">石川愼太郎</a></p></td>
 </tr>
 <tr class="odd">

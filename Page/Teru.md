@@ -101,7 +101,7 @@ Teru在姊姊的婚禮上跟Takuro兩人演奏了「ずっと2人で…」這件
       - [Jiro](../Page/Jiro.md "wikilink")
   - [佐久間正英](https://zh.wikipedia.org/wiki/佐久間正英 "wikilink")
   - [大貫亞美](https://zh.wikipedia.org/wiki/大貫亞美 "wikilink")
-  - [冰室京介](https://zh.wikipedia.org/wiki/冰室京介 "wikilink")
+  - [冰室京介](../Page/冰室京介.md "wikilink")
   - [YUKI](../Page/YUKI_\(歌手\).md "wikilink")
   - [hide](https://zh.wikipedia.org/wiki/hide "wikilink")
   - [櫻井和壽](../Page/櫻井和壽.md "wikilink")

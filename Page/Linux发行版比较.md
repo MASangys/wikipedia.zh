@@ -4154,7 +4154,7 @@ edition</p></td>
 <tr class="odd">
 <td><p><a href="../Page/Mandriva_Linux.md" title="wikilink">Mandriva</a></p></td>
 <td></td>
-<td><p>(<a href="https://zh.wikipedia.org/wiki/AppArmor" title="wikilink">AppArmor</a>[42])</p></td>
+<td><p>(<a href="../Page/AppArmor.md" title="wikilink">AppArmor</a>[42])</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -4162,7 +4162,7 @@ edition</p></td>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/SUSE_Linux_distributions" title="wikilink">SUSE</a></p></td>
 <td></td>
-<td><p>(<a href="https://zh.wikipedia.org/wiki/AppArmor" title="wikilink">AppArmor</a>[43])</p></td>
+<td><p>(<a href="../Page/AppArmor.md" title="wikilink">AppArmor</a>[43])</p></td>
 <td></td>
 <td></td>
 <td></td>

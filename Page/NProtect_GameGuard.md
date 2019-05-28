@@ -266,8 +266,7 @@ OS使用者也因為GameGuard而無法透過](https://zh.wikipedia.org/wiki/Mac_
 
   - [艾爾之光](../Page/艾爾之光.md "wikilink")－＞（原為不使用，原野系統更新後導入此程式）
 
-  - [NBA2K
-    Online](https://zh.wikipedia.org/wiki/NBA2K_Online "wikilink")\[12\]
+  - [NBA2K Online](../Page/NBA2K_Online.md "wikilink")\[12\]
 
   - [劍靈(台服)](https://zh.wikipedia.org/wiki/劍靈\(台服\) "wikilink")
 

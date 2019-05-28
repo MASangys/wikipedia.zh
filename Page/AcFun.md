@@ -29,7 +29,7 @@ Fun”\[3\]，初创时期属个人网站，主要连载[动画](../Page/动画.
 2018年2月12日下午，新浪微博昵称为真懒猫-曼基康爱球球的A站运营总监发博称“5点，睡醒了
 ​​​”，随后于当日17时整，A站在经历长达240小时服务器停机之后，重新恢复运行。\[27\]
 
-2018年6月5日，AcFun被北京[快手科技有限公司全资收购](https://zh.wikipedia.org/wiki/快手 "wikilink")，AcFun原有团队以及品牌维持不变，继续独立运营。\[28\]
+2018年6月5日，AcFun被北京[快手科技有限公司全资收购](../Page/快手.md "wikilink")，AcFun原有团队以及品牌维持不变，继续独立运营。\[28\]
 
 2018年6月，AcFun遭[黑客入侵致用户数据外泄](../Page/黑客.md "wikilink")，大量用户数据在[tor](https://zh.wikipedia.org/wiki/tor "wikilink")[暗网上出售](../Page/暗网.md "wikilink")。\[29\]\[30\]\[31\]\[32\]\[33\]
 
@@ -41,11 +41,11 @@ Fun”\[3\]，初创时期属个人网站，主要连载[动画](../Page/动画.
 
 2016年8月，根据深交所上市公司[华策影视财报显示](https://zh.wikipedia.org/wiki/华策影视 "wikilink")，日前华策影视与AcFun达成意向性协议，公司拟向AcFun（A站）增资5000万元，投资完成后持股比例不低于2.7%。，成为A站重要的战略性股东，进一步拓展二次元领域。\[39\]
 
-2016年11月21日，深交所上市公司[中文在线发布公告称](https://zh.wikipedia.org/wiki/中文在线 "wikilink")，拟与广州弹幕网络科技有限公司（AcFun）及其原股东签署增资协议，中文在线拟以现金出资2.5亿元人民币认购其13.51%股权。股权认购完成后，中文在线将成为AcFun第二大股东。\[40\]
+2016年11月21日，深交所上市公司[中文在线发布公告称](../Page/中文在线.md "wikilink")，拟与广州弹幕网络科技有限公司（AcFun）及其原股东签署增资协议，中文在线拟以现金出资2.5亿元人民币认购其13.51%股权。股权认购完成后，中文在线将成为AcFun第二大股东。\[40\]
 
 2018年1月末AcFun关停前，坊间就有传闻称，由[阿里巴巴旗下的云峰基金领投](../Page/阿里巴巴集团.md "wikilink")，其他有投资意愿的机构跟投A站，本轮融资方案为A站需要增发2.5亿新股，估值10亿人民币。融资完成后，股权结构上阿里和云峰占31%，A站原实际控股股东蔡东青则出让28%股权，老股东中文在线认购增发新股后占16%，并采取“优酷+云峰基金+阿里”的一致行动人的方式，阿里系合计持有A站超过50%股份，取得其控股权。\[41\]但直到2月12日，A站官方域名重新恢复访问，A站各股东和阿里双方均未对此消息有任何正面回应。\[42\]\[43\]
 
-2018年6月5日，北京[快手科技有限公司全资收购AcFun](https://zh.wikipedia.org/wiki/快手 "wikilink")。\[44\]
+2018年6月5日，北京[快手科技有限公司全资收购AcFun](../Page/快手.md "wikilink")。\[44\]
 
 ### 版权动画购买
 
@@ -53,23 +53,23 @@ Fun”\[3\]，初创时期属个人网站，主要连载[动画](../Page/动画.
 
 2015年10月26日，AcFun引进动画《》。\[47\]
 
-2017年6月26日，AcFun独家引进7月新番动画《[猜谜王](https://zh.wikipedia.org/wiki/猜謎王 "wikilink")》。\[48\]
+2017年6月26日，AcFun独家引进7月新番动画《[猜谜王](../Page/猜謎王.md "wikilink")》。\[48\]
 
 2017年6月28日，AcFun独家引进7月新番动画《》。\[49\]
 
 2017年6月29日，AcFun独家引进7月新番动画《[动作女主
-水果应援团](https://zh.wikipedia.org/wiki/動作女英雄啦啦水果 "wikilink")》。\[50\]
+水果应援团](../Page/動作女英雄啦啦水果.md "wikilink")》。\[50\]
 
 2017年7月1日，AcFun独家引进7月新番动画《[战姬绝唱Symphogear](../Page/戰姬絕唱SYMPHOGEAR.md "wikilink")
 AXZ》。\[51\]
 
-2017年10月7日，AcFun独家引进10月新番动画《[侧车搭档](https://zh.wikipedia.org/wiki/側車搭檔 "wikilink")》。\[52\]
+2017年10月7日，AcFun独家引进10月新番动画《[侧车搭档](../Page/側車搭檔.md "wikilink")》。\[52\]
 
 2017年10月12日，AcFun引进10月新番动画《[LoveLive\!Sunshine\!\!](https://zh.wikipedia.org/wiki/LoveLive!Sunshine!! "wikilink")》第二季。\[53\]
 
 2017年10月28日，AcFun引进10月新番动画《[神怒之日](https://zh.wikipedia.org/wiki/Dies_irae_-Also_sprach_Zarathustra- "wikilink")》。
 
-2018年9月28日，AcFun独家引进10月新番动画《[夕照少女](https://zh.wikipedia.org/wiki/夕照少女 "wikilink")》、《[佐贺偶像是传奇](https://zh.wikipedia.org/wiki/佐賀偶像是傳奇 "wikilink")》、《[天空与海洋之间](https://zh.wikipedia.org/wiki/天空與海洋之間 "wikilink")》、《[学园BASARA](https://zh.wikipedia.org/wiki/学园BASARA "wikilink")》、《[月影特工](https://zh.wikipedia.org/wiki/RELEASE_THE_SPYCE "wikilink")》\[54\]
+2018年9月28日，AcFun独家引进10月新番动画《[夕照少女](https://zh.wikipedia.org/wiki/夕照少女 "wikilink")》、《[佐贺偶像是传奇](../Page/佐賀偶像是傳奇.md "wikilink")》、《[天空与海洋之间](../Page/天空與海洋之間.md "wikilink")》、《[学园BASARA](https://zh.wikipedia.org/wiki/学园BASARA "wikilink")》、《[月影特工](https://zh.wikipedia.org/wiki/RELEASE_THE_SPYCE "wikilink")》\[54\]
 
 2018年12月29日，AcFun宣布购买《[新世纪福音战士](../Page/新世纪福音战士.md "wikilink")》TV版及剧场版播放版权，TV版于2019年1月1日起上线播放；剧场版于2019年1月9日起上线播放。\[55\]
 

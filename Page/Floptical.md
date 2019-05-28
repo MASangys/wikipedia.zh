@@ -69,7 +69,7 @@ UHD144等](https://zh.wikipedia.org/wiki/Caleb_UHD144 "wikilink")。
 2000皆支持Floptical](../Page/Windows_2000.md "wikilink")，在FORMAT指令中使用20.8
 MB 格式化。[Windows
 XP及之后的版本已经取消了对Floptical及](../Page/Windows_XP.md "wikilink")2.88MB软盘的格式化支持。\[2\]SCO
-[OpenServer亦支持Floptical驱动器](https://zh.wikipedia.org/wiki/OpenServer "wikilink")。有[SCSI装置的](https://zh.wikipedia.org/wiki/SCSI "wikilink")[麦金塔电脑则支持从Floptical开机](https://zh.wikipedia.org/wiki/麦金塔 "wikilink")，且有格式化软件可在麦金塔上抹除及格式化Floptical软盘。
+[OpenServer亦支持Floptical驱动器](../Page/OpenServer.md "wikilink")。有[SCSI装置的](https://zh.wikipedia.org/wiki/SCSI "wikilink")[麦金塔电脑则支持从Floptical开机](https://zh.wikipedia.org/wiki/麦金塔 "wikilink")，且有格式化软件可在麦金塔上抹除及格式化Floptical软盘。
 
 ## 参见
 

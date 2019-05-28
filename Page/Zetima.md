@@ -1,7 +1,7 @@
 **Zetima** 是[日本藝能公司](../Page/日本.md "wikilink")[Up-Front
 Works旗下擁有的一間](https://zh.wikipedia.org/wiki/Up-Front_Works "wikilink")[唱片公司](../Page/唱片公司.md "wikilink")。這個品牌的唱片是由[史詩唱片日本負責發行](https://zh.wikipedia.org/wiki/史詩唱片日本 "wikilink")。在日本以外的地區，這間公司最為人熟悉的是發行[Hello\!
 Project旗下成員的唱片](https://zh.wikipedia.org/wiki/Hello!_Project "wikilink")，最受歡迎的包括[早安少女組](https://zh.wikipedia.org/wiki/早安少女組 "wikilink")。另外，此公司亦曾經發行唱片的歌手包括[平家充代](https://zh.wikipedia.org/wiki/平家充代 "wikilink")、[迷你早安](https://zh.wikipedia.org/wiki/迷你早安 "wikilink")（Mini
-Moni）和[田村直美](https://zh.wikipedia.org/wiki/田村直美 "wikilink")。
+Moni）和[田村直美](../Page/田村直美.md "wikilink")。
 
 ## 歌手和組合
 
@@ -30,7 +30,7 @@ Moni）和[田村直美](https://zh.wikipedia.org/wiki/田村直美 "wikilink")�
   - [迷你早安](https://zh.wikipedia.org/wiki/迷你早安 "wikilink")（）
   - [森高千里](https://zh.wikipedia.org/wiki/森高千里 "wikilink")
   - [早安少女組。](../Page/早安少女組。.md "wikilink")（）
-  - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")
+  - [Red Velvet](../Page/Red_Velvet.md "wikilink")
   - [草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")
   - [高橋愛](../Page/高橋愛.md "wikilink")
   - [新垣里沙](../Page/新垣里沙.md "wikilink")

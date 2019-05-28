@@ -8,7 +8,7 @@ UK\!*制作。DVD
 Decrypter由于[Macrovision的](https://zh.wikipedia.org/wiki/Macrovision "wikilink")[停止中止令而被强制停止开发](https://zh.wikipedia.org/wiki/停止中止令 "wikilink")\[2\]。
 
 ImgBurn使用基于DVD
-Decrypter的光盘刻录引擎，但是它不能绕过被加密DVD的复制保护。到了2.3.0.0版，ImgBurn可以从未加密的CD/DVD创建映像文件，但仍不能移除[CSS加密或其他任何](https://zh.wikipedia.org/wiki/数据干扰系统 "wikilink")[复制保护](https://zh.wikipedia.org/wiki/复制保护 "wikilink")。不过为达此目的，可以使用第三方软件，如[DVD43](https://zh.wikipedia.org/wiki/DVD43 "wikilink")。
+Decrypter的光盘刻录引擎，但是它不能绕过被加密DVD的复制保护。到了2.3.0.0版，ImgBurn可以从未加密的CD/DVD创建映像文件，但仍不能移除[CSS加密或其他任何](https://zh.wikipedia.org/wiki/数据干扰系统 "wikilink")[复制保护](../Page/复制保护.md "wikilink")。不过为达此目的，可以使用第三方软件，如[DVD43](https://zh.wikipedia.org/wiki/DVD43 "wikilink")。
 
 ## 特性
 

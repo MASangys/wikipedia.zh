@@ -135,8 +135,7 @@
 
 ## 個人信息管理
 
-  - [KMyMoney](https://zh.wikipedia.org/wiki/KMyMoney "wikilink") -
-    管理個人財務
+  - [KMyMoney](../Page/KMyMoney.md "wikilink") - 管理個人財務
   - [Kontact](../Page/Kontact.md "wikilink") - 個人信息管理軟件，集成郵件、聯繫人、日曆、提醒等
   - [KOrganizer](https://zh.wikipedia.org/wiki/KOrganizer "wikilink") -
     日曆、時間管理
@@ -158,8 +157,7 @@
     - 链接检查器
   - [Kommander](https://zh.wikipedia.org/wiki/Kommander "wikilink") -
     动态对话框编辑器
-  - [Kompare](https://zh.wikipedia.org/wiki/Kompare "wikilink") - 差异/补丁
-    前端
+  - [Kompare](../Page/Kompare.md "wikilink") - 差异/补丁 前端
   - [KUIViewer](https://zh.wikipedia.org/wiki/KUIViewer "wikilink") -
     [Qt设计师的UI文件查看器](../Page/Qt.md "wikilink")
   - [KXSLDbg](https://zh.wikipedia.org/wiki/KXSLDbg "wikilink") -
@@ -210,7 +208,7 @@
     - 選擇字符編碼
   - [KDiskFree](https://zh.wikipedia.org/wiki/KDiskFree "wikilink") -
     顯示磁盤剩餘空間
-  - [KRename](https://zh.wikipedia.org/wiki/KRename "wikilink") - 批量重命名
+  - [KRename](../Page/KRename.md "wikilink") - 批量重命名
   - [Krusader](https://zh.wikipedia.org/wiki/Krusader "wikilink") -
     雙列顯示的文件管理器，類似[Total
     commander](https://zh.wikipedia.org/wiki/Total_commander "wikilink")。

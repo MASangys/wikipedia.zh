@@ -20,7 +20,7 @@ SASUKE極限體能王共有四個舞台及18道關卡（第14回開始有24道�
 
 除了SASUKE之外，還有給女性挑戰的「KUNOICHI」（[女子版極限體能王](../Page/女子版極限體能王.md "wikilink")）。
 
-SASUKE節目史上，只有4位選手將所有關卡全破。第一位是在1999年秋天（第4回大會）的[秋山和彦](https://zh.wikipedia.org/wiki/秋山和彦 "wikilink")、第二位是在2006年秋天（第17回大會）的[長野誠](../Page/長野誠.md "wikilink")、第三位是在2010年元旦（第24回大會）及2011年秋天（第27回大會）破關2次的[漆原裕治以及在](../Page/漆原裕治.md "wikilink")2015年夏天（第31回大會）的[森本裕介](https://zh.wikipedia.org/wiki/森本裕介 "wikilink")。
+SASUKE節目史上，只有4位選手將所有關卡全破。第一位是在1999年秋天（第4回大會）的[秋山和彦](https://zh.wikipedia.org/wiki/秋山和彦 "wikilink")、第二位是在2006年秋天（第17回大會）的[長野誠](../Page/長野誠.md "wikilink")、第三位是在2010年元旦（第24回大會）及2011年秋天（第27回大會）破關2次的[漆原裕治以及在](../Page/漆原裕治.md "wikilink")2015年夏天（第31回大會）的[森本裕介](../Page/森本裕介.md "wikilink")。
 
 ## 極限體能王SASUKE主持人、播報員（實況轉播）、旁白
 
@@ -130,19 +130,19 @@ SASUKE節目史上，只有4位選手將所有關卡全破。第一位是在1999
 
   -   - 第1回旁白
 
-  - [垂木勉](https://zh.wikipedia.org/wiki/垂木勉 "wikilink")
+  - [垂木勉](../Page/垂木勉.md "wikilink")
 
       - 第2\~15回旁白
 
   -   - 第16回旁白
 
-  - [小林清志](https://zh.wikipedia.org/wiki/小林清志 "wikilink")
+  - [小林清志](../Page/小林清志.md "wikilink")
 
       - 第17\~27回旁白
 
   -   - 第28\~35回旁白（第30回第一、二舞台、第三舞台前半段、第35回第二、三舞台、最終舞台旁白）
 
-  - [小原雅人](https://zh.wikipedia.org/wiki/小原雅人 "wikilink")
+  - [小原雅人](../Page/小原雅人.md "wikilink")
 
       - 第30回第三舞台後半段、最終舞台旁白
 
@@ -792,8 +792,7 @@ ASEAN OPEN CUP
 
 第三舞台與上回一樣，全員皆抵達瘋狂巔峰戰士，但只有森本裕介、菅野仁志二人突破。其中菅野仁志第四度挑戰瘋狂巔峰戰士才終於突破，但在下一關垂直極限改版落水；而森本裕介則是雪恥成功，除突破第三舞台外，首次進入最終舞台便順利過關，成為史上第四位完全制霸者。
 
-  - 總合第1名
-    （91）[森本裕介](https://zh.wikipedia.org/wiki/森本裕介 "wikilink")，**完全制霸（剩餘2.59秒）**。
+  - 總合第1名 （91）[森本裕介](../Page/森本裕介.md "wikilink")，**完全制霸（剩餘2.59秒）**。
   - 總合第2名 （96）菅野仁志，3-20 垂直極限 改〔第1→2段間隔〕。
   - 總合第3名 （31）日置將士、（89）高橋賢次、（94）杜魯.德雷契爾、（95）朝一真、（97）川口朋廣，3-19
     瘋狂巔峰戰士〔第3→4段落水〕。
@@ -807,7 +806,7 @@ ASEAN OPEN CUP
 
 **第五時期的代表性選手**
 
-  - [森本裕介](https://zh.wikipedia.org/wiki/森本裕介 "wikilink")，**完全制霸（剩餘2.59秒）**、史上最年輕的完全制霸者、唯一二度闖過瘋狂巔峰戰士的選手（第29、31回）、首位闖過瘋狂巔峰戰士的選手（第29回）。
+  - [森本裕介](../Page/森本裕介.md "wikilink")，**完全制霸（剩餘2.59秒）**、史上最年輕的完全制霸者、唯一二度闖過瘋狂巔峰戰士的選手（第29、31回）、首位闖過瘋狂巔峰戰士的選手（第29回）。
   - [川口朋廣](https://zh.wikipedia.org/wiki/川口朋廣 "wikilink")，首位突破第三舞台的選手、瘋狂巔峰戰士過關者（第30回）。
   - [又地諒](https://zh.wikipedia.org/wiki/又地諒 "wikilink")，改版後再度闖進最終舞台者、瘋狂巔峰戰士過關者（第30回）。
   - [朝一真](https://zh.wikipedia.org/wiki/朝一真 "wikilink")，連續四次大會闖進第三舞台（第28～31回）。
@@ -1191,7 +1190,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 <!-- end list -->
 
-  - [森本裕介](https://zh.wikipedia.org/wiki/森本裕介 "wikilink")（出場13回
+  - [森本裕介](../Page/森本裕介.md "wikilink")（出場13回
     [學生](https://zh.wikipedia.org/wiki/學生 "wikilink")→IDEC軟體工程師、第31回大會完全制霸者）
 
 <!-- end list -->
@@ -2835,7 +2834,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 
 ### 第一次參賽・舞台首次挑戰的紀錄
 
-  - 最終舞台首次挑戰即過關者：[秋山和彥](../Page/秋山和彥.md "wikilink")（第4屆）、[森本裕介](https://zh.wikipedia.org/wiki/森本裕介 "wikilink")（第31屆）
+  - 最終舞台首次挑戰即過關者：[秋山和彥](../Page/秋山和彥.md "wikilink")（第4屆）、[森本裕介](../Page/森本裕介.md "wikilink")（第31屆）
   - 第一次參賽就挑戰最後一關的人：[川島孝幸](../Page/川島孝幸.md "wikilink")、楊崇 、長谷川健 、大森晃
     ﹝以上都是第1屆﹞，田中光﹝第2屆﹞，松本稔﹝第3屆﹞，約旦尤布契夫﹝第8屆﹞。
   - 第一次參賽就創下第一舞台最快紀錄者：宮城英和（第1屆）、蔡維斯·亞倫·史瑞德（第4屆）、佐川隆一（第8屆）、李維·謬恩巴克（第20屆）。
@@ -3281,7 +3280,7 @@ Bomber的樽美酒研二也睽違](../Page/Golden_Bomber.md "wikilink")2屆再�
 <!-- end list -->
 
 1.  第3回大會 [GBC](../Page/Game_Boy_Color.md "wikilink")
-2.  第4回大會 [PS](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+2.  第4回大會 [PS](../Page/PlayStation.md "wikilink")
 3.  第6回大會 [GB](https://zh.wikipedia.org/wiki/GB "wikilink")
 4.  第6回大會 [PS2](../Page/PlayStation_2.md "wikilink")
 5.  第7回大會 [GBA](../Page/Game_Boy_Advance.md "wikilink")

@@ -4,8 +4,7 @@
 （個人） | 出道作 =
 [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")：《[Into
 The New World](../Page/再次重逢的世界.md "wikilink")》
-個人： 《[With Love,
-J](https://zh.wikipedia.org/wiki/With_Love,_J "wikilink")》 | 出道日期 =
+個人： 《[With Love, J](../Page/With_Love,_J.md "wikilink")》 | 出道日期 =
 [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")：
 個人： | 活躍年代 = 2007年至今 | 唱片公司 =
 [SM娛樂](../Page/SM娛樂.md "wikilink")（2007年至2015年）
@@ -137,7 +136,7 @@ ECLARE」[紐約旗艦店於](https://zh.wikipedia.org/wiki/紐約 "wikilink")[�
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/With_Love,_J" title="wikilink">With Love, J</a></strong>》</p>
+<td><p>《<strong><a href="../Page/With_Love,_J.md" title="wikilink">With Love, J</a></strong>》</p>
 <ul>
 <li>發行日期：2016年5月17日</li>
 <li>唱片公司：Coridel 娛樂</li>
@@ -148,7 +147,7 @@ ECLARE」[紐約旗艦店於](https://zh.wikipedia.org/wiki/紐約 "wikilink")[�
 </tr>
 <tr class="odd">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Wonderland_(Jessica專輯)" title="wikilink">Wonderland</a></strong>》</p>
+<td><p>《<strong><a href="../Page/Wonderland_(Jessica專輯).md" title="wikilink">Wonderland</a></strong>》</p>
 <ul>
 <li>發行日期：2016年12月10日</li>
 <li>唱片公司：Coridel 娛樂</li>
@@ -400,7 +399,7 @@ ECLARE」[紐約旗艦店於](https://zh.wikipedia.org/wiki/紐約 "wikilink")[�
 
 ## 影視作品
 
-**註：以少女時代身分參與的請詳見[少女時代影視作品列表](https://zh.wikipedia.org/wiki/少女時代影視作品列表 "wikilink")**
+**註：以少女時代身分參與的請詳見[少女時代影視作品列表](../Page/少女時代影視作品列表.md "wikilink")**
 
 ### 電視劇
 
@@ -421,7 +420,7 @@ ECLARE」[紐約旗艦店於](https://zh.wikipedia.org/wiki/紐約 "wikilink")[�
 | 上映日期       | 電影名稱                                                                            | 角色       | 性質  |
 | 2016年8月12日 | [那件瘋狂的小事叫愛情](https://zh.wikipedia.org/wiki/那件瘋狂的小事叫愛情 "wikilink")               | 羅倩倩      | 女主角 |
 | 2016年9月15日 | [Two Bellmen Three](https://zh.wikipedia.org/wiki/Two_Bellmen_Three "wikilink") | Mina Kim | 女配角 |
-| 2017年8月4日  | [我是马布里](https://zh.wikipedia.org/wiki/我是马布里 "wikilink")                         | 楊晨       | 女主角 |
+| 2017年8月4日  | [我是马布里](../Page/我是马布里.md "wikilink")                                            | 楊晨       | 女主角 |
 
 ### 音樂劇
 

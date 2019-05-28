@@ -232,7 +232,7 @@
   - [鄭家生](../Page/鄭家生.md "wikilink") 飾 冷　血
   - [彭鎮南](https://zh.wikipedia.org/wiki/彭鎮南 "wikilink") 飾 江文華
   - [馮瑞珍](https://zh.wikipedia.org/wiki/馮瑞珍 "wikilink") 飾 笑婆婆
-  - [麥子雲](https://zh.wikipedia.org/wiki/麥子雲 "wikilink") 飾 光
+  - [麥子雲](../Page/麥子雲.md "wikilink") 飾 光
   - [王啟德](https://zh.wikipedia.org/wiki/王啟德 "wikilink") 飾 款爺保鏢
   - [郭城俊](https://zh.wikipedia.org/wiki/郭城俊 "wikilink") 飾 款爺保鏢
   - [鄭　莊](https://zh.wikipedia.org/wiki/鄭莊 "wikilink") 飾 女殺手

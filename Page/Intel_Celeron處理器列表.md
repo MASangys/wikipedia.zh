@@ -997,7 +997,7 @@
 | <font color=white>**嵌入式低功耗**</font>                            |                       |       |              |         |       |                 |             |                                    |      |          |
 | [Celeron G3930TE](https://ark.intel.com/zh-cn/products/122825) | SR38H (B0)            | 2/2   | 2.7          | 2 x 256 | 2     | HD Graphics 610 | 350–950     | DDR4-2133, DDR3L-1600              | 35 W | LGA 1151 |
 
-### [Coffee Lake微架构](https://zh.wikipedia.org/wiki/Coffee_Lake微架构 "wikilink")
+### [Coffee Lake微架构](../Page/Coffee_Lake微架构.md "wikilink")
 
 #### "Coffee Lake-S" (14 nm)
 

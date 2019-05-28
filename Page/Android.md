@@ -84,15 +84,14 @@ G1，該智能手機於2008年9月23日發布\[49\]\[50\]。
 Open Source
 Project）。\[51\]除了開放手持裝置聯盟之外，Android還擁有全球各地開發人員組成的開源社群來專門負責開發Android應用程式和第三方Android作業系統來延長和擴展Android的功能和性能。\[52\]\[53\]
 
-隨著2013年Android發布新版本[奇巧巧克力](https://zh.wikipedia.org/wiki/Android_KitKat "wikilink")，Google解釋「由於這些設備使我們的生活如此甜蜜，每個Android版本都以甜品來命名」，雖然Google的發言人在接受[CNN訪談時指](https://zh.wikipedia.org/wiki/CNN "wikilink")：「這有點像內部團隊的事情，我們更願意做多一點—我該怎樣說呢—我會說在這個問題上有點難以捉摸的\[54\]。」
+隨著2013年Android發布新版本[奇巧巧克力](../Page/Android_KitKat.md "wikilink")，Google解釋「由於這些設備使我們的生活如此甜蜜，每個Android版本都以甜品來命名」，雖然Google的發言人在接受[CNN訪談時指](https://zh.wikipedia.org/wiki/CNN "wikilink")：「這有點像內部團隊的事情，我們更願意做多一點—我該怎樣說呢—我會說在這個問題上有點難以捉摸的\[54\]。」
 
 2010年，Google推出了[Nexus系列的裝置](../Page/Google_Nexus.md "wikilink")，他們與不同的合作設備製造商一起生產新設備並推出新的Android版本。該系列被形容為「透過引入新軟件迭代和硬件標準使其在Android的歷史中發揮了關鍵作用，並成為不會因"歷代的更新"導致軟件膨脹而聞名\[55\]」。在2013年5月的[Google開發者大會上](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")，他們宣布了[Samsung
 Galaxy
 S4的特別版](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S4 "wikilink")，特别版在于它搭载了原生安卓，並承諾能快速接收新的系統更新\[56\]。裝置將成為「Google
 Play Edition」的開始，其他設備也會隨之而來，包括[HTC One
 (M7)以及](../Page/HTC_One_\(M7\).md "wikilink")[Moto
-G](https://zh.wikipedia.org/wiki/Moto_G "wikilink")\[57\]。2015年，Google
-Play Edition版步入了历史。
+G](../Page/Moto_G.md "wikilink")\[57\]。2015年，Google Play Edition版步入了历史。
 
 從2008至2013年，[雨果·巴拉擔任Android產品發言人](../Page/雨果·巴拉.md "wikilink")，參與Google年度開發人員會議的[Google開發者大會](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")。他於2013年8月離開Google，並隨即加入中國手機製造商[小米](../Page/小米集團.md "wikilink")\[58\]\[59\]。在他離任不足六個月前，Google時任[CEO](https://zh.wikipedia.org/wiki/行政總裁 "wikilink")[賴利·佩吉在一篇博客文章中宣布](https://zh.wikipedia.org/wiki/賴利·佩吉 "wikilink")，安迪·鲁宾從Android部門轉移到Google的新項目，而[桑德爾·皮蔡將會成為Android的新主管](https://zh.wikipedia.org/wiki/桑德爾·皮蔡 "wikilink")\[60\]\[61\]。皮蔡本人最終轉換了職位，隨著Google重組大型聯合的[Alphabet集團](../Page/Alphabet.md "wikilink")\[62\]\[63\]，他在2015年8月成為了Google的新任CEO，讓成為Android的新任負責人\[64\]\[65\]。
 
@@ -103,7 +102,7 @@ One\[72\]，一周之後，該公司宣布非洲成為該計劃的下一個地�
 Information）》報導稱Google正在將其低成本的Android One計劃擴展至美國，儘管《邊緣（The
 Verge）》指該公司可能不會生產實體的設備\[75\]\[76\]。
 
-2016年10月，Google發布智能手機[Pixel](https://zh.wikipedia.org/wiki/Pixel_\(智能手機\) "wikilink")，作為Google推出的第一款手機\[77\]\[78\]，並且在更廣泛推出之前，專門展示某些軟件功能，例如[Google助理](https://zh.wikipedia.org/wiki/Google助理 "wikilink")\[79\]\[80\]。Pixel手機取代了Nexus系列。
+2016年10月，Google發布智能手機[Pixel](https://zh.wikipedia.org/wiki/Pixel_\(智能手機\) "wikilink")，作為Google推出的第一款手機\[77\]\[78\]，並且在更廣泛推出之前，專門展示某些軟件功能，例如[Google助理](../Page/Google助理.md "wikilink")\[79\]\[80\]。Pixel手機取代了Nexus系列。
 
 ## 系統特點
 
@@ -118,7 +117,7 @@ Phone](../Page/Windows_Phone.md "wikilink")\[89\]。大多數製造商會定制�
 
 屏幕頂部是狀態欄，顯示有關裝置及其連接的資訊。用戶可把狀態欄「拉下」，以顯示應用程式顯示的重要信息，或屏幕更新的通知\[91\]。通知是「當用戶的應用程序在非使用時所提供簡短、及時和相關的訊息\[92\]。」當點擊了，用戶會被引導到該app內與該通知相關的屏幕。從[Android
 Jelly
-Bean開始](https://zh.wikipedia.org/wiki/Android_Jelly_Bean "wikilink")，可擴展通知「允許用戶透過點擊通知上的圖標，以便它擴展和顯示從通知中得知的更多信息以及有可能的應用操作\[93\]。」
+Bean開始](../Page/Android_Jelly_Bean.md "wikilink")，可擴展通知「允許用戶透過點擊通知上的圖標，以便它擴展和顯示從通知中得知的更多信息以及有可能的應用操作\[93\]。」
 
 「所有應用程序」的屏幕將會所有已安裝的應用程式，用戶可以將應用程序從列表拖曳到主畫面上。「最近」的屏幕讓用戶在最近使用過的應用程序之間進行切換\[94\]。
 
@@ -178,7 +177,7 @@ Android與Microsoft Windows之間的直接競爭\[142\]。」中國工程學院�
 [Android_open_source_project.png](https://zh.wikipedia.org/wiki/File:Android_open_source_project.png "fig:Android_open_source_project.png")
 Android是由[Google開發的](../Page/Google.md "wikilink")，直至準備發布前最新的修改及更新，在這一點上[原始碼可供Android開源項目](https://zh.wikipedia.org/wiki/原始碼 "wikilink")（AOSP）使用\[146\]，這是一個由Google領導的[開源計劃](https://zh.wikipedia.org/wiki/開放源碼 "wikilink")\[147\]。AOSP代碼可於無需的修改選定設備中找到，主要是[Google
 Nexus及](../Page/Google_Nexus.md "wikilink")[Google
-Pixel系列的裝置](https://zh.wikipedia.org/wiki/Google_Pixel "wikilink")\[148\]。反過來說，那些開源碼是由[代工生產定制和調整以在他們的硬件上執行](https://zh.wikipedia.org/wiki/代工生產 "wikilink")\[149\]\[150\]。此外，Android的源代碼並不包含某些硬件組件所需專有的[驅動程式](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")\[151\]，因此大多數的Android裝置（包括Google自己的裝置）最終都會附帶著[自由及開放源碼軟件及](https://zh.wikipedia.org/wiki/自由及開放源碼軟件 "wikilink")[專有軟件的組合](https://zh.wikipedia.org/wiki/專有軟件 "wikilink")，伴隨著用於進入Google服務所需的軟件，都會落入後者的一類。
+Pixel系列的裝置](../Page/Google_Pixel.md "wikilink")\[148\]。反過來說，那些開源碼是由[代工生產定制和調整以在他們的硬件上執行](https://zh.wikipedia.org/wiki/代工生產 "wikilink")\[149\]\[150\]。此外，Android的源代碼並不包含某些硬件組件所需專有的[驅動程式](https://zh.wikipedia.org/wiki/驅動程式 "wikilink")\[151\]，因此大多數的Android裝置（包括Google自己的裝置）最終都會附帶著[自由及開放源碼軟件及](https://zh.wikipedia.org/wiki/自由及開放源碼軟件 "wikilink")[專有軟件的組合](https://zh.wikipedia.org/wiki/專有軟件 "wikilink")，伴隨著用於進入Google服務所需的軟件，都會落入後者的一類。
 
 ### 更新時間表
 
@@ -194,14 +193,14 @@ Play商店獨立地為作業系統作更新](../Page/Google_Play.md "wikilink")�
 Play服務](../Page/Google_Play服務.md "wikilink")，是個封閉源系統級的程序，可為Google服務提供[應用程式介面](https://zh.wikipedia.org/wiki/應用程式介面 "wikilink")，為執行Android
 Froyo或更高版本的裝置上自動安裝更新。通過這些改，Google可以透過Play服務添加新的系統功能及更新應用程式而毋需將升級分發到作業系統本身\[169\]，因此，[Android
 Jelly
-Bean包含相對較少面向用戶的變化](https://zh.wikipedia.org/wiki/Android_Jelly_Bean "wikilink")，對平台改進及細微變化更為側重\[170\]。
+Bean包含相對較少面向用戶的變化](../Page/Android_Jelly_Bean.md "wikilink")，對平台改進及細微變化更為側重\[170\]。
 
 2016年5月，[彭博報導稱Google正在努力讓Android保持最新狀態](https://zh.wikipedia.org/wiki/彭博商業周刊 "wikilink")，包括加快安全更新率、推出技術的解決方案、減少對手機測試的要求，並對電話製造商進行排名，試圖利用「羞辱」他們來讓行為變得更好。正如《彭博》所說：「隨著智能手機變得越來越強大，複雜和可攻擊，讓最新的軟件能與硬件密切合作變得越來越重要。」Android的領導人承認指「這不是一個理想的情況」，他進一步評論指缺乏更新是「Android上安全性最薄弱的環節」。無線運營商在報告中被描述指那是「最具挑戰性的討論」，因為運營商的網絡測試審批時間較慢，儘管有一些運營商包括[威訊無線及](../Page/威訊無線.md "wikilink")[Sprint](../Page/Sprint.md "wikilink")，已經縮短了他們各自的審批時間。[HTC的時任執行官賈森](https://zh.wikipedia.org/wiki/HTC "wikilink")·麥肯齊（Jason
 Mackenzie）於2015年稱每月的安全性更新是「不切實際」，而Google試圖說服運營商從完整的測試程序中排除安全補丁。為了進一步說服，Google分享了與其Android合作夥伴更新設備的頂級手機製造商的一份清單，並正在考慮將名單向公眾發布。手機製造商Nextbit的聯合創始人及前Android開發人員Mike
 Chan說，「解決這個問題的最佳方法是對作業系統進行大規模的重組架構」或Google可以投資培訓製造商和運營商「成為優秀的Android人民\[171\]\[172\]\[173\]」。
 
 2017年5月，隨著[Android
-Oreo發布](https://zh.wikipedia.org/wiki/Android_Oreo "wikilink")，谷歌推出了Project
+Oreo發布](../Page/Android_Oreo.md "wikilink")，谷歌推出了Project
 Treble，旨在使製造商能夠更輕鬆，更快捷，及更低成本地將裝置更新到Android的最新版本。Project
 Treble通過新的「供應商界面」將供應商實施與Android
 OS框架分開（由矽製造商所寫供設備專用的較低級別軟件）。在Android
@@ -244,7 +243,7 @@ Brady）等，布拉迪表示在傳統[類Unix系統的Linux發行意義上](htt
 C函數庫](https://zh.wikipedia.org/wiki/GNU_C函數庫 "wikilink")（它利用[Bionic作為替代C數據庫](https://zh.wikipedia.org/wiki/Bionic_\(軟件\) "wikilink")），以及Linux發行版中常見的一些其他組件\[204\]。
 
 隨著2017年[Android
-Oreo的推出](https://zh.wikipedia.org/wiki/Android_Oreo "wikilink")，Google基於安全考慮，開始要求新附帶[系統單晶片的設備具有Linux內核版本](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")4.4或更高版本，現有的裝置升級到Android
+Oreo的推出](../Page/Android_Oreo.md "wikilink")，Google基於安全考慮，開始要求新附帶[系統單晶片的設備具有Linux內核版本](https://zh.wikipedia.org/wiki/系統單晶片 "wikilink")4.4或更高版本，現有的裝置升級到Android
 Oreo，以及與舊的系統單晶片一起推出的新產品，均不受此規則所限\[205\]\[206\]。
 
 ### 軟件堆棧
@@ -254,7 +253,7 @@ Oreo，以及與舊的系統單晶片一起推出的新產品，均不受此規�
 
 截至5.0版本，Android利用[Dalvik虛擬機器作為](https://zh.wikipedia.org/wiki/Dalvik虛擬機器 "wikilink")[程式虛擬機器](https://zh.wikipedia.org/wiki/虛擬機器#程式虛擬機器 "wikilink")，它與（JIT）來執行Dalvik「DEX-代碼」（Dalvik的可執行程式），這通常是由[Java位元組碼一同翻譯而來](https://zh.wikipedia.org/wiki/Java位元組碼 "wikilink")。繼基於跟踪的JIT的原則，除了解讀大多數應用程序代碼外，Dalvik執行編譯及每當應用程序啟動時，選擇本機執行的頻繁執行代碼段（痕跡）\[207\]\[208\]\[209\]。Android
 4.4引入[Android
-Runtime](https://zh.wikipedia.org/wiki/Android_Runtime "wikilink")（ART）作為新的運作環境，在安裝應用程式時，它會使用（AOT）來把應用程序字節碼完全編譯為[機器語言](https://zh.wikipedia.org/wiki/機器語言 "wikilink")\[210\]。在Android
+Runtime](../Page/Android_Runtime.md "wikilink")（ART）作為新的運作環境，在安裝應用程式時，它會使用（AOT）來把應用程序字節碼完全編譯為[機器語言](https://zh.wikipedia.org/wiki/機器語言 "wikilink")\[210\]。在Android
 4.4中，ART是一項實驗性功能，默認情況下不啟用；它成為Android
 5.0的下一個主要版本中唯一的運作選項\[211\]。2015年12月，Google宣布Android的下一個版本將會切換到基於[OpenJDK項目的Java實行方式](../Page/OpenJDK.md "wikilink")\[212\]。
 
@@ -276,7 +275,7 @@ OS的應用程式可以由C或C++所編寫（C++的支援是有限的），他�
 
 ### 開源社區
 
-Android的[原始碼是由Google在](https://zh.wikipedia.org/wiki/原始碼 "wikilink")下發布，其開放的性質鼓勵著一個龐大的開發者社區及[發燒友利用開源碼作為社區驅動項目的基礎](https://zh.wikipedia.org/wiki/發燒友 "wikilink")，它可為舊設備提供更新、為高級用戶增加新功能，或最初隨附其他作業系統的裝置引入Android系統\[220\]。這些社區開發的版本通常比較透過官方製造商／運營商的渠道更快為裝置帶來新功能和更新的，亦具有相當質量的水平\[221\]；為不能再接收官方更新的舊裝置提供持續性支援；或把Android帶到正式發布使用其他作業系統的裝置上，例如[TouchPad](../Page/TouchPad.md "wikilink")。社區發布經常出現[Root前並包含由原始供應商並未提供的修改](../Page/Root_\(Android\).md "wikilink")，例如讓裝置內處理器[超頻或是](../Page/超頻.md "wikilink")[調高／低電壓的能力](https://zh.wikipedia.org/wiki/動態電壓調節 "wikilink")\[222\]。[CyanogenMod是社區中使用最廣泛的韌體](../Page/CyanogenMod.md "wikilink")\[223\]，惟現已停產並由[LineageOS繼任](https://zh.wikipedia.org/wiki/LineageOS "wikilink")\[224\]。
+Android的[原始碼是由Google在](https://zh.wikipedia.org/wiki/原始碼 "wikilink")下發布，其開放的性質鼓勵著一個龐大的開發者社區及[發燒友利用開源碼作為社區驅動項目的基礎](https://zh.wikipedia.org/wiki/發燒友 "wikilink")，它可為舊設備提供更新、為高級用戶增加新功能，或最初隨附其他作業系統的裝置引入Android系統\[220\]。這些社區開發的版本通常比較透過官方製造商／運營商的渠道更快為裝置帶來新功能和更新的，亦具有相當質量的水平\[221\]；為不能再接收官方更新的舊裝置提供持續性支援；或把Android帶到正式發布使用其他作業系統的裝置上，例如[TouchPad](../Page/TouchPad.md "wikilink")。社區發布經常出現[Root前並包含由原始供應商並未提供的修改](../Page/Root_\(Android\).md "wikilink")，例如讓裝置內處理器[超頻或是](../Page/超頻.md "wikilink")[調高／低電壓的能力](https://zh.wikipedia.org/wiki/動態電壓調節 "wikilink")\[222\]。[CyanogenMod是社區中使用最廣泛的韌體](../Page/CyanogenMod.md "wikilink")\[223\]，惟現已停產並由[LineageOS繼任](../Page/LineageOS.md "wikilink")\[224\]。
 
 從歷史上看，裝置製造商及行動運營商通常都不支持第三方韌體的開發。製造商對使用非官方軟件的裝置功能不正常，以及由此產生的支援費用表示擔憂\[225\]。此外，如CyanogenMod般經修改的韌體有時也會提供例如[Tethering等](../Page/Tethering.md "wikilink")...的功能，否則運營商將收取額外費用。因此，許多裝置中常見的技術障礙，包括鎖定[啟動程式及限制訪問root的權限都是常見於許多設備中](../Page/啟動程式.md "wikilink")。然而，隨著社區開發的軟件越來越受歡迎，[美國國會圖書館館長在發表聲明之後](https://zh.wikipedia.org/wiki/美國 "wikilink")，允許行動裝置進行[越獄](../Page/越獄_\(iOS\).md "wikilink")\[226\]，製造商和運營商經已對第三方開發軟件的立場軟化，包括[HTC](../Page/宏達國際電子.md "wikilink")\[227\]、[摩托羅拉](https://zh.wikipedia.org/wiki/摩托羅拉 "wikilink")\[228\]、[三星](https://zh.wikipedia.org/wiki/三星集團 "wikilink")\[229\]\[230\]及[索尼](https://zh.wikipedia.org/wiki/索尼流動通訊 "wikilink")\[231\]，他們提供支持和鼓勵發展。因此，隨著時間的推移，由於越來越多的裝置隨附著已解鎖或可解鎖的啟動程式，繞過的規避而安裝非官方韌體的需要降低了，這類似於[Nexus系列手機](../Page/Google_Nexus.md "wikilink")，雖然他們通常要求用戶放棄為裝置進行保修\[232\]。然而，儘管製造商已經接受，但美國的一些運營商仍然要求手機被鎖定，此讓開發人員和客戶感到沮喪\[233\]。
 
@@ -300,7 +299,7 @@ Play商店\[249\]。
 儘管Google通過定期的檢查撤除這些存在於Google
 Play商店上的惡意程式和病毒，但是這並不能完全阻止其他病毒通過第三方網路的方式產生並且傳播\[250\]。2015年8月，Google宣布[Google
 Nexus系列中的裝置將會開始每月收到安全性](../Page/Google_Nexus.md "wikilink")[修補程式](https://zh.wikipedia.org/wiki/修補程式 "wikilink")。Google還寫道：「Nexus裝置將會在至少兩年內繼續獲得重大更新，而安全性修補程式從裝置透過[Google
-Store購買起的](https://zh.wikipedia.org/wiki/Google_Store "wikilink")18個月內，或從初始可用性起計算三年以上的安全補丁\[251\]\[252\]\[253\]。」接下來的10月，[劍橋大學的研究人員得出結論](https://zh.wikipedia.org/wiki/劍橋大學 "wikilink")，由於缺乏更新和支援，87.7％使用中的Android手機有已知但未修補[安全漏洞](https://zh.wikipedia.org/wiki/计算机安全隐患 "wikilink")\[254\]\[255\]\[256\]。2015年8月，《[Ars
+Store購買起的](../Page/Google_Store.md "wikilink")18個月內，或從初始可用性起計算三年以上的安全補丁\[251\]\[252\]\[253\]。」接下來的10月，[劍橋大學的研究人員得出結論](https://zh.wikipedia.org/wiki/劍橋大學 "wikilink")，由於缺乏更新和支援，87.7％使用中的Android手機有已知但未修補[安全漏洞](https://zh.wikipedia.org/wiki/计算机安全隐患 "wikilink")\[254\]\[255\]\[256\]。2015年8月，《[Ars
 Technica](../Page/Ars_Technica.md "wikilink")》的榮恩·阿馬德奧（Ron
 Amadeo）也寫道：「Android原先設計最重要的是被廣泛採用。Google從頭開始，由0%的市場佔有率，所以它很高興放棄控制權並讓每個人於採納的桌上佔一席位......現在，儘管Android擁有全球智能手機市場約75-80％的市場佔有率—使它不僅是世上最流行的行動作業系統，亦可說是現時最流行的作業系統。因此，安全性已成為了一個大問題。當Android生態系統沒有設備要更新，指令鏈的設計回歸，但Android仍然沿用軟件更新，它只是起不了作用\[257\]。」隨著Google每月更新時間表的消息出來後，包括三星和LG在內的一些製造商承諾每月發布安全性更新\[258\]。但是正如傑瑞·希爾登布蘭德（Jerry
 Hildenbrand）於2016年2月的《Android中央》所指，「相反，我們在幾種極少數機型的特定版本中得到了一些更新，還有一堆破碎了的承諾」\[259\]。
@@ -333,14 +332,14 @@ Access Control）以增加系統安全性\[273\]\[274\]。
 自2012年2月起，Google已使用其[惡意軟體掃描器Google](https://zh.wikipedia.org/wiki/惡意軟體 "wikilink")
 Bouncer監察和掃描在Google Play商店上的應用程式\[275\]\[276\]。2012年11月，Google於[Android
 Jelly
-Bean推出](https://zh.wikipedia.org/wiki/Android_Jelly_Bean "wikilink")「驗證應用程式」的功能，作為作業系統的一部分，掃描來自Google
+Bean推出](../Page/Android_Jelly_Bean.md "wikilink")「驗證應用程式」的功能，作為作業系統的一部分，掃描來自Google
 Play和第三方來源的所有應用程式，以防止惡意行為\[277\]。「驗證應用程式」最初只在安裝期間進行，然而它在2014年的更新後不斷地掃描應用程式，並在2017年透過「設定」中的選項，讓用戶可見到該功能\[278\]\[279\]。
 
 在安裝「驗證應用程式」前，Google
 Play商店會顯示一系列應用程序所需的要求，查閱這些權限後，用戶可以選擇接受或拒絕，但必須要在接受下才能安裝應用程式\[280\]。
 
 在[Android Jelly
-Bean中](https://zh.wikipedia.org/wiki/Android_Jelly_Bean "wikilink")，其原生應用程式管理機制App
+Bean中](../Page/Android_Jelly_Bean.md "wikilink")，其原生應用程式管理機制App
 Ops首次被引入，但並未開放讓一般用戶使用\[281\]，直至[Android
 Marshmallow](../Page/Android_Marshmallow.md "wikilink")，系統啟用其原生應用程式的權限控制（並非App
 Ops），它容許用戶在程式安裝後仍能對特定類別的權限使用進行開關，若應用程式的某組權限使用被關閉並準備進入相應權限的方式時，系統會詢問用戶是否容許\[282\]。
@@ -403,7 +402,7 @@ GL源码被公开，目前Skia也是Google Chrome的图形引擎。
 Android的多媒体资料库采用[SQLite资料库系统](../Page/SQLite.md "wikilink")。资料库又分為共用资料库及私用资料库。使用者可透过ContentProvider类别取得共用资料库。
 
 Android的中间层多以Java實作，4.4版之前使用特殊的[Dalvik虚拟机器](../Page/Dalvik虚拟机.md "wikilink")。Dalvik虚拟机器是一种“暂存器型态”的Java虚拟机器，变数皆存放于[暂存器中](https://zh.wikipedia.org/wiki/暂存器 "wikilink")，虚拟机器的指令相对减少。5.0版起改用[Android
-Runtime](https://zh.wikipedia.org/wiki/Android_Runtime "wikilink")（ART）。
+Runtime](../Page/Android_Runtime.md "wikilink")（ART）。
 
 Dalvik虚拟机器可以有多个实例，每个Android應用程式都用一个自属的Dalvik虚拟机器来执行，让系统在执行程式时可达到最佳化。Dalvik虚拟机器并非执行Java字节码，而是执行一种称為.dex格式的档案。
 
@@ -462,7 +461,7 @@ Play內的付費程序在許多國家與地區內提供，如[美國](https://zh
 Play的服務還沒有擴展到中國大陸地區，但大陸用戶仍可通過國際[信用卡和相關的免費軟體來完成購買](../Page/信用卡.md "wikilink")。需要注意的是，通過這種方法購買的軟體可能不會得到當地承認的[發票](https://zh.wikipedia.org/wiki/發票 "wikilink")。
 
 除了Google的Google Play之外，還有其他公司的應用程式市場，如亞馬遜公司的Amazon
-Appstore，三星公司的三星应用商店，Fetch，AppBrian，与中国国内的[酷安](https://zh.wikipedia.org/wiki/酷安 "wikilink")、[豌豆荚等](../Page/豌豆荚.md "wikilink")\[333\]。
+Appstore，三星公司的三星应用商店，Fetch，AppBrian，与中国国内的[酷安](../Page/酷安.md "wikilink")、[豌豆荚等](../Page/豌豆荚.md "wikilink")\[333\]。
 
 此外，Google Play还提供在Android系统后台对安装的应用程序进行验证的服务，以最大程度防范恶意软件的侵害\[334\]。
 
@@ -600,26 +599,26 @@ Fire](../Page/Kindle_Fire.md "wikilink")。
 <tr class="odd">
 <td></td>
 <td><p>style="text-align:center; |<strong><a href="https://zh.wikipedia.org/wiki/Android歷史版本#Android_9_Pie_(API_28)" title="wikilink">9</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Pie" title="wikilink">Pie</a></p></td>
+<td><p><a href="../Page/Android_Pie.md" title="wikilink">Pie</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Runtime" title="wikilink">ART</a></p></td>
+<td><p><a href="../Page/Android_Runtime.md" title="wikilink">ART</a></p></td>
 <td><p>N/A</p></td>
 <td><p><a href="../Page/Sony_Xperia_XZ3.md" title="wikilink">Sony Xperia XZ3</a>、<a href="../Page/Pixel_3.md" title="wikilink">Pixel 3、Pixel 3 XL</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Android歷史版本#Android_8.1_Oreo_(API_27)" title="wikilink">8.1</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Oreo" title="wikilink">Oreo</a></p></td>
+<td><p><a href="../Page/Android_Oreo.md" title="wikilink">Oreo</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Runtime" title="wikilink">ART</a></p></td>
+<td><p><a href="../Page/Android_Runtime.md" title="wikilink">ART</a></p></td>
 <td><p>5.8%</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sony_Xperia_XZ1" title="wikilink">Sony Xperia XZ1</a>、<a href="https://zh.wikipedia.org/wiki/Pixel_2" title="wikilink">Pixel 2、Pixel 2 XL</a></p></td>
+<td><p><a href="../Page/Sony_Xperia_XZ1.md" title="wikilink">Sony Xperia XZ1</a>、<a href="../Page/Pixel_2.md" title="wikilink">Pixel 2、Pixel 2 XL</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Android歷史版本#Android_8.0_Oreo_(API_26)" title="wikilink">8.0</a></strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Runtime" title="wikilink">ART</a></p></td>
+<td><p><a href="../Page/Android_Runtime.md" title="wikilink">ART</a></p></td>
 <td><p>13.4%</p></td>
 <td></td>
 <td></td>
@@ -629,7 +628,7 @@ Fire](../Page/Kindle_Fire.md "wikilink")。
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Android歷史版本#Android_7.1_Nougat_(API_25)" title="wikilink">7.1</a></strong></p></td>
 <td><p><a href="../Page/Android_Nougat.md" title="wikilink">Nougat</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Runtime" title="wikilink">ART</a></p></td>
+<td><p><a href="../Page/Android_Runtime.md" title="wikilink">ART</a></p></td>
 <td><p>10.3%</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/LG_V20" title="wikilink">LG V20</a>、<a href="https://zh.wikipedia.org/wiki/Pixel_(智能手機)" title="wikilink">Pixel、Pixel XL</a></p></td>
 </tr>
@@ -637,7 +636,7 @@ Fire](../Page/Kindle_Fire.md "wikilink")。
 <td></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Android歷史版本#Android_7.0_Nougat_(API_24)" title="wikilink">7.0</a></strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Runtime" title="wikilink">ART</a></p></td>
+<td><p><a href="../Page/Android_Runtime.md" title="wikilink">ART</a></p></td>
 <td><p>19.0%</p></td>
 <td></td>
 <td></td>
@@ -647,16 +646,16 @@ Fire](../Page/Kindle_Fire.md "wikilink")。
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Android歷史版本#Android_6.0_Marshmallow_(API_23)" title="wikilink">6.0</a></strong></p></td>
 <td><p><a href="../Page/Android_Marshmallow.md" title="wikilink">Marshmallow</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Runtime" title="wikilink">ART</a></p></td>
+<td><p><a href="../Page/Android_Runtime.md" title="wikilink">ART</a></p></td>
 <td><p>21.6%</p></td>
 <td><p><a href="../Page/Nexus_5X.md" title="wikilink">Nexus 5X</a>、<a href="../Page/Nexus_6P.md" title="wikilink">Nexus 6P</a>、<a href="../Page/HTC_One_A9.md" title="wikilink">HTC One A9</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Android歷史版本#Android_5.1_Lollipop_(API_22)" title="wikilink">5.1</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Lollipop" title="wikilink">Lollipop</a></p></td>
+<td><p><a href="../Page/Android_Lollipop.md" title="wikilink">Lollipop</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Runtime" title="wikilink">ART</a></p></td>
+<td><p><a href="../Page/Android_Runtime.md" title="wikilink">ART</a></p></td>
 <td><p>14.7%</p></td>
 <td><p><a href="../Page/Nexus_6.md" title="wikilink">Nexus 6</a>、<a href="../Page/Nexus_9.md" title="wikilink">Nexus 9</a></p></td>
 </tr>
@@ -672,7 +671,7 @@ Fire](../Page/Kindle_Fire.md "wikilink")。
 <tr class="odd">
 <td></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Android歷史版本#Android_4.4_KitKat_(API_19)" title="wikilink">4.4</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_KitKat" title="wikilink">KitKat</a></p></td>
+<td><p><a href="../Page/Android_KitKat.md" title="wikilink">KitKat</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Dalvik虛擬機器" title="wikilink">Dalvik</a> (及ART 1.6.0)</p></td>
 <td><p>7.8%</p></td>
@@ -681,7 +680,7 @@ Fire](../Page/Kindle_Fire.md "wikilink")。
 <tr class="even">
 <td></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Android歷史版本#Android_4.3_Jelly_Bean_(API_18)" title="wikilink">4.3</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Android_Jelly_Bean" title="wikilink">Jelly Bean</a></p></td>
+<td><p><a href="../Page/Android_Jelly_Bean.md" title="wikilink">Jelly Bean</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Dalvik虛擬機器" title="wikilink">Dalvik</a></p></td>
 <td><p>0.5%</p></td>
@@ -811,8 +810,7 @@ Android Auto是專為汽車所設計的一個Android系統功能。
   -
   - [LIMEIME](https://zh.wikipedia.org/wiki/LIMEIME "wikilink")
 
-  - [Google
-    Fuchsia](https://zh.wikipedia.org/wiki/Google_Fuchsia "wikilink")
+  - [Google Fuchsia](../Page/Google_Fuchsia.md "wikilink")
 
 ## 注释
 

@@ -41,7 +41,7 @@ FriendFeed的公司位于[美国](../Page/美国.md "wikilink")[加州](https://
 <td></td>
 <td><p><strong>读书</strong></p>
 <ul>
-<li><a href="https://zh.wikipedia.org/wiki/Goodreads" title="wikilink">Goodreads</a></li>
+<li><a href="../Page/Goodreads.md" title="wikilink">Goodreads</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/LibraryThing" title="wikilink">LibraryThing</a></li>
 </ul>
 <p><strong>新闻</strong></p>
@@ -107,7 +107,7 @@ FriendFeed的公司位于[美国](../Page/美国.md "wikilink")[加州](https://
 <li><a href="https://zh.wikipedia.org/wiki/tipjoy" title="wikilink">tipjoy</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/Upcoming" title="wikilink">Upcoming</a></li>
 <li><a href="../Page/Wakoopa.md" title="wikilink">Wakoopa</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/Yelp" title="wikilink">Yelp</a></li>
+<li><a href="../Page/Yelp.md" title="wikilink">Yelp</a></li>
 </ul></td>
 </tr>
 </tbody>

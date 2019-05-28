@@ -1,5 +1,5 @@
 是[德国开发商](../Page/德国.md "wikilink")[Piranha
-Bytes开发的](https://zh.wikipedia.org/wiki/Piranha_Bytes "wikilink")[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")，是《[哥特王朝](https://zh.wikipedia.org/wiki/哥特王朝_\(游戏\) "wikilink")》的续作。于2002年11月29日在德国由[Jowood和](https://zh.wikipedia.org/wiki/Jowood "wikilink")[Atari发行](https://zh.wikipedia.org/wiki/Atari "wikilink")。北美地区则在2003年10月28日发行。
+Bytes开发的](../Page/Piranha_Bytes.md "wikilink")[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")，是《[哥特王朝](../Page/哥特王朝_\(游戏\).md "wikilink")》的续作。于2002年11月29日在德国由[Jowood和](https://zh.wikipedia.org/wiki/Jowood "wikilink")[Atari发行](https://zh.wikipedia.org/wiki/Atari "wikilink")。北美地区则在2003年10月28日发行。
 
 ## 剧情
 
@@ -11,7 +11,7 @@ Bytes开发的](https://zh.wikipedia.org/wiki/Piranha_Bytes "wikilink")[角色�
 
 ## 哥特系列
 
-  - [哥特王朝](https://zh.wikipedia.org/wiki/哥特王朝_\(游戏\) "wikilink")－2001年
+  - [哥特王朝](../Page/哥特王朝_\(游戏\).md "wikilink")－2001年
   - 哥特王朝II：乌鸦之夜－2003年（只有德语版本）
   - 哥特王朝II黄金版－2005年（包括原版和英语资料片《乌鸦之夜》）
   - [哥特王朝3](https://zh.wikipedia.org/wiki/哥特王朝3 "wikilink")－2006年

@@ -21,7 +21,7 @@ Truth*裡的"Sketches (20 Something Life)"。
 FIFA 08內有621支經過授權的隊伍，30個聯盟（包括27個*FIFA
 07*已有的聯盟）,\[2\]以及超過15,000個球員。\[3\]FIFA
 08收入所有主要的歐洲聯賽例如英格蘭的[英格蘭超級足球聯賽和](https://zh.wikipedia.org/wiki/英格蘭超級足球聯賽 "wikilink")[英格蘭足球聯賽](https://zh.wikipedia.org/wiki/英格蘭足球聯賽 "wikilink")，西班牙的[西班牙甲組足球聯賽](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")，義大利的[義大利甲組足球聯賽和德國的](https://zh.wikipedia.org/wiki/義大利甲組足球聯賽 "wikilink")[德國甲組足球聯賽](https://zh.wikipedia.org/wiki/德國甲組足球聯賽 "wikilink")，以及來自其它地區的聯賽，例如美國的
-[美國足球大聯盟](https://zh.wikipedia.org/wiki/美國足球大聯盟 "wikilink")，[A-League](https://zh.wikipedia.org/wiki/A-League "wikilink")（澳洲聯賽），巴西的[巴西甲組足球聯賽和韓國的](https://zh.wikipedia.org/wiki/巴西甲組足球聯賽 "wikilink")[K聯賽](https://zh.wikipedia.org/wiki/K聯賽 "wikilink")。
+[美國足球大聯盟](https://zh.wikipedia.org/wiki/美國足球大聯盟 "wikilink")，[A-League](https://zh.wikipedia.org/wiki/A-League "wikilink")（澳洲聯賽），巴西的[巴西甲組足球聯賽和韓國的](https://zh.wikipedia.org/wiki/巴西甲組足球聯賽 "wikilink")[K聯賽](../Page/K聯賽.md "wikilink")。
 
 新加入FIFA
 08的聯賽有[愛爾蘭足球超級聯賽](https://zh.wikipedia.org/wiki/愛爾蘭足球超級聯賽 "wikilink")，\[4\]澳洲[現代](../Page/現代汽車.md "wikilink")[A-League](https://zh.wikipedia.org/wiki/A-League "wikilink")，\[5\]和捷克的[捷克足球甲級聯賽](https://zh.wikipedia.org/wiki/捷克足球甲級聯賽 "wikilink")。\[6\]遊戲還包括了"Rest

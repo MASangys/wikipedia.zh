@@ -39,7 +39,7 @@
 
 <!-- end list -->
 
-  - 本田（聲優：[飯塚昭三](https://zh.wikipedia.org/wiki/飯塚昭三 "wikilink")、香港：[梁耀昌](../Page/梁耀昌.md "wikilink")）
+  - 本田（聲優：[飯塚昭三](../Page/飯塚昭三.md "wikilink")、香港：[梁耀昌](../Page/梁耀昌.md "wikilink")）
     Space Knights的機械師。身材矮胖的胡子大叔，Space Knights是成员中年龄最大的，也是十分了解弗里曼的人。
 
 <!-- end list -->
@@ -51,7 +51,7 @@
 
 ### 聯合防卫軍
 
-  - 柯爾貝特（Colbert、聲優：[大瀧進矢](https://zh.wikipedia.org/wiki/大瀧進矢 "wikilink")、香港：[林國雄](../Page/林國雄.md "wikilink")）
+  - 柯爾貝特（Colbert、聲優：[大瀧進矢](../Page/大瀧進矢.md "wikilink")、香港：[林國雄](../Page/林國雄.md "wikilink")）
     聯合防卫軍[准將](../Page/准將.md "wikilink")。功名心极强，自私自利，为达目的不择手段。在拉达姆进攻以前为联合军的设立尽力，拉达姆战役中也为促进Sol
     Tekkaman及[费米子武器的开发有所贡献](../Page/费米子.md "wikilink")。但是在Orbital
     Ring夺回站失败后就将Sapce

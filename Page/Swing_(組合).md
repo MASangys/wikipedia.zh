@@ -355,8 +355,7 @@ Married Men」的簡寫。
     - 唱作世代
     GENS@HK21C》[香港預演及](../Page/香港.md "wikilink")[上海演出](https://zh.wikipedia.org/wiki/上海 "wikilink")
   - 《[天水圍](../Page/天水圍.md "wikilink")[天瑞商場唱作音樂會](../Page/天瑞邨.md "wikilink")》
-  - 《第4屆[香港科技專上書院](https://zh.wikipedia.org/wiki/香港科技專上書院 "wikilink")〔HKIT〕流行音樂創作
-    - 毅進音樂會》
+  - 《第4屆[香港科技專上書院](../Page/香港科技專上書院.md "wikilink")〔HKIT〕流行音樂創作 - 毅進音樂會》
   - 《[紅磡](../Page/紅磡.md "wikilink")[都會商場](https://zh.wikipedia.org/wiki/國際都會 "wikilink")
     - 2010樂壇原創歌曲大熱唱》
   - 《[僱員再培訓局](../Page/僱員再培訓局.md "wikilink")〔ERB〕 創．新．Teen 體驗日》

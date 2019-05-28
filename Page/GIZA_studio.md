@@ -45,7 +45,7 @@ studio的主力歌手[倉木麻衣與](../Page/倉木麻衣.md "wikilink")[上�
 IN db活動休止](https://zh.wikipedia.org/wiki/三枝夕夏_IN_db "wikilink")，[GARNET
 CROW在](../Page/GARNET_CROW.md "wikilink")2013年6月解散，目前GIZA
 studio旗下能進入公信榜前20名的藝人為[Chicago
-Poodle](../Page/Chicago_Poodle.md "wikilink")、[doa與](https://zh.wikipedia.org/wiki/doa "wikilink")[植田真梨惠](https://zh.wikipedia.org/wiki/植田真梨惠 "wikilink")。
+Poodle](../Page/Chicago_Poodle.md "wikilink")、[doa與](https://zh.wikipedia.org/wiki/doa "wikilink")[植田真梨惠](../Page/植田真梨惠.md "wikilink")。
 
 ## 旗下歌手
 
@@ -59,7 +59,7 @@ Poodle](../Page/Chicago_Poodle.md "wikilink")、[doa與](https://zh.wikipedia.or
   - [Caos Caos
     Caos](https://zh.wikipedia.org/wiki/Caos_Caos_Caos "wikilink")
   - [WAR-ED](../Page/WAR-ED.md "wikilink")
-  - [植田真梨惠](https://zh.wikipedia.org/wiki/植田真梨惠 "wikilink")
+  - [植田真梨惠](../Page/植田真梨惠.md "wikilink")
 
 **D-GO**
 

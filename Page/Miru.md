@@ -35,7 +35,7 @@
 
   - （里村 茜）
 
-  - [V.G.NEO](https://zh.wikipedia.org/wiki/V.G.NEO "wikilink")（岡本歩美）
+  - [V.G.NEO](../Page/V.G.NEO.md "wikilink")（岡本歩美）
 
 <!-- end list -->
 
@@ -348,10 +348,9 @@
 
 <!-- end list -->
 
-  - [戀愛姐妹六重奏](https://zh.wikipedia.org/wiki/戀愛姐妹六重奏 "wikilink")（**美濱紗香**）
+  - [戀愛姐妹六重奏](../Page/戀愛姐妹六重奏.md "wikilink")（**美濱紗香**）
   - 恋する夏のラストリゾート（賀來小波）
-  - [Innocent
-    Girl](https://zh.wikipedia.org/wiki/Innocent_Girl "wikilink")（天衣莓）
+  - [Innocent Girl](../Page/Innocent_Girl.md "wikilink")（天衣莓）
   - ヤキモチストリーム（浅間 花梨）
 
 <!-- end list -->

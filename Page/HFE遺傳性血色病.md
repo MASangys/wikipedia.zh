@@ -77,7 +77,7 @@ HFE遺傳性血色病患者的[皮膚會因](../Page/皮膚.md "wikilink")[黑�
 
 ## 治療
 
-早期的HFE遺傳性血色病可以定期[放血的形式來解決](https://zh.wikipedia.org/wiki/放血 "wikilink")[鐵質積聚的問題](https://zh.wikipedia.org/wiki/鐵質 "wikilink")。\[30\]當[儲鐵蛋白水平到達每毫升](https://zh.wikipedia.org/wiki/儲鐵蛋白 "wikilink")300纖克（未停經女性為每毫升200纖克），就可以開始進行放血。每包450-500毫升的血液，就含有約200-250微克的鐵質。一般放血的頻率為每星期一次，直至儲鐵蛋白的水平少於每毫升20纖克。期後每年只放血1-6次就可以維持體內的鐵質水平。治療亦要針對受到破壞的[器官](../Page/器官.md "wikilink")。
+早期的HFE遺傳性血色病可以定期[放血的形式來解決](../Page/放血.md "wikilink")[鐵質積聚的問題](https://zh.wikipedia.org/wiki/鐵質 "wikilink")。\[30\]當[儲鐵蛋白水平到達每毫升](https://zh.wikipedia.org/wiki/儲鐵蛋白 "wikilink")300纖克（未停經女性為每毫升200纖克），就可以開始進行放血。每包450-500毫升的血液，就含有約200-250微克的鐵質。一般放血的頻率為每星期一次，直至儲鐵蛋白的水平少於每毫升20纖克。期後每年只放血1-6次就可以維持體內的鐵質水平。治療亦要針對受到破壞的[器官](../Page/器官.md "wikilink")。
 
 HFE遺傳性血色病患者要控制飲食，限制飲酒，少吃含[維他命C的食物](https://zh.wikipedia.org/wiki/維他命C "wikilink")、紅肉及容易造成[食物中毒的食物](../Page/食物中毒.md "wikilink")，如[貝類及](../Page/貝類.md "wikilink")[海鮮](../Page/海鮮.md "wikilink")。另一方面要多吃阻礙吸收鐵質的食物，如高[單寧酸含量的](https://zh.wikipedia.org/wiki/單寧酸 "wikilink")[茶](../Page/茶.md "wikilink")、含[鈣質](../Page/鈣質.md "wikilink")、[草酸及](../Page/草酸.md "wikilink")[植酸的食物](../Page/植酸.md "wikilink")。\[31\]
 

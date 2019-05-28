@@ -2,7 +2,7 @@
 **Coleco Adam** 是[美国的玩具制造商](../Page/美国.md "wikilink")
 [Coleco](https://zh.wikipedia.org/wiki/Coleco "wikilink")
 公司企图接续其[电视游乐器](https://zh.wikipedia.org/wiki/电视游乐器 "wikilink")
-[ColecoVision](https://zh.wikipedia.org/wiki/ColecoVision "wikilink")
+[ColecoVision](../Page/ColecoVision.md "wikilink")
 于1980年代初的成功而推出的[家用电脑](https://zh.wikipedia.org/wiki/家用电脑 "wikilink")。取名为
 Adam（[亚当](https://zh.wikipedia.org/wiki/亚当 "wikilink")）是希望它能「咬」一口[苹果公司的市场份额](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")（参见[伊甸园](https://zh.wikipedia.org/wiki/伊甸园 "wikilink")），然而它并不成功。有一部份是由于早期的量产问题。
 
@@ -32,7 +32,7 @@ Adam有以下幾個缺點：
   - 由于Coleco应用了相当奇怪的设计－从打印机供应所有系统的电源，若是打印机故障，所有的系统都将无法作动。\[3\]
   - 与当时其他电脑不一样的是，Adam没有内建于[ROM的BASIC编译器](https://zh.wikipedia.org/wiki/ROM "wikilink")。它内建的是SmartWriter－"电子打字机"与文书处理器、EOS(Elementary
     Operating System)操作系统核心与8K OS-7
-    [ColecoVision操作系统](https://zh.wikipedia.org/wiki/ColecoVision "wikilink")。SmartBASIC编译器另附于其专有的Digital
+    [ColecoVision操作系统](../Page/ColecoVision.md "wikilink")。SmartBASIC编译器另附于其专有的Digital
     Data Pack录音带格式媒体中。
   - 若切换至文书处理模式，SmartWriter无法在不重开机的情况下切回打字机模式。
   - Adam的Digital Data

@@ -28,7 +28,7 @@
 </tr>
 <tr class="even">
 <td><p>小夫</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/肝付兼太" title="wikilink">肝付兼太</a></p></td>
+<td><p><a href="../Page/肝付兼太.md" title="wikilink">肝付兼太</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>胖虎</p></td>
@@ -44,7 +44,7 @@
 </tr>
 <tr class="even">
 <td><p>胖虎的媽媽</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/青木和代" title="wikilink">青木和代</a></p></td>
+<td><p><a href="../Page/青木和代.md" title="wikilink">青木和代</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>店員</p></td>

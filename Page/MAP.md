@@ -4,8 +4,8 @@
 
 ## 電腦
 
-  - [移动应用部分](https://zh.wikipedia.org/wiki/移动应用部分 "wikilink")（Mobile
-    Application Part）, 一种手机网络协议
+  - [移动应用部分](../Page/移动应用部分.md "wikilink")（Mobile Application Part）,
+    一种手机网络协议
 
   - Multiple Address and Port, a feature of  products
 

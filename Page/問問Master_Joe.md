@@ -274,7 +274,7 @@ MJ工作室清潔大使<br />
 MJ甜品專員，綽號：甜絲絲</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃建東" title="wikilink">黃建東</a></p></td>
+<td><p><a href="../Page/黃建東.md" title="wikilink">黃建東</a></p></td>
 <td><p>AI Derek</p></td>
 <td><p>2012年新出場AI，於211集起出場<br />
 喜歡研究奇怪小發明<br />
@@ -476,7 +476,7 @@ Y Pro的健康管理專員，所以常常利用舉啞鈴檢查手部機件<br />
 任務：負責記錄各人的工作情況，只會聽從恩師的指令</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/譚坤倫" title="wikilink">譚坤倫</a></p></td>
+<td><p><a href="../Page/譚坤倫.md" title="wikilink">譚坤倫</a></p></td>
 <td><p>記者Alan/Agent A</p></td>
 <td><p>恩師製造的機械人，SIB(科學調查科)隊員<br />
 暗藏身份為科學出版刊物《科學解碼》記者<br />

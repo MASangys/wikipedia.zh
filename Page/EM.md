@@ -64,7 +64,7 @@
 
   - [细胞外基质](../Page/细胞外基质.md "wikilink")（），多细胞生物中结缔组织的支持细胞
 
-  - 细胞的[膜电位](https://zh.wikipedia.org/wiki/膜电位 "wikilink")，书为*E*<sub>m</sub>
+  - 细胞的[膜电位](../Page/膜电位.md "wikilink")，书为*E*<sub>m</sub>
 
 ### 语言学
 
@@ -92,7 +92,7 @@
 ## 技术
 
   - [電磁波譜](https://zh.wikipedia.org/wiki/電磁波譜 "wikilink")，包括电磁辐射所有可能的频率
-  - [电迁移](https://zh.wikipedia.org/wiki/电迁移 "wikilink")，通电导体内的电子运动导致的导体的原子运动
+  - [电迁移](../Page/电迁移.md "wikilink")，通电导体内的电子运动导致的导体的原子运动
   - [电子显微镜](../Page/电子显微镜.md "wikilink")，用电子来展示物件的内部或表面的显微镜
   - [電子倍增管](../Page/電子倍增管.md "wikilink")，能倍增入射电荷的的真空侦测器
   - [艾米](../Page/艾米.md "wikilink")，SI长度单位，等于10<sup>18</sup>米

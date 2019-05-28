@@ -2,7 +2,7 @@
 
 ## 簡略歷史
 
-WKB近似以三位物理學家[格雷戈尔·文策尔](https://zh.wikipedia.org/wiki/格雷戈尔·文策尔 "wikilink")、[汉斯·克喇末和](https://zh.wikipedia.org/wiki/汉斯·克喇末 "wikilink")[萊昂·布里淵姓氏字首命名](../Page/萊昂·布里淵.md "wikilink")。於1926年，他們成功地將這方法發展和應用於量子力學。不過早在1923年，數學家[哈罗德·杰弗里斯就已經發展出二階線性微分方程式的一般的近似法](../Page/哈罗德·杰弗里斯.md "wikilink")。薛丁格方程式也是一個二階微分方程式。可是，薛丁格方程式的出現稍微晚了兩年。三位物理學家各自獨立地在做WKB近似的研究時，似乎並不知道這個更早的研究。所以物理界提到這近似方法時，常常會忽略了杰弗里斯所做的貢獻。這方法在[荷蘭稱為](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")**KWB近似**，在[法國稱為](https://zh.wikipedia.org/wiki/法國 "wikilink")**BWK近似**，只有在[英國稱為](https://zh.wikipedia.org/wiki/英國 "wikilink")**JWKB近似**\[1\]。
+WKB近似以三位物理學家[格雷戈尔·文策尔](../Page/格雷戈尔·文策尔.md "wikilink")、[汉斯·克喇末和](../Page/汉斯·克喇末.md "wikilink")[萊昂·布里淵姓氏字首命名](../Page/萊昂·布里淵.md "wikilink")。於1926年，他們成功地將這方法發展和應用於量子力學。不過早在1923年，數學家[哈罗德·杰弗里斯就已經發展出二階線性微分方程式的一般的近似法](../Page/哈罗德·杰弗里斯.md "wikilink")。薛丁格方程式也是一個二階微分方程式。可是，薛丁格方程式的出現稍微晚了兩年。三位物理學家各自獨立地在做WKB近似的研究時，似乎並不知道這個更早的研究。所以物理界提到這近似方法時，常常會忽略了杰弗里斯所做的貢獻。這方法在[荷蘭稱為](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")**KWB近似**，在[法國稱為](https://zh.wikipedia.org/wiki/法國 "wikilink")**BWK近似**，只有在[英國稱為](https://zh.wikipedia.org/wiki/英國 "wikilink")**JWKB近似**\[1\]。
 
 ## 數學概念
 
@@ -10,7 +10,7 @@ WKB近似以三位物理學家[格雷戈尔·文策尔](https://zh.wikipedia.org
 
 \[\epsilon \frac{d^ny}{dx^n} + a(x)\frac{d^{n-1}y}{dx^{n - 1}} + \cdots + k(x)\frac{dy}{dx} + m(x)y= 0\,\!\]。
 
-假設解答的形式可以展開為一個[漸近級數](https://zh.wikipedia.org/wiki/渐近展开 "wikilink")：
+假設解答的形式可以展開為一個[漸近級數](../Page/渐近展开.md "wikilink")：
 
 \[y(x) \sim \exp\left[\frac{1}{\delta}\sum_{n=0}^{\infty}\delta^nS_n(x)\right]\,\!\]。
 

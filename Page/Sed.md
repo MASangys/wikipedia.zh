@@ -234,7 +234,7 @@ ed/sed命令和语法继续用于派生程序，例如文本编辑器[vi和](../
 
   - [Unix实用程序列表](../Page/Unix实用程序列表.md "wikilink")
   - [AWK](../Page/AWK.md "wikilink")
-  - [tr](https://zh.wikipedia.org/wiki/Tr_\(Unix\) "wikilink")
+  - [tr](../Page/Tr_\(Unix\).md "wikilink")
 
 ## 注释
 

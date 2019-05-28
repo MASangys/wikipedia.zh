@@ -4,7 +4,7 @@ Office Accounting
 2008，于2007年11月14日发布，面向对象为1到25人以上员工的小型企业\[1\]。它直接与[Intuit的](../Page/Intuit.md "wikilink")[QuickBooks竞争](https://zh.wikipedia.org/wiki/QuickBooks "wikilink")。
 
 **Microsoft Office Accounting Express
-2008**为其免费版，用于刚刚起步的企业或家庭用户。如果需要来自[eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")、[PayPal](../Page/PayPal.md "wikilink")、[Equifax和](https://zh.wikipedia.org/wiki/Equifax "wikilink")[ADP的第三方在线服务则需要另付费](https://zh.wikipedia.org/wiki/Automatic_Data_Processing "wikilink")。**Microsoft
+2008**为其免费版，用于刚刚起步的企业或家庭用户。如果需要来自[eBay](https://zh.wikipedia.org/wiki/eBay "wikilink")、[PayPal](../Page/PayPal.md "wikilink")、[Equifax和](../Page/Equifax.md "wikilink")[ADP的第三方在线服务则需要另付费](https://zh.wikipedia.org/wiki/Automatic_Data_Processing "wikilink")。**Microsoft
 Office Accounting Professional 2008**添加了更多的高级功能，于2007年11月发布。
 
 2009年11月16日，微軟在其Office Online網站上發表了一則聲明，主要闡述了Microsoft Small Business

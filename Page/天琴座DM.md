@@ -3,7 +3,7 @@ Lyr***）是在[天琴座的一顆](../Page/天琴座.md "wikilink")[矮新星](
 
 在1996年7月的爆發—不同於其它的—被證明是長且明亮的，使得幾名觀測者驚訝於它是否是達到超級最大值而可以分類為[大熊座SU型變星](../Page/矮新星.md "wikilink")。在[日本](../Page/日本.md "wikilink")[京都大學的觀測使用](https://zh.wikipedia.org/wiki/京都大學 "wikilink")60公分的反射鏡搭配V帶通的CCD光度計檢測到如駝峰的0.1等光度變化，因而重新將天琴座
 DM分類為大熊座 SU型變星。他們初步的週期分析估計最佳的駝峰週期是0.066±
-0.002[天](https://zh.wikipedia.org/wiki/天 "wikilink")。
+0.002[天](../Page/天.md "wikilink")。
 
 ## 相關條目
 

@@ -219,9 +219,9 @@ The Charm Beneath</p></td>
 Ten Brothers</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><a href="../Page/郭可盈.md" title="wikilink">郭可盈</a>、<a href="../Page/林文龍.md" title="wikilink">林文龍</a>、<a href="../Page/黎諾懿.md" title="wikilink">黎諾懿</a>、<a href="../Page/胡諾言.md" title="wikilink">胡諾言</a><br />
-<a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a>、<a href="https://zh.wikipedia.org/wiki/唐寧" title="wikilink">唐　寧</a>、<a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a>、<a href="https://zh.wikipedia.org/wiki/李逸朗" title="wikilink">李逸朗</a><br />
+<a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a>、<a href="https://zh.wikipedia.org/wiki/唐寧" title="wikilink">唐　寧</a>、<a href="../Page/林遠迎.md" title="wikilink">林遠迎</a>、<a href="https://zh.wikipedia.org/wiki/李逸朗" title="wikilink">李逸朗</a><br />
 <a href="../Page/羅貫峰.md" title="wikilink">羅貫峰</a>、<a href="https://zh.wikipedia.org/wiki/郭淨" title="wikilink">郭　淨</a>、<a href="https://zh.wikipedia.org/wiki/揚明" title="wikilink">揚　明</a>、<a href="../Page/張智軒.md" title="wikilink">張智軒</a><br />
-<a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a>、<a href="https://zh.wikipedia.org/wiki/王秉熹" title="wikilink">王秉熹</a>、<a href="../Page/駱應鈞.md" title="wikilink">駱應鈞</a>、<a href="../Page/廖啟智.md" title="wikilink">廖啟智</a></p></td>
+<a href="../Page/葉暐.md" title="wikilink">葉　暐</a>、<a href="https://zh.wikipedia.org/wiki/王秉熹" title="wikilink">王秉熹</a>、<a href="../Page/駱應鈞.md" title="wikilink">駱應鈞</a>、<a href="../Page/廖啟智.md" title="wikilink">廖啟智</a></p></td>
 <td style="text-align: center;"><p>潘嘉德</p></td>
 <td style="text-align: center;"><p><a href="https://web.archive.org/web/20070407230328/http://tvcity.tvb.com/drama/ten_brothers/">網頁</a></p></td>
 <td style="text-align: center;"></td>

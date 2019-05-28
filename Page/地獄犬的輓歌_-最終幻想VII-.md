@@ -35,8 +35,7 @@ Ground Soldier」。文森特似乎跟這一連串的事件有所牽連，但是
 
 <!-- end list -->
 
-  - 席德·海溫特（Cid
-    Highwind，）聲優：[山路和弘](https://zh.wikipedia.org/wiki/山路和弘 "wikilink")
+  - 席德·海溫特（Cid Highwind，）聲優：[山路和弘](../Page/山路和弘.md "wikilink")
     搭乘著冠上其妻名的雪菈號（Sherra；）的船長，是個冒險心旺盛又熱情洋溢，喜愛著天空的浪漫家。現在為WRO的成員之一，為WRO飛空艇師團的隊長。
 
 <!-- end list -->

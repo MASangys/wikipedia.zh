@@ -30,7 +30,7 @@ Reader所不具有的交友、关注等功能成为短板，但Google Reader仍�
 Reader将于2013年7月1日关闭。\[5\]
 
 与Google
-Reader同时或之后亦有若干具类似功能的服务，如[鲜果阅读器](https://zh.wikipedia.org/wiki/鲜果阅读器 "wikilink")、[Feedly](../Page/Feedly.md "wikilink")、[Inoreader](https://zh.wikipedia.org/wiki/Inoreader "wikilink")、[Digg
+Reader同时或之后亦有若干具类似功能的服务，如[鲜果阅读器](https://zh.wikipedia.org/wiki/鲜果阅读器 "wikilink")、[Feedly](../Page/Feedly.md "wikilink")、[Inoreader](../Page/Inoreader.md "wikilink")、[Digg
 Reader等](https://zh.wikipedia.org/wiki/Digg_Reader "wikilink")。但RSS订阅服务的弱化也非常明显，[微博客和](https://zh.wikipedia.org/wiki/微博客 "wikilink")[微信公众号等取代](https://zh.wikipedia.org/wiki/微信公众号 "wikilink")[博客成为流行的内容分享平台](https://zh.wikipedia.org/wiki/博客 "wikilink")，更多的网站通过RSS只提供内容概要，包括[纽约时报中文网](https://zh.wikipedia.org/wiki/纽约时报中文网 "wikilink")、[FT中文网等](https://zh.wikipedia.org/wiki/FT中文网 "wikilink")，[果壳网等网站关闭了RSS订阅服务](../Page/果壳网.md "wikilink")。
 
 ## 特征

@@ -17,8 +17,7 @@ PHPWind的源代码可免费下载，但它并不是[自由软件](../Page/自�
 
 在phpwind 4.3.2版本，站长可以利用URLRewrite实现伪静态。
 
-在phpwind
-7.0版本，改进了伪静态，优化[搜索引擎收录其系统文章](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")。
+在phpwind 7.0版本，改进了伪静态，优化[搜索引擎收录其系统文章](../Page/搜索引擎.md "wikilink")。
 
 在phpwind
 7.5版本，延续了传统论坛、社区[门户](https://zh.wikipedia.org/wiki/门户 "wikilink")、[SNS圈子](https://zh.wikipedia.org/wiki/SNS "wikilink")3种模式于一体的系统机构，并在此基础上弱化各种模式之间的关联度，增加系统的自定义特性。\[2\]

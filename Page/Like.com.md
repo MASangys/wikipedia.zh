@@ -1,4 +1,4 @@
-**Like.com**，是一个提供[价格比较服务的](https://zh.wikipedia.org/wiki/价格比较服务 "wikilink")[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")，自我宣称是一个“商品的视觉[搜索引擎](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")”。\[1\]
+**Like.com**，是一个提供[价格比较服务的](https://zh.wikipedia.org/wiki/价格比较服务 "wikilink")[网站](https://zh.wikipedia.org/wiki/网站 "wikilink")，自我宣称是一个“商品的视觉[搜索引擎](../Page/搜索引擎.md "wikilink")”。\[1\]
 
 ## 历史
 

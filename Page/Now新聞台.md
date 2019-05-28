@@ -181,7 +181,7 @@ Alert」。而當有一系列消息，會於畫面上方顯示，標題以黑底
 
   - 播放時間：每日07:28、12:58、20:28、22:58。
 
-### 《[氣象冷知識](https://zh.wikipedia.org/wiki/氣象冷知識 "wikilink")》（）
+### 《[氣象冷知識](../Page/氣象冷知識.md "wikilink")》（）
 
 節目由香港天文台製作，以增強公眾對氣象的認識，並希望藉此提升市民的防災意識。
 
@@ -270,17 +270,17 @@ Sports提供](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilin
   - 《走進[鐵幕](https://zh.wikipedia.org/wiki/北韓 "wikilink")》：2013年5月19日11:10-11:25播出。
   - 《中國人民》（共五集）：2013年10月4日至11月1日逢星期五20:30-21:00播出。
   - 《[政改有偈傾](../Page/2016年及2017年香港政治制度改革.md "wikilink")》：2013年12月16日至2014年1月3日、5月8日至16日於《時事全方位》節目內（10:40-11:00）播出。
-  - 《[佔領大事記](https://zh.wikipedia.org/wiki/雨傘革命 "wikilink")》：2014年12月14日至15日部份新聞時段後播出。
+  - 《[佔領大事記](../Page/雨傘革命.md "wikilink")》：2014年12月14日至15日部份新聞時段後播出。
   - 《抗戰勝利七十周年》：2015年8月29日13:30-14:00播出。
   - 《[抗戰勝利七十周年閱兵](https://zh.wikipedia.org/wiki/紀念中國人民抗日戰爭暨世界反法西斯戰爭勝利70周年閱兵式 "wikilink")》：2015年9月3日09:50-11:40直播。
   - 《[區議會選舉](../Page/2015年香港區議會選舉.md "wikilink")》：2015年11月22日22:25-23:30直播。
   - 《區議會新兵》：2016年1月8日16:30-17:00播出。
   - 《2016台灣大選》：2016年1月16日16:00-18:00直播。
   - 《[立法會新界東選舉論壇](../Page/2016年香港立法會新界東地方選區補選.md "wikilink")》：2016年2月15日09:30-11:00播出。
-  - 《[2016立法會選舉論壇](https://zh.wikipedia.org/wiki/2016年香港立法會選舉 "wikilink")》：2016年8月29日至9月2日於《時事全方位》節目內（10:30-11:00）播出。（now新聞台只播五個功能界別的論壇，地區直選論壇及區議會（第二）論壇則於now直播台播出）
-  - 《[2016立法會選舉](https://zh.wikipedia.org/wiki/2016年香港立法會選舉 "wikilink")
+  - 《[2016立法會選舉論壇](../Page/2016年香港立法會選舉.md "wikilink")》：2016年8月29日至9月2日於《時事全方位》節目內（10:30-11:00）播出。（now新聞台只播五個功能界別的論壇，地區直選論壇及區議會（第二）論壇則於now直播台播出）
+  - 《[2016立法會選舉](../Page/2016年香港立法會選舉.md "wikilink")
     點票直撃》：2016年9月4日22:30至9月5日19:00播出（但9月5日13:00後每半小時最後一節改為報道其他新聞）。
-  - 《[2017行政長官選舉辯論](https://zh.wikipedia.org/wiki/2017年行政長官選舉辯論 "wikilink")》：2017年3月14日20:00-22:00播出。
+  - 《[2017行政長官選舉辯論](../Page/2017年行政長官選舉辯論.md "wikilink")》：2017年3月14日20:00-22:00播出。
 
 ### 大事回顧
 
@@ -352,7 +352,7 @@ Sports提供](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilin
 | 16:30 | <span style="color: blue;">錄播</span>                                                                                                   | <span style="color: blue;">錄播</span>                                                            |                                                   |     |
 | 16:50 | <span style="color: purple;">重播《杏林在線》（星期二）</span>                                                                                      | <span style="color: purple;">重播《新聞智庫》</span>                                                    |                                                   |     |
 | 17:00 | <span style="color: orange;">直播</span>                                                                                                 | <span style="color: orange;">直播</span>                                                          | <span style="color: orange;">直播</span>            |     |
-| 17:20 | <span style="color: purple;">重播《環球薈報》</span>                                                                                           | <span style="color: green;">《[氣象冷知識](https://zh.wikipedia.org/wiki/氣象冷知識 "wikilink")》</span>    | <span style="color: purple;">重播《新聞智庫》</span>      |     |
+| 17:20 | <span style="color: purple;">重播《環球薈報》</span>                                                                                           | <span style="color: green;">《[氣象冷知識](../Page/氣象冷知識.md "wikilink")》</span>                       | <span style="color: purple;">重播《新聞智庫》</span>      |     |
 | 17:30 | <span style="color: blue;">錄播</span>                                                                                                   | <span style="color: blue;">錄播</span>                                                            | <span style="color: blue;">錄播</span>              |     |
 | 17:50 | <span style="color: purple;">重播《環球薈報》</span>                                                                                           | <span style="color: purple;">重播《氣象冷知識》</span>                                                   | <span style="color: purple;">重播《新聞智庫》</span>      |     |
 | 18:00 | <span style="color: orange;">**直播</span>及<span style="color: red;">《新聞智庫》**</span>                                                     | <span style="color: orange;">**直播**</span>                                                      |                                                   |     |

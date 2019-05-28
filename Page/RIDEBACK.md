@@ -111,7 +111,7 @@
 ### 制作人员
 
   - 監督：高橋敦史
-  - 系列構成・脚本：[高屋敷英夫](https://zh.wikipedia.org/wiki/高屋敷英夫 "wikilink")、[飯塚健](https://zh.wikipedia.org/wiki/飯塚健 "wikilink")
+  - 系列構成・脚本：[高屋敷英夫](../Page/高屋敷英夫.md "wikilink")、[飯塚健](https://zh.wikipedia.org/wiki/飯塚健 "wikilink")
   - 角色设计・总作画監督：田崎聡
   - 美術監督：東地和生
   - 色彩設計：橋本賢

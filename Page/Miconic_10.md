@@ -55,7 +55,7 @@
   - [歷山大廈](../Page/歷山大廈.md "wikilink")
   - [One Bay East](../Page/One_Bay_East.md "wikilink")（採用混合式顯示屏）
   - [Victoria
-    Dockside](https://zh.wikipedia.org/wiki/Victoria_Dockside "wikilink")（採用PORT系統）
+    Dockside](../Page/Victoria_Dockside.md "wikilink")（採用PORT系統）
 
 #### 住宅
 

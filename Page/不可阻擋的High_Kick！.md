@@ -187,12 +187,12 @@ Kick在韩国MBC电视台缔造了又一次的收视狂潮，该台黄金时段�
 
 ## 翻拍
 
-2011年获得韩国MBC电视台授权后，由高亚麟导演翻拍了中国大陆版的《搞笑一家人》，故事以及人物设定基本与韩国原版相同，演员大部分来自大陆著名情景喜剧《[炊事班的故事](https://zh.wikipedia.org/wiki/炊事班的故事 "wikilink")》《[家有儿女](../Page/家有儿女.md "wikilink")》《[武林外传](../Page/武林外传.md "wikilink")》。总共40集\[9\],剧情则只进展到原版的一半。目前在大陆网络上由[芒果TV](https://zh.wikipedia.org/wiki/芒果TV "wikilink")、乐视TV播放。
+2011年获得韩国MBC电视台授权后，由高亚麟导演翻拍了中国大陆版的《搞笑一家人》，故事以及人物设定基本与韩国原版相同，演员大部分来自大陆著名情景喜剧《[炊事班的故事](https://zh.wikipedia.org/wiki/炊事班的故事 "wikilink")》《[家有儿女](../Page/家有儿女.md "wikilink")》《[武林外传](../Page/武林外传.md "wikilink")》。总共40集\[9\],剧情则只进展到原版的一半。目前在大陆网络上由[芒果TV](../Page/芒果TV.md "wikilink")、乐视TV播放。
 
 ### 演员对应
 
   - [高亚麟](../Page/高亚麟.md "wikilink")-李正勋（李俊河）
-  - [牛莉](https://zh.wikipedia.org/wiki/牛莉 "wikilink")-白梦（朴海美）
+  - [牛莉](../Page/牛莉.md "wikilink")-白梦（朴海美）
   - [白志迪](https://zh.wikipedia.org/wiki/白志迪 "wikilink")-李保泰（李顺才）
   - 宫景华-罗淑珍（罗文姬）
   - 侯凯-李正元（李民勇）

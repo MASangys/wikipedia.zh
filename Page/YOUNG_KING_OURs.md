@@ -42,7 +42,7 @@ King》的別冊。1997年起發行步調幾成月刊，於1998年7月號（第4
 
   - （）
 
-  - [我們大家的河合莊](https://zh.wikipedia.org/wiki/我們大家的河合莊 "wikilink")（[宮原琉璃](https://zh.wikipedia.org/wiki/宮原琉璃 "wikilink")）
+  - [我們大家的河合莊](../Page/我們大家的河合莊.md "wikilink")（[宮原琉璃](https://zh.wikipedia.org/wiki/宮原琉璃 "wikilink")）
 
 ## 過去連載作品
 
@@ -61,7 +61,7 @@ King》的別冊。1997年起發行步調幾成月刊，於1998年7月號（第4
   - [だいらんど](https://zh.wikipedia.org/wiki/だいらんど "wikilink")（[がぁさん](https://zh.wikipedia.org/wiki/がぁさん "wikilink")）
   - [アイ
     光と水のダフネ](https://zh.wikipedia.org/wiki/光與水的女神 "wikilink")（[NeSKeS](https://zh.wikipedia.org/wiki/NeSKeS "wikilink")（漫画：[士貴智志](https://zh.wikipedia.org/wiki/士貴智志 "wikilink")））
-  - [RAISE](https://zh.wikipedia.org/wiki/RAISE "wikilink")（[新谷薰](https://zh.wikipedia.org/wiki/新谷薰 "wikilink")）
+  - [RAISE](https://zh.wikipedia.org/wiki/RAISE "wikilink")（[新谷薰](../Page/新谷薰.md "wikilink")）
   - [平成COMPLEX](https://zh.wikipedia.org/wiki/平成COMPLEX "wikilink")（[小だまたけし](https://zh.wikipedia.org/wiki/小だまたけし "wikilink")）
   - [朝霧的巫女](../Page/朝霧的巫女.md "wikilink")（[宇河弘樹](https://zh.wikipedia.org/wiki/宇河弘樹 "wikilink")）
   - [アニメがお仕事\!](https://zh.wikipedia.org/wiki/アニメがお仕事! "wikilink")（[石田敦子](../Page/石田敦子.md "wikilink")）

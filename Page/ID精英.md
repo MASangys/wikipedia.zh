@@ -295,7 +295,7 @@ B隊主管<br />
 麥啟銘、韓永年之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
 <td><p>胡須發</p></td>
 <td><p><strong>Man</strong><br />
 入境事務處職員（B隊）<br />
@@ -453,7 +453,7 @@ Vincy之男友<br />
 鄭柏宇之下屬</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td><p>郭向勁</p></td>
 <td><p>西九龍重案組探員<br />
 鄭柏宇之下屬</p></td>
@@ -1131,7 +1131,7 @@ Vincy之男友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
 <td><p>威</p></td>
 <td></td>
 </tr>
@@ -1280,7 +1280,7 @@ Vincy之男友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/蕭凱欣" title="wikilink">蕭凱欣</a></p></td>
+<td><p><a href="../Page/蕭凱欣.md" title="wikilink">蕭凱欣</a></p></td>
 <td><p>陳淑衍</p></td>
 <td></td>
 </tr>
@@ -1325,7 +1325,7 @@ Vincy之男友<br />
 <td><p>Eddy</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/周沂" title="wikilink">周　沂</a></p></td>
+<td><p><a href="../Page/周沂.md" title="wikilink">周　沂</a></p></td>
 <td><p>老闆娘</p></td>
 <td></td>
 </tr>

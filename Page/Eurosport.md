@@ -26,7 +26,7 @@ Eurosport 頻道於同月開播。
 頻道，包括[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[意大利](../Page/意大利.md "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")、[北歐地區和](https://zh.wikipedia.org/wiki/北歐地區 "wikilink")[亞太地區](https://zh.wikipedia.org/wiki/亞太地區 "wikilink")。這些頻道提供了更廣泛的體育內容，包括當地的體育賽事，有時也會利用其他的泛歐洲影片來源。
 
 在亞太地區，Eurosport
-提供了一個特別頻道，中文名稱為「[歐洲體育頻道](../Page/歐洲體育頻道.md "wikilink")」，2009年11月15日開播。在[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")，[Foxtel](https://zh.wikipedia.org/wiki/Foxtel "wikilink")、[Austar和](https://zh.wikipedia.org/wiki/Austar "wikilink")[Optus的訂戶可以直接收看](https://zh.wikipedia.org/wiki/Optus "wikilink")。
+提供了一個特別頻道，中文名稱為「[歐洲體育頻道](../Page/歐洲體育頻道.md "wikilink")」，2009年11月15日開播。在[澳大利亞](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")，[Foxtel](https://zh.wikipedia.org/wiki/Foxtel "wikilink")、[Austar和](https://zh.wikipedia.org/wiki/Austar "wikilink")[Optus的訂戶可以直接收看](../Page/Optus.md "wikilink")。
 
 ## 其他頻道
 

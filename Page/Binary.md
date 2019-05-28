@@ -24,8 +24,8 @@
 
 ## 翻唱歌曲
 
-  - [黃碧蓮](../Page/黃碧蓮.md "wikilink")、[李雯希](https://zh.wikipedia.org/wiki/李雯希 "wikilink")
-    清唱 囍帖街 ABC TV國際電視台 Music 音樂節目 The Music Show。
+  - [黃碧蓮](../Page/黃碧蓮.md "wikilink")、[李雯希](../Page/李雯希.md "wikilink") 清唱
+    囍帖街 ABC TV國際電視台 Music 音樂節目 The Music Show。
 
 ## 相關獎項及提名
 

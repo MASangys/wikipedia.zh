@@ -188,7 +188,7 @@
 <td><p>29</p></td>
 <td><p>1982</p></td>
 <td><p>坂田荣男九段</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/杉内雅男" title="wikilink">杉内雅男九段</a></p></td>
+<td><p><a href="../Page/杉内雅男.md" title="wikilink">杉内雅男九段</a></p></td>
 </tr>
 <tr class="even">
 <td><p>30</p></td>

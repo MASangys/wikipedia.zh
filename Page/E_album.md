@@ -71,7 +71,7 @@ album](../Page/C_album.md "wikilink")』裡的「[不要停止的純真](https:/
 9.  **Love U4 Good**
       - 作曲：[松本良喜](https://zh.wikipedia.org/wiki/松本良喜 "wikilink")
       - 作詞：[double S](https://zh.wikipedia.org/wiki/double_S "wikilink")
-      - 編曲：[安部　潤](https://zh.wikipedia.org/wiki/安部潤 "wikilink")
+      - 編曲：[安部　潤](../Page/安部潤.md "wikilink")
       - 和音編排：知野芳彥
 10. **-so young blues-**
       - ※堂本光一自己作曲的獨唱作品。

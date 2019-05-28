@@ -59,7 +59,7 @@ Virtue)是[香港](../Page/香港.md "wikilink")[電視廣播有限公司](../Pa
   - [何禮男](../Page/何禮男.md "wikilink")
   - [梁　愛](https://zh.wikipedia.org/wiki/梁愛 "wikilink")
   - [駱應鈞](../Page/駱應鈞.md "wikilink")
-  - [黃敏儀](https://zh.wikipedia.org/wiki/黃敏儀 "wikilink")
+  - [黃敏儀](../Page/黃敏儀.md "wikilink")
   - [譚一清](../Page/譚一清.md "wikilink")
   - [佩　雲](../Page/佩雲.md "wikilink")
   - [陳淑宜](https://zh.wikipedia.org/wiki/陳淑宜 "wikilink")

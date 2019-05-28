@@ -50,7 +50,7 @@ II瞄準鏡，子彈口徑則為[7.62×51毫米NATO](../Page/7.62×51mm_NATO.md 
 
 英軍主要是今年度才使用AWSM供[皇家海軍或是陸軍於](https://zh.wikipedia.org/wiki/皇家海軍 "wikilink")[阿富汗](../Page/阿富汗.md "wikilink")、[伊拉克等地使用](../Page/伊拉克.md "wikilink")。
 
-[2009年11月](../Page/2009年11月.md "wikilink")，陆军中士[克雷格·哈里遜在阿富汗南部](https://zh.wikipedia.org/wiki/克雷格·哈里遜 "wikilink")[赫尔曼德省](../Page/赫尔曼德省.md "wikilink")[穆萨堡山区使用一支](../Page/穆萨堡.md "wikilink")**L115A3**在2,475米（8,120英尺）外射杀两名塔利班武装人员，创下世界远程狙击的新纪录\[1\]，至2017年6月才被加拿大狙擊手用[C15狙擊步槍以](../Page/TAC-50狙擊步槍.md "wikilink")3540米的距離打破。\[2\]。
+[2009年11月](../Page/2009年11月.md "wikilink")，陆军中士[克雷格·哈里遜在阿富汗南部](../Page/克雷格·哈里遜.md "wikilink")[赫尔曼德省](../Page/赫尔曼德省.md "wikilink")[穆萨堡山区使用一支](../Page/穆萨堡.md "wikilink")**L115A3**在2,475米（8,120英尺）外射杀两名塔利班武装人员，创下世界远程狙击的新纪录\[1\]，至2017年6月才被加拿大狙擊手用[C15狙擊步槍以](../Page/TAC-50狙擊步槍.md "wikilink")3540米的距離打破。\[2\]。
 
 ### 德國陸軍
 

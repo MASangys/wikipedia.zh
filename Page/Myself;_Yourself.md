@@ -77,7 +77,7 @@ Yourself**》是[日本遊戲公司](../Page/日本.md "wikilink")[Regista開發
 ### 製作人員
 
   - 企劃：松本慶明、鈴木徑男、志倉千代丸、渡邊正弘
-  - 系列構成、劇本：[雜破業](https://zh.wikipedia.org/wiki/雜破業 "wikilink")
+  - 系列構成、劇本：[雜破業](../Page/雜破業.md "wikilink")
   - 監督：QZo（黑田やすひろ）
   - 人物原案：[佐佐木睦美](../Page/佐佐木睦美_\(插畫家\).md "wikilink")
   - 人物設定：平塚知哉
@@ -85,7 +85,7 @@ Yourself**》是[日本遊戲公司](../Page/日本.md "wikilink")[Regista開發
   - 美術監督：高須賀真二
   - 色彩設計：石黒けい
   - 攝影監督：伊藤邦彥
-  - 音響監督：[濱野一三](https://zh.wikipedia.org/wiki/濱野一三 "wikilink")
+  - 音響監督：[濱野一三](../Page/濱野一三.md "wikilink")
   - 音樂：[5zizz](https://zh.wikipedia.org/wiki/5zizz "wikilink")
   - 音樂製作人：富士丸翔
   - 音樂指導：高井麗

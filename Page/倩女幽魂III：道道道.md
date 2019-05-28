@@ -66,7 +66,7 @@
 </tr>
 <tr class="odd">
 <td><p>最佳原創配樂</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戴樂民" title="wikilink">戴樂民</a></p></td>
+<td><p><a href="../Page/戴樂民.md" title="wikilink">戴樂民</a></p></td>
 <td></td>
 <td></td>
 <td></td>

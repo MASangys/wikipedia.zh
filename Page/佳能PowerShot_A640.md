@@ -17,7 +17,7 @@ A620](https://zh.wikipedia.org/wiki/Canon_PowerShot_A620 "wikilink")。
   - 2.5寸可旋转TFT液晶屏，分辨率11.5万象素
   - 快门：15～1/2500秒
   - [ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")：80/100/200/400/800
-  - 9点智能[对焦](https://zh.wikipedia.org/wiki/对焦 "wikilink")
+  - 9点智能[对焦](../Page/对焦.md "wikilink")
   - 有声短片记录（[Motion JPEG编码与单声道音频](../Page/Motion_JPEG.md "wikilink")）
   - 使用[SDHC卡](https://zh.wikipedia.org/wiki/SDHC卡 "wikilink")／[SD卡](../Page/SD卡.md "wikilink")／[MMC卡作为存储介质](https://zh.wikipedia.org/wiki/MMC卡 "wikilink")
   - 使用[DIGIC II数字处理芯片](https://zh.wikipedia.org/wiki/DIGIC "wikilink")

@@ -2,7 +2,7 @@
 
 ## 地理
 
-  - [南极洲的](https://zh.wikipedia.org/wiki/南极洲 "wikilink")[世界气象组织国家代码](../Page/世界气象组织.md "wikilink")
+  - [南极洲的](../Page/南极洲.md "wikilink")[世界气象组织国家代码](../Page/世界气象组织.md "wikilink")
   - [阿鲁巴的](https://zh.wikipedia.org/wiki/阿鲁巴 "wikilink")[FIPS国家代码](https://zh.wikipedia.org/wiki/FIPS "wikilink")
   - [阿河](../Page/阿河.md "wikilink")（Aa）是北欧不少小河的名称
 
@@ -25,7 +25,7 @@
   - [氨基酸](../Page/氨基酸.md "wikilink")（Amino
     acid），分子结构中含有氨基（-NH<sub>2</sub>）和羧基（-COOH）的有机化合物
   - [花生四烯酸](../Page/花生四烯酸.md "wikilink")（Arachidonic
-    acid），一種[二十碳四烯酸](https://zh.wikipedia.org/wiki/二十碳四烯酸 "wikilink")
+    acid），一種[二十碳四烯酸](../Page/二十碳四烯酸.md "wikilink")
   - [再生不良性貧血](../Page/再生不良性貧血.md "wikilink")（Aplastic
     anemia），是指骨髓未能生产足够或新的细胞来补充血液细胞的情况
   - [ASCII艺术](../Page/ASCII艺术.md "wikilink")（ASCII

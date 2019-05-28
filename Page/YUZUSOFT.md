@@ -4,7 +4,7 @@
 
 6名創業人Famishin、[小舞一](../Page/小舞一.md "wikilink")（）、[梦璃凛](../Page/梦璃凛.md "wikilink")（）、、煎路、，原本是[Visual
 Art's旗下](../Page/Visual_Art's.md "wikilink")[Studio
-Mebius的職員](https://zh.wikipedia.org/wiki/Studio_Mebius "wikilink")，曾參與《[SNOW](../Page/SNOW.md "wikilink")》的製作。但後來因不明原因而辭職，並成立同人社團「TEAM-EXODUS」，於2005年12月30日在[C69發售](../Page/Comic_Market.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《》。之後「TEAM-EXODUS」作為母體，以Famishin為代表人[法人化](../Page/法人.md "wikilink")，創立YUZUSOFT，並於2006年7月28日發售處女作《[Braban\!
+Mebius的職員](../Page/Studio_Mebius.md "wikilink")，曾參與《[SNOW](../Page/SNOW.md "wikilink")》的製作。但後來因不明原因而辭職，並成立同人社團「TEAM-EXODUS」，於2005年12月30日在[C69發售](../Page/Comic_Market.md "wikilink")[同人遊戲](../Page/同人遊戲.md "wikilink")《》。之後「TEAM-EXODUS」作為母體，以Famishin為代表人[法人化](../Page/法人.md "wikilink")，創立YUZUSOFT，並於2006年7月28日發售處女作《[Braban\!
 -The bonds of
 melody-](../Page/Braban!_-The_bonds_of_melody-.md "wikilink")》。
 
@@ -28,8 +28,7 @@ melody-](../Page/Braban!_-The_bonds_of_melody-.md "wikilink")》。
 
   - （2016年7月29日發售）
 
-  - [RIDDLE
-    JOKER](https://zh.wikipedia.org/wiki/RIDDLE_JOKER "wikilink")（2018年3月30日發售）
+  - [RIDDLE JOKER](../Page/RIDDLE_JOKER.md "wikilink")（2018年3月30日發售）
 
 ## 工作人員
 

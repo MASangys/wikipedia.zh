@@ -30,7 +30,7 @@ PowerShot 500系列里比较奇怪的一款机器，
   - 1.8寸TFT液晶屏，分辨率7.7万象素
   - 快门：15～1/2000秒
   - [ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")：80/100/200/400/800
-  - 9点智能[对焦](https://zh.wikipedia.org/wiki/对焦 "wikilink")
+  - 9点智能[对焦](../Page/对焦.md "wikilink")
   - 有声短片记录（[Motion JPEG编码与单声道音频](../Page/Motion_JPEG.md "wikilink")）
   - 使用[SD卡](../Page/SD卡.md "wikilink")／[MMC卡作为存储介质](https://zh.wikipedia.org/wiki/MMC卡 "wikilink")
   - 使用[DIGIC II数字处理芯片](https://zh.wikipedia.org/wiki/DIGIC "wikilink")

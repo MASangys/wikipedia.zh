@@ -21,7 +21,7 @@ DJ～小小的愛情故事**》（****）是一本[POPLAR社於](https://zh.wiki
 
   - （太郎的叔母，護士）：[村川繪梨](https://zh.wikipedia.org/wiki/村川繪梨 "wikilink")
 
-  - 中村捨次（與太郎同房的住院病人）：[松重豐](https://zh.wikipedia.org/wiki/松重豐 "wikilink")
+  - 中村捨次（與太郎同房的住院病人）：[松重豐](../Page/松重豐.md "wikilink")
 
   - 結城道夫（與太郎同房的住院病人）：[光石研](https://zh.wikipedia.org/wiki/光石研 "wikilink")
 

@@ -16,7 +16,7 @@ Yaoi作品主要採行[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")�
 
 ## 由來
 
-一般認為Yaoi的[語源出自女性向的動漫迷](https://zh.wikipedia.org/wiki/語源學 "wikilink")[同人誌](../Page/同人誌.md "wikilink")。受到1970年代登場，描繪少年同志戀愛的少女漫畫家[花之24年組](../Page/24年組.md "wikilink")（成員有[竹宮惠子](../Page/竹宮惠子.md "wikilink")、[萩尾望都](../Page/萩尾望都.md "wikilink")、[大島弓子](../Page/大島弓子.md "wikilink")、[山岸-{凉}-子等人](https://zh.wikipedia.org/wiki/山岸凉子 "wikilink")），以及《[宇宙戰艦大和號](../Page/宇宙戰艦大和號.md "wikilink")》等動畫風潮的影響，在少女之間也掀起了同人誌的風潮。這類作品多半只有四頁上下，內容粗製濫造寫完就扔，因此人們叫它「沒有高潮」、「沒有結尾」、「沒有意義」\[1\]。又因為內容涉及[少年愛](https://zh.wikipedia.org/wiki/少年愛 "wikilink")（當時稱之為「ホモ落ち」），「Yaoi」一詞成為1970年代少年愛的進化。
+一般認為Yaoi的[語源出自女性向的動漫迷](https://zh.wikipedia.org/wiki/語源學 "wikilink")[同人誌](../Page/同人誌.md "wikilink")。受到1970年代登場，描繪少年同志戀愛的少女漫畫家[花之24年組](../Page/24年組.md "wikilink")（成員有[竹宮惠子](../Page/竹宮惠子.md "wikilink")、[萩尾望都](../Page/萩尾望都.md "wikilink")、[大島弓子](../Page/大島弓子.md "wikilink")、[山岸-{凉}-子等人](https://zh.wikipedia.org/wiki/山岸凉子 "wikilink")），以及《[宇宙戰艦大和號](../Page/宇宙戰艦大和號.md "wikilink")》等動畫風潮的影響，在少女之間也掀起了同人誌的風潮。這類作品多半只有四頁上下，內容粗製濫造寫完就扔，因此人們叫它「沒有高潮」、「沒有結尾」、「沒有意義」\[1\]。又因為內容涉及[少年愛](../Page/少年愛.md "wikilink")（當時稱之為「ホモ落ち」），「Yaoi」一詞成為1970年代少年愛的進化。
 
 在此同時，也不得不談到早期建立思想體系的提倡者，小說家[森茉莉和](https://zh.wikipedia.org/wiki/森茉莉 "wikilink")[栗本薰](../Page/栗本薰.md "wikilink")（[中島梓](https://zh.wikipedia.org/wiki/中島梓 "wikilink")）等人。
 

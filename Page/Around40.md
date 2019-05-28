@@ -42,7 +42,7 @@
 ## 幕後人員
 
   - 制作人：[瀬戸口克陽](https://zh.wikipedia.org/wiki/瀬戸口克陽 "wikilink")、[高成麻畝子](https://zh.wikipedia.org/wiki/高成麻畝子 "wikilink")
-  - 編劇：[橋部敦子](https://zh.wikipedia.org/wiki/橋部敦子 "wikilink")
+  - 編劇：[橋部敦子](../Page/橋部敦子.md "wikilink")
   - 導演：[吉田健](https://zh.wikipedia.org/wiki/吉田健 "wikilink")
   - 音樂：[山下康介](../Page/山下康介.md "wikilink")
 

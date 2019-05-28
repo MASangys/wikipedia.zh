@@ -117,7 +117,7 @@ Style〉的連續10週一位紀錄打破。
   - 超級新人歌手[IU在](https://zh.wikipedia.org/wiki/IU_\(歌手\) "wikilink")[KBS
     2](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《－生存》唱出〈Gee〉Acoustic版本。\[28\]
 
-  - 、[張允瀞](https://zh.wikipedia.org/wiki/張允瀞 "wikilink")、[申奉仙在](../Page/申奉仙.md "wikilink")[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[黃金美女出擊](https://zh.wikipedia.org/wiki/星期天真好#黃金美女出擊 "wikilink")》中模仿〈Gee〉音樂錄影帶。\[29\]
+  - 、[張允瀞](../Page/張允瀞.md "wikilink")、[申奉仙在](../Page/申奉仙.md "wikilink")[SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[黃金美女出擊](https://zh.wikipedia.org/wiki/星期天真好#黃金美女出擊 "wikilink")》中模仿〈Gee〉音樂錄影帶。\[29\]
 
   - 演員[李水京在廣告中模仿](../Page/李水京.md "wikilink")〈Gee〉。\[30\]
 

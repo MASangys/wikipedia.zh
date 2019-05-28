@@ -176,7 +176,7 @@ Dingo及](https://zh.wikipedia.org/wiki/澳洲犬ATF "wikilink")[LKW
     MAG的改良型
   - [PK通用機槍](../Page/PK通用機槍.md "wikilink")－[蘇聯及](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[俄羅斯的通用機槍](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")
   - [SIG MG
-    710-3通用機槍](https://zh.wikipedia.org/wiki/SIG_MG_710-3通用機槍 "wikilink")－[瑞士的MG](https://zh.wikipedia.org/wiki/瑞士 "wikilink")42改裝版本，發射7.62
+    710-3通用機槍](../Page/SIG_MG_710-3通用機槍.md "wikilink")－[瑞士的MG](https://zh.wikipedia.org/wiki/瑞士 "wikilink")42改裝版本，發射7.62
     NATO口徑
 
 ## 参考來源及文献

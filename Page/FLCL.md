@@ -64,10 +64,10 @@ Mechanica工厂——三方的争斗中。而故事的潜在主题则是直太�
   - 原案·監督：[鶴巻和哉](https://zh.wikipedia.org/wiki/鶴巻和哉 "wikilink")
   - 腳本：[榎戶洋司](../Page/榎戶洋司.md "wikilink")
   - 人物設定、視覺概念：[貞本義行](https://zh.wikipedia.org/wiki/貞本義行 "wikilink")
-  - 作畫監督：[平松禎史](https://zh.wikipedia.org/wiki/平松禎史 "wikilink")、[今石洋之](../Page/今石洋之.md "wikilink")、[小倉陳利](https://zh.wikipedia.org/wiki/小倉陳利 "wikilink")
+  - 作畫監督：[平松禎史](../Page/平松禎史.md "wikilink")、[今石洋之](../Page/今石洋之.md "wikilink")、[小倉陳利](https://zh.wikipedia.org/wiki/小倉陳利 "wikilink")
   - 美術監督：[小倉宏昌](../Page/小倉宏昌.md "wikilink")
-  - 分鏡：[鶴巻和哉](https://zh.wikipedia.org/wiki/鶴巻和哉 "wikilink")、[平松禎史](https://zh.wikipedia.org/wiki/平松禎史 "wikilink")、[佐伯昭志](https://zh.wikipedia.org/wiki/佐伯昭志 "wikilink")、[摩砂雪](../Page/摩砂雪.md "wikilink")、[吉成曜](../Page/吉成曜.md "wikilink")、[今石洋之](../Page/今石洋之.md "wikilink")、小倉陳利
-  - 演出：佐伯昭志、[大塚雅彦](https://zh.wikipedia.org/wiki/大塚雅彦 "wikilink")、安藤健
+  - 分鏡：[鶴巻和哉](https://zh.wikipedia.org/wiki/鶴巻和哉 "wikilink")、[平松禎史](../Page/平松禎史.md "wikilink")、[佐伯昭志](https://zh.wikipedia.org/wiki/佐伯昭志 "wikilink")、[摩砂雪](../Page/摩砂雪.md "wikilink")、[吉成曜](../Page/吉成曜.md "wikilink")、[今石洋之](../Page/今石洋之.md "wikilink")、小倉陳利
+  - 演出：佐伯昭志、[大塚雅彦](../Page/大塚雅彦.md "wikilink")、安藤健
   - 色彩設計：高星晴美
   - 編輯：浅野真樹子
   - 音樂：[光宗信吉](../Page/光宗信吉.md "wikilink")、[the

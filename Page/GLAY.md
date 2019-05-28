@@ -318,7 +318,7 @@ CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></small></p></td>
 <tr class="odd">
 <td><p><small>44th</small></p></td>
 <td><p>2011年11月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/My_Private_&quot;Jealousy&quot;" title="wikilink">My Private "Jealousy"</a></p></td>
+<td><p><a href="../Page/My_Private_&quot;Jealousy&quot;.md" title="wikilink">My Private "Jealousy"</a></p></td>
 <td><p><small>12cmCD<br />
 CD+<a href="../Page/DVD-Video.md" title="wikilink">DVD</a></small></p></td>
 </tr>

@@ -1,6 +1,6 @@
 **doa**（ドーア，讀音：do-a），是[日本的三人搖滾樂團](../Page/日本.md "wikilink")，音樂理念為『Rock
 and
-3Vocal』。其成員包括[德永曉人](../Page/德永曉人.md "wikilink")、[大田紳一郎](https://zh.wikipedia.org/wiki/大田紳一郎 "wikilink")、。所屬唱片公司為[Being旗下的](../Page/Being_\(公司\).md "wikilink")[GIZA
+3Vocal』。其成員包括[德永曉人](../Page/德永曉人.md "wikilink")、[大田紳一郎](../Page/大田紳一郎.md "wikilink")、。所屬唱片公司為[Being旗下的](../Page/Being_\(公司\).md "wikilink")[GIZA
 studio](../Page/GIZA_studio.md "wikilink")，所屬事務所為。
 
 ## 成員資料
@@ -14,7 +14,7 @@ studio](../Page/GIZA_studio.md "wikilink")，所屬事務所為。
 
 <!-- end list -->
 
-  - [大田紳一郎](https://zh.wikipedia.org/wiki/大田紳一郎 "wikilink")（， - ）
+  - [大田紳一郎](../Page/大田紳一郎.md "wikilink")（， - ）
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@ studio](../Page/GIZA_studio.md "wikilink")，所屬事務所為。
 
 ## 簡介
 
-  - 2004年7月，憑借單曲《》出道。由[德永曉人](../Page/德永曉人.md "wikilink")、[大田紳一郎](https://zh.wikipedia.org/wiki/大田紳一郎 "wikilink")、[吉本大樹三人組成](https://zh.wikipedia.org/wiki/吉本大樹 "wikilink")。三個人共同擔任主唱、演奏、歌曲制作的工作。另外也參與自己的歌的宣傳影像的制作。
+  - 2004年7月，憑借單曲《》出道。由[德永曉人](../Page/德永曉人.md "wikilink")、[大田紳一郎](../Page/大田紳一郎.md "wikilink")、[吉本大樹三人組成](https://zh.wikipedia.org/wiki/吉本大樹 "wikilink")。三個人共同擔任主唱、演奏、歌曲制作的工作。另外也參與自己的歌的宣傳影像的制作。
   - 作曲和編曲全部由隊長的德永曉人擔任。doa的歌幾乎沒有Instrumental純音樂版本，第二主打必定會收錄吉本大樹用英語作詞的歌。唱聲則基本是1970年代以[老鷹樂隊](https://zh.wikipedia.org/wiki/老鷹樂隊 "wikilink")（[Eagles](../Page/鵰.md "wikilink")）、為代表的[西岸搖滾為主](https://zh.wikipedia.org/wiki/西岸搖滾 "wikilink")。
   - 時隔一年發表的第10張單曲《》在ORICON每日排行榜獲得初上榜第七位的記錄。在每日排行榜進入前十還是第一次。發表作品時的宣傳活動主要都是靠電台或是現場錄音等，出道後沒參加過音樂節目的演出，最近則在音樂節目《[Music
     Station](https://zh.wikipedia.org/wiki/Music_Station "wikilink")》里被介紹到，也陸續頻繁在其他媒體露面了。

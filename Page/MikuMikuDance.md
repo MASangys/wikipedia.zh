@@ -32,7 +32,7 @@ SDK」開發，所需[硬碟容量相當少](https://zh.wikipedia.org/wiki/硬�
 自從樋口優宣布退出開發後，由Mogg所開發的MikuMikuMoving便繼承遺志，被視為MikuMikuDance的後繼者\[9\]。目前更新速度頻繁，相較於MikuMikuDance有較多的新功能可使用，也支援最新的PMX2.1\[10\]與[SoftBody技術](https://zh.wikipedia.org/wiki/SoftBody "wikilink")。但起始操作介面較為複雜、小功能較多，對於新手較難入門。目前最新版本是2018年6月3日公開的1.2.9.2版。\[11\]
 
 2013年6月1日，樋口優重啟開發MikuMikuDance的作業：目前為止最新版本是為應對[Windows
-10系統](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，在2017年12月公開的9.31版。\[12\]
+10系統](../Page/Windows_10.md "wikilink")，在2017年12月公開的9.31版。\[12\]
 
 ## 軟體問題
 

@@ -6,7 +6,7 @@ SK的主营业务是在[能源和](../Page/能源.md "wikilink")[石油化工领
 
 ### 早期历史
 
-SK集团的历史可以追溯到1953年4月8日SK创始人[崔钟建在](https://zh.wikipedia.org/wiki/崔钟建 "wikilink")[朝鲜战争结束后从韩国政府购买的前](../Page/朝鲜战争.md "wikilink")[日占时期的纺织厂](../Page/朝鮮日治時期.md "wikilink")“鲜京织物”（现SK
+SK集团的历史可以追溯到1953年4月8日SK创始人[崔钟建在](../Page/崔钟建.md "wikilink")[朝鲜战争结束后从韩国政府购买的前](../Page/朝鲜战争.md "wikilink")[日占时期的纺织厂](../Page/朝鮮日治時期.md "wikilink")“鲜京织物”（现SK
 Networks）。起初的鲜京织物是朝鲜“鲜满绸缎”和日本东京“京都织物”的合资公司。崔钟建1944年进入鲜京织物担任见习技师。1950年，鲜京工厂遭到破坏，鲜京员工在他的带领下重建了新的鲜京织物，崔钟建出任董事长。
 
 朝鲜战争结束后，韩国政府将大批原日本企业卖给私人。崔钟建于是将鲜京织物买下，在履行了“归属财产”手续后，于1953年4月8日正式接管鲜京织物。当时的鲜京织物仅有几台纺织机。10年后，鲜京已经发展成为拥有千余台机器的韩国纺织业巨头，并开始向国际市场出口纤维产品。1962年8月，鲜京产业株式会社正式成立。1969年，鲜京开始生产聚酯原丝，完成从织物到原丝的飞跃。鲜京是韩国第一批醋酸纤维和聚酯纤维的生产者。
@@ -123,7 +123,7 @@ Global（贸易公司）1800亿韩圆巨额假账被曝光。同年6月13日，�
 <li><a href="https://zh.wikipedia.org/wiki/首尔SK骑士" title="wikilink">首尔SK骑士</a>（篮球）</li>
 </ul></td>
 <td><ul>
-<li><a href="https://zh.wikipedia.org/wiki/SK_Telecom_T1" title="wikilink">SK Telecom T1</a>（電子競技）</li>
+<li><a href="../Page/SK_Telecom_T1.md" title="wikilink">SK Telecom T1</a>（電子競技）</li>
 </ul></td>
 </tr>
 </tbody>

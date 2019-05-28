@@ -7,7 +7,7 @@ reaction）是由[羟醛反应和](../Page/羟醛反应.md "wikilink")
 1,3-二醇单酯。二醇单酯水解后得到二醇。
 
 以乙酰基三甲基硅烷\[1\]
-或[苯丙酮](https://zh.wikipedia.org/wiki/苯丙酮 "wikilink")\[2\]为原料时，反应后可得纯的[非对映体产物](https://zh.wikipedia.org/wiki/非对映体 "wikilink")。
+或[苯丙酮](../Page/苯丙酮.md "wikilink")\[2\]为原料时，反应后可得纯的[非对映体产物](https://zh.wikipedia.org/wiki/非对映体 "wikilink")。
 
 
 [Aldol-Tishchenko_reaction_1.png](https://zh.wikipedia.org/wiki/File:Aldol-Tishchenko_reaction_1.png "fig:Aldol-Tishchenko_reaction_1.png")

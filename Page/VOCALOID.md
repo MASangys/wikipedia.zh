@@ -41,7 +41,7 @@ Shaping」\[17\]。先採集人類聲音的標本，然後再製作歌聲[資料
 
 VOCALOID对中国大陆也产生了影响。在中国大陆，使用该软件的虚拟歌姬以[洛天依最为出名](../Page/洛天依.md "wikilink")，她由上海禾念信息科技有限公司和Bplats一同开发，于2012年7月发售，并曾于2016年在中国视频弹幕网站[Bilibili举办的线下活动Bilibili](../Page/Bilibili.md "wikilink")
 Macro
-Link上亮相，代表歌曲为《[权御天下](https://zh.wikipedia.org/wiki/权御天下 "wikilink")》等\[32\]，她也演唱过《[索尼大法好](../Page/索尼.md "wikilink")》等神曲。2013年，第二位使用中文的虚拟歌姬[言和横空出世](https://zh.wikipedia.org/wiki/言和 "wikilink")，代表作为[梦之雨等](https://zh.wikipedia.org/wiki/梦之雨 "wikilink")。华创文化有限公司代理销售的华语虚拟歌姬[心华声源来自](../Page/心華.md "wikilink")[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")，于2015年4月24日在日本首賣\[33\]；2015年6月27日在中國大陸首賣。
+Link上亮相，代表歌曲为《[权御天下](https://zh.wikipedia.org/wiki/权御天下 "wikilink")》等\[32\]，她也演唱过《[索尼大法好](../Page/索尼.md "wikilink")》等神曲。2013年，第二位使用中文的虚拟歌姬[言和横空出世](../Page/言和.md "wikilink")，代表作为[梦之雨等](https://zh.wikipedia.org/wiki/梦之雨 "wikilink")。华创文化有限公司代理销售的华语虚拟歌姬[心华声源来自](../Page/心華.md "wikilink")[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")，于2015年4月24日在日本首賣\[33\]；2015年6月27日在中國大陸首賣。
 
 ## 各種參數
 

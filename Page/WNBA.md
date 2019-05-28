@@ -165,7 +165,7 @@ Dallas Wings</p></td>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/拉斯維加斯王牌" title="wikilink">拉斯維加斯王牌</a></strong><br />
 Las Vegas Aces</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/內華達州" title="wikilink">內華達州</a><a href="https://zh.wikipedia.org/wiki/天堂市" title="wikilink">天堂市</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/內華達州" title="wikilink">內華達州</a><a href="../Page/天堂市.md" title="wikilink">天堂市</a></p></td>
 <td><p>紅、白</p></td>
 <td></td>
 <td><p>1997</p></td>

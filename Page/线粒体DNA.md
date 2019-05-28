@@ -22,7 +22,7 @@
 
 ## 粒線體遺傳
 
-對動物而言，[受精卵中的mtDNA主要遺傳自母親](../Page/受精卵.md "wikilink")；而對[植物來說略有變異](../Page/植物.md "wikilink")，但仍然以母系遺傳為主；[真菌則源自雙親](https://zh.wikipedia.org/wiki/真菌 "wikilink")。
+對動物而言，[受精卵中的mtDNA主要遺傳自母親](../Page/受精卵.md "wikilink")；而對[植物來說略有變異](../Page/植物.md "wikilink")，但仍然以母系遺傳為主；[真菌則源自雙親](../Page/真菌.md "wikilink")。
 
 ### 雌性遺傳
 

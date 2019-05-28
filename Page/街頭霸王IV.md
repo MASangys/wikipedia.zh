@@ -150,7 +150,7 @@ E. Honda (Edomondo Honda)<br />
 <strong>意譯</strong>：</p></td>
 <td><p><small><sup></sup>Ｅ·本田（埃德蒙·本田）</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/永野善一" title="wikilink">永野善一</a></p></td>
+<td><p><small><sup></sup><a href="../Page/永野善一.md" title="wikilink">永野善一</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -361,7 +361,7 @@ Gōki<br />
 <strong>意譯</strong>：豪鬼／惡魔</p></td>
 <td><p><small><sup></sup>豪鬼</p></td>
 <td><p>[27]</p></td>
-<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/武虎" title="wikilink">武虎</a></p></td>
+<td><p><small><sup></sup><a href="../Page/武虎.md" title="wikilink">武虎</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -772,7 +772,7 @@ Oni (Kuruoshiki Oni)<br />
 <strong>意譯</strong>:</p></td>
 <td><p><small><sup></sup>狂鬼[37]</p></td>
 <td></td>
-<td><p><small><sup></sup><a href="https://zh.wikipedia.org/wiki/武虎" title="wikilink">武虎</a></p></td>
+<td><p><small><sup></sup><a href="../Page/武虎.md" title="wikilink">武虎</a></p></td>
 <td></td>
 <td></td>
 <td></td>

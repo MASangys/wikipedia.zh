@@ -251,10 +251,9 @@ AKABEiSOFT2的前身是創作[同人誌及](../Page/同人誌.md "wikilink")[同
   - 2013年4月26日 - [LOVELY×CATION2](../Page/LOVELY×CATION2.md "wikilink")
   - 2014年4月25日 - [PRETTY×CATION](../Page/PRETTY×CATION.md "wikilink")
   - 2015年4月24日 - [PRETTY×CATION2](../Page/PRETTY×CATION2.md "wikilink")
-  - 2016年4月29日 -
-    [PURELY×CATION](https://zh.wikipedia.org/wiki/PURELY×CATION "wikilink")
+  - 2016年4月29日 - [PURELY×CATION](../Page/PURELY×CATION.md "wikilink")
   - 2017年4月28日 -
-    [新妻LOVELY×CATION](https://zh.wikipedia.org/wiki/新妻LOVELY×CATION "wikilink")
+    [新妻LOVELY×CATION](../Page/新妻LOVELY×CATION.md "wikilink")
   - 2017年12月22日 -
   - 2018年4月27日 -
 

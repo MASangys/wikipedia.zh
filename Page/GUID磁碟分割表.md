@@ -11,7 +11,7 @@ X和Windows在内的一些仅支持在EFI基础上自GPT分区启动，见[\#操
 
 ## 特点
 
-在MBR硬盘中，分区信息直接存储于[主引导记录](../Page/主引导记录.md "wikilink")（MBR）中（主引导记录中还存储着系统的[引导程序](https://zh.wikipedia.org/wiki/引导程序 "wikilink")）。但在GPT硬盘中，分区表的位置信息储存在GPT头中。但出于[兼容性考虑](https://zh.wikipedia.org/wiki/兼容性 "wikilink")，硬盘的第一个扇区仍然用作MBR，之后才是GPT头。
+在MBR硬盘中，分区信息直接存储于[主引导记录](../Page/主引导记录.md "wikilink")（MBR）中（主引导记录中还存储着系统的[引导程序](https://zh.wikipedia.org/wiki/引导程序 "wikilink")）。但在GPT硬盘中，分区表的位置信息储存在GPT头中。但出于[兼容性考虑](../Page/兼容性.md "wikilink")，硬盘的第一个扇区仍然用作MBR，之后才是GPT头。
 
 跟现代的MBR一样，GPT也使用[逻辑区块位址](https://zh.wikipedia.org/wiki/逻辑区块位址 "wikilink")（LBA）取代了早期的[CHS寻址方式](https://zh.wikipedia.org/wiki/柱面-磁头-扇区 "wikilink")。传统MBR信息存储于LBA
 0，GPT头存储于LBA
@@ -118,7 +118,7 @@ GPT分区表项的格式
 <td><p>只有搭载因特尔芯片的计算机支持GPT启动。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/MidnightBSD" title="wikilink">MidnightBSD</a></p></td>
+<td><p><a href="../Page/MidnightBSD.md" title="wikilink">MidnightBSD</a></p></td>
 <td><p>0.4-CURRENT以后</p></td>
 <td><p>IA-32、x86-64</p></td>
 <td></td>
@@ -224,7 +224,7 @@ GPT分区表项的格式
 <td><p>在MBR/GPT混合硬盘中优先使用MBR。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 <td><p>2015-07-29</p></td>
 <td><p>IA-32</p></td>
 <td></td>
@@ -324,7 +324,7 @@ GPT分区表项的格式
 <td><p>在MBR/GPT混合硬盘中优先使用MBR。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 <td><p>2015-07-29</p></td>
 <td><p>x64</p></td>
 <td></td>

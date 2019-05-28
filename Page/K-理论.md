@@ -9,7 +9,7 @@
 
 如果\(X\)是一个光滑簇，两个群是相同的。
 
-在拓扑学中，我们对[向量丛有类似的和构造](../Page/向量丛.md "wikilink")。[迈克尔·阿蒂亚与](../Page/迈克尔·阿蒂亚.md "wikilink")[弗里德里希·希策布鲁赫在](https://zh.wikipedia.org/wiki/弗里德里希·希策布鲁赫 "wikilink")1959年使用格罗腾迪格群构造来定义[拓扑空间](../Page/拓扑空间.md "wikilink")\(X\)的\(K(X)\)（两个构造一致）。这是在[代数拓扑中发现的第一个](../Page/代数拓扑.md "wikilink")[奇异上同调理论的基础](https://zh.wikipedia.org/wiki/奇异上同调理论 "wikilink")。它在[指标定理的第二证明中起了巨大的作用](https://zh.wikipedia.org/wiki/阿蒂亚-辛格指标定理 "wikilink")。此外，这种途径导向了[C\*-代数的](../Page/C*-代数.md "wikilink")[非交换](https://zh.wikipedia.org/wiki/非交换拓扑 "wikilink")\(K\)-理论。
+在拓扑学中，我们对[向量丛有类似的和构造](../Page/向量丛.md "wikilink")。[迈克尔·阿蒂亚与](../Page/迈克尔·阿蒂亚.md "wikilink")[弗里德里希·希策布鲁赫在](../Page/弗里德里希·希策布鲁赫.md "wikilink")1959年使用格罗腾迪格群构造来定义[拓扑空间](../Page/拓扑空间.md "wikilink")\(X\)的\(K(X)\)（两个构造一致）。这是在[代数拓扑中发现的第一个](../Page/代数拓扑.md "wikilink")[奇异上同调理论的基础](https://zh.wikipedia.org/wiki/奇异上同调理论 "wikilink")。它在[指标定理的第二证明中起了巨大的作用](https://zh.wikipedia.org/wiki/阿蒂亚-辛格指标定理 "wikilink")。此外，这种途径导向了[C\*-代数的](../Page/C*-代数.md "wikilink")[非交换](https://zh.wikipedia.org/wiki/非交换拓扑 "wikilink")\(K\)-理论。
 
 在1955年，[让-皮埃尔·塞尔已经用具有](https://zh.wikipedia.org/wiki/让-皮埃尔·塞尔 "wikilink")[投射模](../Page/投射模.md "wikilink")[向量丛的类似物来表述](../Page/向量丛.md "wikilink")，该猜想声称一个域上[多项式环上的投射模是](https://zh.wikipedia.org/wiki/多项式 "wikilink")[自由模](https://zh.wikipedia.org/wiki/自由模 "wikilink")；这个论断是正确的，但直到20年后才解决（是这个类比的另一方面）。1959年，塞尔给出了环的格罗腾迪克群构造，用它来证明投射模是稳定自由的。这个应用是[代数K理论之开端](https://zh.wikipedia.org/wiki/代数K理论 "wikilink")。
 

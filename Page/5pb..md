@@ -21,7 +21,7 @@
   - [柴田太郎](https://zh.wikipedia.org/wiki/柴田太郎 "wikilink")
   - [盛政樹](https://zh.wikipedia.org/wiki/盛政樹 "wikilink")
   - [阿保剛](../Page/阿保剛.md "wikilink")
-  - [亞咲花](https://zh.wikipedia.org/wiki/亞咲花 "wikilink")
+  - [亞咲花](../Page/亞咲花.md "wikilink")
 
 ## 遊戲作品
 

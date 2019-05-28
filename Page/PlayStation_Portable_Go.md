@@ -80,7 +80,7 @@ ISO Loader自製程序，故現階段在網路上已經可以看到關於PSP Go�
   - [MP3](../Page/MP3.md "wikilink")
       - MP3（MPEG-1/2 Audio Layer3）
   - [MP4](../Page/MP4.md "wikilink")（MPEG-4 AAC）
-  - [WAVE](https://zh.wikipedia.org/wiki/WAVE "wikilink")（Linear PCM）
+  - [WAVE](../Page/WAVE.md "wikilink")（Linear PCM）
   - [WMA](https://zh.wikipedia.org/wiki/WMA "wikilink")（Windows MediaR
     Audio 9 Standard）
 

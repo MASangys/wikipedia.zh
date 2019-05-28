@@ -36,8 +36,7 @@ M43彈敏感）。所以一些新生產的彈匣對這個設計進行了修改�
   - [LWRC M6](../Page/LWRC_M6突擊步槍.md "wikilink")
   - [MSSR](../Page/海軍陸戰隊偵察狙擊步槍.md "wikilink")
   - [特種作戰突擊步槍](../Page/特種作戰突擊步槍.md "wikilink")
-  - [SIG
-    516半自動步槍](https://zh.wikipedia.org/wiki/SIG_SG_516突擊步槍 "wikilink")
+  - [SIG 516半自動步槍](../Page/SIG_SG_516突擊步槍.md "wikilink")
   - [SIG SG 556半自動步槍](../Page/SIG_SG_556突擊步槍.md "wikilink")
   - [SIG M400半自動步槍](../Page/SIG_M400突擊步槍.md "wikilink")
   - [SPR](../Page/Mk_12特別用途步槍.md "wikilink")
@@ -71,7 +70,7 @@ M43彈敏感）。所以一些新生產的彈匣對這個設計進行了修改�
   - [HK G41](../Page/HK_G41突擊步槍.md "wikilink")
   - [IMBEL MD2](../Page/IMBEL_MD突擊步槍.md "wikilink")
   - [IMBEL MD97](../Page/IMBEL_MD97突擊步槍.md "wikilink")
-  - [IMBEL IA2](https://zh.wikipedia.org/wiki/IMBEL_IA2突擊步槍 "wikilink")
+  - [IMBEL IA2](../Page/IMBEL_IA2突擊步槍.md "wikilink")
   - [IMI Tavor TAR-21](../Page/IMI_TAR-21突擊步槍.md "wikilink")
   - [IWI加利爾ACE 21 N、22 N、23 N](../Page/IWI加利爾ACE突擊步槍.md "wikilink")
   - [IWI塔沃爾X95、X95-L](../Page/IWI塔沃爾X95突擊步槍.md "wikilink")

@@ -1,11 +1,11 @@
 **伯奈利M1（Super
-90）**（）是一枝由[意大利槍械製造商](../Page/意大利.md "wikilink")[伯奈利所設計及生產的](https://zh.wikipedia.org/wiki/伯奈利 "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑或20鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
+90）**（）是一枝由[意大利槍械製造商](../Page/意大利.md "wikilink")[伯奈利所設計及生產的](../Page/伯奈利.md "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑或20鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 ## 簡介
 
 伯奈利M1是可得軍方、執法單位、民用三方所接受的霰彈槍，其最大特徵是伯奈利[专利的](../Page/专利.md "wikilink")[後座作用系統](../Page/後座作用.md "wikilink")—慣性後坐，有著高度可靠性和容易的維護的優點，惟其慣性後坐系統的設計問題，伯奈利M1需要大量高壓火藥燃氣以確保其循環正常。
 
-標準型伯奈利M1的特徵是使用了[鋁合金製造](../Page/鋁合金.md "wikilink")、[管式彈倉和可轉換標準](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")[手握式槍托或](https://zh.wikipedia.org/wiki/手握式槍托 "wikilink")[槍托](../Page/槍托.md "wikilink")。伯奈利M1適合使用傳統的缺口式機械照門或[鬼環式照門](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")，另外亦可安裝[雷射瞄準器或](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[戰術燈等戰術配件](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")。
+標準型伯奈利M1的特徵是使用了[鋁合金製造](../Page/鋁合金.md "wikilink")、[管式彈倉和可轉換標準](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")[手握式槍托或](https://zh.wikipedia.org/wiki/手握式槍托 "wikilink")[槍托](../Page/槍托.md "wikilink")。伯奈利M1適合使用傳統的缺口式機械照門或[鬼環式照門](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")，另外亦可安裝[雷射瞄準器或](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[戰術燈等戰術配件](../Page/戰術燈.md "wikilink")。
 
 ## 流行文化
 
@@ -41,7 +41,7 @@
 
 ## 參見
 
-  - [伯奈利](https://zh.wikipedia.org/wiki/伯奈利 "wikilink")
+  - [伯奈利](../Page/伯奈利.md "wikilink")
   - [伯奈利M2](../Page/伯奈利M2_Super_90半自動霰彈槍.md "wikilink")，本槍的升級型。
   - [伯奈利M3](../Page/伯奈利M3_Super_90霰彈槍.md "wikilink")，本槍的改進型，可選擇半自動或泵動運作。
   - [伯奈利M4](../Page/伯奈利M4_Super_90半自動霰彈槍.md "wikilink")，本槍的後繼槍，被美軍採用並命名為**M1014戰鬥霰彈槍**。

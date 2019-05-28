@@ -8,7 +8,7 @@ Award**，又称**金球奖终身成就奖**）是[金球奖中为了表彰终�
   - 1954年：[戴瑞·F·柴納克](https://zh.wikipedia.org/wiki/戴瑞·F·柴納克 "wikilink")
   - 1955年：[吉恩·赫蕭特](https://zh.wikipedia.org/wiki/吉恩·赫蕭特 "wikilink")
   - 1956年：[杰克·华纳](../Page/杰克·华纳.md "wikilink")
-  - 1957年：[茂文·李洛埃](https://zh.wikipedia.org/wiki/茂文·李洛埃 "wikilink")
+  - 1957年：[茂文·李洛埃](../Page/茂文·李洛埃.md "wikilink")
   - 1958年：[Buddy
     Adler](https://zh.wikipedia.org/wiki/:en:Buddy_Adler "wikilink")
   - 1959年：[莫里斯·切瓦力亚](../Page/莫里斯·切瓦力亚.md "wikilink")

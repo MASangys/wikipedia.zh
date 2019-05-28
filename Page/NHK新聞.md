@@ -180,8 +180,7 @@
   - [視點 論點](https://zh.wikipedia.org/wiki/視點_論點 "wikilink")（）
   - [明日閱讀](https://zh.wikipedia.org/wiki/明日閱讀 "wikilink")（）
   - [時事公論](https://zh.wikipedia.org/wiki/時事公論 "wikilink")（）
-  - [NHK
-    NEWSLINE](https://zh.wikipedia.org/wiki/NHK_NEWSLINE "wikilink")（）
+  - [NHK NEWSLINE](../Page/NHK_NEWSLINE.md "wikilink")（）
   - [NHK雜誌](https://zh.wikipedia.org/wiki/NHK雜誌 "wikilink")（）
   - [NHK新聞週刊](https://zh.wikipedia.org/wiki/NHK新聞週刊 "wikilink")（）
   - [NHK手語新聞](https://zh.wikipedia.org/wiki/NHK手語新聞 "wikilink")（）

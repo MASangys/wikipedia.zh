@@ -1,10 +1,9 @@
 **AKB48**是[日本大型](../Page/日本.md "wikilink")[女子](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，成立於2005年12月8日，由作詞家[秋元康擔任總](../Page/秋元康.md "wikilink")[製作人](https://zh.wikipedia.org/wiki/製作人 "wikilink")。其團名取自[東京的](https://zh.wikipedia.org/wiki/東京 "wikilink")[秋葉原](../Page/秋葉原.md "wikilink")（[日語羅馬字](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")**Ak**iha**b**ara的[縮寫](../Page/縮寫.md "wikilink")），於此地擁有[專屬表演劇場](../Page/AKB48劇場.md "wikilink")，以「可以面對面的偶像」\[1\]為理念，幾乎每天在劇場進行[公演](../Page/AKB48劇場公演.md "wikilink")。[成員人數經過多次增減](../Page/AKB48成員列表.md "wikilink")，目前有百人以上規模；另整個團體下分為5個分隊、以及研究生隊伍，主要做為輪流進行劇場公演的分組之用。AKB48於2013年3月，獲[吉尼斯世界纪录認證為世界上最多成員的流行團體](../Page/吉尼斯世界纪录.md "wikilink")。
 
 AKB48於2006年在主流樂壇[出道](https://zh.wikipedia.org/wiki/出道 "wikilink")，當時隸屬[DefSTAR
-Records](../Page/DefSTAR_Records.md "wikilink")，2008年轉投[國王唱片旗下並加入](../Page/國王唱片.md "wikilink")[AKS製作後](../Page/AKS.md "wikilink")，運營團隊的營銷策略奏效，數年間[作品銷量與](../Page/AKB48歌曲列表.md "wikilink")[知名度大幅上升](https://zh.wikipedia.org/wiki/知名度 "wikilink")，逐漸在日本締造出巨大人氣，聲名也傳達至日本境外。繼AKB48後，秋元康以相近模式陸續於日本其他都市與海外成立[SKE48](../Page/SKE48.md "wikilink")、[SDN48](../Page/SDN48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")、[HKT48](../Page/HKT48.md "wikilink")、[NGT48](../Page/NGT48.md "wikilink")、[STU48](https://zh.wikipedia.org/wiki/STU48 "wikilink")、[JKT48](../Page/JKT48.md "wikilink")、[BNK48](../Page/BNK48.md "wikilink")、[MNL48](https://zh.wikipedia.org/wiki/MNL48 "wikilink")、[AKB48
-Team SH](https://zh.wikipedia.org/wiki/AKB48_Team_SH "wikilink")、[AKB48
-Team
-TP](../Page/AKB48_Team_TP.md "wikilink")、[SGO48](https://zh.wikipedia.org/wiki/SGO48 "wikilink")、[MUM48等姊妹組合](https://zh.wikipedia.org/wiki/MUM48 "wikilink")，朝不同市場發展。2013年5月，AKB48成為日本史上[單曲銷量最高的女性歌手](https://zh.wikipedia.org/wiki/單曲 "wikilink")；2014年2月，在日本的CD總銷量突破3,000萬張。2016年9月，其日本國內的CD總銷量突破4,000萬張\[2\]。
+Records](../Page/DefSTAR_Records.md "wikilink")，2008年轉投[國王唱片旗下並加入](../Page/國王唱片.md "wikilink")[AKS製作後](../Page/AKS.md "wikilink")，運營團隊的營銷策略奏效，數年間[作品銷量與](../Page/AKB48歌曲列表.md "wikilink")[知名度大幅上升](https://zh.wikipedia.org/wiki/知名度 "wikilink")，逐漸在日本締造出巨大人氣，聲名也傳達至日本境外。繼AKB48後，秋元康以相近模式陸續於日本其他都市與海外成立[SKE48](../Page/SKE48.md "wikilink")、[SDN48](../Page/SDN48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")、[HKT48](../Page/HKT48.md "wikilink")、[NGT48](../Page/NGT48.md "wikilink")、[STU48](../Page/STU48.md "wikilink")、[JKT48](../Page/JKT48.md "wikilink")、[BNK48](../Page/BNK48.md "wikilink")、[MNL48](https://zh.wikipedia.org/wiki/MNL48 "wikilink")、[AKB48
+Team SH](../Page/AKB48_Team_SH.md "wikilink")、[AKB48 Team
+TP](../Page/AKB48_Team_TP.md "wikilink")、[SGO48](../Page/SGO48.md "wikilink")、[MUM48等姊妹組合](../Page/MUM48.md "wikilink")，朝不同市場發展。2013年5月，AKB48成為日本史上[單曲銷量最高的女性歌手](https://zh.wikipedia.org/wiki/單曲 "wikilink")；2014年2月，在日本的CD總銷量突破3,000萬張。2016年9月，其日本國內的CD總銷量突破4,000萬張\[2\]。
 
 ## 簡介
 
@@ -60,14 +59,14 @@ SHOP」，販售AKB48的相關商品。現任AKB48劇場經理是[細井孝宏](
 [AKB48_Taiwan_01.jpg](https://zh.wikipedia.org/wiki/File:AKB48_Taiwan_01.jpg "fig:AKB48_Taiwan_01.jpg")[中山地下街開設的官方商店](../Page/中山地下街.md "wikilink")，已在2015年時歇業。\]\]
 AKB48除了自己本身，還有不少運營模式相近的姊妹組合。組合名稱以「○○○48」為模板，多以地方名稱的英文縮寫來命名。
 
-2008年夏天，AKB48首支姊妹團體，以[名古屋市](../Page/名古屋市.md "wikilink")[榮為據點](../Page/榮_\(名古屋市\).md "wikilink")、以[東海地方為主要活動範圍的](../Page/東海地方.md "wikilink")[SKE48成立](../Page/SKE48.md "wikilink")。2009年夏天，第二個以AKB48劇場為根據地的姊妹組合[SDN48成立](../Page/SDN48.md "wikilink")，組合成員都是20歲以上，但全體成員於2012年3月31日畢業、團體也隨之解散。其後，其他姊妹團體亦慢慢成立起來，包括2010年秋天於[大阪市](../Page/大阪市.md "wikilink")[難波成立](../Page/難波.md "wikilink")、主要於[關西地區活動的](https://zh.wikipedia.org/wiki/關西地區 "wikilink")[NMB48](../Page/NMB48.md "wikilink")，和2011年秋天以[九州作為主要活動範圍](../Page/九州_\(日本\).md "wikilink")、於[福岡市](../Page/福岡市.md "wikilink")[博多成立的](https://zh.wikipedia.org/wiki/博多 "wikilink")[HKT48](../Page/HKT48.md "wikilink")，以及在2015年8月21日進行首次登台表演、以[北陸地方主要城市](../Page/北陸地方.md "wikilink")[新潟市为據點的](../Page/新潟市.md "wikilink")[NGT48](../Page/NGT48.md "wikilink")。2017年夏天，以[瀨戶內海周圍](../Page/瀨戶內海.md "wikilink")7縣為據點，劇場設於船上的[STU48正式成立](https://zh.wikipedia.org/wiki/STU48 "wikilink")，此團成為AKB48在日本的第6個姐妹團體。
+2008年夏天，AKB48首支姊妹團體，以[名古屋市](../Page/名古屋市.md "wikilink")[榮為據點](../Page/榮_\(名古屋市\).md "wikilink")、以[東海地方為主要活動範圍的](../Page/東海地方.md "wikilink")[SKE48成立](../Page/SKE48.md "wikilink")。2009年夏天，第二個以AKB48劇場為根據地的姊妹組合[SDN48成立](../Page/SDN48.md "wikilink")，組合成員都是20歲以上，但全體成員於2012年3月31日畢業、團體也隨之解散。其後，其他姊妹團體亦慢慢成立起來，包括2010年秋天於[大阪市](../Page/大阪市.md "wikilink")[難波成立](../Page/難波.md "wikilink")、主要於[關西地區活動的](https://zh.wikipedia.org/wiki/關西地區 "wikilink")[NMB48](../Page/NMB48.md "wikilink")，和2011年秋天以[九州作為主要活動範圍](../Page/九州_\(日本\).md "wikilink")、於[福岡市](../Page/福岡市.md "wikilink")[博多成立的](https://zh.wikipedia.org/wiki/博多 "wikilink")[HKT48](../Page/HKT48.md "wikilink")，以及在2015年8月21日進行首次登台表演、以[北陸地方主要城市](../Page/北陸地方.md "wikilink")[新潟市为據點的](../Page/新潟市.md "wikilink")[NGT48](../Page/NGT48.md "wikilink")。2017年夏天，以[瀨戶內海周圍](../Page/瀨戶內海.md "wikilink")7縣為據點，劇場設於船上的[STU48正式成立](../Page/STU48.md "wikilink")，此團成為AKB48在日本的第6個姐妹團體。
 
 除了日本國內，AKB48在國外城市都有姊妹組合，即是將上述運營模式的構思與特色作爲知識産權進行模式販賣，將其模式在世界各地推廣，例如一個可行的構思就是組成如紐約48、巴黎48這樣由當地人選拔組成的特別授權隊（franchise
 team），最後再從世界各地的「48」模式隊伍中選出「世界48」\[11\]。目前已於國外成立的姊妹組合有2011年於[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")[雅加達成立的](https://zh.wikipedia.org/wiki/雅加達 "wikilink")[JKT48](../Page/JKT48.md "wikilink")，2012年在[中國](../Page/中國.md "wikilink")[上海成立的](https://zh.wikipedia.org/wiki/上海 "wikilink")[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")（於2016年6月除名），2017年在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷成立的](../Page/曼谷.md "wikilink")[BNK48](../Page/BNK48.md "wikilink")，2018年在[台北成立的](https://zh.wikipedia.org/wiki/台北 "wikilink")[TPE48](https://zh.wikipedia.org/wiki/TPE48 "wikilink")（7月30日起改組為[AKB48
 Team
 TP](../Page/AKB48_Team_TP.md "wikilink")）\[12\]及在[菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")[馬尼拉成立的](https://zh.wikipedia.org/wiki/馬尼拉 "wikilink")[MNL48](https://zh.wikipedia.org/wiki/MNL48 "wikilink")。2017年10月26日宣布在中國上海成立[AKB48
 Team
-SH](https://zh.wikipedia.org/wiki/AKB48_Team_SH "wikilink")\[13\]，年底亦公布在[印度](../Page/印度.md "wikilink")[孟買成立](https://zh.wikipedia.org/wiki/孟買 "wikilink")[MUM48的訊息](https://zh.wikipedia.org/wiki/MUM48 "wikilink")\[14\]，两團的甄選活動正在進行中\[15\]。2018年6月21日宣布在[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")[胡志明市成立](../Page/胡志明市.md "wikilink")[SGO48](https://zh.wikipedia.org/wiki/SGO48 "wikilink")。
+SH](../Page/AKB48_Team_SH.md "wikilink")\[13\]，年底亦公布在[印度](../Page/印度.md "wikilink")[孟買成立](https://zh.wikipedia.org/wiki/孟買 "wikilink")[MUM48的訊息](../Page/MUM48.md "wikilink")\[14\]，两團的甄選活動正在進行中\[15\]。2018年6月21日宣布在[越南](https://zh.wikipedia.org/wiki/越南 "wikilink")[胡志明市成立](../Page/胡志明市.md "wikilink")[SGO48](../Page/SGO48.md "wikilink")。
 
 包括AKB48與上述日本各地及海外的姊妹團體所形成、總成員數超過350人的龐大群體，經常被合稱為「**[AKB48集團](../Page/AKB48集團.md "wikilink")**」（AKB48
 Group）或簡稱「**48集團**」。除非特別說明是AKB48單獨演出，一般而言包括AKB的唱片作品、冠名電視節目、演唱會乃至於單曲選拔總選舉，都是以48集團的名義、由日本國內的各姊妹團體成員們共同參與。
@@ -79,7 +78,7 @@ Hour）中客座登台表演，以及同年5月時，因為[第2張單曲與當�
 2號館](../Page/HaKaTa百貨店.md "wikilink")》中擔任特別來賓）、合開冠名節目（《[乃木坂46×HKT48
 冠名節目對決！](../Page/乃木坂46×HKT48_冠名節目對決！.md "wikilink")》，2013年秋季），另外像是在《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》等AKB48的電視節目之新作品介紹的單元中，也會比照其他姊妹團體般將乃木坂46的新單曲納入介紹，而[NHK的](https://zh.wikipedia.org/wiki/NHK "wikilink")《[AKB48
 SHOW\!](../Page/AKB48_SHOW!.md "wikilink")》則甚至出現完全由乃木坂46替代演出的《乃木坂46
-SHOW\!》特集。2014年2月24日，AKB48集團在東京台場的舉辦稱為「[AKB48集團大組閣祭](https://zh.wikipedia.org/wiki/AKB48集團大組閣祭 "wikilink")」的公開活動，在該活動中突然宣佈乃木坂46將與AKB48集團進行成員交流，由乃木坂46的生駒里奈至AKB48擔任兼任成員，而SKE48的[松井玲奈則至乃木坂](../Page/松井玲奈.md "wikilink")46兼任，雙方合作交流的程度更勝以往。
+SHOW\!》特集。2014年2月24日，AKB48集團在東京台場的舉辦稱為「[AKB48集團大組閣祭](../Page/AKB48集團大組閣祭.md "wikilink")」的公開活動，在該活動中突然宣佈乃木坂46將與AKB48集團進行成員交流，由乃木坂46的生駒里奈至AKB48擔任兼任成員，而SKE48的[松井玲奈則至乃木坂](../Page/松井玲奈.md "wikilink")46兼任，雙方合作交流的程度更勝以往。
 
 ### 慈善活動
 
@@ -144,7 +143,7 @@ in TOKYO DOME 〜1830m之夢〜」演唱會第一天的活動結束前，宣布�
 ##### Team A
 
 2018年4月2日起，新編制的Team
-A經常會冠上隊長[岡部麟的名義](https://zh.wikipedia.org/wiki/岡部麟 "wikilink")，而稱為「岡部Team
+A經常會冠上隊長[岡部麟的名義](../Page/岡部麟.md "wikilink")，而稱為「岡部Team
 A」（第六代），以便與2015年9月1日的「橫山Team A」（第五代）、2014年4月24日的「高橋Team
 A」（第四代）、2012年11月1日的「橫山Team
 A」、[篠田麻里子於](../Page/篠田麻里子.md "wikilink")2013年7月22日畢業前的「篠田Team
@@ -193,7 +192,7 @@ A則會稱作「原Team A」（）或初代Team A，其他隊伍亦同。
 <td><p>21名</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/後藤萌咲" title="wikilink">後藤萌咲</a></p></td>
+<td><p><a href="../Page/後藤萌咲.md" title="wikilink">後藤萌咲</a></p></td>
 <td></td>
 <td></td>
 <td><p>選秀<br />
@@ -206,7 +205,7 @@ A則會稱作「原Team A」（）或初代Team A，其他隊伍亦同。
 <td><p>65名</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/篠崎彩奈" title="wikilink">篠崎彩奈</a></p></td>
+<td><p><a href="../Page/篠崎彩奈.md" title="wikilink">篠崎彩奈</a></p></td>
 <td></td>
 <td></td>
 <td><p>13期</p></td>
@@ -351,7 +350,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為綠�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/市川愛美" title="wikilink">市川愛美</a></p></td>
+<td><p><a href="../Page/市川愛美.md" title="wikilink">市川愛美</a></p></td>
 <td></td>
 <td></td>
 <td><p>15期</p></td>
@@ -373,7 +372,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為綠�
 <td><p>19名</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/込山榛香" title="wikilink">込山榛香</a></strong></p></td>
+<td><p><strong><a href="../Page/込山榛香.md" title="wikilink">込山榛香</a></strong></p></td>
 <td></td>
 <td></td>
 <td><p>15期</p></td>
@@ -417,7 +416,7 @@ K則通常會稱作「元Team K」（）或初代Team K。隊伍代表色為綠�
 <td><p>大島Team K<br />
 倉持Team B<br />
 曾兼任JKT48 Team J<br />
-<a href="https://zh.wikipedia.org/wiki/AKB48集團大組閣祭" title="wikilink">AKB48集團大組閣祭時移籍至AKB</a>48<br />
+<a href="../Page/AKB48集團大組閣祭.md" title="wikilink">AKB48集團大組閣祭時移籍至AKB</a>48<br />
 高橋朱里Team 4<br />
 預定於2019年5月6日畢業[22]</p></td>
 <td><p>-</p></td>
@@ -630,7 +629,7 @@ AKB48最年長</p></td>
 <td><p>11名</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/田北香世子" title="wikilink">田北香世子</a></p></td>
+<td><p><a href="../Page/田北香世子.md" title="wikilink">田北香世子</a></p></td>
 <td></td>
 <td></td>
 <td><p>選秀<br />
@@ -689,7 +688,7 @@ AKB48最年長</p></td>
 <td><p>73名</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/福岡聖菜" title="wikilink">福岡聖菜</a></p></td>
+<td><p><a href="../Page/福岡聖菜.md" title="wikilink">福岡聖菜</a></p></td>
 <td></td>
 <td></td>
 <td><p>15期</p></td>
@@ -773,7 +772,7 @@ AKB48最年長</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/大森美優" title="wikilink">大森美優</a></p></td>
+<td><p><a href="../Page/大森美優.md" title="wikilink">大森美優</a></p></td>
 <td></td>
 <td></td>
 <td><p>12期</p></td>
@@ -794,7 +793,7 @@ AKB48最年長</p></td>
 <td><p>5名</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/川本紗矢" title="wikilink">川本紗矢</a></p></td>
+<td><p><a href="../Page/川本紗矢.md" title="wikilink">川本紗矢</a></p></td>
 <td></td>
 <td></td>
 <td><p>選秀<br />
@@ -932,7 +931,7 @@ Team 8成员所屬經紀公司皆为AKS。下列未特别备注加入日期者�
 <tr class="even">
 <td><p><a href="../Page/北海道.md" title="wikilink">北海道</a></p></td>
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/坂口渚沙" title="wikilink">坂口渚沙</a></p></td>
+<td><p><a href="../Page/坂口渚沙.md" title="wikilink">坂口渚沙</a></p></td>
 <td></td>
 <td></td>
 <td><p>曾兼任Team B</p></td>
@@ -941,7 +940,7 @@ Team 8成员所屬經紀公司皆为AKS。下列未特别备注加入日期者�
 <tr class="odd">
 <td><p><a href="../Page/青森縣.md" title="wikilink">青森</a></p></td>
 <td><p>K</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/横山结衣" title="wikilink">横山结衣</a></p></td>
+<td><p><a href="../Page/横山结衣.md" title="wikilink">横山结衣</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1016,7 +1015,7 @@ AKB48最年少</p></td>
 <tr class="odd">
 <td><p><a href="../Page/茨城縣.md" title="wikilink">茨城</a></p></td>
 <td><p>A</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岡部麟" title="wikilink">岡部麟</a></p></td>
+<td><p><a href="../Page/岡部麟.md" title="wikilink">岡部麟</a></p></td>
 <td></td>
 <td></td>
 <td><p><strong>Team A隊長</strong></p></td>
@@ -1062,7 +1061,7 @@ AKB48最年少</p></td>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/东京都" title="wikilink">東京</a></p></td>
 <td><p>A</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小栗有以" title="wikilink">小栗有以</a></p></td>
+<td><p><a href="../Page/小栗有以.md" title="wikilink">小栗有以</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1237,7 +1236,7 @@ AKB48最年少</p></td>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/奈良縣" title="wikilink">奈良</a></p></td>
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大西桃香" title="wikilink">大西桃香</a></p></td>
+<td><p><a href="../Page/大西桃香.md" title="wikilink">大西桃香</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1404,7 +1403,7 @@ AKB48最年少</p></td>
 <tr class="odd">
 <td><p><a href="../Page/熊本縣.md" title="wikilink">熊本</a></p></td>
 <td><p>K</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/倉野尾成美" title="wikilink">倉野尾成美</a></p></td>
+<td><p><a href="../Page/倉野尾成美.md" title="wikilink">倉野尾成美</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1731,7 +1730,7 @@ AKB48最年少</p></td>
 
 ## 經紀公司
 
-AKB48的成員們在以AKB48「團體」一員活動時，所屬[經紀公司為](../Page/經紀公司.md "wikilink")[AKS](../Page/AKS.md "wikilink")\[44\]，由AKS統籌用AKB48名義演出的公演或活動；但成員「個人」的經紀公司，除了與團體一樣所屬於AKS，部分成員在入團一段時間會後簽約給其他經紀公司，例如[太田製作](../Page/太田製作.md "wikilink")、[尾木製作](../Page/尾木製作.md "wikilink")、[Horipro等](../Page/Horipro.md "wikilink")，稱為「移籍」\[45\]，讓這些經紀公司安排以個別藝人身分從事的演藝活動。這種將「團體」與「個人」之經紀合約分離的制度，用意在於強化成員們身為一個藝人所需的競爭力，無論是AKB48在籍期間或[畢業之後](../Page/畢業_\(演藝界\).md "wikilink")，藉由個人所屬的經紀公司，得以在演藝圈持續活躍與曝光\[46\]。AKB48在日本國內的姊妹團體當中，除了[NMB48](../Page/NMB48.md "wikilink")、[STU48以外均沿用此制度](https://zh.wikipedia.org/wiki/STU48 "wikilink")\[47\]。
+AKB48的成員們在以AKB48「團體」一員活動時，所屬[經紀公司為](../Page/經紀公司.md "wikilink")[AKS](../Page/AKS.md "wikilink")\[44\]，由AKS統籌用AKB48名義演出的公演或活動；但成員「個人」的經紀公司，除了與團體一樣所屬於AKS，部分成員在入團一段時間會後簽約給其他經紀公司，例如[太田製作](../Page/太田製作.md "wikilink")、[尾木製作](../Page/尾木製作.md "wikilink")、[Horipro等](../Page/Horipro.md "wikilink")，稱為「移籍」\[45\]，讓這些經紀公司安排以個別藝人身分從事的演藝活動。這種將「團體」與「個人」之經紀合約分離的制度，用意在於強化成員們身為一個藝人所需的競爭力，無論是AKB48在籍期間或[畢業之後](../Page/畢業_\(演藝界\).md "wikilink")，藉由個人所屬的經紀公司，得以在演藝圈持續活躍與曝光\[46\]。AKB48在日本國內的姊妹團體當中，除了[NMB48](../Page/NMB48.md "wikilink")、[STU48以外均沿用此制度](../Page/STU48.md "wikilink")\[47\]。
 
 在Team A和Team
 K組成當時，全部成員原本皆隸屬於[office48](https://zh.wikipedia.org/wiki/office48 "wikilink")；之後為了強化演藝經紀工作與增加媒體曝光之機會，一部份的成員移籍至其他的經紀公司，在此時期前則稱為「劇團員」。未加入其他經紀公司的成員與後來陸續加入的新成員（Team
@@ -2174,7 +2173,7 @@ CM：はるやま商事『」<br />
 <tr class="odd">
 <td><p>《<strong>Gugutasu的天空</strong>》</p></td>
 <td><p>廣告：<a href="../Page/Google.md" title="wikilink">Google</a>『<a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy" title="wikilink">Galaxy Nexus</a>:』<br />
-<a href="https://zh.wikipedia.org/wiki/NOTTV" title="wikilink">NOTTV</a>『<a href="https://zh.wikipedia.org/wiki/AKB48的你、是誰?" title="wikilink">AKB48的你、是誰?</a>』結尾曲</p></td>
+<a href="../Page/NOTTV.md" title="wikilink">NOTTV</a>『<a href="https://zh.wikipedia.org/wiki/AKB48的你、是誰?" title="wikilink">AKB48的你、是誰?</a>』結尾曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2408,7 +2407,7 @@ Girls」作為對應。與Under Girls不同的是，這幾種追加的臨時性�
 <tr class="odd">
 <td><p><a href="../Page/Not_yet.md" title="wikilink">Not yet</a></p></td>
 <td><p>大島優子、北原里英、指原莉乃、横山由依</p></td>
-<td><p>2011年3月16日出道[67]，出演<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台週末夜間電視劇</a>《<a href="https://zh.wikipedia.org/wiki/Dr.伊良部一郎" title="wikilink">Dr.伊良部一郎</a>》並演唱主題曲[68]。全體成員皆隸屬於經紀公司<a href="../Page/太田製作.md" title="wikilink">太田製作旗下</a>。</p></td>
+<td><p>2011年3月16日出道[67]，出演<a href="../Page/朝日電視台.md" title="wikilink">朝日電視台週末夜間電視劇</a>《<a href="../Page/Dr.伊良部一郎.md" title="wikilink">Dr.伊良部一郎</a>》並演唱主題曲[68]。全體成員皆隸屬於經紀公司<a href="../Page/太田製作.md" title="wikilink">太田製作旗下</a>。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/DiVA.md" title="wikilink">DiVA</a></p></td>
@@ -2419,13 +2418,13 @@ Girls」作為對應。與Under Girls不同的是，這幾種追加的臨時性�
 <tr class="odd">
 <td><p><a href="../Page/小瓢蟲Chu!.md" title="wikilink">小瓢蟲Chu!</a><br />
 （）</p></td>
-<td><p><a href="../Page/小嶋真子.md" title="wikilink">小嶋真子</a>、<a href="https://zh.wikipedia.org/wiki/西野未姬" title="wikilink">西野未姬</a>、<a href="../Page/岡田奈奈_(AKB48).md" title="wikilink">岡田奈奈</a>（以上AKB48）、<a href="../Page/北川綾巴.md" title="wikilink">北川綾巴</a>（SKE48）、<a href="../Page/澀谷凪咲.md" title="wikilink">澀谷凪咲</a>（NMB48）、<a href="../Page/田島芽瑠.md" title="wikilink">田島芽瑠</a>（HKT48）、<a href="../Page/朝長美櫻.md" title="wikilink">朝長美櫻</a>（HKT48）</p></td>
+<td><p><a href="../Page/小嶋真子.md" title="wikilink">小嶋真子</a>、<a href="../Page/西野未姬.md" title="wikilink">西野未姬</a>、<a href="../Page/岡田奈奈_(AKB48).md" title="wikilink">岡田奈奈</a>（以上AKB48）、<a href="../Page/北川綾巴.md" title="wikilink">北川綾巴</a>（SKE48）、<a href="../Page/澀谷凪咲.md" title="wikilink">澀谷凪咲</a>（NMB48）、<a href="../Page/田島芽瑠.md" title="wikilink">田島芽瑠</a>（HKT48）、<a href="../Page/朝長美櫻.md" title="wikilink">朝長美櫻</a>（HKT48）</p></td>
 <td><p>組成時全體成員皆挑選自48集團各姊妹團體的研究生。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/小蝸牛Chu!.md" title="wikilink">小蝸牛Chu!</a><br />
 （）</p></td>
-<td><p><a href="../Page/谷口惠.md" title="wikilink">谷口惠</a>（）、<a href="../Page/大和田南那.md" title="wikilink">大和田南那</a>、<a href="https://zh.wikipedia.org/wiki/川本纱矢" title="wikilink">川本纱矢</a>、<a href="../Page/向井地美音.md" title="wikilink">向井地美音</a>、<a href="../Page/村山彩希.md" title="wikilink">村山彩希</a>、<a href="../Page/田中美久_(HKT48).md" title="wikilink">田中美久</a>（HKT48）、<a href="https://zh.wikipedia.org/wiki/矢吹奈子" title="wikilink">矢吹奈子</a>（HKT48）</p></td>
+<td><p><a href="../Page/谷口惠.md" title="wikilink">谷口惠</a>（）、<a href="../Page/大和田南那.md" title="wikilink">大和田南那</a>、<a href="https://zh.wikipedia.org/wiki/川本纱矢" title="wikilink">川本纱矢</a>、<a href="../Page/向井地美音.md" title="wikilink">向井地美音</a>、<a href="../Page/村山彩希.md" title="wikilink">村山彩希</a>、<a href="../Page/田中美久_(HKT48).md" title="wikilink">田中美久</a>（HKT48）、<a href="../Page/矢吹奈子.md" title="wikilink">矢吹奈子</a>（HKT48）</p></td>
 <td><p>2015年3月25日於琦玉超級競技場AKB48年輕成員全國演唱會中發表的新衍生組合, 首支出道作品將會被收錄在2015年5月20日發售的AKB48第40張單曲中作為B面曲。</p></td>
 </tr>
 </tbody>
@@ -2604,7 +2603,7 @@ Girls」作為對應。與Under Girls不同的是，這幾種追加的臨時性�
 <tr class="even">
 <td><p><a href="../Page/IZ*ONE.md" title="wikilink">IZ*ONE</a></p></td>
 <td><p>本田仁美、宮脇咲良（HKT48）、矢吹奈子（HKT48）以及其餘9位韓國籍成員</p></td>
-<td><p>韓國Mnet選秀節目《<a href="https://zh.wikipedia.org/wiki/PRODUCE_48" title="wikilink">PRODUCE 48</a>》選出的12人女子限定團體，將活動2年6個月，並在日韓兩國出道。</p></td>
+<td><p>韓國Mnet選秀節目《<a href="../Page/PRODUCE_48.md" title="wikilink">PRODUCE 48</a>》選出的12人女子限定團體，將活動2年6個月，並在日韓兩國出道。</p></td>
 </tr>
 </tbody>
 </table>
@@ -2904,7 +2903,7 @@ Girls」作為對應。與Under Girls不同的是，這幾種追加的臨時性�
 
 46. 《AKB48的格子裙經濟學：素人偶像的創意行銷效應》（），著， - ISBN 978-4023308725
 
-47. 關於團體經營、以及所有成員個人經紀合約（從他團移籍或兼任者除外），[NMB48隸屬於](../Page/NMB48.md "wikilink")[吉本興業旗下子公司](../Page/吉本興業.md "wikilink")，[STU48則隸屬於](https://zh.wikipedia.org/wiki/STU48 "wikilink")。
+47. 關於團體經營、以及所有成員個人經紀合約（從他團移籍或兼任者除外），[NMB48隸屬於](../Page/NMB48.md "wikilink")[吉本興業旗下子公司](../Page/吉本興業.md "wikilink")，[STU48則隸屬於](../Page/STU48.md "wikilink")。
 
 48. [節目STAFF（TBS官網）](http://www.tbs.co.jp/desuyone/staff/)
 

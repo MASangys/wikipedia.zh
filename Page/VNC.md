@@ -60,7 +60,7 @@ Directory及](../Page/Active_Directory.md "wikilink")[NTLM的帳號密碼認證]
 由於VNC以GPL授權，衍生出了幾個VNC軟體：
 
   - [RealVNC](https://zh.wikipedia.org/wiki/RealVNC "wikilink")：由VNC團隊部份成員開發，分為全功能商業版及免費版。
-  - [TightVNC](https://zh.wikipedia.org/wiki/TightVNC "wikilink")：強調節省頻寬使用。
+  - [TightVNC](../Page/TightVNC.md "wikilink")：強調節省頻寬使用。
   - [UltraVNC](https://zh.wikipedia.org/wiki/UltraVNC "wikilink")：加入了TightVNC的部份程式及加強效能的圖型映射驅動程式，並結合Active
     Directory及NTLM的帳號密碼認證，但僅有Windows版本。
   - [Vine

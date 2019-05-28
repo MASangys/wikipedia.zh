@@ -76,7 +76,7 @@
 ## 關聯條目
 
   - [收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")
-  - [電視藝人形象調查](https://zh.wikipedia.org/wiki/電視藝人形象調查 "wikilink")
+  - [電視藝人形象調查](../Page/電視藝人形象調查.md "wikilink")
 
 ## 外部連結
 

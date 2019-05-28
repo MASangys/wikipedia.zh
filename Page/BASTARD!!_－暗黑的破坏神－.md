@@ -70,7 +70,7 @@
 
 <!-- end list -->
 
-  - 迪亞·諾特·陽子（OVA配音：[小山裕香](https://zh.wikipedia.org/wiki/小山裕香 "wikilink")；[廣播劇CD第](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")4卷配音：[白鳥由里](../Page/白鳥由里.md "wikilink")）
+  - 迪亞·諾特·陽子（OVA配音：[小山裕香](../Page/小山裕香.md "wikilink")；[廣播劇CD第](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")4卷配音：[白鳥由里](../Page/白鳥由里.md "wikilink")）
 
 <!-- end list -->
 
@@ -184,7 +184,7 @@
 
 <!-- end list -->
 
-  - 希拉·梅塔·利卡那（OVA配音：[吉田古奈美](https://zh.wikipedia.org/wiki/吉田小南美 "wikilink")）
+  - 希拉·梅塔·利卡那（OVA配音：[吉田古奈美](../Page/吉田小南美.md "wikilink")）
 
 <!-- end list -->
 
@@ -206,7 +206,7 @@
 
 <!-- end list -->
 
-  - 三大臣（OVA配音：[梅津秀行](../Page/梅津秀行.md "wikilink")、[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")、[櫻井敏治](https://zh.wikipedia.org/wiki/櫻井敏治 "wikilink")）
+  - 三大臣（OVA配音：[梅津秀行](../Page/梅津秀行.md "wikilink")、[梁田清之](../Page/梁田清之.md "wikilink")、[櫻井敏治](https://zh.wikipedia.org/wiki/櫻井敏治 "wikilink")）
 
 <!-- end list -->
 
@@ -328,7 +328,7 @@
 ### 製作人員
 
   - 原作 - 萩原一至
-  - 導演 - [秋山勝仁](https://zh.wikipedia.org/wiki/秋山勝仁 "wikilink")
+  - 導演 - [秋山勝仁](../Page/秋山勝仁.md "wikilink")
   - 人物設定 - [北爪宏幸](../Page/北爪宏幸.md "wikilink")
   - 概念設計 - [幡池裕行](https://zh.wikipedia.org/wiki/幡池裕行 "wikilink")
   - 美術監督 - 池田繁美
@@ -367,7 +367,7 @@
 <td><p>爆炎の魔術師</p></td>
 <td><p>爆炎之魔術師</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山口宏_(脚本家)" title="wikilink">山口宏</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/秋山勝仁" title="wikilink">秋山勝仁</a><br />
+<td><p><a href="../Page/秋山勝仁.md" title="wikilink">秋山勝仁</a><br />
 <a href="https://zh.wikipedia.org/wiki/吉田徹" title="wikilink">吉田徹</a></p></td>
 <td><p>吉田徹</p></td>
 <td><p><a href="../Page/谷口守泰.md" title="wikilink">谷口守泰</a><br />

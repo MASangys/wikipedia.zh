@@ -2279,7 +2279,7 @@ Tag）。一個使用者將可以利用[標籤找到某位已經貼上](https://
   - [瓶中信](../Page/瓶中信.md "wikilink")
   - 非紙質明信片(木質明信片、金屬明信片)
   - [貨幣](../Page/貨幣.md "wikilink")([硬幣](../Page/硬幣.md "wikilink")、[紙鈔](https://zh.wikipedia.org/wiki/紙鈔 "wikilink"))
-  - 小文具、[貼紙](https://zh.wikipedia.org/wiki/貼紙 "wikilink")、[紙膠帶](https://zh.wikipedia.org/wiki/紙膠帶 "wikilink")
+  - 小文具、[貼紙](https://zh.wikipedia.org/wiki/貼紙 "wikilink")、[紙膠帶](../Page/紙膠帶.md "wikilink")
 
 ## 爭議與問題
 

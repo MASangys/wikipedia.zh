@@ -1,4 +1,4 @@
-**1Borneo**是目前东马最大規模及最宏偉的購物廣場，坐落于[沙巴大学旁和Alamesra住宅区](https://zh.wikipedia.org/wiki/沙巴大学 "wikilink")。
+**1Borneo**是目前东马最大規模及最宏偉的購物廣場，坐落于[沙巴大学旁和Alamesra住宅区](../Page/沙巴大学.md "wikilink")。
 
 ## 内部设施
 

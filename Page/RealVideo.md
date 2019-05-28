@@ -13,7 +13,7 @@ RealNetworks于2018年4月发布的最新的RealVideo HD格式扩展名为`.rmhd
 
 ## 发展前景
 
-随着[网络带宽的提升和](https://zh.wikipedia.org/wiki/带宽_\(计算机\) "wikilink")[存储设备的发展](https://zh.wikipedia.org/wiki/存储设备 "wikilink")，RealVideo在网络传输上不再有体积优势，充裕的网络带宽和更廉价、空间更大的存储设备使人们开始追求更高的画质，因此目前RealVideo已经逐渐被[高级视频编码](https://zh.wikipedia.org/wiki/AVC "wikilink")、[VP9等新一代视频格式所取代](../Page/VP9.md "wikilink")，但最新的RealVideo
+随着[网络带宽的提升和](../Page/带宽_\(计算机\).md "wikilink")[存储设备的发展](https://zh.wikipedia.org/wiki/存储设备 "wikilink")，RealVideo在网络传输上不再有体积优势，充裕的网络带宽和更廉价、空间更大的存储设备使人们开始追求更高的画质，因此目前RealVideo已经逐渐被[高级视频编码](https://zh.wikipedia.org/wiki/AVC "wikilink")、[VP9等新一代视频格式所取代](../Page/VP9.md "wikilink")，但最新的RealVideo
 HD格式将有希望与[高效率视频编码等新兴格式抗衡](https://zh.wikipedia.org/wiki/HEVC "wikilink")
 
 ## 视频压缩格式与编解码器版本

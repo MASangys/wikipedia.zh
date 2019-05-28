@@ -37,8 +37,7 @@ Ak 5B是Ak 5的精確射手型，裝有[SUSAT](../Page/SUSAT光學瞄準鏡.md "
 
   - 注意：裝有[M203的Ak](../Page/M203榴彈發射器.md "wikilink") 5並非為Ak 5C
 
-Ak 5C是Ak
-5的戰術型，備有戰術導軌可加裝各種瞄準鏡及[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")。\[1\]
+Ak 5C是Ak 5的戰術型，備有戰術導軌可加裝各種瞄準鏡及[戰術燈](../Page/戰術燈.md "wikilink")。\[1\]
 
   - 提高可靠度
 

@@ -95,7 +95,7 @@
 
   - 企劃・原案：高松聰
   - 監督：森田修平
-  - 系列構成：[佐藤大](https://zh.wikipedia.org/wiki/佐藤大_\(編劇\) "wikilink")・[千葉克彥](https://zh.wikipedia.org/wiki/千葉克彥 "wikilink")
+  - 系列構成：[佐藤大](../Page/佐藤大_\(編劇\).md "wikilink")・[千葉克彥](../Page/千葉克彥.md "wikilink")
   - 人物及機械設計：[大友克洋](../Page/大友克洋.md "wikilink")
   - 人物設計：桟敷大祐・入江篤
   - 機械設計：末武康光

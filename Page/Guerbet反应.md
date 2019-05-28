@@ -23,7 +23,7 @@
 ## 拓展
 
 如下[铱脱氢催化剂](../Page/铱.md "wikilink")（Cp\* =
-[五甲基环戊二烯配体](https://zh.wikipedia.org/wiki/五甲基环戊二烯 "wikilink")）和[叔丁醇钾存在下](../Page/叔丁醇钾.md "wikilink")，以[对异丙基甲苯为溶剂](../Page/对异丙基甲苯.md "wikilink")，少量的1,7-辛二烯为质子受体，[正戊醇在相对较低的温度下即可发生Guerbet反应](https://zh.wikipedia.org/wiki/正戊醇 "wikilink")。\[3\]
+[五甲基环戊二烯配体](../Page/五甲基环戊二烯.md "wikilink")）和[叔丁醇钾存在下](../Page/叔丁醇钾.md "wikilink")，以[对异丙基甲苯为溶剂](../Page/对异丙基甲苯.md "wikilink")，少量的1,7-辛二烯为质子受体，[正戊醇在相对较低的温度下即可发生Guerbet反应](https://zh.wikipedia.org/wiki/正戊醇 "wikilink")。\[3\]
 
 
 [GuerbetReactionScope.png](https://zh.wikipedia.org/wiki/File:GuerbetReactionScope.png "fig:GuerbetReactionScope.png")

@@ -1,5 +1,5 @@
 《**Cross
-Romance**》（）是[日本物產株式會社](https://zh.wikipedia.org/wiki/日本物產 "wikilink")（[Nichibutsu](https://zh.wikipedia.org/wiki/Nichibutsu "wikilink")）於1997年3月28日在[PlayStation平台上發行的戀愛冒險遊戲](../Page/PlayStation_\(遊戲機\).md "wikilink")，同年10月9日發行[Sega
+Romance**》（）是[日本物產株式會社](../Page/日本物產.md "wikilink")（[Nichibutsu](https://zh.wikipedia.org/wiki/Nichibutsu "wikilink")）於1997年3月28日在[PlayStation平台上發行的戀愛冒險遊戲](../Page/PlayStation_\(遊戲機\).md "wikilink")，同年10月9日發行[Sega
 Saturn版](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，1999年12月22日推出廉價版（2,800日幣）。此遊戲嘗試將戀愛、麻將、花札三個元素集結在一起，並主打14名豪華的聲優陣容。[Sega
 Saturn版因為多了泳裝和沐浴的CG所以被列為](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")18歲以上的年齡限制。
 
@@ -44,7 +44,7 @@ Saturn版因為多了泳裝和沐浴的CG所以被列為](https://zh.wikipedia.o
     身高：166cm、體重：49kg
     本次大會的主辦者，桂商業集團的獨生女。自尊心和自我意識很強，討厭暴力，不過卻也認為沒有力量的男生是沒有價值的。對有著相同境遇的繪里香很在意，當她知道繪里香喜歡”庶民”主角時，感到很不可思議。
 
-**大久保 薰**（）聲：[長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink")
+**大久保 薰**（）聲：[長澤美樹](../Page/長澤美樹.md "wikilink")
 
   -
     私立西条學園高校2年級

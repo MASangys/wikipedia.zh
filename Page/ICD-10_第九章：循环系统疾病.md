@@ -47,15 +47,15 @@
   - I30 急性[心包炎](../Page/心包炎.md "wikilink")
   - I31 心包的其他疾病
   - I32 分类于他处的疾病引起的心包炎
-  - I33 急性和亚急性[心内膜炎](https://zh.wikipedia.org/wiki/心内膜炎 "wikilink")
+  - I33 急性和亚急性[心内膜炎](../Page/心内膜炎.md "wikilink")
   - I34 非风湿性二尖瓣疾患
   - I35 非风湿性主动脉瓣疾患
   - I36 非风湿性三尖瓣疾患
   - I37 肺动脉瓣疾患
-  - I38 [心内膜炎](https://zh.wikipedia.org/wiki/心内膜炎 "wikilink")（瓣膜未特指）
+  - I38 [心内膜炎](../Page/心内膜炎.md "wikilink")（瓣膜未特指）
   - I39 分类于他处的疾病引起的心内膜炎和心瓣膜疾患
-  - I40 急性[心肌炎](https://zh.wikipedia.org/wiki/心肌炎 "wikilink")
-  - I41 分类于他处的疾病引起的[心肌炎](https://zh.wikipedia.org/wiki/心肌炎 "wikilink")
+  - I40 急性[心肌炎](../Page/心肌炎.md "wikilink")
+  - I41 分类于他处的疾病引起的[心肌炎](../Page/心肌炎.md "wikilink")
   - I42 [心肌病](https://zh.wikipedia.org/wiki/心肌病 "wikilink")
   - I43 分类于他处的疾病引起的心肌病
   - I44

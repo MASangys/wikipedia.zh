@@ -14,35 +14,35 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>劳力士澳大利亚大奖赛</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年澳大利亚大奖赛" title="wikilink">澳大利亚大奖赛</a></p></td>
+<td><p><a href="../Page/2014年澳大利亚大奖赛.md" title="wikilink">澳大利亚大奖赛</a></p></td>
 <td><p><a href="../Page/墨尔本.md" title="wikilink">墨尔本</a><a href="https://zh.wikipedia.org/wiki/阿尔伯特公园赛道" title="wikilink">阿尔伯特公园赛道</a></p></td>
 <td><p>3月16日</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td><p>马石油马来西亚大奖赛</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年马来西亚大奖赛" title="wikilink">马来西亚大奖赛</a></p></td>
+<td><p><a href="../Page/2014年马来西亚大奖赛.md" title="wikilink">马来西亚大奖赛</a></p></td>
 <td><p><a href="../Page/吉隆坡.md" title="wikilink">吉隆坡</a><a href="../Page/雪邦国际赛道.md" title="wikilink">雪邦国际赛道</a></p></td>
 <td><p>3月30日</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>海湾航空巴林大奖赛</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年巴林大奖赛" title="wikilink">巴林大奖赛</a></p></td>
+<td><p><a href="../Page/2014年巴林大奖赛.md" title="wikilink">巴林大奖赛</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/萨基尔" title="wikilink">萨基尔</a><a href="../Page/巴林国际赛道.md" title="wikilink">巴林国际赛道</a></p></td>
 <td><p>4月6日</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td><p>瑞银中国大奖赛</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年中国大奖赛" title="wikilink">中国大奖赛</a></p></td>
+<td><p><a href="../Page/2014年中国大奖赛.md" title="wikilink">中国大奖赛</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/上海市" title="wikilink">上海市</a><a href="https://zh.wikipedia.org/wiki/上海国际赛道" title="wikilink">上海国际赛道</a></p></td>
 <td><p>4月20日</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p>西班牙大奖赛</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年西班牙大奖赛" title="wikilink">西班牙大奖赛</a></p></td>
+<td><p><a href="../Page/2014年西班牙大奖赛.md" title="wikilink">西班牙大奖赛</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴塞罗那" title="wikilink">巴塞罗那</a><a href="../Page/加泰罗尼亚赛道.md" title="wikilink">加泰罗尼亚赛道</a></p></td>
 <td><p>5月11日</p></td>
 </tr>
@@ -70,7 +70,7 @@
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>英国大奖赛</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年英国大奖赛" title="wikilink">英国大奖赛</a></p></td>
+<td><p><a href="../Page/2014年英国大奖赛.md" title="wikilink">英国大奖赛</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/银石" title="wikilink">银石</a><a href="https://zh.wikipedia.org/wiki/银石赛道" title="wikilink">银石赛道</a></p></td>
 <td><p>7月6日</p></td>
 </tr>
@@ -84,7 +84,7 @@
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>匈牙利大奖赛</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年匈牙利大奖赛" title="wikilink">匈牙利大奖赛</a></p></td>
+<td><p><a href="../Page/2014年匈牙利大奖赛.md" title="wikilink">匈牙利大奖赛</a></p></td>
 <td><p><a href="../Page/布达佩斯.md" title="wikilink">布达佩斯</a><a href="https://zh.wikipedia.org/wiki/布达佩斯赛道" title="wikilink">布达佩斯赛道</a></p></td>
 <td><p>7月27日</p></td>
 </tr>
@@ -141,7 +141,7 @@
 <td><p>19</p></td>
 <td><p>阿提哈德航空阿布扎比大奖赛</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2014年阿布扎比大奖赛" title="wikilink">阿布扎比大奖赛</a></p></td>
-<td><p><a href="../Page/阿布扎比.md" title="wikilink">阿布扎比</a><a href="https://zh.wikipedia.org/wiki/亚斯码头赛道" title="wikilink">亚斯码头赛道</a></p></td>
+<td><p><a href="../Page/阿布扎比.md" title="wikilink">阿布扎比</a><a href="../Page/亚斯码头赛道.md" title="wikilink">亚斯码头赛道</a></p></td>
 <td><p>11月23日</p></td>
 </tr>
 </tbody>

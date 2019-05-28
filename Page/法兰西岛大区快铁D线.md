@@ -112,7 +112,7 @@ D线的一期工程和B线共用隧道, 这样, 在一小时之内, 单个方向
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p><font color="#8ccba6"><small><strong>D3</strong></small></font></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/克雷伊站" title="wikilink">克雷伊</a><br />
+<td><p><strong><a href="../Page/克雷伊站.md" title="wikilink">克雷伊</a><br />
 <small>Creil</small></strong></p></td>
 <td><p>*</p></td>
 <td><p><a href="../Page/克雷伊.md" title="wikilink">克雷伊</a></p></td>
@@ -225,7 +225,7 @@ D线的一期工程和B线共用隧道, 这样, 在一小时之内, 单个方向
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p><font color="#17964c"><small><strong>D7</strong></small></font></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/古桑维尔站" title="wikilink">古桑维尔</a><br />
+<td><p><a href="../Page/古桑维尔站.md" title="wikilink">古桑维尔</a><br />
 <small>Goussainville</small></p></td>
 <td><p>5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/古桑维尔" title="wikilink">古桑维尔</a></p></td>
@@ -450,7 +450,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新城圣乔治站" title="wikilink">新城圣乔治</a><br />
+<td><p><a href="../Page/新城圣乔治站.md" title="wikilink">新城圣乔治</a><br />
 <small>Villeneuve-Saint-Georges</small></p></td>
 <td><p>4</p></td>
 <td><p><a href="../Page/新城圣乔治.md" title="wikilink">新城圣乔治</a></p></td>
@@ -683,7 +683,7 @@ Gonesse — Arnouville</small></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大城堡站" title="wikilink">大城堡</a><br />
+<td><p><a href="../Page/大城堡站.md" title="wikilink">大城堡</a><br />
 <small>Le Grand Bourg</small></p></td>
 <td><p>5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/埃夫里" title="wikilink">埃夫里</a></p></td>
@@ -1520,7 +1520,7 @@ D线经过法兰西岛大区犯罪率最高的地段, 运行的难度可想而�
 [法兰西岛运输联合会](https://zh.wikipedia.org/wiki/法兰西岛运输联合会 "wikilink")
 (Syndicat des transports d'Île-de-France, STIF), 国家铁路公司和 (RFF)
 联合推出了D线的改善计划图景, 接着他们又在翌年通过一系列的协商,
-将立即融资重整[古桑维尔站](https://zh.wikipedia.org/wiki/古桑维尔站 "wikilink"),
+将立即融资重整[古桑维尔站](../Page/古桑维尔站.md "wikilink"),
 改善其在高峰时段的列车调头性能. 预计耗资587万欧元. STIF和RFF各自承担其中的50%.
 
 [Gare_Corbeil-Essonnes_IMG_1254.JPG](https://zh.wikipedia.org/wiki/File:Gare_Corbeil-Essonnes_IMG_1254.JPG "fig:Gare_Corbeil-Essonnes_IMG_1254.JPG")
@@ -1576,7 +1576,7 @@ D线经过法兰西岛大区犯罪率最高的地段, 运行的难度可想而�
 
 目前的计划是，在D线上的[维耶勒贝尔站往东北新开辟一条分支](https://zh.wikipedia.org/wiki/维耶勒贝尔站 "wikilink")，中间经过新修的戈讷斯三角地（Triangle
 de Gonesse）车站，
-一直到B线上的[会展公园站为止](https://zh.wikipedia.org/wiki/会展公园站 "wikilink")，不再延长到戴高乐机场,目前暂无任何消息。
+一直到B线上的[会展公园站为止](../Page/会展公园站.md "wikilink")，不再延长到戴高乐机场,目前暂无任何消息。
 
 ## 周边主要旅游景点
 

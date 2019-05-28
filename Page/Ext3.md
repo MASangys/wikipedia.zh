@@ -37,7 +37,7 @@ Linux实现的ext3文件系统，包括3个级别的日志：
 
 ext3文件系统在被挂载为写入的时候，是不能进行[fsck的](https://zh.wikipedia.org/wiki/fsck "wikilink")。ext3档案系统的倾倒作业在这个档案系统还是挂载中的时候执行可能会造成资料的损坏。
 
-ext3不支持在其他文件系统上已经支持（例如：[JFS2和](https://zh.wikipedia.org/wiki/JFS_\(文件系统\) "wikilink")[ext4](https://zh.wikipedia.org/wiki/ext4 "wikilink")）的[扩展](https://zh.wikipedia.org/wiki/扩展_\(文件系统\) "wikilink")。
+ext3不支持在其他文件系统上已经支持（例如：[JFS2和](../Page/JFS_\(文件系统\).md "wikilink")[ext4](https://zh.wikipedia.org/wiki/ext4 "wikilink")）的[扩展](https://zh.wikipedia.org/wiki/扩展_\(文件系统\) "wikilink")。
 
 ### 磁盘碎片
 

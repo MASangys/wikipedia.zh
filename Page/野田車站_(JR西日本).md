@@ -1,7 +1,7 @@
 **野田車站**（）是一由[西日本旅客鐵道](../Page/西日本旅客鐵道.md "wikilink")（JR西日本）所經營的[鐵路車站](https://zh.wikipedia.org/wiki/鐵路車站 "wikilink")，位於[日本](../Page/日本.md "wikilink")[大阪府](https://zh.wikipedia.org/wiki/大阪府 "wikilink")[大阪市](../Page/大阪市.md "wikilink")[福島區吉野三丁目](../Page/福島區.md "wikilink")。野田車站是JR西日本所屬的[大阪環狀線沿線車站](../Page/大阪環狀線.md "wikilink")，也是JR西日本旗下大阪近郊鐵路路線群[都市網路](https://zh.wikipedia.org/wiki/都市網路 "wikilink")（，Urban
 Network）所屬的車站，根據[JR的](../Page/JR.md "wikilink")[特定都區市內制度](https://zh.wikipedia.org/wiki/特定都區市內制度 "wikilink")，被劃分為「大阪市內」的車站之一。
 
-距離野田車站最近的轉車站，是[大阪市營地下鐵](../Page/大阪市營地下鐵.md "wikilink")[千日前線沿線的](../Page/千日前線.md "wikilink")[玉川站](https://zh.wikipedia.org/wiki/玉川站_\(大阪府\) "wikilink")。除此之外，[阪神電氣鐵道也擁有一個同樣名叫](../Page/阪神電氣鐵道.md "wikilink")[野田的車站](https://zh.wikipedia.org/wiki/野田車站_\(阪神\) "wikilink")，距離本站約500公尺。
+距離野田車站最近的轉車站，是[大阪市營地下鐵](../Page/大阪市營地下鐵.md "wikilink")[千日前線沿線的](../Page/千日前線.md "wikilink")[玉川站](../Page/玉川站_\(大阪府\).md "wikilink")。除此之外，[阪神電氣鐵道也擁有一個同樣名叫](../Page/阪神電氣鐵道.md "wikilink")[野田的車站](https://zh.wikipedia.org/wiki/野田車站_\(阪神\) "wikilink")，距離本站約500公尺。
 
 ## 車站結構
 

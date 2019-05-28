@@ -153,7 +153,7 @@ P9S手槍](../Page/HK_P9S手槍.md "wikilink")。
   -   - 警察單位
 
   -   - [警政署](https://zh.wikipedia.org/wiki/警政署 "wikilink")[維安特勤隊](../Page/維安特勤隊.md "wikilink")
-      - [中華民國特種部隊](https://zh.wikipedia.org/wiki/中華民國特種部隊 "wikilink")
+      - [中華民國特種部隊](../Page/中華民國特種部隊.md "wikilink")
 
   -   -
   -
@@ -177,7 +177,7 @@ P9S手槍](../Page/HK_P9S手槍.md "wikilink")。
 ### 電影
 
   - 2001年—《[-{zh-cn:古墓丽影; zh-tw:古墓奇兵;
-    zh-hk:盜墓者羅拉;}-](https://zh.wikipedia.org/wiki/古墓丽影_\(2001年电影\) "wikilink")》（Lara
+    zh-hk:盜墓者羅拉;}-](../Page/古墓丽影_\(2001年电影\).md "wikilink")》（Lara
     Croft Tomb Raider）：型號為USP9
     Match，被主角[勞拉·克羅夫特](https://zh.wikipedia.org/wiki/勞拉·克羅夫特 "wikilink")（[安吉麗娜·朱莉飾演](https://zh.wikipedia.org/wiki/安吉麗娜·朱莉 "wikilink")）[雙持使用](../Page/雙持.md "wikilink")。
   - 2004年—《[-{zh-cn:借刀杀人; zh-tw:落日殺神;
@@ -223,7 +223,7 @@ P9S手槍](../Page/HK_P9S手槍.md "wikilink")。
     zh-tw:金牌特務;}-](../Page/皇家特工：間諜密令.md "wikilink")》（Kingsman:
     The Secret Service）：型號為USP
     Compact，被詹姆斯·阿諾德的绑架者、教會信徒及里奇蒙·范倫坦的打手所使用，亦曾被蓋瑞·「伊格西」·安文（[泰隆·艾格頓飾演](https://zh.wikipedia.org/wiki/泰隆·艾格頓 "wikilink")）及哈利·哈特（[柯林·佛斯飾演](https://zh.wikipedia.org/wiki/柯林·佛斯 "wikilink")）所繳獲。
-  - 2017年—《[全面封鎖](https://zh.wikipedia.org/wiki/全面封鎖 "wikilink")》：USP9被[美國中央情報局探員艾莉絲瑞辛使用](https://zh.wikipedia.org/wiki/美國中央情報局 "wikilink")。
+  - 2017年—《[全面封鎖](../Page/全面封鎖.md "wikilink")》：USP9被[美國中央情報局探員艾莉絲瑞辛使用](https://zh.wikipedia.org/wiki/美國中央情報局 "wikilink")。
   - 2018年—《[-{zh-cn:古墓丽影：源起之战; zh-tw:古墓奇兵 (2018年電影); zh-hk:盜墓者羅拉
     (2018年電影);}-](https://zh.wikipedia.org/wiki/古墓丽影：源起之战 "wikilink")》（Tomb
     Raider）：型號為USP9
@@ -258,7 +258,7 @@ P9S手槍](../Page/HK_P9S手槍.md "wikilink")。
   - 2004年—《[-{zh-hans:反恐精英：起源;
     zh-hant:絕對武力：次世代;}-](../Page/絕對武力：次世代.md "wikilink")》（Counter-Strike:
     Source）：型號為USP.45，命名為「K\&M
-    .45戰術手槍」。為反恐小組的基本武器，使用銀色不銹鋼[套筒及黑色](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[底把](https://zh.wikipedia.org/wiki/机匣 "wikilink")，並能加裝[滅音器](../Page/抑制器.md "wikilink")。
+    .45戰術手槍」。為反恐小組的基本武器，使用銀色不銹鋼[套筒及黑色](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[底把](../Page/机匣.md "wikilink")，並能加裝[滅音器](../Page/抑制器.md "wikilink")。
   - 2004年—《[-{zh-hans:半条命2;zh-hk:戰慄時空2;zh-tw:戰慄時空2;}-](https://zh.wikipedia.org/wiki/半条命2 "wikilink")》（Half-Life
     2）：型號為USP9比賽型，不鏽鋼套筒，命名為“9mm pistol”（9mm手枪）。
   - 2004年—《[-{zh-hans:半条命2：消失的海岸线;zh-hk:戰慄時空2：消失的海岸線;zh-tw:戰慄時空2：消失的海岸線;}-](../Page/戰慄時空2：消失的海岸線.md "wikilink")》（Half-Life
@@ -285,10 +285,10 @@ P9S手槍](../Page/HK_P9S手槍.md "wikilink")。
         Warfare）：型號為USP.45，黑色槍身並裝上了來自[SOCOM手槍的](../Page/HK_Mk_23_Mod_0手槍.md "wikilink")[LAM模塊](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")（無法使用），使用純雙動板機。故事模式中被[英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[空降特勤隊及中東某國反對派武裝勢力所使用](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")。聯机模式於等級1解鎖，並能加裝[滅音器](../Page/抑制器.md "wikilink")。
       - 2009年—《[-{zh:決勝時刻：現代戰爭2;zh-hans:使命召唤：现代战争2;zh-hant:決勝時刻：現代戰爭2;zh-cn:使命召唤：现代战争2;zh-tw:決勝時刻：現代戰爭2;zh-hk:使命召喚：現代戰爭2;zh-mo:使命召喚：現代戰爭2;}-](../Page/決勝時刻：現代戰爭2.md "wikilink")》（Call
         of Duty: Modern Warfare
-        2）：型號為USP.45，黑色槍身並裝上了[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")（無法使用），使用純雙動板機。故事模式中被141特遣部隊、[極端民族主義黨武裝力量及](https://zh.wikipedia.org/wiki/極端民族主義 "wikilink")[俄羅斯聯邦安全局](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")[特種部隊所使用](../Page/特種部隊.md "wikilink")。聯機模式於等級4解鎖，並能使用[消音器](../Page/抑制器.md "wikilink")、、[雙持](../Page/雙持.md "wikilink")、[戰術刀及延長彈匣](https://zh.wikipedia.org/wiki/戰術刀 "wikilink")（增至18發）。
+        2）：型號為USP.45，黑色槍身並裝上了[戰術燈](../Page/戰術燈.md "wikilink")（無法使用），使用純雙動板機。故事模式中被141特遣部隊、[極端民族主義黨武裝力量及](https://zh.wikipedia.org/wiki/極端民族主義 "wikilink")[俄羅斯聯邦安全局](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")[特種部隊所使用](../Page/特種部隊.md "wikilink")。聯機模式於等級4解鎖，並能使用[消音器](../Page/抑制器.md "wikilink")、、[雙持](../Page/雙持.md "wikilink")、[戰術刀及延長彈匣](https://zh.wikipedia.org/wiki/戰術刀 "wikilink")（增至18發）。
       - 2011年—《[-{zh:決勝時刻：現代戰爭3;zh-hans:使命召唤：现代战争3;zh-hant:決勝時刻：現代戰爭3;zh-cn:使命召唤：现代战争3;zh-tw:決勝時刻：現代戰爭3;zh-hk:使命召喚：現代戰爭3;zh-mo:使命召喚：現代戰爭3;}-](../Page/決勝時刻：現代戰爭3.md "wikilink")》（Call
         of Duty: Modern Warfare
-        3）：型號為USP.45（單人模式）和USP.45戰術型（聯機模式），黑色槍身並裝上了[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")（無法使用），使用純雙動板機。故事模式中被[英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[空降特勤隊](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")、[美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")[三角洲特種部隊合金分隊](https://zh.wikipedia.org/wiki/三角洲特種部隊 "wikilink")、141特遣部隊及非洲民兵所使用。聯機模式及生存模式皆於等級1解鎖，並能使用[滅音器](../Page/抑制器.md "wikilink")、[雙持](../Page/雙持.md "wikilink")、[戰術刀及延長彈匣](https://zh.wikipedia.org/wiki/戰術刀 "wikilink")（增至18發）。
+        3）：型號為USP.45（單人模式）和USP.45戰術型（聯機模式），黑色槍身並裝上了[戰術燈](../Page/戰術燈.md "wikilink")（無法使用），使用純雙動板機。故事模式中被[英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[空降特勤隊](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")、[美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")[三角洲特種部隊合金分隊](https://zh.wikipedia.org/wiki/三角洲特種部隊 "wikilink")、141特遣部隊及非洲民兵所使用。聯機模式及生存模式皆於等級1解鎖，並能使用[滅音器](../Page/抑制器.md "wikilink")、[雙持](../Page/雙持.md "wikilink")、[戰術刀及延長彈匣](https://zh.wikipedia.org/wiki/戰術刀 "wikilink")（增至18發）。
   - 2012年—《[-{zh-hans:反恐精英：全球攻势;
     zh-hant:絕對武力：全球攻勢;}-](https://zh.wikipedia.org/wiki/絕對武力：全球攻勢 "wikilink")》（Counter-Strike:
     Global
@@ -298,12 +298,12 @@ P9S手槍](../Page/HK_P9S手槍.md "wikilink")。
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点镜 "wikilink")），擁有雪地迷彩塗裝版本，強化威力與載彈。
       - 中國大陸伺服器尚未實裝通常版；雪地迷彩版本所有伺服器均已實裝，可以通過抽獎、K點購買或者通關生存模式地圖“冷鋒行動”獎勵箱獲得。
   - 2013年—《[-{zh-hans:收获日;
-    zh-hant:劫薪日;}-2](https://zh.wikipedia.org/wiki/劫薪日2 "wikilink")》（Payday
+    zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》（Payday
     2）：型號為USP.45戰術型（預設）、專家型（使用專家滑套）及比賽型（使用比賽滑套），預設載彈量為13發。
   - 2015年—《[-{zh-hans:彩虹六号：围攻;
     zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》（Rainbow
     Six:
-    Siege）：型號為USP.45戰術型與USP.40緊湊型，前者命名為「P12」，奇怪地使用16發彈匣，被[德國聯邦警察第九國境守備隊所使用](../Page/德國聯邦警察第九國境守備隊.md "wikilink")；後者被命名為「USP.40」並被[西班牙反恐特別行動小組所使用](https://zh.wikipedia.org/wiki/西班牙反恐特別行動小組 "wikilink")。
+    Siege）：型號為USP.45戰術型與USP.40緊湊型，前者命名為「P12」，奇怪地使用16發彈匣，被[德國聯邦警察第九國境守備隊所使用](../Page/德國聯邦警察第九國境守備隊.md "wikilink")；後者被命名為「USP.40」並被[西班牙反恐特別行動小組所使用](../Page/西班牙反恐特別行動小組.md "wikilink")。
   - 2016年—《[-{zh:決勝時刻：現代戰爭;zh-hans:使命召唤：现代战争;zh-hant:決勝時刻：現代戰爭;zh-cn:使命召唤：现代战争;zh-tw:決勝時刻：現代戰爭;zh-hk:使命召喚：現代戰爭;zh-mo:使命召喚：現代戰爭;}-重製版](../Page/決勝時刻4：現代戰爭.md "wikilink")》（Call
     of Duty: Modern Warfare
     Remastered）：型號為USP.45，外觀比前作更為精細，並修正至不再使用純雙動板機。

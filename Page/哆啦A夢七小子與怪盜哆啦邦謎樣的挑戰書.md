@@ -37,7 +37,7 @@
   - 美術監督：鈴木朗
   - 撮影監督：熊谷正弘
   - 録音監督：[大熊昭](https://zh.wikipedia.org/wiki/大熊昭 "wikilink")
-  - 音楽：[宮崎慎二](https://zh.wikipedia.org/wiki/宮崎慎二 "wikilink")、浜口史郎
+  - 音楽：[宮崎慎二](../Page/宮崎慎二.md "wikilink")、浜口史郎
   - 编辑：岡安肇
   - 動画核对：原佳寿美
   - 特殊効果：土井通明
@@ -48,8 +48,8 @@
   - 动画协助：ベガエンタテイメント
   - 背景：スタジオユニ
   - 撮影：東京アニメーションフィルム
-  - エリ合成：[旭Production](https://zh.wikipedia.org/wiki/旭Production "wikilink")
-  - 编辑：[小島俊彥](https://zh.wikipedia.org/wiki/小島俊彥 "wikilink")、中葉由美子、村井秀明、川崎晃洋、三宅圭貴
+  - エリ合成：[旭Production](../Page/旭Production.md "wikilink")
+  - 编辑：[小島俊彥](../Page/小島俊彥.md "wikilink")、中葉由美子、村井秀明、川崎晃洋、三宅圭貴
   - 效果：松田昭彦（[フィズサウンドクリエイション](https://zh.wikipedia.org/wiki/フィズサウンドクリエイション "wikilink")）
   - 录音工作室：[APU MEGURO
     STUDIO](https://zh.wikipedia.org/wiki/APU_MEGURO_STUDIO "wikilink")

@@ -3,7 +3,7 @@ Dream**，研發代號**G1**，是[台灣電子產品廠商](https://zh.wikipedi
 Android為作業系統的](https://zh.wikipedia.org/wiki/Google_Android "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")。擁有側滑動式鍵盤，並内置有多項Google服務，如Google地圖、街景服務、[Gmail](../Page/Gmail.md "wikilink")、[YouTube](../Page/YouTube.md "wikilink")、[Android
 Market等](https://zh.wikipedia.org/wiki/Android_Market "wikilink")。[T-Mobile的客製化版本](../Page/T-Mobile.md "wikilink")[T-Mobile
 G1於](https://zh.wikipedia.org/wiki/T-Mobile_G1 "wikilink")2008年9月23日发售，而HTC
-Dream最先由[澳大利亞電信業者](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[Optus於](https://zh.wikipedia.org/wiki/Optus "wikilink")2009年2月5日发售。
+Dream最先由[澳大利亞電信業者](https://zh.wikipedia.org/wiki/澳大利亞 "wikilink")[Optus於](../Page/Optus.md "wikilink")2009年2月5日发售。
 
 ## 技術規格
 

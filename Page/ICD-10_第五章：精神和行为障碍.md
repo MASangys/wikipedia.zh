@@ -187,7 +187,7 @@ disorders**），为[世界卫生组织发布的](../Page/世界卫生组织.md 
 
 [情感性精神病](https://zh.wikipedia.org/wiki/情感性精神病 "wikilink")（F30-F39）
 
-  - () [狂躁](https://zh.wikipedia.org/wiki/狂躁 "wikilink")
+  - () [狂躁](../Page/狂躁.md "wikilink")
       - () [轻度狂躁](../Page/轻度狂躁.md "wikilink")
       - ()
         [无精神病性症状的狂躁症](https://zh.wikipedia.org/wiki/无精神病性症状的狂躁症 "wikilink")

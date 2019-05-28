@@ -113,7 +113,7 @@ foot)的大型機器人，而在當地相當受到歡迎的機器人籃球運動
   - 副製作人：岩本昌子・笹田直樹・前田俊博
   - 動畫製作：SATELIGHT
   - 原案・導演：河森正治
-  - 監督：[板垣伸](https://zh.wikipedia.org/wiki/板垣伸 "wikilink")(至10話止)、(10話起)
+  - 監督：[板垣伸](../Page/板垣伸.md "wikilink")(至10話止)、(10話起)
   - 製作：BASQUASH\!製作委員会（[波丽佳音](https://zh.wikipedia.org/wiki/波丽佳音 "wikilink")、SATELIGHT、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[角川書店](../Page/角川書店.md "wikilink")）、[毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")
 
 ## 主題曲
@@ -182,7 +182,7 @@ foot)的大型機器人，而在當地相當受到歡迎的機器人籃球運動
 <td><p>I Am Legend</p></td>
 <td><p>我是傳奇</p></td>
 <td><p><a href="../Page/佐藤龍雄.md" title="wikilink">佐藤龍雄</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/板垣伸" title="wikilink">板垣伸</a></p></td>
+<td><p><a href="../Page/板垣伸.md" title="wikilink">板垣伸</a></p></td>
 <td><p>三浦和也</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/渡邊敦子" title="wikilink">渡邊敦子</a></p></td>
 <td><p>羅林鎮篇</p></td>
@@ -317,7 +317,7 @@ Shin hyong woo<br />
 <td><p>Secondary Break</p></td>
 <td><p>中場休息</p></td>
 <td><p>佐藤龍雄</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/橋本裕之" title="wikilink">橋本裕之</a></p></td>
+<td><p><a href="../Page/橋本裕之.md" title="wikilink">橋本裕之</a></p></td>
 <td><p>田中春香</p></td>
 <td></td>
 <td></td>

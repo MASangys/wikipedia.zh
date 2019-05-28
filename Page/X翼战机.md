@@ -52,7 +52,7 @@ X翼星際戰鬥機。
 ## 抵抗勢力（Resistance）和新共和國常见X翼战机
 
 T-70型:T-70是出现在《[STAR
-WARS：原力覺醒](https://zh.wikipedia.org/wiki/STAR_WARS：原力覺醒 "wikilink")》的X翼战机机型，这种战机由[抵抗勢力所使用以对抗](https://zh.wikipedia.org/wiki/抵抗勢力 "wikilink")[第一軍團](https://zh.wikipedia.org/wiki/第一軍團 "wikilink")，活跃于[恩多战役三十年后的战场上](https://zh.wikipedia.org/wiki/恩多战役 "wikilink")。使用T-70而不是更新的T-85其实正是[抵抗勢力缺乏资金的体现之一](https://zh.wikipedia.org/wiki/抵抗勢力 "wikilink")，因为同时期的[新共和国已在使用T](../Page/新共和国.md "wikilink")-85型。与T-65型不同，T-70的引擎外形变成了半柱形，不再是全圆柱，其机身与T-65型相比更加光滑。T-70
+WARS：原力覺醒](../Page/STAR_WARS：原力覺醒.md "wikilink")》的X翼战机机型，这种战机由[抵抗勢力所使用以对抗](https://zh.wikipedia.org/wiki/抵抗勢力 "wikilink")[第一軍團](https://zh.wikipedia.org/wiki/第一軍團 "wikilink")，活跃于[恩多战役三十年后的战场上](https://zh.wikipedia.org/wiki/恩多战役 "wikilink")。使用T-70而不是更新的T-85其实正是[抵抗勢力缺乏资金的体现之一](https://zh.wikipedia.org/wiki/抵抗勢力 "wikilink")，因为同时期的[新共和国已在使用T](../Page/新共和国.md "wikilink")-85型。与T-65型不同，T-70的引擎外形变成了半柱形，不再是全圆柱，其机身与T-65型相比更加光滑。T-70
 X翼战机是一个十字形的星际战斗机。它装备有四个翼式激光炮磁脉冲發射器，弹头發射器，还有一个悬挂式冲击波大炮。这些武器用于靶向计算机。该工機一名飞行员和一个宇航技工机器人，并配备了驾驶舱下方的腹面一个超空间引擎和聚光灯。飞行员必须获得弹射系统在戈登豪斯弹射座椅的形式。长机鼻功能弹丸发射在底部和在锥体的传感器。
 
 T-85型:T-85

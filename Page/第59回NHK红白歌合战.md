@@ -11,7 +11,7 @@
   - [姜尚中](https://zh.wikipedia.org/wiki/姜尚中 "wikilink")（政治学者）
   - [堀北真希](../Page/堀北真希.md "wikilink")（演员）
   - [妻夫木聪](https://zh.wikipedia.org/wiki/妻夫木聪 "wikilink")（演员）
-  - [上野由岐子](https://zh.wikipedia.org/wiki/上野由岐子 "wikilink")（[垒球运动员](https://zh.wikipedia.org/wiki/垒球 "wikilink")）：北京奥运会日本[垒球队投手](https://zh.wikipedia.org/wiki/垒球 "wikilink")，获得[北京奥运会金牌](https://zh.wikipedia.org/wiki/北京奥运会 "wikilink")
+  - [上野由岐子](../Page/上野由岐子.md "wikilink")（[垒球运动员](https://zh.wikipedia.org/wiki/垒球 "wikilink")）：北京奥运会日本[垒球队投手](https://zh.wikipedia.org/wiki/垒球 "wikilink")，获得[北京奥运会金牌](https://zh.wikipedia.org/wiki/北京奥运会 "wikilink")
 
 ## 主持人
 
@@ -68,7 +68,7 @@
 | 44                                                                                                                                                                                                                                                                           | [一青窈](../Page/一青窈.md "wikilink")                                                                                |
 | 45                                                                                                                                                                                                                                                                           | [中岛美嘉](https://zh.wikipedia.org/wiki/中岛美嘉 "wikilink")                                                           |
 | 47                                                                                                                                                                                                                                                                           | [石川小百合](../Page/石川小百合.md "wikilink")                                                                            |
-| 49                                                                                                                                                                                                                                                                           | [天童芳美](https://zh.wikipedia.org/wiki/天童芳美 "wikilink")                                                           |
+| 49                                                                                                                                                                                                                                                                           | [天童芳美](../Page/天童芳美.md "wikilink")                                                                              |
 | 51                                                                                                                                                                                                                                                                           | [和田現子](../Page/和田現子.md "wikilink")                                                                              |
 
 ## 相關連結

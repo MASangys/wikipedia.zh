@@ -475,7 +475,7 @@ Norman之前女友</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
 <td><p>財　哥</p></td>
 <td><p>商場保安（第1-2集）</p></td>
 </tr>
@@ -568,7 +568,7 @@ Norman之前女友</p></td>
 <td><p>「發記<a href="https://zh.wikipedia.org/wiki/潮州" title="wikilink">潮州</a><a href="https://zh.wikipedia.org/wiki/打冷" title="wikilink">打冷</a>」餐廳夥計</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
+<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
 <td><p>肥　龍</p></td>
 <td><p>大麻成朋友（第9集）</p></td>
 </tr>

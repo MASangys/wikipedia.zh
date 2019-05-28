@@ -1,8 +1,8 @@
 《**Help\!**》是[英國搖滾樂隊](https://zh.wikipedia.org/wiki/英國 "wikilink")[披頭四](https://zh.wikipedia.org/wiki/披頭四 "wikilink")，於1965年8月6日推出的第五張專輯\[1\]，也是樂隊在[北美推出的第十張專輯](https://zh.wikipedia.org/wiki/北美 "wikilink")（同名電影《[Help\!](https://zh.wikipedia.org/wiki/Help!_\(電影\) "wikilink")》的原聲大碟）\[2\]。音樂監製[乔治·马丁](../Page/乔治·马丁.md "wikilink")，為[EMI旗下唱片公司](../Page/EMI.md "wikilink")[Parlophone所錄製](https://zh.wikipedia.org/wiki/Parlophone "wikilink")。內容包括原本英國版的十四首歌曲，其中七首為電影歌曲
 -
-這些歌放在唱片的第一面，包括單曲《*[Help\!](https://zh.wikipedia.org/wiki/Help!_\(歌曲\) "wikilink")*》和《*[Ticket
+這些歌放在唱片的第一面，包括單曲《*[Help\!](../Page/Help!_\(歌曲\).md "wikilink")*》和《*[Ticket
 to
-Ride](https://zh.wikipedia.org/wiki/Ticket_to_Ride_\(歌曲\) "wikilink")*》；第二面則載有其他七首歌，包括有史以來[翻唱版本最多的歌曲](https://zh.wikipedia.org/wiki/翻唱 "wikilink")
+Ride](../Page/Ticket_to_Ride_\(歌曲\).md "wikilink")*》；第二面則載有其他七首歌，包括有史以來[翻唱版本最多的歌曲](https://zh.wikipedia.org/wiki/翻唱 "wikilink")
 -
 《*[Yesterday](https://zh.wikipedia.org/wiki/Yesterday "wikilink")*》\[3\]。
 

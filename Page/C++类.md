@@ -58,7 +58,7 @@ struct）。 \[6\]
     (2003). *[ISO/IEC 14882:2003(E): Programming Languages -
     C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §9.2
     Class members \[class.mem\]* para. 14</ref>。
-  - 一个POD结构可以包含未命名的[填充](https://zh.wikipedia.org/wiki/数据结构对齐 "wikilink")\[9\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink")
+  - 一个POD结构可以包含未命名的[填充](../Page/数据结构对齐.md "wikilink")\[9\][ISO](https://zh.wikipedia.org/wiki/ISO "wikilink")/[IEC](https://zh.wikipedia.org/wiki/International_Electrotechnical_Commission "wikilink")
     (2003). *[ISO/IEC 14882:2003(E): Programming Languages -
     C++](https://zh.wikipedia.org/wiki/ISO/IEC_14882 "wikilink") §9.2
     Class members \[class.mem\]* para. 17</ref>。
@@ -209,7 +209,7 @@ class C : public P
 `↑`
 `p`
 
-因此，任何操纵`P`对象的字段的代码都可以操纵在`C`对象中的`P`字段而不需要考虑任何关于`C`字段的定义。一个正确书写的C++程序在任何情况下都不应该对被继承字段的布局有任何假定。使用static_cast或者dynamic_cast[类型转换运算符会确保指针正确的从一个类型转换为另一个](https://zh.wikipedia.org/wiki/类型转换 "wikilink")。
+因此，任何操纵`P`对象的字段的代码都可以操纵在`C`对象中的`P`字段而不需要考虑任何关于`C`字段的定义。一个正确书写的C++程序在任何情况下都不应该对被继承字段的布局有任何假定。使用static_cast或者dynamic_cast[类型转换运算符会确保指针正确的从一个类型转换为另一个](../Page/类型转换.md "wikilink")。
 
 多重继承并不那么简单。如果一个类`D`继承了`P1`和`P2`，那么两个父类的字段需要被按照某种顺序存储，但是（在大多数情况下）只有一个父类可以被放在子类的头部。每当编译器需要将一个指向`D`的指针转换为`P1`或`P2`中的任一个，编译器需要提供一个自动转换从子类的地址转换为父类字段的地址（典型地，这是一个简单的偏移量计算）。
 
@@ -589,7 +589,7 @@ complex& operator+=(const complex & c)
 
   - [对象组合](https://zh.wikipedia.org/wiki/对象组合 "wikilink")
   - [虚继承](../Page/虚继承.md "wikilink")
-  - [类型转换](https://zh.wikipedia.org/wiki/类型转换 "wikilink")
+  - [类型转换](../Page/类型转换.md "wikilink")
 
 ## 參考
 

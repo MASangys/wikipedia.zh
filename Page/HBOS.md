@@ -3,7 +3,7 @@
 HBOS成立於2001年，是由哈利法克斯有限公司和蘇格蘭銀行合併而成\[1\]，合併後公司成為英國第五大銀行，規模與開業超過百年的[四大英國零售銀行相當](https://zh.wikipedia.org/wiki/四大銀行 "wikilink")，但她卻是英國最大的抵押貸款銀行\[2\]。[2006年HBOS集團重組法把哈利法克斯有限公司轉移至蘇格蘭銀行](https://zh.wikipedia.org/wiki/2006年HBOS集團重組法 "wikilink")，即現今的蘇格蘭銀行有限公司。
 
 雖然HBOS公司沒有交代該縮寫的由來，但已被廣泛推定為「蘇格蘭哈利法克斯銀行」（Halifax Bank of
-Scotland）。公司總部位於蘇格蘭[愛丁堡的](https://zh.wikipedia.org/wiki/愛丁堡 "wikilink")，也是前蘇格蘭銀行的總部。公司另有一個營運總部在[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[西約克郡](https://zh.wikipedia.org/wiki/西約克郡 "wikilink")[哈利法克斯](https://zh.wikipedia.org/wiki/哈利法克斯_\(西約克郡\) "wikilink")，也是前哈利法克斯公司的總部\[3\]。
+Scotland）。公司總部位於蘇格蘭[愛丁堡的](https://zh.wikipedia.org/wiki/愛丁堡 "wikilink")，也是前蘇格蘭銀行的總部。公司另有一個營運總部在[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[西約克郡](https://zh.wikipedia.org/wiki/西約克郡 "wikilink")[哈利法克斯](../Page/哈利法克斯_\(西約克郡\).md "wikilink")，也是前哈利法克斯公司的總部\[3\]。
 
 ## 历史
 

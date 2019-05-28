@@ -114,7 +114,7 @@ by NATO）的描述。
   -
   -   - [印尼陸軍](https://zh.wikipedia.org/wiki/印尼陸軍 "wikilink")\[20\]
 
-  -   - [愛爾蘭和平衛隊](https://zh.wikipedia.org/wiki/愛爾蘭和平衛隊 "wikilink")\[21\]\[22\]\[23\]
+  -   - [愛爾蘭和平衛隊](../Page/愛爾蘭和平衛隊.md "wikilink")\[21\]\[22\]\[23\]
         \[24\]\[25\]
 
   -   - [義大利陸軍](https://zh.wikipedia.org/wiki/義大利陸軍 "wikilink")
@@ -160,7 +160,7 @@ HK MP7](http://www.thefirearmblog.com/blog/2016/12/22/breaking-swedish-sog-now-
 
       - [英國陸軍](https://zh.wikipedia.org/wiki/英國陸軍 "wikilink")[特種空勤團](https://zh.wikipedia.org/wiki/特種空勤團 "wikilink")
 
-      - [倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](https://zh.wikipedia.org/wiki/專業槍械司令部 "wikilink")（MP7SF）
+      - [倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](../Page/專業槍械司令部.md "wikilink")（MP7SF）
 
   -   - [美國海軍特種作戰研究大隊](https://zh.wikipedia.org/wiki/美國海軍特種作戰研究大隊 "wikilink")\[39\]\[40\]
       - [部份地方警察單位](../Page/美國警察.md "wikilink")\[41\]\[42\]\[43\]
@@ -231,7 +231,7 @@ Officer on range.jpg|手持MP7-SF及身穿防化衣的警員
     zh-hant:戰地風雲;}-4](../Page/戰地風雲4.md "wikilink")》：[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")「中國崛起」（China
     Rising）武器之一。型號為MP7A1，命名為「MP7」（中文版則命名為「MP7衝鋒槍」），40+1發彈匣。聯機模式時於完成小任務「愛國者飛彈」以後才能解鎖，被歸類為[個人防衛武器](../Page/個人防衛武器.md "wikilink")。
   - 2013年—《[-{zh-hans:收获日;
-    zh-hant:劫薪日;}-2](https://zh.wikipedia.org/wiki/劫薪日2 "wikilink")》：型號為MP7A2，命名為「Spec-Ops
+    zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》：型號為MP7A2，命名為「Spec-Ops
     SMG」，預設使用20發彈匣供彈。
   - 2015年—《[-{zh-hans:彩虹六号：围攻;
     zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》：型號為MP7A1，命名為「MP7」，使用40發彈匣卻只有30發，被[德國聯邦警察第九國境守備隊](../Page/德國聯邦警察第九國境守備隊.md "wikilink")（簡稱GSG9）所使用。
@@ -239,7 +239,7 @@ Officer on range.jpg|手持MP7-SF及身穿防化衣的警員
     zh-hant:戰地風雲：強硬路線;}-](../Page/战地：硬仗.md "wikilink")》：型號為MP7A1，命名為「MP7」，歸類為衝鋒槍，為資料片「劫案」新增武器，40+1發彈匣，被警匪雙方所有職階所使用，價格為$36,000。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro
     T1、SRS 02、[Comp
     M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍）
-    、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。
+    、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。
   - 2016年—《[殺戮空間2](https://zh.wikipedia.org/wiki/殺戮空間2 "wikilink")》（Killing
     Floor 2）：型號為MP7A1，命名為「MP7 SMG」，使用40發彈匣但只有30發，裝有抑制器和C-More紅點鏡。
   - 2016年（台版2017年）—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：[擬人化角色](../Page/萌擬人化.md "wikilink"),配有T1瞄具及專用消音管,40發彈匣,首次登場為2018年「塌縮點」資料片。
@@ -258,7 +258,7 @@ Officer on range.jpg|手持MP7-SF及身穿防化衣的警員
     Gale
     Online（GGO）裡中使用的附屬戰鬥武裝（在动画版中被更换为奥地利的[格洛克18全自动手枪](../Page/格洛克18.md "wikilink")，在开场音乐中有射击手枪的画面。）
   - 2014年－《[刀劍神域外傳Gun Gale
-    Online](https://zh.wikipedia.org/wiki/刀劍神域外傳Gun_Gale_Online "wikilink")》：型號為MP7A1，被“TOMS”小隊的“柯爾”所使用。
+    Online](../Page/刀劍神域外傳Gun_Gale_Online.md "wikilink")》：型號為MP7A1，被“TOMS”小隊的“柯爾”所使用。
 
 ## 相關條目
 
@@ -268,7 +268,7 @@ Officer on range.jpg|手持MP7-SF及身穿防化衣的警員
   - [FN P90衝鋒槍](../Page/FN_P90衝鋒槍.md "wikilink")
   - [B\&T MP9戰術衝鋒槍](../Page/B&T_MP9戰術衝鋒槍.md "wikilink")
   - [個人防衛武器](../Page/個人防衛武器.md "wikilink")
-  - [HK UCP手槍](https://zh.wikipedia.org/wiki/HK_UCP手槍 "wikilink")
+  - [HK UCP手槍](../Page/HK_UCP手槍.md "wikilink")
 
 ## 參考資料
 

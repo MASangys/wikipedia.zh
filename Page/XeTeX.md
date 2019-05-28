@@ -14,11 +14,11 @@ Math字体代替传统的TeX字体](https://zh.wikipedia.org/wiki/Asana_Math "wi
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，并包括了内建的[ATT和](https://zh.wikipedia.org/wiki/Apple_Advanced_Typography "wikilink")[Unicode支持](https://zh.wikipedia.org/wiki/Unicode "wikilink")。2005年，加入了对OpenType的支持。在2006年BachoTeX期间，发布了第一个支持[Linux的版本](../Page/Linux.md "wikilink")，并在数月后由Akira
 Kakuto移植到了[Microsoft
 Windows上](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，其跨平台版本最终包含在[
-Live](https://zh.wikipedia.org/wiki/TeX_Live "wikilink")
+Live](../Page/TeX_Live.md "wikilink")
 2007中。另外，从2.7版开始，[MiK也包含了](https://zh.wikipedia.org/wiki/MiKTeX "wikilink")。
 
 作为[
-Live的一部分](https://zh.wikipedia.org/wiki/TeX_Live "wikilink")，支持大多数为[](https://zh.wikipedia.org/wiki/LaTeX "wikilink")、[OpenType](../Page/OpenType.md "wikilink")、[TrueType和](../Page/TrueType.md "wikilink")[PostScript字体开发的巨集包](../Page/PostScript.md "wikilink")，而无需特别的安装和设定。
+Live的一部分](../Page/TeX_Live.md "wikilink")，支持大多数为[](https://zh.wikipedia.org/wiki/LaTeX "wikilink")、[OpenType](../Page/OpenType.md "wikilink")、[TrueType和](../Page/TrueType.md "wikilink")[PostScript字体开发的巨集包](../Page/PostScript.md "wikilink")，而无需特别的安装和设定。
 
 [BachoTeX](https://zh.wikipedia.org/wiki/BachoTeX "wikilink")
 2008上宣布发行0.998版本，通过`\XeTeXinputnormalization`命令支持[Unicode正规化](https://zh.wikipedia.org/wiki/Unicode正规化 "wikilink")。
@@ -46,7 +46,7 @@ Text](https://zh.wikipedia.org/wiki/Hoefler_Text "wikilink")）渲染[合字](..
 可以很好的支持[和](https://zh.wikipedia.org/wiki/LaTeX "wikilink")[巨集包](../Page/巨集.md "wikilink")。其中，LaTeX部分以`xelatex`的方式引用。并通常与`fontspec`一起使用，该巨集包提供字体的配置方式，并允许重新命名复杂的字体名称以便于再利用\[4\]。
 
 包含在[
-Live](https://zh.wikipedia.org/wiki/TeX_Live "wikilink")、和[MiK发行包中](https://zh.wikipedia.org/wiki/MiKTeX "wikilink")。
+Live](../Page/TeX_Live.md "wikilink")、和[MiK发行包中](https://zh.wikipedia.org/wiki/MiKTeX "wikilink")。
 
 ## 示例
 

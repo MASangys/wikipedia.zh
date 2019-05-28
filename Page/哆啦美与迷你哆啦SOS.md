@@ -60,7 +60,7 @@
 </tr>
 <tr class="odd">
 <td><p>骨川脛樹（小樹）／<a href="https://zh.wikipedia.org/wiki/小夫" title="wikilink">小夫</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/肝付兼太" title="wikilink">肝付兼太</a></p></td>
+<td><p><a href="../Page/肝付兼太.md" title="wikilink">肝付兼太</a></p></td>
 </tr>
 <tr class="even">
 <td><p>小緣</p></td>

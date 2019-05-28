@@ -1,6 +1,6 @@
 是由[Chunsoft开发](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")，[艾尼克斯](../Page/艾尼克斯.md "wikilink")（今[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）发行的[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，游戏时[勇者斗恶龙系列的第四部作品](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")。游戏最早于1990年2月11日发行于日本[FC游戏机平台](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")，北美版本由艾尼克斯北美公司本地化，并于1992年10月以“Dragon
 Warrior
-IV”为名发行。游戏由[Heartbeat重制于](https://zh.wikipedia.org/wiki/Heartbeat_\(游戏公司\) "wikilink")[PlayStation平台](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，同时该版本还作为[Ultimate
+IV”为名发行。游戏由[Heartbeat重制于](https://zh.wikipedia.org/wiki/Heartbeat_\(游戏公司\) "wikilink")[PlayStation平台](../Page/PlayStation.md "wikilink")，同时该版本还作为[Ultimate
 Hit作品发行](https://zh.wikipedia.org/wiki/Ultimate_Hit "wikilink")。之后游戏又由[ArtePiazza重制于](../Page/ArtePiazza.md "wikilink")[任天堂DS平台](../Page/任天堂DS.md "wikilink")，游戏于2007年11月22日在日本发行，2008年9月11日和12日在澳大利亚和欧洲以“Dragon
 Quest: Chapters of the Chosen”为名发行\[1\]，2008年9月16日在北美以“Dragon Quest IV:
 Chapters of the Chosen”为名发行。智能电话版于2014年在日本发行\[2\]。
@@ -38,7 +38,7 @@ Chapters of the Chosen”为名发行。智能电话版于2014年在日本发行
 
 ### PlayStation重制版
 
-《勇者斗恶龙IV》的[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[重制版于](https://zh.wikipedia.org/wiki/强化重制版 "wikilink")2001年11月22日在日本发行。游戏由[Heartbeat开发](https://zh.wikipedia.org/wiki/Heartbeat_\(公司\) "wikilink")，艾尼克斯发行。重制版使用《[勇者斗恶龙VII](https://zh.wikipedia.org/wiki/勇者斗恶龙VII "wikilink")》的3D图形引擎，但保持了《勇者斗恶龙IV》的故事和世界。角色、城镇、世界地图、声音、战斗与敌人都进行了更新。角色[子图形依照攻略本和插图重新绘制](https://zh.wikipedia.org/wiki/精灵_\(计算机图形学\) "wikilink")，以对应原版的插图设计。重制版加入了数项新功能。游戏增加了第六章，即皮萨罗可以成为玩家角色，同时还增加了简短的序章；引入了和《勇者斗恶龙VII》类似的队内伙伴对话命令；允许玩家停用战斗人工智能，直接手动控制角色攻击（临时队员除外）。游戏在2001年中出货超过百万\[9\]。
+《勇者斗恶龙IV》的[PlayStation](../Page/PlayStation.md "wikilink")[重制版于](https://zh.wikipedia.org/wiki/强化重制版 "wikilink")2001年11月22日在日本发行。游戏由[Heartbeat开发](https://zh.wikipedia.org/wiki/Heartbeat_\(公司\) "wikilink")，艾尼克斯发行。重制版使用《[勇者斗恶龙VII](https://zh.wikipedia.org/wiki/勇者斗恶龙VII "wikilink")》的3D图形引擎，但保持了《勇者斗恶龙IV》的故事和世界。角色、城镇、世界地图、声音、战斗与敌人都进行了更新。角色[子图形依照攻略本和插图重新绘制](https://zh.wikipedia.org/wiki/精灵_\(计算机图形学\) "wikilink")，以对应原版的插图设计。重制版加入了数项新功能。游戏增加了第六章，即皮萨罗可以成为玩家角色，同时还增加了简短的序章；引入了和《勇者斗恶龙VII》类似的队内伙伴对话命令；允许玩家停用战斗人工智能，直接手动控制角色攻击（临时队员除外）。游戏在2001年中出货超过百万\[9\]。
 
 [艾尼克斯美国最初计划](../Page/艾尼克斯.md "wikilink")2002年在北美发行重制版，甚至在北美《勇者斗恶龙VII》说明书的封底打上了游戏即将发行的广告。然而由于Heartbeat在本地化和翻译即将完成前，结束了电子游戏开发运营，游戏最终取消\[10\]\[11\]。随后的解释称，由另一公司完成翻译所投资的财力和时间使得艾尼克斯不可能将游戏转给其它开发者，因为Heartbeat对它自己的设计最熟悉的\[12\]。
 

@@ -9,7 +9,7 @@ EMV三个字母分别代表、[MasterCard與](https://zh.wikipedia.org/wiki/Mast
 接触式卡片标准以為基準，非接触式卡片（[Master-{}-Card
 Contactless](../Page/MasterCard_Contactless.md "wikilink")、[Visa
 payWave](../Page/Visa_payWave.md "wikilink")、[AE
-ExpressPay和](https://zh.wikipedia.org/wiki/AE_ExpressPay "wikilink")[闪付](../Page/闪付.md "wikilink")）标准以[ISO/IEC
+ExpressPay和](../Page/AE_ExpressPay.md "wikilink")[闪付](../Page/闪付.md "wikilink")）标准以[ISO/IEC
 14443為基準](https://zh.wikipedia.org/wiki/ISO/IEC_14443 "wikilink")。
 
 广为人知的使用了EMV标准的芯片卡有：

@@ -31,7 +31,7 @@ Computing”不愿以LGPL授权发布PyQt。\[2\]
 
 PyQt包含了大约440个类型、超过6000个的函数和方法。
 
-  - “QtCore”模块主要包含了一些非GUI的基础功能，包含事件循环与Qt的信号机制。此外，还提供了跨平台的[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")、[线程](../Page/线程.md "wikilink")、[内存映射文件](https://zh.wikipedia.org/wiki/内存映射文件 "wikilink")、[共享内存](https://zh.wikipedia.org/wiki/共享内存 "wikilink")、[正则表达式和用户设置](../Page/正则表达式.md "wikilink")。
+  - “QtCore”模块主要包含了一些非GUI的基础功能，包含事件循环与Qt的信号机制。此外，还提供了跨平台的[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")、[线程](../Page/线程.md "wikilink")、[内存映射文件](../Page/内存映射文件.md "wikilink")、[共享内存](https://zh.wikipedia.org/wiki/共享内存 "wikilink")、[正则表达式和用户设置](../Page/正则表达式.md "wikilink")。
 
 <!-- end list -->
 

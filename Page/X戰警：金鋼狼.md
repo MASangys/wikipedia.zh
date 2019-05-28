@@ -5,7 +5,7 @@ Hood）執導，[大衛·班紐夫編劇](https://zh.wikipedia.org/wiki/David_Be
 
 ## 劇情
 
-1845年，[加拿大男孩](../Page/加拿大.md "wikilink")[詹姆斯·赫利特目睹他的父親被家裡的園丁湯瑪斯](https://zh.wikipedia.org/wiki/金剛狼 "wikilink")·羅根開槍殺害，在憤怒的引導下爆發出變種基因，使他兩隻手拳頭之間分別伸出三根堅硬骨爪。詹姆斯殺死湯瑪斯後，卻發現他才是自己的父親，無法接受事實下和他同父異母的哥哥[維克多·克里德逃離家](https://zh.wikipedia.org/wiki/劍齒虎_\(漫威漫畫\) "wikilink")。兄弟倆從此相依為命，經歷美國[南北戰爭](https://zh.wikipedia.org/wiki/南北戰爭 "wikilink")、兩次[世界](https://zh.wikipedia.org/wiki/一戰 "wikilink")[大戰和](https://zh.wikipedia.org/wiki/二戰 "wikilink")[越南戰爭](https://zh.wikipedia.org/wiki/越南戰爭 "wikilink")，靠他們的自愈能力來永生不死。但於越戰時，維克多的獸性逐漸失控，不慎誤殺長官和詹姆斯一起被判處[槍決](https://zh.wikipedia.org/wiki/槍決 "wikilink")，由於還是無法死去，兄弟倆被判處終身監禁，直到一位[少校](../Page/少校.md "wikilink")[威廉·史崔克對兄弟倆提議加入他的一個由多數變種人組成的](https://zh.wikipedia.org/wiki/威廉·史崔克 "wikilink")「」。
+1845年，[加拿大男孩](../Page/加拿大.md "wikilink")[詹姆斯·赫利特目睹他的父親被家裡的園丁湯瑪斯](https://zh.wikipedia.org/wiki/金剛狼 "wikilink")·羅根開槍殺害，在憤怒的引導下爆發出變種基因，使他兩隻手拳頭之間分別伸出三根堅硬骨爪。詹姆斯殺死湯瑪斯後，卻發現他才是自己的父親，無法接受事實下和他同父異母的哥哥[維克多·克里德逃離家](../Page/劍齒虎_\(漫威漫畫\).md "wikilink")。兄弟倆從此相依為命，經歷美國[南北戰爭](https://zh.wikipedia.org/wiki/南北戰爭 "wikilink")、兩次[世界](https://zh.wikipedia.org/wiki/一戰 "wikilink")[大戰和](https://zh.wikipedia.org/wiki/二戰 "wikilink")[越南戰爭](https://zh.wikipedia.org/wiki/越南戰爭 "wikilink")，靠他們的自愈能力來永生不死。但於越戰時，維克多的獸性逐漸失控，不慎誤殺長官和詹姆斯一起被判處[槍決](https://zh.wikipedia.org/wiki/槍決 "wikilink")，由於還是無法死去，兄弟倆被判處終身監禁，直到一位[少校](../Page/少校.md "wikilink")[威廉·史崔克對兄弟倆提議加入他的一個由多數變種人組成的](../Page/威廉·史崔克.md "wikilink")「」。
 
 兄弟倆會見隊伍其他變種人成員：槍法精準的、善用兩把武士刀的[韋德·威爾森](../Page/死侍.md "wikilink")、行動如同幽靈的、皮膚無堅不摧的、以及能夠自由遙控電器的。詹姆斯如今用父親姓名取的軍用代號「羅根」，和維克多加入小隊度過幾年，但於[非洲尋找某種稀有物質的任務中](../Page/非洲.md "wikilink")，羅根看不慣隊伍草菅人命的程度，因此不理會維克多後轉身離去。六年過去，羅根回到加拿大當[木工](../Page/木工.md "wikilink")，跟他的女友過著舒適又幸福的日子，直到史崔克和零號回來見他，表明維克多相繼殺死韋德和布拉德利，希望羅根能歸隊制止他，但羅根還是拒絕再次為他賣命。
 
@@ -13,7 +13,7 @@ Hood）執導，[大衛·班紐夫編劇](https://zh.wikipedia.org/wiki/David_Be
 
 羅根來到[拉斯維加斯找到約翰和杜克斯](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")，並試圖從如今因[暴食症而肥胖無比的杜克斯口中問出一些情報](https://zh.wikipedia.org/wiki/暴食症 "wikilink")，被迫和他打一場拳擊後，問出史崔克在一座島上對變種人進行實驗。杜克斯供出有一位人稱「[金牌手](../Page/金牌手.md "wikilink")」的變種人逃出去過，羅根便和隨行的約翰動身來到[新奧爾良找到金牌手](https://zh.wikipedia.org/wiki/新奧爾良 "wikilink")。約翰注意到維克多後，得知他已經殺死杜克斯，和維克多交戰同時也遭他殺害。而金牌手誤以為羅根是史崔克的人便對他發起攻擊，羅根被打到外面時剛巧遇到維克多，卻因為金牌手的介入導致維克多跑掉。羅根被迫打敗金牌手才說服他帶他去史崔克的島上。
 
-兩人到達位於[三哩島核電廠島上的實驗室後](../Page/三哩島核電廠.md "wikilink")，羅根獨自進去見到史崔克，但同時也注意到凱拉還活著，甚至得知她其實是一位替史崔克賣命的女變種人。羅根在惱羞成怒下負氣離開，凱拉打算向史崔克要回遭他囚禁的變種人妹妹，但史崔克不僅拒絕放她的妹妹，並也拒絕維克多接受同樣的金屬手術，稱他的身體自愈能力的程度是無法撐過手術。維克多因為憤怒而準備殺死凱拉，羅根聽到她的尖叫後選擇回去幫她，並將維克多毆打至樓下而摔昏。羅根和凱拉釋放被史崔克囚禁的多數變種人，但基地看守放槍使得凱拉身上中一槍。凱拉的妹妹[艾瑪和能從眼睛發射激光的](https://zh.wikipedia.org/wiki/艾瑪·佛斯特 "wikilink")[史考特·薩默斯帶領其他變種人](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")，跟隨著大腦裏傳來的聲音，最後集體被前來拯救他們的[查爾斯·賽維爾接到安全地方](../Page/X教授.md "wikilink")。
+兩人到達位於[三哩島核電廠島上的實驗室後](../Page/三哩島核電廠.md "wikilink")，羅根獨自進去見到史崔克，但同時也注意到凱拉還活著，甚至得知她其實是一位替史崔克賣命的女變種人。羅根在惱羞成怒下負氣離開，凱拉打算向史崔克要回遭他囚禁的變種人妹妹，但史崔克不僅拒絕放她的妹妹，並也拒絕維克多接受同樣的金屬手術，稱他的身體自愈能力的程度是無法撐過手術。維克多因為憤怒而準備殺死凱拉，羅根聽到她的尖叫後選擇回去幫她，並將維克多毆打至樓下而摔昏。羅根和凱拉釋放被史崔克囚禁的多數變種人，但基地看守放槍使得凱拉身上中一槍。凱拉的妹妹[艾瑪和能從眼睛發射激光的](../Page/艾瑪·佛斯特.md "wikilink")[史考特·薩默斯帶領其他變種人](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")，跟隨著大腦裏傳來的聲音，最後集體被前來拯救他們的[查爾斯·賽維爾接到安全地方](../Page/X教授.md "wikilink")。
 
 為了對付羅根，史崔克啟動他的傑作「十一號武器」（Weapon
 XI）：經過人體改造、再由多數變種人基因所融合的韋德；牠擁有多數變種能力而讓羅根一人無法匹敵，維克多突然回來協助羅根，稱他幫忙只是不會讓任何人捷足先登殺死羅根；兩兄弟在背靠背的合作之下，羅根成功將十一號斬首，使他的屍體掉進核電站反應爐中引發坍塌。維克多離開後，史崔克對羅根的頭部擊中兩槍，使得羅根在大腦重創而[失去所有記憶](https://zh.wikipedia.org/wiki/逆行性失憶症 "wikilink")。凱拉靠她的觸碰催眠能力操縱史崔克的心智，命令他要一直走路走到雙腳流血為止，而史崔克開始徐徐向前走後，凱拉不久後死於胸口槍傷。羅根清醒後失去所有記憶，通過他脖子上的軍牌認為他名叫羅根，發現凱拉的屍體後卻無法認出她，跟金牌手分別後趁軍方來臨前逃離島嶼。
@@ -39,14 +39,14 @@ James "Logan" Howlett / Wolverine</p></td>
 <tr class="odd">
 <td><p><a href="../Page/李佛·薛伯.md" title="wikilink">李佛·薛伯</a><br />
 Liev Schreiber</p></td>
-<td><p>「<a href="https://zh.wikipedia.org/wiki/劍齒虎_(漫威漫畫)" title="wikilink">劍齒虎</a>」維克多·克里德<br />
+<td><p>「<a href="../Page/劍齒虎_(漫威漫畫).md" title="wikilink">劍齒虎</a>」維克多·克里德<br />
 Victor Creed / Sabretooth</p></td>
 <td><p>羅根的同父異母兄長與戰友，一直被金鋼狼信任，但他們兄弟倆後期開始反目成仇，成為宿敵。變種能力為指甲變長並堅韌化，同時也有著快速自愈能力，但比羅根稍弱。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/丹尼·休斯頓.md" title="wikilink">丹尼·休斯頓</a><br />
 Danny Huston</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/威廉·史崔克" title="wikilink">威廉·史崔克</a><br />
+<td><p><a href="../Page/威廉·史崔克.md" title="wikilink">威廉·史崔克</a><br />
 William Stryker</p></td>
 <td><p>美軍少校，X小隊的召集者。表面上將變種人編成特種部隊在第三世界進行搜查任務，實際目的是獲得變種人基因的操作手段。</p></td>
 </tr>
@@ -111,7 +111,7 @@ Scott Summers</p></td>
 <tr class="odd">
 <td><p><br />
 Tahyna Tozzi</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/艾瑪·佛斯特" title="wikilink">艾瑪·佛斯特</a><br />
+<td><p><a href="../Page/艾瑪·佛斯特.md" title="wikilink">艾瑪·佛斯特</a><br />
 Emma Frost</p></td>
 <td><p>凱拉的妹妹，能力獨特的女變種人，具備著皮膚能鑽石化防禦的能力。</p></td>
 </tr>
@@ -130,7 +130,7 @@ Charles Xavier / Professor X</p></td>
 ### X戰警2
 
   - 此集中，羅根被注入[亞德曼金屬](https://zh.wikipedia.org/wiki/亞德曼金屬 "wikilink")，而改造成金鋼狼，第一次伸出爪子時，並沒有與《[X戰警2](../Page/X戰警2.md "wikilink")》中羅根過去的記憶裡一樣血流如注。
-  - 在此集，[威廉·史崔克的基地在美國](https://zh.wikipedia.org/wiki/威廉·史崔克 "wikilink")[三哩島核電廠](../Page/三哩島核電廠.md "wikilink")，在《[X戰警2](../Page/X戰警2.md "wikilink")》中，卻在加拿大阿爾克萊湖裡。
+  - 在此集，[威廉·史崔克的基地在美國](../Page/威廉·史崔克.md "wikilink")[三哩島核電廠](../Page/三哩島核電廠.md "wikilink")，在《[X戰警2](../Page/X戰警2.md "wikilink")》中，卻在加拿大阿爾克萊湖裡。
 
 ## 製作
 

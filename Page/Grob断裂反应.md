@@ -30,7 +30,7 @@ N
 
 反应过程：[硼氢化钠将](../Page/硼氢化钠.md "wikilink")
 (1)还原为[醇](../Page/醇.md "wikilink")
-(2)；与[甲磺酰氯在](https://zh.wikipedia.org/wiki/甲磺酰氯 "wikilink")[吡啶中取代为](../Page/吡啶.md "wikilink")[甲磺酸酯](https://zh.wikipedia.org/wiki/甲磺酸酯 "wikilink")
+(2)；与[甲磺酰氯在](https://zh.wikipedia.org/wiki/甲磺酰氯 "wikilink")[吡啶中取代为](../Page/吡啶.md "wikilink")[甲磺酸酯](../Page/甲磺酸酯.md "wikilink")
 (3)；用[三叔丁氧基氢化铝锂在](https://zh.wikipedia.org/wiki/三叔丁氧基氢化铝锂 "wikilink")[四氢呋喃中将不饱和酮部分还原为](../Page/四氢呋喃.md "wikilink")[烯丙醇](../Page/烯丙醇.md "wikilink")
 (4)；与[硼烷在](../Page/硼烷.md "wikilink")[THF中发生](https://zh.wikipedia.org/wiki/THF "wikilink")[硼氢化生成三烃基硼](https://zh.wikipedia.org/wiki/硼氢化 "wikilink")
 (5)；最后用[甲醇钠](../Page/甲醇钠.md "wikilink")[回流处理](https://zh.wikipedia.org/wiki/回流 "wikilink")，甲氧基负离子加到硼上，接着四配位的硼作离电体，甲磺酰氧基作离核体，经过两者的一推一拉作用发生断裂，生成毒胡萝卜素

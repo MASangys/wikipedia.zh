@@ -7,7 +7,7 @@
 
 2004年11月8日，香港獨立媒體編輯部成員阿藹評論，Ohmynews成為韓國大型媒體之一與韓國最成功的一場公民運動，因為它鼓勵市民關心自己生活、關心社會、並透過報導去改革社會，而這場公民運動最重要的群體是年輕人，這場公民運動使年輕人明白「政治是在自己身邊發生的事物，而不是由政客和議員所壟斷的」\[1\]。
 
-2005年6月23至26日，OhmyNews於[首爾舉辦第一屆](https://zh.wikipedia.org/wiki/首爾 "wikilink")「OhmyNews國際公民記者論壇」（OhmyNews
+2005年6月23至26日，OhmyNews於[首爾舉辦第一屆](../Page/首爾.md "wikilink")「OhmyNews國際公民記者論壇」（OhmyNews
 International Citizen Reporters' Forum）。
 
 2006年2月22日，OhmyNews與[軟體銀行簽下市值](https://zh.wikipedia.org/wiki/軟體銀行 "wikilink")1100萬[美元的投資契約](../Page/美元.md "wikilink")，合資在[日本成立](../Page/日本.md "wikilink")「OhmyNews國際株式會社」（OhmyNews

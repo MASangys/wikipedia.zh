@@ -7,7 +7,7 @@ Nambiar）教練發現並進行專業訓練。次年即代表印度參加了[莫
 
 1982年[新德裡亞運會](https://zh.wikipedia.org/wiki/新德裡亞運會 "wikilink")，她得到女子100米和200米銀牌。1983年參加在[科威特城舉行的](../Page/科威特城.md "wikilink")[亞洲田徑錦標賽](https://zh.wikipedia.org/wiki/亞洲田徑錦標賽 "wikilink")，烏莎獲得女子400米金牌並打破[亞洲記錄](https://zh.wikipedia.org/wiki/亞洲田徑記錄 "wikilink")。此後一直到1989年，她總共在亞洲田徑錦標賽上獲得13塊金牌，3塊銀牌，1塊銅牌。1984年的[洛杉磯奧運會](https://zh.wikipedia.org/wiki/洛杉磯奧運會 "wikilink")，烏莎以最佳成績進入女子400米欄的決賽，可惜在決賽最後階段後勁不繼，以百分之一秒之差取得第四，與獎牌失之交臂。
 
-1985年的亞洲田徑錦標賽，她獲得六塊獎牌（5塊金牌和1塊銅牌），至今這仍是世界上任何田徑運動員在同一次洲際運動會上取得獎牌的記錄。1986年[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")（當時叫漢城）[亞運會](https://zh.wikipedia.org/wiki/漢城亞運會 "wikilink")，烏莎得到4塊金牌和1塊銀牌，在她參加的所有項目里都刷新了亞運會記錄。
+1985年的亞洲田徑錦標賽，她獲得六塊獎牌（5塊金牌和1塊銅牌），至今這仍是世界上任何田徑運動員在同一次洲際運動會上取得獎牌的記錄。1986年[首爾](../Page/首爾.md "wikilink")（當時叫漢城）[亞運會](https://zh.wikipedia.org/wiki/漢城亞運會 "wikilink")，烏莎得到4塊金牌和1塊銀牌，在她參加的所有項目里都刷新了亞運會記錄。
 
 烏莎在整個運動生涯中總共為印度獲得了101塊國際比賽的獎牌，為此她獲得了[議會頒發的獎章](https://zh.wikipedia.org/wiki/印度議會 "wikilink")。今天的烏莎是[印度南方鐵路局的僱員](https://zh.wikipedia.org/wiki/印度南方鐵路局 "wikilink")。
 

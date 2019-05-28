@@ -1,6 +1,6 @@
 ****（也写作“**Wolfram|Alpha**”，缩写 **W|A**），是由 [Wolfram
 Research](https://zh.wikipedia.org/wiki/Wolfram_Research "wikilink")
-公司推出的一款在线自动[问答系统](https://zh.wikipedia.org/wiki/问答系统 "wikilink")。其特色是可以直接向用户返回答案，而不是像传统[搜索引擎一样提供一系列可能含有用户所需答案的相关网页](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")\[1\]。
+公司推出的一款在线自动[问答系统](https://zh.wikipedia.org/wiki/问答系统 "wikilink")。其特色是可以直接向用户返回答案，而不是像传统[搜索引擎一样提供一系列可能含有用户所需答案的相关网页](../Page/搜索引擎.md "wikilink")\[1\]。
 
 Wolfram Alpha 于 2009 年 5 月 18 日正式发布\[2\]，它是基于 Wolfram 早期旗舰产品
 [Mathematica](https://zh.wikipedia.org/wiki/Mathematica "wikilink")，一款囊括了计算机代数、符号和数值计算、可视化和统计功能的计算平台和工具包开发的。其数据来源包括学术网站和出版物、商业网站和公司、科学机构等等，例如[中央情报局出版物](../Page/中央情报局.md "wikilink")《[世界概况](../Page/世界概况.md "wikilink")》、[康奈尔大学图书馆出版物](https://zh.wikipedia.org/wiki/康奈尔大学 "wikilink")《All

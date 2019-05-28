@@ -14,7 +14,7 @@ Japan Communications](../Page/德間日本傳播.md "wikilink")。
   - B面曲「心願（願い）」，是一首十分配合冬季氣氛，與「Dream
     Fighter」做成強烈對比的慢版歌曲。在其後推出的專輯「[⊿](../Page/⊿_\(Perfume專輯\).md "wikilink")」，收錄了這首歌的混音版本。
   - 封面圖片的設計，由アミタマリ負責，並以「堅強的女性」這個主題為設計概念。PV方面，則由關和亮負責，他希望能製作一個像是「[Computer
-    City](../Page/Computer_City.md "wikilink")」（Perfume在2006推出的單曲）的現代版本的PV。舞蹈由[MIKIKO老師設計](https://zh.wikipedia.org/wiki/MIKIKO "wikilink")。這首歌同時獲得了2009年「MVA
+    City](../Page/Computer_City.md "wikilink")」（Perfume在2006推出的單曲）的現代版本的PV。舞蹈由[MIKIKO老師設計](../Page/MIKIKO.md "wikilink")。這首歌同時獲得了2009年「MVA
     BEST CHOREOGRAPHY VIDEO（舞蹈動作，跳舞方面最出色作品）」獎項。
   - 單曲曾登上[Oricon公信榜單曲週榜第二名](../Page/Oricon公信榜.md "wikilink")。\[1\]
 

@@ -34,7 +34,7 @@ OpenDNS的一部分收入来自他们不能自动更正的错误域名而出现�
 说明它不是一个纯粹的网站搜索器，那些收录用来支付定制
 DNS 服务。 OpenDNS也提供增强的DNS附加服务，当然，这是需要付费的。\[10\]
 附加服务的一个例子是2007年4月22日启动的一项“快捷方式”服务\[11\]，让用户设置本地DNS映射，比如把“mail”映射到“mail.yahoo.com”。这项功能被用在很多公共领域，包括[纽约时报](../Page/纽约时报.md "wikilink")\[12\]、[Wired](https://zh.wikipedia.org/wiki/Wired "wikilink")\[13\]和[PC
-World](https://zh.wikipedia.org/wiki/PC_World "wikilink")\[14\]。2014年出于商业服务上的安全的考虑，OpenDNS停止广告服务。<ref name=Keizer>
+World](../Page/PC_World.md "wikilink")\[14\]。2014年出于商业服务上的安全的考虑，OpenDNS停止广告服务。<ref name=Keizer>
 
   - </ref>
 

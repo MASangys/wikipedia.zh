@@ -17,7 +17,7 @@ Records发售。
         作曲：[Joe
         Rinoie](https://zh.wikipedia.org/wiki/Joe_Rinoie "wikilink")
         編曲：Joe Rinoie & [Kentaro
-        Sato](https://zh.wikipedia.org/wiki/佐藤賢太郎 "wikilink")
+        Sato](../Page/佐藤賢太郎.md "wikilink")
 
       - 歌：Stephanie & 满岛光
 

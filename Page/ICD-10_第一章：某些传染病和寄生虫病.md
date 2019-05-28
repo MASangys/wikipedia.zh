@@ -399,7 +399,7 @@
 
 [蠕虫病](https://zh.wikipedia.org/wiki/蠕虫病 "wikilink")（B65-B83）
 
-  - () [血吸虫病](https://zh.wikipedia.org/wiki/血吸虫病 "wikilink")
+  - () [血吸虫病](../Page/血吸虫病.md "wikilink")
   - () 其他[吸虫感染](https://zh.wikipedia.org/wiki/吸虫 "wikilink")
   - () [包虫病](https://zh.wikipedia.org/wiki/包虫病 "wikilink")
   - () [绦虫病](https://zh.wikipedia.org/wiki/绦虫病 "wikilink")

@@ -51,8 +51,7 @@ NATO子彈的C-Mag約重2.1公斤，100發子彈就需要四個30發[彈匣作�
   - [FN SCAR-H戰鬥步槍](../Page/FN_SCAR突擊步槍.md "wikilink")
   - [雷明登MSR狙击步枪](https://zh.wikipedia.org/wiki/雷明登MSR狙击步枪 "wikilink")
   - [AR-10](../Page/AR-10自動步槍.md "wikilink")
-      - [SIG SG
-        716戰鬥步槍](https://zh.wikipedia.org/wiki/SIG_SG_716戰鬥步槍 "wikilink")
+      - [SIG SG 716戰鬥步槍](../Page/SIG_SG_716戰鬥步槍.md "wikilink")
       - [史密斯威森軍警型M\&P10半自動步槍](../Page/史密斯威森軍警型M&P10半自動步槍.md "wikilink")
       - JP LRP07狙击步枪
       - BAER308狙击步枪

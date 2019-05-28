@@ -122,7 +122,7 @@ ISDB-T中，根据[MPEG-2实施传送信号的复用](../Page/MPEG-2.md "wikilin
 ## 參見
 
   - [數碼電視](https://zh.wikipedia.org/wiki/數碼電視 "wikilink")
-  - [地面數碼電視](https://zh.wikipedia.org/wiki/地面數碼電視 "wikilink")
+  - [地面數碼電視](../Page/地面數碼電視.md "wikilink")
   - [數碼聲音廣播](../Page/數碼聲音廣播.md "wikilink")
   - [DMB](../Page/DMB.md "wikilink")
   - [1seg](../Page/1seg.md "wikilink")

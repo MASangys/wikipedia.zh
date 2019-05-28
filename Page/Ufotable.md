@@ -28,7 +28,7 @@ Ltd.）的製作人[近藤光](https://zh.wikipedia.org/wiki/近藤光 "wikilink
   - [熱情傳奇 the
     X](https://zh.wikipedia.org/wiki/熱情傳奇_the_X "wikilink")（2016年）
   - 活擊[刀劍亂舞](../Page/刀劍亂舞.md "wikilink")（2017年）
-  - [衛宮家今天的餐桌風景](https://zh.wikipedia.org/wiki/衛宮家今天的餐桌風景 "wikilink")（2018年）
+  - [衛宮家今天的餐桌風景](../Page/衛宮家今天的餐桌風景.md "wikilink")（2018年）
   - [鬼滅之刃](../Page/鬼滅之刃.md "wikilink")（2019年）
 
 ### OVA
@@ -95,12 +95,11 @@ Ltd.）的製作人[近藤光](https://zh.wikipedia.org/wiki/近藤光 "wikilink
   - [ジャスティーン（JUSTEEN）](https://zh.wikipedia.org/wiki/我的妹妹哪有這麼可愛！#劇中動畫 "wikilink")（委託公司：[動畫國際公司](../Page/動畫國際公司.md "wikilink")，動畫，2010年）
   - [勿忘蛛](https://zh.wikipedia.org/wiki/青年动画制作者育成计划#动画未来2013（2012年度） "wikilink")（委託公司：[Production
     I.G](../Page/Production_I.G.md "wikilink")，動畫，2012年）
-  - [世界征服
-    謀略之星](https://zh.wikipedia.org/wiki/世界征服_謀略之星 "wikilink")（委託公司：[A-1
+  - [世界征服 謀略之星](../Page/世界征服_謀略之星.md "wikilink")（委託公司：[A-1
     Pictures](../Page/A-1_Pictures.md "wikilink")，OP動畫，2014年）
   - [蟲師特別篇：日蝕之翳](../Page/蟲師.md "wikilink")（委託公司：[ARTLAND](../Page/ARTLAND.md "wikilink")，動畫，2014年）
   - [鬼燈的冷徹](../Page/鬼燈的冷徹.md "wikilink")（委託公司：[WIT
-    STUDIO](https://zh.wikipedia.org/wiki/WIT_STUDIO "wikilink")，OP原畫，2014年）
+    STUDIO](../Page/WIT_STUDIO.md "wikilink")，OP原畫，2014年）
   - [Harmonie](https://zh.wikipedia.org/wiki/青年动画制作者育成计划#动画未来2014（2013年度） "wikilink")（委託公司：ウルトラスーパーピクチャーズ，動畫，2014年）
   - [紅美與鬱金香](https://zh.wikipedia.org/wiki/青年动画制作者育成计划#动画未来2015（2014年度） "wikilink")（委託公司：手塚
     Production，動畫，2015年）
@@ -181,7 +180,7 @@ Ltd.）的製作人[近藤光](https://zh.wikipedia.org/wiki/近藤光 "wikilink
   - [福音戰士新劇場版：Q](../Page/福音戰士新劇場版：Q.md "wikilink")（委託公司：[Khara](../Page/Khara.md "wikilink")，動畫，2012年）
 
   - [HAL](../Page/HAL_\(2013年电影\).md "wikilink")（委託公司：[WIT
-    STUDIO](https://zh.wikipedia.org/wiki/WIT_STUDIO "wikilink")，動畫，2013年）
+    STUDIO](../Page/WIT_STUDIO.md "wikilink")，動畫，2013年）
 
   - （委託公司：TMS娛樂，動畫，2013年）
 

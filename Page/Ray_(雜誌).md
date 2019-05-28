@@ -19,8 +19,8 @@
   - [鈴木愛理](../Page/鈴木愛理.md "wikilink")（[℃-ute](../Page/℃-ute.md "wikilink")、[Buono\!](../Page/Buono!.md "wikilink")）
   - [上西星来](https://zh.wikipedia.org/wiki/上西星来 "wikilink")（[東京パフォーマンスドール](https://zh.wikipedia.org/wiki/東京パフォーマンスドール "wikilink")）
   - [加藤ナナ](https://zh.wikipedia.org/wiki/加藤ナナ "wikilink")
-  - [西川瑞希](https://zh.wikipedia.org/wiki/西川瑞希 "wikilink")（專屬美容模特兒）
-  - [渡邊梨加](https://zh.wikipedia.org/wiki/渡邊梨加 "wikilink")（[欅坂46](https://zh.wikipedia.org/wiki/欅坂46 "wikilink")）
+  - [西川瑞希](../Page/西川瑞希.md "wikilink")（專屬美容模特兒）
+  - [渡邊梨加](../Page/渡邊梨加.md "wikilink")（[欅坂46](https://zh.wikipedia.org/wiki/欅坂46 "wikilink")）
   - [吉田朱里](../Page/吉田朱里.md "wikilink")（[NMB48](../Page/NMB48.md "wikilink")）
 
 ### 出身者

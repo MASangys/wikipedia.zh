@@ -64,7 +64,7 @@ Hawk-III（中國稱其為新霍克或霍克三）在[抗日戰爭時與日本�
 68B *Hawk III*
 
   -
-[泰國皇家空軍於](https://zh.wikipedia.org/wiki/泰國皇家空軍 "wikilink")1935年8月至1936年4月以每架63900[泰銖的代價購買了](../Page/泰銖.md "wikilink")24架Model
+[泰國皇家空軍於](../Page/泰國皇家空軍.md "wikilink")1935年8月至1936年4月以每架63900[泰銖的代價購買了](../Page/泰銖.md "wikilink")24架Model
 68B*鷹III型*，並持續使用到1949年退役。目前在[泰國皇家空軍博物館內保留一架實機](../Page/泰國皇家空軍博物館.md "wikilink")（KH-10）展示
 
   -

@@ -94,11 +94,11 @@
 <td><p>《無條件》</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2016_CASH金帆音樂獎" title="wikilink">2016</a></p></td>
+<td><p><a href="../Page/2016_CASH金帆音樂獎.md" title="wikilink">2016</a></p></td>
 <td><p>《過客別墅》</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2017_CASH金帆音樂獎" title="wikilink">2017</a></p></td>
+<td><p><a href="../Page/2017_CASH金帆音樂獎.md" title="wikilink">2017</a></p></td>
 <td><p>《四季》</p></td>
 </tr>
 <tr class="even">
@@ -179,7 +179,7 @@
 | 5                                                                       | [周博賢](../Page/周博賢.md "wikilink")                                              | 1              | 2016                |
 | [陳輝陽](../Page/陳輝陽.md "wikilink")                                        | 1                                                                             | 2002           |                     |
 | [陳光榮](../Page/陳光榮.md "wikilink")                                        | 1                                                                             | 2003           |                     |
-| [賴映彤](https://zh.wikipedia.org/wiki/賴映彤 "wikilink")                     | 1                                                                             | 2011           |                     |
+| [賴映彤](../Page/賴映彤.md "wikilink")                                        | 1                                                                             | 2011           |                     |
 | [Supper Moment](https://zh.wikipedia.org/wiki/Supper_Moment "wikilink") | 1                                                                             | 2014           |                     |
 | 10                                                                      | 頡　臣                                                                           | 0.5            | 2018                |
 

@@ -19,8 +19,8 @@ Carrier），認為這是很容易的任務的特殊小隊，遇到了意料之�
   - 白州冴子（、[声優](https://zh.wikipedia.org/wiki/声優 "wikilink")：[田中麗奈](../Page/田中丽奈_\(演员\).md "wikilink")）25歲，[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")，懷著對戰地報道的純粹夢想，相信照片的力量。因此，對於自己拍的照片能夠偶然對別人的推動而感到責任，欣然接受了跟隨特殊部隊SDC進行采訪的危險工作。
   - 赤城圭一（、声優：[石塚運昇](../Page/石塚運昇.md "wikilink")）白州的朋友，屬於Photo
     Agency“Horizont”的攝影師。對於戰場的採訪有豐富的經驗，因此，和白川正相反，變得相當厭世。在看白川交給他的錄影和照片的過程中，逐漸對旗幟奪還作戰懷有疑問，跟著白川的足跡前進。
-  - 库丽斯·艾娃索尔特（、声優：[日高奈留美](https://zh.wikipedia.org/wiki/日高奈留美 "wikilink")）聯合國軍士官、SDC隊隊長
-  - 纳迪·奥劳坎蒂（、声優：[長嶝高士](https://zh.wikipedia.org/wiki/長嶝高士 "wikilink")）聯合國軍士官、SDC隊隊員
+  - 库丽斯·艾娃索尔特（、声優：[日高奈留美](../Page/日高奈留美.md "wikilink")）聯合國軍士官、SDC隊隊長
+  - 纳迪·奥劳坎蒂（、声優：[長嶝高士](../Page/長嶝高士.md "wikilink")）聯合國軍士官、SDC隊隊員
   - 哈康·阿库巴尔（、声優：[佐藤佑子](../Page/佐藤佑子.md "wikilink")）同上
   - 拉维尔·斯敏（、声優：[淺川悠](../Page/淺川悠.md "wikilink")）同上
   - 一柳信（声優：[川田紳司](../Page/川田紳司.md "wikilink")）同上

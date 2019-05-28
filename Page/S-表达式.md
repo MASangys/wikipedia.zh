@@ -22,8 +22,8 @@ Expressions
 S-表达式的解释器，以 S-表达式编码 M-表达式，而Lisp程序员很快习惯于对代码和数据都使用 S-表达式。
 
 S-表达式可以是如数字这样的单个对象，包括特殊原子`nil`和`t`在内的，或写作 `(x . y)`的[cons
-pair](https://zh.wikipedia.org/wiki/列表構造函數 "wikilink")。更长的列表则由嵌套的cons
-pair组成，例如`(1 . (2 . (3 . nil)))`（，亦可写作更易理解的`(1 2 3)`）。
+pair](../Page/列表構造函數.md "wikilink")。更长的列表则由嵌套的cons pair组成，例如`(1 . (2 .
+(3 . nil)))`（，亦可写作更易理解的`(1 2 3)`）。
 
 使用前缀表示法，程序代码可写作
 S-表达式。书写Lisp程序中额外的[语法糖则是](../Page/语法糖.md "wikilink")，一般的表达式`(quote
@@ -122,7 +122,7 @@ S-表达式，另一种交换格式“canonical presentation”仅允许逐字�
   - [CAR and
     CDR](https://zh.wikipedia.org/wiki/:en:CAR_and_CDR "wikilink")
 
-  - [列表構造函數](https://zh.wikipedia.org/wiki/列表構造函數 "wikilink")
+  - [列表構造函數](../Page/列表構造函數.md "wikilink")
 
   -
 ## 外部链接

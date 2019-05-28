@@ -33,7 +33,7 @@
 (<a href="../Page/1959-60_NBA赛季.md" title="wikilink">1959-60</a>--<a href="https://zh.wikipedia.org/wiki/1964-65_NBA赛季" title="wikilink">1964-65</a>[3])<br />
 <a href="../Page/费城76人.md" title="wikilink">费城76人</a><br />
 （<a href="https://zh.wikipedia.org/wiki/1964-65_NBA赛季" title="wikilink">1964-65</a>--<a href="https://zh.wikipedia.org/wiki/1967-68_NBA赛季" title="wikilink">1967-68</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><br />
+<a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><br />
 （<a href="../Page/1968-69_NBA赛季.md" title="wikilink">1968-69</a>--<a href="https://zh.wikipedia.org/wiki/1972-73_NBA赛季" title="wikilink">1972-73</a>）</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
@@ -59,7 +59,7 @@
 <td><p>中锋</p></td>
 <td><p><a href="../Page/密尔沃基雄鹿.md" title="wikilink">密尔沃基雄鹿</a><br />
 （<a href="https://zh.wikipedia.org/wiki/1969-70_NBA赛季" title="wikilink">1969-70</a>--<a href="https://zh.wikipedia.org/wiki/1974-75_NBA赛季" title="wikilink">1974-75</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><br />
+<a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><br />
 （<a href="../Page/1975-76_NBA赛季.md" title="wikilink">1975-76</a>--<a href="https://zh.wikipedia.org/wiki/1988-89_NBA赛季" title="wikilink">1988-89</a>）</p></td>
 <td><p>2,975</p></td>
 <td><p>9,394</p></td>
@@ -125,7 +125,7 @@
 <td><p>大前锋</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/犹他爵士" title="wikilink">犹他爵士</a><br />
 （<a href="https://zh.wikipedia.org/wiki/1985-86_NBA赛季" title="wikilink">1985-86</a>--<a href="https://zh.wikipedia.org/wiki/2002-03_NBA赛季" title="wikilink">2002-03</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><br />
+<a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><br />
 （<a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-04</a>）</p></td>
 <td><p>3,562</p></td>
 <td><p>11,406</p></td>
@@ -241,7 +241,7 @@
 <td><p>中锋</p></td>
 <td><p><a href="../Page/奥兰多魔术.md" title="wikilink">奥兰多魔术</a><br />
 (<a href="https://zh.wikipedia.org/wiki/1992-93_NBA赛季" title="wikilink">1992-93</a>--<a href="https://zh.wikipedia.org/wiki/1995-96_NBA赛季" title="wikilink">1995-96</a>)<br />
-<a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><br />
+<a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><br />
 (<a href="https://zh.wikipedia.org/wiki/1996-97_NBA赛季" title="wikilink">1996-97</a>--<a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-04</a>)<br />
 <a href="../Page/迈阿密热火.md" title="wikilink">迈阿密热火</a><br />
 (<a href="../Page/2004-05_NBA赛季.md" title="wikilink">2004-05</a>--<a href="../Page/2007-08_NBA赛季.md" title="wikilink">2007-08</a>[13])<br />
@@ -418,7 +418,7 @@
 （<a href="https://zh.wikipedia.org/wiki/1993-94_NBA赛季" title="wikilink">1993-94</a>--<a href="https://zh.wikipedia.org/wiki/1994-95_NBA赛季" title="wikilink">1994-95</a>）<br />
 <a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a><br />
 （<a href="https://zh.wikipedia.org/wiki/1995-96_NBA赛季" title="wikilink">1995-96</a>--<a href="https://zh.wikipedia.org/wiki/1997-98_NBA赛季" title="wikilink">1997-98</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><br />
+<a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><br />
 （<a href="https://zh.wikipedia.org/wiki/1998-99_NBA赛季" title="wikilink">1998-99</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/達拉斯小牛" title="wikilink">達拉斯小牛</a><br />
 （<a href="https://zh.wikipedia.org/wiki/1999-2000_NBA赛季" title="wikilink">1999-00</a>）</p></td>
@@ -477,7 +477,7 @@
 <td><p><strong><a href="../Page/埃尔金·贝勒.md" title="wikilink">埃尔金·贝勒</a></strong></p></td>
 <td><p>大前锋<br />
 小前锋</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><br />
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><br />
 (<a href="https://zh.wikipedia.org/wiki/1958-59_NBA赛季" title="wikilink">1958-59</a>--<a href="https://zh.wikipedia.org/wiki/1971-72_NBA赛季" title="wikilink">1971-72</a>[21])</p></td>
 <td><p>N/A</p></td>
 <td><p>N/A</p></td>
@@ -799,7 +799,7 @@
 <td><p>45</p></td>
 <td><p><strong><a href="../Page/A·C·格林.md" title="wikilink">A·C·格林</a></strong></p></td>
 <td><p>大前锋</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><br />
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><br />
 （<a href="https://zh.wikipedia.org/wiki/1985-86_NBA赛季" title="wikilink">1985-86</a>--<a href="https://zh.wikipedia.org/wiki/1992-93_NBA赛季" title="wikilink">1992-93</a>，<br />
 <a href="https://zh.wikipedia.org/wiki/1999-2000_NBA赛季" title="wikilink">1999-2000</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/鳳凰城太陽" title="wikilink">鳳凰城太陽</a><br />
@@ -827,7 +827,7 @@
 <a href="https://zh.wikipedia.org/wiki/2001-02_NBA赛季" title="wikilink">2001-02</a>--<a href="https://zh.wikipedia.org/wiki/2002-03_NBA赛季" title="wikilink">2002-03</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/西雅圖超音速" title="wikilink">西雅圖超音速</a><br />
 （<a href="https://zh.wikipedia.org/wiki/1999-2000_NBA赛季" title="wikilink">1999-2000</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a><br />
+<a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a><br />
 （<a href="https://zh.wikipedia.org/wiki/2000-01_NBA赛季" title="wikilink">2000-01</a>，<a href="https://zh.wikipedia.org/wiki/2003-04_NBA赛季" title="wikilink">2003-04</a>）</p></td>
 <td><p>3,467</p></td>
 <td><p>5,976</p></td>
@@ -969,7 +969,7 @@
 20. 在[2000-01賽季中途](https://zh.wikipedia.org/wiki/2000-01_NBA赛季 "wikilink")[Kevin
     Willis被交換至丹佛金塊](https://zh.wikipedia.org/wiki/Kevin_Willis "wikilink").
 
-21. [洛杉矶湖人在](https://zh.wikipedia.org/wiki/洛杉矶湖人 "wikilink")[1959-60赛季前称明尼阿波利斯湖人](../Page/1959-60_NBA赛季.md "wikilink").
+21. [洛杉矶湖人在](../Page/洛杉矶湖人.md "wikilink")[1959-60赛季前称明尼阿波利斯湖人](../Page/1959-60_NBA赛季.md "wikilink").
 
 22. [費城76人在](https://zh.wikipedia.org/wiki/費城76人 "wikilink")[1963-64赛季前称雪城民族](../Page/1963-64_NBA赛季.md "wikilink").
 

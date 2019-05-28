@@ -56,7 +56,7 @@ PSO-1可以在鏡片前方裝在一個物鏡罩，並且可裝在遮陽板上，
 到目前為止，有下列的PSO-1的衍生型：
 
   - PSO-1M：PSO-1的現代化版本。
-  - PSO-1-1：適合在[9×39毫米](https://zh.wikipedia.org/wiki/9×39mm "wikilink")[苏联](../Page/苏联.md "wikilink")[口徑槍械使用的PSO](https://zh.wikipedia.org/wiki/口徑 "wikilink")-1瞄準鏡。[分劃標記經過修改以適應](https://zh.wikipedia.org/wiki/瞄准標記 "wikilink")[彈頭沉重和](../Page/彈頭.md "wikilink")[槍口初速較慢的](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")9×39毫米子彈。由於9×39毫米子彈的最大射程為400公尺（437.45码，1,312.34英尺），瞄準鏡內部的各個部件也修改成400公尺。
+  - PSO-1-1：適合在[9×39毫米](../Page/9×39mm.md "wikilink")[苏联](../Page/苏联.md "wikilink")[口徑槍械使用的PSO](https://zh.wikipedia.org/wiki/口徑 "wikilink")-1瞄準鏡。[分劃標記經過修改以適應](https://zh.wikipedia.org/wiki/瞄准標記 "wikilink")[彈頭沉重和](../Page/彈頭.md "wikilink")[槍口初速較慢的](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")9×39毫米子彈。由於9×39毫米子彈的最大射程為400公尺（437.45码，1,312.34英尺），瞄準鏡內部的各個部件也修改成400公尺。
   - PSO-1M2：PSO-1的最新版本，目前由俄羅斯全國裝備公司的“[新西伯利亚儀器製造工廠](../Page/新西伯利亚.md "wikilink")”（NPZ國家光學機器設備廠，）製造。採用發出紅色[光源的現代化](https://zh.wikipedia.org/wiki/光源 "wikilink")[二極管](../Page/二極管.md "wikilink")[燈泡照明和分劃標記](https://zh.wikipedia.org/wiki/電燈泡 "wikilink")，而且使用固位網穩固。瞄準鏡主體是由[镁](../Page/镁.md "wikilink")[合金製成](../Page/合金.md "wikilink")，以減少重量。而漆成黑色是為了減少被發現的機會。
   - PSO-1M2-1：使用1顆[AA電池供電](https://zh.wikipedia.org/wiki/电池#電池的外型比較 "wikilink")，電池安裝的位置相應加大。
   - PSO-1M2-01：適合在9×39毫米苏联口徑槍械使用的PSO-1M2瞄準鏡。
@@ -98,7 +98,7 @@ PSO-1可以在鏡片前方裝在一個物鏡罩，並且可裝在遮陽板上，
 **必須先在該槍械的左側裝上瞄準鏡導軌**
 
   - [PP-19“Bizon”](../Page/PP-19野牛冲锋枪.md "wikilink")／[PP-19-01“Vityaz”](../Page/PP-19-01勇士衝鋒槍.md "wikilink")
-  - [Saiga](https://zh.wikipedia.org/wiki/Saiga半自動步槍 "wikilink")／[Saiga-12/Saiga-20/Saiga-410](../Page/Saiga-12半自動霰彈槍.md "wikilink")
+  - [Saiga](../Page/Saiga半自動步槍.md "wikilink")／[Saiga-12/Saiga-20/Saiga-410](../Page/Saiga-12半自動霰彈槍.md "wikilink")
   - [AK-47](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")／[AKS-47](https://zh.wikipedia.org/wiki/AK-47突擊步槍#AKS-47 "wikilink")／[AKM](https://zh.wikipedia.org/wiki/AKM突击步枪 "wikilink")／[AKMS](https://zh.wikipedia.org/wiki/AKM突擊步槍#AKMS "wikilink")／[AKMSU](https://zh.wikipedia.org/wiki/AKM突击步枪#AKMSU "wikilink")／[RPK](../Page/RPK輕機槍.md "wikilink")
   - [AK-74](../Page/AK-74突击步枪.md "wikilink")／[AKS-74](https://zh.wikipedia.org/wiki/AK-74突擊步槍#AKS-74 "wikilink")／[AKS-74U](../Page/AKS-74U卡宾枪.md "wikilink")／[AK-74M](https://zh.wikipedia.org/wiki/AK-74突击步枪#AK-74M "wikilink")／[RPK-74](../Page/RPK-74輕機槍.md "wikilink")
   - [AK-101](../Page/AK-101突击步枪.md "wikilink")／[AK-102](../Page/AK-102突击步枪.md "wikilink")／[AK-103](../Page/AK-103突击步枪.md "wikilink")／[AK-104](../Page/AK-104突击步枪.md "wikilink")／[AK-105](../Page/AK-105突击步枪.md "wikilink")／[AK-9](../Page/AK-9突击步枪.md "wikilink")
@@ -110,7 +110,7 @@ PSO-1可以在鏡片前方裝在一個物鏡罩，並且可裝在遮陽板上，
   - [9A-91](../Page/9A-91突击步枪.md "wikilink")／[VSK-94](../Page/VSK-94狙擊步槍.md "wikilink")
   - [OTs-12“Tiss”](../Page/OTs-12突击步枪.md "wikilink")
   - [OTs-14“Groza”](../Page/OTs-14突击步枪.md "wikilink")
-  - [ASM-DT](https://zh.wikipedia.org/wiki/ASM-DT兩棲突擊步槍 "wikilink")
+  - [ASM-DT](../Page/ASM-DT兩棲突擊步槍.md "wikilink")
   - [SV/SVDS](../Page/SVD狙擊步槍.md "wikilink")／[SVDK](../Page/SVDK狙擊步槍.md "wikilink")／[SVU/SVU-A/SVU-AS](../Page/SVU狙擊步槍.md "wikilink")
   - [V-94/OSV-96](../Page/OSV-96狙擊步槍.md "wikilink")
   - [SVN-98/KSVK 12.7毫米](../Page/KSVK狙擊步槍.md "wikilink")

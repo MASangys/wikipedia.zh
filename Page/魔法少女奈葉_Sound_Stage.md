@@ -300,7 +300,7 @@ Stage**（，），是[魔法少女奈葉系列三部](../Page/魔法少女奈�
 </dd>
 <dd>35.
 <ul>
-<li>歌：<a href="../Page/田村由香里.md" title="wikilink">田村由香里</a> 作詞：<a href="https://zh.wikipedia.org/wiki/椎名可憐" title="wikilink">椎名可憐</a> 作曲、編曲：<a href="https://zh.wikipedia.org/wiki/太田雅友" title="wikilink">太田雅友</a></li>
+<li>歌：<a href="../Page/田村由香里.md" title="wikilink">田村由香里</a> 作詞：<a href="https://zh.wikipedia.org/wiki/椎名可憐" title="wikilink">椎名可憐</a> 作曲、編曲：<a href="../Page/太田雅友.md" title="wikilink">太田雅友</a></li>
 </ul>
 </dd>
 <dd>36.

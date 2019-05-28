@@ -7,7 +7,7 @@
 下：裝上71
 發可拆卸式[彈鼓的PPD](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")-34/38\]\]
 [Soviet_guerilla.jpg](https://zh.wikipedia.org/wiki/File:Soviet_guerilla.jpg "fig:Soviet_guerilla.jpg")士兵裝備了PPD-40\]\]
-這冲锋枪是由[苏联的設計師](../Page/苏联.md "wikilink")[瓦西里·捷格加廖夫](../Page/瓦西里·捷格加廖夫.md "wikilink")，仿製[德国的](../Page/德国.md "wikilink")[MP18“伯格曼”和](../Page/MP18衝鋒槍.md "wikilink")[MP28“伯格曼”冲锋枪](https://zh.wikipedia.org/wiki/MP28衝鋒槍 "wikilink")。PPD所使用的[7.62×25毫米托卡列夫](../Page/7.62×25mm托卡列夫手槍彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈則是參考](../Page/子彈.md "wikilink")[毛瑟C96](../Page/毛瑟C96手槍.md "wikilink")[手枪發射的](../Page/手枪.md "wikilink")[7.63×25毫米毛瑟彈](https://zh.wikipedia.org/wiki/7.63×25mm毛瑟彈 "wikilink")。PPD可使用較為靈活的25發可拆卸式[彈匣或容量較大的](../Page/彈匣.md "wikilink")71發可拆卸式大型[彈鼓供彈](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，該彈鼓仿製自[芬兰的](../Page/芬兰.md "wikilink")[M1931索密衝鋒槍](../Page/索米M1931冲锋枪.md "wikilink")。\[1\]
+這冲锋枪是由[苏联的設計師](../Page/苏联.md "wikilink")[瓦西里·捷格加廖夫](../Page/瓦西里·捷格加廖夫.md "wikilink")，仿製[德国的](../Page/德国.md "wikilink")[MP18“伯格曼”和](../Page/MP18衝鋒槍.md "wikilink")[MP28“伯格曼”冲锋枪](../Page/MP28衝鋒槍.md "wikilink")。PPD所使用的[7.62×25毫米托卡列夫](../Page/7.62×25mm托卡列夫手槍彈.md "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈則是參考](../Page/子彈.md "wikilink")[毛瑟C96](../Page/毛瑟C96手槍.md "wikilink")[手枪發射的](../Page/手枪.md "wikilink")[7.63×25毫米毛瑟彈](https://zh.wikipedia.org/wiki/7.63×25mm毛瑟彈 "wikilink")。PPD可使用較為靈活的25發可拆卸式[彈匣或容量較大的](../Page/彈匣.md "wikilink")71發可拆卸式大型[彈鼓供彈](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，該彈鼓仿製自[芬兰的](../Page/芬兰.md "wikilink")[M1931索密衝鋒槍](../Page/索米M1931冲锋枪.md "wikilink")。\[1\]
 
 1935年，PPD成為了第一枝於苏联红军之中服役的冲锋枪，\[2\]並且命名為PPD-34，雖然此時還不是大量生產型。生產問題並沒有得到解決，直到1937年；在1934年只生產了44枝，1935年更只生產了23枝；在1937年生產量才提高至1,291枝，隨後在1938年和1939年分別是1,115枝和1,700枝。\[3\]當時PPD被包括[內務人民委員部](https://zh.wikipedia.org/wiki/內務人民委員部 "wikilink")（NKVD）的內部部隊以及邊防警衛的單位等採用。\[4\]一個鮮為人知的事實是，1939年，PPD已經完全退役，隨後的工廠訂單亦因的指令而被迫取消；雖然由於[瓦西里·捷格加廖夫與](../Page/瓦西里·捷格加廖夫.md "wikilink")[斯大林有著良好的個人關係](https://zh.wikipedia.org/wiki/斯大林 "wikilink")，並在兩人的親自干預以後，而令這個決定迅速扭轉。\[5\]\[6\]1939年，蘇芬[冬季战争期間](../Page/冬季战争.md "wikilink")，由於嚴重缺乏個人自動武器，甚至導致庫存中的[费德洛夫M1916自动步枪重新投入服役](../Page/费德洛夫M1916自动步枪.md "wikilink")。\[7\]
 
@@ -51,7 +51,7 @@
 
   - [索米M1931冲锋枪](../Page/索米M1931冲锋枪.md "wikilink")
 
-  - [ZK-383衝鋒槍](https://zh.wikipedia.org/wiki/ZK-383衝鋒槍 "wikilink")
+  - [ZK-383衝鋒槍](../Page/ZK-383衝鋒槍.md "wikilink")
 
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")
 

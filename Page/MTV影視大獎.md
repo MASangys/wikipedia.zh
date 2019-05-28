@@ -8,9 +8,9 @@ Productions內的特別小組所選出。得獎者則由觀眾決定。目前的
 ## 目前獎項
 
   - [最佳電影](https://zh.wikipedia.org/wiki/MTV電影大獎最佳電影 "wikilink")
-  - [最佳電視劇演員](https://zh.wikipedia.org/wiki/MTV影視大獎最佳電視劇演員 "wikilink")
-  - [最佳電影演員](https://zh.wikipedia.org/wiki/MTV影視大獎最佳電影演員 "wikilink")
-  - [最佳突破演出](https://zh.wikipedia.org/wiki/MTV電影大獎最佳突破演出 "wikilink")（有時分為男、女演員獎項）
+  - [最佳電視劇演員](../Page/MTV影視大獎最佳電視劇演員.md "wikilink")
+  - [最佳電影演員](../Page/MTV影視大獎最佳電影演員.md "wikilink")
+  - [最佳突破演出](../Page/MTV電影大獎最佳突破演出.md "wikilink")（有時分為男、女演員獎項）
   - [最佳反派](https://zh.wikipedia.org/wiki/MTV電影大獎最佳反派 "wikilink")
   - [最佳喜劇演出](https://zh.wikipedia.org/wiki/MTV電影大獎最佳喜劇演出 "wikilink")
   - 最佳電影歌曲
@@ -195,7 +195,7 @@ Howard）是最後一位得獎者。該獎項在2005年以「MTV世代獎」現�
 <td><p><a href="../Page/2016年MTV電影大獎.md" title="wikilink">2016</a></p></td>
 <td><p><a href="../Page/巨石強森.md" title="wikilink">巨石強森</a><br />
 <a href="https://zh.wikipedia.org/wiki/凱文·哈特" title="wikilink">凱文·哈特</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/STAR_WARS：原力覺醒" title="wikilink">STAR WARS：原力覺醒</a>》</p></td>
+<td><p>《<a href="../Page/STAR_WARS：原力覺醒.md" title="wikilink">STAR WARS：原力覺醒</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/莎莉·賽隆" title="wikilink">莎莉·賽隆</a>《<a href="https://zh.wikipedia.org/wiki/瘋狂麥斯：憤怒道" title="wikilink">瘋狂麥斯：憤怒道</a>》</p></td>
 </tr>
 <tr class="odd">
@@ -391,7 +391,7 @@ Howard）是最後一位得獎者。該獎項在2005年以「MTV世代獎」現�
 </tr>
 <tr class="even">
 <td><p><strong>2004</strong></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/追殺比爾2：愛的大逃殺" title="wikilink">追殺比爾2：愛的大逃殺</a>》</p></td>
+<td><p>《<a href="../Page/追殺比爾2：愛的大逃殺.md" title="wikilink">追殺比爾2：愛的大逃殺</a>》</p></td>
 <td><p><a href="../Page/琳賽·蘿涵.md" title="wikilink">琳賽·蘿涵</a><br />
 <a href="https://zh.wikipedia.org/wiki/安迪·狄克" title="wikilink">安迪·狄克</a></p></td>
 <td></td>

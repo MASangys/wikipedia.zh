@@ -33,7 +33,7 @@
     原是大修卡的科學家間諜與門矢士有段亦敵亦友的因緣。Decadriver及Diendriver的製造者。
     原作為Riderman的變身者，此處的結城丈二繼承了手臂改造與科學家的設定，但是否具備Riderman的身分則不得而知，只能得知，似乎如果只要他想要，就可以使用Riderman或者開發出類似甚至超越Riderman的力量。
 
-**地獄大使** （[大杉漣](https://zh.wikipedia.org/wiki/大杉漣 "wikilink") 飾）
+**地獄大使** （[大杉漣](../Page/大杉漣.md "wikilink") 飾）
 
   -
     大修卡的幹部之一，最後被**假面騎士一號**及**假面騎士二號**以Rider Double Kick擊倒。

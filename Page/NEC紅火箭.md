@@ -69,7 +69,7 @@
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/島村春世" title="wikilink">島村春世</a></p></td>
+<td><p><a href="../Page/島村春世.md" title="wikilink">島村春世</a></p></td>
 <td><p>SHIMAMURA</p></td>
 <td></td>
 <td><p>副攻手</p></td>

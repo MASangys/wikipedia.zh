@@ -418,7 +418,7 @@ Avra（原作、劇本）</p></td>
 </tr>
 <tr class="odd">
 <td><p>40</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/電波少女與錢仙大人" title="wikilink">電波少女與錢仙大人</a></strong></p></td>
+<td><p><strong><a href="../Page/電波少女與錢仙大人.md" title="wikilink">電波少女與錢仙大人</a></strong></p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>2011.08</p></td>
@@ -656,7 +656,7 @@ tanu（角色原案）<br />
 <tr class="odd">
 <td><p>63</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/制服的吸血鬼女王" title="wikilink">制服的吸血鬼女王</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松本智樹" title="wikilink">松本智樹</a></p></td>
+<td><p><a href="../Page/松本智樹.md" title="wikilink">松本智樹</a></p></td>
 <td><p>－</p></td>
 <td><p>2014.09</p></td>
 <td><p>連載中</p></td>

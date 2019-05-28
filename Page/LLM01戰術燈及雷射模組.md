@@ -3,7 +3,7 @@ AG36](../Page/HK_AG36附加型榴彈發射器.md "wikilink")。\]\]
 [LLM01-Seitenansicht2.jpg](https://zh.wikipedia.org/wiki/File:LLM01-Seitenansicht2.jpg "fig:LLM01-Seitenansicht2.jpg")
 [LLM01-Anbau.jpg](https://zh.wikipedia.org/wiki/File:LLM01-Anbau.jpg "fig:LLM01-Anbau.jpg")
 [MP7Sept2006.jpg](https://zh.wikipedia.org/wiki/File:MP7Sept2006.jpg "fig:MP7Sept2006.jpg")[RSA式](https://zh.wikipedia.org/wiki/蔡司RSA-S反射式瞄準鏡 "wikilink")[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")\[1\]。\]\]
-**LLM01**（：意為：[雷射及](../Page/激光.md "wikilink")[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")[模組](https://zh.wikipedia.org/wiki/模組 "wikilink")1型）是一種自適應的目標瞄準輔助模組。由[德国](../Page/德国.md "wikilink")[施託卡赫的](https://zh.wikipedia.org/wiki/施託卡赫 "wikilink")[厄利空康特公司所製造](https://zh.wikipedia.org/wiki/厄利空康特公司 "wikilink")。它的設計可以安裝於[HK
+**LLM01**（：意為：[雷射及](../Page/激光.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")[模組](https://zh.wikipedia.org/wiki/模組 "wikilink")1型）是一種自適應的目標瞄準輔助模組。由[德国](../Page/德国.md "wikilink")[施託卡赫的](https://zh.wikipedia.org/wiki/施託卡赫 "wikilink")[厄利空康特公司所製造](https://zh.wikipedia.org/wiki/厄利空康特公司 "wikilink")。它的設計可以安裝於[HK
 G36式](../Page/HK_G36突擊步槍.md "wikilink")[突击步枪的](../Page/突击步枪.md "wikilink")[提把式瞄準具的光學瞄準鏡左邊的金屬製整體快速裝拆夾緊適配器](https://zh.wikipedia.org/wiki/提把式瞄準具 "wikilink")。它也可以連接到其他[枪械](../Page/枪械.md "wikilink")，例如[HK
 MP7A1式](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")（[個人防衛武器](../Page/個人防衛武器.md "wikilink")）\[2\]、[L85A2式突击步枪和](../Page/SA80突擊步槍.md "wikilink")[HK
 AG36式](../Page/HK_AG36附加型榴彈發射器.md "wikilink")[附加型榴弹发射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")。
@@ -43,7 +43,7 @@ G36式突擊步槍及其衍生型進行著升級，並且在升級後分配其�
 ## 參見
 
   - [雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")
-  - [戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")
+  - [戰術燈](../Page/戰術燈.md "wikilink")
   - [AN/PEQ-2雷射瞄準器](https://zh.wikipedia.org/wiki/AN/PEQ-2雷射瞄準器 "wikilink")
   - [AN/PAQ-4雷射瞄準器](https://zh.wikipedia.org/wiki/AN/PAQ-4雷射瞄準器 "wikilink")
   - [AN/PEQ-5雷射瞄準器](https://zh.wikipedia.org/wiki/AN/PEQ-5雷射瞄準器 "wikilink")

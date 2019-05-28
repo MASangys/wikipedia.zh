@@ -6,7 +6,7 @@ blue and red, respectively.\]\]
 diphosphate，缩写：GDP）\]\]
 [Guanosintriphosphat_protoniert.svg](https://zh.wikipedia.org/wiki/File:Guanosintriphosphat_protoniert.svg "fig:Guanosintriphosphat_protoniert.svg")（Guanosine
 triphosphate，缩写：GTP）\]\] **G蛋白**（英語：**G
-Protein**）是指**鸟苷酸结合蛋白**（****）。它含有一个[鸟苷酸结合](https://zh.wikipedia.org/wiki/鸟苷酸 "wikilink")[结构域](../Page/结构域.md "wikilink")，由α、β、γ三个[亚基组成](https://zh.wikipedia.org/wiki/蛋白质亚基 "wikilink")。激活状态下的G蛋白可以激活[腺苷酸环化酶](https://zh.wikipedia.org/wiki/腺苷酸环化酶 "wikilink")，产生[第二信使](https://zh.wikipedia.org/wiki/第二信使 "wikilink")[cAMP](https://zh.wikipedia.org/wiki/cAMP "wikilink")，从而产生进一步的生物学效应。
+Protein**）是指**鸟苷酸结合蛋白**（****）。它含有一个[鸟苷酸结合](https://zh.wikipedia.org/wiki/鸟苷酸 "wikilink")[结构域](../Page/结构域.md "wikilink")，由α、β、γ三个[亚基组成](https://zh.wikipedia.org/wiki/蛋白质亚基 "wikilink")。激活状态下的G蛋白可以激活[腺苷酸环化酶](../Page/腺苷酸环化酶.md "wikilink")，产生[第二信使](https://zh.wikipedia.org/wiki/第二信使 "wikilink")[cAMP](https://zh.wikipedia.org/wiki/cAMP "wikilink")，从而产生进一步的生物学效应。
 
 ## 作用原理
 

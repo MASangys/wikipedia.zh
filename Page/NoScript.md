@@ -57,7 +57,7 @@ Adsense广告的域名](https://zh.wikipedia.org/wiki/Google_Adsense "wikilink")
 ## 奖项
 
 NoScript被[PC
-World杂志评为](https://zh.wikipedia.org/wiki/PC_World "wikilink")2006年百大最佳产品之一。\[14\]
+World杂志评为](../Page/PC_World.md "wikilink")2006年百大最佳产品之一。\[14\]
 
 ## 评论
 
@@ -79,7 +79,7 @@ Plus白名单是对EasyList反常性 “攻击”
 ### NoScript网站和Ghostery扩展的冲突
 
 2009年5月1日\[21\]以及2009年5月3日\[22\]在讨论NoScript对Adblock
-Plus的修改时，有人在NoScript支持论坛中指出NoScript官网上有一个[CSS规则不停让](https://zh.wikipedia.org/wiki/CSS "wikilink")[Ghostery这个](https://zh.wikipedia.org/wiki/Ghostery "wikilink")[Mozilla扩展弹出提示](../Page/Firefox扩展列表.md "wikilink")，表示网页上有奇怪而隐蔽的"bug"。Ghostery也会提示用户Manoe网站上[Google
+Plus的修改时，有人在NoScript支持论坛中指出NoScript官网上有一个[CSS规则不停让](https://zh.wikipedia.org/wiki/CSS "wikilink")[Ghostery这个](../Page/Ghostery.md "wikilink")[Mozilla扩展弹出提示](../Page/Firefox扩展列表.md "wikilink")，表示网页上有奇怪而隐蔽的"bug"。Ghostery也会提示用户Manoe网站上[Google
 Adsense的使用](https://zh.wikipedia.org/wiki/Google_Adsense "wikilink")。Manoe在回应中宣称他的CSS没有做出这些，Ghostery的提示是由于其自身的技术问题，同时这些提示看起来很糟糕而且妨碍了网页真实效果的展示。\[23\]在之后的声明中Manoe又特别批评这些提示挡住了了捐款按钮和使用许可的显示\[24\]\[25\]并且表示他的CSS没有阻止Ghostery的正常工作。\[26\]
 
 大多数人则认为Manoe的CSS文件包含了足够多的统计代码，Ghostery的判断并没有错。有人指出Ghostery在其原始状态的提示并没有挡住Manoe的捐款按钮，并在几秒钟之后就消失了。另外，用户们指出Manoe的一行样式使得Ghostery无法提供一个网页bug的信息，并认为总体上来说这是Manoe自己的问题。但Manoe仍坚称Ghostery显示信息的方式不合适和过度敏感而导致两个扩展出现了矛盾。

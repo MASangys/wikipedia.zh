@@ -325,7 +325,7 @@ The Final Enemy</p></td>
 
 :\*[Wii虛擬平臺FC移植版](../Page/Wii.md "wikilink")
 
-  - [X68000](https://zh.wikipedia.org/wiki/X68000 "wikilink")
+  - [X68000](../Page/X68000.md "wikilink")
   - [PC Engine](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")
 
 :\*[Wii虛擬平臺PCE移植版](../Page/Wii.md "wikilink")
@@ -338,8 +338,8 @@ The Final Enemy</p></td>
 
 <!-- end list -->
 
-  - [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
-    - 宇宙巡航艦DX包 (GRADIUS Deluxe Pack)
+  - [PlayStation](../Page/PlayStation.md "wikilink") - 宇宙巡航艦DX包 (GRADIUS
+    Deluxe Pack)
   - [Sega Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")
     - 宇宙巡航艦DX包 (GRADIUS Deluxe Pack)
   - [PlayStation Portable](https://zh.wikipedia.org/wiki/PSP "wikilink")

@@ -283,7 +283,7 @@ Tavor，M.T.A.R. 21）將會取代原來的所有T.A.R.
   - [ITL MARS一體化紅點鏡](../Page/ITL_MARS一體化紅點鏡.md "wikilink")
   - [MSMC衝鋒槍](../Page/MSMC衝鋒槍.md "wikilink")
   - [Fort-221突擊步槍](../Page/Fort-221突擊步槍.md "wikilink")
-  - [各國軍隊制式步槍列表](https://zh.wikipedia.org/wiki/各國軍隊制式步槍列表 "wikilink")
+  - [各國軍隊制式步槍列表](../Page/各國軍隊制式步槍列表.md "wikilink")
 
 ## 資料來源
 

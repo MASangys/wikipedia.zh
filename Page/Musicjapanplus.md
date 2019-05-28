@@ -25,8 +25,7 @@ JAPAN株式会社营运的每日更新的](https://zh.wikipedia.org/wiki/Cool_JA
 3.  「[Kagrra,](../Page/Kagrra,.md "wikilink") Takes Brazil」
 4.  「[Animagic](https://zh.wikipedia.org/wiki/Animagic "wikilink") 2009
     Special Report」
-5.  「[Mix
-    Speaker's,Inc.](https://zh.wikipedia.org/wiki/Mix_Speaker's,Inc. "wikilink")
+5.  「[Mix Speaker's,Inc.](../Page/Mix_Speaker's,Inc..md "wikilink")
     Sunflower Project」
 6.  「What Gives Me Peace & Smiles」
 7.  「MY KawayusuRock o(≧∀≦)o EXPERIENCE」
@@ -133,8 +132,7 @@ JAPAN株式会社营运的每日更新的](https://zh.wikipedia.org/wiki/Cool_JA
   - 03-[An Cafe](../Page/An_Cafe.md "wikilink")
   - 04-[雅-miyavi-](../Page/雅-miyavi-.md "wikilink")
   - 05-[东方神起](https://zh.wikipedia.org/wiki/东方神起 "wikilink")
-  - 06-[Mix
-    Speaker's,Inc.](https://zh.wikipedia.org/wiki/Mix_Speaker's,Inc. "wikilink")
+  - 06-[Mix Speaker's,Inc.](../Page/Mix_Speaker's,Inc..md "wikilink")
   - 07-[Aural
     Vampire](https://zh.wikipedia.org/wiki/Aural_Vampire "wikilink")
   - 08-[VAMPS](../Page/VAMPS.md "wikilink")

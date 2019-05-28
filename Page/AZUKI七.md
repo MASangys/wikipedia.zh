@@ -70,7 +70,7 @@ CROW的CD內封和各種書籍之中，被更多的人們所欣賞著。喜歡�
   - [DEEN](../Page/DEEN.md "wikilink")「」
 
   - [FIELD OF
-    VIEW](https://zh.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink")「[CRASH](https://zh.wikipedia.org/wiki/CRASH_\(FIELD_OF_VIEW\) "wikilink")」「」
+    VIEW](../Page/FIELD_OF_VIEW.md "wikilink")「[CRASH](https://zh.wikipedia.org/wiki/CRASH_\(FIELD_OF_VIEW\) "wikilink")」「」
 
   - [WAG](https://zh.wikipedia.org/wiki/WAG "wikilink")「[Free
     Magic](../Page/Free_Magic.md "wikilink")」「」（共作）

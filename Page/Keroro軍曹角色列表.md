@@ -230,7 +230,7 @@
 <!-- end list -->
 
   - **愛莉莎·南十字星**〔　（Alisa_Southerncross）
-    　配音：日本：[矢島晶子](../Page/矢島晶子.md "wikilink")；台灣：[馮嘉德](https://zh.wikipedia.org/wiki/馮嘉德 "wikilink")；香港：[陳凱婷](../Page/陳凱婷.md "wikilink")、[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")<small>（代配）</small>、[張頌欣](../Page/張頌欣.md "wikilink")<small>（代配）</small>）
+    　配音：日本：[矢島晶子](../Page/矢島晶子.md "wikilink")；台灣：[馮嘉德](../Page/馮嘉德.md "wikilink")；香港：[陳凱婷](../Page/陳凱婷.md "wikilink")、[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")<small>（代配）</small>、[張頌欣](../Page/張頌欣.md "wikilink")<small>（代配）</small>）
 
 <!-- end list -->
 
@@ -432,7 +432,7 @@
 
 <!-- end list -->
 
-  - **輝夜姬**（配音：日本：[高橋理惠子](https://zh.wikipedia.org/wiki/高橋理惠子 "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[曾秀清](../Page/曾秀清.md "wikilink")）
+  - **輝夜姬**（配音：日本：[高橋理惠子](../Page/高橋理惠子.md "wikilink")；台灣：[龍顯蕙](../Page/龍顯蕙.md "wikilink")；香港：[曾秀清](../Page/曾秀清.md "wikilink")）
 
 <!-- end list -->
 
@@ -698,7 +698,7 @@
 
 <!-- end list -->
 
-  - **親衛隊隊長**（配音：[長嶝高士](https://zh.wikipedia.org/wiki/長嶝高士 "wikilink")）
+  - **親衛隊隊長**（配音：[長嶝高士](../Page/長嶝高士.md "wikilink")）
   - **西澤家女僕隊**（配音：[山本麻裡安](https://zh.wikipedia.org/wiki/山本麻裡安 "wikilink")（女僕長），[牧島有希](../Page/牧島有希.md "wikilink")、[廣津佑希子](https://zh.wikipedia.org/wiki/廣津佑希子 "wikilink")（女僕））
 
 <!-- end list -->
@@ -939,7 +939,7 @@
 
 <!-- end list -->
 
-  - **Green**（　配音：日本：[室園丈裕](https://zh.wikipedia.org/wiki/室園丈裕 "wikilink")；香港：[陳卓智](../Page/陳卓智.md "wikilink")）
+  - **Green**（　配音：日本：[室園丈裕](../Page/室園丈裕.md "wikilink")；香港：[陳卓智](../Page/陳卓智.md "wikilink")）
 
 <!-- end list -->
 

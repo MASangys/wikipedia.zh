@@ -54,7 +54,7 @@ LovePlus](../Page/New_LovePlus.md "wikilink")》於2012年2月14日[西洋情人
 
 ## 迴響與演進
 
-2009年9月3日《LOVEPLUS》發售日當天，「」成為[mixi日記的熱門](https://zh.wikipedia.org/wiki/Mixi "wikilink")[關鍵字第一名](https://zh.wikipedia.org/wiki/關鍵字 "wikilink")\[9\]。遊戲作家所寫的熱情遊戲報告與製作人員訪談，2篇合計共在[4Gamer.net的](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")「」得到將近230顆星（★，推薦指數）\[10\]。比起科樂美的[促銷活動](https://zh.wikipedia.org/wiki/促銷活動 "wikilink")\[11\]\[12\]，由實際遊戲經驗者所寫評論或[網誌上的迴響效果更大](../Page/網誌.md "wikilink")。2009年9月4日，在[讀賣新聞社的問答網站](https://zh.wikipedia.org/wiki/讀賣新聞社 "wikilink")《發言小町》出現[家庭主婦提問](../Page/家庭主婦.md "wikilink")，因為[丈夫熱中於新發售的戀愛遊戲而煩惱](../Page/丈夫.md "wikilink")；其著迷程度甚至於上廁所時不忘帶著，就寢時也放在枕頭下一同入眠，影響到現實的[夫妻關係](../Page/夫妻.md "wikilink")\[13\]。9月10日《[產經新聞](../Page/產經新聞.md "wikilink")》在報紙上刊登報導，並被多家媒體大幅介紹\[14\]\[15\]。女主角之一的高嶺愛花登上電視情報雜誌《[TVBros.](https://zh.wikipedia.org/wiki/TVBros. "wikilink")》2009年10月3日號的封面\[16\]。
+2009年9月3日《LOVEPLUS》發售日當天，「」成為[mixi日記的熱門](../Page/Mixi.md "wikilink")[關鍵字第一名](https://zh.wikipedia.org/wiki/關鍵字 "wikilink")\[9\]。遊戲作家所寫的熱情遊戲報告與製作人員訪談，2篇合計共在[4Gamer.net的](https://zh.wikipedia.org/wiki/4Gamer.net "wikilink")「」得到將近230顆星（★，推薦指數）\[10\]。比起科樂美的[促銷活動](https://zh.wikipedia.org/wiki/促銷活動 "wikilink")\[11\]\[12\]，由實際遊戲經驗者所寫評論或[網誌上的迴響效果更大](../Page/網誌.md "wikilink")。2009年9月4日，在[讀賣新聞社的問答網站](https://zh.wikipedia.org/wiki/讀賣新聞社 "wikilink")《發言小町》出現[家庭主婦提問](../Page/家庭主婦.md "wikilink")，因為[丈夫熱中於新發售的戀愛遊戲而煩惱](../Page/丈夫.md "wikilink")；其著迷程度甚至於上廁所時不忘帶著，就寢時也放在枕頭下一同入眠，影響到現實的[夫妻關係](../Page/夫妻.md "wikilink")\[13\]。9月10日《[產經新聞](../Page/產經新聞.md "wikilink")》在報紙上刊登報導，並被多家媒體大幅介紹\[14\]\[15\]。女主角之一的高嶺愛花登上電視情報雜誌《[TVBros.](https://zh.wikipedia.org/wiki/TVBros. "wikilink")》2009年10月3日號的封面\[16\]。
 
 由於《LOVEPLUS》獨特的遊戲系統，發售前觀望的玩家居多；和同時期的《[美夢俱樂部](https://zh.wikipedia.org/wiki/美夢俱樂部 "wikilink")》（Dream
 C

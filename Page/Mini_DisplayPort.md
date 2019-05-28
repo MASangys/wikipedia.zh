@@ -7,8 +7,7 @@ Pro](../Page/MacBook_Pro.md "wikilink")（取代先前的[DVI](../Page/DVI.md "w
 Cinema
 Display](https://zh.wikipedia.org/wiki/LED_Cinema_Display "wikilink")。其他廠商的筆記本電腦,部分亦設有Mini
 DisplayPort，例如[Microsoft](https://zh.wikipedia.org/wiki/Microsoft "wikilink")
-[Surface
-Laptop](https://zh.wikipedia.org/wiki/Surface_Laptop "wikilink") (2017)。
+[Surface Laptop](../Page/Surface_Laptop.md "wikilink") (2017)。
 
 與DisplayPort一樣，Mini DisplayPort最高支援4096×2160解像度的顯示器。
 

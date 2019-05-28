@@ -306,7 +306,7 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
 <!-- end list -->
 
   -
-    人的五感中，會從一種型態的感官刺激，如聽覺，引發另一種型態的感覺，例如視覺或味覺等。好比有人聽到尖銳的高音，會看到紅光，或是吃雞肉時手感覺的形狀是圓錐形。研究發現一般人都曾經在某個階段中，有過這種狀態的生活，有鹹的視覺、紫色的嗅覺、正方形的味覺，還能描述綠色波浪狀的交響曲，也就是視覺帶有聲音或觸覺帶有味道等等。「[時代雜誌](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")」2001年5月21日曾報導，台灣[中央大學英美語文學系副教授杜尚](https://zh.wikipedia.org/wiki/國立中央大學 "wikilink")（Sean
+    人的五感中，會從一種型態的感官刺激，如聽覺，引發另一種型態的感覺，例如視覺或味覺等。好比有人聽到尖銳的高音，會看到紅光，或是吃雞肉時手感覺的形狀是圓錐形。研究發現一般人都曾經在某個階段中，有過這種狀態的生活，有鹹的視覺、紫色的嗅覺、正方形的味覺，還能描述綠色波浪狀的交響曲，也就是視覺帶有聲音或觸覺帶有味道等等。「[時代雜誌](../Page/時代雜誌.md "wikilink")」2001年5月21日曾報導，台灣[中央大學英美語文學系副教授杜尚](https://zh.wikipedia.org/wiki/國立中央大學 "wikilink")（Sean
     Day）每次聽到淒絕的薩克斯風樂聲，眼前就會出現一堆亮紫色的蛇形在空中扭動。口琴的聲音看起來比較舒服的淺綠色，叮叮咚咚的鋼琴則會帶來一片藍色的薄霧。食物也是色彩繽紛的。吃芒果冰的時候，牆壁會呈現萊姆綠，還有一陣陣櫻桃紅的條紋漣漪。
 
 <!-- end list -->
@@ -576,7 +576,7 @@ animation》，[多玩國所屬的](../Page/多玩國.md "wikilink")[CHUNSOFT與
   - 視覺特效總監：山崎嘉雅
   - 執行製片人(executive
     producer)：森本浩二、[中村光一](../Page/中村光一.md "wikilink")、福場一義、伊藤善之、矢部征嗣、臼井久人、[安藝貴範](https://zh.wikipedia.org/wiki/安藝貴範 "wikilink")、太田豐紀、[木谷高明](https://zh.wikipedia.org/wiki/木谷高明 "wikilink")、太布尚弘
-  - 製片人(producer)：大島靖、（石井二郎）、[齋藤滋](https://zh.wikipedia.org/wiki/齋藤滋 "wikilink")、川村仁、[堀川憲司](../Page/堀川憲司.md "wikilink")、福良啟
+  - 製片人(producer)：大島靖、（石井二郎）、[齋藤滋](../Page/齋藤滋.md "wikilink")、川村仁、[堀川憲司](../Page/堀川憲司.md "wikilink")、福良啟
   - 總策劃(associate producer)：山崎史紀、小田ツヨシ、小坂竜司、中村伸行
   - 動畫製作：[P.A.
     Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")

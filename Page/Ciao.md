@@ -10,7 +10,7 @@
   - [こっちむいて\!みいこ](https://zh.wikipedia.org/wiki/こっちむいて!みいこ "wikilink")
     [おのえりこ](https://zh.wikipedia.org/wiki/おのえりこ "wikilink")
   - [12歲。](../Page/12歲。.md "wikilink")
-    [米田菜穗](https://zh.wikipedia.org/wiki/米田菜穗 "wikilink")
+    [米田菜穗](../Page/米田菜穗.md "wikilink")
   - [Honey Days](https://zh.wikipedia.org/wiki/Honey_Days "wikilink")
     [八神千歲](../Page/八神千歲.md "wikilink")
   - [ひかりオンステージ](https://zh.wikipedia.org/wiki/ひかりオンステージ "wikilink")

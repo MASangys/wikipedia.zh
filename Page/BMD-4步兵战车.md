@@ -1,5 +1,5 @@
 **BMD-4伞兵战车** (俄语：Боевая Машина Десантная－4
-简称БМД—4）是前[苏联解体前研发](../Page/苏联.md "wikilink")，1990年代初正式装备俄罗斯[空降军的一款](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](https://zh.wikipedia.org/wiki/空降戰車 "wikilink")。是[BMD系列伞兵战车的第四款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和BMD-3完全相同，而采用了BMP-3步兵战车的炮塔。（类似的例子有BMD-1和BMD-2）。
+简称БМД—4）是前[苏联解体前研发](../Page/苏联.md "wikilink")，1990年代初正式装备俄罗斯[空降军的一款](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第四款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和BMD-3完全相同，而采用了BMP-3步兵战车的炮塔。（类似的例子有BMD-1和BMD-2）。
 
 ## 研发和装备背景
 
@@ -17,7 +17,7 @@ Serdyukov中將表示，俄國空降旅在2020年時將會接收超過300輛BMD-
 
 主要武器为一门2A70型100毫米[线膛炮](https://zh.wikipedia.org/wiki/线膛炮 "wikilink")。双向稳定配自动装弹机（可行进间开火），可发射杀伤爆破弹和[9M117型炮射导弹](../Page/9K116指節套環反坦克導彈.md "wikilink")。弹药基数52发，射程4000m。发射9M117炮射导弹时射程4000m，可穿透550mm均质钢板。因其具备发射炮射导弹能力，故无外置反坦克导弹发射器。
 
-线膛炮右侧为[2A72型](https://zh.wikipedia.org/wiki/希普諾夫2A72機炮 "wikilink")30mm[机关炮](https://zh.wikipedia.org/wiki/机关炮 "wikilink")，可发射曳光穿甲弹，爆破燃烧弹和曳光杀伤弹。弹药基数500发，穿甲弹195发，用于攻击敌方轻装甲目标和直升机。
+线膛炮右侧为[2A72型](../Page/希普諾夫2A72機炮.md "wikilink")30mm[机关炮](https://zh.wikipedia.org/wiki/机关炮 "wikilink")，可发射曳光穿甲弹，爆破燃烧弹和曳光杀伤弹。弹药基数500发，穿甲弹195发，用于攻击敌方轻装甲目标和直升机。
 
 辅助武器为1挺7.62mm[并列机枪](https://zh.wikipedia.org/wiki/并列机枪 "wikilink")，备弹2000发。1挺7.62mm[航向机枪备弹](https://zh.wikipedia.org/wiki/航向机枪 "wikilink")2000发和1挺5.45mm车前右侧机枪，备弹2160发。车体左侧前部右[AG-17型](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")30mm榴弹发射器，备弹551发。所发射的榴霰弹内置塑料针和钢珠，杀伤半径5～10m，可自动发射。射速40～50发每分。
 
@@ -155,7 +155,7 @@ Serdyukov中將表示，俄國空降旅在2020年時將會接收超過300輛BMD-
 <tr class="even">
 <td><p>武装</p></td>
 <td><p><small>100毫米口徑低壓線膛炮<br />
-<a href="https://zh.wikipedia.org/wiki/希普諾夫2A72機炮" title="wikilink">ZPT-99</a> 30毫米口径<a href="https://zh.wikipedia.org/wiki/机炮" title="wikilink">机炮</a><br />
+<a href="../Page/希普諾夫2A72機炮.md" title="wikilink">ZPT-99</a> 30毫米口径<a href="https://zh.wikipedia.org/wiki/机炮" title="wikilink">机炮</a><br />
 7.62毫米口徑同軸機槍</small></p></td>
 <td><p><small><a href="../Page/M242巨蝮式鏈炮.md" title="wikilink">M242</a> 25毫米機炮<br />
 <a href="../Page/BGM-71拖式飛彈.md" title="wikilink">陶式（TOW）反坦克飛彈</a><br />
@@ -173,7 +173,7 @@ Bionix II：<a href="../Page/Mk_44巨蝮二式鏈炮.md" title="wikilink">Mk 44<
 <a href="../Page/9M133短號反坦克导弹.md" title="wikilink">9M133短號反坦克导弹</a><br />
 Afghanit主動防禦系統</small></p></td>
 <td><p><small><a href="https://zh.wikipedia.org/wiki/2A70線膛炮" title="wikilink">2A70</a> 100毫米线膛炮（<a href="../Page/9K116指節套環反坦克導彈.md" title="wikilink">AT-10反坦克飛彈</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/希普諾夫2A72機炮" title="wikilink">2A72 30毫米机炮</a><br />
+<a href="../Page/希普諾夫2A72機炮.md" title="wikilink">2A72 30毫米机炮</a><br />
 7.62毫米并列机枪<br />
 7.62毫米航向机枪<br />
 5.45毫米车体前侧机枪<br />

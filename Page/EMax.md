@@ -43,7 +43,7 @@ Sporting House、Adidas、New Balance、PUMA，Reebok等。
 Dog
 Formula](https://zh.wikipedia.org/wiki/Hot_Dog_Formula "wikilink")、[星巴克](https://zh.wikipedia.org/wiki/星巴克 "wikilink")、東昇有機農場餐廳、囍筷自家菜、Bentou豚肉飯專門店等，[Subway](https://zh.wikipedia.org/wiki/賽百味 "wikilink")、[麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")、台灣麵及759車仔麵亦於2014年陸續開業。
 
-已結業商戶包括[都會國際免稅廣場糖果店及零食店](https://zh.wikipedia.org/wiki/都會國際免稅廣場 "wikilink")、[Chickeeduck](https://zh.wikipedia.org/wiki/Chickeeduck "wikilink")、TVBuddy@TVB等，商場亦曾設有[香港保齡球城](https://zh.wikipedia.org/wiki/香港保齡球城 "wikilink")，提供48條國際級標準球道，營業至2013年3月31日後結業，原址改建成提供9間戲院合共1100個座位的戲院，設有3間貴賓影院，並提供專業餐飲及貴賓廳服務，戲院名為「[星影匯](https://zh.wikipedia.org/wiki/星影匯 "wikilink")」，於2014年2月14日開幕。\[4\]
+已結業商戶包括[都會國際免稅廣場糖果店及零食店](https://zh.wikipedia.org/wiki/都會國際免稅廣場 "wikilink")、[Chickeeduck](https://zh.wikipedia.org/wiki/Chickeeduck "wikilink")、TVBuddy@TVB等，商場亦曾設有[香港保齡球城](https://zh.wikipedia.org/wiki/香港保齡球城 "wikilink")，提供48條國際級標準球道，營業至2013年3月31日後結業，原址改建成提供9間戲院合共1100個座位的戲院，設有3間貴賓影院，並提供專業餐飲及貴賓廳服務，戲院名為「[星影匯](../Page/星影匯.md "wikilink")」，於2014年2月14日開幕。\[4\]
 \[5\] \[6\]
 
 到2016年，合和耗資1.5億港元將商場轉型為Outlet E-Max
@@ -155,7 +155,7 @@ E-Max於2007年6月26日加入[幻彩詠香江匯演行列](../Page/幻彩詠香
 ## 相關條目
 
   - [九龍灣國際展貿中心](../Page/九龍灣國際展貿中心.md "wikilink")
-  - [星影匯](https://zh.wikipedia.org/wiki/星影匯 "wikilink")
+  - [星影匯](../Page/星影匯.md "wikilink")
 
 [分類:香港表演場館](https://zh.wikipedia.org/wiki/分類:香港表演場館 "wikilink")
 

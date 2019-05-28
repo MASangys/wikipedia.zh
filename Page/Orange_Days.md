@@ -110,7 +110,7 @@ Days**》（）是[日本](../Page/日本.md "wikilink")[TBS電視台於](https:
   - 編劇：[北川悅吏子](../Page/北川悅吏子.md "wikilink")
   - 音樂：[佐藤直紀](../Page/佐藤直紀.md "wikilink")
   - 製作人：[植田博樹](https://zh.wikipedia.org/wiki/植田博樹 "wikilink")
-  - 導演：[生野慈朗](https://zh.wikipedia.org/wiki/生野慈朗 "wikilink")、[土井裕泰](https://zh.wikipedia.org/wiki/土井裕泰 "wikilink")、[今井夏木](https://zh.wikipedia.org/wiki/今井夏木 "wikilink")
+  - 導演：[生野慈朗](https://zh.wikipedia.org/wiki/生野慈朗 "wikilink")、[土井裕泰](../Page/土井裕泰.md "wikilink")、[今井夏木](https://zh.wikipedia.org/wiki/今井夏木 "wikilink")
   - 手語指導：南留花、佐藤由紀惠、鹽谷武志
   - 拍攝場地提供：東洋英和女學院大學、橫濱國立大學、東海大學醫學院附屬八王子醫院 等
 

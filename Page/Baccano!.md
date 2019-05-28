@@ -522,7 +522,7 @@ The Rolling Bootlegs</p></td>
 <td></td>
 <td><p>察斯沃夫・梅耶魯畏懼著不死者的身影思考策略</p></td>
 <td><p>大畑清隆</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a></p></td>
+<td><p><a href="../Page/小坂春女.md" title="wikilink">小坂春女</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/田中良_(アニメーター)" title="wikilink">田中良</a><br />
 小谷杏子</p></td>
 <td></td>

@@ -13,7 +13,7 @@ now新聞（now直播台、now新聞台及now財經台）的總部處於[灣仔]
 
 ### now直播台
 
-**now直播台**（），是[香港第三個直播突發新聞現場的頻道](../Page/香港.md "wikilink")。與now直播台相類似的頻道包括[香港有線電視的](../Page/香港有線電視.md "wikilink")[有線直播新聞台和](../Page/有線直播新聞台.md "wikilink")[香港電台的](../Page/香港電台.md "wikilink")[港台電視32](https://zh.wikipedia.org/wiki/港台電視32 "wikilink")。
+**now直播台**（），是[香港第三個直播突發新聞現場的頻道](../Page/香港.md "wikilink")。與now直播台相類似的頻道包括[香港有線電視的](../Page/香港有線電視.md "wikilink")[有線直播新聞台和](../Page/有線直播新聞台.md "wikilink")[香港電台的](../Page/香港電台.md "wikilink")[港台電視32](../Page/港台電視32.md "wikilink")。
 
 ### now新聞台
 
@@ -25,7 +25,7 @@ SUPER的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[無綫新聞台�
 ### now財經台
 
 **now財經台**（、英文簡稱），是[now寬頻電視的其中一個新聞資訊頻道](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")。在2006年3月20日開始播放。[now財經台與對手](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[有線電視財經資訊台一樣](https://zh.wikipedia.org/wiki/有線電視財經資訊台 "wikilink")，於平日日間重點直播股市實況、並於[香港交易所設有直播室](../Page/香港交易所.md "wikilink")，而晚間及假日則播放財經節目及與[now新聞台聯播新聞](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")。[now財經台的主要競爭對手為](https://zh.wikipedia.org/wiki/now財經台 "wikilink")[香港有線電視的](../Page/香港有線電視.md "wikilink")[有線財經資訊台及](../Page/有線財經資訊台.md "wikilink")[myTV
-SUPER的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[無綫財經·資訊台](https://zh.wikipedia.org/wiki/無綫財經·資訊台 "wikilink")。
+SUPER的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[無綫財經·資訊台](../Page/無綫財經·資訊台.md "wikilink")。
 
 #### 歷史
 
@@ -158,7 +158,7 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 （總採訪主任）</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/高志輝" title="wikilink">高志輝</a><br />
+<td style="text-align: center;"><p><a href="../Page/高志輝.md" title="wikilink">高志輝</a><br />
 （副採訪主任）</p></td>
 </tr>
 <tr class="even">

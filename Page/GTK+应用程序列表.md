@@ -62,9 +62,7 @@
 
   - – 檔案同步軟件
 
-  - [Eye of
-    GNOME（eog）](https://zh.wikipedia.org/wiki/Eye_of_GNOME "wikilink")
-    – 圖像瀏覽器
+  - [Eye of GNOME（eog）](../Page/Eye_of_GNOME.md "wikilink") – 圖像瀏覽器
 
   - [File Roller](../Page/File_Roller.md "wikilink") – 壓縮檔管理器
 
@@ -132,8 +130,7 @@
     [點陣圖圖像編輯器](https://zh.wikipedia.org/wiki/點陣圖圖像編輯器 "wikilink")
   - [Inkscape](../Page/Inkscape.md "wikilink") –
     [向量圖形編輯器](https://zh.wikipedia.org/wiki/向量圖形 "wikilink")
-  - [MyPaint](https://zh.wikipedia.org/wiki/MyPaint "wikilink") –
-    點陣圖圖像編輯器
+  - [MyPaint](../Page/MyPaint.md "wikilink") – 點陣圖圖像編輯器
   - [Pinta](../Page/Pinta.md "wikilink") – 點陣圖圖像編輯器
 
 ### 圖片檢視
@@ -306,8 +303,7 @@
 
   - – 影片字幕編輯
 
-  - [OpenShot](https://zh.wikipedia.org/wiki/OpenShot "wikilink") –
-    影片編輯器
+  - [OpenShot](../Page/OpenShot.md "wikilink") – 影片編輯器
 
   - [Pitivi](https://zh.wikipedia.org/wiki/Pitivi "wikilink") – 影片編輯器
 

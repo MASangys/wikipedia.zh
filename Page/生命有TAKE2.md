@@ -191,7 +191,7 @@ John之妻</p></td>
   - [郭卓樺](../Page/郭卓樺.md "wikilink") 飾 大Dee
   - [黃文標](../Page/黃文標.md "wikilink") 飾 亞　華
   - [楊子韜](https://zh.wikipedia.org/wiki/楊子韜 "wikilink") 飾 蛇　皮
-  - [游　飈](https://zh.wikipedia.org/wiki/游飈 "wikilink") 飾 咕嚕肉
+  - [游　飈](../Page/游飈.md "wikilink") 飾 咕嚕肉
   - [鄭　雷](https://zh.wikipedia.org/wiki/鄭雷 "wikilink") 飾 唐
   - [虞天偉](https://zh.wikipedia.org/wiki/虞天偉 "wikilink") 飾 佳
   - [黃煒林](https://zh.wikipedia.org/wiki/黃煒林 "wikilink") 飾 貴
@@ -216,7 +216,7 @@ John之妻</p></td>
   - [黃振威](https://zh.wikipedia.org/wiki/黃振威 "wikilink") 飾 C.I.D.
   - [張俊華](https://zh.wikipedia.org/wiki/張俊華 "wikilink") 飾 C.I.D.
   - [談泉慶](../Page/談泉慶.md "wikilink") 飾 工程學會幹事
-  - [李家強](https://zh.wikipedia.org/wiki/李家強 "wikilink") 飾 C.I.D.
+  - [李家強](../Page/李家強.md "wikilink") 飾 C.I.D.
   - [何偉業](https://zh.wikipedia.org/wiki/何偉業 "wikilink") 飾 C.I.D.
   - [林佩君](https://zh.wikipedia.org/wiki/林佩君 "wikilink") 飾 公　關
   - [伍燕妮](https://zh.wikipedia.org/wiki/伍燕妮 "wikilink") 飾 接待員
@@ -253,7 +253,7 @@ John之妻</p></td>
   - [邱萬城](../Page/邱萬城.md "wikilink") 飾 馬
   - [鄧汝超](https://zh.wikipedia.org/wiki/鄧汝超 "wikilink") 飾 陸
   - [黃天鐸](../Page/黃天鐸.md "wikilink") 飾 王老板
-  - [杜大偉](https://zh.wikipedia.org/wiki/杜大偉 "wikilink") 飾 男主角
+  - [杜大偉](../Page/杜大偉.md "wikilink") 飾 男主角
   - [鄺佐輝](../Page/鄺佐輝.md "wikilink") 飾 醫　生
   - [呂劍光](https://zh.wikipedia.org/wiki/呂劍光 "wikilink") 飾 蔡舍監
   - [李鴻杰](../Page/李鴻杰.md "wikilink") 飾 霍醫生

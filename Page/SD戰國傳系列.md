@@ -145,8 +145,7 @@ GUNDAM，發展至今，衍生出現代風格的○傳、三國武將風格的[�
   - 《SD戰國傳3
     地上最強編》（[GameBoy](https://zh.wikipedia.org/wiki/GameBoy "wikilink")）
   - 《新SD戰國傳 大將軍列傳》（[超級任天堂](../Page/超級任天堂.md "wikilink")）
-  - 《新SD戰國傳
-    機動武者大戰》（[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")）
+  - 《新SD戰國傳 機動武者大戰》（[PlayStation](../Page/PlayStation.md "wikilink")）
 
 ## 設定資料書籍
 

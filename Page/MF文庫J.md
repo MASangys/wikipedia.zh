@@ -22,13 +22,13 @@ Factory商標，但仍保留「MF文庫J」這個書系、設立編輯部，並�
 
   - [青葉君與宇宙人](https://zh.wikipedia.org/wiki/青葉君與宇宙人 "wikilink")（[松野秋鳴](https://zh.wikipedia.org/wiki/松野秋鳴 "wikilink")／[超肉](https://zh.wikipedia.org/wiki/超肉 "wikilink")）
   - [拯救你的最初咒語](../Page/拯救你的最初咒語.md "wikilink")（[須堂項](https://zh.wikipedia.org/wiki/須堂項 "wikilink")／）
-  - [MM一族](../Page/MM一族.md "wikilink")（松野秋鳴／[QP:flapper](https://zh.wikipedia.org/wiki/QP:flapper "wikilink")）
+  - [MM一族](../Page/MM一族.md "wikilink")（松野秋鳴／[QP:flapper](../Page/QP:flapper.md "wikilink")）
   - [萬歲系列](../Page/萬歲系列.md "wikilink")（[三浦勇雄](https://zh.wikipedia.org/wiki/三浦勇雄 "wikilink")／[屡那](https://zh.wikipedia.org/wiki/屡那 "wikilink")）
   - [月兔升空時](https://zh.wikipedia.org/wiki/月兔升空時 "wikilink")（[平坂読](https://zh.wikipedia.org/wiki/平坂読 "wikilink")／）
   - [幽靈戀人](../Page/幽靈戀人.md "wikilink")（平坂読／[片瀨優](https://zh.wikipedia.org/wiki/片瀨優 "wikilink")）
   - [魔像怪X少女](https://zh.wikipedia.org/wiki/魔像怪X少女 "wikilink")（[大凹友數](https://zh.wikipedia.org/wiki/大凹友數 "wikilink")／[KEI](../Page/KEI.md "wikilink")）
   - [在暗夜中尋找羔羊](https://zh.wikipedia.org/wiki/在暗夜中尋找羔羊 "wikilink")（[穗史賀雅也](https://zh.wikipedia.org/wiki/穗史賀雅也 "wikilink")／）
-  - [櫻乃綺羅帆系列](https://zh.wikipedia.org/wiki/櫻乃綺羅帆系列 "wikilink")（[月見草平](https://zh.wikipedia.org/wiki/月見草平 "wikilink")／）
+  - [櫻乃綺羅帆系列](https://zh.wikipedia.org/wiki/櫻乃綺羅帆系列 "wikilink")（[月見草平](../Page/月見草平.md "wikilink")／）
   - [骷髏戀人](https://zh.wikipedia.org/wiki/骷髏戀人 "wikilink")（平坂読／）
   - [姬宮學姊的內在美](https://zh.wikipedia.org/wiki/姬宮學姊的內在美 "wikilink")（月見草平／[Ein](https://zh.wikipedia.org/wiki/Ein "wikilink")）
   - [魔女的紅線](https://zh.wikipedia.org/wiki/魔女的紅線 "wikilink")（[田口一](https://zh.wikipedia.org/wiki/田口一 "wikilink")／）
@@ -48,7 +48,7 @@ Factory商標，但仍保留「MF文庫J」這個書系、設立編輯部，並�
   - [戀愛超能力](https://zh.wikipedia.org/wiki/戀愛超能力 "wikilink")（[樋口司](https://zh.wikipedia.org/wiki/樋口司 "wikilink")／）
   - [天川天音的否定公式](https://zh.wikipedia.org/wiki/天川天音的否定公式 "wikilink")（[葉村哲](https://zh.wikipedia.org/wiki/葉村哲 "wikilink")／）
   - [X的魔王](https://zh.wikipedia.org/wiki/X的魔王 "wikilink")（[伊都工平](https://zh.wikipedia.org/wiki/伊都工平 "wikilink")／）
-  - [我心之劍](https://zh.wikipedia.org/wiki/我心之劍 "wikilink")（[十文字青](https://zh.wikipedia.org/wiki/十文字青 "wikilink")／[kaya8](https://zh.wikipedia.org/wiki/kaya8 "wikilink")）
+  - [我心之劍](https://zh.wikipedia.org/wiki/我心之劍 "wikilink")（[十文字青](../Page/十文字青.md "wikilink")／[kaya8](https://zh.wikipedia.org/wiki/kaya8 "wikilink")）
   - [HURTLESS/HURTFUL](https://zh.wikipedia.org/wiki/HURTLESS/HURTFUL "wikilink")（／）
   - [原點回歸Walkers](https://zh.wikipedia.org/wiki/原點回歸Walkers "wikilink")（森田季節／[深崎暮人](../Page/深崎暮人.md "wikilink")）
   - [極道彼女！](https://zh.wikipedia.org/wiki/極道彼女！ "wikilink")（／）
@@ -80,14 +80,14 @@ Factory商標，但仍保留「MF文庫J」這個書系、設立編輯部，並�
   - [Over Image
     超異能遊戲](https://zh.wikipedia.org/wiki/Over_Image_超異能遊戲 "wikilink")（[遊佐真弘](https://zh.wikipedia.org/wiki/遊佐真弘 "wikilink")／）
   - [歌姬少女的創樂譜](https://zh.wikipedia.org/wiki/歌姬少女的創樂譜 "wikilink")（[雨野智晴](https://zh.wikipedia.org/wiki/雨野智晴 "wikilink")／）
-  - [穿越時空的龍王與邁向滅亡的魔女之國](https://zh.wikipedia.org/wiki/穿越時空的龍王與邁向滅亡的魔女之國 "wikilink")（[舞阪洸](https://zh.wikipedia.org/wiki/舞阪洸 "wikilink")／）
+  - [穿越時空的龍王與邁向滅亡的魔女之國](../Page/穿越時空的龍王與邁向滅亡的魔女之國.md "wikilink")（[舞阪洸](https://zh.wikipedia.org/wiki/舞阪洸 "wikilink")／）
   - [終焉之栞](../Page/終焉之栞.md "wikilink")（／[主犯：１５０Ｐ](https://zh.wikipedia.org/wiki/主犯：１５０Ｐ "wikilink")／／）
   - [無力氣勇者與好奇的魔王](https://zh.wikipedia.org/wiki/無力氣勇者與好奇的魔王 "wikilink")（[冬木冬樹](https://zh.wikipedia.org/wiki/冬木冬樹 "wikilink")／[水月悠](https://zh.wikipedia.org/wiki/水月悠 "wikilink")）
   - [巴洛克騎士](https://zh.wikipedia.org/wiki/巴洛克騎士 "wikilink")（葉村哲／）
   - [不可以玩這種遊戲！](https://zh.wikipedia.org/wiki/不可以玩這種遊戲！ "wikilink")（岩波零／[皆村春樹](https://zh.wikipedia.org/wiki/皆村春樹 "wikilink")）
   - [獻給失落之神的聖謠譚](https://zh.wikipedia.org/wiki/獻給失落之神的聖謠譚 "wikilink")（[内田俊](https://zh.wikipedia.org/wiki/内田俊 "wikilink")／硯）
   - [悠久騎士](https://zh.wikipedia.org/wiki/悠久騎士 "wikilink")（[七烏未奏](https://zh.wikipedia.org/wiki/七烏未奏 "wikilink")／）
-  - [舞風的鎧姬](https://zh.wikipedia.org/wiki/舞風的鎧姬 "wikilink")（／[片桐雛太](https://zh.wikipedia.org/wiki/片桐雛太 "wikilink")）
+  - [舞風的鎧姬](https://zh.wikipedia.org/wiki/舞風的鎧姬 "wikilink")（／[片桐雛太](../Page/片桐雛太.md "wikilink")）
   - [椎名町學姊的安全日](https://zh.wikipedia.org/wiki/椎名町學姊的安全日 "wikilink")（／[CARNELIAN](https://zh.wikipedia.org/wiki/CARNELIAN "wikilink")）
   - [話說當時我還不是主角](https://zh.wikipedia.org/wiki/話說當時我還不是主角 "wikilink")（二階堂紘嗣／）
   - [沉睡魔女](https://zh.wikipedia.org/wiki/沉睡魔女 "wikilink")（[真野真央](https://zh.wikipedia.org/wiki/真野真央 "wikilink")／）
@@ -112,7 +112,7 @@ Factory商標，但仍保留「MF文庫J」這個書系、設立編輯部，並�
   - [天空與蒼月之王](https://zh.wikipedia.org/wiki/天空與蒼月之王 "wikilink")（[霜島桂](https://zh.wikipedia.org/wiki/霜島桂 "wikilink")／[Ginka](https://zh.wikipedia.org/wiki/Ginka "wikilink")）
   - [PiPit \!\!
     天線少女](https://zh.wikipedia.org/wiki/PiPit_!!_天線少女 "wikilink")（[和智正喜](https://zh.wikipedia.org/wiki/和智正喜 "wikilink")／）
-  - [玩伴貓耳娘](../Page/玩伴貓耳娘.md "wikilink")（[神野奧那](https://zh.wikipedia.org/wiki/神野奧那 "wikilink")／[放電映像](https://zh.wikipedia.org/wiki/放電映像 "wikilink")）
+  - [玩伴貓耳娘](../Page/玩伴貓耳娘.md "wikilink")（[神野奧那](https://zh.wikipedia.org/wiki/神野奧那 "wikilink")／[放電映像](../Page/放電映像.md "wikilink")）
   - [瀆神之主](https://zh.wikipedia.org/wiki/瀆神之主 "wikilink")（[榊一郎](../Page/榊一郎.md "wikilink")／[kyo](https://zh.wikipedia.org/wiki/kyo "wikilink")）
   - [緋彈的亞莉亞](../Page/緋彈的亞莉亞.md "wikilink")（[赤松中學](https://zh.wikipedia.org/wiki/赤松中學 "wikilink")／[小舞一](../Page/小舞一.md "wikilink")）
   - [愛說謊的精靈妹妹](https://zh.wikipedia.org/wiki/愛說謊的精靈妹妹 "wikilink")（／[toi8](https://zh.wikipedia.org/wiki/toi8 "wikilink")）
@@ -126,7 +126,7 @@ Factory商標，但仍保留「MF文庫J」這個書系、設立編輯部，並�
     Stratos〉](../Page/IS〈Infinite_Stratos〉.md "wikilink")（／[okiura](https://zh.wikipedia.org/wiki/okiura "wikilink")）
   - [我的朋友很少](../Page/我的朋友很少.md "wikilink")（[平坂讀](../Page/平坂讀.md "wikilink")／）
   - [迷茫管家與膽怯的我](../Page/迷茫管家與膽怯的我.md "wikilink")（[朝野始](../Page/朝野始.md "wikilink")／[菊池政治](../Page/菊池政治.md "wikilink")）
-  - [蒼柩的青金石](https://zh.wikipedia.org/wiki/蒼柩的青金石 "wikilink")（[朝野始](../Page/朝野始.md "wikilink")／[菊池政治](../Page/菊池政治.md "wikilink")）
+  - [蒼柩的青金石](../Page/蒼柩的青金石.md "wikilink")（[朝野始](../Page/朝野始.md "wikilink")／[菊池政治](../Page/菊池政治.md "wikilink")）
   - [少女，兵器，潘朵拉](https://zh.wikipedia.org/wiki/少女，兵器，潘朵拉 "wikilink")（[西野勝海](../Page/西野勝海.md "wikilink")／[蔓木鋼音](../Page/蔓木鋼音.md "wikilink")）
   - [宙士諾德！](https://zh.wikipedia.org/wiki/宙士諾德！ "wikilink")（赤松中學／[bomi](https://zh.wikipedia.org/wiki/bomi "wikilink")）
   - [變態王子與不笑貓](../Page/變態王子與不笑貓.md "wikilink")（[相樂總](https://zh.wikipedia.org/wiki/相樂總 "wikilink")／）
@@ -134,19 +134,19 @@ Factory商標，但仍保留「MF文庫J」這個書系、設立編輯部，並�
   - [機巧少女不會受傷](../Page/機巧少女不會受傷.md "wikilink")（／）
   - [T、內褲、好運到](https://zh.wikipedia.org/wiki/T、內褲、好運到 "wikilink")（[木村大志](https://zh.wikipedia.org/wiki/木村大志 "wikilink")／[前田理想](https://zh.wikipedia.org/wiki/前田理想 "wikilink")）
   - [拿出男子氣概吧！倉田君！](https://zh.wikipedia.org/wiki/拿出男子氣概吧！倉田君！ "wikilink")（[齋藤真也](https://zh.wikipedia.org/wiki/齋藤真也 "wikilink")／[Fumio](../Page/Fumio.md "wikilink")）
-  - [盟約的利維坦](../Page/盟約的利維坦.md "wikilink")（[丈月城](https://zh.wikipedia.org/wiki/丈月城 "wikilink")／[仁村有志](https://zh.wikipedia.org/wiki/仁村有志 "wikilink")）
+  - [盟約的利維坦](../Page/盟約的利維坦.md "wikilink")（[丈月城](https://zh.wikipedia.org/wiki/丈月城 "wikilink")／[仁村有志](../Page/仁村有志.md "wikilink")）
   - [學戰都市Asterisk](../Page/學戰都市Asterisk.md "wikilink")（／[okiura](https://zh.wikipedia.org/wiki/okiura "wikilink")）
   - [劍神的繼承者](../Page/劍神的繼承者.md "wikilink")（[鏡遊](https://zh.wikipedia.org/wiki/鏡遊 "wikilink")／[MIKEOU](https://zh.wikipedia.org/wiki/みけおう "wikilink")）
   - [魔法戰爭](../Page/魔法戰爭.md "wikilink")（／[瑠奈璃亞](https://zh.wikipedia.org/wiki/瑠奈璃亞 "wikilink")）
   - [聲優公主](https://zh.wikipedia.org/wiki/聲優公主 "wikilink")（[太田顯喜](https://zh.wikipedia.org/wiki/太田顯喜 "wikilink")／[雛咲](https://zh.wikipedia.org/wiki/雛咲 "wikilink")）
   - [銀彈的銃劍姬](https://zh.wikipedia.org/wiki/銀彈的銃劍姬 "wikilink")（[紫雪夜](https://zh.wikipedia.org/wiki/紫雪夜 "wikilink")／[鶴崎貴大](../Page/鶴崎貴大.md "wikilink")）
-  - [Cheers\!愛的鼓勵](https://zh.wikipedia.org/wiki/Cheers!愛的鼓勵 "wikilink")（[赤松中學](https://zh.wikipedia.org/wiki/赤松中學 "wikilink")／[小舞一](../Page/小舞一.md "wikilink")）
+  - [Cheers\!愛的鼓勵](../Page/Cheers!愛的鼓勵.md "wikilink")（[赤松中學](https://zh.wikipedia.org/wiki/赤松中學 "wikilink")／[小舞一](../Page/小舞一.md "wikilink")）
 
 ### [台灣角川](../Page/台灣角川.md "wikilink")
 
   - [我被女生倒追，惹妹妹生氣了？](../Page/我被女生倒追，惹妹妹生氣了？.md "wikilink")（／[武藤此史](https://zh.wikipedia.org/wiki/武藤此史 "wikilink")）
   - [絕對雙刃](../Page/絕對雙刃.md "wikilink")（／）
-  - [小惡魔緹莉與救世主\!?](https://zh.wikipedia.org/wiki/小惡魔緹莉與救世主!? "wikilink")（[衣笠彰梧](https://zh.wikipedia.org/wiki/衣笠彰梧 "wikilink")／）
+  - [小惡魔緹莉與救世主\!?](https://zh.wikipedia.org/wiki/小惡魔緹莉與救世主!? "wikilink")（[衣笠彰梧](../Page/衣笠彰梧.md "wikilink")／）
   - 我們就愛肉麻放閃耍甜蜜（[風見周](../Page/風見周.md "wikilink")／[高品有桂](https://zh.wikipedia.org/wiki/高品有桂 "wikilink")）
 
 ### [青文出版社](../Page/青文出版社.md "wikilink")

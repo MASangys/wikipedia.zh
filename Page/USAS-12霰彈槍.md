@@ -38,7 +38,7 @@ USAS-12是一種採用氣動式設計，可以選擇半自動或[全自動射擊
 ### [電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")
 
   - 2002年—《[-{zh-cn:命运战士2：双重螺旋;
-    zh-tw:傭兵戰場2：雙重螺旋;}-](https://zh.wikipedia.org/wiki/傭兵戰場2：雙重螺旋 "wikilink")》（Soldier
+    zh-tw:傭兵戰場2：雙重螺旋;}-](../Page/傭兵戰場2：雙重螺旋.md "wikilink")》（Soldier
     of Fortine II：Double
     Helix）：此槍在單機遊戲後期章節出現，連線多人的版本也有，但是由於取得該槍的玩家會享有相當大的優勢，有些伺服器會設定削弱這把槍的殺傷力。
   - 2002年—《全球行動》（Global Operation）：霰彈槍類最貴的一支，可以選購彈鼓增加彈藥量。
@@ -46,7 +46,7 @@ USAS-12是一種採用氣動式設計，可以選擇半自動或[全自動射擊
     zh-tw:絕對武力;}-Online](../Page/絕對武力Online.md "wikilink")》（Counter-Strike
     Online）：隨遊戲登場武器，設定為[恐怖份子專用](https://zh.wikipedia.org/wiki/恐怖份子 "wikilink")，以20發[彈鼓供彈](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")，造型上取消了[機械瞄具](../Page/機械瞄具.md "wikilink")，奇怪地在每次射擊後會自動閉上。此外並有一種迷彩塗裝的改良型和反殭屍版本—Skull-11和CROW-11。
       - Skull-11的改進之處包括：造型上添加了[機械瞄具](../Page/機械瞄具.md "wikilink")、改以更大容量的28發彈鼓供彈、分別於提把和[護木上安裝了不可用的Aimpoint](https://zh.wikipedia.org/wiki/護木 "wikilink")
-        Comp[紅點鏡和](../Page/紅點鏡.md "wikilink")[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")，並能使用「散彈模式」和「[鹿彈模式](https://zh.wikipedia.org/wiki/霰彈彈丸 "wikilink")」兩種攻擊模式。
+        Comp[紅點鏡和](../Page/紅點鏡.md "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")，並能使用「散彈模式」和「[鹿彈模式](https://zh.wikipedia.org/wiki/霰彈彈丸 "wikilink")」兩種攻擊模式。
   - 2008年—《[-{zh-cn:孤岛惊魂;
     zh-tw:極地戰嚎;}-2](../Page/極地戰嚎2.md "wikilink")》（Far
     Cry 2）

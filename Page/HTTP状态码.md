@@ -145,8 +145,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
 
 <!-- end list -->
 
-  - [307 Temporary
-    Redirect](https://zh.wikipedia.org/wiki/HTTP_307 "wikilink")
+  - [307 Temporary Redirect](../Page/HTTP_307.md "wikilink")
     在这种情况下，请求应该与另一个URI重复，但后续的请求应仍使用原始的URI。 与302相反，当重新发出原始请求时，不允许更改请求方法。
     例如，应该使用另一个POST请求来重复POST请求。\[31\]
 
@@ -213,7 +212,7 @@ Services）有时会使用额外的十进制子代码来获取更多具体信息
   - 406 Not Acceptable
 
       -
-        参见：[内容协商](https://zh.wikipedia.org/wiki/内容协商 "wikilink")
+        参见：[内容协商](../Page/内容协商.md "wikilink")
 
     请求的资源的内容特性无法满足请求头中的条件，因而无法生成响应实体，该请求不可接受。\[39\]
 

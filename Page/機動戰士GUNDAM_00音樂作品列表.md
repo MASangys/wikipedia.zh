@@ -403,7 +403,7 @@
 
 ### 機動戰士GUNDAM 00聲優單曲 01：Soup／箱空
 
-第一張聲優單曲，[剎那·F·塞耶](https://zh.wikipedia.org/wiki/剎那·F·塞耶 "wikilink")（聲優：[宮野真守](../Page/宮野真守.md "wikilink")）\[6\]。
+第一張聲優單曲，[剎那·F·塞耶](../Page/剎那·F·塞耶.md "wikilink")（聲優：[宮野真守](../Page/宮野真守.md "wikilink")）\[6\]。
 
 **商品番號**
 

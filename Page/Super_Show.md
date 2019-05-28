@@ -132,7 +132,7 @@ Don》的小提琴版，并与
 <tbody>
 <tr class="odd">
 <td><p>2008年2月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="../Page/首尔奥林匹克体操竞技场.md" title="wikilink">首尔奥林匹克体操竞技场</a></p></td>
 </tr>
@@ -162,7 +162,7 @@ Don》的小提琴版，并与
 </tr>
 <tr class="even">
 <td><p>2009年1月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/首尔奥林匹克公园击剑运动场" title="wikilink">首尔奥林匹克公园击剑运动场</a></p></td>
 </tr>

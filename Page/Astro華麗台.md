@@ -69,7 +69,7 @@
 </tr>
 <tr class="even">
 <td><p>8:00pm</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛·回家之開心速遞" title="wikilink">愛·回家之開心速遞</a><br />
+<td><p><a href="../Page/愛·回家之開心速遞.md" title="wikilink">愛·回家之開心速遞</a><br />
 <small>(與TVB翡翠台同步播出)</small></p></td>
 <td><p><a href="../Page/娛樂大家_(無綫電視節目).md" title="wikilink">娛樂大家</a></p></td>
 <td></td>
@@ -122,7 +122,7 @@
 <tr class="odd">
 <td><p>10:30pm</p></td>
 <td><p>走佬去馬拉</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/愛·回家之開心速遞" title="wikilink">愛·回家之開心速遞</a><br />
+<td><p><a href="../Page/愛·回家之開心速遞.md" title="wikilink">愛·回家之開心速遞</a><br />
 <small>(5集重播10:30pm-1:00am)</small></p></td>
 <td><p><a href="../Page/林子祥.md" title="wikilink">尋找阿Lam的那些年</a></p></td>
 <td></td>
@@ -226,7 +226,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <td><p>2019年4月29日</p></td>
 <td><p>由杜汶澤擔任主持，Astro華麗台與香港<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a> 聯合製作的旅遊真人騷節目。杜汶澤在2018年12月來馬近半個月，赴檳城、怡保及雪隆一帶進行節目拍攝。節目中邀來馬來西亞紅人黃明志，與杜汶澤一起錄音翻唱粵語歌以及拍攝MV。<br />
 節目共15集，於2019年4月29日，星期一至五10:30PM與香港<a href="../Page/ViuTV.md" title="wikilink">ViuTV同日播出</a>（香港播出時間為星期一至五11:00PM）。<br />
-同類節目：<a href="https://zh.wikipedia.org/wiki/走佬去臺灣" title="wikilink">走佬去臺灣</a></p></td>
+同類節目：<a href="../Page/走佬去臺灣.md" title="wikilink">走佬去臺灣</a></p></td>
 <td><p><a href="https://web.facebook.com/WahLaiToi/">網頁</a></p></td>
 </tr>
 <tr class="odd">
@@ -321,7 +321,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a>、<a href="../Page/敖嘉年.md" title="wikilink">敖嘉年</a>、<a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a>、<a href="../Page/羅仲謙.md" title="wikilink">羅仲謙</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a><br />
 第四季（2017年）<br />
-<a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a>、<a href="../Page/李施嬅.md" title="wikilink">李施嬅</a>、<a href="../Page/王君馨.md" title="wikilink">王君馨</a>、<a href="https://zh.wikipedia.org/wiki/張振朗" title="wikilink">張振朗</a>、<br />
+<a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a>、<a href="../Page/李施嬅.md" title="wikilink">李施嬅</a>、<a href="../Page/王君馨.md" title="wikilink">王君馨</a>、<a href="../Page/張振朗.md" title="wikilink">張振朗</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a>（客串）、<a href="../Page/黎諾懿.md" title="wikilink">黎諾懿</a>、<a href="https://zh.wikipedia.org/wiki/姚子羚" title="wikilink">姚子羚</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/龔嘉欣" title="wikilink">龔嘉欣</a>、<a href="../Page/劉佩玥.md" title="wikilink">劉佩玥</a>、<a href="../Page/翟威廉.md" title="wikilink">翟威廉</a>、<a href="https://zh.wikipedia.org/wiki/岑麗香" title="wikilink">岑麗香</a>、<br />
 <a href="../Page/楊明.md" title="wikilink">楊 明</a>、<a href="https://zh.wikipedia.org/wiki/唐詩詠" title="wikilink">唐詩詠</a>、<a href="https://zh.wikipedia.org/wiki/朱晨麗" title="wikilink">朱晨麗</a>、<a href="https://zh.wikipedia.org/wiki/黃子恒" title="wikilink">黃子恒</a>、<br />
@@ -366,7 +366,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 （2016年）<a href="https://zh.wikipedia.org/wiki/蕭慧敏" title="wikilink">蕭慧敏</a>(决赛)、<a href="https://zh.wikipedia.org/wiki/曾洁钰" title="wikilink">曾洁钰</a>、<a href="../Page/温慧茵.md" title="wikilink">温慧茵</a></p></td>
 <td><p>2016年</p></td>
 <td><p>五强新秀可到台湾歌唱选秀节目《<a href="../Page/華人星光大道.md" title="wikilink">華人星光大道</a>》參賽，而在台灣落敗的選手則會被派到由<a href="../Page/TVB8.md" title="wikilink">TVB8舉辦的</a>《<a href="https://zh.wikipedia.org/wiki/TVB8全球華人新秀歌唱大賽" title="wikilink">TVB8全球華人新秀歌唱大賽</a>》參賽。<br />
-1997年開播的Astro歌唱選秀節目，2016年欢庆20年。2017年，因为Astro AEC製作的《<a href="https://zh.wikipedia.org/wiki/The_Voice_决战好声" title="wikilink">The Voice絕對好聲</a>》，新秀大赛暂时停办。</p></td>
+1997年開播的Astro歌唱選秀節目，2016年欢庆20年。2017年，因为Astro AEC製作的《<a href="../Page/The_Voice_决战好声.md" title="wikilink">The Voice絕對好聲</a>》，新秀大赛暂时停办。</p></td>
 <td><p><a href="https://web.facebook.com/AstroStarQuest/?_rdc=1&amp;_rdr">網站</a></p></td>
 </tr>
 <tr class="even">
@@ -421,7 +421,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/隱世者們" title="wikilink">隱世者們</a></p></td>
+<td><p><a href="../Page/隱世者們.md" title="wikilink">隱世者們</a></p></td>
 <td><p><a href="../Page/吳啟華.md" title="wikilink">吳啟華</a>、<a href="../Page/陶大宇.md" title="wikilink">陶大宇</a>、<a href="../Page/宣萱.md" title="wikilink">宣萱</a>、<br />
 <a href="../Page/蘇永康.md" title="wikilink">蘇永康</a>、<a href="../Page/周群達.md" title="wikilink">周群達</a>、<a href="../Page/呂晶晶.md" title="wikilink">呂晶晶</a>、<br />
 <a href="../Page/趙碩之.md" title="wikilink">趙碩之</a>、<a href="../Page/駱應鈞.md" title="wikilink">駱應鈞</a></p></td>
@@ -633,7 +633,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <tr class="odd">
 <td><p>舞极限</p></td>
 <td><p>（2007年）<a href="../Page/温力铭.md" title="wikilink">温力铭</a>、Sharlin<br />
-（2008年）<a href="../Page/温力铭.md" title="wikilink">温力铭</a>、<a href="https://zh.wikipedia.org/wiki/颜薇恩" title="wikilink">颜薇恩</a>、<a href="https://zh.wikipedia.org/wiki/朱浩仁" title="wikilink">朱浩仁</a><br />
+（2008年）<a href="../Page/温力铭.md" title="wikilink">温力铭</a>、<a href="https://zh.wikipedia.org/wiki/颜薇恩" title="wikilink">颜薇恩</a>、<a href="../Page/朱浩仁.md" title="wikilink">朱浩仁</a><br />
 （2009年）<a href="https://zh.wikipedia.org/wiki/郑伟康" title="wikilink">郑伟康</a>、<a href="https://zh.wikipedia.org/wiki/颜薇恩" title="wikilink">颜薇恩</a><br />
 （2010年）颜薇恩、Serena C<br />
 （2011年）颜薇恩、Serena C<br />
@@ -655,7 +655,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 （2016年）<a href="../Page/鄭裕玲.md" title="wikilink">鄭裕玲</a>、<a href="../Page/農夫_(組合).md" title="wikilink">農 夫</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="https://zh.wikipedia.org/wiki/朱智賢" title="wikilink">朱智賢</a><br />
 （2017年）<a href="../Page/鄭裕玲.md" title="wikilink">鄭裕玲</a>、<a href="../Page/農夫_(組合).md" title="wikilink">農夫</a>、<a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a>、<a href="../Page/麥美恩.md" title="wikilink">麥美恩</a>、<a href="../Page/陸浩明.md" title="wikilink">陸浩明</a></p></td>
 <td><p>2017年</p></td>
-<td><p>此頒獎禮是由<a href="../Page/TVB娛樂新聞台.md" title="wikilink">TVB娛樂新聞台主辦</a>，<a href="../Page/Astro集團.md" title="wikilink">Astro</a>、<a href="https://zh.wikipedia.org/wiki/MY_(马来西亚电台)" title="wikilink">MY及</a><a href="../Page/云顶集团.md" title="wikilink">雲頂娛樂城協辦的</a><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB海外電視頒獎典禮</a>。每年與<a href="../Page/翡翠台.md" title="wikilink">翡翠台同步轉播</a>。<br />
+<td><p>此頒獎禮是由<a href="../Page/TVB娛樂新聞台.md" title="wikilink">TVB娛樂新聞台主辦</a>，<a href="../Page/Astro集團.md" title="wikilink">Astro</a>、<a href="../Page/MY_(马来西亚电台).md" title="wikilink">MY及</a><a href="../Page/云顶集团.md" title="wikilink">雲頂娛樂城協辦的</a><a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB海外電視頒獎典禮</a>。每年與<a href="../Page/翡翠台.md" title="wikilink">翡翠台同步轉播</a>。<br />
 頒獎典禮在2018年正式停辦，但觀眾投選有被保留下來，而改為在《<a href="../Page/萬千星輝賀台慶.md" title="wikilink">萬千星輝賀台慶</a>》台慶節目裡公佈得獎名單。</p></td>
 <td><p><a href="http://www.xuan.com.my/entertainment/article/articleid/16009/%E4%B8%8D%E6%96%AD%E6%9B%B4%E6%96%B0-TVB%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E6%98%9F%E5%85%89%E8%8D%9F%E8%90%83%E9%A2%81%E5%A5%96%E5%85%B8%E7%A4%BC2017">網頁</a></p></td>
 </tr>
@@ -740,8 +740,8 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <tr class="odd">
 <td><p>2019年4月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/逆流大叔" title="wikilink">逆流大叔</a></p></td>
-<td><p><a href="../Page/吳鎮宇.md" title="wikilink">吳鎮宇</a>、<a href="../Page/潘燦良.md" title="wikilink">潘燦良</a>、<a href="../Page/黃德斌.md" title="wikilink">黃德斌</a>、<a href="https://zh.wikipedia.org/wiki/胡子彤" title="wikilink">胡子彤</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a>、<a href="https://zh.wikipedia.org/wiki/余香凝" title="wikilink">余香凝</a>、<a href="../Page/莊思敏.md" title="wikilink">莊思敏</a>、<a href="../Page/柳俊江.md" title="wikilink">柳俊江</a></p></td>
+<td><p><a href="../Page/吳鎮宇.md" title="wikilink">吳鎮宇</a>、<a href="../Page/潘燦良.md" title="wikilink">潘燦良</a>、<a href="../Page/黃德斌.md" title="wikilink">黃德斌</a>、<a href="../Page/胡子彤.md" title="wikilink">胡子彤</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a>、<a href="../Page/余香凝.md" title="wikilink">余香凝</a>、<a href="../Page/莊思敏.md" title="wikilink">莊思敏</a>、<a href="../Page/柳俊江.md" title="wikilink">柳俊江</a></p></td>
 <td><p>入圍 最佳電影、最佳導演(陳詠燊)、<br />
 新晉導演(陳詠燊)、<br />
 最佳編劇(陳詠燊)、<br />
@@ -798,13 +798,13 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <td><p>2019年4月14日</p></td>
 <td><p><a href="../Page/第38屆香港電影金像獎.md" title="wikilink">第38屆香港電影金像獎頒獎典禮</a></p></td>
 <td><p><a href="../Page/談善言.md" title="wikilink">談善言</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、<a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、<a href="../Page/蔡瀚億.md" title="wikilink">蔡瀚億</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/袁澧林" title="wikilink">袁澧林</a>、<a href="../Page/林耀聲.md" title="wikilink">林耀聲</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>，<a href="../Page/杜小喬.md" title="wikilink">杜小喬</a>、<br />
-<a href="../Page/朱鑑然.md" title="wikilink">朱鑑然</a>、陳欣妍、黃定謙、<a href="https://zh.wikipedia.org/wiki/余香凝" title="wikilink">余香凝</a>、<br />
-<a href="../Page/蘇麗珊.md" title="wikilink">蘇麗珊</a>、<a href="https://zh.wikipedia.org/wiki/謝高晉" title="wikilink">謝高晉</a>、<a href="https://zh.wikipedia.org/wiki/梁雍婷" title="wikilink">梁雍婷</a>、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<br />
-<a href="../Page/麥芷誼.md" title="wikilink">麥芷誼</a>、<a href="https://zh.wikipedia.org/wiki/凌文龍" title="wikilink">凌文龍</a>、<a href="../Page/顧定軒.md" title="wikilink">顧定軒</a>、<a href="https://zh.wikipedia.org/wiki/陳漢娜" title="wikilink">陳漢娜</a>、<br />
-郭奕芯、<a href="../Page/盧鎮業.md" title="wikilink">盧鎮業</a>、<a href="https://zh.wikipedia.org/wiki/鄧月平" title="wikilink">鄧月平</a>、<a href="https://zh.wikipedia.org/wiki/李任燊" title="wikilink">李任燊</a>、<br />
-<a href="../Page/湯加文.md" title="wikilink">湯加文</a>、<a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a>、<a href="../Page/陳健朗.md" title="wikilink">陳健朗</a>、<a href="https://zh.wikipedia.org/wiki/李靖筠" title="wikilink">李靖筠</a>、<br />
-<a href="../Page/劉頌鵬.md" title="wikilink">劉頌鵬</a>、<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<a href="https://zh.wikipedia.org/wiki/胡子彤" title="wikilink">胡子彤</a>、<a href="../Page/陳嘉桓.md" title="wikilink">陳嘉桓</a></p></td>
+<a href="../Page/袁澧林.md" title="wikilink">袁澧林</a>、<a href="../Page/林耀聲.md" title="wikilink">林耀聲</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>，<a href="../Page/杜小喬.md" title="wikilink">杜小喬</a>、<br />
+<a href="../Page/朱鑑然.md" title="wikilink">朱鑑然</a>、陳欣妍、黃定謙、<a href="../Page/余香凝.md" title="wikilink">余香凝</a>、<br />
+<a href="../Page/蘇麗珊.md" title="wikilink">蘇麗珊</a>、<a href="https://zh.wikipedia.org/wiki/謝高晉" title="wikilink">謝高晉</a>、<a href="../Page/梁雍婷.md" title="wikilink">梁雍婷</a>、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<br />
+<a href="../Page/麥芷誼.md" title="wikilink">麥芷誼</a>、<a href="../Page/凌文龍.md" title="wikilink">凌文龍</a>、<a href="../Page/顧定軒.md" title="wikilink">顧定軒</a>、<a href="../Page/陳漢娜.md" title="wikilink">陳漢娜</a>、<br />
+郭奕芯、<a href="../Page/盧鎮業.md" title="wikilink">盧鎮業</a>、<a href="../Page/鄧月平.md" title="wikilink">鄧月平</a>、<a href="../Page/李任燊.md" title="wikilink">李任燊</a>、<br />
+<a href="../Page/湯加文.md" title="wikilink">湯加文</a>、<a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a>、<a href="../Page/陳健朗.md" title="wikilink">陳健朗</a>、<a href="../Page/李靖筠.md" title="wikilink">李靖筠</a>、<br />
+<a href="../Page/劉頌鵬.md" title="wikilink">劉頌鵬</a>、<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<a href="../Page/胡子彤.md" title="wikilink">胡子彤</a>、<a href="../Page/陳嘉桓.md" title="wikilink">陳嘉桓</a></p></td>
 <td><p>與<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/ViuTV.md" title="wikilink">ViuTV同步現場轉播</a>。</p></td>
 </tr>
 <tr class="even">
@@ -847,7 +847,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <tr class="odd">
 <td><p>2018年4月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/悟空傳" title="wikilink">悟空傳</a></p></td>
-<td><p><a href="../Page/彭于晏.md" title="wikilink">彭于晏</a>、<a href="../Page/倪妮.md" title="wikilink">倪妮</a>、<a href="https://zh.wikipedia.org/wiki/歐豪" title="wikilink">歐豪</a>、<a href="../Page/余文樂.md" title="wikilink">余文樂</a>、<a href="https://zh.wikipedia.org/wiki/鄭爽" title="wikilink">鄭爽</a>、<a href="https://zh.wikipedia.org/wiki/喬杉" title="wikilink">喬杉</a>、<a href="https://zh.wikipedia.org/wiki/楊迪" title="wikilink">楊迪</a>、<a href="https://zh.wikipedia.org/wiki/俞飛鴻" title="wikilink">俞飛鴻</a></p></td>
+<td><p><a href="../Page/彭于晏.md" title="wikilink">彭于晏</a>、<a href="../Page/倪妮.md" title="wikilink">倪妮</a>、<a href="https://zh.wikipedia.org/wiki/歐豪" title="wikilink">歐豪</a>、<a href="../Page/余文樂.md" title="wikilink">余文樂</a>、<a href="https://zh.wikipedia.org/wiki/鄭爽" title="wikilink">鄭爽</a>、<a href="../Page/喬杉.md" title="wikilink">喬杉</a>、<a href="https://zh.wikipedia.org/wiki/楊迪" title="wikilink">楊迪</a>、<a href="https://zh.wikipedia.org/wiki/俞飛鴻" title="wikilink">俞飛鴻</a></p></td>
 <td><p>入圍 最佳美術指導(林子僑)、<br />
 最佳服裝造型設計(余家安、利碧君)、<br />
 最佳動作設計(谷軒昭)、<br />
@@ -856,7 +856,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 </tr>
 <tr class="even">
 <td><p>2018年4月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戰狼2" title="wikilink">戰狼2</a></p></td>
+<td><p><a href="../Page/戰狼2.md" title="wikilink">戰狼2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吳京" title="wikilink">吳京</a>、<a href="https://zh.wikipedia.org/wiki/弗蘭克·格里羅" title="wikilink">弗蘭克·格里羅</a>、<a href="https://zh.wikipedia.org/wiki/吳剛" title="wikilink">吳剛</a>、<a href="https://zh.wikipedia.org/wiki/張翰" title="wikilink">張翰</a>、<a href="../Page/盧靖姍.md" title="wikilink">盧靖姍</a>、<a href="../Page/淳于珊珊.md" title="wikilink">淳于珊珊</a>、<a href="../Page/丁海峰.md" title="wikilink">丁海峰</a></p></td>
 <td><p>入圍 最佳兩岸華語電影 獎項。</p></td>
 </tr>
@@ -876,7 +876,7 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 </tr>
 <tr class="odd">
 <td><p>2018年4月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第37屆香港電影金像獎" title="wikilink">第37屆香港電影金像獎頒獎典禮</a></p></td>
+<td><p><a href="../Page/第37屆香港電影金像獎.md" title="wikilink">第37屆香港電影金像獎頒獎典禮</a></p></td>
 <td><p><a href="../Page/張繼聰.md" title="wikilink">張繼聰</a>、<a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a></p></td>
 <td><p>與<a href="../Page/香港.md" title="wikilink">香港</a><a href="../Page/ViuTV.md" title="wikilink">ViuTV同步現場轉播</a>。</p></td>
 </tr>

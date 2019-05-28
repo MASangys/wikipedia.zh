@@ -452,7 +452,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2005年8月號連載單�
 <td></td>
 <td><p>美術部公館</p></td>
 <td><p>美術部新會員</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岡本英樹" title="wikilink">岡本英樹</a></p></td>
+<td><p><a href="../Page/岡本英樹.md" title="wikilink">岡本英樹</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/石野聰" title="wikilink">石野聰</a><br />
 藤卷裕一（輔助）</p></td>
 <td></td>

@@ -13,7 +13,7 @@
 <th><p><a href="https://zh.wikipedia.org/wiki/微架构" title="wikilink">微架构</a></p></th>
 <th><p>制程 (<a href="../Page/纳米.md" title="wikilink">nm</a>)</p></th>
 <th><p>時脈 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></th>
+<th><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/FLOPS" title="wikilink">GFLOPS</a></p></th>
 <th><p><a href="../Page/应用程序接口.md" title="wikilink">API</a></p></th>
 <th><p>高通芯片中的应用</p></th>
@@ -29,7 +29,7 @@
 <td><p>材质 (<a href="../Page/纹素.md" title="wikilink">GT</a>/s)</p></td>
 <td><p><a href="../Page/Vulkan_(API).md" title="wikilink">Vulkan</a></p></td>
 <td><p><a href="../Page/OpenGL_ES.md" title="wikilink">OpenGL ES</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/OpenVG" title="wikilink">OpenVG</a></p></td>
+<td><p><a href="../Page/OpenVG.md" title="wikilink">OpenVG</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 </tr>
 <tr class="even">
@@ -481,7 +481,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/微架构" title="wikilink">微架构</a></p></td>
 <td><p>制程 (<a href="../Page/纳米.md" title="wikilink">nm</a>)</p></td>
 <td><p>時脈 (<a href="https://zh.wikipedia.org/wiki/Hertz" title="wikilink">MHz</a>)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/填充率" title="wikilink">填充率</a></p></td>
+<td><p><a href="../Page/填充率.md" title="wikilink">填充率</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/FLOPS" title="wikilink">GFLOPS</a></p></td>
 <td><p><a href="../Page/应用程序接口.md" title="wikilink">API</a></p></td>
 <td><p>高通芯片中的应用</p></td>
@@ -495,7 +495,7 @@
 <td><p>材质 (<a href="../Page/纹素.md" title="wikilink">GT</a>/s)</p></td>
 <td><p><a href="../Page/Vulkan_(API).md" title="wikilink">Vulkan</a></p></td>
 <td><p><a href="../Page/OpenGL_ES.md" title="wikilink">OpenGL ES</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/OpenVG" title="wikilink">OpenVG</a></p></td>
+<td><p><a href="../Page/OpenVG.md" title="wikilink">OpenVG</a></p></td>
 <td><p><a href="../Page/OpenCL.md" title="wikilink">OpenCL</a></p></td>
 </tr>
 </tbody>
@@ -562,13 +562,12 @@ Imageon
   - [Mali](../Page/Mali_\(GPU\).md "wikilink") – [ARM
     Norway](https://zh.wikipedia.org/wiki/ARM_Norway "wikilink")
     研发的移动GPU，用于第三方授权。
-  - [Vivante](https://zh.wikipedia.org/wiki/图芯技术 "wikilink") –
-    [图芯技术](https://zh.wikipedia.org/wiki/图芯技术 "wikilink")
-    研发的移动GPU，用于第三方授权。
+  - [Vivante](../Page/图芯技术.md "wikilink") –
+    [图芯技术](../Page/图芯技术.md "wikilink") 研发的移动GPU，用于第三方授权。
   - [Tegra](https://zh.wikipedia.org/wiki/Tegra "wikilink") –
     [NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")
     研发的移动SoC，不向第三方授权。
-  - [VideoCore](https://zh.wikipedia.org/wiki/VideoCore "wikilink") –
+  - [VideoCore](../Page/VideoCore.md "wikilink") –
     [Broadcom](https://zh.wikipedia.org/wiki/Broadcom "wikilink")
     研发的移动GPU，允许第三方授权。
   - [Intel Atom](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink") –

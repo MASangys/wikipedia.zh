@@ -131,7 +131,7 @@ supercell以ryo為中心，由11名成員組成。ryo負責歌曲製作，包括
 
   - ryo（聲音）
 
-  - [三輪士郎](https://zh.wikipedia.org/wiki/三輪士郎 "wikilink")（繪圖）
+  - [三輪士郎](../Page/三輪士郎.md "wikilink")（繪圖）
 
   - [redjuice](https://zh.wikipedia.org/wiki/redjuice "wikilink")（繪圖）
 
@@ -375,8 +375,8 @@ CD+DVD：SRCL-8812 ～ SRCL-8813</p></td>
 | 初回限定盤 | 通常盤         | 期間生産限定盤/動畫盤                                                                                               |                 |                                           |
 | 1st   | 2011年11月30日 | ****                                                                                                      | SVWC-7796       | SVWC-7798                                 |
 | 2nd   | 2012年3月7日   | **[The Everlasting Guilty Crown](https://zh.wikipedia.org/wiki/The_Everlasting_Guilty_Crown "wikilink")** | SVWC-7832       | SVWC-7834                                 |
-| 3rd   | 2012年12月5日  | **[无名怪物](https://zh.wikipedia.org/wiki/无名怪物_\(自我主张单曲\) "wikilink")**                                      | SRCL-8147       | SRCL-8149                                 |
-| 4th   | 2013年3月6日   | **[与你同行](https://zh.wikipedia.org/wiki/与你同行_\(自我主张单曲\) "wikilink")**                                      | SRCL-8238/9     | SRCL-8240                                 |
+| 3rd   | 2012年12月5日  | **[无名怪物](../Page/无名怪物_\(自我主张单曲\).md "wikilink")**                                                         | SRCL-8147       | SRCL-8149                                 |
+| 4th   | 2013年3月6日   | **[与你同行](../Page/与你同行_\(自我主张单曲\).md "wikilink")**                                                         | SRCL-8238/9     | SRCL-8240                                 |
 | 5th   | 2014年11月19日 | **Fallen**                                                                                                | SRCL-8637/8     | SRCL-8639                                 |
 | 6th   | 2015年11月11日 | **リローデッド**                                                                                                | SRCL-8925/6     | SRCL-8927                                 |
 | 7th   | 2016年5月25日  | **KABANERI OF THE IRON FORTRESS**                                                                         | SRCL-9068/9     | SRCL-9070                                 |

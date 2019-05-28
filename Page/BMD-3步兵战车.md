@@ -1,5 +1,5 @@
 **BMD-3伞兵战车**（
-简称БМД—3）是前[苏联于](../Page/苏联.md "wikilink")1980年代末研发，1990年正式装备前苏联[空降军和](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[海军步兵的一款](https://zh.wikipedia.org/wiki/海军步兵 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](https://zh.wikipedia.org/wiki/空降戰車 "wikilink")。是[BMD系列伞兵战车的第三款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和BMD-1及BMD-2完全不同。属于全新的设计。
+简称БМД—3）是前[苏联于](../Page/苏联.md "wikilink")1980年代末研发，1990年正式装备前苏联[空降军和](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[海军步兵的一款](https://zh.wikipedia.org/wiki/海军步兵 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第三款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和BMD-1及BMD-2完全不同。属于全新的设计。
 
 ## 研发和装备背景
 
@@ -168,7 +168,7 @@
 <p><small>7.62mm機槍</small></p>
 <p><small>T-85-六聯裝煙幕彈發射器 x2</small></p></td>
 <td><p><small>100毫米口徑低壓線膛炮<br />
-<a href="https://zh.wikipedia.org/wiki/希普諾夫2A72機炮" title="wikilink">ZPT-99</a> 30毫米口径<a href="https://zh.wikipedia.org/wiki/机炮" title="wikilink">机炮</a><br />
+<a href="../Page/希普諾夫2A72機炮.md" title="wikilink">ZPT-99</a> 30毫米口径<a href="https://zh.wikipedia.org/wiki/机炮" title="wikilink">机炮</a><br />
 7.62毫米口徑同軸機槍</small></p></td>
 <td><p><small><a href="../Page/M242巨蝮式鏈炮.md" title="wikilink">M242</a> 25毫米機炮<br />
 <a href="../Page/BGM-71拖式飛彈.md" title="wikilink">陶式（TOW）反坦克飛彈</a><br />
@@ -188,7 +188,7 @@ AT-4（或AT-5）反坦克导弹发射器<br />
 <a href="../Page/AGS-17烈火自動榴彈發射器.md" title="wikilink">AG-17型</a>30毫米榴弹发射器<br />
 两套烟雾发射装置</small></p></td>
 <td><p><small><a href="https://zh.wikipedia.org/wiki/2A70線膛炮" title="wikilink">2A70</a> 100毫米线膛炮（<a href="../Page/9K116指節套環反坦克導彈.md" title="wikilink">AT-10反坦克飛彈</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/希普諾夫2A72機炮" title="wikilink">2A72 30毫米机炮</a><br />
+<a href="../Page/希普諾夫2A72機炮.md" title="wikilink">2A72 30毫米机炮</a><br />
 7.62毫米并列机枪<br />
 7.62毫米航向机枪<br />
 5.45毫米车体前侧机枪<br />

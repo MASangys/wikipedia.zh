@@ -6,7 +6,7 @@ Sr.**，1888年9月6日[波士顿](https://zh.wikipedia.org/wiki/波士顿_\(马
 
 ## 婚姻与家庭
 
-1914年，约瑟夫与[波士顿市长](https://zh.wikipedia.org/wiki/波士顿市长 "wikilink")[约翰·F·菲茨杰拉德之女](https://zh.wikipedia.org/wiki/约翰·F·菲茨杰拉德 "wikilink")[罗丝·菲茨杰拉德结婚](https://zh.wikipedia.org/wiki/罗丝·肯尼迪 "wikilink")，婚后共育有四儿五女。
+1914年，约瑟夫与[波士顿市长](https://zh.wikipedia.org/wiki/波士顿市长 "wikilink")[约翰·F·菲茨杰拉德之女](https://zh.wikipedia.org/wiki/约翰·F·菲茨杰拉德 "wikilink")[罗丝·菲茨杰拉德结婚](../Page/罗丝·肯尼迪.md "wikilink")，婚后共育有四儿五女。
 
   - [小约瑟夫·P·肯尼迪](../Page/小约瑟夫·P·肯尼迪.md "wikilink")（1915年7月25日-1944年8月12日）：第二次世界大战中牺牲
   - [约翰·F·肯尼迪](https://zh.wikipedia.org/wiki/约翰·F·肯尼迪 "wikilink")（1917年5月29日-1963年11月22日）：美国第35任总统

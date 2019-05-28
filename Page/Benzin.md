@@ -21,8 +21,7 @@ Reise中](../Page/Reise,_Reise.md "wikilink")，本曲首次現場演出[1](http
 
 1.  "Benzin" - 3:47
 2.  "Benzin <small>（Combustion Remix by
-    [Meshuggah](https://zh.wikipedia.org/wiki/Meshuggah "wikilink")）</small>"
-    - 5:05
+    [Meshuggah](../Page/Meshuggah.md "wikilink")）</small>" - 5:05
 3.  "Benzin <small>（Smallstars Remix by [Ad
     Rock](https://zh.wikipedia.org/wiki/Ad_Rock "wikilink")）</small>" -
     3:45

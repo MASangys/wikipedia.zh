@@ -454,7 +454,7 @@ Shield Bit)，提供了比力天使的GN全覆護盾(GN Full Shield)更全方位
 由「伊歐利亞·修罕貝克」所主張的新人類(大意相當[宇宙世紀或](../Page/宇宙世紀.md "wikilink")[GUNDAM
 X的](https://zh.wikipedia.org/wiki/GUNDAM_X "wikilink")[新人類或](https://zh.wikipedia.org/wiki/新類型人 "wikilink")[GUNDAM
 AGE的X](https://zh.wikipedia.org/wiki/GUNDAM_AGE "wikilink")-Rounder)。擁有強大的腦量子波，和由細胞變化所帶來的各項體能強化，其中包括判斷能力、環境適應能力，理論上壽命比普通人多一倍，而且不會老化。純種變革體在GN粒子散布範圍內可以有效的透過腦量子波來共享意識。
-[剎那·F·塞耶是第一位被認可的純種變革體](https://zh.wikipedia.org/wiki/剎那·F·塞耶 "wikilink")。經過ELS事件後，許多擁有變革體因子的人类皆覺醒，進化為純種變革體。
+[剎那·F·塞耶是第一位被認可的純種變革體](../Page/剎那·F·塞耶.md "wikilink")。經過ELS事件後，許多擁有變革體因子的人类皆覺醒，進化為純種變革體。
 到了西元2364年，地球百分之四十的人口都已經進化為純種變革者。
 
 ### [腦量子波](../Page/腦波.md "wikilink")

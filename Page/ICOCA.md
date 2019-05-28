@@ -49,8 +49,8 @@ West”的英文名稱縮寫而來。吉祥物是名為「」的[鴨嘴獸](http
     [播州赤穗站](https://zh.wikipedia.org/wiki/播州赤穗站 "wikilink")
   - [和歌山線](../Page/和歌山線.md "wikilink")：[王寺站](https://zh.wikipedia.org/wiki/王寺站 "wikilink")
     - [高田站](https://zh.wikipedia.org/wiki/高田站_\(奈良縣\) "wikilink")
-  - [櫻井線](https://zh.wikipedia.org/wiki/櫻井線 "wikilink")
-  - [草津線](https://zh.wikipedia.org/wiki/草津線 "wikilink")：[草津站](https://zh.wikipedia.org/wiki/草津站_\(滋賀縣\) "wikilink")
+  - [櫻井線](../Page/櫻井線.md "wikilink")
+  - [草津線](../Page/草津線.md "wikilink")：[草津站](https://zh.wikipedia.org/wiki/草津站_\(滋賀縣\) "wikilink")
     - [貴生川站](https://zh.wikipedia.org/wiki/貴生川站 "wikilink")
   - 山陽本線：[和氣站](https://zh.wikipedia.org/wiki/和氣站 "wikilink") -
     [南岩國站](https://zh.wikipedia.org/wiki/南岩國站 "wikilink")

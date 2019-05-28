@@ -121,7 +121,7 @@ socket() 有三个参数：
         （数据报文服务或者[数据报文套接字](https://zh.wikipedia.org/wiki/数据报文套接字 "wikilink")）
       - `SOCK_SEQPACKET` （可靠的连续数据包服务）
       - `SOCK_RAW`
-        (在网络层之上自行指定运输层协议头，即[原始套接字](https://zh.wikipedia.org/wiki/原始套接字 "wikilink"))
+        (在网络层之上自行指定运输层协议头，即[原始套接字](../Page/原始套接字.md "wikilink"))
   - <var>protocol</var> 指定实际使用的传输协议。
     最常见的就是[`IPPROTO_TCP`](../Page/传输控制协议.md "wikilink")、[`IPPROTO_SCTP`](https://zh.wikipedia.org/wiki/SCTP "wikilink")、[`IPPROTO_UDP`](../Page/用户数据报协议.md "wikilink")、[`IPPROTO_DCCP`](https://zh.wikipedia.org/wiki/DCCP "wikilink")。这些协议都在\<netinet/in.h\>中有详细说明。
     如果该项为“`0`”的话，即根据选定的domain和type选择使用缺省协议。
@@ -724,7 +724,7 @@ s.sendto(b'Hello World!',(host,port))
 ## 参见
 
   - [计算机网络](../Page/计算机网络.md "wikilink")
-  - [Winsock](https://zh.wikipedia.org/wiki/Winsock "wikilink")
+  - [Winsock](../Page/Winsock.md "wikilink")
 
 ## 参考资料
 

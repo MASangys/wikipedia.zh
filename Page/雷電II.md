@@ -91,7 +91,7 @@ BOSS為所有的水晶生命體大集合。
 
 ## 移植
 
-[PlayStation版由日本System](https://zh.wikipedia.org/wiki/PlayStation "wikilink")（）在1995年1月27日發售收錄[雷電及雷電II的合集](../Page/雷電_\(遊戲\).md "wikilink")《雷電Project》（）。\[1\][Windows版在臺灣由](https://zh.wikipedia.org/wiki/Windows "wikilink")[普威爾代理](https://zh.wikipedia.org/wiki/普威爾 "wikilink")。
+[PlayStation版由日本System](../Page/PlayStation.md "wikilink")（）在1995年1月27日發售收錄[雷電及雷電II的合集](../Page/雷電_\(遊戲\).md "wikilink")《雷電Project》（）。\[1\][Windows版在臺灣由](https://zh.wikipedia.org/wiki/Windows "wikilink")[普威爾代理](https://zh.wikipedia.org/wiki/普威爾 "wikilink")。
 
 ## 參考來源
 

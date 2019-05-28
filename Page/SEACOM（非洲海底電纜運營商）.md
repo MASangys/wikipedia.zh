@@ -21,7 +21,7 @@ Herlihy拥有10%。\[5\]
 
 [SEACOM_Network_Map.jpg](https://zh.wikipedia.org/wiki/File:SEACOM_Network_Map.jpg "fig:SEACOM_Network_Map.jpg")
 
-包含下列[电缆登陆点](https://zh.wikipedia.org/wiki/电缆登陆点 "wikilink")：
+包含下列[电缆登陆点](../Page/电缆登陆点.md "wikilink")：
 
   - [马赛](../Page/马赛.md "wikilink")
 

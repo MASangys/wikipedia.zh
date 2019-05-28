@@ -25,7 +25,7 @@
   - 三枝未希（G研究所心靈感應中心主任）：[小高惠美](../Page/小高惠美.md "wikilink")
   - 權藤千夏（G研究所生物工學教授、《[哥吉拉vs碧奧蘭蒂](../Page/哥吉拉vs碧奧蘭蒂.md "wikilink")》裡陣亡的權藤上校之妹）：[吉川十和子](https://zh.wikipedia.org/wiki/吉川十和子 "wikilink")
   - 大久保晉（G對策協議會進化生物學博士）：[齊藤洋介](https://zh.wikipedia.org/wiki/齊藤洋介 "wikilink")
-  - 結城晃（G-Force特殊隊員）：[柄本明](https://zh.wikipedia.org/wiki/柄本明 "wikilink")
+  - 結城晃（G-Force特殊隊員）：[柄本明](../Page/柄本明.md "wikilink")
   - 麻生孝昭（G-Force司令官）：[中尾彬](https://zh.wikipedia.org/wiki/中尾彬 "wikilink")
   - 兵藤巖（G-Force兵器開發主任）：[上田耕一](https://zh.wikipedia.org/wiki/上田耕一 "wikilink")
   - Cosmos：[今村惠子](https://zh.wikipedia.org/wiki/今村惠子 "wikilink")、[大澤さやか](https://zh.wikipedia.org/wiki/大澤さやか "wikilink")

@@ -49,7 +49,7 @@ DSi」的名義引進[中國大陸](../Page/中国大陆.md "wikilink")，首發
 
 日本任天堂準備了20萬部任天堂DSi作為首發庫存，結果首日即售出超過17萬部，其它3萬部也皆被預訂\[37\]。至2008年11月底，任天堂DSi銷量已達53.5萬部，只略落後於同時期任天堂DS
 Lite的55萬部\[38\]；在首發兩天內，北美及歐洲的任天堂DSi銷量合計已達60萬部\[39\]，北美的任天堂DSi首周銷量甚至達同時期任天堂DS
-Lite銷量的兩倍，來到了43.5萬部\[40\]。[链接=<https://en.wikipedia.org/wiki/File:Nintendo_World_Store_1.png>](https://zh.wikipedia.org/wiki/File:Nintendo_World_Store_1.png "fig:链接=https://en.wikipedia.org/wiki/File:Nintendo_World_Store_1.png")旗艦店。\]\]任天堂為任天堂DSi舉辦了許多活動，包括在[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")[任天堂世界旗艦店及](https://zh.wikipedia.org/wiki/紐約任天堂 "wikilink")[洛杉磯的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")舉辦官方的首發活動\[41\]\[42\]\[43\]\[44\]，多達150人徹夜等待[GameStop及其他零售通路引進任天堂DSi](https://zh.wikipedia.org/wiki/GameStop "wikilink")\[45\]。另外，一部由知名積木藝術家（Sean
+Lite銷量的兩倍，來到了43.5萬部\[40\]。[链接=<https://en.wikipedia.org/wiki/File:Nintendo_World_Store_1.png>](https://zh.wikipedia.org/wiki/File:Nintendo_World_Store_1.png "fig:链接=https://en.wikipedia.org/wiki/File:Nintendo_World_Store_1.png")旗艦店。\]\]任天堂為任天堂DSi舉辦了許多活動，包括在[紐約的](https://zh.wikipedia.org/wiki/紐約 "wikilink")[任天堂世界旗艦店及](../Page/紐約任天堂.md "wikilink")[洛杉磯的](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")舉辦官方的首發活動\[41\]\[42\]\[43\]\[44\]，多達150人徹夜等待[GameStop及其他零售通路引進任天堂DSi](../Page/GameStop.md "wikilink")\[45\]。另外，一部由知名積木藝術家（Sean
 Kenney）製作，以[樂高積木組成的大型任天堂DSi模型也同時在紐約任天堂世界展出](https://zh.wikipedia.org/wiki/乐高积木 "wikilink")\[46\]。
 
 2009年11月21日，任天堂DSi
@@ -134,13 +134,13 @@ LL機型銷量已基本趨近於零\[80\]。2017年3月31日，隨著任天堂DS
 Lite相同](../Page/任天堂DS_Lite.md "wikilink")\[82\]\[83\]。任天堂DSi之主機長度較任天堂DS
 Lite減少了12%，即，但寬度則較任天堂DS
 Lite大，重量也較輕\[84\]\[85\]\[86\]。任天堂DSi整體風格延續[任天堂DS系列的雙螢幕設計](https://zh.wikipedia.org/wiki/任天堂DS系列 "wikilink")，主機配有兩面對角線寬度為大的[薄膜電晶體液晶顯示器](../Page/薄膜電晶體液晶顯示器.md "wikilink")（TFT-LCD），其較任天堂DS
-Lite之螢幕尺寸提升了\[87\]\[88\]，同時發色數為262,144色\[89\]\[90\]。主機下方的螢幕具備[多點觸控機能](../Page/多點觸控.md "wikilink")，並支援[觸控筆](../Page/觸控筆.md "wikilink")\[91\]；內建按鍵包括字母按鍵（A、B、X、Y）、[十字鍵](https://zh.wikipedia.org/wiki/十字键 "wikilink")、左右[肩鍵](https://zh.wikipedia.org/wiki/肩鍵 "wikilink")（L、R）、開始按鈕、選擇按鈕及電源按鈕；主機下方有卡匣插槽、左右肩鍵及電源線孔\[92\]。需要注意的是，任天堂DSi附贈的[交流適配器](https://zh.wikipedia.org/wiki/交流適配器 "wikilink")（型號為WAP-002）與其它任天堂DS系列遊戲機皆不相容。
+Lite之螢幕尺寸提升了\[87\]\[88\]，同時發色數為262,144色\[89\]\[90\]。主機下方的螢幕具備[多點觸控機能](../Page/多點觸控.md "wikilink")，並支援[觸控筆](../Page/觸控筆.md "wikilink")\[91\]；內建按鍵包括字母按鍵（A、B、X、Y）、[十字鍵](https://zh.wikipedia.org/wiki/十字键 "wikilink")、左右[肩鍵](https://zh.wikipedia.org/wiki/肩鍵 "wikilink")（L、R）、開始按鈕、選擇按鈕及電源按鈕；主機下方有卡匣插槽、左右肩鍵及電源線孔\[92\]。需要注意的是，任天堂DSi附贈的[交流適配器](../Page/交流適配器.md "wikilink")（型號為WAP-002）與其它任天堂DS系列遊戲機皆不相容。
 
 任天堂DSi首度引進了相機功能，配備了兩個30萬[畫素的](https://zh.wikipedia.org/wiki/畫素 "wikilink")[影片圖形陣列](https://zh.wikipedia.org/wiki/視訊圖形陣列 "wikilink")（VGA）相機，分別位於主機螢幕旋轉軸及主機背面\[93\]。另外，任天堂DSi首度支援[SD卡](../Page/SD卡.md "wikilink")，插槽位於主機右側\[94\]。任天堂DSi繼任天堂DS
 Lite的切換開關之後，再度使用與原版[任天堂DS相同的電源按鈕啟動主機](../Page/任天堂DS.md "wikilink")，不過按鈕位置與原版任天堂DS不同，改為在主機下方螢幕的左側\[95\]\[96\]。主機左側有亮度及音量控制開關，其中亮度大小有六種選擇，比任天堂DS
 Lite多了一個；耳機孔則位於主機的下方\[97\]。
 
-任天堂DSi採用擁有特殊[光澤的螢幕](https://zh.wikipedia.org/wiki/光澤_\(光學\) "wikilink")，以防止沾黏指紋及髒汙\[98\]。任天堂DSi有六種不同的主機顏色\[99\]，不過部分特殊顏色曾只於特定地區銷售\[100\]\[101\]\[102\]。例如，曾為日本限定\[103\]\[104\]，而紅色曾只有歐美玩家才可以入手\[105\]\[106\]；北美版本的藍色任天堂DSi與日版也有些微色調差異\[107\]。此外，任天堂還曾發售許多特別塗裝版及同捆版本的任天堂DSi，並曾與《[逆轉檢事](../Page/逆轉檢事.md "wikilink")》及《[最終幻想水晶編年史
+任天堂DSi採用擁有特殊[光澤的螢幕](../Page/光澤_\(光學\).md "wikilink")，以防止沾黏指紋及髒汙\[98\]。任天堂DSi有六種不同的主機顏色\[99\]，不過部分特殊顏色曾只於特定地區銷售\[100\]\[101\]\[102\]。例如，曾為日本限定\[103\]\[104\]，而紅色曾只有歐美玩家才可以入手\[105\]\[106\]；北美版本的藍色任天堂DSi與日版也有些微色調差異\[107\]。此外，任天堂還曾發售許多特別塗裝版及同捆版本的任天堂DSi，並曾與《[逆轉檢事](../Page/逆轉檢事.md "wikilink")》及《[最終幻想水晶編年史
 時之回聲](https://zh.wikipedia.org/wiki/最終幻想水晶編年史_時之回聲 "wikilink")》等第三方遊戲合作\[108\]\[109\]\[110\]。
 
 ### 任天堂DSi LL
@@ -273,10 +273,10 @@ Enjoy Gaming（歐洲）[198]</p></td>
 Lite在主機設計及功能上的改進](../Page/任天堂DS_Lite.md "wikilink")，不過對於其內容貧乏的獨佔遊戲陣容則予以批評。[IGN的克雷格](../Page/IGN.md "wikilink")·哈里斯（Craig
 Horris）表示，任天堂DSi獨佔遊戲品質相差過大，任天堂DSi商店甚至在日本上線五個月後仍缺乏優質內容\[208\]；[CNET的傑夫](../Page/CNET.md "wikilink")·巴卡拉（Jeff
 Bakalar）也表示，只建議原版任天堂DS，而非在功能方面相差無幾的任天堂DS Lite用戶購買任天堂DSi\[209\]；不過，[PC
-World的詹](https://zh.wikipedia.org/wiki/PC_World "wikilink")·柏契蘭（Jan
-Berkieland）則認為應再給任天堂DSi一些時間發展獨佔數位內容\[210\]。多數評論皆指責任天堂移除了Game Boy
-Advance卡匣插槽的設計，不過部分評論者，如PC World的達倫·格拉德斯通（Darren Gladstone）、的喬·馬丁（Joe
-Martin）及IGN的哈里斯及史考特·羅威（Scott
+World的詹](../Page/PC_World.md "wikilink")·柏契蘭（Jan
+Berkieland）則認為應再給任天堂DSi一些時間發展獨佔數位內容\[210\]。多數評論皆指責任天堂移除了Game
+Boy Advance卡匣插槽的設計，不過部分評論者，如PC World的達倫·格拉德斯通（Darren
+Gladstone）、的喬·馬丁（Joe Martin）及IGN的哈里斯及史考特·羅威（Scott
 Lowe）則認為，以卡匣插槽交換外接SD卡功能以及全新的線上商店是可以接受的\[211\]\[212\]\[213\]。不過，巴卡拉同時在其評論中表示：「我認為，與其只減少4公釐的主機厚度，完整保留卡匣插槽還更好一些。」\[214\]
 
 輿論也同時批評任天堂DSi相機相對於多數行動電話的畫素品質過低\[215\]\[216\]\[217\]\[218\]，不過也認為此舉間接的增加了主機的流暢度\[219\]\[220\]\[221\]\[222\]。哈里斯及羅威在其報導中表示，「這相機的唯一用途就是為自己及他人增添愚蠢低廉的照片。」並批評相機在低光源拍攝環境下的成品色調過於偏藍\[223\]；任天堂DSi的相片編輯工具則褒貶不一：Bit-Tech的馬丁及里德（Reid）認為此工具只是噱頭，並無太大作用\[224\]；巴卡拉及《[彭博商業周刊](../Page/彭博商业周刊.md "wikilink")》的克里夫·艾德華（Cliff
@@ -294,7 +294,7 @@ J.Fassler）認為，任天堂DSi商店「有效的影響了大型量販店及�
 另一方面，《》的道格·拉斯蘭金（Douglas
 Rankine）與[GamePro的麥金利](https://zh.wikipedia.org/wiki/GamePro "wikilink")·諾柏（McKinley
 Noble）認為，由於任天堂DSi
-LL（XL）增大了螢幕尺寸，使原本被忽略的《》及《[這個美妙的世界](../Page/這個美妙的世界.md "wikilink")》等部分較精緻的原版任天堂DS遊戲再度受到關注\[234\]\[235\]。《[電腦與電子遊戲](https://zh.wikipedia.org/wiki/电脑与电子游戏 "wikilink")》的麥克·傑克森（Mike
+LL（XL）增大了螢幕尺寸，使原本被忽略的《》及《[這個美妙的世界](../Page/這個美妙的世界.md "wikilink")》等部分較精緻的原版任天堂DS遊戲再度受到關注\[234\]\[235\]。《[電腦與電子遊戲](../Page/电脑与电子游戏.md "wikilink")》的麥克·傑克森（Mike
 Jackson）反駁此說法，認為由於任天堂DSi
 LL並不會提升原版任天堂DS遊戲的解析度，因此使遊戲出現鋸齒情形，反而更不美觀\[236\]；不過，傑克森及IGN的羅威及克里斯·伯克（Chris
 Burke）皆同意任天堂DSi

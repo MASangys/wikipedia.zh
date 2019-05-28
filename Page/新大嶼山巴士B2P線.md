@@ -97,7 +97,7 @@
 
 ## 行車路線
 
-**天慈邨開**經：*[天喜街](https://zh.wikipedia.org/wiki/天喜街 "wikilink")、[天柏路](../Page/天柏路.md "wikilink")、[天祥路](https://zh.wikipedia.org/wiki/天祥路 "wikilink")、[天恩路](https://zh.wikipedia.org/wiki/天恩路 "wikilink")、[嘉恩街](https://zh.wikipedia.org/wiki/嘉恩街 "wikilink")、[天水圍市中心公共運輸交匯處](../Page/天水圍市中心公共運輸交匯處.md "wikilink")、天恩路、[天榮路](https://zh.wikipedia.org/wiki/天榮路 "wikilink")、[天瑞路](../Page/天瑞路.md "wikilink")、[天湖路](../Page/天湖路.md "wikilink")*、[天耀路](https://zh.wikipedia.org/wiki/天耀路 "wikilink")、[屏廈路](https://zh.wikipedia.org/wiki/屏廈路 "wikilink")、[洪天路](https://zh.wikipedia.org/wiki/洪天路 "wikilink")、天水圍西交匯處、[元朗公路](https://zh.wikipedia.org/wiki/元朗公路 "wikilink")、[港深西部公路](../Page/港深西部公路.md "wikilink")、深圳灣公路大橋及深圳灣口岸公共交通交匯處。
+**天慈邨開**經：*[天喜街](https://zh.wikipedia.org/wiki/天喜街 "wikilink")、[天柏路](../Page/天柏路.md "wikilink")、[天祥路](https://zh.wikipedia.org/wiki/天祥路 "wikilink")、[天恩路](https://zh.wikipedia.org/wiki/天恩路 "wikilink")、[嘉恩街](https://zh.wikipedia.org/wiki/嘉恩街 "wikilink")、[天水圍市中心公共運輸交匯處](../Page/天水圍市中心公共運輸交匯處.md "wikilink")、天恩路、[天榮路](https://zh.wikipedia.org/wiki/天榮路 "wikilink")、[天瑞路](../Page/天瑞路.md "wikilink")、[天湖路](../Page/天湖路.md "wikilink")*、[天耀路](https://zh.wikipedia.org/wiki/天耀路 "wikilink")、[屏廈路](https://zh.wikipedia.org/wiki/屏廈路 "wikilink")、[洪天路](../Page/洪天路.md "wikilink")、天水圍西交匯處、[元朗公路](https://zh.wikipedia.org/wiki/元朗公路 "wikilink")、[港深西部公路](../Page/港深西部公路.md "wikilink")、深圳灣公路大橋及深圳灣口岸公共交通交匯處。
 
   -
     B2X線不經*斜體字*之路段

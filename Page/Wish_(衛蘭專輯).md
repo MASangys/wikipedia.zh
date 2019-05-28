@@ -78,7 +78,7 @@
 <tr class="odd">
 <td><p>7.</p></td>
 <td><p>愛你還愛你</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/申昇勳" title="wikilink">申昇勳</a></p></td>
+<td><p><a href="../Page/申昇勳.md" title="wikilink">申昇勳</a></p></td>
 <td><p>林夕</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ted_Lo" title="wikilink">Ted Lo</a></p></td>
 <td><p>雷頌德</p></td>
@@ -88,7 +88,7 @@
 <td><p>8.</p></td>
 <td><p>今夜你不會來</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳志恆" title="wikilink">陳志恆</a>、<a href="https://zh.wikipedia.org/wiki/謝明訓" title="wikilink">謝明訓</a></p></td>
-<td><p>林夕、<a href="https://zh.wikipedia.org/wiki/林東松" title="wikilink">林東松</a></p></td>
+<td><p>林夕、<a href="../Page/林東松.md" title="wikilink">林東松</a></p></td>
 <td><p>陳志恆</p></td>
 <td><p>陳志恆</p></td>
 <td></td>
@@ -114,7 +114,7 @@
 <tr class="odd">
 <td><p>11.</p></td>
 <td><p>口花花</p></td>
-<td><p>陳志恆、<a href="https://zh.wikipedia.org/wiki/陳鎮川" title="wikilink">陳鎮川</a></p></td>
+<td><p>陳志恆、<a href="../Page/陳鎮川.md" title="wikilink">陳鎮川</a></p></td>
 <td><p>林夕</p></td>
 <td><p>Mac Chew</p></td>
 <td><p>伍樂城</p></td>

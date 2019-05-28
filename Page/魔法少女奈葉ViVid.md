@@ -315,7 +315,7 @@ MX](../Page/東京都會電視台.md "wikilink")、[每日放送](../Page/每日
 <td></td>
 <td><p>真正的心情</p></td>
 <td><p>渡邊了</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a></p></td>
+<td><p><a href="../Page/小坂春女.md" title="wikilink">小坂春女</a></p></td>
 <td><p>、橋口隼人</p></td>
 <td></td>
 </tr>

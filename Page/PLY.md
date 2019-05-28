@@ -107,7 +107,7 @@ list'表示該元素face的特性是由一行的頂點列表來描述。列表�
 ## 歷史
 
 PLY格式發展於90年代中期，在史丹佛大學圖學實驗室的Marc Levoy教授指導下，由及其他成員開發出來。PLY格式受[Wavefront
-.obj格式的啟發](https://zh.wikipedia.org/wiki/Wavefront_.obj文件 "wikilink")，但改進了Obj格式所缺少的對任意屬性及群組的擴充性。因此PLY格式發明了"property"及"element"這兩個關鍵詞，來概括「頂點、面、相關資訊、群組」的概念。
+.obj格式的啟發](../Page/Wavefront_.obj文件.md "wikilink")，但改進了Obj格式所缺少的對任意屬性及群組的擴充性。因此PLY格式發明了"property"及"element"這兩個關鍵詞，來概括「頂點、面、相關資訊、群組」的概念。
 
 ## 參見
 

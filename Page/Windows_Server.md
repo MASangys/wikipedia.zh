@@ -32,7 +32,7 @@ Directory](../Page/Active_Directory.md "wikilink")、[DNS服务器](../Page/域�
   - [Windows Server
     2016](../Page/Windows_Server_2016.md "wikilink")（2016年10月12日）
   - [Windows Server
-    2019](https://zh.wikipedia.org/wiki/Windows_Server_2019 "wikilink")（2018年10月2日）
+    2019](../Page/Windows_Server_2019.md "wikilink")（2018年10月2日）
 
 并非所有该品牌下的操作系统名称都以Windows Server开头。例如，截至目前，所有的Windows Server都有Windows
 Storage Server Edition版本。还有其他类似的例子，比如说[Windows Home

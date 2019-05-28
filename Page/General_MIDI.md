@@ -829,7 +829,7 @@ GM也同時規範了數個控制器的工作\[1\]
 | 10  | Pan（相位）                                                        |
 | 11  | Expression（表情踏板）                                               |
 | 38  | Data Entry [LSB](https://zh.wikipedia.org/wiki/LSB "wikilink") |
-| 64  | Sustain（[延音踏板](https://zh.wikipedia.org/wiki/延音踏板 "wikilink")） |
+| 64  | Sustain（[延音踏板](../Page/延音踏板.md "wikilink")）                    |
 | 100 | RPN LSB                                                        |
 | 101 | RPN MSB                                                        |
 | 121 | Reset all controllers（重設所有控制器）                                 |

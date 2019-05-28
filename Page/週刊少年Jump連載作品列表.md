@@ -3151,7 +3151,7 @@
 </tr>
 <tr class="even">
 <td><p>321</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/神通小精靈" title="wikilink">神通小精靈</a></p></td>
+<td><p><a href="../Page/神通小精靈.md" title="wikilink">神通小精靈</a></p></td>
 <td><p><a href="../Page/江川達也.md" title="wikilink">江川達也</a></p></td>
 <td><p>－</p></td>
 <td><p>1988.49</p></td>
@@ -3739,7 +3739,7 @@
 <tr class="odd">
 <td><p>381</p></td>
 <td><p><a href="../Page/行運超人.md" title="wikilink">-{zh-hans:幸运超人;zh-hk:行運超人;zh-tw:幸運超人;}-</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蒲生洋" title="wikilink">蒲生洋</a></p></td>
+<td><p><a href="../Page/蒲生洋.md" title="wikilink">蒲生洋</a></p></td>
 <td><p>－</p></td>
 <td><p>1993.35</p></td>
 <td><p>1997.30</p></td>
@@ -4136,7 +4136,7 @@
 </tr>
 <tr class="odd">
 <td><p>422</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/封神演義_(漫畫)" title="wikilink">封神演義</a></p></td>
+<td><p><a href="../Page/封神演義_(漫畫).md" title="wikilink">封神演義</a></p></td>
 <td><p><a href="../Page/藤崎龍.md" title="wikilink">藤崎龍</a></p></td>
 <td><p>－</p></td>
 <td><p>1996.28</p></td>
@@ -4418,7 +4418,7 @@
 <tr class="even">
 <td><p>451</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蒲生洋" title="wikilink">蒲生洋</a></p></td>
+<td><p><a href="../Page/蒲生洋.md" title="wikilink">蒲生洋</a></p></td>
 <td><p>－</p></td>
 <td><p>1998.43</p></td>
 <td><p>1999.11</p></td>
@@ -4716,7 +4716,7 @@
 </tr>
 <tr class="odd">
 <td><p>481</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鼻毛真拳" title="wikilink">鼻毛真拳</a></p></td>
+<td><p><a href="../Page/鼻毛真拳.md" title="wikilink">鼻毛真拳</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/澤井啟夫" title="wikilink">澤井啟夫</a></p></td>
 <td><p>－</p></td>
 <td><p>2001.12</p></td>
@@ -5221,7 +5221,7 @@
 </tr>
 <tr class="odd">
 <td><p>532</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鼻毛真拳" title="wikilink">真說鼻毛真拳</a></p></td>
+<td><p><a href="../Page/鼻毛真拳.md" title="wikilink">真說鼻毛真拳</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/澤井啟夫" title="wikilink">澤井啟夫</a></p></td>
 <td><p>－</p></td>
 <td><p>2006.03</p></td>
@@ -5878,7 +5878,7 @@
 </tr>
 <tr class="even">
 <td><p>599</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/排球少年！！" title="wikilink">排球少年！！</a></strong></p></td>
+<td><p><strong><a href="../Page/排球少年！！.md" title="wikilink">排球少年！！</a></strong></p></td>
 <td><p>古館春一</p></td>
 <td><p>－</p></td>
 <td><p>2012.12</p></td>
@@ -6050,7 +6050,7 @@
 </tr>
 <tr class="odd">
 <td><p>617</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/銀河巡警JACO" title="wikilink">銀河巡警JACO</a></p></td>
+<td><p><a href="../Page/銀河巡警JACO.md" title="wikilink">銀河巡警JACO</a></p></td>
 <td><p><a href="../Page/鳥山明.md" title="wikilink">鳥山明</a></p></td>
 <td><p>－</p></td>
 <td><p>2013.33</p></td>
@@ -6095,8 +6095,8 @@
 </tr>
 <tr class="even">
 <td><p>622</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/磯部磯兵衛物語～浮世多辛苦～" title="wikilink">磯部磯兵衛物語～浮世多辛苦～</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/仲間亮" title="wikilink">仲間亮</a></p></td>
+<td><p><a href="../Page/磯部磯兵衛物語～浮世多辛苦～.md" title="wikilink">磯部磯兵衛物語～浮世多辛苦～</a></p></td>
+<td><p><a href="../Page/仲間亮.md" title="wikilink">仲間亮</a></p></td>
 <td><p>－</p></td>
 <td><p>2013.47</p></td>
 <td><p>2017.46</p></td>
@@ -6158,7 +6158,7 @@
 </tr>
 <tr class="odd">
 <td><p>628</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/火之丸相撲" title="wikilink">火之丸相撲</a></strong></p></td>
+<td><p><strong><a href="../Page/火之丸相撲.md" title="wikilink">火之丸相撲</a></strong></p></td>
 <td><p>川田</p></td>
 <td><p>－</p></td>
 <td><p>2014.26</p></td>
@@ -6285,7 +6285,7 @@
 <tr class="odd">
 <td><p>641</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/黑色五葉草" title="wikilink">黑色五葉草</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/田畠裕基" title="wikilink">田畠裕基</a></p></td>
+<td><p><a href="../Page/田畠裕基.md" title="wikilink">田畠裕基</a></p></td>
 <td><p>－</p></td>
 <td><p>2015.12</p></td>
 <td><p>連載中</p></td>
@@ -6393,7 +6393,7 @@
 <tr class="odd">
 <td><p>652</p></td>
 <td><p><strong><a href="../Page/搖曳莊的幽奈小姐.md" title="wikilink">搖曳莊的幽奈小姐</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三浦忠弘" title="wikilink">三浦忠弘</a></p></td>
+<td><p><a href="../Page/三浦忠弘.md" title="wikilink">三浦忠弘</a></p></td>
 <td><p>－</p></td>
 <td><p>2016.10</p></td>
 <td><p>連載中</p></td>
@@ -6411,7 +6411,7 @@
 <tr class="odd">
 <td><p>654</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/博人传-火影次世代-" title="wikilink">BORUTO -NARUTO NEXT GENERATIONS-</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/池本幹雄" title="wikilink">池本幹雄</a>（漫畫）</p></td>
+<td><p><a href="../Page/池本幹雄.md" title="wikilink">池本幹雄</a>（漫畫）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/岸本齊史" title="wikilink">岸本齊史</a>（原作、監修）<br />
 小太刀右京（劇本）</p></td>
 <td><p>2016.23</p></td>
@@ -6429,7 +6429,7 @@
 </tr>
 <tr class="odd">
 <td><p>656</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/約定的夢幻島" title="wikilink">約定的夢幻島</a></strong></p></td>
+<td><p><strong><a href="../Page/約定的夢幻島.md" title="wikilink">約定的夢幻島</a></strong></p></td>
 <td><p>（漫畫）</p></td>
 <td><p>（原作）</p></td>
 <td><p>2016.35</p></td>
@@ -6501,7 +6501,7 @@
 </tr>
 <tr class="odd">
 <td><p>663</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/我們真的學不來！" title="wikilink">我們真的學不來！</a></strong></p></td>
+<td><p><strong><a href="../Page/我們真的學不來！.md" title="wikilink">我們真的學不來！</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/筒井大志" title="wikilink">筒井大志</a></p></td>
 <td><p>－</p></td>
 <td><p>2017.10</p></td>
@@ -6528,7 +6528,7 @@
 </tr>
 <tr class="even">
 <td><p>666</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/飢餓的瑪莉" title="wikilink">飢餓的瑪莉</a></p></td>
+<td><p><a href="../Page/飢餓的瑪莉.md" title="wikilink">飢餓的瑪莉</a></p></td>
 <td><p><a href="../Page/田村隆平.md" title="wikilink">田村隆平</a></p></td>
 <td><p>－</p></td>
 <td><p>2017.13</p></td>
@@ -6537,8 +6537,8 @@
 </tr>
 <tr class="odd">
 <td><p>667</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Dr.STONE_新石紀" title="wikilink">Dr.STONE -新石紀-</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Boichi" title="wikilink">Boichi</a>（漫畫）</p></td>
+<td><p><strong><a href="../Page/Dr.STONE_新石紀.md" title="wikilink">Dr.STONE -新石紀-</a></strong></p></td>
+<td><p><a href="../Page/Boichi.md" title="wikilink">Boichi</a>（漫畫）</p></td>
 <td><p><a href="../Page/稻垣理一郎.md" title="wikilink">稻垣理一郎</a>（原作）</p></td>
 <td><p>2017.14</p></td>
 <td><p>連載中</p></td>
@@ -6546,7 +6546,7 @@
 </tr>
 <tr class="even">
 <td><p>668</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ROBOT×LASERBEAM" title="wikilink">ROBOT×LASERBEAM</a></p></td>
+<td><p><a href="../Page/ROBOT×LASERBEAM.md" title="wikilink">ROBOT×LASERBEAM</a></p></td>
 <td><p><a href="../Page/藤卷忠俊.md" title="wikilink">藤卷忠俊</a></p></td>
 <td><p>－</p></td>
 <td><p>2017.16</p></td>

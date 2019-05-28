@@ -79,8 +79,7 @@ Gray）系列：
   - The Murder Room (2004)
   - Children of Men (劇情片，2006)
   - Death Comes to Pemberley (電視連續劇，2013)
-  - [彭伯利谋杀案](https://zh.wikipedia.org/wiki/彭伯利谋杀案 "wikilink")
-    (電視連續劇，2013)
+  - [彭伯利谋杀案](../Page/彭伯利谋杀案.md "wikilink") (電視連續劇，2013)
 
 ## 參考資料
 

@@ -11,7 +11,7 @@ RED BEAR**」。
 
 2013年，川崎為[JR九州製造新的DF](https://zh.wikipedia.org/wiki/JR九州 "wikilink")200，車號DF200-7000。此車專用於牽引JR九州所推出頂級的環島臥鋪列車「[九州七星號](../Page/九州七星號列車.md "wikilink")」（），全車為深棕色塗裝鑲有金色的標誌及類似汽車水箱罩的造型。
 
-2016年，[JR貨物在平成](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")28年度事業計劃中稱將會試作DF200形式的規格變更車，以替換關西本綫上運行的舊[DD51型柴油機車](https://zh.wikipedia.org/wiki/日本國鐵DD51型柴油機車 "wikilink")\[5\]。之後[JR貨物將原運用於北海道的DF](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")200-123送入川崎重工工場進行改造，並改變番號為DF200-223。2017年3月14日時刻改正后，該機車開始在[關西本綫定期運用](https://zh.wikipedia.org/wiki/關西本綫 "wikilink")。2017年4月以後，該型機車開始陸續代替原來由DD51執行的交路。
+2016年，[JR貨物在平成](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")28年度事業計劃中稱將會試作DF200形式的規格變更車，以替換關西本綫上運行的舊[DD51型柴油機車](../Page/日本國鐵DD51型柴油機車.md "wikilink")\[5\]。之後[JR貨物將原運用於北海道的DF](https://zh.wikipedia.org/wiki/日本貨物鐵道 "wikilink")200-123送入川崎重工工場進行改造，並改變番號為DF200-223。2017年3月14日時刻改正后，該機車開始在[關西本綫定期運用](https://zh.wikipedia.org/wiki/關西本綫 "wikilink")。2017年4月以後，該型機車開始陸續代替原來由DD51執行的交路。
 
 ## 參考資料
 

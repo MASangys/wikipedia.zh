@@ -78,7 +78,7 @@ Blue）就是分布在偉大航道後半部（新世界）旁兩側的海域。 
 
 由賓什莫克家率領的邪惡組織"杰爾馬66"曾橫行於北海，後來改編世經刊載的連環漫畫"天空戰戰士索拉"。
 
-北海著名的出身者有[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink")、[托拉法爾加·羅](https://zh.wikipedia.org/wiki/托拉法爾加·羅 "wikilink")、[巴吉魯·霍金斯](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#巴吉魯·霍金斯 "wikilink")、[X·多雷古](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#X·多雷古 "wikilink")、[貝拉密海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#貝拉密海賊團 "wikilink")、[唐吉訶德海賊團](https://zh.wikipedia.org/wiki/唐吉訶德海賊團 "wikilink")、[杰爾馬66](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#杰爾馬66／杰爾馬王國 "wikilink")、
+北海著名的出身者有[賓什莫克·香吉士](https://zh.wikipedia.org/wiki/賓什莫克·香吉士 "wikilink")、[托拉法爾加·羅](https://zh.wikipedia.org/wiki/托拉法爾加·羅 "wikilink")、[巴吉魯·霍金斯](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#巴吉魯·霍金斯 "wikilink")、[X·多雷古](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#X·多雷古 "wikilink")、[貝拉密海賊團](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#貝拉密海賊團 "wikilink")、[唐吉訶德海賊團](../Page/唐吉訶德海賊團.md "wikilink")、[杰爾馬66](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#杰爾馬66／杰爾馬王國 "wikilink")、
 [阿鶴](https://zh.wikipedia.org/wiki/海軍_\(ONE_PIECE\)#阿鶴 "wikilink")、[盃](../Page/盃_\(ONE_PIECE\).md "wikilink")、[波爾薩利諾](https://zh.wikipedia.org/wiki/波爾薩利諾_\(ONE_PIECE\) "wikilink")，其他角色請參見[ONE
 PIECE角色列表\#北海](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#北海 "wikilink")。
 
@@ -188,7 +188,7 @@ PIECE角色列表\#北海](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#�
 <tr class="even">
 <td><p>愛爾馬魯</p></td>
 <td><p>不明</p></td>
-<td><p>秘密犯罪組織<a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克的活動據點之一</a>，綠洲之城。</p></td>
+<td><p>秘密犯罪組織<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克的活動據點之一</a>，綠洲之城。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -206,7 +206,7 @@ PIECE角色列表\#北海](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#�
 <tr class="odd">
 <td><p>雨地</p></td>
 <td><p>賭城「雨宴」</p></td>
-<td><p>秘密犯罪組織<a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克的活動據點之一</a>，夢想之城。</p></td>
+<td><p>秘密犯罪組織<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克的活動據點之一</a>，夢想之城。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1033,7 +1033,7 @@ Q彈鎮<br />
 </tr>
 <tr class="odd">
 <td><p><strong>霸山狒狒</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/和之國" title="wikilink">和之國特有的大型狒狒</a>，體型較人類高大，性情兇暴難以馴服。被小玉馴服的狒狒丸正是此類動物。</p></td>
+<td><p><a href="../Page/和之國.md" title="wikilink">和之國特有的大型狒狒</a>，體型較人類高大，性情兇暴難以馴服。被小玉馴服的狒狒丸正是此類動物。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>狛犬</strong></p></td>
@@ -1245,7 +1245,7 @@ Q彈鎮<br />
 </tr>
 <tr class="odd">
 <td><p><strong>邪含草</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/和之國" title="wikilink">和之國特有的藥草</a>，可治療因為毒素引起的症狀。</p></td>
+<td><p><a href="../Page/和之國.md" title="wikilink">和之國特有的藥草</a>，可治療因為毒素引起的症狀。</p></td>
 <td><p>第913話</p></td>
 </tr>
 <tr class="even">
@@ -1410,7 +1410,7 @@ Q彈鎮<br />
       - **沼雲**：特性像沼澤的雲，一旦被陷入就無法靠自己的力量擺脫，可作為陷阱。神官**涅盤**在「沼的試煉」中使用裝有沼雲的雲貝。
       - **鐵雲**：特性像鐵的雲，重量為零、能操控形狀，可作為陷阱。神官**歐姆**在「鐵的試煉」中使用裝有鐵雲的雲貝，在使用時可自由改變形狀，形成千變萬化的劍。
       - **甜甜雲**：會下棉花糖雪的雲，首次出現在[BIG
-        MOM的](../Page/夏洛特·莉莉.md "wikilink")[「萬國」（托特蘭）](https://zh.wikipedia.org/wiki/BIG_MOM海賊團 "wikilink")。
+        MOM的](../Page/夏洛特·莉莉.md "wikilink")[「萬國」（托特蘭）](../Page/BIG_MOM海賊團.md "wikilink")。
     ※不管何種形式的雲重量永遠是零，可以裝在雲貝中攜帶。
 
 <!-- end list -->
@@ -1592,7 +1592,7 @@ Q彈鎮<br />
   - 椒鹽卷餅：BIG MOM海賊團「甜點三將星」夏洛特·慨烈卡的配劍，號稱世界獨一無二的名劍。
   - 白魚：名刀，BIG MOM海賊團戰鬥員「鬼夫人」亞曼德的佩刀。
   - 土龍：BIG
-    MOM海賊團「甜點三將星」[夏洛特·卡塔克利的](https://zh.wikipedia.org/wiki/夏洛特·卡塔克利 "wikilink")[三叉戟](https://zh.wikipedia.org/wiki/三叉戟 "wikilink")。
+    MOM海賊團「甜點三將星」[夏洛特·卡塔克利的](../Page/夏洛特·卡塔克利.md "wikilink")[三叉戟](https://zh.wikipedia.org/wiki/三叉戟 "wikilink")。
   - 狼牙棒：[海道的武器](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#海道 "wikilink")。
 
 ### 砲彈
@@ -1668,7 +1668,7 @@ Q彈鎮<br />
 </tr>
 <tr class="even">
 <td><p><strong>下大雨號</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克所使用的大型人工降雨船</a>，<a href="https://zh.wikipedia.org/wiki/魯夫" title="wikilink">魯夫打敗</a>「Mr.0」<a href="../Page/克洛克達爾.md" title="wikilink">克洛克達爾後</a>，這艘船馬上遭海軍扣押。</p></td>
+<td><p><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克所使用的大型人工降雨船</a>，<a href="https://zh.wikipedia.org/wiki/魯夫" title="wikilink">魯夫打敗</a>「Mr.0」<a href="../Page/克洛克達爾.md" title="wikilink">克洛克達爾後</a>，這艘船馬上遭海軍扣押。</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>聖布里斯號（Sent Bris）</strong></p></td>
@@ -1753,13 +1753,13 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 
 霸氣大致分為**「見聞色」**、**「武裝色」**和**「霸王色」**3種，除了「霸王色」外，一般人可以透過修煉激發獲得這種力量，還可以不斷修煉增強\[6\]。而在[海軍中](../Page/海軍_\(ONE_PIECE\).md "wikilink")，中將以上級別的將校均具有霸氣\[7\]。
 
-在[和之國被稱為](https://zh.wikipedia.org/wiki/和之國 "wikilink")「**流櫻**」，包含「流動」的意思。
+在[和之國被稱為](../Page/和之國.md "wikilink")「**流櫻**」，包含「流動」的意思。
 
 #### 見聞色霸氣
 
 在[空島被稱為](https://zh.wikipedia.org/wiki/空島_\(ONE_PIECE\) "wikilink")「**心網**」。強烈感知四周氣息的力量，可感應到視線外的對象甚至進一步預知對手動作，甚至聽見他人的心聲，是一種讀心術，也可以說是「聽的力量」；只要人還活著，身體就可以發出特殊的聲音，藉由這些聲音可以預測對手下一步的動作與位置，只要經過鍛鍊就能讓範圍變大\[8\]。除此之外，亦能以視覺（看見人體散發的氣息）、嗅覺（準確感知週遭事物的氣味）等形式呈現。
 
-當將此霸氣修煉到極致時甚至能預知部分的未來，目前已知能夠做到這點有[夏洛特·卡塔克利](https://zh.wikipedia.org/wiki/夏洛特·卡塔克利 "wikilink")、[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")（與卡塔克利的戰鬥中習得）。
+當將此霸氣修煉到極致時甚至能預知部分的未來，目前已知能夠做到這點有[夏洛特·卡塔克利](../Page/夏洛特·卡塔克利.md "wikilink")、[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")（與卡塔克利的戰鬥中習得）。
 
 在[魚人島的傳說中](../Page/魚人島.md "wikilink")，空白100年間的人魚公主擁有與海王類溝通的能力，後來[白星繼承了此能力](../Page/白星.md "wikilink")。魯夫和桃之助曾聽到[佐烏的聲音](../Page/佐烏.md "wikilink")，然而魯夫無法與之溝通。「海賊王」[哥爾·D·羅傑甚至能傾聽萬物的聲音](../Page/哥爾·D·羅傑.md "wikilink")；據傳三眼族也能覺醒類似的能力。
 
@@ -1773,7 +1773,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 
 可以靠著自身「氣魄」發出威懾，能逼退甚至嚇昏周圍精神力較弱的對象，如果控制不好會使不相關的人一併受牽連；相反地，假如霸氣達到最高境界則可達到威壓效果\[10\]，例如[「紅髮」傑克曾以此霸氣把](https://zh.wikipedia.org/wiki/香克斯 "wikilink")[白鬍子海賊團的船壓裂了些許](../Page/白鬍子海賊團.md "wikilink")。這是數百萬人之中只有一人之**天選之人**的霸氣，即是擁有立於萬人之上的「**王的資質**」\[11\]，和前兩者不同的是，既不能後天習得，亦无法先天传承，只能由天命决定。同時無法靠著修煉來增強只能控制，因為是使用者本人的氣魄，惟有使用者本人的成長才能令其強化\[12\]。當對此霸氣的控制熟練度達到一定程度時，可以控制其程度、時間及範圍。
 
-當擁有霸王色資質的人們之間發生衝突時，霸氣與霸氣之間的碰撞所造成的效果稱作「**霸王色碰撞**」。例如：[蒙其·D·魯夫與](../Page/蒙其·D·魯夫.md "wikilink")[青椒](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#青椒 "wikilink")、[唐吉訶德·多佛朗明哥](../Page/唐吉訶德·多佛朗明哥.md "wikilink")、[夏洛特·卡塔克利的戰鬥中皆曾發出類似閃電的閃道](https://zh.wikipedia.org/wiki/夏洛特·卡塔克利 "wikilink")。
+當擁有霸王色資質的人們之間發生衝突時，霸氣與霸氣之間的碰撞所造成的效果稱作「**霸王色碰撞**」。例如：[蒙其·D·魯夫與](../Page/蒙其·D·魯夫.md "wikilink")[青椒](https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#青椒 "wikilink")、[唐吉訶德·多佛朗明哥](../Page/唐吉訶德·多佛朗明哥.md "wikilink")、[夏洛特·卡塔克利的戰鬥中皆曾發出類似閃電的閃道](../Page/夏洛特·卡塔克利.md "wikilink")。
 
 <table>
 <colgroup>
@@ -1845,7 +1845,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 托特蘭女王</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/夏洛特·卡塔克利" title="wikilink">夏洛特·卡塔克利</a></p></td>
+<td><p><a href="../Page/夏洛特·卡塔克利.md" title="wikilink">夏洛特·卡塔克利</a></p></td>
 <td><p>「BIG MOM海賊團」甜點三將星<br />
 托特蘭麵粉大臣</p></td>
 </tr>
@@ -2132,8 +2132,8 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夏洛特·卡塔克利" title="wikilink">夏洛特·卡塔克利</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團" title="wikilink">BIG MOM海賊團</a><br />
+<td><p><a href="../Page/夏洛特·卡塔克利.md" title="wikilink">夏洛特·卡塔克利</a></p></td>
+<td><p><a href="../Page/BIG_MOM海賊團.md" title="wikilink">BIG MOM海賊團</a><br />
 <em>「甜點三將星」麵粉大臣</em></p></td>
 <td><p>10億5,700萬</p></td>
 <td><p>糯糯果實</p></td>
@@ -2151,7 +2151,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tr class="even">
 <td><p>6</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團#夏洛特·斯姆吉" title="wikilink">夏洛特·斯姆吉</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團" title="wikilink">BIG MOM海賊團</a><br />
+<td><p><a href="../Page/BIG_MOM海賊團.md" title="wikilink">BIG MOM海賊團</a><br />
 <em>「甜點三將星」果汁大臣</em></p></td>
 <td><p>9億3,200萬</p></td>
 <td><p>榨榨果實</p></td>
@@ -2160,7 +2160,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團#夏洛特·慨烈卡" title="wikilink">「千手」夏洛特·慨烈卡</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團" title="wikilink">BIG MOM海賊團</a><br />
+<td><p><a href="../Page/BIG_MOM海賊團.md" title="wikilink">BIG MOM海賊團</a><br />
 <em>「甜點三將星」餅乾大臣</em></p></td>
 <td><p>8億6,000萬</p></td>
 <td><p>餅乾果實</p></td>
@@ -2169,7 +2169,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tr class="even">
 <td><p>8</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團#夏洛特·裴洛斯培勒" title="wikilink">夏洛特·裴洛斯培勒</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團" title="wikilink">BIG MOM海賊團</a><br />
+<td><p><a href="../Page/BIG_MOM海賊團.md" title="wikilink">BIG MOM海賊團</a><br />
 <em>糖果大臣</em></p></td>
 <td><p>7億</p></td>
 <td><p>舔舔果實</p></td>
@@ -2187,7 +2187,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tr class="even">
 <td><p>10</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團#夏洛特·史奈克" title="wikilink">夏洛特·史奈克</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團" title="wikilink">BIG MOM海賊團</a><br />
+<td><p><a href="../Page/BIG_MOM海賊團.md" title="wikilink">BIG MOM海賊團</a><br />
 <em>原「甜點四將星」（現三將星）</em></p></td>
 <td><p>6億</p></td>
 <td><p>無</p></td>
@@ -2268,7 +2268,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tr class="even">
 <td><p>17</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團#塔馬哥男爵" title="wikilink">塔馬哥男爵</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團" title="wikilink">BIG MOM海賊團</a><br />
+<td><p><a href="../Page/BIG_MOM海賊團.md" title="wikilink">BIG MOM海賊團</a><br />
 <em>戰鬥員</em>「<a href="https://zh.wikipedia.org/wiki/騎士" title="wikilink">騎士</a>」</p></td>
 <td><p>4億2,900萬</p></td>
 <td><p>蛋蛋果實</p></td>
@@ -2302,7 +2302,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <td><p>3億4,000萬<br />
 （任命為七武海前）</p></td>
 <td><p>線線果實</p></td>
-<td><p>原<a href="https://zh.wikipedia.org/wiki/唐吉訶德海賊團" title="wikilink">唐吉訶德海家族首領</a>、前任王下七武海、已被海軍逮捕進入推進城</p></td>
+<td><p>原<a href="../Page/唐吉訶德海賊團.md" title="wikilink">唐吉訶德海家族首領</a>、前任王下七武海、已被海軍逮捕進入推進城</p></td>
 </tr>
 <tr class="even">
 <td><p>21</p></td>
@@ -2316,7 +2316,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團#波哥姆斯" title="wikilink">波哥姆斯</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團" title="wikilink">BIG MOM海賊團</a><br />
+<td><p><a href="../Page/BIG_MOM海賊團.md" title="wikilink">BIG MOM海賊團</a><br />
 <em>戰鬥員</em></p></td>
 <td><p>龜龜果實</p></td>
 <td><p>純毛族</p></td>
@@ -2488,7 +2488,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tr class="odd">
 <td><p>32</p></td>
 <td><p><a href="../Page/妮可·羅賓.md" title="wikilink">「惡魔之子」妮可·羅賓</a></p></td>
-<td><p><s><a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克</a></s><br />
+<td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s><br />
 <em>副社長</em>（已解散）<br />
 →<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團" title="wikilink">草帽海賊團</a><br />
 <em>考古學家</em></p></td>
@@ -2508,7 +2508,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tr class="odd">
 <td><p>34</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團#波比" title="wikilink">「討債者」波比</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BIG_MOM海賊團" title="wikilink">BIG MOM海賊團</a><br />
+<td><p><a href="../Page/BIG_MOM海賊團.md" title="wikilink">BIG MOM海賊團</a><br />
 <em>戰鬥員</em>「<a href="../Page/主教.md" title="wikilink">主教</a>」</p></td>
 <td><p>1億550萬</p></td>
 <td><p>名稱不明</p></td>
@@ -2604,7 +2604,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tr class="even">
 <td><p>41</p></td>
 <td><p><a href="../Page/克洛克達爾.md" title="wikilink">「Mr.0」沙·克洛克達爾</a></p></td>
-<td><p><s><a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克</a></s>（已解散）<br />
+<td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）<br />
 <em>社長</em></p></td>
 <td><p>8,100萬<br />
 （任命為七武海前）</p></td>
@@ -2642,11 +2642,11 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tr class="even">
 <td><p>45</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#達兹·波涅士" title="wikilink">「Mr.1」達兹·波涅士</a></p></td>
-<td><p><s><a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
+<td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>7,500萬<br />
 </p></td>
 <td><p>快斬果實</p></td>
-<td><p>前<a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克高級特務</a>、「頂點戰爭」過後接受<a href="../Page/克洛克達爾.md" title="wikilink">「Mr.0」沙·克洛克達爾的邀約而前往新世界</a></p></td>
+<td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a>、「頂點戰爭」過後接受<a href="../Page/克洛克達爾.md" title="wikilink">「Mr.0」沙·克洛克達爾的邀約而前往新世界</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>46</p></td>
@@ -2799,18 +2799,18 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tr class="odd">
 <td><p>60</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#波拉" title="wikilink">「Miss 雙手指」</a></p></td>
-<td><p><s><a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
+<td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>3,500萬</p></td>
 <td><p>荊棘果實</p></td>
-<td><p>前<a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克高級特務</a>、在「Miss Golden Week」等人的幫助下成功逃獄</p></td>
+<td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a>、在「Miss Golden Week」等人的幫助下成功逃獄</p></td>
 </tr>
 <tr class="even">
 <td><p>61</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#馮·克雷" title="wikilink">「Mr.2」馮·克雷</a></p></td>
-<td><p><s><a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
+<td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>3,200萬</p></td>
 <td><p>模仿果實</p></td>
-<td><p>前<a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克高級特務</a>、因救<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團" title="wikilink">草帽海賊團而被海軍逮捕</a>，後因頂點戰爭魯夫大鬧推進城而成為推進城Level 5.5「新人妖樂園」的「人妖王」</p></td>
+<td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a>、因救<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#草帽海賊團" title="wikilink">草帽海賊團而被海軍逮捕</a>，後因頂點戰爭魯夫大鬧推進城而成為推進城Level 5.5「新人妖樂園」的「人妖王」</p></td>
 </tr>
 <tr class="odd">
 <td><p>62</p></td>
@@ -2824,10 +2824,10 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tr class="even">
 <td><p>63</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#瑪莉安" title="wikilink">Miss 黃金週</a></p></td>
-<td><p><s><a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
+<td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>2,900萬</p></td>
 <td><p>無</p></td>
-<td><p>前<a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克高級特務</a>、在「Mr.2」的解救下成功逃脫</p></td>
+<td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a>、在「Mr.2」的解救下成功逃脫</p></td>
 </tr>
 <tr class="odd">
 <td><p>64</p></td>
@@ -2857,13 +2857,13 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#本名加爾迪諾" title="wikilink">「Mr.3」加爾迪諾</a></p></td>
-<td><p><s><a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克</a></s>（已解散）<br />
+<td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）<br />
 →<a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#海賊派遣公司（巴其速遞）" title="wikilink">巴其海賊團</a><br />
 </p></td>
 <td><p>2,400萬<br />
 （暫時終止）</p></td>
 <td><p>融化果實</p></td>
-<td><p>前<a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克高級特務</a>、「頂點戰爭」過後跟隨「小丑」<a href="https://zh.wikipedia.org/wiki/巴其" title="wikilink">巴其一行人離開馬林福特</a>，並加入了巴其海賊團</p></td>
+<td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a>、「頂點戰爭」過後跟隨「小丑」<a href="https://zh.wikipedia.org/wiki/巴其" title="wikilink">巴其一行人離開馬林福特</a>，並加入了巴其海賊團</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2956,10 +2956,10 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tr class="odd">
 <td><p>72</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#多蘿菲" title="wikilink">「Miss 聖誕節」</a></p></td>
-<td><p><s><a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
+<td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>1,400萬</p></td>
 <td><p>鼴鼠果實</p></td>
-<td><p>前<a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克高級特務</a>、在「Miss Golden Week」一行人的幫助下成功逃獄</p></td>
+<td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a>、在「Miss Golden Week」一行人的幫助下成功逃獄</p></td>
 </tr>
 <tr class="even">
 <td><p>73</p></td>
@@ -2982,10 +2982,10 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tr class="even">
 <td><p>75</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#傑姆" title="wikilink">「Mr.5」傑姆</a></p></td>
-<td><p><s><a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
+<td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>1,000萬</p></td>
 <td><p>炸彈果實</p></td>
-<td><p>前<a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克高級特務</a></p></td>
+<td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>76</p></td>
@@ -3033,10 +3033,10 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tr class="even">
 <td><p>79</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#米琪塔" title="wikilink">Miss 情人節</a></p></td>
-<td><p><s><a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
+<td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>750萬</p></td>
 <td><p>輕飄飄果實</p></td>
-<td><p>前<a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克高級特務</a></p></td>
+<td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>80</p></td>
@@ -3075,10 +3075,10 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 <tr class="odd">
 <td><p>83</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克#貝布" title="wikilink">「Mr.4」貝布</a></p></td>
-<td><p><s><a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
+<td><p><s><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></s>（已解散）</p></td>
 <td><p>320萬</p></td>
 <td><p>無</p></td>
-<td><p>前<a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克高級特務</a>、在「Miss Golden Week」一行人的幫助下成功逃獄</p></td>
+<td><p>前<a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克高級特務</a>、在「Miss Golden Week」一行人的幫助下成功逃獄</p></td>
 </tr>
 <tr class="even">
 <td><p>84</p></td>
@@ -3514,7 +3514,7 @@ PIECE世界中所有人類](../Page/ONE_PIECE.md "wikilink")（在動畫原創�
 | **[吉貝爾在海底遺跡找到的歷史本文](../Page/吉貝爾.md "wikilink")**                                | 扉页连载《吉貝爾的海侠孤旅》的途中發現的，之後吉貝爾帶在身上並交給「BIG MOM」，被布魯克取得拓印。                                                            |
 | **[佐烏的歷史本文](../Page/佐烏.md "wikilink")**                                         | 由鮮紅色的材質製造而成，為全世界一共有四個、湊齊後能確認最終之地「**拉乎德爾**」位置的其中一個「路標歷史本文」。目前已知另有兩個分別由四皇「百獸」海道和「BIG MOM」佔據（後者被布魯克取得拓印），還有一個下落不明。 |
 | **蛋糕島的歷史本文**                                                                    | 為「BIG MOM」持有的三個歷史本文之一，被布魯克取得拓印。                                                                                 |
-| **[和之國的歷史本文](https://zh.wikipedia.org/wiki/和之國 "wikilink")**                    | 為「百獸」海道持有的歷史本文之一，與許多[木芥子放在地下室嚴密保管](../Page/木芥子.md "wikilink")。                                                  |
+| **[和之國的歷史本文](../Page/和之國.md "wikilink")**                                       | 為「百獸」海道持有的歷史本文之一，與許多[木芥子放在地下室嚴密保管](../Page/木芥子.md "wikilink")。                                                  |
 | **真正的歷史本文**                                                                     | 指的是將全世界的歷史本文帶到偉大航道的盡頭「拉乎德爾」，並將他們連接起來才能得知**空白的100年**的背景。                                                         |
 |                                                                                 |                                                                                                                 |
 
@@ -3691,7 +3691,7 @@ Belt |無風帶 |無風帶 |------------------- | |Alabasta |雪花石膏王國 
 目前，獲日本官方正式授權出版《ONE
 PIECE》漫畫中文版的出版社，分別為香港的[天下出版有限公司](../Page/天下出版.md "wikilink")、台灣的[東立出版社有限公司及中國大陸的](../Page/東立出版社.md "wikilink")[浙江人民美术出版社](../Page/浙江人民美术出版社.md "wikilink")。
 
-由於台灣、香港及中國大陸的[語言有所差異](https://zh.wikipedia.org/wiki/語言 "wikilink")，各地負責翻譯和出版《ONE
+由於台灣、香港及中國大陸的[語言有所差異](../Page/語言.md "wikilink")，各地負責翻譯和出版《ONE
 PIECE》漫畫的出版社、播映動畫的電視台，對角色的中文譯名也會有差別。
 
 ### 主要角色

@@ -6,7 +6,7 @@ GA文库出版了相當多原創作品。創刊一年來，主力作品只有《
 
 ### 尖端出版
 
-  - [下課後防衛隊－戰爭世代](https://zh.wikipedia.org/wiki/下課後防衛隊－戰爭世代 "wikilink")（[柿沼秀樹](https://zh.wikipedia.org/wiki/柿沼秀樹 "wikilink")／[放電映像](https://zh.wikipedia.org/wiki/放電映像 "wikilink")）
+  - [下課後防衛隊－戰爭世代](https://zh.wikipedia.org/wiki/下課後防衛隊－戰爭世代 "wikilink")（[柿沼秀樹](https://zh.wikipedia.org/wiki/柿沼秀樹 "wikilink")／[放電映像](../Page/放電映像.md "wikilink")）
   - [高校女僕警察](https://zh.wikipedia.org/wiki/高校女僕警察 "wikilink")（[澤上水也](https://zh.wikipedia.org/wiki/澤上水也 "wikilink")／[西脇ゆぅり](https://zh.wikipedia.org/wiki/西脇ゆぅり "wikilink")）
   - [神曲奏界](../Page/神曲奏界.md "wikilink")
       - 神曲奏界
@@ -34,15 +34,15 @@ GA文库出版了相當多原創作品。創刊一年來，主力作品只有《
   - [妹妹x殺手x宅配便](../Page/妹妹x殺手x宅配便.md "wikilink")（[九邊健二](https://zh.wikipedia.org/wiki/九邊健二 "wikilink")／[鶴崎貴大](../Page/鶴崎貴大.md "wikilink")）
   - [深山家的蓓兒汀](https://zh.wikipedia.org/wiki/深山家的蓓兒汀 "wikilink")（逢空萬太／[七](https://zh.wikipedia.org/wiki/七 "wikilink")）
   - [我女友與青梅竹馬的慘烈修羅場](../Page/我女友與青梅竹馬的慘烈修羅場.md "wikilink")（[裕時悠示](https://zh.wikipedia.org/wiki/裕時悠示 "wikilink")／[るろお](https://zh.wikipedia.org/wiki/るろお "wikilink")）
-  - [農林](../Page/農林.md "wikilink")（[白鳥士郎](https://zh.wikipedia.org/wiki/白鳥士郎 "wikilink")／[切符](https://zh.wikipedia.org/wiki/切符 "wikilink")）
+  - [農林](../Page/農林.md "wikilink")（[白鳥士郎](../Page/白鳥士郎.md "wikilink")／[切符](../Page/切符.md "wikilink")）
   - [舞星灑落的雷涅席庫爾](https://zh.wikipedia.org/wiki/舞星灑落的雷涅席庫爾 "wikilink")（[裕時悠示](https://zh.wikipedia.org/wiki/裕時悠示 "wikilink")／[たかやKi](https://zh.wikipedia.org/wiki/たかやKi "wikilink")）
   - [你的侍奉只有這種程度嗎?](https://zh.wikipedia.org/wiki/你的侍奉只有這種程度嗎? "wikilink")（[森田季節](../Page/森田季節.md "wikilink")／[尾崎弘宜](https://zh.wikipedia.org/wiki/尾崎弘宜 "wikilink")）
   - [BOY‧MEETS‧HEART
     \!](https://zh.wikipedia.org/wiki/BOY‧MEETS‧HEART_! "wikilink")（[鳥羽徹](https://zh.wikipedia.org/wiki/鳥羽徹 "wikilink")／[H2SO4](https://zh.wikipedia.org/wiki/H2SO4 "wikilink")）
   - [雙胞胎與青梅竹馬的四人命案](https://zh.wikipedia.org/wiki/雙胞胎與青梅竹馬的四人命案 "wikilink")（[森田陽一](https://zh.wikipedia.org/wiki/森田陽一 "wikilink")／[saitom](https://zh.wikipedia.org/wiki/saitom "wikilink")）
   - [也許是現在進行式的黑歷史](https://zh.wikipedia.org/wiki/也許是現在進行式的黑歷史 "wikilink")（[あわむら赤光](https://zh.wikipedia.org/wiki/あわむら赤光 "wikilink")／[refeia](https://zh.wikipedia.org/wiki/refeia "wikilink")）
-  - [落第騎士英雄譚](../Page/落第騎士英雄譚.md "wikilink")（[海空陸](https://zh.wikipedia.org/wiki/海空陸 "wikilink")／[WON](https://zh.wikipedia.org/wiki/WON "wikilink")）
-  - [日常生活中的異能戰鬥](https://zh.wikipedia.org/wiki/日常生活中的異能戰鬥 "wikilink")（[望公太](https://zh.wikipedia.org/wiki/望公太 "wikilink")／[029](https://zh.wikipedia.org/wiki/029 "wikilink")）
+  - [落第騎士英雄譚](../Page/落第騎士英雄譚.md "wikilink")（[海空陸](../Page/海空陸.md "wikilink")／[WON](https://zh.wikipedia.org/wiki/WON "wikilink")）
+  - [日常生活中的異能戰鬥](../Page/日常生活中的異能戰鬥.md "wikilink")（[望公太](https://zh.wikipedia.org/wiki/望公太 "wikilink")／[029](https://zh.wikipedia.org/wiki/029 "wikilink")）
   - [那麼，來攻略異世界吧](https://zh.wikipedia.org/wiki/那麼，來攻略異世界吧 "wikilink")（[おかざき登](https://zh.wikipedia.org/wiki/おかざき登 "wikilink")／[Peco](https://zh.wikipedia.org/wiki/Peco "wikilink")）
 
 ### 傑克魔豆
@@ -59,7 +59,7 @@ GA文库出版了相當多原創作品。創刊一年來，主力作品只有《
 
   - [let's
     party\!來組隊吧！](https://zh.wikipedia.org/wiki/let's_party!來組隊吧！ "wikilink")（[小金井ゴル](https://zh.wikipedia.org/wiki/小金井ゴル "wikilink")／[鍋島テツヒロ](https://zh.wikipedia.org/wiki/鍋島テツヒロ "wikilink")）
-  - [龍王的工作！](../Page/龍王的工作！.md "wikilink")（[白鳥士郎](https://zh.wikipedia.org/wiki/白鳥士郎 "wikilink")
+  - [龍王的工作！](../Page/龍王的工作！.md "wikilink")（[白鳥士郎](../Page/白鳥士郎.md "wikilink")
     / しらび）
 
 ### 测绘出版社

@@ -162,7 +162,7 @@ Mr分店](https://zh.wikipedia.org/wiki/Red_Mr "wikilink")(已改以Neway名義�
 
   - [大國文化](../Page/大國文化集團.md "wikilink")
 
-  - [耀榮文化](https://zh.wikipedia.org/wiki/耀榮文化 "wikilink")
+  - [耀榮文化](../Page/耀榮文化.md "wikilink")
 
   - [Hummingbird Music](../Page/蜂鳥音樂.md "wikilink")
 

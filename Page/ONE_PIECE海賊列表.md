@@ -35,7 +35,7 @@ Pirates）。目前全部成員共有10人，全員都被[海軍懸賞通緝](..
     聲優：[岡村明美](../Page/岡村明美.md "wikilink")（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）；[曾佩儀](https://zh.wikipedia.org/wiki/曾佩儀 "wikilink")／[鄭家蕙](../Page/鄭家蕙.md "wikilink")（香港）
     草帽海賊團**[航海士](https://zh.wikipedia.org/wiki/航海士 "wikilink")**，**外號「小偷貓」**。
   -
-    聲優：[山口勝平](../Page/山口勝平.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）；[陳旭明](https://zh.wikipedia.org/wiki/陳旭明 "wikilink")／[黃啟明](https://zh.wikipedia.org/wiki/黃啟明 "wikilink")（香港）
+    聲優：[山口勝平](../Page/山口勝平.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）；[陳旭明](https://zh.wikipedia.org/wiki/陳旭明 "wikilink")／[黃啟明](../Page/黃啟明.md "wikilink")（香港）
     草帽海賊團**[狙擊手](../Page/狙擊手.md "wikilink")**，**外號「狙擊之王」**、**「GOD」**。
   -
     聲優：[平田廣明](../Page/平田廣明.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）；[陳偉權](../Page/陳偉權.md "wikilink")／[李家杰](../Page/李家傑_\(配音員\).md "wikilink")（香港）
@@ -188,7 +188,7 @@ fingers的手勢（將中指與食指相互交疊的手勢）並以空下來的�
 領導者為**雜菜**，成員總數：1,000名。是花之國的暴力團體，接受了花之國國王之託，以徹底破壞兵器走私為其目的。其船名為「八寶塞」，船頭為老虎的造型，除此之外還有7艘裝甲船「一寶塞」。
 
   - <span id="雜菜"></span>
-    聲優：[橋本晃一](https://zh.wikipedia.org/wiki/橋本晃一 "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")／[陳彥鈞](../Page/陳彥鈞.md "wikilink")〈[SP薩波篇](https://zh.wikipedia.org/wiki/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜 "wikilink")〉（台灣）
+    聲優：[橋本晃一](../Page/橋本晃一.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")／[陳彥鈞](../Page/陳彥鈞.md "wikilink")〈[SP薩波篇](../Page/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜.md "wikilink")〉（台灣）
     出身地：西海花之國，年齡：28歲，生日：8月13日，喜歡的食物：愛妻便當，討厭的食物：[螃蟹](../Page/螃蟹.md "wikilink")
     「八寶水軍」第13代棟樑，武鬥家。青椒家族的成員，青椒之孫。配戴波浪領披風，留著棕色短髮右腹有著「13」刺青（象徵第13代棟樑的標記）的男子，使用武器是把綴有環飾的關刀，擅長使用[武裝色霸氣](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#霸氣 "wikilink")。個性相當耿直，但非常不喜歡別人說客套話，只要有人對其道謝就會變得非常激動，大罵之餘還會向人[比中指](https://zh.wikipedia.org/wiki/比中指 "wikilink")。
     為了調查並摧毀多佛朗明哥的勢力，陪同祖父和弟弟抵達多雷斯羅薩的鬥牛鬥技場參賽。在魯夫制伏斯巴達後，不明白原因的鬥技場守衛以魯夫開賽前就鬧事為由，打算取消他的出賽資格，所幸青椒家族及時出面向守衛說明斯巴達恩首先挑起事端的經過，令魯夫對其不勝感激。後來在魯夫、青椒、卡文迪許爆發肢體衝突的時候，及時出面制止青椒在場外鬧事的行為，才讓原本殺氣奔騰的青椒免於遭鬥技場工作人員提前淘汰的下場。
@@ -225,7 +225,7 @@ fingers的手勢（將中指與食指相互交疊的手勢）並以空下來的�
 <!-- end list -->
 
   - <span id="青椒"></span>
-    聲優：（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）；[黃啟明](https://zh.wikipedia.org/wiki/黃啟明 "wikilink")（香港）
+    聲優：（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）；[黃啟明](../Page/黃啟明.md "wikilink")（香港）
     「八寶水軍」第12代棟樑，現已隱居，雜菜和阿葡的祖父，**懸賞金額：超過5億**。
     生日：12月12日。擅長用鐵頭功，同時擅長使用[霸王色霸氣、武裝色霸氣](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#霸氣 "wikilink")。左太陽穴附近有著「12」刺青（象徵第12代棟樑的標記）面容慈祥的駝背長者，一旦被激怒就會鬍鬚飄揚，面如惡鬼。
     與[哥爾·D·羅傑和](../Page/哥爾·D·羅傑.md "wikilink")「白鬍子」[艾德華·紐蓋特同一時代的海賊](https://zh.wikipedia.org/wiki/艾德華·紐蓋特 "wikilink")，過去是懸賞金超過5億的海賊，因為奇特的尖錐頭形而得到「錐之青椒」的外號，並將自己得來的大量財寶埋藏在一座只有他的頭才能打破的寶玉冰山，但在30年前的一場戰鬥中，青椒的頭被卡普一拳打凹，讓他發財夢碎留下心理創傷，故決定要向卡普的子孫討回這份仇恨。
@@ -273,7 +273,7 @@ fingers的手勢（將中指與食指相互交疊的手勢）並以空下來的�
 領導者為**伊迪歐**，成員總數4名。乘坐歐隆拜斯贈送的一艘船出航，其後一度損壞而重新整修。原團隊名稱為「XXX健身房格鬥聯合」，之後更名為「伊迪歐海賊團」。
 
   - <span id="伊迪歐"></span>
-    聲優：[相澤正輝](../Page/相澤正輝.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")／[宋克軍](../Page/宋克軍.md "wikilink")〈[SP薩波篇](https://zh.wikipedia.org/wiki/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜 "wikilink")〉（台灣）
+    聲優：[相澤正輝](../Page/相澤正輝.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")／[宋克軍](../Page/宋克軍.md "wikilink")〈[SP薩波篇](../Page/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜.md "wikilink")〉（台灣）
     種族：長手族\[3\]。年齡：22歲，喜歡的食物：[土耳其烤肉](../Page/土耳其烤肉.md "wikilink")，討厭的食物：[豬肉](../Page/豬肉.md "wikilink")
     XXX級拳擊手，外號「**破壞砲**」的格鬥王，曾獲得「新世界中央格鬥大會」V2的冠軍。外貌是一名綁著髮辮，雙眼眶抹有濃厚眼影的男子。戰鬥時肩膀會凸起，再配合肩膀的力道一次打出如同爆炸般的拳擊，威力相當強大。
     在多雷斯羅薩參與爭奪火焰果實的大賽，作為鬥牛角鬥場C區選手初登場，將被魯夫擊敗的巨人哈爾汀瞬間轟飛出去。隨後與「八寶水軍」棟樑雜菜交戰難分難解，不料意外為青椒擊出場外，淘汰出局。
@@ -350,7 +350,7 @@ fingers的手勢（將中指與食指相互交疊的手勢）並以空下來的�
 <!-- end list -->
 
   -
-    聲優：[菊池正美](../Page/菊池正美.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")／[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")〈[SP薩波篇](https://zh.wikipedia.org/wiki/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜 "wikilink")〉（台灣）
+    聲優：[菊池正美](../Page/菊池正美.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")／[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")〈[SP薩波篇](../Page/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜.md "wikilink")〉（台灣）
     頓達塔族飛行部隊「黃甲蟲部隊」隊長。身型肥胖，佩戴甲蟲大顎造型的帽子小人族男性，武器是一對雙矛。**動物系「[蟲蟲果實獨角仙型態](../Page/惡魔果實.md "wikilink")」**能力者，可變身成[獨角仙的模樣作戰](../Page/獨角仙.md "wikilink")，亦能承載同族的對象在空中飛翔。
     在族人向羅賓和騙人布說明前進多雷斯羅薩的地底展開救援計畫後，與單腳士兵以及部分小人族企圖奪取電梯掌控權，不慎接續的遇上拉歐·G和古拉迪烏斯，為支援單腳士兵而和藍普雙雙敗於古拉迪烏斯之下，起身後幫助雷奧成功阻止喬菈利用蔓雪莉的能力治療其他落敗的幹部成員。多雷斯羅薩事件落幕後，偕同頓達塔族部隊加入草帽海賊團旗下，世界會議期間擔任多雷斯羅薩皇族的隨身護衛之一。
 
@@ -364,7 +364,7 @@ fingers的手勢（將中指與食指相互交疊的手勢）並以空下來的�
 <!-- end list -->
 
   -
-    聲優：[長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink")（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
+    聲優：[長澤美樹](../Page/長澤美樹.md "wikilink")（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）
     27歲，頓達塔族偵查部隊。雙馬尾髮型，配帶大禮帽的小人族女性，第一人稱**人家**。性格極度悲觀，甚至會不自覺的把地面敲碎。
     在多雷斯羅薩的餐館偷走索隆的**秋水**，不慎被索隆察覺到，追逐當中又被發現真面目。之後她告訴索隆自己想回到「花田」告知族人唐吉訶德家族的所在地，因為唐吉訶德家族的成員正打算襲擊千陽號。
 
@@ -377,7 +377,7 @@ fingers的手勢（將中指與食指相互交疊的手勢）並以空下來的�
 <!-- end list -->
 
   -
-    聲優：（日本）；[宋克軍](../Page/宋克軍.md "wikilink")／[陳彥鈞](../Page/陳彥鈞.md "wikilink")〈[SP薩波篇](https://zh.wikipedia.org/wiki/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜 "wikilink")〉（台灣）
+    聲優：（日本）；[宋克軍](../Page/宋克軍.md "wikilink")／[陳彥鈞](../Page/陳彥鈞.md "wikilink")〈[SP薩波篇](../Page/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜.md "wikilink")〉（台灣）
     小人族男性，頓達塔族偵查部隊。
 
 #### 新巨兵海賊團
@@ -463,7 +463,7 @@ fingers的手勢（將中指與食指相互交疊的手勢）並以空下來的�
 <!-- end list -->
 
   - <span id="席爾巴斯·雷利"></span>
-    聲優：[園部啟一](../Page/園部啟一.md "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）；[黃啟明](https://zh.wikipedia.org/wiki/黃啟明 "wikilink")（香港）
+    聲優：[園部啟一](../Page/園部啟一.md "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）；[黃啟明](../Page/黃啟明.md "wikilink")（香港）
     年齡：78歲／生日：5月13日／身高：188公分／血型：XF型／喜歡的食物：煮豆子。
     原羅傑海賊團副船長，別名「**冥王**」及「**海賊王的右手**」，現為[夏波帝諸島上膜工匠](https://zh.wikipedia.org/wiki/夏波帝諸島 "wikilink")。在海賊團解散後留在[夏波帝諸島當上膜工匠](https://zh.wikipedia.org/wiki/夏波帝諸島 "wikilink")，在[蒙其·D·魯夫與伙伴分散期間作為指導他使用](../Page/蒙其·D·魯夫.md "wikilink")「[霸氣](https://zh.wikipedia.org/wiki/霸氣_\(ONE_PIECE\) "wikilink")」的師父。
     年輕時期的雷利為金色短髮，首次登場於[巴其的回憶當中](../Page/巴其_\(ONE_PIECE\).md "wikilink")，年老的雷利留有長曲髮，下巴亦長有鬍子，鬚髮皆銀，戴着[眼鏡](../Page/眼鏡.md "wikilink")，右眼有1道直列的疤痕。雖然已隱居多年，身手和速度仍相當出色，除了劍術、拳法、武術、踢擊及踢腿技等等能力之外，他還同時還擁有**「[見聞色、武裝色、霸王色霸氣](https://zh.wikipedia.org/wiki/霸氣_\(ONE_PIECE\) "wikilink")」**3種霸氣，擁有帝王資質。曾用霸氣抵住海軍本部上將黃猿救下[索隆](https://zh.wikipedia.org/wiki/索隆 "wikilink")，並用劍與海軍本部上將黃猿交戰，以游泳方式穿越滿佈海王類的無風帶到女人島找魯夫\[9\]。
@@ -552,7 +552,7 @@ MOM」夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")** |- |
 由傑克所率領海賊團，海賊船名為**「紅色勢力號」**（），船頭以紅色龍頭為特徵，比10年前的船豪華，成員服飾多數為披風。
 
   -
-    聲優：[池田秀一](../Page/池田秀一.md "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")／[符爽](../Page/符爽.md "wikilink")〈ep.45、[SP東海篇](https://zh.wikipedia.org/wiki/ONE_PIECE_東海特別篇_～魯夫與4名夥伴的大冒險～ "wikilink")〉（台灣）；[陳廷軒](../Page/陳廷軒.md "wikilink")／[蔡忠衛](https://zh.wikipedia.org/wiki/蔡忠衛 "wikilink")（香港）
+    聲優：[池田秀一](../Page/池田秀一.md "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")／[符爽](../Page/符爽.md "wikilink")〈ep.45、[SP東海篇](https://zh.wikipedia.org/wiki/ONE_PIECE_東海特別篇_～魯夫與4名夥伴的大冒險～ "wikilink")〉（台灣）；[陳廷軒](../Page/陳廷軒.md "wikilink")／[蔡忠衛](../Page/蔡忠衛.md "wikilink")（香港）
     **四皇**之一，外號「**紅髮**」，[紅髮海賊團船長](https://zh.wikipedia.org/wiki/紅髮海賊團 "wikilink")。
 
 <!-- end list -->
@@ -566,7 +566,7 @@ MOM」夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")** |- |
 <!-- end list -->
 
   - <span id="耶穌布"></span>
-    聲優：[小林通孝](https://zh.wikipedia.org/wiki/小林通孝 "wikilink")（日本）；[陳宗岳](../Page/陳宗岳.md "wikilink")〈ep.4〉／[宋克軍](../Page/宋克軍.md "wikilink")〈ep.9-50、[SP東海篇](https://zh.wikipedia.org/wiki/ONE_PIECE_東海特別篇_～魯夫與4名夥伴的大冒險～ "wikilink")〉／[孫中台](../Page/孫中台.md "wikilink")〈ep.279-280〉／[陳彥鈞](../Page/陳彥鈞.md "wikilink")〈[SP魯夫篇](../Page/ONE_PIECE_魯夫特別篇〜手掌島的冒險〜.md "wikilink")〉（台灣）
+    聲優：[小林通孝](../Page/小林通孝.md "wikilink")（日本）；[陳宗岳](../Page/陳宗岳.md "wikilink")〈ep.4〉／[宋克軍](../Page/宋克軍.md "wikilink")〈ep.9-50、[SP東海篇](https://zh.wikipedia.org/wiki/ONE_PIECE_東海特別篇_～魯夫與4名夥伴的大冒險～ "wikilink")〉／[孫中台](../Page/孫中台.md "wikilink")〈ep.279-280〉／[陳彥鈞](../Page/陳彥鈞.md "wikilink")〈[SP魯夫篇](../Page/ONE_PIECE_魯夫特別篇〜手掌島的冒險〜.md "wikilink")〉（台灣）
     年齡：47歳／生日：8月2日／星座：獅子座／身高：183公分／血型：S型／出生地：東方藍「西羅布村」／喜歡的食物：當季的魚類
     **紅髮海賊團**幹部兼狙擊手，**[騙人布](../Page/騙人布.md "wikilink")**的父親。頭上總是綁著寫有「Yasopp」字樣的頭巾。與10年前的髮型有少許不同，由黃色捲髮變為棕色雷鬼辮。武器為長槍，射擊百發百中，自稱連螞蟻的眉毛都射得到，對自己是海賊非常自豪。
     在頂點戰爭的尾聲隨同海賊團現身於馬林福特。
@@ -587,7 +587,7 @@ MOM」夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")** |- |
     紅髮海賊團的新人，在未加入紅髮海賊團時，自己就已經是小有名氣的海賊。**懸賞金額：9,400萬貝里**。使用武器為劍。是容易因為事情失敗而感到慚愧的人。曾代表**紅髮**向**白鬍子**傳達信息，但白鬍子當場把信紙撕碎。
     命名來源為「搖滾之星」。
 
-### [BIG MOM海賊團](https://zh.wikipedia.org/wiki/BIG_MOM海賊團 "wikilink")
+### [BIG MOM海賊團](../Page/BIG_MOM海賊團.md "wikilink")
 
   - 由夏洛特·莉莉帶領的海賊團，以「萬國
     托特蘭」為根據地。佔據一個「[路標歷史本文](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#歷史本文 "wikilink")」和兩個普通的歷史本文。
@@ -602,13 +602,13 @@ MOM」夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")** |- |
 
 由「百獸」海道帶領的海賊團，其船員結構為三位大招牌（三大災害）、飛六胞（真打前六強）、其餘多位真打，有超過包括500名SMILE能力者又分為恩典戰士團和狂樂戰士團。佔據一個「[路標歷史本文](https://zh.wikipedia.org/wiki/ONE_PIECE用語列表#歷史本文 "wikilink")」。
 
-根據地為[和之國](https://zh.wikipedia.org/wiki/和之國 "wikilink")「**鬼之島**」，與「和之國將軍」黑炭大蛇聯手處決大名「光月御田」，並追殺光月族人及其家臣。被草帽海賊團、哈特海賊團、光月家臣、純毛族等同盟視為擊敗目標。
+根據地為[和之國](../Page/和之國.md "wikilink")「**鬼之島**」，與「和之國將軍」黑炭大蛇聯手處決大名「光月御田」，並追殺光月族人及其家臣。被草帽海賊團、哈特海賊團、光月家臣、純毛族等同盟視為擊敗目標。
 
 旗下成員的名字幾乎都和[撲克牌](https://zh.wikipedia.org/wiki/撲克牌 "wikilink")、[紙牌或](https://zh.wikipedia.org/wiki/紙牌 "wikilink")[桌上遊戲有關](../Page/桌上遊戲.md "wikilink")。
 
   -
     聲優：[玄田哲章](../Page/玄田哲章.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
-    **四皇**之一，外號「**百獸海道**」，百獸海賊團的船長兼總督。被世人公認是最強的單挑人選，在[陸](https://zh.wikipedia.org/wiki/陸 "wikilink")[海](https://zh.wikipedia.org/wiki/海 "wikilink")[空所有生物中的](https://zh.wikipedia.org/wiki/空 "wikilink")「最強[生物](../Page/生物.md "wikilink")」。武器是[狼牙棒](https://zh.wikipedia.org/wiki/狼牙棒 "wikilink")。為動物系「幻獸種」能力者，擁有**[龍](https://zh.wikipedia.org/wiki/龍 "wikilink")**的能力，獸型外貌為一隻巨大的**[青龍](https://zh.wikipedia.org/wiki/青龍 "wikilink")**。生日：5月1日。
+    **四皇**之一，外號「**百獸海道**」，百獸海賊團的船長兼總督。被世人公認是最強的單挑人選，在[陸](https://zh.wikipedia.org/wiki/陸 "wikilink")[海](../Page/海.md "wikilink")[空所有生物中的](https://zh.wikipedia.org/wiki/空 "wikilink")「最強[生物](../Page/生物.md "wikilink")」。武器是[狼牙棒](https://zh.wikipedia.org/wiki/狼牙棒 "wikilink")。為動物系「幻獸種」能力者，擁有**[龍](https://zh.wikipedia.org/wiki/龍 "wikilink")**的能力，獸型外貌為一隻巨大的**[青龍](https://zh.wikipedia.org/wiki/青龍 "wikilink")**。生日：5月1日。
     興趣是[自殺](../Page/自殺.md "wikilink")，曾經歷過7次失敗，為能夠尋找死去的方法嘗試了各種手段，包括一人向其他四皇和海軍挑戰時被俘18次，遭受千次以上嚴刑拷打，被判過40次[死刑](../Page/死刑.md "wikilink")，但肉體過於強大以致於死刑的[刑具對他完全造成不了傷害](https://zh.wikipedia.org/wiki/刑具 "wikilink")，被施以絞刑時把鎖鏈扯斷，被押上斷頭台把鍘刀粉碎，被長槍戳刺使長槍斷裂，被他擊沉的巨大監獄船多達9艘。由於任何人都殺不了他，包括他自己，因此得到了最強生物的名號。
     過去和另一位四皇「BIG
     MOM」[夏洛特·莉莉有過合作關係](../Page/夏洛特·莉莉.md "wikilink")，直接称呼其為“莉莉”。喜愛透過交易來談條件，亦是[多雷斯羅薩事件被魯夫和羅拉下台的](../Page/多雷斯羅薩.md "wikilink")[王下七武海](../Page/王下七武海.md "wikilink")[唐吉訶德·多佛朗明哥最大牌的交易對象](../Page/唐吉訶德·多佛朗明哥.md "wikilink")，羅表示他不是一個可以安靜坐下和別人談判的傢伙，且擁有將唐吉訶德家族全滅的實力，就連多佛朗明哥一想到若是未達成對海道的承諾，所衍生出的慘痛代價都會讓多佛朗明哥心慌意亂且直冒冷汗。
@@ -635,7 +635,7 @@ MOM」夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")** |- |
     無齒翼龍型態](../Page/惡魔果實.md "wikilink")」**能力者，能變身為[無齒翼龍](https://zh.wikipedia.org/wiki/無齒翼龍 "wikilink")。
     身材高大且戴著面罩的男子，全身被漆黑的穿著所覆蓋，背後有著一對黑色的翅膀且有火焰所環繞，武器為一把巨型武士刀。被JACK尊稱為大哥，被QUEEN評價為“愛拷問人的變態”。\[22\]
     得知[BIG
-    MOM與其](../Page/夏洛特·莉莉.md "wikilink")[海賊團乘坐主船](https://zh.wikipedia.org/wiki/BIG_MOM海賊團 "wikilink")「女王·媽媽·歌唱號」乘著瀑布要侵入[和之國時](https://zh.wikipedia.org/wiki/和之國 "wikilink")，出面將船艦推下瀑布，守住和之國瀑布上游，阻止他們登入和之國。\[23\]
+    MOM與其](../Page/夏洛特·莉莉.md "wikilink")[海賊團乘坐主船](../Page/BIG_MOM海賊團.md "wikilink")「女王·媽媽·歌唱號」乘著瀑布要侵入[和之國時](../Page/和之國.md "wikilink")，出面將船艦推下瀑布，守住和之國瀑布上游，阻止他們登入和之國。\[23\]
     名字來源取自[撲克牌裡](https://zh.wikipedia.org/wiki/撲克牌 "wikilink")「King」，King的意思是[國王](https://zh.wikipedia.org/wiki/國王 "wikilink")。
 
 <!-- end list -->
@@ -834,7 +834,7 @@ MOM」夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")** |- |
 <!-- end list -->
 
   - <span id="亞帕羅·比薩羅"></span>
-    聲優：[田中一成](https://zh.wikipedia.org/wiki/田中一成 "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）
+    聲優：[田中一成](../Page/田中一成.md "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")（台灣）
     生日：9月30日／年齡：42歳／身高：505公分／星座：天秤座／血型：X型／出生地：北海／喜好的食物：魚翅湯。
     黑鬍子海賊團**四號船船長**，外號**「惡政王」**。出身於北海，有著弦月型鬍鬚及獅子鬃毛似長髮的男子，語尾是「喵」。使用武器為三管[手槍和](https://zh.wikipedia.org/wiki/手槍 "wikilink")[大砲](../Page/大砲.md "wikilink")。過去曾以武力拿下某個王國並自立為王，卻因一切惡政、折磨國民而遭叛亂送入推進城LEVEL6，後獲**黑鬍子**釋放。
 
@@ -978,7 +978,7 @@ MOM」夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")** |- |
 <tr class="odd">
 <td><p>「Mr.0」<br />
 <a href="../Page/克洛克達爾.md" title="wikilink">克洛克達爾</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克</a><br />
+<td><p><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a><br />
 （已解散）</p></td>
 <td><p>8,100萬貝里（加入七武海前）</p></td>
 <td><p>在「阿拉巴斯坦王國事件」被魯夫打敗，遭褫奪稱號並逮捕至「推進城」，成功脫離後決意要再踏上新世界。</p></td>
@@ -1036,7 +1036,7 @@ MOM」夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")** |- |
 由「千兩道化」[巴其所率領的海賊團](https://zh.wikipedia.org/wiki/巴其 "wikilink")，海賊旗為有紅鼻子的骷髏，組織看起來就像是個馬戲團。海賊船名為，船頭以大象為特徵，鼻子的部份被做成了大砲。現在是『[王下七武海](../Page/王下七武海.md "wikilink")』「千兩道化」[巴其的旗下海賊勢力](../Page/巴其_\(ONE_PIECE\).md "wikilink")。
 
   - [巴其](../Page/巴其_\(ONE_PIECE\).md "wikilink")
-    聲優：[千葉繁](../Page/千葉繁.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")〈ep.4-8、46-53、145〉／[孫中台](../Page/孫中台.md "wikilink")〈291-292、303、316、ep.423起至今〉（台灣）；[馮志輝](../Page/馮志輝.md "wikilink")／[蔡忠衛](https://zh.wikipedia.org/wiki/蔡忠衛 "wikilink")（香港）
+    聲優：[千葉繁](../Page/千葉繁.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")〈ep.4-8、46-53、145〉／[孫中台](../Page/孫中台.md "wikilink")〈291-292、303、316、ep.423起至今〉（台灣）；[馮志輝](../Page/馮志輝.md "wikilink")／[蔡忠衛](../Page/蔡忠衛.md "wikilink")（香港）
     巴其海賊團船長，外號「千兩道化」，**原懸賞金：1,500萬貝里**。與「紅髮」傑克兩人曾是「海賊王」哥爾·D·羅傑船上的見習生，兩年後成為[王下七武海的一員](../Page/王下七武海.md "wikilink")，並創立海賊派遣公司「巴其速遞」，專門做海賊傭兵的生意，「艾爾帕布」新世代戰士**哈爾汀**等5名巨人族曾是該公司的S級傭兵兼頭號打手。
 
 <!-- end list -->
@@ -1084,7 +1084,7 @@ MOM」夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")** |- |
   - <span id="加爾迪諾"></span>
     聲優：[檜山修之](../Page/檜山修之.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")〈ep.70-77、104-109、291〉／[符爽](../Page/符爽.md "wikilink")〈ep.424起至今〉（台灣）；[楊啟健](../Page/楊啟健.md "wikilink")（香港）
     出身地：南海／年齡：29歲／生日：3月3日／血型：179公分／星座：雙魚座／血型：F型／喜歡的食物：[大吉嶺紅茶](https://zh.wikipedia.org/wiki/大吉嶺紅茶 "wikilink")、配紅茶的小餅乾
-    原[巴洛克華克公司成員](https://zh.wikipedia.org/wiki/巴洛克華克 "wikilink")，代號為**「Mr.3」**，是**「Miss
+    原[巴洛克華克公司成員](../Page/巴洛克華克.md "wikilink")，代號為**「Mr.3」**，是**「Miss
     Golden Week」**的搭擋。外號「高利貸的加爾迪諾」，懸賞金額：2400萬貝里（巴洛克華克時期）。
     特徵是「3」形狀的[丁髷](https://zh.wikipedia.org/wiki/丁髷 "wikilink")，說話時語尾會加上「」，是個性格卑鄙，為勝利而不擇手段戰鬥的頭腦派。自稱造型美術家，最喜愛將敵人作成[蠟燭娃娃](https://zh.wikipedia.org/wiki/蠟燭 "wikilink")。
     **超人系「[融化果實](../Page/惡魔果實.md "wikilink")」**能力者，[蠟燭人](https://zh.wikipedia.org/wiki/蠟燭 "wikilink")，可以融化自己的身體，也能任意改變形狀，發動能力時，頭上的丁髷也會跟著著火。從他身上產生的蠟燭黏液，凝固後硬如鋼鐵，而且對侵蝕性的劇毒有著極高的抵抗力，除了形狀變化自如之外，還能困住敵人、製作蠟像或牢房的鑰匙等等，此外還擁有一艘以蠟燭作推動力的遊艇。缺點是製造出來的蠟燭遇到火焰就會融化。
@@ -1238,9 +1238,9 @@ MOM」夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")** |- |
     PIECE絕對是我」發言，他想起航行途中那些嘲笑他夢想而被宰掉的人，而接下來要前往的地方，沒有膽量說出這些話的人將葬身海底，離去前他對羅與魯夫表示「我們新世界再會吧」，途中基德卻遭遇海軍「和平主義者」的攻擊，隨即展開激戰，與羅聯手擊敗「和平主義者」。
     頂點戰爭爆發時，與手下在夏波帝諸島觀看馬林福特現場轉播。後轉到海軍本部外海時，對「白鬍子」死後開始的新時代感到相當的興奮。頂點戰爭結束後，率領海賊團到達新世界；從報紙上得知魯夫敲響「16點鐘」的消息，認為魯夫在頂點戰爭中鋒芒畢露，實不容他繼續囂張下去，並殲滅了一個海賊團\[65\]。
     兩年間的航行途中偶遇四皇「BIG MOM」旗下的海賊團，甚至動手擊沉對方的兩艘海賊船，並挑戰[BIG
-    MOM海賊團的某位將星](https://zh.wikipedia.org/wiki/BIG_MOM海賊團 "wikilink")，曾去將其打傷後拿走應該奪走的東西，也曾去挑戰「四皇」之一的紅髮海賊團，結果卻失去了左手。
+    MOM海賊團的某位將星](../Page/BIG_MOM海賊團.md "wikilink")，曾去將其打傷後拿走應該奪走的東西，也曾去挑戰「四皇」之一的紅髮海賊團，結果卻失去了左手。
     在據點上觀看凱薩在龐克哈薩特介紹的**死之國**\[66\]，他雖然對凱薩介紹的殺戮武器沒興趣，但卻表示「看看也無妨」，並且在與霍金斯和亞普前來商談海賊同盟的過程中，對於亞普將他的藏身處搞得一團亂而感到憤怒\[67\]。在[唐吉訶德·多佛朗明哥放棄七武海職位的隔天](../Page/唐吉訶德·多佛朗明哥.md "wikilink")，草帽海賊團和羅結成同盟，還有基德、亞普、霍金斯結盟的消息，被世界政府刊載在報紙上，頓時引起世界各地民眾的注目\[68\]。基德對於報章記者**亞普薩**（阿布薩羅姆）竟能掌握他們的消息感到些許意外，隨即體會到魯夫和羅同樣都是以擊敗「四皇」為目標而結盟，因而對於後兩者攜手合作的舉動感到相當不悅。
-    由於海道突然降臨在據點上，基德寧死不降的與海道交戰，最後戰敗被囚禁在[和之國兔碗牢中](https://zh.wikipedia.org/wiki/和之國 "wikilink")，後來自身的機械左臂被“三災”之一的奎因玩弄。後來魯夫被凱多打敗後被送到基德的隔壁牢房，之後數日他們一同做苦力，表現驚人。由於二人食量太大，將監獄的飯糰幾乎吃光，引來監獄副看守長多彭的斥責。多彭叫一匹河馬將二人吞進肚中，然而河馬被基德和路飛合力干掉，他們的強大引來獄中犯人們的歡呼。
+    由於海道突然降臨在據點上，基德寧死不降的與海道交戰，最後戰敗被囚禁在[和之國兔碗牢中](../Page/和之國.md "wikilink")，後來自身的機械左臂被“三災”之一的奎因玩弄。後來魯夫被凱多打敗後被送到基德的隔壁牢房，之後數日他們一同做苦力，表現驚人。由於二人食量太大，將監獄的飯糰幾乎吃光，引來監獄副看守長多彭的斥責。多彭叫一匹河馬將二人吞進肚中，然而河馬被基德和路飛合力干掉，他們的強大引來獄中犯人們的歡呼。
     創造來源取自13世紀的海賊僧侶尤斯塔斯（Eustass）和17世紀蘇格蘭海賊[威廉·基德](../Page/威廉·基德.md "wikilink")（William
     Kidd）。
 
@@ -1286,7 +1286,7 @@ MOM」夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")** |- |
     「頂點戰爭」爆發時，在夏波帝諸島占卜預測白鬍子海賊團生存機率，後轉到海軍本部外海時，對沒預測出魯夫生存機率「0」的結果感到訝異。「頂點戰爭」結束後，率領海賊團到達了「新世界」；在原本是白鬍子地盤的某島嶼遇上「褐鬍子」並與之交戰，拔刀時聲明「今天，你出現死相了」\[70\]。在戰鬥中廢了褐鬍子的雙腳但並未殺死他，褐鬍子海賊團喪失屬地輾轉流落到「龐克哈薩特」。
     兩年後和**「船長」基德**和**「刮盤人」亞普**於新世界的島上再度會面，準備商談海賊同盟的相關事宜，在見到基德和亞普爆發衝突的場面時，準備一走了之，奇拉及時制止，並說明組成海賊聯盟的計畫，最終達成聯盟共識，以拿下四皇「紅髮」傑克首級為目標。
     但因四皇「百獸」海道在跳島自殺，掉落到了基德海賊團的根據地，後與同盟成對峙狀態，在基德與海道展開戰鬥並被打成重傷，最後亞普和霍金斯投降至海道旗下，霍金斯也成為百獸海賊團的新任幹部「真打」。
-    在[和之國得知有兩名部下沒有消息](https://zh.wikipedia.org/wiki/和之國 "wikilink")，要求部下先不要把消息告訴海道。隨後他編笠村附近與找到了魯夫和索隆並與兩人對峙。在抽到正位“教皇卡牌”後便不追擊兩人。
+    在[和之國得知有兩名部下沒有消息](../Page/和之國.md "wikilink")，要求部下先不要把消息告訴海道。隨後他編笠村附近與找到了魯夫和索隆並與兩人對峙。在抽到正位“教皇卡牌”後便不追擊兩人。
     名字來源取自英國16世紀私掠者**[約翰·霍金斯](https://zh.wikipedia.org/wiki/約翰·霍金斯 "wikilink")**（John
     Hawkins）、17世紀海賊船醫（）。**外貌原型**來自**[喬依·喬迪森](../Page/喬依·喬迪森.md "wikilink")**（Joey
     Jordison），著名摇滚乐队Slipknot的鼓手。
@@ -1345,7 +1345,7 @@ MOM」夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")** |- |
 
   -
     聲優： [神谷浩史](../Page/神谷浩史.md "wikilink")（日本）；
-    [宋克軍](../Page/宋克軍.md "wikilink")（台灣）；[蔡忠衛](https://zh.wikipedia.org/wiki/蔡忠衛 "wikilink")（香港）
+    [宋克軍](../Page/宋克軍.md "wikilink")（台灣）；[蔡忠衛](../Page/蔡忠衛.md "wikilink")（香港）
     哈特海賊團[船長兼](../Page/船長.md "wikilink")[醫生](https://zh.wikipedia.org/wiki/醫生 "wikilink")。外號「**死亡外科醫生**」。為「頂點戰爭」發生前登陸[夏波帝諸島的](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#夏波帝諸島 "wikilink")「海賊界11位超新星」之一（當時的懸賞金在11人中排名第5位）。在第二部劇情中成為「[王下七武海](../Page/王下七武海.md "wikilink")」。
 
 [OP_Bepo.jpg](https://zh.wikipedia.org/wiki/File:OP_Bepo.jpg "fig:OP_Bepo.jpg")
@@ -1357,7 +1357,7 @@ MOM」夏洛特·莉莉](../Page/夏洛特·莉莉.md "wikilink")** |- |
     使用類似[中國功夫的武術](https://zh.wikipedia.org/wiki/中國功夫 "wikilink")，尤其擅於腳踢攻擊，戰鬥時會發出「啊咿啊咿～喲」的叫聲，曾在夏波帝諸島上獨自打倒好幾個海軍士兵。
     過去佩德羅、波哥姆斯、自己的兄長傑波結成「諾克斯探險隊」出海，幼年的培波為了追逐傑波的腳步，在15年前下象觀察大海時意外飄流，故對佐烏沒有多餘的記憶。最後在13年前輾轉流落到北海的史瓦洛島，在郊外被夏奇和企鵝欺負，後來被羅救下，並帶到收留他的老人沃爾夫家裡居住，同時也尊敬起羅，之後與羅一同救治被炸彈重創的夏奇和企鵝，四人成為關係很好的夥伴並建立起了哈特海賊團\[75\]。早年為了回去故鄉拼命學習航海術\[76\]。在遇見羅之前已有一點航海知識。
     「頂點戰爭」事件爆發時，與船員一同前往海軍本部營救魯夫；從巴其手上接過重傷的魯夫時，對他的傷勢感到驚訝。逃出海軍總部後，他們的潛水艇馬上被「海賊女帝」漢考克發現；當漢考克問及船員魯夫的情況，培波卻反問她如何追蹤他們，被漢考克斥責身為「野獸」竟敢轉移話題\[77\]。其後和其他團員在女人島短暫駐留期間，因為問及「女人島是否有其他母熊」，而惹來其他團員的吐嘈。
-    兩年間羅暫時離隊執行秘密計畫，後來在新世界的「[佐烏](../Page/佐烏.md "wikilink")」會合。[和之國篇於行動期間不慎誤食遭汙染河川的河魚而中毒](https://zh.wikipedia.org/wiki/和之國 "wikilink")，交由團員看護。
+    兩年間羅暫時離隊執行秘密計畫，後來在新世界的「[佐烏](../Page/佐烏.md "wikilink")」會合。[和之國篇於行動期間不慎誤食遭汙染河川的河魚而中毒](../Page/和之國.md "wikilink")，交由團員看護。
 
 <!-- end list -->
 
@@ -1552,7 +1552,7 @@ GRÖẞE）·大頭目（BIG FATHER）**
     「頂點戰爭」發生前登陸[夏波帝諸島的](https://zh.wikipedia.org/wiki/夏波帝諸島 "wikilink")「海賊界11位超新星」之一，他當時的懸賞金在11人中墊底。「天龍人事件」發生後在脫逃途中遇上和平主義者，被揍得七零八落。之後還陷入被和平主義者及海軍上將前後包抄的絕境。雖然解放能力試圖對和平主義者反擊，但隨即被雷射貫穿左肩倒地。後來被**「黃猿」波爾薩利諾**以「閃光踢」擊敗。
     「頂點戰爭」爆發時，與手下在[夏波帝諸島觀看馬林福特現場轉播](https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#夏波帝諸島 "wikilink")，後轉到海軍本部外海時，對「白鬍子」死後開始的新時代相當的擔憂。「頂點戰爭」結束後，率領海賊團到達「新世界」，並試圖在雷神島登陸\[88\]。
     兩年後戰勝[BIG
-    MOM海賊團原](https://zh.wikipedia.org/wiki/BIG_MOM海賊團 "wikilink")「甜點四將星」中的[史納克](https://zh.wikipedia.org/wiki/BIG_MOM海賊團#斯納格 "wikilink")，但其後敗給將星「千手」[慨烈卡](https://zh.wikipedia.org/wiki/BIG_MOM海賊團#慨烈卡 "wikilink")，後於新世界空島「廢棄男爵終點站」養傷期間目睹「百獸」海道的“自殺”。
+    MOM海賊團原](../Page/BIG_MOM海賊團.md "wikilink")「甜點四將星」中的[史納克](https://zh.wikipedia.org/wiki/BIG_MOM海賊團#斯納格 "wikilink")，但其後敗給將星「千手」[慨烈卡](https://zh.wikipedia.org/wiki/BIG_MOM海賊團#慨烈卡 "wikilink")，後於新世界空島「廢棄男爵終點站」養傷期間目睹「百獸」海道的“自殺”。
     創造來源取自16世紀的阿拉伯海賊[巴巴羅薩](https://zh.wikipedia.org/wiki/巴巴羅薩 "wikilink")（Barbarossa）的兄弟[烏魯基（Aruj）](../Page/奧魯奇·雷斯.md "wikilink")。
     {| class=wikitable style="text-align:left; font-size:80%"
 
@@ -1574,7 +1574,7 @@ GRÖẞE）·大頭目（BIG FATHER）**
 運用許多計謀，讓民眾受苦的海賊團，海賊船名為「黑色貝贊號」，船頭為黑貓造型。
 
   - <span id="克洛"></span>
-    聲優：[橋本晃一](https://zh.wikipedia.org/wiki/橋本晃一 "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[橋本晃一](../Page/橋本晃一.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     年齡：35歲\[89\]／生日：4月22日／星座：金牛座／血型：X型／出生地：東海／身高：207公分／喜歡的食物：香蕉
     黑貓海賊團船長。 **懸賞金額：1,600萬貝里**。
     外貌西裝頭，戴眼鏡，向來詭計多端、計畫周詳，被稱為「百計」。使用武器為十刃貓爪，其扶眼鏡是以掌心將眼鏡上推，而非以手指。
@@ -1901,7 +1901,7 @@ Back Fight」**時會舉辦如嘉年華會般的活動。
 <!-- end list -->
 
   -
-    聲優：[中山真奈美](../Page/中山真奈美.md "wikilink")（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）；[黎皓宜](https://zh.wikipedia.org/wiki/黎皓宜 "wikilink")（香港）
+    聲優：[中山真奈美](../Page/中山真奈美.md "wikilink")（日本）；[許淑嬪](../Page/許淑嬪.md "wikilink")（台灣）；[黎皓宜](../Page/黎皓宜.md "wikilink")（香港）
     弗克西海賊團戰鬥員。外表受船員歡迎，口頭禪是「討厭啦」，手上拿著可愛指揮棒，可以變出玫瑰花。
     名字的由來是[德國的汽車品牌](https://zh.wikipedia.org/wiki/德國 "wikilink")[保時捷](https://zh.wikipedia.org/wiki/保時捷 "wikilink")
 
@@ -1952,7 +1952,7 @@ Back Fight」**時會舉辦如嘉年華會般的活動。
 <!-- end list -->
 
   - 牙蛙海賊團
-    聲優：[長嶝高士](https://zh.wikipedia.org/wiki/長嶝高士 "wikilink")（日本）
+    聲優：[長嶝高士](../Page/長嶝高士.md "wikilink")（日本）
     弗克西海賊團在遇到草帽海賊團成員前一次的「Davy Back
     Fight」對手是牙蛙海賊團，經過5次的3枚硬幣戰（連續3場）後，被奪走標誌（包括旗子、船帆），以及船長、航海士、船醫等14人，因此牙蛙海賊團的船後來遭遇悽慘，甚至沉入海底，但這14人對於這件事情無動於衷。
     動畫中趁著弗克西等人因對於「Davy Back
@@ -1969,7 +1969,7 @@ Back Fight」**時會舉辦如嘉年華會般的活動。
 #### 四怪人
 
   -
-    聲優：[寶龜克壽](../Page/寶龜克壽.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）；[蔡忠衛](https://zh.wikipedia.org/wiki/蔡忠衛 "wikilink")（香港）
+    聲優：[寶龜克壽](../Page/寶龜克壽.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）；[蔡忠衛](../Page/蔡忠衛.md "wikilink")（香港）
     恐怖三桅帆船海賊團「四怪人」之首，前任「王下七武海」成員，**懸賞金：3億2,000萬貝里**。於恐怖三桅帆船中被魯夫打敗，在頂點戰爭後因政府高層認定其實力不足以擔當七武海，故而宣布褫奪稱號並命令多佛朗明哥將他抹殺，但被其部下阿布薩羅姆使用「透明果實」的能力所救。
 
 <!-- end list -->
@@ -2097,7 +2097,7 @@ Back Fight」**時會舉辦如嘉年華會般的活動。
         聲優：[久川綾](https://zh.wikipedia.org/wiki/久川綾 "wikilink")（日本）；[詹雅菁](https://zh.wikipedia.org/wiki/詹雅菁 "wikilink")（台灣）；[曾月娥](../Page/曾月娥.md "wikilink")（香港）
         殭屍將軍之一，穿著[新娘禮服](../Page/新娘.md "wikilink")，對**阿布薩羅姆**一見鍾情的野豬殭屍。原本將**[娜美](../Page/娜美.md "wikilink")**視為情敵追殺，但被娜美巧妙地矇騙過去，兩人甚至成為好朋友，她在娜美差點成為阿布薩羅姆[妻子時為了友情出手相救卻被擊倒](../Page/妻子.md "wikilink")，使憤怒的娜美以「雷電積蓄·風速計」電倒阿布薩羅姆，最終羅拉如願完成了誓約之吻，魯夫擊敗摩利亞後，影子回到**「求婚」羅拉**身上。
       -
-        聲優：[田中一成](https://zh.wikipedia.org/wiki/田中一成 "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）
+        聲優：[田中一成](../Page/田中一成.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）
         身型相當巨大的「蜘蛛猴」，所吐出的蜘蛛絲相當強韌，卻不耐火。本來抓住了[羅賓和](../Page/妮可·羅賓.md "wikilink")[佛朗基](../Page/佛朗基.md "wikilink")，最後被突然出現的[布魯克以](https://zh.wikipedia.org/wiki/布魯克 "wikilink")「鼻唄三丁·矢苔斬」擊敗及淨化。笑聲是「猴猴猴猴」～大耳朵只是裝飾用的。
 
 <!-- end list -->
@@ -2123,7 +2123,7 @@ Back Fight」**時會舉辦如嘉年華會般的活動。
     翻滾海賊團船長。外號「求婚」羅拉。是個綁著粉紅色雙髮辮，身材壯碩，有著豐厚嘴唇的女性。擅長製作[巧克力](../Page/巧克力.md "wikilink")。使用二刀流，於3年前被奪走影子，把魯夫視為打敗[月光·摩利亞的希望](../Page/月光·摩利亞.md "wikilink")，將100人份的影子塞入他體內，受[草帽海賊團的毅力所感動](https://zh.wikipedia.org/wiki/草帽海賊團 "wikilink")，堅持和摩利亞奮鬥到底的決心。
     有著遇見男人就會向對方求婚的習慣。求婚次數是4,443次，向[魯夫求婚失敗後變為](https://zh.wikipedia.org/wiki/魯夫 "wikilink")4,444次，打敗摩利亞後向草帽海賊團全員求婚，同時遭6人拒絕（分別為香吉士、索隆、騙人布、喬巴、佛朗基、布魯克），求婚次數因而上升到4,450次（但是松鼠基兄弟的說法是「一口氣遭5人的拒絕、第4,449次的求婚告吹」），草帽海賊團臨行前向[佛朗基求婚失敗後變為](../Page/佛朗基.md "wikilink")4,451次。
     出海前原為[BIG
-    MOM海賊團旗下掌管可可亞島的](https://zh.wikipedia.org/wiki/BIG_MOM海賊團 "wikilink")**巧克力大臣**，根據雙胞胎姊姊雪紡、同母異父的妹妹**夏洛特·布琳**和其母親BIG
+    MOM海賊團旗下掌管可可亞島的](../Page/BIG_MOM海賊團.md "wikilink")**巧克力大臣**，根據雙胞胎姊姊雪紡、同母異父的妹妹**夏洛特·布琳**和其母親BIG
     MOM的說法，由於羅拉不願讓BIG MOM主宰其婚姻和人生，並從經由BIG
     MOM安排和艾爾帕布巨人族王子**洛基**的政治聯姻逃婚，自行揚帆出航，追尋屬於自己的愛情，但羅拉並不知道BIG
     MOM為此事懷恨在心。
@@ -2242,7 +2242,7 @@ MOM名義上的保護，太陽海賊團也順勢加入BIG MOM旗下。在圓蛋�
 <!-- end list -->
 
   -
-    聲優：[長嶝高士](https://zh.wikipedia.org/wiki/長嶝高士 "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")／[符爽](../Page/符爽.md "wikilink")〈ep.785-829〉（台灣）
+    聲優：[長嶝高士](../Page/長嶝高士.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")／[符爽](../Page/符爽.md "wikilink")〈ep.785-829〉（台灣）
     種族：[多鬚鼬魚人魚](https://zh.wikipedia.org/wiki/多鬚鼬魚 "wikilink")/年齡：46歳/生日：生日1月31日<small>\[104\]</small>/身高：627公分/星座：水瓶座/血型：XF型/出身地：魚人島龍宮王國魚人街/喜歡的食物：西瓜。
     太陽海賊團前任船醫暨現任副船長，四皇「BIG MOM」**第21個女兒**普拉利涅的夫婿。
     有著一口利牙，綁著衝天馬尾，左臂有「1TC」字樣刺青的長鬍鬚男子。身穿太陽海賊團標誌的長背心，代表「太陽海賊團」的太陽標誌位於左邊腹部，使用武器是隻[三叉戟](https://zh.wikipedia.org/wiki/三叉戟 "wikilink")，惡龍都以「阿拉丁老兄」（）來稱呼他。
@@ -2303,7 +2303,7 @@ MOM名義上的保護，太陽海賊團也順勢加入BIG MOM旗下。在圓蛋�
 <!-- end list -->
 
   - 馬可羅一家
-    聲優：[長嶝高士](https://zh.wikipedia.org/wiki/長嶝高士 "wikilink")、[織田優成](https://zh.wikipedia.org/wiki/織田優成 "wikilink")、[川津泰彥](https://zh.wikipedia.org/wiki/川津泰彥 "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")、[符爽](../Page/符爽.md "wikilink")、[孫中台](../Page/孫中台.md "wikilink")（台灣）
+    聲優：[長嶝高士](../Page/長嶝高士.md "wikilink")、[織田優成](../Page/織田優成.md "wikilink")、[川津泰彥](https://zh.wikipedia.org/wiki/川津泰彥 "wikilink")（日本）；[宋克軍](../Page/宋克軍.md "wikilink")、[符爽](../Page/符爽.md "wikilink")、[孫中台](../Page/孫中台.md "wikilink")（台灣）
     馬可羅一家，名字分別是、、。馬可羅是吞鰻魚人、賈羅式龍睛（凸眼金魚）魚人、淡水是龍魚魚人。過去為太陽海賊團的成員，夏波帝諸島篇初登場時為人口販子。
 
 ### 新魚人海賊團
@@ -2370,14 +2370,14 @@ MOM名義上的保護，太陽海賊團也順勢加入BIG MOM旗下。在圓蛋�
 於魯夫10年前的回憶中登場的海賊團，海賊船長期停泊於哥亞王國，成員常出沒不確定之物終點站，平常會將得來的寶物進貢給王室貴族，因此不管做了多麼嚴重的犯罪的行為都會被默許，船長和船員們的名字幾乎都跟寶石有關。
 
   -
-    聲優：[石住昭彥](https://zh.wikipedia.org/wiki/石住昭彥 "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")／[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")〈[SP薩波篇](https://zh.wikipedia.org/wiki/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜 "wikilink")〉（台灣）
+    聲優：[石住昭彥](https://zh.wikipedia.org/wiki/石住昭彥 "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")／[孟慶府](https://zh.wikipedia.org/wiki/孟慶府 "wikilink")〈[SP薩波篇](../Page/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜.md "wikilink")〉（台灣）
     布魯賈姆海賊團船長。使用武器為[刀](https://zh.wikipedia.org/wiki/刀 "wikilink")，行為和性格十分殘忍，部下也非常害怕他的可怕。因為要進貢給王國的財寶被艾斯搶走，一怒之下射殺了奪回財寶失敗的部下**波爾謝米**。後來為了得到貴族的封號住進「高鎮」，不惜與王族掛勾，放火焚燒非確定物終點站，在打算逃難到高城時，卻發現士兵並沒有為他們打開大門，在知道王族的不打算遵守諾言後相當錯愕，此時看到魯夫與艾斯成功逃脫，打算逼他們兩兄弟交出所儲存的財寶，後來被**達坦**與艾斯聯手擊敗。
     名字由來取自[藍寶石](https://zh.wikipedia.org/wiki/藍寶石 "wikilink")。
 
 <!-- end list -->
 
   -
-    聲優：[菅原正志](../Page/菅原正志.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")／[陳彥鈞](../Page/陳彥鈞.md "wikilink")〈[SP薩波篇](https://zh.wikipedia.org/wiki/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜 "wikilink")〉（台灣）
+    聲優：[菅原正志](../Page/菅原正志.md "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")／[陳彥鈞](../Page/陳彥鈞.md "wikilink")〈[SP薩波篇](../Page/ONE_PIECE_薩波特別篇_〜3兄弟的羈絆_奇跡的再會和被繼承的意志〜.md "wikilink")〉（台灣）
     布魯賈姆海賊團船員。身形壯碩，沒有眉毛的長髮男子，使用武器為[刀和尖刺拳套](https://zh.wikipedia.org/wiki/刀 "wikilink")，獨特笑聲是「庫庫庫」，據說和他交手戰敗的人都會被他活生生的剝下頭皮。因為海賊團的錢財被艾斯和薩波搶走而前來找兩人算帳，無意間逮到魯夫，以極刑不斷拷問他錢財的下落，被艾斯和薩波聯手擊敗，最後被船長**布魯賈姆**開槍射殺。
     名字前半的拼音取自[珍珠](../Page/珍珠.md "wikilink")。
 
@@ -2594,7 +2594,7 @@ MOM當著佩特羅的面處死了傑波，悲痛欲絕的佩特羅以自己的�
 <!-- end list -->
 
   -
-    聲優：[長嶝高士](https://zh.wikipedia.org/wiki/長嶝高士 "wikilink")〈男〉、[神田朱未](../Page/神田朱未.md "wikilink")〈女〉（日本）；[符爽](../Page/符爽.md "wikilink")〈男〉、[許淑嬪](../Page/許淑嬪.md "wikilink")〈女〉（台灣）
+    聲優：[長嶝高士](../Page/長嶝高士.md "wikilink")〈男〉、[神田朱未](../Page/神田朱未.md "wikilink")〈女〉（日本）；[符爽](../Page/符爽.md "wikilink")〈男〉、[許淑嬪](../Page/許淑嬪.md "wikilink")〈女〉（台灣）
     在推進城因為「鬼拉袖」而到達Level
     5.5的海賊，原本是某王國的王儲，身為國王的父親從卡馬帕卡王國航行回來後變成人妖，讓他淪為海賊。他得知Level
     5.5的統治者是伊娃科夫後，意圖殺了他來復仇未果，反被伊娃用能力變成女性。

@@ -111,7 +111,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦�
 </tr>
 <tr class="odd">
 <td><p>'''寇布拉</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/家弓家正" title="wikilink">家弓家正</a></p></td>
+<td><p><a href="../Page/家弓家正.md" title="wikilink">家弓家正</a></p></td>
 <td><p><a href="../Page/孫中台.md" title="wikilink">孫中台</a></p></td>
 </tr>
 <tr class="even">
@@ -130,7 +130,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦�
 <td><p><a href="../Page/許淑嬪.md" title="wikilink">許淑嬪</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/巴洛克華克" title="wikilink">巴洛克華克</a></p></td>
+<td><p><a href="../Page/巴洛克華克.md" title="wikilink">巴洛克華克</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -217,7 +217,7 @@ PIECE》的製作人員將最受歡迎的原作漫畫中的「[阿拉巴斯坦�
   - 監督：今村隆寛
   - 企劃：清水慎治
   - 脚本：上坂浩彦
-  - 分鏡：[宇田鋼之介](https://zh.wikipedia.org/wiki/宇田鋼之介 "wikilink")、横山健次、[井上栄作](https://zh.wikipedia.org/wiki/井上栄作 "wikilink")、今村隆寛、[大塚健](https://zh.wikipedia.org/wiki/大塚健 "wikilink")
+  - 分鏡：[宇田鋼之介](../Page/宇田鋼之介.md "wikilink")、横山健次、[井上栄作](https://zh.wikipedia.org/wiki/井上栄作 "wikilink")、今村隆寛、[大塚健](https://zh.wikipedia.org/wiki/大塚健 "wikilink")
   - 人物設計、作畫監督：井上榮作
   - 作畫監督輔佐：[舘直樹](https://zh.wikipedia.org/wiki/舘直樹 "wikilink")、井出武生、[田中宏紀](https://zh.wikipedia.org/wiki/田中宏紀 "wikilink")、[西田達三](https://zh.wikipedia.org/wiki/西田達三 "wikilink")
   - 美術監督：吉池隆司

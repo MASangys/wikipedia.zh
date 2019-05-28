@@ -168,7 +168,7 @@ Trapnest所屬的經紀公司；從多次對話中得知規模很小；沒有Tra
 
 <!-- end list -->
 
-  - （聲：[田中正彥](https://zh.wikipedia.org/wiki/田中正彥 "wikilink"))
+  - （聲：[田中正彥](../Page/田中正彥.md "wikilink"))
     娛樂版主任。
 
 <!-- end list -->

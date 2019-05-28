@@ -9,7 +9,7 @@ PSP:2011年10月26日 | genre = [清版动作游戏](../Page/清版动作游戏.
 [单人游戏](https://zh.wikipedia.org/wiki/单人游戏 "wikilink")/[多人游戏](https://zh.wikipedia.org/wiki/多人游戏 "wikilink")
 | platforms = [街機](https://zh.wikipedia.org/wiki/街機 "wikilink") }}
 
-，是1992年由[卡普空推出的](../Page/卡普空.md "wikilink")[街機](https://zh.wikipedia.org/wiki/街機 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，和前作《[吞食天地](https://zh.wikipedia.org/wiki/吞食天地_\(街機\) "wikilink")》一樣，本作亦以[本宫宏志的](../Page/本宫宏志.md "wikilink")《[三國演義](https://zh.wikipedia.org/wiki/三國演義 "wikilink")》漫畫《》（）為遊戲腳本，由玩家操作[蜀國的武將們進行戰鬥](https://zh.wikipedia.org/wiki/蜀國 "wikilink")，遊戲流程仍為橫向捲軸式的關卡設計。本作品後來於1996年時移殖到[PlayStation與](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[Sega
+，是1992年由[卡普空推出的](../Page/卡普空.md "wikilink")[街機](https://zh.wikipedia.org/wiki/街機 "wikilink")[遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")，和前作《[吞食天地](https://zh.wikipedia.org/wiki/吞食天地_\(街機\) "wikilink")》一樣，本作亦以[本宫宏志的](../Page/本宫宏志.md "wikilink")《[三國演義](https://zh.wikipedia.org/wiki/三國演義 "wikilink")》漫畫《》（）為遊戲腳本，由玩家操作[蜀國的武將們進行戰鬥](https://zh.wikipedia.org/wiki/蜀國 "wikilink")，遊戲流程仍為橫向捲軸式的關卡設計。本作品後來於1996年時移殖到[PlayStation與](../Page/PlayStation.md "wikilink")[Sega
 Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，2005年時又移殖為[手機遊戲](https://zh.wikipedia.org/wiki/手機 "wikilink")，在日本NTT手機移殖版中有一些新增的遊戲要素。2011年底移植到[PSP遊戲的下載商店中](https://zh.wikipedia.org/wiki/PSP "wikilink")。
 
 本作的故事由[博望坡之戰開始到](../Page/博望坡之戰.md "wikilink")[赤壁之戰為止](../Page/赤壁之戰.md "wikilink")，并再现了原著的“华容道捉放曹”情节。玩家可以選擇的角色較前作多一個，可以3人同時遊戏（後來的移植版只能2人同時遊戏）。

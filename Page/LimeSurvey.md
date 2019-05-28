@@ -68,8 +68,7 @@ Limesurvey还被用在许多高校中，职员和学生可以管理他们自己�
     article](http://www.websm.org/index.php?fl=1&nt=2&m2w=Guides,%20codes,%20best%20practice&sid=1)
   - [Simple polling with
     LimeSurvey](http://www.linux.com/articles/62327) -
-    [Linux.com](https://zh.wikipedia.org/wiki/Linux.com "wikilink") 文章
-    June 05, 2007
+    [Linux.com](../Page/Linux.com.md "wikilink") 文章 June 05, 2007
 
 [Category:调查](https://zh.wikipedia.org/wiki/Category:调查 "wikilink")
 [Category:網站](https://zh.wikipedia.org/wiki/Category:網站 "wikilink")

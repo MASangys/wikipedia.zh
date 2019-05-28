@@ -137,7 +137,7 @@ x86-64架構的處理器也都支援SSE2指令集。而有些CPU並沒有支援 
 <li><a href="../Page/SSE.md" title="wikilink">SSE</a></li>
 <li><a href="../Page/SSE3.md" title="wikilink">SSE3</a></li>
 <li><a href="../Page/SSSE3.md" title="wikilink">SSSE3</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/SSE4" title="wikilink">SSE4</a></li>
+<li><a href="../Page/SSE4.md" title="wikilink">SSE4</a></li>
 </ul></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/SIMD" title="wikilink">SIMD</a></li>

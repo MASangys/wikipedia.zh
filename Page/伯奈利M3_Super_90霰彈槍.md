@@ -1,5 +1,5 @@
 **伯奈利M3（Super90）**（[英文](../Page/英语.md "wikilink")：**Benelli M3 Super
-90**）是一種可半自動可[泵動式兩用](https://zh.wikipedia.org/wiki/泵動式 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/12鉛徑霰彈 "wikilink")。由[意大利槍支製造商](../Page/意大利.md "wikilink")[伯奈利](https://zh.wikipedia.org/wiki/伯奈利 "wikilink")（Benelli）設計及生產。伯奈利M3以半自動的[伯奈利M1為基礎改進而成](../Page/伯奈利M1_Super_90半自動霰彈槍.md "wikilink")，最多可裝7發彈藥。比較特别的是伯奈利M3可選擇半自動或泵動運作。可靠與多用途令伯奈利M3受到[警察部隊和民間運動員喜愛](../Page/警察.md "wikilink")。
+90**）是一種可半自動可[泵動式兩用](https://zh.wikipedia.org/wiki/泵動式 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/12鉛徑霰彈 "wikilink")。由[意大利槍支製造商](../Page/意大利.md "wikilink")[伯奈利](../Page/伯奈利.md "wikilink")（Benelli）設計及生產。伯奈利M3以半自動的[伯奈利M1為基礎改進而成](../Page/伯奈利M1_Super_90半自動霰彈槍.md "wikilink")，最多可裝7發彈藥。比較特别的是伯奈利M3可選擇半自動或泵動運作。可靠與多用途令伯奈利M3受到[警察部隊和民間運動員喜愛](../Page/警察.md "wikilink")。
 
 ## 衍生型
 
@@ -32,7 +32,7 @@ Super90，為了令執法單位較易攜帶而裝上摺疊式[槍托的M](../Pag
       - （M3T）\[4\]
 
   -   - [愛爾蘭陸軍遊騎兵](https://zh.wikipedia.org/wiki/愛爾蘭陸軍遊騎兵 "wikilink")（M3T）
-      - [愛爾蘭和平衛隊](https://zh.wikipedia.org/wiki/愛爾蘭和平衛隊 "wikilink")
+      - [愛爾蘭和平衛隊](../Page/愛爾蘭和平衛隊.md "wikilink")
 
   -   -
       - [義大利武裝部隊](https://zh.wikipedia.org/wiki/義大利軍事 "wikilink")單位\[5\]
@@ -63,7 +63,7 @@ Super90，為了令執法單位較易攜帶而裝上摺疊式[槍托的M](../Pag
       - [中華民國國軍](../Page/中華民國國軍.md "wikilink")
           - [中華民國憲兵](../Page/中華民國憲兵.md "wikilink")
 
-  -   - [倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](https://zh.wikipedia.org/wiki/專業槍械司令部 "wikilink")
+  -   - [倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](../Page/專業槍械司令部.md "wikilink")
 
   -   - 部份地方警察局的[特種武器和戰術部隊](../Page/特種武器和戰術部隊.md "wikilink")
 
@@ -82,7 +82,7 @@ Super90，為了令執法單位較易攜帶而裝上摺疊式[槍托的M](../Pag
 
 ## 參見
 
-  - [伯奈利](https://zh.wikipedia.org/wiki/伯奈利 "wikilink")
+  - [伯奈利](../Page/伯奈利.md "wikilink")
   - [伯奈利M1](../Page/伯奈利M1_Super_90半自動霰彈槍.md "wikilink")，前身。
   - [伯奈利M2](../Page/伯奈利M2_Super_90半自動霰彈槍.md "wikilink")，前身。
   - [伯奈利M4](../Page/伯奈利M4_Super_90半自動霰彈槍.md "wikilink")，本槍的後繼槍，被美軍採用並命名為**M1014戰鬥霰彈槍**。

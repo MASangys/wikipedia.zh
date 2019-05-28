@@ -41,7 +41,7 @@ Semiconductor）的[Genix程式移植事業群時開始的](https://zh.wikipedia
 
 ### 計算圓周率
 
-下-{面}-是1988年參賽作品：透過自己佔的[面積來計算](https://zh.wikipedia.org/wiki/面積 "wikilink")[圓周率](https://zh.wikipedia.org/wiki/圓周率 "wikilink")\[10\]，該作品是以[K\&R
+下-{面}-是1988年參賽作品：透過自己佔的[面積來計算](https://zh.wikipedia.org/wiki/面積 "wikilink")[圓周率](../Page/圓周率.md "wikilink")\[10\]，該作品是以[K\&R
 C寫成](https://zh.wikipedia.org/wiki/K&R_C "wikilink")；代碼得做些小修改才能在[ANSI
 C下執行](../Page/ANSI_C.md "wikilink")\[11\]。
 

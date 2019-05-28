@@ -131,7 +131,7 @@ Charts、台灣[G-music](../Page/玫瑰大眾唱片.md "wikilink").
 </tr>
 <tr class="odd">
 <td><p><strong>7th</strong></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a></strong></p>
+<td><p><strong><a href="../Page/Mamacita.md" title="wikilink">Mamacita</a></strong></p>
 <ul>
 <li>發行日期：2014年9月1日</li>
 <li>語言：韓語</li>
@@ -157,7 +157,7 @@ Charts、台灣[G-music](../Page/玫瑰大眾唱片.md "wikilink").
 </tr>
 <tr class="odd">
 <td><p><strong>8th</strong></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Play_(Super_Junior專輯)" title="wikilink">Play</a></strong></p>
+<td><p><strong><a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">Play</a></strong></p>
 <ul>
 <li>發行日期：2017年11月6日</li>
 <li>語言：韓語</li>
@@ -1323,7 +1323,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p><a href="../Page/S.M.THE_BALLAD.md" title="wikilink">S.M. The Ballad專輯</a>《Miss You》</p></td>
 <td><p>Miss You</p></td>
 <td><p>圭賢</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TRAX" title="wikilink">Jay</a>、<a href="https://zh.wikipedia.org/wiki/金鐘鉉" title="wikilink">鐘鉉</a>、<a href="https://zh.wikipedia.org/wiki/趙珍虎" title="wikilink">Jino</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TRAX" title="wikilink">Jay</a>、<a href="https://zh.wikipedia.org/wiki/金鐘鉉" title="wikilink">鐘鉉</a>、<a href="../Page/趙珍虎.md" title="wikilink">Jino</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Hot Times</p></td>
@@ -1779,7 +1779,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p><a href="../Page/寶兒.md" title="wikilink">BoA</a>、<a href="../Page/安七炫.md" title="wikilink">安七炫</a>、<br />
 <a href="../Page/東方神起.md" title="wikilink">東方神起</a>、<a href="https://zh.wikipedia.org/wiki/金泰耎" title="wikilink">太妍</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/金鐘鉉_(歌手)" title="wikilink">鐘鉉</a>、<a href="../Page/朴善英.md" title="wikilink">Luna</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/都暻秀" title="wikilink">D.O.</a>、<a href="https://zh.wikipedia.org/wiki/鹿晗" title="wikilink">鹿晗</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/都暻秀" title="wikilink">D.O.</a>、<a href="../Page/鹿晗.md" title="wikilink">鹿晗</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1937,7 +1937,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p>6月30日</p></td>
-<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/最佳的一擊" title="wikilink">最佳的一擊</a>》</p></td>
+<td><p>電視劇《<a href="../Page/最佳的一擊.md" title="wikilink">最佳的一擊</a>》</p></td>
 <td><p>If You</p></td>
 <td></td>
 <td></td>
@@ -1989,7 +1989,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>韓國航空學校校歌</p></td>
 <td><p>重要的果實</p></td>
 <td><p><a href="../Page/晟敏.md" title="wikilink">晟敏</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/喜悅Dana" title="wikilink">Dana</a>、Lina（<a href="../Page/天上智喜.md" title="wikilink">天上智喜</a>）</p></td>
+<td><p><a href="../Page/喜悅Dana.md" title="wikilink">Dana</a>、Lina（<a href="../Page/天上智喜.md" title="wikilink">天上智喜</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>2009年</p></td>
@@ -2053,7 +2053,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td><p>韓國現代汽車廣告《PYL Younique》</p></td>
 <td><p>Maxstep</p></td>
 <td><p><a href="../Page/銀赫.md" title="wikilink">銀赫</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金孝淵" title="wikilink">孝淵</a>、<a href="https://zh.wikipedia.org/wiki/李泰民" title="wikilink">泰民</a>、<a href="../Page/劉憲華.md" title="wikilink">Henry</a>、<a href="https://zh.wikipedia.org/wiki/KAI" title="wikilink">KAI</a>、<a href="https://zh.wikipedia.org/wiki/鹿晗" title="wikilink">鹿晗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金孝淵" title="wikilink">孝淵</a>、<a href="https://zh.wikipedia.org/wiki/李泰民" title="wikilink">泰民</a>、<a href="../Page/劉憲華.md" title="wikilink">Henry</a>、<a href="https://zh.wikipedia.org/wiki/KAI" title="wikilink">KAI</a>、<a href="../Page/鹿晗.md" title="wikilink">鹿晗</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
@@ -2228,7 +2228,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <tr class="odd">
 <td><p>12月30日</p></td>
 <td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a>、Sunny、<a href="../Page/朴善英.md" title="wikilink">Luna</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">瑟琪</a>、<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>、泰一、<a href="https://zh.wikipedia.org/wiki/道英" title="wikilink">道英</a></p></td>
+<a href="../Page/瑟琪.md" title="wikilink">瑟琪</a>、<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>、泰一、<a href="../Page/道英.md" title="wikilink">道英</a></p></td>
 <td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION第</a>47首數位單曲《心的聲音（Sound of Your Heart）》</p></td>
 <td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a></p></td>
 <td></td>
@@ -2237,7 +2237,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p>1月20日</p></td>
-<td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="https://zh.wikipedia.org/wiki/瑟琪" title="wikilink">瑟琪</a></p></td>
+<td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a>、<a href="../Page/瑟琪.md" title="wikilink">瑟琪</a></p></td>
 <td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION第</a>50首數位單曲《Darling U》</p></td>
 <td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a></p></td>
 <td></td>
@@ -2252,7 +2252,7 @@ Junior于2011年12月16日成立的第五个官方子组合，
 </tr>
 <tr class="even">
 <td><p>12月8日</p></td>
-<td><p><a href="../Page/希澈.md" title="wikilink">希澈</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="https://zh.wikipedia.org/wiki/頌樂" title="wikilink">頌樂</a></p></td>
+<td><p><a href="../Page/希澈.md" title="wikilink">希澈</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a>、<a href="../Page/頌樂.md" title="wikilink">頌樂</a></p></td>
 <td><p><a href="../Page/SM_STATION.md" title="wikilink">SM STATION第二季第</a>36首數位單曲《Charm of Life》</p></td>
 <td><p><a href="../Page/希澈.md" title="wikilink">希澈</a>、<a href="../Page/神童_(藝人).md" title="wikilink">神童</a>、<a href="../Page/銀赫.md" title="wikilink">銀赫</a></p></td>
 <td></td>

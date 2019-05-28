@@ -180,9 +180,7 @@ A Noble was Born in Chaos (會場限定作品) - 2008年3月19日
 
 PRINCE & PRINCESS - 2008年12月10日（同年9月13日PRINCE一曲開放線上免費下載）
 
-[ASCENDEAD
-MASTER](https://zh.wikipedia.org/wiki/ASCENDEAD_MASTER "wikilink") -
-2009年6月24日
+[ASCENDEAD MASTER](../Page/ASCENDEAD_MASTER.md "wikilink") - 2009年6月24日
 
 DESTINY -THE LOVERS- - 2010年10月27日
 
@@ -190,21 +188,18 @@ Philia - 2011年3月16日
 
 Rhapsody of the Darkness - 2012年4月25日
 
-[ROSE](https://zh.wikipedia.org/wiki/ROSE "wikilink") - 2012年7月4日
+[ROSE](../Page/ROSE.md "wikilink") - 2012年7月4日
 
 ### 錄音室專輯
 
-[NOBLE](https://zh.wikipedia.org/wiki/NOBLE "wikilink")【日本盤】（2008年7月16日）－2008年10月22日通常盤再發售。
+[NOBLE](../Page/NOBLE.md "wikilink")【日本盤】（2008年7月16日）－2008年10月22日通常盤再發售。
 【世界盤】（2008年7月30日）
 
-[JUBILEE](https://zh.wikipedia.org/wiki/JUBILEE "wikilink")
-（2010年1月20日）oricon專輯排行榜初登場4位
+[JUBILEE](../Page/JUBILEE.md "wikilink") （2010年1月20日）oricon專輯排行榜初登場4位
 
-[Holy Grail](https://zh.wikipedia.org/wiki/Holy_Grail_\(專輯\) "wikilink")
-（2011年6月15日）
+[Holy Grail](../Page/Holy_Grail_\(專輯\).md "wikilink") （2011年6月15日）
 
-[Versailles](https://zh.wikipedia.org/wiki/Versailles_\(專輯\) "wikilink")
-（2012年9月26日）
+[Versailles](../Page/Versailles_\(專輯\).md "wikilink") （2012年9月26日）
 
 The Greatest Hits 2007-2016（2016年9月14日）
 
@@ -218,8 +213,7 @@ Lyrical Sympathy -Live- （2010年9月1日） Noble -Live- （2010年9月1日）
 
 ### EP
 
-[Lyrical
-Sympathy](https://zh.wikipedia.org/wiki/Lyrical_Sympathy "wikilink")（2007年10月31日）-
+[Lyrical Sympathy](../Page/Lyrical_Sympathy.md "wikilink")（2007年10月31日）-
 海外盤附加《Shout & Bites》PV收錄的DVD。
 
 ### DVD

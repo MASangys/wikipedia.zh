@@ -327,7 +327,7 @@ iPhone6.2</p></td>
 <td><p><strong>7.<a href="https://zh.wikipedia.org/wiki/中央處理器" title="wikilink">處理器</a></strong></p></td>
 <td><p>1.3 GHz <a href="../Page/Apple_A6.md" title="wikilink">Apple A6</a></p></td>
 <td><p>1.3 GHz <a href="../Page/Apple_A7.md" title="wikilink">Apple A7</a></p></td>
-<td><p>1.4 GHz <a href="https://zh.wikipedia.org/wiki/Apple_A8" title="wikilink">Apple A8</a></p></td>
+<td><p>1.4 GHz <a href="../Page/Apple_A8.md" title="wikilink">Apple A8</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -937,7 +937,7 @@ FaceTime</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/中央處理器" title="wikilink">處理器</a></strong></p></td>
-<td><p>1 GHz <a href="https://zh.wikipedia.org/wiki/Apple_A8" title="wikilink">Apple A8</a> （雙核心，频率至 800 MHz）</p></td>
+<td><p>1 GHz <a href="../Page/Apple_A8.md" title="wikilink">Apple A8</a> （雙核心，频率至 800 MHz）</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體</a></strong></p></td>
@@ -1390,7 +1390,7 @@ International: 2011年3月25日</p></td>
 <tr class="odd">
 <td><p>colspan=2 |處理器</p></td>
 <td><p><a href="../Page/Apple_A7.md" title="wikilink">64位元 Apple A7</a> 1.4 Ghz 雙核心</p></td>
-<td><p>64位元 <a href="https://zh.wikipedia.org/wiki/Apple_A8X" title="wikilink">Apple A8X</a> 1.5Ghz 三核心</p></td>
+<td><p>64位元 <a href="../Page/Apple_A8X.md" title="wikilink">Apple A8X</a> 1.5Ghz 三核心</p></td>
 <td><p>64位元 <a href="../Page/Apple_A12_Bionic.md" title="wikilink">Apple A12</a> 2.49 GHz 六核心</p></td>
 </tr>
 <tr class="even">
@@ -1601,8 +1601,8 @@ Wi-Fi + 4G model: </p></td>
 </tr>
 <tr class="odd">
 <td><p>colspan=2 |處理器</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A9X" title="wikilink">Apple A9X</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A10X" title="wikilink">Apple A10X</a></p></td>
+<td><p><a href="../Page/Apple_A9X.md" title="wikilink">Apple A9X</a></p></td>
+<td><p><a href="../Page/Apple_A10X.md" title="wikilink">Apple A10X</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1984,7 +1984,7 @@ eSIM</p></td>
 <td><p>colspan=2 |處理器</p></td>
 <td><p>1GHz<a href="../Page/Apple_A5.md" title="wikilink">Apple A5</a></p></td>
 <td><p>1.3GHz 雙核 <a href="../Page/Apple_A7.md" title="wikilink">Apple A7</a> 專門設計的高性能低功耗系統級芯片</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A8" title="wikilink">Apple A8</a></p></td>
+<td><p><a href="../Page/Apple_A8.md" title="wikilink">Apple A8</a></p></td>
 <td><p><a href="../Page/Apple_A12_Bionic.md" title="wikilink">Apple A12</a></p></td>
 <td></td>
 </tr>

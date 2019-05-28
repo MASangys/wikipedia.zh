@@ -11,7 +11,7 @@
 ## 簡介
 
 Kolor樂隊的名字取自英文Color，即是“色彩”的意思。當中的「K」是代表樂隊的經理人－[黃家強](../Page/黃家強.md "wikilink")。Kolor由臨記、[Tat
-Flip及](https://zh.wikipedia.org/wiki/Tat_Flip "wikilink")[Nothing
+Flip及](../Page/Tat_Flip.md "wikilink")[Nothing
 None前成員組合而成](https://zh.wikipedia.org/wiki/Nothing_None "wikilink")。他們開始時都玩[搖滾和](https://zh.wikipedia.org/wiki/搖滾 "wikilink")[新金屬為多](../Page/新金屬.md "wikilink")。
 
 他們認為，對於音樂的理解和一個畫家，用不同的顏色描繪一幅圖畫，去表達自己的思想與感覺一樣。所以他們的音樂，會以不同的音樂元素去築構而成，求新求變。

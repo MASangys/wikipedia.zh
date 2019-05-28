@@ -66,7 +66,7 @@ Live Messenger。
 <!-- end list -->
 
   - [阿拉伯语](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")
-  - [加泰罗尼亚语](https://zh.wikipedia.org/wiki/加泰罗尼亚语 "wikilink")
+  - [加泰罗尼亚语](../Page/加泰罗尼亚语.md "wikilink")
   - [简体中文](https://zh.wikipedia.org/wiki/简体中文 "wikilink")
   - [繁体中文](https://zh.wikipedia.org/wiki/繁体中文 "wikilink")
   - [丹麦语](../Page/丹麦语.md "wikilink")

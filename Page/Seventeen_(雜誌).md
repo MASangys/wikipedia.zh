@@ -119,7 +119,7 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
 <td><p>Miss ST 2014</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/川津明日香" title="wikilink">川津明日香</a></p></td>
+<td><p><a href="../Page/川津明日香.md" title="wikilink">川津明日香</a></p></td>
 <td><p>0</p></td>
 <td></td>
 <td></td>
@@ -131,13 +131,13 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/岡本夏美" title="wikilink">岡本夏美</a></p></td>
+<td><p><a href="../Page/岡本夏美.md" title="wikilink">岡本夏美</a></p></td>
 <td><p>2015年9月號 -</p></td>
 <td><p>0</p></td>
 <td><p>原為《nicola》專屬模特兒</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黑崎莉奈" title="wikilink">黑崎莉奈</a></p></td>
+<td><p><a href="../Page/黑崎莉奈.md" title="wikilink">黑崎莉奈</a></p></td>
 <td><p>0</p></td>
 <td></td>
 <td></td>
@@ -155,7 +155,7 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/坂井仁香" title="wikilink">坂井仁香</a></p></td>
+<td><p><a href="../Page/坂井仁香.md" title="wikilink">坂井仁香</a></p></td>
 <td><p>0</p></td>
 <td><p>Miss ST 2015<br />
 亦是成員</p></td>
@@ -175,7 +175,7 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/永野芽郁" title="wikilink">永野芽郁</a></p></td>
+<td><p><a href="../Page/永野芽郁.md" title="wikilink">永野芽郁</a></p></td>
 <td><p>2016年9月號 -</p></td>
 <td><p>0</p></td>
 <td><p>原為《nicola》專屬模特兒</p></td>
@@ -218,7 +218,7 @@ Seventeen」面試中選出而成為專屬模特兒（本身也屬模特兒事�
 <td><p>原為《nicola》專屬模特兒</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/久保史緒里" title="wikilink">久保史緒里</a></p></td>
+<td><p><a href="../Page/久保史緒里.md" title="wikilink">久保史緒里</a></p></td>
 <td><p>0</p></td>
 <td><p>亦是<a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46成員</a></p></td>
 <td></td>

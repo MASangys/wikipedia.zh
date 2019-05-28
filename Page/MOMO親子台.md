@@ -4,7 +4,7 @@
 
 ### 現任成員
 
-  - 《[彤彤姐姐-蔡玓彤](https://zh.wikipedia.org/wiki/蔡玓彤 "wikilink")》
+  - 《[彤彤姐姐-蔡玓彤](../Page/蔡玓彤.md "wikilink")》
   - 《[哈密瓜哥哥-佘啟銘](https://zh.wikipedia.org/wiki/佘啟銘 "wikilink")》
   - 《[海苔哥哥-黃韋翔](https://zh.wikipedia.org/wiki/黃韋翔 "wikilink")》
   - 《[檸檬哥哥-邱俊銘](../Page/邱俊銘.md "wikilink")》
@@ -33,7 +33,7 @@
   - 《[香草姐姐-林青儀](https://zh.wikipedia.org/wiki/林青儀 "wikilink")》（第一代）
   - 《[小紅莓姐姐-陳乔儿](https://zh.wikipedia.org/wiki/陳喬兒 "wikilink")》（第一代）
   - 《[泡芙姐姐-施達伶](../Page/泡芙姐姐.md "wikilink")》
-  - 《[糖果姐姐-張雅淇](https://zh.wikipedia.org/wiki/洪淇 "wikilink")》（第一代）
+  - 《[糖果姐姐-張雅淇](../Page/洪淇.md "wikilink")》（第一代）
   - 《[藍莓姐姐-李牧寰](https://zh.wikipedia.org/wiki/李牧寰 "wikilink")》（第一代）
   - 《[功夫哥哥-陳恩奕](https://zh.wikipedia.org/wiki/陳恩奕 "wikilink")》
 
@@ -116,15 +116,15 @@
 | 《[真珠美人魚](https://zh.wikipedia.org/wiki/真珠美人魚 "wikilink")》                                                      |
 | 《[龍龍與忠狗](../Page/龍龍與忠狗.md "wikilink")》                                                                         |
 | 《[未來卡片 戰鬥夥伴](../Page/未來卡片_戰鬥夥伴.md "wikilink")》                                                                 |
-| 《[家有賤狗](https://zh.wikipedia.org/wiki/家有賤狗 "wikilink")》                                                        |
+| 《[家有賤狗](../Page/家有賤狗.md "wikilink")》                                                                           |
 | 《[小魔女DoReMi](../Page/小魔女DoReMi.md "wikilink")》                                                                 |
 | 《[櫻桃小丸子](https://zh.wikipedia.org/wiki/櫻桃小丸子 "wikilink")》                                                      |
 | 《[神奇寶貝系列](https://zh.wikipedia.org/wiki/神奇寶貝系列 "wikilink")》                                                    |
 | 《[變身！公主偶像](https://zh.wikipedia.org/wiki/變身！公主偶像 "wikilink")》                                                  |
-| 《[積木戰士](https://zh.wikipedia.org/wiki/積木戰士 "wikilink")》 (加拿大、日本合作)                                             |
+| 《[積木戰士](../Page/積木戰士.md "wikilink")》 (加拿大、日本合作)                                                                |
 | 《[偶像學園](https://zh.wikipedia.org/wiki/偶像學園_\(動畫\) "wikilink")》（第三季起）                                           |
 | 《[偶像學園Stars！](../Page/偶像學園Stars！.md "wikilink")》                                                               |
-| 《[見習神仙精靈](https://zh.wikipedia.org/wiki/見習神仙精靈 "wikilink")》                                                    |
+| 《[見習神仙精靈](../Page/見習神仙精靈.md "wikilink")》                                                                       |
 |                                                                                                                |
 
 ### 南韓
@@ -165,7 +165,7 @@
 | 《》                                                                              |
 | 《》                                                                              |
 | 《[諾弟樂園](https://zh.wikipedia.org/wiki/諾弟樂園 "wikilink")》                         |
-| 《[建築師巴布](https://zh.wikipedia.org/wiki/建築師巴布 "wikilink")》                       |
+| 《[建築師巴布](../Page/建築師巴布.md "wikilink")》                                          |
 | 《[企鵝家族](../Page/企鵝家族.md "wikilink")》                                            |
 | 《[湯瑪士小火車](https://zh.wikipedia.org/wiki/火車頭日記 "wikilink")》                      |
 | 《》                                                                              |
@@ -180,9 +180,9 @@
 | 《[瑪莎與熊](../Page/瑪莎與熊.md "wikilink")》                                            |
 | 《》                                                                              |
 | 《[Dora](../Page/愛探險的朵拉.md "wikilink")》                                          |
-| 《[Diego](https://zh.wikipedia.org/wiki/Diego_\(電視動畫\) "wikilink")》              |
+| 《[Diego](../Page/Diego_\(電視動畫\).md "wikilink")》                                 |
 | 《[Dora and Friends](https://zh.wikipedia.org/wiki/Dora_and_Friends "wikilink")》 |
-| 《[汪汪隊立大功](https://zh.wikipedia.org/wiki/汪汪隊立大功 "wikilink")》                     |
+| 《[汪汪隊立大功](../Page/汪汪隊立大功.md "wikilink")》                                        |
 | 《[亮亮和晶晶](https://zh.wikipedia.org/wiki/亮亮和晶晶 "wikilink")》                       |
 | 《[珊妮的一天](https://zh.wikipedia.org/wiki/珊妮的一天 "wikilink")》                       |
 | 《[功夫熊貓之至尊傳奇](https://zh.wikipedia.org/wiki/功夫熊貓之至尊傳奇 "wikilink")》               |

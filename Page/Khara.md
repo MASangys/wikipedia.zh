@@ -28,7 +28,7 @@ khara的[假名是](https://zh.wikipedia.org/wiki/假名 "wikilink")「」，与
     （[貞本義行](https://zh.wikipedia.org/wiki/貞本義行 "wikilink")） -
     原作
   - 漫画
-    [新世纪福音战士：碇真嗣育成计划](https://zh.wikipedia.org/wiki/新世纪福音战士：碇真嗣育成计划_\(漫画\) "wikilink")（[高橋脩](https://zh.wikipedia.org/wiki/高橋脩 "wikilink")）
+    [新世纪福音战士：碇真嗣育成计划](https://zh.wikipedia.org/wiki/新世纪福音战士：碇真嗣育成计划_\(漫画\) "wikilink")（[高橋脩](../Page/高橋脩.md "wikilink")）
     - 原作
   - 漫画 [新世紀福音戰士
     學園墮天錄](https://zh.wikipedia.org/wiki/新世紀福音戰士_學園墮天錄 "wikilink")
@@ -36,10 +36,8 @@ khara的[假名是](https://zh.wikipedia.org/wiki/假名 "wikilink")「」，与
   - 小説《[新世纪福音战士
     ANIMA](https://zh.wikipedia.org/wiki/新世纪福音战士_ANIMA "wikilink")》（[山下いくと](https://zh.wikipedia.org/wiki/山下いくと "wikilink")・[陰山琢磨](https://zh.wikipedia.org/wiki/陰山琢磨 "wikilink")）
     - 原作
-  - 漫画
-    [ぷちえヴぁ〜EVANGELION@SCHOOL〜](https://zh.wikipedia.org/wiki/福音小戰士 "wikilink")（原作）\[4\]
-  - 动画
-    [ぷちえヴぁ〜EVANGELION@SCHOOL〜](https://zh.wikipedia.org/wiki/福音小戰士 "wikilink")（监修）\[5\]
+  - 漫画 [ぷちえヴぁ〜EVANGELION@SCHOOL〜](../Page/福音小戰士.md "wikilink")（原作）\[4\]
+  - 动画 [ぷちえヴぁ〜EVANGELION@SCHOOL〜](../Page/福音小戰士.md "wikilink")（监修）\[5\]
 
 ### 协力制作
 
@@ -80,7 +78,7 @@ khara的[假名是](https://zh.wikipedia.org/wiki/假名 "wikilink")「」，与
 
   - [田中達也](../Page/田中達也.md "wikilink")（所属动画师）
 
-  - [平松禎史](https://zh.wikipedia.org/wiki/平松禎史 "wikilink")（所属动画师）
+  - [平松禎史](../Page/平松禎史.md "wikilink")（所属动画师）
 
   - [前田真宏](https://zh.wikipedia.org/wiki/前田真宏_\(动画导演\) "wikilink")（所属动画导演）
 
@@ -90,7 +88,7 @@ khara的[假名是](https://zh.wikipedia.org/wiki/假名 "wikilink")「」，与
 
   - [増尾昭一](https://zh.wikipedia.org/wiki/増尾昭一 "wikilink")（所属动画师）
 
-  - [鈴木俊二](https://zh.wikipedia.org/wiki/鈴木俊二 "wikilink")（所属动画师）
+  - [鈴木俊二](../Page/鈴木俊二.md "wikilink")（所属动画师）
 
   - 小野承国（所属动画师）
 

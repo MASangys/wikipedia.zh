@@ -56,7 +56,7 @@ Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikili
 <td><p><em>Lego Star Wars II: The Original Trilogy</em></p></td>
 <td><p>2006年9月11日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales Ltd.</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -366,7 +366,7 @@ Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikili
 <td><p><em>Star Wars Empire at War: Gold Pack</em></p></td>
 <td><p>2007年9月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Petroglyph_Games" title="wikilink">Petroglyph Games</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -422,7 +422,7 @@ Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikili
 <td><p><a href="https://zh.wikipedia.org/wiki/巫师_(电子游戏)" title="wikilink">巫师</a> [39]</p></td>
 <td><p><em>The Witcher</em></p></td>
 <td><p>2007年10月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CD_Projekt" title="wikilink">CD Projekt</a></p></td>
+<td><p><a href="../Page/CD_Projekt.md" title="wikilink">CD Projekt</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Atari" title="wikilink">Atari</a></p></td>
 <td></td>
 <td></td>
@@ -432,7 +432,7 @@ Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikili
 <td><p><em>Thrillville: Off the Rails</em></p></td>
 <td><p>2007年10月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Frontier_Developments" title="wikilink">Frontier Developments</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -667,7 +667,7 @@ Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikili
 <td><p><em>Lego Indiana Jones: The Original Adventures</em></p></td>
 <td><p>2008年6月3日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Traveller&#39;s_Tales" title="wikilink">Traveller's Tales</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -716,7 +716,7 @@ Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikili
 <td><p>2008年11月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ascaron" title="wikilink">Ascaron</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/cdv_Software_Entertainment" title="wikilink">cdv Software Entertainment</a><br />
-<a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -792,7 +792,7 @@ Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikili
 <td><p>2008年9月16日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Black_Hole_Entertainment" title="wikilink">Black Hole Entertainment</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Namco_Bandai_Games" title="wikilink">Namco Bandai Games</a><br />
-<a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1455,7 +1455,7 @@ Live系列游戏](https://zh.wikipedia.org/wiki/Games_for_Windows_-_Live "wikili
 <td><p><em><a href="https://zh.wikipedia.org/wiki/Star_Wars:_The_Force_Unleashed_II" title="wikilink">Star Wars: The Force Unleashed II</a></em>[142]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2010_in_video_gaming" title="wikilink">2010-10-26</a></p></td>
 <td><p><a href="../Page/Aspyr_Media.md" title="wikilink">Aspyr Media</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 </tr>

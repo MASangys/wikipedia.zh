@@ -417,7 +417,7 @@ Super Hero 2nd Line Up》</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014年</p></td>
-<td><p>SJ正規七輯特別版《<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">This is Love</a>》</p></td>
+<td><p>SJ正規七輯特別版《<a href="../Page/Mamacita.md" title="wikilink">This is Love</a>》</p></td>
 <td><p>...ing</p></td>
 <td><p>Super Junior-K.R.Y.</p></td>
 </tr>
@@ -435,7 +435,7 @@ Super Hero 2nd Line Up》</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
-<td><p>SJ正規八輯改版《<a href="https://zh.wikipedia.org/wiki/Play_(Super_Junior專輯)" title="wikilink">Play</a>》(Pause Ver.)</p></td>
+<td><p>SJ正規八輯改版《<a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">Play</a>》(Pause Ver.)</p></td>
 <td><p>Shadowless</p></td>
 <td><p>Super Junior-K.R.Y.</p></td>
 </tr>

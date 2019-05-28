@@ -35,7 +35,7 @@ Untriseptium一詞來自於1979年[IUPAC發表了對元素新命名的建議](ht
 
   - [元素周期表](../Page/元素周期表.md "wikilink")
   - [扩展元素周期表](../Page/扩展元素周期表.md "wikilink")
-  - [Ust](https://zh.wikipedia.org/wiki/Ust "wikilink")
+  - [Ust](../Page/Ust.md "wikilink")
 
 ## 註解
 

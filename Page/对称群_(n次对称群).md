@@ -97,7 +97,7 @@ S<sub>*n*</sub>的[共轭类是对于置换轮换表达的结构来说的](../Pa
 
 ## 參見
 
-  - [楊對稱化子](https://zh.wikipedia.org/wiki/楊對稱化子 "wikilink")
+  - [楊對稱化子](../Page/楊對稱化子.md "wikilink")
 
 [Category:置换群](https://zh.wikipedia.org/wiki/Category:置换群 "wikilink")
 [Category:有限群](https://zh.wikipedia.org/wiki/Category:有限群 "wikilink")

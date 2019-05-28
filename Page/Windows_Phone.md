@@ -40,8 +40,8 @@ NT內核](../Page/Windows_NT.md "wikilink")，因为内核的改变，所有Wind
 8.1更新2，相比Windows Phone 8.1更新1，部分界面有所更改。
 
 2015年5月13日，微软公布了[Windows
-10系统的版本SKU](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，Windows
-10 Mobile就是Windows 10的行動版正式名称，意味自2010年-2016年的Windows
+10系统的版本SKU](../Page/Windows_10.md "wikilink")，Windows 10
+Mobile就是Windows 10的行動版正式名称，意味自2010年-2016年的Windows
 Phone手机系统正式結束。微软曾经在2014年9月在[Twitter指所有Windows](../Page/Twitter.md "wikilink")
 Phone 8手機皆能免費升級至Windows 10 Mobile\[7\]，但是在2016年3月17日只為18款Windows Phone
 8.1设备提供Windows 10 Mobile升級，沒有第二波更新計劃\[8\]，其余透过预览版通道升级至Windows 10
@@ -382,7 +382,7 @@ Mobile作業系統的是](../Page/Windows_Mobile.md "wikilink")，目前並沒�
 
 Windows Phone中的「**遊戲**」中心整合了[Xbox
 LIVE的服務](https://zh.wikipedia.org/wiki/Xbox_LIVE "wikilink")，並能夠將使用者的虛擬人偶以3D的方式呈現出來。透過「遊戲」中心，使用者能夠和自己的虛擬人偶互動、查詢遊戲成就和排行榜、傳送訊息給Xbox
-LIVE的朋友、以及檢視焦點（最新消息、遊戲發行）。\[45\]亦有一些線上多人遊戲（[回合制](https://zh.wikipedia.org/wiki/回合制策略遊戲 "wikilink")）被發行。\[46\]而微軟曾經在[Gamescom中公布了至少](https://zh.wikipedia.org/wiki/Gamescom "wikilink")50款相容於Xbox
+LIVE的朋友、以及檢視焦點（最新消息、遊戲發行）。\[45\]亦有一些線上多人遊戲（[回合制](https://zh.wikipedia.org/wiki/回合制策略遊戲 "wikilink")）被發行。\[46\]而微軟曾經在[Gamescom中公布了至少](../Page/Gamescom.md "wikilink")50款相容於Xbox
 LIVE的Windows Phone遊戲名稱。\[47\]目前Windows Phone的Xbox
 LIVE並不支援實時的多人遊戲，但預計將會在未來提供此項功能。\[48\]其Xbox
 LIVE之主要功能還包括了支援同時在[Xbox
@@ -581,7 +581,7 @@ Phone的用戶體驗，對開發者開發應用進行了嚴格的約束，開發
 ## 版本結束
 
 Windows Phone的開發止於[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，微软事先承诺Windows
+10](../Page/Windows_10.md "wikilink")，微软事先承诺Windows
 10会整合所有裝置，以往使用Windows Phone 8.1的用戶均可升級至Windows 10
 Mobile，但后来微软宣佈只限部份型號手機才獲得官方正式升級。
 
@@ -592,7 +592,7 @@ Mobile，但后来微软宣佈只限部份型號手機才獲得官方正式升�
 ## 参见
 
   - [Windows Mobile](../Page/Windows_Mobile.md "wikilink")
-  - [Windows 10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
+  - [Windows 10](../Page/Windows_10.md "wikilink")
 
 {{-}}
 

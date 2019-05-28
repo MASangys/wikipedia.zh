@@ -95,7 +95,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")。台灣・香港中文版
 
   - 《[加奈日記](../Page/加奈日記.md "wikilink")》電視動畫第8話ENDCARD
   - 《K-ON輕音少女插畫精選大全 VOL.1》（）（2010年1月27日發行，芳文社）
-  - [廣島東洋鯉魚報紙廣告漫畫](../Page/廣島東洋鯉魚.md "wikilink")（《[中國新聞](../Page/中國新聞_\(日本\).md "wikilink")》2013年2月1日刊）－與、[戶田勝之](https://zh.wikipedia.org/wiki/戶田勝之 "wikilink")、、[安彥良和](https://zh.wikipedia.org/wiki/安彥良和 "wikilink")、、[川口開治](../Page/川口開治.md "wikilink")、、[貞安圭](https://zh.wikipedia.org/wiki/貞安圭 "wikilink")、合作
+  - [廣島東洋鯉魚報紙廣告漫畫](../Page/廣島東洋鯉魚.md "wikilink")（《[中國新聞](../Page/中國新聞_\(日本\).md "wikilink")》2013年2月1日刊）－與、[戶田勝之](https://zh.wikipedia.org/wiki/戶田勝之 "wikilink")、、[安彥良和](https://zh.wikipedia.org/wiki/安彥良和 "wikilink")、、[川口開治](../Page/川口開治.md "wikilink")、、[貞安圭](../Page/貞安圭.md "wikilink")、合作
   - 《[悠悠式](https://zh.wikipedia.org/wiki/悠悠式 "wikilink")》電視動畫第8話ENDCARD
 
 ## 參考資料

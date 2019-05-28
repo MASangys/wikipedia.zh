@@ -107,7 +107,7 @@
       - [贲门癌](https://zh.wikipedia.org/wiki/贲门癌 "wikilink")
       - [胃腸道基質腫瘤](../Page/胃腸道基質腫瘤.md "wikilink")
   - ()
-    [胰臟的恶性肿瘤](https://zh.wikipedia.org/wiki/胰臟 "wikilink")（[胰腺癌](https://zh.wikipedia.org/wiki/胰腺癌 "wikilink")）
+    [胰臟的恶性肿瘤](https://zh.wikipedia.org/wiki/胰臟 "wikilink")（[胰腺癌](../Page/胰腺癌.md "wikilink")）
   - () 其他及分界不明的消化器官恶性肿瘤
 
 ##### 呼吸和[胸內器官的恶性肿瘤](https://zh.wikipedia.org/wiki/胸內器官 "wikilink")
@@ -139,7 +139,7 @@
 ##### [間皮和](https://zh.wikipedia.org/wiki/間皮 "wikilink")[軟組織的惡性肿瘤](https://zh.wikipedia.org/wiki/軟組織 "wikilink")
 
   - () [間皮瘤](../Page/間皮瘤.md "wikilink")
-  - () [卡波西氏肉瘤](https://zh.wikipedia.org/wiki/卡波西氏肉瘤 "wikilink")
+  - () [卡波西氏肉瘤](../Page/卡波西氏肉瘤.md "wikilink")
   - ()
     [周邊神經和](https://zh.wikipedia.org/wiki/周邊神經 "wikilink")[自主神经系统的惡性肿瘤](https://zh.wikipedia.org/wiki/自主神经系统 "wikilink")
   - ()
@@ -177,7 +177,7 @@
 ##### [泌尿道的惡性肿瘤](https://zh.wikipedia.org/wiki/泌尿道 "wikilink")
 
   - ()
-    [腎的惡性肿瘤](../Page/腎.md "wikilink")（不含[腎盂](https://zh.wikipedia.org/wiki/腎盂 "wikilink")）
+    [腎的惡性肿瘤](../Page/腎.md "wikilink")（不含[腎盂](../Page/腎盂.md "wikilink")）
   - () 腎盂的惡性肿瘤（[肾癌](https://zh.wikipedia.org/wiki/肾癌 "wikilink")）
   - () [輸尿管的惡性肿瘤](https://zh.wikipedia.org/wiki/輸尿管 "wikilink")
   - ()
@@ -204,7 +204,7 @@
       - () [脑垂体腺](https://zh.wikipedia.org/wiki/脑垂体腺 "wikilink")
       - () [顱咽管](https://zh.wikipedia.org/wiki/顱咽管 "wikilink")
       - () [松果體](../Page/松果體.md "wikilink")
-      - () [頸動脈體](https://zh.wikipedia.org/wiki/頸動脈體 "wikilink")
+      - () [頸動脈體](../Page/頸動脈體.md "wikilink")
       - ()
         [主动脉体及其他](https://zh.wikipedia.org/wiki/主动脉体 "wikilink")[副神經節](https://zh.wikipedia.org/wiki/副神經節 "wikilink")
       - () 未明示之多腺體牵连

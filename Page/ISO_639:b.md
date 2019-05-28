@@ -139,7 +139,7 @@
 | bff                 |           |           | BFF | Bofi                                 |                                                                                                                 |
 | bfg                 |           |           | BFG | Busang Kayan                         |                                                                                                                 |
 | bfh                 |           |           | IND | Blafe                                |                                                                                                                 |
-| bfi                 |           |           | BHO | British Sign Language                | [英國手語](https://zh.wikipedia.org/wiki/英國手語 "wikilink")                                                           |
+| bfi                 |           |           | BHO | British Sign Language                | [英國手語](../Page/英國手語.md "wikilink")                                                                              |
 | bfj                 |           |           | BFJ | Bafanji                              |                                                                                                                 |
 | bfk                 |           |           | BLA | Ban Khor Sign Language               |                                                                                                                 |
 | bfl                 |           |           | BFL | Banda-Ndélé                          |                                                                                                                 |

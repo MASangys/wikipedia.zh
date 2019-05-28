@@ -212,21 +212,21 @@ Eunhyuk的的官方MV列表](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink
 <td><p>2014年</p></td>
 <td><p>9月1日</p></td>
 <td><p>Mamacita</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a>》<small>（A、B版）</small></p></td>
+<td><p>《<a href="../Page/Mamacita.md" title="wikilink">Mamacita</a>》<small>（A、B版）</small></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=q_krT35dgDM">Music Video</a><br />
 <a href="https://www.youtube.com/watch?v=TYiIpocQxL8">Drama Version</a></p></td>
 </tr>
 <tr class="even">
 <td><p>10月22日</p></td>
 <td><p>This Is Love</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">This Is Love</a>》<small>（《Mamacita》C版）</small></p></td>
+<td><p>《<a href="../Page/Mamacita.md" title="wikilink">This Is Love</a>》<small>（《Mamacita》C版）</small></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=utmykx9RUEw">Music Video</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>10月27日</p></td>
 <td><p>Evanesce</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">This Is Love</a>》<small>（《Mamacita》C版）</small></p></td>
+<td><p>《<a href="../Page/Mamacita.md" title="wikilink">This Is Love</a>》<small>（《Mamacita》C版）</small></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=dzhOqwF8qHg&amp;">Music Video</a></p></td>
 <td></td>
 </tr>
@@ -255,13 +255,13 @@ Eunhyuk的的官方MV列表](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink
 <td><p>2017年</p></td>
 <td><p>10月31日</p></td>
 <td><p>One More Chance</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Play_(Super_Junior專輯)" title="wikilink">Play</a>》</p></td>
+<td><p>《<a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">Play</a>》</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=-UROg0lsqW0">Music Video</a></p></td>
 </tr>
 <tr class="even">
 <td><p>11月6日</p></td>
 <td><p>Black Suit</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Play_(Super_Junior專輯)" title="wikilink">Play</a>》</p></td>
+<td><p>《<a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">Play</a>》</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=MvqB6JsRbsc">Music Video</a></p></td>
 <td></td>
 </tr>
@@ -269,13 +269,13 @@ Eunhyuk的的官方MV列表](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink
 <td><p>2018年</p></td>
 <td><p>3月23日</p></td>
 <td><p>Super Duper</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Play_(Super_Junior專輯)" title="wikilink">Replay</a>》</p></td>
+<td><p>《<a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">Replay</a>》</p></td>
 <td><p><a href="https://m.youtube.com/watch?v=543BTXonDIw">Music Video</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4月12日</p></td>
 <td><p>Lo Siento (Feat.Leslie Grace)</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Play_(Super_Junior專輯)" title="wikilink">Replay</a>》</p></td>
+<td><p>《<a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">Replay</a>》</p></td>
 <td><p><a href="https://m.youtube.com/watch?v=ZbB4SYJNuTo">Music Video</a></p></td>
 <td></td>
 </tr>
@@ -685,7 +685,7 @@ Eunhyuk的的官方MV列表](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink
 <tr class="even">
 <td><p>10月31日</p></td>
 <td><p>《Maxstep》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/银赫" title="wikilink">银赫</a>、<a href="https://zh.wikipedia.org/wiki/孝渊" title="wikilink">孝渊</a>、<a href="../Page/泰民.md" title="wikilink">泰民</a>、<a href="../Page/劉憲華.md" title="wikilink">Henry</a>、<a href="https://zh.wikipedia.org/wiki/KAI" title="wikilink">KAI</a>、<a href="https://zh.wikipedia.org/wiki/鹿晗" title="wikilink">鹿晗</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/银赫" title="wikilink">银赫</a>、<a href="https://zh.wikipedia.org/wiki/孝渊" title="wikilink">孝渊</a>、<a href="../Page/泰民.md" title="wikilink">泰民</a>、<a href="../Page/劉憲華.md" title="wikilink">Henry</a>、<a href="https://zh.wikipedia.org/wiki/KAI" title="wikilink">KAI</a>、<a href="../Page/鹿晗.md" title="wikilink">鹿晗</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/银赫" title="wikilink">银赫</a></p></td>
 <td><p>《PYL Younique Vol.1》</p></td>
 <td></td>

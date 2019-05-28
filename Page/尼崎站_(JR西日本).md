@@ -56,7 +56,7 @@
 <tr class="even">
 <td><p>5、6</p></td>
 <td><p>JR京都線</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大阪站" title="wikilink">大阪</a>、<a href="https://zh.wikipedia.org/wiki/新大阪站" title="wikilink">新大阪</a>、<a href="https://zh.wikipedia.org/wiki/高槻站" title="wikilink">高槻方向</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪站" title="wikilink">大阪</a>、<a href="https://zh.wikipedia.org/wiki/新大阪站" title="wikilink">新大阪</a>、<a href="../Page/高槻站.md" title="wikilink">高槻方向</a></p></td>
 <td><p>快速、普通</p></td>
 </tr>
 <tr class="odd">
@@ -166,7 +166,7 @@
         快速
 
           -
-            [加島](https://zh.wikipedia.org/wiki/加島站 "wikilink")（JR-H48）－**尼崎（JR-H49/JR-G49）**－（塚口（JR-G50）、伊丹（JR-G52））
+            [加島](../Page/加島站.md "wikilink")（JR-H48）－**尼崎（JR-H49/JR-G49）**－（塚口（JR-G50）、伊丹（JR-G52））
 
         直通快速（途經[大阪東線](../Page/大阪東線.md "wikilink")）
 

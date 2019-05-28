@@ -374,7 +374,7 @@ ONE登場的第23集之後，更是轉換成以演員宮内洋的魅力為中心
 <td><p>4カード</p></td>
 <td><p>切り札はJAKQ</p></td>
 <td><ul>
-<li>デビルキラー（声：<a href="https://zh.wikipedia.org/wiki/飯塚昭三" title="wikilink">飯塚昭三</a>）</li>
+<li>デビルキラー（声：<a href="../Page/飯塚昭三.md" title="wikilink">飯塚昭三</a>）</li>
 </ul></td>
 <td><p>上原正三</p></td>
 </tr>

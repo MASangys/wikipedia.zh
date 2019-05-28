@@ -1,4 +1,4 @@
-**APA格式**是一個為廣泛接受的研究論文撰寫格式，特別針對[社會科學領域的研究](https://zh.wikipedia.org/wiki/社會科學 "wikilink")，規範學術文獻的[引用和](../Page/引用.md "wikilink")[參考文獻的撰寫方法](https://zh.wikipedia.org/wiki/參考文獻 "wikilink")，以及[表格](https://zh.wikipedia.org/wiki/表格 "wikilink")、[圖表](https://zh.wikipedia.org/wiki/圖表 "wikilink")、[註腳和](https://zh.wikipedia.org/wiki/註腳 "wikilink")[附錄的編排方式](https://zh.wikipedia.org/wiki/附錄 "wikilink")。
+**APA格式**是一個為廣泛接受的研究論文撰寫格式，特別針對[社會科學領域的研究](https://zh.wikipedia.org/wiki/社會科學 "wikilink")，規範學術文獻的[引用和](../Page/引用.md "wikilink")[參考文獻的撰寫方法](../Page/參考文獻.md "wikilink")，以及[表格](https://zh.wikipedia.org/wiki/表格 "wikilink")、[圖表](https://zh.wikipedia.org/wiki/圖表 "wikilink")、[註腳和](https://zh.wikipedia.org/wiki/註腳 "wikilink")[附錄的編排方式](https://zh.wikipedia.org/wiki/附錄 "wikilink")。
 
 正式來說，APA格式指的就是[美國心理學會](https://zh.wikipedia.org/wiki/美國心理學會 "wikilink")（**A**merican
 **P**sychological **A**ssociation）出版的《美國心理協會刊物準則》，目前已出版至第六版（ISBN

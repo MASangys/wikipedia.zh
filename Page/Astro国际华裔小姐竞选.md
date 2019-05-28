@@ -175,11 +175,11 @@ Astro Chinese International Pageant)。
 <tr class="odd">
 <td><p><strong>2005年</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/江佩莹" title="wikilink">江佩莹</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林佩琦" title="wikilink">林佩琦</a></p></td>
+<td><p><a href="../Page/林佩琦.md" title="wikilink">林佩琦</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/林苑君" title="wikilink">林苑君</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/江佩莹" title="wikilink">江佩莹</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林佩琦" title="wikilink">林佩琦</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林佩琦" title="wikilink">林佩琦</a></p></td>
+<td><p><a href="../Page/林佩琦.md" title="wikilink">林佩琦</a></p></td>
+<td><p><a href="../Page/林佩琦.md" title="wikilink">林佩琦</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/康敏君" title="wikilink">康敏君</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/戴淑怡" title="wikilink">戴淑怡</a></p></td>
 <td><p>第四名: <a href="https://zh.wikipedia.org/wiki/康敏君" title="wikilink">康敏君</a><br />
@@ -199,7 +199,7 @@ Astro Chinese International Pageant)。
 </tr>
 <tr class="odd">
 <td><p><strong>2007年</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尤凤音" title="wikilink">尤凤音</a></p></td>
+<td><p><a href="../Page/尤凤音.md" title="wikilink">尤凤音</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/丘婉铤" title="wikilink">丘婉铤</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/潘碧宁" title="wikilink">潘碧宁</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/林嘉妮" title="wikilink">林嘉妮</a></p></td>
@@ -323,15 +323,15 @@ LifeTV网络投选我最喜爱佳丽獎: <a href="https://zh.wikipedia.org/wiki/
 </tr>
 <tr class="even">
 <td><p><strong>2016年</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林宣妤" title="wikilink">林宣妤</a></p></td>
+<td><p><a href="../Page/林宣妤.md" title="wikilink">林宣妤</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/程爱玲" title="wikilink">程爱玲</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/徐苑绮" title="wikilink">徐苑绮</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林宣妤" title="wikilink">林宣妤</a></p></td>
+<td><p><a href="../Page/林宣妤.md" title="wikilink">林宣妤</a></p></td>
 <td><p>-</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/程爱玲" title="wikilink">程爱玲</a></p></td>
 <td><p>-</p></td>
 <td></td>
-<td><p>殿軍：<a href="https://zh.wikipedia.org/wiki/苏凯璇" title="wikilink">苏凯璇</a> 全民女神: <a href="https://zh.wikipedia.org/wiki/林宣妤" title="wikilink">林宣妤</a></p></td>
+<td><p>殿軍：<a href="https://zh.wikipedia.org/wiki/苏凯璇" title="wikilink">苏凯璇</a> 全民女神: <a href="../Page/林宣妤.md" title="wikilink">林宣妤</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2017年</strong></p></td>
@@ -509,7 +509,7 @@ LifeTV网络投选我最喜爱佳丽獎: <a href="https://zh.wikipedia.org/wiki/
 <tr class="odd">
 <td><p><strong>2005年</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/曾燕平" title="wikilink">曾燕平</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林佩琦" title="wikilink">林佩琦</a></p></td>
+<td><p><a href="../Page/林佩琦.md" title="wikilink">林佩琦</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/林淑玲" title="wikilink">林淑玲</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/戴淑怡" title="wikilink">戴淑怡</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/林岫英" title="wikilink">林岫英</a></p></td>
@@ -541,7 +541,7 @@ LifeTV网络投选我最喜爱佳丽獎: <a href="https://zh.wikipedia.org/wiki/
 <tr class="odd">
 <td><p><strong>2007年</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/郑淑萍" title="wikilink">郑淑萍</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尤凤音" title="wikilink">尤凤音</a></p></td>
+<td><p><a href="../Page/尤凤音.md" title="wikilink">尤凤音</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/潘碧宁" title="wikilink">潘碧宁</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/连碧鸾" title="wikilink">连碧鸾</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/马舒鸾" title="wikilink">马舒鸾</a></p></td>
@@ -686,7 +686,7 @@ LifeTV网络投选我最喜爱佳丽獎: <a href="https://zh.wikipedia.org/wiki/
 </tr>
 <tr class="even">
 <td><p><strong>2016年</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林宣妤" title="wikilink">林宣妤</a></p></td>
+<td><p><a href="../Page/林宣妤.md" title="wikilink">林宣妤</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/程爱玲" title="wikilink">程爱玲</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/罗安妮" title="wikilink">罗安妮</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/苏诗僡" title="wikilink">苏诗僡</a></p></td>
@@ -770,7 +770,7 @@ LifeTV网络投选我最喜爱佳丽獎: <a href="https://zh.wikipedia.org/wiki/
 |           |                                                     |                        |
 | **2006年** | [江佩莹](https://zh.wikipedia.org/wiki/江佩莹 "wikilink") | 季军, 友谊小姐               |
 | **2007年** | [林秀婷](https://zh.wikipedia.org/wiki/林秀婷 "wikilink") | \-                     |
-| **2008年** | [尤凤音](https://zh.wikipedia.org/wiki/尤凤音 "wikilink") | \-                     |
+| **2008年** | [尤凤音](../Page/尤凤音.md "wikilink")                    | \-                     |
 | **2009年** | [谭嘉丽](https://zh.wikipedia.org/wiki/谭嘉丽 "wikilink") | \-                     |
 |           |                                                     |                        |
 | **2010年** | [陈美妤](https://zh.wikipedia.org/wiki/陈美妤 "wikilink") | 亚军, 中华俪影小姐             |
@@ -783,7 +783,7 @@ LifeTV网络投选我最喜爱佳丽獎: <a href="https://zh.wikipedia.org/wiki/
 | **2015年** | [许愫恩](https://zh.wikipedia.org/wiki/许愫恩 "wikilink") | 五强之一, 最佳民族服装演绎         |
 | **2016年** | [鍾素敏](https://zh.wikipedia.org/wiki/鍾素敏 "wikilink") | \-                     |
 |           |                                                     |                        |
-| **2017年** | [林宣妤](https://zh.wikipedia.org/wiki/林宣妤 "wikilink") | 亞軍, 馬來西亞風情大獎           |
+| **2017年** | [林宣妤](../Page/林宣妤.md "wikilink")                    | 亞軍, 馬來西亞風情大獎           |
 | **2018年** | [郑亦庭](https://zh.wikipedia.org/wiki/郑亦庭 "wikilink") | \-                     |
 | **2019年** | [彭嘉伊](https://zh.wikipedia.org/wiki/彭嘉伊 "wikilink") | \-                     |
 |           |                                                     |                        |
@@ -809,11 +809,11 @@ LifeTV网络投选我最喜爱佳丽獎: <a href="https://zh.wikipedia.org/wiki/
 | **2011年** | 云顶云星剧场                                                | [林德荣](../Page/林德荣.md "wikilink")、[郑靖婷](https://zh.wikipedia.org/wiki/郑靖婷 "wikilink")                                                                                                                                                      | [詹瑞文](../Page/詹瑞文.md "wikilink")                                                                                                                                                                                                                               |
 | **2012年** | 云顶云星剧场                                                | [林德荣](../Page/林德荣.md "wikilink")、[郑靖婷](https://zh.wikipedia.org/wiki/郑靖婷 "wikilink")、[陈志康](https://zh.wikipedia.org/wiki/陈志康\(My_fm_DJ\) "wikilink")、[颜薇恩](https://zh.wikipedia.org/wiki/颜薇恩 "wikilink")、[温慧茵](../Page/温慧茵.md "wikilink") | [伍咏薇](https://zh.wikipedia.org/wiki/伍咏薇 "wikilink")                                                                                                                                                                                                            |
 | **2013年** | Zebra Square Kuala Lumpur                             | [陈浩然](https://zh.wikipedia.org/wiki/陈浩然\(My_fm_DJ\) "wikilink")、[颜薇恩](https://zh.wikipedia.org/wiki/颜薇恩 "wikilink")、[温慧茵](../Page/温慧茵.md "wikilink")、[林家冰](../Page/林家冰.md "wikilink")、[李惠伶](https://zh.wikipedia.org/wiki/李惠伶 "wikilink") |                                                                                                                                                                                                                                                                |
-| **2014年** | Mega Star Arena Kuala Lumpur                          | [颜江瀚](https://zh.wikipedia.org/wiki/颜江瀚 "wikilink")、[萧慧敏](https://zh.wikipedia.org/wiki/萧慧敏 "wikilink")、[温慧茵](../Page/温慧茵.md "wikilink")                                                                                                  | [李世平](https://zh.wikipedia.org/wiki/李世平 "wikilink")、[颜慧萍](https://zh.wikipedia.org/wiki/颜慧萍 "wikilink")、[赵洁莹](https://zh.wikipedia.org/wiki/赵洁莹 "wikilink")、[赖淞凤](../Page/赖淞凤.md "wikilink")、[徐凯](https://zh.wikipedia.org/wiki/徐凯 "wikilink")                 |
+| **2014年** | Mega Star Arena Kuala Lumpur                          | [颜江瀚](https://zh.wikipedia.org/wiki/颜江瀚 "wikilink")、[萧慧敏](../Page/萧慧敏.md "wikilink")、[温慧茵](../Page/温慧茵.md "wikilink")                                                                                                                     | [李世平](https://zh.wikipedia.org/wiki/李世平 "wikilink")、[颜慧萍](https://zh.wikipedia.org/wiki/颜慧萍 "wikilink")、[赵洁莹](https://zh.wikipedia.org/wiki/赵洁莹 "wikilink")、[赖淞凤](../Page/赖淞凤.md "wikilink")、[徐凯](https://zh.wikipedia.org/wiki/徐凯 "wikilink")                 |
 | **2015年** | Mega Star Arena Kuala Lumpur                          | [陈志康](https://zh.wikipedia.org/wiki/陈志康\(My_DJ_Royce\) "wikilink")、[温慧茵](../Page/温慧茵.md "wikilink")                                                                                                                                       | [Josh Kua 柯信捷](https://zh.wikipedia.org/wiki/Josh_Kua_柯信捷 "wikilink")、[徐凯](https://zh.wikipedia.org/wiki/徐凯 "wikilink")、[Daniel 丹尼尔](https://zh.wikipedia.org/wiki/Daniel_丹尼尔 "wikilink")                                                                      |
 | **2016年** | Mega Star Arena Kuala Lumpur                          | [陈浩然](https://zh.wikipedia.org/wiki/陈浩然\(My_fm_DJ\) "wikilink")、[林盛斌](../Page/林盛斌.md "wikilink")                                                                                                                                          | [陈凯琳](https://zh.wikipedia.org/wiki/陈凯琳 "wikilink")、[Juwei Teoh](https://zh.wikipedia.org/wiki/Juwei_Teoh "wikilink")、[吳俐璇](../Page/吳俐璇.md "wikilink")、[林佩盈](https://zh.wikipedia.org/wiki/林佩盈 "wikilink")、[陳泳錦](https://zh.wikipedia.org/wiki/陳泳錦 "wikilink") |
-| **2017年** | Menara PGRM                                           | [陈浩然](https://zh.wikipedia.org/wiki/陈浩然\(My_fm_DJ\) "wikilink")、[林震前](https://zh.wikipedia.org/wiki/林震前 "wikilink")                                                                                                                       | [杜汶泽](https://zh.wikipedia.org/wiki/杜汶泽 "wikilink")、[周柏豪](../Page/周柏豪.md "wikilink")、[赖淞凤](../Page/赖淞凤.md "wikilink")、[钟瑾桦](https://zh.wikipedia.org/wiki/钟瑾桦 "wikilink")                                                                                      |
-| **2018年** | 国际贸易与展览中心                                             | [陈志康](https://zh.wikipedia.org/wiki/陈志康\(My_DJ_Royce\) "wikilink") 、[萧慧敏](https://zh.wikipedia.org/wiki/萧慧敏 "wikilink")                                                                                                                   | [李津梅](https://zh.wikipedia.org/wiki/李津梅 "wikilink")、[林德荣](../Page/林德荣.md "wikilink")、[劉心悠](../Page/劉心悠.md "wikilink")、[陈炯江](https://zh.wikipedia.org/wiki/陈炯江 "wikilink")、[杨雁雁](https://zh.wikipedia.org/wiki/杨雁雁 "wikilink")                                  |
+| **2017年** | Menara PGRM                                           | [陈浩然](https://zh.wikipedia.org/wiki/陈浩然\(My_fm_DJ\) "wikilink")、[林震前](https://zh.wikipedia.org/wiki/林震前 "wikilink")                                                                                                                       | [杜汶泽](https://zh.wikipedia.org/wiki/杜汶泽 "wikilink")、[周柏豪](../Page/周柏豪.md "wikilink")、[赖淞凤](../Page/赖淞凤.md "wikilink")、[钟瑾桦](../Page/钟瑾桦.md "wikilink")                                                                                                         |
+| **2018年** | 国际贸易与展览中心                                             | [陈志康](https://zh.wikipedia.org/wiki/陈志康\(My_DJ_Royce\) "wikilink") 、[萧慧敏](../Page/萧慧敏.md "wikilink")                                                                                                                                      | [李津梅](https://zh.wikipedia.org/wiki/李津梅 "wikilink")、[林德荣](../Page/林德荣.md "wikilink")、[劉心悠](../Page/劉心悠.md "wikilink")、[陈炯江](https://zh.wikipedia.org/wiki/陈炯江 "wikilink")、[杨雁雁](https://zh.wikipedia.org/wiki/杨雁雁 "wikilink")                                  |
 |           |                                                       |                                                                                                                                                                                                                                           |                                                                                                                                                                                                                                                                |
 
 ## 参见

@@ -127,7 +127,7 @@ iOS提供各種輔助功能，以協助有視力和聽力障礙的用戶。有�
 7的發布而推出作為](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")「iPhone專用」計劃的一部分，蘋果公司開發了使用[藍牙和一種特殊的技術協議](../Page/藍牙.md "wikilink")，讓iPhone和iPad能夠連接兼容的第三方配件，使流式音頻能夠直接傳送到用戶的耳朵。額外定制適用於「iPhone專用」的產品包括電池跟踪及適用於不同環境的可調聲音設置\[73\]\[74\]。蘋果公司為2016年發布[iOS
 10進一步努力實現其輔助功能](https://zh.wikipedia.org/wiki/iOS_10 "wikilink")，VoiceOver上加入新的發音編輯器，以及加入透過裝置上的相機來實現放大鏡的功能，聽障人士可通過電信設備的軟件（TTY）在iPhone上撥打電話，並為第三方開發人員提供教程和指南，以便將適當的輔助功能合併到他們的應用程式當中\[75\]。
 
-《[大西洋](https://zh.wikipedia.org/wiki/大西洋_\(雜誌\) "wikilink")》的利亞·科爾諾斯基（Liat
+《[大西洋](../Page/大西洋_\(雜誌\).md "wikilink")》的利亞·科爾諾斯基（Liat
 Kornowski）寫道：「自[點字的發明以來](https://zh.wikipedia.org/wiki/點字 "wikilink")，iPhone已經成為最具革命性的發展之一\[76\]
 」；2016年，《[TechCrunch](../Page/TechCrunch.md "wikilink")》的史蒂芬·阿基諾（Steven
 Aquino）形容蘋果公司正「引領輔助技術的方式」；蘋果公司的全球無障礙政策和倡議高級經理的莎拉·客林格爾（Sarah
@@ -365,7 +365,7 @@ Jailbreak）」，裝置將於重啟後失去越獄環境，需要用特定的�
 
 ## 數碼版權管理
 
-iOS的封閉性和專有性質引起了不少批評，特別是[數碼權利的倡導者](https://zh.wikipedia.org/wiki/数字权利 "wikilink")，例如是[電子前哨基金會](https://zh.wikipedia.org/wiki/電子前哨基金會 "wikilink")、電腦工程師和維權人士[布魯斯特·卡利](https://zh.wikipedia.org/wiki/布魯斯特·卡利 "wikilink")、互聯網法律專家[喬納森·齊特林](https://zh.wikipedia.org/wiki/喬納森·齊特林 "wikilink")、和舉辦抗議iPad介紹活動以及針對iPad的活動《[設計式缺陷](https://zh.wikipedia.org/wiki/設計式缺陷 "wikilink")》之[自由軟件基金會](https://zh.wikipedia.org/wiki/自由軟件基金會 "wikilink")\[170\]\[171\]\[172\]\[173\]。蘋果公司的競爭對手[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")，透過！其公關發言人批評蘋果公司對其平台所作的控制\[174\]。
+iOS的封閉性和專有性質引起了不少批評，特別是[數碼權利的倡導者](https://zh.wikipedia.org/wiki/数字权利 "wikilink")，例如是[電子前哨基金會](https://zh.wikipedia.org/wiki/電子前哨基金會 "wikilink")、電腦工程師和維權人士[布魯斯特·卡利](../Page/布魯斯特·卡利.md "wikilink")、互聯網法律專家[喬納森·齊特林](https://zh.wikipedia.org/wiki/喬納森·齊特林 "wikilink")、和舉辦抗議iPad介紹活動以及針對iPad的活動《[設計式缺陷](https://zh.wikipedia.org/wiki/設計式缺陷 "wikilink")》之[自由軟件基金會](https://zh.wikipedia.org/wiki/自由軟件基金會 "wikilink")\[170\]\[171\]\[172\]\[173\]。蘋果公司的競爭對手[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")，透過！其公關發言人批評蘋果公司對其平台所作的控制\[174\]。
 
 問題是iOS的設計所施加的限制，即[數碼權利管理](../Page/数字版权管理.md "wikilink")（DRM）旨在蘋果公司的平台上鎖定已購買的媒體，其發展模式（需要每年訂閱以分發為iOS開發的應用程式），應用程式的集中審批流程，以及蘋果公司對其平台的一般控制和平台本身的鎖定。特別值得一提的是，蘋果公司有能力隨意透過遠程禁用或刪除應用程序。
 
@@ -429,7 +429,7 @@ iOS鑰匙圈是一個登錄資料的[數據庫](https://zh.wikipedia.org/wiki/�
 ### 應用程式保安
 
 第三方應用程式例如那些通過App
-Store分發的，必須獲得蘋果公司所頒發的[證書進行代碼簽署](../Page/公開金鑰認證.md "wikilink")。如上所述，用戶在裝置上安裝的應用程式的操作，這從安全啟動過程一直延續到[信任鏈](https://zh.wikipedia.org/wiki/信任鏈 "wikilink")。應用程式也經過[沙盒處理](../Page/沙盒_\(電腦安全\).md "wikilink")，這意味著他們只能修改其各個[主目錄中的數據](https://zh.wikipedia.org/wiki/家目錄 "wikilink")，除非是明確授予其他權限。例如，他們無法進入裝置上由其他用戶安裝應用程式的數據。iOS中包含一系列非常廣泛的隱私控制，當中可以選擇控制應用程式進入各種權限的能力，例如相機、聯絡人、背景應用程式更新、蜂窩數據、並進入其他數據及服務。iOS中的大多數代碼，包括第三方應用程式，會以沒有[root權限的](../Page/超级用户.md "wikilink")「流動」用戶運作。這確保了系統文件和其他iOS系統資源保持在隱藏的狀態，並且用戶所安裝的應用程式無法進入\[189\]。
+Store分發的，必須獲得蘋果公司所頒發的[證書進行代碼簽署](../Page/公開金鑰認證.md "wikilink")。如上所述，用戶在裝置上安裝的應用程式的操作，這從安全啟動過程一直延續到[信任鏈](../Page/信任鏈.md "wikilink")。應用程式也經過[沙盒處理](../Page/沙盒_\(電腦安全\).md "wikilink")，這意味著他們只能修改其各個[主目錄中的數據](https://zh.wikipedia.org/wiki/家目錄 "wikilink")，除非是明確授予其他權限。例如，他們無法進入裝置上由其他用戶安裝應用程式的數據。iOS中包含一系列非常廣泛的隱私控制，當中可以選擇控制應用程式進入各種權限的能力，例如相機、聯絡人、背景應用程式更新、蜂窩數據、並進入其他數據及服務。iOS中的大多數代碼，包括第三方應用程式，會以沒有[root權限的](../Page/超级用户.md "wikilink")「流動」用戶運作。這確保了系統文件和其他iOS系統資源保持在隱藏的狀態，並且用戶所安裝的應用程式無法進入\[189\]。
 
 ### 網絡保安
 

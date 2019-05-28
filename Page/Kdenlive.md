@@ -7,7 +7,7 @@ release date =  | status = 活躍 | operating system =
 | language = 多語言 | website =  }}
 
 **Kdenlive**（KDE Non-Linear Video
-Editor）\[1\]\[2\]是一種基於[MLT框架](https://zh.wikipedia.org/wiki/Media_Lovin'_Toolkit "wikilink")、KDE和Qt的[自由开源的](../Page/自由及开放源代码软件.md "wikilink")[非線性影片編輯器](../Page/非線性剪輯.md "wikilink")，注重靈活性和易用性。
+Editor）\[1\]\[2\]是一種基於[MLT框架](../Page/Media_Lovin'_Toolkit.md "wikilink")、KDE和Qt的[自由开源的](../Page/自由及开放源代码软件.md "wikilink")[非線性影片編輯器](../Page/非線性剪輯.md "wikilink")，注重靈活性和易用性。
 該項目最初由Jason Wood在2002年開發 ，現在則有一個小團隊的開發人員。 \[3\] 随着Kdenlive
 15.04.0的发布，它成为官方KDE项目的一部分。\[4\]
 
@@ -19,7 +19,7 @@ Editor）\[1\]\[2\]是一種基於[MLT框架](https://zh.wikipedia.org/wiki/Medi
 0.7版後包括一些新的功能：一個現代的、簡約的界面基於[KDE的](../Page/KDE.md "wikilink")[Oxygen](https://zh.wikipedia.org/wiki/Oxygen "wikilink")、FireWire攝像機、webcam和Linux設備的影片擷取、從您的屏幕抓取影片、支持jog
 shuttle設備、高清晰度編輯和無損格式。\[7\]
 
-Kdenlive利用了一些框架，以提供一系列的音樂和影片效果和過場，包括[MLT](https://zh.wikipedia.org/wiki/MLT "wikilink")、Frei0r、[SOX和](https://zh.wikipedia.org/wiki/SOX "wikilink")[LADSPA](https://zh.wikipedia.org/wiki/LADSPA "wikilink")。
+Kdenlive利用了一些框架，以提供一系列的音樂和影片效果和過場，包括[MLT](https://zh.wikipedia.org/wiki/MLT "wikilink")、Frei0r、[SOX和](https://zh.wikipedia.org/wiki/SOX "wikilink")[LADSPA](../Page/LADSPA.md "wikilink")。
 
 **音效**包括正常化，相位和移調，限制，音量調節，混響和均衡濾波器等。
 
@@ -27,7 +27,7 @@ Kdenlive利用了一些框架，以提供一系列的音樂和影片效果和過
 
 ## 参见
 
-  - [視訊剪輯軟體列表](https://zh.wikipedia.org/wiki/視訊剪輯軟體列表 "wikilink")
+  - [視訊剪輯軟體列表](../Page/視訊剪輯軟體列表.md "wikilink")
 
 ## 參考文獻
 

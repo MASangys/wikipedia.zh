@@ -11,7 +11,7 @@ Today**》為[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "w
 | -- | ---- | --------------------------------------------------------------------- | ----- | -------------------------------------------------------------------------------------------------------------------------- |
 | 01 | 幸災樂禍 | [馮德倫](../Page/馮德倫.md "wikilink")                                      | 2003年 | [官方MV Youtube連結](http://www.youtube.com/watch?v=NV-fomDXAdQ)                                                               |
 | 03 | 十面埋伏 | \-                                                                    | 2003年 | [官方MV Youtube連結](http://www.youtube.com/watch?v=QGHB-5e37Fw)                                                               |
-| 08 | 猜情尋  | [高輝](https://zh.wikipedia.org/wiki/高輝 "wikilink")                     | 2003年 | [官方MV Youtube連結](http://www.youtube.com/watch?v=vFASUEFWvpY) [官方MV花絮Youtube連結](http://www.youtube.com/watch?v=MtZThPtSAU0) |
+| 08 | 猜情尋  | [高輝](../Page/高輝.md "wikilink")                                        | 2003年 | [官方MV Youtube連結](http://www.youtube.com/watch?v=vFASUEFWvpY) [官方MV花絮Youtube連結](http://www.youtube.com/watch?v=MtZThPtSAU0) |
 | 09 | 忘記歌詞 | [Edward Huang](https://zh.wikipedia.org/wiki/Edward_Huang "wikilink") | 2003年 | [官方MV Youtube連結](http://www.youtube.com/watch?v=aPF9nEL2fQ8)                                                               |
 | 11 | 歲月如歌 | [Edward Huang](https://zh.wikipedia.org/wiki/Edward_Huang "wikilink") | 2003年 | [官方MV Youtube連結](http://www.youtube.com/watch?v=pr5jo1HZOu0)                                                               |
 

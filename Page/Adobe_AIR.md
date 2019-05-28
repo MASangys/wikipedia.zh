@@ -91,7 +91,7 @@ SDK，任何网页编辑器都可以创建AIR应用。AIR自身使用[WebKit网�
   - [Microsoft
     Silverlight](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")
   - [JavaFX](../Page/JavaFX.md "wikilink")（[甲骨文公司](../Page/甲骨文公司.md "wikilink")）
-  - [XUL与](../Page/XUL.md "wikilink")[XULRunner](https://zh.wikipedia.org/wiki/XULRunner "wikilink")
+  - [XUL与](../Page/XUL.md "wikilink")[XULRunner](../Page/XULRunner.md "wikilink")
   - [Google
     Gears](https://zh.wikipedia.org/wiki/Google_Gears "wikilink")
 

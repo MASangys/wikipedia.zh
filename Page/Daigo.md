@@ -24,7 +24,7 @@ Shuffle](../Page/Love_Shuffle.md "wikilink")》中擔任重要角色，亦參與
   - 父親是[內藤武宣](https://zh.wikipedia.org/wiki/內藤武宣 "wikilink")，曾為[毎日新聞政治部記者](https://zh.wikipedia.org/wiki/毎日新聞 "wikilink")，後擔任[竹下登的秘書而開始政治生涯](../Page/竹下登.md "wikilink")。
   - 母親是內藤まる子（娘家姓：竹下），是[竹下登的二女](../Page/竹下登.md "wikilink")。
   - 有一位姊姊及一位哥哥，大七歲的姊姊是日本著名女性[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[影木榮貴](../Page/影木榮貴.md "wikilink")，大五歲的哥哥為一般上班族。
-  - 叔公是日本眾議院議員-{[竹下亘](https://zh.wikipedia.org/wiki/竹下亘 "wikilink")}-。(竹下亘是竹下登同父異母之弟)
+  - 叔公是日本眾議院議員-{[竹下亘](../Page/竹下亘.md "wikilink")}-。(竹下亘是竹下登同父異母之弟)
   - 2016年1月11日，DAIGO在個人部落格發表聲明，表示已和[北川景子提交結婚申請](../Page/北川景子.md "wikilink")。\[5\]\[6\]
 
 ## 唱片

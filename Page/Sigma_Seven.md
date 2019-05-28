@@ -4,7 +4,7 @@ Seven**（，）是[日本一家位於](../Page/日本.md "wikilink")[東京都]
 
 ## 概要
 
-1988年3月3日\[2\]，由[東京俳優生活協同組合（簡稱俳協）所屬聲優](../Page/東京俳優生活協同組合.md "wikilink")[槙大輔與](https://zh.wikipedia.org/wiki/槙大輔 "wikilink")等人成立。Sigma
+1988年3月3日\[2\]，由[東京俳優生活協同組合（簡稱俳協）所屬聲優](../Page/東京俳優生活協同組合.md "wikilink")[槙大輔與](../Page/槙大輔.md "wikilink")等人成立。Sigma
 Seven成立之後，主要業務是聲優經紀，之中以旁白解說員的比重逐漸較高，也有自由兼任播報員之經紀業務。
 
 Sigma Seven附有養成學校和子公司[Sigma Seven
@@ -17,10 +17,10 @@ Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，�
 
   - 第1回合格者：[高本惠](../Page/高本惠.md "wikilink")
   - 第2回合格者：[田丸篤志](../Page/田丸篤志.md "wikilink")、[野町祐太](../Page/野町祐太.md "wikilink")、相田琴美、[大龜明日香](../Page/大龜明日香.md "wikilink")、[西明日香](../Page/西明日香.md "wikilink")、、[淵上舞](https://zh.wikipedia.org/wiki/淵上舞 "wikilink")
-  - 第3回合格者：加藤賢二、[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")、丸島美穗、[森優子](https://zh.wikipedia.org/wiki/森優子 "wikilink")、[渡部紗弓](https://zh.wikipedia.org/wiki/渡部紗弓 "wikilink")
+  - 第3回合格者：加藤賢二、[瀨戶麻沙美](../Page/瀨戶麻沙美.md "wikilink")、丸島美穗、[森優子](../Page/森優子.md "wikilink")、[渡部紗弓](../Page/渡部紗弓.md "wikilink")
   - 第4回合格者：無
   - 第5回合格者：不明
-  - 第6回合格者：[市之瀨加那](https://zh.wikipedia.org/wiki/市之瀨加那 "wikilink")、清水紗羅、宮下早紀
+  - 第6回合格者：[市之瀨加那](../Page/市之瀨加那.md "wikilink")、清水紗羅、宮下早紀
 
 ## 所屬聲優
 
@@ -30,7 +30,7 @@ Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，�
 
 <!-- end list -->
 
-  - [飯塚昭三](https://zh.wikipedia.org/wiki/飯塚昭三 "wikilink")
+  - [飯塚昭三](../Page/飯塚昭三.md "wikilink")
 
   - [井上剛](../Page/井上剛.md "wikilink")
 
@@ -82,7 +82,7 @@ Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，�
   - [中村悠一](../Page/中村悠一.md "wikilink")
 
   -
-  - [根岸朗](https://zh.wikipedia.org/wiki/根岸朗 "wikilink")
+  - [根岸朗](../Page/根岸朗.md "wikilink")
 
   - [野島昭生](../Page/野島昭生.md "wikilink")
 
@@ -105,7 +105,7 @@ Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，�
 
 <!-- end list -->
 
-  - [槙大輔](https://zh.wikipedia.org/wiki/槙大輔 "wikilink")
+  - [槙大輔](../Page/槙大輔.md "wikilink")
 
   -
   - [松本保典](../Page/松本保典.md "wikilink")
@@ -261,7 +261,7 @@ Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，�
 <!-- end list -->
 
   - [渡邊久美子](../Page/渡邊久美子.md "wikilink")
-  - [渡邊智美](https://zh.wikipedia.org/wiki/渡邊智美 "wikilink")
+  - [渡邊智美](../Page/渡邊智美.md "wikilink")
   - 渡邊由里子
 
 ## 過往所屬聲優
@@ -275,13 +275,13 @@ Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，�
   - （引退）
 
   - （[自由職業](../Page/自由職業.md "wikilink")，[Max
-    Mix業務提攜](https://zh.wikipedia.org/wiki/Max_Mix "wikilink")）
+    Mix業務提攜](../Page/Max_Mix.md "wikilink")）
 
   - （自由職業）
 
   - （現所屬：[81 Produce](../Page/81_Produce.md "wikilink")）
 
-  - [大森章督](https://zh.wikipedia.org/wiki/大森章督 "wikilink")（現所屬：[Aksent](../Page/Aksent.md "wikilink")）
+  - [大森章督](../Page/大森章督.md "wikilink")（現所屬：[Aksent](../Page/Aksent.md "wikilink")）
 
   - （現所屬：[Beat One](https://www.beat-one.jp/)代表）
 
@@ -298,7 +298,7 @@ Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，�
 
   - [-{辻}-谷耕史](../Page/辻谷耕史.md "wikilink")（轉身成自由身之後死去）
 
-  - [中井將貴](https://zh.wikipedia.org/wiki/中井將貴 "wikilink")（自由職業）
+  - [中井將貴](../Page/中井將貴.md "wikilink")（自由職業）
 
   - [中原茂](../Page/中原茂.md "wikilink")（現所屬：[Local Dream
     Production](http://localdream.jp/)）
@@ -323,7 +323,7 @@ Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，�
   - 天野慶子（現所屬：[VORTEX](http://vortex-wine.com/)）
 
   - [石原夏織](../Page/石原夏織.md "wikilink")（現所屬：[Style
-    Cube](https://zh.wikipedia.org/wiki/Style_Cube "wikilink")）
+    Cube](../Page/Style_Cube.md "wikilink")）
 
   - （自由職業）
 
@@ -332,7 +332,7 @@ Seven在[東映特攝影集的相關業務上](../Page/東映.md "wikilink")，�
   - （現所屬：[賢Production](../Page/賢Production.md "wikilink")）
 
   - [小倉唯](../Page/小倉唯.md "wikilink")（現所屬：[CLARE
-    VOICE](https://zh.wikipedia.org/wiki/CLARE_VOICE "wikilink")）
+    VOICE](../Page/CLARE_VOICE.md "wikilink")）
 
   - （現所屬：PRECIOUS SMILE代表）
 

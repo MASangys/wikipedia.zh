@@ -43,14 +43,14 @@ Jazayeri宣佈Chrome的[HTML5播放器將和Chromium一樣](../Page/HTML5.md "wi
     Dragon](https://zh.wikipedia.org/wiki/Comodo_Dragon "wikilink")\[13\]：基于Chromium开发，除去了一些潜在威胁隐私的功能。
   - [360浏览器极速版](https://zh.wikipedia.org/wiki/360浏览器极速版 "wikilink")：基于Chromium开发，同时加入了IE内核引擎。
   - [猎豹浏览器](https://zh.wikipedia.org/wiki/猎豹浏览器 "wikilink")：基于Chromium开发，同时加入了IE内核引擎。
-  - [傲游浏览器](https://zh.wikipedia.org/wiki/傲游浏览器 "wikilink")：基于Chromium开发，同时加入了IE内核引擎。
+  - [傲游浏览器](../Page/傲游浏览器.md "wikilink")：基于Chromium开发，同时加入了IE内核引擎。
   - [七星浏览器](https://zh.wikipedia.org/wiki/七星浏览器 "wikilink")：基於Chromium開發，同時加入了IE核心引擎。外觀和楓樹瀏覽器類似。
   - [QQ浏览器](../Page/QQ浏览器.md "wikilink")：基于Chromium开发，针对IE内核优化。
   - [百度浏览器](../Page/百度浏览器.md "wikilink")：基于Chromium开发。
   - [UC浏览器](../Page/UC浏览器.md "wikilink")：基于Chromium开发。
   - [Amigo浏览器](https://zh.wikipedia.org/wiki/Amigo浏览器 "wikilink")：基于Chromium开发的俄语浏览器。
   - [旗鱼浏览器](https://zh.wikipedia.org/wiki/旗鱼浏览器 "wikilink")：基于Chromium开发。
-  - [红芯浏览器](https://zh.wikipedia.org/wiki/红芯 "wikilink")：基于Chromium开发。
+  - [红芯浏览器](../Page/红芯.md "wikilink")：基于Chromium开发。
   - [Vivaldi](../Page/Vivaldi_\(瀏覽器\).md "wikilink")：基於Chromium開發。
   - Samsung Internet Browser：基于Chromium开发,並加入廣告攔截功能。
 

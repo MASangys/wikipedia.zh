@@ -118,7 +118,7 @@ Big
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/丘思穎" title="wikilink">丘思穎</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/羅梓龍" title="wikilink">羅梓龍</a></p></td>
+<td><p><a href="../Page/羅梓龍.md" title="wikilink">羅梓龍</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/羅曉雯" title="wikilink">羅曉雯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/余恩驕" title="wikilink">余恩驕</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/許思語" title="wikilink">許思語</a></p></td>
@@ -227,7 +227,7 @@ Big
 ## 主題曲
 
   - 第一代《投投籃球》（2005年1月3日－2006年2月）
-      - 作曲：[張婉兒](https://zh.wikipedia.org/wiki/張婉兒 "wikilink")、作詞：[張婉兒](https://zh.wikipedia.org/wiki/張婉兒 "wikilink")、主唱：[鄧健泓](../Page/鄧健泓.md "wikilink")
+      - 作曲：[張婉兒](../Page/張婉兒.md "wikilink")、作詞：[張婉兒](../Page/張婉兒.md "wikilink")、主唱：[鄧健泓](../Page/鄧健泓.md "wikilink")
   - 第二代《放學ICU》（2006年2月－2013年5月10日）
       - 作曲：[葉肇中](../Page/葉肇中.md "wikilink")、作詞：[鄭櫻綸](../Page/鄭櫻綸.md "wikilink")、主唱：[馬浚偉](../Page/馬浚偉.md "wikilink")
   - 第三代《校鐘響起ICU》（2013年5月13日－2015年1月9日）
@@ -251,7 +251,7 @@ Big
   - **2014年7月1日**：由於直播《香港巨蛋音樂節2014》，改為15:30-16:00播出。
   - **2014年7月15日**：由於中途插播《政改記者會》，改為16:20-17:00及17:50-18:05播出。
   - **2014年9月1日**：由於中途插播《李飛記者會》，改為16:20-17:00及18:05-18:20播出。
-  - **2014年[雨傘行動期間](https://zh.wikipedia.org/wiki/雨傘革命 "wikilink")**，由於部份日子需插播《特別新聞報道》以直播紀律部隊記者會及政府跨部門記者會：
+  - **2014年[雨傘行動期間](../Page/雨傘革命.md "wikilink")**，由於部份日子需插播《特別新聞報道》以直播紀律部隊記者會及政府跨部門記者會：
       - **9月29日**：改為16:20-17:25播出。
       - **9月30日**：改為17:05-18:00播出（但技術問題，原第二節誤播第四節內容）。
       - **10月1日**：改為16:50-17:50播出。

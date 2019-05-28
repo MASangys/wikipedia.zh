@@ -73,7 +73,7 @@ SOFT發布首作以後](https://zh.wikipedia.org/wiki/Cocktail_soft "wikilink")�
   - 1998年2月6日 -
       - 2000年4月14日 - Natural Premium Package
       - 2000年5月26日 - [Natural2
-        -DUO-](https://zh.wikipedia.org/wiki/Natural2_-DUO- "wikilink")
+        -DUO-](../Page/Natural2_-DUO-.md "wikilink")
       - 2000年12月22日 -
   - 1998年11月20日 -
   - 1999年10月29日 -

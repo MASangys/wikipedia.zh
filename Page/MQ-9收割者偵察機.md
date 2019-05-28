@@ -60,13 +60,13 @@ MQ-9曾出現在下列的流行文化作品中：
   - [2006年](../Page/2006年.md "wikilink")-《[不可能的任務3](https://zh.wikipedia.org/wiki/不可能的任務3 "wikilink")》：被[私人軍事服務公司用來伏擊IMF小組](../Page/私人軍事服務公司.md "wikilink")，同時營救歐文戴維恩所使用。
   - [2008年](../Page/2008年.md "wikilink")-《[鷹眼](../Page/鷹眼_\(電影\).md "wikilink")》（Eagle
     Eye）：美國動作電影，劇中有出現受到人工智慧中央系統控制、隸屬於[美國空軍的MQ](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")-9攻擊主角一行人的情節。
-  - [2018年](../Page/2018年.md "wikilink")-《[拳力逃脫](https://zh.wikipedia.org/wiki/拳力逃脫 "wikilink")》：被[美國空軍用來空中支援與監控](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")[中央情報局特別活動科不存在的特工小組在印尼執行任務](https://zh.wikipedia.org/wiki/中央情報局特別活動科 "wikilink")。
+  - [2018年](../Page/2018年.md "wikilink")-《[拳力逃脫](../Page/拳力逃脫.md "wikilink")》：被[美國空軍用來空中支援與監控](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")[中央情報局特別活動科不存在的特工小組在印尼執行任務](https://zh.wikipedia.org/wiki/中央情報局特別活動科 "wikilink")。
 
 ## 相关条目
 
   - [MQ-1 捕食者侦察机](https://zh.wikipedia.org/wiki/MQ-1_捕食者侦察机 "wikilink")
   - [复仇者侦察机](https://zh.wikipedia.org/wiki/复仇者侦察机 "wikilink")
-  - [騰雲無人機](https://zh.wikipedia.org/wiki/騰雲無人機 "wikilink")
+  - [騰雲無人機](../Page/騰雲無人機.md "wikilink")
 
 ## 参考文献
 

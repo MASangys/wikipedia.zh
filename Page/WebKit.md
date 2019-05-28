@@ -133,7 +133,7 @@ port的WebKit也可使用在[Konqueror](../Page/Konqueror.md "wikilink")
 4.1版本之後\[58\]。在Qt底下的[Iris
 Browser也使用WebKit](https://zh.wikipedia.org/wiki/Iris_Browser "wikilink")。The
 Enlightenment Foundation Libraries
-(EFL)的移植還在進行（經由[Samsung及ProFUSION](https://zh.wikipedia.org/wiki/Samsung "wikilink")\[59\]），他們將專注在嵌入式及行動系統，並將其作為一個獨立運行的瀏覽器、Widgets/Gadgets、文件閱讀及修改軟體。[Clutter的移植是由](https://zh.wikipedia.org/wiki/Clutter_\(toolkit\) "wikilink")[Collabora所開放](https://zh.wikipedia.org/wiki/Collabora "wikilink")，由[Bosch所贊助](https://zh.wikipedia.org/wiki/Robert_Bosch_GmbH "wikilink")。
+(EFL)的移植還在進行（經由[Samsung及ProFUSION](https://zh.wikipedia.org/wiki/Samsung "wikilink")\[59\]），他們將專注在嵌入式及行動系統，並將其作為一個獨立運行的瀏覽器、Widgets/Gadgets、文件閱讀及修改軟體。[Clutter的移植是由](https://zh.wikipedia.org/wiki/Clutter_\(toolkit\) "wikilink")[Collabora所開放](../Page/Collabora.md "wikilink")，由[Bosch所贊助](https://zh.wikipedia.org/wiki/Robert_Bosch_GmbH "wikilink")。
 
 還有一個專案與WebKit同步（由Pleyo所贊助）\[60\]，被稱之為*[Origyn Web
 Browser](https://zh.wikipedia.org/wiki/Origyn_Web_Browser "wikilink")*，他提供了一個多元的移植方式，將其移植到抽象的平台，目的是讓移植到嵌入式或是輕量系統可以更快速簡單\[61\]。這個移植被使用在嵌入式裝置，例如[set-top
@@ -239,7 +239,7 @@ Chrome，Xfce的Midori，GNOME的Epiphany、KDE的Konqueror，Arora以及QupZill
 其2.0版开始采用Trident/WebKit双引擎。[86]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/傲游浏览器" title="wikilink">傲游浏览器</a></p></td>
+<td><p><a href="../Page/傲游浏览器.md" title="wikilink">傲游浏览器</a></p></td>
 <td><p>当前最新正式版5.1.6.3000。</p></td>
 </tr>
 <tr class="odd">

@@ -81,12 +81,11 @@ Crostini，一個計劃可以讓主流Linux的命令列和圖形使用介面的�
   -
   - [Goobuntu](../Page/Goobuntu.md "wikilink")
 
-  - [CoreOS](https://zh.wikipedia.org/wiki/CoreOS "wikilink")
+  - [CoreOS](../Page/CoreOS.md "wikilink")
 
   - [Firefox OS](../Page/Firefox_OS.md "wikilink")
 
-  - [Google
-    Fuchsia](https://zh.wikipedia.org/wiki/Google_Fuchsia "wikilink")
+  - [Google Fuchsia](../Page/Google_Fuchsia.md "wikilink")
 
 [Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink")
 [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")

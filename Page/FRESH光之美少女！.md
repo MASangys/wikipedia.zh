@@ -1413,7 +1413,7 @@ Peach。與來自「甜蜜王國」的塔多和希風、陸續變身成光之美
     [光之美少女 All Stars
     大家歌唱吧♪奇跡的魔法！](https://zh.wikipedia.org/wiki/光之美少女_All_Stars_大家歌唱吧♪奇跡的魔法！ "wikilink")
     [HUG！光之美少女♡光之美少女 All Stars
-    Memories](https://zh.wikipedia.org/wiki/HUG！光之美少女♡光之美少女_All_Stars_Memories "wikilink")
+    Memories](../Page/HUG！光之美少女♡光之美少女_All_Stars_Memories.md "wikilink")
 
 ## 註解
 

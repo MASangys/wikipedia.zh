@@ -133,8 +133,8 @@ ECMP)](../Page/等價多路徑路由.md "wikilink")，用來減少因網路擴�
   - Azure 智慧網路卡 (Azure SmartNIC)，它採用了
     [FPGA](https://zh.wikipedia.org/wiki/FPGA "wikilink") 晶片輔助 CPU
     進行網路流量的處理，可支援加密與遠端記憶體直接存取
-    ([RDMA](https://zh.wikipedia.org/wiki/远程直接内存访问 "wikilink")) 的功能，降低
-    RDMA 花費在 CPU 上的運算時間。
+    ([RDMA](../Page/远程直接内存访问.md "wikilink")) 的功能，降低 RDMA
+    花費在 CPU 上的運算時間。
   - 虛擬過濾平台 (Virtual Filtering Platform)，使用於 Azure Hyper-V 內的 VMSwitch
     元件，它可以在網路流量進入網路實體層前先進行處理，包括存取控制表、網路安全、虛擬網路與軟體負載平衡等作業，並且支援
     40GbE 以上的高速網路。
@@ -198,7 +198,7 @@ Azure 服務區域有分為三種：
 | 亞洲                                                | 印度南部                                                | West India           | Azure Cloud (Region 2) | [清奈](https://zh.wikipedia.org/wiki/清奈 "wikilink")                                                   |                                 |
 | 亞洲                                                | [中國東部](../Page/中國.md "wikilink")                    | China East           | Azure China            | [上海](https://zh.wikipedia.org/wiki/上海 "wikilink")                                                   | 由世紀互聯 (21Vianet) 代理營運           |
 | 亞洲                                                | 中國北部                                                | China North          | Azure China            | [北京](https://zh.wikipedia.org/wiki/北京 "wikilink")                                                   | 由世紀互聯 (21Vianet) 代理營運           |
-| 亞洲                                                | [韓國中部](https://zh.wikipedia.org/wiki/韓國 "wikilink") | Central Korea        | Azure Cloud (Region 2) | [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")                                                   |                                 |
+| 亞洲                                                | [韓國中部](https://zh.wikipedia.org/wiki/韓國 "wikilink") | Central Korea        | Azure Cloud (Region 2) | [首爾](../Page/首爾.md "wikilink")                                                                      |                                 |
 | 亞洲                                                | 韓國南部                                                | South Korea          | Azure Cloud (Region 2) | [釜山](https://zh.wikipedia.org/wiki/釜山 "wikilink")                                                   |                                 |
 | [大洋洲](../Page/大洋洲.md "wikilink")                  | [澳洲東部](https://zh.wikipedia.org/wiki/澳洲 "wikilink") | Australia East       | Azure Cloud (Region 2) | [新南威爾斯](https://zh.wikipedia.org/wiki/新南威爾斯 "wikilink")                                             |                                 |
 | 大洋洲                                               | 澳洲東南部                                               | Australia Southeast  | Azure Cloud (Region 2) | [維多利亞](https://zh.wikipedia.org/wiki/維多利亞 "wikilink")                                               |                                 |
@@ -258,9 +258,8 @@ Machine) 所組成的服務群，其主要功能是提供 CPU、記憶體等具�
       - Service Fabric: 提供標準的作業系統映像，開發人員可使用 Azure Service Fabric SDK
         開發微服務 (Microservice) 應用程式，可視為下一代的 Azure Cloud Service。
       - Azure Kubernetes Service (AKS): 提供以
-        [Docker](https://zh.wikipedia.org/wiki/Docker "wikilink")
-        容器格式為基礎，並由微軟維運
-        [Kubernetes](https://zh.wikipedia.org/wiki/Kubernetes "wikilink")
+        [Docker](../Page/Docker.md "wikilink") 容器格式為基礎，並由微軟維運
+        [Kubernetes](../Page/Kubernetes.md "wikilink")
         叢集，用以支援容器部署，調度與管理功能。
       - Azure Application Services，提佈署網頁應用程式的 Web Apps, 以及具無伺服器
         (Serverless) 應用開發能力的 Logic Apps 與 Functions 服務。
@@ -346,7 +345,7 @@ Directory](../Page/Active_Directory.md "wikilink")
 不易用於網際網路與行動裝置環境上身分驗證，因此微軟提供
 Azure AD Connect 服務以處理 Windows Server Active Directory \<-\> Azure
 Active Directory 的帳戶同步功能。Azure AD
-也提供了[多重要素驗證](https://zh.wikipedia.org/wiki/多重要素驗證 "wikilink")
+也提供了[多重要素驗證](../Page/多重要素驗證.md "wikilink")
 (Multi-Factor Authentication) 能力以支援需要多重方法驗證的應用，Azure AD
 的應用程式連結功能則提供了軟體服務 (SaaS) 整合所需的身份驗證能力。
 

@@ -20,14 +20,14 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/北海道.md" title="wikilink">北海道</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/NHK札幌放送局" title="wikilink">札幌</a></strong>※</p></td>
+<td><p><strong><a href="../Page/NHK札幌放送局.md" title="wikilink">札幌</a></strong>※</p></td>
 <td><p>JOIK-FM</p></td>
 <td><p>85.2</p></td>
 <td><p>5k</p></td>
 <td><p>1962年12月2日</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/NHK函館放送局" title="wikilink">函館</a>※</p></td>
+<td><p><a href="../Page/NHK函館放送局.md" title="wikilink">函館</a>※</p></td>
 <td><p>JOVK-FM</p></td>
 <td><p>87.0</p></td>
 <td><p>250</p></td>
@@ -35,7 +35,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/NHK旭川放送局" title="wikilink">旭川</a>※</p></td>
+<td><p><a href="../Page/NHK旭川放送局.md" title="wikilink">旭川</a>※</p></td>
 <td><p>JOCG-FM</p></td>
 <td><p>85.8</p></td>
 <td><p>500</p></td>
@@ -43,7 +43,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/NHK帶廣放送局" title="wikilink">帶廣</a>※</p></td>
+<td><p><a href="../Page/NHK帶廣放送局.md" title="wikilink">帶廣</a>※</p></td>
 <td><p>JOOG-FM</p></td>
 <td><p>87.5</p></td>
 <td><p>250</p></td>
@@ -51,7 +51,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/NHK釧路放送局" title="wikilink">釧路</a>※</p></td>
+<td><p><a href="../Page/NHK釧路放送局.md" title="wikilink">釧路</a>※</p></td>
 <td><p>JOPG-FM</p></td>
 <td><p>88.5</p></td>
 <td><p>250</p></td>
@@ -59,7 +59,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/NHK北見放送局" title="wikilink">北見</a>※（網走送信所）</p></td>
+<td><p><a href="../Page/NHK北見放送局.md" title="wikilink">北見</a>※（網走送信所）</p></td>
 <td><p>JOKP-FM</p></td>
 <td><p>86.0</p></td>
 <td><p>250</p></td>
@@ -67,7 +67,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/NHK室蘭放送局" title="wikilink">室蘭</a>※</p></td>
+<td><p><a href="../Page/NHK室蘭放送局.md" title="wikilink">室蘭</a>※</p></td>
 <td><p>JOIQ-FM</p></td>
 <td><p>88.0</p></td>
 <td><p>250</p></td>
@@ -83,7 +83,7 @@
 <td><p>1962年12月2日</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/NHK秋田放送局" title="wikilink">秋田</a>※</p></td>
+<td><p><a href="../Page/NHK秋田放送局.md" title="wikilink">秋田</a>※</p></td>
 <td><p>JOUK-FM</p></td>
 <td><p>86.7</p></td>
 <td><p>3k</p></td>
@@ -91,7 +91,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/NHK山形放送局" title="wikilink">山形</a>※</p></td>
+<td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a>※</p></td>
 <td><p>JOJG-FM</p></td>
 <td><p>82.1</p></td>
 <td><p>1k</p></td>
@@ -99,7 +99,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/NHK盛岡放送局" title="wikilink">盛岡</a>※</p></td>
+<td><p><a href="../Page/NHK盛岡放送局.md" title="wikilink">盛岡</a>※</p></td>
 <td><p>JOQG-FM</p></td>
 <td><p>83.1</p></td>
 <td><p>1k</p></td>
@@ -107,7 +107,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/NHK福島放送局" title="wikilink">福島</a>※</p></td>
+<td><p><a href="../Page/NHK福島放送局.md" title="wikilink">福島</a>※</p></td>
 <td><p>JOFP-FM</p></td>
 <td><p>85.3</p></td>
 <td><p>1k</p></td>
@@ -115,7 +115,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/NHK青森放送局" title="wikilink">青森</a>※</p></td>
+<td><p><a href="../Page/NHK青森放送局.md" title="wikilink">青森</a>※</p></td>
 <td><p>JOTG-FM</p></td>
 <td><p>86.0</p></td>
 <td><p>3k</p></td>

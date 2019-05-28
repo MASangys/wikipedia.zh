@@ -169,7 +169,7 @@ G Guide節目數據放送業務由<a href="https://zh.wikipedia.org/wiki/福井�
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/中京廣域圈" title="wikilink">中京廣域圈</a></p></td>
 <td><p><strong>CBC 5</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CBC电视台_(日本)" title="wikilink">CBC電視台</a></p></td>
+<td><p><a href="../Page/CBC电视台_(日本).md" title="wikilink">CBC電視台</a></p></td>
 <td><p>1956年12月1日</p></td>
 <td><p>2014年4月1日</p></td>
 <td><p>基幹局。2014年3月31日為止中部日本放送是牌照持有人。[8]1seg不顯示水印。</p></td>

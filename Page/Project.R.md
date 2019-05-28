@@ -42,7 +42,7 @@ Entertainment属下的其餘藝人之一](https://zh.wikipedia.org/wiki/Columbia
 ### 作詞家／作曲家
 
   - **Mike Sugiyama**
-      - 原名**杉山昭彦**，他是『[炎神戰隊轟音者](../Page/炎神戰隊轟音者.md "wikilink")』的作詞。他也是[IMAGINE屬下的動畫作曲家及編曲家](https://zh.wikipedia.org/wiki/IMAGINE "wikilink")。
+      - 原名**杉山昭彦**，他是『[炎神戰隊轟音者](../Page/炎神戰隊轟音者.md "wikilink")』的作詞。他也是[IMAGINE屬下的動畫作曲家及編曲家](../Page/IMAGINE.md "wikilink")。
   - **[大石憲一郎](https://zh.wikipedia.org/wiki/大石憲一郎 "wikilink")**（おおいし
     けんいちろう、1973年9月14日－）
       - [静岡縣出身](https://zh.wikipedia.org/wiki/静岡縣 "wikilink")。他是90年代中期著名的作曲家、編曲家、吉他手和鼓手。

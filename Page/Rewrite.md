@@ -7,7 +7,7 @@ Key 的第九部作品，於2011年6月24日發行於
 festa\!](../Page/Rewrite_Harvest_festa!.md "wikilink")》的[Fan
 disc来扩展故事情节](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")。《Rewrite》还被[移植到](https://zh.wikipedia.org/wiki/移植_\(軟體\) "wikilink")[PSP](../Page/PlayStation_Portable.md "wikilink")、[PSV和](../Page/PlayStation_Vita.md "wikilink")[PS3平台上](../Page/PlayStation_3.md "wikilink")。故事讲述的是拥有超能力的高中生天王寺瑚太朗和学校超自然研究會的五个女生一起调查風祭市的超自然现象，同时他也被卷入这场盖亚和守护者的的冲突之中，并和世界的命运联系在一起。
 
-和众多戀愛冒險遊戲一样，《Rewrite》有着多条分支剧情路线，男主角和六位女性角色的互动是该游戏的[游戏性所在](https://zh.wikipedia.org/wiki/游戏性 "wikilink")，除此之外，游戏中还添加[任务成就系统](https://zh.wikipedia.org/wiki/任务_\(电子游戏\) "wikilink")。该游戏在发行之后的一段时间里成为日本销量最高的PC游戏之一。游戏被改编为五卷[漫画](../Page/日本漫画.md "wikilink")，由
+和众多戀愛冒險遊戲一样，《Rewrite》有着多条分支剧情路线，男主角和六位女性角色的互动是该游戏的[游戏性所在](https://zh.wikipedia.org/wiki/游戏性 "wikilink")，除此之外，游戏中还添加[任务成就系统](../Page/任务_\(电子游戏\).md "wikilink")。该游戏在发行之后的一段时间里成为日本销量最高的PC游戏之一。游戏被改编为五卷[漫画](../Page/日本漫画.md "wikilink")，由
 [ASCII Media Works](../Page/ASCII_Media_Works.md "wikilink")
 和[一迅社出版](../Page/一迅社.md "wikilink")，此外也有出版相关的[漫畫選集](https://zh.wikipedia.org/wiki/漫畫選集 "wikilink")、[輕小說和音乐专辑](../Page/輕小說.md "wikilink")。2016年，動畫製作公司
 [8bit](../Page/8bit.md "wikilink")
@@ -28,7 +28,7 @@ CG
 Mappie 的地圖
 [app](https://zh.wikipedia.org/wiki/app "wikilink")，在某些情況下，玩家需要通過滑動和[單擊來使用這個地圖](https://zh.wikipedia.org/wiki/單擊 "wikilink")
 app 來控制玩家到達不同的地點\[6\]玩家通過 Mappie
-控制男主角經過不同的地點時，有一定機率會遇到其他一些次要角色，並與他們成爲朋友，同時有一定機率完成一些小[任務](https://zh.wikipedia.org/wiki/任务_\(电子游戏\) "wikilink")。這些朋友的名字以及完成的任務會記錄在「記憶」這個功能裏供玩家查看。如果玩家完成了所有的31個任務，歐派線將會開啓，這是朱音線的一個喜劇分支線，和整個故事的主線並沒有太大的聯繫。\[7\]
+控制男主角經過不同的地點時，有一定機率會遇到其他一些次要角色，並與他們成爲朋友，同時有一定機率完成一些小[任務](../Page/任务_\(电子游戏\).md "wikilink")。這些朋友的名字以及完成的任務會記錄在「記憶」這個功能裏供玩家查看。如果玩家完成了所有的31個任務，歐派線將會開啓，這是朱音線的一個喜劇分支線，和整個故事的主線並沒有太大的聯繫。\[7\]
 
 遊戲畫面左下角的[齿轮和指針跟瑚太朗的改寫能力有關](../Page/齿轮.md "wikilink")，當他發動改寫能力時，指針會順時針旋轉一定角度。在遊戲的大部分時候，對話框是出現在遊戲畫面的底部的，但是在地線中，文字是出現在整個屏幕上的。\[8\]
 
@@ -776,7 +776,7 @@ LOVER](../Page/PSYCHIC_LOVER.md "wikilink")
 <td></td>
 <td><p>暗鬥</p></td>
 <td><p>伊神貴世</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小寺勝之" title="wikilink">小寺勝之</a></p></td>
+<td><p><a href="../Page/小寺勝之.md" title="wikilink">小寺勝之</a></p></td>
 <td><p>森義博</p></td>
 <td><p>山內則康、小林利充</p></td>
 <td></td>

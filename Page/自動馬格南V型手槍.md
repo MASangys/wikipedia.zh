@@ -13,8 +13,8 @@ AE的半自動手槍之中最輕巧和最符合[人體工效程度的一把](../
 發可拆卸式[彈匣](../Page/彈匣.md "wikilink")（如果計算[膛室的](../Page/膛室.md "wikilink")1發就總共5、7+1發）作為其供彈方式。和其他AMT生產的自動馬格南手槍一樣，是以所有的先進[材料技術所製造的半自動麥格農手槍](../Page/材料.md "wikilink")，主要是以[不鏽鋼鑄造其零件](../Page/不鏽鋼.md "wikilink")。
 
 自動馬格南V型的生產量應該是3,000把，因為編號為0001-3000至3000-3000。然而，這一個目標卻是從來沒有達到過。MK
-V採用與MK IV相同的[底把](https://zh.wikipedia.org/wiki/机匣 "wikilink")，而MK
-V的底把可以搭配MK IV的[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，反之亦然。
+V採用與MK IV相同的[底把](../Page/机匣.md "wikilink")，而MK V的底把可以搭配MK
+IV的[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，反之亦然。
 
 ## 圖集
 

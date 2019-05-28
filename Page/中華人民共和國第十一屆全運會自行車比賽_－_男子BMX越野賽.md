@@ -70,7 +70,7 @@
 | -- | ------------------------------------------------------------------------------------------------------------------- | ----- | ----- | --- | --- | ----- |
 | 1  | [張坤](https://zh.wikipedia.org/wiki/張坤 "wikilink") ([北京](https://zh.wikipedia.org/wiki/北京 "wikilink"))               | **1** | **1** | 3   | 5   | **Q** |
 | 2  | [艾依旦爾．阿不來提](https://zh.wikipedia.org/wiki/艾依旦爾．阿不來提 "wikilink") ([新疆](https://zh.wikipedia.org/wiki/新疆 "wikilink")) | 2     | 4     | 2   | 8   | **Q** |
-| 3  | [田龍](https://zh.wikipedia.org/wiki/田龍 "wikilink") ([江蘇](https://zh.wikipedia.org/wiki/江蘇 "wikilink"))               | 4     | 2     | 4   | 10  | **Q** |
+| 3  | [田龍](../Page/田龍.md "wikilink") ([江蘇](https://zh.wikipedia.org/wiki/江蘇 "wikilink"))                                  | 4     | 2     | 4   | 10  | **Q** |
 | 4  | [任超](https://zh.wikipedia.org/wiki/任超 "wikilink") ([山西](https://zh.wikipedia.org/wiki/山西 "wikilink"))               | 5     | 5     | 1   | 11  | **Q** |
 | 5  | [王寶玉](https://zh.wikipedia.org/wiki/王寶玉 "wikilink") ([山西](https://zh.wikipedia.org/wiki/山西 "wikilink"))             | 3     | 3     | DNF | 14  |       |
 
@@ -118,7 +118,7 @@
 | 3  | [任超](https://zh.wikipedia.org/wiki/任超 "wikilink") ([山西](https://zh.wikipedia.org/wiki/山西 "wikilink"))               | 3     | **Q** |
 | 4  | [劉濤](https://zh.wikipedia.org/wiki/劉濤 "wikilink") ([四川](https://zh.wikipedia.org/wiki/四川 "wikilink"))               | 4     | **Q** |
 | 5  | [張坤](https://zh.wikipedia.org/wiki/張坤 "wikilink") ([北京](https://zh.wikipedia.org/wiki/北京 "wikilink"))               | 5     |       |
-| 6  | [田龍](https://zh.wikipedia.org/wiki/田龍 "wikilink") ([江蘇](https://zh.wikipedia.org/wiki/江蘇 "wikilink"))               | 6     |       |
+| 6  | [田龍](../Page/田龍.md "wikilink") ([江蘇](https://zh.wikipedia.org/wiki/江蘇 "wikilink"))                                  | 6     |       |
 
 ### 半決賽
 

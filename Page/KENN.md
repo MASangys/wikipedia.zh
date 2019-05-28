@@ -132,7 +132,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
   - [魔神之骨](../Page/魔神之骨.md "wikilink")（**龍神翔悟**）
   - [Lady 寶石寵物](../Page/Lady_寶石寵物.md "wikilink")（王子：米烏拉）
   - [Baby Steps
-    \~網球優等生\~](https://zh.wikipedia.org/wiki/Baby_Steps_~網球優等生~ "wikilink")（井出義明）
+    \~網球優等生\~](../Page/Baby_Steps_~網球優等生~.md "wikilink")（井出義明）
   - [閃爍的青春](../Page/閃爍的青春.md "wikilink")（**小湊亞耶**）
   - [黑執事 Book of Circus](../Page/黑執事.md "wikilink")（羅納德·諾克斯）
   - [鑽石王牌](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")（神谷卡爾羅斯俊樹）
@@ -172,9 +172,8 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
     Xechs](../Page/Scared_Rider_Xechs.md "wikilink")（**無月聖**）
   - [月歌。](../Page/月歌。.md "wikilink")（**皐月葵**）
   - [終末的伊澤塔](../Page/終末的伊澤塔.md "wikilink")（漢斯）
-  - [超心動！文藝復興](https://zh.wikipedia.org/wiki/超心動！文藝復興 "wikilink")（**墨之宮葵**）
-  - [新雷鳥神機隊](https://zh.wikipedia.org/wiki/新雷鳥神機隊 "wikilink")（**約翰·崔西
-    John Tracy**）
+  - [超心動！文藝復興](../Page/超心動！文藝復興.md "wikilink")（**墨之宮葵**）
+  - [新雷鳥神機隊](../Page/新雷鳥神機隊.md "wikilink")（**約翰·崔西 John Tracy**）
 
 <!-- end list -->
 
@@ -189,7 +188,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
     Boys－](https://zh.wikipedia.org/wiki/喧嘩番長_乙女 "wikilink")（**箕輪-{斗斗}-丸**\[1\]）
   - [將國戡亂記](../Page/將國戡亂記.md "wikilink")（**裘洛斯**）
   - [我的英雄學院](../Page/我的英雄學院.md "wikilink")（英雄：原住民）
-  - [泥鯨之子們在沙地上歌唱](https://zh.wikipedia.org/wiki/泥鯨之子們在沙地上歌唱 "wikilink")（ロハリト·ノ·アモンロギア）
+  - [泥鯨之子們在沙地上歌唱](../Page/泥鯨之子們在沙地上歌唱.md "wikilink")（ロハリト·ノ·アモンロギア）
 
 <!-- end list -->
 
@@ -197,10 +196,9 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 
 <!-- end list -->
 
-  - [IDOLiSH7](https://zh.wikipedia.org/wiki/IDOLiSH7 "wikilink")（**四葉環**）
-  - [霸穹
-    封神演義](https://zh.wikipedia.org/wiki/封神演義_\(漫畫\) "wikilink")（**黃天化**）
-  - [Butlers～千年百年物語～](https://zh.wikipedia.org/wiki/Butlers～千年百年物語～ "wikilink")（**藤代悠希**）
+  - [IDOLiSH7](../Page/IDOLiSH7.md "wikilink")（**四葉環**）
+  - [霸穹 封神演義](../Page/封神演義_\(漫畫\).md "wikilink")（**黃天化**）
+  - [Butlers～千年百年物語～](../Page/Butlers～千年百年物語～.md "wikilink")（**藤代悠希**）
   - [黑色五葉草](https://zh.wikipedia.org/wiki/黑色五葉草 "wikilink")（利奧波德・凡米里歐）
 
 <!-- end list -->
@@ -210,7 +208,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
 <!-- end list -->
 
   - [明治東京戀伽](../Page/明治東京戀伽.md "wikilink")（**菱田春草**）
-  - [消滅都市](https://zh.wikipedia.org/wiki/消滅都市 "wikilink")（**路易**）
+  - [消滅都市](../Page/消滅都市.md "wikilink")（**路易**）
   - [琴之森 第二季](https://zh.wikipedia.org/wiki/琴之森 "wikilink")（雷弗·席曼諾夫斯基）
 
 ### OVA
@@ -323,7 +321,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
   - アイ★チュウ（**愛童星夜**）
   - [Final Fantasy
     XIV：新生艾奧傑亞](https://zh.wikipedia.org/wiki/Final_Fantasy_XIV：新生艾奧傑亞 "wikilink")（**ウリエンジェ**）
-  - [IDOLiSH7](https://zh.wikipedia.org/wiki/IDOLiSH7 "wikilink")（**四葉環**）
+  - [IDOLiSH7](../Page/IDOLiSH7.md "wikilink")（**四葉環**）
   - 在茜色世界與君詠唱（**高杉晉作**）
   - 喧嘩番長 乙女（**箕輪斗々丸**）
   - 幽幻ロマンチカ（**ヒフミ**）
@@ -344,7 +342,7 @@ NaB's](https://zh.wikipedia.org/wiki/The_NaB's "wikilink")，後來在電視節�
   - 100日間のプリンセス (**カイン＝ロッシュ**)
   - Shadowverse (**圓桌武士・高文**）
   - 造物法則(夜北)
-  - [消滅都市](https://zh.wikipedia.org/wiki/消滅都市 "wikilink")(**路易**)
+  - [消滅都市](../Page/消滅都市.md "wikilink")(**路易**)
 
 ### DVD
 

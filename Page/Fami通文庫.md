@@ -48,7 +48,7 @@ SOFT公司作品的小說化、以及紙上RPG遊戲的遊戲歷程為主，Logo
     Daddy親親壞老爹](https://zh.wikipedia.org/wiki/Bad!_Daddy親親壞老爹 "wikilink")（野村美月／[煉瓦](https://zh.wikipedia.org/wiki/煉瓦 "wikilink")）
   - [偶像大師](https://zh.wikipedia.org/wiki/偶像大師 "wikilink")（／）
   - [疾走！青春期的帕拉貝倫](https://zh.wikipedia.org/wiki/疾走！青春期的帕拉貝倫 "wikilink")（[深見真](https://zh.wikipedia.org/wiki/深見真 "wikilink")／[うなじ](https://zh.wikipedia.org/wiki/うなじ "wikilink")）
-  - [我的愛馬很兇惡](https://zh.wikipedia.org/wiki/我的愛馬很兇惡 "wikilink")（[新井輝](https://zh.wikipedia.org/wiki/新井輝 "wikilink")／[緋鍵龍彥](https://zh.wikipedia.org/wiki/緋鍵龍彥 "wikilink")）
+  - [我的愛馬很兇惡](https://zh.wikipedia.org/wiki/我的愛馬很兇惡 "wikilink")（[新井輝](https://zh.wikipedia.org/wiki/新井輝 "wikilink")／[緋鍵龍彥](../Page/緋鍵龍彥.md "wikilink")）
   - [深林危機](https://zh.wikipedia.org/wiki/深林危機 "wikilink")（[木村航](../Page/木村航.md "wikilink")／）
   - [魔法米克斯](https://zh.wikipedia.org/wiki/魔法米克斯 "wikilink")（榊一郎／BLADE）
   - [歡迎光臨美少女遊戲世界](https://zh.wikipedia.org/wiki/歡迎光臨美少女遊戲世界 "wikilink")（[田尾典丈](https://zh.wikipedia.org/wiki/田尾典丈 "wikilink")／）
@@ -61,7 +61,7 @@ SOFT公司作品的小說化、以及紙上RPG遊戲的遊戲歷程為主，Logo
   - [我與男生與青春期妄想的她們](../Page/我與男生與青春期妄想的她們.md "wikilink")（／）
   - [割耳奈露莉](https://zh.wikipedia.org/wiki/割耳奈露莉 "wikilink")（[石川博品](https://zh.wikipedia.org/wiki/石川博品 "wikilink")／）
   - [廢柴一看就上手的「鐮足同學式」受歡迎入門](https://zh.wikipedia.org/wiki/廢柴一看就上手的「鐮足同學式」受歡迎入門 "wikilink")（[石川博品](https://zh.wikipedia.org/wiki/石川博品 "wikilink")/[一真](https://zh.wikipedia.org/wiki/一真 "wikilink")）
-  - [龍孃七七七埋藏的寶藏](../Page/龍孃七七七埋藏的寶藏.md "wikilink")（[鳳乃一真](https://zh.wikipedia.org/wiki/鳳乃一真 "wikilink")／）
+  - [龍孃七七七埋藏的寶藏](../Page/龍孃七七七埋藏的寶藏.md "wikilink")（[鳳乃一真](../Page/鳳乃一真.md "wikilink")／）
   - [東雲侑子熱愛短篇小說](../Page/東雲侑子系列.md "wikilink")（／[Nardack](https://zh.wikipedia.org/wiki/Nardack "wikilink")）
   - [女裝皇家教師](https://zh.wikipedia.org/wiki/女裝皇家教師 "wikilink")（野村美月／[karory](https://zh.wikipedia.org/wiki/karory "wikilink")）
   - [四百二十連敗女孩](../Page/四百二十連敗女孩.md "wikilink")（桐山成人／[七桃りお](https://zh.wikipedia.org/wiki/七桃りお "wikilink")）
@@ -72,7 +72,7 @@ SOFT公司作品的小說化、以及紙上RPG遊戲的遊戲歷程為主，Logo
 
   - [三月，七日。](../Page/三月，七日。.md "wikilink")（／）
   - [蓓蓓與BB團](https://zh.wikipedia.org/wiki/蓓蓓與BB團 "wikilink")（[田口仙年堂](https://zh.wikipedia.org/wiki/田口仙年堂 "wikilink")／）
-  - [貝維克戰記](https://zh.wikipedia.org/wiki/貝維克戰記 "wikilink")（[冰上慧一](https://zh.wikipedia.org/wiki/冰上慧一 "wikilink")／[森田和明](https://zh.wikipedia.org/wiki/森田和明 "wikilink")、[松本規之](https://zh.wikipedia.org/wiki/松本規之 "wikilink")）
+  - [貝維克戰記](https://zh.wikipedia.org/wiki/貝維克戰記 "wikilink")（[冰上慧一](https://zh.wikipedia.org/wiki/冰上慧一 "wikilink")／[森田和明](https://zh.wikipedia.org/wiki/森田和明 "wikilink")、[松本規之](../Page/松本規之.md "wikilink")）
   - [Bird Heart Beat
     舞姬天翔](https://zh.wikipedia.org/wiki/Bird_Heart_Beat_舞姬天翔 "wikilink")（[伊東京一](https://zh.wikipedia.org/wiki/伊東京一 "wikilink")／[Pako](../Page/Pako.md "wikilink")）
   - [魔物獵人](https://zh.wikipedia.org/wiki/魔物獵人 "wikilink")（／）
@@ -80,7 +80,7 @@ SOFT公司作品的小說化、以及紙上RPG遊戲的遊戲歷程為主，Logo
   - [鋼鐵白兔騎士團](https://zh.wikipedia.org/wiki/鋼鐵白兔騎士團 "wikilink")（[舞阪洸](https://zh.wikipedia.org/wiki/舞阪洸 "wikilink")／）
   - [君吻](../Page/君吻.md "wikilink")（[日暮茶坊](https://zh.wikipedia.org/wiki/日暮茶坊 "wikilink")／[高山箕犀](../Page/高山箕犀.md "wikilink")、[加茂](https://zh.wikipedia.org/wiki/加茂 "wikilink")）
   - [PULP](https://zh.wikipedia.org/wiki/PULP "wikilink")（／[隼優紀](https://zh.wikipedia.org/wiki/隼優紀 "wikilink")）
-  - [塵骸魔京](../Page/塵骸魔京.md "wikilink")（[海法紀光](https://zh.wikipedia.org/wiki/海法紀光 "wikilink")／）
+  - [塵骸魔京](../Page/塵骸魔京.md "wikilink")（[海法紀光](../Page/海法紀光.md "wikilink")／）
   - [暴風Girls
     Fight](../Page/暴風Girls_Fight.md "wikilink")（／[倉藤倖](https://zh.wikipedia.org/wiki/倉藤倖 "wikilink")）
   - [噬神戰士
@@ -90,7 +90,7 @@ SOFT公司作品的小說化、以及紙上RPG遊戲的遊戲歷程為主，Logo
   - [星塵中隊　離星空最近之處](https://zh.wikipedia.org/wiki/星塵中隊_離星空最近之處 "wikilink")（[foca](https://zh.wikipedia.org/wiki/foca "wikilink")／）
   - [魔物獵人 EPISODE \~
     novel.](../Page/魔物獵人系列.md "wikilink")（[冰上慧一](https://zh.wikipedia.org/wiki/冰上慧一 "wikilink")／[布施龍太](https://zh.wikipedia.org/wiki/布施龍太 "wikilink")）
-  - 鼻血店長就不行嗎？（[新木伸](https://zh.wikipedia.org/wiki/新木伸 "wikilink")／[火曜](https://zh.wikipedia.org/wiki/火曜 "wikilink")）
+  - 鼻血店長就不行嗎？（[新木伸](../Page/新木伸.md "wikilink")／[火曜](https://zh.wikipedia.org/wiki/火曜 "wikilink")）
   - [翠星上的加爾岡緹亞](https://zh.wikipedia.org/wiki/翠星上的加爾岡緹亞 "wikilink")（[谷村大四郎](https://zh.wikipedia.org/wiki/谷村大四郎 "wikilink")／[Production
     I.G](../Page/Production_I.G.md "wikilink")）
   - [大圖書館的牧羊人](../Page/大圖書館的牧羊人.md "wikilink")（[田尾典丈](https://zh.wikipedia.org/wiki/田尾典丈 "wikilink")／）
@@ -104,7 +104,7 @@ SOFT公司作品的小說化、以及紙上RPG遊戲的遊戲歷程為主，Logo
   - [虎躍龍笑](https://zh.wikipedia.org/wiki/虎躍龍笑 "wikilink")（[嬉野秋彦](https://zh.wikipedia.org/wiki/嬉野秋彦 "wikilink")／）
   - [煙囟町的赤魔與絕望少年](https://zh.wikipedia.org/wiki/煙囟町的赤魔與絕望少年 "wikilink")（／[師走貴志](https://zh.wikipedia.org/wiki/師走貴志 "wikilink")）
   - [白銀的卡露](https://zh.wikipedia.org/wiki/白銀的卡露 "wikilink")（／）
-  - [開朗的家族砲計畫！](https://zh.wikipedia.org/wiki/開朗的家族砲計畫！ "wikilink")（[新木伸](https://zh.wikipedia.org/wiki/新木伸 "wikilink")／）
+  - [開朗的家族砲計畫！](https://zh.wikipedia.org/wiki/開朗的家族砲計畫！ "wikilink")（[新木伸](../Page/新木伸.md "wikilink")／）
   - [掀起世界危機！](../Page/掀起世界危機！.md "wikilink")（[佐藤了](https://zh.wikipedia.org/wiki/佐藤了 "wikilink")／[藤真拓哉](../Page/藤真拓哉.md "wikilink")）
   - [創立\!?三星學生會](https://zh.wikipedia.org/wiki/創立!?三星學生會 "wikilink")（／[大場陽炎](https://zh.wikipedia.org/wiki/大場陽炎 "wikilink")）
   - [家庭遊戲](https://zh.wikipedia.org/wiki/家庭遊戲 "wikilink")（[築地俊彥](../Page/築地俊彥.md "wikilink")／[河原惠](https://zh.wikipedia.org/wiki/河原惠 "wikilink")）

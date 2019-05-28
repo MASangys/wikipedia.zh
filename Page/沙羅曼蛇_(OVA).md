@@ -70,12 +70,12 @@ Brain）。馬克貝因要求女兒將他破壞，如此才能阻止Bacterion軍
   - 帕歐拉 - [島本須美](../Page/島本須美.md "wikilink")
   - 馬克貝因主席 - [筈見純](https://zh.wikipedia.org/wiki/筈見純 "wikilink")
   - 史達巴克代理主席 - [村山明](https://zh.wikipedia.org/wiki/村山明 "wikilink")
-  - 電子腦 - [飯塚昭三](https://zh.wikipedia.org/wiki/飯塚昭三 "wikilink")
+  - 電子腦 - [飯塚昭三](../Page/飯塚昭三.md "wikilink")
   - 司令官 - [神山卓三](https://zh.wikipedia.org/wiki/神山卓三 "wikilink")
   - [二又一成](../Page/二又一成.md "wikilink")
   - [子安武人](../Page/子安武人.md "wikilink")
   - [幹本雄之](../Page/幹本雄之.md "wikilink")
-  - [中村大樹](https://zh.wikipedia.org/wiki/中村大樹 "wikilink")
+  - [中村大樹](../Page/中村大樹.md "wikilink")
   - [石野龍三](../Page/石野龍三.md "wikilink")
   - 澤井幸子
 

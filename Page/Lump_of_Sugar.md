@@ -112,7 +112,7 @@ Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](
 <tr class="even">
 <td><p>9</p></td>
 <td><p>2013年5月31日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Magical_Charming!" title="wikilink">Magical Charming!</a></strong></p></td>
+<td><p><strong><a href="../Page/Magical_Charming!.md" title="wikilink">Magical Charming!</a></strong></p></td>
 <td><p>梱枝りこ</p></td>
 <td><p>しげた、てつじん、二葉つばさ、冬茜トム</p></td>
 <td><p>魔卡魅戀!</p></td>
@@ -152,7 +152,7 @@ Sugar也通稱作角砂糖或方糖社。主要製作奇幻系的[戀愛遊戲](
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>2016年9月23日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/遊魂2_-you&#39;re_the_only_one-" title="wikilink">タユタマ2 -you're the only one-</a></strong></p></td>
+<td><p><strong><a href="../Page/遊魂2_-you&#39;re_the_only_one-.md" title="wikilink">タユタマ2 -you're the only one-</a></strong></p></td>
 <td><p>萌木原文武</p></td>
 <td><p>沖田露集</p></td>
 <td><p>遊魂2 -you're the only one-</p></td>

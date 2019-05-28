@@ -7,7 +7,7 @@ Rails类似](../Page/Ruby_on_Rails.md "wikilink")，CodeIgniter允许用户使�
 Record作为](../Page/Active_Record.md "wikilink")[数据库的接口](../Page/数据库.md "wikilink")，并鼓励使用[模型-视图-控制器的](https://zh.wikipedia.org/wiki/模型-视图-控制器 "wikilink")[架构模式](https://zh.wikipedia.org/wiki/架构模式 "wikilink")。
 
   - 基于[MVC体系](../Page/MVC.md "wikilink")
-  - 超[轻量级](https://zh.wikipedia.org/wiki/轻量级 "wikilink")
+  - 超[轻量级](../Page/轻量级.md "wikilink")
   - 对多种[数据库平台的全特性支持的数据库类](../Page/数据库.md "wikilink")
   - [Active Record支持](../Page/Active_Record.md "wikilink")
   - 表单与数据验证

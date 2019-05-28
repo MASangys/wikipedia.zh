@@ -168,8 +168,9 @@ Tour*中的舞蹈被重新编排以适应凯利病愈后的身体状况，演唱
 
 *Showgirl - The Homecoming Tour*得到了评论家积极的评价。Christine
 Sams在[悉尼晨锋报的一篇评论中把这次的演唱会形容为](https://zh.wikipedia.org/wiki/悉尼晨锋报 "wikilink")“大手笔”并赞扬它是“极其成功”
-。\[5\] *[世纪报](https://zh.wikipedia.org/wiki/世纪报 "wikilink")*'的Patrick
-Donovan则赞扬凯利“看上去很得体，身体健康，声线尚佳”。 \[6\] [CBBC
+。\[5\] *[世纪报](../Page/世纪报.md "wikilink")*'的Patrick
+Donovan则赞扬凯利“看上去很得体，身体健康，声线尚佳”。 \[6\]
+[CBBC
 Newsround则因为巡演](../Page/Newsround.md "wikilink")“选择的歌曲，出色的舞者，舞台照明以及凯利对表演的热爱”而将它形容为"完美的复出"
 。\[7\]
 

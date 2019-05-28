@@ -107,7 +107,7 @@ Center），是一個提供可在Facebook上運行之程式的商店。該商店
 
 2012年，Facebook在動態時報功能上加入一個[同性婚姻標誌](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")\[56\]。2012年8月23日，Facebook對其iOS應用程式做出更新，修改資料收集和顯示方式，並提升程式運行速度。2013年1月15日，Facebook宣布「[社交圖表搜尋](https://zh.wikipedia.org/wiki/社交圖表搜尋 "wikilink")」功能，該功能對使用者提供一個「精準的答案」，而非以往一個彙集網站上許多資料連結的頁面\[57\]。Facebook強調該功能將同時顧及使用者隱私，僅會顯示使用者已公開分享的內容\[58\]。2013年2月11日，伦勃朗社交媒體公司（Rembrandt
 Social
-Media）控告Facebook的「讚」按鈕侵犯專利\[59\]。2013年4月3日，Facebook發表Android裝置的使用者介面層「[Home](https://zh.wikipedia.org/wiki/Facebook_Home "wikilink")」，為Android提供更深入的Facebook整合。同時[HTC也宣布預載Home使用界面的](https://zh.wikipedia.org/wiki/HTC "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")「[HTC
+Media）控告Facebook的「讚」按鈕侵犯專利\[59\]。2013年4月3日，Facebook發表Android裝置的使用者介面層「[Home](../Page/Facebook_Home.md "wikilink")」，為Android提供更深入的Facebook整合。同時[HTC也宣布預載Home使用界面的](https://zh.wikipedia.org/wiki/HTC "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")「[HTC
 First](../Page/HTC_First.md "wikilink")」\[60\]\[61\]。2014年4月4日，Facebook宣布與美國19州的國家法官聯盟（National
 Association of
 Attorneys）合作，提供青少年與其家長管理社交網路檔案的工具資訊\[62\]。2013年4月19日，Facebook修改商標，移除其「F」商標下的藍色底線，並將「F」字母與矩形邊框之間的距離縮短\[63\]。
@@ -435,7 +435,7 @@ Group的数据](https://zh.wikipedia.org/wiki/Pivotal_Research_Group "wikilink")
   - [中华人民共和国政府在](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[乌鲁木齐七五事件之后对Facebook封锁](../Page/乌鲁木齐七五事件.md "wikilink")，至今未解除\[158\]\[159\]。但是有一定数量的中国大陆民众通过[翻墙等方法来访问](https://zh.wikipedia.org/wiki/翻墙 "wikilink")。
 
 在2010年和2012年相繼传出Facebook将进入中國大陆市场的消息，但前景却不被人看好\[160\]，部分媒體指出由于长期遭到封锁，Facebook将会被已经在大陸有庞大用户群的[人人网和](../Page/人人网.md "wikilink")[开心网等社交网站排挤](../Page/开心网.md "wikilink")\[161\]，也很有可能改以合作方式進入中國。但Facebook至今仍未正式进入中国大陆市场。2017年5月，Facebook
-授权中国一家公司推出了软件[彩色气球](https://zh.wikipedia.org/wiki/彩色气球 "wikilink")，这是[Moments的中国版](https://zh.wikipedia.org/wiki/Moments "wikilink")。据《纽约时报》2017年9月的报道，Facebook计划在上海设立办公室。\[162\]
+授权中国一家公司推出了软件[彩色气球](../Page/彩色气球.md "wikilink")，这是[Moments的中国版](https://zh.wikipedia.org/wiki/Moments "wikilink")。据《纽约时报》2017年9月的报道，Facebook计划在上海设立办公室。\[162\]
 
 ### 全面封鎖
 

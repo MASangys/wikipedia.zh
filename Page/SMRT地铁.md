@@ -93,7 +93,7 @@
 <td><p>还没公布</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/川崎重工-南車四方C151B電力動車組" title="wikilink">C151B</a>[22] <a href="https://zh.wikipedia.org/wiki/File:Accessibility-directory.svg" title="fig:Accessibility-directory.svg">Accessibility-directory.svg</a></p></td>
+<td><p><a href="../Page/川崎重工-南車四方C151B電力動車組.md" title="wikilink">C151B</a>[22] <a href="https://zh.wikipedia.org/wiki/File:Accessibility-directory.svg" title="fig:Accessibility-directory.svg">Accessibility-directory.svg</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:KHI_CSR_C151B_ext_port_angled.jpg" title="fig:KHI_CSR_C151B_ext_port_angled.jpg">KHI_CSR_C151B_ext_port_angled.jpg</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/電動列車" title="wikilink">電動列車</a></p></td>
 <td><p>90</p></td>
@@ -105,7 +105,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/川崎重工-南車四方C151B電力動車組" title="wikilink">C151C</a>[23] <a href="https://zh.wikipedia.org/wiki/File:Accessibility-directory.svg" title="fig:Accessibility-directory.svg">Accessibility-directory.svg</a></p></td>
+<td><p><a href="../Page/川崎重工-南車四方C151B電力動車組.md" title="wikilink">C151C</a>[23] <a href="https://zh.wikipedia.org/wiki/File:Accessibility-directory.svg" title="fig:Accessibility-directory.svg">Accessibility-directory.svg</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/電動列車" title="wikilink">電動列車</a></p></td>
 <td><p>90</p></td>

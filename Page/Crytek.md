@@ -186,7 +186,7 @@ Games提供后续开发及更新维护，至此《战争前线》将不再属于
 <td><p>2016年5月17日<br />
  2016年5月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Crytek_UK" title="wikilink">Crytek UK</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第一人稱射擊遊戲" title="wikilink">第一人稱射擊遊戲</a></p></td>
 <td><p><a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>,<a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>,<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 </tr>

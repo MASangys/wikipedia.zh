@@ -600,7 +600,7 @@ Anastasia</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蕭凱欣" title="wikilink">蕭凱欣</a></p></td>
+<td><p><a href="../Page/蕭凱欣.md" title="wikilink">蕭凱欣</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -804,7 +804,7 @@ Anastasia</strong></p></td>
 <td><p>金魚佬</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td><p>鄧小勤</p></td>
 <td><p>李倩雯之男友<br />
 潮牌行政總裁</p></td>

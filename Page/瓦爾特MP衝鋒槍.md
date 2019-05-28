@@ -117,7 +117,7 @@ MPL具有兩個金屬製機械[照門及](https://zh.wikipedia.org/wiki/照門 "
     zh-tw:決勝時刻：黑暗行動; zh-hk:使命召喚：黑色行動;
     zh-mo:使命召喚：黑色行動;}-](../Page/決勝時刻：黑色行動.md "wikilink")》（Call
     of Duty: Black
-    Ops）：於故事模式、聯機模式及殭屍模式中皆有出現，型號為MPL，命名為「MPL」，32發[彈匣](../Page/彈匣.md "wikilink")（殭屍模式時為24發），最高攜彈量為256發（聯機模式）和120發（殭屍模式）；聯機模式時於等級35解鎖，並可以使用[雙彈匣](https://zh.wikipedia.org/wiki/彈匣並聯 "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[反射式瞄準鏡](https://zh.wikipedia.org/wiki/Aimpoint_Mark_II光電瞄準鏡 "wikilink")、[握把](../Page/輔助握把.md "wikilink")（其實只是[槍托](../Page/槍托.md "wikilink")）、[消音器](../Page/抑制器.md "wikilink")、射速增加；殭屍模式時需要1,000點點數，另有一款衍生型稱作「MPL-LF」，40發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為200發，並已經隨槍具有延長彈匣和紅點鏡。
+    Ops）：於故事模式、聯機模式及殭屍模式中皆有出現，型號為MPL，命名為「MPL」，32發[彈匣](../Page/彈匣.md "wikilink")（殭屍模式時為24發），最高攜彈量為256發（聯機模式）和120發（殭屍模式）；聯機模式時於等級35解鎖，並可以使用[雙彈匣](../Page/彈匣並聯.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[反射式瞄準鏡](https://zh.wikipedia.org/wiki/Aimpoint_Mark_II光電瞄準鏡 "wikilink")、[握把](../Page/輔助握把.md "wikilink")（其實只是[槍托](../Page/槍托.md "wikilink")）、[消音器](../Page/抑制器.md "wikilink")、射速增加；殭屍模式時需要1,000點點數，另有一款衍生型稱作「MPL-LF」，40發[彈匣](../Page/彈匣.md "wikilink")，最高攜彈量為200發，並已經隨槍具有延長彈匣和紅點鏡。
 
 ### 動畫
 

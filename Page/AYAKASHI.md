@@ -87,7 +87,7 @@ Z上进行连载\[4\]。
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>はじまりの血</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鴻野貴光" title="wikilink">鴻野貴光</a></p></td>
+<td><p><a href="../Page/鴻野貴光.md" title="wikilink">鴻野貴光</a></p></td>
 <td><p>高田淳</p></td>
 <td><p>渡邊伸弘</p></td>
 <td></td>

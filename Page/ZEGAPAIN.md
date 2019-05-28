@@ -78,7 +78,7 @@
   - 音樂：大塚彩子
   - 音響監督：[明田川仁](../Page/明田川仁.md "wikilink")
   - 動畫製作：紅谷佳和→山川典夫、小掛慎太郎、古澤文邦
-  - 監督：[下田正美](https://zh.wikipedia.org/wiki/下田正美 "wikilink")
+  - 監督：[下田正美](../Page/下田正美.md "wikilink")
   - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[日昇動畫](../Page/日昇動畫.md "wikilink")
 
 ## 各集標題
@@ -102,7 +102,7 @@
 <td><p>エンタングル</p></td>
 <td><p>糾纏</p></td>
 <td><p><a href="../Page/關島真賴.md" title="wikilink">關島真賴</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/下田正美" title="wikilink">下田正美</a></p></td>
+<td><p><a href="../Page/下田正美.md" title="wikilink">下田正美</a></p></td>
 <td></td>
 <td><p>牧孝雄</p></td>
 <td><p>福島秀機<br />
@@ -123,7 +123,7 @@
 <td><p>デフテラ領域</p></td>
 <td><p>第二領域</p></td>
 <td><p><a href="../Page/村井贞之.md" title="wikilink">村井贞之</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中山勝一" title="wikilink">中山勝一</a></p></td>
+<td><p><a href="../Page/中山勝一.md" title="wikilink">中山勝一</a></p></td>
 <td></td>
 <td><p>西井正典</p></td>
 <td></td>
@@ -173,7 +173,7 @@
 <td><p>水の向こう側</p></td>
 <td><p>水的那端</p></td>
 <td><p>桶谷顯</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/杉島邦久" title="wikilink">杉島邦久</a></p></td>
+<td><p><a href="../Page/杉島邦久.md" title="wikilink">杉島邦久</a></p></td>
 <td><p>三好正人</p></td>
 <td><p>松川哲也</p></td>
 <td><p>松田寛</p></td>
@@ -315,7 +315,7 @@
 <td><p>ジフェイタス</p></td>
 <td><p>吉菲塔斯</p></td>
 <td><p>久保田雅史</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松尾衡" title="wikilink">松尾衡</a></p></td>
+<td><p><a href="../Page/松尾衡.md" title="wikilink">松尾衡</a></p></td>
 <td><p>ヤマトナオミチ</p></td>
 <td><p>米山浩平</p></td>
 <td><p>池田有</p></td>

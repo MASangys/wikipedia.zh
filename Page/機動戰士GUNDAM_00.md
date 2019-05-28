@@ -169,7 +169,7 @@ Being）。為了根絕[戰爭](https://zh.wikipedia.org/wiki/戰爭 "wikilink")
   - 设定协力：
   - 监制：[竹田青滋](https://zh.wikipedia.org/wiki/竹田青滋 "wikilink")（毎日放送）、[宮河恭夫](https://zh.wikipedia.org/wiki/宮河恭夫 "wikilink")（Sunrise）
   - 制片人：[丸山和雄](https://zh.wikipedia.org/wiki/丸山和雄 "wikilink")（毎日放送）、[池谷浩臣](https://zh.wikipedia.org/wiki/池谷浩臣 "wikilink")（Sunrise）、[佐佐木新](https://zh.wikipedia.org/wiki/佐佐木新 "wikilink")（Sunrise）
-  - 制作：[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")、[日昇動畫](../Page/日昇動畫.md "wikilink")、[毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")
+  - 制作：[創通](../Page/創通.md "wikilink")、[日昇動畫](../Page/日昇動畫.md "wikilink")、[毎日放送](https://zh.wikipedia.org/wiki/毎日放送 "wikilink")
   - 解说旁白：[古谷徹](../Page/古谷徹.md "wikilink")（日本）；[招世亮](../Page/招世亮.md "wikilink")（香港）；[王希華](../Page/王希華.md "wikilink")（台灣）
 
 ## 各集標題

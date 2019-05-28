@@ -15,7 +15,7 @@ Google Play旗下的服務包括：[Google
 Play音樂](../Page/Google_Play音樂.md "wikilink")，[Google
 Play圖書](https://zh.wikipedia.org/wiki/Google_Play_Books "wikilink")，Google
 Play書報攤，Google Play電影和[Google
-Play遊戲](https://zh.wikipedia.org/wiki/Google_Play游戏 "wikilink")。Google
+Play遊戲](../Page/Google_Play游戏.md "wikilink")。Google
 Play商店已發布超過220萬個應用程式\[4\]，下載次數超過500億次。\[5\]
 
 ## 歷史
@@ -126,7 +126,7 @@ Play的免費軟體比例是最高的。
 軟體發展者擁有開發者許可權，申請該許可權需要擁有一個[Gmail帳號以及有效的信用卡以繳交申請費用](../Page/Gmail.md "wikilink")。軟體發展者可以選擇開發付費或免費的應用程式，其中付費應用程式將收到70%的價格，剩下的30%將支付於媒介管道如通過自己的網路以及信用卡公司授權收取費用申請購買等。
 
 從Google Play獲得的收入是通過[Google
-Checkout支付給開發商](https://zh.wikipedia.org/wiki/Google_Checkout "wikilink")。
+Checkout支付給開發商](../Page/Google_Checkout.md "wikilink")。
 
 而除了官方所提供的上架服務之外，網上也有提供著一些協力廠商代上架服務\[25\]，以讓沒有開發者許可權的開發者能夠把應用程式上架至Google
 Play。

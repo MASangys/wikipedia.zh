@@ -46,7 +46,7 @@
 
   -
     同時也兼容所有中指定的音頻對象類型，例如[音頻無損編碼（MPEG-4
-    ALS）](https://zh.wikipedia.org/wiki/MPEG-4_ALS "wikilink")、、[码激励线性预测（CELP）](https://zh.wikipedia.org/wiki/码激励线性预测 "wikilink")、[MPEG-1或MPEG-2
+    ALS）](https://zh.wikipedia.org/wiki/MPEG-4_ALS "wikilink")、、[码激励线性预测（CELP）](../Page/码激励线性预测.md "wikilink")、[MPEG-1或MPEG-2
     音频层III（MP3）](../Page/MP3.md "wikilink")、[MPEG-1
     音频层II（MP2）](../Page/MPEG-1_Audio_Layer_II.md "wikilink")、
     此外也可兼容在MP4注册机构网站上所注册过的音频格式，如[蘋果無損音頻編碼（ALAC）](https://zh.wikipedia.org/wiki/ALAC "wikilink")、[Opus](https://zh.wikipedia.org/wiki/Opus "wikilink")、[AC-3等](https://zh.wikipedia.org/wiki/AC-3 "wikilink")

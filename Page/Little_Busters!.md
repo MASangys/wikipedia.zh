@@ -553,7 +553,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[tvk](https://zh.wikipe
 <td></td>
 <td><p>恐怖納涼大會</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/綾奈由仁子" title="wikilink">綾奈由仁子</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/八谷賢一" title="wikilink">八谷賢一</a></p></td>
+<td><p><a href="../Page/八谷賢一.md" title="wikilink">八谷賢一</a></p></td>
 <td><p>安野將人、梶谷光春</p></td>
 <td><p>音地正行</p></td>
 <td></td>
@@ -1171,7 +1171,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[tvk](https://zh.wikipe
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/中國大陸" title="wikilink">中國大陸</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/搜狐视频" title="wikilink">搜狐视频</a></p></td>
+<td><p><a href="../Page/搜狐视频.md" title="wikilink">搜狐视频</a></p></td>
 <td><p>2013年10月6日－</p></td>
 <td><p>星期日 1时00分 更新<br />
 （UTC+8）</p></td>

@@ -486,7 +486,7 @@ R2提供對於[DNS安全性擴充](https://zh.wikipedia.org/wiki/DNS安全性擴
 [File-PowerShell_ISE_on_Windows_7.png](https://zh.wikipedia.org/wiki/File:File-PowerShell_ISE_on_Windows_7.png "fig:File-PowerShell_ISE_on_Windows_7.png")整合式指令碼環境（ISE）\]\]
 根據Computerworld的文章，新的Windows 7管理系統功能包含\[48\]：
 
-  - [DirectAccess](https://zh.wikipedia.org/wiki/DirectAccess "wikilink")：一項建立在[IPv6以及](../Page/IPv6.md "wikilink")[IPsec上的](../Page/IPsec.md "wikilink")[VPN通道技術](https://zh.wikipedia.org/wiki/VPN "wikilink")，此功能能使外部網路的使用者不必再建立VPN連線，安全的從網際網路直接存取內部網路中的資源。DirectAccess需要具備IPv6的連線能力、已經加入網域的機器、以及一台或多台執行Windows
+  - [DirectAccess](../Page/DirectAccess.md "wikilink")：一項建立在[IPv6以及](../Page/IPv6.md "wikilink")[IPsec上的](../Page/IPsec.md "wikilink")[VPN通道技術](https://zh.wikipedia.org/wiki/VPN "wikilink")，此功能能使外部網路的使用者不必再建立VPN連線，安全的從網際網路直接存取內部網路中的資源。DirectAccess需要具備IPv6的連線能力、已經加入網域的機器、以及一台或多台執行Windows
     Server 2008 R2的DirectAccess伺服器，且至少需要一台執行Windows Server 2008
     R2的網域控制器有PKI提供憑證。\[49\]
   - [BranchCache](https://zh.wikipedia.org/wiki/BranchCache "wikilink")：Windows

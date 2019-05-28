@@ -246,7 +246,7 @@ Powers中8個主要[二戰參戰國](https://zh.wikipedia.org/wiki/二戰 "wikil
 3.  武器：[雪茄](../Page/雪茄.md "wikilink")、[左輪手槍](https://zh.wikipedia.org/wiki/左輪手槍 "wikilink")
 4.  頭髮：濃金色
 5.  眼睛：亮藍色
-6.  配音員：[小西克幸](../Page/小西克幸.md "wikilink")；幼年配音員：[清水涼子](https://zh.wikipedia.org/wiki/清水涼子 "wikilink")、[岩村愛子](https://zh.wikipedia.org/wiki/岩村愛子 "wikilink")
+6.  配音員：[小西克幸](../Page/小西克幸.md "wikilink")；幼年配音員：[清水涼子](../Page/清水涼子.md "wikilink")、[岩村愛子](https://zh.wikipedia.org/wiki/岩村愛子 "wikilink")
 7.  口頭禪：「我就是拯救全世界的正義Hero！」、「順帶一提，我可是不接受反對的意見喔\!\!\!」
 
 <!-- end list -->
@@ -329,7 +329,7 @@ Powers中8個主要[二戰參戰國](https://zh.wikipedia.org/wiki/二戰 "wikil
     眉毛非常的粗，代表其[紳士風度](https://zh.wikipedia.org/wiki/紳士 "wikilink")。
     非常喜歡紅茶，同時有著[刺繡的雅好](https://zh.wikipedia.org/wiki/刺繡 "wikilink")。雖然做[鬆餅](https://zh.wikipedia.org/wiki/鬆餅 "wikilink")（Scone，又稱：司康餅）的廚藝沒有法國好，但是依舊堅持著嚴格的[餐桌禮儀](../Page/英國飲食.md "wikilink")；嚮往著一邊吃自己做的餅乾、一邊喝紅茶的悠閒生活。
     因為做出來的菜令人難以下嚥，所以經常被法國取笑，甚至連作為囚犯的南北義大利都不願吃英國菜，還把味癡的特性遺傳給了美國。即使如此，還是非常喜歡做菜，而且認為自己總有一天能把菜燒得讓人佩服。
-    號稱自己家的[魔法是世界第一的強大](../Page/魔法.md "wikilink")；和[妖精感情非常好](https://zh.wikipedia.org/wiki/妖精 "wikilink")，經常會看到他和妖精們玩耍的樣子（但是看不見妖精的美國認為這是英國的幻覺。）精通詭異的[巫術和神秘的魔法](https://zh.wikipedia.org/wiki/巫術 "wikilink")，特技是畫[魔法陣](https://zh.wikipedia.org/wiki/魔法陣 "wikilink")、用符文詛咒、展示通靈的[召喚術](https://zh.wikipedia.org/wiki/召喚術 "wikilink")。
+    號稱自己家的[魔法是世界第一的強大](../Page/魔法.md "wikilink")；和[妖精感情非常好](https://zh.wikipedia.org/wiki/妖精 "wikilink")，經常會看到他和妖精們玩耍的樣子（但是看不見妖精的美國認為這是英國的幻覺。）精通詭異的[巫術和神秘的魔法](../Page/巫術.md "wikilink")，特技是畫[魔法陣](https://zh.wikipedia.org/wiki/魔法陣 "wikilink")、用符文詛咒、展示通靈的[召喚術](https://zh.wikipedia.org/wiki/召喚術 "wikilink")。
     被德國打敗時，躲起來詛咒德國，被突然拜訪的美國打斷。於是躲回地下室，畫出魔法陣召喚，卻[召喚出俄羅斯](../Page/苏德战争.md "wikilink")。
     收留撫養了小時候的[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")。但因為長大的美國嚮往自由，爆發了[獨立戰爭](../Page/獨立戰爭.md "wikilink")，美國自此獨立。
     在美國要求大家在軸心國流落的荒島一起烤棉花糖時，唱著歌詞陰森的歌劇「[阿萊城姑娘](../Page/阿莱城的姑娘.md "wikilink")」，美國當場嚇的說出：「感覺好像惡魔都要被召喚出來了！」
@@ -412,7 +412,7 @@ Powers中8個主要[二戰參戰國](https://zh.wikipedia.org/wiki/二戰 "wikil
     在作者製作的[遊戲](https://zh.wikipedia.org/wiki/遊戲 "wikilink")《》中的職業是[騎士](https://zh.wikipedia.org/wiki/騎士 "wikilink")。
     於《》中得到的禮物是葡萄酒和紅酒杯，包裝的花紋是[薔薇](https://zh.wikipedia.org/wiki/薔薇 "wikilink")。
     於《》裝扮的鬼怪是幽靈。
-    於作者繪製的2011年萬聖節系列短漫中，打扮成[彼得潘](https://zh.wikipedia.org/wiki/彼得潘 "wikilink")，並和打扮成精靈的[摩納哥一起出場](https://zh.wikipedia.org/wiki/摩納哥 "wikilink")。
+    於作者繪製的2011年萬聖節系列短漫中，打扮成[彼得潘](../Page/彼得潘.md "wikilink")，並和打扮成精靈的[摩納哥一起出場](https://zh.wikipedia.org/wiki/摩納哥 "wikilink")。
     角色歌為《》和《》。
     在動畫第五季
     W學園中与[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")、[土耳其一同參加的是美食部](../Page/土耳其.md "wikilink")，活動內容為做美食、吃美食、愛美食，另外美食部禁止英國進入。
@@ -529,7 +529,7 @@ Powers中8個主要[二戰參戰國](https://zh.wikipedia.org/wiki/二戰 "wikil
     曾經因為美國畫了比例失常的肖像畫而決定由自己來畫肖像畫，但是卻畫成了穿著[旗袍的美女](../Page/旗袍.md "wikilink")。
     [罗马帝國和少年时期的中國有著说不清道不明的关系](https://zh.wikipedia.org/wiki/漢朝和羅馬的關係 "wikilink")。
     琴棋书画样样精通，举止优雅，有着很高的[文化修养和](https://zh.wikipedia.org/wiki/中国文化 "wikilink")[武功修为](../Page/功夫.md "wikilink")；忍无可忍而暴走的时候非常可怕，曾经僅僅憑藉著一隻中华铁锅和一條勺子就打敗了拿著手槍的德國和拿著[日本刀的日本](../Page/日本刀.md "wikilink")（共四次）。主张兄弟和睦，很有做大哥的气量和风度，但与人交往只保持君子之交。
-    對[西藏](https://zh.wikipedia.org/wiki/西藏 "wikilink")（動畫裡改爲了一隻大熊猫）說自己是日本的大哥，但是日本[遲疑了很久很久才同意](https://zh.wikipedia.org/wiki/中日关系史 "wikilink")。
+    對[西藏](https://zh.wikipedia.org/wiki/西藏 "wikilink")（動畫裡改爲了一隻大熊猫）說自己是日本的大哥，但是日本[遲疑了很久很久才同意](../Page/中日关系史.md "wikilink")。
     在竹林中初次與豆丁日本相遇，但一見面就被稱呼是「日落之國」而大怒。
     之後扶養年幼的日本，將日本視為弟弟般養育，但沒想到長大後的日本處處與他相對，甚至[和其他人一起對付他](../Page/八國聯軍.md "wikilink")，背後有一道刀疤，疑似[日本所致](../Page/南京大屠殺.md "wikilink")。
     教日本寫過[漢字](https://zh.wikipedia.org/wiki/漢字 "wikilink")，但是對於日本發明和使用了[假名的事而倍感生氣](https://zh.wikipedia.org/wiki/假名 "wikilink")。

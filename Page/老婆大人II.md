@@ -955,7 +955,7 @@ Winnie之男友</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
 <td><p>大　飛</p></td>
 <td><p>黃志堅、羅浩祈、張德華好友（第6集）<br />
 不幸撞死李添財的狗，被李陷害醉酒駕駛<br />
@@ -1040,7 +1040,7 @@ Winnie之男友</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/蕭凱欣" title="wikilink">蕭凱欣</a></p></td>
+<td><p><a href="../Page/蕭凱欣.md" title="wikilink">蕭凱欣</a></p></td>
 <td><p>Gina</p></td>
 <td><p>「舞動全城」健身中心助教</p></td>
 <td></td>
@@ -1305,7 +1305,7 @@ Winnie之男友</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td><p>飛　仔</p></td>
 <td><p>（第14集）</p></td>
 <td></td>
@@ -1582,7 +1582,7 @@ Winnie之男友</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/侍應生" title="wikilink">侍應生</a></p></td>
 <td></td>
 <td></td>

@@ -9,7 +9,7 @@ Stone發售數位下載版《D.C.I\&II P.S.P. 〜ダ・カーポI\&II〜 プラ�
 
 ## 概要
 
-原畫由[七尾奈留](../Page/七尾奈留.md "wikilink")、[影崎夕那](https://zh.wikipedia.org/wiki/影崎夕那 "wikilink")（影崎由那、影山由多）、[igul](https://zh.wikipedia.org/wiki/igul "wikilink")、[谷原夏樹](https://zh.wikipedia.org/wiki/谷原夏樹 "wikilink")、[秋蕎麦](https://zh.wikipedia.org/wiki/秋蕎麦 "wikilink")、和擔當。劇本由、[御巫紫苑](https://zh.wikipedia.org/wiki/御巫紫苑 "wikilink")、[長嶋日出晴](https://zh.wikipedia.org/wiki/長嶋日出晴 "wikilink")、[鈴木雅詞和](https://zh.wikipedia.org/wiki/鈴木雅詞 "wikilink")[鈴木達也擔當](https://zh.wikipedia.org/wiki/鈴木達也 "wikilink")。
+原畫由[七尾奈留](../Page/七尾奈留.md "wikilink")、[影崎夕那](https://zh.wikipedia.org/wiki/影崎夕那 "wikilink")（影崎由那、影山由多）、[igul](https://zh.wikipedia.org/wiki/igul "wikilink")、[谷原夏樹](https://zh.wikipedia.org/wiki/谷原夏樹 "wikilink")、[秋蕎麦](https://zh.wikipedia.org/wiki/秋蕎麦 "wikilink")、和擔當。劇本由、[御巫紫苑](https://zh.wikipedia.org/wiki/御巫紫苑 "wikilink")、[長嶋日出晴](https://zh.wikipedia.org/wiki/長嶋日出晴 "wikilink")、[鈴木雅詞和](../Page/鈴木雅詞.md "wikilink")[鈴木達也擔當](https://zh.wikipedia.org/wiki/鈴木達也 "wikilink")。
 
 舞台是被稱為初音島的神奇之島，島上的[櫻花在](https://zh.wikipedia.org/wiki/櫻花 "wikilink")1年中持續不間斷地盛開著。男主角能夠用手變出[和菓子和看見他人的夢境](../Page/和菓子.md "wikilink")，故事描述男主角在風見學園的戀愛冒險經歷。
 

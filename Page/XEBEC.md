@@ -5,7 +5,7 @@
 公司原由[Production
 I.G於](../Page/Production_I.G.md "wikilink")1995年完全持股成立，後來跟Production
 I.G、[Mag Garden](../Page/Mag_Garden.md "wikilink")、[WIT
-STUDIO](https://zh.wikipedia.org/wiki/WIT_STUDIO "wikilink")、[SIGNAL.MD等一同納入](https://zh.wikipedia.org/wiki/SIGNAL.MD "wikilink")集團，成為上市集團一分子。公司早年曾因CG技術先驅拿下不少主要由[小學館企劃的玩具相關動畫](../Page/小學館.md "wikilink")，並於2000年早期有足夠資金設立Triple
+STUDIO](../Page/WIT_STUDIO.md "wikilink")、[SIGNAL.MD等一同納入](https://zh.wikipedia.org/wiki/SIGNAL.MD "wikilink")集團，成為上市集團一分子。公司早年曾因CG技術先驅拿下不少主要由[小學館企劃的玩具相關動畫](../Page/小學館.md "wikilink")，並於2000年早期有足夠資金設立Triple
 A、XEBEC M2及XEBEC
 Zwei等分社。至2005年，基於傳統玩具市場萎縮及CG技術普及化，管理層變賣了部分分社，並開始把業務核心轉為無法透過Production
 I.G名義推出之萌系及肉番動畫作品，但仍保留少數較大型機器人系作品，以方便規劃集團公司間的稅務事宜。
@@ -143,8 +143,7 @@ I.G同時吸納部分未被收購的作品版權，於4月5日完成所有事宜
   - 未來卡片 戰鬥夥伴100（OLM共同製作，2015年－2016年）
   - 未來卡片 戰鬥夥伴DDD（OLM共同製作，2016年－）
   - [競女\!\!\!\!\!\!\!\!](../Page/競女!!!!!!!!.md "wikilink")（2016年10月）
-  - [BanG
-    Dream\!](https://zh.wikipedia.org/wiki/BanG_Dream! "wikilink")（OLM共同製作，2017年）
+  - [BanG Dream\!](../Page/BanG_Dream!.md "wikilink")（OLM共同製作，2017年）
   - [時鐘機關之星](../Page/時鐘機關之星.md "wikilink")（2017年）
   - [驚爆危機 Invisible Victory](../Page/驚爆危機.md "wikilink")（2018年）
   - [搖曳莊的幽奈小姐](../Page/搖曳莊的幽奈小姐.md "wikilink")（2018年）

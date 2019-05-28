@@ -98,7 +98,7 @@ Mode）、對戰模式（VS Mode）、生存模式（Survival Mode）。
 | [孫悟空](https://zh.wikipedia.org/wiki/孫悟空 "wikilink") | [小山力也](../Page/小山力也.md "wikilink")                      | [天凜棒](https://zh.wikipedia.org/wiki/天凜棒 "wikilink")（[齊天大聖](https://zh.wikipedia.org/wiki/齊天大聖 "wikilink")） | 本作      |
 | [伏羲](../Page/伏羲.md "wikilink")                      | [安元洋貴](../Page/安元洋貴.md "wikilink")                      | [巨劍](../Page/劍.md "wikilink")（伏羲の大剣）                                                                       | 真·三國無雙2 |
 | [女媧](https://zh.wikipedia.org/wiki/女媧 "wikilink")   | [牧島有希](../Page/牧島有希.md "wikilink")                      | [細劍](../Page/劍.md "wikilink")（女媧の細剣）                                                                       | 真·三國無雙2 |
-| [源義經](../Page/源義經.md "wikilink")                    | [織田優成](https://zh.wikipedia.org/wiki/織田優成 "wikilink")   | [閃光の小手](https://zh.wikipedia.org/wiki/閃光の小手 "wikilink")（武雷の小手）                                             | 本作      |
+| [源義經](../Page/源義經.md "wikilink")                    | [織田優成](../Page/織田優成.md "wikilink")                      | [閃光の小手](https://zh.wikipedia.org/wiki/閃光の小手 "wikilink")（武雷の小手）                                             | 本作      |
 | [平清盛](../Page/平清盛.md "wikilink")                    | [大友龍三郎](../Page/大友龍三郎.md "wikilink")                    | [念珠](../Page/念珠.md "wikilink")（[重盛](../Page/平重盛.md "wikilink")）                                            | 本作      |
 | [卑彌呼](https://zh.wikipedia.org/wiki/卑彌呼 "wikilink") | [前田沙耶香](https://zh.wikipedia.org/wiki/前田沙耶香 "wikilink") | [銅鐸](https://zh.wikipedia.org/wiki/銅鐸 "wikilink")（[天照](https://zh.wikipedia.org/wiki/天照大神 "wikilink")）     | 本作      |
 

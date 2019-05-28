@@ -41,7 +41,7 @@ HTML5.0，HTML5.1和HTML5.2的合并时间表：
 
 ### 標記
 
-HTML5提供了一些新的[元素和屬性](../Page/HTML元素.md "wikilink")，反映典型的現代用法[網站](../Page/網站.md "wikilink")。其中有些是技術上類似`<div>`和`<span>`標籤，但有一定含義，例如`<nav>`（網站導航塊）和`<footer>`。這種標籤將有利於[搜索引擎的索引整理](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")、小螢幕裝置和視障人士使用。同時為其他瀏覽要素提供了新的功能，通過一個標準接口，如`<audio>`和`<video>`標記\[23\]\[24\]\[25\]。一些過時的[HTML
+HTML5提供了一些新的[元素和屬性](../Page/HTML元素.md "wikilink")，反映典型的現代用法[網站](../Page/網站.md "wikilink")。其中有些是技術上類似`<div>`和`<span>`標籤，但有一定含義，例如`<nav>`（網站導航塊）和`<footer>`。這種標籤將有利於[搜索引擎的索引整理](../Page/搜索引擎.md "wikilink")、小螢幕裝置和視障人士使用。同時為其他瀏覽要素提供了新的功能，通過一個標準接口，如`<audio>`和`<video>`標記\[23\]\[24\]\[25\]。一些過時的[HTML
 4.01標記將取消](../Page/HTML.md "wikilink")，其中包括純粹用作顯示效果的標記，如`<font>`和`<center>`，因為它們已經被[CSS取代](https://zh.wikipedia.org/wiki/CSS "wikilink")<ref>
 
 </ref>`。還有一些透過`[`DOM的網絡行為`](https://zh.wikipedia.org/wiki/DOM "wikilink")`。`

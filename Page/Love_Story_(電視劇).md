@@ -29,7 +29,7 @@ Story**》（日文原名ラブストーリー）是2001年4月15日～6月24日
 
   - 編劇：[北川悅吏子](../Page/北川悅吏子.md "wikilink")
   - 音樂：[日向大介](https://zh.wikipedia.org/wiki/日向大介 "wikilink")
-  - 導演：[生野慈朗](https://zh.wikipedia.org/wiki/生野慈朗 "wikilink")、[土井裕泰](https://zh.wikipedia.org/wiki/土井裕泰 "wikilink")、[今井夏木](https://zh.wikipedia.org/wiki/今井夏木 "wikilink")
+  - 導演：[生野慈朗](https://zh.wikipedia.org/wiki/生野慈朗 "wikilink")、[土井裕泰](../Page/土井裕泰.md "wikilink")、[今井夏木](https://zh.wikipedia.org/wiki/今井夏木 "wikilink")
   - 製作：[植田博樹](https://zh.wikipedia.org/wiki/植田博樹 "wikilink")
 
 ## 主題歌

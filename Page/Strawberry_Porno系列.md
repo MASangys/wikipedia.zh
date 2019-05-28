@@ -12,7 +12,7 @@ Life》（）是光榮於1982年發售的日本史上第一套的十八禁遊戲
 ## 社區主婦誘惑
 
 《社區主婦誘惑》（）是Strawberry
-Porno系列的第一作，於1983年發售的[PC-8801](https://zh.wikipedia.org/wiki/PC-8801 "wikilink")、[FM-7](../Page/FM-7.md "wikilink")、[FM-8電腦遊戲](https://zh.wikipedia.org/wiki/FM-8 "wikilink")。遊戲主角是一個工作於[川崎市新丸子的第日本家庭計劃](../Page/川崎市.md "wikilink")[北千住營業所的推銷員](https://zh.wikipedia.org/wiki/北千住 "wikilink")，要在一天內（9時至17時）把所有[避孕用品售出](https://zh.wikipedia.org/wiki/避孕 "wikilink")。他每次經過新[越谷小區H號館](https://zh.wikipedia.org/wiki/越谷 "wikilink")（7層）向居住的太太和女子大學生推銷貨品時都會產生下流的念頭。主角在遊戲中有「體力」、「智力」、「精力」等的設定參數，光榮稱此作的類型為「成人色情[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")」。
+Porno系列的第一作，於1983年發售的[PC-8801](../Page/PC-8801.md "wikilink")、[FM-7](../Page/FM-7.md "wikilink")、[FM-8電腦遊戲](https://zh.wikipedia.org/wiki/FM-8 "wikilink")。遊戲主角是一個工作於[川崎市新丸子的第日本家庭計劃](../Page/川崎市.md "wikilink")[北千住營業所的推銷員](https://zh.wikipedia.org/wiki/北千住 "wikilink")，要在一天內（9時至17時）把所有[避孕用品售出](https://zh.wikipedia.org/wiki/避孕 "wikilink")。他每次經過新[越谷小區H號館](https://zh.wikipedia.org/wiki/越谷 "wikilink")（7層）向居住的太太和女子大學生推銷貨品時都會產生下流的念頭。主角在遊戲中有「體力」、「智力」、「精力」等的設定參數，光榮稱此作的類型為「成人色情[角色扮演遊戲](https://zh.wikipedia.org/wiki/角色扮演遊戲 "wikilink")」。
 
 ## 充氣娃娃夢到了電鰻魚嗎？
 

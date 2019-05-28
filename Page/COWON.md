@@ -7,7 +7,7 @@
 | industry = 電子及數位產業 | company_slogan = Digital Pride | capital = ₩54億
 [韓圓](../Page/韓圓.md "wikilink") | num_employees = 180 | location =
 [Flag_of_South_Korea.svg](https://zh.wikipedia.org/wiki/File:Flag_of_South_Korea.svg "fig:Flag_of_South_Korea.svg")
-[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")
+[大韓民國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[首爾](../Page/首爾.md "wikilink")
 | telephone_no = 82-2-6900-0000 | homepage = [Cowon
 Global](http://www.cowonglobal.com/) }} **Cowon Systems, Inc.**
 (簡稱：**COWON**)是[大韓民國的一家電子公司](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")，在1995年所建立

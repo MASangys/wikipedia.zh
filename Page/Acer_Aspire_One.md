@@ -107,7 +107,7 @@ One的評價是相當正面的\[5\]，儘管它只是市場上較早出現的net
   - 升級內存
     與其他設備不同的是，在不將Aspire one解體的情況下是無法裝拆記憶體。512MB型號配置有一個空置的內存插槽，可用於購買額外512
     MB或1
-    GB的RAM，但不兼容2GB的記憶體。記憶體類型是PC2-5300的[SO-DIMM](https://zh.wikipedia.org/wiki/SO-DIMM "wikilink")。\[28\]
+    GB的RAM，但不兼容2GB的記憶體。記憶體類型是PC2-5300的[SO-DIMM](../Page/SO-DIMM.md "wikilink")。\[28\]
 
 ## 參考資料
 

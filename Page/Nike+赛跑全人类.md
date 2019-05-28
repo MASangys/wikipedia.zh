@@ -99,7 +99,7 @@
 <td><p><a href="../Page/慕尼黑.md" title="wikilink">慕尼黑</a></p></td>
 <td><p><strong><a href="../Page/剛薩·緯德蘭吉.md" title="wikilink">Günther Weidlinger</a></strong></p></td>
 <td><p><strong>0:29'25"</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尼科拉·斯比瑞格" title="wikilink">Nicola Spirig</a></p></td>
+<td><p><a href="../Page/尼科拉·斯比瑞格.md" title="wikilink">Nicola Spirig</a></p></td>
 <td><p>0:35'50"</p></td>
 <td><p>0:58:51'</p></td>
 </tr>
@@ -213,7 +213,7 @@
 </tr>
 <tr class="even">
 <td><p>20</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a></p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
 <td></td>
 <td></td>
 <td></td>

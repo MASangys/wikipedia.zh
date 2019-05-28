@@ -46,9 +46,9 @@ Zend Framework特征包括\[14\]
 
   - 所有组件完全面向对象，符合[E
     STRICT错误报表](https://zh.wikipedia.org/wiki/E_STRICT "wikilink")。
-  - [松耦合](https://zh.wikipedia.org/wiki/松耦合 "wikilink")（Use-at-will）设计可以让开发者独立使用组件，每个组件几乎不依赖其他组件。
+  - [松耦合](../Page/松耦合.md "wikilink")（Use-at-will）设计可以让开发者独立使用组件，每个组件几乎不依赖其他组件。
   - 默认提供了强壮而高效的MVC实现和基于PHP的模板。
-  - 經由[PDO](https://zh.wikipedia.org/wiki/PHP_Data_Objects "wikilink")，支持多种数据库，如[MySQL](../Page/MySQL.md "wikilink")，[Oracle](https://zh.wikipedia.org/wiki/Oracle_Database "wikilink")，[IBM
+  - 經由[PDO](../Page/PHP_Data_Objects.md "wikilink")，支持多种数据库，如[MySQL](../Page/MySQL.md "wikilink")，[Oracle](https://zh.wikipedia.org/wiki/Oracle_Database "wikilink")，[IBM
     DB2](../Page/IBM_DB2.md "wikilink")，[Microsoft SQL
     Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")，[PostgreSQL](../Page/PostgreSQL.md "wikilink")，[SQLite和](../Page/SQLite.md "wikilink")[Informix
     Dynamic

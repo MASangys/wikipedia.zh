@@ -58,7 +58,7 @@ Live）（不是东方卫视的同名节目）。
   - ICS新闻（ICS News，在节目单名称为《英语新闻》）
   - 天天健（Fitness Planet）
   - 谁与争锋
-  - [洋泾一大帮](https://zh.wikipedia.org/wiki/洋泾一大帮 "wikilink")
+  - [洋泾一大帮](../Page/洋泾一大帮.md "wikilink")
   - 金牌大状
   - 城市节拍（City Beat）
   - [极速前进：冲刺！中国](https://zh.wikipedia.org/wiki/极速前进：冲刺！中国 "wikilink")（第1、2、3季）

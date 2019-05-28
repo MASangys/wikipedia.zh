@@ -15,7 +15,7 @@ Lapp共同持有，於1998年3月提出申請，指其將用於一個構想中�
 
 XML-RPC透過向裝置了這個協定的伺服器發出HTTP請求。發出請求的用戶端一般都是需要向遠端系統要求呼叫的軟件。
 
-[JSON-RPC](https://zh.wikipedia.org/wiki/JSON-RPC "wikilink")（[JSON-RPC](https://zh.wikipedia.org/wiki/JSON-RPC "wikilink")）跟
+[JSON-RPC](../Page/JSON-RPC.md "wikilink")（[JSON-RPC](../Page/JSON-RPC.md "wikilink")）跟
 XML-RPC 相類似。
 
 ## 数据类型

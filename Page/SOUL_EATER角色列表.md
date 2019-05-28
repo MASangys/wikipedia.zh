@@ -346,7 +346,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 ## 死武專校長
 
   - **死神**〔死神 /
-    Shinigami〕（聲：日本：[大林隆介](https://zh.wikipedia.org/wiki/大林隆介 "wikilink")（廣播劇）／[小山力也](../Page/小山力也.md "wikilink")（動畫）；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")；香港：[陳永信](../Page/陳永信.md "wikilink")）
+    Shinigami〕（聲：日本：[大林隆介](../Page/大林隆介.md "wikilink")（廣播劇）／[小山力也](../Page/小山力也.md "wikilink")（動畫）；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")；香港：[陳永信](../Page/陳永信.md "wikilink")）
 
 <!-- end list -->
 
@@ -505,7 +505,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 800年前與死神一起戰鬥的人。漫畫中包括死神、阿修羅、伊波恩、關在伊波恩之書中的黑色物體、石中聖劍（關在伊波恩之書中的黑色物體與奇多提起過），另外三人被阿修羅吃了，共8个人，都是俗稱的「舊支配者」。
 
   - **死神**〔死神 /
-    Shinigami〕（聲：日本：[大林隆介](https://zh.wikipedia.org/wiki/大林隆介 "wikilink")（廣播劇）／[小山力也](../Page/小山力也.md "wikilink")（動畫）；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")；香港：[陳永信](../Page/陳永信.md "wikilink")）
+    Shinigami〕（聲：日本：[大林隆介](../Page/大林隆介.md "wikilink")（廣播劇）／[小山力也](../Page/小山力也.md "wikilink")（動畫）；臺灣：[陳幼文](../Page/陳幼文.md "wikilink")；香港：[陳永信](../Page/陳永信.md "wikilink")）
 
 <!-- end list -->
 
@@ -829,7 +829,7 @@ EATER](../Page/SOUL_EATER.md "wikilink")》裡的登場人物介紹。〔[日語
 ## 其他
 
   - **布蕾亞**〔ブレア/
-    Blair〕（聲：日本：[笹本優子](https://zh.wikipedia.org/wiki/笹本優子 "wikilink")（廣播劇）／[加藤英美里](../Page/加藤英美里.md "wikilink")（動畫）；臺灣：[馮美麗](../Page/馮美麗.md "wikilink")；香港：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
+    Blair〕（聲：日本：[笹本優子](../Page/笹本優子.md "wikilink")（廣播劇）／[加藤英美里](../Page/加藤英美里.md "wikilink")（動畫）；臺灣：[馮美麗](../Page/馮美麗.md "wikilink")；香港：[梁少霞](https://zh.wikipedia.org/wiki/梁少霞 "wikilink")）
 
 <!-- end list -->
 

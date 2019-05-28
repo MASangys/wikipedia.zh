@@ -1,5 +1,5 @@
 **BMD-2伞兵战车** (俄语：Боевая Машина Десантная－2
-简称БМД—2）是前[苏联于](../Page/苏联.md "wikilink")1985年代研发，1988年正式装备前苏联[空降军的一款](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](https://zh.wikipedia.org/wiki/空降戰車 "wikilink")。是[BMD系列伞兵战车的第二款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和[BMD-1完全一样](../Page/BMD-1步兵戰車.md "wikilink")。
+简称БМД—2）是前[苏联于](../Page/苏联.md "wikilink")1985年代研发，1988年正式装备前苏联[空降军的一款](https://zh.wikipedia.org/wiki/俄罗斯空降军 "wikilink")[水陸兩棲與](../Page/兩棲車輛.md "wikilink")[空降戰車](../Page/空降戰車.md "wikilink")。是[BMD系列伞兵战车的第二款战车](https://zh.wikipedia.org/wiki/BMD系列伞兵战车 "wikilink")。其底盘，舱室布置，发动机功率，悬挂方式和[BMD-1完全一样](../Page/BMD-1步兵戰車.md "wikilink")。
 但是装备了与BMP-2步兵战车一样的炮塔。因此被戏称为“BMD-2等于BMD-1的底盘加上BMP-2的炮塔”。
 
 ## 研发和装备背景

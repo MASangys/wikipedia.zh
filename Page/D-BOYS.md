@@ -162,13 +162,11 @@ D有Drama（戲劇）、Dream（夢想）、Debut（初次亮相）、Discovery�
   - [牧田哲也](../Page/牧田哲也.md "wikilink")（Makita Tetsuya、1984年6月7日）
   - [柳浩太郎](https://zh.wikipedia.org/wiki/柳浩太郎 "wikilink")（Yanagi
     Koutarou、1985年12月21日）（副隊長）
-  - [山田悠介](https://zh.wikipedia.org/wiki/山田悠介 "wikilink")（Yamada
-    Yusuke、1987年7月29日）
+  - [山田悠介](../Page/山田悠介.md "wikilink")（Yamada Yusuke、1987年7月29日）
   - [瀨戶康史](../Page/瀨戶康史.md "wikilink")（Seto Kouji、1988年5月18日）
   - [柳下大](../Page/柳下大.md "wikilink")（Yanagishita Tomo、1988年6月3日）
   - [宮崎秋人](../Page/宮崎秋人.md "wikilink")（Shuto Miyazaki、1990年9月3日）
-  - [前山剛久](https://zh.wikipedia.org/wiki/前山剛久 "wikilink")（Maeyama
-    Takahisa、1991年2月7日）
+  - [前山剛久](../Page/前山剛久.md "wikilink")（Maeyama Takahisa、1991年2月7日）
   - [橋本汰斗](../Page/橋本汰斗.md "wikilink")（Hashimoto Taito、1991年11月1日）
   - [碓井將大](../Page/碓井將大.md "wikilink")（Usui Masahiro、1991年12月3日）
   - [堀井新太](../Page/堀井新太.md "wikilink")（Horii Arata、1992年6月26日）

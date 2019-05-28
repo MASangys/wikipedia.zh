@@ -162,7 +162,7 @@ another</span>》，並有改編成[漫畫和](https://zh.wikipedia.org/wiki/漫
   - 美術監督：高橋和博
   - 音響監督：高寺健（）
   - 音響製作：HALF H.P STUDIO
-  - 編輯：田熊純（[Actas編輯室](https://zh.wikipedia.org/wiki/Actas "wikilink")）
+  - 編輯：田熊純（[Actas編輯室](../Page/Actas.md "wikilink")）
   - 動畫製作：[ZEXCS](../Page/ZEXCS.md "wikilink")
 
 ### 主題曲

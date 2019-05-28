@@ -9,7 +9,7 @@
 
 ### 对象处理
 
-C\#和Java都被设计成一个使用[动态调度的类似于](https://zh.wikipedia.org/wiki/动态调度 "wikilink")[C++语法的完全的](../Page/C++.md "wikilink")[面向对象语言](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")。（C++又是源自于[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")）。但是，这两种语言都不是c或者c++的一个扩展集。C\#和Java都使用[垃圾回收作为一种回收内存资源的手段](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")，而不是直接的释放内存。C\#和Java都包含[线程同步机制作为他们语法的一部分](../Page/线程.md "wikilink")。
+C\#和Java都被设计成一个使用[动态调度的类似于](../Page/动态调度.md "wikilink")[C++语法的完全的](../Page/C++.md "wikilink")[面向对象语言](https://zh.wikipedia.org/wiki/面向对象编程 "wikilink")。（C++又是源自于[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")）。但是，这两种语言都不是c或者c++的一个扩展集。C\#和Java都使用[垃圾回收作为一种回收内存资源的手段](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")，而不是直接的释放内存。C\#和Java都包含[线程同步机制作为他们语法的一部分](../Page/线程.md "wikilink")。
 
 #### 引用
 

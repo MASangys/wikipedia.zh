@@ -1,5 +1,5 @@
 **U-KISS**（），是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由經紀公司[NH
-Media於](https://zh.wikipedia.org/wiki/NH_Media "wikilink")2008年成立。成員包括**秀鉉**、**基燮**、**Eli**、**Hoon**、**Jun**。2011年2月，**亞歷山大**和[起範退出](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")。2013年10月，**東澔**退出，同時加入新成員Jun。2016年8月29日，**AJ**約滿退出。\[1\]。2017年3月，**Kevin**約滿退出。U-KISS的名稱代表著「Ubiquitous
+Media於](../Page/NH_Media.md "wikilink")2008年成立。成員包括**秀鉉**、**基燮**、**Eli**、**Hoon**、**Jun**。2011年2月，**亞歷山大**和[起範退出](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")。2013年10月，**東澔**退出，同時加入新成員Jun。2016年8月29日，**AJ**約滿退出。\[1\]。2017年3月，**Kevin**約滿退出。U-KISS的名稱代表著「Ubiquitous
 Korean International（Idol） Super Star」。U-KISS的粉絲名稱為KISSme，官方應援色為櫻桃紅。
 
 ## 成員資料
@@ -194,7 +194,7 @@ PlotData =
     2016～5th Anniversary Special～supported by
     CHIC-Smart》以宣傳五周年日語精選輯《[U-KISS JAPAN BEST
     COLLECTION
-    2011-2016](https://zh.wikipedia.org/wiki/U-KISS_JAPAN_BEST_COLLECTION_2011-2016 "wikilink")》。精選輯於12月21日開賣。於日本公信榜周榜獲得第八。
+    2011-2016](../Page/U-KISS_JAPAN_BEST_COLLECTION_2011-2016.md "wikilink")》。精選輯於12月21日開賣。於日本公信榜周榜獲得第八。
 
 <!-- end list -->
 
@@ -204,16 +204,16 @@ PlotData =
   - 2017年4月25日， Kevin正式退團，U-KISS其後以五人形式進行以後的活動，經紀公司亦表示不會再增加新人。
   - 2017年9月6日，基燮於拍攝預定於10月回歸的MV時，手上的煙霧彈突然爆炸，造成爆炸二度灼傷，鼻樑、眼睛及身上扎入了數十塊碎片，被緊急移送到仁川的一間醫院接受治療。
   - 2017年9月30日，U-KISS發表第十四張日語單曲《FLY》的MV，並於10月11日開賣，於日本公信榜周榜獲得第五。
-  - 2017年10月11日，Jun首次參演電視劇《[付岩洞復仇者們](https://zh.wikipedia.org/wiki/付岩洞復仇者們 "wikilink")》，並因為其細緻的演技與出眾的外貌，Jun開始獲得關注和討論。
+  - 2017年10月11日，Jun首次參演電視劇《[付岩洞復仇者們](../Page/付岩洞復仇者們.md "wikilink")》，並因為其細緻的演技與出眾的外貌，Jun開始獲得關注和討論。
   - 2017年10月28日，Jun參加了MBC選秀節目《[The
-    Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》，並以Superboot的成績被選拔。
+    Unit](../Page/The_Unit.md "wikilink")》，並以Superboot的成績被選拔。
   - 2017年12月28日，隊長秀鉉在成員和同事陪伴下低調入伍，U-KISS則暫時以四人形式進行以後的活動。
 
 <!-- end list -->
 
-  - 2018年1月尾，U-KISS的官方網站宣布將在3月21日發行第二張個人Solo與分隊的專輯《[Link](https://zh.wikipedia.org/wiki/Link_\(U-KISS專輯\) "wikilink")》，代表將U-KISS和歌迷「KISSme」連接起來。這也是U-KISS隊長秀鉉服兵役後組合第一次以四人體制發行的作品。
+  - 2018年1月尾，U-KISS的官方網站宣布將在3月21日發行第二張個人Solo與分隊的專輯《[Link](../Page/Link_\(U-KISS專輯\).md "wikilink")》，代表將U-KISS和歌迷「KISSme」連接起來。這也是U-KISS隊長秀鉉服兵役後組合第一次以四人體制發行的作品。
   - 2018年2月11日，在選秀節目《The
-    Unit》的最後一集中，Jun（李濬榮）獲得第1名，進入期間限定團體[UNB出道](https://zh.wikipedia.org/wiki/UNB "wikilink")，其專屬合約總共期間為13個月：其中前7個月要專一地待在UNB活動，剩下的6個月，可以回到原本所屬社進行活動。
+    Unit》的最後一集中，Jun（李濬榮）獲得第1名，進入期間限定團體[UNB出道](../Page/UNB.md "wikilink")，其專屬合約總共期間為13個月：其中前7個月要專一地待在UNB活動，剩下的6個月，可以回到原本所屬社進行活動。
   - 2018年3月8日，U-KISS發表《Link》中主打歌《No
     Regret》的MV，《Link》亦於3月21日開賣，於日本公信榜周榜獲得第四。
   - 2018年5月2日，U-KISS的日本官方網站宣布基燮與Hoon組成小組，將在7月4日發行日語合作單曲《Train/Milk
@@ -363,7 +363,7 @@ Kevin</p></td>
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p><a href="../Page/TVN.md" title="wikilink">tvN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/付岩洞復仇者們" title="wikilink">付岩洞復仇者們</a></p></td>
+<td><p><a href="../Page/付岩洞復仇者們.md" title="wikilink">付岩洞復仇者們</a></p></td>
 <td><p>Jun</p></td>
 <td><p>李秀謙</p></td>
 <td><p>主要演員</p></td>
@@ -372,7 +372,7 @@ Kevin</p></td>
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/離別已別離" title="wikilink">離別已別離</a></p></td>
+<td><p><a href="../Page/離別已別離.md" title="wikilink">離別已別離</a></p></td>
 <td><p>Jun</p></td>
 <td><p>韓敏秀</p></td>
 <td><p>主要演員</p></td>
@@ -437,9 +437,9 @@ Hoon<br />
 
 ### 綜藝節目
 
-| 日期                     | 節目名稱                                                                | 成員  | 備註     |
-| ---------------------- | ------------------------------------------------------------------- | --- | ------ |
-| 2017年10月28日-2018年2月10日 | KBS 《[The Unit](https://zh.wikipedia.org/wiki/The_Unit "wikilink")》 | JUN | ep1-15 |
+| 日期                     | 節目名稱                                             | 成員  | 備註     |
+| ---------------------- | ------------------------------------------------ | --- | ------ |
+| 2017年10月28日-2018年2月10日 | KBS 《[The Unit](../Page/The_Unit.md "wikilink")》 | JUN | ep1-15 |
 
 ### 錄製中
 
@@ -1170,7 +1170,7 @@ Arirang TV《Simply K-Pop》MC Eli
     2012年 日本动漫電影《翡翠森林狼与羊》OST〈Dear My Friend〉
     2012年 秀鉉solo數位單曲《雪人》
     2017年 KBS
-    2TV《[Manhole：夢遊仙境的奉弼](https://zh.wikipedia.org/wiki/Manhole：夢遊仙境的奉弼 "wikilink")》OST
+    2TV《[Manhole：夢遊仙境的奉弼](../Page/Manhole：夢遊仙境的奉弼.md "wikilink")》OST
     Part.5〈RUN A WAY〉
     2017年 合輯《Thank You Disney》收錄歌曲〈[Try
     Everything](../Page/嘗試一切.md "wikilink")〉（翻唱《[優獸大都會](https://zh.wikipedia.org/wiki/優獸大都會 "wikilink")》主題曲）

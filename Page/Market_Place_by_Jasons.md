@@ -87,7 +87,7 @@ PARKnSHOP及](https://zh.wikipedia.org/wiki/fusion_by_PARKnSHOP "wikilink")[U購
   - [錦田映河路](../Page/錦田.md "wikilink")1號[爾巒商場](../Page/爾巒.md "wikilink")，佔地約8500平方呎，於2014年12月1日開幕
   - [元朗](../Page/元朗.md "wikilink")[溱柏商場](../Page/溱柏.md "wikilink")，於2015年3月13日開幕
   - [大埔](https://zh.wikipedia.org/wiki/大埔 "wikilink")[白石角](../Page/白石角.md "wikilink")[逸瓏灣商場](https://zh.wikipedia.org/wiki/逸瓏灣 "wikilink")，於2015年11月27日開幕
-  - [東涌](https://zh.wikipedia.org/wiki/東涌 "wikilink")[昇薈商場](https://zh.wikipedia.org/wiki/昇薈 "wikilink")，於2016年7月15日開幕
+  - [東涌](https://zh.wikipedia.org/wiki/東涌 "wikilink")[昇薈商場](../Page/昇薈.md "wikilink")，於2016年7月15日開幕
   - [大埔](https://zh.wikipedia.org/wiki/大埔 "wikilink")[八號花園商場](https://zh.wikipedia.org/wiki/八號花園 "wikilink")，(前[惠康超級市場](../Page/惠康.md "wikilink")），於2016年7月22日開幕，24小時營業
   - [西貢](https://zh.wikipedia.org/wiki/西貢 "wikilink")[匡湖居購物商場](https://zh.wikipedia.org/wiki/匡湖居 "wikilink")，（前[惠康超級市場](../Page/惠康.md "wikilink")），於2016年12月16日開幕
   - [荃灣](../Page/荃灣.md "wikilink")[中國染廠大廈](../Page/中國染廠大廈.md "wikilink")[8咪半](https://zh.wikipedia.org/wiki/8咪半 "wikilink")，於2017年8月4日開幕

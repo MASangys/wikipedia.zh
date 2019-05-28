@@ -25,7 +25,7 @@ CF貨運機車，首個客戶為[立陶宛鐵路](https://zh.wikipedia.org/wiki/
 [奧地利聯邦鐵路亦有使用本型機車](https://zh.wikipedia.org/wiki/奧地利聯邦鐵路 "wikilink")，並命名為Rh
 2016型「大力神」貨運機車，分別由四間當地租賃公司擁有，合共100輛，統一使用聯邦鐵路漆裝及「OBB」品牌。該等機車外觀與原型車相同，但馬力略小。
 
-本型機車是[中歐班列貨運列車在奧地利段的本務機](https://zh.wikipedia.org/wiki/中歐班列 "wikilink")，以雙機重聯方式運作。
+本型機車是[中歐班列貨運列車在奧地利段的本務機](../Page/中歐班列.md "wikilink")，以雙機重聯方式運作。
 
 ### 德國
 
@@ -40,9 +40,9 @@ CF機車，按照[國際鐵路聯盟標準設計](../Page/國際鐵路聯盟.md 
 
 2003年7月24日，該5輛機車首度曝光，並帶有九廣鐵路公司標誌及編號，於[德國](../Page/德国.md "wikilink")[慕尼黑郊區的](../Page/慕尼黑.md "wikilink")[德國鐵路路軌上試運輸](https://zh.wikipedia.org/wiki/德國鐵路 "wikilink")\[3\]。
 
-5輛機車及後經船運於2003年9月13日運抵香港，並在紅磡貨場上岸，至2004年1月投入服務，並於1月29日舉行新機車移交典禮，由8005號機車擔當主禮機車。本型機車最初主要用於牽引貨運列車。九鐵訂購這些機車的目的，是為了取代1950年代製造的[G12型柴油機車](../Page/G12型柴油機車.md "wikilink")，並為大圍車廠提供一輛用作牽引列車進出維修區的機車（但統一配屬[羅湖編組站機車行車室](https://zh.wikipedia.org/wiki/羅湖編組站 "wikilink")（2012年後），[港鐵大圍車廠用車每次不定](../Page/港鐵大圍車廠.md "wikilink")，直至配屬該廠的[CKD0A型內燃機車於](https://zh.wikipedia.org/wiki/CKD0A型內燃機車 "wikilink")2015年投入服務後，本型機車不再在[馬鞍山綫上使用為止](../Page/馬鞍山綫.md "wikilink")），同時預留日後用於[港口鐵路線的可能性](../Page/港口鐵路線.md "wikilink")（但此計劃已廢止）。
+5輛機車及後經船運於2003年9月13日運抵香港，並在紅磡貨場上岸，至2004年1月投入服務，並於1月29日舉行新機車移交典禮，由8005號機車擔當主禮機車。本型機車最初主要用於牽引貨運列車。九鐵訂購這些機車的目的，是為了取代1950年代製造的[G12型柴油機車](../Page/G12型柴油機車.md "wikilink")，並為大圍車廠提供一輛用作牽引列車進出維修區的機車（但統一配屬[羅湖編組站機車行車室](https://zh.wikipedia.org/wiki/羅湖編組站 "wikilink")（2012年後），[港鐵大圍車廠用車每次不定](../Page/港鐵大圍車廠.md "wikilink")，直至配屬該廠的[CKD0A型內燃機車於](../Page/CKD0A型內燃機車.md "wikilink")2015年投入服務後，本型機車不再在[馬鞍山綫上使用為止](../Page/馬鞍山綫.md "wikilink")），同時預留日後用於[港口鐵路線的可能性](../Page/港口鐵路線.md "wikilink")（但此計劃已廢止）。
 
-而在[九龍南綫及](../Page/九龍南綫.md "wikilink")[沙田至中環綫工程中](../Page/沙田至中環綫.md "wikilink")，本型機車主力用作牽引[SP1900列車往](https://zh.wikipedia.org/wiki/SP1900 "wikilink")[港鐵八鄉車廠進行改裝及擴編](../Page/港鐵八鄉車廠.md "wikilink")，以及牽引新抵港的[港鐵屯馬綫中國製列車及](https://zh.wikipedia.org/wiki/港鐵屯馬綫中國製列車 "wikilink")[港鐵東鐵綫現代列車](../Page/港鐵東鐵綫現代列車.md "wikilink")（由第八編組起）由進入車廠。而自2017年起，CKD0A型內燃機車亦同時負責此牽引工作。
+而在[九龍南綫及](../Page/九龍南綫.md "wikilink")[沙田至中環綫工程中](../Page/沙田至中環綫.md "wikilink")，本型機車主力用作牽引[SP1900列車往](https://zh.wikipedia.org/wiki/SP1900 "wikilink")[港鐵八鄉車廠進行改裝及擴編](../Page/港鐵八鄉車廠.md "wikilink")，以及牽引新抵港的[港鐵屯馬綫中國製列車及](../Page/港鐵屯馬綫中國製列車.md "wikilink")[港鐵東鐵綫現代列車](../Page/港鐵東鐵綫現代列車.md "wikilink")（由第八編組起）由進入車廠。而自2017年起，CKD0A型內燃機車亦同時負責此牽引工作。
 
 另外，本型機車亦預期負責將退役後的[港鐵中期翻新列車送往八鄉車廠解體](../Page/港鐵中期翻新列車.md "wikilink")。
 
@@ -68,7 +68,7 @@ CF型機車銷路不佳（僅立陶宛鐵路購置）而告吹。在2012年，�
   - [G12型柴油機車](../Page/G12型柴油機車.md "wikilink")
   - [G16型柴油機車](https://zh.wikipedia.org/wiki/G16型柴油機車 "wikilink")
   - [G26型柴油機車](../Page/G26型柴油機車.md "wikilink")
-  - [CKD0A型內燃機車](https://zh.wikipedia.org/wiki/CKD0A型內燃機車 "wikilink")
+  - [CKD0A型內燃機車](../Page/CKD0A型內燃機車.md "wikilink")
   - [EuroSprinter](../Page/EuroSprinter.md "wikilink")，同一公司同時研發的電力機車車系
   - [神華號HXD1八軸/十二軸機車](https://zh.wikipedia.org/wiki/和諧1型電力機車#改進 "wikilink")，同一公司授權[中車株機生產之電力機車](https://zh.wikipedia.org/wiki/中車株洲電力機車 "wikilink")，採用與本型柴油機車相似頭型設計
 

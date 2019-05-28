@@ -1,7 +1,7 @@
 **Wonder
 Girls**（，[簡稱](https://zh.wikipedia.org/wiki/簡稱 "wikilink")：**WG**）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[JYP娛樂在](../Page/JYP娛樂.md "wikilink")2007年所推出的五人女子團體，原由[先藝擔任隊長](https://zh.wikipedia.org/wiki/閔先藝 "wikilink")。解散前成員包括[譽恩](https://zh.wikipedia.org/wiki/朴譽恩 "wikilink")、[宥斌](https://zh.wikipedia.org/wiki/金婑斌 "wikilink")、[惠林及](https://zh.wikipedia.org/wiki/禹惠林 "wikilink")[宣美](https://zh.wikipedia.org/wiki/李宣美 "wikilink")，解散前隊長由譽恩擔任。
 
-於2007年以〈Irony〉為人認識，同年九月，改編後的〈〉在韓國引發熱潮而知名度大增。2008年由[朴軫永親自參與演出的](../Page/朴軫永.md "wikilink")〈[Nobody](https://zh.wikipedia.org/wiki/Nobody "wikilink")〉MV一曲再度引領潮流。
+於2007年以〈Irony〉為人認識，同年九月，改編後的〈〉在韓國引發熱潮而知名度大增。2008年由[朴軫永親自參與演出的](../Page/朴軫永.md "wikilink")〈[Nobody](../Page/Nobody.md "wikilink")〉MV一曲再度引領潮流。
 
 JYP於2017年1月26日正式宣佈Wonder Girls因合約到期解散，於2月10日發行最後一張数位單曲。
 

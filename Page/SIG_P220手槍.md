@@ -4,7 +4,7 @@ Arms](https://zh.wikipedia.org/wiki/Swiss_Arms "wikilink")）與J. P. SAUER
 
 ## 设计
 
-该枪采用[铝合金](https://zh.wikipedia.org/wiki/铝合金 "wikilink")[底把](https://zh.wikipedia.org/wiki/机匣 "wikilink")，冲压[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，冷锻枪管。枪机利用延迟后坐方式闭锁，其設計較著名的白朗寧Hi-Power手槍更為簡化、易於生產與維護，因此許多在P220之後問世的產品如[GLOCK系列手槍](https://zh.wikipedia.org/wiki/GLOCK "wikilink")、[HK
+该枪采用[铝合金](https://zh.wikipedia.org/wiki/铝合金 "wikilink")[底把](../Page/机匣.md "wikilink")，冲压[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，冷锻枪管。枪机利用延迟后坐方式闭锁，其設計較著名的白朗寧Hi-Power手槍更為簡化、易於生產與維護，因此許多在P220之後問世的產品如[GLOCK系列手槍](https://zh.wikipedia.org/wiki/GLOCK "wikilink")、[HK
 USP手槍都採用了類似的閉鎖方式](../Page/HK_USP手槍.md "wikilink")。
 
 在简单工具的帮助下，P220可以通过更换枪管和[套筒来射击不同口径的子弹](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。
@@ -31,7 +31,7 @@ Sohne公司合作，以便應付未來可能的大宗手槍訂單。
 ### P220標準型
 
 亦稱為P220
-R，在[底把前端附加導軌](https://zh.wikipedia.org/wiki/机匣 "wikilink")（[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")），以便於裝設各種戰術配備如電筒、雷射瞄準器等等，裝彈數8發。有使用沙漠色底把的P220
+R，在[底把前端附加導軌](../Page/机匣.md "wikilink")（[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")），以便於裝設各種戰術配備如電筒、雷射瞄準器等等，裝彈數8發。有使用沙漠色底把的P220
 Combat、.22口徑的P220 classic 22、使用不鏽鋼材質的P220 ST等等衍生型號。
 
 ### P220便攜型

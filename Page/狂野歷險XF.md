@@ -46,8 +46,7 @@ Vanguard](../Page/狂野歷險_the_Vth_Vanguard.md "wikilink")」一樣是[佐�
     (Rupert)**　配音：[本田裕之](https://zh.wikipedia.org/wiki/本田裕之 "wikilink")
   - **夏爾特魯茲
     (Chartreuse)**　配音:[石川和之](https://zh.wikipedia.org/wiki/石川和之 "wikilink")
-  - **愛格菈蕾格
-    (Egralag)**　配音：[日野未步](https://zh.wikipedia.org/wiki/日野未步 "wikilink")
+  - **愛格菈蕾格 (Egralag)**　配音：[日野未步](../Page/日野未步.md "wikilink")
   - **艾森
     (Eisen)**　配音：[古田信幸](https://zh.wikipedia.org/wiki/古田信幸 "wikilink")
   - **威斯海特

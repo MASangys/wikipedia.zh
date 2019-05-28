@@ -40,7 +40,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 #### 1980年代
 
   - [柔道英雌](https://zh.wikipedia.org/wiki/以柔克剛 "wikilink")，又譯**以柔克剛**（）（總承包商：[Kitty
-    film](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")，1989年－1992年）
+    film](../Page/Kitty_film.md "wikilink")，1989年－1992年）
 
   - （）（總承包商：Kitty film，1989年－1990年）
 
@@ -110,7 +110,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
       - 第1季（2000年－2002年）
       - 第2季：第一神拳 新挑戰者（）（2009年）
       - 第3季：第一神拳
-        Rising（）（與[MAPPA共同製作](https://zh.wikipedia.org/wiki/MAPPA "wikilink")，2013年－2014年）
+        Rising（）（與[MAPPA共同製作](../Page/MAPPA.md "wikilink")，2013年－2014年）
 
   - （總承包商：，2000年－2003年）
 
@@ -125,8 +125,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - [銀河天使](../Page/銀河天使.md "wikilink")（）（2001年－2004年）
 
-  - （）（與[TNK共同製作](https://zh.wikipedia.org/wiki/TNK "wikilink")，協立製作：Studio
-    Matrix）
+  - （）（與[TNK共同製作](../Page/TNK.md "wikilink")，協立製作：Studio Matrix）
 
   - （）
 
@@ -168,7 +167,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
   - [星球流浪記](../Page/星球流浪記.md "wikilink")（）（與共同製作，2003年－2004年）
 
   - （總承包商：[Studio
-    Fantasia](https://zh.wikipedia.org/wiki/Studio_Fantasia "wikilink")，各話協力製作）
+    Fantasia](../Page/Studio_Fantasia.md "wikilink")，各話協力製作）
 
   - （）
 
@@ -195,7 +194,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - [琉球武士瘋雲錄](https://zh.wikipedia.org/wiki/琉球武士瘋雲錄 "wikilink")（）（總承包商：[Manglobe](../Page/Manglobe.md "wikilink")，OP協力）
 
-  - [薔薇少女](../Page/薔薇少女.md "wikilink")（）（總承包商：[NOMAD](https://zh.wikipedia.org/wiki/Nomad_\(公司\) "wikilink")，各話協力製作）
+  - [薔薇少女](../Page/薔薇少女.md "wikilink")（）（總承包商：[NOMAD](../Page/Nomad_\(公司\).md "wikilink")，各話協力製作）
 
   - [抓鬼天狗幫](../Page/抓鬼天狗幫.md "wikilink")（）（總承包商：STUDIO
     DEEN，協助各集原畫、動畫，2004年－2005年）
@@ -426,7 +425,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/ACCA13區監察課" title="wikilink">ACCA13區監察課</a></p></td>
+<td><p><a href="../Page/ACCA13區監察課.md" title="wikilink">ACCA13區監察課</a></p></td>
 <td></td>
 <td><p>1月10日－3月28日</p></td>
 <td><p><a href="../Page/夏目真悟.md" title="wikilink">夏目真悟</a></p></td>
@@ -438,7 +437,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <td></td>
 <td><p>2017年7月22日－<br />
 2018年1月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佐藤雄三" title="wikilink">佐藤雄三</a></p></td>
+<td><p><a href="../Page/佐藤雄三.md" title="wikilink">佐藤雄三</a></p></td>
 <td><p>原創</p></td>
 <td><p>Season 1</p></td>
 </tr>
@@ -454,7 +453,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <td><p><a href="https://zh.wikipedia.org/wiki/比宇宙還遠的地方" title="wikilink">比宇宙還遠的地方</a></p></td>
 <td></td>
 <td><p>1月2日－3月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/石塚敦子" title="wikilink">石塚敦子</a></p></td>
+<td><p><a href="../Page/石塚敦子.md" title="wikilink">石塚敦子</a></p></td>
 <td><p>原創</p></td>
 <td><p>rowspan="2" </p></td>
 </tr>
@@ -475,7 +474,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <td><p>第2期</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/溫泉屋小女將" title="wikilink">溫泉屋小女將</a></p></td>
+<td><p><a href="../Page/溫泉屋小女將.md" title="wikilink">溫泉屋小女將</a></p></td>
 <td></td>
 <td><p>4月8日－9月23日</p></td>
 <td><p>增原光幸、谷東</p></td>
@@ -483,7 +482,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/中間管理錄利根川" title="wikilink">中間管理錄利根川</a></p></td>
+<td><p><a href="../Page/中間管理錄利根川.md" title="wikilink">中間管理錄利根川</a></p></td>
 <td></td>
 <td><p>7月4日－12月25日</p></td>
 <td><p><a href="../Page/川口敬一郎.md" title="wikilink">川口敬一郎</a></p></td>
@@ -539,7 +538,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 <td><p>第3期</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/消滅都市" title="wikilink">消滅都市</a></p></td>
+<td><p><a href="../Page/消滅都市.md" title="wikilink">消滅都市</a></p></td>
 <td></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
@@ -715,8 +714,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
   - [東京巴比倫](https://zh.wikipedia.org/wiki/東京巴比倫 "wikilink")（東京BABYLON
     1992年，參與製作）
   - （ 1992年）
-  - [魔物獵人妖子系列](https://zh.wikipedia.org/wiki/魔物獵人妖子 "wikilink")（
-    1992年－1995年）
+  - [魔物獵人妖子系列](../Page/魔物獵人妖子.md "wikilink")（ 1992年－1995年）
   - （ 1993年）
   - （SINGLES 1993年）
   - [銃夢](https://zh.wikipedia.org/wiki/銃夢 "wikilink")（ 1993年）
@@ -737,7 +735,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
   - [幽幻怪社](https://zh.wikipedia.org/wiki/幽幻怪社 "wikilink")（1994年－1995年）
   - [DNA²](../Page/DNA².md "wikilink")（ 1995年）
   - [美幸夢遊仙境](https://zh.wikipedia.org/wiki/美幸夢遊仙境 "wikilink")（ 1995年）
-  - [鐵腕女警](https://zh.wikipedia.org/wiki/鐵腕女警 "wikilink")（ 1996年－1997年）
+  - [鐵腕女警](../Page/鐵腕女警.md "wikilink")（ 1996年－1997年）
   - [魔獸之狩](https://zh.wikipedia.org/wiki/魔獸之狩 "wikilink")（ 1997年）
   - [魔域幽靈](../Page/魔域幽靈.md "wikilink")（VAMPIRE HUNTER The Animated
     Series 1997年－1998年）
@@ -800,7 +798,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
 ## 相關項目
 
-  - [MAPPA](https://zh.wikipedia.org/wiki/MAPPA "wikilink")－由MADHOUSE創設元老之一的[丸山正雄退職之後創社](../Page/丸山正雄.md "wikilink")，2011年6月成立\[4\]。
+  - [MAPPA](../Page/MAPPA.md "wikilink")－由MADHOUSE創設元老之一的[丸山正雄退職之後創社](../Page/丸山正雄.md "wikilink")，2011年6月成立\[4\]。
   - [日本動畫工作室列表](../Page/日本動畫工作室列表.md "wikilink")
 
 ## 參考文獻

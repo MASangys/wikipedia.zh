@@ -14,7 +14,7 @@ Maker: Studio**。
 
 以下為 Game Maker Studio 與前作不同之處：
 
-  - 支援[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，[Android](../Page/Android.md "wikilink")，[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Tizen等平台輸出](../Page/Tizen.md "wikilink")，亦可於[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")、[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[PSVita以及](https://zh.wikipedia.org/wiki/PSVita "wikilink")[Xbox等主機發布](https://zh.wikipedia.org/wiki/Xbox "wikilink")。
+  - 支援[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")，[Android](../Page/Android.md "wikilink")，[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")，[Mac](https://zh.wikipedia.org/wiki/Mac "wikilink")，[Linux](../Page/Linux.md "wikilink")，[Tizen等平台輸出](../Page/Tizen.md "wikilink")，亦可於[PS3](https://zh.wikipedia.org/wiki/PS3 "wikilink")、[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[PSVita以及](https://zh.wikipedia.org/wiki/PSVita "wikilink")[Xbox等主機發布](../Page/Xbox.md "wikilink")。
   - 新增YoYo Compiler，大幅提高游戏运行效率。
   - [開發界面优化](../Page/集成开发环境.md "wikilink")，图像（Sprite）编辑器、場景（Room）编辑器改良。
   - 新增[著色器](https://zh.wikipedia.org/wiki/著色器 "wikilink")。

@@ -159,11 +159,11 @@
 | 24                                                                    | [民新街](https://zh.wikipedia.org/wiki/民新街 "wikilink")                  |
 | 25                                                                    | 模範邨                                                                  |
 | 26                                                                    | 健康村                                                                  |
-| 27                                                                    | [健威花園](https://zh.wikipedia.org/wiki/健威花園 "wikilink")                |
+| 27                                                                    | [健威花園](../Page/健威花園.md "wikilink")                                   |
 | 28                                                                    | 港運城                                                                  |
 | 29                                                                    | [新都城大廈](../Page/新都城大廈.md "wikilink")                                 |
 | 30                                                                    | [美麗閣](https://zh.wikipedia.org/wiki/美麗閣 "wikilink")                  |
-| 31                                                                    | [新時代廣場](https://zh.wikipedia.org/wiki/新時代廣場_\(北角\) "wikilink")       |
+| 31                                                                    | [新時代廣場](../Page/新時代廣場_\(北角\).md "wikilink")                          |
 | 32                                                                    | [炮台山站](../Page/炮台山站.md "wikilink")                                   |
 | 33                                                                    | [清風街](https://zh.wikipedia.org/wiki/清風街 "wikilink")                  |
 | 34                                                                    | [香港中央圖書館](https://zh.wikipedia.org/wiki/香港中央圖書館 "wikilink")          |

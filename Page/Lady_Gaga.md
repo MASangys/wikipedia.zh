@@ -17,7 +17,7 @@ Store上销售最快的歌曲](https://zh.wikipedia.org/wiki/iTunes_Store "wikil
 ARTPOP）中嘗試了[电子舞曲曲風](https://zh.wikipedia.org/wiki/电子舞曲 "wikilink")，專輯中的单曲《[掌声](https://zh.wikipedia.org/wiki/掌聲_\(女神卡卡歌曲\) "wikilink")》(Applause)
 在美國進入了榜单前列。2014年，嘎嘎与[托尼·班奈特合作發行了爵士专辑](https://zh.wikipedia.org/wiki/托尼·班奈特 "wikilink")《[脸贴脸](https://zh.wikipedia.org/wiki/脸贴脸 "wikilink")》（原文:
 Cheek To
-Cheek）該專輯是她連續第三張在美國奪得榜首的專輯。2016年，她發行了[软式摇滚曲風的第五張錄音室專輯](https://zh.wikipedia.org/wiki/软式摇滚 "wikilink")《[喬安](https://zh.wikipedia.org/wiki/喬安_\(女神卡卡專輯\) "wikilink")》（原文:
+Cheek）該專輯是她連續第三張在美國奪得榜首的專輯。2016年，她發行了[软式摇滚曲風的第五張錄音室專輯](https://zh.wikipedia.org/wiki/软式摇滚 "wikilink")《[喬安](../Page/喬安_\(女神卡卡專輯\).md "wikilink")》（原文:
 Joanne）由此她成為了2010年代第一位在美國獲得四張冠軍專輯的女歌手。嘎嘎同時也涉足演藝界，她在迷你劇《[美国恐怖故事：旅馆](https://zh.wikipedia.org/wiki/美国恐怖故事：旅馆 "wikilink")》（2015年–2016年）出演主角，由本劇獲得了一項[金球奖](https://zh.wikipedia.org/wiki/金球奖 "wikilink")；她參演了音樂浪漫劇情電影《[一個巨星的誕生](https://zh.wikipedia.org/wiki/一個巨星的誕生 "wikilink")》（2018年），為此她被提名為奧斯卡最佳女演員，卡卡為本片的[原聲帶獻唱](https://zh.wikipedia.org/wiki/一個巨星的誕生_\(2018年版原聲帶\) "wikilink")，使她成為2010年代唯一一位在美国擁有五張冠軍專輯的藝人，其中單曲《[淺灘](https://zh.wikipedia.org/wiki/淺灘_\(女神卡卡和布萊德利·庫柏歌曲\) "wikilink")》(Shallow)
 獲得了[金球獎與](../Page/金球獎.md "wikilink")[奧斯卡獎等兩座獎項的最佳原創歌曲](https://zh.wikipedia.org/wiki/奧斯卡獎 "wikilink")。
 
@@ -71,7 +71,7 @@ Jam面試演唱，然而被簽下後卡卡卻從未和瑞德見面:「我常常�
 2007年，他們於[Lollapalooza音樂節表演](../Page/Lollapalooza.md "wikilink")。\[27\]
 
 最初，專注於[前衛音樂及](../Page/前衛.md "wikilink")[電子舞曲](../Page/電子舞曲.md "wikilink")。後期卡卡開始將流行音樂的旋律和[華麗搖滾如大衛](../Page/華麗搖滾.md "wikilink")‧鮑伊和皇后樂團的音樂風格混合起來。在卡卡與星光持續演出時，富里薩持續與她製作音樂，並寄給。\[28\]
-2007年11月，赫爾伯特簽下了卡卡到她的品牌Streamline唱片，同時也是[新視鏡唱片的](https://zh.wikipedia.org/wiki/新視鏡唱片 "wikilink")[商業名稱](../Page/商業名稱.md "wikilink")，且合約當月生效。\[29\]
+2007年11月，赫爾伯特簽下了卡卡到她的品牌Streamline唱片，同時也是[新視鏡唱片的](../Page/新視鏡唱片.md "wikilink")[商業名稱](../Page/商業名稱.md "wikilink")，且合約當月生效。\[29\]
 卡卡在後期感謝赫爾伯特發掘她。\[30\]
 在著名音樂出版社擔任實習作詞人的期間，卡卡與索尼/聯合電視音樂尖下音樂出版合約。結過，她受雇為[布蘭妮·斯皮爾斯](../Page/布蘭妮·斯皮爾斯.md "wikilink")、[街頭頑童](https://zh.wikipedia.org/wiki/街頭頑童 "wikilink")、[菲姬](../Page/菲姬.md "wikilink")，以及[小野貓等知名歌手](https://zh.wikipedia.org/wiki/小野貓 "wikilink")
 (團體)作曲。\[31\]
@@ -123,7 +123,7 @@ The Fame Monster）錄製了8首歌。\[52\]
 且歌曲的音樂影片吸引了的注意並批評影片內容是在[褻瀆上帝](../Page/褻瀆.md "wikilink")。\[64\]
 上述兩張單曲皆於美國排行第5。\[65\]
 2012年4月，《羅曼死》的音樂影片成為了[Youtube](https://zh.wikipedia.org/wiki/Youtube "wikilink")[觀看次數最多的影片](../Page/觀看次數最多的YouTube影片列表.md "wikilink")，而同年十月，卡卡成為了第一名擁有影片合計達十億觀看次數的人。\[66\]\[67\]
-在[2010年MTV音樂錄影帶大獎時](https://zh.wikipedia.org/wiki/2010年MTV音樂錄影帶大獎 "wikilink")，卡卡在13項提名中獲獎8項，其中包含了《羅曼死》的。\[68\]
+在[2010年MTV音樂錄影帶大獎時](../Page/2010年MTV音樂錄影帶大獎.md "wikilink")，卡卡在13項提名中獲獎8項，其中包含了《羅曼死》的。\[68\]
 她成為了當屆獲得最多提名的女歌手，同時也是首位在年度最佳音樂錄影帶中獲兩次提名的女性\[69\]
 《[超人氣魔神](https://zh.wikipedia.org/wiki/超人氣魔神 "wikilink")》贏得了葛萊美獎，而《羅曼死》則贏得了以及。\[70\]
 
@@ -172,7 +172,7 @@ million in 2012 and $22.5 million in 2013.
 
 2011年，卡卡與[東尼·班奈特合作獻唱](https://zh.wikipedia.org/wiki/東尼·班奈特 "wikilink")[爵士版的](https://zh.wikipedia.org/wiki/爵士樂 "wikilink")《》(The
 Lady Is a Tramp) 、\[105\]
-與[艾爾頓·強為動畫電影](https://zh.wikipedia.org/wiki/艾爾頓·強 "wikilink")《[糯米歐與茱麗葉](https://zh.wikipedia.org/wiki/糯米歐與茱麗葉 "wikilink")》合唱歌曲《你好你好》(Hello
+與[艾爾頓·強為動畫電影](https://zh.wikipedia.org/wiki/艾爾頓·強 "wikilink")《[糯米歐與茱麗葉](../Page/糯米歐與茱麗葉.md "wikilink")》合唱歌曲《你好你好》(Hello
 Hello) 、\[106\]
 與以及[賈斯汀·提姆布萊克合作演唱](https://zh.wikipedia.org/wiki/賈斯汀·提姆布萊克 "wikilink")《》(3-Way
 (The Golden Rule)) 。\[107\]
@@ -202,10 +202,10 @@ What U Want) ，\[123\] 歌曲再度於匈牙利排行第1並於美國排行第1
 ，\[132\]
 在她在[ABC上主持了她的第二檔感恩節電視特別節目](https://zh.wikipedia.org/wiki/American_Broadcasting_Company "wikilink")—《》後，她在美國實境節目《[美國好聲音](https://zh.wikipedia.org/wiki/美國好聲音 "wikilink")》第五季中與克莉絲汀·阿奎萊拉表演了《為所欲為》特別版。\[133\]\[134\]
 隔年3月，卡卡為了紀念即將永久歇業的紐約，在該處歇業前舉辦了。\[135\]
-兩個月後，卡卡開始了[藝術狂歡:流行藝術巡迴演唱會的巡演](https://zh.wikipedia.org/wiki/流行藝術巡迴演唱會 "wikilink")，演唱會的概念源自於專輯宣傳活動之一的。巡演總收入為8.3千萬美元，其中巡演的場次包含了先前天生完美狂歡派對中取消的場次。\[136\]
+兩個月後，卡卡開始了[藝術狂歡:流行藝術巡迴演唱會的巡演](../Page/流行藝術巡迴演唱會.md "wikilink")，演唱會的概念源自於專輯宣傳活動之一的。巡演總收入為8.3千萬美元，其中巡演的場次包含了先前天生完美狂歡派對中取消的場次。\[136\]
 與此同時，卡卡與她同行多年的經紀人因創意理念不合而決裂，\[137\] 2014年6月時，她的新經紀人巴比·坎貝爾跳槽到娛樂公司[Live
 Nation
-Entertainment的藝術管理部門](https://zh.wikipedia.org/wiki/Live_Nation_Entertainment "wikilink")—Artist
+Entertainment的藝術管理部門](../Page/Live_Nation_Entertainment.md "wikilink")—Artist
 Nation。\[138\]
 這期間，她曾以配角的身分短暫出現在[勞勃·羅瑞格茲的電影](https://zh.wikipedia.org/wiki/勞勃·羅瑞格茲 "wikilink")《[萬惡城市2：紅顏奪命](../Page/萬惡城市2：紅顏奪命.md "wikilink")》，並同時確認將出席時尚品牌[凡賽斯的春夏活動](../Page/范思哲.md "wikilink")《Lady
 Gaga For Versace》。\[139\]\[140\]
@@ -253,19 +253,19 @@ going)。此舉引起中国粉絲反彈，他們聲称「国家面前无偶像�
 \[170\]
 雖有消息称[中宣部等國家機構要求中国媒體立即停播](https://zh.wikipedia.org/wiki/中宣部 "wikilink")、上传卡卡的作品，並禁售與之相關產品。但2013年，卡卡的新专辑《[流行藝術](../Page/流行藝術.md "wikilink")》仍獲准於中國發行\[171\]。据法新社等報道，[中國外交部發言人](https://zh.wikipedia.org/wiki/中國外交部發言人 "wikilink")[洪磊于](../Page/洪磊.md "wikilink")6月27日表示，自己不認識女神卡卡，并表示「希望國際社會認清達賴的真實面目和本質」，\[172\]但在中國外交部网站刊载的外交部发言记者会的报道里，並無提及此事。\[173\]
 
-卡卡再度於《[美國恐怖故事](https://zh.wikipedia.org/wiki/美國恐怖故事 "wikilink")》演出，並於第六季《[羅阿諾克](https://zh.wikipedia.org/wiki/美國恐怖故事：羅亞諾克 "wikilink")》中飾演巫女斯卡薩哈，\[174\]
+卡卡再度於《[美國恐怖故事](https://zh.wikipedia.org/wiki/美國恐怖故事 "wikilink")》演出，並於第六季《[羅阿諾克](../Page/美國恐怖故事：羅亞諾克.md "wikilink")》中飾演巫女斯卡薩哈，\[174\]
 該季影集於同年9月播至同年11月。\[175\]\[176\]
 卡卡於第五季中演出的角色在最後甚至影響了她未來的音樂風格，促使她以「音樂的黑暗性」為特色。\[177\]
-9月時，她發行了第五張個人專輯的首單《[完美幻象](https://zh.wikipedia.org/wiki/完美幻象 "wikilink")》(Perfect
-Illusion) ，該曲首周於美國榜單排行第15名。\[178\]\[179\]
-專輯名為《[喬安](https://zh.wikipedia.org/wiki/喬安_\(女神卡卡專輯\) "wikilink")》（原文:
+9月時，她發行了第五張個人專輯的首單《[完美幻象](../Page/完美幻象.md "wikilink")》(Perfect Illusion)
+，該曲首周於美國榜單排行第15名。\[178\]\[179\]
+專輯名為《[喬安](../Page/喬安_\(女神卡卡專輯\).md "wikilink")》（原文:
 Joanne），靈感源自於啟發她音樂靈感的，已逝世的同名姑姑。\[180\]
 10月21日，專輯藉著首周17萬份的成績成為了卡卡在《告示牌》中第四張冠軍專輯，也使她成為了美國2010年後第一位擁有四張冠軍專輯的女性。\[181\]
-隔月，專輯的第二張單曲《[百萬個理由](https://zh.wikipedia.org/wiki/百萬個理由 "wikilink")》(Million
-Reason) 正式發行，於美國榜單排行第4。\[182\]\[183\]
+隔月，專輯的第二張單曲《[百萬個理由](../Page/百萬個理由.md "wikilink")》(Million Reason)
+正式發行，於美國榜單排行第4。\[182\]\[183\]
 《喬安》和《百萬個理由》分別於葛萊美獎中提名為最佳流行演唱專輯以及最佳流行歌手。\[184\]
 為了宣傳專輯，卡卡開始了僅有3個場次的[Dive
-Bar巡迴演唱會](https://zh.wikipedia.org/wiki/Dive_Bar_Tour "wikilink")。\[185\]
+Bar巡迴演唱會](../Page/Dive_Bar_Tour.md "wikilink")。\[185\]
 
 隔年2月5日，卡卡主持並於演出。她的表演配上了數百台的設有照明裝置的無人機在休士頓的上空組成多中不同的形狀，這同時也是飛行無人機首次出現在超級盃的計畫節目中。\[186\]
 這表演在美國吸引了總計1.175億的觀看次數，超過了球賽本身總計1.133億的觀看次數。\[187\]
@@ -277,24 +277,24 @@ positions for "The Cure":
 
   -
   - </ref>
-    四個月後，卡卡開始了在超級盃中場秀後宣布的[喬安世界巡迴演唱會](https://zh.wikipedia.org/wiki/喬安世界巡迴演唱會 "wikilink")。\[193\]
+    四個月後，卡卡開始了在超級盃中場秀後宣布的[喬安世界巡迴演唱會](../Page/喬安世界巡迴演唱會.md "wikilink")。\[193\]
     11月，以卡卡製作《喬安》以及超級盃中場秀的準備過程為主題的紀錄片《女神卡卡：五呎二吋》，於[Netflix首次亮相](../Page/Netflix.md "wikilink")。\[194\]
-    透過電影，可以了解她已經多年因[慢性疼痛](https://zh.wikipedia.org/wiki/慢性疼痛 "wikilink")—後期發現是名為纖維肌痛症的慢性病的影響而苦，。\[195\]
+    透過電影，可以了解她已經多年因[慢性疼痛](../Page/慢性疼痛.md "wikilink")—後期發現是名為纖維肌痛症的慢性病的影響而苦，。\[195\]
     這也導致卡卡取消了喬安世界巡迴演唱會的最後十場場次，該巡演總共賣出了84萬2千張票，總銷售額為9.5千萬美元\[196\]\[197\]
 
 ### 2018年–至今：《一個巨星的誕生》、《謎》駐唱、第六張錄音室專輯
 
-[TIFF_2018_Lady_Gaga_(1_of_1)_(cropped_2)_(cropped).jpg](https://zh.wikipedia.org/wiki/File:TIFF_2018_Lady_Gaga_\(1_of_1\)_\(cropped_2\)_\(cropped\).jpg "fig:TIFF_2018_Lady_Gaga_(1_of_1)_(cropped_2)_(cropped).jpg")》首次上映前出席[2018年多倫多國際影展](https://zh.wikipedia.org/wiki/2018年多倫多國際影展 "wikilink")。\]\]
+[TIFF_2018_Lady_Gaga_(1_of_1)_(cropped_2)_(cropped).jpg](https://zh.wikipedia.org/wiki/File:TIFF_2018_Lady_Gaga_\(1_of_1\)_\(cropped_2\)_\(cropped\).jpg "fig:TIFF_2018_Lady_Gaga_(1_of_1)_(cropped_2)_(cropped).jpg")》首次上映前出席[2018年多倫多國際影展](../Page/2018年多倫多國際影展.md "wikilink")。\]\]
 同年3月，卡卡發聲表示支持於華盛頓哥倫比亞特區進行的，由高中生發起的槍枝管制聲訴活動 March for Our Lives。\[198\]
 並同時釋出了收錄於知名歌手[艾爾頓·強的致敬專輯](https://zh.wikipedia.org/wiki/艾爾頓·強 "wikilink")《翻玩金選》中的歌曲《給你的歌》翻唱版。\[199\]
 之後，她本人宣布正在參與由男演員[布萊德利·庫柏翻拍自電影](../Page/布萊德利·庫柏.md "wikilink")《星海浮沉錄》(1937年)
 的最新版本 (2018年)。電影中，她所飾演的新人歌手艾莉在劇中與資深歌手傑克森·緬因
 (布萊德利·庫柏飾演)相戀，但其戀情卻因為艾莉的事業成就高過傑克森而開始產生裂痕。\[200\]
 在庫柏看到卡卡於癌症研究募捐活動的表演後便試著與她接觸；卡卡表示當初她會同意這項計畫是因為她非常讚賞庫柏的作品以及電影劇本中對成癮和抑鬱的描寫。\[201\]\[202\]
-同年8月，該片於[第75屆威尼斯影展首次亮相](https://zh.wikipedia.org/wiki/第75屆威尼斯影展 "wikilink")，並隨後將在
+同年8月，該片於[第75屆威尼斯影展首次亮相](../Page/第75屆威尼斯影展.md "wikilink")，並隨後將在
 10月於全球同步釋出。\[203\]
 《[衛報](../Page/衛報.md "wikilink")》的彼得‧布萊德修將這部片描述為「值得一看的巨作」並寫到「卡卡具有扮演平凡角色、外星名人女皇這類形象甚遠的角色的能力。」\[204\]
-雜誌《[時代](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")》的史蒂芬妮‧札克雷克與前者一樣強調並讚美她「強力的演技」，並同時讚美她在片中發現到當卡卡卸下妝容、假髮和衣著時所具有的「獨特魅力」。\[205\]
+雜誌《[時代](../Page/時代雜誌.md "wikilink")》的史蒂芬妮‧札克雷克與前者一樣強調並讚美她「強力的演技」，並同時讚美她在片中發現到當卡卡卸下妝容、假髮和衣著時所具有的「獨特魅力」。\[205\]
 除了奧斯卡獎[最佳女主角的提名](https://zh.wikipedia.org/wiki/奧斯卡最佳女主角獎 "wikilink")，卡卡以飾演女主角艾莉贏得了[評論家選擇電影獎以及](../Page/評論家選擇電影獎最佳女主角.md "wikilink")的獎項，並於、[金球獎以及](../Page/金球獎最佳戲劇類電影女主角.md "wikilink")[美國演員工會獎獎項提名](https://zh.wikipedia.org/wiki/美國演員工會獎最佳女主角 "wikilink")。<ref name="a star is born awards and nominations">Awards
 and nominations for *A Star Is Born*:
 
@@ -321,14 +321,14 @@ and nominations for *A Star Is Born*:
 [布萊德利·庫柏於英國領獎](../Page/布萊德利·庫柏.md "wikilink")。\[220\]
 同月25日，卡卡於[奧斯卡金像獎頒獎禮上與](../Page/奥斯卡金像奖.md "wikilink")[布萊德利·庫柏首次於電視直播上合唱](../Page/布萊德利·庫柏.md "wikilink")《淺灘》，並憑《淺灘》獲頒最佳原創歌曲。\[221\]
 典禮完結後，卡卡前往瑪丹娜主辦的派對並拍下合照引起粉絲及媒體議論。\[222\]
-包含以上3項獎項，單曲使卡卡贏得了[金球獎和](https://zh.wikipedia.org/wiki/金球獎最佳原創歌曲 "wikilink")等最佳原創歌曲獎。並同時使卡卡成為史上第一位藝人及第一首歌曲於同一獎季贏得[金球獎](../Page/金球獎.md "wikilink")、[葛萊美獎](../Page/葛萊美獎.md "wikilink")、[英國電影學院獎及](../Page/英国电影学院奖.md "wikilink")[奧斯卡金像獎](../Page/奥斯卡金像奖.md "wikilink")\[223\]，並超越歌手[碧昂絲的](../Page/碧昂絲.md "wikilink")《女力來襲》(Formation)
+包含以上3項獎項，單曲使卡卡贏得了[金球獎和](../Page/金球獎最佳原創歌曲.md "wikilink")等最佳原創歌曲獎。並同時使卡卡成為史上第一位藝人及第一首歌曲於同一獎季贏得[金球獎](../Page/金球獎.md "wikilink")、[葛萊美獎](../Page/葛萊美獎.md "wikilink")、[英國電影學院獎及](../Page/英国电影学院奖.md "wikilink")[奧斯卡金像獎](../Page/奥斯卡金像奖.md "wikilink")\[223\]，並超越歌手[碧昂絲的](../Page/碧昂絲.md "wikilink")《女力來襲》(Formation)
 成為史上獲獎最多的歌曲，共32項。\[224\]
 
-2018年，卡卡簽下了為期兩年的駐唱合約，並於[拉斯維加斯的](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")[公園劇場舉辦演唱會](https://zh.wikipedia.org/wiki/蒙地卡羅賭場度假村 "wikilink")《女神卡卡:
+2018年，卡卡簽下了為期兩年的駐唱合約，並於[拉斯維加斯的](https://zh.wikipedia.org/wiki/拉斯維加斯 "wikilink")[公園劇場舉辦演唱會](../Page/蒙地卡羅賭場度假村.md "wikilink")《女神卡卡:
 謎》。\[225\] 駐唱由兩種不同類型的演唱會組成: 以戲劇性和卡卡熱門歌曲為主要焦點的《謎》，\[226\]
 以及以選自的歌曲以及爵士版的卡卡的歌曲為主的《爵士與鋼琴》。《謎》駐唱表演於2018年12月28日首次開唱，《爵士與鋼琴》則於隔年1月20日開唱。\[227\]
 駐唱同時，卡卡已經開始著手錄製第六張個人專輯，\[228\] 並與Boys
-Noize、DJ白影、[BloodPop以及蘇菲等知名製作人製作歌曲](https://zh.wikipedia.org/wiki/BloodPop "wikilink")。\[229\]\[230\]
+Noize、DJ白影、[BloodPop以及蘇菲等知名製作人製作歌曲](../Page/BloodPop.md "wikilink")。\[229\]\[230\]
 
 {{-}}
 
@@ -336,7 +336,7 @@ Noize、DJ白影、[BloodPop以及蘇菲等知名製作人製作歌曲](https://
 
 ### 所受影響
 
-卡卡在年幼時就開始收聽影響她將來風格的歌手的歌曲，例如[麥可·傑克森](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")、[披頭四](https://zh.wikipedia.org/wiki/披頭四 "wikilink")、[史提夫·汪達](https://zh.wikipedia.org/wiki/史提夫·汪達 "wikilink")、[皇后樂團](https://zh.wikipedia.org/wiki/皇后樂團 "wikilink")、[布鲁斯·斯普林斯汀](../Page/布鲁斯·斯普林斯汀.md "wikilink")、[平克·佛洛伊德](https://zh.wikipedia.org/wiki/平克·佛洛伊德 "wikilink")、[瑪麗亞·凱莉](https://zh.wikipedia.org/wiki/瑪麗亞·凱莉 "wikilink")、[感恩至死](../Page/感恩至死.md "wikilink")、[齊柏林飛船](../Page/齊柏林飛船.md "wikilink")、[惠特尼·休斯頓](https://zh.wikipedia.org/wiki/惠特尼·休斯頓 "wikilink")、[艾爾頓·強](https://zh.wikipedia.org/wiki/艾爾頓·強 "wikilink")、[金髮美女以及](../Page/金髮美女.md "wikilink")[垃圾合唱團](https://zh.wikipedia.org/wiki/垃圾合唱團 "wikilink")。\[231\]\[232\]\[233\]\[234\]
+卡卡在年幼時就開始收聽影響她將來風格的歌手的歌曲，例如[麥可·傑克森](https://zh.wikipedia.org/wiki/麥可·傑克森 "wikilink")、[披頭四](https://zh.wikipedia.org/wiki/披頭四 "wikilink")、[史提夫·汪達](https://zh.wikipedia.org/wiki/史提夫·汪達 "wikilink")、[皇后樂團](https://zh.wikipedia.org/wiki/皇后樂團 "wikilink")、[布鲁斯·斯普林斯汀](../Page/布鲁斯·斯普林斯汀.md "wikilink")、[平克·佛洛伊德](https://zh.wikipedia.org/wiki/平克·佛洛伊德 "wikilink")、[瑪麗亞·凱莉](../Page/瑪麗亞·凱莉.md "wikilink")、[感恩至死](../Page/感恩至死.md "wikilink")、[齊柏林飛船](../Page/齊柏林飛船.md "wikilink")、[惠特尼·休斯頓](https://zh.wikipedia.org/wiki/惠特尼·休斯頓 "wikilink")、[艾爾頓·強](https://zh.wikipedia.org/wiki/艾爾頓·強 "wikilink")、[金髮美女以及](../Page/金髮美女.md "wikilink")[垃圾合唱團](https://zh.wikipedia.org/wiki/垃圾合唱團 "wikilink")。\[231\]\[232\]\[233\]\[234\]
 卡卡音樂上多元的靈感來源從如[瑪丹娜和麥可](https://zh.wikipedia.org/wiki/瑪丹娜 "wikilink")·傑克森的[流行舞曲風](../Page/流行舞曲.md "wikilink")，到大衛·鮑伊和[佛萊迪·墨裘瑞的華麗搖滾風](https://zh.wikipedia.org/wiki/佛萊迪·墨裘瑞 "wikilink")，甚至包含[普普藝術家安迪](https://zh.wikipedia.org/wiki/普普藝術 "wikilink")·沃荷的戲劇性以及她自己在過去藝術劇場打下的藝術基礎。\[235\]\[236\]
 其中卡卡經常被拿去跟認為從卡卡身上反映出自己風格的歌手瑪丹娜相比。\[237\] 卡卡也曾表示希望能夠像她一樣徹底改變流行音樂。\[238\]
 卡卡對於[鐵娘子樂團及](../Page/鐵娘子樂團.md "wikilink")[黑色安息日等重金屬樂團的影響力表示讚賞](../Page/黑色安息日.md "wikilink")。\[239\]\[240\]
@@ -362,7 +362,7 @@ Noize、DJ白影、[BloodPop以及蘇菲等知名製作人製作歌曲](https://
   - [流行艺术](https://zh.wikipedia.org/wiki/流行艺术 "wikilink") （2013年）
   - [脸贴脸](https://zh.wikipedia.org/wiki/脸贴脸 "wikilink")
     （与[托尼·班奈特](https://zh.wikipedia.org/wiki/托尼·班奈特 "wikilink")，2014年）
-  - [乔安](https://zh.wikipedia.org/wiki/喬安_\(女神卡卡專輯\) "wikilink") （2016年）
+  - [乔安](../Page/喬安_\(女神卡卡專輯\).md "wikilink") （2016年）
 
 **原聲帶專輯**
 
@@ -384,8 +384,7 @@ Noize、DJ白影、[BloodPop以及蘇菲等知名製作人製作歌曲](https://
 
   - （与托尼·班奈特，2014年–2015年）
 
-  - [喬安世界巡迴演唱會](https://zh.wikipedia.org/wiki/喬安世界巡迴演唱會 "wikilink")
-    （2017年–2018年）
+  - [喬安世界巡迴演唱會](../Page/喬安世界巡迴演唱會.md "wikilink") （2017年–2018年）
 
 ## 影視作品
 

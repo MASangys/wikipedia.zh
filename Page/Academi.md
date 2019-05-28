@@ -32,7 +32,7 @@ Academy）接受訓練，並於結訓後進入公司服務。
 
   - 直昇機，使用於伊拉克。
 
-  - 人員運輸裝甲車，主要使用於伊拉克[巴格達機場與](https://zh.wikipedia.org/wiki/巴格達 "wikilink")[綠區間的](https://zh.wikipedia.org/wiki/綠區_\(巴格達\) "wikilink")。
+  - 人員運輸裝甲車，主要使用於伊拉克[巴格達機場與](https://zh.wikipedia.org/wiki/巴格達 "wikilink")[綠區間的](../Page/綠區_\(巴格達\).md "wikilink")。
 
   - 的裝甲車。\[10\]
 

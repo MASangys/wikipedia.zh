@@ -111,7 +111,7 @@ Kick！](https://zh.wikipedia.org/wiki/不可阻挡的High_Kick！ "wikilink")}-
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/申世京" title="wikilink">申世京</a>[3]</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/馮嘉德" title="wikilink">馮嘉德</a></p></td>
+<p><a href="../Page/馮嘉德.md" title="wikilink">馮嘉德</a></p></td>
 <td><p>信愛的姊姊。李家的幫傭。能幹。國中畢業跟著爸爸到太白山區躲債，因為後被討債集團追趕，意外與父親分開。帶著妹妹到首爾期待與父親團聚，並在生活陷入困難幸得朱利安相助，曾短暫寄住在金家，後來在李家當幫傭，與妹妹一同寄住。因為在山區生活之久，使得不太懂得人情世故，起初對許多事物感到生疏，但總是打起精神面對難關。最後在醫院往機場的路上下落不明。</p></td>
 </tr>
 <tr class="odd">
@@ -129,7 +129,7 @@ Kick！](https://zh.wikipedia.org/wiki/不可阻挡的High_Kick！ "wikilink")}-
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/陈智熙" title="wikilink">陈智熙</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/馮嘉德" title="wikilink">馮嘉德</a></p></td>
+<p><a href="../Page/馮嘉德.md" title="wikilink">馮嘉德</a></p></td>
 <td><p>賢慶與寶石的女兒，俊赫的妹妹。就讀小學二年級。沒禮貌、沒風度、脾氣差、愛恨分明、階級意識深、好勝心強和調皮，通常只要招惹一次就會淪為「臭屁股」，且在家裡都會有「都是我的」之惡劣心態（尤其食物），除非事後吃過得知不喜歡才作罷，後期已見改善。友情攻勢相當之獨特，首先一定供其看門牙；甚至還認為自己口水絕對乾淨，而無私分享自己吃過或舔過的食物。可能因為愛吃排骨，经常為便秘而苦恼。喜歡<a href="https://zh.wikipedia.org/wiki/Rain_(韓國藝人)" title="wikilink">Rain</a>。喜歡俊赫的同學 姜世鎬。 |-|-center&gt;鄭俊赫</p></td>
 </tr>
 </tbody>
@@ -157,7 +157,7 @@ Kick！](https://zh.wikipedia.org/wiki/不可阻挡的High_Kick！ "wikilink")}-
 <td><center>
 <p><a href="../Page/金慈玉.md" title="wikilink">金慈玉</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/杜素真" title="wikilink">杜素真</a></p></td>
+<p><a href="../Page/杜素真.md" title="wikilink">杜素真</a></p></td>
 <td><p>風波高中校監。平時的語氣及舉止優雅，但對男學生總以捏奶頭為處罰，因得「變態校監」之封號。後因剛好看到在講手機的世鎬並懲罰過重，再加上賢慶之前已誤擊其重要部位將事情鬧大，而都各有改進。年事已高，但內心還是少女，不但喜歡打扮得年輕，連個性也是這樣，且睡覺習慣綁辮子、穿可愛睡服還抱布偶娃娃睡，並尚未結婚。在與李順才交往一段時間後結婚。</p></td>
 </tr>
 <tr class="odd">

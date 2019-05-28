@@ -153,7 +153,7 @@
 <td><p>1.2 (2008年11月)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Linphone" title="wikilink">Linphone</a></p></td>
+<td><p><a href="../Page/Linphone.md" title="wikilink">Linphone</a></p></td>
 <td><p><a href="../Page/Linux.md" title="wikilink">Linux</a> 與 <a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td><p><a href="../Page/GNU通用公共许可证.md" title="wikilink">GPL</a> <a href="../Page/自由软件.md" title="wikilink">自由软件</a></p></td>
 <td><p><a href="../Page/会话发起协议.md" title="wikilink">SIP</a></p></td>
@@ -207,7 +207,7 @@
 <td><p>7.0 (2009年6月11日)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Mumble" title="wikilink">Mumble</a></p></td>
+<td><p><a href="../Page/Mumble.md" title="wikilink">Mumble</a></p></td>
 <td><p>Windows, Mac OS X, Linux, 及BSD (仅服务器)</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/GPL" title="wikilink">GPLv2</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Speex" title="wikilink">Speex</a></p></td>
@@ -460,7 +460,7 @@ FreeBSD</p></td>
 <td><p>2.0 (2009.06.24)</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Truphone" title="wikilink">Truphone</a></p></td>
+<td><p><a href="../Page/Truphone.md" title="wikilink">Truphone</a></p></td>
 <td><p>诺基亚-Symbian, iPhone, Android, Blackberry[3]</p></td>
 <td><p>专有免费软件</p></td>
 <td><p><a href="../Page/会话发起协议.md" title="wikilink">SIP</a></p></td>

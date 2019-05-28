@@ -19,11 +19,11 @@ Grace能创造印刷质量的图形输出。它支持[鼠标操作和脚本代�
 
   - [GNU Octave能够参数化调用](../Page/GNU_Octave.md "wikilink")
 
-  - [GROMACS](https://zh.wikipedia.org/wiki/GROMACS "wikilink")
+  - [GROMACS](../Page/GROMACS.md "wikilink")
 
   -
   -
-  - [VMD](https://zh.wikipedia.org/wiki/VMD "wikilink")
+  - [VMD](../Page/VMD.md "wikilink")
 
 ## 参见
 

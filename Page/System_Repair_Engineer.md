@@ -9,7 +9,7 @@ SREng日志中包括下列各项：
   - [浏览器加载项](https://zh.wikipedia.org/wiki/浏览器 "wikilink")
   - 正在运行的[进程](https://zh.wikipedia.org/wiki/进程 "wikilink")（包括进程模块信息）
   - [文件关联](https://zh.wikipedia.org/wiki/文件关联 "wikilink")
-  - [Winsock](https://zh.wikipedia.org/wiki/Winsock "wikilink") 提供者
+  - [Winsock](../Page/Winsock.md "wikilink") 提供者
   - [Autorun.inf](https://zh.wikipedia.org/wiki/Autorun.inf "wikilink")
   - [Hosts文件](../Page/Hosts文件.md "wikilink")
   - 进程特权扫描

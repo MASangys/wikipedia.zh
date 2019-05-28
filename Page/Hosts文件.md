@@ -38,7 +38,7 @@ hosts文件在不同[操作系统中的位置如下表所示](../Page/操作系�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Windows_NT.md" title="wikilink">NT</a>、<a href="../Page/Windows_2000.md" title="wikilink">2000</a>、<a href="../Page/Windows_XP.md" title="wikilink">XP</a>、<a href="../Page/Windows_Server_2003.md" title="wikilink">2003</a>、<a href="../Page/Windows_Vista.md" title="wikilink">Vista</a>、<br />
-<a href="../Page/Windows_Server_2008.md" title="wikilink">2008</a>、<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a>、<a href="../Page/Windows_Server_2012.md" title="wikilink">2012</a>、<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">8</a>、<a href="../Page/Windows_8.1.md" title="wikilink">8.1</a>、<a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">10</a></p></td>
+<a href="../Page/Windows_Server_2008.md" title="wikilink">2008</a>、<a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">7</a>、<a href="../Page/Windows_Server_2012.md" title="wikilink">2012</a>、<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">8</a>、<a href="../Page/Windows_8.1.md" title="wikilink">8.1</a>、<a href="../Page/Windows_10.md" title="wikilink">10</a></p></td>
 <td><p><code>%SystemRoot%\System32\drivers\etc\hosts</code></p></td>
 <td></td>
 </tr>
@@ -193,7 +193,7 @@ hosts文件的另一个重要用途就是用于拦截一些恶意网站的请求
   - [Microsoft
     Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 
-  - [Services文件](https://zh.wikipedia.org/wiki/Services_\(网络服务配置文件\) "wikilink")
+  - [Services文件](../Page/Services_\(网络服务配置文件\).md "wikilink")
 
 ## 参考文献及注释
 

@@ -61,7 +61,7 @@
 | 2  | [魔戒首部曲：魔戒現身](https://zh.wikipedia.org/wiki/魔戒首部曲：魔戒現身 "wikilink")          | 2001年 |
 | 3  | [風雲人物](../Page/風雲人物.md "wikilink")                                         | 1946年 |
 | 4  | [金剛](../Page/金刚_\(1933年电影\).md "wikilink")                                 | 1933年 |
-| 5  | [34街的奇蹟](https://zh.wikipedia.org/wiki/34街的奇蹟 "wikilink")                  | 1947年 |
+| 5  | [34街的奇蹟](../Page/34街的奇蹟.md "wikilink")                                     | 1947年 |
 | 6  | [夢幻成真](../Page/夢幻成真.md "wikilink")                                         | 1989年 |
 | 7  | [迷離世界](https://zh.wikipedia.org/wiki/迷離世界 "wikilink")                      | 1950年 |
 | 8  | [-{zh-hans:今天暫時停止;zh-hk:偷天情緣;zh-tw:今天暫時停止}-](../Page/今天暫時停止.md "wikilink") | 1993年 |
@@ -80,7 +80,7 @@
 | 6  | [-{zh-hans:銀翼殺手;zh-hk:2020;zh-tw:銀翼殺手}-](https://zh.wikipedia.org/wiki/銀翼殺手 "wikilink")           | 1982年 |
 | 7  | [異形](../Page/異形_\(電影\).md "wikilink")                                                             | 1979年 |
 | 8  | [魔鬼終結者2：審判日](https://zh.wikipedia.org/wiki/魔鬼終結者2：審判日 "wikilink")                                 | 1991年 |
-| 9  | [天外魔花](https://zh.wikipedia.org/wiki/天外魔花 "wikilink")                                             | 1956年 |
+| 9  | [天外魔花](../Page/天外魔花.md "wikilink")                                                                | 1956年 |
 | 10 | [回到未來](https://zh.wikipedia.org/wiki/回到未來 "wikilink")                                             | 1985年 |
 
 ### 運動類型片
@@ -167,7 +167,7 @@
 | 3  | [克拉瑪對克拉瑪](https://zh.wikipedia.org/wiki/克拉瑪對克拉瑪 "wikilink")    | 1979年 |
 | 4  | [大審判](https://zh.wikipedia.org/wiki/大審判_\(電影\) "wikilink")     | 1982年 |
 | 5  | [軍官與魔鬼](https://zh.wikipedia.org/wiki/軍官與魔鬼 "wikilink")        | 1992年 |
-| 6  | [控方证人](https://zh.wikipedia.org/wiki/控方证人 "wikilink")          | 1957年 |
+| 6  | [控方证人](../Page/控方证人.md "wikilink")                             | 1957年 |
 | 7  | [桃色血案](../Page/桃色血案.md "wikilink")                             | 1959年 |
 | 8  | [冷血](https://zh.wikipedia.org/wiki/冷血_\(電影\) "wikilink")       | 1967年 |
 | 9  | [暗夜哭聲](../Page/暗夜哭聲.md "wikilink")                             | 1988年 |

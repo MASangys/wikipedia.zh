@@ -39,7 +39,7 @@ Game Boy</p></td>
 </tr>
 <tr class="even">
 <td><p>1992年</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/神通小精靈" title="wikilink">神通小精靈</a></em></p></td>
+<td><p><em><a href="../Page/神通小精靈.md" title="wikilink">神通小精靈</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Sega" title="wikilink">Sega</a></p></td>
 <td><p>Mega Drive</p></td>
 </tr>
@@ -249,7 +249,7 @@ Android</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/精靈寶可夢_Let&#39;s_Go！皮卡丘／Let&#39;s_Go！伊布" title="wikilink">精靈寶可夢 Let's Go！皮卡丘／Let's Go！伊布</a></p></td>
+<td><p><a href="../Page/精靈寶可夢_Let&#39;s_Go！皮卡丘／Let&#39;s_Go！伊布.md" title="wikilink">精靈寶可夢 Let's Go！皮卡丘／Let's Go！伊布</a></p></td>
 <td><p>任天堂</p></td>
 <td><p>Nintendo Switch</p></td>
 </tr>

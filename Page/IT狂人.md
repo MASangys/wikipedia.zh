@@ -1,6 +1,6 @@
 《**IT狂人**》（，或\[1\]）是[英国第四台的一部](https://zh.wikipedia.org/wiki/英国第四台 "wikilink")[情景喜剧](../Page/情景喜剧.md "wikilink")，编剧为[格雷厄姆·莱恩汉](https://zh.wikipedia.org/wiki/格雷厄姆·莱恩汉 "wikilink")，制片人为阿什·阿塔拉（）。该剧于2006年2月3日首播，共播出4季25集，于2013年9月27日以一部特别篇完结。《IT狂人》获得了多个奖项和提名，包括[英国学术电视奖和](https://zh.wikipedia.org/wiki/英国学术电视奖 "wikilink")[艾美奖](../Page/艾美奖.md "wikilink")\[2\]。
 
-电视剧的背景為一家名雷荷姆（）的虛構公司，以三位任職於IT部門的主人翁為主題，其中包括兩個電腦怪胎和對電腦一竅不通的「員工關係經理」。他們分別是莫里斯·摩斯（，[理查德·艾欧阿德饰](../Page/理查德·艾欧阿德.md "wikilink")）、羅伊·崔尼曼（，[克里斯·奥多德飾](https://zh.wikipedia.org/wiki/克里斯·奥多德 "wikilink")）和珍·巴伯（，[凱瑟琳·帕金森飾](https://zh.wikipedia.org/wiki/凱瑟琳·帕金森 "wikilink")）。电视剧也聚焦于雷荷姆工业（）的老板们:
+电视剧的背景為一家名雷荷姆（）的虛構公司，以三位任職於IT部門的主人翁為主題，其中包括兩個電腦怪胎和對電腦一竅不通的「員工關係經理」。他們分別是莫里斯·摩斯（，[理查德·艾欧阿德饰](../Page/理查德·艾欧阿德.md "wikilink")）、羅伊·崔尼曼（，[克里斯·奥多德飾](../Page/克里斯·奥多德.md "wikilink")）和珍·巴伯（，[凱瑟琳·帕金森飾](https://zh.wikipedia.org/wiki/凱瑟琳·帕金森 "wikilink")）。电视剧也聚焦于雷荷姆工业（）的老板们:
 Denholm Reynholm ([Chris
 Morris](https://zh.wikipedia.org/wiki/Chris_Morris_\(satirist\) "wikilink"))
 和之后的, 他的儿子 Douglas ([Matt
@@ -53,8 +53,7 @@ Denholm相信了珍在面试中的吹嘘并且任命珍为IT部的主管。在�
 Coming](https://zh.wikipedia.org/wiki/List_of_The_IT_Crowd_episodes#ep25 "wikilink")"
 (有时被错误认为成 "The Last Byte"),\[4\]\[5\]\[6\] 《IT狂人》最终篇章，
 在2013年9月27日作为特辑播放。 制作开始于2011年, 影片于2013年七月杀青.
-[克里斯·奥多德](https://zh.wikipedia.org/wiki/克里斯·奥多德 "wikilink")
-(罗伊)在拍摄完成后说:
+[克里斯·奥多德](../Page/克里斯·奥多德.md "wikilink") (罗伊)在拍摄完成后说:
 "再次和这些角色打招呼非常开心–但同时也是和他们说再见的时候。我觉得我们目前可能已经拍完了，如果我们之后继续拍的话我会很吃惊."\[7\]
 
 ## 参考文献

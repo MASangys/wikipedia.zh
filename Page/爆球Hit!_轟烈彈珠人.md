@@ -163,7 +163,7 @@
 
 <!-- end list -->
 
-  - 大黒 銀蔵（配音員：[永野善一](https://zh.wikipedia.org/wiki/永野善一 "wikilink")）
+  - 大黒 銀蔵（配音員：[永野善一](../Page/永野善一.md "wikilink")）
 
 <!-- end list -->
 
@@ -179,7 +179,7 @@
 
 <!-- end list -->
 
-  - 釧路 和夫（配音員：[永野善一](https://zh.wikipedia.org/wiki/永野善一 "wikilink")）
+  - 釧路 和夫（配音員：[永野善一](../Page/永野善一.md "wikilink")）
 
 <!-- end list -->
 

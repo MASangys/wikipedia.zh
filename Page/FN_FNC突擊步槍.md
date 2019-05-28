@@ -14,7 +14,7 @@ CAL的設計改進而成](../Page/FN_CAL突擊步槍.md "wikilink")。
 \[3\]。[比利時國防軍於](../Page/比利時國防軍.md "wikilink")1989年正式採納FNC為制式步槍，並用作替換服役多年的[7.62毫米口徑](../Page/7.62×51mm_NATO.md "wikilink")[FN
 FAL自動步槍](../Page/FN_FAL自動步槍.md "wikilink") \[4\]。
 
-[印尼於](https://zh.wikipedia.org/wiki/印尼 "wikilink")1982年購入了10,000枝FNC步槍裝備[印尼空軍](https://zh.wikipedia.org/wiki/印尼空軍 "wikilink")，並隨即向FN原廠取得生產權於當地授權生產，以供應給[印尼軍隊使用](https://zh.wikipedia.org/wiki/印尼軍事 "wikilink")。這些步槍由一家叫的印尼公司生產，並被命名為“”和“”。一款被改良自適應北極環境的FNC改型亦於1986年被瑞典國防軍定為制式步槍（命名為[Ak
+[印尼於](https://zh.wikipedia.org/wiki/印尼 "wikilink")1982年購入了10,000枝FNC步槍裝備[印尼空軍](../Page/印尼空軍.md "wikilink")，並隨即向FN原廠取得生產權於當地授權生產，以供應給[印尼軍隊使用](https://zh.wikipedia.org/wiki/印尼軍事 "wikilink")。這些步槍由一家叫的印尼公司生產，並被命名為“”和“”。一款被改良自適應北極環境的FNC改型亦於1986年被瑞典國防軍定為制式步槍（命名為[Ak
 5](../Page/Ak_5突擊步槍.md "wikilink")），並成功出口到少數國家。
 
 ## 設計
@@ -32,7 +32,7 @@ FNC是一種[擊發調變式](https://zh.wikipedia.org/wiki/擊發調變式 "wik
 
 該槍的彈簧抽殼器位於槍栓裡面，拋殼器則是固定的，並鉚接在[機匣殼裡面](https://zh.wikipedia.org/wiki/機匣 "wikilink")。FNC有著一個兩段式的氣閥，擊鎚式發射機制以及一個快慢機，它具有“保險”（S）、“單發”（1）、“[三發點放](../Page/三發點放.md "wikilink")”（3）和“全自動”（A）四個模式。
 
-FNC的槍管裝有一個，它亦可用於發射北約制式[22毫米槍榴彈](https://zh.wikipedia.org/wiki/22毫米槍榴彈 "wikilink")（只有標準型步槍能發射）。其導氣管當中含有一個氣閥以用於隔離氣動系統，並增大推進力，以讓其能夠發射槍榴彈。金屬製的氣閥開關被拉直後便能充當一個V形槽[照準器](../Page/照準器.md "wikilink")，以用於槍榴彈的瞄準。活塞頭和延伸部分，以及氣密管，槍管孔和膛室均鍍有硬鉻，以最大限度地減少推進劑結垢的影響。
+FNC的槍管裝有一個，它亦可用於發射北約制式[22毫米槍榴彈](../Page/22毫米槍榴彈.md "wikilink")（只有標準型步槍能發射）。其導氣管當中含有一個氣閥以用於隔離氣動系統，並增大推進力，以讓其能夠發射槍榴彈。金屬製的氣閥開關被拉直後便能充當一個V形槽[照準器](../Page/照準器.md "wikilink")，以用於槍榴彈的瞄準。活塞頭和延伸部分，以及氣密管，槍管孔和膛室均鍍有硬鉻，以最大限度地減少推進劑結垢的影響。
 
 該槍以一個30發容量的鋼製[STANAG彈匣供彈](../Page/STANAG彈匣.md "wikilink")，它沒有空倉掛機功能，在最後一發子彈打完後槍機不會保持開放。然而射手卻能夠手動把槍機鎖定。FNC的彈匣能夠用於[AR-15和](../Page/AR-15自動步槍.md "wikilink")[M16式槍械](../Page/M16突擊步槍.md "wikilink")，然而在使用期間會沒有空倉掛機功能
 \[6\]。
@@ -145,7 +145,7 @@ G3自動步槍的瑞典仿製版本](../Page/HK_G3自動步槍.md "wikilink")）
   - [SS-1突擊步槍](https://zh.wikipedia.org/wiki/SS-1突擊步槍 "wikilink")
   - [M16突擊步槍](../Page/M16突擊步槍.md "wikilink")
   - [FN F2000突擊步槍](../Page/FN_F2000突擊步槍.md "wikilink")
-  - [各國軍隊制式步槍列表](https://zh.wikipedia.org/wiki/各國軍隊制式步槍列表 "wikilink")
+  - [各國軍隊制式步槍列表](../Page/各國軍隊制式步槍列表.md "wikilink")
 
 ## 參考來源
 

@@ -11,7 +11,7 @@ IMS在设计时优先使用属于[IETF的协议](../Page/互联网工程任务�
 
 现今有太多内容获取/绕过传统网络运营商与他人联系的方式，因此IMS的作用受到挑战。
 
-基于IMS达成全球标准的例子可见多媒体通话，这是[VoLTE和](https://zh.wikipedia.org/wiki/VoLTE "wikilink")[富通讯解决方案](https://zh.wikipedia.org/wiki/富通讯解决方案 "wikilink")（又被称作joyn或进阶消息服务）的基础。
+基于IMS达成全球标准的例子可见多媒体通话，这是[VoLTE和](https://zh.wikipedia.org/wiki/VoLTE "wikilink")[富通讯解决方案](../Page/富通讯解决方案.md "wikilink")（又被称作joyn或进阶消息服务）的基础。
 
 ## 历史
 

@@ -63,7 +63,7 @@ DiBona也在2009年宣稱Theora的編碼品質不佳\[42\]，為了回應這個�
 ### 播放表現
 
 針對Theora的硬體解碼器，目前有開放原始碼的[VHDL程式正在開發中](../Page/VHDL.md "wikilink")\[45\]。而2006年開始也有針對[Nios
-II以及](https://zh.wikipedia.org/wiki/Nios_II "wikilink")[LEON處理器做為解碼器的開發計畫](https://zh.wikipedia.org/wiki/LEON "wikilink")\[46\]，不過目前並沒有任何可以針對Theora影像做硬體解碼的產品出現在市面上。
+II以及](../Page/Nios_II.md "wikilink")[LEON處理器做為解碼器的開發計畫](https://zh.wikipedia.org/wiki/LEON "wikilink")\[46\]，不過目前並沒有任何可以針對Theora影像做硬體解碼的產品出現在市面上。
 
 ## 播放
 

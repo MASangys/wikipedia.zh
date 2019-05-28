@@ -6,7 +6,7 @@
   - [赤經](https://zh.wikipedia.org/wiki/赤經 "wikilink")：18h 07m 30.1s
   - [赤緯](https://zh.wikipedia.org/wiki/赤緯 "wikilink")：+45° 51' 31"
 
-武仙座DQ是在分類上被稱為[中介偏振星的](https://zh.wikipedia.org/wiki/中介偏振星 "wikilink")[激變變星原型](../Page/激變變星.md "wikilink")。該系統的軌道週期有變化，可能代表第三個天體存在\[1\]。
+武仙座DQ是在分類上被稱為[中介偏振星的](../Page/中介偏振星.md "wikilink")[激變變星原型](../Page/激變變星.md "wikilink")。該系統的軌道週期有變化，可能代表第三個天體存在\[1\]。
 
 ## 次恆星天體
 

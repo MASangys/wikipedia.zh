@@ -37,7 +37,7 @@ Y形连接相邻电导的乘积/Y形连接电导之和
 
 ## 图论
 
-在[图论中](../Page/图论.md "wikilink")，Y-Δ变换表示将一个图的Y形[子图用等价的Δ形子图代替](https://zh.wikipedia.org/wiki/子图 "wikilink")。变换後的边数不变，但[顶点数和](https://zh.wikipedia.org/wiki/顶点_\(图论\) "wikilink")[回路数会变化](https://zh.wikipedia.org/wiki/回路_\(图论\) "wikilink")。如果这两个图可以通过一系列的Y-Δ变换互相变换得到，那么就可以成这两个图**Y-Δ等价**。例如，[佩特森圖就是一个Y](https://zh.wikipedia.org/wiki/佩特森圖 "wikilink")-Δ[等价类](../Page/等价类.md "wikilink")。
+在[图论中](../Page/图论.md "wikilink")，Y-Δ变换表示将一个图的Y形[子图用等价的Δ形子图代替](https://zh.wikipedia.org/wiki/子图 "wikilink")。变换後的边数不变，但[顶点数和](../Page/顶点_\(图论\).md "wikilink")[回路数会变化](https://zh.wikipedia.org/wiki/回路_\(图论\) "wikilink")。如果这两个图可以通过一系列的Y-Δ变换互相变换得到，那么就可以成这两个图**Y-Δ等价**。例如，[佩特森圖就是一个Y](https://zh.wikipedia.org/wiki/佩特森圖 "wikilink")-Δ[等价类](../Page/等价类.md "wikilink")。
 
 ## 推导
 

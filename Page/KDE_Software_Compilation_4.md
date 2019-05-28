@@ -117,7 +117,7 @@ WebKit库提供与[Konqueror中的网络设置](../Page/Konqueror.md "wikilink")
 
 ### Plasma Desktop and Netbook 4.5.0
 
-[Plasma桌面的易用性得到改进](https://zh.wikipedia.org/wiki/Plasma "wikilink")，包括精简通知和任务区域和采用[Freedesktop.org的通知协议](../Page/Freedesktop.org.md "wikilink")。\[23\]
+[Plasma桌面的易用性得到改进](../Page/Plasma.md "wikilink")，包括精简通知和任务区域和采用[Freedesktop.org的通知协议](../Page/Freedesktop.org.md "wikilink")。\[23\]
 
 ### KDE Applications 4.5.0
 

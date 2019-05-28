@@ -296,7 +296,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[永野善一](https://zh.wikipedia.org/wiki/永野善一 "wikilink")／[河相智哉](https://zh.wikipedia.org/wiki/河相智哉 "wikilink")；台灣：待查／[宋昱璁](../Page/宋昱璁.md "wikilink")；香港：待查／陳振聲（Animax）
+    聲優：日本：[永野善一](../Page/永野善一.md "wikilink")／[河相智哉](../Page/河相智哉.md "wikilink")；台灣：待查／[宋昱璁](../Page/宋昱璁.md "wikilink")；香港：待查／陳振聲（Animax）
     職業獵人。287期獵人試驗中負責跟在半藏後面審查他的成績，並在最終試驗作為第一場比賽（小傑對半藏）的裁判。
 
 ### 嵌合蟻討伐隊
@@ -419,7 +419,7 @@
 <!-- end list -->
 
   -
-    聲：日本：[森訓久](https://zh.wikipedia.org/wiki/森訓久 "wikilink")→[石塚堅](https://zh.wikipedia.org/wiki/石塚堅 "wikilink")（OVA）／[梶雅人](https://zh.wikipedia.org/wiki/梶雅人 "wikilink")；台灣：待查／[黃天佑](../Page/黃天佑.md "wikilink")
+    聲：日本：[森訓久](https://zh.wikipedia.org/wiki/森訓久 "wikilink")→[石塚堅](../Page/石塚堅.md "wikilink")（OVA）／[梶雅人](https://zh.wikipedia.org/wiki/梶雅人 "wikilink")；台灣：待查／[黃天佑](../Page/黃天佑.md "wikilink")
     第287、288期獵人試驗考生，考生編號197號(287期)。亞摩里三兄弟中排行老大。在287期第四試驗中，想攻擊奇犽卻很快被制伏，並交出號碼牌，之後牌子（半藏的目標）被奇犽丟飛出去而淘汱。隔年，在288期獵人試驗中被奇犽打倒而淘汰。
 
 <!-- end list -->
@@ -449,7 +449,7 @@
 <!-- end list -->
 
   -
-    聲：日本：[永野善一](https://zh.wikipedia.org/wiki/永野善一 "wikilink")／[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")；台灣：待查
+    聲：日本：[永野善一](../Page/永野善一.md "wikilink")／[梁田清之](../Page/梁田清之.md "wikilink")；台灣：待查
     第287、288期獵人試驗考生，考生編號255號(287期)。身材高大，將頭髮束在身後。職業摔跤手。夢想是成為賞金獵人。
     在287期第二試驗時不滿主考官門淇讓所有人淘汰，打算上前對門淇出手，但在門淇動手之前就被卜哈剌打飛出去，原因是卜哈剌怕門淇把他給殺了。之後在重新舉辦的試驗中，嚐到了葡萄蜘蛛蛋的美味之後承認失敗，並宣告明年再來挑戰。隔年在288期獵人試驗中被奇犽打倒而淘汰。
 
@@ -549,7 +549,7 @@
 
   -
     聲：（夫妻）日本：[竹本英史](../Page/竹本英史.md "wikilink")／[西村朋紘](../Page/西村朋紘.md "wikilink")；台灣：[符爽](../Page/符爽.md "wikilink")（ep.4-6）→[魏伯勤和](../Page/魏伯勤.md "wikilink")[魏晶琦](../Page/魏晶琦.md "wikilink")（ep.80）／[林士程](../Page/林士程.md "wikilink")
-    聲：（兒子）日本：[永野善一](https://zh.wikipedia.org/wiki/永野善一 "wikilink")／[川田紳司](../Page/川田紳司.md "wikilink")；台灣：[于正昇](../Page/于正昇.md "wikilink")／[黃天佑](../Page/黃天佑.md "wikilink")
+    聲：（兒子）日本：[永野善一](../Page/永野善一.md "wikilink")／[川田紳司](../Page/川田紳司.md "wikilink")；台灣：[于正昇](../Page/于正昇.md "wikilink")／[黃天佑](../Page/黃天佑.md "wikilink")
     聲：（女兒）日本：[德永悅子](https://zh.wikipedia.org/wiki/德永悅子 "wikilink")／[森沢芙美](https://zh.wikipedia.org/wiki/森沢芙美 "wikilink")；台灣：[林佑俽](../Page/林佑俽.md "wikilink")／[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")
     獵人試驗的領航員，帶領考生到考試會場的魔獸。能夠變化成人形，也擁有語言能力。一家人住在多雷港附近的大杉樹下。認同小傑、酷拉皮卡與雷歐力而帶他們到試驗會場。第288期獵人試驗時擔任奇犽的領航員。
 
@@ -609,7 +609,7 @@
 <!-- end list -->
 
   -
-    聲：日本：[宮澤正](https://zh.wikipedia.org/wiki/宮澤正 "wikilink")／[大竹宏](https://zh.wikipedia.org/wiki/大竹宏 "wikilink")；台灣：[孫中台](../Page/孫中台.md "wikilink")／[林士程](../Page/林士程.md "wikilink")（ep.24）→[林谷珍](../Page/林谷珍.md "wikilink")（ep.51-117）；香港：[源家祥](../Page/源家祥.md "wikilink")／[林保全](../Page/林保全.md "wikilink")→[林國雄](../Page/林國雄.md "wikilink")（TVB）、[李建良](https://zh.wikipedia.org/wiki/李建良 "wikilink")（Animax）
+    聲：日本：[宮澤正](https://zh.wikipedia.org/wiki/宮澤正 "wikilink")／[大竹宏](../Page/大竹宏.md "wikilink")；台灣：[孫中台](../Page/孫中台.md "wikilink")／[林士程](../Page/林士程.md "wikilink")（ep.24）→[林谷珍](../Page/林谷珍.md "wikilink")（ep.51-117）；香港：[源家祥](../Page/源家祥.md "wikilink")／[林保全](../Page/林保全.md "wikilink")→[林國雄](../Page/林國雄.md "wikilink")（TVB）、[李建良](https://zh.wikipedia.org/wiki/李建良 "wikilink")（Animax）
     揍敵客家的前任當家，奇犽的祖父、席巴的父親。變化系能力者。
     認真時可使出半徑300公尺的圓。穿著「一日一殺」和「生涯現役」等刺繡的衣服。為了錢可以不擇手段，他的原則是不會為任務以外的事浪費精神和生命。很喜歡有龍圖案的物品。相當認同尼特羅的實力。
     對奇犽很有期待，在獵人考試後主動放走了原本被糜稽和奇曲困住的奇犽。在友克鑫市曾和席巴一起受黑幫十老頭雇傭前去抹殺幻影旅團。後來與團長展開決鬥，快速分析了庫洛洛的招式，令庫洛洛相當佩服。甚至在戰鬥中取得了很大的優勢。但最後因團長僱用伊耳謎‧揍敵客出面先解決了黑幫十老頭，雙方因而停止戰鬥。
@@ -654,7 +654,7 @@
 <!-- end list -->
 
   -
-    聲：日本：[石塚堅](https://zh.wikipedia.org/wiki/石塚堅 "wikilink")／[齊藤貴美子](https://zh.wikipedia.org/wiki/齊藤貴美子 "wikilink")；台灣：[符爽](../Page/符爽.md "wikilink")（ep.35）→[于正昇](../Page/于正昇.md "wikilink")（ep.49-89）／[宋昱璁](../Page/宋昱璁.md "wikilink")；香港：[林保全](../Page/林保全.md "wikilink")／[巫哲棋](../Page/巫哲棋.md "wikilink")（TVB）、[陳振聲](https://zh.wikipedia.org/wiki/陳振聲 "wikilink")（Animax）
+    聲：日本：[石塚堅](../Page/石塚堅.md "wikilink")／[齊藤貴美子](https://zh.wikipedia.org/wiki/齊藤貴美子 "wikilink")；台灣：[符爽](../Page/符爽.md "wikilink")（ep.35）→[于正昇](../Page/于正昇.md "wikilink")（ep.49-89）／[宋昱璁](../Page/宋昱璁.md "wikilink")；香港：[林保全](../Page/林保全.md "wikilink")／[巫哲棋](../Page/巫哲棋.md "wikilink")（TVB）、[陳振聲](https://zh.wikipedia.org/wiki/陳振聲 "wikilink")（Animax）
     揍敵客家五兄弟排行老二、席巴的次子。操作系能力者。
     身材肥胖的駭客及殺手。愛吃零食，很少出門。是個蒐集模型和遊戲的御宅族。桀諾評論為雖然頭腦很好，就是有點脫線。少年時曾利用阿路加的能力特性殺死友人，亦在奇犽逃離家族的時後遭其刺傷。雖然他不太喜歡奇犽，但他也很認同奇犽的實力。
     奇犽應考獵人失敗返家時，將其囚禁個人牢房並動手懲戒他。曾為了借錢競標貪婪之島而答應幫忙父親殺15人，但在競標中落敗而死心。
@@ -691,7 +691,7 @@
 <!-- end list -->
 
   -
-    聲：日本：[前川優子](https://zh.wikipedia.org/wiki/前川優子 "wikilink")／[能登麻美子](../Page/能登麻美子.md "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")／[郭馨雅](../Page/郭馨雅.md "wikilink")；香港：[劉惠云](https://zh.wikipedia.org/wiki/劉惠云 "wikilink")／[凌晞](../Page/凌晞.md "wikilink")→[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")（TVB）
+    聲：日本：[前川優子](https://zh.wikipedia.org/wiki/前川優子 "wikilink")／[能登麻美子](../Page/能登麻美子.md "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")／[郭馨雅](../Page/郭馨雅.md "wikilink")；香港：[劉惠云](https://zh.wikipedia.org/wiki/劉惠云 "wikilink")／[凌晞](../Page/凌晞.md "wikilink")→[羅孔柔](../Page/羅孔柔.md "wikilink")（TVB）
     揍敵客家五兄弟排行老么、席巴的五子。操作系能力者。經常穿著女裝和服行動。有著喜歡玩弄獵物的習慣。
     小傑等人造訪揍敵客家期間，因為利用口哨呼喚三毛，於自己不知情的情況替小傑解危。初次登場時是在小傑來尋找奇犽時、出現於母親身邊。之後為了取回哥哥加入幻影旅團，遞補了西索的位置，團員編號NO.4。擁有操控紙張、偵查尋人的能力，在貪婪之島上幫助旅團找到除念師。
     在友克鑫市中，庫洛洛委託他們暗殺黑幫十老頭時，與馬哈、伊耳謎一起合作刺殺。
@@ -719,7 +719,7 @@
 <!-- end list -->
 
   -
-    聲：日本：[木內玲子](https://zh.wikipedia.org/wiki/木內玲子 "wikilink")／[熊井統子](../Page/熊井統子.md "wikilink")；台灣：[丘梅君](../Page/丘梅君.md "wikilink")／[錢欣郁](../Page/錢欣郁.md "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")／[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")→[陳琴雲](../Page/陳琴雲.md "wikilink")（TVB）、[賴芸芬](../Page/賴芸芬.md "wikilink")（Animax）
+    聲：日本：[木內玲子](https://zh.wikipedia.org/wiki/木內玲子 "wikilink")／[熊井統子](../Page/熊井統子.md "wikilink")；台灣：[丘梅君](../Page/丘梅君.md "wikilink")／[錢欣郁](../Page/錢欣郁.md "wikilink")；香港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")／[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")→[陳琴雲](../Page/陳琴雲.md "wikilink")（TVB）、[賴芸芬](../Page/賴芸芬.md "wikilink")（Animax）
     揍敵客家的管家見習生。出身於流星街。以錫杖作為武器，會使用「暗步」和「肢曲」。因其身份而不願與奇犽做朋友，但奇犽還是對她很親切。在十歲時，一人就打倒了入侵揍敵客的獵人細寬以及其手下一百多人。曾把來找奇犽的小傑打得很慘，不過後來被小傑的意志感動，而拜託他們去救助奇犽。
     在第13代會長選舉期間，被奉命監視保護奇犽，陪同奇犽和阿路加前往小傑所在的醫院。其後在途中與梧桐失散。安葬好梧桐後，是參與祭奠的少數人之一。
 
@@ -781,7 +781,7 @@
 <!-- end list -->
 
   -
-    聲：日本：[並木法子](../Page/並木法子.md "wikilink")／[長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink")；台灣：[楊凱凱](../Page/楊凱凱.md "wikilink")／[劉如蘋](../Page/劉如蘋.md "wikilink")；香港：待查詢／[陳皓宜](../Page/陳皓宜.md "wikilink")
+    聲：日本：[並木法子](../Page/並木法子.md "wikilink")／[長澤美樹](../Page/長澤美樹.md "wikilink")；台灣：[楊凱凱](../Page/楊凱凱.md "wikilink")／[劉如蘋](../Page/劉如蘋.md "wikilink")；香港：待查詢／[陳皓宜](../Page/陳皓宜.md "wikilink")
     號泣觀光巴士的導遊小姐。負責解說揍敵客家的成員構成與地理環境。名字僅在第一作動畫出現過。
 
 ## 幻影旅團
@@ -791,7 +791,7 @@
 平時團長周圍都有至少兩位團員守在團長身邊，規則是不能違抗團長的命令以及團員間不能進行私鬥，此外成員之間為了決定某件事甚至會以擲有蜘蛛圖樣的硬幣的方式來決定。似乎沒有固定的據點，在友克鑫市行動時成員們皆待在一間天花板有彩色玻璃的廢墟大樓中。
 
   -
-    聲：日本：[永野善一](https://zh.wikipedia.org/wiki/永野善一 "wikilink")／[宮野真守](../Page/宮野真守.md "wikilink")；台灣：[于正昇](../Page/于正昇.md "wikilink")／[宋昱璁](../Page/宋昱璁.md "wikilink")；香港：[蘇強文](../Page/蘇強文.md "wikilink")／[梁偉德](../Page/梁偉德.md "wikilink")（TVB）
+    聲：日本：[永野善一](../Page/永野善一.md "wikilink")／[宮野真守](../Page/宮野真守.md "wikilink")；台灣：[于正昇](../Page/于正昇.md "wikilink")／[宋昱璁](../Page/宋昱璁.md "wikilink")；香港：[蘇強文](../Page/蘇強文.md "wikilink")／[梁偉德](../Page/梁偉德.md "wikilink")（TVB）
     幻影旅團團長兼創立者，團員編號NO.0。特質系能力者。26歲，身高177cm，體重68kg，血型AB型。
     出身於流星街，有敏銳的思考能力及洞察力。在友客鑫市命令旅團屠殺拍賣會場搶走所有寶物。在聽完窩金可能已死的匯報後冷靜的做出了正確的分析同時安排好之後的行動，在藉由變裝之後，和諾斯拉家族的妮翁一同行動進入拍賣會場。其間要求妮翁為她占卜，在看到占卜文後確定窩金已死，難過地流下了眼淚。其後命令旅團全員大量屠殺黑幫並奪回寶物。為了對付旅團，黑幫十老頭雇用了頂級殺手，其中包括揍敵客家族的傑諾與席巴。庫洛洛在與他們兩個的戰鬥中陷入劣勢，差點被席巴的念彈殺死。但最後因自己僱用伊耳謎‧揍敵客出面先解決了黑幫十老頭，雙方因而停止戰鬥。全身而退後與團員們擒獲了小傑與奇犽，但本人卻反被酷拉皮卡抓走。最後雖然被釋放，但因酷拉皮卡的念能力而陷入了不能使用念的狀態，甚至不得與旅團成員接觸。
     在貪婪之島篇中，西索為了與庫洛洛對決，替他找到了除念師，並且成功除念。在暗黑大陸篇中，以天空鬥技場為戰鬥場地，與西索展開死鬥並且獲勝。之後潛伏到前往暗黑大陸的船上，在得知俠客與庫嗶被西索殺害後，感到悲憤而湧現殺意。
@@ -923,7 +923,7 @@
 <!-- end list -->
 
   -
-    聲：日本：[井關佳子](https://zh.wikipedia.org/wiki/井關佳子 "wikilink")／[朴璐美](../Page/朴璐美.md "wikilink")；台灣：[林凱羚](https://zh.wikipedia.org/wiki/林凱羚 "wikilink")／[郭馨雅](../Page/郭馨雅.md "wikilink")；香港：[蔡惠萍](../Page/蔡惠萍.md "wikilink")／[吳羨婷](../Page/吳羨婷.md "wikilink")
+    聲：日本：[井關佳子](../Page/井關佳子.md "wikilink")／[朴璐美](../Page/朴璐美.md "wikilink")；台灣：[林凱羚](https://zh.wikipedia.org/wiki/林凱羚 "wikilink")／[郭馨雅](../Page/郭馨雅.md "wikilink")；香港：[蔡惠萍](../Page/蔡惠萍.md "wikilink")／[吳羨婷](../Page/吳羨婷.md "wikilink")
     (TVB)
     幻影旅團團員，團員編號NO.9。特質系能力者。身高182cm，體重52kg，血型O型。
     出生於流星街，是旅團初始成員兼創團時期的六名資深成員之一。眼神冷漠，具有魔鬼般身材的女性。在旅團中負責調查與問話，由於能力相當稀有，被俠客稱為旅團中不可缺少的成員，對旅團和團長有著極為深厚的感情。
@@ -1007,7 +1007,7 @@
 <!-- end list -->
 
   -
-    聲：[岸祐二](https://zh.wikipedia.org/wiki/岸祐二 "wikilink")／[川島得愛](https://zh.wikipedia.org/wiki/川島得愛 "wikilink")；台灣：[夏治世](../Page/夏治世.md "wikilink")／[黃天佑](../Page/黃天佑.md "wikilink")；香港：[蘇強文](../Page/蘇強文.md "wikilink")／[胡家豪](../Page/胡家豪.md "wikilink")(TVB)
+    聲：[岸祐二](https://zh.wikipedia.org/wiki/岸祐二 "wikilink")／[川島得愛](../Page/川島得愛.md "wikilink")；台灣：[夏治世](../Page/夏治世.md "wikilink")／[黃天佑](../Page/黃天佑.md "wikilink")；香港：[蘇強文](../Page/蘇強文.md "wikilink")／[胡家豪](../Page/胡家豪.md "wikilink")(TVB)
     強化系能力者。天空鬥技場200層的鬥士。長髮，對自己相當有自信。兩年前在天空鬥技場敗給西索後取得九連勝。
     在西索失去的五分中，有三分是他拿的。與西索一起被認為是最接近樓主層級的人。後來再次與西索對戰，剛開始雖然一度佔據優勢，但後來招式皆被西索看穿，信心遭受打擊，最後在完全搞不清楚西索的能力下，敗北戰死。西索說他的敗因是「過度使用記憶體」。據雲古所述，華石鬥郎雖為強化系，但召喚分身屬於具現化系，操控分身則屬於操作系，與自身的強化系不合，因而把本身的天賦都浪費掉了。
 
@@ -1020,7 +1020,7 @@
 <!-- end list -->
 
   -
-    聲：[永野善一](https://zh.wikipedia.org/wiki/永野善一 "wikilink")／[竹尾一真](https://zh.wikipedia.org/wiki/竹尾一真 "wikilink")；台灣：[陳旭昇](../Page/陳旭昇.md "wikilink")（ep.39）→[-{于}-正昇](../Page/于正昇.md "wikilink")（ep.43）／[陳彥鈞](../Page/陳彥鈞.md "wikilink")；香港：待查／[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")(TVB)
+    聲：[永野善一](../Page/永野善一.md "wikilink")／[竹尾一真](https://zh.wikipedia.org/wiki/竹尾一真 "wikilink")；台灣：[陳旭昇](../Page/陳旭昇.md "wikilink")（ep.39）→[-{于}-正昇](../Page/于正昇.md "wikilink")（ep.43）／[陳彥鈞](../Page/陳彥鈞.md "wikilink")；香港：待查／[鄧志堅](../Page/鄧志堅.md "wikilink")(TVB)
     變化系能力者。天空鬥技場200層的鬥士。臉像是面具，個性陰險狡詐，別名為「新人獵人」。因以前受到200層級的洗禮，成為了沒有左手的殘廢者。與疾鬥、狸狽多是合作關係。為了成為樓主，用盡各種卑弊的手段，利用智喜來威脅奇犽提前與他們對戰，並答應奇犽會配合小傑的戰鬥期限。但後來破壞了與奇犽的約定，最後反被奇犽威脅而離開了天空鬥技場。
 
 <!-- end list -->
@@ -1050,7 +1050,7 @@
 <!-- end list -->
 
   -
-    聲：[松山鷹志](https://zh.wikipedia.org/wiki/松山鷹志 "wikilink")／[河相智哉](https://zh.wikipedia.org/wiki/河相智哉 "wikilink")；台灣：[夏治世](../Page/夏治世.md "wikilink")／待查；香港：[林國雄](../Page/林國雄.md "wikilink")／[蕭徽勇](../Page/蕭徽勇.md "wikilink")（TVB）
+    聲：[松山鷹志](https://zh.wikipedia.org/wiki/松山鷹志 "wikilink")／[河相智哉](../Page/河相智哉.md "wikilink")；台灣：[夏治世](../Page/夏治世.md "wikilink")／待查；香港：[林國雄](../Page/林國雄.md "wikilink")／[蕭徽勇](../Page/蕭徽勇.md "wikilink")（TVB）
     擔任小傑與西索一戰的裁判，主觀評判兩人實力的懸殊而加重計分，目的是想讓比賽早點結束，使小傑不受太大的傷害。
 
 ## 友克鑫市
@@ -1077,7 +1077,7 @@
 #### 陰獸
 
   -
-    聲：日本：[鈴木淳](https://zh.wikipedia.org/wiki/鈴木淳 "wikilink")／[山中真尋](../Page/山中真尋.md "wikilink")；台灣：[于正昇](../Page/于正昇.md "wikilink")／[陳彥鈞](../Page/陳彥鈞.md "wikilink")；香港：[林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink")
+    聲：日本：[鈴木淳](../Page/鈴木淳.md "wikilink")／[山中真尋](../Page/山中真尋.md "wikilink")；台灣：[于正昇](../Page/于正昇.md "wikilink")／[陳彥鈞](../Page/陳彥鈞.md "wikilink")；香港：[林筠翔](../Page/林筠翔.md "wikilink")
     陰獸成員。具現化系能力者。帶著墨鏡。在幻影旅團打算搶劫地下拍賣會前，以自己的能力把所有的寶物取走，給幻影旅團造成了不小的困擾。
     蚯蚓等四人戰敗後，剩餘陰獸成員隨即在路上伏擊幻影旅團，利用「便利大裹布」曾活捉信長，但不久後陰獸就被旅團全滅。而後梟被旅團成員抓住帶給團長庫洛洛，自己遭飛坦拷問後，能力也被庫洛洛偷走。由於庫洛洛使用偷來的能力不可以讓能力的原擁有者死掉，因此梟有可能是陰獸中唯一的倖存者。
       -
@@ -1171,7 +1171,7 @@
 <!-- end list -->
 
   -
-    聲：日本：[大田詩織](https://zh.wikipedia.org/wiki/大田詩織 "wikilink")／[長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink")；台灣：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")（ep.48-50）→[魏晶琦](../Page/魏晶琦.md "wikilink")（ep.51-52）／[錢欣郁](../Page/錢欣郁.md "wikilink")；香港：[曾秀清](../Page/曾秀清.md "wikilink")／[魏惠娥](../Page/魏惠娥.md "wikilink")（TVB）
+    聲：日本：[大田詩織](https://zh.wikipedia.org/wiki/大田詩織 "wikilink")／[長澤美樹](../Page/長澤美樹.md "wikilink")；台灣：[林美秀](../Page/林美秀_\(配音員\).md "wikilink")（ep.48-50）→[魏晶琦](../Page/魏晶琦.md "wikilink")（ep.51-52）／[錢欣郁](../Page/錢欣郁.md "wikilink")；香港：[曾秀清](../Page/曾秀清.md "wikilink")／[魏惠娥](../Page/魏惠娥.md "wikilink")（TVB）
     諾斯拉保鏢成員。操作系能力者。習慣將長髮綁成高束的女性。
     在加入保鏢的測試會中，親吻了史庫瓦拉讓他說出答案，後來正式加入諾斯拉幫。在地下拍賣會時，被指派進入會場買拍賣品，後來發現幻影旅團入侵會場搶劫殺人，因而決定逃走，結果在逃跑過程中被小滴從背後用「凸眼魚」殺害。
       -
@@ -1189,7 +1189,7 @@
 <!-- end list -->
 
   -
-    聲：日本：[石川正明](https://zh.wikipedia.org/wiki/石川正明 "wikilink")／[大西健晴](../Page/大西健晴.md "wikilink")；台灣：[于正昇](../Page/于正昇.md "wikilink")（ep.48-50）→[魏伯勤](../Page/魏伯勤.md "wikilink")（ep.51-52）／[宋昱璁](../Page/宋昱璁.md "wikilink")；香港：待查詢／[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")（TVB）
+    聲：日本：[石川正明](https://zh.wikipedia.org/wiki/石川正明 "wikilink")／[大西健晴](../Page/大西健晴.md "wikilink")；台灣：[于正昇](../Page/于正昇.md "wikilink")（ep.48-50）→[魏伯勤](../Page/魏伯勤.md "wikilink")（ep.51-52）／[宋昱璁](../Page/宋昱璁.md "wikilink")；香港：待查詢／[鄧志堅](../Page/鄧志堅.md "wikilink")（TVB）
     諾斯拉保鏢成員。放出系能力者。職業獵人。
     在酷拉皮卡等人來應徵保鏢時，他混在其中用他的念能力攻擊其他應徵者來測驗他們，但因為念人未攻擊他因而被酷拉皮卡識破。他和義瓦斂夫、費婕一起進入地下拍賣場參加拍賣，後來幻影旅團襲擊會場，試圖利用能力掩護自己、義瓦斂夫、費婕，最後遭到富蘭克林用念彈殺害。
       -
@@ -1225,7 +1225,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[水木龍司](https://zh.wikipedia.org/wiki/水木龍司 "wikilink")／[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")；台灣：[于正昇](../Page/于正昇.md "wikilink")（ep.71-74）→[曹冀魯](../Page/曹冀魯.md "wikilink")（ep.82-88）／[黃天佑](../Page/黃天佑.md "wikilink")；香港：[朱子聰](../Page/朱子聰.md "wikilink")（TVB）
+    聲優：日本：[水木龍司](https://zh.wikipedia.org/wiki/水木龍司 "wikilink")／[梁田清之](../Page/梁田清之.md "wikilink")；台灣：[于正昇](../Page/于正昇.md "wikilink")（ep.71-74）→[曹冀魯](../Page/曹冀魯.md "wikilink")（ep.82-88）／[黃天佑](../Page/黃天佑.md "wikilink")；香港：[朱子聰](../Page/朱子聰.md "wikilink")（TVB）
     一星獵人，賞金獵人。擅於運用念的攻防移動，但戰鬥直覺和身體能力因太久沒作基礎訓練而有所退步。
     G‧I絕茲絕拉組，與羅多力、多布魯、巴力為一組，被大富豪巴特拉僱用來攻略貪婪之島，兼任審查應徵的玩家，是被認為最靠近破關的人。在遊戲中與小傑一行人合作戰勝磊札並取得「一坪的海岸線」，但過程中被磊札的強力扔球擊中而受傷。之後和炸彈魔一行人展開消耗戰以爭取時間，回到現實世界時得知巴特拉已經取消委托，他在取得七成報酬並與果列奴談妥條件後就退出遊戲。
 
@@ -1238,13 +1238,13 @@
 <!-- end list -->
 
   -
-    聲優：日本：[石塚堅](https://zh.wikipedia.org/wiki/石塚堅 "wikilink")／[永野廣一](https://zh.wikipedia.org/wiki/永野廣一 "wikilink")；台灣：[符爽](../Page/符爽.md "wikilink")（ep.82）／待查
+    聲優：日本：[石塚堅](../Page/石塚堅.md "wikilink")／[永野廣一](https://zh.wikipedia.org/wiki/永野廣一 "wikilink")；台灣：[符爽](../Page/符爽.md "wikilink")（ep.82）／待查
     職業獵人，特徵是皮膚黝黑。G‧I絕茲絕拉組，在攻略「一坪的海岸線」的運動比賽中，以保齡球的項目獲得一勝。之後在與甘舒交戰時突然得知巴特拉臨時取消委託，因此退出遊戲。
 
 <!-- end list -->
 
   -
-    聲優：日本：[永野善一](https://zh.wikipedia.org/wiki/永野善一 "wikilink")／[濱田賢二](../Page/濱田賢二.md "wikilink")；台灣：[于正昇](../Page/于正昇.md "wikilink")（ep.82）／待查
+    聲優：日本：[永野善一](../Page/永野善一.md "wikilink")／[濱田賢二](../Page/濱田賢二.md "wikilink")；台灣：[于正昇](../Page/于正昇.md "wikilink")（ep.82）／待查
     職業獵人，具現化系能力者。G‧I絕茲絕拉組，在攻略「一坪的海岸線」的運動比賽中，以籃球罰球的項目獲得一勝。在絕茲絕拉組與炸彈魔三人組的游擊戰對抗中，利用自己的能力發揮了重要的效果。之後在與甘舒交戰時突然得知巴特拉臨時取消委託，因此退出遊戲。
 
 <!-- end list -->
@@ -1262,7 +1262,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[小山剛志](../Page/小山剛志.md "wikilink")／[吉野裕行](../Page/吉野裕行.md "wikilink")；台灣：[符爽](../Page/符爽.md "wikilink")／[黃天佑](../Page/黃天佑.md "wikilink")；香港：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")／[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")
+    聲優：日本：[小山剛志](../Page/小山剛志.md "wikilink")／[吉野裕行](../Page/吉野裕行.md "wikilink")；台灣：[符爽](../Page/符爽.md "wikilink")／[黃天佑](../Page/黃天佑.md "wikilink")；香港：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")／[鄧志堅](../Page/鄧志堅.md "wikilink")
     具現化系能力者。特徵是戴眼鏡，性格殘忍無情，行事謹慎但相當卑鄙。
     G‧I炸彈魔組，為炸彈魔一夥的首領。在破關集團中潛伏五年，並悄悄在所有人身上安裝炸彈，最後以此為威脅取得了該隊伍的所有卡片，並殺死了阿本加聶以外的所有破關集團的成員，其行為觸怒了小傑。後來為了奪取「一坪的海岸線」和「奇運亞歷山大變色石」而與小傑等人交戰，其後在與小傑的單挑中被小傑利用策略擊敗。
       -
@@ -1285,7 +1285,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[平川大輔](../Page/平川大輔.md "wikilink")／[花輪英司](https://zh.wikipedia.org/wiki/花輪英司 "wikilink")；台灣：[-{于}-正昇](../Page/于正昇.md "wikilink")／[宋昱璁](../Page/宋昱璁.md "wikilink")；香港：待查／[張方正](../Page/張方正.md "wikilink")
+    聲優：日本：[平川大輔](../Page/平川大輔.md "wikilink")／[花輪英司](../Page/花輪英司.md "wikilink")；台灣：[-{于}-正昇](../Page/于正昇.md "wikilink")／[宋昱璁](../Page/宋昱璁.md "wikilink")；香港：待查／[張方正](../Page/張方正.md "wikilink")
     除念師，具現化系能力者。外型為一個黑人。G‧I破關集團成員，絕茲絕拉的考選會合格者。
 
 <!-- end list -->
@@ -1316,7 +1316,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[石塚堅](https://zh.wikipedia.org/wiki/石塚堅 "wikilink")／[横尾博之](https://zh.wikipedia.org/wiki/横尾博之 "wikilink")；台灣：[孫中台](../Page/孫中台.md "wikilink")／待查
+    聲優：日本：[石塚堅](../Page/石塚堅.md "wikilink")／[横尾博之](https://zh.wikipedia.org/wiki/横尾博之 "wikilink")；台灣：[孫中台](../Page/孫中台.md "wikilink")／待查
     G‧I破關集團組，破關集團的初始成員之一。曾與尼肯斯他們一起在廣場邀請新人加入，他對於獎金較為執著，在有人提議放棄卡片給炸彈魔時，他還與之起口角。後來被甘舒等人用「解放」引爆炸彈而死亡。
 
 <!-- end list -->
@@ -1358,7 +1358,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[竹本英史](../Page/竹本英史.md "wikilink")→[遊佐浩二](../Page/遊佐浩二.md "wikilink")（兄）、[平川大輔](../Page/平川大輔.md "wikilink")→[竹本英史](../Page/竹本英史.md "wikilink")（弟）／[花輪英司](https://zh.wikipedia.org/wiki/花輪英司 "wikilink")（兄）、[坂熊孝彦](https://zh.wikipedia.org/wiki/坂熊孝彦 "wikilink")（弟）；台灣：[魏伯勤](../Page/魏伯勤.md "wikilink")（兄）、[符爽](../Page/符爽.md "wikilink")（弟）／待查
+    聲優：日本：[竹本英史](../Page/竹本英史.md "wikilink")→[遊佐浩二](../Page/遊佐浩二.md "wikilink")（兄）、[平川大輔](../Page/平川大輔.md "wikilink")→[竹本英史](../Page/竹本英史.md "wikilink")（弟）／[花輪英司](../Page/花輪英司.md "wikilink")（兄）、[坂熊孝彦](https://zh.wikipedia.org/wiki/坂熊孝彦 "wikilink")（弟）；台灣：[魏伯勤](../Page/魏伯勤.md "wikilink")（兄）、[符爽](../Page/符爽.md "wikilink")（弟）／待查
     職業獵人，G‧I玩家，絕茲絕拉的考選會合格者，是一個用暴力手段達成目的而出名隊伍。在小傑等人拿到「統治者的祝福」時，他們突然出現要搶奪卡片，結果兩三下就被打倒。
 
 <!-- end list -->
@@ -1387,7 +1387,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[陰山真壽美](https://zh.wikipedia.org/wiki/陰山真壽美 "wikilink")／[豊嶋真千子](https://zh.wikipedia.org/wiki/豊嶋真千子 "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")／[郭馨雅](../Page/郭馨雅.md "wikilink")
+    聲優：日本：[陰山真壽美](../Page/陰山真壽美.md "wikilink")／[豊嶋真千子](https://zh.wikipedia.org/wiki/豊嶋真千子 "wikilink")；台灣：[魏晶琦](../Page/魏晶琦.md "wikilink")／[郭馨雅](../Page/郭馨雅.md "wikilink")
     G‧I雅士妲組。為了應付可能要完成遊戲的炸彈魔組而與其他幾組一起商議合作。她知道許多小傑他們不知道的遊戲資訊，一度質疑小傑等人是否有足夠的合作價值，因而與奇犽吵架賭氣，其後一起參與找尋「一坪的海岸線」的十五人小組，最後挑戰失敗，後來被炸彈魔所殺。
 
 <!-- end list -->
@@ -1417,7 +1417,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[石塚堅](https://zh.wikipedia.org/wiki/石塚堅 "wikilink")／[村上裕哉](https://zh.wikipedia.org/wiki/村上裕哉 "wikilink")；台灣：[魏伯勤](../Page/魏伯勤.md "wikilink")／待查
+    聲優：日本：[石塚堅](../Page/石塚堅.md "wikilink")／[村上裕哉](https://zh.wikipedia.org/wiki/村上裕哉 "wikilink")；台灣：[魏伯勤](../Page/魏伯勤.md "wikilink")／待查
     G‧I杭傑組。在各組人馬商議後，一起參與找尋「一坪的海岸線」的十五人小組，最後挑戰失敗，後來被炸彈魔所殺。
 
 <!-- end list -->
@@ -1534,7 +1534,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[松元惠](../Page/松元惠.md "wikilink")；台灣：[錢欣郁](../Page/錢欣郁.md "wikilink")；香港：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")（TVB）
+    聲優：日本：[松元惠](../Page/松元惠.md "wikilink")；台灣：[錢欣郁](../Page/錢欣郁.md "wikilink")；香港：[葉曉欣](../Page/葉曉欣.md "wikilink")（TVB）
     業餘獵人。與凱特一起行動，在卡丁國作生物調查的成員之一。喜歡吃泡泡糖。家鄉是一個礦山，與史提克是同鄉，他們希望守護礦山及僅在該地棲息的小嘴天鵝，因而在凱特的借貸之下，買下了礦山附近的土地曾在從NGL回來的車上激厲小傑。
 
 <!-- end list -->
@@ -1546,7 +1546,7 @@
 <!-- end list -->
 
   -
-    聲優：日本：[佐武宇綺](../Page/佐武宇綺.md "wikilink")；台灣：[郭馨雅](../Page/郭馨雅.md "wikilink")；香港：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")（TVB）
+    聲優：日本：[佐武宇綺](../Page/佐武宇綺.md "wikilink")；台灣：[郭馨雅](../Page/郭馨雅.md "wikilink")；香港：[羅孔柔](../Page/羅孔柔.md "wikilink")（TVB）
     業餘獵人。與凱特一起行動，在卡丁國作生物調查的成員之一。身材矮小，皮膚黑。後來有和凱特、小傑、奇犽一起進入NGL，到中途被凱特交待回到國境通知協會。
 
 ## 嵌合蟻

@@ -958,7 +958,7 @@ Ch：しばざきあやこ</p></td>
 
 #### STAFF
 
-  - 監督 -[橘正紀](https://zh.wikipedia.org/wiki/橘正紀 "wikilink")
+  - 監督 -[橘正紀](../Page/橘正紀.md "wikilink")
   - 系列構成・腳本 - [上江洲誠](../Page/上江洲誠.md "wikilink")
   - 人物原案 - [Falcom](https://zh.wikipedia.org/wiki/Falcom "wikilink")
   - 人物設計・總作畫監督 - [野崎敦子](https://zh.wikipedia.org/wiki/野崎敦子 "wikilink")

@@ -87,7 +87,7 @@ zh-hant:列;}-，U 則有和 A 相同的長寬。注意到現在 U
 如果矩阵*A*是[埃尔米特矩阵](../Page/埃尔米特矩阵.md "wikilink")，并且是[正定矩阵](../Page/正定矩阵.md "wikilink")，那么可以使，*U*是*L*的[共轭转置](../Page/共轭转置.md "wikilink")。也就是说，*A*可以写成
 
 \[A = L L^{*}. \,\]
-这个分解被称作[Cholesky分解](https://zh.wikipedia.org/wiki/Cholesky分解 "wikilink")。对每一个正定矩阵，Cholesky分解都唯一存在。此外，比起一般的*LU*分解，计算Cholesky分解更为快捷，并具有更高的[数值稳定性](../Page/数值稳定性.md "wikilink")。
+这个分解被称作[Cholesky分解](../Page/Cholesky分解.md "wikilink")。对每一个正定矩阵，Cholesky分解都唯一存在。此外，比起一般的*LU*分解，计算Cholesky分解更为快捷，并具有更高的[数值稳定性](../Page/数值稳定性.md "wikilink")。
 
 ## 具体的表达式
 
@@ -284,7 +284,7 @@ L_{1}^{-1}L_{2}^{-1} A^{(2)} =\ldots = L_{1}^{-1} \ldots L_{N-1}^{-1} A^{(N-1)}.
 ## 参见
 
   - [分块LU分解](https://zh.wikipedia.org/wiki/分块LU分解 "wikilink")
-  - [Cholesky分解](https://zh.wikipedia.org/wiki/Cholesky分解 "wikilink")
+  - [Cholesky分解](../Page/Cholesky分解.md "wikilink")
   - [矩阵分解](https://zh.wikipedia.org/wiki/矩阵分解 "wikilink")
   - [LU约简](https://zh.wikipedia.org/wiki/LU约简 "wikilink")
 

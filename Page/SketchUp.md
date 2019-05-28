@@ -142,7 +142,7 @@ Ruby开发了几百种便利的工具](https://zh.wikipedia.org/wiki/SketchUp_Ru
 
   - [Google](../Page/Google.md "wikilink")
       - [Google地球](../Page/Google地球.md "wikilink")
-  - [V-Ray](https://zh.wikipedia.org/wiki/V-Ray "wikilink")
+  - [V-Ray](../Page/V-Ray.md "wikilink")
 
 {{-}}
 

@@ -257,8 +257,8 @@
 <td><p>なんか女の子出てきちゃったんですけど。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/長谷川勝己" title="wikilink">長谷川勝己</a></p></td>
 <td><p><a href="../Page/金崎貴臣.md" title="wikilink">金崎貴臣</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山本天志" title="wikilink">山本天志</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/野口孝行" title="wikilink">野口孝行</a></p></td>
+<td><p><a href="../Page/山本天志.md" title="wikilink">山本天志</a></p></td>
+<td><p><a href="../Page/野口孝行.md" title="wikilink">野口孝行</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -313,7 +313,7 @@
 <td><p>8</p></td>
 <td><p>なんかメイドに幽霊にメカなんですけど。</p></td>
 <td><p>長谷川勝己</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/木村隆一" title="wikilink">木村隆一</a></p></td>
+<td><p><a href="../Page/木村隆一.md" title="wikilink">木村隆一</a></p></td>
 <td><p>徳本善信</p></td>
 <td><p>村上真紀、嶋田俊彦</p></td>
 </tr>

@@ -1,5 +1,5 @@
 **Series 30+**是[諾基亞](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")、[HMD
-Global和](https://zh.wikipedia.org/wiki/HMD_Global "wikilink")[微軟移動開發的](https://zh.wikipedia.org/wiki/微軟移動 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")，首次搭載於2003年發布的[諾基亞1100](https://zh.wikipedia.org/wiki/諾基亞1100 "wikilink")。
+Global和](../Page/HMD_Global.md "wikilink")[微軟移動開發的](https://zh.wikipedia.org/wiki/微軟移動 "wikilink")[行動作業系統](../Page/行動作業系統.md "wikilink")，首次搭載於2003年發布的[諾基亞1100](https://zh.wikipedia.org/wiki/諾基亞1100 "wikilink")。
 
 早期的Series
 30（以下简称S30）搭载的移动电话并不支持彩色屏幕（如诺基亚1100），直到后期才支持彩色屏幕（如诺基亚C1-00），不过屏幕分辨率均很低。S30仅支持GSM单频，不支持GPRS。而在S30+中支持了4G频段。应用基于Java，但仅为嵌入型且禁止额外添加Java应用。内置的音频支持MIDI序列（统一音源）的以及AAC格式音频，后期在2011年诺基亚1010发布后，支持了外置TF卡。早期的S30亦不支持拍照，直到2013年诺基亚108发行。

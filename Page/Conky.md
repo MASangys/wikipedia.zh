@@ -22,7 +22,7 @@ Conky的自定义脚本，通常以[.conkyrc命名](https://zh.wikipedia.org/wik
     [SourceForge.net](https://zh.wikipedia.org/wiki/SourceForge.net "wikilink")
 2.  [Expert's guide to configuring
     Conky](http://www.linux.com/feature/136147) by Dmitri Popov on
-    [Linux.com](https://zh.wikipedia.org/wiki/Linux.com "wikilink")
+    [Linux.com](../Page/Linux.com.md "wikilink")
 3.  [Conky: highly configurable system monitor for
     X](http://debaday.debian.net/2007/09/02/conky-highly-configurable-system-monitor-for-x/)
     by Casey Stamper on Debian.net
@@ -34,7 +34,7 @@ Conky的自定义脚本，通常以[.conkyrc命名](https://zh.wikipedia.org/wik
     review by mulander
 7.  [CLI Magic: Lightweight Conky is a system monitor
     powerhouse](http://www.linux.com/articles/56931) by Shashank Sharma
-    on [Linux.com](https://zh.wikipedia.org/wiki/Linux.com "wikilink")
+    on [Linux.com](../Page/Linux.com.md "wikilink")
 8.  [Post your .conkyrc files w/
     screenshots](http://ubuntuforums.org/showthread.php?p=1645914)
 9.  [Conky

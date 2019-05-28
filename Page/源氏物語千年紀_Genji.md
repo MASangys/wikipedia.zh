@@ -1,12 +1,12 @@
 《'''源氏物語千年紀 Genji
 '''》是一部日本[動畫作品](https://zh.wikipedia.org/wiki/動畫 "wikilink")，於2009年1月15日至3月26日在[富士電視台](../Page/富士電視台.md "wikilink")[noitaminA播出](https://zh.wikipedia.org/wiki/noitaminA "wikilink")。
 
-2008年8月，動畫節目[noitaminA原定是把](https://zh.wikipedia.org/wiki/noitaminA "wikilink")[大和和紀改編自](https://zh.wikipedia.org/wiki/大和和紀 "wikilink")[源氏物語的](../Page/源氏物語.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[源氏物語](../Page/源氏物語_\(漫畫\).md "wikilink")》動畫化，不過，根據監督[出崎統的意向](../Page/出崎統.md "wikilink")，2008年11月10日對計劃作了相應調整，變成了動畫直接取材自小說原著\[1\]。工作人員除了一部份外均未變更。
+2008年8月，動畫節目[noitaminA原定是把](https://zh.wikipedia.org/wiki/noitaminA "wikilink")[大和和紀改編自](../Page/大和和紀.md "wikilink")[源氏物語的](../Page/源氏物語.md "wikilink")[漫畫作品](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[源氏物語](../Page/源氏物語_\(漫畫\).md "wikilink")》動畫化，不過，根據監督[出崎統的意向](../Page/出崎統.md "wikilink")，2008年11月10日對計劃作了相應調整，變成了動畫直接取材自小說原著\[1\]。工作人員除了一部份外均未變更。
 
 ## 工作人員
 
   - 導演・腳本：出崎統
-  - 系列構成・腳本：[金春智子](https://zh.wikipedia.org/wiki/金春智子 "wikilink")
+  - 系列構成・腳本：[金春智子](../Page/金春智子.md "wikilink")
   - 人物設定・作畫監督：[杉野昭夫](../Page/杉野昭夫.md "wikilink")
   - 音樂監督：[鈴木清司](https://zh.wikipedia.org/wiki/鈴木清司 "wikilink")
   - 音樂：[S.E.N.S.
@@ -28,8 +28,8 @@
   - [六條御息所](../Page/六條御息所.md "wikilink")：[鶴弘美](../Page/鶴弘美.md "wikilink")
   - [夕顏](../Page/夕顏.md "wikilink")：[小清水亞美](../Page/小清水亞美.md "wikilink")
   - [惟光](https://zh.wikipedia.org/wiki/惟光 "wikilink")：[鈴木千尋](../Page/鈴木千尋.md "wikilink")
-  - [朧月夜](https://zh.wikipedia.org/wiki/朧月夜 "wikilink")：[長澤美樹](https://zh.wikipedia.org/wiki/長澤美樹 "wikilink")
-  - [朱雀帝](../Page/朱雀帝.md "wikilink")：[水島裕](https://zh.wikipedia.org/wiki/水島裕 "wikilink")
+  - [朧月夜](https://zh.wikipedia.org/wiki/朧月夜 "wikilink")：[長澤美樹](../Page/長澤美樹.md "wikilink")
+  - [朱雀帝](../Page/朱雀帝.md "wikilink")：[水島裕](../Page/水島裕.md "wikilink")
 
 ## 主題曲
 

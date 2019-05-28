@@ -1,9 +1,9 @@
-**Acid3**由[網頁標準計劃設計](https://zh.wikipedia.org/wiki/網頁標準計劃 "wikilink")，是一份[網頁瀏覽器及設計軟體之標準相容性的測試網頁](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，Acid3開發始於2007年4月\[1\]，2008年3月3日正式發布\[2\]。其測試焦點集中在[ECMAScript](../Page/ECMAScript.md "wikilink")、[DOM](https://zh.wikipedia.org/wiki/DOM "wikilink")
+**Acid3**由[網頁標準計劃設計](../Page/網頁標準計劃.md "wikilink")，是一份[網頁瀏覽器及設計軟體之標準相容性的測試網頁](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")，Acid3開發始於2007年4月\[1\]，2008年3月3日正式發布\[2\]。其測試焦點集中在[ECMAScript](../Page/ECMAScript.md "wikilink")、[DOM](https://zh.wikipedia.org/wiki/DOM "wikilink")
 Level 3、Media Queries和data: URL。以瀏覽器開啟此測試網頁後，頁面會不斷載入功能、直接給予分數，滿分為100分。
 
 ## 歷史
 
-Google員工[伊恩·希克森於](https://zh.wikipedia.org/wiki/伊恩·希克森 "wikilink")2007年4月開始進行測試，但開發進展緩慢。2007年12月，工作重新啟動，該項目於2008年1月10日受到公眾關注，當時Anne
+Google員工[伊恩·希克森於](../Page/伊恩·希克森.md "wikilink")2007年4月開始進行測試，但開發進展緩慢。2007年12月，工作重新啟動，該項目於2008年1月10日受到公眾關注，當時Anne
 van Kesteren在部落格中提到了該項目\[3\]。
 
 在Acid3推出時，沒有任何一款軟體能通過測試\[4\]\[5\]。及至推出後不到一個月，[Presto](../Page/Presto.md "wikilink")\[6\]\[7\]和[WebKit](../Page/WebKit.md "wikilink")\[8\]\[9\]引擎的測試版本已成功取得100分。

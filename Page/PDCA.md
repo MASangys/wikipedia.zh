@@ -61,7 +61,7 @@ Media出版社編輯長谷川諒回憶，這個冷冰冰的管理學的暴紅，
   - [OODA循環](https://zh.wikipedia.org/wiki/OODA循環 "wikilink")
 
   -
-  - [A3報告](https://zh.wikipedia.org/wiki/A3報告 "wikilink")
+  - [A3報告](../Page/A3報告.md "wikilink")
 
 ## 参考文献
 

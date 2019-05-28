@@ -90,7 +90,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](https://zh.wikipedia.org/wiki/沃纳�
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/傑森·戴伊" title="wikilink">傑森·戴伊</a>( Jason Day)</p></td>
+<td><p><a href="../Page/傑森·戴伊.md" title="wikilink">傑森·戴伊</a>( Jason Day)</p></td>
 <td></td>
 <td><p>Whistling Straits, Straits Course</p></td>
 <td><p>Kohler, Wisconsin</p></td>
@@ -434,7 +434,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](https://zh.wikipedia.org/wiki/沃纳�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1972年PGA锦标赛" title="wikilink">1972</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蓋瑞·普萊爾" title="wikilink">蓋瑞·普萊爾</a>(Gary Player) (2)</p></td>
+<td><p><a href="../Page/蓋瑞·普萊爾.md" title="wikilink">蓋瑞·普萊爾</a>(Gary Player) (2)</p></td>
 <td></td>
 <td><p>Oakland Hills Country Club, South Course</p></td>
 <td><p>密歇根州Bloomfield Hills</p></td>
@@ -514,7 +514,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](https://zh.wikipedia.org/wiki/沃纳�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1962年PGA锦标赛" title="wikilink">1962</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蓋瑞·普萊爾" title="wikilink">蓋瑞·普萊爾</a>(Gary Player)</p></td>
+<td><p><a href="../Page/蓋瑞·普萊爾.md" title="wikilink">蓋瑞·普萊爾</a>(Gary Player)</p></td>
 <td></td>
 <td><p>Aronimink Golf Club</p></td>
 <td><p>宾夕法尼亚州Newtown Square</p></td>

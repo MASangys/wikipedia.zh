@@ -1,4 +1,4 @@
-**Ophcrack**是一個使用[彩虹表來](https://zh.wikipedia.org/wiki/彩虹表 "wikilink")[破解](https://zh.wikipedia.org/wiki/破解 "wikilink")[視窗作業系統下的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[LAN
+**Ophcrack**是一個使用[彩虹表來](../Page/彩虹表.md "wikilink")[破解](https://zh.wikipedia.org/wiki/破解 "wikilink")[視窗作業系統下的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[LAN
 Manager雜湊](https://zh.wikipedia.org/wiki/LAN_Manager雜湊 "wikilink")（）的[计算机程序](../Page/计算机程序.md "wikilink")，它是基於[GNU通用公共许可证下發佈的](../Page/GNU通用公共许可证.md "wikilink")[開放原始碼程式](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")。
 
 它接受不同格式的[雜湊](https://zh.wikipedia.org/wiki/雜湊 "wikilink")，包括視窗作業系統的檔案。使用作者免費提供的Rainbow

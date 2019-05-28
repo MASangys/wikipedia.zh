@@ -378,7 +378,7 @@ PSP系統軟體版本仍在1.52以下時，可能無法透過PSP主機的無線L
         640 x 480 pixels）
   - \[遊戲\]（PSP-2000 系列適用）
       - 更新了在電視機輸出PlayStation®規格軟件的影像（可使用影像色差連接線，S視頻連接線，AV連接線）
-      - 可使用支援Interlace（交錯掃瞄）輸出的電視機及連接線，輸出[PlayStation®規格軟件的影像](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。
+      - 可使用支援Interlace（交錯掃瞄）輸出的電視機及連接線，輸出[PlayStation®規格軟件的影像](../Page/PlayStation.md "wikilink")。
   - 其他
       - 更新[XMB™的原始主题](../Page/XMB.md "wikilink")
           - 原来的原始主题更名为经典主题。

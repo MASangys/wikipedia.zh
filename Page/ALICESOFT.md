@@ -201,8 +201,8 @@ ALICESOFT於2003年提出自由散佈宣言，至今已經包括了28款遊戲�
 <ul>
 <li>地域制壓型戰略遊戲《「大」系列》
 <ul>
-<li>2001年11月30日 <a href="https://zh.wikipedia.org/wiki/大惡司" title="wikilink">大惡司</a></li>
-<li>2003年12月19日 <a href="https://zh.wikipedia.org/wiki/大番長" title="wikilink">大番長</a></li>
+<li>2001年11月30日 <a href="../Page/大惡司.md" title="wikilink">大惡司</a></li>
+<li>2003年12月19日 <a href="../Page/大番長.md" title="wikilink">大番長</a></li>
 <li>2011年4月28日 <a href="https://zh.wikipedia.org/wiki/大帝国_(游戏)" title="wikilink">大帝国</a></li>
 </ul></li>
 </ul>
@@ -236,8 +236,7 @@ ALICESOFT於2003年提出自由散佈宣言，至今已經包括了28款遊戲�
   - 1999年3月25日
   - 1999年7月1日
   - 1999年9月30日 HUSHABY BABY（玩家俱樂部會員限定）
-  - 1999年11月18日
-    [DARCROWS](https://zh.wikipedia.org/wiki/DARCROWS "wikilink")
+  - 1999年11月18日 [DARCROWS](../Page/DARCROWS.md "wikilink")
   - 2000年4月13日 PERSIOM -約定所聚集的場所-
   - 2000年7月6日 SeeIn青 -シーンAO-
   - 2000年4月19日
@@ -259,8 +258,7 @@ ALICESOFT於2003年提出自由散佈宣言，至今已經包括了28款遊戲�
   - 2012年9月28日 母娘乱館
   - 2013年6月28日
   - 2014年10月24日 武想少女隊ぶれいど☆ブライダーズ
-  - 2017年1月27日
-    [Heartful媽媽](https://zh.wikipedia.org/wiki/Heartful媽媽 "wikilink")
+  - 2017年1月27日 [Heartful媽媽](../Page/Heartful媽媽.md "wikilink")
   - 2019年4月26日 母爛漫
 
 ## 參考來源

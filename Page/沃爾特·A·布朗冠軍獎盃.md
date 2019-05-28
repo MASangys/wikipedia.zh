@@ -11,7 +11,7 @@ NBA
 Finals），NBA採用了一個新的獎盃，但仍舊使用爾特·A·布朗冠軍獎盃作為名稱。與原本的冠軍獎盃不同的是，新獎盃會永久給予勝出隊伍，並且每年均會製造一個全新的獎盃。新獎盃在1984年被[重新命名以示對NBA總裁](../Page/拉里·奧布賴恩冠軍獎盃.md "wikilink")[拉里·奧布賴恩敬意](https://zh.wikipedia.org/wiki/拉里·奧布賴恩 "wikilink")
 \[5\]\[6\]\[7\]。波士頓塞爾特人合共贏得爾特·A·布朗冠軍獎盃13次，是聯賽中奪冠次數最多的隊伍。由1957年至1969年期間，波士頓塞爾特人連續八個賽季贏得冠軍，並贏了另外三個賽季的冠軍，13年間合共奪得11個冠軍。獎盃最後的得主是在[1983年NBA總決賽](https://zh.wikipedia.org/wiki/1983年NBA總決賽 "wikilink")（1983
 NBA
-Finals）擊敗[洛杉磯湖人的](https://zh.wikipedia.org/wiki/洛杉矶湖人 "wikilink")[費城76人](../Page/费城76人.md "wikilink")。
+Finals）擊敗[洛杉磯湖人的](../Page/洛杉矶湖人.md "wikilink")[費城76人](../Page/费城76人.md "wikilink")。
 
 ## 符號標識
 
@@ -77,7 +77,7 @@ Finals）擊敗[洛杉磯湖人的](https://zh.wikipedia.org/wiki/洛杉矶湖�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1949年NBA總決賽" title="wikilink">1949年</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">明尼亞波利斯湖人</a></strong></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">明尼亞波利斯湖人</a></strong></p></td>
 <td><p>4–2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/华盛顿国会" title="wikilink">華盛頓國會</a></p></td>
 <td><p>[10]</p></td>
@@ -93,7 +93,7 @@ Finals）擊敗[洛杉磯湖人的](https://zh.wikipedia.org/wiki/洛杉矶湖�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1950年NBA總決賽" title="wikilink">1950年</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">明尼亞波利斯湖人</a></strong></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">明尼亞波利斯湖人</a></strong></p></td>
 <td><p>4–2</p></td>
 <td><p><a href="../Page/费城76人.md" title="wikilink">錫拉丘茲民族隊</a><sup>†</sup></p></td>
 <td><p>[11]</p></td>
@@ -107,21 +107,21 @@ Finals）擊敗[洛杉磯湖人的](https://zh.wikipedia.org/wiki/洛杉矶湖�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1952年NBA總決賽" title="wikilink">1952年</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">明尼亞波利斯湖人</a></strong></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">明尼亞波利斯湖人</a></strong></p></td>
 <td><p>4–3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐約人" title="wikilink">紐約人</a></p></td>
 <td><p>[13]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1953年NBA總決賽" title="wikilink">1953年</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">明尼亞波利斯湖人</a></strong><sup>†</sup></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">明尼亞波利斯湖人</a></strong><sup>†</sup></p></td>
 <td><p>4–1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐約人" title="wikilink">紐約人</a></p></td>
 <td><p>[14]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1954年NBA總決賽" title="wikilink">1954年</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">明尼亞波利斯湖人</a></strong><sup>†</sup></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">明尼亞波利斯湖人</a></strong><sup>†</sup></p></td>
 <td><p>4–3</p></td>
 <td><p><a href="../Page/费城76人.md" title="wikilink">錫拉丘茲民族隊</a></p></td>
 <td><p>[15]</p></td>
@@ -156,7 +156,7 @@ Finals）擊敗[洛杉磯湖人的](https://zh.wikipedia.org/wiki/洛杉矶湖�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1959年NBA總決賽" title="wikilink">1959年</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">明尼亞波利斯湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">明尼亞波利斯湖人</a></p></td>
 <td><p>0–4</p></td>
 <td><p><strong><a href="../Page/波士顿凯尔特人.md" title="wikilink">波士頓塞爾特人</a></strong><sup>†</sup></p></td>
 <td><p>[20]</p></td>
@@ -177,14 +177,14 @@ Finals）擊敗[洛杉磯湖人的](https://zh.wikipedia.org/wiki/洛杉矶湖�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1962年NBA總決賽" title="wikilink">1962年</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉磯湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉磯湖人</a></p></td>
 <td><p>3–4</p></td>
 <td><p><strong><a href="../Page/波士顿凯尔特人.md" title="wikilink">波士頓塞爾特人</a></strong><sup>†</sup></p></td>
 <td><p>[23]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1963年NBA總決賽" title="wikilink">1963年</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉磯湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉磯湖人</a></p></td>
 <td><p>2–4</p></td>
 <td><p><strong><a href="../Page/波士顿凯尔特人.md" title="wikilink">波士頓塞爾特人</a></strong><sup>†</sup></p></td>
 <td><p>[24]</p></td>
@@ -198,14 +198,14 @@ Finals）擊敗[洛杉磯湖人的](https://zh.wikipedia.org/wiki/洛杉矶湖�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1965年NBA總決賽" title="wikilink">1965年</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉磯湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉磯湖人</a></p></td>
 <td><p>1–4</p></td>
 <td><p><strong><a href="../Page/波士顿凯尔特人.md" title="wikilink">波士頓塞爾特人</a></strong><sup>†</sup></p></td>
 <td><p>[26]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1966年NBA總決賽" title="wikilink">1966年</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉磯湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉磯湖人</a></p></td>
 <td><p>3–4</p></td>
 <td><p><strong><a href="../Page/波士顿凯尔特人.md" title="wikilink">波士頓塞爾特人</a></strong></p></td>
 <td><p>[27]</p></td>
@@ -219,21 +219,21 @@ Finals）擊敗[洛杉磯湖人的](https://zh.wikipedia.org/wiki/洛杉矶湖�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1968年NBA總決賽" title="wikilink">1968年</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉磯湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉磯湖人</a></p></td>
 <td><p>2–4</p></td>
 <td><p><strong><a href="../Page/波士顿凯尔特人.md" title="wikilink">波士頓塞爾特人</a></strong></p></td>
 <td><p>[29]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1969年NBA總決賽" title="wikilink">1969年</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉磯湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉磯湖人</a></p></td>
 <td><p>3–4</p></td>
 <td><p><strong><a href="../Page/波士顿凯尔特人.md" title="wikilink">波士頓塞爾特人</a></strong></p></td>
 <td><p>[30]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1970年NBA總決賽" title="wikilink">1970年</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉磯湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉磯湖人</a></p></td>
 <td><p>3–4</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/紐約人" title="wikilink">紐約人</a></strong><sup>†</sup></p></td>
 <td><p>[31]</p></td>
@@ -247,14 +247,14 @@ Finals）擊敗[洛杉磯湖人的](https://zh.wikipedia.org/wiki/洛杉矶湖�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1972年NBA總決賽" title="wikilink">1972年</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉磯湖人</a></strong><sup>†</sup></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉磯湖人</a></strong><sup>†</sup></p></td>
 <td><p>4–1</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐約人" title="wikilink">紐約人</a></p></td>
 <td><p>[33]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1973年NBA總決賽" title="wikilink">1973年</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉磯湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉磯湖人</a></p></td>
 <td><p>1–4</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/紐約人" title="wikilink">紐約人</a></strong></p></td>
 <td><p>[34]</p></td>
@@ -303,7 +303,7 @@ Finals）擊敗[洛杉磯湖人的](https://zh.wikipedia.org/wiki/洛杉矶湖�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1980年NBA總決賽" title="wikilink">1980年</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉磯湖人</a></strong></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉磯湖人</a></strong></p></td>
 <td><p>4–2</p></td>
 <td><p><a href="../Page/费城76人.md" title="wikilink">費城76人</a></p></td>
 <td><p>[41]</p></td>
@@ -317,14 +317,14 @@ Finals）擊敗[洛杉磯湖人的](https://zh.wikipedia.org/wiki/洛杉矶湖�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/1982年NBA總決賽" title="wikilink">1982年</a></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉磯湖人</a></strong></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉磯湖人</a></strong></p></td>
 <td><p>4–2</p></td>
 <td><p><a href="../Page/费城76人.md" title="wikilink">費城76人</a></p></td>
 <td><p>[43]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/1983年NBA總決賽" title="wikilink">1983年</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉磯湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉磯湖人</a></p></td>
 <td><p>0–4</p></td>
 <td><p><strong><a href="../Page/费城76人.md" title="wikilink">費城76人</a></strong><sup>†</sup></p></td>
 <td><p>[44]</p></td>
@@ -334,7 +334,7 @@ Finals）擊敗[洛杉磯湖人的](https://zh.wikipedia.org/wiki/洛杉矶湖�
 
 ## 表格註釋
 
-  - 在1949–50年的[NBA賽季中](../Page/NBA.md "wikilink")，西區聯盟成立了[中西賽區](https://zh.wikipedia.org/wiki/中西赛区 "wikilink")。而[明尼亞波利斯湖人就是被劃分在](https://zh.wikipedia.org/wiki/洛杉矶湖人 "wikilink")[中西賽區裡](https://zh.wikipedia.org/wiki/中西赛区 "wikilink")\[45\]。後來該賽區已被分拆成兩個賽區。
+  - 在1949–50年的[NBA賽季中](../Page/NBA.md "wikilink")，西區聯盟成立了[中西賽區](https://zh.wikipedia.org/wiki/中西赛区 "wikilink")。而[明尼亞波利斯湖人就是被劃分在](../Page/洛杉矶湖人.md "wikilink")[中西賽區裡](https://zh.wikipedia.org/wiki/中西赛区 "wikilink")\[45\]。後來該賽區已被分拆成兩個賽區。
 
   - 這個冠軍獎盃是以[爾特·A·布朗作命名](https://zh.wikipedia.org/wiki/爾特·A·布朗 "wikilink")。
 

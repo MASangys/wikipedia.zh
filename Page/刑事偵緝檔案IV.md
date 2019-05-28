@@ -182,7 +182,7 @@
 <td><p><strong>關係／暱稱</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
 <td></td>
 <td><p>軍裝警員<br />
 參見<a href="https://zh.wikipedia.org/wiki/#檔案八：黑色周五（第26－29集）" title="wikilink">檔案八：黑色周五（第26－29集）</a></p></td>
@@ -382,7 +382,7 @@ Chez Maman侍應<br />
 於第31集因在工作上配戴飾物兼卸責而被解僱</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
 <td><p>David</p></td>
 <td><p>Chez Maman侍應</p></td>
 </tr>
@@ -1088,7 +1088,7 @@ Chez Maman侍應<br />
 為人為富不仁、只關心自己</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/麥子雲" title="wikilink">麥子雲</a></p></td>
+<td><p><a href="../Page/麥子雲.md" title="wikilink">麥子雲</a></p></td>
 <td></td>
 <td><p>《幹探實錄》之演員</p></td>
 </tr>
@@ -1310,12 +1310,12 @@ Simon之情人</p></td>
 武杰、黃國仲的上司</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
+<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
 <td><p>經　理</p></td>
 <td><p>君樂酒店管房經理</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
 <td><p>軍裝警員</p></td>
 <td><p>於第28集去到程柏家，來說找到其車。</p></td>
 </tr>

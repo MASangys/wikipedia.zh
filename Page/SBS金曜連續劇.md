@@ -76,7 +76,7 @@ Musical](../Page/The_Musical.md "wikilink")》開始恢復。
 <td style="text-align: center;"><p>24</p></td>
 <td style="text-align: center;"><p><a href="../Page/田光烈_(韓國).md" title="wikilink">田光烈</a>、<a href="../Page/李美淑.md" title="wikilink">李美淑</a>、<a href="../Page/甄美里.md" title="wikilink">甄美里</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭世浩" title="wikilink">鄭世浩</a>、<a href="https://zh.wikipedia.org/wiki/申允燮" title="wikilink">申允燮</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔允晶" title="wikilink">崔允晶</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/崔允晶.md" title="wikilink">崔允晶</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
@@ -86,7 +86,7 @@ Musical](../Page/The_Musical.md "wikilink")》開始恢復。
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔明吉" title="wikilink">崔明吉</a>、<a href="../Page/禹喜珍.md" title="wikilink">禹喜珍</a>、<a href="https://zh.wikipedia.org/wiki/史江" title="wikilink">史江</a>、<a href="../Page/林湖.md" title="wikilink">林湖</a>、<a href="../Page/李周炫.md" title="wikilink">李周炫</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/裴泰燮" title="wikilink">裴泰燮</a>、<a href="https://zh.wikipedia.org/wiki/金政珉" title="wikilink">金政珉</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/裴泰燮" title="wikilink">裴泰燮</a>、<a href="../Page/金政珉.md" title="wikilink">金政珉</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/許淑" title="wikilink">許淑</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -312,7 +312,7 @@ Musical](../Page/The_Musical.md "wikilink")》開始恢復。
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/飛天舞" title="wikilink">飛天舞</a><br />
 </p></td>
 <td style="text-align: center;"><p>14</p></td>
-<td style="text-align: center;"><p><a href="../Page/朱鎮模.md" title="wikilink">朱鎮模</a>、<a href="../Page/朴志胤.md" title="wikilink">朴志胤</a>、<a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a>、<a href="../Page/金剛于.md" title="wikilink">金剛-{于}-</a>、<a href="../Page/朴鎮宇.md" title="wikilink">朴鎮宇</a>、<a href="https://zh.wikipedia.org/wiki/牛莉" title="wikilink">牛莉</a>、<a href="https://zh.wikipedia.org/wiki/王亞楠" title="wikilink">王亞楠</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朱鎮模.md" title="wikilink">朱鎮模</a>、<a href="../Page/朴志胤.md" title="wikilink">朴志胤</a>、<a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a>、<a href="../Page/金剛于.md" title="wikilink">金剛-{于}-</a>、<a href="../Page/朴鎮宇.md" title="wikilink">朴鎮宇</a>、<a href="../Page/牛莉.md" title="wikilink">牛莉</a>、<a href="https://zh.wikipedia.org/wiki/王亞楠" title="wikilink">王亞楠</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/尹尚浩_(導演).md" title="wikilink">尹尚浩</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/姜銀慶.md" title="wikilink">姜銀慶</a>、<a href="https://zh.wikipedia.org/wiki/李恩尚" title="wikilink">李恩尚</a></p></td>
 <td style="text-align: center;"></td>
@@ -347,7 +347,7 @@ Musical](../Page/The_Musical.md "wikilink")》開始恢復。
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋昶義" title="wikilink">宋昶義</a>、<a href="../Page/李相侖.md" title="wikilink">李相侖</a>、<a href="../Page/金有美.md" title="wikilink">金有美</a>、<a href="../Page/全慧彬.md" title="wikilink">全慧彬</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/洪昌旭.md" title="wikilink">洪昌旭</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/柳賢美" title="wikilink">柳賢美</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/柳賢美.md" title="wikilink">柳賢美</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

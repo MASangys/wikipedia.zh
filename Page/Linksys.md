@@ -47,6 +47,6 @@ Technologies*。
     - 思科新聞稿
   - [The iPhone Is Launched ... By Linksys, Not
     Apple](http://www.pcworld.com/article/id,128236-c,cellphones/article.html)
-    於[PC World](https://zh.wikipedia.org/wiki/PC_World "wikilink")
+    於[PC World](../Page/PC_World.md "wikilink")
 
 [Category:美國電子公司](https://zh.wikipedia.org/wiki/Category:美國電子公司 "wikilink")

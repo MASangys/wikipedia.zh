@@ -50,7 +50,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>.841</strong></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></strong></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1971-72_NBA赛季" title="wikilink">1971-72</a></p></td>
 <td><p><a href="../Page/比尔·沙尔曼.md" title="wikilink">比尔·沙尔曼</a></p></td>
 <td><p>69–13</p></td>
@@ -148,7 +148,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>.817</strong></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></strong></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1999-00_NBA赛季" title="wikilink">1999-00</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/菲尔·杰克逊" title="wikilink">菲尔·杰克逊</a></p></td>
 <td><p>67–15</p></td>
@@ -302,7 +302,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>.793</strong></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></strong></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1986-87_NBA赛季" title="wikilink">1986-87</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/帕特·莱利" title="wikilink">帕特·莱利</a></p></td>
 <td><p>65-17</p></td>
@@ -316,7 +316,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>.793</strong></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></strong></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></strong></p></td>
 <td><p><a href="../Page/2008-09_NBA赛季.md" title="wikilink">2008-09</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/菲尔·杰克逊" title="wikilink">菲尔·杰克逊</a></p></td>
 <td><p>65-17</p></td>
@@ -470,7 +470,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>.768</strong></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></strong></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1989-90_NBA赛季" title="wikilink">1989-90</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/帕特·莱利" title="wikilink">帕特·莱利</a></p></td>
 <td><p>63-19</p></td>
@@ -610,7 +610,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>.756</strong></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></strong></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1984-85_NBA赛季" title="wikilink">1984-85</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/帕特·莱利" title="wikilink">帕特·莱利</a></p></td>
 <td><p>62–20</p></td>
@@ -624,7 +624,7 @@
 </tr>
 <tr class="even">
 <td><p><strong>.756</strong></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></strong></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1985-86_NBA赛季" title="wikilink">1985-86</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/帕特·莱利" title="wikilink">帕特·莱利</a></p></td>
 <td><p>62–20</p></td>
@@ -638,7 +638,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>.756</strong></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></strong></p></td>
+<td><p><strong><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1987-88_NBA赛季" title="wikilink">1987-88</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/帕特·莱利" title="wikilink">帕特·莱利</a></p></td>
 <td><p>62–20</p></td>

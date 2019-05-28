@@ -85,7 +85,7 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - [高城元氣](../Page/高城元氣.md "wikilink")
 
-  - [丹澤晃之](https://zh.wikipedia.org/wiki/丹澤晃之 "wikilink")（2005）
+  - [丹澤晃之](../Page/丹澤晃之.md "wikilink")（2005）
 
   - （2012）
 
@@ -138,13 +138,13 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
 <!-- end list -->
 
-  - [赤尾光](https://zh.wikipedia.org/wiki/赤尾光 "wikilink")（2015）
+  - [赤尾光](../Page/赤尾光.md "wikilink")（2015）
 
   - 秋保佐永子（2008）
 
-  - [雨宮夕夏](https://zh.wikipedia.org/wiki/雨宮夕夏 "wikilink")（2013）
+  - [雨宮夕夏](../Page/雨宮夕夏.md "wikilink")（2013）
 
-  - [綾瀨有](https://zh.wikipedia.org/wiki/綾瀨有 "wikilink")（2012）
+  - [綾瀨有](../Page/綾瀨有.md "wikilink")（2012）
 
   -
   - [飯田友子](../Page/飯田友子.md "wikilink")（2010）
@@ -155,7 +155,7 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - [今瀨未知](https://zh.wikipedia.org/wiki/今瀨未知 "wikilink")
 
-  - [岩井映美里](https://zh.wikipedia.org/wiki/岩井映美里 "wikilink")（2015）
+  - [岩井映美里](../Page/岩井映美里.md "wikilink")（2015）
 
   - 岩山千尋（2014）
 
@@ -163,9 +163,9 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - [內田真禮](../Page/內田真禮.md "wikilink")（2010）
 
-  - [大西沙織](https://zh.wikipedia.org/wiki/大西沙織 "wikilink")（2012）
+  - [大西沙織](../Page/大西沙織.md "wikilink")（2012）
 
-  - [岡-{咲}-美保](https://zh.wikipedia.org/wiki/岡咲美保 "wikilink")（2017）
+  - [岡-{咲}-美保](../Page/岡咲美保.md "wikilink")（2017）
 
   - [小澤亞李](../Page/小澤亞李.md "wikilink")（2013）
 
@@ -177,7 +177,7 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
 <!-- end list -->
 
-  - [金子真由美](https://zh.wikipedia.org/wiki/金子真由美 "wikilink")（2008）
+  - [金子真由美](../Page/金子真由美.md "wikilink")（2008）
 
   - （2011）
 
@@ -197,15 +197,15 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - [佐倉綾音](https://zh.wikipedia.org/wiki/佐倉綾音 "wikilink")（2009）
 
-  - [篠原侑](https://zh.wikipedia.org/wiki/篠原侑 "wikilink")（2016）
+  - [篠原侑](../Page/篠原侑.md "wikilink")（2016）
 
   - （2014）
 
   - [洲崎綾](../Page/洲崎綾.md "wikilink")（2011）\[4\]
 
-  - [鈴木亞理沙](https://zh.wikipedia.org/wiki/鈴木亞理沙 "wikilink")（2014）
+  - [鈴木亞理沙](../Page/鈴木亞理沙.md "wikilink")（2014）
 
-  - [關根瞳](https://zh.wikipedia.org/wiki/關根瞳 "wikilink")（2017）
+  - [關根瞳](../Page/關根瞳.md "wikilink")（2017）
 
   - [千本木彩花](../Page/千本木彩花.md "wikilink")（2014）
 
@@ -223,7 +223,7 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - [瀧田樹里](../Page/瀧田樹里.md "wikilink")（2003）
 
-  - [武田羅梨沙多胡](https://zh.wikipedia.org/wiki/武田羅梨沙多胡 "wikilink")（2016）
+  - [武田羅梨沙多胡](../Page/武田羅梨沙多胡.md "wikilink")（2016）
 
   - [巽悠衣子](../Page/巽悠衣子.md "wikilink")（2008）
 
@@ -231,7 +231,7 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - （2014）
 
-  - [綱掛裕美](https://zh.wikipedia.org/wiki/綱掛裕美 "wikilink")（2003）
+  - [綱掛裕美](../Page/綱掛裕美.md "wikilink")（2003）
 
 <!-- end list -->
 
@@ -249,7 +249,7 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
 <!-- end list -->
 
-  - [濱崎奈奈](https://zh.wikipedia.org/wiki/濱崎奈奈 "wikilink")（2011）
+  - [濱崎奈奈](../Page/濱崎奈奈.md "wikilink")（2011）
   - [早見沙織](../Page/早見沙織.md "wikilink")（2006）
   - [日笠陽子](../Page/日笠陽子.md "wikilink")（2006）
   - [平田宏美](../Page/平田宏美.md "wikilink")
@@ -264,9 +264,9 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
   - [MAKO](https://zh.wikipedia.org/wiki/MAKO "wikilink")
   - 松尾繪那（2010）
   - 松岡美里（2017）
-  - [松田利-{冴}-](https://zh.wikipedia.org/wiki/松田利冴 "wikilink")（2014）
-  - [嶺內智美](https://zh.wikipedia.org/wiki/嶺內智美 "wikilink")（2016）
-  - [三宅晴佳](https://zh.wikipedia.org/wiki/三宅晴佳 "wikilink")（2015）
+  - [松田利-{冴}-](../Page/松田利冴.md "wikilink")（2014）
+  - [嶺內智美](../Page/嶺內智美.md "wikilink")（2016）
+  - [三宅晴佳](../Page/三宅晴佳.md "wikilink")（2015）
   - 村井美里（2017）
 
 <!-- end list -->
@@ -301,7 +301,7 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - （之後轉往加入，現在是自由身）
 
-  - [白石稔](../Page/白石稔.md "wikilink")（2007年1月1日轉往加入[Pro-Fit](https://zh.wikipedia.org/wiki/Pro-Fit "wikilink")，現在是所屬）
+  - [白石稔](../Page/白石稔.md "wikilink")（2007年1月1日轉往加入[Pro-Fit](../Page/Pro-Fit.md "wikilink")，現在是所屬）
 
   - [鈴木千尋](../Page/鈴木千尋.md "wikilink")（2003年4月1日轉往加入ARTSVISION，現在是[自由身](../Page/自由職業.md "wikilink")（Office
     Monorisu業務提攜））
@@ -318,8 +318,7 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - （之後轉往加入[nexxed](https://www.nexeed.com/)，2013年3月1日起現在是同人舎（現：）所屬）
 
-  - [三上哲](https://zh.wikipedia.org/wiki/三上哲 "wikilink")（之後轉往加入Big
-    Mother，現在是／nexxed所屬）
+  - [三上哲](../Page/三上哲.md "wikilink")（之後轉往加入Big Mother，現在是／nexxed所屬）
 
   - （2008年9月1日轉往加入現在是所屬）
 
@@ -369,7 +368,7 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - [那須惠](../Page/那須惠.md "wikilink")（2004年3月1日轉為自由身，經歷[Production
     baobab](../Page/Production_baobab.md "wikilink")、[Bell
-    Production之後](https://zh.wikipedia.org/wiki/Bell_Production "wikilink")，再度成轉為自由身（al-share業務提攜））
+    Production之後](../Page/Bell_Production.md "wikilink")，再度成轉為自由身（al-share業務提攜））
 
   - （2008年7月31日離所）
 
@@ -383,7 +382,7 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
   - 牧千尋（2017年1月31日轉為自由身，同年4月1日起現在是al-share所屬）
 
   - （2003年12月1日轉往加入，經歷之後，現在是[EARLY
-    WING所屬](https://zh.wikipedia.org/wiki/EARLY_WING "wikilink")）
+    WING所屬](../Page/EARLY_WING.md "wikilink")）
 
   - （2015年5月30日離所，2016年6月20日加入青二Production所屬）
 
@@ -397,7 +396,7 @@ Promotion](../Page/Mausu_Promotion.md "wikilink")（舊稱：江崎Production）
 
   - [若林直美](../Page/若林直美.md "wikilink")（2008年3月31日轉為自由身，經歷和業務提攜、同人舎（現：al-share）之後，2018年9月1日起現在是所屬）
 
-  - [渡邊由紀](https://zh.wikipedia.org/wiki/渡邊由紀 "wikilink")（2004年引退）
+  - [渡邊由紀](../Page/渡邊由紀.md "wikilink")（2004年引退）
 
 ## Crazy Box
 
@@ -472,7 +471,7 @@ Enterprise的子公司。2000年成立\[7\]。
 
   - 立山
 
-  - [渡部惠子](https://zh.wikipedia.org/wiki/渡部惠子 "wikilink")
+  - [渡部惠子](../Page/渡部惠子.md "wikilink")
 
   - 渡優香
 
@@ -492,9 +491,8 @@ Enterprise的子公司。2000年成立\[7\]。
 
 ## 從I'm Enterprise獨立出去的聲優事務所
 
-  - [Pro-Fit](https://zh.wikipedia.org/wiki/Pro-Fit "wikilink")（2003年）
-  - [CLARE
-    VOICE](https://zh.wikipedia.org/wiki/CLARE_VOICE "wikilink")（2014年）
+  - [Pro-Fit](../Page/Pro-Fit.md "wikilink")（2003年）
+  - [CLARE VOICE](../Page/CLARE_VOICE.md "wikilink")（2014年）
 
 ## 注釋
 

@@ -6,7 +6,7 @@
 
 首席指揮（Chief Conductor）
 
-  - [帕沃·耶尔维](https://zh.wikipedia.org/wiki/帕沃·耶尔维 "wikilink")（2015－）
+  - [帕沃·耶尔维](../Page/帕沃·耶尔维.md "wikilink")（2015－）
 
 名誉音樂总监（Music Director Emeritus）
 
@@ -14,7 +14,7 @@
 
 桂冠名誉指揮（Honorary Conductor Laureate）
 
-  - [赫伯特·布隆斯泰特](https://zh.wikipedia.org/wiki/赫伯特·布隆斯泰特 "wikilink")（2016－）
+  - [赫伯特·布隆斯泰特](../Page/赫伯特·布隆斯泰特.md "wikilink")（2016－）
   - [沃尔夫冈·萨瓦利希](https://zh.wikipedia.org/wiki/沃尔夫冈·萨瓦利希 "wikilink")（1994－2013）
 
 桂冠指揮（Conductor Laureate）

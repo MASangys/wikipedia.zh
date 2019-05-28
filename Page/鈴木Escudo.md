@@ -64,8 +64,7 @@ V型六缸DOHC
 [RF型](https://zh.wikipedia.org/wiki/馬自達柴油引擎#RF型 "wikilink")[渦輪增壓](../Page/渦輪增壓器.md "wikilink")[柴油引擎等選擇](../Page/柴油引擎.md "wikilink")。至於替[馬自達的OEM代工仍持續發行](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[第二代Proceed
 Levante](https://zh.wikipedia.org/wiki/馬自達Proceed_Levante#第二代（1997年-1999年） "wikilink")，直到2000年[第一代Tribute問世以填補SUV產品空缺](https://zh.wikipedia.org/wiki/馬自達Tribute#第一代（2000年-2006年） "wikilink")。
 
-1998年 - 追加3排座位、7人座、換裝2.7L
-[V型六缸DOHC](https://zh.wikipedia.org/wiki/V6发动机 "wikilink")
+1998年 - 追加3排座位、7人座、換裝2.7L [V型六缸DOHC](../Page/V6发动机.md "wikilink")
 [H27A型引擎的](https://zh.wikipedia.org/wiki/鈴木H族引擎#H27A型 "wikilink")[鈴木Grand
 Escudo](../Page/鈴木Grand_Escudo.md "wikilink")，銷往[北美洲和](../Page/北美洲.md "wikilink")[智利市場的稱作](../Page/智利.md "wikilink")「鈴木XL-7」\[5\]，銷往[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")、[澳洲等市場的則叫](https://zh.wikipedia.org/wiki/澳洲 "wikilink")「鈴木Grand
 Vitara XL-7」。同年10月15日推出「Escudo V6 Special」特仕車，針對2.5L

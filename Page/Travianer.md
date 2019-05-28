@@ -2,7 +2,7 @@
 
 Travianer[世界內有很多](../Page/世界.md "wikilink")[玩家](../Page/玩家.md "wikilink")，你會在此[遊戲裏挑戰日常生活中的村民](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。這意味著你不僅是專注於[佔領](../Page/佔領.md "wikilink")，建立自己的家或決定你是否喜歡這個[遊戲或是進行很多的](https://zh.wikipedia.org/wiki/遊戲 "wikilink")[戰鬥](https://zh.wikipedia.org/wiki/戰鬥 "wikilink")：最重要的事情是溝通一個巨大的鄉村[社區](https://zh.wikipedia.org/wiki/社區 "wikilink")。只有這樣，才能到[俱樂部](../Page/俱樂部.md "wikilink")（Club）和強大的[公會](https://zh.wikipedia.org/wiki/公會 "wikilink")（Gilde）。
 
-Travianer目前只有兩種[語言](https://zh.wikipedia.org/wiki/語言 "wikilink")，分別是[德語版及](https://zh.wikipedia.org/wiki/德語 "wikilink")[英語版](https://zh.wikipedia.org/wiki/英語 "wikilink")。
+Travianer目前只有兩種[語言](../Page/語言.md "wikilink")，分別是[德語版及](https://zh.wikipedia.org/wiki/德語 "wikilink")[英語版](https://zh.wikipedia.org/wiki/英語 "wikilink")。
 
 ## 故事大綱
 

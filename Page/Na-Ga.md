@@ -23,8 +23,7 @@
 
   - [Kud Wafter](../Page/Kud_Wafter.md "wikilink")
 
-  - [Summer
-    Pockets](https://zh.wikipedia.org/wiki/Summer_Pockets "wikilink")
+  - [Summer Pockets](../Page/Summer_Pockets.md "wikilink")
 
 ## 插畫擔當作品
 
@@ -49,8 +48,7 @@
   - [Little Busters\!EX](../Page/Little_Busters!.md "wikilink")
   - [Kud Wafter](../Page/Kud_Wafter.md "wikilink")
   - [Rewrite](../Page/Rewrite.md "wikilink")
-  - [Summer
-    Pockets](https://zh.wikipedia.org/wiki/Summer_Pockets "wikilink")
+  - [Summer Pockets](../Page/Summer_Pockets.md "wikilink")
 
 ## 動畫
 

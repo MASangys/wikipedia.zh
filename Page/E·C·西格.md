@@ -10,7 +10,7 @@ outcault鼓勵他，並介紹了他在芝加哥先驅報“。
 1916年3月12日，公佈的先驅Segar的第一本漫畫，查理·卓別林的喜劇雀躍，跑了一年多一點。在1918年，他移居到威廉·倫道夫·赫斯特的芝加哥晚報美國，在那裡他創造了循環的循環。
 segar特爾·約翰遜結婚那年，他們有兩個孩子。
 
-在长期患病后，西格尔于1938年10月死于[白血病和](https://zh.wikipedia.org/wiki/白血病 "wikilink")[肝病](https://zh.wikipedia.org/wiki/肝病 "wikilink")，享年43岁。\[7\]
+在长期患病后，西格尔于1938年10月死于[白血病和](https://zh.wikipedia.org/wiki/白血病 "wikilink")[肝病](../Page/肝病.md "wikilink")，享年43岁。\[7\]
 
 ## 参考资料
 

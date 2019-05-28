@@ -91,7 +91,7 @@ Intel 和 AMD 的开源显卡驱动。\[12\]
   - [Boxee](https://zh.wikipedia.org/wiki/Boxee "wikilink")\[22\]
   - [MythTV](../Page/MythTV.md "wikilink")\[23\]
   - [Xine](https://zh.wikipedia.org/wiki/Xine "wikilink")\[24\]\[25\]
-  - [MLT](https://zh.wikipedia.org/wiki/Media_Lovin'_Toolkit "wikilink")\[26\]
+  - [MLT](../Page/Media_Lovin'_Toolkit.md "wikilink")\[26\]
   - [Adobe Flash](../Page/Adobe_Flash.md "wikilink") 10.2 *Stage Video*
     （目前仅支持32位） \[27\]
   - [VLC](https://zh.wikipedia.org/wiki/VLC "wikilink")

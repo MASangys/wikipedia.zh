@@ -44,7 +44,7 @@ Ishihara），血型AB型，身高183-185cm，日本與韓國混血，1981年9�
     Of The
     World的製作](https://zh.wikipedia.org/wiki/Top_Of_The_World "wikilink")。
   - 2014年12月31日，為[SMAP演奏](../Page/SMAP.md "wikilink")「Top Of The
-    World」而登上了日本[NHK電視台](https://zh.wikipedia.org/wiki/NHK "wikilink")[第65回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰 "wikilink")。
+    World」而登上了日本[NHK電視台](https://zh.wikipedia.org/wiki/NHK "wikilink")[第65回NHK紅白歌合戰](../Page/第65回NHK紅白歌合戰.md "wikilink")。
   - 2015年4月15日，發行睽違兩年專輯『The Others』。
   - 2016年8月31日，發行睽違專輯『Fire Bird』。
 

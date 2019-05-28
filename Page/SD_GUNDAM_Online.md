@@ -24,7 +24,7 @@ Generation)系列、以及動作化的SD扭蛋戰爭與SD鋼彈Online，即使�
 另一個改革，便是首創團隊混戰。「SD高達X」當中，只要我方四機，與敵方四機連接，便可發動四對四對決。作戰時，玩家控制我方其中一機，其餘三部機體則由電腦NPC控制作戰。而SD高達Online當中，玩家只可控制一部機體，並與另外三人組隊作戰，雖然由NPC變成其他玩家，四人小隊的1組合，其實亦再次在遊戲中出現。
 
 SD高達X系列，隨著[超級任天堂及](../Page/超級任天堂.md "wikilink")[GAME
-GEAR停產](https://zh.wikipedia.org/wiki/GAME_GEAR "wikilink")，該系列自此結束，取而代之的，是1998年[PlayStation的G世紀系列](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。一直到2005年，任天堂遊戲機「任天堂GameCube」，才再次推出以扭蛋戰士為主角、並包含動作元素的SD高達遊戲「SD高達
+GEAR停產](https://zh.wikipedia.org/wiki/GAME_GEAR "wikilink")，該系列自此結束，取而代之的，是1998年[PlayStation的G世紀系列](../Page/PlayStation.md "wikilink")。一直到2005年，任天堂遊戲機「任天堂GameCube」，才再次推出以扭蛋戰士為主角、並包含動作元素的SD高達遊戲「SD高達
 扭蛋戰爭」(SDガンダム ガシャポンウォーズ/SD Gundam Gachapon
 War)，除了繼承以往發展的多人對戰、四鍵切換，扭蛋戰爭更首次加上3D動作對戰模式，同時有掩體、障礙物、以及宇宙無重空間等戰場出現。而且遊戲亦首次支援四人同時對戰。
 

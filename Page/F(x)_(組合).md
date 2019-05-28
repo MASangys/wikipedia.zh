@@ -88,7 +88,7 @@ LineData =
 GROUP）」\[5\]為題的預告片。9月1日，正式發行首張數位單曲《[LA chA
 TA](https://zh.wikipedia.org/wiki/LA_chA_TA "wikilink")》的音源。9月2日，在首爾三成洞纖維中心進行首個公開演出和亮相並通過YouTube公開主打曲《LA
 chA TA》的MV\[6\]。主打曲《LA chA
-TA》由曾為[SM娛樂多個組合編寫歌曲的韓國作曲人](../Page/SM娛樂.md "wikilink")[Kenzie所製作](https://zh.wikipedia.org/wiki/Kenzie "wikilink")，以睿智的歌詞和輕快的旋律製造清新明快的氣氛。9月5日，以該曲在MBC《[Show\!
+TA》由曾為[SM娛樂多個組合編寫歌曲的韓國作曲人](../Page/SM娛樂.md "wikilink")[Kenzie所製作](../Page/Kenzie.md "wikilink")，以睿智的歌詞和輕快的旋律製造清新明快的氣氛。9月5日，以該曲在MBC《[Show\!
 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》正式出道。10月8日，與[少女時代共同代言LG](https://zh.wikipedia.org/wiki/少女時代 "wikilink")「Chocolate」手機，並演繹廣告歌《[Chocolate
 Love](../Page/Chocolate_Love.md "wikilink")》的電子版。
 
@@ -107,7 +107,7 @@ ABO》專輯中的歌曲〈Mr. Boogie〉，並分別於7月17日《[Show\!
 [F(x)_2012_Expo_1.jpg](https://zh.wikipedia.org/wiki/File:F\(x\)_2012_Expo_1.jpg "fig:F(x)_2012_Expo_1.jpg")舞台上。（Sulli因劇集拍攝未能參加。）\]\]
 2011年年初，SM娛樂宣佈f(x)計劃於上半年推出首張正規專輯\[13\]。成員Amber自去年因腳踝受傷需要到美國洛杉磯休養後，其間關於Amber將離開f(x)的謠言不斷\[14\]。直至Amber回到韓國，出現在f(x)新一期的LG手機代言宣傳照及SM娛樂發表Amber將從f(x)回歸的公告後才打破謠言\[15\]\[16\]。1月26日，一張f(x)在舞蹈室為新專輯練習的照片於社交網站上流出，讓不少粉絲期待f(x)的合體回歸\[17\]\[18\]。4月7日，f(x)韓國官方網站釋出首張正規專輯《[Pinocchio](../Page/Pinocchio_\(f\(x\)_專輯\).md "wikilink")》的概念照。4月18日，通過YouTube公開主打曲《Pinocchio（Danger）》的MV\[19\]。主打歌《Pinocchio（Danger）》是一首由強烈節拍和獨特吉他旋律組成的電子流行舞曲，透過嶄新的音樂突出成員的鮮明個性和實力，展現f(x)的另一種魅力。4月20日，正式發行首張正規專輯《Pinocchio》的音源和唱片。4月22日，於KBS《[音樂銀行](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")》公開《Pinocchio》回歸初舞台。f(x)憑著首張正規專輯《Pinocchio》首次摘下韓國音樂節目的一位，並贏得共八個一位。6月14日，正式發行首張正規改版專輯《[Hot
 Summer](../Page/Hot_Summer_\(Repackage\).md "wikilink")》的音源和唱片。6月17日，通過YouTube公開主打曲《Hot
-Summer》的MV\[20\]。該曲改编自德國女子組合[Monrose於](https://zh.wikipedia.org/wiki/Monrose "wikilink")2007年推出的第二張正規專輯《》收錄歌曲《Hot
+Summer》的MV\[20\]。該曲改编自德國女子組合[Monrose於](../Page/Monrose.md "wikilink")2007年推出的第二張正規專輯《》收錄歌曲《Hot
 Summer》\[21\]。《Hot
 Summer》在音樂節目中獲得了兩個第一位。截至該年底，首張正規專輯《Pinocchio》和首張正規改版專輯《Hot
 Summer》的唱片出貨量合共達10萬7669張\[22\]，也再次見證f(x)的強大的獨特音樂力量已成功征服全世界的歌迷。
@@ -199,7 +199,7 @@ Light》成为了[Tumblr的](https://zh.wikipedia.org/wiki/Tumblr "wikilink")
 
 [F(x)_London_Korea_Festival_2015_05.JPG](https://zh.wikipedia.org/wiki/File:F\(x\)_London_Korea_Festival_2015_05.JPG "fig:F(x)_London_Korea_Festival_2015_05.JPG")[倫敦特拉法加廣場舉行的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")「London
 Korean Festival 2015」舞台上。\]\]
-2015年2月4日，[SM娛樂於社交網站上傳了一張印有](../Page/SM娛樂.md "wikilink")「[Beautiful](https://zh.wikipedia.org/wiki/Beautiful_\(迷你专辑\) "wikilink")」字條的[幸運餅乾並暗示Amber即將以個人身份出道](https://zh.wikipedia.org/wiki/幸運餅乾 "wikilink")。2月13日，[Amber於KBS](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》以首張迷你專輯《Beautiful》主打歌〈Shake
+2015年2月4日，[SM娛樂於社交網站上傳了一張印有](../Page/SM娛樂.md "wikilink")「[Beautiful](../Page/Beautiful_\(迷你专辑\).md "wikilink")」字條的[幸運餅乾並暗示Amber即將以個人身份出道](https://zh.wikipedia.org/wiki/幸運餅乾 "wikilink")。2月13日，[Amber於KBS](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》以首張迷你專輯《Beautiful》主打歌〈Shake
 That Brass〉\[55\]正式個人出道。
 
 5月29日，[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[社交網站](https://zh.wikipedia.org/wiki/社交網站 "wikilink")[微博傳出宋茜已單方面提出與](../Page/微博.md "wikilink")[SM娛樂正式解約的傳聞](../Page/SM娛樂.md "wikilink")。5月30日，SM娛樂對此事件作出否認，並表示將為宋茜開設工作室進行[中國國內的活動](../Page/中國.md "wikilink")\[56\]。6月25日，韓國媒體Herald經濟報導，Sulli將會退出f(x)並專心朝演員的方向前進，SM娛樂對此事件僅表示目前內部未確定Sulli未來動向，會慎重處理此事\[57\]。
@@ -213,7 +213,7 @@ Korean Festival
 Global於[社交網站](https://zh.wikipedia.org/wiki/社交網站 "wikilink")[Facebook公開f](../Page/Facebook.md "wikilink")(x)舉辦騰訊專屬演唱會的宣傳視頻。9月30日，f(x)騰訊專屬演唱會於韓國京畿道議政府藝術殿堂舉行，綫上直播吸引146萬人觀看\[61\]。
 
 10月20日，SM娛樂為f(x)開設instagram帳戶並宣佈f(x)在時隔1年3個月後攜正規四輯《[4
-Walls](../Page/4_Walls.md "wikilink")》回歸。10月21日至26日，於[首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")[梨泰院舉辦](../Page/梨泰院.md "wikilink")\[4
+Walls](../Page/4_Walls.md "wikilink")》回歸。10月21日至26日，於[首爾](../Page/首爾.md "wikilink")[梨泰院舉辦](../Page/梨泰院.md "wikilink")\[4
 WALLS\] AN EXHIBIT，首次以投影方式公開成員概念照。10月27日，正式發行第四張正規專輯《4 Walls》的音源並公開主打曲〈4
 Walls〉\[62\]的MV。10月28日，SM娛樂宣布f(x)將會於2016年1月30及31日在首爾奧林匹克公園的奧林匹克大廳舉辦出道六年來的首次單獨演唱會。f(x)以主打歌〈4
 Walls〉在《[M\!
@@ -573,8 +573,7 @@ Reminiscin'》。
     V](https://zh.wikipedia.org/wiki/SMTOWN_Live_World_Tour_V "wikilink")
     （2016）
   - [SMTOWN Live World Tour
-    VI](https://zh.wikipedia.org/wiki/SMTOWN_Live_World_Tour_VI "wikilink")
-    （2017）
+    VI](../Page/SMTOWN_Live_World_Tour_VI.md "wikilink") （2017）
 
 ### 其他大型演唱會
 
@@ -614,7 +613,7 @@ Reminiscin'》。
 | 11月16日                           | 2014 Best of Best in Guangzhou                                                | [廣州國際體育演藝中心](https://zh.wikipedia.org/wiki/廣州國際體育演藝中心 "wikilink")       |                                                                   |
 | 2015年                            | 8月2日                                                                          | 2015釜山歌謠節（Amber、Luna）                                                   | 釜山松島海水浴場                                                          |
 | 8月9日                             | London Korean Festival 2015                                                   | [特拉法加廣場](../Page/特拉法加廣場.md "wikilink")                                  |                                                                   |
-| 8月14日                            | 紀念韓國光復70週年演唱會（Amber、Luna）                                                     | [仁川亞運主體育場](https://zh.wikipedia.org/wiki/仁川亞運主體育場 "wikilink")           |                                                                   |
+| 8月14日                            | 紀念韓國光復70週年演唱會（Amber、Luna）                                                     | [仁川亞運主體育場](../Page/仁川亞運主體育場.md "wikilink")                              |                                                                   |
 | 8月29日                            | [A-nation stadium fes.](../Page/愛貝克思夏日聯合國.md "wikilink") （Amber、Luna、Krystal） | [東京體育場](../Page/東京體育場.md "wikilink")                                    |                                                                   |
 | 10月25日                           | 2015 K-POP Jeju Festival                                                      | 济州岛世界杯竞技场                                                               |                                                                   |
 | 10月31日                           | UNIKOREA CULTURE WEEK                                                         | 臨津閣和平公園的露天劇場                                                            |                                                                   |

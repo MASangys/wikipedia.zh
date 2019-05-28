@@ -53,7 +53,7 @@ IT OUT」。
 
 **布志綸**
 （，主音，曾任職[環球唱片國際部](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")（負責與電台接觸），被認為聲音與[陳奕迅相近](../Page/陳奕迅.md "wikilink")。中學就讀[聖保羅書院](../Page/聖保羅書院.md "wikilink")，後到[加拿大](../Page/加拿大.md "wikilink")[麥馬士達大學修讀經濟系畢業](../Page/麥馬士達大學.md "wikilink")。出道前是獨立樂隊White
-Noise\[6\]的成員。2016年中Mr.與環球唱片約滿。2017年布志綸以個人身份簽約[耀榮文化](https://zh.wikipedia.org/wiki/耀榮文化 "wikilink")，同年8月發表第一首個人單曲《人在野》，2018年4月發表第二首個人單曲《經得起變化》。首張個人專輯將在2019推出。
+Noise\[6\]的成員。2016年中Mr.與環球唱片約滿。2017年布志綸以個人身份簽約[耀榮文化](../Page/耀榮文化.md "wikilink")，同年8月發表第一首個人單曲《人在野》，2018年4月發表第二首個人單曲《經得起變化》。首張個人專輯將在2019推出。
 
 ### 黎澤恩
 
@@ -125,12 +125,12 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
 | Misterdays                                                                                                                         |
 |                                                                                                                                    |
 | Misterdays                                                                                                                         |
-| [New Beginning](https://zh.wikipedia.org/wiki/New_Beginning "wikilink")                                                            |
+| [New Beginning](../Page/New_Beginning.md "wikilink")                                                                               |
 | New Beginning                                                                                                                      |
 | **2013年**                                                                                                                          |
 | New Beginning                                                                                                                      |
 | New Beginning                                                                                                                      |
-| [飛行的一百個理由](https://zh.wikipedia.org/wiki/飛行的一百個理由 "wikilink")                                                                      |
+| [飛行的一百個理由](../Page/飛行的一百個理由.md "wikilink")                                                                                         |
 | **2014年**                                                                                                                          |
 | 飛行的一百個理由                                                                                                                           |
 | 飛行的一百個理由                                                                                                                           |
@@ -444,7 +444,7 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>9th</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/New_Beginning" title="wikilink">New Beginning</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/New_Beginning.md" title="wikilink">New Beginning</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/新藝寶唱片.md" title="wikilink">新藝寶唱片</a></p></td>
 <td style="text-align: left;"><p>2013年1月4日</p></td>
@@ -468,7 +468,7 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>10th</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/飛行的一百個理由" title="wikilink">飛行的一百個理由</a><br />
+<td style="text-align: left;"><p><a href="../Page/飛行的一百個理由.md" title="wikilink">飛行的一百個理由</a><br />
 <small><strong>（國語專輯）</strong></small></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/新藝寶唱片.md" title="wikilink">新藝寶唱片</a></p></td>
@@ -533,7 +533,7 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>12th</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/We_R_Mr._Vol._1" title="wikilink">We R Mr. Vol. 1</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/We_R_Mr._Vol._1.md" title="wikilink">We R Mr. Vol. 1</a></p></td>
 <td style="text-align: left;"><p>大碟+精選</p></td>
 <td style="text-align: left;"><p><a href="../Page/新藝寶唱片.md" title="wikilink">新藝寶唱片</a></p></td>
 <td style="text-align: left;"><p>2017年4月13日</p></td>
@@ -569,7 +569,7 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
 </ol></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/We_R_Mr._Vol._2" title="wikilink">We R Mr. Vol. 2</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/We_R_Mr._Vol._2.md" title="wikilink">We R Mr. Vol. 2</a></p></td>
 <td style="text-align: left;"><p>大碟+精選</p></td>
 <td style="text-align: left;"><p><a href="../Page/新藝寶唱片.md" title="wikilink">新藝寶唱片</a></p></td>
 <td style="text-align: left;"><p>2017年4月13日</p></td>

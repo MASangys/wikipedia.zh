@@ -18,7 +18,7 @@ iTALC是一個專門為學校使用而設計的軟件，因此提供了各種方
   - 遠端取證：當有學生違規使用電腦，可以即時擷取畫面作為證據；
   - [在家學習](../Page/在家自學.md "wikilink")：由於iTALC採用了[SSH認證而不是其他遠端操控軟體的密碼控制](https://zh.wikipedia.org/wiki/SSH "wikilink")，使網路上存取教學資源更安心。而iTALC亦支援[VPN連線](https://zh.wikipedia.org/wiki/VPN "wikilink")；
   - 線程優化：透過對軟件的[線程化](https://zh.wikipedia.org/wiki/線程 "wikilink")，iTALC在[多核心系統上的運行得到優化](https://zh.wikipedia.org/wiki/多核心 "wikilink")。
-  - 常駐電腦：與其他的MUSE或[TightVNC不同的是](https://zh.wikipedia.org/wiki/TightVNC "wikilink")，iTALC常駐在電腦之後，無法直接從Taskbar或Task
+  - 常駐電腦：與其他的MUSE或[TightVNC不同的是](../Page/TightVNC.md "wikilink")，iTALC常駐在電腦之後，無法直接從Taskbar或Task
     Manager關閉，免除學生透過停止程式而規避監管。另外，程式的反安裝亦無法從[控制台執行](https://zh.wikipedia.org/wiki/控制台 "wikilink")，而要執行特別的命令。
   - 遠端登入：透過指定的命令能夠遠端使所有學生電腦以指定的登入信息登入網路，這對低小年級學生最有幫助，因為一年級的學生很多時對鍵盤不熟習，需要花很多時間於電腦的登入；
 
@@ -32,7 +32,7 @@ iTALC採用了[Qt](../Page/Qt.md "wikilink")
 ### 與其他軟體相衝
 
 不過，由於iTALC會使用5800及5900端口（辨識代號："ISD
-001.000"），若電腦已安裝有[WinVNC](https://zh.wikipedia.org/wiki/WinVNC "wikilink")、[TightVNC等軟件](https://zh.wikipedia.org/wiki/TightVNC "wikilink")，則必須先行解安裝，或在設定時使用其他端口，否則會造成相衝。另外，當廣播學生電腦時，課室所有電腦會連接到有關學生電腦的5858埠，所以需要設定防毒軟件，避免因為不能連線而使系統凍結。
+001.000"），若電腦已安裝有[WinVNC](https://zh.wikipedia.org/wiki/WinVNC "wikilink")、[TightVNC等軟件](../Page/TightVNC.md "wikilink")，則必須先行解安裝，或在設定時使用其他端口，否則會造成相衝。另外，當廣播學生電腦時，課室所有電腦會連接到有關學生電腦的5858埠，所以需要設定防毒軟件，避免因為不能連線而使系統凍結。
 
 ### 屏幕大小問題
 

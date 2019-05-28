@@ -414,7 +414,7 @@
     1977年16号～41号
   - [かつみ](https://zh.wikipedia.org/wiki/かつみ "wikilink")（[矢口高雄](../Page/矢口高雄.md "wikilink")）
     1977年18号～36号
-  - [おやこ刑事](https://zh.wikipedia.org/wiki/おやこ刑事 "wikilink")（原作：[林律雄](https://zh.wikipedia.org/wiki/林律雄 "wikilink")、画：[大島やすいち](https://zh.wikipedia.org/wiki/大島やすいち "wikilink")）
+  - [おやこ刑事](https://zh.wikipedia.org/wiki/おやこ刑事 "wikilink")（原作：[林律雄](../Page/林律雄.md "wikilink")、画：[大島やすいち](https://zh.wikipedia.org/wiki/大島やすいち "wikilink")）
     1977年21号～1981年12号
   - [青春の河](https://zh.wikipedia.org/wiki/青春の河 "wikilink")（ジョージ秋山）
     1977年29号～1978年12号
@@ -442,7 +442,7 @@
   - [人造人009](../Page/人造人009.md "wikilink")（石之森章太郎） 1979年13号～1981年11号
   - [ほっとけどっぐ](https://zh.wikipedia.org/wiki/ほっとけどっぐ "wikilink")（[まきの勝](https://zh.wikipedia.org/wiki/まきの勝 "wikilink")）
     1979年15号～26号
-  - [あばれ大海](https://zh.wikipedia.org/wiki/あばれ大海 "wikilink")（[六田登](https://zh.wikipedia.org/wiki/六田登 "wikilink")）
+  - [あばれ大海](https://zh.wikipedia.org/wiki/あばれ大海 "wikilink")（[六田登](../Page/六田登.md "wikilink")）
     1979年22号～42号
   - [あっかんマン](https://zh.wikipedia.org/wiki/あっかんマン "wikilink")（[田村信](https://zh.wikipedia.org/wiki/田村信 "wikilink")）
     1979年26号～1980年7号
@@ -484,7 +484,7 @@
     1981年4・5合併号～1984年18号
   - [ネリわさび狂騒曲](https://zh.wikipedia.org/wiki/ネリわさび狂騒曲 "wikilink")（[木全和也](https://zh.wikipedia.org/wiki/木全和也 "wikilink")）
     1981年9号～16号
-  - [秀逗博士](https://zh.wikipedia.org/wiki/秀逗博士 "wikilink")（[細野不二彥](../Page/細野不二彥.md "wikilink")）
+  - [秀逗博士](../Page/秀逗博士.md "wikilink")（[細野不二彥](../Page/細野不二彥.md "wikilink")）
     1981年14号～1982年7号
   - [六三四之劍](../Page/六三四之劍.md "wikilink")（[村上紀香](../Page/村上紀香.md "wikilink")）
     1981年17号～1985年41号
@@ -800,13 +800,13 @@
     1993年21・22合併号～1994年10号
   - ["LOVe"](https://zh.wikipedia.org/wiki/"LOVe" "wikilink")（石渡治）
     1993年46号～1999年10号
-  - [噂の男前](https://zh.wikipedia.org/wiki/噂の男前 "wikilink")（[吉田聰](https://zh.wikipedia.org/wiki/吉田聰 "wikilink")）
+  - [噂の男前](https://zh.wikipedia.org/wiki/噂の男前 "wikilink")（[吉田聰](../Page/吉田聰.md "wikilink")）
     1993年52号～1996年35号
   - [Shout\!](https://zh.wikipedia.org/wiki/Shout! "wikilink")（[清水洋三](https://zh.wikipedia.org/wiki/清水洋三 "wikilink")）
     1994年～1995年
   - [激犬シアター](https://zh.wikipedia.org/wiki/激犬シアター "wikilink")（[上西園茂宣](https://zh.wikipedia.org/wiki/上西園茂宣 "wikilink")）
     1994年1・2合併号～28号
-  - [神鼓妙拳](https://zh.wikipedia.org/wiki/神鼓妙拳 "wikilink")（シナリオ：[井上敏樹](https://zh.wikipedia.org/wiki/井上敏樹 "wikilink")、画：豬熊忍）
+  - [神鼓妙拳](https://zh.wikipedia.org/wiki/神鼓妙拳 "wikilink")（シナリオ：[井上敏樹](../Page/井上敏樹.md "wikilink")、画：豬熊忍）
     1994年3・4合併号～42号
   - **[名偵探柯南](../Page/名偵探柯南.md "wikilink")（[青山剛昌](../Page/青山剛昌.md "wikilink")）
     1994年5号～**
@@ -1121,7 +1121,7 @@
   - [向达伦大冒险](https://zh.wikipedia.org/wiki/向达伦大冒险 "wikilink")（原作:[向达伦](https://zh.wikipedia.org/wiki/向达伦 "wikilink")、作画:）
     2006年36・37合併号～2009年10号
 
-  - [MÄRΩ（オメガ）](https://zh.wikipedia.org/wiki/MÄRΩ "wikilink")（[星野倖一郎](https://zh.wikipedia.org/wiki/星野倖一郎 "wikilink")、原案：安西信行）
+  - [MÄRΩ（オメガ）](https://zh.wikipedia.org/wiki/MÄRΩ "wikilink")（[星野倖一郎](../Page/星野倖一郎.md "wikilink")、原案：安西信行）
     2006年39号～2007年28号
 
   - [助けて\!フラワーマン](https://zh.wikipedia.org/wiki/助けて!フラワーマン "wikilink")（[兼山臣](https://zh.wikipedia.org/wiki/兼山臣 "wikilink")）
@@ -1171,8 +1171,7 @@
   - [月光条例](https://zh.wikipedia.org/wiki/月光条例 "wikilink")（[藤田和日郎](../Page/藤田和日郎.md "wikilink")）
     2008年17号～2014年19号
 
-  - （[CRYSTAL洋介](https://zh.wikipedia.org/wiki/CRYSTAL洋介 "wikilink")）
-    2008年18号～2011年12号
+  - （[CRYSTAL洋介](../Page/CRYSTAL洋介.md "wikilink")） 2008年18号～2011年12号
 
   - [只有神知道的世界](../Page/只有神知道的世界.md "wikilink")（[若木民喜](../Page/若木民喜.md "wikilink")）
     2008年19号～2014年21號
@@ -1223,8 +1222,7 @@
   - [电波教师](https://zh.wikipedia.org/wiki/电波教师 "wikilink")（）
     2011年49号～2017年18号
 
-  - （[CRYSTAL洋介](https://zh.wikipedia.org/wiki/CRYSTAL洋介 "wikilink")）
-    2012年10号～2012年51号
+  - （[CRYSTAL洋介](../Page/CRYSTAL洋介.md "wikilink")） 2012年10号～2012年51号
 
   - （原作：[七月镜一](https://zh.wikipedia.org/wiki/七月镜一 "wikilink")、作画：）
     2012年15号～2016年8号
@@ -1252,8 +1250,7 @@
   - [競女\!\!\!\!\!\!\!\!](../Page/競女!!!!!!!!.md "wikilink")（[空詠大智](https://zh.wikipedia.org/wiki/空詠大智 "wikilink")）
     2013年34号～2017年22・23合并号
 
-  - **[汤神君没有朋友](https://zh.wikipedia.org/wiki/汤神君没有朋友 "wikilink")（）
-    2013年48号～**
+  - **[汤神君没有朋友](../Page/汤神君没有朋友.md "wikilink")（） 2013年48号～**
 
   - （） 2013年49号～2015年18号
 
@@ -1272,7 +1269,7 @@
   - （） 2014年24号～2015年48号
 
   - [偷×看
-    2年级篇](https://zh.wikipedia.org/wiki/偷×看 "wikilink")（[本名和幸](../Page/本名和幸.md "wikilink")）
+    2年级篇](../Page/偷×看.md "wikilink")（[本名和幸](../Page/本名和幸.md "wikilink")）
     2014年26号～2015年20号
 
   - （） 2014年27号～2015年34号
@@ -1284,8 +1281,7 @@
 
   - （土星） 2014年36・37合并号～2015年45号
 
-  - （[小田智仁](https://zh.wikipedia.org/wiki/小田智仁 "wikilink")）
-    2014年40号～2015年15号
+  - （[小田智仁](../Page/小田智仁.md "wikilink")） 2014年40号～2015年15号
 
   - （[藤泽亨](../Page/藤泽亨.md "wikilink")） 2014年43号～2015年48号
 
@@ -1342,10 +1338,10 @@
 
   - **（） 2016年22・23合并号～**
 
-  - **[在魔王城说晚安](https://zh.wikipedia.org/wiki/在魔王城说晚安 "wikilink")（[熊之股鍵次](https://zh.wikipedia.org/wiki/熊之股鍵次 "wikilink")）
+  - **[在魔王城说晚安](https://zh.wikipedia.org/wiki/在魔王城说晚安 "wikilink")（[熊之股鍵次](../Page/熊之股鍵次.md "wikilink")）
     2016年24号～**
 
-  - **[古见同学有交流障碍症](https://zh.wikipedia.org/wiki/古见同学有交流障碍症 "wikilink")（[小田智仁](https://zh.wikipedia.org/wiki/小田智仁 "wikilink")）
+  - **[古见同学有交流障碍症](https://zh.wikipedia.org/wiki/古见同学有交流障碍症 "wikilink")（[小田智仁](../Page/小田智仁.md "wikilink")）
     2016年25号～**
 
   - 寻鬼处 几星霜（） 2016年26号～2017年15号
@@ -1401,8 +1397,7 @@
 
   - （直正也） 2018年47号\~51号
 
-  - **（原作：[河本焰](https://zh.wikipedia.org/wiki/河本焰 "wikilink")・武野光／作画：）
-    2018年49号\~**
+  - **（原作：[河本焰](../Page/河本焰.md "wikilink")・武野光／作画：） 2018年49号\~**
 
   - **妹搜记录（西村啓） 2019年2・3合并号\~**
 

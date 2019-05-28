@@ -7,7 +7,7 @@
 BM92-G1）。
 
 之後法國政府訂購了約27萬支的[SIG
-SP2022作為新的制式手槍](https://zh.wikipedia.org/wiki/SIG_Pro手槍 "wikilink")，於2008年交貨\[1\]，並決定同時仍然裝備[MAB
+SP2022作為新的制式手槍](../Page/SIG_Pro手槍.md "wikilink")，於2008年交貨\[1\]，並決定同時仍然裝備[MAB
 PA-15及MAC](https://zh.wikipedia.org/wiki/MAB_PA-15 "wikilink") Mle 1950。
 
 ## 採用

@@ -4,7 +4,7 @@
 
   - 神谷明日香/[福田沙紀](https://zh.wikipedia.org/wiki/福田沙紀 "wikilink")
     速水海斗(暫譯)/[西島隆弘](../Page/西島隆弘.md "wikilink")
-    本郷美空/[入山法子](https://zh.wikipedia.org/wiki/入山法子 "wikilink")
+    本郷美空/[入山法子](../Page/入山法子.md "wikilink")
 
 ## 播放日期、副題、收視率
 

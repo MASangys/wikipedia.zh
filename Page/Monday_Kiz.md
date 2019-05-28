@@ -27,7 +27,7 @@ Kiz組合，於2010年4月20日發行單曲《New Sentimental》，並於5月20�
   - 2008年：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[New
     Heart](https://zh.wikipedia.org/wiki/New_Heart "wikilink")》（[李鎮成與](../Page/李鎮成.md "wikilink")[M
     to
-    M的](https://zh.wikipedia.org/wiki/M_to_M "wikilink")[崔正煥合作](https://zh.wikipedia.org/wiki/崔正煥 "wikilink")）
+    M的](https://zh.wikipedia.org/wiki/M_to_M "wikilink")[崔正煥合作](../Page/崔正煥.md "wikilink")）
   - 2008年：[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[單身爸爸戀愛中](../Page/單身爸爸戀愛中.md "wikilink")》（[李鎮成個人作品](../Page/李鎮成.md "wikilink")）
   - 2008年：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[貝多芬病毒](../Page/貝多芬病毒.md "wikilink")》（[李鎮成個人作品](../Page/李鎮成.md "wikilink")）
   - 2010年：[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")《[檢察官公主](../Page/檢察官公主.md "wikilink")》

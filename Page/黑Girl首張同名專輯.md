@@ -1,4 +1,4 @@
-《**黑Girl首張同名專輯**》為[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[黑Girl的第一張專輯](../Page/黑Girl.md "wikilink")，於2008年8月15日進行全面預購，並於2008年8月29日正式發行。這張專輯繼[彤彤退團並更改團名後](https://zh.wikipedia.org/wiki/蔡玓彤 "wikilink")，首次以8人姿態發行的首張專輯。也是成員[鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[大牙](../Page/周宜霈.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[Apple和](../Page/黃暐婷.md "wikilink")[甯兒最後一次參與錄製的專輯](../Page/張甯兒.md "wikilink")。專輯收錄十首新歌，其中包括流行舞曲「叫姊姊
+《**黑Girl首張同名專輯**》為[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")[黑Girl的第一張專輯](../Page/黑Girl.md "wikilink")，於2008年8月15日進行全面預購，並於2008年8月29日正式發行。這張專輯繼[彤彤退團並更改團名後](../Page/蔡玓彤.md "wikilink")，首次以8人姿態發行的首張專輯。也是成員[鬼鬼](https://zh.wikipedia.org/wiki/吳映潔 "wikilink")、[大牙](../Page/周宜霈.md "wikilink")、[MeiMei](../Page/郭婕祈.md "wikilink")、[Apple和](../Page/黃暐婷.md "wikilink")[甯兒最後一次參與錄製的專輯](../Page/張甯兒.md "wikilink")。專輯收錄十首新歌，其中包括流行舞曲「叫姊姊
 Call Big Sisters」、美式嘻哈舞曲「OOXX」和抒情主打歌曲「女生 Females」。
 
 ## 曲目

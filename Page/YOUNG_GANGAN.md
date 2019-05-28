@@ -67,8 +67,8 @@ GANGAN發行](../Page/月刊BIG_GANGAN.md "wikilink")。
     漫画：[橘書画子](https://zh.wikipedia.org/wiki/橘書画子 "wikilink")
     角色原案：[こぶいち](https://zh.wikipedia.org/wiki/こぶいち "wikilink")、2010年22號-）
   - [+tic模型姊姊](../Page/+tic模型姊姊.md "wikilink")（栗井茶，不定期連載）
-  - [騎士&魔法](https://zh.wikipedia.org/wiki/騎士&魔法 "wikilink")（原作： 作畫：）
-  - [異世界食堂](https://zh.wikipedia.org/wiki/異世界食堂 "wikilink")（原作：[犬塚惇平](https://zh.wikipedia.org/wiki/犬塚惇平 "wikilink")
+  - [騎士&魔法](../Page/騎士&魔法.md "wikilink")（原作： 作畫：）
+  - [異世界食堂](../Page/異世界食堂.md "wikilink")（原作：[犬塚惇平](https://zh.wikipedia.org/wiki/犬塚惇平 "wikilink")
     作畫：[九月タカアキ](https://zh.wikipedia.org/wiki/九月タカアキ "wikilink")）
 
 ## 休载中的作品

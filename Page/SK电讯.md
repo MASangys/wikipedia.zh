@@ -8,8 +8,7 @@ SK集團）成為最大股東，1997年1月成為SK集團旗下公司並更名�
 ## 参见
 
   - [SK集团](../Page/SK集团.md "wikilink")
-  - [SK Telecom
-    T1](https://zh.wikipedia.org/wiki/SK_Telecom_T1 "wikilink")
+  - [SK Telecom T1](../Page/SK_Telecom_T1.md "wikilink")
 
 ## 相關電視節目
 

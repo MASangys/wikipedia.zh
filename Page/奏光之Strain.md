@@ -1,5 +1,5 @@
 《**奏光之Strain**》（原名：****）是由[Studio
-Fantasia所製作的動畫作品](https://zh.wikipedia.org/wiki/Studio_Fantasia "wikilink")。
+Fantasia所製作的動畫作品](../Page/Studio_Fantasia.md "wikilink")。
 
 ## 劇情簡介
 
@@ -61,7 +61,7 @@ Unmanned Maneuver ORd 戰術無人機動球體）為主戰力的「帝國(Deague
   - セディ —— [白鳥哲](../Page/白鳥哲.md "wikilink")
   - メアリ— —— [田中理惠](../Page/田中理惠_\(聲優\).md "wikilink")
   - メドロック —— [田中敦子](../Page/田中敦子.md "wikilink")
-  - バロウ —— [長克巳](https://zh.wikipedia.org/wiki/長克巳 "wikilink")
+  - バロウ —— [長克巳](../Page/長克巳.md "wikilink")
 
 ## 各集標題
 

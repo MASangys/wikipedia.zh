@@ -106,7 +106,7 @@
 <td><p><a href="../Page/猫的集会.md" title="wikilink">猫的集会</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新海诚" title="wikilink">新海诚</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/CoMix_Wave_Films" title="wikilink">CoMix Wave Films</a></p></td>
+<td><p><a href="../Page/CoMix_Wave_Films.md" title="wikilink">CoMix Wave Films</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

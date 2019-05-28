@@ -89,8 +89,7 @@ EDGE**》，是一部[日本的](../Page/日本.md "wikilink")[動畫作品](htt
 
   - 片頭曲
 
-:; 「[FLY
-HIGH](https://zh.wikipedia.org/wiki/FLY_HIGH_\(SURFACE單曲\) "wikilink")」（第1話－第14話）
+:; 「[FLY HIGH](../Page/FLY_HIGH_\(SURFACE單曲\).md "wikilink")」（第1話－第14話）
 
 :: 作詞：，作曲、編曲：椎名慶治、永谷喬夫，主唱：
 

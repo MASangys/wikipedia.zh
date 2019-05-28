@@ -24,7 +24,7 @@
 
 《Lincity》原本是為[Linux而設](../Page/Linux.md "wikilink")，但也支援[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[BeOS](../Page/BeOS.md "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")、[AmigaOS
-4](https://zh.wikipedia.org/wiki/AmigaOS_4 "wikilink")、以及其他[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")。但是，玩家若使用[Mac
+4](../Page/AmigaOS_4.md "wikilink")、以及其他[类Unix](https://zh.wikipedia.org/wiki/类Unix "wikilink")。但是，玩家若使用[Mac
 OS
 X遊玩](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，則需要用[GCC编译](https://zh.wikipedia.org/wiki/GNU_Compiler_Collection "wikilink")，並使用[X11.app运行](https://zh.wikipedia.org/wiki/X11 "wikilink")。在Unix类系统中，此遊戲則使用[SVGALib或](https://zh.wikipedia.org/wiki/SVGALib "wikilink")[X11作为用戶界面和](https://zh.wikipedia.org/wiki/X11 "wikilink")[应用程序接口](https://zh.wikipedia.org/wiki/API "wikilink")。\[5\]
 

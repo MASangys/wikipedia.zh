@@ -255,8 +255,7 @@
   - ED「みえるだろうバイストン・ウェル」 歌：MIO
     作詞：井荻麟 作曲：網倉一也 編曲：矢野立美
   - 插入歌「」 歌：[小出廣美](https://zh.wikipedia.org/wiki/小出廣美 "wikilink")
-    作詞：[三浦德子](https://zh.wikipedia.org/wiki/三浦德子 "wikilink") 作曲：網倉一也
-    編曲：矢野立美
+    作詞：[三浦德子](../Page/三浦德子.md "wikilink") 作曲：網倉一也 編曲：矢野立美
   - 插入歌「」 歌：小出廣美
     作詞：三浦德子 作曲：網倉一也 編曲：矢野立美
 
@@ -278,7 +277,7 @@
 <td><p>1</p></td>
 <td><p>聖戦士たち</p></td>
 <td><p><a href="../Page/富野由悠季.md" title="wikilink">斧谷稔</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鈴木行" title="wikilink">鈴木行</a></p></td>
+<td><p><a href="../Page/鈴木行.md" title="wikilink">鈴木行</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湖川友謙" title="wikilink">湖川友謙</a></p></td>
 <td></td>
 </tr>
@@ -294,7 +293,7 @@
 <td><p>3</p></td>
 <td><p>ラース・ワウの脱出</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/渡邊由自" title="wikilink">渡邊由自</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/井內秀治" title="wikilink">井內秀治</a></p></td>
+<td><p><a href="../Page/井內秀治.md" title="wikilink">井內秀治</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/佐々門信芳" title="wikilink">佐々門信芳</a></p></td>
 <td></td>
 </tr>

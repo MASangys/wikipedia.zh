@@ -8,10 +8,9 @@
   - 原作 -
     [鳥山明](../Page/鳥山明.md "wikilink")（[集英社](../Page/集英社.md "wikilink")『週刊少年Jump』連載）
   - 導演 - 岸本松司（1-58話）、鳥本武（59-109話）、山口彰彦（110-169話）、末永雄一（170-291話）
-  - 系列構成 - [小山高生](https://zh.wikipedia.org/wiki/小山高生 "wikilink")
+  - 系列構成 - [小山高生](../Page/小山高生.md "wikilink")
   - 音樂 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
-  - 動畫師→人物設定 -
-    前田實（1-199話）→[中鶴勝祥](https://zh.wikipedia.org/wiki/中鶴勝祥 "wikilink")（200-291話）
+  - 動畫師→人物設定 - 前田實（1-199話）→[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")（200-291話）
   - 設計 - 池田祐二（1-199話）→徳重賢（200-291話）
   - 系列導演 - 西尾大介（1-199話）
   - 製片 -
@@ -143,7 +142,7 @@ MANNA
 <td><p>2</p></td>
 <td></td>
 <td><p>史上最強的戰士竟是悟空的哥哥</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/隅澤克之" title="wikilink">隅澤克之</a><br />
+<td><p><a href="../Page/隅澤克之.md" title="wikilink">隅澤克之</a><br />
 小山高生</p></td>
 <td><p>葛西治</p></td>
 <td><p>青嶋克己</p></td>
@@ -620,7 +619,7 @@ MANNA
 <td><p>}}</p></td>
 <td><p>弗利沙行星第79<br />
 復活的達爾★</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松井亞彌" title="wikilink">松井亞彌</a><br />
+<td><p><a href="../Page/松井亞彌.md" title="wikilink">松井亞彌</a><br />
 小山高生</p></td>
 <td><p>松浦錠平</p></td>
 <td><p>内內正幸</p></td>
@@ -644,7 +643,7 @@ MANNA
 宇宙的帝王弗利沙★</p></td>
 <td><p>照井啓司</p></td>
 <td><p>折目達也</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中鶴勝祥" title="wikilink">中鶴勝祥</a></p></td>
+<td><p><a href="../Page/中鶴勝祥.md" title="wikilink">中鶴勝祥</a></p></td>
 <td><p>長崎齊</p></td>
 </tr>
 <tr class="even">
@@ -656,7 +655,7 @@ MANNA
 <td><p>達爾的野心!宇宙戰士就是我<br />
 </p></td>
 <td><p>隅澤克之</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山內重保" title="wikilink">山內重保</a></p></td>
+<td><p><a href="../Page/山內重保.md" title="wikilink">山內重保</a></p></td>
 <td><p>內山正幸</p></td>
 </tr>
 <tr class="odd">
@@ -876,7 +875,7 @@ MANNA
 <td><p>力高展開猛攻<br />
 又怪又厲害的傢伙!</p></td>
 <td><p>岡崎稔</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/佐藤正樹" title="wikilink">佐藤正樹</a></p></td>
+<td><p><a href="../Page/佐藤正樹.md" title="wikilink">佐藤正樹</a></p></td>
 <td><p>吉田智子</p></td>
 </tr>
 <tr class="even">
@@ -1144,7 +1143,7 @@ MANNA
 <td><p>超級決戰開始!<br />
 我會打倒你這個惡魔</p></td>
 <td><p>松井亞彌</p></td>
-<td><p>（<a href="https://zh.wikipedia.org/wiki/小坂春女" title="wikilink">小坂春女</a>）<br />
+<td><p>（<a href="../Page/小坂春女.md" title="wikilink">小坂春女</a>）<br />
 山口彰彦</p></td>
 <td><p>島貫正弘</p></td>
 </tr>
@@ -2739,7 +2738,7 @@ MANNA
   - [-{zh-hk:超級撒亞人;zh-hans:七龙珠Z 超级赛亚人孙悟空;zh-tw:七龍珠Z
     超級賽亞人孫悟空;}-](../Page/七龍珠Z_超級賽亞人孫悟空.md "wikilink")（1991年3月9日）
   - [-{zh-hk:最強對最強;zh-hans:七龙珠Z 最强对最强;zh-tw:七龍珠Z
-    最強對最強;}-](https://zh.wikipedia.org/wiki/七龍珠Z_最強對最強 "wikilink")（1991年7月20日）
+    最強對最強;}-](../Page/七龍珠Z_最強對最強.md "wikilink")（1991年7月20日）
   - [-{zh-hk:100億能量戰士;zh-hans:七龙珠Z 一百亿能量战士们;zh-tw:七龍珠Z
     激鬥\!100億能量的戰士;}-](https://zh.wikipedia.org/wiki/七龍珠Z_激突!!100億能量的戰士 "wikilink")（1992年3月7日）
   - [-{zh-hk:超激決戰人造人;zh-hans:七龙珠Z 激战人造人;zh-tw:七龍珠Z

@@ -372,7 +372,7 @@ Gundam)（聲優：[田中正彦](https://zh.wikipedia.org/wiki/田中正彦 "wi
     騎馬王丸的手下。原名「孔雀丸」，是爆熱丸的師弟，在一次被爆熱丸打敗後，因感到受辱，被騎馬王丸利用，決意要向爆熱丸復仇。
 
 **虛武羅丸**、**虛武羅忍群**(GF13-030NIN Cobra Gundam
-聲優：[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")(虛武羅丸)、[加瀬康之](https://zh.wikipedia.org/wiki/加瀬康之 "wikilink")(虛武羅忍群)／香港：[李致林](../Page/李致林.md "wikilink")(虛武羅丸)
+聲優：[梁田清之](../Page/梁田清之.md "wikilink")(虛武羅丸)、[加瀬康之](https://zh.wikipedia.org/wiki/加瀬康之 "wikilink")(虛武羅忍群)／香港：[李致林](../Page/李致林.md "wikilink")(虛武羅丸)
 
   -
     騎馬王丸的手下，會使用忍術。其中虛武羅忍群的首領(紫色鎧甲的虛武羅丸)，號稱攻城必破，因多次失手而不被騎馬王丸重視，被元氣丸所救，轉而幫助元氣丸。
@@ -415,7 +415,7 @@ Gundam)（聲優：[田中正彦](https://zh.wikipedia.org/wiki/田中正彦 "wi
   -
 
       -
-        灰色德卡(聲優：[中嶋聰彥](https://zh.wikipedia.org/wiki/中嶋聰彥 "wikilink"))
+        灰色德卡(聲優：[中嶋聰彥](../Page/中嶋聰彥.md "wikilink"))
 
 <!-- end list -->
 

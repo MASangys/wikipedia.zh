@@ -107,7 +107,7 @@
 <!-- end list -->
 
   - 小野田朝雄（67）-
-    [中村敦夫](https://zh.wikipedia.org/wiki/中村敦夫 "wikilink")（香港配音：[陳曙光](../Page/陳曙光.md "wikilink")）
+    [中村敦夫](../Page/中村敦夫.md "wikilink")（香港配音：[陳曙光](../Page/陳曙光.md "wikilink")）
 
 <!-- end list -->
 

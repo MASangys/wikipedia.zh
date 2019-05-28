@@ -61,7 +61,7 @@
 | hii                 |           |                   | HII | Hinduri                         |                                                                                                                   |
 | hij                 |           |                   | HIJ | Hijuk                           |                                                                                                                   |
 | hik                 |           |                   | HIK | Seit-Kaitetu                    |                                                                                                                   |
-| hil                 | hil       |                   | HIL | Hiligaynon                      | [希利蓋農語](https://zh.wikipedia.org/wiki/希利蓋農語 "wikilink")、[伊隆戈語](https://zh.wikipedia.org/wiki/伊隆戈語 "wikilink")     |
+| hil                 | hil       |                   | HIL | Hiligaynon                      | [希利蓋農語](../Page/希利蓋農語.md "wikilink")、[伊隆戈語](https://zh.wikipedia.org/wiki/伊隆戈語 "wikilink")                        |
 | him <sub>(c)</sub>  | him       |                   |     | Himachali                       | [喜馬偕爾語](https://zh.wikipedia.org/wiki/喜馬偕爾語 "wikilink")                                                           |
 | hin                 | hin       | hi                | HND | Hindi                           | [印地語](https://zh.wikipedia.org/wiki/印地語 "wikilink")                                                               |
 | hio                 |           |                   | HIO | Tsoa                            |                                                                                                                   |

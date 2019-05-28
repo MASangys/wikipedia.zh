@@ -31,7 +31,7 @@
 | lba                 |           |           | LBA | Lui                                 |                                                                                                                       |
 | lbb                 |           |           | LBB | Label                               |                                                                                                                       |
 | lbc                 |           |           | LBC | Lakkia                              | [拉珈語](https://zh.wikipedia.org/wiki/拉珈語 "wikilink")                                                                   |
-| lbe                 |           |           | LBE | Lak                                 | [拉克語](https://zh.wikipedia.org/wiki/拉克語 "wikilink")                                                                   |
+| lbe                 |           |           | LBE | Lak                                 | [拉克語](../Page/拉克語.md "wikilink")                                                                                      |
 | lbf                 |           |           | LBF | Tinani                              |                                                                                                                       |
 | lbg                 |           |           | LBG | Laopang                             |                                                                                                                       |
 | lbi                 |           |           | LBI | La'bi                               |                                                                                                                       |

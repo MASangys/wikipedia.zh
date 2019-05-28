@@ -67,7 +67,7 @@
 </tr>
 <tr class="odd">
 <td><p>阿奇莫夫的部下</p></td>
-<td><p><a href="../Page/大西健晴.md" title="wikilink">大西健晴</a>・<a href="https://zh.wikipedia.org/wiki/長嶝高士" title="wikilink">長嶝高士</a>・<a href="https://zh.wikipedia.org/wiki/柳沢栄治" title="wikilink">柳沢栄治</a></p></td>
+<td><p><a href="../Page/大西健晴.md" title="wikilink">大西健晴</a>・<a href="../Page/長嶝高士.md" title="wikilink">長嶝高士</a>・<a href="https://zh.wikipedia.org/wiki/柳沢栄治" title="wikilink">柳沢栄治</a></p></td>
 </tr>
 </tbody>
 </table>

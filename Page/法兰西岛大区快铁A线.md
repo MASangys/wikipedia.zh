@@ -1,11 +1,11 @@
 **法兰西岛大区快铁A线**（），简称**RER
-A**，是[法兰西岛](https://zh.wikipedia.org/wiki/法兰西岛 "wikilink")[法兰西岛大区快铁的一条贯通](../Page/法兰西岛大区快铁.md "wikilink")[巴黎市郊东西走向的线路](../Page/巴黎.md "wikilink")，具有多个分支。该线路连接西偏北的[圣日耳曼昂莱站](https://zh.wikipedia.org/wiki/圣日耳曼昂莱站 "wikilink")（Saint-Germain-en-Laye，位於A1分支），[塞尔吉高地站](https://zh.wikipedia.org/wiki/塞尔吉高地站 "wikilink")（Cergy
+A**，是[法兰西岛](https://zh.wikipedia.org/wiki/法兰西岛 "wikilink")[法兰西岛大区快铁的一条贯通](../Page/法兰西岛大区快铁.md "wikilink")[巴黎市郊东西走向的线路](../Page/巴黎.md "wikilink")，具有多个分支。该线路连接西偏北的[圣日耳曼昂莱站](../Page/圣日耳曼昂莱站.md "wikilink")（Saint-Germain-en-Laye，位於A1分支），[塞尔吉高地站](../Page/塞尔吉高地站.md "wikilink")（Cergy
 - Le
-Haut，位於A3分支），[普瓦西站](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink")（Poissy，位於A5分支），以及东偏南的[布瓦西圣雷热站](../Page/布瓦西圣雷热站.md "wikilink")（Boissy-Saint-Léger，位於A2分支），[马恩拉瓦雷-谢西站](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")（Marne-la-Vallée
+Haut，位於A3分支），[普瓦西站](../Page/普瓦西站.md "wikilink")（Poissy，位於A5分支），以及东偏南的[布瓦西圣雷热站](../Page/布瓦西圣雷热站.md "wikilink")（Boissy-Saint-Léger，位於A2分支），[马恩拉瓦雷-谢西站](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")（Marne-la-Vallée
 -
 Chessy，位於A4分支）。通过巴黎市中心，市区每个车站均可转乘[巴黎地铁](https://zh.wikipedia.org/wiki/巴黎地铁 "wikilink")。
 
-A线在[楠泰尔省府站](https://zh.wikipedia.org/wiki/楠泰尔省府站 "wikilink")（Nanterre -
+A线在[楠泰尔省府站](../Page/楠泰尔省府站.md "wikilink")（Nanterre -
 Préfecture）以西通往A3和A5分支的路段由[法国国家铁路公司](https://zh.wikipedia.org/wiki/法国国家铁路公司 "wikilink")（SNCF）运营，其余路段由[巴黎大众运输公司](https://zh.wikipedia.org/wiki/巴黎大众运输公司 "wikilink")（RATP）运营。列车全归RATP所有。当前A线客流量居各条快铁线路之首。
 
 ## 历史
@@ -20,11 +20,11 @@ Vincennes）。后根据大区快铁的方案，东西两线通过市中心新�
 圣日耳曼线和万塞讷线分别建于19世纪30年代和50年代，其中圣日耳曼线是巴黎最早的郊区铁路，而两条郊铁由于客流量大而最终成为大区快铁东西轴向的首选。
 
 19世纪30年代，法国经济快速发展，铁路运输日渐发达，促成了在巴黎大区修建市郊铁路的计划。其中（Frères
-Pereire）提议并取得首条线路的经营权，这便是连接巴黎和西郊[圣日耳曼的圣日耳曼线](https://zh.wikipedia.org/wiki/圣日耳曼 "wikilink")，线路亦同时作为巴黎－[鲁昂铁路的第一段](../Page/鲁昂.md "wikilink")。圣日耳曼线的修建几乎没有遇到任何难题，进展十分顺利。1837年，自[圣拉扎尔车站](https://zh.wikipedia.org/wiki/巴黎圣拉扎尔车站 "wikilink")（Saint-Lazare）经[楠泰尔站](https://zh.wikipedia.org/wiki/楠泰尔站 "wikilink")（Nanterre
+Pereire）提议并取得首条线路的经营权，这便是连接巴黎和西郊[圣日耳曼的圣日耳曼线](https://zh.wikipedia.org/wiki/圣日耳曼 "wikilink")，线路亦同时作为巴黎－[鲁昂铁路的第一段](../Page/鲁昂.md "wikilink")。圣日耳曼线的修建几乎没有遇到任何难题，进展十分顺利。1837年，自[圣拉扎尔车站](https://zh.wikipedia.org/wiki/巴黎圣拉扎尔车站 "wikilink")（Saint-Lazare）经[楠泰尔站](../Page/楠泰尔站.md "wikilink")（Nanterre
 -
 Ville）到[维西涅－勒贝克站](https://zh.wikipedia.org/wiki/维西涅－勒贝克站 "wikilink")（Le
 Vésinet - Le
-Pecq）的路段即投入使用，乘客坐毕全程仅需25分钟，通车首日即有18000人乘坐，大受欢迎。1847年，线路向西延长至[圣日尔曼昂莱市中心的](https://zh.wikipedia.org/wiki/圣日尔曼昂莱 "wikilink")[圣日耳曼昂莱站](https://zh.wikipedia.org/wiki/圣日耳曼昂莱站 "wikilink")。
+Pecq）的路段即投入使用，乘客坐毕全程仅需25分钟，通车首日即有18000人乘坐，大受欢迎。1847年，线路向西延长至[圣日尔曼昂莱市中心的](https://zh.wikipedia.org/wiki/圣日尔曼昂莱 "wikilink")[圣日耳曼昂莱站](../Page/圣日耳曼昂莱站.md "wikilink")。
 
 圣日耳曼线建成后没有进行任何延伸，但圣拉扎尔路网却向其周边郊区开辟多条郊区铁路，巴黎西郊逐渐形成一个发达的铁路网，1855年西部路网联合成立了（Compagnie
 des chemins de fer de l'Ouest）。
@@ -143,8 +143,7 @@ A线全线通车的同日, 诺瓦西分支亦通车, 此时, A线西起圣日耳
 为了改善（）新区的无铁路交通状况, SNCF于1979年开通 (Ligne de Cergy, 从既有的远郊铁路线上新辟) 进行服务,
 和A线在楠泰尔大学站转乘. 不过此前当局已于1976年计划将塞尔吉线整合进A线, 1984年4月, 这一决定对公众发布.
 相关工程包括从楠泰尔行政区站西部新建路轨和高架桥函接上巴黎-勒阿弗尔铁路线, 以及兴建一个车库以应对RER列车的到来.
-1988年5月29日,
-A线西部新增分支前往[塞尔吉圣克里斯多夫](https://zh.wikipedia.org/wiki/塞尔吉圣克里斯多夫站 "wikilink")
+1988年5月29日, A线西部新增分支前往[塞尔吉圣克里斯多夫](../Page/塞尔吉圣克里斯多夫站.md "wikilink")
 (Cergy - Saint-Christophe), 成为A3分支. 一年以后,
 [普瓦西路段亦被并入A线](../Page/普瓦西.md "wikilink"),
 成为A5分支. 1994年8月29日,
@@ -195,7 +194,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p><font color="#fe360e"><small><strong>A3</strong></small></font></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/塞尔吉高地站" title="wikilink">塞尔吉高地站</a><br />
+<td><p><strong><a href="../Page/塞尔吉高地站.md" title="wikilink">塞尔吉高地站</a><br />
 <small>Cergy — Le Haut</small></strong> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/塞尔吉" title="wikilink">塞尔吉</a><br />
@@ -208,7 +207,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塞尔吉圣克里斯多夫站" title="wikilink">塞尔吉圣克里斯多夫</a><br />
+<td><p><a href="../Page/塞尔吉圣克里斯多夫站.md" title="wikilink">塞尔吉圣克里斯多夫</a><br />
 <small>Cergy — Saint-Christophe</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/塞尔吉" title="wikilink">塞尔吉</a></p></td>
@@ -232,7 +231,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/纽维尔大学站" title="wikilink">纽维尔大学站</a><br />
+<td><p><a href="../Page/纽维尔大学站.md" title="wikilink">纽维尔大学站</a><br />
 <small>Neuville — Université</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/纽维尔瓦兹河" title="wikilink">纽维尔瓦兹河</a><br />
@@ -257,7 +256,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/阿谢尔站" title="wikilink">阿谢尔站</a><br />
+<td><p><a href="../Page/阿谢尔站.md" title="wikilink">阿谢尔站</a><br />
 <small>Achères — Ville</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
 <td></td>
@@ -271,7 +270,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/普瓦西站" title="wikilink">普瓦西站</a><br />
+<td><p><strong><a href="../Page/普瓦西站.md" title="wikilink">普瓦西站</a><br />
 <small>Poissy</small></strong></p></td>
 <td><p>5</p></td>
 <td><p><a href="../Page/普瓦西.md" title="wikilink">普瓦西</a></p></td>
@@ -294,7 +293,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拉菲特居站" title="wikilink">拉菲特居站</a><br />
+<td><p><a href="../Page/拉菲特居站.md" title="wikilink">拉菲特居站</a><br />
 <small>Maisons-Laffitte</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>4</p></td>
 <td></td>
@@ -305,7 +304,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/萨图维尔站" title="wikilink">萨图维尔站</a><br />
+<td><p><a href="../Page/萨图维尔站.md" title="wikilink">萨图维尔站</a><br />
 <small>Sartrouville</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/萨图维尔" title="wikilink">萨图维尔</a></p></td>
@@ -332,7 +331,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/圣日耳曼昂莱站" title="wikilink">圣日耳曼昂莱站</a><br />
+<td><p><strong><a href="../Page/圣日耳曼昂莱站.md" title="wikilink">圣日耳曼昂莱站</a><br />
 <small>Saint-Germain-en-Laye</small></strong> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/圣日耳曼昂莱" title="wikilink">圣日耳曼昂莱</a></p></td>
@@ -344,7 +343,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/维西涅勒贝克站" title="wikilink">维西涅勒贝克站</a><br />
+<td><p><a href="../Page/维西涅勒贝克站.md" title="wikilink">维西涅勒贝克站</a><br />
 <small>Le Vésinet — Le Pecq</small></p></td>
 <td><p>4</p></td>
 <td><p><br />
@@ -357,7 +356,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/维西涅中心站" title="wikilink">维西涅中心站</a><br />
+<td><p><a href="../Page/维西涅中心站.md" title="wikilink">维西涅中心站</a><br />
 <small>Le Vésinet — Centre</small></p></td>
 <td><p>4</p></td>
 <td></td>
@@ -369,10 +368,10 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夏都－科瓦西站" title="wikilink">夏都－科瓦西站</a><br />
+<td><p><a href="../Page/夏都－科瓦西站.md" title="wikilink">夏都－科瓦西站</a><br />
 <small>Chatou — Croissy</small></p></td>
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夏都" title="wikilink">夏都</a><br />
+<td><p><a href="../Page/夏都.md" title="wikilink">夏都</a><br />
 <a href="https://zh.wikipedia.org/wiki/塞纳河畔科瓦西" title="wikilink">塞纳河畔科瓦西</a></p></td>
 <td></td>
 </tr>
@@ -382,7 +381,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吕埃马勒梅松站" title="wikilink">吕埃马勒梅松站</a><br />
+<td><p><a href="../Page/吕埃马勒梅松站.md" title="wikilink">吕埃马勒梅松站</a><br />
 <small>Rueil-Malmaison</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吕埃故居" title="wikilink">吕埃马勒梅松</a></p></td>
@@ -394,7 +393,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/楠泰尔站" title="wikilink">楠泰尔站</a><br />
+<td><p><a href="../Page/楠泰尔站.md" title="wikilink">楠泰尔站</a><br />
 <small>Nanterre — Ville</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
 <td><p><a href="../Page/楠泰尔.md" title="wikilink">楠泰尔</a></p></td>
@@ -406,7 +405,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/楠泰尔大学站" title="wikilink">楠泰尔大学站</a><br />
+<td><p><a href="../Page/楠泰尔大学站.md" title="wikilink">楠泰尔大学站</a><br />
 <small>Nanterre — Université</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
 <td><p><a href="../Page/楠泰尔.md" title="wikilink">楠泰尔</a></p></td>
@@ -418,7 +417,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/楠泰尔省府站" title="wikilink">楠泰尔省府站</a><br />
+<td><p><a href="../Page/楠泰尔省府站.md" title="wikilink">楠泰尔省府站</a><br />
 <small>Nanterre — Préfecture</small></p></td>
 <td><p>3</p></td>
 <td><p><a href="../Page/楠泰尔.md" title="wikilink">楠泰尔</a></p></td>
@@ -685,7 +684,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <small>Noisy — Champs</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>4</p></td>
 <td><p><a href="../Page/大诺瓦西.md" title="wikilink">大诺瓦西</a><br />
-<a href="https://zh.wikipedia.org/wiki/马恩河畔尚" title="wikilink">马恩河畔尚</a></p></td>
+<a href="../Page/马恩河畔尚.md" title="wikilink">马恩河畔尚</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -709,7 +708,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <td><p><a href="../Page/洛涅站.md" title="wikilink">洛涅</a><br />
 <small>Lognes</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛涅" title="wikilink">洛涅</a></p></td>
+<td><p><a href="../Page/洛涅.md" title="wikilink">洛涅</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -746,7 +745,7 @@ RATP和SNCF大幅修改了A线在非高峰期的运作方式, 以改善服务质
 <small>Val d'Europe</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/塞里" title="wikilink">塞里</a><br />
-<a href="https://zh.wikipedia.org/wiki/蒙泰夫兰" title="wikilink">蒙泰夫兰</a></p></td>
+<a href="../Page/蒙泰夫兰.md" title="wikilink">蒙泰夫兰</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -876,7 +875,7 @@ MI09是最新的列车，虽然也是双层列车，但比MI2N要更加先进，
 MI 2N最高时速达140公里，MI09可达120公里. 但基于路网的多样性, 不同路段行驶速度有不同限制.
 
   - RATP西部路段: A1分支 (圣日耳曼昂莱站) 路段时速为90公里,
-    但在[拉德芳斯站和](../Page/拉德芳斯站.md "wikilink")[楠泰尔大学站之间时速限制为](https://zh.wikipedia.org/wiki/楠泰尔大学站 "wikilink")50公里,
+    但在[拉德芳斯站和](../Page/拉德芳斯站.md "wikilink")[楠泰尔大学站之间时速限制为](../Page/楠泰尔大学站.md "wikilink")50公里,
     原因是线路转弯弧度过大.
 
 <!-- end list -->
@@ -938,20 +937,18 @@ RER A线亦采用班次编码系统来区分线路上的不同班次.
 **R**=[瓦伦谢讷维耶站](https://zh.wikipedia.org/wiki/瓦伦谢讷维耶站 "wikilink"),
 比如**ROBI**, **RUDI**.
 
-**T**=[普瓦西站](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink"), 比如**TATI**,
-**TEDY**, **TERI**.
+**T**=[普瓦西站](../Page/普瓦西站.md "wikilink"), 比如**TATI**, **TEDY**,
+**TERI**.
 
-**U**=[塞尔吉高地站](https://zh.wikipedia.org/wiki/塞尔吉高地站 "wikilink"),
-比如**UBAN**, **UPAC**, **UPIR**.
+**U**=[塞尔吉高地站](../Page/塞尔吉高地站.md "wikilink"), 比如**UBAN**, **UPAC**,
+**UPIR**.
 
-**X**=[维西涅勒贝克站](https://zh.wikipedia.org/wiki/维西涅勒贝克站 "wikilink"),
-比如**XUTI**, **XOUD**.
+**X**=[维西涅勒贝克站](../Page/维西涅勒贝克站.md "wikilink"), 比如**XUTI**, **XOUD**.
 
-**Y**=[吕埃马勒梅松站](https://zh.wikipedia.org/wiki/吕埃马勒梅松站 "wikilink"),
-比如**YCAR**, **YVAN**.
+**Y**=[吕埃马勒梅松站](../Page/吕埃马勒梅松站.md "wikilink"), 比如**YCAR**, **YVAN**.
 
-**Z**=[圣日耳曼昂莱站](https://zh.wikipedia.org/wiki/圣日耳曼昂莱站 "wikilink"),
-比如**ZARA**, **ZEBU**, **ZEMA**.
+**Z**=[圣日耳曼昂莱站](../Page/圣日耳曼昂莱站.md "wikilink"), 比如**ZARA**, **ZEBU**,
+**ZEMA**.
 
 **2. 第二位字母代表本班列车停靠的一些要站, 这在月台上的停靠站电子显示牌上会有显示.**
 
@@ -965,7 +962,7 @@ RER A线亦采用班次编码系统来区分线路上的不同班次.
 开往A1,A3和A5方向的列车采用奇数, 开往A2和A4方向的采用偶数.**
 
 **5. 若该班列车不载客, 则第一,三位字母均为W, 第二位字母表示终点, 第四位字母表示起点.**
-比如**WZWY**表示从[吕埃马勒梅松站不载客返回](https://zh.wikipedia.org/wiki/吕埃马勒梅松站 "wikilink")[圣日耳曼昂莱站的回场车](https://zh.wikipedia.org/wiki/圣日耳曼昂莱站 "wikilink").
+比如**WZWY**表示从[吕埃马勒梅松站不载客返回](../Page/吕埃马勒梅松站.md "wikilink")[圣日耳曼昂莱站的回场车](../Page/圣日耳曼昂莱站.md "wikilink").
 
 **6. 特殊班次的慢车 (每一站都停靠), 首字母仍表示终点, 第二位字母表示起点, 最后两位均为Z.
 但多在高峰期或工作日白天线路受干扰时使用,
@@ -982,17 +979,17 @@ RER A线亦采用班次编码系统来区分线路上的不同班次.
 主要有下列车次在行走:
 
 1\.
-从[布瓦西圣雷热站开往](../Page/布瓦西圣雷热站.md "wikilink")[维西涅勒贝克站的区间车](https://zh.wikipedia.org/wiki/维西涅勒贝克站 "wikilink")**XUTI**,
-除[楠泰尔站之外每站都停靠](https://zh.wikipedia.org/wiki/楠泰尔站 "wikilink"), 10分钟一班,
-但第一班车和第二班车之间间隔8分钟, 6时53分发出第一班车, 8时31分发出最后一班车.
+从[布瓦西圣雷热站开往](../Page/布瓦西圣雷热站.md "wikilink")[维西涅勒贝克站的区间车](../Page/维西涅勒贝克站.md "wikilink")**XUTI**,
+除[楠泰尔站之外每站都停靠](../Page/楠泰尔站.md "wikilink"), 10分钟一班, 但第一班车和第二班车之间间隔8分钟,
+6时53分发出第一班车, 8时31分发出最后一班车.
 
 2\.
-从[瓦伦谢讷维耶站开往](https://zh.wikipedia.org/wiki/瓦伦谢讷维耶站 "wikilink")[圣日耳曼昂莱站的的区间车](https://zh.wikipedia.org/wiki/圣日耳曼昂莱站 "wikilink")**ZARA**,
-除[夏都－科瓦西站和](https://zh.wikipedia.org/wiki/夏都－科瓦西站 "wikilink")[维西涅中心站之外每站都停靠](https://zh.wikipedia.org/wiki/维西涅中心站 "wikilink"),
+从[瓦伦谢讷维耶站开往](https://zh.wikipedia.org/wiki/瓦伦谢讷维耶站 "wikilink")[圣日耳曼昂莱站的的区间车](../Page/圣日耳曼昂莱站.md "wikilink")**ZARA**,
+除[夏都－科瓦西站和](../Page/夏都－科瓦西站.md "wikilink")[维西涅中心站之外每站都停靠](../Page/维西涅中心站.md "wikilink"),
 10分钟一班, 但第一班车和第二班车之间间隔9分钟, 6时52分发出第一班车, 8时51分发出最后一班车.
 
 3\.
-从[托尔西站开往](../Page/托尔西站.md "wikilink")[吕埃马勒梅松站的区间车](https://zh.wikipedia.org/wiki/吕埃马勒梅松站 "wikilink")**YCAR**,
+从[托尔西站开往](../Page/托尔西站.md "wikilink")[吕埃马勒梅松站的区间车](../Page/吕埃马勒梅松站.md "wikilink")**YCAR**,
 除[诺瓦榭勒站](https://zh.wikipedia.org/wiki/诺瓦榭勒站 "wikilink"),
 [讷伊普莱桑斯站和](../Page/讷伊普莱桑斯站.md "wikilink")[楠泰尔警局站之外每站都停靠](https://zh.wikipedia.org/wiki/楠泰尔警局站 "wikilink"),
 10分钟一班, 7时32分发出第一班车, 8时22分发出最后一班车.
@@ -1001,18 +998,18 @@ RER A线亦采用班次编码系统来区分线路上的不同班次.
 从[马恩拉瓦雷-谢西站开往](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")[塞尔吉的全程车](https://zh.wikipedia.org/wiki/塞尔吉 "wikilink")**UVAR**,
 除[罗涅站](https://zh.wikipedia.org/wiki/罗涅站 "wikilink"),
 [马恩河畔布里站](../Page/马恩河畔布里站.md "wikilink"),
-[乌邑－塞纳河石矿站和](https://zh.wikipedia.org/wiki/乌邑－塞纳河石矿站 "wikilink")[拉菲特居站之外每站都停靠](https://zh.wikipedia.org/wiki/拉菲特居站 "wikilink"),
+[乌邑－塞纳河石矿站和](https://zh.wikipedia.org/wiki/乌邑－塞纳河石矿站 "wikilink")[拉菲特居站之外每站都停靠](../Page/拉菲特居站.md "wikilink"),
 10分钟一班, 7时14分发出第一班车, 7时54分发出最后一班车. 之前亦有两班**UMID**与之相近, 时间间隔同为10分钟,
 不过增停[洛涅站](../Page/洛涅站.md "wikilink").
 
 5\.
-从[马恩拉瓦雷-谢西站开往](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")[普瓦西站的全程车](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink")**TNOR**,
+从[马恩拉瓦雷-谢西站开往](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")[普瓦西站的全程车](../Page/普瓦西站.md "wikilink")**TNOR**,
 除[欧罗巴河谷站](https://zh.wikipedia.org/wiki/欧罗巴河谷站 "wikilink"),
 [比西圣乔治站](../Page/比西圣乔治站.md "wikilink"),
-[诺瓦西-尚站和](https://zh.wikipedia.org/wiki/诺瓦西-尚站 "wikilink")[萨图维尔站之外每站都停靠](https://zh.wikipedia.org/wiki/萨图维尔站 "wikilink"),
+[诺瓦西-尚站和](https://zh.wikipedia.org/wiki/诺瓦西-尚站 "wikilink")[萨图维尔站之外每站都停靠](../Page/萨图维尔站.md "wikilink"),
 10分钟一班, 7时20分发出第一班车, 7时50分发出最后一班车. 之后有两班**UKRA**与之对应,
-从[马恩拉瓦雷-谢西站开往](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")[塞尔吉高地站](https://zh.wikipedia.org/wiki/塞尔吉高地站 "wikilink"),
-时间间隔同为10分钟, 不过增停[萨图维尔站](https://zh.wikipedia.org/wiki/萨图维尔站 "wikilink").
+从[马恩拉瓦雷-谢西站开往](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")[塞尔吉高地站](../Page/塞尔吉高地站.md "wikilink"),
+时间间隔同为10分钟, 不过增停[萨图维尔站](../Page/萨图维尔站.md "wikilink").
 
 高峰时段和非高峰时段之间要经历一连串复杂的调度.
 
@@ -1021,19 +1018,18 @@ RER A线亦采用班次编码系统来区分线路上的不同班次.
 [Alteo_Teri09_noisychamps.JPG](https://zh.wikipedia.org/wiki/File:Alteo_Teri09_noisychamps.JPG "fig:Alteo_Teri09_noisychamps.JPG")
 
 1\.
-从[圣日耳曼昂莱站开往](https://zh.wikipedia.org/wiki/圣日耳曼昂莱站 "wikilink")[布瓦西圣雷热站的全程车](../Page/布瓦西圣雷热站.md "wikilink")**NYON**,
-除[维西涅中心站和](https://zh.wikipedia.org/wiki/维西涅中心站 "wikilink")[夏都－科瓦西站之外每站都停靠](https://zh.wikipedia.org/wiki/夏都－科瓦西站 "wikilink"),
+从[圣日耳曼昂莱站开往](../Page/圣日耳曼昂莱站.md "wikilink")[布瓦西圣雷热站的全程车](../Page/布瓦西圣雷热站.md "wikilink")**NYON**,
+除[维西涅中心站和](../Page/维西涅中心站.md "wikilink")[夏都－科瓦西站之外每站都停靠](../Page/夏都－科瓦西站.md "wikilink"),
 10分钟一班, 6时59分发出第一班车, 8时39分发出最后一班车.
 
 2\.
-从[维西涅勒贝克站开往](https://zh.wikipedia.org/wiki/维西涅勒贝克站 "wikilink")[瓦伦谢讷维耶站的区间车](https://zh.wikipedia.org/wiki/瓦伦谢讷维耶站 "wikilink")**RHIN**,
+从[维西涅勒贝克站开往](../Page/维西涅勒贝克站.md "wikilink")[瓦伦谢讷维耶站的区间车](https://zh.wikipedia.org/wiki/瓦伦谢讷维耶站 "wikilink")**RHIN**,
 除[楠泰尔行政区](https://zh.wikipedia.org/wiki/楠泰尔行政区 "wikilink"),
 [万塞讷和](../Page/万塞讷.md "wikilink")[丰特奈丛林之外每站都停靠](https://zh.wikipedia.org/wiki/丰特奈丛林 "wikilink"),
 10分钟一班, 6时56分发出第一班车, 8时46分发出最后一班车.
 
-3\.
-从[塞尔吉高地站开往托尔西站的区间车](https://zh.wikipedia.org/wiki/塞尔吉高地站 "wikilink")**OFRE**,
-除[拉菲特居站](https://zh.wikipedia.org/wiki/拉菲特居站 "wikilink"),
+3\. 从[塞尔吉高地站开往托尔西站的区间车](../Page/塞尔吉高地站.md "wikilink")**OFRE**,
+除[拉菲特居站](../Page/拉菲特居站.md "wikilink"),
 [烏邑-塞納河畔採石場站](https://zh.wikipedia.org/wiki/烏邑-塞納河畔採石場站 "wikilink")、[诺瓦西耶和](https://zh.wikipedia.org/wiki/诺瓦西耶 "wikilink")[罗涅站之外每站都停靠](https://zh.wikipedia.org/wiki/罗涅站 "wikilink"),
 10分钟一班, 7时05分发出第一班车, 8时25分发出最后一班车. 之前亦有三班**QSAR**与之对应, 时间间隔同为10分钟,
 不过增停[诺瓦榭勒站](https://zh.wikipedia.org/wiki/诺瓦榭勒站 "wikilink"),
@@ -1051,16 +1047,16 @@ RER A线亦采用班次编码系统来区分线路上的不同班次.
 [Atelier_de_maintenace_de_Sucy2.jpg](https://zh.wikipedia.org/wiki/File:Atelier_de_maintenace_de_Sucy2.jpg "fig:Atelier_de_maintenace_de_Sucy2.jpg")
 
 1\.
-从[布瓦西圣雷热站开往](../Page/布瓦西圣雷热站.md "wikilink")[圣日耳曼昂莱站的全程车](https://zh.wikipedia.org/wiki/圣日耳曼昂莱站 "wikilink")**ZEBU**(上午)及**ZEUS**(下午),
+从[布瓦西圣雷热站开往](../Page/布瓦西圣雷热站.md "wikilink")[圣日耳曼昂莱站的全程车](../Page/圣日耳曼昂莱站.md "wikilink")**ZEBU**(上午)及**ZEUS**(下午),
 每站都停靠, 10分钟一班.
 
 2\.
-从[马恩拉瓦雷-谢西站开往](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")[塞尔吉高地站的全程车](https://zh.wikipedia.org/wiki/塞尔吉高地站 "wikilink")**UDRE**(上午)及**UDON**(下午),
+从[马恩拉瓦雷-谢西站开往](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")[塞尔吉高地站的全程车](../Page/塞尔吉高地站.md "wikilink")**UDRE**(上午)及**UDON**(下午),
 除[马恩河畔布里站和](../Page/马恩河畔布里站.md "wikilink")[讷伊普莱桑斯站之外每站都停靠](../Page/讷伊普莱桑斯站.md "wikilink"),
 10分钟一班.
 
 3\.
-从[大诺瓦西-东山站开往](https://zh.wikipedia.org/wiki/大诺瓦西-东山站 "wikilink")[普瓦西站的区间车](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink")**TJAO**(上午)及**TJAC**(下午),
+从[大诺瓦西-东山站开往](https://zh.wikipedia.org/wiki/大诺瓦西-东山站 "wikilink")[普瓦西站的区间车](../Page/普瓦西站.md "wikilink")**TJAO**(上午)及**TJAC**(下午),
 每站都停靠, 20分钟一班.
 
 4\.
@@ -1073,16 +1069,16 @@ RER A线亦采用班次编码系统来区分线路上的不同班次.
 #### 日间非高峰东行线
 
 1\.
-从[圣日耳曼昂莱站开往](https://zh.wikipedia.org/wiki/圣日耳曼昂莱站 "wikilink")[布瓦西圣雷热站的全程车](../Page/布瓦西圣雷热站.md "wikilink")**NEGE**(上午)及**NELY**(下午),
+从[圣日耳曼昂莱站开往](../Page/圣日耳曼昂莱站.md "wikilink")[布瓦西圣雷热站的全程车](../Page/布瓦西圣雷热站.md "wikilink")**NEGE**(上午)及**NELY**(下午),
 每站都停靠, 10分钟一班.
 
 2\.
-从[塞尔吉高地站开往](https://zh.wikipedia.org/wiki/塞尔吉高地站 "wikilink")[马恩拉瓦雷-谢西站的全程车](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")**QIWI**(上午)及**QIKI**(下午),
+从[塞尔吉高地站开往](../Page/塞尔吉高地站.md "wikilink")[马恩拉瓦雷-谢西站的全程车](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")**QIWI**(上午)及**QIKI**(下午),
 除[讷伊普莱桑斯站和](../Page/讷伊普莱桑斯站.md "wikilink")[马恩河畔布里站之外每站都停靠](../Page/马恩河畔布里站.md "wikilink"),
 10分钟一班.
 
 3\.
-从[普瓦西站开往](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink")[大诺瓦西-东山站的区间车](https://zh.wikipedia.org/wiki/大诺瓦西-东山站 "wikilink")**DJIB**(上午)及**DJIN**(下午),
+从[普瓦西站开往](../Page/普瓦西站.md "wikilink")[大诺瓦西-东山站的区间车](https://zh.wikipedia.org/wiki/大诺瓦西-东山站 "wikilink")**DJIB**(上午)及**DJIN**(下午),
 每站都停靠, 20分钟一班.
 
 4\.
@@ -1094,26 +1090,26 @@ RER A线亦采用班次编码系统来区分线路上的不同班次.
 [MS61_grand_pare-brise.jpg](https://zh.wikipedia.org/wiki/File:MS61_grand_pare-brise.jpg "fig:MS61_grand_pare-brise.jpg")
 
 1\.
-从[圣日耳曼昂莱站开往](https://zh.wikipedia.org/wiki/圣日耳曼昂莱站 "wikilink")[布瓦西圣雷热的全程车](../Page/布瓦西圣雷热.md "wikilink")**NAGA**,
+从[圣日耳曼昂莱站开往](../Page/圣日耳曼昂莱站.md "wikilink")[布瓦西圣雷热的全程车](../Page/布瓦西圣雷热.md "wikilink")**NAGA**,
 除[楠泰尔和](../Page/楠泰尔.md "wikilink")[楠泰尔警局站之外每站都停靠](https://zh.wikipedia.org/wiki/楠泰尔警局站 "wikilink"),
 10分钟一班, 16时10分发出第一班车, 18时50分发出最后一班车.
 
 2\.
-从[维西涅勒贝克站开往](https://zh.wikipedia.org/wiki/维西涅勒贝克站 "wikilink")[瓦伦谢讷维耶的区间车](https://zh.wikipedia.org/wiki/瓦伦谢讷维耶 "wikilink")**RUDI**,
-除[维西涅中心站和](https://zh.wikipedia.org/wiki/维西涅中心站 "wikilink")[夏都－科瓦西站之外每站都停靠](https://zh.wikipedia.org/wiki/夏都－科瓦西站 "wikilink"),
+从[维西涅勒贝克站开往](../Page/维西涅勒贝克站.md "wikilink")[瓦伦谢讷维耶的区间车](https://zh.wikipedia.org/wiki/瓦伦谢讷维耶 "wikilink")**RUDI**,
+除[维西涅中心站和](../Page/维西涅中心站.md "wikilink")[夏都－科瓦西站之外每站都停靠](../Page/夏都－科瓦西站.md "wikilink"),
 10分钟一班, 16时18分发出第一班车, 18时57分发出最后一班车. 中间16时48分发车后间隔9分钟 (即16时57分) 发下一班车.
 
 3\.
-从[塞尔吉高地站开往](https://zh.wikipedia.org/wiki/塞尔吉高地站 "wikilink")[大诺瓦西-东山站的区间车](https://zh.wikipedia.org/wiki/大诺瓦西-东山站 "wikilink")**DROP**,
-除[拉菲特居站和](https://zh.wikipedia.org/wiki/拉菲特居站 "wikilink")[乌邑-塞纳河畔采石场站之外每站都停靠](https://zh.wikipedia.org/wiki/乌邑-塞纳河畔采石场站 "wikilink"),
+从[塞尔吉高地站开往](../Page/塞尔吉高地站.md "wikilink")[大诺瓦西-东山站的区间车](https://zh.wikipedia.org/wiki/大诺瓦西-东山站 "wikilink")**DROP**,
+除[拉菲特居站和](../Page/拉菲特居站.md "wikilink")[乌邑-塞纳河畔采石场站之外每站都停靠](../Page/乌邑-塞纳河畔采石场站.md "wikilink"),
 10分钟一班 (之前亦有三班慢车**DOMI**, 全程停靠, 10分钟一班). 16时15分发出第一班车, 17时45分发出最后一班车.
 之后班次改名为**ODET**,
 并且增停[大诺瓦西-东山站至托尔西之间的所有车站](https://zh.wikipedia.org/wiki/大诺瓦西-东山站 "wikilink"),
 频率仍然是10分钟一班, 直至18时55分最后一班车.
 
 4\.
-从[普瓦西站开往](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink")[马恩拉瓦雷-谢西站的全程车](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")**QAHA**,
-除[萨图维尔站](https://zh.wikipedia.org/wiki/萨图维尔站 "wikilink"),
+从[普瓦西站开往](../Page/普瓦西站.md "wikilink")[马恩拉瓦雷-谢西站的全程车](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")**QAHA**,
+除[萨图维尔站](../Page/萨图维尔站.md "wikilink"),
 [马恩河畔布里站](../Page/马恩河畔布里站.md "wikilink"),
 [诺瓦榭勒站和](https://zh.wikipedia.org/wiki/诺瓦榭勒站 "wikilink")[罗涅站之外每站都停靠](https://zh.wikipedia.org/wiki/罗涅站 "wikilink"),
 10分钟一班 (之前亦有三班**QBIK**,
@@ -1133,39 +1129,39 @@ RER A线亦采用班次编码系统来区分线路上的不同班次.
 主要有下列车次在行走:
 
 1\.
-从[布瓦西圣雷热站开往](../Page/布瓦西圣雷热站.md "wikilink")[维西涅勒贝克站的区间车](https://zh.wikipedia.org/wiki/维西涅勒贝克站 "wikilink")**XOUD**,
+从[布瓦西圣雷热站开往](../Page/布瓦西圣雷热站.md "wikilink")[维西涅勒贝克站的区间车](../Page/维西涅勒贝克站.md "wikilink")**XOUD**,
 每站都停靠, 10分钟一班, 16时02分发出第一班车, 18时42分发出最后一班车.
 
 2\.
-从[瓦伦谢讷维耶站开往](https://zh.wikipedia.org/wiki/瓦伦谢讷维耶站 "wikilink")[圣日耳曼昂莱站的区间车](https://zh.wikipedia.org/wiki/圣日耳曼昂莱站 "wikilink")**ZINC**,
+从[瓦伦谢讷维耶站开往](https://zh.wikipedia.org/wiki/瓦伦谢讷维耶站 "wikilink")[圣日耳曼昂莱站的区间车](../Page/圣日耳曼昂莱站.md "wikilink")**ZINC**,
 除[丰特奈丛林站](https://zh.wikipedia.org/wiki/丰特奈丛林站 "wikilink"),
 [万塞讷站](../Page/万塞讷站.md "wikilink"),
-[夏都－科瓦西站和](https://zh.wikipedia.org/wiki/夏都－科瓦西站 "wikilink")[维西涅中心站之外每站都停靠](https://zh.wikipedia.org/wiki/维西涅中心站 "wikilink"),
+[夏都－科瓦西站和](../Page/夏都－科瓦西站.md "wikilink")[维西涅中心站之外每站都停靠](../Page/维西涅中心站.md "wikilink"),
 10分钟一班, 16时15分发出第一班车, 18时55分发出最后一班车.
 
 3\.
-从[马恩拉瓦雷-谢西站开往](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")[普瓦西站的全程车](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink")**TIKY**,
+从[马恩拉瓦雷-谢西站开往](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")[普瓦西站的全程车](../Page/普瓦西站.md "wikilink")**TIKY**,
 除[马恩河畔布里站和](../Page/马恩河畔布里站.md "wikilink")[讷伊普莱桑斯站之外每站都停靠](../Page/讷伊普莱桑斯站.md "wikilink"),
 10分钟一班, 但第一班车和第二班车之间间隔12分钟, 15时39分发出第一班车, 18时41分发出最后一班车.
 
 4\.
-从[大诺瓦西-东山站开往](https://zh.wikipedia.org/wiki/大诺瓦西-东山站 "wikilink")[塞尔吉高地站的区间车](https://zh.wikipedia.org/wiki/塞尔吉高地站 "wikilink")**UXOL**,
-除[乌邑－塞纳河石矿站和](https://zh.wikipedia.org/wiki/乌邑－塞纳河石矿站 "wikilink")[拉菲特居站之外每站都停靠](https://zh.wikipedia.org/wiki/拉菲特居站 "wikilink"),
+从[大诺瓦西-东山站开往](https://zh.wikipedia.org/wiki/大诺瓦西-东山站 "wikilink")[塞尔吉高地站的区间车](../Page/塞尔吉高地站.md "wikilink")**UXOL**,
+除[乌邑－塞纳河石矿站和](https://zh.wikipedia.org/wiki/乌邑－塞纳河石矿站 "wikilink")[拉菲特居站之外每站都停靠](../Page/拉菲特居站.md "wikilink"),
 10分钟一班, 16时14分发出第一班车, 19时05分发出最后一班车, 但最后一班车间隔11分钟.
 
 #### 夜间运作
 
 1\.
-往返于[圣日耳曼昂莱站和](https://zh.wikipedia.org/wiki/圣日耳曼昂莱站 "wikilink")[布瓦西圣雷热站之间的全程车](../Page/布瓦西圣雷热站.md "wikilink")**ZEMA**和**NEMO**,
+往返于[圣日耳曼昂莱站和](../Page/圣日耳曼昂莱站.md "wikilink")[布瓦西圣雷热站之间的全程车](../Page/布瓦西圣雷热站.md "wikilink")**ZEMA**和**NEMO**,
 每站都停靠, 发车频率从开始的10-12分钟一班很快过渡到15-16分钟一班.
 
 2\.
-往返于[普瓦西站和](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink")[马恩拉瓦雷-谢西站之间的全程车](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")**TETE**和**QURE**,
+往返于[普瓦西站和](../Page/普瓦西站.md "wikilink")[马恩拉瓦雷-谢西站之间的全程车](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")**TETE**和**QURE**,
 每站都停靠, 30-32分钟一班.
 
 3\.
-从[马恩拉瓦雷-谢西站开往](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")[塞尔吉高地站的全程车](https://zh.wikipedia.org/wiki/塞尔吉高地站 "wikilink")**UPIR**,
-以及从[塞尔吉高地站开往](https://zh.wikipedia.org/wiki/塞尔吉高地站 "wikilink")[托尔西站的区间车](../Page/托尔西站.md "wikilink")**OPUS**,
+从[马恩拉瓦雷-谢西站开往](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")[塞尔吉高地站的全程车](../Page/塞尔吉高地站.md "wikilink")**UPIR**,
+以及从[塞尔吉高地站开往](../Page/塞尔吉高地站.md "wikilink")[托尔西站的区间车](../Page/托尔西站.md "wikilink")**OPUS**,
 每站都停靠, 30-31分钟一班.
 
 ### 节假日列车时刻表
@@ -1173,46 +1169,43 @@ RER A线亦采用班次编码系统来区分线路上的不同班次.
 [Gare_nanterre_prefecture_quai_cergy_poissy.jpg](https://zh.wikipedia.org/wiki/File:Gare_nanterre_prefecture_quai_cergy_poissy.jpg "fig:Gare_nanterre_prefecture_quai_cergy_poissy.jpg")
 
 1\.
-往返于[圣日耳曼昂莱站和](https://zh.wikipedia.org/wiki/圣日耳曼昂莱站 "wikilink")[布瓦西圣雷热站的全程车](../Page/布瓦西圣雷热站.md "wikilink")**ZEBU**(上午西行),
+往返于[圣日耳曼昂莱站和](../Page/圣日耳曼昂莱站.md "wikilink")[布瓦西圣雷热站的全程车](../Page/布瓦西圣雷热站.md "wikilink")**ZEBU**(上午西行),
 **ZEUS**(下午西行), **ZEMA**(夜晚西行), **NEGE**(上午东行), **NELY**(下午东行),
 **NEMO**(夜晚东行), 每站都停靠. 日间10分钟一班, 晚间15分钟一班.
 
 2\.
-往返于[塞尔吉高地站和](https://zh.wikipedia.org/wiki/塞尔吉高地站 "wikilink")[马恩拉瓦雷-谢西站](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")
+往返于[塞尔吉高地站和](../Page/塞尔吉高地站.md "wikilink")[马恩拉瓦雷-谢西站](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")
 (或托尔西站) 的全程车**UPAC**(上午西行, 但8时30分之前从托尔西站发车, 名为**UBOS**), **UPAL**(下午西行),
 **UPIR**(夜晚西行), **QYEN**(上午东行), **QYAN**(下午东行), **OPUS**(夜晚东行), 每站都停靠.
 日间20分钟一班, 晚间30分钟一班.
 
 3\.
-往返于[普瓦西站和](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink")[马恩拉瓦雷-谢西站](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")
+往返于[普瓦西站和](../Page/普瓦西站.md "wikilink")[马恩拉瓦雷-谢西站](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink")
 (或托尔西站) 的全程车**TEDY**(上午西行), **TERI**(下午西行), **TETE**(夜晚西行),
 **QURI**(上午东行), **QUDO**(下午东行), **QURE**(夜晚东行), 每站都停靠. 日间20分钟一班,
 晚间30分钟一班.
 
-每天5时整,
-首班列车从[吕埃马勒梅松站开出](https://zh.wikipedia.org/wiki/吕埃马勒梅松站 "wikilink"),
-次日凌晨1时41分,
-末班列车抵达[塞尔吉高地站](https://zh.wikipedia.org/wiki/塞尔吉高地站 "wikilink").
+每天5时整, 首班列车从[吕埃马勒梅松站开出](../Page/吕埃马勒梅松站.md "wikilink"), 次日凌晨1时41分,
+末班列车抵达[塞尔吉高地站](../Page/塞尔吉高地站.md "wikilink").
 
 ### 互通中断
 
 [Mi84_stlazare.jpg](https://zh.wikipedia.org/wiki/File:Mi84_stlazare.jpg "fig:Mi84_stlazare.jpg")
 
 1\.
-往返[圣日耳曼昂莱站和](https://zh.wikipedia.org/wiki/圣日耳曼昂莱站 "wikilink")[布瓦西圣雷热站的列车照旧运行](../Page/布瓦西圣雷热站.md "wikilink").
+往返[圣日耳曼昂莱站和](../Page/圣日耳曼昂莱站.md "wikilink")[布瓦西圣雷热站的列车照旧运行](../Page/布瓦西圣雷热站.md "wikilink").
 
 2\.
 往返[马恩拉瓦雷-谢西站的列车](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink"),
 其西部终点于非高峰时段改到[拉德芳斯](../Page/拉德芳斯.md "wikilink"),
-于高峰时段改到[吕埃马勒梅松站](https://zh.wikipedia.org/wiki/吕埃马勒梅松站 "wikilink").
+于高峰时段改到[吕埃马勒梅松站](../Page/吕埃马勒梅松站.md "wikilink").
 
-3\. 往返[塞尔吉高地站的列车](https://zh.wikipedia.org/wiki/塞尔吉高地站 "wikilink"),
+3\. 往返[塞尔吉高地站的列车](../Page/塞尔吉高地站.md "wikilink"),
 其东部终点改到[圣拉扎尔车站发车](https://zh.wikipedia.org/wiki/巴黎圣拉扎尔车站 "wikilink").
 
-4\. 往返[普瓦西站的列车](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink"),
+4\. 往返[普瓦西站的列车](../Page/普瓦西站.md "wikilink"),
 将被[圣拉扎尔路网的远郊车](../Page/巴黎圣拉扎尔线.md "wikilink")
-(往返[拉菲特居站或更远的](https://zh.wikipedia.org/wiki/拉菲特居站 "wikilink"))
-取代, 或以穿梭列车 (往返楠泰尔警局站) 取代.
+(往返[拉菲特居站或更远的](../Page/拉菲特居站.md "wikilink")) 取代, 或以穿梭列车 (往返楠泰尔警局站) 取代.
 
 ### 其它特殊情况
 
@@ -1276,12 +1269,12 @@ A线车站中, 有几个车站的客流量居高不下, 比如里昂车站, 年�
 
 <!-- end list -->
 
-  - 每10分钟一班往返于[塞尔吉高地站和](https://zh.wikipedia.org/wiki/塞尔吉高地站 "wikilink")[马恩拉瓦雷-谢西站的全程车](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink"),
+  - 每10分钟一班往返于[塞尔吉高地站和](../Page/塞尔吉高地站.md "wikilink")[马恩拉瓦雷-谢西站的全程车](https://zh.wikipedia.org/wiki/马恩拉瓦雷-谢西站 "wikilink"),
     不停靠[马恩河畔布里站与](../Page/马恩河畔布里站.md "wikilink")[讷伊普莱桑斯站](../Page/讷伊普莱桑斯站.md "wikilink").
 
 <!-- end list -->
 
-  - 每20分钟一班往返于[普瓦西站和](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink")[大诺瓦西-东山站的区间车](https://zh.wikipedia.org/wiki/大诺瓦西-东山站 "wikilink"),
+  - 每20分钟一班往返于[普瓦西站和](../Page/普瓦西站.md "wikilink")[大诺瓦西-东山站的区间车](https://zh.wikipedia.org/wiki/大诺瓦西-东山站 "wikilink"),
     全程停靠.
 
 <!-- end list -->
@@ -1305,7 +1298,7 @@ A线车站中, 有几个车站的客流量居高不下, 比如里昂车站, 年�
   - 在西北SNCF路段 (即塞尔吉站和普瓦西站),
     A线的运行优先级高于[圣拉扎尔路网的远郊车](../Page/巴黎圣拉扎尔线.md "wikilink"),
     因此从A线的SNCF路段转往[圣拉扎尔车站](https://zh.wikipedia.org/wiki/巴黎圣拉扎尔车站 "wikilink"),
-    须在[楠泰尔警局站多转一次车前往](https://zh.wikipedia.org/wiki/楠泰尔警局站 "wikilink")[楠泰尔大学站](https://zh.wikipedia.org/wiki/楠泰尔大学站 "wikilink").
+    须在[楠泰尔警局站多转一次车前往](https://zh.wikipedia.org/wiki/楠泰尔警局站 "wikilink")[楠泰尔大学站](../Page/楠泰尔大学站.md "wikilink").
 
 RATP还宣称, 在未来几年内, A线在市中心的班次频率将达到每小时24-27班.
 
@@ -1353,8 +1346,8 @@ A线的中心路网配备了SACEM讯号系统, 可以有效缩短列车时间间
   - 在中心路段各车站安装[月台闸门](https://zh.wikipedia.org/wiki/月台闸门 "wikilink");
   - 在中心路段实现列车自动领航 (pilotage automatique);
   - 使列车运作和旅客服务整齐划一;
-  - 逐步停止在[楠泰尔省府站更换司机](https://zh.wikipedia.org/wiki/楠泰尔省府站 "wikilink")
-    (用于进出西北SNCF路段), 改由单一司机驾驶全程;
+  - 逐步停止在[楠泰尔省府站更换司机](../Page/楠泰尔省府站.md "wikilink") (用于进出西北SNCF路段),
+    改由单一司机驾驶全程;
   - 在重要车站加装旅客疏导设备;
   - 在兴建一个列车调头渡线, 用于运作受到干扰时;
   - 在[拉德芳斯站加装额外的通讯设备](../Page/拉德芳斯站.md "wikilink");
@@ -1376,14 +1369,13 @@ A线的中心路网配备了SACEM讯号系统, 可以有效缩短列车时间间
 
 #### RFF的研究内容
 
-  - 修改[塞尔吉终点站路轨布局的可能性](https://zh.wikipedia.org/wiki/塞尔吉高地站 "wikilink"),
-    增加列车存放点;
-  - 在[楠泰尔大学站的SNCF月台](https://zh.wikipedia.org/wiki/楠泰尔大学站 "wikilink")
-    (属于[远郊铁路西北线](../Page/巴黎圣拉扎尔线.md "wikilink")) 兴建调头渡线,
-    在楠泰尔行政区站和[萨图维尔站之间也兴建一个](https://zh.wikipedia.org/wiki/萨图维尔站 "wikilink")
+  - 修改[塞尔吉终点站路轨布局的可能性](../Page/塞尔吉高地站.md "wikilink"), 增加列车存放点;
+  - 在[楠泰尔大学站的SNCF月台](../Page/楠泰尔大学站.md "wikilink")
+    (属于[远郊铁路西北线](../Page/巴黎圣拉扎尔线.md "wikilink"))
+    兴建调头渡线, 在楠泰尔行政区站和[萨图维尔站之间也兴建一个](../Page/萨图维尔站.md "wikilink")
     (位于高峰车反方向);
   - 改善西北塞尔吉分支的服务质素, 让部分列车绕经楠泰尔大学站 (而后才进入楠泰尔行政区站),
-    将部分往返[普瓦西站的列车改往塞尔吉方向](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink"),
+    将部分往返[普瓦西站的列车改往塞尔吉方向](../Page/普瓦西站.md "wikilink"),
     可能的话, 兴建专有轨道.
 
 ## 周边主要旅游景点

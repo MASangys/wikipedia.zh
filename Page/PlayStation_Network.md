@@ -1,5 +1,5 @@
 **PlayStation
-Network**（簡稱**PSN**）是[索尼互動娛樂提供的数字媒体娱乐服务](../Page/索尼互動娛樂.md "wikilink")。PSN推出于2006年11月，最初为[PlayStation系列游戏机专用](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，之后扩展到手机、平板电脑、蓝光播放器和电视。截至2018年11月，拥有超过9千万活跃用户\[1\]。
+Network**（簡稱**PSN**）是[索尼互動娛樂提供的数字媒体娱乐服务](../Page/索尼互動娛樂.md "wikilink")。PSN推出于2006年11月，最初为[PlayStation系列游戏机专用](../Page/PlayStation.md "wikilink")，之后扩展到手机、平板电脑、蓝光播放器和电视。截至2018年11月，拥有超过9千万活跃用户\[1\]。
 
 ## 歷史
 
@@ -17,7 +17,7 @@ Network），将PSN包含在内。2015年改以PlayStation
 Network为整个网络媒体服务平台统称，并以「PlayStation」为其中服务的统一前缀。
 
 2012年7月，索尼電腦娛樂收购云游戏服务商，之后又收购了其竞争对手的专利\[3\]。2014年，索尼推出云游戏服务[PlayStation
-Now](https://zh.wikipedia.org/wiki/PlayStation_Now "wikilink")。
+Now](../Page/PlayStation_Now.md "wikilink")。
 
 2018年12月19日，索尼互動娛樂韩国宣布将于2019年4月1日把原由其代营的PSN在韩国的服务转交至位于日本的Sony
 Interactive Entertainment
@@ -125,7 +125,7 @@ Plus订阅\[17\]。
 
   - [Xbox Live](../Page/Xbox_Live.md "wikilink")
   - [任天堂Network](../Page/任天堂Network.md "wikilink")
-  - [任天堂Switch線上服務](https://zh.wikipedia.org/wiki/任天堂Switch線上服務 "wikilink")
+  - [任天堂Switch線上服務](../Page/任天堂Switch線上服務.md "wikilink")
 
 {{-}}
 

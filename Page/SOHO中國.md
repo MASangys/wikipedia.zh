@@ -3,7 +3,7 @@
 公司主要擁有北京市及上海市核心地帶的商用地皮，共計開發面積超過155萬平米，項目有「SOHO現代城」、「[建外SOHO](https://zh.wikipedia.org/wiki/建外SOHO "wikilink")」、「SOHO尚都」、「朝外SOHO」和「[光華路SOHO](https://zh.wikipedia.org/wiki/光華路 "wikilink")」；同時，它在北京[長城腳下和](https://zh.wikipedia.org/wiki/長城 "wikilink")[海南省](../Page/海南省.md "wikilink")[博鼇分別開發建設了全球知名前衛建築專案](https://zh.wikipedia.org/wiki/博鼇 "wikilink")「[長城腳下的公社](https://zh.wikipedia.org/wiki/長城腳下的公社 "wikilink")」和「博鼇凱賓斯基」等，並開發了「[三里屯SOHO](https://zh.wikipedia.org/wiki/三里屯 "wikilink")」及朝陽門SOHO。SOHO中國在過去一直視中國北京市作為它的唯一參與開發的地區，但直至2009年成功收購了在上海[南京西路的SOHO東海廣場後](https://zh.wikipedia.org/wiki/南京西路 "wikilink")，公司已經漸由北京進入中國最大的商業城市[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")。SOHO中國的主要核心理念是"只在最高端的城市開發高檔物業"，並且奉行獨特的整套開發但散售模式，SOHO中國同時也是中國內地其中一間具一流銷售能力的房地產開發商。
 
 2007年10月8日，SOHO中國在[香港交易所上市](../Page/香港交易所.md "wikilink")，集資超過128億港元，當時打破了碧桂園在香港的IPO集資紀錄，成為歷來成功集資額最多的內房企業。\[1\]
-並於其後被納入[摩根士丹利資本國際指數](../Page/摩根士丹利.md "wikilink")[MSCI中國指數成份股中](https://zh.wikipedia.org/wiki/MSCI "wikilink")。
+並於其後被納入[摩根士丹利資本國際指數](../Page/摩根士丹利.md "wikilink")[MSCI中國指數成份股中](../Page/MSCI.md "wikilink")。
 
 ## 公司發展
 
@@ -158,7 +158,7 @@ SOHO北京公館位於北京市中心燕莎商圈，屬於高檔公寓項目
 [Beijing_Qianmen_2008.jpg](https://zh.wikipedia.org/wiki/File:Beijing_Qianmen_2008.jpg "fig:Beijing_Qianmen_2008.jpg")
 項目位於天安門廣場南邊的前門大街和東側地區，SOHO中國擁商場面積約為54,691平米。其中一期位於前門大街，面積約22,763平米，於2008年全部建成。二期位於大街東側地塊，面積約31,928平米，大部分正在建設中。前門大街是SOHO中國唯一計劃持有整個前門項目作為投資的物業。
 
-  - [望京SOHO](https://zh.wikipedia.org/wiki/望京SOHO "wikilink")
+  - [望京SOHO](../Page/望京SOHO.md "wikilink")
 
 該項目將被建成總建築面積近50萬平米的大規模寫字樓及商場物業。望京地區是北京目前規模最大、最成熟的高端居住區域，但缺乏具規模的寫字樓和商業設施。望京SOHO建成後，將使望京地區的城市規劃更加平衡、完整。該項目地塊緊鄰兩條地鐵線，一條輕軌線和機場高速路，交通十分便利，最高建築高度可達200米，建成後將成為從機場高速路進入北京市區的第一個地標建築和視角點。望京地區目前是眾多跨國公司的中國總部所在地，該項目就緊鄰戴姆斯勒、西門子、微軟、卡特彼勒等公司的中國總部。
 望京SOHO由紮哈·哈迪德設計師設計，目前該項目的前期規劃設計工作已經基本完成，預計在明年年初開工建設。

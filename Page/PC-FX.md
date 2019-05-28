@@ -26,7 +26,7 @@ Engine的軟體和配件，屬於兩個系統。
 
 PC
 Engine的最大資產是大量[動漫](../Page/動漫.md "wikilink")、[美少女遊戲](../Page/美少女遊戲.md "wikilink")。過去，[CD
-ROM年代的遊戲大多會在每關之間加插所謂的](https://zh.wikipedia.org/wiki/CD_ROM "wikilink")「視覺畫面」──以插圖方式配上[配音員演出](../Page/配音員.md "wikilink")，做成儼如卡通動畫的視覺效果；NEC方面亦視之為PC-FX的發展方向。因此PC-FX擁有同期機種〔[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")（簡稱PS）和[SEGA
+ROM年代的遊戲大多會在每關之間加插所謂的](https://zh.wikipedia.org/wiki/CD_ROM "wikilink")「視覺畫面」──以插圖方式配上[配音員演出](../Page/配音員.md "wikilink")，做成儼如卡通動畫的視覺效果；NEC方面亦視之為PC-FX的發展方向。因此PC-FX擁有同期機種〔[PlayStation](../Page/PlayStation.md "wikilink")（簡稱PS）和[SEGA
 SATURN](https://zh.wikipedia.org/wiki/SEGA_SATURN "wikilink")（簡稱SS）〕中最佳的播放能力，其[Motion
 JPEG編碼器能夠播放每秒](../Page/Motion_JPEG.md "wikilink")30格、全色彩的電影片段；PC-FX藉著此優秀播片功能，造就了大量以卡通動畫構成的遊戲。另外，PC-FX同時搭載了兩個HuC6270，也就是同樣由HUDSON開發的PCE顯示晶片；原則上，PC-FX的演算能力是PCE的兩倍。
 

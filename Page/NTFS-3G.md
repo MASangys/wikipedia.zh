@@ -25,7 +25,7 @@ in
   - 對NTFS[日誌的基本支援](../Page/日志文件系统.md "wikilink")，除了基本的檔案寫入操作記錄以外，還可完成對NTFS卷[檔案系統層面上的修復操作](https://zh.wikipedia.org/wiki/檔案系統 "wikilink")
   - 對NTFS加密檔案的重命名、複製、移動、刪除操作等不涉及檔案加密/解密過程的存取操作。
 
-對於[NTFS加密](https://zh.wikipedia.org/wiki/加密文件系统 "wikilink")，目前爲止加密檔案的建立、對已有檔案進行加密等涉及檔案加密/解密的存取操作仍未實現支援。\[4\]
+對於[NTFS加密](../Page/加密文件系统.md "wikilink")，目前爲止加密檔案的建立、對已有檔案進行加密等涉及檔案加密/解密的存取操作仍未實現支援。\[4\]
 
 自ntfs-3g-2009.2.1起，NTFS-3G已經可以預設對含不完整日誌的NTFS卷進行恢復及掛接，需要時可通過「norecover」參數禁用這個設定。\[5\]
 
@@ -39,14 +39,14 @@ X/macOS](https://zh.wikipedia.org/wiki/macOS "wikilink")（除10.13外\[6\]）�
 for macOS等FUSE框架。而NTFS-3G的商用版本Tuxera NTFS for
 Mac則是附帶了MacFUSE作爲FUSE框架）。\[11\]
 
-Android對NTFS的支援，理論上以基於Linux核心載入NTFS-3G驅動的方式實現，但[AOSP並沒有整合任何的NTFS驅動程式](https://zh.wikipedia.org/wiki/AOSP "wikilink")，而且也不是所有的Android裝置廠商原廠就會用此種支援方式，甚至缺乏對NTFS的支援（如[小米系列手機](../Page/小米手机.md "wikilink")，原廠預載的[MIUI缺少一些檔案系統的驅動程式](../Page/MIUI.md "wikilink")，包括NTFS\[12\]），不過在一些[客製韌體上](https://zh.wikipedia.org/wiki/客制Android韌體列表 "wikilink")，絕大多數通過移植NTFS-3G驅動程式至Linux核心來實現對NTFS的支援。\[13\]此外，一些裝置可以通過[獲取root權限並安裝具備NTFS驅動程式供作業系統核心載入的](../Page/Root_\(Android\).md "wikilink")[App](https://zh.wikipedia.org/wiki/App "wikilink")，實現對NTFS分割的掛載（如[SD卡](../Page/SD卡.md "wikilink")、通過[USB
+Android對NTFS的支援，理論上以基於Linux核心載入NTFS-3G驅動的方式實現，但[AOSP並沒有整合任何的NTFS驅動程式](https://zh.wikipedia.org/wiki/AOSP "wikilink")，而且也不是所有的Android裝置廠商原廠就會用此種支援方式，甚至缺乏對NTFS的支援（如[小米系列手機](../Page/小米手机.md "wikilink")，原廠預載的[MIUI缺少一些檔案系統的驅動程式](../Page/MIUI.md "wikilink")，包括NTFS\[12\]），不過在一些[客製韌體上](../Page/客制Android韌體列表.md "wikilink")，絕大多數通過移植NTFS-3G驅動程式至Linux核心來實現對NTFS的支援。\[13\]此外，一些裝置可以通過[獲取root權限並安裝具備NTFS驅動程式供作業系統核心載入的](../Page/Root_\(Android\).md "wikilink")[App](https://zh.wikipedia.org/wiki/App "wikilink")，實現對NTFS分割的掛載（如[SD卡](../Page/SD卡.md "wikilink")、通過[USB
 OTG掛載的](https://zh.wikipedia.org/wiki/USB_OTG "wikilink")[移动硬盘](../Page/移动硬盘.md "wikilink")）。
 
 ## 效能
 
 2007年与2008年的两个評測顯示，NTFS-3G的驅動程式效能已能與其它一些使用FUSE的檔案系統相比，但較依賴[CPU的效能](https://zh.wikipedia.org/wiki/CPU "wikilink")，表示NTFS-3G尚未完成對效能的[最佳化](https://zh.wikipedia.org/wiki/最佳化 "wikilink")。\[14\]\[15\]
 
-Tuxera官方的使用手冊及NTFS-3G[手册页上也提到](../Page/手册页.md "wikilink")，NTFS-3G當前的開發焦點仍集中在可靠性和實作欠缺的[POSIX功能性](https://zh.wikipedia.org/wiki/POSIX "wikilink")，存取效能並不是優先考量的，至少需要效能較好的CPU方能取得較好的存取效能。\[16\]在一些較老的系統或需要低功耗的[嵌入式裝置上](https://zh.wikipedia.org/wiki/嵌入式裝置 "wikilink")，高CPU使用量會極大地限制NTFS-3G的存取效能（尤其是寫入效能），\[17\][OpenWRT](https://zh.wikipedia.org/wiki/OpenWRT "wikilink")/[LEDE的官方說明文檔中也告知對效能較爲注意的使用者儘量避免使用NTFS檔案系統](https://zh.wikipedia.org/wiki/LEDE "wikilink")。\[18\]
+Tuxera官方的使用手冊及NTFS-3G[手册页上也提到](../Page/手册页.md "wikilink")，NTFS-3G當前的開發焦點仍集中在可靠性和實作欠缺的[POSIX功能性](https://zh.wikipedia.org/wiki/POSIX "wikilink")，存取效能並不是優先考量的，至少需要效能較好的CPU方能取得較好的存取效能。\[16\]在一些較老的系統或需要低功耗的[嵌入式裝置上](https://zh.wikipedia.org/wiki/嵌入式裝置 "wikilink")，高CPU使用量會極大地限制NTFS-3G的存取效能（尤其是寫入效能），\[17\][OpenWRT](https://zh.wikipedia.org/wiki/OpenWRT "wikilink")/[LEDE的官方說明文檔中也告知對效能較爲注意的使用者儘量避免使用NTFS檔案系統](../Page/LEDE.md "wikilink")。\[18\]
 
 ## 延伸專案
 

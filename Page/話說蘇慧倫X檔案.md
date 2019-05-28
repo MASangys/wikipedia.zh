@@ -32,7 +32,7 @@ Tree](../Page/Lemon_Tree_\(專輯\).md "wikilink")》的音樂監製[包小柏�
 <tr class="even">
 <td><p>02</p></td>
 <td><p>雨幕</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/戚小戀" title="wikilink">戚小戀</a></p></td>
+<td><p><a href="../Page/戚小戀.md" title="wikilink">戚小戀</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/陳少琪" title="wikilink">陳少琪</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黃偉年" title="wikilink">黃偉年</a></p></td>
 <td><p>如果愛是這樣</p></td>

@@ -14,7 +14,7 @@ Linux上的中文相關](../Page/Red_Hat_Linux.md "wikilink")[程式](https://zh
   - 中文的列印
   - 中文的處理
 
-欲達到這些目的，有許多種做法。CLE採用的，是如今最通行，一種被稱為[I18N/L10N的手法](https://zh.wikipedia.org/wiki/國際化與本地化 "wikilink")。也就是將[程式跟](https://zh.wikipedia.org/wiki/程式 "wikilink")[語言相關的部份獨立出來](https://zh.wikipedia.org/wiki/語言 "wikilink")。將語文環境有相關的資料，放在「[區域環境資料庫](https://zh.wikipedia.org/wiki/區域設置 "wikilink")」。在設計程式時不考慮對特定語文的支援細節，而是在[執行時期才依使用者所選擇的區域環境](../Page/執行期.md "wikilink")（[locale](https://zh.wikipedia.org/wiki/區域設置 "wikilink")）聯繫到不同的資料庫，提供該語文的支援，如此方法稱之為**國際化**。而在此架構下加入中文區域化的支援，稱為中文的**本地化**。
+欲達到這些目的，有許多種做法。CLE採用的，是如今最通行，一種被稱為[I18N/L10N的手法](https://zh.wikipedia.org/wiki/國際化與本地化 "wikilink")。也就是將[程式跟](https://zh.wikipedia.org/wiki/程式 "wikilink")[語言相關的部份獨立出來](../Page/語言.md "wikilink")。將語文環境有相關的資料，放在「[區域環境資料庫](https://zh.wikipedia.org/wiki/區域設置 "wikilink")」。在設計程式時不考慮對特定語文的支援細節，而是在[執行時期才依使用者所選擇的區域環境](../Page/執行期.md "wikilink")（[locale](https://zh.wikipedia.org/wiki/區域設置 "wikilink")）聯繫到不同的資料庫，提供該語文的支援，如此方法稱之為**國際化**。而在此架構下加入中文區域化的支援，稱為中文的**本地化**。
 
 ## 發展史
 

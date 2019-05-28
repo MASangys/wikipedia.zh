@@ -94,7 +94,7 @@ Sense 5，並獲得BlinkFeed首頁。
 ### Sense 6 (2014)
 
 2014 年 3月發佈，搭載於[HTC One
-(M8)](https://zh.wikipedia.org/wiki/HTC_One_\(M8\) "wikilink")。BlinkFeed及Boomsound功能增強，新增簡易模式，重新加入主題，新增改變字型功能，新增
+(M8)](../Page/HTC_One_\(M8\).md "wikilink")。BlinkFeed及Boomsound功能增強，新增簡易模式，重新加入主題，新增改變字型功能，新增
 Motion Launch 手勢啟動功能，極致省電模式，使用雙鏡頭拍照達到refoucus以及3D效果相片等創新功能。
 
 ### Sense 7 (2015)
@@ -112,8 +112,8 @@ Freestyle自我風格桌面，取消桌面應用程式固定擺放位置的框�
 
 ### Sense 9 (2017)
 
-搭載於[HTC U11和](https://zh.wikipedia.org/wiki/HTC_U11 "wikilink")[HTC
-U11+](https://zh.wikipedia.org/wiki/HTC_U11+ "wikilink")。
+搭載於[HTC U11和](../Page/HTC_U11.md "wikilink")[HTC
+U11+](../Page/HTC_U11+.md "wikilink")。
 
 ## 參見
 

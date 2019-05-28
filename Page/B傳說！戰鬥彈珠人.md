@@ -122,7 +122,7 @@
   - 比亞斯（ビアス／マーダビアス）-
     配音員：[松野太紀](../Page/松野太紀.md "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")
   - 阿巴巴（アババ）-
-    配音員：[杉山佳壽子](https://zh.wikipedia.org/wiki/杉山佳壽子 "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")
+    配音員：[杉山佳壽子](../Page/杉山佳壽子.md "wikilink")；臺→[許淑嬪](../Page/許淑嬪.md "wikilink")
   - 摩德比-
     配音員：[麦人](https://zh.wikipedia.org/wiki/麦人 "wikilink")；臺→[賀宇傑](../Page/賀宇傑.md "wikilink")
 
@@ -187,7 +187,7 @@
 <!-- end list -->
 
   - Mr.彈珠-
-    配音員：[杉山佳壽子](https://zh.wikipedia.org/wiki/杉山佳壽子 "wikilink")；臺→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
+    配音員：[杉山佳壽子](../Page/杉山佳壽子.md "wikilink")；臺→[林美秀](../Page/林美秀_\(配音員\).md "wikilink")
 
 ### B傳說！戰鬥彈珠人 炎魂
 
@@ -304,7 +304,7 @@
   - 動畫製片人：田中敦、金東亨
   - 動畫製作協助：シナジージャパン、HeeWon Entertainment、SONOKONG
   - 動畫製作：日本アニメディア
-  - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[讀賣廣告社](https://zh.wikipedia.org/wiki/讀賣廣告社 "wikilink")、d-rights
+  - 製作：[東京電視台](../Page/東京電視台.md "wikilink")、[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")、d-rights
 
 ### B傳說！戰鬥彈珠人 炎魂
 
@@ -422,7 +422,7 @@ Jelly)，編曲：吹上隆、岩井朝彦，主唱：[NAOZUMI-MASUKO](https://z
 <td><p>{{lang|ja|その名はシャドウ</p></td>
 <td><p>}}</p></td>
 <td><p>他的名字叫夏多</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/植竹須美男" title="wikilink">植竹須美男</a><br />
+<td><p><a href="../Page/植竹須美男.md" title="wikilink">植竹須美男</a><br />
 呉廷恩</p></td>
 <td><p>安珍摸</p></td>
 <td><p>徐正徳</p></td>
@@ -479,7 +479,7 @@ Jelly)，編曲：吹上隆、岩井朝彦，主唱：[NAOZUMI-MASUKO](https://z
 <td></td>
 <td><p>歸來的布魯</p></td>
 <td><p>長谷川勝己</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高柳哲司" title="wikilink">高柳哲司</a></p></td>
+<td><p><a href="../Page/高柳哲司.md" title="wikilink">高柳哲司</a></p></td>
 <td><p>小高義規<br />
 平尾みほ</p></td>
 <td><p>長森佳容</p></td>
@@ -555,7 +555,7 @@ Jelly)，編曲：吹上隆、岩井朝彦，主唱：[NAOZUMI-MASUKO](https://z
 <td><p>17</p></td>
 <td></td>
 <td><p>孤獨戰場盾牌舞台</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鈴木雅詞" title="wikilink">鈴木雅詞</a><br />
+<td><p><a href="../Page/鈴木雅詞.md" title="wikilink">鈴木雅詞</a><br />
 呉廷恩</p></td>
 <td><p>閔庚照</p></td>
 <td><p>金鎮九</p></td>
@@ -865,7 +865,7 @@ Jelly)，編曲：吹上隆、岩井朝彦，主唱：[NAOZUMI-MASUKO](https://z
 <td></td>
 <td><p>因為同伴的戰鬥</p></td>
 <td><p>山田靖智</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高柳哲司" title="wikilink">高柳哲司</a></p></td>
+<td><p><a href="../Page/高柳哲司.md" title="wikilink">高柳哲司</a></p></td>
 <td><p>佐佐木勝利</p></td>
 <td><p>金相燁</p></td>
 </tr>

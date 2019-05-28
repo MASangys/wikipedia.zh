@@ -5,7 +5,7 @@ Star**》是[台灣女子組合](https://zh.wikipedia.org/wiki/台灣 "wikilink"
 Star**》專輯，為2003年8月S.H.E以《[美麗新世界](../Page/美麗新世界_\(專輯\).md "wikilink")》專輯獲得《[第14屆金曲獎](https://zh.wikipedia.org/wiki/第14屆金曲獎 "wikilink")》[最佳重唱組合獎之後](../Page/最佳演唱組合獎_\(金曲獎\).md "wikilink")，於同月發行之首份音樂作品，當時令大眾及傳媒具有極大的期待，並且此張專輯中的歌曲相較於之前專輯中的歌曲更具有深度。
 
 首波專輯同名主打歌〈Super
-Star〉是由[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[Sweetbox與製作人Geo](https://zh.wikipedia.org/wiki/Sweetbox "wikilink")（前[王牌合唱團製作人](https://zh.wikipedia.org/wiki/王牌合唱團 "wikilink")）特地為S.H.E量聲打造製作的歌曲，[Sweetbox與其製作人Geo在聽過之前S](https://zh.wikipedia.org/wiki/Sweetbox "wikilink").H.E曾翻唱過的多首歌曲，例如：S.H.E演唱的〈Remember〉等歌曲，以及耳聞S.H.E在[亞洲走紅的程度之後](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，使Sweetbox主動表示合作之意，因而使這首單曲成為台灣與[德國首度的跨國合作](https://zh.wikipedia.org/wiki/德國 "wikilink")，並創下了[華語流行音樂與德國樂壇合作的先例](../Page/華語流行音樂.md "wikilink")，也開擴了華語流行音樂的視野與版圖。此外，首波主打歌〈Super
+Star〉是由[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[Sweetbox與製作人Geo](../Page/Sweetbox.md "wikilink")（前[王牌合唱團製作人](https://zh.wikipedia.org/wiki/王牌合唱團 "wikilink")）特地為S.H.E量聲打造製作的歌曲，[Sweetbox與其製作人Geo在聽過之前S](../Page/Sweetbox.md "wikilink").H.E曾翻唱過的多首歌曲，例如：S.H.E演唱的〈Remember〉等歌曲，以及耳聞S.H.E在[亞洲走紅的程度之後](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，使Sweetbox主動表示合作之意，因而使這首單曲成為台灣與[德國首度的跨國合作](https://zh.wikipedia.org/wiki/德國 "wikilink")，並創下了[華語流行音樂與德國樂壇合作的先例](../Page/華語流行音樂.md "wikilink")，也開擴了華語流行音樂的視野與版圖。此外，首波主打歌〈Super
 Star〉一曲是首搖滾曲風的歌曲，亦是S.H.E自出道以來首次嘗試搖滾風格之作品，並將此搖滾曲風的歌曲搭配上[二胡等中國古典樂器](../Page/二胡.md "wikilink")（歌曲的開頭即是二胡）。S.H.E多次在訪問中肯定〈Super
 Star〉為她們進軍並站穩[華人和亞洲市場之重要里程碑](https://zh.wikipedia.org/wiki/華人 "wikilink")，這首歌幾乎是2003年華語樂壇代表作之一，亦是S.H.E最具有代表性的一首歌。其後因為〈Super
 Star〉在國際間取得成功，令SweetBox於2004年再重新翻唱此首歌，英文版名為「Chyna Girl」\[1\]，後收錄於《》專輯。

@@ -57,7 +57,7 @@ Object Model，POM）来配置。
   - [Gradle](../Page/Gradle.md "wikilink"), a build tool based on
     convention over configuration
 
-  - [Hudson](https://zh.wikipedia.org/wiki/Hudson_\(软件\) "wikilink")
+  - [Hudson](../Page/Hudson_\(软件\).md "wikilink")
 
   -
 ## 补充阅读

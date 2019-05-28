@@ -27,7 +27,7 @@ Calibur」之間所引起的正邪爭奪戰。本作的[CG動畫質素及數量�
       - 武器：[棍](https://zh.wikipedia.org/wiki/棍 "wikilink")（滅法棍）
       - 配音：[保志總一朗](../Page/保志總一朗.md "wikilink")
       - 登場作品：劍魂
-      - 特徵：齊力克是中國明朝臨勝寺的少年修行僧，曾因手持寺中三寶之一的「滅法棍」而失控，殺掉了寺院中的許多僧人弟子，當中更包括柴香華的姐姐香蓮。事後為自己心靈的脆弱而感到痛悔，於是決定四處修行，淨化自己的靈魂。在旅程中常與柴香華、真喜志一起行動。武器是手上的「滅法棍」，另外胸前亦掛著刻有香蓮樣子的「末法鏡」。就遊戲中的設定而言，齊力克有著優秀的攻擊範圍，不過近距離戰的技巧卻稍嫌不足。從角色[日文名稱キリク和](https://zh.wikipedia.org/wiki/日文 "wikilink")[DreamCast版](https://zh.wikipedia.org/wiki/DreamCast "wikilink")[CG鑑賞的角色全身圖名為](https://zh.wikipedia.org/wiki/CG "wikilink")「哩似」來看，典故應該是出自[阿彌陀佛和](https://zh.wikipedia.org/wiki/阿彌陀佛 "wikilink")[觀世音菩薩的梵文](https://zh.wikipedia.org/wiki/觀世音菩薩 "wikilink")字ह्रीः。日文發音キリーク，漢字「紇哩似」。
+      - 特徵：齊力克是中國明朝臨勝寺的少年修行僧，曾因手持寺中三寶之一的「滅法棍」而失控，殺掉了寺院中的許多僧人弟子，當中更包括柴香華的姐姐香蓮。事後為自己心靈的脆弱而感到痛悔，於是決定四處修行，淨化自己的靈魂。在旅程中常與柴香華、真喜志一起行動。武器是手上的「滅法棍」，另外胸前亦掛著刻有香蓮樣子的「末法鏡」。就遊戲中的設定而言，齊力克有著優秀的攻擊範圍，不過近距離戰的技巧卻稍嫌不足。從角色[日文名稱キリク和](https://zh.wikipedia.org/wiki/日文 "wikilink")[DreamCast版](https://zh.wikipedia.org/wiki/DreamCast "wikilink")[CG鑑賞的角色全身圖名為](https://zh.wikipedia.org/wiki/CG "wikilink")「哩似」來看，典故應該是出自[阿彌陀佛和](https://zh.wikipedia.org/wiki/阿彌陀佛 "wikilink")[觀世音菩薩的梵文](../Page/觀世音菩薩.md "wikilink")字ह्रीः。日文發音キリーク，漢字「紇哩似」。
 
 <!-- end list -->
 
@@ -52,7 +52,7 @@ Calibur」之間所引起的正邪爭奪戰。本作的[CG動畫質素及數量�
   - **艾薇**
       - 異稱：「**聯繫的孤高之刃**」、「**受祝福的血統**」
       - 武器：[蛇腹劍](../Page/蛇腹劍.md "wikilink")（情人、華倫泰、艾薇之劍）
-      - 配音：[冬馬由美](https://zh.wikipedia.org/wiki/冬馬由美 "wikilink")、[東條加那子](https://zh.wikipedia.org/wiki/東條加那子 "wikilink")
+      - 配音：[冬馬由美](https://zh.wikipedia.org/wiki/冬馬由美 "wikilink")、[東條加那子](../Page/東條加那子.md "wikilink")
       - 登場作品：劍魂
       - 特徵：英國貴族名門華倫泰家族的養女，其養父華倫泰伯爵一生為了研究「Soul
         Edge」與「不死不老之鑰匙」的關係而耗盡家財，令家族沒落。艾薇為承繼養父的遺志而成為了[煉金術師](https://zh.wikipedia.org/wiki/煉金術 "wikilink")，為了要與邪劍對抗而自製了一柄變化自如的[蛇腹劍](../Page/蛇腹劍.md "wikilink")。其旅程的目的是破壞「Soul
@@ -232,7 +232,7 @@ Calibur」之間所引起的正邪爭奪戰。本作的[CG動畫質素及數量�
   - **洛克**
       - 異稱：「**爆走的鬥志**」、「**激震的大地**」、「**猛獸之牙**」
       - 武器：戰鎚
-      - 配音：[稻葉實](https://zh.wikipedia.org/wiki/稻葉實 "wikilink")
+      - 配音：[稻葉實](../Page/稻葉實.md "wikilink")
       - 登場作品：刀魂
       - 特徵：堂堂正正的力量型戰士。本來是一名[意大利人](../Page/意大利.md "wikilink")，可是童年一次乘船時因受海賊襲擊而流落到不明島嶼之上，並在當地成長。希望透過「Soul
         Edge」的力量尋找失落的記憶。
@@ -251,7 +251,7 @@ Calibur」之間所引起的正邪爭奪戰。本作的[CG動畫質素及數量�
   - **賽魯凡堤**
       - 異稱：「**被稱譽的男人的遺骸**」、「**傲岸的海之魔王**」、「**冥海之略奪王**」
       - 武器：長劍及短銃劍
-      - 配音：[長嶝高士](https://zh.wikipedia.org/wiki/長嶝高士 "wikilink")
+      - 配音：[長嶝高士](../Page/長嶝高士.md "wikilink")
       - 登場作品：刀魂
       - 特徵：首腦級的人物，原本是個惡名昭彰的大海賊，得到邪劍（雙劍型態）後遭到控制而化為魔人四處屠殺，之後雙劍被蘇菲提婭粉碎其一，接著被多喜擊敗死亡，從此屍體被邪劍碎片控制。
 

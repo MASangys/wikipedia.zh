@@ -313,7 +313,7 @@
 </tr>
 <tr class="even">
 <td><p>單場最快達成<a href="https://zh.wikipedia.org/wiki/大三元" title="wikilink">大三元</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/尼古拉·約基奇" title="wikilink">尼古拉·約基奇</a></p></td>
+<td><p><a href="../Page/尼古拉·約基奇.md" title="wikilink">尼古拉·約基奇</a></p></td>
 <td><p>14分鐘33秒</p></td>
 <td><p>2018年2月16日</p></td>
 </tr>
@@ -360,7 +360,7 @@
 <tbody>
 <tr class="odd">
 <td><p>最多灌籃紀錄</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鲁迪·戈贝尔" title="wikilink">鲁迪·戈贝尔</a></p></td>
+<td><p><a href="../Page/鲁迪·戈贝尔.md" title="wikilink">鲁迪·戈贝尔</a></p></td>
 <td><p>274球</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19 NBA賽季</a></p></td>
 </tr>
@@ -512,7 +512,7 @@
 <td><p>一季內最多單場60分大三元</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詹姆斯·哈登" title="wikilink">詹姆斯·哈登</a></p></td>
 <td><p>1場</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017-18_NBA賽季" title="wikilink">2017-18 NBA賽季</a></p></td>
+<td><p><a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18 NBA賽季</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>一季內最多單場50分大三元</p></td>
@@ -577,7 +577,7 @@
 25.4分、10.1个篮板和10.3次助攻</p></td>
 <td><p><a href="../Page/1961-62_NBA賽季.md" title="wikilink">1961-62 NBA賽季</a><br />
 <a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17 NBA賽季</a><br />
-<a href="https://zh.wikipedia.org/wiki/2017-18_NBA賽季" title="wikilink">2017-18 NBA賽季</a></p></td>
+<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18 NBA賽季</a></p></td>
 </tr>
 <tr class="even">
 <td><p>單一賽季最快達成100顆三分球</p></td>
@@ -1410,14 +1410,14 @@
 <a href="https://zh.wikipedia.org/wiki/西部聯盟_(NBA)" title="wikilink">西部</a></p></td>
 <td><p>182分<br />
 192分</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年NBA全明星賽" title="wikilink">2017年</a></p></td>
+<td><p><a href="../Page/2017年NBA全明星賽.md" title="wikilink">2017年</a></p></td>
 </tr>
 <tr class="even">
 <td><p>全明星賽單場兩隊合計最多得分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東部聯盟_(NBA)" title="wikilink">東部</a><br />
 <a href="https://zh.wikipedia.org/wiki/西部聯盟_(NBA)" title="wikilink">西部</a></p></td>
 <td><p>374分</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年NBA全明星賽" title="wikilink">2017年</a></p></td>
+<td><p><a href="../Page/2017年NBA全明星賽.md" title="wikilink">2017年</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -1477,14 +1477,14 @@
 | [底特律活塞](../Page/底特律活塞.md "wikilink")                                                                                  | [以賽亞·湯瑪斯](https://zh.wikipedia.org/wiki/以賽亞·湯瑪斯 "wikilink")           | 18822分      |      |
 | [華盛頓巫師](https://zh.wikipedia.org/wiki/华盛顿奇才 "wikilink")                                                               | [埃爾文·海耶斯](https://zh.wikipedia.org/wiki/埃爾文·海耶斯 "wikilink")           | 15551分      |      |
 | [奥兰多魔術](https://zh.wikipedia.org/wiki/奥兰多魔術 "wikilink")                                                               | [德怀特·霍华德](https://zh.wikipedia.org/wiki/德怀特·霍华德 "wikilink")           | 11435分      |      |
-| [夏洛特黃蜂](../Page/夏洛特黃蜂.md "wikilink")/[夏洛特山貓](https://zh.wikipedia.org/wiki/夏洛特山貓 "wikilink")                          | [肯巴·沃克](https://zh.wikipedia.org/wiki/肯巴·沃克 "wikilink")               | 10010分      | 持續中  |
+| [夏洛特黃蜂](../Page/夏洛特黃蜂.md "wikilink")/[夏洛特山貓](https://zh.wikipedia.org/wiki/夏洛特山貓 "wikilink")                          | [肯巴·沃克](../Page/肯巴·沃克.md "wikilink")                                  | 10010分      | 持續中  |
 | [亚特兰大老鷹](https://zh.wikipedia.org/wiki/亚特兰大老鷹 "wikilink")                                                             | [多米尼克·威尔金斯](../Page/多米尼克·威尔金斯.md "wikilink")                          | 23292分      |      |
 | [迈阿密熱火](https://zh.wikipedia.org/wiki/迈阿密熱火 "wikilink")                                                               | [德韋恩·韋德](https://zh.wikipedia.org/wiki/德韋恩·韋德 "wikilink")             | 20221分      | 持續中  |
 | [洛杉磯快艇](../Page/洛杉矶快船.md "wikilink")                                                                                  | [蘭迪·史密斯](https://zh.wikipedia.org/wiki/蘭迪·史密斯 "wikilink")             | 12735分      |      |
 | [鳳凰城太陽](https://zh.wikipedia.org/wiki/菲尼克斯太陽 "wikilink")                                                              | [沃尔特·戴维斯](../Page/沃尔特·戴维斯.md "wikilink")                              | 15666分      |      |
 | [金州勇士](../Page/金州勇士.md "wikilink")                                                                                    | [威爾特·張伯倫](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")           | 17783分      |      |
 | [沙加緬度國王](https://zh.wikipedia.org/wiki/萨克拉门托國王 "wikilink")                                                            | [奧斯卡·羅伯森](https://zh.wikipedia.org/wiki/奧斯卡·羅伯森 "wikilink")           | 22009分      |      |
-| [洛杉矶湖人](https://zh.wikipedia.org/wiki/洛杉矶湖人 "wikilink")                                                               | [科比·布萊恩特](https://zh.wikipedia.org/wiki/科比·布萊恩特 "wikilink")           | 33643分      |      |
+| [洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")                                                                                  | [科比·布萊恩特](https://zh.wikipedia.org/wiki/科比·布萊恩特 "wikilink")           | 33643分      |      |
 | [明尼蘇達灰狼](../Page/明尼苏达森林狼.md "wikilink")                                                                               | [凯文·加内特](../Page/凯文·加内特.md "wikilink")                                | 19201分      |      |
 | [俄克拉荷马雷霆](https://zh.wikipedia.org/wiki/俄克拉荷马雷霆 "wikilink")/[西雅圖超音速](https://zh.wikipedia.org/wiki/西雅圖超音速 "wikilink") | [加里·佩顿](https://zh.wikipedia.org/wiki/加里·佩顿 "wikilink")               | 18207分      |      |
 | [丹佛金塊](../Page/丹佛掘金.md "wikilink")                                                                                    | [阿歷克斯·英格利許](https://zh.wikipedia.org/wiki/阿歷克斯·英格利許 "wikilink")       | 21645分      |      |
@@ -1617,7 +1617,7 @@
 </tr>
 <tr class="even">
 <td><p>勇士</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/艾尔·阿特尔斯" title="wikilink">艾尔·阿特尔斯</a></p></td>
+<td><p><a href="../Page/艾尔·阿特尔斯.md" title="wikilink">艾尔·阿特尔斯</a></p></td>
 <td><p>557勝</p></td>
 <td><p>1970–1983</p></td>
 </tr>
@@ -1872,7 +1872,7 @@
 <td><p>總冠軍赛最高單場三分球進球</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/史蒂芬·柯瑞" title="wikilink">史蒂芬·柯瑞</a></p></td>
 <td><p>9球</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年NBA季後賽" title="wikilink">2018年NBA季後賽總決賽第</a>2戰</p></td>
+<td><p><a href="../Page/2018年NBA季後賽.md" title="wikilink">2018年NBA季後賽總決賽第</a>2戰</p></td>
 </tr>
 <tr class="even">
 <td><p>總冠軍赛最低投籃命中率</p></td>
@@ -2081,8 +2081,8 @@
 | 最年輕得分王         | [凯文·杜兰特](../Page/凯文·杜兰特.md "wikilink")                      | 21歲197日       |             |             |
 | 最年輕MVP         | [德瑞克·羅斯](https://zh.wikipedia.org/wiki/德瑞克·羅斯 "wikilink")   | 22歲           |             |             |
 | 最年輕大三元         | [馬凱爾·富爾茲](https://zh.wikipedia.org/wiki/馬基爾·富斯 "wikilink")  | 19歲又318日      | 13分10籃板10助攻 | 2018年4月12日  |
-| 最年輕30分大三元      | [盧卡·唐西奇](https://zh.wikipedia.org/wiki/卢卡·东契奇 "wikilink")   | 35分 12籃板 10助攻 | 19歲又333天    | 2019年1月28日  |
-| 未滿20歲兩次大三元     | [盧卡·唐西奇](https://zh.wikipedia.org/wiki/卢卡·东契奇 "wikilink")   | 35分 12籃板 10助攻 | 19歲又333天    | 2019年1月28日  |
+| 最年輕30分大三元      | [盧卡·唐西奇](../Page/卢卡·东契奇.md "wikilink")                      | 35分 12籃板 10助攻 | 19歲又333天    | 2019年1月28日  |
+| 未滿20歲兩次大三元     | [盧卡·唐西奇](../Page/卢卡·东契奇.md "wikilink")                      | 35分 12籃板 10助攻 | 19歲又333天    | 2019年1月28日  |
 | 最年長大三元         | [卡爾·馬龍](../Page/卡爾·馬龍.md "wikilink")                        | 40歲127日       | 10分11籃板10助攻 | 2003年11月28日 |
 | 最年長20-20       | [蒂姆·邓肯](https://zh.wikipedia.org/wiki/蒂姆·邓肯 "wikilink")     | 37歲221日       | 23分21籃板     | 2013年12月2日  |
 | 最年輕累積得分達1000分  | [勒布朗·詹姆斯](../Page/勒布朗·詹姆斯.md "wikilink")                    | 19歲41日        |             |             |
@@ -2594,7 +2594,7 @@
 <td><p>季後賽最多連勝紀錄</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>15連勝</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年NBA季後賽" title="wikilink">2017年NBA季後賽</a></p></td>
+<td><p><a href="../Page/2017年NBA季後賽.md" title="wikilink">2017年NBA季後賽</a></p></td>
 </tr>
 <tr class="even">
 <td><p>季後賽最多連敗紀錄</p></td>
@@ -2625,7 +2625,7 @@
 <td><p>季後賽最佳戰績紀錄</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
 <td><p>16勝1負</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年NBA季後賽" title="wikilink">2017年NBA季後賽</a></p></td>
+<td><p><a href="../Page/2017年NBA季後賽.md" title="wikilink">2017年NBA季後賽</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>季後賽最佳主场戰績紀錄</p></td>
@@ -2643,7 +2643,7 @@
 <td><p>季後賽連續沒有吞下連敗</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波士頓塞爾提克" title="wikilink">波士頓塞爾提克</a></p></td>
 <td><p>9連勝</p></td>
-<td><p><a href="../Page/2008年NBA季後賽.md" title="wikilink">2008年NBA季後賽</a>、<a href="https://zh.wikipedia.org/wiki/2018年NBA季後賽" title="wikilink">2018年NBA季後賽</a></p></td>
+<td><p><a href="../Page/2008年NBA季後賽.md" title="wikilink">2008年NBA季後賽</a>、<a href="../Page/2018年NBA季後賽.md" title="wikilink">2018年NBA季後賽</a></p></td>
 </tr>
 <tr class="even">
 <td><p>季後賽主場最多連勝紀錄</p></td>
@@ -2683,7 +2683,7 @@
 </tr>
 <tr class="even">
 <td><p>最多次进入季后赛</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>56次</p></td>
 <td></td>
 </tr>
@@ -2894,7 +2894,7 @@
 <td><p>單場單隊最多球員大三元</p></td>
 <td><p><a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a><br />
 <a href="https://zh.wikipedia.org/wiki/紐澤西籃網" title="wikilink">紐澤西籃網</a><br />
-<a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>2人</p></td>
 <td><p>1989年1月4日<br />
 2007年4月8日<br />
@@ -2920,7 +2920,7 @@
 </tr>
 <tr class="even">
 <td><p>單場单隊最少籃板</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>15個</p></td>
 <td><p>1983年3月31日</p></td>
 </tr>
@@ -3095,7 +3095,7 @@
 <td><p>季後賽半場最懸殊比分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
 <td><p>41分</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年NBA季後賽" title="wikilink">2017年NBA季後賽第</a>2戰</p></td>
+<td><p><a href="../Page/2017年NBA季後賽.md" title="wikilink">2017年NBA季後賽第</a>2戰</p></td>
 </tr>
 <tr class="even">
 <td><p>季後賽單場單隊最多三分球</p></td>
@@ -3107,13 +3107,13 @@
 <td><p>季後賽單場單隊最多三分球不進</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休斯顿火箭" title="wikilink">休斯顿火箭</a></p></td>
 <td><p>37球（44中7）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018年NBA季後賽" title="wikilink">2018年NBA季後賽西岸決賽第</a>7戰</p></td>
+<td><p><a href="../Page/2018年NBA季後賽.md" title="wikilink">2018年NBA季後賽西岸決賽第</a>7戰</p></td>
 </tr>
 <tr class="even">
 <td><p>總冠軍賽單場單隊最多三分球</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
 <td><p>24球</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年NBA總決賽" title="wikilink">2017年NBA總決賽第</a>4戰</p></td>
+<td><p><a href="../Page/2017年NBA總決賽.md" title="wikilink">2017年NBA總決賽第</a>4戰</p></td>
 </tr>
 <tr class="odd">
 <td><p>季後賽單場最多火鍋</p></td>
@@ -3169,7 +3169,7 @@
 <td><p>季後賽兩隊半場最高得分</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a>&amp;<a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
 <td><p>154分</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017年NBA總決賽" title="wikilink">2017年NBA總決賽第</a>4戰（68-86）</p></td>
+<td><p><a href="../Page/2017年NBA總決賽.md" title="wikilink">2017年NBA總決賽第</a>4戰（68-86）</p></td>
 </tr>
 <tr class="even">
 <td><p>季後賽第二節最低得分</p></td>
@@ -3327,7 +3327,7 @@
 </tr>
 <tr class="odd">
 <td><p>单赛季球员报销数最多的球队</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>9位球员报销</p></td>
 <td><p>2014-15年赛季</p></td>
 </tr>
@@ -3417,7 +3417,7 @@
 <td><p>季賽最高得分大三元</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詹姆斯·哈登" title="wikilink">詹姆斯·哈登</a></p></td>
 <td><p>60分,10籃板,11助攻</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2017-18_NBA賽季" title="wikilink">2017-18 NBA賽季</a></p></td>
+<td><p><a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18 NBA賽季</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>季後賽40分大三元</p></td>

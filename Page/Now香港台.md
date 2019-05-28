@@ -36,7 +36,7 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 | 2016年11月1日  | [History HD](../Page/歷史頻道.md "wikilink")                                                |      |
 | 2016年12月1日  | [國家地理頻道](../Page/國家地理頻道.md "wikilink")                                                  |      |
 | 2016年12月16日 | [now觀星台](https://zh.wikipedia.org/wiki/now觀星台 "wikilink")                               | 2    |
-| 2017年1月1日   | [DIVA](https://zh.wikipedia.org/wiki/Diva_\(電視網\) "wikilink")                           | 1    |
+| 2017年1月1日   | [DIVA](../Page/Diva_\(電視網\).md "wikilink")                                              | 1    |
 | 2017年1月25日  | [nowJelli紫金國際台](https://zh.wikipedia.org/wiki/nowJelli紫金國際台 "wikilink")                 | 2    |
 | 2017年3月1日   | [BBC Earth](https://zh.wikipedia.org/wiki/BBC_Earth "wikilink")                         | 1    |
 | 2017年4月1日   | [now觀星台](https://zh.wikipedia.org/wiki/now觀星台 "wikilink")                               | 3    |
@@ -46,7 +46,7 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 | 2017年8月16日  | [RTL CBS Extreme](https://zh.wikipedia.org/wiki/RTL_CBS_Extreme "wikilink")             |      |
 | 2017年9月16日  | [now爆谷台](https://zh.wikipedia.org/wiki/now爆谷台 "wikilink")                               | 2    |
 | 2017年10月1日  | [TVBS Asia](../Page/TVBS-Asia.md "wikilink")                                            | 1    |
-| 2017年11月1日  | [華納電視頻道](https://zh.wikipedia.org/wiki/華納電視頻道 "wikilink")                               |      |
+| 2017年11月1日  | [華納電視頻道](../Page/華納電視頻道.md "wikilink")                                                  |      |
 | 2017年12月1日  | [BBC Lifestyle](https://zh.wikipedia.org/wiki/BBC_Lifestyle "wikilink")                 |      |
 | 2018年1月1日   | [索尼台](https://zh.wikipedia.org/wiki/索尼台 "wikilink")                                     |      |
 | 2018年2月1日   | [nowJelli紫金國際台](https://zh.wikipedia.org/wiki/nowJelli紫金國際台 "wikilink")                 | 3    |
@@ -54,8 +54,8 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 | 2018年4月1日   | [Discovery Channel](../Page/探索頻道.md "wikilink")                                         |      |
 | 2018年5月1日   | [nowJelli紫金國際台](https://zh.wikipedia.org/wiki/nowJelli紫金國際台 "wikilink")                 | 4    |
 | 2018年6月1日   | [衛視電影台](../Page/衛視電影台.md "wikilink")                                                    | 1    |
-| 2018年6月16日  | [FOX](https://zh.wikipedia.org/wiki/FOX_\(亞洲\) "wikilink")                              |      |
-| 2018年7月1日   | [FOX life](https://zh.wikipedia.org/wiki/FOX_Life_\(亞洲\) "wikilink")                    |      |
+| 2018年6月16日  | [FOX](../Page/FOX_\(亞洲\).md "wikilink")                                                 |      |
+| 2018年7月1日   | [FOX life](../Page/FOX_Life_\(亞洲\).md "wikilink")                                       |      |
 | 2018年7月15日  | [FOX Movies](../Page/FOX_Movies.md "wikilink")                                          |      |
 | 2018年8月1日   | [FOX Action Movies](https://zh.wikipedia.org/wiki/福斯動作電影頻道 "wikilink")                  |      |
 | 2018年8月15日  | [FOX Family Movies](https://zh.wikipedia.org/wiki/福斯家庭電影頻道 "wikilink")                  |      |
@@ -63,7 +63,7 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 | 2018年10月1日  | [AXN](../Page/AXN.md "wikilink")                                                        |      |
 | 2018年11月1日  | [GEM](../Page/GEM_TV_ASIA.md "wikilink")                                                |      |
 | 2018年12月1日  | [Cartoon Network](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")             | 1    |
-| 2019年1月1日   | [華納電視頻道](https://zh.wikipedia.org/wiki/華納電視頻道 "wikilink")                               | 2    |
+| 2019年1月1日   | [華納電視頻道](../Page/華納電視頻道.md "wikilink")                                                  | 2    |
 | 2019年2月1日   | [nowJelli紫金國際台](https://zh.wikipedia.org/wiki/nowJelli紫金國際台 "wikilink")                 | 5    |
 | 2019年3月1日   | [Discovery Channel](../Page/探索頻道.md "wikilink")                                         | 2    |
 | 2019年4月1日   | [Disney Channel](../Page/迪士尼頻道.md "wikilink")                                           | 1    |
@@ -78,7 +78,7 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 | 151    | [GEM](../Page/GEM_TV_ASIA.md "wikilink")                                                |      |
 | 154    | [Oh\!K](https://zh.wikipedia.org/wiki/Oh!K_TV_ASlA "wikilink")                          |      |
 | 209    | [Discovery Channel](../Page/探索頻道.md "wikilink")                                         |      |
-| 510    | [華納電視頻道](https://zh.wikipedia.org/wiki/華納電視頻道 "wikilink")                               |      |
+| 510    | [華納電視頻道](../Page/華納電視頻道.md "wikilink")                                                  |      |
 | 512    | [AXN](../Page/AXN.md "wikilink")                                                        |      |
 | 117    | [FOX Movies](../Page/FOX_Movies.md "wikilink")                                          | 1    |
 | 118    | [FOX Action Movies](https://zh.wikipedia.org/wiki/福斯動作電影頻道 "wikilink")                  |      |
@@ -96,31 +96,31 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 | 442    | [Disney Junior](https://zh.wikipedia.org/wiki/w:en:Disney_Junior_\(Asia\) "wikilink")   |      |
 | 443    | [Cartoon Network](https://zh.wikipedia.org/wiki/Cartoon_Network "wikilink")             |      |
 | 502    | [BBC Lifestyle](https://zh.wikipedia.org/wiki/BBC_Lifestyle "wikilink")                 |      |
-| 508    | [DIVA](https://zh.wikipedia.org/wiki/Diva_\(電視網\) "wikilink")                           |      |
+| 508    | [DIVA](../Page/Diva_\(電視網\).md "wikilink")                                              |      |
 | 514    | [索尼台](https://zh.wikipedia.org/wiki/索尼台 "wikilink")                                     |      |
 | 516    | [RTL CBS Extreme](https://zh.wikipedia.org/wiki/RTL_CBS_Extreme "wikilink")             |      |
 | 517    | [RTL CBS Entertainment](https://zh.wikipedia.org/wiki/RTL_CBS_Entertainment "wikilink") |      |
-| 518    | [FOX](https://zh.wikipedia.org/wiki/FOX_\(亞洲\) "wikilink")                              |      |
-| 521    | [FOX life](https://zh.wikipedia.org/wiki/FOX_Life_\(亞洲\) "wikilink")                    |      |
+| 518    | [FOX](../Page/FOX_\(亞洲\).md "wikilink")                                                 |      |
+| 521    | [FOX life](../Page/FOX_Life_\(亞洲\).md "wikilink")                                       |      |
 | 525    | [Lifetime](https://zh.wikipedia.org/wiki/w:en:Lifetime_\(TV_network\) "wikilink")       |      |
 | 527    | [Asian Food Channel](https://zh.wikipedia.org/wiki/w:en:Asian_Food_Channel "wikilink")  |      |
 
 ### 稍後預覽頻道
 
-| 預覽頻道號碼 | 預覽頻道                                                             |
-| ------ | ---------------------------------------------------------------- |
-| 110    | [HBO](../Page/HBO_Asia.md "wikilink")                            |
-| 113    | [Cinemax](../Page/Cinemax.md "wikilink")                         |
-| 208    | Discovery Asia                                                   |
-| 210    | [動物星球頻道](../Page/動物星球頻道.md "wikilink")                           |
-| 216    | [國家地理野生頻道](../Page/國家地理野生頻道.md "wikilink")                       |
-| 217    | [國家地理悠人頻道](../Page/國家地理悠人頻道.md "wikilink")                       |
-| 222    | FYI                                                              |
-| 670    | [FOX Sports](../Page/FOX體育台.md "wikilink")                       |
-| 671    | [FOX Sports 2](https://zh.wikipedia.org/wiki/FOX體育二台 "wikilink") |
-| 672    | [FOX Sports 3](https://zh.wikipedia.org/wiki/FOX體育三台 "wikilink") |
-| 638    | beIN Sports 1                                                    |
-| 639    | beIN Sports 2                                                    |
+| 預覽頻道號碼 | 預覽頻道                                          |
+| ------ | --------------------------------------------- |
+| 110    | [HBO](../Page/HBO_Asia.md "wikilink")         |
+| 113    | [Cinemax](../Page/Cinemax.md "wikilink")      |
+| 208    | Discovery Asia                                |
+| 210    | [動物星球頻道](../Page/動物星球頻道.md "wikilink")        |
+| 216    | [國家地理野生頻道](../Page/國家地理野生頻道.md "wikilink")    |
+| 217    | [國家地理悠人頻道](../Page/國家地理悠人頻道.md "wikilink")    |
+| 222    | FYI                                           |
+| 670    | [FOX Sports](../Page/FOX體育台.md "wikilink")    |
+| 671    | [FOX Sports 2](../Page/FOX體育二台.md "wikilink") |
+| 672    | [FOX Sports 3](../Page/FOX體育三台.md "wikilink") |
+| 638    | beIN Sports 1                                 |
+| 639    | beIN Sports 2                                 |
 
 ## 播放途徑
 

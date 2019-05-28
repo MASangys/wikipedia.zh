@@ -55,8 +55,7 @@ PSL<sub>2</sub>() 中的元素通过莫比乌斯变换作用在复平面上：
     \(z \mapsto \frac{az+b}{cz+d}\;\;\;(\,\) 这里
     \(a,b,c,d\in\mathbb{R}\mbox{)}.\,\)
 
-这正好是保持[上半平面的莫比乌斯变换集合](https://zh.wikipedia.org/wiki/上半平面 "wikilink")。从而
-PSL<sub>2</sub>()
+这正好是保持[上半平面的莫比乌斯变换集合](../Page/上半平面.md "wikilink")。从而 PSL<sub>2</sub>()
 是上半平面的共形自同构群。由[黎曼映射定理](../Page/黎曼映射定理.md "wikilink")，它也是单位圆盘的共形自同构群。
 
 这些莫比乌斯变换是双曲空间[上半平面模型的等距](../Page/庞加莱半平面模型.md "wikilink")，而圆盘相应的莫比乌斯变换是[庞加莱圆盘模型的双曲等距](../Page/庞加莱圆盘模型.md "wikilink")。

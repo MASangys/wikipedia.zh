@@ -82,7 +82,7 @@ Factory所主辦的](../Page/Media_Factory.md "wikilink")[輕小說新人獎](..
 特別獎</p></td>
 <td><p><br />
 （）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/月見草平" title="wikilink">月見草平</a></p></td>
+<td><p><a href="../Page/月見草平.md" title="wikilink">月見草平</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -139,7 +139,7 @@ Factory所主辦的](../Page/Media_Factory.md "wikilink")[輕小說新人獎](..
 <td><p>尖端代理</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/宙士諾德" title="wikilink">宙士諾德</a></p></td>
+<td><p><a href="../Page/宙士諾德.md" title="wikilink">宙士諾德</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/赤松中学" title="wikilink">赤松中学</a></p></td>
 <td><p>尖端代理</p></td>
 <td></td>

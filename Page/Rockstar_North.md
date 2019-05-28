@@ -65,7 +65,7 @@ North是《[俠盜獵車手](../Page/俠盜獵車手系列.md "wikilink")》系�
 <tr class="odd">
 <td><p><a href="../Page/俠盜獵車手III.md" title="wikilink">俠盜獵車手III</a></p></td>
 <td><p>2002年</p></td>
-<td><p>PC、<a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a></p></td>
+<td><p>PC、<a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
 <td><p>Xbox版本與Rockstar Vienna合作</p></td>
 </tr>
 <tr class="even">
@@ -138,7 +138,7 @@ North是《[俠盜獵車手](../Page/俠盜獵車手系列.md "wikilink")》系�
 <td><p><a href="../Page/荒野大镖客：救赎.md" title="wikilink">荒野大镖客：救赎</a></p></td>
 <td><p>2010年</p></td>
 <td><p>PS3、X360</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Rockstar_San_Diego" title="wikilink">Rockstar San Diego合作</a></p></td>
+<td><p>與<a href="../Page/Rockstar_San_Diego.md" title="wikilink">Rockstar San Diego合作</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

@@ -48,8 +48,7 @@ Tour」壯大的旅行的涵義，這就是各位所看到的《DRAGON BALL GT�
         作詞 - [坂井泉水](../Page/坂井泉水.md "wikilink") / 作曲 -
         [織田哲郎](../Page/織田哲郎.md "wikilink") / 編曲 -
         [葉山剛](https://zh.wikipedia.org/wiki/葉山剛 "wikilink") / 歌 -
-        [FIELD OF
-        VIEW](https://zh.wikipedia.org/wiki/FIELD_OF_VIEW "wikilink")
+        [FIELD OF VIEW](../Page/FIELD_OF_VIEW.md "wikilink")
 
 ※第64話（最終回）除了主題曲之外，還在片尾曲之前以全曲形式播放
 

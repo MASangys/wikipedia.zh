@@ -4,7 +4,7 @@
 
 
 [Appel_Reaction_Scheme.png](https://zh.wikipedia.org/wiki/File:Appel_Reaction_Scheme.png "fig:Appel_Reaction_Scheme.png")
-此反应是用于引入卤原子的一种较为温和的方法。伯醇、仲醇和多数叔醇都能顺利发生反应。用[四溴化碳或](https://zh.wikipedia.org/wiki/四溴化碳 "wikilink")[溴作为卤原子源](../Page/溴.md "wikilink")，或者用[碘甲烷或](../Page/碘甲烷.md "wikilink")[碘](../Page/碘.md "wikilink")，可得到相应的[溴代烃和](https://zh.wikipedia.org/wiki/溴代烃 "wikilink")[碘代烃](https://zh.wikipedia.org/wiki/碘代烃 "wikilink")。
+此反应是用于引入卤原子的一种较为温和的方法。伯醇、仲醇和多数叔醇都能顺利发生反应。用[四溴化碳或](../Page/四溴化碳.md "wikilink")[溴作为卤原子源](../Page/溴.md "wikilink")，或者用[碘甲烷或](../Page/碘甲烷.md "wikilink")[碘](../Page/碘.md "wikilink")，可得到相应的[溴代烃和](https://zh.wikipedia.org/wiki/溴代烃 "wikilink")[碘代烃](https://zh.wikipedia.org/wiki/碘代烃 "wikilink")。
 
 例如，[香叶醇经过反应](../Page/香叶醇.md "wikilink")，得到[香叶基氯](https://zh.wikipedia.org/wiki/香叶基氯 "wikilink")。\[2\]
 

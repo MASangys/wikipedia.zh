@@ -6,7 +6,7 @@ Curve**是[馬來西亞大型的購物商場之一](https://zh.wikipedia.org/wik
 
 擁有三層樓，店鋪數量達250間，總面積達680,000平方呎及擁有2400個停車位的*The
 Curve*於2005年12月開幕，是[馬來西亞第一家擁有仿照](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[美國小鎮大街露天設計的](https://zh.wikipedia.org/wiki/美國 "wikilink")[商場](../Page/商場.md "wikilink")，改變了馬來西亞人認為購物應該是在封閉的商場進行的思想，也是該商圈最大的商場。除了商場，The
-Curve還附有一家4星級的商務[飯店](https://zh.wikipedia.org/wiki/飯店 "wikilink")。通往商場的[高速公路有](../Page/高速公路.md "wikilink")[白蒲大道](https://zh.wikipedia.org/wiki/白蒲大道 "wikilink")（LDP）、[新巴生河流域大道](https://zh.wikipedia.org/wiki/新巴生河流域大道 "wikilink")（NKVE）、柏西兰苏丽雅和[西部疏散大道](https://zh.wikipedia.org/wiki/西部疏散大道 "wikilink")（SPRINT）本查拉连贯公路，加上[宜家位于其隔壁](https://zh.wikipedia.org/wiki/宜家 "wikilink")，因此每當周末和假日時，商場的人流量很高。
+Curve還附有一家4星級的商務[飯店](https://zh.wikipedia.org/wiki/飯店 "wikilink")。通往商場的[高速公路有](../Page/高速公路.md "wikilink")[白蒲大道](https://zh.wikipedia.org/wiki/白蒲大道 "wikilink")（LDP）、[新巴生河流域大道](../Page/新巴生河流域大道.md "wikilink")（NKVE）、柏西兰苏丽雅和[西部疏散大道](https://zh.wikipedia.org/wiki/西部疏散大道 "wikilink")（SPRINT）本查拉连贯公路，加上[宜家位于其隔壁](https://zh.wikipedia.org/wiki/宜家 "wikilink")，因此每當周末和假日時，商場的人流量很高。
 
 ## 商場結構
 

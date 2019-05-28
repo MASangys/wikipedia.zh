@@ -95,7 +95,7 @@ Handgun System，簡稱：FHS）計劃，有可能會採用Mk 23 Mod
 0之間並有一些區別。而最大區別是在Mark
 23的[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。刻下“Mark
 23”的是在第一年，1996年上半年生產；而所以有輥壓標記“MARK 23”的則是在是1996年中期到現在生產。這些都代替了“MK23
-USSOCOM”，啞光與光澤的[表面處理不同的民用型](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，黃褐色與黑色[底把](https://zh.wikipedia.org/wiki/机匣 "wikilink")（生產了500把黃褐色底把型），軍用與民用型的槍管都符合（簡稱：SAAMI）頂空進樣規格，而軍用槍管可讓球狀彈藥的操作更可靠。這些區別是按照運動武器及彈藥製造商協會的標準來進行生產。
+USSOCOM”，啞光與光澤的[表面處理不同的民用型](https://zh.wikipedia.org/wiki/表面處理 "wikilink")，黃褐色與黑色[底把](../Page/机匣.md "wikilink")（生產了500把黃褐色底把型），軍用與民用型的槍管都符合（簡稱：SAAMI）頂空進樣規格，而軍用槍管可讓球狀彈藥的操作更可靠。這些區別是按照運動武器及彈藥製造商協會的標準來進行生產。
 
 ## 缺失
 
@@ -153,7 +153,7 @@ HK Mk 23 Mod 0和Mark
   - 2004年—《[-{zh-hant:暴力特區;
     zh-hans:暴力街区;}-](../Page/暴力特區.md "wikilink")》：原來被K2所使用，後來被Lola所奪取。
   - 2007年—《[-{zh-hans:我是传奇; zh-hk:魔間傳奇;
-    zh-tw:我是傳奇;}-](https://zh.wikipedia.org/wiki/我是传奇 "wikilink")》：沙色[底把](https://zh.wikipedia.org/wiki/机匣 "wikilink")，被羅伯·奈佛（Robert
+    zh-tw:我是傳奇;}-](https://zh.wikipedia.org/wiki/我是传奇 "wikilink")》：沙色[底把](../Page/机匣.md "wikilink")，被羅伯·奈佛（Robert
     Neville，[-{zh-hans:威尔·史密斯; zh-hk:韋·史密夫;
     zh-tw:威爾·史密斯;}-飾演](../Page/威爾·史密斯.md "wikilink")）作為所使用。
   - 2008年—《[-{zh-hans:全民超人汉考克; zh-hk:街頭超人;
@@ -209,7 +209,7 @@ HK Mk 23 Mod 0和Mark
     SOCOM二期原型，被主角雷電（Raiden）所使用，命名為「SOCOM」，可裝上[-{消聲}-器和](../Page/抑制器.md "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。
   - 2002年—《[Soldat](../Page/Soldat.md "wikilink")》：命名為「USSOCOM」，附屬武器。
   - 2002年—《[-{zh-cn:命运战士2：双重螺旋;
-    zh-tw:傭兵戰場2：雙重螺旋;}-](https://zh.wikipedia.org/wiki/傭兵戰場2：雙重螺旋 "wikilink")》：命名為「US
+    zh-tw:傭兵戰場2：雙重螺旋;}-](../Page/傭兵戰場2：雙重螺旋.md "wikilink")》：命名為「US
     SOCOM」，可選擇加掛滅音器
     探照燈或是紅外線瞄準具，同時可用以擊昏敵人，取得2把時可以[雙手持槍射擊](../Page/雙持.md "wikilink")，或搭配迷你烏茲跟M1911A1雙手持槍射擊。
   - 2002年—《[-{zh-cn:细胞分裂;
@@ -275,7 +275,7 @@ HK Mk 23 Mod 0和Mark
 ### 動漫
 
   - 1998年—《[星際牛仔](../Page/星際牛仔.md "wikilink")》：被ISSP保鏢所使用。
-  - 2003年—《[惑星奇航](../Page/惑星奇航.md "wikilink")》：未來主義的變種，整合了[槍口補償器](https://zh.wikipedia.org/wiki/槍口補償器 "wikilink")、[戰術燈和](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，可[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。被警察部隊守衛所使用，其中一名守衛被殺以後被露西所奪取。
+  - 2003年—《[惑星奇航](../Page/惑星奇航.md "wikilink")》：未來主義的變種，整合了[槍口補償器](https://zh.wikipedia.org/wiki/槍口補償器 "wikilink")、[戰術燈和](../Page/戰術燈.md "wikilink")[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，可[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。被警察部隊守衛所使用，其中一名守衛被殺以後被露西所奪取。
   - 2003年—《[神槍少女](../Page/神槍少女.md "wikilink")》：被合榭（ヒルシャー，[聲優](../Page/聲優.md "wikilink")：[江原正士](../Page/江原正士.md "wikilink")／[松風雅也](../Page/松風雅也.md "wikilink")）所使用。
   - 2009年—《[幻靈鎮魂曲](../Page/Phantom_-PHANTOM_OF_INFERNO-.md "wikilink")》：裝有LAM模塊和[抑制器](../Page/抑制器.md "wikilink")，被江漣/Ein所使用。
   - 2010年—《[玩伴貓耳娘](../Page/玩伴貓耳娘.md "wikilink")》：型號為Mk 23

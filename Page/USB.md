@@ -983,7 +983,7 @@ Delivery是[USB開發者論壇在](../Page/USB開發者論壇.md "wikilink")2012
 
 [PictBridge标准可以使得消费者使用的图形设备彼此互通](../Page/PictBridge.md "wikilink")（例如数码相机直接通过打印机输出）。一般它使用USB做为其底层通信协议。
 
-[微软的](../Page/微软.md "wikilink")[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")[游戏主机和](https://zh.wikipedia.org/wiki/游戏主机 "wikilink")[IBM的](../Page/IBM.md "wikilink")[UltraPort均使用自身独有的专用接口](https://zh.wikipedia.org/wiki/UltraPort "wikilink")，有别于标准的USB；不同的是，前者（Xbox）使用的是标准的USB
+[微软的](../Page/微软.md "wikilink")[Xbox](../Page/Xbox.md "wikilink")[游戏主机和](https://zh.wikipedia.org/wiki/游戏主机 "wikilink")[IBM的](../Page/IBM.md "wikilink")[UltraPort均使用自身独有的专用接口](https://zh.wikipedia.org/wiki/UltraPort "wikilink")，有别于标准的USB；不同的是，前者（Xbox）使用的是标准的USB
 1.1信号格式，后者则使用标准的USB信号格式，而供电能力也更强。
 
 开源项目[USB/IP](http://usbip.sourceforge.net/)实现了USB数据包的网络传送，逻辑上将USB数据线无限延长。同时配合无线路由器等手段，可以实现无线USB传输。

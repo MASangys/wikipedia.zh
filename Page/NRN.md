@@ -92,7 +92,7 @@
 <tr class="even">
 <td><p><a href="../Page/茨城縣.md" title="wikilink">茨城縣</a></p></td>
 <td><p><strong>IBS</strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/茨城放送" title="wikilink">茨城放送</a></p></td>
+<td><p><a href="../Page/茨城放送.md" title="wikilink">茨城放送</a></p></td>
 <td><p><small>2001年4月正式加盟</p></td>
 <td><p>◆</p></td>
 </tr>

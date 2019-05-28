@@ -18,7 +18,7 @@ ARTLAND**，而[Marvelous旗下](../Page/Marvelous.md "wikilink")**株式会社A
 
 ### 原請製作
 
-  - [無限地帶23](https://zh.wikipedia.org/wiki/無限地帶23 "wikilink")（OVA，1985年）
+  - [無限地帶23](../Page/無限地帶23.md "wikilink")（OVA，1985年）
   - [星猫フルハウス](https://zh.wikipedia.org/wiki/星猫フルハウス "wikilink")（OVA，1989年）
   - [勇午](https://zh.wikipedia.org/wiki/勇午 "wikilink")（TV，2003年）
   - [搞笑漫畫日和](../Page/搞笑漫畫日和.md "wikilink")（TV，2005年）
@@ -82,7 +82,7 @@ ARTLAND**，而[Marvelous旗下](../Page/Marvelous.md "wikilink")**株式会社A
 <td><p>4月14日－7月29日</p></td>
 <td><p><a href="../Page/吉本欣司.md" title="wikilink">吉本欣司</a></p></td>
 <td><p>原創</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/TNK" title="wikilink">TNK共同製作</a></p></td>
+<td><p>與<a href="../Page/TNK.md" title="wikilink">TNK共同製作</a></p></td>
 </tr>
 </tbody>
 </table>

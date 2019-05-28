@@ -69,7 +69,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>從<a href="https://zh.wikipedia.org/wiki/63街線" title="wikilink">IND 63街線</a>（）分岔</p></td>
+<td><p>從<a href="../Page/63街線.md" title="wikilink">IND 63街線</a>（）分岔</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -175,7 +175,7 @@
 <td><p>全部</p></td>
 <td></td>
 <td><p>1940年12月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>（），<a href="https://zh.wikipedia.org/wiki/第五大道車站_(IRT法拉盛線)" title="wikilink">第五大道</a></p></td>
+<td><p><a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>（），<a href="https://zh.wikipedia.org/wiki/第五大道車站_(IRT法拉盛線)" title="wikilink">第五大道</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

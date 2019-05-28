@@ -21,7 +21,7 @@ Mac项目，一个设计[工作站的项目](../Page/工作站.md "wikilink")。
 
 [First_Web_Server.jpg](https://zh.wikipedia.org/wiki/File:First_Web_Server.jpg "fig:First_Web_Server.jpg")的[提姆·柏內茲-李使用的NeXT工作站成了世界上第一台](https://zh.wikipedia.org/wiki/提姆·柏內茲-李 "wikilink")[網頁伺服器](../Page/網頁伺服器.md "wikilink")，並於1990年運行了[世界上第一個網頁瀏覽器](../Page/WorldWideWeb.md "wikilink")\]\]
 
-由於業務與蘋果公司一樣，蘋果公司曾入稟法院控告NeXT。最後NeXT在1986年中期改變經營策略，改為發展電腦軟體、硬體，不再僅限於低階的工作站。NeXT電腦公司的主要产品是NeXT電腦及基于[Unix的NeXTSTEP](https://zh.wikipedia.org/wiki/Unix "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。1985年年底，乔布斯曾对公司员工称产品应该定在18个月内推出。一年后，产品推出时间遥遥无期，面对现金周转不灵的问题，他开始寻找[风投](https://zh.wikipedia.org/wiki/风投 "wikilink")。最后，他得到亿万富豪[罗斯·佩罗的关注](https://zh.wikipedia.org/wiki/罗斯·佩罗 "wikilink")，罗斯·佩罗为公司注资之余还协助其推广产品。
+由於業務與蘋果公司一樣，蘋果公司曾入稟法院控告NeXT。最後NeXT在1986年中期改變經營策略，改為發展電腦軟體、硬體，不再僅限於低階的工作站。NeXT電腦公司的主要产品是NeXT電腦及基于[Unix的NeXTSTEP](https://zh.wikipedia.org/wiki/Unix "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。1985年年底，乔布斯曾对公司员工称产品应该定在18个月内推出。一年后，产品推出时间遥遥无期，面对现金周转不灵的问题，他开始寻找[风投](https://zh.wikipedia.org/wiki/风投 "wikilink")。最后，他得到亿万富豪[罗斯·佩罗的关注](../Page/罗斯·佩罗.md "wikilink")，罗斯·佩罗为公司注资之余还协助其推广产品。
 
 當[史蒂夫·賈伯斯被詢問到是否因為此電腦的推出延遲數月而不高興時](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink")，他回答道：「延遲？這部電腦可是超前時代五年！」
 

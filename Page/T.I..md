@@ -12,9 +12,7 @@ Your Life*」）。
     Delonte "Ghost" Rivers
   - 2015 - 《[獄前教育](https://zh.wikipedia.org/wiki/獄前教育 "wikilink")》 飾 羅素
   - 2015 - 《[蟻人](../Page/蟻人_\(電影\).md "wikilink")》 飾 戴夫
-  - 2017 -
-    《[限時救援](https://zh.wikipedia.org/wiki/限時救援_\(2017年電影\) "wikilink")》
-    飾 德瑞克·葛里芬
+  - 2017 - 《[限時救援](../Page/限時救援_\(2017年電影\).md "wikilink")》 飾 德瑞克·葛里芬
   - 2018 - 《[蟻人與黃蜂女](https://zh.wikipedia.org/wiki/蟻人與黃蜂女 "wikilink")》 飾
     戴夫
 

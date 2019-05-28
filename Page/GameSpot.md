@@ -13,7 +13,7 @@ GameSpot的主頁鏈結了到最近新聞、評論、預告、和一些有關遊
 3](../Page/PlayStation_3.md "wikilink")。它還有一列「最受歡迎遊戲名單」，還有給用戶快速獲得遊戲資訊的搜尋器。GameSpot
 還包括一些小範圍的遊戲機：[任天堂64](../Page/任天堂64.md "wikilink")、[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")、[Game
 Boy Color](../Page/Game_Boy_Color.md "wikilink")、[Game Boy
-Advance](../Page/Game_Boy_Advance.md "wikilink")、[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")、[SEGA
+Advance](../Page/Game_Boy_Advance.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[PlayStation](../Page/PlayStation.md "wikilink")、[SEGA
 Saturn](https://zh.wikipedia.org/wiki/SEGA_Saturn "wikilink")、[Dreamcast](../Page/Dreamcast.md "wikilink")、[Neo
 Geo Pocket
 Color](https://zh.wikipedia.org/wiki/Neo_Geo_Pocket_Color "wikilink")、[N-Gage](../Page/N-Gage.md "wikilink")、[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")。
@@ -93,7 +93,7 @@ Hawk's Pro Skater
 2K1](https://zh.wikipedia.org/wiki/ESPN_NFL_2K "wikilink")、\[19\][Perfect
 Dark](../Page/Perfect_Dark.md "wikilink")、\[20\]
 [超級瑪利歐豪華版](https://zh.wikipedia.org/wiki/超級瑪利歐 "wikilink")、\[21\][Tekken
-3](https://zh.wikipedia.org/wiki/Tekken_3 "wikilink")（[PlayStation版本](https://zh.wikipedia.org/wiki/PlayStation "wikilink")）、\[22\]、[Tony
+3](https://zh.wikipedia.org/wiki/Tekken_3 "wikilink")（[PlayStation版本](../Page/PlayStation.md "wikilink")）、\[22\]、[Tony
 Hawk's Pro Skater
 2](https://zh.wikipedia.org/wiki/Tony_Hawk's_Pro_Skater_2 "wikilink")（[Dreamcast和](../Page/Dreamcast.md "wikilink")[Playstation版本](https://zh.wikipedia.org/wiki/Playstation "wikilink")）。\[23\]\[24\]
 
@@ -138,8 +138,7 @@ GameSpot至今[本年度遊戲之最得獎者](https://zh.wikipedia.org/wiki/本
     \[39\]
   - 2006：[戰爭機器](https://zh.wikipedia.org/wiki/戰爭機器 "wikilink")(Xbox 360)
     \[40\]
-  - 2007：[超级马里奥银河](https://zh.wikipedia.org/wiki/超级马里奥银河 "wikilink")(Wii)
-    \[41\]
+  - 2007：[超级马里奥银河](../Page/超级马里奥银河.md "wikilink")(Wii) \[41\]
 
 ## 社區圈子
 
@@ -180,7 +179,7 @@ Provo離開GameSpot，聲明「我相信CNET管理部門解僱Jeff的所有原�
 GameSpot的編輯Alex Navarro、Jason Ocampo、Ryan Davis、Brad Shoemaker、Vinny
 Caravella也隨Gerstmann解僱而離開。\[50\]\[51\]Davis、
 Shoemaker、Caravella將Gerstmann的未完成計劃[Giant
-Bomb接手](https://zh.wikipedia.org/wiki/Giant_Bomb "wikilink")，Navarro成為[Harmonix社區管理](https://zh.wikipedia.org/wiki/Harmonix "wikilink")。Ocampo加入[IGNPC隊](../Page/IGN.md "wikilink")。
+Bomb接手](../Page/Giant_Bomb.md "wikilink")，Navarro成為[Harmonix社區管理](https://zh.wikipedia.org/wiki/Harmonix "wikilink")。Ocampo加入[IGNPC隊](../Page/IGN.md "wikilink")。
 
 ## 捐款
 

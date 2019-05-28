@@ -1,4 +1,4 @@
-是由[SEGA開發的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[動作冒險遊戲](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")\[1\]，製作人為[铃木裕](https://zh.wikipedia.org/wiki/铃木裕 "wikilink")。本游戏是[莎木系列的第二作](../Page/莎木系列.md "wikilink")，2001年在[DreamCast平台首發](https://zh.wikipedia.org/wiki/DreamCast "wikilink")，隔年移植至Xbox发行。\[2\]
+是由[SEGA開發的](https://zh.wikipedia.org/wiki/SEGA "wikilink")[動作冒險遊戲](https://zh.wikipedia.org/wiki/動作冒險遊戲 "wikilink")\[1\]，製作人為[铃木裕](../Page/铃木裕.md "wikilink")。本游戏是[莎木系列的第二作](../Page/莎木系列.md "wikilink")，2001年在[DreamCast平台首發](https://zh.wikipedia.org/wiki/DreamCast "wikilink")，隔年移植至Xbox发行。\[2\]
 
 2018年8月21日，SEGA發行了《莎木
 I\&II》的HD版合輯，共計有[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")、[Xbox

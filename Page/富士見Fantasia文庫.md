@@ -41,11 +41,11 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一�
   - [我的狐姬主人](https://zh.wikipedia.org/wiki/我的狐姬主人 "wikilink")（/[p19](https://zh.wikipedia.org/wiki/p19 "wikilink")）
   - [不起眼女主角培育法](../Page/不起眼女主角培育法.md "wikilink")（[丸戶史明](https://zh.wikipedia.org/wiki/丸戶史明 "wikilink")/[深崎暮人](../Page/深崎暮人.md "wikilink")）
   - [不完全神性機關伊莉斯](../Page/不完全神性機關伊莉斯.md "wikilink")（[細音啓](https://zh.wikipedia.org/wiki/細音啓 "wikilink")/）
-  - [刺客守則](https://zh.wikipedia.org/wiki/刺客守則 "wikilink")（/）
+  - [刺客守則](../Page/刺客守則.md "wikilink")（/）
 
 ### [尖端出版](../Page/尖端出版.md "wikilink")
 
-  - [魔法戰士李維](../Page/魔法戰士李維.md "wikilink")（[水野良](https://zh.wikipedia.org/wiki/水野良 "wikilink")/[士貴智志](https://zh.wikipedia.org/wiki/士貴智志 "wikilink")→[橫田守](../Page/橫田守.md "wikilink")）
+  - [魔法戰士李維](../Page/魔法戰士李維.md "wikilink")（[水野良](../Page/水野良.md "wikilink")/[士貴智志](https://zh.wikipedia.org/wiki/士貴智志 "wikilink")→[橫田守](../Page/橫田守.md "wikilink")）
 
 ### [奇幻基地](https://zh.wikipedia.org/wiki/奇幻基地 "wikilink")
 
@@ -71,9 +71,9 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一�
   - [東京闇鴉](../Page/東京闇鴉.md "wikilink")（/）
 
   - [L
-    詐欺師佛雷特蘭德的華麗傳說](https://zh.wikipedia.org/wiki/L_詐欺師佛雷特蘭德的華麗傳說 "wikilink")（[坂照鉄平](https://zh.wikipedia.org/wiki/坂照鉄平 "wikilink")/[水城葵](https://zh.wikipedia.org/wiki/水城葵 "wikilink")→[水谷悠珠](https://zh.wikipedia.org/wiki/水谷悠珠 "wikilink")）
+    詐欺師佛雷特蘭德的華麗傳說](https://zh.wikipedia.org/wiki/L_詐欺師佛雷特蘭德的華麗傳說 "wikilink")（[坂照鉄平](https://zh.wikipedia.org/wiki/坂照鉄平 "wikilink")/[水城葵](https://zh.wikipedia.org/wiki/水城葵 "wikilink")→[水谷悠珠](../Page/水谷悠珠.md "wikilink")）
 
-  - [Re:笨蛋也能拯救世界？](../Page/Re：笨蛋也能拯救世界？.md "wikilink")（[柳實冬貴](https://zh.wikipedia.org/wiki/柳實冬貴 "wikilink")/）
+  - [Re:笨蛋也能拯救世界？](../Page/Re：笨蛋也能拯救世界？.md "wikilink")（[柳實冬貴](../Page/柳實冬貴.md "wikilink")/）
 
   - [尼特族吸血鬼·江藤](https://zh.wikipedia.org/wiki/尼特族吸血鬼·江藤 "wikilink")（[鈴木大輔](https://zh.wikipedia.org/wiki/鈴木大輔 "wikilink")/[空中幼彩](https://zh.wikipedia.org/wiki/空中幼彩 "wikilink")）
 
@@ -96,7 +96,7 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一�
 
   - [銀之十字架與吸血姬](https://zh.wikipedia.org/wiki/銀之十字架與吸血姬 "wikilink")（/）
 
-  - （/[水野良](https://zh.wikipedia.org/wiki/水野良 "wikilink")/[春日歩](https://zh.wikipedia.org/wiki/春日歩 "wikilink")）
+  - （/[水野良](../Page/水野良.md "wikilink")/[春日歩](https://zh.wikipedia.org/wiki/春日歩 "wikilink")）
 
   - [不正經的魔術講師與禁忌教典](../Page/不正經的魔術講師與禁忌教典.md "wikilink")（[羊太郎](https://zh.wikipedia.org/wiki/羊太郎 "wikilink")/[三嶋くろね](https://zh.wikipedia.org/wiki/三嶋くろね "wikilink")）
 
@@ -120,7 +120,7 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一�
   - [偶像大師 XENOGLOSSIA](../Page/偶像大師_XENOGLOSSIA.md "wikilink")
     ～絆～（[涼風涼](https://zh.wikipedia.org/wiki/涼風涼 "wikilink")）
 
-  - [機械女神J](../Page/機械女神.md "wikilink")（[赤堀悟](https://zh.wikipedia.org/wiki/赤堀悟 "wikilink")/，台灣東販代理漫畫版）
+  - [機械女神J](../Page/機械女神.md "wikilink")（[赤堀悟](../Page/赤堀悟.md "wikilink")/，台灣東販代理漫畫版）
 
   - [機甲兵團
     J-PHOENIX](https://zh.wikipedia.org/wiki/機甲兵團_J-PHOENIX "wikilink")（作：，案：，著：[唯野条太郎](https://zh.wikipedia.org/wiki/唯野条太郎 "wikilink")//[石野聰](https://zh.wikipedia.org/wiki/石野聰 "wikilink")）
@@ -129,18 +129,18 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一�
 
   - [機動警察](../Page/機動警察.md "wikilink")（[伊藤和典](https://zh.wikipedia.org/wiki/伊藤和典 "wikilink")、[橫手美智子](https://zh.wikipedia.org/wiki/橫手美智子 "wikilink")，大然文化代理漫畫版）
 
-  - [銀河天使](../Page/銀河天使.md "wikilink")（[水野良](https://zh.wikipedia.org/wiki/水野良 "wikilink")、，台灣角川代理漫畫版）
+  - [銀河天使](../Page/銀河天使.md "wikilink")（[水野良](../Page/水野良.md "wikilink")、，台灣角川代理漫畫版）
 
   - [死神與巧克力百匯](../Page/死神與巧克力百匯.md "wikilink")（[花凰神也](https://zh.wikipedia.org/wiki/花凰神也 "wikilink")、，台灣角川代理漫畫版）
 
   - [京四郎與永遠的空
-    -前奏曲-](../Page/京四郎與永遠的空.md "wikilink")（[植竹須美男](https://zh.wikipedia.org/wiki/植竹須美男 "wikilink")/[介錯](https://zh.wikipedia.org/wiki/介錯_\(漫画家\) "wikilink")，台灣角川代理漫畫版）
+    -前奏曲-](../Page/京四郎與永遠的空.md "wikilink")（[植竹須美男](../Page/植竹須美男.md "wikilink")/[介錯](https://zh.wikipedia.org/wiki/介錯_\(漫画家\) "wikilink")，台灣角川代理漫畫版）
 
   - [聖槍修女](../Page/聖槍修女.md "wikilink")（[富永浩史](https://zh.wikipedia.org/wiki/富永浩史 "wikilink")/，東立出版社代理漫畫版）
 
-  - [櫻花大戰系列](../Page/櫻花大戰系列.md "wikilink")（[赤堀悟](https://zh.wikipedia.org/wiki/赤堀悟 "wikilink")、/[奧田萬里ほか](../Page/奧田萬里.md "wikilink")）
+  - [櫻花大戰系列](../Page/櫻花大戰系列.md "wikilink")（[赤堀悟](../Page/赤堀悟.md "wikilink")、/[奧田萬里ほか](../Page/奧田萬里.md "wikilink")）
 
-  - （[雜賀禮史](https://zh.wikipedia.org/wiki/雜賀禮史 "wikilink")/）
+  - （[雜賀禮史](../Page/雜賀禮史.md "wikilink")/）
 
   - [星方遊撃隊エンジェル・リンクス](../Page/星方天使.md "wikilink")（[伊吹秀明](https://zh.wikipedia.org/wiki/伊吹秀明 "wikilink")/[幡池裕行](https://zh.wikipedia.org/wiki/幡池裕行 "wikilink")）
 
@@ -167,7 +167,7 @@ Magazine](https://zh.wikipedia.org/wiki/月刊Dragon_Magazine "wikilink")》一�
 
   - [無敵王TRI-ZENON](https://zh.wikipedia.org/wiki/無敵王TRI-ZENON "wikilink")（[長谷川勝己](https://zh.wikipedia.org/wiki/長谷川勝己 "wikilink")//[花田十輝](https://zh.wikipedia.org/wiki/花田十輝 "wikilink")/[日下弘文](https://zh.wikipedia.org/wiki/日下弘文 "wikilink")）
 
-  - [六門天外](../Page/六門天外.md "wikilink")（[黑田和人](https://zh.wikipedia.org/wiki/黑田和人 "wikilink")/[赤堀悟](https://zh.wikipedia.org/wiki/赤堀悟 "wikilink")/[長谷川勝己](https://zh.wikipedia.org/wiki/長谷川勝己 "wikilink")[安田均](https://zh.wikipedia.org/wiki/安田均 "wikilink")/[松本嵩春](https://zh.wikipedia.org/wiki/松本嵩春 "wikilink")，東立出版社代理漫畫版）
+  - [六門天外](../Page/六門天外.md "wikilink")（[黑田和人](https://zh.wikipedia.org/wiki/黑田和人 "wikilink")/[赤堀悟](../Page/赤堀悟.md "wikilink")/[長谷川勝己](https://zh.wikipedia.org/wiki/長谷川勝己 "wikilink")[安田均](https://zh.wikipedia.org/wiki/安田均 "wikilink")/[松本嵩春](https://zh.wikipedia.org/wiki/松本嵩春 "wikilink")，東立出版社代理漫畫版）
 
   - [火箭女孩](../Page/火箭女孩.md "wikilink")（[野尻抱介](../Page/野尻抱介.md "wikilink")/）
 

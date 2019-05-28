@@ -5,7 +5,7 @@
 原始变体由独立JPEG工作组（IJG）维护和发布。此外，也有数个提供额外特性的[复刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")。
 
 JPEG
-[JFIF图像在](https://zh.wikipedia.org/wiki/JPEG文件交换格式 "wikilink")[万维网上被广泛使用](../Page/万维网.md "wikilink")。它可以调整压缩量级以实现文件大小与视觉质量之间的期望与权衡。\[1\]
+[JFIF图像在](../Page/JPEG文件交换格式.md "wikilink")[万维网上被广泛使用](../Page/万维网.md "wikilink")。它可以调整压缩量级以实现文件大小与视觉质量之间的期望与权衡。\[1\]
 
 ## 实用程序
 

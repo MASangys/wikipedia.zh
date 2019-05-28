@@ -175,7 +175,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
   - 系列構成：[吉田玲子](../Page/吉田玲子.md "wikilink")
   - 人物設定、總作画監督：[堀口悠纪子](https://zh.wikipedia.org/wiki/堀口悠纪子 "wikilink")
   - 樂器設定、樂器作畫監督：高橋博行
-  - 美術：[田村盛揮](https://zh.wikipedia.org/wiki/田村盛揮 "wikilink")
+  - 美術：[田村盛揮](../Page/田村盛揮.md "wikilink")
   - 色彩設計：竹田明代
   - 攝影監督：山本倫
   - 編輯：重村建吾
@@ -391,8 +391,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 
 <!-- end list -->
 
-  - **片尾曲 「[Don't say
-    "lazy"](https://zh.wikipedia.org/wiki/Don't_say_"lazy" "wikilink")」**
+  - **片尾曲 「[Don't say "lazy"](../Page/Don't_say_"lazy".md "wikilink")」**
       -
         作詞：大森祥子，作曲：前澤寬之，编曲：小森茂生
         演出：樱高輕音部［秋山澪（主唱）、平澤唯、田井中律、琴吹紬（CV：日笠陽子、豐崎愛生、佐藤聰美、壽美菜子）］
@@ -1758,7 +1757,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 
   - Recochoku2009年上半年最優秀新人賞 - 櫻高輕音部
   - 第14回Animation神戶賞主題歌賞（關西廣播賞） - 《[Don't say
-    "lazy"](https://zh.wikipedia.org/wiki/Don't_say_"lazy" "wikilink")》
+    "lazy"](../Page/Don't_say_"lazy".md "wikilink")》
   - 日經MJ2009年「熱門商品番付」西前頭
   - [東京國際動畫博覽會](../Page/東京國際動畫博覽會.md "wikilink")2010
     第9回[東京動畫賞優秀賞電視節目部門](https://zh.wikipedia.org/wiki/東京動畫賞 "wikilink")

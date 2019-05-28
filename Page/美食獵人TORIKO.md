@@ -6,7 +6,7 @@
 
 但是這些美味的食材不是兇猛無比的怪物，就是生長在環境惡劣的天險之地。因此在這個探求未知美味的**美食時代**裏，有許多專門深入絕地，拼上性命捕獲珍稀美味的**美食獵人**。
 
-每個美食獵人的人生目標就是用自己親手捕獲的食材完成包含[前菜](https://zh.wikipedia.org/wiki/前菜 "wikilink")、[湯](https://zh.wikipedia.org/wiki/湯 "wikilink")、[魚](https://zh.wikipedia.org/wiki/魚 "wikilink")、[肉](https://zh.wikipedia.org/wiki/肉 "wikilink")、[主菜](https://zh.wikipedia.org/wiki/主菜 "wikilink")、[沙拉](https://zh.wikipedia.org/wiki/沙拉 "wikilink")、[甜點](https://zh.wikipedia.org/wiki/甜點 "wikilink")、[飲料一共](https://zh.wikipedia.org/wiki/飲料 "wikilink")8道料理的**人生菜單**。
+每個美食獵人的人生目標就是用自己親手捕獲的食材完成包含[前菜](https://zh.wikipedia.org/wiki/前菜 "wikilink")、[湯](https://zh.wikipedia.org/wiki/湯 "wikilink")、[魚](https://zh.wikipedia.org/wiki/魚 "wikilink")、[肉](https://zh.wikipedia.org/wiki/肉 "wikilink")、[主菜](../Page/主菜.md "wikilink")、[沙拉](https://zh.wikipedia.org/wiki/沙拉 "wikilink")、[甜點](https://zh.wikipedia.org/wiki/甜點 "wikilink")、[飲料一共](https://zh.wikipedia.org/wiki/飲料 "wikilink")8道料理的**人生菜單**。
 
 主要的故事主軸即為美食獵人**四天王**之一的**特瑞科**為了完成自己的[全餐](https://zh.wikipedia.org/wiki/全餐 "wikilink")[菜單](../Page/菜單.md "wikilink")，和[廚師](../Page/廚師.md "wikilink")**小松**一同在美食世界尋找珍奇美食的旅程。
 
@@ -2563,7 +2563,7 @@ WALKER(S)](https://zh.wikipedia.org/wiki/JUN_SKY_WALKER\(S\) "wikilink")
 <td><p>4</p></td>
 <td></td>
 <td><p>料理劇毒豚鯨! 四天王庫克登場!</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/植田秀仁" title="wikilink">植田秀仁</a></p></td>
+<td><p><a href="../Page/植田秀仁.md" title="wikilink">植田秀仁</a></p></td>
 <td><p>岡辰也、<a href="https://zh.wikipedia.org/wiki/山崎正和" title="wikilink">山崎正和</a></p></td>
 <td></td>
 <td></td>

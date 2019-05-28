@@ -52,7 +52,7 @@ Henry表示，在相同時脈下，Isaiah處理器的效能，是現時[C7處理
 在[PC
 Mark](https://zh.wikipedia.org/wiki/PC_Mark "wikilink")05這款測試軟體中，Nano的表現比[Intel
 Atom差](https://zh.wikipedia.org/wiki/Intel_Atom "wikilink")。但由於VIA
-Nano可以隨意更改[CPUID](https://zh.wikipedia.org/wiki/CPUID "wikilink")，使之模擬成Intel或者[AMD的CPU](https://zh.wikipedia.org/wiki/AMD "wikilink")。有網站將Nano模擬成成不同廠商的產品，當改變CPUID「變成」AMD的產品後，內存項目的子分數提高了9.1％。而CPUID更改為Intel後，更高了47.5％，超越了Intel
+Nano可以隨意更改[CPUID](../Page/CPUID.md "wikilink")，使之模擬成Intel或者[AMD的CPU](https://zh.wikipedia.org/wiki/AMD "wikilink")。有網站將Nano模擬成成不同廠商的產品，當改變CPUID「變成」AMD的產品後，內存項目的子分數提高了9.1％。而CPUID更改為Intel後，更高了47.5％，超越了Intel
 Atom處理器的得分。\[6\]
 
 ## 未來發展

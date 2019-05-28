@@ -708,7 +708,7 @@ Firefox 32.0正式版发布于2014年9月2日。 特性\[231\]
 Firefox 33.0正式版发布于2014年10月14日。 特性\[248\]
 
   - 支援
-    [OpenH264](https://zh.wikipedia.org/wiki/OpenH264 "wikilink")\[249\]（[沙箱模式](../Page/沙盒_\(電腦安全\).md "wikilink")）。
+    [OpenH264](../Page/OpenH264.md "wikilink")\[249\]（[沙箱模式](../Page/沙盒_\(電腦安全\).md "wikilink")）。
   - 改善網址列的搜尋使用體驗\[250\]。
   - 更加輕巧快速的 JavaScript 字串\[251\]。
   - Firefox 開始頁（about:home）和新分頁（about:newtab）開始支援搜尋建議功能。
@@ -933,7 +933,7 @@ Firefox 54.0正式版發布於2017年6月13日。 特性\[305\]
 
 Firefox 55.0正式版發布於2017年8月8日。 特性\[306\]
 
-  - 支持[WebVR](https://zh.wikipedia.org/wiki/WebVR "wikilink")。
+  - 支持[WebVR](../Page/WebVR.md "wikilink")。
 
 #### Firefox 56.0
 

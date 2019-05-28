@@ -1,4 +1,4 @@
-**SSSE3**是[Intel命名的](https://zh.wikipedia.org/wiki/Intel "wikilink")[SSE3指令集的擴充](../Page/SSE3.md "wikilink")，不使用新的號碼是因為SSSE3比較像是加強版的SSE3，以至於推出SSSE3之前，[SSE4的定義容易被混淆](https://zh.wikipedia.org/wiki/SSE4 "wikilink")。在公開Intel的Core微架構的時候，SSSE3出現在Xeon
+**SSSE3**是[Intel命名的](https://zh.wikipedia.org/wiki/Intel "wikilink")[SSE3指令集的擴充](../Page/SSE3.md "wikilink")，不使用新的號碼是因為SSSE3比較像是加強版的SSE3，以至於推出SSSE3之前，[SSE4的定義容易被混淆](../Page/SSE4.md "wikilink")。在公開Intel的Core微架構的時候，SSSE3出現在Xeon
 5100與Intel Core 2行動版與桌上型處理器上。
 
 SSSE3包含了16個新的不同於SSE3的指令。每一個都能夠運作於64位元的MMX暫存器或是128位元XMM暫存器之中。因此，有些Intel的文件表示有32個新指令。之前的SIMD指令由舊排到新依序是[MMX](../Page/MMX.md "wikilink")、[3DNow\!](../Page/3DNow!.md "wikilink")（AMD開發的）、[SSE](../Page/SSE.md "wikilink")、[3DNow\!
@@ -54,7 +54,7 @@ word）的簡寫），任取有號整數X，如果X小於-32768時就代表-3276
   - [SSE](https://zh.wikipedia.org/wiki/Streaming_SIMD_Extensions "wikilink")
   - [SSE2](../Page/SSE2.md "wikilink")
   - [SSE3](../Page/SSE3.md "wikilink")
-  - [SSE4](https://zh.wikipedia.org/wiki/SSE4 "wikilink")
+  - [SSE4](../Page/SSE4.md "wikilink")
   - [SSE4A](https://zh.wikipedia.org/wiki/SSE4A "wikilink")
   - [SSE5](https://zh.wikipedia.org/wiki/SSE5 "wikilink")
   - [AVX](https://zh.wikipedia.org/wiki/AVX指令集 "wikilink")

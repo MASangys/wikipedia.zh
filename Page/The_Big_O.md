@@ -390,7 +390,7 @@ ex Machina）的意思。
   - 製作人：指田英司（第1話 - 第13話）、内田健二（第14話 - 第26話）、大橋千恵雄（SUNRISE）、杉田敦（Bandai
     Visual）
   - 節目擔任：染宮淳子（[WOWOW](../Page/WOWOW.md "wikilink")）（第1話 - 第13話）
-  - 導演：[片山一良](https://zh.wikipedia.org/wiki/片山一良 "wikilink")
+  - 導演：[片山一良](../Page/片山一良.md "wikilink")
   - 製作：SUNRISE、Bandai Visual
   - 著作:（C）1999, 2003 SUNRISE INC.
 

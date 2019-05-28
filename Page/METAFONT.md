@@ -5,7 +5,7 @@ Metafont的特點之一是所有的字体都是用几何方程定义的，例如
 
 美國計算機科學家[高德纳](../Page/高德纳.md "wikilink")（Donald
 Knuth）於1977年著手字體製作軟件，並於1979年發佈的第一個版本`METAFONT`。由於原來語言的缺陷，高德纳於1984年開發一個全新的`METAFONT`系統。`METAFONT`有一個與的相似點
-，就是每一個更新版本都愈接近一個[數學常數](https://zh.wikipedia.org/wiki/數學常數 "wikilink")（每一個更新版本增加一個小數位，`METAFONT`趋近于[e](https://zh.wikipedia.org/wiki/e_\(數學常數\) "wikilink")，趋近于[π](https://zh.wikipedia.org/wiki/圓周率 "wikilink")）。
+，就是每一個更新版本都愈接近一個[數學常數](https://zh.wikipedia.org/wiki/數學常數 "wikilink")（每一個更新版本增加一個小數位，`METAFONT`趋近于[e](https://zh.wikipedia.org/wiki/e_\(數學常數\) "wikilink")，趋近于[π](../Page/圓周率.md "wikilink")）。
 
 ## 特点
 
@@ -18,7 +18,7 @@ Knuth）於1977年著手字體製作軟件，並於1979年發佈的第一個版�
 
 虽然一些著名的字体设计师如[Hermann
 Zapf已经与高德纳合作用](../Page/赫尔曼·察普夫.md "wikilink")`METAFONT`设计新字体（二者曾合作设计了[AMS
-Euler数学字体](https://zh.wikipedia.org/wiki/AMS_Euler "wikilink")），但这个系统并未在业界被广泛使用。高德纳认为这是由于“让一个艺术家变成一个能够理解如何通过60多个参数设计字体的数学家实在太困难”\[1\]。
+Euler数学字体](../Page/AMS_Euler.md "wikilink")），但这个系统并未在业界被广泛使用。高德纳认为这是由于“让一个艺术家变成一个能够理解如何通过60多个参数设计字体的数学家实在太困难”\[1\]。
 
 ## 例子
 

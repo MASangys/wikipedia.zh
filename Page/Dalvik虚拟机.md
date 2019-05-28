@@ -6,7 +6,7 @@ Bornstein编写的，名字来源于他的祖先曾经居住过的小渔村[達�
 
 從[Android
 5.0版起](https://zh.wikipedia.org/wiki/Android_5.0 "wikilink")，[Android
-Runtime](https://zh.wikipedia.org/wiki/Android_Runtime "wikilink")（ART）取代Dalvik成為系統內預設虛擬機。
+Runtime](../Page/Android_Runtime.md "wikilink")（ART）取代Dalvik成為系統內預設虛擬機。
 
 ## 架構
 

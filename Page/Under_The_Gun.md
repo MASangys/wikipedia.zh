@@ -33,8 +33,7 @@ Terri Nunn也有參與歌曲和聲。Ian Stanley則是負責幫忙製作。
 
 ## 電視演出
 
-  - [Top of the
-    Pops](https://zh.wikipedia.org/wiki/Top_of_the_Pops "wikilink")（1993）
+  - [Top of the Pops](../Page/Top_of_the_Pops.md "wikilink")（1993）
   - Music Video
 
 ## 參考

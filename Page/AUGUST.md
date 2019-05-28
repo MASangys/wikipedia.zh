@@ -20,13 +20,12 @@ Brand](https://zh.wikipedia.org/wiki/Partner_Brand "wikilink")。在網路上常
 
 ### AUGUST
 
-  - 2002年2月22日－《[Binary
-    Pot](https://zh.wikipedia.org/wiki/Binary_Pot "wikilink")》（）
+  - 2002年2月22日－《[Binary Pot](../Page/Binary_Pot.md "wikilink")》（）
   - 2002年9月27日－《[Princess
     Holiday](../Page/Princess_Holiday.md "wikilink")》（）
   - 2003年9月26日－《[月東日西](../Page/月東日西.md "wikilink")》（）
   - 2004年8月27日－《[AUGUST FAN
-    BOX](https://zh.wikipedia.org/wiki/AUGUST_FAN_BOX "wikilink")》（）
+    BOX](../Page/AUGUST_FAN_BOX.md "wikilink")》（）
   - 2005年9月22日－《[夜明前的琉璃色](../Page/夜明前的琉璃色.md "wikilink")》（）
   - 2008年1月25日－《[FORTUNE
     ARTERIAL](../Page/FORTUNE_ARTERIAL.md "wikilink")》（）
@@ -54,7 +53,7 @@ Brand](https://zh.wikipedia.org/wiki/Partner_Brand "wikilink")。在網路上常
   - 2017年12月21日 -
     《[千之刃濤、桃花染之皇姬](https://zh.wikipedia.org/wiki/千之刃濤、桃花染之皇姬 "wikilink")》（）（[PS4](https://zh.wikipedia.org/wiki/PS4 "wikilink")/PSV）
   - 2018年7月26日 - 《[大圖書館的牧羊人 -Library
-    Party-](../Page/大圖書館的牧羊人.md "wikilink")》（）（[任天堂Switch](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")）
+    Party-](../Page/大圖書館的牧羊人.md "wikilink")》（）（[任天堂Switch](../Page/任天堂Switch.md "wikilink")）
 
 ## 主要員工
 

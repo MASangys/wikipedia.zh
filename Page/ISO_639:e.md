@@ -118,7 +118,7 @@
 | evh                 |           |           | EVH | Uvbie                      |                                                                                                       |
 | evn                 |           |           | EVN | Evenki                     | [鄂溫克語](https://zh.wikipedia.org/wiki/鄂溫克語 "wikilink")                                                 |
 | ewe                 | ewe       | ee        | EWE | Ewe                        | [埃維語](https://zh.wikipedia.org/wiki/埃維語 "wikilink")、[幽語](https://zh.wikipedia.org/wiki/幽語 "wikilink") |
-| ewo                 | ewo       |           | EWO | Ewondo                     | [埃翁多語](https://zh.wikipedia.org/wiki/埃翁多語 "wikilink")                                                 |
+| ewo                 | ewo       |           | EWO | Ewondo                     | [埃翁多語](../Page/埃翁多語.md "wikilink")                                                                    |
 | ext                 |           |           | EXT | Extremaduran               | [埃斯特雷馬杜拉語](../Page/埃斯特雷馬杜拉語.md "wikilink")                                                            |
 | eya                 |           |           | EYA | Eyak                       |                                                                                                       |
 | eyo                 |           |           |     | Keiyo                      |                                                                                                       |

@@ -18,7 +18,7 @@ music）是一种[电子舞曲的类型](../Page/電子舞曲.md "wikilink")，�
 
 Trance首次作为一个术语是出现在[爵士乐当中](../Page/爵士乐.md "wikilink")，例如Lou Gold & His
 Orchestra - Dancing In A Trance (1930) \[7\]及Korla Pandit - Trance Dance
-(1954)\[8\]。这时期仅仅表达的是一种音乐感觉，阐述作品能够带给人出神的感觉。Trance作为[电子音乐家族的一员](../Page/電子音樂.md "wikilink")，离不开[电子乐器与](https://zh.wikipedia.org/wiki/電子樂器 "wikilink")[合成器的出现](../Page/合成器.md "wikilink")，这些新技术的出现也离不开像、和等音乐先驱的基础工作。对这些前卫声音技术的使用，营造了早期电子音乐例如[合成器流行](../Page/合成器流行.md "wikilink")、[电子流行的创造条件](https://zh.wikipedia.org/wiki/電子流行 "wikilink")，这才有了后来的电子舞曲并延伸至Trance音乐，电子乐器作品Pop
+(1954)\[8\]。这时期仅仅表达的是一种音乐感觉，阐述作品能够带给人出神的感觉。Trance作为[电子音乐家族的一员](../Page/電子音樂.md "wikilink")，离不开[电子乐器与](https://zh.wikipedia.org/wiki/電子樂器 "wikilink")[合成器的出现](../Page/合成器.md "wikilink")，这些新技术的出现也离不开像、和等音乐先驱的基础工作。对这些前卫声音技术的使用，营造了早期电子音乐例如[合成器流行](../Page/合成器流行.md "wikilink")、[电子流行的创造条件](../Page/電子流行.md "wikilink")，这才有了后来的电子舞曲并延伸至Trance音乐，电子乐器作品Pop
 Corn(1969)就可以算得上是早期的合成器流行。
 
 <small>第一批电子乐曲的例子：</small>
@@ -149,10 +149,10 @@ Buuren几乎影响了在其之后所有](../Page/阿明·范·比伦.md "wikilin
 2002年，Tiesto被英国杂志[DJ
 MAG的读者评选为](https://zh.wikipedia.org/wiki/DJ_Magazine "wikilink")[世界上最好的DJ](../Page/DJ雜誌.md "wikilink")，并在接下来的几年延续了这一头衔\[26\]。2003年，他参加了Tiesto
 in
-Concert，在[阿姆斯特丹的GelreDome首次以DJ个人秀的形式独自面对](../Page/阿姆斯特丹.md "wikilink")25,000名观众\[27\]。并在2004年的8月13日参加了[2004雅典夏季奥运会](https://zh.wikipedia.org/wiki/2004年夏季奥林匹克运动会 "wikilink")\[28\]，成为了首个在奥运会舞台进行表演的DJ，并在现场、电视、电台三种渠道下为至少数百万观众表演Trance音乐\[29\]，这个纪录可能持续到了今天。同样在2004年，荷兰女王[贝娅特丽克丝为他在舞曲届的成就授予了Tiesto军官级别的](../Page/贝娅特丽克丝_\(荷兰\).md "wikilink")[奧蘭治-拿騷官佐勳章](https://zh.wikipedia.org/wiki/奧蘭治-拿騷勳章 "wikilink")\[30\]，这一荣誉类似德国联邦十字勋章。同年赢了BBC
+Concert，在[阿姆斯特丹的GelreDome首次以DJ个人秀的形式独自面对](../Page/阿姆斯特丹.md "wikilink")25,000名观众\[27\]。并在2004年的8月13日参加了[2004雅典夏季奥运会](https://zh.wikipedia.org/wiki/2004年夏季奥林匹克运动会 "wikilink")\[28\]，成为了首个在奥运会舞台进行表演的DJ，并在现场、电视、电台三种渠道下为至少数百万观众表演Trance音乐\[29\]，这个纪录可能持续到了今天。同样在2004年，荷兰女王[贝娅特丽克丝为他在舞曲届的成就授予了Tiesto军官级别的](../Page/贝娅特丽克丝_\(荷兰\).md "wikilink")[奧蘭治-拿騷官佐勳章](../Page/奧蘭治-拿騷勳章.md "wikilink")\[30\]，这一荣誉类似德国联邦十字勋章。同年赢了BBC
 Radio 1 年度最佳混音奖。
 
-受欢迎的程度，也体现在诸多的音乐节中，在现在规模最大的三个电音节品牌([TML](https://zh.wikipedia.org/wiki/明日世界電子音樂節 "wikilink")、[UMF](../Page/超世代音乐节.md "wikilink")、)在2000-20012年之间以及Nature
+受欢迎的程度，也体现在诸多的音乐节中，在现在规模最大的三个电音节品牌([TML](../Page/明日世界電子音樂節.md "wikilink")、[UMF](../Page/超世代音乐节.md "wikilink")、)在2000-20012年之间以及Nature
 one、Mayday或Trance
 Energy等诸多电音节品牌几乎都以Trance音乐人作为头牌艺人进行推广，Trance音乐在相当长的时间里成为了最受欢迎的电子音乐类型。
 
@@ -183,7 +183,7 @@ Garrix等取代](../Page/馬汀·蓋瑞克斯.md "wikilink")\[33\]，这某种�
 许多著名的Trance DJ/制作人开始转向Bigroom
 House，诸如Arty、[W\&W](https://zh.wikipedia.org/wiki/W&W "wikilink")、[Dash
 Berlin](../Page/達許柏林.md "wikilink")、[Sander van
-Doorn以及最重要的](https://zh.wikipedia.org/wiki/杉德凡朵 "wikilink")[Tiesto](../Page/提雅斯多.md "wikilink")，像[Armin
+Doorn以及最重要的](../Page/杉德凡朵.md "wikilink")[Tiesto](../Page/提雅斯多.md "wikilink")，像[Armin
 van Buuren和Ferry](../Page/阿明·范·比伦.md "wikilink")
 Corsten也有小幅度的转向。相比之下，现在仍在坚持Trance的Aly
 & Fila、 John O'Callaghan以及The Thrillseekers等人成为了探索新时代Trance的先驱。

@@ -9,9 +9,9 @@ DEEN的前身是[日昇動畫內部專門負責上色的工作室](../Page/日�
 DEEN**（<small></small>，以下用DEEN簡稱）｣。
 
 1982年，STUDIO
-DEEN首度嘗試動畫的統包製作。當初，DEEN主要負責[SHIN-EI動畫作品](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")《[哆啦A夢](https://zh.wikipedia.org/wiki/哆啦A夢_\(1979年電視動畫\) "wikilink")》和《》的協力製作。1984年4月之後，《[福星小子](../Page/福星小子.md "wikilink")》的總承包商從小丑工作室（今[Studio
+DEEN首度嘗試動畫的統包製作。當初，DEEN主要負責[SHIN-EI動畫作品](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")《[哆啦A夢](../Page/哆啦A夢_\(1979年電視動畫\).md "wikilink")》和《》的協力製作。1984年4月之後，《[福星小子](../Page/福星小子.md "wikilink")》的總承包商從小丑工作室（今[Studio
 Pierrot](../Page/Studio_Pierrot.md "wikilink")）轉換成DEEN負責。至1990年代前半，DEEN承包了《[相聚一刻](../Page/相聚一刻.md "wikilink")》、《》、《[亂馬½](https://zh.wikipedia.org/wiki/亂馬½ "wikilink")》、《》等等電影公司[Kitty
-film作品的動畫實質製作](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")。
+film作品的動畫實質製作](../Page/Kitty_film.md "wikilink")。
 
 1994年4月登記變更成為**株式會社**。2005年，迎接STUDIO
 DEEN公司創立30周年，隔年1月將總部從[東京都](../Page/東京都.md "wikilink")[杉並區搬遷至東京都](../Page/杉並區.md "wikilink")[武藏野市](../Page/武藏野市.md "wikilink")\[4\]。
@@ -20,7 +20,7 @@ DEEN公司創立30周年，隔年1月將總部從[東京都](../Page/東京都.m
 DEEN社長，轉任Ima Group的顧問。
 
 STUDIO DEEN也有專屬的攝影部門與3DCG製作部門，而且還有替部門取名字。攝影部門取名叫做「組\[6\]」，但在製作《[莉露莉露妖精
-～妖精之門～](https://zh.wikipedia.org/wiki/莉露莉露妖精 "wikilink")》（2016年）開始改用「DEEN
+～妖精之門～](../Page/莉露莉露妖精.md "wikilink")》（2016年）開始改用「DEEN
 digital」。而3DCG製作部門（2004年開設）取名叫做「[海鳥](https://zh.wikipedia.org/wiki/海鳥 "wikilink")（<small></small>）」。
 
 國外方面，STUDIO
@@ -33,7 +33,7 @@ DEEN另外還有事角色製作和授權管理，並專注於自家開發的內�
 Project」企劃的名義進行[VOCALOID3角色蒼姬琉璃與Merli](../Page/VOCALOID.md "wikilink")，以及「[Project
 Yumenikki](../Page/夢日記.md "wikilink")」的媒體混合展開。還有與中國跨國共同企劃製作播映的電視動畫《[靈劍山](https://zh.wikipedia.org/wiki/從前有座靈劍山#電視動畫 "wikilink")》，並負責在國內出周邊商品與相關的授權管理\[7\]。
 
-此外。代表作品方面，有[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[高橋留美子的](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")《福星小子》、《相聚一刻》、《亂馬½》，和漫畫改編後來延伸成電視、電影動畫系列的《[逮捕令](https://zh.wikipedia.org/wiki/逮捕令_\(動畫\) "wikilink")》、《[浪客劍心](https://zh.wikipedia.org/wiki/浪客劍心 "wikilink")》、《[今日大魔王](https://zh.wikipedia.org/wiki/魔之系列#電視動畫 "wikilink")》、《[地獄少女](https://zh.wikipedia.org/wiki/地獄少女 "wikilink")》及《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》。主要資深動畫師方面，有福星小子開始擔任[導演的](https://zh.wikipedia.org/wiki/導演 "wikilink")[押井守](../Page/押井守.md "wikilink")，和作畫指導起家、並包辦了亂馬½、浪客劍心、[閃靈二人組的演出家](https://zh.wikipedia.org/wiki/閃靈二人組 "wikilink")[古橋一浩和擔任](../Page/古橋一浩.md "wikilink")[原畫及](https://zh.wikipedia.org/wiki/原畫師 "wikilink")[人物設計的](../Page/人物設計.md "wikilink")[中嶋敦子](../Page/中嶋敦子.md "wikilink")，皆出身自STUDIO
+此外。代表作品方面，有[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[高橋留美子的](https://zh.wikipedia.org/wiki/高橋留美子 "wikilink")《福星小子》、《相聚一刻》、《亂馬½》，和漫畫改編後來延伸成電視、電影動畫系列的《[逮捕令](../Page/逮捕令_\(動畫\).md "wikilink")》、《[浪客劍心](https://zh.wikipedia.org/wiki/浪客劍心 "wikilink")》、《[今日大魔王](https://zh.wikipedia.org/wiki/魔之系列#電視動畫 "wikilink")》、《[地獄少女](https://zh.wikipedia.org/wiki/地獄少女 "wikilink")》及《[暮蟬悲鳴時](../Page/暮蟬悲鳴時.md "wikilink")》。主要資深動畫師方面，有福星小子開始擔任[導演的](https://zh.wikipedia.org/wiki/導演 "wikilink")[押井守](../Page/押井守.md "wikilink")，和作畫指導起家、並包辦了亂馬½、浪客劍心、[閃靈二人組的演出家](https://zh.wikipedia.org/wiki/閃靈二人組 "wikilink")[古橋一浩和擔任](../Page/古橋一浩.md "wikilink")[原畫及](https://zh.wikipedia.org/wiki/原畫師 "wikilink")[人物設計的](../Page/人物設計.md "wikilink")[中嶋敦子](../Page/中嶋敦子.md "wikilink")，皆出身自STUDIO
 DEEN。
 
 ## 作品列表
@@ -250,7 +250,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/封神演義_(漫畫)" title="wikilink">仙界傳 封神演義</a></p></td>
+<td><p><a href="../Page/封神演義_(漫畫).md" title="wikilink">仙界傳 封神演義</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -508,7 +508,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/極樂天師" title="wikilink">極樂天師</a></p></td>
+<td><p><a href="../Page/極樂天師.md" title="wikilink">極樂天師</a></p></td>
 <td><p>{{lang|ja|あまえないでよっ</p></td>
 <td><p>}}</p></td>
 <td></td>
@@ -925,7 +925,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/眼鏡部！" title="wikilink">眼鏡部！</a></p></td>
+<td><p><a href="../Page/眼鏡部！.md" title="wikilink">眼鏡部！</a></p></td>
 <td></td>
 <td><p>|原創</p></td>
 <td></td>
@@ -1185,13 +1185,13 @@ DEEN。
 <td><p><a href="../Page/鬼燈的冷徹.md" title="wikilink">鬼燈的冷徹 第貳期</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
-<td><p>第1期原由<a href="https://zh.wikipedia.org/wiki/WIT_STUDIO" title="wikilink">WIT STUDIO製作</a>。</p></td>
+<td><p>第1期原由<a href="../Page/WIT_STUDIO.md" title="wikilink">WIT STUDIO製作</a>。</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/伊藤潤二驚選集" title="wikilink">伊藤潤二驚選集</a></p></td>
+<td><p><a href="../Page/伊藤潤二驚選集.md" title="wikilink">伊藤潤二驚選集</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1206,7 +1206,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/錢進球場" title="wikilink">錢進球場 (第1～2期)</a></p></td>
+<td><p><a href="../Page/錢進球場.md" title="wikilink">錢進球場 (第1～2期)</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td></td>
@@ -1214,7 +1214,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/音樂少女" title="wikilink">音樂少女</a></p></td>
+<td><p><a href="../Page/音樂少女.md" title="wikilink">音樂少女</a></p></td>
 <td></td>
 <td><p>原創</p></td>
 <td></td>
@@ -1286,7 +1286,7 @@ DEEN。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/七大罪_(漫畫)" title="wikilink">七大罪 諸神的逆鱗</a></p></td>
+<td><p><a href="../Page/七大罪_(漫畫).md" title="wikilink">七大罪 諸神的逆鱗</a></p></td>
 <td></td>
 <td><p>漫畫</p></td>
 <td><p>第1～2期原由<a href="../Page/A-1_Pictures.md" title="wikilink">A-1 Pictures製作</a>。</p></td>
@@ -1663,7 +1663,7 @@ DEEN。
 <tr class="odd">
 <td><p>1979年</p></td>
 <td><p>2005年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/哆啦A夢_(1979年電視動畫)" title="wikilink">哆啦A夢 (1979年版)</a></p></td>
+<td><p><a href="../Page/哆啦A夢_(1979年電視動畫).md" title="wikilink">哆啦A夢 (1979年版)</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SHIN-EI動畫" title="wikilink">SHIN-EI動畫</a></p></td>
 <td><p>漫畫</p></td>
@@ -2012,7 +2012,7 @@ DEEN。
 <tbody>
 <tr class="odd">
 <td><p>1992年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/偵探物語" title="wikilink">偵探物語 ～殺意的領域～</a></p></td>
+<td><p><a href="../Page/偵探物語.md" title="wikilink">偵探物語 ～殺意的領域～</a></p></td>
 <td></td>
 <td><p><a href="../Page/安利美特.md" title="wikilink">animate</a></p></td>
 <td><p>漫畫</p></td>
@@ -2299,7 +2299,7 @@ DEEN。
 
   - 岡戶智凱
 
-  - [岡真里子](https://zh.wikipedia.org/wiki/岡真里子 "wikilink")
+  - [岡真里子](../Page/岡真里子.md "wikilink")
 
   - 奧田泰弘
 
@@ -2363,9 +2363,9 @@ DEEN。
 
   - 鮑伯白旗
   - [元永慶太郎](../Page/元永慶太郎.md "wikilink")
-  - [柳澤哲也](https://zh.wikipedia.org/wiki/柳澤哲也 "wikilink")
+  - [柳澤哲也](../Page/柳澤哲也.md "wikilink")
   - 吉田俊司
-  - [渡邊浩](https://zh.wikipedia.org/wiki/渡邊浩 "wikilink")
+  - [渡邊浩](../Page/渡邊浩.md "wikilink")
   - [押井守](../Page/押井守.md "wikilink")
 
 </div>

@@ -79,15 +79,13 @@ Dart巴士，配備[歐盟五型至六型之間排放標準](https://zh.wikipedi
   - [飛鏢SLF](../Page/丹尼士飛鏢巴士.md "wikilink")
   - [三叉戟二型](../Page/丹尼士三叉戟二型.md "wikilink")
   - [Enviro 200](../Page/亞歷山大丹尼士Enviro_200.md "wikilink")
-  - [Enviro 200
-    MMC](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_200_MMC "wikilink")
+  - [Enviro 200 MMC](../Page/亞歷山大丹尼士Enviro_200_MMC.md "wikilink")
   - [Enviro 300](../Page/亞歷山大丹尼士Enviro_300.md "wikilink")
   - [Enviro
     350H](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_350H "wikilink")
   - [Enviro 400](../Page/亞歷山大丹尼士Enviro_400.md "wikilink")
   - [Enviro 500](../Page/亞歷山大丹尼士Enviro_500.md "wikilink")
-  - [Enviro 500
-    MMC](https://zh.wikipedia.org/wiki/亞歷山大丹尼士Enviro_500_MMC "wikilink")
+  - [Enviro 500 MMC](../Page/亞歷山大丹尼士Enviro_500_MMC.md "wikilink")
 
 ## 外部連結
 

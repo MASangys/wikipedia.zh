@@ -3,7 +3,7 @@ G」或「[GTV](https://zh.wikipedia.org/wiki/GTV "wikilink")」（[台標顯示
 
 ## 概要
 
-身為NHK在[電視廣播業務的旗艦頻道](https://zh.wikipedia.org/wiki/電視廣播 "wikilink")，NHK綜合頻道在節目類型的構成上較為[多元](https://zh.wikipedia.org/wiki/綜合頻道 "wikilink")，包含新聞、戲劇、綜藝、教養等類型；NHK的[晨間劇](../Page/連續電視小說.md "wikilink")、[大河劇](../Page/NHK大河劇.md "wikilink")、[紅白歌合戰等著名節目](../Page/NHK红白歌合战.md "wikilink")，均在此頻道播出。在[震度](https://zh.wikipedia.org/wiki/日本气象厅烈度阶级 "wikilink")6弱以上的[地震發生時和](../Page/地震.md "wikilink")[颱風接近大](../Page/颱風.md "wikilink")[城市群](https://zh.wikipedia.org/wiki/城市群 "wikilink")（特別是[首都圈](../Page/首都圈_\(日本\).md "wikilink")）時，會播出新聞速报。
+身為NHK在[電視廣播業務的旗艦頻道](https://zh.wikipedia.org/wiki/電視廣播 "wikilink")，NHK綜合頻道在節目類型的構成上較為[多元](../Page/綜合頻道.md "wikilink")，包含新聞、戲劇、綜藝、教養等類型；NHK的[晨間劇](../Page/連續電視小說.md "wikilink")、[大河劇](../Page/NHK大河劇.md "wikilink")、[紅白歌合戰等著名節目](../Page/NHK红白歌合战.md "wikilink")，均在此頻道播出。在[震度](https://zh.wikipedia.org/wiki/日本气象厅烈度阶级 "wikilink")6弱以上的[地震發生時和](../Page/地震.md "wikilink")[颱風接近大](../Page/颱風.md "wikilink")[城市群](https://zh.wikipedia.org/wiki/城市群 "wikilink")（特別是[首都圈](../Page/首都圈_\(日本\).md "wikilink")）時，會播出新聞速报。
 
 在[日本報紙的電視節目](https://zh.wikipedia.org/wiki/日本報紙 "wikilink")-{表}-上，通常以「NHK電視台」（）[指稱NHK綜合頻道](https://zh.wikipedia.org/wiki/指稱 "wikilink")；《[產經新聞](../Page/產經新聞.md "wikilink")》（部分地區）、《[京都新聞](https://zh.wikipedia.org/wiki/京都新聞 "wikilink")》、《[赤旗報](../Page/赤旗報.md "wikilink")》、《[聖教新聞](../Page/聖教新聞.md "wikilink")》等報紙以「NHK綜合」（）稱之，《[北海道新聞](https://zh.wikipedia.org/wiki/北海道新聞 "wikilink")》、《[神戶新聞](https://zh.wikipedia.org/wiki/神戶新聞 "wikilink")》等報紙則直接以「NHK」稱之。
 

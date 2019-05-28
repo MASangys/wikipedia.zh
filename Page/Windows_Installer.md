@@ -99,7 +99,7 @@ Windows Server 2008[3]</p></td>
 <td><p>5.0</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">Windows 7</a> RTM<br />
 <a href="../Page/Windows_Server_2008_R2.md" title="wikilink">Windows Server 2008 R2</a> RTM<br />
-<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">Windows 8</a> RTM <a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Winodws 10</a><br />
+<a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">Windows 8</a> RTM <a href="../Page/Windows_10.md" title="wikilink">Winodws 10</a><br />
 </p></td>
 <td></td>
 </tr>

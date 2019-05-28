@@ -42,9 +42,8 @@ Countdown統計2013年全球市佔率已逐步下降到6.7%以下）\[3\]。
 Firefox及](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Google
 Chrome等瀏覽器的出現](../Page/Google_Chrome.md "wikilink")，也是促使大家更急於丟棄IE6的原因之一。
 
-2006年5月，[PC
-World將Internet](https://zh.wikipedia.org/wiki/PC_World "wikilink")
-Explorer 6評選為有史以來最差的科技產品\[4\]。2011年4月，Complex雜誌評選為科技史上最糟糕產品之一\[5\]。
+2006年5月，[PC World將Internet](../Page/PC_World.md "wikilink") Explorer
+6評選為有史以來最差的科技產品\[4\]。2011年4月，Complex雜誌評選為科技史上最糟糕產品之一\[5\]。
 
 2010年，網路巨擘[Google開始逐步減少支援Internet](../Page/Google.md "wikilink")
 Explorer

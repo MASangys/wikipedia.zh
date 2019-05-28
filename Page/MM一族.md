@@ -1,4 +1,4 @@
-《**MM一族**》（），是[松野秋鳴的](https://zh.wikipedia.org/wiki/松野秋鳴 "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，插畫家是[QP:flapper](https://zh.wikipedia.org/wiki/QP:flapper "wikilink")（），由[MF文庫J出版](../Page/MF文庫J.md "wikilink")，並改編成同名電視動畫。
+《**MM一族**》（），是[松野秋鳴的](https://zh.wikipedia.org/wiki/松野秋鳴 "wikilink")[輕小說作品](../Page/輕小說.md "wikilink")，插畫家是[QP:flapper](../Page/QP:flapper.md "wikilink")（），由[MF文庫J出版](../Page/MF文庫J.md "wikilink")，並改編成同名電視動畫。
 
 2011年4月26日，Media Factory公告作者松野秋鳴於4月18日突然逝世，死因未說明，是否找其他人代筆仍不明\[1\]。
 
@@ -387,7 +387,7 @@ day](https://zh.wikipedia.org/wiki/MM一族_角色CD#美緒様CD "wikilink")」�
 <td></td>
 <td><p>天才少女的暴走</p></td>
 <td><p>丸川直子</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小寺勝之" title="wikilink">小寺勝之</a></p></td>
+<td><p><a href="../Page/小寺勝之.md" title="wikilink">小寺勝之</a></p></td>
 <td><p>橋口洋介</p></td>
 <td><p>清水勝祐</p></td>
 <td><p>泷山真哲<br />
@@ -463,7 +463,7 @@ day](https://zh.wikipedia.org/wiki/MM一族_角色CD#美緒様CD "wikilink")」�
 <td><p>第11話</p></td>
 <td></td>
 <td><p>失去的记忆</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小寺勝之" title="wikilink">小寺勝之</a></p></td>
+<td><p><a href="../Page/小寺勝之.md" title="wikilink">小寺勝之</a></p></td>
 <td><p>近藤一英</p></td>
 <td><p>小宮山由美子<br />
 河玄鳥<br />

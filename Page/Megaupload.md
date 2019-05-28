@@ -14,7 +14,7 @@ Dotcom，為德國、芬蘭雙重國籍）和其他三名高層在紐西蘭被�
 
 2013年1月19日，創始人金·達康在推特上表示，新的MegaUpload將會上線起用，伺服器也都就緒。據他所說，有很多投資者對MegaUpload非常有興趣。
 
-2013年1月20日，新版MegaUpload於紐西蘭正式上線，名為[MEGA](https://zh.wikipedia.org/wiki/MEGA "wikilink")。\[1\]
+2013年1月20日，新版MegaUpload於紐西蘭正式上線，名為[MEGA](../Page/MEGA.md "wikilink")。\[1\]
 
 2015年7月31日，創始人[金·達康在推特上表示](../Page/金·達康.md "wikilink")，Mega已經被在[中國因詐欺罪被通緝的投資者闫永明](../Page/中國.md "wikilink")\[2\]惡意收購，他已經不再參與Mega，不具有Mega的股東或管理能力，不要相信Mega，他會再創造一個與Mega競爭的免費空間。\[3\]\[4\]\[5\]
 

@@ -118,34 +118,34 @@ LineData =
 
 ### 電視劇
 
-|                                                               |                                                                           |                                                                                   |                                                     |      |                    |     |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------- | ---- | ------------------ | --- |
-| 年份                                                            | 電視台                                                                       | 劇名                                                                                | 參演成員                                                | 角色   | 性質                 | 集數  |
-| 2002年                                                         | [KBS](../Page/韓國放送公社.md "wikilink")                                       | 《[魔法兒童MASURI](https://zh.wikipedia.org/wiki/魔法兒童MASURI "wikilink")》               | 李洪基                                                 | 智勛   | 配角                 |     |
-| 2004年                                                         | [EBS](https://zh.wikipedia.org/wiki/EBS "wikilink")                       | 《[勇敢的女孩](https://zh.wikipedia.org/wiki/勇敢的女孩 "wikilink")》                         |                                                     |      |                    |     |
-| 《[指甲邊上有光](https://zh.wikipedia.org/wiki/指甲邊上有光 "wikilink")》   |                                                                           |                                                                                   |                                                     |      |                    |     |
-| 《[冬日孩子](https://zh.wikipedia.org/wiki/冬日孩子 "wikilink")》       |                                                                           |                                                                                   |                                                     |      |                    |     |
-| 2007年                                                         | KBS                                                                       | 《[無法阻擋的婚姻](https://zh.wikipedia.org/wiki/無法阻擋的婚姻 "wikilink")》                     | 李在真                                                 | 王四百  | （FTISLAND全體客串）EP62 |     |
-| 2009年                                                         | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                   | 《[On Air](../Page/On_Air.md "wikilink")》                                          | 全體                                                  |      | 客串                 | EP1 |
-| 《[我的老闆是惡魔](https://zh.wikipedia.org/wiki/我的老闆是惡魔 "wikilink")》 |                                                                           | EP6                                                                               |                                                     |      |                    |     |
-| KBS                                                           | 《[幸福的背後](../Page/回家的路_\(2009年電視劇\).md "wikilink")》                        | 崔敏煥                                                                               |                                                     | 配角   | 全集                 |     |
-| SBS                                                           | 《[原來是美男](../Page/原來是美男_\(韓國電視劇\).md "wikilink")》                          | 李洪基                                                                               | Jeremy                                              | 主演   |                    |     |
-| 2010年                                                         | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")               | 《[越看越可愛](../Page/越看越可愛.md "wikilink")》                                            |                                                     | 客串   | EP111              |     |
-| SBS                                                           | 《[我女友是九尾狐](https://zh.wikipedia.org/wiki/我女友是九尾狐 "wikilink")》             | Jeremy                                                                            | EP16                                                |      |                    |     |
-| 2011年                                                         | [MBS](../Page/每日放送.md "wikilink")/[TBS](../Page/TBS電視台.md "wikilink")     | 《[肌肉女孩](../Page/肌肉女孩.md "wikilink")》                                              | 柳智浩                                                 | 主角   | 全集                 |     |
-| KBS                                                           | 《[紀子，去首爾吧](https://zh.wikipedia.org/wiki/紀子，去首爾吧 "wikilink")》             | 金敏赫                                                                               |                                                     |      |                    |     |
-| 2014年                                                         | [TV朝鮮](../Page/TV朝鮮.md "wikilink")                                        | 《[百年新娘](https://zh.wikipedia.org/wiki/百年新娘 "wikilink")》                           | 崔江州                                                 |      |                    |     |
-| SBS                                                           | 《[Modern Farmer](https://zh.wikipedia.org/wiki/Modern_Farmer "wikilink")》 | 李敏基                                                                               |                                                     |      |                    |     |
-| 2015年                                                         | KBS                                                                       | 《[皇太子的王子](../Page/皇太子的王子_\(電視劇\).md "wikilink")》                                  | 崔鍾訓                                                 | 朴時賢  | 主角                 |     |
-| 網路劇                                                           | 《[馬屁精](https://zh.wikipedia.org/wiki/馬屁精_\(電視劇\) "wikilink")》             | 李在真                                                                               |                                                     |      |                    |     |
-| JTBC                                                          | 《[英雄們](https://zh.wikipedia.org/wiki/英雄們 "wikilink")》                     | 崔鍾訓                                                                               | 崔熙烈                                                 | 主角   |                    |     |
-| 2016年                                                         | Naver TVcast                                                              | 《[檢察官愛麗絲2](https://zh.wikipedia.org/wiki/檢察官愛麗絲2 "wikilink")》                     | 宋承炫                                                 | 馬正秀  |                    |     |
-| 《[88號街](https://zh.wikipedia.org/wiki/88號街 "wikilink")》       | 崔鍾訓                                                                       | Marco                                                                             | 主角                                                  |      |                    |     |
-| 《[又甜又辣](https://zh.wikipedia.org/wiki/又甜又辣 "wikilink")》       | 崔敏煥                                                                       | 民俊                                                                                |                                                     |      |                    |     |
-| 2017年                                                         | [Netflix](../Page/Netflix.md "wikilink")                                  | 《[My Only Love Song](https://zh.wikipedia.org/wiki/My_Only_Love_Song "wikilink")》 | 李在真                                                 | 卞三龍  |                    |     |
-| SBS                                                           | 《[姐姐風采依舊](https://zh.wikipedia.org/wiki/姐姐風采依舊 "wikilink")》               | 羅濟東                                                                               | 配角                                                  |      |                    |     |
-| tvN                                                           | 《[花遊記](https://zh.wikipedia.org/wiki/花遊記 "wikilink")》                     | 李洪基                                                                               | [豬八戒](https://zh.wikipedia.org/wiki/豬八戒 "wikilink") | 主要角色 |                    |     |
-| 2018年                                                         | [MBN](https://zh.wikipedia.org/wiki/每日廣播 "wikilink")                      | 《[Rich Man](https://zh.wikipedia.org/wiki/Rich_Man "wikilink")》                   | 李在真                                                 | 姜燦秀  | 配角                 |     |
+|                                                               |                                                                           |                                                                     |                                                     |      |                    |     |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------- | ---- | ------------------ | --- |
+| 年份                                                            | 電視台                                                                       | 劇名                                                                  | 參演成員                                                | 角色   | 性質                 | 集數  |
+| 2002年                                                         | [KBS](../Page/韓國放送公社.md "wikilink")                                       | 《[魔法兒童MASURI](https://zh.wikipedia.org/wiki/魔法兒童MASURI "wikilink")》 | 李洪基                                                 | 智勛   | 配角                 |     |
+| 2004年                                                         | [EBS](https://zh.wikipedia.org/wiki/EBS "wikilink")                       | 《[勇敢的女孩](https://zh.wikipedia.org/wiki/勇敢的女孩 "wikilink")》           |                                                     |      |                    |     |
+| 《[指甲邊上有光](https://zh.wikipedia.org/wiki/指甲邊上有光 "wikilink")》   |                                                                           |                                                                     |                                                     |      |                    |     |
+| 《[冬日孩子](https://zh.wikipedia.org/wiki/冬日孩子 "wikilink")》       |                                                                           |                                                                     |                                                     |      |                    |     |
+| 2007年                                                         | KBS                                                                       | 《[無法阻擋的婚姻](https://zh.wikipedia.org/wiki/無法阻擋的婚姻 "wikilink")》       | 李在真                                                 | 王四百  | （FTISLAND全體客串）EP62 |     |
+| 2009年                                                         | [SBS](../Page/SBS_\(韓國\).md "wikilink")                                   | 《[On Air](../Page/On_Air.md "wikilink")》                            | 全體                                                  |      | 客串                 | EP1 |
+| 《[我的老闆是惡魔](https://zh.wikipedia.org/wiki/我的老闆是惡魔 "wikilink")》 |                                                                           | EP6                                                                 |                                                     |      |                    |     |
+| KBS                                                           | 《[幸福的背後](../Page/回家的路_\(2009年電視劇\).md "wikilink")》                        | 崔敏煥                                                                 |                                                     | 配角   | 全集                 |     |
+| SBS                                                           | 《[原來是美男](../Page/原來是美男_\(韓國電視劇\).md "wikilink")》                          | 李洪基                                                                 | Jeremy                                              | 主演   |                    |     |
+| 2010年                                                         | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")               | 《[越看越可愛](../Page/越看越可愛.md "wikilink")》                              |                                                     | 客串   | EP111              |     |
+| SBS                                                           | 《[我女友是九尾狐](https://zh.wikipedia.org/wiki/我女友是九尾狐 "wikilink")》             | Jeremy                                                              | EP16                                                |      |                    |     |
+| 2011年                                                         | [MBS](../Page/每日放送.md "wikilink")/[TBS](../Page/TBS電視台.md "wikilink")     | 《[肌肉女孩](../Page/肌肉女孩.md "wikilink")》                                | 柳智浩                                                 | 主角   | 全集                 |     |
+| KBS                                                           | 《[紀子，去首爾吧](https://zh.wikipedia.org/wiki/紀子，去首爾吧 "wikilink")》             | 金敏赫                                                                 |                                                     |      |                    |     |
+| 2014年                                                         | [TV朝鮮](../Page/TV朝鮮.md "wikilink")                                        | 《[百年新娘](https://zh.wikipedia.org/wiki/百年新娘 "wikilink")》             | 崔江州                                                 |      |                    |     |
+| SBS                                                           | 《[Modern Farmer](https://zh.wikipedia.org/wiki/Modern_Farmer "wikilink")》 | 李敏基                                                                 |                                                     |      |                    |     |
+| 2015年                                                         | KBS                                                                       | 《[皇太子的王子](../Page/皇太子的王子_\(電視劇\).md "wikilink")》                    | 崔鍾訓                                                 | 朴時賢  | 主角                 |     |
+| 網路劇                                                           | 《[馬屁精](https://zh.wikipedia.org/wiki/馬屁精_\(電視劇\) "wikilink")》             | 李在真                                                                 |                                                     |      |                    |     |
+| JTBC                                                          | 《[英雄們](https://zh.wikipedia.org/wiki/英雄們 "wikilink")》                     | 崔鍾訓                                                                 | 崔熙烈                                                 | 主角   |                    |     |
+| 2016年                                                         | Naver TVcast                                                              | 《[檢察官愛麗絲2](../Page/檢察官愛麗絲2.md "wikilink")》                          | 宋承炫                                                 | 馬正秀  |                    |     |
+| 《[88號街](https://zh.wikipedia.org/wiki/88號街 "wikilink")》       | 崔鍾訓                                                                       | Marco                                                               | 主角                                                  |      |                    |     |
+| 《[又甜又辣](https://zh.wikipedia.org/wiki/又甜又辣 "wikilink")》       | 崔敏煥                                                                       | 民俊                                                                  |                                                     |      |                    |     |
+| 2017年                                                         | [Netflix](../Page/Netflix.md "wikilink")                                  | 《[My Only Love Song](../Page/My_Only_Love_Song.md "wikilink")》      | 李在真                                                 | 卞三龍  |                    |     |
+| SBS                                                           | 《[姐姐風采依舊](../Page/姐姐風采依舊.md "wikilink")》                                  | 羅濟東                                                                 | 配角                                                  |      |                    |     |
+| tvN                                                           | 《[花遊記](https://zh.wikipedia.org/wiki/花遊記 "wikilink")》                     | 李洪基                                                                 | [豬八戒](https://zh.wikipedia.org/wiki/豬八戒 "wikilink") | 主要角色 |                    |     |
+| 2018年                                                         | [MBN](https://zh.wikipedia.org/wiki/每日廣播 "wikilink")                      | 《[Rich Man](../Page/Rich_Man.md "wikilink")》                        | 李在真                                                 | 姜燦秀  | 配角                 |     |
 
 ### 音樂劇
 
@@ -265,10 +265,9 @@ LineData =
   - [I Will](../Page/I_WILL_\(FTIsland專輯\).md "wikilink")（2015年）
 
   - [Where's the
-    Truth?](https://zh.wikipedia.org/wiki/Where's_the_Truth? "wikilink")（2016年）
+    Truth?](../Page/Where's_the_Truth?.md "wikilink")（2016年）
 
-  - [Over 10
-    Years](https://zh.wikipedia.org/wiki/OVER_10_YEARS "wikilink")（2017年）
+  - [Over 10 Years](../Page/OVER_10_YEARS.md "wikilink")（2017年）
 
 ### 日語專輯
 
@@ -277,10 +276,9 @@ LineData =
   - [Five Treasure
     Island](../Page/FIVE_TREASURE_ISLAND.md "wikilink")（2011年）
 
-  - [20
-    \[Twenty](https://zh.wikipedia.org/wiki/20［twenty］ "wikilink")\]（2012年）
+  - [20 \[Twenty](../Page/20［twenty］.md "wikilink")\]（2012年）
 
-  - [Rated-FT](https://zh.wikipedia.org/wiki/RATED-FT "wikilink")（2013年）
+  - [Rated-FT](../Page/RATED-FT.md "wikilink")（2013年）
 
   - [New Page](../Page/NEW_PAGE.md "wikilink")（2014年）
 
@@ -288,11 +286,9 @@ LineData =
 
   - [N.W.U](../Page/N.W.U.md "wikilink")（2016年）
 
-  - [United
-    Shadows](https://zh.wikipedia.org/wiki/UNITED_SHADOWS "wikilink")（2017年）
+  - [United Shadows](../Page/UNITED_SHADOWS.md "wikilink")（2017年）
 
-  - [Planet
-    Bonds](https://zh.wikipedia.org/wiki/Planet_Bonds "wikilink")（2018年）
+  - [Planet Bonds](../Page/Planet_Bonds.md "wikilink")（2018年）
 
   - Everlasting（2019年）
 
@@ -497,15 +493,15 @@ LineData =
 
   - 2015 FTISLAND LIVE \[We Will\]
 
-|             |           |                                                                                                      |
-| ----------- | --------- | ---------------------------------------------------------------------------------------------------- |
-| **日期**      | **演唱會站次** | **舉行地點**                                                                                             |
-| 2015年5月23日  | 台北站       | [南港展覽館](https://zh.wikipedia.org/wiki/台北世界貿易中心南港展覽館 "wikilink")                                      |
-| 2015年7月4日   | 上海站       | [上海長寧體操中心](https://zh.wikipedia.org/wiki/上海長寧體操中心 "wikilink")                                        |
-| 2015年8月1日   | 香港站       | [亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink") Arena                                                       |
-| 2015年8月8、9日 | 首爾站       | [首爾](https://zh.wikipedia.org/wiki/首爾 "wikilink")[奧林匹克公園奧林匹克大廳](../Page/奧林匹克公園_\(首爾\).md "wikilink") |
-| 2015年8月23日  | 廣州站       | [廣州體育館](https://zh.wikipedia.org/wiki/廣州體育館 "wikilink")2號館                                           |
-| 2015年9月12日  | 曼谷站       | Thunder Dome, Muang Thong Thani                                                                      |
+|             |           |                                                                                   |
+| ----------- | --------- | --------------------------------------------------------------------------------- |
+| **日期**      | **演唱會站次** | **舉行地點**                                                                          |
+| 2015年5月23日  | 台北站       | [南港展覽館](https://zh.wikipedia.org/wiki/台北世界貿易中心南港展覽館 "wikilink")                   |
+| 2015年7月4日   | 上海站       | [上海長寧體操中心](https://zh.wikipedia.org/wiki/上海長寧體操中心 "wikilink")                     |
+| 2015年8月1日   | 香港站       | [亞洲國際博覽館](../Page/亞洲國際博覽館.md "wikilink") Arena                                    |
+| 2015年8月8、9日 | 首爾站       | [首爾](../Page/首爾.md "wikilink")[奧林匹克公園奧林匹克大廳](../Page/奧林匹克公園_\(首爾\).md "wikilink") |
+| 2015年8月23日  | 廣州站       | [廣州體育館](https://zh.wikipedia.org/wiki/廣州體育館 "wikilink")2號館                        |
+| 2015年9月12日  | 曼谷站       | Thunder Dome, Muang Thong Thani                                                   |
 
   - 5th Anniversary Arena Tour 2015 "5.....GO"
 
@@ -1138,13 +1134,13 @@ LineData =
 <td><p>2016年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Where&#39;s_the_Truth?" title="wikilink">Where's the Truth?</a></p></td>
+<td><p><a href="../Page/Where&#39;s_the_Truth?.md" title="wikilink">Where's the Truth?</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/OVER_10_YEARS" title="wikilink">OVER 10 YEARS</a></p></td>
+<td><p><a href="../Page/OVER_10_YEARS.md" title="wikilink">OVER 10 YEARS</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>愛情病</p></td>

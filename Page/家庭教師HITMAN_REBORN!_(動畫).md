@@ -124,7 +124,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 ## 製作人員
 
   - [原作](https://zh.wikipedia.org/wiki/原作 "wikilink")：[天野明](../Page/天野明.md "wikilink")
-  - [系列構成](https://zh.wikipedia.org/wiki/系列構成 "wikilink")：[岸間信明](https://zh.wikipedia.org/wiki/岸間信明 "wikilink")
+  - [系列構成](https://zh.wikipedia.org/wiki/系列構成 "wikilink")：[岸間信明](../Page/岸間信明.md "wikilink")
   - [人物設定](https://zh.wikipedia.org/wiki/人物設定 "wikilink")：田中將賀
   - [機械設定](https://zh.wikipedia.org/wiki/機械設定 "wikilink")：沙倉拓實→渡邊浩二
   - 小物・效果設定：渡邊浩二
@@ -133,7 +133,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
   - 色彩設計：山下圭子
   - 攝影監督：濱雄紀
   - 音樂：[佐橋俊彥](../Page/佐橋俊彥.md "wikilink")
-  - 音響監督：[平光琢也](https://zh.wikipedia.org/wiki/平光琢也 "wikilink")、[濱野一三](https://zh.wikipedia.org/wiki/濱野一三 "wikilink")
+  - 音響監督：[平光琢也](https://zh.wikipedia.org/wiki/平光琢也 "wikilink")、[濱野一三](../Page/濱野一三.md "wikilink")
   - 製作人：青木俊志、山西太平、[片岡義朗](https://zh.wikipedia.org/wiki/片岡義朗 "wikilink")
   - 監修：[石黑昇](../Page/石黑昇.md "wikilink")
   - 監督：[今泉賢一](../Page/今泉賢一.md "wikilink")
@@ -301,7 +301,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 <!-- end list -->
 
   -
-    作詞、作曲：森翼，編曲：鈴木Daichi秀行，歌：[森翼](https://zh.wikipedia.org/wiki/森翼 "wikilink")
+    作詞、作曲：森翼，編曲：鈴木Daichi秀行，歌：[森翼](../Page/森翼.md "wikilink")
 
 <!-- end list -->
 
@@ -328,7 +328,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 <!-- end list -->
 
   -
-    作詞、作曲：森翼，編曲：鈴木Daichi秀行，歌：[森翼](https://zh.wikipedia.org/wiki/森翼 "wikilink")
+    作詞、作曲：森翼，編曲：鈴木Daichi秀行，歌：[森翼](../Page/森翼.md "wikilink")
 
 <!-- end list -->
 
@@ -3216,7 +3216,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
   - 第26回：[飯田利信](../Page/飯田利信.md "wikilink")（六道骸）
   - 第27回：（一平）
   - 第30回：[今泉賢一](../Page/今泉賢一.md "wikilink")（動畫監督）
-  - 第32回：[大谷美貴](https://zh.wikipedia.org/wiki/大谷美貴 "wikilink")（黑川花）
+  - 第32回：[大谷美貴](../Page/大谷美貴.md "wikilink")（黑川花）
   - 第36回：[高木俊](../Page/高木俊.md "wikilink")（草壁哲矢）
   - 第37回、第38回：藤原祐規（貝爾飛格爾）
   - 第40回：[湯澤幸一郎](https://zh.wikipedia.org/wiki/湯澤幸一郎 "wikilink")（魯斯里亞）
@@ -3299,7 +3299,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
 <!-- end list -->
 
   - 第1、2回：[津田健次郎](../Page/津田健次郎.md "wikilink")（史帕那、大人藍波）
-  - 第3、4回：[上原健太](https://zh.wikipedia.org/wiki/上原健太 "wikilink")（將尼二）
+  - 第3、4回：[上原健太](../Page/上原健太.md "wikilink")（將尼二）
   - 第5、6回：[KENN](../Page/KENN.md "wikilink")（迪諾）
   - 第7、9回：[明坂聰美](../Page/明坂聰美.md "wikilink")（庫洛姆·髑髏）
   - 第10、11回：[山岸門人](https://zh.wikipedia.org/wiki/山岸門人 "wikilink")（雛菊）
@@ -3659,7 +3659,7 @@ REBORN\!](https://zh.wikipedia.org/wiki/家庭教師HITMAN_REBORN! "wikilink")�
   - 大人藍波＆斯帕那／[津田健次郎](../Page/津田健次郎.md "wikilink")
   - 拉爾·米爾奇／[鈴木真仁](../Page/鈴木真仁.md "wikilink")
   - 巴吉爾／[寺崎裕香](../Page/寺崎裕香.md "wikilink")
-  - 將尼二／[上原健太](https://zh.wikipedia.org/wiki/上原健太 "wikilink")
+  - 將尼二／[上原健太](../Page/上原健太.md "wikilink")
   - 入江正一／[豐永利行](../Page/豐永利行.md "wikilink")
   - 碧洋琪／[田中理恵](../Page/田中理惠_\(聲優\).md "wikilink")
   - 風太／[三瓶由布子](../Page/三瓶由布子.md "wikilink")

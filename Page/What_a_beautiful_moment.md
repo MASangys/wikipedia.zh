@@ -59,7 +59,7 @@ moment**》是[ZARD出道](../Page/ZARD.md "wikilink")13年來第一次，也是
   - Bass：[麻井寛史](https://zh.wikipedia.org/wiki/麻井寛史 "wikilink")
   - Keyboards：[古井弘人](https://zh.wikipedia.org/wiki/古井弘人 "wikilink")、[大楠雄藏](https://zh.wikipedia.org/wiki/大楠雄藏 "wikilink")
   - Acoustic Guitar &
-    Chorus：[岩井勇一郎](../Page/岩井勇一郎.md "wikilink")、[大田紳一郎](https://zh.wikipedia.org/wiki/大田紳一郎 "wikilink")
+    Chorus：[岩井勇一郎](../Page/岩井勇一郎.md "wikilink")、[大田紳一郎](../Page/大田紳一郎.md "wikilink")
   - Chorus：[岡崎雪](https://zh.wikipedia.org/wiki/岡崎雪 "wikilink")、[SATIN
     DOLL](https://zh.wikipedia.org/wiki/SATIN_DOLL "wikilink")
   - Violin：[高久知也](https://zh.wikipedia.org/wiki/高久知也 "wikilink")

@@ -203,8 +203,7 @@ Music針對京的歌聲表示：「我懷疑有人能在任何曲風中，找到
 ### 專輯
 
   - 《Gauze》 1999.07.28
-  - 《[Macabre](https://zh.wikipedia.org/wiki/Macabre_\(專輯\) "wikilink")》
-    2000.09.20
+  - 《[Macabre](../Page/Macabre_\(專輯\).md "wikilink")》 2000.09.20
   - 《鬼葬》 2002.01.30
   - 《Vulgar》 2003.09.10
   - 《Withering to death.》2005.03.09
@@ -212,8 +211,7 @@ Music針對京的歌聲表示：「我懷疑有人能在任何曲風中，找到
   - 《UROBOROS》 2008.11.12
   - 《DUM SPIRO SPERO》 2011.08.03
   - 《UROBOROS \[Remastered & Expanded\]》2012.01.11
-  - 《[ARCHE](https://zh.wikipedia.org/wiki/Arche_\(專輯\) "wikilink")》
-    2014.12.10
+  - 《[ARCHE](../Page/Arche_\(專輯\).md "wikilink")》 2014.12.10
   - 《The Insulated World》 2018.09.26
 
 ### 單曲

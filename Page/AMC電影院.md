@@ -11,14 +11,14 @@ AMC娱乐公司财报显示，公司2018财年第一财季营业收入为13.836�
 
 2012年5月21日，[萬達集團以](https://zh.wikipedia.org/wiki/萬達集團 "wikilink")26億美元（201.86億港元）收購該公司100%股權，這是自從[吉利汽車收購](../Page/吉利汽車.md "wikilink")[沃尔沃汽车後](https://zh.wikipedia.org/wiki/沃尔沃汽车 "wikilink")，中国企业进行的第二次海外最大規模收購行動\[6\]。
 
-2016年3月3日，**AMC電影院**以11億美元現金收購[卡邁克電影院](https://zh.wikipedia.org/wiki/卡麦克院线 "wikilink")（Carmike
+2016年3月3日，**AMC電影院**以11億美元現金收購[卡邁克電影院](../Page/卡麦克院线.md "wikilink")（Carmike
 Cinemas）組成美國以至全球的最大連鎖院線。
 
 2016年7月12日，**AMC電影院**以9.21億英鎊(約94億港元)收購歐洲第一大院線 [Odeon &
-UCI院線](https://zh.wikipedia.org/wiki/欧典院线 "wikilink")。 Odeon &
+UCI院線](../Page/欧典院线.md "wikilink")。 Odeon &
 UCI院線是歐洲最大電影院線，擁有242家影院2236塊銀幕，近12個月收入約11.56億美元，佔據歐洲約20%的市場份額。
 
-2016年7月25日，**AMC電影院**上調对[卡邁克電影院](https://zh.wikipedia.org/wiki/卡麦克院线 "wikilink")（Carmike
+2016年7月25日，**AMC電影院**上調对[卡邁克電影院](../Page/卡麦克院线.md "wikilink")（Carmike
 Cinemas）的收購價，由每股30美元提高到每股33.06美元或1.0819份AMC股份。總交易額約12億美元，包括5.85億現金、2.5億股票和債務。
 
 2017年1月23日，**AMC電影院**以9.3億美元收購北欧最大院線北欧院线集团 (Nordic Cinema Group)。

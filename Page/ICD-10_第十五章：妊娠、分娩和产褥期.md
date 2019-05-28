@@ -55,7 +55,7 @@ O30-O48
   - O36 为其他已知或可疑胎儿问题给予的孕产妇医疗
   - O40 [羊水过多](https://zh.wikipedia.org/wiki/羊水 "wikilink")
   - O41 羊水和胎膜的其他疾患
-  - O42 [早期羊膜囊破裂](https://zh.wikipedia.org/wiki/早期羊膜囊破裂 "wikilink")
+  - O42 [早期羊膜囊破裂](../Page/早期羊膜囊破裂.md "wikilink")
   - O43 胎盘疾患
   - O44 胎盘前置
   - O45 胎盘的过早分离（胎盘早期脱离）

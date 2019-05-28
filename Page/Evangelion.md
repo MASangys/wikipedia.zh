@@ -399,5 +399,4 @@ Alpha)外表塗裝為綠色，最大的特色是配備了八個浮游砲。除�
 
 42. DVD附带解说书，臺灣[普威爾國際发行中文版](../Page/普威爾國際.md "wikilink")
 
-43. [EVANGELION
-    CHRONICLE](https://zh.wikipedia.org/wiki/EVANGELION_CHRONICLE "wikilink")
+43. [EVANGELION CHRONICLE](../Page/EVANGELION_CHRONICLE.md "wikilink")

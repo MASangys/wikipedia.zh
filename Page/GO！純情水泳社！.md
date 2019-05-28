@@ -254,7 +254,7 @@ ISBN 978-4-06-362114-3（限定版）</p></td>
 
   - 原作：[服部充](../Page/服部充.md "wikilink")
   - 企劃：森田浩章、[片岡義朗](https://zh.wikipedia.org/wiki/片岡義朗 "wikilink")
-  - 系列構成：[池田真美子](https://zh.wikipedia.org/wiki/池田真美子 "wikilink")
+  - 系列構成：[池田真美子](../Page/池田真美子.md "wikilink")
   - [人物設定](https://zh.wikipedia.org/wiki/人物設定 "wikilink")、總作畫監督：西野理惠
   - 美術監督：柴田千佳子
   - [色彩設計](../Page/色彩設計.md "wikilink")：山崎朋子

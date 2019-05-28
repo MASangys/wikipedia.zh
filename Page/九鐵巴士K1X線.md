@@ -5,8 +5,8 @@
 ## 歷史
 
   - 1994年1月30日：本線投入服務，初時為每天早上至黃昏20:00提供服務
-  - 1999年中：改為途經[鳳池路及](https://zh.wikipedia.org/wiki/鳳池路 "wikilink")[媽橫路才入](https://zh.wikipedia.org/wiki/媽橫路 "wikilink")[朗天路](https://zh.wikipedia.org/wiki/朗天路 "wikilink")
-  - 2001年初：往屯門方向改經[屏會街和](https://zh.wikipedia.org/wiki/屏會街 "wikilink")[元朗安寧路](https://zh.wikipedia.org/wiki/元朗安寧路 "wikilink")
+  - 1999年中：改為途經[鳳池路及](https://zh.wikipedia.org/wiki/鳳池路 "wikilink")[媽橫路才入](https://zh.wikipedia.org/wiki/媽橫路 "wikilink")[朗天路](../Page/朗天路.md "wikilink")
+  - 2001年初：往屯門方向改經[屏會街和](https://zh.wikipedia.org/wiki/屏會街 "wikilink")[元朗安寧路](../Page/元朗安寧路.md "wikilink")
   - 2003年12月17日：配合[西鐵通車](https://zh.wikipedia.org/wiki/西鐵 "wikilink")，把分段收費位置修改，並與西鐵提供接駁優惠，但只限良田往[兆康站及](../Page/兆康站_\(西鐵綫\).md "wikilink")[兆康往](https://zh.wikipedia.org/wiki/兆康 "wikilink")[屯門碼頭方向](../Page/屯門碼頭.md "wikilink")。
   - 2004年4月18日：改為平日繁忙時間及假日早上至黃昏提供服務；同年8月7日再縮減服務至平日上午繁忙時間單向由朗屏開出固定班次兩班。
   - 2005年3月7日：配合[九鐵重組屯門區巴士路線](https://zh.wikipedia.org/wiki/九鐵 "wikilink")，本線永久停駛。
@@ -32,7 +32,7 @@
 |-
 |1||[元朗市](https://zh.wikipedia.org/wiki/元朗市 "wikilink")||||[朗屏巴士總站](../Page/朗屏邨巴士總站.md "wikilink")||
 |-
-|2||[元朗市](https://zh.wikipedia.org/wiki/元朗市 "wikilink")||[元朗安寧路](https://zh.wikipedia.org/wiki/元朗安寧路 "wikilink")||[盲人安老院](https://zh.wikipedia.org/wiki/元朗盲人安老院 "wikilink")||
+|2||[元朗市](https://zh.wikipedia.org/wiki/元朗市 "wikilink")||[元朗安寧路](../Page/元朗安寧路.md "wikilink")||[盲人安老院](https://zh.wikipedia.org/wiki/元朗盲人安老院 "wikilink")||
 |-
 |3||[元朗市](https://zh.wikipedia.org/wiki/元朗市 "wikilink")||||[水邊村](https://zh.wikipedia.org/wiki/水邊村 "wikilink")||
  |-

@@ -13,7 +13,7 @@
 <!-- end list -->
 
   - 加地大己（かじ だいき）- [瑛太](../Page/瑛太.md "wikilink")（小學 -
-    [加藤清史郎](https://zh.wikipedia.org/wiki/加藤清史郎 "wikilink")）（粤语配音：[陳健豪](../Page/陳健豪.md "wikilink")、小學：[莎拉](../Page/莎拉.md "wikilink")）
+    [加藤清史郎](../Page/加藤清史郎.md "wikilink")）（粤语配音：[陳健豪](../Page/陳健豪.md "wikilink")、小學：[莎拉](../Page/莎拉.md "wikilink")）
 
 <!-- end list -->
 
@@ -184,7 +184,7 @@
 
 <!-- end list -->
 
-  - 在君島製作所工作的八木 - [勝村政信](https://zh.wikipedia.org/wiki/勝村政信 "wikilink")
+  - 在君島製作所工作的八木 - [勝村政信](../Page/勝村政信.md "wikilink")
   - 小學校內的事務員 - [松山尚子](https://zh.wikipedia.org/wiki/松山尚子 "wikilink")
   - 出租車司機 - [竹本和正](https://zh.wikipedia.org/wiki/竹本和正 "wikilink")
   - 真島花枝☆ - [熊谷美香](https://zh.wikipedia.org/wiki/熊谷美香 "wikilink")
@@ -202,7 +202,7 @@
   - 山倉醫大的學生 - [西崎彩](https://zh.wikipedia.org/wiki/西崎彩 "wikilink")
   - 新田先生 - [築出静夫](https://zh.wikipedia.org/wiki/築出静夫 "wikilink")
   - 五十嵐富士夫☆ -
-    [田中圭](https://zh.wikipedia.org/wiki/田中圭 "wikilink")(少年期:[林凌雅](https://zh.wikipedia.org/wiki/林凌雅 "wikilink"))
+    [田中圭](../Page/田中圭.md "wikilink")(少年期:[林凌雅](https://zh.wikipedia.org/wiki/林凌雅 "wikilink"))
 
 <!-- end list -->
 

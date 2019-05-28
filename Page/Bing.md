@@ -1,4 +1,4 @@
-**Bing**（，-{zh-cn:台港称**Bing**;zh-tw:中國大陸作**必應**，香港為**Bing**;zh-hk:臺灣稱**Bing**，中國大陸作**必應**}-）是一款由[微软公司推出的網路](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[搜索引擎](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")。Bing的历史可追溯至于1998年的第三个季度发布的MSN
+**Bing**（，-{zh-cn:台港称**Bing**;zh-tw:中國大陸作**必應**，香港為**Bing**;zh-hk:臺灣稱**Bing**，中國大陸作**必應**}-）是一款由[微软公司推出的網路](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[搜索引擎](../Page/搜索引擎.md "wikilink")。Bing的历史可追溯至于1998年的第三个季度发布的MSN
 Search，它的搜索结果由和等提供；2006年3月8日，微软发布了Windows Live
 Search的公测版，并于同年9月11日让其取-{}-代了MSN
 Search，该引擎开始使用搜索选项卡；次年3月，微软将其与[Windows
@@ -128,7 +128,7 @@ Generation的产品，其简称为BING。该公司也以类似的理由发起诉
 
   - [Google搜索](../Page/Google搜索.md "wikilink")
   - [Yahoo\!奇摩搜尋](../Page/Yahoo!_Search.md "wikilink")
-  - [搜索引擎](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")
+  - [搜索引擎](../Page/搜索引擎.md "wikilink")
   - [搜尋引擎列表](../Page/搜尋引擎列表.md "wikilink")
 
 ## 外部链接

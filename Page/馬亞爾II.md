@@ -17,7 +17,7 @@ Eggen在1953年首度從[帕洛馬山天文台](https://zh.wikipedia.org/wiki/�
     Kent被稱為HBK 0-1.
   - 1953年，[尼古拉斯·U·馬亞爾和O](https://zh.wikipedia.org/wiki/尼古拉斯·U·馬亞爾 "wikilink").J.
     Eggen發現馬亞爾II。
-  - 1977年，馬亞爾II因[华莱士·萨金特](https://zh.wikipedia.org/wiki/华莱士·萨金特 "wikilink")、C.T.
+  - 1977年，馬亞爾II因[华莱士·萨金特](../Page/华莱士·萨金特.md "wikilink")、C.T.
     Kowal、F.D.A. Hartwick和Sidney van den Bergh被稱為SKHB 1，也稱之為G1。
 
 ## 相關條目

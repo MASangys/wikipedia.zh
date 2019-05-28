@@ -5,10 +5,10 @@
   - J00
     急性[鼻咽炎](https://zh.wikipedia.org/wiki/鼻咽炎 "wikilink")(普通[感冒](../Page/感冒.md "wikilink"))
   - J01 急性[鼻窦炎](https://zh.wikipedia.org/wiki/鼻窦炎 "wikilink")
-  - J02 急性[咽炎](https://zh.wikipedia.org/wiki/咽炎 "wikilink")
+  - J02 急性[咽炎](../Page/咽炎.md "wikilink")
   - J03 急性[扁桃体炎](https://zh.wikipedia.org/wiki/扁桃体炎 "wikilink")
   - J04
-    急性[喉炎和](https://zh.wikipedia.org/wiki/喉炎 "wikilink")[气管炎](../Page/气管炎.md "wikilink")
+    急性[喉炎和](../Page/喉炎.md "wikilink")[气管炎](../Page/气管炎.md "wikilink")
   - J05 急性梗阻性喉炎(哮吼)和[会厌炎](https://zh.wikipedia.org/wiki/会厌炎 "wikilink")
   - J06 多发性和未特指部位的急性上呼吸道感染
 
@@ -24,7 +24,7 @@
     由于[肺炎链球菌引起的](https://zh.wikipedia.org/wiki/链球菌 "wikilink")[肺炎](../Page/肺炎.md "wikilink")
   - J14
     由于流行性感冒[嗜血杆菌引起的肺炎](https://zh.wikipedia.org/wiki/嗜血杆菌 "wikilink")
-  - J15 [细菌性肺炎](https://zh.wikipedia.org/wiki/细菌性肺炎 "wikilink")，不可归类在他处者
+  - J15 [细菌性肺炎](../Page/细菌性肺炎.md "wikilink")，不可归类在他处者
   - J16 由于其他传染性病原体引起的[肺炎](../Page/肺炎.md "wikilink")，不可归类在他处者
   - J17 分类于他处的疾病引起的肺炎
   - J18 [病原体未特指的肺炎](../Page/病原体.md "wikilink")
@@ -43,14 +43,14 @@
 
   - J30 血管舒缩性和变应性鼻炎
   - J31
-    慢性[鼻炎](../Page/鼻炎.md "wikilink")、[鼻咽炎和](https://zh.wikipedia.org/wiki/鼻咽炎 "wikilink")[咽炎](https://zh.wikipedia.org/wiki/咽炎 "wikilink")
+    慢性[鼻炎](../Page/鼻炎.md "wikilink")、[鼻咽炎和](https://zh.wikipedia.org/wiki/鼻咽炎 "wikilink")[咽炎](../Page/咽炎.md "wikilink")
   - J32 慢性[鼻窦炎](https://zh.wikipedia.org/wiki/鼻窦炎 "wikilink")
   - J33 [鼻息肉](../Page/鼻息肉.md "wikilink")
   - J34 鼻和[鼻窦的其他疾患](https://zh.wikipedia.org/wiki/鼻窦 "wikilink")
   - J35 [扁桃体和腺样体慢性疾病](https://zh.wikipedia.org/wiki/扁桃体 "wikilink")
   - J36 [扁桃体周围脓肿](https://zh.wikipedia.org/wiki/扁桃体 "wikilink")
   - J37
-    慢性[喉炎和](https://zh.wikipedia.org/wiki/喉炎 "wikilink")[喉气管炎](https://zh.wikipedia.org/wiki/喉气管炎 "wikilink")
+    慢性[喉炎和](../Page/喉炎.md "wikilink")[喉气管炎](https://zh.wikipedia.org/wiki/喉气管炎 "wikilink")
   - J38 声带和喉疾病，不可归类在他处者
   - J39 上呼吸道的其他疾病
   - J40 鼻中隔偏曲
@@ -117,7 +117,7 @@
 [呼吸系统的其他疾病](https://zh.wikipedia.org/wiki/呼吸系统 "wikilink")（J95-J99）
 
   - J95 操作后的呼吸性疾患，不可归类在他处者
-  - J96 [呼吸衰竭](https://zh.wikipedia.org/wiki/呼吸衰竭 "wikilink")，不可归类在他处者
+  - J96 [呼吸衰竭](../Page/呼吸衰竭.md "wikilink")，不可归类在他处者
   - J98 其他呼吸性疾患
   - J99 分类于他处的疾病引起的呼吸性疾患
 

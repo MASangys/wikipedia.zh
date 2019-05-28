@@ -129,8 +129,7 @@ comcept。\[4\]
 
 ### PlayStation 4用軟體
 
-  - 《[第二國度II
-    王國再臨](https://zh.wikipedia.org/wiki/第二國度II_王國再臨 "wikilink")》（2018年3月23日）
+  - 《[第二國度II 王國再臨](../Page/第二國度II_王國再臨.md "wikilink")》（2018年3月23日）
 
 ### 任天堂Switch用軟體
 

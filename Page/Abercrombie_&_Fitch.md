@@ -73,7 +73,7 @@ A\&F在全世界設置分店的速度相當積極\[20\]
 ### 控告American Eagle Outfitters
 
 2002年，Abercrombie & Fitch控告服飾品牌[American Eagle
-Outfitters](https://zh.wikipedia.org/wiki/American_Eagle_Outfitters "wikilink")，宣稱該公司抄襲A\&F的服裝設計。在訴訟中，A\&F認為American
+Outfitters](../Page/American_Eagle_Outfitters.md "wikilink")，宣稱該公司抄襲A\&F的服裝設計。在訴訟中，A\&F認為American
 Eagle Outfitters在服飾產品的視覺外觀和包裝方面與A\&F非常相像。A\&F更進一步指控American Eagle
 Outfitters拷貝了特定款式的服裝、店鋪內的陳列設計、廣告宣傳，甚至包括A\&F的產品目錄設計。最後法院雖然認為American
 Eagle
@@ -171,7 +171,7 @@ Show節目後擴散至全美。A\&F在2005年11月5日停售相关衣物。\[40\
   - [GAP](../Page/蓋璞.md "wikilink")
   - [H\&M](../Page/H&M.md "wikilink")
   - [Forever 21](https://zh.wikipedia.org/wiki/Forever_21 "wikilink")
-  - [Jack Wills](https://zh.wikipedia.org/wiki/Jack_Wills "wikilink")
+  - [Jack Wills](../Page/Jack_Wills.md "wikilink")
   - [American
     Eagle](https://zh.wikipedia.org/wiki/American_Eagle "wikilink")
 

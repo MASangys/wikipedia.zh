@@ -78,8 +78,7 @@ Format，[PostScript字体](https://zh.wikipedia.org/wiki/PostScript字体 "wiki
 |url=<http://openjdk.java.net/projects/font-scaler/> |title=Font Scaler
 |accessdate=4 April 2014}}</ref>
 
-  - [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink"):
-    索尼于[PlayStation
+  - [PlayStation](../Page/PlayStation.md "wikilink"): 索尼于[PlayStation
     3](../Page/PlayStation_3.md "wikilink")\[29\]、[PlayStation
     4](../Page/PlayStation_4.md "wikilink")\[30\]及[PlayStation
     Vita](../Page/PlayStation_Vita.md "wikilink")\[31\]的控制台中搭载FreeType。
@@ -98,7 +97,7 @@ Format，[PostScript字体](https://zh.wikipedia.org/wiki/PostScript字体 "wiki
 
   - [HarfBuzz](../Page/HarfBuzz.md "wikilink")，用于Unicode文本塑形的库
   - [Pango](../Page/Pango.md "wikilink")，多语种文本渲染引擎
-  - [FontForge](https://zh.wikipedia.org/wiki/FontForge "wikilink")，字体编辑软件
+  - [FontForge](../Page/FontForge.md "wikilink")，字体编辑软件
   - [AltNETType](http://www.altsoftlab.com/altnettype.aspx)，FreeType的C\#移植版本
 
 ## 參考資料

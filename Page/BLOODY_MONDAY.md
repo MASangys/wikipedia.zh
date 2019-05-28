@@ -565,7 +565,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
   - 高木藤丸：[三浦春馬](../Page/三浦春馬.md "wikilink")
   - 折原麻耶：[吉瀨美智子](../Page/吉瀨美智子.md "wikilink")
   - 九條音彌：[佐藤健](../Page/佐藤健.md "wikilink")
-  - 加納生馬：[松重豐](https://zh.wikipedia.org/wiki/松重豐 "wikilink")
+  - 加納生馬：[松重豐](../Page/松重豐.md "wikilink")
   - 寶生小百合：[片瀨那奈](../Page/片瀨那奈.md "wikilink")
   - 南海薰：[芦名星](../Page/芦名星.md "wikilink")
   - 朝田葵：[藤井美菜](../Page/藤井美菜.md "wikilink")
@@ -575,7 +575,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
   - J／神崎潤：[成宮寬貴](../Page/成宮寬貴.md "wikilink")（特別演出）
   - 苑麻孝雄：[中原丈雄](https://zh.wikipedia.org/wiki/中原丈雄 "wikilink")
   - 神島紫門：[嶋田久作](https://zh.wikipedia.org/wiki/嶋田久作 "wikilink")
-  - 高木龍之介：[田中哲司](https://zh.wikipedia.org/wiki/田中哲司 "wikilink")
+  - 高木龍之介：[田中哲司](../Page/田中哲司.md "wikilink")
   - 霧島悟郎：[吉澤悠](https://zh.wikipedia.org/wiki/吉澤悠 "wikilink")
   - 敷村壯介：[神保悟志](https://zh.wikipedia.org/wiki/神保悟志 "wikilink")
   - 日景潔：[並樹史朗](https://zh.wikipedia.org/wiki/並樹史朗 "wikilink")
@@ -585,7 +585,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
   - 澤北美姫：[阿南敦子](https://zh.wikipedia.org/wiki/阿南敦子 "wikilink")
   - 船木勘助：[螢雪次朗](https://zh.wikipedia.org/wiki/螢雪次朗 "wikilink")
   - 伊庭刑事：[尾崎右宗](https://zh.wikipedia.org/wiki/尾崎右宗 "wikilink")
-  - 出門丈一：[天哲](https://zh.wikipedia.org/wiki/天哲 "wikilink")
+  - 出門丈一：[天哲](../Page/天哲.md "wikilink")
   - 富永京子：[宮澤美保](https://zh.wikipedia.org/wiki/宮澤美保 "wikilink")
   - 有村望：[恒吉梨繪](https://zh.wikipedia.org/wiki/恒吉梨繪 "wikilink")
   - 宮本耀：[安部魔凛碧](https://zh.wikipedia.org/wiki/安部魔凛碧 "wikilink")
@@ -600,7 +600,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
   - 安岡啓太郎：[濱田晃](https://zh.wikipedia.org/wiki/濱田晃 "wikilink")
   - 大杉健一：[中根徹](https://zh.wikipedia.org/wiki/中根徹 "wikilink")
   - 安田由紀子：（第1話、第2話）
-  - 中川沙織：[原田佳奈](https://zh.wikipedia.org/wiki/原田佳奈 "wikilink")（第4話－第6話）
+  - 中川沙織：[原田佳奈](../Page/原田佳奈.md "wikilink")（第4話－第6話）
   - 村上杏里：[渡邊志穗](https://zh.wikipedia.org/wiki/渡邊志穗_\(女歌手\) "wikilink")（第3話－）※根據網路投票決定演出\[4\]
   - 鎌田淳一郎：[齋藤步](https://zh.wikipedia.org/wiki/齋藤步 "wikilink")（第7話－）
   - 九條彰彥：[龍雷太](https://zh.wikipedia.org/wiki/龍雷太 "wikilink")（特別演出）
@@ -620,7 +620,7 @@ MONDAY」（血色星期一\[1\]）、天才駭客「獵鷹」及治安維持組
   - 竹内由希：[瀧澤涼子](https://zh.wikipedia.org/wiki/瀧澤涼子 "wikilink")
   - 疋田光利：[矢柴俊博](https://zh.wikipedia.org/wiki/矢柴俊博 "wikilink")
   - 八木佑介：[竹内壽](https://zh.wikipedia.org/wiki/竹内壽 "wikilink")
-  - 瓢蟲〔魔彈射手〕：[八代美奈畝](https://zh.wikipedia.org/wiki/八代美奈畝 "wikilink")
+  - 瓢蟲〔魔彈射手〕：[八代美奈畝](../Page/八代美奈畝.md "wikilink")
   - 野獸〔魔彈射手〕：[肥野龍也](https://zh.wikipedia.org/wiki/肥野龍也 "wikilink")
   - 蚊子〔魔彈射手〕：
   - 螢〔魔彈射手〕：[金原杏奈](https://zh.wikipedia.org/wiki/金原杏奈 "wikilink")

@@ -32,7 +32,7 @@ Mystery大獎](https://zh.wikipedia.org/wiki/富士見Young_Mystery大獎 "wikil
 
 ### 未代理
 
-  - [魔法使的條件](../Page/魔法使的條件.md "wikilink")（[枯野瑛](https://zh.wikipedia.org/wiki/枯野瑛 "wikilink")/，台灣角川代理漫畫版）
+  - [魔法使的條件](../Page/魔法使的條件.md "wikilink")（[枯野瑛](../Page/枯野瑛.md "wikilink")/，台灣角川代理漫畫版）
 
 ## 關聯條目
 

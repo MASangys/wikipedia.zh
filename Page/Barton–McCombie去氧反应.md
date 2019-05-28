@@ -37,7 +37,7 @@ B的全合成中得到了应用\[7\]。由于TCDI氮上的孤对电子參與組�
   -
     [BartonDeoxygenation.svg](https://zh.wikipedia.org/wiki/File:BartonDeoxygenation.svg "fig:BartonDeoxygenation.svg")
 
-这个反应也可以应用在*S*-烷基黄原酸酯上。用[三乙基硼烷作为新型的不含金属的试剂](https://zh.wikipedia.org/wiki/三乙基硼烷 "wikilink")，脱氧时所需要的氢可以来自于质子溶剂或反应器壁。在严格无水的条件下，氢甚至可以来自硼烷自身\[8\]。
+这个反应也可以应用在*S*-烷基黄原酸酯上。用[三乙基硼烷作为新型的不含金属的试剂](../Page/三乙基硼烷.md "wikilink")，脱氧时所需要的氢可以来自于质子溶剂或反应器壁。在严格无水的条件下，氢甚至可以来自硼烷自身\[8\]。
 
 ## 参考文献
 

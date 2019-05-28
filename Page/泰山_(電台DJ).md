@@ -25,7 +25,7 @@
 ### 電視節目
 
   - [香港電台電視部](https://zh.wikipedia.org/wiki/香港電台電視部 "wikilink")
-      - 《[自在8點半](https://zh.wikipedia.org/wiki/自在8點半 "wikilink")》其中一位主持
+      - 《[自在8點半](../Page/自在8點半.md "wikilink")》其中一位主持
 
 ## 曾主持節目
 

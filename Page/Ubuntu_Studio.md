@@ -64,8 +64,7 @@ Studio也可以透過APT從[網路安裝](https://zh.wikipedia.org/wiki/網路 "
     - a color scheme generator
   - [Blender](../Page/Blender.md "wikilink") - 一個3D動畫程式
   - [Enblend](http://enblend.sourceforge.net/) - 一個組圖程式
-  - [FontForge](https://zh.wikipedia.org/wiki/FontForge "wikilink") -
-    一個字型編輯程式
+  - [FontForge](../Page/FontForge.md "wikilink") - 一個字型編輯程式
   - [GIMP](../Page/GIMP.md "wikilink") - 一個點陣影像的編輯器
   - [Inkscape](../Page/Inkscape.md "wikilink") - 一個向量影像的編輯器
   - [Scribus](../Page/Scribus.md "wikilink") - 一個桌面發佈應用程式

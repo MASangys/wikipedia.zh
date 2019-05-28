@@ -11,7 +11,7 @@ Stallman曾经支持过一个名叫[gNewSense的基于Ubuntu的发行版](https:
 
 在介绍Ubuntu 7.10时，Mark Shuttleworth表示它将Gobuntu在2007年7月10日由Mark
 Shuttleworth正式发布\[4\]，并且Gobuntu
-7.10的[每日构建开始公开发行](https://zh.wikipedia.org/wiki/每日构建 "wikilink")。最初的版本，Gobuntu
+7.10的[每日构建开始公开发行](../Page/每日构建.md "wikilink")。最初的版本，Gobuntu
 7.10，於2007年10月18日發行，但只提供文字安裝介面，第一個預期的長期支援版本代號為“Hardy Heron”。
 
 ## 参见

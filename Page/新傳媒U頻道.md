@@ -130,7 +130,7 @@
 <td><p>rowspan="2" colspan"1" bgcolor="#FFED57"| 谁来晚餐</p></td>
 <td><p>rowspan="2" colspan"1" bgcolor="#FFED57"| 守护者</p></td>
 <td><p>#总理上线</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Jugglers" title="wikilink">超完美秘书</a>#<br />
+<td><p><a href="../Page/Jugglers.md" title="wikilink">超完美秘书</a>#<br />
 (第11-14集）</p></td>
 <td></td>
 </tr>

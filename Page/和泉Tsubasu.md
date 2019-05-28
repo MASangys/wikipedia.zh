@@ -19,7 +19,7 @@
   - （Palette、2018年4月27日）
 
   - [Summer
-    Pockets](https://zh.wikipedia.org/wiki/Summer_Pockets "wikilink")（）（[Key](https://zh.wikipedia.org/wiki/Key "wikilink")、2018年6月29日）
+    Pockets](../Page/Summer_Pockets.md "wikilink")（）（[Key](https://zh.wikipedia.org/wiki/Key "wikilink")、2018年6月29日）
 
 <!-- end list -->
 

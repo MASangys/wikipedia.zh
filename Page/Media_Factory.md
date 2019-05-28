@@ -43,7 +43,7 @@ FACTORY**（），是[角川集團旗下的](../Page/角川集團.md "wikilink")
       - [絕對雙刃](../Page/絕對雙刃.md "wikilink")（2015年動畫化。）
       - [御神樂學園組曲](../Page/御神樂學園組曲.md "wikilink")（2015年動畫化。）
       - [學戰都市Asterisk](../Page/學戰都市Asterisk.md "wikilink")（2015年動畫化。）
-      - [Re:從零開始的異世界生活](https://zh.wikipedia.org/wiki/Re:從零開始的異世界生活 "wikilink")（2016年動畫化。）
+      - [Re:從零開始的異世界生活](../Page/Re:從零開始的異世界生活.md "wikilink")（2016年動畫化。）
   - Comic Flapper（）
   - Comic Alive（）
   - 幽（怪談專門雜誌）

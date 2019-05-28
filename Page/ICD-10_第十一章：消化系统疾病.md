@@ -86,7 +86,7 @@ K55-K63 肠的其他疾病
 
 K65-K67 [腹膜疾病](https://zh.wikipedia.org/wiki/腹膜 "wikilink")
 
-  - K65 [腹膜炎](https://zh.wikipedia.org/wiki/腹膜炎 "wikilink")
+  - K65 [腹膜炎](../Page/腹膜炎.md "wikilink")
   - K66 腹膜的其他疾患
   - K67 分类于他处的传染病引起的腹膜疾患
 
@@ -96,7 +96,7 @@ K70-K77 肝疾病
 
   - K70 [酒精性肝病](https://zh.wikipedia.org/wiki/酒精肝 "wikilink")
   - K71 [中毒性肝病](https://zh.wikipedia.org/wiki/中毒性肝病 "wikilink")
-  - K72 [肝衰竭](https://zh.wikipedia.org/wiki/肝衰竭 "wikilink")，不可归类在他处者
+  - K72 [肝衰竭](../Page/肝衰竭.md "wikilink")，不可归类在他处者
   - K73 [慢性肝炎](https://zh.wikipedia.org/wiki/慢性肝炎 "wikilink")，不可归类在他处者
   - K74 肝纤维化和硬变
   - K75 其他炎性肝脏疾病

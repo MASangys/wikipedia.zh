@@ -690,7 +690,7 @@ zh-tw:夏亞的逆襲;}-」——終結後，地球圈取得短暫的和平。�
 ### 战后的战争
 
 《机动战士GUNDAM UC 战后的战争》（）为PlayStation 3游戏[机动战士高达
-UC特装版的特典](https://zh.wikipedia.org/wiki/机动战士GUNDAM_UC_\(游戏\) "wikilink")。
+UC特装版的特典](../Page/机动战士GUNDAM_UC_\(游戏\).md "wikilink")。
 
 ### 狩猎不死鸟
 
@@ -723,7 +723,7 @@ Store向](../Page/PlayStation_Store.md "wikilink")[PlayStation
   - 原著故事：[福井晴敏](../Page/福井晴敏.md "wikilink")
   - 音楽：[澤野弘之](https://zh.wikipedia.org/wiki/澤野弘之 "wikilink")
   - [音響監督](https://zh.wikipedia.org/wiki/音響監督 "wikilink")：[木村絵理子](https://zh.wikipedia.org/wiki/木村絵理子 "wikilink")
-  - [美術監督](https://zh.wikipedia.org/wiki/美術監督 "wikilink")：[池田繁美](https://zh.wikipedia.org/wiki/池田繁美 "wikilink")
+  - [美術監督](https://zh.wikipedia.org/wiki/美術監督 "wikilink")：[池田繁美](../Page/池田繁美.md "wikilink")
   - 色彩設計：[すずきたかこ](https://zh.wikipedia.org/wiki/すずきたかこ "wikilink")
   - 摄影監督：[葛山剛士](https://zh.wikipedia.org/wiki/葛山剛士 "wikilink")、[田中唯](https://zh.wikipedia.org/wiki/田中唯 "wikilink")
   - [CG导演](https://zh.wikipedia.org/wiki/CG导演 "wikilink")：[藤江智洋](https://zh.wikipedia.org/wiki/藤江智洋 "wikilink")
@@ -939,8 +939,7 @@ Over the Rainbow</p></td>
 
 #### 主题曲
 
-  - [流星之泪](https://zh.wikipedia.org/wiki/流星之泪 "wikilink")（流星のナミダ）
-    （episode1）
+  - [流星之泪](../Page/流星之泪.md "wikilink")（流星のナミダ） （episode1）
     作詞：田中秀典、中山豪次郎 / 作曲：中山豪次郎 / 歌：[CHiAKi
     KURiYAMA](../Page/栗山千明.md "wikilink")
 
@@ -973,8 +972,7 @@ Over the Rainbow</p></td>
 
 <!-- end list -->
 
-  - [RE:I AM](https://zh.wikipedia.org/wiki/RE:I_AM_EP "wikilink")
-    （episode6）
+  - [RE:I AM](../Page/RE:I_AM_EP.md "wikilink") （episode6）
     作詞・作曲・編曲：[泽野弘之](../Page/泽野弘之.md "wikilink") /
     歌：[Aimer](../Page/Aimer.md "wikilink")
 
@@ -1562,8 +1560,7 @@ Over the Rainbow</p></td>
     WORLD](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION "wikilink")(PSP)
   - [SD GUNDAM GGENERATION
     3D](https://zh.wikipedia.org/wiki/SD_GUNDAM_GGENERATION "wikilink")(N3DS)
-  - [第3次超級機器人大戰Z](https://zh.wikipedia.org/wiki/第3次超級機器人大戰Z "wikilink")
-    時獄篇&天獄篇(PS3/PSV)
+  - [第3次超級機器人大戰Z](../Page/第3次超級機器人大戰Z.md "wikilink") 時獄篇&天獄篇(PS3/PSV)
   - [高达无双3](../Page/GUNDAM無雙3.md "wikilink")(PS3/Xbox 360)
   - 真·GUNDAM无双(PS3/PSV)
   - 機動戰士 激戰任務 NEXT(PS4/PS3)

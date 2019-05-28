@@ -549,7 +549,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
   - 製片人：横山朱子、和田敦、小岐須泰世、金庭こず恵、丸山博雄
   - 動畫製作人：佐藤由美
   - 動畫系列製作：[Brain's
-    Base](../Page/Brain's_Base.md "wikilink")（第一期）、[朱夏](https://zh.wikipedia.org/wiki/朱夏_\(動畫工作室\) "wikilink")（第二期）
+    Base](../Page/Brain's_Base.md "wikilink")（第一期）、[朱夏](../Page/朱夏_\(動畫工作室\).md "wikilink")（第二期）
   - 製作：池袋DOLLARS\[3\]\[4\]
 
 ### 主題曲
@@ -615,7 +615,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 
       -
         作詞 - Kohshi Asakawa / 作曲 - Takeshi Asakawa / 編曲 -
-        [toku](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")（[GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")）\&FLOW
+        [toku](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")（[GARNiDELiA](../Page/GARNiDELiA.md "wikilink")）\&FLOW
         / 歌 - [FLOW](../Page/FLOW_\(樂團\).md "wikilink")
 
 \*; 片尾曲
@@ -696,9 +696,9 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td><p>#01</p></td>
 <td></td>
 <td><p>言之必稱</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高木登" title="wikilink">高木登</a></p></td>
+<td><p><a href="../Page/高木登.md" title="wikilink">高木登</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大森貴弘" title="wikilink">大森貴弘</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/川面真也" title="wikilink">川面真也</a></p></td>
+<td><p><a href="../Page/川面真也.md" title="wikilink">川面真也</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/高田晃" title="wikilink">高田晃</a></p></td>
 <td><p><a href="../Page/豐永利行.md" title="wikilink">豐永利行</a>（龍之峰帝人）</p></td>
 </tr>
@@ -726,7 +726,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td><p>#04</p></td>
 <td></td>
 <td><p>形影相吊</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高木登" title="wikilink">高木登</a></p></td>
+<td><p><a href="../Page/高木登.md" title="wikilink">高木登</a></p></td>
 <td><p><a href="../Page/大畑清隆.md" title="wikilink">大畑清隆</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/近藤一英" title="wikilink">近藤一英</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/中野圭哉" title="wikilink">中野圭哉</a></p></td>
@@ -737,7 +737,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td></td>
 <td><p>羊頭狗肉</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/村井貞之" title="wikilink">村井貞之</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/川面真也" title="wikilink">川面真也</a></p></td>
+<td><p><a href="../Page/川面真也.md" title="wikilink">川面真也</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奧野治男" title="wikilink">奧野治男</a></p></td>
 <td><p><a href="../Page/宮野真守.md" title="wikilink">宮野真守</a>（紀田正臣）</p></td>
 <td></td>
@@ -747,7 +747,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td></td>
 <td><p>東奔西走</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/太田愛" title="wikilink">太田愛</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/松尾衡" title="wikilink">松尾衡</a></p></td>
+<td><p><a href="../Page/松尾衡.md" title="wikilink">松尾衡</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/古谷田順久" title="wikilink">古谷田順久</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/田中織枝" title="wikilink">田中織枝</a></p></td>
 <td><p><a href="../Page/中村悠一.md" title="wikilink">中村悠一</a>（門田京平）</p></td>
@@ -777,7 +777,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td></td>
 <td><p>依依戀戀</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/寺東克己" title="wikilink">寺東克己</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山本天志" title="wikilink">山本天志</a></p></td>
+<td><p><a href="../Page/山本天志.md" title="wikilink">山本天志</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福田紀之" title="wikilink">福田紀之</a></p></td>
 <td><p><a href="../Page/小林沙苗.md" title="wikilink">小林沙苗</a>（矢霧波江）</p></td>
 <td></td>
@@ -1051,7 +1051,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td></td>
 <td><p>難分曲直</p></td>
 <td><p>吉永亞矢</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/前園文夫" title="wikilink">前園文夫</a></p></td>
+<td><p><a href="../Page/前園文夫.md" title="wikilink">前園文夫</a></p></td>
 <td><p>澤田美香</p></td>
 <td><p>|澤城美雪（塞爾堤･史特路爾森）</p></td>
 <td></td>
@@ -1094,7 +1094,7 @@ DOLLARS瓦解後過了一年半，一波新浪潮又將襲捲池袋。
 <td><p>根元歲三</p></td>
 <td><p>許平康</p></td>
 <td><p>西川繪奈、青野厚司</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/久野美咲" title="wikilink">久野美咲</a>（粟楠茜）</p></td>
+<td><p><a href="../Page/久野美咲.md" title="wikilink">久野美咲</a>（粟楠茜）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2101,8 +2101,7 @@ Heo Gidong</p></td>
 
 <!-- end list -->
 
-  - [電擊文庫 FIGHTING
-    CLIMAX](https://zh.wikipedia.org/wiki/電擊文庫_FIGHTING_CLIMAX "wikilink")
+  - [電擊文庫 FIGHTING CLIMAX](../Page/電擊文庫_FIGHTING_CLIMAX.md "wikilink")
     2014年3月18日發行的[街機遊戲](https://zh.wikipedia.org/wiki/街機遊戲 "wikilink")。類型為[2D對戰格鬥](../Page/格鬥遊戲.md "wikilink")。
     由和開發，發行商為[世嘉](../Page/世嘉.md "wikilink")。
     [電擊文庫作品角色登場的格闘遊戲](../Page/電擊文庫.md "wikilink")。遊戲中登場的可控角色包括平和島靜雄，支援型角色包括塞爾堤･史特路爾森、折原臨也（家庭用）。

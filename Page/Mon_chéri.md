@@ -8,7 +8,7 @@ RECORDS製作及發行](https://zh.wikipedia.org/wiki/KING_RECORDS "wikilink")�
 
 ## 收錄曲目
 
-1.    - 作詞：[椎名可憐](https://zh.wikipedia.org/wiki/椎名可憐 "wikilink")，作曲、編曲：[太田雅友](https://zh.wikipedia.org/wiki/太田雅友 "wikilink")
+1.    - 作詞：[椎名可憐](https://zh.wikipedia.org/wiki/椎名可憐 "wikilink")，作曲、編曲：[太田雅友](../Page/太田雅友.md "wikilink")
       - 在2007年田村由香里的演唱會「 2007 Summer ＊Sweet Milky Way＊」中首次發布的歌曲。
 
 2.    - 作詞：，作曲：，編曲：

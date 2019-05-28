@@ -9,7 +9,7 @@ Love](../Page/First_Love_\(宇多田光專輯\).md "wikilink"))。日本史上�
 
   - 本作是她第一張沒有間奏的專輯。
   - 專題中"[Can You Keep A
-    Secret?](https://zh.wikipedia.org/wiki/Can_You_Keep_A_Secret? "wikilink")"一曲為日劇[HERO的片尾曲](../Page/HERO_\(日本電視劇\).md "wikilink")。
+    Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")"一曲為日劇[HERO的片尾曲](../Page/HERO_\(日本電視劇\).md "wikilink")。
   - [Rodney
     Jerkins](https://zh.wikipedia.org/wiki/Rodney_Jerkins "wikilink")，西洋R\&B製作人（曾與[唐妮·布蕾斯顿共事](../Page/唐妮·布蕾斯顿.md "wikilink")），監製了"Time
     Limit"，並在其中秀了一段RAP。
@@ -54,15 +54,15 @@ Limit」與「Drama」是本人與[GLAY的](../Page/GLAY.md "wikilink")[TAKURO�
 Limit](https://zh.wikipedia.org/wiki/For_You/Time_Limit "wikilink")，約90萬張外，其他全部約在150萬張以上，並居日本史上單曲TOP
 100。
 
-| 發行日                        | 歌曲                                                                                        | 最高排名    | 上榜週數 | 銷量        |
-| :------------------------- | :---------------------------------------------------------------------------------------- | :------ | :--- | :-------- |
-| <small>1999年11月10日</small> | [Addicted To You](../Page/Addicted_To_You.md "wikilink")                                  | **\#1** | 16   | 1,784,050 |
-|                            |                                                                                           |         |      |           |
-| <small>2000年4月19日</small>  | [Wait & See \~Risk\~](https://zh.wikipedia.org/wiki/Wait_&_See_~Risk~ "wikilink")         | **\#1** | 21   | 1,662,060 |
-| <small>2000年6月30日</small>  | [For You/Time Limit](https://zh.wikipedia.org/wiki/For_You/Time_Limit "wikilink")         | **\#1** | 13   | 888,650   |
-|                            |                                                                                           |         |      |           |
-| <small>2001年2月16日</small>  | [Can You Keep A Secret?](https://zh.wikipedia.org/wiki/Can_You_Keep_A_Secret? "wikilink") | **\#1** | 11   | 1,484,940 |
-|                            |                                                                                           |         |      |           |
+| 發行日                        | 歌曲                                                                                | 最高排名    | 上榜週數 | 銷量        |
+| :------------------------- | :-------------------------------------------------------------------------------- | :------ | :--- | :-------- |
+| <small>1999年11月10日</small> | [Addicted To You](../Page/Addicted_To_You.md "wikilink")                          | **\#1** | 16   | 1,784,050 |
+|                            |                                                                                   |         |      |           |
+| <small>2000年4月19日</small>  | [Wait & See \~Risk\~](https://zh.wikipedia.org/wiki/Wait_&_See_~Risk~ "wikilink") | **\#1** | 21   | 1,662,060 |
+| <small>2000年6月30日</small>  | [For You/Time Limit](https://zh.wikipedia.org/wiki/For_You/Time_Limit "wikilink") | **\#1** | 13   | 888,650   |
+|                            |                                                                                   |         |      |           |
+| <small>2001年2月16日</small>  | [Can You Keep A Secret?](../Page/Can_You_Keep_A_Secret?.md "wikilink")            | **\#1** | 11   | 1,484,940 |
+|                            |                                                                                   |         |      |           |
 
 ## 銷售
 

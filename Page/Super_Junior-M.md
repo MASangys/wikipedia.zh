@@ -63,7 +63,7 @@ Down](../Page/Break_Down_\(專輯\).md "wikilink")》发行，在同月18日发�
 ### 2014年：《Swing》
 
 2014年3月21日，Super
-Junior-M第三张迷你专辑《[Swing](https://zh.wikipedia.org/wiki/Swing_\(SJM專輯\) "wikilink")》国语版发行，同日公开专辑的全部音源及MV。22日参与音乐节目《[全球中文音乐榜上榜](https://zh.wikipedia.org/wiki/全球中文音乐榜上榜 "wikilink")》歌曲打榜，公开《Swing》的回归舞台。3月31日发行《Swing》韩文版MV，《Swing》MV是由one
+Junior-M第三张迷你专辑《[Swing](https://zh.wikipedia.org/wiki/Swing_\(SJM專輯\) "wikilink")》国语版发行，同日公开专辑的全部音源及MV。22日参与音乐节目《[全球中文音乐榜上榜](../Page/全球中文音乐榜上榜.md "wikilink")》歌曲打榜，公开《Swing》的回归舞台。3月31日发行《Swing》韩文版MV，《Swing》MV是由one
 take的方式拍成。此外，《Swing》在中国音乐网站连续两周夺得排行榜首位。\[12\]\[13\]
 
 ### 2015年至今：部分成員入伍服役、預告2019年全員歸隊回歸
@@ -71,7 +71,7 @@ take的方式拍成。此外，《Swing》在中国音乐网站连续两周夺�
 2015年3月31日，晟敏入伍服役，在京畿道富川第17使團新兵教育大隊接受新兵基礎訓練後以現役身份服役，成員SJ-M第一位入伍成員，隨後SJ-M團體活動暫停；10月13日，銀赫入伍，隔兩日；15日東海以警察廳身份入伍；11月19日，始源入伍。2016年10月11日，成員厲旭入伍；同年12月30日，晟敏退伍。2017年5月25日，成員圭賢入伍，為SJ-M最後一個入伍的團員，同年7月12日，銀赫退伍，7月14日東海退伍，8月18日，始源退伍。
 
 2018年3月31日，SJ-M母團Super Junior於台北舉行第七次世界巡演[Super Show
-7](https://zh.wikipedia.org/wiki/Super_Show_7 "wikilink")，成員東海則提及Super
+7](../Page/Super_Show_7.md "wikilink")，成員東海則提及Super
 Junior-M計畫在2019年全員歸隊後，發行新專輯回歸。4月29日，成員Henry與SM的專屬合約結束，離開SM經紀公司\[14\]。7月10日，厲旭退伍。
 
 ## 成員資料
@@ -194,7 +194,7 @@ Junior-M計畫在2019年全員歸隊後，發行新專輯回歸。4月29日，�
 |            |                                       |                                                          |                  |                                                                                                                                                                                                                                       |
 | ---------- | ------------------------------------- | -------------------------------------------------------- | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 形式         | 發佈日期                                  | 專輯名稱                                                     | 歌曲名稱             | 參與成員                                                                                                                                                                                                                                  |
-| 單曲         | 2010年11月29日                           | S.M. The Ballad專輯                                        | Miss You         | 圭賢(與Jay、鐘鉉、[Jino](https://zh.wikipedia.org/wiki/趙珍虎 "wikilink"))                                                                                                                                                                      |
+| 單曲         | 2010年11月29日                           | S.M. The Ballad專輯                                        | Miss You         | 圭賢(與Jay、鐘鉉、[Jino](../Page/趙珍虎.md "wikilink"))                                                                                                                                                                                         |
 | Hot Times  |                                       |                                                          |                  |                                                                                                                                                                                                                                       |
 | Love Again | 圭賢                                    |                                                          |                  |                                                                                                                                                                                                                                       |
 | OST        | 2011年12月18日                           | [華麗的挑戰](../Page/華麗的挑戰_\(電視劇\).md "wikilink")             | 华丽的独秀(S.O.L.O.)  | Super Junior-M(全員)                                                                                                                                                                                                                    |
@@ -238,7 +238,7 @@ Junior-M計畫在2019年全員歸隊後，發行新專輯回歸。4月29日，�
 | 2015年                                                       | MBC                                                   | [她曾漂亮](https://zh.wikipedia.org/wiki/她很漂亮 "wikilink")             | 始源                                 | 金信赫     | 第二男主角 | 全集   |
 | 2015年                                                       | KBS                                                   | [Oh My Venus](../Page/Oh_My_Venus.md "wikilink")                  | [Henry](../Page/劉憲華.md "wikilink") | 金志雄     | 配角    | 全集   |
 | 2016年                                                       | [优酷](https://zh.wikipedia.org/wiki/优酷网 "wikilink")    | 最佳情侣                                                              | 周觅                                 | 言希成     | 第一男主角 | 全集   |
-| 2017年                                                       | tvN                                                   | 《[卞赫的愛情](https://zh.wikipedia.org/wiki/卞赫的愛情 "wikilink")》         | 始源                                 | |卞赫     | 第一男主角 | 全集   |
+| 2017年                                                       | tvN                                                   | 《[卞赫的愛情](../Page/卞赫的愛情.md "wikilink")》                            | 始源                                 | |卞赫     | 第一男主角 | 全集   |
 |                                                             |                                                       |                                                                   |                                    |         |       |      |
 
 ### 電影
@@ -257,7 +257,7 @@ Junior-M計畫在2019年全員歸隊後，發行新專輯回歸。4月29日，�
 | 2014年                                                                                 | [赤道](../Page/赤道.md "wikilink")                                  | 始源                | 朴宇哲       | 韓國特工 |
 | [傳聞](https://zh.wikipedia.org/wiki/傳聞\(電影\) "wikilink")                               | 東海                                                              | 郑宇                | 男主角       |      |
 | 2015年                                                                                 | [天將雄獅](https://zh.wikipedia.org/wiki/天將雄獅 "wikilink")           | 始源                | 殷破 Yin Po | 配角   |
-| [破風](https://zh.wikipedia.org/wiki/破風_\(電影\) "wikilink")                              | 始源                                                              | 鄭知元               | 主角        |      |
+| [破風](../Page/破風_\(電影\).md "wikilink")                                                 | 始源                                                              | 鄭知元               | 主角        |      |
 
 ## 作品
 

@@ -8,7 +8,7 @@ Pienkowski）負責繪畫插圖的[繪本](../Page/繪本.md "wikilink")。該�
 :;梅格（Meg，メグ）:[配音員](../Page/配音員.md "wikilink")：[Fay
 Ripley](https://zh.wikipedia.org/wiki/Fay_Ripley "wikilink")（英語版）、[內川藍維](../Page/內川藍維.md "wikilink")（日語版）
 
-::該系列的主角，是一位[女巫](https://zh.wikipedia.org/wiki/女巫 "wikilink")。
+::該系列的主角，是一位[女巫](../Page/女巫.md "wikilink")。
 
 :;莫格（Mog，モグ）：配音員：[Phil
 Cornwell](https://zh.wikipedia.org/wiki/Phil_Cornwell "wikilink")（英語版）、[福圓美里](../Page/福圓美里.md "wikilink")（日語版）

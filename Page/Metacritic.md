@@ -16,11 +16,11 @@ Dietz）花費兩年時間创建，2001年1月上線\[1\]。2005年被[CNET收�
   - [后窗](../Page/後窗.md "wikilink") 1954年\[7\]
   - [教父](../Page/教父_\(電影\).md "wikilink") 1972年\[8\]
   - [紅色情深](https://zh.wikipedia.org/wiki/紅色情深 "wikilink") 1994年\[9\]
-  - [少年时代](https://zh.wikipedia.org/wiki/少年时代 "wikilink") 2014年\[10\]
+  - [少年时代](../Page/少年时代.md "wikilink") 2014年\[10\]
 
 ### 电子遊戲
 
-  - [碧血狂殺2](https://zh.wikipedia.org/wiki/碧血狂殺2 "wikilink")（97/100）
+  - [碧血狂殺2](../Page/碧血狂殺2.md "wikilink")（97/100）
   - [薩爾達傳說 時之笛](../Page/薩爾達傳說_時之笛.md "wikilink") （[Nitendo
     64](../Page/任天堂64.md "wikilink")）（99/100）\[11\]
   - [托尼·霍克职业滑板2](https://zh.wikipedia.org/wiki/托尼·霍克职业滑板2 "wikilink")
@@ -34,17 +34,17 @@ Dietz）花費兩年時間创建，2001年1月上線\[1\]。2005年被[CNET收�
     One](../Page/Xbox_One.md "wikilink")、[PS3](../Page/PlayStation_3.md "wikilink")、[Xbox
     360](../Page/Xbox_360.md "wikilink")、[PS4](../Page/PlayStation_4.md "wikilink")）（97/100）\[16\]\[17\]\[18\]\[19\]
   - [薩爾達傳說 旷野之息](../Page/塞尔达传说_旷野之息.md "wikilink")
-    （[Switch](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")）（97/100）\[20\]
-  - [超级马里奥 银河](https://zh.wikipedia.org/wiki/超级马里奥银河 "wikilink")
+    （[Switch](../Page/任天堂Switch.md "wikilink")）（97/100）\[20\]
+  - [超级马里奥 银河](../Page/超级马里奥银河.md "wikilink")
     （[Wii](../Page/Wii.md "wikilink")） （97/100）\[21\]
   - [超级马里奥 银河2](../Page/超级马里奥银河2.md "wikilink")
     （[Wii](../Page/Wii.md "wikilink")）（97/100）\[22\]
-  - [超级马里奥 奥德赛](https://zh.wikipedia.org/wiki/超级马里奥_奥德赛 "wikilink")
-    （[Switch](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")）（97/100）\[23\]
+  - [超级马里奥 奥德赛](../Page/超级马里奥_奥德赛.md "wikilink")
+    （[Switch](../Page/任天堂Switch.md "wikilink")）（97/100）\[23\]
   - [戰慄時空2](https://zh.wikipedia.org/wiki/戰慄時空2 "wikilink")（96/100）\[24\]
   - [戰慄時空](https://zh.wikipedia.org/wiki/戰慄時空 "wikilink")（96/100）\[25\]
   - [傳送門2](../Page/傳送門2.md "wikilink")（95/100）\[26\]
-  - [戰神4](https://zh.wikipedia.org/wiki/戰神_\(2018年遊戲\) "wikilink")（95/100）
+  - [戰神4](../Page/戰神_\(2018年遊戲\).md "wikilink")（95/100）
   - [質量效應2](https://zh.wikipedia.org/wiki/質量效應2 "wikilink")（[Xbox
     360](../Page/Xbox_360.md "wikilink")）（96/100）\[27\]
   - [傳送門](../Page/傳送門.md "wikilink")（90/100）
@@ -63,7 +63,7 @@ Dietz）花費兩年時間创建，2001年1月上線\[1\]。2005年被[CNET收�
   - [俠盜獵車手III](../Page/俠盜獵車手III.md "wikilink")（93/100）
   - [俠盜獵車手：聖安地列斯](../Page/俠盜獵車手：聖安地列斯.md "wikilink")（93/100）
   - [摇滚史密斯2014](https://zh.wikipedia.org/wiki/摇滚史密斯2014 "wikilink")（91/100）
-  - [最後生還者](https://zh.wikipedia.org/wiki/最後生還者 "wikilink")（95/100）
+  - [最後生還者](../Page/最後生還者.md "wikilink")（95/100）
   - [血源詛咒](https://zh.wikipedia.org/wiki/血源詛咒 "wikilink") （92/100）
   - [Undertale](../Page/Undertale.md "wikilink") （94/100）
   - [秘境探險2：盜亦有道](../Page/秘境探險2：盜亦有道.md "wikilink")（96/100）

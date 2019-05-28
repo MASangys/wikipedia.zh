@@ -3,7 +3,7 @@ HIGH公司製作的世界第一個[正太控成人動畫](../Page/正太控.md "
 
 ## 作品理念
 
-本系列由於作為此種類型的初次作品，使得製作人員夠盡量拉大整部動畫的尺度。一般而言，所謂的[正太控](../Page/正太控.md "wikilink")，性質等同於男性少年間的[同性愛](../Page/同性戀.md "wikilink")，所以有時也會被冠上[BL的名稱](https://zh.wikipedia.org/wiki/BL_\(和製英語\) "wikilink")，因此通常這種作品都會被分類到[腐女](../Page/腐女.md "wikilink")・[腐男向的作品](https://zh.wikipedia.org/wiki/腐男 "wikilink")。
+本系列由於作為此種類型的初次作品，使得製作人員夠盡量拉大整部動畫的尺度。一般而言，所謂的[正太控](../Page/正太控.md "wikilink")，性質等同於男性少年間的[同性愛](../Page/同性戀.md "wikilink")，所以有時也會被冠上[BL的名稱](../Page/BL_\(和製英語\).md "wikilink")，因此通常這種作品都會被分類到[腐女](../Page/腐女.md "wikilink")・[腐男向的作品](https://zh.wikipedia.org/wiki/腐男 "wikilink")。
 
 作為第一部正太動畫的作品因為本身的內容，雖然造成購買層有所限制，卻也讓工作人員能夠減少許多製作的時間。因此作為第一集的『**[我的Pico](../Page/我的Pico.md "wikilink")**』，不僅能將裡面的少年角色大量地放入[蘿莉風的造型](../Page/蘿莉.md "wikilink")，也達到本作「[女裝正太設定](../Page/偽娘.md "wikilink")」的主要理念。但在一方面卻也留有BL的要素，所以也加入了Pico的朋友以及在作品中擔任觀察者的角色的青年阿保。
 

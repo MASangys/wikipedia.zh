@@ -14,16 +14,16 @@ Central」。
 
 ## 使用範圍
 
-  - [東海道本線](https://zh.wikipedia.org/wiki/東海道線_\(名古屋地區\) "wikilink")
+  - [東海道本線](../Page/東海道線_\(名古屋地區\).md "wikilink")
     [函南](https://zh.wikipedia.org/wiki/函南站 "wikilink") -
     [醒井間](https://zh.wikipedia.org/wiki/醒井站 "wikilink")
       - [大垣](https://zh.wikipedia.org/wiki/大垣站 "wikilink") -
-        [美濃赤坂間](https://zh.wikipedia.org/wiki/美濃赤坂站 "wikilink")（[美濃赤坂線](https://zh.wikipedia.org/wiki/美濃赤坂線 "wikilink")）不能使用。此外，與JR集團其他公司的邊界附近的熱海－函南、醒井－米原間不能使用（參見後述的「互相使用」）。
+        [美濃赤坂間](https://zh.wikipedia.org/wiki/美濃赤坂站 "wikilink")（[美濃赤坂線](../Page/美濃赤坂線.md "wikilink")）不能使用。此外，與JR集團其他公司的邊界附近的熱海－函南、醒井－米原間不能使用（參見後述的「互相使用」）。
   - [御殿場線](https://zh.wikipedia.org/wiki/御殿場線 "wikilink")  -
     [沼津間](https://zh.wikipedia.org/wiki/沼津站 "wikilink")
       - [東日本旅客鐵道](../Page/東日本旅客鐵道.md "wikilink")（JR東日本）的邊界附近的[國府津](../Page/國府津站.md "wikilink")
         - 下曾我間不能使用（參見後述的「互相使用」）。
-  - [身延線](https://zh.wikipedia.org/wiki/身延線 "wikilink")
+  - [身延線](../Page/身延線.md "wikilink")
     [富士](https://zh.wikipedia.org/wiki/富士站 "wikilink") - 間
   - [飯田線](../Page/飯田線.md "wikilink")
     [豐橋](https://zh.wikipedia.org/wiki/豐橋站 "wikilink") - 間
@@ -31,13 +31,13 @@ Central」。
     [大府](https://zh.wikipedia.org/wiki/大府站 "wikilink") - 間（全線）
   - [中央本線](https://zh.wikipedia.org/wiki/中央線_\(名古屋地區\) "wikilink")
     [名古屋](https://zh.wikipedia.org/wiki/名古屋站 "wikilink") -
-    [中津川間](https://zh.wikipedia.org/wiki/中津川站 "wikilink")
-  - [關西本線](https://zh.wikipedia.org/wiki/關西線_\(名古屋地區\) "wikilink") 名古屋 -
+    [中津川間](../Page/中津川站.md "wikilink")
+  - [關西本線](../Page/關西線_\(名古屋地區\).md "wikilink") 名古屋 -
     [龜山間](https://zh.wikipedia.org/wiki/龜山站_\(三重縣\) "wikilink")
   - [高山本線](../Page/高山本線.md "wikilink") [岐阜](../Page/岐阜站.md "wikilink") -
     [美濃太田間](https://zh.wikipedia.org/wiki/美濃太田站 "wikilink")
   - [太多線](../Page/太多線.md "wikilink") 美濃太田 -
-    [多治見間](https://zh.wikipedia.org/wiki/多治見站 "wikilink")（全線）
+    [多治見間](../Page/多治見站.md "wikilink")（全線）
 
 ### 互相使用
 

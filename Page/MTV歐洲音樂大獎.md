@@ -181,7 +181,7 @@ Awards，簡稱EMA），是MTV全球音樂電視臺為歐洲各國表現傑出�
 <td></td>
 <td><p><a href="../Page/鹿特丹阿侯伊體育館.md" title="wikilink">鹿特丹阿侯伊體育館</a></p></td>
 <td><p><strong><a href="../Page/鹿特丹.md" title="wikilink">鹿特丹</a></strong></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/碧碧·瑞茲莎" title="wikilink">碧碧·瑞茲莎</a></p></td>
+<td><p><a href="../Page/碧碧·瑞茲莎.md" title="wikilink">碧碧·瑞茲莎</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>第24屆</p></td>

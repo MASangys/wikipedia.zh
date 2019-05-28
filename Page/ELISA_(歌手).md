@@ -1,5 +1,5 @@
 **ELISA**是於[日本](../Page/日本.md "wikilink")[神奈川縣出身的女性歌手](../Page/神奈川縣.md "wikilink")，所属唱片公司为[SACRA
-MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")（至2011年年底为[Geneon
+MUSIC](../Page/SACRA_MUSIC.md "wikilink")（至2011年年底为[Geneon
 Universal](https://zh.wikipedia.org/wiki/Geneon_Universal "wikilink")），於2007年10月以單曲《euphoric
 field feat. ELISA》出道。
 
@@ -17,7 +17,7 @@ field feat. ELISA》出道。
     Heart"將於1月25日於"リスアニ！Vol.12"作為CD特典發佈，同時，官方[Twitter以](../Page/Twitter.md "wikilink")「Elisa_0414」重新運行。
   - 2017年4月，由原先[SME
     Records移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/SME_Records.md "wikilink")[SACRA
-    MUSIC](https://zh.wikipedia.org/wiki/SACRA_MUSIC "wikilink")。\[6\]
+    MUSIC](../Page/SACRA_MUSIC.md "wikilink")。\[6\]
 
 ## 作品
 

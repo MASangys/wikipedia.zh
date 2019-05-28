@@ -606,7 +606,7 @@ Children's Miracle Network Classic</p></td>
             Northern Trust
             Open）和[殖民地邀请赛](https://zh.wikipedia.org/wiki/殖民地邀请赛 "wikilink")（Crowne
             Plaza Invitational at
-            Colonial），均以著名球星[本·霍根](https://zh.wikipedia.org/wiki/本·霍根 "wikilink")（Ben
+            Colonial），均以著名球星[本·霍根](../Page/本·霍根.md "wikilink")（Ben
             Hogan）而知名，尤其是后者，霍根曾五次夺得其锦标。
           - [纪念锦标赛](https://zh.wikipedia.org/wiki/纪念锦标赛 "wikilink")（Memorial
             Tournament），由传奇巨星[杰克·尼克劳斯创立](https://zh.wikipedia.org/wiki/杰克·尼克劳斯 "wikilink")，并在其设计的球场举办，成为每年度受人关注的一项赛事。
@@ -748,13 +748,13 @@ Game）等，这些赛事通常被统称为“挑战性赛季”，也常被戏�
 <td><p>2016</p></td>
 <td><p><a href="../Page/達斯汀·約翰遜.md" title="wikilink">達斯汀·約翰遜</a> Dustin Johnson</p></td>
 <td><p>9,365,185</p></td>
-<td><p>3: <a href="https://zh.wikipedia.org/wiki/傑森·戴伊" title="wikilink">傑森·戴伊Jason</a> Day, <a href="../Page/達斯汀·約翰遜.md" title="wikilink">達斯汀·約翰遜</a> Dustin Johnson</p></td>
+<td><p>3: <a href="../Page/傑森·戴伊.md" title="wikilink">傑森·戴伊Jason</a> Day, <a href="../Page/達斯汀·約翰遜.md" title="wikilink">達斯汀·約翰遜</a> Dustin Johnson</p></td>
 </tr>
 <tr class="even">
 <td><p>2015</p></td>
 <td><p><a href="../Page/喬丹·斯皮思.md" title="wikilink">喬丹·斯皮思Jordan</a> Spieth</p></td>
 <td><p>12,030,465</p></td>
-<td><p>5: <a href="https://zh.wikipedia.org/wiki/傑森·戴伊" title="wikilink">傑森·戴伊Jason</a> Day, <a href="../Page/喬丹·斯皮思.md" title="wikilink">喬丹·斯皮思Jordan</a> Spieth</p></td>
+<td><p>5: <a href="../Page/傑森·戴伊.md" title="wikilink">傑森·戴伊Jason</a> Day, <a href="../Page/喬丹·斯皮思.md" title="wikilink">喬丹·斯皮思Jordan</a> Spieth</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014</p></td>
@@ -1136,7 +1136,7 @@ Game）等，这些赛事通常被统称为“挑战性赛季”，也常被戏�
 <td><p>1953</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/刘·沃什姆" title="wikilink">刘·沃什姆</a>（Lew Worsham）</p></td>
 <td><p>34,002</p></td>
-<td><p>5: <a href="https://zh.wikipedia.org/wiki/本·霍根" title="wikilink">本·霍根</a>（Ben Hogan）</p></td>
+<td><p>5: <a href="../Page/本·霍根.md" title="wikilink">本·霍根</a>（Ben Hogan）</p></td>
 </tr>
 <tr class="odd">
 <td><p>1952</p></td>
@@ -1722,7 +1722,7 @@ Year）**也同时被设立，用于奖励首次参加PGA巡回赛的球员。�
 <td><p>1967</p></td>
 <td><p>杰克·尼克劳斯</p></td>
 <td><p>1953</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/本·霍根" title="wikilink">本·霍根</a></p></td>
+<td><p><a href="../Page/本·霍根.md" title="wikilink">本·霍根</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1980</p></td>

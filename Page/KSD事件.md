@@ -22,7 +22,7 @@
 自民黨許多政治家都卷入案件，包括：
 
   -
-    [村上正邦](../Page/村上正邦.md "wikilink")、[岩崎純三](https://zh.wikipedia.org/wiki/岩崎純三 "wikilink")、[齋藤十朗](https://zh.wikipedia.org/wiki/齋藤十朗 "wikilink")、[齋藤元文](https://zh.wikipedia.org/wiki/齋藤元文 "wikilink")、[石渡清元](https://zh.wikipedia.org/wiki/石渡清元 "wikilink")、[野村五男](https://zh.wikipedia.org/wiki/野村五男 "wikilink")、[小野清子](https://zh.wikipedia.org/wiki/小野清子 "wikilink")、[井上裕](https://zh.wikipedia.org/wiki/井上裕 "wikilink")、[中曾根弘文](../Page/中曾根弘文.md "wikilink")、[木宮和彦](https://zh.wikipedia.org/wiki/木宮和彦 "wikilink")、[竹山裕](https://zh.wikipedia.org/wiki/竹山裕 "wikilink")、[橋本龍太郎](../Page/橋本龍太郎.md "wikilink")、[小山孝雄](https://zh.wikipedia.org/wiki/小山孝雄 "wikilink")、[岡野裕](https://zh.wikipedia.org/wiki/岡野裕 "wikilink")、[深谷隆司](https://zh.wikipedia.org/wiki/深谷隆司 "wikilink")、[伊吹文明](../Page/伊吹文明.md "wikilink")、[小淵惠三](../Page/小淵惠三.md "wikilink")（已逝世）、[鴻池祥肇](https://zh.wikipedia.org/wiki/鴻池祥肇 "wikilink")、[北岡秀二](https://zh.wikipedia.org/wiki/北岡秀二 "wikilink")
+    [村上正邦](../Page/村上正邦.md "wikilink")、[岩崎純三](https://zh.wikipedia.org/wiki/岩崎純三 "wikilink")、[齋藤十朗](https://zh.wikipedia.org/wiki/齋藤十朗 "wikilink")、[齋藤元文](https://zh.wikipedia.org/wiki/齋藤元文 "wikilink")、[石渡清元](https://zh.wikipedia.org/wiki/石渡清元 "wikilink")、[野村五男](https://zh.wikipedia.org/wiki/野村五男 "wikilink")、[小野清子](../Page/小野清子.md "wikilink")、[井上裕](https://zh.wikipedia.org/wiki/井上裕 "wikilink")、[中曾根弘文](../Page/中曾根弘文.md "wikilink")、[木宮和彦](https://zh.wikipedia.org/wiki/木宮和彦 "wikilink")、[竹山裕](https://zh.wikipedia.org/wiki/竹山裕 "wikilink")、[橋本龍太郎](../Page/橋本龍太郎.md "wikilink")、[小山孝雄](https://zh.wikipedia.org/wiki/小山孝雄 "wikilink")、[岡野裕](https://zh.wikipedia.org/wiki/岡野裕 "wikilink")、[深谷隆司](https://zh.wikipedia.org/wiki/深谷隆司 "wikilink")、[伊吹文明](../Page/伊吹文明.md "wikilink")、[小淵惠三](../Page/小淵惠三.md "wikilink")（已逝世）、[鴻池祥肇](https://zh.wikipedia.org/wiki/鴻池祥肇 "wikilink")、[北岡秀二](https://zh.wikipedia.org/wiki/北岡秀二 "wikilink")
 
 ## 判決
 
@@ -34,7 +34,7 @@
 
 KSD事件是日本進入21世紀爆發的第一起案情嚴重、影響深遠的腐敗案件，對當時的森喜朗政權造成嚴重的打擊。尤其是額賀福志郎的辭職，額賀是森喜朗上任以來第三位被批離職的閣員，他的辭職使森內閣陷入困境。森喜朗後來就事件表示遺憾，並且要求議員們嚴守紀律；而[民主黨的](https://zh.wikipedia.org/wiki/民主黨_\(日本\) "wikilink")[鳩山由紀夫則指出](https://zh.wikipedia.org/wiki/鳩山由紀夫 "wikilink")：「21世紀初始便以謝罪面對國民，太可悲了！」
 
-KSD事件加上森喜朗的接連失言、[愛媛丸事件](https://zh.wikipedia.org/wiki/愛媛丸事件 "wikilink")、經濟不景氣，導致森內閣的支持率不斷下挫，森喜朗上任只有一年就被迫下台，由[小泉純一郎接任](https://zh.wikipedia.org/wiki/小泉純一郎 "wikilink")。原先在野黨打算利用KSD事件，在當年舉行的[參議院選舉中取勝](../Page/第19屆日本參議院議員通常選舉.md "wikilink")；不過，在「小泉旋風」的影響下，自民黨在選舉中不僅沒有像預料中的失敗，反而大獲全勝。
+KSD事件加上森喜朗的接連失言、[愛媛丸事件](../Page/愛媛丸事件.md "wikilink")、經濟不景氣，導致森內閣的支持率不斷下挫，森喜朗上任只有一年就被迫下台，由[小泉純一郎接任](https://zh.wikipedia.org/wiki/小泉純一郎 "wikilink")。原先在野黨打算利用KSD事件，在當年舉行的[參議院選舉中取勝](../Page/第19屆日本參議院議員通常選舉.md "wikilink")；不過，在「小泉旋風」的影響下，自民黨在選舉中不僅沒有像預料中的失敗，反而大獲全勝。
 
 ## 參考文献
 

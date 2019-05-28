@@ -128,8 +128,7 @@ KPV重機槍1949年定位為步兵武器，但因太大及太重，在60年代�
   - [DShK重機槍](../Page/DShK重機槍.md "wikilink")
   - [NSV重機槍](../Page/NSV重機槍.md "wikilink")
   - [白朗寧M2重機槍](../Page/白朗寧M2重機槍.md "wikilink")
-  - [FN
-    BRG-15重機槍](https://zh.wikipedia.org/wiki/FN_BRG-15重機槍 "wikilink")
+  - [FN BRG-15重機槍](../Page/FN_BRG-15重機槍.md "wikilink")
 
 ## 外部連結
 

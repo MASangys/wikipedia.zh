@@ -9,7 +9,7 @@ J. Ferrier）首先报道。\[1\]
 
 ## 反应机理
 
-首先在[路易斯酸](https://zh.wikipedia.org/wiki/路易斯酸 "wikilink")（如[氯化铟或](https://zh.wikipedia.org/wiki/氯化铟 "wikilink")[三氟化硼](../Page/三氟化硼.md "wikilink")）作用下，乙酸根离子离去，产生离域的氧杂烯丙基碳正离子
+首先在[路易斯酸](https://zh.wikipedia.org/wiki/路易斯酸 "wikilink")（如[氯化铟或](../Page/氯化铟.md "wikilink")[三氟化硼](../Page/三氟化硼.md "wikilink")）作用下，乙酸根离子离去，产生离域的氧杂烯丙基碳正离子
 (2)。 接下来
 (2)原位与[醇作用](../Page/醇.md "wikilink")，生成2-[糖苷的](../Page/糖苷.md "wikilink")
 α- (3) 和 β- (4)

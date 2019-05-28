@@ -108,7 +108,7 @@ v7.36不仅仅会检查光盘信息，还会检查系统中常用的CD/DVD刻录
 ### Windows 10
 
 微軟公司於2015年8月發表的[Windows
-10作業系統禁止了採用SecuROM與](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[SafeDisc等光碟版權管理程式的遊戲執行](https://zh.wikipedia.org/wiki/SafeDisc "wikilink")，理由是這類版權管理程式有可能造成[資安風險](https://zh.wikipedia.org/wiki/資安 "wikilink")\[7\]。
+10作業系統禁止了採用SecuROM與](../Page/Windows_10.md "wikilink")[SafeDisc等光碟版權管理程式的遊戲執行](https://zh.wikipedia.org/wiki/SafeDisc "wikilink")，理由是這類版權管理程式有可能造成[資安風險](https://zh.wikipedia.org/wiki/資安 "wikilink")\[7\]。
 
 ## 参考文献
 

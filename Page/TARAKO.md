@@ -112,7 +112,7 @@
 
 <!-- end list -->
 
-  - [櫻桃小丸子：來自義大利的少年](https://zh.wikipedia.org/wiki/櫻桃小丸子：來自義大利的少年 "wikilink")（**櫻桃子**〈**小丸子**〉\[10\]）
+  - [櫻桃小丸子：來自義大利的少年](../Page/櫻桃小丸子：來自義大利的少年.md "wikilink")（**櫻桃子**〈**小丸子**〉\[10\]）
 
 <!-- end list -->
 
@@ -317,7 +317,7 @@
 
 ### 作詞
 
-  - [高帽子的梅莫兒](https://zh.wikipedia.org/wiki/外星小美兒 "wikilink")（[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")，1984年3月21日。歌唱：[山野智子](../Page/山野智子.md "wikilink")）
+  - [高帽子的梅莫兒](../Page/外星小美兒.md "wikilink")（[日本古倫美亞](../Page/日本古倫美亞.md "wikilink")，1984年3月21日。歌唱：[山野智子](../Page/山野智子.md "wikilink")）
 
 ### LIVE影像
 

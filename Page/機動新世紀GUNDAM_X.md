@@ -28,7 +28,7 @@ War（A.W.）15年，舞台在[人類和](../Page/人類.md "wikilink")[地球�
   - 音響監督：[浦上靖夫](https://zh.wikipedia.org/wiki/浦上靖夫 "wikilink")
   - 編輯：[邊見俊夫](https://zh.wikipedia.org/wiki/邊見俊夫 "wikilink")
   - 製作合作：[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[創通代理店](https://zh.wikipedia.org/wiki/創通代理店 "wikilink")
-  - 製片人：\<\#1\~\#26\>[梶淳](https://zh.wikipedia.org/wiki/梶淳 "wikilink")、[木村純一](https://zh.wikipedia.org/wiki/木村純一 "wikilink")([朝日電視](https://zh.wikipedia.org/wiki/朝日電視 "wikilink"))、[富岡秀行](https://zh.wikipedia.org/wiki/富岡秀行 "wikilink")([Sunrise](https://zh.wikipedia.org/wiki/Sunrise "wikilink"))
+  - 製片人：\<\#1\~\#26\>[梶淳](../Page/梶淳.md "wikilink")、[木村純一](https://zh.wikipedia.org/wiki/木村純一 "wikilink")([朝日電視](https://zh.wikipedia.org/wiki/朝日電視 "wikilink"))、[富岡秀行](https://zh.wikipedia.org/wiki/富岡秀行 "wikilink")([Sunrise](https://zh.wikipedia.org/wiki/Sunrise "wikilink"))
   - 製片人：\<\#27\~\#39\>[木村純一](https://zh.wikipedia.org/wiki/木村純一 "wikilink")、[岩本太郎](https://zh.wikipedia.org/wiki/岩本太郎 "wikilink")([朝日電視](https://zh.wikipedia.org/wiki/朝日電視 "wikilink"))、[富岡秀行](https://zh.wikipedia.org/wiki/富岡秀行 "wikilink")([Sunrise](https://zh.wikipedia.org/wiki/Sunrise "wikilink"))
   - 製作：[朝日電視](https://zh.wikipedia.org/wiki/朝日電視 "wikilink")、[Sunrise](https://zh.wikipedia.org/wiki/Sunrise "wikilink")
 
@@ -384,7 +384,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 
 
 
-**旁白、D.O.M.E**（日：[光岡湧太郎](https://zh.wikipedia.org/wiki/光岡湧太郎 "wikilink")／港：[招世亮](../Page/招世亮.md "wikilink")／台：[李景唐](../Page/李景唐.md "wikilink")）
+**旁白、D.O.M.E**（日：[光岡湧太郎](../Page/光岡湧太郎.md "wikilink")／港：[招世亮](../Page/招世亮.md "wikilink")／台：[李景唐](../Page/李景唐.md "wikilink")）
 
 ## 主題曲、單曲CD专辑
 
@@ -604,7 +604,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 <td><p>「月は出ているか?」</p></td>
 <td><p>ジャミル・ニート</p></td>
 <td><p><a href="../Page/高松信司.md" title="wikilink">高松信司</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/森邦宏" title="wikilink">森邦宏</a></p></td>
+<td><p><a href="../Page/森邦宏.md" title="wikilink">森邦宏</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/西村誠芳" title="wikilink">西村誠芳</a></p></td>
 <td><p>1996年<br />
 4月5日</p></td>
@@ -651,7 +651,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 <td><p>6</p></td>
 <td><p>「不愉快だわ…」</p></td>
 <td><p>サラ・タイレル</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西森章" title="wikilink">西森章</a></p></td>
+<td><p><a href="../Page/西森章.md" title="wikilink">西森章</a></p></td>
 <td><p>南康宏</p></td>
 <td><p>藁谷均<br />
 佐久間信一</p></td>
@@ -699,7 +699,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 <td><p>11</p></td>
 <td><p>「何も考えずに走れ!」</p></td>
 <td><p>ジャミル・ニート</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/千明孝一" title="wikilink">千明孝一</a></p></td>
+<td><p><a href="../Page/千明孝一.md" title="wikilink">千明孝一</a></p></td>
 <td><p>原田奈奈</p></td>
 <td><p>西村誠芳</p></td>
 <td><p>6月14日</p></td>
@@ -841,7 +841,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 <td><p>「何も喋るな」</p></td>
 <td><p>ウィッツ・スー[2]</p></td>
 <td><p>西森章</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岡本英樹" title="wikilink">岡本英樹</a></p></td>
+<td><p><a href="../Page/岡本英樹.md" title="wikilink">岡本英樹</a></p></td>
 <td><p>西村誠芳</p></td>
 <td><p>9月27日</p></td>
 </tr>
@@ -860,7 +860,7 @@ X）上下載下來，因此不必仰賴新人類進行初次認證即可使用�
 <td><p>「撃つしかないのか!」</p></td>
 <td><p>ガロード・ラン</p></td>
 <td><p>湊屋夢吉</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/於地紘仁" title="wikilink">越智浩仁</a></p></td>
+<td><p><a href="../Page/於地紘仁.md" title="wikilink">越智浩仁</a></p></td>
 <td><p>西村誠芳</p></td>
 <td><p>10月12日</p></td>
 </tr>

@@ -102,17 +102,17 @@ Korea停播。
   - [Coffee Mom](../Page/貓屎媽媽.md "wikilink")（）（原題：貓屎媽媽）
   - [對我而言不同的你](../Page/載得有情人.md "wikilink")（）（原題：載得有情人）
   - [大藥坊](../Page/大藥坊.md "wikilink")（）
-  - [真實之沼](https://zh.wikipedia.org/wiki/名門暗戰 "wikilink")（）（原題：名門暗戰）
+  - [真實之沼](../Page/名門暗戰.md "wikilink")（）（原題：名門暗戰）
   - [鄰家搜查中](../Page/師奶MADAM.md "wikilink")（）（原題：師奶MADAM）
-  - [走吧，杜振鋒](https://zh.wikipedia.org/wiki/宦海奇官 "wikilink")（）（原題：宦海奇官）
+  - [走吧，杜振鋒](../Page/宦海奇官.md "wikilink")（）（原題：宦海奇官）
   - [第3之眼](../Page/天眼_\(無綫電視劇\).md "wikilink")（）（原題：天眼）
   - [橫衝直撞倩女幽魂](../Page/倩女喜相逢.md "wikilink")（）（原題：倩女喜相逢）
-  - [Spotlight](https://zh.wikipedia.org/wiki/華麗轉身 "wikilink")（）（原題：華麗轉身）
+  - [Spotlight](../Page/華麗轉身.md "wikilink")（）（原題：華麗轉身）
   - [童話1/2](https://zh.wikipedia.org/wiki/童話二分之一 "wikilink")（）
   - [蝸居](https://zh.wikipedia.org/wiki/蝸居 "wikilink")（）
   - [醋娘子](../Page/醋娘子.md "wikilink")（）
   - [熱血律師](../Page/四個女仔三個BAR.md "wikilink")（）（原題：四個女仔三個BAR）
-  - [協商之神](https://zh.wikipedia.org/wiki/以和為貴 "wikilink")（）（原題：以和為貴）
+  - [協商之神](../Page/以和為貴.md "wikilink")（）（原題：以和為貴）
   - [M Club](../Page/女人俱樂部.md "wikilink")（）（原題：女人俱樂部）
   - [委託人](../Page/拆局專家.md "wikilink")（）（原題：拆局專家）
   - [摘天上的星星](https://zh.wikipedia.org/wiki/樓奴 "wikilink")（）（原題：樓奴）
@@ -143,7 +143,7 @@ Korea停播。
   - [倚天屠龍記](../Page/倚天屠龍記_\(1986年電視劇\).md "wikilink")（）
   - [後宮爭霸](https://zh.wikipedia.org/wiki/凰圖騰 "wikilink")（）（原題：凰圖騰）
   - [浣花洗劍錄](https://zh.wikipedia.org/wiki/浣花洗劍錄#改編電視劇 "wikilink")（）
-  - [秀秀的男人](https://zh.wikipedia.org/wiki/秀秀的男人 "wikilink")（）
+  - [秀秀的男人](../Page/秀秀的男人.md "wikilink")（）
   - [Secret
     Castle](https://zh.wikipedia.org/wiki/花非花霧非霧 "wikilink")（）（原題：花非花霧非霧）
   - [皇帝與我](https://zh.wikipedia.org/wiki/大內低手 "wikilink")（）（原題：大內低手）
@@ -167,7 +167,7 @@ Korea停播。
   - [大祚榮](https://zh.wikipedia.org/wiki/大祚榮 "wikilink")（）
   - [廣開土太王](../Page/廣開土太王_\(電視劇\).md "wikilink")（）
   - [妻子的誘惑](../Page/妻子的誘惑.md "wikilink")（）
-  - [鄭道傳](https://zh.wikipedia.org/wiki/鄭道傳_\(電視劇\) "wikilink")（）
+  - [鄭道傳](../Page/鄭道傳_\(電視劇\).md "wikilink")（）
   - [大王世宗](https://zh.wikipedia.org/wiki/大王世宗_\(電視劇\) "wikilink")（）
   - [巨商金萬德](../Page/巨商金萬德.md "wikilink")（）
   - [求婚大作戰](../Page/求婚大作戰_\(韓國電視劇\).md "wikilink")（）

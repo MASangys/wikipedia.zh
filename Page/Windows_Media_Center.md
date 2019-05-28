@@ -7,7 +7,7 @@ Vista家用進階版及旗艦版和](../Page/Windows_Vista.md "wikilink")[Window
 Center加入到Windows 8/8.1。（[Windows 8
 Enterprise不支持Windows](https://zh.wikipedia.org/wiki/Windows_8_Enterprise "wikilink")
 Media Center。）[Windows
-10將不支援](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")（可通过第三方安装在Windows
+10將不支援](../Page/Windows_10.md "wikilink")（可通过第三方安装在Windows
 10），包括以電影投影片形式觀看圖片、瀏覽並播放[音樂](https://zh.wikipedia.org/wiki/音樂 "wikilink")、播放[DVR](https://zh.wikipedia.org/wiki/DVR "wikilink")、收看並錄製[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")、下載[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")、放映家庭影片等。此外，Windows
 Media
 [DVR和](https://zh.wikipedia.org/wiki/DVR "wikilink")[DVR燒錄功能](https://zh.wikipedia.org/wiki/DVR "wikilink")。

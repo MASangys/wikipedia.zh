@@ -1,4 +1,4 @@
-**奶油樂團**（），是1960年代英國搖滾樂團。[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")／主唱[傑克·布魯斯](https://zh.wikipedia.org/wiki/傑克·布魯斯 "wikilink")，吉他手[艾瑞克·克萊普頓](https://zh.wikipedia.org/wiki/艾瑞克·克萊普頓 "wikilink")，和鼓手[金格·貝克組成的](https://zh.wikipedia.org/wiki/金格·貝克 "wikilink")。1966年成立，經過兩年即解散，但曾於1993年和2005年短暫復出。他們的音樂包括基於傳統藍調的歌曲，如“[十字路口藍調](../Page/Cross_Road_Blues.md "wikilink")”
+**奶油樂團**（），是1960年代英國搖滾樂團。[貝斯手](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")／主唱[傑克·布魯斯](../Page/傑克·布魯斯.md "wikilink")，吉他手[艾瑞克·克萊普頓](https://zh.wikipedia.org/wiki/艾瑞克·克萊普頓 "wikilink")，和鼓手[金格·貝克組成的](https://zh.wikipedia.org/wiki/金格·貝克 "wikilink")。1966年成立，經過兩年即解散，但曾於1993年和2005年短暫復出。他們的音樂包括基於傳統藍調的歌曲，如“[十字路口藍調](../Page/Cross_Road_Blues.md "wikilink")”
 和“”，還有現代藍調，譬如“”，以及更多當前的材料，如“”，“”和“”。
 
 樂團最好的排行榜單成績的歌曲有“”\[1\]
@@ -10,11 +10,11 @@
 
 ## 1966年成立樂團
 
-1966年7月，[艾瑞克·克萊普頓在](https://zh.wikipedia.org/wiki/艾瑞克·克萊普頓 "wikilink")[雛鳥樂團和](https://zh.wikipedia.org/wiki/雛鳥樂隊 "wikilink")的職業生涯贏得了他在英國首屈一指的[藍調](../Page/藍調.md "wikilink")[吉他手的聲譽](https://zh.wikipedia.org/wiki/吉他手 "wikilink")。\[15\]然而，克萊普頓發現了瑪雅的樂團環境限制，並試圖擴大他在一個新樂團中的演奏。1966年，克萊普頓遇到了的領導人[金格·貝克](https://zh.wikipedia.org/wiki/金格·貝克 "wikilink")，該組織一度曾以[傑克·布魯斯的](https://zh.wikipedia.org/wiki/傑克·布魯斯 "wikilink")[低音吉他](https://zh.wikipedia.org/wiki/低音吉他 "wikilink")、[口琴和](../Page/口琴.md "wikilink")[鋼琴作為主角](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")。金格·貝克對於格雷厄姆邦德債券組織樂團感到窒息，已經厭倦的吸毒成癮，和毒癮發作時的精神不穩定。
+1966年7月，[艾瑞克·克萊普頓在](https://zh.wikipedia.org/wiki/艾瑞克·克萊普頓 "wikilink")[雛鳥樂團和](https://zh.wikipedia.org/wiki/雛鳥樂隊 "wikilink")的職業生涯贏得了他在英國首屈一指的[藍調](../Page/藍調.md "wikilink")[吉他手的聲譽](https://zh.wikipedia.org/wiki/吉他手 "wikilink")。\[15\]然而，克萊普頓發現了瑪雅的樂團環境限制，並試圖擴大他在一個新樂團中的演奏。1966年，克萊普頓遇到了的領導人[金格·貝克](https://zh.wikipedia.org/wiki/金格·貝克 "wikilink")，該組織一度曾以[傑克·布魯斯的](../Page/傑克·布魯斯.md "wikilink")[低音吉他](https://zh.wikipedia.org/wiki/低音吉他 "wikilink")、[口琴和](../Page/口琴.md "wikilink")[鋼琴作為主角](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")。金格·貝克對於格雷厄姆邦德債券組織樂團感到窒息，已經厭倦的吸毒成癮，和毒癮發作時的精神不穩定。
 
 “我一直喜歡金格(金格·貝克)。”克萊普頓解釋說：“金格來看我和藍調破壞者樂團一起的演出，在演出結束後他開著車載我回倫敦，我對他的車和駕駛感到非常印象深刻，他告訴我他想創立一個樂團，我也一直在想它。”\[16\]
 
-每個人都對彼此的演奏能力印象深刻，促使貝克要求克萊普頓加入他未命名的新團體。克萊普頓立即同意，條件是貝克要聘請[傑克·布魯斯當樂團的貝斯手](https://zh.wikipedia.org/wiki/傑克·布魯斯 "wikilink")；根據克萊普頓說詞，貝克驚訝如此的建議，他差點撞車。\[17\]克萊普頓和傑克·布魯斯作為[貝斯手兼主唱一起與藍調破壞者樂團](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")，於1965年11月短暫效力；\[18\]\[19\]兩人也一起錄製了一個名為的短暫特設小組(其中還包括[史蒂夫·溫伍德和](https://zh.wikipedia.org/wiki/史蒂夫·溫伍德 "wikilink")[保羅·詹姆斯](https://zh.wikipedia.org/wiki/保羅·詹姆斯 "wikilink"))。克萊普頓對布魯斯的聲音和技術實力印象深刻，他希望能夠持續與他合作。
+每個人都對彼此的演奏能力印象深刻，促使貝克要求克萊普頓加入他未命名的新團體。克萊普頓立即同意，條件是貝克要聘請[傑克·布魯斯當樂團的貝斯手](../Page/傑克·布魯斯.md "wikilink")；根據克萊普頓說詞，貝克驚訝如此的建議，他差點撞車。\[17\]克萊普頓和傑克·布魯斯作為[貝斯手兼主唱一起與藍調破壞者樂團](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")，於1965年11月短暫效力；\[18\]\[19\]兩人也一起錄製了一個名為的短暫特設小組(其中還包括[史蒂夫·溫伍德和](https://zh.wikipedia.org/wiki/史蒂夫·溫伍德 "wikilink")[保羅·詹姆斯](https://zh.wikipedia.org/wiki/保羅·詹姆斯 "wikilink"))。克萊普頓對布魯斯的聲音和技術實力印象深刻，他希望能夠持續與他合作。
 
 相比之下，雖然布魯斯在格雷厄姆邦德債劵樂團中，他和貝克因吵架而臭名昭著。\[20\]他們不穩定的關係包括舞台上的戰鬥和破壞對方的樂器。\[21\]貝克從樂團中解僱布魯斯之後，布魯斯繼續前往樂團演出；最終，在貝克以刀鋒威脅他之後，布魯斯被趕出了樂團。\[22\]
 

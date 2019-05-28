@@ -93,7 +93,7 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
   - Best Overall (2nd): *[Star Trek: Armada
     3](https://zh.wikipedia.org/wiki/Star_Trek:_Armada_3 "wikilink")*
   - Best Overall (1st): *[Euro Truck Simulator
-    2](https://zh.wikipedia.org/wiki/歐洲卡車模擬2 "wikilink") Multiplayer*
+    2](../Page/歐洲卡車模擬2.md "wikilink") Multiplayer*
 
 ### 2010年
 
@@ -335,7 +335,7 @@ DB的[年度模组](https://web.archive.org/web/20061011203953/http://goldenspan
 
 <!-- end list -->
 
-  - [騎士精神：中世紀戰爭](https://zh.wikipedia.org/wiki/騎士精神：中世紀戰爭 "wikilink")\[24\]
+  - [騎士精神：中世紀戰爭](../Page/騎士精神：中世紀戰爭.md "wikilink")\[24\]
 
 <!-- end list -->
 

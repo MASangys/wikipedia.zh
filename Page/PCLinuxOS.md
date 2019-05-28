@@ -55,7 +55,7 @@
 
 ## 參見
 
-  - [APT-RPM](https://zh.wikipedia.org/wiki/APT-RPM "wikilink")
+  - [APT-RPM](../Page/APT-RPM.md "wikilink")
   - [Mandriva Linux](../Page/Mandriva_Linux.md "wikilink")
   - [滾動發行](../Page/滾動發行.md "wikilink")
 

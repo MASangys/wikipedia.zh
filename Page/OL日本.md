@@ -3,7 +3,7 @@
 
 ## 概要
 
-[編劇是同时段电视剧](../Page/編劇.md "wikilink")「[派遣员的品格](https://zh.wikipedia.org/wiki/派遣员的品格 "wikilink")」（2007年1月期）的主刀[中園美保](https://zh.wikipedia.org/wiki/中園美保 "wikilink")。[觀月亞里莎主演](../Page/觀月亞里莎.md "wikilink")，她也參與同時段電視劇「[齊藤太太](../Page/齊藤太太.md "wikilink")」（2008年1月期）的演出。
+[編劇是同时段电视剧](../Page/編劇.md "wikilink")「[派遣员的品格](https://zh.wikipedia.org/wiki/派遣员的品格 "wikilink")」（2007年1月期）的主刀[中園美保](../Page/中園美保.md "wikilink")。[觀月亞里莎主演](../Page/觀月亞里莎.md "wikilink")，她也參與同時段電視劇「[齊藤太太](../Page/齊藤太太.md "wikilink")」（2008年1月期）的演出。
 
 该电视剧是描写关于活跃于「[外判](../Page/外判.md "wikilink")」（工作外包）[办公室女职员们的悲喜剧](../Page/办公室女职员.md "wikilink")。
 
@@ -19,7 +19,7 @@
     海外[外包业务的中方经理](https://zh.wikipedia.org/wiki/外包 "wikilink")。35歳。理解中国研修生们勤奋与艰辛，实际上是个不考虑[国籍](https://zh.wikipedia.org/wiki/国籍 "wikilink")，持有[中立思想的人物](https://zh.wikipedia.org/wiki/中立 "wikilink")。
   - 矢部樱：[美波](../Page/美波.md "wikilink")
     新人[OL](../Page/办公室女职员.md "wikilink")。22歳。虽为日本出身，但受四分之一宽裕教育的影响，经常被中国研修生指出日语使用方面的错误，工作处于被动地位。
-  - 都留康介：[井上芳雄](https://zh.wikipedia.org/wiki/井上芳雄 "wikilink")
+  - 都留康介：[井上芳雄](../Page/井上芳雄.md "wikilink")
     島子的後輩社員。29歳。受到良好的教育，常有自己的一套，做事欠考虑型。经常希望得到岛子的认可。歌唱能力超群。
   - 朝比奈国彦：[東幹久](https://zh.wikipedia.org/wiki/東幹久 "wikilink")
     总务课长。39歳。服从上司，是公司的重要人物。对下级温顺，说话方式鼓励而不伤人，对岛子有好感。
@@ -74,8 +74,8 @@
 
 ## 製作人員
 
-  - 編劇：[中園美保](https://zh.wikipedia.org/wiki/中園美保 "wikilink")
-  - 音樂：[池賴廣](https://zh.wikipedia.org/wiki/池賴廣 "wikilink")
+  - 編劇：[中園美保](../Page/中園美保.md "wikilink")
+  - 音樂：[池賴廣](../Page/池賴廣.md "wikilink")
   - 導演：[岩本仁志](https://zh.wikipedia.org/wiki/岩本仁志 "wikilink")、[大谷太郎](https://zh.wikipedia.org/wiki/大谷太郎 "wikilink")、[本間美由紀](https://zh.wikipedia.org/wiki/本間美由紀 "wikilink")
   - 製作人：[西憲彥](https://zh.wikipedia.org/wiki/西憲彥 "wikilink")、[渡邊浩仁](https://zh.wikipedia.org/wiki/渡邊浩仁 "wikilink")
   - 製作協力：[AXON](https://zh.wikipedia.org/wiki/AXON "wikilink")

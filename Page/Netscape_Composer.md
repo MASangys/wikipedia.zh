@@ -5,7 +5,7 @@ Composer**是一個[所見即所得的](https://zh.wikipedia.org/wiki/所見即�
 
 網景最初將Composer開發做為[網景通訊家族](https://zh.wikipedia.org/wiki/網景通訊家族 "wikilink")（Netscape
 4）的一部份，但是該公司於1998年被[美國線上買下](https://zh.wikipedia.org/wiki/美國線上 "wikilink")，於是Composer開放原始碼並且交由[Mozilla基金會作進一步的研發](../Page/Mozilla基金會.md "wikilink")，Mozilla所進一步研發的部份被稱為[Mozilla
-Composer](https://zh.wikipedia.org/wiki/Mozilla_Composer "wikilink")，成為其網路套件[Mozilla
+Composer](../Page/Mozilla_Composer.md "wikilink")，成為其網路套件[Mozilla
 Application Suite的一部份](../Page/Mozilla_Application_Suite.md "wikilink")。
 
 最後一版的Netscape

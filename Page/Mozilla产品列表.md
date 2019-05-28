@@ -9,9 +9,8 @@
         Newsgroups](https://zh.wikipedia.org/wiki/Mozilla_Mail_&_Newsgroups "wikilink")
         –
         [电子邮件及](../Page/电子邮件.md "wikilink")[新闻组组件](../Page/新闻组.md "wikilink")。
-      - [Mozilla
-        Composer](https://zh.wikipedia.org/wiki/Mozilla_Composer "wikilink")
-        – [HTML编辑器组件](../Page/HTML编辑器.md "wikilink")。
+      - [Mozilla Composer](../Page/Mozilla_Composer.md "wikilink") –
+        [HTML编辑器组件](../Page/HTML编辑器.md "wikilink")。
       - [ChatZilla](../Page/ChatZilla.md "wikilink") –
         [IRC组件](../Page/IRC.md "wikilink")。
   - [Mozilla
@@ -98,14 +97,12 @@
 
   - [NPAPI](../Page/NPAPI.md "wikilink") – 建構外掛程式和瀏覽器之間的介面。
 
-  - [XPCOM](https://zh.wikipedia.org/wiki/XPCOM "wikilink") –
-    一種跨平台元件物件模型。
+  - [XPCOM](../Page/XPCOM.md "wikilink") – 一種跨平台元件物件模型。
 
   - [XPConnect](https://zh.wikipedia.org/wiki/XPConnect "wikilink") –
     一種在XPCOM和JavaScript之間綁定的技術。
 
-  - [XPInstall](https://zh.wikipedia.org/wiki/XPInstall "wikilink") –
-    一種用於安裝擴充套件的技術。
+  - [XPInstall](../Page/XPInstall.md "wikilink") – 一種用於安裝擴充套件的技術。
 
 ## 手機作業系統
 

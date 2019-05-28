@@ -42,7 +42,7 @@ THE MOVIE COLLECTION同時發行。\[1\]
   - [製作](../Page/製作.md "wikilink")：[萬代影視](../Page/萬代影視.md "wikilink")
   - 配給：[松竹](../Page/松竹.md "wikilink")
   - 監督：[高坂希太郎](../Page/高坂希太郎.md "wikilink")
-  - 演出：[松尾衡](https://zh.wikipedia.org/wiki/松尾衡 "wikilink")
+  - 演出：[松尾衡](../Page/松尾衡.md "wikilink")
   - 人物設定・作画監督：[結城信輝](../Page/結城信輝.md "wikilink")
   - 美術監督：[山本二三](../Page/山本二三.md "wikilink")
   - 攝影監督：八巻磐

@@ -1,4 +1,4 @@
-是[-{谷}-菊秀原作](https://zh.wikipedia.org/wiki/谷菊秀 "wikilink")、[黑岩善宏負責繪製的](https://zh.wikipedia.org/wiki/黑岩善宏 "wikilink")[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，起初於[集英社](../Page/集英社.md "wikilink")《[月刊少年Jump](../Page/月刊少年Jump.md "wikilink")》1992年8月號以短篇的方式發表，之後從同雜誌的12月號開始連載，至1996年9月增刊號完結，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")12冊。2005年由[竹書房發行全](../Page/竹書房.md "wikilink")7冊的新書版。中文代理方面，集英社版的單行本曾經由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[長鴻出版社發行](../Page/長鴻出版社.md "wikilink")、[香港由](../Page/香港.md "wikilink")[天下出版發行](../Page/天下出版.md "wikilink")。竹書房版的單行本目前無中文版。
+是[-{谷}-菊秀原作](https://zh.wikipedia.org/wiki/谷菊秀 "wikilink")、[黑岩善宏負責繪製的](../Page/黑岩善宏.md "wikilink")[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，起初於[集英社](../Page/集英社.md "wikilink")《[月刊少年Jump](../Page/月刊少年Jump.md "wikilink")》1992年8月號以短篇的方式發表，之後從同雜誌的12月號開始連載，至1996年9月增刊號完結，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")12冊。2005年由[竹書房發行全](../Page/竹書房.md "wikilink")7冊的新書版。中文代理方面，集英社版的單行本曾經由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[長鴻出版社發行](../Page/長鴻出版社.md "wikilink")、[香港由](../Page/香港.md "wikilink")[天下出版發行](../Page/天下出版.md "wikilink")。竹書房版的單行本目前無中文版。
 
 媒介方面，1995年由[東京電視網播出同名](../Page/東京電視網.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/#電視動畫 "wikilink")，1997年發行[OVA的外傳動畫](https://zh.wikipedia.org/wiki/#OVA "wikilink")。
 
@@ -347,11 +347,11 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 
 ### 製作人員
 
-  - 原作：-{谷}-菊秀、[黑岩善宏](https://zh.wikipedia.org/wiki/黑岩善宏 "wikilink")
+  - 原作：-{谷}-菊秀、[黑岩善宏](../Page/黑岩善宏.md "wikilink")
   - 執行製作：伊地智啓
   - 企劃：岩田圭介（東京電視台）、大野實（讀賣廣告社）、田原正利
   - 導演：[西村純二](../Page/西村純二.md "wikilink")
-  - 劇本統籌：[山口亮太](https://zh.wikipedia.org/wiki/山口亮太 "wikilink")
+  - 劇本統籌：[山口亮太](../Page/山口亮太.md "wikilink")
   - 人物設定：
   - 視覺強化工作：[中嶋敦子](../Page/中嶋敦子.md "wikilink")
   - 機械設定：
@@ -372,7 +372,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
   - 動畫製片人：豐住政弘
   - 製作人：小林教子→吉澤有（東京電視台）、今井修二→位下博一（讀賣廣告社）、朝倉千代子→千葉行利（K-Factory）
   - 動畫製作：[STUDIO DEEN](../Page/STUDIO_DEEN.md "wikilink")
-  - 製作：東京電視台、[讀賣廣告社](https://zh.wikipedia.org/wiki/讀賣廣告社 "wikilink")、[Kitty
+  - 製作：東京電視台、[讀賣廣告社](../Page/讀賣廣告社.md "wikilink")、[Kitty
     Film](https://zh.wikipedia.org/wiki/Kitty_Film "wikilink")（後期改名K-Factory）
 
 ### 主題歌
@@ -398,8 +398,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 
 :; 「<small>（）</small>」（第1話－第21話）
 
-::
-作詞：白峰美津子，作曲、編曲－津野剛司，主唱：[瀧本瞳](https://zh.wikipedia.org/wiki/瀧本瞳 "wikilink")
+:: 作詞：白峰美津子，作曲、編曲－津野剛司，主唱：[瀧本瞳](../Page/瀧本瞳.md "wikilink")
 
 :; 「<small>（）</small>」（第22話－第38話）
 
@@ -410,7 +409,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
   -
 
       -
-        作詞：[黑岩善宏](https://zh.wikipedia.org/wiki/黑岩善宏 "wikilink")，作曲、編曲：[天野正道](../Page/天野正道.md "wikilink")，主唱：橫山智佐、[緒方惠美](../Page/緒方惠美.md "wikilink")
+        作詞：[黑岩善宏](../Page/黑岩善宏.md "wikilink")，作曲、編曲：[天野正道](../Page/天野正道.md "wikilink")，主唱：橫山智佐、[緒方惠美](../Page/緒方惠美.md "wikilink")
 
 ### 各話標題
 
@@ -437,7 +436,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 <td><p>}}</p></td>
 <td><p>鬼神顯靈！我就是傳聞中的前鬼</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山口亮太" title="wikilink">山口亮太</a></p></td>
+<td><p><a href="../Page/山口亮太.md" title="wikilink">山口亮太</a></p></td>
 <td><p><a href="../Page/西村純二.md" title="wikilink">西村純二</a></p></td>
 <td><p>橫山廣行</p></td>
 </tr>
@@ -459,7 +458,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 <td><p>小明危險了 小心快門按下去的那一刻！</p></td>
 <td><p>時村尚</p></td>
 <td><p>小川浩司</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/龜垣一" title="wikilink">龜垣一</a></p></td>
+<td><p><a href="../Page/龜垣一.md" title="wikilink">龜垣一</a></p></td>
 <td><p>憑依獸·蛇爬（）</p></td>
 <td></td>
 </tr>
@@ -468,7 +467,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 <td><p>4</p></td>
 <td></td>
 <td><p>慾望之壺 鬼神鎮黃金計劃</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/十川誠志" title="wikilink">十川誠志</a></p></td>
+<td><p><a href="../Page/十川誠志.md" title="wikilink">十川誠志</a></p></td>
 <td><p>松本佳久</p></td>
 <td><p>青木哲朗</p></td>
 <td><p>憑依獸·邪光猿（）</p></td>
@@ -480,7 +479,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 <td></td>
 <td><p>食慾魔神 前鬼的味道是幾星級？</p></td>
 <td><p>植田浩二</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鈴木行" title="wikilink">鈴木行</a></p></td>
+<td><p><a href="../Page/鈴木行.md" title="wikilink">鈴木行</a></p></td>
 <td><p>守岡博</p></td>
 <td><p><a href="../Page/山本泰一郎.md" title="wikilink">山本泰一郎</a></p></td>
 <td><p>憑依獸·威嚇（）</p></td>
@@ -671,7 +670,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 <td><p>時村尚</p></td>
 <td><p>渡邊哲哉</p></td>
 <td><p>牛草健</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柳澤哲也" title="wikilink">柳澤哲也</a></p></td>
+<td><p><a href="../Page/柳澤哲也.md" title="wikilink">柳澤哲也</a></p></td>
 <td><p>巨大山椒魚</p></td>
 </tr>
 <tr class="odd">
@@ -1205,7 +1204,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 <!-- end list -->
 
   - 導演、分鏡：[西村純二](../Page/西村純二.md "wikilink")
-  - 編劇：[山口亮太](https://zh.wikipedia.org/wiki/山口亮太 "wikilink")
+  - 編劇：[山口亮太](../Page/山口亮太.md "wikilink")
   - 人物設定、作畫監督：
   - 演出：白旗伸朗
   - 美術監督：小山俊久

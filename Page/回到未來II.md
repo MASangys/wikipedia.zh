@@ -158,7 +158,7 @@ Lloyd，這段短片在數天內瀏覽人數即上升至一百萬，儘管這段
 
 片中2015年10月21日的3D看板快報播放[國家聯盟](https://zh.wikipedia.org/wiki/國家聯盟 "wikilink")[芝加哥小熊橫掃](../Page/芝加哥小熊.md "wikilink")[美國聯盟的](https://zh.wikipedia.org/wiki/美國聯盟 "wikilink")[邁阿密球隊](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")，贏得[世界大賽冠軍的消息](https://zh.wikipedia.org/wiki/2015年世界大賽#流行文化 "wikilink")。現實中最接近的是[佛羅里達馬林魚於](https://zh.wikipedia.org/wiki/佛羅里達馬林魚 "wikilink")[2003年國家聯盟冠軍賽擊敗芝加哥小熊](../Page/2003年國家聯盟冠軍賽.md "wikilink")（馬林魚隨後於[2003年世界大賽擊敗](../Page/2003年世界大賽.md "wikilink")[紐約洋基](../Page/紐約洋基.md "wikilink")）；小熊在2015年10月21日遭[紐約大都會橫掃](../Page/紐約大都會.md "wikilink")，未能晉級世界大賽。此外，馬林魚隊於2015年球季藉《回到未來》推出「改寫未來」（Rewrite
 The
-Future）相關活動\[2\]；然而一年後的2016年10月22日，小熊在[2016年國家聯盟冠軍賽擊敗](https://zh.wikipedia.org/wiki/2016年國家聯盟冠軍賽 "wikilink")[洛杉磯道奇成功闖進世界大賽](https://zh.wikipedia.org/wiki/洛杉磯道奇 "wikilink")。並且在2016年11月3日以8比7擊敗[克里夫蘭印第安人贏得](https://zh.wikipedia.org/wiki/克里夫蘭印第安人 "wikilink")[2016年世界大賽](https://zh.wikipedia.org/wiki/2016年世界大賽 "wikilink")。
+Future）相關活動\[2\]；然而一年後的2016年10月22日，小熊在[2016年國家聯盟冠軍賽擊敗](../Page/2016年國家聯盟冠軍賽.md "wikilink")[洛杉磯道奇成功闖進世界大賽](https://zh.wikipedia.org/wiki/洛杉磯道奇 "wikilink")。並且在2016年11月3日以8比7擊敗[克里夫蘭印第安人贏得](https://zh.wikipedia.org/wiki/克里夫蘭印第安人 "wikilink")[2016年世界大賽](../Page/2016年世界大賽.md "wikilink")。
 
 可能最大的矛盾是電影裏的飛天車和空中高速公路在未來中是否真的存在。不過，一輛原形飛天車在2013年公布了，價錢牌大約是$35,000，和「轉換飛行功能」的價錢相似。
 

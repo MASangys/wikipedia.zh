@@ -3,7 +3,7 @@ TV-**》（）是[倉田英之創作的](../Page/倉田英之.md "wikilink")[輕
 READ OR DIE YOMIKO READMAN "THE
 PAPER"》改編而成的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。2003年9月1日在日本Perfect
 choice（[Pay Per
-View](https://zh.wikipedia.org/wiki/按次付费电视 "wikilink")）電視台播放，2003年10月15日在日本[富士電視台播放](../Page/富士電視台.md "wikilink")。2008年3月29日開始在[東京都會電視台重播](../Page/東京都會電視台.md "wikilink")。全26集。
+View](../Page/按次付费电视.md "wikilink")）電視台播放，2003年10月15日在日本[富士電視台播放](../Page/富士電視台.md "wikilink")。2008年3月29日開始在[東京都會電視台重播](../Page/東京都會電視台.md "wikilink")。全26集。
 
 ## 劇情簡介
 
@@ -79,7 +79,7 @@ View](https://zh.wikipedia.org/wiki/按次付费电视 "wikilink")）電視台�
     菫川奈奈奈的朋友。
     為日本著名女作家。
   - 菱石久美（菱石久美）
-    配音員：[川田妙子](https://zh.wikipedia.org/wiki/川田妙子 "wikilink")／台灣配音員：[錢欣郁](../Page/錢欣郁.md "wikilink")
+    配音員：[川田妙子](../Page/川田妙子.md "wikilink")／台灣配音員：[錢欣郁](../Page/錢欣郁.md "wikilink")
     艾妮達的好朋友，對艾妮達有朋友以上的特殊情感。
     西濱中學的學生。
   - 岡原徹（-{岡原徹}-）
@@ -103,12 +103,11 @@ View](https://zh.wikipedia.org/wiki/按次付费电视 "wikilink")）電視台�
 
   - 原作、腳本 - [倉田英之](../Page/倉田英之.md "wikilink")
   - 人物原案 - [羽音たらく](https://zh.wikipedia.org/wiki/羽音たらく "wikilink")
-  - 監督 - [舛成孝二](https://zh.wikipedia.org/wiki/舛成孝二 "wikilink")
+  - 監督 - [舛成孝二](../Page/舛成孝二.md "wikilink")
   - 人物設計、總作畫監督 - [石浜真史](https://zh.wikipedia.org/wiki/石浜真史 "wikilink")
   - [美術指導](../Page/美術指導.md "wikilink") -
     [神宮司訓之](https://zh.wikipedia.org/wiki/神宮司訓之 "wikilink")
-  - 美術監督 - [Easter
-    八（やつ）組](https://zh.wikipedia.org/wiki/STUDIO_EASTER "wikilink")
+  - 美術監督 - [Easter 八（やつ）組](../Page/STUDIO_EASTER.md "wikilink")
   - 美術設定 - 泉寛
   - 色彩設定 - 店橋真弓
   - 攝影監督 - 西田和成
@@ -171,7 +170,7 @@ View](https://zh.wikipedia.org/wiki/按次付费电视 "wikilink")）電視台�
 <td><p>第1話</p></td>
 <td></td>
 <td><p>漫天紙舞</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/舛成孝二" title="wikilink">舛成孝二</a></p></td>
+<td><p><a href="../Page/舛成孝二.md" title="wikilink">舛成孝二</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/石濱真史" title="wikilink">石濱真史</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/傑克·希金斯" title="wikilink">傑克·希金斯的冒險小說</a>《<a href="../Page/猛鷹突擊兵團.md" title="wikilink">猛鷹突擊兵團</a>》</p></td>
 <td></td>
@@ -248,7 +247,7 @@ View](https://zh.wikipedia.org/wiki/按次付费电视 "wikilink")）電視台�
 <td><p>第9話</p></td>
 <td></td>
 <td><p><a href="../Page/黑暗的心.md" title="wikilink">黑暗深處</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/中山勝一" title="wikilink">中山勝一</a></p></td>
+<td><p><a href="../Page/中山勝一.md" title="wikilink">中山勝一</a></p></td>
 <td><p>渡部健一郎</p></td>
 <td><p>千葉崇洋</p></td>
 <td><p><a href="../Page/约瑟夫·康拉德.md" title="wikilink">约瑟夫·康拉德的同名小說</a><br />
@@ -282,7 +281,7 @@ View](https://zh.wikipedia.org/wiki/按次付费电视 "wikilink")）電視台�
 枡田邦彰、下谷智之</p></td>
 <td><p><a href="../Page/理查德·瓦格纳.md" title="wikilink">理查德·瓦格纳的歌劇</a><br />
 《<a href="../Page/尼伯龙根的指环.md" title="wikilink">尼伯龙根的指环</a>》第3夜<br />
-「<a href="https://zh.wikipedia.org/wiki/諸神的黃昏_(歌劇)" title="wikilink">諸神的黃昏</a>」</p></td>
+「<a href="../Page/諸神的黃昏_(歌劇).md" title="wikilink">諸神的黃昏</a>」</p></td>
 </tr>
 <tr class="odd">
 <td><p>第13話</p></td>
@@ -379,7 +378,7 @@ View](https://zh.wikipedia.org/wiki/按次付费电视 "wikilink")）電視台�
 <td><p>第22話</p></td>
 <td></td>
 <td><p>奪取</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鈴木行" title="wikilink">鈴木行</a></p></td>
+<td><p><a href="../Page/鈴木行.md" title="wikilink">鈴木行</a></p></td>
 <td><p>石川久一</p></td>
 <td><p>枡田邦彰<br />
 矢上孝一</p></td>

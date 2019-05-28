@@ -11,6 +11,6 @@
 
 （此处所列均为内容很不完整的部分条目，另外本专题内仍有很多条目亟待完善！建议可自英文条目翻译来进行扩充。）
 
-  - **新建条目：**、、、[同志雷达](../Page/同志雷达.md "wikilink")、、[人权战线](../Page/人权战线.md "wikilink")、、、[LGBT象征](https://zh.wikipedia.org/wiki/LGBT象征 "wikilink")、[LGBT刻板印象](https://zh.wikipedia.org/wiki/LGBT刻板印象 "wikilink")、、、、、和《》等很多LGBT相关电影的条目。
+  - **新建条目：**、、、[同志雷达](../Page/同志雷达.md "wikilink")、、[人权战线](../Page/人权战线.md "wikilink")、、、[LGBT象征](https://zh.wikipedia.org/wiki/LGBT象征 "wikilink")、[LGBT刻板印象](../Page/LGBT刻板印象.md "wikilink")、、、、、和《》等很多LGBT相关电影的条目。
   - **请求图片：**[劳伦斯诉德克萨斯州案](../Page/劳伦斯诉德克萨斯州案.md "wikilink")、[蔡康永](../Page/蔡康永.md "wikilink")、[吴幼坚](../Page/吴幼坚.md "wikilink")、[赖正哲](https://zh.wikipedia.org/wiki/赖正哲 "wikilink")、[国际不再恐同日](https://zh.wikipedia.org/wiki/国际不再恐同日 "wikilink")、[校园同志苏醒日](https://zh.wikipedia.org/wiki/校园同志苏醒日 "wikilink")、[兔儿神](https://zh.wikipedia.org/wiki/兔儿神 "wikilink")
   - **其它工作：**[参与专题评级](https://zh.wikipedia.org/wiki/WP:LGBT专题/评级 "wikilink")、[翻译页面](https://zh.wikipedia.org/wiki/Wikipedia:LGBT专题/翻译页面 "wikilink")

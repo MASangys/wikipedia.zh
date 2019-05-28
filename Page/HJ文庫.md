@@ -25,7 +25,7 @@ Japan在2006年7月1日創刊的[輕小說文庫](../Page/輕小說.md "wikilink
 
   - [串刺少女](https://zh.wikipedia.org/wiki/串刺少女 "wikilink")（[木村航](../Page/木村航.md "wikilink")／[中村哲也](https://zh.wikipedia.org/wiki/中村哲也 "wikilink")）
 
-  - （[清水文化](https://zh.wikipedia.org/wiki/清水文化 "wikilink")／[牛木義隆](https://zh.wikipedia.org/wiki/牛木義隆 "wikilink")）
+  - （[清水文化](https://zh.wikipedia.org/wiki/清水文化 "wikilink")／[牛木義隆](../Page/牛木義隆.md "wikilink")）
 
   - [壯麗的黎明](https://zh.wikipedia.org/wiki/壯麗的黎明 "wikilink")（[庄司卓](https://zh.wikipedia.org/wiki/庄司卓 "wikilink")／[四季童子](../Page/四季童子.md "wikilink")）
 
@@ -45,17 +45,17 @@ Japan在2006年7月1日創刊的[輕小說文庫](../Page/輕小說.md "wikilink
 
   - [超鋼女雪拉](../Page/超鋼女雪拉.md "wikilink")（[寺田とものり](https://zh.wikipedia.org/wiki/寺田とものり "wikilink")／[Ein](https://zh.wikipedia.org/wiki/Ein "wikilink")）
 
-  - [月之少女](https://zh.wikipedia.org/wiki/月之少女 "wikilink")（[渡辺まさき](https://zh.wikipedia.org/wiki/渡辺まさき "wikilink")／[山田秀樹](https://zh.wikipedia.org/wiki/山田秀樹 "wikilink")）
+  - [月之少女](https://zh.wikipedia.org/wiki/月之少女 "wikilink")（[渡辺まさき](https://zh.wikipedia.org/wiki/渡辺まさき "wikilink")／[山田秀樹](../Page/山田秀樹.md "wikilink")）
 
-  - [緋華Sparkling](https://zh.wikipedia.org/wiki/緋華Sparkling "wikilink")（[藤原征矢](https://zh.wikipedia.org/wiki/藤原征矢 "wikilink")／[松本規之](https://zh.wikipedia.org/wiki/松本規之 "wikilink")）
+  - [緋華Sparkling](https://zh.wikipedia.org/wiki/緋華Sparkling "wikilink")（[藤原征矢](https://zh.wikipedia.org/wiki/藤原征矢 "wikilink")／[松本規之](../Page/松本規之.md "wikilink")）
 
   - [叛紅獵殺](https://zh.wikipedia.org/wiki/叛紅獵殺 "wikilink")（[在原竹広](https://zh.wikipedia.org/wiki/在原竹広 "wikilink")／[弘司](https://zh.wikipedia.org/wiki/弘司 "wikilink")）
 
-  - [半熟公主](../Page/半熟公主.md "wikilink")（[榊一郎](../Page/榊一郎.md "wikilink")／[深山和香](https://zh.wikipedia.org/wiki/深山和香 "wikilink")）
+  - [半熟公主](../Page/半熟公主.md "wikilink")（[榊一郎](../Page/榊一郎.md "wikilink")／[深山和香](../Page/深山和香.md "wikilink")）
 
   - [屍人狩獵者](https://zh.wikipedia.org/wiki/屍人狩獵者 "wikilink")（[葛西伸哉](https://zh.wikipedia.org/wiki/葛西伸哉 "wikilink")／[金田榮路](https://zh.wikipedia.org/wiki/金田榮路 "wikilink")）
 
-  - [模造王女騷動記](../Page/模造王女騷動記.md "wikilink")（榊一郎／[藤田香](https://zh.wikipedia.org/wiki/藤田香 "wikilink")）
+  - [模造王女騷動記](../Page/模造王女騷動記.md "wikilink")（榊一郎／[藤田香](../Page/藤田香.md "wikilink")）
 
   - [女王之刃系列](../Page/女王之刃.md "wikilink")（[沖田榮次](https://zh.wikipedia.org/wiki/沖田榮次 "wikilink")／[えぃわ](https://zh.wikipedia.org/wiki/えぃわ "wikilink")）
 
@@ -125,7 +125,7 @@ Japan在2006年7月1日創刊的[輕小說文庫](../Page/輕小說.md "wikilink
 
   - [我的現實與網遊被戀愛喜劇侵蝕了](../Page/我的現實與網遊被戀愛喜劇侵蝕了.md "wikilink")（[藤谷ある](https://zh.wikipedia.org/wiki/藤谷ある "wikilink")／[三嶋くろね](https://zh.wikipedia.org/wiki/三嶋くろね "wikilink")）
 
-  - [魔王的我與不死公主的戒指](https://zh.wikipedia.org/wiki/魔王的我與不死公主的戒指 "wikilink")（[柑橘ゆすら](https://zh.wikipedia.org/wiki/柑橘ゆすら "wikilink")／[しゅがすく](https://zh.wikipedia.org/wiki/しゅがすく "wikilink")）
+  - [魔王的我與不死公主的戒指](https://zh.wikipedia.org/wiki/魔王的我與不死公主的戒指 "wikilink")（[柑橘ゆすら](../Page/柑橘ゆすら.md "wikilink")／[しゅがすく](https://zh.wikipedia.org/wiki/しゅがすく "wikilink")）
 
   - [SAMURAI
     BLOOD武士之血](https://zh.wikipedia.org/wiki/SAMURAI_BLOOD武士之血 "wikilink")（[松時ノ介](https://zh.wikipedia.org/wiki/松時ノ介 "wikilink")／[津雪](https://zh.wikipedia.org/wiki/津雪 "wikilink")）
@@ -144,7 +144,7 @@ Japan在2006年7月1日創刊的[輕小說文庫](../Page/輕小說.md "wikilink
 
   - [我的姊姊有中二病](https://zh.wikipedia.org/wiki/我的姊姊有中二病 "wikilink")（[藤孝剛志](https://zh.wikipedia.org/wiki/藤孝剛志 "wikilink")／[An2A](https://zh.wikipedia.org/wiki/An2A "wikilink")）
 
-  - [格蘭斯坦迪亞皇國物語](https://zh.wikipedia.org/wiki/格蘭斯坦迪亞皇國物語 "wikilink")（[内堀優一](https://zh.wikipedia.org/wiki/内堀優一 "wikilink")／[鵜飼沙樹](https://zh.wikipedia.org/wiki/鵜飼沙樹 "wikilink")）
+  - [格蘭斯坦迪亞皇國物語](https://zh.wikipedia.org/wiki/格蘭斯坦迪亞皇國物語 "wikilink")（[内堀優一](https://zh.wikipedia.org/wiki/内堀優一 "wikilink")／[鵜飼沙樹](../Page/鵜飼沙樹.md "wikilink")）
 
   - [勇者(我)和魔王(她)的客廳之戰](https://zh.wikipedia.org/wiki/勇者\(我\)和魔王\(她\)的客廳之戰 "wikilink")（緋月薙／三嶋くろね）
 

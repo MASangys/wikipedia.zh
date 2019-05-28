@@ -38,7 +38,7 @@ CIS 40 AGL採用了與美軍Mk 19 Mod
   - [手榴弹](../Page/手榴弹.md "wikilink")、[槍榴彈](../Page/步槍用榴彈.md "wikilink")
   - [Mk 19自動榴彈發射器](../Page/Mk_19自動榴彈發射器.md "wikilink")
   - [Mk 47自動榴彈發射器](../Page/Mk_47自動榴彈發射器.md "wikilink")
-  - [XM174自動榴彈發射器](https://zh.wikipedia.org/wiki/XM174自動榴彈發射器 "wikilink")
+  - [XM174自動榴彈發射器](../Page/XM174自動榴彈發射器.md "wikilink")
   - [XM307自動榴彈發射器](../Page/XM307自動榴彈發射器.md "wikilink")
   - [AGS-17](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")、[AGS-30自動榴彈發射器](../Page/AGS-30阿特蘭自動榴彈發射器.md "wikilink")
   - [AGS-40／6G27自動榴彈發射器](../Page/AGS-40巴爾幹自動榴彈發射器.md "wikilink")

@@ -89,7 +89,7 @@ MAC槍族型[衝鋒手槍首先是由軍事裝備公司](../Page/全自動手槍
     2018](https://zh.wikipedia.org/wiki/殺手2_\(2018年遊戲\) "wikilink")》：命名為「DAK
     X2」，裝上[消聲器](../Page/抑制器.md "wikilink")，20發彈匣。
   - 2019年— 《[-{zh-hans:生化危机2（重制版）;
-    zh-hant:惡靈古堡2（重制版）;}-](https://zh.wikipedia.org/wiki/生化危机2_\(重制版\) "wikilink")》：命名為“MQ
+    zh-hant:惡靈古堡2（重制版）;}-](../Page/生化危机2_\(重制版\).md "wikilink")》：命名為“MQ
     11”，24發彈匣（可延長為50發），可裝上延長彈匣、消聲器和展開槍托。被S.T.A.R.S特殊部隊所採用，亦可在故事中被[里昂和](../Page/里昂·S·甘乃迪.md "wikilink")[克蕾兒搭取使用](../Page/克蕾兒·雷德菲爾.md "wikilink")。
 
 ### 动畫

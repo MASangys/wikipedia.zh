@@ -79,7 +79,7 @@ PS2版的系統介面基本沿用個人電腦版遊戲，可選擇國家也跟�
       - [坊之岬海海戰](https://zh.wikipedia.org/wiki/坊之岬海海戰 "wikilink")
   - **威力加強版新增內容**
       - 第二次日德蘭海戰（假想劇本，英德雙方以一戰後期設計的大艦巨砲戰艦再進行[第一次世界大戰的](https://zh.wikipedia.org/wiki/第一次世界大戰 "wikilink")[日德蘭海戰](https://zh.wikipedia.org/wiki/日德蘭海戰 "wikilink")）
-      - [凱比爾港海戰](https://zh.wikipedia.org/wiki/凱比爾港海戰 "wikilink")
+      - [凱比爾港海戰](../Page/凱比爾港海戰.md "wikilink")
       - 幻之八八艦隊（假想劇本，美日雙方以一戰後期設計的大艦巨砲戰艦進行中途島海戰）
       - Plan Red（假想劇本）
       - Plan Black（假想劇本）

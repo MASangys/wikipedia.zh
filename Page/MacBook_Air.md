@@ -213,8 +213,8 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/存储设备" title="wikilink">存储设备</a></p></td>
-<td><p>80 GB 1.8英寸 <a href="https://zh.wikipedia.org/wiki/ATA" title="wikilink">ATA</a>，4200-rpm HDD 或者 64 GB <a href="https://zh.wikipedia.org/wiki/固态硬碟" title="wikilink">固态硬碟</a></p></td>
-<td><p>120<a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a> 1.8英寸 4200-rpm Serial <a href="https://zh.wikipedia.org/wiki/ATA" title="wikilink">ATA</a> 硬碟或 128 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a> <a href="https://zh.wikipedia.org/wiki/固态硬碟" title="wikilink">固态硬碟</a></p></td>
+<td><p>80 GB 1.8英寸 <a href="../Page/ATA.md" title="wikilink">ATA</a>，4200-rpm HDD 或者 64 GB <a href="https://zh.wikipedia.org/wiki/固态硬碟" title="wikilink">固态硬碟</a></p></td>
+<td><p>120<a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a> 1.8英寸 4200-rpm Serial <a href="../Page/ATA.md" title="wikilink">ATA</a> 硬碟或 128 <a href="https://zh.wikipedia.org/wiki/GB" title="wikilink">GB</a> <a href="https://zh.wikipedia.org/wiki/固态硬碟" title="wikilink">固态硬碟</a></p></td>
 <td><p>64，128 或 256 GB 的<a href="https://zh.wikipedia.org/wiki/固态硬碟" title="wikilink">固态硬碟</a></p></td>
 <td><p>64，128(<span style="color: #969696"><em>可选 256GB</em></span>) 或 256 GB 的<a href="https://zh.wikipedia.org/wiki/固态硬碟" title="wikilink">固态硬碟</a></p></td>
 <td><p>64，128(11" 高配机型；<span style="color: #969696"><em>可选 256 GB或 512 GB</em></span>) 或 128，256 GB (13" 高配机型; <span style="color: #969696"><em>可选 512 GB</em></span>)的<a href="https://zh.wikipedia.org/wiki/固态硬碟" title="wikilink">固态硬碟</a></p></td>
@@ -554,7 +554,7 @@ Core i5处理器。其他机种的詳細規格如下： {{-}}
 
 ## 召回
 
-[苹果公司在](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[2013年10月](https://zh.wikipedia.org/wiki/2013年10月 "wikilink")18日发布公告称，搭载64GB、128
+[苹果公司在](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")[2013年10月](../Page/2013年10月.md "wikilink")18日发布公告称，搭载64GB、128
 GB[固态硬盘的](../Page/固态硬盘.md "wikilink")2012款MacBook
 Air可能会存在某些隱患，在2012年6月至2013年6月期间出售的MacBook
 Air將被召回，用户可选免费更换硬盘或者全额退回以前用于维修硬盘所花的费用。\[10\]\[11\]

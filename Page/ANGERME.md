@@ -137,7 +137,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/笠原桃奈" title="wikilink">笠原桃奈</a></p></td>
+<td><p><a href="../Page/笠原桃奈.md" title="wikilink">笠原桃奈</a></p></td>
 <td><p>かさはら ももな</p></td>
 <td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a></p></td>
 <td><p>かっさー</p></td>
@@ -461,7 +461,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
     Tour 2016春 九位一體 ～田村芽實畢業Special～』中，正式從ANGERME和Hello\!Project畢業。
   - 7月16日，於[早安家族演唱會](../Page/早安家族.md "wikilink")『Hello\!Project 2016
     SUMMER～Sunshine
-    Parade～』上宣佈五期成員、ハロプロ研修生[笠原桃奈加入](https://zh.wikipedia.org/wiki/笠原桃奈 "wikilink")。
+    Parade～』上宣佈五期成員、ハロプロ研修生[笠原桃奈加入](../Page/笠原桃奈.md "wikilink")。
 
 ### 2017
 
@@ -774,7 +774,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/無法形容_/_因為愛人類才進化到今時今日_因為愛人類才徹底退化_/_忘記你的一切" title="wikilink">無法形容 / 因為愛人類才進化到今時今日 因為愛人類才徹底退化 / 忘記你的一切</a></p></td>
 <td><p>3</p></td>
 <td><p>35,991</p></td>
-<td><p>三期成員<a href="https://zh.wikipedia.org/wiki/相川茉穗" title="wikilink">相川茉穗最後一張單曲</a>、五期成員<a href="https://zh.wikipedia.org/wiki/笠原桃奈" title="wikilink">笠原桃奈加入後第一張單曲</a>、第四張3A單曲。</p></td>
+<td><p>三期成員<a href="https://zh.wikipedia.org/wiki/相川茉穗" title="wikilink">相川茉穗最後一張單曲</a>、五期成員<a href="../Page/笠原桃奈.md" title="wikilink">笠原桃奈加入後第一張單曲</a>、第四張3A單曲。</p></td>
 <td></td>
 </tr>
 <tr class="odd">

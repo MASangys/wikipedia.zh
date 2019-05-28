@@ -153,7 +153,7 @@ DreamSoft在2006年的「」發表後，停止活動。
   - 2005年7月29日 -
       - 2006年2月3日 -
   - 2005年10月28日 - [Natural Another One 2nd
-    -Belladonna-](https://zh.wikipedia.org/wiki/Natural_Another_One_2nd_-Belladonna- "wikilink")
+    -Belladonna-](../Page/Natural_Another_One_2nd_-Belladonna-.md "wikilink")
   - 2006年3月24日 -
 
 ###

@@ -9,7 +9,7 @@ Element。
 Gamebryo
 Element引擎是由[C++编写的多平台游戏引擎](../Page/C++.md "wikilink")，他支持的平台有：[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[任天堂](../Page/任天堂.md "wikilink")、[Wii](../Page/Wii.md "wikilink")、[PlayStation
 2](../Page/PlayStation_2.md "wikilink")、[PlayStation
-3](../Page/PlayStation_3.md "wikilink")、[Xbox和](https://zh.wikipedia.org/wiki/Xbox "wikilink")[Xbox
+3](../Page/PlayStation_3.md "wikilink")、[Xbox和](../Page/Xbox.md "wikilink")[Xbox
 360](../Page/Xbox_360.md "wikilink")。
 
 虽然Gamebryo的渲染引擎部分是私有的，但他允许使用者添加自己的图形绘制代码。Gamebryo包含了长达3500页的说明书，然而关于[Maya的部分却不完整](../Page/Maya.md "wikilink")，有的已经过时。
@@ -262,7 +262,7 @@ Emergent为部分客户提供开发套件，但不提供这些套件的源代码
 <td><p><a href="https://zh.wikipedia.org/wiki/野生动物园大亨2" title="wikilink">野生动物园大亨2</a></p></td>
 <td><p>2006</p></td>
 <td><p>PC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/B-Alive" title="wikilink">B-Alive</a></p></td>
 </tr>
 <tr class="even">
@@ -355,7 +355,7 @@ Emergent为部分客户提供开发套件，但不提供这些套件的源代码
 <td><p><a href="https://zh.wikipedia.org/wiki/波斯王子3D" title="wikilink">波斯王子3D</a></p></td>
 <td><p>1999</p></td>
 <td><p>PC, Dreamcast</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Orb娱乐" title="wikilink">Red Orb娱乐</a></p></td>
+<td><p><a href="../Page/Red_Orb娱乐.md" title="wikilink">Red Orb娱乐</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

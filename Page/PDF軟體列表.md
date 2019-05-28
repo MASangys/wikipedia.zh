@@ -8,7 +8,7 @@
     Office
     Word阅读器](https://zh.wikipedia.org/wiki/Microsoft_Office_Word "wikilink")；出自Word
     2、6、7、97、2000、2002和2003的转换器的二进制文件用于纯文本或PostScript；适用于[AmigaOS
-    4](https://zh.wikipedia.org/wiki/AmigaOS_4 "wikilink")、[MorphOS](https://zh.wikipedia.org/wiki/MorphOS "wikilink")、[AROS](https://zh.wikipedia.org/wiki/AROS "wikilink")
+    4](../Page/AmigaOS_4.md "wikilink")、[MorphOS](https://zh.wikipedia.org/wiki/MorphOS "wikilink")、[AROS](https://zh.wikipedia.org/wiki/AROS "wikilink")
     x86
   - [dvipdfm](https://zh.wikipedia.org/wiki/dvipdfm "wikilink")：带zlib支持的从DVI到PDF的转换器
 
@@ -320,7 +320,7 @@
 
 | 名称                                                                            | 许可        | 平台                                         | 描述                                                                              |
 | ----------------------------------------------------------------------------- | --------- | ------------------------------------------ | ------------------------------------------------------------------------------- |
-| [LibreOffice Draw](https://zh.wikipedia.org/wiki/LibreOffice_Draw "wikilink") | MPL       | Windows、Mac OS、Linux                       | PDF查看和编辑，有许多Acrobat所需的特性。                                                       |
+| [LibreOffice Draw](../Page/LibreOffice_Draw.md "wikilink")                    | MPL       | Windows、Mac OS、Linux                       | PDF查看和编辑，有许多Acrobat所需的特性。                                                       |
 | [Foxit PDF Editor](https://zh.wikipedia.org/wiki/Foxit_PDF_Editor "wikilink") | 专有        | Windows                                    | 文字处理器，诸如编辑、拼写检查、转换到ePub、HTML及RTF，导出表单及文章流                                       |
 | [OpenOffice Draw](https://zh.wikipedia.org/wiki/OpenOffice_Draw "wikilink")   | GNU LGPL  | Windows、Mac OS、Linux                       | 通过[OpenOffice.org软件或扩展导入PDF](../Page/OpenOffice.org.md "wikilink")              |
 | [Inkscape](../Page/Inkscape.md "wikilink")                                    | GNU GPL   | Windows、Mac OS、Linux                       | 打开、编辑和导出文档，但每次只处理一页（页面稍后可用PDF打印机合并）                                             |

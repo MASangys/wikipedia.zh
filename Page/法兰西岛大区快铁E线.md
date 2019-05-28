@@ -120,7 +120,7 @@ E线正式竣工通车，法国总理[若斯潘](../Page/利昂内尔·若斯潘
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/罗萨·帕克斯站" title="wikilink">罗萨·帕克斯站</a><br />
+<td><p><a href="../Page/罗萨·帕克斯站.md" title="wikilink">罗萨·帕克斯站</a><br />
 <small>Rosa Parks</small></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/巴黎十九区.md" title="wikilink">巴黎十九区</a></p></td>
@@ -306,7 +306,7 @@ Montfermeil</p></td>
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/埃梅兰维勒-蓬托孔博站" title="wikilink">埃梅兰维勒-蓬托孔博站</a><br />
+<td><p><a href="../Page/埃梅兰维勒-蓬托孔博站.md" title="wikilink">埃梅兰维勒-蓬托孔博站</a><br />
 <small>Émerainville<br />
 Pontault-Combault</small></p></td>
 <td><p>5</p></td>
@@ -384,7 +384,7 @@ Altéo和Z 22500之间仍然有些差别:
 
 Z
 22500列车于1996年3月起开始投放，历经近4年投放完成。该列车一共生产了53辆，但由于最终E线被移除一个分支，故这些列车一开始并未全部投入使用。为了不让未使用的列车就此闲置，和在保修期内尽快发现列车是否有问题，自1998年11月29日起，SNCF决定让当时过剩的Z
-22500先在[圣拉扎尔路网中的](../Page/巴黎圣拉扎尔线.md "wikilink")[圣拉扎尔站到](https://zh.wikipedia.org/wiki/巴黎圣拉扎尔车站 "wikilink")[楠泰尔大学站](https://zh.wikipedia.org/wiki/楠泰尔大学站 "wikilink")（Nanterre
+22500先在[圣拉扎尔路网中的](../Page/巴黎圣拉扎尔线.md "wikilink")[圣拉扎尔站到](https://zh.wikipedia.org/wiki/巴黎圣拉扎尔车站 "wikilink")[楠泰尔大学站](../Page/楠泰尔大学站.md "wikilink")（Nanterre
 - Université）之间运行，那一段路的月台高度已经被加高，不过月台长度仍然不够长，于是那些Z
 22500只采用单组4节车厢，重联后达8节车厢，其余自1996年已经投入使用（先在[巴黎东站远郊路网上行走](../Page/巴黎东线.md "wikilink")，因为当时地下隧道尚未完工）的Z
 22500采用单组5节车厢，重联后达10节车厢。随着E线的竣工，所有的Z 22500均采用5节车厢，这就使得行走圣拉扎尔路网的Z
@@ -707,7 +707,7 @@ E线西延段不仅可以解决奥斯曼圣拉扎尔终点的局限性，提高�
 
 西延段最初决定修建一条长约800米的隧道连接圣拉扎尔终点和（Pont-Cardinet，位于[圣拉扎尔车站远郊路网起点以北第一个车站](../Page/巴黎圣拉扎尔线.md "wikilink")），之后经[克利希](../Page/克利希_\(上塞纳省\).md "wikilink")（Clichy）、[勒瓦卢瓦-佩雷](https://zh.wikipedia.org/wiki/勒瓦卢瓦-佩雷 "wikilink")（Levallois-Perret）、[阿尼耶](https://zh.wikipedia.org/wiki/塞纳河畔阿涅勒 "wikilink")（Asnières-sur-Seine）、[库布瓦](../Page/库尔贝瓦.md "wikilink")（Courbevoie）、[拉德芳斯](../Page/拉德芳斯.md "wikilink")，前往（Versailles
 - Rive Droite）和（Saint-Nom-la-Bretèche - Forêt de
-Marly），同时可能新辟一条分支前往西北部的[普瓦西站](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink")（Poissy）。这个最初计划是巴黎申办[2012年奥运会的建设项目的一部分](https://zh.wikipedia.org/wiki/2012年奥运会 "wikilink")。
+Marly），同时可能新辟一条分支前往西北部的[普瓦西站](../Page/普瓦西站.md "wikilink")（Poissy）。这个最初计划是巴黎申办[2012年奥运会的建设项目的一部分](https://zh.wikipedia.org/wiki/2012年奥运会 "wikilink")。
 
 虽然这个方案能缓解（Quartier des
 Batignolles）的人流，但它自身却存在一些技术难度，并且无法保证通勤效率和准点率。首先，如果从圣拉扎尔终点站附近的[欧贝站](../Page/欧贝站.md "wikilink")（Auber）乘坐[A线前往](../Page/法兰西岛大区快铁A线.md "wikilink")[拉德芳斯](../Page/拉德芳斯.md "wikilink")，只需7分钟便可到达，而E线西延段呈上文所述前往彼处却要10-15分钟。其次，[圣拉扎尔路网的运作本已足够复杂](../Page/巴黎圣拉扎尔线.md "wikilink")，若让E线西延段行走此处只能使运作更加困难。另外，800米的隧道还存在坡度问题，因为路轨将从地下40多米爬升到地面。
@@ -716,7 +716,7 @@ Batignolles）的人流，但它自身却存在一些技术难度，并且无法
 
 #### 修正方案
 
-2006年7月，（EPAD）提出，线路延伸段可通过8公里的隧道直达[拉德芳斯](../Page/拉德芳斯.md "wikilink")，然后取代[A线的](../Page/法兰西岛大区快铁A线.md "wikilink")[普瓦西站分支](https://zh.wikipedia.org/wiki/普瓦西站 "wikilink")，最终延长到[芒特拉若利](https://zh.wikipedia.org/wiki/芒特拉若利 "wikilink")（Mantes-la-Jolie）。
+2006年7月，（EPAD）提出，线路延伸段可通过8公里的隧道直达[拉德芳斯](../Page/拉德芳斯.md "wikilink")，然后取代[A线的](../Page/法兰西岛大区快铁A线.md "wikilink")[普瓦西站分支](../Page/普瓦西站.md "wikilink")，最终延长到[芒特拉若利](../Page/芒特拉若利.md "wikilink")（Mantes-la-Jolie）。
 
 该方案成本更高一些，但却能针对性的解决法兰西岛大区的多个交通"黑点"。首先，从东部郊区前往拉德芳斯的通勤族可以彻底的不用乘坐A线上班（原来必须在丰特奈或圣拉扎尔-欧贝换A线）；其次，从[巴黎北站](../Page/巴黎北站.md "wikilink")（及其[路网](../Page/巴黎北线.md "wikilink")）前往拉德芳斯，可不必乘坐[B线前往](../Page/法兰西岛大区快铁B线.md "wikilink")[夏特雷-大堂站](https://zh.wikipedia.org/wiki/夏特雷-大堂站 "wikilink")，再转A线，当中B线与[D线共用的隧道已经令公众怨声载道多年](../Page/法兰西岛大区快铁D线.md "wikilink")；另外，这个方案还可以缓解诺曼底和拉德芳斯之间线路负载；还有，线路途经普瓦西，可以取代A线的A5分支，这样A线可以有更多的列车投入到A3分支（，Cergy）运营，而这也是A线运作上诟病已久的一个问题。
 
@@ -798,10 +798,10 @@ public，縮寫CNDP）组织一场关于E线西延段方案的公众辩论，并
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">•</span></p></td>
 <td></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/芒特拉若利站" title="wikilink">芒特拉若利</a><br />
+<td><p><strong><a href="../Page/芒特拉若利站.md" title="wikilink">芒特拉若利</a><br />
 <small>Mantes-la-Jolie</strong></p></td>
 <td><p>6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/芒特拉若利" title="wikilink">芒特拉若利</a><br />
+<td><p><a href="../Page/芒特拉若利.md" title="wikilink">芒特拉若利</a><br />
 </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneJ.svg" title="fig:Logo_Paris_Transilien_ligneJ.svg">Logo_Paris_Transilien_ligneJ.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneN.svg" title="fig:Logo_Paris_Transilien_ligneN.svg">Logo_Paris_Transilien_ligneN.svg</a><br />
 <a href="https://zh.wikipedia.org/wiki/法国省际列车" title="wikilink"><span style="font-family: cursive; color: #393791"><strong><em>ter Haute-Normandie</em></strong></span></a><br />
@@ -816,7 +816,7 @@ public，縮寫CNDP）组织一场关于E线西延段方案的公众辩论，并
 <td><p><br />
 <small>Mantes-Station</small></p></td>
 <td><p>6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/芒特拉若利" title="wikilink">芒特拉若利</a><br />
+<td><p><a href="../Page/芒特拉若利.md" title="wikilink">芒特拉若利</a><br />
 </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Logo_train_transilien.svg" title="fig:Logo_train_transilien.svg">Logo_train_transilien.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneJ.svg" title="fig:Logo_Paris_Transilien_ligneJ.svg">Logo_Paris_Transilien_ligneJ.svg</a><a href="https://zh.wikipedia.org/wiki/File:Logo_Paris_Transilien_ligneN.svg" title="fig:Logo_Paris_Transilien_ligneN.svg">Logo_Paris_Transilien_ligneN.svg</a></p></td>
 <td></td>
@@ -901,7 +901,7 @@ public，縮寫CNDP）组织一场关于E线西延段方案的公众辩论，并
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">•</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/普瓦西站" title="wikilink">普瓦西站</a><br />
+<td><p><a href="../Page/普瓦西站.md" title="wikilink">普瓦西站</a><br />
 <small>Poissy</small></p></td>
 <td><p>5</p></td>
 <td><p><a href="../Page/普瓦西.md" title="wikilink">普瓦西</a></p></td>
@@ -982,7 +982,7 @@ public，縮寫CNDP）组织一场关于E线西延段方案的公众辩论，并
 
 预计建成通车之后，E线在芒特拉若利的高峰期发车频率将达到10分钟一班，即1小时6班，4班为慢车，停靠芒特和普瓦西之间的所有车站，2班为半快车，选择性停靠，这6班车在普瓦西和楠泰尔之间不停靠任何车站。另外，如果2020年那一条耗资30亿的新线能够通车，那E线西延段的发车频率预计还将提高。
 
-E线西延段通车后，全线的运作方式亦将作相应修改，往返[芒特拉若利的班车在东边终止于](https://zh.wikipedia.org/wiki/芒特拉若利 "wikilink")，往返谢尔－古奈站和杜尔农站的班车在西边终止于[楠泰尔](../Page/楠泰尔.md "wikilink")，这样，线路一端出现故障时，另一端不会受到太多影响。而高峰期中心路网的发车频率也将达到1小时22班（西边来车每小时6班，东边来车每小时16班）。另外，西延段预计将增投77辆Z
+E线西延段通车后，全线的运作方式亦将作相应修改，往返[芒特拉若利的班车在东边终止于](../Page/芒特拉若利.md "wikilink")，往返谢尔－古奈站和杜尔农站的班车在西边终止于[楠泰尔](../Page/楠泰尔.md "wikilink")，这样，线路一端出现故障时，另一端不会受到太多影响。而高峰期中心路网的发车频率也将达到1小时22班（西边来车每小时6班，东边来车每小时16班）。另外，西延段预计将增投77辆Z
 22500投入运营，补充原来的53辆列车，这样线上就有130辆列车行走；不过也有另一种可能，就是重新订购130辆更新的列车，然后把既有的Z
 22500转给其它路网使用。
 

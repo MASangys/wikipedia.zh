@@ -108,7 +108,7 @@ DEEN夥同外接](../Page/STUDIO_DEEN.md "wikilink")[SHIN-EI動畫和後來從�
       - 偽戀（2014年）
       - 偽戀：（）（2015年）
   - [目隱都市的演繹者](../Page/陽炎計劃.md "wikilink")（）（2014年）
-  - [幸腹塗鴉](https://zh.wikipedia.org/wiki/幸腹塗鴉 "wikilink")（）（2015年）
+  - [幸腹塗鴉](../Page/幸腹塗鴉.md "wikilink")（）（2015年）
   - [3月的獅子系列](../Page/3月的獅子.md "wikilink")（）
       - 3月的獅子（2016年－2017年）
       - 3月的獅子 第2季（2017年－2018年）
@@ -176,7 +176,7 @@ DEEN夥同外接](../Page/STUDIO_DEEN.md "wikilink")[SHIN-EI動畫和後來從�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/魔法紀錄_魔法少女小圓外傳" title="wikilink">魔法紀錄 魔法少女小圓外傳</a></p></td>
+<td><p><a href="../Page/魔法紀錄_魔法少女小圓外傳.md" title="wikilink">魔法紀錄 魔法少女小圓外傳</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -196,7 +196,7 @@ DEEN夥同外接](../Page/STUDIO_DEEN.md "wikilink")[SHIN-EI動畫和後來從�
 
 #### 共同製作
 
-  - [G-on少女騎士團](https://zh.wikipedia.org/wiki/G-on少女騎士團 "wikilink")（）（與[TNK共同製作](https://zh.wikipedia.org/wiki/TNK "wikilink")，2001年）
+  - [G-on少女騎士團](https://zh.wikipedia.org/wiki/G-on少女騎士團 "wikilink")（）（與[TNK共同製作](../Page/TNK.md "wikilink")，2001年）
   - [魔力女管家系列](../Page/魔力女管家.md "wikilink")（與[GAINAX共同製作](../Page/GAINAX.md "wikilink")）
       - 魔力女管家（）（2001年）
       - 魔力女管家 ～更美麗的事物～（）（2002年）
@@ -262,9 +262,9 @@ DEEN夥同外接](../Page/STUDIO_DEEN.md "wikilink")[SHIN-EI動畫和後來從�
   - （總承包商：龍之子製作公司，各話製作協力，1998年）
 
   - [火龍小武士](../Page/火龍小武士.md "wikilink")（）（總承包商：[BEE
-    TRAIN](https://zh.wikipedia.org/wiki/BEE_TRAIN "wikilink")，各話協力製作，1998年－1999年）
+    TRAIN](../Page/BEE_TRAIN.md "wikilink")，各話協力製作，1998年－1999年）
 
-  - [轟天突擊隊](https://zh.wikipedia.org/wiki/轟天突擊隊 "wikilink")（）（總承包商：MAGICBUS，各話協力製作，1998年－1999年）
+  - [轟天突擊隊](../Page/轟天突擊隊.md "wikilink")（）（總承包商：MAGICBUS，各話協力製作，1998年－1999年）
 
   - （總承包商：TRIANGLE STAFF，各話協力製作，1999年）
 
@@ -375,7 +375,7 @@ DEEN夥同外接](../Page/STUDIO_DEEN.md "wikilink")[SHIN-EI動畫和後來從�
   - [BIRTH](../Page/BIRTH.md "wikilink")（總承包商：、，動畫協力，1984年）
 
   - [銀河英雄傳說](../Page/銀河英雄傳說.md "wikilink")（）（總承包商：[Kitty
-    film](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")，各話製作協力，1988年－2000年）
+    film](../Page/Kitty_film.md "wikilink")，各話製作協力，1988年－2000年）
 
   - （總承包商：[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")，各話協力製作，1992年－1993年）
 
@@ -421,7 +421,7 @@ DEEN夥同外接](../Page/STUDIO_DEEN.md "wikilink")[SHIN-EI動畫和後來從�
     STAFF](../Page/TRIANGLE_STAFF.md "wikilink")→[MADHOUSE](../Page/MADHOUSE.md "wikilink")，協力製作，2002年3月30日）
 
   - [你的名字。](../Page/你的名字。.md "wikilink")（總承包商：[CoMix Wave
-    Films](https://zh.wikipedia.org/wiki/CoMix_Wave_Films "wikilink")，協力製作，2016年）
+    Films](../Page/CoMix_Wave_Films.md "wikilink")，協力製作，2016年）
 
 #### 獨立和共同製作
 

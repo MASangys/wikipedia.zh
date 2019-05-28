@@ -1,7 +1,7 @@
 [MKyan.jpg](https://zh.wikipedia.org/wiki/File:MKyan.jpg "fig:MKyan.jpg")
 [3_HK_TST_MK_Boy_Jeans_1sa.jpg](https://zh.wikipedia.org/wiki/File:3_HK_TST_MK_Boy_Jeans_1sa.jpg "fig:3_HK_TST_MK_Boy_Jeans_1sa.jpg")\]\]
 **MK文化**，即[旺角](../Page/旺角.md "wikilink")（Mong
-Kok）文化，為[香港地道用語](../Page/香港.md "wikilink")，以指明其獨特的社區文化。由於旺角是香港售賣[潮流物品的集中地](https://zh.wikipedia.org/wiki/潮流 "wikilink")，亦有很多針對年青人的[娛樂場所](https://zh.wikipedia.org/wiki/娛樂 "wikilink")，包括[卡拉OK](../Page/卡拉OK.md "wikilink")、[格仔店和](https://zh.wikipedia.org/wiki/格仔店 "wikilink")[戲院等等](https://zh.wikipedia.org/wiki/戲院 "wikilink")，該處逐漸成為很多追求潮流的年青人流連及[約會的勝地](../Page/約會.md "wikilink")。其中[瓊華中心和](https://zh.wikipedia.org/wiki/瓊華中心 "wikilink")[潮流特區被認為是MK文化的發源地](https://zh.wikipedia.org/wiki/潮流特區 "wikilink")\[1\]。
+Kok）文化，為[香港地道用語](../Page/香港.md "wikilink")，以指明其獨特的社區文化。由於旺角是香港售賣[潮流物品的集中地](https://zh.wikipedia.org/wiki/潮流 "wikilink")，亦有很多針對年青人的[娛樂場所](../Page/娛樂.md "wikilink")，包括[卡拉OK](../Page/卡拉OK.md "wikilink")、[格仔店和](https://zh.wikipedia.org/wiki/格仔店 "wikilink")[戲院等等](https://zh.wikipedia.org/wiki/戲院 "wikilink")，該處逐漸成為很多追求潮流的年青人流連及[約會的勝地](../Page/約會.md "wikilink")。其中[瓊華中心和](https://zh.wikipedia.org/wiki/瓊華中心 "wikilink")[潮流特區被認為是MK文化的發源地](https://zh.wikipedia.org/wiki/潮流特區 "wikilink")\[1\]。
 
 **MK人**則是指向在旺角地區出沒的部份年青人，但是不一定指向居住於旺角的青少年。一般而言，男性被俗稱為**MK仔**，女性被俗稱為**MK妹**。MK妹年齡必須介乎13歲至29歲之間，30歲及以上的只可以稱之為**中女**。
 
@@ -95,7 +95,7 @@ MK車大部份有改裝過，而且一起步就會發出巨大嘈音或行駛中
 
   - 被廣泛視作帶有「MK文化」的藝人
       - [周柏豪](../Page/周柏豪.md "wikilink")、[E-kids](../Page/E-kids.md "wikilink")
-      - [馮盈盈](https://zh.wikipedia.org/wiki/馮盈盈 "wikilink")、[簡淑兒](../Page/簡淑兒.md "wikilink")
+      - [馮盈盈](../Page/馮盈盈.md "wikilink")、[簡淑兒](../Page/簡淑兒.md "wikilink")
   - [MK Pop](../Page/MK_Pop.md "wikilink")
   - [殺馬特](https://zh.wikipedia.org/wiki/殺馬特 "wikilink")
   - [台客](../Page/台客.md "wikilink")

@@ -52,7 +52,7 @@ Itcl (跟Tcl一樣) 內置有C代碼整合支持，讓C代碼整合為Itcl類。
   - [XOTcl](https://zh.wikipedia.org/wiki/XOTcl "wikilink")
   - [Snit](https://zh.wikipedia.org/wiki/Snit "wikilink")
   - [Tcl](../Page/Tcl.md "wikilink")
-  - [Tcllib](https://zh.wikipedia.org/wiki/Tcllib "wikilink")
+  - [Tcllib](../Page/Tcllib.md "wikilink")
   - [C++/Tcl](https://zh.wikipedia.org/wiki/C++/Tcl "wikilink")
   - [Itk](https://zh.wikipedia.org/wiki/Itk "wikilink")
   - [Tk](https://zh.wikipedia.org/wiki/Tk_\(編程語言\) "wikilink")

@@ -9,7 +9,7 @@ Window系统](https://zh.wikipedia.org/wiki/X_Window "wikilink")、[Win32
 GDI](https://zh.wikipedia.org/wiki/GDI "wikilink")、[Quartz
 Compositor](../Page/Quartz_Compositor.md "wikilink")、[OS/2](https://zh.wikipedia.org/wiki/OS/2 "wikilink")，[OpenGL环境](../Page/OpenGL.md "wikilink")（直接或间接地通过[glitz](https://zh.wikipedia.org/wiki/glitz "wikilink")）、内存缓冲区、[PNG](../Page/PNG.md "wikilink")、[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[PostScript](../Page/PostScript.md "wikilink")、[DirectFB和](https://zh.wikipedia.org/wiki/DirectFB "wikilink")[SVG文件](https://zh.wikipedia.org/wiki/SVG "wikilink")。
 
-还有一些开发中的后端如：[OpenVG](https://zh.wikipedia.org/wiki/OpenVG "wikilink")，[Qt](../Page/Qt.md "wikilink")，[Skia和Windows](../Page/Skia_Graphics_Library.md "wikilink")
+还有一些开发中的后端如：[OpenVG](../Page/OpenVG.md "wikilink")，[Qt](../Page/Qt.md "wikilink")，[Skia和Windows](../Page/Skia_Graphics_Library.md "wikilink")
 [Direct2D](../Page/Direct2D.md "wikilink")。\[3\]
 
 ## 知名應用
@@ -31,7 +31,7 @@ Compositor](../Page/Quartz_Compositor.md "wikilink")、[OS/2](https://zh.wikiped
   - [Poppler库使用cairo渲染PDF文档](../Page/Poppler.md "wikilink").
     cairo使得对反锯齿矢量图形和透明物件的绘制成为可能。
   - 矢量绘图应用程序[Inkscape使用cairo图形库显示其概要模式](../Page/Inkscape.md "wikilink")，以及自从0.46正式版使用它输出PDF和PostScript文档。
-  - [FontForge在](https://zh.wikipedia.org/wiki/FontForge "wikilink")2008年10月中旬启用cairo为默其认渲染图形库。
+  - [FontForge在](../Page/FontForge.md "wikilink")2008年10月中旬启用cairo为默其认渲染图形库。
   - [R语言经cairo用PDF](../Page/R语言.md "wikilink")，PostScript和SVG格式输出图像。
   - [Gnuplot](../Page/Gnuplot.md "wikilink") 4.4现在使用cairo来渲染PDF和PNG输出。
 

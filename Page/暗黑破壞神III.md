@@ -17,7 +17,7 @@ X版本](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，2013年9月3日於
 360平台](../Page/Xbox_360.md "wikilink")。2014年8月19日則發行[PlayStation
 4與](../Page/PlayStation_4.md "wikilink")[Xbox
 One平台版本](../Page/Xbox_One.md "wikilink")；而包含所有游戏追加内容的《暗黑破壞神III
-永恒之戰》于2018年11月3日在[任天堂Switch發售](https://zh.wikipedia.org/wiki/任天堂Switch "wikilink")，其後官方宣佈日後会以更新語言包的形式追加对中文的支持。
+永恒之戰》于2018年11月3日在[任天堂Switch發售](../Page/任天堂Switch.md "wikilink")，其後官方宣佈日後会以更新語言包的形式追加对中文的支持。
 
 ### 專家模式
 

@@ -380,7 +380,7 @@ PTM領隊</p></td>
 <td style="text-align: center;"><p>教練：3年<br />
 選手：6年</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/火爆浪子（SF軍團）" title="wikilink">火爆浪子</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/閃電狼.md" title="wikilink">閃電狼</a><a href="https://zh.wikipedia.org/wiki/絕地求生" title="wikilink">絕地求生教練</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/閃電狼.md" title="wikilink">閃電狼</a><a href="../Page/絕地求生.md" title="wikilink">絕地求生教練</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>

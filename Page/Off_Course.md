@@ -506,7 +506,7 @@ Course的錄音方針，是採取能讓五名團員都能演奏的編曲方式�
         『[ja](https://zh.wikipedia.org/wiki/Love_Songs_〜{{lang "wikilink")』 (2009年10月7日  <span style="font-size:90%;">(CD:TOCT-26891)</span>)
       - 中村 『VOICE
         III〜〜』 (2010年4月28日  <span style="font-size:90%;">(CD:MHCL-1729)</span>)
-      - [申昇勳](https://zh.wikipedia.org/wiki/申昇勳 "wikilink") 『My
+      - [申昇勳](../Page/申昇勳.md "wikilink") 『My
         Favorite』 (2010年9月15日  <span style="font-size:90%;">(CD+DVD:AVCD-38129
         ⁄ CD:AVCD-38130)</span>)
       - [JUJU](../Page/JUJU.md "wikilink")

@@ -12,8 +12,7 @@
 3.  [乱世佳人](../Page/乱世佳人.md "wikilink") (1939) — 马克斯·史坦纳
 4.  [罗娜秘记](../Page/罗娜秘记.md "wikilink") (1944) — 大卫·拉克辛
 5.  [日落大道](../Page/日落大道.md "wikilink") (1950) — 弗朗茨·沃克斯曼
-6.  [欲望号街车](https://zh.wikipedia.org/wiki/欲望号街车 "wikilink") (1951) —
-    亚历克士·诺斯
+6.  [欲望号街车](../Page/欲望号街车.md "wikilink") (1951) — 亚历克士·诺斯
 7.  [-{zh-hans:正午;zh-hk:日正当中;zh-tw:日正当中;}-](https://zh.wikipedia.org/wiki/日正当中 "wikilink")
     (1952) — 迪米特里·迪奥姆金
 8.  [码头风云](../Page/码头风云.md "wikilink") (1954) —
@@ -86,7 +85,7 @@
     [艾瑪·伯恩斯坦](https://zh.wikipedia.org/wiki/艾瑪·伯恩斯坦 "wikilink")
 18. [人猿星球](../Page/人猿星球.md "wikilink") (1968) —
     [杰里·戈德史密斯](https://zh.wikipedia.org/wiki/杰里·戈德史密斯 "wikilink")
-19. [欲望号街车](https://zh.wikipedia.org/wiki/欲望号街车 "wikilink") (1951) —
+19. [欲望号街车](../Page/欲望号街车.md "wikilink") (1951) —
     [亚历克士·诺斯](../Page/亚历克士·诺斯.md "wikilink")
 20. [粉红豹](https://zh.wikipedia.org/wiki/粉红豹 "wikilink") (1964) —
     [亨利·曼西尼](https://zh.wikipedia.org/wiki/亨利·曼西尼 "wikilink")

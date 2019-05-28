@@ -1,7 +1,7 @@
 {{ otheruses | subject=一種軟體開發流程| other=橄欖球運動裡的爭球方法|列陣爭球}}
 [缩略图](https://zh.wikipedia.org/wiki/File:ScrumKim.png "fig:缩略图")
 
-**Scrum**是一种[敏捷软件开发的](../Page/敏捷软件开发.md "wikilink")[方法學](https://zh.wikipedia.org/wiki/方法學 "wikilink")，用於迭代式增量软件开发过程。Scrum在英语是[橄榄球运动中](https://zh.wikipedia.org/wiki/橄榄球 "wikilink")[列陣爭球的意思](https://zh.wikipedia.org/wiki/列陣爭球 "wikilink")。
+**Scrum**是一种[敏捷软件开发的](../Page/敏捷软件开发.md "wikilink")[方法學](https://zh.wikipedia.org/wiki/方法學 "wikilink")，用於迭代式增量软件开发过程。Scrum在英语是[橄榄球运动中](https://zh.wikipedia.org/wiki/橄榄球 "wikilink")[列陣爭球的意思](../Page/列陣爭球.md "wikilink")。
 
 虽然Scrum是为[管理软件开发项目而开发的](https://zh.wikipedia.org/wiki/管理软件 "wikilink")，它同样可以用于运行软件维护团队，或者作为计划管理方法。Scrum之间的合作称为“Scrum
 of Scrums”。
@@ -16,7 +16,7 @@ of Scrums”。
 <!-- end list -->
 
   - 1991年，DeGrace和Stahl在《Wicked Problems, Righteous
-    Solutions》\[2\]一书中将这种方法称为[scrum](https://zh.wikipedia.org/wiki/列陣爭球 "wikilink")，在[竹内弘高和](https://zh.wikipedia.org/wiki/竹内弘高 "wikilink")
+    Solutions》\[2\]一书中将这种方法称为[scrum](../Page/列陣爭球.md "wikilink")，在[竹内弘高和](https://zh.wikipedia.org/wiki/竹内弘高 "wikilink")
     [野中郁次郎的文章中提到的橄榄球术语](../Page/野中郁次郎.md "wikilink")。
   - 1990年代初，[肯·施瓦伯在其公司使用了一种方法Advanced](https://zh.wikipedia.org/wiki/肯·施瓦伯 "wikilink")
     Development Methods（先进开发方法），这种方法后来发展为Scrum。

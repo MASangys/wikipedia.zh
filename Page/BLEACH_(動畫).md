@@ -328,7 +328,7 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
 <p>「<strong></strong>」</p>
 <dl>
 <dt></dt>
-<dd>作詞、作曲：山口隆，編曲、歌：<a href="https://zh.wikipedia.org/wiki/Sambomaster" title="wikilink">Sambomaster</a>
+<dd>作詞、作曲：山口隆，編曲、歌：<a href="../Page/Sambomaster.md" title="wikilink">Sambomaster</a>
 </div>
 </dd>
 </dl></td>
@@ -522,11 +522,11 @@ Pierrot製作的電視動畫](../Page/Studio_Pierrot.md "wikilink")。電視動�
   - **[BLEACH
     漂靈：劇場版－別處的記憶](../Page/BLEACH_漂靈：劇場版－別處的記憶.md "wikilink")**（2006年）
   - **[BLEACH
-    漂靈：劇場版－鑽石星塵的反叛](https://zh.wikipedia.org/wiki/BLEACH_漂靈：劇場版－鑽石星塵的反叛 "wikilink")**〔****〕（2007年）
+    漂靈：劇場版－鑽石星塵的反叛](../Page/BLEACH_漂靈：劇場版－鑽石星塵的反叛.md "wikilink")**〔****〕（2007年）
   - **[BLEACH
-    漂靈：劇場版－呼喚你的名字](https://zh.wikipedia.org/wiki/BLEACH_漂靈：劇場版－呼喚你的名字 "wikilink")**〔****〕（2008年）
+    漂靈：劇場版－呼喚你的名字](../Page/BLEACH_漂靈：劇場版－呼喚你的名字.md "wikilink")**〔****〕（2008年）
   - **[BLEACH
-    漂靈：劇場版－地獄篇](https://zh.wikipedia.org/wiki/BLEACH_漂靈：劇場版－地獄篇 "wikilink")**（2010年）
+    漂靈：劇場版－地獄篇](../Page/BLEACH_漂靈：劇場版－地獄篇.md "wikilink")**（2010年）
 
 ## 參考資料
 

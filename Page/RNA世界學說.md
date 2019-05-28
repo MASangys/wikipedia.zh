@@ -84,7 +84,7 @@ RNA世界假说能被诸如RNA能像[DNA一样存储](https://zh.wikipedia.org/w
 
 ### “分子生物学之梦”
 
-“分子生物学之梦”（）这个提法由生化学家[傑拉德·喬伊斯和](https://zh.wikipedia.org/wiki/傑拉德·喬伊斯 "wikilink")提出，指在实验室得到第一个能[自我复制的](https://zh.wikipedia.org/wiki/自我复制 "wikilink")[RNA分子](https://zh.wikipedia.org/wiki/RNA "wikilink")，正如其它与RNA世界相关的实验，它的成功取决于对前生命的精确模拟，但在这一点上常常失之千里\[47\]。值得注意的是，目前已知的[核苷酸合成步骤中有许多都难以在前生命条件下进行](../Page/核苷酸.md "wikilink")\[48\]。喬伊斯和奥格尔特别指出分子生物学之梦需要“魔法般的[催化](../Page/催化.md "wikilink")”来将核苷酸转化为随机序列的多聚核苷酸，并使其有复制活性\[49\]。
+“分子生物学之梦”（）这个提法由生化学家[傑拉德·喬伊斯和](../Page/傑拉德·喬伊斯.md "wikilink")提出，指在实验室得到第一个能[自我复制的](https://zh.wikipedia.org/wiki/自我复制 "wikilink")[RNA分子](https://zh.wikipedia.org/wiki/RNA "wikilink")，正如其它与RNA世界相关的实验，它的成功取决于对前生命的精确模拟，但在这一点上常常失之千里\[47\]。值得注意的是，目前已知的[核苷酸合成步骤中有许多都难以在前生命条件下进行](../Page/核苷酸.md "wikilink")\[48\]。喬伊斯和奥格尔特别指出分子生物学之梦需要“魔法般的[催化](../Page/催化.md "wikilink")”来将核苷酸转化为随机序列的多聚核苷酸，并使其有复制活性\[49\]。
 
 ## 参看
 

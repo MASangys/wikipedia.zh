@@ -103,7 +103,7 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/後衛" title="wikilink">後衛</a>/<a href="https://zh.wikipedia.org/wiki/前鋒" title="wikilink">前鋒</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/普羅維登斯蒸汽壓路機" title="wikilink">普羅維登斯蒸汽壓路機</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/馬歇爾大學" title="wikilink">馬歇爾大學</a></p></td>
+<td><p><a href="../Page/馬歇爾大學.md" title="wikilink">馬歇爾大學</a></p></td>
 <td></td>
 <td><p>—</p></td>
 <td></td>
@@ -149,7 +149,7 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 <td><p>[16]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/1952年NBA選秀" title="wikilink">1952</a></p></td>
+<td><p><a href="../Page/1952年NBA選秀.md" title="wikilink">1952</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/马克·沃克曼" title="wikilink">马克·沃克曼</a>{{#tag:ref|沃克曼雖然是选秀状元，但<a href="https://zh.wikipedia.org/wiki/比爾·米克維" title="wikilink">比爾·米克維已經透過</a><a href="https://zh.wikipedia.org/wiki/地域指名" title="wikilink">地域指名被選中了</a>。[17]|group="注"}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Basketball_player.svg" title="fig:Basketball_player.svg">Basketball_player.svg</a></p></td>
 <td></td>
@@ -651,7 +651,7 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 <td></td>
 <td><p>前鋒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐奧良鵜鶘" title="wikilink">夏洛特黃蜂</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/内华达大学拉斯维加斯分校" title="wikilink">内华达大学拉斯维加斯分校</a></p></td>
+<td><p><a href="../Page/内华达大学拉斯维加斯分校.md" title="wikilink">内华达大学拉斯维加斯分校</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -938,7 +938,7 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 <td></td>
 <td><p>前鋒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/内华达大学拉斯维加斯分校" title="wikilink">内华达大学拉斯维加斯分校</a></p></td>
+<td><p><a href="../Page/内华达大学拉斯维加斯分校.md" title="wikilink">内华达大学拉斯维加斯分校</a></p></td>
 <td></td>
 <td></td>
 <td></td>

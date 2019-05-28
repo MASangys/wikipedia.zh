@@ -330,7 +330,7 @@ HotCha官方國際歌迷會於2008年1月19日成立，名為「喝茶會(取同
   - 《[香港玄案](../Page/香港玄案.md "wikilink")》
   - 《[歡樂滿東華2011](https://zh.wikipedia.org/wiki/歡樂滿東華2011 "wikilink")》
   - 《[姊妹淘](../Page/姊妹淘_\(無綫電視節目\).md "wikilink")》
-  - 《[福祿壽大假光臨](https://zh.wikipedia.org/wiki/福祿壽大假光臨 "wikilink")》
+  - 《[福祿壽大假光臨](../Page/福祿壽大假光臨.md "wikilink")》
   - 《[變身男女Chok Chok Chok](../Page/變身男女Chok_Chok_Chok.md "wikilink")》
   - 《[第23屆CASH流行曲創作大賽](https://zh.wikipedia.org/wiki/第23屆CASH流行曲創作大賽 "wikilink")》
   - 《[360˚音樂無邊](https://zh.wikipedia.org/wiki/360˚音樂無邊 "wikilink")》
@@ -356,9 +356,8 @@ HotCha官方國際歌迷會於2008年1月19日成立，名為「喝茶會(取同
 
 2018年
 
-  - 《[飯聚現場](https://zh.wikipedia.org/wiki/飯聚現場 "wikilink")》
-  - 《[Good Night Show
-    全民星戰](https://zh.wikipedia.org/wiki/Good_Night_Show_全民星戰 "wikilink")》
+  - 《[飯聚現場](../Page/飯聚現場.md "wikilink")》
+  - 《[Good Night Show 全民星戰](../Page/Good_Night_Show_全民星戰.md "wikilink")》
 
 2019年
 

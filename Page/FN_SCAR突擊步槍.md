@@ -182,7 +182,7 @@ SCAR-H（Mk 17）自動步槍為其基礎改進而成的[精確射手步槍](../
       - [比利時國防軍](../Page/比利時國防軍.md "wikilink")（L型；正逐步取代[FN
         FNC](../Page/FN_FNC突擊步槍.md "wikilink")）\[15\]\[16\]
 
-      - [特種部隊群](https://zh.wikipedia.org/wiki/特種部隊群 "wikilink")（L型、H型）
+      - [特種部隊群](../Page/特種部隊群.md "wikilink")（L型、H型）
 
   -   - 特別調查和保護局（L型、H型）
 
@@ -207,7 +207,7 @@ SCAR-H（Mk 17）自動步槍為其基礎改進而成的[精確射手步槍](../
 
   -   - 洪都拉斯陸軍第1特種部隊營
 
-  -   - [特別邊防部隊](https://zh.wikipedia.org/wiki/特別邊防部隊 "wikilink")
+  -   - [特別邊防部隊](../Page/特別邊防部隊.md "wikilink")
 
   -   - [義大利陸軍](https://zh.wikipedia.org/wiki/義大利陸軍 "wikilink")
 
@@ -285,7 +285,7 @@ SCAR-H（Mk 17）自動步槍為其基礎改進而成的[精確射手步槍](../
   - 2018年—《[红海行动](https://zh.wikipedia.org/wiki/红海行动 "wikilink")》（Operation
     Red
     Sea）：型号为SCAR-L，在执行撤侨任务时被[中国人民解放軍海军陸戰隊](https://zh.wikipedia.org/wiki/中国人民解放軍海军陸戰隊 "wikilink")“蛟龙突击队”队员所使用，加装了[消音器与](../Page/抑制器.md "wikilink")[全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")，部分队员加装了[FN40GL榴弹发射器或者](https://zh.wikipedia.org/wiki/FN_EGLM附加型榴弹发射器 "wikilink")[辅助握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")。
-  - 2018年—《[侏羅紀世界：殞落國度](https://zh.wikipedia.org/wiki/侏羅紀世界：殞落國度 "wikilink")》：型號為SCAR
+  - 2018年—《[侏羅紀世界：殞落國度](../Page/侏羅紀世界：殞落國度.md "wikilink")》：型號為SCAR
     MK16CQC，被[私人軍事服務公司使用](../Page/私人軍事服務公司.md "wikilink")。
 
 ### [電子遊戲](https://zh.wikipedia.org/wiki/電子遊戲 "wikilink")
@@ -362,7 +362,7 @@ SCAR-H（Mk 17）自動步槍為其基礎改進而成的[精確射手步槍](../
         SV」，歸類為[特等射手步槍](../Page/精確射手步槍.md "wikilink")，20+1發彈匣，單機模式中能夠被主角丹尼爾·雷克（Daniel
         Recker）所使用。聯機模式中為所有兵種的可解鎖武器。
   - 2013年—《[-{zh-hans:收获日;
-    zh-hant:劫薪日;}-2](https://zh.wikipedia.org/wiki/劫薪日2 "wikilink")》（Payday
+    zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》（Payday
     2）：型號為SCAR-H，沙色槍身，命名為「Eagle Heavy Rifle」。
   - 2013年—《[-{zh-cn:使命召唤Online; zh-tw:決勝時刻Online;
     zh-hk:使命召喚Online}-](../Page/使命召唤Online.md "wikilink")》（Call
@@ -374,7 +374,7 @@ SCAR-H（Mk 17）自動步槍為其基礎改進而成的[精確射手步槍](../
     H近戰型及標準型（使用重槍管後），沙色槍身，命名為「SCAR-H」，歸類為[戰鬥步槍](https://zh.wikipedia.org/wiki/戰鬥步槍 "wikilink")，20+1發彈匣，被警方執行者（Enforcer）所使用（罪犯解鎖條件為：以任何陣營進行遊戲使用該槍擊殺1250名敵人後購買武器執照），價格為$26,400。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro
     T1、SRS 02、[Comp
     M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍）
-    、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、[槍托](../Page/槍托.md "wikilink")、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。劇情模式當中則能夠被主角尼古拉斯·門多薩所使用。
+    、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、[槍托](../Page/槍托.md "wikilink")、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。劇情模式當中則能夠被主角尼古拉斯·門多薩所使用。
   - 2015年—《[-{zh-hans:彩虹六号：围攻;
     zh-hant:虹彩六號：圍攻行動;}-](../Page/虹彩六號：圍攻行動.md "wikilink")》（Rainbow
     Six: Siege）：型號為SCAR-H近戰型，沙色槍身，命名為「Mk17
@@ -397,7 +397,7 @@ SCAR-H（Mk 17）自動步槍為其基礎改進而成的[精確射手步槍](../
 ### [輕小說](../Page/輕小說.md "wikilink")
 
   - 2014年—《[刀劍神域外傳Gun Gale
-    Online](https://zh.wikipedia.org/wiki/刀劍神域外傳Gun_Gale_Online "wikilink")》：登場型號分別為SCAR-L和SCAR-H，前者被“MMTM”小隊的“薩門”所使用；後者被新型AI“哈珊”所使用。
+    Online](../Page/刀劍神域外傳Gun_Gale_Online.md "wikilink")》：登場型號分別為SCAR-L和SCAR-H，前者被“MMTM”小隊的“薩門”所使用；後者被新型AI“哈珊”所使用。
 
 ## 相關連結
 

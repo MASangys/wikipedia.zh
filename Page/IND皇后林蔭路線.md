@@ -1,7 +1,7 @@
 **皇后林蔭路線**（），有時簡稱「QBL」\[1\]，是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約市](https://zh.wikipedia.org/wiki/紐約市 "wikilink")[曼哈頓和](../Page/曼哈頓.md "wikilink")[皇后區的一條屬於](../Page/皇后區.md "wikilink")[紐約地鐵](https://zh.wikipedia.org/wiki/紐約地鐵 "wikilink")的路線。此線全線位於地下，設有23個車站。[地獄廚房的](../Page/地獄廚房_\(曼哈頓\).md "wikilink")[50街至](https://zh.wikipedia.org/wiki/50街車站_\(IND第八大道線\) "wikilink")的[169街的核心路段是在](https://zh.wikipedia.org/wiki/169街車站_\(IND皇后林蔭路線\) "wikilink")1933年至1940年間由[獨立地鐵系統](../Page/獨立地鐵系統.md "wikilink")（IND）分階段建成，而[牙買加-179街總站在](https://zh.wikipedia.org/wiki/牙買加-179街車站_\(IND皇后林蔭路線\) "wikilink")1950年開放。
 
-皇后林蔭路線東端總站是四軌的179街車站。路線以四軌西行再轉向西北，慢車軌道位於快車軌道外側。皇后林蔭路線在[布里亞伍德以西匯合](https://zh.wikipedia.org/wiki/布里亞伍德車站_\(IND皇后林蔭路線\) "wikilink")[IND射手大道線](https://zh.wikipedia.org/wiki/射手大道線 "wikilink")，和[森林小丘-71大道以西往](https://zh.wikipedia.org/wiki/森林小丘-71大道車站_\(IND皇后林蔭路線\) "wikilink")[牙買加車廠的支線](https://zh.wikipedia.org/wiki/紐約地鐵車廠#牙買加車廠 "wikilink")。快車軌道和慢車軌道在的[65街分岔](https://zh.wikipedia.org/wiki/65街車站_\(IND皇后林蔭路線\) "wikilink")，並在的[36街重新匯合](https://zh.wikipedia.org/wiki/36街車站_\(IND皇后林蔭路線\) "wikilink")。36街以西，[IND
-63街線將兩條軌道都分拆](https://zh.wikipedia.org/wiki/IND_63街線 "wikilink")，途經進入曼哈頓。[長島市的](../Page/長島市.md "wikilink")[皇后廣場開始](https://zh.wikipedia.org/wiki/皇后廣場車站_\(IND皇后林蔭路線\) "wikilink")，路線收窄至兩條軌道，慢車軌道分岔到和[IND跨城線](https://zh.wikipedia.org/wiki/IND跨城線 "wikilink")。從那起，路線快車軌道在下方橫跨曼哈頓，提供跨城列車服務，之後在第八大道轉向西南，在50街車站結束。皇后廣場以西的兩軌路段也稱作「IND
+皇后林蔭路線東端總站是四軌的179街車站。路線以四軌西行再轉向西北，慢車軌道位於快車軌道外側。皇后林蔭路線在[布里亞伍德以西匯合](https://zh.wikipedia.org/wiki/布里亞伍德車站_\(IND皇后林蔭路線\) "wikilink")[IND射手大道線](../Page/射手大道線.md "wikilink")，和[森林小丘-71大道以西往](https://zh.wikipedia.org/wiki/森林小丘-71大道車站_\(IND皇后林蔭路線\) "wikilink")[牙買加車廠的支線](https://zh.wikipedia.org/wiki/紐約地鐵車廠#牙買加車廠 "wikilink")。快車軌道和慢車軌道在的[65街分岔](https://zh.wikipedia.org/wiki/65街車站_\(IND皇后林蔭路線\) "wikilink")，並在的[36街重新匯合](https://zh.wikipedia.org/wiki/36街車站_\(IND皇后林蔭路線\) "wikilink")。36街以西，[IND
+63街線將兩條軌道都分拆](https://zh.wikipedia.org/wiki/IND_63街線 "wikilink")，途經進入曼哈頓。[長島市的](../Page/長島市.md "wikilink")[皇后廣場開始](https://zh.wikipedia.org/wiki/皇后廣場車站_\(IND皇后林蔭路線\) "wikilink")，路線收窄至兩條軌道，慢車軌道分岔到和[IND跨城線](../Page/IND跨城線.md "wikilink")。從那起，路線快車軌道在下方橫跨曼哈頓，提供跨城列車服務，之後在第八大道轉向西南，在50街車站結束。皇后廣場以西的兩軌路段也稱作「IND
 53街線」。
 
 皇后林蔭路線設有四條重疊的路線。[E線列車在](../Page/紐約地鐵E線.md "wikilink")50街至布里亞伍德之間行駛，正常在71大道以西以快車營運。[F線列車在](../Page/紐約地鐵F線.md "wikilink")36街至71大道之間以快車營運，在71大道以東至179街以慢車營運。[M線與](../Page/紐約地鐵M線.md "wikilink")[R線列車在](../Page/紐約地鐵R線.md "wikilink")71大道以西以慢車營運，而M線在[第五大道／53街以西分岔](https://zh.wikipedia.org/wiki/第五大道／53街車站_\(IND皇后林蔭路線\) "wikilink")，R線在皇后廣場分岔往西。E線和F線任何時候都營運，而M線僅平日營運，R線在除深夜外任何時候都營運。深夜時，E線在布里亞伍德以西以慢車營運，以為全線提供慢車服務。這些路線在平日經常超負荷，而皇后林蔭路線是紐約地鐵最高繁忙時段列車班次的路線。有計劃改造路線，將其訊號系統改為[通訊式列車控制系統](../Page/通訊式列車控制.md "wikilink")，將增加路線容量。
@@ -131,7 +131,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/射手大道線" title="wikilink">IND射手大道線</a>（）匯入</p></td>
+<td><p><a href="../Page/射手大道線.md" title="wikilink">IND射手大道線</a>（）匯入</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -258,7 +258,7 @@
 <td><p>全部</p></td>
 <td></td>
 <td><p>1933年8月19日[18]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>（），<a href="https://zh.wikipedia.org/wiki/74街-百老匯車站_(IRT法拉盛線)" title="wikilink">74街-百老匯</a><br />
+<td><p><a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>（），<a href="https://zh.wikipedia.org/wiki/74街-百老匯車站_(IRT法拉盛線)" title="wikilink">74街-百老匯</a><br />
 線巴士往<a href="https://zh.wikipedia.org/wiki/拉瓜迪亞機場" title="wikilink">拉瓜迪亞機場</a>（只限）<br />
 <br />
 往<a href="https://zh.wikipedia.org/wiki/拉瓜迪亞機場" title="wikilink">拉瓜迪亞機場</a></p></td>
@@ -304,7 +304,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/阿斯托里亞_(皇后區)" title="wikilink">阿斯托利亞</a></p></td>
+<td><p><a href="../Page/阿斯托里亞_(皇后區).md" title="wikilink">阿斯托利亞</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/46街車站_(IND皇后林蔭路線)" title="wikilink">46街</a></p></td>
 <td></td>
@@ -364,7 +364,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>慢車軌道分岔往<a href="https://zh.wikipedia.org/wiki/IND跨城線" title="wikilink">IND跨城線</a>（）及（）</p></td>
+<td><p>慢車軌道分岔往<a href="../Page/IND跨城線.md" title="wikilink">IND跨城線</a>（）及（）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -380,8 +380,8 @@
 <td><p>快車</p></td>
 <td></td>
 <td><p>1939年8月28日[25]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/IND跨城線" title="wikilink">IND跨城線</a>（）<br />
-<a href="https://zh.wikipedia.org/wiki/IRT法拉盛線" title="wikilink">IRT法拉盛線</a>（）</p></td>
+<td><p><a href="../Page/IND跨城線.md" title="wikilink">IND跨城線</a>（）<br />
+<a href="../Page/IRT法拉盛線.md" title="wikilink">IRT法拉盛線</a>（）</p></td>
 <td></td>
 </tr>
 <tr class="odd">

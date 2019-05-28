@@ -317,7 +317,7 @@
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/何塞·霍金斯" title="wikilink">何塞·霍金斯</a></p></td>
+<td><p><a href="../Page/何塞·霍金斯.md" title="wikilink">何塞·霍金斯</a></p></td>
 <td><p>得分後衛</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/費城76人" title="wikilink">費城76人</a>（<a href="https://zh.wikipedia.org/wiki/1988-89_NBA賽季" title="wikilink">1988-89</a>–<a href="https://zh.wikipedia.org/wiki/1992-93_NBA賽季" title="wikilink">1992-93</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/紐奧良黃蜂" title="wikilink">夏洛特黃蜂</a>（<a href="https://zh.wikipedia.org/wiki/1993-94_NBA賽季" title="wikilink">1993-94</a>–<a href="https://zh.wikipedia.org/wiki/1994-95_NBA賽季" title="wikilink">1994-95</a>，<a href="https://zh.wikipedia.org/wiki/2000-01_NBA賽季" title="wikilink">2000-01</a>）<br />
@@ -564,7 +564,7 @@
 <a href="https://zh.wikipedia.org/wiki/奧蘭多魔術" title="wikilink">奧蘭多魔術</a>（<a href="https://zh.wikipedia.org/wiki/2009-10_NBA賽季" title="wikilink">2009-10</a>）–<a href="../Page/2010-11_NBA賽季.md" title="wikilink">2010-11</a>）<br />
 <a href="../Page/達拉斯獨行俠.md" title="wikilink">達拉斯獨行俠</a>（<a href="https://zh.wikipedia.org/wiki/2011-12_NBA賽季" title="wikilink">2011-12</a>）–<a href="../Page/2013-14_NBA賽季.md" title="wikilink">2013-14</a>）<br />
 <a href="../Page/孟菲斯灰熊.md" title="wikilink">孟菲斯灰熊</a>（<a href="../Page/2014-15_NBA賽季.md" title="wikilink">2014-15</a>）–<a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17</a>）<br />
-<a href="../Page/沙加緬度國王.md" title="wikilink">沙加緬度國王</a>（<a href="https://zh.wikipedia.org/wiki/2017-18_NBA賽季" title="wikilink">2017-18</a>）<br />
+<a href="../Page/沙加緬度國王.md" title="wikilink">沙加緬度國王</a>（<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/亞特蘭大老鷹" title="wikilink">亞特蘭大老鷹</a>（<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-19</a>）</p></td>
 <td><p>1,489</p></td>
 <td><p>1.0</p></td>
@@ -579,7 +579,7 @@
 <a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a>（<a href="https://zh.wikipedia.org/wiki/2007-08_NBA賽季" title="wikilink">2007-08</a>）–<a href="https://zh.wikipedia.org/wiki/2009-10_NBA賽季" title="wikilink">2009-10</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/紐澳良黃蜂" title="wikilink">紐澳良黃蜂</a>（<a href="../Page/2010-11_NBA賽季.md" title="wikilink">2010-11</a>）–<a href="https://zh.wikipedia.org/wiki/2011-12_NBA賽季" title="wikilink">2011-12</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/華盛頓巫師" title="wikilink">華盛頓巫師</a>（<a href="https://zh.wikipedia.org/wiki/2012-13_NBA賽季" title="wikilink">2012-13</a>）–<a href="../Page/2013-14_NBA賽季.md" title="wikilink">2013-14</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">休士頓火箭</a>（<a href="../Page/2014-15_NBA賽季.md" title="wikilink">2014-15</a>）–<a href="https://zh.wikipedia.org/wiki/2017-18_NBA賽季" title="wikilink">2017-18</a>）</p></td>
+<a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">休士頓火箭</a>（<a href="../Page/2014-15_NBA賽季.md" title="wikilink">2014-15</a>）–<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-18</a>）</p></td>
 <td><p>1,488</p></td>
 <td><p>1.5</p></td>
 <td></td>

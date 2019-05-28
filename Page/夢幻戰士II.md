@@ -47,7 +47,7 @@ Eigine主機開創出一條光明大道來，同時也讓當時的玩家對夢�
 
 ### 影响
 
-游戏移植于[PC-9801](https://zh.wikipedia.org/wiki/PC-9801 "wikilink")、[MSX](../Page/MSX.md "wikilink")、[X68000和](https://zh.wikipedia.org/wiki/X68000 "wikilink")[PC
+游戏移植于[PC-9801](https://zh.wikipedia.org/wiki/PC-9801 "wikilink")、[MSX](../Page/MSX.md "wikilink")、[X68000和](../Page/X68000.md "wikilink")[PC
 Engine](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")（CD-ROM）。
 
 ## 外部連結

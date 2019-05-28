@@ -299,7 +299,7 @@ DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[丹澤晃之](https://zh.wikipedia.org/wiki/丹澤晃之 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[陳卓智](../Page/陳卓智.md "wikilink")
+    配音員：日：[丹澤晃之](../Page/丹澤晃之.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[陳卓智](../Page/陳卓智.md "wikilink")
     居住於「上舞第三小學校」營養管理網站內的精靈，曾被「PiPoPa」三人組欺侮而性情大變。
 
 <!-- end list -->
@@ -349,7 +349,7 @@ DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[木下紗華](https://zh.wikipedia.org/wiki/木下紗華 "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")
+    配音員：日：[木下紗華](../Page/木下紗華.md "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")
     居住於祖父江光父親電腦裡的精靈，隨著資料的消失，它也跟著消失了。
 
 <!-- end list -->
@@ -379,7 +379,7 @@ DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[丹澤晃之](https://zh.wikipedia.org/wiki/丹澤晃之 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[雷碧娜](../Page/雷碧娜.md "wikilink")
+    配音員：日：[丹澤晃之](../Page/丹澤晃之.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[雷碧娜](../Page/雷碧娜.md "wikilink")
     居住於垃圾場網站的精靈。
 
 <!-- end list -->
@@ -513,7 +513,7 @@ DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[丹澤晃之](https://zh.wikipedia.org/wiki/丹澤晃之 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[劉昭文](../Page/劉昭文.md "wikilink")
+    配音員：日：[丹澤晃之](../Page/丹澤晃之.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[劉昭文](../Page/劉昭文.md "wikilink")
     在風間壬被捕後，接任「未來夢想公司」的日本分部長，後來轉到和菓子店工作。
 
 <!-- end list -->
@@ -642,7 +642,7 @@ DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[木下紗華](https://zh.wikipedia.org/wiki/木下紗華 "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")
+    配音員：日：[木下紗華](../Page/木下紗華.md "wikilink")／台：[龍顯蕙](../Page/龍顯蕙.md "wikilink")
     花梨的母親。
 
 <!-- end list -->
@@ -652,7 +652,7 @@ DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 <!-- end list -->
 
   -
-    配音員：日：[丹澤晃之](https://zh.wikipedia.org/wiki/丹澤晃之 "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")
+    配音員：日：[丹澤晃之](../Page/丹澤晃之.md "wikilink")／台：[宋克軍](../Page/宋克軍.md "wikilink")／香港：[馮錦堂](https://zh.wikipedia.org/wiki/馮錦堂 "wikilink")
     花梨的父親。
 
 ### 其他人物
@@ -774,7 +774,7 @@ DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 <td><p>歡迎來到＠網路世界</p></td>
 <td><p><a href="../Page/山田靖智.md" title="wikilink">山田靖智</a></p></td>
 <td><p><a href="../Page/木村真一郎.md" title="wikilink">木村真一郎</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鈴木行" title="wikilink">鈴木行</a></p></td>
+<td><p><a href="../Page/鈴木行.md" title="wikilink">鈴木行</a></p></td>
 <td><p>山形孝二</p></td>
 </tr>
 <tr class="even">
@@ -794,7 +794,7 @@ DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 <td><p>ガッコウヘ@イコウ!?</p></td>
 <td><p>上學去</p></td>
 <td><p>到學校@去吧！？</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/網谷正治" title="wikilink">網谷正治</a></p></td>
+<td><p><a href="../Page/網谷正治.md" title="wikilink">網谷正治</a></p></td>
 <td><p>所俊克</p></td>
 <td><p>左藤洋二</p></td>
 <td><p>アミサキリョウコ</p></td>
@@ -816,7 +816,7 @@ DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 <td><p>BiBoBa, 三隻精靈出現了</p></td>
 <td><p>BIBOBA@拜見是也</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/滝晃一" title="wikilink">滝晃一</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/白土武" title="wikilink">白土武</a></p></td>
+<td><p><a href="../Page/白土武.md" title="wikilink">白土武</a></p></td>
 <td><p>いとがしんたろー</p></td>
 <td><p>安形佳己</p></td>
 </tr>
@@ -1024,7 +1024,7 @@ DS遊戲軟體](https://zh.wikipedia.org/wiki/Nintendo_DS "wikilink")。
 <td><p>PiPoPa PiPoPaPu</p></td>
 <td><p>PIPOPA@PIPOPAPU！</p></td>
 <td><p>樋口達人</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/下田正美" title="wikilink">下田正美</a></p></td>
+<td><p><a href="../Page/下田正美.md" title="wikilink">下田正美</a></p></td>
 <td><p>玉川真人</p></td>
 <td><p>伊佐英朗</p></td>
 </tr>

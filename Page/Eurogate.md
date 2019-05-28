@@ -5,7 +5,7 @@ Intermodal）、集装箱装拼箱、海运货物包装（SWOP）以及集装箱
 
 ## 德国集装箱码头业务
 
-Eurogate在德国境内运营三个集装箱码头，分别位于德国第一大港[汉堡港](https://zh.wikipedia.org/wiki/汉堡港 "wikilink")、第二大港[不来梅哈芬港](../Page/不来梅哈芬.md "wikilink")、以及[威廉港](../Page/威廉港.md "wikilink")。Eurogate汉堡集装箱码头总长度为2080米，水深15.3米，拥有6个[泊位](https://zh.wikipedia.org/wiki/泊位 "wikilink")，配备21台[集装箱岸边起重机](https://zh.wikipedia.org/wiki/集装箱岸边起重机 "wikilink")。2016年，在完成规划中的西扩建设后，将新增两个大型集装箱船舶[泊位](https://zh.wikipedia.org/wiki/泊位 "wikilink")。目前，Eurogate为汉堡港第二大码头运营商。Eurogate不来梅哈芬港集装箱码头总岸线近5公里长，其连续长度为世界河岸码头长度之最，拥有16个泊位，水深14-16.5米，能停泊目前世界上最大的集装箱船。Eurogate[威廉港集装箱码头规划岸线长](../Page/威廉港.md "wikilink")1725米，水深18米，共有四个泊位，该码头是德国唯一的[深水港](https://zh.wikipedia.org/wiki/深水港 "wikilink")。Eurogate在不来梅哈芬港与威廉港均为最大的码头运营商。
+Eurogate在德国境内运营三个集装箱码头，分别位于德国第一大港[汉堡港](../Page/汉堡港.md "wikilink")、第二大港[不来梅哈芬港](../Page/不来梅哈芬.md "wikilink")、以及[威廉港](../Page/威廉港.md "wikilink")。Eurogate汉堡集装箱码头总长度为2080米，水深15.3米，拥有6个[泊位](https://zh.wikipedia.org/wiki/泊位 "wikilink")，配备21台[集装箱岸边起重机](https://zh.wikipedia.org/wiki/集装箱岸边起重机 "wikilink")。2016年，在完成规划中的西扩建设后，将新增两个大型集装箱船舶[泊位](https://zh.wikipedia.org/wiki/泊位 "wikilink")。目前，Eurogate为汉堡港第二大码头运营商。Eurogate不来梅哈芬港集装箱码头总岸线近5公里长，其连续长度为世界河岸码头长度之最，拥有16个泊位，水深14-16.5米，能停泊目前世界上最大的集装箱船。Eurogate[威廉港集装箱码头规划岸线长](../Page/威廉港.md "wikilink")1725米，水深18米，共有四个泊位，该码头是德国唯一的[深水港](https://zh.wikipedia.org/wiki/深水港 "wikilink")。Eurogate在不来梅哈芬港与威廉港均为最大的码头运营商。
 
 **EUROGATE德国码头网络**
 

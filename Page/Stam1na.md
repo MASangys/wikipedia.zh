@@ -2,7 +2,7 @@
 
 ## 乐队名称
 
-乐队选择“1”取代“Stamina”（毅力）中的“I”使名称更为独特，在[搜索引擎中更容易被搜到](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")。
+乐队选择“1”取代“Stamina”（毅力）中的“I”使名称更为独特，在[搜索引擎中更容易被搜到](../Page/搜索引擎.md "wikilink")。
 
 ## 背景
 

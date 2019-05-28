@@ -16,7 +16,7 @@ feat.SRM](https://zh.wikipedia.org/wiki/Pride〜A_Part_of_Me〜_feat.SRM "wikili
         編曲：Joe Rinoie, [Yukinori
         Nakano](https://zh.wikipedia.org/wiki/Yukinori_Nakano "wikilink"),
         [坂部大介](https://zh.wikipedia.org/wiki/坂部大介 "wikilink") & [Kentaro
-        Sato](https://zh.wikipedia.org/wiki/佐藤賢太郎 "wikilink")
+        Sato](../Page/佐藤賢太郎.md "wikilink")
 
       - 配給电影「」主題歌。
 2.  **BREAKDOWN**

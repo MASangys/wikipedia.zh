@@ -25,7 +25,7 @@ Beerlao啤酒已經出口至[英國](https://zh.wikipedia.org/wiki/英國 "wikil
 
 ## 榮譽
 
-  - Beerlao啤酒在2004年被《[時代雜誌](https://zh.wikipedia.org/wiki/時代雜誌 "wikilink")》選為「亞洲最佳啤酒」。
+  - Beerlao啤酒在2004年被《[時代雜誌](../Page/時代雜誌.md "wikilink")》選為「亞洲最佳啤酒」。
   - Beerlao啤酒亦在2009年被《[紐約時報](https://zh.wikipedia.org/wiki/紐約時報 "wikilink")》廣泛報導。\[1\]
 
 ## 參考資料

@@ -26,7 +26,7 @@
   - [於是，他就這樣燒了屋頂](../Page/於是，他就這樣燒了屋頂.md "wikilink")（[カミツキレイニー](https://zh.wikipedia.org/wiki/カミツキレイニー "wikilink")／[文倉十](../Page/文倉十.md "wikilink")）
   - [脫兔的反擊](https://zh.wikipedia.org/wiki/脫兔的反擊 "wikilink")（[秀章](https://zh.wikipedia.org/wiki/秀章 "wikilink")／[ky](https://zh.wikipedia.org/wiki/ky "wikilink")）
   - [鎖鎖美小姐@不好好努力](../Page/鎖鎖美小姐@不好好努力.md "wikilink")（[日日日](../Page/日日日.md "wikilink")／[左](../Page/左_\(插畫家\).md "wikilink")）
-  - [GJ部](../Page/GJ部.md "wikilink")（[新木伸](https://zh.wikipedia.org/wiki/新木伸 "wikilink")／[あるや](https://zh.wikipedia.org/wiki/あるや "wikilink")）
+  - [GJ部](../Page/GJ部.md "wikilink")（[新木伸](../Page/新木伸.md "wikilink")／[あるや](https://zh.wikipedia.org/wiki/あるや "wikilink")）
   - [她，唯有一死](https://zh.wikipedia.org/wiki/她，唯有一死 "wikilink")（[石川周](https://zh.wikipedia.org/wiki/石川周 "wikilink")／[八重樫南](https://zh.wikipedia.org/wiki/八重樫南 "wikilink")）
   - [CROWN FLINT
     雙合透鏡](https://zh.wikipedia.org/wiki/CROWN_FLINT_雙合透鏡 "wikilink")（[三上康明](https://zh.wikipedia.org/wiki/三上康明 "wikilink")／[純珪一](https://zh.wikipedia.org/wiki/純珪一 "wikilink")）
@@ -43,11 +43,11 @@
     著：[築地俊彦](https://zh.wikipedia.org/wiki/築地俊彦 "wikilink")）
   - [人類衰退之後](../Page/人類衰退之後.md "wikilink")（[田中羅密歐](../Page/田中羅密歐.md "wikilink")／[山崎透](https://zh.wikipedia.org/wiki/山崎透 "wikilink")）
   - [RIGHT×LIGHT](https://zh.wikipedia.org/wiki/RIGHT×LIGHT "wikilink")（[司](../Page/司.md "wikilink")／[近衛乙嗣](https://zh.wikipedia.org/wiki/近衛乙嗣 "wikilink")）
-  - [對某飛行員的追憶](../Page/對某飛行員的追憶.md "wikilink")（[犬村小六](../Page/犬村小六.md "wikilink")／[森澤晴行](https://zh.wikipedia.org/wiki/森澤晴行 "wikilink")）
+  - [對某飛行員的追憶](../Page/對某飛行員的追憶.md "wikilink")（[犬村小六](../Page/犬村小六.md "wikilink")／[森澤晴行](../Page/森澤晴行.md "wikilink")）
   - [AURA
     〜魔龍院光牙最後的戰鬥〜](https://zh.wikipedia.org/wiki/AURA_〜魔龍院光牙最後的戰鬥〜 "wikilink")（田中羅密歐／[mebae](https://zh.wikipedia.org/wiki/mebae "wikilink")）
   - [只有神知道的世界](../Page/只有神知道的世界.md "wikilink")（[有澤真水](../Page/有澤真水.md "wikilink")／[若木民喜](../Page/若木民喜.md "wikilink")）
-  - [罪人與龍共舞](https://zh.wikipedia.org/wiki/罪人與龍共舞 "wikilink")（[浅井ラボ](https://zh.wikipedia.org/wiki/浅井ラボ "wikilink")／[宮城](https://zh.wikipedia.org/wiki/宮城 "wikilink")）
+  - [罪人與龍共舞](../Page/罪人與龍共舞.md "wikilink")（[浅井ラボ](https://zh.wikipedia.org/wiki/浅井ラボ "wikilink")／[宮城](https://zh.wikipedia.org/wiki/宮城 "wikilink")）
   - [獻給某飛行員的戀歌](../Page/獻給某飛行員的戀歌.md "wikilink")（犬村小六／森澤晴行）
   - [邪神大沼](https://zh.wikipedia.org/wiki/邪神大沼 "wikilink")（[川岸毆魚](https://zh.wikipedia.org/wiki/川岸毆魚 "wikilink")／[Ixy](https://zh.wikipedia.org/wiki/Ixy "wikilink")）
   - [綻放花朵的飛行兵器](../Page/綻放花朵的飛行兵器.md "wikilink")（[杉井光](../Page/杉井光.md "wikilink")／[LLO](https://zh.wikipedia.org/wiki/LLO "wikilink")）
@@ -57,12 +57,12 @@
   - [寄生彼女砂奈](../Page/寄生彼女砂奈.md "wikilink")（[砂義出雲](https://zh.wikipedia.org/wiki/砂義出雲 "wikilink")／[瑠奈璃亞](https://zh.wikipedia.org/wiki/瑠奈璃亞 "wikilink")）
   - [我和妳有致命的認知差異](https://zh.wikipedia.org/wiki/我和妳有致命的認知差異 "wikilink")（[赤月カケヤ](https://zh.wikipedia.org/wiki/赤月カケヤ "wikilink")／[晩杯あきら](https://zh.wikipedia.org/wiki/晩杯あきら "wikilink")）
   - [我，要成為雙馬尾](../Page/我，要成為雙馬尾.md "wikilink")（[水澤夢](https://zh.wikipedia.org/wiki/水澤夢 "wikilink")／[春日步](../Page/春日步.md "wikilink")）
-  - [下流梗不存在的灰暗世界](../Page/下流梗不存在的灰暗世界.md "wikilink")（[赤城大空](https://zh.wikipedia.org/wiki/赤城大空 "wikilink")／[霜月えいと](https://zh.wikipedia.org/wiki/霜月えいと "wikilink")）
+  - [下流梗不存在的灰暗世界](../Page/下流梗不存在的灰暗世界.md "wikilink")（[赤城大空](../Page/赤城大空.md "wikilink")／[霜月えいと](https://zh.wikipedia.org/wiki/霜月えいと "wikilink")）
   - [魔王之類的啦！](https://zh.wikipedia.org/wiki/魔王之類的啦！ "wikilink")（[原田源五郎](https://zh.wikipedia.org/wiki/原田源五郎 "wikilink")／[nyanya](https://zh.wikipedia.org/wiki/nyanya "wikilink")）
   - [企業傭兵](../Page/企業傭兵.md "wikilink")（虛淵玄／[廣江禮威](https://zh.wikipedia.org/wiki/廣江禮威 "wikilink")）
   - [灼熱的小早川同學](https://zh.wikipedia.org/wiki/灼熱的小早川同學 "wikilink")（田中羅密歐／[西邑](https://zh.wikipedia.org/wiki/西邑 "wikilink")）
   - [獻給某飛行員的夜曲](https://zh.wikipedia.org/wiki/獻給某飛行員的夜曲 "wikilink")（犬村小六／森澤晴行）
-  - [弱角友崎同學](https://zh.wikipedia.org/wiki/弱角友崎同學 "wikilink")（[屋久悠樹](https://zh.wikipedia.org/wiki/屋久悠樹 "wikilink")／[フライ](https://zh.wikipedia.org/wiki/フライ "wikilink")）
+  - [弱角友崎同學](../Page/弱角友崎同學.md "wikilink")（[屋久悠樹](https://zh.wikipedia.org/wiki/屋久悠樹 "wikilink")／[フライ](https://zh.wikipedia.org/wiki/フライ "wikilink")）
 
 ### 台灣東販
 
@@ -89,7 +89,7 @@
     著：[大樹連司](https://zh.wikipedia.org/wiki/大樹連司 "wikilink")）
   - [日本鎖國](https://zh.wikipedia.org/wiki/日本鎖國 "wikilink") 〜my winding
     road〜（[谷崎央佳](https://zh.wikipedia.org/wiki/谷崎央佳 "wikilink")
-    原案・監修：[曾利文彥](https://zh.wikipedia.org/wiki/曾利文彥 "wikilink")／[緒方剛志](https://zh.wikipedia.org/wiki/緒方剛志 "wikilink")）
+    原案・監修：[曾利文彥](https://zh.wikipedia.org/wiki/曾利文彥 "wikilink")／[緒方剛志](../Page/緒方剛志.md "wikilink")）
 
 ## 註解
 

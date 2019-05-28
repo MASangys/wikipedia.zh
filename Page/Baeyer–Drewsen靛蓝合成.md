@@ -1,7 +1,7 @@
 **von
 Baeyer–Drewsen靛蓝合成**（冯·拜耳-德维森靛蓝合成），也被误称为“Baeyer–Drews<u>o</u>n靛蓝合成”
 
-[邻硝基苯甲醛与](https://zh.wikipedia.org/wiki/邻硝基苯甲醛 "wikilink")[丙酮用稀](../Page/丙酮.md "wikilink")[氢氧化钠水溶液处理得到](../Page/氢氧化钠.md "wikilink")[羟醛反应产物](../Page/羟醛反应.md "wikilink")，该产物在碱溶液中加热则转变为[靛蓝](../Page/靛蓝.md "wikilink")。\[1\]
+[邻硝基苯甲醛与](../Page/邻硝基苯甲醛.md "wikilink")[丙酮用稀](../Page/丙酮.md "wikilink")[氢氧化钠水溶液处理得到](../Page/氢氧化钠.md "wikilink")[羟醛反应产物](../Page/羟醛反应.md "wikilink")，该产物在碱溶液中加热则转变为[靛蓝](../Page/靛蓝.md "wikilink")。\[1\]
 
 
 [Baeyer-Drewson_indigo_synthesis.svg](https://zh.wikipedia.org/wiki/File:Baeyer-Drewson_indigo_synthesis.svg "fig:Baeyer-Drewson_indigo_synthesis.svg")

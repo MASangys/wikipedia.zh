@@ -6,7 +6,7 @@ Asia使用了美國[HBO電視網的品牌](../Page/HBO.md "wikilink")，由[時�
 
 [派拉蒙影業與](../Page/派拉蒙影業.md "wikilink")[華納兄弟在](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")1992年合作出資成立了HBO
 Asia，初期透過「新加坡電纜電視」（Singapore Cable
-Vision，簡稱SCV，[星和视界前身之一](https://zh.wikipedia.org/wiki/星和视界 "wikilink")）播出。在1992年於[新加坡](../Page/新加坡.md "wikilink")"SCV"
+Vision，簡稱SCV，[星和视界前身之一](../Page/星和视界.md "wikilink")）播出。在1992年於[新加坡](../Page/新加坡.md "wikilink")"SCV"
 正式啟播，每天播放18小時的節目。1994年開始，HBO正式24小時播放荷里活電影，每月播放約120個節目。在2001年開始引入HBO原創系列節目，如2001年的"Band
 of Brothers"等。1993年HBO Asia位於[新加坡新科技產業園](../Page/新加坡.md "wikilink")（New
 Tech Park）的總部啓用\[1\]\[2\]\[3\]。其後HBO
@@ -59,8 +59,8 @@ HBO的原創影集《[我家也有大明星](../Page/我家也有大明星.md "w
 
 ### 其他/代理頻道
 
-  - [RED by HBO](https://zh.wikipedia.org/wiki/RED_by_HBO "wikilink")
-  - [華納電視頻道](https://zh.wikipedia.org/wiki/華納電視頻道 "wikilink")（WarnerTV）
+  - [RED by HBO](../Page/RED_by_HBO.md "wikilink")
+  - [華納電視頻道](../Page/華納電視頻道.md "wikilink")（WarnerTV）
   - [寶寶世界頻道](https://zh.wikipedia.org/wiki/寶寶世界頻道 "wikilink")（BabyFirst）
   - [夢工廠頻道](https://zh.wikipedia.org/wiki/夢工廠頻道 "wikilink")（DreamWorks
     Animation Channel）（預計2015年6月於亞洲19個地區開播，其中包括韓國、台灣、香港。）

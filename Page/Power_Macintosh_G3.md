@@ -43,7 +43,7 @@ Drive](https://zh.wikipedia.org/wiki/zip_Drive "wikilink")。
 Macintosh相比](../Page/Power_Macintosh.md "wikilink")，大幅度變更主機板設計方向並具備較快的[系統匯流排](../Page/系統匯流排.md "wikilink")，雖仍於主機板上保留早期
 Power Macintosh 所慣例配置的
 [SCSI](https://zh.wikipedia.org/wiki/SCSI "wikilink")
-介面，卻也同時加入一般[PC上廣為使用的](../Page/PC.md "wikilink")[ATA](https://zh.wikipedia.org/wiki/ATA "wikilink")
+介面，卻也同時加入一般[PC上廣為使用的](../Page/PC.md "wikilink")[ATA](../Page/ATA.md "wikilink")
 ([IDE](https://zh.wikipedia.org/wiki/IDE "wikilink"))
 介面，放棄採用價格相對較為昂貴的[EDO
 RAM](https://zh.wikipedia.org/wiki/EDO_RAM "wikilink")，轉而使用[SDRAM](../Page/SDRAM.md "wikilink")；保留傳統3.5吋軟碟並內建[zip

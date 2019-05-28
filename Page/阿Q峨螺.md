@@ -1,4 +1,4 @@
-**尖鱼篮螺**（学名：），又名**阿Q峨螺**，舊屬[新腹足目](../Page/新腹足目.md "wikilink")[峨螺科](../Page/峨螺科.md "wikilink")[海因螺屬](https://zh.wikipedia.org/wiki/海因螺屬 "wikilink")，今屬峨螺科[鱼篮螺属](https://zh.wikipedia.org/wiki/鱼篮螺属 "wikilink")。
+**尖鱼篮螺**（学名：），又名**阿Q峨螺**，舊屬[新腹足目](../Page/新腹足目.md "wikilink")[峨螺科](../Page/峨螺科.md "wikilink")[海因螺屬](https://zh.wikipedia.org/wiki/海因螺屬 "wikilink")，今屬峨螺科[鱼篮螺属](../Page/鱼篮螺属.md "wikilink")。
 
 有其他文獻認為[中华海因螺](https://zh.wikipedia.org/wiki/中华海因螺 "wikilink")（学名：，又名[中華峨螺](https://zh.wikipedia.org/wiki/中華峨螺 "wikilink")）是本物種的同種異名，但未有提供在分子生物學上的證明，只是形態上在其縱肋及口蓋有所不同。現依從[WoRMS](https://zh.wikipedia.org/wiki/WoRMS "wikilink")，依然視為不同物種。
 

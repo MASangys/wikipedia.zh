@@ -19,7 +19,7 @@ Google地球使用了[公共領域的圖片](https://zh.wikipedia.org/wiki/公�
 <li><a href="https://zh.wikipedia.org/wiki/阿拉伯语" title="wikilink">阿拉伯语</a></li>
 <li><a href="../Page/保加利亚语.md" title="wikilink">保加利亚语</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/孟加拉语" title="wikilink">孟加拉语</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/加泰罗尼亚语" title="wikilink">加泰罗尼亚语</a></li>
+<li><a href="../Page/加泰罗尼亚语.md" title="wikilink">加泰罗尼亚语</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/繁体中文" title="wikilink">繁体中文</a></li>
 <li><a href="https://zh.wikipedia.org/wiki/简体中文" title="wikilink">简体中文</a></li>
 <li><a href="../Page/克罗地亚语.md" title="wikilink">克罗地亚语</a></li>
@@ -159,7 +159,7 @@ Google
 Earth不能在配備較低的-{zh-hans:计算机;zh-hk:電腦;zh-sg:計算機;zh-tw:電腦;}-上使用。下面的數據是軟件所需的最低配置：
 
   - [操作系统](../Page/操作系统.md "wikilink")：[Windows
-    2000](../Page/Windows_2000.md "wikilink")，[XP](../Page/Windows_XP.md "wikilink")，[Vista](../Page/Windows_Vista.md "wikilink")，[7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，[8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，[10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，[Mac
+    2000](../Page/Windows_2000.md "wikilink")，[XP](../Page/Windows_XP.md "wikilink")，[Vista](../Page/Windows_Vista.md "wikilink")，[7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")，[8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，[10](../Page/Windows_10.md "wikilink")，[Mac
     OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")
     (10.6)，[Linux](../Page/Linux.md "wikilink") 2.4
   - [CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")：500 MHz

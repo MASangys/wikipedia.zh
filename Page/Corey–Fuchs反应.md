@@ -1,6 +1,6 @@
 **Corey–Fuchs反应**，又称**Ramirez–Corey–Fuchs反应**
 
-[醛与](../Page/醛.md "wikilink")[四溴化碳和](https://zh.wikipedia.org/wiki/四溴化碳 "wikilink")[三苯基膦反应](../Page/三苯基膦.md "wikilink")，发生一碳[同系化生成二](https://zh.wikipedia.org/wiki/同系化 "wikilink")[溴](../Page/溴.md "wikilink")[烯烃](../Page/烯烃.md "wikilink")，然后再用[正丁基锂处理而得到末端](../Page/正丁基锂.md "wikilink")[炔烃](../Page/炔烃.md "wikilink")。\[1\]\[2\]\[3\]
+[醛与](../Page/醛.md "wikilink")[四溴化碳和](../Page/四溴化碳.md "wikilink")[三苯基膦反应](../Page/三苯基膦.md "wikilink")，发生一碳[同系化生成二](https://zh.wikipedia.org/wiki/同系化 "wikilink")[溴](../Page/溴.md "wikilink")[烯烃](../Page/烯烃.md "wikilink")，然后再用[正丁基锂处理而得到末端](../Page/正丁基锂.md "wikilink")[炔烃](../Page/炔烃.md "wikilink")。\[1\]\[2\]\[3\]
 
 
 [Corey-Fuchs_Reaction_Scheme.png](https://zh.wikipedia.org/wiki/File:Corey-Fuchs_Reaction_Scheme.png "fig:Corey-Fuchs_Reaction_Scheme.png")

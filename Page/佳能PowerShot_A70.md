@@ -17,7 +17,7 @@ A75所取代](https://zh.wikipedia.org/wiki/Canon_PowerShot_A75 "wikilink")，A7
   - 3倍光学[变焦](https://zh.wikipedia.org/wiki/变焦 "wikilink")
   - 1/2.7 英寸 [CCD](https://zh.wikipedia.org/wiki/CCD "wikilink")
   - 1.5寸TFT液晶屏，分辨率11.8万象素。
-  - 5点智能[对焦](https://zh.wikipedia.org/wiki/对焦 "wikilink")
+  - 5点智能[对焦](../Page/对焦.md "wikilink")
   - 有声短片记录（[MJPEG编码与raw音频](https://zh.wikipedia.org/wiki/MJPEG "wikilink")）
   - 使用[CF卡作为存储介质](https://zh.wikipedia.org/wiki/CF卡 "wikilink")
   - 使用[DIGIC数字处理芯片](https://zh.wikipedia.org/wiki/DIGIC "wikilink")

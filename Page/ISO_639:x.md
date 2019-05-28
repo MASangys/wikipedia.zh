@@ -112,7 +112,7 @@
 | xla                 |           |           | KHM | Kamula                    |                                                                                                                 |
 | xlb                 |           |           |     | Loup B                    |                                                                                                                 |
 | xlc                 |           |           |     | Lycian                    | [呂基亞語](https://zh.wikipedia.org/wiki/呂基亞語 "wikilink")                                                           |
-| xld                 |           |           |     | Lydian                    | [呂底亞語](https://zh.wikipedia.org/wiki/呂底亞語 "wikilink")                                                           |
+| xld                 |           |           |     | Lydian                    | [呂底亞語](../Page/呂底亞語.md "wikilink")                                                                              |
 | xle                 |           |           |     | Lemnian                   |                                                                                                                 |
 | xlg                 |           |           |     | Ligurian (Ancient)        | [古代利古里亞語](https://zh.wikipedia.org/wiki/古代利古里亞語 "wikilink")                                                     |
 | xli                 |           |           |     | Liburnian                 |                                                                                                                 |

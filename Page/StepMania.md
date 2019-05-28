@@ -19,7 +19,7 @@ Collective的独立开发团队分支了StepMania 4 alpha
 
 StepMania的主要游戏模式过程如下：[屏幕上的](https://zh.wikipedia.org/wiki/屏幕 "wikilink")[箭头向某个方向滚动](../Page/箭头.md "wikilink")，最后会遇到一列一般静止的目标箭头。当它们对齐目标时，玩家要在键盘或跳舞毯上按下相应按键。箭头遇到目标的时刻取决于音乐的节拍。游戏的积分取决于玩家能够多准确地在歌曲节拍的时间点触发箭头。玩家的努力通过字母[成绩和量化的分数来评价](https://zh.wikipedia.org/wiki/成绩 "wikilink")。AAAA（四A）在标准安装中是最高评价，表明玩家所有的箭头都是在“Marvelous”计时区（在官方设定下是正确时间前后共0.0225秒）触发，避开了所有的炸弹且完成了所有长箭头。不过，一个非官方的补丁提供了“Ridiculous”计时（正确时间前后共0.01125秒，或Marvelous的一半）和最高AAAAA（五A）评价（全Ridiculous），但只适用于版本3.9。评价E表明玩家在生命槽没有清空的情况下没能坚持完成整首歌曲的长度。StepMania的默认积分和成绩等级几乎与劲舞革命完全相同；不过，计时与记分设置可以轻松被修改。
 
-StepMania允许数种不同的输入选项。可以使用连接家用机的外围设备比如[PS2和](../Page/PlayStation_2.md "wikilink")[Xbox的控制器或](https://zh.wikipedia.org/wiki/Xbox "wikilink")[跳舞毯到电脑的专用适配器](https://zh.wikipedia.org/wiki/跳舞毯 "wikilink")。或者，[键盘也可以通过方向键或其他键来击打节奏](../Page/电脑键盘.md "wikilink")。很多专门为键盘设计的谱面无法用跳舞毯来通过。此外，游戏拥有模拟[狂热节拍](../Page/狂热节拍.md "wikilink")、[劲乐团和](../Page/劲乐团.md "wikilink")[DJMax的](../Page/DJMax.md "wikilink")7键模式、[Pump
+StepMania允许数种不同的输入选项。可以使用连接家用机的外围设备比如[PS2和](../Page/PlayStation_2.md "wikilink")[Xbox的控制器或](../Page/Xbox.md "wikilink")[跳舞毯到电脑的专用适配器](https://zh.wikipedia.org/wiki/跳舞毯 "wikilink")。或者，[键盘也可以通过方向键或其他键来击打节奏](../Page/电脑键盘.md "wikilink")。很多专门为键盘设计的谱面无法用跳舞毯来通过。此外，游戏拥有模拟[狂热节拍](../Page/狂热节拍.md "wikilink")、[劲乐团和](../Page/劲乐团.md "wikilink")[DJMax的](../Page/DJMax.md "wikilink")7键模式、[Pump
 It
 Up和TechnoMotion等其他音乐游戏的能力](../Page/Pump_It_Up.md "wikilink")——不过，记分方式默认还是与DDR相同。
 
@@ -59,7 +59,7 @@ Groove上开发出来，随着开发的进行被移植到StepMania。有数个�
 
 StepMania可运行于常用的桌面操作系统（Microsoft Windows
 98/Me/2000/XP/Vista/7/8、GNU/Linux、FreeBSD、OS
-X），也被用于各种[自由软件和](../Page/自由软件.md "wikilink")[专有软件的基本引擎](../Page/专有软件.md "wikilink")。它也被移植到包括[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")（运行Linux）和手机上。StepMania
+X），也被用于各种[自由软件和](../Page/自由软件.md "wikilink")[专有软件的基本引擎](../Page/专有软件.md "wikilink")。它也被移植到包括[Xbox](../Page/Xbox.md "wikilink")、[iPod](https://zh.wikipedia.org/wiki/iPod "wikilink")（运行Linux）和手机上。StepMania
 3.9或更老的版本在2012年时已经停止了对[Windows
 8或更新版本的Windows支持](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")。
 

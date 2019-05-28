@@ -1,5 +1,6 @@
 /\* Der Grossteil der Codes befindet sich in
-[MediaWiki:Common.js](../Page/MediaWiki:Common.js.md "wikilink") \*/
+[MediaWiki:Common.js](https://zh.wikipedia.org/wiki/MediaWiki:Common.js "wikilink")
+\*/
 
 //================================================================================
 //\*\*\* moveEditsection: Moving of the editsection links

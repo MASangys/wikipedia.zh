@@ -37,8 +37,7 @@ GUNDAM](../Page/機動戰士V_GUNDAM.md "wikilink")》的年代。
 
 高達系列製作群的[日昇對於高達系列的衍生作品除一部分的官方外傳外](https://zh.wikipedia.org/wiki/Sunrise "wikilink")，都認定為非正史故事。但本作因為有原著富野由悠季直接參與製作，故近幾年有些官方年表已開始將本作中的木星戰役和續作《鋼鐵之七人》中的神雷計畫編入。
 
-由於在[PS遊戲](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[《SD
-Gundam
+由於在[PS遊戲](../Page/PlayStation.md "wikilink")[《SD Gundam
 GGENERATION-F》和](https://zh.wikipedia.org/wiki/SD鋼彈G世代 "wikilink")[PS2遊戲](../Page/PlayStation_2.md "wikilink")[《第2次超級機器人大戰α》上登場且主角機海盜高達和哈里遜的藍色高達F](https://zh.wikipedia.org/wiki/超級機器人大戰相關產品列表 "wikilink")91被模型化等的事情，令作品的知名度提高。
 
 ## 角色介紹

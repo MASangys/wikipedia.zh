@@ -45,7 +45,7 @@
 
 尼罗称他仍无法说出他神秘的幕后指使的姓名。监护者们证实，该幕后指使已经将有关此神秘集团的所有信息从尼罗的大脑中删除了。
 
-在[辛尼斯特罗军团攻击](https://zh.wikipedia.org/wiki/辛尼斯特罗 "wikilink")[Oa星球时](https://zh.wikipedia.org/wiki/Oa星球 "wikilink")，尼罗连同[至尊小超人等人被从](https://zh.wikipedia.org/wiki/至尊小超人 "wikilink")[sciencell中释放](https://zh.wikipedia.org/wiki/sciencell "wikilink")。
+在[辛尼斯特罗军团攻击](https://zh.wikipedia.org/wiki/辛尼斯特罗 "wikilink")[Oa星球时](https://zh.wikipedia.org/wiki/Oa星球 "wikilink")，尼罗连同[至尊小超人等人被从](../Page/至尊小超人.md "wikilink")[sciencell中释放](https://zh.wikipedia.org/wiki/sciencell "wikilink")。
 
 他独自逃走并躲藏起来，直至多日后在[Oa星球附近碰到了](https://zh.wikipedia.org/wiki/Oa星球 "wikilink")[凯尔·雷纳和新成为](../Page/凯尔·雷纳.md "wikilink")[离子侠的](https://zh.wikipedia.org/wiki/离子侠 "wikilink")[索达姆·亚特](https://zh.wikipedia.org/wiki/索达姆·亚特 "wikilink")。
 

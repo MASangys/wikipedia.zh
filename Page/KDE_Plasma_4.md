@@ -6,7 +6,7 @@ Netbook*用於[上网本](../Page/上网本.md "wikilink")\[1\]，以及*Plasma
 Active*用於[平板電腦](../Page/平板電腦.md "wikilink")。\[2\]**Plasma工作空間**是[KDE
 Software Compilation
 4的一部分](../Page/KDE_Software_Compilation_4.md "wikilink")。其继承者为
-[KDE Plasma 5](https://zh.wikipedia.org/wiki/KDE_Plasma_5 "wikilink")
+[KDE Plasma 5](../Page/KDE_Plasma_5.md "wikilink")
 \[3\]，於2014年7月15日釋出\[4\] 。
 
 ## 工作空間類型

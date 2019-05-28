@@ -297,7 +297,7 @@
 <td><p>1</p></td>
 <td></td>
 <td><p>四谷怪談 序幕</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/今澤哲男" title="wikilink">今澤哲男</a></p></td>
+<td><p><a href="../Page/今澤哲男.md" title="wikilink">今澤哲男</a></p></td>
 <td><p>阿部正己</p></td>
 <td></td>
 </tr>
@@ -338,7 +338,7 @@
 <td></td>
 <td><p>天守物語 二幕</p></td>
 <td><p>芝田浩樹</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大西陽一" title="wikilink">大西陽一</a></p></td>
+<td><p><a href="../Page/大西陽一.md" title="wikilink">大西陽一</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -64,7 +64,7 @@ Store下載](../Page/Mac_App_Store.md "wikilink")），並在行動裝置上支�
 Phone及](../Page/Windows_Phone.md "wikilink")[Android](../Page/Android.md "wikilink")。[Windows
 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows
 8.1及](../Page/Windows_8.1.md "wikilink")[Windows
-10及](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Windows 10
+10及](../Page/Windows_10.md "wikilink")[Windows 10
 Mobile已經內建](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")，無須自行安裝。
 
 ## 主要競爭對手比較

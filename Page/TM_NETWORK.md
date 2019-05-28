@@ -1,5 +1,5 @@
 **TM
-NETWORK**是一個由[小室哲哉](../Page/小室哲哉.md "wikilink")<small>（[合成器](../Page/合成器.md "wikilink")・[電子琴](../Page/電子琴.md "wikilink")）</small>、[宇都宮隆](https://zh.wikipedia.org/wiki/宇都宮隆 "wikilink")<small>（[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")）</small>、[木根尚登](https://zh.wikipedia.org/wiki/木根尚登 "wikilink")<small>（[吉他](../Page/吉他.md "wikilink")・電子琴）</small>3人所構成的[日本](../Page/日本.md "wikilink")[音樂組合](https://zh.wikipedia.org/wiki/音樂組合 "wikilink")，[電子音樂](../Page/電子音樂.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。簡稱為**TM**\[1\]、**TMN**，但在以**TMN**名義活動的時期不簡稱為**TM**，原封不動地稱呼為**TMN**的情況居多\[2\]。
+NETWORK**是一個由[小室哲哉](../Page/小室哲哉.md "wikilink")<small>（[合成器](../Page/合成器.md "wikilink")・[電子琴](../Page/電子琴.md "wikilink")）</small>、[宇都宮隆](https://zh.wikipedia.org/wiki/宇都宮隆 "wikilink")<small>（[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")）</small>、[木根尚登](https://zh.wikipedia.org/wiki/木根尚登 "wikilink")<small>（[吉他](../Page/吉他.md "wikilink")・電子琴）</small>3人所構成的[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")，[電子音樂](../Page/電子音樂.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")。簡稱為**TM**\[1\]、**TMN**，但在以**TMN**名義活動的時期不簡稱為**TM**，原封不動地稱呼為**TMN**的情況居多\[2\]。
 
 代表曲為動畫『[城市獵人](https://zh.wikipedia.org/wiki/城市獵人 "wikilink")』主題曲「[Get
 Wild](https://zh.wikipedia.org/wiki/Get_Wild "wikilink")」。此外，他們亦有收錄動畫電影『[機動戰士鋼彈
@@ -129,7 +129,7 @@ TM NETWORK作品}}
 
 ### 廣告
 
-  - [好侍食品](https://zh.wikipedia.org/wiki/好侍食品 "wikilink") O'ZACK（1990年）
+  - [好侍食品](../Page/好侍食品.md "wikilink") O'ZACK（1990年）
 
 ### NHK紅白歌合戰出場歴
 

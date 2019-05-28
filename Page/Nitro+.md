@@ -2,7 +2,7 @@
 
 ## 概要
 
-Nitro+與、[0verflow組成](../Page/0verflow.md "wikilink")，代表是。姊妹公司有製作的[Nitro+CHiRAL](https://zh.wikipedia.org/wiki/Nitro+CHiRAL "wikilink")（ニトロプラスキラル）。
+Nitro+與、[0verflow組成](../Page/0verflow.md "wikilink")，代表是。姊妹公司有製作的[Nitro+CHiRAL](../Page/Nitro+CHiRAL.md "wikilink")（ニトロプラスキラル）。
 
 ## 主要作品列表
 

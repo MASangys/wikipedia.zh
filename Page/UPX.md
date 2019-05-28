@@ -49,7 +49,7 @@ UPX支持两种解压方式：就地解压或解压至临时文件夹。
     [C](https://zh.wikipedia.org/wiki/Turbo_C "wikilink")/[Pascal](../Page/Turbo_Pascal.md "wikilink")
     compilers\[6\]编译的程序)
   - tmt/adam (如the TMT Pascal compiler\[7\]编译的程序)
-  - [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")1/EXE
+  - [PlayStation](../Page/PlayStation.md "wikilink")1/EXE
   - [Watcom](https://zh.wikipedia.org/wiki/Watcom_C/C++编译器 "wikilink")/LE
     ([DOS4G](https://zh.wikipedia.org/wiki/DOS4G "wikilink")、[PMODE/W](https://zh.wikipedia.org/wiki/PMODE/W "wikilink")、[DOS32A](https://zh.wikipedia.org/wiki/DOS32A "wikilink")
     和

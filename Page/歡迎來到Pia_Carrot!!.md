@@ -35,8 +35,7 @@ Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，並且改編成O
 
 ## OVA
 
-OVA是由[Triple X製作](https://zh.wikipedia.org/wiki/Arms "wikilink")，Pink
-Pineapple發售的成人動畫共三集。
+OVA是由[Triple X製作](../Page/Arms.md "wikilink")，Pink Pineapple發售的成人動畫共三集。
 
   - 集數列表
 

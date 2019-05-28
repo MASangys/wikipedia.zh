@@ -92,7 +92,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia
 #### 海賊
 
   -
-    聲優：[安原義人](https://zh.wikipedia.org/wiki/安原義人 "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
+    聲優：[安原義人](../Page/安原義人.md "wikilink")（日本）；[符爽](../Page/符爽.md "wikilink")（台灣）
     「小鬍子海賊團」的船長，當然他的所有夥伴過去也全都成為莉莉的食物，現在則在祭典島的地底下挖了許多密道一個人偷偷生活（但他還有養一隻山羊），不斷的提醒魯夫對付男爵絕對不能大意。
   -
     聲優：[國本武春](https://zh.wikipedia.org/wiki/國本武春 "wikilink")（日本）；[孫中台](../Page/孫中台.md "wikilink")（台灣）
@@ -111,7 +111,7 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia
 
   - 原作：[尾田榮一郎](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")
   - 監督：[細田守](../Page/細田守.md "wikilink")
-  - 企劃：[梅澤淳稔](https://zh.wikipedia.org/wiki/梅澤淳稔 "wikilink")、[清水慎治](https://zh.wikipedia.org/wiki/清水慎治 "wikilink")
+  - 企劃：[梅澤淳稔](../Page/梅澤淳稔.md "wikilink")、[清水慎治](https://zh.wikipedia.org/wiki/清水慎治 "wikilink")
   - 脚本：伊藤正宏
   - 美術監督：串田達也・加藤浩
   - 人物設計・作畫監督：すしお、山下高明、[久保田誓](../Page/久保田誓.md "wikilink")

@@ -320,7 +320,7 @@ LASM-4166/67（Type D）</p></td>
 </tr>
 <tr class="odd">
 <td><p>16th</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/熱情CONTINUE" title="wikilink">情熱CONTINUE</a></strong></p></td>
+<td><p><strong><a href="../Page/熱情CONTINUE.md" title="wikilink">情熱CONTINUE</a></strong></p></td>
 <td><p>2015年2月11日</p></td>
 <td><p>LASM-34171</p></td>
 <td><p>LASM-4171</p></td>
@@ -356,7 +356,7 @@ LASM-34178/79（Type B）</p></td>
 </tr>
 <tr class="even">
 <td><p>20th</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Heart_to_Heart_(Sphere單曲)" title="wikilink">Heart to Heart</a></strong></p></td>
+<td><p><strong><a href="../Page/Heart_to_Heart_(Sphere單曲).md" title="wikilink">Heart to Heart</a></strong></p></td>
 <td><p>2017年11月8日</p></td>
 <td><p>LASM-34183/84</p></td>
 <td><p>LASM-4183</p></td>
@@ -594,7 +594,7 @@ LASM-34178/79（Type B）</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>Heart to Heart</strong></p></td>
-<td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/側車搭檔" title="wikilink">側車搭檔</a>》片頭曲</p></td>
+<td><p>電視動畫《<a href="../Page/側車搭檔.md" title="wikilink">側車搭檔</a>》片頭曲</p></td>
 <td><p>20th Single「Heart to Heart」</p></td>
 </tr>
 </tbody>

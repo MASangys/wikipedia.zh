@@ -297,7 +297,7 @@ Zwei](../Page/舞-乙HiME_Zwei.md "wikilink")》，本作的真正結局與所�
 
   - 企劃：日昇動畫
   - 原作：[矢立肇](https://zh.wikipedia.org/wiki/矢立肇 "wikilink")
-  - 監督：[小原正和](https://zh.wikipedia.org/wiki/小原正和 "wikilink")
+  - 監督：[小原正和](../Page/小原正和.md "wikilink")
   - 系列構成・編劇：[吉野弘幸](../Page/吉野弘幸.md "wikilink")
   - 角色設計：[久行宏和](https://zh.wikipedia.org/wiki/久行宏和 "wikilink")
   - 生物設計：[宮武一貴](https://zh.wikipedia.org/wiki/宮武一貴 "wikilink")、阿久津潤一
@@ -563,7 +563,7 @@ DVD各卷收錄的映像特典短篇動畫。全9話。
 <td><p>幻の劇場版『風華大戦 舞-HiME THE MOVIE』予告</p></td>
 <td><p>幻之劇場版「風華大戰 舞-HiME THE MOVIE」預告</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吉野弘幸_(脚本家)" title="wikilink">吉野弘幸</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/小原正和" title="wikilink">小原正和</a></p></td>
+<td><p><a href="../Page/小原正和.md" title="wikilink">小原正和</a></p></td>
 <td><p><a href="../Page/倉田綾子.md" title="wikilink">倉田綾子</a></p></td>
 <td></td>
 </tr>

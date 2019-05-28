@@ -35,8 +35,7 @@ Chi Lang）。
   -
 
       -
-        [1994](https://zh.wikipedia.org/wiki/1993–94年亞洲球會錦標賽 "wikilink"):
-        *外圍賽出局*
+        [1994](../Page/1993–94年亞洲球會錦標賽.md "wikilink"): *外圍賽出局*
 
 <!-- end list -->
 

@@ -543,7 +543,7 @@ Junior出演的影視作品列表](../Page/Super_Junior.md "wikilink")，包括�
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/OCN" title="wikilink">OCN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Voice" title="wikilink">Voice</a></p></td>
+<td><p><a href="../Page/Voice.md" title="wikilink">Voice</a></p></td>
 <td><p><a href="../Page/藝聲.md" title="wikilink">藝聲</a></p></td>
 <td><p>吳鉉浩</p></td>
 <td><p>配角</p></td>
@@ -552,7 +552,7 @@ Junior出演的影視作品列表](../Page/Super_Junior.md "wikilink")，包括�
 <tr class="even">
 <td><p>2017年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卞赫的愛情" title="wikilink">卞赫的愛情</a></p></td>
+<td><p><a href="../Page/卞赫的愛情.md" title="wikilink">卞赫的愛情</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a></p></td>
 <td><p>卞赫</p></td>
 <td><p>男主角</p></td>
@@ -596,7 +596,7 @@ Junior出演的影視作品列表](../Page/Super_Junior.md "wikilink")，包括�
 | 2015年1月15日  | 貓的葬禮                                                                            | [強仁](../Page/強仁.md "wikilink")                                                                         | 東勛       |       |
 | 2015年2月18日  | [天將雄獅](https://zh.wikipedia.org/wiki/天將雄獅 "wikilink")                           | [始源](https://zh.wikipedia.org/wiki/始源 "wikilink")                                                      | 殷破       | 配角    |
 | 2015年4月30日  | [赤道](../Page/赤道_\(電影\).md "wikilink")                                           | 朴宇哲                                                                                                    |          |       |
-| 2015年8月7日   | [破風](https://zh.wikipedia.org/wiki/破風_\(電影\) "wikilink")                        | 鄭知元                                                                                                    | 第二男主角    |       |
+| 2015年8月7日   | [破風](../Page/破風_\(電影\).md "wikilink")                                           | 鄭知元                                                                                                    | 第二男主角    |       |
 | 2015年7月     | 旅行是詩作*（微電影）*                                                                    | [利特](../Page/利特.md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")    | （沒有分類）   |       |
 | 2015年8月13日  | SMTown The Stage                                                                | 全部成員*（[晟敏](../Page/晟敏.md "wikilink")、[神童除外](../Page/神童_\(藝人\).md "wikilink")）*                         |          |       |
 | 2016年11月    | My Korean Teacher (いきなり先生になったボクが彼女に恋をした)                                        | [藝聲](../Page/藝聲.md "wikilink")                                                                         | ヨンウン(英雄) | 男主角   |
@@ -807,21 +807,21 @@ Junior參演MV列表](https://zh.wikipedia.org/wiki/Super_Junior參演MV列表 "
 <td><p>2017年10月9日﹣2017年11月17日</p></td>
 <td><p><a href="http://tv.naver.com/sjreturns">NAVER TV</a><br />
 <a href="http://channels.vlive.tv/D744FD">V LIVE</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SJ_returns" title="wikilink">SJ returns</a></p></td>
+<td><p><a href="../Page/SJ_returns.md" title="wikilink">SJ returns</a></p></td>
 <td><p>利特、希澈、藝聲、神童、銀赫、東海、始源</p></td>
 <td><p>60</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年1月26日﹣2018年4月13日</p></td>
 <td><p>XtvN、tvN</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SUPER_TV" title="wikilink">Super TV</a></p></td>
+<td><p><a href="../Page/SUPER_TV.md" title="wikilink">Super TV</a></p></td>
 <td><p>利特、希澈、藝聲、神童、銀赫、東海</p></td>
 <td><p>12</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年6月7日﹣2018年8月23日</p></td>
 <td><p>XtvN</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SUPER_TV" title="wikilink">Super TV 2</a></p></td>
+<td><p><a href="../Page/SUPER_TV.md" title="wikilink">Super TV 2</a></p></td>
 <td><p>利特、希澈、藝聲、神童、銀赫、東海、始源、厲旭</p></td>
 <td><p>12</p></td>
 </tr>
@@ -994,14 +994,14 @@ SMG頻道（中國）</p></td>
 <tr class="odd">
 <td><p>2018年7月1日－9月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大逃出" title="wikilink">大逃出</a></p></td>
+<td><p><a href="../Page/大逃出.md" title="wikilink">大逃出</a></p></td>
 <td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a></p></td>
 <td><p>13</p></td>
 </tr>
 <tr class="even">
 <td><p>2018年5月5日－6月9日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/WHYNOT_－_The_Dancer" title="wikilink">WHYNOT － The Dancer</a></p></td>
+<td><p><a href="../Page/WHYNOT_－_The_Dancer.md" title="wikilink">WHYNOT － The Dancer</a></p></td>
 <td><p><a href="../Page/銀赫.md" title="wikilink">銀赫</a></p></td>
 <td><p>6</p></td>
 </tr>
@@ -1015,7 +1015,7 @@ SMG頻道（中國）</p></td>
 <tr class="even">
 <td><p>2019年3月17日－至今</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大逃出" title="wikilink">大逃出</a></p></td>
+<td><p><a href="../Page/大逃出.md" title="wikilink">大逃出</a></p></td>
 <td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a></p></td>
 <td></td>
 </tr>
@@ -1927,7 +1927,7 @@ SMG頻道（中國）</p></td>
 <td><p>JTBC</p></td>
 <td><p><a href="../Page/認識的哥哥.md" title="wikilink">認識的哥哥</a></p></td>
 <td><p>希澈</p></td>
-<td><p><a href="../Page/姜鎬童.md" title="wikilink">姜鎬童</a>、<a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="https://zh.wikipedia.org/wiki/金永哲_(藝人)" title="wikilink">金永哲</a>、<a href="https://zh.wikipedia.org/wiki/徐章煇" title="wikilink">徐章煇</a>、<a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a>、<a href="../Page/閔庚勳.md" title="wikilink">閔庚勳</a></p></td>
+<td><p><a href="../Page/姜鎬童.md" title="wikilink">姜鎬童</a>、<a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="../Page/金永哲_(藝人).md" title="wikilink">金永哲</a>、<a href="../Page/徐章煇.md" title="wikilink">徐章煇</a>、<a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>、<a href="../Page/閔庚勳.md" title="wikilink">閔庚勳</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年12月19日</p></td>
@@ -1968,7 +1968,7 @@ SMG頻道（中國）</p></td>
 <td><p>2016年2月17日</p></td>
 <td></td>
 <td><p>第5届<a href="https://zh.wikipedia.org/wiki/Gaon_Chart_K-POP大奖" title="wikilink">Gaon Chart K-POP大奖</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Yura" title="wikilink">Yura</a></p></td>
+<td><p><a href="../Page/Yura.md" title="wikilink">Yura</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1983,7 +1983,7 @@ SMG頻道（中國）</p></td>
 <td></td>
 <td><p>SIA亚洲风尚大典</p></td>
 <td><p>利特</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Eric_Nam" title="wikilink">Eric Nam</a>、黄载根</p></td>
+<td><p><a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a>、黄载根</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年4月6日－9月28日</p></td>
@@ -2030,14 +2030,14 @@ SMG頻道（中國）</p></td>
 <tr class="odd">
 <td><p>2016年9月19日－2016年11月7日</p></td>
 <td><p>MBC Every1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Star_Show_360" title="wikilink">Star Show 360</a></p></td>
+<td><p><a href="../Page/Star_Show_360.md" title="wikilink">Star Show 360</a></p></td>
 <td><p>利特</p></td>
 <td><p>卓在勛</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年11月10日－2017年3月31日</p></td>
 <td><p><a href="../Page/Channel_A.md" title="wikilink">Channel A</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Singderella" title="wikilink">Singderella</a></p></td>
+<td><p><a href="../Page/Singderella.md" title="wikilink">Singderella</a></p></td>
 <td><p>希澈</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李秀根" title="wikilink">李秀根</a>、<a href="../Page/文熙俊.md" title="wikilink">文熙俊</a>、<a href="../Page/金泰宇.md" title="wikilink">金泰宇</a>、<a href="https://zh.wikipedia.org/wiki/崔成國" title="wikilink">崔成國</a>、<a href="../Page/姜成妍.md" title="wikilink">姜成妍</a>、<a href="https://zh.wikipedia.org/wiki/韓錫俊" title="wikilink">韓錫俊</a></p></td>
 </tr>
@@ -2051,14 +2051,14 @@ SMG頻道（中國）</p></td>
 <tr class="even">
 <td><p>2016年11月17日－2017年1月19日</p></td>
 <td><p>Comedy TV</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/好運RACE" title="wikilink">好運RACE</a></p></td>
+<td><p><a href="../Page/好運RACE.md" title="wikilink">好運RACE</a></p></td>
 <td><p>利特</p></td>
-<td><p><a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="https://zh.wikipedia.org/wiki/許景煥" title="wikilink">許景煥</a>、<a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a></p></td>
+<td><p><a href="../Page/張東民.md" title="wikilink">張東民</a>、<a href="https://zh.wikipedia.org/wiki/許景煥" title="wikilink">許景煥</a>、<a href="../Page/李尚敏.md" title="wikilink">李尚敏</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年12月1日－2017年6月1日</p></td>
 <td><p>On Style</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Lipstick_Prince" title="wikilink">Lipstick Prince</a></p></td>
+<td><p><a href="../Page/Lipstick_Prince.md" title="wikilink">Lipstick Prince</a></p></td>
 <td><p>希澈</p></td>
 <td></td>
 </tr>
@@ -2072,7 +2072,7 @@ SMG頻道（中國）</p></td>
 <tr class="odd">
 <td><p>2016年12月19日－2018年1月18日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Game_show遊戲樂樂" title="wikilink">Game show遊戲樂樂</a></p></td>
+<td><p><a href="../Page/Game_show遊戲樂樂.md" title="wikilink">Game show遊戲樂樂</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2114,7 +2114,7 @@ SMG頻道（中國）</p></td>
 <tr class="odd">
 <td><p>2017年3月16日－2017年3月23日</p></td>
 <td><p>KBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/自豪房的客人" title="wikilink">自豪房的客人</a></p></td>
+<td><p><a href="../Page/自豪房的客人.md" title="wikilink">自豪房的客人</a></p></td>
 <td><p>希澈</p></td>
 <td><p><a href="../Page/朴明洙.md" title="wikilink">朴明洙</a></p></td>
 </tr>
@@ -2135,14 +2135,14 @@ SMG頻道（中國）</p></td>
 <tr class="even">
 <td><p>2017年6月6日－9月5日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KBS2" title="wikilink">KBS2</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鍋墊" title="wikilink">鍋墊</a></p></td>
+<td><p><a href="../Page/鍋墊.md" title="wikilink">鍋墊</a></p></td>
 <td><p>李敬揆、安在旭、柳熙烈</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年7月3日－7月8日</p></td>
 <td><p>MBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夏洛克的房間" title="wikilink">夏洛克的房間</a></p></td>
+<td><p><a href="../Page/夏洛克的房間.md" title="wikilink">夏洛克的房間</a></p></td>
 <td><p>利特</p></td>
 <td><p><a href="../Page/鄭亨敦.md" title="wikilink">鄭亨敦</a>、趙友鐘、<a href="https://zh.wikipedia.org/wiki/申智珉" title="wikilink">申智珉</a>、DinDin</p></td>
 </tr>
@@ -2163,14 +2163,14 @@ SMG頻道（中國）</p></td>
 <tr class="even">
 <td><p>2017年8月21日－9月11日</p></td>
 <td><p>MBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/哥哥的想法" title="wikilink">哥哥的想法</a></p></td>
+<td><p><a href="../Page/哥哥的想法.md" title="wikilink">哥哥的想法</a></p></td>
 <td><p>银赫</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李尚敏" title="wikilink">李尚敏</a>、、<a href="https://zh.wikipedia.org/wiki/俞世潤" title="wikilink">俞世潤</a>、<a href="https://zh.wikipedia.org/wiki/許景煥" title="wikilink">許景煥</a>、、<a href="../Page/李奎翰.md" title="wikilink">李奎翰</a></p></td>
+<td><p><a href="../Page/李尚敏.md" title="wikilink">李尚敏</a>、、<a href="../Page/俞世潤.md" title="wikilink">俞世潤</a>、<a href="https://zh.wikipedia.org/wiki/許景煥" title="wikilink">許景煥</a>、、<a href="../Page/李奎翰.md" title="wikilink">李奎翰</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年10月2日－2018年1月12日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/理論上完美的男人" title="wikilink">理論上完美的男人</a></p></td>
+<td><p><a href="../Page/理論上完美的男人.md" title="wikilink">理論上完美的男人</a></p></td>
 <td><p>希澈</p></td>
 <td><p><a href="../Page/申東燁.md" title="wikilink">申東燁</a></p></td>
 </tr>
@@ -2184,14 +2184,14 @@ SMG頻道（中國）</p></td>
 <tr class="odd">
 <td><p>2017年10月14日－2018年1月27日</p></td>
 <td><p>E channel</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我女兒的男人們：爸爸正在看" title="wikilink">我女兒的男人們：爸爸正在看</a>（第二季）</p></td>
+<td><p><a href="../Page/我女兒的男人們：爸爸正在看.md" title="wikilink">我女兒的男人們：爸爸正在看</a>（第二季）</p></td>
 <td><p>希澈</p></td>
 <td><p><a href="../Page/申鉉濬.md" title="wikilink">申鉉濬</a>、<a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="https://zh.wikipedia.org/wiki/素珍" title="wikilink">素珍</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2017年10月31日－2018年1月2</p></td>
 <td><p>FashionN</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拜託了梳妝台" title="wikilink">拜託了梳妝台</a>（第三季）</p></td>
+<td><p><a href="../Page/拜託了梳妝台.md" title="wikilink">拜託了梳妝台</a>（第三季）</p></td>
 <td><p>利特</p></td>
 <td><p><a href="../Page/韓彩英.md" title="wikilink">韓彩英</a>、<a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a></p></td>
 </tr>
@@ -2219,21 +2219,21 @@ SMG頻道（中國）</p></td>
 <tr class="even">
 <td><p>2018年4月15日－2018年7月15日</p></td>
 <td><p>E channel</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我女兒的男人們：爸爸正在看" title="wikilink">我女兒的男人們：爸爸正在看</a>（第三季）</p></td>
+<td><p><a href="../Page/我女兒的男人們：爸爸正在看.md" title="wikilink">我女兒的男人們：爸爸正在看</a>（第三季）</p></td>
 <td><p>希澈</p></td>
 <td><p><a href="../Page/申鉉濬.md" title="wikilink">申鉉濬</a>、<a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="https://zh.wikipedia.org/wiki/素珍" title="wikilink">素珍</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年7月15日－2018年8月28日</p></td>
 <td><p><a href="../Page/TV朝鮮.md" title="wikilink">TV朝鮮</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/窮遊去哪裡" title="wikilink">窮遊去哪裡</a></p></td>
+<td><p><a href="../Page/窮遊去哪裡.md" title="wikilink">窮遊去哪裡</a></p></td>
 <td><p>金永哲、盧弘喆</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年8月20日－至今</p></td>
 <td><p>MBC</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/現實男女" title="wikilink">現實男女</a>（第二季）</p></td>
+<td><p><a href="../Page/現實男女.md" title="wikilink">現實男女</a>（第二季）</p></td>
 <td><p>利特</p></td>
 <td><p>尹正秀、梁世炯、徐恩光、韓銀貞、張度妍、Sunny、金請夏</p></td>
 </tr>
@@ -2247,7 +2247,7 @@ SMG頻道（中國）</p></td>
 <tr class="even">
 <td><p>2018年10月14日－至今</p></td>
 <td><p>E channel</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/我女兒的男人們：爸爸正在看" title="wikilink">我女兒的男人們：爸爸正在看</a>（第四季）</p></td>
+<td><p><a href="../Page/我女兒的男人們：爸爸正在看.md" title="wikilink">我女兒的男人們：爸爸正在看</a>（第四季）</p></td>
 <td><p>希澈</p></td>
 <td><p><a href="../Page/申鉉濬.md" title="wikilink">申鉉濬</a>、<a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="https://zh.wikipedia.org/wiki/素珍" title="wikilink">素珍</a></p></td>
 </tr>

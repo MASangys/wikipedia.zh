@@ -57,7 +57,7 @@ Pucará攻击机在kent山脈附近被同樣是由SAS士兵所發射的導彈擊
 <thead>
 <tr class="header">
 <th></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/9K34便攜式防空飛彈" title="wikilink">9K34 Strela-3</a>（蘇聯）</p></th>
+<th><p><a href="../Page/9K34便攜式防空飛彈.md" title="wikilink">9K34 Strela-3</a>（蘇聯）</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/9K38_Igla防空飛彈" title="wikilink">9K38 Igla</a>（蘇聯）</p></th>
 <th><p>9K310 Igla-1（蘇聯）</p></th>
 <th><p><strong>FIM-92刺針飛彈</strong></p></th>
@@ -257,7 +257,7 @@ Pucará攻击机在kent山脈附近被同樣是由SAS士兵所發射的導彈擊
   -
   - ：已經停止採購，現用[91式便攜地對空導彈](../Page/91式便攜地對空導彈.md "wikilink")。
 
-  - ：已經停止採購，現用[西北風和](../Page/西北風便攜式防空飛彈.md "wikilink")[神弓便攜式防空飛彈系統](https://zh.wikipedia.org/wiki/神弓便攜式防空飛彈 "wikilink")。
+  - ：已經停止採購，現用[西北風和](../Page/西北風便攜式防空飛彈.md "wikilink")[神弓便攜式防空飛彈系統](../Page/神弓便攜式防空飛彈.md "wikilink")。
 
   -
   -
@@ -296,7 +296,7 @@ Pucará攻击机在kent山脈附近被同樣是由SAS士兵所發射的導彈擊
   - [FIM-43紅眼便攜式防空飛彈](../Page/FIM-43紅眼便攜式防空飛彈.md "wikilink")
   - [AN/ALE-47反制灑佈器](https://zh.wikipedia.org/wiki/AN/ALE-47反制灑佈器 "wikilink")
   - [9K32（SA-7）](../Page/9K32便携式防空导弹.md "wikilink")
-  - [9K34（SA-14）](https://zh.wikipedia.org/wiki/9K34便攜式防空飛彈 "wikilink")
+  - [9K34（SA-14）](../Page/9K34便攜式防空飛彈.md "wikilink")
   - [SA-18](../Page/SA-18防空飛彈.md "wikilink")
   - [FN-6](../Page/红缨-6便携式防空导弹.md "wikilink")
   - [91式便攜地對空導彈](../Page/91式便攜地對空導彈.md "wikilink")

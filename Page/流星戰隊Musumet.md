@@ -69,14 +69,14 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
   - 監督：[木宮茂](https://zh.wikipedia.org/wiki/木宮茂 "wikilink")
   - 人物原案：[長谷川光司](https://zh.wikipedia.org/wiki/長谷川光司 "wikilink")
   - 人物設定、總作畫監督：[原將治](https://zh.wikipedia.org/wiki/原將治 "wikilink")
-  - 系列構成：[瀧晃一](https://zh.wikipedia.org/wiki/瀧晃一 "wikilink")
+  - 系列構成：[瀧晃一](../Page/瀧晃一.md "wikilink")
   - 機械設定：[宮豐](https://zh.wikipedia.org/wiki/宮豐 "wikilink")
   - 美術監督：[森元茂](https://zh.wikipedia.org/wiki/森元茂 "wikilink")
   - 彩色設計：植木義則
   - 撮影監督：久保博志
   - 音響監督：[高橋秀雄](https://zh.wikipedia.org/wiki/高橋秀雄 "wikilink")
   - 執行製作人：[加藤長輝](https://zh.wikipedia.org/wiki/加藤長輝 "wikilink")
-  - 動畫製作：[TNK](https://zh.wikipedia.org/wiki/TNK "wikilink")
+  - 動畫製作：[TNK](../Page/TNK.md "wikilink")
   - 製作：「Musumet」製作委員會（[TWOMAX](https://zh.wikipedia.org/wiki/TWOMAX "wikilink")、Prime
     Direction、[Ponycanyon](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、Ponycanyon
     Enterprise）
@@ -180,7 +180,7 @@ Finalizer」開發完成後，Musumet也獲得了凌駕Otomet的戰鬥力，而�
 <td></td>
 <td><p>瀧晃一</p></td>
 <td><p>藤原良二</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/福本潔" title="wikilink">福本潔</a></p></td>
+<td><p><a href="../Page/福本潔.md" title="wikilink">福本潔</a></p></td>
 <td><p>吉田潤</p></td>
 </tr>
 <tr class="odd">

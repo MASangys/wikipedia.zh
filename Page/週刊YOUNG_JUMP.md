@@ -32,8 +32,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 
   - （2012年32号 - 2013年47号）
 
-  - [中村泰造](https://zh.wikipedia.org/wiki/中村泰造 "wikilink")（2013年48号 -
-    2014年）
+  - [中村泰造](../Page/中村泰造.md "wikilink")（2013年48号 - 2014年）
 
   - 嶋智之（2014年 - 現職）
 
@@ -88,15 +87,15 @@ JUMP（）](http://tonarinoyj.jp/)。
 <tr class="odd">
 <td><p><a href="../Page/火星異種.md" title="wikilink">火星異種</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/橘賢一" title="wikilink">橘賢一</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/貴家悠" title="wikilink">貴家悠</a></p></td>
+<td><p><a href="../Page/橘賢一.md" title="wikilink">橘賢一</a></p></td>
+<td><p><a href="../Page/貴家悠.md" title="wikilink">貴家悠</a></p></td>
 <td><p>2012年22、23合併號</p></td>
 <td><p>目前休載中</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/黃金神威.md" title="wikilink">黃金神威</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/野田智" title="wikilink">野田智</a></p></td>
+<td><p><a href="../Page/野田智.md" title="wikilink">野田智</a></p></td>
 <td><p>－</p></td>
 <td><p>2014年38號</p></td>
 <td></td>
@@ -118,7 +117,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/輝夜姬想讓人告白~天才們的戀愛頭腦戰~" title="wikilink">輝夜姬想讓人告白~天才們的戀愛頭腦戰~</a></p></td>
+<td><p><a href="../Page/輝夜姬想讓人告白~天才們的戀愛頭腦戰~.md" title="wikilink">輝夜姬想讓人告白~天才們的戀愛頭腦戰~</a></p></td>
 <td></td>
 <td><p><a href="../Page/赤坂明.md" title="wikilink">赤坂明</a></p></td>
 <td><p>－</p></td>
@@ -182,7 +181,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/輝夜姬想讓人告白~天才們的戀愛頭腦戰~" title="wikilink">輝夜姬有話要說</a></p></td>
+<td><p><a href="../Page/輝夜姬想讓人告白~天才們的戀愛頭腦戰~.md" title="wikilink">輝夜姬有話要說</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/赤坂明.md" title="wikilink">赤坂明</a></p></td>
@@ -240,7 +239,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/女僕小姐們有點小交流障礙" title="wikilink">女僕小姐們有點小交流障礙</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/三角頭_(漫畫家)" title="wikilink">三角頭</a></p></td>
+<td><p><a href="../Page/三角頭_(漫畫家).md" title="wikilink">三角頭</a></p></td>
 <td><p>－</p></td>
 <td><p>2018年49號</p></td>
 <td></td>
@@ -358,7 +357,7 @@ YOUNG JUMP網絡上連載的漫畫。
 ### 連載作品
 
   - [一拳超人](https://zh.wikipedia.org/wiki/一拳超人 "wikilink")
-  - [站起來吧！半獸人先生](https://zh.wikipedia.org/wiki/站起來吧！半獸人先生 "wikilink")
+  - [站起來吧！半獸人先生](../Page/站起來吧！半獸人先生.md "wikilink")
 
 ## 关联项目
 

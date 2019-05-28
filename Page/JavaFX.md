@@ -18,7 +18,7 @@ JavaFX期望能够在桌面应用的开发领域与Adobe公司的AIR、[OpenLasz
   - [Microsoft
     Silverlight](https://zh.wikipedia.org/wiki/Microsoft_Silverlight "wikilink")
   - [Rebol编程语言作为Java虚拟机的替代](https://zh.wikipedia.org/wiki/Rebol "wikilink")
-  - 来自[Mozilla基金会的](https://zh.wikipedia.org/wiki/Mozilla基金会 "wikilink")[XUL和](../Page/XUL.md "wikilink")[XULRunner](https://zh.wikipedia.org/wiki/XULRunner "wikilink")
+  - 来自[Mozilla基金会的](https://zh.wikipedia.org/wiki/Mozilla基金会 "wikilink")[XUL和](../Page/XUL.md "wikilink")[XULRunner](../Page/XULRunner.md "wikilink")
   - [JavaFX
     mobile](https://zh.wikipedia.org/wiki/JavaFX_mobile "wikilink")
 

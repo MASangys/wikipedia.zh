@@ -91,7 +91,7 @@
 
   - [帝牙盧卡](https://zh.wikipedia.org/wiki/帝牙盧卡 "wikilink")
   - [帕路奇犽](https://zh.wikipedia.org/wiki/帕路奇犽 "wikilink")
-  - [達克萊伊](https://zh.wikipedia.org/wiki/達克萊伊 "wikilink")（日本：[石坂浩二](https://zh.wikipedia.org/wiki/石坂浩二 "wikilink")；香港：[葉振聲](../Page/葉振聲.md "wikilink")）
+  - [達克萊伊](https://zh.wikipedia.org/wiki/達克萊伊 "wikilink")（日本：[石坂浩二](../Page/石坂浩二.md "wikilink")；香港：[葉振聲](../Page/葉振聲.md "wikilink")）
       - 幾年前被艾莉絲奶奶打開心防，因此定居於白楊鎮庭園。其讓人做惡夢的特性令居民不敢接近，一直被居民嫌棄，但是達克萊伊很少在人前現身。最先發現兩大神奇寶貝將現身白楊鎮，想盡辦法阻止，結果在阻擋攻擊時肉體灰飛湮滅，之後小智和小光利用時空之塔演奏奧拉席翁停止攻擊、並說服帕路奇犽後危機得以解除。但是小智等人卻為了達克萊伊犧牲性命的事悲傷不已，本來是帶著眼淚默默離去，然而皮卡丘看到時空之塔上有一道站立的影子，小智等人這才知道－原來達克萊伊沒死。
 
 ## 主題曲

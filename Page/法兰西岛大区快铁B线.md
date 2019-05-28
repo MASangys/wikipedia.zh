@@ -93,7 +93,7 @@ parisienne) 合并，成立巴黎大众运输公司。大众运输公司当时�
 1973年, 国玺线的北延段 (即快铁中心路网) 开始修建. 这项工程包括一个长达2.6公里的, 穿越巴黎中心城区的双洞河底隧道,
 隧道坡度很大, 迫使工程人员降低施工路基的水平面, 卢森堡车站也为此于1974年进行了相应的改造,
 将站台高度降低50厘米,
-列车的终点站也临时改到南边临近的[皇港站](https://zh.wikipedia.org/wiki/皇港站 "wikilink")
+列车的终点站也临时改到南边临近的[皇港站](../Page/皇港站.md "wikilink")
 (Port-Royal), 卢森堡站改造完后, 列车终点站重新移回彼处, 不过仅仅使用东边路轨, 西边路轨被木质覆盖,
 呈[西班牙式月台布局](https://zh.wikipedia.org/wiki/西班牙式月台布局 "wikilink").
 工程耗时4年, 至1977年12月9日完工, 东西快铁线也同时通车,
@@ -137,7 +137,7 @@ B线自1937年使用的4位数字班次编码被4位字母班次编码所替代.
 线路互通时必须更换司机, 这种互通模式一直保持到2009年.
 
 1988年2月17日, 经过6年的施工, 耗资4.1亿法郎的,
-位于夏特雷-大堂和卢森堡之间的车站--[圣米歇尔-巴黎圣母院站](https://zh.wikipedia.org/wiki/圣米歇尔-巴黎圣母院站 "wikilink")
+位于夏特雷-大堂和卢森堡之间的车站--[圣米歇尔-巴黎圣母院站](../Page/圣米歇尔-巴黎圣母院站.md "wikilink")
 (Saint-Michel - Notre-Dame) 启用,
 便于乘客快速转乘[地铁10号线和](https://zh.wikipedia.org/wiki/巴黎地铁10号线 "wikilink")[RER
 C线](https://zh.wikipedia.org/wiki/大区快铁C线 "wikilink")。其实, 1970年代延长国玺线时,
@@ -150,8 +150,7 @@ C线](https://zh.wikipedia.org/wiki/大区快铁C线 "wikilink")。其实, 1970�
 [Gare_Aéroport_Charles-de-Gaulle_2_TGV.jpg](https://zh.wikipedia.org/wiki/File:Gare_Aéroport_Charles-de-Gaulle_2_TGV.jpg "fig:Gare_Aéroport_Charles-de-Gaulle_2_TGV.jpg")
 
 1991年10月2日, [奥利机场内线](https://zh.wikipedia.org/wiki/奥利机场内线 "wikilink")
-(Orlyval) 启用，连接[安东尼站](https://zh.wikipedia.org/wiki/安东尼站 "wikilink")
-(Antony)
+(Orlyval) 启用，连接[安东尼站](../Page/安东尼站.md "wikilink") (Antony)
 与[奥利机场之间](https://zh.wikipedia.org/wiki/巴黎－奥利机场 "wikilink")8公里的路段,
 这样乘客可以直接乘坐轨道交通来往巴黎两大机场.
 
@@ -182,7 +181,7 @@ C线](https://zh.wikipedia.org/wiki/大区快铁C线 "wikilink")。其实, 1970�
 便于故障时列车可以从反向路轨前进. 相应的, 当年12月15日,
 列车时刻表再次得到修改以应对旅客要求, 包括低峰期列车增停法兰西体育场车站,
 延长高峰时段, 优化皇后镇和巴黎市区之间路段的高峰列车停靠方式, 使之客流量分布更均匀, 运作更科学,
-往返丹佛站的列车被南延到[拉普拉斯站](https://zh.wikipedia.org/wiki/拉普拉斯站 "wikilink"),
+往返丹佛站的列车被南延到[拉普拉斯站](../Page/拉普拉斯站.md "wikilink"),
 增强运营的经济性, 而拉普拉斯站的Z轨道亦可供直达车在异常情况下超越慢车.
 
 2003年10月1日, STIF通过了北部SNCF路段进行现代化改造的计划, 预计耗资1.57亿欧元, 包括增高月台, 新建残障人士设施,
@@ -253,7 +252,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/会展公园站" title="wikilink">会展公园</a><br />
+<td><p><a href="../Page/会展公园站.md" title="wikilink">会展公园</a><br />
 <small>Parc des Expositions</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/维勒班特" title="wikilink">维勒班特</a></p></td>
@@ -265,7 +264,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/维勒班特站" title="wikilink">维勒班特</a><br />
+<td><p><a href="../Page/维勒班特站.md" title="wikilink">维勒班特</a><br />
 <small>Villepinte</small></p></td>
 <td><p>4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/维勒班特" title="wikilink">维勒班特</a></p></td>
@@ -277,7 +276,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塞夫朗博多特站" title="wikilink">塞夫朗博多特</a><br />
+<td><p><a href="../Page/塞夫朗博多特站.md" title="wikilink">塞夫朗博多特</a><br />
 <small>Sevran — Beaudottes</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/塞夫朗" title="wikilink">塞夫朗</a></p></td>
@@ -291,7 +290,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p><font color="#537cb9"><small><strong>B5</strong></small></font></p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/米提-克莱站" title="wikilink">米提-克莱</a><br />
+<td><p><strong><a href="../Page/米提-克莱站.md" title="wikilink">米提-克莱</a><br />
 <small>Mitry — Claye</small></strong></p></td>
 <td><p>5</p></td>
 <td><p><br />
@@ -305,10 +304,10 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴黎西城新米提站" title="wikilink">巴黎西城新米提</a><br />
+<td><p><a href="../Page/巴黎西城新米提站.md" title="wikilink">巴黎西城新米提</a><br />
 <small>Villeparisis — Mitry-le-Neuf</small></p></td>
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/米提-克莱站" title="wikilink">米提-克莱站</a></p></td>
+<td><p><a href="../Page/米提-克莱站.md" title="wikilink">米提-克莱站</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -317,7 +316,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/青雅站" title="wikilink">青雅</a><br />
+<td><p><a href="../Page/青雅站.md" title="wikilink">青雅</a><br />
 <small>Vert-Galant</small></p></td>
 <td><p>4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/维勒班特" title="wikilink">维勒班特</a><br />
@@ -330,7 +329,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/塞夫朗利夫里站" title="wikilink">塞夫朗利夫里</a><br />
+<td><p><a href="../Page/塞夫朗利夫里站.md" title="wikilink">塞夫朗利夫里</a><br />
 <small>Sevran — Livry</small></p></td>
 <td><p>4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/塞夫朗" title="wikilink">塞夫朗</a></p></td>
@@ -342,7 +341,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/欧奈丛林站" title="wikilink">欧奈丛林</a><br />
+<td><p><a href="../Page/欧奈丛林站.md" title="wikilink">欧奈丛林</a><br />
 <small>Aulnay-sous-Bois</small></p></td>
 <td><p>4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/欧奈丛林" title="wikilink">欧奈丛林</a></p></td>
@@ -353,7 +352,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/布朗梅尼尔站" title="wikilink">布朗梅尼尔</a><br />
+<td><p><a href="../Page/布朗梅尼尔站.md" title="wikilink">布朗梅尼尔</a><br />
 <small>Le Blanc-Mesnil</small></p></td>
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/布朗梅尼尔" title="wikilink">布朗梅尼尔</a></p></td>
@@ -365,7 +364,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德朗西站" title="wikilink">德朗西</a><br />
+<td><p><a href="../Page/德朗西站.md" title="wikilink">德朗西</a><br />
 <small>Drancy</small></p></td>
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/德朗西" title="wikilink">德朗西</a></p></td>
@@ -377,7 +376,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/勒布尔热站" title="wikilink">勒布尔热</a><br />
+<td><p><a href="../Page/勒布尔热站.md" title="wikilink">勒布尔热</a><br />
 <small>Le Bourget</small></p></td>
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/勒布尔热" title="wikilink">勒布尔热</a></p></td>
@@ -389,7 +388,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新庭奥贝维埃站" title="wikilink">新庭奥贝维埃</a><br />
+<td><p><a href="../Page/新庭奥贝维埃站.md" title="wikilink">新庭奥贝维埃</a><br />
 <small>La Courneuve — Aubervilliers</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新庭" title="wikilink">新庭</a><br />
@@ -402,7 +401,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/平原-法兰西体育场站" title="wikilink">平原-法兰西体育场</a><br />
+<td><p><a href="../Page/平原-法兰西体育场站.md" title="wikilink">平原-法兰西体育场</a><br />
 <small>La Plaine - Stade de France</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/圣德尼" title="wikilink">圣德尼</a></p></td>
@@ -443,7 +442,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/圣米歇尔-巴黎圣母院站" title="wikilink">圣米歇尔-巴黎圣母院</a><br />
+<td><p><a href="../Page/圣米歇尔-巴黎圣母院站.md" title="wikilink">圣米歇尔-巴黎圣母院</a><br />
 <small>Saint-Michel — Notre-Dame</small></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/巴黎第四区.md" title="wikilink">巴黎第四区</a><br />
@@ -458,7 +457,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卢森堡站" title="wikilink">卢森堡</a><br />
+<td><p><a href="../Page/卢森堡站.md" title="wikilink">卢森堡</a><br />
 <small>Luxembourg</small></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/巴黎第五区.md" title="wikilink">巴黎第五区</a><br />
@@ -471,7 +470,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/皇港站" title="wikilink">皇港</a><br />
+<td><p><a href="../Page/皇港站.md" title="wikilink">皇港</a><br />
 <small>Port-Royal</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/巴黎第五区.md" title="wikilink">巴黎第五区</a><br />
@@ -484,7 +483,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/登费尔罗什洛站" title="wikilink">登费尔罗什洛</a><br />
+<td><p><a href="../Page/登费尔罗什洛站.md" title="wikilink">登费尔罗什洛</a><br />
 <small>Denfert-Rochereau</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/巴黎十四区.md" title="wikilink">巴黎十四区</a></p></td>
@@ -496,7 +495,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大学城站_(大区快铁)" title="wikilink">大学城</a><br />
+<td><p><a href="../Page/大学城站_(大区快铁).md" title="wikilink">大学城</a><br />
 <small>Cité Universitaire</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>1</p></td>
 <td><p><a href="../Page/巴黎十四区.md" title="wikilink">巴黎十四区</a></p></td>
@@ -508,7 +507,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/让蒂伊站" title="wikilink">让蒂伊</a><br />
+<td><p><a href="../Page/让蒂伊站.md" title="wikilink">让蒂伊</a><br />
 <small>Gentilly</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>2</p></td>
 <td><p><a href="../Page/让蒂伊.md" title="wikilink">让蒂伊</a></p></td>
@@ -520,7 +519,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拉普拉斯站" title="wikilink">拉普拉斯</a><br />
+<td><p><a href="../Page/拉普拉斯站.md" title="wikilink">拉普拉斯</a><br />
 <small>Laplace</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/亚捷" title="wikilink">亚捷</a></p></td>
@@ -532,7 +531,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亚捷卡尚站" title="wikilink">亚捷卡尚</a><br />
+<td><p><a href="../Page/亚捷卡尚站.md" title="wikilink">亚捷卡尚</a><br />
 <small>Arcueil — Cachan</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/亚捷" title="wikilink">亚捷</a><br />
@@ -545,7 +544,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴纽站" title="wikilink">巴纽</a><br />
+<td><p><a href="../Page/巴纽站.md" title="wikilink">巴纽</a><br />
 <small>Bagneux</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/巴纽" title="wikilink">巴纽</a><br />
@@ -560,7 +559,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/皇后镇站" title="wikilink">皇后镇</a><br />
+<td><p><a href="../Page/皇后镇站.md" title="wikilink">皇后镇</a><br />
 <small>Bourg-la-Reine</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/皇后镇" title="wikilink">皇后镇</a></p></td>
@@ -572,7 +571,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/国玺站" title="wikilink">国玺</a><br />
+<td><p><a href="../Page/国玺站.md" title="wikilink">国玺</a><br />
 <small>Sceaux</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/国玺" title="wikilink">国玺</a></p></td>
@@ -584,7 +583,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/丰特奈玫瑰站" title="wikilink">丰特奈玫瑰</a><br />
+<td><p><a href="../Page/丰特奈玫瑰站.md" title="wikilink">丰特奈玫瑰</a><br />
 <small>Fontenay-aux-Roses</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/丰特奈玫瑰" title="wikilink">丰特奈玫瑰</a></p></td>
@@ -596,7 +595,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p> </p></td>
 <td><p> </p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/罗班松站" title="wikilink">罗班松</a><br />
+<td><p><strong><a href="../Page/罗班松站.md" title="wikilink">罗班松</a><br />
 <small>Robinson</small></strong></p></td>
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/国玺" title="wikilink">国玺</a><br />
@@ -621,7 +620,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/贝尼十字路站" title="wikilink">贝尼十字路</a><br />
+<td><p><a href="../Page/贝尼十字路站.md" title="wikilink">贝尼十字路</a><br />
 <small>La Croix de Berny</small></p></td>
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安东尼" title="wikilink">安东尼</a></p></td>
@@ -633,7 +632,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安东尼站" title="wikilink">安东尼</a><br />
+<td><p><a href="../Page/安东尼站.md" title="wikilink">安东尼</a><br />
 <small>Antony</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安东尼" title="wikilink">安东尼</a></p></td>
@@ -645,7 +644,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/米沙隆喷泉站" title="wikilink">米沙隆喷泉</a><br />
+<td><p><a href="../Page/米沙隆喷泉站.md" title="wikilink">米沙隆喷泉</a><br />
 <small>Fontaine Michalon</small></p></td>
 <td><p>4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安东尼" title="wikilink">安东尼</a></p></td>
@@ -657,7 +656,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴克涅站" title="wikilink">巴克涅</a><br />
+<td><p><a href="../Page/巴克涅站.md" title="wikilink">巴克涅</a><br />
 <small>Les Baconnets</small></p></td>
 <td><p>4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安东尼" title="wikilink">安东尼</a></p></td>
@@ -682,7 +681,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/马西-帕莱索站" title="wikilink">马西-帕莱索站</a><br />
+<td><p><a href="../Page/马西-帕莱索站.md" title="wikilink">马西-帕莱索站</a><br />
 <small>Massy — Palaiseau</small></p></td>
 <td><p>4</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/马西" title="wikilink">马西</a><br />
@@ -721,7 +720,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛泽尔站" title="wikilink">洛泽尔</a><br />
+<td><p><a href="../Page/洛泽尔站.md" title="wikilink">洛泽尔</a><br />
 <small>Lozère</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>4</p></td>
 <td><p><a href="../Page/帕莱索.md" title="wikilink">帕莱索</a></p></td>
@@ -733,7 +732,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/基捷站" title="wikilink">基捷</a><br />
+<td><p><a href="../Page/基捷站.md" title="wikilink">基捷</a><br />
 <small>Le Guichet</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奥赛" title="wikilink">奥赛</a></p></td>
@@ -757,7 +756,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/比尔伊维特站" title="wikilink">比尔伊维特</a><br />
+<td><p><a href="../Page/比尔伊维特站.md" title="wikilink">比尔伊维特</a><br />
 <small>Bures-sur-Yvette</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/比尔伊维特" title="wikilink">比尔伊维特</a></p></td>
@@ -769,7 +768,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/拉基尼耶站" title="wikilink">拉基尼耶</a><br />
+<td><p><a href="../Page/拉基尼耶站.md" title="wikilink">拉基尼耶</a><br />
 <small>La Hacquinière</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/比尔伊维特" title="wikilink">比尔伊维特</a><br />
@@ -782,7 +781,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吉夫伊维特站" title="wikilink">吉夫伊维特</a><br />
+<td><p><a href="../Page/吉夫伊维特站.md" title="wikilink">吉夫伊维特</a><br />
 <small>Gif-sur-Yvette</small></p></td>
 <td><p>5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吉夫伊维特" title="wikilink">吉夫伊维特</a><br />
@@ -795,7 +794,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 <td><p> </p></td>
 <td><p><span style="color: white; font-size: x-large;">·</span></p></td>
 <td><p> </p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/古赛尔伊维特站" title="wikilink">古赛尔伊维特</a><br />
+<td><p><a href="../Page/古赛尔伊维特站.md" title="wikilink">古赛尔伊维特</a><br />
 <small>Courcelle-sur-Yvette</small> <a href="https://zh.wikipedia.org/wiki/File:Feature_accessible.svg" title="fig:Feature_accessible.svg">Feature_accessible.svg</a></p></td>
 <td><p>5</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吉夫伊维特" title="wikilink">吉夫伊维特</a></p></td>
@@ -822,7 +821,7 @@ B线经停[巴黎北站时不再更换司机](../Page/巴黎北站.md "wikilink"
 
 [巴黎北站系](../Page/巴黎北站.md "wikilink")1983年南北开始互通之前的RATP北部终点, 当时叫做B1分支,
 不过随着南北互通, 该叫法已不常见.
-另外SNCF路段亦有车站标示[马西-帕莱索站为B](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")6分支,
+另外SNCF路段亦有车站标示[马西-帕莱索站为B](../Page/马西-帕莱索站.md "wikilink")6分支,
 不过RATP官方并不采用这种标示.
 
 ## 列车与时速
@@ -885,7 +884,7 @@ visuelles embarqué, 但没有配备指示灯, 仅有广播设备), 以方便乘
 
 <!-- end list -->
 
-  - 列车到达[安东尼站时会用法语](https://zh.wikipedia.org/wiki/安东尼站 "wikilink")、
+  - 列车到达[安东尼站时会用法语](../Page/安东尼站.md "wikilink")、
     英语、西班牙语先后提醒前往[奥利机场的乘客换乘](https://zh.wikipedia.org/wiki/巴黎－奥利机场 "wikilink")
     "前往奥利机场的乘客请在此换乘\!"
       - （法语）Correspondence pour l'Aéroport d'Orly \!
@@ -906,7 +905,7 @@ visuelles embarqué, 但没有配备指示灯, 仅有广播设备), 以方便乘
 
 <!-- end list -->
 
-  - 列车从始发站[戴高乐机场二号航站楼开近](https://zh.wikipedia.org/wiki/戴高乐机场二号航站楼 "wikilink")[戴高乐机场1号航站楼站时会用法语](https://zh.wikipedia.org/wiki/戴高乐机场1号航站楼站 "wikilink")、英语、西班牙语广播提示乘客"戴高乐机场一号和三号航站楼到了。请带好您的随身物品"
+  - 列车从始发站[戴高乐机场二号航站楼开近](https://zh.wikipedia.org/wiki/戴高乐机场二号航站楼 "wikilink")[戴高乐机场1号航站楼站时会用法语](../Page/戴高乐机场1号航站楼站.md "wikilink")、英语、西班牙语广播提示乘客"戴高乐机场一号和三号航站楼到了。请带好您的随身物品"
       - （法语，两遍）Aéroport Charles de Gaulle 1, terminaux 1 et 3.
       - （英语）Alight here for terminals 1 and 3.
       - （西班牙语）Accesso a los terminales 1 y 3.
@@ -949,8 +948,7 @@ RER B线亦采用班次编码系统来区分线路上的不同班次.
 [大学城](https://zh.wikipedia.org/wiki/大学城 "wikilink") (仅用作特殊情况),
 比如**JIBY**.
 
-**K**=[马西-帕莱索站](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink"),
-比如**KROL**, **KMAR**.
+**K**=[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink"), 比如**KROL**, **KMAR**.
 
 **L**=[奥赛](https://zh.wikipedia.org/wiki/奥赛 "wikilink"), 比如**LILI**,
 **LYRE**.
@@ -969,7 +967,7 @@ RER B线亦采用班次编码系统来区分线路上的不同班次.
 **U**=[拉普拉斯](https://zh.wikipedia.org/wiki/拉普拉斯 "wikilink"), 比如**UBAN**,
 **ULLE**.
 
-**Z**=[洛泽尔](https://zh.wikipedia.org/wiki/洛泽尔站 "wikilink") (仅用作特殊情况)
+**Z**=[洛泽尔](../Page/洛泽尔站.md "wikilink") (仅用作特殊情况)
 
 **2. 第二位字母代表本班列车停靠的一些要站, 这在月台上的停靠站电子显示牌上会有显示.**
 
@@ -980,7 +978,7 @@ RER B线亦采用班次编码系统来区分线路上的不同班次.
 开往B3和B5方向的列车采用奇数, 开往B2和B4方向的采用偶数.**
 
 **5. 若该班列车不载客, 则第一,三位字母均为W, 第二位字母表示终点, 第四位字母表示起点.**
-比如**WKWL**表示从[奥赛不载客回场到](https://zh.wikipedia.org/wiki/奥赛 "wikilink")[马西-帕莱索站的列车](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink").
+比如**WKWL**表示从[奥赛不载客回场到](https://zh.wikipedia.org/wiki/奥赛 "wikilink")[马西-帕莱索站的列车](../Page/马西-帕莱索站.md "wikilink").
 
 **6. 特殊班次的慢车 (每一站都停靠), 首字母仍表示终点, 第二位字母表示起点, 最后两位均为Z.**
 比如**PAZZ**表示从[巴黎北站开往](../Page/巴黎北站.md "wikilink")[圣雷米的慢车](https://zh.wikipedia.org/wiki/圣雷米 "wikilink").
@@ -997,10 +995,10 @@ RER B线亦采用班次编码系统来区分线路上的不同班次.
 在巴黎市区 (大学城) 以南只停靠[皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"),
 [贝尼十字路](https://zh.wikipedia.org/wiki/贝尼十字路 "wikilink"),
 [安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"),
-以及[马西-帕莱索站和](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")[圣雷米之间的所有车站](https://zh.wikipedia.org/wiki/圣雷米 "wikilink").
+以及[马西-帕莱索站和](../Page/马西-帕莱索站.md "wikilink")[圣雷米之间的所有车站](https://zh.wikipedia.org/wiki/圣雷米 "wikilink").
 
 2\.
-往返于[戴高乐机场二号航站楼和](https://zh.wikipedia.org/wiki/戴高乐机场二号航站楼 "wikilink")[马西-帕莱索站之间的区间车](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")**EMIR**和**KNUT**,
+往返于[戴高乐机场二号航站楼和](https://zh.wikipedia.org/wiki/戴高乐机场二号航站楼 "wikilink")[马西-帕莱索站之间的区间车](../Page/马西-帕莱索站.md "wikilink")**EMIR**和**KNUT**,
 不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[巴黎北站之间的所有车站](../Page/巴黎北站.md "wikilink").
 
 3\.
@@ -1024,18 +1022,18 @@ RER B线亦采用班次编码系统来区分线路上的不同班次.
 
 1\. 往返于[罗班松的列车](https://zh.wikipedia.org/wiki/罗班松 "wikilink"), 全程停靠.
 
-2\. 往返于[马西-帕莱索站的列车](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink"),
+2\. 往返于[马西-帕莱索站的列车](../Page/马西-帕莱索站.md "wikilink"),
 不停靠[亚捷卡尚和](https://zh.wikipedia.org/wiki/亚捷卡尚 "wikilink")[巴纽](https://zh.wikipedia.org/wiki/巴纽 "wikilink").
 
 3\. 往返于[奥赛的列车](https://zh.wikipedia.org/wiki/奥赛 "wikilink"),
-在[马西-帕莱索站和](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")[大学城之间只停靠](https://zh.wikipedia.org/wiki/大学城 "wikilink")[安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"),
+在[马西-帕莱索站和](../Page/马西-帕莱索站.md "wikilink")[大学城之间只停靠](https://zh.wikipedia.org/wiki/大学城 "wikilink")[安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"),
 [贝尼十字路](https://zh.wikipedia.org/wiki/贝尼十字路 "wikilink"),
 [皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"),
 [巴纽和](https://zh.wikipedia.org/wiki/巴纽 "wikilink")[拉普拉斯](https://zh.wikipedia.org/wiki/拉普拉斯 "wikilink"),
 其余车站均停靠.
 
 4\. 往返于[圣雷米的列车](https://zh.wikipedia.org/wiki/圣雷米 "wikilink"),
-在[奥赛和](https://zh.wikipedia.org/wiki/奥赛 "wikilink")[大学城之间只停靠](https://zh.wikipedia.org/wiki/大学城 "wikilink")[马西-帕莱索站](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink"),
+在[奥赛和](https://zh.wikipedia.org/wiki/奥赛 "wikilink")[大学城之间只停靠](https://zh.wikipedia.org/wiki/大学城 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink"),
 [巴克涅](https://zh.wikipedia.org/wiki/巴克涅 "wikilink"),
 [安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"),
 [皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"),
@@ -1105,10 +1103,10 @@ SNCF路段不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[
 RATP路段巴黎以南只停靠[皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"),
 [贝尼十字路](https://zh.wikipedia.org/wiki/贝尼十字路 "wikilink"),
 [安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"),
-以及[马西-帕莱索站和](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")[圣雷米之间的所有车站](https://zh.wikipedia.org/wiki/圣雷米 "wikilink").
+以及[马西-帕莱索站和](../Page/马西-帕莱索站.md "wikilink")[圣雷米之间的所有车站](https://zh.wikipedia.org/wiki/圣雷米 "wikilink").
 
 2\.
-从[机场二号航站楼开往](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[马西-帕莱索站的区间车](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")**KJAR**,
+从[机场二号航站楼开往](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[马西-帕莱索站的区间车](../Page/马西-帕莱索站.md "wikilink")**KJAR**,
 在[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[巴黎北站之间只停靠](../Page/巴黎北站.md "wikilink")[新庭奥贝维埃](https://zh.wikipedia.org/wiki/新庭奥贝维埃 "wikilink"),
 其余所有站均停靠.
 
@@ -1148,9 +1146,9 @@ SNCF段不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[平
 RATP段停靠站与早班高峰往返[奥赛的列车停靠站相近](https://zh.wikipedia.org/wiki/奥赛 "wikilink").
 
 3\.
-[米提-克莱到](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")[马西-帕莱索站的区间车](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")**KMAR**,
+[米提-克莱到](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")[马西-帕莱索站的区间车](../Page/马西-帕莱索站.md "wikilink")**KMAR**,
 SNCF段不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[巴黎北站之间的车站](../Page/巴黎北站.md "wikilink"),
-RATP段停靠站与早班高峰往返[马西-帕莱索站的列车停靠站相近](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink").
+RATP段停靠站与早班高峰往返[马西-帕莱索站的列车停靠站相近](../Page/马西-帕莱索站.md "wikilink").
 
 4\.
 [欧奈到](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[罗班松的区间车](https://zh.wikipedia.org/wiki/罗班松 "wikilink")**SVIC**,**SVAN**,
@@ -1172,7 +1170,7 @@ RATP段为**LYRE**的返程车,
 SNCF段不停靠[巴黎北站和](../Page/巴黎北站.md "wikilink")[勒布尔热之间的车站](https://zh.wikipedia.org/wiki/勒布尔热 "wikilink").
 
 3\.
-[马西-帕莱索站到](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")[机场二号航站楼的区间车](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")**ELAS**,
+[马西-帕莱索站到](../Page/马西-帕莱索站.md "wikilink")[机场二号航站楼的区间车](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")**ELAS**,
 RATP段为**KMAR**的返程车,
 SNCF段不停靠[巴黎北站和](../Page/巴黎北站.md "wikilink")[欧奈之间的车站](https://zh.wikipedia.org/wiki/欧奈 "wikilink").
 
@@ -1194,12 +1192,12 @@ SNCF段不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[平
 1\.
 往返于[机场二号航站楼和](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[圣雷米的全程车](https://zh.wikipedia.org/wiki/圣雷米 "wikilink")**EFLA**(白天北行),
 **EFOC**(夜晚北行), **PEPE**(白天南行), **PERA**(夜晚南行).
-在[马西-帕莱索站和](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")[大学城之间只停靠](https://zh.wikipedia.org/wiki/大学城 "wikilink")[皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"),
+在[马西-帕莱索站和](../Page/马西-帕莱索站.md "wikilink")[大学城之间只停靠](https://zh.wikipedia.org/wiki/大学城 "wikilink")[皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"),
 [贝尼十字路](https://zh.wikipedia.org/wiki/贝尼十字路 "wikilink"),
 [安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"), 其余所有站均停靠.
 
 2\.
-往返于[机场二号航站楼和](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[马西-帕莱索站的区间车](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")**EKLI**(白天北行),
+往返于[机场二号航站楼和](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[马西-帕莱索站的区间车](../Page/马西-帕莱索站.md "wikilink")**EKLI**(白天北行),
 **EKIL**(夜晚北行), **KROL**(白天南行), **KRIN**(夜晚南行).
 不停靠[巴黎北站和](../Page/巴黎北站.md "wikilink")[机场一号航站楼之间的所有车站](https://zh.wikipedia.org/wiki/机场一号航站楼 "wikilink"),
 但如果[会展公园有大型会展活动就将停靠](https://zh.wikipedia.org/wiki/会展公园 "wikilink").
@@ -1226,7 +1224,7 @@ SNCF段不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[平
 但夏季例外. 其对应返程车为**EEVE**, 仅有一班, 后一班**EYLO**却全程停靠.
 
 3\.
-自[机场二号航站楼开往](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[马西-帕莱索站和](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")[圣雷米的班车](https://zh.wikipedia.org/wiki/圣雷米 "wikilink")**KDIT**和**PMAR**,
+自[机场二号航站楼开往](https://zh.wikipedia.org/wiki/机场二号航站楼 "wikilink")[马西-帕莱索站和](../Page/马西-帕莱索站.md "wikilink")[圣雷米的班车](https://zh.wikipedia.org/wiki/圣雷米 "wikilink")**KDIT**和**PMAR**,
 不停靠[大学城和](https://zh.wikipedia.org/wiki/大学城 "wikilink")[皇后镇之间的所有车站](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"),
 其余车站均停靠. 其对应的返程车分别为**ERNE**和**EOLE**.
 
@@ -1291,7 +1289,7 @@ SNCF段不停靠[欧奈和](https://zh.wikipedia.org/wiki/欧奈 "wikilink")[平
 
 1\. 如果遇到相关技术故障, 导致南北段的互通中断,
 RATP段B线所有班次北端终点为[巴黎北站地下月台或丹佛站](../Page/巴黎北站.md "wikilink"),
-由此往返[马西-帕莱索站](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink"),
+由此往返[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink"),
 [圣雷米和](https://zh.wikipedia.org/wiki/圣雷米 "wikilink")[罗班松的列车有时为慢车](https://zh.wikipedia.org/wiki/罗班松 "wikilink"),
 有时与非高峰时段班次相似, SNCF段的巴黎北站发车点由地下月台转移至地面月台,
 即[远郊车月台](https://zh.wikipedia.org/wiki/法兰西岛区域铁路 "wikilink"),
@@ -1316,8 +1314,7 @@ RATP段的大部分车站都设有两个[侧式月台](https://zh.wikipedia.org/
 快铁转乘站则会引入[岛式月台或多个侧式月台进行辅助](https://zh.wikipedia.org/wiki/岛式月台 "wikilink").
 以方便列车掉头返回和乘客进行[跨月台转乘](https://zh.wikipedia.org/wiki/跨月台转车站 "wikilink").
 比如[皇后镇为B](https://zh.wikipedia.org/wiki/皇后镇 "wikilink")2,B4分支交汇点,
-设有4个侧式月台,
-[马西-帕莱索站为区间车终点站](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink"),
+设有4个侧式月台, [马西-帕莱索站为区间车终点站](../Page/马西-帕莱索站.md "wikilink"),
 设有2个岛式月台,
 [奥赛和](https://zh.wikipedia.org/wiki/奥赛 "wikilink")[拉普拉斯在高峰时段为高峰车终点](https://zh.wikipedia.org/wiki/拉普拉斯 "wikilink"),
 设有1个岛式月台和1个侧式月台.
@@ -1386,7 +1383,7 @@ SNCF路段的班次改为慢车后, 高峰期全线的列车运作将得到大�
 
 1\.
 往返于[机场和](https://zh.wikipedia.org/wiki/机场 "wikilink")[圣雷米的列车](https://zh.wikipedia.org/wiki/圣雷米 "wikilink"),
-在[奥赛和](https://zh.wikipedia.org/wiki/奥赛 "wikilink")[大学城之间只停靠](https://zh.wikipedia.org/wiki/大学城 "wikilink")[马西-帕莱索站](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink"),
+在[奥赛和](https://zh.wikipedia.org/wiki/奥赛 "wikilink")[大学城之间只停靠](https://zh.wikipedia.org/wiki/大学城 "wikilink")[马西-帕莱索站](../Page/马西-帕莱索站.md "wikilink"),
 [巴克涅](https://zh.wikipedia.org/wiki/巴克涅 "wikilink"),
 [安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"),
 [皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"),
@@ -1395,14 +1392,14 @@ SNCF路段的班次改为慢车后, 高峰期全线的列车运作将得到大�
 
 2\.
 往返于[米提-克莱和](https://zh.wikipedia.org/wiki/米提-克莱 "wikilink")[奥赛的列车](https://zh.wikipedia.org/wiki/奥赛 "wikilink"),
-在[马西-帕莱索站和](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink")[大学城之间只停靠](https://zh.wikipedia.org/wiki/大学城 "wikilink")[安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"),
+在[马西-帕莱索站和](../Page/马西-帕莱索站.md "wikilink")[大学城之间只停靠](https://zh.wikipedia.org/wiki/大学城 "wikilink")[安东尼](https://zh.wikipedia.org/wiki/安东尼 "wikilink"),
 [贝尼十字路](https://zh.wikipedia.org/wiki/贝尼十字路 "wikilink"),
 [皇后镇](https://zh.wikipedia.org/wiki/皇后镇 "wikilink"),
 [巴纽和](https://zh.wikipedia.org/wiki/巴纽 "wikilink")[拉普拉斯](https://zh.wikipedia.org/wiki/拉普拉斯 "wikilink"),
 其余车站均停靠.
 
 3\.
-往返于[机场和](https://zh.wikipedia.org/wiki/机场 "wikilink")[马西-帕莱索站的列车](https://zh.wikipedia.org/wiki/马西-帕莱索站 "wikilink"),
+往返于[机场和](https://zh.wikipedia.org/wiki/机场 "wikilink")[马西-帕莱索站的列车](../Page/马西-帕莱索站.md "wikilink"),
 仅不停靠[亚捷卡尚和](https://zh.wikipedia.org/wiki/亚捷卡尚 "wikilink")[巴纽](https://zh.wikipedia.org/wiki/巴纽 "wikilink").
 
 4\.

@@ -59,7 +59,7 @@ Super Famicom
 ## 其它媒体
 
 和系列其它本传游戏相似，《勇者斗恶龙II》被改编为[小说和](https://zh.wikipedia.org/wiki/轻小说 "wikilink")[游戏书](../Page/游戏书.md "wikilink")。《小说
-勇者斗恶龙II》由[高屋敷英夫编写并出版于](https://zh.wikipedia.org/wiki/高屋敷英夫 "wikilink")1989年，小说之后于1991年和2000年再版。《游戏书
+勇者斗恶龙II》由[高屋敷英夫编写并出版于](../Page/高屋敷英夫.md "wikilink")1989年，小说之后于1991年和2000年再版。《游戏书
 勇者斗恶龙II》也发行于1989年\[71\]。1999年，艾尼克斯发行了两卷《Game Boy勇者斗恶龙I·II
 4格漫画剧场迷你百科全书》\[72\]。
 

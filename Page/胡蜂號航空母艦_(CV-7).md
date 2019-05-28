@@ -32,7 +32,7 @@ Hatteras）對開，拯救了一艘因風暴失事的船隻。乘客送返岸後
 
 要到7月，胡蜂號才從乏味的航空演練及例行演習中接到重要任務。美國在國際外交上愈加傾向英國，提供更多軍事援助，大有加入大西洋戰線之勢。由於胡蜂號曾有陸航機升降經驗，故被派住[冰島](https://zh.wikipedia.org/wiki/冰島 "wikilink")，運送戰機給予英國。7月23日，32個[陸軍航空兵突然被派到艦上](https://zh.wikipedia.org/wiki/美國陸軍航空兵 "wikilink")「臨時」值班，次日早上，30架P-40C陸軍戰機依次吊入機庫，緊接是一批陸軍機師及記者登艦。胡蜂號與第1機動部隊啟程，在8月6日，艦上的P-40C依次起飛，胡蜂號則與三艘護航艦返回諾福克。
 
-8月的胡蜂號除了進行飛行演練外，亦曾出海進行軍事任務。由於情報指[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[希佩爾海軍上將號重巡洋艦將在西大西洋攻擊商船](https://zh.wikipedia.org/wiki/希佩爾海軍上將號重巡洋艦 "wikilink")，而消息亦被英國戰艦[羅德尼號確認](https://zh.wikipedia.org/wiki/羅德尼號戰艦 "wikilink")：她在8月30日曾一度在20哩外發現該艦。胡蜂號以中立巡航身份協助追蹤，並嚴格遵守「避免接觸」原則，以免引起外交風波。不過，美國進一步傾向英國、與德國交惡，卻是不爭事實，稍後一艘美國驅逐艦更幾乎被[U潜艇攻擊](https://zh.wikipedia.org/wiki/U潜艇 "wikilink")。\[5\]胡蜂號在8月至9月間，主要往來冰島－[紐芬蘭](https://zh.wikipedia.org/wiki/紐芬蘭 "wikilink")－[百慕達進行護航及運輸](https://zh.wikipedia.org/wiki/百慕達 "wikilink")，期間[海軍軍令部](https://zh.wikipedia.org/wiki/海軍軍令部 "wikilink")（Naval
+8月的胡蜂號除了進行飛行演練外，亦曾出海進行軍事任務。由於情報指[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[希佩爾海軍上將號重巡洋艦將在西大西洋攻擊商船](https://zh.wikipedia.org/wiki/希佩爾海軍上將號重巡洋艦 "wikilink")，而消息亦被英國戰艦[羅德尼號確認](../Page/羅德尼號戰艦.md "wikilink")：她在8月30日曾一度在20哩外發現該艦。胡蜂號以中立巡航身份協助追蹤，並嚴格遵守「避免接觸」原則，以免引起外交風波。不過，美國進一步傾向英國、與德國交惡，卻是不爭事實，稍後一艘美國驅逐艦更幾乎被[U潜艇攻擊](https://zh.wikipedia.org/wiki/U潜艇 "wikilink")。\[5\]胡蜂號在8月至9月間，主要往來冰島－[紐芬蘭](https://zh.wikipedia.org/wiki/紐芬蘭 "wikilink")－[百慕達進行護航及運輸](https://zh.wikipedia.org/wiki/百慕達 "wikilink")，期間[海軍軍令部](https://zh.wikipedia.org/wiki/海軍軍令部 "wikilink")（Naval
 Operations）下達了攻擊命令：「擊沉所有發現到的德國及意大利戰艦！」\[6\]事實上，在10月17日、28日與30日，就分別有三艘美國驅逐艦在大西洋被「未知」敵艦雷擊，其中勞本·詹姆斯號（Reuben
 James,
 DD-245）更被擊沉\[7\]。不足兩個月後[珍珠港事件發生](../Page/珍珠港事件.md "wikilink")，美國於12月11日正式向[軸心國宣戰](https://zh.wikipedia.org/wiki/軸心國 "wikilink")。

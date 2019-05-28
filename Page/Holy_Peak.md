@@ -41,7 +41,7 @@ Peak（[參考](http://blog.livedoor.jp/horio_h/archives/25115094.html)）。
   - [川上未遊](https://zh.wikipedia.org/wiki/川上未遊 "wikilink")
   - [小林優](../Page/小林優.md "wikilink")
   - [下村美穗](https://zh.wikipedia.org/wiki/下村美穗 "wikilink")
-  - [田村直美](https://zh.wikipedia.org/wiki/田村直美 "wikilink")
+  - [田村直美](../Page/田村直美.md "wikilink")
   - [豐田奏惠](https://zh.wikipedia.org/wiki/豐田奏惠 "wikilink")
   - [なつみ凛](https://zh.wikipedia.org/wiki/なつみ凛 "wikilink")
   - [橋本まい](https://zh.wikipedia.org/wiki/橋本まい "wikilink")

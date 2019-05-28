@@ -57,7 +57,7 @@ SG 552是SIG SG
   - 2010年—《[-{zh-cn:盗梦空间; zh-tw:全面啓動;
     zh-hk:潛行兇間}-](https://zh.wikipedia.org/wiki/全面啓動 "wikilink")》：雪地塗裝並附有[皮卡汀尼導軌](../Page/皮卡汀尼導軌.md "wikilink")，被伊姆斯（[湯姆·哈迪飾演](../Page/湯姆·哈迪.md "wikilink")）於第三層[夢境期間所使用](../Page/夢境.md "wikilink")。
   - 2011年—《》：裝有ACOG
-    TA11[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")、[戰術燈和](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")[抑制器](../Page/抑制器.md "wikilink")。被一名法國海軍突擊隊隊員於[科索沃行動期間所使用](../Page/科索沃.md "wikilink")。
+    TA11[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")、[戰術燈和](../Page/戰術燈.md "wikilink")[抑制器](../Page/抑制器.md "wikilink")。被一名法國海軍突擊隊隊員於[科索沃行動期間所使用](../Page/科索沃.md "wikilink")。
   - 2012年—《[-{zh-cn:生化危机5：惩罚; zh-tw:惡靈古堡5：天譴日;
     zh-hk:生化危機之滅絕真相}-](https://zh.wikipedia.org/wiki/惡靈古堡5：天譴日 "wikilink")》：裝上EO-TECH[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")，被里昂·史考特·甘迺迪（[約翰·厄柏飾演](../Page/約翰·厄柏.md "wikilink")）所使用。
   - 2012年ㄧ《[逆戰](https://zh.wikipedia.org/wiki/逆戰 "wikilink")》：被王尚恩（[安志傑飾演](../Page/安志傑.md "wikilink")）在約旦時所使用。
@@ -87,7 +87,7 @@ SG 552是SIG SG
     552”，使用30发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")。为工程兵专用武器，K点购买，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器、[冲锋枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[冲锋枪刺刀](../Page/刺刀.md "wikilink")）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、[冲锋枪握把](https://zh.wikipedia.org/wiki/宽型前握把 "wikilink")、冲锋枪握把架）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、冲锋枪普通瞄准镜、冲锋枪高级瞄准镜、[冲锋枪专家瞄准镜](https://zh.wikipedia.org/wiki/Leupold_Mark_4_CQ/T光学瞄准镜 "wikilink")）。
   - 2013年—《[-{zh-hans:收获日2;
-    zh-hant:劫薪日2;}-](https://zh.wikipedia.org/wiki/劫薪日2 "wikilink")》（Payday
+    zh-hant:劫薪日2;}-](../Page/劫薪日2.md "wikilink")》（Payday
     2）：型號為SG
     552-2，附有[皮卡汀尼導軌以用作裝上各種戰術配件](../Page/皮卡汀尼導軌.md "wikilink")，命名為「Commando
     553」。

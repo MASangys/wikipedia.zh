@@ -424,7 +424,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](https://zh.wikipedia
 
 <!-- end list -->
 
-  - 米倉信三 - [田中哲司](https://zh.wikipedia.org/wiki/田中哲司 "wikilink")
+  - 米倉信三 - [田中哲司](../Page/田中哲司.md "wikilink")
 
 <!-- end list -->
 
@@ -608,7 +608,7 @@ GOLDEN》在星期六戲劇時間帶播出，[高清製作](https://zh.wikipedia
 
 <!-- end list -->
 
-  - 柴田勇樹 - [杉本哲太](https://zh.wikipedia.org/wiki/杉本哲太 "wikilink")（第7集）
+  - 柴田勇樹 - [杉本哲太](../Page/杉本哲太.md "wikilink")（第7集）
 
 <!-- end list -->
 

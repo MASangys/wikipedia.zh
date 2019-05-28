@@ -122,7 +122,7 @@ Auto-5在[第一次世界大战至](../Page/第一次世界大战.md "wikilink")
   - 2004年—《[-{zh-cn:荣誉勋章：太平洋突袭; zh-tw:榮譽勳章：太平洋戰役;
     zh-hk:榮譽勳章：太平洋戰役;}-](https://zh.wikipedia.org/wiki/榮譽勳章：太平洋突襲 "wikilink")》（Medal
     of Honor: Pacific
-    Assault）：遊戲中唯一的霰彈槍，型號為雷明登11，被美軍所使用，命名為「M11[防暴霰彈槍](https://zh.wikipedia.org/wiki/鎮暴霰彈槍 "wikilink")」。
+    Assault）：遊戲中唯一的霰彈槍，型號為雷明登11，被美軍所使用，命名為「M11[防暴霰彈槍](../Page/鎮暴霰彈槍.md "wikilink")」。
   - 2007年—《[-{zh-cn:军团要塞2; zh-tw:絕地要塞2;
     zh-hk:絕地要塞2}-](../Page/絕地要塞2.md "wikilink")》（Team
     Fortress
@@ -135,7 +135,7 @@ Auto-5在[第一次世界大战至](../Page/第一次世界大战.md "wikilink")
     zh-hk:戰地風雲1}-](https://zh.wikipedia.org/wiki/戰地風雲1 "wikilink")》（Battlefield
     1）：为突击兵所使用的霰弹枪，命名为「12g自动霰弹枪」。一共有三种版本，分别为Backboard版，猎人版和加长版。Backboard版和猎人版为弹仓供弹，5发弹仓。加长版使用加大彈倉，装弹7发。
   - 2018年—《[-{zh-hans:荒野大镖客：救赎;
-    zh-hant:碧血狂殺;}-2](https://zh.wikipedia.org/wiki/碧血狂殺2 "wikilink")》（Red
+    zh-hant:碧血狂殺;}-2](../Page/碧血狂殺2.md "wikilink")》（Red
     Dead Redemption II）：命名為“半自動霰彈槍”，奇怪的會於1899年出現。
   - 2018年—《[-{zh-cn:战地5; zh-tw:戰地風雲5;
     zh-hk:戰地風雲5}-](https://zh.wikipedia.org/wiki/戰地風雲5 "wikilink")》（Battlefield

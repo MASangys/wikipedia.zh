@@ -7,7 +7,7 @@ icon**（页面图标）或**urlicon**（[URL图标](https://zh.wikipedia.org/wi
 Explorer的收藏夹](../Page/Internet_Explorer.md "wikilink")（即书签）可以自动显示该文件。\[1\]
 后来出现了一种更为灵活的方法，即使用[HTML来为任何一个网页指示其图标所存储的位置](../Page/HTML.md "wikilink")。这种方法是通过在页面的`<head>`部分添加两个link元件来实现的。这样，任何一个适当大小的（16×16[像素或更大](../Page/像素.md "wikilink")）的图像都可以用作favicon。尽管如此，多数情况下仍然使用[ICO格式](../Page/ICO.md "wikilink")。其他网页浏览器现在也支持[PNG](../Page/PNG.md "wikilink")（便携式网络图片）格式，和[GIF](../Page/GIF.md "wikilink")（图形交换格式）动画图像格式。
 
-市面上多数浏览器同时支持上述两种方法。正因此，网络服务器要接受很多对“favicon.ico”文件的请求，即使该文件根本不存在。网站管理员对此很不满，因为这样会增加大量的[服务器日志项](https://zh.wikipedia.org/wiki/服务器日志 "wikilink")，并导致很多不必要的[磁盘读取和](https://zh.wikipedia.org/wiki/磁盘 "wikilink")[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")、网络资源的占用。另一个常见的问题是，当清除浏览器的[缓存后](../Page/缓存.md "wikilink")，favicon可能会消失。
+市面上多数浏览器同时支持上述两种方法。正因此，网络服务器要接受很多对“favicon.ico”文件的请求，即使该文件根本不存在。网站管理员对此很不满，因为这样会增加大量的[服务器日志项](../Page/服务器日志.md "wikilink")，并导致很多不必要的[磁盘读取和](https://zh.wikipedia.org/wiki/磁盘 "wikilink")[CPU](https://zh.wikipedia.org/wiki/CPU "wikilink")、网络资源的占用。另一个常见的问题是，当清除浏览器的[缓存后](../Page/缓存.md "wikilink")，favicon可能会消失。
 
 ## 歷史
 

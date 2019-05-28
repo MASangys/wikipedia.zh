@@ -70,11 +70,11 @@ Vintorez\]\]
       - 中国大陆服务器为专家解锁武器；俄罗斯服务器为K点武器；欧美服务器需要达到40级（中校1军衔）方可解锁并购买。
   - 2013-《Metro: Last Light》
   - 2013年—《[-{zh-hans:收获日;
-    zh-hant:劫薪日}-2](https://zh.wikipedia.org/wiki/劫薪日2 "wikilink")》：命名為「Valkyria」。
+    zh-hant:劫薪日}-2](../Page/劫薪日2.md "wikilink")》：命名為「Valkyria」。
   - 2014年—《[合約戰爭](https://zh.wikipedia.org/wiki/合約戰爭 "wikilink")》（Contract
     Wars）
   - 2015年—《[未轉變者](../Page/未轉變者.md "wikilink")》：命名為“Matamorez”，分類為突擊步槍，等級為傳奇等級槍枝，使用17發[彈匣](../Page/彈匣.md "wikilink")（装备专有的扩容弹夹后可提升载弹量至25发），可以改瞄準鏡以及戰術導軌配件。
-  - 2017年—《[絕地求生](https://zh.wikipedia.org/wiki/絕地求生 "wikilink")》（PlayerUnknown's
+  - 2017年—《[絕地求生](../Page/絕地求生.md "wikilink")》（PlayerUnknown's
     Battlegrounds）：命名为“VSS狙击枪”，自帶四倍[PSO-1光學瞄準鏡](https://zh.wikipedia.org/wiki/PSO-1 "wikilink")、消音器，使用10發彈匣（擴容20發）。在遊戲中作為一枝狙擊步槍，可全自動射擊，可配備：所有狙擊步槍彈匣、托腮板。但由於在遊戲中彈道下墜嚴重，子彈初速慢（亞音速），並不適合狙擊，近距離單發傷害低，故成為冷門武器。
   - 2017年—《[狙擊手：幽靈戰士3](https://zh.wikipedia.org/wiki/狙擊手：幽靈戰士3 "wikilink")》（Sniper:
     Ghost Warrior 3）：命名為“Brezatelya”，使用10發彈匣。
@@ -88,7 +88,7 @@ Vintorez\]\]
 ### 小說
 
   - 2014年—《[刀劍神域外傳Gun Gale
-    Online](https://zh.wikipedia.org/wiki/刀劍神域外傳Gun_Gale_Online "wikilink")》：被“SHINC”小隊的“伊娃”所使用。
+    Online](../Page/刀劍神域外傳Gun_Gale_Online.md "wikilink")》：被“SHINC”小隊的“伊娃”所使用。
 
 ## 相關條目
 

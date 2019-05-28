@@ -61,7 +61,7 @@ B·N·F目前[单身](https://zh.wikipedia.org/wiki/单身 "wikilink")，没有[
 
 ## 参见
 
-  - [乌龙指失误](https://zh.wikipedia.org/wiki/乌龙指失误 "wikilink")
+  - [乌龙指失误](../Page/乌龙指失误.md "wikilink")
   - [cis(投资家)](https://zh.wikipedia.org/wiki/cis\(投资家\) "wikilink")
 
 [Category:日本投資家](https://zh.wikipedia.org/wiki/Category:日本投資家 "wikilink")

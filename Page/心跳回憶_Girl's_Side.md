@@ -1,5 +1,5 @@
 《**心跳回憶 Girl's
-Side**》是在2002年6月20日由[科樂美公司發售的](../Page/科樂美.md "wikilink")[女性向](https://zh.wikipedia.org/wiki/女性向 "wikilink")[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，略稱為「GS1」，是《[心跳回憶
+Side**》是在2002年6月20日由[科樂美公司發售的](../Page/科樂美.md "wikilink")[女性向](../Page/女性向.md "wikilink")[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")，略稱為「GS1」，是《[心跳回憶
 Girl's Side
 系列](https://zh.wikipedia.org/wiki/心跳回憶_Girl's_Side_系列 "wikilink")》的第1彈。本作的推出時間距離《[心跳回憶3](https://zh.wikipedia.org/wiki/心跳回憶3 "wikilink")》發售時間不過半年。
 

@@ -112,7 +112,7 @@ Cable早晨由兩位[有線電視主播主持](https://zh.wikipedia.org/wiki/香
 
 ## 相關節目
 
-  - [有線新聞](https://zh.wikipedia.org/wiki/有線新聞_\(電視節目\) "wikilink")
+  - [有線新聞](../Page/有線新聞_\(電視節目\).md "wikilink")
   - [新聞最前線](../Page/新聞最前線_\(香港\).md "wikilink")
   - [國際最前線](../Page/國際最前線.md "wikilink")
   - [十一點最前線](https://zh.wikipedia.org/wiki/十一點最前線 "wikilink")
@@ -125,6 +125,6 @@ Cable早晨由兩位[有線電視主播主持](https://zh.wikipedia.org/wiki/香
 [Category:香港電視小作品](https://zh.wikipedia.org/wiki/Category:香港電視小作品 "wikilink")
 [Category:奇妙電視節目](https://zh.wikipedia.org/wiki/Category:奇妙電視節目 "wikilink")
 
-1.  《[香港早晨](../Page/香港早晨.md "wikilink")》在[翡翠台和](../Page/翡翠台.md "wikilink")[無綫新聞台播出](../Page/無綫新聞台.md "wikilink")，《[Now早晨](../Page/Now早晨.md "wikilink")》在[ViuTV播出](../Page/ViuTV.md "wikilink")，《[早辰。早晨](../Page/早辰。早晨.md "wikilink")》在[港台電視31、31A播出](https://zh.wikipedia.org/wiki/港台電視31、31A "wikilink")
+1.  《[香港早晨](../Page/香港早晨.md "wikilink")》在[翡翠台和](../Page/翡翠台.md "wikilink")[無綫新聞台播出](../Page/無綫新聞台.md "wikilink")，《[Now早晨](../Page/Now早晨.md "wikilink")》在[ViuTV播出](../Page/ViuTV.md "wikilink")，《[早辰。早晨](../Page/早辰。早晨.md "wikilink")》在[港台電視31、31A播出](../Page/港台電視31、31A.md "wikilink")
 2.  [有線電視大廈發生火警](http://www.mpinews.com/htm/INews/20061031/gb20836t.htm)
     （明報）

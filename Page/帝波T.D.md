@@ -6,8 +6,7 @@ Domingo**，1962年1月24日－）為[多明尼加的](../Page/多明尼加.md "
   - [美國職棒](../Page/美國職業棒球大聯盟.md "wikilink")[亞特蘭大勇士隊](../Page/亞特蘭大勇士.md "wikilink")（小聯盟，1981年～1987年）
   - 美國職棒[底特律老虎隊](../Page/底特律老虎.md "wikilink")（小聯盟，1987年）
   - [中華職棒](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")[兄弟象隊](https://zh.wikipedia.org/wiki/兄弟象 "wikilink")（1990年1月15日～1995年8月31日）
-  - [墨西哥聯盟Pirates](https://zh.wikipedia.org/wiki/墨西哥聯盟 "wikilink") de
-    Campeche（1996年～1997年）
+  - [墨西哥聯盟Pirates](../Page/墨西哥聯盟.md "wikilink") de Campeche（1996年～1997年）
   - 中華職棒兄弟象隊加勒比海球探（1997年～1999年）
   - 美國職棒[紐約洋基隊多明尼加球探](../Page/紐約洋基.md "wikilink")（1999年～2001年）
   - 美國職棒紐約洋基隊多明尼加棒球學校教練（2002年～2009年）

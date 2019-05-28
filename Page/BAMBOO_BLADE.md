@@ -940,8 +940,8 @@ GANGAN](../Page/月刊BIG_GANGAN.md "wikilink")2013年6月號開始連載，由�
 
 ### 相關書籍
 
-  - （[JIVE刊](https://zh.wikipedia.org/wiki/JIVE "wikilink")） -
-    2008年6月7日發行、ISBN 978-4-86176-535-3
+  - （[JIVE刊](../Page/JIVE.md "wikilink")） - 2008年6月7日發行、ISBN
+    978-4-86176-535-3
 
   - （[Gakken刊](../Page/學研控股.md "wikilink")） - 2008年6月20日發行、ISBN
     978-4-05-605186-5

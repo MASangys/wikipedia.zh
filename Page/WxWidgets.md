@@ -23,8 +23,7 @@ wxWidgets的授權許可證是經過[開放原始碼促進會認證](https://zh.
     file sharing application
   - [FileZilla](../Page/FileZilla.md "wikilink") -
     跨平台且開放原始碼的[FTP軟體](https://zh.wikipedia.org/wiki/FTP "wikilink")。
-  - [Code::Blocks](https://zh.wikipedia.org/wiki/Code::Blocks "wikilink")
-    C/C++ IDE
+  - [Code::Blocks](../Page/Code::Blocks.md "wikilink") C/C++ IDE
   - [CodeLite](https://zh.wikipedia.org/wiki/CodeLite "wikilink") C/C++
     IDE
   - [ionCube](https://zh.wikipedia.org/wiki/ionCube "wikilink") PHP編碼器

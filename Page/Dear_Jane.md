@@ -44,7 +44,7 @@ rock歌曲《七百萬種樂與怒》，並於9月13日在[匯星裏舉辦首個
 
 2016年1月，首次獲取[RTHK的音樂獎項](https://zh.wikipedia.org/wiki/RTHK "wikilink")。
 
-2016年3月，6月，9月，分別推出愛情三部曲《哪裡只得我共你》，《只知感覺失了蹤》，《經過一些秋與冬》。當中《經》更一星期後獲得一百萬點擊率。三部曲受到熱烈反應，都曾登上各大音樂平台的播放第一位，成績斐然。其中《哪》更登上[2016年度YAHOO\!搜尋人氣大獎得獎名單的最愛歌曲和人氣MV](https://zh.wikipedia.org/wiki/2016年度YAHOO!搜尋人氣大獎得獎名單 "wikilink")，Apple
+2016年3月，6月，9月，分別推出愛情三部曲《哪裡只得我共你》，《只知感覺失了蹤》，《經過一些秋與冬》。當中《經》更一星期後獲得一百萬點擊率。三部曲受到熱烈反應，都曾登上各大音樂平台的播放第一位，成績斐然。其中《哪》更登上[2016年度YAHOO\!搜尋人氣大獎得獎名單的最愛歌曲和人氣MV](../Page/2016年度YAHOO!搜尋人氣大獎得獎名單.md "wikilink")，Apple
 Music 年度香港最佳歌曲。而Dear Jane也在2016
 JOOX裡稱冠，成績有目共睹。他們並於9月3日和4日在[匯星裏舉辦第二個大型音樂會](https://zh.wikipedia.org/wiki/匯星 "wikilink")，全場爆滿，深得樂迷認同。
 
@@ -476,8 +476,8 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 <!-- end list -->
 
   - [許志安](../Page/許志安.md "wikilink") - 《非安全地帶》（Howie創作）
-  - [Dear John](https://zh.wikipedia.org/wiki/Dear_John "wikilink") -
-    《Over Over》（JUDE、Howie創作）
+  - [Dear John](../Page/Dear_John.md "wikilink") - 《Over
+    Over》（JUDE、Howie創作）
   - [許廷鏗](https://zh.wikipedia.org/wiki/許廷鏗 "wikilink") -
     《你在我在》（Howie創作）
 
@@ -635,14 +635,14 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 
 <!-- end list -->
 
-  - [新城勁爆頒獎禮2016](https://zh.wikipedia.org/wiki/2016年度新城勁爆頒獎禮得獎名單 "wikilink")——勁爆歌曲《哪裡只得我共你》
-  - [新城勁爆頒獎禮2016](https://zh.wikipedia.org/wiki/2016年度新城勁爆頒獎禮得獎名單 "wikilink")——**勁爆樂隊
-    - 金獎**
+  - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink")——勁爆歌曲《哪裡只得我共你》
+  - [新城勁爆頒獎禮2016](../Page/2016年度新城勁爆頒獎禮得獎名單.md "wikilink")——**勁爆樂隊 -
+    金獎**
   - [2016年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")——叱咤樂壇作曲人大獎
     Howie
   - [2016年度叱咤樂壇流行榜頒獎典禮](https://zh.wikipedia.org/wiki/2016年度叱咤樂壇流行榜頒獎典禮得獎名單 "wikilink")——**叱咤樂壇組合銅獎**
-  - [第三十九屆十大中文金曲頒獎音樂會](https://zh.wikipedia.org/wiki/第三十九屆十大中文金曲得獎名單 "wikilink")——**全年最佳樂隊/組合獎（銀獎）**
-  - [第三十九屆十大中文金曲頒獎音樂會](https://zh.wikipedia.org/wiki/第三十九屆十大中文金曲得獎名單 "wikilink")——**十大中文金曲《只知感覺失了蹤》**
+  - [第三十九屆十大中文金曲頒獎音樂會](../Page/第三十九屆十大中文金曲得獎名單.md "wikilink")——**全年最佳樂隊/組合獎（銀獎）**
+  - [第三十九屆十大中文金曲頒獎音樂會](../Page/第三十九屆十大中文金曲得獎名單.md "wikilink")——**十大中文金曲《只知感覺失了蹤》**
 
 <!-- end list -->
 
@@ -650,11 +650,10 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 
 <!-- end list -->
 
-  - [第40屆十大中文金曲頒獎典禮](https://zh.wikipedia.org/wiki/第四十屆十大中文金曲得獎名單 "wikilink")——**全年最佳樂隊/組合獎（銀獎）**
-  - [新城勁爆頒獎禮2017](https://zh.wikipedia.org/wiki/2017年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 勁爆編曲《也許我不會活多一歲》
-  - [新城勁爆頒獎禮2017](https://zh.wikipedia.org/wiki/2017年度新城勁爆頒獎禮得獎名單 "wikilink")
-    - 勁爆樂隊
+  - [第40屆十大中文金曲頒獎典禮](../Page/第四十屆十大中文金曲得獎名單.md "wikilink")——**全年最佳樂隊/組合獎（銀獎）**
+  - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") -
+    勁爆編曲《也許我不會活多一歲》
+  - [新城勁爆頒獎禮2017](../Page/2017年度新城勁爆頒獎禮得獎名單.md "wikilink") - 勁爆樂隊
 
 <!-- end list -->
 

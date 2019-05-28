@@ -9,7 +9,7 @@ Octave是MATLAB的主要[自由替代品之一](../Page/自由软件.md "wikilin
 系統性開發則是由John W. Eaton在1992年接手才開始的。
 第一個[alpha](https://zh.wikipedia.org/wiki/alpha "wikilink")[測試版是在](../Page/软件测试.md "wikilink")1993年1月4日釋出，1.0穩定版則是在1994年2月17日釋出\[8\]。
 
-其名稱與音樂上的[八度沒有直接關係](../Page/八度.md "wikilink")。該軟體乃是以一位早期[開發群的成員](https://zh.wikipedia.org/wiki/軟體開發 "wikilink")，同時也以敏於處理數值逼近問題著稱的前[化工系教授](https://zh.wikipedia.org/wiki/化學工程 "wikilink")[奧克塔夫·列文斯比爾](https://zh.wikipedia.org/wiki/奧克塔夫·列文斯比爾 "wikilink")（Octave
+其名稱與音樂上的[八度沒有直接關係](../Page/八度.md "wikilink")。該軟體乃是以一位早期[開發群的成員](https://zh.wikipedia.org/wiki/軟體開發 "wikilink")，同時也以敏於處理數值逼近問題著稱的前[化工系教授](https://zh.wikipedia.org/wiki/化學工程 "wikilink")[奧克塔夫·列文斯比爾](../Page/奧克塔夫·列文斯比爾.md "wikilink")（Octave
 Levenspiel）之名命名的。
 
 ## 技術細節

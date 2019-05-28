@@ -38,7 +38,7 @@ OS
 X和Linux作業系統的測試版\[31\]\[32\]。2010年5月25日，發布的5.0版是第一個同時支持該三個作業系統的穩定版本\[33\]。
 
 Chrome是2010年提供給[歐洲經濟區](../Page/歐洲經濟區.md "wikilink")[Microsoft
-Windows使用者的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[十二種瀏覽器其中之一](https://zh.wikipedia.org/wiki/BrowserChoice.eu "wikilink")\[34\]。
+Windows使用者的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[十二種瀏覽器其中之一](../Page/BrowserChoice.eu.md "wikilink")\[34\]。
 
 在2012年2月7日，Google發布了Chrome於Android的測試版\[35\]，該軟體只能在[Android](../Page/Android.md "wikilink")
 4.0以上系统上運行。6月28日，Chrome的Android版本正式在[Google

@@ -10,7 +10,7 @@
 | 排名 | 公司                                                    | 英文名稱           | 營業額（億元[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")） |
 | -- | ----------------------------------------------------- | -------------- | ---------------------------------------------------------- |
 | 1  | [聯發科技](../Page/聯發科技.md "wikilink")                    | MediaTek       | 2132                                                       |
-| 2  | [聯詠科技](https://zh.wikipedia.org/wiki/聯詠科技 "wikilink") | Novatek        | 508                                                        |
+| 2  | [聯詠科技](../Page/聯詠科技.md "wikilink")                    | Novatek        | 508                                                        |
 | 3  | [瑞昱半導體](../Page/瑞昱半導體.md "wikilink")                  | Realtek        | 317                                                        |
 | 4  | [奇景光電](https://zh.wikipedia.org/wiki/奇景光電 "wikilink") | Himax          | 228                                                        |
 | 5  | [立錡科技](../Page/立錡科技.md "wikilink")                    | Richtek        | 126                                                        |
@@ -36,7 +36,7 @@
 | 排名 | 公司                                                    | 英文名稱           | 營業額（億元[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")） |
 | -- | ----------------------------------------------------- | -------------- | ---------------------------------------------------------- |
 | 1  | [聯發科技](../Page/聯發科技.md "wikilink")                    | MediaTek       | 2131                                                       |
-| 2  | [聯詠科技](https://zh.wikipedia.org/wiki/聯詠科技 "wikilink") | Novatek        | 541                                                        |
+| 2  | [聯詠科技](../Page/聯詠科技.md "wikilink")                    | Novatek        | 541                                                        |
 | 3  | [瑞昱半導體](../Page/瑞昱半導體.md "wikilink")                  | Realtek        | 313                                                        |
 | 4  | [奇景光電](https://zh.wikipedia.org/wiki/奇景光電 "wikilink") | Himax          | 254                                                        |
 | 5  | [立錡科技](../Page/立錡科技.md "wikilink")                    | Richtek        | 119                                                        |
@@ -59,7 +59,7 @@
 | 排名 | 公司                                                        | 英文名稱      | 營業額（億元[新台幣](https://zh.wikipedia.org/wiki/新台幣 "wikilink")） |
 | -- | --------------------------------------------------------- | --------- | ---------------------------------------------------------- |
 | 1  | [聯發科技](../Page/聯發科技.md "wikilink")                        | MediaTek  | 1360.55                                                    |
-| 2  | [聯詠科技](https://zh.wikipedia.org/wiki/聯詠科技 "wikilink")     | Novatek   | 414.49                                                     |
+| 2  | [聯詠科技](../Page/聯詠科技.md "wikilink")                        | Novatek   | 414.49                                                     |
 | 3  | [瑞昱半導體](../Page/瑞昱半導體.md "wikilink")                      | Realtek   | 281.80                                                     |
 | 4  | [奇景光電](https://zh.wikipedia.org/wiki/奇景光電 "wikilink")     | HiMAX     | 228.67                                                     |
 | 5  | [瑞鼎科技](https://zh.wikipedia.org/wiki/瑞鼎科技 "wikilink")     | Rayduim   | 109.00                                                     |
@@ -75,7 +75,7 @@
 | -- | ----------------------------------------------------- | -------------- | ---------------------------------------------------------- |
 | 1  | [聯發科技](../Page/聯發科技.md "wikilink")                    | MediaTek       | 992.63                                                     |
 | 2  | [晨星半導體](../Page/晨星半導體.md "wikilink")                  | MStar          | 374.95                                                     |
-| 3  | [聯詠科技](https://zh.wikipedia.org/wiki/聯詠科技 "wikilink") | Novatek        | 370.11                                                     |
+| 3  | [聯詠科技](../Page/聯詠科技.md "wikilink")                    | Novatek        | 370.11                                                     |
 | 4  | [瑞昱半導體](../Page/瑞昱半導體.md "wikilink")                  | Realtek        | 246.13                                                     |
 | 5  | [奇景光電](https://zh.wikipedia.org/wiki/奇景光電 "wikilink") | HiMAX          | 217.95                                                     |
 | 6  | [立錡科技](../Page/立錡科技.md "wikilink")                    | Richtek        | 110.2                                                      |
@@ -109,7 +109,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/聯詠科技" title="wikilink">聯詠科技</a></p></td>
+<td><p><a href="../Page/聯詠科技.md" title="wikilink">聯詠科技</a></p></td>
 <td><p>Novatek</p></td>
 <td><p>363</p></td>
 </tr>
@@ -176,7 +176,7 @@
 <tr class="odd">
 <td><p>3</p></td>
 <td><p>2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/聯詠科技" title="wikilink">聯詠科技</a></p></td>
+<td><p><a href="../Page/聯詠科技.md" title="wikilink">聯詠科技</a></p></td>
 <td><p>Novatek</p></td>
 <td><p>261.76</p></td>
 </tr>
@@ -257,7 +257,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/聯詠科技" title="wikilink">聯詠科技</a></p></td>
+<td><p><a href="../Page/聯詠科技.md" title="wikilink">聯詠科技</a></p></td>
 <td><p>Novatek</p></td>
 <td><p>361.27</p></td>
 </tr>
@@ -345,7 +345,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/聯詠科技" title="wikilink">聯詠科技</a></p></td>
+<td><p><a href="../Page/聯詠科技.md" title="wikilink">聯詠科技</a></p></td>
 <td><p>Novatek</p></td>
 <td><p>314.28</p></td>
 </tr>
@@ -435,7 +435,7 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>-</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/聯詠科技" title="wikilink">聯詠科技</a></p></td>
+<td><p><a href="../Page/聯詠科技.md" title="wikilink">聯詠科技</a></p></td>
 <td><p>Novatek</p></td>
 <td></td>
 </tr>

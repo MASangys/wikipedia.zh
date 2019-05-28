@@ -137,7 +137,7 @@ Kenix之兄<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/游飈" title="wikilink">游　飈</a></p></td>
+<td><p><a href="../Page/游飈.md" title="wikilink">游　飈</a></p></td>
 <td><p>CID</p></td>
 <td></td>
 </tr>

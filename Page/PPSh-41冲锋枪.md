@@ -239,7 +239,7 @@ PPSh-41普遍的出現在描繪二次大戰[蘇德戰爭的作品](../Page/苏�
     以彈鼓供彈，被[蘇聯紅軍和瓦利亞所使用](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")。
   - 2010年—《[Angel
     Beats\!](../Page/Angel_Beats!.md "wikilink")》：以彈鼓供彈，被藤卷所使用。
-  - 2017年—《[Re:CREATORS](https://zh.wikipedia.org/wiki/Re:CREATORS "wikilink")》：以彈鼓供彈，由反派主角阿爾泰爾／軍服公主（アルタイル／軍服の姫君，CV：[豐崎愛生](../Page/豐崎愛生.md "wikilink")）所持有。
+  - 2017年—《[Re:CREATORS](../Page/Re:CREATORS.md "wikilink")》：以彈鼓供彈，由反派主角阿爾泰爾／軍服公主（アルタイル／軍服の姫君，CV：[豐崎愛生](../Page/豐崎愛生.md "wikilink")）所持有。
 
 ### [漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")
 

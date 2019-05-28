@@ -69,7 +69,7 @@ FAL的折疊式枪托](../Page/FN_FAL自動步槍.md "wikilink")，而Rk
 ### 槍管
 
 早期生產型加利爾所使用的[槍管的](../Page/槍管.md "wikilink")[膛線是](../Page/膛線.md "wikilink")6條右旋305毫米（1:12英吋）的膛線纏距（適合使用55
-[格令的M](https://zh.wikipedia.org/wiki/格令 "wikilink")193子彈），而後來生產的槍管則為是6條右旋178毫米（1:7英吋）的膛線纏距（適合使用穩定[彈頭較重](../Page/彈頭.md "wikilink")、62格令的SS109／M855子彈）。槍管上裝有一個帶有6個孔的，可以用於發射[22毫米](https://zh.wikipedia.org/wiki/22毫米槍榴彈 "wikilink")[槍榴彈或利用](../Page/步槍用榴彈.md "wikilink")以安裝[刺刀](../Page/刺刀.md "wikilink")（例如[M16步槍使用的](../Page/M16突擊步槍.md "wikilink")[M7刺刀](../Page/M7刺刀.md "wikilink")）\[6\]
+[格令的M](https://zh.wikipedia.org/wiki/格令 "wikilink")193子彈），而後來生產的槍管則為是6條右旋178毫米（1:7英吋）的膛線纏距（適合使用穩定[彈頭較重](../Page/彈頭.md "wikilink")、62格令的SS109／M855子彈）。槍管上裝有一個帶有6個孔的，可以用於發射[22毫米](../Page/22毫米槍榴彈.md "wikilink")[槍榴彈或利用](../Page/步槍用榴彈.md "wikilink")以安裝[刺刀](../Page/刺刀.md "wikilink")（例如[M16步槍使用的](../Page/M16突擊步槍.md "wikilink")[M7刺刀](../Page/M7刺刀.md "wikilink")）\[6\]
 
 ### 供彈
 
@@ -251,11 +251,11 @@ AR式步槍\]\]
   - 2010年—《[-{zh-hans:使命召唤：黑色行动; zh-hk:使命召喚：黑色行動;
     zh-hant:決勝時刻：黑色行動;}-](../Page/決勝時刻：黑色行動.md "wikilink")》（Call
     of Duty: Black Ops）：型號為加利爾5.56
-    ARM，命名為**Galil**，奇怪地会於1960年代出現，並被[蘇聯軍隊所使用](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")。在聯機模式時於等級20解鎖。能夠使用[榴彈發射器](../Page/GP-25附加型榴彈發射器.md "wikilink")、延長彈匣（增至50發）、[雙彈匣](https://zh.wikipedia.org/wiki/彈匣並聯 "wikilink")、[火焰噴射器](https://zh.wikipedia.org/wiki/火焰噴射器 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[下掛式霰彈槍](../Page/Masterkey槍管下掛式霰彈槍.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[紅外線探測式瞄具](https://zh.wikipedia.org/wiki/紅外線 "wikilink")、[消音器及反射式瞄準鏡](../Page/抑制器.md "wikilink")。在殭屍模式中有一款稱為**Lamentation**的改型。
+    ARM，命名為**Galil**，奇怪地会於1960年代出現，並被[蘇聯軍隊所使用](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")。在聯機模式時於等級20解鎖。能夠使用[榴彈發射器](../Page/GP-25附加型榴彈發射器.md "wikilink")、延長彈匣（增至50發）、[雙彈匣](../Page/彈匣並聯.md "wikilink")、[火焰噴射器](https://zh.wikipedia.org/wiki/火焰噴射器 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[下掛式霰彈槍](../Page/Masterkey槍管下掛式霰彈槍.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[紅外線探測式瞄具](https://zh.wikipedia.org/wiki/紅外線 "wikilink")、[消音器及反射式瞄準鏡](../Page/抑制器.md "wikilink")。在殭屍模式中有一款稱為**Lamentation**的改型。
   - 2012年—《[-{zh-hans:使命召唤：黑色行动; zh-hk:使命召喚：黑色行動;
     zh-hant:決勝時刻：黑色行動;}-II](../Page/決勝時刻：黑色行動II.md "wikilink")》（Call
     of Duty: Black Ops II）：型號為加利爾5.56
-    ARM，命名為**Galil**，只在故事模式和殭屍模式中登場，故事模式中被[美國中央情報局](https://zh.wikipedia.org/wiki/美國中央情報局 "wikilink")[特別活動分部特工亞歷克斯](https://zh.wikipedia.org/wiki/特別活動分部 "wikilink").梅森、弗蘭克.伍茲、[巴拿馬國防軍以及梅嫩德斯卡特爾所使用](https://zh.wikipedia.org/wiki/巴拿馬國防軍 "wikilink")，並於玩家完成“Celerium”關卡以後解鎖。能夠使用：反射式瞄準鏡、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、抑制器、長槍管、延長彈匣（增至50發）、[快速重裝彈匣](https://zh.wikipedia.org/wiki/彈匣並聯 "wikilink")、[榴彈發射器以及](../Page/GP-25附加型榴彈發射器.md "wikilink")[擊發調變](../Page/擊發調變槍械.md "wikilink")。
+    ARM，命名為**Galil**，只在故事模式和殭屍模式中登場，故事模式中被[美國中央情報局](https://zh.wikipedia.org/wiki/美國中央情報局 "wikilink")[特別活動分部特工亞歷克斯](https://zh.wikipedia.org/wiki/特別活動分部 "wikilink").梅森、弗蘭克.伍茲、[巴拿馬國防軍以及梅嫩德斯卡特爾所使用](https://zh.wikipedia.org/wiki/巴拿馬國防軍 "wikilink")，並於玩家完成“Celerium”關卡以後解鎖。能夠使用：反射式瞄準鏡、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、抑制器、長槍管、延長彈匣（增至50發）、[快速重裝彈匣](../Page/彈匣並聯.md "wikilink")、[榴彈發射器以及](../Page/GP-25附加型榴彈發射器.md "wikilink")[擊發調變](../Page/擊發調變槍械.md "wikilink")。
   - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：型号为加利尔7.62
     ARM，命名为**Galil**，为步枪手专用武器，25发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")。可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、突击消音器、[突击制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[突击刺刀](../Page/刺刀.md "wikilink")）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、突击握把、突击握把架、[枪挂型榴弹发射器](https://zh.wikipedia.org/wiki/FN_EGLM附加型榴弹发射器 "wikilink")）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[ELCAN
@@ -263,7 +263,7 @@ AR式步槍\]\]
     ACOG瞄准镜](../Page/先進戰鬥光學瞄準鏡.md "wikilink")）。
       - 中国大陆服务器为专家解锁、欧美与俄罗斯服务器为高级解锁
   - 2013年—《[-{zh-hans:收获日;
-    zh-hant:劫薪日;}-2](https://zh.wikipedia.org/wiki/劫薪日2 "wikilink")》（Payday
+    zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》（Payday
     2）：型號為加利爾7.62 ARM及加利爾狙擊型（使用狙擊手前握把及狙擊手槍托後），命名為「Gecko
     7.62」，奇怪的可裝填30發子彈。
   - 2014年—《》（Insurgency）：型號為加利爾5.56 ARM，有著兩種版本：
@@ -279,10 +279,10 @@ AR式步槍\]\]
     AR（不具備[提把和](https://zh.wikipedia.org/wiki/提把 "wikilink")[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")），命名為「ARM」，歸類為突擊步槍，50+1發[彈匣](../Page/彈匣.md "wikilink")，被警匪兩方操作者（Operator）所使用，需完成「操作者集團」後解鎖。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro
     T1、SRS 02、[Comp
     M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍）
-    、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
+    、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
   - 2018年—《[-{zh-hans:使命召唤：黑色行动; zh-hant:決勝時刻：黑色行動; zh-cn:使命召唤：黑色行动;
     zh-tw:決勝時刻：黑暗行動; zh-hk:使命召喚：黑色行動;
-    zh-mo:使命召喚：黑色行動;}-4](https://zh.wikipedia.org/wiki/使命召唤：黑色行动4 "wikilink")》（Call
+    zh-mo:使命召喚：黑色行動;}-4](../Page/使命召唤：黑色行动4.md "wikilink")》（Call
     of Duty: Black Ops 4）：型號為加利爾5.56 ARM，命名為“Grav”。
 
 ### 动漫
@@ -296,7 +296,7 @@ AR式步槍\]\]
 
 ## 參見
 
-  - [加利爾狙擊型](https://zh.wikipedia.org/wiki/IMI加利爾狙擊型步槍 "wikilink")
+  - [加利爾狙擊型](../Page/IMI加利爾狙擊型步槍.md "wikilink")
   - [IWI加利爾ACE](../Page/IWI加利爾ACE突擊步槍.md "wikilink")
   - [AK-47](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")
   - [M16突擊步槍](../Page/M16突擊步槍.md "wikilink")
@@ -307,7 +307,7 @@ AR式步槍\]\]
   - [FARA-83突擊步槍](../Page/FARA-83突擊步槍.md "wikilink")
   - [APS-95突擊步槍](../Page/APS-95突擊步槍.md "wikilink")
   - [SIG SG 540](../Page/SIG_SG_540突擊步槍.md "wikilink")
-  - [各國軍隊制式步槍列表](https://zh.wikipedia.org/wiki/各國軍隊制式步槍列表 "wikilink")
+  - [各國軍隊制式步槍列表](../Page/各國軍隊制式步槍列表.md "wikilink")
 
 ## 參考文獻
 

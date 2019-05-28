@@ -43,12 +43,12 @@ Star第二季的冠軍才氣兄妹組合[樂童音樂家選擇與YG簽約並在]
 IS
 NEXT](../Page/WIN.md "wikilink")》進行選拔淘汰賽\[4\]。這也是繼[BIGBANG之後再次推出的男子組合](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")。獲勝的隊伍將會以團名[WINNER出道](../Page/WINNER.md "wikilink")。2014年8月17日，[WINNER正式出道](../Page/WINNER.md "wikilink")。同年，生存節目《[MIX
 &
-MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")》的最後勝利者將會以[iKON身份出道](https://zh.wikipedia.org/wiki/iKON "wikilink")\[5\]。2015年9月15日，[iKON組合出道](https://zh.wikipedia.org/wiki/iKON "wikilink")\[6\]。
+MATCH](../Page/MIX_&_MATCH.md "wikilink")》的最後勝利者將會以[iKON身份出道](https://zh.wikipedia.org/wiki/iKON "wikilink")\[5\]。2015年9月15日，[iKON組合出道](https://zh.wikipedia.org/wiki/iKON "wikilink")\[6\]。
 
 ### 2016年
 
 2016年4月5日，YG娛樂證實[2NE1的](../Page/2NE1.md "wikilink")[Minzy退出](../Page/孔旻智.md "wikilink")[2NE1](../Page/2NE1.md "wikilink")，組合將會以三人式進行活動\[7\]。5月11日，YG與已解散的90年代當紅男子組合[水晶男孩簽約](../Page/水晶男孩.md "wikilink")，再次重啟活動\[8\]。8月8日，繼[2NE1時隔](../Page/2NE1.md "wikilink")7年後而推出的新人女團[BLACKPINK以數碼單曲雙主打出道](../Page/BLACKPINK.md "wikilink")\[9\]。11月25日，YG娛樂宣布[2NE1正式解散](../Page/2NE1.md "wikilink")，因合約到期朴春不續約，CL和Dara則續約。在同日也宣布所屬組合[WINNER成員南太鉉正式退出](../Page/WINNER.md "wikilink")[WINNER](../Page/WINNER.md "wikilink")\[10\]。2017年2月9日[BIGBANG成員](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")[T.O.P.入伍](../Page/T.O.P..md "wikilink")，於年末「[Last
-Dance](https://zh.wikipedia.org/wiki/Last_Dance巡迴演唱會 "wikilink")」巡迴演唱會終場演出後，[G-Dragon於](../Page/G-Dragon.md "wikilink")2月27日\[11\]、太陽於3月12日、大聲於3月13日相繼入伍\[12\]，BIGBANG在2018年正式暫停所有演藝活動。2017年10月29日推出自製選秀綜藝節目《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，最終勝出的少年隊TOP9成員，因節目收視率不如預期，YG娛樂5月3日證實《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》的少年隊取消出道計劃\[13\]。2018年1月25日，[iKON發行了第二張正規專輯](https://zh.wikipedia.org/wiki/iKON "wikilink")《Return》，其主打歌《LOVE
+Dance](../Page/Last_Dance巡迴演唱會.md "wikilink")」巡迴演唱會終場演出後，[G-Dragon於](../Page/G-Dragon.md "wikilink")2月27日\[11\]、太陽於3月12日、大聲於3月13日相繼入伍\[12\]，BIGBANG在2018年正式暫停所有演藝活動。2017年10月29日推出自製選秀綜藝節目《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，最終勝出的少年隊TOP9成員，因節目收視率不如預期，YG娛樂5月3日證實《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》的少年隊取消出道計劃\[13\]。2018年1月25日，[iKON發行了第二張正規專輯](https://zh.wikipedia.org/wiki/iKON "wikilink")《Return》，其主打歌《LOVE
 SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一位達41日\[14\]，突破近十年來韓國樂壇史的最長紀錄\[15\]。
 
 ### 2017年
@@ -86,10 +86,9 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 #### 企劃組合
 
   - [GD\&TOP](../Page/GD&TOP.md "wikilink")
-  - [GD X
-    TAEYANG](https://zh.wikipedia.org/wiki/GD_X_TAEYANG "wikilink")
+  - [GD X TAEYANG](../Page/GD_X_TAEYANG.md "wikilink")
   - [HI秀賢](../Page/HI秀賢.md "wikilink")
-  - [MOBB](https://zh.wikipedia.org/wiki/MOBB "wikilink")
+  - [MOBB](../Page/MOBB.md "wikilink")
 
 #### 個人歌手
 
@@ -111,7 +110,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
       - [李秀贤](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")
   - [ONE](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")
   - [BLACKPINK](../Page/BLACKPINK.md "wikilink")
-      - [Jennie](https://zh.wikipedia.org/wiki/Jennie_\(韓國歌手\) "wikilink")
+      - [Jennie](../Page/Jennie_\(韓國歌手\).md "wikilink")
 
 #### 製作人
 
@@ -149,7 +148,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
   -
   - [hyukoh](https://zh.wikipedia.org/wiki/hyukoh "wikilink")
 
-  - [吳赫](https://zh.wikipedia.org/wiki/吳赫 "wikilink") (hyukoh主唱)
+  - [吳赫](../Page/吳赫.md "wikilink") (hyukoh主唱)
 
   - Punchnello
 
@@ -163,7 +162,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 
 #### THE BLACK LABEL
 
-  - [泰迪·朴](https://zh.wikipedia.org/wiki/泰迪·朴 "wikilink")（製作人）\[27\]
+  - [泰迪·朴](../Page/泰迪·朴.md "wikilink")（製作人）\[27\]
 
   - [Zion.T](../Page/Zion.T.md "wikilink")
 
@@ -211,7 +210,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
   - [林藝真](../Page/林藝真.md "wikilink")
   - [張鉉誠](../Page/張鉉誠.md "wikilink")
   - [鄭慧英](../Page/鄭慧英.md "wikilink")
-  - [徐正妍](https://zh.wikipedia.org/wiki/徐正妍 "wikilink")
+  - [徐正妍](../Page/徐正妍.md "wikilink")
   - [孫浩俊](https://zh.wikipedia.org/wiki/孫浩俊 "wikilink")
   - [李龍宇](../Page/李龍宇.md "wikilink")
   - [李洙赫](../Page/李洙赫.md "wikilink")
@@ -220,7 +219,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
   - [姜昇润](https://zh.wikipedia.org/wiki/姜昇润 "wikilink")
   - [金希庭](../Page/金希庭.md "wikilink")
   - [金秦禹](../Page/金秦禹.md "wikilink")
-  - [黃勝妍](https://zh.wikipedia.org/wiki/黃勝妍 "wikilink")
+  - [黃勝妍](../Page/黃勝妍.md "wikilink")
   - [景收真](../Page/景收真.md "wikilink")
   - [鄭帝元](https://zh.wikipedia.org/wiki/鄭帝元 "wikilink")
   - [李夏恩](https://zh.wikipedia.org/wiki/李夏恩 "wikilink")（YGKPlus）
@@ -240,14 +239,14 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 ### 藝人
 
   - [朴山多拉](https://zh.wikipedia.org/wiki/朴山多拉 "wikilink")（前[2NE1成員](../Page/2NE1.md "wikilink")）
-  - [柳炳宰](https://zh.wikipedia.org/wiki/柳炳宰 "wikilink")
-  - [安英美](https://zh.wikipedia.org/wiki/安英美 "wikilink")
-  - [權玄彬](https://zh.wikipedia.org/wiki/權玄彬 "wikilink")（[YG K
-    Plus](https://zh.wikipedia.org/wiki/YG_K_Plus "wikilink")）
+  - [柳炳宰](../Page/柳炳宰.md "wikilink")
+  - [安英美](../Page/安英美.md "wikilink")
+  - [權玄彬](../Page/權玄彬.md "wikilink")（[YG K
+    Plus](../Page/YG_K_Plus.md "wikilink")）
 
 ### 運動員（YG Sports）
 
-  - [孫世恩](https://zh.wikipedia.org/wiki/孫世恩 "wikilink")：職業高爾夫球選手
+  - [孫世恩](../Page/孫世恩.md "wikilink")：職業高爾夫球選手
   - 金孝周：職業高爾夫球選手
   - 李東敏：職業高爾夫球選手
   - Byun Jin-Jae：職業高爾夫球選手
@@ -259,9 +258,8 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 
 <!-- end list -->
 
-  - [金宗燮](https://zh.wikipedia.org/wiki/金宗燮 "wikilink")\[28\]（[K-pop
-    Star
-    6](https://zh.wikipedia.org/wiki/K-pop_Star_6 "wikilink")、[YG寶石盒](../Page/YG寶石盒.md "wikilink")）
+  - [金宗燮](../Page/金宗燮.md "wikilink")\[28\]（[K-pop Star
+    6](../Page/K-pop_Star_6.md "wikilink")、[YG寶石盒](../Page/YG寶石盒.md "wikilink")）
   - [王君豪](../Page/王君豪.md "wikilink")（[YG寶石盒](../Page/YG寶石盒.md "wikilink")、[PRODUCE
     X 101](../Page/PRODUCE_X_101.md "wikilink")）
   - Mahiro（[YG寶石盒](../Page/YG寶石盒.md "wikilink")、[PRODUCE X
@@ -309,10 +307,9 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 
   - [JC지은](https://zh.wikipedia.org/wiki/JC지은 "wikilink")（2007年5月－2009年9月,YG）
 
-  - [Masta
-    Wu](https://zh.wikipedia.org/wiki/Masta_Wu "wikilink")（2000－2016年）\[30\]
+  - [Masta Wu](../Page/Masta_Wu.md "wikilink")（2000－2016年）\[30\]
 
-  - [南太鉉](https://zh.wikipedia.org/wiki/南太鉉 "wikilink")（2014－2016年）\[31\]
+  - [南太鉉](../Page/南太鉉.md "wikilink")（2014－2016年）\[31\]
 
   - [PSY](../Page/PSY.md "wikilink")（2010－2018年）\[32\]
 
@@ -329,11 +326,11 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
   - [姜惠貞](../Page/姜惠貞.md "wikilink")（1997－2013年）
   - [朴韓星](../Page/朴韓星.md "wikilink")
   - [具惠善](../Page/具惠善.md "wikilink")（2003－2017年）\[34\]
-  - [鄭釉珍](https://zh.wikipedia.org/wiki/鄭釉珍 "wikilink")（2008－2018年）
+  - [鄭釉珍](../Page/鄭釉珍.md "wikilink")（2008－2018年）
   - [史蒂芬妮·李](https://zh.wikipedia.org/wiki/史蒂芬妮·李 "wikilink")（2014－2017年）
   - [李鍾碩](../Page/李鍾碩.md "wikilink")（2016－2018年）\[35\]
   - [高準熹](../Page/高準熹.md "wikilink")（2017－2019年）\[36\]
-  - [吳尚津](https://zh.wikipedia.org/wiki/吳尚津 "wikilink")（2017－2019年）\[37\]
+  - [吳尚津](../Page/吳尚津.md "wikilink")（2017－2019年）\[37\]
 
 <!-- end list -->
 
@@ -365,7 +362,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
   - [鄭有津](https://zh.wikipedia.org/wiki/S#afla "wikilink")（[S\#afla](https://zh.wikipedia.org/wiki/S#afla "wikilink")）
   - [李珠京](https://zh.wikipedia.org/wiki/MyB "wikilink")（[MyB](https://zh.wikipedia.org/wiki/MyB "wikilink")）
   - [瑞淵](https://zh.wikipedia.org/wiki/李瑞淵 "wikilink")（[fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")）
-  - [美延](https://zh.wikipedia.org/wiki/曹美延 "wikilink")（[(G)I-DLE](https://zh.wikipedia.org/wiki/\(G\)I-DLE "wikilink")）
+  - [美延](https://zh.wikipedia.org/wiki/曹美延 "wikilink")（[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")）
   - [金宥娜](https://zh.wikipedia.org/wiki/金宥娜 "wikilink")\[42\]（[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")）
   - [Jun.
     K](https://zh.wikipedia.org/wiki/金閔俊 "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）
@@ -388,7 +385,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
   - [張賢勝](../Page/張賢勝.md "wikilink")
   - [鄭鎮馨](https://zh.wikipedia.org/wiki/鄭鎮馨 "wikilink")
   - [凱蒂·金](https://zh.wikipedia.org/wiki/凱蒂·金 "wikilink")\[43\]
-  - [柳珠伊](https://zh.wikipedia.org/wiki/Cosmic_Girl "wikilink")\[44\]
+  - [柳珠伊](../Page/Cosmic_Girl.md "wikilink")\[44\]
   - [金保亨](../Page/金保亨.md "wikilink")
   - [金常彬](https://zh.wikipedia.org/wiki/金常彬 "wikilink")（藝名：BIL）
 
@@ -407,14 +404,14 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 
 <!-- end list -->
 
-  - 《[少年24](https://zh.wikipedia.org/wiki/BOYS24 "wikilink")》
+  - 《[少年24](../Page/BOYS24.md "wikilink")》
       - 李滄珉
-      - [金成賢](https://zh.wikipedia.org/wiki/金成賢 "wikilink")（[IN2IT](https://zh.wikipedia.org/wiki/IN2IT "wikilink")）
+      - [金成賢](../Page/金成賢.md "wikilink")（[IN2IT](../Page/IN2IT.md "wikilink")）
       - 吳振碩
   - 《[PRODUCE 101
     S2](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》
       - 金常彬
-  - 《[PRODUCE 48](https://zh.wikipedia.org/wiki/PRODUCE_48 "wikilink")》
+  - 《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》
       - 朴珍熙 Jinny Park
       - 朴書英 Park Seo Young
   - 《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》
@@ -438,7 +435,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 
 <!-- end list -->
 
-  - [朴賢鎮](https://zh.wikipedia.org/wiki/朴賢鎮 "wikilink")
+  - [朴賢鎮](../Page/朴賢鎮.md "wikilink")
   - Denise Kim
   - [文秀雅](../Page/文秀雅.md "wikilink")
   - 張漢娜
@@ -457,8 +454,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
   - 2013年
       - [WIN: Who is next?](../Page/WIN.md "wikilink")
   - 2014年
-      - [MIX &
-        MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")
+      - [MIX & MATCH](../Page/MIX_&_MATCH.md "wikilink")
   - 2017年
       - [MIX NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")
   - 2018年
@@ -470,9 +466,9 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
       - [花樣旅行](../Page/花樣旅行.md "wikilink")
   - 2017年
       - 水晶男孩 無本質青春旅行
-      - [違反校規的修學旅行](https://zh.wikipedia.org/wiki/違反校規的修學旅行 "wikilink")
+      - [違反校規的修學旅行](../Page/違反校規的修學旅行.md "wikilink")
   - 2018年
-      - [善良地活吧](https://zh.wikipedia.org/wiki/善良地活吧 "wikilink")\[46\]
+      - [善良地活吧](../Page/善良地活吧.md "wikilink")\[46\]
       - [YG戰略資料室](../Page/YG戰略資料室.md "wikilink")\[47\]
 
 ### 電視劇

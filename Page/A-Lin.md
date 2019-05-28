@@ -43,7 +43,7 @@ Grace](https://zh.wikipedia.org/wiki/Amazing_Grace "wikilink")》時被她的前
 
 2016年1月9日，她再次登上[台視大型除夕特別節目](https://zh.wikipedia.org/wiki/台視 "wikilink")《2016[超級巨星紅白藝能大賞](../Page/超級巨星紅白藝能大賞.md "wikilink")》演出；有別於第一次僅60[秒的演出](../Page/秒.md "wikilink")，她率領編制多達38人的[管弦樂團連續演唱四首歌曲](../Page/管弦樂團.md "wikilink")\[26\]。同年1月24日，第11屆KKBOX數位音樂風雲榜頒獎典禮於臺北小巨蛋舉行，A-Lin獲得2016「年度十大風雲歌手」獎項，為連續第六次獲得該獎項\[27\]。同年3月，A-Lin-2016《聲吶》世界巡演繼續啟動。同年3月12、13日，A-Lin第二度站上香港紅磡體育館舉辦《聲吶》世界巡演，並且創下個人於香港首次因門票迅速銷售一空而連開兩場大型演唱會的紀錄。同年3月19日，她首次站上[高雄巨蛋舉辦個人演唱會](https://zh.wikipedia.org/wiki/高雄巨蛋 "wikilink")。同年8月，A-Lin再度登上臺北小巨蛋，並於24小時內完成兩場《聲吶》世界巡演（回聲限定場）\[28\]。
 
-2017年4月，A-Lin參與[江蘇衛視](https://zh.wikipedia.org/wiki/江蘇衛視 "wikilink")《[金曲捞](https://zh.wikipedia.org/wiki/金曲捞 "wikilink")》節目錄製，並於第二、七、九期擔任喚醒歌手，分別演唱《[永遠有多遠](https://zh.wikipedia.org/wiki/永遠有多遠 "wikilink")》、《[愛的可能](https://zh.wikipedia.org/wiki/愛的可能 "wikilink")》、《[空窗](https://zh.wikipedia.org/wiki/空窗 "wikilink")》等多首經典歌曲。同年6月4日，她於[山東衛視](https://zh.wikipedia.org/wiki/山東衛視 "wikilink")《[超強音浪](https://zh.wikipedia.org/wiki/超強音浪 "wikilink")》第二季第十期節目擔任[嘉賓](https://zh.wikipedia.org/wiki/嘉賓 "wikilink")。
+2017年4月，A-Lin參與[江蘇衛視](https://zh.wikipedia.org/wiki/江蘇衛視 "wikilink")《[金曲捞](../Page/金曲捞.md "wikilink")》節目錄製，並於第二、七、九期擔任喚醒歌手，分別演唱《[永遠有多遠](https://zh.wikipedia.org/wiki/永遠有多遠 "wikilink")》、《[愛的可能](https://zh.wikipedia.org/wiki/愛的可能 "wikilink")》、《[空窗](https://zh.wikipedia.org/wiki/空窗 "wikilink")》等多首經典歌曲。同年6月4日，她於[山東衛視](https://zh.wikipedia.org/wiki/山東衛視 "wikilink")《[超強音浪](https://zh.wikipedia.org/wiki/超強音浪 "wikilink")》第二季第十期節目擔任[嘉賓](https://zh.wikipedia.org/wiki/嘉賓 "wikilink")。
 
 2017年A-Lin推出同名專輯《A-LIN》，並以短髮造型現身，在接受《女人迷》專訪時透露，短髮是為了一位因為腦瘤要開刀的歌迷而剪，並在與那位歌迷相見時說：「因為你我剪了這個短髮，因為你，我要跟你一樣勇敢，去做自己。」\[29\]
 
@@ -113,7 +113,7 @@ Grace](https://zh.wikipedia.org/wiki/Amazing_Grace "wikilink")》時被她的前
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>8</p></td>
-<td style="text-align: center;"><p><strong><a href="https://zh.wikipedia.org/wiki/A-Lin_(專輯)" title="wikilink">A-Lin</a></strong></p></td>
+<td style="text-align: center;"><p><strong><a href="../Page/A-Lin_(專輯).md" title="wikilink">A-Lin</a></strong></p></td>
 <td style="text-align: center;"><p>2017-09-20</p></td>
 <td style="text-align: center;"><p><a href="../Page/台灣索尼音樂娛樂.md" title="wikilink">台灣索尼音樂娛樂</a></p></td>
 <td style="text-align: center;"></td>
@@ -340,14 +340,14 @@ BASSETT、DAVE</p></td>
 <td><p>2018-11-19</p></td>
 <td><p>林喬、劉恩汛</p></td>
 <td><p>田昌燁（JCY）、趙南郁</p></td>
-<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/守護神之保險調查" title="wikilink">守護神之保險調查</a>》國語主題曲（<a href="../Page/種子音樂.md" title="wikilink">種子音樂代理發行</a>）</p></td>
+<td><p>電視劇《<a href="../Page/守護神之保險調查.md" title="wikilink">守護神之保險調查</a>》國語主題曲（<a href="../Page/種子音樂.md" title="wikilink">種子音樂代理發行</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>世世</p></td>
 <td><p>2018-11-26</p></td>
 <td><p><a href="../Page/陳心遙.md" title="wikilink">陳心遙</a></p></td>
 <td><p>田昌燁（JCY）、趙南郁</p></td>
-<td><p>電視劇《<a href="https://zh.wikipedia.org/wiki/守護神之保險調查" title="wikilink">守護神之保險調查</a>》粵語主題曲（<a href="../Page/種子音樂.md" title="wikilink">種子音樂代理發行</a>）</p></td>
+<td><p>電視劇《<a href="../Page/守護神之保險調查.md" title="wikilink">守護神之保險調查</a>》粵語主題曲（<a href="../Page/種子音樂.md" title="wikilink">種子音樂代理發行</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>未完的眷戀</p></td>
@@ -466,7 +466,7 @@ Pedersen</p></td>
 </tr>
 <tr class="even">
 <td><p>你點的歌救了我</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/J.Sheon" title="wikilink">J.Sheon</a></p></td>
+<td><p><a href="../Page/J.Sheon.md" title="wikilink">J.Sheon</a></p></td>
 <td><p>2017-08-07</p></td>
 <td><p>作詞：李焯雄<br />
 Rap詞：J.Sheon</p></td>
@@ -594,7 +594,7 @@ Rap詞：J.Sheon</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
 <td><p>I'm A-Lin新歌演唱會</p></td>
 <td><p>松菸一號倉庫</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/J.Sheon" title="wikilink">J.Sheon</a></p></td>
+<td><p><a href="../Page/J.Sheon.md" title="wikilink">J.Sheon</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

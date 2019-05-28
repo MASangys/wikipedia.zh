@@ -553,7 +553,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 <tr class="odd">
 <td><p>2014</p></td>
 <td><p>唱片部門－本賞</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a>》</p></td>
+<td><p>《<a href="../Page/Mamacita.md" title="wikilink">Mamacita</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -577,7 +577,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 <tr class="odd">
 <td><p>2017</p></td>
 <td><p>唱片部門－本賞</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Play_(Super_Junior專輯)" title="wikilink">Play</a>》</p></td>
+<td><p>《<a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">Play</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -670,7 +670,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 <tr class="even">
 <td><p>2014</p></td>
 <td><p>本賞</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a>》</p></td>
+<td><p>《<a href="../Page/Mamacita.md" title="wikilink">Mamacita</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -714,13 +714,13 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 </tr>
 <tr class="even">
 <td><p>第三季度專輯獎</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a>》</p></td>
+<td><p>《<a href="../Page/Mamacita.md" title="wikilink">Mamacita</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第四季度專輯獎</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">This Is Love</a>》</p></td>
+<td><p>《<a href="../Page/Mamacita.md" title="wikilink">This Is Love</a>》</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1669,12 +1669,12 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/IFPI香港唱片銷量大獎頒獎禮2014#最暢銷日韓語唱片" title="wikilink">2014</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a></p></td>
+<td><p><a href="../Page/Mamacita.md" title="wikilink">Mamacita</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">This Is Love</a></p></td>
+<td><p><a href="../Page/Mamacita.md" title="wikilink">This Is Love</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2008,7 +2008,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 <tr class="odd">
 <td><p>2015[30]</p></td>
 <td><p>年度日亞歌曲獎</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a>》</p></td>
+<td><p>《<a href="../Page/Mamacita.md" title="wikilink">Mamacita</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -2433,7 +2433,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 </tr>
 <tr class="even">
 <td><p>Best Music Video</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">Mamacita</a></em></p></td>
+<td><p><em><a href="../Page/Mamacita.md" title="wikilink">Mamacita</a></em></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2445,7 +2445,7 @@ Junior分別佔據第一、三、四、五、八名，在年終結算佔據了�
 </tr>
 <tr class="even">
 <td><p>Album of the Year</p></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/Mamacita" title="wikilink">This Is Love</a></em></p></td>
+<td><p><em><a href="../Page/Mamacita.md" title="wikilink">This Is Love</a></em></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2529,7 +2529,7 @@ Show](https://zh.wikipedia.org/wiki/The_Show "wikilink")。
 | 2012年  | 7月10日                                                                             | [Sexy, Free & Single](../Page/Sexy,_Free_&_Single.md "wikilink") |
 | 7月17日  |                                                                                   |                                                                  |
 | 7月24日  |                                                                                   |                                                                  |
-| 2014年  | 9月10日                                                                             | [Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink")    |
+| 2014年  | 9月10日                                                                             | [Mamacita](../Page/Mamacita.md "wikilink")                       |
 | 9月17日  |                                                                                   |                                                                  |
 | 11月26日 | [在光化門](../Page/在光化門.md "wikilink")<small>（[圭賢](../Page/圭賢.md "wikilink")）</small> |                                                                  |
 
@@ -2549,7 +2549,7 @@ Show](https://zh.wikipedia.org/wiki/The_Show "wikilink")。
 | 2012年  | 7月12日                                                                             | [Sexy, Free & Single](../Page/Sexy,_Free_&_Single.md "wikilink") |
 | 7月19日  |                                                                                   |                                                                  |
 | 7月26日  |                                                                                   |                                                                  |
-| 2014年  | 9月11日                                                                             | [Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink")    |
+| 2014年  | 9月11日                                                                             | [Mamacita](../Page/Mamacita.md "wikilink")                       |
 | 11月20日 | [在光化門](../Page/在光化門.md "wikilink")<small>（[圭賢](../Page/圭賢.md "wikilink")）</small> |                                                                  |
 | 11月27日 |                                                                                   |                                                                  |
 
@@ -2575,41 +2575,41 @@ Show](https://zh.wikipedia.org/wiki/The_Show "wikilink")。
 | 12月23日 | [Mr. Simple](../Page/Mr._Simple.md "wikilink")<small>（年終結算：8位）</small>            |                                                                                                                                         |
 | 2012年  | 7月20日                                                                             | [Sexy, Free & Single](../Page/Sexy,_Free_&_Single.md "wikilink")                                                                        |
 | 7月27日  |                                                                                   |                                                                                                                                         |
-| 2014年  | 9月12日                                                                             | [Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink")                                                                           |
+| 2014年  | 9月12日                                                                             | [Mamacita](../Page/Mamacita.md "wikilink")                                                                                              |
 | 9月19日  |                                                                                   |                                                                                                                                         |
 | 11月21日 | [在光化門](../Page/在光化門.md "wikilink")<small>（[圭賢](../Page/圭賢.md "wikilink")）</small> |                                                                                                                                         |
 | 2015年  | 3月20日                                                                             | [Growing Pains](../Page/The_Beat_Goes_On.md "wikilink")<small>（[SJ-D\&E](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")）</small> |
 
 ### Show\! 音樂中心
 
-| 年份     | 日期                                                                                | 歌曲                                                            |
-| ------ | --------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| 2014年  | 9月13日                                                                             | [Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink") |
-| 9月20日  |                                                                                   |                                                               |
-| 11月22日 | [在光化門](../Page/在光化門.md "wikilink")<small>（[圭賢](../Page/圭賢.md "wikilink")）</small> |                                                               |
+| 年份     | 日期                                                                                | 歌曲                                         |
+| ------ | --------------------------------------------------------------------------------- | ------------------------------------------ |
+| 2014年  | 9月13日                                                                             | [Mamacita](../Page/Mamacita.md "wikilink") |
+| 9月20日  |                                                                                   |                                            |
+| 11月22日 | [在光化門](../Page/在光化門.md "wikilink")<small>（[圭賢](../Page/圭賢.md "wikilink")）</small> |                                            |
 
 ### 人氣歌謠
 
-| 年份    | 日期                                         | 歌曲                                                            |
-| ----- | ------------------------------------------ | ------------------------------------------------------------- |
-| 2006年 | 6月25日                                      | [U](../Page/U_\(Super_Junior單曲\).md "wikilink")               |
-| 7月9日  |                                            |                                                               |
-| 7月16日 |                                            |                                                               |
-| 8月20日 | Dancing Out                                |                                                               |
-| 2007年 | 10月21日                                     | [Don't Don](../Page/Don't_Don.md "wikilink")                  |
-| 2009年 | 3月29日                                      | [Sorry, Sorry](../Page/Sorry,_Sorry.md "wikilink")            |
-| 4月5日  |                                            |                                                               |
-| 4月12日 |                                            |                                                               |
-| 6月7日  | [It's You](../Page/It's_You.md "wikilink") |                                                               |
-| 2010年 | 5月30日                                      | [Bonamana](../Page/美人啊.md "wikilink")                         |
-| 6月6日  |                                            |                                                               |
-| 6月13日 |                                            |                                                               |
-| 7月11日 | [No Other](../Page/美人啊.md "wikilink")      |                                                               |
-| 2011年 | 8月21日                                      | [Mr. Simple](../Page/Mr._Simple.md "wikilink")                |
-| 8月28日 |                                            |                                                               |
-| 9月4日  |                                            |                                                               |
-| 2014年 | 9月14日                                      | [Mamacita](https://zh.wikipedia.org/wiki/Mamacita "wikilink") |
-| 9月21日 |                                            |                                                               |
+| 年份    | 日期                                         | 歌曲                                                 |
+| ----- | ------------------------------------------ | -------------------------------------------------- |
+| 2006年 | 6月25日                                      | [U](../Page/U_\(Super_Junior單曲\).md "wikilink")    |
+| 7月9日  |                                            |                                                    |
+| 7月16日 |                                            |                                                    |
+| 8月20日 | Dancing Out                                |                                                    |
+| 2007年 | 10月21日                                     | [Don't Don](../Page/Don't_Don.md "wikilink")       |
+| 2009年 | 3月29日                                      | [Sorry, Sorry](../Page/Sorry,_Sorry.md "wikilink") |
+| 4月5日  |                                            |                                                    |
+| 4月12日 |                                            |                                                    |
+| 6月7日  | [It's You](../Page/It's_You.md "wikilink") |                                                    |
+| 2010年 | 5月30日                                      | [Bonamana](../Page/美人啊.md "wikilink")              |
+| 6月6日  |                                            |                                                    |
+| 6月13日 |                                            |                                                    |
+| 7月11日 | [No Other](../Page/美人啊.md "wikilink")      |                                                    |
+| 2011年 | 8月21日                                      | [Mr. Simple](../Page/Mr._Simple.md "wikilink")     |
+| 8月28日 |                                            |                                                    |
+| 9月4日  |                                            |                                                    |
+| 2014年 | 9月14日                                      | [Mamacita](../Page/Mamacita.md "wikilink")         |
+| 9月21日 |                                            |                                                    |
 
 ### The Show
 
@@ -2996,7 +2996,7 @@ Show](https://zh.wikipedia.org/wiki/The_Show "wikilink")。
 <tr class="odd">
 <td><p><strong>2014</strong></p></td>
 <td><p>新城國語力歌曲獎</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Swing_(SJM迷你專輯)" title="wikilink">Swing</a>》</p></td>
+<td><p>《<a href="../Page/Swing_(SJM迷你專輯).md" title="wikilink">Swing</a>》</p></td>
 <td></td>
 </tr>
 </tbody>

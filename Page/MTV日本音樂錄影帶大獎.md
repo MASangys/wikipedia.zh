@@ -30,7 +30,7 @@ Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
 <td><p>第3屆</p></td>
 <td><p>2004年5月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/東京灣NK大會堂" title="wikilink">東京灣NK大會堂</a>（東京ベイNKホール）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山口智充" title="wikilink">山口智充</a></p></td>
+<td><p><a href="../Page/山口智充.md" title="wikilink">山口智充</a></p></td>
 </tr>
 <tr class="even">
 <td><p>第4屆</p></td>
@@ -146,7 +146,7 @@ Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
 | 第13屆 | 2014年 | [放浪兄弟](../Page/放浪兄弟.md "wikilink")《[放浪榮耀 ～因為如此深愛這世界～](../Page/放浪榮耀_～因為如此深愛這世界～.md "wikilink")》                                                                              |
 | 第14屆 | 2015年 | [三代目 J Soul Brothers from EXILE TRIBE](../Page/J_Soul_Brothers.md "wikilink")《[Eeny, meeny, miny, moe\!](https://zh.wikipedia.org/wiki/Eeny,_meeny,_miny,_moe! "wikilink")》 |
 | 第15屆 | 2016年 | [宇多田光](../Page/宇多田光.md "wikilink")《[真夏の通り雨](https://zh.wikipedia.org/wiki/真夏の通り雨 "wikilink")》                                                                               |
-| 第16屆 | 2017年 | [星野源](https://zh.wikipedia.org/wiki/星野源 "wikilink")《Family Song》                                                                                                            |
+| 第16屆 | 2017年 | [星野源](../Page/星野源.md "wikilink")《Family Song》                                                                                                                               |
 |      |       |                                                                                                                                                                             |
 
 ### 最佳男女藝人音樂錄影帶獎
@@ -245,7 +245,7 @@ Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
 <tr class="odd">
 <td><p>第14屆</p></td>
 <td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a><br />
+<td><p><a href="../Page/星野源.md" title="wikilink">星野源</a><br />
 《SUN》</p></td>
 </tr>
 <tr class="even">
@@ -257,7 +257,7 @@ Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
 <tr class="odd">
 <td><p>第16屆</p></td>
 <td><p>2017年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/星野源" title="wikilink">星野源</a> 《Family Song》</p></td>
+<td><p><a href="../Page/星野源.md" title="wikilink">星野源</a> 《Family Song》</p></td>
 </tr>
 <tr class="even">
 <td><p>第17屆</p></td>
@@ -393,7 +393,7 @@ Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
 | 第10屆 | 2011年 | [艾薇兒·拉維尼](../Page/艾薇兒·拉維尼.md "wikilink") 《[Alice](../Page/Alice.md "wikilink")》                                                                           | 《[魔境夢遊](../Page/魔境夢遊.md "wikilink")》                                  |
 | 第11屆 | 2012年 | [BUMP OF CHICKEN](../Page/BUMP_OF_CHICKEN.md "wikilink") 《グッドラック》                                                                                         | 《[永遠的三丁目的夕陽](../Page/永遠的三丁目的夕陽.md "wikilink")'64》                     |
 | 第12屆 | 2013年 | [ONE OK ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink") 《The Beginning》                                                                       | 《[神劍闖江湖](https://zh.wikipedia.org/wiki/神劍闖江湖_\(2012年電影\) "wikilink")》 |
-| 第13屆 | 2014年 | [星野源](https://zh.wikipedia.org/wiki/星野源 "wikilink") 《Why don't you play in hell?》                                                                         | 《[地獄開麥拉](https://zh.wikipedia.org/wiki/地獄開麥拉 "wikilink")》             |
+| 第13屆 | 2014年 | [星野源](../Page/星野源.md "wikilink") 《Why don't you play in hell?》                                                                                            | 《[地獄開麥拉](https://zh.wikipedia.org/wiki/地獄開麥拉 "wikilink")》             |
 
 ### 最佳新人音樂錄影帶獎
 
@@ -433,8 +433,8 @@ Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
 | 第11屆 | 2012年 | [ONE OK ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")《アンサイズニア》              |
 | 第12屆 | 2013年 | [ONE OK ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")《The Beginning》        |
 | 第13屆 | 2014年 | [ONE OK ROCK](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")《Be The Light》         |
-| 第15屆 | 2016年 | [\[Alexandros](https://zh.wikipedia.org/wiki/［Alexandros］ "wikilink")\]《Swan》             |
-| 第16屆 | 2017年 | [WANIMA](https://zh.wikipedia.org/wiki/WANIMA "wikilink")《CHARM》                          |
+| 第15屆 | 2016年 | [\[Alexandros](../Page/［Alexandros］.md "wikilink")\]《Swan》                                |
+| 第16屆 | 2017年 | [WANIMA](../Page/WANIMA.md "wikilink")《CHARM》                                             |
 |      |       |                                                                                           |
 
 ### 最佳流行音樂錄影帶獎
@@ -456,7 +456,7 @@ Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
 | 第13屆 | 2014年 | [Lady Gaga](../Page/Lady_Gaga.md "wikilink")《Applause》                                                         |
 | 第15屆 | 2016年 | [西島隆弘](../Page/西島隆弘.md "wikilink")《Playing With Fire》                                                          |
 | 第16屆 | 2017年 | [ED SHEERAN](../Page/紅髮艾德.md "wikilink")《[Shape of You](https://zh.wikipedia.org/wiki/妳的樣子_\(歌曲\) "wikilink")》 |
-| 第17屆 | 2018年 | [星野源](https://zh.wikipedia.org/wiki/星野源 "wikilink")《[IDEA](https://zh.wikipedia.org/wiki/IDEA "wikilink")》     |
+| 第17屆 | 2018年 | [星野源](../Page/星野源.md "wikilink")《[IDEA](https://zh.wikipedia.org/wiki/IDEA "wikilink")》                        |
 
 ### 最佳節奏藍調音樂錄影帶獎
 
@@ -473,9 +473,9 @@ Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
 | 第10屆 | 2011年 | [蕾哈娜](../Page/蕾哈娜.md "wikilink")《Only Girl (In the World)》                                           |
 | 第11屆 | 2012年 | [加藤ミリヤ](https://zh.wikipedia.org/wiki/加藤ミリヤ "wikilink")《勇者たち》                                        |
 | 第12屆 | 2013年 | [MILIYAH KATO](https://zh.wikipedia.org/wiki/MILIYAH_KATO "wikilink")《LOVERS partII feat.waka-danna》 |
-| 第13屆 | 2014年 | [三浦大知](https://zh.wikipedia.org/wiki/三浦大知 "wikilink")《I'm On Fire》                                   |
-| 第15屆 | 2016年 | [三浦大知](https://zh.wikipedia.org/wiki/三浦大知 "wikilink")《Cry & Fight》                                   |
-| 第16屆 | 2017年 | [三浦大知](https://zh.wikipedia.org/wiki/三浦大知 "wikilink")《(RE)PLAY》                                      |
+| 第13屆 | 2014年 | [三浦大知](../Page/三浦大知.md "wikilink")《I'm On Fire》                                                      |
+| 第15屆 | 2016年 | [三浦大知](../Page/三浦大知.md "wikilink")《Cry & Fight》                                                      |
+| 第16屆 | 2017年 | [三浦大知](../Page/三浦大知.md "wikilink")《(RE)PLAY》                                                         |
 |      |       |                                                                                                      |
 
 ### 最佳嘻哈音樂錄影帶獎
@@ -614,43 +614,43 @@ Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
 
 ### 其他獎項
 
-| 屆數   | 年度    | 獎項                       | 獲獎者                                                                                                                                        |
-| ---- | ----- | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| 第1屆  | 2002年 | 最佳藝人網站                   | [彩虹樂團](https://zh.wikipedia.org/wiki/彩虹樂團 "wikilink")                                                                                      |
-| 第1屆  | 2002年 | 最具啟發精神日本藝人獎              | [安室奈美惠](../Page/安室奈美惠.md "wikilink")                                                                                                       |
-| 第1屆  | 2002年 | 最具啟發精神國際藝人獎              | [Jay-Z](https://zh.wikipedia.org/wiki/Jay-Z "wikilink")                                                                                    |
-| 第1屆  | 2002年 | 亞洲最傑出藝人獎                 | [周杰倫](../Page/周杰倫.md "wikilink")                                                                                                           |
-| 第1屆  | 2002年 | 最佳監督獎                    | 丹下紘希                                                                                                                                       |
-| 第3屆  | 2004年 | 最具突破音樂錄影帶獎               | [中島美嘉](../Page/中島美嘉.md "wikilink")《Love Addict》                                                                                            |
-| 第3屆  | 2004年 | 最令人印象深刻表演獎               | [瑪麗·布萊姬](https://zh.wikipedia.org/wiki/瑪麗·布萊姬 "wikilink")                                                                                  |
-| 第3屆  | 2004年 | 最具啟發精神大獎                 | [珍娜·傑克森](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")                                                                                  |
-| 第3屆  | 2004年 | 最佳藝人網站                   | [屎爛幫](../Page/屎爛幫.md "wikilink")                                                                                                           |
-| 第3屆  | 2004年 | 最佳風格音樂錄影帶獎               | [中島美嘉](../Page/中島美嘉.md "wikilink")《Kiss》                                                                                                   |
-| 第3屆  | 2004年 | 最佳音樂錄影帶導演獎               | [白線條樂團](../Page/白線條樂團.md "wikilink")《The Hardest Button to Button》                                                                         |
-| 第3屆  | 2004年 | 最佳特殊效果音樂錄影帶獎             | [化學兄弟](../Page/化學兄弟.md "wikilink")《Get Yourself High》                                                                                      |
-| 第4屆  | 2005年 | 亞洲最具啟發精神大獎               | [安室奈美惠](../Page/安室奈美惠.md "wikilink")                                                                                                       |
-| 第7屆  | 2008年 | MTV Rock The World Award | [小林武史](../Page/小林武史.md "wikilink")&[櫻井和壽](../Page/櫻井和壽.md "wikilink")                                                                      |
-| 第7屆  | 2008年 | RED HOT AWARD            | [INFINITY 16](https://zh.wikipedia.org/wiki/INFINITY_16 "wikilink")                                                                        |
-| 第8屆  | 2009年 | MTV Street Icon Award    | [Beastie Boys](https://zh.wikipedia.org/wiki/Beastie_Boys "wikilink")                                                                      |
-| 第8屆  | 2009年 | 最佳舞蹈設計獎                  | [放浪兄弟](../Page/放浪兄弟.md "wikilink")                                                                                                         |
-| 第9屆  | 2010年 | MTV Icon Award           | [放浪兄弟](../Page/放浪兄弟.md "wikilink")                                                                                                         |
-| 第9屆  | 2010年 | 最佳音樂錄影帶導演                | Kodama Hirokazu                                                                                                                            |
-| 第13屆 | 2014年 | 最佳舞蹈設計                   | [E-girls](https://zh.wikipedia.org/wiki/E-girls "wikilink")《[滿懷歉意的Kissing You](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")》 |
-| 第13屆 | 2014年 | 最值得分享音樂錄影帶               | [西野加奈](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")《Believe》                                                                             |
-| 第13屆 | 2014年 | Inspiration Award Japan  | [GLAY](../Page/GLAY.md "wikilink")                                                                                                         |
-| 第13屆 | 2014年 | 日本終身成就獎                  | [HIRO](../Page/五十嵐廣行.md "wikilink")                                                                                                        |
-| 第14屆 | 2015年 | 最佳國際男藝人音樂錄影帶獎            | [Pharrell Williams](https://zh.wikipedia.org/wiki/Pharrell_Williams "wikilink")《Freedom》                                                   |
-| 第14屆 | 2015年 | 最佳國際女藝人音樂錄影帶獎            | [Ariana Grande](https://zh.wikipedia.org/wiki/Ariana_Grande "wikilink")《Problem feat.IGGY AZALEA》                                          |
-| 第14屆 | 2015年 | 最佳國際團體音樂錄影帶獎             | [OK GO](https://zh.wikipedia.org/wiki/OK_GO "wikilink")《I Won't Let You Down》                                                              |
-| 第14屆 | 2015年 | 最佳國際新人音樂錄影帶獎             | [YEARS & YEARS](https://zh.wikipedia.org/wiki/YEARS_&_YEARS "wikilink")《King》                                                              |
-| 第14屆 | 2015年 | NEXT BREAK ARTIST        | [Beat Buddy Boi](https://zh.wikipedia.org/wiki/Beat_Buddy_Boi "wikilink")《come again》                                                      |
-| 第15屆 | 2016年 | 年轻人最支持艺人奖                | [藤原樱](../Page/藤原櫻.md "wikilink")                                                                                                           |
-| 第15屆 | 2016年 | 最佳创意奖                    | [THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")                                                                               |
-| 第16屆 | 2017年 | 最佳另类音乐录影带奖               | [レキシ](https://zh.wikipedia.org/wiki/レキシ "wikilink")《KATOKU》                                                                                |
-| 第16屆 | 2017年 | 最佳舞蹈設計                   | [星野源](https://zh.wikipedia.org/wiki/星野源 "wikilink")《[恋](https://zh.wikipedia.org/wiki/恋_\(星野源单曲\) "wikilink")》                             |
-| 第16屆 | 2017年 | 最佳创意奖                    | [BUCK-TICK](https://zh.wikipedia.org/wiki/BUCK-TICK "wikilink")                                                                            |
-| 第16屆 | 2017年 | 最佳BUZZ奖                  | [欅坂46](https://zh.wikipedia.org/wiki/欅坂46 "wikilink")                                                                                      |
-|      |       |                          |                                                                                                                                            |
+| 屆數   | 年度    | 獎項                       | 獲獎者                                                                                                                     |
+| ---- | ----- | ------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| 第1屆  | 2002年 | 最佳藝人網站                   | [彩虹樂團](https://zh.wikipedia.org/wiki/彩虹樂團 "wikilink")                                                                   |
+| 第1屆  | 2002年 | 最具啟發精神日本藝人獎              | [安室奈美惠](../Page/安室奈美惠.md "wikilink")                                                                                    |
+| 第1屆  | 2002年 | 最具啟發精神國際藝人獎              | [Jay-Z](https://zh.wikipedia.org/wiki/Jay-Z "wikilink")                                                                 |
+| 第1屆  | 2002年 | 亞洲最傑出藝人獎                 | [周杰倫](../Page/周杰倫.md "wikilink")                                                                                        |
+| 第1屆  | 2002年 | 最佳監督獎                    | 丹下紘希                                                                                                                    |
+| 第3屆  | 2004年 | 最具突破音樂錄影帶獎               | [中島美嘉](../Page/中島美嘉.md "wikilink")《Love Addict》                                                                         |
+| 第3屆  | 2004年 | 最令人印象深刻表演獎               | [瑪麗·布萊姬](https://zh.wikipedia.org/wiki/瑪麗·布萊姬 "wikilink")                                                               |
+| 第3屆  | 2004年 | 最具啟發精神大獎                 | [珍娜·傑克森](https://zh.wikipedia.org/wiki/珍娜·傑克森 "wikilink")                                                               |
+| 第3屆  | 2004年 | 最佳藝人網站                   | [屎爛幫](../Page/屎爛幫.md "wikilink")                                                                                        |
+| 第3屆  | 2004年 | 最佳風格音樂錄影帶獎               | [中島美嘉](../Page/中島美嘉.md "wikilink")《Kiss》                                                                                |
+| 第3屆  | 2004年 | 最佳音樂錄影帶導演獎               | [白線條樂團](../Page/白線條樂團.md "wikilink")《The Hardest Button to Button》                                                      |
+| 第3屆  | 2004年 | 最佳特殊效果音樂錄影帶獎             | [化學兄弟](../Page/化學兄弟.md "wikilink")《Get Yourself High》                                                                   |
+| 第4屆  | 2005年 | 亞洲最具啟發精神大獎               | [安室奈美惠](../Page/安室奈美惠.md "wikilink")                                                                                    |
+| 第7屆  | 2008年 | MTV Rock The World Award | [小林武史](../Page/小林武史.md "wikilink")&[櫻井和壽](../Page/櫻井和壽.md "wikilink")                                                   |
+| 第7屆  | 2008年 | RED HOT AWARD            | [INFINITY 16](https://zh.wikipedia.org/wiki/INFINITY_16 "wikilink")                                                     |
+| 第8屆  | 2009年 | MTV Street Icon Award    | [Beastie Boys](https://zh.wikipedia.org/wiki/Beastie_Boys "wikilink")                                                   |
+| 第8屆  | 2009年 | 最佳舞蹈設計獎                  | [放浪兄弟](../Page/放浪兄弟.md "wikilink")                                                                                      |
+| 第9屆  | 2010年 | MTV Icon Award           | [放浪兄弟](../Page/放浪兄弟.md "wikilink")                                                                                      |
+| 第9屆  | 2010年 | 最佳音樂錄影帶導演                | Kodama Hirokazu                                                                                                         |
+| 第13屆 | 2014年 | 最佳舞蹈設計                   | [E-girls](https://zh.wikipedia.org/wiki/E-girls "wikilink")《[滿懷歉意的Kissing You](../Page/滿懷歉意的Kissing_You.md "wikilink")》 |
+| 第13屆 | 2014年 | 最值得分享音樂錄影帶               | [西野加奈](https://zh.wikipedia.org/wiki/西野加奈 "wikilink")《Believe》                                                          |
+| 第13屆 | 2014年 | Inspiration Award Japan  | [GLAY](../Page/GLAY.md "wikilink")                                                                                      |
+| 第13屆 | 2014年 | 日本終身成就獎                  | [HIRO](../Page/五十嵐廣行.md "wikilink")                                                                                     |
+| 第14屆 | 2015年 | 最佳國際男藝人音樂錄影帶獎            | [Pharrell Williams](https://zh.wikipedia.org/wiki/Pharrell_Williams "wikilink")《Freedom》                                |
+| 第14屆 | 2015年 | 最佳國際女藝人音樂錄影帶獎            | [Ariana Grande](https://zh.wikipedia.org/wiki/Ariana_Grande "wikilink")《Problem feat.IGGY AZALEA》                       |
+| 第14屆 | 2015年 | 最佳國際團體音樂錄影帶獎             | [OK GO](https://zh.wikipedia.org/wiki/OK_GO "wikilink")《I Won't Let You Down》                                           |
+| 第14屆 | 2015年 | 最佳國際新人音樂錄影帶獎             | [YEARS & YEARS](https://zh.wikipedia.org/wiki/YEARS_&_YEARS "wikilink")《King》                                           |
+| 第14屆 | 2015年 | NEXT BREAK ARTIST        | [Beat Buddy Boi](https://zh.wikipedia.org/wiki/Beat_Buddy_Boi "wikilink")《come again》                                   |
+| 第15屆 | 2016年 | 年轻人最支持艺人奖                | [藤原樱](../Page/藤原櫻.md "wikilink")                                                                                        |
+| 第15屆 | 2016年 | 最佳创意奖                    | [THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink")                                                            |
+| 第16屆 | 2017年 | 最佳另类音乐录影带奖               | [レキシ](https://zh.wikipedia.org/wiki/レキシ "wikilink")《KATOKU》                                                             |
+| 第16屆 | 2017年 | 最佳舞蹈設計                   | [星野源](../Page/星野源.md "wikilink")《[恋](../Page/恋_\(星野源单曲\).md "wikilink")》                                                |
+| 第16屆 | 2017年 | 最佳创意奖                    | [BUCK-TICK](https://zh.wikipedia.org/wiki/BUCK-TICK "wikilink")                                                         |
+| 第16屆 | 2017年 | 最佳BUZZ奖                  | [欅坂46](https://zh.wikipedia.org/wiki/欅坂46 "wikilink")                                                                   |
+|      |       |                          |                                                                                                                         |
 
 ## 外部連結
 

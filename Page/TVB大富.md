@@ -14,7 +14,7 @@
 
 ## 節目
 
-TVB大富主要播放[香港無綫電視和](https://zh.wikipedia.org/wiki/香港無綫電視 "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[TVBS旗下各頻道的](https://zh.wikipedia.org/wiki/TVBS "wikilink")[娛樂](https://zh.wikipedia.org/wiki/娛樂 "wikilink")[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")、[音樂節目和](https://zh.wikipedia.org/wiki/音樂 "wikilink")[電視劇等不同類型的節目](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
+TVB大富主要播放[香港無綫電視和](https://zh.wikipedia.org/wiki/香港無綫電視 "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[TVBS旗下各頻道的](https://zh.wikipedia.org/wiki/TVBS "wikilink")[娛樂](../Page/娛樂.md "wikilink")[新聞](https://zh.wikipedia.org/wiki/新聞 "wikilink")、[音樂節目和](https://zh.wikipedia.org/wiki/音樂 "wikilink")[電視劇等不同類型的節目](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。
 
 ## 參考資料
 
@@ -30,5 +30,5 @@ TVB大富主要播放[香港無綫電視和](https://zh.wikipedia.org/wiki/香�
 [Category:2001年成立的電視台或電視頻道](https://zh.wikipedia.org/wiki/Category:2001年成立的電視台或電視頻道 "wikilink")
 [Category:日本衛星電視頻道](https://zh.wikipedia.org/wiki/Category:日本衛星電視頻道 "wikilink")
 
-1.  如[CNN同样在日本打造](https://zh.wikipedia.org/wiki/CNN "wikilink")[CNNj频道](https://zh.wikipedia.org/wiki/CNNj "wikilink")，英语和日语双语播出；韩国[KBS
+1.  如[CNN同样在日本打造](https://zh.wikipedia.org/wiki/CNN "wikilink")[CNNj频道](../Page/CNNj.md "wikilink")，英语和日语双语播出；韩国[KBS
     World在日本播放版本台标呈毛玻璃透明状](../Page/KBS_World.md "wikilink")，字幕亦是日语的。而日本的华侨华人若使用长城平台卫星，依然照常看到原版CCTV-4亚洲版节目及广告。

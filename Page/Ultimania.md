@@ -138,8 +138,8 @@ BentStuff编辑制作的攻略则没有冠以「Ultimania」之名，而是以�
 56. 最終幻想X-2 HD Remaster Ultimania ISBN 978-4-7575-4160-3
 57. [王國之心系列](../Page/王國之心系列.md "wikilink") Memorial ULTIMANIA ISBN
     978-4-7575-4384-3
-58. [生化危机 启示录2](https://zh.wikipedia.org/wiki/生化危机_启示录2 "wikilink")
-    Ultimania ISBN 978-4-7575-4600-4
+58. [生化危机 启示录2](../Page/生化危机_启示录2.md "wikilink") Ultimania ISBN
+    978-4-7575-4600-4
 59. [最终幻想XV](https://zh.wikipedia.org/wiki/最终幻想XV "wikilink") Ultimania
     - Scenario Side- ISBN 978-4-7575-5214-2
 60. [最终幻想XV](https://zh.wikipedia.org/wiki/最终幻想XV "wikilink") Ultimania

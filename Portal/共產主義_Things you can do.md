@@ -52,7 +52,7 @@
         [新階級](https://zh.wikipedia.org/wiki/新階級 "wikilink"){{·}}
         [新左派](https://zh.wikipedia.org/wiki/新左派 "wikilink"){{·}}
         [後共產主義](../Page/後共產主義.md "wikilink"){{·}}
-        [原始共產主義](https://zh.wikipedia.org/wiki/原始共產主義 "wikilink"){{·}}
+        [原始共產主義](../Page/原始共產主義.md "wikilink"){{·}}
         [共產主義與宗教](https://zh.wikipedia.org/wiki/共產主義與宗教 "wikilink"){{·}}
         [科學共產主義](https://zh.wikipedia.org/wiki/科學共產主義 "wikilink"){{·}}
         [科學社會主義](https://zh.wikipedia.org/wiki/科學社會主義 "wikilink"){{·}}

@@ -13,7 +13,7 @@ NBA赛季平均每场比赛抢到](https://zh.wikipedia.org/wiki/2010-11_NBA赛�
 赛季篮板王头衔时，霍华德还只有22岁零130天，是历史上最年轻的篮板王\[6\]，[丹尼斯·罗德曼获](https://zh.wikipedia.org/wiki/丹尼斯·罗德曼 "wikilink")[1997-98
 NBA赛季篮板王称号时已有](https://zh.wikipedia.org/wiki/1997-98_NBA赛季 "wikilink")36岁零341天，是最年长的篮板王。
 
-张伯伦共有11次获篮板王称号，比其他球员都多\[7\]。[丹尼斯·罗德曼则是连庄次数最多的篮板王](https://zh.wikipedia.org/wiki/丹尼斯·罗德曼 "wikilink")，达七次\[8\]。[摩西·马龙曾六次入选篮板王](https://zh.wikipedia.org/wiki/摩西·马龙 "wikilink")，德怀特·霍华德五次，[凯文·加内特和](../Page/凯文·加内特.md "wikilink")[比尔·拉塞尔都是四次](../Page/比尔·拉塞尔.md "wikilink")。此外只有[埃尔文·海耶斯](../Page/埃尔文·海耶斯.md "wikilink")、[迪肯贝·穆托姆博](../Page/迪肯贝·穆托姆博.md "wikilink")、[哈基姆·奥拉朱旺和](../Page/哈基姆·奥拉朱旺.md "wikilink")[本·华莱士曾多次获篮板王称号](../Page/本·华莱士.md "wikilink")。历史上共有五位球员在同一赛季拿下篮板王头衔的同时还带领球队赢得[总冠军](https://zh.wikipedia.org/wiki/NBA总冠军列表 "wikilink")，分别是[乔治·迈肯于](../Page/乔治·迈肯.md "wikilink")[1953年带领](https://zh.wikipedia.org/wiki/1953年NBA总决赛 "wikilink")[洛杉矶湖人打入决赛](https://zh.wikipedia.org/wiki/洛杉矶湖人 "wikilink")，比尔·拉塞尔于[1959](https://zh.wikipedia.org/wiki/1959年NBA总决赛 "wikilink")、[1964和](https://zh.wikipedia.org/wiki/1964年NBA总决赛 "wikilink")[1965年三度率领](https://zh.wikipedia.org/wiki/1965年NBA总决赛 "wikilink")[波士顿凯尔特人进入决赛](../Page/波士顿凯尔特人.md "wikilink")，张伯伦于[1967和](https://zh.wikipedia.org/wiki/1967年NBA总决赛 "wikilink")[1972年分别带领](https://zh.wikipedia.org/wiki/1972年NBA总决赛 "wikilink")[费城76人和](../Page/费城76人.md "wikilink")[洛杉矶湖人打入决赛](https://zh.wikipedia.org/wiki/洛杉矶湖人 "wikilink")，马龙于[1983年率领费城](https://zh.wikipedia.org/wiki/1983年NBA总决赛 "wikilink")76人进入决赛，罗德曼在[1996](https://zh.wikipedia.org/wiki/1996年NBA总决赛 "wikilink")、[1997和](https://zh.wikipedia.org/wiki/1997年NBA总决赛 "wikilink")[1998年连续三次带领](https://zh.wikipedia.org/wiki/1998年NBA总决赛 "wikilink")[芝加哥公牛打入决赛](../Page/芝加哥公牛.md "wikilink")。
+张伯伦共有11次获篮板王称号，比其他球员都多\[7\]。[丹尼斯·罗德曼则是连庄次数最多的篮板王](https://zh.wikipedia.org/wiki/丹尼斯·罗德曼 "wikilink")，达七次\[8\]。[摩西·马龙曾六次入选篮板王](https://zh.wikipedia.org/wiki/摩西·马龙 "wikilink")，德怀特·霍华德五次，[凯文·加内特和](../Page/凯文·加内特.md "wikilink")[比尔·拉塞尔都是四次](../Page/比尔·拉塞尔.md "wikilink")。此外只有[埃尔文·海耶斯](../Page/埃尔文·海耶斯.md "wikilink")、[迪肯贝·穆托姆博](../Page/迪肯贝·穆托姆博.md "wikilink")、[哈基姆·奥拉朱旺和](../Page/哈基姆·奥拉朱旺.md "wikilink")[本·华莱士曾多次获篮板王称号](../Page/本·华莱士.md "wikilink")。历史上共有五位球员在同一赛季拿下篮板王头衔的同时还带领球队赢得[总冠军](https://zh.wikipedia.org/wiki/NBA总冠军列表 "wikilink")，分别是[乔治·迈肯于](../Page/乔治·迈肯.md "wikilink")[1953年带领](https://zh.wikipedia.org/wiki/1953年NBA总决赛 "wikilink")[洛杉矶湖人打入决赛](../Page/洛杉矶湖人.md "wikilink")，比尔·拉塞尔于[1959](https://zh.wikipedia.org/wiki/1959年NBA总决赛 "wikilink")、[1964和](https://zh.wikipedia.org/wiki/1964年NBA总决赛 "wikilink")[1965年三度率领](https://zh.wikipedia.org/wiki/1965年NBA总决赛 "wikilink")[波士顿凯尔特人进入决赛](../Page/波士顿凯尔特人.md "wikilink")，张伯伦于[1967和](https://zh.wikipedia.org/wiki/1967年NBA总决赛 "wikilink")[1972年分别带领](https://zh.wikipedia.org/wiki/1972年NBA总决赛 "wikilink")[费城76人和](../Page/费城76人.md "wikilink")[洛杉矶湖人打入决赛](../Page/洛杉矶湖人.md "wikilink")，马龙于[1983年率领费城](https://zh.wikipedia.org/wiki/1983年NBA总决赛 "wikilink")76人进入决赛，罗德曼在[1996](https://zh.wikipedia.org/wiki/1996年NBA总决赛 "wikilink")、[1997和](https://zh.wikipedia.org/wiki/1997年NBA总决赛 "wikilink")[1998年连续三次带领](https://zh.wikipedia.org/wiki/1998年NBA总决赛 "wikilink")[芝加哥公牛打入决赛](../Page/芝加哥公牛.md "wikilink")。
 
 ## 图例
 
@@ -102,7 +102,7 @@ NBA赛季篮板王称号时已有](https://zh.wikipedia.org/wiki/1997-98_NBA赛�
 <td><p><a href="https://zh.wikipedia.org/wiki/1952-53_NBA赛季" title="wikilink">1952-53</a></p></td>
 <td><p><a href="../Page/乔治·迈肯.md" title="wikilink">乔治·迈肯</a>*</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>70</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -294,7 +294,7 @@ NBA赛季篮板王称号时已有](https://zh.wikipedia.org/wiki/1997-98_NBA赛�
 <td><p><a href="../Page/1968-69_NBA赛季.md" title="wikilink">1968-69</a></p></td>
 <td><p><a href="../Page/威尔特·张伯伦.md" title="wikilink">威尔特·张伯伦</a>*（8）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>81</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -318,7 +318,7 @@ NBA赛季篮板王称号时已有](https://zh.wikipedia.org/wiki/1997-98_NBA赛�
 <td><p><a href="https://zh.wikipedia.org/wiki/1970-71_NBA赛季" title="wikilink">1970-71</a></p></td>
 <td><p><a href="../Page/威尔特·张伯伦.md" title="wikilink">威尔特·张伯伦</a>*（9）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>82</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -330,7 +330,7 @@ NBA赛季篮板王称号时已有](https://zh.wikipedia.org/wiki/1997-98_NBA赛�
 <td><p><a href="https://zh.wikipedia.org/wiki/1971-72_NBA赛季" title="wikilink">1971-72</a></p></td>
 <td><p><a href="../Page/威尔特·张伯伦.md" title="wikilink">威尔特·张伯伦</a>*（10）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>82</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -342,7 +342,7 @@ NBA赛季篮板王称号时已有](https://zh.wikipedia.org/wiki/1997-98_NBA赛�
 <td><p><a href="https://zh.wikipedia.org/wiki/1972-73_NBA赛季" title="wikilink">1972-73</a></p></td>
 <td><p><a href="../Page/威尔特·张伯伦.md" title="wikilink">威尔特·张伯伦</a>*（11）</p></td>
 <td><p>C</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>82</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
@@ -378,7 +378,7 @@ NBA赛季篮板王称号时已有](https://zh.wikipedia.org/wiki/1997-98_NBA赛�
 <td><p><a href="../Page/1975-76_NBA赛季.md" title="wikilink">1975-76</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒-贾巴尔" title="wikilink">卡里姆·阿卜杜勒-贾巴尔</a>*</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>82</p></td>
 <td><p>272</p></td>
 <td><p>1,111</p></td>
@@ -823,7 +823,7 @@ NBA赛季篮板王称号时已有](https://zh.wikipedia.org/wiki/1997-98_NBA赛�
 <td><p><a href="../Page/2012-13_NBA赛季.md" title="wikilink">2012-2013</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/德怀特·霍华德" title="wikilink">德怀特·霍华德</a>^（5）{{#tag:ref|<a href="../Page/欧米尔·阿西克.md" title="wikilink">欧米尔·阿西克在</a><a href="../Page/2012-13_NBA赛季.md" title="wikilink">2012-2013赛季的篮板球总数最多</a>，有956个，但平均每场11.7个只排到第三[194]。|group="注"}}</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>76</p></td>
 <td><p>251</p></td>
 <td><p>694</p></td>
@@ -922,7 +922,7 @@ NBA赛季篮板王称号时已有](https://zh.wikipedia.org/wiki/1997-98_NBA赛�
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/威尔特·张伯伦.md" title="wikilink">威尔特·张伯伦</a></p></td>
-<td><p><a href="../Page/金州勇士.md" title="wikilink">费城勇士</a>（4）/<a href="../Page/费城76人.md" title="wikilink">费城76人</a>（3）/<a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a>（4）</p></td>
+<td><p><a href="../Page/金州勇士.md" title="wikilink">费城勇士</a>（4）/<a href="../Page/费城76人.md" title="wikilink">费城76人</a>（3）/<a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a>（4）</p></td>
 <td><p>11</p></td>
 <td><p><a href="../Page/1959-60_NBA赛季.md" title="wikilink">1959-60</a>、<a href="../Page/1960-61_NBA赛季.md" title="wikilink">1960-61</a>、<a href="https://zh.wikipedia.org/wiki/1961-62_NBA赛季" title="wikilink">1961-62</a>、<a href="https://zh.wikipedia.org/wiki/1962-63_NBA赛季" title="wikilink">1962-63</a>、<a href="https://zh.wikipedia.org/wiki/1965-66_NBA赛季" title="wikilink">1965-66</a>、<a href="../Page/1966-67_NBA赛季.md" title="wikilink">1966-67</a>、<a href="https://zh.wikipedia.org/wiki/1967-68_NBA赛季" title="wikilink">1967-68</a>、<a href="../Page/1968-69_NBA赛季.md" title="wikilink">1968-69</a>、<a href="https://zh.wikipedia.org/wiki/1970-71_NBA赛季" title="wikilink">1970-71</a>、<a href="https://zh.wikipedia.org/wiki/1971-72_NBA赛季" title="wikilink">1971-72</a>、<a href="https://zh.wikipedia.org/wiki/1972-73_NBA赛季" title="wikilink">1972-73</a></p></td>
 </tr>
@@ -962,7 +962,7 @@ NBA赛季篮板王称号时已有](https://zh.wikipedia.org/wiki/1997-98_NBA赛�
 <td><p><a href="../Page/安德烈·卓蒙德.md" title="wikilink">安德烈·卓蒙德</a></p></td>
 <td><p><a href="../Page/底特律活塞.md" title="wikilink">底特律活塞</a></p></td>
 <td><p>3</p></td>
-<td><p><a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-2016</a>、<a href="https://zh.wikipedia.org/wiki/2017-18_NBA賽季" title="wikilink">2017-2018</a>、<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-2019</a></p></td>
+<td><p><a href="../Page/2015-16_NBA赛季.md" title="wikilink">2015-2016</a>、<a href="../Page/2017-18_NBA賽季.md" title="wikilink">2017-2018</a>、<a href="https://zh.wikipedia.org/wiki/2018-19_NBA賽季" title="wikilink">2018-2019</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>

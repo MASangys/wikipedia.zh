@@ -29,7 +29,7 @@ Geass
   - 原作：荒川弘（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")「[月刊少年GANGAN](../Page/月刊少年GANGAN.md "wikilink")」連載）
   - 監督：入江泰浩
   - 企畫：竹田青滋（每日放送）、植田益朗→勝股英夫（ANIPLEX）、田口浩司（史克威爾艾尼克斯）、南雅彥（BONES）
-  - 系列構成：[大野木寬](https://zh.wikipedia.org/wiki/大野木寬 "wikilink")
+  - 系列構成：[大野木寬](../Page/大野木寬.md "wikilink")
   - 角色設計：菅野宏紀
   - 美術設計：金平和茂
   - 美術監督：佐藤豪志

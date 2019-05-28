@@ -125,7 +125,7 @@ ARMS**》。各ARMS的命名.
 
 <!-- end list -->
 
-  - 兜光一（CV：[中村大樹](https://zh.wikipedia.org/wiki/中村大樹 "wikilink")）
+  - 兜光一（CV：[中村大樹](../Page/中村大樹.md "wikilink")）
     藍空警察署的刑警。在藍空市集結警察對反抗紅帽部隊，事件結束後辭去刑警一職，和高槻一行人到美國。
 
 ### 敵方組織

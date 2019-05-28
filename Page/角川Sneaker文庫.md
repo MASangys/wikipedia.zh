@@ -1,6 +1,6 @@
 **角川Sneaker文庫**（，），是[日本](../Page/日本.md "wikilink")[出版社](../Page/出版社.md "wikilink")[KADOKAWA旗下](../Page/KADOKAWA.md "wikilink")[角川書店出版的](../Page/角川書店.md "wikilink")[輕小說](../Page/輕小說.md "wikilink")[文庫系列](../Page/文庫.md "wikilink")。當初以「[角川文庫](https://zh.wikipedia.org/wiki/角川文庫 "wikilink")·青版」的名義成立，在1988年3月公開徵選後決定以「Sneaker文庫」的名義創刊。現在可稱為角川文庫的輕小說部門之一，並和[電擊文庫](../Page/電擊文庫.md "wikilink")、[富士見Fantasia文庫並列](../Page/富士見Fantasia文庫.md "wikilink")[角川集團的輕小說主力文庫](../Page/角川集團.md "wikilink")。
 
-創刊目標為少年向小說，例如[富野由悠季的](../Page/富野由悠季.md "wikilink")《[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")》系列，渡邊由自的以及富田祐弘的《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》。後來，[水野良的](https://zh.wikipedia.org/wiki/水野良 "wikilink")《[羅德斯島戰記](../Page/羅德斯島戰記.md "wikilink")》開啟了奇幻小說的時代。
+創刊目標為少年向小說，例如[富野由悠季的](../Page/富野由悠季.md "wikilink")《[機動戰士鋼彈](https://zh.wikipedia.org/wiki/機動戰士鋼彈 "wikilink")》系列，渡邊由自的以及富田祐弘的《[超時空要塞](https://zh.wikipedia.org/wiki/超時空要塞 "wikilink")》。後來，[水野良的](../Page/水野良.md "wikilink")《[羅德斯島戰記](../Page/羅德斯島戰記.md "wikilink")》開啟了奇幻小說的時代。
 
 其中也有出版如[乙一的](../Page/乙一.md "wikilink")《寂寞的頻率》，瞄準一般讀者的作品出版。在2002年2月，成立了「角川Sneaker文庫<Sneaker Mystery俱樂部>」，出版只有少量插畫的作品，如[米澤穗信的](../Page/米澤穗信.md "wikilink")《[愚者的片尾](../Page/古籍研究社系列.md "wikilink")》、稻生平太郎的，以及乙一、[恩田陸等人的作品](../Page/恩田陸.md "wikilink")，卻因為對輕小說及一般小說讀者都缺乏吸引力而失敗，但依然成為此種出版方式先驅，後來[MediaWorks也依照此方式推出一系列的精裝書籍](../Page/MediaWorks.md "wikilink")。
 
@@ -15,7 +15,7 @@
 
 ### 加珈文化
 
-  - [MAZE☆爆熱時空](../Page/MAZE☆爆熱時空.md "wikilink")（[赤堀悟](https://zh.wikipedia.org/wiki/赤堀悟 "wikilink")/）
+  - [MAZE☆爆熱時空](../Page/MAZE☆爆熱時空.md "wikilink")（[赤堀悟](../Page/赤堀悟.md "wikilink")/）
 
 ### 台灣角川
 
@@ -23,7 +23,7 @@
     SEED](../Page/機動戰士GUNDAM_SEED.md "wikilink")（/[小笠原智史](https://zh.wikipedia.org/wiki/小笠原智史 "wikilink")）
   - [機動戰士GUNDAM SEED
     DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")（/As'MARIA）
-  - [新羅德斯島戰記](../Page/羅德斯島戰記.md "wikilink")（[水野良](https://zh.wikipedia.org/wiki/水野良 "wikilink")/[美樹本晴彥](../Page/美樹本晴彥.md "wikilink")）
+  - [新羅德斯島戰記](../Page/羅德斯島戰記.md "wikilink")（[水野良](../Page/水野良.md "wikilink")/[美樹本晴彥](../Page/美樹本晴彥.md "wikilink")）
   - [涼宮春日系列](../Page/涼宮春日系列.md "wikilink")（[谷川流](../Page/谷川流.md "wikilink")/）
   - [.hack//AI
     buster](https://zh.wikipedia.org/wiki/.hack/AI_buster "wikilink")（[濱崎達也](https://zh.wikipedia.org/wiki/濱崎達也 "wikilink")/）
@@ -32,7 +32,7 @@
   - [.hack//CELL](https://zh.wikipedia.org/wiki/.hack/CELL "wikilink")（[涼風涼](https://zh.wikipedia.org/wiki/涼風涼 "wikilink")/）
   - [聖魔之血](../Page/聖魔之血.md "wikilink")（[吉田直](../Page/吉田直.md "wikilink")/[THORES柴本](https://zh.wikipedia.org/wiki/THORES柴本 "wikilink")）
   - [打工魔法師](../Page/打工魔法師.md "wikilink")（[椎野美由貴](https://zh.wikipedia.org/wiki/椎野美由貴 "wikilink")/）
-  - [薔薇的瑪利亞](../Page/薔薇的瑪利亞.md "wikilink")（[十文字青](https://zh.wikipedia.org/wiki/十文字青 "wikilink")/[BUNBUN](../Page/BUNBUN.md "wikilink")）
+  - [薔薇的瑪利亞](../Page/薔薇的瑪利亞.md "wikilink")（[十文字青](../Page/十文字青.md "wikilink")/[BUNBUN](../Page/BUNBUN.md "wikilink")）
   - [蟲之歌](../Page/蟲之歌.md "wikilink")（[岩井恭平](https://zh.wikipedia.org/wiki/岩井恭平 "wikilink")/）
   - [憐
     Ren](../Page/憐_Ren.md "wikilink")（[水口敬文](https://zh.wikipedia.org/wiki/水口敬文 "wikilink")/）
@@ -52,7 +52,7 @@
   - [殭屍少女的災難](https://zh.wikipedia.org/wiki/殭屍少女的災難 "wikilink")（[池端亮](https://zh.wikipedia.org/wiki/池端亮 "wikilink")／[蔓木鋼音](../Page/蔓木鋼音.md "wikilink")）
   - [我的腦內戀礙選項](../Page/我的腦內戀礙選項.md "wikilink")（／）
   - [新妹魔王的契約者](https://zh.wikipedia.org/wiki/新妹魔王的契約者 "wikilink")（[上栖綴人](https://zh.wikipedia.org/wiki/上栖綴人 "wikilink")／[大熊貓介](https://zh.wikipedia.org/wiki/大熊貓介 "wikilink")）
-  - [迷幻魔域](https://zh.wikipedia.org/wiki/迷幻魔域 "wikilink")（[久慈政宗](https://zh.wikipedia.org/wiki/久慈政宗 "wikilink")／）
+  - [迷幻魔域](../Page/迷幻魔域.md "wikilink")（[久慈政宗](../Page/久慈政宗.md "wikilink")／）
 
 ### 青春文化
 
@@ -70,7 +70,7 @@
   - [虛界怪造學](../Page/虛界怪造學.md "wikilink")（[日日日](../Page/日日日.md "wikilink")/）
   - [馭時少女Rinne](../Page/馭時少女.md "wikilink")（[清野靜](https://zh.wikipedia.org/wiki/清野靜 "wikilink")/）
   - [圓環少女](https://zh.wikipedia.org/wiki/圓環少女 "wikilink")（[長谷敏司](https://zh.wikipedia.org/wiki/長谷敏司 "wikilink")/[深遊](https://zh.wikipedia.org/wiki/深遊 "wikilink")）
-  - [魔裝學園H×H](../Page/魔裝學園H×H.md "wikilink")（[久慈政宗](https://zh.wikipedia.org/wiki/久慈政宗 "wikilink")/[Hisasi](../Page/Hisasi.md "wikilink")）
+  - [魔裝學園H×H](../Page/魔裝學園H×H.md "wikilink")（[久慈政宗](../Page/久慈政宗.md "wikilink")/[Hisasi](../Page/Hisasi.md "wikilink")）
 
 ### 蓋亞文化
 
@@ -83,7 +83,7 @@
 ### 青文出版社
 
   - [斬魔大聖Demonbane](https://zh.wikipedia.org/wiki/斬魔大聖Demonbane "wikilink")（[涼風涼](https://zh.wikipedia.org/wiki/涼風涼 "wikilink")/[Ｎｉθ](https://zh.wikipedia.org/wiki/Ｎｉθ "wikilink")）
-  - [吸血殲鬼VJEDOGONIA](https://zh.wikipedia.org/wiki/吸血殲鬼VJEDOGONIA "wikilink")（[虛淵玄](../Page/虛淵玄.md "wikilink")/[山田秀樹](https://zh.wikipedia.org/wiki/山田秀樹 "wikilink")）
+  - [吸血殲鬼VJEDOGONIA](https://zh.wikipedia.org/wiki/吸血殲鬼VJEDOGONIA "wikilink")（[虛淵玄](../Page/虛淵玄.md "wikilink")/[山田秀樹](../Page/山田秀樹.md "wikilink")）
 
 ### 東立出版社
 
@@ -97,7 +97,7 @@
 
 ### 四季國際
 
-  - [重啟咲良田](https://zh.wikipedia.org/wiki/重啟咲良田 "wikilink")（[河野裕](../Page/河野裕.md "wikilink")/[椎名優](https://zh.wikipedia.org/wiki/椎名優 "wikilink")）
+  - [重啟咲良田](../Page/重啟咲良田.md "wikilink")（[河野裕](../Page/河野裕.md "wikilink")/[椎名優](https://zh.wikipedia.org/wiki/椎名優 "wikilink")）
 
 ### 天闻角川
 

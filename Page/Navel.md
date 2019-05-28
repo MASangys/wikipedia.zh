@@ -46,7 +46,7 @@
   - 2010年6月25日－[Soul Link ULTIMATE](../Page/Soul_Link.md "wikilink")
   - 2010年7月30日－[俺たちに翼はない
     AfterStory](https://zh.wikipedia.org/wiki/俺たちに翼はない "wikilink")
-  - 2010年12月24日－[世界征服彼女](https://zh.wikipedia.org/wiki/世界征服彼女 "wikilink")
+  - 2010年12月24日－[世界征服彼女](../Page/世界征服彼女.md "wikilink")
   - 2011年4月28日－[SHUFFLE\! Love
     Rainbow](../Page/SHUFFLE!_Love_Rainbow.md "wikilink")
   - 2011年6月24日－[俺たちに翼はないR](https://zh.wikipedia.org/wiki/俺たちに翼はない "wikilink")

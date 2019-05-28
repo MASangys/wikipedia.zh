@@ -3,7 +3,7 @@
 ## 名字由來
 
 GUNDAM系列的塑膠模型之英文為Gundam Plastic
-Model。日本將塑膠模型稱做pla-model（プラモデル），簡稱便成了GUNPLA®（）。GUNPLA®已經是授權的商標，故6個英文字母必須全部大寫。GUNPLA的製造、販售及作品開發為BANDAI的HOBBY事業部所擔當，但「GUNPLA®」則是[創通的登錄商標](https://zh.wikipedia.org/wiki/創通 "wikilink")。
+Model。日本將塑膠模型稱做pla-model（プラモデル），簡稱便成了GUNPLA®（）。GUNPLA®已經是授權的商標，故6個英文字母必須全部大寫。GUNPLA的製造、販售及作品開發為BANDAI的HOBBY事業部所擔當，但「GUNPLA®」則是[創通的登錄商標](../Page/創通.md "wikilink")。
 
 至於台灣的翻譯**鋼普拉**，大陸、香港則翻譯成"高達模型"，以上名至今只是部分人士之俗稱，現今尚未擁有正式中文翻譯，目前正在等待[萬代的正式譯名](../Page/萬代.md "wikilink")。
 

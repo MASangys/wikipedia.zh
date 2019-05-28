@@ -1,4 +1,4 @@
-《**Untouchable〜事件記者·鳴海遼子〜**》（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：）是[朝日電視台於](../Page/朝日電視台.md "wikilink")2009年10月16日起，每週五晚間九點（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）播放的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。[編劇為](../Page/編劇.md "wikilink")[橋本裕志](https://zh.wikipedia.org/wiki/橋本裕志 "wikilink")，由[仲間由紀惠主演](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")，這是繼2007年的《[嫁到什麼鬼地方](../Page/嫁到什麼鬼地方.md "wikilink")》相隔兩年後，再度演出朝日電視台的連續劇。
+《**Untouchable〜事件記者·鳴海遼子〜**》（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：）是[朝日電視台於](../Page/朝日電視台.md "wikilink")2009年10月16日起，每週五晚間九點（[日本時間](https://zh.wikipedia.org/wiki/日本時間 "wikilink")）播放的[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")。[編劇為](../Page/編劇.md "wikilink")[橋本裕志](../Page/橋本裕志.md "wikilink")，由[仲間由紀惠主演](https://zh.wikipedia.org/wiki/仲間由紀惠 "wikilink")，這是繼2007年的《[嫁到什麼鬼地方](../Page/嫁到什麼鬼地方.md "wikilink")》相隔兩年後，再度演出朝日電視台的連續劇。
 
 宣傳語為「這個世界，有著不可觸碰的黑暗面。（）」
 
@@ -33,7 +33,7 @@
 
 <!-- end list -->
 
-  - 樫村秀昭（45歲）：[田中哲司](https://zh.wikipedia.org/wiki/田中哲司 "wikilink")
+  - 樫村秀昭（45歲）：[田中哲司](../Page/田中哲司.md "wikilink")
   - 中原誠（45歲）：[田中要次](https://zh.wikipedia.org/wiki/田中要次 "wikilink")
   - 卷瀨美鈴（27歲）：[芦名星](../Page/芦名星.md "wikilink")
   - 西尾里香（23歲）：[浦野一美](../Page/浦野一美.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")）

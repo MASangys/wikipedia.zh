@@ -103,9 +103,8 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版動畫](https://zh.wikipedia
 ## 音樂
 
   - 「」
-    作詞：松風友也・内田浩之 / 作曲：松風友也 /
-    編曲：[明石昌夫](https://zh.wikipedia.org/wiki/明石昌夫 "wikilink")
-    / 歌：[晴晴゛](https://zh.wikipedia.org/wiki/晴晴゛ "wikilink")
+    作詞：松風友也・内田浩之 / 作曲：松風友也 / 編曲：[明石昌夫](../Page/明石昌夫.md "wikilink") /
+    歌：[晴晴゛](https://zh.wikipedia.org/wiki/晴晴゛ "wikilink")
 
 ## 目標！海賊棒球王
 

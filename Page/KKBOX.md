@@ -51,7 +51,7 @@ X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[iOS](https://zh.wikiped
   - **KKBOX Windows Store**－適用於[Windows
     市集及運行](https://zh.wikipedia.org/wiki/Windows_Store "wikilink")[Windows
     8.1](../Page/Windows_8.1.md "wikilink")、[Windows
-    10的裝置](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。
+    10的裝置](../Page/Windows_10.md "wikilink")。
 
 ### 行動裝置
 
@@ -117,7 +117,7 @@ KKBOX曾經發生數位音樂使用著作權爭議事件，由於傳統唱片市
   - [KKman](https://zh.wikipedia.org/wiki/KKman "wikilink")
   - [KKBOX數位音樂風雲榜](https://zh.wikipedia.org/wiki/KKBOX數位音樂風雲榜 "wikilink")
   - [KKBOX西洋人氣排行榜](https://zh.wikipedia.org/wiki/KKBOX西洋人氣排行榜 "wikilink")
-  - [KKTV](https://zh.wikipedia.org/wiki/KKTV "wikilink")
+  - [KKTV](../Page/KKTV.md "wikilink")
 
 ## 外部連結
 

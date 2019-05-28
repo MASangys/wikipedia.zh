@@ -62,7 +62,7 @@ G2，裝備其軍隊及特種部隊。
 
 FAMAS
 F1是最早期設計，當時配有25發直彈匣，附有提高射擊精度的兩腳架，結構堅固的腳架長度不可調整，底座為塑料，平時摺疊在上護木的兩側，使用時須將腳架旋出到最大位置，整個腳架的重量只有6[盎司](https://zh.wikipedia.org/wiki/安士 "wikilink")。FAMAS
-F1可發射[22毫米槍榴彈](https://zh.wikipedia.org/wiki/22毫米槍榴彈 "wikilink")，附有槍榴彈瞄準標尺，直接射擊時將標尺裝於提把上方；間接射擊時將提把內側的標尺轉至45度或75度。FAMAS
+F1可發射[22毫米槍榴彈](../Page/22毫米槍榴彈.md "wikilink")，附有槍榴彈瞄準標尺，直接射擊時將標尺裝於提把上方；間接射擊時將提把內側的標尺轉至45度或75度。FAMAS
 F1有縮短型和半自動型。
 
 FAMAS F1曾經出口，現已停產，被FAMAS G1及G2取代，但在法軍中仍然服役。
@@ -156,17 +156,17 @@ F1\]\]
     Reality）：型號為FAMAS
     F1，為[法國陸軍制式步槍](https://zh.wikipedia.org/wiki/法國陸軍 "wikilink")，可裝上的配件包括：M68
     Aimpoint[紅點鏡](../Page/紅點鏡.md "wikilink")、SCROME
-    J4[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")、[EO-TECH全息瞄準鏡及](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")[刺刀](../Page/刺刀.md "wikilink")。擲彈兵版本可發射各種[槍榴彈](https://zh.wikipedia.org/wiki/槍榴彈 "wikilink")。
+    J4[瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")、[EO-TECH全息瞄準鏡及](../Page/全像武器照準器.md "wikilink")[刺刀](../Page/刺刀.md "wikilink")。擲彈兵版本可發射各種[槍榴彈](https://zh.wikipedia.org/wiki/槍榴彈 "wikilink")。
   - 2007年—《[AVA Online](../Page/戰地之王.md "wikilink")》（Alliance of Valiant
     Arms）
   - 2009年—《[-{zh-hans:使命召唤：现代战争; zh-hk:使命召喚：現代戰爭;
     zh-hant:決勝時刻：現代戰爭;}-2](../Page/決勝時刻：現代戰爭2.md "wikilink")》（Call
     of Duty: Modern Warfare 2）：型號為FAMAS
-    F1，配備從提把頂部的導軌安裝的機械瞄具（奇怪地後照準器被前後倒置的安裝），奇怪地只能[三發點放](../Page/三發點放.md "wikilink")。故事模式中被[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[極端民族主義黨武裝力量所使用](https://zh.wikipedia.org/wiki/極端民族主義 "wikilink")。聯機模式時於等級4解鎖，並可使用[榴彈發射器](../Page/M203榴彈發射器.md "wikilink")、[下掛式霰彈槍](https://zh.wikipedia.org/wiki/Masterkey霰彈槍 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[心跳探測儀](https://zh.wikipedia.org/wiki/心跳探測儀 "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[熱能探測式瞄具](https://zh.wikipedia.org/wiki/熱輻射 "wikilink")、及延長彈匣（增至45發）。
+    F1，配備從提把頂部的導軌安裝的機械瞄具（奇怪地後照準器被前後倒置的安裝），奇怪地只能[三發點放](../Page/三發點放.md "wikilink")。故事模式中被[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[極端民族主義黨武裝力量所使用](https://zh.wikipedia.org/wiki/極端民族主義 "wikilink")。聯機模式時於等級4解鎖，並可使用[榴彈發射器](../Page/M203榴彈發射器.md "wikilink")、[下掛式霰彈槍](https://zh.wikipedia.org/wiki/Masterkey霰彈槍 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[消音器](../Page/抑制器.md "wikilink")、[心跳探測儀](https://zh.wikipedia.org/wiki/心跳探測儀 "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[熱能探測式瞄具](https://zh.wikipedia.org/wiki/熱輻射 "wikilink")、及延長彈匣（增至45發）。
   - 2010年—《[-{zh-hans:使命召唤：黑色行动; zh-hk:使命召喚：黑色行動;
     zh-hant:決勝時刻：黑色行動;}-](../Page/決勝時刻：黑色行動.md "wikilink")》（Call
     of Duty: Black Ops）：型號為FAMAS
-    FÉLIN，配備從機匣頂部的導軌安裝的機械瞄具（奇怪地後照準器被前後倒置的安裝），奇怪地會於1960年代出現，並被[蘇聯軍隊和](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")[美國中央情報局](https://zh.wikipedia.org/wiki/美國中央情報局 "wikilink")[特別活動分部所使用](https://zh.wikipedia.org/wiki/特別活動分部 "wikilink")。在聯機模式時於等級14解鎖，能夠使用[榴彈發射器](../Page/M203榴彈發射器.md "wikilink")、延長彈匣（增至45發）、[雙彈匣](https://zh.wikipedia.org/wiki/彈匣並聯 "wikilink")、[火焰噴射器](https://zh.wikipedia.org/wiki/火焰噴射器 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[下掛式霰彈槍](../Page/Masterkey槍管下掛式霰彈槍.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[紅外線探測式瞄具](https://zh.wikipedia.org/wiki/紅外線 "wikilink")、[消音器及反射式瞄準鏡](../Page/抑制器.md "wikilink")。在殭屍模式中有一款稱為**G16-GL35**的改型。
+    FÉLIN，配備從機匣頂部的導軌安裝的機械瞄具（奇怪地後照準器被前後倒置的安裝），奇怪地會於1960年代出現，並被[蘇聯軍隊和](https://zh.wikipedia.org/wiki/蘇聯軍隊 "wikilink")[美國中央情報局](https://zh.wikipedia.org/wiki/美國中央情報局 "wikilink")[特別活動分部所使用](https://zh.wikipedia.org/wiki/特別活動分部 "wikilink")。在聯機模式時於等級14解鎖，能夠使用[榴彈發射器](../Page/M203榴彈發射器.md "wikilink")、延長彈匣（增至45發）、[雙彈匣](../Page/彈匣並聯.md "wikilink")、[火焰噴射器](https://zh.wikipedia.org/wiki/火焰噴射器 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[下掛式霰彈槍](../Page/Masterkey槍管下掛式霰彈槍.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[紅外線探測式瞄具](https://zh.wikipedia.org/wiki/紅外線 "wikilink")、[消音器及反射式瞄準鏡](../Page/抑制器.md "wikilink")。在殭屍模式中有一款稱為**G16-GL35**的改型。
   - 2011年—《[-{zh-hans:战地;
     zh-hant:戰地風雲;}-3](../Page/戰地風雲3.md "wikilink")》（Battlefield
     3）：型號為FAMAS FÉLIN，只在聯機模式登場，為突擊兵解鎖武器。
@@ -188,7 +188,7 @@ F1\]\]
   - 2013年—《[-{zh-hans:战地4;zh-hant:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：型號為FAMAS FÉLIN，命名為「FAMAS」，25+1發彈匣，單機模式中能夠被主角丹尼爾·雷克（Daniel
     Recker）所使用。聯機模式中為突擊兵的可解鎖武器。
-  - 2013年—《[-{zh-hans:收获日;zh-hant:劫薪日;}-2](https://zh.wikipedia.org/wiki/劫薪日2 "wikilink")》（Payday
+  - 2013年—《[-{zh-hans:收获日;zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》（Payday
     2）：型號為FAMAS F1（預設）及G1（使用G2握把後），命名為「Clarion Rifle」，奇怪的可裝塡30發子彈。
   - 2013年—《[-{zh-hans:孤岛危机3;zh-hant:末日之戰3;}-](https://zh.wikipedia.org/wiki/孤岛危机3 "wikilink")》：以FAMAS
     FÉLIN为蓝本的武器，归类为冲锋枪，命名为“Feline”，60发弹匣。
@@ -204,7 +204,7 @@ F1\]\]
     Felin，命名為「FAMAS」，與前作最大區別為射速比真槍要低（850發/分鐘），歸類為突擊步槍，25+1發彈匣，被警匪兩方操作者（Operator）所使用，價格為$51,000。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro
     T1、SRS 02、[Comp
     M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍）
-    、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式紅點鏡、延長彈匣（增至30+1發）、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
+    、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式紅點鏡、延長彈匣（增至30+1發）、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
 
 ### [动画](../Page/动画.md "wikilink")
 
@@ -226,7 +226,7 @@ F1\]\]
   - [K3突擊步槍](../Page/K3突擊步槍.md "wikilink")
   - [LAPA FA-03突擊步槍](../Page/LAPA_FA-03突擊步槍.md "wikilink")
   - [SA80突擊步槍](../Page/SA80突擊步槍.md "wikilink")
-  - [各國軍隊制式步槍列表](https://zh.wikipedia.org/wiki/各國軍隊制式步槍列表 "wikilink")
+  - [各國軍隊制式步槍列表](../Page/各國軍隊制式步槍列表.md "wikilink")
 
 ## 資料來源
 

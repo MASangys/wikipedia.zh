@@ -10,7 +10,7 @@ Geass
   - [円環少女](https://zh.wikipedia.org/wiki/円環少女 "wikilink")（[長谷敏司](https://zh.wikipedia.org/wiki/長谷敏司 "wikilink")）
   - [虛界怪造學](../Page/虛界怪造學.md "wikilink")（[日日日](../Page/日日日.md "wikilink")）
   - [涼宮春日](https://zh.wikipedia.org/wiki/涼宮春日 "wikilink")（[谷川流](../Page/谷川流.md "wikilink")）
-  - [薔薇的瑪利亞](../Page/薔薇的瑪利亞.md "wikilink")（[十文字青](https://zh.wikipedia.org/wiki/十文字青 "wikilink")）
+  - [薔薇的瑪利亞](../Page/薔薇的瑪利亞.md "wikilink")（[十文字青](../Page/十文字青.md "wikilink")）
   - [蟲之歌bug](https://zh.wikipedia.org/wiki/蟲之歌bug "wikilink")（[岩井恭平](https://zh.wikipedia.org/wiki/岩井恭平 "wikilink")）
   - [ラグナロク](https://zh.wikipedia.org/wiki/ラグナロク "wikilink")（[安井健太郎](https://zh.wikipedia.org/wiki/安井健太郎 "wikilink")）
   - [魔法人力派遣公司](../Page/魔法人力派遣公司.md "wikilink")（[三田誠](https://zh.wikipedia.org/wiki/三田誠 "wikilink")）
@@ -27,7 +27,7 @@ Geass
   - [GOTH
     リストカット事件](https://zh.wikipedia.org/wiki/GOTH_リストカット事件 "wikilink")（[乙一](../Page/乙一.md "wikilink")）
   - [されど罪人は竜と踊る](https://zh.wikipedia.org/wiki/されど罪人は竜と踊る "wikilink")（[浅井ラボ](https://zh.wikipedia.org/wiki/浅井ラボ "wikilink")）
-  - [新羅德斯島戰記](https://zh.wikipedia.org/wiki/新羅德斯島戰記 "wikilink")（[水野良](https://zh.wikipedia.org/wiki/水野良 "wikilink")）
+  - [新羅德斯島戰記](https://zh.wikipedia.org/wiki/新羅德斯島戰記 "wikilink")（[水野良](../Page/水野良.md "wikilink")）
   - [戦闘城塞マスラヲ](https://zh.wikipedia.org/wiki/戦闘城塞マスラヲ "wikilink")（[林トモアキ](https://zh.wikipedia.org/wiki/林トモアキ "wikilink")）
   - [桜ish―推定魔法少女―](https://zh.wikipedia.org/wiki/桜ish―推定魔法少女― "wikilink")（[一肇](https://zh.wikipedia.org/wiki/一肇 "wikilink")）
   - [DOORS](https://zh.wikipedia.org/wiki/DOORS_\(小説\) "wikilink")（[神坂一](../Page/神坂一.md "wikilink")）

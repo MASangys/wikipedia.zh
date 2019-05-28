@@ -1,4 +1,4 @@
-**now直播台**（），是[香港第三個新聞現場直播頻道](../Page/香港.md "wikilink")，此台在2007年4月18日啟播，先以試播形式播映，主要直播[立法會會議](../Page/香港立法會.md "wikilink")、[記者會](https://zh.wikipedia.org/wiki/記者會 "wikilink")、大型活動等，亦有節目重溫。與本台相類似的頻道包括[香港有線電視的](../Page/香港有線電視.md "wikilink")[有線直播新聞台和](../Page/有線直播新聞台.md "wikilink")[香港電台的](../Page/香港電台.md "wikilink")[港台電視32](https://zh.wikipedia.org/wiki/港台電視32 "wikilink")。
+**now直播台**（），是[香港第三個新聞現場直播頻道](../Page/香港.md "wikilink")，此台在2007年4月18日啟播，先以試播形式播映，主要直播[立法會會議](../Page/香港立法會.md "wikilink")、[記者會](https://zh.wikipedia.org/wiki/記者會 "wikilink")、大型活動等，亦有節目重溫。與本台相類似的頻道包括[香港有線電視的](../Page/香港有線電視.md "wikilink")[有線直播新聞台和](../Page/有線直播新聞台.md "wikilink")[香港電台的](../Page/香港電台.md "wikilink")[港台電視32](../Page/港台電視32.md "wikilink")。
 
 2015年11月30日起，now直播台由4:3改為以16:9標清格式廣播，並已成為免費頻道。
 

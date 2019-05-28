@@ -37,7 +37,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/崔秀宗.md" title="wikilink">崔秀宗</a>、<a href="../Page/崔真實.md" title="wikilink">崔真-{}-實</a>、<a href="../Page/李應敬.md" title="wikilink">李應敬</a>、<a href="../Page/金慧利.md" title="wikilink">金慧利</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李勝烈" title="wikilink">李勝烈</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李勝烈.md" title="wikilink">李勝烈</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴英淑.md" title="wikilink">朴英淑</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -76,7 +76,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/崔秀宗.md" title="wikilink">崔秀宗</a>、<a href="../Page/蔡時那.md" title="wikilink">蔡時那</a>、<a href="../Page/李在龍.md" title="wikilink">李在龍</a>、<a href="../Page/韓石圭.md" title="wikilink">韓石圭</a>、<a href="https://zh.wikipedia.org/wiki/金慧秀" title="wikilink">金慧秀</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李勝烈" title="wikilink">李勝烈</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李勝烈.md" title="wikilink">李勝烈</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李順子_(編劇)" title="wikilink">李順子</a>、<a href="https://zh.wikipedia.org/wiki/李善美_(編劇)" title="wikilink">李善美</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -225,7 +225,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 </p></td>
 <td style="text-align: center;"><p>8</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭原仲" title="wikilink">鄭原仲</a>、<a href="../Page/千虎珍.md" title="wikilink">千虎珍</a>、<a href="https://zh.wikipedia.org/wiki/吳志明" title="wikilink">吳志明</a>、<a href="../Page/姜富子.md" title="wikilink">姜富子</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭仁_(導演)" title="wikilink">鄭仁</a>、<a href="https://zh.wikipedia.org/wiki/金思賢" title="wikilink">金思賢</a>、<a href="https://zh.wikipedia.org/wiki/李昌順" title="wikilink">李昌順</a>、<a href="https://zh.wikipedia.org/wiki/李周煥" title="wikilink">李周煥</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭仁_(導演)" title="wikilink">鄭仁</a>、<a href="https://zh.wikipedia.org/wiki/金思賢" title="wikilink">金思賢</a>、<a href="https://zh.wikipedia.org/wiki/李昌順" title="wikilink">李昌順</a>、<a href="../Page/李周煥.md" title="wikilink">李周煥</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹成熙" title="wikilink">尹成熙</a>、<a href="../Page/金仁英.md" title="wikilink">金仁英</a>、<a href="https://zh.wikipedia.org/wiki/鄭有慶" title="wikilink">鄭有慶</a>、<a href="https://zh.wikipedia.org/wiki/李琴珠" title="wikilink">李琴珠</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -243,7 +243,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <tr class="even">
 <td style="text-align: center;"><p>1999年4月5日－<br />
 1999年7月6日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/王朝_(韓國電視劇)" title="wikilink">王朝</a><br />
+<td style="text-align: center;"><p><a href="../Page/王朝_(韓國電視劇).md" title="wikilink">王朝</a><br />
 </p></td>
 <td style="text-align: center;"><p>28</p></td>
 <td style="text-align: center;"><p><a href="../Page/車仁杓.md" title="wikilink">車仁杓</a>、<a href="../Page/宋玧妸.md" title="wikilink">宋玧妸</a>、<a href="../Page/金南珠_(1971年).md" title="wikilink">金南珠</a>、<a href="https://zh.wikipedia.org/wiki/許俊浩" title="wikilink">許俊浩</a></p></td>
@@ -269,7 +269,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金慧秀" title="wikilink">金慧秀</a>、<a href="../Page/孫暢敏.md" title="wikilink">孫暢敏</a>、<a href="../Page/鄭善敬.md" title="wikilink">鄭善敬</a>、<a href="../Page/鄭雄仁.md" title="wikilink">鄭雄仁</a>、<a href="../Page/朴英奎.md" title="wikilink">朴英奎</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李勝烈" title="wikilink">李勝烈</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李勝烈.md" title="wikilink">李勝烈</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭成熙" title="wikilink">鄭成熙</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -329,7 +329,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/歐巴桑_(電視劇)" title="wikilink">歐巴桑</a><br />
 </p></td>
 <td style="text-align: center;"><p>54</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/元美京" title="wikilink">元美京</a>、<a href="https://zh.wikipedia.org/wiki/姜錫宇" title="wikilink">姜錫宇</a>、<a href="../Page/沈慧珍.md" title="wikilink">沈慧珍</a>、<a href="https://zh.wikipedia.org/wiki/宋承桓" title="wikilink">宋承桓</a>、<a href="../Page/李順載.md" title="wikilink">李順載</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/元美京" title="wikilink">元美京</a>、<a href="https://zh.wikipedia.org/wiki/姜錫宇" title="wikilink">姜錫宇</a>、<a href="../Page/沈慧珍.md" title="wikilink">沈慧珍</a>、<a href="../Page/宋承桓.md" title="wikilink">宋承桓</a>、<a href="../Page/李順載.md" title="wikilink">李順載</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/安畔錫.md" title="wikilink">安畔錫</a>、<a href="../Page/李太坤_(導演).md" title="wikilink">李太坤</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/鄭成珠.md" title="wikilink">鄭成珠</a></p></td>
 <td style="text-align: center;"></td>
@@ -379,8 +379,8 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/善姬與真姬" title="wikilink">善姬與真姬</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/孫藝珍" title="wikilink">孫藝珍</a>、<a href="../Page/金奎梨.md" title="wikilink">金奎梨</a>、<a href="../Page/朴埇佑.md" title="wikilink">朴埇佑</a>、<a href="https://zh.wikipedia.org/wiki/尹泰榮" title="wikilink">尹泰榮</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李周煥" title="wikilink">李周煥</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/孫藝珍" title="wikilink">孫藝珍</a>、<a href="../Page/金奎梨.md" title="wikilink">金奎梨</a>、<a href="../Page/朴埇佑.md" title="wikilink">朴埇佑</a>、<a href="../Page/尹泰榮.md" title="wikilink">尹泰榮</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李周煥.md" title="wikilink">李周煥</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金珍淑" title="wikilink">金珍淑</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -762,7 +762,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 </p></td>
 <td style="text-align: center;"><p>81</p></td>
 <td style="text-align: center;"><p><a href="../Page/宋一國.md" title="wikilink">宋一國</a>、<a href="../Page/韓惠軫.md" title="wikilink">韓惠軫</a>、<a href="../Page/金承洙.md" title="wikilink">金承洙</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李周煥" title="wikilink">李周煥</a>、<a href="https://zh.wikipedia.org/wiki/金健洪" title="wikilink">金健洪</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李周煥.md" title="wikilink">李周煥</a>、<a href="https://zh.wikipedia.org/wiki/金健洪" title="wikilink">金健洪</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/崔完圭.md" title="wikilink">崔完圭</a>、<a href="https://zh.wikipedia.org/wiki/鄭亨秀" title="wikilink">鄭亨秀</a></p></td>
 <td style="text-align: center;"><p>（<strong>MBC創社45週年紀念劇</strong>）</p></td>
 </tr>
@@ -844,7 +844,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <td style="text-align: center;"><p><a href="../Page/李祘_(電視劇).md" title="wikilink">李祘</a><br />
 </p></td>
 <td style="text-align: center;"><p>77</p></td>
-<td style="text-align: center;"><p><a href="../Page/李瑞鎮.md" title="wikilink">李瑞鎮</a>、<a href="../Page/韓志旼.md" title="wikilink">韓志旼</a>、<a href="../Page/李順載.md" title="wikilink">李順載</a>、<a href="https://zh.wikipedia.org/wiki/李宗秀" title="wikilink">李宗秀</a>、<a href="../Page/趙軟祐.md" title="wikilink">趙軟祐</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李瑞鎮.md" title="wikilink">李瑞鎮</a>、<a href="../Page/韓志旼.md" title="wikilink">韓志旼</a>、<a href="../Page/李順載.md" title="wikilink">李順載</a>、<a href="../Page/李宗秀.md" title="wikilink">李宗秀</a>、<a href="../Page/趙軟祐.md" title="wikilink">趙軟祐</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/李丙勳.md" title="wikilink">李丙勳</a>、<a href="https://zh.wikipedia.org/wiki/金根洪" title="wikilink">金根洪</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金伊英.md" title="wikilink">金伊英</a></p></td>
 <td style="text-align: center;"><p><strong>MBC創社46週年紀念劇</strong></p></td>
@@ -1056,7 +1056,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="../Page/李多海.md" title="wikilink">李多海</a>、<a href="../Page/朴有天.md" title="wikilink">朴有天</a>、<a href="../Page/姜惠貞.md" title="wikilink">姜惠貞</a>、<a href="../Page/金勝友.md" title="wikilink">金勝友</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔怡燮" title="wikilink">崔怡燮</a>、<a href="https://zh.wikipedia.org/wiki/崔元錫" title="wikilink">崔元錫</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/崔怡燮.md" title="wikilink">崔怡燮</a>、<a href="https://zh.wikipedia.org/wiki/崔元錫" title="wikilink">崔元錫</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金善英" title="wikilink">金善英</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -1078,7 +1078,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 </p></td>
 <td style="text-align: center;"><p>64</p></td>
 <td style="text-align: center;"><p><a href="../Page/安在旭.md" title="wikilink">安在旭</a>、<a href="../Page/南相美.md" title="wikilink">南相美</a>、<a href="../Page/李必模.md" title="wikilink">李必模</a>、<a href="../Page/孫淡妃.md" title="wikilink">孫淡妃</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李周煥" title="wikilink">李周煥</a>、<a href="https://zh.wikipedia.org/wiki/李尚燁" title="wikilink">李尚燁</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李周煥.md" title="wikilink">李周煥</a>、<a href="https://zh.wikipedia.org/wiki/李尚燁" title="wikilink">李尚燁</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/崔完圭.md" title="wikilink">崔完圭</a></p></td>
 <td style="text-align: center;"><p><strong>MBC創社50週年紀念劇</strong></p></td>
 </tr>
@@ -1178,7 +1178,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/文瑾瑩.md" title="wikilink">文瑾瑩</a>、<a href="../Page/李相侖.md" title="wikilink">李相侖</a>、<a href="../Page/金汎.md" title="wikilink">金汎</a>、<a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a>、<a href="../Page/朴建炯.md" title="wikilink">朴建炯</a>、<a href="../Page/徐玄振.md" title="wikilink">徐玄振</a>、<a href="../Page/田光烈_(韓國).md" title="wikilink">田光烈</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴聖洙" title="wikilink">朴聖洙</a>、<a href="https://zh.wikipedia.org/wiki/鄭大胤" title="wikilink">鄭大胤</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朴聖洙.md" title="wikilink">朴聖洙</a>、<a href="https://zh.wikipedia.org/wiki/鄭大胤" title="wikilink">鄭大胤</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/權順奎" title="wikilink">權順奎</a> 、<a href="https://zh.wikipedia.org/wiki/李瑞允" title="wikilink">李瑞允</a></p></td>
 <td style="text-align: center;"><p><strong>月火特別企劃</strong></p></td>
 </tr>
@@ -1224,7 +1224,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <tr class="odd">
 <td style="text-align: center;"><p>2014年5月5日－<br />
 2014年7月29日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Triangle_(電視劇)" title="wikilink">Triangle</a><br />
+<td style="text-align: center;"><p><a href="../Page/Triangle_(電視劇).md" title="wikilink">Triangle</a><br />
 </p></td>
 <td style="text-align: center;"><p>26</p></td>
 <td style="text-align: center;"><p><a href="../Page/李凡秀.md" title="wikilink">李凡秀</a>、<a href="../Page/金在中.md" title="wikilink">金在中</a>、<a href="../Page/時完.md" title="wikilink">任時完</a>、<a href="../Page/吳娟受.md" title="wikilink">吳娟受</a>、<a href="../Page/白珍熙.md" title="wikilink">白珍熙</a></p></td>
@@ -1238,15 +1238,15 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <td style="text-align: center;"><p><a href="../Page/更夫日誌.md" title="wikilink">更夫日誌</a><br />
 </p></td>
 <td style="text-align: center;"><p>24</p></td>
-<td style="text-align: center;"><p><a href="../Page/丁一宇.md" title="wikilink">丁一宇</a>、<a href="../Page/鄭允浩.md" title="wikilink">鄭允浩</a>、<a href="https://zh.wikipedia.org/wiki/高聖熙" title="wikilink">高聖熙</a>、<a href="../Page/徐睿知.md" title="wikilink">徐睿知</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李周煥" title="wikilink">李周煥</a>、<a href="https://zh.wikipedia.org/wiki/尹智勛" title="wikilink">尹智勛</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/丁一宇.md" title="wikilink">丁一宇</a>、<a href="../Page/鄭允浩.md" title="wikilink">鄭允浩</a>、<a href="../Page/高聖熙.md" title="wikilink">高聖熙</a>、<a href="../Page/徐睿知.md" title="wikilink">徐睿知</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李周煥.md" title="wikilink">李周煥</a>、<a href="https://zh.wikipedia.org/wiki/尹智勛" title="wikilink">尹智勛</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/劉東胤" title="wikilink">劉東胤</a>、<a href="https://zh.wikipedia.org/wiki/方誌英" title="wikilink">方誌英</a></p></td>
 <td style="text-align: center;"><p><strong>月火特別企劃</strong></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2014年10月27日－<br />
 2015年1月13日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/傲慢與偏見_(韓國電視劇)" title="wikilink">傲慢與偏見</a><br />
+<td style="text-align: center;"><p><a href="../Page/傲慢與偏見_(韓國電視劇).md" title="wikilink">傲慢與偏見</a><br />
 </p></td>
 <td style="text-align: center;"><p>21</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔真赫" title="wikilink">崔真赫</a>、<a href="../Page/白珍熙.md" title="wikilink">白珍熙</a></p></td>
@@ -1362,14 +1362,14 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔智友" title="wikilink">崔智友</a>、<a href="../Page/朱鎮模.md" title="wikilink">朱鎮模</a>、<a href="../Page/李準_(歌手).md" title="wikilink">李準</a>、-{<a href="../Page/全慧彬.md" title="wikilink">全慧彬</a>}-</p></td>
-<td style="text-align: center;"><p><a href="../Page/姜大善.md" title="wikilink">姜大善</a>、<a href="https://zh.wikipedia.org/wiki/李在珍_(導演)" title="wikilink">李在珍</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/姜大善.md" title="wikilink">姜大善</a>、<a href="../Page/李在珍_(導演).md" title="wikilink">李在珍</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/權音美" title="wikilink">權音美</a></p></td>
 <td style="text-align: center;"><p><strong>月火特別企劃</strong></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2016年11月21日－<br />
 2017年1月24日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/不夜城_(電視劇)" title="wikilink">不夜城</a><br />
+<td style="text-align: center;"><p><a href="../Page/不夜城_(電視劇).md" title="wikilink">不夜城</a><br />
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/晉久.md" title="wikilink">晉久</a>、<a href="../Page/李枖原.md" title="wikilink">李枖原</a>、<a href="https://zh.wikipedia.org/wiki/U-ie" title="wikilink">U-ie</a></p></td>
@@ -1408,7 +1408,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <tr class="odd">
 <td style="text-align: center;"><p>2017年1月30日－<br />
 2017年5月16日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/逆賊：偷百姓的盜賊" title="wikilink">逆賊：偷百姓的盜賊</a><br />
+<td style="text-align: center;"><p><a href="../Page/逆賊：偷百姓的盜賊.md" title="wikilink">逆賊：偷百姓的盜賊</a><br />
 </p></td>
 <td style="text-align: center;"><p>30</p></td>
 <td style="text-align: center;"><p><a href="../Page/尹鈞相.md" title="wikilink">尹鈞相</a>、<a href="../Page/蔡秀彬.md" title="wikilink">蔡秀彬</a>、<a href="../Page/金知碩.md" title="wikilink">金知碩</a>、<a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a></p></td>
@@ -1419,7 +1419,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <tr class="even">
 <td style="text-align: center;"><p>2017年5月22日－<br />
 2017年7月11日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/守望者_(電視劇)" title="wikilink">守望者</a><br />
+<td style="text-align: center;"><p><a href="../Page/守望者_(電視劇).md" title="wikilink">守望者</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/金英光.md" title="wikilink">金英光</a>、<a href="../Page/李是英.md" title="wikilink">李是英</a>、<a href="../Page/金太勳.md" title="wikilink">金太勳</a>、<a href="../Page/金瑟琪.md" title="wikilink">金瑟琪</a>、<a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a></p></td>
@@ -1430,7 +1430,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <tr class="odd">
 <td style="text-align: center;"><p>2017年7月17日－<br />
 2017年9月19日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/王在相愛" title="wikilink">王在相愛</a><br />
+<td style="text-align: center;"><p><a href="../Page/王在相愛.md" title="wikilink">王在相愛</a><br />
 </p></td>
 <td style="text-align: center;"><p>40</p></td>
 <td style="text-align: center;"><p><a href="../Page/時完.md" title="wikilink">任時完</a>、<a href="https://zh.wikipedia.org/wiki/潤娥" title="wikilink">潤娥</a>、<a href="../Page/洪宗玄.md" title="wikilink">洪宗玄</a></p></td>
@@ -1442,22 +1442,22 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <tr class="even">
 <td style="text-align: center;"><p>2017年10月9日－<br />
 2017年11月28日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/20世紀少男少女" title="wikilink">20世紀少男少女</a><br />
+<td style="text-align: center;"><p><a href="../Page/20世紀少男少女.md" title="wikilink">20世紀少男少女</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/韓藝瑟.md" title="wikilink">韓藝瑟</a>、<a href="../Page/金知碩.md" title="wikilink">金知碩</a>、<a href="../Page/李尚禹.md" title="wikilink">李尚禹</a>、<a href="../Page/柳賢慶.md" title="wikilink">柳賢慶</a>、</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李東允" title="wikilink">李東允</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李善慧" title="wikilink">李善慧</a></p></td>
 <td style="text-align: center;"><p><strong>月火特別企劃</strong><br />
-因MBC電視台希望下一檔劇能跟對手同時間開播，改成11月28日結束，只是跟同檔的《<a href="https://zh.wikipedia.org/wiki/Two_Cops" title="wikilink">Two Cops</a>》分成不同時段播出。[2]</p></td>
+因MBC電視台希望下一檔劇能跟對手同時間開播，改成11月28日結束，只是跟同檔的《<a href="../Page/Two_Cops.md" title="wikilink">Two Cops</a>》分成不同時段播出。[2]</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2017年11月27日－<br />
 2018年1月16日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Two_Cops" title="wikilink">Two Cops</a><br />
+<td style="text-align: center;"><p><a href="../Page/Two_Cops.md" title="wikilink">Two Cops</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/曹政奭.md" title="wikilink">曹政奭</a>、<a href="../Page/惠利.md" title="wikilink">惠利</a>、<a href="https://zh.wikipedia.org/wiki/李浩沅" title="wikilink">李浩沅</a>、<a href="https://zh.wikipedia.org/wiki/金善浩" title="wikilink">金善浩</a>、<a href="../Page/林世美.md" title="wikilink">林世美</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/曹政奭.md" title="wikilink">曹政奭</a>、<a href="../Page/惠利.md" title="wikilink">惠利</a>、<a href="https://zh.wikipedia.org/wiki/李浩沅" title="wikilink">李浩沅</a>、<a href="../Page/金善浩.md" title="wikilink">金善浩</a>、<a href="../Page/林世美.md" title="wikilink">林世美</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳賢鍾" title="wikilink">吳賢鍾</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/卞尚順" title="wikilink">卞尚順</a></p></td>
 <td style="text-align: center;"><p><strong>月火特別企劃</strong></p></td>
@@ -1493,7 +1493,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <tr class="odd">
 <td style="text-align: center;"><p>2018年3月12日－<br />
 2018年5月1日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/偉大的誘惑者" title="wikilink">偉大的誘惑者</a><br />
+<td style="text-align: center;"><p><a href="../Page/偉大的誘惑者.md" title="wikilink">偉大的誘惑者</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/禹棹奐" title="wikilink">禹棹奐</a>、<a href="../Page/Joy_(Red_Velvet).md" title="wikilink">Joy</a>、<a href="../Page/金旻載.md" title="wikilink">金旻載</a>、<a href="../Page/文佳煐.md" title="wikilink">文佳煐</a></p></td>
@@ -1504,10 +1504,10 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <tr class="even">
 <td style="text-align: center;"><p>2018年5月7日－<br />
 2018年5月8日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/瘋了，因為你！" title="wikilink">瘋了，因為你！</a><br />
+<td style="text-align: center;"><p><a href="../Page/瘋了，因為你！.md" title="wikilink">瘋了，因為你！</a><br />
 </p></td>
 <td style="text-align: center;"><p>4</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李宥英" title="wikilink">李宥英</a>、<a href="https://zh.wikipedia.org/wiki/金善浩" title="wikilink">金善浩</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李宥英.md" title="wikilink">李宥英</a>、<a href="../Page/金善浩.md" title="wikilink">金善浩</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/玄率葉" title="wikilink">玄率葉</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴美玲" title="wikilink">朴美玲</a></p></td>
 <td style="text-align: center;"><p><strong>獨幕劇</strong></p></td>
@@ -1515,18 +1515,18 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <tr class="odd">
 <td style="text-align: center;"><p>2018年5月14日－<br />
 2018年7月17日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/檢法男女" title="wikilink">檢法男女</a><br />
+<td style="text-align: center;"><p><a href="../Page/檢法男女.md" title="wikilink">檢法男女</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/鄭在詠.md" title="wikilink">鄭在詠</a>、<a href="../Page/鄭柔美.md" title="wikilink">鄭柔美</a>、<a href="../Page/李伊庚.md" title="wikilink">李伊庚</a>、、<a href="https://zh.wikipedia.org/wiki/斯蒂芬妮·李" title="wikilink">斯蒂芬妮·李</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/盧道哲" title="wikilink">盧道哲</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/鄭在詠.md" title="wikilink">鄭在詠</a>、<a href="../Page/鄭柔美.md" title="wikilink">鄭柔美</a>、<a href="../Page/李伊庚.md" title="wikilink">李伊庚</a>、、<a href="../Page/斯蒂芬妮·李.md" title="wikilink">斯蒂芬妮·李</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/盧道哲.md" title="wikilink">盧道哲</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/閔智恩" title="wikilink">閔智恩</a>、<a href="https://zh.wikipedia.org/wiki/元英實" title="wikilink">元英實</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2018年7月23日－<br />
 2018年9月17日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/生死決斷羅曼史" title="wikilink">生死決斷羅曼史</a><br />
+<td style="text-align: center;"><p><a href="../Page/生死決斷羅曼史.md" title="wikilink">生死決斷羅曼史</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/智鉉寓.md" title="wikilink">智鉉寓</a>、<a href="../Page/李是英.md" title="wikilink">李是英</a>、、<a href="../Page/尹周熙.md" title="wikilink">尹周熙</a></p></td>
@@ -1540,7 +1540,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/壞爸爸" title="wikilink">壞爸爸</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a>、<a href="../Page/孫汝恩.md" title="wikilink">孫汝恩</a>、<a href="https://zh.wikipedia.org/wiki/申銀秀" title="wikilink">申銀秀</a>、<a href="https://zh.wikipedia.org/wiki/河俊" title="wikilink">河俊</a>、<a href="../Page/金栽經.md" title="wikilink">金栽經</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/張赫_(韓國).md" title="wikilink">張赫</a>、<a href="../Page/孫汝恩.md" title="wikilink">孫汝恩</a>、<a href="../Page/申銀秀.md" title="wikilink">申銀秀</a>、<a href="https://zh.wikipedia.org/wiki/河俊" title="wikilink">河俊</a>、<a href="../Page/金栽經.md" title="wikilink">金栽經</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳昌奎" title="wikilink">陳昌奎</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金成民" title="wikilink">金成民</a></p></td>
 <td style="text-align: center;"></td>
@@ -1551,8 +1551,8 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <td style="text-align: center;"><p><a href="../Page/壞刑警.md" title="wikilink">壞刑警</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/申河均.md" title="wikilink">申河均</a>、<a href="https://zh.wikipedia.org/wiki/朴浩山" title="wikilink">朴浩山</a>、<a href="../Page/Baro.md" title="wikilink">Baro</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金大鎮" title="wikilink">金大鎮</a>、<a href="https://zh.wikipedia.org/wiki/李棟賢" title="wikilink">李棟賢</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/申河均.md" title="wikilink">申河均</a>、<a href="../Page/朴浩山.md" title="wikilink">朴浩山</a>、<a href="../Page/Baro.md" title="wikilink">Baro</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金大鎮.md" title="wikilink">金大鎮</a>、<a href="https://zh.wikipedia.org/wiki/李棟賢" title="wikilink">李棟賢</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/許俊宇" title="wikilink">許俊宇</a>、<a href="https://zh.wikipedia.org/wiki/姜伊賢" title="wikilink">姜伊賢</a></p></td>
 <td style="text-align: center;"><p>原作：《<a href="https://zh.wikipedia.org/wiki/路德探長" title="wikilink">路德探長 (Luther)</a>》</p></td>
 </tr>
@@ -1601,7 +1601,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <td style="text-align: center;"><p><a href="../Page/特別勞動監督官趙掌風.md" title="wikilink">特別勞動監督官趙掌風</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/金東旭.md" title="wikilink">金東旭</a>、<a href="../Page/朴世榮.md" title="wikilink">朴世榮</a>、<a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="https://zh.wikipedia.org/wiki/薛仁雅" title="wikilink">薛仁雅</a>、<a href="https://zh.wikipedia.org/wiki/金景南" title="wikilink">金景南</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金東旭.md" title="wikilink">金東旭</a>、<a href="../Page/朴世榮.md" title="wikilink">朴世榮</a>、<a href="../Page/柳德煥.md" title="wikilink">柳德煥</a>、<a href="../Page/薛仁雅.md" title="wikilink">薛仁雅</a>、<a href="../Page/金景南.md" title="wikilink">金景南</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴元國" title="wikilink">朴元國</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金班迪" title="wikilink">金班迪</a></p></td>
 <td style="text-align: center;"></td>
@@ -1613,7 +1613,7 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"><p><a href="../Page/鄭柔美.md" title="wikilink">鄭柔美</a>、<a href="../Page/鄭在詠.md" title="wikilink">鄭在詠</a>、<a href="../Page/李伊庚.md" title="wikilink">李伊庚</a>、、<a href="https://zh.wikipedia.org/wiki/史蒂芬妮·李" title="wikilink">史蒂芬妮·李</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/盧道哲" title="wikilink">盧道哲</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/盧道哲.md" title="wikilink">盧道哲</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/閔智恩" title="wikilink">閔智恩</a>、<a href="https://zh.wikipedia.org/wiki/元英實" title="wikilink">元英實</a></p></td>
 <td style="text-align: center;"></td>
 </tr>

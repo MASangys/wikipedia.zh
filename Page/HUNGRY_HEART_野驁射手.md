@@ -290,7 +290,7 @@
 
 ### 製作人員
 
-  - 製作：[本橋浩一](https://zh.wikipedia.org/wiki/本橋浩一 "wikilink")
+  - 製作：[本橋浩一](../Page/本橋浩一.md "wikilink")
   - 企畫：[佐藤昭司](https://zh.wikipedia.org/wiki/佐藤昭司 "wikilink")、[瀧山雅夫](https://zh.wikipedia.org/wiki/瀧山雅夫 "wikilink")、[松崎容子](https://zh.wikipedia.org/wiki/松崎容子 "wikilink")
   - 製作管理：[遠藤重夫](https://zh.wikipedia.org/wiki/遠藤重夫 "wikilink")
   - 監督：[嵯峨敏](https://zh.wikipedia.org/wiki/嵯峨敏 "wikilink")
@@ -438,7 +438,7 @@
 <td></td>
 <td><p>不要輕看足球</p></td>
 <td><p>石山貴明<br />
-<a href="https://zh.wikipedia.org/wiki/鏑木宏" title="wikilink">鏑木宏</a></p></td>
+<a href="../Page/鏑木宏.md" title="wikilink">鏑木宏</a></p></td>
 <td><p>鏑木宏</p></td>
 <td><p>加瀬政廣</p></td>
 <td></td>
@@ -458,7 +458,7 @@
 <td><p>9</p></td>
 <td></td>
 <td><p>男子漢，怎可以這麼怯？</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/康村諒" title="wikilink">康村諒</a></p></td>
+<td><p><a href="../Page/康村諒.md" title="wikilink">康村諒</a></p></td>
 <td><p>桝井剛</p></td>
 <td><p>山口正三</p></td>
 <td><p>青木哲朗</p></td>

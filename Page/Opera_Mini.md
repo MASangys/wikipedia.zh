@@ -11,7 +11,7 @@ Mobile](../Page/Windows_Mobile.md "wikilink")、[Symbian及](https://zh.wikipedi
 
 ## 功能
 
-  - 支持标准的[WWW与](https://zh.wikipedia.org/wiki/WWW "wikilink")[WAP网站浏览](https://zh.wikipedia.org/wiki/WAP "wikilink")，支持[RSS订阅](../Page/RSS.md "wikilink")，内置[搜索引擎](https://zh.wikipedia.org/wiki/搜索引擎 "wikilink")，支持快捷键。
+  - 支持标准的[WWW与](https://zh.wikipedia.org/wiki/WWW "wikilink")[WAP网站浏览](https://zh.wikipedia.org/wiki/WAP "wikilink")，支持[RSS订阅](../Page/RSS.md "wikilink")，内置[搜索引擎](../Page/搜索引擎.md "wikilink")，支持快捷键。
   - Opera
     Link帐户：可以通过个人注册的帐户，免费在Opera服务器上保存书签、笔记（仅第4版支持）、快速拨号，并可在多种上网终端同步个人账户内的信息。目前Opera
     Link还支持在联动的服务器同步[RSS订阅](../Page/RSS.md "wikilink")。

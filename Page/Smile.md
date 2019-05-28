@@ -29,7 +29,7 @@
     (關心妍專輯)](https://zh.wikipedia.org/wiki/Smile_\(關心妍專輯\) "wikilink")，[關心妍於](../Page/關心妍.md "wikilink")2016年發行的專輯
 
   - [Smile
-    (倉木麻衣專輯)](https://zh.wikipedia.org/wiki/Smile_\(倉木麻衣專輯\) "wikilink")，[倉木麻衣於](../Page/倉木麻衣.md "wikilink")2017年發行的首張專輯
+    (倉木麻衣專輯)](../Page/Smile_\(倉木麻衣專輯\).md "wikilink")，[倉木麻衣於](../Page/倉木麻衣.md "wikilink")2017年發行的首張專輯
 
   - ，由[查理·卓別林作曲](https://zh.wikipedia.org/wiki/查理·卓別林 "wikilink")
 

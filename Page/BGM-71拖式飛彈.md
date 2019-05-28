@@ -9,7 +9,7 @@ TOW的生產開始於1970年，是現在世界上最廣泛使用的反坦克導�
 
 ## 歷史
 
-此飛彈最初由[休斯飛機公司在](https://zh.wikipedia.org/wiki/休斯飛機公司 "wikilink")1963年－1968年間研發，代號XBGM-71A，設計是希望讓地面和直昇機都能使用。在1968年，休斯獲得了一份全面生產合約，並在1970年美國陸軍開始部署此武器系統。在被採用後，BGM-71系列取代了當時服役的[M40](https://zh.wikipedia.org/wiki/M40無後座力炮 "wikilink")
+此飛彈最初由[休斯飛機公司在](https://zh.wikipedia.org/wiki/休斯飛機公司 "wikilink")1963年－1968年間研發，代號XBGM-71A，設計是希望讓地面和直昇機都能使用。在1968年，休斯獲得了一份全面生產合約，並在1970年美國陸軍開始部署此武器系統。在被採用後，BGM-71系列取代了當時服役的[M40](../Page/M40無後座力炮.md "wikilink")
 106mm[無後作力砲和](https://zh.wikipedia.org/wiki/無後作力砲 "wikilink")飛彈系統，此飛彈也取代的當時直昇機使用的[AGM-22B飛彈作為機降反坦克武器](https://zh.wikipedia.org/wiki/SS-11飛彈 "wikilink")。此飛彈在1972年被作戰部署至南越，以因應當時北越的[復活節攻勢](../Page/復活節攻勢.md "wikilink")，並配備在[UH-1B直昇機上](../Page/UH-1直升機.md "wikilink")。拖式飛彈一直的不斷在升級改善，第一種改良型在1978出現，TOW
 2在1983年，TOW 2A/B在1987年，甚至到最近的2001年，拖式飛彈的改善仍在持續。
 
@@ -158,7 +158,7 @@ ITAS。在[伊拉克自由行動中](https://zh.wikipedia.org/wiki/伊拉克戰�
 ## 相關條目
 
   - [颱風反坦克導彈](../Page/颱風反坦克導彈.md "wikilink")
-  - [M47龍式反坦克飛彈](https://zh.wikipedia.org/wiki/M47龍式反坦克飛彈 "wikilink")
+  - [M47龍式反坦克飛彈](../Page/M47龍式反坦克飛彈.md "wikilink")
   - [ERYX反坦克導彈](../Page/ERYX反坦克導彈.md "wikilink")
   - [FGM-148標槍飛彈](../Page/FGM-148標槍飛彈.md "wikilink")
   - [79式反載具飛彈](../Page/79式反載具飛彈.md "wikilink")

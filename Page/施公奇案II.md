@@ -808,7 +808,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/林遠迎" title="wikilink">林遠迎</a></p></td>
+<td><p><a href="../Page/林遠迎.md" title="wikilink">林遠迎</a></p></td>
 <td><p>歐陽漢</p></td>
 <td><p>何佩珊之夫<br />
 玲瓏之戲迷兼情夫（于第8集分手）<br />

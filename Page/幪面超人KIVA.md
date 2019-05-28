@@ -260,7 +260,7 @@ Wake up three‧''King"s world End（皇之世界終結）(沒有在劇中使用
 
 KIVA變身成Dogabaki Emperor Form 的新形態， 必杀技是轰吼浪帝王踢。
 
-## [S.I.C. 英雄傳說](https://zh.wikipedia.org/wiki/S.I.C._英雄傳說 "wikilink")
+## [S.I.C. 英雄傳說](../Page/S.I.C._英雄傳說.md "wikilink")
 
 「幪面超人月騎 吸血之帝皇」是延續電視版後的故事，2010年1月至4月於Hobby Japan連載。
 
@@ -794,7 +794,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>34</p></td>
 <td><p>ノイズ・破壊の旋律</p></td>
 <td><p>紊亂之音・破壞的旋律（視聴率：5.7℅）</p></td>
-<td><p><a href="../Page/虻.md" title="wikilink">ホースフライファンガイア</a>（人間體:<a href="https://zh.wikipedia.org/wiki/宮下ともみ" title="wikilink">宮下ともみ</a>/聲: <a href="https://zh.wikipedia.org/wiki/峯香織" title="wikilink">峯香織</a>）<br />
+<td><p><a href="../Page/虻.md" title="wikilink">ホースフライファンガイア</a>（人間體:<a href="https://zh.wikipedia.org/wiki/宮下ともみ" title="wikilink">宮下ともみ</a>/聲: <a href="../Page/峯香織.md" title="wikilink">峯香織</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/鳳蝶" title="wikilink">スワローテイルファンガイア</a></p></td>
 <td><p>長石多可男</p></td>
 <td></td>
@@ -840,7 +840,7 @@ Hammer」作戰，但不久即敗陣。
 <td><p>38</p></td>
 <td><p>魔王・母と子の再会</p></td>
 <td><p>魔王・母與子的重逢（視聴率：6.3℅）</p></td>
-<td><p><a href="../Page/螳螂.md" title="wikilink">マンティスファンガイア</a>（聲: <a href="https://zh.wikipedia.org/wiki/武虎" title="wikilink">武虎</a>）<br />
+<td><p><a href="../Page/螳螂.md" title="wikilink">マンティスファンガイア</a>（聲: <a href="../Page/武虎.md" title="wikilink">武虎</a>）<br />
 再生ファンガイア軍団</p></td>
 <td><p>田﨑竜太</p></td>
 <td></td>

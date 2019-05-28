@@ -20,8 +20,7 @@ X58](https://zh.wikipedia.org/wiki/Intel_X58 "wikilink")[晶片組](https://zh.w
 
 ### 2017年
 
-應[AMD
-Ryzen的推出](https://zh.wikipedia.org/wiki/AMD_Ryzen "wikilink")，英特爾推出定位高階、極致的產品Core
+應[AMD Ryzen的推出](../Page/AMD_Ryzen.md "wikilink")，英特爾推出定位高階、極致的產品Core
 i9。首代Core i9屬於英特爾第7世代Core i系列處理器。不过Core i9首次在发烧级桌面平台发布，2018年3月，Core
 i9下放到移动平台，隶属于英特爾第8世代Core i系列處理器，同时Core i9成为移动平台唯一不锁倍频的处理器。
 
@@ -264,10 +263,8 @@ i9下放到移动平台，隶属于英特爾第8世代Core i系列處理器，�
 ## 相關條目
 
   - Intel Core i 系列產品
-      - [Intel Core
-        i3](https://zh.wikipedia.org/wiki/Intel_Core_i3處理器列表 "wikilink")
-      - [Intel Core
-        i5](https://zh.wikipedia.org/wiki/Intel_Core_i5處理器列表 "wikilink")
+      - [Intel Core i3](../Page/Intel_Core_i3處理器列表.md "wikilink")
+      - [Intel Core i5](../Page/Intel_Core_i5處理器列表.md "wikilink")
       - [Intel Core i7](../Page/Intel_Core_i7處理器列表.md "wikilink")
       - **Intel Core i9**
 

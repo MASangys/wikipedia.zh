@@ -105,7 +105,7 @@ Jump](https://zh.wikipedia.org/wiki/週刊Young_Jump "wikilink")》在2006年所
 
 #### 次要
 
-  - 神野神太郎：[大杉漣](https://zh.wikipedia.org/wiki/大杉漣 "wikilink")（第2～3話、第6話）
+  - 神野神太郎：[大杉漣](../Page/大杉漣.md "wikilink")（第2～3話、第6話）
   - 文字山次郎：[劇團一人](../Page/劇團一人.md "wikilink")（第3～5話）
   - 斬野シト：[京本政樹](../Page/京本政樹.md "wikilink")（第5～7話）
   - 菅田步美（すがた あゆみ）：[大政絢](../Page/大政絢.md "wikilink")（第6話～）

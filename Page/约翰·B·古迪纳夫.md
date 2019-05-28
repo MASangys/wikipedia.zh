@@ -1,4 +1,4 @@
-**约翰·巴尼斯特·古迪纳夫**（，），[美国](../Page/美国.md "wikilink")[固体物理学家](https://zh.wikipedia.org/wiki/固体物理学 "wikilink")，是二次電池產業的重要學者。他目前是美國[德州大學奧斯汀分校的](https://zh.wikipedia.org/wiki/德州大學奧斯汀分校 "wikilink")[機械工程和](https://zh.wikipedia.org/wiki/機械工程 "wikilink")[材料科學教授](https://zh.wikipedia.org/wiki/材料科學 "wikilink")。\[1\]
+**约翰·巴尼斯特·古迪纳夫**（，），[美国](../Page/美国.md "wikilink")[固体物理学家](../Page/固体物理学.md "wikilink")，是二次電池產業的重要學者。他目前是美國[德州大學奧斯汀分校的](https://zh.wikipedia.org/wiki/德州大學奧斯汀分校 "wikilink")[機械工程和](https://zh.wikipedia.org/wiki/機械工程 "wikilink")[材料科學教授](https://zh.wikipedia.org/wiki/材料科學 "wikilink")。\[1\]
 
 2014年，[美国国家工程院公认古迪纳夫](../Page/美国国家工程院.md "wikilink")、、和[吉野彰为現代](../Page/吉野彰.md "wikilink")[锂离子电池所做的先驱性和领先性的基础工作](../Page/锂离子电池.md "wikilink")\[2\]。
 

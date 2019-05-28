@@ -38,7 +38,7 @@
 <td><center>
 <p><a href="../Page/池晟.md" title="wikilink">池晟</a></p></td>
 <td><p>崔正元</p></td>
-<td><p>父親在<a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a><a href="https://zh.wikipedia.org/wiki/永登浦區" title="wikilink">永登浦管理多間娛樂場所</a>，正元因此常去父親的電影院獨個兒看電影。在學校，正元遇到剛復學的仁賀，並與他成為好朋友。</p></td>
+<td><p>父親在<a href="../Page/首爾.md" title="wikilink">首爾</a><a href="https://zh.wikipedia.org/wiki/永登浦區" title="wikilink">永登浦管理多間娛樂場所</a>，正元因此常去父親的電影院獨個兒看電影。在學校，正元遇到剛復學的仁賀，並與他成為好朋友。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -54,7 +54,7 @@
 |                                                     |          |                            |
 | --------------------------------------------------- | -------- | -------------------------- |
 | 演員                                                  | 角色       | 介紹                         |
-| [許峻豪](https://zh.wikipedia.org/wiki/許峻豪 "wikilink") | 劉宗丘      | 仁賀在獄中認識的朋友，出獄後跟仁賀兩人出生入死。   |
+| [許峻豪](../Page/許峻豪.md "wikilink")                    | 劉宗丘      | 仁賀在獄中認識的朋友，出獄後跟仁賀兩人出生入死。   |
 | [金兌妍](https://zh.wikipedia.org/wiki/金兌妍 "wikilink") | 珍妮       | 在美國接應仁賀與宗丘，並介紹專家給仁賀教授賭術。   |
 | [崔俊用](../Page/崔俊用.md "wikilink")                    | \-{朴}-泰俊 | 仁賀高中時的好朋友，後來任職警察。          |
 | [崔貞媛](../Page/崔貞媛.md "wikilink")                    | 劉貞愛      | 母親與仁賀的叔叔是好朋友。貞愛從小就一直暗戀著仁賀。 |

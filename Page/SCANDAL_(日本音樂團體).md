@@ -1,5 +1,5 @@
 \-{zh:**SCANDAL**（）;zh-tw:**史坎朵**（**SCANDAL**，）;zh-hk:**SCANDAL**（，台譯**史坎朵**）;zh-cn:**SCANDAL**（，台译**史坎朵**）;}-是一支[日本女子](../Page/日本.md "wikilink")[搖滾樂團](https://zh.wikipedia.org/wiki/搖滾樂團 "wikilink")，在2006年8月於[大阪組成](https://zh.wikipedia.org/wiki/大阪 "wikilink")。自組成樂團後，她們開始到[大阪城公園](../Page/大阪城公園.md "wikilink")（城天）作街頭表演。SCANDAL於正式出道前曾於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[香港等日本海外地方演出](../Page/香港.md "wikilink")。2008年3月她們跟[Kitty
-Records和](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")[Tower
+Records和](../Page/Kitty_film.md "wikilink")[Tower
 Records簽約](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")。2008年10月，SCANDAL以單曲《[DOLL](../Page/DOLL.md "wikilink")》正式出道。2010年，SCANDAL的一些歌曲被起用為動畫歌曲，例如《[BLEACH](../Page/BLEACH_\(動畫\).md "wikilink")》和《[鋼之鍊金術師
 FULLMETAL
 ALCHEMIST](../Page/鋼之鍊金術師_FULLMETAL_ALCHEMIST.md "wikilink")》等等，令樂團人氣急速上升。2012年3月28日，SCANDAL成功在[日本武道館開辦個人演唱會](../Page/日本武道館.md "wikilink")，是當時日本史上最快能夠在日本武道館開個人演唱會的女子樂團。2015年1月SCANDAL舉辦了
@@ -105,7 +105,7 @@ SCANDAL在樂團組成之前她們都會經常去一間位於日本大阪市都�
 
 2006年8月，SCANDAL於[大阪成立](https://zh.wikipedia.org/wiki/大阪 "wikilink")，成員包括主唱HARUNA，[吉他手MAMI](../Page/吉他.md "wikilink")、[貝斯手TOMOMI和鼓手RINA](https://zh.wikipedia.org/wiki/貝斯 "wikilink")。TOMOMI和RINA來自一所聲樂及舞蹈學校的大阪分校，HARUNA和MAMI則來自[名古屋分校](https://zh.wikipedia.org/wiki/名古屋 "wikilink")\[2\]。成員當中只有MAMI曾於高中時擔任樂團鼓手\[3\]，其他成員均不懂得演奏樂器\[4\]。樂團成立一周後便有一場現場表演，她們為此每天在錄音室練習12小時\[5\]。在8月下旬，她們將樂團命名為「-{SCANDAL}-」\[6\]。自組成樂團後，她們開始到[大阪城公園](../Page/大阪城公園.md "wikilink")（城天）作街頭表演，亦時會到[關西的一些場地表演](../Page/近畿地方.md "wikilink")\[7\]\[8\]。由於她們當時表演的地方跟大型表演場地[大阪城大廳](https://zh.wikipedia.org/wiki/大阪城大廳 "wikilink")（）相當接近，所以她們自組成以來一直希望在那裏開演唱會\[9\]。2007年8月，她們獲邀到[澀谷Club](../Page/澀谷.md "wikilink")
 asia的一個活動上表演，這是樂團首次離開關西，並在[東京演出](https://zh.wikipedia.org/wiki/東京 "wikilink")\[10\]\[11\]。據SCANDAL所講，由於場上有來自唱片公司的人，所以該次表演對她們出道的影響十分重大\[12\]。她們幾個月後跟[Kitty
-Records和](https://zh.wikipedia.org/wiki/Kitty_film "wikilink")[Tower
+Records和](../Page/Kitty_film.md "wikilink")[Tower
 Records簽約](https://zh.wikipedia.org/wiki/TOWER_RECORDS "wikilink")。
 
 ### 獨立製作時期
@@ -142,7 +142,7 @@ base
 ～你給我的東西～](../Page/Secret_base_～你給我的東西～.md "wikilink")》，以網上下載鈴聲形式發行\[34\]。6月，她們發行了第6張單曲《[太陽與你所描繪的STORY](../Page/太陽與你所描繪的STORY.md "wikilink")》\[35\]和其首張演唱會DVD《SCANDAL
 FIRST LIVE - BEST★SCANDAL 2009
 -》，其中DVD獲得了Oricon公信榜DVD綜合榜第5名\[36\]。第7張單曲《[遺憾的眼淚](../Page/遺憾的眼淚.md "wikilink")》於7月發行，為樂團首張抒情單曲\[37\]。8月，第2張專輯《[TEMPTATION
-BOX](../Page/TEMPTATION_BOX.md "wikilink")》於全球42個國家發行\[38\]。這張專輯取得Oricon公信榜第3名，為自2009年[Chatmonchy](https://zh.wikipedia.org/wiki/Chatmonchy "wikilink")（）的《告白》以來，再次有女子樂團專輯打進該榜頭三名\[39\]。SCANDAL於10月發行她們2010年最後一張單曲《[踢飛醜聞](../Page/踢飛醜聞.md "wikilink")》\[40\]，並憑該單曲於公信榜單曲周榜上取得第3位\[41\]，為樂團當時於該榜的最高名次。11月，她們發行其首張翻唱專輯《[R-GIRL's
+BOX](../Page/TEMPTATION_BOX.md "wikilink")》於全球42個國家發行\[38\]。這張專輯取得Oricon公信榜第3名，為自2009年[Chatmonchy](../Page/Chatmonchy.md "wikilink")（）的《告白》以來，再次有女子樂團專輯打進該榜頭三名\[39\]。SCANDAL於10月發行她們2010年最後一張單曲《[踢飛醜聞](../Page/踢飛醜聞.md "wikilink")》\[40\]，並憑該單曲於公信榜單曲周榜上取得第3位\[41\]，為樂團當時於該榜的最高名次。11月，她們發行其首張翻唱專輯《[R-GIRL's
 ROCK\!](../Page/R-GIRL's_ROCK!.md "wikilink")》，翻唱多首女歌手的歌曲\[42\]。
 
 [SCANDAL_band_at_AFA-X_2010_Singapore.jpg](https://zh.wikipedia.org/wiki/File:SCANDAL_band_at_AFA-X_2010_Singapore.jpg "fig:SCANDAL_band_at_AFA-X_2010_Singapore.jpg")。\]\]
@@ -150,7 +150,7 @@ ROCK\!](../Page/R-GIRL's_ROCK!.md "wikilink")》，翻唱多首女歌手的歌�
 MUSIX FALL
 2010」演唱會，演唱了多首歌曲，亦跟歌手[中川翔子合唱了](../Page/中川翔子.md "wikilink")《[Don't
 say
-"lazy"](https://zh.wikipedia.org/wiki/Don't_say_"lazy" "wikilink")》一曲\[45\]。11月14日，她們到了於[新加坡舉辦的大型動漫活動](../Page/新加坡.md "wikilink")[亞洲動漫節](https://zh.wikipedia.org/wiki/亞洲動漫節 "wikilink")（AFA）演出\[46\]。
+"lazy"](../Page/Don't_say_"lazy".md "wikilink")》一曲\[45\]。11月14日，她們到了於[新加坡舉辦的大型動漫活動](../Page/新加坡.md "wikilink")[亞洲動漫節](https://zh.wikipedia.org/wiki/亞洲動漫節 "wikilink")（AFA）演出\[46\]。
 
   - 2011年
 
@@ -549,7 +549,7 @@ Gadd](https://zh.wikipedia.org/wiki/Steve_Gadd "wikilink")，TOMOMI則舉出[討
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SCANDAL_(SCANDAL的專輯)" title="wikilink">SCANDAL</a></p></td>
+<td><p><a href="../Page/SCANDAL_(SCANDAL的專輯).md" title="wikilink">SCANDAL</a></p></td>
 <td><p>2017年2月15日</p></td>
 <td><p>第2名</p></td>
 </tr>

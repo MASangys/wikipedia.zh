@@ -137,7 +137,7 @@ South Beach JW萬豪酒店\]\]
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a></p></td>
 <td><p>2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾" title="wikilink">首爾</a> (2)</p></td>
+<td><p><a href="../Page/首爾.md" title="wikilink">首爾</a> (2)</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/中國.md" title="wikilink">中國</a></p></td>

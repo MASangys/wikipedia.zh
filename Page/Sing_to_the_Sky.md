@@ -56,7 +56,7 @@ TICKET」，讓幸運買到的樂迷，可以到2008年7月7日開始的全國�
         7th單曲。電影『哆啦A夢 大雄與綠之巨人傳』主題歌。
 11. **愛與謊言的真實（）**
       -
-        作詞：絢香/作曲：絢香、西尾芳彦/編曲：[安部潤](https://zh.wikipedia.org/wiki/安部潤 "wikilink")
+        作詞：絢香/作曲：絢香、西尾芳彦/編曲：[安部潤](../Page/安部潤.md "wikilink")
 12. **[CLAP\&LOVE](https://zh.wikipedia.org/wiki/CLAP&LOVE/Why "wikilink")**
       -
         作詞：絢香/作曲：絢香、西尾芳彦/編曲：[松浦晃久](https://zh.wikipedia.org/wiki/松浦晃久 "wikilink")

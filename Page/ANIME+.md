@@ -13,11 +13,11 @@ BS11數位於2007年12月1日同時開設了兩個播放時段。這兩個播放
 
 ###
 
-| 番組名                                                               | 放送期間        | 放送時間          | 備考                                                        |
-| ----------------------------------------------------------------- | ----------- | ------------- | --------------------------------------------------------- |
-| **土曜日**                                                           |             |               |                                                           |
-| [機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink")              | 2018年2月3日 - | 19:00 - 19:30 | かつて[BS-TBSで放送したため実質再放送となる](../Page/BS-TBS.md "wikilink")。 |
-| [鋼彈創鬥者 潛網大戰](https://zh.wikipedia.org/wiki/鋼彈創鬥者_潛網大戰 "wikilink") | 2018年4月7日 - | 19:30 - 20:00 |                                                           |
+| 番組名                                                  | 放送期間        | 放送時間          | 備考                                                        |
+| ---------------------------------------------------- | ----------- | ------------- | --------------------------------------------------------- |
+| **土曜日**                                              |             |               |                                                           |
+| [機動戰士GUNDAM 00](../Page/機動戰士GUNDAM_00.md "wikilink") | 2018年2月3日 - | 19:00 - 19:30 | かつて[BS-TBSで放送したため実質再放送となる](../Page/BS-TBS.md "wikilink")。 |
+| [鋼彈創鬥者 潛網大戰](../Page/鋼彈創鬥者_潛網大戰.md "wikilink")       | 2018年4月7日 - | 19:30 - 20:00 |                                                           |
 
 ### ANIME+
 
@@ -53,7 +53,7 @@ BS11數位於2007年12月1日同時開設了兩個播放時段。這兩個播放
 <td><p>TOKYO MXと同時で、尚且つ最速放送。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/刀使之巫女" title="wikilink">刀使之巫女</a></p></td>
+<td><p><a href="../Page/刀使之巫女.md" title="wikilink">刀使之巫女</a></p></td>
 <td><p>2018年1月8日 -</p></td>
 <td><p>1:00 - 1:30</p></td>
 <td></td>
@@ -89,7 +89,7 @@ BS11數位於2007年12月1日同時開設了兩個播放時段。這兩個播放
 <td><p>ショートアニメ『<strong>俺たちゃ妖怪人間G</strong>』を内包。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/宇宙戰艦提拉米斯" title="wikilink">宇宙戰艦提拉米斯</a></p></td>
+<td><p><a href="../Page/宇宙戰艦提拉米斯.md" title="wikilink">宇宙戰艦提拉米斯</a></p></td>
 <td><p>2018年4月3日 -</p></td>
 <td><p>2:30 - 2:40</p></td>
 <td></td>
@@ -156,13 +156,13 @@ TOKYO MX・とちぎテレビ・群馬テレビと同時放送。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/多田君不戀愛" title="wikilink">多田君不戀愛</a></p></td>
+<td><p><a href="../Page/多田君不戀愛.md" title="wikilink">多田君不戀愛</a></p></td>
 <td><p>2018年4月5日 -</p></td>
 <td><p>23:00 - 23:30</p></td>
 <td><p>AT-Xと共同で製作委員会に参加。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/漫画女孩" title="wikilink">漫画女孩</a></p></td>
+<td><p><a href="../Page/漫画女孩.md" title="wikilink">漫画女孩</a></p></td>
 <td><p>2018年4月5日 -</p></td>
 <td><p>23:30 - 24:00</p></td>
 <td><p>TOKYO MX・カンテレ・AT-Xと共同で製作委員会に参加。<br />
@@ -181,7 +181,7 @@ TOKYO MXと同時放送。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/搖曳露營△" title="wikilink">搖曳露營△</a></p></td>
+<td><p><a href="../Page/搖曳露營△.md" title="wikilink">搖曳露營△</a></p></td>
 <td><p>2018年4月6日 -</p></td>
 <td><p>0:30 - 1:00</p></td>
 <td><p>再放送。<br />
@@ -200,7 +200,7 @@ AT-Xと共同で製作委員会に参加。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/重神機潘多拉" title="wikilink">重神機潘多拉</a></p></td>
+<td><p><a href="../Page/重神機潘多拉.md" title="wikilink">重神機潘多拉</a></p></td>
 <td><p>2018年4月6日 -</p></td>
 <td><p>23:30 - 24:00</p></td>
 <td><p><a href="../Page/WOWOW.md" title="wikilink">WOWOWプライムで先行放送するため</a>、当枠では実質再放送扱いとなる。</p></td>
@@ -212,7 +212,7 @@ AT-Xと共同で製作委員会に参加。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/皇帝聖印戰記" title="wikilink">皇帝聖印戰記</a></p></td>
+<td><p><a href="../Page/皇帝聖印戰記.md" title="wikilink">皇帝聖印戰記</a></p></td>
 <td><p>2018年1月6日 -</p></td>
 <td><p>0:00 - 0:30</p></td>
 <td><p><strong>BS11自ら製作委員会に参加。</strong><br />
@@ -231,7 +231,7 @@ TOKYO MX・とちぎテレビ・群馬テレビと同時で、尚且つ最速放
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/封神演義_(漫畫)" title="wikilink">封神演義 (漫畫)</a></p></td>
+<td><p><a href="../Page/封神演義_(漫畫).md" title="wikilink">封神演義 (漫畫)</a></p></td>
 <td><p>2018年1月13日 -</p></td>
 <td><p>1:30 - 2:00</p></td>
 <td></td>
@@ -249,7 +249,7 @@ TOKYO MX・とちぎテレビ・群馬テレビと同時で、尚且つ最速放
 <td><p>2018年5月5日 -</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/DARLING_in_the_FRANXX" title="wikilink">DARLING in the FRANXX</a></p></td>
+<td><p><a href="../Page/DARLING_in_the_FRANXX.md" title="wikilink">DARLING in the FRANXX</a></p></td>
 <td><p>2018年1月13日 -</p></td>
 <td><p>23:30 - 24:00</p></td>
 <td><p>TOKYO MX・メ〜テレと共同で製作委員会に参加。<br />
@@ -262,7 +262,7 @@ TOKYO MX・とちぎテレビ・群馬テレビと同時で、尚且つ最速放
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/刀劍神域外傳Gun_Gale_Online" title="wikilink">刀劍神域外傳Gun Gale Online</a></p></td>
+<td><p><a href="../Page/刀劍神域外傳Gun_Gale_Online.md" title="wikilink">刀劍神域外傳Gun Gale Online</a></p></td>
 <td><p>2018年4月8日 -</p></td>
 <td><p>0:00 - 0:30</p></td>
 <td><p>TOKYO MX・とちぎテレビ・群馬テレビ・AbemaTVと同時で、尚且つ最速放送。</p></td>
@@ -286,7 +286,7 @@ TOKYO MX・とちぎテレビ・群馬テレビと同時で、尚且つ最速放
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/極道超女" title="wikilink">極道超女</a></p></td>
+<td><p><a href="../Page/極道超女.md" title="wikilink">極道超女</a></p></td>
 <td><p>2018年4月8日 -</p></td>
 <td><p>3:00 - 3:30</p></td>
 <td></td>

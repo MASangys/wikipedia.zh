@@ -81,7 +81,7 @@ pride”在90年代开始觉醒。[麻省理工学院教授](../Page/麻省理�
   - ["The Nerds have
     won"](http://www.americanscientist.org/issues/pub/the-nerds-have-won)，an
     article in the [American
-    Scientist](https://zh.wikipedia.org/wiki/American_Scientist "wikilink")
+    Scientist](../Page/American_Scientist.md "wikilink")
 
 [Category:成见](https://zh.wikipedia.org/wiki/Category:成见 "wikilink")
 [Category:俗语](https://zh.wikipedia.org/wiki/Category:俗语 "wikilink")

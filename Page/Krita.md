@@ -34,7 +34,7 @@ Studio，面向电影工业和特效工作室。自2014年起他们通过[Kickst
 
 [缩略图](https://zh.wikipedia.org/wiki/File:Krita_4.0_right-click_hud_popup-palette.png "fig:缩略图")
 Krita的最新版本是基于[Qt 5和](../Page/Qt.md "wikilink")[KDE Frameworks
-5进行开发的](https://zh.wikipedia.org/wiki/KDE_Frameworks_5 "wikilink")。它针对概念美术师、插画师、幕布画师、材质画师和特效工业的需求进行特化，关键功能和特点有：\[7\]
+5进行开发的](../Page/KDE_Frameworks_5.md "wikilink")。它针对概念美术师、插画师、幕布画师、材质画师和特效工业的需求进行特化，关键功能和特点有：\[7\]
 
 ### 用户体验设计
 

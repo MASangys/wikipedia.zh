@@ -18,7 +18,7 @@
   - [DA
     PUMP](../Page/DA_PUMP.md "wikilink")（[ISSA](https://zh.wikipedia.org/wiki/ISSA_日本歌手\) "wikilink")、DAICHI、、TOMO、KIMI、YORI、U-YEAH）
 
-  - [三浦大知](https://zh.wikipedia.org/wiki/三浦大知 "wikilink")
+  - [三浦大知](../Page/三浦大知.md "wikilink")
 
   - [w-inds.](https://zh.wikipedia.org/wiki/w-inds. "wikilink")（[千叶凉平](https://zh.wikipedia.org/wiki/千叶凉平 "wikilink")、[橘庆太](https://zh.wikipedia.org/wiki/橘庆太 "wikilink")<small>（）</small>、[绪方龙一](https://zh.wikipedia.org/wiki/绪方龙一 "wikilink")）
 

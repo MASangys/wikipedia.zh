@@ -17,7 +17,7 @@ FUSE可用于[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md
 
   - [ExpanDrive](https://zh.wikipedia.org/wiki/ExpanDrive "wikilink")：商业文件系统，实现了SFTP/FTP/FTPS协议；
   - [GlusterFS](../Page/GlusterFS.md "wikilink")：用于[集群的](../Page/计算机集群.md "wikilink")[分布式文件系统](https://zh.wikipedia.org/wiki/分布式文件系统 "wikilink")，可以扩展到[PB级](https://zh.wikipedia.org/wiki/PB "wikilink")；
-  - [SSHFS](https://zh.wikipedia.org/wiki/SSHFS "wikilink")：通过SSH协议访问远程文件系统；
+  - [SSHFS](../Page/SSHFS.md "wikilink")：通过SSH协议访问远程文件系统；
   - [GmailFS](../Page/GmailFS.md "wikilink")：通过文件系统方式访问[GMail](https://zh.wikipedia.org/wiki/GMail "wikilink")；
   - [EncFS](https://zh.wikipedia.org/wiki/EncFS "wikilink")：[加密的虚拟文件系统](https://zh.wikipedia.org/wiki/加密 "wikilink")
   - [NTFS-3G和](../Page/NTFS-3G.md "wikilink")[Captive

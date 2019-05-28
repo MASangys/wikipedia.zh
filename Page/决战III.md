@@ -186,7 +186,7 @@
   - [吉田次兵卫](https://zh.wikipedia.org/wiki/吉田次兵卫 "wikilink")-织田氏前家臣，反信长军一伙。
   - [佐久间盛次](https://zh.wikipedia.org/wiki/佐久间盛次 "wikilink")-织田氏前家臣，反信长军一伙。
   - [毛受照昌](https://zh.wikipedia.org/wiki/毛受照昌 "wikilink")-织田氏前家臣，反信长军一伙。
-  - [津津木藏人](https://zh.wikipedia.org/wiki/津津木藏人 "wikilink")-织田氏前家臣，反信长军一伙。
+  - [津津木藏人](../Page/津津木藏人.md "wikilink")-织田氏前家臣，反信长军一伙。
 
 ### 仕官武将
 

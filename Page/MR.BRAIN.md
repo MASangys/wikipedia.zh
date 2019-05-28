@@ -178,7 +178,7 @@
 <!-- end list -->
 
   - 小島秀樹 -
-    （[杉本哲太飾](https://zh.wikipedia.org/wiki/杉本哲太 "wikilink")）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
+    （[杉本哲太飾](../Page/杉本哲太.md "wikilink")）（粵語配音：[陳永信](../Page/陳永信.md "wikilink")）
   - 刑事1 - （飾）
   - 鑑識課員1 - （飾）
   - 警視廳管理官 - （飾）（粵語配音：[張炳強](../Page/張炳強.md "wikilink")）
@@ -260,7 +260,7 @@
   - 宮瀨久美子 -
     [小雪](../Page/小雪_\(日本演員\).md "wikilink")（粵語配音：[黃玉娟](../Page/黃玉娟.md "wikilink")）
   - 岸川誠司 -
-    [松重豐](https://zh.wikipedia.org/wiki/松重豐 "wikilink")（粵語配音：[盧國權](../Page/盧國權.md "wikilink")）
+    [松重豐](../Page/松重豐.md "wikilink")（粵語配音：[盧國權](../Page/盧國權.md "wikilink")）
   - 津村修介 - （粵語配音：[葉振聲](../Page/葉振聲.md "wikilink")）
 
 <!-- end list -->
@@ -295,7 +295,7 @@
   - 後藤惠 -
     [相武紗季](../Page/相武紗季.md "wikilink")（粵語配音：[鄭麗麗](../Page/鄭麗麗.md "wikilink")）
   - 千原醫師 -
-    [小市慢太郎](https://zh.wikipedia.org/wiki/小市慢太郎 "wikilink")（粵語配音：[張錦江](../Page/張錦江.md "wikilink")）
+    [小市慢太郎](../Page/小市慢太郎.md "wikilink")（粵語配音：[張錦江](../Page/張錦江.md "wikilink")）
   - 荒木明夫 -
     [平山浩行](../Page/平山浩行.md "wikilink")（粵語配音：[雷霆](../Page/雷霆.md "wikilink")）
   - 日向信一 -

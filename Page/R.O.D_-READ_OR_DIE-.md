@@ -1,6 +1,6 @@
 《**R.O.D -READ OR
 DIE-**》（）是2001年到2002年期間[Aniplex發售的](../Page/Aniplex.md "wikilink")[OVA作品](https://zh.wikipedia.org/wiki/OVA "wikilink")。全3集。由[STUDIO
-DEEN動畫製作公司的監督](../Page/STUDIO_DEEN.md "wikilink")[舛成孝二負責](https://zh.wikipedia.org/wiki/舛成孝二 "wikilink")。[倉田英之的輕小說](../Page/倉田英之.md "wikilink")《R.O.D
+DEEN動畫製作公司的監督](../Page/STUDIO_DEEN.md "wikilink")[舛成孝二負責](../Page/舛成孝二.md "wikilink")。[倉田英之的輕小說](../Page/倉田英之.md "wikilink")《R.O.D
 READ OR DIE YOMIKO READMAN "THE PAPER"》為原作。描寫「操紙術」能自在操縱紙的能力的秘密探員讀子．利德曼。
 
 ## 劇情簡介
@@ -67,7 +67,7 @@ TV-](../Page/R.O.D_-THE_TV-.md "wikilink")\]
   - 音響設計 - 山田稔
   - 錄音製作 - [神南工作室](https://zh.wikipedia.org/wiki/神南工作室 "wikilink")
   - 製作人 - 藤本昌俊、松田桂一
-  - 監督、分鏡、演出 - [舛成孝二](https://zh.wikipedia.org/wiki/舛成孝二 "wikilink")
+  - 監督、分鏡、演出 - [舛成孝二](../Page/舛成孝二.md "wikilink")
   - 動畫製作 - [STUDIO DEEN](../Page/STUDIO_DEEN.md "wikilink")
   - 製作 - [SME・Visual works](../Page/Aniplex.md "wikilink")
 

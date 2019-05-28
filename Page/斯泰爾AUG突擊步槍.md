@@ -283,7 +283,7 @@ F88及其型號包括：
     zh-hant:決勝時刻：黑色行動;}-](../Page/決勝時刻：黑色行動.md "wikilink")》（Call
     of Duty: Black Ops）：單人模式中的型號為AUG
     A1，使用軍綠色槍身，奇怪地會在1960年代出現並被[美國中央情報局](https://zh.wikipedia.org/wiki/美國中央情報局 "wikilink")[特別活動分部所使用](https://zh.wikipedia.org/wiki/特別活動分部 "wikilink")。聯機模式時的型號為AUG
-    A2，同樣使用軍綠色槍身和不合理的出現在1960年代，配備從機匣頂部的導軌安裝的機械瞄具（奇怪地後照準器被前後倒置的安裝），於等級26解鎖，並可使用[榴彈發射器](../Page/M203榴彈發射器.md "wikilink")、[Masterkey](https://zh.wikipedia.org/wiki/Masterkey霰彈槍 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、延長彈匣（增至45發）、[消音器](../Page/抑制器.md "wikilink")、[火焰噴射器](https://zh.wikipedia.org/wiki/火焰噴射器 "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（實際上為A1型的原廠瞄準鏡）、[紅外線探測式瞄具](https://zh.wikipedia.org/wiki/紅外線 "wikilink")、[反射式瞄準鏡及](https://zh.wikipedia.org/wiki/反射式瞄準鏡 "wikilink")[雙彈匣](https://zh.wikipedia.org/wiki/彈匣並聯 "wikilink")。此槍在殭屍模式中亦有出現，並有一款稱為「AUG-5OM3」的改型。
+    A2，同樣使用軍綠色槍身和不合理的出現在1960年代，配備從機匣頂部的導軌安裝的機械瞄具（奇怪地後照準器被前後倒置的安裝），於等級26解鎖，並可使用[榴彈發射器](../Page/M203榴彈發射器.md "wikilink")、[Masterkey](https://zh.wikipedia.org/wiki/Masterkey霰彈槍 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、延長彈匣（增至45發）、[消音器](../Page/抑制器.md "wikilink")、[火焰噴射器](https://zh.wikipedia.org/wiki/火焰噴射器 "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（實際上為A1型的原廠瞄準鏡）、[紅外線探測式瞄具](https://zh.wikipedia.org/wiki/紅外線 "wikilink")、[反射式瞄準鏡及](https://zh.wikipedia.org/wiki/反射式瞄準鏡 "wikilink")[雙彈匣](../Page/彈匣並聯.md "wikilink")。此槍在殭屍模式中亦有出現，並有一款稱為「AUG-5OM3」的改型。
   - 2010年—《[-{zh-hans:战地：叛逆连队2;
     zh-hant:戰地風雲：惡名昭彰2;}-](../Page/战地：叛逆连队2.md "wikilink")》（Battlefield:
     Bad Company 2）：型號為AUG A3近戰型。
@@ -320,7 +320,7 @@ F88及其型號包括：
     啟示;}-](https://zh.wikipedia.org/wiki/惡靈古堡_啟示 "wikilink")》（Resident
     Evil: Revelations）：型號為AUG A2，命名為「AUG」，在單人/RAID模式中登場。
   - 2013年—《[-{zh-hans:收获日2;
-    zh-hant:劫薪日2;}-](https://zh.wikipedia.org/wiki/劫薪日2 "wikilink")》（Payday
+    zh-hant:劫薪日2;}-](../Page/劫薪日2.md "wikilink")》（Payday
     2）：型號為AUG A2，可透過零件A3 Tactical改造為AUG A3，命名為「UAR」。
   - 2013年—《[-{zh-hans:战地;
     zh-hant:戰地風雲;}-4](../Page/戰地風雲4.md "wikilink")》（Battlefield
@@ -332,7 +332,7 @@ F88及其型號包括：
       - AUG A2为隨遊戲登場武器，命名为“AUG
         A2”，使用軍綠色槍身，被[德國聯邦警察第九國境守備隊和](../Page/德國聯邦警察第九國境守備隊.md "wikilink")“白面具”恐怖份子所使用。
       - AUG A3 9mm XS于第三年追加下载内容“风城行动”（Operation Wind Bastion）中登场，命名为“AUG
-        A3”，被[摩洛哥皇家宪兵干预队的特勤干员Kaid用作他的其中一款主武器](https://zh.wikipedia.org/wiki/摩洛哥皇家武装力量 "wikilink")。
+        A3”，被[摩洛哥皇家宪兵干预队的特勤干员Kaid用作他的其中一款主武器](../Page/摩洛哥皇家武装力量.md "wikilink")。
       - F90 MBR于第四年追加下载内容“燃烧地平线行动”（Operation Burnt
         Horizon）中登场，命名为“F90”，被[澳大利亚特种空勤团的特勤干员Gridlock用作她的其中一款主武器](https://zh.wikipedia.org/wiki/澳大利亚特种空勤团 "wikilink")。
   - 2015年—《[-{zh-cn:战地：硬仗;
@@ -342,17 +342,17 @@ F88及其型號包括：
         A3」，使用黑色槍身，為資料片「叛逃」新增的武器，歸類為突擊步槍，30+1發彈匣，奇怪的能夠手動切換射擊模式，被警匪兩方操作者（Operator）所使用，價格為$48,000。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro
         T1、SRS 02、[Comp
         M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍）
-        、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、延長彈匣（增至40+1發）、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
+        、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、延長彈匣（增至40+1發）、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")、[穿甲](https://zh.wikipedia.org/wiki/穿甲彈 "wikilink")[曳光彈](../Page/曳光彈.md "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
       - AUG A3 9mm XS命名為「AUG
         Para」，使用黑色槍身，為資料片「大逃亡」新增的資料片獨有武器，歸類為衝鋒槍，32+1發彈匣，奇怪的能夠手動切換射擊模式，而且還具備三發點放模式。被匪方機械師（Mechanic）所使用（警察解鎖條件為：以任何陣營進行遊戲使用該槍擊殺1250名敵人後購買武器執照），價格為$50,000。可加裝各種瞄準鏡（[反射](../Page/紅點鏡.md "wikilink")、眼鏡蛇、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")（放大1倍）、PKA-S（放大1倍）、Micro
         T1、SRS 02、[Comp
         M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍）
-        、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](https://zh.wikipedia.org/wiki/戰術燈 "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
+        、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）、槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）及[握把](../Page/輔助握把.md "wikilink")（垂直握把、粗短握把、[直角握把](../Page/直角前握把.md "wikilink")）。
   - 2016年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》（Girls'
     Frontline）：2018年活動限定獲得。
   - 2017年—《[荒野行動](https://zh.wikipedia.org/wiki/荒野行動 "wikilink")》（Knives
     Out）：作為空投武器出現，使用小口徑子彈，配備2倍光學瞄準鏡 。
-  - 2017年—《[絕地求生](https://zh.wikipedia.org/wiki/絕地求生 "wikilink")》（PlayersUnknown's
+  - 2017年—《[絕地求生](../Page/絕地求生.md "wikilink")》（PlayersUnknown's
     BattleGrounds）：作為只能夠在空投補給獲得的武器及全自動步槍出現，裝彈量為30（擴容後為40），可配備：所有突擊步槍槍口及彈匣、所有握把、紅點瞄準鏡、全息瞄準鏡、6倍及以下高倍瞄準鏡。
   - 2018年—《[穿越火线高清竞技大区](https://zh.wikipedia.org/wiki/穿越火线高清竞技大区 "wikilink")》（Crossfire
     HD）：型号为AUG A2，但奇怪的命名为“AUG
@@ -381,7 +381,7 @@ F88及其型號包括：
   - [瓦爾梅特M82突擊步槍](../Page/瓦爾梅特M82突擊步槍.md "wikilink")
   - [T-68突擊步槍](https://zh.wikipedia.org/wiki/T-68突擊步槍 "wikilink")
   - [犢牛式槍械列表](../Page/犢牛式槍械列表.md "wikilink")
-  - [各國軍隊制式步槍列表](https://zh.wikipedia.org/wiki/各國軍隊制式步槍列表 "wikilink")
+  - [各國軍隊制式步槍列表](../Page/各國軍隊制式步槍列表.md "wikilink")
 
 ## 参考文献
 

@@ -5,7 +5,7 @@ payWave卡用於一般[刷卡機或觸碰式讀卡機時](https://zh.wikipedia.o
 2007年9月，Visa 推出的Visa
 payWave非接觸支付技術的功能，它允許持卡人他們的卡的非接觸式支付終端前揮動而不需要物理刷卡或將卡插入一個銷售點設備。這是類似的[银联卡的](https://zh.wikipedia.org/wiki/银联卡 "wikilink")[闪付](../Page/闪付.md "wikilink")、[萬事達卡的](https://zh.wikipedia.org/wiki/萬事達卡 "wikilink")[MasterCard
 Contactless和](../Page/MasterCard_Contactless.md "wikilink")[美國運通的](../Page/美國運通.md "wikilink")[AE
-ExpressPay服務](https://zh.wikipedia.org/wiki/AE_ExpressPay "wikilink")，都使用無線射頻辨識技術（[RFID](https://zh.wikipedia.org/wiki/RFID "wikilink")）。
+ExpressPay服務](../Page/AE_ExpressPay.md "wikilink")，都使用無線射頻辨識技術（[RFID](https://zh.wikipedia.org/wiki/RFID "wikilink")）。
 
 ## 特點
 
@@ -48,7 +48,7 @@ ExpressPay服務](https://zh.wikipedia.org/wiki/AE_ExpressPay "wikilink")，都�
 <td><p>enJoy 卡</p></td>
 <td><p><a href="../Page/恒生銀行.md" title="wikilink">恒生銀行</a></p></td>
 <td><p><a href="../Page/怡和洋行.md" title="wikilink">怡和洋行旗下部份商店</a>：</p>
-<p><a href="https://zh.wikipedia.org/wiki/健安喜" title="wikilink">健安喜</a>、<a href="../Page/萬寧_(零售商).md" title="wikilink">萬寧 (零售商)</a>、<a href="../Page/7-Eleven.md" title="wikilink">7-Eleven</a>、<a href="../Page/惠康.md" title="wikilink">惠康</a>、<a href="../Page/Market_Place_by_Jasons.md" title="wikilink">Market Place by Jasons</a>、<a href="../Page/3hreeSixty.md" title="wikilink">3hreeSixty</a> 、<a href="https://zh.wikipedia.org/wiki/Jasons_Food_&amp;_Living" title="wikilink">Jasons Food &amp; Living</a>、<a href="../Page/宜家家居.md" title="wikilink">宜家家居</a>、<a href="https://zh.wikipedia.org/wiki/必勝客" title="wikilink">必勝客</a>、<a href="../Page/肯德基.md" title="wikilink">肯德基等</a><br />
+<p><a href="../Page/健安喜.md" title="wikilink">健安喜</a>、<a href="../Page/萬寧_(零售商).md" title="wikilink">萬寧 (零售商)</a>、<a href="../Page/7-Eleven.md" title="wikilink">7-Eleven</a>、<a href="../Page/惠康.md" title="wikilink">惠康</a>、<a href="../Page/Market_Place_by_Jasons.md" title="wikilink">Market Place by Jasons</a>、<a href="../Page/3hreeSixty.md" title="wikilink">3hreeSixty</a> 、<a href="https://zh.wikipedia.org/wiki/Jasons_Food_&amp;_Living" title="wikilink">Jasons Food &amp; Living</a>、<a href="../Page/宜家家居.md" title="wikilink">宜家家居</a>、<a href="https://zh.wikipedia.org/wiki/必勝客" title="wikilink">必勝客</a>、<a href="../Page/肯德基.md" title="wikilink">肯德基等</a><br />
 <a href="../Page/怡和洋行.md" title="wikilink">怡和員工卡版本</a><br />
 更包括<a href="../Page/美心食品.md" title="wikilink">美心食品旗下食店</a></p></td>
 <td></td>

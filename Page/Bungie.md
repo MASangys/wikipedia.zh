@@ -108,7 +108,7 @@ Evolved）成為第一人稱射擊遊戲及微軟的遊戲主機[Xbox的首發�
 <td><p><a href="https://zh.wikipedia.org/wiki/光环：战斗进化" title="wikilink">光环：战斗进化</a></p></td>
 <td><p>第一人称射击</p></td>
 <td><p>2001年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a>、Mac、Windows</p></td>
+<td><p><a href="../Page/Xbox.md" title="wikilink">Xbox</a>、Mac、Windows</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/微软游戏工作室" title="wikilink">微软游戏工作室</a></p></td>
 <td></td>
 </tr>
@@ -153,7 +153,7 @@ Evolved）成為第一人稱射擊遊戲及微軟的遊戲主機[Xbox的首發�
 <td><p>[4]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/命运2" title="wikilink">命运2</a></p></td>
+<td><p><a href="../Page/命运2.md" title="wikilink">命运2</a></p></td>
 <td><p>第一人称射击</p></td>
 <td><p>2017年9月6日</p></td>
 <td><p>Xbox One、PlayStation 4、Windows</p></td>

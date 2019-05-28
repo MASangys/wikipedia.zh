@@ -1,7 +1,7 @@
 **迈克尔·肯尼斯·威廉姆斯**（，），[美国演员](../Page/美国.md "wikilink")。他最著名的演出是在[HBO電視劇](../Page/HBO.md "wikilink")《[火线](https://zh.wikipedia.org/wiki/火线_\(电视剧\) "wikilink")》中饰演的\[1\]\[2\]\[3\]和《[酒私風雲](../Page/酒私風雲.md "wikilink")》中飾演的Albert
 "Chalky"
 White。他也在HBO的[電視電影](../Page/電視電影.md "wikilink")[傳記片](https://zh.wikipedia.org/wiki/傳記片 "wikilink")《**》中飾演[貝西·史密斯的丈夫Jack](https://zh.wikipedia.org/wiki/貝西·史密斯 "wikilink")
-Gee而受到讚揚。他曾在多部電影和電視劇中擔任配角，包括《[末路浩劫](https://zh.wikipedia.org/wiki/末路浩劫 "wikilink")》、《[性本惡](https://zh.wikipedia.org/wiki/性本惡 "wikilink")》、《[紐約殺人夜](https://zh.wikipedia.org/wiki/紐約殺人夜 "wikilink")》、《》和《[被奪走的12年](https://zh.wikipedia.org/wiki/被奪走的12年 "wikilink")》。
+Gee而受到讚揚。他曾在多部電影和電視劇中擔任配角，包括《[末路浩劫](../Page/末路浩劫.md "wikilink")》、《[性本惡](https://zh.wikipedia.org/wiki/性本惡 "wikilink")》、《[紐約殺人夜](https://zh.wikipedia.org/wiki/紐約殺人夜 "wikilink")》、《》和《[被奪走的12年](https://zh.wikipedia.org/wiki/被奪走的12年 "wikilink")》。
 
 ## 生平
 
@@ -65,8 +65,7 @@ City Paper）将他评为十大不能取消《火线》的原因之一，并称�
   - 《[告密者](../Page/告密者_\(2014年電影\).md "wikilink")》（Kill the
     Messenger）(2014)
   - Da Sweet Blood of Jesus (2014)
-  - 《[性本恶](https://zh.wikipedia.org/wiki/性本恶 "wikilink")》（Inherent
-    Vice）(2014)
+  - 《[性本恶](../Page/性本恶.md "wikilink")》（Inherent Vice）(2014)
   - 《玩命賭徒》（The Gambler）(2014)
   - 《藍調女王》（Bessie）(2015)
   - 《钝感之爱》（Anesthesia）(2015)

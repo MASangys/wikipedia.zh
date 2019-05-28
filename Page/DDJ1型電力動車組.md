@@ -149,7 +149,7 @@ DDJ1型电力动车组的控制系统与出口伊朗的[TM1型电力机车相似
   - [X2000列车](https://zh.wikipedia.org/wiki/X2000列车 "wikilink")
   - [韶山8型电力机车](../Page/韶山8型电力机车.md "wikilink")
   - [DJJ1型电力动车组](../Page/DJJ1型电力动车组.md "wikilink")
-  - [复兴号CR200J型电力动车组](https://zh.wikipedia.org/wiki/复兴号CR200J型电力动车组 "wikilink")
+  - [复兴号CR200J型电力动车组](../Page/复兴号CR200J型电力动车组.md "wikilink")
   - [中国铁路25K型客车](../Page/中国铁路25K型客车.md "wikilink")
   - [中国铁路25T型客车](../Page/中国铁路25T型客车.md "wikilink")
   - [中国铁路25Z型客车](../Page/中国铁路25Z型客车.md "wikilink")

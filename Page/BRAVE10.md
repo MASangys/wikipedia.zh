@@ -102,7 +102,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")201
 <!-- end list -->
 
   - [三好清海入道](https://zh.wikipedia.org/wiki/三好清海入道 "wikilink")
-    （聲優：無/[田中一成](https://zh.wikipedia.org/wiki/田中一成 "wikilink")）
+    （聲優：無/[田中一成](../Page/田中一成.md "wikilink")）
     真田十勇士之一，伊那佐海以前在出雲社的哥哥（沒血緣關係）。伊佐那海被棄於神社前時正是被他所發現。
     15歲開始周遊列國修行，於漫畫第4本與伊那佐海重逢，但剛開始伊那佐海根本認不出來（三好清海入道也承認以前到現在變強壯很多）跟15歲時清秀的哥哥判若兩人。
     對於跟妹妹太親近的才藏非常火大，但自身十分聽從妹妹的話，甚至表現害怕，而被才藏嘲諷 。
@@ -146,7 +146,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")201
 
 <!-- end list -->
 
-  - 壹丸 （聲優：無/[淺利遼太](https://zh.wikipedia.org/wiki/淺利遼太 "wikilink")）
+  - 壹丸 （聲優：無/[淺利遼太](../Page/淺利遼太.md "wikilink")）
     與貳虎同樣原為伊達家忍者，後回到伊達家。
 
 <!-- end list -->
@@ -447,7 +447,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")201
 <td><p>其之壹</p></td>
 <td></td>
 <td><p>命運的兩人</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/池田真美子" title="wikilink">池田真美子</a></p></td>
+<td><p><a href="../Page/池田真美子.md" title="wikilink">池田真美子</a></p></td>
 <td><p><a href="../Page/佐山聖子.md" title="wikilink">佐山聖子</a></p></td>
 <td><p>鶴田仁美</p></td>
 <td></td>

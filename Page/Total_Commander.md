@@ -91,7 +91,7 @@ Total Commander 主要功能包括：
   - **压缩包支持**：压缩包可按文件夹处理，操作更方便。
   - **文件查看器**：可方便快捷地查看任意大小、多种类型的文件内容。既可以采用常规的按键，打开一个单独的查看窗口进行查看；也可以通过按键直接在
     Total Commander 窗口内进行快速查看。
-  - **快速文件注释**：支持[Descript.ion风格的文件注释](https://zh.wikipedia.org/wiki/Descript.ion "wikilink")，兼容[ACDSee](../Page/ACDSee.md "wikilink")、[7-Zip等软件](../Page/7-Zip.md "wikilink")。
+  - **快速文件注释**：支持[Descript.ion风格的文件注释](../Page/Descript.ion.md "wikilink")，兼容[ACDSee](../Page/ACDSee.md "wikilink")、[7-Zip等软件](../Page/7-Zip.md "wikilink")。
   - **文件夹标签**：使用标签能够在多个文件夹间快速切换，左右窗口各个标签设置独立。
   - **增强的文件搜索**：可跨驱动器快速搜索文件及内容，支持多条件、通配符及正则表达式。
   - **同步及比较**：可多条件同步不同文件夹内的文件，比较并编辑不同文件间内容差异。
@@ -243,8 +243,8 @@ channels\]声道-\[=mediainfo.duration.m\]分\[=mediainfo.duration.s\]秒-\[=tc.
 
 ### 其它协同功能辅助程序
 
-  - [Listary](https://zh.wikipedia.org/wiki/Listary "wikilink")：可在 Total
-    Commander 快速定位当前列表中的文件或跳转到其他目录，或协同工作以取代系统中低效的打开/保存对话框。\[37\]
+  - [Listary](../Page/Listary.md "wikilink")：可在 Total Commander
+    快速定位当前列表中的文件或跳转到其他目录，或协同工作以取代系统中低效的打开/保存对话框。\[37\]
 
 ## 详细介绍
 

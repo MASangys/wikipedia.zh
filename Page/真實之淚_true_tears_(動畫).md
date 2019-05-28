@@ -61,7 +61,7 @@ BOX则是在2010年3月26日发售。
   - 音響制作：Fonisia
   - 音樂：菊地創
   - 音樂制作：[Lantis](../Page/Lantis.md "wikilink")
-  - 製作：[永谷敬之](https://zh.wikipedia.org/wiki/永谷敬之 "wikilink")、伊藤善之、平光良介、[堀川憲司](../Page/堀川憲司.md "wikilink")
+  - 製作：[永谷敬之](../Page/永谷敬之.md "wikilink")、伊藤善之、平光良介、[堀川憲司](../Page/堀川憲司.md "wikilink")
   - 動畫制作：[P.A.
     Works](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")
   - 製作：[true

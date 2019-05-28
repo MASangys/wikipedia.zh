@@ -32,7 +32,7 @@ reviews, one for each console:
 本作新增了交友系统，玩家可以和自己的朋友们一起去酒吧、扔飞镖、玩保龄球等其它有趣的娱乐活动，\[12\]\[13\]但你需要朋友时只需通过手机就可以得到朋友的帮助（比如罗曼·贝里奇的免费出租车，德溫·弗吉的两名小弟）。另外尼克的手机可以约人，打电话，看时间，照相，开启多人模式，输入作弊码等功能。\[14\]\[15\]玩家可以通过电脑进入游戏中的互联网，电脑可以在住所和网吧中找到，它允许玩家发送和接收电子邮件，且可以通过游戏中虚拟的Lovemeet网站进行交到女友。\[16\]
 
 PC版的多人模式最多支援32名玩家同时在线。\[17\]而主机版的联机人数最多为16名。玩家可以决定哪种玩法模式，包括[死亡竞赛和街道帮派赛](https://zh.wikipedia.org/wiki/死亡竞赛 "wikilink")（street
-races）。\[18\]玩家可以进行[合作](https://zh.wikipedia.org/wiki/合作游戏模式 "wikilink")，也可以单打。当然游戏中的钱是必须要赚的。\[19\]\[20\]此外还可以选择自由模式，开放整个地图，可以控制许多变量，如警力，交通和武器。局域网联机仅支持Windows版本的游戏。\[21\]
+races）。\[18\]玩家可以进行[合作](../Page/合作游戏模式.md "wikilink")，也可以单打。当然游戏中的钱是必须要赚的。\[19\]\[20\]此外还可以选择自由模式，开放整个地图，可以控制许多变量，如警力，交通和武器。局域网联机仅支持Windows版本的游戏。\[21\]
 
 ## 概况
 
@@ -103,7 +103,7 @@ Night）”。\[72\]《[Billboard](https://zh.wikipedia.org/wiki/公告牌_\(杂
 Beat 102.7”。\[75\]唱片公司老板兼制作人鲍比·坎德（Bobby Konders）制作了电台“Massive B
 Soundsystem 96.9”，经历了飞往牙买加的额外努力获取了舞厅艺术家们的版权重新录制曲目，并在电台中提及了自由城的行政区。\[76\]
 [GTAIV_Replay_Editor_for_Windows.jpg](https://zh.wikipedia.org/wiki/File:GTAIV_Replay_Editor_for_Windows.jpg "fig:GTAIV_Replay_Editor_for_Windows.jpg")
-微软公司互动娱乐事业部副总裁[彼得·摩尔](https://zh.wikipedia.org/wiki/彼得·摩尔 "wikilink")（Peter
+微软公司互动娱乐事业部副总裁[彼得·摩尔](../Page/彼得·摩尔.md "wikilink")（Peter
 Moore）在2006年的E3展公布，游戏将发布于Xbox
 360平台上，并卷起他的袖子露出了侠盗猎车手IV标志的临时纹身。\[77\]Rockstar
 Games开始声称游戏的发售日期为2007年10月16日，然而投资银行Wedbush Morgan的分析师（Michael
@@ -145,7 +145,7 @@ gaming）”。\[114\]
 Schiesel）认为其为以城市命名的游戏中“真正的明星（real
 star）”\[115\][官方Xbox杂志的乔恩](../Page/官方Xbox杂志.md "wikilink")·希克斯（Jon
 Hicks）表示游戏中的城市给他留下深刻的印象（impressed by the
-city），这归结于游戏的[AI](https://zh.wikipedia.org/wiki/AI "wikilink")。\[116\]《[电脑与电子游戏](https://zh.wikipedia.org/wiki/电脑与电子游戏 "wikilink")》的安迪·鲁滨逊（Andy
+city），这归结于游戏的[AI](https://zh.wikipedia.org/wiki/AI "wikilink")。\[116\]《[电脑与电子游戏](../Page/电脑与电子游戏.md "wikilink")》的安迪·鲁滨逊（Andy
 Robinson）则称赞游戏环境的真实性，并称其为“完全无法比拟的（utterly
 unmatched）”.\[117\]IGN的戈尔茨坦（Goldstein）表示，虽然[自由城基于真实世界的](https://zh.wikipedia.org/wiki/自由城_\(侠盗猎车手\) "wikilink")[纽约市而开发](https://zh.wikipedia.org/wiki/纽约市 "wikilink")，但前者与后者并不属于包含关系。他写道：该市“存在于它自己的宇宙是理所当然的（exists
 in its own universe and rightfully
@@ -161,8 +161,9 @@ Bramwell）认为道德抉择系统公平并代替了。\[124\]
 
 游戏中的人物—特别是主角尼克（Niko）—收到了大量正面的评论。\[125\]官方Xbox杂志的希克斯与《电脑与电子游戏》的安迪·鲁滨逊都称尼克“有魅力（charismatic）”、“有人缘（likeable）”，这与本作系列之前的主角们类似。\[126\]\[127\][GamesRadar的乔治](https://zh.wikipedia.org/wiki/GamesRadar "wikilink")·沃尔特（George
 Walter）称赞人物的深度，IGN的戈尔茨坦认为当主角尼克遇到困难的决定时对应角色感觉听上去都一样。\[128\][Giant
-Bomb的](https://zh.wikipedia.org/wiki/Giant_Bomb "wikilink")（Jeff
-Gerstmann）通过剧情的进展认为尼克“只关心‘他’自己事的人（the only thing that mattered to
+Bomb的](../Page/Giant_Bomb.md "wikilink")（Jeff
+Gerstmann）通过剧情的进展认为尼克“只关心‘他’自己事的人（the
+only thing that mattered to
 \[him\]）”，主角的性格亦是他最喜欢的这款游戏的特色之一。\[129\]纽约时报的西塞表示这归结于游戏的剧本让尼克成为最真实的电子游戏人物之一，\[130\]而1UP.com的博耶称赞游戏角色也符合本作的任务。\[131\]
 
 许多评论中认为战斗系统比之前作更加敏感，特别称赞新增的。\[132\]\[133\]\[134\][Gamespot的贾斯汀](https://zh.wikipedia.org/wiki/Gamespot "wikilink")·卡尔弗特（Justin
@@ -204,8 +205,8 @@ touch）”\[176\]平台的升级使多人联机模式相对于家用机版的16
 for mayhem... increases）”，\[177\]而GameSpy的威尔·塔特尔（Will
 Tuttle）认为丰富了玩家的“应变能力”。\[178\]
 
-此平台的增强视觉效果被许多评论家赞扬。\[179\][电脑与电子游戏杂志的安迪](https://zh.wikipedia.org/wiki/电脑与电子游戏 "wikilink")·鲁宾逊（Andy
-Robinson）称视觉效果“令人印象深刻”，\[180\]而[VideoGamer.com的汤姆](https://zh.wikipedia.org/wiki/VideoGamer.com "wikilink")·奥利称之“精湛（superb）”。\[181\]相反，该游戏的系统配置要求，有人认为难以开启高级视觉设置运行，\[182\]因而备受批评。\[183\]\[184\]Eurogamer的吉伦说，尽管Windows版本是“最吸引人的版本（the
+此平台的增强视觉效果被许多评论家赞扬。\[179\][电脑与电子游戏杂志的安迪](../Page/电脑与电子游戏.md "wikilink")·鲁宾逊（Andy
+Robinson）称视觉效果“令人印象深刻”，\[180\]而[VideoGamer.com的汤姆](../Page/VideoGamer.com.md "wikilink")·奥利称之“精湛（superb）”。\[181\]相反，该游戏的系统配置要求，有人认为难以开启高级视觉设置运行，\[182\]因而备受批评。\[183\]\[184\]Eurogamer的吉伦说，尽管Windows版本是“最吸引人的版本（the
 most attractive version）”，然而这样高的配置要求“令人望而却步（annoyingly fiddly to get
 there）”。\[185\]GameSpy的塔特尔表示，可以忽视换取游戏中其他功能的苛刻的系统要求。\[186\]
 
@@ -215,7 +216,7 @@ there）”。\[185\]GameSpy的塔特尔表示，可以忽视换取游戏中其�
 Two售出约600万套。\[188\]\[189\]销售的数额甚至超过了预期。\[190\]\[191\]\[192\]一个月后，游戏已经售出超过850万套了。\[193\]它于2008年5月13日立下了三项[吉尼斯世界纪录](../Page/吉尼斯世界纪录.md "wikilink")：24小时内销售额最高的电子游戏，24小时内销售额最高的娱乐产品，24小时内最畅销的电子游戏，\[194\]之後这三项纪录皆被[侠盗猎车手V所打破](https://zh.wikipedia.org/wiki/侠盗猎车手V "wikilink")。\[195\]2011年3月11日，Take-Two公司宣布，游戏已经售出超过2000万套，當時整个侠盗猎车手系列加總已卖出一亿套。\[196\]截至2013年7月，游戏已经售出超过2500万套。\[197\]其系列作中首位的销售量直到后继者[侠盗猎车手V发布后才被打破](https://zh.wikipedia.org/wiki/侠盗猎车手V "wikilink")。\[198\]
 
 在英国，本作成为了有史以来销售最快的游戏，24小时内销售超过631000套。\[199\]\[200\]打破了同一时期[侠盗猎车手：圣安地列斯](https://zh.wikipedia.org/wiki/侠盗猎车手：圣安地列斯 "wikilink")（501,000套）的记录。\[201\]发售五天后，游戏便在英国有927,000套的销量。\[202\]\[203\]而在同一时期的美国，已经销售了285万套了。\[204\]2008年底，在美国便销售了518万套了。\[205\]日本[Media
-Create报道](https://zh.wikipedia.org/wiki/Media_Create "wikilink")，游戏发售前5天，在日本PlayStation
+Create报道](../Page/Media_Create.md "wikilink")，游戏发售前5天，在日本PlayStation
 3与Xbox 360上便分别卖出了133000套与34000套。\[206\]
 
 ### 特別版
@@ -262,7 +263,7 @@ Della Rocca）則批評纽约市官方虛偽，指他們只批評電子遊戲，
 
 ### 遭法律起訴
 
-曾多次批評電子遊戲暴力內容的佛羅里達州律師[杰克·汤普森](https://zh.wikipedia.org/wiki/杰克·汤普森 "wikilink")（Jack
+曾多次批評電子遊戲暴力內容的佛羅里達州律師[杰克·汤普森](../Page/杰克·汤普森.md "wikilink")（Jack
 Thompson），稱會以行動去阻止[Rockstar發售遊戲](../Page/Rockstar_Games.md "wikilink")。\[226\]至2007年3月16日，[Rockstar的母公司Take](../Page/Rockstar_Games.md "wikilink")
 Two Interactive在佛羅里達控告汤普森，試圖将汤普森阻止公司发售遊戲作品的行为定性為「」。于是在任务“Final
 Interview”中，尼克被要求去一间律师行杀掉律师，这暗示着对杰克·汤普森常常找[Rockstar公司麻烦的不满](../Page/Rockstar_Games.md "wikilink")。
@@ -270,7 +271,7 @@ Interview”中，尼克被要求去一间律师行杀掉律师，这暗示着�
 ### 酒後駕駛情節
 
 游戏发售后，也备受指责。这一点也没有辜负“侠盗猎车手”这个游戏的名字。一些著名的人物如（George
-Galloway），[杰克·汤普森](https://zh.wikipedia.org/wiki/杰克·汤普森 "wikilink")（Jack
+Galloway），[杰克·汤普森](../Page/杰克·汤普森.md "wikilink")（Jack
 Thompson）和[希拉里·克林顿](../Page/希拉里·克林顿.md "wikilink")
 在内都批评了这个游戏，因为有机构，包括纽约市官员和“母亲反对酒后驾车”组织（Mothers
 Against Drunk

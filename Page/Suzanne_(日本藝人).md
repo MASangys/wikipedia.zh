@@ -57,7 +57,7 @@
 ### CM
 
   - 武田眼鏡
-  - [好侍食品](https://zh.wikipedia.org/wiki/好侍食品 "wikilink")
+  - [好侍食品](../Page/好侍食品.md "wikilink")
   - [三菱電機](https://zh.wikipedia.org/wiki/三菱電機 "wikilink")
   - Joyfull
   - WIDELEISURE

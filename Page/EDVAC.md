@@ -5,7 +5,7 @@
 
 ## 起源和设计
 
-ENIAC和EDVAC的建造者均为[宾夕法尼亚大学的电气工程师](../Page/宾夕法尼亚大学.md "wikilink")[约翰·莫奇利和](https://zh.wikipedia.org/wiki/约翰·莫奇利 "wikilink")[普雷斯波·艾克特](https://zh.wikipedia.org/wiki/普雷斯波·艾克特 "wikilink")。1944年8月，EDVAC的建造计划就被提出；在ENIAC充分运行之前，其设计工作就已经开始。和ENIAC一样，EDVAC也是为[美国陆军](../Page/美国陆军.md "wikilink")[阿伯丁试验场的](../Page/阿伯丁试验场.md "wikilink")[弹道研究实验室研制](https://zh.wikipedia.org/wiki/弹道研究实验室 "wikilink")。
+ENIAC和EDVAC的建造者均为[宾夕法尼亚大学的电气工程师](../Page/宾夕法尼亚大学.md "wikilink")[约翰·莫奇利和](../Page/约翰·莫奇利.md "wikilink")[普雷斯波·艾克特](https://zh.wikipedia.org/wiki/普雷斯波·艾克特 "wikilink")。1944年8月，EDVAC的建造计划就被提出；在ENIAC充分运行之前，其设计工作就已经开始。和ENIAC一样，EDVAC也是为[美国陆军](../Page/美国陆军.md "wikilink")[阿伯丁试验场的](../Page/阿伯丁试验场.md "wikilink")[弹道研究实验室研制](https://zh.wikipedia.org/wiki/弹道研究实验室 "wikilink")。
 
 [冯·诺伊曼以技术顾问形式加入](https://zh.wikipedia.org/wiki/冯·诺伊曼 "wikilink")，总结和详细说明了EDVAC的逻辑设计，1945年6月发表了一份长达101页的报告，这就是著名的[关于EDVAC的报告草案](https://zh.wikipedia.org/wiki/First_Draft_of_a_Report_on_the_EDVAC "wikilink")，报告提出的体系结构一直延续至今，即[冯·诺伊曼结构](../Page/冯·诺伊曼结构.md "wikilink")。
 

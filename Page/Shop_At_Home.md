@@ -9,12 +9,12 @@ Network](https://zh.wikipedia.org/wiki/美食頻道_\(美國\) "wikilink")）。
 
 ## 歷史
 
-起初，SAH是一家位於[田納西州](https://zh.wikipedia.org/wiki/田納西州 "wikilink")[紐波特的小型](https://zh.wikipedia.org/wiki/紐波特 "wikilink")[電視購物網](https://zh.wikipedia.org/wiki/電視購物 "wikilink")。一開始他們模仿其他較大的競爭者：[QVC和](https://zh.wikipedia.org/wiki/QVC "wikilink")。
+起初，SAH是一家位於[田納西州](https://zh.wikipedia.org/wiki/田納西州 "wikilink")[紐波特的小型](https://zh.wikipedia.org/wiki/紐波特 "wikilink")[電視購物網](https://zh.wikipedia.org/wiki/電視購物 "wikilink")。一開始他們模仿其他較大的競爭者：[QVC和](../Page/QVC.md "wikilink")。
 
 無論如何，1989年起SAH率先開辦販賣一些具紀念性貨幣類收藏品。
 1990年代，的成功使SAH能在節目中銷售更多種類的收藏品，這使得SAH有了極佳的市場區隔。
 
-大部份的購物廣播網像[QVC或](https://zh.wikipedia.org/wiki/QVC "wikilink")，其主要目標顧客大都為貴婦階級的聽眾；而當SAH創造出獨特的收藏品主題節目時，則新引了大部份男性聽眾的目光。
+大部份的購物廣播網像[QVC或](../Page/QVC.md "wikilink")，其主要目標顧客大都為貴婦階級的聽眾；而當SAH創造出獨特的收藏品主題節目時，則新引了大部份男性聽眾的目光。
 
 在1990年－2000年初期受歡迎的節目也包括特殊刀類（）以及賣運動用品收藏。SAH也關注時代流行的收藏品像是：[泰迪熊](../Page/泰迪熊.md "wikilink")、[神奇寶貝之類等](https://zh.wikipedia.org/wiki/神奇寶貝 "wikilink")。
 
@@ -23,8 +23,8 @@ and （節目依然保留了下來並且持續賺錢。） 在SAH暫時歇業前
 
 ## 第一次停業
 
-在2006年6月21日結束了SAH的營運。這被引用來比喻跟其他更大的對手，像[QVC](https://zh.wikipedia.org/wiki/QVC "wikilink")
-& 競爭是多麼困難。
+在2006年6月21日結束了SAH的營運。這被引用來比喻跟其他更大的對手，像[QVC](../Page/QVC.md "wikilink") &
+競爭是多麼困難。
 
 SAH在2006年5月22日開始了他們的跳樓大拍賣，在那段期間，他們將一般商品以極低的折扣賣出，甚至一些從未上架過的也是。
 比較特別的是此拍賣會必須要有信用卡。

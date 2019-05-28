@@ -80,7 +80,7 @@ A级的学生。次一级的A级的学生也只有14名，A级的学生则是进
 
   - 監督：宮尾佳和
   - 系列構成・脚本：[花田十輝](https://zh.wikipedia.org/wiki/花田十輝 "wikilink")
-  - 脚本：花田十輝、[柿原優子](https://zh.wikipedia.org/wiki/柿原優子 "wikilink")、伊藤美智子、与口奈津江、杉原研二、[冨岡淳廣](https://zh.wikipedia.org/wiki/冨岡淳廣 "wikilink")、北条千夏
+  - 脚本：花田十輝、[柿原優子](../Page/柿原優子.md "wikilink")、伊藤美智子、与口奈津江、杉原研二、[冨岡淳廣](https://zh.wikipedia.org/wiki/冨岡淳廣 "wikilink")、北条千夏
   - 角色设计：中原清隆
   - 色彩設計：松山愛子
   - 美術監督：杉本あゆみ

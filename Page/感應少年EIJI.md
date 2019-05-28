@@ -501,7 +501,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
   - 川邊：[和気優](https://zh.wikipedia.org/wiki/和気優 "wikilink")
   - 明（アキラ）：[田鍋謙一郎](https://zh.wikipedia.org/wiki/田鍋謙一郎 "wikilink")
-  - 日比野一馬：[小橋賢兒](https://zh.wikipedia.org/wiki/小橋賢兒 "wikilink")
+  - 日比野一馬：[小橋賢兒](../Page/小橋賢兒.md "wikilink")
   - 橋慶太郎：[山田吾一](https://zh.wikipedia.org/wiki/山田吾一 "wikilink")
 
 <!-- end list -->
@@ -595,7 +595,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
   - 音樂：[寺田創一](https://zh.wikipedia.org/wiki/寺田創一 "wikilink")（1）、[DJ
     KRUSH](https://zh.wikipedia.org/wiki/DJ_KRUSH "wikilink")（1）、[仲西匡](https://zh.wikipedia.org/wiki/仲西匡 "wikilink")（2）
       - 吉他：[吉川忠英](https://zh.wikipedia.org/wiki/吉川忠英 "wikilink")（1）、字串安排：[沢田完](https://zh.wikipedia.org/wiki/沢田完 "wikilink")（2）
-  - 導演：[堤幸彥](https://zh.wikipedia.org/wiki/堤幸彥 "wikilink")（1）、[佐藤東彌](https://zh.wikipedia.org/wiki/佐藤東彌 "wikilink")（1）、[大谷太郎](https://zh.wikipedia.org/wiki/大谷太郎 "wikilink")（1）、[猪股隆一](https://zh.wikipedia.org/wiki/猪股隆一 "wikilink")（2）、[五木田亮一](https://zh.wikipedia.org/wiki/五木田亮一 "wikilink")（2）、[大根仁](https://zh.wikipedia.org/wiki/大根仁 "wikilink")（2）、[都築淳一](https://zh.wikipedia.org/wiki/都築淳一 "wikilink")（SP）
+  - 導演：[堤幸彥](https://zh.wikipedia.org/wiki/堤幸彥 "wikilink")（1）、[佐藤東彌](https://zh.wikipedia.org/wiki/佐藤東彌 "wikilink")（1）、[大谷太郎](https://zh.wikipedia.org/wiki/大谷太郎 "wikilink")（1）、[猪股隆一](https://zh.wikipedia.org/wiki/猪股隆一 "wikilink")（2）、[五木田亮一](https://zh.wikipedia.org/wiki/五木田亮一 "wikilink")（2）、[大根仁](../Page/大根仁.md "wikilink")（2）、[都築淳一](https://zh.wikipedia.org/wiki/都築淳一 "wikilink")（SP）
   - 主題曲
       - 第1期：[TOKIO](https://zh.wikipedia.org/wiki/TOKIO "wikilink")「[フラれて元気](https://zh.wikipedia.org/wiki/フラれて元気 "wikilink")」
       - 第2期：TOKIO「[愛の嵐](https://zh.wikipedia.org/wiki/愛の嵐_\(TOKIOの曲\) "wikilink")」
@@ -829,7 +829,7 @@ Magazine](../Page/週刊Young_Magazine.md "wikilink")』21・22合併號上開�
 
 ## 遊戲
 
-1999年2月18日，[講談社發售](https://zh.wikipedia.org/wiki/講談社 "wikilink")[PlayStation遊戲光碟](https://zh.wikipedia.org/wiki/PlayStation "wikilink")《感應少年EIJI（）》。
+1999年2月18日，[講談社發售](https://zh.wikipedia.org/wiki/講談社 "wikilink")[PlayStation遊戲光碟](../Page/PlayStation.md "wikilink")《感應少年EIJI（）》。
 
   - 配音
 

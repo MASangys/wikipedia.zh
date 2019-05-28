@@ -14,7 +14,7 @@
     2.0餘額低於新台幣40元時無法持卡乘車。
   - 2016年5月11日，icash2.0可用於搭乘[臺灣鐵路管理局列車](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")。
   - 2016年6月1日，[國立傳統藝術中心停用icash](../Page/國立傳統藝術中心.md "wikilink")。\[1\]
-  - 2016年7月1日，icash2.0可搭乘[高雄捷運](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")（[輕軌除外](https://zh.wikipedia.org/wiki/環狀輕軌 "wikilink")）。
+  - 2016年7月1日，icash2.0可搭乘[高雄捷運](../Page/高雄捷運.md "wikilink")（[輕軌除外](https://zh.wikipedia.org/wiki/環狀輕軌 "wikilink")）。
   - 2016年12月1日，[馬祖公車上線使用](https://zh.wikipedia.org/wiki/馬祖 "wikilink")。\[2\]
   - 2017年1月1日，新北市瑞芳第二市場停用icash\[3\]、高鐵・台鐵車票可支付代收代售\[4\]
   - 2017年2月10日，icash2.0可搭乘[台北捷運及](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")[臺北聯營公車](https://zh.wikipedia.org/wiki/臺北聯營公車 "wikilink")。
@@ -48,7 +48,7 @@
 
 2016年5月11日，持「已經開啟自動加值功能的Icash聯名卡」可直接刷卡進站搭乘[臺灣鐵路管理局列車](https://zh.wikipedia.org/wiki/臺灣鐵路管理局 "wikilink")。
 
-2017年2月10日，持「已經開啟自動加值功能的Icash聯名卡」可直接刷卡搭乘[台北捷運及](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")[高雄捷運及](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")[臺北聯營公車](https://zh.wikipedia.org/wiki/臺北聯營公車 "wikilink")。
+2017年2月10日，持「已經開啟自動加值功能的Icash聯名卡」可直接刷卡搭乘[台北捷運及](https://zh.wikipedia.org/wiki/台北捷運 "wikilink")[高雄捷運及](../Page/高雄捷運.md "wikilink")[臺北聯營公車](https://zh.wikipedia.org/wiki/臺北聯營公車 "wikilink")。
 
 | 種類                         | 合作發卡機構銀行                                                  | 感應方式   | 備註 |
 | -------------------------- | --------------------------------------------------------- | ------ | -- |
@@ -72,7 +72,7 @@
 **購卡**
 
   - icash2.0卡販售特約機構
-      - [高雄捷運各車站服務台](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")
+      - [高雄捷運各車站服務台](../Page/高雄捷運.md "wikilink")
       - [臺北捷運各車站服務台](https://zh.wikipedia.org/wiki/臺北捷運 "wikilink")
       - [桃園捷運各車站服務台](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")
       - [統一超商（7-11）](../Page/統一超商.md "wikilink")
@@ -90,7 +90,7 @@
       - [家樂福](../Page/家樂福.md "wikilink")
       - [全聯](https://zh.wikipedia.org/wiki/全聯 "wikilink")
   - 交通運輸
-      - [高雄捷運各車站服務台](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")
+      - [高雄捷運各車站服務台](../Page/高雄捷運.md "wikilink")
       - [臺北捷運各車站服務台](https://zh.wikipedia.org/wiki/臺北捷運 "wikilink")
       - [桃園捷運各車站服務台](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")
       - \*
@@ -121,7 +121,7 @@ icash損壞後可向愛金卡公司申請換卡，需掛號郵寄至愛金卡客
   - [統一超商廣場指定通路](https://zh.wikipedia.org/wiki/統一超商廣場 "wikilink")\[11\]
   - [大學眼鏡](https://zh.wikipedia.org/wiki/大學眼鏡 "wikilink")
   - [良興電子](https://zh.wikipedia.org/wiki/良興電子 "wikilink")
-  - [光南大批發](https://zh.wikipedia.org/wiki/光南大批發 "wikilink")
+  - [光南大批發](../Page/光南大批發.md "wikilink")
   - [中華電信多卡通電話機](https://zh.wikipedia.org/wiki/中華電信 "wikilink")
   - [聖德科斯生機食品](https://zh.wikipedia.org/wiki/聖德科斯生機食品 "wikilink")
   - [布萊恩紅茶](https://zh.wikipedia.org/wiki/布萊恩紅茶 "wikilink")
@@ -147,7 +147,7 @@ APP、icash・icash2.0）
 
 <!-- end list -->
 
-  - [高雄捷運](https://zh.wikipedia.org/wiki/高雄捷運 "wikilink")
+  - [高雄捷運](../Page/高雄捷運.md "wikilink")
   - [臺北捷運](https://zh.wikipedia.org/wiki/臺北捷運 "wikilink")
   - [桃園捷運](https://zh.wikipedia.org/wiki/桃園捷運 "wikilink")\[12\]
 
@@ -171,7 +171,7 @@ APP、icash・icash2.0）
   - [桃園市市區公車](../Page/桃園市市區公車.md "wikilink")：統聯客運
   - [台中市公車](https://zh.wikipedia.org/wiki/台中市公車 "wikilink")
   - [彰化縣公車](../Page/彰化縣公車.md "wikilink")
-  - [南投縣公車](https://zh.wikipedia.org/wiki/南投縣市區公車 "wikilink")
+  - [南投縣公車](../Page/南投縣市區公車.md "wikilink")
   - [大台南公車](../Page/大台南公車.md "wikilink")\[15\]
   - [高雄市公車](../Page/高雄市公車.md "wikilink")\[16\]
   - [屏東縣公車](../Page/屏東縣市區公車.md "wikilink")

@@ -11,7 +11,7 @@ MRTG最早的版本是在1995年[春天所推出](https://zh.wikipedia.org/wiki/
 
 ## 類似程式
 
-  - [RRDtool](https://zh.wikipedia.org/wiki/RRDtool "wikilink")：MRTG原作者開發的流量記錄監控軟體，較MRTG強大
+  - [RRDtool](../Page/RRDtool.md "wikilink")：MRTG原作者開發的流量記錄監控軟體，較MRTG強大
   - [PRTG](https://zh.wikipedia.org/wiki/PRTG "wikilink")：[Windows下的流量監控軟體](https://zh.wikipedia.org/wiki/Windows "wikilink")
 
 ## 參考資料

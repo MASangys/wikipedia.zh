@@ -33,7 +33,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - [伊藤健太郎](https://zh.wikipedia.org/wiki/伊藤健太郎_\(配音員\) "wikilink")
 
-  - [井上雄貴](https://zh.wikipedia.org/wiki/井上雄貴 "wikilink")
+  - [井上雄貴](../Page/井上雄貴.md "wikilink")
 
   - [伊丸岡篤](../Page/伊丸岡篤.md "wikilink")
 
@@ -66,7 +66,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
   -
   - [菊本平](../Page/菊本平.md "wikilink")
 
-  - [木島隆一](https://zh.wikipedia.org/wiki/木島隆一 "wikilink")
+  - [木島隆一](../Page/木島隆一.md "wikilink")
 
   - 木田祐
 
@@ -90,7 +90,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
   -
   - [新垣樽助](../Page/新垣樽助.md "wikilink")
 
-  - [關口英司](https://zh.wikipedia.org/wiki/關口英司 "wikilink")
+  - [關口英司](../Page/關口英司.md "wikilink")
 
   -
 <!-- end list -->
@@ -112,7 +112,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
   - [中村太亮](../Page/中村太亮.md "wikilink")
 
   -
-  - [永野善一](https://zh.wikipedia.org/wiki/永野善一 "wikilink")
+  - [永野善一](../Page/永野善一.md "wikilink")
 
   -
 <!-- end list -->
@@ -130,7 +130,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
   -
   -
   -
-  - [穗積隆信](https://zh.wikipedia.org/wiki/穗積隆信 "wikilink")
+  - [穗積隆信](../Page/穗積隆信.md "wikilink")
 
   -
 <!-- end list -->
@@ -147,7 +147,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
   -
   -
   -
-  - [森田順平](https://zh.wikipedia.org/wiki/森田順平 "wikilink")
+  - [森田順平](../Page/森田順平.md "wikilink")
 
   -
 <!-- end list -->
@@ -172,7 +172,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
   -
   - [大谷育江](../Page/大谷育江.md "wikilink")
 
-  - [大野柚布子](https://zh.wikipedia.org/wiki/大野柚布子 "wikilink")
+  - [大野柚布子](../Page/大野柚布子.md "wikilink")
 
   - [大橋步夕](../Page/大橋步夕.md "wikilink")
 
@@ -191,7 +191,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
   -
   - [龜井芳子](../Page/龜井芳子.md "wikilink")
 
-  - [神田美香](https://zh.wikipedia.org/wiki/神田美香 "wikilink")
+  - [神田美香](../Page/神田美香.md "wikilink")
 
   - 岸本望
 
@@ -199,7 +199,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   -
   -
-  - [久保田梨沙](https://zh.wikipedia.org/wiki/久保田梨沙 "wikilink")
+  - [久保田梨沙](../Page/久保田梨沙.md "wikilink")
 
   - [黑澤朋世](../Page/黑澤朋世.md "wikilink")
 
@@ -221,7 +221,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 <!-- end list -->
 
   -
-  - [佐藤梓](https://zh.wikipedia.org/wiki/佐藤梓 "wikilink")
+  - [佐藤梓](../Page/佐藤梓.md "wikilink")
 
   -
   -
@@ -242,7 +242,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - [田中敦子](../Page/田中敦子.md "wikilink")
 
-  - [田中貴子](https://zh.wikipedia.org/wiki/田中貴子_\(聲優\) "wikilink")
+  - [田中貴子](../Page/田中貴子_\(聲優\).md "wikilink")
 
   -
   - [谷井明日香](../Page/谷井明日香.md "wikilink")
@@ -252,7 +252,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - [椿理沙](../Page/椿理沙.md "wikilink")
 
-  - [寺依沙織](https://zh.wikipedia.org/wiki/寺依沙織 "wikilink")
+  - [寺依沙織](../Page/寺依沙織.md "wikilink")
 
 <!-- end list -->
 
@@ -260,7 +260,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
 <!-- end list -->
 
-  - [中惠光城](https://zh.wikipedia.org/wiki/中惠光城 "wikilink")
+  - [中惠光城](../Page/中惠光城.md "wikilink")
 
   - [中島唯](../Page/中島唯.md "wikilink")
 
@@ -282,9 +282,9 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - [羽鳥靖子](../Page/羽鳥靖子.md "wikilink")
 
-  - [濱口綾乃](https://zh.wikipedia.org/wiki/濱口綾乃 "wikilink")
+  - [濱口綾乃](../Page/濱口綾乃.md "wikilink")
 
-  - [春瀨夏實](https://zh.wikipedia.org/wiki/春瀨夏實 "wikilink")
+  - [春瀨夏實](../Page/春瀨夏實.md "wikilink")
 
   - [冰上恭子](../Page/冰上恭子.md "wikilink")
 
@@ -303,7 +303,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 <!-- end list -->
 
   -
-  - [增田由紀](https://zh.wikipedia.org/wiki/增田由紀 "wikilink")
+  - [增田由紀](../Page/增田由紀.md "wikilink")
 
   - [松浦知惠](../Page/松浦知惠.md "wikilink")
 
@@ -315,7 +315,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - 村田遙
 
-  - [森奈奈子](https://zh.wikipedia.org/wiki/森奈奈子_\(聲優\) "wikilink")
+  - [森奈奈子](../Page/森奈奈子_\(聲優\).md "wikilink")
 
   - [森永理科](../Page/森永理科.md "wikilink")
 
@@ -354,13 +354,13 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
   - [石井真](../Page/石井真.md "wikilink")（現所屬：[remax](https://zh.wikipedia.org/wiki/remax "wikilink")）
 
   - [石田彰](../Page/石田彰.md "wikilink")（現所屬：[PEERLESS
-    GERBERA](https://zh.wikipedia.org/wiki/PEERLESS_GERBERA "wikilink")）
+    GERBERA](../Page/PEERLESS_GERBERA.md "wikilink")）
 
   - （在籍中死去）
 
   - [上田燿司](../Page/上田燿司.md "wikilink")（現所屬：[Amuleto](../Page/Amuleto.md "wikilink")）
 
-  - [大木民夫](https://zh.wikipedia.org/wiki/大木民夫 "wikilink")（在籍中死去）
+  - [大木民夫](../Page/大木民夫.md "wikilink")（在籍中死去）
 
   - （現所屬：Amuleto）
 
@@ -406,23 +406,23 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - （現所屬：）
 
-  - [阪口周平](https://zh.wikipedia.org/wiki/阪口周平 "wikilink")（現所屬：[Aksent](../Page/Aksent.md "wikilink")）
+  - [阪口周平](../Page/阪口周平.md "wikilink")（現所屬：[Aksent](../Page/Aksent.md "wikilink")）
 
-  - [佐藤雄大](https://zh.wikipedia.org/wiki/佐藤雄大 "wikilink")（現所屬：[Bell
-    Production](https://zh.wikipedia.org/wiki/Bell_Production "wikilink")）
+  - [佐藤雄大](../Page/佐藤雄大.md "wikilink")（現所屬：[Bell
+    Production](../Page/Bell_Production.md "wikilink")）
 
   - （現所屬：）
 
   - （移籍青二Production之後於在籍中死去）
 
-  - [清水敏孝](https://zh.wikipedia.org/wiki/清水敏孝 "wikilink")（在籍中死去）
+  - [清水敏孝](../Page/清水敏孝.md "wikilink")（在籍中死去）
 
   - （現所屬：[Kenyu Office](../Page/Kenyu_Office.md "wikilink")）
 
   -
   - （現所屬：Aksent）
 
-  - [高瀨右光](https://zh.wikipedia.org/wiki/高瀨右光 "wikilink")（現所屬：Aksent）
+  - [高瀨右光](../Page/高瀨右光.md "wikilink")（現所屬：Aksent）
 
   - [田中秀幸](../Page/田中秀幸.md "wikilink")（現所屬：青二Production）
 
@@ -451,12 +451,11 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - （現所屬：WONDER SPACE）
 
-  - （現所屬：[Production
-    Ace](https://zh.wikipedia.org/wiki/Production_Ace "wikilink")）
+  - （現所屬：[Production Ace](../Page/Production_Ace.md "wikilink")）
 
   -
   -
-  - [矢薙直樹](https://zh.wikipedia.org/wiki/矢薙直樹 "wikilink")（現所屬：代表）
+  - [矢薙直樹](../Page/矢薙直樹.md "wikilink")（現所屬：代表）
 
   - （現所屬：WONDER SPACE）
 
@@ -470,8 +469,8 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
 ### 女性
 
-  - [逢澤由理香](https://zh.wikipedia.org/wiki/逢澤由理香 "wikilink")（現所屬：[Stay
-    Luck](https://zh.wikipedia.org/wiki/Stay_Luck "wikilink")）
+  - [逢澤由理香](../Page/逢澤由理香.md "wikilink")（現所屬：[Stay
+    Luck](../Page/Stay_Luck.md "wikilink")）
 
   - （現所屬：[aptepro](https://zh.wikipedia.org/wiki/aptepro "wikilink")）
 
@@ -485,12 +484,11 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
   -
   -
   - [井上喜久子](../Page/井上喜久子.md "wikilink")（現所屬：[Office
-    Anemone](https://zh.wikipedia.org/wiki/Office_Anemone "wikilink")、（旁白部門））
+    Anemone](../Page/Office_Anemone.md "wikilink")、（旁白部門））
 
   - （現所屬：Liberta）
 
-  - （現所屬：[KeKKe
-    Corporation](https://zh.wikipedia.org/wiki/KeKKe_Corporation "wikilink")）
+  - （現所屬：[KeKKe Corporation](../Page/KeKKe_Corporation.md "wikilink")）
 
   - [大原桃子](../Page/大原桃子.md "wikilink")（引退\[6\]）
 
@@ -512,8 +510,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
   -
   -
   -
-  - [幸田夏穗](https://zh.wikipedia.org/wiki/幸田夏穗 "wikilink")（現所屬：81
-    Produce）
+  - [幸田夏穗](../Page/幸田夏穗.md "wikilink")（現所屬：81 Produce）
 
   - （現所屬：）
 
@@ -541,8 +538,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - [重松朋](../Page/重松朋.md "wikilink")（自由職業）
 
-  - [設樂麻美](https://zh.wikipedia.org/wiki/設樂麻美 "wikilink")（現所屬：Production
-    Ace）
+  - [設樂麻美](../Page/設樂麻美.md "wikilink")（現所屬：Production Ace）
 
   - [須藤繪里花](../Page/須藤繪里花.md "wikilink")
 
@@ -589,14 +585,13 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
   - （現所屬：）
 
-  - [峯香織](https://zh.wikipedia.org/wiki/峯香織 "wikilink")（自由職業）
+  - [峯香織](../Page/峯香織.md "wikilink")（自由職業）
 
   - （現所屬：ARTSVISION）
 
   - （現所屬：[M\&S Company](http://www.msc-dance.net/)）
 
-  - （現所屬：[Style
-    Cube](https://zh.wikipedia.org/wiki/Style_Cube "wikilink"))
+  - （現所屬：[Style Cube](../Page/Style_Cube.md "wikilink"))
 
   - [彌永和子](../Page/彌永和子.md "wikilink")（移籍81 Produce之後於在籍中死去）
 
@@ -609,8 +604,7 @@ Mausu Promotion旗下有專屬的聲優培訓學院、及專門從事音響製�
 
 ## 從Mausu Promotion獨立的聲優事務所
 
-  - [PEERLESS
-    GERBERA](https://zh.wikipedia.org/wiki/PEERLESS_GERBERA "wikilink")（2011年）
+  - [PEERLESS GERBERA](../Page/PEERLESS_GERBERA.md "wikilink")（2011年）
 
 ## Mausu Promotion舞台公演喜劇
 

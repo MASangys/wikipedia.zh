@@ -407,14 +407,13 @@ Magic負責動畫製作](https://zh.wikipedia.org/wiki/Picture_Magic "wikilink")
   - 音樂：[渡邊剛](../Page/渡邊剛.md "wikilink")
   - 动画制作：[GONZO](../Page/GONZO.md "wikilink")（第5工作室，第1\~14話、第15話後協力制作）、[PictureMagic](https://zh.wikipedia.org/wiki/PictureMagic "wikilink")（第15話後）
   - 製作：清澄高校麻雀部（[SQUARE
-    ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[KlockWorx](https://zh.wikipedia.org/wiki/KlockWorx "wikilink")、[MediaNet](../Page/MediaNet.md "wikilink")、[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")）
+    ENIX](https://zh.wikipedia.org/wiki/SQUARE_ENIX "wikilink")、[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")、[Lantis](../Page/Lantis.md "wikilink")、[KlockWorx](https://zh.wikipedia.org/wiki/KlockWorx "wikilink")、[MediaNet](../Page/MediaNet.md "wikilink")、[創通](../Page/創通.md "wikilink")）
 
 #### 主題曲
 
   - 片头曲
 
-:;《[Glossy:MMM](https://zh.wikipedia.org/wiki/Glossy:MMM "wikilink")》（第2話－第14話）
-※第1話沒有片頭曲
+:;《[Glossy:MMM](../Page/Glossy:MMM.md "wikilink")》（第2話－第14話） ※第1話沒有片頭曲
 
 ::
 作詞：[畑亞貴](../Page/畑亞貴.md "wikilink")，作曲、編曲：[虹音](https://zh.wikipedia.org/wiki/虹音 "wikilink")，歌：[橋本美雪](../Page/橋本美雪.md "wikilink")
@@ -1270,7 +1269,7 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 
 ### 電視劇
 
-2016年12月起於[MBS及](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")[TBS的](../Page/TBS電視台.md "wikilink")[Dramaism時段播出](https://zh.wikipedia.org/wiki/Dramaism "wikilink")，全4集\[14\]\[15\]。2017年1月播出單篇特別篇。
+2016年12月起於[MBS及](https://zh.wikipedia.org/wiki/MBS電視台 "wikilink")[TBS的](../Page/TBS電視台.md "wikilink")[Dramaism時段播出](../Page/Dramaism.md "wikilink")，全4集\[14\]\[15\]。2017年1月播出單篇特別篇。
 
 #### 幕後製作
 
@@ -1279,7 +1278,7 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
   - 劇本：森迅史
   - 音楽：T$UYO$HI（The BONEZ）
   - 麻將指導：肯尼斯德田、黑木真生、馬場裕一／巴比倫
-  - 片頭曲：清澄高校麻將社（[濱邊美波](../Page/濱邊美波.md "wikilink")、[淺川梨奈](https://zh.wikipedia.org/wiki/淺川梨奈 "wikilink")、[廣田愛佳](../Page/廣田愛佳.md "wikilink")、[古畑星夏](../Page/古畑星夏.md "wikilink")、山田杏奈）「きみにワルツ」（想與你跳支華爾茲舞）\[16\]
+  - 片頭曲：清澄高校麻將社（[濱邊美波](../Page/濱邊美波.md "wikilink")、[淺川梨奈](../Page/淺川梨奈.md "wikilink")、[廣田愛佳](../Page/廣田愛佳.md "wikilink")、[古畑星夏](../Page/古畑星夏.md "wikilink")、山田杏奈）「きみにワルツ」（想與你跳支華爾茲舞）\[16\]
   - 片尾曲：「ハローグッバイ」（Hello, Goodbye）
   - 製作：Dub
   - 製作：VAP、AMUSE、[MBS](../Page/每日放送.md "wikilink")、A-Sketch、DUB、[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")
@@ -1291,7 +1290,7 @@ Seo Jung Ha、Kim Myoung Hyun</p></td>
 
 #### 幕後製作
 
-  - 片頭曲：清澄高校麻將社（[濱邊美波](../Page/濱邊美波.md "wikilink")、[淺川梨奈](https://zh.wikipedia.org/wiki/淺川梨奈 "wikilink")、[廣田愛佳](../Page/廣田愛佳.md "wikilink")、[古畑星夏](../Page/古畑星夏.md "wikilink")、[山田杏奈](../Page/山田杏奈.md "wikilink")）「きみにワルツ」（想與你跳支華爾茲舞）
+  - 片頭曲：清澄高校麻將社（[濱邊美波](../Page/濱邊美波.md "wikilink")、[淺川梨奈](../Page/淺川梨奈.md "wikilink")、[廣田愛佳](../Page/廣田愛佳.md "wikilink")、[古畑星夏](../Page/古畑星夏.md "wikilink")、[山田杏奈](../Page/山田杏奈.md "wikilink")）「きみにワルツ」（想與你跳支華爾茲舞）
 
 ### 阿知賀篇 episode of side-A
 
