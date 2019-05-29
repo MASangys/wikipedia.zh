@@ -21,16 +21,16 @@ Vita存储卡和一个[DualShock
 3手柄的捆绑版本零售价为](../Page/DualShock.md "wikilink")14994日元（含税）\[7\]。
 
 索尼电脑娱乐公司首席执行官表示索尼希望能够使用PSVita
-TV打入中国游戏市场。在2013年时，中国大陆市场[禁止销售电子游戏机](https://zh.wikipedia.org/wiki/中国大陆游戏机历史 "wikilink")\[8\]。PSVita
+TV打入中国游戏市场。在2013年时，中国大陆市场[禁止销售电子游戏机](../Page/中国大陆游戏机历史.md "wikilink")\[8\]。PSVita
 TV于2014年1月16日在其他五个东南亚国家和香港地区发布\[9\]。在上，索尼公布该主机将于2014年第三季度在北美和欧洲推出，名称为PlayStation
-TV\[10\]。最终在2014年[Gamescom展会上宣布了北美及欧洲地区的最终发行日期](https://zh.wikipedia.org/wiki/Gamescom "wikilink")\[11\]。
+TV\[10\]。最终在2014年[Gamescom展会上宣布了北美及欧洲地区的最终发行日期](../Page/Gamescom.md "wikilink")\[11\]。
 
 3.15版本系统软件更新于2014年4月30日发布，该版本新增支持PSVita
 TV远程串流PS4游戏，而注册地在亚洲及日本以外的PSN账户当时尚未支持PS4远程播放功能。至2014年10月，随着3.30版本系统固件更新的发布，该功能也可用于日本及亚洲地区以外的PlayStation
 Network帐户，该系统固件也在系统菜单中将这些地区的PSVita TV重命名为PS TV。
 
 PSVita TV上的[PlayStation
-Now功能在北美于](https://zh.wikipedia.org/wiki/PlayStation_Now "wikilink")2014年10月14日开始公开测试\[12\]，主机也在当天于北美开始发售。
+Now功能在北美于](../Page/PlayStation_Now.md "wikilink")2014年10月14日开始公开测试\[12\]，主机也在当天于北美开始发售。
 
 2015年3月底，索尼在欧洲将PS TV的价格下调了40%至59.99欧元。同一周内PS TV在欧洲的销售额增长了1272％\[13\]。
 
@@ -49,7 +49,7 @@ TV上运行。\[18\]该设备可以兼容100多款PlayStation
 Vita游戏\[19\]。同时支持许多通过PlayStation Store下载的[PlayStation
 Portable](../Page/PlayStation_Portable.md "wikilink")、[PlayStation以及](../Page/PlayStation_\(遊戲機\).md "wikilink")[PC
 Engine游戏](https://zh.wikipedia.org/wiki/PC_Engine "wikilink")，以及从[PlayStation
-Now服务串流的](https://zh.wikipedia.org/wiki/PlayStation_Now "wikilink")[PlayStation
+Now服务串流的](../Page/PlayStation_Now.md "wikilink")[PlayStation
 3游戏](../Page/PlayStation_3.md "wikilink")\[20\]。该主机在技术上被索尼称为VTE-1000系列，以区别于便携式PCH-1000/2000系列的PS
 Vita型号\[21\]。
 

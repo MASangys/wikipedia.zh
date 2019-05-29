@@ -4,7 +4,7 @@
 
   - 睽違一年6個月的新專輯。
   - 收錄3首單曲的，為「[急☆上☆Show\!\!](../Page/急☆上☆Show!!.md "wikilink")」、「[Wonderful
-    World\!\!](../Page/Wonderful_World!!.md "wikilink")」、「[LIFE〜目の前の向こうへ〜](https://zh.wikipedia.org/wiki/LIFE～朝著眼前的方向～ "wikilink")」
+    World\!\!](../Page/Wonderful_World!!.md "wikilink")」、「[LIFE〜目の前の向こうへ〜](../Page/LIFE～朝著眼前的方向～.md "wikilink")」
   - 初回盤的CD和通常盤的CD1收錄曲是一樣的
   - DVD特典 『8UPPERS FEATURE MUSIC FILM』的監督和脚本是中村哲平先生。
 
@@ -22,7 +22,7 @@
 4.  Baby Baby
       -
         　作詞・作曲：山森大輔 編曲：ROCK'A'TRENCH / 大西省吾
-5.  [LIFE〜目の前の向こうへ〜](https://zh.wikipedia.org/wiki/LIFE～朝著眼前的方向～ "wikilink")
+5.  [LIFE〜目の前の向こうへ〜](../Page/LIFE～朝著眼前的方向～.md "wikilink")
       -
         作詞・作曲：金丸佳史 編曲：大西省吾
 6.  BACK OFF

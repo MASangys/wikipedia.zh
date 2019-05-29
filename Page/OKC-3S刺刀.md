@@ -51,7 +51,7 @@ HRC），而且能夠在-25—135[℉](../Page/华氏温标.md "wikilink")（-32
 
   - [06式水下刺刀](../Page/06式水下刺刀.md "wikilink")，[06式的刺刀](../Page/06式水下步枪.md "wikilink")，可說是95式刺刀與潛水刀的混合型
 
-  - [格洛克刺刀](https://zh.wikipedia.org/wiki/格洛克刺刀 "wikilink")
+  - [格洛克刺刀](../Page/格洛克刺刀.md "wikilink")
 
   - [KCB77刺刀](../Page/KCB77刺刀.md "wikilink")
 

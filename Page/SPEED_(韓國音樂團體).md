@@ -74,7 +74,7 @@ SeeYa幼真](../Page/The_SeeYa.md "wikilink")、[5dolls](https://zh.wikipedia.or
 
 ### 2014年 發行迷你專輯《Speed Circus》
 
-2014年1月29日，鍾國和[Shannon共同發表數碼單曲](https://zh.wikipedia.org/wiki/Shannon_\(韓國歌手\) "wikilink")「REMEMBER
+2014年1月29日，鍾國和[Shannon共同發表數碼單曲](../Page/Shannon_\(韓國歌手\).md "wikilink")「REMEMBER
 YOU」。
 
 2014年2月12日，舉行新迷你專輯《Speed Circus》發行紀念Showcase,主打曲為馬戲團概念的《Don't Tease Me》。

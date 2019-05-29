@@ -90,7 +90,7 @@ Girl](../Page/我的女孩.md "wikilink")》後時隔8年再度搭檔主演。\[
 <p><a href="https://zh.wikipedia.org/wiki/劉文光" title="wikilink">劉文光</a></p></td>
 <td><center>
 <p><a href="../Page/譚炳文.md" title="wikilink">譚炳文</a><br />
-青年：<a href="https://zh.wikipedia.org/wiki/鄧志堅" title="wikilink">鄧志堅</a></p></td>
+青年：<a href="../Page/鄧志堅.md" title="wikilink">鄧志堅</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -103,7 +103,7 @@ Girl](../Page/我的女孩.md "wikilink")》後時隔8年再度搭檔主演。\[
 <p><a href="../Page/姜嘉蕾.md" title="wikilink">姜嘉蕾</a></p></td>
 <td><center>
 <p><a href="../Page/雷碧娜.md" title="wikilink">雷碧娜</a><br />
-青年：<a href="https://zh.wikipedia.org/wiki/羅孔柔" title="wikilink">羅孔柔</a></p></td>
+青年：<a href="../Page/羅孔柔.md" title="wikilink">羅孔柔</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -346,7 +346,7 @@ Girl](../Page/我的女孩.md "wikilink")》後時隔8年再度搭檔主演。\[
 <td><p>酒店清潔工</p></td>
 <td><center></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/李潤知" title="wikilink">李潤知</a></p></td>
+<p><a href="../Page/李潤知.md" title="wikilink">李潤知</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -425,7 +425,7 @@ Girl](../Page/我的女孩.md "wikilink")》後時隔8年再度搭檔主演。\[
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/梁家池" title="wikilink">梁家池</a></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/林筠翔" title="wikilink">林筠翔</a></p></td>
+<p><a href="../Page/林筠翔.md" title="wikilink">林筠翔</a></p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -685,7 +685,7 @@ Girl](../Page/我的女孩.md "wikilink")》後時隔8年再度搭檔主演。\[
 
 ## 同時段競爭作品
 
-  - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")：《[天使之眼](https://zh.wikipedia.org/wiki/天使之眼 "wikilink")》、《[無盡的愛](../Page/無盡的愛_\(2014年電視劇\).md "wikilink")》
+  - [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")：《[天使之眼](../Page/天使之眼.md "wikilink")》、《[無盡的愛](../Page/無盡的愛_\(2014年電視劇\).md "wikilink")》
   - [KBS](../Page/韓國放送公社.md "wikilink")：《[鄭道傳](../Page/鄭道傳_\(電視劇\).md "wikilink")》
 
 ## 音樂

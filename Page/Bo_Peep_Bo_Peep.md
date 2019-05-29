@@ -1,7 +1,7 @@
 《**Bo Peep Bo
 Peep**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[T-ara的一首單曲](https://zh.wikipedia.org/wiki/T-ara "wikilink")，為她們的首張正規韓語專輯《[Absolute
 First
-Album](https://zh.wikipedia.org/wiki/Absolute_First_Album "wikilink")》的第一首主打，另一首是《[就像最初](https://zh.wikipedia.org/wiki/就像最初 "wikilink")》（）。這首歌在[KBS音樂節目](../Page/韓國放送公社.md "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》獲得了2次第一名，於[SBS音樂節目](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》獲得了3次第一名。2011年9月28日，《Bo
+Album](../Page/Absolute_First_Album.md "wikilink")》的第一首主打，另一首是《[就像最初](https://zh.wikipedia.org/wiki/就像最初 "wikilink")》（）。這首歌在[KBS音樂節目](../Page/韓國放送公社.md "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》獲得了2次第一名，於[SBS音樂節目](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》獲得了3次第一名。2011年9月28日，《Bo
 Peep Bo
 Peep》作為T-ara在日本的出道單曲，正式發行。單曲銷售已超過91,343張，也是目前T-ara唯一在[RIAJ付費音樂下載榜中的PC下載及手機全曲付費下載認證為](../Page/RIAJ付費音樂下載榜.md "wikilink")「金」的歌曲\[1\]。
 

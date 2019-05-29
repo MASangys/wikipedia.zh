@@ -3,7 +3,7 @@ Post-mysticism.**》（）是[一迅社于](../Page/一迅社.md "wikilink")2012
 
 ## 概述
 
-和前作一样，以[稗田阿求的身份引述了作品内作品](https://zh.wikipedia.org/wiki/東方求聞史紀_〜_Perfect_Memento_in_Strict_Sense.#稗田_阿求 "wikilink")《幻想乡缘起》的内容介绍作品设定，但与前作不同的是，是以由[雾雨魔理沙做主持](https://zh.wikipedia.org/wiki/雾雨魔理沙 "wikilink")，稗田阿求为记录，以三教（[神](../Page/神道.md "wikilink")、[道](https://zh.wikipedia.org/wiki/道教 "wikilink")、[佛教](../Page/日本佛教.md "wikilink")）在[幻想乡的势力为主题的座谈会来进行](https://zh.wikipedia.org/wiki/幻想乡 "wikilink")，另附有《文文新闻》（[射命丸文的报纸](https://zh.wikipedia.org/wiki/射命丸文 "wikilink")）和《花果子念报》（[姫海棠极的报纸](https://zh.wikipedia.org/wiki/Double_Spoiler_～_東方文花帖#姫海棠_极 "wikilink")）的内容，对故事进一步补充。
+和前作一样，以[稗田阿求的身份引述了作品内作品](https://zh.wikipedia.org/wiki/東方求聞史紀_〜_Perfect_Memento_in_Strict_Sense.#稗田_阿求 "wikilink")《幻想乡缘起》的内容介绍作品设定，但与前作不同的是，是以由[雾雨魔理沙做主持](https://zh.wikipedia.org/wiki/雾雨魔理沙 "wikilink")，稗田阿求为记录，以三教（[神](../Page/神道.md "wikilink")、[道](../Page/道教.md "wikilink")、[佛教](../Page/日本佛教.md "wikilink")）在[幻想乡的势力为主题的座谈会来进行](https://zh.wikipedia.org/wiki/幻想乡 "wikilink")，另附有《文文新闻》（[射命丸文的报纸](https://zh.wikipedia.org/wiki/射命丸文 "wikilink")）和《花果子念报》（[姫海棠极的报纸](https://zh.wikipedia.org/wiki/Double_Spoiler_～_東方文花帖#姫海棠_极 "wikilink")）的内容，对故事进一步补充。
 
   - 座谈会前五部分
     座谈会前部部分，以宗教势力为主题，通过座谈会介绍从[东方风神录至](https://zh.wikipedia.org/wiki/东方风神录 "wikilink")[东方神灵庙的人物设定](https://zh.wikipedia.org/wiki/东方神灵庙 "wikilink")。

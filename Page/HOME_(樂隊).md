@@ -61,7 +61,7 @@ Shum(沈國榮)、Sunny Ku(辜明毅)及Tommy Sung(宋亦霖)
   - 2013年11月9日：鄭俊弘星夢成真生日會表演嘉賓
   - 2014年9月25日：Times Square MUSIC ROOM Opening Show - HOME Band Show
   - 2014年11月1日：[鄭俊弘Welcome to My
-    Dreams演唱會2014嘉賓](https://zh.wikipedia.org/wiki/鄭俊弘Welcome_to_My_Dreams演唱會2014 "wikilink")
+    Dreams演唱會2014嘉賓](../Page/鄭俊弘Welcome_to_My_Dreams演唱會2014.md "wikilink")
   - 2014年11月7日： AEO Live MEGAzine 創刊Kickoff
   - 2015年5月30日： 太極 The Mega Hit 30週年演唱會2015 嘉賓
   - 2015年9月5日： [鄭俊弘 THE RED CONCERT 2015

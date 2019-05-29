@@ -205,8 +205,8 @@ Entertainment旗下華人雙胞胎男子组合Tasty提出的專屬合約無效�
 | 2014年2月15日     | [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink") The 1st World Tour 《-Girls & Peace-》 澳門站       | 澳門威尼斯人金光綜藝館    | 擔任表演嘉賓 |
 | 2014年6月21日     | Best of Best快樂韓樂演唱會                                                                                  | 台北小巨蛋          |        |
 | 2014年7月1日      | 香港巨蛋音樂節2014                                                                                          | 香港舊啟德機埸跑道      |        |
-| 2014年10月18日    | [SMTOWN Live第四次世界巡迴演唱會](https://zh.wikipedia.org/wiki/SMTOWN_Live第四次世界巡迴演唱會 "wikilink") 上海站          | 上海體育場          |        |
-| 2015年3月21日     | [SMTOWN Live第四次世界巡迴演唱會](https://zh.wikipedia.org/wiki/SMTOWN_Live第四次世界巡迴演唱會 "wikilink") 新竹站          | 新竹縣立體育場        |        |
+| 2014年10月18日    | [SMTOWN Live第四次世界巡迴演唱會](../Page/SMTOWN_Live第四次世界巡迴演唱會.md "wikilink") 上海站                             | 上海體育場          |        |
+| 2015年3月21日     | [SMTOWN Live第四次世界巡迴演唱會](../Page/SMTOWN_Live第四次世界巡迴演唱會.md "wikilink") 新竹站                             | 新竹縣立體育場        |        |
 |                |                                                                                                      |                |        |
 
 ## 獎項

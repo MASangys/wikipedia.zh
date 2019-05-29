@@ -21,7 +21,7 @@ Show](https://zh.wikipedia.org/wiki/The_Gadget_Show "wikilink")》亮相。\[1\]
 or
 Bust](https://zh.wikipedia.org/wiki/Badger_or_Bust "wikilink")》亮相。在《[英国疯狂汽车秀](../Page/英国疯狂汽车秀.md "wikilink")》(Top
 Gear)的Car vs. Train
-2.环节中[理查德·哈蒙德与](https://zh.wikipedia.org/wiki/理查德·哈蒙德 "wikilink")[詹姆斯·梅将A](../Page/詹姆斯·梅.md "wikilink")-bike带入他们的手提箱并展开从渡轮码头骑到缆车。《A
+2.环节中[理查德·哈蒙德与](../Page/理查德·哈蒙德.md "wikilink")[詹姆斯·梅将A](../Page/詹姆斯·梅.md "wikilink")-bike带入他们的手提箱并展开从渡轮码头骑到缆车。《A
 to B》杂志形容A-bike为“”（中文直译为：极好的折叠车，但也不易骑行）。\[2\]
 
 ## 系列

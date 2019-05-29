@@ -1,4 +1,4 @@
-**AGS-40**（；，，意為：[巴爾幹](../Page/巴尔干半岛.md "wikilink")；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是一挻由[前苏联研製](../Page/苏联.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")[GNPP
+**AGS-40**（；，，意為：[巴爾幹](../Page/巴尔干半岛.md "wikilink")；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）是一挻由[前苏联研製](../Page/苏联.md "wikilink")、[俄罗斯](../Page/俄罗斯.md "wikilink")[GNPP
 Pribor設計局生產的](https://zh.wikipedia.org/wiki/GNPP_Pribor設計局 "wikilink")40毫米[自動榴彈發射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，是[AGS-17的大](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")[口徑改進型](https://zh.wikipedia.org/wiki/口徑 "wikilink")，發射40毫米7P39[無彈殼](../Page/無殼彈.md "wikilink")[榴彈](https://zh.wikipedia.org/wiki/榴彈 "wikilink")。
 
 AGS-40裝設在[三腳架](https://zh.wikipedia.org/wiki/三腳架 "wikilink")、[车辆](https://zh.wikipedia.org/wiki/车辆 "wikilink")、[船隻和](../Page/船.md "wikilink")[直升機以上使用](https://zh.wikipedia.org/wiki/直升機 "wikilink")。其設計的目的是摧毀敵方人員及載具，以保護使用方的步兵連。AGS-40已經被[俄羅斯軍隊所採用](https://zh.wikipedia.org/wiki/俄羅斯軍事 "wikilink")。
@@ -233,7 +233,7 @@ N/A</p></td>
   - [Mk 47自動榴彈發射器](../Page/Mk_47自動榴彈發射器.md "wikilink")
   - [SB LAG
     40自動榴彈發射器](https://zh.wikipedia.org/wiki/SB_LAG_40自動榴彈發射器 "wikilink")
-  - [XM174自動榴彈發射器](https://zh.wikipedia.org/wiki/XM174自動榴彈發射器 "wikilink")
+  - [XM174自動榴彈發射器](../Page/XM174自動榴彈發射器.md "wikilink")
   - [XM307自動榴彈發射器](../Page/XM307自動榴彈發射器.md "wikilink")
   - [俄羅斯槍械列表](../Page/俄羅斯槍械列表.md "wikilink")
 

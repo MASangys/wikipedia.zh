@@ -13,7 +13,7 @@ Brant之子Ryan Brant在1993年投资建立。Take-Two
 Interactive是美国典型的激进派游戏的发行商，它所发行的游戏大多都游走于法律的边缘，最初几年Take-Two
 Interactive所发行的游戏画面质量粗糙，并不是一家太过良心的公司，于是乎Take-Two
 Interactive走上了代理发行其他工作室的游戏的道路。1998年，Take-Two
-Interactive代理发行由狼蛛工作室（现[Rockstar林肯工作室](https://zh.wikipedia.org/wiki/Rockstar_Lincoln "wikilink")）开发的《Rats》，虽然饱受恶评，但扭转了Take-Two
+Interactive代理发行由狼蛛工作室（现[Rockstar林肯工作室](../Page/Rockstar_Lincoln.md "wikilink")）开发的《Rats》，虽然饱受恶评，但扭转了Take-Two
 Interactive饱受恶评的局面，同时随着《[俠盜獵車手](../Page/俠盜獵車手_\(遊戲\).md "wikilink")》的大卖，Take-Two
 Interactive用1420万美元收购BMG Interactive，同年BMG
 Interactive重组，成为了之后名声大噪的Rockstar Games。
@@ -39,7 +39,7 @@ Division](https://zh.wikipedia.org/wiki/Private_Division "wikilink")，主要负
 ### 中国市场
 
 Take-Two Interactive对中国市场精雕细刻、力求完美。与推崇血腥暴力的Rockstar Games相比，Take-Two
-Interactive十分关注中国市场的发展，并表现出浓厚的兴趣。[2K中国成立于](https://zh.wikipedia.org/wiki/2K中国 "wikilink")2006年1月，是Take-Two
+Interactive十分关注中国市场的发展，并表现出浓厚的兴趣。[2K中国成立于](../Page/2K中国.md "wikilink")2006年1月，是Take-Two
 Interactive在中国唯一的全资子公司，其工作包括为中国市场进行游戏本地化、移植游戏到其他平台以及协助其他工作室共同开发电子游戏。
 
 由于必须使用中文进行注册，所以2K中国的实际注册名称为仟游软件科技（上海）有限公司；而两间工作室则分别称为仟游软件科技（杭州）有限公司和仟游软件科技（成都）有限公司。
@@ -76,7 +76,7 @@ Interactive对美国艺电已失去吸引力。”\[1\]
     Play与](https://zh.wikipedia.org/wiki/2K_Play "wikilink")[2K
     Sports](../Page/2K_Sports.md "wikilink"))
       - [2K澳大利亚](../Page/2K_Australia.md "wikilink")（2K Australia）
-      - [2K中国](https://zh.wikipedia.org/wiki/2K中国 "wikilink")（2K China）
+      - [2K中国](../Page/2K中国.md "wikilink")（2K China）
       - [2K捷克](../Page/2K_Czech.md "wikilink")（2K Czech）
       - [2K Marin](../Page/2K_Marin.md "wikilink")
       - 2K维加斯（2K Vegas）
@@ -90,15 +90,12 @@ Interactive对美国艺电已失去吸引力。”\[1\]
           - Visual Concepts韩国（Visual Concepts Korea）
   - [Rockstar Games](../Page/Rockstar_Games.md "wikilink")
       - [Rockstar Leeds](../Page/Rockstar_Leeds.md "wikilink")
-      - [Rockstar
-        Lincoln](https://zh.wikipedia.org/wiki/Rockstar_Lincoln "wikilink")
-      - [Rockstar
-        London](https://zh.wikipedia.org/wiki/Rockstar_London "wikilink")
+      - [Rockstar Lincoln](../Page/Rockstar_Lincoln.md "wikilink")
+      - [Rockstar London](../Page/Rockstar_London.md "wikilink")
       - [Rockstar New
         England](https://zh.wikipedia.org/wiki/Rockstar_New_England "wikilink")
       - [Rockstar North](../Page/Rockstar_North.md "wikilink")
-      - [Rockstar San
-        Diego](https://zh.wikipedia.org/wiki/Rockstar_San_Diego "wikilink")
+      - [Rockstar San Diego](../Page/Rockstar_San_Diego.md "wikilink")
       - [Rockstar Toronto](../Page/Rockstar_Toronto.md "wikilink")
 
 ### 已解散工作室

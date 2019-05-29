@@ -20,7 +20,7 @@
 
   - [風光る](https://zh.wikipedia.org/wiki/:ja:風光る_\(渡辺多恵子\) "wikilink")（[渡邊多惠子](../Page/渡邊多惠子.md "wikilink")）
 
-  - 黄色い猫の夢日記（[奈知未佐子](https://zh.wikipedia.org/wiki/奈知未佐子 "wikilink")）
+  - 黄色い猫の夢日記（[奈知未佐子](../Page/奈知未佐子.md "wikilink")）
 
   - [さんすくみ](https://zh.wikipedia.org/wiki/:ja:さんすくみ "wikilink")（[絹田村子](https://zh.wikipedia.org/wiki/:ja:絹田村子 "wikilink")）
 

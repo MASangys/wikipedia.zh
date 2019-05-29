@@ -362,7 +362,7 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
     [麿赤兒](../Page/麿赤兒.md "wikilink")（香港配音：[張炳強](../Page/張炳強.md "wikilink")）
     提供時尚界營運建議的。TATSUKO YANO背後出資者。
   - YURINA /
-    演 - （香港配音：[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")）
+    演 - （香港配音：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")）
     知名[Fast
     Fashion服飾品牌](https://zh.wikipedia.org/wiki/快时尚 "wikilink")－BUTTERFLY
     HONEY的-{zh-tw:專屬;zh-hk:專屬;zh-cn:御用}-模特兒。名門千金學校・私立雪谷大附屬女子高中的學生會會長。廣木里加的親生女兒。
@@ -395,15 +395,14 @@ YANO」面臨經營危機，創辦人矢野龍子聘請業界著名的設計奇�
     演 -  （第4話）
     經濟產業大臣的熱門人選，眾議院議員。
   - 高野美咲
-    演 -
-    竹内友梨（第5話）（香港配音：[李潤知](https://zh.wikipedia.org/wiki/李潤知 "wikilink")）
+    演 - 竹内友梨（第5話）（香港配音：[李潤知](../Page/李潤知.md "wikilink")）
     「ERENA」所屬的製作品牌「CLAP CLAP」的設計師。
   - 高木
     演 - 川井務（第5話）（香港配音：[張錦江](../Page/張錦江.md "wikilink")）
     高野的上司。
   - 河瀨春香
     演 -
-    [樋井明日香](../Page/樋井明日香.md "wikilink")（第8話）（香港配音：[廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink")）
+    [樋井明日香](../Page/樋井明日香.md "wikilink")（第8話）（香港配音：[廖杏茵](../Page/廖杏茵.md "wikilink")）
     TATSUKO YANO
     JAPAN的顧客。一直希望能讓父親在辭世之前能看到自己穿新娘裝的樣子，卻礙於生活壓力無法如願，因此感到相當苦惱。
   - 河瀨裕一

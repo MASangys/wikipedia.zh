@@ -25,7 +25,7 @@ Vita推出，它将社交网络元素整合入界面。此外PlayStation 2和原
 Awaits”营销。
 
 因[索尼互動娛樂全球工作室](../Page/索尼互動娛樂全球工作室.md "wikilink")（由索尼电脑娱乐持有的一组15家第一方开发商，致力于为系列开发第一方游戏），系列还有强力的第一方团队作品阵容。此外系列还有诸多廉价再版作品，包括[Greatest
-Hits](https://zh.wikipedia.org/wiki/Greatest_Hits "wikilink")、[Platinum](https://zh.wikipedia.org/wiki/Platinum_Range "wikilink")、[Essential](https://zh.wikipedia.org/wiki/Essential_Range "wikilink")、[Favorite和](https://zh.wikipedia.org/wiki/Favorite_Range "wikilink")[The
+Hits](../Page/Greatest_Hits.md "wikilink")、[Platinum](https://zh.wikipedia.org/wiki/Platinum_Range "wikilink")、[Essential](https://zh.wikipedia.org/wiki/Essential_Range "wikilink")、[Favorite和](https://zh.wikipedia.org/wiki/Favorite_Range "wikilink")[The
 Best类作品](https://zh.wikipedia.org/wiki/The_Best_Range "wikilink")，名称在每个地区都有不同名称。
 
 ## 参考资料

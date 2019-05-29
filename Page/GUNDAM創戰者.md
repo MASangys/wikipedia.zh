@@ -1,4 +1,4 @@
-《**GUNDAM創戰者**》（，）為2013年10月7日起於[東京電視台播放的日本電視動畫](../Page/東京電視台.md "wikilink")。並於2014年10月8日開始上映第二季動畫－**[GUNDAM創戰者TRY](https://zh.wikipedia.org/wiki/GUNDAM創戰者TRY "wikilink")**（，）。
+《**GUNDAM創戰者**》（，）為2013年10月7日起於[東京電視台播放的日本電視動畫](../Page/東京電視台.md "wikilink")。並於2014年10月8日開始上映第二季動畫－**[GUNDAM創戰者TRY](../Page/GUNDAM創戰者TRY.md "wikilink")**（，）。
 
 ## 概要
 
@@ -353,7 +353,7 @@ NAOKI</p></td>
 </tr>
 <tr class="even">
 <td><p>製作</p></td>
-<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>、<a href="https://zh.wikipedia.org/wiki/創通" title="wikilink">創通</a>、<a href="../Page/日昇動畫.md" title="wikilink">日昇動畫</a></p></td>
+<td><p><a href="../Page/東京電視台.md" title="wikilink">東京電視台</a>、<a href="../Page/創通.md" title="wikilink">創通</a>、<a href="../Page/日昇動畫.md" title="wikilink">日昇動畫</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -495,7 +495,7 @@ NAOKI</p></td>
 ### 獎項
 
   - 《身邊有你》：新城知訊台「勁爆兒歌榜」冠軍歌曲（2014年4月20日）
-  - 《身邊有你》：[2013年度新城勁爆兒歌頒獎禮](https://zh.wikipedia.org/wiki/2013年度新城勁爆兒歌頒獎禮得獎名單 "wikilink")「新城勁爆兒歌」獎
+  - 《身邊有你》：[2013年度新城勁爆兒歌頒獎禮](../Page/2013年度新城勁爆兒歌頒獎禮得獎名單.md "wikilink")「新城勁爆兒歌」獎
 
 ## 各話列表
 

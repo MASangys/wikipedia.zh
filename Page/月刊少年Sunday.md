@@ -175,7 +175,7 @@
 </tr>
 <tr class="even">
 <td><p>17</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/信長協奏曲" title="wikilink">信長協奏曲</a></strong></p></td>
+<td><p><strong><a href="../Page/信長協奏曲.md" title="wikilink">信長協奏曲</a></strong></p></td>
 <td><p><a href="../Page/石井步.md" title="wikilink">石井步</a></p></td>
 <td><p>－</p></td>
 <td><p>2009.06</p></td>

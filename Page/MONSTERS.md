@@ -155,7 +155,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台於](../Page/
 <!-- end list -->
 
   - 丸田恭治 -
-    [森田順平](https://zh.wikipedia.org/wiki/森田順平 "wikilink")（香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
+    [森田順平](../Page/森田順平.md "wikilink")（香港配音：[陳欣](https://zh.wikipedia.org/wiki/陳欣 "wikilink")）
 
 <!-- end list -->
 
@@ -402,7 +402,7 @@ zh-hk:《**怪獸刑警**》（MONSTERS）;}-為日本[TBS電視台於](../Page/
 <!-- end list -->
 
   - 安岡仁 -
-    [植木紀世彦](https://zh.wikipedia.org/wiki/植木紀世彦 "wikilink")（香港配音：[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")）
+    [植木紀世彦](https://zh.wikipedia.org/wiki/植木紀世彦 "wikilink")（香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）
 
 <!-- end list -->
 

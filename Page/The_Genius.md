@@ -1566,7 +1566,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>演員，歌手</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/河戀姝" title="wikilink">河戀姝</a> 하연주</p></td>
+<td><p><a href="../Page/河戀姝.md" title="wikilink">河戀姝</a> 하연주</p></td>
 <td><p>演員，<a href="https://zh.wikipedia.org/wiki/門薩國際" title="wikilink">MENSA會員</a></p></td>
 </tr>
 <tr class="odd">
@@ -1677,7 +1677,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>2</p></td>
 <td><p>2014年10月8日</p></td>
 <td><p>陪審團</p></td>
-<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a>，<a href="https://zh.wikipedia.org/wiki/河戀姝" title="wikilink">河戀姝</a>，<a href="../Page/張東民.md" title="wikilink">張東民</a>，<br />
+<td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a>，<a href="../Page/河戀姝.md" title="wikilink">河戀姝</a>，<a href="../Page/張東民.md" title="wikilink">張東民</a>，<br />
 <a href="../Page/申雅英.md" title="wikilink">申雅英</a>，<br />
 ，，<a href="https://zh.wikipedia.org/wiki/崔連勝" title="wikilink">崔連勝</a></p></td>
 <td></td>
@@ -1730,7 +1730,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>7</p></td>
 <td><p>2014年11月12日</p></td>
 <td><p>星座遊戲</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/河戀姝" title="wikilink">河戀姝</a></p></td>
+<td><p><a href="../Page/河戀姝.md" title="wikilink">河戀姝</a></p></td>
 <td><p><a href="../Page/吳炫旻.md" title="wikilink">吳炫旻</a></p></td>
 <td><p></p></td>
 <td><p>12格象棋</p></td>
@@ -1752,7 +1752,7 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>中間競賽</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/崔連勝" title="wikilink">崔連勝</a>， <a href="../Page/張東民.md" title="wikilink">張東民</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金宥賢" title="wikilink">金宥賢</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/河戀姝" title="wikilink">河戀姝</a></p></td>
+<td><p><a href="../Page/河戀姝.md" title="wikilink">河戀姝</a></p></td>
 <td><p>記憶迷宮</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金宥賢" title="wikilink">金宥賢</a></p></td>
 </tr>
@@ -1762,9 +1762,9 @@ Junior](../Page/Super_Junior.md "wikilink") 成員） *' 第十一回合*'：
 <td><p>鐵鏈拍賣</p></td>
 <td><p><a href="../Page/洪榛浩.md" title="wikilink">洪榛浩</a></p></td>
 <td><p><a href="../Page/張東民.md" title="wikilink">張東民</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/河戀姝" title="wikilink">河戀姝</a></p></td>
+<td><p><a href="../Page/河戀姝.md" title="wikilink">河戀姝</a></p></td>
 <td><p>單軌列車</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/河戀姝" title="wikilink">河戀姝</a></p></td>
+<td><p><a href="../Page/河戀姝.md" title="wikilink">河戀姝</a></p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
@@ -2626,7 +2626,7 @@ Genius方有關人物主張「只是參考，並未抄襲」，\[6\]\[7\]但對�
 Genius做出真正的解釋和道歉\[8\]\[9\]\[10\]
 
 不巧的是，2014年tvN將播放[Liar
-Game的改版劇](https://zh.wikipedia.org/wiki/詐欺遊戲_\(韓國電視劇\) "wikilink")，也就是說，tvN演了一場同時播放抄襲作品和改版作品的絕妙的戲。\[11\]另外，Liar
+Game的改版劇](../Page/詐欺遊戲_\(韓國電視劇\).md "wikilink")，也就是說，tvN演了一場同時播放抄襲作品和改版作品的絕妙的戲。\[11\]另外，Liar
 Game的版權自2011年以來由其製作方Apollo Pictures單獨持有，\[12\]\[13\]tvN和The
 Genius的製作公司至2015年現在為止並未獲得任何與Liar Game有關的版權或許可\[14\]\[15\]
 

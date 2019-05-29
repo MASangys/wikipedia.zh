@@ -123,8 +123,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台於](..
 
 #### 主角相关人物
 
-  - **三枝佳乃子** -
-    （香港配音：[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")）
+  - **三枝佳乃子** - （香港配音：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")）
 
 <!-- end list -->
 

@@ -93,7 +93,7 @@ MPX採用兩根並聯的[複進簧](https://zh.wikipedia.org/wiki/複進簧 "wik
 
 ### 瞄準具
 
-標準MPX衝鋒槍的武器頂部整合了一條整體式[MIL-STD-1913戰術導軌系統](../Page/皮卡汀尼導軌.md "wikilink")，而後部和前部就裝上了附接至戰術導軌的彈起摺疊式[照門和](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](https://zh.wikipedia.org/wiki/準星 "wikilink")。額外的瞄準具選擇是同樣藉由戰術導軌安裝的SIG反射式瞄準鏡，或是其他日間／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。頂部戰術導軌長度可以使用串連式安裝光學瞄準具，前後串連式安裝配置模式可以擴大瞄準具附件的加裝應用模式；而前護木兩側及底部三條則以便安裝對應導軌的[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")（LAM，例如[AN/PEQ-16A](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")）和／或[前握把](../Page/輔助握把.md "wikilink")。
+標準MPX衝鋒槍的武器頂部整合了一條整體式[MIL-STD-1913戰術導軌系統](../Page/皮卡汀尼導軌.md "wikilink")，而後部和前部就裝上了附接至戰術導軌的彈起摺疊式[照門和](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](https://zh.wikipedia.org/wiki/準星 "wikilink")。額外的瞄準具選擇是同樣藉由戰術導軌安裝的SIG反射式瞄準鏡，或是其他日間／夜間[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡和](../Page/夜視鏡.md "wikilink")／或[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。頂部戰術導軌長度可以使用串連式安裝光學瞄準具，前後串連式安裝配置模式可以擴大瞄準具附件的加裝應用模式；而前護木兩側及底部三條則以便安裝對應導軌的[戰術燈](../Page/戰術燈.md "wikilink")、[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")（LAM，例如[AN/PEQ-16A](https://zh.wikipedia.org/wiki/AN/PEQ-16A戰術燈及雷射模組 "wikilink")）和／或[前握把](../Page/輔助握把.md "wikilink")。
 
 ## 衍生型
 

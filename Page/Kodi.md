@@ -8,7 +8,7 @@ Kodi
 的可定制性很高，有许多[皮肤可以更改软件外观及各种可以访问网络内容的](https://zh.wikipedia.org/wiki/皮肤\(电脑\) "wikilink")[插件](../Page/插件.md "wikilink")，包括[Spotify](../Page/Spotify.md "wikilink")、[鲨客](../Page/鲨客.md "wikilink")、[Pandora电台和Youtube](../Page/Pandora电台.md "wikilink")。\[11\]\[12\]
 从版本12.0（代号“Frodo”）开始，XBMC附带录制直播节目的[数位视频录像机图形界面前端](https://zh.wikipedia.org/wiki/数位视频录像机 "wikilink")，同时支持[电子节目指南和高清视频录制](https://zh.wikipedia.org/wiki/电子节目指南 "wikilink")。\[13\]
 
-该软件最初是为计划运行在[Xbox上的](https://zh.wikipedia.org/wiki/Xbox "wikilink")，名称也由此而来，\[14\]\[15\]\[16\]
+该软件最初是为计划运行在[Xbox上的](../Page/Xbox.md "wikilink")，名称也由此而来，\[14\]\[15\]\[16\]
 随后有了[Android](../Page/Android.md "wikilink")、
 [Linux](../Page/Linux.md "wikilink")、 [BSD](../Page/BSD.md "wikilink")、
 [Mac OS

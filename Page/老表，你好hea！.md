@@ -380,7 +380,7 @@ SRK（Soft Rice King）高材生，後為 HRR（Hard Rice Reborn）監督和訓�
 黎彼得、烏笄之好友</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/路芙" title="wikilink">路　芙</a></p></td>
+<td><p><a href="../Page/路芙.md" title="wikilink">路　芙</a></p></td>
 <td><p><strong>黎彼得</strong></p></td>
 <td><p><strong>Peter仔</strong><br />
 爽到無朋友保健中心中醫師／超市保安<br />
@@ -469,7 +469,7 @@ SRK（Soft Rice King）高材生，後為 HRR（Hard Rice Reborn）監督和訓�
 <td><p>鼎爺手下</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td><p>阿　財</p></td>
 <td><p>鼎爺手下</p></td>
 </tr>
@@ -617,7 +617,7 @@ SRK（Soft Rice King）高材生，後為 HRR（Hard Rice Reborn）監督和訓�
 參見<a href="https://zh.wikipedia.org/wiki/#福建炒飯同鄉會" title="wikilink"><strong>福建炒飯同鄉會</strong></a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃建東" title="wikilink">黃建東</a></p></td>
+<td><p><a href="../Page/黃建東.md" title="wikilink">黃建東</a></p></td>
 <td><p>容材</p></td>
 <td><p>「聯群傑黨」黨員<br />
 妒忌林在野</p></td>
@@ -725,7 +725,7 @@ SRK（Soft Rice King）高材生，後為 HRR（Hard Rice Reborn）監督和訓�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李晉強" title="wikilink">李晉強</a></p></td>
+<td><p><a href="../Page/李晉強.md" title="wikilink">李晉強</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1278,7 +1278,7 @@ Eric Kwok之妻</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>郭晉安、<a href="https://zh.wikipedia.org/wiki/路芙" title="wikilink">路　芙</a>、<a href="../Page/吳沚默.md" title="wikilink">吳沚默</a><br />
+<td><p>郭晉安、<a href="../Page/路芙.md" title="wikilink">路　芙</a>、<a href="../Page/吳沚默.md" title="wikilink">吳沚默</a><br />
 <a href="../Page/李家聲.md" title="wikilink">李家聲</a>、<a href="../Page/潘冠霖.md" title="wikilink">潘冠霖</a>、黑　妹</p></td>
 <td><p>王菀之、<a href="../Page/王祖藍.md" title="wikilink">王祖藍</a></p></td>
 <td><p>大家</p></td>

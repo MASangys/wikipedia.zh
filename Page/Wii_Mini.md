@@ -4,7 +4,7 @@ mini**）是[任天堂推出的电视游戏机](../Page/任天堂.md "wikilink")
 ## 特点
 
 Wii
-mini的外壳是黑色的哑光塑料，四周以同一材质的红色塑料包围，所有接口都在后方，左右及前方没有任何接缝。它的[光驱门是掀开式的](https://zh.wikipedia.org/wiki/光驱 "wikilink")，跟[PlayStation一样](https://zh.wikipedia.org/wiki/PlayStation "wikilink")，而不是Wii的吸入式光驱，上方刻有Wii与任天堂的标志。电源和光驱开关键同样也在上方。机身重量也大幅降低。附赠一副跟主机搭配的大红色手柄。
+mini的外壳是黑色的哑光塑料，四周以同一材质的红色塑料包围，所有接口都在后方，左右及前方没有任何接缝。它的[光驱门是掀开式的](https://zh.wikipedia.org/wiki/光驱 "wikilink")，跟[PlayStation一样](../Page/PlayStation.md "wikilink")，而不是Wii的吸入式光驱，上方刻有Wii与任天堂的标志。电源和光驱开关键同样也在上方。机身重量也大幅降低。附赠一副跟主机搭配的大红色手柄。
 
 同时游戏机本体并未附带任何游戏，玩家必须另外购买。任天堂为此推出了2款新的“任天堂之选”系列游戏（，原“Player's
 Choice系列”；任天堂第一方游戏的廉价版）：《[Wii Sports

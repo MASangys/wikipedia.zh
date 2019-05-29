@@ -19,7 +19,7 @@ Boy家系游戏，[Wii](../Page/Wii.md "wikilink") Virtual
 Console则仅能玩Game Boy Advance游戏。
 
 任天堂为将任天堂DS推销给更广泛的用户，在2005年停产了Game
-Boy品牌。有认为[任天堂DS家族或](https://zh.wikipedia.org/wiki/任天堂DS家族 "wikilink")[任天堂3DS家族是Game](../Page/任天堂3DS家族.md "wikilink")
+Boy品牌。有认为[任天堂DS家族或](../Page/任天堂DS家族.md "wikilink")[任天堂3DS家族是Game](../Page/任天堂3DS家族.md "wikilink")
 Boy家系的一部分。
 
 ## 脚注

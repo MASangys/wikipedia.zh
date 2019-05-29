@@ -547,7 +547,7 @@ band)展開競賽\[8\]，節目最終由舞團隊勝出，以[SF9之名在](http
 
 <!-- end list -->
 
-  - [高恩妃](https://zh.wikipedia.org/wiki/高恩妃 "wikilink")<sup>歿</sup>（[Ladies'
+  - [高恩妃](../Page/高恩妃.md "wikilink")<sup>歿</sup>（[Ladies'
     Code](../Page/Ladies'_Code.md "wikilink")）
 
   - 多順（[TAHITI](https://zh.wikipedia.org/wiki/TAHITI "wikilink")）
@@ -569,7 +569,7 @@ band)展開競賽\[8\]，節目最終由舞團隊勝出，以[SF9之名在](http
 
   - [吳熙俊](https://zh.wikipedia.org/wiki/KNK "wikilink")（[KNK](https://zh.wikipedia.org/wiki/KNK "wikilink")）
 
-  - [李東賢](https://zh.wikipedia.org/wiki/L.A.U "wikilink")（[L.A.U](https://zh.wikipedia.org/wiki/L.A.U "wikilink")）
+  - [李東賢](../Page/L.A.U.md "wikilink")（[L.A.U](../Page/L.A.U.md "wikilink")）
 
   - [全志佑](https://zh.wikipedia.org/wiki/全志佑 "wikilink")（[KARD](../Page/KARD.md "wikilink")）
 

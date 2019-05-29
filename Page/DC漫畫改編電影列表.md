@@ -312,7 +312,7 @@
 </tr>
 <tr class="even">
 <td><p>2002</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/非法正義" title="wikilink">非法正義</a></strong></p></td>
+<td><p><strong><a href="../Page/非法正義.md" title="wikilink">非法正義</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/夢工廠" title="wikilink">夢工廠</a></p></td>
 <td><p>改編自於《<a href="https://zh.wikipedia.org/wiki/Road_to_Perdition" title="wikilink">Road to Perdition</a>》的。</p></td>
 </tr>
@@ -1007,7 +1007,7 @@
 
 ## 參見
 
-  - [DC漫畫改編電視劇列表](https://zh.wikipedia.org/wiki/DC漫畫改編電視劇列表 "wikilink")
+  - [DC漫畫改編電視劇列表](../Page/DC漫畫改編電視劇列表.md "wikilink")
   - [超人系列電影](https://zh.wikipedia.org/wiki/超人系列電影 "wikilink")
   - [蝙蝠俠系列電影](https://zh.wikipedia.org/wiki/蝙蝠俠系列電影 "wikilink")
   - [漫威漫畫改编電影列表](https://zh.wikipedia.org/wiki/漫威漫畫改编電影列表 "wikilink")

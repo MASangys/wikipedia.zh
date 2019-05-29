@@ -109,8 +109,7 @@ HEART**的名义通过[DMB的方式播出](../Page/DMB.md "wikilink")。
 
 劇集
 
-  - [KBS
-    2TV日日連續劇](https://zh.wikipedia.org/wiki/KBS_2TV日日連續劇 "wikilink")
+  - [KBS 2TV日日連續劇](../Page/KBS_2TV日日連續劇.md "wikilink")
   - [KBS月火連續劇](../Page/KBS月火連續劇.md "wikilink")
   - [KBS水木連續劇](../Page/KBS水木連續劇.md "wikilink")
   - [KBS週末連續劇](../Page/KBS週末連續劇.md "wikilink")

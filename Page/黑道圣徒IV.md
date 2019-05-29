@@ -1,5 +1,5 @@
 是一款设定于开放世界的[动作冒险游戏](https://zh.wikipedia.org/wiki/动作冒险游戏 "wikilink")，由[Volition开发](../Page/Volition_\(公司\).md "wikilink")，[Deep
-Silver发行](https://zh.wikipedia.org/wiki/Deep_Silver "wikilink")，是[黑道圣徒系列的第四作](https://zh.wikipedia.org/wiki/黑街圣徒系列 "wikilink")，《[黑道圣徒3](https://zh.wikipedia.org/wiki/黑道圣徒3 "wikilink")》的续作。圣徒帮成为了世界上具有权利和流行度的组织，它的领导者成为[美国总统](../Page/美国总统.md "wikilink")，必须抵御[外星生命入侵](../Page/外星生命入侵.md "wikilink")，还获得[超能力](../Page/超能力.md "wikilink")。玩家完成主线和支线[关卡](https://zh.wikipedia.org/wiki/关卡_\(电子游戏\) "wikilink")，闲暇时可自由探索环境。游戏融入了科幻游戏和电影元素，继续了系列出色的[恶搞特色](https://zh.wikipedia.org/wiki/戏仿 "wikilink")。游戏于2013年8月登陆[Microsoft
+Silver发行](../Page/Deep_Silver.md "wikilink")，是[黑道圣徒系列的第四作](https://zh.wikipedia.org/wiki/黑街圣徒系列 "wikilink")，《[黑道圣徒3](https://zh.wikipedia.org/wiki/黑道圣徒3 "wikilink")》的续作。圣徒帮成为了世界上具有权利和流行度的组织，它的领导者成为[美国总统](../Page/美国总统.md "wikilink")，必须抵御[外星生命入侵](../Page/外星生命入侵.md "wikilink")，还获得[超能力](../Page/超能力.md "wikilink")。玩家完成主线和支线[关卡](https://zh.wikipedia.org/wiki/关卡_\(电子游戏\) "wikilink")，闲暇时可自由探索环境。游戏融入了科幻游戏和电影元素，继续了系列出色的[恶搞特色](https://zh.wikipedia.org/wiki/戏仿 "wikilink")。游戏于2013年8月登陆[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation
 3和](../Page/PlayStation_3.md "wikilink")[Xbox
 360平台](../Page/Xbox_360.md "wikilink")，随后于2015年[移植到](https://zh.wikipedia.org/wiki/移植_\(软体\) "wikilink")[PlayStation
@@ -16,7 +16,7 @@ One和](../Page/Xbox_One.md "wikilink")[Linux平台](../Page/Linux.md "wikilink"
 
 游戏设置在模拟的《[黑道圣徒3](https://zh.wikipedia.org/wiki/黑道圣徒3 "wikilink")》虚构城市钢埠（）中\[11\]，和原貌几乎一模一样\[12\]，除了剧情任务是新的，关卡是专门设计的\[13\]。游戏剧情恶搞了多部游戏，特别是《[质量效应2](../Page/质量效应2.md "wikilink")》以及《[黑客帝国](../Page/黑客帝国.md "wikilink")》和《[猎杀本拉登](https://zh.wikipedia.org/wiki/猎杀本拉登 "wikilink")》等电影，还有“宅文化”\[14\]。有些剧情[关卡由角色们各自事关生存的危机推动](https://zh.wikipedia.org/wiki/关卡_\(电子游戏\) "wikilink")\[15\]，每位圣徒都被困于他们各自的模拟地狱中，必须要由玩家拯救\[16\]。其他从游戏文化中借鉴的要素包括[BioWare式的角色恋爱游戏和](../Page/BioWare.md "wikilink")《[合金装备系列](https://zh.wikipedia.org/wiki/合金装备系列 "wikilink")》的“猪队友”风格任务\[17\]。
 
-玩家完成城市被占各区的支线任务后，各区将从外星人的占领中“解放”\[18\]。解放各区会增加玩家购买武器、技能和装扮的每小时收入。支线任务包括保险诈骗\[19\]、风格的骚乱和超能力赛跑。游戏还设有双人[合作游戏模式](https://zh.wikipedia.org/wiki/合作游戏模式 "wikilink")\[20\]。
+玩家完成城市被占各区的支线任务后，各区将从外星人的占领中“解放”\[18\]。解放各区会增加玩家购买武器、技能和装扮的每小时收入。支线任务包括保险诈骗\[19\]、风格的骚乱和超能力赛跑。游戏还设有双人[合作游戏模式](../Page/合作游戏模式.md "wikilink")\[20\]。
 
 ## 劇情
 
@@ -42,7 +42,7 @@ One和](../Page/Xbox_One.md "wikilink")[Linux平台](../Page/Linux.md "wikilink"
 
 《黑道圣徒3》[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")《》作为2012年[愚人节笑话首次公布](../Page/愚人节.md "wikilink")\[21\]，但实际上已进入开发过程。基本路线是超能力玩家角色被外星人指挥官辛亚克困在虚拟的钢埠中\[22\]。[THQ总裁杰森](https://zh.wikipedia.org/wiki/THQ "wikilink")·罗宾（）鼓励公司的子公司和游戏系列开发商[Volition将DLC的内容独立成一部完完全全的游戏](../Page/Volition_\(公司\).md "wikilink")\[23\]。公司于2012年6月宣布方向上的改变\[24\]，将《进入施虐女王世界》推迟为正统续作《黑道圣徒4》的[追加下载内容](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")\[25\]。公司的策略一定程度上避免了游戏2013年8月发行时出现销售问题，赶在[下一代游戏机的传言流传之前](https://zh.wikipedia.org/wiki/第八世代游戏机历史 "wikilink")\[26\]。2013年初，THQ申请破产，子公司Volition卖给了，成为Koch内部首个游戏工作室。两个月后，工作室正式宣布《黑道圣徒4》，游戏由Koch
 Media品牌[Deep
-Silver发布](https://zh.wikipedia.org/wiki/Deep_Silver "wikilink")。没能获得《[红色派系](https://zh.wikipedia.org/wiki/红色派系 "wikilink")》系列的版权，Volition的新目标是制造有联系的开放世界游戏，身处其中“玩家便是混乱的代理人”。整个公司都在创作一部游戏\[27\]。
+Silver发布](../Page/Deep_Silver.md "wikilink")。没能获得《[红色派系](https://zh.wikipedia.org/wiki/红色派系 "wikilink")》系列的版权，Volition的新目标是制造有联系的开放世界游戏，身处其中“玩家便是混乱的代理人”。整个公司都在创作一部游戏\[27\]。
 
 系列每部作品都有一个核心目的，尽管前三部作品都建立在首部的“稀奇古怪和无礼”之上，第四部则着重“[超自然现象和超能力](../Page/超自然现象.md "wikilink")”\[28\]。高级制作人吉姆·伯恩（）回想起评论家们问过公司是否比被他们视为挑战的《黑道圣徒3》“更顶尖”\[29\]。团队聚集于游戏的“有趣性”，胜过“成为顶尖者的目的”，认为超能力有助于游戏的基础导航和对战\[30\]。他们选择删掉前作中阻碍叙事的基于内置手机的导航系统，将其改为“任务日志结构”\[31\]。考虑到下一代平台的发布迫在眉睫，团队选择不把大量时间投入到改善游戏画面中，因此本作的开发时间比系列之前的作品要短\[32\]。
 

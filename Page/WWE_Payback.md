@@ -1,4 +1,4 @@
-**絕命復仇**（）\[1\]，是[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）的[世界摔角娛樂付費收看節目](https://zh.wikipedia.org/wiki/世界摔角娛樂付費收看節目 "wikilink")（WWE
+**絕命復仇**（）\[1\]，是[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）的[世界摔角娛樂付費收看節目](../Page/世界摔角娛樂付費收看節目.md "wikilink")（WWE
 Pay-Per-View）之一，於6月時舉行。 WWE Payback首次亮相於2013年6月16日。
 
 ## 概述

@@ -147,7 +147,7 @@ Great Doctor</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>31/12-<br />
 27/01<br />
-<a href="https://zh.wikipedia.org/wiki/TVB_Window電視劇集列表_(2014年)" title="wikilink">續14年</a></p></td>
+<a href="../Page/TVB_Window電視劇集列表_(2014年).md" title="wikilink">續14年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/IRIS_2.md" title="wikilink">IRIS 2</a><br />
 Iris 2</p></td>
 <td style="text-align: center;"><p>20</p></td>
@@ -293,7 +293,7 @@ The Rippling Blossom</p></td>
 <tr class="even">
 <td style="text-align: center;"><p>17/12-<br />
 13/01<br />
-<a href="https://zh.wikipedia.org/wiki/TVB_Window電視劇集列表_(2014年)" title="wikilink">續14年</a></p></td>
+<a href="../Page/TVB_Window電視劇集列表_(2014年).md" title="wikilink">續14年</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/香江花月夜_(電視劇)" title="wikilink">香江花月夜</a><br />
 Summer Kisses, Winter Tears</p></td>
 <td style="text-align: center;"><p>20</p></td>
@@ -540,7 +540,7 @@ The Price Of Growing Up</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>17/12-<br />
 07/01<br />
-<a href="https://zh.wikipedia.org/wiki/TVB_Window電視劇集列表_(2014年)" title="wikilink">續14年</a></p></td>
+<a href="../Page/TVB_Window電視劇集列表_(2014年).md" title="wikilink">續14年</a></p></td>
 <td style="text-align: center;"><p>我們的...吳啟華-<a href="../Page/妙手仁心.md" title="wikilink">妙手仁心</a><br />
 Healing Hands</p></td>
 <td style="text-align: center;"><p>32</p></td>
@@ -617,7 +617,7 @@ Wayward Kenting</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>09/11-<br />
 25/01<br />
-<a href="https://zh.wikipedia.org/wiki/TVB_Window電視劇集列表_(2014年)" title="wikilink">續14年</a></p></td>
+<a href="../Page/TVB_Window電視劇集列表_(2014年).md" title="wikilink">續14年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/我可能不會愛你.md" title="wikilink">我可能不會愛你</a><br />
 In Time With You</p></td>
 <td style="text-align: center;"><p>23</p></td>

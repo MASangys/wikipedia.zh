@@ -69,7 +69,7 @@ FIGHTER**》（日文：）（中文：**無袖戰士**）或譯（**背心戰�
   - 第5 - 6話
 
 :\*粟根 夜須子 / 佐藤（特別懸賞金：4000万円 / 樋村综合病院看護師）☆ - （変身前） /
-[八代美奈畝](https://zh.wikipedia.org/wiki/八代美奈畝 "wikilink")（変身後）
+[八代美奈畝](../Page/八代美奈畝.md "wikilink")（変身後）
 
 :\*上条 明子（ボランティア医師） -
 [瀬戸早妃](https://zh.wikipedia.org/wiki/瀬戸早妃 "wikilink")

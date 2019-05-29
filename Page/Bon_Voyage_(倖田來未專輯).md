@@ -12,7 +12,7 @@ Voyage**》（倖感旅程）為[日本歌手](../Page/日本.md "wikilink")[倖
     Vol.2〜」粉絲限定演唱會的本篇與幕後花絮，該版本僅在粉絲俱樂部限量生產販售。
   - 倖田表示希望新專輯讓人感覺到「倖田來未，變了耶」，讓歌迷能感覺到他持續進化、持續挑戰的樣子\[2\]。
   - 2014年3月12日開始進行**51場HALL**等級「[KODA KUMI LIVE TOUR 2014 ～Bon
-    Voyage～](https://zh.wikipedia.org/wiki/KODA_KUMI_LIVE_TOUR_2014_～Bon_Voyage～ "wikilink")」的巡迴演唱會，3月12日於大阪Festival
+    Voyage～](../Page/KODA_KUMI_LIVE_TOUR_2014_～Bon_Voyage～.md "wikilink")」的巡迴演唱會，3月12日於大阪Festival
     Hall開始，8月16日於台灣[南港101文創會館結束](https://zh.wikipedia.org/wiki/南港101文創會館 "wikilink")\[3\]。
   - 初回限定盤附贈三大特典，全息貼紙、演唱會VIP席購入資格抽獎密碼、演唱會周邊商品購入券。
   - 粉絲俱樂部先行預約購滿指定項目得贈送浴鹽組或旗子。

@@ -35,7 +35,7 @@ S4。\[2\]
 
 ### 2014年
 
-[三星Galaxy J](https://zh.wikipedia.org/wiki/三星Galaxy_J "wikilink")
+[三星Galaxy J](../Page/三星Galaxy_J.md "wikilink")
 
 ### 2015年
 

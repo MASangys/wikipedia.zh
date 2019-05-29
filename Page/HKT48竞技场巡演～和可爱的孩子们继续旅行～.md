@@ -59,7 +59,7 @@
     [以上短劇演員](https://zh.wikipedia.org/wiki/#角色分配 "wikilink")
 18. 《[戀愛的幸運餅乾](../Page/戀愛的幸運餅乾.md "wikilink")》（） - 同上
 19. 《[厚臉皮的嘴唇](https://zh.wikipedia.org/wiki/厚臉皮的嘴唇 "wikilink")》（） -
-    [田中美久](https://zh.wikipedia.org/wiki/田中美久_\(歌手\) "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")
+    [田中美久](https://zh.wikipedia.org/wiki/田中美久_\(歌手\) "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")
     + 短劇演員
 20. AKB48 Group歌曲联唱 - 全员
       -

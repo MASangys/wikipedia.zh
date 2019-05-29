@@ -113,7 +113,7 @@ TOWN發生了一連串有趣的大小事。
 <!-- end list -->
 
   - 詹姆士（James）
-    聲：[風間勇刀](../Page/風間勇刀.md "wikilink")（日）／[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")（台）／[簡懷甄](../Page/簡懷甄.md "wikilink")（港）
+    聲：[風間勇刀](../Page/風間勇刀.md "wikilink")（日）／[鈕凱暘](../Page/鈕凱暘.md "wikilink")（台）／[簡懷甄](../Page/簡懷甄.md "wikilink")（港）
     喜歡的東西是帥氣的自己，討厭的東西是不帥氣的自己。
     個性樂觀正向，自我感覺超級良好。
     自戀狂，神經大條，隨時保持最美狀態。

@@ -35,7 +35,7 @@ Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD發售](https
 | 23 | **[NEXT ARCADIA](../Page/IMPACT_EXCITER.md "wikilink")**                                           | **NEXT ARCADIA**                                                                 |
 | 24 | **MC 5**                                                                                           | **MC 5**                                                                         |
 | 25 | **[ETERNAL BLAZE](../Page/ETERNAL_BLAZE.md "wikilink")**                                           | **[SECRET AMBITION](../Page/SECRET_AMBITION.md "wikilink")**                     |
-| 26 | **[BE READY\!](https://zh.wikipedia.org/wiki/DREAM_SKiPPER "wikilink")**                           | **[PROTECTION](https://zh.wikipedia.org/wiki/MAGIC_ATTRACTION "wikilink")**      |
+| 26 | **[BE READY\!](https://zh.wikipedia.org/wiki/DREAM_SKiPPER "wikilink")**                           | **[PROTECTION](../Page/MAGIC_ATTRACTION.md "wikilink")**                         |
 | 27 | **BAND BATTLE「CHERIBO MUSIC FIGHT」**                                                               | **BAND BATTLE「CHERIBO MUSIC FIGHT」**                                             |
 | 28 | **[ミュステリオン](../Page/IMPACT_EXCITER.md "wikilink")**                                                | **ミュステリオン**                                                                      |
 | 29 | **[悦楽カメリア](../Page/ULTIMATE_DIAMOND.md "wikilink")**                                               | **[Pray](../Page/MASSIVE_WONDERS.md "wikilink")**                                |
@@ -65,7 +65,7 @@ Disc](https://zh.wikipedia.org/wiki/Blu-ray_Disc "wikilink")、[DVD發售](https
 | 04 | **DISCOTHEQUE**                                                                   | **DISCOTHEQUE**                                                         |
 | 05 | **MC 1**                                                                          | **MC 1**                                                                |
 | 06 | **[Mr. Bunny\!](../Page/ULTIMATE_DIAMOND.md "wikilink")**                         | **Mr. Bunny\!**                                                         |
-| 07 | **[アオイイロ](https://zh.wikipedia.org/wiki/Justice_to_Believe/アオイイロ "wikilink")**    | **[ジュリエット](https://zh.wikipedia.org/wiki/MAGIC_ATTRACTION "wikilink")** |
+| 07 | **[アオイイロ](https://zh.wikipedia.org/wiki/Justice_to_Believe/アオイイロ "wikilink")**    | **[ジュリエット](../Page/MAGIC_ATTRACTION.md "wikilink")**                    |
 | 08 | **[COSMIC LOVE](../Page/STARCAMP_EP.md "wikilink")**                              | **COSMIC LOVE**                                                         |
 | 09 | **CHERRY BOYS SHOWCASE**                                                          | **CHERRY BOYS SHOWCASE**                                                |
 | 10 | **UNCHAIN∞WORLD**                                                                 | **UNCHAIN∞WORLD**                                                       |

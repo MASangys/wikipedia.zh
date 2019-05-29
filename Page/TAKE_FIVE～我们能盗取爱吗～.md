@@ -368,7 +368,7 @@ Belle Ferroniere，现存于[卢浮宫](../Page/卢浮宫.md "wikilink")）\]\]
 
 #### 第7集
 
-  - 堂城一馬 - [松村北斗](https://zh.wikipedia.org/wiki/松村北斗 "wikilink")
+  - 堂城一馬 - [松村北斗](../Page/松村北斗.md "wikilink")
 
 <!-- end list -->
 

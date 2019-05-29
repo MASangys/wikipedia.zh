@@ -5,7 +5,7 @@ Nexus做為開發設備](../Page/Google_Nexus.md "wikilink")，于2014年11月12
 Play版设备上，其正式版源代码在2014年11月3日公布。
 
 在Lollipop中最大的改變於一個被稱為“Material
-Design”重新設計過的使用者介面反應迅速灵敏的設計語言，和改進過的通知系統，使之能夠從鎖定屏幕中使用，並允許了其他應用程式透過橫幅提示顯示在屏幕的頂端中。內部設計也有了改變，為改善應用程式性能以[ART模式正式取代了](https://zh.wikipedia.org/wiki/Android_Runtime "wikilink")[-{zh-cn:Dalvik虚拟机;zh-tw:Dalvik模式;}-](../Page/Dalvik虚拟机.md "wikilink")，並改善和優化了電池的使用。
+Design”重新設計過的使用者介面反應迅速灵敏的設計語言，和改進過的通知系統，使之能夠從鎖定屏幕中使用，並允許了其他應用程式透過橫幅提示顯示在屏幕的頂端中。內部設計也有了改變，為改善應用程式性能以[ART模式正式取代了](../Page/Android_Runtime.md "wikilink")[-{zh-cn:Dalvik虚拟机;zh-tw:Dalvik模式;}-](../Page/Dalvik虚拟机.md "wikilink")，並改善和優化了電池的使用。
 
 ## 開發
 
@@ -29,7 +29,7 @@ Android Lollipop引入了全新的通知系統。所有的通知現在都放在�
 Design，和這些應用程式可以批次產生通知。在鎖屏中，通知顯示在一個框框裡，並且通知也可以顯示在屏幕的頂端大型橫幅裡，隨著他們各自的操作按鈕。\[7\]在這個通知系統中也加入了勿擾模式。最近運行程式選單也進行了重新設計，使用立體堆疊的卡片代表打開的應用程式。單個應用程式也可以顯示在最近運行程式選單裡的多張卡片，而不是每個應用程式只有一個卡片；例如瀏覽器可以顯示所有其開啟的分頁作為個別卡片。\[8\]\[9\]
 
 Android
-Lollipop也包含了重要的新平台開發功能；5,000多個新的[API將被應用程式加入並使用](https://zh.wikipedia.org/wiki/API "wikilink")，並且[Dalvik也正式由](../Page/Dalvik虚拟机.md "wikilink")[ART](https://zh.wikipedia.org/wiki/Android_Runtime "wikilink")（KitKat加入的一個做為技術預覽的新環境）取代。\[10\]
+Lollipop也包含了重要的新平台開發功能；5,000多個新的[API將被應用程式加入並使用](https://zh.wikipedia.org/wiki/API "wikilink")，並且[Dalvik也正式由](../Page/Dalvik虚拟机.md "wikilink")[ART](../Page/Android_Runtime.md "wikilink")（KitKat加入的一個做為技術預覽的新環境）取代。\[10\]
 ART是一個支援[x86](https://zh.wikipedia.org/wiki/x86 "wikilink")、[ARM和](https://zh.wikipedia.org/wiki/ARM_architecture "wikilink")[MIPS架構的](https://zh.wikipedia.org/wiki/MIPS_instruction_set "wikilink")32位元與64位元跨平台的運行模式。不同於Dalvik，他採用了提前編譯[Ahead-of-Time
 compilation](https://zh.wikipedia.org/wiki/Ahead-of-Time_compilation "wikilink")（AOT），ART在應用程式安裝時就會編譯應用程式，然後他們將只運行已編譯過的應用程式。這種技術消除了在JIT過程中處理相關的開銷，從而改善系統性能。\[11\]
 

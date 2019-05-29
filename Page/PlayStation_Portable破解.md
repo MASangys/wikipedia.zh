@@ -23,7 +23,7 @@ Alex的开放版固件（Dark Alex's Open Edition firmware）”或“自定义�
 Firmware，CFW）”的自制固件，在提供运行自制程序的环境下仍然允许用户使用当前官方版本的现有功能。对此索尼再次快速修补固件，持续与黑客和用户们进行的“”\[9\]。2006年索尼发布了六次系统固件更新，而2007年他们也发布了六次更新\[10\]。2007年7月Dark_AleX正式停止了他在PSP上的工作，而索尼则是他离开的原因之一\[11\]。有些人甚至认为，索尼向Dark_AleX提供资金，使其不再发布更多的自制固件，但索尼否认了这一说法\[12\]。
 
 自制固件允许未签名代码比如自制程序、[UMD光盘备份文件](https://zh.wikipedia.org/wiki/UMD "wikilink")、其他平台的模拟器软件以及[PS
-One游戏光盘镜像转制成的PSP格式文件](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。\[13\]
+One游戏光盘镜像转制成的PSP格式文件](../Page/PlayStation.md "wikilink")。\[13\]
 
 ### Half Byte Loader
 

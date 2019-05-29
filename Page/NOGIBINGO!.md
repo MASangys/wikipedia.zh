@@ -134,7 +134,7 @@
 
 ## NOGIBINGO\!3
 
-《NOGIBINGO\!3》乃自2014年10月7日起至12月23日止，每週二凌晨1點29分至1點58分於日本電視台播出的綜藝節目。不同於第一、二季節目，第三季開始幾乎全部33位正規成員皆出場亮相。此外，2014年2月24日[AKB48集團大組閣祭宣佈兼任的](https://zh.wikipedia.org/wiki/AKB48集團大組閣祭 "wikilink")[松井玲奈](../Page/松井玲奈.md "wikilink")，也於本季節目第二集出場\[3\]。
+《NOGIBINGO\!3》乃自2014年10月7日起至12月23日止，每週二凌晨1點29分至1點58分於日本電視台播出的綜藝節目。不同於第一、二季節目，第三季開始幾乎全部33位正規成員皆出場亮相。此外，2014年2月24日[AKB48集團大組閣祭宣佈兼任的](../Page/AKB48集團大組閣祭.md "wikilink")[松井玲奈](../Page/松井玲奈.md "wikilink")，也於本季節目第二集出場\[3\]。
 
 ### 演出人員
 
@@ -157,7 +157,7 @@
 
       - [大堀惠](../Page/大堀惠.md "wikilink")（[AKB48](../Page/AKB48.md "wikilink")、[SDN48前成員](../Page/SDN48.md "wikilink")）：第9集中擔任審查員。
 
-      - [野澤亙伸](https://zh.wikipedia.org/wiki/野澤亙伸 "wikilink")（[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")）：第11集中擔任審查員。
+      - [野澤亙伸](../Page/野澤亙伸.md "wikilink")（[攝影師](https://zh.wikipedia.org/wiki/攝影師 "wikilink")）：第11集中擔任審查員。
 
       - [真島浩](../Page/真島浩.md "wikilink")（[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")）：第12集中贈送親筆簽名給2期生佐佐木琴子而客串演出。
 
@@ -442,8 +442,7 @@ ROOM的完整版。
   - 其他
       - （日本電視台主播）- 第一集「第二回助理主持評選賽」最終考查擔任實況。
 
-      - 村本大輔（[Woman Rush
-        Hour](https://zh.wikipedia.org/wiki/Woman_Rush_Hour "wikilink")）-
+      - 村本大輔（[Woman Rush Hour](../Page/Woman_Rush_Hour.md "wikilink")）-
         第二集「乃木坂46 心動簡訊錦標賽」第2回戰「照片回復對決」擔任審查員。
 
       - [柿原徹也](../Page/柿原徹也.md "wikilink")（[聲優](../Page/聲優.md "wikilink")）-

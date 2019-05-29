@@ -19,13 +19,13 @@
 2013年12月，Suho與[鄭恩地](../Page/鄭恩地.md "wikilink")（[Apink](../Page/Apink.md "wikilink")）和[申東燁一起為動畫片](../Page/申東燁.md "wikilink")《Saving
 Santa》配音，Suho為主角Bernard配音。此外，Suho亦與鄭恩地一同為《Saving Santa》演唱OST。\[2\]
 
-2014年2月16日，Suho與[伯賢](https://zh.wikipedia.org/wiki/伯賢 "wikilink")、[光熙](../Page/光熙.md "wikilink")、李侑菲成為[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](../Page/人气歌谣.md "wikilink")》的固定主持。同年12月14日，Suho和伯賢因要投入預備EXO明年初的回歸所以從節目下車。\[3\]
+2014年2月16日，Suho與[伯賢](../Page/伯賢.md "wikilink")、[光熙](../Page/光熙.md "wikilink")、李侑菲成為[SBS](../Page/SBS_\(韓國\).md "wikilink")《[人氣歌謠](../Page/人气歌谣.md "wikilink")》的固定主持。同年12月14日，Suho和伯賢因要投入預備EXO明年初的回歸所以從節目下車。\[3\]
 
 ### 2015年-現今：戲劇發展、音樂劇演出、《Curtain》、《Dinner》
 
 2015年1月，Suho參與SM娛樂製作的立體音樂劇《School
-OZ》，並飾演Hans。該音樂劇由EXO成員[Xiumin](https://zh.wikipedia.org/wiki/Xiumin "wikilink")，東方神起的[昌珉](../Page/沈昌珉.md "wikilink")，SHINee成員的[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")，f(x)成員[Luna](../Page/朴善英.md "wikilink")，以及Red
-Velvet成員[Seulgi擔綱演出](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")。\[4\]
+OZ》，並飾演Hans。該音樂劇由EXO成員[Xiumin](../Page/Xiumin.md "wikilink")，東方神起的[昌珉](../Page/沈昌珉.md "wikilink")，SHINee成員的[Key](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")，f(x)成員[Luna](../Page/朴善英.md "wikilink")，以及Red
+Velvet成員[Seulgi擔綱演出](../Page/瑟琪.md "wikilink")。\[4\]
 
 2016年3月，Suho首部電影《[衝出不歸路](../Page/衝出不歸路.md "wikilink")》上映，Suho飾演放棄升學入伍的尚成宇\[5\]。7月，Suho與Super
 Junior的[利特和女歌手Kassy為](../Page/利特.md "wikilink")8月出戰巴西里約熱內盧奧運會的國家代表選手打氣，在SM
@@ -169,13 +169,13 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 <td><p>2013年10月6日</p></td>
 <td></td>
 <td><p>江南韓流音樂節</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/伯賢" title="wikilink">Baekhyun</a> (<a href="../Page/SHINee.md" title="wikilink">SHINee</a> Comeback MC)</p></td>
+<td><p>與<a href="../Page/伯賢.md" title="wikilink">Baekhyun</a> (<a href="../Page/SHINee.md" title="wikilink">SHINee</a> Comeback MC)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年11月14日</p></td>
 <td><p>KBS Joy</p></td>
 <td><p><a href="../Page/甜瓜音樂獎.md" title="wikilink">MelOn Music Awards 2013</a></p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/伯賢" title="wikilink">Baekhyun</a>、<a href="https://zh.wikipedia.org/wiki/朴燦烈" title="wikilink">Chanyeol</a>、<a href="https://zh.wikipedia.org/wiki/金鐘仁" title="wikilink">Kai</a>、<a href="../Page/李侑菲.md" title="wikilink">李侑菲</a></p></td>
+<td><p>與<a href="../Page/伯賢.md" title="wikilink">Baekhyun</a>、<a href="https://zh.wikipedia.org/wiki/朴燦烈" title="wikilink">Chanyeol</a>、<a href="https://zh.wikipedia.org/wiki/金鐘仁" title="wikilink">Kai</a>、<a href="../Page/李侑菲.md" title="wikilink">李侑菲</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2013年12月18日</p></td>
@@ -187,10 +187,10 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 <td><p>2014年2月16日-12月14日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS株式會社" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
-<td><p>與<a href="../Page/光熙.md" title="wikilink">光熙</a>、<a href="https://zh.wikipedia.org/wiki/伯賢" title="wikilink">Baekhyun</a>、<a href="../Page/李侑菲.md" title="wikilink">李侑菲</a></p></td>
+<td><p>與<a href="../Page/光熙.md" title="wikilink">光熙</a>、<a href="../Page/伯賢.md" title="wikilink">Baekhyun</a>、<a href="../Page/李侑菲.md" title="wikilink">李侑菲</a></p></td>
 </tr>
 <tr class="even">
-<td><p>與<a href="../Page/光熙.md" title="wikilink">光熙</a>、<a href="https://zh.wikipedia.org/wiki/伯賢" title="wikilink">Baekhyun</a>、<a href="../Page/金裕貞.md" title="wikilink">金裕貞</a></p></td>
+<td><p>與<a href="../Page/光熙.md" title="wikilink">光熙</a>、<a href="../Page/伯賢.md" title="wikilink">Baekhyun</a>、<a href="../Page/金裕貞.md" title="wikilink">金裕貞</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -205,7 +205,7 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 <td><p>2015年4月12日</p></td>
 <td><p>SBS</p></td>
 <td><p><a href="../Page/人气歌谣.md" title="wikilink">人氣歌謠</a></p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/伯賢" title="wikilink">Baekhyun</a>(特別MC)</p></td>
+<td><p>與<a href="../Page/伯賢.md" title="wikilink">Baekhyun</a>(特別MC)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年4月24日</p></td>
@@ -229,12 +229,12 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 <td><p>2015年12月20日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/伯賢" title="wikilink">Baekhyun</a>、<a href="../Page/王嘉爾.md" title="wikilink">Jackson</a>、<a href="../Page/金裕貞.md" title="wikilink">金裕貞</a>(特別MC)</p></td>
+<td><p>與<a href="../Page/伯賢.md" title="wikilink">Baekhyun</a>、<a href="../Page/王嘉爾.md" title="wikilink">Jackson</a>、<a href="../Page/金裕貞.md" title="wikilink">金裕貞</a>(特別MC)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年12月26日</p></td>
 <td><p><a href="../Page/SBS歌謠大戰.md" title="wikilink">SBS 歌謠大戰</a></p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/伯賢" title="wikilink">Baekhyun</a></p></td>
+<td><p>與<a href="../Page/伯賢.md" title="wikilink">Baekhyun</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -254,10 +254,10 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 
 ### 配音旁白
 
-|           |             |                    |                                                           |
-| --------- | ----------- | ------------------ | --------------------------------------------------------- |
-| 日期        | 電視台         | 節目名稱               | 合作藝人                                                      |
-| 2017年4月3日 | Mountain TV | 《在天空中遇見大韓民國》\[18\] | [Xiumin](https://zh.wikipedia.org/wiki/Xiumin "wikilink") |
+|           |             |                    |                                        |
+| --------- | ----------- | ------------------ | -------------------------------------- |
+| 日期        | 電視台         | 節目名稱               | 合作藝人                                   |
+| 2017年4月3日 | Mountain TV | 《在天空中遇見大韓民國》\[18\] | [Xiumin](../Page/Xiumin.md "wikilink") |
 
 ## 其他作品
 
@@ -309,12 +309,12 @@ Man](../Page/Rich_Man.md "wikilink")》開播。Suho飾演擁有億萬資產的I
 <tr class="even">
 <td><p>2015年8月刊</p></td>
 <td><p>star1</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/伯賢" title="wikilink">Baekhyun</a>、Chen[21]</p></td>
+<td><p>與<a href="../Page/伯賢.md" title="wikilink">Baekhyun</a>、Chen[21]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年12月刊</p></td>
 <td><p>Vogue Korea</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/Sehun" title="wikilink">Sehun</a>、<a href="../Page/Kai.md" title="wikilink">Kai</a>、<a href="../Page/CHEN_(EXO).md" title="wikilink">Chen</a>[22]</p></td>
+<td><p>與<a href="../Page/Sehun.md" title="wikilink">Sehun</a>、<a href="../Page/Kai.md" title="wikilink">Kai</a>、<a href="../Page/CHEN_(EXO).md" title="wikilink">Chen</a>[22]</p></td>
 </tr>
 <tr class="even">
 <td><p>2016年2月刊</p></td>

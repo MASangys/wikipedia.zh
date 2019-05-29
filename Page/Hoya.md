@@ -28,12 +28,12 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》表演出道
 
 1月10日，與[INFINITE成員](../Page/INFINITE.md "wikilink")[東雨組成子團体](https://zh.wikipedia.org/wiki/東雨 "wikilink")[INFINITE
 H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")，發行首張迷你專輯《[Fly
-High](https://zh.wikipedia.org/wiki/Fly_High "wikilink")》展開活動，主打歌為〈Special
+High](../Page/Fly_High.md "wikilink")》展開活動，主打歌為〈Special
 Girl〉。1月18日，成為綜藝節目《不朽的名曲2》的固定嘉賓。10月，客串出演電視劇《[請回答1994](../Page/請回答1994.md "wikilink")》，飾演姜俊熙。
 
 ### 2014年－2016年：電視劇《對我而言可愛的她》、《假面》、電影《Hiya》
 
-2014年9月，出演電視劇《[對我而言可愛的她](https://zh.wikipedia.org/wiki/對我而言可愛的她 "wikilink")》，飾演姜來憲。2015年5月，出演電視劇《[假面](../Page/假面_\(電視劇\).md "wikilink")》，飾演卞智赫。\[4\]
+2014年9月，出演電視劇《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》，飾演姜來憲。2015年5月，出演電視劇《[假面](../Page/假面_\(電視劇\).md "wikilink")》，飾演卞智赫。\[4\]
 2016年，出演電影《Hiya》，飾演主角Lee Jin Ho，電影於2016年3月10日上映。\[5\]
 
 ### 2017年：電視劇《超人家族 2017》、《自體發光辦公室》、《Two Cops》、合約到期，退出INFINITE、签约新公司
@@ -162,17 +162,17 @@ Edition-》在日本出道\[12\]。 2月7日，正式入伍服役。
 
 ### 電視劇
 
-|                                                             |                                                         |                                                                 |      |       |
-| ----------------------------------------------------------- | ------------------------------------------------------- | --------------------------------------------------------------- | ---- | ----- |
-| 年份                                                          | 電視台                                                     | 電視劇名稱                                                           | 角色   | 性質    |
-| 2012                                                        | [tvN](../Page/TVN.md "wikilink")                        | 《[請回答1997](../Page/請回答1997.md "wikilink")》                      | 姜俊熙  | 主要角色  |
-| 2013                                                        | [tvN](../Page/TVN.md "wikilink")                        | 《[請回答1994](../Page/請回答1994.md "wikilink")》                      | 姜俊熙  | 特別出演  |
-| 2014                                                        | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink") | 《[對我而言可愛的她](https://zh.wikipedia.org/wiki/對我而言可愛的她 "wikilink")》 | 姜來憲  |       |
-| 2015                                                        | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink") | 《[假面](../Page/假面_\(電視劇\).md "wikilink")》                        | 卞智赫  |       |
-| 2017                                                        | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink") | 《[超人家族 2017](../Page/超人家族_2017.md "wikilink")》                  | 李貴南  |       |
-| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《[自體發光辦公室](../Page/自體發光辦公室.md "wikilink")》              | 張康昊                                                             | 主要角色 |       |
-| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《[Two Cops](../Page/Two_Cops.md "wikilink")》            | 獨孤誠赫                                                            |      |       |
-| 2018                                                        | [MBN](https://zh.wikipedia.org/wiki/每日廣播 "wikilink")    | 《[馬成的喜悅](../Page/馬成的喜悅.md "wikilink")》                          | 成基俊  | 第二男主角 |
+|                                                             |                                                         |                                                |      |       |
+| ----------------------------------------------------------- | ------------------------------------------------------- | ---------------------------------------------- | ---- | ----- |
+| 年份                                                          | 電視台                                                     | 電視劇名稱                                          | 角色   | 性質    |
+| 2012                                                        | [tvN](../Page/TVN.md "wikilink")                        | 《[請回答1997](../Page/請回答1997.md "wikilink")》     | 姜俊熙  | 主要角色  |
+| 2013                                                        | [tvN](../Page/TVN.md "wikilink")                        | 《[請回答1994](../Page/請回答1994.md "wikilink")》     | 姜俊熙  | 特別出演  |
+| 2014                                                        | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink") | 《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》   | 姜來憲  |       |
+| 2015                                                        | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink") | 《[假面](../Page/假面_\(電視劇\).md "wikilink")》       | 卞智赫  |       |
+| 2017                                                        | [SBS](https://zh.wikipedia.org/wiki/SBS有限公司 "wikilink") | 《[超人家族 2017](../Page/超人家族_2017.md "wikilink")》 | 李貴南  |       |
+| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《[自體發光辦公室](../Page/自體發光辦公室.md "wikilink")》              | 張康昊                                            | 主要角色 |       |
+| [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《[Two Cops](../Page/Two_Cops.md "wikilink")》            | 獨孤誠赫                                           |      |       |
+| 2018                                                        | [MBN](https://zh.wikipedia.org/wiki/每日廣播 "wikilink")    | 《[馬成的喜悅](../Page/馬成的喜悅.md "wikilink")》         | 成基俊  | 第二男主角 |
 
 ### 電影
 
@@ -206,18 +206,18 @@ Edition-》在日本出道\[12\]。 2月7日，正式入伍服役。
 
 ### 音樂錄影帶
 
-|            |                 |                                                                                |                                                                 |
-| ---------- | --------------- | ------------------------------------------------------------------------------ | --------------------------------------------------------------- |
-| 日期         | 歌名              | 歌手                                                                             | 收錄專輯                                                            |
-| 2013年1月11日 | Special Girl    | [INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")              | 《[Fly High](https://zh.wikipedia.org/wiki/Fly_High "wikilink")》 |
-| 2013年1月28日 | Without You     | [INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")              | 《[Fly High](https://zh.wikipedia.org/wiki/Fly_High "wikilink")》 |
-| 2013年7月1日  | BAAAM           | [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink")                               | 《LUCKYNUMBERS》                                                  |
-| 2013年8月8日  | MAMAMA          | [TASTY](https://zh.wikipedia.org/wiki/Hanch兄弟 "wikilink")                      | 《Spectrum》                                                      |
-| 2013年9月6日  | If You Loved Me | ZIA、[李海利](../Page/李海利.md "wikilink")([Davichi](../Page/Davichi.md "wikilink")) | 〈If You Loved Me〉\[13\]                                         |
-| 2014年4月8日  | Ooh Ooh         | [Eric Nam](https://zh.wikipedia.org/wiki/Eric_Nam "wikilink")                  | 〈Ooh Ooh〉                                                       |
-| 2015年1月26日 | Pretty          | [INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")              | 《[Fly Again](../Page/Fly_Again.md "wikilink")》                  |
-| 2015年4月14日 | 要不是你瘋了          | [INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")              | 《[Fly Again](../Page/Fly_Again.md "wikilink")》                  |
-| 2015年10月1日 | Ah-Choo         | [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")                    | 《[Lovelyz8](../Page/Lovelyz8.md "wikilink")》                    |
+|            |                 |                                                                                |                                                |
+| ---------- | --------------- | ------------------------------------------------------------------------------ | ---------------------------------------------- |
+| 日期         | 歌名              | 歌手                                                                             | 收錄專輯                                           |
+| 2013年1月11日 | Special Girl    | [INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")              | 《[Fly High](../Page/Fly_High.md "wikilink")》   |
+| 2013年1月28日 | Without You     | [INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")              | 《[Fly High](../Page/Fly_High.md "wikilink")》   |
+| 2013年7月1日  | BAAAM           | [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink")                               | 《LUCKYNUMBERS》                                 |
+| 2013年8月8日  | MAMAMA          | [TASTY](https://zh.wikipedia.org/wiki/Hanch兄弟 "wikilink")                      | 《Spectrum》                                     |
+| 2013年9月6日  | If You Loved Me | ZIA、[李海利](../Page/李海利.md "wikilink")([Davichi](../Page/Davichi.md "wikilink")) | 〈If You Loved Me〉\[13\]                        |
+| 2014年4月8日  | Ooh Ooh         | [Eric Nam](../Page/Eric_Nam.md "wikilink")                                     | 〈Ooh Ooh〉                                      |
+| 2015年1月26日 | Pretty          | [INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")              | 《[Fly Again](../Page/Fly_Again.md "wikilink")》 |
+| 2015年4月14日 | 要不是你瘋了          | [INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")              | 《[Fly Again](../Page/Fly_Again.md "wikilink")》 |
+| 2015年10月1日 | Ah-Choo         | [Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")                    | 《[Lovelyz8](../Page/Lovelyz8.md "wikilink")》   |
 
 ## 获奖
 

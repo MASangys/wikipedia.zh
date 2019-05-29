@@ -158,7 +158,7 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2014年3月22日－2014年6月29日<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/12年後的重逢：山蒜醬湯" title="wikilink">12年後的重逢：山蒜醬湯</a><br />
+<td style="text-align: center;"><p><a href="../Page/12年後的重逢：山蒜醬湯.md" title="wikilink">12年後的重逢：山蒜醬湯</a><br />
 </p></td>
 <td style="text-align: center;"><p>26</p></td>
 <td style="text-align: center;"><p><a href="../Page/李昭娟.md" title="wikilink">李昭娟</a>、<a href="https://zh.wikipedia.org/wiki/南宮民" title="wikilink">南宮民</a>、<a href="../Page/李泰林.md" title="wikilink">李泰林</a>、<a href="../Page/尹邵熙.md" title="wikilink">尹邵熙</a>、<a href="../Page/李源根.md" title="wikilink">李源根</a>、<a href="../Page/柳孝榮.md" title="wikilink">柳孝榮</a>、<a href="../Page/裴宗玉.md" title="wikilink">裴宗玉</a>、<a href="../Page/朴海美.md" title="wikilink">朴海美</a>、<a href="../Page/千虎珍.md" title="wikilink">千虎珍</a></p></td>
@@ -181,7 +181,7 @@
   - [SBS週末劇場](https://zh.wikipedia.org/wiki/SBS週末劇場 "wikilink")
   - [tvN金土連續劇](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")
   - [MBN周末特別企劃劇](../Page/MBN周末特別企劃劇.md "wikilink")
-  - [TV朝鮮金土連續劇](https://zh.wikipedia.org/wiki/TV朝鮮金土連續劇 "wikilink")
+  - [TV朝鮮金土連續劇](../Page/TV朝鮮金土連續劇.md "wikilink")
 
 [Category:JTBC周末連續劇](https://zh.wikipedia.org/wiki/Category:JTBC周末連續劇 "wikilink")
 [Category:動態列表](https://zh.wikipedia.org/wiki/Category:動態列表 "wikilink")

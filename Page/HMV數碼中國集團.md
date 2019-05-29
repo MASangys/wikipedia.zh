@@ -313,7 +313,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td style="text-align: center;"><p><a href="../Page/一路向西.md" title="wikilink">一路向西</a><br />
 Due West</p></td>
 <td style="text-align: center;"><p><a href="../Page/張建聲.md" title="wikilink">張建聲</a>、<a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<a href="https://zh.wikipedia.org/wiki/胡耀輝" title="wikilink">胡耀輝</a>、<br />
-<a href="../Page/何佩瑜.md" title="wikilink">何佩瑜</a>、<a href="https://zh.wikipedia.org/wiki/李沐晴" title="wikilink">李沐晴</a>、<a href="https://zh.wikipedia.org/wiki/郭穎兒" title="wikilink">郭穎兒</a>、<br />
+<a href="../Page/何佩瑜.md" title="wikilink">何佩瑜</a>、<a href="https://zh.wikipedia.org/wiki/李沐晴" title="wikilink">李沐晴</a>、<a href="../Page/郭穎兒.md" title="wikilink">郭穎兒</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/莫綺雯" title="wikilink">莫綺雯</a>、<a href="../Page/張暖雅.md" title="wikilink">張暖雅</a>、<a href="../Page/王李丹妮.md" title="wikilink">王李丹妮</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/胡耀輝" title="wikilink">胡耀輝</a></p></td>
 <td style="text-align: center;"><p>|<a href="http://www.china3d8078.com/film/detail.html?film_id=20">網頁</a></p></td>
@@ -448,7 +448,7 @@ The Sinking City From the Space Capsule</p></td>
 <a href="https://zh.wikipedia.org/wiki/吳兆麟_(導演)" title="wikilink">吳兆麟</a></p></td>
 <td style="text-align: center;"><p><a href="http://www.china3d8078.com/film/detail.html?film_id=54">網頁</a></p></td>
 <td style="text-align: center;"><p>主：太空艙（<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧</a>）<br />
-插：如果一生只有三十歲（<a href="https://zh.wikipedia.org/wiki/新青年理髮廳" title="wikilink">新青年理髮廳</a>）</p></td>
+插：如果一生只有三十歲（<a href="../Page/新青年理髮廳.md" title="wikilink">新青年理髮廳</a>）</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2017年10月26日</p></td>
@@ -984,7 +984,7 @@ Central</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/張智霖.md" title="wikilink">張智霖</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Crazy_Hours" title="wikilink">Crazy Hours</a></p></td>
+<td><p><a href="../Page/Crazy_Hours.md" title="wikilink">Crazy Hours</a></p></td>
 <td><p>7月3日</p></td>
 <td><p>死去活來</p></td>
 <td><p>天生愛情狂<br />
@@ -1357,7 +1357,7 @@ Central</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/SIS樂印姊妹.md" title="wikilink">SIS樂印姊妹</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Dreamsis" title="wikilink">Dreamsis</a></p></td>
+<td><p><a href="../Page/Dreamsis.md" title="wikilink">Dreamsis</a></p></td>
 <td><p>8月19日</p></td>
 <td><p>有夢就很好了</p></td>
 <td><p>520</p></td>
@@ -1377,7 +1377,7 @@ Central</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/SIS樂印姊妹.md" title="wikilink">SIS樂印姊妹</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Dreamsis" title="wikilink">Dreamsis (夢想成真版)</a></p></td>
+<td><p><a href="../Page/Dreamsis.md" title="wikilink">Dreamsis (夢想成真版)</a></p></td>
 <td><p>2月17日</p></td>
 <td><p>如果我是個男孩</p></td>
 <td><p>不要只是有夢</p></td>
@@ -1557,7 +1557,7 @@ Central</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鄭融.md" title="wikilink">鄭　融</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Beat_Beat" title="wikilink">Beat Beat</a></p></td>
+<td><p><a href="../Page/Beat_Beat.md" title="wikilink">Beat Beat</a></p></td>
 <td><p>10月18日</p></td>
 <td><p>小龍女</p></td>
 <td><p>愛得耐<br />
@@ -1933,7 +1933,7 @@ Central</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/連詩雅" title="wikilink">連詩雅</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Once_Said" title="wikilink">Once Said</a></p></td>
+<td><p><a href="../Page/Once_Said.md" title="wikilink">Once Said</a></p></td>
 <td><p>07月31日</p></td>
 <td><p>說一句<br />
 （給我）說一句劇場版</p></td>
@@ -1944,7 +1944,7 @@ Central</p></td>
 </tr>
 <tr class="odd">
 <td><p>rowspan ="2"| <a href="../Page/周柏豪.md" title="wikilink">周柏豪</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/同行" title="wikilink">同行</a></p></td>
+<td><p><a href="../Page/同行.md" title="wikilink">同行</a></p></td>
 <td><p>3月25日</p></td>
 <td><p>天窗（合唱版）<br />
 <small>（與<a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒合唱</a>）</small></p></td>

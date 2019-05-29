@@ -4,7 +4,7 @@
 
 在1936年，[英國陸軍部把坦克分為了兩類](../Page/英國陸軍部.md "wikilink")：一種是擁有厚重裝甲，被用於在戰爭中與敵方步兵近距離交手的[步兵坦克](https://zh.wikipedia.org/wiki/步兵坦克 "wikilink")，和能夠快速移動，並在敵人的大後方發動突襲的巡洋坦克。
 
-1934年，在A6、[Mk.III中型坦克因成本問題都未能入役之後](https://zh.wikipedia.org/wiki/Mk.III中型坦克 "wikilink")，英國軍方要求[維克斯公司的](https://zh.wikipedia.org/wiki/維克斯-阿姆斯特朗 "wikilink")[約翰·卡登爵士被要求設計一款用於取代現有坦克的](https://zh.wikipedia.org/wiki/約翰·卡登爵士 "wikilink")“相當便宜的坦克”。這種坦克的試驗車於1936年完成，並被命名為A9E1。\[1\]
+1934年，在A6、[Mk.III中型坦克因成本問題都未能入役之後](../Page/Mk.III中型坦克.md "wikilink")，英國軍方要求[維克斯公司的](https://zh.wikipedia.org/wiki/維克斯-阿姆斯特朗 "wikilink")[約翰·卡登爵士被要求設計一款用於取代現有坦克的](https://zh.wikipedia.org/wiki/約翰·卡登爵士 "wikilink")“相當便宜的坦克”。這種坦克的試驗車於1936年完成，並被命名為A9E1。\[1\]
 
 它整合了[Mk.III輕型坦克的一些優點](../Page/英國Mk.I-V系列輕型坦克.md "wikilink")，並由一台汽油機供給動力。但是，因為當時還處在[大蕭條時期](https://zh.wikipedia.org/wiki/大蕭條 "wikilink")，所以這款坦克還使用了很多節約製造成本的方法。它還是英國第一款有真正的固定炮塔的坦克，並且能使用動力轉動。這一系統是由[纳什＆汤普森公司設計](https://zh.wikipedia.org/wiki/纳什＆汤普森 "wikilink")，并與正在研發的[惠靈頓重型轟炸機上的相似](https://zh.wikipedia.org/wiki/惠靈頓重型轟炸機 "wikilink")。它的裝甲最大為14mm，而且不少部份是垂直的，還有許多用於射擊的孔。但是，它能達到的速度，並且能夠安裝新式的高初速度的QF2磅炮。
 

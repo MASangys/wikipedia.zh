@@ -4,7 +4,7 @@
 ## 歷史與開發
 
 MidnightBSD在2005年作為一個[FreeBSD的衍生版本](../Page/FreeBSD.md "wikilink")。該專案的創始人，Lucas
-Holt，希望創造一個衍生自BSD的桌面作業系統。他對許多LiveCD專案相當熟悉，但並沒有參與[PC-BSD或是](https://zh.wikipedia.org/wiki/PC-BSD "wikilink")[DesktopBSD的開發](https://zh.wikipedia.org/wiki/DesktopBSD "wikilink")。同時，他也對[GNUstep很有興趣](../Page/GNUstep.md "wikilink")。這兩個構想合併成為了一個創造易於使用的桌面環境。
+Holt，希望創造一個衍生自BSD的桌面作業系統。他對許多LiveCD專案相當熟悉，但並沒有參與[PC-BSD或是](https://zh.wikipedia.org/wiki/PC-BSD "wikilink")[DesktopBSD的開發](../Page/DesktopBSD.md "wikilink")。同時，他也對[GNUstep很有興趣](../Page/GNUstep.md "wikilink")。這兩個構想合併成為了一個創造易於使用的桌面環境。
 MidnightBSD 0.1在Lucas Holt、Caryn Holt、D. Adam Karim、Phil
 Pereira、Christian Reinhardt等開發者的努力下釋出。這個版本以一個修改過的FreeBSD
 ports系統為特色。ports系統演變為"mports"，包含了安裝前生成軟體包、授權標籤、軟體包列表生成的嚴謹規則及目標以外的檔案修改等功能。許多的這些功能都在MidnightBSD

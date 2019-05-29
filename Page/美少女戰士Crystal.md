@@ -57,7 +57,7 @@ Crystal》第四季「死亡月亮篇」決定製作的消息。
   - 水手小月亮（セーラーちびムーン／Sailor Chibi Moon）
   - 阿兔．小淑女．希蕾妮蒂（スモールレディ．セレニティ／Small Lady．Serenity）
   - 配音員：[福圓美里](../Page/福圓美里.md "wikilink")（日）；
-    [陳姻岐](https://zh.wikipedia.org/wiki/陳姻岐 "wikilink")（港）；[李昀晴](../Page/李昀晴.md "wikilink")(小小兔)／[黃玉奇](https://zh.wikipedia.org/wiki/黃玉奇 "wikilink")(黑色淑女)（台）
+    [陳姻岐](../Page/陳姻岐.md "wikilink")（港）；[李昀晴](../Page/李昀晴.md "wikilink")(小小兔)／[黃玉奇](https://zh.wikipedia.org/wiki/黃玉奇 "wikilink")(黑色淑女)（台）
 
 #### 太陽系戰士
 
@@ -146,7 +146,7 @@ Crystal》第四季「死亡月亮篇」決定製作的消息。
 <!-- end list -->
 
   - 水手海王星（セーラーネプチューン／Sailor Neptune）
-  - 配音員：[大原沙耶香](../Page/大原沙耶香.md "wikilink")（日）；[謝穎茵](https://zh.wikipedia.org/wiki/謝穎茵 "wikilink")（港）；[李昀晴](../Page/李昀晴.md "wikilink")（台）
+  - 配音員：[大原沙耶香](../Page/大原沙耶香.md "wikilink")（日）；[謝穎茵](../Page/謝穎茵.md "wikilink")（港）；[李昀晴](../Page/李昀晴.md "wikilink")（台）
 
 <!-- end list -->
 
@@ -189,7 +189,7 @@ Crystal》第四季「死亡月亮篇」決定製作的消息。
 
 <!-- end list -->
 
-  - 配音員：[劉婧犖](https://zh.wikipedia.org/wiki/劉婧犖 "wikilink")（日）；[曾慶珏](../Page/曾慶珏.md "wikilink")（港）；[李昀晴](../Page/李昀晴.md "wikilink")（台）
+  - 配音員：[劉婧犖](../Page/劉婧犖.md "wikilink")（日）；[曾慶珏](../Page/曾慶珏.md "wikilink")（港）；[李昀晴](../Page/李昀晴.md "wikilink")（台）
 
 ### 月野兔的朋友及同學
 
@@ -213,7 +213,7 @@ Crystal》第四季「死亡月亮篇」決定製作的消息。
 
 <!-- end list -->
 
-  - 配音員：[山下大輝](https://zh.wikipedia.org/wiki/山下大輝 "wikilink")（日）；待查（港）；[張敦喻](https://zh.wikipedia.org/wiki/張敦喻 "wikilink")（台）
+  - 配音員：[山下大輝](../Page/山下大輝.md "wikilink")（日）；待查（港）；[張敦喻](https://zh.wikipedia.org/wiki/張敦喻 "wikilink")（台）
 
 <!-- end list -->
 

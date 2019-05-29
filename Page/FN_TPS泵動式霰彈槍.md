@@ -1,5 +1,5 @@
 **FN
-TPS**（，意為：戰術警用霰彈槍）是一款由[比利时槍械製造商](../Page/比利时.md "wikilink")[國營赫斯塔爾所研製及生產的軍警兩用](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")[泵动式](https://zh.wikipedia.org/wiki/泵动式 "wikilink")[戰術](https://zh.wikipedia.org/wiki/鎮暴霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
+TPS**（，意為：戰術警用霰彈槍）是一款由[比利时槍械製造商](../Page/比利时.md "wikilink")[國營赫斯塔爾所研製及生產的軍警兩用](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")[泵动式](https://zh.wikipedia.org/wiki/泵动式 "wikilink")[戰術](../Page/鎮暴霰彈槍.md "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")，發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。
 
 ## 概述
 
@@ -19,7 +19,7 @@ TPS裝有[M16A2樣式的](https://zh.wikipedia.org/wiki/M16突擊步槍#M16A2 "w
     zh-sg:塞缪尔·杰逊;}-](https://zh.wikipedia.org/wiki/森姆·L·積遜 "wikilink")）的[柯爾特XSE用盡子彈以後被奧古斯都](https://zh.wikipedia.org/wiki/柯爾特XSE手槍 "wikilink")·吉本斯所奪取。
   - 2015年—《[-{zh-cn:终结者：创世纪; zh-tw:魔鬼終結者：創世契機;
     zh-hk:未來戰士：創世智能;}-](https://zh.wikipedia.org/wiki/终结者：创世纪 "wikilink")》：2017年時被莎拉·康納（Sarah
-    Connor，[艾美莉·克拉克飾演](https://zh.wikipedia.org/wiki/艾美莉·克拉克 "wikilink")）從其武器庫取出以後與[T-3000的戰鬥中所使用](../Page/T-3000.md "wikilink")。
+    Connor，[艾美莉·克拉克飾演](../Page/艾美莉·克拉克.md "wikilink")）從其武器庫取出以後與[T-3000的戰鬥中所使用](../Page/T-3000.md "wikilink")。
 
 ### [电子遊戲](https://zh.wikipedia.org/wiki/电子遊戲 "wikilink")
 

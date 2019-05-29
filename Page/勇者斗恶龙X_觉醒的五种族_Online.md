@@ -1,4 +1,4 @@
-是由[史克威尔艾尼克斯开发的](../Page/史克威尔艾尼克斯.md "wikilink")[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")（MMORPG）\[1\]\[2\]，是[勇者斗恶龙系列本传的第十部作品](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")。本作在2016年由[盛大游戏代理于中国大陆开始运营](https://zh.wikipedia.org/wiki/盛大游戏 "wikilink")，该公司同时也代理史克威尔艾尼克斯另一网络游戏《[最终幻想XIV](https://zh.wikipedia.org/wiki/最终幻想XIV：重生之境 "wikilink")》\[3\]。
+是由[史克威尔艾尼克斯开发的](../Page/史克威尔艾尼克斯.md "wikilink")[大型多人在线角色扮演游戏](../Page/大型多人在线角色扮演游戏.md "wikilink")（MMORPG）\[1\]\[2\]，是[勇者斗恶龙系列本传的第十部作品](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")。本作在2016年由[盛大游戏代理于中国大陆开始运营](https://zh.wikipedia.org/wiki/盛大游戏 "wikilink")，该公司同时也代理史克威尔艾尼克斯另一网络游戏《[最终幻想XIV](../Page/最终幻想XIV：重生之境.md "wikilink")》\[3\]。
 
 ## 概要
 

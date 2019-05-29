@@ -447,7 +447,7 @@ III”的两个部分，由於節目使用了受版權保護的《[-{](../Page/�
 <hr />
 <p><strong>Unisonic Tournament 1000</strong><em>、</em><strong></strong>、<strong>Wonder Wizard</strong>、<strong><a href="../Page/RCA_Studio_II.md" title="wikilink">RCA Studio II</a></strong>、<strong></strong>、<br />
 <strong>Super Pong Tellagame</strong>、<strong></strong>、<strong>Ricochet</strong>、<strong>4 Way Video Game</strong>、<strong><a href="../Page/Color_TV-Game.md" title="wikilink">Color TV-Game</a> 6</strong>、<strong>Volley 6</strong>、<br />
-<strong>-{|zh-hans:米罗华奥德赛;zh-hant:美格福斯奧德賽;}-</strong> <strong>4000</strong>、<strong><a href="../Page/Fairchild_Channel_F.md" title="wikilink">Fairchild Channel F</a></strong>、<strong><a href="https://zh.wikipedia.org/wiki/Telstar_(遊戲機)" title="wikilink">Coleco Telstar</a></strong>、<strong><a href="https://zh.wikipedia.org/wiki/Telstar_(遊戲機)" title="wikilink">Coleco Telstar Arcade</a></strong></p></td>
+<strong>-{|zh-hans:米罗华奥德赛;zh-hant:美格福斯奧德賽;}-</strong> <strong>4000</strong>、<strong><a href="../Page/Fairchild_Channel_F.md" title="wikilink">Fairchild Channel F</a></strong>、<strong><a href="../Page/Telstar_(遊戲機).md" title="wikilink">Coleco Telstar</a></strong>、<strong><a href="../Page/Telstar_(遊戲機).md" title="wikilink">Coleco Telstar Arcade</a></strong></p></td>
 </tr>
 </tbody>
 </table>

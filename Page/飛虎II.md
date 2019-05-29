@@ -287,7 +287,7 @@ O記高級督察<br />
 於第1集脅持高院內人質，後被展瀚韜開槍擊斃</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃建東" title="wikilink">黃建東</a></p></td>
+<td><p><a href="../Page/黃建東.md" title="wikilink">黃建東</a></p></td>
 <td><p>蘇　洪</p></td>
 <td><p>原名<strong>安天佑</strong><br />
 黑社會頭目<br />
@@ -596,7 +596,7 @@ A Team飛虎隊之好友<br />
 於第5集被田新喜綁架，後獲救</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/肥腸" title="wikilink">肥腸之手下</a></p></td>
 </tr>
@@ -837,7 +837,7 @@ A Team飛虎隊之好友<br />
 鍾韋恩之線人</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/姚兵" title="wikilink">姚　兵</a></p></td>
+<td><p><a href="../Page/姚兵.md" title="wikilink">姚　兵</a></p></td>
 <td></td>
 <td><p>僱傭兵首領<br />
 於第10集被金秀姬利用脅持飛虎隊總部，後被手榴彈擊斃</p></td>

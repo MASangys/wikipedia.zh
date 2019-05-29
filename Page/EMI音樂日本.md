@@ -61,7 +61,7 @@ EMI，公司登記名稱為）。1994年之後EMI出資55％，剩下的45％由
   - [宇野ゆう子](https://zh.wikipedia.org/wiki/宇野ゆう子 "wikilink")
   - [大城バネサ](https://zh.wikipedia.org/wiki/大城バネサ "wikilink")
   - [岡林信康](https://zh.wikipedia.org/wiki/岡林信康 "wikilink")
-  - [加藤清史郎with](https://zh.wikipedia.org/wiki/加藤清史郎 "wikilink")[アンクル☆させ](https://zh.wikipedia.org/wiki/佐瀬寿一 "wikilink")
+  - [加藤清史郎with](../Page/加藤清史郎.md "wikilink")[アンクル☆させ](https://zh.wikipedia.org/wiki/佐瀬寿一 "wikilink")
   - [KAME\&L.N.K](https://zh.wikipedia.org/wiki/KAME&L.N.K "wikilink")
   - [岸千恵子](https://zh.wikipedia.org/wiki/岸千恵子 "wikilink")
   - [9mm Parabellum

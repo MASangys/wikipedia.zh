@@ -93,7 +93,7 @@ Hot
 ### 2014年起
 
 2014年，SEKAI NO
-OWARI首次獲得參加[紅白歌合戰](https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰 "wikilink")，演唱了《Dragon
+OWARI首次獲得參加[紅白歌合戰](../Page/第65回NHK紅白歌合戰.md "wikilink")，演唱了《Dragon
 Night》，同時也獲邀負責2015年中的中學組的指定歌曲及特別曲創作\[46\]，2015年2月10日，在NHK全國學校音樂節的公式網頁及官方Facebook中，正式公佈了指定歌曲的歌名為「禮物」（），由Saori作詞，Nakajin作曲，並由作曲家[大田櫻子改編為混聲合唱版本](https://zh.wikipedia.org/wiki/大田櫻子 "wikilink")\[47\]，2月22日，歌曲及歌詞首次於[NHK教育頻道上發佈](../Page/NHK教育頻道.md "wikilink")\[48\]\[49\]。
 
 承著紅白的氣勢，2015年1月14日推出了第2張大碟「Tree」，首周已獲得[Oricon公信榜中大碟榜第](../Page/Oricon公信榜.md "wikilink")1名；售出超過24萬張，是上一張大碟首周銷量的3.8倍\[50\]，同時亦宣佈了將於7月在[日產體育場舉行一連兩日的演唱會](https://zh.wikipedia.org/wiki/日產體育場 "wikilink")，共14萬人次的出席。
@@ -653,7 +653,7 @@ CD</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2014年 / <a href="https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰" title="wikilink">第65回</a></p></td>
+<td><p>2014年 / <a href="../Page/第65回NHK紅白歌合戰.md" title="wikilink">第65回</a></p></td>
 <td><p>初</p></td>
 <td></td>
 <td><p>13/24</p></td>

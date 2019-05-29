@@ -5,11 +5,10 @@
 ## 列表
 
 <onlyinclude>{| class="wikitable sortable" style="font-size:85%;"
-|+[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
-games which have sold or shipped
-<noinclude>one</noinclude><includeonly>five</includeonly> million
-copies<includeonly> \[\]</includeonly> |- \! style="width:15%;"| 游戏名 \!
-style="width:15%;"| 销售数量 \! style="width:20%;"| 地区销售 \!
+|+[PlayStation](../Page/PlayStation.md "wikilink") games which have sold
+or shipped <noinclude>one</noinclude><includeonly>five</includeonly>
+million copies<includeonly> \[\]</includeonly> |- \! style="width:15%;"|
+游戏名 \! style="width:15%;"| 销售数量 \! style="width:20%;"| 地区销售 \!
 style="width:10%;"| 发行日期 \! style="width:10%;"| 类型 \!
 style="width:15%;"| 制作商 \! style="width:15%;"| 发行商 |-
 |[GT賽車](https://zh.wikipedia.org/wiki/GT賽車_\(遊戲\) "wikilink")
@@ -327,8 +326,7 @@ Cut](https://zh.wikipedia.org/wiki/生化危机_\(游戏\)#Director's_Cut "wikil
 
   - 美国市场112万\[120\]
 
-| | | | |- |[亞克傳承](https://zh.wikipedia.org/wiki/亞克傳承_\(遊戲\) "wikilink")
-|110万 |
+| | | | |- |[亞克傳承](../Page/亞克傳承_\(遊戲\).md "wikilink") |110万 |
 
   - 日本市场110万\[121\]
 

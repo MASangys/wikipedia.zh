@@ -466,8 +466,8 @@
 
   - **[哪位中华人民共和国国务院副总理](../Page/谭震林.md "wikilink")**是中华人民共和国成立后第一任[中共浙江省委书记](https://zh.wikipedia.org/wiki/中共浙江省委 "wikilink")？
   - 為了實行[改革開放](https://zh.wikipedia.org/wiki/改革開放 "wikilink")、推行[市場經濟](https://zh.wikipedia.org/wiki/市場經濟 "wikilink")，[趙紫陽提出中國正處於](https://zh.wikipedia.org/wiki/趙紫陽 "wikilink")**[哪一個社會發展階段](../Page/社会主义初级阶段.md "wikilink")**？
-  - **[哪位天津市公安局长](https://zh.wikipedia.org/wiki/武长顺 "wikilink")**曾经嫖娼被捕并涉嫌贪腐，但因先后被[宋平顺和](../Page/宋平顺.md "wikilink")[周永康赏识](../Page/周永康.md "wikilink")、庇护而一度被免于追查？
-  - **[哪位政府官员](../Page/杜全顺.md "wikilink")**与原天津市政法委书记[宋平顺](../Page/宋平顺.md "wikilink")、原天津市公安局长[武长顺称为](https://zh.wikipedia.org/wiki/武长顺 "wikilink")“三顺”？
+  - **[哪位天津市公安局长](../Page/武长顺.md "wikilink")**曾经嫖娼被捕并涉嫌贪腐，但因先后被[宋平顺和](../Page/宋平顺.md "wikilink")[周永康赏识](../Page/周永康.md "wikilink")、庇护而一度被免于追查？
+  - **[哪位政府官员](../Page/杜全顺.md "wikilink")**与原天津市政法委书记[宋平顺](../Page/宋平顺.md "wikilink")、原天津市公安局长[武长顺称为](../Page/武长顺.md "wikilink")“三顺”？
 
 [1964ZhangAiping.jpg](https://zh.wikipedia.org/wiki/File:1964ZhangAiping.jpg "fig:1964ZhangAiping.jpg")
 
@@ -536,11 +536,11 @@
   - **[哪名中国公安局长](../Page/申公元.md "wikilink")**任职临汾时被公安部评为“全国特级优秀人民警察”，在大同市公安局长任上被免职，退休两个月后被纪委带走？
   - 谁是[中国人民解放军历史上](../Page/中国人民解放军.md "wikilink")**[最年轻的上将](../Page/萧华_\(上将\).md "wikilink")**？
   - 2014年10月15日，中共山西省纪委宣布**[哪位市委书记](../Page/丰立祥.md "wikilink")**涉嫌严重违纪正在接受调查？
-  - 2014年7月，**[哪位直辖市公安局局长](https://zh.wikipedia.org/wiki/武长顺 "wikilink")**因涉嫌严重违纪违法问题被调查？
+  - 2014年7月，**[哪位直辖市公安局局长](../Page/武长顺.md "wikilink")**因涉嫌严重违纪违法问题被调查？
 
 [中國科學院「學毛」.jpg](https://zh.wikipedia.org/wiki/File:中國科學院「學毛」.jpg "fig:中國科學院「學毛」.jpg")
 
-  - **[哪一場政治運動](https://zh.wikipedia.org/wiki/思想改造運動 "wikilink")**，是[中華人民共和國建國後第一場旨在摧毀](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[知識份子自主性與獨立精神的全國性運動](https://zh.wikipedia.org/wiki/知識份子 "wikilink")？
+  - **[哪一場政治運動](../Page/思想改造運動.md "wikilink")**，是[中華人民共和國建國後第一場旨在摧毀](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")[知識份子自主性與獨立精神的全國性運動](https://zh.wikipedia.org/wiki/知識份子 "wikilink")？
 
 [潘朔端.jpg](https://zh.wikipedia.org/wiki/File:潘朔端.jpg "fig:潘朔端.jpg")
 

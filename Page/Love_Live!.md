@@ -278,7 +278,7 @@ CD則發行三部，收錄網路電台《》的相關內容。BD特典則為歷�
 #### 電子遊戲
 
 《[LoveLive\!
-學園偶像祭](../Page/LoveLive!_學園偶像祭.md "wikilink")》（）由[KLab開發](../Page/KLab.md "wikilink")、[武士道營運的](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧手機系統 "wikilink")[節奏與](../Page/音樂遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，於2013年4月15日於[iOS首先推出](https://zh.wikipedia.org/wiki/iOS "wikilink")，後於6月8日起逐步開放予[Android的不同版本的平台](../Page/Android.md "wikilink")。2014年5月12日，英文版開放全球各地區下載；同月22日，中文區代理商在上述兩個手機平臺推出繁體中文版，並於三周後推出簡體中文版。同年6月，韓文版亦在Android平台上開放下載，一週後於iOS
+學園偶像祭](../Page/LoveLive!_學園偶像祭.md "wikilink")》（）由[KLab開發](../Page/KLab.md "wikilink")、[武士道營運的](../Page/武士道_\(公司\).md "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧手機系統 "wikilink")[節奏與](../Page/音樂遊戲.md "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，於2013年4月15日於[iOS首先推出](https://zh.wikipedia.org/wiki/iOS "wikilink")，後於6月8日起逐步開放予[Android的不同版本的平台](../Page/Android.md "wikilink")。2014年5月12日，英文版開放全球各地區下載；同月22日，中文區代理商在上述兩個手機平臺推出繁體中文版，並於三周後推出簡體中文版。同年6月，韓文版亦在Android平台上開放下載，一週後於iOS
 [App
 Store上架](../Page/App_Store_\(iOS\).md "wikilink")。遊戲在2014年12月8日已突破全球1000萬名使用者\[40\]。2015年11月，官方宣布将推出该游戏的[街机版本](../Page/街机.md "wikilink")\[41\]，于2016年12月6日发行。
 
@@ -288,7 +288,7 @@ Vita平台运行](../Page/PlayStation_Vita.md "wikilink")。于2014年8月28日�
 Printemps”、“vol.2 BiBi”和“vol.3 Lily White”，每个版本的曲目有所不同。
 
 《[LoveLive\! 學園偶像祭 ～after school
-ACTIVITY～](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭#LoveLive.21_.E5.AD.B8.E5.9C.92.E5.81.B6.E5.83.8F.E7.A5.AD_.EF.BD.9Eafter_school_ACTIVITY.EF.BD.9E "wikilink")》（）由[武士道和](https://zh.wikipedia.org/wiki/武士道_\(公司\) "wikilink")[史克威爾艾尼克斯共同開發](../Page/史克威尔艾尼克斯.md "wikilink")，史克威爾艾尼克斯營運的[街機](../Page/街机.md "wikilink")[節奏遊戲](../Page/音樂遊戲.md "wikilink")，於2016年12月6日起在日本各大遊戲店鋪營運。街機版除繼承了手機版的「卡片收藏和節奏音樂」的基本遊戲機制之外，還加入3DCG的演出動畫，以及列印實體卡片和讀取個人資料卡等機能。遊戲操作方式為實體按鍵，最高難度為「Challenge」難度。除單人模式外，也可於2至3名玩家合作進行遊戲。
+ACTIVITY～](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭#LoveLive.21_.E5.AD.B8.E5.9C.92.E5.81.B6.E5.83.8F.E7.A5.AD_.EF.BD.9Eafter_school_ACTIVITY.EF.BD.9E "wikilink")》（）由[武士道和](../Page/武士道_\(公司\).md "wikilink")[史克威爾艾尼克斯共同開發](../Page/史克威尔艾尼克斯.md "wikilink")，史克威爾艾尼克斯營運的[街機](../Page/街机.md "wikilink")[節奏遊戲](../Page/音樂遊戲.md "wikilink")，於2016年12月6日起在日本各大遊戲店鋪營運。街機版除繼承了手機版的「卡片收藏和節奏音樂」的基本遊戲機制之外，還加入3DCG的演出動畫，以及列印實體卡片和讀取個人資料卡等機能。遊戲操作方式為實體按鍵，最高難度為「Challenge」難度。除單人模式外，也可於2至3名玩家合作進行遊戲。
 
 《[LoveLive\! 學園偶像祭 ALL
 STARS](https://zh.wikipedia.org/wiki/LoveLive!_學園偶像祭#LoveLive.21_.E5.AD.B8.E5.9C.92.E5.81.B6.E5.83.8F.E7.A5.AD_ALL_STARS "wikilink")》（）將於2018年推出，遊戲內容以[μ's](https://zh.wikipedia.org/wiki/μ's "wikilink")、[Aqours](../Page/Aqours.md "wikilink")
@@ -328,7 +328,7 @@ Sunshine\!\!》目前推出了网络广播节目《》，现正播出中。另�
 日本有不少演艺界名人均是「LoveLive\!」的支持者，當中包括男性聲優[島崎信長](../Page/島崎信長.md "wikilink")、[Kis-My-Ft2的](https://zh.wikipedia.org/wiki/Kis-My-Ft2 "wikilink")[宮田俊哉](../Page/宮田俊哉.md "wikilink")、女性播音員、搞笑藝人和等\[50\]。而《LoveLive\!》於2014年4月左右迅速在中文地區走紅，其人气、快速增加的狂热粉丝、话题的广泛性，再加磕头跪拜的行为（見下文），让人感觉粉丝的活动近乎失控，因此《LoveLive\!》在中文世界裡被戲稱為「[邪教](../Page/邪教.md "wikilink")」，其愛好者之間還產生所謂「LL神教」、「LL大法好」、「Aji人」、“拉拉人”、“loveliver”等次文化習語。\[51\]
 
 [重庆轨道交通一号线Lovelive\!涂装列车.jpg](https://zh.wikipedia.org/wiki/File:重庆轨道交通一号线Lovelive!涂装列车.jpg "fig:重庆轨道交通一号线Lovelive!涂装列车.jpg")
-第十二届中国国际数码互动娱乐展览会（ChinaJoy）在[上海开展時](https://zh.wikipedia.org/wiki/上海市 "wikilink")，[盛大和美娱两家企业包下](../Page/盛大网络.md "wikilink")[上海地铁2号线的](../Page/上海轨道交通2号线.md "wikilink")207号列车，將其中一面塗上「LoveLive\!」涂装（另一面為[鎖鏈戰記](../Page/鎖鏈戰記.md "wikilink")），使上海地铁2号线成為中國大陸首條有[二次元](https://zh.wikipedia.org/wiki/二次元 "wikilink")「[痛列车](https://zh.wikipedia.org/wiki/痛车 "wikilink")」的地鐵線路。2014年7月26日和7月31日在[上海地铁2号线内](../Page/上海轨道交通2号线.md "wikilink")，当這列列车驶进站后，有几名男性动漫迷当场“下跪膜拜”（即日語中的「[土下座](https://zh.wikipedia.org/wiki/土下座 "wikilink")」）。这類事件引发网络上非动漫迷和动漫迷的爭議。地铁运营方表示，这种下跪膜拜现象会影响地铁的运营秩序。外界曾推測“[痛列车](https://zh.wikipedia.org/wiki/痛车 "wikilink")”有可能因此被雪藏（事实是，被痛的207车原本就是上海地铁的一辆常备车），不過上海地铁於7月31日向[澎湃新闻表示](https://zh.wikipedia.org/wiki/澎湃新闻 "wikilink")，列车运营至8月中下旬后才会把广告移除。
+第十二届中国国际数码互动娱乐展览会（ChinaJoy）在[上海开展時](https://zh.wikipedia.org/wiki/上海市 "wikilink")，[盛大和美娱两家企业包下](../Page/盛大网络.md "wikilink")[上海地铁2号线的](../Page/上海轨道交通2号线.md "wikilink")207号列车，將其中一面塗上「LoveLive\!」涂装（另一面為[鎖鏈戰記](../Page/鎖鏈戰記.md "wikilink")），使上海地铁2号线成為中國大陸首條有[二次元](https://zh.wikipedia.org/wiki/二次元 "wikilink")「[痛列车](https://zh.wikipedia.org/wiki/痛车 "wikilink")」的地鐵線路。2014年7月26日和7月31日在[上海地铁2号线内](../Page/上海轨道交通2号线.md "wikilink")，当這列列车驶进站后，有几名男性动漫迷当场“下跪膜拜”（即日語中的「[土下座](https://zh.wikipedia.org/wiki/土下座 "wikilink")」）。这類事件引发网络上非动漫迷和动漫迷的爭議。地铁运营方表示，这种下跪膜拜现象会影响地铁的运营秩序。外界曾推測“[痛列车](https://zh.wikipedia.org/wiki/痛车 "wikilink")”有可能因此被雪藏（事实是，被痛的207车原本就是上海地铁的一辆常备车），不過上海地铁於7月31日向[澎湃新闻表示](../Page/澎湃新闻.md "wikilink")，列车运营至8月中下旬后才会把广告移除。
 
 除了上海的「痛列車」以外，[四川省](../Page/四川省.md "wikilink")[成都市在同年](../Page/成都市.md "wikilink")8月舉行[次文化活動時也有](../Page/次文化.md "wikilink")[巴士貼上](https://zh.wikipedia.org/wiki/巴士 "wikilink")「LoveLive\!」廣告，並同樣有支持者在車前跪拜。類似情況也曾在南韓[首爾地鐵2號線出現](../Page/首爾地鐵2號線.md "wikilink")\[52\]。
 

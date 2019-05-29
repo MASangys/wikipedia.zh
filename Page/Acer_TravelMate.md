@@ -70,8 +70,7 @@
   - Acer TravelMate 8431
   - Acer TravelMate 8472
   - Acer TravelMate 8473
-  - [Acer TravelMate
-    8481](https://zh.wikipedia.org/wiki/Acer_TravelMate_8481 "wikilink")
+  - [Acer TravelMate 8481](../Page/Acer_TravelMate_8481.md "wikilink")
   - Acer TravelMate 8552
   - Acer TravelMate 8571
   - Acer TravelMate 8531

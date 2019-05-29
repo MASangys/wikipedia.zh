@@ -4,7 +4,7 @@ VP9主要被用於Google旗下著名的影音分享網站[YouTube](../Page/YouTu
 
 相比于高效率视频编码，许多浏览器都支持VP9视频格式，截止2018年6月，约有4/5的浏览器（包括移动设备）支持WebM封装容器和VP9视频编码，例如[Chromium](../Page/Chromium.md "wikilink")、[Chrome](../Page/Google_Chrome.md "wikilink")、[Microsoft
 Edge](../Page/Microsoft_Edge.md "wikilink")、[Firefox](../Page/Firefox.md "wikilink")、[Opera等浏览器都内置了VP](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")9解码器，可在[HTML5播放器中播放VP](../Page/HTML5.md "wikilink")9影像格式。[Windows
-10作業系統也内置了WebM分离器和VP](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")9解码器。
+10作業系統也内置了WebM分离器和VP](../Page/Windows_10.md "wikilink")9解码器。
 
 随着[开放媒体联盟的出现和Google参与到VP](https://zh.wikipedia.org/wiki/开放媒体联盟 "wikilink")9下一代格式[AV1的开发中](../Page/AOMedia_Video_1.md "wikilink")，人们对VP9产生了更浓厚的兴趣。\[4\]VP10视频编码的技術被收录在開放媒體聯盟所領導的AV1編碼中\[5\]，因此Google表示不會在內部部署或正式發布VP10。
 

@@ -44,7 +44,7 @@ COAST。
 ### 2014年
 
   - 最優秀女優獎
-      - **白金獎**：**[上原亞衣](https://zh.wikipedia.org/wiki/上原亞衣 "wikilink")**\[5\]
+      - **白金獎**：**[上原亞衣](../Page/上原亞衣.md "wikilink")**\[5\]
       - **黃金獎**：**[彩美旬果](../Page/彩美旬果.md "wikilink")**
   - 最優秀新人獎：[白石茉莉奈](../Page/白石茉莉奈.md "wikilink")\[6\]
   - 特別獎：[麻美由真](../Page/麻美由真.md "wikilink")（大病後的復出）\[7\]

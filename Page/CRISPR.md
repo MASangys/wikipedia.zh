@@ -24,7 +24,7 @@ Repeats，SRSR）\[13\]。2002年SRSR被重命名为CRISPR，其中一部分基�
 
 科学家还研究了来自的更简单的CRISPR系统，其依赖于蛋白。Cas9内切核酸酶是包含两个小RNA分子的四组分系统\[15\]。
 
-[詹妮弗·杜德纳](../Page/詹妮弗·杜德纳.md "wikilink")、[埃马纽埃尔·卡彭蒂耶及](../Page/埃马纽埃尔·卡彭蒂耶.md "wikilink")[張鋒各自独立的探索CRISPR关联蛋白](https://zh.wikipedia.org/wiki/張鋒 "wikilink")，了解细菌如何在它们的免疫防御使用间隔（spacer）。他们共同研究一个比较简单的依赖于称为Cas9蛋白质的CRISPR系统。
+[詹妮弗·杜德纳](../Page/詹妮弗·杜德纳.md "wikilink")、[埃马纽埃尔·卡彭蒂耶及](../Page/埃马纽埃尔·卡彭蒂耶.md "wikilink")[張鋒各自独立的探索CRISPR关联蛋白](../Page/張鋒.md "wikilink")，了解细菌如何在它们的免疫防御使用间隔（spacer）。他们共同研究一个比较简单的依赖于称为Cas9蛋白质的CRISPR系统。
 
 ### Cpf1
 

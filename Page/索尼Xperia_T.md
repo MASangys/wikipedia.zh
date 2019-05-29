@@ -19,7 +19,7 @@ MSM8260A
 
 2012/09 [Sony發布Xperia](https://zh.wikipedia.org/wiki/Sony "wikilink")
 T的上市版本採用[Android](../Page/Android.md "wikilink") 4.0.4 Ice Cream
-Sandwich作業系統，取得[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+Sandwich作業系統，取得[PlayStation](../Page/PlayStation.md "wikilink")
 Certified認證，並可登入Sony Entertainment Network。
 
 2013/2 [Sony發布Xperia](https://zh.wikipedia.org/wiki/Sony "wikilink")

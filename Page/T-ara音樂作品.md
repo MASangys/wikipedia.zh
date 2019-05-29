@@ -28,7 +28,7 @@
 </tr>
 <tr class="even">
 <td><p>The 1st Album<br />
-《<a href="https://zh.wikipedia.org/wiki/Absolute_First_Album" title="wikilink">Absolute First Album</a>》</p></td>
+《<a href="../Page/Absolute_First_Album.md" title="wikilink">Absolute First Album</a>》</p></td>
 <td><ul>
 <li>語言：韓語</li>
 <li>數位發行日期：2009年11月27日</li>

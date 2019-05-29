@@ -524,7 +524,7 @@ POP。接著又加入以記錄團員生活、街頭突擊表演、成長學習�
 | 2014年2月14日            | 2014 元宵喜樂會([湖南衛視](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink"))\[28\]                                      | 中國 湖南長沙                                             |
 | 2014年3月22日            | 2014 韓國歌謠盛典(SIMPLY KPOP TOUR 2014 IN ShangHai)                                                               | 上海 [梅赛德斯-奔驰文化中心](../Page/梅赛德斯-奔驰文化中心.md "wikilink") |
 | 2014年6月21日            | Chrome家族Concert                                                                                              | 韓國                                                  |
-| 2014年6月25日至2014年7月24日 | Lady Gaga [artRAVE: The ARTPOP Ball](https://zh.wikipedia.org/wiki/流行藝術巡迴演唱會 "wikilink") 巡迴演唱會               | 美國、加拿大                                              |
+| 2014年6月25日至2014年7月24日 | Lady Gaga [artRAVE: The ARTPOP Ball](../Page/流行藝術巡迴演唱會.md "wikilink") 巡迴演唱會                                  | 美國、加拿大                                              |
 | 2014年8月23日            | 携手三星助威亞運演唱會                                                                                                  | 韓國                                                  |
 | 2014年9月28日            | 慶州韓流演唱會                                                                                                      | 韓國 慶州                                               |
 | 2014年10月5日            | 2014 MBC北京鳥巢演唱會                                                                                              | 北京 國家體育場                                            |

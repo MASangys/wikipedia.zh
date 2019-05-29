@@ -541,7 +541,7 @@
   - 動畫製作：[feel.](https://zh.wikipedia.org/wiki/feel. "wikilink")
   - 製作：我H製作委員会（[T.O
     Entertainment](https://zh.wikipedia.org/wiki/T.O_Entertainment "wikilink")、[Geneon
-    Universal](https://zh.wikipedia.org/wiki/Geneon_Universal "wikilink")、KlockWorx、Lantis、[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")、富士見書房、DAX
+    Universal](https://zh.wikipedia.org/wiki/Geneon_Universal "wikilink")、KlockWorx、Lantis、[創通](../Page/創通.md "wikilink")、富士見書房、DAX
     International、[AT-X](../Page/AT-X.md "wikilink")）
 
 ### 主題曲

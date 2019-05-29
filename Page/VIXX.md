@@ -448,8 +448,8 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 | ----------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | ----------- | ------ | --------- | -------------- |
 | **日期 (首播)** | **電視台**                                                               | **戲劇名稱**                                                                  | **參與成員**    | **性質** | **演出角色**  | **備註**         |
 | 2013年10月9日  | [SBS](../Page/SBS_\(韓國\).md "wikilink")                               | [欲戴王冠，必承其重－繼承者們](https://zh.wikipedia.org/wiki/欲戴王冠，必承其重－繼承者們 "wikilink") | VIXX        | 客串     | VIXX      | EP.4 (44分23秒)  |
-| 2014年4月5日   | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")           | [Hotel King](https://zh.wikipedia.org/wiki/Hotel_King "wikilink")         | N           | 出演     | Noa（諾亞）   |                |
-| 2014年4月26日  | SBS                                                                   | [心情好的日子](https://zh.wikipedia.org/wiki/心情好的日子 "wikilink")                 | HONGBIN     | 出演     | 柳志浩       |                |
+| 2014年4月5日   | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")           | [Hotel King](../Page/Hotel_King.md "wikilink")                            | N           | 出演     | Noa（諾亞）   |                |
+| 2014年4月26日  | SBS                                                                   | [心情好的日子](../Page/心情好的日子.md "wikilink")                                    | HONGBIN     | 出演     | 柳志浩       |                |
 | LEO、HYUK    | 客串                                                                    | LEO、HYUK（VIXX）                                                            | EP.43       |        |           |                |
 | 2014年9月23日  | MBC every1                                                            | 合宿24號房                                                                    | KEN         | 主演     | 李在煥       |                |
 | 2015年1月3日   | SBS                                                                   | [誕生吧！家族](../Page/誕生吧！家族.md "wikilink")                                    | N           | 出演     | 車學沇       |                |
@@ -620,7 +620,7 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
 | 2015年6月1日          | KBS2       | 全民脫口秀 你好                                                         | KEN             | Ep.227        |
 | 2015年6月14日、21日     | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                   | KEN             | Ep.11-12      |
 | 2015年6月26日、7月3日    | Mnet       | [Show Me The Money 4](../Page/Show_Me_The_Money_4.md "wikilink") | RAVI            | Ep.1-2        |
-| 2015年7月21日－8月11日   | JTBC       | [我去上學啦](https://zh.wikipedia.org/wiki/我去上學啦_\(韓國\) "wikilink")   | N               | Ep.53-56      |
+| 2015年7月21日－8月11日   | JTBC       | [我去上學啦](../Page/我去上學啦_\(韓國\).md "wikilink")                      | N               | Ep.53-56      |
 | 2015年8月25日         | Arirang    | After School Club                                                | VIXX LR         |               |
 | 2015年9月6日、13日      | MBC        | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                   | HYUK            | Ep.23-24（聽審團） |
 | 2015年9月20日         | KBS        | A Song For You 4                                                 | VIXX LR         | Ep.10         |

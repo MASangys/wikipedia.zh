@@ -118,7 +118,7 @@
 在2012年5月12日至8月12日[丽水世界博览会举办期间](https://zh.wikipedia.org/wiki/丽水世界博览会 "wikilink")，[韩国铁道公社曾开通如下临时路线](https://zh.wikipedia.org/wiki/韩国铁道公社 "wikilink")：
 
   - [京釜线](https://zh.wikipedia.org/wiki/京釜线 "wikilink")：[首尔](https://zh.wikipedia.org/wiki/首尔站 "wikilink")-[大田](../Page/大田站_\(韩国\).md "wikilink")、[首尔](https://zh.wikipedia.org/wiki/首尔站 "wikilink")-[东大邱](https://zh.wikipedia.org/wiki/东大邱站 "wikilink")
-  - [京釜线](https://zh.wikipedia.org/wiki/京釜线 "wikilink")、[湖南线](https://zh.wikipedia.org/wiki/湖南线 "wikilink")：[龙山](../Page/龙山站_\(首尔\).md "wikilink")-[光州松汀](https://zh.wikipedia.org/wiki/光州松汀站 "wikilink")
+  - [京釜线](https://zh.wikipedia.org/wiki/京釜线 "wikilink")、[湖南线](https://zh.wikipedia.org/wiki/湖南线 "wikilink")：[龙山](../Page/龙山站_\(首尔\).md "wikilink")-[光州松汀](../Page/光州松汀站.md "wikilink")
   - [京釜线](https://zh.wikipedia.org/wiki/京釜线 "wikilink")、[湖南线](https://zh.wikipedia.org/wiki/湖南线 "wikilink")、[全罗线](https://zh.wikipedia.org/wiki/全罗线 "wikilink")：[龙山](../Page/龙山站_\(首尔\).md "wikilink")-[丽水EXPO](https://zh.wikipedia.org/wiki/丽水EXPO站 "wikilink")
 
 ## 参见

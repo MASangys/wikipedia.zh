@@ -101,8 +101,7 @@ Associates一起完善其锥形的形式，从而最大限度地发挥[上海环
   - [城脈中心](https://zh.wikipedia.org/wiki/城脈中心 "wikilink")，中國深圳
   - [松島國際都市](../Page/松島國際都市.md "wikilink")，[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[仁川](https://zh.wikipedia.org/wiki/仁川 "wikilink")
   - [天津濱海國際機場客運大樓](https://zh.wikipedia.org/wiki/天津濱海國際機場 "wikilink")，中國天津
-  - [Victoria
-    Dockside](https://zh.wikipedia.org/wiki/Victoria_Dockside "wikilink")，香港
+  - [Victoria Dockside](../Page/Victoria_Dockside.md "wikilink")，香港
   - [南京國際金融中心](https://zh.wikipedia.org/wiki/南京國際金融中心 "wikilink")，中國南京（與[巴馬丹拿建築及工程師有限公司合作](../Page/巴馬丹拿.md "wikilink")）
   - [太平洋電線電纜總部大樓](../Page/太平洋電線電纜.md "wikilink")，台灣台北市
 
@@ -177,7 +176,7 @@ Associates一起完善其锥形的形式，从而最大限度地发挥[上海环
 <File:International> Commerce Centre Lift Lobby
 Overview1.jpg|<small>[环球贸易广场电梯厅](https://zh.wikipedia.org/wiki/环球贸易广场 "wikilink")，香港</small>
 <File:Victoria> Dockside Site 201707.jpg|<small>[Victoria
-Dockside](https://zh.wikipedia.org/wiki/Victoria_Dockside "wikilink")，香港</small>
+Dockside](../Page/Victoria_Dockside.md "wikilink")，香港</small>
 <File:Goldin> Financial Global
 Centre.jpg|<small>[高銀金融國際中心](https://zh.wikipedia.org/wiki/高銀金融國際中心 "wikilink")，香港</small>
 <File:Hysan> Place View

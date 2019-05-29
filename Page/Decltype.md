@@ -22,7 +22,7 @@ int main()
 }
 ```
 
-相反，可以将decltype视为一种特殊的类型声明方式，C++语言里面类似的功能为[自动变量](https://zh.wikipedia.org/wiki/Auto_\(C++\) "wikilink")。
+相反，可以将decltype视为一种特殊的类型声明方式，C++语言里面类似的功能为[自动变量](../Page/Auto_\(C++\).md "wikilink")。
 
 举例：设开发人员无法确定一个表达式exp()的值类型，然而需要声明一个与之类型匹配的变量，则可以如下声明：
 
@@ -60,7 +60,7 @@ template <class T> auto transparent_forwarder(T& t) −> decltype(foo(t)) {
   - 若表达式`e`为一个无括号的变量、函数参数、类成员访问，那么返回类型即为该变量或参数或类成员在源程序中的“声明类型”；
   - 否则的话，根据表达式的值分类（value categories），设T为e的类型：
       - 若`e`是一个[左值](https://zh.wikipedia.org/wiki/值_\(计算机科学\) "wikilink")（lvalue，即“可寻址值”），则`decltype(e)`将返回`T&`；
-      - 若`e`是一个[临终值](https://zh.wikipedia.org/wiki/值_\(计算机科学\) "wikilink")（xvalue），则返回值为[`T&&`](https://zh.wikipedia.org/wiki/右值引用 "wikilink")；
+      - 若`e`是一个[临终值](https://zh.wikipedia.org/wiki/值_\(计算机科学\) "wikilink")（xvalue），则返回值为[`T&&`](../Page/右值引用.md "wikilink")；
       - 若`e`是一个[纯右值](https://zh.wikipedia.org/wiki/值_\(计算机科学\) "wikilink")（prvalue），则返回值为`T`。
 
 这些语义是为满足通用库编写者的需求而设计，但由于`decltype`的返回类型总与对象（或函数）的定义类型相匹配，这对编程新手来说也更为直观\[22\]。更正式地说，规则1适用于不带括号的标识符表达式（id-expression）与类成员访问表达式\[23\]\[24\]。示例如下\[25\]：

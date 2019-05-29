@@ -1219,7 +1219,7 @@ SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/千奇百趣玩FREE_D" title="wikilink">千奇百趣玩FREE D</a></p></td>
+<td><p><a href="../Page/千奇百趣玩FREE_D.md" title="wikilink">千奇百趣玩FREE D</a></p></td>
 <td><p>7月15日起<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -2210,7 +2210,7 @@ SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/街頭魔法王2" title="wikilink">街頭魔法王2</a></p></td>
+<td><p><a href="../Page/街頭魔法王2.md" title="wikilink">街頭魔法王2</a></p></td>
 <td><p>7月19日起<br />
 逢星期六<br />
 20:30</p></td>
@@ -2228,7 +2228,7 @@ SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/瘋狂夏水禮" title="wikilink">瘋狂夏水禮</a></p></td>
+<td><p><a href="../Page/瘋狂夏水禮.md" title="wikilink">瘋狂夏水禮</a></p></td>
 <td><p>7月21日起<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -2237,7 +2237,7 @@ SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/區區有鬼故" title="wikilink">區區有鬼故</a></p></td>
+<td><p><a href="../Page/區區有鬼故.md" title="wikilink">區區有鬼故</a></p></td>
 <td><p>7月26日起<br />
 逢星期六<br />
 21:30</p></td>
@@ -2255,7 +2255,7 @@ SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/沒女大翻身" title="wikilink">沒女大翻身</a></p></td>
+<td><p><a href="../Page/沒女大翻身.md" title="wikilink">沒女大翻身</a></p></td>
 <td><p>8月4日起<br />
 逢星期一至五<br />
 22:30</p></td>
@@ -2264,7 +2264,7 @@ SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年度香港小姐競選" title="wikilink">2014香港小姐競選準決賽</a></p></td>
+<td><p><a href="../Page/2014年度香港小姐競選.md" title="wikilink">2014香港小姐競選準決賽</a></p></td>
 <td><p>8月24日<br />
 21:00</p></td>
 <td><p>1</p></td>
@@ -2272,7 +2272,7 @@ SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2014年度香港小姐競選" title="wikilink">2014香港小姐競選決賽</a></p></td>
+<td><p><a href="../Page/2014年度香港小姐競選.md" title="wikilink">2014香港小姐競選決賽</a></p></td>
 <td><p>8月31日<br />
 21:00</p></td>
 <td></td>
@@ -2569,7 +2569,7 @@ SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/燒賣_(電視劇)" title="wikilink">燒賣</a>》</p></td>
+<td><p>《<a href="../Page/燒賣_(電視劇).md" title="wikilink">燒賣</a>》</p></td>
 <td><p>7月30日起<br />
 逢星期一至五<br />
 晚上7:30</p></td>
@@ -2641,7 +2641,7 @@ SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/3日2夜" title="wikilink">3日2夜</a>》</p></td>
+<td><p>《<a href="../Page/3日2夜.md" title="wikilink">3日2夜</a>》</p></td>
 <td><p>8月2日起<br />
 逢星期六<br />
 晚上8:00</p></td>
@@ -2958,7 +2958,7 @@ SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會�
 </tr>
 <tr class="odd">
 <td><p>首播自製資訊節目</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Tycoon_Talk" title="wikilink">Tycoon Talk</a>》</p></td>
+<td><p>《<a href="../Page/Tycoon_Talk.md" title="wikilink">Tycoon Talk</a>》</p></td>
 <td><p>8月7日起<br />
 逢星期四<br />
 晚上9:30</p></td>
@@ -3818,7 +3818,7 @@ SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/奔跑吧兄弟" title="wikilink">奔跑吧兄弟</a></p></td>
+<td><p><a href="../Page/奔跑吧兄弟.md" title="wikilink">奔跑吧兄弟</a></p></td>
 <td><p>8月9日起<br />
 逢星期日<br />
 10:00</p></td>
@@ -4436,7 +4436,7 @@ SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會�
 </tr>
 <tr class="even">
 <td><p>首播兒童節目</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Baby_Steps_~網球優等生~" title="wikilink">網球Ace</a></p></td>
+<td><p><a href="../Page/Baby_Steps_~網球優等生~.md" title="wikilink">網球Ace</a></p></td>
 <td><p>6月10日起<br />
 逢星期四、五<br />
 17:20</p></td>
@@ -4666,7 +4666,7 @@ SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會�
 </tr>
 <tr class="even">
 <td><p>首播綜藝及資訊節目</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/3日2夜" title="wikilink">3日2夜</a></p></td>
+<td><p><a href="../Page/3日2夜.md" title="wikilink">3日2夜</a></p></td>
 <td><p>2016年7月2日起<br />
 逢星期六<br />
 20:00</p></td>
@@ -5248,7 +5248,7 @@ SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/3日2夜" title="wikilink">3日2夜</a></p></td>
+<td><p><a href="../Page/3日2夜.md" title="wikilink">3日2夜</a></p></td>
 <td><p>8月5日起<br />
 逢星期六<br />
 20:30</p></td>

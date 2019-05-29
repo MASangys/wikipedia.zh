@@ -31,7 +31,7 @@ AM1070電台在早上同步聯播。CHRO的情況則相反：其晚間新聞時�
 
 2009年4月30日，[蕭氏通訊宣佈有意以每間電視台](../Page/蕭氏通訊.md "wikilink")1加元的作價購入CHWI、CKNX和CKX\[15\]，但這宗交易卻於同年6月底告吹，令該三台的前途成疑\[16\]。在[溫莎市議會及代表當地的](https://zh.wikipedia.org/wiki/溫莎_\(安大略省\) "wikilink")[安大略省議會和](https://zh.wikipedia.org/wiki/安大略省議會 "wikilink")[加拿大國會下議院議員游説下](https://zh.wikipedia.org/wiki/加拿大國會下議院 "wikilink")，加上CRTC推出有利小型城市地區電視台的撥款方案，CTV於同年7月8日宣佈為CHWI續牌\[17\]，又同時宣佈會向CRTC申請將CKNX改為CFPL的轉播站。（布蘭登的CKX最終於同年10月停止廣播\[18\]。）
 
-2010年9月10日，[加拿大貝爾公司宣佈購入包括](https://zh.wikipedia.org/wiki/加拿大貝爾 "wikilink")「」電視系統在内的CTVglobemedia廣播資產\[19\]。CRTC於2011年3月7日批准這項交易，而[貝爾傳媒則於同年](../Page/貝爾傳媒.md "wikilink")4月1日正式接管「」。
+2010年9月10日，[加拿大貝爾公司宣佈購入包括](../Page/加拿大貝爾.md "wikilink")「」電視系統在内的CTVglobemedia廣播資產\[19\]。CRTC於2011年3月7日批准這項交易，而[貝爾傳媒則於同年](../Page/貝爾傳媒.md "wikilink")4月1日正式接管「」。
 
 ### 更名為CTV第二台
 

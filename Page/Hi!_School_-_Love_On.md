@@ -21,7 +21,7 @@ On**》\[1\]（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K
 <tbody>
 <tr class="odd">
 <td><p>申優鉉</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南優賢" title="wikilink">南優賢</a></p></td>
+<td><p><a href="../Page/南優賢.md" title="wikilink">南優賢</a></p></td>
 <td><p>18歲，好看的天堂高中轉學生。 天堂高中轉學生，MISS孔炒年糕店的孫子。唯一的親人只有奶奶，每一次的生日爸爸會送來禮物和零用錢但卻對爸爸沒有任何感覺，第一集突然有一天在爭執時從學校屋頂摔下來遇見了瑟菲。</p></td>
 </tr>
 <tr class="even">
@@ -258,7 +258,7 @@ On**》\[1\]（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[K
 
 ## 同時段競爭作品
 
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[媽媽的庭院](../Page/媽媽的庭院.md "wikilink")》、《[狎鷗亭白夜](https://zh.wikipedia.org/wiki/狎鷗亭白夜 "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[媽媽的庭院](../Page/媽媽的庭院.md "wikilink")》、《[狎鷗亭白夜](../Page/狎鷗亭白夜.md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink")：《[不要戀愛要結婚](../Page/不要戀愛要結婚.md "wikilink")》、《[九數少年](../Page/九數少年.md "wikilink")》、《[未生](../Page/未生.md "wikilink")》
   - [JTBC](../Page/JTBC.md "wikilink")：《[下女們](../Page/下女們.md "wikilink")》
 

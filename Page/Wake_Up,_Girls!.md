@@ -383,7 +383,7 @@ Girls, Run\!创作了新曲。
   - 製作：Wake Up,
     Girls\!製作委員會\[17\]（[愛貝克思娛樂](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")、[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")、[Good
     Smile
-    Company](../Page/Good_Smile_Company.md "wikilink")、[東京電視台](../Page/東京電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、學研出版、[東寶](../Page/東寶.md "wikilink")、[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")、[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")）
+    Company](../Page/Good_Smile_Company.md "wikilink")、[東京電視台](../Page/東京電視台.md "wikilink")、[AT-X](../Page/AT-X.md "wikilink")、學研出版、[東寶](../Page/東寶.md "wikilink")、[SEGA](https://zh.wikipedia.org/wiki/SEGA "wikilink")、[創通](../Page/創通.md "wikilink")）
 
 #### 主題曲
 

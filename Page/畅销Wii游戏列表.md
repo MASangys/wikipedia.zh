@@ -209,7 +209,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<td><p><a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -429,7 +429,7 @@
 <td><p>任天堂</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/马里奥大运动会" title="wikilink">马里奥大运动会</a></p></td>
+<td><p><a href="../Page/马里奥大运动会.md" title="wikilink">马里奥大运动会</a></p></td>
 <td><p>154万[50]</p></td>
 <td></td>
 <td></td>

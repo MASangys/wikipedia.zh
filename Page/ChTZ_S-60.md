@@ -27,14 +27,14 @@ S-60**，是[二戰中](https://zh.wikipedia.org/wiki/二戰 "wikilink")[蘇軍�
 
   - [共產主義系列 (拖拉機)](../Page/共產主義系列_\(拖拉機\).md "wikilink")－蘇聯最早的履帶式拖拉機
 
-  - [T-20 共青團輕型炮兵牽引車](https://zh.wikipedia.org/wiki/T-20 "wikilink")
+  - [T-20 共青團輕型炮兵牽引車](../Page/T-20.md "wikilink")
 
-  - [STZ-3中型拖拉機](https://zh.wikipedia.org/wiki/STZ-3 "wikilink")
+  - [STZ-3中型拖拉機](../Page/STZ-3.md "wikilink")
 
-  - [STZ-5中型炮兵牽引車](https://zh.wikipedia.org/wiki/STZ-5 "wikilink")
+  - [STZ-5中型炮兵牽引車](../Page/STZ-5.md "wikilink")
 
   - [史達林涅茲(Stalinez)拖拉機－ChTZ
-    S-65](https://zh.wikipedia.org/wiki/ChTZ_S-65 "wikilink")－S-60的後繼拖拉機
+    S-65](../Page/ChTZ_S-65.md "wikilink")－S-60的後繼拖拉機
 
   - [共產國際重型炮兵牽引車](../Page/T-24坦克.md "wikilink")
 

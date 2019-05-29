@@ -18,7 +18,7 @@ Kamerawerk Steenbergen & Co）。
 Kine
 Exakta相机上被继续使用。Ihagee也制造另一种精简版的小号EXAKTA相机，取名[EXA](https://zh.wikipedia.org/wiki/EXA "wikilink")。
 
-[二战极大影响了该公司](https://zh.wikipedia.org/wiki/二战 "wikilink")。Steenbergen本人于1942年离开德累斯顿之后再也没有返回，Ihagee工厂在1945年4月的[德累斯顿轰炸当中彻底被摧毁](../Page/德累斯顿轰炸.md "wikilink")。战后在德累斯顿的部分留在[苏联占领区](https://zh.wikipedia.org/wiki/苏联占领区 "wikilink")，即日后的[东德](https://zh.wikipedia.org/wiki/东德 "wikilink")。Ihagee在[苏联帮助下迅速得到重建](../Page/苏联.md "wikilink")，使用在轰炸当中幸存的机器设备和零部件组装[爱克山泰](https://zh.wikipedia.org/wiki/爱克山泰 "wikilink")()[单镜反光相机](../Page/单镜反光相机.md "wikilink")。之后1951年该公司并入[潘太康](https://zh.wikipedia.org/wiki/潘太康 "wikilink")，后者以生产
+[二战极大影响了该公司](https://zh.wikipedia.org/wiki/二战 "wikilink")。Steenbergen本人于1942年离开德累斯顿之后再也没有返回，Ihagee工厂在1945年4月的[德累斯顿轰炸当中彻底被摧毁](../Page/德累斯顿轰炸.md "wikilink")。战后在德累斯顿的部分留在[苏联占领区](../Page/苏联占领区.md "wikilink")，即日后的[东德](https://zh.wikipedia.org/wiki/东德 "wikilink")。Ihagee在[苏联帮助下迅速得到重建](../Page/苏联.md "wikilink")，使用在轰炸当中幸存的机器设备和零部件组装[爱克山泰](https://zh.wikipedia.org/wiki/爱克山泰 "wikilink")()[单镜反光相机](../Page/单镜反光相机.md "wikilink")。之后1951年该公司并入[潘太康](https://zh.wikipedia.org/wiki/潘太康 "wikilink")，后者以生产
 （Praktica，港台翻译略有不同）牌和（中国大陆俗称P6）中画幅相机闻名。
 
 Ihagee在[德累斯顿的主体部分保留了独立的生产经营地位](../Page/德累斯顿.md "wikilink")，并未被东德政府国有化。相应的在战后头10年里，采用Kine接口的爱克山泰(EXAKTA)

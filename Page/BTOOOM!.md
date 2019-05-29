@@ -364,7 +364,7 @@ ISBN 978-4-10-772110-5（Dark真實篇）</p></td>
   - 音樂 - [井内啓二](https://zh.wikipedia.org/wiki/井内啓二 "wikilink")
   - 動畫製作 - [馬多浩斯](https://zh.wikipedia.org/wiki/馬多浩斯 "wikilink")
   - 製作 - 「BTOOOM\!」製作委員会（[flying
-    DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")、[KlockWorx](https://zh.wikipedia.org/wiki/KlockWorx "wikilink")、[Showgate](https://zh.wikipedia.org/wiki/Showgate "wikilink")、[新潮社](https://zh.wikipedia.org/wiki/新潮社 "wikilink")、[馬多浩斯](https://zh.wikipedia.org/wiki/馬多浩斯 "wikilink")、[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")）
+    DOG](https://zh.wikipedia.org/wiki/flying_DOG "wikilink")、[KlockWorx](https://zh.wikipedia.org/wiki/KlockWorx "wikilink")、[Showgate](https://zh.wikipedia.org/wiki/Showgate "wikilink")、[新潮社](https://zh.wikipedia.org/wiki/新潮社 "wikilink")、[馬多浩斯](https://zh.wikipedia.org/wiki/馬多浩斯 "wikilink")、[創通](../Page/創通.md "wikilink")）
 
 ### 主題曲
 

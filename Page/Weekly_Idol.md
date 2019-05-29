@@ -326,8 +326,7 @@ Girl》。而節目上所進行過的例子有：[EXID跳](https://zh.wikipedia.
 &
 Down》搭配[Seventeen的](../Page/Seventeen_\(組合\).md "wikilink")《Mansae》、[EXID跳](https://zh.wikipedia.org/wiki/EXID "wikilink")《Hot
 Pink》搭配[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")《Mr.
-Mr.》、[Red
-Velvet跳](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")《Russian
+Mr.》、[Red Velvet跳](../Page/Red_Velvet.md "wikilink")《Russian
 Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》。
 
   - **「和【該期來賓名稱】一起初次寫Profile/重寫Profile/又再寫Profile」**
@@ -681,7 +680,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>45</p></td>
 <td><p>5月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亨敦和大俊" title="wikilink">亨敦和大俊</a> <sup>1st</sup>（<a href="../Page/鄭亨敦.md" title="wikilink">鄭亨敦</a>、<a href="../Page/Defconn.md" title="wikilink">Defconn</a>）</p></td>
+<td><p><a href="../Page/亨敦和大俊.md" title="wikilink">亨敦和大俊</a> <sup>1st</sup>（<a href="../Page/鄭亨敦.md" title="wikilink">鄭亨敦</a>、<a href="../Page/Defconn.md" title="wikilink">Defconn</a>）</p></td>
 <td><p>本週偶像特別MC：<a href="../Page/Haha.md" title="wikilink">Haha</a>、<a href="https://zh.wikipedia.org/wiki/金孝靜" title="wikilink">孝琳</a>＆<a href="https://zh.wikipedia.org/wiki/姜智賢" title="wikilink">昭宥</a>（<a href="../Page/SISTAR.md" title="wikilink">SISTAR</a>）</p></td>
 </tr>
 <tr class="even">
@@ -796,7 +795,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>64</p></td>
 <td><p>10月10日</p></td>
-<td><p><a href="../Page/TASTY.md" title="wikilink">TASTY</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/亨敦和大俊" title="wikilink">亨敦和大俊</a> <sup>2nd</sup></p></td>
+<td><p><a href="../Page/TASTY.md" title="wikilink">TASTY</a> <sup>1st</sup>、<a href="../Page/亨敦和大俊.md" title="wikilink">亨敦和大俊</a> <sup>2nd</sup></p></td>
 <td><p>本週偶像特別MC：<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>（<a href="../Page/金聖圭.md" title="wikilink">聖圭</a>、<a href="https://zh.wikipedia.org/wiki/李浩沅" title="wikilink">Hoya</a>）</p></td>
 </tr>
 <tr class="odd">
@@ -937,7 +936,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>84</p></td>
 <td><p>2月27日</p></td>
-<td><p><a href="../Page/許閣.md" title="wikilink">許閣</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/亨敦和大俊" title="wikilink">亨敦和大俊</a> <sup>3rd</sup></p></td>
+<td><p><a href="../Page/許閣.md" title="wikilink">許閣</a> <sup>1st</sup>、<a href="../Page/亨敦和大俊.md" title="wikilink">亨敦和大俊</a> <sup>3rd</sup></p></td>
 <td><p>本週偶像MC兼職生：<a href="../Page/4minute.md" title="wikilink">4minute</a><a href="../Page/權昭賢.md" title="wikilink">昭賢</a>、<a href="../Page/BTOB.md" title="wikilink">BTOB</a><a href="../Page/鄭鎰勳.md" title="wikilink">鎰勳</a></p></td>
 </tr>
 <tr class="even">
@@ -1334,7 +1333,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>145</p></td>
 <td><p>5月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/100%_(組合)" title="wikilink">100%</a> <sup>2nd</sup>、<a href="https://zh.wikipedia.org/wiki/BESTie" title="wikilink">BESTie</a><sup>1st</sup> （<a href="../Page/有智.md" title="wikilink">有智除外</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/100%_(組合)" title="wikilink">100%</a> <sup>2nd</sup>、<a href="../Page/BESTie.md" title="wikilink">BESTie</a><sup>1st</sup> （<a href="../Page/有智.md" title="wikilink">有智除外</a>）</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1487,7 +1486,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>168</p></td>
 <td><p>10月15日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1589,7 +1588,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>181</p></td>
 <td><p>1月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/少年共和國" title="wikilink">少年共和國</a> <sup>1st</sup></p></td>
+<td><p><a href="../Page/少年共和國.md" title="wikilink">少年共和國</a> <sup>1st</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1802,7 +1801,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>9月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/APRIL_(女子團體)" title="wikilink">APRIL</a> <sup>1st</sup></p></td>
 <td><p>新人偶像育成特輯<br />
-「本週偶像」特別嘉賓：<a href="../Page/Rainbow_(音樂團體).md" title="wikilink">Rainbow</a>（<a href="https://zh.wikipedia.org/wiki/吳丞芽" title="wikilink">吳丞芽</a>、<a href="https://zh.wikipedia.org/wiki/金智淑_(RAINBOW)" title="wikilink">金智淑</a>）</p></td>
+「本週偶像」特別嘉賓：<a href="../Page/Rainbow_(音樂團體).md" title="wikilink">Rainbow</a>（<a href="../Page/吳丞芽.md" title="wikilink">吳丞芽</a>、<a href="https://zh.wikipedia.org/wiki/金智淑_(RAINBOW)" title="wikilink">金智淑</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>216</p></td>
@@ -1813,7 +1812,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>217</p></td>
 <td><p>9月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a> <sup>2nd</sup></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a> <sup>2nd</sup></p></td>
 <td><p>「本週偶像」1小時特輯</p></td>
 </tr>
 <tr class="odd">
@@ -1904,7 +1903,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>231</p></td>
 <td><p>12月30日</p></td>
 <td><p><a href="../Page/Apink.md" title="wikilink">Apink</a><a href="../Page/吳夏榮.md" title="wikilink">吳夏榮</a>、<a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a><a href="https://zh.wikipedia.org/wiki/權珉娥" title="wikilink">權珉娥</a>、<a href="../Page/VIXX.md" title="wikilink">VIXX</a> <a href="../Page/VIXX.md" title="wikilink">N</a></p></td>
-<td><p><strong>第5屆Weekly Idol Awards</strong>：<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a><br />
+<td><p><strong>第5屆Weekly Idol Awards</strong>：<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a><br />
 特別MC：<a href="../Page/Apink.md" title="wikilink">Apink</a><a href="../Page/尹普美.md" title="wikilink">尹普美</a></p></td>
 </tr>
 </tbody>
@@ -1989,7 +1988,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>242</p></td>
 <td><p>3月16日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a> <sup>3rd</sup></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a> <sup>3rd</sup></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2147,7 +2146,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>267</p></td>
 <td><p>9月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a> <sup>4th</sup></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a> <sup>4th</sup></p></td>
 <td><p>「本週偶像」1小時特輯</p></td>
 </tr>
 <tr class="odd">
@@ -2192,7 +2191,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>274</p></td>
 <td><p>10月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a> <sup>5th</sup></p></td>
-<td><p>「本週偶像」1小時特輯、<a href="https://zh.wikipedia.org/wiki/亨敦和大俊" title="wikilink">亨敦和大俊回歸公演</a><br />
+<td><p>「本週偶像」1小時特輯、<a href="../Page/亨敦和大俊.md" title="wikilink">亨敦和大俊回歸公演</a><br />
 <a href="../Page/定延.md" title="wikilink">定延下部缺席</a></p></td>
 </tr>
 <tr class="even">
@@ -2200,7 +2199,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <td><p>11月2日</p></td>
 <td><p>沒有嘉賓</p></td>
 <td><p>未播出片段<br />
-<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a> Unit、<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>、<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a>、<a href="../Page/Apink.md" title="wikilink">Apink</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
+<a href="../Page/I.O.I.md" title="wikilink">I.O.I</a> Unit、<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>、<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>、<a href="../Page/GOT7.md" title="wikilink">GOT7</a>、<a href="../Page/Apink.md" title="wikilink">Apink</a>、<a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>276</p></td>
@@ -2243,7 +2242,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="odd">
 <td><p>282</p></td>
 <td><p>12月21日</p></td>
-<td><p><a href="../Page/鄭承煥.md" title="wikilink">鄭承煥</a> <sup>1st</sup>、<a href="https://zh.wikipedia.org/wiki/權珍雅" title="wikilink">權珍雅</a> <sup>1st</sup>、<a href="../Page/李珍雅.md" title="wikilink">李珍雅</a> <sup>1st</sup>、 <sup>1st</sup></p></td>
+<td><p><a href="../Page/鄭承煥.md" title="wikilink">鄭承煥</a> <sup>1st</sup>、<a href="../Page/權珍雅.md" title="wikilink">權珍雅</a> <sup>1st</sup>、<a href="../Page/李珍雅.md" title="wikilink">李珍雅</a> <sup>1st</sup>、 <sup>1st</sup></p></td>
 <td><p><strong>圣诞节特輯</strong><br />
 「本週偶像」特別出演：<a href="https://zh.wikipedia.org/wiki/柳熙烈" title="wikilink">柳熙烈</a></p></td>
 </tr>
@@ -2559,7 +2558,7 @@ Roulette》搭配[金泫雅的](../Page/金泫雅.md "wikilink")《Bubble Pop》
 <tr class="even">
 <td><p>331</p></td>
 <td><p>11月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a> <sup>5th</sup></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a> <sup>5th</sup></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -2816,7 +2815,7 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="even">
 <td><p>369</p></td>
 <td><p>8月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a> <sup>6th</sup></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a> <sup>6th</sup></p></td>
 <td><p>暑假特辑5</p></td>
 </tr>
 <tr class="odd">
@@ -2840,7 +2839,7 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="even">
 <td><p>373</p></td>
 <td><p>9月19日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a> <sup>5th</sup>、<a href="https://zh.wikipedia.org/wiki/南優賢" title="wikilink">南優賢</a> <sup>1st</sup> (<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a> <sup>5th</sup>、<a href="../Page/南優賢.md" title="wikilink">南優賢</a> <sup>1st</sup> (<a href="../Page/INFINITE.md" title="wikilink">INFINITE</a>)</p></td>
 <td><p>秋天男女特辑</p></td>
 </tr>
 <tr class="odd">

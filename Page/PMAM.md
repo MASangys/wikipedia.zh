@@ -221,7 +221,7 @@ website = | production_website = }}
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黃迪揚" title="wikilink">黃迪揚</a></p></td>
+<p><a href="../Page/黃迪揚.md" title="wikilink">黃迪揚</a></p></td>
 <td><center>
 <p>車頭</p></td>
 <td><p>夜店咖，倪課等人的酒肉朋友</p></td>

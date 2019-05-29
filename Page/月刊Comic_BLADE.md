@@ -1446,7 +1446,7 @@ V.E.inc※/2199製委※※（協力）</span></p></td>
 </tr>
 <tr class="even">
 <td><p>143</p></td>
-<td><p><span style="display:none">えむすりい そのくろきはかね</span> <strong><a href="https://zh.wikipedia.org/wiki/M3～其為黑鋼～" title="wikilink">M3～其為黑鋼～</a></strong></p></td>
+<td><p><span style="display:none">えむすりい そのくろきはかね</span> <strong><a href="../Page/M3～其為黑鋼～.md" title="wikilink">M3～其為黑鋼～</a></strong></p></td>
 <td><p><span style="display:none">みなとがわ かすおみ</span> 港川一臣 <span style="font-size:90%;">（漫画）</span></p></td>
 <td><p><span style="display:none">さてらいと</span> <a href="https://zh.wikipedia.org/wiki/サテライト_(アニメ制作会社)" title="wikilink">サテライト</a> <span style="font-size:90%;">（監修）</span></p></td>
 <td><p>2014.06</p></td>

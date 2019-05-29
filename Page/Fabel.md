@@ -129,7 +129,7 @@ One](https://zh.wikipedia.org/wiki/We_Are_One "wikilink")》，也獲得了[2013
 <tr class="even">
 <td style="text-align: left;"><p><strong>2014</strong></p></td>
 <td style="text-align: left;"><ul>
-<li><a href="https://zh.wikipedia.org/wiki/2014年度新城國語力頒獎禮得獎名單" title="wikilink">新城國語力頒獎禮2014</a> - 新城國語新勢力組合（香港組合）</li>
+<li><a href="../Page/2014年度新城國語力頒獎禮得獎名單.md" title="wikilink">新城國語力頒獎禮2014</a> - 新城國語新勢力組合（香港組合）</li>
 </ul></td>
 </tr>
 <tr class="odd">

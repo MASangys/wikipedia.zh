@@ -38,7 +38,7 @@ Vienna所製作的遊戲則不在此列出。
 | 年份                        | 遊戲                                                    | 平台                                                             |
 | ------------------------- | ----------------------------------------------------- | -------------------------------------------------------------- |
 | **neo Software**\[15\]    |                                                       |                                                                |
-| 2001                      | [江湖本色](https://zh.wikipedia.org/wiki/江湖本色 "wikilink") | [Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")          |
+| 2001                      | [江湖本色](https://zh.wikipedia.org/wiki/江湖本色 "wikilink") | [Xbox](../Page/Xbox.md "wikilink")                             |
 | **Rockstar Vienna**\[16\] |                                                       |                                                                |
 | 2003                      | [俠盜獵車手III](../Page/俠盜獵車手III.md "wikilink")            | Xbox                                                           |
 | 2003                      | [俠盜獵車手：罪城](../Page/俠盜獵車手：罪惡城市.md "wikilink")          | Xbox                                                           |

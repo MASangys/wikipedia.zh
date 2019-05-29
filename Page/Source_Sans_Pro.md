@@ -8,7 +8,7 @@ Benton所設計的Gothics系列字體所啟發。它提供了六種字重（常�
 
   - Source Sans Pro，Adobe開放原始碼字體家族的第一個成員。
   - [Source Code
-    Pro](https://zh.wikipedia.org/wiki/Source_Code_Pro "wikilink")，Adobe開放原始碼字體家族的第二個成員。
+    Pro](../Page/Source_Code_Pro.md "wikilink")，Adobe開放原始碼字體家族的第二個成員。
   - [Source Serif
     Pro](../Page/Source_Serif_Pro.md "wikilink")，Adobe開放原始碼字體家族的第三個成員。
   - [Source Han

@@ -16,7 +16,7 @@ X等作業系統](https://zh.wikipedia.org/wiki/OS_X "wikilink")，Linux尚未�
 
 ## 參見
 
-  - [System.map](https://zh.wikipedia.org/wiki/System.map "wikilink")
+  - [System.map](../Page/System.map.md "wikilink")
 
 ## 參考資料
 

@@ -126,7 +126,7 @@ Nobody*）是於2006年改编自日本漫畫家[久保帶人作品](https://zh.w
 </tr>
 <tr class="even">
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/BLEACH角色列表#浦原商店" title="wikilink">握菱鐵齋</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/梁田清之" title="wikilink">梁田清之</a></p></td>
+<td><p><a href="../Page/梁田清之.md" title="wikilink">梁田清之</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>'''<a href="https://zh.wikipedia.org/wiki/BLEACH角色列表#浦原商店" title="wikilink">花刈甚太</a></p></td>

@@ -66,10 +66,10 @@
 單站</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/米蘭–聖雷莫" title="wikilink">米蘭–聖雷莫</a><br />
+<td><p><a href="../Page/米蘭–聖雷莫.md" title="wikilink">米蘭–聖雷莫</a><br />
  <a href="https://zh.wikipedia.org/wiki/根特–韋弗爾海姆" title="wikilink">根特–韋弗爾海姆</a><br />
  <a href="../Page/環法蘭德斯賽.md" title="wikilink">環法蘭德斯賽</a><br />
- <a href="https://zh.wikipedia.org/wiki/巴黎–魯貝" title="wikilink">巴黎–魯貝</a><br />
+ <a href="../Page/巴黎–魯貝.md" title="wikilink">巴黎–魯貝</a><br />
  <a href="https://zh.wikipedia.org/wiki/阿姆斯特黃金賽" title="wikilink">阿姆斯特黃金賽</a><br />
  <a href="../Page/列日–巴斯托涅–列日.md" title="wikilink">列日–巴斯托涅–列日</a><br />
  <a href="https://zh.wikipedia.org/wiki/魁北克自由車大獎賽" title="wikilink">魁北克自由車大獎賽</a><br />
@@ -97,7 +97,7 @@
 </tbody>
 </table>
 
-2017年10月，由UCI授权，[万达体育在未来](https://zh.wikipedia.org/wiki/万达集团 "wikilink")5年内将在广西举办[环广西公路自行车世界巡回赛](../Page/环广西公路自行车世巡赛.md "wikilink")，届时，女子世巡赛单日赛也会穿插其中。10月19日，2017格力-环广西公路自行车世界巡回赛在广西壮族自治区北海市海滩公园正式开幕。天空车队（英国）、巴林美利达车队（巴林）、BMC车队（美国）等来自全球的18支车队参加。\[3\]
+2017年10月，由UCI授权，[万达体育在未来](../Page/万达集团.md "wikilink")5年内将在广西举办[环广西公路自行车世界巡回赛](../Page/环广西公路自行车世巡赛.md "wikilink")，届时，女子世巡赛单日赛也会穿插其中。10月19日，2017格力-环广西公路自行车世界巡回赛在广西壮族自治区北海市海滩公园正式开幕。天空车队（英国）、巴林美利达车队（巴林）、BMC车队（美国）等来自全球的18支车队参加。\[3\]
 
 ## 紀錄
 
@@ -402,7 +402,7 @@
 <td><p> <a href="https://zh.wikipedia.org/wiki/格雷格·范·阿韦马特" title="wikilink">Van Avermaet</a> (1/6)</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/米蘭–聖雷莫" title="wikilink">Milan–San Remo</a></strong></p></td>
+<td><p><strong><a href="../Page/米蘭–聖雷莫.md" title="wikilink">Milan–San Remo</a></strong></p></td>
 <td><p><a href="../Page/马克·卡文迪什.md" title="wikilink">Cavendish</a></p></td>
 <td><p> <a href="https://zh.wikipedia.org/wiki/Óscar_Freire" title="wikilink">Freire</a></p></td>
 <td><p> <a href="https://zh.wikipedia.org/wiki/Matthew_Goss" title="wikilink">Goss</a> (2/2)</p></td>
@@ -468,7 +468,7 @@
 <td><p><a href="../Page/阿尔伯托·康塔多.md" title="wikilink">Contador</a> (9/9)</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/巴黎–魯貝" title="wikilink">Paris–Roubaix</a></strong></p></td>
+<td><p><strong><a href="../Page/巴黎–魯貝.md" title="wikilink">Paris–Roubaix</a></strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/汤姆·布南" title="wikilink">Boonen</a> (1/6)</p></td>
 <td><p> <a href="../Page/法比安·坎切拉拉.md" title="wikilink">Cancellara</a> (3/7)</p></td>
 <td><p> <a href="https://zh.wikipedia.org/wiki/Johan_Vansummeren" title="wikilink">Vansummeren</a></p></td>
@@ -726,7 +726,7 @@
 <td><p> <a href="https://zh.wikipedia.org/wiki/Michał_Kwiatkowski" title="wikilink">Kwiatkowski</a> (6/6)</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/米蘭–聖雷莫" title="wikilink">Milan–San Remo</a></strong></p></td>
+<td><p><strong><a href="../Page/米蘭–聖雷莫.md" title="wikilink">Milan–San Remo</a></strong></p></td>
 <td><p> <a href="https://zh.wikipedia.org/wiki/Michał_Kwiatkowski" title="wikilink">Kwiatkowski</a> (4/6)</p></td>
 <td><p> <a href="https://zh.wikipedia.org/wiki/溫琴佐·尼巴利" title="wikilink">Nibali</a> (9/9)</p></td>
 </tr>
@@ -761,7 +761,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/巴黎–魯貝" title="wikilink">Paris–Roubaix</a></strong></p></td>
+<td><p><strong><a href="../Page/巴黎–魯貝.md" title="wikilink">Paris–Roubaix</a></strong></p></td>
 <td><p> <a href="https://zh.wikipedia.org/wiki/格雷格·范·阿韦马特" title="wikilink">Van Avermaet</a> (6/6)</p></td>
 <td></td>
 </tr>

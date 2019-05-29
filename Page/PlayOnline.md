@@ -1,6 +1,6 @@
 [PlayOnline.gif](https://zh.wikipedia.org/wiki/File:PlayOnline.gif "fig:PlayOnline.gif")
 
-**PlayOnline**是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（今[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）创办的在线游戏服务，并且作为公司发行的在线電腦、[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")、[Xbox
+**PlayOnline**是由[史克威尔](https://zh.wikipedia.org/wiki/史克威尔 "wikilink")（今[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）创办的在线游戏服务，并且作为公司发行的在线電腦、[PlayStation](../Page/PlayStation.md "wikilink")、[Xbox
 360游戏的中心](../Page/Xbox_360.md "wikilink")。目前该服务支持的游戏仅有《[最终幻想XI](../Page/最终幻想XI.md "wikilink")》。服务曾经支持的游戏包括《[前线任务
 在线](https://zh.wikipedia.org/wiki/前线任务_在线 "wikilink")》、《[幻想大陆
 ～统治的指环～](https://zh.wikipedia.org/wiki/幻想大陆 "wikilink")》、《[Tetra

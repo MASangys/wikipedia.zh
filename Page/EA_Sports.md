@@ -1,7 +1,7 @@
 **EA Sports**（又作**EA
 SPORTS**）是[美商藝電旗下製造研發](https://zh.wikipedia.org/wiki/美商藝電 "wikilink")[體育](https://zh.wikipedia.org/wiki/體育 "wikilink")[电子游戏的品牌](../Page/电子游戏.md "wikilink")。前身是美商藝電的一個行銷噱頭，他們將嘗試仿造現實生活體育網絡自稱為「EA
 Sports
-Network」（EASN），並有著像是[約翰·麥登等的體育實況解說員的贊同](https://zh.wikipedia.org/wiki/約翰·麥登 "wikilink")，很快地便成為了他們旗下的一個子品牌，並發行許多的系列遊戲，像是[勁爆美國職籃](https://zh.wikipedia.org/wiki/勁爆美國職籃 "wikilink")、[國際足盟大賽系列](https://zh.wikipedia.org/wiki/國際足盟大賽系列 "wikilink")、、[勁爆美式足球還有](https://zh.wikipedia.org/wiki/勁爆美式足球 "wikilink")。[FIFA系列銷售最好的EA](https://zh.wikipedia.org/wiki/FIFA "wikilink")
+Network」（EASN），並有著像是[約翰·麥登等的體育實況解說員的贊同](../Page/約翰·麥登.md "wikilink")，很快地便成為了他們旗下的一個子品牌，並發行許多的系列遊戲，像是[勁爆美國職籃](https://zh.wikipedia.org/wiki/勁爆美國職籃 "wikilink")、[國際足盟大賽系列](https://zh.wikipedia.org/wiki/國際足盟大賽系列 "wikilink")、、[勁爆美式足球還有](https://zh.wikipedia.org/wiki/勁爆美式足球 "wikilink")。[FIFA系列銷售最好的EA](https://zh.wikipedia.org/wiki/FIFA "wikilink")
 Sports系列遊戲，有超過1億份的銷售量。\[1\]
 
 在這個品牌下的多數遊戲是由美商藝電位於[加拿大](../Page/加拿大.md "wikilink")[不列顛哥倫比亞](https://zh.wikipedia.org/wiki/不列顛哥倫比亞 "wikilink")[本那比的工作室](https://zh.wikipedia.org/wiki/本那比 "wikilink")[EA

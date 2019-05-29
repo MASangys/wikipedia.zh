@@ -38,8 +38,7 @@ Desire系列**是[宏達電旗下的產品系列](https://zh.wikipedia.org/wiki/
     310](https://zh.wikipedia.org/wiki/HTC_Desire_310 "wikilink")
   - [Desire
     320](https://zh.wikipedia.org/wiki/HTC_Desire_320 "wikilink")
-  - [Desire
-    510](https://zh.wikipedia.org/wiki/HTC_Desire_510 "wikilink")
+  - [Desire 510](../Page/HTC_Desire_510.md "wikilink")
   - [Desire
     512](https://zh.wikipedia.org/wiki/HTC_Desire_512 "wikilink")
   - [Desire 516（Desire 516C·Desire 516G·Desire
@@ -54,7 +53,7 @@ Desire系列**是[宏達電旗下的產品系列](https://zh.wikipedia.org/wiki/
   - [Desire 816（Desire 816 Wefly光速版·Desire
     816G）](../Page/HTC_Desire_816.md "wikilink")
   - [Desire 820（Desire 820G+·Desire 820Q·Desire 820S·Desire
-    820S全民飛揚版）](https://zh.wikipedia.org/wiki/HTC_Desire_820 "wikilink")
+    820S全民飛揚版）](../Page/HTC_Desire_820.md "wikilink")
   - [Desire Eye](../Page/HTC_Desire_Eye.md "wikilink")
   - [Desire
     326G](https://zh.wikipedia.org/wiki/HTC_Desire_326G "wikilink")

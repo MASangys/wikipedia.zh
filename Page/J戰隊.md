@@ -75,7 +75,7 @@ Team**，並由周杰倫擔任董事长。
   - 6月18日：**DinTer**與**叉燒**離任策略分析師\[13\]\[14\]。
   - 7月5日：前Najin總教練沈成洙加入執教\[15\]。
   - 8月16日：GPL 2014夏季總決賽冠軍TPA直落三奪得勝利，再次代表台灣爭奪世界冠軍。
-  - 9月21日：TPA於[英雄联盟2014赛季全球总决赛的B組小組賽的成績為](https://zh.wikipedia.org/wiki/英雄联盟2014赛季全球总决赛 "wikilink")1勝5負，無緣晉級，其最終排名為第14至第16名，共獲得25,000美元獎金。
+  - 9月21日：TPA於[英雄联盟2014赛季全球总决赛的B組小組賽的成績為](../Page/英雄联盟2014赛季全球总决赛.md "wikilink")1勝5負，無緣晉級，其最終排名為第14至第16名，共獲得25,000美元獎金。
   - 11月6日：**BeBe**宣布退役，卸下TPA的隊長與AD職位。**Winds**接手隊長一位。
   - 11月13日：新成員**Lupin**加入，擔任位置為AD Carry。
   - 12月12日：TPA以2:0擊敗[yoeFW閃電狼](https://zh.wikipedia.org/wiki/yoe閃電狼 "wikilink")，拿下IEM台北站資格賽敗部冠軍，並取得資格。
@@ -461,7 +461,7 @@ Team**，並由周杰倫擔任董事长。
 </tr>
 <tr class="odd">
 <td><p>Toyz</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/劉偉健" title="wikilink">劉偉健</a></p></td>
+<td><p><a href="../Page/劉偉健.md" title="wikilink">劉偉健</a></p></td>
 <td><p>Mid</p></td>
 <td></td>
 <td><p>1992年6月9日</p></td>

@@ -219,7 +219,7 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/涂世旻" title="wikilink">-{涂}-世旻</a></p></td>
+<p><a href="../Page/涂世旻.md" title="wikilink">-{涂}-世旻</a></p></td>
 <td><center>
 <p>王牧群</p></td>
 <td><p>穩贏樂團鼓手、是廖巧如的男朋友（及後為未婚夫和丈夫）。知道周書宇離開BS的事，怕樂團正式解散，現在是會計師，當他評估周書宇的財政狀況時，告訴他負資產，但跟廖巧如願意借錢給他，令周書宇避免被逼宣告破產。之後當周書宇和林維真認定戀情後，他與廖巧如宣布婚禮的消息。婚禮後想周書宇和楊立達和好，依然保存著第一張樂器的尾款單票。當時因為三位是捐血後趕到籃球場，把尾款遞給運貨工人，樂團練習後昏倒。但為了過安穩的生活，和廖巧如成為第一批離隊的團員。</p></td>
@@ -921,7 +921,7 @@
 | 平均收視率                                                                                              | 0.57  |                                  |      |         |     |
 |                                                                                                    |       |                                  |      |         |     |
 
-  - <small>同時段劇集：[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")《[回到愛以前](../Page/回到愛以前.md "wikilink")》／《[愛上兩個我](../Page/愛上兩個我.md "wikilink")》、[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")《[主君的太陽](../Page/主君的太陽.md "wikilink")》／《[勇敢說出我愛你](https://zh.wikipedia.org/wiki/勇敢說出我愛你 "wikilink")》、[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")《[真愛配方](../Page/真愛配方.md "wikilink")》／《[你照亮我星球](../Page/你照亮我星球.md "wikilink")》
+  - <small>同時段劇集：[台視](https://zh.wikipedia.org/wiki/台視 "wikilink")《[回到愛以前](../Page/回到愛以前.md "wikilink")》／《[愛上兩個我](../Page/愛上兩個我.md "wikilink")》、[中視](https://zh.wikipedia.org/wiki/中視 "wikilink")《[主君的太陽](../Page/主君的太陽.md "wikilink")》／《[勇敢說出我愛你](../Page/勇敢說出我愛你.md "wikilink")》、[民視](https://zh.wikipedia.org/wiki/民視 "wikilink")《[真愛配方](../Page/真愛配方.md "wikilink")》／《[你照亮我星球](../Page/你照亮我星球.md "wikilink")》
   - 由[AGB尼爾森調查](https://zh.wikipedia.org/wiki/AGB尼爾森 "wikilink")，調查範圍是四歲以上收看電視之觀眾。
   - 資料來源：[中時娛樂](https://zh.wikipedia.org/wiki/中時娛樂 "wikilink")</small>
 

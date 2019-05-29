@@ -1,7 +1,7 @@
-是1991年[超级任天堂平台](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》的[任天堂DS](../Page/任天堂DS.md "wikilink")[重制版](https://zh.wikipedia.org/wiki/电子游戏重制 "wikilink")。游戏作为[最终幻想系列](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")20周年纪念的一部分，于2007年12月20日在日本发行，2008年7月22日在北美发行，2008年9月在欧洲和澳洲发行。
+是1991年[超级任天堂平台](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》的[任天堂DS](../Page/任天堂DS.md "wikilink")[重制版](../Page/电子游戏重制.md "wikilink")。游戏作为[最终幻想系列](https://zh.wikipedia.org/wiki/最终幻想系列 "wikilink")20周年纪念的一部分，于2007年12月20日在日本发行，2008年7月22日在北美发行，2008年9月在欧洲和澳洲发行。
 
 游戏由[Matrix
-Software开发](../Page/Matrix_Software.md "wikilink")，该团队亦是《最终幻想III》[3D重制版的开发团队](https://zh.wikipedia.org/wiki/最终幻想III#3D重制版 "wikilink")。游戏由原版开发团队监督：[时田贵司担任](../Page/时田贵司.md "wikilink")[执行制作人兼总监](https://zh.wikipedia.org/wiki/执行制作人 "wikilink")，浅野智也担任制作人，[伊藤裕之担任战斗设计师](https://zh.wikipedia.org/wiki/伊藤裕之 "wikilink")。动画师[金田伊功绘制新](../Page/金田伊功.md "wikilink")[过场动画分镜](https://zh.wikipedia.org/wiki/Cutscene "wikilink")。
+Software开发](../Page/Matrix_Software.md "wikilink")，该团队亦是《最终幻想III》[3D重制版的开发团队](https://zh.wikipedia.org/wiki/最终幻想III#3D重制版 "wikilink")。游戏由原版开发团队监督：[时田贵司担任](../Page/时田贵司.md "wikilink")[执行制作人兼总监](https://zh.wikipedia.org/wiki/执行制作人 "wikilink")，浅野智也担任制作人，[伊藤裕之担任战斗设计师](../Page/伊藤裕之.md "wikilink")。动画师[金田伊功绘制新](../Page/金田伊功.md "wikilink")[过场动画分镜](https://zh.wikipedia.org/wiki/Cutscene "wikilink")。
 
 游戏获媒体与爱好者的好评；评论称赞游戏相当忠实于原作，并在游戏玩法和剧情元素上做了扩展\[1\]\[2\]\[3\]。
 

@@ -275,7 +275,7 @@ Lady正式解散。
 <td><p><a href="../Page/衛視中文台.md" title="wikilink">衛視中文台</a></p></td>
 <td><p><a href="../Page/麻辣天后宮.md" title="wikilink">麻辣天后宮</a></p></td>
 <td><p>超強團體舞爭霸賽！頂尖高手舞力殊死戰！</p></td>
-<td><p><a href="../Page/孫協志.md" title="wikilink">孫協志</a>、<a href="../Page/陳建寧.md" title="wikilink">陳建寧</a>、A May、超有種樂團(<a href="https://zh.wikipedia.org/wiki/江莛鈞" title="wikilink">Terry</a>、<a href="https://zh.wikipedia.org/wiki/黃柏語" title="wikilink">黃柏語</a>、<a href="https://zh.wikipedia.org/wiki/布孟璇" title="wikilink">布孟璇</a>、<a href="https://zh.wikipedia.org/wiki/師鈺婷" title="wikilink">師鈺婷</a>、<a href="../Page/陳思函.md" title="wikilink">陳思函</a>)、<a href="../Page/2*Sweet.md" title="wikilink">2*Sweet</a>、<a href="../Page/台灣女孩.md" title="wikilink">台灣女孩</a>、<strong>Sun Lady</strong>、J.K Star</p></td>
+<td><p><a href="../Page/孫協志.md" title="wikilink">孫協志</a>、<a href="../Page/陳建寧.md" title="wikilink">陳建寧</a>、A May、超有種樂團(<a href="https://zh.wikipedia.org/wiki/江莛鈞" title="wikilink">Terry</a>、<a href="../Page/黃柏語.md" title="wikilink">黃柏語</a>、<a href="https://zh.wikipedia.org/wiki/布孟璇" title="wikilink">布孟璇</a>、<a href="https://zh.wikipedia.org/wiki/師鈺婷" title="wikilink">師鈺婷</a>、<a href="../Page/陳思函.md" title="wikilink">陳思函</a>)、<a href="../Page/2*Sweet.md" title="wikilink">2*Sweet</a>、<a href="../Page/台灣女孩.md" title="wikilink">台灣女孩</a>、<strong>Sun Lady</strong>、J.K Star</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013-6-1</p></td>
@@ -556,7 +556,7 @@ Lady正式解散。
 <td><p>美麗華1樓水舞廣場</p></td>
 <td><p>主持人：<a href="https://zh.wikipedia.org/wiki/大愷" title="wikilink">大愷</a><br />
 表演名單：<strong>Sun Lady</strong>、<a href="../Page/慢慢說樂團.md" title="wikilink">慢慢說樂團</a>(<a href="../Page/利得彙.md" title="wikilink">利得彙</a>、<a href="https://zh.wikipedia.org/wiki/沈志方" title="wikilink">沈志方</a>)、<a href="../Page/李玉璽.md" title="wikilink">李玉璽</a>、<a href="../Page/林凡.md" title="wikilink">林凡</a>、<a href="https://zh.wikipedia.org/wiki/孫盛希" title="wikilink">孫盛希</a><br />
-<a href="https://zh.wikipedia.org/wiki/陳零九" title="wikilink">陳零九</a>、<a href="../Page/李昶俊.md" title="wikilink">Echo</a></p></td>
+<a href="../Page/陳零九.md" title="wikilink">陳零九</a>、<a href="../Page/李昶俊.md" title="wikilink">Echo</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015-3-8</p></td>

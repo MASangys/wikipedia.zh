@@ -27,8 +27,7 @@ Zim 支持许多插件：
 
   - 公式（利用 [LaTeX](https://zh.wikipedia.org/wiki/LaTeX "wikilink") 和
     [dvipng](https://zh.wikipedia.org/wiki/dvipng "wikilink")）（Windows
-    下可以利用 [TeX
-    Live](https://zh.wikipedia.org/wiki/TeX_Live "wikilink") 来安装 LaTeX 和
+    下可以利用 [TeX Live](../Page/TeX_Live.md "wikilink") 来安装 LaTeX 和
     dvipng）
   - 作图（利用 [GNU R](../Page/R语言.md "wikilink") 或
     [Gnuplot](../Page/Gnuplot.md "wikilink")）

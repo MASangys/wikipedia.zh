@@ -10,7 +10,7 @@ two.（我的下面大得足以把你的屁股裂成两半。）”的映射。\
 
 ## 评价
 
-[滚石赞扬这首歌曲](https://zh.wikipedia.org/wiki/滚石 "wikilink")，称其为“一支彻头彻尾的[女权圣歌](https://zh.wikipedia.org/wiki/女权 "wikilink")”，并且赞扬了歌曲的“对性别角色以及男女性别和外形的双重标准的厌倦”主题\[5\]。英国《[数码间谍](https://zh.wikipedia.org/wiki/數碼間諜 "wikilink")》（Digital
+[滚石赞扬这首歌曲](https://zh.wikipedia.org/wiki/滚石 "wikilink")，称其为“一支彻头彻尾的[女权圣歌](https://zh.wikipedia.org/wiki/女权 "wikilink")”，并且赞扬了歌曲的“对性别角色以及男女性别和外形的双重标准的厌倦”主题\[5\]。英国《[数码间谍](../Page/數碼間諜.md "wikilink")》（Digital
 Spy）的Lewis Corner对歌曲给了好评，并称：
 
 > "We were only given a matter of days to get used to Lily Allen's

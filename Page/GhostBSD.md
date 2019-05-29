@@ -46,11 +46,11 @@ Turgeon將GhostBSD以2句版BSD许可证重新授權。GhostBSD也包含了一�
   -
   - [FreeBSD](../Page/FreeBSD.md "wikilink")
 
-  - [MidnightBSD](https://zh.wikipedia.org/wiki/MidnightBSD "wikilink")
+  - [MidnightBSD](../Page/MidnightBSD.md "wikilink")
 
   - [PC-BSD](https://zh.wikipedia.org/wiki/PC-BSD "wikilink")
 
-  - [DesktopBSD](https://zh.wikipedia.org/wiki/DesktopBSD "wikilink")
+  - [DesktopBSD](../Page/DesktopBSD.md "wikilink")
 
 {{-}}
 

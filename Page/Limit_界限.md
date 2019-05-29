@@ -105,7 +105,7 @@
   - 市之瀨春 -
     [工藤綾乃](../Page/工藤綾乃.md "wikilink")（粵語配音：[何晶晶](../Page/何晶晶.md "wikilink")）
   - 薄井千影 -
-    [增田有華](../Page/增田有華.md "wikilink")（粵語配音：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")）
+    [增田有華](../Page/增田有華.md "wikilink")（粵語配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）
   - 盛重亞梨紗 -
     [山下莉緒](../Page/山下莉緒.md "wikilink")（粵語配音：[黃淑芬](../Page/黃淑芬.md "wikilink")）
 
@@ -127,7 +127,7 @@
   - 神矢理子 -
     [古小路志音](https://zh.wikipedia.org/wiki/古小路志音 "wikilink")（粵語配音：[成瑤孆](../Page/成瑤孆.md "wikilink")）
   - 神矢優太郎 - （粵語配音：[張頌欣](../Page/張頌欣.md "wikilink")）
-  - 神矢真實子 - （粵語配音：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")）
+  - 神矢真實子 - （粵語配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
   - 盛重英次 - （粵語配音：[陳欣](../Page/陳欣_\(配音員\).md "wikilink")）
 
 #### 神奈川觀光巴士公司

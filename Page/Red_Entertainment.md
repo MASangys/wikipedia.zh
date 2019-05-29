@@ -77,7 +77,7 @@ Entertainment商标是在2002年7月17日发行的《[Gungrave](https://zh.wikip
 
 ### 索尼平台
 
-#### [PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+#### [PlayStation](../Page/PlayStation.md "wikilink")
 
   - 《[Galaxy Fraulein Yuna 3: Final
     Edition](https://zh.wikipedia.org/wiki/Galaxy_Fraulein_Yuna "wikilink")》
@@ -127,7 +127,7 @@ Entertainment商标是在2002年7月17日发行的《[Gungrave](https://zh.wikip
 
 ### 微软平台
 
-#### [Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")
+#### [Xbox](../Page/Xbox.md "wikilink")
 
   - 《[N.U.D.E.@ Natural Ultimate Digital
     Experiment](https://zh.wikipedia.org/wiki/N.U.D.E.@_Natural_Ultimate_Digital_Experiment "wikilink")》

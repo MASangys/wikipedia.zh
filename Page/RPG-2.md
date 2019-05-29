@@ -11,7 +11,7 @@ HEAT彈頭從槍管前面載入，然後拉低外露擊鎚，接著以開放式�
 
 ## 仿製
 
-  - [中國](../Page/中國.md "wikilink")－[56式火箭筒](https://zh.wikipedia.org/wiki/56式火箭筒 "wikilink")
+  - [中國](../Page/中國.md "wikilink")－[56式火箭筒](../Page/56式火箭筒.md "wikilink")
   - [越南](https://zh.wikipedia.org/wiki/越南 "wikilink")、[柬埔寨](../Page/柬埔寨.md "wikilink")－B-40、B-50
   - [埃及](../Page/埃及.md "wikilink")－PG-7
   - [南斯拉夫](https://zh.wikipedia.org/wiki/南斯拉夫 "wikilink")－[M57](https://zh.wikipedia.org/wiki/M57火箭筒 "wikilink")
@@ -100,7 +100,7 @@ HEAT彈頭從槍管前面載入，然後拉低外露擊鎚，接著以開放式�
   - [卡爾·古斯塔夫無後座力炮](../Page/卡爾·古斯塔夫無後座力炮.md "wikilink")
   - [巴祖卡火箭筒](../Page/巴祖卡火箭筒.md "wikilink")
   - [55 S 55無後座力炮](../Page/55_S_55無後座力炮.md "wikilink")
-  - [56式火箭筒](https://zh.wikipedia.org/wiki/56式火箭筒 "wikilink")
+  - [56式火箭筒](../Page/56式火箭筒.md "wikilink")
   - [RPG-7](../Page/RPG-7.md "wikilink")
   - [69式火箭筒](../Page/69式火箭筒.md "wikilink")
   - [火箭推進榴彈](../Page/火箭推進榴彈.md "wikilink")

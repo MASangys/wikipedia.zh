@@ -1,8 +1,7 @@
 **Windows 8.1**（开发代号Windows Blue）是[微软](../Page/微软.md "wikilink")[Windows
 8的升级版本](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，正式版於2013年10月17日公开发行。
 
-Windows 8.1後續系統為[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")。Windows
+Windows 8.1後續系統為[Windows 10](../Page/Windows_10.md "wikilink")。Windows
 8.1主流支援已於2018年1月9日到期，延伸支援於2023年1月10日到期。
 
 ## 开发歷史

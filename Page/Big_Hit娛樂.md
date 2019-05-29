@@ -76,7 +76,7 @@ Lab](http://belift.kr/?fbclid=IwAR2-vsj-Urt31AHCGtlKs1qE37-NCIQ-cL61n0QPMXAK7T9k
   - Supreme Boi
   - ADORA
   - [閔玧其](../Page/閔玧其.md "wikilink")
-  - [鄭號錫](https://zh.wikipedia.org/wiki/鄭號錫 "wikilink")
+  - [鄭號錫](../Page/鄭號錫.md "wikilink")
   - [金南俊](../Page/金南俊.md "wikilink")
 
 ### 編舞家
@@ -149,7 +149,7 @@ Lab](http://belift.kr/?fbclid=IwAR2-vsj-Urt31AHCGtlKs1qE37-NCIQ-cL61n0QPMXAK7T9k
   - 姜呂尚（[ATEEZ](../Page/ATEEZ.md "wikilink")）
   - [金相均](../Page/金相均.md "wikilink")（[JBJ95](https://zh.wikipedia.org/wiki/JBJ95 "wikilink")）\[20\]
   - 金民錫（[ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")）\[21\]
-  - 李秀雄（[少年共和國](https://zh.wikipedia.org/wiki/少年共和國 "wikilink")）\[22\]
+  - 李秀雄（[少年共和國](../Page/少年共和國.md "wikilink")）\[22\]
   - [李俊相](../Page/李俊相.md "wikilink")（[PLT](../Page/PLT_\(男子團體\).md "wikilink")）
 
 <!-- end list -->

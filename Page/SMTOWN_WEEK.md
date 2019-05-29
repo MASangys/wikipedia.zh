@@ -94,7 +94,7 @@ WEEK**是韓國娛樂公司[SM娛樂旗下歌手的接力演唱會](../Page/SM�
   - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
     （[Victoria](../Page/宋茜.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna](../Page/朴善英.md "wikilink")、[Sulli](https://zh.wikipedia.org/wiki/崔雪莉 "wikilink")、[Krystal](../Page/鄭秀晶.md "wikilink")）
   - [EXO](../Page/EXO.md "wikilink")
-    （[Xiumin](../Page/金珉錫.md "wikilink")、[Luhan](https://zh.wikipedia.org/wiki/鹿晗 "wikilink")、[Kris](../Page/吳亦凡.md "wikilink")、[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Lay](../Page/張藝興.md "wikilink")、[Baekhyun](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")、[Chanyeol](https://zh.wikipedia.org/wiki/朴燦烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")、[Tao](../Page/黃子韜.md "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鍾仁 "wikilink")、[Sehun](https://zh.wikipedia.org/wiki/吳世勳_\(藝人\) "wikilink")）
+    （[Xiumin](../Page/金珉錫.md "wikilink")、[Luhan](../Page/鹿晗.md "wikilink")、[Kris](../Page/吳亦凡.md "wikilink")、[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Lay](../Page/張藝興.md "wikilink")、[Baekhyun](https://zh.wikipedia.org/wiki/邊伯賢 "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")、[Chanyeol](https://zh.wikipedia.org/wiki/朴燦烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")、[Tao](../Page/黃子韜.md "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鍾仁 "wikilink")、[Sehun](https://zh.wikipedia.org/wiki/吳世勳_\(藝人\) "wikilink")）
 
 <!-- end list -->
 

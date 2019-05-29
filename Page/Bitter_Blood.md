@@ -30,7 +30,7 @@ Blood}-》（）。
     演 - 外號「Chaser」（追蹤高手）。對夥伴與自己都相當嚴厲，滿口大道理的cool guy。
   - 古雅久志
     演 -
-    [田中哲司](https://zh.wikipedia.org/wiki/田中哲司 "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）
+    [田中哲司](../Page/田中哲司.md "wikilink")（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）
     刑警。外號「Bachelor」（想結婚的[單身漢](../Page/單身.md "wikilink")）。射擊能力出眾。
   - 富樫薰
     演 -
@@ -64,7 +64,7 @@ Blood}-》（）。
 
   - 佐原忍
     演 -
-    [廣瀨鈴](../Page/廣瀨鈴.md "wikilink")（香港配音：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")）
+    [廣瀨鈴](../Page/廣瀨鈴.md "wikilink")（香港配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）
     佐原的妹妹，島尾的女兒。
   - 鍵山功太
     演 -
@@ -114,7 +114,7 @@ Blood}-》（）。
   - 第5話
 
 :\* 關根綾子（城之内的前交往對象） -
-[野波麻帆](https://zh.wikipedia.org/wiki/野波麻帆 "wikilink")（香港配音：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")）
+[野波麻帆](https://zh.wikipedia.org/wiki/野波麻帆 "wikilink")（香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
 
 :\* 城之内利也（運鈔車襲撃殺人事件在逃嫌犯） -
 [山中聰](https://zh.wikipedia.org/wiki/山中聰 "wikilink")
@@ -161,7 +161,7 @@ Blood}-》（）。
 :\* 稻木美和（稻木之妻） - 今泉周（香港配音：[沈小蘭](../Page/沈小蘭.md "wikilink")）
 
 :\* 稻木-{zh-cn:千賀子;zh-tw:千賀子;zh-hk:千香子;zh-sg:千賀子;zh-mo:千香子;}-（稻木的女兒） -
-[原涼子](../Page/原涼子.md "wikilink")（香港配音：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")）
+[原涼子](../Page/原涼子.md "wikilink")（香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
 
 :\* 小林龍太郎（青龍會組長） -
 [若尾義昭](https://zh.wikipedia.org/wiki/若尾義昭 "wikilink")（沒有對白）

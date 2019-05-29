@@ -1069,7 +1069,7 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 </tr>
 <tr class="even">
 <td><p>813</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FOX體育二台" title="wikilink">FOX Sport 2</a></p></td>
+<td><p><a href="../Page/FOX體育二台.md" title="wikilink">FOX Sport 2</a></p></td>
 <td></td>
 <td><p>FOX SPORTS 2全日24小時高清播放精彩球類運動及田徑項目，主要直播賽事包括： 高爾夫球大滿貫，美國女子職業高爾夫球巡迴賽，世界高球錦標賽，美國職棒大聯盟，國際田聯賽事，以及三項鐵人，馬拉松，美式桌球及飛鏢等運動節目。</p></td>
 </tr>
@@ -1099,19 +1099,19 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 </tr>
 <tr class="odd">
 <td><p>820</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/世界摔角娛樂網路服務" title="wikilink">WWE Network</a></p></td>
+<td><p><a href="../Page/世界摔角娛樂網路服務.md" title="wikilink">WWE Network</a></p></td>
 <td></td>
 <td><p>美国世界摔角娱乐（WWE）公司以订阅为基础的视频流媒体服务。</p></td>
 </tr>
 <tr class="even">
 <td><p>829<sub>HD</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FOX體育二台" title="wikilink">FOX Sports 2 HD</a></p></td>
+<td><p><a href="../Page/FOX體育二台.md" title="wikilink">FOX Sports 2 HD</a></p></td>
 <td><p>2017年11月16日</p></td>
 <td><p>本频道是FOX第二个高清超级体育频道，与FOX Sports 2同步播出。</p></td>
 </tr>
 <tr class="odd">
 <td><p>830<sub>HD</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/FOX體育三台" title="wikilink">FOX Sports 3 HD</a></p></td>
+<td><p><a href="../Page/FOX體育三台.md" title="wikilink">FOX Sports 3 HD</a></p></td>
 <td><p>本频道是FOX第三个高清超级体育频道，与FOX Sports 3同步播出。</p></td>
 <td></td>
 </tr>
@@ -1171,7 +1171,7 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
 </tr>
 <tr class="odd">
 <td><p>840<sub>HD</sub></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/世界摔角娛樂網路服務" title="wikilink">WWE Network HD</a></p></td>
+<td><p><a href="../Page/世界摔角娛樂網路服務.md" title="wikilink">WWE Network HD</a></p></td>
 <td></td>
 <td><p>美国世界摔角娱乐（WWE）公司以订阅为基础的视频流媒体服务的高清版本。</p></td>
 </tr>

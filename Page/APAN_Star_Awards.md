@@ -790,7 +790,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/趙寅成.md" title="wikilink">趙寅成</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/沒關係，是愛情啊" title="wikilink">沒關係，是愛情啊</a>》</p></td>
+<td><p>《<a href="../Page/沒關係，是愛情啊.md" title="wikilink">沒關係，是愛情啊</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -814,7 +814,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/劉亞仁.md" title="wikilink">劉亞仁</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/密會" title="wikilink">密會</a>》</p></td>
+<td><p>《<a href="../Page/密會.md" title="wikilink">密會</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -829,7 +829,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/趙寅成.md" title="wikilink">趙寅成</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/沒關係，是愛情啊" title="wikilink">沒關係，是愛情啊</a>》</p></td>
+<td><p>《<a href="../Page/沒關係，是愛情啊.md" title="wikilink">沒關係，是愛情啊</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -848,12 +848,12 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/孔曉振.md" title="wikilink">孔曉振</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/沒關係，是愛情啊" title="wikilink">沒關係，是愛情啊</a>》</p></td>
+<td><p>《<a href="../Page/沒關係，是愛情啊.md" title="wikilink">沒關係，是愛情啊</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金喜愛.md" title="wikilink">金喜愛</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/密會" title="wikilink">密會</a>》</p></td>
+<td><p>《<a href="../Page/密會.md" title="wikilink">密會</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -893,7 +893,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李棟旭.md" title="wikilink">李棟旭</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Hotel_King" title="wikilink">Hotel King</a>》</p></td>
+<td><p>《<a href="../Page/Hotel_King.md" title="wikilink">Hotel King</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -932,7 +932,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李幼梨.md" title="wikilink">李幼梨</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/來了！張寶利" title="wikilink">來了！張寶利</a>》</p></td>
+<td><p>《<a href="../Page/來了！張寶利.md" title="wikilink">來了！張寶利</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1012,7 +1012,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <tr class="even">
 <td><p><a href="../Page/高雅羅.md" title="wikilink">高雅羅</a></p></td>
 <td><p>《<a href="../Page/請回答1994.md" title="wikilink">請回答1994</a>》<br />
-《<a href="https://zh.wikipedia.org/wiki/你們被包圍了" title="wikilink">你們被包圍了</a>》</p></td>
+《<a href="../Page/你們被包圍了.md" title="wikilink">你們被包圍了</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1057,7 +1057,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金智勳.md" title="wikilink">金智勳</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/來了！張寶利" title="wikilink">來了！張寶利</a>》</p></td>
+<td><p>《<a href="../Page/來了！張寶利.md" title="wikilink">來了！張寶利</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1111,7 +1111,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/吳漣序.md" title="wikilink">吳漣序</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/來了！張寶利" title="wikilink">來了！張寶利</a>》</p></td>
+<td><p>《<a href="../Page/來了！張寶利.md" title="wikilink">來了！張寶利</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1130,7 +1130,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/金昌完.md" title="wikilink">金昌完</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/密會" title="wikilink">密會</a>》<br />
+<td><p>《<a href="../Page/密會.md" title="wikilink">密會</a>》<br />
 《<a href="../Page/來自星星的你.md" title="wikilink">來自星星的你</a>》</p></td>
 <td></td>
 </tr>
@@ -1141,13 +1141,13 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/朴赫權.md" title="wikilink">朴赫權</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/密會" title="wikilink">密會</a>》<br />
+<td><p>《<a href="../Page/密會.md" title="wikilink">密會</a>》<br />
 《<a href="../Page/Trot戀人.md" title="wikilink">Trot戀人</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/成東日" title="wikilink">成東日</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/沒關係，是愛情啊" title="wikilink">沒關係，是愛情啊</a>》<br />
+<td><p>《<a href="../Page/沒關係，是愛情啊.md" title="wikilink">沒關係，是愛情啊</a>》<br />
 《<a href="../Page/請回答1994.md" title="wikilink">請回答1994</a>》</p></td>
 <td></td>
 </tr>
@@ -1178,8 +1178,8 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金惠恩.md" title="wikilink">金惠恩</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/密會" title="wikilink">密會</a>》<br />
-《<a href="https://zh.wikipedia.org/wiki/Triangle_(電視劇)" title="wikilink">Triangle</a>》</p></td>
+<td><p>《<a href="../Page/密會.md" title="wikilink">密會</a>》<br />
+《<a href="../Page/Triangle_(電視劇).md" title="wikilink">Triangle</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1214,7 +1214,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/都暻秀" title="wikilink">都暻秀</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/沒關係，是愛情啊" title="wikilink">沒關係，是愛情啊</a>》</p></td>
+<td><p>《<a href="../Page/沒關係，是愛情啊.md" title="wikilink">沒關係，是愛情啊</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1238,7 +1238,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <tr class="odd">
 <td><p><a href="../Page/安宰賢.md" title="wikilink">安宰賢</a></p></td>
 <td><p>《<a href="../Page/來自星星的你.md" title="wikilink">來自星星的你</a>》<br />
-《<a href="https://zh.wikipedia.org/wiki/你們被包圍了" title="wikilink">你們被包圍了</a>》</p></td>
+《<a href="../Page/你們被包圍了.md" title="wikilink">你們被包圍了</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1257,14 +1257,14 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/景收真.md" title="wikilink">景收真</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/密會" title="wikilink">密會</a>》<br />
+<td><p>《<a href="../Page/密會.md" title="wikilink">密會</a>》<br />
 《<a href="../Page/九數少年.md" title="wikilink">九數少年</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金瑟琪.md" title="wikilink">金瑟琪</a></p></td>
 <td><p>《<a href="../Page/戀愛的發現.md" title="wikilink">戀愛的發現</a>》<br />
-《<a href="https://zh.wikipedia.org/wiki/剩餘公主" title="wikilink">剩餘公主</a>》</p></td>
+《<a href="../Page/剩餘公主.md" title="wikilink">剩餘公主</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1323,7 +1323,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/金智怜.md" title="wikilink">金智-{怜}-</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/來了！張寶利" title="wikilink">來了！張寶利</a>》</p></td>
+<td><p>《<a href="../Page/來了！張寶利.md" title="wikilink">來了！張寶利</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1347,7 +1347,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/沒關係，是愛情啊" title="wikilink">沒關係，是愛情啊</a>》</p></td>
+<td><p>《<a href="../Page/沒關係，是愛情啊.md" title="wikilink">沒關係，是愛情啊</a>》</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1414,7 +1414,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/鄭成珠.md" title="wikilink">鄭成珠</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/密會" title="wikilink">密會</a>》</p></td>
+<td><p>《<a href="../Page/密會.md" title="wikilink">密會</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1598,7 +1598,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/朴信惠" title="wikilink">朴信惠</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/皮諾丘_(電視劇)" title="wikilink">皮諾丘</a>》</p></td>
+<td><p>《<a href="../Page/皮諾丘_(電視劇).md" title="wikilink">皮諾丘</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1677,7 +1677,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/韓智慧.md" title="wikilink">韓智慧</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/湔雪的魔女" title="wikilink">湔雪的魔女</a>》</p></td>
+<td><p>《<a href="../Page/湔雪的魔女.md" title="wikilink">湔雪的魔女</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1702,7 +1702,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/李相侖.md" title="wikilink">李相侖</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/詐欺遊戲_(韓國電視劇)" title="wikilink">詐欺遊戲</a>》<br />
+<td><p>《<a href="../Page/詐欺遊戲_(韓國電視劇).md" title="wikilink">詐欺遊戲</a>》<br />
 《<a href="../Page/第二個二十歲.md" title="wikilink">第二個二十歲</a>》</p></td>
 <td></td>
 </tr>
@@ -1718,7 +1718,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/池昌旭.md" title="wikilink">池昌旭</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Healer" title="wikilink">Healer</a>》</p></td>
+<td><p>《<a href="../Page/Healer.md" title="wikilink">Healer</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1797,7 +1797,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/河錫辰.md" title="wikilink">河錫辰</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/湔雪的魔女" title="wikilink">湔雪的魔女</a>》</p></td>
+<td><p>《<a href="../Page/湔雪的魔女.md" title="wikilink">湔雪的魔女</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1905,7 +1905,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/都知嫄.md" title="wikilink">都知嫄</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Healer" title="wikilink">Healer</a>》<br />
+<td><p>《<a href="../Page/Healer.md" title="wikilink">Healer</a>》<br />
 《<a href="https://zh.wikipedia.org/wiki/不善良的女人們" title="wikilink">不善良的女人們</a>》</p></td>
 <td></td>
 </tr>
@@ -1921,7 +1921,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃石正" title="wikilink">黃石正</a></p></td>
+<td><p><a href="../Page/黃石正.md" title="wikilink">黃石正</a></p></td>
 <td><p>《<a href="../Page/一起吃飯吧2.md" title="wikilink">一起吃飯吧2</a>》<br />
 《<a href="https://zh.wikipedia.org/wiki/她很漂亮_(韓國電視劇)" title="wikilink">她很漂亮</a>》</p></td>
 <td></td>
@@ -1951,7 +1951,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a></p></td>
+<td><p><a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/明日如歌" title="wikilink">明日如歌</a>》<br />
 《<a href="../Page/記得你.md" title="wikilink">記得你</a>》</p></td>
 <td></td>
@@ -1998,7 +1998,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/林智妍" title="wikilink">林智妍</a></p></td>
+<td><p><a href="../Page/林智妍.md" title="wikilink">林智妍</a></p></td>
 <td><p>《<a href="../Page/上流社會_(電視劇).md" title="wikilink">上流社會</a>》</p></td>
 <td></td>
 </tr>
@@ -2111,7 +2111,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/趙秀沅.md" title="wikilink">趙秀沅</a></p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/皮諾丘_(電視劇)" title="wikilink">皮諾丘</a>》<br />
+<td><p>《<a href="../Page/皮諾丘_(電視劇).md" title="wikilink">皮諾丘</a>》<br />
 《<a href="../Page/愛你的時間.md" title="wikilink">愛你的時間</a>》</p></td>
 <td></td>
 </tr>
@@ -2175,7 +2175,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <tr class="odd">
 <td><p><a href="../Page/Roy_Kim.md" title="wikilink">Roy Kim</a></p></td>
 <td><p>Pinocchio<br />
-《<a href="https://zh.wikipedia.org/wiki/皮諾丘_(電視劇)" title="wikilink">皮諾丘</a>》</p></td>
+《<a href="../Page/皮諾丘_(電視劇).md" title="wikilink">皮諾丘</a>》</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -2193,7 +2193,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Xiumin" title="wikilink">Xiumin</a></p></td>
+<td><p><a href="../Page/Xiumin.md" title="wikilink">Xiumin</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/愛上挑戰" title="wikilink">愛上挑戰</a>》</p></td>
 <td></td>
 </tr>
@@ -2694,7 +2694,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴寶劍" title="wikilink">朴寶劍</a></p></td>
+<td><p><a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a></p></td>
 <td><p>《<a href="../Page/請回答1988.md" title="wikilink">請回答1988</a>》</p></td>
 <td></td>
 </tr>
@@ -3272,7 +3272,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/高聖熙" title="wikilink">高聖熙</a></p></td>
+<td><p><a href="../Page/高聖熙.md" title="wikilink">高聖熙</a></p></td>
 <td><p>《<a href="../Page/Mother_(韓國電視劇).md" title="wikilink">Mother</a>》</p></td>
 <td></td>
 </tr>

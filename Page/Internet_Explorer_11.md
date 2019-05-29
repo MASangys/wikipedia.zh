@@ -2,7 +2,7 @@
 Explorer的最後一个版本](../Page/Internet_Explorer.md "wikilink")，由[微软开发](../Page/微软.md "wikilink")。正式版本隨[Windows
 8.1於](../Page/Windows_8.1.md "wikilink")2013年10月17日發佈。2013年11月7日發佈於[Windows
 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")。2015年7月29日上市的[Windows
-10會改以](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Microsoft
+10會改以](../Page/Windows_10.md "wikilink")[Microsoft
 Edge作為預設瀏覽器](../Page/Microsoft_Edge.md "wikilink")，但為了相容性需求，Windows
 10仍會內建IE11供使用者選用。
 
@@ -75,28 +75,28 @@ Explorer 11開發者預覽版\[12\]\[13\]。
 <td></td>
 <td></td>
 <td><p>2015年7月29日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>[20]</p></td>
 <td><p>2016年8月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10年度更新版</a></p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10年度更新版</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>2018年6月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a> 2018 四月更新</p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> 2018 四月更新</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>2018年9月</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a> 2018 九月更新</p></td>
+<td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> 2018 九月更新</p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -4,7 +4,7 @@
 w/w）。
 因为Percoll层析液的粘度低于其他替代品，所以更加适合密度梯度类实验。与其他替代品相比，Percoll层析液具有相同的摩尔浓度，并且没有毒性，有助于细胞和其他成分。
 
-Percoll商标由[GE医疗注册并持有](https://zh.wikipedia.org/wiki/GE医疗 "wikilink")。
+Percoll商标由[GE医疗注册并持有](../Page/GE医疗.md "wikilink")。
 
 ## 在辅助生殖上的应用
 

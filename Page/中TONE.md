@@ -54,7 +54,7 @@
   - 2013.07.19　迴響LIVE HOUSE(台中)
   - 2013.07.20　浮現LIVE HOUSE(台中)
   - 2013.07.22　[貢寮海洋音樂祭](https://zh.wikipedia.org/wiki/貢寮海洋音樂祭 "wikilink")-熱浪舞臺(新北市-貢寮)
-  - 2013.08.25　[林投愛樂季](https://zh.wikipedia.org/wiki/林投 "wikilink")(澎湖)
+  - 2013.08.25　[林投愛樂季](../Page/林投.md "wikilink")(澎湖)
   - 2013.10.12　戰地藝術節君歌秀(金門)
   - 2013.11.08　迴響LIVE HOUSE(台中)
   - 2013.11.10　這牆LIVE HOUSE(台北)

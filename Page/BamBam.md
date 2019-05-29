@@ -12,7 +12,7 @@ Cool」的舞團（與[YG娛樂旗下女子組合](../Page/YG娛樂.md "wikilink
 Entertainer》亮相表演。BamBam尤其擅長模仿Rain的舞蹈，2007年在泰國參加Rain Cover
 Dance比賽獲得冠軍，雖然因此得到[JYP娛樂培訓的機會](../Page/JYP娛樂.md "wikilink")，但考慮到年紀太小，最終並未前往，直到後來開始拍攝廣告，才再次受到JYP娛樂星探的注意，受邀參加甄選\[4\]，2010年5月前往韓國JYP娛樂展開約3年半的練習生訓練生活。
 
-2013年底與[GOT7成員](../Page/GOT7.md "wikilink")[Jackson](../Page/王嘉爾.md "wikilink")、[Mark](../Page/段宜恩.md "wikilink")、[有謙在Mnet的生存計畫節目](https://zh.wikipedia.org/wiki/金有謙 "wikilink")《WIN》中作為JYP的練習生率先曝光，優異的舞蹈實力受到[YG娛樂創辦人](../Page/YG娛樂.md "wikilink")[梁鉉錫讚賞](../Page/梁鉉錫.md "wikilink")\[5\]，也令[朴軫永改變主意](../Page/朴軫永.md "wikilink")，讓原本不在出道名單中的Bam
+2013年底與[GOT7成員](../Page/GOT7.md "wikilink")[Jackson](../Page/王嘉爾.md "wikilink")、[Mark](../Page/段宜恩.md "wikilink")、[有謙在Mnet的生存計畫節目](../Page/金有謙.md "wikilink")《WIN》中作為JYP的練習生率先曝光，優異的舞蹈實力受到[YG娛樂創辦人](../Page/YG娛樂.md "wikilink")[梁鉉錫讚賞](../Page/梁鉉錫.md "wikilink")\[5\]，也令[朴軫永改變主意](../Page/朴軫永.md "wikilink")，讓原本不在出道名單中的Bam
 Bam追加成為GOT7的第七名成員。\[6\]
 
 ### GOT7活動
@@ -67,7 +67,7 @@ FEATHER」。
   - 2017年 [泰國Channel 3](../Page/泰國第3電視台.md "wikilink")《3 zap》
   - 2017年 泰國Channel 3《Today Show》
   - 2017年 泰國Workpoint
-    TV《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》泰國版，與[Mark](../Page/段宜恩.md "wikilink")、[榮宰](../Page/崔榮宰.md "wikilink")、[有謙](https://zh.wikipedia.org/wiki/金有謙 "wikilink")
+    TV《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》泰國版，與[Mark](../Page/段宜恩.md "wikilink")、[榮宰](../Page/崔榮宰.md "wikilink")、[有謙](../Page/金有謙.md "wikilink")
   - 2018年 泰國Workpoint TV《[蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》泰國版
   - 2018年 [泰國Channel
     7](../Page/7頻道_HD.md "wikilink")《[超人回來了](https://zh.wikipedia.org/wiki/超人回來了 "wikilink")》泰國版
@@ -100,7 +100,7 @@ FEATHER」。
   - 2016年 Mnet《M\!
     Countdown》（2016年10月27日），與[珍榮](../Page/朴珍榮.md "wikilink")、[金世正](https://zh.wikipedia.org/wiki/金世正 "wikilink")
   - 2018年 Mnet《M\!
-    Countdown》（2018年3月15日），與[Mark](../Page/段宜恩.md "wikilink")、[珍榮](../Page/朴珍榮.md "wikilink")、[有謙](https://zh.wikipedia.org/wiki/金有謙 "wikilink")
+    Countdown》（2018年3月15日），與[Mark](../Page/段宜恩.md "wikilink")、[珍榮](../Page/朴珍榮.md "wikilink")、[有謙](../Page/金有謙.md "wikilink")
   - 2018年 Mnet《M\!
     Countdown》（2018年9月20日），與[珍榮](../Page/朴珍榮.md "wikilink")
   - 2018年

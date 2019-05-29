@@ -155,7 +155,7 @@ NAL引起[陸軍的注意](../Page/大日本帝國陸軍.md "wikilink")，並賦
 
   - [中島飛機](../Page/中島飛機.md "wikilink")
   - [中島榮發動機](../Page/中島榮發動機.md "wikilink")
-  - [中島Ha-44發動機](https://zh.wikipedia.org/wiki/中島Ha-44發動機 "wikilink")
+  - [中島Ha-44發動機](../Page/中島Ha-44發動機.md "wikilink")
 
 ## 參考資料
 

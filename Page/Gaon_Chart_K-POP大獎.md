@@ -162,7 +162,7 @@ Chart頒獎禮音源部門評選新規則：2016年12個音源部門獲獎者的
 <td><p><a href="https://zh.wikipedia.org/wiki/臉紅的思春期" title="wikilink">臉紅的思春期</a></p></td>
 <td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p><a href="../Page/任昌丁.md" title="wikilink">任昌丁</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/IU" title="wikilink">IU</a></p></td>
 <td><p><a href="../Page/Jennie_(韓國歌手).md" title="wikilink">Jennie</a></p></td>
@@ -430,24 +430,24 @@ Chart頒獎禮專輯部門評選新規則：2016年4個專輯部門獲獎者的�
 | 7  | 2017年 | [太妍](../Page/太妍.md "wikilink") （女子部門）                                             |
 |    |       |                                                                                   |
 | 6  | 2016年 | [防彈少年團](../Page/防彈少年團.md "wikilink")（V LIVE Global Popularity獎）                   |
-| 5  | 2015年 | [Sehun](https://zh.wikipedia.org/wiki/Sehun "wikilink")（微博K-POP明星獎）               |
+| 5  | 2015年 | [Sehun](../Page/Sehun.md "wikilink")（微博K-POP明星獎）                                  |
 |    |       |                                                                                   |
 | 4  | 2014年 | [Super Junior](../Page/Super_Junior.md "wikilink")（微博K-POP明星獎）                    |
 | 3  | 2013年 | [Roy Kim](../Page/Roy_Kim.md "wikilink") & [鄭俊英](../Page/鄭俊英.md "wikilink")（卡拉OK） |
 
 ### 火熱表演獎
 
-| 屆數                                                  | 年份           | 藝人                                                                | 歌曲                 |
-| --------------------------------------------------- | ------------ | ----------------------------------------------------------------- | ------------------ |
-| 8                                                   | 2018年        | [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink")               | 《THANKS》、《Oh My\!》 |
-| 7                                                   | 2017年        | [NU'EST W](https://zh.wikipedia.org/wiki/NU'EST_W "wikilink")     | 《Where You At》     |
-| [GOT7](../Page/GOT7.md "wikilink")                  | 《You Are》    |                                                                   |                    |
-| 6                                                   | 2016年        | [INFINITE](../Page/INFINITE.md "wikilink")                        | 《The Eye》          |
-| [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink") | 《BOOMBOOM》   |                                                                   |                    |
-| 5                                                   | 2015年        | [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink") | 《Ice Cream Cake》   |
-| [VIXX](../Page/VIXX.md "wikilink")                  | 《Chained Up》 |                                                                   |                    |
-| 4                                                   | 2014年        | [AOA](../Page/AOA.md "wikilink")                                  | 《Like A Cat》       |
-| 3                                                   | 2013年        | [A Pink](https://zh.wikipedia.org/wiki/A_Pink "wikilink")         | 《Nonono》           |
+| 屆數                                                  | 年份           | 藝人                                                            | 歌曲                 |
+| --------------------------------------------------- | ------------ | ------------------------------------------------------------- | ------------------ |
+| 8                                                   | 2018年        | [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink")           | 《THANKS》、《Oh My\!》 |
+| 7                                                   | 2017年        | [NU'EST W](https://zh.wikipedia.org/wiki/NU'EST_W "wikilink") | 《Where You At》     |
+| [GOT7](../Page/GOT7.md "wikilink")                  | 《You Are》    |                                                               |                    |
+| 6                                                   | 2016年        | [INFINITE](../Page/INFINITE.md "wikilink")                    | 《The Eye》          |
+| [SEVENTEEN](../Page/Seventeen_\(組合\).md "wikilink") | 《BOOMBOOM》   |                                                               |                    |
+| 5                                                   | 2015年        | [Red Velvet](../Page/Red_Velvet.md "wikilink")                | 《Ice Cream Cake》   |
+| [VIXX](../Page/VIXX.md "wikilink")                  | 《Chained Up》 |                                                               |                    |
+| 4                                                   | 2014年        | [AOA](../Page/AOA.md "wikilink")                              | 《Like A Cat》       |
+| 3                                                   | 2013年        | [A Pink](https://zh.wikipedia.org/wiki/A_Pink "wikilink")     | 《Nonono》           |
 
 ### 發現潛力獎
 

@@ -3,7 +3,7 @@ G），簡稱**EF-G**，又稱**EF-2**，曾被稱爲**轉位酶**（translocase
 
 ## 功能
 
-EF-G在每一輪多肽鏈延長的結束階段催化tRNA和mRNA的轉位到核糖體的下游\[2\]。和[EF-Tu](https://zh.wikipedia.org/wiki/EF-Tu "wikilink")\*[tRNA](https://zh.wikipedia.org/wiki/tRNA "wikilink")\*[GTP三元複合物相似](https://zh.wikipedia.org/wiki/GTP "wikilink")，EF-G與核糖體結合時處於與GTP結合的狀態。
+EF-G在每一輪多肽鏈延長的結束階段催化tRNA和mRNA的轉位到核糖體的下游\[2\]。和[EF-Tu](../Page/EF-Tu.md "wikilink")\*[tRNA](https://zh.wikipedia.org/wiki/tRNA "wikilink")\*[GTP三元複合物相似](https://zh.wikipedia.org/wiki/GTP "wikilink")，EF-G與核糖體結合時處於與GTP結合的狀態。
 
 除了在翻译中的作用外，EF-G还与一起以GTP依赖方式促进核糖体再循环\[3\]。
 

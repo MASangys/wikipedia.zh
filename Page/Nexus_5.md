@@ -41,8 +41,7 @@ Nexus 5是市面上第一款搭配[Android](../Page/Android.md "wikilink") 4.4
 KitKat的智能手机。新加入了[HDR+照片拍摄模式](https://zh.wikipedia.org/wiki/HDR+ "wikilink")、[Google即时桌面](../Page/Google即时桌面.md "wikilink")、[屏幕录制程序和其他新功能和改进功能](https://zh.wikipedia.org/wiki/屏幕录制 "wikilink")。
 
 Nexus 5也是市面上第一款可以在手机设置的开发者模式中选择在[Android
-Runtime](https://zh.wikipedia.org/wiki/Android_Runtime "wikilink")\[4\]
-环境下运行的手机。
+Runtime](../Page/Android_Runtime.md "wikilink")\[4\] 环境下运行的手机。
 
 用于Nexus 5的Android 5.0 "Lollipop"
 开发者预览系统镜像于2014年6月26日[谷歌](https://zh.wikipedia.org/wiki/谷歌 "wikilink")

@@ -637,7 +637,7 @@ Head姐</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李晉強" title="wikilink">李晉強</a></p></td>
+<td><p><a href="../Page/李晉強.md" title="wikilink">李晉強</a></p></td>
 <td><p>文振朗</p></td>
 <td><p><strong>Gentl</strong></p></td>
 <td></td>
@@ -884,7 +884,7 @@ PPP 贊助者</p></td>
 </p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/阮政峰" title="wikilink">阮政峰</a></p></td>
+<td><p><a href="../Page/阮政峰.md" title="wikilink">阮政峰</a></p></td>
 <td><p>記　者</p></td>
 <td><p>（第17集）</p></td>
 </tr>

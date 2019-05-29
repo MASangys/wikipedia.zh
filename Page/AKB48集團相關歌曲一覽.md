@@ -581,7 +581,7 @@
       - B花园（）
       - 心的逃生游戏（）
       - 我倆有一腿（）
-    **37.[心意告示牌](https://zh.wikipedia.org/wiki/心意告示牌 "wikilink")** （）
+    **37.[心意告示牌](../Page/心意告示牌.md "wikilink")** （）
       - 心意告示牌（）
       - 某人投的球（）
       - 一個夏季的反抗期（）
@@ -1221,7 +1221,7 @@ DEBUT〜》广告曲（作詞：秋元康、作曲：）
       - 石榴的颗粒中有多少粒忧愁在内？（）
       - 道路为什么继续下去？（）
       - 一直一直在前方的今天（）
-    **14. [未來是什麼？](https://zh.wikipedia.org/wiki/未來是什麼？ "wikilink")**（）
+    **14. [未來是什麼？](../Page/未來是什麼？.md "wikilink")**（）
       - 未來是什麼？
       - Mayflower
       - GALAXY of DREAMS
@@ -1500,8 +1500,7 @@ style="font-size:108%;text-align:left" id="tN"|Team N
       - 读了太宰治吗?（
 
       -
-    2\.**[世界的中心是大阪
-    ～難波自治區～](https://zh.wikipedia.org/wiki/世界的中心是大阪_～難波自治區～ "wikilink")**（）
+    2\.**[世界的中心是大阪 ～難波自治區～](../Page/世界的中心是大阪_～難波自治區～.md "wikilink")**（）
       - 伊維薩女孩 （）
       - 「別在意學生手冊的照片」的法則 （）
       - 下電車 （）
@@ -1934,15 +1933,15 @@ Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/櫻花，大家一起來品嚐" title="wikilink">櫻花，大家一起來品嚐</a>'''（）</p></td>
+<td><p><a href="../Page/櫻花，大家一起來品嚐.md" title="wikilink">櫻花，大家一起來品嚐</a>'''（）</p></td>
 <td></td>
 <td><p>Ryosuke "Dr.R" Sakai</p></td>
 <td><p>野中“まさ”雄一</p></td>
-<td><p>3rd「<a href="https://zh.wikipedia.org/wiki/櫻花，大家一起來品嚐" title="wikilink">櫻花，大家一起來品嚐</a>'''（）」</p></td>
+<td><p>3rd「<a href="../Page/櫻花，大家一起來品嚐.md" title="wikilink">櫻花，大家一起來品嚐</a>'''（）」</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>秋吉優花、穴井千尋、多田愛佳[40]、兒玉遥[41]、指原莉乃[42]、田島芽瑠、<a href="../Page/田中美久_(HKT48).md" title="wikilink">田中美久</a>、朝長美桜、中西智代梨[43]、渕上舞、松岡菜摘、宮脇咲良、村重杏奈、本村碧唯、森保まどか、<a href="https://zh.wikipedia.org/wiki/矢吹奈子" title="wikilink">矢吹奈子</a></p></td>
+<td><p>秋吉優花、穴井千尋、多田愛佳[40]、兒玉遥[41]、指原莉乃[42]、田島芽瑠、<a href="../Page/田中美久_(HKT48).md" title="wikilink">田中美久</a>、朝長美桜、中西智代梨[43]、渕上舞、松岡菜摘、宮脇咲良、村重杏奈、本村碧唯、森保まどか、<a href="../Page/矢吹奈子.md" title="wikilink">矢吹奈子</a></p></td>
 <td><p>[44][45]</p></td>
 <td></td>
 <td></td>
@@ -2046,11 +2045,11 @@ Stage“为了谁”](https://zh.wikipedia.org/wiki/Team_A_3rd_Stage“为了谁
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/有所保留的我愛你！" title="wikilink">有所保留的我愛你！</a>'''（）</p></td>
+<td><p><a href="../Page/有所保留的我愛你！.md" title="wikilink">有所保留的我愛你！</a>'''（）</p></td>
 <td></td>
 <td><p>pakorama</p></td>
 <td><p>野中“まさ”雄一</p></td>
-<td><p>4th「<a href="https://zh.wikipedia.org/wiki/有所保留的我愛你！" title="wikilink">有所保留的我愛你！</a>'''（）」</p></td>
+<td><p>4th「<a href="../Page/有所保留的我愛你！.md" title="wikilink">有所保留的我愛你！</a>'''（）」</p></td>
 <td></td>
 <td></td>
 </tr>

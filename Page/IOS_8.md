@@ -305,8 +305,7 @@ iOS 8.2正式版推出後，部分用戶回報裝置出現缺字，事後發現�
 
 ## 參見
 
-  - [Android
-    Lollipop](https://zh.wikipedia.org/wiki/Android_Lollipop "wikilink")
+  - [Android Lollipop](../Page/Android_Lollipop.md "wikilink")
   - [Windows Phone 8.1](../Page/Windows_Phone_8.1.md "wikilink")
 
 ## 外部連結

@@ -39,7 +39,7 @@
 
   - [T-20 共青團輕型炮兵牽引車](../Page/T-20.md "wikilink")
 
-  - [STZ-5中型炮兵牽引車](https://zh.wikipedia.org/wiki/STZ-5 "wikilink")
+  - [STZ-5中型炮兵牽引車](../Page/STZ-5.md "wikilink")
 
   - [史達林涅茲(Stalinez)拖拉機－ChTZ
     S-60](../Page/ChTZ_S-60.md "wikilink")－戰爭爆發時蘇軍數量最多的拖拉機

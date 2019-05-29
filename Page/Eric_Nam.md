@@ -150,7 +150,7 @@ Nam厭倦主流媒體對亞裔美國人的不佳詮釋，決定和他的兩個�
 <tr class="even">
 <td><p>2016</p></td>
 <td><p>SBS</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Healing_Camp" title="wikilink">Healing Camp</a></p></td>
+<td><p><a href="../Page/Healing_Camp.md" title="wikilink">Healing Camp</a></p></td>
 <td><p>01/11（Ep.216）</p></td>
 </tr>
 <tr class="odd">
@@ -327,7 +327,7 @@ Nam厭倦主流媒體對亞裔美國人的不佳詮釋，決定和他的兩個�
 <tr class="odd">
 <td><p>KBS</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a></p></td>
-<td><p>04/22(Ep.394) (與<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>/<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>)</p></td>
+<td><p>04/22(Ep.394) (與<a href="../Page/Wendy_(Red_Velvet).md" title="wikilink">Wendy</a>/<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -643,7 +643,7 @@ Nam厭倦主流媒體對亞裔美國人的不佳詮釋，決定和他的兩個�
 <td><p><strong>2nd</strong></p></td>
 <td><p>《봄인가 봐 (Spring Love)》</p>
 <ul>
-<li>歌手：Eric Nam &amp; Wendy（<a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a>）</li>
+<li>歌手：Eric Nam &amp; Wendy（<a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>）</li>
 <li>發行日期：2016年3月4日</li>
 <li>語言：韓語</li>
 </ul></td>

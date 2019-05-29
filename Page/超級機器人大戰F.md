@@ -14,7 +14,7 @@
 
 [Super_Robot_Wars_F_(PS).jpg](https://zh.wikipedia.org/wiki/File:Super_Robot_Wars_F_\(PS\).jpg "fig:Super_Robot_Wars_F_(PS).jpg")
 [Super_Robot_Wars_F_Final_(PS).jpg](https://zh.wikipedia.org/wiki/File:Super_Robot_Wars_F_Final_\(PS\).jpg "fig:Super_Robot_Wars_F_Final_(PS).jpg")
-[世嘉土星版](../Page/世嘉土星.md "wikilink")（下稱SS版）發售大約1年後便移植到[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")。SS
+[世嘉土星版](../Page/世嘉土星.md "wikilink")（下稱SS版）發售大約1年後便移植到[PlayStation](../Page/PlayStation.md "wikilink")。SS
 版的“F”到“F完结篇”的变更统一为“F完结篇”的版本式样。
 
 2011年11月9日開始在PS Store 的「PS one 经典游戏」上提供《F》・《F完結篇》的付費下載。在21世纪的当下，如果要准备 SS

@@ -13,8 +13,7 @@ Love](https://zh.wikipedia.org/wiki/Magic_of_Love "wikilink")）\[1\]。
 發售首週以4.5萬張的銷量登上Oricon綜合DVD週榜第一位，同時也是連續6作登上第一位，這是自[宇多田光的](../Page/宇多田光.md "wikilink")『traveling』，相隔11年零4個月再有女性藝人得到這記錄\[2\]。
 
 2014年10月1日與[Perfume WORLD TOUR
-2nd](https://zh.wikipedia.org/wiki/Perfume_WORLD_TOUR_2nd "wikilink")
-DVD/Blu-ray同日發行\[3\]。
+2nd](../Page/Perfume_WORLD_TOUR_2nd.md "wikilink") DVD/Blu-ray同日發行\[3\]。
 
 ## 收錄曲
 

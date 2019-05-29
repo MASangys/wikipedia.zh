@@ -25,7 +25,7 @@ MSM8260A
 ## 作業系統
 
 Xperia TX採用[Android](../Page/Android.md "wikilink") 4.0.4 Ice Cream
-Sandwich作業系統，取得[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+Sandwich作業系統，取得[PlayStation](../Page/PlayStation.md "wikilink")
 Certified認證，並可登入Sony Entertainment Network。
 現已可升級至[Android](../Page/Android.md "wikilink") 4.3 Jelly
 Bean作業系統，不過不支援升級至[Android](../Page/Android.md "wikilink")

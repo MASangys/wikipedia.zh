@@ -8,7 +8,7 @@ Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")。
     STEP](https://zh.wikipedia.org/wiki/FIRST_STEP "wikilink")」相距約1年以來的回歸。
   - 「Hey You」為此專輯的主打曲目。
   - 此專輯收錄第1張日語單曲《[In My
-    Head](https://zh.wikipedia.org/wiki/In_My_Head_\(CNBLUE單曲\) "wikilink")》的韓文版本。
+    Head](../Page/In_My_Head_\(CNBLUE單曲\).md "wikilink")》的韓文版本。
   - 主打曲目「Hey You」於多個音樂節目取得1位，一共獲得4個獎盃。
       - [M\!
         Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")：2012年4月5日
@@ -27,7 +27,7 @@ Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")。
 4.  **Rock n' Roll**
 5.  **Run**
 6.  **[In My
-    Head](https://zh.wikipedia.org/wiki/In_My_Head_\(CNBLUE單曲\) "wikilink")**（Korean
+    Head](../Page/In_My_Head_\(CNBLUE單曲\).md "wikilink")**（Korean
     Ver.）
 
 [Category:CNBLUE音樂專輯](https://zh.wikipedia.org/wiki/Category:CNBLUE音樂專輯 "wikilink")

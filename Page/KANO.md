@@ -1,4 +1,4 @@
-《**KANO**》是一部於[2014年上映](https://zh.wikipedia.org/wiki/2014年電影 "wikilink")、描述[臺灣日据時期](https://zh.wikipedia.org/wiki/臺灣日据時期 "wikilink")[嘉義農林棒球隊的](https://zh.wikipedia.org/wiki/嘉義農林棒球隊 "wikilink")[臺灣電影](https://zh.wikipedia.org/wiki/臺灣電影 "wikilink")，為[馬志翔執導](../Page/馬志翔.md "wikilink")，[陳嘉蔚與魏德聖編劇](https://zh.wikipedia.org/wiki/陳嘉蔚 "wikilink")，[永瀨正敏](https://zh.wikipedia.org/wiki/永瀨正敏 "wikilink")、[坂井真紀](https://zh.wikipedia.org/wiki/坂井真紀 "wikilink")、和[大澤隆夫等人主演](../Page/大澤隆夫.md "wikilink")。片名《KANO》取自[嘉義農林棒球隊之簡稱](https://zh.wikipedia.org/wiki/嘉義農林棒球隊 "wikilink")「嘉農」（[國立嘉義大學前身](https://zh.wikipedia.org/wiki/國立嘉義大學 "wikilink")）的日語讀音「KANŌ」\[1\]。電影背景設定在1931年[大日本帝國下的](https://zh.wikipedia.org/wiki/大日本帝國 "wikilink")[臺灣](../Page/臺灣.md "wikilink")，講述一支由[原住民](https://zh.wikipedia.org/wiki/臺灣原住民 "wikilink")、[日本人與](../Page/日本人.md "wikilink")[漢人所組成的](https://zh.wikipedia.org/wiki/漢族 "wikilink")[嘉義農林棒球隊](https://zh.wikipedia.org/wiki/嘉義農林棒球隊 "wikilink")，原本實力貧弱一勝難求，但在新教練近藤兵太郎指導之下，拿下全島冠軍並遠征[第17屆夏季甲子園大會的故事](../Page/第17回全國中等學校優勝野球大會.md "wikilink")。
+《**KANO**》是一部於[2014年上映](https://zh.wikipedia.org/wiki/2014年電影 "wikilink")、描述[臺灣日据時期](https://zh.wikipedia.org/wiki/臺灣日据時期 "wikilink")[嘉義農林棒球隊的](https://zh.wikipedia.org/wiki/嘉義農林棒球隊 "wikilink")[臺灣電影](https://zh.wikipedia.org/wiki/臺灣電影 "wikilink")，為[馬志翔執導](../Page/馬志翔.md "wikilink")，[陳嘉蔚與魏德聖編劇](https://zh.wikipedia.org/wiki/陳嘉蔚 "wikilink")，[永瀨正敏](../Page/永瀨正敏.md "wikilink")、[坂井真紀](../Page/坂井真紀.md "wikilink")、和[大澤隆夫等人主演](../Page/大澤隆夫.md "wikilink")。片名《KANO》取自[嘉義農林棒球隊之簡稱](https://zh.wikipedia.org/wiki/嘉義農林棒球隊 "wikilink")「嘉農」（[國立嘉義大學前身](https://zh.wikipedia.org/wiki/國立嘉義大學 "wikilink")）的日語讀音「KANŌ」\[1\]。電影背景設定在1931年[大日本帝國下的](https://zh.wikipedia.org/wiki/大日本帝國 "wikilink")[臺灣](../Page/臺灣.md "wikilink")，講述一支由[原住民](https://zh.wikipedia.org/wiki/臺灣原住民 "wikilink")、[日本人與](../Page/日本人.md "wikilink")[漢人所組成的](https://zh.wikipedia.org/wiki/漢族 "wikilink")[嘉義農林棒球隊](https://zh.wikipedia.org/wiki/嘉義農林棒球隊 "wikilink")，原本實力貧弱一勝難求，但在新教練近藤兵太郎指導之下，拿下全島冠軍並遠征[第17屆夏季甲子園大會的故事](../Page/第17回全國中等學校優勝野球大會.md "wikilink")。
 
 ## 劇情概要
 
@@ -22,7 +22,7 @@
 <td><p><strong>角色介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/永瀨正敏" title="wikilink">永瀨正敏</a><br />
+<td><p><a href="../Page/永瀨正敏.md" title="wikilink">永瀨正敏</a><br />
 Masatoshi Nagase</p></td>
 <td><p><a href="../Page/近藤兵太郎.md" title="wikilink">近藤兵太郎</a><br />
 Kondou Hyoutarou</p></td>
@@ -42,7 +42,7 @@ Hamada Jimino</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/曹佑寧" title="wikilink">曹佑寧</a></p></td>
+<td><p><a href="../Page/曹佑寧.md" title="wikilink">曹佑寧</a></p></td>
 <td><p><a href="../Page/吳明捷.md" title="wikilink">吳明捷</a></p></td>
 <td><p><strong>1911年出生，1931年參加<a href="../Page/第17回全國中等學校優勝野球大會.md" title="wikilink">第17屆夏季甲子園大會</a><br />
 小名阿基拉（Akira），為「明」的日文發音。<br />
@@ -88,7 +88,7 @@ Mayama Uichi</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/鐘硯誠" title="wikilink">鐘硯誠</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳耕元" title="wikilink">上松耕一</a><br />
+<td><p><a href="../Page/陳耕元.md" title="wikilink">上松耕一</a><br />
 Agematsu Kouichi</p></td>
 <td><p><strong>1905年出生，甲子園史上最年長選手（27），<br />
 26歲時於嘉農就讀，1931年參加<a href="../Page/第17回全國中等學校優勝野球大會.md" title="wikilink">第17屆夏季甲子園大會</a>。<br />
@@ -224,7 +224,7 @@ Satou</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛媛縣" title="wikilink">愛媛縣松山商業高等學校教練</a>，近藤兵太郎之師。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/坂井真紀" title="wikilink">坂井真紀</a><br />
+<td><p><a href="../Page/坂井真紀.md" title="wikilink">坂井真紀</a><br />
 Sakai Maki</p></td>
 <td><p>近藤的妻子</p></td>
 <td><p>近藤兵太郎之妻。</p></td>
@@ -295,7 +295,7 @@ Hatta Yoichi</p></td>
 <td><p>嘉農、嘉中球員撿戲尾所在戲院中，為影廳觀眾講解電影的人士[6]。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/孫睿" title="wikilink">孫睿</a></p></td>
+<td><p><a href="../Page/孫睿.md" title="wikilink">孫睿</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/蔡昭昭" title="wikilink">蔡昭昭</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/國立嘉義女子高級中學" title="wikilink">嘉義女中校花</a>，之後為陳耕元之妻。</p></td>
 </tr>
@@ -366,7 +366,7 @@ Anzai</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/張鎧巖" title="wikilink">張鎧巖</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吉田正男" title="wikilink">吉田正男</a><br />
+<td><p><a href="../Page/吉田正男.md" title="wikilink">吉田正男</a><br />
 Yoshida Masao</p></td>
 <td><p>愛知縣棒球隊投手，1914年出生。甲子園傳奇投手，<br />
 甲子園通算成績成績23勝3敗。1996年逝世，享壽82歲。</p></td>
@@ -528,7 +528,7 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 
 [A_statue_of_former_Kano_pitcher_Wu_Ming-chieh_at_the_Central_Fountain_of_Chiayi_City_(Taiwan).jpg](https://zh.wikipedia.org/wiki/File:A_statue_of_former_Kano_pitcher_Wu_Ming-chieh_at_the_Central_Fountain_of_Chiayi_City_\(Taiwan\).jpg "fig:A_statue_of_former_Kano_pitcher_Wu_Ming-chieh_at_the_Central_Fountain_of_Chiayi_City_(Taiwan).jpg")的
 「一隻展開翅膀的老鷹─KANO 1931」雕像\]\]
-《KANO》也創下國片史上第一次，萬人遊行宣傳手法，在2014年2月22日於嘉義市舉辦盛大的萬人封街遊行首映活動，監製[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")、[魏德聖](../Page/魏德聖.md "wikilink")、導演[馬志翔](../Page/馬志翔.md "wikilink")、男主角[永瀨正敏](https://zh.wikipedia.org/wiki/永瀨正敏 "wikilink")、[近藤的](../Page/近藤兵太郎.md "wikilink")2個女兒亞琦與[喬喬](../Page/于卉喬.md "wikilink")，也會帶領全片的素人球員、[海角七號](../Page/海角七號.md "wikilink")、[賽德克·巴萊演員](../Page/賽德克·巴萊.md "wikilink")、嘉義地區的棒球隊，重現歷史中嘉農隊勇奪甲子園殊榮後，搭乘火車回到嘉義火車站。**KANO萬人封街遊行首映活動**從[嘉義火車站開始](https://zh.wikipedia.org/wiki/嘉義火車站 "wikilink")，沿著[中山路走到](../Page/中山路_\(嘉義市\).md "wikilink")[中央噴水池為新的](https://zh.wikipedia.org/wiki/中央噴水池 "wikilink")[嘉農投手](https://zh.wikipedia.org/wiki/嘉農棒球隊 "wikilink")[吳明捷雕像](../Page/吳明捷.md "wikilink")，雕塑家[蒲浩明作品](https://zh.wikipedia.org/wiki/蒲浩明 "wikilink")
+《KANO》也創下國片史上第一次，萬人遊行宣傳手法，在2014年2月22日於嘉義市舉辦盛大的萬人封街遊行首映活動，監製[黃志明](https://zh.wikipedia.org/wiki/黃志明 "wikilink")、[魏德聖](../Page/魏德聖.md "wikilink")、導演[馬志翔](../Page/馬志翔.md "wikilink")、男主角[永瀨正敏](../Page/永瀨正敏.md "wikilink")、[近藤的](../Page/近藤兵太郎.md "wikilink")2個女兒亞琦與[喬喬](../Page/于卉喬.md "wikilink")，也會帶領全片的素人球員、[海角七號](../Page/海角七號.md "wikilink")、[賽德克·巴萊演員](../Page/賽德克·巴萊.md "wikilink")、嘉義地區的棒球隊，重現歷史中嘉農隊勇奪甲子園殊榮後，搭乘火車回到嘉義火車站。**KANO萬人封街遊行首映活動**從[嘉義火車站開始](https://zh.wikipedia.org/wiki/嘉義火車站 "wikilink")，沿著[中山路走到](../Page/中山路_\(嘉義市\).md "wikilink")[中央噴水池為新的](https://zh.wikipedia.org/wiki/中央噴水池 "wikilink")[嘉農投手](https://zh.wikipedia.org/wiki/嘉農棒球隊 "wikilink")[吳明捷雕像](../Page/吳明捷.md "wikilink")，雕塑家[蒲浩明作品](https://zh.wikipedia.org/wiki/蒲浩明 "wikilink")
 - 「一隻展開翅膀的老鷹─KANO
 1931」揭幕，再沿著[中山路走到](../Page/中山路_\(嘉義市\).md "wikilink")[嘉義市立棒球場舉行](../Page/嘉義市立棒球場.md "wikilink")**KANO**電影首映會\[48\]。特別的是，歷史上嘉農隊球員的後代家屬，[近藤兵太郎教練在臺灣](../Page/近藤兵太郎.md "wikilink")、日本教導過的學生，也全都將一同齊聚嘉義，參與遊行活動。
 
@@ -545,7 +545,7 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 ### 常見誤解澄清
 
   - 第一支代表臺灣參加日本甲子園大賽的棒球隊是「臺北一中」（[臺北市](../Page/臺北市.md "wikilink")[建國中學的前身](https://zh.wikipedia.org/wiki/建國中學 "wikilink")），但球員全由日本人組成；第一支在日本阪神甲子園「棒球場」打棒球（友誼賽）的「[臺灣原住民](https://zh.wikipedia.org/wiki/臺灣原住民 "wikilink")」組成的球隊是「[能高團](http://twbsball.dils.tku.edu.tw/wiki/index.php/%E8%83%BD%E9%AB%98%E5%9C%98)」；嘉農並非是第一支打入日本甲子園的臺灣球隊，而是臺灣第一支有漢人和原住民球員參加[甲子園棒球大賽](https://zh.wikipedia.org/wiki/全國高等學校野球選手權大會 "wikilink")，且第一支（也是唯一）打進決賽，獲得歷年來最高成績（亞軍）的球隊。
-  - 電影中球員多找少年呈現，實際上半數隊員超過一般高校生年齡的19歲。不過當時甲子園並無規定參加選手的年齡上限，而KANO中的[上松耕一以](https://zh.wikipedia.org/wiki/陳耕元 "wikilink")26歲參賽，是甲子園史上最年長的選手。1942年，賽方才規定球員不可超過19歲\[50\]。
+  - 電影中球員多找少年呈現，實際上半數隊員超過一般高校生年齡的19歲。不過當時甲子園並無規定參加選手的年齡上限，而KANO中的[上松耕一以](../Page/陳耕元.md "wikilink")26歲參賽，是甲子園史上最年長的選手。1942年，賽方才規定球員不可超過19歲\[50\]。
 
 ### 與歷史不符處
 
@@ -555,7 +555,7 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
   - 嘉義市噴水池在1927年完工，曾出現於[陳澄波的畫作](../Page/陳澄波.md "wikilink")「夏日街景」；但電影中的1929年嘉義卻仍在施工中\[51\]。
   - 嘉義車站於1933年改建為現今站體。但劇中1944年的場景，嘉義車站仍為舊站體。
   - 片中出現之火車頭為1936年製造的CK124，其原始型式──C12型於1932年上市；劇中的1931年實際上不可能有此種車型。
-  - 1931年，[第17屆夏季甲子園的決賽中第九局的打擊順序與歷史不合](../Page/第17回全國中等學校優勝野球大會.md "wikilink")\[52\]\[53\]，因為[上松耕一於第](https://zh.wikipedia.org/wiki/陳耕元 "wikilink")1、4、6、8局分別上場，打擊成績則為三振、滾地球刺殺、界外高飛接殺及三壘安打各一次；第九局沒上場，因此不可能被[三振](../Page/三振.md "wikilink")；結果電影中硬是出現「不存在的第九局」，讓上松在一出局滿壘時被三振出局\[54\]\[55\]。且最後一棒打者也並非[吳明捷](../Page/吳明捷.md "wikilink")。
+  - 1931年，[第17屆夏季甲子園的決賽中第九局的打擊順序與歷史不合](../Page/第17回全國中等學校優勝野球大會.md "wikilink")\[52\]\[53\]，因為[上松耕一於第](../Page/陳耕元.md "wikilink")1、4、6、8局分別上場，打擊成績則為三振、滾地球刺殺、界外高飛接殺及三壘安打各一次；第九局沒上場，因此不可能被[三振](../Page/三振.md "wikilink")；結果電影中硬是出現「不存在的第九局」，讓上松在一出局滿壘時被三振出局\[54\]\[55\]。且最後一棒打者也並非[吳明捷](../Page/吳明捷.md "wikilink")。
   - 1930年代，尚無[滑球](../Page/滑球.md "wikilink")、[伸卡球的名稱](https://zh.wikipedia.org/wiki/伸卡球 "wikilink")，而在片中近藤教練卻教球員練打這兩個球種。
       - 實際上自原始劇本到正式電影，皆未提及平野保郎（羅保農）有「嘉農核彈頭」稱號，連電影述及球員後續發展段落亦無例外。
   - [吳波為](../Page/吳昌征.md "wikilink")[臺南廳](https://zh.wikipedia.org/wiki/臺南廳 "wikilink")[楠梓坑支廳](https://zh.wikipedia.org/wiki/楠梓坑支廳 "wikilink")（今[高雄市](../Page/高雄市.md "wikilink")[橋頭區](../Page/橋頭區.md "wikilink")）人，不可能整天騎著[腳踏車去看](https://zh.wikipedia.org/wiki/腳踏車 "wikilink")[嘉農球員練球](https://zh.wikipedia.org/wiki/嘉農棒球隊 "wikilink")。
@@ -633,7 +633,7 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 </tr>
 <tr class="even">
 <td><p>最佳男主角</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/永瀨正敏" title="wikilink">永瀨正敏</a></p></td>
+<td><p><a href="../Page/永瀨正敏.md" title="wikilink">永瀨正敏</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -645,7 +645,7 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 </tr>
 <tr class="even">
 <td><p>最佳新演員</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曹佑寧" title="wikilink">曹佑寧</a></p></td>
+<td><p><a href="../Page/曹佑寧.md" title="wikilink">曹佑寧</a></p></td>
 <td></td>
 <td></td>
 </tr>

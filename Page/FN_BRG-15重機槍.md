@@ -5,7 +5,7 @@ BRG-15**是一挺由[比利时](../Page/比利时.md "wikilink")[赫尔斯塔尔
 ## 概述
 
 FN BRG-15在1983年10月公佈，目的是為了超越現有的.50
-口徑重機槍，甚至是前[苏联](../Page/苏联.md "wikilink")[14.5毫米](../Page/14.5×114mm.md "wikilink")[KPV重機槍](../Page/KPV重機槍.md "wikilink")（[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）。後者自[第二次世界大战開始已經採用](../Page/第二次世界大战.md "wikilink")，而且安裝在[装甲车上作為對輕型裝甲火力](../Page/装甲车.md "wikilink")、安裝在四連裝上作為低空防空火力，並且一直作為可在步兵營級操作方便而非常有效的直接火力。該重機槍的存在令北約軍隊大為頭痛，因為在當時是沒有對等的重機槍可以抗衡。而BRG-15可說是[西方世界中瞄準這點而研製的武器](../Page/西方世界.md "wikilink")。
+口徑重機槍，甚至是前[苏联](../Page/苏联.md "wikilink")[14.5毫米](../Page/14.5×114mm.md "wikilink")[KPV重機槍](../Page/KPV重機槍.md "wikilink")（[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）。後者自[第二次世界大战開始已經採用](../Page/第二次世界大战.md "wikilink")，而且安裝在[装甲车上作為對輕型裝甲火力](../Page/装甲车.md "wikilink")、安裝在四連裝上作為低空防空火力，並且一直作為可在步兵營級操作方便而非常有效的直接火力。該重機槍的存在令北約軍隊大為頭痛，因為在當時是沒有對等的重機槍可以抗衡。而BRG-15可說是[西方世界中瞄準這點而研製的武器](../Page/西方世界.md "wikilink")。
 
 然而，由於BRG-15優點不算比發射的[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50
 BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[彈藥的重機槍多了太多](https://zh.wikipedia.org/wiki/彈藥 "wikilink")，因而不被市場所接受，結果在幾乎被完全開發的時候，該項目最終卻被終止了。該項目在1990年代初被[國營赫斯塔爾取消了](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")，因為當時國營赫斯塔爾已經將重點轉移到[P90](../Page/FN_P90衝鋒槍.md "wikilink")[個人防衛武器上](../Page/個人防衛武器.md "wikilink")，以解決財政上的問題。

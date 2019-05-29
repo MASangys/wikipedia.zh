@@ -9,7 +9,7 @@ City站**（，亦翻為**賽騰城站**）是一個位於[釜山廣域市](../P
 
 |                                                                                                                                                                         |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <small>[BEXCO](https://zh.wikipedia.org/wiki/BEXCO站 "wikilink") ↑</small>                                                                                               |
+| <small>[BEXCO](../Page/BEXCO站.md "wikilink") ↑</small>                                                                                                                  |
 | <span style="color: #ffffff; background-color: {{韓國鐵道路線色\|BT\|2}};">下</span> {{\!}} {{\!}} <span style="color: #ffffff; background-color: {{韓國鐵道路線色\|BT\|2}};">上</span> |
 | <small>↓ [民樂](../Page/民樂站_\(釜山\).md "wikilink")</small>                                                                                                                 |
 |                                                                                                                                                                         |
@@ -51,7 +51,7 @@ City站**（，亦翻為**賽騰城站**）是一個位於[釜山廣域市](../P
   - 釜山交通公社
 
       -
-        [BEXCO](https://zh.wikipedia.org/wiki/BEXCO站 "wikilink")（）－**Centum
+        [BEXCO](../Page/BEXCO站.md "wikilink")（）－**Centum
         City（）**－[民樂](../Page/民樂站_\(釜山\).md "wikilink")（）
 
 [Category:海雲臺區鐵路車站](https://zh.wikipedia.org/wiki/Category:海雲臺區鐵路車站 "wikilink")

@@ -4,7 +4,7 @@
 
 劇中登場角色的姓名，多數源自歷代《假面騎士》系列登場人物，多半是將日語假名重新發音排列組合。
 
-**如月弦太朗（）**（[福士蒼汰](../Page/福士蒼汰.md "wikilink")、石川樹（童年期）飾／香港配音：[林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink")、[陳琴雲](../Page/陳琴雲.md "wikilink")（童年期）／台灣配音：[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")）
+**如月弦太朗（）**（[福士蒼汰](../Page/福士蒼汰.md "wikilink")、石川樹（童年期）飾／香港配音：[林筠翔](../Page/林筠翔.md "wikilink")、[陳琴雲](../Page/陳琴雲.md "wikilink")（童年期）／台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")）
 
   -
     **假面騎士Fourze**的變身者，轉學到天之川學園高中的學生。頂著飛機頭髮型並配短袍，看起來雖然像[不良少年](https://zh.wikipedia.org/wiki/Bad_Boy "wikilink")，但其實只有成績不好，而且本人擁有很強的正義感。「要和全校學生成為朋友」是本人一直努力的目標。
@@ -174,7 +174,7 @@
     MOVIE大戰Ultimatum](https://zh.wikipedia.org/wiki/假面騎士×假面騎士_Wizard_&_Fourze_MOVIE大戰Ultimatum "wikilink")》中，亦即是五年後任職國際刑警搜查員。
     在假面騎士部中以見習部員活躍（潛入）。第32話後光明正大地正式承認為真正的部員；最終話因回歸母校而離開。
 
-**風城美羽（）**（[坂田梨香子飾](https://zh.wikipedia.org/wiki/:ja:坂田梨香子 "wikilink")／香港配音：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")、[何寶珊](../Page/何寶珊.md "wikilink")（代配）／台灣配音：[穆宣名](../Page/穆宣名.md "wikilink")）
+**風城美羽（）**（[坂田梨香子飾](https://zh.wikipedia.org/wiki/:ja:坂田梨香子 "wikilink")／香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")、[何寶珊](../Page/何寶珊.md "wikilink")（代配）／台灣配音：[穆宣名](../Page/穆宣名.md "wikilink")）
 
   -
     學園裏[美式競技啦啦隊的隊長](../Page/競技啦啦隊.md "wikilink")，假面騎士部的部長。
@@ -328,7 +328,7 @@
     第46話被立神挾持作人質，迫蘭就範令天文裝置完全覺醒。
     最終話與蘭正式加入宇宙假面騎士部。
 
-**大木美代子（）**（[足立梨花飾](https://zh.wikipedia.org/wiki/足立梨花 "wikilink")）
+**大木美代子（）**（[足立梨花飾](../Page/足立梨花.md "wikilink")）
 
 ## Horoscope
 
@@ -458,7 +458,7 @@
     大家的宇宙來了\!](https://zh.wikipedia.org/wiki/假面騎士Fourze_THE_MOVIE_大家的宇宙來了! "wikilink")》中為救弦太朗而幫助去啟動No.18
     Shield Switch。
 
-**艾妮露須田（）**（[滝沢カレン飾](https://zh.wikipedia.org/wiki/滝沢カレン "wikilink")／香港配音：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")）
+**艾妮露須田（）**（[滝沢カレン飾](https://zh.wikipedia.org/wiki/滝沢カレン "wikilink")／香港配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）
 
   -
     3年C班，從美國來的天高轉校生。不擅長[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")。
@@ -645,7 +645,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
   -
     就讀昴星高中的本人（宇宙生命體SOLU仿照外貌的原型人物）於《小說 幪面超人Fourze ～天・高・卒・業～》再次登場。
 
-**井石二郎（）**（[橫濱流星飾](https://zh.wikipedia.org/wiki/橫濱流星 "wikilink")）
+**井石二郎（）**（[橫濱流星飾](../Page/橫濱流星.md "wikilink")）
 
   -
     朔田流星同校朋友兼學習「星心大輪拳」\[15\]的同門。
@@ -674,7 +674,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     經營機車店「如月機車」。
     弦太朗小時候因父母交通意外離世而開始相依為命。
 
-**白川芽以（）**（[夏居瑠奈飾](../Page/夏居瑠奈.md "wikilink")／香港配音：[廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink")）
+**白川芽以（）**（[夏居瑠奈飾](../Page/夏居瑠奈.md "wikilink")／香港配音：[廖杏茵](../Page/廖杏茵.md "wikilink")）
 
   -
     3年級生。朔田流星在昴星高中時的好友，似乎對流星一直單戀著。
@@ -883,7 +883,7 @@ Carver飾](https://zh.wikipedia.org/wiki/:ja:ダンテ・カーヴァー "wikili
     被不守秩序的學生恐嚇而造成意外受傷，在黑曜醫院住院中。
     第40話被弦太朗請求以說服實行校規太過苛刻的杉浦。
 
-**矢波敬介（）**（[坂口涼太郎飾](https://zh.wikipedia.org/wiki/:ja:坂口涼太郎 "wikilink")／香港配音：[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")）
+**矢波敬介（）**（[坂口涼太郎飾](https://zh.wikipedia.org/wiki/:ja:坂口涼太郎 "wikilink")／香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）
 
   -
     學生會成員。

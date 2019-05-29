@@ -31,7 +31,7 @@ Central的艾萨克·恩格尔霍恩也很喜歡專輯，稱其是“精彩”�
 
 ## 最終幻想I·II原聲音樂
 
-《最終幻想I·II原聲音樂》（）是遊戲[PlayStation版](https://zh.wikipedia.org/wiki/PlayStation "wikilink")《[最终幻想I·II珍藏包](https://zh.wikipedia.org/wiki/最终幻想I·II珍藏包 "wikilink")》的原聲專輯。原聲收錄原版音樂因PlayStation聲音機能提升而重編的樂曲。曲目由植松伸夫譜寫，並由植松和[關戶剛重編](../Page/關戶剛.md "wikilink")。專輯收錄兩碟65首曲目，記1小時42分30秒。專輯由DigiCube於2002年10月23日首發，後由史克威爾艾尼克斯於2004年9月23日再版。原版目錄號為SSCX-10071\~2，再版目錄號為SQEX-10032\~3。首張碟片收錄植松伸夫為《最終幻想》重編的音樂，第二張碟片收錄關戶剛為《最終幻想II》重編的音樂\[19\]。
+《最終幻想I·II原聲音樂》（）是遊戲[PlayStation版](../Page/PlayStation.md "wikilink")《[最终幻想I·II珍藏包](https://zh.wikipedia.org/wiki/最终幻想I·II珍藏包 "wikilink")》的原聲專輯。原聲收錄原版音樂因PlayStation聲音機能提升而重編的樂曲。曲目由植松伸夫譜寫，並由植松和[關戶剛重編](../Page/關戶剛.md "wikilink")。專輯收錄兩碟65首曲目，記1小時42分30秒。專輯由DigiCube於2002年10月23日首發，後由史克威爾艾尼克斯於2004年9月23日再版。原版目錄號為SSCX-10071\~2，再版目錄號為SQEX-10032\~3。首張碟片收錄植松伸夫為《最終幻想》重編的音樂，第二張碟片收錄關戶剛為《最終幻想II》重編的音樂\[19\]。
 
 《最終幻想I·II原聲音樂》獲得好評並登上日本[公信榜第](https://zh.wikipedia.org/wiki/公信榜 "wikilink")87位，Square
 Enix Music Online的盧斯卡稱讚了關戶剛在編曲方面的影響，並將專輯推薦給最終幻想鐵杆愛好者\[20\]\[21\] 。

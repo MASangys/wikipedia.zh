@@ -4,7 +4,7 @@ Game工作室的联合创办人[斯坦珀兄弟在](https://zh.wikipedia.org/wik
 Pro-Am》等名作。在1994年，Rare被[任天堂招至麾下成为了任天堂第二方开发商中的一员](../Page/任天堂.md "wikilink")。此后Rare在任天堂平台推出的游戏作品迎来了商业和口碑上的双丰收，例如《[大金刚国度](../Page/超级大金刚.md "wikilink")》、《[杀手本能](https://zh.wikipedia.org/wiki/杀手本能 "wikilink")》系列、《[黄金眼007](../Page/黄金眼007.md "wikilink")》、《[班卓熊大冒险](../Page/班卓熊大冒险.md "wikilink")》、《完美黑暗》、《松鼠库克》以及《[星际火狐大冒险](https://zh.wikipedia.org/wiki/星际火狐大冒险 "wikilink")》等。
 
 2002年9月24日，微软宣布以3.75亿美元收购Rare。\[1\]
-这意味着Rare成为了微软旗下[微软游戏工作室的一员](https://zh.wikipedia.org/wiki/微软游戏工作室 "wikilink")，并将专注为微软的游戏平台开发游戏作品。Rare在[Xbox平台上推出了](https://zh.wikipedia.org/wiki/Xbox "wikilink")《凯蜜欧传说：力量元素》并在[Xbox
+这意味着Rare成为了微软旗下[微软游戏工作室的一员](https://zh.wikipedia.org/wiki/微软游戏工作室 "wikilink")，并将专注为微软的游戏平台开发游戏作品。Rare在[Xbox平台上推出了](../Page/Xbox.md "wikilink")《凯蜜欧传说：力量元素》并在[Xbox
 360平台上推出了面对低龄向的](../Page/Xbox_360.md "wikilink")《[宝贝万岁](https://zh.wikipedia.org/wiki/宝贝万岁 "wikilink")》系列以及为[Kinect外设制作的专用游戏](../Page/Kinect.md "wikilink")《Kinect运动大会》系列。虽然被收购后的Rare已经完全脱离了任天堂，但是在[Game
 Boy
 Advance和](../Page/Game_Boy_Advance.md "wikilink")[任天堂DS等掌机平台上](../Page/任天堂DS.md "wikilink")，Rare通过[THQ发布了若干款游戏](https://zh.wikipedia.org/wiki/THQ "wikilink")。
@@ -96,7 +96,7 @@ Planet）的任天堂64游戏。不过在开发期间，任天堂的著名游戏
 ### 微软第一方时期（2002-至今）
 
 [Rare_logo.svg](https://zh.wikipedia.org/wiki/File:Rare_logo.svg "fig:Rare_logo.svg")
-进入新千年，随着游戏开发的成本越来越高，任天堂却没有向Rare提供更多的资金，同时也没有进一步收购公司的股份,\[19\]\[20\]这让公司的创始人斯坦珀兄弟感到费解，在日后接受采访时表示他们对任天堂并没有完全收购工作室感到讶异。\[21\]随着资金压力的越来越大，Rare开始寻找潜在的买家。\[22\]在2000年开始，来自[动视和](../Page/动视.md "wikilink")[微软的人不断前往这家位于莱斯特郡的游戏公司谈论收购事宜](../Page/微软.md "wikilink")。\[23\]最终Rare拒绝了动视的邀约而选择微软，2002年9月24日，微软宣布以3.75亿美元收购Rare。\[24\]\[25\]至此Rare成为了微软的第一方工作室，它将为[Xbox开发游戏](https://zh.wikipedia.org/wiki/Xbox "wikilink")。而Rare此前为任天堂制作的游戏像《大金刚》和《星际火狐》等原任天堂系列游戏交还给任天堂，而像《松鼠库克》、《班卓熊大冒险》、《完美黑暗》等系列归为Rare自己所有。\[26\]而尚未发售的《迪迪刚赛车》新作因此而停止开发。\[27\]\[28\]
+进入新千年，随着游戏开发的成本越来越高，任天堂却没有向Rare提供更多的资金，同时也没有进一步收购公司的股份,\[19\]\[20\]这让公司的创始人斯坦珀兄弟感到费解，在日后接受采访时表示他们对任天堂并没有完全收购工作室感到讶异。\[21\]随着资金压力的越来越大，Rare开始寻找潜在的买家。\[22\]在2000年开始，来自[动视和](../Page/动视.md "wikilink")[微软的人不断前往这家位于莱斯特郡的游戏公司谈论收购事宜](../Page/微软.md "wikilink")。\[23\]最终Rare拒绝了动视的邀约而选择微软，2002年9月24日，微软宣布以3.75亿美元收购Rare。\[24\]\[25\]至此Rare成为了微软的第一方工作室，它将为[Xbox开发游戏](../Page/Xbox.md "wikilink")。而Rare此前为任天堂制作的游戏像《大金刚》和《星际火狐》等原任天堂系列游戏交还给任天堂，而像《松鼠库克》、《班卓熊大冒险》、《完美黑暗》等系列归为Rare自己所有。\[26\]而尚未发售的《迪迪刚赛车》新作因此而停止开发。\[27\]\[28\]
 
 ## 开发作品
 

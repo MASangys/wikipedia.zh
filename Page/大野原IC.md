@@ -19,7 +19,7 @@
 
 ## 交流道周邊
 
-  - [豐濱站](https://zh.wikipedia.org/wiki/豐濱站 "wikilink")
+  - [豐濱站](../Page/豐濱站.md "wikilink")
 
 ## 鄰近設施
 

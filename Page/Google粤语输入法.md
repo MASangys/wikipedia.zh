@@ -17,7 +17,7 @@ Play商店中下架](../Page/Google_Play.md "wikilink")，估計已經停止開�
 
 ## 参见
 
-  - [Google注音输入法](https://zh.wikipedia.org/wiki/Google注音输入法 "wikilink")
+  - [Google注音输入法](../Page/Google注音输入法.md "wikilink")
   - [Google拼音输入法](../Page/Google拼音输入法.md "wikilink")
   - [Gboard](../Page/Gboard.md "wikilink")
 

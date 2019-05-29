@@ -1,4 +1,4 @@
-《**笑傲江湖Online**》（Swordsman）是一款2013年發行的[多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")，改編自小說《[笑傲江湖](../Page/笑傲江湖.md "wikilink")》，由[完美世界研發](https://zh.wikipedia.org/wiki/完美世界 "wikilink")，在臺灣由[艾玩天地發行](https://zh.wikipedia.org/wiki/艾玩天地 "wikilink")，由[陳喬恩](../Page/陳喬恩.md "wikilink")、[蕭敬騰代言](../Page/蕭敬騰.md "wikilink")，本遊戲的主題曲是蕭敬騰改編並主唱的《[滄海一聲笑](../Page/滄海一聲笑.md "wikilink")》\[1\]，於11月20日開始封測\[2\]。
+《**笑傲江湖Online**》（Swordsman）是一款2013年發行的[多人線上角色扮演遊戲](https://zh.wikipedia.org/wiki/大型多人線上角色扮演遊戲 "wikilink")，改編自小說《[笑傲江湖](../Page/笑傲江湖.md "wikilink")》，由[完美世界研發](https://zh.wikipedia.org/wiki/完美世界 "wikilink")，在臺灣由[艾玩天地發行](../Page/艾玩天地.md "wikilink")，由[陳喬恩](../Page/陳喬恩.md "wikilink")、[蕭敬騰代言](../Page/蕭敬騰.md "wikilink")，本遊戲的主題曲是蕭敬騰改編並主唱的《[滄海一聲笑](../Page/滄海一聲笑.md "wikilink")》\[1\]，於11月20日開始封測\[2\]。
 
 ## 操作
 

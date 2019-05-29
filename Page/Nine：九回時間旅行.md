@@ -54,11 +54,11 @@
 <td><center>
 <p><a href="../Page/趙胤熙.md" title="wikilink">趙胤熙</a> <small>（30）</small></p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/趙敏兒" title="wikilink">趙敏兒</a><small>（10）</small></p></td>
+<p><a href="../Page/趙敏兒.md" title="wikilink">趙敏兒</a><small>（10）</small></p></td>
 <td><p>2012年——CBM電視台5年資歷的記者</p>
 <p>在宣友帶領的小組下學習，像他的小跟班一樣渡過了五年，對宣友是無比崇拜，當他是導師也是男人。五年前，在新職員歡迎儀式上與宣友初次見面的瞬間，兩人的命運就已經交織在一起。有一天，宣友利用假期到尼泊爾尋找出差的敏英並向她求婚，敏英對此感到困惑，向宣友的朋友英勳詢問之下才得知宣友即將死亡的事實。敏英無法忍受被忽視，向宣友破口大罵並吐露自己的感情，同時也流露出無可奈何的軟弱。最後兩人約定要一起做出最大的努力活著，但是……</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/謝穎茵" title="wikilink">謝穎茵</a></p></td>
+<p><a href="../Page/謝穎茵.md" title="wikilink">謝穎茵</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -114,7 +114,7 @@
 <p>孫明姬</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/金希玲" title="wikilink">金希玲</a><small>（65）</small><br />
-<small>青年：<a href="https://zh.wikipedia.org/wiki/陳藝瑟" title="wikilink">陳藝瑟</a></small></p></td>
+<small>青年：<a href="../Page/陳藝瑟.md" title="wikilink">陳藝瑟</a></small></p></td>
 <td><center>
 <p>金希玲<small>（45）</small></p></td>
 <td><p>宣友的母親</p>

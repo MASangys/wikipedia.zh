@@ -17,7 +17,7 @@ Block」的計劃，該計劃讓Minecraft玩家在遊戲中建造一些村落作
 2014年9月15日，微软和Mojang共同宣布，微软以25亿美元收购Mojang。\[13\]馬庫斯·佩爾松在本次收購中獲得了17.5億美元。收購後，馬庫斯·佩爾松、Mojang
 [CEO](https://zh.wikipedia.org/wiki/CEO "wikilink") Carl
 Manneh和Mojang共同創辦人Jakob
-Porser將會離開Mojang。同時Mojang稱，《Minecraft》不會從其他平台（如[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")、移動設備等）上消失。\[14\]
+Porser將會離開Mojang。同時Mojang稱，《Minecraft》不會從其他平台（如[PlayStation](../Page/PlayStation.md "wikilink")、移動設備等）上消失。\[14\]
 
 ## 開發的遊戲
 
@@ -94,7 +94,7 @@ Do》。但當開發工程到了一個重要階段時，Mojang卻因對項目缺
 ### ZeniMax Media訴Mojang AB
 
 [贝塞斯达软件公司的母公司](https://zh.wikipedia.org/wiki/贝塞斯达软件公司 "wikilink")[ZeniMax
-Media於](https://zh.wikipedia.org/wiki/ZeniMax_Media "wikilink")2011年9月27日起訴Mojang計劃將其開發的遊戲Scrolls註冊商標，侵犯了貝塞斯達開發的遊戲系列[上古卷軸](../Page/上古卷轴系列.md "wikilink")（The
+Media於](../Page/ZeniMax_Media.md "wikilink")2011年9月27日起訴Mojang計劃將其開發的遊戲Scrolls註冊商標，侵犯了貝塞斯達開發的遊戲系列[上古卷軸](../Page/上古卷轴系列.md "wikilink")（The
 Elder
 Scrolls）的版權。\[21\]於10月18日，馬庫斯·佩爾松公佈Mojang勝出訴訟案，但貝塞斯達仍能提出上訴。\[22\]於2012年3月，Mojang與贝塞斯达達成和解，Mojang決定放棄為Scrolls註冊商標，但贝塞斯达亦不能阻止Mojang使用「Scrolls」作為遊戲名稱。\[23\]在此期間，佩爾松開玩笑地邀請貝塞斯達與他進行一場《[雷神之锤III竞技场](../Page/雷神之锤III竞技场.md "wikilink")》遊戲來解決糾紛。\[24\]
 

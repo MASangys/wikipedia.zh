@@ -26,7 +26,7 @@
 | ---- | ----------------------------------------------------------- | ---------------------------- | ---- |
 | 古典时代 | [佩特拉](../Page/佩特拉.md "wikilink")                            | Petra                        |      |
 | 古典时代 | [兵马俑](https://zh.wikipedia.org/wiki/兵马俑 "wikilink")         | the Terracotta Army          |      |
-| 中古时代 | [杰内大清真寺](https://zh.wikipedia.org/wiki/杰内大清真寺 "wikilink")   | the Great Mosque of Djenne   |      |
+| 中古时代 | [杰内大清真寺](../Page/杰内大清真寺.md "wikilink")                      | the Great Mosque of Djenne   |      |
 | 中古时代 | [阿尔罕布拉宫](../Page/阿尔罕布拉宫.md "wikilink")                      | Alhambra                     |      |
 | 中古时代 | 圣殿                                                          | Grand Temple                 | 国家奇观 |
 | 启蒙时代 | [比萨斜塔](../Page/比萨斜塔.md "wikilink")                          | Leaning Tower of Pisa        |      |
@@ -55,7 +55,7 @@
 
 以下为游戏借用的宗教：（排名按拼音先后）
 
-  - [道教](https://zh.wikipedia.org/wiki/道教 "wikilink")
+  - [道教](../Page/道教.md "wikilink")
   - [佛教](../Page/佛教.md "wikilink")
   - [基督教](../Page/基督教.md "wikilink")
   - [儒学](https://zh.wikipedia.org/wiki/儒学 "wikilink")

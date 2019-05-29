@@ -113,8 +113,7 @@ zh-tw:新增}-了一些功能，以支持原生的非阻塞操作和进度报告
 
 ### 客户端
 
-  - [DBEdit](https://zh.wikipedia.org/wiki/DBEdit "wikilink")
-    一个免费的MariaDB数据库和其他数据库管理应用程序。
+  - [DBEdit](../Page/DBEdit.md "wikilink") 一个免费的MariaDB数据库和其他数据库管理应用程序。
 
   - [Navicat](../Page/Navicat.md "wikilink") 一系列Windows、Mac OS
     X、Linux下专有数据库管理应用程序。

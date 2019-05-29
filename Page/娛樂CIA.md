@@ -8,7 +8,7 @@
   - [盧覓雪](../Page/盧覓雪.md "wikilink")
   - [梁繼璋](../Page/梁繼璋.md "wikilink")
   - [李麗蕊](../Page/李麗蕊.md "wikilink")
-  - [路芙](https://zh.wikipedia.org/wiki/路芙 "wikilink")
+  - [路芙](../Page/路芙.md "wikilink")
   - [陳樹鵬](../Page/陳樹鵬.md "wikilink")（阿鵬）
   - [王志安](https://zh.wikipedia.org/wiki/王志安_\(藝人\) "wikilink")（Otto）
   - [董敏莉](../Page/董敏莉.md "wikilink")
@@ -103,7 +103,7 @@
   - 2012年9月15日，於荃灣愉景新城商場舉行「娛樂CIA滿月暨阿媽醒Summer熱爆Fun大衝刺」大型戶外活動，吸引達200名觀眾欣賞。
   - 2012年9月15日，由新任監製[鄧特希將節目內容改善為現時播放的新安排](../Page/鄧特希.md "wikilink")。
   - 2013年2月27日：由於因為不滿有人干預編輯自主，令節目難以保持水準，故傳訊媒體製作有限公司已向亞視發出律師信，通知腰斬節目及追討賠償。\[2\]
-  - 2013年3月21日，主持[盧覓雪](../Page/盧覓雪.md "wikilink")、[鄭啟泰](../Page/鄭啟泰.md "wikilink")、[路芙](https://zh.wikipedia.org/wiki/路芙 "wikilink")、[王志安](../Page/王志安.md "wikilink")、[陳樹鵬等人到灣仔](../Page/陳樹鵬.md "wikilink")[小額錢債審裁處向亞視追討欠薪](../Page/小額錢債審裁處.md "wikilink")。
+  - 2013年3月21日，主持[盧覓雪](../Page/盧覓雪.md "wikilink")、[鄭啟泰](../Page/鄭啟泰.md "wikilink")、[路芙](../Page/路芙.md "wikilink")、[王志安](../Page/王志安.md "wikilink")、[陳樹鵬等人到灣仔](../Page/陳樹鵬.md "wikilink")[小額錢債審裁處向亞視追討欠薪](../Page/小額錢債審裁處.md "wikilink")。
 
 ## 播出時間
 

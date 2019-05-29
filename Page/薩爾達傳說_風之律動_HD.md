@@ -40,12 +40,12 @@ U的開發工作。在企劃過程中，《[黃昏公主](../Page/薩爾達傳�
 一款包含《風之律動 HD》數位版本和豪華版Wii
 U主機的[組合包裝於](https://zh.wikipedia.org/wiki/綁售 "wikilink")2013年9月20日在北美洲推出。這款主機組合在黑色的GamePad上印有金色的文字、海拉爾紋章和“風之律動
 HD”的圖案。此外，這個組合中也包含了一組可以兌換電子書《薩爾達傳說：海拉爾歷史》（*The Legend of Zelda: Hyrule
-Historia*）的序號，書中收錄了系列作的歷史和美術設定。\[18\]遊戲零售商[GameStop則提供了包含角色人偶的](https://zh.wikipedia.org/wiki/GameStop "wikilink")《風之律動
+Historia*）的序號，書中收錄了系列作的歷史和美術設定。\[18\]遊戲零售商[GameStop則提供了包含角色人偶的](../Page/GameStop.md "wikilink")《風之律動
 HD》特別版。\[19\]
 
 《風之律動 HD》在於2013年9月26日在日本推出。\[20\]隨後在在歐洲和澳洲分別於於2013年10月4日和5日上市。\[21\]
 
-本作品於2013年9月20日先行於北美地區的[任天堂eShop中上市](https://zh.wikipedia.org/wiki/任天堂eShop "wikilink")，實體零售版本則在2013年10月4日推出，零售價格比起一般的Wii
+本作品於2013年9月20日先行於北美地區的[任天堂eShop中上市](../Page/任天堂eShop.md "wikilink")，實體零售版本則在2013年10月4日推出，零售價格比起一般的Wii
 U遊戲便宜了10美元。\[22\]
 
 ## 評價

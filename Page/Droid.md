@@ -13,7 +13,7 @@ Image:DroidSansMonoSpecimen.svg|Droid Sans Mono
 ## 另见
 
   - [Roboto](../Page/Roboto.md "wikilink")，Android 4.0後的預設字體
-  - [Noto](https://zh.wikipedia.org/wiki/Noto "wikilink")，Android設備上Roboto的[後備字體](../Page/後備字體.md "wikilink")
+  - [Noto](../Page/Noto.md "wikilink")，Android設備上Roboto的[後備字體](../Page/後備字體.md "wikilink")
 
 ## 参考文献
 

@@ -284,7 +284,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 <td><p>2011年9月7日</p></td>
 <td><p><strong><a href="../Page/FIGHTERS.md" title="wikilink">FIGHTERS</a></strong></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TRIBAL_SOUL" title="wikilink">TRIBAL SOUL</a></p></td>
+<td><p><a href="../Page/TRIBAL_SOUL.md" title="wikilink">TRIBAL SOUL</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -481,7 +481,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p>2011年12月7日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/TRIBAL_SOUL" title="wikilink">TRIBAL SOUL</a></strong></p></td>
+<td><p><strong><a href="../Page/TRIBAL_SOUL.md" title="wikilink">TRIBAL SOUL</a></strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1121,8 +1121,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ### 手機發送
 
-  - EXFILE（2013年 -
-    、[NOTTV](https://zh.wikipedia.org/wiki/NOTTV "wikilink")）
+  - EXFILE（2013年 - 、[NOTTV](../Page/NOTTV.md "wikilink")）
 
 ## 榮譽
 

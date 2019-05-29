@@ -64,7 +64,7 @@ HTTP摘要认证目的在于比传统摘要认证构架更安全；例如，“�
     [DIGESTAuth](http://wiki.jboss.org/wiki/Wiki.jsp?page=DIGESTAuth))仅存储
     HA1 而不是[明文密码](https://zh.wikipedia.org/wiki/明文 "wikilink")。
   - 在 RFC 2617
-    中引入了[客户端随机数nonce](https://zh.wikipedia.org/wiki/nonce "wikilink")（cnonce），这将使客户端能够防止[选择明文攻击](https://zh.wikipedia.org/wiki/选择明文攻击 "wikilink")，否则像[彩虹表](https://zh.wikipedia.org/wiki/彩虹表 "wikilink")（Rainbow
+    中引入了[客户端随机数nonce](https://zh.wikipedia.org/wiki/nonce "wikilink")（cnonce），这将使客户端能够防止[选择明文攻击](https://zh.wikipedia.org/wiki/选择明文攻击 "wikilink")，否则像[彩虹表](../Page/彩虹表.md "wikilink")（Rainbow
     table）这类东西就会成为摘要认证构架的威胁。
   - 服务器随机数 nonce 允许包含时间戳。因此服务器可以检查客户端提交的随机数
     nonce，以防止[重放攻击](https://zh.wikipedia.org/wiki/重放攻击 "wikilink")。

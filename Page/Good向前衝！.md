@@ -60,7 +60,7 @@ trax發售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
 12. **[My Resistance
     -真實的存在-](https://zh.wikipedia.org/wiki/My_Resistance_-真實的存在-/命運女孩 "wikilink")**
       -
-        6th單曲。[朝日電視台電視劇](../Page/朝日電視台.md "wikilink")「[信長的主廚](https://zh.wikipedia.org/wiki/信長的主廚 "wikilink")」的主題曲
+        6th單曲。[朝日電視台電視劇](../Page/朝日電視台.md "wikilink")「[信長的主廚](../Page/信長的主廚.md "wikilink")」的主題曲
 13. **Mother Moon**
 14. **JET\! SET\!\! GO\!\!\!**
       -

@@ -10,7 +10,7 @@ Pamyu的第](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")6張[單
 全作詞、作曲、編曲：[中田康貴](../Page/中田康貴.md "wikilink")
 
 1.  **INVADER INVADER**（）
-      - [GU](https://zh.wikipedia.org/wiki/GU "wikilink") CM歌曲
+      - [GU](../Page/GU.md "wikilink") CM歌曲
 2.  **Point of view**
       - [富士電視台](../Page/富士電視台.md "wikilink")『』主題曲
 3.  **FASHION MONSTER -加長混音版-**（）

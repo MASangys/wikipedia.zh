@@ -8,7 +8,7 @@ Maven的项目](../Page/Apache_Maven.md "wikilink")，以及任意的shell脚本
 Hudson在2008年左右基本取代了和其他开源的构建服务器（Build
 Server）。\[1\]\[2\]在2008年5月的[JavaOne大会上](https://zh.wikipedia.org/wiki/JavaOne "wikilink")，Hudson成为“Duke选择奖”开发人员解决方案分类的得主。\[3\]
 
-[甲骨文公司收购](../Page/甲骨文公司.md "wikilink")[昇陽電腦时](../Page/昇陽電腦.md "wikilink")，甲骨文公司宣布其有意把Hudson的名字作为商标，并开始以[商业软件开发](https://zh.wikipedia.org/wiki/商业软件 "wikilink")。2011年初，开发社区中的多数人（包括川口耕介）决定以[Jenkins的名义延续该项目](https://zh.wikipedia.org/wiki/Jenkins_\(软件\) "wikilink")。甲骨文公司坚称Hudson仍在继续开发，而Jenkins是其的[分支](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")；但Jenkins的开发者认为Hudson是其的分支。
+[甲骨文公司收购](../Page/甲骨文公司.md "wikilink")[昇陽電腦时](../Page/昇陽電腦.md "wikilink")，甲骨文公司宣布其有意把Hudson的名字作为商标，并开始以[商业软件开发](https://zh.wikipedia.org/wiki/商业软件 "wikilink")。2011年初，开发社区中的多数人（包括川口耕介）决定以[Jenkins的名义延续该项目](../Page/Jenkins_\(软件\).md "wikilink")。甲骨文公司坚称Hudson仍在继续开发，而Jenkins是其的[分支](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")；但Jenkins的开发者认为Hudson是其的分支。
 
 随后，甲骨文公司对于Hudson项目丧失了兴趣，最终在2012年底将其捐赠给了[Eclipse基金会](../Page/Eclipse基金会.md "wikilink")\[4\]。截至2013年11月，每天提交给了Jenkins的贡献\[5\]要比Hudson的\[6\]多得多。
 
@@ -21,7 +21,7 @@ Hudson可通过一个插件架构进行扩展。许多插件已经公开，扩�
 
 ## Hudson——Jenkins的分裂
 
-在2010年11月，就由谁主导Hudson，\[7\]该项目的主要贡献者和甲骨文公司之间展开谈判，尽管在多个方面达成一致，争议集中在对“Hudson”名字本身的控制上。甲骨文公司声明对Hudson的名字拥有权利，并在2010年12月初申请将其注册为商标（在2011年10月25日获得商标权）\[8\]。因此，2011年1月11日，有人提议将项目名称从“Hudson”变更为“Jenkins”。\[9\]2011年1月29日，社区投票以压倒多数批准通过该提案，创建[Jenkins项目](https://zh.wikipedia.org/wiki/Jenkins_\(软件\) "wikilink")。\[10\]2011年2月1日，甲骨文公司表示，继续与社区中的其他人合作，延续Hudson的开发。\[11\]
+在2010年11月，就由谁主导Hudson，\[7\]该项目的主要贡献者和甲骨文公司之间展开谈判，尽管在多个方面达成一致，争议集中在对“Hudson”名字本身的控制上。甲骨文公司声明对Hudson的名字拥有权利，并在2010年12月初申请将其注册为商标（在2011年10月25日获得商标权）\[8\]。因此，2011年1月11日，有人提议将项目名称从“Hudson”变更为“Jenkins”。\[9\]2011年1月29日，社区投票以压倒多数批准通过该提案，创建[Jenkins项目](../Page/Jenkins_\(软件\).md "wikilink")。\[10\]2011年2月1日，甲骨文公司表示，继续与社区中的其他人合作，延续Hudson的开发。\[11\]
 
 ## 移交给Eclipse基金会
 

@@ -11,7 +11,7 @@ io是一組在[臺灣島發跡的](https://zh.wikipedia.org/wiki/臺灣島 "wiki
 
 2011年，io成為[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[利物浦音樂節](https://zh.wikipedia.org/wiki/利物浦音樂節 "wikilink")（Liverpool
 Sound City
-festival）的台灣代表，也成為[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[草莓音樂節的台灣代表](https://zh.wikipedia.org/wiki/草莓音樂節 "wikilink")\[2\]；並參與[國家地理頻道紀錄片](../Page/國家地理頻道.md "wikilink")《愛上真台灣：華語樂之路》的訪問\[3\]。也因為入圍第22屆[金曲獎最佳新人及最佳樂團的緣故](../Page/金曲獎.md "wikilink")，io在[台北小巨蛋舉行的頒獎典禮演奏了出道作品](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")
+festival）的台灣代表，也成為[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")[草莓音樂節的台灣代表](../Page/草莓音樂節.md "wikilink")\[2\]；並參與[國家地理頻道紀錄片](../Page/國家地理頻道.md "wikilink")《愛上真台灣：華語樂之路》的訪問\[3\]。也因為入圍第22屆[金曲獎最佳新人及最佳樂團的緣故](../Page/金曲獎.md "wikilink")，io在[台北小巨蛋舉行的頒獎典禮演奏了出道作品](https://zh.wikipedia.org/wiki/台北小巨蛋 "wikilink")
 《真實》\[4\]。
 
 2012年，io加入[滾石唱片](../Page/滾石唱片.md "wikilink")，同年11月發行第二張專輯《[到頭來瘋的難道是我？](../Page/到頭來瘋的難道是我？.md "wikilink")》\[5\]。

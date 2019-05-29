@@ -1,4 +1,4 @@
-《**Start世界巡迴演唱會**》是[新加坡](../Page/新加坡.md "wikilink")[歌手](../Page/歌手.md "wikilink")[孫燕姿的第二張](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")[演唱會專輯](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，於2002年9月發行。是其在2002年3月23日於*[Start世界巡迴演唱會](https://zh.wikipedia.org/wiki/Start世界巡迴演唱會 "wikilink")*台北站演出的現場實錄。CD版本現場Talking部分有所剪輯，也沒有收錄《Encore序曲》，DVD、VCD版本記錄則相對完整一些。
+《**Start世界巡迴演唱會**》是[新加坡](../Page/新加坡.md "wikilink")[歌手](../Page/歌手.md "wikilink")[孫燕姿的第二張](https://zh.wikipedia.org/wiki/孫燕姿 "wikilink")[演唱會專輯](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，於2002年9月發行。是其在2002年3月23日於*[Start世界巡迴演唱會](../Page/Start世界巡迴演唱會.md "wikilink")*台北站演出的現場實錄。CD版本現場Talking部分有所剪輯，也沒有收錄《Encore序曲》，DVD、VCD版本記錄則相對完整一些。
 
 ## 唱片版本
 

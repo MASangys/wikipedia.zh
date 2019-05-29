@@ -826,7 +826,7 @@ LIBERATOR」決定製作消息的[Flash宣傳影片](../Page/Adobe_Flash.md "wik
 <td><p>2010年</p></td>
 <td><p><a href="../Page/一騎當千.md" title="wikilink">一騎當千 XTREME XECUTOR</a>]</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TNK" title="wikilink">TNK</a></p></td>
+<td><p><a href="../Page/TNK.md" title="wikilink">TNK</a></p></td>
 <td></td>
 <td></td>
 <td></td>

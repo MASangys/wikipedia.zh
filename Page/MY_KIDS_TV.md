@@ -20,7 +20,7 @@ KIDS TV定頻在中華電信MOD第18頻道。2017年11月1日，因應中華電�
   - [鋼彈創鬥者](https://zh.wikipedia.org/wiki/鋼彈創鬥者 "wikilink")
   - [鐵道小英雄](https://zh.wikipedia.org/wiki/鐵道小英雄 "wikilink")
   - [奇幻山丘高中](https://zh.wikipedia.org/wiki/奇幻山丘高中 "wikilink")
-  - [星光樂園](https://zh.wikipedia.org/wiki/星光樂園 "wikilink")
+  - [星光樂園](../Page/星光樂園.md "wikilink")
   - [網球王子](https://zh.wikipedia.org/wiki/網球王子 "wikilink")
   - [忍者亂太郎](https://zh.wikipedia.org/wiki/忍者亂太郎 "wikilink")
   - [星光少女 彩虹舞台](../Page/星光少女_彩虹舞台.md "wikilink")

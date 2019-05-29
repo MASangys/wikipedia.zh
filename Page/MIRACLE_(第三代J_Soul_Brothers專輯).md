@@ -4,8 +4,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
-  - 與上一張專輯《[TRIBAL
-    SOUL](https://zh.wikipedia.org/wiki/TRIBAL_SOUL "wikilink")》相距約1年。
+  - 與上一張專輯《[TRIBAL SOUL](../Page/TRIBAL_SOUL.md "wikilink")》相距約1年。
   - 收錄第6張單曲《[Go my
     way](../Page/Go_my_way_\(第三代J_Soul_Brothers單曲\).md "wikilink")》至第8張單曲《[Powder
     Snow
@@ -119,7 +118,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 6.  [Always](../Page/J_Soul_Brothers_\(第三代J_Soul_Brothers專輯\).md "wikilink")
 7.  [LOVE
     SONG](../Page/LOVE_SONG_\(第三代J_Soul_Brothers單曲\).md "wikilink")
-8.  [SOUTHSIDE](https://zh.wikipedia.org/wiki/TRIBAL_SOUL "wikilink")
+8.  [SOUTHSIDE](../Page/TRIBAL_SOUL.md "wikilink")
 9.  [Best Friend's Girl](../Page/Best_Friend's_Girl.md "wikilink")
 10. [On Your Mark〜奇蹟之光〜](../Page/On_Your_Mark〜奇蹟之光〜.md "wikilink")
 11. [Go my
@@ -134,11 +133,9 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     TRIBE](https://zh.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink")
 18. [（YOU SHINE）THE WORLD](../Page/0〜ZERO〜.md "wikilink")
 19. [FIGHTERS](../Page/FIGHTERS.md "wikilink")
-20. [On The Road
-    ～夢的途中～](https://zh.wikipedia.org/wiki/TRIBAL_SOUL "wikilink")
-21. [Feel The
-    Soul](https://zh.wikipedia.org/wiki/TRIBAL_SOUL "wikilink")
-22. [I Can Do It](https://zh.wikipedia.org/wiki/TRIBAL_SOUL "wikilink")
+20. [On The Road ～夢的途中～](../Page/TRIBAL_SOUL.md "wikilink")
+21. [Feel The Soul](../Page/TRIBAL_SOUL.md "wikilink")
+22. [I Can Do It](../Page/TRIBAL_SOUL.md "wikilink")
 23. 24karats Medley -0〜ZERO〜 Ver.- \[ENCORE\]
 24. [新時代](../Page/J_Soul_Brothers_\(第三代J_Soul_Brothers專輯\).md "wikilink")
     \[ENCORE\]

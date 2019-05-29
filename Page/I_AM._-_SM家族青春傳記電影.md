@@ -24,7 +24,7 @@ Entertainment於](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")2012
     to the
     Sky及](../Page/Fly_to_the_Sky.md "wikilink")[BoA合唱](../Page/寶兒.md "wikilink")。
   - 2012年版本由[Kangta](../Page/安七炫.md "wikilink")、[BoA](../Page/寶兒.md "wikilink")、[昌珉](../Page/沈昌珉.md "wikilink")（[東方神起](../Page/東方神起.md "wikilink")）、[藝聲](../Page/藝聲.md "wikilink")（[Super
-    Junior](../Page/Super_Junior.md "wikilink")）、[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）、[鐘鉉](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）、[Luna](../Page/朴善英.md "wikilink")（[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）及[Luhan](https://zh.wikipedia.org/wiki/鹿晗 "wikilink")、[Baekhyun](https://zh.wikipedia.org/wiki/伯賢 "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鍾大 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")（[EXO](../Page/EXO.md "wikilink")）。
+    Junior](../Page/Super_Junior.md "wikilink")）、[太妍](https://zh.wikipedia.org/wiki/金泰耎 "wikilink")（[少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")）、[鐘鉉](https://zh.wikipedia.org/wiki/金鐘鉉_\(歌手\) "wikilink")（[SHINee](../Page/SHINee.md "wikilink")）、[Luna](../Page/朴善英.md "wikilink")（[f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")）及[Luhan](../Page/鹿晗.md "wikilink")、[Baekhyun](../Page/伯賢.md "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鍾大 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")（[EXO](../Page/EXO.md "wikilink")）。
 
 ## 官方網站
 

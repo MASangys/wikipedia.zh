@@ -30,7 +30,7 @@ Fly**》是韓國男子組合[B1A4首張迷你專輯](../Page/B1A4.md "wikilink"
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2011年Gaon專輯冠軍作品列表" title="wikilink">專輯周榜</a></p></td>
+<td><p><a href="../Page/2011年Gaon專輯冠軍作品列表.md" title="wikilink">專輯周榜</a></p></td>
 <td><p>2011年4月24日－4月30日</p></td>
 <td><p>#6</p></td>
 <td><p>–</p></td>
@@ -38,7 +38,7 @@ Fly**》是韓國男子組合[B1A4首張迷你專輯](../Page/B1A4.md "wikilink"
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/2011年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2011年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2011年4月</p></td>
 <td><p>#26</p></td>
 <td><p>7,380</p></td>

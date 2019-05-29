@@ -150,7 +150,7 @@ When WS is installed on Linux in a non-default location, the Virtual Network Edi
 <tr class="odd">
 <td><p>11.0</p></td>
 <td><p>2014年12月1日</p></td>
-<td><p>可在虚拟机安装<a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a>、<a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a> 14.10、<a href="../Page/Red_Hat_Enterprise_Linux.md" title="wikilink">Red Hat Enterprise Linux</a> 7、<a href="../Page/CentOS.md" title="wikilink">CentOS</a> 7、<a href="../Page/Fedora.md" title="wikilink">Fedora</a> 20、<a href="../Page/Debian.md" title="wikilink">Debian</a> 7.6與VMware vCloud Air連結。<br />
+<td><p>可在虚拟机安装<a href="../Page/Windows_10.md" title="wikilink">Windows 10</a>、<a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a> 14.10、<a href="../Page/Red_Hat_Enterprise_Linux.md" title="wikilink">Red Hat Enterprise Linux</a> 7、<a href="../Page/CentOS.md" title="wikilink">CentOS</a> 7、<a href="../Page/Fedora.md" title="wikilink">Fedora</a> 20、<a href="../Page/Debian.md" title="wikilink">Debian</a> 7.6與VMware vCloud Air連結。<br />
 此版本停止32位Windows的支持，只能在Windows 7以上的64位Windows上安装。</p></td>
 </tr>
 <tr class="even">
@@ -171,7 +171,7 @@ When WS is installed on Linux in a non-default location, the Virtual Network Edi
 <tr class="odd">
 <td><p>12.0.0</p></td>
 <td><p>2015年8月24日</p></td>
-<td><p>完全支持<a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a> RTM (Build 10240)、<a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a> 15.04、<a href="../Page/Red_Hat_Enterprise_Linux.md" title="wikilink">Red Hat Enterprise Linux</a> 7.1、<a href="../Page/CentOS.md" title="wikilink">CentOS</a> 7.1、<a href="../Page/Fedora.md" title="wikilink">Fedora</a> 22、<a href="../Page/Oracle_Linux.md" title="wikilink">Oracle Linux</a> 7.1与VMware Project Photon。支持<a href="https://zh.wikipedia.org/wiki/DirectX_10" title="wikilink">DirectX 10和</a><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a> 3.3。</p></td>
+<td><p>完全支持<a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> RTM (Build 10240)、<a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a> 15.04、<a href="../Page/Red_Hat_Enterprise_Linux.md" title="wikilink">Red Hat Enterprise Linux</a> 7.1、<a href="../Page/CentOS.md" title="wikilink">CentOS</a> 7.1、<a href="../Page/Fedora.md" title="wikilink">Fedora</a> 22、<a href="../Page/Oracle_Linux.md" title="wikilink">Oracle Linux</a> 7.1与VMware Project Photon。支持<a href="https://zh.wikipedia.org/wiki/DirectX_10" title="wikilink">DirectX 10和</a><a href="../Page/OpenGL.md" title="wikilink">OpenGL</a> 3.3。</p></td>
 </tr>
 <tr class="even">
 <td><p>12.0.1</p></td>
@@ -236,14 +236,14 @@ When WS is installed on Linux in a non-default location, the Virtual Network Edi
 <tr class="even">
 <td><p>14</p></td>
 <td><p>2017年9月26日</p></td>
-<td><p>支援最新的 <a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a>、<a href="../Page/Windows_Server_2016.md" title="wikilink">Windows Server 2016</a> 和 <a href="../Page/Linux.md" title="wikilink">Linux</a> 作業系統<br />
+<td><p>支援最新的 <a href="../Page/Windows_10.md" title="wikilink">Windows 10</a>、<a href="../Page/Windows_Server_2016.md" title="wikilink">Windows Server 2016</a> 和 <a href="../Page/Linux.md" title="wikilink">Linux</a> 作業系統<br />
 支援最新的 Intel 和 AMD 處理器</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>2018年9月24日</p></td>
 <td><p>支援 4K 解析度<br />
-支援 <a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a> 版本 1803 及最新的 <a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a> 等 <a href="../Page/Linux.md" title="wikilink">Linux</a> 作業系統<br />
+支援 <a href="../Page/Windows_10.md" title="wikilink">Windows 10</a> 版本 1803 及最新的 <a href="../Page/Ubuntu.md" title="wikilink">Ubuntu</a> 等 <a href="../Page/Linux.md" title="wikilink">Linux</a> 作業系統<br />
 圖形共享記憶體支援高達 3GB</p></td>
 </tr>
 </tbody>
@@ -256,7 +256,7 @@ Workstation在用于将[MAC地址用作唯一识别标记](../Page/MAC地址.md 
 
 ## 另見
 
-  - [作業系統層虛擬化](https://zh.wikipedia.org/wiki/作業系統層虛擬化 "wikilink")
+  - [作業系統層虛擬化](../Page/作業系統層虛擬化.md "wikilink")
 
 ## 参考文献
 

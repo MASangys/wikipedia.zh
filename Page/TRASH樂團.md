@@ -76,7 +76,7 @@ rock](https://zh.wikipedia.org/wiki/Alternative_rock "wikilink")、[Grunge為主
   - 2014年：多次受邀參與海外音樂節的演出，分別前往：中國深圳迷笛音樂節；中國上海熱波音樂節；香港呼叫音樂節；[新加坡Music](../Page/新加坡.md "wikilink")
     Matters Live；[韓國仁川音樂節](https://zh.wikipedia.org/wiki/韓國 "wikilink")。
   - 2015年：亞洲巡迴（[香港](../Page/香港.md "wikilink")、[中國](../Page/中國.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[日本](../Page/日本.md "wikilink").....等）、河岸留言《河岸聲現》with
-    [放客兄弟](https://zh.wikipedia.org/wiki/放客兄弟 "wikilink")\[1\]。
+    [放客兄弟](../Page/放客兄弟.md "wikilink")\[1\]。
   - 2017年：[2017年夏季世界大學運動會閉幕式](https://zh.wikipedia.org/wiki/2017年夏季世界大學運動會 "wikilink")、嘉大狂人音樂祭、搖滾台中。
   - 2018年：桃園鐵玫瑰熱音賞。
 

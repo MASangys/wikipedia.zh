@@ -12,7 +12,7 @@
 2.  **僕の存在**
     作詞：山村隆太、作曲：阪井一生、編曲：玉井健二、百田留衣
 3.  **[Quville (LIVE at C.C.Lemon
-    Hall)](https://zh.wikipedia.org/wiki/What's_flumpool!? "wikilink")**
+    Hall)](../Page/What's_flumpool!?.md "wikilink")**
     作詞：山村隆太、作曲：阪井一生、編曲：玉井健二、百田留衣
 4.  **君に届け (Instrumental)**
 5.  **僕の存在 (Instrumental)**

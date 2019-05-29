@@ -12,7 +12,7 @@ Google Drive的軟體可執行於[Windows
 XP](../Page/Windows_XP.md "wikilink")、[Windows
 Vista](../Page/Windows_Vista.md "wikilink")、[Windows
 7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")、[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")、[Mac OS X
+10](../Page/Windows_10.md "wikilink")、[Mac OS X
 Lion](../Page/Mac_OS_X_Lion.md "wikilink")（10.7）以及[Snow
 Leopard](../Page/Mac_OS_X_Snow_Leopard.md "wikilink")（10.6）、[Android](../Page/Android.md "wikilink")[智慧型手機與](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")[平板電腦](../Page/平板電腦.md "wikilink")（Android
 2.1以上）、

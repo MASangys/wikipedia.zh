@@ -221,7 +221,7 @@ Doctor}-](https://zh.wikipedia.org/wiki/Good_Doctor善良醫生 "wikilink")》[�
 朋友奇英才被抓入獄，海盜廣播解散，但他沒放棄記者的生活。然而，在女兒就要五歲的時候，他卻在一次秘密資金追查事件中死去……</p></td>
 <td><p>1-4,6-8,11,18,20</p></td>
 <td><p><a href="../Page/鄧燦陽.md" title="wikilink">鄧燦陽</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄧志堅" title="wikilink">鄧志堅</a></p></td>
+<td><p><a href="../Page/鄧志堅.md" title="wikilink">鄧志堅</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -708,7 +708,7 @@ Doctor}-](https://zh.wikipedia.org/wiki/Good_Doctor善良醫生 "wikilink")》[�
 
 ## 同時段競爭節目
 
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[傲慢與偏見](https://zh.wikipedia.org/wiki/傲慢與偏見_\(韓國電視劇\) "wikilink")》、《[輝煌或瘋狂](../Page/輝煌或瘋狂.md "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[傲慢與偏見](../Page/傲慢與偏見_\(韓國電視劇\).md "wikilink")》、《[輝煌或瘋狂](../Page/輝煌或瘋狂.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《-{[秘密之門](../Page/秘密之門.md "wikilink")}-》、《[-{Punch}-](../Page/Punch_\(電視劇\).md "wikilink")》
 
 ## 獲獎

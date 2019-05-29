@@ -593,8 +593,7 @@ MX](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")、[KBS京都](https://zh.
 
 ### 主題曲
 
-  - 片頭曲「[This
-    game](https://zh.wikipedia.org/wiki/This_game "wikilink")」
+  - 片頭曲「[This game](../Page/This_game.md "wikilink")」
     作詞：深青結希，作曲：若林充，編曲：eba，主唱：[鈴木木乃美](https://zh.wikipedia.org/wiki/鈴木木乃美 "wikilink")
     第1話、第12話作為片尾曲使用。
   - 片尾曲「」（第2話－第11話）

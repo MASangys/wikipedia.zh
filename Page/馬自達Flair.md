@@ -44,8 +44,7 @@ Style HS (MJ44S) rear.JPG|後期型車尾
 
   - [鈴木汽車](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")
   - [馬自達Flair Wagon](../Page/馬自達Flair_Wagon.md "wikilink")
-  - [馬自達Flair
-    Crossover](https://zh.wikipedia.org/wiki/馬自達Flair_Crossover "wikilink")
+  - [馬自達Flair Crossover](../Page/馬自達Flair_Crossover.md "wikilink")
 
 ## 參考資料
 

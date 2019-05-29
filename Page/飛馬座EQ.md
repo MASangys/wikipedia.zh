@@ -18,7 +18,7 @@
 **飛馬座EQ A/B**
 
 **飛馬座EQ**（EQ Peg / GJ 896 / HIP
-116132）\[1\]是在[飛馬座的一個恆星系統](https://zh.wikipedia.org/wiki/飛馬座 "wikilink")，距離[太陽系只有](https://zh.wikipedia.org/wiki/太陽系 "wikilink")20.7[光年](../Page/光年.md "wikilink")，屬於接近太陽系前100名之內的恆星系\[2\]。距離這個系統最近的恆星系統是[葛利澤880](https://zh.wikipedia.org/wiki/葛利澤880 "wikilink")，相距僅有3.96年\[3\]。
+116132）\[1\]是在[飛馬座的一個恆星系統](https://zh.wikipedia.org/wiki/飛馬座 "wikilink")，距離[太陽系只有](https://zh.wikipedia.org/wiki/太陽系 "wikilink")20.7[光年](../Page/光年.md "wikilink")，屬於接近太陽系前100名之內的恆星系\[2\]。距離這個系統最近的恆星系統是[葛利澤880](../Page/葛利澤880.md "wikilink")，相距僅有3.96年\[3\]。
 
 飛馬座EQ是由兩顆[紅矮星組成的](../Page/紅矮星.md "wikilink")[聯星](../Page/聯星.md "wikilink")，**飛馬座EQ
 A**（EQ Peg A / GJ 896 A / LHS

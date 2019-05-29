@@ -1,5 +1,5 @@
 **NXT
-Arrival**（風格化：）\[1\]，是由[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）的[網路服務](https://zh.wikipedia.org/wiki/世界摔角娛樂網路服務 "wikilink")（WWE
+Arrival**（風格化：）\[1\]，是由[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）的[網路服務](../Page/世界摔角娛樂網路服務.md "wikilink")（WWE
 Network）以網路直播進行的首次活動。
 
 ## 概述

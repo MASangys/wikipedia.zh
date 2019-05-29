@@ -19,9 +19,9 @@
       - [EF81形](https://zh.wikipedia.org/wiki/日本國鐵EF81型電力機車 "wikilink")
       - [EF510形](../Page/JR貨物EF510型電力機車.md "wikilink")
   - **柴油機車**
-      - [DD14形](https://zh.wikipedia.org/wiki/日本國鐵DD14型柴油機車 "wikilink")（除雪用）
+      - [DD14形](../Page/日本國鐵DD14型柴油機車.md "wikilink")（除雪用）
       - [DD16形](../Page/日本國鐵DD16型柴油機車.md "wikilink")
-      - [DD51形](https://zh.wikipedia.org/wiki/日本國鐵DD51型柴油機車 "wikilink")
+      - [DD51形](../Page/日本國鐵DD51型柴油機車.md "wikilink")
       - [DE10形](https://zh.wikipedia.org/wiki/日本國鐵DE10型柴油機車 "wikilink")
       - [DE11形](https://zh.wikipedia.org/wiki/日本國鐵DE11型柴油機車 "wikilink")
       - [DE15形](https://zh.wikipedia.org/wiki/日本國鐵DE15型柴油機車 "wikilink")（除雪用）
@@ -158,7 +158,7 @@
       - [ED78形](../Page/日本國鐵ED78型電力機車.md "wikilink")
       - [EF71形](../Page/日本國鐵EF71型電力機車.md "wikilink")
   - **柴油機車**
-      - [DD15形](https://zh.wikipedia.org/wiki/日本國鐵DD15型柴油機車 "wikilink")（除雪用）
+      - [DD15形](../Page/日本國鐵DD15型柴油機車.md "wikilink")（除雪用）
       - [DD17形](https://zh.wikipedia.org/wiki/日本國鐵DD17型柴油機車 "wikilink")（除雪用）
       - [DD18形](https://zh.wikipedia.org/wiki/JR東日本DD18型柴油機車 "wikilink")（除雪用・標準軌）
       - [DD19形](https://zh.wikipedia.org/wiki/JR東日本DD19型柴油機車 "wikilink")（除雪用・標準軌）

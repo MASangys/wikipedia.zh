@@ -18,7 +18,7 @@
 ### unique_ptr
 
 unique_ptr是个类模板。unique_ptr指针对象独占式地引用所指的数据对象。不能复制构造（copy
-ctor），也不能复制赋值，也就是对其无法进行复制，不能得到指向同一个对象的两个unique_ptr；但是可以移动构造和移动赋值。当unique_ptr指针对象离开其作用域，生命期结束时，自动使用内部给定的删除器（deleter）delete所指向的数据对象。unique_ptr十分依赖于[右值引用和](https://zh.wikipedia.org/wiki/右值引用 "wikilink")[移动语义](https://zh.wikipedia.org/wiki/移动语义 "wikilink")。
+ctor），也不能复制赋值，也就是对其无法进行复制，不能得到指向同一个对象的两个unique_ptr；但是可以移动构造和移动赋值。当unique_ptr指针对象离开其作用域，生命期结束时，自动使用内部给定的删除器（deleter）delete所指向的数据对象。unique_ptr十分依赖于[右值引用和](../Page/右值引用.md "wikilink")[移动语义](https://zh.wikipedia.org/wiki/移动语义 "wikilink")。
 
 ``` cpp
 template<class Type, class Del = default_delete<Type> >

@@ -4,7 +4,7 @@ Hits**是北美索尼[PlayStation](https://zh.wikipedia.org/wiki/PlayStation_\(�
 3和](../Page/PlayStation_3.md "wikilink")[PlayStation
 Portable游戏机上](../Page/PlayStation_Portable.md "wikilink")，官方以低价再版的电子游戏。“Greatest
 Hits”一词仅用于北美地区（但亚洲存在Greatest Hits标签的PlayStation 4游戏），在日本和亚洲（称为“[The
-Best](https://zh.wikipedia.org/wiki/The_Best "wikilink")”）、PAL区（称为“”）、巴西（称为“Favoritos”）和韩国（称为“”）也有相同的项目\[1\]。
+Best](../Page/The_Best.md "wikilink")”）、PAL区（称为“”）、巴西（称为“Favoritos”）和韩国（称为“”）也有相同的项目\[1\]。
 
 Greatest
 Hits作品俗称“红标签”（PlayStation作品称为“绿标签”），以此区别常规发行的包装（类似的被称为“黑标签”）。游戏发行超过一定时间，且达到一定销量就可以成为Greatest
@@ -1199,8 +1199,7 @@ Portable作品](../Page/PlayStation_Portable.md "wikilink")\[9\]：
 
   - [看门狗](https://zh.wikipedia.org/wiki/看门狗_\(游戏\) "wikilink")''
 
-  - [世界足球
-    胜利十一人2015](https://zh.wikipedia.org/wiki/世界足球_胜利十一人2015 "wikilink")
+  - [世界足球 胜利十一人2015](../Page/世界足球_胜利十一人2015.md "wikilink")
 
   - [战场女武神重制版](https://zh.wikipedia.org/wiki/战场女武神 "wikilink")
 

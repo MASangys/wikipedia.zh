@@ -130,7 +130,7 @@
   -
   - [ACOG瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")
 
-  - [全像瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")
+  - [全像瞄準鏡](../Page/全像武器照準器.md "wikilink")
 
 <!-- end list -->
 
@@ -248,7 +248,7 @@
 ※指單獨的引導武器
 
   - [鐵拳3反坦克飛彈](../Page/Panzerfaust_3反坦克榴彈.md "wikilink")
-  - [火蛇70航空火箭彈](https://zh.wikipedia.org/wiki/火蛇70航空火箭彈 "wikilink")
+  - [火蛇70航空火箭彈](../Page/火蛇70航空火箭彈.md "wikilink")
   - [BGM-71H拖式飛彈](../Page/BGM-71拖式飛彈.md "wikilink")
   - [AIM-7P麻雀中程空對空飛彈](../Page/AIM-7麻雀飛彈.md "wikilink")
   - [AIM-9X響尾蛇短程空對空飛彈](../Page/AIM-9響尾蛇飛彈.md "wikilink")
@@ -459,7 +459,7 @@
 <!-- end list -->
 
   -
-  - [鎮暴水車](https://zh.wikipedia.org/wiki/水砲 "wikilink")
+  - [鎮暴水車](../Page/水砲.md "wikilink")
 
 <!-- end list -->
 

@@ -24,7 +24,7 @@ Don't Know》。
         [关西电视台](https://zh.wikipedia.org/wiki/关西电视台 "wikilink")・[富士电视台系电视剧](https://zh.wikipedia.org/wiki/富士电视台 "wikilink")《[沙希](https://zh.wikipedia.org/wiki/沙希_\(电视剧\) "wikilink")》主題歌
         韓国发售的第六张专辑《[Catch Me](../Page/CATCH_ME.md "wikilink")》主打曲的日语版本。
         上次在单曲中收录韓国发行歌曲的日语版本是两年前发行的第31张单曲《[Why? (Keep Your Head
-        Down)](https://zh.wikipedia.org/wiki/Why?_\(Keep_Your_Head_Down\) "wikilink")》。
+        Down)](../Page/Why?_\(Keep_Your_Head_Down\).md "wikilink")》。
 2.  《I Know》 \[4:26\]
       - 作詞：、作曲：T-SK・TESUNG Kim・Andrew Choi
     <!-- end list -->

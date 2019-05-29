@@ -1,9 +1,9 @@
 **班布里奇号驱逐舰**（USS *Bainbridge*
-(DD-1)）是[美国海军第一艘](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[驱逐舰](../Page/驱逐舰.md "wikilink")，[班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/班布里奇级驱逐舰 "wikilink")[首舰](https://zh.wikipedia.org/wiki/首舰 "wikilink")，也是第二艘以此为名的美国海军舰只。其命名来源于美国海军军官[威廉·班布里奇](https://zh.wikipedia.org/wiki/威廉·班布里奇 "wikilink")。
+(DD-1)）是[美国海军第一艘](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[驱逐舰](../Page/驱逐舰.md "wikilink")，[班布里奇级驱逐舰](https://zh.wikipedia.org/wiki/班布里奇级驱逐舰 "wikilink")[首舰](https://zh.wikipedia.org/wiki/首舰 "wikilink")，也是第二艘以此为名的美国海军舰只。其命名来源于美国海军军官[威廉·班布里奇](../Page/威廉·班布里奇.md "wikilink")。
 
 ## 建造
 
-该舰于1899年8月15日在[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")[費城的](../Page/費城.md "wikilink")[纳菲尔-利维船舶和引擎制造公司开工建造](https://zh.wikipedia.org/wiki/纳菲尔-利维船舶和引擎制造公司 "wikilink")。1901年8月27日下水，下水仪式由伯特伦·格林夫人（[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[准将](https://zh.wikipedia.org/wiki/海军准将 "wikilink")[威廉·班布里奇的曾孙女](https://zh.wikipedia.org/wiki/威廉·班布里奇 "wikilink")）主持。1902年11月24日[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[上尉](https://zh.wikipedia.org/wiki/海军上尉 "wikilink")[G·W·威廉姆斯就任舰长](https://zh.wikipedia.org/wiki/乔治·华盛顿·威廉姆斯_\(naval_officer\) "wikilink")，在其指挥下该舰由费城拖拽至[維吉尼亞州](https://zh.wikipedia.org/wiki/維吉尼亞州 "wikilink")[諾福克](../Page/諾福克_\(維吉尼亞州\).md "wikilink")。1903年2月12日开始服役。
+该舰于1899年8月15日在[宾夕法尼亚州](../Page/宾夕法尼亚州.md "wikilink")[費城的](../Page/費城.md "wikilink")[纳菲尔-利维船舶和引擎制造公司开工建造](https://zh.wikipedia.org/wiki/纳菲尔-利维船舶和引擎制造公司 "wikilink")。1901年8月27日下水，下水仪式由伯特伦·格林夫人（[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[准将](https://zh.wikipedia.org/wiki/海军准将 "wikilink")[威廉·班布里奇的曾孙女](../Page/威廉·班布里奇.md "wikilink")）主持。1902年11月24日[美国海军](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[上尉](https://zh.wikipedia.org/wiki/海军上尉 "wikilink")[G·W·威廉姆斯就任舰长](https://zh.wikipedia.org/wiki/乔治·华盛顿·威廉姆斯_\(naval_officer\) "wikilink")，在其指挥下该舰由费城拖拽至[維吉尼亞州](https://zh.wikipedia.org/wiki/維吉尼亞州 "wikilink")[諾福克](../Page/諾福克_\(維吉尼亞州\).md "wikilink")。1903年2月12日开始服役。
 
 ## 第一次世界大战之前
 

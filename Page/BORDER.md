@@ -261,7 +261,7 @@
 <tr class="even">
 <td><p>賽門（Simon）</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/濱野謙太" title="wikilink">濱野謙太</a></p></td>
+<td><p><a href="../Page/濱野謙太.md" title="wikilink">濱野謙太</a></p></td>
 </tr>
 <tr class="odd">
 <td><div class="NavFrame">
@@ -1098,7 +1098,7 @@
 ### 得獎項目
 
   - [銀河賞](../Page/銀河賞.md "wikilink")2014年6月度月間賞受賞
-  - [第81回日劇學院賞](https://zh.wikipedia.org/wiki/第81回日劇學院賞 "wikilink")\[2\]
+  - [第81回日劇學院賞](../Page/第81回日劇學院賞.md "wikilink")\[2\]
       - 最佳作品
       - 最佳男主角（小栗旬）
       - 劇本賞（金城一紀）

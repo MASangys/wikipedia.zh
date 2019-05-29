@@ -65,7 +65,7 @@
 與張俊傑不和、後和好</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/張振朗" title="wikilink">張振朗</a></strong></p></td>
+<td><p><strong><a href="../Page/張振朗.md" title="wikilink">張振朗</a></strong></p></td>
 <td><p><strong>陳敏聰</strong></p></td>
 <td><p><strong>阿B、聰仔</strong><br />
 陳永就、劉翠雲之子，後與劉翠雲反目，最後和好<br />
@@ -299,7 +299,7 @@
 張俊傑之父，與其不和，後和好</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/阮政峰" title="wikilink">阮政峰</a></strong></p></td>
+<td><p><strong><a href="../Page/阮政峰.md" title="wikilink">阮政峰</a></strong></p></td>
 <td><p><strong>張俊傑</strong></p></td>
 <td><p><strong>Sky、阿傑、傑仔、傑哥哥(劉壯、劉青青專稱)</strong><br />
 中四學生<br />
@@ -456,7 +456,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td><p>明</p></td>
 <td></td>
 </tr>

@@ -16,8 +16,7 @@
 
 ## 在現今文化
 
-  - 在2014年2月中，[Twitch](https://zh.wikipedia.org/wiki/Twitch "wikilink")
-    是個實況網站，他們採用了IRC
+  - 在2014年2月中，[Twitch](../Page/Twitch.md "wikilink") 是個實況網站，他們採用了IRC
     機器人技術，將使用者在聊天室中的文字轉換成按鍵碼，然後傳入遊戲，讓所有觀眾都可以在聊天室中下指令，操控遊戲中的人物。
 
 其中的遊戲包括[馬力歐與](https://zh.wikipedia.org/wiki/馬力歐 "wikilink")[神奇寶貝](https://zh.wikipedia.org/wiki/神奇寶貝 "wikilink")\[1\]\[2\]

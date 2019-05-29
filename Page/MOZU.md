@@ -69,7 +69,7 @@ Season1～百舌吶喊的夜晚～》與《MOZU Season2～幻之翼～》\[4\]�
 
 #### 警視廳刑事部搜查第一課
 
-  - <small>（香港配音：[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")）</small>
+  - <small>（香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）</small>
     <small>（香港配音：[鍾見麟](../Page/鍾見麟.md "wikilink")）</small>
     <small>（香港配音：[葉振聲](../Page/葉振聲.md "wikilink")）</small>
 
@@ -133,7 +133,7 @@ Season1～百舌吶喊的夜晚～》與《MOZU Season2～幻之翼～》\[4\]�
 
 內閣官房長官。
 
-  - <small>（香港配音：[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")）</small>
+  - <small>（香港配音：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")）</small>
 
 美希的妹妹。獸醫。
 
@@ -153,7 +153,7 @@ Season1～百舌吶喊的夜晚～》與《MOZU Season2～幻之翼～》\[4\]�
 
 大杉的妻子。與丈夫見面吵架不斷，女兒的感受與丈夫分居。
 
-  - <small>（香港配音：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")）</small>
+  - <small>（香港配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）</small>
 
 大杉的女兒。因同學母親的案件由父親負責，認為父親沒有盡力辦案而與父親產生嫌隙。
 

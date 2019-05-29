@@ -1,5 +1,5 @@
 **AOA**（；**Ace of
-Angels**的首字母缩寫，直譯「王牌天使」）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂旗下第一支](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")[女子音樂組合和女子舞蹈團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是FNC第一支音樂與舞蹈共同活動的團體，初始成員有[草娥](https://zh.wikipedia.org/wiki/朴草娥 "wikilink")、[智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")、[酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")、[惠晶](https://zh.wikipedia.org/wiki/申惠晶 "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[雪炫](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")、[澯美](https://zh.wikipedia.org/wiki/金澯美 "wikilink")、有慶8人（有慶于2016年10月宣布退出；草娥於2017年6月宣布退出），由智珉擔任隊長。AOA的子團包括[AOA
+Angels**的首字母缩寫，直譯「王牌天使」）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂旗下第一支](../Page/FNC娛樂.md "wikilink")[女子音樂組合和女子舞蹈團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是FNC第一支音樂與舞蹈共同活動的團體，初始成員有[草娥](https://zh.wikipedia.org/wiki/朴草娥 "wikilink")、[智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")、[酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")、[惠晶](https://zh.wikipedia.org/wiki/申惠晶 "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[雪炫](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")、[澯美](https://zh.wikipedia.org/wiki/金澯美 "wikilink")、有慶8人（有慶于2016年10月宣布退出；草娥於2017年6月宣布退出），由智珉擔任隊長。AOA的子團包括[AOA
 Black](https://zh.wikipedia.org/wiki/AOA_Black "wikilink")、[AOA
 White和](https://zh.wikipedia.org/wiki/AOA_White "wikilink")[AOA
 Cream](https://zh.wikipedia.org/wiki/AOA_Cream "wikilink")。
@@ -45,7 +45,7 @@ Motion](../Page/RED_MOTION.md "wikilink")》的主打歌《动摇》的MV公布\
 
 2014年1月16日，AOA发行了第五张单曲专辑《[短裙](../Page/短裙_\(AOA单曲\).md "wikilink")》，以性感风格回归。专辑由[勇敢兄弟](../Page/勇敢兄弟.md "wikilink")、ElephantKingdom和Galactika制作\[22\]。成员[雪炫當時因意外负伤](../Page/雪炫.md "wikilink")，缺席回归活动，组合該時期以6人组形式亮相\[23\]。2月9日，AOA在[SBS人气歌谣上凭](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")《短裙》赢得了首个音乐节目一位\[24\]。
 
-6月19日，AOA发布了第一张迷你专辑《[短发](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》\[25\]。《短发》的MV在6月的[Billboard](../Page/告示牌_\(雜誌\).md "wikilink")“全球观看次数最多的K-pop视频”（）中排名第8\[26\]。6月27日，AOA于音乐银行的“半年度特别”版和[BESTie与](https://zh.wikipedia.org/wiki/BESTie "wikilink")[Girl's
+6月19日，AOA发布了第一张迷你专辑《[短发](https://zh.wikipedia.org/wiki/短髮_\(AOA迷你專輯\) "wikilink")》\[25\]。《短发》的MV在6月的[Billboard](../Page/告示牌_\(雜誌\).md "wikilink")“全球观看次数最多的K-pop视频”（）中排名第8\[26\]。6月27日，AOA于音乐银行的“半年度特别”版和[BESTie与](../Page/BESTie.md "wikilink")[Girl's
 Day表演了](../Page/Girl's_Day.md "wikilink")[少女时代的歌曲](../Page/少女时代.md "wikilink")《Mr.Mr》\[27\]。10月1日，AOA发行首张日语单曲专辑《短裙》，正式在日本出道\[28\]。
 
 11月11日，AOA发行第二张迷你专辑《[猫步轻悄](../Page/猫步轻悄.md "wikilink")》\[29\]。19日，AOA在Show
@@ -100,7 +100,7 @@ Bing》正式回歸\[57\]。
 
 5月3日，[AOA於](https://zh.wikipedia.org/wiki/AOA_\(韓國\) "wikilink")「漣川全谷裡舊石器慶典」表演，[草娥缺席](https://zh.wikipedia.org/wiki/草娥 "wikilink")，其先前演唱歌曲的部分亦改由[酉奈及](../Page/酉奈.md "wikilink")[惠晶進行重新錄製](../Page/惠晶.md "wikilink")。
 
-6月22日，成員[草娥於個人Instagram上正式宣布退出AOA](https://zh.wikipedia.org/wiki/草娥 "wikilink")；[草娥表示退隊原因是目前自己因失眠跟憂鬱症正在接受藥物治療](https://zh.wikipedia.org/wiki/草娥 "wikilink")，兩年前就開始減少活動，但察覺不是身體上的疲勞，而全面停止了活動，因此決定退出活動\[58\]\[59\]。而後[FNC娛樂官方聲明](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")，對於[草娥退團此事並不知情](https://zh.wikipedia.org/wiki/草娥 "wikilink")，一切尚在討論中，[草娥退團仍不是確定的事實](https://zh.wikipedia.org/wiki/草娥 "wikilink")。\[60\]《首爾體育》刊出[草娥與Najin產業代表李石鎮從日本旅行後回國時在金浦機場被拍的照片](https://zh.wikipedia.org/wiki/草娥 "wikilink")\[61\]。
+6月22日，成員[草娥於個人Instagram上正式宣布退出AOA](https://zh.wikipedia.org/wiki/草娥 "wikilink")；[草娥表示退隊原因是目前自己因失眠跟憂鬱症正在接受藥物治療](https://zh.wikipedia.org/wiki/草娥 "wikilink")，兩年前就開始減少活動，但察覺不是身體上的疲勞，而全面停止了活動，因此決定退出活動\[58\]\[59\]。而後[FNC娛樂官方聲明](../Page/FNC娛樂.md "wikilink")，對於[草娥退團此事並不知情](https://zh.wikipedia.org/wiki/草娥 "wikilink")，一切尚在討論中，[草娥退團仍不是確定的事實](https://zh.wikipedia.org/wiki/草娥 "wikilink")。\[60\]《首爾體育》刊出[草娥與Najin產業代表李石鎮從日本旅行後回國時在金浦機場被拍的照片](https://zh.wikipedia.org/wiki/草娥 "wikilink")\[61\]。
 
 6月23日，[草娥在個人SNS發文](https://zh.wikipedia.org/wiki/草娥 "wikilink")，再親自表示宣布退團與個人感情無關，本人也沒有懷孕或墮胎\[62\]\[63\]。亦指發文前曾與FNC調節，SNS內容亦是經公司修改後才發文，不明白為何公司會說不知情。
 

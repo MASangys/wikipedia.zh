@@ -756,7 +756,7 @@
 <td><p>10</p></td>
 <td><p>2014年10月1日</p></td>
 <td><p>DVD</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Perfume_WORLD_TOUR_2nd" title="wikilink">Perfume WORLD TOUR 2nd</a></strong></p></td>
+<td><p><strong><a href="../Page/Perfume_WORLD_TOUR_2nd.md" title="wikilink">Perfume WORLD TOUR 2nd</a></strong></p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">

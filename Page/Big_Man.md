@@ -21,7 +21,7 @@ Man」。\[1\]\[2\]\[3\]
 <!-- end list -->
 
   - [李多熙](https://zh.wikipedia.org/wiki/李多熙 "wikilink") 飾演
-    蘇美拉<small>（少年：）</small>（台灣配音：[王瑞芹](../Page/王瑞芹.md "wikilink")、香港配音：[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")）
+    蘇美拉<small>（少年：）</small>（台灣配音：[王瑞芹](../Page/王瑞芹.md "wikilink")、香港配音：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")）
 
 <!-- end list -->
 
@@ -286,7 +286,7 @@ Man」。\[1\]\[2\]\[3\]
 
 ## 同時段競爭節目
 
-  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[奇皇后](../Page/奇皇后_\(電視劇\).md "wikilink")》、《[Triangle](https://zh.wikipedia.org/wiki/Triangle_\(電視劇\) "wikilink")》
+  - [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")：《[奇皇后](../Page/奇皇后_\(電視劇\).md "wikilink")》、《[Triangle](../Page/Triangle_\(電視劇\).md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")：《[異鄉人醫生](../Page/異鄉人醫生.md "wikilink")》
   - [JTBC](../Page/JTBC.md "wikilink")：《[密會](../Page/密會.md "wikilink")》、《[宥娜的街](../Page/宥娜的街.md "wikilink")》
 

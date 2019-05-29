@@ -23,7 +23,7 @@
   - 1952
     [第25届学院奖](https://zh.wikipedia.org/wiki/第25届学院奖 "wikilink")[塞西尔·B·戴米尔](https://zh.wikipedia.org/wiki/塞西尔·B·戴米尔 "wikilink")
   - 1953
-    [第26届学院奖](https://zh.wikipedia.org/wiki/第26届学院奖 "wikilink")[乔治·史蒂文斯](https://zh.wikipedia.org/wiki/乔治·史蒂文斯 "wikilink")
+    [第26届学院奖](https://zh.wikipedia.org/wiki/第26届学院奖 "wikilink")[乔治·史蒂文斯](../Page/乔治·史蒂文斯.md "wikilink")
   - 1956 [第29届学院奖](https://zh.wikipedia.org/wiki/第29届学院奖 "wikilink")
   - 1958
     [第31届学院奖](https://zh.wikipedia.org/wiki/第31届学院奖 "wikilink")[杰克·L·华纳](https://zh.wikipedia.org/wiki/杰克·L·华纳 "wikilink")

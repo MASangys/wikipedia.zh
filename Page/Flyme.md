@@ -100,7 +100,7 @@ mBack用一个按键替换原生Android三个按键的做法被认为符合魅�
   - [魅族MX](../Page/魅族MX.md "wikilink")
   - [魅族MX2](../Page/魅族MX2.md "wikilink")
   - [魅族MX3](../Page/魅族MX3.md "wikilink")
-  - [魅族MX4](https://zh.wikipedia.org/wiki/魅族MX4 "wikilink")
+  - [魅族MX4](../Page/魅族MX4.md "wikilink")
   - [魅族MX4 Pro](../Page/魅族MX4_Pro.md "wikilink")
   - [魅族MX5](../Page/魅族MX5.md "wikilink")
   - [魅族MX5e](https://zh.wikipedia.org/wiki/魅族MX5e "wikilink")

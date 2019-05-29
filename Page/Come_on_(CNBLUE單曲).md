@@ -8,7 +8,7 @@ on**》是[韓國搖滾樂團](https://zh.wikipedia.org/wiki/韓國 "wikilink")[
 on》為其節目《music ru TV》的主題曲\[6\]。到7月2日，單曲曲目、版本及封面的資料與《Come
 on》的音樂錄影帶預覽同時公開\[7\]。同日公司方面也公布了CNBLUE首張日文正規專輯將在8月29日發行\[8\]\[9\]，該專輯將包含這單曲的歌曲以及2張單曲《[Where
 you are](../Page/Where_you_are_\(CNBLUE單曲\).md "wikilink")》和《[In My
-Head](https://zh.wikipedia.org/wiki/In_My_Head_\(CNBLUE單曲\) "wikilink")》的歌曲。
+Head](../Page/In_My_Head_\(CNBLUE單曲\).md "wikilink")》的歌曲。
 
 不同版本的《Come on》單曲都使用了不同的封面以及含有不同的內容：初回限定盤包括單曲CD及收錄《Come
 on》音樂錄影帶與製作花絮的一片DVD，另附贈一本44頁的相冊、4折疊迷你海報、一張贈送特別贈品的卡序列碼並以布袋包裝；通常盤則包括單曲CD與卡序列碼；而Lawson限定盤則包括單曲CD與5枚明信片，只在[羅森便利店銷售](../Page/羅森_\(便利店\).md "wikilink")。

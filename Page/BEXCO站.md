@@ -8,7 +8,7 @@
 
 |                                                                                                                                                                  |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <small>↑ [Centum](https://zh.wikipedia.org/wiki/Centum站 "wikilink")</small>                                                                                      |
+| <small>↑ [Centum](../Page/Centum站.md "wikilink")</small>                                                                                                         |
 | <span style="color: #ffffff; background-color:{{韓國鐵道路線色\|KR}};">１</span> {{\!}} {{\!}} <span style="color: #ffffff; background-color: {{韓國鐵道路線色\|KR}};">２</span> |
 | <small>[新海雲臺](https://zh.wikipedia.org/wiki/新海雲臺站 "wikilink") ↓</small>                                                                                          |
 
@@ -24,7 +24,7 @@
 <tr class="odd">
 <td><p>1</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Centum站" title="wikilink">Centum</a>、<a href="../Page/教大站_(釜山).md" title="wikilink">教大</a>、<a href="../Page/巨堤站.md" title="wikilink">巨堤</a>、<a href="https://zh.wikipedia.org/wiki/釜田站_(韓國鐵道公社)" title="wikilink">釜田方向</a></p></td>
+<td><p><a href="../Page/Centum站.md" title="wikilink">Centum</a>、<a href="../Page/教大站_(釜山).md" title="wikilink">教大</a>、<a href="../Page/巨堤站.md" title="wikilink">巨堤</a>、<a href="https://zh.wikipedia.org/wiki/釜田站_(韓國鐵道公社)" title="wikilink">釜田方向</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -89,7 +89,7 @@
   - 韓國鐵道公社
 
       -
-        [Centum](https://zh.wikipedia.org/wiki/Centum站 "wikilink")（）－**BEXCO（）**－[新海雲臺](https://zh.wikipedia.org/wiki/新海雲臺站 "wikilink")（）
+        [Centum](../Page/Centum站.md "wikilink")（）－**BEXCO（）**－[新海雲臺](https://zh.wikipedia.org/wiki/新海雲臺站 "wikilink")（）
 
   - 釜山交通公社
 

@@ -7,13 +7,13 @@ Dragon](https://zh.wikipedia.org/wiki/Spyro_\(series\) "wikilink")。Krome
 Studios成立于1999年，并由当时的[CEO](../Page/首席执行官.md "wikilink") Robert
 Walsh，创意总监 Steve Stamatiadisthe和2005年离开的设计总监 John
 Passfield创建。Krome Studios 早期
-为[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")，[Nintendo
+为[Xbox](../Page/Xbox.md "wikilink")，[Nintendo
 GameCube](https://zh.wikipedia.org/wiki/Nintendo_GameCube "wikilink"),
 [Wii](../Page/Wii.md "wikilink"), [Game Boy
 Advance](../Page/Game_Boy_Advance.md "wikilink"),
 [Dreamcast](../Page/Dreamcast.md "wikilink"),
-[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink"),
-[PlayStation 2](../Page/PlayStation_2.md "wikilink"), 和
+[PlayStation](../Page/PlayStation.md "wikilink"), [PlayStation
+2](../Page/PlayStation_2.md "wikilink"), 和
 [PC](../Page/PC.md "wikilink"). 后期由开发了 [Xbox
 360](../Page/Xbox_360.md "wikilink"), [PlayStation
 3](../Page/PlayStation_3.md "wikilink"),

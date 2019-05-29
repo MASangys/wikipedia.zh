@@ -123,7 +123,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
     大家的宇宙來了！](../Page/假面騎士Fourze_THE_MOVIE_大家的宇宙來了！.md "wikilink")》中與假面騎士部對峙，直至化敵為友共同作戰。
     五年後與朔田流星成為工作伙伴，調查有關超能力士兵的國際犯罪組織。
 
-**大木美代子（）**\[2\]（[足立梨花飾](https://zh.wikipedia.org/wiki/足立梨花 "wikilink")）
+**大木美代子（）**\[2\]（[足立梨花飾](../Page/足立梨花.md "wikilink")）
 
   -
     就讀天之川學園高中，如月弦太朗負責班別 － 1年A班的學生，宇宙假面騎士部部長及唯一成員。
@@ -698,7 +698,7 @@ Max](../Page/假面騎士×假面騎士_Fourze_&_OOO_Movie大戰_Mega_Max.md "wi
   - 佐竹剛 -  飾
   - 諸田先生 -  飾
   - 宇津木遥 - [長澤奈央](../Page/長澤奈央.md "wikilink") 飾
-  - 大木美代子 - [足立梨花](https://zh.wikipedia.org/wiki/足立梨花 "wikilink") 飾
+  - 大木美代子 - [足立梨花](../Page/足立梨花.md "wikilink") 飾
   - 風田三郎 / 蛹超人 / 閃電人 - [須賀健太](../Page/須賀健太.md "wikilink") 飾/聲
   - 小牧瑠美 - [山谷花純](../Page/山谷花純.md "wikilink") 飾
   - 近藤大太 - 中澤兼利 飾

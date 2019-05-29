@@ -679,7 +679,7 @@ Paulala Beauty美容院老闆<br />
 <td><p>記者</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/尹詩沛" title="wikilink">尹詩沛</a></p></td>
+<td><p><a href="../Page/尹詩沛.md" title="wikilink">尹詩沛</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -759,7 +759,7 @@ Paulala Beauty美容院老闆<br />
 <td><p>《情侶愛作戰》主持（第11集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
 <td><p>導　演</p></td>
 <td><p>《情侶愛作戰》導演（第11集）</p></td>
 </tr>

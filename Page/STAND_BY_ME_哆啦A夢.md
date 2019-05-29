@@ -1,4 +1,4 @@
-是一部紀念《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》作者[藤子·F·不二雄诞辰](../Page/藤子·F·不二雄.md "wikilink")80週年的[系列首部](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")[3D电影](https://zh.wikipedia.org/wiki/3D电影 "wikilink")，於2014年8月8日在[日本上映](../Page/日本.md "wikilink")，內容结合了原著漫畫：《-{zh-tw:從未來之國千里迢迢而来;zh-cn:来自未来的机器猫}-》、《蛋中的静香》、《静香！再见！》、《雪山上的浪漫史》、《[大雄的結婚前夜](../Page/大雄的結婚前夜.md "wikilink")》、《再见哆啦A梦》和《[哆啦A梦回來了](https://zh.wikipedia.org/wiki/哆啦A梦回來了 "wikilink")》等篇目的经典剧情，由《[永遠的三丁目的夕陽](../Page/永遠的三丁目的夕陽.md "wikilink")》系列與《[永遠的0](../Page/永遠的0.md "wikilink")》編劇[山崎貴執筆](https://zh.wikipedia.org/wiki/山崎貴 "wikilink")，由《[麻吉妖怪島](../Page/麻吉妖怪島.md "wikilink")》[导演](https://zh.wikipedia.org/wiki/导演 "wikilink")[八木龍一與](../Page/八木龍一.md "wikilink")[山崎貴共同執導](https://zh.wikipedia.org/wiki/山崎貴 "wikilink")。在2014年10月24日举行的[东京国际电影节上](https://zh.wikipedia.org/wiki/东京国际电影节 "wikilink")，本片的英语配音版首次上映\[1\]。
+是一部紀念《[哆啦A夢](../Page/哆啦A夢.md "wikilink")》作者[藤子·F·不二雄诞辰](../Page/藤子·F·不二雄.md "wikilink")80週年的[系列首部](https://zh.wikipedia.org/wiki/哆啦A夢電影作品 "wikilink")[3D电影](https://zh.wikipedia.org/wiki/3D电影 "wikilink")，於2014年8月8日在[日本上映](../Page/日本.md "wikilink")，內容结合了原著漫畫：《-{zh-tw:從未來之國千里迢迢而来;zh-cn:来自未来的机器猫}-》、《蛋中的静香》、《静香！再见！》、《雪山上的浪漫史》、《[大雄的結婚前夜](../Page/大雄的結婚前夜.md "wikilink")》、《再见哆啦A梦》和《[哆啦A梦回來了](https://zh.wikipedia.org/wiki/哆啦A梦回來了 "wikilink")》等篇目的经典剧情，由《[永遠的三丁目的夕陽](../Page/永遠的三丁目的夕陽.md "wikilink")》系列與《[永遠的0](../Page/永遠的0.md "wikilink")》編劇[山崎貴執筆](../Page/山崎貴.md "wikilink")，由《[麻吉妖怪島](../Page/麻吉妖怪島.md "wikilink")》[导演](https://zh.wikipedia.org/wiki/导演 "wikilink")[八木龍一與](../Page/八木龍一.md "wikilink")[山崎貴共同執導](../Page/山崎貴.md "wikilink")。在2014年10月24日举行的[东京国际电影节上](https://zh.wikipedia.org/wiki/东京国际电影节 "wikilink")，本片的英语配音版首次上映\[1\]。
 
 本電影既是[香港多年來聲演多啦A夢的資深](../Page/香港.md "wikilink")[配音員](../Page/配音員.md "wikilink")[林保全的遺作](../Page/林保全.md "wikilink")，亦是第四代胖虎配音員[陳卓智暫別](../Page/陳卓智.md "wikilink")[無綫電視前的最後作品](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")。
 
@@ -104,7 +104,7 @@
 ## 制作团队
 
   - 原作：[藤子·F·不二雄](../Page/藤子·F·不二雄.md "wikilink")
-  - 劇本：[山崎貴](https://zh.wikipedia.org/wiki/山崎貴 "wikilink")
+  - 劇本：[山崎貴](../Page/山崎貴.md "wikilink")
   - 導演：八木龍一、山崎貴
   - 製作：2014-{zh-hant:「;zh-hans:《}-STAND BY ME
     哆啦A夢-{zh-hant:」;zh-hans:》}-製作委員會（[SHIN-EI動畫](https://zh.wikipedia.org/wiki/SHIN-EI動畫 "wikilink")、[藤子·F·不二雄製作公司](../Page/藤子·F·不二雄製作公司.md "wikilink")、[小學館](../Page/小學館.md "wikilink")、[朝日電視台](../Page/朝日電視台.md "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")、[小學館集英社製作](../Page/小學館集英社製作.md "wikilink")、[東寶](../Page/東寶.md "wikilink")、[電通](https://zh.wikipedia.org/wiki/電通 "wikilink")、[白組](../Page/白組.md "wikilink")、[ROBOT](https://zh.wikipedia.org/wiki/ROBOT "wikilink")、[朝日放送](../Page/朝日放送.md "wikilink")、[名～電](../Page/名古屋電視台.md "wikilink")、阿部秀司事務所、[北海道電視台](../Page/北海道電視台.md "wikilink")、[九州朝日放送](https://zh.wikipedia.org/wiki/九州朝日放送 "wikilink")、[廣島HOME電視台](https://zh.wikipedia.org/wiki/廣島HOME電視台 "wikilink")）
@@ -236,7 +236,7 @@ THE MOVIE
 <td><p>2014</p></td>
 <td><p>第27届<a href="https://zh.wikipedia.org/wiki/日刊体育电影大奖" title="wikilink">日刊体育电影大奖</a></p></td>
 <td><p>导演奖</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/山崎貴" title="wikilink">山崎貴</a></p></td>
+<td><p><a href="../Page/山崎貴.md" title="wikilink">山崎貴</a></p></td>
 <td></td>
 <td><p>[25]</p></td>
 </tr>

@@ -9,7 +9,7 @@ Entertainment](https://zh.wikipedia.org/wiki/SM_Entertainment "wikilink")。
   - 此專輯共收錄18首歌曲，並分為兩張專輯發行。《Dream Girl - The Misconceptions Of
     You》為正規3輯的Chapter 1，收錄9首歌曲，而《[Why So Serious? - The
     Misconceptions Of
-    Me](https://zh.wikipedia.org/wiki/Why_So_Serious?_-_The_Misconceptions_Of_Me "wikilink")》為正規3輯的後續（Chapter
+    Me](../Page/Why_So_Serious?_-_The_Misconceptions_Of_Me.md "wikilink")》為正規3輯的後續（Chapter
     2），收錄了餘下的9首歌曲。
   - 主打曲目「Dream Girl」於多個音樂節目取得1位，一共獲得10個獎盃。
       - [Show

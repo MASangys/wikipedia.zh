@@ -417,7 +417,7 @@ S\&W）\[15\]。P229軍團型在原西德P229型號的基礎以上作出多項�
   - [SIG P224](../Page/SIG_P224手槍.md "wikilink")
   - [SIG P230](../Page/SIG_P230手槍.md "wikilink")
   - [貝瑞塔M9手槍](../Page/貝瑞塔M9手槍.md "wikilink")
-  - [FN HP-DA](https://zh.wikipedia.org/wiki/白朗寧雙動手槍 "wikilink")
+  - [FN HP-DA](../Page/白朗寧雙動手槍.md "wikilink")
   - [HK P9S](../Page/HK_P9S手槍.md "wikilink")
   - [史密斯威森M459](../Page/史密斯威森M59手槍.md "wikilink")
 

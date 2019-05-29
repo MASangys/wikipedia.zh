@@ -23,7 +23,7 @@ routing，可減少[汽車廢氣排放的行車環保路徑](https://zh.wikipedi
 Primo中國版\[4\]，除了[簡體中文化介面外](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")，尚包含[手寫辨識](https://zh.wikipedia.org/wiki/手寫運算#手寫辨識 "wikilink")、[漢語拚音輸入及TTS中文文字轉語音等功能](https://zh.wikipedia.org/wiki/漢語拚音 "wikilink")。
 
 iGO
-Primo最重要的特色是具有高度擴充性及開放性，允許使用者自行調整操作介面，諸如顯示速度、抵達時間或距離、海拔高度、自身代表圖案\[5\]等；亦能自定義快速鍵、自編[興趣點](https://zh.wikipedia.org/wiki/興趣點 "wikilink")（point
+Primo最重要的特色是具有高度擴充性及開放性，允許使用者自行調整操作介面，諸如顯示速度、抵達時間或距離、海拔高度、自身代表圖案\[5\]等；亦能自定義快速鍵、自編[興趣點](../Page/興趣點.md "wikilink")（point
 of
 interest，縮寫成POI\[6\]）等。第二個特色是高度整合性，只要符合格式要求的地圖資料皆能正常應用，因此（已被[TomTom收購](../Page/TomTom.md "wikilink")）、（已被[諾基亞麾下](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[Here地圖併購](https://zh.wikipedia.org/wiki/Here地圖 "wikilink")）、Sensis、WhereiS（[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")）、CarteBlanche（[烏克蘭](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")）、勤崴國際（[臺灣](../Page/臺灣.md "wikilink")）、易圖通科技（[中國](../Page/中國.md "wikilink")）等公司的圖資皆能使用於此軟體。
 

@@ -29,11 +29,11 @@ USN日志，因此必须以管理员权限运行，即必须通过特权账户�
   - **NTFS-Search**\[19\]以及最近的**SwiftSearch**\[20\] - 以类似方式工作的开源程序
   - **UltraSearch**，一个可替代的免费软件\[21\]
   - **MasterSeeker**：http://www.master-seeker.com/
-  - [Listary](https://zh.wikipedia.org/wiki/Listary "wikilink")
+  - [Listary](../Page/Listary.md "wikilink")
 
 ## 另请参阅
 
-  - [Listary](https://zh.wikipedia.org/wiki/Listary "wikilink")
+  - [Listary](../Page/Listary.md "wikilink")
   - [桌面搜索](https://zh.wikipedia.org/wiki/桌面搜索 "wikilink")
   - [搜寻引擎列表](https://zh.wikipedia.org/wiki/搜寻引擎列表 "wikilink")
   - [日志文件系统](../Page/日志文件系统.md "wikilink")

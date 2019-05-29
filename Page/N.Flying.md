@@ -1,4 +1,4 @@
-**N.Flying**（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂旗下的男子](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](../Page/男子音乐组合.md "wikilink")，於2015年5月20日出道，最初由[權光珍](https://zh.wikipedia.org/wiki/權光珍 "wikilink")、[李承協](https://zh.wikipedia.org/wiki/李承協 "wikilink")、[車勳](https://zh.wikipedia.org/wiki/車勳 "wikilink")、[金宰鉉所組成](https://zh.wikipedia.org/wiki/金宰鉉 "wikilink")，並由[承協擔任隊長](https://zh.wikipedia.org/wiki/李承協 "wikilink")。經成員變動後，現任成員包括[李承協](https://zh.wikipedia.org/wiki/李承協 "wikilink")、[車勳](https://zh.wikipedia.org/wiki/車勳 "wikilink")、[金宰鉉](https://zh.wikipedia.org/wiki/金宰鉉 "wikilink")、[柳會勝](https://zh.wikipedia.org/wiki/柳會勝 "wikilink")。
+**N.Flying**（；）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂旗下的男子](../Page/FNC娛樂.md "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](../Page/男子音乐组合.md "wikilink")，於2015年5月20日出道，最初由[權光珍](https://zh.wikipedia.org/wiki/權光珍 "wikilink")、[李承協](https://zh.wikipedia.org/wiki/李承協 "wikilink")、[車勳](https://zh.wikipedia.org/wiki/車勳 "wikilink")、[金宰鉉所組成](https://zh.wikipedia.org/wiki/金宰鉉 "wikilink")，並由[承協擔任隊長](https://zh.wikipedia.org/wiki/李承協 "wikilink")。經成員變動後，現任成員包括[李承協](https://zh.wikipedia.org/wiki/李承協 "wikilink")、[車勳](https://zh.wikipedia.org/wiki/車勳 "wikilink")、[金宰鉉](https://zh.wikipedia.org/wiki/金宰鉉 "wikilink")、[柳會勝](https://zh.wikipedia.org/wiki/柳會勝 "wikilink")。
 
 ## 團體資料
 
@@ -67,25 +67,25 @@ PlotData =
 
 **[權光珍](https://zh.wikipedia.org/wiki/權光珍 "wikilink")**
 
-2006年，進入[FNC娛樂當練習生](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")。原定[CNBLUE成員之一出道](../Page/CNBLUE.md "wikilink")，2009年9月，在日本訓練活動時因私人因素退團。2015年，以N.Flying身份在日本以獨立樂隊活動時期擔任隊長。2018年，因與粉絲私底下交流等爭議被開除，退出團體。
+2006年，進入[FNC娛樂當練習生](../Page/FNC娛樂.md "wikilink")。原定[CNBLUE成員之一出道](../Page/CNBLUE.md "wikilink")，2009年9月，在日本訓練活動時因私人因素退團。2015年，以N.Flying身份在日本以獨立樂隊活動時期擔任隊長。2018年，因與粉絲私底下交流等爭議被開除，退出團體。
 
 **[李承協](https://zh.wikipedia.org/wiki/李承協 "wikilink")**
 
-藝名為J.DON。2010年，進入[FNC娛樂當練習生](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")。2013年，出演[Juniel](../Page/Juniel.md "wikilink")《Pretty
+藝名為J.DON。2010年，進入[FNC娛樂當練習生](../Page/FNC娛樂.md "wikilink")。2013年，出演[Juniel](../Page/Juniel.md "wikilink")《Pretty
 Boy》MV。2015年4月28日，與[AOA](../Page/AOA.md "wikilink")[智珉發行單曲](../Page/智珉.md "wikilink")《N
 PROJECT\#1》。
 
 **[車勳](https://zh.wikipedia.org/wiki/車勳 "wikilink")**
 
-2010年，進入[FNC娛樂當練習生](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")。
+2010年，進入[FNC娛樂當練習生](../Page/FNC娛樂.md "wikilink")。
 
 **[金宰鉉](https://zh.wikipedia.org/wiki/金宰鉉 "wikilink")**
 
-姐姐是[RAINBOW的隊長](../Page/Rainbow_\(音樂團體\).md "wikilink")[金栽經](../Page/金栽經.md "wikilink")。2008年，進入[FNC娛樂當練習生](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")。2014年10月18日，出道前首次出演電視劇《[摩登農夫](https://zh.wikipedia.org/wiki/摩登農夫 "wikilink")》，飾演姜洪九。
+姐姐是[RAINBOW的隊長](../Page/Rainbow_\(音樂團體\).md "wikilink")[金栽經](../Page/金栽經.md "wikilink")。2008年，進入[FNC娛樂當練習生](../Page/FNC娛樂.md "wikilink")。2014年10月18日，出道前首次出演電視劇《[摩登農夫](https://zh.wikipedia.org/wiki/摩登農夫 "wikilink")》，飾演姜洪九。
 
 **[柳會勝](https://zh.wikipedia.org/wiki/柳會勝 "wikilink")**
 
-2016年，進入[FNC娛樂當練習生](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")。2017年4月7日，出演《[Produce
+2016年，進入[FNC娛樂當練習生](../Page/FNC娛樂.md "wikilink")。2017年4月7日，出演《[Produce
 101
 S2](../Page/PRODUCE_101_第二季.md "wikilink")》，最終排名第39。2017年6月20日，正式加入N.Flying。
 
@@ -103,7 +103,7 @@ N.Flying 將於5月20日推出首張迷你專輯《Awesome》正式出道，並�
 
 ### 2017年
 
-6月20日，[FNC娛樂於官網發出公告表示曾出演](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")[Mnet選秀節目](../Page/Mnet媒體.md "wikilink")《[Produce
+6月20日，[FNC娛樂於官網發出公告表示曾出演](../Page/FNC娛樂.md "wikilink")[Mnet選秀節目](../Page/Mnet媒體.md "wikilink")《[Produce
 101
 S2](../Page/PRODUCE_101_第二季.md "wikilink")》的[柳會勝正式加入N](https://zh.wikipedia.org/wiki/柳會勝 "wikilink").Flying，成為樂團第五位成員。\[5\]
 
@@ -125,7 +125,7 @@ NOTE2. 2019》演唱會。\[7\]12月30日，公開成員個人概念照、首波
 
 3月5日，因音源逆襲一位而重返音樂節目打歌，出道1385天在《THE SHOW》拿下一位，3月17日，於《人氣歌謠》拿下第二個一位。
 
-4月16日，[FNC娛樂宣布](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")24日將發行第五張迷你專輯《Spring
+4月16日，[FNC娛樂宣布](../Page/FNC娛樂.md "wikilink")24日將發行第五張迷你專輯《Spring
 Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱會。\[16\]
 
 4月17日，公開成員個人概念照、首波MV預告。\[17\]4月18日起，陸續公開第二波MV預告、個人概念照、釋出專輯亮點集錦。\[18\]\[19\]\[20\]

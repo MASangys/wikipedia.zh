@@ -26,7 +26,7 @@ SF2在外星浩劫版本之后，陆续推出了星虫模式、星虫模式2、�
 
 [SF2现实地图.png](https://zh.wikipedia.org/wiki/File:SF2现实地图.png "fig:SF2现实地图.png")
 
-游戏的一幅地图采用现实存在的真实地名“上海”，游戏中的原文名為Shanghai，该地图地點位於虛構的[中华民国大陆时期的](https://zh.wikipedia.org/wiki/中华民国大陆时期 "wikilink")[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，韓國原廠將其直譯成“상하이（）”，其次還有美國、日本、歐美、印尼也將名字直接譯為“[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")”。但是臺灣的這張地圖将其稱為“[澎湖](https://zh.wikipedia.org/wiki/澎湖 "wikilink")”\[11\]，中國則是稱“喋血碼頭”，且虚构为“[江州市](https://zh.wikipedia.org/wiki/江州市 "wikilink")”\[12\]。
+游戏的一幅地图采用现实存在的真实地名“上海”，游戏中的原文名為Shanghai，该地图地點位於虛構的[中华民国大陆时期的](https://zh.wikipedia.org/wiki/中华民国大陆时期 "wikilink")[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")，韓國原廠將其直譯成“상하이（）”，其次還有美國、日本、歐美、印尼也將名字直接譯為“[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")”。但是臺灣的這張地圖将其稱為“[澎湖](https://zh.wikipedia.org/wiki/澎湖 "wikilink")”\[11\]，中國則是稱“喋血碼頭”，且虚构为“[江州市](../Page/江州市.md "wikilink")”\[12\]。
 
 游戏另有两幅作战地图是根据现实生活真实存在的建筑加以部分修改制作的，分别是中华民国[故宫博物院与中华民国](https://zh.wikipedia.org/wiki/国立故宫博物院 "wikilink")[国父纪念馆](https://zh.wikipedia.org/wiki/国立国父纪念馆 "wikilink")，采用现实存在的真实地点1:1比例制作。Palace
 Museum地图地點位於台灣台北市士林外雙溪的[國立故宮博物院](https://zh.wikipedia.org/wiki/國立故宮博物院 "wikilink")，臺灣直接命名“故宮博物院”，但是中國則被命名“[博物館](https://zh.wikipedia.org/wiki/博物館 "wikilink")”，有玩家猜测是因为中国俗称的故宫博物院实為[北京故宫](https://zh.wikipedia.org/wiki/北京故宫 "wikilink")，因此為避免混淆而改名。Sun

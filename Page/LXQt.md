@@ -13,7 +13,7 @@
 ## 软件组件
 
 LXQt由许多模块化组件组成，其中一些组件依赖于[Qt和](../Page/Qt.md "wikilink")[KDE Frameworks
-5](https://zh.wikipedia.org/wiki/KDE_Frameworks_5 "wikilink")。\[12\]
+5](../Page/KDE_Frameworks_5.md "wikilink")。\[12\]
 
 <table>
 <thead>
@@ -171,7 +171,7 @@ LXQt由许多模块化组件组成，其中一些组件依赖于[Qt和](../Page/
 <tr class="odd">
 <td><p>0.9</p></td>
 <td></td>
-<td><p>大量的清理和<a href="../Page/代码重构.md" title="wikilink">重构代码</a>。取消与<a href="../Page/Qt.md" title="wikilink">Qt 4的</a><a href="../Page/兼容性.md" title="wikilink">兼容</a>，需要安装<a href="../Page/Qt.md" title="wikilink">Qt 5和</a><a href="https://zh.wikipedia.org/wiki/KDE_Frameworks_5" title="wikilink">KDE Frameworks 5</a>，最低版本要求为<a href="../Page/Qt.md" title="wikilink">Qt 5.3</a>。[16]</p></td>
+<td><p>大量的清理和<a href="../Page/代码重构.md" title="wikilink">重构代码</a>。取消与<a href="../Page/Qt.md" title="wikilink">Qt 4的</a><a href="../Page/兼容性.md" title="wikilink">兼容</a>，需要安装<a href="../Page/Qt.md" title="wikilink">Qt 5和</a><a href="../Page/KDE_Frameworks_5.md" title="wikilink">KDE Frameworks 5</a>，最低版本要求为<a href="../Page/Qt.md" title="wikilink">Qt 5.3</a>。[16]</p></td>
 </tr>
 <tr class="even">
 <td><p>0.10</p></td>

@@ -78,7 +78,7 @@
 ## 協力者
 
 **曆美（）**（[奥仲麻琴](https://zh.wikipedia.org/wiki/奥仲麻琴 "wikilink") /
-[小林花音](https://zh.wikipedia.org/wiki/:ja:小林花音 "wikilink")（童年期）飾／香港配音：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")）
+[小林花音](https://zh.wikipedia.org/wiki/:ja:小林花音 "wikilink")（童年期）飾／香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
 
   -
     支援操真晴人的少女，全名**-{笛木曆美}-（）**。
@@ -108,7 +108,7 @@
     第38話被笛木要求把魔寶石製作成「Eclipse」指環。
 
 ; **大門凛子（）**（[高山侑子](../Page/高山侑子.md "wikilink") / 末原一乃（童年期）飾 / 香港配音:
-[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")）
+[葉曉欣](../Page/葉曉欣.md "wikilink")）
 
   -
     鳥井坂警視廳的新人女警，在事件中被魅影襲擊時得到操真晴人所救。
@@ -175,8 +175,8 @@
     第22話因擅自行動，與空合作綁架凜子作餌以引出晴人找上門，[美杜莎受賢者之命出現制止並在對戰中被石化](../Page/美杜莎.md "wikilink")。因力量的強大已今非昔比，可自行衝破封印並對[美杜莎給予警告](../Page/美杜莎.md "wikilink")。與Wizard對戰期間再次被撃敗，但當場即時復活後戰鬥力進一步增強。
     第23話再次對戰被變身成All Dragon的Wizard擊至太陽中燃燒，不斷重複飽受死亡與再生的輪迴之苦。
 
-**空（）**（[前山剛久飾](https://zh.wikipedia.org/wiki/前山剛久 "wikilink")
-／香港配音：[林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink")）
+**空（）**（[前山剛久飾](../Page/前山剛久.md "wikilink")
+／香港配音：[林筠翔](../Page/林筠翔.md "wikilink")）
 
   -
     [古利姆連的宿主](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")。
@@ -347,7 +347,7 @@
 
 **少年（魔寶石世界的晴人）**（[竜跳飾](https://zh.wikipedia.org/wiki/竜跳 "wikilink")／香港配音：[黃淑芬](../Page/黃淑芬.md "wikilink")）
 
-**少女（魔寶石世界的曆）**（[SALA飾](https://zh.wikipedia.org/wiki/SALA "wikilink")／香港配音：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")）
+**少女（魔寶石世界的曆）**（[SALA飾](https://zh.wikipedia.org/wiki/SALA "wikilink")／香港配音：[羅孔柔](../Page/羅孔柔.md "wikilink")）
 
 **阿瑪達姆（）**（[田口トモロヲ飾](https://zh.wikipedia.org/wiki/:ja:田口トモロヲ "wikilink")／香港配音：[朱子聰](../Page/朱子聰.md "wikilink")）
 
@@ -374,7 +374,7 @@
     有錢人家少爺，於健身室內認識川崎愛美。
     當得悉自己因為家底的關係而成為詐騙目標時，反而相信愛美是有所苦衷而且本性不壞。
 
-**伊藤和洋（）**（[小倉敏博飾](https://zh.wikipedia.org/wiki/:ja:おぐらとしひろ "wikilink")／香港配音：[林筠翔](https://zh.wikipedia.org/wiki/林筠翔 "wikilink")）
+**伊藤和洋（）**（[小倉敏博飾](https://zh.wikipedia.org/wiki/:ja:おぐらとしひろ "wikilink")／香港配音：[林筠翔](../Page/林筠翔.md "wikilink")）
 
   -
     伊藤洋樹的父親。
@@ -473,7 +473,7 @@
     於「魔宴」中成為Wizardragon的宿主。
 
 **網野（）**（[RIKIYA飾](https://zh.wikipedia.org/wiki/:ja:RIKIYA "wikilink")
-／香港配音：[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")）
+／香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）
 
   -
     [彌諾陶洛斯的宿主](https://zh.wikipedia.org/wiki/彌諾陶洛斯 "wikilink")。

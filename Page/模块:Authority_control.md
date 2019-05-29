@@ -805,11 +805,11 @@ Wikidata, formatting function } p.conf = {
 `   { 'GND', '`[`GND`](https://zh.wikipedia.org/wiki/整合规范文档 "wikilink")`', 227, p.gndLink },`
 `   { 'HDS', '`[`HDS`](https://zh.wikipedia.org/wiki/瑞士歷史辭典 "wikilink")`', 902, p.hdsLink }, `
 `   { 'HKCAN', '`[`HKCAN`](https://zh.wikipedia.org/wiki/香港中文名稱規範數據庫 "wikilink")`', 5909, p.hkcanLink },`
-`   { 'ISNI', '`[`ISNI`](https://zh.wikipedia.org/wiki/國際標準名稱識別碼 "wikilink")`', 213, p.isniLink },  `
+`   { 'ISNI', '`[`ISNI`](../Page/國際標準名稱識別碼.md "wikilink")`', 213, p.isniLink },  `
 `   { 'Joconde', '`[`Joconde`](../Page/Joconde.md "wikilink")`' , 347, p.jocondeLink },`
 `   { 'KULTURNAV', '`[`KulturNav`](../Page/KulturNav.md "wikilink")`', 1248, p.kulturnavLink },`
 `   { 'LAC', '`[`LAC`](../Page/加拿大国家图书馆暨档案馆.md "wikilink")`', 1670, p.lacLink },   `
-`   { 'LCCN', '`[`LCCN`](https://zh.wikipedia.org/wiki/美国国会图书馆控制号 "wikilink")`', 244, p.lccnLink },`
+`   { 'LCCN', '`[`LCCN`](../Page/美国国会图书馆控制号.md "wikilink")`', 244, p.lccnLink },`
 `   { 'LIR', '`[`LIR`](https://zh.wikipedia.org/wiki/Lexicon_Istoric_Retic "wikilink")`', 886, p.lirLink },`
 `   { 'LNB', '`[`LNB`](https://zh.wikipedia.org/wiki/拉托维亚国家图书馆 "wikilink")`', 1368, p.lnbLink },`
 `   { 'Léonore', '`[`Base``

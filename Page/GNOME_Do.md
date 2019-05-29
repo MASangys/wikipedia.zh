@@ -38,7 +38,7 @@ Do中来\[9\]。
 
   - Nathan Willis (January 11, 2008) [Find the items you want with GNOME
     Do](http://www.linux.com/archive/feature/124048),
-    [Linux.com](https://zh.wikipedia.org/wiki/Linux.com "wikilink")
+    [Linux.com](../Page/Linux.com.md "wikilink")
   - Daniel Pop-Silaghi (28 February 2009) [GNOME Do: The King of
     Launchers](http://news.softpedia.com/news/GNOME-Do-The-King-of-Launchers-104859.shtml),
     [Softpedia](../Page/Softpedia.md "wikilink") Application of the

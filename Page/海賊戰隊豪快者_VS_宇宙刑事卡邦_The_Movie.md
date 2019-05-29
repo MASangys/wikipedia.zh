@@ -142,7 +142,7 @@ Movie](https://zh.wikipedia.org/wiki/宇宙刑事卡邦_The_Movie "wikilink")**�
   -
     臨獸蒼蠅拳的使用者。和激氣紫深見豪一同旅行著，不過本作中為單獨登場。被關在蟲籠中。
 
-**[害地大臣幽溝史坦因、害氣大臣奇塔納德斯、害水大臣凱格蕾西亞](../Page/炎神戰隊轟音者.md "wikilink")**<small>（害地大臣ヨゴシュタイン、害気大臣キタネイダス、害水大臣ケガレシア，[梁田清之聲](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")、[真殿光昭聲](../Page/真殿光昭.md "wikilink")、[及川奈央飾](../Page/及川奈央.md "wikilink")）</small>
+**[害地大臣幽溝史坦因、害氣大臣奇塔納德斯、害水大臣凱格蕾西亞](../Page/炎神戰隊轟音者.md "wikilink")**<small>（害地大臣ヨゴシュタイン、害気大臣キタネイダス、害水大臣ケガレシア，[梁田清之聲](../Page/梁田清之.md "wikilink")、[真殿光昭聲](../Page/真殿光昭.md "wikilink")、[及川奈央飾](../Page/及川奈央.md "wikilink")）</small>
 
 **妒忌**<small>（ジェラシット，[櫻井孝宏聲](../Page/櫻井孝宏.md "wikilink")）</small>
 

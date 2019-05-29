@@ -53,7 +53,7 @@
     Player](https://zh.wikipedia.org/wiki/Flash_Player "wikilink")）。
   - 支援辭典定制的[圖示](../Page/圖示.md "wikilink")。
   - 平臺支援如右：Linux/X11、Mac OS X、MaeMo、Android、Windows以及其他移植版本。
-  - 使用[Forvo線上服務時](https://zh.wikipedia.org/wiki/Forvo "wikilink")，允許發音音訊播放。
+  - 使用[Forvo線上服務時](../Page/Forvo.md "wikilink")，允許發音音訊播放。
 
 ## 參考
 

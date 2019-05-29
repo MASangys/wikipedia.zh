@@ -1,5 +1,5 @@
 ****是[Google推出的專為汽車所設計之](../Page/Google.md "wikilink")[Android功能](../Page/Android.md "wikilink")，其需要連接[Android
-Lollipop以上版本作業系統的手機使用](https://zh.wikipedia.org/wiki/Android_Lollipop "wikilink")。其預覽在2014年6月26日的[Google
+Lollipop以上版本作業系統的手機使用](../Page/Android_Lollipop.md "wikilink")。其預覽在2014年6月26日的[Google
 I/O之开幕式主题](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")[演讲中被首度公之于众](https://zh.wikipedia.org/wiki/演讲 "wikilink")\[1\]。Android
 Auto目前僅在[美國等少數國家及地區提供下載與服務](https://zh.wikipedia.org/wiki/美國 "wikilink")。2018年11月[台灣已經提供下載](https://zh.wikipedia.org/wiki/台灣 "wikilink")。
 

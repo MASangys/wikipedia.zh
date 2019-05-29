@@ -860,7 +860,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>2D电影，中国特供3D</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/白发魔女传之明月天国" title="wikilink">白发魔女传之明月天国</a></p></td>
+<td><p><a href="../Page/白发魔女传之明月天国.md" title="wikilink">白发魔女传之明月天国</a></p></td>
 <td><p>2014年7月31日</p></td>
 <td><p>3D電影，原為2D電影，後期轉製。仅在中国大陸地区上映</p></td>
 </tr>
@@ -961,7 +961,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影。中国第一部数字IMAX 3D摄影机拍摄电影，仅在中国大陸地区上映</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/博物馆奇妙夜3" title="wikilink">博物馆奇妙夜3</a></p></td>
+<td><p><a href="../Page/博物馆奇妙夜3.md" title="wikilink">博物馆奇妙夜3</a></p></td>
 <td><p>2014年12月19日</p></td>
 <td><p>2D电影</p></td>
 </tr>
@@ -1066,7 +1066,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D電影，原為2D電影，後期轉製。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/疯狂的麦克斯：狂暴之路" title="wikilink">疯狂的麦克斯：狂暴之路</a></p></td>
+<td><p><a href="../Page/疯狂的麦克斯：狂暴之路.md" title="wikilink">疯狂的麦克斯：狂暴之路</a></p></td>
 <td><p>2015年5月14日</p></td>
 <td><p>3D電影，原為2D電影，後期轉製。</p></td>
 </tr>
@@ -1141,7 +1141,7 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>仅在中国大陸地区上映。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/紳士密令" title="wikilink">紳士密令</a></p></td>
+<td><p><a href="../Page/紳士密令.md" title="wikilink">紳士密令</a></p></td>
 <td><p>2015年8月14日</p></td>
 <td></td>
 </tr>

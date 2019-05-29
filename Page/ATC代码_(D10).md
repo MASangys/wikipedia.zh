@@ -26,8 +26,7 @@
     D10AD01
     [维A酸](https://zh.wikipedia.org/wiki/维A酸 "wikilink")（Tretinoin）
     D10AD02 [视黄醇](../Page/视黄醇.md "wikilink")（Retinol）
-    D10AD03
-    [阿达帕林](https://zh.wikipedia.org/wiki/阿达帕林 "wikilink")（Adapalene）
+    D10AD03 [阿达帕林](../Page/阿达帕林.md "wikilink")（Adapalene）
     D10AD04
     [异维A酸](https://zh.wikipedia.org/wiki/异维A酸 "wikilink")（Isotretinoin）
     D10AD05

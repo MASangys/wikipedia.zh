@@ -1,5 +1,5 @@
 **Ingress**中文有译为**虛擬入口**\[1\]或**浸视界**\[2\]，是一款基于[地理位置的](https://zh.wikipedia.org/wiki/基于位置的服务 "wikilink")[大型多人](https://zh.wikipedia.org/wiki/大型多人線上遊戲 "wikilink")[侵入式虚拟现实](https://zh.wikipedia.org/wiki/侵入式虚拟现实游戏 "wikilink")[游戏](../Page/电子游戏.md "wikilink")。由[Niantic
-Labs](https://zh.wikipedia.org/wiki/Niantic "wikilink")
+Labs](../Page/Niantic.md "wikilink")
 开发，於2012年11月16日开始在[Android](../Page/Android.md "wikilink")
 平台進行測試，\[3\]于2013年12月15日正式發布。\[4\]2014年7月15日登陆[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
 平台。\[5\]
@@ -25,7 +25,7 @@ Field），覆蓋最多的“Mind Units（MUs）”。\[8\]
 除了遊戲中已經存在的能量塔，玩家亦可以提交申請以將新的能量塔納入Ingress。\[9\]\[10\]2015年9月3日，NIA
 Ops的Google+頁面發佈了新能量塔的提交功能即日起被暫停的消息。\[11\]從2017年開始，逐步通過增加申請條件限制恢復新能量塔的提交功能，\[12\]例如2017年4月22日仅限于韩国和巴西玩家开放申请Portal。\[13\]2017年9月26日全面开放有条件申请，并開放OPR（Operation
 Portal
-Recon）系统以允许部分符合級別的玩家參與新能量塔提交的審核工作。[Niantic对重新开放的申请条件加以限制](https://zh.wikipedia.org/wiki/Niantic "wikilink")：
+Recon）系统以允许部分符合級別的玩家參與新能量塔提交的審核工作。[Niantic对重新开放的申请条件加以限制](../Page/Niantic.md "wikilink")：
 
   - 10级及以上的玩家才能申请
   - 每位特工在 14 天的周期内最多可以申请 14 个 Portal, 每个 Portal 申请的配额将会拥有独立的 14

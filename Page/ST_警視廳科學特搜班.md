@@ -21,7 +21,7 @@
 
 #### 刑事部搜查一課
 
-  - 菊川吾郎（搜查官）：[田中哲司](https://zh.wikipedia.org/wiki/田中哲司 "wikilink")（粵語配音：[翟耀輝](../Page/翟耀輝.md "wikilink")）
+  - 菊川吾郎（搜查官）：[田中哲司](../Page/田中哲司.md "wikilink")（粵語配音：[翟耀輝](../Page/翟耀輝.md "wikilink")）
   - 筒井桃子（菊川的拍檔）：[柴本幸](../Page/柴本幸.md "wikilink")（粵語配音：[鄭家蕙](../Page/鄭家蕙.md "wikilink")）
   - 牧村真司（搜查官）：[水上劍星](https://zh.wikipedia.org/wiki/水上劍星 "wikilink")
   - 池田草介（管理官、與百合根同期）：[林遣都](../Page/林遣都.md "wikilink")（粵語配音：[李家傑](../Page/李家傑_\(配音員\).md "wikilink")）
@@ -140,7 +140,7 @@
   - 高垣刑事：[夕輝壽太](../Page/夕輝壽太.md "wikilink")
   - 高梨組長：[山田明鄉](https://zh.wikipedia.org/wiki/山田明鄉 "wikilink")
   - 池田厚作：[林遣都](../Page/林遣都.md "wikilink")
-  - 菊川吾郎：[田中哲司](https://zh.wikipedia.org/wiki/田中哲司 "wikilink")
+  - 菊川吾郎：[田中哲司](../Page/田中哲司.md "wikilink")
   - 三枝俊郎：[渡部篤郎](../Page/渡部篤郎.md "wikilink")
 
 #### 工作人員
@@ -328,7 +328,7 @@
 
 #### 警視廳刑事部搜查一課
 
-  - 菊川吾郎（搜查官）：[田中哲司](https://zh.wikipedia.org/wiki/田中哲司 "wikilink")
+  - 菊川吾郎（搜查官）：[田中哲司](../Page/田中哲司.md "wikilink")
   - 筒井桃子（菊川的拍檔）：[柴本幸](../Page/柴本幸.md "wikilink")
   - 牧村真司（搜查官）： [水上劍星](https://zh.wikipedia.org/wiki/水上劍星 "wikilink")
   - 池田草介（管理官、與百合根同期）：[林遣都](../Page/林遣都.md "wikilink")

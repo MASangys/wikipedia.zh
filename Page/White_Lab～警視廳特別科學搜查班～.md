@@ -11,7 +11,7 @@
   - <small>（香港配音：[胡家豪](../Page/胡家豪.md "wikilink")）</small>
     搜查官。負責情報分析。曾所屬。
   - \[5\]<small>（香港配音：[陳廷軒](../Page/陳廷軒.md "wikilink")）</small>
-    搜查官。曾所屬[警視廳公安部](https://zh.wikipedia.org/wiki/警視廳公安部 "wikilink")。擅長人物分析，[罪犯側寫專利調查](../Page/罪犯側寫.md "wikilink")。
+    搜查官。曾所屬[警視廳公安部](../Page/警視廳公安部.md "wikilink")。擅長人物分析，[罪犯側寫專利調查](../Page/罪犯側寫.md "wikilink")。
   - <small>（香港配音：[陸惠玲](../Page/陸惠玲.md "wikilink")）</small>
     班長。[警部補](../Page/警部補.md "wikilink")。非職業。
 
@@ -21,7 +21,7 @@
     搜查一課刑事。與神山同為非[精英官僚](https://zh.wikipedia.org/wiki/精英官僚 "wikilink")，工作上彼此敵視。
   - <small>（香港配音：[林保全](../Page/林保全.md "wikilink")）</small>
     搜查一課刑事。階級為警部補。
-  - <small>（香港配音：[鄧志堅](https://zh.wikipedia.org/wiki/鄧志堅 "wikilink")）</small>
+  - <small>（香港配音：[鄧志堅](../Page/鄧志堅.md "wikilink")）</small>
     搜查一課刑事。階級為巡査部長。
   - <small>（香港配音：[潘文柏](../Page/潘文柏.md "wikilink")）</small>
     鑑識課課員。
@@ -59,8 +59,7 @@
 :\*
 （東王大學理工學部教授）\[6\]<small>（香港配音：[柚子蜜](https://zh.wikipedia.org/wiki/柚子蜜_\(配音員\) "wikilink")）</small>
 
-:\*
-（小早川的助手）<small>（香港配音：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")）</small>
+:\* （小早川的助手）<small>（香港配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）</small>
 
 :\*
 （[丸之内物產最先端技術市場營銷部課長](https://zh.wikipedia.org/wiki/丸之内 "wikilink")）<small>（香港配音：[蕭徽勇](../Page/蕭徽勇.md "wikilink")）</small>
@@ -172,8 +171,7 @@ Clean社長）<small>（香港配音：[張炳強](../Page/張炳強.md "wikilin
 :\*
 （警視廳網路恐怖主義對策課捜査官）<small>（香港配音：[鍾見麟](../Page/鍾見麟.md "wikilink")）</small>
 
-:\*
-（山根）<small>（香港配音：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")）</small>
+:\* （山根）<small>（香港配音：[葉曉欣](../Page/葉曉欣.md "wikilink")）</small>
 
 :\*
 （椎名的上司）<small>（香港配音：[李錦綸](../Page/李錦綸_\(配音員\).md "wikilink")）</small>

@@ -1,6 +1,6 @@
 是由[Chunsoft开发](https://zh.wikipedia.org/wiki/Chunsoft "wikilink")，[艾尼克斯](../Page/艾尼克斯.md "wikilink")（现[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）发行的[角色扮演游戏](../Page/電子角色扮演遊戲.md "wikilink")。游戏是[勇者斗恶龙系列的第三作](https://zh.wikipedia.org/wiki/勇者斗恶龙系列 "wikilink")，最早于1988年在日本[FC游戏机平台发售](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")，随后又于1992年在北美以“Dragon
 Warrior
-III”為題发售。游戏后来在1996年和2000年[重制到](https://zh.wikipedia.org/wiki/电子游戏重制 "wikilink")[超级任天堂和](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[Game
+III”為題发售。游戏后来在1996年和2000年[重制到](../Page/电子游戏重制.md "wikilink")[超级任天堂和](https://zh.wikipedia.org/wiki/超级任天堂 "wikilink")[Game
 Boy Color平台](../Page/Game_Boy_Color.md "wikilink")。
 
 游戏是[洛特三部曲的的最后一作](https://zh.wikipedia.org/wiki/勇者斗恶龙#洛特 "wikilink")，而在剧情时间线上则是首章\[1\]。游戏讲述了勇者斗恶龙的勇者將世界从恶魔手里拯救出来的冒险故事。在游戏中玩家将与不同职业的人组建称一个团队，在世界各处旅行，访问各个城镇与地点，并到达大魔王巴拉摩斯的老巢。

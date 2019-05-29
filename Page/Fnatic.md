@@ -28,7 +28,7 @@ Mathews）。Fnatic在2004年7月23日成立，最令人著名的是他那獲得
 
 在2014年的歐洲常規賽中，Fnatic在賽季賽表現反覆，但最後仍能保持水準，以常規賽第二名進入季後賽。在8月舉行的季後賽決賽中以1:3不敵由前CLG.EU明星中路選手froggen所帶領導的Alliance戰隊，將會以歐洲第二種子身分參加[英雄聯盟2014賽季全球总决赛](https://zh.wikipedia.org/wiki/英雄聯盟2014賽季全球总决赛 "wikilink")。
 
-2014年9月初，Fnatic宣佈邀請[劉偉健](https://zh.wikipedia.org/wiki/劉偉健 "wikilink")(Toyz)(Toyz為其[台北暗殺星戰隊得到](https://zh.wikipedia.org/wiki/台北暗殺星 "wikilink")2012年[英雄聯盟全球总决赛冠軍](https://zh.wikipedia.org/wiki/英雄聯盟全球总决赛 "wikilink"))為其教練，協助團隊備戰即將舉行的[英雄聯盟2014賽季全球总决赛](https://zh.wikipedia.org/wiki/英雄聯盟2014賽季全球总决赛 "wikilink")。
+2014年9月初，Fnatic宣佈邀請[劉偉健](../Page/劉偉健.md "wikilink")(Toyz)(Toyz為其[台北暗殺星戰隊得到](https://zh.wikipedia.org/wiki/台北暗殺星 "wikilink")2012年[英雄聯盟全球总决赛冠軍](https://zh.wikipedia.org/wiki/英雄聯盟全球总决赛 "wikilink"))為其教練，協助團隊備戰即將舉行的[英雄聯盟2014賽季全球总决赛](https://zh.wikipedia.org/wiki/英雄聯盟2014賽季全球总决赛 "wikilink")。
 
 2014年11月尾，由於[英雄聯盟2014賽季全球总决赛的失利](https://zh.wikipedia.org/wiki/英雄聯盟2014賽季全球总决赛 "wikilink"),隊內原上單sOAZ、中單xPeke、射手Rekkles先後離隊，而打野Cyanide則宣佈退休。
 

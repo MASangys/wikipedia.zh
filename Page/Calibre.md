@@ -12,7 +12,7 @@ Goyal於2006年10月31日開始開發**libprs500**，那時[索尼的](../Page/�
 calibre支援許多[檔案格式以及閱讀器](../Page/檔案格式.md "wikilink")。這些電子書格式多數都可以被編輯，如更改字體或字體大小等，並可以加入自動生成的目錄。對於需要購買的電子書，則只能在購買後，移除[DRM的限制才能轉換和編輯](../Page/数字版权管理.md "wikilink")。calibre並非原生支持這個移除的動作，但可以用安裝免費外掛的方式來解決
 \[3\]。
 
-calibre有助於幫使用者組織其電子書庫（使用電子書的[元數據](https://zh.wikipedia.org/wiki/後設資料 "wikilink")）。元數據可以從許多來源獲得（例如、線上書商、免費電子書提供者、以及一些美國或其他國家的期刊，如[古騰堡計劃](https://zh.wikipedia.org/wiki/古騰堡計劃 "wikilink")、[網際網路檔案館以及](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")「Munsey's」；或是一些為讀者提供的社群網路，如[Goodreads以及](https://zh.wikipedia.org/wiki/Goodreads "wikilink")）。可以在整個書庫裡搜尋作者、標題或是關鍵字，但尚未實現全文搜索\[4\]\[5\]。
+calibre有助於幫使用者組織其電子書庫（使用電子書的[元數據](https://zh.wikipedia.org/wiki/後設資料 "wikilink")）。元數據可以從許多來源獲得（例如、線上書商、免費電子書提供者、以及一些美國或其他國家的期刊，如[古騰堡計劃](https://zh.wikipedia.org/wiki/古騰堡計劃 "wikilink")、[網際網路檔案館以及](https://zh.wikipedia.org/wiki/網際網路檔案館 "wikilink")「Munsey's」；或是一些為讀者提供的社群網路，如[Goodreads以及](../Page/Goodreads.md "wikilink")）。可以在整個書庫裡搜尋作者、標題或是關鍵字，但尚未實現全文搜索\[4\]\[5\]。
 
 使用者可以匯入電子書至calibre的電子書庫，不論是手動加入或是與閱讀器同步皆可。也可將線上內容加入並轉換為電子書。這個被稱做「recipes」的小程式是使用一種基於[Python的語言寫成](../Page/Python.md "wikilink")。電子書也可經由[USB或是郵件伺服器匯出到所有支援的閱讀器](https://zh.wikipedia.org/wiki/通用序列匯流排 "wikilink")。也可以直接郵寄電子書，例如傳送私人文件到[Kindle電子書閱讀器](../Page/Kindle.md "wikilink")。
 

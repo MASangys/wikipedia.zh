@@ -3,7 +3,7 @@
 
 ## 另见
 
-  - [HMOX2](https://zh.wikipedia.org/wiki/HMOX2 "wikilink")
+  - [HMOX2](../Page/HMOX2.md "wikilink")
 
 ## 参考文献
 

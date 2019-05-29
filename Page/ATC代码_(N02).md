@@ -168,8 +168,7 @@
     N02BB02 [安乃近](../Page/安乃近.md "wikilink")（Metamizole）
     N02BB03
     [氨基比林](https://zh.wikipedia.org/wiki/氨基比林 "wikilink")（Aminophenazone）
-    N02BB04
-    [异丙安替比林](https://zh.wikipedia.org/wiki/异丙安替比林 "wikilink")（Propyphenazone）
+    N02BB04 [异丙安替比林](../Page/异丙安替比林.md "wikilink")（Propyphenazone）
     N02BB05
     [尼芬那宗](https://zh.wikipedia.org/wiki/尼芬那宗 "wikilink")（Nifenazone）
     N02BB51 安替比林，与非安定药的复方（Phenazone, combinations excluding

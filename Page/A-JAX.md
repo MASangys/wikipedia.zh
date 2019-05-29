@@ -393,19 +393,19 @@ PlotData =
 
 ### 電視戲劇
 
-|       |                                                           |                                                                     |      |                     |        |
-| ----- | --------------------------------------------------------- | ------------------------------------------------------------------- | ---- | ------------------- | ------ |
-| 年份    | 電視台                                                       | 戲劇名稱                                                                | 參演成員 | 角色                  | 備註     |
-| 2006年 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")       | [愛情與野望](../Page/愛情與野望.md "wikilink")                                | 李承燁  | 朴勳                  |        |
-| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")       | [IRIS 2](../Page/IRIS_2.md "wikilink")                              | 金導慪  | 宋永珉                 |        |
-| 2013年 | [MBC QueeN](https://zh.wikipedia.org/wiki/MBC "wikilink") | [美甲店Paris](../Page/美甲店Paris.md "wikilink")                          | 李承燁  | 賢宇                  |        |
-| 2013年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")       | 幻想巨塔                                                                | 李承燁  | EP7客串               |        |
-| 2014年 | [Naver TV Cast](../Page/NAVER.md "wikilink")              | 吸血鬼之花                                                               | 徐在亨  | 路易Rui               |        |
-| 金導慪   | 雷卡Reka                                                    |                                                                     |      |                     |        |
-| 李承燁   | 伯韓Baekhan                                                 |                                                                     |      |                     |        |
-| 文智厚   | 阿坎Akan                                                    |                                                                     |      |                     |        |
-| 2015年 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")       | [愛上Pinocchio](https://zh.wikipedia.org/wiki/皮諾丘_\(電視劇\) "wikilink") | 金導慪  | MSC 2015年新進記者的面試生之一 | EP20客串 |
-|       |                                                           |                                                                     |      |                     |        |
+|       |                                                           |                                                  |      |                     |        |
+| ----- | --------------------------------------------------------- | ------------------------------------------------ | ---- | ------------------- | ------ |
+| 年份    | 電視台                                                       | 戲劇名稱                                             | 參演成員 | 角色                  | 備註     |
+| 2006年 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")       | [愛情與野望](../Page/愛情與野望.md "wikilink")             | 李承燁  | 朴勳                  |        |
+| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")       | [IRIS 2](../Page/IRIS_2.md "wikilink")           | 金導慪  | 宋永珉                 |        |
+| 2013年 | [MBC QueeN](https://zh.wikipedia.org/wiki/MBC "wikilink") | [美甲店Paris](../Page/美甲店Paris.md "wikilink")       | 李承燁  | 賢宇                  |        |
+| 2013年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")       | 幻想巨塔                                             | 李承燁  | EP7客串               |        |
+| 2014年 | [Naver TV Cast](../Page/NAVER.md "wikilink")              | 吸血鬼之花                                            | 徐在亨  | 路易Rui               |        |
+| 金導慪   | 雷卡Reka                                                    |                                                  |      |                     |        |
+| 李承燁   | 伯韓Baekhan                                                 |                                                  |      |                     |        |
+| 文智厚   | 阿坎Akan                                                    |                                                  |      |                     |        |
+| 2015年 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")       | [愛上Pinocchio](../Page/皮諾丘_\(電視劇\).md "wikilink") | 金導慪  | MSC 2015年新進記者的面試生之一 | EP20客串 |
+|       |                                                           |                                                  |      |                     |        |
 
 ### 音樂劇
 

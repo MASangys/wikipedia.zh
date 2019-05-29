@@ -41,7 +41,7 @@ La Kill》。
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日常生活中的異能戰鬥" title="wikilink">日常生活中的異能戰鬥</a></p></td>
+<td><p><a href="../Page/日常生活中的異能戰鬥.md" title="wikilink">日常生活中的異能戰鬥</a></p></td>
 <td></td>
 <td><p>2014年10月6日－12月22日</p></td>
 <td><p>大塚雅彥</p></td>

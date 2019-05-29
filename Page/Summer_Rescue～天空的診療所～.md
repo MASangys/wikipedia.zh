@@ -178,7 +178,7 @@
 
 <!-- end list -->
 
-  - 澤口哲夫／[松重豐](https://zh.wikipedia.org/wiki/松重豐 "wikilink")／[張錦江](../Page/張錦江.md "wikilink")
+  - 澤口哲夫／[松重豐](../Page/松重豐.md "wikilink")／[張錦江](../Page/張錦江.md "wikilink")
 
 <!-- end list -->
 

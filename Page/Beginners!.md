@@ -35,7 +35,7 @@
 
 ### S Class關係者
 
-  - 志村 真夏 (16) - [森高愛](https://zh.wikipedia.org/wiki/森高愛 "wikilink")
+  - 志村 真夏 (16) - [森高愛](../Page/森高愛.md "wikilink")
     志村 恭一郎 (50) -
     [国広富之](https://zh.wikipedia.org/wiki/国広富之 "wikilink")
     福田 清志 (40) - [柳沢慎吾](https://zh.wikipedia.org/wiki/柳沢慎吾 "wikilink")

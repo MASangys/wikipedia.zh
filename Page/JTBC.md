@@ -27,7 +27,7 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
 #### 已廢除時段
 
   - [JTBC水木迷你連續劇](../Page/JTBC水木迷你連續劇.md "wikilink")
-  - [JTBC日日連續劇](https://zh.wikipedia.org/wiki/JTBC日日連續劇 "wikilink")
+  - [JTBC日日連續劇](../Page/JTBC日日連續劇.md "wikilink")
   - [JTBC周末連續劇](../Page/JTBC周末連續劇.md "wikilink")
   - [JTBC周末特別企劃連續劇](../Page/JTBC周末特別企劃連續劇.md "wikilink")
 
@@ -132,7 +132,7 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/密會" title="wikilink">密會</a></p></td>
+<td><p><a href="../Page/密會.md" title="wikilink">密會</a></p></td>
 <td><p>16</p></td>
 <td><p>5.372%</p></td>
 <td></td>
@@ -175,7 +175,7 @@ World），JTBC提出面向未來[多媒體的發展方向](https://zh.wikipedia
   - 2014年《[Crime Scene
     犯罪現場](../Page/Crime_Scene_犯罪現場.md "wikilink")》（크라임씬）（2014年5月10日－2014年7月12日、2015年4月1日–2015年6月24日、2017年4月21日－2017年7月14日）
   - 2014年《[非首腦會談](https://zh.wikipedia.org/wiki/非首腦會談 "wikilink")》（비정상회담）（2014年7月7日－2017年12月4日）
-  - 2014年《[我去上學啦](https://zh.wikipedia.org/wiki/我去上學啦_\(韓國\) "wikilink")》（학교
+  - 2014年《[我去上學啦](../Page/我去上學啦_\(韓國\).md "wikilink")》（학교
     다녀오겠습니다）（2014年7月12日－2015年11月3日）
   - 2015年《[我獨自戀愛中](../Page/我獨自戀愛中.md "wikilink")》 (나홀로
     연애중)（2015年1月31日－2015年4月18日）

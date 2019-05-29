@@ -94,7 +94,7 @@
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天童芳美" title="wikilink">天童芳美</a><br />
+<td><p><a href="../Page/天童芳美.md" title="wikilink">天童芳美</a><br />
 （）</p></td>
 </tr>
 <tr class="even">

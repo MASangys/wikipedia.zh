@@ -1,4 +1,4 @@
-《**AKB48的你是誰？**》（）是[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48在](../Page/AKB48.md "wikilink")[NOTTV的冠名](https://zh.wikipedia.org/wiki/NOTTV "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。節目自2012年4月2日開始至2016年6月30日NOTTV停播為止，於[當地時間](../Page/日本標準時間.md "wikilink")[星期一至](../Page/星期一.md "wikilink")[五下午](https://zh.wikipedia.org/wiki/星期五 "wikilink")5－6時播出，是一個開放[歌迷現場參與節目錄影的](https://zh.wikipedia.org/wiki/歌迷 "wikilink")[現場直播節目](../Page/現場直播.md "wikilink")。
+《**AKB48的你是誰？**》（）是[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48在](../Page/AKB48.md "wikilink")[NOTTV的冠名](../Page/NOTTV.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")。節目自2012年4月2日開始至2016年6月30日NOTTV停播為止，於[當地時間](../Page/日本標準時間.md "wikilink")[星期一至](../Page/星期一.md "wikilink")[五下午](https://zh.wikipedia.org/wiki/星期五 "wikilink")5－6時播出，是一個開放[歌迷現場參與節目錄影的](https://zh.wikipedia.org/wiki/歌迷 "wikilink")[現場直播節目](../Page/現場直播.md "wikilink")。
 
 ## 概要
 

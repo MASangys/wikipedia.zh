@@ -202,7 +202,7 @@ Framework技术。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/生化危机_启示录2" title="wikilink">生化危机 启示录2</a>》</p></td>
+<td><p>《<a href="../Page/生化危机_启示录2.md" title="wikilink">生化危机 启示录2</a>》</p></td>
 <td><p>2015</p></td>
 <td><p>v2.?</p></td>
 <td><p><a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="../Page/Xbox_360.md" title="wikilink">Xbox 360</a>、<a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
@@ -306,7 +306,7 @@ Framework技术。
 | 《[逆轉裁判5](../Page/逆轉裁判5.md "wikilink")》                                      | 2013  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
 | 《[怪物猎人4](../Page/怪物猎人4.md "wikilink")》                                      | 2013  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
 | 《[怪物猎人4G](https://zh.wikipedia.org/wiki/怪物猎人4G "wikilink")》                 | 2014  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
-| 《[生化危机 启示录2](https://zh.wikipedia.org/wiki/生化危机_启示录2 "wikilink")》           | 2015  | [PlayStation Vita](../Page/PlayStation_Vita.md "wikilink") |
+| 《[生化危机 启示录2](../Page/生化危机_启示录2.md "wikilink")》                              | 2015  | [PlayStation Vita](../Page/PlayStation_Vita.md "wikilink") |
 | 《[大逆轉裁判 -成步堂龍之介的冒險-](../Page/大逆轉裁判_-成步堂龍之介的冒險-.md "wikilink")》              | 2015  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
 | 《[怪物猎人X](../Page/怪物猎人X.md "wikilink")》                                      | 2015  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |
 | 《[逆转裁判6](../Page/逆转裁判6.md "wikilink")》                                      | 2016  | [任天堂3DS](../Page/任天堂3DS.md "wikilink")                     |

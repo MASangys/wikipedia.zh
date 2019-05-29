@@ -397,8 +397,7 @@ E\&M的子公司](../Page/CJ集团.md "wikilink")）正式合作製作。\[17\]
 
 ### Kakao M製作
 
-  - [怎樣的離別 *(Another
-    Parting)*](https://zh.wikipedia.org/wiki/怎樣的離別 "wikilink")
+  - [怎樣的離別 *(Another Parting)*](../Page/怎樣的離別.md "wikilink")
 
 ### [MEGA MONSTER製作](https://zh.wikipedia.org/wiki/MEGA_MONSTER "wikilink")
 

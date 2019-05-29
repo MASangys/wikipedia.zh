@@ -125,7 +125,7 @@
 
 #### Disc 1
 
-1.  **[向月亮祈禱](https://zh.wikipedia.org/wiki/向月亮祈禱 "wikilink")**
+1.  **[向月亮祈禱](../Page/向月亮祈禱.md "wikilink")**
 2.  **[HIT THE WORLD
     CHART\!](https://zh.wikipedia.org/wiki/HIT_THE_WORLD_CHART! "wikilink")**
 3.  **[Little

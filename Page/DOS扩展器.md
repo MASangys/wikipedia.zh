@@ -113,7 +113,7 @@ Interface，缩写作DPMI）所代，後者在Windows 3.0
       - [Looking Glass
         Studios的](https://zh.wikipedia.org/wiki/Looking_Glass_Studios "wikilink"),
       - [Parallax
-        Software的](https://zh.wikipedia.org/wiki/Parallax_Software "wikilink")[黑暗侵袭](https://zh.wikipedia.org/wiki/天旋地轉 "wikilink")
+        Software的](https://zh.wikipedia.org/wiki/Parallax_Software "wikilink")[黑暗侵袭](../Page/天旋地轉.md "wikilink")
       - Crack dot
         com的[Abuse](https://zh.wikipedia.org/wiki/Abuse_\(电子游戏\) "wikilink")
       - [暴雪娱乐的](https://zh.wikipedia.org/wiki/暴雪娱乐 "wikilink")[魔兽争霸:

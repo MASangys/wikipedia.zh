@@ -452,7 +452,7 @@ GFF全贴合</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/紅米Note" title="wikilink">红米Note</a></p></td>
+<td><p><a href="../Page/紅米Note.md" title="wikilink">红米Note</a></p></td>
 <td><p>标准版</p></td>
 <td><p>2014.3.19</p></td>
 <td><p>联发科MT6592<br />

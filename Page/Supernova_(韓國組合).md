@@ -149,7 +149,7 @@ Rapper</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>2014年</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/文化廣播_(韓國)" title="wikilink">MBC</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/來了！張寶利" title="wikilink">來了！張寶利</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/來了！張寶利.md" title="wikilink">來了！張寶利</a></p></td>
 <td style="text-align: center;"><p>健一</p></td>
 <td style="text-align: center;"><p>姜有川</p></td>
 <td style="text-align: center;"><p>男配角</p></td>

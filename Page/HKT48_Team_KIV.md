@@ -1,5 +1,5 @@
 **HKT48 Team
-KIV**是以[福岡為據點的](../Page/福岡市.md "wikilink")[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48的第二個分隊](../Page/HKT48.md "wikilink")，於2014年1月11日舉行的HKT48[九州巡迴演唱會](https://zh.wikipedia.org/wiki/HKT48九州7縣巡演～和可愛的孩子們一起旅行～ "wikilink")[大分場中宣佈成立](https://zh.wikipedia.org/wiki/大分縣 "wikilink")，但新分隊的編組是在該年舉行[AKB48集團大組閣祭後的](https://zh.wikipedia.org/wiki/AKB48集團大組閣祭 "wikilink")4月23日時才啟用，並到5月8日時的首場劇場公演後正式開始運作。
+KIV**是以[福岡為據點的](../Page/福岡市.md "wikilink")[日本女子](../Page/日本.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[HKT48的第二個分隊](../Page/HKT48.md "wikilink")，於2014年1月11日舉行的HKT48[九州巡迴演唱會](https://zh.wikipedia.org/wiki/HKT48九州7縣巡演～和可愛的孩子們一起旅行～ "wikilink")[大分場中宣佈成立](https://zh.wikipedia.org/wiki/大分縣 "wikilink")，但新分隊的編組是在該年舉行[AKB48集團大組閣祭後的](../Page/AKB48集團大組閣祭.md "wikilink")4月23日時才啟用，並到5月8日時的首場劇場公演後正式開始運作。
 
 由[本村碧唯](https://zh.wikipedia.org/wiki/#本村碧唯 "wikilink")（原為[多田愛佳](https://zh.wikipedia.org/wiki/#多田愛佳 "wikilink")）擔任隊長、[宮脇咲良擔任副隊長的Team](https://zh.wikipedia.org/wiki/#宮脇咲良 "wikilink")
 KIV，是由多名原本隸屬於[Team
@@ -14,12 +14,12 @@ KIV組成成員的名單在隊伍首度宣佈成立至實際開始運作之間�
   - 2014年：
       - 1月11日：在HKT48於大分市（）舉辦的[九州巡迴演唱會首日活動之夜間場次](../Page/HKT48九州7县巡演～和可爱的孩子们一起旅行～.md "wikilink")[安可時段](../Page/安可.md "wikilink")，[指原莉乃以HKT](../Page/指原莉乃.md "wikilink")48劇場經理的身份上台發表將實行被稱為「轉班」（）的分隊名單異動訊息，在異動中原本的Team
         H被打散，其中8名原Team H成員與8名升格的研究生組成新成立的Team KIV，並指定由多田愛佳擔任隊長。
-      - 2月24日：在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[台場](https://zh.wikipedia.org/wiki/台場 "wikilink")所舉辦的[AKB48集團大組閣祭中](https://zh.wikipedia.org/wiki/AKB48集團大組閣祭 "wikilink")，宣佈4名研究生的補升格訊息，其中加入Team
+      - 2月24日：在[東京](https://zh.wikipedia.org/wiki/東京 "wikilink")[台場](https://zh.wikipedia.org/wiki/台場 "wikilink")所舉辦的[AKB48集團大組閣祭中](../Page/AKB48集團大組閣祭.md "wikilink")，宣佈4名研究生的補升格訊息，其中加入Team
         KIV的是[深川舞子與](https://zh.wikipedia.org/wiki/#深川舞子 "wikilink")[草場愛](https://zh.wikipedia.org/wiki/#草場愛 "wikilink")。除此之外，原本已公告要加入Team
         KIV的[谷真理佳改移籍至SKE](../Page/谷真理佳.md "wikilink")48 Team
         E，但取而代之的Team E成員之一的木本花音宣佈至Team
         KIV兼任。分隊總人數由16人增加至18人，並配合全集團各分隊追加副隊長的政策，指定宮脇咲良擔任副隊長。
-      - 3月21日：在[福岡太陽宮](https://zh.wikipedia.org/wiki/福岡太陽宮 "wikilink")（）舉辦的九州巡迴演唱會最後一場活動之夜間公演的安可時段，新任的AKB48集團總經理[茅野忍](https://zh.wikipedia.org/wiki/茅野忍 "wikilink")（）上台宣佈追加升格4名研究生的訊息，其中加入Team
+      - 3月21日：在[福岡太陽宮](https://zh.wikipedia.org/wiki/福岡太陽宮 "wikilink")（）舉辦的九州巡迴演唱會最後一場活動之夜間公演的安可時段，新任的AKB48集團總經理[茅野忍](../Page/茅野忍.md "wikilink")（）上台宣佈追加升格4名研究生的訊息，其中加入Team
         KIV的為[伊藤來笑與](https://zh.wikipedia.org/wiki/#伊藤來笑 "wikilink")[岩花詩乃](https://zh.wikipedia.org/wiki/#岩花詩乃 "wikilink")。至此HKT48的二期研究生全體都升格為正式成員，而Team
         KIV的總人數也由18人增加至20人。
       - 5月8日：在Team
@@ -47,7 +47,7 @@ KIV組成成員的名單在隊伍首度宣佈成立至實際開始運作之間�
 
 截至2018年11月底，以Team
 KIV名义发表的歌曲包括收录于第3張单曲《[櫻花，大家一起來品嚐](../Page/櫻花，大家一起來品嚐.md "wikilink")》Type-B版本中[B面曲的](https://zh.wikipedia.org/wiki/B面曲 "wikilink")《[与前男友的哥哥交往这回事](https://zh.wikipedia.org/wiki/与前男友的哥哥交往这回事 "wikilink")》，第四張單曲
-《[有所保留的我愛你！](https://zh.wikipedia.org/wiki/有所保留的我愛你！ "wikilink")》Type-B版本中收錄的
+《[有所保留的我愛你！](../Page/有所保留的我愛你！.md "wikilink")》Type-B版本中收錄的
 《[在夏季之前](https://zh.wikipedia.org/wiki/在夏季之前 "wikilink")》（），第五張單曲
 《[12秒](../Page/12秒.md "wikilink")》Type-C版本中收錄的
 《[去夏威夷吧](https://zh.wikipedia.org/wiki/去夏威夷吧 "wikilink")》（），第六張單曲
@@ -88,7 +88,7 @@ KIV之創隊成員之一。
   - 《[櫻花，大家一起來品嚐](../Page/櫻花，大家一起來品嚐.md "wikilink")》（，第3張單曲）收錄曲：
       - 《[與前男友的哥哥交往這回事](https://zh.wikipedia.org/wiki/與前男友的哥哥交往這回事 "wikilink")》（）：Team
         KIV演唱曲，收錄於Type-B版本中。
-  - 《[有所保留的我愛你！](https://zh.wikipedia.org/wiki/有所保留的我愛你！ "wikilink")》（，第4張單曲）收錄曲：
+  - 《[有所保留的我愛你！](../Page/有所保留的我愛你！.md "wikilink")》（，第4張單曲）收錄曲：
       - 《[在夏季之前](https://zh.wikipedia.org/wiki/在夏季之前 "wikilink")》（）：收錄於Type-B版本中的B面曲，是該單曲中的Team
         KIV隊曲。
 
@@ -135,7 +135,7 @@ KIV之創隊成員之一。
       - 《[請你記得](https://zh.wikipedia.org/wiki/櫻花，大家一起來品嚐#請你記得 "wikilink")》（）：收錄於Type-C版本中的研究生分隊演唱曲。雖然嚴格來說岩花詩乃也是Team
         KIV的創隊成員之一，但因為錄製唱片時尚未被增列至升格名單內，因此未能實際參與Team
         KIV的第一首隊曲《與前男友的哥哥交往這回事》的錄製。
-  - 《[有所保留的我愛你！](https://zh.wikipedia.org/wiki/有所保留的我愛你！ "wikilink")》（，第4張單曲）收錄曲：
+  - 《[有所保留的我愛你！](../Page/有所保留的我愛你！.md "wikilink")》（，第4張單曲）收錄曲：
       - 《[在夏季之前](https://zh.wikipedia.org/wiki/在夏季之前 "wikilink")》（）：收錄於Type-B版本中的B面曲，是該單曲中的Team
         KIV隊曲。
 
@@ -174,7 +174,7 @@ H創隊時升格的16名成員之一。相對於團體中的其他成員，熊�
   - 《[櫻花，大家一起來品嚐](../Page/櫻花，大家一起來品嚐.md "wikilink")》（，第3張單曲）收錄曲：
       - 《[與前男友的哥哥交往這回事](https://zh.wikipedia.org/wiki/與前男友的哥哥交往這回事 "wikilink")》（）：Team
         KIV演唱曲，收錄於Type-B版本中。
-  - 《[有所保留的我愛你！](https://zh.wikipedia.org/wiki/有所保留的我愛你！ "wikilink")》（，第4張單曲）收錄曲：
+  - 《[有所保留的我愛你！](../Page/有所保留的我愛你！.md "wikilink")》（，第4張單曲）收錄曲：
       - 《[在夏季之前](https://zh.wikipedia.org/wiki/在夏季之前 "wikilink")》（）：收錄於Type-B版本中的B面曲，是該單曲中的Team
         KIV隊曲。
 
@@ -246,7 +246,7 @@ KIV之創隊成員名單之中。
   - 《[櫻花，大家一起來品嚐](../Page/櫻花，大家一起來品嚐.md "wikilink")》（，第3張單曲）收錄曲：
       - 《[與前男友的哥哥交往這回事](https://zh.wikipedia.org/wiki/與前男友的哥哥交往這回事 "wikilink")》（）：Team
         KIV演唱曲，收錄於Type-B版本中。
-  - 《[有所保留的我愛你！](https://zh.wikipedia.org/wiki/有所保留的我愛你！ "wikilink")》（，第4張單曲）收錄曲：
+  - 《[有所保留的我愛你！](../Page/有所保留的我愛你！.md "wikilink")》（，第4張單曲）收錄曲：
       - 《[在夏季之前](https://zh.wikipedia.org/wiki/在夏季之前 "wikilink")》（）：收錄於Type-B版本中的B面曲，是該單曲中的Team
         KIV隊曲。
 
@@ -298,7 +298,7 @@ KIV，成為最後一個升格的HKT48一期生。因為自幼就學習嘻哈舞
   - 《[櫻花，大家一起來品嚐](../Page/櫻花，大家一起來品嚐.md "wikilink")》（，第3張單曲）收錄曲：
       - 《[請你記得](https://zh.wikipedia.org/wiki/櫻花，大家一起來品嚐#請你記得 "wikilink")》（）：因為深川在唱片錄製時尚未升格進入Team
         KIV，因此當時是參與了收錄於Type-C版本中的這首研究生隊曲之錄製。
-  - 《[有所保留的我愛你！](https://zh.wikipedia.org/wiki/有所保留的我愛你！ "wikilink")》（，第4張單曲）收錄曲：
+  - 《[有所保留的我愛你！](../Page/有所保留的我愛你！.md "wikilink")》（，第4張單曲）收錄曲：
       - 《[在夏季之前](https://zh.wikipedia.org/wiki/在夏季之前 "wikilink")》（）：收錄於Type-B版本中的B面曲，是該單曲中的Team
         KIV隊曲。
 
@@ -351,7 +351,7 @@ H的公演中登台並擁有明顯的站位，而逐漸打開知名度。
       - 《[你怎麼了？](https://zh.wikipedia.org/wiki/你怎麼了？ "wikilink")》（）：收錄於全版本的主要B面曲，演唱成員名單與主打曲相同。
       - 《[與前男友的哥哥交往這回事](https://zh.wikipedia.org/wiki/與前男友的哥哥交往這回事 "wikilink")》（）：Team
         KIV演唱曲，收錄於Type-B版本中。
-  - 《[有所保留的我愛你！](https://zh.wikipedia.org/wiki/有所保留的我愛你！ "wikilink")》（，第4張單曲）收錄曲：
+  - 《[有所保留的我愛你！](../Page/有所保留的我愛你！.md "wikilink")》（，第4張單曲）收錄曲：
       - 《[在夏季之前](https://zh.wikipedia.org/wiki/在夏季之前 "wikilink")》（）：收錄於Type-B版本中的B面曲，是該單曲中的Team
         KIV隊曲。
 
@@ -448,7 +448,7 @@ KIV的兩名成員之一。
       - 《[請你記得](https://zh.wikipedia.org/wiki/櫻花，大家一起來品嚐#請你記得 "wikilink")》（）：收錄於Type-C版本中的研究生分隊演唱曲。雖然嚴格來說草場愛也是Team
         KIV的創隊成員之一，但因為錄製唱片時尚未被增列至升格名單內，因此未能實際參與Team
         KIV的第一首隊曲《與前男友的哥哥交往這回事》的錄製。
-  - 《[有所保留的我愛你！](https://zh.wikipedia.org/wiki/有所保留的我愛你！ "wikilink")》（，第4張單曲）收錄曲：
+  - 《[有所保留的我愛你！](../Page/有所保留的我愛你！.md "wikilink")》（，第4張單曲）收錄曲：
       - 《[在夏季之前](https://zh.wikipedia.org/wiki/在夏季之前 "wikilink")》（）：收錄於Type-B版本中的B面曲，是該單曲中的Team
         KIV隊曲。
 
@@ -490,7 +490,7 @@ KIV隊曲《來去夏威夷》（）的center。後藤曾經參與過的唱片�
   - 《[櫻花，大家一起來品嚐](../Page/櫻花，大家一起來品嚐.md "wikilink")》（，第3張單曲）收錄曲：
       - 《[與前男友的哥哥交往這回事](https://zh.wikipedia.org/wiki/與前男友的哥哥交往這回事 "wikilink")》（）：Team
         KIV演唱曲，收錄於Type-B版本中。
-  - 《[有所保留的我愛你！](https://zh.wikipedia.org/wiki/有所保留的我愛你！ "wikilink")》（，第4張單曲）收錄曲：
+  - 《[有所保留的我愛你！](../Page/有所保留的我愛你！.md "wikilink")》（，第4張單曲）收錄曲：
       - 《[在夏季之前](https://zh.wikipedia.org/wiki/在夏季之前 "wikilink")》（）：收錄於Type-B版本中的B面曲，是該單曲中的Team
         KIV隊曲。
   - 《[12秒](../Page/12秒.md "wikilink")》（第5張單曲）收錄曲：
@@ -521,7 +521,7 @@ Team
       - 《[請你記得](https://zh.wikipedia.org/wiki/櫻花，大家一起來品嚐#請你記得 "wikilink")》（）：收錄於Type-C版本中的研究生分隊演唱曲。雖然嚴格來說伊藤來笑也是Team
         KIV的創隊成員之一，但因為錄製唱片時尚未被增列至升格名單內，因此未能實際參與Team
         KIV的第一首隊曲《[與前男友的哥哥交往這回事](https://zh.wikipedia.org/wiki/與前男友的哥哥交往這回事 "wikilink")》的錄製。
-  - 《[有所保留的我愛你！](https://zh.wikipedia.org/wiki/有所保留的我愛你！ "wikilink")》（，第4張單曲）收錄曲：
+  - 《[有所保留的我愛你！](../Page/有所保留的我愛你！.md "wikilink")》（，第4張單曲）收錄曲：
       - 《[在夏季之前](https://zh.wikipedia.org/wiki/在夏季之前 "wikilink")》（）：收錄於Type-B版本中的B面曲，是該單曲中的Team
         KIV隊曲。
 
@@ -547,7 +547,7 @@ KIV之創隊成員名單之中。曾自言因為喜歡[熊貓](https://zh.wikipe
   - 《[櫻花，大家一起來品嚐](../Page/櫻花，大家一起來品嚐.md "wikilink")》（，第3張單曲）收錄曲：
       - 《[與前男友的哥哥交往這回事](https://zh.wikipedia.org/wiki/與前男友的哥哥交往這回事 "wikilink")》（）：Team
         KIV演唱曲，收錄於Type-B版本中。
-  - 《[有所保留的我愛你！](https://zh.wikipedia.org/wiki/有所保留的我愛你！ "wikilink")》（，第4張單曲）收錄曲：
+  - 《[有所保留的我愛你！](../Page/有所保留的我愛你！.md "wikilink")》（，第4張單曲）收錄曲：
       - 《[在夏季之前](https://zh.wikipedia.org/wiki/在夏季之前 "wikilink")》（）：收錄於Type-B版本中的B面曲，是該單曲中的Team
         KIV隊曲。不過，岡田雖然有參與此曲的錄製，但因在2014年5月中的劇場演出時跌倒造成右手[骨折被迫休養三個月](../Page/骨折.md "wikilink")，錯過了MV的拍攝而沒有在此曲的MV中出鏡。
 
@@ -598,7 +598,7 @@ KIV成員中年紀也是最小，但卻擁有遠超過同齡女性平均值的�
   - 《[櫻花，大家一起來品嚐](../Page/櫻花，大家一起來品嚐.md "wikilink")》（，第3張單曲）收錄曲：
       - 《[與前男友的哥哥交往這回事](https://zh.wikipedia.org/wiki/與前男友的哥哥交往這回事 "wikilink")》（）：Team
         KIV演唱曲，收錄於Type-B版本中。
-  - 《[有所保留的我愛你！](https://zh.wikipedia.org/wiki/有所保留的我愛你！ "wikilink")》（，第4張單曲）收錄曲：
+  - 《[有所保留的我愛你！](../Page/有所保留的我愛你！.md "wikilink")》（，第4張單曲）收錄曲：
       - 《[在夏季之前](https://zh.wikipedia.org/wiki/在夏季之前 "wikilink")》（）：收錄於Type-B版本中的B面曲，是該單曲中的Team
         KIV隊曲。
 

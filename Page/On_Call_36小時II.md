@@ -744,7 +744,7 @@
 <td><p>護士</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/葉暐" title="wikilink">葉　暐</a></p></td>
+<td><p><a href="../Page/葉暐.md" title="wikilink">葉　暐</a></p></td>
 <td><p>鍾　良</p></td>
 <td><p>護士</p></td>
 </tr>

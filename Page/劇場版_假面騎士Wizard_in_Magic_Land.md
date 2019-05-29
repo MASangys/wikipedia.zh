@@ -115,7 +115,7 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
     在原本世界中被假面騎士Wizard打敗，葬身於太陽中受到生死循環之苦。
     魔法王國中的身份同是魅影的怪人幹部之一。
 
-**空（）**（[前山剛久飾](https://zh.wikipedia.org/wiki/前山剛久 "wikilink")）
+**空（）**（[前山剛久飾](../Page/前山剛久.md "wikilink")）
 
   -
     [古利姆連的宿主](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")。
@@ -263,7 +263,7 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
 
   - **[美杜莎](../Page/美杜莎.md "wikilink")（）**（替身演出：、CV：）
   - **[-{菲尼克斯}-](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")（）**（替身演出：、CV：）
-  - **[古利姆連](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")（）**（替身演出：、CV：[前山剛久](https://zh.wikipedia.org/wiki/前山剛久 "wikilink")）
+  - **[古利姆連](https://zh.wikipedia.org/wiki/:ja:グレムリン "wikilink")（）**（替身演出：、CV：[前山剛久](../Page/前山剛久.md "wikilink")）
 
 ## 本作登場輔助裝備・戰力
 
@@ -785,7 +785,7 @@ MUSIC](../Page/劇場版_獸電戰隊強龍者_GABURINCHO_OF_MUSIC.md "wikilink"
     飾/聲
   - 美紗 / 美杜莎 -  飾/聲
   - 雄吾 / 菲尼克斯 -  飾/聲
-  - 空 / 古利姆連 - [前山剛久](https://zh.wikipedia.org/wiki/前山剛久 "wikilink") 飾/聲
+  - 空 / 古利姆連 - [前山剛久](../Page/前山剛久.md "wikilink") 飾/聲
   - 甜甜圈店店長 / 幪面超人Mage -  飾/聲
   - 甜甜圈店店員 / 幪面超人Mage - -{  }- 飾/聲
   - 奧馬大臣 / 幪面超人Sorcerer / 德雷克 -  飾/聲

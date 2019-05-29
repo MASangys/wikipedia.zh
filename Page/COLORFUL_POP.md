@@ -7,16 +7,16 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
   - 與上一張原創專輯《[Lesson
     1](../Page/Lesson_1.md "wikilink")》相距約11個月。此專輯是[Happiness的](../Page/Happiness_\(組合\).md "wikilink")[杉枝真結和EGD的](https://zh.wikipedia.org/wiki/杉枝真結 "wikilink")[武田杏香退出前最後參與的專輯](https://zh.wikipedia.org/wiki/武田杏香 "wikilink")
   - 收錄第6張單曲《[滿懷歉意的Kissing
-    You](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")》至第8張單曲《[Diamond
-    Only](https://zh.wikipedia.org/wiki/Diamond_Only "wikilink")》3首A面曲和5首B面曲，共8首曲目。
+    You](../Page/滿懷歉意的Kissing_You.md "wikilink")》至第8張單曲《[Diamond
+    Only](../Page/Diamond_Only.md "wikilink")》3首A面曲和5首B面曲，共8首曲目。
   - 新曲《RYDEEN 〜Dance All Night〜》為此專輯的主打曲目，是E-girls第6首翻唱歌曲，原唱者為YELLOW
     MAGIC ORCHESTRA（YMO）。
   - 新曲《A S A P》是電影《女子ーズ》主題曲。
   - 本作分「初回限定盤（CD+DVD）」和「CD盤」2種版本
   - 「初回限定盤」收錄了《[滿懷歉意的Kissing
-    You](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")》、《[轉啊轉](../Page/轉啊轉.md "wikilink")》、《[Diamond
-    Only](https://zh.wikipedia.org/wiki/Diamond_Only "wikilink")》、《RYDEEN
-    〜Dance All Night〜》4首歌曲的Music Video，並收錄BONUS影像「滿懷歉意的Kissing You
+    You](../Page/滿懷歉意的Kissing_You.md "wikilink")》、《[轉啊轉](../Page/轉啊轉.md "wikilink")》、《[Diamond
+    Only](../Page/Diamond_Only.md "wikilink")》、《RYDEEN 〜Dance All
+    Night〜》4首歌曲的Music Video，並收錄BONUS影像「滿懷歉意的Kissing You
     ～電影「謝罪大王」片尾影像・特別版～」。
   - 在3月31日於公信榜專輯週排行榜取得第1位，繼《[Lesson
     1](../Page/Lesson_1.md "wikilink")》後，連續兩張專輯於排行榜取得第1位。
@@ -31,13 +31,12 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
       -
         2nd專輯《COLORFUL POP》主打曲目
 2.  **[滿懷歉意的Kissing
-    You](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")**（ごめんなさいのKissing
+    You](../Page/滿懷歉意的Kissing_You.md "wikilink")**（ごめんなさいのKissing
     You）
     （作詞：Yu Shimoji、作曲・編曲：CLARABELL(RzC)）
       -
         6th單曲・電影《[謝罪大王](../Page/謝罪大王.md "wikilink")》主題曲
-3.  **[Diamond
-    Only](https://zh.wikipedia.org/wiki/Diamond_Only "wikilink")**
+3.  **[Diamond Only](../Page/Diamond_Only.md "wikilink")**
     （作詞：藤林聖子、作曲・編曲：Erik Lidbom・Albi Albertsson）
       -
         8th單曲・[日本電視台連續劇](../Page/日本電視台.md "wikilink")《戀文日和》主題曲
@@ -45,8 +44,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     （作詞：Yu Shimoji、作曲：Kanata Okajima・Albi Albertsson・Ricky Hanley）
       -
         電影《女子ーズ》主題曲
-5.  **[Fancy
-    Baby](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")**
+5.  **[Fancy Baby](../Page/滿懷歉意的Kissing_You.md "wikilink")**
     （作詞:Kanata Okajima、作曲：John Hallgren・Kanata Okajima、編曲：John Hallgren）
       -
         6th單曲・《滿懷歉意的Kissing You》的B面曲
@@ -69,7 +67,7 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     Stock、日本語詞：藤林聖子）
       -
         7th單曲・《轉啊轉》的B面曲
-11. **[戀愛Boogie・Woogie・Train](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")**（）
+11. **[戀愛Boogie・Woogie・Train](../Page/滿懷歉意的Kissing_You.md "wikilink")**（）
     （作詞：Minako Yoshida、作曲：Tatsuro Yamashita、編曲：Yuta Nakano）
       -
         6th單曲・《滿懷歉意的Kissing You》的B面曲

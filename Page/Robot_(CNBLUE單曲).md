@@ -12,8 +12,8 @@ Oba編寫歌曲及製作，並在2012年12月19日以三個不同版本推出。
 此單曲共分為3個發行版本，包括兩個限量版本及一個通常版本：
 
   - 初回限定盤：包括了單曲CD以及一片收錄《Robot》音樂錄影帶與製作花絮及在2012年9月9日舉行的《[CODE NAME
-    BLUE](https://zh.wikipedia.org/wiki/CODE_NAME_BLUE "wikilink")
-    release live at [Pacifico
+    BLUE](../Page/CODE_NAME_BLUE.md "wikilink") release live at
+    [Pacifico
     Yokohama](https://zh.wikipedia.org/wiki/横濱國際平和會議場 "wikilink")》演出片段的一片DVD\[7\]。
 
 <!-- end list -->

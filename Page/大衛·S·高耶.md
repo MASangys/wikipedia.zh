@@ -12,7 +12,7 @@
 
 高耶撰寫或合作撰寫基於各種漫畫書系列幾個劇本，其中包括《[奇異博士](../Page/奇異博士.md "wikilink")》、《[惡靈戰警](../Page/幽靈車神_\(2007年電影\).md "wikilink")》、《[蝙蝠俠：開戰時刻](../Page/蝙蝠俠：開戰時刻.md "wikilink")》、《[閃電俠](../Page/閃電俠.md "wikilink")》和《[刀鋒戰士](https://zh.wikipedia.org/wiki/刀鋒戰士 "wikilink")》。高耶寫道根據各[DC漫畫的](../Page/DC漫畫.md "wikilink")[美國正義會標題](https://zh.wikipedia.org/wiki/美國正義會 "wikilink")，為《共同警備區》。
 
-2013年3月，高耶據報導，被選定為電子遊戲改編電影《[潛龍諜影](https://zh.wikipedia.org/wiki/潛龍諜影 "wikilink")》的作家。6月，他宣布要在《正義聯盟》和《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》的續集這兩個工作\[6\]。2013年12月，宣布高耶將和[喬瑟夫·高登-李維一同打造](../Page/喬瑟夫·高登-李維.md "wikilink")[尼爾·蓋曼的漫畫](../Page/尼爾·蓋曼.md "wikilink")《[睡魔](https://zh.wikipedia.org/wiki/睡魔 "wikilink")》電影\[7\]。
+2013年3月，高耶據報導，被選定為電子遊戲改編電影《[潛龍諜影](https://zh.wikipedia.org/wiki/潛龍諜影 "wikilink")》的作家。6月，他宣布要在《正義聯盟》和《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》的續集這兩個工作\[6\]。2013年12月，宣布高耶將和[喬瑟夫·高登-李維一同打造](../Page/喬瑟夫·高登-李維.md "wikilink")[尼爾·蓋曼的漫畫](../Page/尼爾·蓋曼.md "wikilink")《[睡魔](../Page/睡魔.md "wikilink")》電影\[7\]。
 
 ## 作品列表
 

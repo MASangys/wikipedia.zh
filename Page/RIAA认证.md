@@ -10,7 +10,7 @@
 | [Alabama](https://zh.wikipedia.org/wiki/Alabama_\(band\) "wikilink")                  | 22     | 20      | 10       | 52  | \[4\]  |
 | [海灘男孩](../Page/海灘男孩.md "wikilink")                                                    | 20     | 9       | 6        | 35  | \[5\]  |
 | [披頭四樂隊](../Page/披頭四樂隊.md "wikilink")                                                  | 47     | 41      | 26       | 114 | \[6\]  |
-| [加斯·布鲁克斯](https://zh.wikipedia.org/wiki/加斯·布鲁克斯 "wikilink")                           | 16     | 16      | 15       | 47  | \[7\]  |
+| [加斯·布鲁克斯](../Page/加斯·布鲁克斯.md "wikilink")                                              | 16     | 16      | 15       | 47  | \[7\]  |
 | [約翰尼·卡什](../Page/約翰尼·卡什.md "wikilink")                                                | 19     | 10      | 5        | 34  | \[8\]  |
 | [Chicago](https://zh.wikipedia.org/wiki/Chicago_\(band\) "wikilink")                  | 23     | 18      | 8        | 49  | \[9\]  |
 | [埃里克·克莱普顿](../Page/埃里克·克莱普顿.md "wikilink")                                            | 25     | 12      | 8        | 45  | \[10\] |

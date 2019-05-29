@@ -12,7 +12,7 @@ trax发售](https://zh.wikipedia.org/wiki/avex_trax "wikilink")。
   - 「CD+DVD+BOOK（Jacket A）」附有一本36頁的相集《AAA Party會報誌 特別篇》，除了收錄《SHOW
     TIME》的Making照片外，此相集更收錄了上年年末《[第55屆日本唱片大獎](../Page/日本唱片大獎.md "wikilink")》和《[第64回NHK紅白歌合戰](../Page/第64回NHK紅白歌合戰.md "wikilink")》的照片。
   - B面曲《CIRCLE》收錄在AAA於10月1日發行的原創專輯《[GOLD
-    SYMPHONY](https://zh.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")》，而A面曲《SHOW
+    SYMPHONY](../Page/GOLD_SYMPHONY.md "wikilink")》，而A面曲《SHOW
     TIME》並沒有收錄於該原創專輯
 
 ## 收錄内容

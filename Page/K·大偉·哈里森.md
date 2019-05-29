@@ -6,7 +6,7 @@ Linguists)一片。\[1\]
 他亦擔任非營利[瀕危語言振興協會的](../Page/瀕危語言振興協會.md "wikilink")[董事](../Page/董事.md "wikilink")。\[2\]\[3\]
 
 哈里森博士在[西伯利亞及](https://zh.wikipedia.org/wiki/西伯利亞 "wikilink")[蒙古等地進行瀕危語言如](https://zh.wikipedia.org/wiki/蒙古 "wikilink")[图瓦语](../Page/图瓦语.md "wikilink")，[藏則圖瓦語](https://zh.wikipedia.org/wiki/藏則圖瓦語 "wikilink")(Tsengel
-Tuvan)，[圖法語](https://zh.wikipedia.org/wiki/圖法語 "wikilink")，[歐斯語](https://zh.wikipedia.org/wiki/歐斯語 "wikilink")()，[圖哈語](https://zh.wikipedia.org/wiki/圖哈語 "wikilink")(Tuha)，[蒙查克語](https://zh.wikipedia.org/wiki/蒙查克語 "wikilink")(Monchak)，[蒙达语族等之田野研究工作](../Page/蒙达语族.md "wikilink")，也曾在[巴拉圭](../Page/巴拉圭.md "wikilink")，[智利](../Page/智利.md "wikilink")，[巴布亞新幾內亞](https://zh.wikipedia.org/wiki/巴布亞新幾內亞 "wikilink")，[印度等地進行此類瀕危語言田野研究工作](../Page/印度.md "wikilink")。他擅長[音位學](../Page/音位學.md "wikilink")、尤其是[元音和谐律](../Page/元音和谐律.md "wikilink")，並研究語言之瀕危，滅絕和振興等方面題目。\[4\]
+Tuvan)，[圖法語](../Page/圖法語.md "wikilink")，[歐斯語](https://zh.wikipedia.org/wiki/歐斯語 "wikilink")()，[圖哈語](https://zh.wikipedia.org/wiki/圖哈語 "wikilink")(Tuha)，[蒙查克語](https://zh.wikipedia.org/wiki/蒙查克語 "wikilink")(Monchak)，[蒙达语族等之田野研究工作](../Page/蒙达语族.md "wikilink")，也曾在[巴拉圭](../Page/巴拉圭.md "wikilink")，[智利](../Page/智利.md "wikilink")，[巴布亞新幾內亞](https://zh.wikipedia.org/wiki/巴布亞新幾內亞 "wikilink")，[印度等地進行此類瀕危語言田野研究工作](../Page/印度.md "wikilink")。他擅長[音位學](../Page/音位學.md "wikilink")、尤其是[元音和谐律](../Page/元音和谐律.md "wikilink")，並研究語言之瀕危，滅絕和振興等方面題目。\[4\]
 
 ## 註釋
 

@@ -15,7 +15,7 @@ Lab制版，首批[Sony压碟](https://zh.wikipedia.org/wiki/Sony "wikilink")。
 
 ## 奖项
 
-  - [2014年度新城國語力頒獎禮](https://zh.wikipedia.org/wiki/2014年度新城國語力頒獎禮得獎名單 "wikilink")
+  - [2014年度新城國語力頒獎禮](../Page/2014年度新城國語力頒獎禮得獎名單.md "wikilink")
       - 新城國語力歌曲：《不傷人》
       - 新城國語力亞洲人氣偶像：[田蕊妮](../Page/田蕊妮.md "wikilink")
 

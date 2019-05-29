@@ -1,4 +1,4 @@
-**WWE洲際冠軍**（），是隸屬於[世界摔角娛樂的一](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[冠軍項目](https://zh.wikipedia.org/wiki/冠軍 "wikilink")。WWE洲際冠軍在1975年成立於世界摔角娛樂的前身，也就是當時的世界摔角聯盟（WWF）。WWE洲際冠軍是次要冠軍項目，通常在中等的場和或節目時段中都會有冠軍賽，有時亦會在[付費收看節目舉行冠軍賽](https://zh.wikipedia.org/wiki/世界摔角娛樂付費收看節目 "wikilink")。特別的是，[柯爾提斯·艾克賽爾與他的父親](../Page/柯爾提斯·艾克賽爾.md "wikilink")[柯爾提·漢尼格是世界摔角娛樂的歷史上](../Page/柯爾提·漢尼格.md "wikilink")，第一對都獲得過WWE洲際冠軍的父子檔。
+**WWE洲際冠軍**（），是隸屬於[世界摔角娛樂的一](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")[冠軍項目](https://zh.wikipedia.org/wiki/冠軍 "wikilink")。WWE洲際冠軍在1975年成立於世界摔角娛樂的前身，也就是當時的世界摔角聯盟（WWF）。WWE洲際冠軍是次要冠軍項目，通常在中等的場和或節目時段中都會有冠軍賽，有時亦會在[付費收看節目舉行冠軍賽](../Page/世界摔角娛樂付費收看節目.md "wikilink")。特別的是，[柯爾提斯·艾克賽爾與他的父親](../Page/柯爾提斯·艾克賽爾.md "wikilink")[柯爾提·漢尼格是世界摔角娛樂的歷史上](../Page/柯爾提·漢尼格.md "wikilink")，第一對都獲得過WWE洲際冠軍的父子檔。
 
 ## 詞源
 
@@ -15,7 +15,7 @@
 ## 記錄
 
 [Pat_Patterson_April_2014.jpg](https://zh.wikipedia.org/wiki/File:Pat_Patterson_April_2014.jpg "fig:Pat_Patterson_April_2014.jpg")\]\]
-WWE洲際冠軍的首任冠軍，是1979年獲勝的[派特·派特森](https://zh.wikipedia.org/wiki/派特·派特森 "wikilink")，而曾有72位選手成為WWE洲際冠軍。WWE洲際冠軍的最長連任時間保持人是，其記錄從1987年6月2日到1988年8月29日，共計454天。WWE洲際冠軍總計連任最長時間的保持人是[裴卓·莫蕊爾](https://zh.wikipedia.org/wiki/裴卓·莫蕊爾 "wikilink")，共計619天。WWE洲際冠軍的最短連任時間保持人是，其記錄為10分鐘。WWE洲際冠軍的最年長冠軍王者是56歲的[瑞克·福萊爾](../Page/瑞克·福萊爾.md "wikilink")，最年輕冠軍王者是23歲的[傑夫·哈迪](../Page/傑夫·哈迪.md "wikilink")。WWE洲際冠軍的最多勝利次數保持人是[克里斯·傑利可](../Page/克里斯·傑利可.md "wikilink")，其記錄為9次。
+WWE洲際冠軍的首任冠軍，是1979年獲勝的[派特·派特森](../Page/派特·派特森.md "wikilink")，而曾有72位選手成為WWE洲際冠軍。WWE洲際冠軍的最長連任時間保持人是，其記錄從1987年6月2日到1988年8月29日，共計454天。WWE洲際冠軍總計連任最長時間的保持人是[裴卓·莫蕊爾](../Page/裴卓·莫蕊爾.md "wikilink")，共計619天。WWE洲際冠軍的最短連任時間保持人是，其記錄為10分鐘。WWE洲際冠軍的最年長冠軍王者是56歲的[瑞克·福萊爾](../Page/瑞克·福萊爾.md "wikilink")，最年輕冠軍王者是23歲的[傑夫·哈迪](../Page/傑夫·哈迪.md "wikilink")。WWE洲際冠軍的最多勝利次數保持人是[克里斯·傑利可](../Page/克里斯·傑利可.md "wikilink")，其記錄為9次。
 
 ## 參考文獻
 

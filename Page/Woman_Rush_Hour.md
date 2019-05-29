@@ -1,7 +1,6 @@
 **Woman Rush
 Hour**（）是一對[日本](../Page/日本.md "wikilink")[搞笑組合](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")，於2008年組成\[1\]，成員分別是村本大輔和中川天堂（）。他們兩人都是隸屬[吉本興業的藝人](../Page/吉本興業.md "wikilink")，村本畢業於[NSC第](https://zh.wikipedia.org/wiki/吉本綜合藝能學院 "wikilink")22期，中川則是第23期\[2\]。他們為2013年度日本漫才大賽[THE
-MANZAI
-2013之優勝者](https://zh.wikipedia.org/wiki/THE_MANZAI_\(日本漫才比賽\) "wikilink")\[3\]。
+MANZAI 2013之優勝者](../Page/THE_MANZAI_\(日本漫才比賽\).md "wikilink")\[3\]。
 
 ## 成員
 

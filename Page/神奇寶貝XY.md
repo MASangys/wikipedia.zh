@@ -1645,7 +1645,7 @@ VS超級沙奈朵</p></td>
 | -------- | ------------------------------------------------------------------------------------------------ | ----------------------------------- | ----------------------------------- |
 | 神奇寶貝XY系列 |                                                                                                  |                                     |                                     |
 | 中文       | 日本英文名                                                                                            | 美國官方名                               | 日本                                  |
-| 17       | [破壞之繭與蒂安希](https://zh.wikipedia.org/wiki/Pokemon_the_movie_XY_破壞之繭與蒂安希 "wikilink")               | Cocoon of Destruction & Diancie     | Diancie & the Cocoon of Destruction |
+| 17       | [破壞之繭與蒂安希](../Page/Pokemon_the_movie_XY_破壞之繭與蒂安希.md "wikilink")                                  | Cocoon of Destruction & Diancie     | Diancie & the Cocoon of Destruction |
 | 18       | [光環的超魔神 胡帕](../Page/Pokemon_the_movie_XY_光環的超魔神_胡帕.md "wikilink")                                | The Archdjinni of the Rings - Hoopa | Hoopa & the Clash of Ages           |
 | 19       | [波爾凱尼恩與機關人偶瑪機雅娜](https://zh.wikipedia.org/wiki/Pokemon_the_movie_XY&Z_波爾凱尼恩與機關人偶瑪機雅娜 "wikilink") | Volcanion & the Mechanical Magearna | Volcanion & the Mechanical Marvel   |
 |          |                                                                                                  |                                     |                                     |
@@ -1681,7 +1681,7 @@ VS超級沙奈朵</p></td>
 
 1.  有傳[無綫電視是在](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")2013年11月就購買本作第一季，而當時[群英社已經不是代理](../Page/群英社.md "wikilink")，所以本作當時是向日本購買的；亦因為這樣，所以香港首季的代理應該不是曼迪傳播。
 
-2.  第37集－第41集的主題曲畫面為劇場版《[破壞之繭與蒂安希](https://zh.wikipedia.org/wiki/Pokemon_the_movie_XY_破壞之繭與蒂安希 "wikilink")》之劇情內容。
+2.  第37集－第41集的主題曲畫面為劇場版《[破壞之繭與蒂安希](../Page/Pokemon_the_movie_XY_破壞之繭與蒂安希.md "wikilink")》之劇情內容。
 
 3.  第45集起播放第2段動畫（以[莎莉娜為主題](https://zh.wikipedia.org/wiki/莎莉娜_\(神奇寶貝\) "wikilink")）。
 

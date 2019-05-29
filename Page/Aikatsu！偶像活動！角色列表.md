@@ -1,4 +1,4 @@
-**Aikatsu！偶像活動！角色列表**是《[Aikatsu！偶像活動！](https://zh.wikipedia.org/wiki/偶像活動！_\(動畫\) "wikilink")》的登場角色介紹。部分無漢字或可引用解釋之名字以香港或台灣電視台翻譯為準。
+**Aikatsu！偶像活動！角色列表**是《[Aikatsu！偶像活動！](../Page/偶像活動！_\(動畫\).md "wikilink")》的登場角色介紹。部分無漢字或可引用解釋之名字以香港或台灣電視台翻譯為準。
 劇中登場人物年齡隨時間軸改變，以第1、2部主角星宮莓為準：第1話時為中學一年級、第26話時為中學二年級、第51話為中學三年級、第76話為高中一年級、第127話為高中二年級；第3、4部主角大空明里為準：第76話登場為中學一年級，第127話為中學二年級。
 
 台灣引進的[大型機台版本](https://zh.wikipedia.org/wiki/街機 "wikilink")，遊戲中的角色另外採用台灣的配音，陣容與TV版不同。遊戲版第3部起改中國的配音。
@@ -59,7 +59,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[沼倉愛美](../Page/沼倉愛美.md "wikilink")（聲）、山崎萌（歌・動畫前期）、美谷玲實（歌・動畫後期）／港：[羅孔柔](https://zh.wikipedia.org/wiki/羅孔柔 "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（動畫版第1、2部）、[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）、[劉如蘋](../Page/劉如蘋.md "wikilink")（STARS第70集）
+    配音員：日：[沼倉愛美](../Page/沼倉愛美.md "wikilink")（聲）、山崎萌（歌・動畫前期）、美谷玲實（歌・動畫後期）／港：[羅孔柔](../Page/羅孔柔.md "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（動畫版第1、2部）、[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）、[劉如蘋](../Page/劉如蘋.md "wikilink")（STARS第70集）
     12月26日出生，[摩羯座](../Page/摩羯座.md "wikilink")，血型[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")。
     街機第3彈開始登場，於動畫19集登場。
     常用品牌：**Loli Gothic**
@@ -82,7 +82,7 @@
 <!-- end list -->
 
   -
-    配音員：日：（聲）、市倉有菜（歌）／港：[劉惠雲](../Page/劉惠雲.md "wikilink")、[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")（代配）／台：[林沛笭](../Page/林沛笭.md "wikilink")（動畫版第1部和遊戲版）、[龍顯蕙](../Page/龍顯蕙.md "wikilink")（動畫版第2部）、連婉鈞（動畫版第3部起、劇場版與STARS第70集）
+    配音員：日：（聲）、市倉有菜（歌）／港：[劉惠雲](../Page/劉惠雲.md "wikilink")、[葉曉欣](../Page/葉曉欣.md "wikilink")（代配）／台：[林沛笭](../Page/林沛笭.md "wikilink")（動畫版第1部和遊戲版）、[龍顯蕙](../Page/龍顯蕙.md "wikilink")（動畫版第2部）、連婉鈞（動畫版第3部起、劇場版與STARS第70集）
     11月23日出生，[射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。
     街機第5彈開始登場，於動畫第33集登場。
     常用品牌：**Magical Toy**
@@ -130,7 +130,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[照井春佳](https://zh.wikipedia.org/wiki/照井春佳 "wikilink")／港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")(動畫版第2部)→[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")(動畫版第3部起)
+    配音員：日：[照井春佳](../Page/照井春佳.md "wikilink")／港：[鄭麗麗](../Page/鄭麗麗.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")(動畫版第2部)→[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")(動畫版第3部起)
     7月17日出生，[巨蟹座](../Page/巨蟹座.md "wikilink")，血型[AB型](https://zh.wikipedia.org/wiki/AB型 "wikilink")。
     常用品牌：**Swing ROCK**與星羅同樣喜歡
     淺黃色短髮少女，明里的同班同學兼最初的室友。左耳戴一顆紅色星形耳環，喜歡爵士舞，第102話時因漏雨問題而與明里別居。喜歡做假的飾物。
@@ -246,7 +246,7 @@
 <!-- end list -->
 
   -
-    配音員：日：（聲）、市倉有菜（歌）／港：[葉曉欣](https://zh.wikipedia.org/wiki/葉曉欣 "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（動畫版第2部）→[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）
+    配音員：日：（聲）、市倉有菜（歌）／港：[葉曉欣](../Page/葉曉欣.md "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")（動畫版第2部）→[李昀晴](../Page/李昀晴.md "wikilink")（動畫版第3部起、劇場版）
     12月3日出生，[射手座](https://zh.wikipedia.org/wiki/射手座 "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。街機2014年第1彈與動畫第51集登場。夢想學院學生、與小莓同屆。喜歡的品牌是「**MAGICAL
     TOY**」。
     在學校內選擇製作人課程，並擔任星羅的專屬製作人。日夜都為星羅的製作操心，但對自己的事非常不在行。常喝「腦力閃電 (Brain
@@ -267,7 +267,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[富岡美沙子](../Page/富岡美沙子.md "wikilink")（聲）、愛野繪理（歌）／港：[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")→[廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink")（第139集起）／台：[傅其慧](../Page/傅其慧.md "wikilink")（動畫版第2部）、[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")（動畫版第3部起）、[張乃文](../Page/張乃文_\(配音員\).md "wikilink")（劇場版）
+    配音員：日：[富岡美沙子](../Page/富岡美沙子.md "wikilink")（聲）、愛野繪理（歌）／港：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")→[廖杏茵](../Page/廖杏茵.md "wikilink")（第139集起）／台：[傅其慧](../Page/傅其慧.md "wikilink")（動畫版第2部）、[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")（動畫版第3部起）、[張乃文](../Page/張乃文_\(配音員\).md "wikilink")（劇場版）
     4月18日出生，[白羊座](../Page/白羊座.md "wikilink")，血型[O型](https://zh.wikipedia.org/wiki/O型 "wikilink")。街機2014年第3彈與動畫第68集登場。與小莓同屆。喜歡的品牌是「**Aurora
     Fantasy**」。
     人氣偶像，擅長美妝造型。家境相當富裕，買下大片山地經營牧場，在那裡遇見院長，被說服加入夢幻學院。
@@ -378,13 +378,13 @@
 <!-- end list -->
 
   -
-    配音員：日：[雨宮天](https://zh.wikipedia.org/wiki/雨宮天 "wikilink")／港：[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")
+    配音員：日：[雨宮天](https://zh.wikipedia.org/wiki/雨宮天 "wikilink")／港：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")／台：[馮嘉德](../Page/馮嘉德.md "wikilink")
     第12話登場，由於父母在美國工作而無法與她一起過聖誕節，同時想念童年看過的大聖誕樹；因此小莓她們就爽快地答應她，而去砍伐一棵大樹當作聖誕樹，讓她不再難過。
 
 <!-- end list -->
 
   -
-    配音員：日：[夏川椎菜](https://zh.wikipedia.org/wiki/夏川椎菜 "wikilink")／港：[陳皓宜](../Page/陳皓宜.md "wikilink")
+    配音員：日：[夏川椎菜](../Page/夏川椎菜.md "wikilink")／港：[陳皓宜](../Page/陳皓宜.md "wikilink")
 
 <!-- end list -->
 
@@ -395,7 +395,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[五十嵐裕美](../Page/五十嵐裕美.md "wikilink")／港：[黃瑩瑩](https://zh.wikipedia.org/wiki/黃瑩瑩 "wikilink")
+    配音員：日：[五十嵐裕美](../Page/五十嵐裕美.md "wikilink")／港：[黃瑩瑩](../Page/黃瑩瑩.md "wikilink")
 
 <!-- end list -->
 
@@ -422,12 +422,12 @@
 <!-- end list -->
 
   -
-    配音員：日：[杉浦奈保子](https://zh.wikipedia.org/wiki/杉浦奈保子 "wikilink")（第6話）→[夏川椎菜](https://zh.wikipedia.org/wiki/夏川椎菜 "wikilink")（第12話）
+    配音員：日：[杉浦奈保子](https://zh.wikipedia.org/wiki/杉浦奈保子 "wikilink")（第6話）→[夏川椎菜](../Page/夏川椎菜.md "wikilink")（第12話）
 
 <!-- end list -->
 
   -
-    配音員：日：[夏川椎菜](https://zh.wikipedia.org/wiki/夏川椎菜 "wikilink")／港：[林芷筠](../Page/林芷筠.md "wikilink")
+    配音員：日：[夏川椎菜](../Page/夏川椎菜.md "wikilink")／港：[林芷筠](../Page/林芷筠.md "wikilink")
 
 <!-- end list -->
 
@@ -551,7 +551,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[夏川椎菜](https://zh.wikipedia.org/wiki/夏川椎菜 "wikilink")
+    配音員：日：[夏川椎菜](../Page/夏川椎菜.md "wikilink")
 
 <!-- end list -->
 
@@ -941,7 +941,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[宮本佳那子](../Page/宮本佳那子.md "wikilink")→[加隈亞衣](../Page/加隈亞衣.md "wikilink")／港：[成瑤孆](../Page/成瑤孆.md "wikilink")→[廖杏茵](https://zh.wikipedia.org/wiki/廖杏茵 "wikilink")／台：[江銘珊](https://zh.wikipedia.org/wiki/江銘珊 "wikilink")(第1、2部)→[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")(第3部)
+    配音員：日：[宮本佳那子](../Page/宮本佳那子.md "wikilink")→[加隈亞衣](../Page/加隈亞衣.md "wikilink")／港：[成瑤孆](../Page/成瑤孆.md "wikilink")→[廖杏茵](../Page/廖杏茵.md "wikilink")／台：[江銘珊](https://zh.wikipedia.org/wiki/江銘珊 "wikilink")(第1、2部)→[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")(第3部)
     星羅的妹妹，與賴智同校同年級的隔壁班學生（國中時代以後為同班級），非常崇拜莓。與賴智認識後一起以自家店面宣傳身邊偶像的活動消息。出生於聖誔節，而希英瑠這名字為法語的聖誔節。
     第172集表示已轉進夢想學園就讀。
     對動物過敏。
@@ -1030,7 +1030,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[麻倉桃](https://zh.wikipedia.org/wiki/麻倉桃 "wikilink")／港：[羅杏芝](../Page/羅杏芝.md "wikilink")
+    配音員：日：[麻倉桃](../Page/麻倉桃.md "wikilink")／港：[羅杏芝](../Page/羅杏芝.md "wikilink")
     第42話登場。小苺的粉絲。
 
 <!-- end list -->

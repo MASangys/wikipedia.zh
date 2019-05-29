@@ -21,8 +21,7 @@ Sans CJK」\[3\]，漢字皆依各國國家標準寫法製作。字重有7種（
 350、Regular 400、Medium 500、Bold 700、Black
 900）。而Adobe针对汉字發行了另一版本：[Source Han
 Sans](https://zh.wikipedia.org/wiki/Source_Han_Sans "wikilink")，其英文、數字採用[Source
-Sans
-Pro字型](https://zh.wikipedia.org/wiki/Source_Sans_Pro "wikilink")。\[4\]
+Sans Pro字型](../Page/Source_Sans_Pro.md "wikilink")。\[4\]
 
 ## Noto Serif CJK
 

@@ -1,5 +1,5 @@
 《**TYCOON
-TALK**》，是[香港](../Page/香港.md "wikilink")[無綫電視明珠台的一個商界名人訪談節目](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")，由著名影視製作人[戴尚安](https://zh.wikipedia.org/wiki/戴尚安 "wikilink")（[Sean
+TALK**》，是[香港](../Page/香港.md "wikilink")[無綫電視明珠台的一個商界名人訪談節目](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")，由著名影視製作人[戴尚安](../Page/戴尚安.md "wikilink")（[Sean
 Lee-Davies](https://zh.wikipedia.org/wiki/Sean_Lee-Davies "wikilink")）執導及主持，一連八集走訪香港八位重量級商界領袖及[企業家](https://zh.wikipedia.org/wiki/企業家 "wikilink")，剖析其成功之道，並且走進他們的辦公室及居所，暢談他們的工作理念、家庭觀、人生觀，及對香港未來的看法。
 
 節目透過輕鬆手法訪問每位嘉賓，披露他們於鎂光燈背後的有趣一面。主持人戴尚安在節目中與嘉賓打成一片，例如與[利豐聯營公司利標品牌行政總裁](../Page/利豐.md "wikilink")[樂裕民打桌球](https://zh.wikipedia.org/wiki/樂裕民 "wikilink")、乘搭[大生銀行董事](../Page/大生銀行.md "wikilink")[馬清揚的私人直昇機翱翔香港上空](https://zh.wikipedia.org/wiki/馬清揚 "wikilink")、又乘坐由[合和實業主席](../Page/合和實業.md "wikilink")[胡應湘爵士駕駛的環保電動車暢遊香港](../Page/胡應湘.md "wikilink")，期間分享他們與家人、朋友，甚至下屬的生活之道。

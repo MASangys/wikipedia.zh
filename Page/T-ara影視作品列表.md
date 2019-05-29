@@ -475,7 +475,7 @@
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Triangle_(電視劇)" title="wikilink">Triangle</a>》</p></td>
+<td><p>《<a href="../Page/Triangle_(電視劇).md" title="wikilink">Triangle</a>》</p></td>
 <td><p>成宥真</p></td>
 <td><p>MBC</p></td>
 <td><p>芝妍</p></td>

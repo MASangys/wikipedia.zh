@@ -79,7 +79,7 @@
 | 2010年       | [年代綜合台](../Page/年代綜合台.md "wikilink")              | [歡樂大富翁](https://zh.wikipedia.org/wiki/歡樂大富翁 "wikilink")                 | 與[陳亞蘭共同主持](../Page/陳亞蘭.md "wikilink")                                                                                                                     |
 | 2013年至2016年 | [衛視中文台](../Page/衛視中文台.md "wikilink")              | [冠軍任務](../Page/冠軍任務.md "wikilink")                                      |                                                                                                                                                           |
 | 2013年至2015年 | [台視](https://zh.wikipedia.org/wiki/台視 "wikilink") | [愛玩咖](../Page/愛玩咖.md "wikilink")                                        |                                                                                                                                                           |
-| 2014年       |                                                   | [奔跑吧兄弟](https://zh.wikipedia.org/wiki/奔跑吧兄弟 "wikilink")                 | 第1季 嘉賓                                                                                                                                                    |
+| 2014年       |                                                   | [奔跑吧兄弟](../Page/奔跑吧兄弟.md "wikilink")                                    | 第1季 嘉賓                                                                                                                                                    |
 
 ## 相關
 

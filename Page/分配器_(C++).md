@@ -86,7 +86,7 @@ void A::destroy(A::pointer p){ ((T*)p)->~T(); }
 在“自定义分配器”这一话题上，已有诸多[C++专家与相关作者参与探讨](../Page/C++.md "wikilink")，例如[斯科特·梅耶斯的作品](https://zh.wikipedia.org/wiki/斯科特·梅耶斯 "wikilink")《Effective
 STL》与[安德烈·亚历山德雷斯库的](https://zh.wikipedia.org/wiki/Andrei_Alexandrescu "wikilink")《》都有提及。梅耶斯洞察到，若要求针对某一类型T的分配器的所有实例都相等，则可移植的分配器的实例必须不包含状态。虽然C++标准鼓励库的实现者支持带状态的分配器，但梅耶斯称，相关段落是“（看似）美妙的观点”，但也几乎是空话，并称分配器的限制“过于严苛”\[27\]。例如，STL的list允许splice方法，即一个list对象A的节点可以被直接移入另一个list对象B中，这就要求A的分配器申请到的内存，可被B的分配器释放掉，从而推导出A与B的分配器实例必须相等。梅耶斯的结论是，分配器最好定义为使用静态方法的类型。例如，根据C++标准，分配器必须提供一个实现了rebind方法的other类模板。
 
-另外，在《[C++程序设计语言](https://zh.wikipedia.org/wiki/C++程式語言_\(書\) "wikilink")》中，比雅尼·斯特劳斯特鲁普则认为“‘严格限制分配器，以免各对象信息不同’，这点显然问题不大”（大意），并指出大部分分配器并不需要状态，甚至没有状态情形下性能反倒更佳。他提出了三个自定义分配器的用例：[内存池型的分配器](https://zh.wikipedia.org/wiki/内存池 "wikilink")、[共享内存型分配器与](https://zh.wikipedia.org/wiki/共享内存 "wikilink")[垃圾回收型分配器](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")，并展示了一个分配器的实现，此间利用了一个内部内存池，以快速分配/解除分配少量内存。但他也提到，如此[优化可能已经在他所提供的样例分配器中实现](https://zh.wikipedia.org/wiki/优化 "wikilink")\[28\]。
+另外，在《[C++程序设计语言](../Page/C++程式語言_\(書\).md "wikilink")》中，比雅尼·斯特劳斯特鲁普则认为“‘严格限制分配器，以免各对象信息不同’，这点显然问题不大”（大意），并指出大部分分配器并不需要状态，甚至没有状态情形下性能反倒更佳。他提出了三个自定义分配器的用例：[内存池型的分配器](https://zh.wikipedia.org/wiki/内存池 "wikilink")、[共享内存型分配器与](https://zh.wikipedia.org/wiki/共享内存 "wikilink")[垃圾回收型分配器](https://zh.wikipedia.org/wiki/垃圾回收_\(计算机科学\) "wikilink")，并展示了一个分配器的实现，此间利用了一个内部内存池，以快速分配/解除分配少量内存。但他也提到，如此[优化可能已经在他所提供的样例分配器中实现](https://zh.wikipedia.org/wiki/优化 "wikilink")\[28\]。
 
 自定义分配器的另一用途是[调试内存相关错误](https://zh.wikipedia.org/wiki/调试 "wikilink")\[29\]。若要做到这一点，可以编写一个分配器，令之在分配时分配额外的内存，并借此存放调试信息。这类分配器不仅可以保证内存由同-{zh-hans:类;zh-hant:類別;}-分配器分配/解除分配内存，还可在一定程度上保护程序免受[缓存溢出之害](https://zh.wikipedia.org/wiki/缓存溢出 "wikilink")\[30\]。
 

@@ -171,7 +171,7 @@ III**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](
   - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
     （[Victoria](../Page/宋茜.md "wikilink")、[Amber](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")、[Luna](../Page/朴善英.md "wikilink")、[Sulli](https://zh.wikipedia.org/wiki/崔雪莉 "wikilink")(缺席東京、首爾及雅加達場演出)、[Krystal](../Page/鄭秀晶.md "wikilink")）
   - [EXO](../Page/EXO.md "wikilink")
-    （[Xiumin](../Page/金珉錫.md "wikilink")、[鹿晗](https://zh.wikipedia.org/wiki/鹿晗 "wikilink")、[Kris](../Page/吳亦凡.md "wikilink")、[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Lay](../Page/張藝興.md "wikilink")、[伯賢](https://zh.wikipedia.org/wiki/伯賢 "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")、[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")、[Tao](../Page/黃子韜.md "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鍾仁 "wikilink")、[世勳](https://zh.wikipedia.org/wiki/世勳 "wikilink")）
+    （[Xiumin](../Page/金珉錫.md "wikilink")、[鹿晗](../Page/鹿晗.md "wikilink")、[Kris](../Page/吳亦凡.md "wikilink")、[Suho](https://zh.wikipedia.org/wiki/金俊勉 "wikilink")、[Lay](../Page/張藝興.md "wikilink")、[伯賢](../Page/伯賢.md "wikilink")、[Chen](https://zh.wikipedia.org/wiki/金鐘大 "wikilink")、[燦烈](https://zh.wikipedia.org/wiki/燦烈 "wikilink")、[D.O.](https://zh.wikipedia.org/wiki/都暻秀 "wikilink")、[Tao](../Page/黃子韜.md "wikilink")、[Kai](https://zh.wikipedia.org/wiki/金鍾仁 "wikilink")、[世勳](https://zh.wikipedia.org/wiki/世勳 "wikilink")）
 
 <!-- end list -->
 

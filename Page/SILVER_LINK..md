@@ -101,7 +101,7 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
   - [Fate/kaleid liner 魔法少女☆伊莉雅
     2wei](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
   - [三坪房間的侵略者！？](../Page/三坪房間的侵略者！？.md "wikilink")
-  - [临时女友](https://zh.wikipedia.org/wiki/临时女友 "wikilink")
+  - [临时女友](../Page/临时女友.md "wikilink")
 
 <!-- end list -->
 
@@ -109,12 +109,12 @@ LINK.設立於2007年12月，是動畫公司フロントライン（FRONTLINE）
 
 <!-- end list -->
 
-  - [百合熊風暴](https://zh.wikipedia.org/wiki/百合熊風暴 "wikilink")
+  - [百合熊風暴](../Page/百合熊風暴.md "wikilink")
   - [Chaos Dragon 赤龍戰役](../Page/赤龍_\(小說\).md "wikilink")（與CONNECT共同製作）
   - [Fate/kaleid liner 魔法少女☆伊莉雅 2wei
     Herz](https://zh.wikipedia.org/wiki/Fate/kaleid_liner_魔法少女☆伊莉雅 "wikilink")
   - [悠悠哉哉少女日和 Repeat](../Page/悠悠哉哉少女日和.md "wikilink")
-  - [我被抓到貴族女校當「庶民樣本」](https://zh.wikipedia.org/wiki/我被綁架到貴族女校當「庶民樣本」 "wikilink")
+  - [我被抓到貴族女校當「庶民樣本」](../Page/我被綁架到貴族女校當「庶民樣本」.md "wikilink")
   - [對魔導學園35試驗小隊](../Page/對魔導學園35試驗小隊.md "wikilink")
   - [落第騎士英雄譚](../Page/落第騎士英雄譚.md "wikilink")（與[Nexus共同製作](../Page/Nexus_\(動畫製作公司\).md "wikilink")）
 

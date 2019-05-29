@@ -305,7 +305,7 @@
 <tr class="odd">
 <td><p><strong>5th</strong></p></td>
 <td><ul>
-<li>tvN 月火剧《<a href="https://zh.wikipedia.org/wiki/魔女的戀愛" title="wikilink">魔女的戀愛</a>》OST 1</li>
+<li>tvN 月火剧《<a href="../Page/魔女的戀愛.md" title="wikilink">魔女的戀愛</a>》OST 1</li>
 <li>發行日期：2014年4月15日</li>
 <li>語言：韓語</li>
 <li>歌手：SPICA</li>

@@ -54,16 +54,16 @@ Death-X-DORUgoramon</p></td>
 
 ## 登场角色
 
-| 数码兽                                                      | 声优                                                    | 数码兽                                                     | 声优                                                      |
-| -------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- |
-| [多路兽](https://zh.wikipedia.org/wiki/多路兽 "wikilink")      | [高山南](../Page/高山南.md "wikilink")                      | [伽楼达兽X](https://zh.wikipedia.org/wiki/伽楼达兽 "wikilink")  | [重松花鸟](https://zh.wikipedia.org/wiki/重松花鸟 "wikilink")   |
-| 迪哥兽                                                      | 松本美和                                                  | 哈奴曼兽                                                    | 滝知史                                                     |
-| [战斗暴龙兽X](https://zh.wikipedia.org/wiki/战斗暴龙兽 "wikilink") | [坂本千夏](../Page/坂本千夏.md "wikilink")                    | 小古加兽X                                                   | [菊池心](../Page/菊池心.md "wikilink")                        |
-| 钢铁[加鲁鲁兽X](https://zh.wikipedia.org/wiki/加鲁鲁兽 "wikilink") | [山口真弓](../Page/山口真弓.md "wikilink")                    | [狮子兽](https://zh.wikipedia.org/wiki/狮子兽 "wikilink")     | [平田广明](https://zh.wikipedia.org/wiki/平田广明 "wikilink")   |
-| [木乃伊兽](https://zh.wikipedia.org/wiki/木乃伊兽 "wikilink")    | [森川智之](../Page/森川智之.md "wikilink")                    | [骑士领主兽](https://zh.wikipedia.org/wiki/骑士领主兽 "wikilink") | [置鲇龙太郎](https://zh.wikipedia.org/wiki/置鲇龙太郎 "wikilink") |
-| 安杜路兽                                                     | [梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink") | [奥米加兽](https://zh.wikipedia.org/wiki/奥米加兽 "wikilink")   | [田中秀幸](../Page/田中秀幸.md "wikilink")                      |
-| [巫师兽](https://zh.wikipedia.org/wiki/巫师兽 "wikilink")      | [石田彰](../Page/石田彰.md "wikilink")                      | [公爵兽](https://zh.wikipedia.org/wiki/公爵兽 "wikilink")     | [野沢雅子](https://zh.wikipedia.org/wiki/野沢雅子 "wikilink")   |
-| 希尔芙兽                                                     | [远近孝一](../Page/远近孝一.md "wikilink")                    | [玛格纳兽](https://zh.wikipedia.org/wiki/玛格纳兽 "wikilink")   | [野田顺子](https://zh.wikipedia.org/wiki/野田顺子 "wikilink")   |
+| 数码兽                                                      | 声优                                 | 数码兽                                                     | 声优                                                      |
+| -------------------------------------------------------- | ---------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- |
+| [多路兽](https://zh.wikipedia.org/wiki/多路兽 "wikilink")      | [高山南](../Page/高山南.md "wikilink")   | [伽楼达兽X](https://zh.wikipedia.org/wiki/伽楼达兽 "wikilink")  | [重松花鸟](https://zh.wikipedia.org/wiki/重松花鸟 "wikilink")   |
+| 迪哥兽                                                      | 松本美和                               | 哈奴曼兽                                                    | 滝知史                                                     |
+| [战斗暴龙兽X](https://zh.wikipedia.org/wiki/战斗暴龙兽 "wikilink") | [坂本千夏](../Page/坂本千夏.md "wikilink") | 小古加兽X                                                   | [菊池心](../Page/菊池心.md "wikilink")                        |
+| 钢铁[加鲁鲁兽X](https://zh.wikipedia.org/wiki/加鲁鲁兽 "wikilink") | [山口真弓](../Page/山口真弓.md "wikilink") | [狮子兽](https://zh.wikipedia.org/wiki/狮子兽 "wikilink")     | [平田广明](https://zh.wikipedia.org/wiki/平田广明 "wikilink")   |
+| [木乃伊兽](https://zh.wikipedia.org/wiki/木乃伊兽 "wikilink")    | [森川智之](../Page/森川智之.md "wikilink") | [骑士领主兽](https://zh.wikipedia.org/wiki/骑士领主兽 "wikilink") | [置鲇龙太郎](https://zh.wikipedia.org/wiki/置鲇龙太郎 "wikilink") |
+| 安杜路兽                                                     | [梁田清之](../Page/梁田清之.md "wikilink") | [奥米加兽](https://zh.wikipedia.org/wiki/奥米加兽 "wikilink")   | [田中秀幸](../Page/田中秀幸.md "wikilink")                      |
+| [巫师兽](https://zh.wikipedia.org/wiki/巫师兽 "wikilink")      | [石田彰](../Page/石田彰.md "wikilink")   | [公爵兽](https://zh.wikipedia.org/wiki/公爵兽 "wikilink")     | [野沢雅子](https://zh.wikipedia.org/wiki/野沢雅子 "wikilink")   |
+| 希尔芙兽                                                     | [远近孝一](../Page/远近孝一.md "wikilink") | [玛格纳兽](https://zh.wikipedia.org/wiki/玛格纳兽 "wikilink")   | [野田顺子](https://zh.wikipedia.org/wiki/野田顺子 "wikilink")   |
 
 ## 制作人员
 

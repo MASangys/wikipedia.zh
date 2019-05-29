@@ -56,7 +56,7 @@ cappella作創作元素，希望為樂迷帶來新鮮感。
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Dreamsis" title="wikilink">Dreamsis</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/Dreamsis.md" title="wikilink">Dreamsis</a></p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/GME" title="wikilink">GME</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
 <td style="text-align: left;"><p>2014年8月19日</p></td>
@@ -68,7 +68,7 @@ cappella作創作元素，希望為樂迷帶來新鮮感。
 </ol></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Dreamsis" title="wikilink">Dreamsis (夢想成真版)</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/Dreamsis.md" title="wikilink">Dreamsis (夢想成真版)</a></p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/GME" title="wikilink">GME</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
 <td style="text-align: left;"><p>2015年2月17日</p></td>
@@ -119,24 +119,24 @@ cappella作創作元素，希望為樂迷帶來新鮮感。
 
 ## 派台歌曲成績
 
-| **派台歌曲成績**                                                    |
-| ------------------------------------------------------------- |
-| 唱片                                                            |
-| **2014年**                                                     |
-| [Dreamsis](https://zh.wikipedia.org/wiki/Dreamsis "wikilink") |
-| Dreamsis                                                      |
-| Dreamsis                                                      |
-| Dreamsis（夢想成真版）                                               |
-| **2015年**                                                     |
-| Dreamsis（夢想成真版）                                               |
-| [真‧樂印姊妹想創音樂BCD](../Page/真·樂印姊妹想創音樂BCD.md "wikilink")          |
-| **2016年**                                                     |
-| 真‧樂印姊妹想創音樂BCD                                                 |
-| 真‧樂印姊妹想創音樂BCD                                                 |
-| **2017年**                                                     |
-|                                                               |
-| **2018年**                                                     |
-|                                                               |
+| **派台歌曲成績**                                           |
+| ---------------------------------------------------- |
+| 唱片                                                   |
+| **2014年**                                            |
+| [Dreamsis](../Page/Dreamsis.md "wikilink")           |
+| Dreamsis                                             |
+| Dreamsis                                             |
+| Dreamsis（夢想成真版）                                      |
+| **2015年**                                            |
+| Dreamsis（夢想成真版）                                      |
+| [真‧樂印姊妹想創音樂BCD](../Page/真·樂印姊妹想創音樂BCD.md "wikilink") |
+| **2016年**                                            |
+| 真‧樂印姊妹想創音樂BCD                                        |
+| 真‧樂印姊妹想創音樂BCD                                        |
+| **2017年**                                            |
+|                                                      |
+| **2018年**                                            |
+|                                                      |
 
 | **各台冠軍歌總數** |
 | ----------- |

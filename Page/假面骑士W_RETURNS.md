@@ -202,7 +202,7 @@ Red Flare并被击败，被送往Quarks的研究设施“Village”……
     [松冈充](https://zh.wikipedia.org/wiki/松冈充 "wikilink")\[12\]
   - 泉京水 - [须藤元气](https://zh.wikipedia.org/wiki/须藤元气 "wikilink")
   - 米娜 - [高梨临](https://zh.wikipedia.org/wiki/高梨临 "wikilink")\[13\]
-  - 羽原丽香 - [八代美奈畝](https://zh.wikipedia.org/wiki/八代美奈畝 "wikilink")
+  - 羽原丽香 - [八代美奈畝](../Page/八代美奈畝.md "wikilink")
   - 芦原贤 - [出合正幸](../Page/出合正幸.md "wikilink")
   - 堂本刚三 -
   - 加頭顺 / 假面骑士Eternal Red Flare（声） / 乌托邦掺杂体（声） -

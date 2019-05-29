@@ -246,7 +246,7 @@ center）\[2\]。
 <td><p><strong>16</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/西野未姬" title="wikilink">西野未姬</a></p></td>
+<td><p><a href="../Page/西野未姬.md" title="wikilink">西野未姬</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>48集團研究生</p></td>
@@ -356,7 +356,7 @@ center）\[2\]。
 （HKT48）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/相笠萌" title="wikilink">相笠萌</a></p></td>
+<td><p><a href="../Page/相笠萌.md" title="wikilink">相笠萌</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>24</strong></p></td>

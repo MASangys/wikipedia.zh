@@ -263,7 +263,7 @@ X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")）是一个新的[操作�
 
 ### 2005
 
-Google咕噜咕噜（）是一个Google虚构的[饮料](../Page/饮料.md "wikilink")。据该公司介绍，这种饮料会增加饮用者的[智力](../Page/智力.md "wikilink")，优化Google[搜索引擎的使用](../Page/搜索引擎.md "wikilink")。Google称该提升是通过实时分析用户的[DNA精心策划的调整大脑中的](https://zh.wikipedia.org/wiki/DNA "wikilink")[神经递质](../Page/神经递质.md "wikilink")（一个专利技术，称作**自动饮料**，如Google咕噜咕噜参见问题解答建议的，部分是通过[单胺氧化酶抑制剂](https://zh.wikipedia.org/wiki/单胺氧化酶抑制剂 "wikilink")）。饮料声称引进“4大[口味](https://zh.wikipedia.org/wiki/口味 "wikilink")”：**谷氨酸葡萄**（）（[穀氨酸](https://zh.wikipedia.org/wiki/穀氨酸 "wikilink")），**糖-自由基**（）（[自由基](../Page/自由基.md "wikilink")），**β-胡萝卜**（）（[β-胡萝卜素](https://zh.wikipedia.org/wiki/β-胡萝卜素 "wikilink")），和**血清奎宁水**（）（血清素）。\[30\]
+Google咕噜咕噜（）是一个Google虚构的[饮料](../Page/饮料.md "wikilink")。据该公司介绍，这种饮料会增加饮用者的[智力](../Page/智力.md "wikilink")，优化Google[搜索引擎的使用](../Page/搜索引擎.md "wikilink")。Google称该提升是通过实时分析用户的[DNA精心策划的调整大脑中的](https://zh.wikipedia.org/wiki/DNA "wikilink")[神经递质](../Page/神经递质.md "wikilink")（一个专利技术，称作**自动饮料**，如Google咕噜咕噜参见问题解答建议的，部分是通过[单胺氧化酶抑制剂](../Page/单胺氧化酶抑制剂.md "wikilink")）。饮料声称引进“4大[口味](https://zh.wikipedia.org/wiki/口味 "wikilink")”：**谷氨酸葡萄**（）（[穀氨酸](https://zh.wikipedia.org/wiki/穀氨酸 "wikilink")），**糖-自由基**（）（[自由基](../Page/自由基.md "wikilink")），**β-胡萝卜**（）（[β-胡萝卜素](https://zh.wikipedia.org/wiki/β-胡萝卜素 "wikilink")），和**血清奎宁水**（）（血清素）。\[30\]
 
 该玩笑是Google在前一年推出需要邀请注册的电子邮件服务[Gmail的下一个玩笑](../Page/Gmail.md "wikilink")。虽然表面上此饮料是免费的，但该公司声称饮料只能通过在当地[杂货店退还一个Google咕噜咕噜的瓶盖才能获得](https://zh.wikipedia.org/wiki/杂货店 "wikilink")。这是一种[因果循环](https://zh.wikipedia.org/wiki/因果循环 "wikilink")。在Google咕噜咕噜的[常見問題集](https://zh.wikipedia.org/wiki/常見問題集 "wikilink")，有这么一条问题：“我的意思是，这是不是整个邀请唯一虚假的东西？”回答说：“哥们，这就像你从来没有听说过的[病毒式营销](https://zh.wikipedia.org/wiki/病毒式营销 "wikilink")。”
 
@@ -321,7 +321,7 @@ Google
 Google Maps
 - 神奇寶貝（寵物小精-{}-靈）大挑戰是谷歌於2014年愚人節所推出的惡搞\[38\]，它號稱為重視員工冒險精神和注重細節，有深厚的技術知識，而且可以通過高草導航捕捉野生動物。事實證明，這些技能與其他行業有很多共同點，這神奇寶貝大師。考慮到這一點，我們與神奇寶貝和任天堂合作開發新的培訓叮叮，以幫助人們使用谷歌地圖磨練自己的神奇寶貝捕獲能力。
 
-然而Google內部的創業公司[Niantic後來與](https://zh.wikipedia.org/wiki/Niantic "wikilink")[任天堂和](../Page/任天堂.md "wikilink")[精靈寶可夢公司合作](https://zh.wikipedia.org/wiki/精靈寶可夢_\(企業\) "wikilink")，在2016年推出[擴增實境遊戲](../Page/擴增實境.md "wikilink")[精靈寶可夢GO](../Page/精靈寶可夢GO.md "wikilink")（精靈寶可夢為神奇寶貝新官方名稱），使得兩年前Google開的這個玩笑變成了現實。
+然而Google內部的創業公司[Niantic後來與](../Page/Niantic.md "wikilink")[任天堂和](../Page/任天堂.md "wikilink")[精靈寶可夢公司合作](https://zh.wikipedia.org/wiki/精靈寶可夢_\(企業\) "wikilink")，在2016年推出[擴增實境遊戲](../Page/擴增實境.md "wikilink")[精靈寶可夢GO](../Page/精靈寶可夢GO.md "wikilink")（精靈寶可夢為神奇寶貝新官方名稱），使得兩年前Google開的這個玩笑變成了現實。
 
 ##### 使用方法
 

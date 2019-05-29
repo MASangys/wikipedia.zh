@@ -348,7 +348,7 @@ A**》。讀音相同）是[NHK綜合頻道](../Page/NHK綜合頻道.md "wikilin
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [杉本彩](../Page/杉本彩.md "wikilink")
-  - [原田佳奈](https://zh.wikipedia.org/wiki/原田佳奈 "wikilink")
+  - [原田佳奈](../Page/原田佳奈.md "wikilink")
   - [吉川ひなの](https://zh.wikipedia.org/wiki/吉川ひなの "wikilink")
   - [西山茉希](../Page/西山茉希.md "wikilink")
   - [神戸蘭子](https://zh.wikipedia.org/wiki/神戸蘭子 "wikilink")

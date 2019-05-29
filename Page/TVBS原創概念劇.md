@@ -68,7 +68,7 @@ The Way We Were[7]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/公共電視文化事業基金會" title="wikilink">公共電視文化事業基金會</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/俏摩女搶頭婚" title="wikilink">俏摩女搶頭婚</a><br />
+<td><p><a href="../Page/俏摩女搶頭婚.md" title="wikilink">俏摩女搶頭婚</a><br />
 Boysitter</p></td>
 <td><p>15</p></td>
 <td><p>2014年12月6日</p></td>
@@ -91,7 +91,7 @@ Taste of Love</p></td>
 <td><p>15</p></td>
 <td><p>2015年10月16日</p></td>
 <td><p>2016年1月22日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宋芸樺" title="wikilink">宋芸樺</a>、<a href="../Page/張睿家.md" title="wikilink">張睿家</a>、<a href="../Page/楊晴.md" title="wikilink">楊晴</a>、<a href="../Page/戴祖雄.md" title="wikilink">戴祖雄</a></p></td>
+<td><p><a href="../Page/宋芸樺.md" title="wikilink">宋芸樺</a>、<a href="../Page/張睿家.md" title="wikilink">張睿家</a>、<a href="../Page/楊晴.md" title="wikilink">楊晴</a>、<a href="../Page/戴祖雄.md" title="wikilink">戴祖雄</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

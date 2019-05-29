@@ -3,7 +3,7 @@ Service**）是[英國全國大學的統一學生申請機構](https://zh.wikipe
 
 UCAS總部在[切爾滕納姆Marle](../Page/切爾滕納姆.md "wikilink")
 Hill附近，處在B4075和[A435的交叉處](https://zh.wikipedia.org/wiki/A435公路 "wikilink")。\[2\]
-靠近[切爾滕納姆賽馬場](../Page/切爾滕納姆賽馬場.md "wikilink")，處在教區[佩斯貝瑞內](https://zh.wikipedia.org/wiki/佩斯貝瑞_\(格羅斯特郡\) "wikilink")。\[3\]
+靠近[切爾滕納姆賽馬場](../Page/切爾滕納姆賽馬場.md "wikilink")，處在教區[佩斯貝瑞內](../Page/佩斯貝瑞_\(格羅斯特郡\).md "wikilink")。\[3\]
 
 ## 申请流程
 

@@ -615,7 +615,7 @@ website = | production_website = }} 《 '''美好偵探社
 </tr>
 <tr class="odd">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/黃迪揚" title="wikilink">黃迪揚</a></p>
+<p><a href="../Page/黃迪揚.md" title="wikilink">黃迪揚</a></p>
 </center></td>
 <td><center>
 <p>忠明</p></td>

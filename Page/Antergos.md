@@ -34,7 +34,7 @@ Linux的官方套件庫及[AUR](https://zh.wikipedia.org/wiki/Arch_Linux#AUR "wi
 Linux一致。但與後者不同的是，其另外配有一個[圖形用戶介面的pacman](../Page/图形用户界面.md "wikilink")[前端](https://zh.wikipedia.org/wiki/前端和后端 "wikilink")——Pamac\[13\]''
 。
 
-Antergos並不預設附帶任何[辦公室套件](https://zh.wikipedia.org/wiki/辦公室套件 "wikilink")。但從最早的Cinnarch版本起，其就配有“Arch
+Antergos並不預設附帶任何[辦公室套件](../Page/辦公室套件.md "wikilink")。但從最早的Cinnarch版本起，其就配有“Arch
 Linux的LibreOffice安裝程式”，因而選擇並下載需要的LibreOffice組件並不困難\[14\]。
 
 ## 版本

@@ -1,6 +1,6 @@
 [Battleground-620x250.png](https://zh.wikipedia.org/wiki/File:Battleground-620x250.png "fig:Battleground-620x250.png")
 
-**WWE殺戮戰場**（），是[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）的[世界摔角娛樂付費收看節目](https://zh.wikipedia.org/wiki/世界摔角娛樂付費收看節目 "wikilink")（WWE
+**WWE殺戮戰場**（），是[世界摔角娛樂](https://zh.wikipedia.org/wiki/世界摔角娛樂 "wikilink")（WWE）的[世界摔角娛樂付費收看節目](../Page/世界摔角娛樂付費收看節目.md "wikilink")（WWE
 Pay-Per-View）之一，於10月時舉行。 WWE殺戮戰場首次亮相於2013年10月6日。
 
 ## 概述

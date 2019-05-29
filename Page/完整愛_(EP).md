@@ -265,8 +265,8 @@ Youtube</p></td>
 
 ## 獎項
 
-  - [新城國語力頒獎禮2014](https://zh.wikipedia.org/wiki/2014年度新城國語力頒獎禮得獎名單 "wikilink")：新城國語力合唱歌曲《星星的眼淚》
-  - [新城國語力頒獎禮2014](https://zh.wikipedia.org/wiki/2014年度新城國語力頒獎禮得獎名單 "wikilink")：新城國語力歌曲《一輩子》
+  - [新城國語力頒獎禮2014](../Page/2014年度新城國語力頒獎禮得獎名單.md "wikilink")：新城國語力合唱歌曲《星星的眼淚》
+  - [新城國語力頒獎禮2014](../Page/2014年度新城國語力頒獎禮得獎名單.md "wikilink")：新城國語力歌曲《一輩子》
   - [IFPI香港唱片销量大奖颁奖礼2014](https://zh.wikipedia.org/wiki/IFPI香港唱片销量大奖颁奖礼2014 "wikilink")：十大销量国语唱片
   - [IFPI香港唱片销量大奖颁奖礼2014](https://zh.wikipedia.org/wiki/IFPI香港唱片销量大奖颁奖礼2014 "wikilink")：全年最高销量国语唱片
 

@@ -1363,7 +1363,7 @@ Green》，BD附錄特典等製作名單中，陸續公開七位作者的身分�
 </tr>
 <tr class="even">
 <td><p>國內</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NOTTV" title="wikilink">NOTTV</a></p></td>
+<td><p><a href="../Page/NOTTV.md" title="wikilink">NOTTV</a></p></td>
 <td><p>2012年11月6日 - 2013年1月29日</p></td>
 <td><p>星期五 20時30分 - 21時00分</p></td>
 <td></td>

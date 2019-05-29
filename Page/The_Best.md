@@ -67,7 +67,7 @@ Collection名义再版\[2\]。
   - [主题公园](https://zh.wikipedia.org/wiki/主题公园 "wikilink")
 
   -
-  - [亞克傳承](https://zh.wikipedia.org/wiki/亞克傳承_\(遊戲\) "wikilink")
+  - [亞克傳承](../Page/亞克傳承_\(遊戲\).md "wikilink")
 
   -
   -
@@ -307,7 +307,7 @@ Collection名义再版\[2\]。
   -
   - [雷电项目](../Page/雷电系列.md "wikilink")
 
-  - [雷盖亚传说](https://zh.wikipedia.org/wiki/雷盖亚传说 "wikilink")
+  - [雷盖亚传说](../Page/雷盖亚传说.md "wikilink")
 
   - [電車GO\!](../Page/電車GO!系列.md "wikilink")
 
@@ -471,7 +471,7 @@ Collection名义再版\[2\]。
   -
   - [五右衛門新世代袭名\!](../Page/大盜五右衛門系列.md "wikilink")
 
-  - [亞克傳承](https://zh.wikipedia.org/wiki/亞克傳承_\(遊戲\) "wikilink")
+  - [亞克傳承](../Page/亞克傳承_\(遊戲\).md "wikilink")
 
   -
   -

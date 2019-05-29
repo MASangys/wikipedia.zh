@@ -21,7 +21,7 @@ Series）。
   - [崔哲浩](../Page/崔哲浩.md "wikilink") 飾演 金明哲
   - [朴元相](../Page/朴元相.md "wikilink") 飾演 權革奎
   - [趙在允](../Page/趙在允.md "wikilink") 飾演 英俊
-  - [權敏](https://zh.wikipedia.org/wiki/權敏 "wikilink") 飾演 申東閔
+  - [權敏](../Page/權敏.md "wikilink") 飾演 申東閔
   - [琴丹菲](https://zh.wikipedia.org/wiki/琴丹菲 "wikilink") 飾演 金娜拉
   - [玄成](https://zh.wikipedia.org/wiki/玄成 "wikilink") 飾演 尹午鬥
   - [大谷亮平](../Page/大谷亮平.md "wikilink") 飾演 李宰仁

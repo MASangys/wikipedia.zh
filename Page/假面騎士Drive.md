@@ -2007,7 +2007,7 @@ Booster Tridoron</strong></p></td>
 <td><p>style="text-align:center”|Shift Dead Heat</p></td>
 <td><p>style="text-align:center”|</p></td>
 <td><p>style="text-align:center”|移速爆熱</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/邊車" title="wikilink">邊車摩托</a></p></td>
+<td><p><a href="../Page/邊車.md" title="wikilink">邊車摩托</a></p></td>
 <td><p>與假面騎士Mach持有的性能所結合的形態</p></td>
 <td><p>變身形態<strong>type Dead Heat</strong><br />
 假面騎士Mach使用變身形態<strong>Dead Heat Mach</strong><br />
@@ -3439,7 +3439,7 @@ Mach驅動炎按下「Boost Igniter」四次時音效則是「Imasugu！（原�
 <ul>
 <li>醫師惡路程式</li>
 </ul></li>
-<li>惡路程式072（CV：<a href="https://zh.wikipedia.org/wiki/濱野謙太" title="wikilink">濱野謙太</a>）</li>
+<li>惡路程式072（CV：<a href="../Page/濱野謙太.md" title="wikilink">濱野謙太</a>）</li>
 <li>惡路程式044</li>
 <li>惡路程式094</li>
 </ul></td>

@@ -212,7 +212,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/媳婦三國志" title="wikilink">媳婦三國志</a><br />
 </p></td>
 <td style="text-align: center;"><p>139</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/沈洋弘" title="wikilink">沈洋弘</a>、<a href="https://zh.wikipedia.org/wiki/金容琳" title="wikilink">金容琳</a>、<a href="../Page/李熙道.md" title="wikilink">李熙道</a>、<a href="https://zh.wikipedia.org/wiki/南陵美" title="wikilink">南陵美</a>、<a href="https://zh.wikipedia.org/wiki/洪鶴表" title="wikilink">洪鶴表</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/沈洋弘" title="wikilink">沈洋弘</a>、<a href="../Page/金容琳.md" title="wikilink">金容琳</a>、<a href="../Page/李熙道.md" title="wikilink">李熙道</a>、<a href="https://zh.wikipedia.org/wiki/南陵美" title="wikilink">南陵美</a>、<a href="https://zh.wikipedia.org/wiki/洪鶴表" title="wikilink">洪鶴表</a></p></td>
 <td style="text-align: center;"><p>|<a href="https://zh.wikipedia.org/wiki/李英國_(導演)" title="wikilink">李英國</a>、<a href="https://zh.wikipedia.org/wiki/郭基元" title="wikilink">郭基元</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李熙宇" title="wikilink">李熙宇</a></p></td>
 <td style="text-align: center;"></td>
@@ -568,7 +568,7 @@
 <td style="text-align: center;"><p><a href="../Page/今天開始我愛你.md" title="wikilink">今天開始我愛你</a><br />
 </p></td>
 <td style="text-align: center;"><p>101</p></td>
-<td style="text-align: center;"><p>|<a href="../Page/林世美.md" title="wikilink">林世美</a>、<a href="../Page/朴鎮宇.md" title="wikilink">朴鎮宇</a>、<a href="https://zh.wikipedia.org/wiki/金容琳" title="wikilink">金容琳</a>、<a href="../Page/金秉世.md" title="wikilink">金秉世</a>、<a href="../Page/安內相.md" title="wikilink">安內相</a>、<a href="../Page/李應敬.md" title="wikilink">李應敬</a>、<a href="../Page/金曙羅.md" title="wikilink">金曙羅</a>、<a href="../Page/曹熙奉.md" title="wikilink">曹熙奉</a>、<a href="../Page/趙銀淑.md" title="wikilink">趙銀淑</a>、<a href="../Page/秋素英.md" title="wikilink">秋素英</a>、<a href="../Page/李昌旭.md" title="wikilink">李昌旭</a>、<a href="https://zh.wikipedia.org/wiki/金世晶" title="wikilink">金世晶</a>、<a href="../Page/高允.md" title="wikilink">高允</a>、<a href="../Page/吳承允.md" title="wikilink">吳承允</a>、<a href="../Page/尹瑞.md" title="wikilink">尹瑞</a></p></td>
+<td style="text-align: center;"><p>|<a href="../Page/林世美.md" title="wikilink">林世美</a>、<a href="../Page/朴鎮宇.md" title="wikilink">朴鎮宇</a>、<a href="../Page/金容琳.md" title="wikilink">金容琳</a>、<a href="../Page/金秉世.md" title="wikilink">金秉世</a>、<a href="../Page/安內相.md" title="wikilink">安內相</a>、<a href="../Page/李應敬.md" title="wikilink">李應敬</a>、<a href="../Page/金曙羅.md" title="wikilink">金曙羅</a>、<a href="../Page/曹熙奉.md" title="wikilink">曹熙奉</a>、<a href="../Page/趙銀淑.md" title="wikilink">趙銀淑</a>、<a href="../Page/秋素英.md" title="wikilink">秋素英</a>、<a href="../Page/李昌旭.md" title="wikilink">李昌旭</a>、<a href="https://zh.wikipedia.org/wiki/金世晶" title="wikilink">金世晶</a>、<a href="../Page/高允.md" title="wikilink">高允</a>、<a href="../Page/吳承允.md" title="wikilink">吳承允</a>、<a href="../Page/尹瑞.md" title="wikilink">尹瑞</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔智英" title="wikilink">崔智英</a>、<a href="https://zh.wikipedia.org/wiki/金智煥" title="wikilink">金智煥</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔旻基" title="wikilink">崔旻基</a>、<a href="https://zh.wikipedia.org/wiki/金智莞" title="wikilink">金智莞</a></p></td>
 <td style="text-align: center;"></td>
@@ -804,7 +804,7 @@
   - [MBC日日連續劇](../Page/MBC日日連續劇.md "wikilink")
   - [MBC日日特別企劃連續劇](../Page/MBC日日特別企劃連續劇.md "wikilink")
   - [SBS日日連續劇](../Page/SBS日日連續劇.md "wikilink")
-  - [JTBC日日連續劇](https://zh.wikipedia.org/wiki/JTBC日日連續劇 "wikilink")
+  - [JTBC日日連續劇](../Page/JTBC日日連續劇.md "wikilink")
 
 [Category:KBS_2TV日日連續劇](https://zh.wikipedia.org/wiki/Category:KBS_2TV日日連續劇 "wikilink")
 [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

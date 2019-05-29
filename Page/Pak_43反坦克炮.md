@@ -18,7 +18,7 @@ PaK 43 的主要版本是裝在一個具有高效、可以進行360°旋轉及�
 43 的操作員稱此版本為"穀倉門" （）,\[3\]儘管如此，PaK 43/41證明了它和早期的PaK 43具有相近的性能。
 
 Pak 43也被裝在德國的裝甲車輛上，而此版本則稱作[8.8cm
-KwK43](https://zh.wikipedia.org/wiki/KwK43_88毫米戰車炮 "wikilink")。而這個版本的火炮在不同車輛上有着不同的名稱，包括[虎II坦克](https://zh.wikipedia.org/wiki/虎II坦克 "wikilink")
+KwK43](../Page/KwK43_88毫米戰車炮.md "wikilink")。而這個版本的火炮在不同車輛上有着不同的名稱，包括[虎II坦克](https://zh.wikipedia.org/wiki/虎II坦克 "wikilink")
 （**KwK 43 L/71**） 和幾種驅逐戰車，例如[犀牛驅逐戰車](../Page/犀牛式驅逐戰車.md "wikilink")
 （**Pak 43/1**）, [象式驅逐戰車](../Page/象式重驅逐戰車.md "wikilink") （**Pak
 43/2**），和[獵豹驅逐戰車](../Page/獵豹式驅逐戰車.md "wikilink") （**Pak 43/3**和**Pak

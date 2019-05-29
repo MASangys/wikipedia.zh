@@ -15,7 +15,7 @@ Road
 Hunting](https://zh.wikipedia.org/wiki/Yoshi's_Road_Hunting "wikilink")》、《[Teenage
 Mutant Ninja Turtles IV: Turtles in
 Time](https://zh.wikipedia.org/wiki/Teenage_Mutant_Ninja_Turtles_IV:_Turtles_in_Time "wikilink")》、《[恶魔城](https://zh.wikipedia.org/wiki/恶魔城_\(超级任天堂\) "wikilink")》、《[圣剑传说2](https://zh.wikipedia.org/wiki/圣剑传说2 "wikilink")》、《[艾薇莫的秘密](https://zh.wikipedia.org/wiki/艾薇莫的秘密 "wikilink")》、《[最终幻想IV](https://zh.wikipedia.org/wiki/最终幻想IV "wikilink")》、《[最终幻想V](../Page/最终幻想V.md "wikilink")》、《[最终幻想VI](../Page/最终幻想VI.md "wikilink")》、《[超级马里奥RPG](../Page/超级马里奥RPG.md "wikilink")》、《[Dino
-City](https://zh.wikipedia.org/wiki/Dino_City "wikilink")》、《[超级马里奥兄弟4](https://zh.wikipedia.org/wiki/超级马里奥兄弟4 "wikilink")》、《[马里奥赛车](https://zh.wikipedia.org/wiki/马里奥赛车 "wikilink")》、《[超级星球大战](https://zh.wikipedia.org/wiki/超级星球大战 "wikilink")》、《[时空之轮](../Page/时空之轮.md "wikilink")》、《[雷莎出击](https://zh.wikipedia.org/wiki/雷莎出击 "wikilink")》、《[Exhaust
+City](https://zh.wikipedia.org/wiki/Dino_City "wikilink")》、《[超级马里奥兄弟4](https://zh.wikipedia.org/wiki/超级马里奥兄弟4 "wikilink")》、《[马里奥赛车](https://zh.wikipedia.org/wiki/马里奥赛车 "wikilink")》、《[超级星球大战](https://zh.wikipedia.org/wiki/超级星球大战 "wikilink")》、《[时空之轮](../Page/时空之轮.md "wikilink")》、《[雷莎出击](../Page/雷莎出击.md "wikilink")》、《[Exhaust
 Heat](https://zh.wikipedia.org/wiki/Exhaust_Heat "wikilink")》、《[迦楼罗王](https://zh.wikipedia.org/wiki/迦楼罗王 "wikilink")》、《[时空引导者](https://zh.wikipedia.org/wiki/时空引导者 "wikilink")》、《[洛克人7
 宿命的对决！](https://zh.wikipedia.org/wiki/洛克人7_宿命的对决！ "wikilink")》、《[超越巅峰](https://zh.wikipedia.org/wiki/超越巅峰 "wikilink")》、《[星之卡比
 Super

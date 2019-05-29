@@ -2,9 +2,9 @@
 [Blsmap.png](https://zh.wikipedia.org/wiki/File:Blsmap.png "fig:Blsmap.png")
 **BLS股份公司**（）是[瑞士一家](https://zh.wikipedia.org/wiki/瑞士 "wikilink")的[铁路公司](../Page/铁路公司.md "wikilink")，拥有总长度达440公里的[铁路运营里程](https://zh.wikipedia.org/wiki/铁路 "wikilink")，为瑞士规模最大的[私铁](https://zh.wikipedia.org/wiki/私铁 "wikilink")。此外，它也在[图恩湖及](../Page/图恩湖.md "wikilink")[布里恩茨湖经营](../Page/布里恩茨湖.md "wikilink")[航运](https://zh.wikipedia.org/wiki/航运 "wikilink")。公司名称源自“[伯尔尼](../Page/伯尔尼.md "wikilink")－[勒奇山](../Page/勒奇山.md "wikilink")－”的[首字母缩写](https://zh.wikipedia.org/wiki/首字母缩写 "wikilink")，最早可以追溯至1906年成立的伯尔尼BLS阿尔卑斯铁路公司（）。
 
-BLS股份公司成立于2006年4月24日，并在前身公司[BLS勒奇山铁路](https://zh.wikipedia.org/wiki/BLS勒奇山铁路 "wikilink")（）和（）的[股东的批准下自](https://zh.wikipedia.org/wiki/股东 "wikilink")2006年6月27日起正式投入运营\[1\]。在法律上，BLS勒奇山铁路及瑞士高原区域运输合并为新的BLS股份公司是通过实现，其中BLS勒奇山铁路每股（面值为10[瑞士法郎](../Page/瑞士法郎.md "wikilink")）相当于BLS股份公司的8股（1瑞士法郎），瑞士高原区域运输每股（面值为12.5瑞士法郎）相当于BLS股份公司的24股。BLS股份公司的主要股东为[伯尔尼州](https://zh.wikipedia.org/wiki/伯尔尼州 "wikilink")，共持有公司55.8%的市场份额；[瑞士联邦的持股比例则为](https://zh.wikipedia.org/wiki/瑞士联邦 "wikilink")21.7%\[2\]。
+BLS股份公司成立于2006年4月24日，并在前身公司[BLS勒奇山铁路](../Page/BLS勒奇山铁路.md "wikilink")（）和（）的[股东的批准下自](https://zh.wikipedia.org/wiki/股东 "wikilink")2006年6月27日起正式投入运营\[1\]。在法律上，BLS勒奇山铁路及瑞士高原区域运输合并为新的BLS股份公司是通过实现，其中BLS勒奇山铁路每股（面值为10[瑞士法郎](../Page/瑞士法郎.md "wikilink")）相当于BLS股份公司的8股（1瑞士法郎），瑞士高原区域运输每股（面值为12.5瑞士法郎）相当于BLS股份公司的24股。BLS股份公司的主要股东为[伯尔尼州](https://zh.wikipedia.org/wiki/伯尔尼州 "wikilink")，共持有公司55.8%的市场份额；[瑞士联邦的持股比例则为](https://zh.wikipedia.org/wiki/瑞士联邦 "wikilink")21.7%\[2\]。
 
-业务自2001年起即由独立运作的[子公司](../Page/子公司.md "wikilink")[BLS货运负责](https://zh.wikipedia.org/wiki/BLS货运 "wikilink")。原瑞士高原区域运输的货运业务则在公司合并前被分拆\[3\]。
+业务自2001年起即由独立运作的[子公司](../Page/子公司.md "wikilink")[BLS货运负责](../Page/BLS货运.md "wikilink")。原瑞士高原区域运输的货运业务则在公司合并前被分拆\[3\]。
 
 继2007年6月16日起于新造的[勒奇山基底隧道进行试运行后](https://zh.wikipedia.org/wiki/勒奇山基底隧道 "wikilink")，BLS股份公司又在同年12月9日于当地开始全面的行车计划。公司为此还特别创立了。与此同时，瑞士联邦也要求将BLS[基建的大部分财产分拆为一个独立运作的](https://zh.wikipedia.org/wiki/基建 "wikilink")[股份公司](https://zh.wikipedia.org/wiki/股份公司 "wikilink")，并由瑞士联邦持有大部分股权。因此，BLS基建的资产及负债均转让至BLS阿尔卑斯运输，并更名为\[4\]。
 

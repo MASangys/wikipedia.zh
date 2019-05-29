@@ -1,8 +1,7 @@
 [Evolution_and_development_of_KDE_software.svg](https://zh.wikipedia.org/wiki/File:Evolution_and_development_of_KDE_software.svg "fig:Evolution_and_development_of_KDE_software.svg")
 **KDE
 Frameworks**是一套由[KDE社群所編寫的](../Page/KDE.md "wikilink")[函式庫及](../Page/函式庫.md "wikilink")[軟體框架](https://zh.wikipedia.org/wiki/軟體框架 "wikilink")，是[KDE
-Plasma 5及](https://zh.wikipedia.org/wiki/KDE_Plasma_5 "wikilink")[KDE
-Applications
+Plasma 5及](../Page/KDE_Plasma_5.md "wikilink")[KDE Applications
 5的基礎](https://zh.wikipedia.org/wiki/KDE_Software_Compilation#第五版 "wikilink")，並使用[GNU宽通用公共许可证進行散佈](../Page/GNU宽通用公共许可证.md "wikilink")。
 
 其中所包含的各種獨立框架提供了各種常用的功能，包括了硬體整合、檔案格式支援、[控件](../Page/控件.md "wikilink")、繪圖功能、[拼寫檢查及更多](https://zh.wikipedia.org/wiki/拼寫檢查 "wikilink")。
@@ -27,8 +26,7 @@ Compilation以外](https://zh.wikipedia.org/wiki/KDE_Software_Compilation "wikil
 
 因為[KDE Software
 Compilation被分割為KDE](https://zh.wikipedia.org/wiki/KDE_Software_Compilation "wikilink")
-Frameworks 5、[KDE Plasma
-5及](https://zh.wikipedia.org/wiki/KDE_Plasma_5 "wikilink")[KDE
+Frameworks 5、[KDE Plasma 5及](../Page/KDE_Plasma_5.md "wikilink")[KDE
 Applications
 5](https://zh.wikipedia.org/wiki/KDE_Software_Compilation#第五版 "wikilink")、每個子專案都可以選擇自己的開發步伐。KDE
 Frameworks 5將會以每個月為基礎釋出\[5\]且使用git\[6\]\[7\]。

@@ -35,8 +35,8 @@ DIT型**為「FA20T」，不過這並非官方正式名稱。此具引擎的規�
 2.  2012年迄今：[第四代速霸陸Forester](https://zh.wikipedia.org/wiki/速霸陸Forester#第四代SJ系（2012年迄今） "wikilink")
 3.  2013年-2014年：[第四代速霸陸Impreza
     WRX](https://zh.wikipedia.org/wiki/速霸陸Impreza#第四代GP/GJ系（2011年-2016年） "wikilink")
-4.  2014年迄今：[速霸陸Levorg](https://zh.wikipedia.org/wiki/速霸陸Levorg "wikilink")
-5.  2014年迄今：[速霸陸WRX](https://zh.wikipedia.org/wiki/速霸陸WRX "wikilink")
+4.  2014年迄今：[速霸陸Levorg](../Page/速霸陸Levorg.md "wikilink")
+5.  2014年迄今：[速霸陸WRX](../Page/速霸陸WRX.md "wikilink")
 
 ## 內部連結
 

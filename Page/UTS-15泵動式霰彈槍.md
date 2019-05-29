@@ -195,8 +195,7 @@ UTS-15的外型頗具有科色彩，因而同時出現在多隻[电影](../Page/
   - [SRM M1216](../Page/SRM_M1216半自動霰彈槍.md "wikilink")
   - [USAS-12](../Page/USAS-12霰彈槍.md "wikilink")
   - [戰鬥霰彈槍](https://zh.wikipedia.org/wiki/戰鬥霰彈槍 "wikilink")
-  - [ENARM
-    Pentagun](https://zh.wikipedia.org/wiki/ENARM_Pentagun轉輪式半自動霰彈槍 "wikilink")
+  - [ENARM Pentagun](../Page/ENARM_Pentagun轉輪式半自動霰彈槍.md "wikilink")
   - [弗蘭基mod
     .410](https://zh.wikipedia.org/wiki/弗蘭基mod_.410霰彈槍 "wikilink")
   - [高標M10](../Page/高標10型半自動霰彈槍.md "wikilink")

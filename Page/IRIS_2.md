@@ -139,7 +139,7 @@ Black之神祕面紗。
 <p>金智憲</p></td>
 <td><p>暗號破解要員</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/林筠翔" title="wikilink">林筠翔</a></p></td>
+<p><a href="../Page/林筠翔.md" title="wikilink">林筠翔</a></p></td>
 </tr>
 <tr class="even">
 <td><center>

@@ -7,8 +7,7 @@ Crush Saga已經超越了[FarmVille](../Page/FarmVille.md "wikilink")
 Play商店的中文譯名為](../Page/Google_Play.md "wikilink")[糖果傳奇](https://zh.wikipedia.org/wiki/糖果傳奇 "wikilink")。在[香港](../Page/香港.md "wikilink")、[澳門和](../Page/澳門.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，人們通常直接稱呼此遊戲爲**Candy
 Crush**，不稱呼其非官方中文譯名，有部分香港[網民會以電影](https://zh.wikipedia.org/wiki/網民 "wikilink")《[低俗喜劇](https://zh.wikipedia.org/wiki/低俗喜劇 "wikilink")》中的「爆炸糖」作爲遊戲的中文譯名\[5\]，惟此稱呼並沒有得到廣泛應用。[中国內地方面](https://zh.wikipedia.org/wiki/中国內地 "wikilink")，由于与[腾讯签订了代理协议](../Page/腾讯.md "wikilink")，中文版以《-{zh-hans:糖果传奇;zh-hant:糖果傳奇;}-》作为该游戏的中文译名。中国內地之[App
 Store](https://zh.wikipedia.org/wiki/App_Store "wikilink")（iOS）及中国內地之[Android应用市场均提供此遊戲之中文版](../Page/Android.md "wikilink")，惟不提供国际版\[6\]。2015年7月29日[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")[Windows
-10 (build
-10240)發布後](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")，該遊戲內建於其中。
+10 (build 10240)發布後](../Page/Windows_10.md "wikilink")，該遊戲內建於其中。
 
 ## 遊戲玩法
 
@@ -112,8 +111,8 @@ Struck就會發動，一定移動數目內糖果就會減少一色。
 
 中文譯名「**糖果蘇打傳奇**」，於2014年10月20日推出，其遊戲規則除少數改動外，和《Candy Crush
 Saga》非常雷同。該遊戲內建於「[Windows 10
-1511版](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")」作業系統中。游戏具有同步功能，用戶的遊戲進度可於[Android和](../Page/Android.md "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows
-10和](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Windows
+1511版](../Page/Windows_10.md "wikilink")」作業系統中。游戏具有同步功能，用戶的遊戲進度可於[Android和](../Page/Android.md "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows
+10和](../Page/Windows_10.md "wikilink")[Windows
 Phone平台上切換](../Page/Windows_Phone.md "wikilink")。
 
 游戏因收到欢迎带动开发公司股价上涨\[32\]。
@@ -123,7 +122,7 @@ Phone平台上切換](../Page/Windows_Phone.md "wikilink")。
 《Candy Crush Jelly Saga》（翻譯為「糖果果凍傳奇」），由英國網絡遊戲公司King開發，為寶石方塊類遊戲《**Candy
 Crush Saga**》及《[Candy Crush Soda
 Saga](../Page/Candy_Crush_Soda_Saga.md "wikilink")》的續作，於2016年1月6日推出。遊戲具有同步功能，用戶的遊戲進度可於[Android和](../Page/Android.md "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Windows
-10和](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Windows
+10和](../Page/Windows_10.md "wikilink")[Windows
 Phone平台上切換](../Page/Windows_Phone.md "wikilink")。
 
 Candy Crush Jelly Saga的遊戲規則為延續了《Candy Crush Soda

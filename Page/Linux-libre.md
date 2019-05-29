@@ -43,7 +43,7 @@ Moe做了後續的修改以符合發行版的需求。
   - [Parabola
     GNU/Linux-libre](https://zh.wikipedia.org/wiki/Parabola_GNU/Linux-libre "wikilink")
 
-  - [Trisquel](https://zh.wikipedia.org/wiki/Trisquel "wikilink")
+  - [Trisquel](../Page/Trisquel.md "wikilink")
 
   - 參見[自由軟體基金會認可的Linux發行版](https://zh.wikipedia.org/wiki/自由軟體基金會認可的Linux發行版 "wikilink")
 
@@ -60,7 +60,7 @@ Moe做了後續的修改以符合發行版的需求。
 ## 即時內核版本
 
 發行版的核心是編譯成用來[实时计算的](../Page/实时计算.md "wikilink")，可以讓多媒體剪輯及其他需要低延遲的工作得到更好的性能表現\[21\]。
-[Trisquel與](https://zh.wikipedia.org/wiki/Trisquel "wikilink")[Parabola
+[Trisquel與](../Page/Trisquel.md "wikilink")[Parabola
 GNU/Linux-libre](https://zh.wikipedia.org/wiki/Parabola_GNU/Linux-libre "wikilink")\[22\]也提供了即時內核的版本。
 
 ## 參見

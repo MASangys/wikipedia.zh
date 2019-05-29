@@ -294,8 +294,7 @@
 
 1.  [GNU Bazaar](https://zh.wikipedia.org/wiki/GNU_Bazaar "wikilink") –
     分布式版本控制系统
-2.  [GNU arch](https://zh.wikipedia.org/wiki/GNU_arch "wikilink") –
-    分布式版本控制系统
+2.  [GNU arch](../Page/GNU_arch.md "wikilink") – 分布式版本控制系统
 3.  [Gnash](../Page/Gnash.md "wikilink") – [Adobe
     Flash文件格式的播放器及](../Page/Adobe_Flash.md "wikilink")[浏览器插件](https://zh.wikipedia.org/wiki/浏览器插件 "wikilink")
 4.  [GNU

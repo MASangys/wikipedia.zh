@@ -6,7 +6,7 @@
 ## 參見
 
   - [FOX體育台](../Page/FOX體育台.md "wikilink")
-  - [FOX體育三台](https://zh.wikipedia.org/wiki/FOX體育三台 "wikilink")
+  - [FOX體育三台](../Page/FOX體育三台.md "wikilink")
 
 ## 註釋
 

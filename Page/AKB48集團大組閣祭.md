@@ -396,7 +396,7 @@ AKB48所稱的「組閣」，是指對所有成員的所屬分隊進行調整；
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/後藤萌咲" title="wikilink">後藤萌咲</a></p></td>
+<td><p><a href="../Page/後藤萌咲.md" title="wikilink">後藤萌咲</a></p></td>
 <td><p>選秀生</p></td>
 <td></td>
 <td><p><a href="../Page/AKS.md" title="wikilink">AKS</a></p></td>
@@ -568,7 +568,7 @@ AKB48所稱的「組閣」，是指對所有成員的所屬分隊進行調整；
 <td><p>兼任NMB48 Team N</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/川本紗矢" title="wikilink">川本紗矢</a></p></td>
+<td><p><a href="../Page/川本紗矢.md" title="wikilink">川本紗矢</a></p></td>
 <td><p>選秀生</p></td>
 <td></td>
 <td><p><a href="../Page/AKS.md" title="wikilink">AKS</a></p></td>
@@ -695,7 +695,7 @@ AKB48所稱的「組閣」，是指對所有成員的所屬分隊進行調整；
 | [込山榛香](../Page/込山榛香.md "wikilink")                      | AKB48第15期生 |      | [AKS](../Page/AKS.md "wikilink")       |                  |
 | [佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")                  | AKB48第12期生 |      | [AKS](../Page/AKS.md "wikilink")       |                  |
 | [佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")   | AKB48第15期生 |      | [AKS](../Page/AKS.md "wikilink")       |                  |
-| [篠崎彩奈](https://zh.wikipedia.org/wiki/篠崎彩奈 "wikilink")   | AKB48第13期生 |      | [AKS](../Page/AKS.md "wikilink")       |                  |
+| [篠崎彩奈](../Page/篠崎彩奈.md "wikilink")                      | AKB48第13期生 |      | [AKS](../Page/AKS.md "wikilink")       |                  |
 | [澀谷凪咲](../Page/澀谷凪咲.md "wikilink")                      | NMB48第4期生  |      | [京樂吉本控股](../Page/京樂吉本控股.md "wikilink") | 兼任NMB48 Team BII |
 | [髙島祐利奈](https://zh.wikipedia.org/wiki/髙島祐利奈 "wikilink") | AKB48第13期生 |      | [AKS](../Page/AKS.md "wikilink")       |                  |
 | [土保瑞希](../Page/土保瑞希.md "wikilink")                      | AKB48第15期生 |      | [AKS](../Page/AKS.md "wikilink")       |                  |
@@ -969,7 +969,7 @@ AKB48所稱的「組閣」，是指對所有成員的所屬分隊進行調整；
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/太田夢莉" title="wikilink">太田夢莉</a></p></td>
+<td><p><a href="../Page/太田夢莉.md" title="wikilink">太田夢莉</a></p></td>
 <td><p>NMB48第3期生</p></td>
 <td></td>
 <td><p><a href="../Page/京樂吉本控股.md" title="wikilink">京樂吉本控股</a></p></td>
@@ -1165,7 +1165,7 @@ AKB48所稱的「組閣」，是指對所有成員的所屬分隊進行調整；
 | [田島芽瑠](../Page/田島芽瑠.md "wikilink")                      | HKT48第2期生 |      | [AKS](../Page/AKS.md "wikilink")   |                |
 | [田中菜津美](../Page/田中菜津美.md "wikilink")                    | HKT48第1期生 |      | [AKS](../Page/AKS.md "wikilink")   | 兼任SKE48 Team S |
 | [田中美久](https://zh.wikipedia.org/wiki/田中美久 "wikilink")   | HKT48第3期生 |      | [AKS](../Page/AKS.md "wikilink")   |                |
-| [矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")   | HKT48第3期生 |      | [AKS](../Page/AKS.md "wikilink")   |                |
+| [矢吹奈子](../Page/矢吹奈子.md "wikilink")                      | HKT48第3期生 |      | [AKS](../Page/AKS.md "wikilink")   |                |
 | [山田麻莉奈](https://zh.wikipedia.org/wiki/山田麻莉奈 "wikilink") | HKT48第2期生 |      | [AKS](../Page/AKS.md "wikilink")   |                |
 | [山本茉央](https://zh.wikipedia.org/wiki/山本茉央 "wikilink")   | 選秀生       |      | [AKS](../Page/AKS.md "wikilink")   |                |
 | [若田部遥](../Page/若田部遥.md "wikilink")                      | HKT48第1期生 |      | [AKS](../Page/AKS.md "wikilink")   |                |

@@ -38,7 +38,7 @@
 
 ## 解说
 
-[马丁·泰勒和](https://zh.wikipedia.org/wiki/马丁·泰勒 "wikilink")[阿森纳前球星](https://zh.wikipedia.org/wiki/阿森纳 "wikilink")[阿兰·马丁·史密斯在FIFA](https://zh.wikipedia.org/wiki/阿兰·马丁·史密斯 "wikilink")
+[马丁·泰勒和](../Page/马丁·泰勒.md "wikilink")[阿森纳前球星](https://zh.wikipedia.org/wiki/阿森纳 "wikilink")[阿兰·马丁·史密斯在FIFA](https://zh.wikipedia.org/wiki/阿兰·马丁·史密斯 "wikilink")
 13中再次担当英语解说员，另外还有[克莱夫·泰尔德斯利和](https://zh.wikipedia.org/wiki/克莱夫·泰尔德斯利 "wikilink")[英格兰名将](https://zh.wikipedia.org/wiki/英格兰国家足球队 "wikilink")[安迪·汤森德](https://zh.wikipedia.org/wiki/安迪·汤森德 "wikilink")。除此之外，Geoff
 Shreeves在场边提供伤情报道，Alan McInally带来最新战报（仅限生涯模式和锦标赛模式中）。
 

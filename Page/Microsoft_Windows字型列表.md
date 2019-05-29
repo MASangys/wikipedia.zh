@@ -1,6 +1,6 @@
 本列表為[Windows
 3.1x到](https://zh.wikipedia.org/wiki/Windows_3.1x "wikilink")[Windows
-10的](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[字型](../Page/计算机字体.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]不包含[Microsoft
+10的](../Page/Windows_10.md "wikilink")[字型](../Page/计算机字体.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]不包含[Microsoft
 Office和其它](../Page/Microsoft_Office.md "wikilink")[微軟應用程式的字型](https://zh.wikipedia.org/wiki/微軟 "wikilink")。
 
 <table>

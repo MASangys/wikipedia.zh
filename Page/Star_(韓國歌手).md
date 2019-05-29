@@ -75,8 +75,7 @@
 
 ### 2015年
 
-  - 3月16日：SBS《[Healing
-    Camp](https://zh.wikipedia.org/wiki/Healing_Camp "wikilink")》，與
+  - 3月16日：SBS《[Healing Camp](../Page/Healing_Camp.md "wikilink")》，與
     [Haha](../Page/Haha.md "wikilink")
   - 6月14日：SBS《[Running Man](../Page/Running_Man.md "wikilink")》
     Ep251，孫俊浩、金素賢

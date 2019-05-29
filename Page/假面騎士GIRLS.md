@@ -607,7 +607,7 @@ UNLIMITED DRIVE(Kamen Rider Drive Type Tridoron 戰鬥曲)
     [假面騎士Fourze](../Page/假面騎士Fourze.md "wikilink")（2012年）第26話(客串)
     輕音樂部部員、除了廣川以外
     [假面騎士鎧武](../Page/假面騎士鎧武.md "wikilink")（2014年）第18話(客串)　Team POP UP
-    [假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")（2014年）如月仁奈(井坂)、山吹沙月(遠藤)
+    [假面騎士Drive](../Page/假面騎士Drive.md "wikilink")（2014年）如月仁奈(井坂)、山吹沙月(遠藤)
 
 ### 電影
 

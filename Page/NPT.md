@@ -41,8 +41,8 @@
   - [尼泊爾時區](https://zh.wikipedia.org/wiki/尼泊爾時區 "wikilink")（Nepal
     Time），為[尼泊爾採用的時區](https://zh.wikipedia.org/wiki/尼泊爾 "wikilink")，UTC
     +5:45 。
-  - [夜間陰莖勃起](https://zh.wikipedia.org/wiki/夜間陰莖勃起 "wikilink")（Nocturnal
-    Penile Tumescence），一種生理現象，俗稱晨間勃起。
+  - [夜間陰莖勃起](../Page/夜間陰莖勃起.md "wikilink")（Nocturnal Penile
+    Tumescence），一種生理現象，俗稱晨間勃起。
   - [不扩散核武器条约](../Page/不扩散核武器条约.md "wikilink")（Nuclear Non-Proliferation
     Treaty），是1968年7月1日開放簽署的一個國際條約，旨在限制核武擴散。
 

@@ -20,7 +20,7 @@ Entertainment**（）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikili
   - [韓孝周](../Page/韓孝周.md "wikilink")
   - [李智雅](../Page/李智雅.md "wikilink")
   - [玄朱妮](../Page/玄朱妮.md "wikilink")
-  - [金高銀](https://zh.wikipedia.org/wiki/金高銀 "wikilink")
+  - [金高銀](../Page/金高銀.md "wikilink")
   - [孔昇延](https://zh.wikipedia.org/wiki/孔昇延 "wikilink")
   - [朴海秀](../Page/朴海秀.md "wikilink")
   - [安昭熙](../Page/安昭熙.md "wikilink")

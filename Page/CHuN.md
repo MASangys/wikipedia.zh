@@ -41,7 +41,7 @@ Sky”，參加[Comic Market等日本的同人活動](../Page/Comic_Market.md "w
 <!-- end list -->
 
   - 自由（[GANGAN ONLINE](../Page/GANGAN_ONLINE.md "wikilink") 2009年8月27日）
-  - [魔技科的劍士與召喚魔王](https://zh.wikipedia.org/wiki/魔技科的劍士與召喚魔王 "wikilink")（[MF文庫J](../Page/MF文庫J.md "wikilink")
+  - [魔技科的劍士與召喚魔王](../Page/魔技科的劍士與召喚魔王.md "wikilink")（[MF文庫J](../Page/MF文庫J.md "wikilink")
     作者：三原みつき）
 
 ## 參考文獻

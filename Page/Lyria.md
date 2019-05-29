@@ -46,7 +46,7 @@ POS列车](https://zh.wikipedia.org/wiki/TGV_POS "wikilink")。这款TGV可以�
 
 自2012年起，巴黎－巴塞尔（－苏黎世）的线路也会使用双层的TGV
 Duplex列车运行。运营商Lyria希望该线的所有列车在2013年底前都被替换为TGV
-POS\[7\]。连同在2012年底前由[Alleo运营前往](https://zh.wikipedia.org/wiki/Alleo "wikilink")[德国南部的TGV](../Page/德国.md "wikilink")
+POS\[7\]。连同在2012年底前由[Alleo运营前往](../Page/Alleo.md "wikilink")[德国南部的TGV](../Page/德国.md "wikilink")
 POS列车，被释放出来的TGV POS可以用于取代退役的TGV
 PSE，担当由巴黎至瑞士间的其它Lyria服务\[8\]。自2012年8月起，运行于巴黎－洛桑线路的TGV
 POS列车均开始采用一款全新的涂装。全部19组TGV POS应都交由Lyria使用\[9\]。
@@ -66,7 +66,7 @@ POS列车均开始采用一款全新的涂装。全部19组TGV POS应都交由Ly
 ## 参见
 
   - [Thalys](https://zh.wikipedia.org/wiki/Thalys "wikilink")：由法国国家铁路、比利时国家铁路及德国铁路共同开办的高速列车服务。
-  - [Alleo](https://zh.wikipedia.org/wiki/Alleo "wikilink")：由法国国家铁路及德国铁路共同开办的高速列车服务。
+  - [Alleo](../Page/Alleo.md "wikilink")：由法国国家铁路及德国铁路共同开办的高速列车服务。
 
 ## 注释
 

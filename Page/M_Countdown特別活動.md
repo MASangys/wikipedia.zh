@@ -145,7 +145,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 <td><p>KCON 2016 LA</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/史坦波中心" title="wikilink">史坦波中心</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Eric_Nam" title="wikilink">Eric Nam</a>、<a href="https://zh.wikipedia.org/wiki/劉逸雲" title="wikilink">Amber</a></p></td>
+<td><p><a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a>、<a href="https://zh.wikipedia.org/wiki/劉逸雲" title="wikilink">Amber</a></p></td>
 <td><p>[16]</p></td>
 <td></td>
 </tr>
@@ -396,7 +396,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
   - [SISTAR](../Page/SISTAR.md "wikilink")
   - [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")
-  - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")
+  - [Red Velvet](../Page/Red_Velvet.md "wikilink")
   - [GOT7](../Page/GOT7.md "wikilink")
   - [Zion.T](../Page/Zion.T.md "wikilink")
   - [Crush](../Page/Crush_\(歌手\).md "wikilink")
@@ -519,7 +519,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [DAY6](../Page/DAY6.md "wikilink")
   - [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink")
   - [Crush](https://zh.wikipedia.org/wiki/Crush "wikilink")
-  - [Eric Nam](https://zh.wikipedia.org/wiki/Eric_Nam "wikilink")
+  - [Eric Nam](../Page/Eric_Nam.md "wikilink")
   - [MAMAMOO](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")
   - [SEVENTEEN](https://zh.wikipedia.org/wiki/SEVENTEEN "wikilink")
 
@@ -539,7 +539,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [GFRIEND](../Page/GFRIEND.md "wikilink")
   - [Turbo](../Page/Turbo_\(韓國男子團體\).md "wikilink")
   - [劉逸雲](https://zh.wikipedia.org/wiki/劉逸雲 "wikilink")
-  - [Eric Nam](https://zh.wikipedia.org/wiki/Eric_Nam "wikilink")
+  - [Eric Nam](../Page/Eric_Nam.md "wikilink")
   - [Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")
   - [Davichi](../Page/Davichi.md "wikilink")
   - [防彈少年團](../Page/防彈少年團.md "wikilink")
@@ -556,13 +556,13 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 活動嘉賓：
 
   - [防彈少年團](../Page/防彈少年團.md "wikilink")
-  - [Eric Nam](https://zh.wikipedia.org/wiki/Eric_Nam "wikilink")
+  - [Eric Nam](../Page/Eric_Nam.md "wikilink")
   - [EXID](https://zh.wikipedia.org/wiki/EXID "wikilink")
   - [NCT 127](https://zh.wikipedia.org/wiki/NCT_127 "wikilink")
   - [ASTRO](https://zh.wikipedia.org/wiki/ASTRO "wikilink")
   - [INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink")
   - [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")
-  - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")
+  - [Red Velvet](../Page/Red_Velvet.md "wikilink")
 
 ## KCON 2017 Japan
 

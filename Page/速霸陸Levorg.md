@@ -6,7 +6,7 @@
 富士重工業首度於11月20日開幕的第43屆[東京國際車展公開](../Page/東京車展.md "wikilink")[概念車型](../Page/概念車.md "wikilink")，關於車名由來，取「Legacy、Revolution、Touring」等三字組合而成\[1\]。
 
 2014年 -
-3月開始在日本本土市場接受預購，5月正式上市的量產車型與概念車型相去不遠。車頭設計與高性能車款[WRX近似](https://zh.wikipedia.org/wiki/速霸陸WRX "wikilink")，大燈組與進氣格柵的輪廓相仿。從車身尺碼來看，其產品定位介於[Impreza和](../Page/速霸陸Impreza.md "wikilink")[Legacy之間](../Page/速霸陸Legacy.md "wikilink")，可視為Impreza的五門旅行車版\[2\]。
+3月開始在日本本土市場接受預購，5月正式上市的量產車型與概念車型相去不遠。車頭設計與高性能車款[WRX近似](../Page/速霸陸WRX.md "wikilink")，大燈組與進氣格柵的輪廓相仿。從車身尺碼來看，其產品定位介於[Impreza和](../Page/速霸陸Impreza.md "wikilink")[Legacy之間](../Page/速霸陸Legacy.md "wikilink")，可視為Impreza的五門旅行車版\[2\]。
 
 動力來源共有兩種：可榨出最大[馬力](../Page/馬力.md "wikilink")170ps /
 4,800-5,600rpm、扭力峰值25.5kgf·m /

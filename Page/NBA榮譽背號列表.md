@@ -681,84 +681,84 @@
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/科比·布莱恩特.md" title="wikilink">科比·布莱恩特</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>後衛</p></td>
 <td><p>1996–2006</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/威尔特·张伯伦.md" title="wikilink">威尔特·张伯伦</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>中鋒</p></td>
 <td><p>1968–1973</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/埃尔金·贝勒.md" title="wikilink">埃尔金·贝勒</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>前鋒</p></td>
 <td><p>1958–1971</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/科比·布莱恩特.md" title="wikilink">科比·布莱恩特</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>後衛</p></td>
 <td><p>2006–2016</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/盖尔·古德里奇.md" title="wikilink">盖尔·古德里奇</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>後衛</p></td>
 <td><p>1965–1968; 1970–1976</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/埃尔文·约翰逊" title="wikilink">埃尔文·约翰逊</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>後衛</p></td>
 <td><p>1979–1991; 1995–1996</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/卡里姆·阿卜杜勒·贾巴尔" title="wikilink">卡里姆·阿卜杜勒·贾巴尔</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>中鋒</p></td>
 <td><p>1975–1989</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/沙奎尔·奥尼尔.md" title="wikilink">沙奎尔·奥尼尔</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>中鋒</p></td>
 <td><p>1996–2004</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/詹姆斯·沃西.md" title="wikilink">詹姆斯·沃西</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>前鋒</p></td>
 <td><p>1982–1994</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/杰里·韦斯特" title="wikilink">杰里·韦斯特</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>後衛</p></td>
 <td><p>1960–1974</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/贾马尔·威尔克斯.md" title="wikilink">贾马尔·威尔克斯</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>前鋒</p></td>
 <td><p>1977–1985</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Exquisite-microphone.png" title="fig:Exquisite-microphone.png">Exquisite-microphone.png</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>解说员</p></td>
 <td><p>1961–2002</p></td>
 </tr>
@@ -785,7 +785,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蒂姆·哈达威" title="wikilink">蒂姆·哈达威</a></p></td>
+<td><p><a href="../Page/蒂姆·哈达威.md" title="wikilink">蒂姆·哈达威</a></p></td>
 <td><p><a href="../Page/迈阿密热火.md" title="wikilink">迈阿密热火</a></p></td>
 <td><p>後衛</p></td>
 <td><p>1996–2001</p></td>
@@ -989,7 +989,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/斯宾瑟·海伍德" title="wikilink">斯宾瑟·海伍德</a></p></td>
+<td><p><a href="../Page/斯宾瑟·海伍德.md" title="wikilink">斯宾瑟·海伍德</a></p></td>
 <td><p><a href="../Page/俄克拉何马城雷霆.md" title="wikilink">俄克拉何马城雷霆</a></p></td>
 <td><p>前鋒</p></td>
 <td><p>1971–1975</p></td>
@@ -1559,42 +1559,42 @@
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/吉姆·波拉德.md" title="wikilink">吉姆·波拉德</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>前鋒</p></td>
 <td><p>1948–1955</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/沃恩·米克尔森.md" title="wikilink">沃恩·米克尔森</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>前鋒</p></td>
 <td><p>1949–1959</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/史雷特·马丁" title="wikilink">史雷特·马丁</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>後衛</p></td>
 <td><p>1949–1956</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p><a href="../Page/克莱德·拉福莱特.md" title="wikilink">克莱德·拉福莱特</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>中鋒</p></td>
 <td><p>1953–1957</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/乔治·迈肯.md" title="wikilink">乔治·迈肯</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>中鋒</p></td>
 <td><p>1948–1954; 1955–1956</p></td>
 </tr>
 <tr class="odd">
 <td><p>—</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/约翰·庫達爾" title="wikilink">约翰·庫達爾</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/洛杉矶湖人" title="wikilink">洛杉矶湖人</a></p></td>
+<td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a></p></td>
 <td><p>—</p></td>
 <td><p>1948–1959</p></td>
 </tr>

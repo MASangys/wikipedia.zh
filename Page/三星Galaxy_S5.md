@@ -5,8 +5,8 @@ S系列的第五代](https://zh.wikipedia.org/wiki/Samsung_Galaxy_S系列 "wikil
 
 [Android操作系統的旗艦級高價](../Page/Android.md "wikilink")[智能手机](../Page/智能手机.md "wikilink")，作為它的前一代[三星Galaxy
 S4的繼承機型](../Page/三星Galaxy_S4.md "wikilink")。主要競爭對手為[HTC One
-(M8)](https://zh.wikipedia.org/wiki/HTC_One_\(M8\) "wikilink")，同期競爭尚有[Sony
-Xperia Z2](https://zh.wikipedia.org/wiki/Sony_Xperia_Z2 "wikilink")、[LG
+(M8)](../Page/HTC_One_\(M8\).md "wikilink")，同期競爭尚有[Sony Xperia
+Z2](../Page/Sony_Xperia_Z2.md "wikilink")、[LG
 G3](../Page/LG_G3.md "wikilink")\[1\]\[2\]、[iPhone
 5S](https://zh.wikipedia.org/wiki/iPhone_5S "wikilink")。
 

@@ -93,21 +93,21 @@
 </tr>
 <tr class="even">
 <td><p>3月24日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/櫻花，大家一起來品嚐" title="wikilink">櫻花，大家一起來品嚐</a></p></td>
+<td><p><a href="../Page/櫻花，大家一起來品嚐.md" title="wikilink">櫻花，大家一起來品嚐</a></p></td>
 <td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a></p></td>
 <td><p>27.7</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/未來是什麼？" title="wikilink">未來是什麼？</a></p></td>
+<td><p><a href="../Page/未來是什麼？.md" title="wikilink">未來是什麼？</a></p></td>
 <td><p><a href="../Page/SKE48.md" title="wikilink">SKE48</a></p></td>
 <td><p>39.8</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
 <td><p>4月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高山上的蘋果" title="wikilink">高山上的蘋果</a></p></td>
+<td><p><a href="../Page/高山上的蘋果.md" title="wikilink">高山上的蘋果</a></p></td>
 <td><p><a href="../Page/NMB48.md" title="wikilink">NMB48</a></p></td>
 <td><p>40.7</p></td>
 <td><p>1</p></td>
@@ -205,7 +205,7 @@
 </tr>
 <tr class="even">
 <td><p>7月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夢想之球" title="wikilink">夢想之球</a></p></td>
+<td><p><a href="../Page/夢想之球.md" title="wikilink">夢想之球</a></p></td>
 <td><p><a href="../Page/關西傑尼斯8.md" title="wikilink">關西傑尼斯8</a></p></td>
 <td><p>16.9</p></td>
 <td><p>1</p></td>
@@ -261,7 +261,7 @@
 </tr>
 <tr class="even">
 <td><p>9月8日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/心意告示牌" title="wikilink">心意告示牌</a></p></td>
+<td><p><a href="../Page/心意告示牌.md" title="wikilink">心意告示牌</a></p></td>
 <td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
 <td><p>100.6</p></td>
 <td><p>1</p></td>
@@ -289,7 +289,7 @@
 </tr>
 <tr class="even">
 <td><p>10月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/有所保留的我愛你！" title="wikilink">有所保留的我愛你！</a></p></td>
+<td><p><a href="../Page/有所保留的我愛你！.md" title="wikilink">有所保留的我愛你！</a></p></td>
 <td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a></p></td>
 <td><p>27.8</p></td>
 <td><p>1</p></td>

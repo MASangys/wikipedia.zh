@@ -46,8 +46,7 @@
 
 ## 相關條目
 
-  - [SKE48 炸蝦商\!](https://zh.wikipedia.org/wiki/SKE48_炸蝦商! "wikilink") -
-    SKE48「炸蝦」系列第二部。
+  - [SKE48 炸蝦商\!](../Page/SKE48_炸蝦商!.md "wikilink") - SKE48「炸蝦」系列第二部。
   - [SKE48 炸蝦賭場\!](https://zh.wikipedia.org/wiki/SKE48_炸蝦賭場! "wikilink")
     - SKE48「炸蝦」系列第三部。
 

@@ -54,7 +54,7 @@
     K<sub>2</sub>SO<sub>4</sub> + 2 CoSO<sub>4</sub> +
     NH<sub>4</sub>HSO<sub>4</sub> + 11 HCN↑ + CO<sub>2</sub>↑
 
-和过量[硝酸反应](../Page/硝酸.md "wikilink")，产生[六氰合钴(III)酸](https://zh.wikipedia.org/wiki/六氰合钴\(III\)酸 "wikilink")：
+和过量[硝酸反应](../Page/硝酸.md "wikilink")，产生[六氰合钴(III)酸](../Page/六氰合钴\(III\)酸.md "wikilink")：
 
   -
     K<sub>3</sub>\[Co(CN)<sub>6</sub>\] + 3 HNO<sub>3</sub>

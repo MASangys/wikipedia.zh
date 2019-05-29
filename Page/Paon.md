@@ -21,7 +21,7 @@ Console上](../Page/Virtual_Console.md "wikilink")。
   - New Horizon English Course 2（任天堂DS）
   - New Horizon English Course 3（任天堂DS）
   - [The Wild
-    Rings](https://zh.wikipedia.org/wiki/The_Wild_Rings "wikilink")（2003，[微軟遊戲工作室](https://zh.wikipedia.org/wiki/微軟遊戲工作室 "wikilink")，[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")）
+    Rings](https://zh.wikipedia.org/wiki/The_Wild_Rings "wikilink")（2003，[微軟遊戲工作室](https://zh.wikipedia.org/wiki/微軟遊戲工作室 "wikilink")，[Xbox](../Page/Xbox.md "wikilink")）
   - [DK: King of
     Swing](https://zh.wikipedia.org/wiki/DK_King_of_Swing "wikilink")（2005，任天堂，Game
     Boy Advance）

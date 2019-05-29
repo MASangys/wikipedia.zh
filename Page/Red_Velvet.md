@@ -1,5 +1,5 @@
 [SM ROOKIES](../Page/SM_ROOKIES.md "wikilink") | 現任成員 =
-[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")、[Yeri](../Page/Yeri.md "wikilink")
+[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](../Page/瑟琪.md "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Joy](../Page/Joy_\(Red_Velvet\).md "wikilink")、[Yeri](../Page/Yeri.md "wikilink")
 | IMDb = 7596677 }}
 
 **Red
@@ -7,7 +7,7 @@ Velvet**（；）是由[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 Velvet為SM娛樂所推出「[SM
 ROOKIES](../Page/SM_ROOKIES.md "wikilink")」計劃的女子團體。\[1\]
 
-該團體起初由[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Joy四名成員組成](../Page/Joy_\(Red_Velvet\).md "wikilink")。2014年8月1日，在[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》以數位單曲《[Happiness](https://zh.wikipedia.org/wiki/Happiness_\(Red_Velvet單曲\) "wikilink")》一曲正式出道。\[2\]2015年3月，加入新成員[Yeri](../Page/Yeri.md "wikilink")\[3\]，成為五人形式的女子組合，並發行首張迷你專輯《[Ice
+該團體起初由[Irene](../Page/Irene_\(Red_Velvet\).md "wikilink")、[Seulgi](../Page/瑟琪.md "wikilink")、[Wendy](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[Joy四名成員組成](../Page/Joy_\(Red_Velvet\).md "wikilink")。2014年8月1日，在[KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》以數位單曲《[Happiness](https://zh.wikipedia.org/wiki/Happiness_\(Red_Velvet單曲\) "wikilink")》一曲正式出道。\[2\]2015年3月，加入新成員[Yeri](../Page/Yeri.md "wikilink")\[3\]，成為五人形式的女子組合，並發行首張迷你專輯《[Ice
 Cream
 Cake](https://zh.wikipedia.org/wiki/Ice_Cream_Cake "wikilink")》。同年3月27號在[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[音樂銀行](https://zh.wikipedia.org/wiki/音樂銀行 "wikilink")》拿下首次音樂節目冠軍，距離出道時間至首次音樂節目冠軍只有238天（成員Yeri僅出道11天）。\[4\]
 
@@ -59,7 +59,7 @@ Red Velvet在四人時期以Irene和Seulgi為雙中心，即Joy、Irene、Seulgi
 | 羅馬拼音                                                    |
 | **[IRENE](../Page/Irene_\(Red_Velvet\).md "wikilink")** |
 | Bae Joo-Hyun                                            |
-| [SEULGI](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")   |
+| [SEULGI](../Page/瑟琪.md "wikilink")                      |
 | Kang Seul-Gi                                            |
 | [WENDY](../Page/Wendy_\(Red_Velvet\).md "wikilink")     |
 | Seung Wan Wendy Shon\[15\]                              |
@@ -395,7 +395,7 @@ JAPAN演唱會](../Page/REDMARE.md "wikilink")」，共計超過45,000觀眾參�
 ## 代言
 
   - <small>——個人代言請參閱
-    [IRENE](../Page/Irene_\(Red_Velvet\).md "wikilink")、[SEULGI](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")、[WENDY](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[JOY](../Page/Joy_\(Red_Velvet\).md "wikilink")、[YERI](../Page/Yeri.md "wikilink")</small>
+    [IRENE](../Page/Irene_\(Red_Velvet\).md "wikilink")、[SEULGI](../Page/瑟琪.md "wikilink")、[WENDY](../Page/Wendy_\(Red_Velvet\).md "wikilink")、[JOY](../Page/Joy_\(Red_Velvet\).md "wikilink")、[YERI](../Page/Yeri.md "wikilink")</small>
 
 ### 品牌
 

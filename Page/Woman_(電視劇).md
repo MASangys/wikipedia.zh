@@ -56,7 +56,7 @@
 
 <!-- end list -->
 
-  - 植杉健太郎：[小林薰](https://zh.wikipedia.org/wiki/小林薰 "wikilink")
+  - 植杉健太郎：[小林薰](../Page/小林薰.md "wikilink")
 
 <!-- end list -->
 

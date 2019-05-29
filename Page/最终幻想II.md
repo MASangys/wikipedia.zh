@@ -1,5 +1,5 @@
 是由[史克威爾開發](../Page/史克威爾.md "wikilink")，並於1988年在[任天堂](../Page/任天堂.md "wikilink")[FC遊戲機平臺發行的奇幻](https://zh.wikipedia.org/wiki/FC遊戲機 "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，遊戲是[最終幻想系列的第二部作品](https://zh.wikipedia.org/wiki/最終幻想系列 "wikilink")。遊戲於後來多次[重製](https://zh.wikipedia.org/wiki/電子遊戲重製 "wikilink")，重製平臺包括[WonderSwan
-Color](../Page/WonderSwan_Color.md "wikilink")、[索尼](../Page/索尼.md "wikilink")[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")、[Game
+Color](../Page/WonderSwan_Color.md "wikilink")、[索尼](../Page/索尼.md "wikilink")[PlayStation](../Page/PlayStation.md "wikilink")、[Game
 Boy Color](../Page/Game_Boy_Color.md "wikilink")、[PlayStation
 Portable以及多個行動電話與智慧型手機](../Page/PlayStation_Portable.md "wikilink")。由於《最終幻想II》和《[最終幻想III](https://zh.wikipedia.org/wiki/最終幻想III "wikilink")》都沒有在日本以外首發，為避免北美玩家困惑，《[最終幻想IV](../Page/最終幻想IV.md "wikilink")》在北美發售時以“最終幻想II”為題。遊戲最新的重製版是[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android版](../Page/Android.md "wikilink")，其分別於2010年和2012年在全球發行。
 

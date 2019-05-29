@@ -637,7 +637,7 @@ Franco前女友<br />
 與姚德新於孤兒院相識，後被其欺騙</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/阮政峰" title="wikilink">阮政峰</a></p></td>
+<td><p><a href="../Page/阮政峰.md" title="wikilink">阮政峰</a></p></td>
 <td><p>情　侶</p></td>
 <td><p>目睹姚德新墮海</p></td>
 </tr>
@@ -1073,7 +1073,7 @@ Franco前女友<br />
 <td><p>（第3集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/張振朗" title="wikilink">張振朗</a></p></td>
+<td><p><a href="../Page/張振朗.md" title="wikilink">張振朗</a></p></td>
 <td><p>男　人</p></td>
 <td><p>不小心触碰到連曉彤（第3集）</p></td>
 </tr>
@@ -1123,7 +1123,7 @@ Franco前女友<br />
 <td><p>（第5、7集）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/李晉強" title="wikilink">李晉強</a></p></td>
+<td><p><a href="../Page/李晉強.md" title="wikilink">李晉強</a></p></td>
 <td><p>（第7集）</p></td>
 <td></td>
 </tr>
@@ -1285,7 +1285,7 @@ Mable之男友（第14集）</p></td>
 <td><p>潘耀泉嫲嫲（第20集）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
 <td><p>應徵者甲</p></td>
 <td><p>博士兼行政總裁<br />
 應徵為卓慧翹捐精對象（第20集）</p></td>

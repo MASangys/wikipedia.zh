@@ -21,7 +21,7 @@ Entertainment*'（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 <td><p>2010年6月9日</p></td>
 <td><p><a href="../Page/INFINITE.md" title="wikilink">INFINITE</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/男" title="wikilink">男</a></p></td>
-<td><p><a href="../Page/金聖圭.md" title="wikilink">聖圭</a>、<a href="https://zh.wikipedia.org/wiki/東雨" title="wikilink">東雨</a>、<a href="https://zh.wikipedia.org/wiki/南優賢" title="wikilink">優鉉</a>、<a href="https://zh.wikipedia.org/wiki/成烈" title="wikilink">成烈</a>、<a href="../Page/金明洙.md" title="wikilink">L</a>、<a href="../Page/李成種.md" title="wikilink">成鍾</a></p></td>
+<td><p><a href="../Page/金聖圭.md" title="wikilink">聖圭</a>、<a href="https://zh.wikipedia.org/wiki/東雨" title="wikilink">東雨</a>、<a href="../Page/南優賢.md" title="wikilink">優鉉</a>、<a href="https://zh.wikipedia.org/wiki/成烈" title="wikilink">成烈</a>、<a href="../Page/金明洙.md" title="wikilink">L</a>、<a href="../Page/李成種.md" title="wikilink">成鍾</a></p></td>
 <td><p><a href="../Page/金聖圭.md" title="wikilink">聖圭</a></p></td>
 <td><p>活動中</p></td>
 <td><p>INSPIRIT (인스피릿)</p></td>
@@ -76,11 +76,11 @@ Entertainment*'（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 </tr>
 <tr class="even">
 <td><p>2014年3月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Toheart" title="wikilink">Toheart</a></p></td>
+<td><p><a href="../Page/Toheart.md" title="wikilink">Toheart</a></p></td>
 <td><p>男</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南優賢" title="wikilink">優鉉</a>（<a href="../Page/INFINITE.md" title="wikilink">INFINITE成員</a>）<br />
+<td><p><a href="../Page/南優賢.md" title="wikilink">優鉉</a>（<a href="../Page/INFINITE.md" title="wikilink">INFINITE成員</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a>（<a href="../Page/SHINee.md" title="wikilink">SHINee成員</a>）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南優賢" title="wikilink">優鉉</a></p></td>
+<td><p><a href="../Page/南優賢.md" title="wikilink">優鉉</a></p></td>
 <td><p>暫停活動（特別企劃）</p></td>
 <td><p>INSPIRIT (인스피릿)</p></td>
 <td><p>珍珠金屬金色</p></td>
@@ -174,7 +174,7 @@ Entertainment*'（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
 <tr class="odd">
 <td><p>2016年5月9日</p></td>
 <td><p>2010年6月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南優賢" title="wikilink">優鉉</a></p></td>
+<td><p><a href="../Page/南優賢.md" title="wikilink">優鉉</a></p></td>
 <td><p>男</p></td>
 <td><p>INSPIRIT (인스피릿)</p></td>
 <td><p>珍珠金屬金色</p></td>

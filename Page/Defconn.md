@@ -41,7 +41,7 @@ E356 131116 觀相特輯（中） E357 131123 觀相特輯（下）
 ## 參見
 
   - [Weekly Idol](../Page/Weekly_Idol.md "wikilink")
-  - [亨敦和大俊](https://zh.wikipedia.org/wiki/亨敦和大俊 "wikilink")
+  - [亨敦和大俊](../Page/亨敦和大俊.md "wikilink")
 
 ## 外部連結
 

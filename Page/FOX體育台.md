@@ -5,9 +5,9 @@
   - **FOX
     Sports**：台灣稱為**FOX體育台**（原ESPN衛視體育台），台灣[有線電視](https://zh.wikipedia.org/wiki/有線電視 "wikilink")73或74頻道（HD）（部份地區有線頻道位置不同）、香港[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")670台、[澳門有線電視](../Page/澳門有線電視.md "wikilink")30台、[香港有線電視](../Page/香港有線電視.md "wikilink")611台（HD）/651台（SD）等。
   - **FOX Sports
-    2**：台灣稱為**[FOX體育二台](https://zh.wikipedia.org/wiki/FOX體育二台 "wikilink")**，台灣[有線電視](https://zh.wikipedia.org/wiki/有線電視 "wikilink")74頻道（部份地區有線頻道位置不同）、香港[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")671台、[澳門有線電視](../Page/澳門有線電視.md "wikilink")31台、[香港有線電視](../Page/香港有線電視.md "wikilink")612台（HD）/652台（SD）等。
+    2**：台灣稱為**[FOX體育二台](../Page/FOX體育二台.md "wikilink")**，台灣[有線電視](https://zh.wikipedia.org/wiki/有線電視 "wikilink")74頻道（部份地區有線頻道位置不同）、香港[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")671台、[澳門有線電視](../Page/澳門有線電視.md "wikilink")31台、[香港有線電視](../Page/香港有線電視.md "wikilink")612台（HD）/652台（SD）等。
   - **FOX Sports
-    3**：台灣稱為**[FOX體育三台](https://zh.wikipedia.org/wiki/FOX體育三台 "wikilink")**，台灣[中華電信MOD](../Page/中華電信MOD.md "wikilink")211頻道（有線電視部分頻道位置則隨系統不同）、香港[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")672台、[澳門有線電視](../Page/澳門有線電視.md "wikilink")830台、[香港有線電視](../Page/香港有線電視.md "wikilink")613台（HD）/653台（SD）等。
+    3**：台灣稱為**[FOX體育三台](../Page/FOX體育三台.md "wikilink")**，台灣[中華電信MOD](../Page/中華電信MOD.md "wikilink")211頻道（有線電視部分頻道位置則隨系統不同）、香港[now寬頻電視](https://zh.wikipedia.org/wiki/now寬頻電視 "wikilink")672台、[澳門有線電視](../Page/澳門有線電視.md "wikilink")830台、[香港有線電視](../Page/香港有線電視.md "wikilink")613台（HD）/653台（SD）等。
   - **FOX Sports News**：體育新聞台，現已停播。
 
 台灣版本因頻道定位及節目授權問題，分成基本頻道的FOX體育台和FOX體育二台，和供有線電視進階頻道區塊及[中華電信MOD播出的FOX體育三台](../Page/中華電信MOD.md "wikilink")。在FOX體育台尚未升級為高畫質前，FOX體育三台也做為FOX體育台及FOX體育二台的高畫質同步播出頻道。2015年7月22日起FOX體育台和FOX體育二台改為16:9播出，而FOX體育台於2016年8月1日起升級HD高畫質播出，FOX體育二台也於2018年陸續升級HD高畫質播出。至今FOX體育三台仍於部分時段和FOX體育台及FOX體育二台同步播出。
@@ -94,8 +94,8 @@ Sports Play**供行動用戶收看，同時也有網頁版本（僅供部分賽�
 
 ## 參見
 
-  - [FOX體育二台](https://zh.wikipedia.org/wiki/FOX體育二台 "wikilink")（FOX亞洲體育家族頻道的一台，為「**FOX體育台**」子台）
-  - [FOX體育三台](https://zh.wikipedia.org/wiki/FOX體育三台 "wikilink")（FOX亞洲體育家族頻道的一台，為「**FOX體育台**」子台）
+  - [FOX體育二台](../Page/FOX體育二台.md "wikilink")（FOX亞洲體育家族頻道的一台，為「**FOX體育台**」子台）
+  - [FOX體育三台](../Page/FOX體育三台.md "wikilink")（FOX亞洲體育家族頻道的一台，為「**FOX體育台**」子台）
 
 <!-- end list -->
 

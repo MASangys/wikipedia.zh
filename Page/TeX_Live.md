@@ -13,7 +13,7 @@ CD的成功也刺激了Unix等系统用户对于类似套装系统的需求，
 Live即由此发端。1995年秋，TUG开始开发基于TDS的套装CD，并决定采用Thomas
 Esser的[te作为](https://zh.wikipedia.org/wiki/teTeX "wikilink")[内核](../Page/内核.md "wikilink")（te已于2006年停止更新\[8\]），因为te当时就已解决了跨[文件系统的兼容问题](../Page/文件系统.md "wikilink")。在Thomas
 Esser的协助下，Sebastian Rahtz等人于1996年5月完成并发布了第1版 Live。1997年初，Karl
-Berry完成了一个[Web2C的重大改进版本](https://zh.wikipedia.org/wiki/Web2C "wikilink")，它集合了相关程序，囊括了te当时几乎所有的特性，因此从1997年发布的第2版开始，
+Berry完成了一个[Web2C的重大改进版本](../Page/Web2C.md "wikilink")，它集合了相关程序，囊括了te当时几乎所有的特性，因此从1997年发布的第2版开始，
 Live一直以Web2C作为内核。自1997年至今， Live保持了每年一版的更新频率，其中重大更新版本包括\[9\]：
 
   - 第5版（2000年）：移除了所有的非[自由软件](../Page/自由软件.md "wikilink")

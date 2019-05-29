@@ -79,8 +79,7 @@ Sensor Brake Support），由單眼鏡頭與雷射感應器構成，並包含自
 
   - [鈴木汽車](https://zh.wikipedia.org/wiki/鈴木公司 "wikilink")
   - [馬自達Flair](../Page/馬自達Flair.md "wikilink")
-  - [馬自達Flair
-    Crossover](https://zh.wikipedia.org/wiki/馬自達Flair_Crossover "wikilink")
+  - [馬自達Flair Crossover](../Page/馬自達Flair_Crossover.md "wikilink")
 
 ## 參考資料
 

@@ -336,13 +336,13 @@ Torelli號潛水艇，並於第七張地圖加入英國海軍的[皇家方舟號
 </tr>
 <tr class="even">
 <td><p><a href="../Page/輕巡洋艦.md" title="wikilink">輕巡洋艦</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天龍級輕巡洋艦" title="wikilink">天龍型</a></p></td>
+<td><p><a href="../Page/天龍級輕巡洋艦.md" title="wikilink">天龍型</a></p></td>
 <td><p><a href="../Page/天龍號輕巡洋艦.md" title="wikilink">天龍</a>、<a href="../Page/龍田號輕巡洋艦.md" title="wikilink">龍田</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/球磨級輕巡洋艦.md" title="wikilink">球磨型</a></p></td>
-<td><p><a href="../Page/球磨號輕巡洋艦.md" title="wikilink">球磨</a>、<a href="../Page/多摩號輕巡洋艦.md" title="wikilink">多摩</a>、<a href="../Page/北上號輕巡洋艦.md" title="wikilink">北上</a>、<a href="https://zh.wikipedia.org/wiki/大井號輕巡洋艦" title="wikilink">大井</a>、<a href="https://zh.wikipedia.org/wiki/木曾號輕巡洋艦" title="wikilink">木曾</a></p></td>
+<td><p><a href="../Page/球磨號輕巡洋艦.md" title="wikilink">球磨</a>、<a href="../Page/多摩號輕巡洋艦.md" title="wikilink">多摩</a>、<a href="../Page/北上號輕巡洋艦.md" title="wikilink">北上</a>、<a href="../Page/大井號輕巡洋艦.md" title="wikilink">大井</a>、<a href="../Page/木曾號輕巡洋艦.md" title="wikilink">木曾</a></p></td>
 <td><p>北上、大井、木曾依據改造，艦種變更為<a href="https://zh.wikipedia.org/wiki/重雷裝巡洋艦" title="wikilink">重雷裝巡洋艦</a>。</p></td>
 <td></td>
 </tr>
@@ -353,7 +353,7 @@ Torelli號潛水艇，並於第七張地圖加入英國海軍的[皇家方舟號
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/川內級輕巡洋艦" title="wikilink">川内型</a></p></td>
+<td><p><a href="../Page/川內級輕巡洋艦.md" title="wikilink">川内型</a></p></td>
 <td><p><a href="../Page/川內號輕巡洋艦.md" title="wikilink">川内</a>、<a href="../Page/神通號輕巡洋艦.md" title="wikilink">神通</a>、<a href="../Page/那珂號輕巡洋艦.md" title="wikilink">那珂</a></p></td>
 <td></td>
 <td></td>
@@ -402,7 +402,7 @@ Torelli號潛水艇，並於第七張地圖加入英國海軍的[皇家方舟號
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/吹雪型驅逐艦.md" title="wikilink">吹雪型</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/吹雪號驅逐艦_(吹雪型)" title="wikilink">吹雪</a>、<a href="https://zh.wikipedia.org/wiki/白雪號驅逐艦_(吹雪型)" title="wikilink">白雪</a>、<a href="https://zh.wikipedia.org/wiki/初雪號驅逐艦_(吹雪型)" title="wikilink">初雪</a>、<a href="../Page/深雪號驅逐艦.md" title="wikilink">深雪</a>、<a href="https://zh.wikipedia.org/wiki/叢雲號驅逐艦_(吹雪型)" title="wikilink">叢雲</a>、<a href="https://zh.wikipedia.org/wiki/磯波號驅逐艦_(吹雪型)" title="wikilink">磯波</a>、<a href="https://zh.wikipedia.org/wiki/浦波_(吹雪型駆逐艦)" title="wikilink">浦波</a></p></td>
+<td><p><a href="../Page/吹雪號驅逐艦_(吹雪型).md" title="wikilink">吹雪</a>、<a href="../Page/白雪號驅逐艦_(吹雪型).md" title="wikilink">白雪</a>、<a href="../Page/初雪號驅逐艦_(吹雪型).md" title="wikilink">初雪</a>、<a href="../Page/深雪號驅逐艦.md" title="wikilink">深雪</a>、<a href="../Page/叢雲號驅逐艦_(吹雪型).md" title="wikilink">叢雲</a>、<a href="https://zh.wikipedia.org/wiki/磯波號驅逐艦_(吹雪型)" title="wikilink">磯波</a>、<a href="https://zh.wikipedia.org/wiki/浦波_(吹雪型駆逐艦)" title="wikilink">浦波</a></p></td>
 <td><p>★</p></td>
 <td></td>
 </tr>
@@ -414,7 +414,7 @@ Torelli號潛水艇，並於第七張地圖加入英國海軍的[皇家方舟號
 </tr>
 <tr class="odd">
 <td><p>曉型</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曉號驅逐艦_(吹雪型)" title="wikilink">曉</a>、<a href="https://zh.wikipedia.org/wiki/響號驅逐艦" title="wikilink">響／Верный</a>、<a href="../Page/雷號驅逐艦_(吹雪型).md" title="wikilink">雷</a>、<a href="../Page/電號驅逐艦_(吹雪型).md" title="wikilink">電</a></p></td>
+<td><p><a href="../Page/曉號驅逐艦_(吹雪型).md" title="wikilink">曉</a>、<a href="../Page/響號驅逐艦.md" title="wikilink">響／Верный</a>、<a href="../Page/雷號驅逐艦_(吹雪型).md" title="wikilink">雷</a>、<a href="../Page/電號驅逐艦_(吹雪型).md" title="wikilink">電</a></p></td>
 <td><p>響依據改造，艦名變更為<a href="../Page/蘇聯海軍.md" title="wikilink">蘇聯海軍的Верный</a>。</p></td>
 <td></td>
 </tr>
@@ -616,7 +616,7 @@ Torelli號潛水艇，並於第七張地圖加入英國海軍的[皇家方舟號
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/上坂堇.md" title="wikilink">上坂堇</a></p></td>
-<td><p><a href="../Page/蒼龍號航空母艦.md" title="wikilink">蒼龍</a>、<a href="../Page/飛龍號航空母艦.md" title="wikilink">飛龍</a>、<a href="https://zh.wikipedia.org/wiki/吹雪號驅逐艦_(吹雪型)" title="wikilink">吹雪</a>、<a href="https://zh.wikipedia.org/wiki/白雪號驅逐艦_(吹雪型)" title="wikilink">白雪</a>、<a href="https://zh.wikipedia.org/wiki/初雪號驅逐艦_(吹雪型)" title="wikilink">初雪</a>、<a href="https://zh.wikipedia.org/wiki/深雪號驅逐艦_(吹雪型)" title="wikilink">深雪</a>、<a href="https://zh.wikipedia.org/wiki/叢雲號驅逐艦_(吹雪型)" title="wikilink">叢雲</a>、[15]、</p></td>
+<td><p><a href="../Page/蒼龍號航空母艦.md" title="wikilink">蒼龍</a>、<a href="../Page/飛龍號航空母艦.md" title="wikilink">飛龍</a>、<a href="../Page/吹雪號驅逐艦_(吹雪型).md" title="wikilink">吹雪</a>、<a href="../Page/白雪號驅逐艦_(吹雪型).md" title="wikilink">白雪</a>、<a href="../Page/初雪號驅逐艦_(吹雪型).md" title="wikilink">初雪</a>、<a href="https://zh.wikipedia.org/wiki/深雪號驅逐艦_(吹雪型)" title="wikilink">深雪</a>、<a href="../Page/叢雲號驅逐艦_(吹雪型).md" title="wikilink">叢雲</a>、[15]、</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/遠藤綾.md" title="wikilink">遠藤綾</a></p></td>
@@ -624,7 +624,7 @@ Torelli號潛水艇，並於第七張地圖加入英國海軍的[皇家方舟號
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大坪由佳.md" title="wikilink">大坪由佳</a></p></td>
-<td><p><a href="../Page/伊勢號戰艦.md" title="wikilink">伊勢</a>、<a href="../Page/日向號戰艦.md" title="wikilink">日向</a>[16]、<a href="../Page/飛鷹號航空母艦.md" title="wikilink">飛鷹</a>、<a href="../Page/隼鷹號航空母艦.md" title="wikilink">隼鷹</a>、<a href="../Page/古鹰号重巡洋舰.md" title="wikilink">古鷹</a>、<a href="../Page/加古号重巡洋舰.md" title="wikilink">加古</a>、<a href="../Page/北上號輕巡洋艦.md" title="wikilink">北上</a>[17]、<a href="https://zh.wikipedia.org/wiki/大井號輕巡洋艦" title="wikilink">大井</a>[18]、日振、大東</p></td>
+<td><p><a href="../Page/伊勢號戰艦.md" title="wikilink">伊勢</a>、<a href="../Page/日向號戰艦.md" title="wikilink">日向</a>[16]、<a href="../Page/飛鷹號航空母艦.md" title="wikilink">飛鷹</a>、<a href="../Page/隼鷹號航空母艦.md" title="wikilink">隼鷹</a>、<a href="../Page/古鹰号重巡洋舰.md" title="wikilink">古鷹</a>、<a href="../Page/加古号重巡洋舰.md" title="wikilink">加古</a>、<a href="../Page/北上號輕巡洋艦.md" title="wikilink">北上</a>[17]、<a href="../Page/大井號輕巡洋艦.md" title="wikilink">大井</a>[18]、日振、大東</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/小倉唯.md" title="wikilink">小倉唯</a></p></td>
@@ -652,11 +652,11 @@ Torelli號潛水艇，並於第七張地圖加入英國海軍的[皇家方舟號
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/佐倉綾音" title="wikilink">佐倉綾音</a></p></td>
-<td><p><a href="../Page/長門號戰艦.md" title="wikilink">長門</a>、<a href="https://zh.wikipedia.org/wiki/陸奥號戰艦" title="wikilink">陸奥</a>、<a href="../Page/球磨號輕巡洋艦.md" title="wikilink">球磨</a>、<a href="../Page/多摩號輕巡洋艦.md" title="wikilink">多摩</a>、<a href="https://zh.wikipedia.org/wiki/木曾號輕巡洋艦" title="wikilink">木曾</a>、<a href="../Page/川內號輕巡洋艦.md" title="wikilink">川內</a>、<a href="../Page/神通號輕巡洋艦.md" title="wikilink">神通</a>、<a href="../Page/那珂號輕巡洋艦.md" title="wikilink">那珂</a>、<a href="../Page/島風號驅逐艦.md" title="wikilink">島風</a></p></td>
+<td><p><a href="../Page/長門號戰艦.md" title="wikilink">長門</a>、<a href="https://zh.wikipedia.org/wiki/陸奥號戰艦" title="wikilink">陸奥</a>、<a href="../Page/球磨號輕巡洋艦.md" title="wikilink">球磨</a>、<a href="../Page/多摩號輕巡洋艦.md" title="wikilink">多摩</a>、<a href="../Page/木曾號輕巡洋艦.md" title="wikilink">木曾</a>、<a href="../Page/川內號輕巡洋艦.md" title="wikilink">川內</a>、<a href="../Page/神通號輕巡洋艦.md" title="wikilink">神通</a>、<a href="../Page/那珂號輕巡洋艦.md" title="wikilink">那珂</a>、<a href="../Page/島風號驅逐艦.md" title="wikilink">島風</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/洲崎綾.md" title="wikilink">洲崎綾</a></p></td>
-<td><p><a href="../Page/鳳翔號航空母艦.md" title="wikilink">鳳翔</a>、<a href="../Page/青叶号重巡洋舰.md" title="wikilink">青葉</a>、<a href="../Page/最上号重巡洋舰.md" title="wikilink">最上</a>、<a href="https://zh.wikipedia.org/wiki/曉號驅逐艦_(吹雪型)" title="wikilink">曉</a>、<a href="https://zh.wikipedia.org/wiki/響號驅逐艦_(吹雪型)" title="wikilink">響／信賴（Верный）</a>、<a href="../Page/雷號驅逐艦_(吹雪型).md" title="wikilink">雷</a>、<a href="../Page/電號驅逐艦_(吹雪型).md" title="wikilink">電</a></p></td>
+<td><p><a href="../Page/鳳翔號航空母艦.md" title="wikilink">鳳翔</a>、<a href="../Page/青叶号重巡洋舰.md" title="wikilink">青葉</a>、<a href="../Page/最上号重巡洋舰.md" title="wikilink">最上</a>、<a href="../Page/曉號驅逐艦_(吹雪型).md" title="wikilink">曉</a>、<a href="https://zh.wikipedia.org/wiki/響號驅逐艦_(吹雪型)" title="wikilink">響／信賴（Верный）</a>、<a href="../Page/雷號驅逐艦_(吹雪型).md" title="wikilink">雷</a>、<a href="../Page/電號驅逐艦_(吹雪型).md" title="wikilink">電</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/竹達彩奈.md" title="wikilink">竹達彩奈</a></p></td>
@@ -724,7 +724,7 @@ Torelli號潛水艇，並於第七張地圖加入英國海軍的[皇家方舟號
 <td><p><a href="../Page/葛城號航空母艦.md" title="wikilink">葛城</a>、[43]、、{{link-ja|呂号第五百潜水艦|呂号第五百潜水艦</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/久野美咲" title="wikilink">久野美咲</a></p></td>
+<td><p><a href="../Page/久野美咲.md" title="wikilink">久野美咲</a></p></td>
 <td><p>、、</p></td>
 </tr>
 <tr class="odd">

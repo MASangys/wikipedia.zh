@@ -148,8 +148,7 @@ BEST-**》，是日本樂團[B'z的第](../Page/B'z.md "wikilink")19張LIVE作�
       -
 19. **[ALONE](../Page/ALONE_\(B'z單曲\).md "wikilink")**
       -
-20. **[BAD
-    COMMUNICATION](https://zh.wikipedia.org/wiki/BAD_COMMUNICATION "wikilink")**
+20. **[BAD COMMUNICATION](../Page/BAD_COMMUNICATION.md "wikilink")**
       -
 
 ## 參考資料

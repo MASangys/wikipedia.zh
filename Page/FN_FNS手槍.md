@@ -56,7 +56,7 @@ S\&W版本的彈匣容量分別是12發和10發。緊湊型版本也可以使用
   - [FN M1905](https://zh.wikipedia.org/wiki/FN_M1905手槍 "wikilink")
   - [FN M1910](https://zh.wikipedia.org/wiki/FN_M1910手槍 "wikilink")
   - [白朗寧大威力手槍](../Page/白朗寧大威力手槍.md "wikilink")
-  - [FN HP-DA](https://zh.wikipedia.org/wiki/白朗寧雙動手槍 "wikilink")
+  - [FN HP-DA](../Page/白朗寧雙動手槍.md "wikilink")
   - [FN
     Forty-Nine](https://zh.wikipedia.org/wiki/FN_Forty-Nine手槍 "wikilink")
   - [FN Five-seveN](../Page/FN_Five-seveN手槍.md "wikilink")

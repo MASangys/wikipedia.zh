@@ -40,7 +40,7 @@
 
 <!-- end list -->
 
-  - **薄井昭三（50）**：[松重豐](https://zh.wikipedia.org/wiki/松重豐 "wikilink") 飾
+  - **薄井昭三（50）**：[松重豐](../Page/松重豐.md "wikilink") 飾
 
 <!-- end list -->
 

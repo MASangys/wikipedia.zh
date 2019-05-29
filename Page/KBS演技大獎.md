@@ -687,7 +687,7 @@
 </tr>
 <tr class="even">
 <td><p>女子獨幕剧优秀演技獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金容琳" title="wikilink">金容琳</a><br />
+<td><p><a href="../Page/金容琳.md" title="wikilink">金容琳</a><br />
 <a href="../Page/尹惠京.md" title="wikilink">尹惠京</a></p></td>
 </tr>
 <tr class="odd">
@@ -1855,7 +1855,7 @@
 <tr class="odd">
 <td><p>女子中篇劇優秀演技獎</p></td>
 <td><p><a href="../Page/南相美.md" title="wikilink">南相美</a>（<a href="../Page/朝鮮槍手.md" title="wikilink">朝鮮槍手</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a>（<a href="https://zh.wikipedia.org/wiki/Healer" title="wikilink">Healer</a>）</p></td>
+<a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a>（<a href="../Page/Healer.md" title="wikilink">Healer</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>男子長篇劇優秀演技獎</p></td>
@@ -1886,7 +1886,7 @@
 <tr class="even">
 <td><p>女子助演獎</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李彩英" title="wikilink">李彩英</a>（<a href="../Page/布穀鳥巢.md" title="wikilink">布穀鳥巢</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/韓銀貞" title="wikilink">韓銀貞</a>（<a href="https://zh.wikipedia.org/wiki/黃金交叉" title="wikilink">黃金交叉</a>、<a href="https://zh.wikipedia.org/wiki/鋼鐵人_(電視劇)" title="wikilink">鋼鐵人</a>）</p></td>
+<a href="https://zh.wikipedia.org/wiki/韓銀貞" title="wikilink">韓銀貞</a>（<a href="../Page/黃金交叉.md" title="wikilink">黃金交叉</a>、<a href="../Page/鋼鐵人_(電視劇).md" title="wikilink">鋼鐵人</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>男子獨幕劇優秀演技獎</p></td>
@@ -1898,7 +1898,7 @@
 </tr>
 <tr class="odd">
 <td><p>男子新人獎</p></td>
-<td><p><a href="../Page/徐仁國.md" title="wikilink">徐仁國</a>（<a href="https://zh.wikipedia.org/wiki/王的面孔" title="wikilink">王的面孔</a>）<br />
+<td><p><a href="../Page/徐仁國.md" title="wikilink">徐仁國</a>（<a href="../Page/王的面孔.md" title="wikilink">王的面孔</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/炯植" title="wikilink">朴炯植</a>（<a href="../Page/家人之間為何這樣.md" title="wikilink">家人之間為何這樣</a>）</p></td>
 </tr>
 <tr class="even">
@@ -1915,8 +1915,8 @@
 <tr class="even">
 <td><p>人氣獎</p></td>
 <td><p><a href="../Page/周元_(韓國).md" title="wikilink">周元</a>（<a href="https://zh.wikipedia.org/wiki/明日如歌" title="wikilink">明日如歌</a>）<br />
-<a href="../Page/池昌旭.md" title="wikilink">池昌旭</a>（<a href="https://zh.wikipedia.org/wiki/Healer" title="wikilink">Healer</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/李多熙" title="wikilink">李多熙</a>（<a href="https://zh.wikipedia.org/wiki/Big_Man" title="wikilink">Big Man</a>）<br />
+<a href="../Page/池昌旭.md" title="wikilink">池昌旭</a>（<a href="../Page/Healer.md" title="wikilink">Healer</a>）<br />
+<a href="https://zh.wikipedia.org/wiki/李多熙" title="wikilink">李多熙</a>（<a href="../Page/Big_Man.md" title="wikilink">Big Man</a>）<br />
 <a href="../Page/鄭恩地.md" title="wikilink">鄭恩地</a>（<a href="../Page/Trot戀人.md" title="wikilink">Trot戀人</a>）</p></td>
 </tr>
 <tr class="odd">
@@ -1930,7 +1930,7 @@
 <a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/南相美.md" title="wikilink">南相美</a>（<a href="../Page/朝鮮槍手.md" title="wikilink">朝鮮槍手</a>）<br />
 <a href="../Page/文晸赫.md" title="wikilink">文晸赫</a>、<a href="https://zh.wikipedia.org/wiki/鄭有美" title="wikilink">鄭有美</a>（<a href="../Page/戀愛的發現.md" title="wikilink">戀愛的發現</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/炯植" title="wikilink">朴炯植</a>、<a href="../Page/南志鉉.md" title="wikilink">南志鉉</a>（<a href="../Page/家人之間為何這樣.md" title="wikilink">家人之間為何這樣</a>）<br />
-<a href="../Page/池昌旭.md" title="wikilink">池昌旭</a>、<a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a>（<a href="https://zh.wikipedia.org/wiki/Healer" title="wikilink">Healer</a>）</p></td>
+<a href="../Page/池昌旭.md" title="wikilink">池昌旭</a>、<a href="https://zh.wikipedia.org/wiki/朴敏英" title="wikilink">朴敏英</a>（<a href="../Page/Healer.md" title="wikilink">Healer</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>功勞獎</p></td>

@@ -2476,7 +2476,7 @@ Open</strong></p></td>
       - [八大綜合台](../Page/八大綜合台.md "wikilink")《[Good
         Doctor善良醫生](../Page/好醫生.md "wikilink")》、《[第六感任務](../Page/你是誰_\(2013年電視劇\).md "wikilink")》
       - [東森戲劇台](../Page/東森戲劇台.md "wikilink")《[奇皇后](../Page/奇皇后_\(電視劇\).md "wikilink")》
-      - [衛視中文台](../Page/衛視中文台.md "wikilink")《[百年新娘](https://zh.wikipedia.org/wiki/百年新娘 "wikilink")》、《[流氓王子](https://zh.wikipedia.org/wiki/Big_Man "wikilink")》
+      - [衛視中文台](../Page/衛視中文台.md "wikilink")《[百年新娘](https://zh.wikipedia.org/wiki/百年新娘 "wikilink")》、《[流氓王子](../Page/Big_Man.md "wikilink")》
   - 由[AGB尼爾森調查](https://zh.wikipedia.org/wiki/AGB尼爾森 "wikilink")，調查範圍是四歲以上收看電視之觀眾。
   - 資料來源：[中時娛樂](https://web.archive.org/web/20130126141713/http://showbiz.chinatimes.com/2009Cti/Channel/Showbiz/showbiz-rank/0%2C5137%2Ctv%2C00.html)</small>
 

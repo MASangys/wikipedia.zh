@@ -22,7 +22,7 @@
 <td><p>我主場</p></td>
 <td><p><a href="../Page/朱俊傑.md" title="wikilink">朱俊傑</a></p></td>
 <td><p><a href="../Page/曾紀諾.md" title="wikilink">曾紀諾</a><br />
-<a href="https://zh.wikipedia.org/wiki/張楚翹" title="wikilink">張楚翹</a><br />
+<a href="../Page/張楚翹.md" title="wikilink">張楚翹</a><br />
 <a href="../Page/伍樂城.md" title="wikilink">伍樂城</a></p></td>
 <td><p>朱俊傑</p></td>
 <td><p>伍樂城</p></td>

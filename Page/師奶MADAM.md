@@ -439,7 +439,7 @@ Richard之女友<br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/杜大偉" title="wikilink">杜大偉</a></p></td>
+<td><p><a href="../Page/杜大偉.md" title="wikilink">杜大偉</a></p></td>
 <td><p>Richard</p></td>
 <td><p>呂芳之男友</p></td>
 </tr>
@@ -454,7 +454,7 @@ Richard之女友<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/黃建東" title="wikilink">黃建東</a></p></td>
+<td><p><a href="../Page/黃建東.md" title="wikilink">黃建東</a></p></td>
 <td><p>經紀陳</p></td>
 <td></td>
 </tr>

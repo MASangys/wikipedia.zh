@@ -830,7 +830,7 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/夏侯氏_(張飛妻)" title="wikilink">夏侯姬</a></p></td>
+<td><p><a href="../Page/夏侯氏_(張飛妻).md" title="wikilink">夏侯姬</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2557,7 +2557,7 @@ U），「U」為Ultimate（PS3改版）；「3」為《無雙OROCHI 3》。
 
 **[源義經](../Page/源義經.md "wikilink")（再臨初登場）**
 
-  - 聲優：[織田優成](https://zh.wikipedia.org/wiki/織田優成 "wikilink")
+  - 聲優：[織田優成](../Page/織田優成.md "wikilink")
   - 武器：[籠手](../Page/手套.md "wikilink")
   - [日本](../Page/日本.md "wikilink")[平安時代末期的武家](https://zh.wikipedia.org/wiki/平安時代 "wikilink")[源氏家族武將](../Page/源氏.md "wikilink")，源氏首領[源賴朝之弟](https://zh.wikipedia.org/wiki/源賴朝 "wikilink")。是一位個性爽朗，身材結實的好青年。個性非常認真故事多順遂。對於女性仍保有傳統觀念，因此經常被周遭人揶揄。武器是雷光小手，具有神通之力的巨大小手，用小手釋放的光刃切割敵人。也能使用小手吸取敵人的氣，轉換為自身力量。
 

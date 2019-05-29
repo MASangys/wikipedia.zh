@@ -50,7 +50,7 @@ Products[彈鼓和](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")100發[C-Mag
 
 ### 瞄準具
 
-[機匣頂部設有](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以加裝日間／夜間[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。標準型CZ蠍式EVO
+[機匣頂部設有](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以加裝日間／夜間[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[紅點鏡／反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。標準型CZ蠍式EVO
 3
 A1的機匣頂部戰術導軌後端安裝了可以調節方向和高低的覘孔式[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")，而戰術導軌前端則安裝了帶有[氚光管的](../Page/氚.md "wikilink")[準星](../Page/照準器.md "wikilink")，讓使用者在光綫昏暗的情況以下瞄準射擊。
 
@@ -60,7 +60,7 @@ A1的機匣頂部戰術導軌後端安裝了可以調節方向和高低的覘孔
 
 ## 使用國
 
-  -   - [阿富汗國民軍](https://zh.wikipedia.org/wiki/阿富汗軍事 "wikilink")[突擊隊](https://zh.wikipedia.org/wiki/突擊隊_\(阿富汗國家軍隊\) "wikilink")
+  -   - [阿富汗國民軍](https://zh.wikipedia.org/wiki/阿富汗軍事 "wikilink")[突擊隊](../Page/突擊隊_\(阿富汗國家軍隊\).md "wikilink")
 
   -   -
   -   - 警察單位
@@ -163,7 +163,7 @@ A1的機匣頂部戰術導軌後端安裝了可以調節方向和高低的覘孔
   - [KRISS Vector衝鋒槍](../Page/KRISS_Vector衝鋒槍.md "wikilink")
   - [PP-19野牛冲锋枪](../Page/PP-19野牛冲锋枪.md "wikilink")
   - [PP-19-01勇士衝鋒槍](../Page/PP-19-01勇士衝鋒槍.md "wikilink")
-  - [SIG MPX衝鋒槍](https://zh.wikipedia.org/wiki/SIG_MPX衝鋒槍 "wikilink")
+  - [SIG MPX衝鋒槍](../Page/SIG_MPX衝鋒槍.md "wikilink")
 
 ## 資料來源
 

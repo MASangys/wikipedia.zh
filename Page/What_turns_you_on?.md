@@ -13,7 +13,7 @@ on?》的發行消息與其首個專輯細節。其後專輯所有版本的封�
 
   - 初回限定盤A（編號：WPZL-30682/3）：此版本包括一片收錄12首歌的CD及一片收錄3首在2012年8月12日於[國立代代木競技場第一體育館舉行的](../Page/國立代代木競技場.md "wikilink")《Charge
     Go\! Weider in Jelly Rock Nation》現場演出曲目和《One More
-    Time》[音樂錄影帶與製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")。初回限定盤A另外加收《[Robot](https://zh.wikipedia.org/wiki/Robot_\(CNBLUE單曲\) "wikilink")》的英文版本\[4\]。
+    Time》[音樂錄影帶與製作花絮的DVD](../Page/音樂錄影帶.md "wikilink")。初回限定盤A另外加收《[Robot](../Page/Robot_\(CNBLUE單曲\).md "wikilink")》的英文版本\[4\]。
 
 <!-- end list -->
 
@@ -40,16 +40,16 @@ Know》；宗泫則創作了《Blind Love》、《Crying Out》、《I Can't Bel
 3首歌曲曾以單曲形式發行：
 
 首張單曲
-《[Robot](https://zh.wikipedia.org/wiki/Robot_\(CNBLUE單曲\) "wikilink")》在2012年12月19日發行。這歌曲由容和創作，並交由Kosuke
+《[Robot](../Page/Robot_\(CNBLUE單曲\).md "wikilink")》在2012年12月19日發行。這歌曲由容和創作，並交由Kosuke
 Oba將歌詞翻譯成日文，打入了[Oricon單曲榜第二名](../Page/Oricon.md "wikilink")，首週銷售42,563張及在榜停留7星期\[8\]。B面歌曲《Starlit
 Night》也出現在《What turns you on?》的第10首位置，英語版的《Robot》則當作附贈曲目收錄在初回限定盤A中。
 
 第二張單曲《[Blind
-Love](https://zh.wikipedia.org/wiki/Blind_Love_\(CNBLUE單曲\) "wikilink")》2013年4月24日發行。這首歌由宗泫創作，Vinyl
+Love](../Page/Blind_Love_\(CNBLUE單曲\).md "wikilink")》2013年4月24日發行。這首歌由宗泫創作，Vinyl
 House合作作曲，打入了[Oricon單曲榜第四名](../Page/Oricon.md "wikilink")，首週銷售47,577張及在榜停留9星期\[9\]。B面歌曲《Greedy
 Man》也出現在《What turns you on?》的第6首位置。
 
-第三張及最後一張單曲《[Lady](https://zh.wikipedia.org/wiki/Lady_\(CNBLUE單曲\) "wikilink")》在2013年7月31日發行。這首歌由容和及[朴賢宇](https://zh.wikipedia.org/wiki/朴賢宇 "wikilink")（）作曲，容和與Kosuke
+第三張及最後一張單曲《[Lady](../Page/Lady_\(CNBLUE單曲\).md "wikilink")》在2013年7月31日發行。這首歌由容和及[朴賢宇](https://zh.wikipedia.org/wiki/朴賢宇 "wikilink")（）作曲，容和與Kosuke
 Oba填詞，打入了[Oricon單曲榜第四名](../Page/Oricon.md "wikilink")，首週銷售42,169張\[10\]。B面歌曲《Don't
 Care》也出現在《What turns you on?》的第5首位置。
 

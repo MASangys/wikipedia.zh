@@ -57,7 +57,7 @@ RS參與[世界拉力錦標賽](https://zh.wikipedia.org/wiki/世界拉力錦標
 
 1993年 -
 10月7日大改款的第二代Legacy正式發表。未公開前照例在美國[猶他州波內維爾鹽原的](https://zh.wikipedia.org/wiki/猶他州 "wikilink")（Bonneville
-Speedway）測試，創下全世界旅行車最快的249.981km/hr紀錄。內外裝的設計由原[梅賽德斯-賓士主設計師](../Page/梅賽德斯-賓士.md "wikilink")[奧利佛·寶雷率領由土屋孝夫主管的開發團隊](https://zh.wikipedia.org/wiki/奧利佛·寶雷 "wikilink")，車身修飾得比上一代更圓潤，並同樣維持四門轎車、五門旅行車並行的車型設定。動力心臟捨去1.8L，維持2.0L和2.2L；變速系統則維持四速自動排檔或五速手動排檔二種。[FF驅動新增TCS循跡控制系統](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")，2.0L渦輪增壓、自排車型採VTD可變式扭力分配系統（Variable
+Speedway）測試，創下全世界旅行車最快的249.981km/hr紀錄。內外裝的設計由原[梅賽德斯-賓士主設計師](../Page/梅賽德斯-賓士.md "wikilink")[奧利佛·寶雷率領由土屋孝夫主管的開發團隊](../Page/奧利佛·寶雷.md "wikilink")，車身修飾得比上一代更圓潤，並同樣維持四門轎車、五門旅行車並行的車型設定。動力心臟捨去1.8L，維持2.0L和2.2L；變速系統則維持四速自動排檔或五速手動排檔二種。[FF驅動新增TCS循跡控制系統](https://zh.wikipedia.org/wiki/前置前驅 "wikilink")，2.0L渦輪增壓、自排車型採VTD可變式扭力分配系統（Variable
 Torque
 Distribution之縮寫）的[4WD](https://zh.wikipedia.org/wiki/四輪驅動 "wikilink")，其餘自排車型則使用ACT-4電子式前後扭力分配系統（Electro
 Active Torque-Split）。另外，五門旅行車「Brighton」、「Brighton
@@ -138,7 +138,7 @@ Image:Subaru Legacy front 20071228.jpg|四門轎車車頭 Image:Subaru Legacy re
 ### 第四代BL/BP系（2003年-2009年）
 
 2003年 -
-大改款的第四代Legacy正式上市。在開發主管清水一良與[希臘裔設計主管](https://zh.wikipedia.org/wiki/希臘 "wikilink")[安德烈斯·札琶提納斯](https://zh.wikipedia.org/wiki/安德烈斯·札琶提納斯 "wikilink")（Andreas
+大改款的第四代Legacy正式上市。在開發主管清水一良與[希臘裔設計主管](https://zh.wikipedia.org/wiki/希臘 "wikilink")[安德烈斯·札琶提納斯](../Page/安德烈斯·札琶提納斯.md "wikilink")（Andreas
 Zapatinas）的主導下，車身的摺線甚至C柱的傾斜度都有歐洲車的味道，與前代Legacy最明顯的差異在於淚滴式設計的頭燈組。車架搭配使用鋁合金材料及高張力鋼材，除了強化車身剛性，也比前代減輕了近100[公斤的](https://zh.wikipedia.org/wiki/公斤 "wikilink")[重量](../Page/重量.md "wikilink")。在內裝方面，由紅藍白三色構成的四環式鍍鉻外圈車用儀表、恆溫空調、鋸齒狀排檔座、內嵌式音響主機、三輻式[方向盤](https://zh.wikipedia.org/wiki/方向盤 "wikilink")、電動調整駕駛座、木紋或類金屬飾板、真皮座椅等皆為標準配備。
 
 第二、三代Legacy為了確保低、中轉速的扭力，採取含有兩顆大小不同的序列式雙渦輪增壓系統，但最大的缺點是動力輸出常有銜接不上的狀況。為了徹底解決這個問題，原廠決定改成使用雙渦流技術的單渦輪增壓[EJ20X/EJ20Y型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ20X型與EJ20Y型 "wikilink")，且配合電子節氣門控制，使得馬力更為提升。另外，此代Legacy亦使用和Impreza相同的等長等爆排氣歧管，預防「排氣干涉」的問題，提升燃燒效率。
@@ -236,7 +236,7 @@ sedan -- 07-11-2012.JPG Image:Subaru Legacy V Sedan interior - GMS
 2014年 -
 2月舉辦的[芝加哥車展上](https://zh.wikipedia.org/wiki/芝加哥車展 "wikilink")，原廠公開大改款的第六代Legacy。車身尺寸與前一代相去不遠，[軸距則沒有變動](https://zh.wikipedia.org/wiki/軸距 "wikilink")，車頭換上家族化的[六角形水箱護罩](https://zh.wikipedia.org/wiki/六边形 "wikilink")（附自動起閉功能〔Active
 Grille
-Shutter〕以降低風阻）及頭燈設計。由於2014年上市的[速霸陸Levorg](https://zh.wikipedia.org/wiki/速霸陸Levorg "wikilink")，自此代起取消五門[旅行車車型](../Page/旅行車.md "wikilink")，保留四門[轎車車型](https://zh.wikipedia.org/wiki/轎車 "wikilink")。在動力來源部分，日規版提供2.5L水平對臥四缸DOHC
+Shutter〕以降低風阻）及頭燈設計。由於2014年上市的[速霸陸Levorg](../Page/速霸陸Levorg.md "wikilink")，自此代起取消五門[旅行車車型](../Page/旅行車.md "wikilink")，保留四門[轎車車型](https://zh.wikipedia.org/wiki/轎車 "wikilink")。在動力來源部分，日規版提供2.5L水平對臥四缸DOHC
 [FB25型引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB25型 "wikilink")，美規版則多了3.6L[水平對臥六缸DOHC](../Page/水平對臥六缸引擎.md "wikilink")
 [EZ36型引擎之選擇](https://zh.wikipedia.org/wiki/速霸陸EZ族引擎#EZ36型 "wikilink")。二種動力皆換上[鋁合金引擎蓋](../Page/鋁合金.md "wikilink")，以減輕前軸的[重量](../Page/重量.md "wikilink")，並且搭配Symmetrical
 All-Wheel Drive四輪驅動系統及Lineartronic
@@ -260,7 +260,7 @@ B4 SporVita」特仕車，與義大利皮革廠Mario
 Levi合作，在座椅、車門內飾板、方向盤、排檔桿、前座中央扶手等處以棕褐色皮革與菱格紋縫線重新包覆。外觀則是換上全鍍鉻水箱護罩、鍍鉻前霧燈框及鋼琴黑底座、車尾鍍鉻飾條、車側鍍鉻後視鏡外殼等，以及四個採黑色高光澤塗裝的18吋10輻式鋁圈。
 
 2017年 -
-9月4日原廠發表小改款，10月5日上市\[16\]。EyeSight行車安全輔助系統新增倒車自動煞車功能，且全速域自動跟車的速域由0-100km/h提高至0-120km/h。重新設計的六角形細鍍鉻水箱罩、燻黑頭燈（具有自動遠近光燈功能）等，內裝中控台改用黑色鋼琴烤漆飾版輔以銀色框架，HVAC電腦恆溫空調系統面板、支援[蘋果](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[CarPlay及](https://zh.wikipedia.org/wiki/CarPlay "wikilink")[Android
+9月4日原廠發表小改款，10月5日上市\[16\]。EyeSight行車安全輔助系統新增倒車自動煞車功能，且全速域自動跟車的速域由0-100km/h提高至0-120km/h。重新設計的六角形細鍍鉻水箱罩、燻黑頭燈（具有自動遠近光燈功能）等，內裝中控台改用黑色鋼琴烤漆飾版輔以銀色框架，HVAC電腦恆溫空調系統面板、支援[蘋果](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[CarPlay及](../Page/CarPlay.md "wikilink")[Android
 Auto的](../Page/Android_Auto.md "wikilink")6.5吋車載系統或8吋車載附衛星導航系統，且中控台下方新增一對USB充電座。動力方面維持2.5L水平對臥四缸DOHC
 [FB25型引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB25型 "wikilink")，但透過輕量化及減少摩擦係數等工程，原廠聲稱更為安靜、加速更順暢。
 
@@ -283,7 +283,7 @@ LEGACY B4 (BN9) front.JPG Image:Subaru Legacy BN 002 China
 
   - [富士重工業](https://zh.wikipedia.org/wiki/富士重工業 "wikilink")
   - [速霸陸Outback](../Page/速霸陸Outback.md "wikilink")
-  - [速霸陸Levorg](https://zh.wikipedia.org/wiki/速霸陸Levorg "wikilink")
+  - [速霸陸Levorg](../Page/速霸陸Levorg.md "wikilink")
   - [速霸陸Baja](../Page/速霸陸Baja.md "wikilink")
 
 ## 參考資料

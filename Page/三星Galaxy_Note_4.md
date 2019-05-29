@@ -9,7 +9,7 @@ Alpha一样](../Page/三星Galaxy_Alpha.md "wikilink")，電池方面使用3000m
 
 Galaxy Note 4也采用金属边框，使其显得比前代[Galaxy Note
 3更加高档一些](https://zh.wikipedia.org/wiki/Galaxy_Note_3 "wikilink")，這次不僅推出黑，白兩色，更推出金色。同期最大競爭對手是[IPhone
-6以及IPhone](https://zh.wikipedia.org/wiki/IPhone_6 "wikilink") 6
+6以及IPhone](../Page/IPhone_6.md "wikilink") 6
 plus。此手機吸引許多三星粉絲和其他手機品牌用戶在發佈后的首賣會當天從凌晨开始排队抢购。
 
 ## 配置

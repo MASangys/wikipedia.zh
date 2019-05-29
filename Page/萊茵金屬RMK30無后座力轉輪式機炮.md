@@ -9,7 +9,7 @@
 RMK30機炮已被提議作為[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")（當代[德國軍隊](https://zh.wikipedia.org/wiki/德國軍隊 "wikilink")）所屬的歐直[虎式UHT型](https://zh.wikipedia.org/wiki/虎式直升機#虎式UHT型 "wikilink")[攻擊直升機的升級計劃的一環](https://zh.wikipedia.org/wiki/攻擊直升機 "wikilink")。UHT型目前仍然尚欠一門機頭機炮，因為德國軍隊對於安裝到其他版本的虎式直升機的機首[法國GIAT
 30毫米機炮炮塔的](../Page/GIAT_30機炮.md "wikilink")[後座力](../Page/後座力.md "wikilink")、[精確度和射程感到不滿](../Page/準確與精密.md "wikilink")。
 
-1996年，它亦被測試安裝在[黃鼠狼式裝甲武器運輸車](https://zh.wikipedia.org/wiki/鼬鼠_\(装甲车\) "wikilink")（，簡稱：Wiesel
+1996年，它亦被測試安裝在[黃鼠狼式裝甲武器運輸車](../Page/鼬鼠_\(装甲车\).md "wikilink")（，簡稱：Wiesel
 AWC）以上。\[4\]
 
 一個不尋常的研究（MORAINE項目）建議將RMK30機炮安裝在[212型](../Page/212型潛艇.md "wikilink")[潛艇的可伸縮式](../Page/潛艇.md "wikilink")[桅杆上](https://zh.wikipedia.org/wiki/桅杆 "wikilink")。這樣的桅杆會增強該潛艇的火力，因為目前它缺乏適當的手段以打擊小型水面目標或只是用作警告射擊。這項研究直接涉及到[MURAENA機炮系統的概念](https://zh.wikipedia.org/wiki/MURAENA機炮系統 "wikilink")。
@@ -47,7 +47,7 @@ AWC）以上。\[4\]
 
   - [希普諾夫2A42機炮](../Page/希普諾夫2A42機炮.md "wikilink")
 
-  - [希普諾夫2A72機炮](https://zh.wikipedia.org/wiki/希普諾夫2A72機炮 "wikilink")
+  - [希普諾夫2A72機炮](../Page/希普諾夫2A72機炮.md "wikilink")
 
 ## 資料來源
 

@@ -1,4 +1,4 @@
-是由[日本天然王子公司](../Page/日本.md "wikilink")（Tennenouji）在2009年6月10日所发售的18禁[BL游戏](https://zh.wikipedia.org/wiki/BL_\(和製英語\) "wikilink")。
+是由[日本天然王子公司](../Page/日本.md "wikilink")（Tennenouji）在2009年6月10日所发售的18禁[BL游戏](../Page/BL_\(和製英語\).md "wikilink")。
 2011年8月5日為了記念製作二周年而發行了續作『Gian･carlo'S LUCKY HAPPY LIFE』。
 
 ## 概要

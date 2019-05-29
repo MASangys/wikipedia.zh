@@ -9,7 +9,7 @@ Club](../Page/Rockstar_Games_Social_Club.md "wikilink")，即可在不同平台�
 
 ### 故事模式中也有登場
 
-[崔佛·菲利普](https://zh.wikipedia.org/wiki/崔佛·菲利普 "wikilink")（指派玩家任務、搶劫任務「首輪募資」的總召集人。）
+[崔佛·菲利普](../Page/崔佛·菲利普.md "wikilink")（指派玩家任務、搶劫任務「首輪募資」的總召集人。）
 
 羅納多·雅考斯基（小羅）（指派玩家任務、在搶劫任務「首輪募資」中協助崔佛指揮玩家與規劃行動。）
 

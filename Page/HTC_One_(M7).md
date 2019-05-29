@@ -741,8 +741,7 @@ Wildfire](../Page/HTC_Wildfire.md "wikilink")
 
 ## 参见
 
-  - [HTC One
-    (M8)](https://zh.wikipedia.org/wiki/HTC_One_\(M8\) "wikilink")
+  - [HTC One (M8)](../Page/HTC_One_\(M8\).md "wikilink")
   - [HTC One Mini](../Page/HTC_One_Mini.md "wikilink")
   - [HTC One Max](../Page/HTC_One_Max.md "wikilink")
   - [HTC One 系列](../Page/HTC_One系列.md "wikilink")

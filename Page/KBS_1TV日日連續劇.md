@@ -629,7 +629,7 @@
 <td style="text-align: center;"><p><a href="../Page/加油，金先生！.md" title="wikilink">加油，金先生！</a><br />
 </p></td>
 <td style="text-align: center;"><p>124</p></td>
-<td style="text-align: center;"><p><a href="../Page/金烔完.md" title="wikilink">金烔完</a>、<a href="../Page/王智慧.md" title="wikilink">王智慧</a>、<a href="https://zh.wikipedia.org/wiki/崔貞允" title="wikilink">崔貞允</a>、<a href="../Page/楊鎮宇.md" title="wikilink">楊鎮宇</a>、<a href="../Page/金慧渲.md" title="wikilink">金慧渲</a>、<a href="https://zh.wikipedia.org/wiki/史美子" title="wikilink">史美子</a>、<a href="../Page/白一燮.md" title="wikilink">白一燮</a>、<a href="../Page/李正吉.md" title="wikilink">李正吉</a>、<a href="../Page/鄭再順.md" title="wikilink">鄭再順</a>、<a href="../Page/崔日和.md" title="wikilink">崔日和</a>、<a href="https://zh.wikipedia.org/wiki/李斗一" title="wikilink">李斗一</a>、<a href="https://zh.wikipedia.org/wiki/陳慶_(南韓)" title="wikilink">陳慶</a>、<a href="https://zh.wikipedia.org/wiki/康星民" title="wikilink">康星民</a>、<a href="../Page/金秀妍.md" title="wikilink">金秀妍</a>、<a href="https://zh.wikipedia.org/wiki/金德賢" title="wikilink">金德賢</a>、<a href="../Page/宋智恩.md" title="wikilink">宋書妍</a>、<a href="../Page/延俊錫.md" title="wikilink">延俊錫</a>、<a href="https://zh.wikipedia.org/wiki/徐智熙" title="wikilink">徐智熙</a>、<a href="../Page/盧正義.md" title="wikilink">盧正義</a>、<a href="../Page/吳在武.md" title="wikilink">吳在武</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金烔完.md" title="wikilink">金烔完</a>、<a href="../Page/王智慧.md" title="wikilink">王智慧</a>、<a href="https://zh.wikipedia.org/wiki/崔貞允" title="wikilink">崔貞允</a>、<a href="../Page/楊鎮宇.md" title="wikilink">楊鎮宇</a>、<a href="../Page/金慧渲.md" title="wikilink">金慧渲</a>、<a href="https://zh.wikipedia.org/wiki/史美子" title="wikilink">史美子</a>、<a href="../Page/白一燮.md" title="wikilink">白一燮</a>、<a href="../Page/李正吉.md" title="wikilink">李正吉</a>、<a href="../Page/鄭再順.md" title="wikilink">鄭再順</a>、<a href="../Page/崔日和.md" title="wikilink">崔日和</a>、<a href="https://zh.wikipedia.org/wiki/李斗一" title="wikilink">李斗一</a>、<a href="https://zh.wikipedia.org/wiki/陳慶_(南韓)" title="wikilink">陳慶</a>、<a href="https://zh.wikipedia.org/wiki/康星民" title="wikilink">康星民</a>、<a href="../Page/金秀妍.md" title="wikilink">金秀妍</a>、<a href="../Page/金德賢.md" title="wikilink">金德賢</a>、<a href="../Page/宋智恩.md" title="wikilink">宋書妍</a>、<a href="../Page/延俊錫.md" title="wikilink">延俊錫</a>、<a href="https://zh.wikipedia.org/wiki/徐智熙" title="wikilink">徐智熙</a>、<a href="../Page/盧正義.md" title="wikilink">盧正義</a>、<a href="../Page/吳在武.md" title="wikilink">吳在武</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/洪碩九.md" title="wikilink">洪碩九</a>、<a href="https://zh.wikipedia.org/wiki/金鐘淵" title="wikilink">金鐘淵</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/趙靜珠" title="wikilink">趙靜珠</a></p></td>
 <td style="text-align: center;"></td>
@@ -729,7 +729,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/我的愛屬於你" title="wikilink">我的愛屬於你</a><br />
 </p></td>
 <td style="text-align: center;"><p>120</p></td>
-<td style="text-align: center;"><p><a href="../Page/韓彩雅.md" title="wikilink">韓彩雅</a>、<a href="../Page/成赫.md" title="wikilink">成赫</a>、<a href="https://zh.wikipedia.org/wiki/池珠蓮" title="wikilink">池珠蓮</a>、<a href="https://zh.wikipedia.org/wiki/崔大哲" title="wikilink">崔大哲</a>、<a href="../Page/姜南吉.md" title="wikilink">姜南吉</a>、<a href="../Page/金海淑.md" title="wikilink">金海淑</a>、<a href="../Page/鄭漢溶.md" title="wikilink">鄭漢溶</a>、<a href="../Page/文熙景.md" title="wikilink">文熙景</a>、<a href="https://zh.wikipedia.org/wiki/史美子" title="wikilink">史美子</a>、<a href="../Page/李孝春.md" title="wikilink">李孝春</a>、<a href="https://zh.wikipedia.org/wiki/李瑩河" title="wikilink">李瑩河</a>、<a href="https://zh.wikipedia.org/wiki/金民教" title="wikilink">金民教</a>、<a href="https://zh.wikipedia.org/wiki/京仁善" title="wikilink">京仁善</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/韓彩雅.md" title="wikilink">韓彩雅</a>、<a href="../Page/成赫.md" title="wikilink">成赫</a>、<a href="https://zh.wikipedia.org/wiki/池珠蓮" title="wikilink">池珠蓮</a>、<a href="https://zh.wikipedia.org/wiki/崔大哲" title="wikilink">崔大哲</a>、<a href="../Page/姜南吉.md" title="wikilink">姜南吉</a>、<a href="../Page/金海淑.md" title="wikilink">金海淑</a>、<a href="../Page/鄭漢溶.md" title="wikilink">鄭漢溶</a>、<a href="../Page/文熙景.md" title="wikilink">文熙景</a>、<a href="https://zh.wikipedia.org/wiki/史美子" title="wikilink">史美子</a>、<a href="../Page/李孝春.md" title="wikilink">李孝春</a>、<a href="https://zh.wikipedia.org/wiki/李瑩河" title="wikilink">李瑩河</a>、<a href="../Page/金民教.md" title="wikilink">金民教</a>、<a href="https://zh.wikipedia.org/wiki/京仁善" title="wikilink">京仁善</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/陳亨旭.md" title="wikilink">陳亨旭</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/高鳳凰" title="wikilink">高鳳凰</a></p></td>
 <td style="text-align: center;"></td>
@@ -929,7 +929,7 @@
 <td style="text-align: center;"><p><a href="../Page/讓開，命運啊.md" title="wikilink">讓開，命運啊</a><br />
 </p></td>
 <td style="text-align: center;"><p>124</p></td>
-<td style="text-align: center;"><p><a href="../Page/朴胤載.md" title="wikilink">朴胤載</a>、<a href="../Page/徐孝琳.md" title="wikilink">徐孝琳</a>、<a href="../Page/康太成.md" title="wikilink">康太成</a>、<a href="https://zh.wikipedia.org/wiki/陳藝瑟" title="wikilink">陳藝瑟</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/朴胤載.md" title="wikilink">朴胤載</a>、<a href="../Page/徐孝琳.md" title="wikilink">徐孝琳</a>、<a href="../Page/康太成.md" title="wikilink">康太成</a>、<a href="../Page/陳藝瑟.md" title="wikilink">陳藝瑟</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/郭基元" title="wikilink">郭基元</a></p></td>
 <td style="text-align: center;"><p>朴啟馨</p></td>
 <td style="text-align: center;"></td>
@@ -987,12 +987,11 @@
 
 ## 相關項目
 
-  - [KBS
-    2TV日日連續劇](https://zh.wikipedia.org/wiki/KBS_2TV日日連續劇 "wikilink")
+  - [KBS 2TV日日連續劇](../Page/KBS_2TV日日連續劇.md "wikilink")
   - [MBC日日連續劇](../Page/MBC日日連續劇.md "wikilink")
   - [MBC日日特別企劃連續劇](../Page/MBC日日特別企劃連續劇.md "wikilink")
   - [SBS日日連續劇](../Page/SBS日日連續劇.md "wikilink")
-  - [JTBC日日連續劇](https://zh.wikipedia.org/wiki/JTBC日日連續劇 "wikilink")
+  - [JTBC日日連續劇](../Page/JTBC日日連續劇.md "wikilink")
 
 [Category:KBS_1TV日日連續劇](https://zh.wikipedia.org/wiki/Category:KBS_1TV日日連續劇 "wikilink")
 [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")

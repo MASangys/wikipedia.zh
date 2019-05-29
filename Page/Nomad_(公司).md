@@ -90,7 +90,7 @@ no radio**』已被配信。
     （總承包商：[龍之子製作公司](../Page/龍之子製作公司.md "wikilink")，各話協力製作，2011年－2012年）
   - [侵略\!?花枝娘](../Page/侵略！花枝娘.md "wikilink")（）（總承包商：diomedéa，各話協力製作，2011年）
   - [純白交響曲](../Page/純白交響曲.md "wikilink")（）（總承包商：[manglobe](https://zh.wikipedia.org/wiki/manglobe "wikilink")，各話協力製作，2011年）
-  - [惡魔高校D×D系列](https://zh.wikipedia.org/wiki/惡魔高校D×D "wikilink")（）系列（總承包商：[TNK](https://zh.wikipedia.org/wiki/TNK "wikilink")，各話協力製作）
+  - [惡魔高校D×D系列](https://zh.wikipedia.org/wiki/惡魔高校D×D "wikilink")（）系列（總承包商：[TNK](../Page/TNK.md "wikilink")，各話協力製作）
       - 惡魔高校D×D（2012年）
       - 惡魔高校D×D NEW（）（2013年）
   - [咲-Saki- 阿知賀編 episode of

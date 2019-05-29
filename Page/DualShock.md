@@ -1,5 +1,5 @@
 **DualShock**（最初名为**Dual Shock**；商标为**DUALSHOCK**或**DUAL
-SHOCK**）是[索尼互動娛樂为](../Page/索尼互動娛樂.md "wikilink")[PlayStation系列游戏机开发的一系列拥有](https://zh.wikipedia.org/wiki/PlayStation "wikilink")的[游戏手柄](https://zh.wikipedia.org/wiki/游戏手柄 "wikilink")\[1\]。初代DualShock控制器于1997年底在日本推出，1998年5月在北美市场推出，最初仅作为[初代PlayStation游戏机的的](../Page/PlayStation_\(遊戲機\).md "wikilink")发售；而后来的新版本PlayStation游戏机将DualShock控制器作为随机标配控制器发售，替代了原来游戏机标配的PlayStation控制器和。，除了随机标配的控制器以外，DualShock系列控制器的单独销售量超过2800万个。\[2\]
+SHOCK**）是[索尼互動娛樂为](../Page/索尼互動娛樂.md "wikilink")[PlayStation系列游戏机开发的一系列拥有](../Page/PlayStation.md "wikilink")的[游戏手柄](https://zh.wikipedia.org/wiki/游戏手柄 "wikilink")\[1\]。初代DualShock控制器于1997年底在日本推出，1998年5月在北美市场推出，最初仅作为[初代PlayStation游戏机的的](../Page/PlayStation_\(遊戲機\).md "wikilink")发售；而后来的新版本PlayStation游戏机将DualShock控制器作为随机标配控制器发售，替代了原来游戏机标配的PlayStation控制器和。，除了随机标配的控制器以外，DualShock系列控制器的单独销售量超过2800万个。\[2\]
 
 ## 控制器系列
 
@@ -157,7 +157,7 @@ V2于2016年9月15日发售。\[39\]
 还有一部分限量版DualShock 4，与机器或游戏捆绑销售，比如PlayStation 20周年[PlayStation
 4捆绑包](../Page/PlayStation_4.md "wikilink")、《》、《[蝙蝠俠：阿卡漢騎士](../Page/蝙蝠俠：阿卡漢騎士.md "wikilink")》、《[潛龍諜影V
 幻痛](../Page/潛龍諜影V_幻痛.md "wikilink")》、《[使命召唤：黑色行动III](../Page/使命召唤：黑色行动III.md "wikilink")》、\[47\]
-《[神秘海域4：盗贼末路](https://zh.wikipedia.org/wiki/神秘海域4：盗贼末路 "wikilink")》、《》、《[怪物猎人
+《[神秘海域4：盗贼末路](../Page/神秘海域4：盗贼末路.md "wikilink")》、《》、《[怪物猎人
 世界](../Page/怪物猎人_世界.md "wikilink")》和《[戰神](../Page/戰神_\(2018年遊戲\).md "wikilink")》[PlayStation
 4捆绑包中的限量DualShock](../Page/PlayStation_4.md "wikilink") 4控制器。
 

@@ -222,7 +222,7 @@
     第48話被Utopia Dopant吸走面孔，並進入身體機能停止的狀態。
 
 **照井 龍（てるい りゅう）**（[木之本岭浩](../Page/木之本岭浩.md "wikilink")
-飾/台灣配音：[鈕凱暘](https://zh.wikipedia.org/wiki/鈕凱暘 "wikilink")/香港配音：[關令翹](../Page/關令翹.md "wikilink")→[李致林](../Page/李致林.md "wikilink")）
+飾/台灣配音：[鈕凱暘](../Page/鈕凱暘.md "wikilink")/香港配音：[關令翹](../Page/關令翹.md "wikilink")→[李致林](../Page/李致林.md "wikilink")）
 
   -
     **假面騎士Accel**

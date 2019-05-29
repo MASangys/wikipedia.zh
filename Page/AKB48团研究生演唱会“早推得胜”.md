@@ -14,10 +14,10 @@ Group全体出演）中，发表了将要举办这场演唱会的消息，而在
 **团队所属以演出时为准**
 
   - AKB48
-      - 升格成员：[大森美優](https://zh.wikipedia.org/wiki/大森美優 "wikilink")（Team
+      - 升格成员：[大森美優](../Page/大森美優.md "wikilink")（Team
         B）、[佐佐木優佳里](../Page/佐佐木優佳里.md "wikilink")（Team
         A）、[平田梨奈](../Page/平田梨奈.md "wikilink")（Team K）。
-      - 研究生：[相笠萌](https://zh.wikipedia.org/wiki/相笠萌 "wikilink")、[岩立沙穂](https://zh.wikipedia.org/wiki/岩立沙穂 "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[北澤早紀](../Page/北澤早紀.md "wikilink")、[篠崎彩奈](https://zh.wikipedia.org/wiki/篠崎彩奈 "wikilink")、[高島祐利奈](https://zh.wikipedia.org/wiki/高島祐利奈 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")、[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[冈田奈奈](https://zh.wikipedia.org/wiki/冈田奈奈_\(AKB48\) "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[西野未姫](https://zh.wikipedia.org/wiki/西野未姫 "wikilink")、[橋本耀](../Page/橋本耀.md "wikilink")、[前田美月](https://zh.wikipedia.org/wiki/前田美月 "wikilink")、[市川愛美](https://zh.wikipedia.org/wiki/市川愛美 "wikilink")、[大和田南那](../Page/大和田南那.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")、[土保瑞希](../Page/土保瑞希.md "wikilink")、[福岡聖菜](../Page/福岡聖菜.md "wikilink")、[向井地美音](../Page/向井地美音.md "wikilink")、[湯本亚美](https://zh.wikipedia.org/wiki/湯本亚美 "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")。
+      - 研究生：[相笠萌](../Page/相笠萌.md "wikilink")、[岩立沙穂](https://zh.wikipedia.org/wiki/岩立沙穂 "wikilink")、[梅田綾乃](../Page/梅田綾乃.md "wikilink")、[岡田彩花](https://zh.wikipedia.org/wiki/岡田彩花 "wikilink")、[北澤早紀](../Page/北澤早紀.md "wikilink")、[篠崎彩奈](../Page/篠崎彩奈.md "wikilink")、[高島祐利奈](https://zh.wikipedia.org/wiki/高島祐利奈 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")、[茂木忍](../Page/茂木忍.md "wikilink")、[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[冈田奈奈](https://zh.wikipedia.org/wiki/冈田奈奈_\(AKB48\) "wikilink")、[小嶋真子](../Page/小嶋真子.md "wikilink")、[西野未姫](https://zh.wikipedia.org/wiki/西野未姫 "wikilink")、[橋本耀](../Page/橋本耀.md "wikilink")、[前田美月](https://zh.wikipedia.org/wiki/前田美月 "wikilink")、[市川愛美](../Page/市川愛美.md "wikilink")、[大和田南那](../Page/大和田南那.md "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")、[土保瑞希](../Page/土保瑞希.md "wikilink")、[福岡聖菜](../Page/福岡聖菜.md "wikilink")、[向井地美音](../Page/向井地美音.md "wikilink")、[湯本亚美](https://zh.wikipedia.org/wiki/湯本亚美 "wikilink")、[峯岸南](../Page/峯岸南.md "wikilink")。
   - SKE48
       - 升格成员：[東李苑](https://zh.wikipedia.org/wiki/東李苑 "wikilink")（Team
         E预定）、[市野成美](https://zh.wikipedia.org/wiki/市野成美 "wikilink")（Team

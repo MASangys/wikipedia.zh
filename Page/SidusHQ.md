@@ -112,7 +112,7 @@ Entertainment**（）是韓國一間[經紀公司](../Page/經紀公司.md "wiki
   - [朴美善](../Page/朴美善.md "wikilink")
   - 박미소
   - [朴敏英](https://zh.wikipedia.org/wiki/朴敏英 "wikilink")
-  - [朴寶劍](https://zh.wikipedia.org/wiki/朴寶劍 "wikilink")
+  - [朴寶劍](../Page/朴寶劍.md "wikilink")
   - 박잎선
   - [朴恩智](https://zh.wikipedia.org/wiki/朴恩智 "wikilink")
   - 박윤희

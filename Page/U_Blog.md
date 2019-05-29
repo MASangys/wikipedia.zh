@@ -1,9 +1,9 @@
 **U Blog**
 是香港一個**網上[博客平台](https://zh.wikipedia.org/wiki/博客 "wikilink")**，為[香港經濟日報集團有限公司](https://zh.wikipedia.org/wiki/香港經濟日報集團有限公司 "wikilink")\[1\]旗下[U
-Lifestyle](https://zh.wikipedia.org/wiki/U_Lifestyle "wikilink")\[2\]網站成員之一。
+Lifestyle](../Page/U_Lifestyle.md "wikilink")\[2\]網站成員之一。
 
 該網站可以讓[U
-Lifestyle會員免費上載個人文章](https://zh.wikipedia.org/wiki/U_Lifestyle "wikilink")，分享各類個人生活相關體驗，包括[旅遊](https://zh.wikipedia.org/wiki/旅遊 "wikilink")、[美容](../Page/美容.md "wikilink")、[飲食及其他分享如](https://zh.wikipedia.org/wiki/飲食 "wikilink")[玩樂](https://zh.wikipedia.org/wiki/玩樂 "wikilink")、[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")、[潮流等](https://zh.wikipedia.org/wiki/潮流 "wikilink")。
+Lifestyle會員免費上載個人文章](../Page/U_Lifestyle.md "wikilink")，分享各類個人生活相關體驗，包括[旅遊](https://zh.wikipedia.org/wiki/旅遊 "wikilink")、[美容](../Page/美容.md "wikilink")、[飲食及其他分享如](https://zh.wikipedia.org/wiki/飲食 "wikilink")[玩樂](https://zh.wikipedia.org/wiki/玩樂 "wikilink")、[科技](https://zh.wikipedia.org/wiki/科技 "wikilink")、[潮流等](https://zh.wikipedia.org/wiki/潮流 "wikilink")。
 
 ## 歷史
 

@@ -791,7 +791,7 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
   - 音樂製作人：山田智子、長美郁、外村敬一
   - 執行製作人：佐佐木新、丸山博雄
   - 製作人：小形尚弘、前田俊博、菊川裕之
-  - 製作協力：[創通](https://zh.wikipedia.org/wiki/創通 "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")
+  - 製作協力：[創通](../Page/創通.md "wikilink")、[ADK](https://zh.wikipedia.org/wiki/ADK "wikilink")
   - 製作：[日昇動畫](../Page/日昇動畫.md "wikilink")、[每日放送](../Page/每日放送.md "wikilink")
 
 ## 主題曲
@@ -799,7 +799,7 @@ Battery），故被視為聖地。其守護組織「中樞衛隊」候補生貝�
 ### 片頭曲
 
   - 「BLAZING」（第1－13話）
-    作詞：[水橋舞](../Page/水橋舞.md "wikilink")，作曲：[阿部尚徳](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")，編曲、主唱：[GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")
+    作詞：[水橋舞](../Page/水橋舞.md "wikilink")，作曲：[阿部尚徳](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")，編曲、主唱：[GARNiDELiA](../Page/GARNiDELiA.md "wikilink")
 
 <!-- end list -->
 

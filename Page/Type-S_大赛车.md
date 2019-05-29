@@ -42,7 +42,7 @@ Revolution认为图形](https://zh.wikipedia.org/wiki/Game_Revolution "wikilink"
 在游戏可玩性方面，GameSpot和IGN认为日版游戏“没法玩”，二者认为西方版有所改进，尽管游戏仍然“离应有的感觉还非常远”\[33\]\[34\]。此外，Game
 Revolution认为车辆默认设置失衡且难以调整恰当，同时评论和Allgame与IGN都批评了游戏前后矛盾的[人工智能](../Page/人工智能.md "wikilink")（AI）\[35\]\[36\]\[37\]。《Fami通》报告了游戏的长载入时间以及高难度，称因游戏操作的难度，作品更面向[模拟竞速而非](https://zh.wikipedia.org/wiki/模拟竞速 "wikilink")[街机式操作的爱好者](https://zh.wikipedia.org/wiki/街机飞行 "wikilink")\[38\]。《Game
 Informer》和GameZone赞同Fami通的评论，称载入时间很快成为“游戏结束的噩梦”，并称游戏操作“棘手”“紧张”以及“创新”，但他们也承认，大多数玩家只会认为它太具挑战性令人沮丧，而没了兴趣\[39\]\[40\]。虽然《Game
-Informer》称“一款驾驶模拟爱好者的杰作埋葬在这里”，但Allgamer和英国杂志《[电脑与电子游戏](https://zh.wikipedia.org/wiki/电脑与电子游戏 "wikilink")》的凭借更为消极，称车辆“在其轮胎上似乎太轻了”，“感觉就像你在冰面上驾驶”\[41\]\[42\]。《电脑与电子游戏》的评论最为苛刻，给游戏打出了1.0/10分，称其索然无味并列为“PS2最糟糕的驾驶游戏”\[43\]。
+Informer》称“一款驾驶模拟爱好者的杰作埋葬在这里”，但Allgamer和英国杂志《[电脑与电子游戏](../Page/电脑与电子游戏.md "wikilink")》的凭借更为消极，称车辆“在其轮胎上似乎太轻了”，“感觉就像你在冰面上驾驶”\[41\]\[42\]。《电脑与电子游戏》的评论最为苛刻，给游戏打出了1.0/10分，称其索然无味并列为“PS2最糟糕的驾驶游戏”\[43\]。
 
 对游戏音效的评论也褒贬不一。Chudah's Corner对游戏音乐表示称赞，称其为游戏的“可取之处”以及“它自己的奇迹”，《Game
 Informer》也称其“相当不错”，但认为史克威尔应该延揽大乐队来与竞争系列[GT赛车的音乐对抗](https://zh.wikipedia.org/wiki/GT赛车系列 "wikilink")\[44\]\[45\]。GameSpot称音乐“精彩，尽管不完美”，并也认为和《[GT赛车2](https://zh.wikipedia.org/wiki/GT赛车2 "wikilink")》、《[山脊赛车4](https://zh.wikipedia.org/wiki/山脊赛车4 "wikilink")》或《山脊赛车V》。该网站称赞游戏环境音效逼真精细，但IGN和GameZone认为其声音太小且“无甚特别”\[46\]\[47\]\[48\]。GameZone、Game

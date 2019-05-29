@@ -25,7 +25,7 @@ JS
 JS
 7.62毫米狙击步枪的铝合金下[护木采用悬臂形式装上](https://zh.wikipedia.org/wiki/护木 "wikilink")，三角形下护手握持牢靠有力；而[两脚架以螺钉固定在悬臂式铝合金下护木的前端](https://zh.wikipedia.org/wiki/两脚架 "wikilink")，可向后折叠。两脚架避免了在枪管上增力附件，以提高其射击精度。手枪握把前方设有[手指凹槽的设计以便握持](https://zh.wikipedia.org/wiki/手指凹槽 "wikilink")，射击时也比较稳定和准确。使用者可根据自身射击习惯调节扳机力大小。较长的拉机柄的优点是闭锁动作比较省力，缺点是容易勾挂，研究所正考虑将其减短。\[12\]
 
-机匣顶部固定了一段[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，由于沒有[機械瞄具](../Page/機械瞄具.md "wikilink")（[照門及](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")），必需品利用这战术导轨以安装不同类型的日间／夜间[光學狙擊鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[热成像仪](../Page/热成像仪.md "wikilink")，例如为JS
+机匣顶部固定了一段[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，由于沒有[機械瞄具](../Page/機械瞄具.md "wikilink")（[照門及](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")），必需品利用这战术导轨以安装不同类型的日间／夜间[光學狙擊鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[热成像仪](../Page/热成像仪.md "wikilink")，例如为JS
 7.62毫米狙击步枪而研制的3～9倍变倍白光及夜间狙击镜。\[13\]
 
 下護手和機匣以及鎗托部件與機匣的連接方式都采用了空心銷。空心銷連接屬於過盈配合，不僅具有彈性，而且更加牢固。該銷拆卸後可重複使用。適用於連接面較大的部件。實心銷拆卸方便，但是不能重複使用。適用於連接面較小的部件。

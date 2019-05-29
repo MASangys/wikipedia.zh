@@ -1,6 +1,6 @@
 是一款由Libertine Open Fonts
 Project创造的数码字体，以创造[专有字体](../Page/专有软件.md "wikilink")（如[Times
-Roman](https://zh.wikipedia.org/wiki/Times_Roman "wikilink")）的[自由和开放的替代品为目标](https://zh.wikipedia.org/wiki/FOSS "wikilink")。该字体以自由字体编辑器[FontForge开发](https://zh.wikipedia.org/wiki/FontForge "wikilink")，并以[GNU通用公共许可协议和](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")[SIL開源字體授權许可](https://zh.wikipedia.org/wiki/SIL開源字體授權 "wikilink")。\[1\]
+Roman](https://zh.wikipedia.org/wiki/Times_Roman "wikilink")）的[自由和开放的替代品为目标](https://zh.wikipedia.org/wiki/FOSS "wikilink")。该字体以自由字体编辑器[FontForge开发](../Page/FontForge.md "wikilink")，并以[GNU通用公共许可协议和](https://zh.wikipedia.org/wiki/GNU通用公共许可协议 "wikilink")[SIL開源字體授權许可](https://zh.wikipedia.org/wiki/SIL開源字體授權 "wikilink")。\[1\]
 
 ## 特性
 

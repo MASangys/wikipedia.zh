@@ -397,7 +397,7 @@ BEAST+](../Page/洛克人EXE_BEAST+.md "wikilink")》的登場人物及角色。
   -
     [\#福音會參照](https://zh.wikipedia.org/wiki/#福音會 "wikilink")。
 
-**犬飼猛雄**（配音員：[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")（日本）／[梁志達](../Page/梁志達.md "wikilink")（香港））
+**犬飼猛雄**（配音員：[梁田清之](../Page/梁田清之.md "wikilink")（日本）／[梁志達](../Page/梁志達.md "wikilink")（香港））
 
   -
     新WWW成員，外表高大、魁梧、壯碩。
@@ -422,7 +422,7 @@ BEAST+](../Page/洛克人EXE_BEAST+.md "wikilink")》的登場人物及角色。
   -
     新WWW成員。
 
-**沙漠人**（配音員：[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")（日本）／[陳卓智](../Page/陳卓智.md "wikilink")（香港））
+**沙漠人**（配音員：[梁田清之](../Page/梁田清之.md "wikilink")（日本）／[陳卓智](../Page/陳卓智.md "wikilink")（香港））
 
   -
     初登場時為黑暗機械生命體，被消滅後於第三季被迪奧作為砂山登的行星生命體復活，沒有黑暗機械生命體時期記憶，最後再次被消滅。

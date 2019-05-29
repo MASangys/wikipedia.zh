@@ -27,7 +27,7 @@ Man](../Page/Running_Man.md "wikilink")》則停播\[12\]。
 
 21日，第二季正式首播。因轉播仁川亞運會多場賽事實況，《星期天真好》時段提前播出，本節目變更至同日15:20-17:00播出\[13\]。
 
-28日，因轉播仁川亞運會[棒球決賽](https://zh.wikipedia.org/wiki/2014年亞洲運動會棒球比賽 "wikilink")，《星期天真好》時段作出調整，本節目停播，而二部《[Running
+28日，因轉播仁川亞運會[棒球決賽](../Page/2014年亞洲運動會棒球比賽.md "wikilink")，《星期天真好》時段作出調整，本節目停播，而二部《[Running
 Man](../Page/Running_Man.md "wikilink")》則變更至同日16:30-18:00播出\[14\]。
 
 11月25日，本節目變更至逢星期二深夜11時15分作獨立播出。
@@ -385,7 +385,7 @@ Man](../Page/Running_Man.md "wikilink")》則變更至同日16:30-18:00播出\[1
 新成員事前準備及採訪；朴俊亨、大谷亮平、李國主、Sunny、Jackson街頭初見面，曹世鎬、朴敏雨專車接送入住；裴宗玉、齡智入住，重新分配房間；入住歡迎派對。</p></td>
 </tr>
 <tr class="even">
-<td><p>因轉播<a href="https://zh.wikipedia.org/wiki/2014年亞洲運動會" title="wikilink">仁川亞運會</a><a href="https://zh.wikipedia.org/wiki/2014年亞洲運動會棒球比賽" title="wikilink">棒球決賽</a>，節目停播一週。</p></td>
+<td><p>因轉播<a href="https://zh.wikipedia.org/wiki/2014年亞洲運動會" title="wikilink">仁川亞運會</a><a href="../Page/2014年亞洲運動會棒球比賽.md" title="wikilink">棒球決賽</a>，節目停播一週。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -423,7 +423,7 @@ Man](../Page/Running_Man.md "wikilink")》則變更至同日16:30-18:00播出\[1
 <td><p>27</p></td>
 <td><p>11月9日</p></td>
 <td><p><strong>第27話：男生時間vs女生時間<small>（）</small></strong><br />
-李國主、Sunny與NaNa的假日約會，<a href="../Page/塔羅牌.md" title="wikilink">塔羅占卜</a>，電話相親；曹世鎬、Jackson與2號房的運動日，滑板遊戲；舞蹈及節奏口技時間；<a href="../Page/朴玄彬.md" title="wikilink">朴玄彬到訪</a>，演歌教室；李棟旭於<a href="../Page/仁川廣域市.md" title="wikilink">仁川拍攝</a><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2劇集</a>《<a href="https://zh.wikipedia.org/wiki/鋼鐵人_(電視劇)" title="wikilink">鋼鐵人</a>》，曹世鎬、李國主與Jackson前往探班，<a href="../Page/申世景.md" title="wikilink">申世景驚喜出演</a>。</p></td>
+李國主、Sunny與NaNa的假日約會，<a href="../Page/塔羅牌.md" title="wikilink">塔羅占卜</a>，電話相親；曹世鎬、Jackson與2號房的運動日，滑板遊戲；舞蹈及節奏口技時間；<a href="../Page/朴玄彬.md" title="wikilink">朴玄彬到訪</a>，演歌教室；李棟旭於<a href="../Page/仁川廣域市.md" title="wikilink">仁川拍攝</a><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS2劇集</a>《<a href="../Page/鋼鐵人_(電視劇).md" title="wikilink">鋼鐵人</a>》，曹世鎬、李國主與Jackson前往探班，<a href="../Page/申世景.md" title="wikilink">申世景驚喜出演</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>28</p></td>
@@ -476,7 +476,7 @@ Man](../Page/Running_Man.md "wikilink")》則變更至同日16:30-18:00播出\[1
 <td><p>34</p></td>
 <td><p>1月6日</p></td>
 <td><p><strong>新年特輯 第34話：純白冬日，烏黑冬日<small>（）</small></strong><br />
-曹世鎬邀請作客，NaNa指導曹世鎬、李國主與張叡元練習《2014 <a href="https://zh.wikipedia.org/wiki/SBS演藝大賞" title="wikilink">SBS演藝大賞</a>》表演節目；為北井村居民親自配送蜂窩煤，支援軍<a href="../Page/GOT7.md" title="wikilink">GOT7成員</a>（<a href="https://zh.wikipedia.org/wiki/段宜恩" title="wikilink">Mark</a>、<a href="../Page/朴珍榮.md" title="wikilink">Junior</a>、<a href="../Page/BamBam.md" title="wikilink">BamBam</a>、<a href="https://zh.wikipedia.org/wiki/金有謙" title="wikilink">Yugyeom</a>、<a href="../Page/崔榮宰.md" title="wikilink">Youngjae</a>）、<a href="../Page/南昶熙.md" title="wikilink">南昶熙</a>、、<a href="../Page/5urprise.md" title="wikilink">5urprise成員</a>（唯一、孔明）到場協助；李棟旭、曹世鎬、徐康俊與Jackson到公眾澡堂洗漱；朴俊亨、大谷亮平與李棟旭的篝火對話。</p></td>
+曹世鎬邀請作客，NaNa指導曹世鎬、李國主與張叡元練習《2014 <a href="https://zh.wikipedia.org/wiki/SBS演藝大賞" title="wikilink">SBS演藝大賞</a>》表演節目；為北井村居民親自配送蜂窩煤，支援軍<a href="../Page/GOT7.md" title="wikilink">GOT7成員</a>（<a href="../Page/段宜恩.md" title="wikilink">Mark</a>、<a href="../Page/朴珍榮.md" title="wikilink">Junior</a>、<a href="../Page/BamBam.md" title="wikilink">BamBam</a>、<a href="../Page/金有謙.md" title="wikilink">Yugyeom</a>、<a href="../Page/崔榮宰.md" title="wikilink">Youngjae</a>）、<a href="../Page/南昶熙.md" title="wikilink">南昶熙</a>、、<a href="../Page/5urprise.md" title="wikilink">5urprise成員</a>（唯一、孔明）到場協助；李棟旭、曹世鎬、徐康俊與Jackson到公眾澡堂洗漱；朴俊亨、大谷亮平與李棟旭的篝火對話。</p></td>
 </tr>
 <tr class="even">
 <td><p>35</p></td>
@@ -591,7 +591,7 @@ Jackson的外國友人<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" titl
 <td><p>21</p></td>
 </tr>
 <tr class="even">
-<td><p>因轉播<a href="https://zh.wikipedia.org/wiki/2014年亞洲運動會" title="wikilink">仁川亞運會</a><a href="https://zh.wikipedia.org/wiki/2014年亞洲運動會棒球比賽" title="wikilink">棒球決賽</a>，節目停播一週。</p></td>
+<td><p>因轉播<a href="https://zh.wikipedia.org/wiki/2014年亞洲運動會" title="wikilink">仁川亞運會</a><a href="../Page/2014年亞洲運動會棒球比賽.md" title="wikilink">棒球決賽</a>，節目停播一週。</p></td>
 </tr>
 <tr class="odd">
 <td><p>22</p></td>

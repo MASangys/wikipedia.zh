@@ -320,7 +320,7 @@ void foo(){
 
 ## 参见
 
-  - [RAII](https://zh.wikipedia.org/wiki/RAII "wikilink")
+  - [RAII](../Page/RAII.md "wikilink")
 
   - [分配器 (C++)](../Page/分配器_\(C++\).md "wikilink")
 

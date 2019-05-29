@@ -39,7 +39,7 @@ MATE 1.20 於2018年2月7日釋出。可通過以下 Linux 發行版的官方資
 
   - [Arch Linux](../Page/Arch_Linux.md "wikilink")
   - [Alpine Linux](../Page/Alpine_Linux.md "wikilink")
-  - [Antergos](https://zh.wikipedia.org/wiki/Antergos "wikilink")
+  - [Antergos](../Page/Antergos.md "wikilink")
   - [AOSC](https://aosc.io)
   - [Debian](../Page/Debian.md "wikilink")
   - [Fedora](../Page/Fedora.md "wikilink")
@@ -68,7 +68,7 @@ MATE 1.20 於2018年2月7日釋出。可通過以下 Linux 發行版的官方資
 
 BSD
 
-  - [GhostBSD](https://zh.wikipedia.org/wiki/GhostBSD "wikilink")
+  - [GhostBSD](../Page/GhostBSD.md "wikilink")
   - [FreeBSD](../Page/FreeBSD.md "wikilink")
   - [OpenIndiana](../Page/OpenIndiana.md "wikilink")
   - [PC-BSD](https://zh.wikipedia.org/wiki/PC-BSD "wikilink")

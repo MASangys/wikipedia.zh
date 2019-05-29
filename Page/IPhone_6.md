@@ -2,7 +2,7 @@
 Plus**，分別是美国[苹果公司于](https://zh.wikipedia.org/wiki/苹果公司 "wikilink")2014年9月推出兩種款式的智能手机，這是蘋果首次推出4吋以上的大螢幕手機，其中iPhone
 6屏幕大小是4.7吋，而iPhone 6 Plus是5.5吋，\[1\]\[2\]兩者均搭载[iOS
 8系统及新一代](https://zh.wikipedia.org/wiki/iOS_8 "wikilink")[Apple
-A8处理器](https://zh.wikipedia.org/wiki/Apple_A8 "wikilink")，同属于[iPhone系列的第八世代](https://zh.wikipedia.org/wiki/iPhone "wikilink")。
+A8处理器](../Page/Apple_A8.md "wikilink")，同属于[iPhone系列的第八世代](https://zh.wikipedia.org/wiki/iPhone "wikilink")。
 
 ## 產量
 

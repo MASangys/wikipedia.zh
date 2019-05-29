@@ -257,7 +257,7 @@ IBEX
 </tr>
 <tr class="odd">
 <td><p>MAP</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/曼弗雷" title="wikilink">曼弗雷</a></p></td>
+<td><p><a href="../Page/曼弗雷.md" title="wikilink">曼弗雷</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/马哈达翁达" title="wikilink">马哈达翁达</a></p></td>
 <td><p>金融</p></td>
 <td><p><a href="http://www.bolsamadrid.es/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0124244E34">ES0124244E34</a></p></td>
@@ -289,7 +289,7 @@ IBEX
 </tr>
 <tr class="odd">
 <td><p>NTGY</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天然氣公司" title="wikilink">天然氣公司</a></p></td>
+<td><p><a href="../Page/天然氣公司.md" title="wikilink">天然氣公司</a></p></td>
 <td><p><a href="../Page/马德里.md" title="wikilink">马德里</a></p></td>
 <td><p>能源</p></td>
 <td><p><a href="http://www.bolsamadrid.es/esp/aspx/Empresas/FichaValor.aspx?ISIN=ES0116870314">ES0116870314</a></p></td>

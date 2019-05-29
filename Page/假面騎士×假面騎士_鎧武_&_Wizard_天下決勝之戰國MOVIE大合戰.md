@@ -173,7 +173,7 @@
     街舞團體「因維托隊」的領隊。
     代表團體參戰鬥技大會「戰極Battle Royale」。
 
-**DJ相樂（）**（[山口智充飾](https://zh.wikipedia.org/wiki/山口智充 "wikilink")）
+**DJ相樂（）**（[山口智充飾](../Page/山口智充.md "wikilink")）
 
   -
     澤芽市中廣播地下電台節目「Beat Riders Hotline」的唱片騎師。
@@ -762,7 +762,7 @@ Fourze鎧甲</p></td>
   - Peco -  飾
   - 初瀬亮二 / 假面騎士黑影 -  飾/聲
   - 城乃内秀保 / 假面騎士古列頓 -  飾/聲
-  - DJ相樂 - [山口智充](https://zh.wikipedia.org/wiki/山口智充 "wikilink") 飾
+  - DJ相樂 - [山口智充](../Page/山口智充.md "wikilink") 飾
   - 「Team.波普起躍（Popup）」 - [KAMEN RIDER
     GIRLS](https://zh.wikipedia.org/wiki/KAMEN_RIDER_GIRLS "wikilink")（安田奈央、吉住繪里加、名倉かおり、井坂仁美、遠藤三貴、秋田知里、鷲見友美Jiena）飾
   - 「Team.蒼天」 - THE☆JACABAL'S（重住綾、阿部Potato、綿屋十目治、竹本洋平、真山奈緒）飾

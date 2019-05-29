@@ -294,7 +294,7 @@ J联赛每个赛季结束后，会颁布一系列奖项，统称为“[J联赛�
 <td><p><a href="https://zh.wikipedia.org/wiki/莱昂德罗•多明戈斯•巴博萨" title="wikilink">莱昂德罗•多明戈斯</a>（<a href="https://zh.wikipedia.org/wiki/柏雷素尔队" title="wikilink">柏</a>）<br />
  <a href="../Page/遠藤保仁.md" title="wikilink">遠藤保仁</a>（<a href="https://zh.wikipedia.org/wiki/大阪飞脚队" title="wikilink">G大阪</a>）<br />
  <a href="../Page/青山敏弘.md" title="wikilink">青山敏弘</a>（<a href="https://zh.wikipedia.org/wiki/广岛三箭队" title="wikilink">广岛</a>）<br />
- <a href="https://zh.wikipedia.org/wiki/高萩洋次郎" title="wikilink">高萩洋次郎</a>（<a href="https://zh.wikipedia.org/wiki/广岛三箭队" title="wikilink">广岛</a>）</p></td>
+ <a href="../Page/高萩洋次郎.md" title="wikilink">高萩洋次郎</a>（<a href="https://zh.wikipedia.org/wiki/广岛三箭队" title="wikilink">广岛</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/威尔森•罗德里格斯•丰塞卡" title="wikilink">威尔森</a>（<a href="https://zh.wikipedia.org/wiki/仙台维加泰队" title="wikilink">仙台</a>）<br />
  <a href="../Page/佐藤寿人.md" title="wikilink">佐藤寿人</a>（<a href="https://zh.wikipedia.org/wiki/广岛三箭队" title="wikilink">广岛</a>）<br />
  <a href="https://zh.wikipedia.org/wiki/豊田陽平" title="wikilink">豊田陽平</a>（<a href="https://zh.wikipedia.org/wiki/鸟栖砂岩队" title="wikilink">鳥栖</a>）</p></td>

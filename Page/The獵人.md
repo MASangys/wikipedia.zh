@@ -6,7 +6,7 @@
   - [藤井隆](https://zh.wikipedia.org/wiki/藤井隆 "wikilink")
   - [椿鬼奴](https://zh.wikipedia.org/wiki/椿鬼奴 "wikilink")
   - [バッファロー吾郎](https://zh.wikipedia.org/wiki/バッファロー吾郎 "wikilink")（[木村明浩](https://zh.wikipedia.org/wiki/木村明浩 "wikilink")・[竹若元博](https://zh.wikipedia.org/wiki/竹若元博 "wikilink")）
-  - [神田沙也加](https://zh.wikipedia.org/wiki/神田沙也加 "wikilink")（2011年10月 -）
+  - [神田沙也加](../Page/神田沙也加.md "wikilink")（2011年10月 -）
 
 ## 節目前半企劃
 

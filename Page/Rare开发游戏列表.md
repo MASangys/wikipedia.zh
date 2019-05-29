@@ -840,7 +840,7 @@
 <td><p>《<a href="../Page/鬼屋大冒险.md" title="wikilink">Grabbed by the Ghoulies</a>》</p></td>
 <td><p>《鬼屋大冒险》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/打斗游戏" title="wikilink">打斗</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a></p></td>
+<td><p><a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/微软游戏工作室" title="wikilink">微软游戏工作室</a></p></td>
 <td><p>2003[103]</p></td>
 </tr>
@@ -889,7 +889,7 @@
 <td><p>《坏松鼠：重装上阵》<br />
 《百戰壞松鼠》</p></td>
 <td><p><a href="../Page/动作游戏.md" title="wikilink">动作</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox" title="wikilink">Xbox</a></p></td>
+<td><p><a href="../Page/Xbox.md" title="wikilink">Xbox</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/微软游戏工作室" title="wikilink">微软游戏工作室</a></p></td>
 <td><p>2005[109]</p></td>
 </tr>

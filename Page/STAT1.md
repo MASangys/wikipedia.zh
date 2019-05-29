@@ -1,5 +1,5 @@
-**STAT1**是[转录因子中](../Page/转录因子.md "wikilink")[信号转导及转录激活蛋白](../Page/信号转导及转录激活蛋白.md "wikilink")（STAT蛋白）家族的一员。STAT1涉及[I型](https://zh.wikipedia.org/wiki/I型干扰素 "wikilink")、[II型或](https://zh.wikipedia.org/wiki/II型干扰素 "wikilink")[III型](https://zh.wikipedia.org/wiki/III型干扰素 "wikilink")[干扰素激活基因的正调控](../Page/干扰素.md "wikilink")。在[干扰素-γ刺激下](../Page/干扰素伽玛.md "wikilink")，STAT1会组成同源二聚体或与[STAT3组成异二聚体结合到](https://zh.wikipedia.org/wiki/STAT3 "wikilink")**GAS**（Interferon-**G**amma-**A**ctivated
-**S**equence，干扰素γ激活序列）启动子上；而在[干扰素-α或干扰素-β刺激下](https://zh.wikipedia.org/wiki/I型干扰素 "wikilink")，STAT1会与[STAT2组成异二聚体结合到](https://zh.wikipedia.org/wiki/STAT2 "wikilink")**ISRE**（**I**nterferon-**S**timulated
+**STAT1**是[转录因子中](../Page/转录因子.md "wikilink")[信号转导及转录激活蛋白](../Page/信号转导及转录激活蛋白.md "wikilink")（STAT蛋白）家族的一员。STAT1涉及[I型](https://zh.wikipedia.org/wiki/I型干扰素 "wikilink")、[II型或](https://zh.wikipedia.org/wiki/II型干扰素 "wikilink")[III型](https://zh.wikipedia.org/wiki/III型干扰素 "wikilink")[干扰素激活基因的正调控](../Page/干扰素.md "wikilink")。在[干扰素-γ刺激下](../Page/干扰素伽玛.md "wikilink")，STAT1会组成同源二聚体或与[STAT3组成异二聚体结合到](../Page/STAT3.md "wikilink")**GAS**（Interferon-**G**amma-**A**ctivated
+**S**equence，干扰素γ激活序列）启动子上；而在[干扰素-α或干扰素-β刺激下](https://zh.wikipedia.org/wiki/I型干扰素 "wikilink")，STAT1会与[STAT2组成异二聚体结合到](../Page/STAT2.md "wikilink")**ISRE**（**I**nterferon-**S**timulated
 **R**esponse
 **E**lement，干扰素激活反应元件）启动子上\[1\]。在这两种情况下，STAT二聚体与启动子的结合都会导致**ISG**（**I**nterferon-**S**timulated
 **G**enes，干扰素激活基因）的表达。
@@ -18,11 +18,11 @@ STAT1能与下列蛋白质发生[相互作用](../Page/蛋白質交互作用.md 
 
   - [IRF1](https://zh.wikipedia.org/wiki/IRF1 "wikilink")\[7\]
 
-  - [STAT3](https://zh.wikipedia.org/wiki/STAT3 "wikilink")\[8\]\[9\]\[10\]
+  - [STAT3](../Page/STAT3.md "wikilink")\[8\]\[9\]\[10\]
 
   - [MCM5](https://zh.wikipedia.org/wiki/MCM5 "wikilink")\[11\]\[12\]
 
-  - [STAT2](https://zh.wikipedia.org/wiki/STAT2 "wikilink")\[13\]\[14\]\[15\]
+  - [STAT2](../Page/STAT2.md "wikilink")\[13\]\[14\]\[15\]
 
   - [CD117](https://zh.wikipedia.org/wiki/CD117 "wikilink")\[16\]
 

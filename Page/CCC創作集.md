@@ -203,7 +203,7 @@ Comic Collection
 <!-- end list -->
 
   - 〈人與地的交會〉 畫/
-    YinYin、氫酸鉀、[NIN](https://zh.wikipedia.org/wiki/NIN "wikilink")、B.c.N.y.、慕夜、lyrince、LONLON、Salah.D、A士、蚩尤
+    YinYin、氫酸鉀、[NIN](../Page/NIN.md "wikilink")、B.c.N.y.、慕夜、lyrince、LONLON、Salah.D、A士、蚩尤
   - 〈鵝鑾鼻燈塔的故事〉 畫/ 捲貓
   - 〈裨海紀遊〉 畫/ 柘榴
   - 〈樓友在臺南〉 畫/ 咖哩東

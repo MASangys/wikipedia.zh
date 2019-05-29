@@ -221,7 +221,7 @@ CANYON](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
   - SCHOOL OF LOCK\!の夏夜祭チャクラナイトVol1「bump.yのでこぼこ夏の補習授業」（2010年8月14日、KDDI
     Designing Studio）
   - 2010動物感謝デー in
-    JAPAN（2010年10月2日、[駒澤奧林匹克公園](https://zh.wikipedia.org/wiki/駒澤奧林匹克公園 "wikilink")）
+    JAPAN（2010年10月2日、[駒澤奧林匹克公園](../Page/駒澤奧林匹克公園.md "wikilink")）
   - Tokyo Tower Birthday &
     X'masLive（2010年12月23日、[東京鐵塔正面入口特設舞台](https://zh.wikipedia.org/wiki/東京鐵塔 "wikilink")）
   - 汐博2011 IN SHIODOME-AX bump.yデビュー1周年記念イベント - Kiss\!まであっ～という間ですっ\!\! -

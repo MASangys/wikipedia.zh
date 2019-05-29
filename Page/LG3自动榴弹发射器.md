@@ -149,7 +149,7 @@ LG3配用的弹药主要有新研制的杀伤弹、破甲杀伤弹、训练弹�
   - [LG4转轮式榴弹发射器](../Page/LG4转轮式榴弹发射器.md "wikilink")
   - [LG5狙击榴弹发射器](../Page/LG5狙击榴弹发射器.md "wikilink")
   - [LG6半自动榴弹发射器](../Page/LG6半自动榴弹发射器.md "wikilink")
-  - [M75](../Page/M75自動榴彈發射器.md "wikilink")、[M129](https://zh.wikipedia.org/wiki/M129自動榴彈發射器 "wikilink")
+  - [M75](../Page/M75自動榴彈發射器.md "wikilink")、[M129](../Page/M129自動榴彈發射器.md "wikilink")
   - [Mk 19](../Page/Mk_19自動榴彈發射器.md "wikilink")、[Mk
     47](../Page/Mk_47自動榴彈發射器.md "wikilink")
   - [AGS-17](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")、[AGS-30](../Page/AGS-30阿特蘭自動榴彈發射器.md "wikilink")

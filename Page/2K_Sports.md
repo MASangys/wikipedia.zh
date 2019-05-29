@@ -16,7 +16,7 @@ Concepts，涉足的题材有橄榄球、篮球、冰球、棒球与网球。当
 Concepts还只是一个不隶属于任何一家公司的独立工作室，而游戏发行交给了世嘉美国，在Visual
 Concepts游戏取得一系列成功之后，世嘉收购了Visual
 Concepts。2005年，世嘉由于在次世代主机争霸中战败等原因，世嘉在北美的分公司世嘉美国被迫解散。世嘉美国总裁Peter
-Moore转投[Xbox阵营](https://zh.wikipedia.org/wiki/Xbox "wikilink")，而Sega
+Moore转投[Xbox阵营](../Page/Xbox.md "wikilink")，而Sega
 Sports则连同制作体育竞技游戏的Visual
 Concepts工作室都一同卖给了以《[侠盗猎车手](https://zh.wikipedia.org/wiki/侠盗猎车手系列 "wikilink")》系列最为知名的游戏发行商Take-Two
 Interactive。伴随着对Visual Concepts的收购，Take-Two Interactive同时创立了一个全新的发行品牌2K

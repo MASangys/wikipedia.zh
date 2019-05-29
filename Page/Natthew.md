@@ -89,8 +89,8 @@ Bad》。
 
 ## 影視作品
 
-  - 2013年：Mnet《[Monstar](https://zh.wikipedia.org/wiki/Monstar "wikilink")》飾演
-    Nawin Thammarat
+  - 2013年：Mnet《[Monstar](../Page/Monstar.md "wikilink")》飾演 Nawin
+    Thammarat
   - 2018年泰國one 31《[情鎖靈怨](../Page/情鎖靈怨.md "wikilink")》
 
 ## 演唱會

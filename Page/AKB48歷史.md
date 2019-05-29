@@ -454,7 +454,7 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 <!-- end list -->
 
   - 2月17日,
-    AKB48的6位成員[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[藤江麗奈](../Page/藤江麗奈.md "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[川榮李奈](../Page/川榮李奈.md "wikilink")、[森川彩香和](https://zh.wikipedia.org/wiki/森川彩香 "wikilink")[名取稚菜抵達北京](https://zh.wikipedia.org/wiki/名取稚菜 "wikilink")，以「活力日本啦啦隊」的身份，為在北京舉行的「活力日本展」的宣傳進行了一場小型演出。然而，到機場接機僅有10多名歌迷，反應出乎意料的冷淡。AKB48這6位成員的到來，同時是「中日建交40周年」的一種親善擧動。領隊[梅田彩佳更對中國給與日本震災的援助表示感謝](../Page/梅田彩佳.md "wikilink")\[72\]\[73\]\[74\]。
+    AKB48的6位成員[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[藤江麗奈](../Page/藤江麗奈.md "wikilink")、[仁藤萌乃](../Page/仁藤萌乃.md "wikilink")、[川榮李奈](../Page/川榮李奈.md "wikilink")、[森川彩香和](../Page/森川彩香.md "wikilink")[名取稚菜抵達北京](../Page/名取稚菜.md "wikilink")，以「活力日本啦啦隊」的身份，為在北京舉行的「活力日本展」的宣傳進行了一場小型演出。然而，到機場接機僅有10多名歌迷，反應出乎意料的冷淡。AKB48這6位成員的到來，同時是「中日建交40周年」的一種親善擧動。領隊[梅田彩佳更對中國給與日本震災的援助表示感謝](../Page/梅田彩佳.md "wikilink")\[72\]\[73\]\[74\]。
 
 <!-- end list -->
 
@@ -697,7 +697,7 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 
   - 1月23 - 26日，於東京巨蛋城表演廳舉辦「[AKB48 重溫時間 最佳曲目200
     2014（200位-101位）](../Page/AKB48_重溫時間_最佳曲目200_2014.md "wikilink")」。在初日的公演前記者會中宣布將增添第5組子團「Team
-    8」，計畫要從全國47都道府縣中各別選出代表參加甄選，並強調她們將成為「近距離的偶像」，未來會走遍全國和粉絲見面，交通車輛則由[TOYOTA全面支援](https://zh.wikipedia.org/wiki/TOYOTA "wikilink")\[98\]。另外在第四日演唱會中宣布將於2月24日舉辦「[AKB48集團大組閣祭](https://zh.wikipedia.org/wiki/AKB48集團大組閣祭 "wikilink")」\[99\]。
+    8」，計畫要從全國47都道府縣中各別選出代表參加甄選，並強調她們將成為「近距離的偶像」，未來會走遍全國和粉絲見面，交通車輛則由[TOYOTA全面支援](https://zh.wikipedia.org/wiki/TOYOTA "wikilink")\[98\]。另外在第四日演唱會中宣布將於2月24日舉辦「[AKB48集團大組閣祭](../Page/AKB48集團大組閣祭.md "wikilink")」\[99\]。
 
 <!-- end list -->
 
@@ -765,7 +765,7 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 
 <!-- end list -->
 
-  - 11月26日，第38張單曲《[希望無限](../Page/希望無限.md "wikilink")》（）發行，此外NHK也於同日發表了AKB48將作為紅組的一員連續六年第七次出演[第65回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰 "wikilink")，本次除AKB48入圍外，姐妹團SKE48、NMB48與HKT48皆入選其中，是AKB48集團首次全團皆獲邀登上紅白歌合戰的舞台\[123\]。
+  - 11月26日，第38張單曲《[希望無限](../Page/希望無限.md "wikilink")》（）發行，此外NHK也於同日發表了AKB48將作為紅組的一員連續六年第七次出演[第65回NHK紅白歌合戰](../Page/第65回NHK紅白歌合戰.md "wikilink")，本次除AKB48入圍外，姐妹團SKE48、NMB48與HKT48皆入選其中，是AKB48集團首次全團皆獲邀登上紅白歌合戰的舞台\[123\]。
 
 <!-- end list -->
 
@@ -777,7 +777,7 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 
 <!-- end list -->
 
-  - 12月31日，參加[第65回NHK紅白歌合戰](https://zh.wikipedia.org/wiki/第65回NHK紅白歌合戰 "wikilink")。
+  - 12月31日，參加[第65回NHK紅白歌合戰](../Page/第65回NHK紅白歌合戰.md "wikilink")。
 
 ## 2015年
 
@@ -840,7 +840,7 @@ FIVE\!](../Page/GIVE_ME_FIVE!.md "wikilink")》的AKB48[秋葉原官方專門店
 
 <!-- end list -->
 
-  - 4月17日，發布工作人員的人事異動，廢除AKB48集團總管理人一職，原AKB48集團管理人[茅野忍兼任的AKB](https://zh.wikipedia.org/wiki/茅野忍 "wikilink")48劇場經理一职，由[細井孝宏出任](https://zh.wikipedia.org/wiki/細井孝宏 "wikilink")，而茅野則專任AKB48集團服裝部總負責人與創意總監\[157\]。
+  - 4月17日，發布工作人員的人事異動，廢除AKB48集團總管理人一職，原AKB48集團管理人[茅野忍兼任的AKB](../Page/茅野忍.md "wikilink")48劇場經理一职，由[細井孝宏出任](https://zh.wikipedia.org/wiki/細井孝宏 "wikilink")，而茅野則專任AKB48集團服裝部總負責人與創意總監\[157\]。
 
 <!-- end list -->
 

@@ -120,7 +120,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 </tr>
 <tr class="odd">
 <td><p>3月31日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/COLORFUL_POP" title="wikilink">COLORFUL POP</a></p></td>
+<td><p><a href="../Page/COLORFUL_POP.md" title="wikilink">COLORFUL POP</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/E-girls" title="wikilink">E-girls</a></p></td>
 <td><p>原創</p></td>
 <td><p>9.0</p></td>
@@ -168,7 +168,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 </tr>
 <tr class="odd">
 <td><p>5月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/冰雪奇緣_(原聲帶)" title="wikilink">冰雪奇緣原聲大碟</a></p></td>
+<td><p><a href="../Page/冰雪奇緣_(原聲帶).md" title="wikilink">冰雪奇緣原聲大碟</a></p></td>
 <td><p>群星</p></td>
 <td><p>原聲</p></td>
 <td><p>15.3</p></td>
@@ -288,7 +288,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 </tr>
 <tr class="even">
 <td><p>8月26日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/世界的中心是大阪_～難波自治區～" title="wikilink">世界的中心是大阪 ～難波自治區～</a></p></td>
+<td><p><a href="../Page/世界的中心是大阪_～難波自治區～.md" title="wikilink">世界的中心是大阪 ～難波自治區～</a></p></td>
 <td><p><a href="../Page/NMB48.md" title="wikilink">NMB48</a></p></td>
 <td><p>原創</p></td>
 <td><p>32.5</p></td>
@@ -336,7 +336,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 </tr>
 <tr class="even">
 <td><p>10月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/I&#39;m_Your_Boy" title="wikilink">I'm Your Boy</a></p></td>
+<td><p><a href="../Page/I&#39;m_Your_Boy.md" title="wikilink">I'm Your Boy</a></p></td>
 <td><p><a href="../Page/SHINee.md" title="wikilink">SHINee</a></p></td>
 <td><p>原創</p></td>
 <td><p>4.5</p></td>
@@ -344,7 +344,7 @@ IMPACT](https://zh.wikipedia.org/wiki/THE_BEST_/_BLUE_IMPACT "wikilink")》（4�
 </tr>
 <tr class="odd">
 <td><p>10月13日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/GOLD_SYMPHONY" title="wikilink">GOLD SYMPHONY</a></p></td>
+<td><p><a href="../Page/GOLD_SYMPHONY.md" title="wikilink">GOLD SYMPHONY</a></p></td>
 <td><p><a href="../Page/AAA_(團體).md" title="wikilink">AAA</a></p></td>
 <td><p>原創</p></td>
 <td><p>5.9</p></td>

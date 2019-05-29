@@ -9,7 +9,7 @@ One遊戲](../Page/Xbox_One.md "wikilink")。
     One[系統平台獨佔](https://zh.wikipedia.org/wiki/系統平台 "wikilink")
   - **微軟**意味着僅在[微軟的平台擁有該遊戲](https://zh.wikipedia.org/wiki/微軟 "wikilink")（包括：Xbox
     One、[Xbox
-    360](../Page/Xbox_360.md "wikilink")、[Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Windows
+    360](../Page/Xbox_360.md "wikilink")、[Xbox](../Page/Xbox.md "wikilink")、[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")、[Windows
     Phone](../Page/Windows_Phone.md "wikilink")）
   - **主機**意味着其他[遊戲主機上面沒有此遊戲](https://zh.wikipedia.org/wiki/遊戲主機 "wikilink")，但在電腦或其他平台擁有此遊戲
   - **限時**意味着Xbox One僅獨佔該遊戲一段時間，但過後該遊戲也在其他平台放出
@@ -652,7 +652,7 @@ Studio Wildcard</p></td>
 <td><p>Metro Exodus <a href="../Page/戰慄深隧：流亡.md" title="wikilink">戰慄深隧：流亡</a></p></td>
 <td><p>第一人稱射擊、生存恐怖</p></td>
 <td><p><a href="../Page/4A_Games.md" title="wikilink">4A Games</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1408,7 +1408,7 @@ Studio Wildcard</p></td>
 <td><p><a href="../Page/天国：拯救.md" title="wikilink">天国：拯救</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/动作角色扮演游戏" title="wikilink">动作角色扮演</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Warhorse_Studios" title="wikilink">Warhorse Studios</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<td><p><a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1880,7 +1880,7 @@ Studio Wildcard</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Action_game" title="wikilink">Action</a>, <a href="https://zh.wikipedia.org/wiki/Shooter_game" title="wikilink">Shooter</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EA_Digital_Illusions_CE" title="wikilink">EA Digital Illusions CE</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/藝電" title="wikilink">藝電</a><br />
-<a href="https://zh.wikipedia.org/wiki/LucasArts" title="wikilink">LucasArts</a></p></td>
+<a href="../Page/LucasArts.md" title="wikilink">LucasArts</a></p></td>
 <td></td>
 <td></td>
 <td></td>

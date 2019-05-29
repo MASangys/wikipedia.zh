@@ -91,7 +91,7 @@
 <td style="text-align: center;"><p>21</p></td>
 <td style="text-align: center;"><p><a href="../Page/高雅羅.md" title="wikilink">高雅羅</a>、<a href="../Page/鄭宇.md" title="wikilink">鄭宇</a>、<a href="https://zh.wikipedia.org/wiki/柳演錫" title="wikilink">柳演錫</a>、<a href="../Page/金成均.md" title="wikilink">金成均</a>、<a href="https://zh.wikipedia.org/wiki/孫浩俊" title="wikilink">孫浩俊</a>、<a href="../Page/Baro.md" title="wikilink">Baro</a>、<a href="../Page/閔都凞.md" title="wikilink">閔都凞</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/申元浩.md" title="wikilink">申元浩</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李祐汀" title="wikilink">李祐汀</a>、<a href="https://zh.wikipedia.org/wiki/李新惠" title="wikilink">李新惠</a>、<a href="https://zh.wikipedia.org/wiki/金大洲" title="wikilink">金大洲</a>、<a href="https://zh.wikipedia.org/wiki/金蘭珠" title="wikilink">金蘭珠</a>、<a href="https://zh.wikipedia.org/wiki/鄭甫訓" title="wikilink">鄭甫訓</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李祐汀.md" title="wikilink">李祐汀</a>、<a href="https://zh.wikipedia.org/wiki/李新惠" title="wikilink">李新惠</a>、<a href="https://zh.wikipedia.org/wiki/金大洲" title="wikilink">金大洲</a>、<a href="https://zh.wikipedia.org/wiki/金蘭珠" title="wikilink">金蘭珠</a>、<a href="https://zh.wikipedia.org/wiki/鄭甫訓" title="wikilink">鄭甫訓</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -161,7 +161,7 @@
 <td style="text-align: center;"><p><a href="../Page/九數少年.md" title="wikilink">九數少年</a><br />
 </p></td>
 <td style="text-align: center;"><p>14</p></td>
-<td style="text-align: center;"><p><a href="../Page/金英光.md" title="wikilink">金英光</a>、<a href="../Page/景收真.md" title="wikilink">景收真</a>、<a href="../Page/吳正世.md" title="wikilink">吳正世</a>、<a href="../Page/劉多仁.md" title="wikilink">劉多仁</a>、<a href="../Page/陸星材.md" title="wikilink">陸星材</a>、<a href="../Page/朴初瓏.md" title="wikilink">朴初瓏</a>、<a href="https://zh.wikipedia.org/wiki/崔魯雲" title="wikilink">崔魯雲</a>、<a href="https://zh.wikipedia.org/wiki/李彩薇" title="wikilink">李彩薇</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金英光.md" title="wikilink">金英光</a>、<a href="../Page/景收真.md" title="wikilink">景收真</a>、<a href="../Page/吳正世.md" title="wikilink">吳正世</a>、<a href="../Page/劉多仁.md" title="wikilink">劉多仁</a>、<a href="../Page/陸星材.md" title="wikilink">陸星材</a>、<a href="../Page/朴初瓏.md" title="wikilink">朴初瓏</a>、<a href="https://zh.wikipedia.org/wiki/崔魯雲" title="wikilink">崔魯雲</a>、<a href="../Page/李彩薇.md" title="wikilink">李彩薇</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/劉鶴贊" title="wikilink">劉鶴贊</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴有美" title="wikilink">朴有美</a></p></td>
 <td style="text-align: center;"></td>
@@ -268,7 +268,7 @@
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/成東日" title="wikilink">成東日</a>、<a href="../Page/李一花.md" title="wikilink">李一花</a>、<a href="../Page/羅美蘭.md" title="wikilink">羅美蘭</a>、<a href="../Page/金成均.md" title="wikilink">金成均</a>、<a href="https://zh.wikipedia.org/wiki/崔茂成" title="wikilink">崔茂成</a>、<a href="../Page/金善映.md" title="wikilink">金善映</a>、<a href="../Page/劉在明.md" title="wikilink">劉在明</a>、<a href="../Page/柳惠英.md" title="wikilink">柳惠英</a>、<a href="../Page/惠利.md" title="wikilink">李惠利</a>、<a href="../Page/高庚杓.md" title="wikilink">高庚杓</a>、<a href="../Page/柳俊烈.md" title="wikilink">柳俊烈</a>、<a href="../Page/朴寶劍.md" title="wikilink">朴寶劍</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/申元浩.md" title="wikilink">申元浩</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李祐汀" title="wikilink">李祐汀</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李祐汀.md" title="wikilink">李祐汀</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

@@ -4,9 +4,9 @@ zone发行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 ## 概要
 
-这首单曲距上张单曲《[为何我会喜欢上你？](https://zh.wikipedia.org/wiki/为何我会喜欢上你？ "wikilink")》（）发行相隔约3个月，是组合2008年第4张单曲。
+这首单曲距上张单曲《[为何我会喜欢上你？](../Page/为何我会喜欢上你？.md "wikilink")》（）发行相隔约3个月，是组合2008年第4张单曲。
 
-单曲分为“CD+DVD”“只CD”两种版本发行，前者有收录《魔咒-MIROTIC-》的MV与MV的拍摄过程（只在初回限定盘中收录），后者则收录有第23张单曲《[为何我会喜欢上你？](https://zh.wikipedia.org/wiki/为何我会喜欢上你？ "wikilink")》（）的混音版本。初回限定版本封入特典是封面大小的卡片（6种中随机封入1种），“只CD”版本有12页豪华手册同捆封入。
+单曲分为“CD+DVD”“只CD”两种版本发行，前者有收录《魔咒-MIROTIC-》的MV与MV的拍摄过程（只在初回限定盘中收录），后者则收录有第23张单曲《[为何我会喜欢上你？](../Page/为何我会喜欢上你？.md "wikilink")》（）的混音版本。初回限定版本封入特典是封面大小的卡片（6种中随机封入1种），“只CD”版本有12页豪华手册同捆封入。
 
 ## 收录歌曲
 
@@ -15,8 +15,7 @@ zone发行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 1.  《魔咒-MIROTIC-》
       - 作詞: 、作曲: Sigvardt、Mikkel Remee、Secon、Lucas、Troelsen, Thomas、編曲:
         [Yoo, young jin](https://zh.wikipedia.org/wiki/俞永鎮 "wikilink")
-2.  《[为何我会喜欢上你？](https://zh.wikipedia.org/wiki/为何我会喜欢上你？ "wikilink")》（）
-    -THE LEVEL remix-
+2.  《[为何我会喜欢上你？](../Page/为何我会喜欢上你？.md "wikilink")》（） -THE LEVEL remix-
       - 作詞：[Lambsey](../Page/Lambsey.md "wikilink")、作曲：Sylvia
         Bennett-Smith, Fredrik“Fredro”Odesjo, Mats Berntoft、混音：THE
         LEVEL)

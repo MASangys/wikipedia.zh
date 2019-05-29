@@ -1,7 +1,7 @@
 **Ladies'
 Code**（）是[韓國Ilgwang](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 Polaris
-Entertainment公司旗下的[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，成員包含Ashley（[崔嬪娜](https://zh.wikipedia.org/wiki/崔嬪娜 "wikilink")）、Rise（[權梨世](../Page/權梨世.md "wikilink")）、EunB（[高恩妃](https://zh.wikipedia.org/wiki/高恩妃 "wikilink")）、So
+Entertainment公司旗下的[女子團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，成員包含Ashley（[崔嬪娜](https://zh.wikipedia.org/wiki/崔嬪娜 "wikilink")）、Rise（[權梨世](../Page/權梨世.md "wikilink")）、EunB（[高恩妃](../Page/高恩妃.md "wikilink")）、So
 Jung（[李昭政](../Page/李昭政.md "wikilink")）及Zuny（[金主美](https://zh.wikipedia.org/wiki/金主美 "wikilink")）。现以Ashley、So
 Jung和Zuny三人陣容活動中。
 
@@ -358,23 +358,23 @@ Rain〉，是一首能凸顯Ladies' Code獨特風格的感性舞曲。
 
 ### 綜藝節目
 
-|       |                                                                   |                                                    |                                                       |         |
-| ----- | ----------------------------------------------------------------- | -------------------------------------------------- | ----------------------------------------------------- | ------- |
-| 日期    | 電視台                                                               | 節目名稱                                               | 參與成員                                                  | 集數      |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《挑戰千曲》                                             | 昭政、[梨世](../Page/權梨世.md "wikilink")                    | 243、244 |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《[Running Man](../Page/Running_Man.md "wikilink")》 | [梨世](../Page/權梨世.md "wikilink")                       | 149     |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《一週的偶像》                                            | 全員                                                    | 8       |
-| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 《Mamma Mia》                                        | [梨世](../Page/權梨世.md "wikilink")                       | 9       |
-| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《挑戰千曲》                                             | 昭政、[恩妃](https://zh.wikipedia.org/wiki/高恩妃 "wikilink") | 255     |
-| 2013年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》 | 全員                                                    | 117     |
-| 2014年 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《After School Club》                                | 全員                                                    | 49      |
-| 2014年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《Idol School》                                      | 全員                                                    | 7       |
-| 2014年 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《New Secret Box》                                   | 全員                                                    | 2720    |
-| 2016年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》   | 昭政                                                    | 48      |
-| 2016年 | [JTBC](../Page/JTBC.md "wikilink")                                | 《[Girl Spirit](../Page/Girl_Spirit.md "wikilink")》 | 昭政                                                    | 1-11    |
-| 2017年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》 | Ashley、昭政、Zuny                                        | 285     |
-| 2019年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》 | Ashley、昭政、Zuny                                        | 399     |
-|       |                                                                   |                                                    |                                                       |         |
+|       |                                                                   |                                                    |                                    |         |
+| ----- | ----------------------------------------------------------------- | -------------------------------------------------- | ---------------------------------- | ------- |
+| 日期    | 電視台                                                               | 節目名稱                                               | 參與成員                               | 集數      |
+| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《挑戰千曲》                                             | 昭政、[梨世](../Page/權梨世.md "wikilink") | 243、244 |
+| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《[Running Man](../Page/Running_Man.md "wikilink")》 | [梨世](../Page/權梨世.md "wikilink")    | 149     |
+| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《一週的偶像》                                            | 全員                                 | 8       |
+| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 《Mamma Mia》                                        | [梨世](../Page/權梨世.md "wikilink")    | 9       |
+| 2013年 | [SBS](../Page/SBS_\(韓國\).md "wikilink")                           | 《挑戰千曲》                                             | 昭政、[恩妃](../Page/高恩妃.md "wikilink") | 255     |
+| 2013年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[Weekly Idol](../Page/Weekly_Idol.md "wikilink")》 | 全員                                 | 117     |
+| 2014年 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《After School Club》                                | 全員                                 | 49      |
+| 2014年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《Idol School》                                      | 全員                                 | 7       |
+| 2014年 | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《New Secret Box》                                   | 全員                                 | 2720    |
+| 2016年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")               | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》   | 昭政                                 | 48      |
+| 2016年 | [JTBC](../Page/JTBC.md "wikilink")                                | 《[Girl Spirit](../Page/Girl_Spirit.md "wikilink")》 | 昭政                                 | 1-11    |
+| 2017年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》 | Ashley、昭政、Zuny                     | 285     |
+| 2019年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》 | Ashley、昭政、Zuny                     | 399     |
+|       |                                                                   |                                                    |                                    |         |
 
 ### 戲劇
 
@@ -500,7 +500,7 @@ bye」表達了粉絲沉重的心情，所以使此曲登上共9個音源網站�
 Music等。\[6\]
 
 9月5日，恩妃的靈堂設立在高麗大學安岩醫院，曾發生車禍的「[Super
-Junior](../Page/Super_Junior.md "wikilink")」、「[Dal★Shabet](../Page/Dal★Shabet.md "wikilink")」、「[BESTie](https://zh.wikipedia.org/wiki/BESTie "wikilink")」等團陸續到場致哀，而受較輕傷的成員Ashley和Zuny亦有到場，恩妃9月5日的早上8時出殯，火葬後骨灰安厝[京畿道](../Page/京畿道.md "wikilink")[廣州市](https://zh.wikipedia.org/wiki/廣州市_\(京畿道\) "wikilink")[盆唐天城追悼公園](../Page/盆唐區.md "wikilink")。\[7\]而成員李昭政在同日手術成功，但因怕她無法承受，所以尚未被告知隊友恩妃逝世的事，可是最後因爲看到工作人員穿著黑色衣服而得知成員[恩妃死亡](https://zh.wikipedia.org/wiki/高恩妃 "wikilink")。而成員梨世，因腦水腫情況不樂觀，還在加護病房。\[8\]
+Junior](../Page/Super_Junior.md "wikilink")」、「[Dal★Shabet](../Page/Dal★Shabet.md "wikilink")」、「[BESTie](../Page/BESTie.md "wikilink")」等團陸續到場致哀，而受較輕傷的成員Ashley和Zuny亦有到場，恩妃9月5日的早上8時出殯，火葬後骨灰安厝[京畿道](../Page/京畿道.md "wikilink")[廣州市](https://zh.wikipedia.org/wiki/廣州市_\(京畿道\) "wikilink")[盆唐天城追悼公園](../Page/盆唐區.md "wikilink")。\[7\]而成員李昭政在同日手術成功，但因怕她無法承受，所以尚未被告知隊友恩妃逝世的事，可是最後因爲看到工作人員穿著黑色衣服而得知成員[恩妃死亡](../Page/高恩妃.md "wikilink")。而成員梨世，因腦水腫情況不樂觀，還在加護病房。\[8\]
 
 ### 權梨世車禍傷重身亡
 

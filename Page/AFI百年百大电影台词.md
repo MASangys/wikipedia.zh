@@ -843,7 +843,7 @@ Striker: "Surely you can't be serious." Rumack: "I am serious...and don't call m
 <td><p><a href="../Page/誰在一壘？.md" title="wikilink">誰在一壘？</a><br />
 "Who's on first?"</p></td>
 <td><p>德克斯特</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/巴德·阿伯特" title="wikilink">巴德·阿伯特</a></p></td>
+<td><p><a href="../Page/巴德·阿伯特.md" title="wikilink">巴德·阿伯特</a></p></td>
 <td><p>《》</p></td>
 <td><p>1945年</p></td>
 </tr>

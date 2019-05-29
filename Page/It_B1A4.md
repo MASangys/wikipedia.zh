@@ -39,7 +39,7 @@ B1A4**》是韓國男子組合[B1A4第二張迷你專輯](../Page/B1A4.md "wikil
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2011年Gaon專輯冠軍作品列表" title="wikilink">專輯周榜</a></p></td>
+<td><p><a href="../Page/2011年Gaon專輯冠軍作品列表.md" title="wikilink">專輯周榜</a></p></td>
 <td><p>2011年9月25日－10月1日</p></td>
 <td><p>#2</p></td>
 <td><p>–</p></td>
@@ -47,7 +47,7 @@ B1A4**》是韓國男子組合[B1A4第二張迷你專輯](../Page/B1A4.md "wikil
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/2011年Gaon專輯冠軍作品列表" title="wikilink">專輯月榜</a></p></td>
+<td><p><a href="../Page/2011年Gaon專輯冠軍作品列表.md" title="wikilink">專輯月榜</a></p></td>
 <td><p>2011年9月</p></td>
 <td><p>#8</p></td>
 <td><p>20,791</p></td>

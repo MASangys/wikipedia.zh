@@ -113,13 +113,13 @@ Café](../Page/Music_Café.md "wikilink")》2013年的每集節目巨聲幫成�
 
 ## 11月
 
-| 集數  | J2首播日期 | 巨聲幫成員/表演團體                                                                                                               | 嘉賓                                                                             |
-| --- | ------ | ------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ |
-| 147 | 11月1日  | **[王梓軒](../Page/王梓軒.md "wikilink")**                                                                                     | **[RX黃浩邦](../Page/黃浩邦.md "wikilink")** |- style="background-color: \#FFFFFF" | |
-| 148 | 11月8日  | **[何雁詩](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")、[譚嘉儀](../Page/譚嘉儀.md "wikilink")**                                 | － |- style="background-color: \#FFFFFF" |                                      |
-| 149 | 11月15日 | **[Gin Lee](../Page/李幸倪.md "wikilink")**                                                                                 | － |- style="background-color: \#FFFFFF" |                                      |
-| 150 | 11月22日 | **[Robynn & Kendy](../Page/Robynn_&_Kendy.md "wikilink")**                                                               | **[吳雨霏](../Page/吳雨霏.md "wikilink")** |- style="background-color: \#FFFFFF" |   |
-| 151 | 11月29日 | **[鄭俊弘](../Page/鄭俊弘.md "wikilink")、[姚　兵](https://zh.wikipedia.org/wiki/姚兵 "wikilink")、[羅鈞滿](../Page/羅鈞滿.md "wikilink")** | － |- style="background-color: \#FFFFFF" |                                      |
+| 集數  | J2首播日期 | 巨聲幫成員/表演團體                                                                                            | 嘉賓                                                                             |
+| --- | ------ | ----------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 147 | 11月1日  | **[王梓軒](../Page/王梓軒.md "wikilink")**                                                                  | **[RX黃浩邦](../Page/黃浩邦.md "wikilink")** |- style="background-color: \#FFFFFF" | |
+| 148 | 11月8日  | **[何雁詩](https://zh.wikipedia.org/wiki/何雁詩 "wikilink")、[譚嘉儀](../Page/譚嘉儀.md "wikilink")**              | － |- style="background-color: \#FFFFFF" |                                      |
+| 149 | 11月15日 | **[Gin Lee](../Page/李幸倪.md "wikilink")**                                                              | － |- style="background-color: \#FFFFFF" |                                      |
+| 150 | 11月22日 | **[Robynn & Kendy](../Page/Robynn_&_Kendy.md "wikilink")**                                            | **[吳雨霏](../Page/吳雨霏.md "wikilink")** |- style="background-color: \#FFFFFF" |   |
+| 151 | 11月29日 | **[鄭俊弘](../Page/鄭俊弘.md "wikilink")、[姚　兵](../Page/姚兵.md "wikilink")、[羅鈞滿](../Page/羅鈞滿.md "wikilink")** | － |- style="background-color: \#FFFFFF" |                                      |
 
 ## 12月
 

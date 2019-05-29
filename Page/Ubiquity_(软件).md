@@ -23,7 +23,7 @@
   - [Mythbuntu](https://zh.wikipedia.org/wiki/Mythbuntu "wikilink")
   - [Linux Mint](../Page/Linux_Mint.md "wikilink")
   - [gNewSense](https://zh.wikipedia.org/wiki/gNewSense "wikilink")
-  - [Trisquel](https://zh.wikipedia.org/wiki/Trisquel "wikilink")
+  - [Trisquel](../Page/Trisquel.md "wikilink")
   - [Asturix](https://zh.wikipedia.org/wiki/Asturix "wikilink")
   - [Zorin OS](../Page/Zorin_OS.md "wikilink")
   - [Tuquito](https://web.archive.org/web/20161014095515/http://www.tuquito.org.ar/)

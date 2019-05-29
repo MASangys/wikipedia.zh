@@ -102,7 +102,7 @@
 </tr>
 <tr class="odd">
 <td><p>第12屆（1985年）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金容琳" title="wikilink">金容琳</a>（紫芒草）</p></td>
+<td><p><a href="../Page/金容琳.md" title="wikilink">金容琳</a>（紫芒草）</p></td>
 <td><p>（爸爸，我们爸爸）</p></td>
 </tr>
 <tr class="even">
@@ -466,7 +466,7 @@
 <a href="../Page/鄭進永.md" title="wikilink">鄭進永</a>（<a href="../Page/華麗的誘惑.md" title="wikilink">華麗的誘惑</a>）<br />
 <a href="../Page/宋昶儀.md" title="wikilink">宋昶儀</a>（<a href="../Page/讓女人哭泣.md" title="wikilink">讓女人哭泣</a>）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/黃正音" title="wikilink">黃正音</a>（<a href="../Page/Kill_Me_Heal_Me.md" title="wikilink">Kill Me Heal Me</a>、<a href="https://zh.wikipedia.org/wiki/她很漂亮" title="wikilink">她很漂亮</a>）<br />
-<a href="../Page/錢忍和.md" title="wikilink">錢忍和</a>（<a href="../Page/我的女兒，琴四月.md" title="wikilink">我的女兒，琴四月</a>、<a href="https://zh.wikipedia.org/wiki/湔雪的魔女" title="wikilink">湔雪的魔女</a>）<br />
+<a href="../Page/錢忍和.md" title="wikilink">錢忍和</a>（<a href="../Page/我的女兒，琴四月.md" title="wikilink">我的女兒，琴四月</a>、<a href="../Page/湔雪的魔女.md" title="wikilink">湔雪的魔女</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/金諪恩" title="wikilink">金諪恩</a>（<a href="../Page/讓女人哭泣.md" title="wikilink">讓女人哭泣</a>）</p></td>
 <td><p><a href="../Page/朴敘俊.md" title="wikilink">朴敘俊</a>（<a href="../Page/Kill_Me_Heal_Me.md" title="wikilink">Kill Me Heal Me</a>、<a href="https://zh.wikipedia.org/wiki/她很漂亮" title="wikilink">她很漂亮</a>）<br />
 <a href="../Page/孫暢敏.md" title="wikilink">孫暢敏</a>（<a href="../Page/我的女兒，琴四月.md" title="wikilink">我的女兒，琴四月</a>）<br />
@@ -1356,7 +1356,7 @@
 </tr>
 <tr class="odd">
 <td><p>女子黄金演技獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/河有美" title="wikilink">河有美</a>（<a href="https://zh.wikipedia.org/wiki/逆转女王" title="wikilink">逆转女王</a>）<br />
+<td><p><a href="../Page/河有美.md" title="wikilink">河有美</a>（<a href="https://zh.wikipedia.org/wiki/逆转女王" title="wikilink">逆转女王</a>）<br />
 <a href="https://zh.wikipedia.org/wiki/朴贞洙" title="wikilink">朴贞洙</a>（<a href="https://zh.wikipedia.org/wiki/过得有滋有味" title="wikilink">过得有滋有味</a>）<br />
 <a href="../Page/金甫娟.md" title="wikilink">金甫娟</a>（<a href="https://zh.wikipedia.org/wiki/黄金鱼" title="wikilink">黄金鱼</a>）</p></td>
 </tr>
@@ -1808,7 +1808,7 @@
 </tr>
 <tr class="even">
 <td><p>女子迷你剧优秀演技獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/崔秀荣" title="wikilink">崔秀荣</a>（<a href="https://zh.wikipedia.org/wiki/我人生的春天" title="wikilink">我人生的春天</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔秀荣" title="wikilink">崔秀荣</a>（<a href="../Page/我人生的春天.md" title="wikilink">我人生的春天</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>男子特别企划剧优秀演技獎</p></td>
@@ -1912,7 +1912,7 @@
 </tr>
 <tr class="even">
 <td><p>女子特别企划剧最优秀演技獎</p></td>
-<td><p><a href="../Page/錢忍和.md" title="wikilink">錢忍和</a>（<a href="../Page/我的女兒，琴四月.md" title="wikilink">我的女兒，琴四月</a>、<a href="https://zh.wikipedia.org/wiki/湔雪的魔女" title="wikilink">湔雪的魔女</a>）</p></td>
+<td><p><a href="../Page/錢忍和.md" title="wikilink">錢忍和</a>（<a href="../Page/我的女兒，琴四月.md" title="wikilink">我的女兒，琴四月</a>、<a href="../Page/湔雪的魔女.md" title="wikilink">湔雪的魔女</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>男子连续剧最优秀演技獎</p></td>
@@ -1936,7 +1936,7 @@
 </tr>
 <tr class="even">
 <td><p>女子特别企划剧优秀演技獎</p></td>
-<td><p><a href="../Page/吳賢慶.md" title="wikilink">吳賢慶</a>（<a href="https://zh.wikipedia.org/wiki/湔雪的魔女" title="wikilink">湔雪的魔女</a>）</p></td>
+<td><p><a href="../Page/吳賢慶.md" title="wikilink">吳賢慶</a>（<a href="../Page/湔雪的魔女.md" title="wikilink">湔雪的魔女</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>男子连续剧优秀演技獎</p></td>
@@ -1964,7 +1964,7 @@
 </tr>
 <tr class="odd">
 <td><p>女子特别企划剧助演獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金秀美" title="wikilink">金秀美</a>（<a href="https://zh.wikipedia.org/wiki/湔雪的魔女" title="wikilink">湔雪的魔女</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金秀美" title="wikilink">金秀美</a>（<a href="../Page/湔雪的魔女.md" title="wikilink">湔雪的魔女</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>男子连续剧助演獎</p></td>
@@ -2089,7 +2089,7 @@
 </tr>
 <tr class="even">
 <td><p>女子连续剧优秀演技獎</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/林智妍" title="wikilink">林智妍</a>（<a href="../Page/吹吧，美風啊.md" title="wikilink">吹吧，美風啊</a>）</p></td>
+<td><p><a href="../Page/林智妍.md" title="wikilink">林智妍</a>（<a href="../Page/吹吧，美風啊.md" title="wikilink">吹吧，美風啊</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>男子特别企划剧优秀演技獎</p></td>

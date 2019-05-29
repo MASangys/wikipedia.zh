@@ -390,7 +390,7 @@ x <- read.table(textConnection(str), header=TRUE, row.names=1)
 
 #### Racket
 
-[Racket的here字串以](https://zh.wikipedia.org/wiki/Racket "wikilink")`#<<`开始，紧跟定义字串终止的标识符\[8\]。
+[Racket的here字串以](../Page/Racket.md "wikilink")`#<<`开始，紧跟定义字串终止的标识符\[8\]。
 
 字串的内容包括所有的在`#<<`一行和仅包括定义了的终止符的那一行。即：字串的内容开始于`#<<`后的新行，结束于终止符之前的一行。
 

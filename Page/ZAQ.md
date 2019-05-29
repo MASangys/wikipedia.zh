@@ -295,7 +295,7 @@ EYCA-10096（CD）</p></td>
 #### 遊戲
 
   - [偶像大師 百萬人演唱會！](../Page/偶像大師_百萬人演唱會！.md "wikilink")
-      - 野野原茜（[小笠原早紀](../Page/小笠原早紀.md "wikilink")）、大神環（[稻川英里](../Page/稻川英里.md "wikilink")）、箱崎星梨花（[麻倉桃](https://zh.wikipedia.org/wiki/麻倉桃 "wikilink")）「Sweet
+      - 野野原茜（[小笠原早紀](../Page/小笠原早紀.md "wikilink")）、大神環（[稻川英里](../Page/稻川英里.md "wikilink")）、箱崎星梨花（[麻倉桃](../Page/麻倉桃.md "wikilink")）「Sweet
         Sweet Soul」（作詞）
 
 ## 參考資料

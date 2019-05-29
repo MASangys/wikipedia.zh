@@ -44,7 +44,7 @@ Trio共同參與曹格Project SENSATION
 (Quintet 五重奏) ——由最初的三重奏，擴展成包括完整節奏組 ([rhythm
 section](https://zh.wikipedia.org/wiki/节奏组_\(音乐\) "wikilink")) 的小型編制樂團
 ([jazz
-ensemble](https://zh.wikipedia.org/wiki/爵士乐队 "wikilink"))。就如爵士樂樂手之間常見的合作演出或錄音，MUSA's會邀請不同的樂手或歌手加入演奏，共同創造出更多的音樂新面貌。
+ensemble](../Page/爵士乐队.md "wikilink"))。就如爵士樂樂手之間常見的合作演出或錄音，MUSA's會邀請不同的樂手或歌手加入演奏，共同創造出更多的音樂新面貌。
 
 除了繼續進行「曹格 x SENSATION」Project 2及參與曹格的演唱會演奏部份，MUS4's及MU5A's亦會以DFM Jazz
 Club (其唱片公司) 的名義與旗下歌手Shiny

@@ -133,7 +133,7 @@
 <td><p>1998</p></td>
 <td></td>
 <td><p>可変走攻 ガンバイク Speed Power Gunbike</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a></p></td>
 <td><p><a href="../Page/日本索尼音樂娛樂.md" title="wikilink">日本索尼音樂娛樂</a></p></td>
 <td></td>
 </tr>
@@ -141,7 +141,7 @@
 <td><p>1999</p></td>
 <td></td>
 <td><p>LOVE&amp;DESTROY</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PlayStation" title="wikilink">PlayStation</a></p></td>
+<td><p><a href="../Page/PlayStation.md" title="wikilink">PlayStation</a></p></td>
 <td><p><a href="../Page/索尼互動娛樂.md" title="wikilink">索尼互動娛樂</a></p></td>
 <td></td>
 </tr>
@@ -407,7 +407,7 @@
 <td><p>Mighty No. 9</p></td>
 <td></td>
 <td><p><a href="../Page/Spike_Chunsoft.md" title="wikilink">Spike Chunsoft</a><br />
-<a href="https://zh.wikipedia.org/wiki/Deep_Silver" title="wikilink">Deep Silver</a></p></td>
+<a href="../Page/Deep_Silver.md" title="wikilink">Deep Silver</a></p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/Comcept" title="wikilink">Comcept合作開發</a></p></td>
 </tr>
 <tr class="even">

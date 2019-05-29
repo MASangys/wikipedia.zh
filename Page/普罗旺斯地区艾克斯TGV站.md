@@ -31,7 +31,7 @@
 <td style="text-align: center;"><p><a href="../Page/阿讷西站.md" title="wikilink">阿讷西</a>—<a href="../Page/马赛圣夏勒站.md" title="wikilink">马赛</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/布鲁塞尔南站" title="wikilink">布鲁塞尔</a>/里尔—<a href="../Page/马赛圣夏勒站.md" title="wikilink">马赛</a>/<a href="../Page/尼斯城站.md" title="wikilink">尼斯</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/布鲁塞尔南站.md" title="wikilink">布鲁塞尔</a>/里尔—<a href="../Page/马赛圣夏勒站.md" title="wikilink">马赛</a>/<a href="../Page/尼斯城站.md" title="wikilink">尼斯</a></p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/法兰克福中央车站" title="wikilink">法兰克福</a>/<a href="https://zh.wikipedia.org/wiki/斯特拉斯堡站" title="wikilink">斯特拉斯堡</a>—<a href="../Page/马赛圣夏勒站.md" title="wikilink">马赛</a></p></td>

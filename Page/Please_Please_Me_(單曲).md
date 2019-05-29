@@ -5,7 +5,7 @@ Beatles在](https://zh.wikipedia.org/wiki/披頭四樂團 "wikilink")[英國所�
 Maker的排行榜榜首兩星期。但它在[英國單曲排行榜排行第二](../Page/英國單曲排行榜.md "wikilink")，最後未有收錄於《[1](https://zh.wikipedia.org/wiki/1_\(披頭四專輯\) "wikilink")》中\[1\]。
 
 此單曲原本以《[Ask Me
-Why](https://zh.wikipedia.org/wiki/Ask_Me_Why "wikilink")》作[B面](../Page/A面與B面.md "wikilink")，因它未能在美國引起令人滿意的回響，因此在第二次發行中它以《[From
+Why](../Page/Ask_Me_Why.md "wikilink")》作[B面](../Page/A面與B面.md "wikilink")，因它未能在美國引起令人滿意的回響，因此在第二次發行中它以《[From
 Me to
 You](https://zh.wikipedia.org/wiki/From_Me_to_You_\(歌曲\) "wikilink")》為B面，並在[Hot
 100中登上第三](https://zh.wikipedia.org/wiki/告示牌百強單曲榜 "wikilink")。
@@ -16,7 +16,7 @@ You](https://zh.wikipedia.org/wiki/From_Me_to_You_\(歌曲\) "wikilink")》為B�
 
 喬治·馬丁形容最初此曲是「頗為沉悶」，它速度較慢，未能引起聽眾的歡迎。他打算用樂團先前錄製Gerry & the Pacemakers的《How
 Do You Do It?》作發行之用，他甚至曾在《[Love Me
-Do](https://zh.wikipedia.org/wiki/Love_Me_Do "wikilink")》發行前以此作樂團首張單曲。但樂團成員均十分堅持錄製自己的作品。[林格·斯塔指出](../Page/林格·斯塔.md "wikilink")：「我記得我們都準備維護我們的原則──『我們要唱我們寫的歌』。」成員最後讓喬治·馬丁聆聽此曲的另一個版本來說服他不發行《How
+Do](../Page/Love_Me_Do.md "wikilink")》發行前以此作樂團首張單曲。但樂團成員均十分堅持錄製自己的作品。[林格·斯塔指出](../Page/林格·斯塔.md "wikilink")：「我記得我們都準備維護我們的原則──『我們要唱我們寫的歌』。」成員最後讓喬治·馬丁聆聽此曲的另一個版本來說服他不發行《How
 Do You Do It?》。
 
 約翰·列儂最初構想此曲時認為它是一首憂傷的歌，亦沒有和音、[口琴引子](../Page/口琴.md "wikilink")、[對唱](https://zh.wikipedia.org/wiki/對唱 "wikilink")，他說：

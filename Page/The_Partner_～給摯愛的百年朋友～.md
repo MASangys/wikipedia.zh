@@ -23,7 +23,7 @@
     [武田鐵矢](../Page/武田鐵矢.md "wikilink")
 
   - [大隈重信](../Page/大隈重信.md "wikilink") -
-    [柄本明](https://zh.wikipedia.org/wiki/柄本明 "wikilink")
+    [柄本明](../Page/柄本明.md "wikilink")
 
   - [彊柢](https://zh.wikipedia.org/wiki/彊柢 "wikilink") -
 

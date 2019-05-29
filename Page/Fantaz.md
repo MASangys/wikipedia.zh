@@ -186,7 +186,7 @@
 <tr class="odd">
 <td style="text-align: left;"><p><strong>2014</strong></p></td>
 <td style="text-align: left;"><ul>
-<li><a href="https://zh.wikipedia.org/wiki/2014年度新城國語力頒獎禮得獎名單" title="wikilink">新城國語力頒獎禮2014</a> - 新城國語新勢力組合（香港組合）</li>
+<li><a href="../Page/2014年度新城國語力頒獎禮得獎名單.md" title="wikilink">新城國語力頒獎禮2014</a> - 新城國語新勢力組合（香港組合）</li>
 <li><a href="../Page/2014年度新城勁爆頒獎禮得獎名單.md" title="wikilink">新城勁爆頒獎禮2014</a> - 新城勁爆新登場組合（金獎）</li>
 </ul></td>
 </tr>

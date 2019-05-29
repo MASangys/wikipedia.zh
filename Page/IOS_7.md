@@ -7,7 +7,7 @@
 在蘋果設計高級副總裁[強納生·艾夫的主導下](../Page/乔纳森·埃维.md "wikilink")，iOS
 7採用了全新的的視覺設計，整體風格由[iOS
 6以前的](https://zh.wikipedia.org/wiki/iOS_6 "wikilink")[擬物風格改為](../Page/仿制品.md "wikilink")[扁平化風格](../Page/扁平化设计.md "wikilink")，並對使用者介面進行全面的改造，包括[字體更加纖細精緻](https://zh.wikipedia.org/wiki/字體 "wikilink")、[過場動畫更加平順流暢](https://zh.wikipedia.org/wiki/過場_\(動畫\) "wikilink")、應用程式的圖示更加清晰銳利等\[2\]\[3\]。另外，iOS
-7也新增了許多新功能：[控制中心](https://zh.wikipedia.org/wiki/控制中心_\(iOS\) "wikilink")，使用戶能夠快捷開啟[無線網路](https://zh.wikipedia.org/wiki/無線網路 "wikilink")、[藍牙](../Page/藍牙.md "wikilink")、[相機及](https://zh.wikipedia.org/wiki/相機 "wikilink")[計算機等常用功能及調整螢幕亮度](../Page/計算機_\(應用程式\).md "wikilink")、播放或暫停音樂等；[AirDrop隔空投放技術](https://zh.wikipedia.org/wiki/AirDrop "wikilink")，能使裝置在沒有網路連線的情況下，以藍牙快速傳遞檔案；[CarPlay產業標準](https://zh.wikipedia.org/wiki/CarPlay "wikilink")，使用戶可透過汽車車載系統操控iOS裝置；[多工處理功能也有所改良](https://zh.wikipedia.org/wiki/多元處理 "wikilink")，介面獲得更新，並能夠在背景自動整理應用程式；語音助理[Siri功能加強](../Page/Siri.md "wikilink")，並改以波動表達互動感。
+7也新增了許多新功能：[控制中心](https://zh.wikipedia.org/wiki/控制中心_\(iOS\) "wikilink")，使用戶能夠快捷開啟[無線網路](https://zh.wikipedia.org/wiki/無線網路 "wikilink")、[藍牙](../Page/藍牙.md "wikilink")、[相機及](https://zh.wikipedia.org/wiki/相機 "wikilink")[計算機等常用功能及調整螢幕亮度](../Page/計算機_\(應用程式\).md "wikilink")、播放或暫停音樂等；[AirDrop隔空投放技術](https://zh.wikipedia.org/wiki/AirDrop "wikilink")，能使裝置在沒有網路連線的情況下，以藍牙快速傳遞檔案；[CarPlay產業標準](../Page/CarPlay.md "wikilink")，使用戶可透過汽車車載系統操控iOS裝置；[多工處理功能也有所改良](https://zh.wikipedia.org/wiki/多元處理 "wikilink")，介面獲得更新，並能夠在背景自動整理應用程式；語音助理[Siri功能加強](../Page/Siri.md "wikilink")，並改以波動表達互動感。
 
 在iOS 7正式版推出後一天內，整體安裝率即達到35%，一周內即有超過2億部裝置安裝iOS 7，是歷年來最快的一次\[4\]\[5\]。
 
@@ -59,7 +59,7 @@ iOS
 #### 7.1
 
 iOS
-7.1於2014年3月10日發布。此更新調整了[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")，大量以圖示取代文字\[33\]\[34\]\[35\]\[36\]\[37\]；引入了[CarPlay產業標準](https://zh.wikipedia.org/wiki/CarPlay "wikilink")，使用戶可透過汽車車載系統操控iOS裝置\[38\]\[39\]\[40\]；[iTunes
+7.1於2014年3月10日發布。此更新調整了[使用者介面](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")，大量以圖示取代文字\[33\]\[34\]\[35\]\[36\]\[37\]；引入了[CarPlay產業標準](../Page/CarPlay.md "wikilink")，使用戶可透過汽車車載系統操控iOS裝置\[38\]\[39\]\[40\]；[iTunes
 Radio音樂串流服務](https://zh.wikipedia.org/wiki/iTunes_Radio "wikilink")，使用戶可以免費聆聽來自全世界的電台\[41\]\[42\]；於設定「輔助使用」選單內新增顯示按鈕形狀、加深應用程式顏色和減少白點的選項\[43\]\[44\]；修正了主畫面[當機的問題](https://zh.wikipedia.org/wiki/當機 "wikilink")，並改進了[Touch
 ID指紋辨識技術](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")\[45\]\[46\]\[47\]\[48\]。
 
@@ -109,7 +109,7 @@ iOS
 
 ### CarPlay
 
-[CarPlay](https://zh.wikipedia.org/wiki/CarPlay "wikilink")（原名iOS in the
+[CarPlay](../Page/CarPlay.md "wikilink")（原名iOS in the
 Car，即車用版iOS）功能首次於iOS
 7.1更新引入，使用戶可透過汽車車載系統使用iOS裝置的各項功能，包括播放音樂、接收與傳送簡訊及定位導航等\[86\]\[87\]。此功能只支援使用[Lightning接頭的裝置](../Page/Lightning接头.md "wikilink")\[88\]。
 

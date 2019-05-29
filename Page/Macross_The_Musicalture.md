@@ -12,7 +12,7 @@ F](https://zh.wikipedia.org/wiki/Macross_F "wikilink")」的3年後的2062年。
 同時，Macross 30周年所舉行的「Miss Macross 30」選考中Actress
 Wing（アクトレス・ウィング）部分的「審査員特別賞」（）获得者[片木ゆき也参与了表演](https://zh.wikipedia.org/wiki/片木ゆき "wikilink")。\[1\]
 
-和最初發表的CAST比較，共有兩個演出者進行了變更。維戈的变更为。夏洛特的[神田沙也加在公演](https://zh.wikipedia.org/wiki/神田沙也加 "wikilink")2天前因急性胃肠炎變更為[富田麻帆](../Page/富田麻帆.md "wikilink")。\[2\]
+和最初發表的CAST比較，共有兩個演出者進行了變更。維戈的变更为。夏洛特的[神田沙也加在公演](../Page/神田沙也加.md "wikilink")2天前因急性胃肠炎變更為[富田麻帆](../Page/富田麻帆.md "wikilink")。\[2\]
 
 ## 故事簡介
 

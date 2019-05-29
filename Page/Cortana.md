@@ -20,7 +20,7 @@ Phone 8.1
 GDR1开发者预览版，中文版小娜正式上线，用户通过长按搜索键即可调出该功能\[12\]。微软在其中文网站上号称其为“全球首款跨平台智能个人助理”\[13\]。
 
 2015年1月，微软宣布在搭载[Windows
-10系统的](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[台式机和](https://zh.wikipedia.org/wiki/台式机 "wikilink")[移动设备上推出小娜](../Page/移动设备.md "wikilink")，作为将[Windows
+10系统的](../Page/Windows_10.md "wikilink")[台式机和](https://zh.wikipedia.org/wiki/台式机 "wikilink")[移动设备上推出小娜](../Page/移动设备.md "wikilink")，作为将[Windows
 Phone整合到整个Windows中的一部分](../Page/Windows_Phone.md "wikilink")。是年5月26日，微软宣布小娜也可以在其他移动平台上使用。小娜的[Android版本原定于](../Page/Android.md "wikilink")2015年7月发布，但是它的[安装包文件在发布前被意外泄露了出来](../Page/APK.md "wikilink")。2015年12月，小娜的Android和[iOS版本正式发布](https://zh.wikipedia.org/wiki/iOS "wikilink")。\[14\]然而，由于Android和iOS存在许多限制，所以微软很难将Windows版本上的小娜与这两个系统上的小娜完全整合\[15\]。在[E3
 2015上](https://zh.wikipedia.org/wiki/E3_2015 "wikilink")，微软宣布还将在[Xbox
 One上推出小娜](../Page/Xbox_One.md "wikilink")\[16\]。
@@ -30,7 +30,7 @@ Alexa和小娜整合完毕](https://zh.wikipedia.org/wiki/Amazon_Alexa "wikilink
 Phone 8.1提供服务\[19\]。2019年1月，小娜在Windows 10中将和搜索功能“分家”\[20\]。
 
 目前，除了Windows Phone 8.1外，小娜已可以在[Windows
-10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")、[Windows 10
+10](../Page/Windows_10.md "wikilink")、[Windows 10
 Mobile](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")\[21\]、、[Microsoft
 Band](../Page/Microsoft_Band.md "wikilink")、、[Xbox
 One](../Page/Xbox_One.md "wikilink")、\[22\]\[23\][iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
@@ -42,7 +42,7 @@ Alexa\[25\]等系统和终端上使用。截至2014年4月，小娜不允许为1
 ## 其他服务领域
 
 [右](https://zh.wikipedia.org/wiki/File:Harman_Kardon_Invoke_Speaker_-_aerial.jpg "fig:右")微软已经将小娜整合到许多产品中，比如微软将小娜深度地集成到了在[Windows
-10内置的](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")[Microsoft
+10内置的](../Page/Windows_10.md "wikilink")[Microsoft
 Edge浏览器](../Page/Microsoft_Edge.md "wikilink")\[27\]。用户可以通过小娜在餐饮网站上快速找到营业时间，显示网站的零售[优惠券](../Page/优惠券.md "wikilink")，或在地址栏中显示[天气信息](../Page/天气.md "wikilink")。在2015年微软全球合作伙伴大会（现在的）上，微软展示了小娜与即将推出的产品（如[GigJam](https://zh.wikipedia.org/wiki/GigJam "wikilink")，微软的一个以屏幕分享为核心功能的工具）的集合。\[28\]\[29\]微软的“车内的Windows”概念中也出现了小娜。
 在这一概念中，司机可以在去餐馆之前，在车上通过小娜预定餐馆和浏览餐馆的内景\[30\]。
 

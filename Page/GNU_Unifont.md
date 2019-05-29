@@ -83,7 +83,7 @@ Perl的hexdraw指令稿按照上述的一行字形定義產生以下的輸出（
 ## 向量
 
 Luis Alejandro Gonzalez
-Miranda寫了指令稿以進行向量化及使用[FontForge轉換BDF格式](https://zh.wikipedia.org/wiki/FontForge "wikilink")（unifont.bdf）至[TrueType格式](../Page/TrueType.md "wikilink")\[2\]。Paul
+Miranda寫了指令稿以進行向量化及使用[FontForge轉換BDF格式](../Page/FontForge.md "wikilink")（unifont.bdf）至[TrueType格式](../Page/TrueType.md "wikilink")\[2\]。Paul
 Hardy調整了這些指令稿以處理最新的TrueType版本的組合字母（像是重音符號等）\[3\]。
 
 ## 歷史

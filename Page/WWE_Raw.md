@@ -310,7 +310,7 @@ NXT](../Page/WWE_NXT.md "wikilink")。
   - [Goldust](../Page/達斯汀·羅茲.md "wikilink")
 
   -
-  - [希斯·史雷特](https://zh.wikipedia.org/wiki/希斯·史雷特 "wikilink")
+  - [希斯·史雷特](../Page/希斯·史雷特.md "wikilink")
 
   -
   -
@@ -330,7 +330,7 @@ NXT](../Page/WWE_NXT.md "wikilink")。
 
   - [泰德斯·歐尼爾](https://zh.wikipedia.org/wiki/Titus_O'Neil "wikilink")
 
-  - [塞克·萊德](https://zh.wikipedia.org/wiki/塞克·萊德 "wikilink")
+  - [塞克·萊德](../Page/塞克·萊德.md "wikilink")
 
 ### 女子選手
 

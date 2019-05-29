@@ -26,7 +26,7 @@ S.A.L.T.的使命就跟「鹽」的意義相同。
 
   - [朴世榮](../Page/朴世榮.md "wikilink")
   - [金知安](https://zh.wikipedia.org/wiki/金知安 "wikilink")
-  - [金康鉉](https://zh.wikipedia.org/wiki/金康鉉 "wikilink")
+  - [金康鉉](../Page/金康鉉.md "wikilink")
 
 ## 参考文献
 

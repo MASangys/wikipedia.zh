@@ -9,7 +9,7 @@ Team。\[1\]Pre-Debut Team可以編成各式各樣的組合，通計劃向大眾
 
 SM ROOKIES通過全新演繹名曲的音源及視頻、演出等進行公開，持續展開音源發布、公演、綜藝節目的活動。\[3\]預備出道練習生會透過SM
 ROOKIES正式公開，沒有被SM ROOKIES公開的練習生會以傳統方式出道。\[4\]2014年，部分女成員以女子組合[Red
-Velvet出道](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。2016年至2019年，男成員分批從此平台畢業，以新概念大型男子組合[NCT出道](../Page/NCT.md "wikilink")。
+Velvet出道](../Page/Red_Velvet.md "wikilink")。2016年至2019年，男成員分批從此平台畢業，以新概念大型男子組合[NCT出道](../Page/NCT.md "wikilink")。
 
 ## 成員列表
 
@@ -31,7 +31,7 @@ Velvet出道](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。2016年至2
 
 <!-- end list -->
 
-  - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")
+  - [Red Velvet](../Page/Red_Velvet.md "wikilink")
       - [Irene](https://zh.wikipedia.org/wiki/裴柱現 "wikilink")
       - [Seulgi](https://zh.wikipedia.org/wiki/姜瑟琪 "wikilink")
       - [Wendy](https://zh.wikipedia.org/wiki/孫勝完 "wikilink")
@@ -42,7 +42,7 @@ Velvet出道](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")。2016年至2
 
 <!-- end list -->
 
-  - [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")
+  - [Red Velvet](../Page/Red_Velvet.md "wikilink")
       - [Yeri](https://zh.wikipedia.org/wiki/金藝琳_\(1999年出生\) "wikilink")
 
 <!-- end list -->
@@ -241,20 +241,20 @@ BackgroundColors = bars:bars
 
 ### OST
 
-| 發布日期       | 電視台                                                   | 電視劇                                                   | 參與練習生 | 曲名                                        |
-| ---------- | ----------------------------------------------------- | ----------------------------------------------------- | ----- | ----------------------------------------- |
-| 2014年3月20日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [MiMi](https://zh.wikipedia.org/wiki/MiMi "wikilink") | Wendy | Because I Love You (슬픔 속에 그댈 지워야만 해)\[5\] |
-| 2016年1月27日 | [KBS](../Page/韓國放送公社.md "wikilink")                   | [生意之神－客主2015](../Page/生意之神－客主2015.md "wikilink")      | 泰一    | Because Of You (단 한 사람)                   |
+| 發布日期       | 電視台                                                   | 電視劇                                              | 參與練習生 | 曲名                                        |
+| ---------- | ----------------------------------------------------- | ------------------------------------------------ | ----- | ----------------------------------------- |
+| 2014年3月20日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | [MiMi](../Page/MiMi.md "wikilink")               | Wendy | Because I Love You (슬픔 속에 그댈 지워야만 해)\[5\] |
+| 2016年1月27日 | [KBS](../Page/韓國放送公社.md "wikilink")                   | [生意之神－客主2015](../Page/生意之神－客主2015.md "wikilink") | 泰一    | Because Of You (단 한 사람)                   |
 
 ### 参与歌曲
 
-| 發佈日期        | 專輯名稱                                                                            | 歌曲名稱                       | 參與練習生                                             | 合作藝人                                                                                                                                                      | 備註           |
-| ----------- | ------------------------------------------------------------------------------- | -------------------------- | ------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| 2014年7月14日  | [Fantastic](https://zh.wikipedia.org/wiki/Fantastic "wikilink")                 | Butterfly                  | [瑟琪](https://zh.wikipedia.org/wiki/瑟琪 "wikilink") | [Henry](../Page/劉憲華.md "wikilink")                                                                                                                        |              |
-| 2014年10月10日 | [Be Natural](https://zh.wikipedia.org/wiki/Be_Natural "wikilink")               | Be Natural                 | [泰容](../Page/泰容.md "wikilink")                    | [Red Velvet](https://zh.wikipedia.org/wiki/Red_Velvet "wikilink")                                                                                         |              |
-| 2016年4月10日  | [Without You](https://zh.wikipedia.org/wiki/Without_You_\(NCT_U單曲\) "wikilink") | Without You (Chinese Ver.) | 錕                                                 | [NCT U](../Page/NCT.md "wikilink")                                                                                                                        |              |
-| 2016年7月10日  | [NCT \#127](https://zh.wikipedia.org/wiki/NCT_＃127 "wikilink")                  | Switch                     | 韩率、Johnny、Jeno、渽民、志晟                              | [NCT 127](../Page/NCT.md "wikilink")                                                                                                                      |              |
-| 2016年10月28日 | [SM STATION](../Page/SM_STATION.md "wikilink")                                  | Nightmare                  | Johnny                                            | [尹度玹](../Page/尹度玹.md "wikilink")、[Reddy](https://zh.wikipedia.org/wiki/Reddy "wikilink")、[G2](https://zh.wikipedia.org/wiki/G2_\(歌手\) "wikilink")、Inlayer | Johnny作為DJ出演 |
+| 發佈日期        | 專輯名稱                                                                            | 歌曲名稱                       | 參與練習生                          | 合作藝人                                                                                                                                                      | 備註           |
+| ----------- | ------------------------------------------------------------------------------- | -------------------------- | ------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| 2014年7月14日  | [Fantastic](https://zh.wikipedia.org/wiki/Fantastic "wikilink")                 | Butterfly                  | [瑟琪](../Page/瑟琪.md "wikilink") | [Henry](../Page/劉憲華.md "wikilink")                                                                                                                        |              |
+| 2014年10月10日 | [Be Natural](https://zh.wikipedia.org/wiki/Be_Natural "wikilink")               | Be Natural                 | [泰容](../Page/泰容.md "wikilink") | [Red Velvet](../Page/Red_Velvet.md "wikilink")                                                                                                            |              |
+| 2016年4月10日  | [Without You](https://zh.wikipedia.org/wiki/Without_You_\(NCT_U單曲\) "wikilink") | Without You (Chinese Ver.) | 錕                              | [NCT U](../Page/NCT.md "wikilink")                                                                                                                        |              |
+| 2016年7月10日  | [NCT \#127](https://zh.wikipedia.org/wiki/NCT_＃127 "wikilink")                  | Switch                     | 韩率、Johnny、Jeno、渽民、志晟           | [NCT 127](../Page/NCT.md "wikilink")                                                                                                                      |              |
+| 2016年10月28日 | [SM STATION](../Page/SM_STATION.md "wikilink")                                  | Nightmare                  | Johnny                         | [尹度玹](../Page/尹度玹.md "wikilink")、[Reddy](https://zh.wikipedia.org/wiki/Reddy "wikilink")、[G2](https://zh.wikipedia.org/wiki/G2_\(歌手\) "wikilink")、Inlayer | Johnny作為DJ出演 |
 
 ### 參與音樂錄影帶
 
@@ -286,7 +286,7 @@ BackgroundColors = bars:bars
 <tr class="odd">
 <td><p>2014年8月3日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=JFgv8bKfxEs">Happiness</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Red_Velvet" title="wikilink">Red Velvet</a></p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
 <td><p>Yeri、高恩、Hina、Herin、Lami</p></td>
 <td></td>
 </tr>
@@ -406,7 +406,7 @@ god - Dear Mom</p></td>
 </tr>
 <tr class="even">
 <td><p>Ep3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Sehun" title="wikilink">Sehun</a></p></td>
+<td><p><a href="../Page/Sehun.md" title="wikilink">Sehun</a></p></td>
 <td><p>Johnny、泰容</p></td>
 <td><p>Shinhwa-Wild Eyes<br />
 Shinhwa - Yo!</p></td>
@@ -442,7 +442,7 @@ Shinhwa - Yo!</p></td>
 </tr>
 <tr class="odd">
 <td><p>Ep8</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鹿晗" title="wikilink">鹿晗</a></p></td>
+<td><p><a href="../Page/鹿晗.md" title="wikilink">鹿晗</a></p></td>
 <td></td>
 <td><p>在玹</p></td>
 <td><p>The Last Game</p></td>
@@ -525,7 +525,7 @@ Shinhwa - Yo!</p></td>
 <td><p>Ep5</p></td>
 <td><p><strong>全體</strong>：Under the Sea (인어공주 중에서)<br />
 <strong>女成員</strong>：I'Your Girl（S.E.S）</p></td>
-<td><p><a href="../Page/黃光熙.md" title="wikilink">光熙</a> of <a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>、<a href="https://zh.wikipedia.org/wiki/Xiumin" title="wikilink">Xiumin</a> of <a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
+<td><p><a href="../Page/黃光熙.md" title="wikilink">光熙</a> of <a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>、<a href="../Page/Xiumin.md" title="wikilink">Xiumin</a> of <a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
 <td><p>藝能面試<br />
 野營</p></td>
 </tr>
@@ -533,7 +533,7 @@ Shinhwa - Yo!</p></td>
 <td><p>Ep6</p></td>
 <td><p><strong>女成員</strong>：We’re all in this together(하이스쿨 뮤지컬 중에서)<br />
 <strong>女成員</strong>：No.1 보아（BoA）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Xiumin" title="wikilink">Xiumin</a> of <a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
+<td><p><a href="../Page/Xiumin.md" title="wikilink">Xiumin</a> of <a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
 <td><p>異色運動：膠鞋籃球&amp;馬背上的劍擊<br />
 料理補習班</p></td>
 </tr>
@@ -599,13 +599,13 @@ Shinhwa - Yo!</p></td>
 
 ### 雜誌寫真
 
-| 發行年份 | 月份        | 雜誌名稱          | 發行地區                | 參與練習生                                                                                                                                                                           |
-| ---- | --------- | ------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2014 | 2月        | The Celebrity | 韓國                  | [Irene](https://zh.wikipedia.org/wiki/裴柱現 "wikilink")、[瑟琪](https://zh.wikipedia.org/wiki/瑟琪 "wikilink")、[Johnny](../Page/NCT.md "wikilink")、[泰容](../Page/泰容.md "wikilink")\[7\] |
-| 2月   | Oh Boy\!  | 泰容\[8\]       |                     |                                                                                                                                                                                 |
-| 2015 | 8月        | Ceci          | 米奇的朋友們\[9\]         |                                                                                                                                                                                 |
-| 2016 | 3月        | The Celebrity | 悠太                  |                                                                                                                                                                                 |
-| 3月   | SEVENTEEN | 泰國            | Johnny、泰容、道英、Ten、在玹 |                                                                                                                                                                                 |
+| 發行年份 | 月份        | 雜誌名稱          | 發行地區                | 參與練習生                                                                                                                                                        |
+| ---- | --------- | ------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2014 | 2月        | The Celebrity | 韓國                  | [Irene](https://zh.wikipedia.org/wiki/裴柱現 "wikilink")、[瑟琪](../Page/瑟琪.md "wikilink")、[Johnny](../Page/NCT.md "wikilink")、[泰容](../Page/泰容.md "wikilink")\[7\] |
+| 2月   | Oh Boy\!  | 泰容\[8\]       |                     |                                                                                                                                                              |
+| 2015 | 8月        | Ceci          | 米奇的朋友們\[9\]         |                                                                                                                                                              |
+| 2016 | 3月        | The Celebrity | 悠太                  |                                                                                                                                                              |
+| 3月   | SEVENTEEN | 泰國            | Johnny、泰容、道英、Ten、在玹 |                                                                                                                                                              |
 
 ## 其他活動
 

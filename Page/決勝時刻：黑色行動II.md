@@ -233,7 +233,7 @@ Software，是“达拉斯的独立开发人”，此前参与2010年的《黑�
 
 ### 消息透露
 
-[Gamescom_2012.jpg](https://zh.wikipedia.org/wiki/File:Gamescom_2012.jpg "fig:Gamescom_2012.jpg")[科隆](../Page/科隆.md "wikilink")[Gamescom大展展出的](https://zh.wikipedia.org/wiki/Gamescom "wikilink")《使命召唤：黑色行动II》广告。\]\]
+[Gamescom_2012.jpg](https://zh.wikipedia.org/wiki/File:Gamescom_2012.jpg "fig:Gamescom_2012.jpg")[科隆](../Page/科隆.md "wikilink")[Gamescom大展展出的](../Page/Gamescom.md "wikilink")《使命召唤：黑色行动II》广告。\]\]
 2012年4月23日，动视重新设计CallofDuty.com，宣布游戏将于2012年5月1日[TNT转播](../Page/特纳电视网.md "wikilink")[NBA季后赛期间公布](../Page/NBA季后赛.md "wikilink")\[27\]。网站艺术图完美符合Kotaku收到的所谓零售商泄露图\[28\]。然而，距电视正式公布还有数小时，官方网站便上线透露作品名、证实PC、PlayStation
 3及Xbox 360发售日和“21世纪冷战”设定的部分\[29\]。动视暗示游戏最终或成为任天堂平台独占作品，
 尽管官方未正式宣布\[30\]。动视承诺，游戏预演以YouTube预告片形式公布，详述未来主义设定、前作回归角色和冲突经过\[31\]。

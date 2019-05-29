@@ -110,7 +110,7 @@ slprj）可藉由塗有紅色提示漆的彈尖的彈丸來辨別。該彈藥曾
     Minimi](../Page/FN_Minimi輕機槍.md "wikilink")）所取代
   - [MG3通用機槍](../Page/MG3通用機槍.md "wikilink")，[德国](../Page/德国.md "wikilink")[莱茵金属設計和生產的](../Page/莱茵金属.md "wikilink")[7.62×51毫米](../Page/7.62×51mm_NATO.md "wikilink")[北约](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")[通用機槍](../Page/通用機槍.md "wikilink")
   - [M60通用機槍](../Page/M60通用機槍.md "wikilink")，[美國軍隊於](../Page/美军.md "wikilink")1960年代至1990年代的7.62×51毫米通用機槍
-  - [住友62式7.62毫米機槍](https://zh.wikipedia.org/wiki/住友62式7.62毫米機槍 "wikilink")，[日本於](../Page/日本.md "wikilink")1960年代至現在的7.62×51毫米現役通用機槍
+  - [住友62式7.62毫米機槍](../Page/住友62式7.62毫米機槍.md "wikilink")，[日本於](../Page/日本.md "wikilink")1960年代至現在的7.62×51毫米現役通用機槍
   - [CETME Ameli](../Page/CETME輕機槍.md "wikilink")
   - [SS-77通用機槍](../Page/SS-77通用機槍.md "wikilink")，[南非國防軍現役通用機槍](../Page/南非國防軍.md "wikilink")
   - [UKM-2000](../Page/UKM-2000通用機槍.md "wikilink")，[波兰製造的](https://zh.wikipedia.org/wiki/波兰 "wikilink")7.62×51毫米通用機槍

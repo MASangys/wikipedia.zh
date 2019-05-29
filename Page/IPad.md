@@ -1171,7 +1171,7 @@ International: 2011年3月25日</p></td>
 <td><p>colspan=2 |處理器</p></td>
 <td><p>1GHz<a href="../Page/Apple_A5.md" title="wikilink">Apple A5</a></p></td>
 <td><p>1.3GHz 雙核 <a href="../Page/Apple_A7.md" title="wikilink">Apple A7</a> 專門設計的高性能低功耗系統級芯片</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Apple_A8" title="wikilink">Apple A8</a></p></td>
+<td><p><a href="../Page/Apple_A8.md" title="wikilink">Apple A8</a></p></td>
 <td><p><a href="../Page/Apple_A12_Bionic.md" title="wikilink">Apple A12</a></p></td>
 <td></td>
 </tr>

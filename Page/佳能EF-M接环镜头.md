@@ -1,6 +1,6 @@
 [Canon_EF-M_lineup.jpg](https://zh.wikipedia.org/wiki/File:Canon_EF-M_lineup.jpg "fig:Canon_EF-M_lineup.jpg")
 **EF-M接口**是佳能公司随[佳能 EOS
-M系列](https://zh.wikipedia.org/wiki/佳能_EOS_M "wikilink")[无反相机而推出的新接口](https://zh.wikipedia.org/wiki/无反相机 "wikilink")，全电子触点设计，可以通过转接环支持[EF与](https://zh.wikipedia.org/wiki/佳能EF接环镜头 "wikilink")[EF-S镜头](https://zh.wikipedia.org/wiki/佳能EF-S接环镜头 "wikilink")。
+M系列](../Page/佳能_EOS_M.md "wikilink")[无反相机而推出的新接口](https://zh.wikipedia.org/wiki/无反相机 "wikilink")，全电子触点设计，可以通过转接环支持[EF与](https://zh.wikipedia.org/wiki/佳能EF接环镜头 "wikilink")[EF-S镜头](https://zh.wikipedia.org/wiki/佳能EF-S接环镜头 "wikilink")。
 
 ## 镜头列表
 
@@ -33,8 +33,7 @@ M系列](https://zh.wikipedia.org/wiki/佳能_EOS_M "wikilink")[无反相机而�
       - [佳能EF接环镜头](https://zh.wikipedia.org/wiki/佳能EF接环镜头 "wikilink")
       - [佳能EF-S接环镜头](https://zh.wikipedia.org/wiki/佳能EF-S接环镜头 "wikilink")
       - 佳能 EOS M 系列机型
-          - [佳能 EOS
-            M](https://zh.wikipedia.org/wiki/佳能_EOS_M "wikilink")
+          - [佳能 EOS M](../Page/佳能_EOS_M.md "wikilink")
           - [佳能 EOS
             M2](https://zh.wikipedia.org/wiki/佳能_EOS_M2 "wikilink")
           - [佳能 EOS

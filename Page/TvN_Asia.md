@@ -517,8 +517,8 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
   - 《》
   - 《TASTEmakers》
   - 《[兩天一夜](../Page/兩天一夜.md "wikilink")》
-  - 《[有理的愛情](https://zh.wikipedia.org/wiki/有理的愛情 "wikilink")》
-  - 《[Monstar](https://zh.wikipedia.org/wiki/Monstar "wikilink")》
+  - 《[有理的愛情](../Page/有理的愛情.md "wikilink")》
+  - 《[Monstar](../Page/Monstar.md "wikilink")》
   - 《[壞傢伙們](https://zh.wikipedia.org/wiki/壞小子們 "wikilink")》
   - 《超級偶像排行榜》
   - 《[病毒](../Page/病毒_\(電視劇\).md "wikilink")》
@@ -591,7 +591,7 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
   - 《[Hip Hop 大比拼
     4](https://zh.wikipedia.org/wiki/Hip_Hop_大比拼_4 "wikilink")》
   - 《小小足球會》
-  - 《[看見鬼的刑警處容](https://zh.wikipedia.org/wiki/能看見鬼的警察處容 "wikilink")》
+  - 《[看見鬼的刑警處容](../Page/能看見鬼的警察處容.md "wikilink")》
   - 《MTV Pulse》
   - 《MTV James》
   - 《MTV Grind》
@@ -607,7 +607,7 @@ E\&M及](https://zh.wikipedia.org/wiki/CJ希杰集團 "wikilink")[tvN製作](../
     少女時代](https://zh.wikipedia.org/wiki/Channel_少女時代 "wikilink")》
   - 《School's Out》
   - 《美體姊妹團2》
-  - 《[魔女的戀愛](https://zh.wikipedia.org/wiki/魔女的戀愛 "wikilink")》
+  - 《[魔女的戀愛](../Page/魔女的戀愛.md "wikilink")》
   - 《[腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")》
   - 《[Unpretty Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》
   - 《[Unpretty Rapstar

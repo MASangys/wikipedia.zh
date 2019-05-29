@@ -49,8 +49,8 @@ Linux設備被其製造商建成運行的Linux。這降低了它們起步發展�
 [Category:消費電子產品](https://zh.wikipedia.org/wiki/Category:消費電子產品 "wikilink")
 
 1.  [iPods](https://zh.wikipedia.org/wiki/iPod "wikilink"),
-    [PlayStations](https://zh.wikipedia.org/wiki/PlayStation "wikilink"),
-    [Xbox](https://zh.wikipedia.org/wiki/Xbox "wikilink"),
+    [PlayStations](../Page/PlayStation.md "wikilink"),
+    [Xbox](../Page/Xbox.md "wikilink"),
     [TiVo](../Page/TiVo.md "wikilink"),
     [WRT54G](https://zh.wikipedia.org/wiki/Linksys#WRT54G "wikilink")
 2.  Linksys with the

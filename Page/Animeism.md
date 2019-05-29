@@ -90,7 +90,7 @@
 <td><p><a href="../Page/鬼燈的冷徹.md" title="wikilink">鬼燈的冷徹</a></p></td>
 <td></td>
 <td><p>13</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/WIT_STUDIO" title="wikilink">WIT STUDIO</a></p></td>
+<td><p><a href="../Page/WIT_STUDIO.md" title="wikilink">WIT STUDIO</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

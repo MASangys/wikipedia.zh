@@ -1284,7 +1284,7 @@ Sync 也對中國大陸推出了伺服器位於中國大陸境內的「火狐通
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/北索托語" title="wikilink">北索托語</a></p></td>
+<td><p><a href="../Page/北索托語.md" title="wikilink">北索托語</a></p></td>
 <td></td>
 <td></td>
 <td></td>

@@ -27,7 +27,7 @@ zone发售](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
   - 上一首單曲《[轉啊轉](../Page/轉啊轉.md "wikilink")》的選拔成員全部入選了本次的選拔成員。而第一次入選選拔組有EGD的渡邉真梨奈。
   - Aya、Erie、MIYUU、杉枝真結、川本璃、武藤千春、市來杏香、萩尾美聖、稲垣莉生、中嶋桃花繼《[滿懷歉意的Kissing
-    You](https://zh.wikipedia.org/wiki/滿懷歉意的Kissing_You "wikilink")》後重回選拔組
+    You](../Page/滿懷歉意的Kissing_You.md "wikilink")》後重回選拔組
   - Aya繼《[THE NEVER ENDING STORY
     ～告訴你一個小秘密～](../Page/THE_NEVER_ENDING_STORY.md "wikilink")》後再選拔為主唱。
   - [水野繪梨奈因已離隊而沒有在選拔名單上](../Page/水野繪梨奈.md "wikilink")。

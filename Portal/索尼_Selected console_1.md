@@ -8,7 +8,7 @@ PlayStation是[PlayStation系列游戏机和](https://zh.wikipedia.org/wiki/Play
 
 <div style="text-align:right;">
 
-**[更多...](https://zh.wikipedia.org/wiki/PlayStation "wikilink")**
+**[更多...](../Page/PlayStation.md "wikilink")**
 
 </div>
 

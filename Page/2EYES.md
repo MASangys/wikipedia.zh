@@ -144,7 +144,7 @@ NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")》，香淑合格。在
 
   - 2013年：SBS《[出生的祕密](../Page/出生的祕密.md "wikilink")》（香淑，飾演李善瑛童年時期）
   - 2013年：SBS《[欲戴王冠，必承其重－繼承者們](https://zh.wikipedia.org/wiki/欲戴王冠，必承其重－繼承者們 "wikilink")》（全體，第四集客串）
-  - 2014年：[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[剩餘公主](https://zh.wikipedia.org/wiki/剩餘公主 "wikilink")》（香淑，客串）
+  - 2014年：[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[剩餘公主](../Page/剩餘公主.md "wikilink")》（香淑，客串）
   - 2015年：[TV朝鮮](../Page/TV朝鮮.md "wikilink")／tvN《[偉大的故事](../Page/偉大的故事.md "wikilink")－[入試的定石](https://zh.wikipedia.org/wiki/偉大的故事#入試的定石 "wikilink")》（香淑）
   - 2016年：Naver tvcast《疾風計劃》（香淑，飾演李日順）
 

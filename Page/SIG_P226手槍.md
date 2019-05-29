@@ -1153,7 +1153,7 @@ P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧](..
   - 2014年—《[-{zh-cn:敢死队3; zh-tw:浴血任務3;
     zh-hk:轟天猛將3;}-](https://zh.wikipedia.org/wiki/敢死队3 "wikilink")》：型號為黑色底把及不鏽鋼套筒型P226，被浴血幫新成員露娜（Luna，[龙达·鲁西飾演](../Page/龙达·鲁西.md "wikilink")）所使用。
   - 2014年—《[美國狙擊手](../Page/美國狙擊手_\(電影\).md "wikilink")》：型號為全黑色底把型P226，被馬坦斯上尉（Captain
-    Martens，[山姆·贾格飾演](https://zh.wikipedia.org/wiki/山姆·贾格 "wikilink")）作為所使用。
+    Martens，[山姆·贾格飾演](../Page/山姆·贾格.md "wikilink")）作為所使用。
   - 2015年—《[-{zh-cn:飓风营救; zh-tw:即刻救援;
     zh-hk:救參96小時;}-3](../Page/即刻救援3.md "wikilink")》：型號為全黑色底把型P226，被前中情局探員布萊恩·米爾斯（Bryan
     Mills，[連恩·尼遜飾演](../Page/連恩·尼遜.md "wikilink")）作為兔子洞收藏武器所使用。
@@ -1170,7 +1170,7 @@ P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧](..
     E2型和P226R：
       - 2017年時，P226 E2型被卡爾·雷斯（Kyle
         Reese，[傑·寇特尼飾演](../Page/傑·寇特尼.md "wikilink")）和莎拉·康納（Sarah
-        Connor，[艾美莉·克拉克飾演](https://zh.wikipedia.org/wiki/艾美莉·克拉克 "wikilink")）於醫院停車場至賽博坦公司的戰鬥中所使用；也被[三藩市警察局警員作為](../Page/三藩市警察局.md "wikilink")所使用。
+        Connor，[艾美莉·克拉克飾演](../Page/艾美莉·克拉克.md "wikilink")）於醫院停車場至賽博坦公司的戰鬥中所使用；也被[三藩市警察局警員作為](../Page/三藩市警察局.md "wikilink")所使用。
       - P226R被張警探（Detective Cheung，飾演）所使用。
   - 2015年—《[-{zh-cn:碟中谍5：神秘国度; zh-tw:不可能的任務：失控國度;
     zh-hk:職業特工隊：叛逆帝國;}-](https://zh.wikipedia.org/wiki/不可能的任務：失控國度 "wikilink")》：型號為P226R，裝上[消聲器](../Page/抑制器.md "wikilink")（圓筒型和魚鷹消聲器）和紅點瞄準器（少數）並且被國際恐怖組織「辛迪加」成員、伊爾莎·浮士德（Ilsa
@@ -1305,14 +1305,14 @@ P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧](..
 ### 輕小說
 
   - 2008年—《[-{zh-hans:绯弹的亚里亚;
-    zh-hant:緋彈的亞莉亞;}-](../Page/緋彈的亞莉亞.md "wikilink")》：型號為P226R，被艾爾·華生（エル・ワトソン，[聲優](../Page/聲優.md "wikilink")：[大西沙織](https://zh.wikipedia.org/wiki/大西沙織 "wikilink")）所使用。
+    zh-hant:緋彈的亞莉亞;}-](../Page/緋彈的亞莉亞.md "wikilink")》：型號為P226R，被艾爾·華生（エル・ワトソン，[聲優](../Page/聲優.md "wikilink")：[大西沙織](../Page/大西沙織.md "wikilink")）所使用。
 
 ## 參見
 
   - [三軍戰鬥手槍](https://zh.wikipedia.org/wiki/三軍戰鬥手槍 "wikilink")（Joint
     Combat Pistol，JCP）
   - [貝瑞塔M9手槍](../Page/貝瑞塔M9手槍.md "wikilink")
-  - [FN HP-DA](https://zh.wikipedia.org/wiki/白朗寧雙動手槍 "wikilink")
+  - [FN HP-DA](../Page/白朗寧雙動手槍.md "wikilink")
   - [HK P9S](../Page/HK_P9S手槍.md "wikilink")
   - [史密斯威森M459](../Page/史密斯威森M59手槍.md "wikilink")
   - [SIG P227](../Page/SIG_P227手槍.md "wikilink")

@@ -23,7 +23,7 @@ GHz四核[Snapdragon
 800芯片](../Page/高通驍龍.md "wikilink")，而在上述地區以外銷售的僅限於[GSM的型號](../Page/GSM.md "wikilink")（N9000
 / N9006）使用八核[Exynos 5420由四核](../Page/三星Exynos.md "wikilink")1.9 GHz
 [Cortex-A15內核和四核](../Page/ARM_Cortex-A15_MPCore.md "wikilink")1.3 GHz
-[Cortex-A7內核組成](https://zh.wikipedia.org/wiki/ARM_Cortex-A7_MPCore "wikilink")。兩種模型的測試都表現出相似的性能。\[2\]該設備還包括3
+[Cortex-A7內核組成](../Page/ARM_Cortex-A7_MPCore.md "wikilink")。兩種模型的測試都表現出相似的性能。\[2\]該設備還包括3
 GB RAM，5.7英寸[1080p](../Page/1080p.md "wikilink") [Super
 AMOLED顯示屏](../Page/AMOLED.md "wikilink")，1300萬像素後置攝像頭，能夠以60
 fps的速度拍攝1080p視頻和 [4K分辨率](../Page/4K解析度.md "wikilink")，30

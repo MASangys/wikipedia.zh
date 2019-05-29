@@ -7,7 +7,7 @@ STYLE**是[日本的](../Page/日本.md "wikilink")[搞笑藝人二人組](https
 STYLE。電視演出雖亦未如奧黛麗的多，但仍活躍於綜藝節目中。\[4\]
 
 他們在2009年亦通過敗部復活戰再次晉身M-1大賽決賽圈，奪得第3名。\[5\]2013年，於日本漫才大賽[THE MANZAI
-2013進入三甲之列](https://zh.wikipedia.org/wiki/THE_MANZAI_\(日本漫才比賽\) "wikilink")，但沒有獲勝。
+2013進入三甲之列](../Page/THE_MANZAI_\(日本漫才比賽\).md "wikilink")，但沒有獲勝。
 
 ## 成員
 

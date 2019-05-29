@@ -15,7 +15,7 @@
     ～魔女的鐵鎚～](../Page/特蘿蒂亞_～魔女的鐵鎚～.md "wikilink")〉以後，就有持續在一般向漫畫雜誌上連載。
   - 2013年－[秋田書店](../Page/秋田書店.md "wikilink")《[Champion RED
     Ichigo](https://zh.wikipedia.org/wiki/Champion_RED_Ichigo "wikilink")》上連載〈VANITAS〉、秋田書店《[Champion
-    RED](https://zh.wikipedia.org/wiki/Champion_RED "wikilink")》連載〈[絢爛的世界舞台](https://zh.wikipedia.org/wiki/絢爛的世界舞台 "wikilink")〉。
+    RED](../Page/Champion_RED.md "wikilink")》連載〈[絢爛的世界舞台](https://zh.wikipedia.org/wiki/絢爛的世界舞台 "wikilink")〉。
 
 ## 作品
 

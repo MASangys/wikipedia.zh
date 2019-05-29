@@ -60,7 +60,7 @@ Wong，籌備超過一年後安排出道，三位成員包括[葉灝基](https:/
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/天堂鳥_(EP)" title="wikilink">天堂鳥</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/天堂鳥_(EP).md" title="wikilink">天堂鳥</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/創富文化" title="wikilink">創富文化</a></p></td>
 <td style="text-align: left;"><p>2014年9月12日</p></td>
@@ -136,7 +136,7 @@ Wong，籌備超過一年後安排出道，三位成員包括[葉灝基](https:/
 | --------------------------------------------------------------- |
 | 唱片                                                              |
 | **2014年**                                                       |
-| [天堂鳥](https://zh.wikipedia.org/wiki/天堂鳥_\(EP\) "wikilink")      |
+| [天堂鳥](../Page/天堂鳥_\(EP\).md "wikilink")                         |
 | 天堂鳥                                                             |
 | 天堂鳥                                                             |
 | 天堂鳥                                                             |

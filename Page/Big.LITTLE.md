@@ -1,7 +1,7 @@
 **ARM
 big.LITTLE**或**big.LITTLE**是由[安謀國際科技公司](https://zh.wikipedia.org/wiki/安謀國際科技 "wikilink")（ARM）提出的[異質運算](https://zh.wikipedia.org/wiki/異質運算 "wikilink")[多核心處理器組態結構配置](../Page/多核心處理器.md "wikilink")。在這個組態，將比較耗電、但運算能力強的處理器核心組成的「big叢集」與低耗電、運算能力弱的處理器核心組成的「LITTLE叢集」結合在一起，這些處理器核心共用[記憶體區段](https://zh.wikipedia.org/wiki/記憶體 "wikilink")，並能夠在不同的CPU叢集之間線上實時分派、切換負載。\[1\]這個多核心處理器組態結構運用在-{zh-hant:行動計算;zh-cn:移动计算}-上，從而能夠做出計算高效能，但是平均耗電低的多核心處理器，ARM的市場資料稱在某些運算操作中這個組態配置相比只使用與「big叢集」相同CPU核心數量的處理器可節省多達75%的功耗。\[2\]
 
-本組態配置式在2011年10月ARM發表[Cortex-A7時首次對外公布](https://zh.wikipedia.org/wiki/ARM_Cortex-A7_MPCore "wikilink")，[Cortex-A15也能夠與這個架構相容](../Page/ARM_Cortex-A15_MPCore.md "wikilink")。\[3\]2012年10月，ARM公司宣布與（[ARMv8](https://zh.wikipedia.org/wiki/ARMv8 "wikilink")）也能與這個架構相容。\[4\]2014年2月ARM發表，同一年在[Computex
+本組態配置式在2011年10月ARM發表[Cortex-A7時首次對外公布](../Page/ARM_Cortex-A7_MPCore.md "wikilink")，[Cortex-A15也能夠與這個架構相容](../Page/ARM_Cortex-A15_MPCore.md "wikilink")。\[3\]2012年10月，ARM公司宣布與（[ARMv8](https://zh.wikipedia.org/wiki/ARMv8 "wikilink")）也能與這個架構相容。\[4\]2014年2月ARM發表，同一年在[Computex
 2013上ARM又發表了](../Page/台北國際電腦展覽會.md "wikilink")，這兩種CPU核心也可用於big.LITTLE配置式中的「big叢集」上（「LITTLE叢集」由Cortex-A7擔當）。\[5\]\[6\]
 
 2017年5月，ARM發表DynamIQ取代big.LITTLE。\[7\]與big.LITTLE相比，DynamIQ允許更為靈活的CPU核心配置和更大規模的叢集設計（每個CPU叢集可以有八顆CPU核心）、叢集數量更多（一塊CPU上最大可擴充至32個叢集）、更精確的電源控制（每個核心內有更多的時鐘門控和電壓控制）以及更快速的L2快取存取操作。然而DynamIQ僅適用於[Cortex-A75](https://zh.wikipedia.org/wiki/ARM_Cortex-A75 "wikilink")、[Cortex-A55及往後推出的ARM](https://zh.wikipedia.org/wiki/ARM_Cortex-A55 "wikilink")

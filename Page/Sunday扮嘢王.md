@@ -92,7 +92,7 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 <p>模仿趣劇《來自藍星的你》：</p>
 <ul>
 <li><span style="color:red;">狂派</span>：<a href="../Page/薛家燕.md" title="wikilink">薛家燕</a> 飾 羊尾研（模仿<a href="https://zh.wikipedia.org/wiki/來自星星的你#千頌伊周邊人物" title="wikilink">楊美妍</a> (<a href="../Page/羅映姬.md" title="wikilink">羅映姬飾</a>)）、<a href="../Page/魯振順.md" title="wikilink">魯振順</a> 飾 千頌A、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a> 飾 千頌C、<a href="../Page/何傲兒.md" title="wikilink">何傲兒</a> 飾 千頌E女兒、<a href="../Page/朱咪咪.md" title="wikilink">朱咪咪</a> 飾 千頌E（模仿<a href="https://zh.wikipedia.org/wiki/來自星星的你#主要人物" title="wikilink">千頌伊</a> (<a href="../Page/全智賢.md" title="wikilink">全智賢飾</a>)）、<a href="../Page/王維德.md" title="wikilink">王維德</a> 飾 BabySummer（模仿<a href="../Page/夏韶聲.md" title="wikilink">夏韶聲</a>）</li>
-<li><span style="color:blue;">搏派</span>：<a href="../Page/王祖藍.md" title="wikilink">王祖藍</a> 飾 都吻俊（模仿<a href="https://zh.wikipedia.org/wiki/都敏俊" title="wikilink">都敏俊</a> (<a href="https://zh.wikipedia.org/wiki/金秀賢" title="wikilink">金秀賢飾</a>)）、<a href="../Page/張致恆.md" title="wikilink">張致恆</a> 飾 千頌B</li>
+<li><span style="color:blue;">搏派</span>：<a href="../Page/王祖藍.md" title="wikilink">王祖藍</a> 飾 都吻俊（模仿<a href="../Page/都敏俊.md" title="wikilink">都敏俊</a> (<a href="https://zh.wikipedia.org/wiki/金秀賢" title="wikilink">金秀賢飾</a>)）、<a href="../Page/張致恆.md" title="wikilink">張致恆</a> 飾 千頌B</li>
 </ul>
 <p>扮嘢新力軍：</p>
 <ul>
@@ -238,7 +238,7 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 <p>模仿趣劇《倩女也招親》：</p>
 <ul>
 <li><span style="color:red;">狂派</span>：<a href="../Page/薛家燕.md" title="wikilink">薛家燕</a> 飾 聖婆煩（模仿<a href="https://zh.wikipedia.org/wiki/羅蘭" title="wikilink">羅蘭</a>）、<a href="../Page/王俊棠.md" title="wikilink">王俊棠</a> 飾 捉鬼霞（模仿<a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">燕赤霞</a> (<a href="../Page/午馬.md" title="wikilink">午馬飾</a>)）、<a href="https://zh.wikipedia.org/wiki/溫超" title="wikilink">溫超</a> 飾 回魂Leon（模仿<a href="../Page/回魂夜_(1995年電影).md" title="wikilink">Leon</a> (<a href="../Page/周星馳.md" title="wikilink">周星馳飾</a>)）、<a href="../Page/沈卓盈.md" title="wikilink">沈卓盈</a> 飾 姥姥（模仿<a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">姥姥</a> (<a href="../Page/劉兆銘.md" title="wikilink">劉兆銘飾</a>)）</li>
-<li><span style="color:blue;">搏派</span>：<a href="../Page/莫家淦.md" title="wikilink">莫家淦飾</a> 唔睬神（模仿<a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">寧采臣</a> (<a href="../Page/張國榮.md" title="wikilink">張國榮飾</a>)）、<a href="../Page/周子揚.md" title="wikilink">周子揚</a> 飾 狼人（模仿<a href="../Page/金鋼狼.md" title="wikilink">金鋼狼</a>）、<a href="../Page/王祖藍.md" title="wikilink">王祖藍</a> 飾 小倩／Meggie（模仿<a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">聶小倩</a> (<a href="../Page/王祖賢.md" title="wikilink">王祖賢飾</a>)／《<a href="https://zh.wikipedia.org/wiki/沒女大翻身" title="wikilink">沒女大翻身</a>》Meggie）</li>
+<li><span style="color:blue;">搏派</span>：<a href="../Page/莫家淦.md" title="wikilink">莫家淦飾</a> 唔睬神（模仿<a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">寧采臣</a> (<a href="../Page/張國榮.md" title="wikilink">張國榮飾</a>)）、<a href="../Page/周子揚.md" title="wikilink">周子揚</a> 飾 狼人（模仿<a href="../Page/金鋼狼.md" title="wikilink">金鋼狼</a>）、<a href="../Page/王祖藍.md" title="wikilink">王祖藍</a> 飾 小倩／Meggie（模仿<a href="../Page/倩女幽魂_(1987年電影).md" title="wikilink">聶小倩</a> (<a href="../Page/王祖賢.md" title="wikilink">王祖賢飾</a>)／《<a href="../Page/沒女大翻身.md" title="wikilink">沒女大翻身</a>》Meggie）</li>
 </ul>
 <p>扮嘢新力軍：</p>
 <ul>
@@ -538,8 +538,8 @@ TVB「扮嘢」奇才輩出，歷代「扮嘢王」如「秋官」[鄭少秋](..
 ## 記事
 
   - 2014年7月5日：拜神及錄影\[1\]\[2\]。
-  - 2014年8月24日：由于播映《[2014香港小姐竞选准决赛](https://zh.wikipedia.org/wiki/2014年度香港小姐競選 "wikilink")》，本节目暂停播映一次。
-  - 2014年8月31日：由于播映《[2014香港小姐竞选决赛](https://zh.wikipedia.org/wiki/2014年度香港小姐競選 "wikilink")》，本节目暂停播映一次。
+  - 2014年8月24日：由于播映《[2014香港小姐竞选准决赛](../Page/2014年度香港小姐競選.md "wikilink")》，本节目暂停播映一次。
+  - 2014年8月31日：由于播映《[2014香港小姐竞选决赛](../Page/2014年度香港小姐競選.md "wikilink")》，本节目暂停播映一次。
   - 2014年9月28日：由于突發[佔領中環事件](../Page/讓愛與和平佔領中環.md "wikilink")，翡翠台當日有多檔節目要提前或延後播出，本节目暂停播映一次。
 
 ## 收視

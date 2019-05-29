@@ -12,8 +12,8 @@ License](https://zh.wikipedia.org/wiki/Mozilla_Public_License "wikilink")
 FreeSWITCH 项目最初于2006年1月在[O'Reilly
 Media](https://zh.wikipedia.org/wiki/O'Reilly_Media "wikilink")'s ETEL
 会议上发布。\[1\] 2007年6月，FreeSWITCH
-被[Truphone](https://zh.wikipedia.org/wiki/Truphone "wikilink")
-采用\[2\]。2007年8月, Gaboogie 宣布使用FreeSWITCH作为电话会议平台。\[3\]
+被[Truphone](../Page/Truphone.md "wikilink") 采用\[2\]。2007年8月, Gaboogie
+宣布使用FreeSWITCH作为电话会议平台。\[3\]
 
 FreeSWITCH的第一个官方的1.0.0版 (Phoenix)
 发布于2008年5月26日。\[4\]2008年7月24日发布了一个小的更新版。\[5\]

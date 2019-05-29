@@ -27,7 +27,7 @@ MSMC衝鋒槍有以下特色：
     發專用可拆卸式[塑料](../Page/塑料.md "wikilink")[彈匣插進手槍式握把裡](../Page/彈匣.md "wikilink")。
   - 裝有一個可[槍托](../Page/槍托.md "wikilink")、大型握把護圈以及裝在槍身兩邊而且能夠完全靈巧操作[拉機桿](https://zh.wikipedia.org/wiki/拉機柄 "wikilink")（可以摺疊）\[27\]
   - 發射模式控制選擇／手動保險桿就安裝在扳機的上方，\[28\]以方便使用右手和右肩膀或是左手和左肩膀的使用者在使用武器抵肩射擊時所使用。
-  - 除了已內置其[機械瞄具](../Page/機械瞄具.md "wikilink")，機匣上亦整合了一條[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以用以讓使用者將[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、光電瞄準具（[紅點鏡／反射式瞄準鏡和](../Page/紅點鏡.md "wikilink")[全息瞄準鏡](https://zh.wikipedia.org/wiki/全像武器照準器 "wikilink")）、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀等配件於戰術導軌上自由安裝](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。\[29\]
+  - 除了已內置其[機械瞄具](../Page/機械瞄具.md "wikilink")，機匣上亦整合了一條[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以用以讓使用者將[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、光電瞄準具（[紅點鏡／反射式瞄準鏡和](../Page/紅點鏡.md "wikilink")[全息瞄準鏡](../Page/全像武器照準器.md "wikilink")）、[夜視鏡或](../Page/夜視鏡.md "wikilink")[熱成像儀等配件於戰術導軌上自由安裝](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")。\[29\]
   - 以[氣動式操作模式射擊](../Page/氣動式_\(槍械\).md "wikilink")，利用[滾轉式槍機閉鎖和氣動活塞推動槍機連桿總成連槍機往後運動](../Page/滾轉式槍機.md "wikilink")。\[30\]
   - 與烏茲一樣，使用由金屬板[衝壓件所製造](../Page/衝壓.md "wikilink")，並且裝上[聚合物外殼](../Page/聚合物.md "wikilink")。\[31\]
   - 它的一個不尋常的設計特點就是位於[機匣前端](https://zh.wikipedia.org/wiki/機匣 "wikilink")、安裝在[槍管以上的](../Page/槍管.md "wikilink")，以便[近身距離作戰時使用裝上](../Page/近身距離作戰.md "wikilink")[刺刀應戰](../Page/刺刀.md "wikilink")。\[32\]

@@ -1361,7 +1361,7 @@ Roses](../Page/Preserved_Roses.md "wikilink")」（第2話－第12話）\[33\]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/NOTTV" title="wikilink">NOTTV</a></p></td>
+<td><p><a href="../Page/NOTTV.md" title="wikilink">NOTTV</a></p></td>
 <td><p>2013年5月7日 - 7月23日</p></td>
 <td><p>星期二 19時30分 - 20時00分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/マルチメディア放送" title="wikilink">モバキャス</a></p></td>

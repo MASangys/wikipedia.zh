@@ -23,10 +23,10 @@ every1頻道播出](../Page/MBC_Plus_Media.md "wikilink")。
 <td><p>2</p></td>
 <td><p>2013年12月5日</p></td>
 <td><p>結束行程後，做什麼事情來度過呢?</p></td>
-<td><p>• 在<a href="https://zh.wikipedia.org/wiki/弘大_(首尔)" title="wikilink">弘大夜市吃烤大腸</a> ( <a href="https://zh.wikipedia.org/wiki/Kris" title="wikilink">Kris</a> , <a href="https://zh.wikipedia.org/wiki/Baekhyun" title="wikilink">Baekhyun</a> , <a href="../Page/Chanyeol.md" title="wikilink">Chanyeol</a> , <a href="https://zh.wikipedia.org/wiki/Tao" title="wikilink">Tao</a> , <a href="https://zh.wikipedia.org/wiki/Sehun" title="wikilink">Sehun</a> )<br />
+<td><p>• 在<a href="https://zh.wikipedia.org/wiki/弘大_(首尔)" title="wikilink">弘大夜市吃烤大腸</a> ( <a href="https://zh.wikipedia.org/wiki/Kris" title="wikilink">Kris</a> , <a href="https://zh.wikipedia.org/wiki/Baekhyun" title="wikilink">Baekhyun</a> , <a href="../Page/Chanyeol.md" title="wikilink">Chanyeol</a> , <a href="https://zh.wikipedia.org/wiki/Tao" title="wikilink">Tao</a> , <a href="../Page/Sehun.md" title="wikilink">Sehun</a> )<br />
 • 看電影 ( <a href="https://zh.wikipedia.org/wiki/都暻秀" title="wikilink">D.O.</a> )<br />
 • 溜狗 ( <a href="../Page/Suho.md" title="wikilink">Suho</a> , <a href="../Page/Kai.md" title="wikilink">Kai</a> )<br />
-• 在<a href="../Page/漢江_(韓國).md" title="wikilink">漢江踏單車</a> ( <a href="https://zh.wikipedia.org/wiki/Xiumin" title="wikilink">Xiumin</a> , <a href="https://zh.wikipedia.org/wiki/Luhan" title="wikilink">Luhan</a> , <a href="https://zh.wikipedia.org/wiki/Lay" title="wikilink">Lay</a> , <a href="../Page/EXO.md" title="wikilink">Chen</a> )</p></td>
+• 在<a href="../Page/漢江_(韓國).md" title="wikilink">漢江踏單車</a> ( <a href="../Page/Xiumin.md" title="wikilink">Xiumin</a> , <a href="https://zh.wikipedia.org/wiki/Luhan" title="wikilink">Luhan</a> , <a href="https://zh.wikipedia.org/wiki/Lay" title="wikilink">Lay</a> , <a href="../Page/EXO.md" title="wikilink">Chen</a> )</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>

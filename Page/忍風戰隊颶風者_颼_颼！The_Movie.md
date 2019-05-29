@@ -56,8 +56,7 @@ G4](https://zh.wikipedia.org/wiki/假面騎士Agito_Project_G4 "wikilink")』、
 ### 邪暗者
 
   -
-    **首領·塔臧特<small>｜**[梁田清之](https://zh.wikipedia.org/wiki/梁田清之 "wikilink")
-    聲</small>
+    **首領·塔臧特<small>｜**[梁田清之](../Page/梁田清之.md "wikilink") 聲</small>
     **一之槍·芙拉碧裘<small>｜**[山本梓](../Page/山本梓.md "wikilink")</small>
     **三之槍·曼馬魯巴<small>｜**[今村卓博](../Page/今村卓博.md "wikilink") 聲</small>
     **四之槍·溫蒂努<small>｜**[福澄美緒](https://zh.wikipedia.org/wiki/福澄美緒 "wikilink")</small>

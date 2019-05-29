@@ -17,8 +17,7 @@ BitLocker内置于以下系统：
     7旗舰版与企业版](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")
   - [Windows
     8与](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")[8.1专业版与企业版](../Page/Windows_8.1.md "wikilink")\[11\]\[12\]
-  - [Windows
-    10专业版](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")、企业版与教育版\[13\]
+  - [Windows 10专业版](../Page/Windows_10.md "wikilink")、企业版与教育版\[13\]
   - [Windows Server
     2008](../Page/Windows_Server_2008.md "wikilink")\[14\]及其之后系统\[15\]\[16\]
 

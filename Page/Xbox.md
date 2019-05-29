@@ -192,7 +192,7 @@ VideoKinect <small>(<a href="../Page/Kinect.md" title="wikilink">Kinect</a> sens
 <td><p><a href="https://zh.wikipedia.org/wiki/Xbox_Music_Mixer" title="wikilink">Xbox Music Mixer</a><br />
 DVD Playback Kit, <a href="https://zh.wikipedia.org/wiki/Xbox_Linux" title="wikilink">Xbox Linux</a></p></td>
 <td><p>在<a href="https://zh.wikipedia.org/wiki/Xbox_360_system_software" title="wikilink">Xbox 360 system software查看更多</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Xbox_One#Operating_system" title="wikilink">Xbox OS</a>, <a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">Windows 8</a>, <a href="https://zh.wikipedia.org/wiki/Windows_10" title="wikilink">Windows 10</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Xbox_One#Operating_system" title="wikilink">Xbox OS</a>, <a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">Windows 8</a>, <a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>
 <td></td>
 </tr>
 <tr class="even">

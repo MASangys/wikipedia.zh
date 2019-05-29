@@ -1,4 +1,4 @@
-「STAR☆ANIS」是《[偶像活動](https://zh.wikipedia.org/wiki/偶像活動！_\(動畫\) "wikilink")》動畫中的登場組合，與現實中的8人組合同名。
+「STAR☆ANIS」是《[偶像活動](../Page/偶像活動！_\(動畫\).md "wikilink")》動畫中的登場組合，與現實中的8人組合同名。
 
 「STAR☆ANIS」是由神崎美月把自己的「Tristar」、小莓的「Soleil」、乙女的「Powa Powa
 Puririn」（除了詩音的自動辭退外）所合併成的新偶像團體。夏季巡演大成功後返歸日本，在豪華客輪上的秘密活動中迎接最後一場表演，然後便解散。

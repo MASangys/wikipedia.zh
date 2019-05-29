@@ -171,7 +171,7 @@ Seven的旗下企業](../Page/Sigma_Seven.md "wikilink")\[3\]，因應原關係�
 
   - 松下真緒
   - [宮下早紀](../Page/宮下早紀.md "wikilink")
-  - [森優子](https://zh.wikipedia.org/wiki/森優子 "wikilink")
+  - [森優子](../Page/森優子.md "wikilink")
   - [森永千才](../Page/森永千才.md "wikilink")
 
 <!-- end list -->

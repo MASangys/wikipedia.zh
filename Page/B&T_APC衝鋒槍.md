@@ -160,7 +160,7 @@ APC556突擊步槍型是APC9衝鋒槍的[5.56×45毫米](../Page/5.56×45mm_NATO
   - [PP-19-01勇士衝鋒槍](../Page/PP-19-01勇士衝鋒槍.md "wikilink")
   - [PPSh-41和](../Page/PPSh-41冲锋枪.md "wikilink")[PPS-43](https://zh.wikipedia.org/wiki/PPS冲锋枪 "wikilink")[冲锋枪](../Page/冲锋枪.md "wikilink")
   - [PP-90M1](../Page/PP-90M1衝鋒槍.md "wikilink")
-  - [SIG MPX衝鋒槍](https://zh.wikipedia.org/wiki/SIG_MPX衝鋒槍 "wikilink")
+  - [SIG MPX衝鋒槍](../Page/SIG_MPX衝鋒槍.md "wikilink")
   - [B\&T MP9戰術衝鋒槍](../Page/B&T_MP9戰術衝鋒槍.md "wikilink")
   - [B\&T P26衝鋒槍](https://zh.wikipedia.org/wiki/B&T_P26衝鋒槍 "wikilink")
   - [B\&T VP9消聲手槍](https://zh.wikipedia.org/wiki/B&T_VP9消聲手槍 "wikilink")

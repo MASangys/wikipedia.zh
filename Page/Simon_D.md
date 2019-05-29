@@ -189,9 +189,9 @@ Park》，宣佈自己已卸下AOMG代表的職位，恢復一般藝人歌手。
   - 2014年 6月7日:
     [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[柳熙烈的写生簿](https://zh.wikipedia.org/wiki/柳熙烈的写生簿 "wikilink")》
   - 2014年 10月7日: [Mnet](../Page/Mnet媒體.md "wikilink")《[MIX &
-    MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")》
+    MATCH](../Page/MIX_&_MATCH.md "wikilink")》
   - 2014年 10月16日: [Mnet](../Page/Mnet媒體.md "wikilink")《[MIX &
-    MATCH](https://zh.wikipedia.org/wiki/MIX_&_MATCH "wikilink")》
+    MATCH](../Page/MIX_&_MATCH.md "wikilink")》
   - 2015年 6月28日 \~ 8月2日:
     [O'live](https://zh.wikipedia.org/wiki/O'live "wikilink")《[Maps](https://zh.wikipedia.org/wiki/Maps "wikilink")》
   - 2015年 8月3日:

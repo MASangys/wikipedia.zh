@@ -337,7 +337,7 @@
 </tr>
 <tr class="odd">
 <td><p>013</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/闇之國的小紅帽" title="wikilink">闇之國的小紅帽</a></p></td>
+<td><p><a href="../Page/闇之國的小紅帽.md" title="wikilink">闇之國的小紅帽</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Killer" title="wikilink">Killer</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Fori" title="wikilink">Fori</a></p></td>
 <td><p>2013年7月5日</p></td>

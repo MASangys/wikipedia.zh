@@ -72,6 +72,6 @@ Raw和](../Page/WWE_Raw.md "wikilink")[SmackDown](https://zh.wikipedia.org/wiki/
 
   - [NXT
     Wrestling](https://zh.wikipedia.org/wiki/NXT_Wrestling "wikilink")
-  - [NXT Arrival](https://zh.wikipedia.org/wiki/NXT_Arrival "wikilink")
+  - [NXT Arrival](../Page/NXT_Arrival.md "wikilink")
 
 [Category:世界摔角娛樂](https://zh.wikipedia.org/wiki/Category:世界摔角娛樂 "wikilink")

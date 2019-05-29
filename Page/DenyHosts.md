@@ -21,7 +21,7 @@ Cid撰写了一篇论文，表示DenyHosts以及类似的应用和BlockHosts，�
   - ，一个类似的程序，防止对SSH以及其他服务的暴力破解攻击
 
   -
-  - [TCP Wrapper](https://zh.wikipedia.org/wiki/TCP_Wrapper "wikilink")
+  - [TCP Wrapper](../Page/TCP_Wrapper.md "wikilink")
 
 ## 参考文献
 

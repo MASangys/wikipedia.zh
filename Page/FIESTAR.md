@@ -464,17 +464,17 @@ PlotData =
 
 ### 电视剧
 
-|  年份   |                         電視台                         |                              劇名                               | 出演成員 |   角色   |     性質     |
-| :---: | :-------------------------------------------------: | :-----------------------------------------------------------: | :--: | :----: | :--------: |
-| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") |              [漂亮男人](../Page/漂亮男人.md "wikilink")               | Jei  |  崔道熙   |     配角     |
-| 2014年 | [TvN](https://zh.wikipedia.org/wiki/TvN "wikilink") |     [剩餘公主](https://zh.wikipedia.org/wiki/剩餘公主 "wikilink")     | Jei  |  韓菊子   |     客串     |
-| 2014年 |       [SBS](../Page/SBS_\(韓國\).md "wikilink")       | [對我而言可愛的她](https://zh.wikipedia.org/wiki/對我而言可愛的她 "wikilink") |  全體  | ANA练习生 |     客串     |
-| 2014年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |                        Mental Shooter                         |  全体  |        | Linzy擔任女主角 |
-| 2015年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") |              [超人時代](../Page/超人時代.md "wikilink")               | Jei  |  少女嚴枝  |     客串     |
-| 2015年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |          [媽媽](../Page/媽媽_\(2015年電視劇\).md "wikilink")          | Jei  | 嚴東俊女友  |     客串     |
-| 2016年 | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") |             [吸血鬼偵探](../Page/吸血鬼偵探.md "wikilink")              | Jei  |   世拉   |     配角     |
-| 2017年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |          [Missing9](../Page/Missing9.md "wikilink")           |  曹璐  |   蔡敏   |     配角     |
-|       |                                                     |                                                               |      |        |            |
+|  年份   |                         電視台                         |                     劇名                      | 出演成員 |   角色   |     性質     |
+| :---: | :-------------------------------------------------: | :-----------------------------------------: | :--: | :----: | :--------: |
+| 2013年 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") |     [漂亮男人](../Page/漂亮男人.md "wikilink")      | Jei  |  崔道熙   |     配角     |
+| 2014年 | [TvN](https://zh.wikipedia.org/wiki/TvN "wikilink") |     [剩餘公主](../Page/剩餘公主.md "wikilink")      | Jei  |  韓菊子   |     客串     |
+| 2014年 |       [SBS](../Page/SBS_\(韓國\).md "wikilink")       | [對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")  |  全體  | ANA练习生 |     客串     |
+| 2014年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |               Mental Shooter                |  全体  |        | Linzy擔任女主角 |
+| 2015年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") |     [超人時代](../Page/超人時代.md "wikilink")      | Jei  |  少女嚴枝  |     客串     |
+| 2015年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [媽媽](../Page/媽媽_\(2015年電視劇\).md "wikilink") | Jei  | 嚴東俊女友  |     客串     |
+| 2016年 | [OCN](https://zh.wikipedia.org/wiki/OCN "wikilink") |    [吸血鬼偵探](../Page/吸血鬼偵探.md "wikilink")     | Jei  |   世拉   |     配角     |
+| 2017年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") | [Missing9](../Page/Missing9.md "wikilink")  |  曹璐  |   蔡敏   |     配角     |
+|       |                                                     |                                             |      |        |            |
 
 ### 電影
 

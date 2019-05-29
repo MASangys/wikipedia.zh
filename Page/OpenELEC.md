@@ -1,6 +1,6 @@
 **OpenELEC**（全称：**Open Embedded Linux Entertainment
 Center**）是一个为[家庭劇院個人電腦设计的](https://zh.wikipedia.org/wiki/家庭劇院個人電腦 "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")\[1\]
-，基於[Kodi](https://zh.wikipedia.org/wiki/Kodi "wikilink")[媒体播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")\[2\]\[3\]。
+，基於[Kodi](../Page/Kodi.md "wikilink")[媒体播放器](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")\[2\]\[3\]。
 
 OpenELEC的设计使得它消耗较少资源并且可以迅速从[闪存启动](../Page/闪存.md "wikilink")。\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]
 OpenELEC也有适用于[树莓派的](../Page/树莓派.md "wikilink")[磁碟镜像](https://zh.wikipedia.org/wiki/磁碟镜像 "wikilink")。\[10\]\[11\]

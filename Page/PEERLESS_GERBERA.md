@@ -38,7 +38,7 @@ Promotion所屬經理槙潤](../Page/Mausu_Promotion.md "wikilink")\[3\]代表�
   - [地球隊長](../Page/地球隊長.md "wikilink")
   - [Soul Eater Not！](../Page/Soul_Eater_Not!.md "wikilink")
   - [赤髮白雪姬](../Page/赤髮白雪姬.md "wikilink")
-  - [路人超能100](https://zh.wikipedia.org/wiki/路人超能100 "wikilink")
+  - [路人超能100](../Page/路人超能100.md "wikilink")
 
 ## 參考來源
 

@@ -1,5 +1,5 @@
 **Kord
-12.7毫米重機槍**（，意為：科夫羅夫槍砲技師捷格加廖夫機槍；[俄罗斯国防部火箭炮兵装备总局代號](https://zh.wikipedia.org/wiki/俄罗斯国防部火箭炮兵装备总局 "wikilink")：／）是一款系列由[俄羅斯聯邦工業設計局](../Page/俄罗斯.md "wikilink")（）以[NSV“岩石”重機槍為藍本研製](../Page/NSV重機槍.md "wikilink")、（全稱：開放聯合股份公司“V.A.捷格加廖夫工廠”；，常用縮寫：）生產的12.7毫米（.50英吋）大口徑[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")，在1998年開始在[俄羅斯軍隊服役用以取代舊型號的NSV](../Page/俄罗斯军事.md "wikilink")“岩石”重機槍，\[1\]發射[12.7×108毫米俄羅斯](../Page/12.7×108mm.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50俄羅斯）[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+12.7毫米重機槍**（，意為：科夫羅夫槍砲技師捷格加廖夫機槍；[俄罗斯国防部火箭炮兵装备总局代號](../Page/俄罗斯国防部火箭炮兵装备总局.md "wikilink")：／）是一款系列由[俄羅斯聯邦工業設計局](../Page/俄罗斯.md "wikilink")（）以[NSV“岩石”重機槍為藍本研製](../Page/NSV重機槍.md "wikilink")、（全稱：開放聯合股份公司“V.A.捷格加廖夫工廠”；，常用縮寫：）生產的12.7毫米（.50英吋）大口徑[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")，在1998年開始在[俄羅斯軍隊服役用以取代舊型號的NSV](../Page/俄罗斯军事.md "wikilink")“岩石”重機槍，\[1\]發射[12.7×108毫米俄羅斯](../Page/12.7×108mm.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50俄羅斯）[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 它的設計目的是對付輕型裝甲目標和火力武器，摧毀在2,000公尺（2,187.23碼，6,561.68英尺，1.24英里）範圍內的敵方人員，以及高達1,500公尺（1,640.42码，4,921.26英尺，0.93英里）傾斜範圍內的空中目標。
 

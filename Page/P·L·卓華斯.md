@@ -62,7 +62,7 @@ Sass*）、《阿黃》（*Ah Wong*）和《強尼·德拉尼》（*Johnny
 Delany*）三本故事書作為私人禮物轉贈與親友，\[46\]這三本書都以她的生活背景為題材，頭一本的靈感源自與她少時同住的外姑婆，後兩本書的靈感則分別來自她小時候的家廚和僕人。\[47\]
 
 在美期間，卓華斯在任職[美國政府](https://zh.wikipedia.org/wiki/美國政府 "wikilink")[印第安事務專員的朋友](https://zh.wikipedia.org/wiki/印第安事務專員 "wikilink")[約翰·科利爾](https://zh.wikipedia.org/wiki/約翰·科利爾_\(改革家\) "wikilink")（John
-Collier）邀請下，曾到[美國西部遊歷](../Page/美國西部.md "wikilink")，分別與[納瓦霍族](https://zh.wikipedia.org/wiki/納瓦霍族 "wikilink")、[霍皮族和](https://zh.wikipedia.org/wiki/霍皮族 "wikilink")[蒲蘆族的印第安人生活](../Page/普韋布洛人.md "wikilink")，學習他們的[神話和民俗](https://zh.wikipedia.org/wiki/神話 "wikilink")。\[48\]她與蒲蘆族人告別時，還特別獲族人頒授一個屬於她的蒲蘆族秘密名稱。\[49\]卓華斯認為這個名稱十分有意義，因為「名稱不單是人的一部份，而且對每人而言是非常私人的事」。\[50\]
+Collier）邀請下，曾到[美國西部遊歷](../Page/美國西部.md "wikilink")，分別與[納瓦霍族](https://zh.wikipedia.org/wiki/納瓦霍族 "wikilink")、[霍皮族和](../Page/霍皮族.md "wikilink")[蒲蘆族的印第安人生活](../Page/普韋布洛人.md "wikilink")，學習他們的[神話和民俗](https://zh.wikipedia.org/wiki/神話 "wikilink")。\[48\]她與蒲蘆族人告別時，還特別獲族人頒授一個屬於她的蒲蘆族秘密名稱。\[49\]卓華斯認為這個名稱十分有意義，因為「名稱不單是人的一部份，而且對每人而言是非常私人的事」。\[50\]
 
 ### 《瑪麗·包萍》
 

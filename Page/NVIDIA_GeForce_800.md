@@ -5,9 +5,8 @@
 700系列上的GeForce GTX 750以及750 Ti。\[3\]\[4\]\[5\]後來，NVIDIA也陸續發布行動平台的GeForce
 800M系列的其他型號，除GeForce 830M、840M、GTX 850M以及GTX
 860M的部分批次以外，其餘的均使用舊有顯示核心。NVIDIA宣佈新一代Maxwell核心的首發兩款產品將被命名為[NVIDIA
-GeForce
-900系列](https://zh.wikipedia.org/wiki/NVIDIA_GeForce_900 "wikilink")，分別為GTX
-970和GTX 980。\[6\]\[7\]而預計GeForce
+GeForce 900系列](../Page/NVIDIA_GeForce_900.md "wikilink")，分別為GTX 970和GTX
+980。\[6\]\[7\]而預計GeForce
 800系列將使用在[OEM市場](https://zh.wikipedia.org/wiki/OEM "wikilink")，就像之前的[GeForce
 100和](https://zh.wikipedia.org/wiki/GeForce_100 "wikilink")[GeForce
 300系列](https://zh.wikipedia.org/wiki/GeForce_300 "wikilink")。

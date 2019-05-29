@@ -187,7 +187,7 @@ Superior**》（）是[小學館發行的少年](../Page/小學館.md "wikilink"
 
 <!-- end list -->
 
-  - [バウ](https://zh.wikipedia.org/wiki/家有賤狗 "wikilink")（[テリー山本](https://zh.wikipedia.org/wiki/テリー山本 "wikilink")）
+  - [バウ](../Page/家有賤狗.md "wikilink")（[テリー山本](https://zh.wikipedia.org/wiki/テリー山本 "wikilink")）
   - [ハサムぞ\!](https://zh.wikipedia.org/wiki/ハサムぞ! "wikilink")（[田代哲也](https://zh.wikipedia.org/wiki/田代哲也 "wikilink")）
   - パパイラズ（作：[石坂啓](https://zh.wikipedia.org/wiki/石坂啓 "wikilink")、画：[堀田あきお](https://zh.wikipedia.org/wiki/堀田あきお "wikilink")）
   - はんなり\!（柴門ふみ）2007年24号 - 2010年15号

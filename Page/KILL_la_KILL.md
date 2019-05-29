@@ -672,7 +672,7 @@ Shigenaga），演唱：[藍井艾露](../Page/藍井艾露.md "wikilink")
 
       -
         作詞：meg
-        rock，作曲：[阿部尚徳](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")，編曲、演唱：[GARNiDELiA](https://zh.wikipedia.org/wiki/GARNiDELiA "wikilink")
+        rock，作曲：[阿部尚徳](https://zh.wikipedia.org/wiki/阿部尚徳 "wikilink")，編曲、演唱：[GARNiDELiA](../Page/GARNiDELiA.md "wikilink")
 
   - 片尾曲
 

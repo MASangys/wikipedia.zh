@@ -198,7 +198,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/肯巴·沃克" title="wikilink">肯巴·沃克</a>^</p></td>
+<td><p><a href="../Page/肯巴·沃克.md" title="wikilink">肯巴·沃克</a>^</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/後衛" title="wikilink">後衛</a></p></td>
 <td></td>
 <td><p><a href="../Page/夏洛特黃蜂.md" title="wikilink">夏洛特黃蜂</a></p></td>
@@ -206,7 +206,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/肯巴·沃克" title="wikilink">肯巴·沃克</a>^（2）</p></td>
+<td><p><a href="../Page/肯巴·沃克.md" title="wikilink">肯巴·沃克</a>^（2）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/後衛" title="wikilink">後衛</a></p></td>
 <td></td>
 <td><p><a href="../Page/夏洛特黃蜂.md" title="wikilink">夏洛特黃蜂</a></p></td>

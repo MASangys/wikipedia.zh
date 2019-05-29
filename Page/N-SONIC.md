@@ -188,7 +188,7 @@ N-SONIC是創新的意思，N 是 Neo 的意思，SONIC 則是音速。
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>第二張迷你專輯《<strong><a href="https://zh.wikipedia.org/wiki/Reset_(N-SONIC迷你專輯)" title="wikilink">Reset</a></strong>》</p>
+<td><p>第二張迷你專輯《<strong><a href="../Page/Reset_(N-SONIC迷你專輯).md" title="wikilink">Reset</a></strong>》</p>
 <ul>
 <li>發行日期：2014年6月9日</li>
 <li>語言：韓語</li>
@@ -243,9 +243,9 @@ N-SONIC是創新的意思，N 是 Neo 的意思，SONIC 則是音速。
 
   - 團體單曲
 
-| 發佈日期       | 形式    | 歌曲名稱       | 備註                                                                                                                        |
-| ---------- | ----- | ---------- | ------------------------------------------------------------------------------------------------------------------------- |
-| 2014年11月6日 | 音樂原聲帶 | 그리워요（我想念你） | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[對我而言可愛的她](https://zh.wikipedia.org/wiki/對我而言可愛的她 "wikilink")》OST |
+| 發佈日期       | 形式    | 歌曲名稱       | 備註                                                                                                     |
+| ---------- | ----- | ---------- | ------------------------------------------------------------------------------------------------------ |
+| 2014年11月6日 | 音樂原聲帶 | 그리워요（我想念你） | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")《[對我而言可愛的她](../Page/對我而言可愛的她.md "wikilink")》OST |
 
 ## 獎項
 
@@ -263,7 +263,7 @@ N-SONIC是創新的意思，N 是 Neo 的意思，SONIC 則是音速。
 <td style="text-align: left;"><p><strong>2014</strong></p></td>
 <td style="text-align: left;"><ul>
 <li><a href="../Page/香港亞洲流行音樂節.md" title="wikilink">香港亞洲流行音樂節</a>－最佳舞台演繹大獎</li>
-<li><a href="https://zh.wikipedia.org/wiki/2014年度新城國語力頒獎禮得獎名單" title="wikilink">2014年度新城國語力頒獎禮</a>－新城國語力跳舞歌曲獎《不要再見》、新城國語力亞洲新人王</li>
+<li><a href="../Page/2014年度新城國語力頒獎禮得獎名單.md" title="wikilink">2014年度新城國語力頒獎禮</a>－新城國語力跳舞歌曲獎《不要再見》、新城國語力亞洲新人王</li>
 <li><a href="../Page/2014年度新城勁爆頒獎禮得獎名單.md" title="wikilink">2014年度新城勁爆頒獎禮</a>－勁爆國語歌曲獎《Run &amp;Run》、新城勁爆亞洲新人王</li>
 </ul></td>
 </tr>
@@ -318,7 +318,7 @@ N-SONIC是創新的意思，N 是 Neo 的意思，SONIC 則是音速。
 <td><p><strong>2014年</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Reset_(N-SONIC迷你專輯)" title="wikilink">Reset</a></p></td>
+<td><p><a href="../Page/Reset_(N-SONIC迷你專輯).md" title="wikilink">Reset</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>2015年</strong></p></td>

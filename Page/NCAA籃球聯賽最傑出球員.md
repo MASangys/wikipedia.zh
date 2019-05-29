@@ -130,8 +130,7 @@ Hancock](https://zh.wikipedia.org/wiki/Luke_Hancock "wikilink")。
     [韋恩·艾靈頓](https://zh.wikipedia.org/wiki/韋恩·艾靈頓 "wikilink")，北卡羅來納大學
   - 2010 –
     [凱爾·辛格勒](https://zh.wikipedia.org/wiki/凱爾·辛格勒 "wikilink")，杜克大學
-  - 2011 –
-    [肯巴·沃克](https://zh.wikipedia.org/wiki/肯巴·沃克 "wikilink")，康乃狄克大學
+  - 2011 – [肯巴·沃克](../Page/肯巴·沃克.md "wikilink")，康乃狄克大學
   - 2012 –
     [安東尼·戴維斯](https://zh.wikipedia.org/wiki/安東尼·戴維斯_\(籃球員\) "wikilink")，肯塔基大學
   - 2013 – ，路易斯維爾大學

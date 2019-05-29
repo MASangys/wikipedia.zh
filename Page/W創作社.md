@@ -160,7 +160,7 @@ Open Relationship的《開關係》等。
 </tr>
 <tr class="even">
 <td><p>2006</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Empty_(舞台劇)" title="wikilink">Empty</a></p></td>
+<td><p><a href="../Page/Empty_(舞台劇).md" title="wikilink">Empty</a></p></td>
 <td><p>黃智龍、梁祖堯</p></td>
 <td><p>黃智龍</p></td>
 <td><p>邵美君、陳曙曦、梁祖堯、劉子騰、朱柏謙、馮夏賢、曾曉淇</p></td>

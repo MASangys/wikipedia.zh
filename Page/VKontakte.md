@@ -12,7 +12,7 @@
 [Pavel_Durov_26years.jpg](https://zh.wikipedia.org/wiki/File:Pavel_Durov_26years.jpg "fig:Pavel_Durov_26years.jpg")\]\]
 選擇「VKontakte」之名稱由來是受兩個因素下所產生\[6\]\[7\]：
 
-1.  其創始人[保羅·杜洛夫重新詮釋短語](https://zh.wikipedia.org/wiki/保羅·杜洛夫 "wikilink"):“”，翻譯就是“完整的接觸訊息”，取自於順口溜電台的“[莫斯科迴聲](../Page/莫斯科迴聲.md "wikilink")”。
+1.  其創始人[保羅·杜洛夫重新詮釋短語](../Page/保羅·杜洛夫.md "wikilink"):“”，翻譯就是“完整的接觸訊息”，取自於順口溜電台的“[莫斯科迴聲](../Page/莫斯科迴聲.md "wikilink")”。
 2.  利用名稱來搜索那些不論何人、社團以及階層相關聯的改變性網站；最理想的方式，就是簡單的“接觸”。
 
 於2012年，該[社交網路創辦人之一的](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")[列弗·里維夫告訴](../Page/列弗·里維夫.md "wikilink")《[消息报](../Page/消息报.md "wikilink")》記者，建立該[社交網站的階段原本選擇命名為](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")「Studlist.ru」。但是後來這項的選擇被取消，因為它僅限特定於學生團體之中\[8\]。
@@ -23,7 +23,7 @@ VKontakte尚未有正式的中文譯名，正式名稱大多以原文簡稱為**
 
 ## 歷史
 
-2006年9月，創始人[保羅·杜洛夫剛從](https://zh.wikipedia.org/wiki/保羅·杜洛夫 "wikilink")[圣彼得堡国立大学畢業](../Page/圣彼得堡国立大学.md "wikilink")，推出了VKontakte並進行[beta測試](https://zh.wikipedia.org/wiki/beta "wikilink")。隨後的一個月，域名VKontakte.ru正式登記；用戶註冊最初完全受邀僅限於大學團體裡，但該網站用戶數仍增長迅速。
+2006年9月，創始人[保羅·杜洛夫剛從](../Page/保羅·杜洛夫.md "wikilink")[圣彼得堡国立大学畢業](../Page/圣彼得堡国立大学.md "wikilink")，推出了VKontakte並進行[beta測試](https://zh.wikipedia.org/wiki/beta "wikilink")。隨後的一個月，域名VKontakte.ru正式登記；用戶註冊最初完全受邀僅限於大學團體裡，但該網站用戶數仍增長迅速。
 
 2007年2月該網站達到了超過10萬的基本用戶，並確定於[俄罗斯之新興](../Page/俄罗斯.md "wikilink")[社交網絡市場為第二大](https://zh.wikipedia.org/wiki/社群網路服務 "wikilink")。同月該網站遭受到嚴重的[DDoS攻擊](https://zh.wikipedia.org/wiki/DDoS "wikilink")，並做出修護與改善。
 
@@ -35,15 +35,15 @@ VKontakte尚未有正式的中文譯名，正式名稱大多以原文簡稱為**
 
 ## 公司
 
-VKontakte成立於2007年1月19日為[俄罗斯之](../Page/俄罗斯.md "wikilink")[有限責任公司](https://zh.wikipedia.org/wiki/有限責任公司 "wikilink")。創辦人兼執行長[保羅·杜洛夫擁有股份](https://zh.wikipedia.org/wiki/保羅·杜洛夫 "wikilink")20％，和維亞切斯拉夫、米哈伊爾和列弗里維夫之三位[俄罗斯投資者](../Page/俄罗斯.md "wikilink")\[10\]，三人股份分別為60％、10％和10％\[11\]。目前該公司完全由境外公司Doraview
+VKontakte成立於2007年1月19日為[俄罗斯之](../Page/俄罗斯.md "wikilink")[有限責任公司](https://zh.wikipedia.org/wiki/有限責任公司 "wikilink")。創辦人兼執行長[保羅·杜洛夫擁有股份](../Page/保羅·杜洛夫.md "wikilink")20％，和維亞切斯拉夫、米哈伊爾和列弗里維夫之三位[俄罗斯投資者](../Page/俄罗斯.md "wikilink")\[10\]，三人股份分別為60％、10％和10％\[11\]。目前該公司完全由境外公司Doraview
 Limited所擁有，總部設在[英屬維爾京群島](../Page/英屬維爾京群島.md "wikilink")。該整體運用的所有權不屬於公共性領域，雖然Mail.ru集團（原：[数码天空科技](../Page/数码天空科技.md "wikilink")）曾公開承認39.99％的股份\[12\]\[13\]。隨後發表整體所有權之安排\[14\]。
 
-該公司的控制是由[保羅·杜洛夫創辦人兼執行長](https://zh.wikipedia.org/wiki/保羅·杜洛夫 "wikilink")。於2012年5月29日由Mail.ru集團宣布，該公司已經決定向他提供其股份的投票權，這使他擁有52％。\[15\]\[16\]
+該公司的控制是由[保羅·杜洛夫創辦人兼執行長](../Page/保羅·杜洛夫.md "wikilink")。於2012年5月29日由Mail.ru集團宣布，該公司已經決定向他提供其股份的投票權，這使他擁有52％。\[15\]\[16\]
 
 VKontakte取消了[IPO計劃](https://zh.wikipedia.org/wiki/首次公开募股 "wikilink")，理由是不能成為[Facebook之後的市場](../Page/Facebook.md "wikilink")[IPO相同錯誤狀況](https://zh.wikipedia.org/wiki/首次公开募股 "wikilink")\[17\]\[18\]。
 
-目前的[股东結構於](https://zh.wikipedia.org/wiki/股东 "wikilink")2011年為止，12％是由VKontakte創始人[保羅·杜洛夫擁有](https://zh.wikipedia.org/wiki/保羅·杜洛夫 "wikilink")，擁有8％為他的夥伴列弗里維夫，以及擁有40％的維亞切斯拉夫和他的幕僚成員。
-Mail.ru集團持有其39.99％的股份；並由收購7.44％的[保羅·杜洛夫及其他](https://zh.wikipedia.org/wiki/保羅·杜洛夫 "wikilink")[股东](https://zh.wikipedia.org/wiki/股东 "wikilink")，上月以1.117億[美元持有](../Page/美元.md "wikilink")\[19\]。
+目前的[股东結構於](https://zh.wikipedia.org/wiki/股东 "wikilink")2011年為止，12％是由VKontakte創始人[保羅·杜洛夫擁有](../Page/保羅·杜洛夫.md "wikilink")，擁有8％為他的夥伴列弗里維夫，以及擁有40％的維亞切斯拉夫和他的幕僚成員。
+Mail.ru集團持有其39.99％的股份；並由收購7.44％的[保羅·杜洛夫及其他](../Page/保羅·杜洛夫.md "wikilink")[股东](https://zh.wikipedia.org/wiki/股东 "wikilink")，上月以1.117億[美元持有](../Page/美元.md "wikilink")\[19\]。
 
 ## 網站
 
@@ -157,7 +157,7 @@ Balan](https://zh.wikipedia.org/wiki/Dan_Balan "wikilink")\[37\]等音樂人士\
 
 ### 雇用史諾登
 
-踢爆[美国政府監控計畫的](../Page/美国.md "wikilink")[爱德华·斯诺登](../Page/爱德华·斯诺登.md "wikilink")，由[俄罗斯知名的](../Page/俄罗斯.md "wikilink")[社群網站VKontakte創辦人](../Page/社交網路服務.md "wikilink")[保羅·杜洛夫](https://zh.wikipedia.org/wiki/保羅·杜洛夫 "wikilink")，已公開表示願意雇用[史諾登為該](../Page/爱德华·斯诺登.md "wikilink")[社群網站一員](../Page/社交網路服務.md "wikilink")\[39\]；2013年11月1日，[史諾登正式於VKontakte總部上班](../Page/爱德华·斯诺登.md "wikilink")，並擔任技術維護的工作\[40\]。
+踢爆[美国政府監控計畫的](../Page/美国.md "wikilink")[爱德华·斯诺登](../Page/爱德华·斯诺登.md "wikilink")，由[俄罗斯知名的](../Page/俄罗斯.md "wikilink")[社群網站VKontakte創辦人](../Page/社交網路服務.md "wikilink")[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")，已公開表示願意雇用[史諾登為該](../Page/爱德华·斯诺登.md "wikilink")[社群網站一員](../Page/社交網路服務.md "wikilink")\[39\]；2013年11月1日，[史諾登正式於VKontakte總部上班](../Page/爱德华·斯诺登.md "wikilink")，並擔任技術維護的工作\[40\]。
 
 ### 侵犯版權
 
@@ -174,7 +174,7 @@ Records唱片分公司對VKontakte](https://zh.wikipedia.org/wiki/Gala_Records "
 
 ### 創辦人辭去CEO
 
-2014年4月1日愚人節當天，被喻為[俄版](../Page/俄罗斯.md "wikilink")[马克·扎克伯格之VKontakte創辦人](../Page/马克·扎克伯格.md "wikilink")[保羅·杜洛夫](https://zh.wikipedia.org/wiki/保羅·杜洛夫 "wikilink")，於社群網上貼文將辭去“VKontakte”[首席执行官一職](../Page/首席执行官.md "wikilink")\[44\]，2天後證實這是惡作劇。但是4月21日，VKontakte董事會提起臨時動議，審查杜羅夫辭去執行長的申請案，然後他就自動被解職了。目前尚未有人接下當任[首席执行官一職](../Page/首席执行官.md "wikilink")。
+2014年4月1日愚人節當天，被喻為[俄版](../Page/俄罗斯.md "wikilink")[马克·扎克伯格之VKontakte創辦人](../Page/马克·扎克伯格.md "wikilink")[保羅·杜洛夫](../Page/保羅·杜洛夫.md "wikilink")，於社群網上貼文將辭去“VKontakte”[首席执行官一職](../Page/首席执行官.md "wikilink")\[44\]，2天後證實這是惡作劇。但是4月21日，VKontakte董事會提起臨時動議，審查杜羅夫辭去執行長的申請案，然後他就自動被解職了。目前尚未有人接下當任[首席执行官一職](../Page/首席执行官.md "wikilink")。
 
 ## 相關條目
 

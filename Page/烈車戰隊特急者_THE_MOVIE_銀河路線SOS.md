@@ -99,7 +99,7 @@
   - 虹野明/ 特急6號（聲）- [長濱慎](../Page/長濱慎.md "wikilink")
   - 闇黑皇帝Ｚ- [大口兼悟](https://zh.wikipedia.org/wiki/大口兼悟 "wikilink")
   - レディ- [福原遙](../Page/福原遙.md "wikilink")
-  - 車長- [關根勤](https://zh.wikipedia.org/wiki/關根勤 "wikilink")
+  - 車長- [關根勤](../Page/關根勤.md "wikilink")
 
 ### 配音演出
 

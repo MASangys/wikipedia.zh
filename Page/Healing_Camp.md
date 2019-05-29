@@ -578,7 +578,7 @@ vs 1（嘉賓）」形式主持，節目名稱改為。
 <tr class="even">
 <td><p>102</p></td>
 <td><p>8月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛</a></p></td>
+<td><p><a href="../Page/李笛.md" title="wikilink">李笛</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>103</p></td>
@@ -896,7 +896,7 @@ vs 1（嘉賓）」形式主持，節目名稱改為。
 <tr class="even">
 <td><p>157</p></td>
 <td><p>11月10日</p></td>
-<td><p>、申慧珍（視頻出演）、<a href="https://zh.wikipedia.org/wiki/柳喜烈" title="wikilink">柳喜烈</a>（視頻出演）、<a href="https://zh.wikipedia.org/wiki/李笛" title="wikilink">李笛</a>（視頻出演）</p></td>
+<td><p>、申慧珍（視頻出演）、<a href="../Page/柳喜烈.md" title="wikilink">柳喜烈</a>（視頻出演）、<a href="../Page/李笛.md" title="wikilink">李笛</a>（視頻出演）</p></td>
 </tr>
 <tr class="odd">
 <td><p>158</p></td>
@@ -931,7 +931,7 @@ vs 1（嘉賓）」形式主持，節目名稱改為。
 <tr class="odd">
 <td><p>164</p></td>
 <td><p>12月29日</p></td>
-<td><p><span style=color:#008000>Kpop Star特輯:</span> <a href="https://zh.wikipedia.org/wiki/K-pop_Star" title="wikilink">K-pop Star第一至三季優勝者</a>：<a href="../Page/朴智敏.md" title="wikilink">朴智敏</a>、<a href="../Page/李遐怡.md" title="wikilink">李遐怡</a>、<a href="../Page/白娥娟.md" title="wikilink">白娥娟</a>、<a href="https://zh.wikipedia.org/wiki/樂童音樂家" title="wikilink">樂童音樂家</a>（李燦赫、李秀賢）、<a href="https://zh.wikipedia.org/wiki/伯納德·朴" title="wikilink">Bernard Park</a>、、<a href="https://zh.wikipedia.org/wiki/權珍雅" title="wikilink">權珍雅</a></p></td>
+<td><p><span style=color:#008000>Kpop Star特輯:</span> <a href="https://zh.wikipedia.org/wiki/K-pop_Star" title="wikilink">K-pop Star第一至三季優勝者</a>：<a href="../Page/朴智敏.md" title="wikilink">朴智敏</a>、<a href="../Page/李遐怡.md" title="wikilink">李遐怡</a>、<a href="../Page/白娥娟.md" title="wikilink">白娥娟</a>、<a href="https://zh.wikipedia.org/wiki/樂童音樂家" title="wikilink">樂童音樂家</a>（李燦赫、李秀賢）、<a href="https://zh.wikipedia.org/wiki/伯納德·朴" title="wikilink">Bernard Park</a>、、<a href="../Page/權珍雅.md" title="wikilink">權珍雅</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

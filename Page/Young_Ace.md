@@ -110,7 +110,7 @@ Ace**》（）是創刊於2009年的[日本月刊](../Page/日本.md "wikilink")
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/文豪Stray_Dogs" title="wikilink">文豪Stray Dogs</a><br />
+<td><p><a href="../Page/文豪Stray_Dogs.md" title="wikilink">文豪Stray Dogs</a><br />
 （）</p></td>
 <td><p><a href="../Page/春河35.md" title="wikilink">春河35</a></p></td>
 <td></td>

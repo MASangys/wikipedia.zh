@@ -1,5 +1,5 @@
 **FN
-SLP**（SLP，全稱：，意為：警用霰彈槍）是一款由[比利时槍械公製造商](../Page/比利时.md "wikilink")[國營赫斯塔爾所研製及生產的警用](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[戰術](https://zh.wikipedia.org/wiki/鎮暴霰彈槍 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")（戰術型時則是軍警兩用霰彈槍），發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。\[1\]
+SLP**（SLP，全稱：，意為：警用霰彈槍）是一款由[比利时槍械公製造商](../Page/比利时.md "wikilink")[國營赫斯塔爾所研製及生產的警用](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")[半自動](https://zh.wikipedia.org/wiki/半自動霰彈槍 "wikilink")[戰術](../Page/鎮暴霰彈槍.md "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")（戰術型時則是軍警兩用霰彈槍），發射[12鉛徑霰彈](https://zh.wikipedia.org/wiki/霰彈 "wikilink")。\[1\]
 
 ## 設計細節
 
@@ -53,7 +53,7 @@ I的戰術型。戰術型的槍管縮短到457.2毫米（18英吋），這樣全
 
 ## 使用國
 
-  - ：被[比利時陸軍](https://zh.wikipedia.org/wiki/比利時陸軍 "wikilink")[特種部隊群](https://zh.wikipedia.org/wiki/特種部隊群 "wikilink")（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：Special
+  - ：被[比利時陸軍](https://zh.wikipedia.org/wiki/比利時陸軍 "wikilink")[特種部隊群](../Page/特種部隊群.md "wikilink")（[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：Special
     Forces Group）所採用。
 
 ## 參見

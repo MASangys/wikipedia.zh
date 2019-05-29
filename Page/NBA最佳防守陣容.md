@@ -1318,7 +1318,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/克里斯·保罗" title="wikilink">克里斯·保罗</a>^ (9)</p></td>
 <td><p><a href="../Page/洛杉矶快船.md" title="wikilink">洛杉矶快船</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安德鲁·罗伯森" title="wikilink">安德鲁·罗伯森</a>^</p></td>
+<td><p><a href="../Page/安德鲁·罗伯森.md" title="wikilink">安德鲁·罗伯森</a>^</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/帕特里克·贝弗利.md" title="wikilink">帕特里克·贝弗利</a>^ (2)</p></td>

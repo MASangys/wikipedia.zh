@@ -32,7 +32,7 @@ A電視台播映的電視劇](../Page/Channel_A.md "wikilink")。
 <tr class="odd">
 <td style="text-align: center;"><p>2011年12月3日－2012年3月11日<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/天上花園GOMBE嶺" title="wikilink">天上花園GOMBE嶺</a><br />
+<td style="text-align: center;"><p><a href="../Page/天上花園GOMBE嶺.md" title="wikilink">天上花園GOMBE嶺</a><br />
 </p></td>
 <td style="text-align: center;"><p>30</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/崔佛巖" title="wikilink">崔佛巖</a>、<a href="../Page/柳好貞.md" title="wikilink">柳好貞</a>、<a href="../Page/金賽綸.md" title="wikilink">金賽綸</a>、<a href="../Page/安瑞賢.md" title="wikilink">安瑞賢</a></p></td>

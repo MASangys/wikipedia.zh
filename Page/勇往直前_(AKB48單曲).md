@@ -286,7 +286,7 @@ Baby Elephants的詳細成員列表如下：
     Team
     N成员）、[大森美优](https://zh.wikipedia.org/wiki/大森美优 "wikilink")、[竹内美宥](https://zh.wikipedia.org/wiki/竹内美宥 "wikilink")
   - Team
-    4：[相笠萌](https://zh.wikipedia.org/wiki/相笠萌 "wikilink")、[篠崎彩奈](https://zh.wikipedia.org/wiki/篠崎彩奈 "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")
+    4：[相笠萌](../Page/相笠萌.md "wikilink")、[篠崎彩奈](../Page/篠崎彩奈.md "wikilink")、[村山彩希](../Page/村山彩希.md "wikilink")
   - 研究生：[向井地美音](../Page/向井地美音.md "wikilink")
   - SKE48 Taem
     KII：[山田瑞穗](https://zh.wikipedia.org/wiki/山田瑞穗 "wikilink")（）
@@ -296,7 +296,7 @@ Baby Elephants的詳細成員列表如下：
   - HKT48 Team
     H：[穴井千寻](https://zh.wikipedia.org/wiki/穴井千寻 "wikilink")、[多田爱佳](https://zh.wikipedia.org/wiki/多田爱佳 "wikilink")、[本村碧唯](../Page/本村碧唯.md "wikilink")
   - HKT48
-    研究生：[秋吉优花](https://zh.wikipedia.org/wiki/秋吉优花 "wikilink")、[矢吹奈子](https://zh.wikipedia.org/wiki/矢吹奈子 "wikilink")
+    研究生：[秋吉优花](https://zh.wikipedia.org/wiki/秋吉优花 "wikilink")、[矢吹奈子](../Page/矢吹奈子.md "wikilink")
 
 Baby
 Elephants包含了多位首度參與AKB48單曲或B面曲演唱的成員。如果不計全員大合唱曲，包括SKE48的東李苑、NMB48的近藤里奈与太田夢莉、以及HKT48的穴井千尋与本村碧唯，都是首次參與的新面孔。
@@ -334,11 +334,11 @@ Talking Chimpanzees的詳細成員表列如下：
 只有劇場版才有收錄的B面曲《戀愛什麼的》（）是由AKB48沒有參與主打單曲與其他B面曲分組的成員所共同演唱，由於劇場版並沒有附贈DVD因此此曲並無搭配的MV與站位的安排。參與此曲的演唱成員包括了：
 
   - Team
-    A：[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")、[森川彩香](https://zh.wikipedia.org/wiki/森川彩香 "wikilink")
+    A：[伊豆田莉奈](../Page/伊豆田莉奈.md "wikilink")、[松井咲子](../Page/松井咲子.md "wikilink")、[森川彩香](../Page/森川彩香.md "wikilink")
   - Team
     K：[内田眞由美](https://zh.wikipedia.org/wiki/内田眞由美 "wikilink")、[小林香菜](../Page/小林香菜.md "wikilink")、[近野莉菜](../Page/近野莉菜.md "wikilink")、[中田千智](../Page/中田千智.md "wikilink")（）、[宫崎美穂](https://zh.wikipedia.org/wiki/宫崎美穂 "wikilink")
   - Team
-    B：[石田晴香](../Page/石田晴香.md "wikilink")、[片山阳加](https://zh.wikipedia.org/wiki/片山阳加 "wikilink")、[小嶋菜月](../Page/小嶋菜月.md "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[名取稚菜](https://zh.wikipedia.org/wiki/名取稚菜 "wikilink")、[野中美郷](https://zh.wikipedia.org/wiki/野中美郷 "wikilink")
+    B：[石田晴香](../Page/石田晴香.md "wikilink")、[片山阳加](https://zh.wikipedia.org/wiki/片山阳加 "wikilink")、[小嶋菜月](../Page/小嶋菜月.md "wikilink")、[田名部生来](../Page/田名部生来.md "wikilink")、[名取稚菜](../Page/名取稚菜.md "wikilink")、[野中美郷](https://zh.wikipedia.org/wiki/野中美郷 "wikilink")
   - Team
     4：[内山奈月](https://zh.wikipedia.org/wiki/内山奈月 "wikilink")、[梅田绫乃](https://zh.wikipedia.org/wiki/梅田绫乃 "wikilink")、[冈田彩花](https://zh.wikipedia.org/wiki/冈田彩花 "wikilink")、[北泽早纪](https://zh.wikipedia.org/wiki/北泽早纪 "wikilink")、[橋本耀](../Page/橋本耀.md "wikilink")
   - 研究生：[市川爱美](https://zh.wikipedia.org/wiki/市川爱美 "wikilink")、[大川莉央](https://zh.wikipedia.org/wiki/大川莉央 "wikilink")、[込山榛香](../Page/込山榛香.md "wikilink")、[佐藤妃星](https://zh.wikipedia.org/wiki/佐藤妃星 "wikilink")、[达家真姫宝](https://zh.wikipedia.org/wiki/达家真姫宝 "wikilink")、[土保瑞希](../Page/土保瑞希.md "wikilink")、[福冈圣菜](https://zh.wikipedia.org/wiki/福冈圣菜 "wikilink")、[汤本亞美](https://zh.wikipedia.org/wiki/汤本亞美 "wikilink")

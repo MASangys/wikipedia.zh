@@ -35,7 +35,7 @@ R前置鏡頭，[MHL輸出功能](https://zh.wikipedia.org/wiki/MHL "wikilink")�
 
 Xperia Z採用[Android
 4.1](https://zh.wikipedia.org/wiki/Android_4.1 "wikilink") Jelly
-Bean操作系統，取得[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+Bean操作系統，取得[PlayStation](../Page/PlayStation.md "wikilink")
 Certified認證，並可登入[Sony Entertainment
 Network](https://zh.wikipedia.org/wiki/Sony_Entertainment_Network "wikilink")。
 

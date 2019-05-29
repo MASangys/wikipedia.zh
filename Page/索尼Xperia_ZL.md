@@ -21,7 +21,7 @@ R前置鏡頭，[MHL輸出功能](https://zh.wikipedia.org/wiki/MHL "wikilink")�
 ## 作業系統
 
 Xperia ZL採用[Android](../Page/Android.md "wikilink") 4.1 Jelly
-Bean作業系統，取得[PlayStation](https://zh.wikipedia.org/wiki/PlayStation "wikilink")
+Bean作業系統，取得[PlayStation](../Page/PlayStation.md "wikilink")
 Certified認證，並可登入Sony Entertainment Network。
 2013年6月份系統升級為Android4.2
 

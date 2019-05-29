@@ -397,7 +397,7 @@ Sun-勝利門事件中](../Page/Burning_Sun-勝利門事件.md "wikilink")，從
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/皮諾丘_(電視劇)" title="wikilink">皮諾丘</a> OST Part.2</strong>》</p>
+<td><p>《<strong><a href="../Page/皮諾丘_(電視劇).md" title="wikilink">皮諾丘</a> OST Part.2</strong>》</p>
 <ul>
 <li>發行日期：2014年11月26日</li>
 </ul></td>
@@ -645,7 +645,7 @@ Sun-勝利門事件中](../Page/Burning_Sun-勝利門事件.md "wikilink")，從
 <td><p>2015</p></td>
 <td><ul>
 <li>第11屆Hito流行音樂獎頒獎典禮－Hit Fm 最愛國外藝人獎</li>
-<li>第4屆APAN Star Awards－最佳 OST 獎《<a href="https://zh.wikipedia.org/wiki/皮諾丘_(電視劇)" title="wikilink">皮諾丘</a>》</li>
+<li>第4屆APAN Star Awards－最佳 OST 獎《<a href="../Page/皮諾丘_(電視劇).md" title="wikilink">皮諾丘</a>》</li>
 </ul></td>
 </tr>
 <tr class="even">

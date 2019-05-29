@@ -8,7 +8,7 @@ Instagram的一個顯著的特點是，用它拍摄的照片為正方形，類�
 
 [Instagram_versione_(santa_fiora,_peschiera).jpg](https://zh.wikipedia.org/wiki/File:Instagram_versione_\(santa_fiora,_peschiera\).jpg "fig:Instagram_versione_(santa_fiora,_peschiera).jpg")
 
-Instagram由[凱文·斯特羅姆與](https://zh.wikipedia.org/wiki/凱文·斯特羅姆 "wikilink")创建，並於2010年10月首次推出。該服務迅速得到普及，截止2014年12月已擁有超過3亿註冊用戶（每月活躍用戶數約9,000萬）\[11\]。Instagram对应不同移动设备平台可以分别透過[App
+Instagram由[凱文·斯特羅姆與](../Page/凱文·斯特羅姆.md "wikilink")创建，並於2010年10月首次推出。該服務迅速得到普及，截止2014年12月已擁有超過3亿註冊用戶（每月活躍用戶數約9,000萬）\[11\]。Instagram对应不同移动设备平台可以分别透過[App
 Store和](../Page/App_Store_\(iOS\).md "wikilink")[Google
 Play商店下載](../Page/Google_Play.md "wikilink")\[12\]。软件一开始只可用於[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")，[iPad和](https://zh.wikipedia.org/wiki/iPad "wikilink")[iPod
 Touch等設備](https://zh.wikipedia.org/wiki/iPod_Touch "wikilink")。2012年4月，软件加入了对[Android
@@ -33,7 +33,7 @@ Phone版本的Instagram\[15\]。
 2014年9月，Instagram在中国大陆被屏蔽，此前它是中国大陆境内为数不多的仍可以使用的境外互联网溝通服务\[34\]。
 
 2016年3月，Instagram在[Windows
-10行動裝置平台中釋出正式版本的官方應用程式](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")\[35\]。
+10行動裝置平台中釋出正式版本的官方應用程式](../Page/Windows_10.md "wikilink")\[35\]。
 
 2016年8月，Instagram推出限時動態功能，用戶可上傳照片，並在24小時後該圖片會自動消失。
 
@@ -54,7 +54,7 @@ Mosseri）為Instagram新的負責人。\[37\]
 [Tumblr](https://zh.wikipedia.org/wiki/Tumblr "wikilink")、
 [Flickr](../Page/Flickr.md "wikilink")、
 [Foursquare](../Page/Foursquare.md "wikilink")、
-Hipstamatic及[Mixi](https://zh.wikipedia.org/wiki/Mixi "wikilink")（仅iOS日语用户）、
+Hipstamatic及[Mixi](../Page/Mixi.md "wikilink")（仅iOS日语用户）、
 [新浪微博](../Page/新浪微博.md "wikilink")（仅iOS中文用户）\[40\]。
 
 ### 滤镜效果
@@ -121,7 +121,7 @@ Instagram因以[智慧型手機平台起家](https://zh.wikipedia.org/wiki/智�
 2011年1月，Instagram获得2010年度“[TechCrunch](../Page/TechCrunch.md "wikilink")
 Cunchies奖”“最佳手机应用”亚军\[50\]。
 
-2011年5月，Instagram[-{A](https://zh.wikipedia.org/wiki/CEO "wikilink")[凱文·斯特羅姆获得](https://zh.wikipedia.org/wiki/凱文·斯特羅姆 "wikilink")《》杂志评选的“2011年商界最具創新人物”第66名\[51\]。
+2011年5月，Instagram[-{A](https://zh.wikipedia.org/wiki/CEO "wikilink")[凱文·斯特羅姆获得](../Page/凱文·斯特羅姆.md "wikilink")《》杂志评选的“2011年商界最具創新人物”第66名\[51\]。
 
 2011年6月，《》杂志将两位联合创始人聯合創始人斯特羅姆與克瑞格评入“30位30岁以下的青年才俊”名单中\[52\]。
 
@@ -139,7 +139,7 @@ Store将Instagram评选为](../Page/App_Store_\(iOS\).md "wikilink")“2011年�
 2014年7月7日，有媒体报道称Instagram从中国大陆绝大多数第三方[Android应用程序商店中下架](../Page/Android.md "wikilink")，下架原因尚不明确，但用户仍然可以在论坛或其他软件下载网站上较为容易地下载到Instagram；而[iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[App
 Store中仍可以正常下载](../Page/App_Store_\(iOS\).md "wikilink")\[57\]。
 
-2014年9月28日起，Instagram在中国遭到全面封锁，原因疑是香港[雨傘革命的图片在Instagram上流传](https://zh.wikipedia.org/wiki/雨傘革命 "wikilink")。目前使用https连接仍然无法正常使用\[58\]\[59\]\[60\]。
+2014年9月28日起，Instagram在中国遭到全面封锁，原因疑是香港[雨傘革命的图片在Instagram上流传](../Page/雨傘革命.md "wikilink")。目前使用https连接仍然无法正常使用\[58\]\[59\]\[60\]。
 
 2013年12月30日，Instagram在[伊朗遭到屏蔽](https://zh.wikipedia.org/wiki/伊朗 "wikilink")，但屏蔽仅持续了12小时即解封。伊朗官员否认有任何不当行为，其国营电信公司也称并未屏蔽此应用\[61\]。
 

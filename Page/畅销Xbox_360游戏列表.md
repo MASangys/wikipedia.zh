@@ -137,8 +137,8 @@ Sports](../Page/EA_Sports.md "wikilink") |-
   - 日本市场37,984\[52\]
 
 | |动作冒险游戏 |Rockstar North/[Rockstar San
-Diego](https://zh.wikipedia.org/wiki/Rockstar_San_Diego "wikilink")
-|Rockstar Games |- | |175万 |
+Diego](../Page/Rockstar_San_Diego.md "wikilink") |Rockstar Games |- |
+|175万 |
 
   - 美国市场165万\[53\]
   - 英国市场10万\[54\]
@@ -243,9 +243,10 @@ Sports |- | |129万\[88\] | | |Racing game,
   - 英国市场20万\[94\]
 
 | |[动作游戏](../Page/动作游戏.md "wikilink")
-|[LucasArts](https://zh.wikipedia.org/wiki/LucasArts "wikilink")
-|[LucasArts](https://zh.wikipedia.org/wiki/LucasArts "wikilink") |-
-|[战地：叛逆连队2](../Page/战地：叛逆连队2.md "wikilink") |105万 |
+|[LucasArts](../Page/LucasArts.md "wikilink")
+|[LucasArts](../Page/LucasArts.md "wikilink") |-
+|[战地：叛逆连队2](../Page/战地：叛逆连队2.md "wikilink") |105万
+|
 
   - 美国市场825,500\[95\]
   - 日本市场24,539\[96\]
@@ -254,7 +255,7 @@ Sports |- | |129万\[88\] | | |Racing game,
 | |第一人称射击游戏 |[EA DICE](../Page/EA_DICE.md "wikilink") |美国艺电 |- |
 |美国市场102万\[98\] | | |节奏游戏 |Harmonix |音樂電視網 |- | |100万\[99\] | |
 |[格鬥遊戲](../Page/格鬥遊戲.md "wikilink") |[Team
-Ninja](https://zh.wikipedia.org/wiki/Team_Ninja "wikilink")
+Ninja](../Page/Team_Ninja.md "wikilink")
 |[Tecmo](https://zh.wikipedia.org/wiki/Tecmo "wikilink") |-
 |[求生之路](../Page/求生之路.md "wikilink") |100万\[100\] | | |第一人称射击游戏
 |[Turtle

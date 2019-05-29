@@ -200,7 +200,7 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
 
   - 日期：2015年1月17日、1月18日
   - 地點：東京國際論壇 A棟
-  - 演員：[假面騎士Drive](https://zh.wikipedia.org/wiki/假面騎士Drive "wikilink")、[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")
+  - 演員：[假面騎士Drive](../Page/假面騎士Drive.md "wikilink")、[烈車戰隊特急者](../Page/烈車戰隊特急者.md "wikilink")
 
 <!-- end list -->
 
@@ -209,7 +209,7 @@ SHOW』是[日本](../Page/日本.md "wikilink")[特攝的](https://zh.wikipedia
     超級戰隊：[志尊淳](../Page/志尊淳.md "wikilink")、[平牧仁](../Page/平牧仁.md "wikilink")、[梨里杏](https://zh.wikipedia.org/wiki/梨里杏 "wikilink")、[橫濱流星](../Page/橫濱流星.md "wikilink")、[森高愛](../Page/森高愛.md "wikilink")、[長濱慎](../Page/長濱慎.md "wikilink")
     日替嘉賓：
       -
-        1月17日：[吉井憐](https://zh.wikipedia.org/wiki/吉井憐 "wikilink")、[濱野謙太](https://zh.wikipedia.org/wiki/濱野謙太 "wikilink")、、[山口勝平](../Page/山口勝平.md "wikilink")
+        1月17日：[吉井憐](https://zh.wikipedia.org/wiki/吉井憐 "wikilink")、[濱野謙太](../Page/濱野謙太.md "wikilink")、、[山口勝平](../Page/山口勝平.md "wikilink")
         1月18日：、[蕨野友也](../Page/蕨野友也.md "wikilink")、[馬場富美香](https://zh.wikipedia.org/wiki/馬場富美香 "wikilink")、
 
 <!-- end list -->

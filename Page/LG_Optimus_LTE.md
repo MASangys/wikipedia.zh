@@ -48,7 +48,7 @@ IPS顯示螢幕的手機](https://zh.wikipedia.org/wiki/IPS "wikilink")。\[1\]\
 <td><p>LG P930</p></td>
 <td><p>LG Optimus LTE</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/加拿大貝爾" title="wikilink">貝爾電信</a></p></td>
+<td><p><a href="../Page/加拿大貝爾.md" title="wikilink">貝爾電信</a></p></td>
 <td><p>2011/11/22</p></td>
 </tr>
 <tr class="even">

@@ -556,7 +556,7 @@
 <td><center>
 <p>小寶</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/鄭元暢" title="wikilink">鄭元暢</a>、<a href="../Page/張鈞甯.md" title="wikilink">張鈞甯</a>、<a href="../Page/孟耿如.md" title="wikilink">孟耿如</a>、<a href="https://zh.wikipedia.org/wiki/邱昊奇" title="wikilink">邱昊奇</a></p></td>
+<p><a href="https://zh.wikipedia.org/wiki/鄭元暢" title="wikilink">鄭元暢</a>、<a href="../Page/張鈞甯.md" title="wikilink">張鈞甯</a>、<a href="../Page/孟耿如.md" title="wikilink">孟耿如</a>、<a href="../Page/邱昊奇.md" title="wikilink">邱昊奇</a></p></td>
 <td><center>
 <p>9-10</p></td>
 <td><center>
@@ -710,7 +710,7 @@
 <td><center>
 <p>唐豪（唐小牛）</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/洪言翔" title="wikilink">洪言翔</a>、<a href="https://zh.wikipedia.org/wiki/易光" title="wikilink">易光</a></p></td>
+<p><a href="../Page/洪言翔.md" title="wikilink">洪言翔</a>、<a href="https://zh.wikipedia.org/wiki/易光" title="wikilink">易光</a></p></td>
 <td><center>
 <p>110</p></td>
 <td><center>
@@ -940,7 +940,7 @@
 <tr class="odd">
 <td><p>2014年9月5日</p></td>
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/軍中樂園_(電影)" title="wikilink">軍中樂園</a></p></td>
+<p><a href="../Page/軍中樂園_(電影).md" title="wikilink">軍中樂園</a></p></td>
 <td><center>
 <p>李迪恩</p></td>
 <td><center>

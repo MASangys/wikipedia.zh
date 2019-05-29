@@ -231,8 +231,7 @@ w — workstation 工作站</p></td>
   - Lenovo（原IBM個人電腦業務）
       - [ThinkPad](../Page/ThinkPad.md "wikilink")
   - 宏碁
-      - [Acer
-        TravelMate](https://zh.wikipedia.org/wiki/Acer_TravelMate "wikilink")
+      - [Acer TravelMate](../Page/Acer_TravelMate.md "wikilink")
       - [Acer
         Aspire](https://zh.wikipedia.org/wiki/Acer_Aspire "wikilink")
       - [Acer

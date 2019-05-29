@@ -146,14 +146,14 @@ Under My Skin](../Page/Stranger_Under_My_Skin.md "wikilink")》\[2\]。
 
 ### 專輯《rice & shine》
 
-  - 香港：[2014年度新城國語力頒獎禮](https://zh.wikipedia.org/wiki/2014年度新城國語力頒獎禮得獎名單 "wikilink")－新城國語力年度專輯
+  - 香港：[2014年度新城國語力頒獎禮](../Page/2014年度新城國語力頒獎禮得獎名單.md "wikilink")－新城國語力年度專輯
   - 中國大陆：華語金曲獎－2014年5月十佳專輯（第一位）\[27\]
   - 台灣：[第26屆金曲獎](https://zh.wikipedia.org/wiki/第26屆金曲獎 "wikilink")－最佳國語男歌手
   - 台灣：[中華音樂人交流協會](../Page/中華音樂人交流協會.md "wikilink") 十大單曲暨專輯－2014年度十大專輯
 
 ### 歌曲《你給我聽好》
 
-  - 香港：[2014年度新城國語力頒獎禮](https://zh.wikipedia.org/wiki/2014年度新城國語力頒獎禮得獎名單 "wikilink")－新城國語力全球最受歡迎歌曲
+  - 香港：[2014年度新城國語力頒獎禮](../Page/2014年度新城國語力頒獎禮得獎名單.md "wikilink")－新城國語力全球最受歡迎歌曲
   - 台灣：[中華音樂人交流協會](../Page/中華音樂人交流協會.md "wikilink") 十大單曲暨專輯－2014年度十大單曲
   - 台灣：2014 [Hit
     Fm年度百首單曲](https://zh.wikipedia.org/wiki/HitFM聯播網 "wikilink")－第46位\[28\]

@@ -1,4 +1,4 @@
-**Juniel**（；；），原名為**崔準希**\[1\]（；；），轉投[C9娛樂後](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")，並將本名改為**崔瑞峨**\[2\]（，），[韓國創作女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")。原在[FNC娛樂出道](https://zh.wikipedia.org/wiki/FNC娛樂 "wikilink")，2016年1月底完約，其後轉投C9娛樂。
+**Juniel**（；；），原名為**崔準希**\[1\]（；；），轉投[C9娛樂後](https://zh.wikipedia.org/wiki/C9娛樂 "wikilink")，並將本名改為**崔瑞峨**\[2\]（，），[韓國創作女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")。原在[FNC娛樂出道](../Page/FNC娛樂.md "wikilink")，2016年1月底完約，其後轉投C9娛樂。
 
 在韓國出道前她已於日本發展演藝事業，初出道時藝名為「Junie」，其后改為現名，由英文名字與字母「L」的組合而成，當中字母「L」代表「Love」（愛）\[3\]。
 粉絲的官方名稱為「Banila」，意為白色甜蜜的[Vanilla](https://zh.wikipedia.org/wiki/雲呢拿 "wikilink")，也是Juniel最珍貴的第一支吉他「Bbanini」和象徵初戀的「Illa
@@ -121,7 +121,7 @@ Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wi
 <ul>
 <li>發行日期：2012年6月7日</li>
 <li>語言：韓語</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/FNC娛樂" title="wikilink">FNC Entertainment</a></li>
+<li>唱片公司：<a href="../Page/FNC娛樂.md" title="wikilink">FNC Entertainment</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -175,7 +175,7 @@ Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wi
 <ul>
 <li>發行日期：2014年9月29日</li>
 <li>語言：韓語</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/FNC娛樂" title="wikilink">FNC Entertainment</a></li>
+<li>唱片公司：<a href="../Page/FNC娛樂.md" title="wikilink">FNC Entertainment</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -185,7 +185,7 @@ Entertainment的試音式和](https://zh.wikipedia.org/wiki/AI_Entertainment "wi
 <ul>
 <li>發行日期：2015年8月21日</li>
 <li>語言：韓語</li>
-<li>唱片公司：<a href="https://zh.wikipedia.org/wiki/FNC娛樂" title="wikilink">FNC Entertainment</a></li>
+<li>唱片公司：<a href="../Page/FNC娛樂.md" title="wikilink">FNC Entertainment</a></li>
 </ul></td>
 <td><p>'''</p></td>
 </tr>

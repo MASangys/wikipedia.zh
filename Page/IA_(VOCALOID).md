@@ -63,8 +63,7 @@ THE PLANETES-，是CeVIO Creative Studio首個非日語聲庫。\[6\]
     7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")
     日語版（32bit/64bit SP1）／[Windows
     8.1](../Page/Windows_8.1.md "wikilink") 日語版（32/64bit）／[Windows
-    10](https://zh.wikipedia.org/wiki/Windows_10 "wikilink")
-    日語版（32/64bit）
+    10](../Page/Windows_10.md "wikilink") 日語版（32/64bit）
   - 微處理器（CPU）：[Intel](https://zh.wikipedia.org/wiki/Intel "wikilink") /
     [AMD](https://zh.wikipedia.org/wiki/AMD "wikilink") 雙核處理器（或以上）
   - 記憶體：（RAM）2GB 以上

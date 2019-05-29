@@ -1,4 +1,4 @@
-，是由[HeartBeat](https://zh.wikipedia.org/wiki/HeartBeat_\(游戏公司\) "wikilink")\[1\]和[ArtePiazza](../Page/ArtePiazza.md "wikilink")\[2\]开发，[艾尼克斯发行于](../Page/艾尼克斯.md "wikilink")2000年在[PlayStation平台发行的日本](https://zh.wikipedia.org/wiki/PlayStation "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，于2001年在北美以《Dragon
+，是由[HeartBeat](https://zh.wikipedia.org/wiki/HeartBeat_\(游戏公司\) "wikilink")\[1\]和[ArtePiazza](../Page/ArtePiazza.md "wikilink")\[2\]开发，[艾尼克斯发行于](../Page/艾尼克斯.md "wikilink")2000年在[PlayStation平台发行的日本](../Page/PlayStation.md "wikilink")[电子角色扮演游戏](https://zh.wikipedia.org/wiki/电子角色扮演游戏 "wikilink")，于2001年在北美以《Dragon
 Warrior
 VII》名義发行。《勇者斗恶龙VII》[任天堂3DS重制版于](../Page/任天堂3DS.md "wikilink")2013年2月7日在日本发行，2016年9月16日在欧美发行，这也是本作首次正式在欧洲发售。\[3\]
 

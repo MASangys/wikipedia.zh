@@ -26,7 +26,7 @@
 | [生化危机0](https://zh.wikipedia.org/wiki/生化危机0 "wikilink")                                   | 125万\[28\]                                      |
 | [Mario Golf Family Tour](https://zh.wikipedia.org/wiki/Mario_Golf_Family_Tour "wikilink") | 估计122万：美国103万\[29\]，日本192,802\[30\]             |
 | [马里奥足球](https://zh.wikipedia.org/wiki/马里奥足球 "wikilink")                                   | 120万\[31\]                                      |
-| [皮克敏](https://zh.wikipedia.org/wiki/皮克敏 "wikilink")                                       | 估计118万：美国68万\[32\]，日本507,011\[33\]              |
+| [皮克敏](../Page/皮克敏.md "wikilink")                                                          | 估计118万：美国68万\[32\]，日本507,011\[33\]              |
 | [卡比的空中滑板](https://zh.wikipedia.org/wiki/卡比的空中滑板 "wikilink")                               | 估计117万：美国75万\[34\]，日本422,311\[35\]              |
 | [灵魂能力II](https://zh.wikipedia.org/wiki/灵魂能力II "wikilink")                                 | 近110万：美国100万\[36\]，日本99,256\[37\]               |
 | [星际火狐冒险](https://zh.wikipedia.org/wiki/星际火狐冒险 "wikilink")                                 | 估计108万：美国80万\[38\]，日本259,069\[39\]              |

@@ -6,7 +6,7 @@ S\&W這兩種](../Page/.40_S&W.md "wikilink")[手枪](../Page/手枪.md "wikilin
 ## 設計細節
 
 貝瑞塔BU9
-Nano是一把為了而設計的緊湊型槍械。它具有一個的高科技[聚合物](../Page/聚合物.md "wikilink")[底把和Pronox](../Page/机匣.md "wikilink")[表面處理的](https://zh.wikipedia.org/wiki/表面處理 "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。Pronox是一個類似於特尼弗（Tenifer，在其中包括[格洛克和](../Page/格洛克.md "wikilink")[春田XD系列手槍以上使用](../Page/HS2000手槍.md "wikilink")）和Melonite（在其中包括[史密斯威森M\&P系列手槍以上使用](https://zh.wikipedia.org/wiki/史密斯威森軍警型半自動手槍 "wikilink")）的處理。它目前在加州不可銷售。
+Nano是一把為了而設計的緊湊型槍械。它具有一個的高科技[聚合物](../Page/聚合物.md "wikilink")[底把和Pronox](../Page/机匣.md "wikilink")[表面處理的](https://zh.wikipedia.org/wiki/表面處理 "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")。Pronox是一個類似於特尼弗（Tenifer，在其中包括[格洛克和](../Page/格洛克.md "wikilink")[春田XD系列手槍以上使用](../Page/HS2000手槍.md "wikilink")）和Melonite（在其中包括[史密斯威森M\&P系列手槍以上使用](../Page/史密斯威森軍警型半自動手槍.md "wikilink")）的處理。它目前在加州不可銷售。
 
 BU9 Nano的設計中具有與底把分離的連序列號底盤，一個值得注意的是在[SIG Sauer
 P250系列手槍以上也可以發現的不尋常功能](../Page/SIG_P250手槍.md "wikilink")。這樣容許貝瑞塔在未來提供額外的底把，允許多種握把和顏色選擇。底盤是可拆卸的，而且可以裝在替代底把上。

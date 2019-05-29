@@ -16,7 +16,7 @@ World**是[韩国放送公社](https://zh.wikipedia.org/wiki/韩国放送公社 
 2018年4月起，因應韓國KBS的播出情況和版權問題，暫停播放[KBS月火連續劇和](../Page/KBS月火連續劇.md "wikilink")[KBS水木連續劇](../Page/KBS水木連續劇.md "wikilink")，並改播[KBS
 Drama Special和重播KBS精選劇集](../Page/KBS_Drama_Special.md "wikilink")，但[KBS
 1TV日日連續劇](../Page/KBS_1TV日日連續劇.md "wikilink")、[KBS
-2TV日日連續劇和](https://zh.wikipedia.org/wiki/KBS_2TV日日連續劇 "wikilink")[KBS週末連續劇以及所有KBS所提供的綜藝節目](../Page/KBS週末連續劇.md "wikilink")、新聞KBS
+2TV日日連續劇和](../Page/KBS_2TV日日連續劇.md "wikilink")[KBS週末連續劇以及所有KBS所提供的綜藝節目](../Page/KBS週末連續劇.md "wikilink")、新聞KBS
 News 9和KBS自製紀錄片如常播出，直至2018年6月才完結。
 
 ## 现时节目

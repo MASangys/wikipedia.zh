@@ -17,7 +17,7 @@
   - [吉瀨美智子](../Page/吉瀨美智子.md "wikilink")
   - [藤村聖子](https://zh.wikipedia.org/wiki/藤村聖子 "wikilink")
   - [有村架純](../Page/有村架純.md "wikilink")
-  - [藤原令子](https://zh.wikipedia.org/wiki/藤原令子 "wikilink")
+  - [藤原令子](../Page/藤原令子.md "wikilink")
   - [小篠惠奈](https://zh.wikipedia.org/wiki/小篠惠奈 "wikilink")
   - [野村麻純](https://zh.wikipedia.org/wiki/野村麻純 "wikilink")
   - [山口麻由](https://zh.wikipedia.org/wiki/山口麻由_\(女演員\) "wikilink")

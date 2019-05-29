@@ -413,7 +413,7 @@
 <td><p>2013年</p></td>
 <td><p>4月4日</p></td>
 <td><p>產品</p></td>
-<td><p>Facebook發表<a href="https://zh.wikipedia.org/wiki/Facebook_Home" title="wikilink">Facebook Home</a>，而Facebook會以<a href="https://zh.wikipedia.org/wiki/HTC" title="wikilink">HTC</a> First作為第一隻Facebook Home手機，之後會支援到近期<a href="../Page/Android.md" title="wikilink">Android手機</a>。</p></td>
+<td><p>Facebook發表<a href="../Page/Facebook_Home.md" title="wikilink">Facebook Home</a>，而Facebook會以<a href="https://zh.wikipedia.org/wiki/HTC" title="wikilink">HTC</a> First作為第一隻Facebook Home手機，之後會支援到近期<a href="../Page/Android.md" title="wikilink">Android手機</a>。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年</p></td>
