@@ -1,85 +1,74 @@
-**Kalafina**（台：華麗菲娜\[1\]，陸：卡拉菲娜）是[梶浦由記創立的](../Page/梶浦由記.md "wikilink")[女子音乐组合](../Page/女子音乐组合.md "wikilink")，隸屬於[SPACE
-CRAFT](../Page/SPACE_CRAFT.md "wikilink")（經紀公司）\[2\]及[SACRA
-MUSIC](../Page/SACRA_MUSIC.md "wikilink")（唱片公司）\[3\]\[4\]。2019年3月13日官方宣告解散\[5\]。
+**Kalafina**（台：**華麗菲娜**\[1\]，陸：**卡拉菲娜**\[2\]）是已經解散的日本女子音樂團體，隸屬於[SPACE
+CRAFT](../Page/SPACE_CRAFT.md "wikilink")（經紀公司）與[SACRA
+MUSIC](../Page/SACRA_MUSIC.md "wikilink")（唱片公司）。由[梶浦由記為製作](../Page/梶浦由記.md "wikilink")[空之境界劇場版主題曲而在](../Page/空之境界.md "wikilink")2007年組成。
 
-## 概要
+## 簡介
+
+Kalafina是2007年[梶浦由記因製作](../Page/梶浦由記.md "wikilink")[空之境界劇場版主題曲而組成的團體](../Page/空之境界.md "wikilink")\[3\]，一開始的成員並不固定\[4\]，而是配合「空之境界」劇場版主題曲所需要的音色，選擇適合的歌手\[5\]。在第一張的單曲《[oblivious](https://zh.wikipedia.org/wiki/oblivious "wikilink")》起用了同樣是梶浦由記的團體[FictionJunction中的成員](../Page/FictionJunction.md "wikilink")[Wakana與](https://zh.wikipedia.org/wiki/Wakana "wikilink")[Keiko](https://zh.wikipedia.org/wiki/Keiko "wikilink")\[6\]。之後在第二張單曲《[sprinter/ARIA](https://zh.wikipedia.org/wiki/sprinter/ARIA "wikilink")》中加入了[SMEJ甄選會上入選的](https://zh.wikipedia.org/wiki/SMEJ "wikilink")[Hikaru](https://zh.wikipedia.org/wiki/Hikaru_\(歌手\) "wikilink")，並加入了[Maya](https://zh.wikipedia.org/wiki/Maya_\(日本歌手\) "wikilink")\[7\]。2009年5月，Maya退出Kalafina，同時官方將Kalafina定為Wakana、Keiko、Hikaru三人的女子團體\[8\]。
+
+在聲音的分配上，Wakana主要是高音域，Keiko是低音域，而Hikaru則是高音域到中音域的部份\[9\]。
+
+### 解散
+
+2017年12月23日，[體育日本報導了Kalafina製作人](https://zh.wikipedia.org/wiki/體育日本 "wikilink")[梶浦由記將在](../Page/梶浦由記.md "wikilink")2018年2月離開其經紀公司[SPACE
+CRAFT](../Page/SPACE_CRAFT.md "wikilink")，而Kalafina在2018年2月後的活動是空白的\[10\]\[11\]。2018年2月21日，梶浦由記在[Twitter上宣佈離開SPACE](../Page/Twitter.md "wikilink")
+CRAFT，將成立自己的事務所\[12\]\[13\]\[14\]，並且支持Kalafina後續的活動\[15\]。
+
+2018年3月12日，[體育報知報導了Kalafina內將會有一個團員離開](https://zh.wikipedia.org/wiki/體育報知 "wikilink")\[16\]，之後在3月14日報導了該名成員是[Keiko的新聞](https://zh.wikipedia.org/wiki/Keiko "wikilink")\[17\]，之後官方在4月13日宣佈Keiko在4月1日因合約期滿離開經紀公司SPACE
+CRAFT\[18\]。
+
+2018年11月2日，SPACE
+CRAFT宣佈[Hikaru已經在](https://zh.wikipedia.org/wiki/Hikaru_\(歌手\) "wikilink")10月20日約滿離開\[19\]。之後Hikaru在11月5日開設Twitter帳號與粉絲互動\[20\]。2019年2月6日，[Wakana也開設Twitter帳號與粉絲互動](https://zh.wikipedia.org/wiki/Wakana "wikilink")\[21\]。
+
+2019年3月13日，SPACE
+CRAFT表示因製作人與成員的陸續離開，恢復活動的可能性極低，所以決定解散\[22\]。同日宣佈原Kalafina官方Fans
+Club（Harmony）會員剩餘有效期限將在4月1日轉移至Wakana個人的Fans Club\[23\]。
+
+2019年3月14日，前製作人梶浦由記、前成員Keiko與Hikaru透過梶浦由記的網站對於SPACE
+CRAFT解散Kalafina一事發表意見\[24\]，並對於先前未能說明情況表示歉意。
+
+## 名稱
+
+在訪談\[25\]與文件中\[26\]都有提過Kalafina的名字沒有意義，不過[梶浦由記曾經在](../Page/梶浦由記.md "wikilink")2012年3月31日（[愚人節前一日](https://zh.wikipedia.org/wiki/愚人節 "wikilink")）在他自己的[Twitter帳號上表示過Kalafina一詞是來自古羅馬尼亞語Anifalak倒過來念](../Page/Twitter.md "wikilink")，意思是「逆神者」\[27\]。之後刪除了該則Tweet並澄清只是愚人節開的玩笑\[28\]。
+
+天文學家決定將編號40775的小行星命名為Kalafina\[29\]\[30\]。
+
+## 成員
+
+  - [Wakana](https://zh.wikipedia.org/wiki/Wakana "wikilink")
+  - [Keiko](https://zh.wikipedia.org/wiki/Keiko "wikilink")
+  - [Hikaru](https://zh.wikipedia.org/wiki/Hikaru_\(歌手\) "wikilink")
+
+## 其他
 
 [Kalafina_Signatures.png](https://zh.wikipedia.org/wiki/File:Kalafina_Signatures.png "fig:Kalafina_Signatures.png")
-音乐制作人[梶浦由記在](../Page/梶浦由記.md "wikilink")《[空之境界](../Page/空之境界.md "wikilink")》剧场版的制作方将7部剧场版的主题歌制作工作交给她以后，开始构思选拔新人女歌手组成新的音乐组合来负责主题歌的演唱工作\[6\]，并且当时举行了公开选拔\[7\]。最初梶浦以外的成员并没有公布，直到2008年4月－5月间举行的演唱会「[Revo](../Page/Revo.md "wikilink")＆梶浦由記Presents
-Dream Port
-2008」公演开始之际，最初的成员[Wakana和](../Page/大瀧若菜.md "wikilink")[Keiko被公开身份并参与到演唱会的演出之中](../Page/窪田啓子.md "wikilink")。梶浦同时曾经在杂志的访谈中说过「Kalafina是成员不固定的流动的组合」。如她所说，从第二张单曲《[sprinter/ARIA](https://zh.wikipedia.org/wiki/sprinter/ARIA "wikilink")》开始，Hikaru和maya加入，4人组成的主音歌手阵容确立。第一张专辑《[Seventh
-Heaven](../Page/Seventh_Heaven_\(Kalafina專輯\).md "wikilink")》之后Maya离开，以后Wakana、Keiko、Hikaru三人以此名义开始展开音乐活动\[8\]。
 
-2008年1月23日，收录第一章至第三章主題歌的第一张单曲《[oblivious](https://zh.wikipedia.org/wiki/oblivious "wikilink")》发售。预定全7章对应的7首主题歌收录于3张单曲中\[9\]。但是，因为oblivious成为了比预计高很多的人气作品，所以决定制作了Remix专辑《Re/oblivious》发售。
+  - 在錄音或是演唱會時合作的樂手大多與[梶浦由記合作的樂手相同](../Page/梶浦由記.md "wikilink")（除了[鍵盤手](https://zh.wikipedia.org/wiki/鍵盤手 "wikilink")）。
+  - 原先沒有獨立的Fans Club，而是掛在FictionJunction
+    Club下進行粉絲相關活動（會報與會員抽票等活動），直到2017年才獨立出自己的Fans
+    Club網站Harmony\[31\]。
 
-当初构思是负责劇場版《空之境界》主题歌演唱工作的组合，其后电视动画《[黑执事](https://zh.wikipedia.org/wiki/黑执事 "wikilink")》片尾主題歌发表。
+### 演唱會
 
-2017年4月，由原先[SME
-Records移轉至同為索尼旗下為動漫歌手開設的新品牌](../Page/SME_Records.md "wikilink")[SACRA
-MUSIC](../Page/SACRA_MUSIC.md "wikilink")\[10\]。7月15日、16日四度來台，於台北 ATT
-SHOW BOX舉行九週年海外巡迴「Kalafina 9＋ONE 」\[11\]。
-
-2017年12月，隨著[梶浦由記將在](../Page/梶浦由記.md "wikilink")2018年2月時離開所屬的事務所[SPACE
-CRAFT](../Page/SPACE_CRAFT.md "wikilink")，也跟著出現「Kalafina也因此中止相關活動」的報導\[12\]\[13\]。
-
-2018年3月13日時，傳出同月月底會有一部分成員將要退團的報導，至於官方廣播節目《Kalafina倶樂部》也決定在3月底結束\[14\]，同日，在粉絲網站中發表其中一名成員會離開事務所的訊息\[15\]。2018年4月13日，正式發表Keiko從SPACE
-CRAFT退社的消息\[16\]。但現在官方網站的成員中，仍然有Keiko的名字，並且還有商標權的問題，因此作為「三人組合聲團體」的Kalafina，事實上已經是停止活動的狀態。至於Wakana以及Hikaru，則各自開始展開自己的單飛活動。
-
-2018年10日31日寄送之Fan Club會報，Hikaru發表10月20日退團消息\[17\]。現在SPACE
-CRAFT所屬之Kalafina成員Wakana會繼續單飛活動。
-
-在2018年2月梶浦由記退社后，Kalafina的实际活动已经停止，在反复讨论未来的情况后，认为恢复活动十分困难。2019年3月13日，官方宣告解散\[18\]。
-
-## 團體名稱
-
-大泷若菜和窪田啓子在上电台节目的时候说过，组合名称的由来是个秘密；在oblivious最初公布的时候，组合的成员尚未确定，谜团很多。
-
-[梶浦由記則在](../Page/梶浦由記.md "wikilink")2012年3月31日（[愚人節前一日](https://zh.wikipedia.org/wiki/愚人節 "wikilink")）於[Twitter](../Page/Twitter.md "wikilink")\[19\]
-上表示：Kalafina一詞是來自古羅馬尼亞語Anifalak倒過來念，意思是「逆神者」。在愚人節後該則Tweet已經刪除並事後澄清\[20\]。
-
-2015年6月15日播出的NHK综合频道节目「Studio Park
-向您问好」（スタジオパークからこんにちは）中，Kalafina表示团体名字来源是梶浦由记自创的语言，觉得好听所以组合在一起，没有其他意义，也与团队出道曲搭配作品——[空之境界](../Page/空之境界.md "wikilink")（**Kara**
-no Kyoukai）无关。\[21\]
-
-天文學家決定將編號40775的小行星命名為Kalafina\[22\]\[23\]。
-
-## 构成
-
-### 現成員
-
-  - 制作人
-
-<!-- end list -->
-
-  - [梶浦由記](../Page/梶浦由記.md "wikilink") （作詞、作曲、編曲、和声等）
-
-<!-- end list -->
-
-  - 主音歌手
-
-<!-- end list -->
-
-  - [大泷若菜](https://zh.wikipedia.org/wiki/大泷若菜 "wikilink")（Wakana）
-      - 同時為FictionJunction的一員。
-      - 歌聲具有伸延性，帶清涼感的歌手。主要是高音部份。
-  - [政井光](../Page/政井光.md "wikilink")（Hikaru）
-      - 於SonyMusic試音裡的三萬人中挑選的一人，从发布第二章单曲时加入。
-      - 歌聲中融合了透明感和緊張感的歌手。
-
-<!-- end list -->
-
-  - 和声
-
-<!-- end list -->
-
-  - [梶浦由記](../Page/梶浦由記.md "wikilink")
-  - [貝田由里子](../Page/貝田由里子.md "wikilink")
-  - [戶丸華江](https://zh.wikipedia.org/wiki/戶丸華江 "wikilink")
-
-### 已离开成员
-
-  - [Maya](https://zh.wikipedia.org/wiki/Maya_\(日本歌手\) "wikilink")（主音歌手，第2张单曲～第1张专辑）
-  - [窪田啓子](../Page/窪田啓子.md "wikilink")（Keiko，同時為FictionJunction的一員，唱出誘人的低音歌聲的歌手。2018年4月1日正式退社。)
+  - 第一次參加演唱會演出是在2009年4月29日的「Revo＆梶浦由記 Presents 『Dream Port 2008』」\[32\]。
+  - 第一次的演唱會是在2009年5月19日的[Shibuya
+    O-WEST](https://zh.wikipedia.org/wiki/Shibuya_O-WEST "wikilink")（Kalafina
+    Closed Premium Live）\[33\]\[34\]，由購買專輯與單曲者中抽選500名\[35\]。
+  - 第一次海外演出是在2009年5月22日（於美國[波士頓舉辦的](https://zh.wikipedia.org/wiki/波士頓 "wikilink")）\[36\]。
+  - 第一次公開售票的演唱會是在2009年8月26日，地點在[Shibuya
+    O-EAST](https://zh.wikipedia.org/wiki/Shibuya_O-EAST "wikilink")（Kalafina
+    LIVE 2009 "storia"）\[37\]\[38\]。
+  - 第一次在海外舉辦巡迴演唱會是在2010年2月26日，地點在[臺北市的](../Page/臺北市.md "wikilink")1710
+    Live Studio（現在的花漾Hana展演空間，Kalafina LIVE TOUR 2010 in
+    Asia）\[39\]\[40\]\[41\]\[42\]。
+  - 第一次踏上[日本武道館舉辦萬人演唱會是在](../Page/日本武道館.md "wikilink")2015年2月28日、3月1日（Kalafina
+    LIVE THE BEST 2015 "Red Day" & "Blue
+    Day"）\[43\]\[44\]\[45\]\[46\]\[47\]。
+  - 從五週年開始到九週年，每年的1月23日固定舉辦週年演唱會，場地都會選在第一次公開演唱會的地點[TSUTAYA
+    O-EAST](../Page/TSUTAYA_O-EAST.md "wikilink")\[48\]（2013年舉辦五週年時當時的場地名為Shibuya
+    O-EAST）。
+  - 2018年1月23日，三度踏上日本武道館，舉辦十週年紀念演唱會（Kalafina 10th Anniversary LIVE
+    2018）\[49\]。
 
 ## 作品
 
@@ -1092,6 +1081,7 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
     STYLE](http://www.oricon.co.jp/prof/artist/442690/products/release/)
 
   -
+
 [Category:Kalafina](https://zh.wikipedia.org/wiki/Category:Kalafina "wikilink")
 [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
 [Category:動畫歌手](https://zh.wikipedia.org/wiki/Category:動畫歌手 "wikilink")
@@ -1101,19 +1091,20 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 1.
 
 2.
+
 3.
+
 4.
+
 5.
 
 6.
-
 7.
 8.
-9.  实际前3张单曲收录了6首主题歌，第7首主题歌Seventh Heaven未收录于任意一张单曲之中
-
+9.
 10.
-11. [美聲歌姬開唱大喊臺灣好熱
-    華麗菲娜Kalafina 9周年獻上絢爛音樂饗宴](https://memeon-music.com/2017/07/21/kalafina-livereport/)
+
+11.
 
 12.
 
@@ -1129,15 +1120,50 @@ NHK歷史特輯《歷史秘話Historia》2009年6月3日片尾曲</p></td>
 
 18.
 
-19. [Kalafinaの名前の由来って何？と良く聞かれるんですが、実はあれ、ルーマニア古語の「Anifalak」の逆さ読みなんですよ。「神に背く者」という意味なんですって。
-    (2012.3.31)](http://twitter.com/Fion0806/status/186146683443359748)
+19.
 
-20. [言っておくけどこれ、エイプリルフールだからね…嘘だからね（汗）。RT @favstar100_ja:
-    Kalafinaの名前の由来って何？と良く聞かれるんですが、実はあれ、ルーマニア古語の「Anifalak」の逆さ読みなんですよ。「神に背く者」という意味なんですって。](https://twitter.com/fion0806/status/246942743295840257)
+20.
 
-21. [0150615 NHK総合
-    スタジオパークからこんにちは）](http://www.bilibili.com/video/av2708739/)
+21.
 
 22.
-
 23.
+
+24.
+
+25.
+
+26.
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+33.
+
+34.
+
+35.
+
+36.
+37.
+
+38.
+39.
+40.
+41.
+42.
+
+43.
+44.
+45.
+46.
+47.
+48.
+49.

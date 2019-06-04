@@ -1,6 +1,6 @@
-《**NBC晚间新闻**》（）是[美国](../Page/美国.md "wikilink")[全国广播公司](../Page/全国广播公司.md "wikilink")（NBC）的旗艦全國新聞聯播節目，每晚从位于[纽约](../Page/纽约.md "wikilink")[洛克菲勒中心的](https://zh.wikipedia.org/wiki/洛克菲勒中心 "wikilink")[通用电气公司大厦播出](../Page/GE大樓.md "wikilink")。節目從1970年8月3日起改為現稱。现在非周末时段的主播为[萊斯特·霍爾特](../Page/萊斯特·霍爾特.md "wikilink")（Lester
-Holt），周六主播为[Telemundo电视台新闻主播](../Page/Telemundo电视台.md "wikilink")，周日版主播为[NBC新闻主播](https://zh.wikipedia.org/wiki/NBC新闻 "wikilink")。节目从洛克菲勒中心的3C演播室播出。节目现在使用的主题音乐是由著名作曲家[約翰·威廉斯](https://zh.wikipedia.org/wiki/約翰·威廉斯_\(作曲家\) "wikilink")（John
-Williams）创作。截至2011年，该节目作为全美国收视率最高的新闻节目已经超过十年。
+《**NBC晚間新聞**》（）是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[全國廣播公司](https://zh.wikipedia.org/wiki/全國廣播公司 "wikilink")（NBC）的旗艦全國新聞聯播節目，每晚從位於[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")[洛克菲勒中心的](https://zh.wikipedia.org/wiki/洛克菲勒中心 "wikilink")[通用電氣公司大廈播出](../Page/GE大樓.md "wikilink")。節目從1970年8月3日起改為現稱。現在非週末時段的主播為[萊斯特·霍爾特](../Page/萊斯特·霍爾特.md "wikilink")（Lester
+Holt），週六主播為[Telemundo電視台新聞主播](https://zh.wikipedia.org/wiki/Telemundo電視台 "wikilink")，周日版主播為[NBC新聞主播](../Page/NBC新聞.md "wikilink")。節目從洛克菲勒中心的3C演播室播出。節目現在使用的主題音樂是由著名作曲家[約翰·威廉斯](https://zh.wikipedia.org/wiki/約翰·威廉斯_\(作曲家\) "wikilink")（John
+Williams）創作。截至2011年，該節目作為全美國收視率最高的新聞節目已經超過十年。
 
 ## 播映時間
 
@@ -19,13 +19,13 @@ Edition）。
 
 [香港的](../Page/香港.md "wikilink")[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[明珠台由](../Page/明珠台.md "wikilink")[香港時間](../Page/香港時間.md "wikilink")2009年6月2日起每天[早上](https://zh.wikipedia.org/wiki/早上 "wikilink")07:30播放本節目，取代過往於同時段播放的《ABC世界新聞》。無綫電視以中文宣傳本節目時將之稱為《NBC英語新聞》，但其英文名稱則維持不變。明珠台會因應該台特備節目而順延或取消播映《NBC世界新聞》，並播放《金融概要》，如在[2016年夏季奧林匹克運動會以及](../Page/2016年夏季奧林匹克運動會.md "wikilink")[奧斯卡頒獎典禮直播期間](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")。在2017年10月2日之前，若《NBC世界新聞》延長播映時間，明珠台只會播映前半小時的節目。2017年10月2日起，明珠台會跟隨NBC延長《NBC世界新聞》的播映時間，同時順延或取消在香港時間星期一至五上午08:00播映的《金融概要》、星期六的兒童节目或星期日的《權能時間》。
 
-## 外部链接
+## 外部連結
 
-  - [《NBC晚间新闻》官方主页](https://www.nbcnews.com/nightly-news/)
+  - [《NBC晚間新聞》官方主頁](https://www.nbcnews.com/nightly-news/)
 
 [Category:美國電視新聞節目](https://zh.wikipedia.org/wiki/Category:美國電視新聞節目 "wikilink")
 [Category:NBC電視節目](https://zh.wikipedia.org/wiki/Category:NBC電視節目 "wikilink")
 [Category:無綫電視外購節目](https://zh.wikipedia.org/wiki/Category:無綫電視外購節目 "wikilink")
-[Category:英语电视节目](https://zh.wikipedia.org/wiki/Category:英语电视节目 "wikilink")
-[Category:超级碗后续节目](https://zh.wikipedia.org/wiki/Category:超级碗后续节目 "wikilink")
-[Category:NBC新闻](https://zh.wikipedia.org/wiki/Category:NBC新闻 "wikilink")
+[Category:英語電視節目](https://zh.wikipedia.org/wiki/Category:英語電視節目 "wikilink")
+[Category:超級碗後續節目](https://zh.wikipedia.org/wiki/Category:超級碗後續節目 "wikilink")
+[Category:NBC新聞](https://zh.wikipedia.org/wiki/Category:NBC新聞 "wikilink")

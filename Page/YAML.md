@@ -1,4 +1,4 @@
-**YAML**（，尾音類似*camel*駱駝）是一個可讀性高，用來表達資料序列的格式。YAML參考了其他多種語言，包括：[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[Python](../Page/Python.md "wikilink")、[Perl](../Page/Perl.md "wikilink")，並從[XML](../Page/XML.md "wikilink")、電子郵件的數據格式（RFC
+**YAML**（，尾音類似*camel*駱駝）是一個可讀性高，用來表達資料[序列化的格式](../Page/序列化.md "wikilink")。YAML參考了其他多種語言，包括：[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")、[Python](../Page/Python.md "wikilink")、[Perl](../Page/Perl.md "wikilink")，並從[XML](../Page/XML.md "wikilink")、電子郵件的數據格式（RFC
 [2822](http://www.rfc-editor.org/rfc/rfc2822.txt)）中獲得靈感。Clark
 Evans在2001年首次發表了這種語言\[1\]，另外Ingy döt Net與Oren
 Ben-Kiki也是這語言的共同設計者\[2\]。目前已經有數種程式語言或腳本語言支援（或者說解析）這種語言。

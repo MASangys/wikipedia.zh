@@ -1,5 +1,5 @@
 {{ Infobox Software | name = Boost C++ Libraries | screenshot =
-Boost.png | caption = | author = | latest_release_version = 1.69.0 |
+Boost.png | caption = | author = | latest_release_version = 1.70.0 |
 latest_release_date =  | genre = [函式庫](../Page/函式庫.md "wikilink") |
 license = [Boost许可证](../Page/Boost许可证.md "wikilink") | website =
 <http://www.boost.org/> }}

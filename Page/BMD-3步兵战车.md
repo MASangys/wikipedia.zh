@@ -216,7 +216,7 @@ AT-4（或AT-5）反坦克导弹发射器<br />
 
 ## 使用國
 
-总装备数不详，主要装备前苏联军队，今俄罗斯军队和[独联体国家军队](https://zh.wikipedia.org/wiki/独立国家联合体 "wikilink")。
+总装备数不详，主要装备前苏联军队，今俄罗斯军队和[独联体国家军队](https://zh.wikipedia.org/wiki/独立国家联合体 "wikilink")。中国自1996年以来引进了约80辆，装备某机械化伞兵团。
 
 在80年代前，一个苏军伞兵师约有330辆伞兵战车（含变形车和BMD-2，
 BMD-3），3个空降团各109辆，其中伞兵战车90辆，[BMD-K指挥车](https://zh.wikipedia.org/wiki/BMD-K "wikilink")10辆，[BTR-D装甲输送车](https://zh.wikipedia.org/wiki/BTR-D "wikilink")9辆。

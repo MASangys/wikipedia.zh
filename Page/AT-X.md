@@ -24,7 +24,7 @@ AT-X以播放[无修正版本的动画而闻名](https://zh.wikipedia.org/wiki/�
   - 2012年12月，AT-X加入。
   - 2013年11月29日，AT-X結束AT-X商店全部服務。
   - 2015年10月1日，AT-X[聲優專門頻道](../Page/聲優.md "wikilink")「ST-X」在開播。
-  - 2017年9月30日，AT-X結束[聲優專門頻道](../Page/聲優.md "wikilink")「ST-X」在的服務。
+  - 2017年9月30日，AT-X結束ST-X在SKY Perfect TV\! On Demand的服務。
 
 ## 外部連結
 

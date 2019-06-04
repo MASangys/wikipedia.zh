@@ -320,7 +320,9 @@ Princess」加上其他各種題材為基本的惡搞電波歌曲，在[NICONICO
 
 ## 外部連結
 
-  - [Silver Forest 官方網頁](http://www.silver--forest.com/)
+  - [Silver Forest
+    官方網頁](https://web.archive.org/web/20190330110649/http://www.silver--forest.com/)
+
 
 [Category:同人創作者](https://zh.wikipedia.org/wiki/Category:同人創作者 "wikilink")
 [Category:東方Project二次創作者](https://zh.wikipedia.org/wiki/Category:東方Project二次創作者 "wikilink")

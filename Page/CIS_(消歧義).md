@@ -1,4 +1,4 @@
-**CIS**是**[独联体](https://zh.wikipedia.org/wiki/独联体 "wikilink")**（Commonwealth
+**CIS**可以指**[独联体](https://zh.wikipedia.org/wiki/独联体 "wikilink")**（Commonwealth
 of Independent States），由十一個前蘇聯共和國組成的現代政治實體。
 
 **CIS**也可以指：
@@ -44,3 +44,4 @@ of Independent States），由十一個前蘇聯共和國組成的現代政治�
   - [拉丁語表示](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")「在同一側」的[前綴](https://zh.wikipedia.org/wiki/前綴 "wikilink")：
       - 化學中的[顺反异构](../Page/顺反异构.md "wikilink")
       - 分子生物學的[顺式作用元件](https://zh.wikipedia.org/wiki/顺式作用元件 "wikilink")
+      - [顺性别](https://zh.wikipedia.org/wiki/顺性别 "wikilink")（），与[跨性别相对](https://zh.wikipedia.org/wiki/跨性别 "wikilink")

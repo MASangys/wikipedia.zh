@@ -1,9 +1,9 @@
-《**G弦上的魔王**》（）是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")（）於2008年5月29日發售的[十八禁](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，自2007年11月29日開始因品質提升及開發遲緩的原因三度延期。在發售前已獲得高評價，Getchu.com
-2008年上半年統計中是第三名\[1\]。
+是[AKABEiSOFT2](../Page/AKABEiSOFT2.md "wikilink")（）於2008年5月29日發售的[十八禁](https://zh.wikipedia.org/wiki/成人遊戲 "wikilink")[冒險遊戲](https://zh.wikipedia.org/wiki/冒險遊戲 "wikilink")，自2007年11月29日開始因品質提升及開發遲緩的原因三度延期。在發售前已獲得高評價，Getchu.com
+2008年上半年統計中是第三名。
 
 ## 故事簡介
 
-主角**淺井京介**日間在學校只是個喜歡[古典音樂的普通少年](https://zh.wikipedia.org/wiki/西洋古典音樂 "wikilink")，和同學**美輪樁姬**、**相澤榮一**、義妹**淺井花音**相熟。而在夜晚，則是養父**淺井權三**的公司中的重要人物。在冬天，少女**宇佐美哈爾**轉校來到京介的學校，她就是以前和京介一起的「勇者」。在這時，「**魔王**」出現在這個城市，一連串事件亦開始出現。勇者與魔王間的心理戰，鬥智的純愛故事就如此揭幕。
+主角淺井京介日間在學校只是個喜歡[古典音樂的普通少年](https://zh.wikipedia.org/wiki/西洋古典音樂 "wikilink")，和同學美輪樁姬、相澤榮一、義妹淺井花音相熟。而在夜晚，則是養父淺井權三的公司中的重要人物。在冬天，少女宇佐美哈爾轉校來到京介的學校，她就是以前和京介一起的「勇者」。在這時，「魔王」出現在這個城市，一連串事件亦開始出現。勇者與魔王間的心理戰，鬥智的純愛故事就如此揭幕。
 
 ## 登場人物
 
@@ -14,7 +14,7 @@
 
   -
     說話古怪，要別人稱自己作「勇者」，但行事深思熟慮，懂得拉[小提琴](../Page/小提琴.md "wikilink")。自稱是[北極](https://zh.wikipedia.org/wiki/北極 "wikilink")（或[南極](https://zh.wikipedia.org/wiki/南極 "wikilink")）出身，喜歡[企鵝](../Page/企鵝.md "wikilink")。因魔王而入讀京介的學校。
-    注意雖然可以寫作，但據原畫有葉繪製的人物色紙\[2\]和角色歌CD封面可見其名字的罗马字標記為"Hal"，即是外來語名字。故正确的方式为依照外來語形式译作“哈爾”。
+    注意雖然可以寫作，但據原畫有葉繪製的人物色紙\[1\]和角色歌CD封面可見其名字的罗马字標記為"Hal"，即是外來語名字。故正确的方式为依照外來語形式译作“哈爾”。
 
 <!-- end list -->
 
@@ -51,11 +51,6 @@
   -
     一切不明。概念來自舒伯特所作的藝術歌曲「魔王」，取該歌曲中誘拐孩童的情節。
 
-## 製作人員
-
-  - 企劃、劇本：
-  - 原畫：[有葉](https://zh.wikipedia.org/wiki/有葉 "wikilink")
-
 ## 音樂
 
   - 開頭歌曲「Answer」
@@ -71,13 +66,15 @@
   - 背景音樂
     大部分都是[古典音樂名曲的改編](https://zh.wikipedia.org/wiki/西洋古典音樂 "wikilink")。
 
+## 评价
+
+遊戲在Gatchu 2008年上半年銷量統計中排名第三\[2\]，全年銷量統計中排名第七\[3\]。
+
+游戏获得2008年度[美少女游戏大赏综合赏](../Page/萌系遊戲大賞.md "wikilink")、剧本赏、绘图赏、用户支持赏和主题歌银赏\[4\]。在Getchu
+2008年Side
+White网站用户投票中，游戏获得综合部门第3名、角色部门第1名（宇佐美春）、配音部门第2名（宇佐美春）、剧本部门第3名、BGM部门第3名、主题歌部门第4名、命名部门第4名、系统部门第9名、影片部门第9名\[5\]。
+
 ## 註解
-
-<div class="references-small">
-
-<references />
-
-</div>
 
 ## 參考資料
 
@@ -101,5 +98,8 @@
 [Category:冒險遊戲](https://zh.wikipedia.org/wiki/Category:冒險遊戲 "wikilink")
 [Category:2008年日本成人遊戲](https://zh.wikipedia.org/wiki/Category:2008年日本成人遊戲 "wikilink")
 
-1.  [](http://www.getchu.com/pc/2008-1salesranking.html)
-2.  [](http://www.akabeesoft2.com/g_sen/shikishi/009.jpg)
+1.  [](http://www.akabeesoft2.com/g_sen/shikishi/009.jpg)
+2.
+3.
+4.
+5.

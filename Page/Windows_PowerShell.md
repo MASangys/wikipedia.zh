@@ -1,6 +1,6 @@
 **PowerShell**（包括**Windows PowerShell** and **PowerShell
 Core**）是[微軟公司开发的任务自动化和](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[組態管理框架](../Page/組態管理.md "wikilink")，由[.NET
-Framework和](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")[.NET
+Framework和](../Page/.NET框架.md "wikilink")[.NET
 Core是构建的](../Page/.NET_Core.md "wikilink")[命令行界面](../Page/命令行界面.md "wikilink")[殼層相关脚本语言组成](../Page/殼層.md "wikilink")，最初仅Windows组件，后于2016年8月18日[开源并](../Page/开放源代码.md "wikilink")[跨平台支持](https://zh.wikipedia.org/wiki/跨平台 "wikilink")。\[1\]
 
 在PowerShell中，管理任务通常由cmdlets（发音为command-lets）执行，这是执行特定操作的专用.NET[类](../Page/类_\(计算机科学\).md "wikilink")。可以将cmdlet集合至脚本、可执行文件（一般是独立应用程序）中，或通过常规.NET类（或WMI
@@ -9,8 +9,8 @@ COM对象）实例化。\[2\]\[3\]通过访问不同数据存储中的数据由P
 
 ## 源起與目的
 
-[UNIX系統一直有著功能強大的殼程式](../Page/UNIX.md "wikilink")（[shell](https://zh.wikipedia.org/wiki/shell "wikilink")），Windows
-PowerShell的誕生就是要提供功能相當於UNIX系統的命令列殼程式（例如：[sh](../Page/Bourne_shell.md "wikilink")、[bash或](https://zh.wikipedia.org/wiki/bash "wikilink")[csh](https://zh.wikipedia.org/wiki/C_shell "wikilink")），同時也內建腳本語言以及輔助腳本程式的工具。
+[UNIX系統一直有著功能強大的殼程式](../Page/UNIX.md "wikilink")（[shell](https://zh.wikipedia.org/wiki/殼 "wikilink")），Windows
+PowerShell的誕生就是要提供功能相當於UNIX系統的命令列殼程式（例如：[sh](../Page/Bourne_shell.md "wikilink")、或[csh](../Page/C_Shell.md "wikilink")），同時也內建腳本語言以及輔助腳本程式的工具。
 
 ## 程式特性
 
@@ -29,8 +29,8 @@ GUI中运行命令、编辑与测试脚本。此程序具有多行编辑、Tab�
 ## 技術基礎
 
 Windows PowerShell是以[.NET
-Framework技術為基礎](https://zh.wikipedia.org/wiki/.NET_Framework "wikilink")，並且與現有的[WSH保持回溯相容](https://zh.wikipedia.org/wiki/WSH "wikilink")，因此它的腳本程式不僅能存取.NET
-CLR，也能使用現有的[COM技術](https://zh.wikipedia.org/wiki/COM "wikilink")。同時也包含了數種系統管理工具、簡易且一致的語法，提升管理者處理，常見如登錄資料庫、WMI。Exchange
+Framework技術為基礎](../Page/.NET框架.md "wikilink")，並且與現有的保持回溯相容，因此它的腳本程式不僅能存取.NET
+CLR，也能使用現有的技術。同時也包含了數種系統管理工具、簡易且一致的語法，提升管理者處理，常見如登錄資料庫、WMI。Exchange
 Server 2007以及System Center Operations Manager 2007等伺服器軟體都將內建Windows
 PowerShell。
 
@@ -128,8 +128,7 @@ PowerShell。
 <!-- end list -->
 
   -
-  - [TechNet](../Page/TechNet.md "wikilink")[維基](../Page/維基.md "wikilink")：[Windows
-    PowerShell Survival
+  - [維基](../Page/維基.md "wikilink")：[Windows PowerShell Survival
     Guide](http://social.technet.microsoft.com/wiki/contents/articles/183.windows-powershell-survival-guide-en-us.aspx)
 
 {{-}}

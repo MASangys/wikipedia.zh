@@ -17,6 +17,6 @@ D2Xs**是一部[尼康生產的](../Page/尼康.md "wikilink")[數位單鏡反�
   - 使用CF Type I/II
   - 機身重量為1070[克](https://zh.wikipedia.org/wiki/克 "wikilink")，體積為158x150x86[公釐](https://zh.wikipedia.org/wiki/公釐 "wikilink")。
 
-[Category:數位單眼相機](https://zh.wikipedia.org/wiki/Category:數位單眼相機 "wikilink")
+[Category:數碼單反相機](https://zh.wikipedia.org/wiki/Category:數碼單反相機 "wikilink")
 [Category:尼康相機](https://zh.wikipedia.org/wiki/Category:尼康相機 "wikilink")
 [Category:2004年面世的相機](https://zh.wikipedia.org/wiki/Category:2004年面世的相機 "wikilink")

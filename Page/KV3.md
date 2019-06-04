@@ -52,7 +52,7 @@ KV3的設計並不尋常，包含了王室墓穴的元素，但是又欠缺若�
 ## 外部連結
 
   - [Theban Mapping Project:
-    KV3](http://www.thebanmappingproject.com/sites/browse_tomb_817.html)
+    KV3](https://web.archive.org/web/20120805192435/http://www.thebanmappingproject.com/sites/browse_tomb_817.html)
 
 [Category:帝王谷](https://zh.wikipedia.org/wiki/Category:帝王谷 "wikilink")
 [Category:古埃及墓葬](https://zh.wikipedia.org/wiki/Category:古埃及墓葬 "wikilink")

@@ -1013,11 +1013,12 @@
 
   - [emulebase.de上的部分eMule Mods存档](http://www.emulebase.de/)
 
-  - [emulefans.com电骡爱好者blog上的部分eD2k软件及组件列表](http://emulefans.com/news/)
+  - [emulefans.com电骡爱好者blog上的部分eD2k软件及组件列表](https://web.archive.org/web/20100918174835/http://emulefans.com/news/)
 
 [Category:软件比较](https://zh.wikipedia.org/wiki/Category:软件比较 "wikilink")
 
-1.  主要[翻译](http://emulefans.com/comparison-of-edonkey-software/)自英文维基百科条目（[贡献者](http://en.wikipedia.org/w/index.php?title=Comparison_of_eDonkey_software&action=history)）
+1.  主要[翻译](http://emulefans.com/comparison-of-edonkey-software/)
+    自英文维基百科条目（[贡献者](http://en.wikipedia.org/w/index.php?title=Comparison_of_eDonkey_software&action=history)）
 2.  aMule在[Windows上运行时](https://zh.wikipedia.org/wiki/Windows "wikilink")，Windows对其的支持不完整，无法使用所有[Linux版本的功能](../Page/Linux.md "wikilink")，比如对[UPnP的支持](../Page/UPnP.md "wikilink")。大多数aMule的帮助文档都假定用户使用的是Linux，这些文档有时无法给予Windows用户正确的信息。
 3.  该客户端可以通过[Wine在](../Page/Wine.md "wikilink")[Linux上运行](../Page/Linux.md "wikilink")（参见[这里](http://appdb.winehq.org/objectManager.php?sClass=application&iId=1447))，无官方支持。
 4.  该客户端可以通过[Wine在](../Page/Wine.md "wikilink")[Linux上运行](../Page/Linux.md "wikilink")（参见[这里](http://appdb.winehq.org/objectManager.php?sClass=application&iId=1447))，无官方支持。

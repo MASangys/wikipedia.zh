@@ -165,9 +165,6 @@ Patterson法：
   - [X射线小角散射](https://zh.wikipedia.org/wiki/X射线小角散射 "wikilink")（SAXS）
   - [X射线广角散射](https://zh.wikipedia.org/wiki/X射线广角散射 "wikilink")（WAXS）
 
-[sl:Rentgenska praškovna
-difrakcija](https://zh.wikipedia.org/wiki/sl:Rentgenska_praškovna_difrakcija "wikilink")
-
 [Category:X射线晶体学](https://zh.wikipedia.org/wiki/Category:X射线晶体学 "wikilink")
 [Category:晶体学](https://zh.wikipedia.org/wiki/Category:晶体学 "wikilink")
 [Category:繞射](https://zh.wikipedia.org/wiki/Category:繞射 "wikilink")

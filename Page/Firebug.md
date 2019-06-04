@@ -44,8 +44,7 @@ zh-hant:附加元件;}-的框架，例如：[Yahoo\!的網頁速度優化建議�
 [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")
 
 1.  [Firebug on GitHub](https://github.com/firebug/firebug)
-2.  [Mozilla Firefox
-    Add-on](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
+2.
 3.
 4.
 5.  [O'Reilly Performance Tools: Appendix - Even Faster

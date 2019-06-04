@@ -129,6 +129,10 @@ S-7是S艇其中一個級別，編號由S-7至S-13，德國人除了自用外還
   - [R艇](https://zh.wikipedia.org/wiki/R艇 "wikilink")
   - [U艇](https://zh.wikipedia.org/wiki/U型潛艇 "wikilink")
 
+## 流行文化
+
+  - 英國Airfix模型公司有推出1/72比例的S-7艇模型
+
 ## 参考文献
 
 ## 外部連結
@@ -146,8 +150,6 @@ S-7是S艇其中一個級別，編號由S-7至S-13，德國人除了自用外還
     www.pod3.tv](http://www.thamesvalleypod.tv/tvall.php?tv=3)
 
   -
-[el:Τορπιλάκατος](https://zh.wikipedia.org/wiki/el:Τορπιλάκατος "wikilink")
-
 [Category:德國海軍](https://zh.wikipedia.org/wiki/Category:德國海軍 "wikilink")
 [Category:德國海軍艦艇](https://zh.wikipedia.org/wiki/Category:德國海軍艦艇 "wikilink")
 [Category:中華民國軍艦](https://zh.wikipedia.org/wiki/Category:中華民國軍艦 "wikilink")

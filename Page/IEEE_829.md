@@ -57,8 +57,8 @@ IEEE 829中可能引用到的其他标准：
 ## 外部链接
 
   - [BS7925-2
-    BS7925-2](http://www.ruleworks.co.uk/testguide/BS7925-2.htm) - 下载
-    BS7925-2
+    BS7925-2](https://web.archive.org/web/20080316080029/http://www.ruleworks.co.uk/testguide/BS7925-2.htm)
+    - 下载 BS7925-2
   - [ISEB Testing Documents](http://isebtesting.blogspot.com) - 下载 Iseb
     测试文件
   - [IEEE

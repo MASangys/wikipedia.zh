@@ -1,6 +1,6 @@
 「**音速小子 X**」（英文：Sonic X　日文：ソニック エックス）是一部由[日本](../Page/日本.md "wikilink")
 [東京電視台和](../Page/東京電視台.md "wikilink")[TMS
-Entertainment製作的動畫](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")，改編自著名電玩[音速小子](https://zh.wikipedia.org/wiki/音速小子 "wikilink")，總共三季，每季26集，第三季未在日本放映，有日文配音。[日本於](../Page/日本.md "wikilink")2003年4月6日至2004年3月28日於[東京電視台播放第一季和第二季](../Page/東京電視台.md "wikilink")，而第三季始終未播放。
+Entertainment製作的動畫](https://zh.wikipedia.org/wiki/TMS_Entertainment "wikilink")。作品角色取自著名電玩[音速小子](https://zh.wikipedia.org/wiki/音速小子 "wikilink")，劇情則是在穿越時空的原創故事中，混入系列過去多個遊戲的主線內容。總共三季，每季26集，第三季未在日本放映，有日文配音。[日本於](../Page/日本.md "wikilink")2003年4月6日至2004年3月28日於[東京電視台播放第一季和第二季](../Page/東京電視台.md "wikilink")，而第三季始終未播放。
 
 [香港在](../Page/香港.md "wikilink")2005年1月3日至3月17日於[無綫電視翡翠台首播第一季與第二季](https://zh.wikipedia.org/wiki/無綫電視翡翠台 "wikilink")（1\~52集），其後在2005年10月5日至11月14日播放第三季（53\~78集）。[台灣的第一季到第三季都在](https://zh.wikipedia.org/wiki/台灣 "wikilink")[東森幼幼台播映](../Page/東森幼幼台.md "wikilink")。
 

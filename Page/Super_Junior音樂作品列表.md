@@ -1050,6 +1050,20 @@ Junior于2011年12月16日成立的第五个官方子组合，
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong>3th</strong></p></td>
+<td><p>《<strong><a href="../Page/Danger_(Super_Junior-D&amp;E迷你專輯).md" title="wikilink">Danger (Super Junior-D&amp;E迷你專輯)</a></strong>》</p>
+<ul>
+<li>發行日期：2019年4月14日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

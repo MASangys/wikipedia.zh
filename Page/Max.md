@@ -11,6 +11,8 @@
   - [東日本旅客鐵道的雙層](../Page/東日本旅客鐵道.md "wikilink")[新幹線車輛](../Page/新幹線.md "wikilink")[E1系和](../Page/新幹線E1系電力動車組.md "wikilink")[E4系的暱稱](../Page/新幹線E4系電力動車組.md "wikilink")。
   - **[Cinemax](../Page/Cinemax.md "wikilink")**又称Max，是一家主要播放电影的电视频道。
 
+Max love Viann
+
 ## 名字
 
 作為名字音譯時，中文通常譯為**麥斯**或**麥克斯**：

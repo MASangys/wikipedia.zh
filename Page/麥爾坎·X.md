@@ -17,7 +17,7 @@ Garvey](https://zh.wikipedia.org/wiki/Marcus_Garvey "wikilink")
 
 麥爾坎·X曾是黑人穆斯林組織[伊斯蘭國度中最知名的領導者之一](https://zh.wikipedia.org/wiki/伊斯蘭民族 "wikilink")，他能言善道鼓吹[黑人優越主義與種族分離](https://zh.wikipedia.org/wiki/黑人優越主義 "wikilink")；但後來他漸不認同該團體的創辦人[以利亞·穆罕默德而退出](https://zh.wikipedia.org/wiki/以利亞·穆罕默德 "wikilink")；而後他出國遊歷非洲與中東，包括前往[麥加](../Page/麥加.md "wikilink")[朝覲](https://zh.wikipedia.org/wiki/朝覲_\(伊斯蘭教\) "wikilink")，改宗[遜尼派](../Page/遜尼派.md "wikilink")，並公開反對他以前鼓吹的種族主義，開始與他以前批評太過溫和的黑人領袖包括[馬丁·路德·金合作](https://zh.wikipedia.org/wiki/馬丁·路德·金 "wikilink")，但是他依然認同[泛非主義與黑人認同與自我防衛](https://zh.wikipedia.org/wiki/泛非主義 "wikilink")。1965年，他在一場演講中遭到伊斯蘭國度三名成員槍殺身亡。
 
-## 生平
+## 早年与伊斯兰国度时期
 
 麥爾坎·利托1925年5月生于美国内布拉斯加州奥马哈市，在家里的七个孩子中排行第四。他的父母分别是出生于格林纳达的路易丝·利托和出生于乔治亚州的厄尔·利托。厄尔是一个直言不讳的浸信会教友，泛非洲活动家[马库斯·加维的爱慕者](https://zh.wikipedia.org/wiki/马库斯·加维 "wikilink")，还是普遍黑人提升联盟（UNIA）的当地领导者。他反复向自己的孩子们灌输自力更生和黑人骄傲等思想。他宣扬黑人至上，支持种族隔离，反对黑人与其他肤色的人群通婚和融入美国社会。麥爾坎·利托后来说白人的暴力杀死了他父亲的三个兄弟。
 

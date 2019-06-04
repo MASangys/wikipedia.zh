@@ -13,7 +13,7 @@ Kong
 Toolbar榮膺「2009香港資訊及通訊科技獎：最佳商業系統(應用)」銀獎\[2\]。截至2010年6月，共錄得2,100,100成功下載。
 
 商業電台網站在2014年7月28日起推出全新直播功能，取代電腦版Hong Kong Toolbar，手機Hong Kong
-Toolbar應用程式則繼續開發。
+Toolbar[應用程式則繼續開發](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。
 
 ## 功能
 

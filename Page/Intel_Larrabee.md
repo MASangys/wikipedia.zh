@@ -140,7 +140,8 @@ Core Next）架構更是大量參照Larrabee專案的設計概念，將一些流
 
 ## 外部連結
 
-  - [开源 GPU 社区](http://www.opengpu.org/)
+  - [开源 GPU
+    社区](https://web.archive.org/web/20190122085224/http://www.opengpu.org/)
 
 [Category:顯示卡](https://zh.wikipedia.org/wiki/Category:顯示卡 "wikilink")
 [Category:英特爾產品](https://zh.wikipedia.org/wiki/Category:英特爾產品 "wikilink")

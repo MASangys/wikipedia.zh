@@ -68,7 +68,7 @@ NOTAM的目的：代替2006年發出的第1212號NOTAM
 
 [飛航情報區](../Page/飛航情報區.md "wikilink")：EGTT（倫敦飛航情報區）
 
-目標：滑動道(Taxiway) （ICAO編碼表中為MX）
+目標：滑行道(Taxiway) （ICAO編碼表中為MX）
 
 狀況：關閉（ICAO編碼表中為LC）
 

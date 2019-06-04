@@ -28,14 +28,14 @@ MP9是一種[槍管短行程後座作用式武器](../Page/後座作用.md "wiki
 
 MP9採用[槍管迴轉式閉鎖方式](https://zh.wikipedia.org/wiki/槍管迴轉式 "wikilink")，使用中非常潔淨。試驗表明，發射6,000發槍彈後都不必擦拭，也不會出現故障。MP9採用了高[強度](https://zh.wikipedia.org/wiki/強度 "wikilink")[聚合物製成半透明](../Page/聚合物.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")，可以讓使用者隨時知道彈匣內的剩餘彈量，其彈匣容量15發、20發、25發或30發，[重量分別為](../Page/重量.md "wikilink")240克、300克、370克或440克。
 
-與其他大多數武器系統不同，MP9的槍械、彈藥及消聲器都由同一家公司研製，安裝其快速裝拆式消聲器並且配用亞音速彈藥，可使槍口噪音降至低於32
+與其他大多數武器系統不同，MP9的槍械、彈藥及[抑制器都由同一家公司研製](../Page/抑制器.md "wikilink")，安裝其快速裝拆式消聲器並且配用亞音速彈藥，可使槍口噪音降至低於32
 [分貝](https://zh.wikipedia.org/wiki/分貝 "wikilink")，特別匹配。公司聲稱MP9適合使用世界上任何一種現有的[9×19毫米魯格彈](../Page/9×19mm魯格彈.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[手枪](../Page/手枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，該公司也研製了其亞音速彈藥和[消声器](../Page/抑制器.md "wikilink")，MP9使用這兩者射擊時可以非常有效地降低和[噪音](https://zh.wikipedia.org/wiki/噪声 "wikilink")，亦增加使用者在夜間或建築物內使用時的隱蔽性。
 
 ### 操作性能
 
 MP9使有鋒利棱角的[鬼環式照門使隱蔽攜槍時不會被衣服掛住](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")，其[機匣上方設有](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以用以安裝[光學瞄準鏡](../Page/瞄准镜.md "wikilink")、[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[夜視鏡或](../Page/夜視鏡.md "wikilink")[热成像仪等配件](../Page/热成像仪.md "wikilink")，另外還可加裝[雷射瞄準器和](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")[戰術燈](../Page/戰術燈.md "wikilink")，在的[護木兩側也可增加一段導軌供安裝](https://zh.wikipedia.org/wiki/護木 "wikilink")[戰術燈或雷射瞄準器](../Page/戰術燈.md "wikilink")，另外還有一些雷射瞄準器可固定在空心的[前握把上](../Page/輔助握把.md "wikilink")。
 
-MP9的[機械瞄具由](../Page/機械瞄具.md "wikilink")[鬼環式](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")[照門和柱狀](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星組成](../Page/照準器.md "wikilink")，高低和方向可調，[瞄準基線長度為](https://zh.wikipedia.org/wiki/瞄準基線 "wikilink")190毫米（7.48英吋），[槍口的螺紋可以加裝快速裝拆式](https://zh.wikipedia.org/wiki/槍口 "wikilink")[消聲器或](../Page/抑制器.md "wikilink")（並在底部整合了MIL-STD-1913戰術導軌以安裝戰術燈或雷射瞄準器），折疊式[槍托亦可選擇使用一般型](../Page/槍托.md "wikilink")「L」字形槍托和警察特種部隊人員在佩戴頭盔時瞄準射擊使用的「凵」字形折彎槍托，[機匣右側的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[拋殼口亦可以加裝一個](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")[彈殼收集袋](https://zh.wikipedia.org/wiki/彈殼收集袋 "wikilink")。
+MP9的[機械瞄具由](../Page/機械瞄具.md "wikilink")[鬼環式](https://zh.wikipedia.org/wiki/機械瞄具#鬼環 "wikilink")[照門和柱狀](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星組成](../Page/照準器.md "wikilink")，高低和方向可調，[瞄準基線長度為](https://zh.wikipedia.org/wiki/瞄準基線 "wikilink")190毫米（7.48英吋），[槍口的螺紋可以加裝快速裝拆式抑制器或](https://zh.wikipedia.org/wiki/槍口 "wikilink")（並在底部整合了MIL-STD-1913戰術導軌以安裝戰術燈或雷射瞄準器），折疊式[槍托亦可選擇使用一般型](../Page/槍托.md "wikilink")「L」字形槍托和警察特種部隊人員在佩戴頭盔時瞄準射擊使用的「凵」字形折彎槍托，[機匣右側的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[拋殼口亦可以加裝一個](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")[彈殼收集袋](https://zh.wikipedia.org/wiki/彈殼收集袋 "wikilink")。
 
 在將彈匣插入[彈匣插槽](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")、拉動拉機柄使子彈上膛後，由於槍上沒有設置手動保險機構，使用者不需要做其他射擊準備動作就可以擊發。像格洛克手槍一樣，主要的保險機構是扳機保險，它足以克服相當高的[扳機扣力而使扳機不能擊發](https://zh.wikipedia.org/wiki/扳機扣力 "wikilink")。對於這種扳機特性，一般使用者需要有個熟悉的過程。經常進行實彈練習的突擊隊員或警察則毫無問題，反而可以把它作為一種輔助保險機構。第二個保險機構是設置在[機匣後部的跌落保險](https://zh.wikipedia.org/wiki/機匣 "wikilink")，直接作用於[擊針](../Page/撞針.md "wikilink")。使用者只有扣動扳機的時候，跌落保險才解脫。
 
@@ -345,7 +345,7 @@ MP9和TP9亦登場於多部[电影](../Page/电影.md "wikilink")、[电視和](
     zh-sg:布鲁斯·威利斯;}-飾演](https://zh.wikipedia.org/wiki/布魯斯·威利斯 "wikilink")）所使用，會單手握持。
   - 2013年—《[-{zh-cn:惊天危机; zh-hk:白宮末日;
     zh-tw:白宮末日;}-](../Page/惊天危机.md "wikilink")》：型號為B\&T
-    MP9，裝上[消聲器並且被虛構](../Page/抑制器.md "wikilink")[美国总统詹姆斯](../Page/美国总统.md "wikilink")·索耶（James
+    MP9，裝上[抑制器並且被虛構](../Page/抑制器.md "wikilink")[美国总统詹姆斯](../Page/美国总统.md "wikilink")·索耶（James
     Sawye，[占美·霍士飾演](https://zh.wikipedia.org/wiki/占美·霍士 "wikilink")）從倒下的傭兵上取下以後所使用。
   - 2013年—《[家園防線](https://zh.wikipedia.org/wiki/家園防線 "wikilink")》（Homefront）：被賽勒斯·漢克斯（Cyrus
     Hanks，[弗蘭克·格里洛飾演](https://zh.wikipedia.org/wiki/弗蘭克·格里洛 "wikilink")）所使用。
@@ -380,7 +380,7 @@ MP9和TP9亦登場於多部[电影](../Page/电影.md "wikilink")、[电視和](
     MP9，命名為「MP-9」，被歸類為[衝鋒手槍](../Page/全自動手槍.md "wikilink")，32發[彈匣](../Page/彈匣.md "wikilink")（聯機模式時可使用改裝：延長彈匣增至48發），最高攜彈量為256發（聯機模式）。聯機模式時於等級16解鎖，並可以使用[消音器](../Page/抑制器.md "wikilink")、[雙持](../Page/雙持.md "wikilink")、[紅點鏡](../Page/紅點鏡.md "wikilink")、、[延長彈匣](../Page/彈匣.md "wikilink")；生存模式時於等級17解鎖，價格為$1,500。
   - 2011年—《[-{zh-cn:边缘战士; zh-hk:邊緣戰士;
     zh-tw:邊緣戰士;}-](../Page/邊緣戰士.md "wikilink")》：型號為B\&T
-    TP9，命名為「坦帕衝鋒槍」，配備了折疊式[槍托](../Page/槍托.md "wikilink")，可裝上[COGA光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、、各式[槍口制退器](../Page/砲口制動器.md "wikilink")、[消聲器](../Page/抑制器.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[刺刀](../Page/刺刀.md "wikilink")、[彈匣](../Page/彈匣.md "wikilink")、[彈鼓和](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")[彈匣並聯](../Page/彈匣並聯.md "wikilink")。
+    TP9，命名為「坦帕衝鋒槍」，配備了折疊式[槍托](../Page/槍托.md "wikilink")，可裝上[COGA光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、、各式[槍口制退器](../Page/砲口制動器.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、[刺刀](../Page/刺刀.md "wikilink")、[彈匣](../Page/彈匣.md "wikilink")、[彈鼓和](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")[彈匣並聯](../Page/彈匣並聯.md "wikilink")。
   - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：型号为B\&T
     MP9，命名为“B\&T
     MP9”，为工程师专用武器，Point时限购买，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器、[冲锋枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")）以及瞄准镜（[EoTech
@@ -393,7 +393,10 @@ MP9和TP9亦登場於多部[电影](../Page/电影.md "wikilink")、[电視和](
     TMP」。
   - 2012年—《[-{zh：火線獵殺：未來戰士; zh-hans:幽灵行动：未来战士;
     zh-tw:火線獵殺：未來戰士;}-](../Page/火線獵殺：未來戰士.md "wikilink")》：[追加下载内容](https://zh.wikipedia.org/wiki/追加下载内容 "wikilink")“北極打擊”（Arctic
-    Strike）武器之一。命名為「MP9」，30發[彈匣](../Page/彈匣.md "wikilink")，可以使用[激光瞄準器或OTR掃描儀技能](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")。
+    Strike）武器之一。命名為「MP9」，30發[彈匣](../Page/彈匣.md "wikilink")，可以使用[激光瞄準器或OTR掃描儀改裝](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")。
+  - 2013年—《[-{zh-hans:反恐精英;zh-hant:絕對武力}-Online
+    2](https://zh.wikipedia.org/wiki/絕對武力Online2 "wikilink")》（Counter-Strike
+    Online 2）：型號為B\&T MP9，錯誤地命名為“TMP”。為反恐小組專用武器。
   - 2013年—《[劫新日2](../Page/劫薪日2.md "wikilink")》（Payday
     2）：型號為TP9-US，命名為「CMP」，30發[彈匣](../Page/彈匣.md "wikilink")，携彈量為120發。
   - 2014年—《[幽靈行動：魅影](../Page/幽靈行動：魅影.md "wikilink")》（Tom Clancy's Ghost
@@ -541,7 +544,7 @@ MP9和TP9亦登場於多部[电影](../Page/电影.md "wikilink")、[电視和](
 17.
 
 18.
-19. <http://www.brugger-thomet.ch/en/manufacturing/firearms/index.php?navanchor=2110012>
+19.
 
 20. <https://www.pinterest.com/pin/295548794269811116/>
 

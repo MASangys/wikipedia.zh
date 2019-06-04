@@ -30,9 +30,6 @@ Bergh在](https://zh.wikipedia.org/wiki/Sydney_van_Der_Bergh "wikilink")1970年�
     \[<http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2000PASP>..112..529V
     PASP, Vol. 112, No. 770, p. 529-536\]
 
-[lt:Andromedos
-ūkas](https://zh.wikipedia.org/wiki/lt:Andromedos_ūkas "wikilink")
-
 [Category:矮橢球星系](https://zh.wikipedia.org/wiki/Category:矮橢球星系 "wikilink")
 [Category:仙女座次集團](https://zh.wikipedia.org/wiki/Category:仙女座次集團 "wikilink")
 [Category:仙女座](https://zh.wikipedia.org/wiki/Category:仙女座 "wikilink")

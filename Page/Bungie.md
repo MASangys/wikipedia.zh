@@ -145,7 +145,7 @@ Evolved）成為第一人稱射擊遊戲及微軟的遊戲主機[Xbox的首發�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/命运_(遊戲)" title="wikilink">命運</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/命运_(遊戲)" title="wikilink">天命</a></p></td>
 <td><p>第一人称射击</p></td>
 <td><p>2014年9月9日</p></td>
 <td><p>Xbox 360、<a href="../Page/Xbox_One.md" title="wikilink">Xbox One</a>、<a href="../Page/PlayStation_3.md" title="wikilink">PlayStation 3</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a></p></td>
@@ -153,7 +153,7 @@ Evolved）成為第一人稱射擊遊戲及微軟的遊戲主機[Xbox的首發�
 <td><p>[4]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/命运2.md" title="wikilink">命运2</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/天命2" title="wikilink">天命2</a></p></td>
 <td><p>第一人称射击</p></td>
 <td><p>2017年9月6日</p></td>
 <td><p>Xbox One、PlayStation 4、Windows</p></td>

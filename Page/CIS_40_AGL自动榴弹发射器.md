@@ -1,5 +1,5 @@
-**CIS 40
-AGL自动榴弹发射器**是一挺由[新加坡國防企業新加坡特許工業公司](../Page/新加坡.md "wikilink")（，簡稱：CIS）{{\#tag:ref|現已改稱為（，簡稱：ST
+**CIS 40 AGL**（現稱：**STK 40
+AGL**）是一挺由[新加坡國防企業新加坡特許工業公司](../Page/新加坡.md "wikilink")（，簡稱：CIS）{{\#tag:ref|現已改稱為（，簡稱：ST
 Kinetics）}}在1980年代後期自主研發和生產的[自動榴弹发射器](https://zh.wikipedia.org/wiki/榴弹发射器#全自動型榴弹发射器 "wikilink")，發射[40×53毫米高速榴彈](../Page/40毫米榴彈.md "wikilink")。
 
 ## 歷史

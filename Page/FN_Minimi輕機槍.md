@@ -182,8 +182,6 @@ SAW\]\]
 
   - （Minimi Mk II）
 
-  - （M249）
-
   - （Minimi）－裝備[馬來西亞陸軍以取代](https://zh.wikipedia.org/wiki/馬來西亞陸軍 "wikilink")[HK11A1](https://zh.wikipedia.org/wiki/HK11 "wikilink")。
 
   - （Minimi）
@@ -195,6 +193,8 @@ SAW\]\]
   - （Minimi）－於2002年7月11日由比利時送往尼泊爾，共有5,500把，裝備[尼泊爾陸軍](https://zh.wikipedia.org/wiki/尼泊爾陸軍 "wikilink")。
 
   - （C9）－[紐西蘭國防軍採用加拿大C](../Page/紐西蘭國防軍.md "wikilink")9。
+
+  - （M249）
 
   - （L110A1）
 

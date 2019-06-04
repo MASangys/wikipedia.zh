@@ -1,4 +1,4 @@
-**A-Lin**（[阿美語](../Page/阿美語.md "wikilink")：，[漢語](https://zh.wikipedia.org/wiki/漢語 "wikilink")：，1983年9月20日－），[臺灣](../Page/臺灣.md "wikilink")[華語流行音樂女歌手](../Page/華語流行音樂.md "wikilink")，出生於[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")[苓雅的](https://zh.wikipedia.org/wiki/苓雅 "wikilink")[臺東](../Page/臺東縣.md "wikilink")[阿美族](../Page/阿美族.md "wikilink")，曾數次入圍臺灣[金曲獎](../Page/金曲獎.md "wikilink")，並多次受邀在重要頒獎典禮上獻唱。
+**A-Lin**（[阿美語](../Page/阿美語.md "wikilink")：，[漢語](https://zh.wikipedia.org/wiki/漢語 "wikilink")：，1983年9月20日－），[臺灣](../Page/臺灣.md "wikilink")[華語流行音樂著名女歌手](../Page/華語流行音樂.md "wikilink")，出生於[高雄](https://zh.wikipedia.org/wiki/高雄 "wikilink")[苓雅的](https://zh.wikipedia.org/wiki/苓雅 "wikilink")[臺東](../Page/臺東縣.md "wikilink")[阿美族](../Page/阿美族.md "wikilink")，曾數次入圍臺灣[金曲獎](../Page/金曲獎.md "wikilink")，並多次受邀在重要頒獎典禮上獻唱。
 
 ## 演藝事業
 
@@ -39,7 +39,7 @@ Grace](https://zh.wikipedia.org/wiki/Amazing_Grace "wikilink")》時被她的前
 
 ### 登上巔峰
 
-2015年1月，A-Lin加盟第三季《[我是歌手](../Page/我是歌手_\(第三季\).md "wikilink")》，為首發歌手\[23\]；第三季中只有A-Lin和[韓紅](https://zh.wikipedia.org/wiki/韓紅 "wikilink")、[孫楠三位首發歌手順利晉升決賽](https://zh.wikipedia.org/wiki/孫楠 "wikilink")，且雖然A-Lin最終未能奪得歌王寶座，但該節目使她廣受[華人認識](https://zh.wikipedia.org/wiki/華人 "wikilink")，在[兩岸三地人氣和](../Page/兩岸三地.md "wikilink")[粉絲人數大增](https://zh.wikipedia.org/wiki/愛好者 "wikilink")，奠定其於[華語流行樂壇之地位](../Page/華語流行音樂.md "wikilink")。同年2月9日，她獲得第10屆KKBOX數位音樂風雲榜2015「年度十大風雲歌手」獎項，為她連續第五次獲得該獎項\[24\]同年3月16日，她於臺北[西門町專輯簽唱會上宣布將舉辦名為](../Page/西門町.md "wikilink")《Sonar聲吶》的世界巡迴演唱會，這是她首次以世界為範疇而舉行的巡迴演唱會\[25\]，並以[臺北為首站出發](../Page/臺北市.md "wikilink")。同年5月，她以《罪惡感》專輯第四度入圍金曲獎最佳國語女歌手獎。同年8月29及30日，A-Lin二度登上臺北小巨蛋舉行兩場《聲吶》世界巡演。截至2015年底，A-Lin一共舉行了11場《聲吶》世界巡迴演唱會，巡演地點多達十個城市，包括臺北、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")、[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[杭州](https://zh.wikipedia.org/wiki/杭州 "wikilink")、[武漢](https://zh.wikipedia.org/wiki/武漢 "wikilink")、[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")、[重慶以及](https://zh.wikipedia.org/wiki/重慶 "wikilink")[新加坡和](../Page/新加坡.md "wikilink")[莎阿南等地](../Page/莎阿南.md "wikilink")。同年12月18日，她參加於[湖南衛視第](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")7集《[全員加速中](https://zh.wikipedia.org/wiki/全員加速中 "wikilink")》。
+2015年1月，A-Lin加盟第三季《[我是歌手](../Page/我是歌手_\(第三季\).md "wikilink")》，為首發歌手\[23\]；第三季中只有A-Lin和[韓紅](https://zh.wikipedia.org/wiki/韓紅 "wikilink")、[孫楠三位首發歌手順利晉升決賽](https://zh.wikipedia.org/wiki/孫楠 "wikilink")，且雖然A-Lin最終未能奪得歌王寶座，但該節目使她廣受[華人認識](https://zh.wikipedia.org/wiki/華人 "wikilink")，在[兩岸三地人氣和](../Page/兩岸三地.md "wikilink")[粉絲人數爆增](https://zh.wikipedia.org/wiki/愛好者 "wikilink")，奠定了A-Lin在[華語流行樂壇天后地位](../Page/華語流行音樂.md "wikilink")。同年2月9日，她獲得第10屆KKBOX數位音樂風雲榜2015「年度十大風雲歌手」獎項，為她連續第五次獲得該獎項\[24\]同年3月16日，她於臺北[西門町專輯簽唱會上宣布將舉辦名為](../Page/西門町.md "wikilink")《Sonar聲吶》的世界巡迴演唱會，這是她首次以世界為範疇而舉行的巡迴演唱會\[25\]，並以[臺北為首站出發](../Page/臺北市.md "wikilink")。同年5月，她以《罪惡感》專輯第四度入圍金曲獎最佳國語女歌手獎。同年8月29及30日，A-Lin二度登上臺北小巨蛋舉行兩場《聲吶》世界巡演。截至2015年底，A-Lin一共舉行了11場《聲吶》世界巡迴演唱會，巡演地點多達十個城市，包括臺北、[上海](https://zh.wikipedia.org/wiki/上海 "wikilink")、[深圳](https://zh.wikipedia.org/wiki/深圳 "wikilink")、[北京](https://zh.wikipedia.org/wiki/北京 "wikilink")、[杭州](https://zh.wikipedia.org/wiki/杭州 "wikilink")、[武漢](https://zh.wikipedia.org/wiki/武漢 "wikilink")、[廣州](https://zh.wikipedia.org/wiki/廣州 "wikilink")、[重慶以及](https://zh.wikipedia.org/wiki/重慶 "wikilink")[新加坡和](../Page/新加坡.md "wikilink")[莎阿南等地](../Page/莎阿南.md "wikilink")。同年12月18日，她參加於[湖南衛視第](https://zh.wikipedia.org/wiki/湖南衛視 "wikilink")7集《[全員加速中](https://zh.wikipedia.org/wiki/全員加速中 "wikilink")》。
 
 2016年1月9日，她再次登上[台視大型除夕特別節目](https://zh.wikipedia.org/wiki/台視 "wikilink")《2016[超級巨星紅白藝能大賞](../Page/超級巨星紅白藝能大賞.md "wikilink")》演出；有別於第一次僅60[秒的演出](../Page/秒.md "wikilink")，她率領編制多達38人的[管弦樂團連續演唱四首歌曲](../Page/管弦樂團.md "wikilink")\[26\]。同年1月24日，第11屆KKBOX數位音樂風雲榜頒獎典禮於臺北小巨蛋舉行，A-Lin獲得2016「年度十大風雲歌手」獎項，為連續第六次獲得該獎項\[27\]。同年3月，A-Lin-2016《聲吶》世界巡演繼續啟動。同年3月12、13日，A-Lin第二度站上香港紅磡體育館舉辦《聲吶》世界巡演，並且創下個人於香港首次因門票迅速銷售一空而連開兩場大型演唱會的紀錄。同年3月19日，她首次站上[高雄巨蛋舉辦個人演唱會](https://zh.wikipedia.org/wiki/高雄巨蛋 "wikilink")。同年8月，A-Lin再度登上臺北小巨蛋，並於24小時內完成兩場《聲吶》世界巡演（回聲限定場）\[28\]。
 
@@ -1270,7 +1270,7 @@ Rap詞：J.Sheon</p></td>
 <td></td>
 <td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡室內體育館" title="wikilink">新加坡室內體育館</a></p></td>
-<td><p>未公布</p></td>
+<td><p>-</p></td>
 <td></td>
 </tr>
 <tr class="odd">

@@ -122,7 +122,7 @@ Tavor，M.T.A.R. 21）將會取代原來的所有T.A.R.
   - [尼日利亞](https://zh.wikipedia.org/wiki/尼日利亞 "wikilink")
   - [菲律賓](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")\[19\]的一些執法機關
   - [埃塞俄比亚貴賓保護單位](../Page/埃塞俄比亚.md "wikilink")\[20\]
-  - [馬其頓](../Page/馬其頓.md "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")\[21\]
+  - [北馬其頓共和國](https://zh.wikipedia.org/wiki/北馬其頓共和國 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")\[21\]
 
 ### 印度採用
 
@@ -151,7 +151,6 @@ Tavor，M.T.A.R. 21）將會取代原來的所有T.A.R.
 [Colombian_Tavor.jpg](https://zh.wikipedia.org/wiki/File:Colombian_Tavor.jpg "fig:Colombian_Tavor.jpg")士兵使用塔沃爾步槍。\]\]
 [Парад_в_честь_70-летия_Великой_Победы_-_33.jpg](https://zh.wikipedia.org/wiki/File:Парад_в_честь_70-летия_Великой_Победы_-_33.jpg "fig:Парад_в_честь_70-летия_Великой_Победы_-_33.jpg")中手持塔沃爾步槍於[紅場上受閱的阿塞拜疆士兵](../Page/紅場.md "wikilink")\]\]
 
-  -
   -
   -
   -

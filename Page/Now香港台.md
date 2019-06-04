@@ -68,6 +68,7 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 | 2019年3月1日   | [Discovery Channel](../Page/探索頻道.md "wikilink")                                         | 2    |
 | 2019年4月1日   | [Disney Channel](../Page/迪士尼頻道.md "wikilink")                                           | 1    |
 | 2019年4月16日  | [Disney Junior](https://zh.wikipedia.org/wiki/w:en:Disney_Junior_\(Asia\) "wikilink")   |      |
+| 2019年5月1日   | [Food Network](https://zh.wikipedia.org/wiki/w:en:Food_Network "wikilink")              |      |
 |             |                                                                                         |      |
 
 | 預覽頻道號碼 | 預覽頻道                                                                                    | 預覽次數 |
@@ -103,6 +104,7 @@ now香港台是一條與[now寬頻電視其中一條頻道作同步預覽的頻�
 | 518    | [FOX](../Page/FOX_\(亞洲\).md "wikilink")                                                 |      |
 | 521    | [FOX life](../Page/FOX_Life_\(亞洲\).md "wikilink")                                       |      |
 | 525    | [Lifetime](https://zh.wikipedia.org/wiki/w:en:Lifetime_\(TV_network\) "wikilink")       |      |
+| 526    | [Food Network](https://zh.wikipedia.org/wiki/w:en:Food_Network "wikilink")              |      |
 | 527    | [Asian Food Channel](https://zh.wikipedia.org/wiki/w:en:Asian_Food_Channel "wikilink")  |      |
 
 ### 稍後預覽頻道
@@ -150,7 +152,7 @@ now香港台藝人部自now 101台啟播後已經結束。
 | [林珊珊](../Page/林珊珊.md "wikilink")（）                    | 《Home Sweet Home》監製及《Have a Nice Day》主持 | ※                                                             |
 | 周穎琪（）                                                 | 《now週記》前主持及《Lifetival》客席主持（第24集）        | [TIFFANY artiste management](http://www.tiffany-am.com/)\[3\] |
 | [劉碧麗](https://zh.wikipedia.org/wiki/劉碧麗 "wikilink")（） | 《Lifetival》常任主持（第1集起）                   | ※                                                             |
-| [黃心美](../Page/黃心美.md "wikilink")（）                    | 《Lifetival》新主持（第50集起）                   | 已過檔[ViuTV](../Page/ViuTV.md "wikilink")                       |
+| [黃心美](../Page/黃心美.md "wikilink")（）                    | 《Lifetival》新主持（第50集起）                   | ※                                                             |
 | [駱振偉](../Page/駱振偉.md "wikilink")（ → ）                 | 《Lifetival》新主持（第66集起）                   | 已過檔[ViuTV](../Page/ViuTV.md "wikilink")                       |
 | [洪永城](../Page/洪永城.md "wikilink")（）                    | 《HBO Friends》、《一個地球》（常任主持）              | 已過檔[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")      |
 | [杜如風](../Page/杜如風.md "wikilink")（）                    | 《風行全世界》、《HBO大賞頭》                        | 已過檔[無綫電視](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")      |

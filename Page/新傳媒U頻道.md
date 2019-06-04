@@ -12,7 +12,7 @@
 
 ## 現時播映的黃金時段節目
 
-从2019年4月1日-星期一起 (如果节目编排有误差 以电视台预告为准)【请大家帮忙编辑节目表 但是别胡乱删除】。 \[1\]
+从2019年5月27日至6月2日 (如果节目编排有误差 以电视台预告为准)。 \[1\]
 
 <table style="width:8%;">
 <colgroup>
@@ -40,20 +40,20 @@
 <tbody>
 <tr class="odd">
 <td><p>3:00 pm</p></td>
-<td><p>异乡。驿客^</p></td>
+<td><p>过节^</p></td>
 <td><p>rowspan="1" colspan"1" bgcolor="#FFED57"|进击的台湾</p></td>
-<td><p>rowspan="1" colspan"1" bgcolor="#EEB4B4"|我要嫁出去^（第8集）</p></td>
+<td><p>rowspan="1" colspan"1" bgcolor="#EEB4B4"|我要嫁出去^（第12集）</p></td>
 <td><p>rowspan="2" colspan"1" bgcolor="#8DB6CD"|妈妈咪呀第五季^</p></td>
 <td><p>隐藏的歌手第二季 ^</p></td>
 <td><p><a href="../Page/我的女兒，琴四月.md" title="wikilink">我的女儿琴四月</a>#^<br />
-(第9-12集）</p></td>
+(第25-28集）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4:00 pm</p></td>
-<td><p>稀游记 4^</p></td>
+<td><p>非常小红点^</p></td>
 <td><p>rowspan="2" colspan"1" bgcolor="#FFED57"|爱玩客 - 阿达与Lulu^</p></td>
-<td><p>rowspan="2" colspan"1" bgcolor="#FFED57"|谁来晚餐5^</p></td>
+<td><p>rowspan="2" colspan"1" bgcolor="#FFED57"|我家在这里^</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -71,9 +71,9 @@
 </tr>
 <tr class="even">
 <td><p>5:00 pm</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/说出你的愿望" title="wikilink">说出你的愿望</a>#^ （第32-36集）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/一屋老友记" title="wikilink">一屋老友记</a>^<br />
-(第22-25集）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/说出你的愿望" title="wikilink">说出你的愿望</a>#^ （第52-56集）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/我的维纳斯" title="wikilink">我的维纳斯</a>#^<br />
+(第7-10集）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -82,7 +82,7 @@
 </tr>
 <tr class="odd">
 <td><p>6:00 pm</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/悄悄话_(电视剧)" title="wikilink">悄悄话</a>#^（第18-22集）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/皮诺丘" title="wikilink">皮诺丘</a>#^（第16-20集）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -92,11 +92,11 @@
 </tr>
 <tr class="even">
 <td><p>7:00 pm</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/姐姐还活着" title="wikilink">姐姐还活着</a>#<br />
-（第61-70集）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/做饭的男人" title="wikilink">做饭的男人</a>#<br />
+（第27-36集）</p></td>
 <td><p>嗨唱起来<br />
 </p></td>
-<td><p>歌手2018<br />
+<td><p>歌手<br />
 </p></td>
 <td></td>
 <td></td>
@@ -125,18 +125,18 @@
 </tr>
 <tr class="odd">
 <td><p>9:00 pm</p></td>
-<td><p>料理人生（第11集）</p></td>
+<td><p>美食大翻新</p></td>
 <td><p>rowspan="2" colspan"1" bgcolor="#FFED57"| 生活达人</p></td>
-<td><p>rowspan="2" colspan"1" bgcolor="#FFED57"| 谁来晚餐</p></td>
+<td><p>rowspan="2" colspan"1" bgcolor="#FFED57"| 极境之旅</p></td>
 <td><p>rowspan="2" colspan"1" bgcolor="#FFED57"| 守护者</p></td>
-<td><p>#总理上线</p></td>
-<td><p><a href="../Page/Jugglers.md" title="wikilink">超完美秘书</a>#<br />
-(第11-14集）</p></td>
+<td><p>台湾1001个故事2</p></td>
+<td><p><a href="../Page/你也是人類嗎.md" title="wikilink">你也是人类吗?</a>#<br />
+(第5-8集）</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>9:30 pm</p></td>
-<td><p>下个路口遇见你 （第11集）</p></td>
+<td><p>我是限量版</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -147,7 +147,7 @@
 <tr class="odd">
 <td><p>10:00 pm</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/延禧攻略" title="wikilink">延禧攻略</a><br />
-（第37-41集）</p></td>
+（第57-61集）</p></td>
 <td></td>
 <td></td>
 <td></td>

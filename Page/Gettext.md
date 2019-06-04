@@ -103,7 +103,8 @@ linux 是用LANG)`，程序将自动从相应的`.mo`文件中读取语言信息
   - [Gettext Commons - Java
     gettext工具集](http://code.google.com/p/gettext-commons/)
   - [Autotools教程](http://www.lrde.epita.fr/~adl/autotools.html)
-  - [gted - GetText EDitor和工具集成](http://www.gted.org)
+  - [gted - GetText
+    EDitor和工具集成](https://web.archive.org/web/20181001050711/http://www.gted.org/)
   - [Gorm PO文件编辑器](http://gorm.po.dk/)
   - \[<http://msdn.microsoft.com/en-us/library/windows/desktop/ms647486(v=vs.85>).aspx
     Windows 下的对应函数为 LoadString，直接读取适合当前 locale/lcid 设置的资源字符串\]

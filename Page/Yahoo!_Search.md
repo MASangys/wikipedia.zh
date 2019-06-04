@@ -1,5 +1,5 @@
-**-{zh-tw:Yahoo\!奇摩搜尋; zh-hk:Yahoo\!雅虎搜尋;
-zh-cn:雅虎搜索}-**是一个由[Oath公司运营的](https://zh.wikipedia.org/wiki/Oath公司 "wikilink")[互联网](../Page/互联网.md "wikilink")[搜索引擎](../Page/搜索引擎.md "wikilink")。在Yahoo\!成立的初期并没有自己的搜索引擎，从1996年到2004年，Yahoo\!先后选用[AltaVista](../Page/AltaVista.md "wikilink")、[Inktomi等第三方的搜索引擎作为自己网页搜索的后台服务提供商](https://zh.wikipedia.org/wiki/Inktomi "wikilink")。2004年雅虎先后收购了Inktomi和Overture等著名的搜索引擎公司，并通过整合自己的搜索技术，推出Yahoo\!
+**-{zh-tw:Yahoo\!奇摩搜尋; zh-hk:Yahoo\!雅虎搜尋; zh-cn:雅虎搜索}-**是一个由[Verizon
+Media运营的](../Page/Verizon_Media.md "wikilink")[互联网](../Page/互联网.md "wikilink")[搜索引擎](../Page/搜索引擎.md "wikilink")。在Yahoo\!成立的初期并没有自己的搜索引擎，从1996年到2004年，Yahoo\!先后选用[AltaVista](../Page/AltaVista.md "wikilink")、[Inktomi等第三方的搜索引擎作为自己网页搜索的后台服务提供商](https://zh.wikipedia.org/wiki/Inktomi "wikilink")。2004年雅虎先后收购了Inktomi和Overture等著名的搜索引擎公司，并通过整合自己的搜索技术，推出Yahoo\!
 Search Technology（YST）。2004年3月，雅虎开始推出独立的搜索服务，迅速成长为全球第二大搜索引擎。
 
 ## 中文Yahoo\!搜索

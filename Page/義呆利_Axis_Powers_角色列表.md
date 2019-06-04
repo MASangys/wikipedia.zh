@@ -1209,7 +1209,7 @@ Powers裡除了主要國以外的一部份位於歐洲的其他國家](../Page/�
     小時候曾用一條圍巾和俄羅斯換到了[基輔的繼承權](https://zh.wikipedia.org/wiki/基輔羅斯 "wikilink")。
     致力於農業發展，很能吃，因為胸部大有肩牓痠痛的毛病，走路時胸部會發出「」、「」等谜之效果音，常被歐洲國家騷擾。
     經濟窘迫，因交不起天然氣費而曾被俄羅斯停氣。但還是繳不出來。
-    很關心弟弟，並稱其為（小俄），其实两者关系非常不好，经常被弟弟断掉天然气。（实际上是仰仗地理位置拖欠天然气费用，导致她一家断掉，后面几个国家全部接收不到天然气，最后联合其他国家帮付天然气费这才摆平）。但是爲了儘快融入國際社會而被迫與其保持距離。
+    很關心弟弟，並稱其為（小俄），其实两者关系非常不好，经常被弟弟断掉天然气。（实际上是仰仗地理位置拖欠天然气费用，导致她一家断掉，后面几个国家全部接收不到天然气，最后联合其他国家帮付天然气费这才摆平）。但是爲了儘快[融入國際社會而被迫與其保持距離](../Page/俄罗斯－乌克兰关系.md "wikilink")。
     目前在[歐洲聯盟中尋找朋友](https://zh.wikipedia.org/wiki/歐洲聯盟 "wikilink")，但是卻一直沒有找到。
     於作者繪製的2011年萬聖節系列短漫中，打扮成愛麗絲夢遊仙境中的瘋帽子，帶著騎上木馬的波蘭。
     與白俄羅斯的角色歌為 アメとムチ（鞭子＆糖）
@@ -2566,7 +2566,6 @@ Freistaat Sachsen／Kingdom of Saxony）
 <!-- end list -->
 
   - [全稱](https://zh.wikipedia.org/wiki/區名 "wikilink")：[中華人民共和國澳門特別行政區](https://zh.wikipedia.org/wiki/中華人民共和國澳門特別行政區 "wikilink")
-  - **李濠鏡／李皓蓮**（是作者取的兩個備選用名，目前尚未決定。）
   - [英文](https://zh.wikipedia.org/wiki/英文 "wikilink")：Macao Special
     Administrative Region of the People's Republic of China
   - [官方語言](https://zh.wikipedia.org/wiki/官方語言 "wikilink")：[廣東話](https://zh.wikipedia.org/wiki/廣東話 "wikilink")、[葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")、[普通話](https://zh.wikipedia.org/wiki/普通話 "wikilink")、[澳門土生葡語](../Page/澳門土生葡語.md "wikilink")

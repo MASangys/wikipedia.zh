@@ -22,7 +22,7 @@ Track](../Page/KOICHI_DOMOTO_Endless_SHOCK_Original_Sound_Track.md "wikilink")�
 ## 收錄曲
 
 1.  **愛的十字架～Promise 2U～**
-    （[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink"):[Satomi](https://zh.wikipedia.org/wiki/Satomi "wikilink")　[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink"):[堂本光一](../Page/堂本光一.md "wikilink")　[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink"):[石塚知生](https://zh.wikipedia.org/wiki/石塚知生 "wikilink")　合音編曲:[佐佐木久美](../Page/佐佐木久美.md "wikilink")）
+    （[作詞](https://zh.wikipedia.org/wiki/作詞 "wikilink"):[Satomi](https://zh.wikipedia.org/wiki/Satomi "wikilink")　[作曲](https://zh.wikipedia.org/wiki/作曲 "wikilink"):[堂本光一](../Page/堂本光一.md "wikilink")　[編曲](https://zh.wikipedia.org/wiki/編曲 "wikilink"):[石塚知生](https://zh.wikipedia.org/wiki/石塚知生 "wikilink")　合音編曲:）
 2.  **[Deep in your
     heart](https://zh.wikipedia.org/wiki/Deep_in_your_heart/+MILLION_but_-LOVE "wikilink")**
     （作詞:[白井裕紀](https://zh.wikipedia.org/wiki/白井裕紀 "wikilink")、[新美香](https://zh.wikipedia.org/wiki/新美香 "wikilink")　作曲:堂本光一　編曲:[ha-j](https://zh.wikipedia.org/wiki/ha-j "wikilink")）

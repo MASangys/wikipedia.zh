@@ -20,9 +20,6 @@ Goodbrand等报道了一种用从[碘化亚铜和](../Page/碘化亚铜.md "wiki
 
 ## 参考资料
 
-[en:Goldberg
-reaction](https://zh.wikipedia.org/wiki/en:Goldberg_reaction "wikilink")
-
 [Category:碳－杂原子键形成反应](https://zh.wikipedia.org/wiki/Category:碳－杂原子键形成反应 "wikilink")
 [Category:缩合反应](https://zh.wikipedia.org/wiki/Category:缩合反应 "wikilink")
 [Category:人名反应](https://zh.wikipedia.org/wiki/Category:人名反应 "wikilink")

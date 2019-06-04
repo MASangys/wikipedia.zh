@@ -112,7 +112,9 @@ leak](../Page/内存泄漏.md "wikilink")）的偵測程式。
 
   - [用來替Linux核心進行除錯的GDB後端程式：KGDB](https://web.archive.org/web/20130517035414/http://kgdb.linsyssoft.com/)
 
-  - [Peter Jay Salzman所撰：如何更專精、善用GDB](http://www.dirac.org/linux/gdb)
+  - [Peter Jay
+    Salzman所撰：如何更專精、善用GDB](https://web.archive.org/web/20061004141706/http://www.dirac.org/linux/gdb/)
+
   - [GDB內部結構](http://www.aosabook.org/en/gdb.html) (The Architecture of
     Open Source Applications, Volume II - ISBN 9781105571817)
 

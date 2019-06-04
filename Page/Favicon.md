@@ -1,5 +1,4 @@
 [Wikipedia_favicon_in_Firefox_on_KDE.png](https://zh.wikipedia.org/wiki/File:Wikipedia_favicon_in_Firefox_on_KDE.png "fig:Wikipedia_favicon_in_Firefox_on_KDE.png")顯示維基百科的favicon\]\]
-
 **Favicon**是*favorites icon*的缩写，亦被称为**website icon**（网页图标）、**page
 icon**（页面图标）或**urlicon**（[URL图标](https://zh.wikipedia.org/wiki/URL "wikilink")）。Favicon是与某个[网站或](https://zh.wikipedia.org/wiki/网站 "wikilink")[网页相关联的](https://zh.wikipedia.org/wiki/网页 "wikilink")[图标](https://zh.wikipedia.org/wiki/图标 "wikilink")。网站设计者可以多种方式建立这种图标，而目前也有很多[网页浏览器支持此功能](../Page/网页浏览器.md "wikilink")。浏览器可以将favicon显示于浏览器的地址栏中，也可置于书签列表的网站名前，还可以放在标签式浏览界面中的页标题前。
 
@@ -28,9 +27,7 @@ Consortium（W3C，万维网联盟）的HTML建议](../Page/万维网联盟.md "
     Web（互联网的结构）](http://www.w3.org/TR/webarch/)矛盾，同时被认为是*link
     squatting（链接劫持）*或*URI squatting（URI劫持）*。
 
-[Mozilla浏览器](../Page/Mozilla.md "wikilink")-{zh-cn:通过;
-zh-tw:利用;}-一种遵从Web标准的方法-{zh-cn:添加;
-zh-tw:加入;}-了对favicon的支持。它采用`rel="icon"`并允许网络设计人员添加任何支持的图像格式的favicon。例如<link rel="icon" type="image/png" href="/path/image.png" />。后来鉴于此功能将被用于所有新内容，多数浏览器都对此功能增加了支持。
+[Mozilla浏览器通过一种遵从Web标准的方法添加了对favicon的支持](../Page/Mozilla.md "wikilink")。它采用`rel="icon"`并允许网络设计人员添加任何支持的图像格式的favicon。例如<link rel="icon" type="image/png" href="/path/image.png" />。后来鉴于此功能将被用于所有新内容，多数浏览器都对此功能增加了支持。
 
 根据《HTML 4.01 Specification W3C Recommendation 24 December
 1999》，rel属性的取值仅有：
@@ -69,7 +66,7 @@ your Site》](http://www.w3.org/2005/10/howto-favicon)。
 
 下列代码另一个局限就是它把favicon关联到了某个特定的HTML或[XHTML文档上](../Page/XHTML.md "wikilink")。为避免这一点，favicon.ico文件应置于根目录下。多数浏览器将自动检测并使用它。
 
-  - 建议包含以下两行HTML-{zh-cn:代码; zh-tw:程式碼;}-：
+  - 建议包含以下两行HTML代码：
 
 <!-- end list -->
 
@@ -81,8 +78,8 @@ your Site》](http://www.w3.org/2005/10/howto-favicon)。
   -
     然而，只有第一行是必须的，因为“shortcut
     icon”字符串将被多数遵守标准的浏览器识别为列出可能的关键词（“shortcut”将被忽略，而仅使用“icon”）；而Internet
-    Explorer将会把它作为一个单独的名称（“shortcut icon”）。这样做的结果是所有浏览器都可以理解此-{zh-cn:代码;
-    zh-tw:程式碼;}-。只有当希望为新浏览器提供另一种备用图像（例如动画GIF）时，才有必要添加第二行。
+    Explorer将会把它作为一个单独的名称（“shortcut
+    icon”）。这样做的结果是所有浏览器都可以理解此代码。只有当希望为新浏览器提供另一种备用图像（例如动画GIF）时，才有必要添加第二行。
 
 <!-- end list -->
 
@@ -93,10 +90,9 @@ your Site》](http://www.w3.org/2005/10/howto-favicon)。
   - `href`可以，但不必指向`/favicon.ico`的位置。它可以指向任何URL。
   - 图像通常可以使用任何被浏览器支持的图像格式。
   - `.ico`文件格式通常可以被所有可以显示favicon的浏览器读取。
-  - 设置-{zh-cn:服务器;
-    zh-tw:伺服器;}-，以发送正确的[MIME标识](https://zh.wikipedia.org/wiki/MIME "wikilink")：
-      - ICO 文件 `image/vnd.microsoft.icon`（或者亦可出于-{zh-cn:兼容性;
-        zh-tw:相容性;}-原因使用`image/x-icon`。然而最好使用[IANA注册的MIME类型](http://www.iana.org/assignments/media-types/image/vnd.microsoft.icon)，因为多数主流浏览器现在支持它）
+  - 设置服务器，以发送正确的[MIME标识](https://zh.wikipedia.org/wiki/MIME "wikilink")：
+      - ICO 文件
+        `image/vnd.microsoft.icon`（或者亦可出于兼容性原因使用`image/x-icon`。然而最好使用[IANA注册的MIME类型](http://www.iana.org/assignments/media-types/image/vnd.microsoft.icon)，因为多数主流浏览器现在支持它）
       - GIF 文件 `image/gif`
       - PNG 文件 `image/png`
   - 使用适当的[分辨率和](../Page/分辨率.md "wikilink")[色深](https://zh.wikipedia.org/wiki/色深 "wikilink")。
@@ -112,19 +108,16 @@ your Site》](http://www.w3.org/2005/10/howto-favicon)。
 
 ## 外部链接
 
-  - [W3C网络标准化组织关于如何-{zh-cn:添加;
-    zh-tw:加入;}-favicon的建议](http://www.w3.org/2005/10/howto-favicon)
+  - [W3C网络标准化组织关于如何添加favicon的建议](http://www.w3.org/2005/10/howto-favicon)
 
   - [如何使用PHP添加favicon](http://www.controlstyle.com/articles/programming/text/php-favicon/)。
 
-  - MSDN Library: [Win32的-{zh-cn:图标;
-    zh-tw:圖示;}-](http://msdn2.microsoft.com/en-us/library/ms997538.aspx)
+  - MSDN Library:
+    [Win32的图标](http://msdn2.microsoft.com/en-us/library/ms997538.aspx)
 
-  - Online favicon editor: [-{zh-cn:在线;
-    zh-tw:線上圖示;}-制作Favicon-{zh-cn:图标;
-    zh-tw:圖示;}-](http://favicon.tugai.net/)
+  - Online favicon editor: [在线制作Favicon图标](http://favicon.tugai.net/)
 
-  - （有些过时的-{zh-cn:信息; zh-tw:資訊;}-）
+  - （有些过时的信息）
 
   - MSDN Library:
     \[<http://msdn.microsoft.com/zh-cn/library/gg491740(v=vs.85>)

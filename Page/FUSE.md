@@ -43,7 +43,8 @@ FUSE可用于[Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md
   - [List of FUSE
     filesystems](https://web.archive.org/web/20090303111857/http://apps.sourceforge.net/mediawiki/fuse/index.php?title=FileSystems)
 
-  - [Fuse for FreeBSD](http://fuse4bsd.creo.hu/)
+  - [Fuse for
+    FreeBSD](https://web.archive.org/web/20070411043200/http://fuse4bsd.creo.hu/)
 
   - [Fuse for
     Windows](https://web.archive.org/web/20090214194341/http://fuse4win.4host.ru/)

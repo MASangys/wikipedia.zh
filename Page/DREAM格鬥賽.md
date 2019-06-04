@@ -48,8 +48,5 @@ DREAM規則裡所定義的地板狀態，乃指一方選手若有三點著地，
 
   - [DREAM官方網站](http://www.dreamofficial.com/)
 
-[ja:DREAM
-(格闘技イベント)](https://zh.wikipedia.org/wiki/ja:DREAM_\(格闘技イベント\) "wikilink")
-
 [Category:综合格斗](https://zh.wikipedia.org/wiki/Category:综合格斗 "wikilink")
 [Category:2008年日本建立](https://zh.wikipedia.org/wiki/Category:2008年日本建立 "wikilink")

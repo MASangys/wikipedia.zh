@@ -68,7 +68,8 @@ Die Verbannten Kinder Evas目前推出了4张专辑。
     Evas](http://www.myspace.com/dieverbanntenkinderevas) at
     [MySpace](https://zh.wikipedia.org/wiki/MySpace "wikilink")
   - [Die Verbannten Kinder
-    Evas](http://www.napalmrecords.com/promo/dvkep.html) at [Napalm
+    Evas](https://web.archive.org/web/20080213040550/http://www.napalmrecords.com/promo/dvkep.html)
+    at [Napalm
     Records](https://zh.wikipedia.org/wiki/Napalm_Records "wikilink")
   - \[[http://www.menggang.com/music/dark/dvke/dvke.html\]独乐乐](http://www.menggang.com/music/dark/dvke/dvke.html%5D独乐乐)——Die
     Verbannten Kinder Evas

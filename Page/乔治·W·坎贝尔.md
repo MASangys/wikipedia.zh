@@ -7,3 +7,4 @@ Campbell**，），[美国律师](../Page/美国.md "wikilink")、政治家，[�
 [Category:美國民主共和黨聯邦參議員](https://zh.wikipedia.org/wiki/Category:美國民主共和黨聯邦參議員 "wikilink")
 [Category:田納西州聯邦參議員](https://zh.wikipedia.org/wiki/Category:田納西州聯邦參議員 "wikilink")
 [Category:田納西州聯邦眾議員](https://zh.wikipedia.org/wiki/Category:田納西州聯邦眾議員 "wikilink")
+[Category:美国驻俄罗斯大使](https://zh.wikipedia.org/wiki/Category:美国驻俄罗斯大使 "wikilink")

@@ -29,7 +29,7 @@ Is No.1”意为“每个人都是第一”\[2\]。
 
 [Category:2008年夏季奧林匹克运动会歌曲](https://zh.wikipedia.org/wiki/Category:2008年夏季奧林匹克运动会歌曲 "wikilink")
 [Category:中國歌曲](https://zh.wikipedia.org/wiki/Category:中國歌曲 "wikilink")
-[Category:中文流行歌曲](https://zh.wikipedia.org/wiki/Category:中文流行歌曲 "wikilink")
+[Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink")
 
 1.  [奥运歌曲征评颁奖
     北京2008残奥会优秀歌曲奖](http://sports.cctv.com/20080501/100861.shtml)

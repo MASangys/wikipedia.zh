@@ -53,8 +53,6 @@ Vintorez\]\]
 
 ### 電子遊戲
 
-  - 2007年—《[军团要塞2](https://zh.wikipedia.org/wiki/军团要塞2 "wikilink")》：狙击手的‘全面狙杀令’（主武器）的模型就是
-    VSS Vintorez.
   - 2007年—《[戰地之王](../Page/戰地之王.md "wikilink")》：命名为“VSS”。使用10發[彈匣](../Page/彈匣.md "wikilink")　。
   - 2007年—《[-{zh-hans:潜行者：切尔诺贝利的阴影;
     zh-hant:浩劫殺陣：車諾比之影;}-](../Page/浩劫殺陣：車諾比之影.md "wikilink")》（S.T.A.L.K.E.R:
@@ -68,12 +66,12 @@ Vintorez\]\]
   - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：命名为“VSS
     Vintoerz”，以加装导轨镜桥而非直接使用[PSO-1光學瞄準鏡](../Page/PSO-1光學瞄準鏡.md "wikilink")，为狙击手专用武器，使用10发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")，可以改装战术导轨配件（[狙击枪双脚架](https://zh.wikipedia.org/wiki/两脚架 "wikilink")、特殊狙击枪双脚架）以及瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](https://zh.wikipedia.org/wiki/Trijicon_TR20瞄准镜 "wikilink")、狙击槍5x快速瞄准镜）。
       - 中国大陆服务器为专家解锁武器；俄罗斯服务器为K点武器；欧美服务器需要达到40级（中校1军衔）方可解锁并购买。
-  - 2013-《Metro: Last Light》
   - 2013年—《[-{zh-hans:收获日;
     zh-hant:劫薪日}-2](../Page/劫薪日2.md "wikilink")》：命名為「Valkyria」。
   - 2014年—《[合約戰爭](https://zh.wikipedia.org/wiki/合約戰爭 "wikilink")》（Contract
     Wars）
   - 2015年—《[未轉變者](../Page/未轉變者.md "wikilink")》：命名為“Matamorez”，分類為突擊步槍，等級為傳奇等級槍枝，使用17發[彈匣](../Page/彈匣.md "wikilink")（装备专有的扩容弹夹后可提升载弹量至25发），可以改瞄準鏡以及戰術導軌配件。
+  - 2016年—《》（Escape From Tarkov）
   - 2017年—《[絕地求生](../Page/絕地求生.md "wikilink")》（PlayerUnknown's
     Battlegrounds）：命名为“VSS狙击枪”，自帶四倍[PSO-1光學瞄準鏡](https://zh.wikipedia.org/wiki/PSO-1 "wikilink")、消音器，使用10發彈匣（擴容20發）。在遊戲中作為一枝狙擊步槍，可全自動射擊，可配備：所有狙擊步槍彈匣、托腮板。但由於在遊戲中彈道下墜嚴重，子彈初速慢（亞音速），並不適合狙擊，近距離單發傷害低，故成為冷門武器。
   - 2017年—《[狙擊手：幽靈戰士3](https://zh.wikipedia.org/wiki/狙擊手：幽靈戰士3 "wikilink")》（Sniper:
@@ -120,6 +118,7 @@ Vintorez\]\]
 
 [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink")
 [Category:精確射手步槍](https://zh.wikipedia.org/wiki/Category:精確射手步槍 "wikilink")
+[Category:消聲槍械](https://zh.wikipedia.org/wiki/Category:消聲槍械 "wikilink")
 [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
 [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
 [Category:9×39毫米槍械](https://zh.wikipedia.org/wiki/Category:9×39毫米槍械 "wikilink")

@@ -641,11 +641,11 @@ K](../Page/OK便利店.md "wikilink")
 
   - 美容及個人產品
 
-GNC，[萬寧](../Page/萬寧_\(零售商\).md "wikilink")，[屈臣氏](../Page/屈臣氏個人護理店.md "wikilink")，華潤采活，安利(香港)日用品，千葉草
+GNC，[萬寧](../Page/萬寧_\(零售商\).md "wikilink")，[屈臣氏](../Page/屈臣氏個人護理店.md "wikilink")，華潤采活，安利（香港）日用品，千葉草
 
   - 連鎖式快餐店
 
-[KFC](../Page/肯德基.md "wikilink")、[美心MX](../Page/美心MX.md "wikilink")、[麥當勞](../Page/麦当劳.md "wikilink")
+[KFC](../Page/肯德基.md "wikilink")、[美心MX](../Page/美心MX.md "wikilink")、[麥當勞](https://zh.wikipedia.org/wiki/麥當勞 "wikilink")
 
   - 西餅麵包
 
@@ -690,7 +690,7 @@ Q-PETs、紅蘿蔔、寵物森林、寵物便利、龍貓樂園
 
   - 唱片店
 
-Disc Plus、CD Warehouse、[HMV](../Page/HMV.md "wikilink")(已清盤)
+Disc Plus、CD Warehouse、[HMV](../Page/HMV.md "wikilink")（已清盤）
 
   - 時裝
 
@@ -699,7 +699,7 @@ Disc Plus、CD Warehouse、[HMV](../Page/HMV.md "wikilink")(已清盤)
   - [的士](../Page/香港的士.md "wikilink")
 
 2010年12月2日，快易通、大新銀行與Visa宣佈在香港的士引入AutoTAXI服務，接受感應式Visa
-payWave、傳統晶片及磁帶式Visa信用卡繳費配套。此項服務名為快易通智能的士電召服務，簡稱「快易通的士」（AutoTAXI），試行階段目標為約200部市區的士（紅的）率先提供新服務，稍後將逐階段擴大應用規模。\[9\]2011年6月23日，首批100部車頂設「飛翼」標誌的「飛的」正式投入服務，有車行表示智能系統年底將引入至逾500部的士。\[10\]\[11\]但2011年11月30日起已停止服務。
+payWave、傳統晶片及磁帶式Visa信用卡繳費配套。此項服務名為快易通智能的士電召服務，簡稱「快易通的士」(AutoTAXI)，試行階段目標為約200部市區的士（紅的）率先提供新服務，稍後將逐階段擴大應用規模。\[9\]2011年6月23日，首批100部車頂設「飛翼」標誌的「飛的」正式投入服務，有車行表示智能系統年底將引入至逾500部的士。\[10\]\[11\]但2011年11月30日起已停止服務。
 
 ## 安全疑慮
 

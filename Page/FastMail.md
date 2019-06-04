@@ -11,7 +11,8 @@ Engine提供的](https://zh.wikipedia.org/wiki/Messaging_Engine "wikilink")[电�
 
   - [FastMail 主站点](http://www.fastmail.fm/)
   - [FastMail CN域名](http://www.fastmail.cn/)
-  - [Messaging Engine 主页](http://www.messagingengine.com/)
+  - [Messaging Engine
+    主页](https://web.archive.org/web/20080606052848/http://www.messagingengine.com/)
 
 [Category:电子邮件网站](https://zh.wikipedia.org/wiki/Category:电子邮件网站 "wikilink")
 

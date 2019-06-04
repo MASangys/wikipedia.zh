@@ -90,6 +90,7 @@ Crostini，一個計劃可以讓主流Linux的命令列和圖形使用介面的�
 [Category:2011年软件](https://zh.wikipedia.org/wiki/Category:2011年软件 "wikilink")
 [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
 [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
+[Category:Chrome_OS](https://zh.wikipedia.org/wiki/Category:Chrome_OS "wikilink")
 
 1.
 

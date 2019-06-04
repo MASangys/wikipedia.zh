@@ -29,17 +29,17 @@
     Network](https://web.archive.org/web/20150619072314/http://www.g4net.org/)
     – the European network of G-quadruplex community: From first
     principles to applications
-  - [Quadruplex.org](http://www.quadruplex.org/) – a website to serve
-    the quadruplex community
+  - [Quadruplex.org](https://web.archive.org/web/20180813180803/http://quadruplex.org/)
+    – a website to serve the quadruplex community
   - [G-Quadruplex World](http://gquadruplex.wordpress.com/) – a website
     to discuss publications and other information of interest to those
     working in the field of G-quadruplexes
-  - [Quadbase](http://www.quadruplex.org/?view=quadbase) – downloadable
-    data on predicted G-quadruplexes
+  - [Quadbase](https://web.archive.org/web/20080503160223/http://www.quadruplex.org/?view=quadbase)
+    – downloadable data on predicted G-quadruplexes
   - [Greglist](https://www.webcitation.org/6DYII2TVw?url=http://tubic.tju.edu.cn/greglist/)
     – a database listing potential G-quadruplex regulated genes
-  - \[<http://quadbase.igib.res.in>: Database on Quadruplex information:
-    QuadBase from IGIB\]
+  - \[<https://web.archive.org/web/20181021091915/http://quadbase.igib.res.in/>:
+    Database on Quadruplex information: QuadBase from IGIB\]
   - [GRSDB](http://bioinformatics.ramapo.edu/GRSDB2/)- a database of
     G-quadruplexes near RNA processing sites.
   - [GRS_UTRdb](http://bioinformatics.ramapo.edu/GRS_UTRDB/)- a

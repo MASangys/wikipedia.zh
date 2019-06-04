@@ -519,30 +519,12 @@ Shln Jgglck</p></td>
 
 <!-- end list -->
 
-  - 片尾曲（1話〜11話）、插曲（12話）：「」
+  - 片尾曲（1話〜13話）：「」
 
 <!-- end list -->
 
   -
     作詞、作曲：rino；編曲：大久保薰；歌：CooRie
-
-<!-- end list -->
-
-  - 片尾曲（12話）：「…」
-
-<!-- end list -->
-
-  -
-    作詞・作曲：yozuca\*、編曲：、歌：yozuca\*
-
-<!-- end list -->
-
-  - 片尾曲（13話）：「」
-
-<!-- end list -->
-
-  -
-    作詞・作曲：rino、編曲：大久保薰、歌：CooRie
 
 <!-- end list -->
 
@@ -570,6 +552,24 @@ Shln Jgglck</p></td>
 
   -
     作詞：rino、作曲：yozuca\*、編曲：安藤聖、歌：[yozurino\*](https://zh.wikipedia.org/wiki/yozurino* "wikilink")
+
+<!-- end list -->
+
+  - 插入曲（12話）：「…」
+
+<!-- end list -->
+
+  -
+    作詞・作曲：yozuca\*、編曲：、歌：yozuca\*
+
+<!-- end list -->
+
+  - 插入曲（13話）：「」
+
+<!-- end list -->
+
+  -
+    作詞・作曲：rino、編曲：大久保薰、歌：CooRie
 
 #### 第二季各話資料
 

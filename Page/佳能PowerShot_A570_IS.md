@@ -47,7 +47,4 @@ IS的所有特性，但在像素上有升级，颜色也变为黑色。
   - [PowerShot A570
     IS](https://web.archive.org/web/20070630235255/http://www.canon.com.cn/front/product/product_main.jsp?id=2355&content=spec_attache_consume&type=spec)－佳能（中国）
 
-[en:Canon PowerShot A570
-IS](https://zh.wikipedia.org/wiki/en:Canon_PowerShot_A570_IS "wikilink")
-
 [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")

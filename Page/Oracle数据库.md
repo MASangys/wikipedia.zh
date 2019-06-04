@@ -99,11 +99,10 @@ Oracle公司给数据库开发人员提供产生国际化的数据库应用程�
 
 ## 外部連結
 
-  - [Oracle
-    Database](http://www.oracle.com/technology/software/products/database/oracle10g/),
-    a view provided by Oracle Corporation
-  - [Oracle Database
-    Documentation](http://www.sysdba.de/oracle-dokumentation/11.1/)
+  - [Oracle Database](https://www.oracle.com/database/technologies/), a
+    view provided by Oracle Corporation
+  - [Oracle 18c Database
+    Documentation](https://docs.oracle.com/en/database/oracle/oracle-database/18/index.html)
 
 ## 参见
 

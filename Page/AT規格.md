@@ -23,7 +23,7 @@ AT規格在家用電腦市場蓬勃的1980年代成為一個受廣泛參考的�
 
 ### Baby AT
 
-1985年，[IBM推出了](../Page/IBM.md "wikilink")**Baby
+1985年，[IBM推出](../Page/IBM.md "wikilink")**Baby
 AT**。不久之後，所有電腦製造商丟棄AT而去使用更便宜、更小的Baby
 AT於[286至](../Page/Intel_80286.md "wikilink")[Pentium處理器的電腦上](https://zh.wikipedia.org/wiki/Pentium "wikilink")。這些主機板有和AT規格相類似的安裝孔位置和位置相同的八個卡插槽，但比過去稍微窄和短兩寸（51毫米）。這些Baby
 AT主機板的大小（220x330毫米）和高靈活性，是這一規格的成功關鍵。雖然它現在已經過時，某些電腦現在仍在使用它，而且大部份現代的電腦機箱一般都可以兼容Baby
@@ -31,10 +31,10 @@ AT。 {{-}}
 
 ### ATX
 
-1995年，[英特爾推出了](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[ATX規格](https://zh.wikipedia.org/wiki/ATX "wikilink")，以逐步取代舊Baby
-AT主機板。在90年代末，絕大部份主機板都屬於Baby AT或ATX。當時，許多主機板製造商仍繼續主力出產Baby
-AT，因為許多電腦機箱和電源供應器仍然兼容AT主機板而非ATX主機板。此外，由於ATX主機板缺乏第八條插槽，它通常被用於某些伺服器上。後來，業界適應了ATX規格，設計共同支持Baby
-AT和ATX主機板的機箱和電源供應器變得普遍。此後，ATX規格成為了主流。
+1995年，[英特爾推出](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[ATX規格](https://zh.wikipedia.org/wiki/ATX "wikilink")，以逐步取代Baby
+AT主機板。在1990年代末，絕大部份主機板都屬於Baby AT或ATX。當時，許多主機板製造商仍繼續主力出產Baby
+AT，因為許多電腦機箱和電源供應器仍然兼容AT主機板而非ATX主機板。此外，由於ATX主機板缺乏第八條插槽，它通常被用於某些伺服器上。後來，業界適應ATX規格，設計共同支持Baby
+AT和ATX主機板的機箱和電源供應器變得普遍。此後，ATX規格成為主流。
 
 ## 参见
 

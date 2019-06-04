@@ -86,10 +86,143 @@
 </table>
 
 本遊戲在[台灣及](../Page/臺灣.md "wikilink")[香港地區由](../Page/香港.md "wikilink")[gamania遊戲橘子代理發行](../Page/遊戲橘子.md "wikilink")\[2\]，[中國大陸地區則由](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[世紀天成代理](https://zh.wikipedia.org/wiki/世紀天成 "wikilink")\[3\]。
-
-另外，本游戏在歐美地區以《Counter-Strike
+CSO臺灣代理因合約即將到期 預估於2020年7月24日結束營運 另外，本游戏在歐美地區以《Counter-Strike
 Nexon:Zombies》的名称加入[Steam](../Page/Steam.md "wikilink")，但只對歐美地區開放，並由[Nexon
 Europe經營](https://zh.wikipedia.org/wiki/Nexon#歐洲 "wikilink")\[4\]
+
+## 遊戲內容
+
+### 遊戲模式
+
+***常規遊戲模式(＊代表已關閉的模式)***
+
+| 遊戲模式名稱                          | 動態 | 備註 |
+| :------------------------------ | :- | :- |
+| 团队决战模式                          |    |    |
+| \-{zh-cn:竞技模式 ; zh-tw:經典模式}-    |    |    |
+| 枪王决战模式                          |    |    |
+| 團隊死鬥                            |    |    |
+| 團隊死鬥(人機)                        |    |    |
+| 軍階排位戰                           |    |    |
+| 国际大赛模式                          |    |    |
+| \-{zh-cn:生化模式 ; zh-tw:生化危機}-    |    |    |
+| \-{zh-cn:大災變 ; zh-tw:災厄之章}-     |    |    |
+| \-{zh-cn:生化2(異變) ; zh-tw:生化異變}- |    |    |
+| \-{zh-cn:生化3(英雄) ; zh-tw:生化英雄}- |    |    |
+| \-{zh-cn:生化4(暗夜) ; zh-tw:無界煉獄}- |    |    |
+| 生化危機(人機)                        |    |    |
+| 生化大逃殺                           |    |    |
+| \-{zh-cn:生化Z ; zh-tw:生化Z}-      |    |    |
+| \-{zh-cn:晝夜求生2 ; zh-tw:新夜襲生存戰}- |    |    |
+| \-{zh-cn:機甲風暴 ; zh-tw:厄斗擂台}-    |    |    |
+| 明星鬥陣                            |    |    |
+| 合金戰爭                            | ＊  |    |
+| \-{zh-cn:道具戰 ; zh-tw:趣味奪寶戰}-    |    |    |
+| 極限模式                            |    |    |
+| 足球模式                            |    |    |
+| 戰慄之章                            |    |    |
+| 絕命檔案                            |    |    |
+|                                 |    |    |
+| 締造者模式                           |    |    |
+| 殭屍直直撞                           |    |    |
+
+  - 軍階排位戰遊戲模式玩法：玩家可利用自動匹配選擇適當的遊戲模式來進行與其他玩家對戰並且累計積分，此時系統也會在每期的軍階戰結束時派獎給予玩家遊戲獎勵
+
+<!-- end list -->
+
+  - 遊戲模式玩法：配合不同節日，遊戲商會推出不同的限時模式
+
+***限時遊戲模式***
+
+| 遊戲模式名稱 | 動態           | 備註 |
+| :----- | :----------- | :- |
+| 魔隱師模式  | 由常規模式變更為限時模式 |    |
+| 幽靈模式   |              |    |
+| RPG模式  |              |    |
+
+### 遊戲特色系統
+
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><p>遊戲特色系統名稱</p></th>
+<th style="text-align: left;"><p>說明</p></th>
+<th style="text-align: left;"><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><p>自動匹配</p></td>
+<td style="text-align: left;"><p>可讓玩家使用快速開始遊戲的功能</p></td>
+<td style="text-align: left;"><p>已取消</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>直播</p></td>
+<td style="text-align: left;"><p>玩家可以使用直播功能，讓玩家從視頻網站查看當前玩家的遊玩狀況</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>劇情</p></td>
+<td style="text-align: left;"><p>可讓玩家了解遊戲的操作及玩法</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>密碼箱</p></td>
+<td style="text-align: left;"><p>可讓玩家於商城購買芯片並且可以從密碼箱隨機扭出各種不同的道具</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>歡樂積分商城</p></td>
+<td style="text-align: left;"><p>可讓玩家從積分商城購買更多的遊戲道具</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>武器製造</p></td>
+<td style="text-align: left;"><p>合成：可讓玩家使用S、A、B、C、D、E類型設計圖進行合成，合成後可獲得不同的槍枝，但是必須透過解鎖武器系統解鎖對應的武器才可使用合成的武器</p>
+<p>分解：分解武器系統可讓玩家把多餘的武器進行分解，玩家可於分解武器後獲得合成武器的道具</p>
+<p>噴漆合成：玩家可以到商城系統購買噴漆，使用噴漆合成系統進行添加武器皮膚</p>
+<p>配件：待解說</p>
+<p>配件合成：玩家可以把多餘的配件道具進行組合，同時也可以取得不同屬性的配件道具</p></td>
+<td style="text-align: left;"><p>合成系統已取消</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>特權</p></td>
+<td style="text-align: left;"><p>可以讓玩家享受更多不同的遊戲特色系統優惠 (如：試用遊戲道具)</p></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>每日簽到</p></td>
+<td style="text-align: left;"><p>玩家在遊戲後可以點擊簽到進行領取系統派發的遊戲獎勵道具</p></td>
+<td style="text-align: left;"><p>需要遊玩10分鐘</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>黑市商城</p></td>
+<td style="text-align: left;"><p>玩家可使用持有的歡樂積分來進行黑市商城系統購買遊戲道具</p></td>
+<td style="text-align: left;"><p>1.此為限時性開啟的系統</p>
+<p>2.屬於商城系統之一</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"><p>精英懸賞系統</p></td>
+<td style="text-align: left;"><p>玩家可以在遊玩時獲得懸賞幣進行提升懸賞系統的等級，達到一定的等級即可獲得該系統的等級獎勵</p></td>
+<td style="text-align: left;"><p>1.每30分鐘將會派發懸賞幣，一天最多只能累積120分鐘</p>
+<p>2.玩家可以購買精英通行證購買等級</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+
+### 等級區別
+
+  - 如其他網路遊戲一樣，絕對武力Online中也有透過比賽來獲取經驗值提升等級的設計，實際上不代表玩家的技術水平。然而到達一定的等級數，系統就會派發道具給予玩家作為獎勵。
 
 ## 遊戲命名
 
@@ -100,8 +233,11 @@ Online（CSO）」，常錯拼為「Counter-Strike:Online（CS:O）」。
 
 另外，CS系列版本的命名皆為「Counter-Strike:版本名」。例如：
 
-「Counter-Strike: Condition Zero（CS:CZ）」 「Counter-Strike: Source（CS:S）」
-「Counter-Strike: Global Offensive（CS:GO）」
+Counter-Strike: Condition Zero（CS:CZ）
+
+Counter-Strike: Source（CS:S）
+
+Counter-Strike: Global Offensive（CS:GO）
 
 ## 發行
 

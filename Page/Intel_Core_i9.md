@@ -139,62 +139,6 @@ i9下放到移动平台，隶属于英特爾第8世代Core i系列處理器，�
 
 ##### "Coffee Lake-S" (14 nm)
 
-<table>
-<thead>
-<tr class="header">
-<th><p>型號</p></th>
-<th><p>步進</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/核心" title="wikilink">核心</a>/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
-<th><p>顯示晶片</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/記憶體" title="wikilink">記憶體控制器</a></p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/TDP" title="wikilink">TDP</a></p></th>
-<th><p>插槽</p></th>
-<th><p>發佈日期</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>基準</p></td>
-<td></td>
-<td><p>L2</p></td>
-<td><p>L3</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>旗艦型號</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ark.intel.com/products/186605"><strong>9900K</strong></a></p></td>
-<td><p>P0</p></td>
-<td><p>8 / 16</p></td>
-<td><p>3.6 GHz</p></td>
-<td><p>5.0 GHz</p></td>
-<td><p>8×256 KB</p></td>
-<td><p>16 MB</p></td>
-<td><p>UHD Graphics 630<br />
-(350/1200 MHz)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/DDR4" title="wikilink">DDR4</a>-2666 MHz</p></td>
-<td><p>95 W</p></td>
-</tr>
-</tbody>
-</table>
-
 ### 移動型處理器
 
 #### [Coffee Lake微架構](https://zh.wikipedia.org/wiki/Coffee_Lake微架構 "wikilink")

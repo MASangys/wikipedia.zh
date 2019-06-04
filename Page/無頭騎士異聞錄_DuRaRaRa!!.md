@@ -3,7 +3,7 @@ DuRaRaRa\!\!**》（），是[日本](../Page/日本.md "wikilink")[作家](http
 MEDIA
 WORKS](https://zh.wikipedia.org/wiki/ASCII_MEDIA_WORKS "wikilink")）出版；繁體中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")；簡體中文版則由[天聞角川代理發行](https://zh.wikipedia.org/wiki/天聞角川 "wikilink")。
 
-本作是電擊文庫史上第一個以無頭的人物為主角的作品。描述以[池袋為舞台](../Page/池袋.md "wikilink")，嚮往非日常的少年、愛找碴的小混混、跟蹤狂的電波系少女、以作情報販子「為樂」的青年、專接不尋常病患的密醫、迷上魔物的高中生以及騎著漆黑色機車的「無頭騎士」等共同展開的一連串非日常的故事。第一部全13卷已完結，2014年4月開始刊載第二部《**無頭騎士異聞錄
+本作以[池袋為舞台](../Page/池袋.md "wikilink")，嚮往非日常的少年、愛找碴的小混混、跟蹤狂的電波系少女、以作情報販子「為樂」的青年、專接不尋常病患的密醫、迷上魔物的高中生以及騎著漆黑色機車的「無頭騎士」等共同展開的一連串非日常的故事。第一部全13卷已完結，2014年4月開始刊載第二部《**無頭騎士異聞錄
 DuRaRaRa\!\!SH**》（）。
 
 改編[漫畫版於](https://zh.wikipedia.org/wiki/漫畫 "wikilink")《[月刊GFantasy](../Page/月刊GFantasy.md "wikilink")》（[史克威爾艾尼克斯](https://zh.wikipedia.org/wiki/史克威爾艾尼克斯 "wikilink")）2009年5月號起連載，[茶鳥木明代作畫](https://zh.wikipedia.org/wiki/茶鳥木明代 "wikilink")。

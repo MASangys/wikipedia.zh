@@ -131,3 +131,5 @@ Your Life*」）。
 [Category:美国男歌手](https://zh.wikipedia.org/wiki/Category:美国男歌手 "wikilink")
 [Category:美國饒舌歌手](https://zh.wikipedia.org/wiki/Category:美國饒舌歌手 "wikilink")
 [Category:非洲裔美國音樂家](https://zh.wikipedia.org/wiki/Category:非洲裔美國音樂家 "wikilink")
+[Category:非裔美国男性饶舌歌手](https://zh.wikipedia.org/wiki/Category:非裔美国男性饶舌歌手 "wikilink")
+[Category:来自亚特兰大的饶舌歌手](https://zh.wikipedia.org/wiki/Category:来自亚特兰大的饶舌歌手 "wikilink")

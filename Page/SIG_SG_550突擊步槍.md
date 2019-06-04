@@ -285,6 +285,10 @@ SG 550系列的主要優點是精度高及可靠性優異。而其主要的缺�
         SpecterDS瞄准镜](https://zh.wikipedia.org/wiki/C79光学瞄准镜 "wikilink")、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点镜 "wikilink")、[步枪高级瞄准镜](https://zh.wikipedia.org/wiki/ELCAN_SpecterDR光学瞄准镜 "wikilink")、[Trijicon
         ACOG瞄准镜](../Page/先進戰鬥光學瞄準鏡.md "wikilink")）。
           - 中国大陆服务器为专家解锁，欧美与俄罗斯服务器为K点武器。
+  - 2013年—《[-{zh-hans:反恐精英;zh-hant:絕對武力}-Online
+    2](https://zh.wikipedia.org/wiki/絕對武力Online2 "wikilink")》（Counter-Strike
+    Online
+    2）：型號為SG550，命名為“SG550”，被裝上倍率瞄準鏡充當[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。為反恐小組專用武器。
 
 ### 動畫
 

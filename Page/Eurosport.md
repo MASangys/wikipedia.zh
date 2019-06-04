@@ -41,6 +41,9 @@ Eurosport 頻道於同月開播。
 
 ## 參見
 
+  - [myTV Super
+    OTT網絡電視體育組合](https://zh.wikipedia.org/wiki/myTV_Super_OTT網絡電視體育組合 "wikilink")
+  - [歐洲體育台](https://zh.wikipedia.org/wiki/歐洲體育台 "wikilink")
   - [Now寬頻電視體育平台](https://zh.wikipedia.org/wiki/Now寬頻電視體育平台 "wikilink")
   - [歐洲體育頻道](../Page/歐洲體育頻道.md "wikilink")
 

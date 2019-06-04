@@ -177,7 +177,7 @@ Lights〉獲得「最佳搖滾歌曲」；〈Vertigo〉則獲得2005年葛萊美
 16. [Mahasz](http://www.mahasz.hu/m/?menu=arany_es_platinalemezek&menu2=adatbazis&ev=2004)
 
 
-17. [IRMA](http://irishcharts.ie/awards/multi_platinum.htm)
+17.
 
 18. [RIAJ Certification
     Awards 2005-8](http://www.riaj.or.jp/data/others/gold/200508.html)

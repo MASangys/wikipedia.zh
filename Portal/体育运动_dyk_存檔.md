@@ -833,7 +833,7 @@
 
 <!-- end list -->
 
-  - [1992年夏季奧林匹克運動會利用](https://zh.wikipedia.org/wiki/1992年夏季奧林匹克運動會 "wikilink")**[哪個改建場館](https://zh.wikipedia.org/wiki/莫祖錫奧林匹克體育場‎ "wikilink")**作為主場館？（[圖](https://zh.wikipedia.org/wiki/:File:Estadi_Olímpic_Lluís_Companys_-_Barcelona,_Spain_-_Jan_2007.jpg "wikilink")）
+  - [1992年夏季奧林匹克運動會利用](https://zh.wikipedia.org/wiki/1992年夏季奧林匹克運動會 "wikilink")**[哪個改建場館](https://zh.wikipedia.org/wiki/孔帕尼斯奧林匹克體育場‎ "wikilink")**作為主場館？（[圖](https://zh.wikipedia.org/wiki/:File:Estadi_Olímpic_Lluís_Companys_-_Barcelona,_Spain_-_Jan_2007.jpg "wikilink")）
 
 <!-- end list -->
 

@@ -65,7 +65,7 @@ Pygame應用程式能夠在Android手機和平板執行，採用Pygame對於Ando
     Pygame](https://web.archive.org/web/20081212113920/http://www.apress.com/book/view/1590598725)
     -- A new book discussing game development using Pygame
   - [Game Programming the L
-    Line](http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470068221.html)
+    Line](https://web.archive.org/web/20110906045624/http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470068221.html)
     -- A book that introduces programming and game development with
     Python and pygame
   - [pyOpenGL](http://pyopengl.sourceforge.net/) - Python OpenGL

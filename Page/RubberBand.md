@@ -52,7 +52,7 @@ flat”，最先見於其首張大碟《[Apollo
 
 ## 音樂作品
 
-### A-Z專輯
+### 專輯
 
 <table>
 <thead>
@@ -68,7 +68,7 @@ flat”，最先見於其首張大碟《[Apollo
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p>A: <a href="https://zh.wikipedia.org/wiki/Apollo_18" title="wikilink">Apollo 18</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Apollo_18" title="wikilink">Apollo 18</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/金牌娛樂" title="wikilink">金牌娛樂</a></p></td>
 <td style="text-align: left;"><p>2008年9月26日</p></td>
@@ -100,7 +100,7 @@ flat”，最先見於其首張大碟《[Apollo
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>2nd</p></td>
-<td style="text-align: left;"><p>B: <a href="https://zh.wikipedia.org/wiki/Beaming" title="wikilink">Beaming</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Beaming" title="wikilink">Beaming</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a></p></td>
 <td style="text-align: left;"><p>2009年7月24日</p></td>
@@ -126,7 +126,7 @@ flat”，最先見於其首張大碟《[Apollo
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>3rd</p></td>
-<td style="text-align: left;"><p>C: <a href="../Page/Connected.md" title="wikilink">Connected</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/Connected.md" title="wikilink">Connected</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a></p></td>
 <td style="text-align: left;"><p>2010年9月3日</p></td>
@@ -156,7 +156,7 @@ flat”，最先見於其首張大碟《[Apollo
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>4th</p></td>
-<td style="text-align: left;"><p>D: <a href="https://zh.wikipedia.org/wiki/Dedicated_To..." title="wikilink">Dedicated To...</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Dedicated_To..." title="wikilink">Dedicated To...</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a></p></td>
 <td style="text-align: left;"><p>2011年3月18日</p></td>
@@ -177,7 +177,7 @@ flat”，最先見於其首張大碟《[Apollo
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>5th</p></td>
-<td style="text-align: left;"><p>E: <a href="https://zh.wikipedia.org/wiki/Easy_(RubberBand專輯)" title="wikilink">Easy</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Easy_(RubberBand專輯)" title="wikilink">Easy</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a></p></td>
 <td style="text-align: left;"><p>2012年8月8日</p></td>
@@ -212,7 +212,7 @@ flat”，最先見於其首張大碟《[Apollo
 </ol></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p>E: <a href="https://zh.wikipedia.org/wiki/Easy_(RubberBand專輯)" title="wikilink">Easy（限量慶功版）</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Easy_(RubberBand專輯)" title="wikilink">Easy（限量慶功版）</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a></p></td>
 <td style="text-align: left;"><p>2012年9月28日</p></td>
@@ -249,7 +249,7 @@ flat”，最先見於其首張大碟《[Apollo
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>6th</p></td>
-<td style="text-align: left;"><p>F: <a href="../Page/Frank.md" title="wikilink">Frank</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/Frank.md" title="wikilink">Frank</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/寰亞唱片" title="wikilink">寰亞唱片</a></p></td>
 <td style="text-align: left;"><p>2014年4月10日</p></td>
@@ -277,7 +277,7 @@ flat”，最先見於其首張大碟《[Apollo
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>7th</p></td>
-<td style="text-align: left;"><p>G: <a href="../Page/Gotta_Go.md" title="wikilink">Gotta Go</a></p></td>
+<td style="text-align: left;"><p><a href="../Page/Gotta_Go.md" title="wikilink">Gotta Go</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/寰亞唱片" title="wikilink">寰亞唱片</a></p></td>
 <td style="text-align: left;"><p>2016年1月8日</p></td>
@@ -315,7 +315,7 @@ flat”，最先見於其首張大碟《[Apollo
 </tr>
 <tr class="odd">
 <td style="text-align: left;"><p>8th</p></td>
-<td style="text-align: left;"><p>H: <a href="https://zh.wikipedia.org/wiki/Hours" title="wikilink">Hours</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Hours" title="wikilink">Hours</a></p></td>
 <td style="text-align: left;"><p>大碟</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/R_Flat" title="wikilink">R Flat</a></p></td>
 <td style="text-align: left;"><p>2018年9月28日</p></td>
@@ -334,7 +334,7 @@ flat”，最先見於其首張大碟《[Apollo
 </tbody>
 </table>
 
-### 非A-Z專輯
+### 迷你專輯
 
 <table>
 <thead>
@@ -350,7 +350,7 @@ flat”，最先見於其首張大碟《[Apollo
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><p>1st</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/Frank?" title="wikilink">Frank?</a></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/¿Frank?" title="wikilink">¿Frank?</a></p></td>
 <td style="text-align: left;"><p>EP</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/寰亞唱片" title="wikilink">寰亞唱片</a></p></td>
 <td style="text-align: left;"><p>2014年10月23日</p></td>
@@ -383,7 +383,7 @@ flat”，最先見於其首張大碟《[Apollo
 </tbody>
 </table>
 
-#### 精選
+### 精選
 
 <table>
 <thead>
@@ -434,7 +434,7 @@ flat”，最先見於其首張大碟《[Apollo
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p>2nd</p></td>
-<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/We_Are_RubberBand" title="wikilink">We Are RubberBand</a> (Greatest Hits)</p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/We_Are_RubberBand_Greatest_Hits" title="wikilink">We Are RubberBand Greatest Hits</a></p></td>
 <td style="text-align: left;"><p>精選</p></td>
 <td style="text-align: left;"><p><a href="../Page/金牌大風.md" title="wikilink">金牌大風</a></p></td>
 <td style="text-align: left;"><p>2015年10月29日</p></td>
@@ -478,7 +478,7 @@ flat”，最先見於其首張大碟《[Apollo
 </tbody>
 </table>
 
-#### 現場錄製專輯
+### 現場錄製專輯
 
 <table>
 <thead>
@@ -533,6 +533,18 @@ flat”，最先見於其首張大碟《[Apollo
 </tbody>
 </table>
 
+### 未收錄單曲
+
+| 年份   | 歌名    | 備註                                                          |
+| ---- | ----- | ----------------------------------------------------------- |
+| 2010 | 或許黃金  | 香港電台電視節目《[證義搜查線](../Page/證義搜查線.md "wikilink")》主題曲           |
+| 2010 | 鬼叫你窮  | 香港電台電視節目《有房出租 第2輯》主題曲                                       |
+| 2014 | 誓要入刀山 | 電影《[掃毒](../Page/掃毒.md "wikilink")》歌曲                        |
+| 2016 | 天光了   |                                                             |
+| 2018 | 大叔情歌  | 電影《[逆流大叔](https://zh.wikipedia.org/wiki/逆流大叔 "wikilink")》插曲 |
+| 2019 | 孤島人   |                                                             |
+|      |       |                                                             |
+
 ### 其他歌曲
 
 <table>
@@ -548,34 +560,42 @@ flat”，最先見於其首張大碟《[Apollo
 <tr class="odd">
 <td><p>2010</p></td>
 <td><p>Color My World</p></td>
-<td><p>與<a href="../Page/Mr..md" title="wikilink">Mr.合唱</a></p></td>
+<td><p>太陽計劃2010主題曲<br />
+與<a href="../Page/Mr..md" title="wikilink">Mr.合唱</a></p></td>
 <td><p>Love 10情歌集壓軸篇</p></td>
 </tr>
 <tr class="even">
-<td><p>2010</p></td>
-<td><p>或許黃金</p></td>
-<td><p>香港電台電視節目《<a href="../Page/證義搜查線.md" title="wikilink">證義搜查線</a>》主題曲</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
 <td><p>2011</p></td>
 <td><p>To Haters</p></td>
 <td><p><a href="../Page/方皓玟.md" title="wikilink">方皓玟主唱</a><br />
 featuring 偉＠RubberBand on double bass</p></td>
 <td><p>Dun U Dare</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2013</p></td>
 <td><p>今晚跟你拗餐飽</p></td>
 <td><p><a href="../Page/曹震豪.md" title="wikilink">曹震豪主唱</a><br />
 featuring 6號＠RubberBand</p></td>
 <td><p>Musicologist</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2016</p></td>
 <td><p>終於好天氣</p></td>
 <td><p>與<a href="../Page/方皓玟.md" title="wikilink">方皓玟合唱</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/My_Spiritual_Life" title="wikilink">My Spiritual Life</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2017</p></td>
+<td><p>一生青春</p></td>
+<td><p>「RubberBand × Yellow! 乾杯音樂會2017」 主題曲<br />
+與<a href="https://zh.wikipedia.org/wiki/Yellow!" title="wikilink">Yellow!合唱</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018</p></td>
+<td><p>風塵三俠</p></td>
+<td><p>與<a href="../Page/小肥.md" title="wikilink">小肥及</a><a href="../Page/側田.md" title="wikilink">側田合唱</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/睡前服" title="wikilink">睡前服</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -1190,7 +1210,7 @@ featuring 6號＠RubberBand</p></td>
   - 2月15日：大專拾回十大音樂會
   - 4月7日：RubberBand Chill 級迷你 Live Show
   - 5月3日：許志安與21安士音樂會
-  - 6月9日：RubberBand X Yellow\! 飲勝 Live Show
+  - 6月9日：RubberBand × Yellow\! 飲勝 Live Show
   - 9月12日：YouTube FanFest Hong Kong
   - 10月24日：博愛青年音樂會 2017
 
@@ -1208,10 +1228,11 @@ featuring 6號＠RubberBand</p></td>
   - 2月23日："Dare to Care" Youth Arts Fiesta 2018/2019
   - 3月17日：霹靂903歌托邦《烈日當歌》音樂會
   - 3月23日：RubberBand HOURS 2019 澳門站
-  - 4月2日：RubberBand x 動腦Q「QQ地微唱會」
+  - 4月2日：RubberBand × 動腦Q「QQ地微唱會」
   - 4月27日：Jazz Marathon 2019
   - 5月1日：Hot Wave @ HUSH\! Full Music沙灘音樂會
-  - 6月8日：DAILIES TOTAL①® X RubberBand Feels Like Nothing Mini Concert
+  - 6月2日：ANESSA Sun City Fest音樂會
+  - 6月8日：DAILIES TOTAL①® × RubberBand Feels Like Nothing Mini Concert
 
 ## 派台歌曲成績
 
@@ -1295,12 +1316,12 @@ featuring 6號＠RubberBand</p></td>
 
 ### MV
 
-RubberBand共拍攝了多首歌曲的[音樂錄像](https://zh.wikipedia.org/wiki/音樂錄像 "wikilink")（MV），包括《認錯》、《Tears》、《遊車河》、《一早地下鐵》、《小涼伴》、《阿波羅》、《夾硬泥》、《衝》、《發現號》、《細街盃》、《天連地》、《SimpleLoveSong》、《More
-than a woman》及《dedicated
+RubberBand共拍攝了多首歌曲的[音樂錄像](https://zh.wikipedia.org/wiki/音樂錄像 "wikilink")（MV），包括《認錯》、《Tears》、《遊車河》、《一早地下鐵》、《城市當代配樂團》、《小涼伴》、《阿波羅》、《夾硬泥》、《衝》、《發現號》、《細街盃》、《天連地》、《未來見》、《SimpleLoveSong》、《More
+than a woman》及《Dedicated
 to》等等，所有MV均由主音[6號執導及剪接](https://zh.wikipedia.org/wiki/6號 "wikilink")，其後加入第二導演[Ken
 Tsui](https://zh.wikipedia.org/wiki/Ken_Tsui "wikilink")。
 
-### 電視節目
+### 電視節目及電影
 
 2010年
 
@@ -1310,12 +1331,33 @@ Tsui](https://zh.wikipedia.org/wiki/Ken_Tsui "wikilink")。
 
   - 《茜嘉團遊•土耳其》： [J2台播映](https://zh.wikipedia.org/wiki/J2台 "wikilink")
     \[11\]
-  - 《女人多自在》第四部：泥猛飾輝雄
+  - 《女人多自在》第四部：泥猛 飾演 輝雄
 
-2012年 電影《懸紅》：
+2012年
 
-  - 泥猛飾惡霸(客串)
-  - 六號飾欲自殺宅男(客串)
+  - 《懸紅》：
+
+泥猛 飾演 惡霸(客串) 六號 飾演 欲自殺宅男(客串)
+
+2017年：
+
+  - 《女士復仇》：泥猛
+  - 《賤民20》：泥猛 飾演 Richard
+  - 《未來還未來》：六號 飾演 阿龍（副導演）
+  - [碌卡大導](https://zh.wikipedia.org/wiki/碌卡大導 "wikilink") —
+    《車房·耶穌·師傅仔》：六號 飾演 發哥
+
+2018年
+
+  - 《我的家庭醫生3：再一次求婚》：泥猛 飾演 黃永義好友(客串)
+  - 《Plan B》：泥猛 飾演 鄧伯
+  - 《運輸背後》：泥猛
+  - 《做演藝嘅》：六號 飾演 戲院經理（第3集）
+  - 《身後事務所》：六號 飾演 羅子迅
+
+2019年
+
+  - 《向西聞記》：泥猛 飾演 陳彼得
 
 ## 書籍
 
@@ -1685,6 +1727,7 @@ the Mission: RubberBand》，為其兩年的音樂事業作小總結。當中展
 
 14.
 15. [1](http://www.jobmarket.com.hk/Resources/industry_trend_details.jsp?article_id=4472&cmpy_id)
+
 16.
 17.
 18.

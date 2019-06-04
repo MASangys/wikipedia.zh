@@ -1,4 +1,4 @@
-**MOMO親子台**，為[優視傳播的兒童頻道](https://zh.wikipedia.org/wiki/優視傳播 "wikilink")，於2006年1月1日開播。由於該頻道的標誌是一隻粉紅色[毛蟲](../Page/毛蟲.md "wikilink")，故俗稱「**毛蟲台**」；2007年併購[緯來兒童台](../Page/緯來兒童台.md "wikilink")。收播時間為每天04:00至06:00。2014年10月29日起，正式啟用高畫質版本頻道「**MOMOHD**」。
+**momo親子台**，為[優視傳播的兒童頻道](https://zh.wikipedia.org/wiki/優視傳播 "wikilink")，於2006年1月1日開播。由於該頻道的標誌是一隻粉紅色[毛蟲](../Page/毛蟲.md "wikilink")，故俗稱「毛蟲**台**」；2007年併購[緯來兒童台](../Page/緯來兒童台.md "wikilink")。收播時間為每天04:00至06:00。2014年10月29日起，正式啟用高畫質版本頻道「momo親子**HD**」。
 
 ## MOMO家族
 
@@ -8,8 +8,6 @@
   - 《[哈密瓜哥哥-佘啟銘](https://zh.wikipedia.org/wiki/佘啟銘 "wikilink")》
   - 《[海苔哥哥-黃韋翔](https://zh.wikipedia.org/wiki/黃韋翔 "wikilink")》
   - 《[檸檬哥哥-邱俊銘](../Page/邱俊銘.md "wikilink")》
-  - 《[優格姐姐-林姵君](https://zh.wikipedia.org/wiki/林姵君 "wikilink")》
-  - 《[甜甜姐姐-張婕筠](https://zh.wikipedia.org/wiki/張婕筠 "wikilink")》
   - 《[大樹哥哥-孔慶文](https://zh.wikipedia.org/wiki/孔慶文 "wikilink")》
   - 《[香草姐姐-李宜軒](https://zh.wikipedia.org/wiki/李宜軒_\(藝人\) "wikilink")》（第二代）
   - 《[柚子哥哥-張書維](https://zh.wikipedia.org/wiki/張書維 "wikilink")》（第二代）
@@ -35,6 +33,8 @@
   - 《[泡芙姐姐-施達伶](../Page/泡芙姐姐.md "wikilink")》
   - 《[糖果姐姐-張雅淇](../Page/洪淇.md "wikilink")》（第一代）
   - 《[藍莓姐姐-李牧寰](https://zh.wikipedia.org/wiki/李牧寰 "wikilink")》（第一代）
+  - 《[優格姐姐-林姵君](https://zh.wikipedia.org/wiki/林姵君 "wikilink")》
+  - 《[甜甜姐姐-張婕筠](https://zh.wikipedia.org/wiki/張婕筠 "wikilink")》
   - 《[功夫哥哥-陳恩奕](https://zh.wikipedia.org/wiki/陳恩奕 "wikilink")》
 
 ## 動畫節目

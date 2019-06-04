@@ -2,13 +2,12 @@
 Host Controller
 Interface**），中文名为**進階主機控制器介面**，是由[英特爾制定的技术标准](https://zh.wikipedia.org/wiki/英特爾 "wikilink")，允許軟體與[SATA儲存裝置溝通的硬體機制](../Page/SATA.md "wikilink")，可讓SATA儲存裝置啟用進階SATA功能，例如[原生指令佇列及](https://zh.wikipedia.org/wiki/原生指令佇列 "wikilink")[熱插拔](https://zh.wikipedia.org/wiki/熱插拔 "wikilink")。AHCI為硬體製造商詳細定義了記憶體架構規範，規範如何在系統記憶體與SATA儲存裝置間傳輸資料，目前（2014年3月）最新AHCI規範為1.3.1版。
 
-許多SATA裝置控制器可個別啟用AHCI功能或與[RAID功能合併使用](../Page/RAID.md "wikilink")，英特爾就建議如果在其支援AHCI晶片組上使用RAID功能，採取AHCI模式組建RAID可以獲得最大彈性，因為AHCI可在完成安裝的作業系統中切換RAID組建模式。
-
-在一般硬碟上，大多數製造商均在3.5英吋及2.5英吋提供相關支援技術。
+現時絕大多數SATA硬碟都支援AHCI。
 
 ## 运行模式
 
-多数的SATA控制器提供了如下的运行模式：兼容老式[PATA接口模拟](https://zh.wikipedia.org/wiki/PATA "wikilink")，标准**AHCI**模式，以及厂商自定义[RAID模式](../Page/RAID.md "wikilink")（多数支持AHCI以发挥其性能）。[Intel建议在其主板上采用RAID模式来取代AHCI](https://zh.wikipedia.org/wiki/Intel "wikilink")/SATA模式以便获得最大的兼容性。\[1\]兼容模式是一种利用软件途径向后兼容，以此允许SATA控制器在无法识别SATA或驱动不支持的老式操作系统上运行。
+多数的SATA控制器可提供如下的运行模式：兼容老式[PATA接口模拟](https://zh.wikipedia.org/wiki/PATA "wikilink")，标准**AHCI**模式，以及厂商的[RAID模式](../Page/RAID.md "wikilink")。[Intel建议在其主板上采用RAID模式来取代AHCI](https://zh.wikipedia.org/wiki/Intel "wikilink")/PATA模式以便获得最大的兼容性。\[1\]PATA兼容模式是一种利用软件途径向后兼容，以此允许SATA控制器在不支持AHCI的操作系统（如Windows
+XP）上运行。自Intel 9系列晶片組後，英特爾桌上型晶片組已不支援PATA類比模式。
 
 ## 历史版本
 
@@ -24,8 +23,6 @@ Queuing)功能和热插拔技术
 幀結構數據交換技術(FIS Based-Switching)
 
 ### AHCI 1.3
-
-在[固態硬碟方面目前僅](https://zh.wikipedia.org/wiki/固態硬碟 "wikilink")[英特爾控制晶片支援AHCI功能](https://zh.wikipedia.org/wiki/英特爾 "wikilink")（並無單一販售）。
 
 ## 支持的操作系统
 

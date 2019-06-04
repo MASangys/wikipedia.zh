@@ -101,10 +101,6 @@ HFE遺傳性血色病的普遍成因是C282Y的突變，即282點的[胱氨酸�
 
 ## 参考文献
 
-[fr:Hémochromatose
-génétique](https://zh.wikipedia.org/wiki/fr:Hémochromatose_génétique "wikilink")
-[he:המוכרומטוסיס](https://zh.wikipedia.org/wiki/he:המוכרומטוסיס "wikilink")
-
 [Category:铁代谢](https://zh.wikipedia.org/wiki/Category:铁代谢 "wikilink")
 [Category:遗传病](https://zh.wikipedia.org/wiki/Category:遗传病 "wikilink")
 [Category:胃肠病学](https://zh.wikipedia.org/wiki/Category:胃肠病学 "wikilink")

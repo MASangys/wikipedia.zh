@@ -63,7 +63,7 @@ eMule CN Mod的部分主要功能有：
   - [chnp2p.org（传输中国）blog上的CN
     Mod页面](https://web.archive.org/web/20090612110120/http://www.chnp2p.org/topics/cn)
   - [emulefans.com（电骡爱好者）blog上的CN
-    Mod页面](http://emulefans.com/news/emule/cn-mod/)
+    Mod页面](https://web.archive.org/web/20100705124746/http://emulefans.com/news/emule/cn-mod/)
 
 [Category:eMule](https://zh.wikipedia.org/wiki/Category:eMule "wikilink")
 

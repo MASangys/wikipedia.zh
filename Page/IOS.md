@@ -9,7 +9,7 @@ iOS最初隨iPhone亮相於2007年推出，並擴展至支援其他蘋果公司�
 touch（2007年9月）及iPad（2010年1月）。截至2017年1月，蘋果公司的[App
 Store已提供超過](../Page/App_Store_\(iOS\).md "wikilink")220萬個iOS應用程式，當中有100萬個是適用於iPad的原生應用程式。這些移動應用程序的下載總量已超過1,300億次。
 
-iOS的[用戶介面是使用](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")[多點觸控來](../Page/多點觸控.md "wikilink")。界面操控元素包括滑動條、開關及按紐。跟操作界面的控制包括滑動、點擊、扭捏及反向扭捏。這些所有都在iOS操作系统及其多點觸控界面中有具體的定義。內置的速度傳感器能夠被某些應用程序使用，當裝置搖動時以的作出回應（一個常見的結果是），或以[三維方式旋轉](https://zh.wikipedia.org/wiki/三維模型 "wikilink")（常見於切換縱向及橫向之間的屏幕模式）。蘋果公司把輔助功能整合到iOS中，讓視力或聽力障礙的用戶能夠在[無障礙環境下正確使用其產品而獲得極大的讚賞](../Page/無障礙環境.md "wikilink")。
+iOS的[用戶介面是使用](https://zh.wikipedia.org/wiki/使用者介面 "wikilink")[多點觸控來](../Page/多點觸控.md "wikilink")。界面操控元素包括滑動條、開關及按鈕。跟操作界面的控制包括滑動、點擊、扭捏及反向扭捏。這些所有都在iOS操作系统及其多點觸控界面中有具體的定義。內置的速度傳感器能夠被某些應用程序使用，當裝置搖動時以的作出回應（一個常見的結果是），或以[三維方式旋轉](https://zh.wikipedia.org/wiki/三維模型 "wikilink")（常見於切換縱向及橫向之間的屏幕模式）。蘋果公司把輔助功能整合到iOS中，讓視力或聽力障礙的用戶能夠在[無障礙環境下正確使用其產品而獲得極大的讚賞](../Page/無障礙環境.md "wikilink")。
 
 iOS的主要版本通常每年發布一次。目前的版本是2018年9月17日發布的[iOS
 12](https://zh.wikipedia.org/wiki/iOS_12 "wikilink")\[2\]。它適用於所有備有64位處理器的[iPhone
@@ -190,7 +190,8 @@ Pro中，由于Home键被取消，进入应用切换器的方法则变成在主�
 
 在iOS 4至iOS
 6中，用戶可在主畫面按住應用程式的圖標使它們「搖晃」，然後點擊出現在圖標角落處的紅色減號圓圈就能把應用程式刪除\[98\]。在iOS
-7中，用戶只需把應用程式向上滑動至離開屏幕即可關閉。iOS 7以上的版本可以一次清除3個應用程式\[99\]。
+7中，用戶只需把應用程式向上滑動至離開屏幕即可關閉。iOS 7以上的版本可以一次清除3個應用程式\[99\]，而iPad在使用iOS
+11以上的版本时可以一次消除4-6个应用程式。
 
 #### 任務完成
 
@@ -234,7 +235,11 @@ iOS使用者界面能使用按键、[多点触控对设备进行控制](https://
     2及之后版本中同时为](https://zh.wikipedia.org/wiki/iPad_Air_2 "wikilink")[Touch
     ID传感器](https://zh.wikipedia.org/wiki/Touch_ID "wikilink")，[iPhone
     7改为按压式按键](https://zh.wikipedia.org/wiki/iPhone_7 "wikilink")，[iPhone
-    X已经取消Home键](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")，改为全手势操作），顶部的Power按键（用于点亮、关闭屏幕、关机、[iPhone
+    X](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")、[iPhone
+    XS](https://zh.wikipedia.org/wiki/iPhone_XS "wikilink")、iPhone XS
+    Max、[iPhone
+    XR和第三代](https://zh.wikipedia.org/wiki/iPhone_XR "wikilink")[iPad
+    Pro已经取消Home键](https://zh.wikipedia.org/wiki/iPad_Pro "wikilink")，改为全手势操作），顶部的Power按键（用于点亮、关闭屏幕、关机、[iPhone
     6](https://zh.wikipedia.org/wiki/iPhone_6 "wikilink")、[iPhone 6
     Plus之后移至机身侧面](https://zh.wikipedia.org/wiki/iPhone_6_Plus "wikilink")）及侧面的音量控制按键（包含一个静音开关和两个音量大小调节键，在[IPad
     Air 2與其之後的产品中僅有音量調節鍵](../Page/IPad_Air_2.md "wikilink")）。
@@ -566,6 +571,7 @@ ID的擁有人將會收到通知，容許擁有人拒絕無法識別裝置的登
 [Category:2007年面世的产品](https://zh.wikipedia.org/wiki/Category:2007年面世的产品 "wikilink")
 [Category:苹果操作系统](https://zh.wikipedia.org/wiki/Category:苹果操作系统 "wikilink")
 [Category:蘋果公司軟體](https://zh.wikipedia.org/wiki/Category:蘋果公司軟體 "wikilink")
+[Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink")
 
 1.  [Mobile Operating System Market Share
     Worldwide](http://gs.statcounter.com/os-market-share/mobile/worldwide)

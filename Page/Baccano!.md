@@ -1,5 +1,5 @@
 《**Baccano\!
-大騷動\!**》（亦譯《**永生之酒**》、《**因酒而狂**》）是[日本](../Page/日本.md "wikilink")[輕小說作家](../Page/輕小說.md "wikilink")[成田良悟所著的輕小說系列作品](../Page/成田良悟.md "wikilink")，既刊22冊。台灣中文版由[台灣角川代理](../Page/台灣角川.md "wikilink")。除了改編為漫畫外，並於2007年7月改編為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
+大騷動\!**》（亦譯《**永生之酒**》、《**因酒而狂**》）是[日本](../Page/日本.md "wikilink")[輕小說作家](../Page/輕小說.md "wikilink")[成田良悟所著的輕小說系列作品](../Page/成田良悟.md "wikilink")，並參加第九回電擊小說大獎，獲得金獎。2007年7月改編為[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 ## 概要
 

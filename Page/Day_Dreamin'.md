@@ -7,8 +7,8 @@ Dreamin**》（意思：白日夢）是[香港](../Page/香港.md "wikilink")[�
 
   - [Day Dreamer](http://www.youtube.com/watch?v=-yewQ2hr2Yo)
   - [We Are All Alone](http://www.youtube.com/watch?v=LQqYWmhRmRU)
-  - [Ever Now](http://www.youtube.com/watch?v=7sZdL2Ga_ms)
-  - [Before Me Heart Finds
+  - [Even Now](http://www.youtube.com/watch?v=7sZdL2Ga_ms)
+  - [Before My Heart Finds
     Out](http://www.youtube.com/watch?v=O-FEu5FwMpI)
   - [Good Morning Sorrow](http://www.youtube.com/watch?v=aKMBNJdN0IU)
   - [Under Cover Angel](http://www.youtube.com/watch?v=InlF0gzYBM8)

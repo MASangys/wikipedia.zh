@@ -40,7 +40,7 @@ Sumatra支持[SyncTeX](https://zh.wikipedia.org/wiki/SyncTeX "wikilink")，一�
 SumatraPDF以[C++编程语言编写](../Page/C++.md "wikilink")（一些部件以[C语言编写](https://zh.wikipedia.org/wiki/C语言 "wikilink")）而且源代码提供对[Microsoft
 Visual Studio的支持](../Page/Microsoft_Visual_Studio.md "wikilink")。\[19\]
 
-最初在为当时的Windows版本[Windows
+在为[Windows
 XP设计的时候](../Page/Windows_XP.md "wikilink")，Sumatra有一些对Windows早期版本的兼容性问题。对[Windows
 95](../Page/Windows_95.md "wikilink")、[98及](../Page/Windows_98.md "wikilink")[Me的支持在其完全消失的时候实现](../Page/Windows_Me.md "wikilink")。\[20\]
 

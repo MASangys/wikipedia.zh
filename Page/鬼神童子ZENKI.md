@@ -1,22 +1,22 @@
 是[-{谷}-菊秀原作](https://zh.wikipedia.org/wiki/谷菊秀 "wikilink")、[黑岩善宏負責繪製的](../Page/黑岩善宏.md "wikilink")[日本漫畫](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")，起初於[集英社](../Page/集英社.md "wikilink")《[月刊少年Jump](../Page/月刊少年Jump.md "wikilink")》1992年8月號以短篇的方式發表，之後從同雜誌的12月號開始連載，至1996年9月增刊號完結，[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")12冊。2005年由[竹書房發行全](../Page/竹書房.md "wikilink")7冊的新書版。中文代理方面，集英社版的單行本曾經由[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[長鴻出版社發行](../Page/長鴻出版社.md "wikilink")、[香港由](../Page/香港.md "wikilink")[天下出版發行](../Page/天下出版.md "wikilink")。竹書房版的單行本目前無中文版。
 
-媒介方面，1995年由[東京電視網播出同名](../Page/東京電視網.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/#電視動畫 "wikilink")，1997年發行[OVA的外傳動畫](https://zh.wikipedia.org/wiki/#OVA "wikilink")。
+媒介方面，1995年由[東京電視網播出同名](../Page/東京電視網.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/#電視動畫 "wikilink")，1997年發行[OVA的外傳動畫](https://zh.wikipedia.org/wiki/OVA "wikilink")。
 
-## 劇情概要
+## 劇情簡介
 
-  - 原作
+  -
     [役小角是日本最偉大的降魔師](../Page/役小角.md "wikilink")，他役使「前鬼」（又名「朱鬼神」）對抗世上的邪惡。小角逝世之前，把前鬼封印在一個石碑中，並留下一個護法輪。此石碑被封印在的「役咒法堂」正殿。當災難出現、護法輪發出光芒時，就對著天空畫[五芒星](https://zh.wikipedia.org/wiki/五芒星 "wikilink")，唸小角秘傳的咒語，使前鬼甦醒。
     在千年以後的鬼神鎮，貓丸與犬丸為了尋找傳說中「役小角的祕寶」而來到鬼神鎮，想以此「祕寶」成為[億萬富翁](https://zh.wikipedia.org/wiki/億萬富翁 "wikilink")。他們趁夜侵入役咒法堂正殿，破壞了結界，撕除了「祕寶」盒上的符咒，打開盒蓋一看，裡面是一顆。寄生果看起來像是一顆眼球，會附身在被強烈慾望薰心的身上，然後依不同的欲望變成不同的。小角的後代役小明，擁有能力讓前鬼解除封印，以前鬼的力量消滅寄生獸、解救被寄生果附身的人。
 
 <!-- end list -->
 
-  - 電視動畫版
+  - 電視動畫
     役小角是千年前的降魔師，擁有極高強的咒力，他役使前鬼打敗暗黑神。小角打敗羯磨之後，把前鬼封印起來，直到世間再度瀰漫邪氣。
     在千年以後的鬼神鎮，被強烈欲望薰心的一個男人解開了原本被封印的果實「寄生果」上的封印。小角的後代役小明，擁有能力讓前鬼解除封印，以前鬼的力量消滅寄生獸、解救被寄生果附身的人。
 
 <!-- end list -->
 
-  - 外傳OVA：
+  - 外傳OVA
     故事發生在櫻花盛開的季節，某個深山村落陸續傳出了4位少女遇害的消息。接獲委託的小明與前鬼來到了這個村落進行調查，此時她們發現了一個秘密：遇害的少女們幾乎都是17歲的少女。而事件的背後隱藏了一個更驚人的事實：原來這些少女們都是為了使村裡傳說中的**鬼**復活的活祭品。
 
 ## 登場人物
@@ -207,11 +207,9 @@
   -
     僅於電視動畫版初期擔任旁白。
 
-## 漫畫情報
+## 出版書籍
 
-單行本在1993年至1996年在日本初版發售。[日本](../Page/日本.md "wikilink")[集英社](../Page/集英社.md "wikilink")〈JUMP
-COMICS〉、台灣[長鴻出版社發行](../Page/長鴻出版社.md "wikilink")，全12冊。2005年，由[竹書房](../Page/竹書房.md "wikilink")〈Bamboo
-Comics〉發行新書版，全7冊。
+  - 集英社
 
 <table>
 <thead>
@@ -223,72 +221,74 @@ Comics〉發行新書版，全7冊。
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>發售日期</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
-<td></td>
+<td><p>發售日期</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>ISBN 978-4088716381</p></td>
-<td><p>ISBN 978-9576759932</p></td>
+<td><p>1993年6月</p></td>
+<td><p>ISBN 978-4-08-871638-1</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>ISBN 978-4088716398</p></td>
-<td><p>ISBN 978-9576759949</p></td>
+<td><p>1993年10月</p></td>
+<td><p>ISBN 978-4-08-871639-8</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p>ISBN 978-4088716404</p></td>
-<td><p>ISBN 978-9576759956</p></td>
+<td><p>1994年2月</p></td>
+<td><p>ISBN 978-4-08-871640-4</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p>ISBN 978-4088716565</p></td>
-<td><p>ISBN 978-9577960580</p></td>
+<td><p>1994年6月</p></td>
+<td><p>ISBN 978-4-08-871656-5</p></td>
 </tr>
 <tr class="even">
-<td><p>5[4]</p></td>
-<td><p>ISBN 978-4088716572</p></td>
-<td><p>ISBN 978-9577961860</p></td>
+<td><p>5</p></td>
+<td><p>1994年10月</p></td>
+<td><p>ISBN 978-4-08-871657-2[4]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p>ISBN 978-4088716589</p></td>
-<td><p>ISBN 978-9577963475</p></td>
+<td><p>1995年1月</p></td>
+<td><p>ISBN 978-4-08-871658-9</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p>ISBN 978-4088716596</p></td>
-<td><p>ISBN 978-9577964731</p></td>
+<td><p>1995年6月</p></td>
+<td><p>ISBN 978-4-08-871659-6</p></td>
 </tr>
 <tr class="odd">
 <td><p>8</p></td>
-<td><p>ISBN 978-4088718989</p></td>
-<td><p>ISBN 978-9577965752</p></td>
+<td><p>1995年9月</p></td>
+<td><p>ISBN 978-4-08-871898-9</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
-<td><p>ISBN 978-4088718996</p></td>
-<td><p>ISBN 978-9577967053</p></td>
+<td><p>1995年12月</p></td>
+<td><p>ISBN 978-4-08-871899-6</p></td>
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
-<td><p>ISBN 978-4088720654</p></td>
-<td><p>ISBN 978-9577968043</p></td>
+<td><p>1996年4月</p></td>
+<td><p>ISBN 978-4-08-872065-4</p></td>
 </tr>
 <tr class="even">
 <td><p>11</p></td>
-<td><p>ISBN 978-4088720661</p></td>
-<td><p>ISBN 978-9577968043</p></td>
+<td><p>1996年9月</p></td>
+<td><p>ISBN 978-4-08-872066-1</p></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td><p>ISBN 978-4088720678</p></td>
-<td><p>ISBN 978-9575370916</p></td>
+<td><p>1996年12月</p></td>
+<td><p>ISBN 978-4-08-872067-8</p></td>
 </tr>
 </tbody>
 </table>
+
+  - 竹書房
 
 <table>
 <thead>
@@ -299,36 +299,36 @@ Comics〉發行新書版，全7冊。
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>發售日期</p></td>
 <td><p>ISBN</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>ISBN 978-4812462225</p></td>
+<td><p>2005年7月27日</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>ISBN 978-4812462232</p></td>
+<td><p>ISBN 978-4-81-246223-2</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p>ISBN 978-4812462348</p></td>
+<td><p>2005年8月27日</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
-<td><p>ISBN 978-4812462355</p></td>
+<td><p>ISBN 978-4-81-246235-5</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
-<td><p>ISBN 978-4812462454</p></td>
+<td><p>2005年9月27日</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
-<td><p>ISBN 978-4812462461</p></td>
+<td><p>ISBN 978-4-81-246246-1</p></td>
 </tr>
 <tr class="even">
-<td><p>7[5]</p></td>
-<td><p>ISBN 978-4812462805　</p></td>
+<td><p>7</p></td>
+<td><p>2005年10月27日</p></td>
 </tr>
 </tbody>
 </table>
@@ -338,9 +338,9 @@ Comics〉發行新書版，全7冊。
 日本國內，1995年1月9日起至同年12月25日為止，毎週一的晚間18時00分至18時30分（[日本標準時間](../Page/日本標準時間.md "wikilink")）在[東京電視網](../Page/東京電視網.md "wikilink")（TXN）首播。全51話。此外該動畫也是日本至今唯一一部仍在播出的少年漫畫改編動畫。並在首播期間曾經錄製成[VHS和](../Page/VHS.md "wikilink")[LD](https://zh.wikipedia.org/wiki/LD "wikilink")，均由[Pony
 Canyon發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
-台灣方面，台灣首播權則由[中國電視公司取得](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")（以下簡稱「中視版」），並以雙語播出，主聲道為國語配音，副聲道為日語配音。除了[八大電視重播時另外製作國語配音](../Page/八大電視.md "wikilink")（以下簡稱「八大版」）以外，台灣其他電視頻道播的國語配音版本都是中視版\[6\]。
+台灣方面，台灣首播權則由[中國電視公司取得](https://zh.wikipedia.org/wiki/中國電視公司 "wikilink")（以下簡稱「中視版」），並以雙語播出，主聲道為國語配音，副聲道為日語配音。除了[八大電視重播時另外製作國語配音](../Page/八大電視.md "wikilink")（以下簡稱「八大版」）以外，台灣其他電視頻道播的國語配音版本都是中視版\[5\]。
 
-動畫版的基本設定大都忠實於漫畫原作，與漫畫版不一樣的是各回登場的角色、憑依獸有些微的不同。而主要角色後鬼的設定也和漫畫版大不同。由於漫畫版有很多[殺必死](../Page/殺必死.md "wikilink")（[露內褲](../Page/裙底風光.md "wikilink")、露出[乳頭](../Page/乳頭.md "wikilink")）、[性描寫及血腥殘虐的成人畫面](../Page/性感.md "wikilink")，因此動畫播出時則是將這些成人畫面予以控制注\[7\]。還有，動畫版第3話的內容改編自短篇版、第31話的內容改編自漫畫連載期間發表的外傳。
+動畫版的基本設定大都忠實於漫畫原作，與漫畫版不一樣的是各回登場的角色、憑依獸有些微的不同。而主要角色後鬼的設定也和漫畫版大不同。由於漫畫版有很多[殺必死](../Page/殺必死.md "wikilink")（[露內褲](../Page/裙底風光.md "wikilink")、露出[乳頭](../Page/乳頭.md "wikilink")）、[性描寫及血腥殘虐的成人畫面](../Page/性感.md "wikilink")，因此動畫播出時則是將這些成人畫面予以控制注\[6\]。還有，動畫版第3話的內容改編自短篇版、第31話的內容改編自漫畫連載期間發表的外傳。
 
 2007年4月17日，由[Kids
 Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "wikilink")。同時TPO錄製成總共2卷的DVD-BOX組在網路以限定版的方式持續進行販售至今，並附贈主角役小明的[黏土公仔](../Page/黏土人.md "wikilink")。
@@ -1001,7 +1001,7 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 ### 播放電視台
 
 <table>
-<caption>日本國內 <a href="../Page/東京電視網.md" title="wikilink">東京電視網</a> 等台／播放時間、電視台[8]</caption>
+<caption>日本國內 <a href="../Page/東京電視網.md" title="wikilink">東京電視網</a> 等台／播放時間、電視台[7]</caption>
 <thead>
 <tr class="header">
 <th><p>播放地區</p></th>
@@ -1288,16 +1288,9 @@ Station以每週一集方式進行實質的再放送](../Page/Kids_Station.md "w
 [Category:Game_Gear遊戲](https://zh.wikipedia.org/wiki/Category:Game_Gear遊戲 "wikilink")
 
 1.  例如：原作〈大法師·鴉紋之章1：鬼神解縛秘咒〉、原作〈寄生獸果實之章1：木乃伊旅館〉。
-
 2.  例如：原作〈依賴之章：夏天、海水、吞食美麗容貌的男人！〉。
-
 3.  原作〈咒殺之章1：寄生獸果實〉。
-
-4.  同時還有收錄短篇版的「鬼神童子ZENKI」。
-
-5.
-6.  此外台灣首播日期約在1995年至1996年間，某一回[陳美鳳與](../Page/陳美鳳_\(台灣\).md "wikilink")[周麟](https://zh.wikipedia.org/wiki/周麟_\(藝人\) "wikilink")2人一起主持中視週六午間[綜藝節目](../Page/綜藝節目.md "wikilink")《[歡樂傳真](../Page/歡樂傳真.md "wikilink")》時，在節目尾聲由擔任來賓的[鄭進一介紹了接下來將要播放的](../Page/鄭進一.md "wikilink")《鬼神童子ZENKI》。1997年8月，[中華電視公司週六晚間綜藝節目](../Page/中華電視公司.md "wikilink")《[紅白勝利](../Page/紅白勝利.md "wikilink")》跳槽中視以前，中視曾在週六晚間連續播出《鬼神童子ZENKI》與《[YAWARA！](https://zh.wikipedia.org/wiki/柔道英雌 "wikilink")》各一集。
-
-7.  不過只有第1集一直到故事終盤性描寫的表現大多集中在主角役小明身上。
-
-8.  來自《[Animage](../Page/Animage.md "wikilink")》1995年9月號（[德間書店](../Page/德間書店.md "wikilink")）全國各家播放電視台一覽（第204－205頁）。
+4.  收錄短篇版的「鬼神童子ZENKI」。
+5.  此外台灣首播日期約在1995年至1996年間，某一回[陳美鳳與](../Page/陳美鳳_\(台灣\).md "wikilink")[周麟](https://zh.wikipedia.org/wiki/周麟_\(藝人\) "wikilink")2人一起主持中視週六午間[綜藝節目](../Page/綜藝節目.md "wikilink")《[歡樂傳真](../Page/歡樂傳真.md "wikilink")》時，在節目尾聲由擔任來賓的[鄭進一介紹了接下來將要播放的](../Page/鄭進一.md "wikilink")《鬼神童子ZENKI》。1997年8月，[中華電視公司週六晚間綜藝節目](../Page/中華電視公司.md "wikilink")《[紅白勝利](../Page/紅白勝利.md "wikilink")》跳槽中視以前，中視曾在週六晚間連續播出《鬼神童子ZENKI》與《[YAWARA！](https://zh.wikipedia.org/wiki/柔道英雌 "wikilink")》各一集。
+6.  不過只有第1集一直到故事終盤性描寫的表現大多集中在主角役小明身上。
+7.  來自《[Animage](../Page/Animage.md "wikilink")》1995年9月號（[德間書店](../Page/德間書店.md "wikilink")）全國各家播放電視台一覽（第204－205頁）。

@@ -12,7 +12,7 @@ F. Wilson主演](https://zh.wikipedia.org/wiki/Thomas_F._Wilson "wikilink")。
 McFly Jr.）在[未来即将因为与毕夫的孙子格里夫](../Page/未来.md "wikilink")·谭能（Griff
 Tannen）惹事生非而遭受牢狱之灾，为了避免这一切，[博士决定让马蒂化装成小马蒂的样子去阻止这一切的发生](../Page/博士.md "wikilink")，经过和格里夫的一番争斗，总算是避免了让小马蒂坐牢的[命运](https://zh.wikipedia.org/wiki/命运 "wikilink")，却引起了老毕夫的注意。在书店，马蒂买下了一本记载所有[体育](../Page/体育.md "wikilink")[比赛结果的](https://zh.wikipedia.org/wiki/比赛 "wikilink")[体育](../Page/体育.md "wikilink")[年鉴](https://zh.wikipedia.org/wiki/年鉴 "wikilink")，意图回到过去时以此为参考去下賭注，被[博士发现后训斥了一番](../Page/博士.md "wikilink")，并将[年鉴扔进了垃圾桶](https://zh.wikipedia.org/wiki/年鉴 "wikilink")。
 
-但这时，昏睡的珍妮佛却被[警察发现而送到了三十年后马蒂的家](../Page/警察.md "wikilink")。为了避免珍妮佛和中年的自己碰面而引起麻烦，马蒂和[博士又马不停蹄地赶往马蒂在](../Page/博士.md "wikilink")[未来的家去接回珍妮佛](../Page/未来.md "wikilink")。而醒来的珍妮佛惊讶地看到了三十年后马蒂一家的情况：马蒂由于年前的一场[车祸](https://zh.wikipedia.org/wiki/车祸 "wikilink")[受伤而无法再弹](https://zh.wikipedia.org/wiki/受伤 "wikilink")[結他](https://zh.wikipedia.org/wiki/結他 "wikilink")，也放弃了成为[歌星的梦想](https://zh.wikipedia.org/wiki/歌星 "wikilink")，成为普通的上班族——此时，（美國俚而幹出违规行为的马蒂惨遭解雇，“You
+但这时，昏睡的珍妮佛却被[警察发现而送到了三十年后马蒂的家](../Page/警察.md "wikilink")。为了避免珍妮佛和中年的自己碰面而引起麻烦，马蒂和[博士又马不停蹄地赶往马蒂在](../Page/博士.md "wikilink")[未来的家去接回珍妮佛](../Page/未来.md "wikilink")。而醒来的珍妮佛惊讶地看到了三十年后马蒂一家的情况：马蒂由于年前的一场[车祸](https://zh.wikipedia.org/wiki/车祸 "wikilink")[受伤而无法再弹](https://zh.wikipedia.org/wiki/受伤 "wikilink")[結他](https://zh.wikipedia.org/wiki/結他 "wikilink")，也放弃了成为[歌星的梦想](https://zh.wikipedia.org/wiki/歌星 "wikilink")，成为普通的上班族——此时，美國俚而幹出违规行为的马蒂惨遭解雇，“You
 are
 fired\!”（你被解雇了！）的[传真出现在了马蒂家的每个角落](https://zh.wikipedia.org/wiki/传真 "wikilink")。就在珍妮佛刚刚遇见中年的自己而晕倒时，[博士和马蒂及时赶到并把珍妮佛带走](../Page/博士.md "wikilink")，返回1985年。
 

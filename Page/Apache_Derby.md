@@ -72,6 +72,10 @@ dblook工具是一个Data Definition Language
 
 ` ij或java org.apache.derby.tools.ij 或 java -jar derby/lib/derbyrun.jar ij -p ij.properties`
 
+ij命令行参数：
+
+` ij -Dij.connection.mynetconnection=jdbc:derby://myserver:1527/mydb -Dij.user=me -Dij.password=nocansay`
+
 也可以创建一个名为ij.properties，用于默认连接数据库：
 
 ` ij.driver=org.apache.derby.jdbc.ClientDriver`
@@ -87,13 +91,17 @@ dblook工具是一个Data Definition Language
 连接数据库并在必要时创建数据库：
 
 `   connect 'jdbc:derby:mydb;create=true;user=test;password=test';   //创建/连接嵌入式数据库,`
-`                                                                    //如果只写数据库名则会在class目录下进行创建，`
-`                 //也可以指定其他位置进行创建"jdbc:derby:d:/a/b/userDB;create=true;user=test;password=test"`
-`   connect 'jdbc:derby://localhost:1527/dbname;create=true';    //创建/链接网络数据库`
+`                                                                    //如果只写数据库名则会在当前目录下创建数据库目录`
+`            //也可以指定其他位置进行创建"jdbc:derby:d:/a/b/userDB;create=true;user=test;password=test"`
+`   connect 'jdbc:derby://host:1527/dbname;create=true';    //创建/链接网络数据库`
+
+查看ij的命令：
+
+`   help;`
 
 运行sql文件：
 
-`   run 'D:/derby/demo/ToursDB_schema.sql'；`
+`   run 'D:/derby/demo/ToursDB_schema.sql'  [RunResultOutput.txt]；`
 
 断开数据库连接（并停止内嵌模式数据库）
 
@@ -214,7 +222,6 @@ APP schema总是存在，不需要创建。
 [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
 
 1.
-2.  [[Apache Derby数据库](../Page/Apache_Derby.md "wikilink")（即[Java
-    DB](https://zh.wikipedia.org/wiki/Java_DB "wikilink")） Frequently
-    Asked Questions 5.3. Why do I get the error 'schema does not
+2.  [Apache Derby数据库（即Java DB） Frequently Asked Questions 5.3. Why do I
+    get the error 'schema does not
     exist'?](http://db.apache.org/derby/faq.html)

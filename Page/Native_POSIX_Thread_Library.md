@@ -1,5 +1,5 @@
-****（****）是一个能够使使用[POSIX
-Threads编写的程序在](https://zh.wikipedia.org/wiki/POSIX_Threads "wikilink")[Linux内核上更有效地运行的软件](../Page/Linux内核.md "wikilink")。
+****（****）是[Linux内核中實踐](../Page/Linux内核.md "wikilink")[POSIX
+Threads標準的函式庫](https://zh.wikipedia.org/wiki/POSIX_Threads "wikilink")。
 
 测试表明，NPTL能够成功地在[IA-32平台上在两秒鐘内生成](https://zh.wikipedia.org/wiki/IA-32 "wikilink")100,000个[线程](../Page/多线程.md "wikilink")；相应的没有的内核将耗费15分钟左右。\[1\]\[2\]
 

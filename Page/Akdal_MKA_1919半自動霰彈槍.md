@@ -8,8 +8,7 @@ Akdal MKA
 
 ## 使用國
 
-  - ：被[土耳其陸軍所採用](https://zh.wikipedia.org/wiki/土耳其军事 "wikilink")。
-
+  -   -
 ## 參考文獻
 
   - —《輕兵器》雜誌—

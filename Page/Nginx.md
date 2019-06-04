@@ -1,8 +1,6 @@
-**Nginx**（发音同engine x）是异步框架的
-[Web服务器](../Page/網頁伺服器.md "wikilink")，也可以用作[反向代理](../Page/反向代理.md "wikilink")，[负载平衡器](../Page/负载均衡.md "wikilink")
-和 [HTTP缓存](https://zh.wikipedia.org/wiki/HTTP缓存 "wikilink")。该软件由 [Igor
-Sysoev](../Page/伊戈爾·賽索耶夫.md "wikilink") 创建，并于2004年首次公开发布。\[1\]
-同名公司成立于2011年，以提供支持。\[2\]2019年3月11日，Nginx公司被以6.7億美元收购\[3\]。
+**Nginx**（发音同engine
+x）是异步框架的[網頁伺服器](../Page/網頁伺服器.md "wikilink")，也可以用作[反向代理](../Page/反向代理.md "wikilink")、[负载平衡器和](../Page/负载均衡.md "wikilink")[HTTP缓存](https://zh.wikipedia.org/wiki/HTTP缓存 "wikilink")。该软件由[伊戈爾·賽索耶夫创建并于](../Page/伊戈爾·賽索耶夫.md "wikilink")2004年首次公开发布。\[1\]
+2011年成立同名公司以提供支持。\[2\]2019年3月11日，Nginx公司被以6.7億美元收购\[3\]。
 
 Nginx是免费的[开源软件](../Page/开源软件.md "wikilink")，根据类[BSD许可证的条款发布](../Page/BSD许可证.md "wikilink")。一大部分Web服务器使用Nginx，\[4\]
 通常作为[负载均衡器](../Page/负载均衡.md "wikilink")。\[5\]
@@ -48,19 +46,17 @@ Web 服务器的性能。\[15\] Nginx 提供开箱即用的静态文件，使用
 
 ## 数据统计
 
-截至2017年三月，中国注册域名总数的9.65%使用 Nginx。\[19\]
+截至2017年3月，中国注册域名总数的9.65%使用 Nginx。\[19\]
 
 截至2018年1月，Nginx 服务或者代理了全球 30.46% 的网站。\[20\]
 
 ## PHP整合
 
-自PHP-5.3.3起，PHP-FPM加入到了PHP核心，编译时加上--enable-fpm即可提供支持。
-PHP-FPM以守护进程在后台运行，Nginx响应请求后，自行处理静态请求，PHP请求则经过fastcgi_pass交由PHP-FPM处理，处理完毕后返回。
-Nginx和PHP-FPM的组合，是一种稳定、高效的PHP运行方式，效率要比传统的Apache和mod_php高出不少。
+自PHP-5.3.3起，PHP-FPM加入到了PHP核心，编译时加上--enable-fpm即可提供支持。PHP-FPM以守护进程在后台运行，Nginx响应请求后，自行处理静态请求，PHP请求则经过fastcgi_pass交由PHP-FPM处理，处理完毕后返回。Nginx和PHP-FPM的组合，是一种稳定、高效的PHP运行方式，效率要比传统的Apache和mod_php高出不少。
 
 PHP-FPM不支持Windows平台，由于没有fastcgi进程管理器管理php-cgi.exe，因此一旦php-cgi.exe崩溃退出，前端将失去响应，这时Nginx会返回“The
 page you are looking for is temporarily unavailable. Please try again
-later.”的错误信息。 因此在Windows上用Nginx和php-cgi.exe组合来运行PHP的方式并不可靠，稳定性有待提高。
+later.”的错误信息。因此在Windows上用Nginx和php-cgi.exe组合来运行PHP的方式并不可靠，稳定性有待提高。
 
 ## 參考文獻
 
@@ -93,9 +89,9 @@ later.”的错误信息。 因此在Windows上用Nginx和php-cgi.exe组合来�
 2.
 3.  [F5收购NGINX](https://www.oschina.net/news/105082/f5-acquires-nginx)
 
-4.  <https://news.netcraft.com/archives/2017/01/12/january-2017-web-server-survey.html>
+4.
 
-5.  <https://www.linode.com/docs/uptime/loadbalancing/use-nginx-as-a-front-end-proxy-and-software-load-balancer>
+5.
 
 6.
 7.
@@ -120,42 +116,57 @@ later.”的错误信息。 因此在Windows上用Nginx和php-cgi.exe组合来�
 
 21. {{ cite web | title = The NGINX Open Source Project on Ohloh | url =
     <http://www.ohloh.net/p/nginx/analyses/latest> | work = ohloh.net |
-    accessdate = 7 March 2013 }}
+    accessdate = 7 March 2013 | archive-url =
+    <https://web.archive.org/web/20120626182350/http://www.ohloh.net/p/nginx/analyses/latest>
+    | archive-date = 2012-06-26 | dead-url = no }}
 
 22. {{ cite web | url = <http://nginx.org/en/docs/windows.html> | title
-    = nginx for Windows | accessdate = 28 May 2014 }}
+    = nginx for Windows | accessdate = 28 May 2014 | archive-url =
+    <https://web.archive.org/web/20180125155834/http://nginx.org/en/docs/windows.html>
+    | archive-date = 2018-01-25 | dead-url = no }}
 
 23. {{ cite web | url = <http://nginx.org/en/#tested_os_and_platforms> |
-    title = Tested OS and platforms | accessdate = 15 October 2011 }}
+    title = Tested OS and platforms | accessdate = 15 October 2011 |
+    archive-url =
+    <https://web.archive.org/web/20180128225142/http://nginx.org/en/#tested_os_and_platforms>
+    | archive-date = 2018-01-28 | dead-url = no }}
 
 24. {{ cite web | url = <http://nginx.org/LICENSE> | title = Licensing |
-    accessdate = 18 January 2013 }}
+    accessdate = 18 January 2013 | archive-url =
+    <https://www.webcitation.org/65HCw0nzP?url=http://www.nginx.org/LICENSE>
+    | archive-date = 2012-02-07 | dead-url = no }}
 
-25. [Use nginx for Proxy Services and Software Load Balancing, 11
-    May 2010, by Sam Kleinman, Linode
-    Library](http://library.linode.com/web-servers/nginx/configuration/front-end-proxy-and-software-load-balancing)
+25.
 
 26. {{ cite web | url = <http://www.aosabook.org/en/nginx.html> | title
     = The Architecture of Open Source Applications (Volume 2): nginx |
-    work = aosabook.org | accessdate = 10 June 2015 }}
+    work = aosabook.org | accessdate = 10 June 2015 | archive-url =
+    <https://web.archive.org/web/20180131043919/http://www.aosabook.org/en/nginx.html>
+    | archive-date = 2018-01-31 | dead-url = no }}
 
 27. [Basic nginx
     Configuration](http://library.linode.com/web-servers/nginx/configuration/basic)
-    by Sam Kleinman; 21 August 2010
+     by Sam Kleinman; 21 August 2010
 
 28. {{ cite web | url =
     <https://news.netcraft.com/archives/2016/11/22/november-2016-web-server-survey.html>
     | title = November 2016 Web Server Survey | date = 22 November 2016
-    | accessdate = 19 December 2016 }}
+    | accessdate = 19 December 2016 | archive-url =
+    <https://web.archive.org/web/20180216195855/https://news.netcraft.com/archives/2016/11/22/november-2016-web-server-survey.html>
+    | archive-date = 2018-02-16 | dead-url = no }}
 
 29. {{ cite web | url =
     <http://w3techs.com/technologies/cross/web_server/ranking> | title =
     Usage of web servers broken down by ranking | date = 19 December
-    2016 | accessdate = 19 December 2016 }}
+    2016 | accessdate = 19 December 2016 | archive-url =
+    <https://www.webcitation.org/6EDPxVaYe?url=http://w3techs.com/technologies/cross/web_server/ranking>
+    | archive-date = 2013-02-05 | dead-url = no }}
 
 30. {{ cite web | url = <http://trends.builtwith.com/Web-Server/nginx> |
     title = Builtwith: nginx Usage Statistics | date = 19 December 2016
-    | accessdate = 19 December 2016 }}
+    | accessdate = 19 December 2016 | archive-url =
+    <https://web.archive.org/web/20180128021018/https://trends.builtwith.com/Web-Server/nginx>
+    | archive-date = 2018-01-28 | dead-url = no }}
 
 31. {{ cite web | url =
     <https://wikitech.wikimedia.org/view/Https#SSL_termination> | title
@@ -163,20 +174,27 @@ later.”的错误信息。 因此在Windows上用Nginx和php-cgi.exe组合来�
     October 2011 | accessdate = 3 December 2011 }}
 
 32. [OpenBSD Upgrade Guide: 5.1
-    to 5.2](http://www.openbsd.org/faq/upgrade52.html#nginx), 2012/11/06
-    15:00:27 sthen
+    to 5.2](http://www.openbsd.org/faq/upgrade52.html#nginx) ,
+    2012/11/06 15:00:27 sthen
 
 33. {{ cite web | title = Heads Up: Nginx Removed From Base | url =
-    <http://undeadly.org/cgi?action=article&sid=20140827065755> }}
+    <http://undeadly.org/cgi?action=article&sid=20140827065755> |
+    access-date = 2018-01-27 | archive-url =
+    <https://web.archive.org/web/20180127203200/http://undeadly.org/cgi?action=article&sid=20140827065755>
+    | archive-date = 2018-01-27 | dead-url = no }}
 
 34. {{ cite news | title = Interview with Igor Sysoev, author of
     Apache's competitor NGINX | date = 5 January 2012 | work = Free
     Software Magazine | author = Tony Mobily | url =
     <http://www.freesoftwaremagazine.com/articles/interview_igor_sysoev_author_apaches_competitor_nginx>
-    | accessdate = 18 October 2013 }}
+    | accessdate = 18 October 2013 | archive-url =
+    <https://web.archive.org/web/20131019145106/http://www.freesoftwaremagazine.com/articles/interview_igor_sysoev_author_apaches_competitor_nginx>
+    | archive-date = 2013-10-19 | dead-url = yes }}
 
 35. {{ cite web | title = Notice of Exempt Offering of Securities | work
     = Form D | publisher = US Securities and Exchange Commission 17
     October 2013 | url =
     <https://www.sec.gov/Archives/edgar/data/1588848/000158884813000001/xslFormDX01/primary_doc.xml>
-    | accessdate = 15 September 2016 }}
+    | accessdate = 15 September 2016 | archive-url =
+    <https://web.archive.org/web/20171107020804/https://www.sec.gov/Archives/edgar/data/1588848/000158884813000001/xslFormDX01/primary_doc.xml>
+    | archive-date = 2017-11-07 | dead-url = no }}

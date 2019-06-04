@@ -377,7 +377,7 @@ Return
 
 ## 实体书籍
 
-### 国外情况
+### 國際情况
 
 2005 年，[捷克语的](../Page/捷克语.md "wikilink")《Total Commander: kompletní
 uživatelská příručka》（中文意译：《Total Commander：完整用户指南》）出版发行，全书 114
@@ -392,7 +392,7 @@ Commander：让您的文件管理工作更高效》）出版上市，全书 752 
 Total Commander 教程以及 Total Commander 7.04a
 的试用版等，该光盘还在俄罗斯的网站上提供了[免费下载地址](http://flint-inc.ru/files/rus/tcbook_cd_1.0.iso)。\[40\]
 
-### 国内情况
+### 中國情况
 
 2013 年夏秋之交，善用佳软计划出版一本有关 Total Commander 的书籍，主要以结合“[TC
 学堂](http://xbeta.info/studytc/index.htm)原有内容”和“网友协助”的形式联合完成，后续改為電子書發布於百度\[41\]。

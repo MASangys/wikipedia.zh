@@ -1173,7 +1173,7 @@ SQ》編輯的規制較鬆，會有[社會問題](https://zh.wikipedia.org/wiki/
 </tr>
 <tr class="even">
 <td><p>111</p></td>
-<td><p>'''<a href="https://zh.wikipedia.org/wiki/星空色的少女心" title="wikilink">星空色的少女心</a> '''</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/星空色的少女心" title="wikilink">星空色的少女心</a></strong></p></td>
 <td></td>
 <td><p>－</p></td>
 <td><p>2019.01</p></td>
@@ -1192,7 +1192,7 @@ SQ》編輯的規制較鬆，會有[社會問題](https://zh.wikipedia.org/wiki/
 </tr>
 <tr class="even">
 <td><p>113</p></td>
-<td><p><strong></strong></p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/黑暗集會" title="wikilink">黑暗集會</a> '''</p></td>
 <td><p>近藤憲一</p></td>
 <td><p>－</p></td>
 <td><p>2019.04</p></td>

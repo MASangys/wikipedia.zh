@@ -13,18 +13,19 @@
 `# noedit - 用戶亦會被禁止編輯該條目`
 `# moveonly - 禁止移動但允許平常創建`
 `# reupload - 允許再上載現存於黑名單中的圖片`
-`# errmsg - 於此列出自定訊息名稱，以取代標準訊息並展示自訂訊息`
+`# errmsg - 於此列出自定訊息名稱，以取代標準訊息並展示自訂訊息，已建立訊息請參閱`[`Special:前缀索引/MediaWiki:Titleblacklist`](https://zh.wikipedia.org/wiki/Special:前缀索引/MediaWiki:Titleblacklist "wikilink")
 `# 請注意 newaccountonly 在本地不再有效，請加入至`[`Special:滥用过滤器/194`](https://zh.wikipedia.org/wiki/Special:滥用过滤器/194 "wikilink")
 
 `#未整理`
-`.*水.*玲.* `<autoconfirmed>` # 破壞`
-`.*衝上雲霄.* `<autoconfirmed>` # 破壞`
-`.*TXO.* `<autoconfirmed>` # 持續繞過存廢討論刪除決定`
-`.*[颛顓].*[儒如] `<noedit>` #长期加入错误资讯`
+`^[^:]*沙盒.*$ `<autoconfirmed>
+`.*水.*玲.* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 破壞`
+`.*衝上雲霄.* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 破壞`
+`.*TXO.* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # 持續繞過存廢討論刪除決定`
+`.*[颛顓].*[儒如] <noedit|errmsg=Titleblacklist-semiprotected> #长期加入错误资讯`
 `.*法國.*臺灣.* `<autoconfirmed>` #动态IP创建不当页面`
 `.*陳雲林.* `<autoconfirmed>` #动态IP创建不当页面`
 `.*臭屄.* `<autoconfirmed>` #IP长期创建攻击性重定向`
-`.*([台檯飓颱][风風]|[热熱][带帶][风風]暴).* `<autoconfirmed>` # RFPP oldid=36572154 长期破坏`
+`.*([台檯飓颱][风風]|[热熱][带帶][风風]暴).* <autoconfirmed|errmsg=Titleblacklist-semiprotected> # RFPP oldid=36572154 长期破坏`
 `.*考试.*答案.* `<autoconfirmed>
 `.*航.*电子客票行程单.* `<autoconfirmed>
 `.*去哪儿网.* `<autoconfirmed>
@@ -34,11 +35,11 @@
 `.*[滙匯]八坊.*`
 `.*[\d０-９零一二三四五六七八九年].*兄.*弟.*象.* #防止多次重複建立`
 `.*智慧台[湾灣].*`
-`.*[宝寶]福[凯凱].* <autoconfirmed|noedit> `
-`.*理.*想.*[语語].* <autoconfirmed|noedit>`
-`.*[双雙].*合.*推.*[导導].* <autoconfirmed|noedit>`
-`User:WhitePhosphorus-bot\/(misc|message|controls).* <autoconfirmed|noedit>`
-`User:Liangent-bot\/message\/.* `<noedit>
+`.*[宝寶]福[凯凱].* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected> `
+`.*理.*想.*[语語].* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
+`.*[双雙].*合.*推.*[导導].* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
+`User:WhitePhosphorus-bot\/(misc|message|controls).* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
+`User:Liangent-bot\/message\/.* <noedit|errmsg=Titleblacklist-fullprotected>`
 `.*Ashen.* `<autoconfirmed>
 `.*97051253.* `<autoconfirmed>
 `.*洪.*任.*諭.* `<autoconfirmed>`#違反生者傳記的傀儡破壞`
@@ -47,7 +48,7 @@
 `.*(2012|2013|2014).*([空海].*[姐哥乘]|报名|应聘|招生|分数线).* `<autoconfirmed>
 `(?!Draft:).*梅州市.* <autoconfirmed|Titleblacklist-custom-draft> #有IP用户多次创建含有此名称的不当页面`
 `(?!Draft:).*梅县区.* <autoconfirmed|Titleblacklist-custom-draft> #有IP用户多次创建含有此名称的不当页面`
-`User( talk)?:Liangent\/.* `<noedit>` # Targeting Jimmy-bot`
+`User( talk)?:Liangent\/.* <noedit|errmsg=Titleblacklist-fullprotected> # Targeting Jimmy-bot`
 `.*[点點]炮.* `<autoconfirmed>
 `.*神.*抄.* `<autoconfirmed>
 `.*之.*塔.* `<autoconfirmed>
@@ -87,7 +88,7 @@
 
 `#博彩广告`
 `.*老虎[机機].*`
-`.*百家[乐樂].* <autoconfirmed|noedit>`
+`.*百家[乐樂].* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
 `.*投.*注.* `<autoconfirmed>
 `.*博.*彩.* `<autoconfirmed>
 `.*彩.*票.* `<autoconfirmed>
@@ -97,7 +98,7 @@
 `#医药广告`
 `.*[医社].*保.* `<autoconfirmed>
 `.*[腎肾].* `<autoconfirmed>
-`.*癌.* <autoconfirmed|noedit>`
+`.*癌.* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
 `.*心.*脏.*病.* `<autoconfirmed>
 `.*治.*疗.* `<autoconfirmed>
 `.*男.*[科性].* `<autoconfirmed>
@@ -322,13 +323,13 @@
 
 `#模板`
 `Template:.*主[题題]名[称稱].*`
-`Template:Editnotices\/.* <autoconfirmed|noedit>`
-`Template\:(?:Efn|Notelist)(?!\/doc$|\/Sandbox$|\/沙盒$).* `<noedit>` #高風險模板系列`
+`Template:Editnotices\/.* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
+`Template\:(?:Efn|Notelist)(?!\/doc$|\/Sandbox$|\/沙盒$).* <noedit|errmsg=Titleblacklist-fullprotected> #高風險模板系列`
 
 `#項目頁面`
 `Wikipedia:.* `<autoconfirmed>` #祇允許自動確認用戶創建計畫頁面`
 `Help:.* `<autoconfirmed>
-`模块:.*(?<!\/doc|\/sandbox|\/沙盒) <autoconfirmed|noedit> #防止破壞`
+`模块:.*(?<!\/doc|\/sandbox|\/沙盒) <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected> #防止破壞`
 `Wikipedia:繁簡體轉換請求\/.* #只允许简体页面`
 `Wikipedia( talk)?:Guestbook for non-Chinese-speakers\/Archives\/w\/index\.php`
 `Wikipedia( talk)?:Guestbook for non-Chinese-speakers\/w\/w\/index\.php`
@@ -337,9 +338,10 @@
 `Wikipedia( talk)?:(頁面|圖像|檔案|文件)存廢討論.* #祇允許建立特定日期格式`
 `Wikipedia( talk)?:.*[維维].*基.*[獎奖奬].*[勵励].*\/.*授.*[獎奖奬].*提.*名.*投.*票.*\/.*([見见].*[習习]|助.*理|[執执].*行|[資资].*深).* #請到`[`WP:AH申請`](https://zh.wikipedia.org/wiki/WP:AH "wikilink")
 `Wikipedia( talk)?:.*[維维].*基.*[獎奖奬].*[勵励].*\/.*授.*[獎奖奬].*提.*名.*投.*票.* `<autoconfirmed>` #祇允許維基助理編輯提出`
-`Wikipedia:建立條目精靈\/.* <autoconfirmed|noedit>`
+`Wikipedia:建立條目精靈\/.* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
 `Wikipedia:典範條目\/.* #請使用簡體 Wikipedia:典范条目`
 `Wikipedia:優良條目\/.* #請使用簡體 Wikipedia:优良条目`
+`Wikipedia:持续出没的破坏者.* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
 
 `# prevent redundant namespace prefix during page move`
 `.*Special talk:.*`
@@ -570,7 +572,7 @@
 `.*(H|C)at.*(\d{3}).* `<autoconfirmed>
 `.*(Mak|ake).*(ca|at).* `<autoconfirmed>
 `.*Ji(m|nn)(m|nn)y.*xu.*wrk.* `<autoconfirmed>
-`Template:DC11.* <autoconfirmed|noedit>`
+`Template:DC11.* <autoconfirmed|noedit|errmsg=Titleblacklist-semiprotected>`
 `# Prevent users from creating pages with bad names after searching`
 `# <errmsg=titleblacklist-forbidden-prefix>`
 `.+ prefix:.*`

@@ -28,7 +28,7 @@ reCAPTCHA問題的所需的文字圖片，首先會由reCAPTCHA計畫網站利�
 [Category:電腦安全](https://zh.wikipedia.org/wiki/Category:電腦安全 "wikilink")
 [Category:卡內基美隆大學](https://zh.wikipedia.org/wiki/Category:卡內基美隆大學 "wikilink")
 [Category:众包](https://zh.wikipedia.org/wiki/Category:众包 "wikilink")
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
+[Category:Google服务](https://zh.wikipedia.org/wiki/Category:Google服务 "wikilink")
 [Category:光学字符识别](https://zh.wikipedia.org/wiki/Category:光学字符识别 "wikilink")
 [Category:图灵测试](https://zh.wikipedia.org/wiki/Category:图灵测试 "wikilink")
 [Category:網頁技術](https://zh.wikipedia.org/wiki/Category:網頁技術 "wikilink")

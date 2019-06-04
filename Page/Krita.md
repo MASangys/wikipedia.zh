@@ -269,7 +269,7 @@ Krita的开发人员遍及世界各地，每隔一两年他们会设法找一个
     Krita|last=Foundation|first=Krita|language=en-US|website=krita.org|access-date=2017-07-23}}
 
 20.
-    Krita|last=Foundation|first=Krita|language=en-US|website=krita.org|access-date=2017-07-23}}
+    Krita|last=Foundation|first=Krita|language=en-US|website=krita.org|access-date=2017-07-23|archive-url=[https://web.archive.org/web/20170809212501/https://krita.org/en/download/krita-gemini/|archive-date=2017-08-09|dead-url=yes](https://web.archive.org/web/20170809212501/https://krita.org/en/download/krita-gemini/%7Carchive-date=2017-08-09%7Cdead-url=yes)}}
 
 21.
     Krita|last=Foundation|first=Krita|language=fr|website=krita.org|access-date=2017-07-23}}

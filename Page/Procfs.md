@@ -111,7 +111,9 @@ $ readlink /proc/$(pgrep -n python)/exe    # List executable used to launch the 
 
   - 电源管理系统（如果有的话）对应的目录或
 
-  - , 信息关于用于处理内存碎片。\[2\]
+  - , 信息关于用于处理内存碎片。<ref>
+
+</ref>
 
   - , 包含对应于计算机上各种总线的目录,
     如input/[PCI](https://zh.wikipedia.org/wiki/PCI "wikilink")/[USB](../Page/USB.md "wikilink").
@@ -125,7 +127,7 @@ $ readlink /proc/$(pgrep -n python)/exe    # List executable used to launch the 
     诸如厂商（vendor），型号 (family, model，model names), 速度, 缓存大小,
     逻辑核数 , 物理核数, [CPU
     flags](https://zh.wikipedia.org/wiki/CPU_flags "wikilink")，以及[BogoMips](../Page/BogoMips.md "wikilink").对于多核CPU，/proc/cpuinfo的逻辑核数"siblings"与物理核数"cpu
-    cores"分别表示:\[3\]
+    cores"分别表示:\[2\]
 
 <!-- end list -->
 
@@ -134,7 +136,7 @@ $ readlink /proc/$(pgrep -n python)/exe    # List executable used to launch the 
 
 CPU
 package是指单独封装的一颗CPU。这可以区分[超线程与双核](https://zh.wikipedia.org/wiki/超线程 "wikilink")，例如每颗CPU超线程数量为*siblings
-/ CPU cores*. 如果二者的值相等，则CPU不支持超线程.\[4\]
+/ CPU cores*. 如果二者的值相等，则CPU不支持超线程.\[3\]
 
   - , 可利用的加密模块列表
 
@@ -229,4 +231,3 @@ procfs 取得資料便可以完成所有的工作。
 
 2.
 3.
-4.

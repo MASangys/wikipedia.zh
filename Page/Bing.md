@@ -114,7 +114,7 @@ Generation的产品，其简称为BING。该公司也以类似的理由发起诉
 
 ### 雙胞案
 
-發時，[台灣版Bing搜尋共有兩處](https://zh.wikipedia.org/wiki/台灣 "wikilink")，一為台灣[微軟所架設的繽](https://zh.wikipedia.org/wiki/微軟 "wikilink")-{}-紛搜尋；另則是全球微軟在推的台灣版。前者延續[MSN的花俏華麗介面](../Page/MSN.md "wikilink")，且除了[搜尋框之外](https://zh.wikipedia.org/wiki/搜尋 "wikilink")，更有各式的分類索引與導覽，類似一個入口網站；後者則仿效[Google的簡潔介面](../Page/Google.md "wikilink")。
+[台灣版Bing搜尋共有兩處](https://zh.wikipedia.org/wiki/台灣 "wikilink")，一為台灣[微軟所架設的繽](https://zh.wikipedia.org/wiki/微軟 "wikilink")-{}-紛搜尋；另則是全球微軟在推的台灣版。前者延續[MSN的花俏華麗介面](../Page/MSN.md "wikilink")，且除了[搜尋框之外](https://zh.wikipedia.org/wiki/搜尋 "wikilink")，更有各式的分類索引與導覽，類似一個入口網站；後者則仿效[Google的簡潔介面](../Page/Google.md "wikilink")。
 
 根據台灣微軟的說法，Bing「繽-{}-紛搜尋」是台灣微軟投入大量資源進行在地化開發的成果，智慧分類介面讓使用者更容易找到所需要的資訊。這項新功能讓繽-{}-紛搜尋與其他競爭對手（[Google及](../Page/Google.md "wikilink")[Yahoo等](https://zh.wikipedia.org/wiki/Yahoo "wikilink")）有很大的不同，這樣的設計使繽-{}-紛搜尋可以達到讓使用者獲得「五彩繽-{}-紛」又便利的搜尋結果。\[37\]針對雙胞案對用戶可能造成的不便，當時台灣微軟也承諾未來將進一步予以整合，但必須等到官方版功能到位後，再視市場需求決定整合方案。\[38\]
 

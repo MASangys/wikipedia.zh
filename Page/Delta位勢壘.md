@@ -99,7 +99,4 @@
   - [Delta位勢阱](../Page/Delta位勢阱.md "wikilink")
   - [量子穿隧效應](../Page/量子穿隧效應.md "wikilink")
 
-[en:Delta potential
-well](https://zh.wikipedia.org/wiki/en:Delta_potential_well "wikilink")
-
 [Category:量子力學](https://zh.wikipedia.org/wiki/Category:量子力學 "wikilink")

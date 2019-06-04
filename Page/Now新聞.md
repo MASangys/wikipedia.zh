@@ -173,16 +173,16 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 （高級記者）</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李彤茵" title="wikilink">李彤茵</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃婉晴" title="wikilink">黃婉晴</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張倩欣" title="wikilink">張倩欣</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張汶樂" title="wikilink">張汶樂</a></p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/馮文傑" title="wikilink">馮文傑</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/林亦" title="wikilink">林亦</a></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/嚴彩明" title="wikilink">嚴彩明</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/林碧君" title="wikilink">林碧君</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p><strong>國際新聞組記者／編輯</strong></p></td>
@@ -216,7 +216,7 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 （首席記者）</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/馬子豪" title="wikilink">馬子豪</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃思行" title="wikilink">黃思行</a><br />
 （高級記者）</p></td>
 </tr>
 <tr class="even">
@@ -360,95 +360,102 @@ now香港台2008年12月12日啟播後至2016年3月18日，該台每日會播�
 （財華社－現代電視）</p></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>'''近況：政府、政治及公營機構</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/賴舜明" title="wikilink">賴舜明</a><br />
+（體通天下）</p></td>
 </tr>
 <tr class="odd">
+<td style="text-align: center;"><p>'''近況：政府、政治及公營機構</p></td>
+</tr>
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/廖淑明" title="wikilink">廖淑明</a><br />
 （<a href="https://zh.wikipedia.org/wiki/香港證監會" title="wikilink">香港證監會</a>）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/何倩華" title="wikilink">何倩華</a><br />
 （<a href="https://zh.wikipedia.org/wiki/澳門政府新聞局" title="wikilink">澳門政府新聞局</a>）</p></td>
 </tr>
-<tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳詠琳" title="wikilink">陳詠琳</a><br />
-（<a href="../Page/政府新聞處.md" title="wikilink">政府新聞處</a>）</p></td>
-</tr>
 <tr class="even">
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳詠琳" title="wikilink">陳詠琳</a><br />
+（<a href="../Page/政府新聞處.md" title="wikilink">政府新聞處新聞主任</a>（數碼媒體））</p></td>
+</tr>
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/蘇婉雯" title="wikilink">蘇婉雯</a><br />
 （<a href="../Page/民主思路.md" title="wikilink">民主思路</a>）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p>'''近況：商業、金融及地產界</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃芝蓉" title="wikilink">黃芝蓉</a><br />
 （銀河娛樂集團總辦事處公共關係副總裁）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鍾綺君" title="wikilink">鍾綺君</a><br />
 （恒基兆業地產有限公司公共關係人員）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/潘悅瑤" title="wikilink">潘悅瑤</a><br />
 （<a href="https://zh.wikipedia.org/wiki/意大利國家勞工銀行" title="wikilink">意大利國家勞工銀行公關人員</a>）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳曉蓉" title="wikilink">陳曉蓉</a><br />
 （<a href="https://zh.wikipedia.org/wiki/中國建設銀行" title="wikilink">中國建設銀行</a>）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="../Page/張鷺玲.md" title="wikilink">張鷺玲</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳正犖" title="wikilink">陳正犖</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p>'''近況：其他</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳宇凰" title="wikilink">陳宇凰</a><br />
 （市場推廣）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/徐小媚" title="wikilink">徐小媚</a><br />
 （香港戲院商會公共關係主任）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/方子敏" title="wikilink">方子敏</a><br />
 （<a href="../Page/科樂美.md" title="wikilink">科樂美公關</a>）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/過智溢" title="wikilink">過智溢</a><br />
 （移民加拿大<a href="../Page/溫哥華.md" title="wikilink">溫哥華</a> — 任職<a href="../Page/新時代電視.md" title="wikilink">新時代電視</a>）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳匡民" title="wikilink">陳匡民</a><br />
 （<a href="https://zh.wikipedia.org/wiki/銀河百度" title="wikilink">銀河百度</a>）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張文欣" title="wikilink">張文欣</a><br />
 （<a href="../Page/香港賽馬會.md" title="wikilink">香港賽馬會公關人員</a>）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張兆高" title="wikilink">張兆高</a><br />
 （「<a href="http://mmcreation.net/">是敢的創作室</a>」創辦人 ）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/容靜怡" title="wikilink">容靜怡</a><br />
 （升學）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><strong>去向不明或待業</strong></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/游瑋珊" title="wikilink">游瑋珊</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黎卓欣" title="wikilink">黎卓欣</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/曾芷倫" title="wikilink">曾芷倫</a></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/林煒彤" title="wikilink">林煒彤</a></p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"></td>

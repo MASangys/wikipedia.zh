@@ -14,7 +14,7 @@ Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，2005年時又移
 
 本作的故事由[博望坡之戰開始到](../Page/博望坡之戰.md "wikilink")[赤壁之戰為止](../Page/赤壁之戰.md "wikilink")，并再现了原著的“华容道捉放曹”情节。玩家可以選擇的角色較前作多一個，可以3人同時遊戏（後來的移植版只能2人同時遊戏）。
 
-## 玩家可選角色
+## 玩家角色
 
   - [關羽](https://zh.wikipedia.org/wiki/關羽 "wikilink")
 
@@ -59,7 +59,7 @@ Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，2005年時又移
   -
     组合技特长型角色。步行和騎馬時皆執[苗刀](../Page/苗刀.md "wikilink")，抓人距离和赵云差不多，絕技為斬馬蹴。
 
-## 電腦控制角色
+## 頭目角色
 
   - [李典](../Page/李典.md "wikilink")
 
@@ -164,7 +164,7 @@ Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，2005年時又移
 <!-- end list -->
 
   -
-    第9關頭目，是实际的最终BOSS。執[斬馬劍](../Page/斬馬劍.md "wikilink")，還能使[毒龍鞭](../Page/鞭.md "wikilink")。會車輪衝撞、格擋、抓人及放保險。幾乎擁有所有強項的強者。由於體力亦相當高，有超時未能夠過關之風險。
+    第9關頭目，是实际的最终頭目。執[斬馬劍](../Page/斬馬劍.md "wikilink")，還能使[毒龍鞭](../Page/鞭.md "wikilink")。會車輪衝撞、格擋、抓人及放保險。幾乎擁有所有強項的強者。由於體力亦相當高，有超時未能夠過關的風險。
 
 <!-- end list -->
 
@@ -174,9 +174,9 @@ Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，2005年時又移
 
   -
     最後一關的頭目，以[炸彈攻擊](https://zh.wikipedia.org/wiki/炸彈 "wikilink")。战斗时间仅15秒，15秒后曹操会逃走。开战前可以选择“释放”，让曹操逃跑（但是世界版、美版游戏不能释放）。結局會根據玩家是否打敗或忽視他而改變，打倒、逃走和释放的结局画面不同，打倒为统一全国，释放为三国鼎立，若曹操逃走则显示五主角最终战死，曹操一统天下。
-    （附註1：这段剧情是原著“关云长义释曹孟德”的重现。但多出两種選擇。）
+    （附註：这段剧情是原著“关云长义释曹孟德”的重现。但多出两種選擇。）
 
-## 遊戲其他角色
+## 其他角色
 
   - [劉備](https://zh.wikipedia.org/wiki/劉備 "wikilink")
 
@@ -226,7 +226,8 @@ Saturn](https://zh.wikipedia.org/wiki/Sega_Saturn "wikilink")，2005年時又移
 原版的“吞食天地2”仅在日本本土发行，华语圈进口的机台多是日本原版。考虑到西方世界用户对三国故事背景不熟悉，发行商决定以“Warriors of
 Fate”（命运战士）之名在欧美发行这款游戏，内容和关卡与原版基本无异，只是我方和敌方角色的名字，被更换成了西方玩家熟悉的历史角色，比如五虎将以“[亚瑟王和他的勇士](../Page/亚瑟王.md "wikilink")”命名，敌将被冠以“成吉思汗”、“匈奴王[阿提拉](../Page/阿提拉.md "wikilink")”之类，整个故事情节被描绘成“历史英雄人物超越时空的大会战”，颇有“[关公战秦琼](../Page/关公战秦琼.md "wikilink")”的意味。这种设定的反响并不讨好，使西方的玩家多感到不知所云，按日本的说法就是充满“违和感”。
 
-同样的游戏，在日文和华语圈广受欢迎，但在西方的知名度和反响就非常一般，很可能是海外市场销量最低的CPS作品\[1\]，远没有情节“西化”的《[快打旋风](https://zh.wikipedia.org/wiki/快打旋风 "wikilink")》、《[名将](../Page/上尉密令.md "wikilink")》成功。
+同样的游戏，在日文和华语圈广受欢迎，但在西方的知名度和反响就非常一般，很可能是海外市场销量最低的[CPS
+1.5作品](../Page/CP_System.md "wikilink")\[1\]，远没有情节“西化”的《[快打旋风](https://zh.wikipedia.org/wiki/快打旋风 "wikilink")》、《[名将](../Page/上尉密令.md "wikilink")》成功。
 
 ## 参考资料
 

@@ -189,7 +189,8 @@ World”程序是不是很像呢？事实上，Scala的编译和执行模型与[
 
   - [Scala website](http://www.scala-lang.org/)
   - [Scalachina](http://www.scalachina.com/)
-  - [Scala Tour](http://www.scala-tour.com/),开源Scala指南
+  - [Scala
+    Tour](https://web.archive.org/web/20130808005731/http://www.scala-tour.com/),开源Scala指南
 
 {{-}}
 

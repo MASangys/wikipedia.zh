@@ -101,7 +101,12 @@ HD并可录制1080P视频，支援siri和聽寫功能。連接器由沿用多年
 2015年7月15日，蘋果公司推出了第六代iPod
 touch，顯示器仍是4英寸，但改用A8處理器，内存也增加至1GB，iSight相機升級成800萬像素，並增加128GB容量款式。
 
-{{-}}
+### 第七代
+
+2019年5月28日，苹果公司在官方网站推出第七代iPod touch。其处理器升级为[A10
+Fushion](https://zh.wikipedia.org/wiki/Apple_A10 "wikilink")，搭载[iOS
+12操作系统](https://zh.wikipedia.org/wiki/iOS_12 "wikilink")，提供32GB、128GB、256GB三种容量规格。但其屏幕、相机、设计、主屏幕按钮等方面皆与第六代iPod
+touch相同。 {{-}}
 
 ### 规格表
 
@@ -400,7 +405,8 @@ touch不提供電話（不包括[FaceTime语音电话](../Page/FaceTime.md "wiki
 
 ### 硬體
 
-iPod touch沒有自定義開關，也沒有震動马达，而且是至今所有iOS系列产品中不支持Touch ID的设备。
+iPod touch沒有自定義開關，也沒有震動马达，而且是至今所有iOS系列产品中唯一仍然不支持Touch ID与Face
+ID的设备。同时iPod Touch是目前所有iOS产品中唯一没有发售过任何全面屏版本的型号。
 
 ### 軟體
 

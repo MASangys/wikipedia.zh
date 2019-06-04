@@ -42,34 +42,31 @@ Countdown統計2013年全球市佔率已逐步下降到6.7%以下）\[3\]。
 Firefox及](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")[Google
 Chrome等瀏覽器的出現](../Page/Google_Chrome.md "wikilink")，也是促使大家更急於丟棄IE6的原因之一。
 
-2006年5月，[PC World將Internet](../Page/PC_World.md "wikilink") Explorer
-6評選為有史以來最差的科技產品\[4\]。2011年4月，Complex雜誌評選為科技史上最糟糕產品之一\[5\]。
-
 2010年，網路巨擘[Google開始逐步減少支援Internet](../Page/Google.md "wikilink")
 Explorer
 6。因為在谷歌遭到駭客攻擊時，IE6瀏覽器是容易遭到突破的一環。[英國廣播公司](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")（[BBC](https://zh.wikipedia.org/wiki/BBC "wikilink")）報導，谷歌表示，從2010年3月1日起，[Google
-Docs等部分服務系統將無法與IE](https://zh.wikipedia.org/wiki/Google_Docs "wikilink")6「妥善地」運作，建議使用IE6的個人和企業「儘快」升級\[6\]。
+Docs等部分服務系統將無法與IE](https://zh.wikipedia.org/wiki/Google_Docs "wikilink")6「妥善地」運作，建議使用IE6的個人和企業「儘快」升級\[4\]。
 
-[法國和](https://zh.wikipedia.org/wiki/法國 "wikilink")[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[政府也向](../Page/政府.md "wikilink")[國民提出建議](https://zh.wikipedia.org/wiki/國民 "wikilink")，在IE瀏覽器漏洞修復之前，改用其他瀏覽器\[7\]。微軟方面很快地更新瀏覽器，較例行安全更新提前了將近3週。然而，谷歌現在已經表示將逐步減少支援IE6，「從[Google
+[法國和](https://zh.wikipedia.org/wiki/法國 "wikilink")[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[政府也向](../Page/政府.md "wikilink")[國民提出建議](https://zh.wikipedia.org/wiki/國民 "wikilink")，在IE瀏覽器漏洞修復之前，改用其他瀏覽器\[5\]。微軟方面很快地更新瀏覽器，較例行安全更新提前了將近3週。然而，谷歌現在已經表示將逐步減少支援IE6，「從[Google
 Docs和](https://zh.wikipedia.org/wiki/Google_Docs "wikilink")[Google
 Sites開始](https://zh.wikipedia.org/wiki/Google_Sites "wikilink")」，因此使用IE6瀏覽器時，將無法使用這些服務的部分「主要功能」。
 
 Google Docs用於開啟微軟Office文件，Google
 Sites則可用於建立新網頁。約20%的網路使用者還在使用這個9年前開發的瀏覽器，包括許多[英國政府部門](https://zh.wikipedia.org/wiki/英國 "wikilink")。然而，許多軟體開發商希望IE6瀏覽器能夠盡快被淘汰。超過70家網路公司發起的線上團體IE6
-No More表示，由於IE6不支援現代網路格式，限制軟體開發商的發揮空間，「阻礙網路發展」\[8\]。
+No More表示，由於IE6不支援現代網路格式，限制軟體開發商的發揮空間，「阻礙網路發展」\[6\]。
 
-歷經其他諸如[Firefox](../Page/Firefox.md "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Opera和](https://zh.wikipedia.org/wiki/Opera "wikilink")[Chrome等瀏覽器的圍攻](https://zh.wikipedia.org/wiki/Chrome "wikilink")，微軟IE瀏覽器卻依舊屹立不搖，截至2010年2月，全世界仍有為數眾多的用戶仍在使用IE6\[9\]\[10\]，特别是在[中国大陆](../Page/中国大陆.md "wikilink")\[11\]和[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")\[12\]\[13\]，由於IE6存有許多資訊安全上的漏洞，再加上IE6對於網頁標準的支援也不完整，所以包括外界曾多次呼籲這群IE6的用戶應儘速升級到IE7以上的版本，或是考慮更換瀏覽器版本。
+歷經其他諸如[Firefox](../Page/Firefox.md "wikilink")、[Safari](../Page/Safari.md "wikilink")、[Opera和](https://zh.wikipedia.org/wiki/Opera "wikilink")[Chrome等瀏覽器的圍攻](https://zh.wikipedia.org/wiki/Chrome "wikilink")，微軟IE瀏覽器卻依舊屹立不搖，截至2010年2月，全世界仍有為數眾多的用戶仍在使用IE6\[7\]\[8\]，特别是在[中国大陆](../Page/中国大陆.md "wikilink")\[9\]和[南韓](https://zh.wikipedia.org/wiki/南韓 "wikilink")\[10\]\[11\]，由於IE6存有許多資訊安全上的漏洞，再加上IE6對於網頁標準的支援也不完整，所以包括外界曾多次呼籲這群IE6的用戶應儘速升級到IE7以上的版本，或是考慮更換瀏覽器版本。
 
-由於必須針對多款瀏覽器的相容程度來進行網頁設計的調整，對於許多網路公司也是一件棘手的事。為了徹底解決IE6對網頁標準支援不完善的困擾，包括[YouTube](../Page/YouTube.md "wikilink")、[Facebook和](../Page/Facebook.md "wikilink")[Twitter在內的多家知名網站決定針對只要是最近曾使用IE](../Page/Twitter.md "wikilink")6瀏覽器連上這些網站的朋友，可能都會發現網站所發出的警訊\[14\]\[15\]。以YouTube為例，站方便表明不再支援IE6瀏覽器，請網友儘快升級到最新的瀏覽器。YouTube還提供了Google
-Chrome、Firefox 3.5、IE 8.0、Safari以及Opera的下載連結\[16\]。
+由於必須針對多款瀏覽器的相容程度來進行網頁設計的調整，對於許多網路公司也是一件棘手的事。為了徹底解決IE6對網頁標準支援不完善的困擾，包括[YouTube](../Page/YouTube.md "wikilink")、[Facebook和](../Page/Facebook.md "wikilink")[Twitter在內的多家知名網站決定針對只要是最近曾使用IE](../Page/Twitter.md "wikilink")6瀏覽器連上這些網站的朋友，可能都會發現網站所發出的警訊\[12\]\[13\]。以YouTube為例，站方便表明不再支援IE6瀏覽器，請網友儘快升級到最新的瀏覽器。YouTube還提供了Google
+Chrome、Firefox 3.5、IE 8.0、Safari以及Opera的下載連結\[14\]。
 
 微软也认为现时IE6和[Windows
-XP阻碍了他们的新产品的发展](../Page/Windows_XP.md "wikilink")，因此也在不断想方设法封杀IE6\[17\]\[18\]，如不能自动更新、不能存取微软官方网站、呼吁网站开发者不考量对IE6的支援等。IE开发团队的一个重要工作之一就是要敦促IE6用户放弃IE6并将其升级至IE的新版本，这项工作落实的重点地区是[东亚](https://zh.wikipedia.org/wiki/东亚 "wikilink")[地区](../Page/地区.md "wikilink")\[19\]。
+XP阻碍了他们的新产品的发展](../Page/Windows_XP.md "wikilink")，因此也在不断想方设法封杀IE6\[15\]\[16\]，如不能自动更新、不能存取微软官方网站、呼吁网站开发者不考量对IE6的支援等。IE开发团队的一个重要工作之一就是要敦促IE6用户放弃IE6并将其升级至IE的新版本，这项工作落实的重点地区是[东亚](https://zh.wikipedia.org/wiki/东亚 "wikilink")[地区](../Page/地区.md "wikilink")\[17\]。
 
-微软[澳大利亚分公司甚至在其官方网站的主页上刊登了一幅广告](../Page/澳大利亚.md "wikilink")：“[牛奶放久就会变味](../Page/牛奶.md "wikilink")，老款IE6浏览器也是如此，并提醒IE6用户尽快升级到最新的IE8浏览器。”\[20\]\[21\]\[22\]
+微软[澳大利亚分公司甚至在其官方网站的主页上刊登了一幅广告](../Page/澳大利亚.md "wikilink")：“[牛奶放久就会变味](../Page/牛奶.md "wikilink")，老款IE6浏览器也是如此，并提醒IE6用户尽快升级到最新的IE8浏览器。”\[18\]\[19\]\[20\]
 
 2015年7月22日，微软发布Windows Server 2003
-SP2上IE6的最后一个安全更新，自此IE6在各Windows平台的安全更新支持结束\[23\]。
+SP2上IE6的最后一个安全更新，自此IE6在各Windows平台的安全更新支持结束\[21\]。
 
 ## 版本發佈
 
@@ -123,14 +120,10 @@ SP2上IE6的最后一个安全更新，自此IE6在各Windows平台的安全更�
 16.
 
 17.
-
 18.
 
 19.
+
 20.
 
 21.
-
-22.
-
-23.

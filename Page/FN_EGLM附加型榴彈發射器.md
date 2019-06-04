@@ -1,6 +1,6 @@
 **FN EGLM**（，意為：增強型榴弹发射器組件；執法機關型正式名稱：**FN40GL**，軍用型正式名稱：**Mk 13
 EGLM**）是一款由[國營赫斯塔爾](https://zh.wikipedia.org/wiki/赫爾斯塔爾國營工廠 "wikilink")（，簡稱：FN）原本為[FN
-F2000開發的單發下掛式](../Page/FN_F2000突擊步槍.md "wikilink")[榴弹发射器](../Page/榴弹发射器.md "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。設計上是提供給FN
+F2000而研發的單發下掛式](../Page/FN_F2000突擊步槍.md "wikilink")[榴弹发射器](../Page/榴弹发射器.md "wikilink")，發射[40×46毫米低速榴彈](../Page/40毫米榴彈.md "wikilink")。設計上是提供給FN
 F2000及[FN
 SCAR裝備](../Page/FN_SCAR突擊步槍.md "wikilink")，也可通過增加及[槍托配件改裝成一個獨立的肩射型榴彈發射器武器系統](../Page/槍托.md "wikilink")。
 

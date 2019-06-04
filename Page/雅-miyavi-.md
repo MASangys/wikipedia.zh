@@ -122,7 +122,7 @@ Ishihara），血型AB型，身高183-185cm，日本與韓國混血，1981年9�
 
   - 2014年《[-{zh-tw:永不屈服; zh-hk:非凡生命歷;
     zh-cn:坚不可摧;}-](../Page/坚不可摧.md "wikilink")》飾演：渡邊睦裕
-  - 2017年《[金剛：骷髏島](../Page/金剛：骷髏島.md "wikilink")》客串：井狩軍平
+  - 2017年《[金剛：骷髏島](../Page/金剛：骷髏島.md "wikilink")》客串：碇 軍平(グンペイ・イカリ)
   - 2018年《[BLEACH：死神](https://zh.wikipedia.org/wiki/BLEACH：死神 "wikilink")》飾演：朽木白哉
 
 ## 使用吉他

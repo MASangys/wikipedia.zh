@@ -1,7 +1,7 @@
 [TKO_Gateway_West_Wing_Atrium.jpg](https://zh.wikipedia.org/wiki/File:TKO_Gateway_West_Wing_Atrium.jpg "fig:TKO_Gateway_West_Wing_Atrium.jpg")
 [TKO_Gateway_East_Wing_Atrium.jpg](https://zh.wikipedia.org/wiki/File:TKO_Gateway_East_Wing_Atrium.jpg "fig:TKO_Gateway_East_Wing_Atrium.jpg")
 **TKO
-Gateway**（前稱**厚德商場**）是[香港的一個](../Page/香港.md "wikilink")[公共屋邨商場](https://zh.wikipedia.org/wiki/公共屋邨 "wikilink")，位於[新界](../Page/新界.md "wikilink")[將軍澳](../Page/將軍澳.md "wikilink")[坑口](https://zh.wikipedia.org/wiki/坑口 "wikilink")[重華路](https://zh.wikipedia.org/wiki/重華路 "wikilink")，鄰近[港鐵](../Page/港鐵.md "wikilink")[將軍澳綫](../Page/將軍澳綫.md "wikilink")[坑口站](../Page/坑口站_\(香港\).md "wikilink")，為[厚德邨的附屬商場](../Page/厚德邨.md "wikilink")。商場於1994年落成，原為[香港房屋委員會轄下商場](../Page/香港房屋委員會.md "wikilink")，現為[領展](../Page/領展房地產投資信託基金.md "wikilink")（）旗下。
+Gateway**（前稱**厚德商場**）是[香港的一個](../Page/香港.md "wikilink")[公共屋邨商場](https://zh.wikipedia.org/wiki/公共屋邨 "wikilink")，位於[新界](../Page/新界.md "wikilink")[西貢](https://zh.wikipedia.org/wiki/西貢 "wikilink")[坑口](https://zh.wikipedia.org/wiki/坑口 "wikilink")[重華路](https://zh.wikipedia.org/wiki/重華路 "wikilink")，鄰近[港鐵](../Page/港鐵.md "wikilink")[將軍澳綫](../Page/將軍澳綫.md "wikilink")[坑口站](../Page/坑口站_\(香港\).md "wikilink")，為[厚德邨的附屬商場](../Page/厚德邨.md "wikilink")。商場於1994年落成，原為[香港房屋委員會轄下商場](../Page/香港房屋委員會.md "wikilink")，現為[領展](../Page/領展房地產投資信託基金.md "wikilink")（）旗下。
 
 TKO Gateway
 分為東翼及西翼，共有4個樓層，可出租面積為14,800平方米，附設有停車場623個車位\[1\]及位於商場地下的[TKO街市](../Page/TKO街市.md "wikilink")

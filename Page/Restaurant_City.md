@@ -64,7 +64,7 @@ City會在特別日子，如[萬聖節](https://zh.wikipedia.org/wiki/萬聖節 
 ## 爭論
 
 《**Restaurant
-City**》於2012年6月29日結束營運，令不少玩家抱怨Playfish刪掉此遊戲令他們失去樂趣，此情況在Playfish刪掉旗下遊戲時出現，例如[Hotel
+City**》於2012年6月29日結束營運，令不少玩家抱怨被EA收購的Playfish刪掉此遊戲令他們失去樂趣，此情況在Playfish刪掉旗下遊戲時出現，例如[Hotel
 City](../Page/Hotel_City.md "wikilink")、[寵物社會](https://zh.wikipedia.org/wiki/寵物社會 "wikilink")、[模擬時光等](https://zh.wikipedia.org/wiki/模擬時光 "wikilink")。\[2\]
 
 ## 參考資料

@@ -4,7 +4,7 @@ G36改造而成的](../Page/HK_G36突擊步槍.md "wikilink")[手動民用運動
 Remington或](../Page/.223_Remington.md "wikilink")[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")，並且以10發[SL8的可拆卸式透明](../Page/HK_SL8半自動步槍.md "wikilink")[塑料](../Page/塑料.md "wikilink")[彈匣用作其供彈方式](../Page/彈匣.md "wikilink")。
 
 HK R8和HK SL8相反，並非HK G36突擊步槍的半自動民用型版本，而是HK
-SL8的手動民用型版本。因此沒有使用來自G36的[短行程活塞傳動型氣動式](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#活塞原理 "wikilink")、[斯通納式轉拴式槍機等的系統](../Page/滾轉式槍機.md "wikilink")。
+SL8的手動民用型版本。因此並無使用來自G36的[短行程活塞傳動型氣動式](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#活塞原理 "wikilink")、[斯通納式轉拴式槍栓等的系統](../Page/轉拴式槍栓.md "wikilink")。
 
 ## 設計及歷史
 

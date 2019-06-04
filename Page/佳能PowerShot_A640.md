@@ -47,7 +47,4 @@ IS进行修改而使其能输出](https://zh.wikipedia.org/wiki/Canon_PowerShot_
   - [A6x0、S3IS破解](http://www.xitek.com/forum/showthread.php?threadid=418343)
     - 色影无忌上转载的破解方法及讨论
 
-[en:Canon PowerShot
-A640](https://zh.wikipedia.org/wiki/en:Canon_PowerShot_A640 "wikilink")
-
 [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")

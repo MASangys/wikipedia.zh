@@ -18,9 +18,6 @@
   -
   -
   -
-[de:OGLE-TR-56
-b](https://zh.wikipedia.org/wiki/de:OGLE-TR-56_b "wikilink")
-
 [Category:熱木星](https://zh.wikipedia.org/wiki/Category:熱木星 "wikilink")
 [Category:人馬座](https://zh.wikipedia.org/wiki/Category:人馬座 "wikilink")
 [Category:凌星現象](https://zh.wikipedia.org/wiki/Category:凌星現象 "wikilink")

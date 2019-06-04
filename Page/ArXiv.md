@@ -53,7 +53,8 @@ Mathematics）等項下。
   - [Arxiv structure : Tool to view Arxiv articles in a structured
     way](http://xstructure.inr.ac.ru)
   - [eprintweb.org](http://eprintweb.org/) arXiv 的web前端介面
-  - [Scientillion: arXiv搜索引擎](https://www.scientillion.com/)
+  - [Scientillion:
+    arXiv搜索引擎](https://web.archive.org/web/20151127013648/https://www.scientillion.com/)
 
 [Category:數字圖書館](https://zh.wikipedia.org/wiki/Category:數字圖書館 "wikilink")
 [Category:开放科学](https://zh.wikipedia.org/wiki/Category:开放科学 "wikilink")

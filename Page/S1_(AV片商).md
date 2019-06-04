@@ -61,93 +61,81 @@ AVC活動中心，最早的女優有[蒼井空](../Page/蒼井空.md "wikilink")
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>★</p></td>
-<td><p><a href="../Page/吉澤明步.md" title="wikilink">吉澤明步</a></p></td>
-<td></td>
-<td><p>2007年1月7日</p></td>
-</tr>
-<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="../Page/夢乃愛華.md" title="wikilink">夢乃愛華</a></p></td>
 <td></td>
 <td><p>2013年5月7日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/星野娜美.md" title="wikilink">星野娜美</a></p></td>
 <td></td>
 <td><p>2013年8月7日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/奥田咲.md" title="wikilink">奥田咲</a></p></td>
 <td></td>
 <td><p>2013年8月19日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="../Page/天使萌.md" title="wikilink">天使萌</a></p></td>
 <td></td>
 <td><p>2014年7月7日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/小島南" title="wikilink">小島南</a></p></td>
 <td></td>
 <td><p>2014年3月19日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="../Page/葵_(AV女優).md" title="wikilink">葵</a></p></td>
 <td></td>
 <td><p>2014年10月8日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/葵司.md" title="wikilink">葵司</a></p></td>
 <td></td>
 <td><p>2015年6月19日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="../Page/橋本有菜.md" title="wikilink">橋本有菜</a></p></td>
 <td></td>
 <td><p>2016年3月19日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>◆</p></td>
 <td><p><a href="../Page/羽咲美晴.md" title="wikilink">羽咲美晴</a></p></td>
 <td></td>
 <td><p>2016年6月7日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>◆</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/三上悠亜" title="wikilink">三上悠亜</a></p></td>
 <td></td>
 <td><p>2016年11月19日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>☆</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吉高寧寧" title="wikilink">吉高寧寧</a></p></td>
 <td></td>
 <td><p>2017年9月1日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/架乃由羅" title="wikilink">架乃由羅</a></p></td>
 <td></td>
 <td><p>2017年11月19日</p></td>
 </tr>
-<tr class="even">
-<td><p>|<a href="../Page/彩美旬果.md" title="wikilink">彩美旬果</a></p></td>
-<td></td>
-<td><p>2018年5月7日</p></td>
-<td><p>從<a href="../Page/PRESTIGE.md" title="wikilink">PRESTIGE移籍</a>。</p></td>
-</tr>
 <tr class="odd">
 <td><p>☆</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/坂道美琉" title="wikilink">坂道美琉</a></p></td>
-<td><p>出生年月日不明</p></td>
+<td></td>
 <td><p>2018年8月19日</p></td>
 </tr>
 <tr class="even">
@@ -161,6 +149,48 @@ AVC活動中心，最早的女優有[蒼井空](../Page/蒼井空.md "wikilink")
 <td><p><a href="../Page/星宮一花.md" title="wikilink">星宮一花</a></p></td>
 <td></td>
 <td><p>2018年10月19日</p></td>
+</tr>
+<tr class="even">
+<td><p>☆</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/畑芽衣" title="wikilink">畑芽衣</a></p></td>
+<td></td>
+<td><p>2018年12月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>☆</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/乾立夏" title="wikilink">乾立夏</a></p></td>
+<td><p>出生年月日不明</p></td>
+<td><p>2019年1月7日</p></td>
+</tr>
+<tr class="even">
+<td><p>☆</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/乃木瑩" title="wikilink">乃木瑩</a></p></td>
+<td></td>
+<td><p>2019年2月7日</p></td>
+</tr>
+<tr class="odd">
+<td><p>☆</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/伊賀真子" title="wikilink">伊賀真子</a></p></td>
+<td></td>
+<td><p>2019年3月19日</p></td>
+</tr>
+<tr class="even">
+<td><p>☆</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/筧純" title="wikilink">筧純</a></p></td>
+<td></td>
+<td><p>2019年4月7日</p></td>
+</tr>
+<tr class="odd">
+<td><p>☆</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/逢見梨花" title="wikilink">逢見梨花</a></p></td>
+<td></td>
+<td><p>2019年4月19日</p></td>
+</tr>
+<tr class="even">
+<td><p>☆</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/泉百合" title="wikilink">泉百合</a></p></td>
+<td><p>出生年月日不明</p></td>
+<td><p>2019年6月7日</p></td>
 </tr>
 </tbody>
 </table>
@@ -879,8 +909,44 @@ AVC活動中心，最早的女優有[蒼井空](../Page/蒼井空.md "wikilink")
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>★</p></td>
+<td><p><a href="../Page/吉澤明步.md" title="wikilink">吉澤明步</a></p></td>
+<td></td>
+<td><p>2007年1月7日</p></td>
+</tr>
+<tr class="even">
+<td><p>☆</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/秋月まりん" title="wikilink">秋月まりん</a></p></td>
+<td></td>
+<td><p>2007年1月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>☆</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/綾瀬ひめ" title="wikilink">綾瀬ひめ</a></p></td>
+<td></td>
+<td><p>2007年2月7日</p></td>
+</tr>
+<tr class="even">
+<td><p>★</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/安西あき" title="wikilink">安西あき</a></p></td>
+<td></td>
+<td><p>2007年2月7日</p></td>
+</tr>
+<tr class="odd">
+<td><p>☆</p></td>
+<td><p><a href="../Page/若宮莉那.md" title="wikilink">若宮莉那</a></p></td>
+<td></td>
+<td><p>2007年2月7日</p></td>
+</tr>
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛玲" title="wikilink">愛玲</a></p></td>
+<td></td>
+<td><p>2007年2月19日</p></td>
+</tr>
+<tr class="odd">
+<td><p>☆</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美優千奈" title="wikilink">美優千奈</a></p></td>
 <td></td>
 <td><p>2007年2月19日</p></td>
 </tr>
@@ -892,33 +958,9 @@ AVC活動中心，最早的女優有[蒼井空](../Page/蒼井空.md "wikilink")
 </tr>
 <tr class="odd">
 <td><p>☆</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/秋月まりん" title="wikilink">秋月まりん</a></p></td>
-<td></td>
-<td><p>2007年1月19日</p></td>
-</tr>
-<tr class="even">
-<td><p>☆</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/綾瀬ひめ" title="wikilink">綾瀬ひめ</a></p></td>
-<td></td>
-<td><p>2007年2月7日</p></td>
-</tr>
-<tr class="odd">
-<td><p>★</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/安西あき" title="wikilink">安西あき</a></p></td>
-<td></td>
-<td><p>2007年2月7日</p></td>
-</tr>
-<tr class="even">
-<td><p>☆</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/岩佐めい" title="wikilink">岩佐めい</a></p></td>
 <td></td>
 <td><p>2007年4月7日</p></td>
-</tr>
-<tr class="odd">
-<td><p>☆</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/来未エリカ" title="wikilink">来未エリカ</a></p></td>
-<td></td>
-<td><p>2007年11月19日</p></td>
 </tr>
 <tr class="even">
 <td><p>★</p></td>
@@ -928,51 +970,27 @@ AVC活動中心，最早的女優有[蒼井空](../Page/蒼井空.md "wikilink")
 </tr>
 <tr class="odd">
 <td><p>☆</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/麻倉ジェシカ" title="wikilink">麻倉ジェシカ</a></p></td>
+<td></td>
+<td><p>2007年4月19日</p></td>
+</tr>
+<tr class="even">
+<td><p>☆</p></td>
 <td><p><a href="../Page/霞理沙.md" title="wikilink">霞理沙</a></p></td>
 <td></td>
 <td><p>2007年6月19日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>☆</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/夏川亜咲" title="wikilink">夏川亜咲</a></p></td>
 <td></td>
 <td><p>2007年7月7日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="../Page/七海.md" title="wikilink">七海</a></p></td>
 <td></td>
 <td><p>2007年7月19日</p></td>
-</tr>
-<tr class="even">
-<td><p>☆</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/麻倉ジェシカ" title="wikilink">麻倉ジェシカ</a></p></td>
-<td></td>
-<td><p>2007年4月19日</p></td>
-</tr>
-<tr class="odd">
-<td><p>☆</p></td>
-<td><p><a href="../Page/花井美沙.md" title="wikilink">花井美沙</a></p></td>
-<td></td>
-<td><p>2007年11月7日</p></td>
-</tr>
-<tr class="even">
-<td><p>☆</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/初音實" title="wikilink">初音實</a></p></td>
-<td></td>
-<td><p>2007年11月7日</p></td>
-</tr>
-<tr class="odd">
-<td><p>☆</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/浜名優衣" title="wikilink">浜名優衣</a></p></td>
-<td></td>
-<td><p>2007年10月19日</p></td>
-</tr>
-<tr class="even">
-<td><p>☆</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/藤倉れいみ" title="wikilink">藤倉れいみ</a></p></td>
-<td></td>
-<td><p>2007年8月7日</p></td>
 </tr>
 <tr class="odd">
 <td><p>☆</p></td>
@@ -982,27 +1000,27 @@ AVC活動中心，最早的女優有[蒼井空](../Page/蒼井空.md "wikilink")
 </tr>
 <tr class="even">
 <td><p>☆</p></td>
-<td><p><a href="../Page/岬里沙.md" title="wikilink">岬リサ</a></p></td>
-<td></td>
-<td><p>2007年10月7日</p></td>
-</tr>
-<tr class="odd">
-<td><p>☆</p></td>
 <td><p><a href="../Page/水城奈緒.md" title="wikilink">水城奈緒</a></p></td>
 <td></td>
 <td><p>2007年7月19日</p></td>
 </tr>
+<tr class="odd">
+<td><p>☆</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/藤倉れいみ" title="wikilink">藤倉れいみ</a></p></td>
+<td></td>
+<td><p>2007年8月7日</p></td>
+</tr>
 <tr class="even">
+<td><p>★</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/夢見ほのか" title="wikilink">夢見ほのか</a></p></td>
+<td></td>
+<td><p>2007年8月7日</p></td>
+</tr>
+<tr class="odd">
 <td><p>　</p></td>
 <td><p><a href="../Page/朝美穗香.md" title="wikilink">朝美穗香</a></p></td>
 <td></td>
 <td><p>2007年8月19日</p></td>
-</tr>
-<tr class="odd">
-<td><p>☆</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/美優千奈" title="wikilink">美優千奈</a></p></td>
-<td></td>
-<td><p>2007年2月19日</p></td>
 </tr>
 <tr class="even">
 <td><p>☆</p></td>
@@ -1017,22 +1035,40 @@ AVC活動中心，最早的女優有[蒼井空](../Page/蒼井空.md "wikilink")
 <td><p>2007年9月19日</p></td>
 </tr>
 <tr class="even">
-<td><p>★</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/夢見ほのか" title="wikilink">夢見ほのか</a></p></td>
+<td><p>☆</p></td>
+<td><p><a href="../Page/岬里沙.md" title="wikilink">岬リサ</a></p></td>
 <td></td>
-<td><p>2007年8月7日</p></td>
+<td><p>2007年10月7日</p></td>
+</tr>
+<tr class="odd">
+<td><p>☆</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/浜名優衣" title="wikilink">浜名優衣</a></p></td>
+<td></td>
+<td><p>2007年10月19日</p></td>
+</tr>
+<tr class="even">
+<td><p>☆</p></td>
+<td><p><a href="../Page/花井美沙.md" title="wikilink">花井美沙</a></p></td>
+<td></td>
+<td><p>2007年11月7日</p></td>
+</tr>
+<tr class="odd">
+<td><p>☆</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/初音實" title="wikilink">初音實</a></p></td>
+<td></td>
+<td><p>2007年11月7日</p></td>
+</tr>
+<tr class="even">
+<td><p>☆</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/来未エリカ" title="wikilink">来未エリカ</a></p></td>
+<td></td>
+<td><p>2007年11月19日</p></td>
 </tr>
 <tr class="odd">
 <td><p>☆</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吉野さくら" title="wikilink">吉野さくら</a></p></td>
 <td></td>
 <td><p>2007年12月7日</p></td>
-</tr>
-<tr class="even">
-<td><p>☆</p></td>
-<td><p><a href="../Page/若宮莉那.md" title="wikilink">若宮莉那</a></p></td>
-<td></td>
-<td><p>2007年2月7日</p></td>
 </tr>
 </tbody>
 </table>
@@ -2088,6 +2124,12 @@ AVC活動中心，最早的女優有[蒼井空](../Page/蒼井空.md "wikilink")
 <td><p>2018年4月19日</p></td>
 </tr>
 <tr class="odd">
+<td><p>|<a href="../Page/彩美旬果.md" title="wikilink">彩美旬果</a></p></td>
+<td></td>
+<td><p>2018年5月7日</p></td>
+<td><p>單體13部，從<a href="../Page/PRESTIGE.md" title="wikilink">PRESTIGE移籍</a>，2019年3月AV引退。</p></td>
+</tr>
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="../Page/音梓.md" title="wikilink">音梓</a></p></td>
 <td><p>出生年月日不明</p></td>

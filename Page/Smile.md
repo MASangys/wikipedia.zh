@@ -54,6 +54,9 @@
 
 ## 公司
 
+  - [SMILE CO.,
+    LTD.](https://zh.wikipedia.org/wiki/SMILE_CO.,_LTD. "wikilink") -
+    中国数字视频内容软件公司。
   - [Smile
     Company](https://zh.wikipedia.org/wiki/Smile_Company "wikilink") -
     日本音樂製作公司。
@@ -65,7 +68,7 @@
   - [SMILES](https://zh.wikipedia.org/wiki/SMILES "wikilink") -
     一種用[ASCII字元串明確描述分子結構的規範](../Page/ASCII.md "wikilink")。
 
-  - [太阳风－磁层相互作用全景成像卫星](../Page/太阳风－磁层相互作用全景成像卫星.md "wikilink") -
+  - [太阳风－磁层相互作用全景成像卫星](../Page/太阳风－磁层相互作用全景成像卫星.md "wikilink")（） -
     欧洲空间局与中国科学院计划中的合作空间探测项目。
 
   - \-

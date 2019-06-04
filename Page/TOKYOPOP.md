@@ -30,7 +30,7 @@ comic等](https://zh.wikipedia.org/wiki/film_comic "wikilink")。
 ## 參考資料
 
   - [Tokyopop discusses the consequence of Borders' bankruptcy on
-    publishers](http://asiapacificarts.usc.edu/w_apa/showarticle.aspx?articleID=16492&AspxAutoDetectCookieSupport=1)
+    publishers](https://web.archive.org/web/20140912204210/http://asiapacificarts.usc.edu/w_apa/showarticle.aspx?articleID=16492&AspxAutoDetectCookieSupport=1)
   - [Tokyopop Splits into Two
     Companies](http://www.icv2.com/articles/news/12677.html)
   - [Manga Publisher Tokyopop Lays Off Eight More

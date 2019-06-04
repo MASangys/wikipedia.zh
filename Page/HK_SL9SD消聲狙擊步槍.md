@@ -3,7 +3,7 @@ SL9SD**（；SD，，意為：[消聲器](../Page/抑制器.md "wikilink")）是
 G36改造而成的](../Page/HK_G36突擊步槍.md "wikilink")[半自動民用運動型步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")—[SL8的](../Page/HK_SL8半自動步槍.md "wikilink")7.62毫米[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。發射其專屬的[7.62×37毫米](https://zh.wikipedia.org/wiki/7.62×37mm "wikilink")[亞音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[步槍](https://zh.wikipedia.org/wiki/步槍 "wikilink")[子彈](../Page/子彈.md "wikilink")，並且以10發特製可拆卸式[彈匣用作供彈方式](../Page/彈匣.md "wikilink")。
 
 由於HK SL9是HK SL8的狙擊型版本（而HK SL8是HK
-G36突擊步槍的半自動民用型版本），因此亦使用來自G36的[短行程活塞氣動式](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#活塞原理 "wikilink")、[斯通納式轉拴式槍機](../Page/滾轉式槍機.md "wikilink")、類似[M16步槍的氣環活塞糸统及單導桿設計](../Page/M16突擊步槍.md "wikilink")（而G36的氣動式和轉拴式槍機皆由[AR-18所衍生而來](../Page/AR-18突擊步槍.md "wikilink")），與最早期由黑克勒-科赫製所生產的槍械所使用的[滾輪延遲反衝式](https://zh.wikipedia.org/wiki/滾輪延遲反衝式 "wikilink")（）系統相反。
+G36突擊步槍的半自動民用型版本），因此亦使用來自G36的[短行程活塞氣動式](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#活塞原理 "wikilink")、[斯通納式轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")、類似[M16步槍的氣環活塞糸统及單導桿設計](../Page/M16突擊步槍.md "wikilink")（而G36的氣動式和轉拴式槍機皆由[AR-18所衍生而來](../Page/AR-18突擊步槍.md "wikilink")），與最早期由黑克勒-科赫製所生產的槍械所使用的[滾輪延遲反衝式](https://zh.wikipedia.org/wiki/滾輪延遲反衝式 "wikilink")（）系統相反。
 
 ## 概述
 

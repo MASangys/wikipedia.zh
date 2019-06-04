@@ -1,7 +1,8 @@
 *'
-MBC月火連續劇*'（）是[文化廣播在](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[韓國時間星期一](https://zh.wikipedia.org/wiki/韓國時間 "wikilink")、二晚間22:00播出的電視劇。特色節目是每年創社紀念連續劇[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[時代劇在韓國國內有高收視率的佳績而且海外播出也有廣受好評](https://zh.wikipedia.org/wiki/時代劇 "wikilink")，例如《[大長今](../Page/大長今_\(電視劇\).md "wikilink")》、《[伊甸園之東](https://zh.wikipedia.org/wiki/伊甸園之東 "wikilink")》、《[同伊](../Page/同伊.md "wikilink")》帶動觀眾接觸韓國文化。
+MBC月火連續劇**（）是[文化廣播在](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[韓國時間星期一](https://zh.wikipedia.org/wiki/韓國時間 "wikilink")、二晚間22:00播出的電視劇。特色節目是每年創社紀念連續劇[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[時代劇在韓國國內有高收視率的佳績而且海外播出也有廣受好評](https://zh.wikipedia.org/wiki/時代劇 "wikilink")，例如《[大長今](../Page/大長今_\(電視劇\).md "wikilink")》、《[伊甸園之東](https://zh.wikipedia.org/wiki/伊甸園之東 "wikilink")》、《[同伊](../Page/同伊.md "wikilink")》帶動觀眾接觸韓國文化。在2011年7月至2018年3月間，此時段播放的電視劇皆以「**月火特別計劃**」（**월화
+특별기획*'）為名。
 
-MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視率及收益皆處於前列位置。但自該年起，MBC月火劇的收視率開始下跌，更在2017年起成為三大無線電視台中收視最差的月火劇時段。同時，電視台內部人士亦指此時段亦開始虧蝕數十億韓元。因此，MBC在四月末決定廢除此劇集時段。\[1\]
+MBC為韓國首創月火劇時段的電視台，劇集收視率及收益皆處於前列位置。但自2015年該年起，MBC月火劇的收視率開始下跌，更在2017年起成為三大無線電視台中收視最差的月火劇時段。同時，電視台內部人士亦指此時段亦開始虧蝕數十億韓元。因此，MBC於2019年6月3日起播出的《[檢法男女2](../Page/檢法男女2.md "wikilink")》開始將此時段前移1小時(21:00)播出，試圖改變收視不振的現象。\[1\]
 
 ## 電視劇列表
 
@@ -1620,12 +1621,23 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 <tr class="even">
 <td style="text-align: center;"><p>2019年7月29日－<br />
 2019年9月17日</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/反正是第二次的人生" title="wikilink">反正是第二次的人生</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/Welcome_2_life" title="wikilink">Welcome 2 life</a><br />
+</p></td>
+<td style="text-align: center;"><p>32</p></td>
+<td style="text-align: center;"><p><a href="../Page/Rain.md" title="wikilink">Rain</a>、<a href="../Page/林智妍.md" title="wikilink">林智妍</a>、<a href="../Page/郭時暘.md" title="wikilink">郭時暘</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金根洪" title="wikilink">金根洪</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/柳熙京" title="wikilink">柳熙京</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2019年9月23日－<br />
+2019年月日</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/有瑕疵的人們" title="wikilink">有瑕疵的人們</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金根洪" title="wikilink">金根洪</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/柳熙京" title="wikilink">柳熙京</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳振碩" title="wikilink">吳振碩</a></p></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -1651,7 +1663,6 @@ MBC為韓國首創月火劇時段的電視台，在2015年之前的劇集收視�
 [Category:韓國電視台電視劇列表](https://zh.wikipedia.org/wiki/Category:韓國電視台電視劇列表 "wikilink")
 [Category:韓國電視劇播放時段](https://zh.wikipedia.org/wiki/Category:韓國電視劇播放時段 "wikilink")
 
-1.  ['드라마왕국' MBC의 몰락?… '월화드라마' 40년만에 전격
-    폐지](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=102&oid=023&aid=0003441955)，朝鮮日報，2019-04-25
+1.
 2.  [20세기 소년소녀, 27-28일 오후 8시 50분 편성…28일
     종영](http://tenasia.hankyung.com/archives/1347258)，텐아시아，2017-11-20

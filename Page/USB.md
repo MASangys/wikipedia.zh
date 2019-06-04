@@ -247,52 +247,52 @@ Mini USB连接器触点
 
 USB使用NRZI编码方式：当数据为0时，电平翻转；数据为1时，电平不翻转。为了防止出现过长时间电平不变化现象，在发送数据时采用位填充处理。具体过程如下：当遇见连续6个高电平时，就强制插入一个0。经过位填充后的数据由串行接口引擎（SIE）将数据串行化和NRZI编码后，发送到USB的差分数据线上。接收端完成的过程和发送端刚好相反。
 
-### 软件架构
+### 軟體架構
 
 [PCB_mounting_female_USB_A_and_B_connectors.jpg](https://zh.wikipedia.org/wiki/File:PCB_mounting_female_USB_A_and_B_connectors.jpg "fig:PCB_mounting_female_USB_A_and_B_connectors.jpg")上的USB插座\]\]
-一个USB主机通过hub链可以连接多个设备。由于理论上一个物理设备可以承担多种功能，例如[路由器同时也可以是一个](../Page/路由器.md "wikilink")[SD卡读卡器](../Page/SD卡.md "wikilink")，USB的术语中设备（device）指的是功能（functions）。集线器（hub）由于作用特殊，按照正式的观点并不认为是function。直接连接到主机的hub是根（root）hub。
+一個USB主機通過Hub鏈可以連接多個設備。由於理論上一個物理設備可以承担多種功能，例如[路由器同時也可以是一個](../Page/路由器.md "wikilink")[SD卡讀卡器](../Page/SD卡.md "wikilink")，USB的術語中設備(Device)指的是功能(Functions)。集線器(Hub)由於作用特殊，按照正式的觀點並不認為是Function。直接連接到主機的Hub是根(root)Hub。
 
-#### 端点
+#### 端點
 
-设备／功能（和集线器）与管道pipe（逻辑通道）联系在一起，管道把主机控制器和被称为端点[endpoint的逻辑实体连接起来](https://zh.wikipedia.org/wiki/endpoint "wikilink")。管道和比特流（例如[UNIX的](../Page/UNIX.md "wikilink")[pipeline](https://zh.wikipedia.org/wiki/pipeline "wikilink")）有着相同的含义，而在USB词汇中术语端点经常和管道混用，甚至在正式文档中。
+設備／功能（和集線器）與管道Pipe（邏輯通道）聯繫在一起，管道把主機控制器和被稱為端點[Endpoint的邏輯實體連結起來](https://zh.wikipedia.org/wiki/Endpoint "wikilink")。管道和比特流（例如[UNIX的](../Page/UNIX.md "wikilink")[Pipeline](https://zh.wikipedia.org/wiki/Pipeline "wikilink")）有著相同的含意，而在USB詞彙中術語端點經常和管道混用，甚至在正式文檔中。
 
-端点（和各自的管道）在每个方向上按照0-15编号，因此一个设备／功能最多有32个活动管道，16个进，16个出。（出（OUT）指离开控制器，而入（IN）指进入主机控制器。）两个方向的端点0总是留给总线管理，占用了32个端点中的2个。在管道中，数据使用不同长度的包传递，端点可以传递的包长度上限一般是\(2^n\)字节，所以USB包经常包含的数据量依次有8、16、32、64、128、256、512或者1024字节。
+端點（和各自的管道）在每個方向上按照0-15編號，因此一格設備／功能最多有32個活動管道，16個進，16個出。（出(OUT)指離開控制器，而入(IN)指進入主機控制器。）两個方向的端點0總是留給匯流排管理，占用了32個端點中的2個。在管道中，數據使用不同長度的包傳遞，端點可以傳遞的包長度上限一般是\(2^n\)字節，所以USB包經常包含的數據量依次有8、16、32、64、128、256、512或者1024字節。
 
-一个端点只能单向（进／出）传输数据，自然管道也是单向的。每个USB设备至少有两个端点／管道：它们分别是进出方向的，编号为0，用于[控制总线上的设备](https://zh.wikipedia.org/wiki/控制总线 "wikilink")。按照各自的传输类型，管道被分为4类：
+一個端點只能單向（進／出）傳輸數據，自然管道也是單向的。每個USB設備至少有两個端點／管道：他們分别是進出方向的，編號為0，用於[控制匯流排上的設備](https://zh.wikipedia.org/wiki/控制匯流排 "wikilink")。按照各自的傳輸類型，管道被分為4類：
 
-  - 控制传输（Control）——一般用于短的、简单的对设备的命令和状态反馈，例如用于总线控制的0号管道。
-  - 同步传输（Isochronous）——按照有保障的速度（可能但不必然是尽快地）传输，可能有数据丢失，例如实时的音频、视频。
-  - 中断传输（Interrupt）——用于必须保证尽快反应的设备（有限延迟），例如鼠标、键盘。
-  - 批量传输（Bulk）——使用余下的带宽大量地（但是没有对于延迟、连续性、带宽和速度的保证）传输数据，例如普通的文件传输。
+  - 控制傳輸(Control)——一般用於短的、簡單的對設備的命令和狀態反饋，例如用於匯流排控制的0號管道。
+  - 同步傳輸(Isochronous)——按照有保障的速度（可能但不必然是儘快地）傳輸，可能有數據丟失，例如實時的音頻、視頻。
+  - 中斷傳輸(Interrupt)——用於必須保證儘快反應的設備（有限延遲），例如滑鼠、鍵盤。
+  - 批量傳輸(Bulk)——使用餘下的帶寬大量地（但是沒有對於延遲、連續性、帶寬和速度的保證）傳輸數據，例如普通的文件傳輸。
 
-一旦设备（功能）通过总线的hub附加到主机控制器，主机控制器就给它分配一个主机上唯一的7位地址。主机控制器通过投票分配流量，一般是通过轮询模式，因此没有明确向主机控制器请求之前，设备不能传输数据。
+一旦設備（功能）通過匯流排的Hub附加到主機控制器，主機控制器就給它分配一個主機上唯一的7位地址。主機控制器通過投票分配流量，一般是通過輪詢模式，因此沒有明確向主機控制器請求之前，設備不能傳輸數據。
 
-为了访问端点，必须获得一个分层的配置。连接到主机的设备有且仅有一个设备描述符（device
-descriptor），而设备描述符有若干配置描述符（configuration
-descriptors）。这些配置一般与状态相对应，例如活跃和[节能模式](https://zh.wikipedia.org/wiki/电源管理 "wikilink")。每个配置描述符有若干接口描述符（interface
-setting），用于描述设备的一定方面，所以可以被用于不同的用途：如一个相机可能拥有视频和音频两个接口。接口描述符有一个缺省接口设置（default
-interface setting）和可能多个替代接口设置（alternate interface
-settings），它们都拥有如上所述的端点描述符。一个端点能够在多个接口和替代接口设置之间复用。
+為了訪問端點，必須獲得一個分層的配置。連接到主機的設備有且僅有一個設備描述符(Device
+Descriptor)，而設備描述符有若干配置描述符(Configuration
+Descriptors)。這些配置一般與狀態相對應，例如活躍和[節能模式](https://zh.wikipedia.org/wiki/電源管理 "wikilink")。每個配置描述符有若干接口描述符(Interface
+Setting)，用於描述設備的一定方面，所以可以被用於不同的用途：如一個相機可能擁有視頻和音頻兩個接口。接口描述符有一個缺省接口設置(Default
+Interface Setting)和可能多個替代接口設置(Alternate Interface
+Settings)，它們都擁有如上所述的端點描述符。一個端點能夠在多個接口和替代接口設置之間複用。
 
 #### HCD (Host Controller Driver)
 
-包含主机控制器和HUB的[硬件为程序员提供了由硬件实现定义的接口主机控制器设备](../Page/硬件.md "wikilink")（HCD）。而实际上它在计算机上就是[端口和](https://zh.wikipedia.org/wiki/端口 "wikilink")[内存映射](https://zh.wikipedia.org/wiki/内存映射 "wikilink")。
+包含主機控制器和HUB的[硬體為程序員提供了由硬體實現定義的接口主機控制器設備](https://zh.wikipedia.org/wiki/硬體 "wikilink")(HCD)。而實際上它在計算機上就是[埠和](https://zh.wikipedia.org/wiki/埠 "wikilink")[內存映射](https://zh.wikipedia.org/wiki/內存映射 "wikilink")。
 
-1.0和1.1的标准有两个竞争的HCD实现。[康柏的开放主机控制器接口](../Page/康柏.md "wikilink")（OHCI）和Intel的通用主机控制器接口（UHCI）。VIA[威盛采纳了UHCI](https://zh.wikipedia.org/wiki/威盛 "wikilink")；其他主要的芯片组多使用OHCI。它们的主要区别是UHCI更加依赖软件驱动，因此对CPU要求更高，但是自身的硬件会更廉价。它们的并存导致操作系统开发和硬件厂商都必须在两个方案上开发和测试，从而导致费用上升。因此USB-IF在USB
-2.0的设计阶段坚持只能有一个实现规范，这就是扩展主机控制器接口（EHCI）。因为EHCI只支持高速传输，所以EHCI控制器包括四个虚拟的全速或者慢速控制器。这里同样是Intel和Via使用虚拟UHCI，其他一般使用OHCI控制器。
+1.0和1.1的標準有两個競爭的HCD實現。[康柏的開放主機控制器接口](../Page/康柏.md "wikilink")(OHCI)和Intel的通用主機控制器接口(UHCI)。VIA[威盛採納了UHCI](https://zh.wikipedia.org/wiki/威盛 "wikilink")；其他主要的芯片組多使用OHCI。它們的主要區別是UHCI更加依賴軟體驅動，因此對CPU要求更高，但是自身的硬體會更廉價。它們的並存導致作業系統開發和硬體廠商都必須在兩個方案上開發和測試，從而導致費用上升。因此USB-IF在USB
+2.0的設計階段堅持只能有一個實現規範，這就是擴展主機控制器接口(EHCI)。因為EHCI只支持高速傳輸，所以EHCI控制器包括四個虛擬的全速或者慢速控制器。這裡同樣是Intel和Via使用虛擬UHCI，其他一般使用OHCI控制器。
 
-某些版本的[Windows上](https://zh.wikipedia.org/wiki/Windows "wikilink")，打开设备管理器，如果设备说明中是否有“增强”（"Enhanced"），就能够确认它是2.0版的。而在[Linux系统中](../Page/Linux.md "wikilink")，命令lspci能够列出所有的PCI设备，而USB会分别命名为OHCI、UHCI或者EHCI，列出为32位地址的为EHCI，16位的为OHCI。命令lsusb能够显示所有USB设备的信息。命令dmesg能够显示OS启动时关于USB设备的信息。
+某些版本的[Windows上](https://zh.wikipedia.org/wiki/Windows "wikilink")，打開設備管理器，如果設備說明中是否有「增強」("Enhanced")，就能夠確認它是2.0版的。而在[Linux系统中](../Page/Linux.md "wikilink")，命令lspci能夠列出所有的PCI設備，而USB會分別命名為OHCI、UHCI或者EHCI，列出為32位地址的為EHCI，16位的為OHCI。命令lsusb能夠顯示所有USB設備的訊息。命令dmesg能夠顯示OS啟動時關於USB設備的訊息。
 
 #### USB封包格式
 
-USB的封包格式和早期的互联网封包格式非常相似，要了解USB連接原理就一定要先了解封包格式。
+USB的封包格式和早期的網際網路封包格式非常相似，要了解USB連接原理就一定要先了解封包格式。
 
 <table>
 <caption>USB封包格式</caption>
 <thead>
 <tr class="header">
 <th><p>偏移量</p></th>
-<th><p>类型</p></th>
+<th><p>類型</p></th>
 <th><p>大小</p></th>
 <th><p>值</p></th>
 </tr>
@@ -302,19 +302,19 @@ USB的封包格式和早期的互联网封包格式非常相似，要了解USB�
 <td><p>0</p></td>
 <td><p>HeaderChksum</p></td>
 <td><p>1</p></td>
-<td><p>利用添加包头进行效验，不包括包头本身的校验。</p></td>
+<td><p>利用添加包頭進行效驗，不包括包頭本身的校驗。</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>HeaderSize</p></td>
 <td><p>1</p></td>
-<td><p>包头的大小，包括可用的字串。</p></td>
+<td><p>包頭的大小，包括可用的字串。</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>Signature</p></td>
 <td><p>2</p></td>
-<td><p>数据值为0x1234</p></td>
+<td><p>數據值為0x1234</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -326,93 +326,93 @@ USB的封包格式和早期的互联网封包格式非常相似，要了解USB�
 <td><p>6</p></td>
 <td><p>ProductID</p></td>
 <td><p>2</p></td>
-<td><p>USB产品ID</p></td>
+<td><p>USB產品ID</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
 <td><p>ProductVersion</p></td>
 <td><p>1</p></td>
-<td><p>产品版本号</p></td>
+<td><p>產品版本號</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>FirmwareVersion</p></td>
 <td><p>1</p></td>
-<td><p>固件版本号</p></td>
+<td><p>固件版本號</p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
-<td><p>USB属性</p></td>
+<td><p>USB屬性</p></td>
 <td><p>1</p></td>
 <td><p>USB Attribute:<br />
-Bit 0：如果设为1，包头包括以下三个字串：语言、制造商、产品字串；如果设为0，包头不包括任何字串。<br />
-Bit 2：如果设为1，设备自带电源；如果设为0，无自带电源。<br />
-Bit 3：如果设为1，设备可以通过总线供电；如果设为0，无法通过总线供电。<br />
+Bit 0：如果設為1，包頭包括以下三個字串：語言、製造商、產品字串；如果設為0，包頭不包括任何字串。<br />
+Bit 2：如果設為1，設備自帶電源；如果設為0，無自帶電源。<br />
+Bit 3：如果設為1，設備可以通過匯流排供電；如果設為0，無法通過匯流排供電。<br />
 Bits 1 and 4—7：保留。</p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
-<td><p>最大电力</p></td>
+<td><p>最大電力</p></td>
 <td><p>1</p></td>
-<td><p>设备需要的最大电力，以2mA（毫<a href="../Page/安培.md" title="wikilink">安培</a>）为单位。</p></td>
+<td><p>設備需要的最大電力，以2mA（毫<a href="../Page/安培.md" title="wikilink">安培</a>）為單位。</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td><p>设备属性</p></td>
+<td><p>設備屬性</p></td>
 <td><p>1</p></td>
 <td><p>Device Attributes:<br />
-Bit 0：如果设为1，CPU运行在24 MHz；如果设为0，CPU运行在12 MHz。<br />
-Bit 3：如果设为1，设备的EEPROM可以支持400 MHz；如果设为0，不支持400 MHz。<br />
+Bit 0：如果設為1，CPU運行在24 MHz；如果設為0，CPU運行在12 MHz。<br />
+Bit 3：如果設為1，設備的EEPROM可以支持400 MHz；如果設為0，不支持400 MHz。<br />
 Bits 1, 2 and 4 ... 7：保留。</p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
 <td><p>WPageSize</p></td>
 <td><p>1</p></td>
-<td><p>I2C的最大写入页面大小</p></td>
+<td><p>I2C的最大寫入頁面大小</p></td>
 </tr>
 <tr class="even">
 <td><p>14</p></td>
-<td><p>数据类型</p></td>
+<td><p>數據類型</p></td>
 <td><p>1</p></td>
-<td><p>该数值定义设备是软件EEPROM还是硬件EEPROM。0x02：硬件EEPROM<br />
-其它数值无效。</p></td>
+<td><p>該數值定義設備是軟體EEPROM還是硬體EEPROM。0x02：硬體EEPROM<br />
+其它數值無效。</p></td>
 </tr>
 <tr class="odd">
 <td><p>15</p></td>
 <td><p>RpageSize</p></td>
 <td><p>1</p></td>
-<td><p>I2C最大读取页面大小。如果值为0，整个负载大小由一个I2C读取装置读取。</p></td>
+<td><p>I2C最大讀取頁面大小。如果值為0，整個負載大小由一個I2C讀取裝置讀取。</p></td>
 </tr>
 <tr class="even">
 <td><p>16</p></td>
 <td><p>PayLoadSize</p></td>
 <td><p>2</p></td>
-<td><p>如果将EEPROM作为软件EEPROM使用，表示软件的大小；除此之外该值都是0。</p></td>
+<td><p>如果將EEPROM作為軟體EEPROM使用，表示軟體的大小；除此之外該值都是0。</p></td>
 </tr>
 <tr class="odd">
 <td><p>0xxx</p></td>
 <td><p>Language string</p></td>
 <td><p>4</p></td>
-<td><p>语言字串。以标准USB字串格式表示。（非必要欄位）</p></td>
+<td><p>語言字串。以標準USB字串格式表示。（非必要欄位）</p></td>
 </tr>
 <tr class="even">
 <td><p>0xxx</p></td>
 <td><p>Manufacture string</p></td>
 <td><p>...</p></td>
-<td><p>制造商字串。以标准USB字串格式表示。（非必要欄位）</p></td>
+<td><p>製造商字串。以標準USB字串格式表示。（非必要欄位）</p></td>
 </tr>
 <tr class="odd">
 <td><p>0xxx</p></td>
 <td><p>Product string</p></td>
 <td><p>...</p></td>
-<td><p>产品字串，以标准USB字串格式表示。（非必要欄位）</p></td>
+<td><p>產品字串，以標準USB字串格式表示。（非必要欄位）</p></td>
 </tr>
 <tr class="even">
 <td><p>0xxx</p></td>
 <td><p>Application Code</p></td>
 <td><p>...</p></td>
-<td><p>表示应用代码。以标准USB字串格式表示。（非必要欄位）</p></td>
+<td><p>表示應用代碼。以標準USB字串格式表示。（非必要欄位）</p></td>
 </tr>
 </tbody>
 </table>
@@ -880,13 +880,13 @@ USB没有完全取代[AT键盘接口和](https://zh.wikipedia.org/wiki/AT键盘�
 
 ### USB 1.0
 
-  - USB 1.0：1996年1月发布。
-    數據傳輸速率為1.5Mbit/s（Low-Speed）。无预测及通过检测功能。只有极少数的此类设备出现在市场上。
+USB 1.0：1996年1月發布。
+數據傳輸速率為1.5Mbit/s(Low-Speed)。無預測及通過檢測功能。僅極少數出現在市場上。
 
 ### USB 1.1
 
-  - USB 1.1：1998年9月发布。
-    修正1.0版已發現的問題，大部分是關於USB Hubs。最早被采用的修订版。數據傳輸速率為12Mbit/s（Full-Speed）
+USB 1.1：1998年9月发布。
+修正1.0版已發現的問題，大部分是關於USB Hubs。最早被采用的修订版。數據傳輸速率為12Mbit/s（Full-Speed）。
 
 ### USB 2.0
 
@@ -924,7 +924,7 @@ USB没有完全取代[AT键盘接口和](https://zh.wikipedia.org/wiki/AT键盘�
 ### USB 3.0（USB 3.2 Gen1）
 
 [SuperSpeed_USB.svg](https://zh.wikipedia.org/wiki/File:SuperSpeed_USB.svg "fig:SuperSpeed_USB.svg")
- USB 3.0于2008年11月发布，速度由480Mbps大幅提升到5Gbps。USB 3.0插座通常是藍色的，並向下兼容USB 2.0。
+ USB 3.0於2008年11月發布，速度由480Mbps大幅提升到5Gbps。USB 3.0插座通常是藍色的，並向下兼容USB 2.0。
 
 ### USB 3.1（USB 3.2 Gen2）
 
@@ -940,16 +940,14 @@ USB 3.2的主要技術要點：
 2，繼續使用現有的超高速USB物理傳輸率和技術
 3，一些小的規範更新，確保單雙通道無縫切換。
 
-速度方面，使用USB 3.2主機連接USB 3.2儲存設備，可以實現兩條通道10Gb /s 的傳輸速度，理論上也就是相當接近於 20Gb /s。
+速度方面，使用USB 3.2主機連接USB 3.2儲存設備，可以實現兩條通道10Gb/s的傳輸速度，理論上也就是相當接近於20Gb/s。
 
-據悉，USB 3.2因為要求集成USB 2.0和USB 3.1主控，所以完全向下兼容。 另外，從USB
+據悉，USB 3.2因為要求集成USB 2.0和USB 3.1主控，所以完全向下兼容。另外，從USB
 3.2開始，Type-C將成為唯一推薦的接口方案。
-
-
 
 ### USB 4.0
 
-USB 4的規格目前尚未确定，但是部分已經先宣布：\[20\]
+USB 4的規格目前尚未确定，但是已有開發公司先行宣布：\[20\]
 
 採用Thunderbolt協定規格，使Thunderbolt 3裝置將能相容於USB 4，現有3.2及2.0也向下兼容。
 
@@ -1010,7 +1008,7 @@ Delivery是[USB開發者論壇在](../Page/USB開發者論壇.md "wikilink")2012
     NutShell](https://web.archive.org/web/20051004064417/http://www.beyondlogic.org/usbnutshell/usb-in-a-nutshell.pdf)
     - 开发入门
   - [通用主机控制器接口（UHCI）](http://developer.intel.com/technology/usb/uhci11d.htm)
-  - [USB產品認證](http://www.usb.org/developers/compliance/)，與[認證測試實驗室](http://www.usb.org/developers/compliance/labs/)
+  - [USB產品認證](http://www.usb.org/developers/compliance/)，與[認證測試實驗室](https://web.archive.org/web/20070921193546/http://www.usb.org/developers/compliance/labs/)
 
 ## 参见
 

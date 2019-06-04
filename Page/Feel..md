@@ -101,7 +101,7 @@ Pierrot](../Page/Studio_Pierrot.md "wikilink")（今：Pierrot）的製作人瀧
 <td><p>2018年</p></td>
 <td><p><a href="../Page/極道超女.md" title="wikilink">極道超女</a></p></td>
 <td></td>
-<td><p>4月6日－</p></td>
+<td><p>4月6日－6月22日</p></td>
 <td><p>及川啟</p></td>
 <td><p>漫畫</p></td>
 <td></td>

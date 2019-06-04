@@ -212,7 +212,7 @@ disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《****》於2006年1月
   - 協力：[Broccoli](../Page/Broccoli.md "wikilink")
   - 製作人：川上龍太郎（IMAGICA）、吉沼忍（Media Factory）、伊藤善之（Lantis）
   - 動畫製作人：岩佐岳
-  - 動畫製作：OLM TEAM IWASA
+  - 動畫製作：[OLM TEAM IWASA](../Page/OLM.md "wikilink")
 
 ### 主題曲
 

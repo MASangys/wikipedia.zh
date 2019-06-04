@@ -235,13 +235,4 @@ E级核潜艇由于属于苏联早期设计的核潜艇，由此也成为了事�
   - The Encyclopedia Of Warships, From World War 2 To The Present Day,
     General Editor Robert Jackson.
 
-[cs:Projekt
-659](https://zh.wikipedia.org/wiki/cs:Projekt_659 "wikilink")
-[fi:Projekti
-659](https://zh.wikipedia.org/wiki/fi:Projekti_659 "wikilink")
-[pl:Okręty podwodne projektu
-659](https://zh.wikipedia.org/wiki/pl:Okręty_podwodne_projektu_659 "wikilink")
-[ru:Подводные лодки проекта
-675](https://zh.wikipedia.org/wiki/ru:Подводные_лодки_проекта_675 "wikilink")
-
 [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")

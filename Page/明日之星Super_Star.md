@@ -163,7 +163,8 @@ Star》最大的特色，便是獨有的「選手村」制度。通過試唱以�
   - [潘佩莉](../Page/潘佩莉.md "wikilink")【幸福的家伙】、【美麗的邀請】
   - [許富凱](../Page/許富凱.md "wikilink")【最愛】、【寫乎你的歌】、【故鄉的門口埕】、【一寸真心】、【少年夢】、【等無愛】、【縫夢】、【我毋是你想的遐爾快樂】
   - [陳怡婷](../Page/陳怡婷.md "wikilink")【愛情的網】、【愛情的滋味】、【孤戀花開】、【牡丹情】、【命中註定你一個】
-  - [曾瑋中](../Page/曾瑋中.md "wikilink")【明日之星 台灣好聲音】、【明日三少／我們】、【紅塵來來去去】、【勇士】
+  - [曾瑋中](../Page/曾瑋中.md "wikilink")【明日之星
+    台灣好聲音】、【明日三少／我們】、【紅塵來來去去】、【勇士】、【毋通】
   - [林孟宗](../Page/林孟宗.md "wikilink")【明日之星 台灣好聲音】、【明日三少／我們】、【相思伴月】
   - [丁姵均](https://zh.wikipedia.org/wiki/丁姵均 "wikilink")【明日之星 台灣好聲音】、【青春】
   - [杜忻恬](https://zh.wikipedia.org/wiki/杜忻恬_\(台灣歌手\) "wikilink")【兩人份】、【該忘記的忘不記】、【無重力】、【一個人愛著】
@@ -302,14 +303,14 @@ Star》最大的特色，便是獨有的「選手村」制度。通過試唱以�
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第30屆金曲獎" title="wikilink">第30屆金曲獎</a></p></td>
+<td><p><a href="../Page/許富凱.md" title="wikilink">許富凱</a></p></td>
+<td><p><a href="../Page/最佳台語男歌手獎_(金曲獎).md" title="wikilink">最佳台語男歌手獎</a></p></td>
+<td><p>《我毋是你想的遐爾快樂》</p></td>
+<td><p>時代創藝</p></td>
+<td><p>待定</p></td>
+<td><p>六度入圍</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,8 +1,9 @@
-**Wi-Fi聯盟**（，簡稱），是一個商業聯盟，擁有[Wi-Fi的](../Page/Wi-Fi.md "wikilink")[商標](https://zh.wikipedia.org/wiki/商標 "wikilink")。它負責Wi-Fi認證，與商標授權的工作，總部位於美國[德克薩斯州](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[奧斯汀](../Page/奧斯汀.md "wikilink")（Austin）。
+[WiFi_Logo.svg](https://zh.wikipedia.org/wiki/File:WiFi_Logo.svg "fig:WiFi_Logo.svg")商標\]\]
+**Wi-Fi聯盟**（，縮寫），是一個商業聯盟，擁有[Wi-Fi的](../Page/Wi-Fi.md "wikilink")[商標](https://zh.wikipedia.org/wiki/商標 "wikilink")。它負責Wi-Fi認證，与商標授權的工作，也负责制定Wi-Fi的标准，總部位於美國[德克薩斯州首府](https://zh.wikipedia.org/wiki/德克薩斯州 "wikilink")[奧斯汀](../Page/奧斯汀.md "wikilink")（Austin）。
 
 ## 歷史
 
-1999年，為了推動IEEE 802.11b規格的制定，組成了無線乙太網路相容性聯盟（，縮寫為）。
+1999年，為了推動IEEE 802.11b規格的制定，組成了**無線乙太網路相容性聯盟**（，縮寫為）。
 
 2000年，改名為Wi-Fi聯盟。
 
@@ -14,7 +15,7 @@ Wi-Fi技術建立在IEEE 802.11標準上。
 
 但[IEEE開發和出版這些標準](https://zh.wikipedia.org/wiki/IEEE "wikilink")，卻不測試符合他們的設備。非營利性的Wi-Fi聯盟成立於1999年，以填補這一段空白——建立和執行標準，互操作性與兼容性，並推動無線區域網路技術。
 
-至2009年截止Wi-Fi聯盟超過300多家來自世界各地公司合廠家擁有會員，其產品通過認證過程中，有權標明這些產品Wi-Fi標誌。
+至2019年截止Wi-Fi聯盟超過500多家來自世界各地公司合廠家擁有會員，其產品通過認證過程中，有權標明這些產品Wi-Fi標誌。
 
 認證過程具體來說是否符合IEEE 802.11無線標準的規定，以及WPA和WPA2安全標準，以及EAP的認證標準。
 
@@ -45,6 +46,8 @@ Wi-Fi技術建立在IEEE 802.11標準上。
 
 還有一種加密方式為802.1x使用者認證機制，但目前相容性不高（注意ｘ在此為小寫）
 
+## 註釋
+
 ## 外部連結
 
   - [Wi-Fi聯盟](http://wi-fi.org/)
@@ -53,5 +56,8 @@ Wi-Fi技術建立在IEEE 802.11標準上。
 
 [Category:網路標準](https://zh.wikipedia.org/wiki/Category:網路標準 "wikilink")
 [Category:无线通信](https://zh.wikipedia.org/wiki/Category:无线通信 "wikilink")
+[Category:1999年建立的組織](https://zh.wikipedia.org/wiki/Category:1999年建立的組織 "wikilink")
+[Category:总部在美国的国际组织](https://zh.wikipedia.org/wiki/Category:总部在美国的国际组织 "wikilink")
+[Category:Wi-Fi](https://zh.wikipedia.org/wiki/Category:Wi-Fi "wikilink")
 
 1.

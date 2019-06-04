@@ -80,7 +80,8 @@ Play名義發行休閒益智遊戲](https://zh.wikipedia.org/wiki/2K_Play "wikil
 ## 外部連結
 
   - [2K品牌官方网站](http://www.2k.com)
-      - [2K Games](http://www.2kgames.com/)
+      - [2K
+        Games](https://web.archive.org/web/20100701170800/http://www.2kgames.com/)
       - [2K Play](http://www.2kplay.com)
       - [2K
         Sports](https://web.archive.org/web/20090713061602/http://www.2ksports.com/)

@@ -1009,7 +1009,7 @@ Ch：しばざきあやこ</p></td>
 
   - [英雄傳說「空之軌跡」THE ANIMATION](http://www.sora-anime.com/)
 
-  - [北京娛樂通](http://www.gamebridge.com.cn/)
+  - [北京娛樂通](https://web.archive.org/web/20080321215419/http://www.gamebridge.com.cn/)
 
   - [英特衛](https://web.archive.org/web/20080313144257/http://www.interwise.com.tw/Web/Main/)
 

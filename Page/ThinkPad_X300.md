@@ -100,7 +100,7 @@ Everything else is just hot air.”又一次将MacBook Air放在了竞争对手�
   - [联想ThinkPad
     X300官方网站](https://web.archive.org/web/20081007082146/http://www.lenovo.com/x300)
 
-[Category:筆記型電腦](https://zh.wikipedia.org/wiki/Category:筆記型電腦 "wikilink")
+[Category:联想笔记本电脑](https://zh.wikipedia.org/wiki/Category:联想笔记本电脑 "wikilink")
 
 1.
 2.

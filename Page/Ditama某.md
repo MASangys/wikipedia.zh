@@ -52,3 +52,4 @@
 
 [Category:日本漫画家](https://zh.wikipedia.org/wiki/Category:日本漫画家 "wikilink")
 [Category:愛知縣出身人物](https://zh.wikipedia.org/wiki/Category:愛知縣出身人物 "wikilink")
+[Category:成人漫画家](https://zh.wikipedia.org/wiki/Category:成人漫画家 "wikilink")

@@ -55,8 +55,9 @@ Tome举办的](https://zh.wikipedia.org/wiki/Linux_Game_Tome "wikilink")2003年�
 6.
 7.
 8.
-9.  [Re:
-    \[Help-liquidwar6](http://osdir.com/ml/help-liquidwar6-gnu/2009-11/msg00000.html)
-     Getting ready for 0.0.8beta - OSDir.com\]
+9.  date=2014-02-25 }} Getting ready for 0.0.8beta - OSDir.com
+    |access-date=2014-02-21
+    |archive-url=<https://web.archive.org/web/20140225011448/http://osdir.com/ml/help-liquidwar6-gnu/2009-11/msg00000.html>
+    |archive-date=2014-02-25 |dead-url=yes }}
 10.
 11.

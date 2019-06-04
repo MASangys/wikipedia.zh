@@ -127,7 +127,7 @@ CT。
   - [SNOB - Desktop SNOMED Browser -
     免费软件下载](https://web.archive.org/web/20150813205425/http://snob.eggbird.eu/)
   - [SNOMED CT Browser with SNOFLAKE view at
-    dataline.co.uk](http://snomed.dataline.co.uk/)
+    dataline.co.uk](https://web.archive.org/web/20090107040051/http://snomed.dataline.co.uk/)
   - [VMIL
     术语浏览器](https://web.archive.org/web/20060111165001/http://terminology.vetmed.vt.edu/SCT/menu.cfm)
   - [SNOCat: SNOMED

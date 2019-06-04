@@ -273,7 +273,7 @@ X和](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[MS-Windows系统上Falc
     community论坛](https://web.archive.org/web/20090303130953/http://old.falconpl.org/forum/)
   - [linuxjournal上的相关文章](https://web.archive.org/web/20081215081914/http://www.linuxjournal.com/article/10161)
   - [发表在Free Software
-    Magazine](http://www.freesoftwaremagazine.com/articles/falcon_programming_language_brief_tutorial)
+    Magazine](https://web.archive.org/web/20090228065115/http://www.freesoftwaremagazine.com/articles/falcon_programming_language_brief_tutorial)
 
 [Category:2003年編成語言](https://zh.wikipedia.org/wiki/Category:2003年編成語言 "wikilink")
 [Category:脚本语言](https://zh.wikipedia.org/wiki/Category:脚本语言 "wikilink")

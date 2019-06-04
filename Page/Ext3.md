@@ -130,8 +130,6 @@ Ext3在写入日志时，并不做[校验和](https://zh.wikipedia.org/wiki/校�
     Filesystem](http://olstrans.sourceforge.net/release/OLS2000-ext3/OLS2000-ext3.html)
     by Dr. Stephen Tweedie at the Ottawa Linux Symposium, 20 July, 2000
 
-[cn:Ext3](https://zh.wikipedia.org/wiki/cn:Ext3 "wikilink")
-
 [Category:磁盘文件系统](https://zh.wikipedia.org/wiki/Category:磁盘文件系统 "wikilink")
 [Category:Linux檔案系統](https://zh.wikipedia.org/wiki/Category:Linux檔案系統 "wikilink")
 

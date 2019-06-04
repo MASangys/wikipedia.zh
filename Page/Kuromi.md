@@ -1,3 +1,4 @@
+[Kuromi_in_helloween.jpg](https://zh.wikipedia.org/wiki/File:Kuromi_in_helloween.jpg "fig:Kuromi_in_helloween.jpg")
 **酷洛米**（香港譯名：**可羅米**，半意譯：**黑咪**），是[Sanrio另一隻以](https://zh.wikipedia.org/wiki/Sanrio "wikilink")[惡魔造型的](https://zh.wikipedia.org/wiki/惡魔 "wikilink")[卡通女角色](../Page/卡通.md "wikilink")，在2005年10月31日誕生。在《[奇幻魔法Melody](../Page/奇幻魔法Melody.md "wikilink")》（おねがいマイメロディ）動畫系列初次出場。酷洛米原是[My
 Melody的好友兼同學](../Page/My_Melody.md "wikilink")，但My
 Melody時常無意間不小心傷害到Kuromi，故反目成仇視My
@@ -16,7 +17,7 @@ Melody、令父母擔心、採摘[皇宮](https://zh.wikipedia.org/wiki/皇宮 "
 
 三麗鷗台灣分公司 及三麗鷗中國官網正式中文名稱均為「酷洛米」（Ku-luò-mǐ）。「クロ（kuro）」的意思是體色一部或全部為黑色（くろ）。
 
-Ro的日言發音與「Law」接近，台灣不少人把她的名稱唸作Ku-lu-Mi是錯誤的。而「kuro」的漢字是「黑」，也就是她最喜歡的顏色。
+Ro的日文發音與「Law」接近，台灣不少人把她的名稱唸作Ku-lu-Mi是錯誤的。而「kuro」的漢字是「黑」，也就是她最喜歡的顏色。
 
 Sanrio Japan和草莓新聞合辦的2010 Sanrio Character Ranking，Kuromi是第五位，2011年是第六位。
 

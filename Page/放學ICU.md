@@ -288,7 +288,7 @@ Big
 
 [Category:香港兒童節目](https://zh.wikipedia.org/wiki/Category:香港兒童節目 "wikilink")
 [Category:無綫電視兒童節目](https://zh.wikipedia.org/wiki/Category:無綫電視兒童節目 "wikilink")
-[Category:2005年建立](https://zh.wikipedia.org/wiki/Category:2005年建立 "wikilink")
+[Category:2005年電視節目](https://zh.wikipedia.org/wiki/Category:2005年電視節目 "wikilink")
 [Category:2015年廢除](https://zh.wikipedia.org/wiki/Category:2015年廢除 "wikilink")
 [Category:2000年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2000年代無綫電視節目 "wikilink")
 [Category:2010年代無綫電視節目](https://zh.wikipedia.org/wiki/Category:2010年代無綫電視節目 "wikilink")

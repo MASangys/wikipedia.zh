@@ -106,12 +106,6 @@ PE適合做換頭、增減衣著首飾之類。同時也可以匯出X格式模�
 
 ## 參考資料
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 ## 外部連結
 
   -

@@ -87,11 +87,11 @@ Mr分店](https://zh.wikipedia.org/wiki/Red_Mr "wikilink")(已改以Neway名義�
 
   - 港島區（2間）：灣仔英皇集團中心CEO<span style="color: #33005E">■</span>、銅鑼灣糖街CEO<span style="color: #33005E">■</span>
     <span style="color: #A9A9A9"><s>灣仔世紀</s></span><span style="color: #FF3737">■</span>、<span style="color: #A9A9A9"><s>銅鑼灣信和</s></span></span><span style="color: #8B00FF">■</span>、<span style="color: #A9A9A9"><s>香港仔中心</s></span><span style="color: #8B00FF">■</span>、<span style="color: #A9A9A9"><s>銅鑼灣廣場1期</s></span><span style="color: #8B00FF">■</span>、<span style="color: #A9A9A9"><s>灣仔天樂里</s></span><span style="color: #8B00FF">■</span>、<span style="color: #A9A9A9"><s>北角雲華</s></span><span style="color: #8B00FF">■</span>
-  - 九龍區（11間）：旺角創興<span style="color: #8B00FF">■</span>、旺角中心<span style="color: #8B00FF">■</span>、油麻地富運<span style="color: #8B00FF">■</span>、佐敦<span style="color: #8B00FF">■</span>、尖東港晶<span style="color: #8B00FF">■</span>、尖東安達CEO
+  - 九龍區（10間）：旺角創興<span style="color: #8B00FF">■</span>、旺角中心<span style="color: #8B00FF">■</span>、油麻地富運<span style="color: #8B00FF">■</span>、佐敦<span style="color: #8B00FF">■</span>、尖東港晶<span style="color: #8B00FF">■</span>、尖東安達CEO
     <span style="color: #33005E">■</span>、MegaBox
-    CEO<span style="color: #33005E">■、觀塘apm<span style="color: #FF3737">■</span>、觀塘opc<span style="color: #FF3737">■</span>、深水埗宇宙</span></span><span style="color: #8B00FF">■</span>、九龍城太子匯<span style="color: #8B00FF">■</span>
+    CEO<span style="color: #33005E">■、觀塘opc<span style="color: #FF3737">■</span>、深水埗宇宙</span></span><span style="color: #8B00FF">■</span>、九龍城太子匯<span style="color: #8B00FF">■</span>
     <span style="color: #A9A9A9"><s>旺角百老匯</s></span><span style="color: #8B00FF">■</span>、<span style="color: #A9A9A9"><s>佐敦大華</s></span><span style="color: #8B00FF">■</span>、<span style="color: #A9A9A9"><s>旺角九龍行</s></span></span><span style="color: #8B00FF">■</span>、<span style="color: #A9A9A9"><s>觀塘銀都</s></span><span style="color: #8B00FF">■</span>、<span style="color: #A9A9A9"><s>旺角Neway
-    City</s></span><span style="color: #E680FF">■</span>、<span style="color: #A9A9A9"><s>九龍城廣場</s></span></span><span style="color: #8B00FF">■、</span><span style="color: #A9A9A9"><s>九龍城百營</s></span></span><span style="color: #8B00FF">■、</span><span style="color: #A9A9A9"><s>尖沙咀寶勒巷寶利</s></span></span><span style="color: #8B00FF">■</span>、</span><span style="color: #A9A9A9"><s>旺角瓊華</s></span></span><span style="color: #8B00FF">■</span><span style="color: #A9A9A9"><s>旺角新世紀</s></span></span><span style="color: #8B00FF">■</span>
+    City</s></span><span style="color: #E680FF">■</span>、<span style="color: #A9A9A9"><s>九龍城廣場</s></span></span><span style="color: #8B00FF">■、</span><span style="color: #A9A9A9"><s>九龍城百營</s></span></span><span style="color: #8B00FF">■、</span><span style="color: #A9A9A9"><s>尖沙咀寶勒巷寶利</s></span></span><span style="color: #8B00FF">■</span>、</span><span style="color: #A9A9A9"><s>旺角瓊華</s></span></span><span style="color: #8B00FF">■、</span><span style="color: #A9A9A9"><s>旺角新世紀</s></span></span><span style="color: #8B00FF">■</span>、</span><span style="color: #A9A9A9"><s>觀塘apm</s></span></span><span style="color: #FF3737">■</span>
   - 新界區（5間）：荃灣CEO<span style="color: #33005E">■</span>、屯門新墟<span style="color: #8B00FF">■</span>、沙田富豪<span style="color: #8B00FF">■</span>、元朗合益<span style="color: #8B00FF">■</span>、粉嶺中心<span style="color: #8B00FF">■</span>
     <span style="color: #A9A9A9"><s>葵芳</s></span><span style="color: #8B00FF">■</span>、<span style="color: #A9A9A9"><s>沙田廣場<span style="font-size:smaller;"></span></s></span><span style="color: #FF3737">■</span>、<span style="color: #A9A9A9"><s>大埔廣場<span style="font-size:smaller;"></span></s></span><span style="color: #8B00FF">■</span>、<span style="color: #A9A9A9"><s>元朗樂成</s></span><span style="color: #8B00FF">■、<span style="color: #A9A9A9"><s>荃灣
     (英皇娛樂廣場5/F
@@ -180,9 +180,6 @@ Mr分店](https://zh.wikipedia.org/wiki/Red_Mr "wikilink")(已改以Neway名義�
         (香港)](https://zh.wikipedia.org/wiki/索尼音樂娛樂_\(香港\) "wikilink")
           - [杰威爾音樂](../Page/杰威爾音樂.md "wikilink")
 
-<!-- end list -->
-
-  -
 ## 服務提供
 
   - 自選卡拉OK

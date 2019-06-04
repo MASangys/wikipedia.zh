@@ -692,6 +692,7 @@ SPAS-12同時出現在美國[荷里活電影](https://zh.wikipedia.org/wiki/美�
 ## 參見
 
   - [弗蘭基SPAS-15](../Page/弗蘭基SPAS-15戰鬥霰彈槍.md "wikilink")
+  - [弗蘭基AL-48](https://zh.wikipedia.org/wiki/弗蘭基AL-48半自動霰彈槍 "wikilink")
   - [PA-3、PA-7、PA-8](https://zh.wikipedia.org/wiki/弗蘭基PA-8泵動式霰彈槍 "wikilink")
   - [Jackhammer](../Page/Jackhammer轉輪式自動霰彈槍.md "wikilink")
   - [伯奈利M3 Super 90](../Page/伯奈利M3_Super_90霰彈槍.md "wikilink")

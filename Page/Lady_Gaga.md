@@ -1,6 +1,6 @@
-**史蒂芬妮·乔安妮·安吉丽娜·杰尔马诺塔**（，），艺名-{zh-cn:**嘎嘎小姐**（）; zh-hk:**Lady Gaga**;
-zh-tw:**女神卡卡**（）;
-zh-sg:**女神卡卡**（）}-，美國知名歌手、詞曲作家及演員，她以其挑戰傳統和常規的作品以及前衛风格的視覺形象而闻名于世。嘎嘎自青少年时期便有了表演方面的兴趣，她在学校的时候在晚会上唱歌并出演舞台剧。在辍学从事音乐事业之前，她通過[纽约大学](../Page/纽约大学.md "wikilink")在學習。在[Def
+**史蒂芬妮·乔安妮·安吉丽娜·杰尔马诺塔**（，），艺名-{|zh-cn:**嘎嘎小姐**（英语：）; zh-hk:**Lady
+Gaga**; zh-tw:**女神卡卡**（英語：）;
+zh-sg:**女神卡卡**（英语：）}-，是一名美國歌手、詞曲作家、音樂製作人及演員，她以其挑戰傳統和常規的作品以及前衛风格的視覺形象而闻名于世。嘎嘎自青少年时期便有了表演方面的兴趣，她在学校的时候在晚会上唱歌并出演舞台剧。在辍学从事音乐事业之前，她通過[纽约大学](../Page/纽约大学.md "wikilink")在學習。在[Def
 Jam唱片公司取消與她的合約之後](https://zh.wikipedia.org/wiki/Def_Jam唱片公司 "wikilink")，嘎嘎开始作为词曲作家为[索尼/聯合電視音樂出版工作](https://zh.wikipedia.org/wiki/索尼/聯合電視音樂出版 "wikilink")，2007年，在[阿肯的帮助下](../Page/阿肯.md "wikilink")，她與阿肯的唱片公司以及[新视镜唱片签署了一份联合合约](https://zh.wikipedia.org/wiki/新视镜唱片 "wikilink")。第二年，她凭借电子风格的首张专辑《超人气》（原文:
 The Fame）以及热门单曲《[舞力全开](../Page/舞力全開_\(歌曲\).md "wikilink")》(Just Dance)
 和《[无动于衷](https://zh.wikipedia.org/wiki/无动于衷_\(嘎嘎小姐歌曲\) "wikilink")》(Poker
@@ -98,8 +98,8 @@ Face)  在美國、\[43\] 澳洲、\[44\] 加拿大，\[45\] 以及英國排行�
 其它三首單曲，《[嗯，嗯（無話可說）](https://zh.wikipedia.org/wiki/嗯，嗯（無話可說） "wikilink")》(Eh,
 Eh (Nothing Else I Can Say))
 、《[愛情遊戲](https://zh.wikipedia.org/wiki/愛情遊戲 "wikilink")》(Love
-Game)，和《[愛情狗仔](../Page/愛情狗仔.md "wikilink")》(Paparazzi)皆在專輯發行後發行；<ref>Single
-releases from *The Fame*:
+Game)，和《[愛情狗仔](../Page/愛情狗仔.md "wikilink")》(Paparazzi)
+皆在專輯發行後發行；<ref>Single releases from *The Fame*:
 
   -
   -

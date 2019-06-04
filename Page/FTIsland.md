@@ -1,6 +1,6 @@
 **FTISLAND**／FTIsland／F.T.Island（;，全稱**Five Treasure Island**，簡稱**FTI**
 /
-**FT**，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂公司旗下的第一個](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")。隊名「五個寶藏島」，意指樂團五個成員：主唱[李洪基](../Page/李洪基.md "wikilink")、吉他[崔鍾訓](../Page/崔鍾訓.md "wikilink")（隊長）（因醜聞案已退團）、貝斯[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、吉他[宋承炫和鼓手](https://zh.wikipedia.org/wiki/宋承炫 "wikilink")[崔敏煥](../Page/崔敏煥.md "wikilink")。
+**FT**，是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂公司旗下的第一個](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink")[流行搖滾](../Page/流行搖滾.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/流行樂團 "wikilink")。隊名「五個寶藏島」，意指樂團五個成員：主唱[李洪基](../Page/李洪基.md "wikilink")、吉他[崔鍾訓](../Page/崔鍾訓.md "wikilink")（隊長）（已退團）、貝斯[李在真](https://zh.wikipedia.org/wiki/李在真 "wikilink")、吉他[宋承炫和鼓手](https://zh.wikipedia.org/wiki/宋承炫 "wikilink")[崔敏煥](../Page/崔敏煥.md "wikilink")。
 
 樂隊的應援物是小黃旗。歌迷被稱為「**Primadonna**」（義大利文），即「女主角」的意思，簡稱為「**PRI**」。官方應援物名稱：Pentastick。
 
@@ -18,8 +18,7 @@ Sensibility》在2007年6月8日發行，為當年韓國銷量排行第六的專
 2015年，發行首次由5位成員共同參與詞曲創作製作的專輯《I
 WILL》，是FTISLAND演藝事業中新的里程碑，在韓國音樂節目奪得3座冠軍，並且受到美國告示牌網站的專文推薦，稱讚有著強烈搖滾節奏的主打歌〈PRAY〉充滿靈魂，整張專輯更展現出FTISLAND不容置疑的音樂才華。
 
-2019年3月14日，崔鍾訓因扯入[Burning
-Sun-勝利門事件](../Page/Burning_Sun-勝利門事件.md "wikilink")，崔鍾訓也承認自己有參與偷拍性愛片，又被爆隱瞞酒駕，在一片粉絲的聲浪討伐後，公司發出聲明宣佈崔鍾訓永久退出組合\[1\]。
+2019年3月14日，崔鍾訓因扯入鄭俊英群組事件，公司發出聲明宣佈崔鍾訓永久退出組合\[1\]。
 
 ## 成員資料
 
@@ -290,7 +289,7 @@ LineData =
 
   - [Planet Bonds](../Page/Planet_Bonds.md "wikilink")（2018年）
 
-  - Everlasting（2019年）
+  - [Everlasting](../Page/Everlasting_\(FTIsland專輯\).md "wikilink")（2019年）
 
 ## 演唱會
 

@@ -9,7 +9,7 @@ Sony Network」。\[6\]
 ### 台灣與香港
 
 Animax
-Asia最早於2004年[元旦在台灣開台](../Page/元旦.md "wikilink")，香港緊接著於2004年1月12日跟進開台\[7\]，[AXN台灣頻道尚未播畢的動畫節目移往Animax台灣頻道繼續播出](../Page/AXN.md "wikilink")。Animax
+Asia最早於2004年[元旦在台灣開台](../Page/元旦.md "wikilink")，香港緊接著於2004年1月12日開台\[7\]，[AXN台灣頻道尚未播畢的動畫節目移往Animax台灣頻道繼續播出](../Page/AXN.md "wikilink")。Animax
 Asia播放許多新舊動畫節目，包括許多比其它東南亞頻道早播放的節目，如[死亡筆記本](https://zh.wikipedia.org/wiki/死亡筆記本 "wikilink")、[血戰](../Page/血戰.md "wikilink")、[聖魔之血](../Page/聖魔之血.md "wikilink")、[蟲師以及其他若干節目](../Page/蟲師.md "wikilink")\[8\]。
 
 Animax台灣頻道由「美商超躍股份有限公司」（AXN Taiwan-One, LLC.）統籌營運。

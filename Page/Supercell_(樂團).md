@@ -448,6 +448,7 @@ CD+DVD：SRCL-8812 ～ SRCL-8813</p></td>
   - [nagi](https://zh.wikipedia.org/wiki/やなぎなぎ "wikilink")
   - [EGOIST](../Page/EGOIST.md "wikilink")
   - [Tia](../Page/Tia.md "wikilink")
+  - [koeda（こゑだ）](../Page/Koeda.md "wikilink")
 
 ## 註腳
 

@@ -51,9 +51,9 @@ hamasaki ASIA TOUR 2007 A 〜Tour of Secret〜》於上海、香港、台灣各�
 3.  [Oricon Music
     Special](http://www.oricon.co.jp/music/special/061206_03.html)
 4.  [HMV Hong Kong Asian
-    Chart](http://www.hmv.com.hk/charts/top_40_new.asp?subm=chart)
+    Chart](https://web.archive.org/web/20181006015440/http://www.hmv.com.hk/charts/top_40_new.asp?subm=chart)
 5.  [HMV Hong Kong Japanese
-    Chart](http://www.hmv.com.hk/charts/japanese.asp?subm=chart)
+    Chart](https://web.archive.org/web/20181006015506/http://www.hmv.com.hk/charts/japanese.asp?subm=chart)
 6.  [g-music
     charts](https://web.archive.org/web/20120830012704/http://www.g-music.com.tw/GMusicBillboard3.aspx)
 

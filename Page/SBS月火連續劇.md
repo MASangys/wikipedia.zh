@@ -3,6 +3,45 @@ SBS月火連續劇*'（）是[SBS於](https://zh.wikipedia.org/wiki/SBS株式會
 
 ## 電視劇列表
 
+### 1993年
+
+<table style="width:326%;">
+<colgroup>
+<col style="width: 60%" />
+<col style="width: 17%" />
+<col style="width: 50%" />
+<col style="width: 24%" />
+<col style="width: 90%" />
+<col style="width: 70%" />
+<col style="width: 15%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p>播放<br />
+日期</p></th>
+<th style="text-align: center;"><p>電視劇集名稱</p></th>
+<th style="text-align: center;"><p>集數</p></th>
+<th style="text-align: center;"><p>主演</p></th>
+<th style="text-align: center;"><p>导演</p></th>
+<th style="text-align: center;"><p>编剧</p></th>
+<th style="text-align: center;"><p>備注</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p>1993年11月15日－<br />
+1994年1月25日</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/遙遠的松巴江" title="wikilink">遙遠的松巴江</a><br />
+</p></td>
+<td style="text-align: center;"><p>22</p></td>
+<td style="text-align: center;"><p><a href="../Page/朴重勳.md" title="wikilink">朴重勳</a>、<a href="../Page/李璟榮.md" title="wikilink">李璟榮</a>、<a href="https://zh.wikipedia.org/wiki/范靈丹" title="wikilink">范靈丹</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李康勳" title="wikilink">李康勳</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李潤澤.md" title="wikilink">李潤澤</a></p></td>
+<td style="text-align: center;"><p>創台3週年特別計劃連續劇</p></td>
+</tr>
+</tbody>
+</table>
+
 ### 2000年
 
 <table style="width:326%;">
@@ -1562,8 +1601,17 @@ SBS月火連續劇*'（）是[SBS於](https://zh.wikipedia.org/wiki/SBS株式會
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年7月1日－<br />
-2019年8月日</p></td>
+<td style="text-align: center;"><p>夏季月火綜藝時段</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2019年月日－<br />
+2019年月日</p></td>
 <td style="text-align: center;"><p><a href="../Page/偵探醫生.md" title="wikilink">偵探醫生</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
@@ -1572,15 +1620,24 @@ SBS月火連續劇*'（）是[SBS於](https://zh.wikipedia.org/wiki/SBS株式會
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/宋允熙" title="wikilink">宋允熙</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
-<tr class="even">
-<td style="text-align: center;"><p>2019年8月日－<br />
+<tr class="odd">
+<td style="text-align: center;"><p>2019年月日－<br />
 2019年月日</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/VIP_(韓國電視劇)" title="wikilink">VIP</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/張娜拉.md" title="wikilink">張娜拉</a>、<a href="https://zh.wikipedia.org/wiki/李尚允" title="wikilink">李尚允</a>、<a href="https://zh.wikipedia.org/wiki/表藝珍" title="wikilink">表藝珍</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/張娜拉.md" title="wikilink">張娜拉</a>、<a href="../Page/李相侖.md" title="wikilink">李相侖</a>、<a href="https://zh.wikipedia.org/wiki/表藝珍" title="wikilink">表藝珍</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李正林" title="wikilink">李正林</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/申惠媛" title="wikilink">申惠媛</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

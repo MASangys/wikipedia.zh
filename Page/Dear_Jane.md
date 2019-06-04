@@ -253,7 +253,7 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 <td style="text-align: left;"><p>新曲+精選</p></td>
 <td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/華納唱片_(香港)" title="wikilink">華納唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2019年3月21日</p></td>
-<td style="text-align: left;"><p>CD 1</p>
+<td style="text-align: left;"><p><strong>CD 1</strong></p>
 <ol>
 <li>身體語言 feat. Miss Janni (新曲)</li>
 <li>永遠飛行模式 (新曲)</li>
@@ -267,7 +267,7 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 <li>SOL#4 (新曲)</li>
 <li>寧願當初不相見 [Acoustic Version] (新曲)</li>
 </ol>
-<p>CD 2</p>
+<p><strong>CD 2</strong></p>
 <ol>
 <li>哪裡只得我共你</li>
 <li>到此為止</li>
@@ -285,6 +285,26 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 <li>最後一次</li>
 <li>Goodbye</li>
 <li>不許你注定一人</li>
+</ol></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p>8th</p></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/華納唱片_(香港)" title="wikilink">華納唱片 (香港)</a></p></td>
+<td style="text-align: left;"><p>--年--月--日</p></td>
+<td style="text-align: left;"><p><strong>CD</strong></p>
+<ol>
+<li>碌架床</li>
+<li>--</li>
+<li>--</li>
+<li>--</li>
+<li>--</li>
+<li>--</li>
+<li>--</li>
+<li>--</li>
+<li>--</li>
+<li>--</li>
 </ol></td>
 </tr>
 </tbody>
@@ -364,6 +384,7 @@ Dear Jane靠副業撐住Rock下去</ref> ，並在2017年9月14日誕下女兒�
 | Infinity & Eternity                                                                 |
 | **2019年**                                                                           |
 | Infinity & Eternity                                                                 |
+|                                                                                     |
 |                                                                                     |
 
 | **各台冠軍歌總數** |

@@ -14,7 +14,7 @@ BuyCarTV**》，於2007年7月－2009年於[台灣交通電視台播放](../Page
 2018年參賽車手：朱嘉偉（308號）、Joe Kwok（408號）香港車手
 
 朱嘉偉 （308號）：
-參賽車輛（Peugeot 308 TCR Racing Cup）
+參賽車輛（Peugeot 308 Racing Cup）
 
 Joe Kwok（408號）：
 參賽車輛(Honda civic Type R )(FD2)

@@ -87,8 +87,6 @@ Java](https://web.archive.org/web/20071014093139/http://jmikmod.berlios.de/)仍�
   - [台灣流行MOD編曲](http://modarchive.org/index.php?request=view_profile&query=82904)
     - 數十首remixed 台灣曲目,可以MikMOD 或Milkytracker播放.
 
-[en:MikMod](https://zh.wikipedia.org/wiki/en:MikMod "wikilink")
-
 [Category:自由音频软件](https://zh.wikipedia.org/wiki/Category:自由音频软件 "wikilink")
 [Category:音频声道器](https://zh.wikipedia.org/wiki/Category:音频声道器 "wikilink")
 [Category:Amiga音乐格式](https://zh.wikipedia.org/wiki/Category:Amiga音乐格式 "wikilink")

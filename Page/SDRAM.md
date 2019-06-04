@@ -110,8 +110,7 @@ zh-hant:初始化}-需要一個最小周期，稱為行到列延遲，或者t<su
 2.
 3.  <http://www.semiaccurate.com/2010/08/16/ddr4-not-expected-until-2015/>
 4.   070928 micron.com
-5.  [DDR4 PDF
-    page 23](http://intel.wingateweb.com/US08/published/sessions/MASS006/SF08_MASS006_100s.pdf)
+5.
 6.  [Looking forward to
     DDR4](http://www.pcpro.co.uk/news/220257/idf-ddr3-wont-catch-up-with-ddr2-during-2009.html)
 7.  [DDR3

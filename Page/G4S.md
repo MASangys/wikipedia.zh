@@ -58,6 +58,6 @@ G4S目前在香港擁有以下公司：
 
 1.  [G4S: History](http://www.g4s.com/en/Who%20we%20are/History/)
 
-2.  [G4S: About Us](http://www.g4s.com/en/Who%20we%20are/)
+2.
 
 3.

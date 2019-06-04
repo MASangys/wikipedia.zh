@@ -4,7 +4,7 @@ Mbit/s到9.5 Mbit/s不等，而[比特率為自我調整速率](../Page/比特�
 
 DVD-Video規範由[DVD論壇創建](https://zh.wikipedia.org/wiki/DVD論壇 "wikilink")，可以5,000美元的費用从DVD格式/徽標授權公司（DVD
 Format/Logo Licensing
-Corporation）中获得規範授权。\[2\]\[3\]DVD-Video規範不公開销售，且訂戶必須簽署。DVD
+Corporation）中获得規範授权。\[2\]\[3\]DVD-Video規範不公開销售，且訂戶必須簽署[保密協定](https://zh.wikipedia.org/wiki/保密協定 "wikilink")。DVD
 Book中的某些資訊为專有機密資訊。
 
 ## 视频数据

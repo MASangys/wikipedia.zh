@@ -98,4 +98,4 @@ FluxBB
 6.
 
 7.
-8.  [FluxBB Development](http://fluxbb.org/about/development.php)
+8.

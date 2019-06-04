@@ -104,8 +104,6 @@ Diamonds是**Travianer**的附加[服務](https://zh.wikipedia.org/wiki/服務 "
   - [Travianer
     遊戲指南（英）](http://www.travians.com/AnleitungTravianer_en.pdf/)
 
-[en:Travians](https://zh.wikipedia.org/wiki/en:Travians "wikilink")
-
 [Category:浏览器遊戲](https://zh.wikipedia.org/wiki/Category:浏览器遊戲 "wikilink")
 [Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink")
 [Category:免费游戏](https://zh.wikipedia.org/wiki/Category:免费游戏 "wikilink")

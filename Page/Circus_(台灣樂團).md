@@ -1,58 +1,54 @@
-**CIRCUS**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[花蓮縣](../Page/花蓮縣.md "wikilink")4位[大學生所組成的團體](https://zh.wikipedia.org/wiki/大學生 "wikilink")，成員有[廖人帥](https://zh.wikipedia.org/wiki/廖人帥 "wikilink")（LEO）、[黃尹宣](../Page/黃尹宣.md "wikilink")（EASON）、[林柏昇](../Page/林柏昇.md "wikilink")（KID）、[林家緯](../Page/林家緯.md "wikilink")（小馬）。
+**CIRCUS**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[花蓮縣](../Page/花蓮縣.md "wikilink")4位[大學生所組成的團體](https://zh.wikipedia.org/wiki/大學生 "wikilink")／樂團，成員有[廖人帥](https://zh.wikipedia.org/wiki/廖人帥 "wikilink")（LEO）、[黃尹宣](../Page/黃尹宣.md "wikilink")（EASON）、[林柏昇](../Page/林柏昇.md "wikilink")（KID）、[林家緯](../Page/林家緯.md "wikilink")（小馬）。團體以創作及拍攝的搞怪等單元之影片而為人所熟悉。
 
-林柏昇（KID）於2003年9月4日一次的挑戰喝[啤酒中輸掉而在](../Page/啤酒.md "wikilink")[花蓮中正橋上](https://zh.wikipedia.org/wiki/花蓮中正橋 "wikilink")[裸奔](../Page/裸奔.md "wikilink")，後來將自己拍的影片放在網路上供人欣賞，之後幸運地被channel
-V發現，得以在電視上播出。其中四人均就讀花蓮縣花崗國中，但只有Leo和小馬是國中就認識的同班同學。國中畢業後EASON、KID、小馬高中均唸[國立花蓮高級中學](../Page/國立花蓮高級中學.md "wikilink")（LEO則念[花蓮縣私立海星高級中學](../Page/花蓮縣私立海星高級中學.md "wikilink")），小馬和KID為同班同學而熟識，KID再從學校BBS上認識EASON。一次暑假的最後一天小馬約了另外三人到[七星潭出遊](../Page/七星潭.md "wikilink")，成為四人相識的契機。
+CIRCUS四人在2004年在「Channel V」 节目《CIRCUS ACTION》正式出道，團體並於2008年轉型為樂團。
+於2011年[林家緯](../Page/林家緯.md "wikilink")（小馬）為追尋導演理想而退團，而CIRCUS
+亦於2014年正式解散，期後各成員均獨立發展。
+
+## 背景
+
+CIRCUS
+四位成員均是一群拥有热血怀有梦想的少年们，敢把很多疯狂的想法通通付诸行动。因林柏昇（KID）於2003年9月4日一次的挑戰喝[啤酒中輸掉而在](../Page/啤酒.md "wikilink")[花蓮中正橋上](https://zh.wikipedia.org/wiki/花蓮中正橋 "wikilink")[裸奔](../Page/裸奔.md "wikilink")，後來將自己拍的影片放在網路上供人欣賞，之後幸運地被Channel
+V發現，得以在電視上播出。後四人於2004年更以CIRCUS 名義正式出道，成為Channel
+V及[傳奇星旗下之藝人](https://zh.wikipedia.org/wiki/傳奇星 "wikilink")。
+
+其中四人均就讀花蓮縣花崗國中，但只有Leo和小馬是國中就認識的同班同學。國中畢業後EASON、KID、小馬高中均唸[國立花蓮高級中學](../Page/國立花蓮高級中學.md "wikilink")（LEO則念[花蓮縣私立海星高級中學](../Page/花蓮縣私立海星高級中學.md "wikilink")），小馬和KID為同班同學而熟識，KID再從學校BBS上認識EASON。一次暑假的最後一天小馬約了另外三人到[七星潭出遊](../Page/七星潭.md "wikilink")，成為四人相識的契機。
 
 由於團中4人敢玩敢想敢做的個性，在[Channel
 V簽約五年以來都得到頻道總監](../Page/Channel_V.md "wikilink")[張世明給予不少機會拍攝節目](../Page/張世明.md "wikilink")，更在拍攝《CIRCUS狗仔隊》後得到更多人認識及欣賞；另外，他們在娛樂圈中與不少藝人都關係良好，如[五月天](../Page/五月天.md "wikilink")、[羅志祥](../Page/羅志祥.md "wikilink")、[黃鴻升](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink")、[簡愷樂](../Page/簡愷樂.md "wikilink")、[Lollipop
 F](https://zh.wikipedia.org/wiki/Lollipop_F "wikilink")、[張芳奕](https://zh.wikipedia.org/wiki/張芳奕 "wikilink")、[蘇打綠](../Page/蘇打綠.md "wikilink")、[JPM](../Page/JPM.md "wikilink")、[黑Girl](../Page/黑Girl.md "wikilink")、[飛輪海](../Page/飛輪海.md "wikilink")、[MP魔幻力量](../Page/MP魔幻力量.md "wikilink")、[八三夭](../Page/八三夭.md "wikilink")。
 
 於2008年，CIRCUS進一步成為搖滾樂團（詳情請見[CIRCUS ACTION
-4節目](https://zh.wikipedia.org/wiki/CIRCUS_ACTION#.E7.AC.AC.E5.9B.9B.E5.AD.A3.E7.AF.80.E7.9B.AE "wikilink")），更於2010年簽約臺灣[環球國際唱片股份有限公司](https://zh.wikipedia.org/wiki/環球唱片_\(台灣\) "wikilink")，成為環球唱片旗下歌手，但在2014年解散。三位依然以單飛身份繼續在演藝圈發展。
+4節目](https://zh.wikipedia.org/wiki/CIRCUS_ACTION#.E7.AC.AC.E5.9B.9B.E5.AD.A3.E7.AF.80.E7.9B.AE "wikilink")），更於2010年簽約臺灣[環球國際唱片股份有限公司](https://zh.wikipedia.org/wiki/環球唱片_\(台灣\) "wikilink")，成為環球唱片旗下歌手。
 
-## CIRCUS 基本資料
+於2011年小馬決定退團，並住幕後發展。雖然Circus 亦在2014年正式解散，但三位成員依然以單飛身份繼續在演藝圈發展。
 
-2003 裸奔少年在电视新闻中被强力放送 2004 CIRCUS成军 2004 CHANNEL\[V\] 实在带种活动示范带 2005
-CHANNEL\[V\] “CIRCUS ACTION”第一季节目 2005 NOKIA 极酷派对网络宣传影片 2005
-CHANNEL\[V\]“V POWER音乐神话演唱会”串场影片 2005 爱迪达 T-MAC广播播音 2006
-卡迪那洋芋片年度活动“还是卡迪那好吃”创意短片大赛，示范短片+代言 2006
-露得清网络广告影片 2006 海尼根网络广告影片 2006 NOKIA 音乐起义网络示范带 2006 CHANNEL\[V\]“LE
-TEA乐派对台中演唱会”电视广告 2006 CHANNEL\[V\] “CIRCUS ACTION”第二季节目 2006 发行书籍“CIRCUS
-ACTION” 2007 味丹心茶道代言 2007 CHANNEL\[V\] “CIRCUS ACTION”第三季节目 2008
-线上游戏“天关战记”代言 2009 CHANNEL\[V\] \[CIRCUS 狗仔队”第一季节目 2009
-CHANNEL\[V\] “CIRCUS ACTION”第四季节目 2009 CHANNEL\[V\] “模范棒棒堂”节目嘉宾 2009
-CHANNEL\[V\] “我爱黑涩会”节目嘉宾 2009 CHANNEL\[V\] “LOVE LOVE LOVE”节目嘉宾 2010
-第一张创作EP《GO\!CIRCUS热血高校》发行
-他们是一群拥有热血怀有梦想的少年们，敢把很多疯狂的想法通通付诸行动，一开始只是将自己拍的影片放在网络上供人欣赏，后来幸运地被channel
-V 发现，得以在电视上播出。
-他们的影片在网络上可以找到，从影片里可以看见他们的努力和热情。其中有许多让人印象深刻的影片，包括十二星座、鸡蛋派对、阿福柔、连体婴、裸奔少年、蝌蚪奶茶…等
-?《CIRCUS ACTION 第一季》 CIRCUS尿尿马拉松 CIRCUS搭便车 CIRCUS宅急便 CIRCUS父亲节献礼
-CIRCUS小强Don't Go CIRCUS小强趴趴走 CIRCUS大便先生Mr.Shit CIRCUS夏日三部曲 CIRCUS开运
-CIRCUS城市运动会 CIRCUS野蛮游戏 CIRCUS精采大回顾About Circus ?《CIRCUS ACTION 第二季》
-CIRCUS2000元环岛之旅(共4集) CIRCUS资源回收大赏 CIRCUS娘娘腔运动会 CIRCUS处男历险记 CIRCUS黑涩会
-CIRCUS野蛮游戏艺人版 CIRCUS野蛮游戏
+## 成員
 
-### LEO
+### LEO （[廖人帥](https://zh.wikipedia.org/wiki/廖人帥 "wikilink")）
 
-  - 姓名：廖人帥
   - 生日：1983年11月13日（歲）
-  - 擔任樂團的鼓手。
+  - 花蓮人
+  - 擔任樂團的鼓手
+  - 在團體中擔任導演及攝影，成為CIRCUS出道契機的裸奔少年短片，就是由他拍攝及剪接
 
 高中情況：指自己是風雲人物
 
 大學情況：親民工專
 
-家庭情況：媽媽是開照相館，曾跟kid、小馬拍裸照，kid又指Leo媽媽好正。
+家庭情況：媽媽是開照相館，曾跟Kid、小馬拍裸照，Kid又指Leo媽媽好正。
 
-他與林家緯、黃尹宣是國中就認識的同學。而小馬，Leo是同班同學-三年三班。他同時是品牌Outerspace（外太空）和OUTER
-SPACE-FEVER（太空熱血）的主理人。早期在團體中擔任導演及攝影，成為CIRCUS出道契機的裸奔少年短片，就是由他拍攝及剪接。Circus轉型成為樂團之後，擔任樂團中的鼓手。經常因髪量少額頭高而被取笑。討厭曬黑。
+他與林家緯、黃尹宣是國中就認識的同學。而小馬，Leo是同班同學-三年三班。
+早期在團體中擔任導演及攝影，成為CIRCUS出道契機的裸奔少年短片，就是由他拍攝及剪接。Circus轉型成為樂團之後，擔任樂團中的鼓手。
+他同時是品牌Outerspace（外太空）和OUTER SPACE-FEVER（太空熱血）的主理人。
 
-### EASON
+經常因髪量少額頭高而被取笑。討厭曬黑。
 
-  - 姓名：黃尹宣
+### EASON （[黃尹宣](../Page/黃尹宣.md "wikilink")）
+
   - 生日：1983年12月20日（歲）
-  - 花蓮人，擔任樂團的主唱兼吉他手，現時與KID是室友，也是最容易嘔吐的團員，對滷肉飯特別反感。
-  - 又稱嘔吐鬼
+  - 花蓮人
+  - 擔任樂團的主唱兼吉他手
+  - 他是最容易嘔吐的團員，而被稱嘔吐鬼，而且對滷肉飯特別反感。
 
 高中情況：成績好
 
@@ -63,63 +59,86 @@ SPACE-FEVER（太空熱血）的主理人。早期在團體中擔任導演及攝
 曾於南投的山清水秀碑公然大便，引起爭議。
 
 目前和[KID為](../Page/林柏昇.md "wikilink")「[愛喲我的媽](../Page/愛喲我的媽.md "wikilink")」（20130411起）新單元－怪談邪會擔任「怪談先生」。
-
 以及在「[背包踐客](../Page/背包踐客.md "wikilink")」（第三季）擔任節目主持人（合作藝人「[曹西平](../Page/曹西平.md "wikilink")」、「[張文綺](https://zh.wikipedia.org/wiki/張文綺 "wikilink")」）
 
-### KID
+### KID （[林柏昇](../Page/林柏昇.md "wikilink")）
 
-  - 姓名：林柏昇（Kid）
   - 生日：1984年2月21日（歲）
-  - 花蓮人，擔任樂團的貝斯手。
+  - 花蓮人
+  - 擔任樂團的貝斯手
   - 又稱大自然小王子
 
-高中情況：成績是全校倒數幾名，承認是壞學生，曾偷手機、英文考試作弊等等。以前又經常到Eason家過夜，現時他們是室友，在台北共租一家房子，和領養一隻狗。
+高中情況：成績是全校倒數幾名，承認是壞學生，曾偷手機、英文考試作弊等等。
 
 大學情況：致遠管理學院
 
 家庭情況：媽媽是信義路之花，有一姐一妹，以前很討厭妺妺，又指以前到高中跟妺妺沒有說超過十句話。因在女人堆成長，童年都是玩芭比娃娃、美少女戰士。
 
+以前又經常到Eason家過夜，現時他們是室友，在台北共租一家房子，和領養一隻狗。
+
 以[裸奔著稱](../Page/裸奔.md "wikilink")。於2003年9月4日一次的挑戰喝啤酒中輸掉而在花蓮中正橋上裸奔，影片放上網路之後，被媒體報導稱為裸奔少年，並且被學校記了兩小過，但影片也促成了CIRCUS跟CHANNEL
-V簽約的契機。在Circus轉型成為樂團之後，擔任樂團中的貝斯手。他也是綜藝和遊戲節目的常客。因為在《娛樂百分百》的百分百遊戲王第一集的《撈冰大作戰》擊敗[羅志祥](../Page/羅志祥.md "wikilink")，讓[蝴蝶隊奪得最後勝利](https://zh.wikipedia.org/wiki/蝴蝶姐姐 "wikilink")，所以把小[乃哥的稱號從他奪去](../Page/徐乃麟.md "wikilink")。
+V簽約的契機。在Circus轉型成為樂團之後，擔任樂團中的貝斯手。他也是綜藝和遊戲節目的常客。因為在《[娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink")》的百分百遊戲王第一集的《撈冰大作戰》擊敗[羅志祥](../Page/羅志祥.md "wikilink")，讓[蝴蝶隊奪得最後勝利](https://zh.wikipedia.org/wiki/蝴蝶姐姐 "wikilink")，所以把小[乃哥的稱號從他奪去](../Page/徐乃麟.md "wikilink")。
 
-KID因為敢玩、敢衝、認真、自然率真的個性深受綜藝天王吳宗憲賞識，憲哥在《[綜藝玩很大](https://zh.wikipedia.org/wiki/綜藝玩很大 "wikilink")》節目中特別給KID一個"瘋面子
-CRAZY FACE"的封號，KID更以此封號而知名度大增\!
+KID因為敢玩、敢衝、認真、自然率真的個性深受綜藝天王[吳宗憲賞識](../Page/吳宗憲.md "wikilink")，憲哥在《[綜藝玩很大](https://zh.wikipedia.org/wiki/綜藝玩很大 "wikilink")》節目中特別給KID一個「**瘋面子
+CRAZY FACE**」的封號，KID更以此封號而知名度大增。
 
-目前為《[綜藝玩很大](https://zh.wikipedia.org/wiki/綜藝玩很大 "wikilink")》節目主持人（吳宗憲、KID）、《[18歲不睡](../Page/18歲不睡.md "wikilink")》節目主持人（KID、簡愷樂）、《[黑星STAR](https://zh.wikipedia.org/wiki/黑星STAR "wikilink")》節目主持人（黑人、KID、EASON）、《[超聯萌女神](../Page/超聯萌女神.md "wikilink")》節目主持人（KID、郭彥甫、寶弟）、《[超聯萌女神2](https://zh.wikipedia.org/wiki/超聯萌女神2 "wikilink")》節目主持人（KID、夏和熙）、《[木曜4超玩](https://zh.wikipedia.org/wiki/木曜4超玩 "wikilink")》節目主持人（KID、邰智源、泱泱、溫妮）。
+### 小馬（[林家纬](https://zh.wikipedia.org/wiki/林家纬 "wikilink")）
 
-個人作品經歷：
+  - 生日：1983年10月19日（歲）
+  - 花蓮人
+  - 擔任樂團的結他手
+  - 在團體中擔任導演、拍攝及影片剪輯
 
-※電視節目：
+他與Leo、黃尹宣是國中就認識的同學。而其與Leo是同班同學-三年三班。
 
-※CHANNEL \[V\] 《CIRCUS ACTION》第一季至第四季 主持+企劃+製作
+2007-2009年这段期间，林家纬担任导演及制片人为“耐克/NBA中国巡回赛”摄制并发行了一部纪录片“100BASKETBALL(百分百篮球)”。
 
-※CHANNEL \[V\] 《校園四賤客》節目主持人
+2011年，林家纬为了他的梦想从而决定退居幕后，並退出CIRCUS，开始专注于导演这份毕生的职业。其曾為有亚洲流行巨星[范玮琪及台湾摇滚乐队的](https://zh.wikipedia.org/wiki/范玮琪 "wikilink")[Matzka的MV執導](../Page/Matzka.md "wikilink")，也有为中国最大的国有企业中粮集团摄制的微电影“褪色”等等。其現為杭州视通文化传播有限公司作影音工作室的创意总监
 
-※CHANNEL \[V\] 《CIRCU狗仔隊》主持+企劃+製作
+## 發展歷程
 
-※愛尚TV 《CIRCUS星探社》主持+企劃+製作
-
-※MTV 2013《點歌大帝國》節目主持人
-
-※TVB(香港) 2013《CIRCUS香港大爆走》主持+企劃+製作
-
-※MTV 2014《街頭遊戲王》節目主持人(KID、EASON)
-
-※台視 2014《綜藝玩很大》節目主持人(吳宗憲、KID)
-
-※土豆網 2014《黑星STAR》節目主持人(黑人陳建州、KID)
-
-※中視 2015《綜藝玩很大》節目主持人(吳宗憲、KID)
-
-※MTV 2015《超聯萌女神》節目主持人(KID、郭彥甫、寶弟)
-
-※麥卡貝 2015《木曜4超玩》節目主持人(KID、邰智源、泱泱、温妮、大根（目前离开）)
-
-※中天 2016《18歲不睡》節目主持人(KID、簡愷樂)
-
-※電影作品：
-
-2011《消失打看》 飾演 刺客 (KID、王子、林辰晰)
+  - 2003年
+      - 裸奔少年在电视新闻中被强力放送
+  - 2004年
+      - CIRCUS成军
+      - CHANNEL\[V\] 实在带种活动示范带
+  - 2005年
+      - CHANNEL\[V\] “CIRCUS ACTION”第一季节目
+      - NOKIA 极酷派对网络宣传影片
+      - CHANNEL\[V\]“V POWER音乐神话演唱会”串场影片
+      - 爱迪达 T-MAC广播播音
+  - 2006年
+      - 卡迪那洋芋片年度活动“还是卡迪那好吃”创意短片大赛，示范短片+代言
+      - 露得清网络广告影片
+      - 海尼根网络广告影片
+      - NOKIA 音乐起义网络示范带
+      - CHANNEL\[V\]“LE TEA乐派对台中演唱会”电视广告
+      - CHANNEL\[V\] “CIRCUS ACTION”第二季节目
+      - 发行书籍“CIRCUS ACTION”
+  - 2007年
+      - 味丹心茶道代言
+      - CHANNEL\[V\] “CIRCUS ACTION”第三季节目
+  - 2008年
+      - 线上游戏“天关战记”代言
+  - 2009年
+      - CHANNEL\[V\] \[CIRCUS 狗仔队”第一季节目
+      - CHANNEL\[V\] “CIRCUS ACTION”第四季节目
+      - CHANNEL\[V\] “[模范棒棒堂](../Page/模范棒棒堂.md "wikilink")”节目嘉宾
+      - CHANNEL\[V\]
+        “[我爱黑涩会](https://zh.wikipedia.org/wiki/我爱黑涩会 "wikilink")”节目嘉宾
+      - CHANNEL\[V\] “LOVE LOVE LOVE”节目嘉宾
+  - 2010年
+      - 第一张创作EP《GO\!CIRCUS热血高校》发行
+      - 發行首張專輯，名為「啥貨？！CIRCUS」，專輯附送「恐怖DJ社」DVD
+  - 2012年
+      - 「愛尚TV」"[CIRCUS星探社](https://zh.wikipedia.org/wiki/CIRCUS星探社 "wikilink")"
+      - MTV "[點歌大帝國](https://zh.wikipedia.org/wiki/點歌大帝國 "wikilink")"
+      - 小馬退團
+  - 2013年
+      - [TVB](https://zh.wikipedia.org/wiki/TVB "wikilink")
+        "[Circus香港大爆走](../Page/Circus香港大爆走.md "wikilink")"
+  - 2014年
+      - CIRCUS 解散
 
 ## 拍攝／主持節目
 
@@ -345,13 +364,13 @@ Circus的CD中出現的野蠻遊戲特別篇
   - 2008 味丹心茶道
   - 2010【乖乖】給我乾脆點！
 
-## 作品
+## 音樂作品
 
 ### 音樂與舞蹈作品
 
   - 走唱男孩
 
-### 音樂作品
+### 唱片
 
   - 於2010年3月5日發行首張EP(三首歌)，名為「GO\! CIRCUS 熱血高校」，隨碟附送新書一本。主打歌為「我知道你們都在笑我」。
 
@@ -366,55 +385,77 @@ Circus的CD中出現的野蠻遊戲特別篇
 <!-- end list -->
 
   - 於2010年12月31日發行首張專輯，名為「[啥貨？！CIRCUS](https://zh.wikipedia.org/wiki/啥貨？！CIRCUS "wikilink")」，專輯附送「恐怖DJ社」DVD。第一波主打歌為叭啥貨。
-    1.  叭啥貨
-    2.  最後這一課
-    3.  在消失之前
-    4.  沒人愛
-    5.  QK
-    6.  不想 Say Goodbye
-    7.  好人面具
-    8.  乾脆型不型
-    9.  在劈腿
-    10. 來不及的時光機
+
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><p>專輯名稱</p></th>
+<th style="text-align: left;"><p>專輯類型</p></th>
+<th style="text-align: left;"><p>發行公司</p></th>
+<th style="text-align: left;"><p>發行日期</p></th>
+<th style="text-align: left;"><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"><p>啥貨？！CIRCUS</p></td>
+<td style="text-align: left;"><p>專輯</p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/環球唱片_(台灣)" title="wikilink">環球唱片 (台灣)</a></p></td>
+<td style="text-align: left;"><p>2010年12月31日</p></td>
+<td style="text-align: left;"><ol>
+<li>叭啥貨</li>
+<li>最後這一課</li>
+<li>在消失之前</li>
+<li>沒人愛</li>
+<li>QK</li>
+<li>不想 Say Goodbye</li>
+<li>好人面具</li>
+<li>乾脆型不型</li>
+<li>在劈腿</li>
+<li>來不及的時光機</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
 
 ### MV
 
-拍攝：
+#### 拍攝
 
   - 專輯:
-      - 我知道你們都在笑我-CIRCUS
-      - 有你陪我-CIRCUS
-      - [舞孃](../Page/舞孃_\(歌曲\).md "wikilink")-CIRCUS
-      - 叭啥貨-CIRCUS
-      - 不想Say Goodbye-CIRCUS
+      - 我知道你們都在笑我 - CIRCUS
+      - 有你陪我 - CIRCUS
+      - [舞孃](../Page/舞孃_\(歌曲\).md "wikilink") - CIRCUS
+      - 叭啥貨 - CIRCUS
+      - 不想Say Goodbye - CIRCUS
       - 最後這一課-CIRCUS
-      - QK-CIRCUS
-      - 來不及的時光機-CIRCUS
+      - QK - CIRCUS
+      - 來不及的時光機 - CIRCUS
   - 客串：
-      - Happy Birthday
-        買滴兒-[大嘴巴](https://zh.wikipedia.org/wiki/大嘴巴 "wikilink")
+      - Happy Birthday 買滴兒 -
+        [大嘴巴](https://zh.wikipedia.org/wiki/大嘴巴 "wikilink")
 
-廖人帥(LEO)
+#### 執導
 
-  - 執導
-      - Shake It Baby-[黑澀會美眉](../Page/黑Girl.md "wikilink")
-      - 藉口-[胡彥斌](../Page/胡彥斌.md "wikilink")
-      - 愛情殘酷物語-[花兒樂團](https://zh.wikipedia.org/wiki/花兒樂團 "wikilink")
-      - 天天天天-[旺福](../Page/旺福.md "wikilink")
-      - 公主沒病-[林逸欣](../Page/林逸欣.md "wikilink")
-      - 我是個騙子-[林逸欣](../Page/林逸欣.md "wikilink")
-      - 作對-[林逸欣](../Page/林逸欣.md "wikilink")
-      - 沒有星期五的無人島-[魏如萱](../Page/魏如萱.md "wikilink")
-      - 不被瞭解的怪人-[棉花糖](https://zh.wikipedia.org/wiki/棉花糖 "wikilink")
-      - 月光地毯-[梁文音](../Page/梁文音.md "wikilink")
-      - Oh Baby-[梁文音](../Page/梁文音.md "wikilink")
-      - 完美情人-[鄧福如](../Page/鄧福如.md "wikilink")
-      - 神魂顛倒-[付辛博](../Page/付辛博.md "wikilink")
-      - 什麼風把你吹來-[范逸臣](../Page/范逸臣.md "wikilink")
-      - 你說我說-[李唯楓](../Page/李唯楓.md "wikilink")
-      - 真的假的-[陶晶瑩](https://zh.wikipedia.org/wiki/陶晶瑩 "wikilink")
+  - **廖人帥（LEO）**
+      - Shake It Baby - [黑澀會美眉](../Page/黑Girl.md "wikilink")
+      - 藉口 - [胡彥斌](../Page/胡彥斌.md "wikilink")
+      - 愛情殘酷物語 - [花兒樂團](https://zh.wikipedia.org/wiki/花兒樂團 "wikilink")
+      - 天天天天 - [旺福](../Page/旺福.md "wikilink")
+      - 公主沒病 - [林逸欣](../Page/林逸欣.md "wikilink")
+      - 我是個騙子 - [林逸欣](../Page/林逸欣.md "wikilink")
+      - 作對 - [林逸欣](../Page/林逸欣.md "wikilink")
+      - 沒有星期五的無人島 - [魏如萱](../Page/魏如萱.md "wikilink")
+      - 不被瞭解的怪人 - [棉花糖](https://zh.wikipedia.org/wiki/棉花糖 "wikilink")
+      - 月光地毯 - [梁文音](../Page/梁文音.md "wikilink")
+      - Oh Baby - [梁文音](../Page/梁文音.md "wikilink")
+      - 完美情人 - [鄧福如](../Page/鄧福如.md "wikilink")
+      - 神魂顛倒 - [付辛博](../Page/付辛博.md "wikilink")
+      - 什麼風把你吹來 - [范逸臣](../Page/范逸臣.md "wikilink")
+      - 你說我說 - [李唯楓](../Page/李唯楓.md "wikilink")
+      - 真的假的 - [陶晶瑩](https://zh.wikipedia.org/wiki/陶晶瑩 "wikilink")
       - 子曰 超激版！-[卜學亮](../Page/卜學亮.md "wikilink")
-      - 超跑情人夢-[卜學亮](../Page/卜學亮.md "wikilink")
+      - 超跑情人夢 - [卜學亮](../Page/卜學亮.md "wikilink")
       - 我是我的 - [張靚穎](https://zh.wikipedia.org/wiki/張靚穎 "wikilink")
       - 沒有愛情藏得住 - [陶晶瑩](https://zh.wikipedia.org/wiki/陶晶瑩 "wikilink")
       - 陳淑芬與林志豪 - [王心凌](../Page/王心凌.md "wikilink")
@@ -426,41 +467,45 @@ Circus的CD中出現的野蠻遊戲特別篇
         [張震嶽](https://zh.wikipedia.org/wiki/張震嶽 "wikilink")、[MC
         Hot Dog](https://zh.wikipedia.org/wiki/MC_Hot_Dog "wikilink")
 
-林家緯(小馬)
+<!-- end list -->
 
-  - 執導
-      - 來去夏威夷-[八三夭](../Page/八三夭.md "wikilink")
-      - 路-[范瑋琪](../Page/范瑋琪.md "wikilink")
+  - **林家緯（小馬）**
+      - 來去夏威夷 - [八三夭](../Page/八三夭.md "wikilink")
+      - 路 - [范瑋琪](../Page/范瑋琪.md "wikilink")
 
-### 電影
+## 電影／戲劇
+
+### 電影演出
 
   - 2011年 - 消失打看 - Kid 飾 刺客
   - 2012年 - 寶島大爆走 -三人都是飾演留法台妹幫
   - 2014年 - [鐵獅玉玲瓏 (電影)](../Page/鐵獅玉玲瓏_\(電影\).md "wikilink") - Eason 飾
     阿猴
   - 2014年 - [大宅們](https://zh.wikipedia.org/wiki/大宅們 "wikilink") - Kid 飾
-    瑜珈老師(客串)
+    瑜珈老師（客串）
   - 2016年 - [憤怒鳥玩電影](https://zh.wikipedia.org/wiki/憤怒鳥玩電影 "wikilink") -
     配音
-  - 執導：
+
+### 電影執導
+
   - 2007年 - 《消散》 - 林家緯（小馬）
   - 2008年 - 《態度》- 林家緯（小馬）、廖人帥（Leo）
+
+### 戲劇
+
+  - 2013年 [愛情ATM](../Page/愛情ATM.md "wikilink") - Kid 飾 許正德
 
 ### 網劇
 
   - 2014年 [PMAM之美好偵探社](../Page/PMAM之美好偵探社.md "wikilink") - Kid 飾 陳飛虎
+
+## 其他作品
 
 ### 書籍
 
   - 《CIRCUS ACTION》
   - 《GO\! CIRCUS 熱血高校》
   - 《微失控青年的香港微旅行》（Circus 微設克氏 著）
-
-## 戲劇
-
-  - KID 於2013年[愛情ATM飾許正德](../Page/愛情ATM.md "wikilink")
-  - KID 2014年
-    [PMAM美好侦探社](https://zh.wikipedia.org/wiki/PMAM美好侦探社 "wikilink")
 
 ## 参考资料
 

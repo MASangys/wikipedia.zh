@@ -316,6 +316,9 @@ F88及其型號包括：
         XS”，30发弹匣。为工程兵专用武器，高级解锁，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器、[冲锋枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[冲锋枪刺刀](../Page/刺刀.md "wikilink")）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、[冲锋枪握把](https://zh.wikipedia.org/wiki/宽型前握把 "wikilink")、冲锋枪握把架）以及瞄准镜（[EoTech
         553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、冲锋枪普通瞄准镜、冲锋枪高级瞄准镜、[冲锋枪专家瞄准镜](https://zh.wikipedia.org/wiki/Leupold_Mark_4_CQ/T光学瞄准镜 "wikilink")）。拥有雪地迷彩改装版本与流光迷彩改装版本，强化威力、精准度和载弹。
           - 雪地迷彩版本可以通过生存模式“冷锋行动”系列地图通关奖励箱以及抽奖获得，流光迷彩版本为STEAM专属DLC特供武器，只能通过购买STEAM专属DLC获得。
+  - 2013年—《[-{zh-hans:反恐精英;zh-hant:絕對武力}-Online
+    2](https://zh.wikipedia.org/wiki/絕對武力Online2 "wikilink")》（Counter-Strike
+    Online 2）：型號為AUG A1，命名為“AUG A1”。為反恐小組專用武器。
   - 2013年—《[-{zh-hans:生化危机 启示; zh-hant:惡靈古堡
     啟示;}-](https://zh.wikipedia.org/wiki/惡靈古堡_啟示 "wikilink")》（Resident
     Evil: Revelations）：型號為AUG A2，命名為「AUG」，在單人/RAID模式中登場。

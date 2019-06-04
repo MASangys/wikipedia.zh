@@ -260,7 +260,7 @@ ISBN 978-4-06-362114-3（限定版）</p></td>
   - [色彩設計](../Page/色彩設計.md "wikilink")：山崎朋子
   - 撮影監督：藤田智史
   - 編集：松村正宏
-  - 音響監督：
+  - 音響監督：[田中和也](https://zh.wikipedia.org/wiki/田中和也 "wikilink")
   - 音樂：[佐藤泰將](https://zh.wikipedia.org/wiki/佐藤泰將 "wikilink")
   - 音樂製作人：小柳路子
   - 音樂制作：[5pb.](../Page/5pb..md "wikilink")
@@ -268,10 +268,10 @@ ISBN 978-4-06-362114-3（限定版）</p></td>
   - 錄音室：、整音錄音室
   - 音響制作：
   - 宣傳：長谷川朋子、佐藤輝彦、高橋克典、古屋友梨
-  - 關聯製作人：土肥範子、小谷哲子
+  - 相關製作人：土肥範子、小谷哲子
   - 製作人：小川文平、大森啓幸
-  - line producer：渡邊秀信
-  - 監督：
+  - 線上編輯：渡邊秀信
+  - 監督：[五月女浩一朗](../Page/五月女浩一朗.md "wikilink")
   - 動畫制作：[ARTLAND](../Page/ARTLAND.md "wikilink")
   - 制作：[海商製作委員會](https://zh.wikipedia.org/wiki/製作委員會方式 "wikilink")（[Marvelous
     Entertainment](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")、[Geneon
@@ -280,82 +280,26 @@ ISBN 978-4-06-362114-3（限定版）</p></td>
 ### 主題曲
 
   - [片頭曲](https://zh.wikipedia.org/wiki/片頭曲 "wikilink")「DOLPHIN☆JET」
-    作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")，編曲：上野浩司
-    歌：[彩音](../Page/彩音.md "wikilink")
-    CD於2007年7月25日發售，1,260日圓（含稅）
+    作詞、作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")、編曲：上野浩司、歌：[彩音](../Page/彩音.md "wikilink")
 
 <!-- end list -->
 
   - [片尾曲](https://zh.wikipedia.org/wiki/片尾曲 "wikilink")「」
-    作詞、作曲：，編曲：上野浩司
-    歌：[村田步](https://zh.wikipedia.org/wiki/村田步 "wikilink")
-    CD於2007年7月25日發售，1,260日圓（含稅）
+    作詞、作曲：、編曲：上野浩司、歌：[村田步](https://zh.wikipedia.org/wiki/村田步 "wikilink")
 
-### 播放電視台
+### 各話列表
 
 <table>
 <thead>
 <tr class="header">
-<th style="text-align: center;"><p>播放地域</p></th>
-<th style="text-align: center;"><p>電視台</p></th>
-<th style="text-align: center;"><p>播放期間</p></th>
-<th style="text-align: center;"><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a>+9）</p></th>
-<th style="text-align: center;"><p>聯播網</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/東京都會電視台.md" title="wikilink">東京都會電視台</a><br />
-（幹事局）</p></td>
-<td style="text-align: center;"><p>2007年7月3日－</p></td>
-<td style="text-align: center;"><p>星期二 26時00分～26時30分<br />
-（星期三 2時00分～2時30分）</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/獨立UHF局" title="wikilink">獨立UHF局</a></p></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/千葉電視台" title="wikilink">千葉電視台</a></p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/愛知電視台.md" title="wikilink">愛知電視台</a></p></td>
-<td style="text-align: center;"><p>星期二 26時58分～27時28分<br />
-（星期三 2時58分～3時28分）</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/TXN" title="wikilink">東京電視台系列</a></p></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/大阪電視台.md" title="wikilink">大阪電視台</a></p></td>
-<td style="text-align: center;"><p>2007年7月4日－</p></td>
-<td style="text-align: center;"><p>星期三 26時55分～27時25分<br />
-（星期四 2時55分～3時25分）</p></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/埼玉電視台.md" title="wikilink">埼玉電視台</a></p></td>
-<td style="text-align: center;"><p>2007年7月7日－</p></td>
-<td style="text-align: center;"><p>星期六 26時00分～26時30分<br />
-（星期日 2時00分～2時30分）</p></td>
-<td style="text-align: center;"><p>獨立UHF局</p></td>
-</tr>
-</tbody>
-</table>
-
-### 各集標題
-
-<table>
-<thead>
-<tr class="header">
-<th><p>集數</p></th>
-<th><p>標題</p></th>
+<th><p>話數</p></th>
+<th><p>日文標題</p></th>
 <th><p>中文標題</p></th>
-<th><p>首播日期</p></th>
+<th><p>腳本</p></th>
+<th><p>分鏡</p></th>
+<th><p>演出</p></th>
+<th><p>作畫監督</p></th>
+<th><p>播放日期</p></th>
 </tr>
 </thead>
 <tbody>
@@ -363,85 +307,217 @@ ISBN 978-4-06-362114-3（限定版）</p></td>
 <td><p>1</p></td>
 <td></td>
 <td><p>美麗的海！</p></td>
-<td><p>2007年7月3日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/池田眞美子" title="wikilink">池田眞美子</a></p></td>
+<td><p><a href="../Page/五月女浩一朗.md" title="wikilink">五月女浩一朗</a></p></td>
+<td><p>宮田亮</p></td>
+<td><p>荒尾英幸<br />
+西野理恵</p></td>
+<td><p><strong>2007年</strong><br />
+7月3日</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
 <td></td>
-<td><p>或許…<br />
-有點…興趣…</p></td>
-<td><p>2007年7月10日</p></td>
+<td><p>或許…有點…興趣…</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/横谷昌宏" title="wikilink">横谷昌宏</a></p></td>
+<td><p>宮下新平</p></td>
+<td><p>中村圭三</p></td>
+<td><p>小林一三</p></td>
+<td><p>7月10日</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td></td>
+<td><p>{{lang|ja|魅せる</p></td>
+<td><p>!}}</p></td>
 <td><p>給你看！！！</p></td>
-<td><p>2007年7月17日</p></td>
+<td><p>池田眞美子</p></td>
+<td><p><a href="../Page/高柳哲司.md" title="wikilink">高柳哲司</a></p></td>
+<td><p>内山まな</p></td>
+<td><p>青木真理子</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
 <td></td>
 <td><p>就說了會給你看</p></td>
-<td><p>2007年7月24日</p></td>
+<td><p>横谷昌宏</p></td>
+<td><p>夕澄慶英</p></td>
+<td><p>清水一伸</p></td>
+<td><p>清水智子<br />
+栗原学<br />
+服部憲知</p></td>
+<td><p>7月24日</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
 <td></td>
 <td><p>你也想要我的嗎？</p></td>
-<td><p>2007年7月31日</p></td>
+<td><p>池田眞美子</p></td>
+<td><p>五月女浩一朗</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新田義方" title="wikilink">新田義方</a></p></td>
+<td><p>たないあやこ</p></td>
+<td><p>7月31日</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
 <td></td>
 <td><p>喝！</p></td>
-<td><p>2007年8月7日</p></td>
+<td><p>横谷昌宏</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/細田雅弘" title="wikilink">細田雅弘</a></p></td>
+<td><p>立仙裕俊</p></td>
+<td><p>三井寿</p></td>
+<td><p>8月7日</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
 <td></td>
-<td><p>咀咒</p></td>
-<td><p>2007年8月14日</p></td>
+<td><p>詛咒</p></td>
+<td><p>池田眞美子</p></td>
+<td><p>宮下新平</p></td>
+<td><p>宮田亮</p></td>
+<td><p>小関雅</p></td>
+<td><p>8月14日</p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
 <td></td>
 <td><p>給我好～好看著</p></td>
-<td><p>2007年8月21日</p></td>
+<td><p>横谷昌宏</p></td>
+<td><p>五月女浩一朗</p></td>
+<td><p>中村圭三</p></td>
+<td><p>武内啓</p></td>
+<td><p>8月21日</p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
 <td></td>
 <td><p>給我忘記…</p></td>
-<td><p>2007年8月28日</p></td>
+<td><p>羽原久美子</p></td>
+<td><p>川西泰二</p></td>
+<td><p>小関雅<br />
+荒尾英幸<br />
+西野理恵</p></td>
+<td><p>8月28日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td></td>
 <td><p>揉乳？</p></td>
-<td><p>2007年9月4日</p></td>
+<td><p>池田眞美子</p></td>
+<td><p>高柳哲司</p></td>
+<td><p>岡崎幸男</p></td>
+<td><p>泉保良輔<br />
+中野彰子<br />
+砂川正和</p></td>
+<td><p>9月4日</p></td>
 </tr>
 <tr class="odd">
 <td><p>11</p></td>
 <td></td>
 <td><p>難不成是…</p></td>
-<td><p>2007年9月11日</p></td>
+<td><p>横谷昌宏</p></td>
+<td><p><a href="../Page/大地丙太郎.md" title="wikilink">大地丙太郎</a></p></td>
+<td><p>新田義方</p></td>
+<td><p>飯飼一幸</p></td>
+<td><p>9月11日</p></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
 <td></td>
 <td><p>的啦、的啦～♪</p></td>
-<td><p>2007年9月18日</p></td>
+<td><p>池田眞美子</p></td>
+<td><p>宮下新平</p></td>
+<td><p>立仙裕俊</p></td>
+<td><p>三井寿</p></td>
+<td><p>9月18日</p></td>
 </tr>
 <tr class="odd">
 <td><p>13</p></td>
 <td></td>
 <td><p>人魚</p></td>
-<td><p>2007年9月25日</p></td>
+<td><p>五月女浩一朗</p></td>
+<td><p>西野理恵</p></td>
+<td><p>9月25日</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
-### 角色CD
+### 播放電視台
+
+<table>
+<thead>
+<tr class="header">
+<th><p>播放地區</p></th>
+<th><p>播放電視台</p></th>
+<th><p>播放日期</p></th>
+<th><p>播放時間</p></th>
+<th><p>聯播網</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TOKYO_MX" title="wikilink">TOKYO MX</a></p></td>
+<td><p>2007年7月3日 - 9月25日</p></td>
+<td><p>星期二 26:00 - 26:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全国独立放送協議会" title="wikilink">独立UHF局</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉電視台" title="wikilink">千葉電視台</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a></p></td>
+<td><p><a href="../Page/愛知電視台.md" title="wikilink">愛知電視台</a></p></td>
+<td><p>星期二 26:58 - 27:28</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TXN" title="wikilink">東京電視台系列</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/大阪電視台.md" title="wikilink">大阪電視台</a></p></td>
+<td><p>2007年7月4日 - 9月26日</p></td>
+<td><p>星期三 26:55 - 27:25</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a></p></td>
+<td><p><a href="../Page/埼玉電視台.md" title="wikilink">埼玉電視台</a></p></td>
+<td><p>2007年7月7日 - 9月29日</p></td>
+<td><p>星期六 26:00 - 26:30</p></td>
+<td><p>独立UHF局</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/全国放送" title="wikilink">全国放送</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ANIMAX" title="wikilink">ANIMAX</a></p></td>
+<td><p>2008年5月3日 - 6日<br />
+2008年7月2日 - 18日</p></td>
+<td><p>（5月3日 - 5日）24:00 - 25:30<br />
+（5月6日）24:00 - 26:00<br />
+（7月・月 - 金） 24:30 - 25:00</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/スカパー!プレミアムサービス" title="wikilink">スカイパーフェクTV!</a><br />
+<a href="https://zh.wikipedia.org/wiki/e2_by_スカパー!" title="wikilink">e2 by スカパー!</a><br />
+<a href="https://zh.wikipedia.org/wiki/有線電視" title="wikilink">有線電視等</a></p></td>
+<td><p>（5月）一挙放送<br />
+（7月）重播</p></td>
+</tr>
+</tbody>
+</table>
+
+## CD
+
+### 角色歌曲
 
 1.  vol.1 蜷川亞夢露（豐崎愛生）
       -
@@ -466,6 +542,46 @@ ISBN 978-4-06-362114-3（限定版）</p></td>
 
   -
     全部通常版1,890日圓（含稅），vol.1 蜷川亞夢露限定版2,310日圓（含稅）。
+
+### 專輯
+
+  - 電視動畫「ケンコー全裸系水泳部 ウミショー」原聲帶（2007年11月21日、VGCD-0124）
+      -
+        音響製作人佐藤泰将。收錄劇中所使用的[BGM](https://zh.wikipedia.org/wiki/背景音樂 "wikilink")、[主題曲的短版本](../Page/主題曲.md "wikilink")。
+  - ケンコー全裸系水泳部 ウミショー The BEST vocal collection（2008年4月23日、VGCD-0138）
+      -
+        為收錄角色歌系列6曲與主題曲的[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。
+    <!-- end list -->
+    1.  DOLPHIN☆JET
+          -
+            歌：彩音
+    2.  Splash BLUE〜太陽とレモネード〜
+          -
+            歌：村田あゆみ
+    3.  虹色すぷらっしゅ\!
+          -
+            歌：蜷川あむろ（豊崎愛生）
+    4.  恋するSunday
+          -
+            歌：魚々戸真綾（矢作紗友里）
+    5.  スキ…
+          -
+            歌：静岡みれい（福井裕佳梨）
+    6.  Through the Game
+          -
+            歌：黄瀬早苗（新谷良子）
+    7.  気分はノリノリWONDERLAND
+          -
+            歌：生田蒔輝（清水愛）
+    8.  浜辺の最強伝説
+          -
+            歌：織塚桃子（生天目仁美）
+    9.  1.2.3.Sweet Summer\!
+          -
+            歌：村田あゆみ
+    10. New Breeze
+          -
+            歌：彩音
 
 ## 舞台剧
 
@@ -529,13 +645,6 @@ ISBN 978-4-06-362114-3（限定版）</p></td>
 
   -
     同樣沒有在介紹圖像露面，只有生天目和豐崎。
-
-## 關聯項目
-
-  - [服部充](../Page/服部充.md "wikilink")
-  - [游泳](../Page/游泳.md "wikilink")
-  - [沖繩](https://zh.wikipedia.org/wiki/沖繩 "wikilink")
-  - [大東群島](../Page/大東群島.md "wikilink")
 
 ## 註釋
 

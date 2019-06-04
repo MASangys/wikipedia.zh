@@ -31,7 +31,7 @@ Go），为网络点播服务。该台所有戏剧将在首播时间同步更新
 <td><p>星期一至五</p></td>
 <td><p>|20:30 - 21:30</p></td>
 <td><p><a href="../Page/倚天屠龍記_(2019年電視劇).md" title="wikilink">倚天屠龍記</a></p></td>
-<td><p>未定</p></td>
+<td><p><a href="../Page/好日子_(無綫電視劇).md" title="wikilink">好日子</a></p></td>
 <td><p><strong>350<sub>HD</sub></strong><br />
 <strong>351</strong><sub>SD</sub></p></td>
 <td><p>與<a href="https://zh.wikipedia.org/wiki/TVB" title="wikilink">TVB</a><a href="../Page/翡翠台.md" title="wikilink">翡翠台同步播出</a><br />
@@ -39,8 +39,8 @@ Go），为网络点播服务。该台所有戏剧将在首播时间同步更新
 </tr>
 <tr class="even">
 <td><p>21:30 - 22:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鐵探" title="wikilink">鐵探</a></p></td>
-<td><p>未定</p></td>
+<td><p><a href="../Page/婚姻合伙人.md" title="wikilink">婚姻合伙人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/白色强人" title="wikilink">白色强人</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -148,7 +148,8 @@ AOD播出的剧集，让剧迷们上网投选心目中最爱的艺人和电视�
 | [財神駕到](https://zh.wikipedia.org/wiki/財神駕到 "wikilink")         | 2017年1月9日   | 2017年1月9日   | 由[Astro華麗台](../Page/Astro華麗台.md "wikilink")、[Astro華麗台HD首播](https://zh.wikipedia.org/wiki/Astro華麗台HD "wikilink")   | 已播畢    |
 | [愛·回家之開心速遞](../Page/愛·回家之開心速遞.md "wikilink")                  | 2017年2月20日  | 2017年2月20日  | 由[Astro華麗台](../Page/Astro華麗台.md "wikilink")、[Astro華麗台HD首播](https://zh.wikipedia.org/wiki/Astro華麗台HD "wikilink")   | 播放中    |
 | [愛情沒有來的時候](https://zh.wikipedia.org/wiki/愛情沒有來的時候 "wikilink") | 2018年8月5日   | 2019年2月5日   | 由[Astro華麗台](../Page/Astro華麗台.md "wikilink")、[Astro華麗台HD首播](https://zh.wikipedia.org/wiki/Astro華麗台HD "wikilink")   | 已播畢    |
-| [廉政行動2019](../Page/廉政行動2019.md "wikilink")                    | 2019年4月6日   | 未定          | 由[Astro華麗台](../Page/Astro華麗台.md "wikilink")、[Astro華麗台HD首播](https://zh.wikipedia.org/wiki/Astro華麗台HD "wikilink")   | 未播出    |
+| [廉政行動2019](../Page/廉政行動2019.md "wikilink")                    | 2019年4月6日   | 2019年5月12日  | 由[Astro華麗台](../Page/Astro華麗台.md "wikilink")、[Astro華麗台HD首播](https://zh.wikipedia.org/wiki/Astro華麗台HD "wikilink")   | 播放中    |
+| [機動部隊2019](../Page/機動部隊2019.md "wikilink")                    | 2019年5月12日  | 2019年5月19日  | 由[Astro華麗台](../Page/Astro華麗台.md "wikilink")、[Astro華麗台HD首播](https://zh.wikipedia.org/wiki/Astro華麗台HD "wikilink")   | 播放中    |
 
 ## Astro AOD電視劇集列表
 

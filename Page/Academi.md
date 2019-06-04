@@ -126,7 +126,7 @@ km²），其中有數個室內、室外靶場、城市摸擬環境靶場。黑�
 12. <http://baltimorechronicle.com/2007/032607Cherbonnier.html>
 13.
 14. <http://www.10news.com/news/13308753/detail.html>
-15. <http://www.thespywhobilledme.com/the_spy_who_billed_me/2007/04/blackwater_usa_.html>
+15.
 16. <http://www.sdreader.com/php/cityshow.php?id=1566>
 17.
 18. [The High Risk Contracting

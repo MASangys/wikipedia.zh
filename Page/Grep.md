@@ -10,7 +10,7 @@ print，以正規表示法進行全域尋找以及列印）。在ed下，輸入g
 
 ## 功能和用法
 
-这个程序的名称来自[Unix文本编辑器](https://zh.wikipedia.org/wiki/Unix "wikilink")[ed类似操作的命令](https://zh.wikipedia.org/wiki/ed_\(Unix\) "wikilink")：
+这个程序的名称来自[Unix文本编辑器](https://zh.wikipedia.org/wiki/Unix "wikilink")[ed类似操作的命令](https://zh.wikipedia.org/wiki/ed_\(文本编辑器\) "wikilink")：
 
 ``` vim
 g/re/p

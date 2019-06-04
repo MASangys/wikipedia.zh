@@ -142,11 +142,11 @@ Gear](../Page/三菱得利卡.md "wikilink")，於2008年停產，此後台灣�
 
 ## 競爭對手
 
-福特全順
+[福特全順](../Page/福特全顺.md "wikilink")
 
   - [日產Urvan](https://zh.wikipedia.org/wiki/日產Urvan "wikilink")
 
-平治Spinter
+[平治Spinter](../Page/梅赛德斯-奔驰斯宾特.md "wikilink")
 
 ## 外部連結
 

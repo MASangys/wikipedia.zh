@@ -993,6 +993,8 @@ FaceTime</p></td>
 
 ### iPad
 
+<section begin=iPad1 />
+
 <table>
 <tbody>
 <tr class="odd">
@@ -1334,7 +1336,11 @@ International: 2011年3月25日</p></td>
 </tbody>
 </table>
 
+<section end=iPad1 />
+
 ### iPad Air
+
+<section begin=iPad Air2 />
 
 <table>
 <tbody>
@@ -1541,11 +1547,16 @@ Wi-Fi + 4G model: </p></td>
 </tbody>
 </table>
 
+<section end=iPad Air2 />
+
 ### iPad Pro
+
+<section begin=iPad Pro3 />
 
 <table>
 <tbody>
 <tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1920,7 +1931,11 @@ eSIM</p></td>
 </tbody>
 </table>
 
+<section end=iPad Pro3 />
+
 ### iPad mini
+
+<section begin=iPad mini4 />
 
 <table>
 <tbody>
@@ -2105,7 +2120,7 @@ Wi-Fi+3G機種追加：<a href="https://zh.wikipedia.org/wiki/UMTS" title="wikil
 <td><p>colspan=2 |顏色</p></td>
 <td><p>黑色、白色[57]</p></td>
 <td><p>黑色、白色、金色</p></td>
-<td><p>太空灰、銀色、金色</p></td>
+<td><p><small>  </small> 銀色、太空灰、金色</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2182,6 +2197,8 @@ International: 2014年11月15日</p></td>
 </tr>
 </tbody>
 </table>
+
+<section end=iPad mini4 />
 
 ## 比較
 

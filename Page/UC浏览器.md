@@ -66,6 +66,7 @@ UC浏览器首页推送的部分新闻被指有着“[标题党](../Page/标题�
 [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
 [Category:移动电话](https://zh.wikipedia.org/wiki/Category:移动电话 "wikilink")
 [Category:阿里巴巴集团](https://zh.wikipedia.org/wiki/Category:阿里巴巴集团 "wikilink")
+[Category:Android网页浏览器](https://zh.wikipedia.org/wiki/Category:Android网页浏览器 "wikilink")
 
 1.  [UC浏览器电脑版正式发布](http://g.pconline.com.cn/x/454/4544443.html)，太平洋电脑网。
 2.  [阿里巴巴全资收购UC](http://tech.qq.com/p/topic/20140611018581/index.html)，腾讯网。

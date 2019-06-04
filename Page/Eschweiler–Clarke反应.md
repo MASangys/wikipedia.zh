@@ -10,7 +10,7 @@ reaction），又称**Eschweiler–Clarke甲基化反应**
 (1887－1972) 的名字命名。
 
 
-[Eschweiler-Clark_Reaction_Scheme.png](https://zh.wikipedia.org/wiki/File:Eschweiler-Clark_Reaction_Scheme.png "fig:Eschweiler-Clark_Reaction_Scheme.png")
+[Eschweiler-Clarke_Reaction.svg](https://zh.wikipedia.org/wiki/File:Eschweiler-Clarke_Reaction.svg "fig:Eschweiler-Clarke_Reaction.svg")
 
 ## 反应机理
 

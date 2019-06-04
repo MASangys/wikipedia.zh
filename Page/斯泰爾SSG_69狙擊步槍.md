@@ -49,7 +49,7 @@ SSG 69無論在戰爭還是大大小小的國際比賽之中都證明了它是�
   - \[5\]
 
   -
-  -   - [國家警察干預小組](https://zh.wikipedia.org/wiki/法國國家警察干預隊 "wikilink")
+  -   - [國家警察干預組](../Page/國家警察干預組.md "wikilink")
 
   -   - [德國聯邦警察](../Page/德國聯邦警察.md "wikilink")[第九邊境守衛隊](../Page/德國聯邦警察第九國境守備隊.md "wikilink")
 

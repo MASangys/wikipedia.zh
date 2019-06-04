@@ -5,15 +5,15 @@
 
 ## 功能
 
-  - 支援多種語言，包含中文。
-  - 可以匯入[Overture之ove檔](https://zh.wikipedia.org/wiki/Overture "wikilink")。
+  - 支援64種語言，包含简/繁中文。
+  - 可以读取并导入[Overture的](https://zh.wikipedia.org/wiki/Overture "wikilink")\*.ove文件。
   - 可從商業音樂排版軟件Band-in-a-Box輸入文件。
   - 支援用midi電子琴鍵盤輸入音高。
   - 支援以滑鼠點選的方式輸入音符。
   - 每個譜表最多支援4聲部。
   - 有**所見即所得**以及**即時播放**的功能。
   - 文件可以[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[MusicXML](../Page/MusicXML.md "wikilink")、[Postscript](https://zh.wikipedia.org/wiki/Postscript "wikilink")、[PNG](../Page/PNG.md "wikilink")、[SVG](https://zh.wikipedia.org/wiki/SVG "wikilink")。
-  - 可以[midi](https://zh.wikipedia.org/wiki/midi "wikilink")、wave、[flac](https://zh.wikipedia.org/wiki/flac "wikilink")、[ogg等音樂格式輸出](https://zh.wikipedia.org/wiki/ogg "wikilink")。
+  - 可以导出[midi](https://zh.wikipedia.org/wiki/midi "wikilink")、wave、[flac](https://zh.wikipedia.org/wiki/flac "wikilink")、[ogg等音樂格式](https://zh.wikipedia.org/wiki/ogg "wikilink")。
   - 具Musescore Connect 窗格\[1\] ，可瀏覽開啟已出版的樂譜，或上傳自己的樂譜。
 
 ## 歷史

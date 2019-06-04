@@ -559,9 +559,27 @@ Junior出演的影視作品列表](../Page/Super_Junior.md "wikilink")，包括�
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2018年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Youtube" title="wikilink">Youtube</a></p></td>
+<td><p>女神締造者</p></td>
+<td><p><a href="../Page/利特.md" title="wikilink">利特</a></p></td>
+<td><p>利特</p></td>
+<td><p>第2、3集</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="../Page/各位國民.md" title="wikilink">各位國民</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a></p></td>
+<td><p>楊正國</p></td>
+<td><p>全劇</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><em>待播</em></p></td>
 <td></td>
-<td><p>億萬繼承人</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/億萬繼承人" title="wikilink">億萬繼承人</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/始源" title="wikilink">始源</a></p></td>
 <td><p>岳喜旺</p></td>
 <td><p>男主角</p></td>
@@ -637,7 +655,8 @@ Junior出演的影視作品列表](../Page/Super_Junior.md "wikilink")，包括�
 | 2018年                                  | Maybe Happy Ending       | 藝聲          | Oliver           |
 | I LOVE YOU, YOU'RE PERFECT, NOW CHANGE | 神童                       |             |                  |
 | ALTAR BOYZ                             | 藝聲                       | Matthew     |                  |
-| 狂炎奏鳴曲                                  | 厲旭                       | J           |                  |
+| 2018-2019年                             | 狂炎奏鳴曲                    | 厲旭          | J                |
+| 2019年                                  | 30歳の頃に                   | ヒョンシク       |                  |
 
 ## 音樂錄影帶
 
@@ -826,12 +845,12 @@ Junior參演MV列表](https://zh.wikipedia.org/wiki/Super_Junior參演MV列表 "
 <td><p>12</p></td>
 </tr>
 <tr class="odd">
-<td><p>2018年11月5日﹣</p></td>
+<td><p>2018年11月5日﹣2018年12月26日</p></td>
 <td><p><a href="http://tv.naver.com/sjreturns">NAVER TV</a><br />
 <a href="http://channels.vlive.tv/D744FD">V LIVE</a></p></td>
-<td><p>SJ returns 2</p></td>
+<td><p><a href="../Page/SJ_Returns_2：E.L.F.的飯桌.md" title="wikilink">SJ Returns 2：E.L.F.的飯桌</a></p></td>
 <td><p>利特、希澈、神童、銀赫、東海、始源、厲旭</p></td>
-<td></td>
+<td><p>46</p></td>
 </tr>
 </tbody>
 </table>
@@ -1015,7 +1034,7 @@ SMG頻道（中國）</p></td>
 <tr class="even">
 <td><p>2019年3月17日－至今</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
-<td><p><a href="../Page/大逃出.md" title="wikilink">大逃出</a></p></td>
+<td><p><a href="../Page/大逃脫_(第二季).md" title="wikilink">大逃出2</a></p></td>
 <td><p><a href="../Page/神童_(藝人).md" title="wikilink">神童</a></p></td>
 <td></td>
 </tr>
@@ -2231,7 +2250,7 @@ SMG頻道（中國）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2018年8月20日－至今</p></td>
+<td><p>2018年8月20日－2018年10月12日</p></td>
 <td><p>MBC</p></td>
 <td><p><a href="../Page/現實男女.md" title="wikilink">現實男女</a>（第二季）</p></td>
 <td><p>利特</p></td>
@@ -2252,11 +2271,18 @@ SMG頻道（中國）</p></td>
 <td><p><a href="../Page/申鉉濬.md" title="wikilink">申鉉濬</a>、<a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="https://zh.wikipedia.org/wiki/素珍" title="wikilink">素珍</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2018年11月3日－至今</p></td>
+<td><p>2018年11月3日－2018年12月22日</p></td>
 <td><p>MBC</p></td>
-<td><p>Begin a game</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Begin_a_game" title="wikilink">Begin a game</a></p></td>
 <td><p>希澈、神童</p></td>
-<td><p>金峻鉉</p></td>
+<td><p>金峻鉉、<a href="../Page/孔燦.md" title="wikilink">孔燦</a>、<a href="https://zh.wikipedia.org/wiki/祚炫" title="wikilink">祚炫</a>、<a href="https://zh.wikipedia.org/wiki/Guillaume" title="wikilink">Guillaume</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2019年5月3日－至今</p></td>
+<td><p>tvN</p></td>
+<td><p><a href="../Page/一場聲音的戰爭：300.md" title="wikilink">一場聲音的戰爭：300</a>（第二季）</p></td>
+<td><p>神童</p></td>
+<td><p><a href="../Page/姜鎬童.md" title="wikilink">姜鎬童</a>、<a href="https://zh.wikipedia.org/wiki/Boom" title="wikilink">Boom</a></p></td>
 </tr>
 </tbody>
 </table>

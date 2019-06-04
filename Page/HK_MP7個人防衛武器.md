@@ -162,7 +162,7 @@ HK MP7](http://www.thefirearmblog.com/blog/2016/12/22/breaking-swedish-sog-now-
 
       - [倫敦警察廳](../Page/倫敦警察廳.md "wikilink")[專業槍械司令部](../Page/專業槍械司令部.md "wikilink")（MP7SF）
 
-  -   - [美國海軍特種作戰研究大隊](https://zh.wikipedia.org/wiki/美國海軍特種作戰研究大隊 "wikilink")\[39\]\[40\]
+  -   - [美國海軍特種作戰開發組](https://zh.wikipedia.org/wiki/美國海軍特種作戰開發組 "wikilink")\[39\]\[40\]
       - [部份地方警察單位](../Page/美國警察.md "wikilink")\[41\]\[42\]\[43\]
 
   -   - [瑞士近衛隊](https://zh.wikipedia.org/wiki/瑞士近衛隊 "wikilink")\[44\]
@@ -211,7 +211,7 @@ Officer on range.jpg|手持MP7-SF及身穿防化衣的警員
           - MP7-双雄：MP7的双持版本，两把枪共60发载弹量，前握把折叠。
       - MP7A1命名为MP7A1，使用40发弹匣并加装瞄准镜和消音器，枪托拉出。为CF点武器，价格为180天/5800CF点。
   - 2008年—《[AVA
-    戰地之王](../Page/戰地之王.md "wikilink")》：型號為MP7A1，使用40發彈匣，為偵察兵專用武器。可以改裝槍口、槍管、槍柄和瞄準鏡，也可裝上[消音器](../Page/抑制器.md "wikilink")。
+    戰地之王](../Page/戰地之王.md "wikilink")》：型號為MP7A1，使用40發彈匣，為偵察兵專用武器。可以改裝槍口、槍管、槍柄和瞄準鏡或裝備[雷射瞄準器](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")，也可裝上[消音器](../Page/抑制器.md "wikilink")。
   - 2010年—《[荣誉勋章](https://zh.wikipedia.org/wiki/荣誉勋章2010 "wikilink")》：型号为MP7A1，使用40发弹匣，装上了，故事模式中被AFO狼群所使用，奇怪地會於2002年出現。聯機模式時為雙方特戰兵專用武器。
   - 2011年—《[-{zh-hans:使命召唤：现代战争;
     zh-hant:決勝時刻：現代戰爭;}-3](../Page/決勝時刻：現代戰爭3.md "wikilink")》：型號為MP7A1，使用40發彈匣，特種作戰模式之中被[美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")[三角洲特種部隊所使用](https://zh.wikipedia.org/wiki/三角洲特種部隊 "wikilink")。聯機模式中於等級74解鎖，生存模式時則在等級13解鎖，價錢為2,000美元。可使用改裝包括：[紅點鏡](../Page/紅點鏡.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")、[HAMR瞄準鏡](https://zh.wikipedia.org/wiki/HAMR瞄準鏡 "wikilink")、[熱能探測式瞄具](https://zh.wikipedia.org/wiki/熱輻射 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、延長彈匣（增至60發）及增加射速。
@@ -220,13 +220,15 @@ Officer on range.jpg|手持MP7-SF及身穿防化衣的警員
   - 2012年—《[-{zh-hans:反恐精英：全球攻势;
     zh-hant:絕對武力：全球攻勢;}-](https://zh.wikipedia.org/wiki/絕對武力：全球攻勢 "wikilink")》：為CS:GO追加的新武器，型號為MP7A1，命名为“MP7”，使用30發彈匣，為双方通用武器，並替代前作的MP5。可配备许多具有观赏价值的涂装（皮肤）。
   - 2012年—《[-{zh-hans:荣誉勋章：战士;
-    zh-hant:榮譽勳章：鐵血悍將;}-](https://zh.wikipedia.org/wiki/榮譽勳章：鐵血悍將 "wikilink")》：型號為MP7A1，使用40+1發彈匣。故事模式時被馬科特遣隊所屬的[美國海軍特種作戰研究大隊隊員](https://zh.wikipedia.org/wiki/美國海軍特種作戰研究大隊 "wikilink")（包括“牧師”和“老媽”）所使用。多人模式時為特戰兵的可用武器。
+    zh-hant:榮譽勳章：鐵血悍將;}-](https://zh.wikipedia.org/wiki/榮譽勳章：鐵血悍將 "wikilink")》：型號為MP7A1，使用40+1發彈匣。故事模式時被馬科特遣隊所屬的[美國海軍特種作戰開發組隊員](https://zh.wikipedia.org/wiki/美國海軍特種作戰開發組 "wikilink")（包括“牧師”和“老媽”）所使用。多人模式時為特戰兵的可用武器。
   - 2012年—《[-{zh-hans:使命召唤：黑色行动;
-    zh-hant:決勝時刻：黑色行動;}-II](../Page/決勝時刻：黑色行動II.md "wikilink")》：型號為MP7A1，於故事模式和聯機模式中皆有出現，命名為「MP7」，使用40發（故事模式及聯機模式可使用改裝：延長彈匣增至54發）[彈匣供彈](../Page/彈匣.md "wikilink")，初始攜彈量為240發（故事模式）和120發（聯機模式），最高攜彈量為520發（故事模式）和320發（聯機模式）。故事模式之中被[美國海軍特戰開發小組和](https://zh.wikipedia.org/wiki/美國海軍特戰開發小組 "wikilink")[也門陸軍所使用](https://zh.wikipedia.org/wiki/也門陸軍 "wikilink")；聯機模式時於等級4解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、快速重裝彈匣、、[前握把](../Page/輔助握把.md "wikilink")、快速抽出握把、、[長槍管](../Page/槍管.md "wikilink")、目標搜索器、可調節[槍托](../Page/槍托.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")、射速增加、毫米波掃描器。
+    zh-hant:決勝時刻：黑色行動;}-II](../Page/決勝時刻：黑色行動II.md "wikilink")》：型號為MP7A1，於故事模式和聯機模式中皆有出現，命名為「MP7」，使用40發（故事模式及聯機模式可使用改裝：延長彈匣增至54發）[彈匣供彈](../Page/彈匣.md "wikilink")，初始攜彈量為240發（故事模式）和120發（聯機模式），最高攜彈量為520發（故事模式）和320發（聯機模式）。故事模式之中被[美國海軍特種作戰開發組和](https://zh.wikipedia.org/wiki/美國海軍特種作戰開發組 "wikilink")[也門陸軍所使用](https://zh.wikipedia.org/wiki/也門陸軍 "wikilink")；聯機模式時於等級4解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、快速重裝彈匣、、[前握把](../Page/輔助握把.md "wikilink")、快速抽出握把、、[長槍管](../Page/槍管.md "wikilink")、目標搜索器、可調節[槍托](../Page/槍托.md "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")、射速增加、毫米波掃描器。
   - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》：型号为MP7A1，命名为“H\&K
     MP7”，为工程兵专用武器，使用30发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")，高级解锁，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器、[冲锋枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[冲锋枪刺刀](../Page/刺刀.md "wikilink")）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、冲锋枪普通瞄准镜、冲锋枪高级瞄准镜、[冲锋枪专家瞄准镜](https://zh.wikipedia.org/wiki/Leupold_Mark_4_CQ/T光学瞄准镜 "wikilink")，不能改装战术导轨部件，视为自带前握把。拥有丛林迷彩改装版本，增加威力，射速及载弹量。
       - 丛林迷彩版本为K点武器
+  - 2013年—《[-{zh-hans:反恐精英;zh-hant:絕對武力}-Online
+    2](https://zh.wikipedia.org/wiki/絕對武力Online2 "wikilink")》：型號為MP7A1，命名為“MP7A1”，以40發彈匣供彈。
   - 2013年—《[-{zh-hans:战地;
     zh-hant:戰地風雲;}-4](../Page/戰地風雲4.md "wikilink")》：[资料片](https://zh.wikipedia.org/wiki/资料片 "wikilink")「中國崛起」（China
     Rising）武器之一。型號為MP7A1，命名為「MP7」（中文版則命名為「MP7衝鋒槍」），40+1發彈匣。聯機模式時於完成小任務「愛國者飛彈」以後才能解鎖，被歸類為[個人防衛武器](../Page/個人防衛武器.md "wikilink")。
@@ -240,10 +242,11 @@ Officer on range.jpg|手持MP7-SF及身穿防化衣的警員
     T1、SRS 02、[Comp
     M4S](../Page/Aimpoint_Comp_M4紅點鏡.md "wikilink")、[M145](../Page/C79光學瞄準鏡.md "wikilink")（放大3.4倍）、PO（放大3.5倍）
     、[ACOG](../Page/先進戰鬥光學瞄準鏡.md "wikilink")（放大4倍）、[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")（放大4倍）、[IRNV](https://zh.wikipedia.org/wiki/夜視儀 "wikilink")（放大1倍）、[FLIR](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")（放大2倍））、附加配件（傾斜式[機械瞄具](../Page/機械瞄具.md "wikilink")、傾斜式紅點鏡、[電筒](https://zh.wikipedia.org/wiki/電筒 "wikilink")、[戰術燈](../Page/戰術燈.md "wikilink")、[激光瞄準器](https://zh.wikipedia.org/wiki/激光指示器 "wikilink")）及槍口零件（[槍口制退器](../Page/砲口制動器.md "wikilink")、補償器、重[槍管](../Page/槍管.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、消焰器）。
-  - 2016年—《[殺戮空間2](https://zh.wikipedia.org/wiki/殺戮空間2 "wikilink")》（Killing
-    Floor 2）：型號為MP7A1，命名為「MP7 SMG」，使用40發彈匣但只有30發，裝有抑制器和C-More紅點鏡。
-  - 2016年（台版2017年）—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：[擬人化角色](../Page/萌擬人化.md "wikilink"),配有T1瞄具及專用消音管,40發彈匣,首次登場為2018年「塌縮點」資料片。
-  - 2018年-《[SCP秘密實驗室](https://zh.wikipedia.org/wiki/SCP秘密實驗室 "wikilink")》:開局為保安的主武器,還有一把在輕收容區被標為\[\#\#00\]的武器庫內
+  - 2016年—《[殺戮空間2](https://zh.wikipedia.org/wiki/殺戮空間2 "wikilink")》：型號為MP7A1，命名為「MP7
+    SMG」，使用40發彈匣但只有30發，裝有抑制器和C-More紅點鏡。
+  - 2016年（台版2017年）—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：[擬人化角色](../Page/萌擬人化.md "wikilink")，配有T1瞄具及專用消音管，40發彈匣，首次登場為2018年「塌縮點」資料片。
+  - 2016年—《》：登場型號為MP7A1及MP7A2。
+  - 2018年—《[SCP秘密實驗室](https://zh.wikipedia.org/wiki/SCP秘密實驗室 "wikilink")》:開局為保安的主武器，還有一把在輕收容區被標為\[\#\#00\]的武器庫內。
 
 ### 動畫
 

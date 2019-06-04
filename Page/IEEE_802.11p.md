@@ -51,7 +51,7 @@ E2213-03計畫的基础上](https://zh.wikipedia.org/wiki/ASTM_E2213-03 "wikilin
     IEEE的文章，有demo可看
 
   - {{〈}}[Intelligent Transportation
-    gets 802.11p](http://dailywireless.org/modules.php?name=News&file=article&sid=2815&src=rss09){{〉}}《Daily
+    gets 802.11p](https://web.archive.org/web/20041013165444/http://dailywireless.org/modules.php?name=News&file=article&sid=2815&src=rss09){{〉}}《Daily
     Wireless》2004年7月15日
 
   - Dan Benjamin，{{〈}}[Could 802.11p spell the end for cellular in the

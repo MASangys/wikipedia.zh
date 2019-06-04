@@ -1482,7 +1482,7 @@
 | [迈阿密熱火](https://zh.wikipedia.org/wiki/迈阿密熱火 "wikilink")                                                               | [德韋恩·韋德](https://zh.wikipedia.org/wiki/德韋恩·韋德 "wikilink")             | 20221分      | 持續中  |
 | [洛杉磯快艇](../Page/洛杉矶快船.md "wikilink")                                                                                  | [蘭迪·史密斯](https://zh.wikipedia.org/wiki/蘭迪·史密斯 "wikilink")             | 12735分      |      |
 | [鳳凰城太陽](https://zh.wikipedia.org/wiki/菲尼克斯太陽 "wikilink")                                                              | [沃尔特·戴维斯](../Page/沃尔特·戴维斯.md "wikilink")                              | 15666分      |      |
-| [金州勇士](../Page/金州勇士.md "wikilink")                                                                                    | [威爾特·張伯倫](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")           | 17783分      |      |
+| [金州勇士](../Page/金州勇士.md "wikilink")/[費城勇士](https://zh.wikipedia.org/wiki/費城勇士 "wikilink")                              | [威爾特·張伯倫](https://zh.wikipedia.org/wiki/威爾特·張伯倫 "wikilink")           | 17783分      |      |
 | [沙加緬度國王](https://zh.wikipedia.org/wiki/萨克拉门托國王 "wikilink")                                                            | [奧斯卡·羅伯森](https://zh.wikipedia.org/wiki/奧斯卡·羅伯森 "wikilink")           | 22009分      |      |
 | [洛杉矶湖人](../Page/洛杉矶湖人.md "wikilink")                                                                                  | [科比·布萊恩特](https://zh.wikipedia.org/wiki/科比·布萊恩特 "wikilink")           | 33643分      |      |
 | [明尼蘇達灰狼](../Page/明尼苏达森林狼.md "wikilink")                                                                               | [凯文·加内特](../Page/凯文·加内特.md "wikilink")                                | 19201分      |      |
@@ -2973,90 +2973,84 @@
 <td><p>1997年1月15日</p></td>
 </tr>
 <tr class="odd">
-<td><p>單場單隊最多抄截</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">西雅圖超音速</a></p></td>
-<td><p>27個</p></td>
-<td><p>1997年1月15日</p></td>
-</tr>
-<tr class="even">
 <td><p>單場單隊最少抄截</p></td>
 <td><p><a href="../Page/達拉斯獨行俠.md" title="wikilink">達拉斯獨行俠</a></p></td>
 <td><p>1個</p></td>
 <td><p>2019年3月13日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>單場单隊最少罰球</p></td>
 <td><p><a href="../Page/孟菲斯灰熊.md" title="wikilink">孟菲斯灰熊</a></p></td>
 <td><p>1次罰球</p></td>
 <td><p>2014年2月8日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>單場单隊最多罰球</p></td>
 <td><p><a href="../Page/菲尼克斯太阳.md" title="wikilink">菲尼克斯太阳</a></p></td>
 <td><p>80次</p></td>
 <td><p>1990年4月9日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>單場单隊最多罰球命中</p></td>
 <td><p><a href="../Page/菲尼克斯太阳.md" title="wikilink">菲尼克斯太阳</a></p></td>
 <td><p>61个</p></td>
 <td><p>1990年4月9日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>單場单隊最多罰球不中</p></td>
 <td><p><a href="../Page/费城76人.md" title="wikilink">费城76人</a></p></td>
 <td><p>33个（60罚27中）</p></td>
 <td><p>1967年12月1日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>單場单隊罰球命中率最低紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a></p></td>
-<td><p>24罰2中</p></td>
+<td><p>14罰2中</p></td>
 <td><p>2018年1月20日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>單場最懸殊比分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士V</a>.S<a href="https://zh.wikipedia.org/wiki/邁阿密熱火" title="wikilink">邁阿密熱火</a></p></td>
 <td><p>148比80，淨勝68分</p></td>
 <td><p>1991年12月18日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>單場勝差比對手得分更多比賽</p></td>
 <td><p><a href="../Page/印第安纳步行者.md" title="wikilink">印第安纳步行者V</a>.S<a href="https://zh.wikipedia.org/wiki/波特蘭开拓者" title="wikilink">波特蘭开拓者</a></p></td>
 <td><p>124比59，65分</p></td>
 <td><p>1998年2月28日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>單場球隊最多延長賽</p></td>
 <td><p><a href="../Page/印第安纳步行者.md" title="wikilink">印第安那波利斯奧林匹克</a>&amp;<a href="https://zh.wikipedia.org/wiki/萨克拉门托國王" title="wikilink">羅徹斯特皇家</a></p></td>
 <td><p>6次延長</p></td>
 <td><p>1951年1月7日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>單季最多三分球命中</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">休士頓火箭</a></p></td>
 <td><p>1083球（23.1%）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17 NBA賽季</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>單季最多三分球出手</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">休士頓火箭</a></p></td>
 <td><p>2680球</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2015-16_NBA賽季" title="wikilink">2015-16 NBA賽季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>單季最多三分球不进</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休斯顿火箭" title="wikilink">休斯顿火箭</a></p></td>
 <td><p>1747球</p></td>
 <td><p><a href="../Page/2014-15_NBA賽季.md" title="wikilink">2014-15 NBA賽季</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>單季上下半季勝敗場差距最大賽季結束5成勝率</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/邁阿密熱火" title="wikilink">邁阿密熱火</a></p></td>
 <td><p>11勝30敗，41勝41敗</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2016-17_NBA賽季" title="wikilink">2016-17 NBA賽季</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -3078,12 +3072,18 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>季後賽最大比分逆轉</p></td>
+<td><p>[[洛杉磯快艇]對[[金州勇士|洛杉磯快艇]對<a href="../Page/金州勇士.md" title="wikilink">金州勇士</a></p></td>
+<td><p>31分</p></td>
+<td><p><a href="../Page/2009年NBA季後賽.md" title="wikilink">2009年NBA季後賽第一輪第</a>2戰</p></td>
+</tr>
+<tr class="even">
 <td><p>季後賽殊死戰最懸殊的比分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/達拉斯小牛" title="wikilink">達拉斯小牛</a></p></td>
 <td><p>40分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2005年NBA季後賽" title="wikilink">2005年NBA季後賽第一輪第</a>7戰</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>季後賽最懸殊的比分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a><br />
 <a href="https://zh.wikipedia.org/wiki/丹佛金塊" title="wikilink">丹佛金塊</a></p></td>
@@ -3091,43 +3091,43 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/1956年NBA季後賽" title="wikilink">1956年NBA季後賽</a><br />
 <a href="../Page/2009年NBA季後賽.md" title="wikilink">2009年NBA季後賽</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季後賽半場最懸殊比分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
 <td><p>41分</p></td>
 <td><p><a href="../Page/2017年NBA季後賽.md" title="wikilink">2017年NBA季後賽第</a>2戰</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>季後賽單場單隊最多三分球</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
 <td><p>25球</p></td>
 <td><p><a href="../Page/2016年NBA季後賽.md" title="wikilink">2016年NBA季後賽第二輪第</a>2戰</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季後賽單場單隊最多三分球不進</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休斯顿火箭" title="wikilink">休斯顿火箭</a></p></td>
 <td><p>37球（44中7）</p></td>
 <td><p><a href="../Page/2018年NBA季後賽.md" title="wikilink">2018年NBA季後賽西岸決賽第</a>7戰</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>總冠軍賽單場單隊最多三分球</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
 <td><p>24球</p></td>
 <td><p><a href="../Page/2017年NBA總決賽.md" title="wikilink">2017年NBA總決賽第</a>4戰</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季後賽單場最多火鍋</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/亞特蘭大老鷹" title="wikilink">亞特蘭大老鷹</a></p></td>
 <td><p>15個</p></td>
 <td><p><a href="../Page/2016年NBA季後賽.md" title="wikilink">2016年NBA季後賽第一輪第</a>2戰</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>總決賽半場最高命中率紀錄</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a></p></td>
 <td><p>75.8%</p></td>
 <td><p><a href="../Page/2014年NBA總決賽.md" title="wikilink">2014年NBA總決賽第</a>3戰</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季後賽單場球隊單節最多得分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯湖人" title="wikilink">洛杉磯湖人</a><br />
 <a href="https://zh.wikipedia.org/wiki/費城七六人" title="wikilink">費城七六人</a></p></td>
@@ -3135,49 +3135,49 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/1962年NBA季後賽" title="wikilink">1962年NBA季後賽</a><br />
 <a href="../Page/2019年NBA季後賽.md" title="wikilink">2019年NBA季後賽第一輪第</a>2戰</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>季後賽單局最低得分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新澤西籃網" title="wikilink">新澤西籃網</a></p></td>
 <td><p>9分</p></td>
 <td><p><a href="../Page/2003年NBA總決賽.md" title="wikilink">2003年NBA總決賽第</a>3戰</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季後賽單場球隊最多罰球</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/休士頓火箭" title="wikilink">休士頓火箭</a></p></td>
 <td><p>64罰42中</p></td>
 <td><p><a href="../Page/2015年NBA季後賽.md" title="wikilink">2015年NBA季後賽第二輪第</a>2戰</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>季後賽半場最低得分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新澤西籃網" title="wikilink">新澤西籃網</a></p></td>
 <td><p>30分</p></td>
 <td><p><a href="../Page/2003年NBA總決賽.md" title="wikilink">2003年NBA總決賽第</a>3戰</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季後賽半場最高得分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/密爾瓦基公鹿" title="wikilink">密爾瓦基公鹿</a></p></td>
 <td><p>87分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/1984年NBA季後賽" title="wikilink">1984年NBA季後賽</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>季後賽兩隊半場最低得分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聖安東尼奧馬刺" title="wikilink">聖安東尼奧馬刺</a>&amp;<a href="https://zh.wikipedia.org/wiki/新澤西籃網" title="wikilink">新澤西籃網</a></p></td>
 <td><p>63分</p></td>
 <td><p><a href="../Page/2003年NBA總決賽.md" title="wikilink">2003年NBA總決賽第</a>3戰（33-30）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>季後賽兩隊半場最高得分</p></td>
 <td><p><a href="../Page/金州勇士.md" title="wikilink">金州勇士</a>&amp;<a href="https://zh.wikipedia.org/wiki/克里夫蘭騎士" title="wikilink">克里夫蘭騎士</a></p></td>
 <td><p>154分</p></td>
 <td><p><a href="../Page/2017年NBA總決賽.md" title="wikilink">2017年NBA總決賽第</a>4戰（68-86）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>季後賽第二節最低得分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新澤西籃網" title="wikilink">新澤西籃網</a></p></td>
 <td><p>9分</p></td>
 <td><p><a href="../Page/2003年NBA總決賽.md" title="wikilink">2003年NBA總決賽第</a>3戰</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -3486,7 +3486,6 @@
 
 [Category:NBA](https://zh.wikipedia.org/wiki/Category:NBA "wikilink")
 [Category:籃球紀錄及統計數據](https://zh.wikipedia.org/wiki/Category:籃球紀錄及統計數據 "wikilink")
-[Category:育誠寶典](https://zh.wikipedia.org/wiki/Category:育誠寶典 "wikilink")
 
 1.
 2.

@@ -73,7 +73,7 @@ Studio制作项目文件](https://zh.wikipedia.org/wiki/Visual_Studio "wikilink"
     pages:[\*one](https://web.archive.org/web/20060110134958/http://www.openismus.com/documents/linux/automake/automake.shtml)
     [\*two](https://archive.is/20130104065837/http://www.openismus.com/documents/linux/using_libraries/using_libraries.shtml).
   - [Autotoolset home page](http://autotoolset.sourceforge.net/)
-  - <http://www.freesoftwaremagazine.com/books/autotools_a_guide_to_autoconf_automake_libtool>
+  - <https://web.archive.org/web/20140816060326/http://www.freesoftwaremagazine.com/books/autotools_a_guide_to_autoconf_automake_libtool>
 
 ### 教程
 

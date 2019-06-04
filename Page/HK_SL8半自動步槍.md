@@ -5,7 +5,7 @@ Remington或](../Page/.223_Remington.md "wikilink")[5.56×45毫米](../Page/5.56
 G36的30發[彈匣相似的](../Page/彈匣.md "wikilink")10發特製可拆式彈匣；另外，並取決於此槍的衍生型）
 
 由於HK SL8是HK
-G36步槍的半自動民用型版本，因此亦使用來自G36的[短行程活塞氣動式](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#活塞原理 "wikilink")、[斯通納式轉拴式槍機](../Page/滾轉式槍機.md "wikilink")、類似[M16步槍的氣環活塞系统及單導桿設計](../Page/M16突擊步槍.md "wikilink")（而G36的氣動式和轉拴式槍機皆由[AR-18衍生而來](../Page/AR-18突擊步槍.md "wikilink")），這與最早期的黑克勒-科赫製生產的槍械所使用的[滾輪延遲反衝式](https://zh.wikipedia.org/wiki/反沖作用_\(槍械\)#滾輪延遲反沖 "wikilink")（）系統相反。SL8最初是提供給[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")，用作一枝外型類似G36、以便訓練預備役或能夠提供給無法裝備軍事級裝備的後備軍隊、[執法機關或](../Page/警察.md "wikilink")[游擊隊的武器](../Page/游击战.md "wikilink")。
+G36步槍的半自動民用型版本，因此亦使用來自G36的[短行程活塞氣動式](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#活塞原理 "wikilink")、斯通納式[轉拴式](../Page/轉拴式槍栓.md "wikilink")[槍栓](https://zh.wikipedia.org/wiki/槍栓 "wikilink")、類似[M16步槍的氣環活塞系统及單導桿設計](../Page/M16突擊步槍.md "wikilink")（而G36的氣動式和轉拴式槍機皆由[AR-18衍生而來](../Page/AR-18突擊步槍.md "wikilink")），這與最早期的黑克勒-科赫製生產的槍械所使用的[滾輪延遲反衝式](https://zh.wikipedia.org/wiki/反沖作用_\(槍械\)#滾輪延遲反沖 "wikilink")（）系統相反。SL8最初是提供給[德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")，用作一枝外型類似G36、以便訓練預備役或能夠提供給無法裝備軍事級裝備的後備軍隊、[執法機關或](../Page/警察.md "wikilink")[游擊隊的武器](../Page/游击战.md "wikilink")。
 
 ## 設計
 
@@ -15,7 +15,7 @@ G36的](../Page/HK_G36突擊步槍.md "wikilink")[手槍握把和折疊式](http
 
 許多由G36系列而來的零件都可以安裝在SL8以上，但除非經過修改，否則G36的[手槍握把和折疊式槍托都不能裝上SL](https://zh.wikipedia.org/wiki/手槍握把 "wikilink")8。至少有一間美國槍械零件製造公司“黑市零件”（）正製造符合SL8的G36型握把和折疊式槍托，而另一家不明的美國槍械零件製造公司亦生產的專門的轉接裝置，使得原來的G36折疊式槍托都能夠裝在SL8。
 
-很多美國的SL8的使用者都嘗試自行修改了其SL8，以便使用G36的30發大容量彈匣或100發[C-Mag](../Page/C-Mag彈鼓.md "wikilink")[彈鼓和](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")／或[手槍握把和折疊式槍托](https://zh.wikipedia.org/wiki/手槍握把 "wikilink")。但是美國的SL8無法裝上G36的30發彈匣或100發C-Mag彈鼓，除非將SL8的[滾轉式槍機](../Page/滾轉式槍機.md "wikilink")（單耳式槍機頭）改為G36的滾轉式槍機（雙耳式槍機頭），以及取代、修改原來的[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")、[彈匣和](../Page/彈匣.md "wikilink")[彈匣插槽](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")，這樣才可以裝上G36的30發彈匣或100發C-Mag彈鼓。然而，這樣修改SL8或任何其他進口的半自動民用型步槍很明顯地遺反了1968年，該法例完全禁止裝上任何適用於半自動民用型步槍的進口配件和自行作非法修改（[手枪](../Page/手枪.md "wikilink")、[霰彈槍除外](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")）。因此，使用者應該考慮向位於[西弗吉尼亚州的](https://zh.wikipedia.org/wiki/西弗吉尼亚州 "wikilink")[馬丁斯堡的美國菸酒槍炮及爆裂物管理局槍械科技科查詢一下這些修改是否合法](../Page/马丁斯堡_\(西弗吉尼亚州\).md "wikilink")。
+很多美國的SL8的使用者都嘗試自行修改了其SL8，以便使用G36的30發大容量彈匣或100發[C-Mag](../Page/C-Mag彈鼓.md "wikilink")[彈鼓和](https://zh.wikipedia.org/wiki/彈鼓 "wikilink")／或[手槍握把和折疊式槍托](https://zh.wikipedia.org/wiki/手槍握把 "wikilink")。但是美國的SL8無法裝上G36的30發彈匣或100發C-Mag彈鼓，除非將SL8的[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")（單耳式槍機頭）改為G36的轉拴式槍栓（雙耳式槍機頭），以及取代、修改原來的[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")、[彈匣和](../Page/彈匣.md "wikilink")[彈匣插槽](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")，這樣才可以裝上G36的30發彈匣或100發C-Mag彈鼓。然而，這樣修改SL8或任何其他進口的半自動民用型步槍很明顯地遺反了1968年，該法例完全禁止裝上任何適用於半自動民用型步槍的進口配件和自行作非法修改（[手枪](../Page/手枪.md "wikilink")、[霰彈槍除外](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")）。因此，使用者應該考慮向位於[西弗吉尼亚州的](https://zh.wikipedia.org/wiki/西弗吉尼亚州 "wikilink")[馬丁斯堡的美國菸酒槍炮及爆裂物管理局槍械科技科查詢一下這些修改是否合法](../Page/马丁斯堡_\(西弗吉尼亚州\).md "wikilink")。
 
 截至2010年7月28日，SL8在美國已經停止生產，當時的型號為SL8-6，最後列出的[MSRP為](https://zh.wikipedia.org/wiki/建議售價 "wikilink")[$](../Page/美元.md "wikilink")2,449。\[1\]
 

@@ -18,7 +18,4 @@ Through The Eyes of Love 專輯。
   - Imdb.com[1](http://www.imdb.com/title/tt0274574/soundtrack)
   - [2](http://www.encyclopedia.com/doc/1G1-14895628.html)
 
-[en:2300 Jackson
-Street](https://zh.wikipedia.org/wiki/en:2300_Jackson_Street "wikilink")
-
 [Category:1989年單曲](https://zh.wikipedia.org/wiki/Category:1989年單曲 "wikilink")

@@ -145,8 +145,8 @@ F1\]\]
     zh-hant:絕對武力;}-](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")》（Counter-Strike）及其衍生作品（《[-{zh-hans:零点行动;
     zh-hant:一觸即發;}-](../Page/絕對武力：一觸即發.md "wikilink")》、《[-{zh-hans:起源;
     zh-hant:次世代;}-](../Page/絕對武力：次世代.md "wikilink")》及《[Online](../Page/絕對武力Online.md "wikilink")》）：於1.6版本新增的武器，型號為FAMAS
-    F1，被命名為**Clarion
-    5.56**，反恐部隊專用武器，可切換成[三發點放模式](../Page/三發點放.md "wikilink")。其中1.6和Online的版本在開火時槍機靜止不動，這個問題在-{zh-hans:零点行动;
+    F1，被命名為“Clarion
+    5.56”，反恐部隊專用武器，可從全自動及[三發點放模式進行切換](../Page/三發點放.md "wikilink")。其中1.6和Online的版本在開火時槍機靜止不動，這個問題在-{zh-hans:零点行动;
     zh-hant:一觸即發;}-和-{zh-hans:起源; zh-hant:次世代;}-中得到修正。
   - 2005年—《[-{zh-hans:战地;
     zh-hant:戰地風雲;}-2](https://zh.wikipedia.org/wiki/戰地風雲2 "wikilink")》（Battlefield
@@ -178,13 +178,16 @@ F1\]\]
   - 2012年—《[-{zh-hans:反恐精英：全球攻势;
     zh-hant:絕對武力：全球攻勢;}-](https://zh.wikipedia.org/wiki/絕對武力：全球攻勢 "wikilink")》（Counter-Strike:
     Global Offensive）：型號為FAMAS
-    G2，命名为“FAMAS”，为反恐部隊專用武器，可切換成[三發點放模式](../Page/三發點放.md "wikilink")。使用30发弹匣但只装填25发弹药。
+    G2，命名为“FAMAS”，为反恐部隊專用武器，可從全自動及[三發點放模式進行切換](../Page/三發點放.md "wikilink")。使用30发弹匣但只装填25发弹药。
   - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：型号为FAMAS
     F1，命名为“FAMAS
     F1”，三发点放，配備從提把頂部的導軌安裝的售後市場機械瞄具，造型上使用25发直型弹匣却奇怪的装填30发弹药，为步枪手专用武器，K点购买，并可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、突击消音器、[突击制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[突击刺刀](../Page/刺刀.md "wikilink")）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、突击握把、突击握把架、[枪挂型榴弹发射器](https://zh.wikipedia.org/wiki/FN_EGLM附加型榴弹发射器 "wikilink")）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[ELCAN
     SpecterDS瞄准镜](https://zh.wikipedia.org/wiki/C79光学瞄准镜 "wikilink")、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点镜 "wikilink")、[步枪高级瞄准镜](https://zh.wikipedia.org/wiki/ELCAN_SpecterDR光学瞄准镜 "wikilink")、[Trijicon
     ACOG瞄准镜](../Page/先進戰鬥光學瞄準鏡.md "wikilink")）。加装刺刀时刺刀会奇怪的挂载于在枪管下方而非上方。（这是因为统一模型的缘故，游戏的步枪手专用刺刀为AK枪族所使用的刺刀）
+  - 2013年—《[-{zh-hans:反恐精英;zh-hant:絕對武力}-Online
+    2](https://zh.wikipedia.org/wiki/絕對武力Online2 "wikilink")》（Counter-Strike
+    Online 2）：型號為FAMAS F1，命名為“FAMAS”，可從全自動及三發點放模式進行切換。為反恐小組專用武器。
   - 2013年—《[-{zh-hans:战地4;zh-hant:戰地風雲4;}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：型號為FAMAS FÉLIN，命名為「FAMAS」，25+1發彈匣，單機模式中能夠被主角丹尼爾·雷克（Daniel
     Recker）所使用。聯機模式中為突擊兵的可解鎖武器。

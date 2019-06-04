@@ -75,9 +75,6 @@ GeForce 400系列](../Page/NVIDIA_GeForce_400.md "wikilink")，分別為GTX 470�
 
   - [NVIDIA主頁](http://www.nvidia.com/)
 
-[ru:NVidia
-GT300](https://zh.wikipedia.org/wiki/ru:NVidia_GT300 "wikilink")
-
 [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
 
 1.  [传NVIDIA再次改名填补GT300低端空缺](http://news.mydrivers.com/1/143/143325.htm)

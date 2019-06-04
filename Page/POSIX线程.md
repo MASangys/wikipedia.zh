@@ -215,7 +215,8 @@ int main(void)
 
   -
   -
-  -
+  - [GNU可移植线程库](https://zh.wikipedia.org/wiki/GNU可移植线程库 "wikilink")
+
   -
 ## 外部链接
 

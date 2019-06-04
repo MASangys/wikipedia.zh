@@ -77,11 +77,11 @@ Demo：作為JAS-39C/D改良型JAS-39NG的先行實驗機，於2008年4月23日�
 Demo首次進行1.2馬赫的[超音速巡航](../Page/超音速巡航.md "wikilink")。
 
 JAS-39NG：換裝F-414G發動機，後燃推力22,000 lbf，Ericsson PS-05/A
-MK5[主動相位陣列雷達](../Page/電子掃描陣列雷達.md "wikilink")\[1\]，提升航程／載油量，航電座艙現代化，客戶可選購BAE
-Systems頭盔顯示器來取代HUD。整體航電設備與[F-16E/F相當](../Page/F-16戰隼戰鬥機.md "wikilink")。
+MK5[主動相位陣列雷達](../Page/電子掃描陣列雷達.md "wikilink")\[1\]，提升航程／載油量，航電座艙現代化，採用一具大尺寸觸控彩色LCD，客戶可選購BAE
+Systems頭盔顯示器來取代HUD。整體航電設備與[F-16E/F相當](../Page/F-16戰隼戰鬥機.md "wikilink")。\[2\]
 
 Sea Gripen:
-準備研發的航空母艦起降型號，銷售對象為[英國皇家海軍及](../Page/英國皇家海軍.md "wikilink")[印度海軍](../Page/印度海軍.md "wikilink")。\[2\]
+準備研發的航空母艦起降型號，銷售對象為[英國皇家海軍及](../Page/英國皇家海軍.md "wikilink")[印度海軍](../Page/印度海軍.md "wikilink")。\[3\]
 
 ## 使用國家
 
@@ -111,28 +111,28 @@ Sea Gripen:
 <!-- end list -->
 
   - [芬蘭空軍](https://zh.wikipedia.org/wiki/芬蘭空軍 "wikilink")：2015年10月20日，芬蘭國防部宣佈展開HX計劃，五年內揀選新一代[戰鬥機取代現役](https://zh.wikipedia.org/wiki/戰鬥機 "wikilink")60餘架[F/A-18C/D戰鬥攻擊機](https://zh.wikipedia.org/wiki/F/A-18 "wikilink")。
-    \[3\]
+    \[4\]
     國防部點名七款戰鬥機作初步評估，包括[陣風戰鬥機](../Page/陣風戰鬥機.md "wikilink")、[颱風戰鬥機](../Page/颱風戰鬥機.md "wikilink")、[F-15鷹式戰鬥機](../Page/F-15鷹式戰鬥機.md "wikilink")、[F-16戰隼戰鬥機](../Page/F-16戰隼戰鬥機.md "wikilink")、[F/A-18E/F超級大黃蜂](https://zh.wikipedia.org/wiki/F/A-18E/F超級大黃蜂式打擊戰鬥機 "wikilink")、[F-35閃電II戰鬥機及](../Page/F-35閃電II戰鬥機.md "wikilink")**JAS
-    39獅鷲戰鬥機**。 當局預計2025年起汰除現役F-18C/D戰機，並於隨後15年內完成替換。\[4\]
+    39獅鷲戰鬥機**。 當局預計2025年起汰除現役F-18C/D戰機，並於隨後15年內完成替換。\[5\]
 
 <!-- end list -->
 
   - [塞爾維亞空防軍](https://zh.wikipedia.org/wiki/塞爾維亞空防軍 "wikilink")：塞爾維亞政府宣布有意從[F-16戰鬥機](https://zh.wikipedia.org/wiki/F-16戰鬥機 "wikilink")、[F-18戰鬥機](https://zh.wikipedia.org/wiki/F-18戰鬥機 "wikilink")、[疾風戰鬥機](https://zh.wikipedia.org/wiki/疾風戰鬥機 "wikilink")、[JAS
-    39戰鬥機](https://zh.wikipedia.org/wiki/JAS_39戰鬥機 "wikilink")、[颱風戰機](https://zh.wikipedia.org/wiki/颱風戰機 "wikilink")、[Su-30或](https://zh.wikipedia.org/wiki/Su-30 "wikilink")[MiG-29M中揀選一種並訂購](https://zh.wikipedia.org/wiki/MiG-29 "wikilink")12～16架戰機以替換老舊的[MiG-21和](https://zh.wikipedia.org/wiki/MiG-21 "wikilink")[MiG-29](https://zh.wikipedia.org/wiki/MiG-29 "wikilink")。\[5\]\[6\]
+    39戰鬥機](https://zh.wikipedia.org/wiki/JAS_39戰鬥機 "wikilink")、[颱風戰機](https://zh.wikipedia.org/wiki/颱風戰機 "wikilink")、[Su-30或](https://zh.wikipedia.org/wiki/Su-30 "wikilink")[MiG-29M中揀選一種並訂購](https://zh.wikipedia.org/wiki/MiG-29 "wikilink")12～16架戰機以替換老舊的[MiG-21和](https://zh.wikipedia.org/wiki/MiG-21 "wikilink")[MiG-29](https://zh.wikipedia.org/wiki/MiG-29 "wikilink")。\[6\]\[7\]
 
 ## 國際任務
 
-  - [北大西洋公約組織](https://zh.wikipedia.org/wiki/北大西洋公約組織 "wikilink")：捷克空軍派出JAS-39戰機往冰島，執行的北極圈監控巡邏任務。\[7\]
+  - [北大西洋公約組織](https://zh.wikipedia.org/wiki/北大西洋公約組織 "wikilink")：捷克空軍派出JAS-39戰機往冰島，執行的北極圈監控巡邏任務。\[8\]
 
   - [北大西洋公約組織](https://zh.wikipedia.org/wiki/北大西洋公約組織 "wikilink")：瑞典空軍派出JAS-39往利比亞執行代號[Operation
     Unified
-    Protector的禁飛行動](https://zh.wikipedia.org/wiki/Operation_Unified_Protector "wikilink")。\[8\]該行動獲聯合國安全理事會授權。\[9\]
+    Protector的禁飛行動](https://zh.wikipedia.org/wiki/Operation_Unified_Protector "wikilink")。\[9\]該行動獲聯合國安全理事會授權。\[10\]
 
 ## 技術規格（Gripen NG）
 
 [JAS39_Gripen.svg](https://zh.wikipedia.org/wiki/File:JAS39_Gripen.svg "fig:JAS39_Gripen.svg")
 [Gripen_5.jpg](https://zh.wikipedia.org/wiki/File:Gripen_5.jpg "fig:Gripen_5.jpg")
-資料來源：Technical brochure, Gripen NG, English\[10\]
+資料來源：Technical brochure, Gripen NG, English\[11\]
 
 ### 一般規格
 
@@ -151,7 +151,7 @@ Sea Gripen:
 ### 性能
 
   - 最高速度：2[馬赫](https://zh.wikipedia.org/wiki/馬赫 "wikilink")
-  - [巡航速度](https://zh.wikipedia.org/wiki/巡航速度 "wikilink")：1.2[馬赫](https://zh.wikipedia.org/wiki/馬赫 "wikilink")\[11\]
+  - [巡航速度](https://zh.wikipedia.org/wiki/巡航速度 "wikilink")：1.2[馬赫](https://zh.wikipedia.org/wiki/馬赫 "wikilink")\[12\]
 
 <!-- end list -->
 
@@ -229,17 +229,18 @@ Sea Gripen:
 
 1.
 2.
-3.  Finland launches HX Project to select future fighter fleet, Stephen
+3.
+4.  Finland launches HX Project to select future fighter fleet, Stephen
     Trimble, Flight International:27 October-2 November 2015,
     Flightglobal, 2015, P.8.
-4.  Helsinki aims for Hornet successor, Beth Stevenson, Flight
+5.  Helsinki aims for Hornet successor, Beth Stevenson, Flight
     International:12-18 January 2016, Flightglobal, 2016, P.20.
-5.
 6.
 7.
 8.
 9.
-10. ["Technical brochure, Gripen NG,
+10.
+11. ["Technical brochure, Gripen NG,
     English"](http://www.saabgroup.com/Global/Documents%20and%20Images/Air/Gripen/Technical%20brochure,%20Gripen%20NG,%20English.pdf)
      *Gripen NG* SPECIFICATION P.5
-11.
+12.

@@ -168,7 +168,7 @@ Communities）站点。Twitter以1382%的百分数稳步发展，而Zimbio仅仅
 以Twitter为服务基础有许多软件和工具可以用于发布消息、监控内容等，这其中包括Twitvid（用于视频分享）、\[81\]
 [TweetDeck](../Page/TweetDeck.md "wikilink")、[Salesforce.com](../Page/Salesforce.com.md "wikilink")、[HootSuite以及Twitterfeed](../Page/HootSuite.md "wikilink").只有不到一半的消息是通过网站本身发出的，大部分用户更习惯于使用第三方软件进行消息发布等操作（此结论由Sysomos基于5亿条推文分析得到）。\[82\]
 
-### 趋势
+### 热门话题
 
 在Twitter上一个被打上标签符号（一个井号“\#”）的单词、词组或者是一个话题，如果当它被提及的频率远远高于其他标签的时候，就会成为一个热词而进入趋势列表。通常一个趋势是由许多用户共同推动或者是由于一个活动让用户针对某一特定话题进行讨论而产生的。\[83\]这些热门话题旨在于帮助用户了解世界上正在发生什么事情。\[84\]
 

@@ -47,7 +47,7 @@ Sight）。這代表導引系統與發射平台須直接連線，並要求目標
 
 ## 國際次型
 
-  - [伊朗以](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[逆向工程複製了TOW飛彈且正在生產中](../Page/逆向工程.md "wikilink")，這些飛彈印有伊朗對此飛彈的代號[圖芬](https://zh.wikipedia.org/wiki/圖芬 "wikilink")（Toophan）
+[伊朗以](https://zh.wikipedia.org/wiki/伊朗 "wikilink")[逆向工程複製了TOW飛彈且正在生產中](../Page/逆向工程.md "wikilink")，這些飛彈印有伊朗對此飛彈的代號[圖芬](../Page/颱風反坦克導彈.md "wikilink")（Toophan）
 
 另外，中国製造的[红箭-8反坦克飛彈也明显受到了TOW式的影响](https://zh.wikipedia.org/wiki/红箭-8反坦克飛彈 "wikilink")，并且在其未来的发展型红箭-8B上也可以看到TOW-2B串联战斗部设计的思路。
 
@@ -178,6 +178,7 @@ ITAS。在[伊拉克自由行動中](https://zh.wikipedia.org/wiki/伊拉克戰�
 [Category:反坦克导弹](https://zh.wikipedia.org/wiki/Category:反坦克导弹 "wikilink")
 [Category:越戰武器](https://zh.wikipedia.org/wiki/Category:越戰武器 "wikilink")
 [Category:美國海軍陸戰隊裝備](https://zh.wikipedia.org/wiki/Category:美國海軍陸戰隊裝備 "wikilink")
+[Category:美國售台軍事裝備](https://zh.wikipedia.org/wiki/Category:美國售台軍事裝備 "wikilink")
 
 1.
 

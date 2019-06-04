@@ -300,8 +300,4 @@ SEM](https://zh.wikipedia.org/wiki/GN-009_天使長GUNDAM#GN-00902（SEM） "wik
 
   - [機動戰士GUNDAM 00 登場機體列表](../Page/機動戰士GUNDAM_00_登場機體列表.md "wikilink")
 
-[en:Seravee
-Gundam](https://zh.wikipedia.org/wiki/en:Seravee_Gundam "wikilink")
-[ja:セラヴィーガンダム](https://zh.wikipedia.org/wiki/ja:セラヴィーガンダム "wikilink")
-
 [Category:GUNDAM_00兵器](https://zh.wikipedia.org/wiki/Category:GUNDAM_00兵器 "wikilink")

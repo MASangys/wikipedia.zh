@@ -8,8 +8,7 @@ do?**是[馬來西亞歌手](https://zh.wikipedia.org/wiki/馬來西亞 "wikilin
 
 ## 參見
 
-[Category:台灣音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:梁靜茹音樂專輯](https://zh.wikipedia.org/wiki/Category:梁靜茹音樂專輯 "wikilink")
 [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")
 
 1.  [相信音樂聲明啟事](http://fishleong106.pixnet.net/blog/post/24642586)，刊載於梁靜茹在痞客邦的部落格

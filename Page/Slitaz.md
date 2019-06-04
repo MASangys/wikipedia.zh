@@ -63,7 +63,7 @@ screenshot.png|Cooking Image:Uboat-slitaz-20100126-01.jpg|uboat slitaz
     Bohol](http://www.junauza.com/2008/03/slitaz-gnulinux-smallest-desktop-distro.html)
 
   - [Linux
-    Infusion](http://www.linuxinfusion.com/slitaz-a-light-weight-gnulinux-distribution)
+    Infusion](https://web.archive.org/web/20090205064915/http://www.linuxinfusion.com/slitaz-a-light-weight-gnulinux-distribution)
 
   - [about slitaz](http://www.slitaz.org/en/about/)
 

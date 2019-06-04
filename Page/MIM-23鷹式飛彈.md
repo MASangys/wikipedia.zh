@@ -1,32 +1,52 @@
-**MIM-23鷹式飛彈**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[雷神公司研製的中距離](../Page/雷神公司.md "wikilink")[地對空飛彈](https://zh.wikipedia.org/wiki/地對空飛彈 "wikilink")，主要是用來對抗中低空飛行的飛機，填補的防禦空缺。其名稱「鷹式」（HAWK）是「全程歸向殺手」（Homing
+**MIM-23鷹式飛彈**是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[雷神公司研製的中程](../Page/雷神公司.md "wikilink")[地對空飛彈](https://zh.wikipedia.org/wiki/地對空飛彈 "wikilink")，主要是用來對抗中低空飛行的飛機，填補的防禦空缺。其名稱「鷹式」（HAWK）是「全程歸向殺手」（Homing
 All the Way
-Killer）的[縮寫](../Page/縮寫.md "wikilink")。中国音译**霍克导弹**。1994年美軍的鷹式飛彈以[MIM-104愛國者飛彈替換](https://zh.wikipedia.org/wiki/MIM-104愛國者飛彈 "wikilink")，[美國海軍陸戰隊的鷹式飛彈則在](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")2002年以[刺針飛彈替換](../Page/FIM-92刺針便攜式防空飛彈.md "wikilink")，目前鷹式飛彈仍在美國以外的盟邦服役，總生產量至少有4萬枚。
+Killer）的[縮寫](../Page/縮寫.md "wikilink")。中国音译**霍克导弹**。鷹式飛彈使用連續波照明科技，使飛彈在低空的接戰表現優於勝利女神。[詹氏資訊集團報載鷹式飛彈的單發](../Page/詹氏資訊集團.md "wikilink")為0.56，改良型鷹式飛彈為0.85。\[1\]
 
-## 型號
+1994年美國陸軍的鷹式飛彈以[MIM-104愛國者飛彈替換](https://zh.wikipedia.org/wiki/MIM-104愛國者飛彈 "wikilink")，[美國海軍陸戰隊的鷹式飛彈則在](https://zh.wikipedia.org/wiki/美國海軍陸戰隊 "wikilink")2002年以[刺針飛彈替換](../Page/FIM-92刺針便攜式防空飛彈.md "wikilink")，目前鷹式飛彈仍在美國以外的盟邦服役，總生產量至少有4萬枚。
 
-MIM-23A
+## 設計
 
-MIM-23B
+鷹式飛彈系統除了作為攻擊主力的MIN-23飛彈以外，還包含了多樣的電子偵蒐、指揮、通訊器材才能構成一套完整的鷹式飛彈系統，此套系統可匹配野戰機動，為野戰單位提供對抗飛機的防空反擊能量。鷹式飛彈系統服役的40年間因為電子技術與戰術需求的進步，實施了相當多次的升級。
 
-MIM-23C
+服役初期，一個完整的鷹式飛彈發射連會有以下裝備：
 
-MIM-23C
+  - 1台脈衝搜索雷達（Pulse Acquisition Radar，**PAR**）
+  - 1台連續波搜索雷達（Continuous Wave Acquisition Radar，**CWAR**）
+  - 2台高功率連續波督卜勒雷達（High Power Illuminator doppler Radar，**HPI**）
+  - 1台測距雷達（Range Only Radar，**ROR**）
+  - 1組資訊協調中心（Information Coordination Central，**ICC**）
+  - 1組飛彈連控制中心（Battery Control Central，*'BCC*）
+  - 1組接敵射擊指揮站（Assault Fire Command
+    Console，**AFCC**）：AFCC會控制1具CWAR、1台HPI、3台發射架，為鷹式飛彈最小級別的火控單位。
+  - 1組排指揮所（Platoon Command Post，**PCP**）
+  - 2組發射架分配控制組（Launcher Section Controls，**LSC**）
+  - 6具M192三連裝飛彈發射架，18枚戰備彈
+  - 6台56KVa發電機，電源400赫茲
+  - 12具M390飛彈存放架，36枚備射彈
+  - 3台M501飛彈吊掛起重機
+  - 1輛箕斗裝載機
+  - 1組AN/MSM-43飛彈測試站
 
-MIM-23E
+到第三階段升級計畫時，鷹式連的裝備剩下：
 
-MIM-23F
+  - 1台脈衝搜索雷達
+  - 1台連續波搜索雷達
+  - 2台高功率連續波督卜勒雷達
+  - 1組火力控制中心（Fire Direction Center，**FDC**）
+  - 1套敵我辨識系統（Identification Friend or Foe Transceiver，**IFF**）
+  - 6輛數位化M192三連裝飛彈發射架，18枚戰備彈
+  - 6台60kw發電機，電源400赫茲
+  - 12具M390飛彈存放架，36枚備射彈
+  - 3台M501飛彈吊掛起重機
+  - 1輛箕斗裝載機
 
-MIM-23G
+<!-- end list -->
 
-MIM-23H
+  - 鷹式飛彈
 
-MIM-23K
+大多數國家的鷹式飛彈裝載於M192型三連裝飛彈發射架上，美軍曾在1969年研發由整合M192的自走飛彈發射車，編號M727，計畫在1971年8月停止。
 
-MIM-23J
-
-MIM-23L
-
-MIM-23M
+在A型以後的型號，鷹式飛彈的動力為一具雙推力固態火箭發動機提供。MIM-23A的發動機代號M22E8，全程燃燒時間25至32秒。MIM-23B以後發動機換為M112雙推力固態火箭發動機，M112的第一階段為加速，此階段燃燒5秒，第二階段為持續推力，此階段燃燒21秒。後期鷹式飛彈主要改良均為精進尋標器的反干擾性能與準確度。
 
 ## 中華民國服役現況
 
@@ -40,8 +60,6 @@ MIM-23M
 [German_Hawk_missile_unit,_1996.jpg](https://zh.wikipedia.org/wiki/File:German_Hawk_missile_unit,_1996.jpg "fig:German_Hawk_missile_unit,_1996.jpg")（Luftwaffe）服務的鷹式飛彈系統\]\]
 [M727-Hawk-hatzerim-2.jpg](https://zh.wikipedia.org/wiki/File:M727-Hawk-hatzerim-2.jpg "fig:M727-Hawk-hatzerim-2.jpg")
 [Hawk_Missile_Launcher_in_Chengkungling_Oct2011a.jpg](https://zh.wikipedia.org/wiki/File:Hawk_Missile_Launcher_in_Chengkungling_Oct2011a.jpg "fig:Hawk_Missile_Launcher_in_Chengkungling_Oct2011a.jpg")飛彈指揮部之鷹式飛彈\]\]
-
-{{-}}
 
 ## 外部連結
 
@@ -73,3 +91,8 @@ MIM-23M
 
 [Category:區域防空飛彈](https://zh.wikipedia.org/wiki/Category:區域防空飛彈 "wikilink")
 [Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink")
+[Category:美國售台軍事裝備](https://zh.wikipedia.org/wiki/Category:美國售台軍事裝備 "wikilink")
+
+1.  Tony Cullen and Christopher F. Foss (Eds), *Jane's Land-Based Air
+    Defence Ninth Edition 1996–97*, p. 296, Coulsdon: Jane's Information
+    Group, 1996.

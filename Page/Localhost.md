@@ -1,4 +1,4 @@
-**localhost**在[计算机网络中是一个](../Page/计算机网络.md "wikilink")[主机名称](https://zh.wikipedia.org/wiki/主机 "wikilink")，意为“本机”，“本地主机”。通过[本地环回网络接口](https://zh.wikipedia.org/wiki/本地环回 "wikilink")，它被用来访问本机运行的服务。本地环回网络会绕过任何本地网络接口硬件。
+**localhost**在[计算机网络中是一个](../Page/计算机网络.md "wikilink")[主机名称](https://zh.wikipedia.org/wiki/主机 "wikilink")，意为“本机”，“本地主机”。通过[本地环回网络接口](https://zh.wikipedia.org/wiki/回环网卡 "wikilink")，它被用来访问本机运行的服务。本地环回网络会绕过任何本地网络接口硬件。
 
 ## 本地環迴
 
@@ -68,10 +68,11 @@ bogon 滤波避免。\[5\]
 
 ## 特殊情况
 
-MySQL 数据库的版本区分使用主机名 localhost 与使用地址 127.0.0.1 和
-::1。\[6\]\[7\]当在应用程序的客户端连接器接口中使用 localhost
-作为目标时，MySQL 应用程序编程接口使用 Unix 域套接字连接到数据库，而通过环回接口的 TCP
-连接需要直接使用显式地址。
+在 [MySQL](../Page/MySQL.md "wikilink") 数据库上，使用主机名 localhost 与地址
+127.0.0.1 和 ::1 是有差异的。\[6\]\[7\]当在应用程序的客户端连接器接口中使用 localhost 作为目标时，MySQL
+的 API 使用 [Unix
+域套接字连接到数据库](https://zh.wikipedia.org/wiki/Unix域套接字 "wikilink")，而通过环回接口的
+TCP 连接需要直接使用显式地址。
 
 使用 127.0.0.0/8
 网络地址时，一个值得注意的例外是，它们用在多协议标签交换（MPLS）跟踪路由错误检测中，它们的不可路由属性提供了一种方便的方法来避免向最终用户传送错误数据包。

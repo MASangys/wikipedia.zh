@@ -1,4 +1,4 @@
-**SK集团**（）是[韩国的第三大](https://zh.wikipedia.org/wiki/韩国 "wikilink")[財閥](../Page/財閥.md "wikilink")，总部位于韩国[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")。SK集团旗下拥有92家子公司和关联企业，全球雇员人数超过三万，[财富世界500强排名第](https://zh.wikipedia.org/wiki/财富世界500强 "wikilink")65\[1\]，目前SK集团的[会长為](https://zh.wikipedia.org/wiki/会长 "wikilink")。
+**SK集团**（）是[韩国的第三大](https://zh.wikipedia.org/wiki/韩国 "wikilink")[財閥](../Page/財閥.md "wikilink")，总部位于韩国[首尔](https://zh.wikipedia.org/wiki/首尔 "wikilink")。SK集团旗下拥有95家子公司和关联企业，全球雇员人数超过三万，2018年[财富世界500强排名第](https://zh.wikipedia.org/wiki/财富世界500强 "wikilink")84\[1\]，目前SK集团的[会长為](https://zh.wikipedia.org/wiki/会长 "wikilink")。
 
 SK的主营业务是在[能源和](../Page/能源.md "wikilink")[石油化工领域](https://zh.wikipedia.org/wiki/石油化工 "wikilink")，子公司[SK能源是](https://zh.wikipedia.org/wiki/SK能源 "wikilink")[韩国最大的综合能源化工企业](https://zh.wikipedia.org/wiki/韩国 "wikilink")\[2\]。其[蔚山炼厂拥有每年](https://zh.wikipedia.org/wiki/蔚山廣域市 "wikilink")4200万吨原油加工能力，多年来保持全世界同行业单厂炼油规模最大的地位。SK同时也经营电子通讯，子公司[SK电讯是韩国最大的移动通信运营商](../Page/SK电讯.md "wikilink")，在韩国的市场占有率达到50%以上，也是全球十大蜂窝移动通信运营商之一。子公司[SK海力士是SK集团涉足](../Page/SK海力士.md "wikilink")[半导体行业的主力](../Page/半导体.md "wikilink")，海力士在[DRAM市場的佔有率於全球僅次於](https://zh.wikipedia.org/wiki/DRAM "wikilink")[三星電子](../Page/三星電子.md "wikilink")\[3\]。
 
@@ -29,9 +29,16 @@ Networks）。起初的鲜京织物是朝鲜“鲜满绸缎”和日本东京“
 2003年，SK
 Global（贸易公司）1800亿韩圆巨额假账被曝光。同年6月13日，韩国法院裁定SK会长以涉嫌幕后交易和商业欺诈被判处3年监禁。孙吉丞被判3年有期徒刑，缓期4年执行。此外，包括SK集团总经理金昌根在内的等其他8名SK高级职员，也分别被判2-4年有期徒刑，缓期3-4年执行。不过此次事件对SK的冲击并不像人们想象的那么大。在强有力的企业文化支撑下，SK集团又把[生命科学作为下一代的核心产业](https://zh.wikipedia.org/wiki/生命科学 "wikilink")。SK集团一直对医药领域抱有兴起，SK旗下的鲜京制药是韩国最早的制药企业之一。1999年，SK集团开发出韩国新药一号钵复合抗癌制剂。此外，SK集团还研发出从银杏叶提取的改善血液循环的新药吉内欣（Ginexin）和无毒性止痛药特拉马多（Tramadol）。2000年，SK集团在上海设立生命事业部，2002年11月在上海[张江高科技园区成立SK生命科学研究中心](../Page/张江高科技园区.md "wikilink")。2005年，SK集团收购了韩国第五大石油炼制公司“仁川制油”。2012年，SK收购知名半导体生产商“[海力士](https://zh.wikipedia.org/wiki/海力士 "wikilink")”。2017年9月，SK海力士通过“韩美日联盟”成功收购日本[东芝芯片业务](../Page/东芝.md "wikilink")，一跃成为继[三星电子之后世界闪存领域的第二大企业](https://zh.wikipedia.org/wiki/三星电子 "wikilink")\[5\]。
 
+2018年9月，SK集團斥資4.7億美元(約5593億韓元)收購越南第二大私營集團[馬山集團Masan的](https://zh.wikipedia.org/wiki/馬山集團 "wikilink")9.5%的股，成為馬山最大的外資股東
+
+2019年5月16日SK集團斥資10億美元(約1.19萬億韓元入股越南最大私營集團[Vingroup的控股公司](https://zh.wikipedia.org/wiki/Vingroup "wikilink")(Vingroup
+JSC)6.1%的股份，並決定簽署戰略合作協議。購買主體是控股公司SK(株)和SK Innovation、SK電訊、SK
+E\&S、SK海力士等5家公司共同出資設立的SK東南亞投資法人。收購完成後，SK集團將繼Vingroup的創始人潘日旺(Pham
+Nhat Vuong)一家之後，成為第二大股東。
+
 ## 集团下属公司
 
-2012年，SK集团下属有92家企业。能源化学和资讯通信是SK集团的两大支柱产业。
+2018年，SK集团下属有95家企业。能源化学和资讯通信是SK集团的两大支柱产业。
 
 ### 能源化学
 
@@ -145,8 +152,7 @@ Global（贸易公司）1800亿韩圆巨额假账被曝光。同年6月13日，�
 [Category:SK集團](https://zh.wikipedia.org/wiki/Category:SK集團 "wikilink")
 [Category:韩国经济之最](https://zh.wikipedia.org/wiki/Category:韩国经济之最 "wikilink")
 
-1.  [Global 500](http://money.cnn.com/magazines/fortune/global500/2012/snapshots/6412.html),
-    CNN Money.com
+1.  [1](http://fortune.com/global500/), CNN Money.com
 2.  [SK能源株式会社](http://www.skbitumen.com/user/aboutus/skcorp.asp)
 3.  [DRAM双雄
     全球市场占有率近70%](http://info.ec.hc360.com/2014/08/190922772774.shtml)

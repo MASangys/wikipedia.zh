@@ -65,6 +65,6 @@ REBORN\!](../Page/家庭教師HITMAN_REBORN!_\(動畫\).md "wikilink")》第3期
   - [CHERRYBLOSSOM Official
     Site](https://web.archive.org/web/20081016035839/http://www.cherryb.jp/hp/)
 
-  - [CHERRYBLOSSOM（波麗佳音官方網站）](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_ART_1010&CMD=DSP&DSP_ATSCOD=30636500)
+  - [CHERRYBLOSSOM（波麗佳音官方網站）](https://web.archive.org/web/20100710042702/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_ART_1010&CMD=DSP&DSP_ATSCOD=30636500)
 
 [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")

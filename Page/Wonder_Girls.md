@@ -172,23 +172,22 @@ Girls決定解散，並在出道十周年2月10日發表最後一張數位單曲
 
 ## 成員資料
 
-|                                                          |
-| -------------------------------------------------------- |
-| 已離開成員                                                    |
-| 藝名                                                       |
-| 漢字                                                       |
-| [宥斌](https://zh.wikipedia.org/wiki/金婑斌 "wikilink")\[27\] |
-| [譽恩](https://zh.wikipedia.org/wiki/朴譽恩 "wikilink")\[28\] |
-| 예니                                                       |
-| [HA:TFELT](https://zh.wikipedia.org/wiki/朴譽恩 "wikilink") |
-| [先藝](https://zh.wikipedia.org/wiki/閔先藝 "wikilink")\[29\] |
-| 선                                                        |
-| [宣美](https://zh.wikipedia.org/wiki/李宣美 "wikilink")\[30\] |
-| 미미                                                       |
-| [泫雅](../Page/金泫雅.md "wikilink")\[31\]                    |
-| [昭熙](../Page/安昭熙.md "wikilink")\[32\]                    |
-| [惠林](https://zh.wikipedia.org/wiki/禹惠林 "wikilink")\[33\] |
-| 림                                                        |
+|                                                          |       |          |               |      |
+| -------------------------------------------------------- | ----- | -------- | ------------- | ---- |
+| 藝名                                                       | 本名    | 出生       | 國籍            | 現時發展 |
+| 漢字                                                       | 諺文    | 羅馬拼音     | 漢字            | 諺文   |
+| [宥斌](https://zh.wikipedia.org/wiki/金婑斌 "wikilink")\[27\] | 유빈    | Yu Bin   | 金婑斌           | 김유빈  |
+| [譽恩](https://zh.wikipedia.org/wiki/朴譽恩 "wikilink")\[28\] | 예은    | Ye Eun   | 朴譽恩           | 박예은  |
+| 예니                                                       | Yenny |          |               |      |
+| [HA:TFELT](https://zh.wikipedia.org/wiki/朴譽恩 "wikilink") | 핫펠트   | Hot Felt |               |      |
+| [先藝](https://zh.wikipedia.org/wiki/閔先藝 "wikilink")\[29\] | 선예    | Sunye    | 閔先藝           | 민선예  |
+| 선                                                        | Sun   |          |               |      |
+| [宣美](https://zh.wikipedia.org/wiki/李宣美 "wikilink")\[30\] | 선미    | Sun Mi   | 李宣美           | 이선미  |
+| 미미                                                       | Mimi  |          |               |      |
+| [泫雅](../Page/金泫雅.md "wikilink")\[31\]                    | 현아    | Hyuna    | 金泫雅           | 김현아  |
+| [昭熙](../Page/安昭熙.md "wikilink")\[32\]                    | 소희    | Sohee    | 安昭熙           | 안소희  |
+| [惠林](https://zh.wikipedia.org/wiki/禹惠林 "wikilink")\[33\] | 혜림    | Hye Rim  | 禹惠林           | 우혜림  |
+| 림                                                        | Lim   | 크리스티나 우  | Christina Woo |      |
 
 ### 成員變遷史
 

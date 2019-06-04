@@ -104,7 +104,7 @@ Oakes為主角的[間諜小說有一定名氣](https://zh.wikipedia.org/wiki/間
 [Category:美國記者](https://zh.wikipedia.org/wiki/Category:美國記者 "wikilink")
 [Category:愛爾蘭裔美國人](https://zh.wikipedia.org/wiki/Category:愛爾蘭裔美國人 "wikilink")
 [Category:耶魯大學校友](https://zh.wikipedia.org/wiki/Category:耶魯大學校友 "wikilink")
-[Category:美國保守主義](https://zh.wikipedia.org/wiki/Category:美國保守主義 "wikilink")
+[Category:美國保守主義者](https://zh.wikipedia.org/wiki/Category:美國保守主義者 "wikilink")
 [Category:美國社會運動者](https://zh.wikipedia.org/wiki/Category:美國社會運動者 "wikilink")
 [Category:美國反共主義者](https://zh.wikipedia.org/wiki/Category:美國反共主義者 "wikilink")
 [Category:美國自由意志主義者](https://zh.wikipedia.org/wiki/Category:美國自由意志主義者 "wikilink")
@@ -124,7 +124,7 @@ Oakes為主角的[間諜小說有一定名氣](https://zh.wikipedia.org/wiki/間
 [Category:美国间谍](https://zh.wikipedia.org/wiki/Category:美国间谍 "wikilink")
 [Category:死于糖尿病的人](https://zh.wikipedia.org/wiki/Category:死于糖尿病的人 "wikilink")
 [Category:馬爾他騎士團人物](https://zh.wikipedia.org/wiki/Category:馬爾他騎士團人物 "wikilink")
-[Category:紐約市人](https://zh.wikipedia.org/wiki/Category:紐約市人 "wikilink")
+[Category:纽约市作家](https://zh.wikipedia.org/wiki/Category:纽约市作家 "wikilink")
 [Category:曼哈顿人](https://zh.wikipedia.org/wiki/Category:曼哈顿人 "wikilink")
 [Category:纽约州共和党人](https://zh.wikipedia.org/wiki/Category:纽约州共和党人 "wikilink")
 [Category:美国中央情报局人物](https://zh.wikipedia.org/wiki/Category:美国中央情报局人物 "wikilink")
@@ -132,7 +132,7 @@ Oakes為主角的[間諜小說有一定名氣](https://zh.wikipedia.org/wiki/間
 [Category:美國陸軍軍官](https://zh.wikipedia.org/wiki/Category:美國陸軍軍官 "wikilink")
 [Category:美国小说家](https://zh.wikipedia.org/wiki/Category:美国小说家 "wikilink")
 [Category:康乃狄克州人](https://zh.wikipedia.org/wiki/Category:康乃狄克州人 "wikilink")
-[Category:旅游作家](https://zh.wikipedia.org/wiki/Category:旅游作家 "wikilink")
+[Category:美国旅游作家](https://zh.wikipedia.org/wiki/Category:美国旅游作家 "wikilink")
 [Category:21世紀美國小說家](https://zh.wikipedia.org/wiki/Category:21世紀美國小說家 "wikilink")
 
 1.  , 41

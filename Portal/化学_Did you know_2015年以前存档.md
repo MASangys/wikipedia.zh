@@ -1090,7 +1090,7 @@
 
   - 同種原子經連續之[共價鍵互相連接形成長鏈分子属于](https://zh.wikipedia.org/wiki/共價鍵 "wikilink")**[哪种化学行为](../Page/成鏈.md "wikilink")**？
 
-[Xantphos.png](https://zh.wikipedia.org/wiki/File:Xantphos.png "fig:Xantphos.png")
+[Xantphos.svg](https://zh.wikipedia.org/wiki/File:Xantphos.svg "fig:Xantphos.svg")
 
   - **[哪类有机化合物](../Page/二膦.md "wikilink")**在[无机化学和](../Page/无机化学.md "wikilink")[有机金属化学中常用作](../Page/有机金属化学.md "wikilink")[配体](https://zh.wikipedia.org/wiki/配体 "wikilink")，包括了如：[Xantphos](https://zh.wikipedia.org/wiki/Xantphos "wikilink")、[dppf](https://zh.wikipedia.org/wiki/dppf "wikilink")、[BINAP和](../Page/BINAP.md "wikilink")[SPANphos](../Page/SPANphos.md "wikilink")？
 

@@ -64,9 +64,6 @@ smart自动售卖机在[中国的巡展日程表](https://zh.wikipedia.org/wiki/
   - [smart自动售卖机中国巡展](http://china.smart.com/community/roadshow/index.html)
   - [playsmart.jp](http://www.playsmart.jp)
 
-[en:Smart vending
-machine](https://zh.wikipedia.org/wiki/en:Smart_vending_machine "wikilink")
-
 [Category:梅赛德斯-奔驰](https://zh.wikipedia.org/wiki/Category:梅赛德斯-奔驰 "wikilink")
 [Category:市場營銷小作品](https://zh.wikipedia.org/wiki/Category:市場營銷小作品 "wikilink")
 [Category:市场营销](https://zh.wikipedia.org/wiki/Category:市场营销 "wikilink")

@@ -25,8 +25,7 @@ RockMelt號稱將是首款整合[Facebook](../Page/Facebook.md "wikilink")、[Tw
     Browser](http://www.nytimes.com/2009/08/14/technology/internet/14browser.html?_r=3&partner=rss&emc=rss)
     紐約時報報導
 
-[Category:Webkit衍生軟體](https://zh.wikipedia.org/wiki/Category:Webkit衍生軟體 "wikilink")
-[Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink")
+[Category:基于Chromium的浏览器](https://zh.wikipedia.org/wiki/Category:基于Chromium的浏览器 "wikilink")
 [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink")
 
 1.

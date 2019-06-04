@@ -336,8 +336,7 @@ CTV於1998年引入一個以絲帶為題的企業識別系統，部分元素沿�
 
 15.
 
-16. [Bell Media's /A\\ Network to Become “CTV Two” This
-    Fall](http://adsalescdn.bellmedia.ca/Press%20Releases/Conventional/0530-CTVTwo.pdf)
+16.
 
 17. [Bell Media Press Release: "Bell Media's /A\\ Network to Become “CTV
     Two” This Fall",

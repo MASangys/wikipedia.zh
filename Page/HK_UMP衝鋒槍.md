@@ -203,6 +203,9 @@ UMP有三種口徑的型號和半自動民用型號：
   - 2012年—《[戰爭前線](https://zh.wikipedia.org/wiki/戰爭前線 "wikilink")》：型號為UMP45，命名為“H\&K
     UMP”，為工程兵專用武器，使用25發彈匣，換彈時會直接拉動拉機柄上膛。中國大陸伺服器為專家解鎖武器，歐美與俄羅斯伺服器為抽獎武器，拥有皇冠币专属涂装版本与周年庆专属涂装版本，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器、[冲锋枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[冲锋枪刺刀](../Page/刺刀.md "wikilink")）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、[冲锋枪握把](https://zh.wikipedia.org/wiki/宽型前握把 "wikilink")、冲锋枪握把架）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、冲锋枪普通瞄准镜、冲锋枪高级瞄准镜以及[冲锋枪专家瞄准镜](https://zh.wikipedia.org/wiki/Leupold_Mark_4_CQ/T光学瞄准镜 "wikilink")）。
+  - 2013年—《[-{zh-hans:反恐精英;zh-hant:絕對武力}-Online
+    2](https://zh.wikipedia.org/wiki/絕對武力Online2 "wikilink")》（Counter-Strike
+    Online 2）：型號為UMP45，命名為「UMP45」。
   - 2013年—《[-{zh-cn:收获日;
     zh-tw:劫薪日}-2](../Page/劫薪日2.md "wikilink")》：型號為UMP45(預設)，最初只被遊戲中的[NPC所使用](../Page/非玩家角色.md "wikilink")，玩家無法使用。
       - 2016年新增在“John Wick Weapon Pack”資料片中，命名為「Jackal

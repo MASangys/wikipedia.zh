@@ -10,9 +10,9 @@ eyes](https://zh.wikipedia.org/wiki/Golden_eyes "wikilink")》，三天內便完
 
 2008年7月，一元製作室公佈Freeze會於同年12月13日假[匯星舉行首個](https://zh.wikipedia.org/wiki/匯星 "wikilink")[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，後來宣佈由於反應熱烈，公司打算加開一場，但表演場地不許可，因此順延。此外，Freeze更曾到[澳門](../Page/澳門.md "wikilink")、[美國及](https://zh.wikipedia.org/wiki/美國 "wikilink")[加拿大登台演出](../Page/加拿大.md "wikilink")。
 
-2009年以團體身份參與TVB綜藝節目[美女廚房](../Page/美女廚房.md "wikilink")，與[Hotcha和四葉女同場](https://zh.wikipedia.org/wiki/Hotcha "wikilink")，成員石詠莉疑因不甘主持[方力申和](../Page/方力申.md "wikilink")[梁漢文試食其作品後不斷批評食物過鹹而反擊](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")「似你囉」，對方面怒難色後在試食炸奶的環節反擊「假架D奶！」事件獲傳媒大幅度報導，更為網民熱論\[3\]。
+2009年以團體身份參與TVB綜藝節目[美女廚房](../Page/美女廚房.md "wikilink")，與[HotCha和四葉女同場](../Page/HotCha.md "wikilink")，成員石詠莉疑因不甘主持[方力申和](../Page/方力申.md "wikilink")[梁漢文試食其作品後不斷批評食物過鹹而反擊](https://zh.wikipedia.org/wiki/梁漢文 "wikilink")「似你囉」，對方面怒難色後在試食炸奶的環節反擊「假架D奶！」事件獲傳媒大幅度報導，更為網民熱論\[3\]。
 
-2010年10月，由於甄穎珊與一元製作室解約，陳樂榣被傳媒訪問時透露，Freeze已名存實亡。甄穎珊後加入[電視廣播有限公司成為演員](../Page/電視廣播有限公司.md "wikilink")，石詠莉則作單獨發展，仍然在香港音樂界發展。
+2010年10月，由於甄詠珊與一元製作室解約，陳樂榣被傳媒訪問時透露，Freeze已名存實亡。甄詠珊後加入[電視廣播有限公司成為演員](../Page/電視廣播有限公司.md "wikilink")，石詠莉則作單獨發展，仍然在香港音樂界發展。
 
 ## 歌唱及影視作品
 
@@ -126,9 +126,9 @@ eyes](https://zh.wikipedia.org/wiki/Golden_eyes "wikilink")》，三天內便完
       - 2008年：《[360℃音樂無邊](https://zh.wikipedia.org/wiki/360℃音樂無邊 "wikilink")》
       - 2008年：《[鐵甲無敵獎門人](../Page/鐵甲無敵獎門人.md "wikilink")》
       - 2008年：《[娛樂金剛圈](https://zh.wikipedia.org/wiki/娛樂金剛圈 "wikilink")》
-      - 2008年：《[新聞透視](../Page/新聞透視.md "wikilink")》 (Alley)
+      - 2008年：《[新聞透視](../Page/新聞透視.md "wikilink")》(Alley)
       - 2008年：《[翡翠歌星賀台慶](../Page/翡翠歌星賀台慶.md "wikilink")》
-      - 2009年：《[愛情研究院》](https://zh.wikipedia.org/wiki/愛情研究院》 "wikilink")》\[J2\]
+      - 2009年：《[愛情研究院](../Page/愛情研究院.md "wikilink")》\[J2\]
       - 2009年：《[耳分高下](../Page/耳分高下.md "wikilink")》
       - 2009年：《[美女廚房](../Page/美女廚房.md "wikilink")》
       - 2009年：《[香港先生選舉2009](https://zh.wikipedia.org/wiki/香港先生選舉2009 "wikilink")》
@@ -159,7 +159,7 @@ eyes](https://zh.wikipedia.org/wiki/Golden_eyes "wikilink")》，三天內便完
   - [新城娛樂台](https://zh.wikipedia.org/wiki/新城知訊台 "wikilink")[07樂壇新人大熱鬥](https://zh.wikipedia.org/wiki/07樂壇新人大熱鬥 "wikilink")
   - 香港各界青少年一心一印迎奧運音樂會
   - 「麗晶慈善繽紛夜」密西沙加華人專商業基金會籌款（加拿大）
-  - Joe Jr. Here's a Heart 41 周年演唱會（加拿大）
+  - Joe Junior Here's a Heart 41周年演唱會（加拿大）
 
 ## 主持節目
 
@@ -174,11 +174,11 @@ eyes](https://zh.wikipedia.org/wiki/Golden_eyes "wikilink")》，三天內便完
       - 全部播放完畢
   - [MyRadio](../Page/MyRadio.md "wikilink")
     [Freeze直播真人Show](https://zh.wikipedia.org/wiki/Freeze直播真人Show "wikilink")
-      - 嘉賓包括：[蕭若元](../Page/蕭若元.md "wikilink")、經理人[蕭定一](../Page/蕭定一.md "wikilink")、[梁雨恩](../Page/梁雨恩.md "wikilink")、[黃宇詩](../Page/黃宇詩.md "wikilink")、[郭思琳](https://zh.wikipedia.org/wiki/郭思琳 "wikilink")、[袁彌明](../Page/袁彌明.md "wikilink")、新城知訊台DJ[新香蕉俱樂部](../Page/新香蕉俱樂部.md "wikilink")、[瑪姬及](https://zh.wikipedia.org/wiki/瑪姬 "wikilink")[陳禮賢等](../Page/陳禮賢.md "wikilink")
+      - 嘉賓包括：[蕭若元](../Page/蕭若元.md "wikilink")、經理人[蕭定一](../Page/蕭定一.md "wikilink")、[梁雨恩](../Page/梁雨恩.md "wikilink")、[黃宇詩](../Page/黃宇詩.md "wikilink")、[郭思琳](https://zh.wikipedia.org/wiki/郭思琳 "wikilink")、[袁彌明](../Page/袁彌明.md "wikilink")、新城知訊台DJ[新香蕉俱樂部](../Page/新香蕉俱樂部.md "wikilink")、[瑪姬及](../Page/瑪姬_\(主持人\).md "wikilink")[陳禮賢等](../Page/陳禮賢.md "wikilink")
       - 全部播放完畢
   - [MyRadio](../Page/MyRadio.md "wikilink") [Lady
     First](https://zh.wikipedia.org/wiki/Lady_First "wikilink")
-      - 主持：Alley、空姐Elanie、Ann
+      - 主持：Alley、空姐Elaine、Ann
         Ho[何紫綸](https://zh.wikipedia.org/wiki/何紫綸 "wikilink")、Tina
       - 逢星期一晚上9時00分至晚上10時00分
   - [MyRadio](../Page/MyRadio.md "wikilink")

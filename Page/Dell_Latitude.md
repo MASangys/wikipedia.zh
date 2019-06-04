@@ -44,5 +44,4 @@ XT型号则包括了可选择屏幕式的触摸屏平板电脑。这些特殊型
     blog](http://asia.cnet.com/blogs/geekonomics/post.htm?id=63005876)
     E-series review on CNET Asia
 
-[Category:筆記型電腦](https://zh.wikipedia.org/wiki/Category:筆記型電腦 "wikilink")
-[Category:戴爾產品](https://zh.wikipedia.org/wiki/Category:戴爾產品 "wikilink")
+[Category:戴尔笔记本电脑](https://zh.wikipedia.org/wiki/Category:戴尔笔记本电脑 "wikilink")

@@ -43,7 +43,7 @@ D
   - [Light curve for TrES-2b using differential
     photometry](http://www.perseus.gr/Astro-Photometry-TrES-2-20120529.htm)
   - [TrES-2 Extrasolar Planets
-    Encyclopaedia](http://exoplanet.eu/catalog/tres-2_/)
+    Encyclopaedia](https://web.archive.org/web/20150522131707/http://exoplanet.eu/catalog/tres-2_/)
 
 [Category:2006年發現的系外行星](https://zh.wikipedia.org/wiki/Category:2006年發現的系外行星 "wikilink")
 [Category:熱木星](https://zh.wikipedia.org/wiki/Category:熱木星 "wikilink")

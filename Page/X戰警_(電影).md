@@ -1,4 +1,4 @@
-《**X戰警**》（）是一部於[2000年上映的](https://zh.wikipedia.org/wiki/2000年電影 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[超級英雄電影](../Page/超級英雄電影.md "wikilink")，改編自[驚奇漫畫](https://zh.wikipedia.org/wiki/驚奇漫畫 "wikilink")《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》[科幻角色故事](https://zh.wikipedia.org/wiki/虛構角色 "wikilink")，由[布萊恩·辛格執導](../Page/布萊恩·辛格.md "wikilink")，編劇。主演包括[休·傑克曼](../Page/休·傑克曼.md "wikilink")、[派崔克·史都華](https://zh.wikipedia.org/wiki/派崔克·史都華 "wikilink")、[伊恩·麥克連](https://zh.wikipedia.org/wiki/伊恩·麥克連 "wikilink")、[芳姬·詹森](../Page/芳姬·詹森.md "wikilink")、[詹姆斯·馬斯登](../Page/詹姆斯·馬斯登.md "wikilink")、[安娜·派昆](https://zh.wikipedia.org/wiki/安娜·派昆 "wikilink")、、[荷莉·貝瑞](../Page/荷莉·貝瑞.md "wikilink")、[麗貝卡·羅梅恩](https://zh.wikipedia.org/wiki/麗貝卡·羅梅恩 "wikilink")、[雷·派克和](https://zh.wikipedia.org/wiki/雷·派克 "wikilink")，電影由[二十世紀福斯發行](../Page/二十世紀福斯.md "wikilink")，且該片為[X戰警電影系列的第一部作品](../Page/X戰警電影系列.md "wikilink")，其次是2003年上映的《[X戰警2](../Page/X戰警2.md "wikilink")》和2006年的《[X戰警：最後戰役](../Page/X戰警：最後戰役.md "wikilink")》。
+《**X戰警**》（）是一部於[2000年上映的](https://zh.wikipedia.org/wiki/2000年電影 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[超級英雄電影](../Page/超級英雄電影.md "wikilink")，改編自[驚奇漫畫](https://zh.wikipedia.org/wiki/驚奇漫畫 "wikilink")《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》[科幻角色故事](https://zh.wikipedia.org/wiki/虛構角色 "wikilink")，由[布萊恩·辛格執導](../Page/布萊恩·辛格.md "wikilink")，編劇。主演包括[休·傑克曼](../Page/休·傑克曼.md "wikilink")、[派崔克·史都華](https://zh.wikipedia.org/wiki/派崔克·史都華 "wikilink")、[伊恩·麥克連](https://zh.wikipedia.org/wiki/伊恩·麥克連 "wikilink")、[芳姬·詹森](../Page/芳姬·詹森.md "wikilink")、[詹姆斯·馬斯登](../Page/詹姆斯·馬斯登.md "wikilink")、[安娜·派昆](https://zh.wikipedia.org/wiki/安娜·派昆 "wikilink")、、[荷莉·貝瑞](../Page/荷莉·貝瑞.md "wikilink")、[麗貝卡·羅梅恩](https://zh.wikipedia.org/wiki/麗貝卡·羅梅恩 "wikilink")、[雷·派克和](https://zh.wikipedia.org/wiki/雷·派克 "wikilink")，電影由[二十世紀福斯發行](../Page/二十世紀福斯.md "wikilink")，且該片為「[X戰警電影系列](../Page/X戰警電影系列.md "wikilink")」的第一部作品，其次是2003年上映的《[X戰警2](../Page/X戰警2.md "wikilink")》和2006年的《[X戰警：最後戰役](../Page/X戰警：最後戰役.md "wikilink")》。
 
 X戰警製作發展起源，回溯到1989年當年名導[詹姆斯·卡麥隆以及卡洛庫影業](https://zh.wikipedia.org/wiki/詹姆斯·卡麥隆 "wikilink")，1994年電影版權由[二十世紀福斯所買下](../Page/二十世紀福斯.md "wikilink")\[1\]。[安德魯·凱文·渥克](https://zh.wikipedia.org/wiki/安德魯·凱文·渥克 "wikilink")（Andrew
 Kevin Walker）、（John
@@ -6,7 +6,7 @@ Logan）、[喬斯·溫登](../Page/喬斯·溫登.md "wikilink")、[麥可·謝
 Chabon）等人編寫電影腳本。1996年[布萊恩·辛格確定導演](../Page/布萊恩·辛格.md "wikilink")，（Ed
 Solomon）、、[克里斯多弗·麥奎里和](https://zh.wikipedia.org/wiki/克里斯多弗·麥奎里 "wikilink")進一步編劇。檔期持續延後，福斯決議將檔期延至2000年7月。1999年9月22日開拍至2000年3月3日，主要在[加拿大的](../Page/加拿大.md "wikilink")[多倫多](https://zh.wikipedia.org/wiki/多倫多 "wikilink")\[2\]。
 
-電影2000年上映後獲得強烈回響與正面評價，帶來成功的票房，開啟[X戰警電影系列以及超級英雄電影的開端](https://zh.wikipedia.org/wiki/X戰警_\(電影系列\) "wikilink")。
+電影2000年上映後獲得強烈回響與正面評價，帶來成功的票房，開啟「[X戰警電影系列](https://zh.wikipedia.org/wiki/X戰警_\(電影系列\) "wikilink")」以及超級英雄電影的開端。
 
 ## 劇情
 
@@ -97,8 +97,7 @@ Toad</p></td>
 <tr class="odd">
 <td><p><br />
 Tyler Mane</p></td>
-<td><p><a href="../Page/劍齒虎_(漫威漫畫).md" title="wikilink">劍齒虎</a><br />
-Sabretooth</p></td>
+<td><p>大鋼牙</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/肖恩·阿什莫.md" title="wikilink">肖恩·阿什莫</a><br />

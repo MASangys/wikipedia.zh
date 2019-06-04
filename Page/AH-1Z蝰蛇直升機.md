@@ -33,11 +33,21 @@ x 480，具備四段觀測調整，能在日、夜間、或不利天氣情況下
 <!-- end list -->
 
   - ****
-      - **[巴基斯坦](../Page/巴基斯坦.md "wikilink")**（訂購15架）
+      - **[巴林空軍](https://zh.wikipedia.org/wiki/巴林空軍 "wikilink")**（訂購12架）\[1\]
+
+<!-- end list -->
+
+  - ****
+      - **[捷克陸軍](https://zh.wikipedia.org/wiki/捷克陸軍 "wikilink")**（訂購4架）\[2\]
+
+<!-- end list -->
+
+  - ****
+      - ****（訂購15架）
 
 ## 事件
 
-  - 2019年3月底美國尤馬訓練場(Yuma training grounds)一架AH-1Z墜機兩名飛行員死亡。\[1\]
+  - 2019年3月底美國尤馬訓練場(Yuma training grounds)一架AH-1Z墜機兩名飛行員死亡。\[3\]
 
 ## 相關條目
 
@@ -75,4 +85,6 @@ x 480，具備四段觀測調整，能在日、夜間、或不利天氣情況下
 
 [Category:美國軍用直升機](https://zh.wikipedia.org/wiki/Category:美國軍用直升機 "wikilink")
 
-1.  [蝰蛇墜機](https://www.chinatimes.com/realtimenews/20190401003940-260417?chdtv)
+1.
+2.
+3.  [蝰蛇墜機](https://www.chinatimes.com/realtimenews/20190401003940-260417?chdtv)

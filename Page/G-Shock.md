@@ -15,16 +15,16 @@ MRG-7100BJ-1AJF\]\]
   - COCKPIT [赛车计时系列](https://zh.wikipedia.org/wiki/赛车 "wikilink")
   - BABY-G [女士系列](https://zh.wikipedia.org/wiki/女士 "wikilink")
   - FROGMAN（フロッグマン）
-    [蛙人系列](https://zh.wikipedia.org/wiki/蛙人 "wikilink")（老款停产，新款在售）
-  - MUDMAN（マッドマン） 泥人系列（老款停产，新款在售）
+    [蛙人系列](https://zh.wikipedia.org/wiki/蛙人 "wikilink")（舊款停产，新款在售）
+  - MUDMAN（マッドマン） 泥人系列（舊款停产，新款在售）
   - FISHERMAN（フィッシャーマン）
     [渔人系列](https://zh.wikipedia.org/wiki/渔人 "wikilink")（停产）
   - RANGEMAN
-  - RISEMAN（ライズマン） 飞人系列（老款停产，新款在售）
+  - RISEMAN（ライズマン） 飞人系列（舊款停产，新款在售）
   - GAUSSMAN（ガウスマン） 磁人系列（停产）
   - RAYSMAN（レイズマン） 光人系列（停产）
   - WADEMAN（ウェイドマン） 渡人系列（停产）
-  - GULFMAN（ガルフマン） 湾人系列（老款停产，新款在售）
+  - GULFMAN（ガルフマン） 湾人系列（舊款停产，新款在售）
   - REVMAN（レブマン） 旋人系列（停产）
   - LUNGMAN（ラングマン） 肺人系列（停产）
   - ANTMAN（アントマン） 波人系列（停产）
@@ -35,12 +35,12 @@ MRG-7100BJ-1AJF\]\]
   - X-treme（エクストリーム）
     [极限系列](https://zh.wikipedia.org/wiki/极限 "wikilink")（停产）
   - G-LIDE（Gライド）
-    [冲浪系列](https://zh.wikipedia.org/wiki/冲浪 "wikilink")（老款停产，新款在售）
+    [冲浪系列](https://zh.wikipedia.org/wiki/冲浪 "wikilink")（舊款停产，新款在售）
   - G’MIX（Gミックス） [音乐系列](../Page/音乐.md "wikilink")（停产）
   - TACTICIAN（タクティシャン）
     [技师系列](https://zh.wikipedia.org/wiki/技师 "wikilink")（停产）
   - SILENCER（サイレンサー）
-    [消音系列](https://zh.wikipedia.org/wiki/消音 "wikilink")（老款停产，新款在售）
+    [消音系列](https://zh.wikipedia.org/wiki/消音 "wikilink")（舊款停产，新款在售）
 
 ## 歷史
 

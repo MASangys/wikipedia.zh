@@ -44,7 +44,7 @@ c:\\temp\\foo.dll；或是使用底下語法：
   - [INFO: How Regsvr32.exe Registers and Unregisters COM
     DLLs](http://support.microsoft.com/?id=207132)
   - [WinTasks: regsvr32.exe - Process
-    Information](http://www.liutilities.com/products/wintaskspro/processlibrary/regsvr32/)
+    Information](https://web.archive.org/web/20080328135314/http://www.liutilities.com/products/wintaskspro/processlibrary/regsvr32/)
   - [C\# Frequently Asked Questions: What is the equivalent to regsvr32
     in
     .NET?](http://blogs.msdn.com/csharpfaq/archive/2004/08/02/206158.aspx)

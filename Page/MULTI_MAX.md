@@ -165,7 +165,8 @@ DAY」、「WINDY ROAD」。
 
 ## 外部連結
 
-[CHAGE Blog](http://aishiteru.chage-aska.net/blog/)：CHAGE的部落格
+[CHAGE
+Blog](https://web.archive.org/web/20090323062629/http://aishiteru.chage-aska.net/blog/)：CHAGE的部落格
 
 [KEISKE MURAKAMI
 OFFICIAL★HOMEPAGE](https://web.archive.org/web/20090601040145/http://homepage1.nifty.com/keisuke-world/)：村上啟介的個人網頁

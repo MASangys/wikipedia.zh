@@ -65,6 +65,7 @@ Mobile和](https://zh.wikipedia.org/wiki/Webby_Mobile "wikilink")[ftxPBrowser](h
 
 [Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink")
 [Category:Windows_Phone软件](https://zh.wikipedia.org/wiki/Category:Windows_Phone软件 "wikilink")
+[Category:移动网页浏览器](https://zh.wikipedia.org/wiki/Category:移动网页浏览器 "wikilink")
 
 1.
 2.

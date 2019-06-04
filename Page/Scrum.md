@@ -202,9 +202,9 @@ chart）是一个公开展示的图表，显示当前冲刺中未完成的任务
     minutes](https://web.archive.org/web/20081125020122/http://www.softhouse.se/Uploades/Scrum_eng_webb.pdf)
   - [Scrum Alliance](http://www.scrumalliance.org/)
   - [Scrum and XP from the
-    Trenches](http://www.crisp.se/henrik.kniberg/ScrumAndXpFromTheTrenches.pdf)
+    Trenches](https://web.archive.org/web/20080921225708/http://www.crisp.se/henrik.kniberg/ScrumAndXpFromTheTrenches.pdf)
   - [Scrum articles
-    directory](http://www.softdevarticles.com/modules/weblinks/viewcat.php?cid=46)
+    directory](https://web.archive.org/web/20080229013935/http://www.softdevarticles.com/modules/weblinks/viewcat.php?cid=46)
   - [Agile Alliance's Scrum
     library](https://web.archive.org/web/20080801034119/http://www.agilealliance.org/article/articles_by_category/17)
   - [InfoQ.com / Agile](http://www.InfoQ.com/Agile) - Tracking change

@@ -63,6 +63,10 @@ Live）（不是东方卫视的同名节目）。
   - 城市节拍（City Beat）
   - [极速前进：冲刺！中国](https://zh.wikipedia.org/wiki/极速前进：冲刺！中国 "wikilink")（第1、2、3季）
 
+### 季播节目
+
+  - [中国面临的挑战](https://zh.wikipedia.org/wiki/中国面临的挑战 "wikilink")（纪录片）
+
 ## 主持人
 
   - 陈蕾

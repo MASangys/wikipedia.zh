@@ -1,4 +1,4 @@
-**YUZUSOFT**（）是[日本ユノス公司的](../Page/日本.md "wikilink")[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，前身是[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")。
+**YUZUSOFT**（）是[日本ユノス公司的](../Page/日本.md "wikilink")[成人遊戲品牌](../Page/日本成人遊戲.md "wikilink")，通称**柚子社**，前身是[同人社團](https://zh.wikipedia.org/wiki/同人 "wikilink")。
 
 ## 歷史
 

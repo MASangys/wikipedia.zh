@@ -1,5 +1,5 @@
 **Sowelu**是[日本](../Page/日本.md "wikilink")[R\&B](../Page/节奏布鲁斯.md "wikilink")[歌手](../Page/歌手.md "wikilink")，生於日本[東京都](../Page/東京都.md "wikilink")[立川市](../Page/立川市.md "wikilink")，原名嶋田亞希。身高159cm，[血型屬O型](https://zh.wikipedia.org/wiki/血型 "wikilink")，畢業於[堀越高等學校](../Page/堀越高等學校.md "wikilink")，原[研音所屬](../Page/研音.md "wikilink")，現為[Avex轄下](https://zh.wikipedia.org/wiki/Avex "wikilink")[rhythm
-zone之歌手](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。其外祖父為[愛爾蘭裔](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[美國人](https://zh.wikipedia.org/wiki/美國 "wikilink")，外祖母於都內開設家庭式「洗車屋」（店內張貼滿Sowelu的海報）。父親為於1991年赴美深造音樂，2003年回流日本及曾與組合[Char共同演出之鼓手](https://zh.wikipedia.org/wiki/Char "wikilink")[嶋田吉隆](https://zh.wikipedia.org/wiki/嶋田吉隆 "wikilink")，母親則是位愛爾蘭日本[混血兒](../Page/混血兒.md "wikilink")。由於雙親在她小時候已離異，她與弟弟自小便由母親獨力照顧。Sowelu曾於2006年4月29日在日本[大阪參與其父與友人的現場音樂會](https://zh.wikipedia.org/wiki/大阪 "wikilink")「OSAKA
+zone之歌手](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。其外祖父為[愛爾蘭裔](https://zh.wikipedia.org/wiki/愛爾蘭 "wikilink")[美國人](https://zh.wikipedia.org/wiki/美國 "wikilink")，外祖母於都內開設家庭式「洗車屋」（店內張貼滿Sowelu的海報）。父親為於1991年赴美深造音樂，2003年回流日本及曾與組合[Char共同演出之鼓手](https://zh.wikipedia.org/wiki/Char "wikilink")[嶋田吉隆](https://zh.wikipedia.org/wiki/嶋田吉隆 "wikilink")（1959年3月25日出生），母親則是位愛爾蘭日本[混血兒](../Page/混血兒.md "wikilink")。由於雙親在她小時候已離異，她與弟弟自小便由母親獨力照顧。Sowelu曾於2006年4月29日在日本[大阪參與其父與友人的現場音樂會](https://zh.wikipedia.org/wiki/大阪 "wikilink")「OSAKA
 Rock City共鳴野郎」，並在父親的伴奏下唱出to You及Play that Funky
 Music等歌曲。其後Sowelu更眼淚汪汪的表示跟爸爸相處的時間不多，在舞台上合作是她出道多年的夢想，能夠夢想成真真的很感動和緊張。
 
@@ -65,3 +65,4 @@ of KOREA／JAPAN」中的成員，演唱2002世界盃足球賽主題曲「Let's 
 [Category:愛爾蘭裔混血兒](https://zh.wikipedia.org/wiki/Category:愛爾蘭裔混血兒 "wikilink")
 [Category:愛貝克思集團藝人](https://zh.wikipedia.org/wiki/Category:愛貝克思集團藝人 "wikilink")
 [Category:日裔混血儿](https://zh.wikipedia.org/wiki/Category:日裔混血儿 "wikilink")
+[Category:前研音所屬藝人](https://zh.wikipedia.org/wiki/Category:前研音所屬藝人 "wikilink")

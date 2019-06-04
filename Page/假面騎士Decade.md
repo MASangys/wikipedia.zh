@@ -1,4 +1,4 @@
-《*假面騎士Decade*》（英譯：-{Kamen Rider
+《**假面騎士Decade**》（英譯：-{Kamen Rider
 Decade}-）為《[假面騎士系列](../Page/假面騎士系列.md "wikilink")》的第10部[平成系列作品](../Page/平成.md "wikilink")（忽略橫跨昭和、平成兩個年代播出的《[假面騎士Black
 RX](../Page/假面騎士BLACK_RX.md "wikilink")》，從2000年的《[假面騎士Kuuga](../Page/假面騎士空我.md "wikilink")》算起），製作此特攝片的東映為新的主角假面騎士命名為「-{Decade}-」，取其「十年」之意，以紀念此系列踏入第10作。本作從2009年1月25日起於朝日電視台每週日早上8:00－8:30播出。
 

@@ -155,7 +155,7 @@ Central的评价较为赞许，但依然先指出他们“不推荐在有诸多�
 [Category:最终幻想系列电子游戏](https://zh.wikipedia.org/wiki/Category:最终幻想系列电子游戏 "wikilink")
 [Category:最终幻想XIV](https://zh.wikipedia.org/wiki/Category:最终幻想XIV "wikilink")
 [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
-[Category:盛大游戏](https://zh.wikipedia.org/wiki/Category:盛大游戏 "wikilink")
+[Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink")
 [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink")
 [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
 [Category:製作中止的PlayStation_3遊戲](https://zh.wikipedia.org/wiki/Category:製作中止的PlayStation_3遊戲 "wikilink")

@@ -9,10 +9,8 @@ of the Year）。 在進入筆記本時代的PowerBook 以前，蘋果電腦的�
 Portable）。那個時候有一些由第三方生產的手提電腦都能執行麥金塔的軟體，例如 "Outbound
 Laptop"。於1999年，針對一般消費市場蘋果亦推出了本系列的姊妹型電腦 iBook 系列。
 
-於2006年，Powerbook 與
-[iBook](https://zh.wikipedia.org/wiki/iBook "wikilink") 系列分別被新的 [MacBook
-Pro](../Page/MacBook_Pro.md "wikilink") 與及
-[MacBook](../Page/MacBook.md "wikilink") 家族所取代。
+於2006年，Powerbook 系列被新的 [MacBook Pro](../Page/MacBook_Pro.md "wikilink")
+家族所取代。
 
 ## 早期型號
 

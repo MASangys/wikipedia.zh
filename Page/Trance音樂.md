@@ -113,7 +113,7 @@ Yet(1993)在[英国单曲排行榜上达到了第](https://zh.wikipedia.org/wiki
 而自1997年起，通过[Tiesto](../Page/提雅斯多.md "wikilink")、[Armin van
 Buuren和](../Page/阿明·范·比伦.md "wikilink")等荷兰DJ的努力，荷兰出神(Dutch
 Trance)形成了自己的Trance文化\[17\]，90年代末期起，荷兰最受欢迎的[电子舞曲类型从盛行已久的硬核舞曲变为了荷兰出神](../Page/電子舞曲.md "wikilink")(Dutch
-Trance)，并以荷兰出神发展定义了更确定曲式结构的Trane音乐类型振奋出神().
+Trance)，并以荷兰出神与时兴的渐进出神(Progressive Trance)发展定义了更确定曲式结构的Trane音乐类型振奋出神().
 
 1998年，[Paul van Dyk凭借](../Page/保羅·凡戴克.md "wikilink")1994年制作的专辑45
 RPM中曲目For An
@@ -149,7 +149,7 @@ Buuren几乎影响了在其之后所有](../Page/阿明·范·比伦.md "wikilin
 2002年，Tiesto被英国杂志[DJ
 MAG的读者评选为](https://zh.wikipedia.org/wiki/DJ_Magazine "wikilink")[世界上最好的DJ](../Page/DJ雜誌.md "wikilink")，并在接下来的几年延续了这一头衔\[26\]。2003年，他参加了Tiesto
 in
-Concert，在[阿姆斯特丹的GelreDome首次以DJ个人秀的形式独自面对](../Page/阿姆斯特丹.md "wikilink")25,000名观众\[27\]。并在2004年的8月13日参加了[2004雅典夏季奥运会](https://zh.wikipedia.org/wiki/2004年夏季奥林匹克运动会 "wikilink")\[28\]，成为了首个在奥运会舞台进行表演的DJ，并在现场、电视、电台三种渠道下为至少数百万观众表演Trance音乐\[29\]，这个纪录可能持续到了今天。同样在2004年，荷兰女王[贝娅特丽克丝为他在舞曲届的成就授予了Tiesto军官级别的](../Page/贝娅特丽克丝_\(荷兰\).md "wikilink")[奧蘭治-拿騷官佐勳章](../Page/奧蘭治-拿騷勳章.md "wikilink")\[30\]，这一荣誉类似德国联邦十字勋章。同年赢了BBC
+Concert，在[阿姆斯特丹的GelreDome首次以DJ个人秀的形式独自面对](../Page/阿姆斯特丹.md "wikilink")25,000名观众\[27\]。并在2004年的8月13日参加了[2004雅典夏季奥运会](https://zh.wikipedia.org/wiki/2004年夏季奥林匹克运动会 "wikilink")\[28\]，成为了首个在奥运会舞台进行表演的DJ，并在现场、电视、电台三种渠道下为至少数百万观众表演Trance音乐\[29\]，这个纪录可能持续到了今天。同样在2004年，荷兰女王[贝娅特丽克丝为他在舞曲届的成就授予了Tiesto](../Page/贝娅特丽克丝_\(荷兰\).md "wikilink")[奧蘭治-拿騷官佐勳章](../Page/奧蘭治-拿騷勳章.md "wikilink")\[30\]，这一荣誉类似德国联邦十字勋章。同年赢了BBC
 Radio 1 年度最佳混音奖。
 
 受欢迎的程度，也体现在诸多的音乐节中，在现在规模最大的三个电音节品牌([TML](../Page/明日世界電子音樂節.md "wikilink")、[UMF](../Page/超世代音乐节.md "wikilink")、)在2000-20012年之间以及Nature
@@ -171,14 +171,17 @@ Energy等诸多电音节品牌几乎都以Trance音乐人作为头牌艺人进�
 
 ### 今天的出神音乐(21世纪10年代)
 
-进入到21世纪的下一个十年，Trance逐渐被后期之秀[EDM所取代](../Page/電子舞曲.md "wikilink")，最初这是整个[电子舞曲分类的总合词语](../Page/電子舞曲.md "wikilink")，美国的电子音乐届将这个词模糊化并且重新定义为了一些特定的风格，例如[Bigroom
-House或是](../Page/電子浩室.md "wikilink")\[31\]。更精确描绘新一代主流电子舞曲的词汇应当是主舞台音乐(Mainstage
-Music)，指的是电音节最大的舞台上最容易被提及的制作人、DJ所制作的最多数的电子舞曲。在[DJ
+进入到21世纪的下一个十年，Trance逐渐被后期之秀[EDM所取代](../Page/電子舞曲.md "wikilink")，最初这是整个[电子舞曲分类的总合词语](../Page/電子舞曲.md "wikilink")，一些Prog
+House制作人诸如Axwell、Daivd Guetta将原本结构较长的传统Prog
+House进行了改良，使其更加流行化，并结合Electro
+House延伸出了Bigroom
+House，美国的一些电子音乐媒体鉴于这些音乐与之前的电子舞曲有显著的不同，于是将其称呼为EDM\[31\]。在[DJ
 MAG杂志每年所发表的百大DJ排名中](../Page/DJ雜誌.md "wikilink")，[David
 Guetta在](../Page/大衛·庫塔_\(DJ\).md "wikilink")2008年首次进入了前5，2011年成为了第1\[32\]，这是自1997年以来首次非Trance
-DJ的登顶，而自2013年起百大DJ排行第一的便被主要制作Bigroom
+DJ的登顶，而自2013年起百大DJ排行第一的便被主要制作Bigroom House和Prog Electro
 House的音乐人诸如[Hardwell](../Page/硬威爾.md "wikilink")、、[Martin
-Garrix等取代](../Page/馬汀·蓋瑞克斯.md "wikilink")\[33\]，这某种意义上反应了电子舞曲潮流的改变。
+Garrix等取代](../Page/馬汀·蓋瑞克斯.md "wikilink")\[33\]，同时还有将乡村音乐与Prog
+House结合的Avicii也大受欢迎，这某种意义上反应了电子舞曲潮流的改变。
 
 许多著名的Trance DJ/制作人开始转向Bigroom
 House，诸如Arty、[W\&W](https://zh.wikipedia.org/wiki/W&W "wikilink")、[Dash

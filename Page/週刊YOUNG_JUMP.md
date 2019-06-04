@@ -297,11 +297,11 @@ JUMP（）](http://tonarinoyj.jp/)。
 
 ## 完结作品
 
-  - [孔雀王](../Page/孔雀王.md "wikilink")（[荻野真](https://zh.wikipedia.org/wiki/荻野真 "wikilink")）
+  - [孔雀王](../Page/孔雀王.md "wikilink")（[荻野真](../Page/荻野真.md "wikilink")）
 
-  - [孔雀王-退魔圣传](../Page/孔雀王.md "wikilink")（[荻野真](https://zh.wikipedia.org/wiki/荻野真 "wikilink")）
+  - [孔雀王-退魔圣传](../Page/孔雀王.md "wikilink")（[荻野真](../Page/荻野真.md "wikilink")）
 
-  - [电脑启示录](https://zh.wikipedia.org/wiki/电脑启示录 "wikilink")（[荻野真](https://zh.wikipedia.org/wiki/荻野真 "wikilink")）
+  - [电脑启示录](https://zh.wikipedia.org/wiki/电脑启示录 "wikilink")（[荻野真](../Page/荻野真.md "wikilink")）
 
   - [變異體少女](https://zh.wikipedia.org/wiki/變異體少女 "wikilink")（[冈本伦](https://zh.wikipedia.org/wiki/冈本伦 "wikilink")）
 
@@ -322,7 +322,7 @@ JUMP（）](http://tonarinoyj.jp/)。
 
   - [忘忧草的温柔](https://zh.wikipedia.org/wiki/母亲的感情 "wikilink")（[奥浩哉](https://zh.wikipedia.org/wiki/奥浩哉 "wikilink")）
 
-  - [夜叉鸦](https://zh.wikipedia.org/wiki/夜叉鸦 "wikilink")（[荻野真](https://zh.wikipedia.org/wiki/荻野真 "wikilink")）
+  - [夜叉鸦](https://zh.wikipedia.org/wiki/夜叉鸦 "wikilink")（[荻野真](../Page/荻野真.md "wikilink")）
 
   - [銀白榮躍](../Page/銀白榮躍.md "wikilink")（[冈本伦](https://zh.wikipedia.org/wiki/冈本伦 "wikilink")）
 

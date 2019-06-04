@@ -13,21 +13,17 @@ MAC-10設計時，全槍的零部件幾乎完全採用薄[钢板以](../Page/钢
 
 M10式冲锋枪所有版本都适用了自由枪机工作结构。机匣被分为上下两部分，枪机和枪管位于上方，下机匣包含有发射机、保险机构和快慢机。包络结构可以使得枪管大部分伸入机匣内来减少枪械的长度，更方便携带。拉机柄设计在顶部，上面有作为瞄准的开槽。当枪机位于前方，拉机柄钮旋转90°可以将枪机锁在前方。快慢机在机匣左侧扳机前方，向前推为单发，向后拉为连发。保险位于扳机右前方，使用非常方便，向前扳为射击，向后扳为保险，可通过扣扳机的手指就实现保险。在枪械前部有一个帆布质地的把手，可以在持续射击时用来控制枪口上挑。
 
-由於設計者的關係所以使用鋸齒狀的處理、槍機轉動90度就會閉鎖和有指示器指示武器不能射擊的兩個保險裝置，這能有效杜絕武器射擊系統因為墜下或者開放式槍機先天缺陷所導致的走火。由于結構簡單的關係，很少發生操作上的問題，亦證明了MAC-10的設計是堅固的。\[1\]MAC-10採用了矩形結構[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")，“Ｌ”型[包絡式槍機](../Page/包絡式槍機.md "wikilink")（），把[槍管的大部份包裹槍機內部](../Page/槍管.md "wikilink")，並且把[彈匣位置改為在](../Page/彈匣.md "wikilink")內部以縮短總長度和平衡其重量分佈，而使得這槍這設計得這麼小。在該槍的機匣左側安裝有旋鈕式[快慢機](../Page/擊發調變槍械.md "wikilink")，可在半自動和全自動兩個位置之間切換。保險裝置則設置在板機護環裡面，具有"保險"和“開火”兩個選擇。
+由於設計者的關係所以使用鋸齒狀的處理、槍機轉動90度就會閉鎖和有指示器指示武器不能射擊的兩個保險裝置，這能有效杜絕武器射擊系統因為墜下或者開放式槍機先天缺陷所導致的走火。由于結構簡單的關係，很少發生操作上的問題，亦證明了MAC-10的設計堅固。\[1\]MAC-10採用了矩形結構[機匣](https://zh.wikipedia.org/wiki/機匣 "wikilink")，“Ｌ”型[包絡式槍機](../Page/包絡式槍機.md "wikilink")（），把[槍管的大部份包裹槍機內部](../Page/槍管.md "wikilink")，並且把[彈匣位置改為在](../Page/彈匣.md "wikilink")內部以縮短總長度和平衡其重量分佈，而使得這槍這設計得這麼小。在該槍的機匣左側安裝有旋鈕式[快慢機](../Page/擊發調變槍械.md "wikilink")，可在半自動和全自動兩個位置之間切換。保險裝置則設置在板機護環裡面，具有“保險”和“開火”兩個選擇。
 
 MAC-10使用了[開放式槍機](../Page/開放式槍機.md "wikilink")（），較輕的開放式槍機令其有著較高的射速。但由於其[機匣過於狹小](https://zh.wikipedia.org/wiki/機匣 "wikilink")，槍機後座距離較短，射速過高，容易引起卡彈等故障。
 
-槍管前端的螺旋紋可用來安裝專用的[消聲器以減低發射時的聲音](../Page/抑制器.md "wikilink")，而其設計特色是在沒有減低子彈的[初速下達到消聲效果](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")，而且作為平衡重心點（這種類似的衝鋒槍用消聲器的設計概念還有[中国的](https://zh.wikipedia.org/wiki/中国 "wikilink")[QCW-05](../Page/05式微声冲锋枪.md "wikilink")）。為了節省設計新[彈匣的](../Page/彈匣.md "wikilink")[成本](../Page/成本.md "wikilink")，[.45](../Page/.45_ACP.md "wikilink")
-[口徑採用來自](https://zh.wikipedia.org/wiki/口徑 "wikilink")[M3衝鋒槍的](../Page/M3衝鋒槍.md "wikilink").45
-口徑彈匣。
+槍管前端的螺旋紋可用來安裝專用的[抑制器以減低發射時的聲音](../Page/抑制器.md "wikilink")，而其設計特色是在沒有減低子彈的[初速下達到消聲效果](https://zh.wikipedia.org/wiki/槍口初速 "wikilink")，而且作為平衡重心點（這種類似的衝鋒槍用消聲器的設計概念還有[中国的](https://zh.wikipedia.org/wiki/中国 "wikilink")[QCW-05](../Page/05式微声冲锋枪.md "wikilink")）。為了節省設計新[彈匣的](../Page/彈匣.md "wikilink")[成本](../Page/成本.md "wikilink")，[.45](../Page/.45_ACP.md "wikilink")[口徑採用來自](https://zh.wikipedia.org/wiki/口徑 "wikilink")[M3衝鋒槍的](../Page/M3衝鋒槍.md "wikilink").45口徑彈匣。
 
 英格拉姆在[美軍少量裝備MAC](../Page/美国陆军.md "wikilink")-10期間得到建議，亦增加一個小型的可伸縮[槍托和在槍口裝上](../Page/槍托.md "wikilink")環以控制[全自動射擊時的](https://zh.wikipedia.org/wiki/自動火器 "wikilink")[後座力](../Page/後座力.md "wikilink")。但在推出初期而言，就被認為是理想的近戰武器。\[2\]
 
 ### 消聲型
 
-這是MAC-10裝上的一種其革命性的[消聲器](../Page/抑制器.md "wikilink")，由[亚特兰大](../Page/亚特兰大.md "wikilink")[斯朗尼公司](https://zh.wikipedia.org/wiki/斯朗尼 "wikilink")（，全稱：，意為：反叛亂分子及反顛覆業務研究）的[創始人](https://zh.wikipedia.org/wiki/企業家 "wikilink")[米切爾·韋貝爾三世所設計](https://zh.wikipedia.org/wiki/米切爾·韋貝爾三世 "wikilink")。這個消聲器的特別之處是雙室式設計，第一個室設計得比第二個室更大。這種獨特的設計得如尖柱的消聲器令MAC-10有一種感到獨特的風格。使用它發射後是接近無聲的。這種「無聲」的設計是因為內部清潔時只需要清潔金屬的部份而且無需更換新的，和其他使用較落後的技術的消聲器（例如擦片式）相比是先進得多。消聲器同時產生了使用這種武器的情況；安裝後的重量會增加，平衡武器重心點，令使用者更容易控制槍械。在1970年代美國甚至限制消聲器的出口，並有效地記錄每個國家和其銷售點以便隨時取消其對MAC-10的訂單。還有不少在美國的自動武器同樣地受到附加限制，結果導致1976年軍事裝備公司等的主要高層[破產](../Page/破產.md "wikilink")。\[3\]原來槍管的螺紋在設計時只是預料用於安裝消聲器，但是後來很多廠商所製造了很多可以裝上螺紋的附件，例如：[槍口制退器](../Page/砲口制動器.md "wikilink")、延伸式槍管、假消聲器和[前握把](../Page/輔助握把.md "wikilink")。另外，在1983年至1986年，另一些MAC-10生產商SWD和Cobray亦曾經生產過單室擦片式消聲器。\[4\]原來的Sionics消聲器長29.06
-毫米（11.44 英吋），最大[直径](../Page/直径.md "wikilink")5.4 毫米（2.13 英吋），重0.54
-公斤（1.2 [磅](../Page/磅.md "wikilink")）。
+這是MAC-10裝上的一種其革命性的[抑制器](../Page/抑制器.md "wikilink")，由[亚特兰大](../Page/亚特兰大.md "wikilink")[斯朗尼公司](https://zh.wikipedia.org/wiki/斯朗尼 "wikilink")（，全稱：，意為：反叛亂分子及反顛覆業務研究）的[創始人](https://zh.wikipedia.org/wiki/企業家 "wikilink")[米切爾·韋貝爾三世所設計](https://zh.wikipedia.org/wiki/米切爾·韋貝爾三世 "wikilink")。這個消聲器的特別之處是雙室式設計，第一個室設計得比第二個室更大。這種獨特的設計得如尖柱的消聲器令MAC-10有一種感到獨特的風格。使用它發射後是接近無聲的。這種「無聲」的設計是因為內部清潔時只需要清潔金屬的部份而且無需更換新的，和其他使用較落後的技術的消聲器（例如擦片式）相比是先進得多。消聲器同時產生了使用這種武器的情況；安裝後的重量會增加，平衡武器重心點，令使用者更容易控制槍械。在1970年代美國甚至限制消聲器的出口，並有效地記錄每個國家和其銷售點以便隨時取消其對MAC-10的訂單。還有不少在美國的自動武器同樣地受到附加限制，結果導致1976年軍事裝備公司等的主要高層[破產](../Page/破產.md "wikilink")。\[3\]原來槍管的螺紋在設計時只是預料用於安裝消聲器，但是後來很多廠商所製造了很多可以裝上螺紋的附件，例如：[槍口制退器](../Page/砲口制動器.md "wikilink")、延伸式槍管、假消聲器和[前握把](../Page/輔助握把.md "wikilink")。另外，在1983年至1986年，另一些MAC-10生產商SWD和Cobray亦曾經生產過單室擦片式消聲器。\[4\]原來的Sionics消聲器長29.06毫米（11.44英吋），最大[直径](../Page/直径.md "wikilink")5.4毫米（2.13英吋），重0.54公斤（1.2磅）。
 
 ## 命名問題
 
@@ -35,12 +31,7 @@ MAC-10使用了[開放式槍機](../Page/開放式槍機.md "wikilink")（），
 
 ## 1994年攻擊性武器禁令
 
-可能是由於其來勢洶洶的外觀和自1982年開放式槍機武器禁令以前在聚集的開放式槍機之間的信譽，與對應它的軍用型版本操作不同的半自動民用型MAC-10，成為了1994年[聯邦突擊武器禁制法案](https://zh.wikipedia.org/wiki/聯邦突擊武器禁制法案 "wikilink")（，簡稱：AWB）的禁止攻擊武器條款的目標。這項禁令頒布定義為一款攻擊武器的各種要求。不僅直接地將MAC-10列入於禁令上，\[5\]它也違反了該法案的兩個要求：首先，一款半自動版本的自動武器；其次，手槍在空槍時，製造重量為50
-[盎司](../Page/盎司.md "wikilink")（1.42 公斤，3.12 磅）或以上時。\[6\]尤其是後者，施加的重量限制為50
-盎司，而MAC-10的重量已經超過100.16 盎司（2.84
-公斤）。更重要的是，涉及兩個基本問題：這款武器具有一根螺紋[槍管](../Page/槍管.md "wikilink")，增加了裝上[消聲器的能力](../Page/抑制器.md "wikilink")，以及彈匣容量為32
-發，遠遠超過了該禁令的限制。對此，韋恩·丹尼爾根據1994年聯邦突擊武器禁制法案的規定對該武器重新設計，不能再裝上消聲器，並研製了一個只能使用10
-發彈匣的新型[彈匣釋放按鈕](../Page/彈匣.md "wikilink")。新的武器被命名為PM11/9。
+可能是由於其來勢洶洶的外觀和自1982年開放式槍機武器禁令以前在聚集的開放式槍機之間的信譽，與對應它的軍用型版本操作不同的半自動民用型MAC-10，成為了1994年[聯邦突擊武器禁制法案](https://zh.wikipedia.org/wiki/聯邦突擊武器禁制法案 "wikilink")（，簡稱：AWB）的禁止攻擊武器條款的目標。這項禁令頒布定義為一款攻擊武器的各種要求。不僅直接地將MAC-10列入於禁令上，\[5\]它也違反了該法案的兩個要求：首先，一款半自動版本的自動武器；其次，手槍在空槍時，製造重量為50盎司（1.42公斤，3.12磅）或以上時。\[6\]尤其是後者，施加的重量限制為50盎司，而MAC-10的重量已經超過100.16盎司（2.84公斤）。更重要的是，涉及兩個基本問題：這款武器具有一根螺紋[槍管](../Page/槍管.md "wikilink")，增加了裝上[抑制器的能力](../Page/抑制器.md "wikilink")，以及彈匣容量為32發，遠遠超過了該禁令的限制。對此，韋恩·丹尼爾根據1994年聯邦突擊武器禁制法案的規定對該武器重新設計，不能再裝上消聲器，並研製了一個只能使用10發彈匣的新型[彈匣釋放按鈕](../Page/彈匣.md "wikilink")。新的武器被命名為PM11/9。
 
 ## 衍生型
 
@@ -295,7 +286,7 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
   - 1981年—《[-{zh-tw:紐約大逃亡; zh-cn:纽约大逃亡;
     zh-hk:逃出紐約;}-](../Page/纽约大逃亡.md "wikilink")》（Escape
     from New
-    York）：裝上[消聲器及瞄準鏡](../Page/抑制器.md "wikilink")，被[S.D.巴布·「大蛇」·普利斯金](../Page/大蛇·普利斯金.md "wikilink")（S.D.
+    York）：裝上[抑制器及瞄準鏡](../Page/抑制器.md "wikilink")，被[S.D.巴布·「大蛇」·普利斯金](../Page/大蛇·普利斯金.md "wikilink")（S.D.
     Bob「Snake」Plissken，[寇特·羅素飾演](../Page/寇特·羅素.md "wikilink")）所使用。
   - 1985年—《[突擊隊員](../Page/突击队员_\(电影\).md "wikilink")》（Commando）：被庫克（Cooke，[比爾·杜克飾演](../Page/比爾·杜克.md "wikilink")）和迪亞茲（Diaz，[加里·塞萬提斯飾演](https://zh.wikipedia.org/wiki/加里·塞萬提斯 "wikilink")）所使用。
   - 1985年—《》（Rambo: First Blood Part II）：一支裝上消聲器的MAC-10被Co
@@ -318,7 +309,7 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
     Abyss）：裝上廷長槍管並且被海勒姆·科菲（Hiram
     Coffey，[米高·比恩飾演](https://zh.wikipedia.org/wiki/米高·比恩 "wikilink")）所使用。
   - 1989年—《[黑雨](https://zh.wikipedia.org/wiki/黑雨_\(美國電影\) "wikilink")》（Black
-    Rain）：裝上[消聲器並且被佐藤浩史](../Page/抑制器.md "wikilink")（松田優作飾演）所使用。
+    Rain）：裝上[抑制器並且被佐藤浩史](../Page/抑制器.md "wikilink")（松田優作飾演）所使用。
   - 1989年—《[哥吉拉vs碧奧蘭蒂](../Page/哥吉拉vs碧奧蘭蒂.md "wikilink")》（ゴジラvsビオランテ）：在[東京採集](https://zh.wikipedia.org/wiki/東京 "wikilink")[哥吉拉細胞的](https://zh.wikipedia.org/wiki/哥吉拉 "wikilink")[美国生化中隊所持有的武器](../Page/美国.md "wikilink")。
   - 1991年—《[-{zh-hans:终结者2：审判日; zh-tw:魔鬼終結者2;
     zh-hk:未來戰士續集;}-](../Page/终结者2：审判日.md "wikilink")》（Terminator
@@ -359,12 +350,12 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
     Country for Old Men）
   - 2007年—《[-{zh-hans:美国黑帮; zh-hk:犯罪帝國;
     zh-tw:美國黑幫;}-](https://zh.wikipedia.org/wiki/美國黑幫 "wikilink")》（American
-    Gangster）：被一名車上射手所使用，裝上[消聲器](../Page/抑制器.md "wikilink")。
+    Gangster）：被一名車上射手所使用，裝上[抑制器](../Page/抑制器.md "wikilink")。
   - 2009年—《[快克殺手2：極速電擊](https://zh.wikipedia.org/wiki/快克殺手2：極速電擊 "wikilink")》（Crank:
     High Voltage）：在脫衣舞台槍戰中被一名黑幫成員所使用。
   - 2010年—《[-{zh-cn:弯刀;
     zh-tw:怒火狂飆;}-](../Page/弯刀_\(电影\).md "wikilink")》（Machete）：被護士蒙娜（Mona，[伊萊克特拉·艾維倫飾演](https://zh.wikipedia.org/wiki/伊萊克特拉·艾維倫 "wikilink")）、護士麗莎（Lisa，[埃莉斯·艾維倫飾演](https://zh.wikipedia.org/wiki/埃莉斯·艾維倫 "wikilink")）和布斯（April
-    Booth，[琳賽·蘿涵飾演](../Page/琳賽·蘿涵.md "wikilink")；裝上[消聲器](../Page/抑制器.md "wikilink")）所使用。
+    Booth，[琳賽·蘿涵飾演](../Page/琳賽·蘿涵.md "wikilink")；裝上[抑制器](../Page/抑制器.md "wikilink")）所使用。
   - 2010年—《[-{zh-cn:城中大盗; zh-tw:竊盜城;
     zh-hk:狂盜之城;}-](../Page/城中大盗.md "wikilink")》（The
     Town）：移除[槍托並且被德斯蒙德](../Page/槍托.md "wikilink")·“費爾南德斯”埃爾登（Desmond
@@ -439,7 +430,7 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
     Auto: Vice City）：命名為「微型衝鋒槍」。
   - 2006年—《[俠盜獵車手：罪惡城市傳奇](../Page/俠盜獵車手：罪惡城市傳奇.md "wikilink")》（Grand
     Theft Auto: Vice City
-    Stories）：裝上[消聲器](../Page/抑制器.md "wikilink")，命名為「微型衝鋒槍」。
+    Stories）：裝上[抑制器](../Page/抑制器.md "wikilink")，命名為「微型衝鋒槍」。
   - 2006年—《[-{zh-cn:合金装备：掌上行动; zh-tw:潛龍諜影：掌上行動;
     zh-hk:合金裝備：掌上行動;}-](https://zh.wikipedia.org/wiki/潛龍諜影：掌上行動 "wikilink")》（Metal
     Gear Solid: Portable Ops）
@@ -449,7 +440,7 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
   - 2010年—《[-{zh-cn:合金装备：和平行者;
     zh-tw:潛龍諜影：和平先驅;}-](https://zh.wikipedia.org/wiki/潛龍諜影：和平先驅 "wikilink")》（Metal
     Gear Solid: Peace
-    Walker）：命名為「M10」，可裝上[消聲器或延長槍管](../Page/抑制器.md "wikilink")。
+    Walker）：命名為「M10」，可裝上[抑制器或延長槍管](../Page/抑制器.md "wikilink")。
   - 2007年—《[-{zh-cn:古墓丽影：重返禁地; zh-tw:古墓奇兵：重返禁地;
     zh-hk:盜墓者羅拉：重返禁地;}-](../Page/古墓奇兵：重返禁地.md "wikilink")》（Lara
     Croft Tomb Raider: Anniversary）：命名為「迷你衝鋒槍」，雙持。
@@ -461,19 +452,18 @@ MAC-10同時出現在多個[电影](../Page/电影.md "wikilink")（尤其是[�
     Cry
     2）：命名為"MAC-10"，歸類為副武器，30發[彈匣](../Page/彈匣.md "wikilink")。武器模組採用鏡像佈局（拋殼口在左邊）。其極快的速度在一定程度上彌補了可怕的準確性和薄弱的火力，被敵方狙擊手和使用[火箭筒的士兵所使用](../Page/火箭弹发射器.md "wikilink")。
   - 2009年—《[殺戮空間](../Page/殺戮空間.md "wikilink")》（Killing
-    Floor）：2010年10月7日推出，30
-    發[彈匣](../Page/彈匣.md "wikilink")，裝上[消聲器](../Page/抑制器.md "wikilink")。被放火者職階使用時發射燃燒子彈。
+    Floor）：2010年10月7日推出，30發[彈匣](../Page/彈匣.md "wikilink")，裝上[抑制器](../Page/抑制器.md "wikilink")。被放火者職階使用時發射燃燒子彈。
   - 2009年—《[-{zh-cn:求生之路2;
     zh-tw:惡靈勢力2;}-](../Page/求生之路2.md "wikilink")》（Left
-    4 Dead 2）：命名為「消聲衝鋒槍」，50
-    發[彈匣](../Page/彈匣.md "wikilink")，裝上[手電筒及](../Page/手電筒.md "wikilink")[消聲器](../Page/抑制器.md "wikilink")。
+    4 Dead
+    2）：命名為「消聲衝鋒槍」，50發[彈匣](../Page/彈匣.md "wikilink")，裝上[手電筒及](../Page/手電筒.md "wikilink")[抑制器](../Page/抑制器.md "wikilink")。
   - 2010年—《[-{zh-cn:战地：叛逆连队2：越南;
     zh-tw:戰地風雲：惡名昭彰2：再戰越南;}-](https://zh.wikipedia.org/wiki/战地：叛逆连队2#資料片 "wikilink")》（Battlefield:
-    Bad Company 2: Vietnam）：命名為「M10」，40
-    發[彈匣](../Page/彈匣.md "wikilink")，可被工程兵所使用。
+    Bad Company 2:
+    Vietnam）：命名為「M10」，40發[彈匣](../Page/彈匣.md "wikilink")，可被工程兵所使用。
   - 2010年—《[-{zh-cn:凯恩与林奇2：伏天;
     zh-tw:喋血雙雄2：伏天;}-](../Page/凯恩与林奇2：伏天.md "wikilink")》（Kane
-    & Lynch 2: Dog Days）：命名為「PAC 10」，裝上[消聲器](../Page/抑制器.md "wikilink")。
+    & Lynch 2: Dog Days）：命名為「PAC 10」，裝上[抑制器](../Page/抑制器.md "wikilink")。
   - 2012年—《[-{zh-cn:马克思·佩恩3; zh-tw:江湖本色3;
     zh-hk:英雄本色3;}-](../Page/英雄本色3.md "wikilink")》（Max
     Payne 3）：命名為「M10」，有金色版本，可[雙持](../Page/雙持.md "wikilink")。

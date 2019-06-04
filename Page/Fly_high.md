@@ -36,7 +36,5 @@ high**》（高飛）是日本歌手[濱崎步第](../Page/濱崎步.md "wikilin
 
 <references/>
 
-[en:Fly High](https://zh.wikipedia.org/wiki/en:Fly_High "wikilink")
-
 [Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")
 [Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")

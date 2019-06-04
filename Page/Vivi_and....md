@@ -21,8 +21,6 @@ and…每一個傾聽她的人。
 
   - [Hitoradio](https://web.archive.org/web/20070928044750/http://www.hitoradio.com/music/1a_2_1_1.php?ca_id=13&album_id=288)
 
-[en:Hen Hen Ai](https://zh.wikipedia.org/wiki/en:Hen_Hen_Ai "wikilink")
-
 [Category:徐若瑄音樂專輯](https://zh.wikipedia.org/wiki/Category:徐若瑄音樂專輯 "wikilink")
 [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
 [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")

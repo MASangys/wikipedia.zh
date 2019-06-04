@@ -115,7 +115,7 @@ Xbox360從發售之初至今，故障問題一直十分嚴重。2005年8月，�
     Slim發行後　此狀況已不再常見[微軟並未正式公開三紅原因](http://ja.wikipedia.org/wiki/Xbox_360%E3%81%AE%E6%8A%80%E8%A1%93%E7%9A%84%E5%95%8F%E9%A1%8C)
 
 5.  [傳說中的Xbox 360三紅大揭秘](http://games.enet.com.cn/article/A0120080121001_1.html)
-    遊戲先鋒
+     遊戲先鋒
 
 6.  [三紅癥結所在 Xbox360
     GPU銲接質量問題曝光](http://www.donews.com/Content/200801/5842b495abaa4179b7f4d5d70fc852c1.shtm)

@@ -100,8 +100,7 @@ Crash是一个基于《CROSS†CHANNEL》的[Flash小游戏](../Page/Adobe_Flash
 1.
 2.
 3.
-4.  [Nanaca
-    Crash的网页](http://www.geocities.jp/lledoece/nanaca-crash.html)
+4.
 5.  [90万米的截图和心得](http://www.newsmth.net/bbscon.php?bid=627&id=58296)
 6.  [2003年成人游戏作品列表](http://erogamescape.dyndns.org/~ap2/ero/toukei_kaiseki/toukei.php?kihon_mode=hatubaibi&year=2003#hyou)
 7.  [竹箒日記 2003年十月](http://www.typemoon.org/bbb/diary/log/200310.html)

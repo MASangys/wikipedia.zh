@@ -193,7 +193,7 @@ Benedetti評選為優秀設計、高效率記憶體消耗、瀏覽器的開源�
   -
 [Category:Mozilla_Firefox](https://zh.wikipedia.org/wiki/Category:Mozilla_Firefox "wikilink")
 [Category:自由網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:自由網頁瀏覽器 "wikilink")
-[Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")
+[Category:Android网页浏览器](https://zh.wikipedia.org/wiki/Category:Android网页浏览器 "wikilink")
 [Category:Gecko衍生軟體](https://zh.wikipedia.org/wiki/Category:Gecko衍生軟體 "wikilink")
 [Category:使用XUL的軟體](https://zh.wikipedia.org/wiki/Category:使用XUL的軟體 "wikilink")
 

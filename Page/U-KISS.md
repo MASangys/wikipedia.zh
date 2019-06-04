@@ -1,34 +1,36 @@
 **U-KISS**（），是[韓國男子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")，由經紀公司[NH
-Media於](../Page/NH_Media.md "wikilink")2008年成立。成員包括**秀鉉**、**基燮**、**Eli**、**Hoon**、**Jun**。2011年2月，**亞歷山大**和[起範退出](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")。2013年10月，**東澔**退出，同時加入新成員Jun。2016年8月29日，**AJ**約滿退出。\[1\]。2017年3月，**Kevin**約滿退出。U-KISS的名稱代表著「Ubiquitous
-Korean International（Idol） Super Star」。U-KISS的粉絲名稱為KISSme，官方應援色為櫻桃紅。
+Media於](../Page/NH_Media.md "wikilink")2008年成立。成員包括**秀鉉**、**Hoon**、**Jun**。2011年2月，**亞歷山大**和[起範退出](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink")。2013年10月，**東澔**退出，同時加入新成員Jun。2016年8月29日，**AJ**約滿退出\[1\]。2017年3月，**Kevin**約滿退出。2019年5月16日，**基燮**和**Eli**約滿退出\[2\]。
+
+U-KISS的名稱代表著「Ubiquitous Korean International（Idol） Super
+Star」。U-KISS的粉絲名稱為KISSme，官方應援色為櫻桃紅。
 
 ## 成員資料
 
-| 成员列表                                                          |
-| ------------------------------------------------------------- |
-| 藝名                                                            |
-| 藝名                                                            |
-| 秀鉉                                                            |
-| [基燮](https://zh.wikipedia.org/wiki/李基燮 "wikilink")            |
-| Eli                                                           |
-| Kim Kyong Jae                                                 |
-| Hoon                                                          |
-| [Jun](https://zh.wikipedia.org/wiki/李濬荣 "wikilink")           |
-| 已离开成员列表                                                       |
-| 藝名                                                            |
-| 藝名                                                            |
-| [亞歷山大](https://zh.wikipedia.org/wiki/亞歷山大·李·尤西比奧 "wikilink")  |
-| [起範](https://zh.wikipedia.org/wiki/金起範_\(1990年生\) "wikilink") |
-| AJ                                                            |
-| Kevin                                                         |
-| Woo Sung Hyun                                                 |
-| 東澔                                                            |
+| 成员列表                                                |
+| --------------------------------------------------- |
+| 藝名                                                  |
+| 藝名                                                  |
+| 秀鉉                                                  |
+| Hoon                                                |
+| [Jun](https://zh.wikipedia.org/wiki/李濬荣 "wikilink") |
+| 已离开成员列表                                             |
+| 藝名                                                  |
+| 藝名                                                  |
+| 亞歷山大                                                |
+| 起範                                                  |
+| 基燮                                                  |
+| Eli                                                 |
+| Kim Kyong Jae                                       |
+| AJ                                                  |
+| Kevin                                               |
+| Woo Sung Hyun                                       |
+| 東澔                                                  |
 
 ### 成員變遷時序表
 
 <timeline> ImageSize = width:650 height:350 PlotArea = width:500
 height:300 left:125 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:08/28/2008 till:2018 TimeAxis =
+mm/dd/yyyy Period = from:08/28/2008 till:2019 TimeAxis =
 orientation:horizontal format:mm/yyyy
 
 Colors =
@@ -61,7 +63,7 @@ PlotData =
 ` color:black width:10 textcolor:black align:left anchor:from`
 ` bar:SooHyun from:12/28/2017  till:end       `
 ` color:blue width:10 textcolor:black align:left anchor:from`
-` bar:Eli from:08/28/2008 till:end`
+` bar:Eli from:08/28/2008 till:05/16/2019`
 ` color:blue width:10 textcolor:black align:left anchor:from`
 ` bar:Kevin from:08/28/2008 till:04/25/2017`
 ` color:blue width:10 textcolor:black align:left anchor:from`
@@ -71,7 +73,7 @@ PlotData =
 ` color:blue width:10 textcolor:black align:left anchor:from`
 ` bar:Kibum from:08/28/2008 till:01/23/2011`
 ` color:darkblue width:10 textcolor:black align:left anchor:from`
-` bar:KiSeop from:09/05/2009 till:end`
+` bar:KiSeop from:09/05/2009 till:05/16/2019`
 ` color:skyblue width:10 textcolor:black align:left anchor:from`
 ` bar:Hoon from:03/26/2011 till:end`
 ` color:skyblue width:10 textcolor:black align:left anchor:from`
@@ -1120,30 +1122,19 @@ Arirang TV《Simply K-Pop》MC Eli
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong>－</strong></p></td>
-<td><p>Kevin日文單曲《<strong>RIDE ALONG</strong>》</p>
+<td><p><strong>7th</strong></p></td>
+<td><p>基燮、Hoon合作日文單曲《<strong>雨音 / SOMEDAY SOMEWHERE</strong>》</p>
 <ul>
-<li>發行日期：2018年10月25日</li>
-<li>唱片公司：Japan Music Ent / 事務所 MIYN</li>
+<li>發行日期：2019年3月14日</li>
 <li>語言：日語</li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>7th</strong></p></td>
+<td><p><strong>8th</strong></p></td>
 <td><p>Jun首張日文單曲《<strong>Phenomenal World</strong>》</p>
 <ul>
 <li>發行日期：2019年4月10日</li>
-<li>語言：日語</li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><strong>－</strong></p></td>
-<td><p>Kevin第二張日文單曲《<strong>FREEDOM</strong>》</p>
-<ul>
-<li>發行日期：2019年4月17日</li>
-<li>唱片公司：Japan Music Ent / 事務所 MIYN</li>
 <li>語言：日語</li>
 </ul></td>
 <td></td>
@@ -1530,3 +1521,5 @@ Arirang TV《Simply K-Pop》MC Eli
 
 1.  [AJ officially leaves U-KISS as his contract
     ends](http://www.allkpop.com/article/2016/09/aj-officially-leaves-u-kiss-as-his-contract-ends)
+2.  [유키스 일라이·기섭 전속계약 만료…독자 활동
+    나선다](https://www.mk.co.kr/star/hot-issues/view/2019/05/321748/)

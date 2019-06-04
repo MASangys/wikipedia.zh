@@ -45,9 +45,4 @@ IS只是使用了较大面积的CCD并且在象素上升级到了六百万。
   - [来了个狠角色：佳能S2
     IS发布](http://www.beareyes.com.cn/2/lib/200504/23/20050423118.htm)
 
-[en:Canon PowerShot S2
-IS](https://zh.wikipedia.org/wiki/en:Canon_PowerShot_S2_IS "wikilink")
-[pl:Canon PowerShot S2
-IS](https://zh.wikipedia.org/wiki/pl:Canon_PowerShot_S2_IS "wikilink")
-
 [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")

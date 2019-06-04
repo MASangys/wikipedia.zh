@@ -33,8 +33,6 @@
 
 ## 參考來源
 
-[ja:ワン・トゥー・ゴー航空](https://zh.wikipedia.org/wiki/ja:ワン・トゥー・ゴー航空 "wikilink")
-
 [Category:泰國航空公司](https://zh.wikipedia.org/wiki/Category:泰國航空公司 "wikilink")
 [Category:2003年成立的航空公司](https://zh.wikipedia.org/wiki/Category:2003年成立的航空公司 "wikilink")
 [Category:2010年結業航空公司](https://zh.wikipedia.org/wiki/Category:2010年結業航空公司 "wikilink")

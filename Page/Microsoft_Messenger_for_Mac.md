@@ -69,8 +69,6 @@ Microsoft Messenger for Mac沒有Windows Live Messenger的以下功能:
 
 [en:Windows Live Messenger\#Microsoft Messenger for
 Mac](https://zh.wikipedia.org/wiki/en:Windows_Live_Messenger#Microsoft_Messenger_for_Mac "wikilink")
-[es:Microsoft Messenger para
-Mac](https://zh.wikipedia.org/wiki/es:Microsoft_Messenger_para_Mac "wikilink")
 
 [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
 [Category:Windows_Live](https://zh.wikipedia.org/wiki/Category:Windows_Live "wikilink")

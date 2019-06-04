@@ -36,4 +36,4 @@ J级计划建造35艘，实际制造16艘，首舰K-156艇于1960年11月16日�
   - [Article in Russian](http://ship.bsu.by/main.asp?id=101388)
 
 [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
-[Category:傳統動力潛艦](https://zh.wikipedia.org/wiki/Category:傳統動力潛艦 "wikilink")
+[Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")

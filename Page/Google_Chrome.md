@@ -108,7 +108,7 @@ Chrome的市場占有率達到67.6%。\[42\]
     從5.0版本起，「Google Chrome」內置[Adobe Flash
     Player以確保使用的為最新版本降低被攻擊的風險](../Page/Adobe_Flash_Player.md "wikilink")。其後在9.0版本將Flash播放器內建在沙盒中獨立運行。這項技術是Chrome安全性進步的一座里程碑。對Windows
     XP用戶特別重要，因為它是平台上唯一提供Flash嵌入沙盒執行的瀏覽器。
-    從8.0版本起，「Google Chrome」內建在沙盒中獨立運行的PDF閱讀器，然而當機的機率很高。
+    從8.0版本起，「Google Chrome」內建在沙盒中獨立運行的PDF閱讀器，。
 
 <!-- end list -->
 
@@ -432,7 +432,7 @@ Chrome」（除正式版本外）加入研究室功能，將未完成或未完�
   - 完全通過「[CSS3 Selectors
     Test](http://tools.css3.info/selectors-test/test.html)（2010/06/30版本）」中574項測試\[75\]。
   - 在「[The CSS3
-    Test](http://css3test.com/)」中取得60%的分數（通過1175項，共1885項）\[76\]。
+    Test](http://css3test.com/)」中取得64%的分數（通過1521項，共2400項）\[76\]。
   - 「Google Chrome」在「[THE HTML5
     TEST](https://beta.html5test.com)」中\[77\]
 
@@ -444,8 +444,8 @@ Chrome」（除正式版本外）加入研究室功能，將未完成或未完�
         {| class="wikitable"
 
 |- \! 差異對照 \! 版本 \! 分數 |- style="background-color:Salmon;" | 上個舊版本 |
-70.0.3538.110 | 528 |- style="background-color:LawnGreen;" | 目前版本 |
-73.0.3683.4 | 540 |}
+73.0.3683.103 | 535 |- style="background-color:LawnGreen;" | 目前版本 |
+74.0.3729.169 | 535 |}
 
 ## 参考文献
 
@@ -470,6 +470,7 @@ Chrome」（除正式版本外）加入研究室功能，將未完成或未完�
 [Category:Webkit衍生軟體](https://zh.wikipedia.org/wiki/Category:Webkit衍生軟體 "wikilink")
 [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink")
 [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
+[Category:Google_Chrome](https://zh.wikipedia.org/wiki/Category:Google_Chrome "wikilink")
 
 1.
 2.

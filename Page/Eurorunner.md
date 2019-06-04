@@ -46,7 +46,9 @@ CF機車，按照[國際鐵路聯盟標準設計](../Page/國際鐵路聯盟.md 
 
 另外，本型機車亦預期負責將退役後的[港鐵中期翻新列車送往八鄉車廠解體](../Page/港鐵中期翻新列車.md "wikilink")。
 
-現時，本型機車是牽引[25T型客車往返何東樓車廠及紅磡站的主要使用機車](https://zh.wikipedia.org/wiki/25T型客車 "wikilink")，而其他舊式機車則主要用作工程車及東鐵線列車更換，較少執行此任務。
+現時，本型機車是牽引[25T型客車往返何東樓車廠及紅磡站的主要使用機車](https://zh.wikipedia.org/wiki/25T型客車 "wikilink")，同時用作牽引工程列車，而其他舊式機車則主要用作工程車及東鐵線列車更換，較少執行此任務。
+
+保養方面，自兩鐵合併後，港鐵對此等機車的廠修有所減少，但仍會定期安排機車在中午非繁忙時間於東鐵線上以「不停站列車」名義進行溜軸，確保機車運作正常。
 
 在緊急情況，本款機車亦可用作牽引港穗直通車進出香港（如2015年直通車故障，部分班次列車由ER20機車牽引下，由羅湖站到達[紅磡站](../Page/紅磡站.md "wikilink")）。
 
@@ -69,6 +71,7 @@ CF型機車銷路不佳（僅立陶宛鐵路購置）而告吹。在2012年，�
   - [G16型柴油機車](https://zh.wikipedia.org/wiki/G16型柴油機車 "wikilink")
   - [G26型柴油機車](../Page/G26型柴油機車.md "wikilink")
   - [CKD0A型內燃機車](../Page/CKD0A型內燃機車.md "wikilink")
+  - [越南铁路D20E型柴油机车](https://zh.wikipedia.org/wiki/越南铁路D20E型柴油机车 "wikilink")，同一公司以Eurorunner為藍本研製的窄軌柴油機車
   - [EuroSprinter](../Page/EuroSprinter.md "wikilink")，同一公司同時研發的電力機車車系
   - [神華號HXD1八軸/十二軸機車](https://zh.wikipedia.org/wiki/和諧1型電力機車#改進 "wikilink")，同一公司授權[中車株機生產之電力機車](https://zh.wikipedia.org/wiki/中車株洲電力機車 "wikilink")，採用與本型柴油機車相似頭型設計
 

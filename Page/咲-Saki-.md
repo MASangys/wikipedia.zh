@@ -327,39 +327,51 @@ ISBN 978-4-7575-4490-1</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>10</p></td>
+<td><p>2018年10月25日</p></td>
+<td><p>ISBN 978-4-7575-5890-8</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>小林立（原案）、大河田秀樹（漫畫）《立‐Ritz‐》史克威爾艾尼克斯〈BIG GANGAN COMICS〉</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>全</p></td>
 <td><p>2016年3月25日</p></td>
 <td><p>ISBN 978-4-7575-4921-0</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>小林立（原案）、（漫畫）《》史克威爾艾尼克斯〈BIG GANGAN COMICS〉</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1</p></td>
 <td><p>2016年12月24日</p></td>
 <td><p>ISBN 978-4-7575-5196-1</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2</p></td>
 <td><p>2017年11月25日</p></td>
 <td><p>ISBN 978-4-7575-5532-7</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3</p></td>
 <td><p>2018年3月24日</p></td>
 <td><p>ISBN 978-4-7575-5678-2</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2018年10月25日</p></td>
+<td><p>ISBN 978-4-7575-5891-5</p></td>
 <td></td>
 </tr>
 <tr class="even">

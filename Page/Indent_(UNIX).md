@@ -33,8 +33,6 @@ indent使用[GNU樣式做為樣式的預設值](https://zh.wikipedia.org/wiki/�
   - [1](http://www.linuxmanpages.com/man1/indent.1.php)
     indent的[man說明頁](https://zh.wikipedia.org/wiki/man說明頁 "wikilink")
 
-[de:Astyle](https://zh.wikipedia.org/wiki/de:Astyle "wikilink")
-
 [Category:GNU](https://zh.wikipedia.org/wiki/Category:GNU "wikilink")
 [Category:GNU計劃軟體](https://zh.wikipedia.org/wiki/Category:GNU計劃軟體 "wikilink")
 [Category:Unix软件](https://zh.wikipedia.org/wiki/Category:Unix软件 "wikilink")

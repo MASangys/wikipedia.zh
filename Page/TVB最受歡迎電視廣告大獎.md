@@ -5,14 +5,16 @@
 
 首先評判團會在數百個[廣告中因應性質選出每個界別五個候選名單](../Page/廣告.md "wikilink")，再由[香港市民以網上投票或郵寄選票選出得出獲獎單位](../Page/香港.md "wikilink")，最後經[黃龍德會計師事務所點算及核實結果](https://zh.wikipedia.org/wiki/黃龍德會計師事務所 "wikilink")。
 
-## 播出、司儀及演出
+## 播出／司儀及演出／監製及編審
 
-<table style="width:95%;">
+<table style="width:92%;">
 <colgroup>
+<col style="width: 12%" />
 <col style="width: 15%" />
 <col style="width: 20%" />
-<col style="width: 30%" />
-<col style="width: 30%" />
+<col style="width: 25%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -20,6 +22,8 @@
 <th><p>播出</p></th>
 <th><p>司儀</p></th>
 <th><p>備註</p></th>
+<th><p>監製</p></th>
+<th><p>編審</p></th>
 </tr>
 </thead>
 <tbody>
@@ -29,11 +33,15 @@
 <td><p><a href="../Page/鄭丹瑞.md" title="wikilink">鄭丹瑞</a>、<a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a></p></td>
 <td><p>口號為「全港首創·100%全民直選」、「300%創意破格，TVB最受歡迎廣告即將誕生。」<br />
 <a href="../Page/王祖藍.md" title="wikilink">王祖藍主持</a>《TVB最受歡迎廣告頒獎典禮2007 前奏》</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2008（第二屆）</p></td>
 <td><p>7月26日晚上8時30分</p></td>
 <td><p>鄭丹瑞、<a href="../Page/李浩林.md" title="wikilink">李浩林</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -41,23 +49,31 @@
 <td><p>4月25日晚上9時</p></td>
 <td><p><a href="../Page/李思捷.md" title="wikilink">李思捷</a>、<a href="../Page/錢嘉樂.md" title="wikilink">錢嘉樂</a>、<a href="../Page/周汶錡.md" title="wikilink">周汶錡</a></p></td>
 <td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2010（第四屆）</p></td>
 <td><p>5月15日晚上9時30分</p></td>
 <td><p><a href="../Page/曾志偉.md" title="wikilink">曾志偉</a>、<a href="../Page/鄧梓峰.md" title="wikilink">鄧梓峰</a>、<a href="../Page/丘凱敏.md" title="wikilink">丘凱敏</a></p></td>
 <td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛世輝" title="wikilink">衛世輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梁偉庭" title="wikilink">梁偉庭</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2011（第五屆）</p></td>
 <td><p>7月31日晚上22:00-23:30</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/森美" title="wikilink">森美</a>、<a href="https://zh.wikipedia.org/wiki/陳庭欣" title="wikilink">陳庭欣</a></p></td>
 <td><p>7月21日晚上假<a href="../Page/九龍香格里拉酒店.md" title="wikilink">九龍香格里拉酒店B</a>1粉嶺廳舉行，名為《魔法擂台-2011 TVB最受歡迎廣告頒獎典禮》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/黃中濠" title="wikilink">黃中濠</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/徐家祥_(編審)" title="wikilink">徐家祥</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2012（第六屆）</p></td>
 <td><p>6月30日晚上9時55分</p></td>
 <td><p><a href="../Page/麥長青.md" title="wikilink">麥長青</a>、陳庭欣、<a href="../Page/金剛_(藝人).md" title="wikilink">金　剛</a>、<a href="../Page/呂慧儀.md" title="wikilink">呂慧儀</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -65,6 +81,8 @@
 <td><p>6月22日晚上9時00分</p></td>
 <td><p>鄭丹瑞、<a href="../Page/林盛斌.md" title="wikilink">林盛斌</a>、<a href="../Page/黃山怡.md" title="wikilink">黃山怡</a></p></td>
 <td><p>演出：<a href="../Page/C_AllStar.md" title="wikilink">C AllStar</a>、<a href="../Page/Mr..md" title="wikilink">Mr.</a>、<a href="https://zh.wikipedia.org/wiki/梁漢文" title="wikilink">梁漢文</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2014（第八屆）</p></td>
@@ -72,6 +90,9 @@
 <td><p><a href="../Page/曾華倩.md" title="wikilink">曾華倩</a>、<a href="../Page/崔建邦.md" title="wikilink">崔建邦</a>、<a href="../Page/王貽興.md" title="wikilink">王貽興</a></p></td>
 <td><p>嘉賓：<a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、<a href="../Page/王梓軒.md" title="wikilink">王梓軒</a>、<a href="https://zh.wikipedia.org/wiki/江欣燕" title="wikilink">江欣燕</a>、<a href="https://zh.wikipedia.org/wiki/羽翹" title="wikilink">羽翹</a>、<a href="../Page/吳若希.md" title="wikilink">吳若希</a>、<a href="../Page/吳嘉熙.md" title="wikilink">吳嘉熙</a>、<a href="https://zh.wikipedia.org/wiki/吳燕菁" title="wikilink">吳燕菁</a>、<a href="../Page/李克勤.md" title="wikilink">李克勤</a>、<a href="https://zh.wikipedia.org/wiki/狄易達" title="wikilink">狄易達</a>、<a href="https://zh.wikipedia.org/wiki/周志文" title="wikilink">周志文</a>、<a href="https://zh.wikipedia.org/wiki/周志康" title="wikilink">周志康</a>、<a href="../Page/張慧儀.md" title="wikilink">張慧儀</a>、<a href="https://zh.wikipedia.org/wiki/陳嘉寶" title="wikilink">陳嘉寶</a>、<a href="../Page/彭永琛.md" title="wikilink">彭永琛</a>、<a href="https://zh.wikipedia.org/wiki/蔚雨芯" title="wikilink">蔚雨芯</a>、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>、<a href="../Page/賴慰玲.md" title="wikilink">賴慰玲</a><br />
 旁白：<a href="../Page/陳廷軒.md" title="wikilink">陳廷軒</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林嘉穎" title="wikilink">林嘉穎</a></p></td>
+<td><p>徐家祥<br />
+梁偉庭</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015（第九屆）</p></td>
@@ -81,6 +102,8 @@
 頒獎禮後為《實至名歸好廣告》，主持為<a href="../Page/宋熙年.md" title="wikilink">宋熙年</a>、<a href="../Page/鄭敬基.md" title="wikilink">鄭敬基</a><br />
 演出：<a href="../Page/阮兆祥.md" title="wikilink">阮兆祥</a>、<a href="../Page/謝安琪.md" title="wikilink">謝安琪</a>、<a href="../Page/蔣志光.md" title="wikilink">蔣志光</a>、<a href="../Page/鄭俊弘.md" title="wikilink">鄭俊弘</a>、<a href="../Page/劉雅麗.md" title="wikilink">劉雅麗</a>、<a href="../Page/韋綺姍.md" title="wikilink">韋綺姍</a>、<a href="https://zh.wikipedia.org/wiki/C_All_Star" title="wikilink">C All Star</a>、<a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a><br />
 旁白：<a href="../Page/陳廷軒.md" title="wikilink">陳廷軒</a></p></td>
+<td><p>林嘉穎</p></td>
+<td><p>梁偉庭</p></td>
 </tr>
 <tr class="even">
 <td><p>2016（第十屆）</p></td>
@@ -89,6 +112,8 @@
 <td><p>同時在場的廣告商亦會參與<a href="https://zh.wikipedia.org/wiki/香港小姐" title="wikilink">香港小姐的投票</a><br />
 頒獎禮後為《全城Like爆好廣告》，主持為<a href="../Page/張曦雯.md" title="wikilink">張曦雯</a>、<a href="../Page/莫家淦.md" title="wikilink">莫家淦</a><br />
 演出：<a href="https://zh.wikipedia.org/wiki/何雁詩" title="wikilink">何雁詩</a>、<a href="https://zh.wikipedia.org/wiki/農夫" title="wikilink">農夫</a>、<a href="https://zh.wikipedia.org/wiki/狄易達" title="wikilink">狄易達</a>、<a href="../Page/甄澤權.md" title="wikilink">甄澤權</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/衛世輝" title="wikilink">衛世輝</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭瑞麒" title="wikilink">鄭瑞麒</a></p></td>
 </tr>
 </tbody>
 </table>

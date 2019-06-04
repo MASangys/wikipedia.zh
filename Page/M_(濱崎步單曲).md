@@ -6,7 +6,7 @@
 
 在她的專輯《[Duty](../Page/Duty.md "wikilink")》發行不久後，濱崎步就開始創作《M》。在此前，濱崎步歌曲的[作曲都是由專業](https://zh.wikipedia.org/wiki/作曲 "wikilink")[作曲家所製作](https://zh.wikipedia.org/wiki/作曲家 "wikilink")，她只負責[作詞的部分](https://zh.wikipedia.org/wiki/作詞 "wikilink")。但是隨著《M》的發行，濱崎步認為作曲家所創作的旋律無法符合她構想的想法，於是她開始自行嘗試作曲\[1\]。首先她試著以[喪禮鋼琴作為作曲的](https://zh.wikipedia.org/wiki/喪禮鋼琴 "wikilink")[樂器](https://zh.wikipedia.org/wiki/樂器 "wikilink")，但是她對於樂器的演奏並不是十分熟悉。最終，她仍然還是以鴨子叫聲作為創作的工具\[2\]。
 
-這首歌當中，充滿了她呼告「Maria」的聲音。她解釋道這樣的作詞，是由於她透過了一位男友得知了[聖母瑪利亞的故事](https://zh.wikipedia.org/wiki/聖母瑪利亞 "wikilink")\[3\]。根據她的說法，這首歌曲的核心就是在這個故事上，即是「女人不隨著時間而改變」，但事實上是會改變的，胸部會變大下垂，也會一直整型。
+這首歌當中，充滿了她呼告「Maria」的聲音。她解釋道這樣的作詞，是由於她透過了一位男友得知了[聖母瑪利亞的故事](https://zh.wikipedia.org/wiki/聖母瑪利亞 "wikilink")\[3\]。根據她的說法，這首歌曲的核心就是在這個故事上，即是「女人不隨著時間而改變」。
 
 她說，原先作曲家所為《M》創作的旋律，與她對這首歌該有的印象不符，因為太過於「溫暖」了：她認為這首歌應該聽起來更加的「冷清」。她解釋說，要創作出她腦海裡所構想的旋律似乎有點難以讓人理解，是由比較低的[調開始](https://zh.wikipedia.org/wiki/調 "wikilink")，然後上升到較高的調。最後的結果，這首歌在[C大調開始](../Page/C大調.md "wikilink")，然後升上了[升C大調](https://zh.wikipedia.org/wiki/升C大調 "wikilink")。同時使用了[鋼琴](https://zh.wikipedia.org/wiki/鋼琴 "wikilink")、[電吉他](https://zh.wikipedia.org/wiki/電吉他 "wikilink")、[三角鐵等樂器](https://zh.wikipedia.org/wiki/三角鐵 "wikilink")。
 

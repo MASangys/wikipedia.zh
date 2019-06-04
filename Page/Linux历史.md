@@ -74,7 +74,7 @@ exploit](https://zh.wikipedia.org/wiki/vmsplice\(\)_exploit "wikilink")，但是
 
 关于Linux的大部分工作都是由社区完成的：世界各地使用Linux的程序员都把建议的改进发给维护员。很多公司还不但参与内核的开发，还参与了一些随Linux一起发布的辅助软件的编写。
 
-Linux的版本当中，既有像[Debian那样由自发组织发布的](../Page/Debian.md "wikilink")，又有像[openSUSE和](https://zh.wikipedia.org/wiki/openSUSE "wikilink")[Fedora那样直接和一些公司相关的](../Page/Fedora.md "wikilink")。为了交换意见，各个项目的成员常在各种会议交流会上会面。其中最大的交流会是在[德国](../Page/德国.md "wikilink")（目前是[柏林](../Page/柏林.md "wikilink")）举行的[LinuxTag](https://zh.wikipedia.org/wiki/LinuxTag "wikilink")。每年有大约10，000人聚集在一起讨论Linux以及与Linux相关的项目。
+Linux的版本当中，既有像[Debian那样由自发组织发布的](../Page/Debian.md "wikilink")，又有像[openSUSE和](https://zh.wikipedia.org/wiki/openSUSE "wikilink")[Fedora那样直接和一些公司相关的](../Page/Fedora.md "wikilink")。为了交换意见，各个项目的成员常在各种会议交流会上会面。其中最大的交流会是在[德国](../Page/德国.md "wikilink")（目前是[柏林](../Page/柏林.md "wikilink")）举行的[LinuxTag](https://zh.wikipedia.org/wiki/LinuxTag "wikilink")。每年有大约10,000人聚集在一起讨论Linux以及与Linux相关的项目。
 
 ### 开源发展实验室和Linux基金会
 

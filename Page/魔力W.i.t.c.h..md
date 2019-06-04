@@ -609,7 +609,7 @@ of Meridian）的力量再度复兴了这个组合，并对其进行洗脑，与
 
   - [《魔力W.i.t.c.h.》官方博客](http://blog.sina.com.cn/kdswitch)
 
-  - [《精灵少女组》台湾迪士尼官方网站](http://www.disney.com.tw/DisneyChannel/supersites/witch/index.html)
+  - [《精灵少女组》台湾迪士尼官方网站](https://web.archive.org/web/20080918064329/http://www.disney.com.tw/DisneyChannel/supersites/witch/index.html)
 
 [Category:魔力W.i.t.c.h.](https://zh.wikipedia.org/wiki/Category:魔力W.i.t.c.h. "wikilink")
 [Category:魔法少女](https://zh.wikipedia.org/wiki/Category:魔法少女 "wikilink")

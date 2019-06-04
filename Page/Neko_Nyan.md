@@ -87,7 +87,7 @@ brew～](https://zh.wikipedia.org/wiki/Parfait_～Chocolat_second_brew～ "wikil
 
 ## 外部連結
 
-  - [](http://nekonan.info/)（官方blog）
+  - [](https://web.archive.org/web/20080807024052/http://nekonan.info/)（官方blog）
 
 [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")
 [Category:電子遊戲繪圖及原畫家](https://zh.wikipedia.org/wiki/Category:電子遊戲繪圖及原畫家 "wikilink")

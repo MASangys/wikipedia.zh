@@ -7,7 +7,7 @@ G」或「[GTV](https://zh.wikipedia.org/wiki/GTV "wikilink")」（[台標顯示
 
 在[日本報紙的電視節目](https://zh.wikipedia.org/wiki/日本報紙 "wikilink")-{表}-上，通常以「NHK電視台」（）[指稱NHK綜合頻道](https://zh.wikipedia.org/wiki/指稱 "wikilink")；《[產經新聞](../Page/產經新聞.md "wikilink")》（部分地區）、《[京都新聞](https://zh.wikipedia.org/wiki/京都新聞 "wikilink")》、《[赤旗報](../Page/赤旗報.md "wikilink")》、《[聖教新聞](../Page/聖教新聞.md "wikilink")》等報紙以「NHK綜合」（）稱之，《[北海道新聞](https://zh.wikipedia.org/wiki/北海道新聞 "wikilink")》、《[神戶新聞](https://zh.wikipedia.org/wiki/神戶新聞 "wikilink")》等報紙則直接以「NHK」稱之。
 
-目前此頻道將訊號分割為二，分別是數位綜合頻道1（総合テレビ1，011或031）及數位綜合頻道2（総合テレビ2，012或032），當NHK綜合頻道要播放的節目（通常為體育節目，如[國際足總世界盃的部分賽事](https://zh.wikipedia.org/wiki/國際足總世界盃 "wikilink")）既定播放時間到但節目並未結束時，節目會在綜合頻道2播放，而綜合頻道1則會維持播放原定播放的內容\[1\]。
+目前此頻道將訊號分割為二，分別是數位綜合頻道1（，011或031）及數位綜合頻道2（，012或032），當NHK綜合頻道要播放的節目（通常為體育節目，如[國際足總世界盃的部分賽事](https://zh.wikipedia.org/wiki/國際足總世界盃 "wikilink")）既定播放時間到但節目並未結束時，節目會在綜合頻道2播放，而綜合頻道1則會維持播放原定播放的內容\[1\]。
 
 NHK平时并不提供国内电视频道的网络同步直播，但在发生重大新闻事件并进行特别报道时，NHK会在官方网站提供综合频道特别报道的直播，且无地域版权限制。
 

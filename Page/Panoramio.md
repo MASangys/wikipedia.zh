@@ -38,7 +38,7 @@ Panoramio要求用户使用[标签](https://zh.wikipedia.org/wiki/標籤_\(元�
 
 ## 外部連結
 
-  - [Panoramio.com](http://www.panoramio.com)
+  - [Panoramio.com](https://web.archive.org/web/20110224030910/http://www.panoramio.com/)
 
 [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")

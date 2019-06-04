@@ -75,5 +75,5 @@ Co.,Ltd）是一間位於[日本的公司](../Page/日本.md "wikilink")，主�
 [Category:日本製造公司](https://zh.wikipedia.org/wiki/Category:日本製造公司 "wikilink")
 [Category:動畫產業公司](https://zh.wikipedia.org/wiki/Category:動畫產業公司 "wikilink")
 [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
-[Category:SoftBank](https://zh.wikipedia.org/wiki/Category:SoftBank "wikilink")
+[Category:软银集团](https://zh.wikipedia.org/wiki/Category:软银集团 "wikilink")
 [Category:練馬區公司](https://zh.wikipedia.org/wiki/Category:練馬區公司 "wikilink")

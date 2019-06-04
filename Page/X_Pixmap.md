@@ -17,7 +17,8 @@ BitMap（XBM）。特点是文件格式简单，可以被任何[文本编辑器�
     (2005, excl. 96 aliases)
   - [XPM Manual and Format specification
     (pdf)](https://web.archive.org/web/20090316033259/http://www.wotsit.org/list.asp?search=XPM)
-  - [The XPM Story](http://www.w3.org/People/danield/xpm_story.html)
+  - [The XPM
+    Story](https://web.archive.org/web/20181114053701/http://www.w3.org/People/danield/xpm_story.html)
     (Daniel Dardailler)
   - [Mac OS X XPM apple
     event](https://web.archive.org/web/20090309051626/http://doc.trolltech.com/qq/qq12-mac-events.html)

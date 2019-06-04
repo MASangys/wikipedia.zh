@@ -43,9 +43,10 @@ Everyone Concert 01》\[3\]。
 2018年5月18日，宣佈在8月24日及8月25日將分別與[觸執毛及](../Page/觸執毛.md "wikilink")[Kolor](../Page/Kolor.md "wikilink")、[ToNick](../Page/ToNick.md "wikilink")、Yellow於[九龍灣國際展貿中心舉辦起哄音樂節](../Page/九龍灣國際展貿中心.md "wikilink")「SHOUT
 IT OUT」。
 
-2019年1月11日，發佈新歌單曲《釋放自己》，並在當天晚上8時在其Youtube頻道發佈《釋放自己》MV。
+2019年休息了一段日子的Mr.，年初以獨立樂隊身份發布新歌，早前更宣布五月於紅館舉行"Everyone Concert
+10"演唱會。舉行兩場演唱會。\[6\]發佈新歌單曲《釋放自己》，並在當天晚上8時在其Youtube頻道發佈《釋放自己》MV。
 
-2019年2月23日，宣佈在5月17及5月18日在紅館舉行"Everyone Concert 10"演唱會。
+
 
 ## 成員
 
@@ -53,38 +54,38 @@ IT OUT」。
 
 **布志綸**
 （，主音，曾任職[環球唱片國際部](https://zh.wikipedia.org/wiki/環球唱片 "wikilink")（負責與電台接觸），被認為聲音與[陳奕迅相近](../Page/陳奕迅.md "wikilink")。中學就讀[聖保羅書院](../Page/聖保羅書院.md "wikilink")，後到[加拿大](../Page/加拿大.md "wikilink")[麥馬士達大學修讀經濟系畢業](../Page/麥馬士達大學.md "wikilink")。出道前是獨立樂隊White
-Noise\[6\]的成員。2016年中Mr.與環球唱片約滿。2017年布志綸以個人身份簽約[耀榮文化](../Page/耀榮文化.md "wikilink")，同年8月發表第一首個人單曲《人在野》，2018年4月發表第二首個人單曲《經得起變化》。首張個人專輯將在2019推出。
+Noise\[7\]的成員。2016年中Mr.與環球唱片約滿。2017年布志綸以個人身份簽約[耀榮文化](../Page/耀榮文化.md "wikilink")，同年8月發表第一首個人單曲《人在野》，2018年4月發表第二首個人單曲《經得起變化》。首張個人專輯將在2019推出。
 
 ### 黎澤恩
 
 **黎澤恩**（，1979年7月11日－，歲），節奏結他手。在Mr.成立前，曾與[布志綸](../Page/布志綸.md "wikilink")、[譚傑明](https://zh.wikipedia.org/wiki/譚傑明 "wikilink")、[譚健文以及暱稱](https://zh.wikipedia.org/wiki/譚健文 "wikilink")「阿永」的鼓手組成獨立樂隊White
-Noise\[7\]。因為曾祖父是[美國人](../Page/美國人.md "wikilink")，所以黎澤恩是十六分一美國[混血兒](../Page/混血兒.md "wikilink")\[8\]。
+Noise\[8\]。因為曾祖父是[美國人](../Page/美國人.md "wikilink")，所以黎澤恩是十六分一美國[混血兒](../Page/混血兒.md "wikilink")\[9\]。
 
 ### 譚傑明
 
 **譚傑明**（，1981年1月10日－，歲），主音結他手。Mr.的大部分作品均由譚傑明或[譚健文填詞](https://zh.wikipedia.org/wiki/譚健文 "wikilink")，他偶爾也會和[布志綸一起作曲](../Page/布志綸.md "wikilink")。在Mr.成立前，曾與[布志綸](../Page/布志綸.md "wikilink")、[黎澤恩](https://zh.wikipedia.org/wiki/黎澤恩 "wikilink")、[譚健文以及暱稱](https://zh.wikipedia.org/wiki/譚健文 "wikilink")「阿永」的鼓手組成獨立樂隊White
 Noise。
 
-譚傑明10歲時到[加拿大升學](../Page/加拿大.md "wikilink")\[9\]，畢業於。在Mr.其他成員口中，他是五人中最愛美的一個，愛畫眼線。2009年至2010年間，他曾與[卓韻芝拍拖](../Page/卓韻芝.md "wikilink")。他愛作punk友打扮。
+譚傑明10歲時到[加拿大升學](../Page/加拿大.md "wikilink")\[10\]，畢業於。在Mr.其他成員口中，他是五人中最愛美的一個，愛畫眼線。2009年至2010年間，他曾與[卓韻芝拍拖](../Page/卓韻芝.md "wikilink")。他愛作punk友打扮。
 
 ### 譚健文
 
 **譚健文**（，1981年1月6日－，歲）
-貝斯手，是**Mr.**的主要發言人，並讓Mr.結識[譚詠麟及與唱片公司簽約](../Page/譚詠麟.md "wikilink")\[10\]。中學就讀於[香港教師會李興貴中學及佛教善德英文中學](https://zh.wikipedia.org/wiki/香港教師會李興貴中學 "wikilink")，畢業於[理工大學](https://zh.wikipedia.org/wiki/理工大學 "wikilink")[物流管理系](https://zh.wikipedia.org/wiki/物流管理 "wikilink")。曾於唱片業工作，有一位孿生弟弟譚健榮。
+貝斯手，是**Mr.**的主要發言人，並讓Mr.結識[譚詠麟及與唱片公司簽約](../Page/譚詠麟.md "wikilink")\[11\]。中學就讀於[香港教師會李興貴中學及佛教善德英文中學](https://zh.wikipedia.org/wiki/香港教師會李興貴中學 "wikilink")，畢業於[理工大學](https://zh.wikipedia.org/wiki/理工大學 "wikilink")[物流管理系](https://zh.wikipedia.org/wiki/物流管理 "wikilink")。曾於唱片業工作，有一位孿生弟弟譚健榮。
 
 Mr.的大部分作品均由譚健文或[譚傑明填詞](https://zh.wikipedia.org/wiki/譚傑明 "wikilink")，並由譚健文和唱。在Mr.成立前，曾與[布志綸](../Page/布志綸.md "wikilink")、[黎澤恩](https://zh.wikipedia.org/wiki/黎澤恩 "wikilink")、[譚傑明以及暱稱](https://zh.wikipedia.org/wiki/譚傑明 "wikilink")「阿永」的鼓手組成獨立樂隊White
-Noise\[11\]。
+Noise\[12\]。
 
 ### 杜志烜
 
 **杜志烜**（，1987年12月25日－，歲），[鼓手](https://zh.wikipedia.org/wiki/鼓手 "wikilink")，亦是Mr.中年紀最小的成員。
 
-杜志烜有一名弟弟，13歲時父母離婚。中學時就讀於[東莞工商總會劉百樂中學](../Page/東莞工商總會劉百樂中學.md "wikilink")，曾於2003最佳進步獎頒獎禮獲頒「進步獎學金」\[12\]。他本來是Cogent
+杜志烜有一名弟弟，13歲時父母離婚。中學時就讀於[東莞工商總會劉百樂中學](../Page/東莞工商總會劉百樂中學.md "wikilink")，曾於2003最佳進步獎頒獎禮獲頒「進步獎學金」\[13\]。他本來是Cogent
 Spirit樂隊的成員，與White
-Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，但不足三個月後便決定回港，正式加入Mr.\[13\]。在Mr.初出道時，杜志烜仍有兼職送[魚生](https://zh.wikipedia.org/wiki/魚生 "wikilink")，但不久後便辭職，全面投入樂隊工作。
+Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wikipedia.org/wiki/澳洲 "wikilink")，但不足三個月後便決定回港，正式加入Mr.\[14\]。在Mr.初出道時，杜志烜仍有兼職送[魚生](https://zh.wikipedia.org/wiki/魚生 "wikilink")，但不久後便辭職，全面投入樂隊工作。
 
-2011年9月9日，杜志烜宣佈與模特兒[何思諺結婚](../Page/何思諺.md "wikilink")。而且女友已懷孕。\[14\]
-，兩人於10月14日舉行婚禮\[15\] 。現育有一子（杜卓霖）。
+2011年9月9日，杜志烜宣佈與模特兒[何思諺結婚](../Page/何思諺.md "wikilink")。而且女友已懷孕。\[15\]
+，兩人於10月14日舉行婚禮\[16\] 。現育有一子（杜卓霖）。
 
 ## 音樂
 
@@ -150,7 +151,7 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
 | **各台冠軍歌總數** |
 | ----------- |
 | 903         |
-| **10**      |
+| **11**      |
 
 （\*）表示仍在榜上
 
@@ -789,8 +790,8 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
 9.
 
 10.
-11.
 
+11.
 12.
 
 13.
@@ -798,3 +799,5 @@ Noise（即Mr.前身）的成員認識。19歲時到[澳洲升學](https://zh.wi
 14.
 
 15.
+
+16.

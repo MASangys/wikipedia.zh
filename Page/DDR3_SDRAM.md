@@ -175,7 +175,7 @@ detect）芯片，该芯片EEPROM存储于SMbus之上，其中包括内存模组
 
 2010年7月26日，JEDEC發佈DDR3L標準。\[1\]
 
-DDR3的電壓為1.5V，而DDR3L的電壓為1.35V，記憶體模組上會標記為PC3L。DDR3U的電壓為1.25V，標記為PC3U。低電壓RAM的用電量較少，主要用於[手提電腦和](https://zh.wikipedia.org/wiki/手提電腦 "wikilink")[Skylake微架構與更新的CPU](../Page/Skylake微架構.md "wikilink")。
+DDR3的電壓為1.5V，而DDR3L的電壓為1.35V，記憶體模組上會標記為PC3L。DDR3U的電壓為1.25V，標記為PC3U。低電壓RAM的用電量較少，但性能会弱于标压DDR3，主要用於[手提電腦和](https://zh.wikipedia.org/wiki/手提電腦 "wikilink")[Skylake微架構與更新的CPU](../Page/Skylake微架構.md "wikilink")。
 
 DDR3L内存的SPD芯片里包含支持电压的数据，可根据主板内存插槽的支持自适应1.5V或者1.35V的工作电压。理论上2011年发布的[Sandy
 Bridge与](https://zh.wikipedia.org/wiki/Sandy_Bridge "wikilink")2010年发布的[Capella平台的](https://zh.wikipedia.org/wiki/Capella "wikilink")1.5V内存插槽也能识别支持DDR3L内存条。但是，只有在2012年发布的[Ivy

@@ -82,9 +82,6 @@ JAPAN成員活動時為HEATH。
   - [X JAPAN OFFICIAL
     SITE](http://webarchive.loc.gov/all/20090608141106/http%3A//www.xjapan.ne.jp/)
 
-[cy:Y Mynydd
-Bychan](https://zh.wikipedia.org/wiki/cy:Y_Mynydd_Bychan "wikilink")
-
 [Category:日本貝斯手](https://zh.wikipedia.org/wiki/Category:日本貝斯手 "wikilink")
 [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
 [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")

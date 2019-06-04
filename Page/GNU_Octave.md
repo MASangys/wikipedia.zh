@@ -141,7 +141,7 @@ Octave最初便是模彷[Matlab而設計](https://zh.wikipedia.org/wiki/Matlab "
   - [Octave
     FAQ快記有關繪圖的部份](https://web.archive.org/web/20070630220612/http://www.aims.ac.za/wiki/index.php/Octave:Questions)
   - [OctPlot](http://octplot.sourceforge.net/)圖形處理套件，提供高品質的螢幕輸出。
-  - [Help-Octave在Gmane的郵件論壇存檔](http://dir.gmane.org/gmane.comp.gnu.octave.general)
+  - [Help-Octave在Gmane的郵件論壇存檔](https://web.archive.org/web/20070929091337/http://dir.gmane.org/gmane.comp.gnu.octave.general)
   - [Octave的MPI
     toolbox工具箱](https://web.archive.org/web/20080118073725/http://atc.ugr.es/javier-bin/mpitb)利用GNU
     Octave作並行計算

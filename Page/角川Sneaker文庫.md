@@ -155,8 +155,7 @@
 
 ## 外部連結
 
-  - [角川Sneaker文庫官方網站
-    ](https://web.archive.org/web/20140305131310/http://www.sneakerbunko.jp//)
+  - [角川Sneaker文庫官方網站 ](https://sneakerbunko.jp/)
   - [](http://www.kadokawa.co.jp/lnovel/series_16.html)
   - [台灣角川](https://www.kadokawa.com.tw/)
 

@@ -61,9 +61,9 @@
 
 ## 連載作品
 
-|  |                             |
-|  | --------------------------- |
-|  | 截至2019年3月11日（2019年15號）連載中作品 |
+|  |                            |
+|  | -------------------------- |
+|  | 截至2019年6月3日（2019年27號）連載中作品 |
 
 <table>
 <thead>
@@ -6690,21 +6690,21 @@
 </tr>
 <tr class="even">
 <td><p>683</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p>黑木雄心</p></td>
 <td><p>－</p></td>
 <td><p>2018.42</p></td>
-<td><p>連載中</p></td>
+<td><p>2019.26</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>684</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p><a href="../Page/林聖二.md" title="wikilink">林聖二</a></p></td>
 <td><p>－</p></td>
 <td><p>2018.42</p></td>
-<td><p>連載中</p></td>
-<td></td>
+<td><p>2019.26</p></td>
+<td><p>→《<a href="https://zh.wikipedia.org/wiki/最強Jump" title="wikilink">最強Jump</a>》連載</p></td>
 </tr>
 <tr class="even">
 <td><p>685</p></td>
@@ -6735,20 +6735,20 @@
 </tr>
 <tr class="odd">
 <td><p>687</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/ne0;lation" title="wikilink">ne0;lation</a></strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ne0;lation" title="wikilink">ne0;lation</a></p></td>
 <td><p>依田瑞稀（漫畫）</p></td>
 <td><p>平尾友秀（原作）</p></td>
 <td><p>2019.02</p></td>
-<td><p>連載中</p></td>
+<td><p>2019.22/23</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>688</p></td>
-<td><p><strong></strong></p></td>
+<td></td>
 <td><p>帆上夏希</p></td>
 <td><p>－</p></td>
 <td><p>2019.03</p></td>
-<td><p>連載中</p></td>
+<td><p>2019.24</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -6766,6 +6766,42 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/椎橋寛" title="wikilink">椎橋寛</a></p></td>
 <td><p>－</p></td>
 <td><p>2019.15</p></td>
+<td><p>連載中</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>691</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/SAMURAI8～機侍_八丸傳" title="wikilink">SAMURAI8～機侍 八丸傳</a> '''</p></td>
+<td><p>大久保彰（作畫）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岸本齊史" title="wikilink">岸本齊史</a>（原作）</p></td>
+<td><p>2019.24</p></td>
+<td><p>連載中</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>692</p></td>
+<td><p><strong></strong></p></td>
+<td><p>福田健太郎</p></td>
+<td><p>－</p></td>
+<td><p>2019.25</p></td>
+<td><p>連載中</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>693</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/Beast_Children" title="wikilink">Beast Children</a> '''</p></td>
+<td><p>寺坂研人</p></td>
+<td><p>－</p></td>
+<td><p>2019.26</p></td>
+<td><p>連載中</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>694</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/東京忍者小隊" title="wikilink">東京忍者小隊</a> '''</p></td>
+<td><p>松浦健人（漫畫）</p></td>
+<td><p>田中勇輝（原作）</p></td>
+<td><p>2019.27</p></td>
 <td><p>連載中</p></td>
 <td></td>
 </tr>

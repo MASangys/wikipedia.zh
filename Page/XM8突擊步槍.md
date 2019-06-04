@@ -53,7 +53,7 @@ Proving Ground）、每型槍枝十把，執行總計60,000次測試射擊，結
 ## 設計
 
 XM8為一款發射[5.56×45mm
-NATO小口徑步槍彈的](../Page/5.56×45mm_NATO.md "wikilink")[擊發調變式](https://zh.wikipedia.org/wiki/擊發調變式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。它以[短行程活塞導氣式和](../Page/氣動式_\(槍械\).md "wikilink")[轉拴式槍機運作](https://zh.wikipedia.org/wiki/轉拴式槍機 "wikilink")，性能和內部結構跟HK
+NATO小口徑步槍彈的](../Page/5.56×45mm_NATO.md "wikilink")[擊發調變式](https://zh.wikipedia.org/wiki/擊發調變式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")。它以[短行程活塞導氣式和](../Page/氣動式_\(槍械\).md "wikilink")[轉拴式槍栓運作](../Page/轉拴式槍栓.md "wikilink")，性能和內部結構跟HK
 G36接近，[槍托為伸縮式設計](../Page/槍托.md "wikilink")，供彈具也是跟G36一樣的半透明彈匣，並能夠把多個連接在一起以方便換子彈。但也因此不能在不裝上適配器的情況下通用[STANAG彈匣](../Page/STANAG彈匣.md "wikilink")。
 
 ### 材料和重量
@@ -184,7 +184,10 @@ NDP.JPG|馬來西亞[海軍特種作戰部隊裝備的XM](https://zh.wikipedia.o
     zh-hk:使命召喚：黑色行動II}-](../Page/決勝時刻：黑色行動II.md "wikilink")》（Call
     of Duty: Black Ops II）：
     命名為“M8A1”，沙色槍身，有著近未來的造型，在故事模式當中具[全自動射擊功能](https://zh.wikipedia.org/wiki/自動火器 "wikilink")，而在聯機模式則只有[三發點放功能](../Page/三發點放.md "wikilink")。其載彈量為32發（聯機模式時可使用改裝：延長彈匣增至42發），初始攜彈量為192發（故事模式）和96發（聯機模式），最高攜彈量為416發（故事模式）、256發（聯機模式）和192發（殭屍模式）。故事模式之中完成「致命的面紗」（Achilles'
-    Veil）戰役以後解鎖，被[美國海軍特戰開發小組](https://zh.wikipedia.org/wiki/美國海軍特戰開發小組 "wikilink")、[美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")[第75遊騎兵團](https://zh.wikipedia.org/wiki/第75遊騎兵團 "wikilink")、[美國特勤局](https://zh.wikipedia.org/wiki/美國特勤局 "wikilink")、[僱傭兵及](../Page/僱傭兵.md "wikilink")[也門陸軍所使用](https://zh.wikipedia.org/wiki/也門陸軍 "wikilink")；聯機模式時於等級49解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、快速抽出握把、[快速重裝彈匣](../Page/彈匣並聯.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、可調節[槍托](../Page/槍托.md "wikilink")、目標搜索器、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")（在故事模式使用此改裝會轉為4發點放；而在聯機模式則轉為全自動）、[EOTech全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、、[混合式光學瞄準鏡](https://zh.wikipedia.org/wiki/Leupold_HAMR瞄準鏡 "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[榴彈發射器](../Page/M320榴彈發射器.md "wikilink")、毫米波掃描器技能。
+    Veil）戰役以後解鎖，被[美國海軍特戰開發小組](https://zh.wikipedia.org/wiki/美國海軍特戰開發小組 "wikilink")、[美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")[第75遊騎兵團](https://zh.wikipedia.org/wiki/第75遊騎兵團 "wikilink")、[美國特勤局](https://zh.wikipedia.org/wiki/美國特勤局 "wikilink")、[僱傭兵及](../Page/僱傭兵.md "wikilink")[也門陸軍所使用](https://zh.wikipedia.org/wiki/也門陸軍 "wikilink")；聯機模式時於等級49解鎖，並可以使用[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、快速抽出握把、[快速重裝彈匣](../Page/彈匣並聯.md "wikilink")、[ACOG光學瞄準鏡](../Page/先進戰鬥光學瞄準鏡.md "wikilink")、[前握把](../Page/輔助握把.md "wikilink")、可調節[槍托](../Page/槍托.md "wikilink")、目標搜索器、[激光瞄準器](https://zh.wikipedia.org/wiki/激光瞄準器 "wikilink")、[擊發調變](../Page/擊發調變槍械.md "wikilink")（在故事模式使用此改裝會轉為4發點放；而在聯機模式則轉為全自動）、[EOTech全息瞄準鏡](https://zh.wikipedia.org/wiki/全息瞄準鏡 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、、[混合式光學瞄準鏡](https://zh.wikipedia.org/wiki/Leupold_HAMR瞄準鏡 "wikilink")、[延長彈匣](../Page/彈匣.md "wikilink")、[榴彈發射器](../Page/M320榴彈發射器.md "wikilink")、毫米波掃描器。
+  - 2013年—《[-{zh-hans:反恐精英;zh-hant:絕對武力}-Online
+    2](https://zh.wikipedia.org/wiki/絕對武力Online2 "wikilink")》（Counter-Strike
+    Online 2）：型號為XM8卡賓型，命名為“XM8 Carbine”。
   - 2015年—《[殺手：狙擊生死線](https://zh.wikipedia.org/wiki/殺手：狙擊生死線 "wikilink")》（Contract
     Killer:
     Sniper）：近距離戰鬥用突擊步槍，命名為“毒蛇X-72”灰色槍身，及“菁英毒蛇”海藍色迷彩槍身，通關東亞戰區版圖後解鎖。

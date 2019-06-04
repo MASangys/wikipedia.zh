@@ -247,18 +247,18 @@ P9S手槍](../Page/HK_P9S手槍.md "wikilink")。
 
   - 1999年—《[-{zh-hans:反恐精英;
     zh-hant:絕對武力;}-](https://zh.wikipedia.org/wiki/絕對武力 "wikilink")》（Counter-Strike）：型號為USP.45，命名為「K\&M
-    .45戰術手槍」。為反恐小組的基本武器，使用深藍色槍身，並能加裝[滅音器](../Page/抑制器.md "wikilink")。
+    .45戰術手槍」。為反恐小組的基本武器，恐怖份子也能夠在購買列表中購買使用。使用深藍色槍身，並能加裝[滅音器](../Page/抑制器.md "wikilink")。
   - 2001年—《[-{zh-cn:合金装备2：自由之子; zh-tw:潛龍諜影2：自由之子;
     zh-hk:合金裝備2：自由之子;}-](https://zh.wikipedia.org/wiki/潛龍諜影2：自由之子 "wikilink")》（Metal
     Gear Solid 2: Sons of Liberty）：型號為USP9，命名為「USP」。
   - 2003年—《[-{zh-hans:反恐精英：零点行动;
     zh-hant:絕對武力：一觸即發;}-](../Page/絕對武力：一觸即發.md "wikilink")》（Counter-Strike:
     Condition Zero）：型號為USP.45，命名為「K\&M
-    .45戰術手槍」。為反恐小組的基本武器，多人遊戲時使用淺藍色槍身，刪除片段時則使用黑色槍身。此槍能加裝[滅音器](../Page/抑制器.md "wikilink")。
+    .45戰術手槍」。為反恐小組的基本武器，恐怖份子也能夠在購買列表中購買使用。多人遊戲時使用淺藍色槍身，刪除片段時則使用黑色槍身。此槍能加裝[滅音器](../Page/抑制器.md "wikilink")。
   - 2004年—《[-{zh-hans:反恐精英：起源;
     zh-hant:絕對武力：次世代;}-](../Page/絕對武力：次世代.md "wikilink")》（Counter-Strike:
     Source）：型號為USP.45，命名為「K\&M
-    .45戰術手槍」。為反恐小組的基本武器，使用銀色不銹鋼[套筒及黑色](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[底把](../Page/机匣.md "wikilink")，並能加裝[滅音器](../Page/抑制器.md "wikilink")。
+    .45戰術手槍」。為反恐小組的基本武器，恐怖份子也能夠在購買列表中購買使用。使用銀色不銹鋼[套筒及黑色](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")[底把](../Page/机匣.md "wikilink")，並能加裝[滅音器](../Page/抑制器.md "wikilink")。
   - 2004年—《[-{zh-hans:半条命2;zh-hk:戰慄時空2;zh-tw:戰慄時空2;}-](https://zh.wikipedia.org/wiki/半条命2 "wikilink")》（Half-Life
     2）：型號為USP9比賽型，不鏽鋼套筒，命名為“9mm pistol”（9mm手枪）。
   - 2004年—《[-{zh-hans:半条命2：消失的海岸线;zh-hk:戰慄時空2：消失的海岸線;zh-tw:戰慄時空2：消失的海岸線;}-](../Page/戰慄時空2：消失的海岸線.md "wikilink")》（Half-Life
@@ -270,7 +270,7 @@ P9S手槍](../Page/HK_P9S手槍.md "wikilink")。
   - 2007年—《[-{zh-hans:反恐精英;
     zh-hant:絕對武力;}-Online](../Page/絕對武力Online.md "wikilink")》（Counter-Strike
     Online）：隨遊戲登場武器，型號為USP.45，命名為「K\&M
-    .45戰術手槍」。為反恐小組的基本武器，使用淺藍色槍身，並能加裝[滅音器](../Page/抑制器.md "wikilink")。此外並有紅色和戰損版本。
+    .45戰術手槍」。為反恐小組的基本武器，恐怖份子也能夠在購買列表中購買使用。使用淺藍色槍身，並能加裝[滅音器](../Page/抑制器.md "wikilink")。此外並有紅色和戰損版本。
   - 2007年—《[-{zh-hans:潜行者：切尔诺贝利的阴影;
     zh-hant:浩劫殺陣：車諾比之影;}-](../Page/浩劫殺陣：車諾比之影.md "wikilink")》（S.T.A.L.K.E.R:
     Shadow of Chernobyl）：型號為USP戰術型。
@@ -297,6 +297,10 @@ P9S手槍](../Page/HK_P9S手槍.md "wikilink")。
     USP”，在槍上加裝瞄準鏡橋，以副武器之姿出现并可被所有职业使用，使用12發彈匣，K點購買，可以改裝枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、手槍消音器、[手槍制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[手槍刺刀](../Page/刺刀.md "wikilink")）以及瞄准镜（[EoTech
     553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点镜 "wikilink")），擁有雪地迷彩塗裝版本，強化威力與載彈。
       - 中國大陸伺服器尚未實裝通常版；雪地迷彩版本所有伺服器均已實裝，可以通過抽獎、K點購買或者通關生存模式地圖“冷鋒行動”獎勵箱獲得。
+  - 2013年—《[-{zh-hans:反恐精英;zh-hant:絕對武力}-Online
+    2](https://zh.wikipedia.org/wiki/絕對武力Online2 "wikilink")》（Counter-Strike
+    Online 2）：型號為USP
+    Match，命名為“USP”。為反恐小組的基本武器，恐怖份子也能夠在購買列表中購買使用。可加裝[滅音器](../Page/抑制器.md "wikilink")。
   - 2013年—《[-{zh-hans:收获日;
     zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》（Payday
     2）：型號為USP.45戰術型（預設）、專家型（使用專家滑套）及比賽型（使用比賽滑套），預設載彈量為13發。

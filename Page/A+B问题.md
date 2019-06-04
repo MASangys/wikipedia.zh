@@ -75,6 +75,12 @@ begin
 end.
 ```
 
+### [Ruby](../Page/Ruby.md "wikilink")
+
+``` ruby
+gets.strip.split.map(&:to_i).reduce(:+)
+```
+
 ### [Python](../Page/Python.md "wikilink")
 
 适用于 Python 3 ：

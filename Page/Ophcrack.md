@@ -20,8 +20,8 @@ Ophcrack還提供啟動系統的光碟（LiveCD），以Linux為基礎。只需�
   - [Ophcrack 2 的主頁](http://ophcrack.sourceforge.net/)
   - [Ophcrack 2 的另一個主頁](http://ophcrack.org/)
   - [Ophcrack 1
-    的主頁](http://lasecwww.epfl.ch/~oechslin/projects/ophcrack/) -
-    提交雜湊和即時破解密碼
+    的主頁](https://web.archive.org/web/20080205002428/http://lasecwww.epfl.ch/~oechslin/projects/ophcrack/)
+    - 提交雜湊和即時破解密碼
   - [Ophcrack 自生系統示範](http://www.youtube.com/watch?v=OSoR2wbNLVI)
 
 ## 參見

@@ -73,7 +73,9 @@ Perfume在演唱會和電視節目上的談話環節部分多數由西脇代表�
 ## 名字由來
 
 [Perfume_logo_vector.svg](https://zh.wikipedia.org/wiki/File:Perfume_logo_vector.svg "fig:Perfume_logo_vector.svg")
-[Perfume在](https://zh.wikipedia.org/wiki/:wikt:perfume "wikilink")[英文裡是](https://zh.wikipedia.org/wiki/英文 "wikilink")[香水的意思](../Page/香水.md "wikilink")，取此名稱的原因是因為團體的三名初代成員——西脇綾**香**、樫野有**香**和河島佑**香**的名字裡都有「香」字。此外，Perfume在出道初期也曾經以「」或「」等[平假名標記團名](../Page/平假名.md "wikilink")，因為當時日本演藝界流傳一個[都市傳說](../Page/都市傳說.md "wikilink")，指「暢銷團體的團名筆劃都是13劃」，而成員們仰慕的團體[SPEED團名也是](../Page/SPEED_\(日本音樂團體\).md "wikilink")13劃，西脇也曾表示「想仿效SPEED所以才選了13劃」。
+[Perfume在](https://zh.wikipedia.org/wiki/:wikt:perfume "wikilink")[英文裡是](https://zh.wikipedia.org/wiki/英文 "wikilink")[香水的意思](../Page/香水.md "wikilink")，取此名稱的原因是因為團體的三名初代成員——西脇綾**香**、樫野有**香**和河島佑**香**的名字都有「香」字。
+
+此外，Perfume在出道初期也曾經以「」或「」等[平假名標記團名](../Page/平假名.md "wikilink")，因為當時日本演藝界流傳一個[都市傳說](../Page/都市傳說.md "wikilink")，指「暢銷團體的團名筆劃都是13劃」，而成員們仰慕的團體[SPEED團名也是](../Page/SPEED_\(日本音樂團體\).md "wikilink")13劃，西脇也曾表示「想仿效SPEED所以才選了13劃」。
 
 在河島佑香離開後，2001年加入的大本彩乃名字中並沒有「香」這個字，所以現在通常以「香氣可以讓人的心情舒緩、帶來愉悅的感覺，我們也想成為那樣的存在，因此用英文單字香水（Perfume）做為團名」來解釋團名\[11\]。
 
@@ -558,7 +560,7 @@ VOL.04」計畫，運用5G的傳輸跟涉谷現場連線並演出，場內所發
 2019年3月6-7日
 舉行因2018年9月30日[潭美颱風襲擊日本所停止在大阪的演唱會之追加公演](../Page/颱風潭美_\(2018年\).md "wikilink")。\[214\]
 
-2月23日-4月19日 預計舉行[future
+2月23日-4月19日 舉行[future
 pop巡演亞洲](../Page/Future_Pop.md "wikilink")(上海、台灣\[215\]\[216\])、北美(紐約、多倫多、芝加哥、達拉斯、西雅圖、聖何塞、洛杉磯)公演。\[217\]
 
 3月7日宣布『[FAKE
@@ -573,24 +575,30 @@ POP｣](https://zh.wikipedia.org/wiki/Perfume_7th_Tour_2018_｢FUTURE_POP｣ "wi
 
 6月1日預計出演**「**Amuse Fes in MAKUHARI 2019**」。**\[225\]
 
+8月4日預計出演**「ROCK IN JAPAN FESTIVAL 2019」。**\[226\]
+
+8月18日預計出演**「SUMMER SONIC 2019」。**\[227\]
+
+8月31日預計出演**「SWEET LOVE SHOWER 2019」。**\[228\]
+
 ## 特色
 
 ### 音樂風格
 
-Perfume的樂曲一般被定位於[浩室音樂](https://zh.wikipedia.org/wiki/浩室音樂 "wikilink")（House）與[流行電音](https://zh.wikipedia.org/wiki/流行電音 "wikilink")（Technopop）之間\[226\]，但多數偏向流行電音一方\[227\]。Perfume在脫離澀谷系形象後的音樂帶有80年代流行電音的特色，同時又採用了[聲碼器來營造出獨一無二的風格](../Page/聲碼器.md "wikilink")\[228\]。在Perfume上京當時，事務所希望可以把她們打造成「電子歌謠風格的偶像」，因此自2003年Perfume在東京出道開始，所有歌曲都是由電子音樂組合[capsule的成員](https://zh.wikipedia.org/wiki/capsule "wikilink")[中田康貴製作](../Page/中田康貴.md "wikilink")\[229\]\[230\]\[231\]。中田康貴最初為Perfume提供歌曲的時候，他的歌曲曾被事務所[Amuse指](../Page/Amuse.md "wikilink")「以偶像歌曲來說太酷」而被拒絕，但他為改變「偶像不能發表過份帥氣的歌曲」的偶像歌謠界不明文規定，而繼續嘗試為Perfume結合新奇的音效和挑戰不同類型的音樂風格\[232\]。
+Perfume的樂曲一般被定位於[浩室音樂](https://zh.wikipedia.org/wiki/浩室音樂 "wikilink")（House）與[流行電音](https://zh.wikipedia.org/wiki/流行電音 "wikilink")（Technopop）之間\[229\]，但多數偏向流行電音一方\[230\]。Perfume在脫離澀谷系形象後的音樂帶有80年代流行電音的特色，同時又採用了[聲碼器來營造出獨一無二的風格](../Page/聲碼器.md "wikilink")\[231\]。在Perfume上京當時，事務所希望可以把她們打造成「電子歌謠風格的偶像」，因此自2003年Perfume在東京出道開始，所有歌曲都是由電子音樂組合[capsule的成員](https://zh.wikipedia.org/wiki/capsule "wikilink")[中田康貴製作](../Page/中田康貴.md "wikilink")\[232\]\[233\]\[234\]。中田康貴最初為Perfume提供歌曲的時候，他的歌曲曾被事務所[Amuse指](../Page/Amuse.md "wikilink")「以偶像歌曲來說太酷」而被拒絕，但他為改變「偶像不能發表過份帥氣的歌曲」的偶像歌謠界不明文規定，而繼續嘗試為Perfume結合新奇的音效和挑戰不同類型的音樂風格\[235\]。
 
-Perfume的歌曲的最大特徵是在歌曲中成員三人都經加工過的聲音\[233\]。製作人中田認為「把偶像的聲音加工，到目前為止仍然是一個禁忌。將這樣的禁忌打破，對我來說是音樂上的一個挑戰。」\[234\]中田把人聲當作音效的一種，他在處理人聲時除了需要透過混音來補足三人的歌唱力外，也會儘量讓3人各自的聲線特質能夠發揮出來，要求成員在錄音的時候以自己的歌唱方法把個性展現出來\[235\]。此外，中田在創作歌詞時除了顧及歌詞的故事性外，也會考慮到字詞本身的聲調和旋律是否協調去製作歌曲\[236\]。
+Perfume的歌曲的最大特徵是在歌曲中成員三人都經加工過的聲音\[236\]。製作人中田認為「把偶像的聲音加工，到目前為止仍然是一個禁忌。將這樣的禁忌打破，對我來說是音樂上的一個挑戰。」\[237\]中田把人聲當作音效的一種，他在處理人聲時除了需要透過混音來補足三人的歌唱力外，也會儘量讓3人各自的聲線特質能夠發揮出來，要求成員在錄音的時候以自己的歌唱方法把個性展現出來\[238\]。此外，中田在創作歌詞時除了顧及歌詞的故事性外，也會考慮到字詞本身的聲調和旋律是否協調去製作歌曲\[239\]。
 
-中田在替三人錄音時，會先把印有歌詞的紙傳給三人，之後三人就會輪流走進一間[電話亭般大小的錄音室進行錄音](https://zh.wikipedia.org/wiki/電話亭 "wikilink")\[237\]\[238\]。錄音時中田不會向三人說明歌詞的意思，只指示三人「像平常說話那樣唱歌」「要不帶任何感情地唱」\[239\]。在組合初期，中田剛開始為三人提供歌曲時，成員均不了解「流行電音」，更不知道這種音樂類型的存在，即使是演藝學校的歌唱課，老師也只會教導她們如何把自己的感情注入歌曲裡，因此3人最初完全無法理解中田的指示，更曾因此而哭著錄音。出於這個原因，在主流出道之後一段時間，三人依然用以往的方法唱歌，結果她們的唱腔與製作出來的歌曲出現了不和諧，《[Sweet
-Donuts](../Page/Sweet_Donuts.md "wikilink")》就曾被認為是當中一首有「違和感」的歌曲\[240\]\[241\]。由於三人本來不能理解中田的指示，因此即使在合作一段時間後也未能對中田的歌曲產生任何好感，直到一次成員參加夜店活動看見有人在播Perfume的歌曲時興奮熱舞時，才開始對自己的歌曲感到自信，漸漸能夠把握到中田的要求\[242\]。由於中田對Perfume的音樂存在極大影響力，因此有評論指「如果當初三人沒有和中田建立信賴的關係的話，Perfume是不可能有現在的成就」，也有的認為「當中田不再製作歌曲的時候，便是Perfume完結的時候」的說法。\[243\]
+中田在替三人錄音時，會先把印有歌詞的紙傳給三人，之後三人就會輪流走進一間[電話亭般大小的錄音室進行錄音](https://zh.wikipedia.org/wiki/電話亭 "wikilink")\[240\]\[241\]。錄音時中田不會向三人說明歌詞的意思，只指示三人「像平常說話那樣唱歌」「要不帶任何感情地唱」\[242\]。在組合初期，中田剛開始為三人提供歌曲時，成員均不了解「流行電音」，更不知道這種音樂類型的存在，即使是演藝學校的歌唱課，老師也只會教導她們如何把自己的感情注入歌曲裡，因此3人最初完全無法理解中田的指示，更曾因此而哭著錄音。出於這個原因，在主流出道之後一段時間，三人依然用以往的方法唱歌，結果她們的唱腔與製作出來的歌曲出現了不和諧，《[Sweet
+Donuts](../Page/Sweet_Donuts.md "wikilink")》就曾被認為是當中一首有「違和感」的歌曲\[243\]\[244\]。由於三人本來不能理解中田的指示，因此即使在合作一段時間後也未能對中田的歌曲產生任何好感，直到一次成員參加夜店活動看見有人在播Perfume的歌曲時興奮熱舞時，才開始對自己的歌曲感到自信，漸漸能夠把握到中田的要求\[245\]。由於中田對Perfume的音樂存在極大影響力，因此有評論指「如果當初三人沒有和中田建立信賴的關係的話，Perfume是不可能有現在的成就」，也有的認為「當中田不再製作歌曲的時候，便是Perfume完結的時候」的說法。\[246\]
 
 ### 舞蹈
 
-Perfume的舞蹈表演全部都是由[Amuse旗下舞蹈家](../Page/Amuse.md "wikilink")[MIKIKO所設計的](../Page/MIKIKO.md "wikilink")\[244\]。
+Perfume的舞蹈表演全部都是由[Amuse旗下舞蹈家](../Page/Amuse.md "wikilink")[MIKIKO所設計的](../Page/MIKIKO.md "wikilink")\[247\]。
 
-從Perfume在廣島演藝學校時代出道開始，歌曲的舞蹈設計一直都是由指導她們跳舞，[Amuse旗下的舞蹈家](../Page/Amuse.md "wikilink")[MIKIKO負責設計的](../Page/MIKIKO.md "wikilink")\[245\]，演唱會上的「Perfume的規則」（）環節也是來自MIKIKO的提議\[246\]。據她所述，Perfume的舞蹈乍看是十分簡單，但實際上要做得到卻是頗為困難的\[247\]。MIKIKO目前是廣島演藝學校的常勤導師\[248\]，成員偶爾也會稱呼她作「水野老師」\[249\]。
+從Perfume在廣島演藝學校時代出道開始，歌曲的舞蹈設計一直都是由指導她們跳舞，[Amuse旗下的舞蹈家](../Page/Amuse.md "wikilink")[MIKIKO負責設計的](../Page/MIKIKO.md "wikilink")\[248\]，演唱會上的「Perfume的規則」（）環節也是來自MIKIKO的提議\[249\]。據她所述，Perfume的舞蹈乍看是十分簡單，但實際上要做得到卻是頗為困難的\[250\]。MIKIKO目前是廣島演藝學校的常勤導師\[251\]，成員偶爾也會稱呼她作「水野老師」\[252\]。
 
-MIKIKO表示Perfume的歌曲「給我一種近乎未來的感覺，比起所謂的『有機』更應稱作『無機質』（指給人冰冷的、沒有感情的感覺）的東西。」「我希望能盡量把非人類的質感加入舞蹈裡，透過不同的姿勢和視線，營造一種像假模特兒和玩偶的感覺。」對於三名成員的個性，她認為三人給她的印象是「三個雖然聰明但又不失氣質的女孩子」，因此為突顯這樣的感覺，她經常將一些較難的舞蹈動作跟可愛的動作結合，「希望觀眾感覺到她們的個性。」她覺得Perfume的舞蹈動作「一般被認為有著不可思議的獨特感覺，如果只看一刻的動作而不是以一首歌曲的整體去看的話，是很難才會領略到對當中的獨特性。」\[250\]隨著Perfume在出道後的知名度漸漸上升，MIKIKO也開始將舞蹈的編排變得複雜\[251\]。
+MIKIKO表示Perfume的歌曲「給我一種近乎未來的感覺，比起所謂的『有機』更應稱作『無機質』（指給人冰冷的、沒有感情的感覺）的東西。」「我希望能盡量把非人類的質感加入舞蹈裡，透過不同的姿勢和視線，營造一種像假模特兒和玩偶的感覺。」對於三名成員的個性，她認為三人給她的印象是「三個雖然聰明但又不失氣質的女孩子」，因此為突顯這樣的感覺，她經常將一些較難的舞蹈動作跟可愛的動作結合，「希望觀眾感覺到她們的個性。」她覺得Perfume的舞蹈動作「一般被認為有著不可思議的獨特感覺，如果只看一刻的動作而不是以一首歌曲的整體去看的話，是很難才會領略到對當中的獨特性。」\[253\]隨著Perfume在出道後的知名度漸漸上升，MIKIKO也開始將舞蹈的編排變得複雜\[254\]。
 
 ### 美術設計
 
@@ -598,9 +606,9 @@ MIKIKO表示Perfume的歌曲「給我一種近乎未來的感覺，比起所謂�
 Effect](../Page/Monochrome_Effect.md "wikilink")》的封面設計開始，以及單曲《[Vitamin
 Drop](../Page/Vitamin_Drop.md "wikilink")》以後幾乎所有作品的音樂錄影帶（PV）等視覺方式的美術設計，都是由設計師擔任。
 
-組合的和RomanPorsche.的表示，「在這個年代，一般偶像的CD的曲調、封面和PV什麼的都是粗製濫造時，關和亮卻從非主流時期開始，就能具有整合性地，把令人一看便能留下深刻印象的美術設計製作出來。」\[252\]
+組合的和RomanPorsche.的表示，「在這個年代，一般偶像的CD的曲調、封面和PV什麼的都是粗製濫造時，關和亮卻從非主流時期開始，就能具有整合性地，把令人一看便能留下深刻印象的美術設計製作出來。」\[255\]
 
-一直為Perfume擔當美術設計的關和亮習慣以有別於平常的手法去設計其作品，嘗試在創造新奇的同時保存藝人形象的整合性和統一性。關和亮表示「我不是在以三人來作試驗，但從設計過程中的確會產生很多有趣的東西」\[253\]。他表示「我感到三人身上還有很多的可能性」，因此「也希望把更多更多的想法和主意放在她們身上」\[254\]。
+一直為Perfume擔當美術設計的關和亮習慣以有別於平常的手法去設計其作品，嘗試在創造新奇的同時保存藝人形象的整合性和統一性。關和亮表示「我不是在以三人來作試驗，但從設計過程中的確會產生很多有趣的東西」\[256\]。他表示「我感到三人身上還有很多的可能性」，因此「也希望把更多更多的想法和主意放在她們身上」\[257\]。
 
 至於在歌曲《Electro World》、《Twinkle Snow Powdery Snow》、《Polyrhythm》、《love the
 world》和《Dream
@@ -610,14 +618,14 @@ Secret》和《[自然愛](https://zh.wikipedia.org/wiki/不自然女孩/自然�
 ### 科技團隊
 
 由[真鍋大度帶領的Rhizomatiks團隊負責執行企劃](../Page/真鍋大度.md "wikilink")，此團隊負責過[里約奧運閉幕式](../Page/2016年夏季奧林匹克運動會.md "wikilink")
-\[255\]，在2010年首次東京巨蛋演出開始正式合作，從2012年的發光舞衣開始，每年底的[紅白歌合戰幾乎等於當年度的成果發表](../Page/NHK红白歌合战.md "wikilink")，2013年的衣服投影，2014年的無人機，2015年的AR擴增實境，2016年的動態VR，2017年的澀谷頂樓當作背景並合成的現場轉播，2018年的深度學習。\[256\]
+\[258\]，在2010年首次東京巨蛋演出開始正式合作，從2012年的發光舞衣開始，每年底的[紅白歌合戰幾乎等於當年度的成果發表](../Page/NHK红白歌合战.md "wikilink")，2013年的衣服投影，2014年的無人機，2015年的AR擴增實境，2016年的動態VR，2017年的澀谷頂樓當作背景並合成的現場轉播，2018年的深度學習。\[259\]
 
 ### 對話
 
 隨筆作家認為，Perfume與其他偶像組合不同的其中一個特徵就是「在唱完很酷的歌曲後，便馬上開始興高采烈地用談話。」雖然Perfume已經離開廣島，長時間生活在東京，但至今成員之間依然會以廣島方言作共通的語言，在演唱會上的談話環節和各個電視節目上，也會不時說出廣島方言，當中又以西脇最為明顯。3人的自己介紹也有以廣島方言來說的版本，最後的「」會變成「」，但自我介紹時所做的動作是一樣的。談話的內容，多是含有自嘲的意味，或是向觀眾說教，當中帶點「毒舌」（即尖酸刻薄的說話）的成份，甚至會拿所屬事務所Amuse的社長和製作人中田康貴來開玩笑。不過，她們的談話一般被評論為「熱情奔放」和「[天然](../Page/天然呆.md "wikilink")」。
 
 演唱會上的MC時段比其他組合長是Perfume的特徵之一，例如在2008年的「GAME
-TOUR」演唱會裡，對話部份就已花了1小時\[257\]。在2009年10月10日的「等邊直角三角形TOUR」演唱會，通常3個小時便會結束的演唱會，因對話部份太長而延至3個半小時才結束\[258\]
+TOUR」演唱會裡，對話部份就已花了1小時\[260\]。在2009年10月10日的「等邊直角三角形TOUR」演唱會，通常3個小時便會結束的演唱會，因對話部份太長而延至3個半小時才結束\[261\]
 。
 
 ### 自我介紹
@@ -629,12 +637,12 @@ Perfume不論是上節目還是演出，都有固定的自我介紹方式。她�
 
 ### 歌迷層範圍廣泛
 
-Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.md "wikilink")[電子音樂的樂迷層](https://zh.wikipedia.org/wiki/流行電音 "wikilink")、[搖滾樂迷](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")、偶像樂迷\[259\]
-、[YMO的樂迷](https://zh.wikipedia.org/wiki/YMO "wikilink")、[少年隊世代的中年人等](../Page/少年隊.md "wikilink")，從現今的音樂人中得到的評價也相當高。此外，其實平常愛聽[西洋音樂](https://zh.wikipedia.org/wiki/西樂 "wikilink")，沒有聽[J-Pop的上班族也是主要樂群](https://zh.wikipedia.org/wiki/J-Pop "wikilink")，當中女性樂迷也不斷增加\[260\]\[261\]。人們又以「喜歡[少年隊的人也喜歡Perfume](../Page/少年隊.md "wikilink")」這句話來描述Perfume的樂迷層之廣\[262\]。
+Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.md "wikilink")[電子音樂的樂迷層](https://zh.wikipedia.org/wiki/流行電音 "wikilink")、[搖滾樂迷](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")、偶像樂迷\[262\]
+、[YMO的樂迷](https://zh.wikipedia.org/wiki/YMO "wikilink")、[少年隊世代的中年人等](../Page/少年隊.md "wikilink")，從現今的音樂人中得到的評價也相當高。此外，其實平常愛聽[西洋音樂](https://zh.wikipedia.org/wiki/西樂 "wikilink")，沒有聽[J-Pop的上班族也是主要樂群](https://zh.wikipedia.org/wiki/J-Pop "wikilink")，當中女性樂迷也不斷增加\[263\]\[264\]。人們又以「喜歡[少年隊的人也喜歡Perfume](../Page/少年隊.md "wikilink")」這句話來描述Perfume的樂迷層之廣\[265\]。
 
 ### 禮儀
 
-三人在演唱會和現場活動中端正的禮儀，在說話時不論是提到唱片店還是演出場地，後面也會加上敬語「」，甚至是在稱呼[NHK紅白歌合戰時也會稱其為](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")「」，其謙虛的形象令不少人留下深刻印象，Perfume的這個特點就算是Perfume在歌曲《[Polyrhythm](../Page/Polyrhythm_\(Perfume單曲\).md "wikilink")》推出人氣上升後也未有改變\[263\]。在一次擔任電台節目嘉賓時，主持人[木村KAELA受交通事故影響而遲到](../Page/木村KAELA.md "wikilink")，三人便馬上暫代她的位置，顯示出她們對突發事件的應變能力\[264\]。
+三人在演唱會和現場活動中端正的禮儀，在說話時不論是提到唱片店還是演出場地，後面也會加上敬語「」，甚至是在稱呼[NHK紅白歌合戰時也會稱其為](https://zh.wikipedia.org/wiki/NHK紅白歌合戰 "wikilink")「」，其謙虛的形象令不少人留下深刻印象，Perfume的這個特點就算是Perfume在歌曲《[Polyrhythm](../Page/Polyrhythm_\(Perfume單曲\).md "wikilink")》推出人氣上升後也未有改變\[266\]。在一次擔任電台節目嘉賓時，主持人[木村KAELA受交通事故影響而遲到](../Page/木村KAELA.md "wikilink")，三人便馬上暫代她的位置，顯示出她們對突發事件的應變能力\[267\]。
 
 ## 得獎及成績
 
@@ -667,7 +675,7 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 <tr class="odd">
 <td style="text-align: center;"><p><strong>2010</strong></p></td>
 <td style="text-align: left;"><ul>
-<li>「<a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">2010 Mnet亞洲音樂大獎</a>」亞洲最佳流行歌手獎[265]</li>
+<li>「<a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">2010 Mnet亞洲音樂大獎</a>」亞洲最佳流行歌手獎[268]</li>
 </ul></td>
 </tr>
 <tr class="even">
@@ -710,7 +718,7 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2019</p></td>
-<td style="text-align: left;"><p>「（第22回）文化廳媒體藝術祭 娛樂部門　優秀獎」　Perfume 「Reframe」[266]</p></td>
+<td style="text-align: left;"><p>「（第22回）文化廳媒體藝術祭 娛樂部門　優秀獎」　Perfume 「Reframe」[269]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1232,6 +1240,11 @@ Perfume的樂迷層面廣泛，包括喜歡[Club系音樂及](../Page/迪斯科.
 <td></td>
 </tr>
 <tr class="even">
+<td><p>ナナナナナイロ</p></td>
+<td><p>肌美精廣告曲</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1951,7 +1964,7 @@ Perfume、SPECIAL OTHERS</p></td>
 
 ### 動畫
 
-  - FASTENING DAYS 3 (第一集蛋糕店店員:Yuka、第二集郵差:Nocchi、第三集消防員:Achan) \[267\]
+  - FASTENING DAYS 3 (第一集蛋糕店店員:Yuka、第二集郵差:Nocchi、第三集消防員:Achan) \[270\]
 
 ### 廣告
 
@@ -1997,7 +2010,7 @@ Perfume、SPECIAL OTHERS</p></td>
 
   - [VOGUE JAPAN](https://zh.wikipedia.org/wiki/VOGUE_JAPAN "wikilink")
 
-      - 2012年11月號：「Perfume的大人模式在世界開始！」（）\[268\]
+      - 2012年11月號：「Perfume的大人模式在世界開始！」（）\[271\]
 
   - 待補
 
@@ -2005,7 +2018,7 @@ Perfume、SPECIAL OTHERS</p></td>
 
   - 《Promise》：出演背景的[Hip-hop舞者](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")
 
-  - [色情塗鴉](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")《》\[269\]
+  - [色情塗鴉](https://zh.wikipedia.org/wiki/色情塗鴉 "wikilink")《》\[272\]
 
   - [OK Go](../Page/OK_Go.md "wikilink")《[I Won't Let You
     Down](https://zh.wikipedia.org/wiki/I_Won't_Let_You_Down "wikilink")》：開頭部分客串出演
@@ -2522,26 +2535,30 @@ Perfume、SPECIAL OTHERS</p></td>
 226.
 
 227.
+
 228.
+     ARTISTS|url=[https://www.sweetloveshower.com/2019/artist/|work=SPACE](https://www.sweetloveshower.com/2019/artist/%7Cwork=SPACE)
+     SHOWER TV 30TH ANNIVERSARY SWEET LOVE SHOWER
+     2019|accessdate=2019-05-09|language=ja}}
 
 229.
 
-230. 「」2008年11月号
-
-231. 「remix」2007年4月号
+230.
+231.
 
 232.
 
-233.
+233. 「」2008年11月号
 
-234.
-235. [富士電視台](../Page/富士電視台.md "wikilink")
-     「[鬧鐘電視](../Page/鬧鐘電視.md "wikilink")」（2008年6月30日播出）
+234. 「remix」2007年4月号
+
+235.
 
 236.
 
 237.
-238.
+238. [富士電視台](../Page/富士電視台.md "wikilink")
+     「[鬧鐘電視](../Page/鬧鐘電視.md "wikilink")」（2008年6月30日播出）
 
 239.
 
@@ -2549,12 +2566,11 @@ Perfume、SPECIAL OTHERS</p></td>
 241.
 
 242.
-243.
 
+243.
 244.
 
 245.
-
 246.
 
 247.
@@ -2562,17 +2578,17 @@ Perfume、SPECIAL OTHERS</p></td>
 248.
 
 249.
-250.
-251.
-252.
 
+250.
+
+251.
+
+252.
 253.
 254.
-
 255.
 
 256.
-
 257.
 
 258.
@@ -2582,18 +2598,24 @@ Perfume、SPECIAL OTHERS</p></td>
 260.
 
 261.
+
 262.
 
-263. [北海道電視台](../Page/北海道電視台.md "wikilink")「」（2008年3月3日播出）
+263.
 
-264. [J-WAVE](../Page/J-WAVE.md "wikilink")「OH\! MY RADIO」（2008年4月22日播出）
-
+264.
 265.
 
-266.
+266. [北海道電視台](../Page/北海道電視台.md "wikilink")「」（2008年3月3日播出）
 
-267.
+267. [J-WAVE](../Page/J-WAVE.md "wikilink")「OH\! MY RADIO」（2008年4月22日播出）
 
 268.
 
 269.
+
+270.
+
+271.
+
+272.

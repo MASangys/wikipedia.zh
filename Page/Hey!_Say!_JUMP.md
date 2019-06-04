@@ -650,6 +650,14 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 <td><p>電視劇『<a href="https://zh.wikipedia.org/wiki/トーキョーエイリアンブラザーズ" title="wikilink">トーキョーエイリアンブラザーズ</a>』主題曲</p></td>
 </tr>
 <tr class="even">
+<td><p>24</p></td>
+<td><p>2019年5月22日</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/Lucky-Unlucky/Oh!_my_darling" title="wikilink">Lucky-Unlucky/Oh! my darling</a></strong></p></td>
+<td></td>
+<td></td>
+<td><p>電視劇『<a href="https://zh.wikipedia.org/wiki/頭に来てもアホとは戦うな" title="wikilink">頭に来てもアホとは戦うな</a>』主題曲</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -901,38 +909,48 @@ Hey\! Say\! 7的「**7**」是2007年結成的意思，Hey\! Say\! BEST的「**B
 
   - 加油日本\!世界盃排球賽 JUMP～百識課外教學～（2007年10月22日 - 25日・29日 -
     11月1日、[富士電視台](../Page/富士電視台.md "wikilink")）
+
   - [百識王](http://ja.wikipedia.org/wiki/%E7%99%BE%E8%AD%98%E7%8E%8B)（2007年10月－、[富士電視台](../Page/富士電視台.md "wikilink")）-
     [岡本圭人](../Page/岡本圭人.md "wikilink")
+
   - \[<http://ja.wikipedia.org/wiki/Hi!_Hey!_Say>\! Hi\! Hey\!
     Say\!\]（2007年11月3日 -
     2009年6月26日、[東京電視台](../Page/東京電視台.md "wikilink")）-
     [薮宏太](../Page/薮宏太.md "wikilink")，[八乙女光](../Page/八乙女光.md "wikilink")
+
   - 爆笑100分電視！平成家族（[爆笑100分テレビ\!平成ファミリーズ](http://ja.wikipedia.org/wiki/%E7%88%86%E7%AC%91100%E5%88%86%E3%83%86%E3%83%AC%E3%83%93!%E5%B9%B3%E6%88%90%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%82%BA)）（2007年10月
     - 2008年3月、[日本電視台](../Page/日本電視台.md "wikilink")）-
     [中島裕翔](../Page/中島裕翔.md "wikilink")，[山田涼介](../Page/山田涼介.md "wikilink")，[森本龍太郎](../Page/森本龍太郎.md "wikilink")
+
   - 世紀時空戰
     昭和X平成（\[<http://ja.wikipedia.org/wiki/%E6%99%82%E7%A9%BA%E9%96%93%E2%98%86%E4%B8%96%E4%BB%A3%E3%83%90%E3%83%88%E3%83%AB_%E6%98%AD%E5%92%8C%C3%97%E5%B9%B3%E6%88%90_SHOW%E3%81%AFHey!_Say>\!
     時空間☆世代バトル 昭和×平成 SHOWはHey\! Say\!\]）（2008年4月6日 -
     2009年3月29日、[日本電視台](../Page/日本電視台.md "wikilink")）-
     [中島裕翔](../Page/中島裕翔.md "wikilink")，[山田涼介](../Page/山田涼介.md "wikilink")，[森本龍太郎](../Page/森本龍太郎.md "wikilink")
+
   - 學校革命\!（\[<http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%AB%E9%9D%A9%E5%91%BD>\!
     スクール革命\!\]）（2009年4月5日－、[日本電視台](../Page/日本電視台.md "wikilink")）-
     [八乙女光](../Page/八乙女光.md "wikilink")，[山田涼介](../Page/山田涼介.md "wikilink")，[知念侑李](../Page/知念侑李.md "wikilink")
+
   - [週末YY
     JUMPing](http://ja.wikipedia.org/wiki/%E9%80%B1%E6%9C%ABYY_JUMPing)（2009年10月10日
     - 2011年3月26日、[東京電視台](../Page/東京電視台.md "wikilink")）-
     [薮宏太](../Page/薮宏太.md "wikilink")，[八乙女光](../Page/八乙女光.md "wikilink")
+
   - 天才伽利略（[天才をつくる\!ガリレオ脳研](http://ja.wikipedia.org/wiki/%E5%A4%A9%E6%89%8D%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B!%E3%82%AC%E3%83%AA%E3%83%AC%E3%82%AA%E8%84%B3%E7%A0%94)）（2009年11月－2011年8月13日、[朝日電視台](../Page/朝日電視台.md "wikilink")）-
     [有岡大貴](../Page/有岡大貴.md "wikilink")
+
   - THE‧少年俱樂部（[ザ少年俱樂部](http://ja.wikipedia.org/wiki/%E3%82%B6%E5%B0%91%E5%B9%B4%E5%80%B6%E6%A5%BD%E9%83%A8)）（2011年4月8日－2014年3月26日、[NHK](https://zh.wikipedia.org/wiki/NHK "wikilink")）-
     由三名Hey\! Say\! JUMP成員輪流擔任主持
+
   - Yan Yan
     JUMP（[ヤンヤンJUMP](http://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%B3%E3%83%A4%E3%83%B3JUMP)）（2011年4月16日－2013年6月30日、[東京電視台](../Page/東京電視台.md "wikilink")）
-  - ヒルナンデス\!
-    （[ヒルナンデス\!](https://ja.wikipedia.org/wiki/%E3%83%92%E3%83%AB%E3%83%8A%E3%83%B3%E3%83%87%E3%82%B9)）（2014年4月1日
-    -、日本電視台） - 星期二固定來賓 -
+
+  - （）（2014年4月1日 -、日本電視台） - 星期二固定來賓 -
     [有岡大貴](../Page/有岡大貴.md "wikilink")，[八乙女光](../Page/八乙女光.md "wikilink")
+
   - 「[リトルトーキョーライブ](http://www.tv-tokyo.co.jp/little-tokyolife/)～みんなで作るいっぱいいっぱい生放送～」（2014年10月8日－、[東京電視台](../Page/東京電視台.md "wikilink")）-和[ジャニーズWEST隔週輪流擔任主持](https://zh.wikipedia.org/wiki/ジャニーズWEST "wikilink")
+
   - [攻頂High
     JUMP](../Page/攻頂High_Jump.md "wikilink")([いただきハイジャンプ](http://www.fujitv.co.jp/high-jump/))(2014年12月29日晚上25:00-26:00即凌晨01:00-02:00,第二彈-2015年6月10日晚上25:35-26:35,並於節目錄製時向Hey\!
     Say\! JUMP宣布於7月8日正規化,從7月8日起每週三晚上25:25-25:55

@@ -104,6 +104,7 @@ PHANTOM@」「mR.century」「OH MY JULIET.」「BOYS & GIRLS」六首歌與一�
   - **「☆★Best the LM.C★☆2006-2011 SINGLES」** 2011年10月14日
   - **STRONG POP** 2012年4月6日
   - **LM.C B-Side BEST\!\!** 2013年6月7日
+  - **FUTURE SENSATION** 2018年12月25日
 
 ### DVD
 

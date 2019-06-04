@@ -92,7 +92,7 @@ Antiquities）目前負責填補墓內牆壁及天花板的裂縫及破洞、並
   - [Egypt The Tomb of Ramesses IV, Valley of the Kings,
     Egypt](http://www.touregypt.net/featurestories/ramesses4t.htm)
   - [Theban Mapping Project:
-    KV2](http://www.kv5.com/sites/browse_tomb_816.html)
+    KV2](https://web.archive.org/web/20080517022742/http://www.kv5.com/sites/browse_tomb_816.html)
 
 [Category:帝王谷](https://zh.wikipedia.org/wiki/Category:帝王谷 "wikilink")
 [Category:古埃及墓葬](https://zh.wikipedia.org/wiki/Category:古埃及墓葬 "wikilink")
@@ -112,5 +112,4 @@ Antiquities）目前負責填補墓內牆壁及天花板的裂縫及破洞、並
 6.
 7.
 8.
-9.  [KV 2 (Rameses IV) - Theban Mapping
-    Project](http://www.kv5.com/sites/browse_tomb_816.html)
+9.

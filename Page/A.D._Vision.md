@@ -106,8 +106,7 @@ Filmworks旗下動畫DVD還是鎖定小眾向消費者，不廣告不行銷，�
     [新世紀福音戰士](https://zh.wikipedia.org/wiki/新世紀福音戰士 "wikilink")（）
   - 1998: TVA -
     [魔術士歐菲](https://zh.wikipedia.org/wiki/魔術士歐菲 "wikilink")（）
-  - 1999: OVA -
-    [恐怖寵物店](https://zh.wikipedia.org/wiki/恐怖寵物店 "wikilink")（）
+  - 1999: OVA - [恐怖寵物店](../Page/恐怖寵物店.md "wikilink")（）
   - 2000: TVA - [櫻花大戰](https://zh.wikipedia.org/wiki/櫻花大戰 "wikilink")
   - 2001: TVA -
     [黑色天使/黑街二人組/Noir](https://zh.wikipedia.org/wiki/Noir "wikilink")（）

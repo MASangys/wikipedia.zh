@@ -15,7 +15,7 @@ Track。\[1\]
   - 《迷湖》的粤语版本为《面具》。
   - 《Why Aren't You
     Here?》是薛凯琪主唱的《冬眠》[demo版本](https://zh.wikipedia.org/wiki/样本唱片 "wikilink")。
-  - 《Where Is My Teddy?》 是《恨也讲资格》demo版本。
+  - 《Where Is My Teddy?》是《恨也讲资格》demo版本。
 
 ## 音樂排行榜
 

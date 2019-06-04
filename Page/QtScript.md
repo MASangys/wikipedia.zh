@@ -7,12 +7,16 @@ Generator](https://web.archive.org/web/20090417001554/http://labs.trolltech.com/
 API的綁定作為ECMAScript直接的存取。QtScript和Binding
 Generator被用於[Amarok](../Page/Amarok.md "wikilink") 2的腳本系統。
 
+目前版本(Qt
+4.7)实现使用[JavaScriptCore并且不会进一步开发](https://zh.wikipedia.org/wiki/JavaScriptCore "wikilink")。这个模块在Qt
+5.5版本中被舍弃\[1\]。
+
 ## Qt Script for Applications（QSA）
 
 早期的腳本引擎稱為**Qt Script for Applications**（QSA），是[Qt
 Software推出且獨立於Qt函式庫](https://zh.wikipedia.org/wiki/Qt_Software "wikilink")，在[GPL和商業許可雙授權下發布](https://zh.wikipedia.org/wiki/GNU_General_Public_License "wikilink")。
 
-QtScript釋出後，QSA已經過時了，並在2008年結束支援。\[1\]
+QtScript釋出後，QSA已經過時了，並在2008年結束支援。\[2\]
 
 ## 參考文獻
 
@@ -32,3 +36,4 @@ QtScript釋出後，QSA已經過時了，並在2008年結束支援。\[1\]
 [Category:自由發展元件與函式庫](https://zh.wikipedia.org/wiki/Category:自由發展元件與函式庫 "wikilink")
 
 1.
+2.

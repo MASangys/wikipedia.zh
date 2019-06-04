@@ -1,20 +1,33 @@
 《**七龍珠Z**》（，）是改編自[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[鳥山明漫畫](../Page/鳥山明.md "wikilink")《[七龍珠](../Page/七龙珠.md "wikilink")》並於1989年4月26日到1996年1月31日播放的[電視動畫作品](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")，共291集+2集特別篇。\[1\]標題中「[Ζ](https://zh.wikipedia.org/wiki/Ζ "wikilink")」是希臘字母（Zeta，）並不是拉丁字母「[Z](../Page/Z.md "wikilink")」。《[七龍珠](../Page/七龍珠_\(動畫\).md "wikilink")》的續集，以平均20.5%的[收視率](https://zh.wikipedia.org/wiki/收視率 "wikilink")
 獲得廣大觀眾歡迎。
 
+## 解說
+
+副標題的「Z」是鳥山明提出，指英文字母表的最後一個字母，意即七龍珠的故事即將要結束了。\[2\]但是在鳥山明向製作人解釋「Z」的涵義之前，製作人經常把這部動畫片稱為『七龍珠
+悟飯的大冒險』，孫悟空的兒子[孫悟飯比較像主角](https://zh.wikipedia.org/wiki/孫悟飯 "wikilink")，所以在本作中的原創劇情、開場與結束的動畫以描繪悟飯為主。\[3\]鳥山明「不是啦…
+我從來就不打算換掉主角」。當年『七龍珠Z』在日本正式播映前，JUMP的1989年18號收錄的特報將「Z」解釋為「究極」與「最強」的說明。
+
+鳥山明的第一任責任編輯[鳥嶋和彥看了前作收視率下滑的](../Page/鳥嶋和彥.md "wikilink")『[七龍珠](https://zh.wikipedia.org/wiki/龍珠_\(動畫\) "wikilink")』，少年悟空貫穿比克大魔王的動畫場面，可愛的與甜美畫風還保留著，「這可不行啊」。從孫悟空長大後與孫悟飯登場的地方，鳥嶋和東映與電視台經過協商評估後，決定換掉一部分的動畫師，讓『[聖鬥士星矢](https://zh.wikipedia.org/wiki/聖鬥士星矢 "wikilink")』的動畫師加入\[4\]，同時申報新的製作經費和預算，由此全新的面貌的電視動畫節目『七龍珠Z』誕生了。\[5\]
+
 ## 工作人員
 
   - 企画 -
     森下孝三（[東映動畫](https://zh.wikipedia.org/wiki/東映動畫 "wikilink")）、清水賢治（[富士電視台](../Page/富士電視台.md "wikilink")）
-  - 原作 -
-    [鳥山明](../Page/鳥山明.md "wikilink")（[集英社](../Page/集英社.md "wikilink")『週刊少年Jump』連載）
-  - 導演 - 岸本松司（1-58話）、鳥本武（59-109話）、山口彰彦（110-169話）、末永雄一（170-291話）
-  - 系列構成 - [小山高生](../Page/小山高生.md "wikilink")
-  - 音樂 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
-  - 動畫師→人物設定 - 前田實（1-199話）→[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")（200-291話）
-  - 設計 - 池田祐二（1-199話）→徳重賢（200-291話）
-  - 系列導演 - 西尾大介（1-199話）
-  - 製片 -
+  - 製片人 -
     清水賢治（1-291話）、金田耕司（[富士電視台](../Page/富士電視台.md "wikilink")）（118-291話）
+  - [原作](https://zh.wikipedia.org/wiki/原作 "wikilink") -
+    [鳥山明](../Page/鳥山明.md "wikilink")（[集英社](../Page/集英社.md "wikilink")『週刊少年Jump』連載）
+  - [導演](https://zh.wikipedia.org/wiki/導演 "wikilink") -
+    岸本松司（1-58話）、鳥本武（59-109話）、山口彰彦（110-169話）、末永雄一（170-291話）
+  - 系列導演 - [西尾大介](../Page/西尾大介.md "wikilink")（1-199話）
+  - [系列構成](https://zh.wikipedia.org/wiki/系列構成 "wikilink") -
+    [小山高生](../Page/小山高生.md "wikilink")
+  - 音樂 - [菊池俊輔](../Page/菊池俊輔.md "wikilink")
+  - [人物設定](https://zh.wikipedia.org/wiki/人物設定 "wikilink") -
+    [前田實](../Page/前田實.md "wikilink")（1-199話）→[中鶴勝祥](../Page/中鶴勝祥.md "wikilink")（200-291話）
+  - 脚本：戸田博司、[隅沢克之](https://zh.wikipedia.org/wiki/隅沢克之 "wikilink")、[松井亜彌等](https://zh.wikipedia.org/wiki/松井亜彌 "wikilink")
+  - 美術 - 池田祐二（1-199話）→徳重賢（200-291話）
+  - 演出：[山内重保](https://zh.wikipedia.org/wiki/山内重保 "wikilink")、[橋本光夫](../Page/橋本光夫.md "wikilink")、上田芳裕等
   - 美術進行 - 中村實→田村晴夫→福本智雄
   - 色彩指定檢查 - 酒井日出子、澤田豊二、森田博、千田日出子、辻田邦夫
   - 特殊効果 -
@@ -2725,7 +2738,7 @@ MANNA
 <!-- end list -->
 
   -
-    1993年2月24日播放（Z第175話和第176話之間），片長48分鐘。\[2\]
+    1993年2月24日播放（Z第175話和第176話之間），片長48分鐘。\[6\]
 
 ## 劇場版
 
@@ -2793,10 +2806,10 @@ MANNA
 ## 外部連結
 
   - [七龍珠Z動畫版官方網頁](http://www.toei-anim.co.jp/tv/dragonz/)
-
   - [七龍珠劇場版官方網頁](http://www.toei-anim.co.jp/ptr/dragonball/movie/)
+  - [東映動畫創立60週年紀念
+    七龍珠Z官方網頁](http://lineup.toei-anim.co.jp/ja/tv/dragonz/)
 
-  -
 [cs:Dragon Ball\#Dragon Ball
 Z](https://zh.wikipedia.org/wiki/cs:Dragon_Ball#Dragon_Ball_Z "wikilink")
 [ro:Dragon Ball\#Dragon Ball
@@ -2812,6 +2825,13 @@ Z](https://zh.wikipedia.org/wiki/ro:Dragon_Ball#Dragon_Ball_Z "wikilink")
 1.  [Dragon Ball Z
     (TV)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=244)Anime
     News Network
-2.  [Dragon Ball Z: The History Of Trunks
+2.  鈴木晴彦編「鳥山明×中鶴勝祥対談」『テレビアニメ完全ガイド「DRAGONBALL
+    Z」孫悟空伝説』集英社〈ジャンプ・コミックス〉、2003年10月8日、ISBN
+    4-08-873546-3、92・97頁。
+3.  「神龍通信 第5号 アニメドラゴンボールメインスタッフ座談会第2回」『ドラゴンボール大全集』別冊付録、集英社、1995年。
+4.  「鳥嶋和彦 鳥山先生と築いたヒストリー」『サンケイスポーツ特別版
+    ドラゴンボールZ復活の「F」新聞』[サンケイスポーツ](https://zh.wikipedia.org/wiki/サンケイスポーツ "wikilink")、2015年4月18日、28面。
+5.  『[サンケイスポーツ特別版](https://zh.wikipedia.org/wiki/サンケイスポーツ "wikilink")2015年5月18日号　ドラゴンボールZ復活の「F」新聞』2015年4月18日、28面。
+6.  [Dragon Ball Z: The History Of Trunks
     (special)](http://www.animenewsnetwork.com/encyclopedia/anime.php?id=133)Anime
     News Network

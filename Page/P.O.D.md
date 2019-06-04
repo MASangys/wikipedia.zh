@@ -13,7 +13,8 @@ Sacrifice的吉他手Jason
 Truby入替，隨即以新的組合為電影[駭客任務第](https://zh.wikipedia.org/wiki/駭客任務 "wikilink")2集「[駭客任務2：重裝上陣](https://zh.wikipedia.org/wiki/駭客任務2：重裝上陣 "wikilink")」譜唱主題曲"Sleeping
 Awake"，並且推出第三張專輯《Payable on Death》。
 2005年年底原吉他手Marcos回歸，在2006年[二月發行第四張專輯](https://zh.wikipedia.org/wiki/二月 "wikilink")「Testify」，一推出就空降全美流行專輯榜Top9，年底與Atlantic結束賓主關係後拱出首張精選大作「Greatest
-Hits：The Atlantic Years」，之後轉換新東家Columbia旗下，並於2008年問世第五張專輯《When Angels &
+Hits：The Atlantic Years」，之後轉換新東家Columbia旗下,在2006年與wwe摔角手Rey
+mysterio合作歌曲\[booyaka 619\],並於2008年問世第五張專輯《When Angels &
 Serpents Dance》，初登場空降美國流行榜Top9+iTunes搖滾榜冠軍。
 2012年7月10日，在上一張專輯推出將近睽違四年後，推出了全新第六張錄音室專輯《Murdered
 Love》。 2015年8月21日，正式推出了第七張錄音室專輯《The Awakening》。

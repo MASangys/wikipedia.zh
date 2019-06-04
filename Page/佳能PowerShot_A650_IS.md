@@ -52,7 +52,4 @@ PowerShot A650 IS**都不见了。A650 IS也许就此黯淡退出市场。
   - [佳能公布A650问题相机序号，免费维修](http://news.mydrivers.com/1/92/92383.htm)－驱动之家
   - [佳能A650相机问题 国内已经开始召回](http://www.17tech.com/news/36756.shtml)－17TECH
 
-[pl:Canon PowerShot A650
-IS](https://zh.wikipedia.org/wiki/pl:Canon_PowerShot_A650_IS "wikilink")
-
 [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")

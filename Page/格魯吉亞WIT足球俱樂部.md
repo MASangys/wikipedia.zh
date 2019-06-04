@@ -35,7 +35,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2000/01賽季歐洲足協盃" title="wikilink">2000-01</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/歐洲足協盃" title="wikilink">歐洲足協盃外圍賽第一圈</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/:en:Beitar_Jerusalem_F.C." title="wikilink">耶路撒冷比達</a></p></td>
+<td><p><a href="../Page/耶路撒冷比達足球會.md" title="wikilink">耶路撒冷比達</a></p></td>
 <td><p>0-3</p></td>
 <td><p>1-1</p></td>
 <td><p>1-4</p></td>
@@ -59,7 +59,7 @@
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2007/08賽季歐洲足協盃" title="wikilink">2007-08</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/歐洲足協盃" title="wikilink">歐洲足協盃外圍賽第一圈</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/:en:MFK_Petržalka" title="wikilink">巴迪斯拉華</a></p></td>
+<td><p><a href="../Page/帕沙卡學院足球會.md" title="wikilink">巴迪斯拉華</a></p></td>
 <td><p>0-2</p></td>
 <td><p>1-2</p></td>
 <td><p>2-3</p></td>
@@ -67,7 +67,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2008/09賽季歐洲足協盃" title="wikilink">2008-09</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/歐洲足協盃" title="wikilink">歐洲足協盃外圍賽第一圈</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/:en:FC_Spartak_Trnava" title="wikilink">泰拿華斯巴達</a></p></td>
+<td><p><a href="../Page/特尔纳瓦斯巴达克足球俱乐部.md" title="wikilink">泰拿華斯巴達</a></p></td>
 <td><p>2-2</p></td>
 <td><p>0-1</p></td>
 <td><p>3-2</p></td>
@@ -83,7 +83,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2009/10賽季歐洲聯賽冠軍盃" title="wikilink">2009-10</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/歐洲聯賽冠軍盃" title="wikilink">歐洲聯賽冠軍盃外圍賽第一圈</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/:en:NK_Maribor" title="wikilink">馬里博爾</a></p></td>
+<td><p><a href="../Page/馬里博爾足球俱樂部.md" title="wikilink">馬里博爾</a></p></td>
 <td></td>
 <td></td>
 <td></td>

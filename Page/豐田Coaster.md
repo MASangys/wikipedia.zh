@@ -4,7 +4,7 @@
 
 ## 名稱差異
 
-豐田Coaster的名稱會因各地的稱呼而異。在[港澳台地區](https://zh.wikipedia.org/wiki/港澳台 "wikilink")，一般會直接名為「豐田Coaster」；在[中國內地](https://zh.wikipedia.org/wiki/中國內地 "wikilink")，豐田Coaster則會被直接翻譯為「豐田柯斯達」或「豐田-{考斯特}-」；在[歐洲地區](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，豐田Coaster因採用[葡萄牙Salvador](../Page/葡萄牙.md "wikilink")
+豐田Coaster的名稱會因各地的稱呼而異。在[港澳台](https://zh.wikipedia.org/wiki/港澳台 "wikilink")，一般會直接名為「豐田Coaster」；在[中國大陸](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，豐田Coaster則會被直接翻譯為「豐田柯斯達」或「豐田-{考斯特}-」；在[歐洲地區](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，豐田Coaster因採用[葡萄牙Salvador](../Page/葡萄牙.md "wikilink")
 Caetano設計的車身，名為「Salvador Caetano Optimo」。
 
 ## 歷史
@@ -46,7 +46,7 @@ Caetano設計的車身，名為「Salvador Caetano Optimo」。
 
 ### 香港
 
-**（請注意此章節中所謂一代至七代並非香港公共小型巴士行內專用術語，而有人方便管理而另起術語取代之。雖然所謂該等術語於香港交通發燒友界普及化，但當對行內人士談及時或許毫無頭緒。此分類方法雖可套用到香港所有款式的豐田Coaster，但一般只於談論公共小巴或專線小巴時使用，用作居民巴士或[客車的Coaster不使用此分類方法](https://zh.wikipedia.org/wiki/客車 "wikilink")。）**
+**（請注意此章節中所謂一代至七代(車型代號)並非香港公共小型巴士行內專用術語，而有人方便管理而另起術語取代之。雖然所謂該等術語於香港交通發燒友界普及化，但當對行內人士談及時或許毫無頭緒。此分類方法雖可套用到香港所有款式的豐田Coaster，但一般只於談論公共小巴或專線小巴時使用，用作居民巴士或[客車的Coaster不使用此分類方法](https://zh.wikipedia.org/wiki/客車 "wikilink")。）**
 
 豐田Coaster在香港隨處可見，甚至形成「一廠獨大」的局面，此現象有數個成因：
 
@@ -65,15 +65,16 @@ MiniBus.jpg|1990年至1992年生產的第二代Coaster小巴，改用較為易�
 <File:ToyotaCoaster> 4th
 turbo.jpg|豐田第四代Coaster小巴（BB43），1998年至2002年生產，車頭採用方形頭燈設計，故俗稱「方燈子彈頭」。此款小巴的數目一直減少（2016年起更大量淘汰）。
 <File:NTMinibus40>
-LS9868.jpg|豐田第五代Coaster小巴，以石油氣作燃料，2002年至2007年生產，又稱「石仔」或「氣艇」。
-[File:NWMinibus040.jpg|長陣版本石油氣Coaster小巴，2003年至2005年及2007年期間生產（在2007年推出的版本，車頭設計經過改良](File:NWMinibus040.jpg%7C長陣版本石油氣Coaster小巴，2003年至2005年及2007年期間生產（在2007年推出的版本，車頭設計經過改良)）。
-[File:NWMinibus88D.jpg|長陣版本柴油Coaster小巴，2003年至2007年期間生產（在2007年推出的版本，車頭設計經過改良，改配歐盟四型引擎](File:NWMinibus88D.jpg%7C長陣版本柴油Coaster小巴，2003年至2007年期間生產（在2007年推出的版本，車頭設計經過改良，改配歐盟四型引擎)）
-[File:NWMinibus88G.jpg|豐田第六代的石油氣Coaster小巴，頭幅設計經過改良，2007年起生產。此車車頭防撞杆為後期換上](File:NWMinibus88G.jpg%7C豐田第六代的石油氣Coaster小巴，頭幅設計經過改良，2007年起生產。此車車頭防撞杆為後期換上)。
+LS9868.jpg|豐田第五代Coaster小巴(車型代號5LS)，以石油氣作燃料，2002年至2007年生產，又稱「石仔」或「氣艇」。
+[File:NWMinibus040.jpg|長陣版本石油氣Coaster小巴(車型代號5LL)，2003年至2005年及2007年期間生產（在2007年推出的版本，車頭設計經過改良](File:NWMinibus040.jpg%7C長陣版本石油氣Coaster小巴\(車型代號5LL\)，2003年至2005年及2007年期間生產（在2007年推出的版本，車頭設計經過改良)）。
+[File:NWMinibus88D.jpg|長陣版本柴油Coaster小巴(車型代號5DL)，2003年至2007年期間生產（在2007年推出的版本，車頭設計經過改良，改配歐盟四型引擎](File:NWMinibus88D.jpg%7C長陣版本柴油Coaster小巴\(車型代號5DL\)，2003年至2007年期間生產（在2007年推出的版本，車頭設計經過改良，改配歐盟四型引擎)）
+[File:NWMinibus88G.jpg|豐田第六代的石油氣Coaster小巴(車型代號6LS)，頭幅設計經過改良，2007年起生產。此車車頭防撞杆為後期換上](File:NWMinibus88G.jpg%7C豐田第六代的石油氣Coaster小巴\(車型代號6LS\)，頭幅設計經過改良，2007年起生產。此車車頭防撞杆為後期換上)。
 <File:Minibus>
-481A.JPG|豐田5EL豪華Coaster小巴，車主為[進智公交](../Page/進智公交.md "wikilink")，在2002年期間生產。（此款車型於2018起逐步除牌退役）
-[file:NTMinibus44A_UG0706.jpg|2015年起投入服務的豐田第6代柴油小巴，採用較豪華的客車規格，車門是採用電動外趟門而非手動摺門，車窗方面採用黑色窗框，座椅亦較豪華，亦採用自動波箱](file:NTMinibus44A_UG0706.jpg%7C2015年起投入服務的豐田第6代柴油小巴，採用較豪華的客車規格，車門是採用電動外趟門而非手動摺門，車窗方面採用黑色窗框，座椅亦較豪華，亦採用自動波箱)。
-[File:HKIMinibus55_UD1876.jpg|2016年起投入服務的豐田第6代石油氣小巴，採用較豪華的座椅](File:HKIMinibus55_UD1876.jpg%7C2016年起投入服務的豐田第6代石油氣小巴，採用較豪華的座椅)。
-<File:NTMinibus43> VR5710.jpg|2017年起投入服務的豐田第7代石油氣小巴，設有19個座位及使用電子路線顯示器。
+481A.JPG|豐田第五代豪華Coaster小巴(車型代號5EL)，車主為[進智公交](../Page/進智公交.md "wikilink")，在2002年期間生產。（此款車型於2018起逐步除牌退役）
+[file:NTMinibus44A_UG0706.jpg|2015年起投入服務的豐田第6代柴油小巴(車型代號6DL)，採用較豪華的客車規格，車門是採用電動外趟門而非手動摺門，車窗方面採用黑色窗框，座椅亦較豪華，亦採用自動波箱](file:NTMinibus44A_UG0706.jpg%7C2015年起投入服務的豐田第6代柴油小巴\(車型代號6DL\)，採用較豪華的客車規格，車門是採用電動外趟門而非手動摺門，車窗方面採用黑色窗框，座椅亦較豪華，亦採用自動波箱)。
+[File:HKIMinibus55_UD1876.jpg|2016年起投入服務的豐田第6代石油氣小巴(車型代號6LL)，採用較豪華的座椅](File:HKIMinibus55_UD1876.jpg%7C2016年起投入服務的豐田第6代石油氣小巴\(車型代號6LL\)，採用較豪華的座椅)。
+<File:NTMinibus43>
+VR5710.jpg|2017年起投入服務的豐田第7代石油氣小巴(車型代號7LL)，設有19個座位及使用電子路線顯示器。
 
 #### 巴士公司
 

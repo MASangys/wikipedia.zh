@@ -10,7 +10,7 @@ Chrome上，所以Chromium相當於Google Chrome的先行版。
 
 Google Chrome相對於Chromium：\[1\]
 
-  - 圖示：Chromium的是[藍色調](../Page/藍色.md "wikilink")（[Chromium_Material_Icon.png](https://zh.wikipedia.org/wiki/File:Chromium_Material_Icon.png "fig:Chromium_Material_Icon.png")），而Chrome的則是Google的代表色（红、黄、绿）（[Google_Chrome_icon_(September_2014).svg](https://zh.wikipedia.org/wiki/File:Google_Chrome_icon_\(September_2014\).svg "fig:Google_Chrome_icon_(September_2014).svg")）
+  - 圖示：Chromium的是[藍色調](../Page/藍色.md "wikilink")，而Chrome的則是红、黄、绿
   - 增加Google Update自動更新系統
   - 增加自動傳送使用統計資料及當機報告給Google的選項
   - 當Chrome用作市場推廣及分銷合作夥伴時會記錄並發送使用者紀錄，如何時何處下載的資訊。2010年6月，Google解釋任一版本的Chromium或是從Google官方網站上下載的Chrome都不帶有這一記錄使用者資訊的功能。同時也公開了這些記錄的原始碼，以便開發者瞭解此功能是如何運作的\[2\]。
@@ -53,6 +53,8 @@ Jazayeri宣佈Chrome的[HTML5播放器將和Chromium一樣](../Page/HTML5.md "wi
   - [红芯浏览器](../Page/红芯.md "wikilink")：基于Chromium开发。
   - [Vivaldi](../Page/Vivaldi_\(瀏覽器\).md "wikilink")：基於Chromium開發。
   - Samsung Internet Browser：基于Chromium开发,並加入廣告攔截功能。
+  - [Microsoft
+    Edge](../Page/Microsoft_Edge.md "wikilink")：iOS版本和Android版本默认基於Chromium開發。近期微软表示PC版本也将终止对Trident内核的支持而转向Chromium内核。
 
 ## 參考資料
 
@@ -82,8 +84,9 @@ Chrome\#Chromium](https://zh.wikipedia.org/wiki/de:Google_Chrome#Chromium "wikil
 
 [Category:Webkit衍生軟體](https://zh.wikipedia.org/wiki/Category:Webkit衍生軟體 "wikilink")
 [Category:開放原始碼](https://zh.wikipedia.org/wiki/Category:開放原始碼 "wikilink")
-[Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
+[Category:Google_Chrome](https://zh.wikipedia.org/wiki/Category:Google_Chrome "wikilink")
 [Category:自由网页浏览器](https://zh.wikipedia.org/wiki/Category:自由网页浏览器 "wikilink")
+[Category:Chromium](https://zh.wikipedia.org/wiki/Category:Chromium "wikilink")
 
 1.  [ChromiumBrowserVsGoogleChrome](https://code.google.com/p/chromium/wiki/ChromiumBrowserVsGoogleChrome),
     Differences between Google Chrome and Linux distro Chromium,

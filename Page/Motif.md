@@ -31,7 +31,8 @@ Motif](https://zh.wikipedia.org/wiki/Open_Motif "wikilink")，此实现是原先
 ## 外部链接
 
   - [Motif首页](http://www.opengroup.org/motif/)
-  - [Open Motif计划网页](http://www.openmotif.org/)
+  - [Open
+    Motif计划网页](https://web.archive.org/web/20060630105316/http://www.openmotif.org/)
   - [Motif FAQ](http://www.rahul.net/kenton/mfaq.html) (Kenton Lee)
   - [Motif: Volumes 6A and 6B](http://www.oreilly.com/openbook/motif/)
     (O'Reilly and Associates)

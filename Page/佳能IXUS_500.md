@@ -52,7 +52,4 @@ Attendant Vehicle.jpg <File:Amoeba> Music San Francisco Facade.jpg
   - [佳能（中国）](http://www.canon.com.cn)
   - [数码照相机CCD问题对象机型的追加](https://web.archive.org/web/20070222004926/http://www.canon.com.cn/front/service/announce/ann.jsp?id=42)－佳能（中国）
 
-[en:Canon DIGITAL IXUS
-500](https://zh.wikipedia.org/wiki/en:Canon_DIGITAL_IXUS_500 "wikilink")
-
 [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")

@@ -854,7 +854,8 @@ zh-cn:搜索; zh-tw:搜尋}-功能，则没有单独列出。
 <!-- end list -->
 
   - **[Panoramio](../Page/Panoramio.md "wikilink")**
-    [82](http://www.panoramio.com/) 世界照片
+    [82](https://web.archive.org/web/20110224030910/http://www.panoramio.com/)
+    世界照片
 
 <!-- end list -->
 

@@ -92,7 +92,7 @@ III和入门机型EOS 6D均使用了DIGIC 5+。佳能宣称该处理器比DIGIC 
 
 #### Dual DIGIC 6+
 
-在佳能EOS-1D X Mark I首次使用，允許每秒連拍14張直至170張的RAW照片及可攝錄4K高達60fps的影片。
+在佳能EOS-1D X Mark II首次使用，允許每秒連拍14張直至170張的RAW照片及可攝錄4K高達60fps的影片。
 
 ### DIGIC 7
 

@@ -45,9 +45,6 @@
 
 <references/>
 
-[es:Vogue
-(canción)](https://zh.wikipedia.org/wiki/es:Vogue_\(canción\) "wikilink")
-
 [Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")
 [Category:濱崎步單曲](https://zh.wikipedia.org/wiki/Category:濱崎步單曲 "wikilink")
 [Category:廣告歌曲](https://zh.wikipedia.org/wiki/Category:廣告歌曲 "wikilink")

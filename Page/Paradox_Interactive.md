@@ -139,7 +139,7 @@ Schemes](https://zh.wikipedia.org/wiki/:en:Harebrained_Schemes "wikilink")。\[1
 <td><p>Hearts of Iron III</p></td>
 <td><p><a href="../Page/钢铁雄心III.md" title="wikilink">钢铁雄心III</a></p></td>
 <td><p>2009</p></td>
-<td><p>Hearts of Iron III: Semper Fi</p></td>
+<td><p>Semper Fi</p></td>
 <td><p>永远忠诚</p></td>
 <td><p>2010</p></td>
 <td></td>
@@ -150,7 +150,7 @@ Schemes](https://zh.wikipedia.org/wiki/:en:Harebrained_Schemes "wikilink")。\[1
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Hearts of Iron III: For the Motherland</p></td>
+<td><p>For the Motherland</p></td>
 <td><p>为了祖国</p></td>
 <td><p>2011</p></td>
 <td></td>
@@ -164,7 +164,7 @@ Schemes](https://zh.wikipedia.org/wiki/:en:Harebrained_Schemes "wikilink")。\[1
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Hearts of Iron III: Their Finest Hour</p></td>
+<td><p>Their Finest Hour</p></td>
 <td><p>荣光时刻</p></td>
 <td><p>2012</p></td>
 <td></td>
@@ -278,11 +278,11 @@ Schemes](https://zh.wikipedia.org/wiki/:en:Harebrained_Schemes "wikilink")。\[1
 
 #### 都市运输、都市：天际线
 
-|                   |                                                           |          |
-| ----------------- | --------------------------------------------------------- | -------- |
-| Cities in Motion  | [都市运输](https://zh.wikipedia.org/wiki/都市运输 "wikilink")     | 2011     |
-| Cities in Motion2 | [都市运输2](https://zh.wikipedia.org/wiki/都市运输2 "wikilink")   | 2013 4 3 |
-| Cities Skylines   | [都市：天际线](https://zh.wikipedia.org/wiki/都市：天际线 "wikilink") | 2015.3   |
+|                    |                                                           |        |
+| ------------------ | --------------------------------------------------------- | ------ |
+| Cities in Motion   | [都市运输](https://zh.wikipedia.org/wiki/都市运输 "wikilink")     | 2011   |
+| Cities in Motion 2 | [都市运输2](https://zh.wikipedia.org/wiki/都市运输2 "wikilink")   | 2013.4 |
+| Cities Skylines    | [都市：天际线](https://zh.wikipedia.org/wiki/都市：天际线 "wikilink") | 2015.3 |
 
 ### AGEOD
 
@@ -313,7 +313,7 @@ Schemes](https://zh.wikipedia.org/wiki/:en:Harebrained_Schemes "wikilink")。\[1
 | Battles of Ardania                 | 阿达尼亚征战                                                        | 2010 |                    |      |      |
 | Monster Kingdom                    | 怪兽王国                                                          | 2011 |                    |      |      |
 | Warlock：Master of the Arcane       | 术士：秘术宗师                                                       | 2012 |                    |      |      |
-| Warlock II: The Exiled             | 术士2:放逐                                                        | 2014 | Wrath of the Nagas | 娜迦之怒 | 2014 |
+| Warlock II: The Exiled             | 术士II：放逐                                                       | 2014 | Wrath of the Nagas | 娜迦之怒 | 2014 |
 | Defenders of Ardania               | 阿达尼亚的守护者                                                      | 2012 |                    |      |      |
 
 #### 其他
@@ -339,7 +339,7 @@ Schemes](https://zh.wikipedia.org/wiki/:en:Harebrained_Schemes "wikilink")。\[1
 
 |                                                                                                                                          |                                            |      |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ---- |
-| A Vampyre Story\[13\]                                                                                                                    | 吸血鬼的故事                                     | 2008 |
+| A Vampire Story\[13\]                                                                                                                    | 吸血鬼的故事                                     | 2008 |
 | [Airfix Dogfighter](https://zh.wikipedia.org/wiki/:en:Airfix_Dogfighter "wikilink")                                                      | 玩具飞机大战                                     | 2000 |
 | [Achtung Panzer: Kharkov 1943](https://zh.wikipedia.org/wiki/:en:Achtung_Panzer:_Kharkov_1943 "wikilink")                                | 坦克：哈尔科夫1943                                | 2010 |
 | [Take Command - 2nd Manassas](https://zh.wikipedia.org/wiki/:en:Take_Command_\(computer_game\) "wikilink")                               | 第二次马纳萨斯之战                                  | 2006 |

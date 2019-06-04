@@ -1,7 +1,9 @@
-《**07-GHOST**》是由[雨宮由樹和](https://zh.wikipedia.org/wiki/雨宮由樹 "wikilink")[市原雪乃創作的在](https://zh.wikipedia.org/wiki/市原雪乃 "wikilink")《[Comic
-ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品。原作漫画自2005年4月28日开始连载，结束于2013年8月28日。[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2009年4月起於日本深夜播出。台灣在2011年5月起於[Animax播出](../Page/Animax.md "wikilink")。
+《**07-GHOST**》是由[雨宮由樹和](https://zh.wikipedia.org/wiki/雨宮由樹 "wikilink")[市原雪乃創作的](https://zh.wikipedia.org/wiki/市原雪乃 "wikilink")[日本漫畫作品](https://zh.wikipedia.org/wiki/日本漫畫 "wikilink")。於[一迅社漫畫雜誌](../Page/一迅社.md "wikilink")《[Comic
+ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》2005年4月28日开始至2013年8月28日結束連載。[單行本全](https://zh.wikipedia.org/wiki/單行本 "wikilink")17卷。
 
-單行本於2013年9月出版全17卷，并且曾在06年12月及07年1月份推出过DRAMA。
+[電視動畫於](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2009年4月起於日本深夜播出。台灣在2011年5月起於[Animax播出](../Page/Animax.md "wikilink")。
+
+於2006年12月及2007年1月份推出過廣播劇。
 
 ## 故事簡介
 
@@ -36,6 +38,7 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
     在比賽第一天以8:l6:23佳績，與弗拉烏一起以第一名隊伍身份抵達中途站貝鲁涅撒城，十分受注目。
     於空行機大賽中意外與阿亞納米對戰，被阿亞納米帶走並洗腦，成為黑鷹部隊成員、阿亞納米的助手。於82話彌卡艾爾之眼要攻擊弗拉烏時，在內心世界恢復記憶。
     回復記憶後，前去拯救同樣遭到洗腦的櫻花，雖然成功打破洗腦對櫻花的控制，但是被拉法艾爾之眼攻擊，而導致彌卡艾爾之眼故障。
+    收集了七個神之家的詛咒眷符，最終到達全靈之地，在那裡與神父重逢，進入全靈之地時，肉體將被消滅，靈魂得以淨化，最後許下的願望是讓自己再次回到這個世界上。
 
 <!-- end list -->
 
@@ -137,7 +140,7 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
     殺死卡爾後，用瞬間移動能力出現泰德面前，打算對泰德下手時，被及時趕到的弗拉烏阻撓。
     最後被主角泰德"救贖"(在他深深的黑暗中取出仍然純潔的核心)，身體則被弗拉烏用費亞羅廉的鐮刀消滅。
 
-#### 巴爾斯布魯克教會（バルスブルグ教会）
+#### 巴爾斯布魯克教會
 
   - 07-GHOST
     詳細於『[07-GHOST](https://zh.wikipedia.org/wiki/#07-GHOST "wikilink")』参照。
@@ -175,7 +178,7 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
   -
     被人操控之下，慫恿拉古斯國王將裝有費亞羅廉沉睡千年肉体的「潘多拉之盒」注入於泰德體內，企圖以此掌控絕對的權利。製造拉古斯王國叛亂的假象，使帝國與拉古斯王國宣戰。最終回復自我意識，以自殺阻止闇徒的操控。
 
-### 巴爾斯布魯克帝國(バルスブルグ帝国)
+### 巴爾斯布魯克帝國
 
   -
     巴爾斯布魯克帝國的公主，拉法艾爾之眼的宿主。必須定時接受調整拉法艾爾之眼的檢查。拉法艾爾之眼的心智上還停留在三歲，是小時候參加拉古斯之戰所造成的。其父企圖要在櫻花的生日會上暗殺她，其一是為了結束女帝統治時代（推測與拉法艾爾之眼有關），其二是將暗殺公主之事嫁禍於他國，好有藉口出兵征服鄰國。隨身帶着《俗語辞書》。
@@ -186,7 +189,7 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
   -
     黑色的引導之龍，經常坐在櫻花肩上，由櫻花出生開始就陪伴一起，視她為姊妹一様的存在。視只懂嗚叫的米卡杰為異類。會說人話也會飛。
 
-#### 阿亞納米参謀部直属部隊（黑鷹部隊）アヤナミ参謀部直属部隊（ブラックホーク）
+#### 阿亞納米参謀部直属部隊（黑鷹部隊）
 
   -
     身高：軍校時178cm，目前183cm，軍校時體重57kg，現在69kg。血型B。
@@ -227,7 +230,7 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
 <!-- end list -->
 
   -
-    帝國陸軍大佐兼「黑鷹」成員，為「黑鷹」最年長的成員，性格溫和、冷靜，深思熟慮，忍耐力極高。十分關心阿亞納米。為了阿亞納米，甘願親手用劍割臉削嘴，改變容貌,
+    帝國陸軍大佐兼「黑鷹」成員，為「黑鷹」最年長的成員，性格溫和、冷靜，深思熟慮，忍耐力極高。十分關心阿亞納米。其真正身份為消魂，為了阿亞納米，甘願親手用劍割臉削嘴，改變容貌,
     到阿亞納米的敵人那裡當臥底超過十年。
     名字的由来是旧日本海軍軍艦「かつらぎ」。(葛城和桂木在日文裡同音)
     真正身份詳細見『[消魂](https://zh.wikipedia.org/wiki/#07-GHOST "wikilink")』。
@@ -302,7 +305,7 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
     父親和兄長都是歐克家的佣人，因此兒時和修里經常一起玩。家中還有一弟一妹。
     死後轉生成一隻粉紅色的引導之龍嬰兒，目前還是不會人類的語言，也不會飛行
 
-### 拉古斯王国(ラグス王国)
+### 拉古斯王国
 
   -
     即泰德‧克萊恩，是拉古斯國王的庶子，在3歲時被皇后貝爾涅砂烙下奴隸烙印，公式記録上3歳時已死亡。
@@ -381,18 +384,18 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
 在很多世中也一直親手殺死他愛的人 (例如㡽洛威爾親手把母親推下露台),
 直到雪風為了保護自己而死後, 他才改變, 由殺死他愛的人變成保護他所愛的人 (例如黑鷹)。
 
-### 神之家（ゴッドハウス）
+### 神之家
 
 神之家為繼承七鬼神血脈的『神的一族』，是暗中支配着七大陸的七大血族，具有和「皇帝」與「教皇」對等的立場。無論是從第一區神之家遴選出的「皇帝」,或是從第七區神之家遴選出的「教皇」,都需要七個神之家一致通過才算數。
 
-#### 巴爾斯布魯克家（バルスブルグ家）
+#### 巴爾斯布魯克家
 
 位於第一區的神之家，繼承醒魂的血脈。
 
   -
     詳細於『[\#巴爾斯布魯克帝國(バルスブルグ帝国)](https://zh.wikipedia.org/wiki/#巴爾斯布魯克帝國\(バルスブルグ帝国\) "wikilink")』参照。
 
-#### 歐克家（オーク家）
+#### 歐克家
 
 為位於第二區的神之家，繼承遺魂(雷利克特)的血脈。十分富有，在政界和軍隊裡有勢力。不承認軍人或政治家以外的人。
 成員的外貌特徵是漂亮金髮和臉有點像狐狸(有時會出現狐狸尾或耳)，性格則有點自戀或傲慢。
@@ -418,7 +421,7 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
   -
     詳細見『[修里‧歐克](https://zh.wikipedia.org/wiki/#帝國軍人 "wikilink")』。
 
-#### 克拉圖家（クラート家）
+#### 克拉圖家
 
 為位於第四區的神之家，承繼預魂的血脈，其使命為生藥的研究工作。
 
@@ -427,14 +430,14 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
     深知好友莉琳(リリン)深受不治之症的折磨，為能除去她的痛苦以用自身的血以作[伊甸之花的苗床](https://zh.wikipedia.org/wiki/#用語 "wikilink")。雖然伊甸之花成功開花，但由於種植伊甸之花是禁忌，因此作為懲罰以被送到永久凍土之地，處冰封之刑。死後以作為預魂的容器活到現在。
     詳細見『[拉普拉多魯](https://zh.wikipedia.org/wiki/#07-GHOST "wikilink")』。
 
-#### 拉古斯家（ラグス家）
+#### 拉古斯家
 
 位於第五區的神之家，同時是保存米迦艾爾之眼的皇室家族，繼承契魂的血脈。
 
   -
     詳細於『[\#拉古斯王国(ラグス王国)](https://zh.wikipedia.org/wiki/#拉古斯王国\(ラグス王国\) "wikilink")』参照。
 
-#### 豪森家（ハウゼン家）
+#### 豪森家
 
 位於第六區的神之家，承繼繫魂的血脈。以前隸屬於拉古斯王國，其使命為暗殺阻礙帝國繁榮的人。
 
@@ -456,7 +459,7 @@ ZERO-SUM](../Page/Comic_ZERO-SUM.md "wikilink")》中连载的架空幻想作品
   -
     豪森家的佣人，在孤兒時候被豪森家家主辛法拾回來，對豪森家鞠躬盡粹，十分了解辛爾。對全靈之旅人的泰德給予幫助。
 
-#### 巴尔斯布鲁克教会（バルスブルグ教会）
+#### 巴尔斯布鲁克教会
 
 位於第七區的神之家，繼承斩魂的血脈。
 
@@ -573,30 +576,224 @@ Zehel）」、「消魂（ランドカルテLandkarte）」及「醒魂（エア
 
 閃耀着深邃漆黒的寶石。有着凌駕於鑽石的價值，歐克家以黒珠石的獨門販賣以更富裕。
 
-## 動畫
+## 出版書籍
 
-### STAFF
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p><a href="../Page/一迅社.md" title="wikilink">一迅社</a></p></th>
+<th><p><a href="../Page/長鴻出版社.md" title="wikilink">長鴻出版社</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2005年11月25日</p></td>
+<td><p>ISBN 978-4-7580-5193-4</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2006年5月25日</p></td>
+<td><p>ISBN 978-4-7580-5225-2</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2006年11月25日</p></td>
+<td><p>ISBN 978-4-7580-5261-0</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2007年5月25日</p></td>
+<td><p>ISBN 978-4-7580-5290-0</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2007年11月24日</p></td>
+<td><p>ISBN 978-4-7580-5320-4</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2008年5月24日</p></td>
+<td><p>ISBN 978-4-7580-5347-1</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2008年11月25日</p></td>
+<td><p>ISBN 978-4-7580-5376-1</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2009年5月25日</p></td>
+<td><p>ISBN 978-4-7580-5415-7</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2009年11月25日</p></td>
+<td><p>ISBN 978-4-7580-5466-9</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2010年8月25日</p></td>
+<td><p>ISBN 978-4-7580-5538-3</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2011年1月25日</p></td>
+<td><p>ISBN 978-4-7580-5576-5</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2011年7月25日</p></td>
+<td><p>ISBN 978-4-7580-5624-3</p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2011年12月24日</p></td>
+<td><p>ISBN 978-4-7580-5679-3</p></td>
+</tr>
+<tr class="odd">
+<td><p>14</p></td>
+<td><p>2012年6月25日</p></td>
+<td><p>ISBN 978-4-7580-5728-8</p></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>2012年12月25日</p></td>
+<td><p>ISBN 978-4-7580-5776-9</p></td>
+</tr>
+<tr class="odd">
+<td><p>16</p></td>
+<td><p>2013年5月25日</p></td>
+<td><p>ISBN 978-4-7580-5821-6</p></td>
+</tr>
+<tr class="even">
+<td><p>17</p></td>
+<td><p>2013年9月25日</p></td>
+<td><p>ISBN 978-4-7580-5858-2</p></td>
+</tr>
+</tbody>
+</table>
 
-  - 原作：[雨宮由樹](https://zh.wikipedia.org/wiki/雨宮由樹 "wikilink")／[市原雪乃](https://zh.wikipedia.org/wiki/市原雪乃 "wikilink")
-  - 監督：高本宣弘
-  - 系列構成：高橋奈津子
-  - 人物設定：藤井まき
-  - 總作畫監督：番由紀子
-  - 機械設定：宮豊
-  - 美術監督：栫ヒロツグ
-  - 色彩設計：北爪英子
-  - 攝影監督：近藤慎與
-  - 音響監督：高桑一
-  - 音樂：[中川幸太郎](../Page/中川幸太郎.md "wikilink")
-  - 動畫製作：Studio DEEN
+  - 文庫版
 
-### [主題曲](../Page/主題曲.md "wikilink")
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p>一迅社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2015年7月25日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2015年8月25日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2015年9月25日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>2015年10月24日</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2015年11月25日</p></td>
+</tr>
+<tr class="odd">
+<td><p>6</p></td>
+<td><p>2015年12月25日</p></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>2016年1月25日</p></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>2016年2月25日</p></td>
+</tr>
+<tr class="even">
+<td><p>9</p></td>
+<td><p>2016年3月25日</p></td>
+</tr>
+</tbody>
+</table>
 
-  - OP：「緋色的碎片」（）
+  - 短篇集
+
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p>一迅社</p></th>
+<th><p>長鴻出版社</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p>ISBN</p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>07-GHOST CHILDREN</p></td>
+<td><p>2010年8月25日</p></td>
+<td><p>ISBN 978-4-7580-5539-0</p></td>
+</tr>
+</tbody>
+</table>
+
+## 電視動畫
+
+2008年11月宣布決定改編為電視動畫\[1\]，2009年4月到9月期間於[讀賣電視台播放電視動畫](../Page/讀賣電視台.md "wikilink")。全25話。
+
+DVD全13卷販售銷售額達到56000張\[2\]。動畫的下回預告由幫拉普拉多魯配音的[宮田幸季擔任](../Page/宮田幸季.md "wikilink")。
+
+### 製作團隊
+
+  - 原作 - 雨宮由樹、市原雪乃
+  - 監督 - [高本宣弘](../Page/高本宣弘.md "wikilink")
+  - 系列構成 - [高橋奈津子](../Page/高橋奈津子.md "wikilink")
+  - 人物設計 - [藤井まき](https://zh.wikipedia.org/wiki/藤井まき "wikilink")
+  - 機械設計 - 宮豊
+  - 總作畫監督 - [番由紀子](https://zh.wikipedia.org/wiki/番由紀子 "wikilink")
+  - 美術監督 - [栫ヒロツグ](https://zh.wikipedia.org/wiki/栫ヒロツグ "wikilink")
+  - 色彩設計 - 北爪英子
+  - 攝影監督 - 近藤慎与
+  - 編輯 - 松村正宏
+  - 音響監督 - [高桑一](https://zh.wikipedia.org/wiki/高桑一 "wikilink")
+  - 音樂 - [中川幸太郎](../Page/中川幸太郎.md "wikilink")
+  - 製作人 -
+    君島彩子、後藤政則、[斎藤朋之](https://zh.wikipedia.org/wiki/斎藤朋之 "wikilink")、川村仁
+  - 動畫製作人 - 浦崎宣光
+  - 動畫製作 - [Studio
+    DEEN](https://zh.wikipedia.org/wiki/Studio_DEEN "wikilink")
+  - 製作 -
+    「07-GHOST」製作委員會（[一迅社](../Page/一迅社.md "wikilink")、[愛貝克思娛樂](../Page/愛貝克思娛樂.md "wikilink")、[讀賣電視台](../Page/讀賣電視台.md "wikilink")、[博報堂DY
+    Media
+    Partners](https://zh.wikipedia.org/wiki/博報堂DY_Media_Partners "wikilink")）
+
+### 主題曲
+
+  - 片頭曲《緋色的碎片》（）
     作詞：Kana & Noria、作曲：NAOKI MAEDA、編曲：Ryo、歌：鈴希ゆき （發售日期:2009年7月29日）
-  - ED：「瞳孔的答案」（）
+  - 片尾曲《瞳孔的答案》（）
     作詞：Noria、作曲：五十嵐“IGAO”淳一、編曲：大場敏朗・中川幸太郎、歌：Noria （發售日期:2009年7月29日）
-  - 第20話、25話插曲：ラグスの鎮魂歌（拉古斯鎮魂歌）
+  - 第20話、25話插曲《拉古斯鎮魂歌》（）
     作曲 - 五十嵐“IGAO”淳一 / 編曲 - 大場敏明 / 歌 - Noria
 
 ### 各话列表
@@ -604,294 +801,551 @@ Zehel）」、「消魂（ランドカルテLandkarte）」及「醒魂（エア
 <table>
 <thead>
 <tr class="header">
-<th><p>放送日期</p></th>
 <th><p>話数</p></th>
-<th><p>标题</p></th>
 <th><p>日文标题</p></th>
+<th><p>中文标题</p></th>
 <th><p>脚本</p></th>
 <th><p>分镜</p></th>
 <th><p>演出</p></th>
 <th><p>作画监督</p></th>
+<th><p>播放日期</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2009年<br />
-4月6日</p></td>
 <td><p>Kapitel.1</p></td>
+<td></td>
 <td><p>挚爱思念的前方是</p></td>
-<td><p>切なる想いの行く末は</p></td>
 <td><p><a href="../Page/高橋奈津子.md" title="wikilink">高橋奈津子</a></p></td>
 <td><p>高本宣弘</p></td>
 <td><p>堀越久美子</p></td>
+<td><p>2009年<br />
+4月6日</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>4月13日</p></td>
 <td><p>Kapitel.2</p></td>
+<td></td>
 <td><p>令人怀念的记忆与痛楚共存</p></td>
-<td><p>懐かしき記憶は痛みと共に</p></td>
 <td><p>石井久志</p></td>
 <td><p>中山敦史</p></td>
 <td><p>阿部智之</p></td>
+<td><p>4月13日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>4月20日</p></td>
 <td><p>Kapitel.3</p></td>
+<td></td>
 <td><p>我那纯洁的孩子与光同眠</p></td>
-<td><p>無垢なる我子よ光と眠れ</p></td>
 <td><p>武上純希</p></td>
 <td><p>小林浩輔</p></td>
 <td><p>浅井昭人</p></td>
+<td><p>4月20日</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>4月27日</p></td>
 <td><p>Kapitel.4</p></td>
+<td></td>
 <td><p>虔心祈祷的结果是…</p></td>
-<td><p>ただひたすらなる祈りの果てに</p></td>
 <td><p><a href="../Page/加藤陽一.md" title="wikilink">加藤陽一</a></p></td>
 <td><p>江島泰男</p></td>
 <td><p>高橋敦子</p></td>
+<td><p>4月27日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>5月4日</p></td>
 <td><p>Kapitel.5</p></td>
+<td></td>
 <td><p>热泪温柔地充满了他的心…</p></td>
-<td><p>熱き涙、やさしく彼の心を満たし…</p></td>
 <td><p>高橋奈津子</p></td>
 <td><p>藤原良二</p></td>
 <td><p>久保太郎</p></td>
 <td><p>清水勝祐<br />
 さのえり</p></td>
+<td><p>5月4日</p></td>
 </tr>
 <tr class="even">
-<td><p>5月11日</p></td>
 <td><p>Kapitel.6</p></td>
+<td></td>
 <td><p>通往光明的正道是…</p></td>
-<td><p>光に通ずる正しき道は</p></td>
 <td><p>加藤陽一</p></td>
 <td><p>平田豊</p></td>
 <td><p>飯飼一幸<br />
 中島美子</p></td>
+<td><p>5月11日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>5月18日</p></td>
 <td><p>Kapitel.7</p></td>
+<td></td>
 <td><p>被羽翼吞噬掉的灵魂 要不要看看我可爱的孩子的梦？</p></td>
-<td><p>翼に喰われた魂は愛しい我子の夢を見る?</p></td>
 <td><p>武上純希</p></td>
 <td><p>石井久志</p></td>
 <td><p>安藤正臣</p></td>
 <td><p>氏家章雄</p></td>
+<td><p>5月18日</p></td>
 </tr>
 <tr class="even">
-<td><p>5月25日</p></td>
 <td><p>Kapitel.8</p></td>
+<td></td>
 <td><p>仅余一半的灵魂唤起悲伤的觉醒</p></td>
-<td><p>半分だけの魂が悲しき目覚めを呼び起こす</p></td>
 <td><p>高橋奈津子</p></td>
 <td><p>小林浩輔</p></td>
 <td><p>滝山真哲</p></td>
+<td><p>5月25日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>6月1日</p></td>
 <td><p>Kapitel.9</p></td>
+<td></td>
 <td><p>魂魄之色永存…</p></td>
-<td><p>魂の色は永遠に…</p></td>
 <td><p>江島泰男</p></td>
 <td><p>江島泰男<br />
 久保太郎</p></td>
 <td><p>浅井昭人<br />
 中本尚子</p></td>
+<td><p>6月1日</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>6月9日</p></td>
 <td><p>Kapitel.10</p></td>
+<td></td>
 <td><p>那就是唯一的抵偿</p></td>
-<td><p>それはただひとつの償い</p></td>
 <td><p>加藤陽一</p></td>
 <td><p>藤原良二</p></td>
 <td><p>丸山由太</p></td>
 <td><p>武本大介</p></td>
+<td><p>6月9日</p></td>
 </tr>
 <tr class="odd">
-<td><p>6月15日</p></td>
 <td><p>Kapitel.11</p></td>
+<td></td>
 <td><p>对爱人的补偿</p></td>
-<td><p>愛しき者への償いは…</p></td>
 <td><p>武上純希</p></td>
 <td><p>平田豊</p></td>
 <td><p>高橋敦子<br />
 長野路子</p></td>
+<td><p>6月15日</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>6月22日</p></td>
 <td><p>Kapitel.12</p></td>
+<td></td>
 <td><p>名为悲痛的黑暗逼近…</p></td>
-<td><p>痛みという名の闇はひたひたと…</p></td>
 <td><p>高橋奈津子</p></td>
 <td><p>石井久志</p></td>
 <td><p>安藤正臣</p></td>
 <td><p>氏家章雄</p></td>
+<td><p>6月22日</p></td>
 </tr>
 <tr class="odd">
-<td><p>6月30日</p></td>
 <td><p>Kapitel.13</p></td>
+<td></td>
 <td><p>光明道路的前方见到的人是…</p></td>
-<td><p>光ある道の先に見るものは…</p></td>
 <td><p>岡本英樹</p></td>
 <td><p>土屋浩幸</p></td>
 <td><p>小坂知<br />
 中島美子</p></td>
+<td><p>6月30日</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>7月7日</p></td>
 <td><p>Kapitel.14</p></td>
+<td></td>
 <td><p>并肩作战的理由…被称作战友的资格</p></td>
-<td><p>共に戦う理由…戦友と呼ばれる資格</p></td>
 <td><p>武上純希</p></td>
 <td><p>小林浩輔</p></td>
 <td><p>滝山真哲</p></td>
+<td><p>7月7日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>7月14日</p></td>
 <td><p>Kapitel.15</p></td>
+<td></td>
 <td><p>那一天 确实和他在一起</p></td>
-<td><p>あの日、確かに彼といた</p></td>
 <td><p>加藤陽一</p></td>
 <td><p>高村雄太</p></td>
 <td><p>久保太郎</p></td>
 <td><p>高橋敦子</p></td>
+<td><p>7月14日</p></td>
 </tr>
 <tr class="even">
-<td><p>7月21日</p></td>
 <td><p>Kapitel.16</p></td>
+<td></td>
 <td><p>真相在于光所到达不了的黑暗之底</p></td>
-<td><p>真実は光の届かぬ闇の底に</p></td>
 <td><p>平田豊</p></td>
 <td><p>安田京弘<br />
 清水勝祐<br />
 野道佳代</p></td>
+<td><p>7月21日</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>7月28日</p></td>
 <td><p>Kapitel.17</p></td>
-<td><p>黑暗之翼的眷属､夹裹着不幸飘落</p></td>
-<td><p>闇の翼の眷属は、不幸を纏い、舞い降りる</p></td>
+<td></td>
+<td><p>黑暗之翼的眷属，夹裹着不幸飘落</p></td>
 <td><p>武上純希</p></td>
 <td><p>石井久志</p></td>
 <td><p>渡邊由香里</p></td>
+<td><p>7月28日</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>8月4日</p></td>
 <td><p>Kapitel.18</p></td>
+<td></td>
 <td><p>不赦之人溺于黑暗…相爱之人泪满衣襟</p></td>
-<td><p>赦さざる者闇に溺れ…愛する者は涙に濡れる</p></td>
 <td><p>高橋奈津子</p></td>
 <td><p>高本宣弘</p></td>
 <td><p>小林浩輔</p></td>
 <td><p>浅井昭人</p></td>
+<td><p>8月4日</p></td>
 </tr>
 <tr class="odd">
-<td><p>8月11日</p></td>
 <td><p>Kapitel.19</p></td>
-<td><p>无法交错的爱､而又无法消逝的爱的将来是…</p></td>
-<td><p>まじわらぬ愛、されど消えぬ愛の行く末は…</p></td>
+<td></td>
+<td><p>无法交错的爱，而又无法消逝的爱的将来是…</p></td>
 <td><p>江島泰男</p></td>
 <td><p>小坂知<br />
 中島美子</p></td>
+<td><p>8月11日</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>8月18日</p></td>
 <td><p>Kapitel.20</p></td>
+<td></td>
 <td><p>二人奉上的镇魂歌</p></td>
-<td><p>ふたりで捧げるレクイエム</p></td>
 <td><p>加藤陽一</p></td>
 <td><p>笹木信作</p></td>
 <td><p>土屋浩幸</p></td>
 <td><p>秋山由樹子</p></td>
+<td><p>8月18日</p></td>
 </tr>
 <tr class="odd">
-<td><p>8月25日</p></td>
 <td><p>Kapitel.21</p></td>
+<td></td>
 <td><p>为何汝要通过败者之门…</p></td>
-<td><p>なぜゆえに、汝、敗者の扉をくぐる…</p></td>
 <td><p>武上純希</p></td>
 <td><p>藤原良二</p></td>
 <td><p>平田豊</p></td>
 <td><p>高橋敦子<br />
 安田京弘</p></td>
+<td><p>8月25日</p></td>
 </tr>
 <tr class="even">
-<td><p>9月1日</p></td>
 <td><p>Kapitel.22</p></td>
-<td><p>被水底的光引领 所窥视的是…</p></td>
-<td><p>水底の光に導かれ、覗きしものは…</p></td>
+<td></td>
+<td><p>被水底的光引领，所窥视的是…</p></td>
 <td><p>名村英敏</p></td>
 <td><p>小林浩輔</p></td>
 <td><p>堀越久美子</p></td>
+<td><p>9月1日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>9月8日</p></td>
 <td><p>Kapitel.23</p></td>
+<td></td>
 <td><p>心中黑暗的前方</p></td>
-<td><p>心の闇のその先に</p></td>
 <td><p>加藤陽一</p></td>
 <td><p>石井久志</p></td>
 <td><p>中山敦史</p></td>
 <td><p>渡邊由香里<br />
 氏家章雄</p></td>
+<td><p>9月8日</p></td>
 </tr>
 <tr class="even">
-<td><p>9月15日</p></td>
 <td><p>Kapitel.24</p></td>
-<td><p>无爱者的正义在何处…被黑暗奪去的心啊,永遠地…</p></td>
-<td><p>愛無き者の正義はいずこに…闇に奪われし心よ、永遠に…</p></td>
+<td></td>
+<td><p>无爱者的正义在何处…被黑暗奪去的心啊，永遠地…</p></td>
 <td><p>高橋奈津子</p></td>
 <td><p>名村英敏</p></td>
 <td><p>江島泰男</p></td>
 <td><p>番由紀子</p></td>
+<td><p>9月15日</p></td>
 </tr>
 <tr class="odd">
-<td><p>9月22日</p></td>
 <td><p>Kapitel.25</p></td>
+<td></td>
 <td><p>重重真相在于心之彼方…</p></td>
-<td><p>真実は幾重にも連なる心の彼方に…</p></td>
 <td><p>高本宣弘</p></td>
 <td><p>藤井まき</p></td>
+<td><p>9月22日</p></td>
 <td></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
+### 播放電視台
+
+<table>
+<thead>
+<tr class="header">
+<th><p>播放地區</p></th>
+<th><p>播放電視台</p></th>
+<th><p>播放日期</p></th>
+<th><p>播放時間</p></th>
+<th><p>聯播網</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/千葉縣.md" title="wikilink">千葉縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/千葉電視台" title="wikilink">千葉電視台</a></p></td>
+<td><p>2009年4月6日 - 9月21日</p></td>
+<td><p>星期一 25:40 - 26:10</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全国独立放送協議会" title="wikilink">独立UHF局</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/近畿廣域圈" title="wikilink">近畿廣域圈</a></p></td>
+<td><p><a href="../Page/讀賣電視台.md" title="wikilink">讀賣電視台</a></p></td>
+<td><p>星期一 25:44 - 26:14</p></td>
+<td><p><a href="../Page/日本電視網協議會.md" title="wikilink">日本電視台系列</a></p></td>
+<td><p>參與製作委員會<br />
+<a href="https://zh.wikipedia.org/wiki/MANPA" title="wikilink">MONDAY PARK第</a>1部</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/福島縣" title="wikilink">福島縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福島中央電視台" title="wikilink">福島中央電視台</a></p></td>
+<td><p>2009年4月7日 - 9月22日</p></td>
+<td><p>星期二 25:29 - 25:59</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/宮城縣.md" title="wikilink">宮城縣</a></p></td>
+<td><p><a href="../Page/宮城電視台.md" title="wikilink">宮城電視台</a></p></td>
+<td><p>星期二 25:30 - 26:00</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a></p></td>
+<td><p><a href="../Page/埼玉電視台.md" title="wikilink">埼玉電視台</a></p></td>
+<td><p>独立UHF局</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/愛媛縣" title="wikilink">愛媛縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南海放送" title="wikilink">南海放送</a></p></td>
+<td><p>星期二 25:35 - 26:05</p></td>
+<td><p>日本電視台系列</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/熊本縣.md" title="wikilink">熊本縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a></p></td>
+<td><p>星期二 25:59 - 26:29</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣</a>、<a href="https://zh.wikipedia.org/wiki/香川縣" title="wikilink">香川縣</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/西日本放送" title="wikilink">西日本放送</a></p></td>
+<td><p>2009年4月9日 - 9月24日</p></td>
+<td><p>星期四 26:13 - 26:43</p></td>
+<td><p>日本電視台系列</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a></p></td>
+<td><p><a href="../Page/愛知電視台.md" title="wikilink">愛知電視台</a></p></td>
+<td><p>2009年4月10日 - 9月25日</p></td>
+<td><p>星期五 25:58 - 26:28</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TXN" title="wikilink">東京電視台系列</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a></p></td>
+<td><p><a href="../Page/神奈川電視台.md" title="wikilink">神奈川電視台</a></p></td>
+<td><p>2009年4月11日 - 9月26日</p></td>
+<td><p>星期六 26:00 - 26:30</p></td>
+<td><p>独立UHF局</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a></p></td>
+<td><p><a href="../Page/TVQ九州放送.md" title="wikilink">TVQ九州放送</a></p></td>
+<td><p>2009年4月12日 - 9月27日</p></td>
+<td><p>星期日 26:30 - 27:00</p></td>
+<td><p>東京電視台系列</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/北海道.md" title="wikilink">北海道</a></p></td>
+<td><p><a href="../Page/北海道放送.md" title="wikilink">北海道放送</a></p></td>
+<td><p>2009年4月13日 - 9月28日</p></td>
+<td><p>星期一 26:26 - 26:56</p></td>
+<td><p>TBS系列</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/全国放送" title="wikilink">日本全域</a></p></td>
+<td><p><a href="../Page/AT-X.md" title="wikilink">AT-X</a></p></td>
+<td><p>2009年4月23日 - 10月8日</p></td>
+<td><p>星期四 9:00 - 9:30</p></td>
+<td><p>CS頻道</p></td>
+<td><p>有重播</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/關東廣域圈" title="wikilink">關東廣域圈</a></p></td>
+<td><p><a href="../Page/日本電視台.md" title="wikilink">日本電視台</a></p></td>
+<td><p>2011年7月1日 - 2012年1月13日</p></td>
+<td><p>星期五 27:08 - 27:38</p></td>
+<td><p>日本電視台系列</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### DVD
+
+| 卷數      | 發售日        | 收錄內容      | 規格編號         |
+| ------- | ---------- | --------- | ------------ |
+| 初回限定生產版 | 通常版        |           |              |
+| 1       | 2009年8月7日  | 第1話、第2話   | AVBA-29275/B |
+| 2       | 2009年9月4日  | 第3話、第4話   | AVBA-29276/B |
+| 3       | 2009年10月2日 | 第5話、第6話   | AVBA-29277/B |
+| 4       | 2009年11月6日 | 第7話、第8話   | AVBA-29278/B |
+| 5       | 2009年12月4日 | 第9話、第10話  | AVBA-29279/B |
+| 6       | 2010年1月4日  | 第11話、第12話 | AVBA-29280/B |
+| 7       | 2010年2月5日  | 第13話、第14話 | AVBA-29281/B |
+| 8       | 2010年3月5日  | 第15話、第16話 | AVBA-29282/B |
+| 9       | 2010年4月2日  | 第17話、第18話 | AVBA-29283/B |
+| 10      | 2010年5月7日  | 第19話、第20話 | AVBA-29284/B |
+| 11      | 2010年6月4日  | 第21話、第22話 | AVBA-29285/B |
+| 12      | 2010年7月2日  | 第23話、第24話 | AVBA-29286/B |
+| 13      | 2010年8月6日  | 第25話      | AVBA-29287/B |
+
+## 網路廣播劇
+
+《**07-GHOST the world**》
+
+  - 主持人 - [斎賀光希](https://zh.wikipedia.org/wiki/斎賀光希 "wikilink")（飾演
+    泰德·克萊恩）、[浪川大輔](../Page/浪川大輔.md "wikilink")（飾演 米卡傑）
+  - 配信網站 - [Animate
+    TV](https://zh.wikipedia.org/wiki/Animate_Times "wikilink")、Marine
+    ENTERTAINMENT
+  - 配信期間 - 2009年1月8日 - 2010年2月18日（隔週星期四更新）
+
+### 來賓
+
+  - [千葉進歩](https://zh.wikipedia.org/wiki/千葉進歩 "wikilink")（飾演
+    卡斯托魯）第3、17、22回
+  - [速水奨](https://zh.wikipedia.org/wiki/速水奨 "wikilink")（飾演 阿亞奈米）第4、15回
+  - [宮田幸季](../Page/宮田幸季.md "wikilink")（飾演 拉普拉多魯）第6、22回
+  - [福山潤](../Page/福山潤.md "wikilink")（飾演 哈克連·歐克）第8、9、11、26回
+  - [諏訪部順一](../Page/諏訪部順一.md "wikilink")（飾演 弗拉烏）第10回
+  - [斋藤千和](../Page/斋藤千和.md "wikilink")（飾演 黑百合）第13、21、25回
+  - [濱田賢二](../Page/濱田賢二.md "wikilink")（飾演 休加）第16、20回
+  - [羽多野渉](https://zh.wikipedia.org/wiki/羽多野渉 "wikilink")（飾演 哈魯塞）第19、28回
+  - [桐井大介](../Page/桐井大介.md "wikilink")（飾演 巴斯迪恩）第24回
+  - [岸尾大輔](../Page/岸尾大輔.md "wikilink")（飾演 柯納茲·華倫）第29回
+
+## 廣播劇CD
+
+<table>
+<thead>
+<tr class="header">
+<th><p>標題</p></th>
+<th><p>發售日期</p></th>
+<th><p>商品條碼</p></th>
+<th><p>編號</p></th>
+<th><p>發行商</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p><a href="../Page/Comic_ZERO-SUM.md" title="wikilink">Comic ZERO-SUM</a> 2006年12月號 - 2007年1月號雜誌上販售</p></td>
+<td><p>ZCD027</p></td>
+<td><p>ZERO-0026</p></td>
+<td><p>一迅社</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>Comic ZERO-SUM 2009年2月號 - 3月號雜誌上販售</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>Comic ZERO-SUM 2009年5月號附錄</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>Comic ZERO-SUM 2009年7月號雜誌上販売</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>2009年8月<a href="../Page/Comic_Market.md" title="wikilink">Comic Market</a> 76先行發售</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>Comic ZERO-SUM 2012年2月號 - 3月號雜誌上販售</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>The Day of Retribution</p></td>
+<td><p>2009年6月24日</p></td>
+<td><p>-</p></td>
+<td><p>MESC-0012</p></td>
+<td><p>Marine ENTERTAINMENT</p></td>
+</tr>
+<tr class="even">
+<td><p>The Top News Headline</p></td>
+<td><p>2009年10月23日</p></td>
+<td><p>-</p></td>
+<td><p>MESC-0019</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 柏青哥
+
+由西陣進行發行，機台名稱《CR 07-GHOST》。
+
+## 註釋
+
 ## 外部連結
 
-  - [一迅社官網](http://www.ichijinsha.co.jp/)
+  - [作者自設網站](https://web.archive.org/web/20070819154634/http://www.yukimachi.com/)
 
-  - [動畫官方網站](http://07-ghost.net/index.html)
+  -
+  - [電視動畫「07-GHOST」官方網站](http://07-ghost.net/index.html)
 
-  - [作者自設網站snowblind](https://web.archive.org/web/20070819154634/http://www.yukimachi.com/)
+  - [07-GHOST the world（Marine
+    Entertainment）](http://www.marine-e.co.jp/sakuhin/07-ghost/)
 
-  - [巴哈姆特07-GHOST神幻拍檔哈啦板](http://forum.gamer.com.tw/A.php?bsn=41157)
-
-  - [長鴻出版社](http://www.egmanga.com.tw/)
+  -
+  - [CR 07-GHOST](http://www.nishijin.co.jp/jp/machine/2011/07-GHOST/) -
+    柏青哥官方網站（西陣）。
 
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
 [Category:2009年UHF動畫](https://zh.wikipedia.org/wiki/Category:2009年UHF動畫 "wikilink")
 [Category:Comic_ZERO-SUM](https://zh.wikipedia.org/wiki/Category:Comic_ZERO-SUM "wikilink")
+
+1.
+2.

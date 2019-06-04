@@ -306,6 +306,8 @@ SCAR-H（Mk 17）自動步槍為其基礎改進而成的[精確射手步槍](../
   - 2008年—《[-{zh-hans:战地：叛逆连队;
     zh-hant:戰地風雲：惡名昭彰;}-](../Page/战地：叛逆连队.md "wikilink")》（Battlefield:
     Bad Company）：型號為SCAR L近戰型。
+  - 2009年—《[惡靈勢力2](../Page/求生之路2.md "wikilink")》（Left4 Dead2）：型號為SCAR
+    L，命名為「戰鬥步槍」，奇怪的具備[三發點放模式和造型上使用](../Page/三發點放.md "wikilink")30發[彈匣但載彈量為](../Page/彈匣.md "wikilink")60發。
   - 2009年—《[-{zh-cn:使命召唤：现代战争2; zh-tw:決勝時刻：現代戰爭2;
     zh-hk:使命召喚：現代戰爭2}-](../Page/決勝時刻：現代戰爭2.md "wikilink")》（Call
     of Duty: Modern Warfare 2）：型號為第三代SCAR
@@ -353,6 +355,9 @@ SCAR-H（Mk 17）自動步槍為其基礎改進而成的[精確射手步槍](../
       - SCAR PDW命名為“SCAR-L
         PDW”，银灰色槍身，奇怪的归类为冲锋枪。為工程兵專用武器，使用30發[彈匣](../Page/彈匣.md "wikilink")，抽奖获得，并可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器、[冲锋枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[冲锋枪刺刀](../Page/刺刀.md "wikilink")）、战术导轨配件（MAGPUL弹匣握把、[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")、[冲锋枪握把](https://zh.wikipedia.org/wiki/宽型前握把 "wikilink")、冲锋枪握把架）以及瞄准镜（[EoTech
         553全息瞄准镜](https://zh.wikipedia.org/wiki/全息瞄准镜 "wikilink")、绿点全息瞄准镜、[红点瞄准镜](https://zh.wikipedia.org/wiki/红点瞄准镜 "wikilink")、冲锋枪普通瞄准镜、冲锋枪高级瞄准镜、[冲锋枪专家瞄准镜](https://zh.wikipedia.org/wiki/Leupold_Mark_4_CQ/T光学瞄准镜 "wikilink")），默认自带MAGPUL弹匣握把。，拥有黄金版本，强化威力、射程与载弹量。
+  - 2013年—《[-{zh-hans:反恐精英;zh-hant:絕對武力}-Online
+    2](https://zh.wikipedia.org/wiki/絕對武力Online2 "wikilink")》（Counter-Strike
+    Online 2）：型號為SCAR L和SCAR H，黑色槍身，分别命名為“SCAR-L”和“SCAR-H”。
   - 2013年—《[-{zh-cn:战地4;
     zh-tw:戰地風雲4}-](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：型號為第三代SCAR H，沙色槍身，具16吋及20吋[槍管兩種版本](../Page/槍管.md "wikilink")：
@@ -363,7 +368,7 @@ SCAR-H（Mk 17）自動步槍為其基礎改進而成的[精確射手步槍](../
         Recker）所使用。聯機模式中為所有兵種的可解鎖武器。
   - 2013年—《[-{zh-hans:收获日;
     zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》（Payday
-    2）：型號為SCAR-H，沙色槍身，命名為「Eagle Heavy Rifle」。
+    2）：型號為SCAR-H（預設），沙色槍身，命名為「Eagle Heavy Rifle」，可在黑市購買後並另外花費改裝。
   - 2013年—《[-{zh-cn:使命召唤Online; zh-tw:決勝時刻Online;
     zh-hk:使命召喚Online}-](../Page/使命召唤Online.md "wikilink")》（Call
     of Duty Online）：型號為第三代SCAR H近戰型，沙色槍身，命名為「MK

@@ -357,7 +357,7 @@ Japan所舉辦](../Page/MTV_Japan.md "wikilink")。
 <tr class="odd">
 <td><p>第15屆</p></td>
 <td><p>2016年</p></td>
-<td><p><a href="../Page/EXILE_THE_SECOND.md" title="wikilink">EXILE THE SECOND</a>《Shut up</p></td>
+<td><p><a href="../Page/EXILE_THE_SECOND.md" title="wikilink">EXILE THE SECOND</a>《[[Shut_up</p></td>
 </tr>
 <tr class="even">
 <td><p>第16屆</p></td>

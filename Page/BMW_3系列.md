@@ -15,12 +15,12 @@
 
   - \- (1975–1983) 3系列
 
-  - \- (1984–1994) 3系列
+  - \- (1982–1994) 3系列
 
-  - \- (1992–1998) 3系列
+  - \- (1990–2000) 3系列
 
   - [BMW E46](https://zh.wikipedia.org/wiki/BMW_E46 "wikilink") -
-    (1999–2006) 3系列
+    (1997–2006) 3系列
 
   - \- (2005–) 3系列Sedan
 
@@ -31,6 +31,9 @@
   - \- (2007-) 3系列Convertible
 
   - [BMW F30](../Page/BMW_F30.md "wikilink") - (2012–) 3系列Sedan
+
+  - [BMW G20](https://zh.wikipedia.org/wiki/BMW_G20 "wikilink") -
+    (2018–) 3系列Sedan
 
 ## E21，1975-1983
 

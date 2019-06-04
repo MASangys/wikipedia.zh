@@ -1006,9 +1006,9 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 <td><p>前鋒/中鋒</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鳳凰城太陽" title="wikilink">鳳凰城太陽</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/亞利桑那大學" title="wikilink">亞利桑那大學</a></p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
+<td><p>16.3</p></td>
+<td><p>10.3</p></td>
+<td><p>1.8</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1017,7 +1017,7 @@ NBA选秀状元随后獲得[NBA最有價值球員獎的球员有](https://zh.wik
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐奧良鵜鶘" title="wikilink">紐奧良鹈鹕</a></p></td>
 <td></td>
 <td><p>—</p></td>
 <td><p>—</p></td>

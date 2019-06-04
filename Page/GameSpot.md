@@ -343,8 +343,7 @@ servers），用作與朋友聊天、和世界各地的玩家玩各種遊戲、�
 
 49.
 
-50. [Gamespot staffer Alex Navarro quits in wake of Gerstmann-gate -
-    Joystiq](http://www.joystiq.com/2008/01/14/gamespot-staffer-alex-navarro-quits-in-wake-of-gerstmann-gate/)
+50.
 
 51. [Gamespot exodus continues: Ryan Davis to leave -
     Joystiq](http://www.joystiq.com/2008/02/04/gamespot-exodus-continues-ryan-davis-to-leave/)

@@ -28,6 +28,6 @@ Firefox 也可以使用。\[1\]KGet是KDE Network的一部分，並曾在Tux 雜
 [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
 [Category:下載工具](https://zh.wikipedia.org/wiki/Category:下載工具 "wikilink")
 
-1.  <http://fosswire.com/2008/07/23/using-kget-download-manager-with-firefox/>
+1.
 2.
-3.  <http://www.freesoftwaremagazine.com/articles/managing_downloads_with_kget>
+3.

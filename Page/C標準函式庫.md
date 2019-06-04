@@ -68,7 +68,7 @@ Addendum 1*
     Library](http://www.infosys.utas.edu.au/info/documentation/C/CStdLib.html)：A
     detailed description of the header files
   - [The C Library Reference
-    Guide](http://www.acm.uiuc.edu/webmonkeys/book/c_guide/index.html)
+    Guide](https://web.archive.org/web/20150118141700/http://www.acm.uiuc.edu/webmonkeys/book/c_guide/index.html)
   - Microsoft [C Run-Time
     Libraries](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vclib/html/_crt_c_run.2d.time_libraries.asp)
     on MSDN

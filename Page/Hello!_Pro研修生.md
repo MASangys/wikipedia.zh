@@ -1,7 +1,7 @@
 **Hello\! Pro研修生**（****）舊稱Hello\! Pro
 EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，為主要成員以外的「研修生」。
 
-目前Hello\! Pro研修生共15人；Hello\! Pro研修生北海道共6人。
+目前Hello\! Pro研修生共13人；Hello\! Pro研修生北海道共5人。
 在[早安家族冬](../Page/早安家族.md "wikilink")、夏演唱會，或者各團體的演唱會中擔任伴舞。
 
 以「正式出道」為目標，進行一連串歌舞表演的研習及訓練。
@@ -48,7 +48,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td><p>愛知縣</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>150</p></td>
 <td><p>A</p></td>
 <td></td>
 <td></td>
@@ -63,7 +63,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td><p>愛知縣</p></td>
 <td></td>
 <td></td>
-<td><p>147</p></td>
+<td><p>149</p></td>
 <td><p>O</p></td>
 <td></td>
 <td><p>2017實力公開診斷個性賞</p></td>
@@ -76,10 +76,10 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td><p>大阪府</p></td>
 <td></td>
 <td></td>
-<td><p>150</p></td>
+<td><p>156</p></td>
 <td><p>不明</p></td>
 <td></td>
-<td></td>
+<td><p>2019實力公開診斷最佳表演賞</p></td>
 </tr>
 <tr class="odd">
 <td><p>山田 苺</p></td>
@@ -87,7 +87,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td><p>静岡縣</p></td>
 <td></td>
 <td></td>
-<td><p>156.3</p></td>
+<td><p>166</p></td>
 <td><p>O</p></td>
 <td></td>
 <td></td>
@@ -100,7 +100,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td><p>石川縣</p></td>
 <td></td>
 <td></td>
-<td><p>157</p></td>
+<td><p>161</p></td>
 <td><p>A</p></td>
 <td></td>
 <td></td>
@@ -115,7 +115,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td><p>長野縣</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>153</p></td>
 <td><p>不明</p></td>
 <td></td>
 <td><p>前地方偶像</p></td>
@@ -126,7 +126,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td><p>千葉縣</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>155</p></td>
 <td><p>A</p></td>
 <td></td>
 <td><p>前地方偶像</p></td>
@@ -139,7 +139,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td><p>千葉縣</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>149</p></td>
 <td><p>O</p></td>
 <td></td>
 <td><p>前讀者模特兒</p></td>
@@ -152,7 +152,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td><p>東京都</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>157</p></td>
 <td><p>O</p></td>
 <td></td>
 <td><p>前舞台劇演員</p></td>
@@ -168,7 +168,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td></td>
 <td><p>A</p></td>
 <td></td>
-<td></td>
+<td><p>2019實力公開診斷療癒賞</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -223,7 +223,6 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <th><p>加入日期</p></th>
 <th><p>姓名</p></th>
 <th><p>平假名</p></th>
-<th><p>出身地</p></th>
 <th><p>生日</p></th>
 <th><p>年齡</p></th>
 <th><p>血型</p></th>
@@ -240,7 +239,6 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td></td>
 <td><p>AB型</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>石栗奏美</p></td>
@@ -248,8 +246,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td></td>
 <td></td>
 <td><p>A型</p></td>
-<td><p>2018實力公開診斷審查員賞</p></td>
-<td></td>
+<td><p>2018實力公開診斷審查員賞 2019實力公開診斷歌唱賞</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -259,8 +256,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td></td>
 <td></td>
 <td><p>A型</p></td>
-<td></td>
-<td></td>
+<td><p>*2019年1月起活動休止</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -270,8 +266,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td></td>
 <td></td>
 <td><p>A型</p></td>
-<td></td>
-<td></td>
+<td><p>2019實力公開診斷舞蹈賞</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -281,13 +276,11 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td></td>
 <td></td>
 <td><p>B型</p></td>
-<td><p>2018實力公開診斷歌唱賞</p></td>
-<td></td>
+<td><p>2018實力公開診斷歌唱賞 2019實力公開診斷個性賞</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -351,7 +344,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td><p>京都府</p></td>
 <td></td>
 <td></td>
-<td><p>149</p></td>
+<td><p>152</p></td>
 <td><p>B</p></td>
 <td><p>2018實力公開診斷個性賞。26期研修生。</p></td>
 <td></td>
@@ -362,7 +355,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td><p>兵庫縣</p></td>
 <td></td>
 <td></td>
-<td><p>159</p></td>
+<td><p>160</p></td>
 <td><p>O</p></td>
 <td><p>27期研修生</p></td>
 <td></td>
@@ -425,7 +418,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 <td><p>埼玉縣</p></td>
 <td></td>
 <td></td>
-<td><p>161</p></td>
+<td><p>168</p></td>
 <td><p>A</p></td>
 <td><p>2017、2018實力公開診斷舞蹈賞。24期研修生。</p></td>
 </tr>
@@ -808,17 +801,17 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 ## 特色
 
   - 每年3、6、9、12月皆會舉辦研修生公演，而近年來的公演場次與地點也增加許多。
-  - 在近期，亦有部分研修生成員會參與演出H\!P中各團體的演唱會或活動。
+  - 近年來研修生成員會參與演出H\!P中各團體的演唱會或活動。
   - 「ハロプロ研修生 発表会
     2012～12月の生タマゴShow\!～」中首次演唱專屬單曲《彼女になりたいっ！！！》。於10月27日[S/mileage](https://zh.wikipedia.org/wiki/S/mileage "wikilink")、28日[早安少女組。演唱會公演中販售](../Page/早安少女組。.md "wikilink")\[4\]。
   - 2013年5月5日，「ハロプロ研修生 発表会2013
     ～春の公開実力診断テスト～」首次公開並開放歌迷進場觀看與投票\[5\]。往後每年亦是。
-  - 會從研修生中成立新團，如2009年成立[S/mileage](https://zh.wikipedia.org/wiki/S/mileage "wikilink")、2013年成立[Juice=Juice](https://zh.wikipedia.org/wiki/Juice=Juice "wikilink")、2015年成立的\[\[Kobushi
-    Factory|玉蘭花
-
-`Factory]]及`[`山茶花``
- ``Factory`](../Page/Tsubaki_Factory.md "wikilink")`。或是由研修生中參與`[`早安少女組。與`](../Page/早安少女組。.md "wikilink")[`ANGERME`](../Page/ANGERME.md "wikilink")`(原S/mileage)的徵選，而成為正式成員。`
-
+  - 研修生會藉由參與[早安少女組。](../Page/早安少女組。.md "wikilink")、[ANGERME](../Page/ANGERME.md "wikilink")(原S/mileage)的徵選，而升格為正式成員，或是從研修生中成立新團體，如：
+      - 2009年成立[S/mileage](https://zh.wikipedia.org/wiki/S/mileage "wikilink")
+      - 2013年成立[Juice=Juice](https://zh.wikipedia.org/wiki/Juice=Juice "wikilink")
+      - 2015年成立的[玉蘭花Factory及](../Page/Kobushi_Factory.md "wikilink")[山茶花
+        Factory](../Page/Tsubaki_Factory.md "wikilink")
+      - 2018年成立[BEYOOOOONDS](../Page/BEYOOOOONDS.md "wikilink")
   - 近年除了開放的甄選外，也會將H\!P團中參加新成員選拔而落選的人員招攬至研修生中。
 
 ## 作品
@@ -863,7 +856,7 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
   - [ハロプロ研修生官方頁面](http://www.helloproject.com/helloprokenshusei/)
 
   -
-[ハロプロ研修生北海道官方頁面](http://www.helloproject.com/helloprokenshuseihokkaido/)
+  - [ハロプロ研修生北海道官方頁面](http://www.helloproject.com/helloprokenshuseihokkaido/)
 
 ## 注釋
 
@@ -872,12 +865,11 @@ EGG\[1\]（）。[早安家族的成員](../Page/早安家族.md "wikilink")，�
 
 1.  「」正規的官方英文譯法主要有兩種，分別是「Hello\! pro EGG」和「Hello\! Pro
     EGG」，但前者較常用，可參考演唱會DVD結尾的CAST。
-2.  出自歷年月刊BOMB，ハロプロ研修生パーフェクト名鑑。
+2.  出自歷年月刊BOMB，ハロプロ研修生パーフェクト名鑑及ハロ！ステ 研修生紹介Movie。
 3.  官方並未指名，但在研修生公演中是負責帶頭喊話的人，亦是當中最資深者。
 4.  [ハロプロ研修生 インディーズ
     Single「彼女になりたいっ\!\!\!」販売のお知らせ](http://www.helloproject.com/news/1210261500_egg.html)
 
-5.  [●公演情報 ハロプロ研修生 発表会2013
-    ～春の公開実力診断テスト～](http://www.up-fc.jp/helloproject/member/egg/recital_2013spring.php)
+5.
 6.  從中選出五名成員演唱，分別是宮本佳林、田辺奈菜美、浜浦彩乃、田口夏実、大塚愛菜。
 7.  ハロプロ研修生 feat. Juice=Juice，同時亦是Juice=Juice第三張地下單曲。

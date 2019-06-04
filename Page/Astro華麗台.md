@@ -10,7 +10,7 @@
 
 ## 現時播映的黃金時段節目
 
-  - 2019年4月28日 - 2019年5月4日
+  - 2019年5月18日 - 2019年5月24日
 
 <table style="width:10%;">
 <colgroup>
@@ -26,20 +26,20 @@
 <thead>
 <tr class="header">
 <th></th>
-<th><p>星期一（29日）</p></th>
-<th><p>星期二（30日）</p></th>
-<th><p>星期三（01日）</p></th>
-<th><p>星期四（02日）</p></th>
-<th><p>星期五（03日）</p></th>
-<th><p>星期六（04日）</p></th>
-<th><p>星期日（28日）</p></th>
+<th><p>星期一（20日）</p></th>
+<th><p>星期二（21日）</p></th>
+<th><p>星期三（22日）</p></th>
+<th><p>星期四（23日）</p></th>
+<th><p>星期五（24日）</p></th>
+<th><p>星期六（18日）</p></th>
+<th><p>星期日（19日）</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>6:00pm</p></td>
 <td><p><a href="../Page/流行都市.md" title="wikilink">流行都市</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/無間道_(網絡劇)" title="wikilink">無間道</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/宮心計2深宮計" title="wikilink">宮心計2深宮計</a><br />
 <small>(3集連播4:00pm-7:00pm)</small></p></td>
 <td></td>
 <td></td>
@@ -50,7 +50,7 @@
 <tr class="even">
 <td><p>7:00pm</p></td>
 <td><p><a href="../Page/衝上雲霄II.md" title="wikilink">衝上雲霄II</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/流行經典50年" title="wikilink">流行經典50年</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美女廚房_(第三輯)" title="wikilink">美女廚房</a></p></td>
 <td><p><a href="../Page/星期二檔案.md" title="wikilink">星期日檔案</a></p></td>
 <td></td>
 <td></td>
@@ -59,7 +59,8 @@
 </tr>
 <tr class="odd">
 <td><p>7:30pm</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/第二人生" title="wikilink">第二人生</a></p></td>
+<td><p><a href="../Page/學是學非.md" title="wikilink">學是學非</a><br />
+<small>（第六季）</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -72,7 +73,8 @@
 <td><p><a href="../Page/愛·回家之開心速遞.md" title="wikilink">愛·回家之開心速遞</a><br />
 <small>(與TVB翡翠台同步播出)</small></p></td>
 <td><p><a href="../Page/娛樂大家_(無綫電視節目).md" title="wikilink">娛樂大家</a></p></td>
-<td></td>
+<td><p><a href="../Page/周遊東京.md" title="wikilink">周遊東京</a><br />
+<small>（第二季）</small></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -80,9 +82,9 @@
 </tr>
 <tr class="odd">
 <td><p>8:30pm</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/誇世代" title="wikilink">誇世代</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/平安谷之詭谷傳說" title="wikilink">平安谷之詭谷傳說</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/:yue:深夜美食團" title="wikilink">深夜美食團</a></p></td>
+<td><p>旅神ON CALL</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -91,7 +93,7 @@
 <tr class="even">
 <td><p>9:00pm</p></td>
 <td><p><a href="../Page/女人四十_(無綫電視節目).md" title="wikilink">女人四十</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/:yue:我們香港變幻時" title="wikilink">我們香港變幻時</a></p></td>
+<td><p><a href="../Page/機動部隊2019.md" title="wikilink">機動部隊2019</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -101,18 +103,18 @@
 <tr class="odd">
 <td><p>9:30pm</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/溏心風暴3" title="wikilink">溏心風暴3</a></p></td>
-<td><p><a href="../Page/廉政行動2019.md" title="wikilink">廉政行動2019</a><br />
-<small>製作特輯</small></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BB來了" title="wikilink">BB來了</a></p></td>
+<td><p><a href="../Page/廉政行動2019.md" title="wikilink">廉政行動2019</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/:yue:不老傳說" title="wikilink">不老傳說</a></p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>10:00pm</p></td>
-<td><p><a href="../Page/昇龍道攻略.md" title="wikilink">昇龍道攻略</a></p></td>
-<td><p><a href="../Page/一帶一路一狀元.md" title="wikilink">一帶一路一狀元</a></p></td>
+<td><p><a href="../Page/長命百二歲.md" title="wikilink">長命百二歲</a><br />
+<small>（第二季）</small></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -121,10 +123,11 @@
 </tr>
 <tr class="odd">
 <td><p>10:30pm</p></td>
-<td><p>走佬去馬拉</p></td>
+<td><p><a href="../Page/東張西望.md" title="wikilink">東張西望</a></p></td>
 <td><p><a href="../Page/愛·回家之開心速遞.md" title="wikilink">愛·回家之開心速遞</a><br />
 <small>(5集重播10:30pm-1:00am)</small></p></td>
-<td><p><a href="../Page/林子祥.md" title="wikilink">尋找阿Lam的那些年</a></p></td>
+<td><p><small>影匯萬花筒：</small><br />
+小生夢驚魂</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -221,12 +224,11 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <td><p><strong>網頁</strong></p></td>
 </tr>
 <tr class="even">
-<td><p>走佬去馬拉</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/杜汶澤" title="wikilink">杜汶澤</a>、黃潔琪、<a href="https://zh.wikipedia.org/wiki/黃明志" title="wikilink">黃明志</a>（特別嘉賓）</p></td>
-<td><p>2019年4月29日</p></td>
-<td><p>由杜汶澤擔任主持，Astro華麗台與香港<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a> 聯合製作的旅遊真人騷節目。杜汶澤在2018年12月來馬近半個月，赴檳城、怡保及雪隆一帶進行節目拍攝。節目中邀來馬來西亞紅人黃明志，與杜汶澤一起錄音翻唱粵語歌以及拍攝MV。<br />
-節目共15集，於2019年4月29日，星期一至五10:30PM與香港<a href="../Page/ViuTV.md" title="wikilink">ViuTV同日播出</a>（香港播出時間為星期一至五11:00PM）。<br />
-同類節目：<a href="../Page/走佬去臺灣.md" title="wikilink">走佬去臺灣</a></p></td>
+<td><p>旅神ON CALL</p></td>
+<td><p>彭嘉伊、張吟、劉愷欣、林震前</p></td>
+<td><p>2019年5月19日</p></td>
+<td><p>《ASTRO國際華裔小姐2018》三甲彭嘉伊、張吟和劉愷欣3位女神量身定做的旅遊節目，與嘉賓團友林震前一起介紹韓國旅遊景點<br />
+節目於2019年5月19日，星期日8:30PM播出</p></td>
 <td><p><a href="https://web.facebook.com/WahLaiToi/">網頁</a></p></td>
 </tr>
 <tr class="odd">
@@ -676,6 +678,15 @@ AOD我的最爱颁奖典礼》被由[TVB娱乐新闻台主办](https://zh.wikipe
 <td><p><a href="https://web.facebook.com/WahLaiToi/">網頁</a></p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/:yue:走佬去馬拉" title="wikilink">走佬去馬拉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/杜汶澤" title="wikilink">杜汶澤</a></p></td>
+<td><p>2019年</p></td>
+<td><p>由杜汶澤擔任主持，Astro華麗台與香港<a href="../Page/ViuTV.md" title="wikilink">ViuTV</a> 聯合製作的旅遊真人騷節目。杜汶澤在2018年12月來馬近半個月，赴檳城、怡保及雪隆一帶進行節目拍攝。節目中邀來馬來西亞紅人黃明志，與杜汶澤一起錄音翻唱粵語歌以及拍攝MV。<br />
+節目共15集，於2019年4月29日，星期一至五10:30PM與香港<a href="../Page/ViuTV.md" title="wikilink">ViuTV同日播出</a>（香港播出時間為星期一至五11:00PM）。<br />
+同類節目：<a href="../Page/走佬去臺灣.md" title="wikilink">走佬去臺灣</a></p></td>
+<td><p><a href="https://web.facebook.com/WahLaiToi/">網頁</a></p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

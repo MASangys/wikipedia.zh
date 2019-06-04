@@ -472,7 +472,7 @@ PC兼容机上](../Page/IBM_PC兼容机.md "wikilink")[BIOS的功能](../Page/BI
   - [Embedded BIOS User's
     Manual](ftp://ftp.embeddedarm.com/old/saved-downloads-manuals/EBIOS-UM.PDF)
   - [PhoenixBIOS 4.0 User's
-    Manual](http://www.esapcsolutions.com/ecom/drawings/PhoenixBIOS4_rev6UserMan.pdf)
+    Manual](https://web.archive.org/web/20120617084000/http://www.esapcsolutions.com/ecom/drawings/PhoenixBIOS4_rev6UserMan.pdf)
   - [HTML version of Ralf Brown Interrupt
     List](http://www.ctyme.com/rbrown.htm)
   - *IBM Personal System/2 and Personal Computer BIOS Interface

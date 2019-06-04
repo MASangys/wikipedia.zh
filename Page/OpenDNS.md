@@ -47,10 +47,10 @@ World](../Page/PC_World.md "wikilink")\[14\]。2014年出于商业服务上的�
   - **`208.67.222.220`** （`Resolver3.OpenDNS.com`）
   - **`208.67.220.222`** （`Resolver4.OpenDNS.com`）
 
-以下为提供[IPv6的DNS服务](../Page/IPv6.md "wikilink")，处于实验性质：
+以下为提供[IPv6的DNS服务](../Page/IPv6.md "wikilink")：[1](https://www.opendns.com/about/innovations/ipv6/)
 
-  - **`2620:0:ccc::2`**
-  - **`2620:0:ccd::2`**
+  - **`2620:119:35::35`**
+  - **`2620:119:53::53`**
 
 ## 参考资料
 
@@ -60,6 +60,7 @@ World](../Page/PC_World.md "wikilink")\[14\]。2014年出于商业服务上的�
   - [ComputerWorld
     article](https://web.archive.org/web/20090416151222/http://www.computerworld.com/action/article.do?command=viewArticleBasic&articleId=9019951)，*Hack
     DNS for lightning-fast Web browsing*
+  - <https://www.opendns.com/about/innovations/ipv6/>
 
 [Category:美国互联网公司](https://zh.wikipedia.org/wiki/Category:美国互联网公司 "wikilink")
 [Category:加利福尼亞州公司](https://zh.wikipedia.org/wiki/Category:加利福尼亞州公司 "wikilink")

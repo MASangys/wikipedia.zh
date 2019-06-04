@@ -49,7 +49,7 @@ P90](../Page/FN_P90衝鋒槍.md "wikilink")、[以色列的](../Page/以色列.m
 
 VHS-D步槍總長度是765毫米，連一根500毫米的[槍管](../Page/槍管.md "wikilink")，並且裝有，並且可以發射[22毫米](../Page/22毫米槍榴彈.md "wikilink")[槍榴彈](../Page/步槍用榴彈.md "wikilink")；VHS-K[卡賓槍總長是](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")665毫米，連一根410毫米的槍管，並且取消了刺刀座。這枝步槍亦大量使用新型[聚合物製成的部件](../Page/聚合物.md "wikilink")，令各種報告都指出本步槍的整體重量是在2.3公斤\[19\]至3公斤之間\[20\]（以空槍計算）。
 
-VHS步槍採用了[長行程活塞氣動式操作系統及](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")[滾轉式槍機閉鎖機構](../Page/滾轉式槍機.md "wikilink")。其[快慢機設置在](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")[扳機護圈內部](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，將快慢機撥桿設置向左時為全自動模式，設置向右時為半自動模式，設置居中時為保險模式。
+VHS步槍採用了[長行程活塞氣動式操作系統及](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")[轉拴式槍栓閉鎖機構](../Page/轉拴式槍栓.md "wikilink")。其[快慢機設置在](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")[扳機護圈內部](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，將快慢機撥桿設置向左時為全自動模式，設置向右時為半自動模式，設置居中時為保險模式。
 
 正如VHS步槍的犢牛式设计，[彈匣插座就在](https://zh.wikipedia.org/wiki/直向插槽 "wikilink")之後，其樣式為[長方形](../Page/矩形.md "wikilink")，[彈匣扣／釋放按鈕設置在其後部](../Page/彈匣.md "wikilink")。VHS的拉機柄就藏在[提把之下](https://zh.wikipedia.org/wiki/提把 "wikilink")，設計現成和[HK
 G36一樣可左右轉動以便從左右方向拉動槍機](../Page/HK_G36突擊步槍.md "wikilink")。其[拋殼口外圍帶有連著的拋殼擋板](https://zh.wikipedia.org/wiki/拋殼口 "wikilink")，分別設於上、下和後三個方向，以防止其拋殼方向不穩定。而其為從[槍托底部到提把後部的通貫式設計](../Page/槍托.md "wikilink")。
@@ -115,11 +115,11 @@ VHS-2意為「第2代VHS突擊步槍」。新武器是VHS步槍的改進版本�
 
       - [佩什梅格](../Page/佩什梅格.md "wikilink")
 
+  -   - 特警單位
+
   - \[32\]
 
   -   - 多哥陸軍
-
-  - ：出於測試用途而步槍的大量購入該步槍。\[33\]
 
 ## 參見
 
@@ -293,5 +293,3 @@ VHS-2意為「第2代VHS突擊步槍」。新武器是VHS步槍的改進版本�
 31.
 32. [Croatian VHS-D1 rifle in
     Syria](http://armamentresearch.com/croatian-vhs-d1-rifle-in-syria/)
-
-33. <http://www.thefirearmblog.com/blog/2015/02/13/croatian-vhs-2-enter-french-rifle-competition/>

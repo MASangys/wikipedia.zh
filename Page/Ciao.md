@@ -1,7 +1,4 @@
-《**Ciao**》（）是[小學館發行的少女](../Page/小學館.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。1977
-年9月3日創刊。
-
-《Ciao》是日本三大少女漫畫雜誌之一，主要競爭對手是《[Ribon](../Page/Ribon.md "wikilink")》和《[Nakayoshi](../Page/Nakayoshi.md "wikilink")》。
+《**Ciao**》（）是[小學館發行的少女](../Page/小學館.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。1977年9月3日創刊。《Ciao》是日本三大少女漫畫雜誌之一，主要競爭對手是《[Ribon](../Page/Ribon.md "wikilink")》和《[Nakayoshi](../Page/Nakayoshi.md "wikilink")》。
 
 ## 目前連載作品
 

@@ -29,6 +29,8 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")。台灣・香港中文版
         Kirara](../Page/Manga_Time_Kirara.md "wikilink")》2011年5月號－2012年7月號）
       - K-ON！輕音部 高校篇，原名《》（《[Manga Time Kirara
         Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2011年6月號－2012年8月號）
+  - [K-ON！Shuffle](../Page/K-ON！輕音部.md "wikilink") ，原名《》（《Manga Time
+    Kirara》2018年8月號－連載中）
 
 ### 同人畫冊
 

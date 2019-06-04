@@ -84,6 +84,8 @@ N軌的[EF81電力機車及](https://zh.wikipedia.org/wiki/日本國鐵EF81型�
     Trains](https://zh.wikipedia.org/wiki/Scale_Trains "wikilink")
   - [Atlas](https://zh.wikipedia.org/wiki/Atlas "wikilink")
   - [Fox Valley](https://zh.wikipedia.org/wiki/Fox_Valley "wikilink")
+  - [TRANE
+    Co.,Ltd.日本火車巴士玩具製造商](https://zh.wikipedia.org/wiki/TRANE_Co.,Ltd. "wikilink")
 
 ## 外部連結
 

@@ -872,7 +872,7 @@ Y Pro的健康管理專員，所以常常利用舉啞鈴檢查手部機件<br />
 1.  [游莨維於11月15日下午3時48分發出之微博](http://weibo.com/masterjoe?topnav=1&wvr=5&topsug=1#!/p/1005051733729322/weibo?from=page_100505&mod=TAB#place)
 2.  [「Master
     Joe」游莨維升呢為人父　倒數3個月迎接BB](http://www.singtao.ca/toronto/1644469/2017-04-01/post-%E3%80%8Cmaster-joe%E3%80%8D%E6%B8%B8%E8%8E%A8%E7%B6%AD%E5%8D%87%E5%91%A2%E7%82%BA%E4%BA%BA%E7%88%B6%E3%80%80%E5%80%92%E6%95%B83%E5%80%8B%E6%9C%88%E8%BF%8E%E6%8E%A5bb/?variant=zh-hk?fromG=1)
-3.  [游莨維工潮表態未遭雪藏](http://news.singtao.ca/toronto/2013-04-07/entertainment1365314129d4437591.html)
+3.
 4.  本集於2012年6月16日播出，但由於播映[神舟九號升空的相關新聞](https://zh.wikipedia.org/wiki/神舟九號 "wikilink")，本集順延至16:50-17:20播出。
 5.  本集於2012年8月11日播出，但由於16:00-17:35播映《全港歡迎[神舟九號載人航天代表團大匯演](https://zh.wikipedia.org/wiki/神舟九號 "wikilink")》，本集提早至13:15-13:45播出。
 6.  本集於2013年8月10日播出，但由於13:15-17:30播映《屈臣氏FIVB世界女排大獎賽 -

@@ -67,6 +67,4 @@ Moni）和[田村直美](../Page/田村直美.md "wikilink")。
 
   - [Up-Front Works 官方網頁](http://www.up-front-works.jp)
 
-[ja:アップフロントワークス](https://zh.wikipedia.org/wiki/ja:アップフロントワークス "wikilink")
-
 [Category:日本唱片公司](https://zh.wikipedia.org/wiki/Category:日本唱片公司 "wikilink")

@@ -46,7 +46,4 @@ A75所取代](https://zh.wikipedia.org/wiki/Canon_PowerShot_A75 "wikilink")，A7
   - [PowerShot
     A70详细参数](https://web.archive.org/web/20070613135116/http://www.canon.com/camera-museum/camera/digital/data/2003_ps-a70_s.html)
 
-[en:Canon PowerShot
-A70](https://zh.wikipedia.org/wiki/en:Canon_PowerShot_A70 "wikilink")
-
 [Category:佳能相機](https://zh.wikipedia.org/wiki/Category:佳能相機 "wikilink")

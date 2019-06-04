@@ -26,7 +26,7 @@ Warehouse）买的由富士康深圳工厂生产的一部iphone手机中有这�
 
 [Category:IPhone](https://zh.wikipedia.org/wiki/Category:IPhone "wikilink")
 [Category:鴻海集團](https://zh.wikipedia.org/wiki/Category:鴻海集團 "wikilink")
-[Category:中国大陆网络红人](https://zh.wikipedia.org/wiki/Category:中国大陆网络红人 "wikilink")
+[Category:中國網路紅人](https://zh.wikipedia.org/wiki/Category:中國網路紅人 "wikilink")
 
 1.
 2.

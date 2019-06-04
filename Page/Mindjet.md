@@ -85,7 +85,7 @@ Connect。2012年9月，公司将所有的软件合并成一个单一的产品�
 [Category:思维导图软件](https://zh.wikipedia.org/wiki/Category:思维导图软件 "wikilink")
 
 1.
-2.  <http://www.mindmanager.cc/yingyong.html> MindManager中文官方网站
+2.  <http://www.mindmanager.cc/yingyong.html>  MindManager中文官方网站
 3.
 4.
 5.

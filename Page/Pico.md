@@ -9,7 +9,7 @@ Pico是由华盛顿大学开发的免费软件，随着[pine电子邮件处理�
 
 ## 外部链接
 
-  - [pine信息中心](http://www.washington.edu/pine/)
+  - [pine信息中心](https://web.archive.org/web/20050622022148/http://www.washington.edu/pine/)
 
 [Category:文本编辑器](https://zh.wikipedia.org/wiki/Category:文本编辑器 "wikilink")
 [Category:Unix文本编辑器](https://zh.wikipedia.org/wiki/Category:Unix文本编辑器 "wikilink")

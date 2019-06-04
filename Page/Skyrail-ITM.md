@@ -9,8 +9,6 @@ Management**（簡稱：**Skyrail-ITM**或**Skyrail**），是一間以[旅遊](
 
 ## 香港Skyrail
 
-[Ngong_Ping_360.gif](https://zh.wikipedia.org/wiki/File:Ngong_Ping_360.gif "fig:Ngong_Ping_360.gif")於Skyrail營運時期的標誌\]\]
-
 Skyrail在[香港成立](../Page/香港.md "wikilink")[子公司](../Page/子公司.md "wikilink")──**Skyrail-ITM（Hong
 Kong）Ltd**，[主席為](../Page/主席.md "wikilink")[簡卓民](https://zh.wikipedia.org/wiki/簡卓民 "wikilink")（Ken
 Chapman）(於2005年9月入職為總經理，其後轉任為香港Skyrail[主席](../Page/主席.md "wikilink"))，常務[董事是](../Page/董事.md "wikilink")[高德偉](https://zh.wikipedia.org/wiki/高德偉 "wikilink")（William
@@ -32,7 +30,7 @@ Calderwood）(曾經出任[澳洲旅遊局副執行總監及](https://zh.wikiped
 [Category:索道](https://zh.wikipedia.org/wiki/Category:索道 "wikilink")
 [Category:澳大利亚公司](https://zh.wikipedia.org/wiki/Category:澳大利亚公司 "wikilink")
 
-1.  [The Sky Safari](http://www.zoo.nsw.gov.au/content/view.asp?id=199)
+1.
 2.  [Skyrail Rainforest Cableway](http://www.skyrail.com.au)
 3.  [360前高層否認疏忽
     涉沒向員工提供測試指引](https://web.archive.org/web/20080116064543/http://hk.news.yahoo.com/080110/12/2mtms.html)《明報》，2008年1月11日

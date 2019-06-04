@@ -18,7 +18,8 @@ HotCha於正式發佈會前曾被公司安排到[日本的著名演藝訓練學�
 
 ### 張惠雅
 
-  - 本名：[張惠雅](../Page/張惠雅.md "wikilink")（Regen）
+  - 姓名：[張惠雅](../Page/張惠雅.md "wikilink")（Regen）
+  - 本名：張惠儀
   - 出生日期：
   - 離隊年月：2011年9月
   - 離隊原因：增值自己而前往[澳洲工作假期](https://zh.wikipedia.org/wiki/澳洲 "wikilink")
@@ -27,7 +28,8 @@ HotCha於正式發佈會前曾被公司安排到[日本的著名演藝訓練學�
 
 ### 張紋嘉
 
-  - 本名：[張紋嘉](../Page/張紋嘉.md "wikilink")（Crystal）
+  - 姓名：[張紋嘉](../Page/張紋嘉.md "wikilink")（Crystal）
+  - 本名：張維恩
   - 出生日期：
   - 離隊年月：2014年8月
   - 離隊原因：HotCha正式解散
@@ -36,7 +38,8 @@ HotCha於正式發佈會前曾被公司安排到[日本的著名演藝訓練學�
 
 ### 黎美言
 
-  - 本名：[黎美言](../Page/黎美言.md "wikilink")（Winkie）
+  - 姓名：[黎美言](../Page/黎美言.md "wikilink")（Winkie）
+  - 本名：黎嘉穎
   - 出生日期：
   - 離隊年月：2014年8月
   - 離隊原因：HotCha正式解散
@@ -55,9 +58,8 @@ ARE MY HotCha Debut Dance
 LIVE」。演唱會以跳舞為主題，Hotcha在上台演繹了她們出道以來的所有歌曲，歌舞連場，以致現場氣氛極為高漲。演唱會中，三人都有各自獨白與獨唱的環節，目的在讓觀眾加深對Hotcha各成員的認識，而成員的真情剖白及獨唱歌曲部份，更贏得不少掌聲。
 
 跳舞環節方面，Hotcha大秀其跳舞本錢，挑戰高難度，除了一口氣唱跳Hotcha自己的十多首快歌如《不要防曬》、《Party
-Girl》、《小野蠻》等等名作及大跳鬥牛舞外，更分別模仿國際級跳舞天后在[MV內的精彩舞姿](https://zh.wikipedia.org/wiki/MV "wikilink")：Winkie演出
-美國天后[Beyonce的Crazy](https://zh.wikipedia.org/wiki/Beyonce "wikilink") In
-Love；Crystal演出日本天后[安室奈美惠的Sexy](../Page/安室奈美惠.md "wikilink")
+Girl》、《小野蠻》等等名作及大跳鬥牛舞外，更分別模仿國際級跳舞天后在[MV內的精彩舞姿](https://zh.wikipedia.org/wiki/MV "wikilink")：Winkie演出美國天后[Beyonce的Crazy](https://zh.wikipedia.org/wiki/Beyonce "wikilink")
+In Love；Crystal演出日本天后[安室奈美惠的Sexy](../Page/安室奈美惠.md "wikilink")
 Girl；Regen演出韓國天后[BoA的Eat](https://zh.wikipedia.org/wiki/BoA "wikilink")
 You
 Up，這表現出三人在舞蹈上的實力及各自的獨特風格。眾項目當中，以三人的才藝環節最令人驚喜，Regen變為Popper，與香港著名機械舞者[Popper

@@ -477,6 +477,11 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
   - 11月19日，於深夜節目「The Girls
     Live」上宣佈加入新成員，11月23日於「パシフィコ横浜国内大ホール」中公佈新成員為「太田遥香」及「伊勢鈴蘭」，兩人皆為[北海道出身](../Page/北海道.md "wikilink")。
 
+### 2019
+
+  - 5月25日，於「ANGERME Concert Tour 春
+    \~輪迴轉生\~」千葉午場公演宣布在[和田彩花畢業後由二期成員](../Page/和田彩花.md "wikilink")[竹內朱莉擔任隊長](https://zh.wikipedia.org/wiki/竹內朱莉 "wikilink")。另外，由同樣也是二期成員的[中西香菜續任副隊長及六期成員](../Page/中西香菜.md "wikilink")[川村文乃擔任新副隊長](https://zh.wikipedia.org/wiki/川村文乃 "wikilink")。
+
 ## 作品
 
 唱片由[hachama發行](https://zh.wikipedia.org/wiki/hachama "wikilink")，台灣及香港地區由[豐華唱片代理](../Page/豐華唱片.md "wikilink")。
@@ -755,7 +760,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td><p>2</p></td>
 <td><p>42,229</p></td>
 <td><p>一期成員<a href="../Page/福田花音.md" title="wikilink">福田花音的畢業單曲</a>、第二張3A單曲</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/輪迴轉生_～ANGERME_Past,_Present_&amp;_Future～" title="wikilink">輪迴轉生 ～ANGERME Past, Present &amp; Future～</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>21st</p></td>
@@ -788,27 +793,27 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>24th</p></td>
+<td><p>--</p></td>
 <td><p>2017年12月13日</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Manner_Mode_/_一如既往般美麗_/_你並不孤單...friends" title="wikilink">Manner Mode / 一如既往般美麗 / 你並不孤單...friends</a></p></td>
 <td><p>2</p></td>
 <td><p>-</p></td>
-<td><p>首張DVD單曲、第六張3A單曲、六期成員<a href="../Page/船木結.md" title="wikilink">船木結</a>、<a href="https://zh.wikipedia.org/wiki/川村文乃" title="wikilink">川村文乃加入後第一張單曲</a>、三期成員<a href="https://zh.wikipedia.org/wiki/相川茉穗" title="wikilink">相川茉穗因被診斷出</a><a href="../Page/恐慌症.md" title="wikilink">恐慌症暫停活動專心休養</a>, 不參加此次單曲。</p></td>
+<td><p>首張DVD單曲、六期成員<a href="../Page/船木結.md" title="wikilink">船木結</a>、<a href="https://zh.wikipedia.org/wiki/川村文乃" title="wikilink">川村文乃加入後第一張單曲</a>、三期成員<a href="https://zh.wikipedia.org/wiki/相川茉穗" title="wikilink">相川茉穗因被診斷出</a><a href="../Page/恐慌症.md" title="wikilink">恐慌症暫停活動專心休養</a>, 不參加此次單曲。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>25th</p></td>
+<td><p>24th</p></td>
 <td><p>2018年5月9日</p></td>
 <td><p>泣けないぜ...共感詐欺 / Uraha=Lover / 君だけじゃないさ...friends（2018アコースティックVer.）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/我不能哭...同情欺詐／Uraha=Lover／你不孤單......friends_(2018_Acoustic_Ver.)" title="wikilink">我不能哭...同情欺詐／Uraha=Lover／你不孤單......friends (2018 Acoustic Ver.)</a></p></td>
 <td><p>2</p></td>
 <td><p>44,677</p></td>
-<td><p>第七張3A單曲。</p></td>
+<td><p>第六張3A單曲。</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>26th</p></td>
+<td><p>25th</p></td>
 <td><p>2018年10月31日</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/人各有所好/46億年LOVE" title="wikilink">人各有所好/46億年LOVE</a></p></td>
@@ -818,7 +823,7 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>27th</p></td>
+<td><p>26th</p></td>
 <td><p>2019年4月10日</p></td>
 <td></td>
 <td></td>
@@ -910,8 +915,8 @@ S/mileage時期代表色為<font color = #f00>紅色</font>。</p></td>
 <td><p>2019年5月15日</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/輪迴轉生_～ANGERME_Past,_Present_&amp;_Future～" title="wikilink">輪迴轉生 ～ANGERME Past, Present &amp; Future～</a></p></td>
-<td><p>-</p></td>
-<td><p>-</p></td>
+<td><p>5</p></td>
+<td><p>11,081</p></td>
 </tr>
 <tr class="even">
 <td></td>

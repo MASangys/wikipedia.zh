@@ -25,7 +25,7 @@ Works發行的](../Page/ASCII_Media_Works.md "wikilink")[輕小說](../Page/輕�
   - [加速世界](../Page/加速世界.md "wikilink")
   - 小加速世界
 
-## 關聯條目
+## 參見
 
   - [電撃文庫](https://zh.wikipedia.org/wiki/電撃文庫 "wikilink")
 

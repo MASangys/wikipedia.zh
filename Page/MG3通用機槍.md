@@ -126,8 +126,6 @@ Dingo及](https://zh.wikipedia.org/wiki/澳洲犬ATF "wikilink")[LKW
   -
   - [利比亞](https://zh.wikipedia.org/wiki/利比亞 "wikilink")
 
-  - [馬其頓](../Page/馬其頓.md "wikilink")
-
   - [馬爾他](https://zh.wikipedia.org/wiki/馬爾他 "wikilink")－命名為MG42/59
 
   - [墨西哥](../Page/墨西哥.md "wikilink")－由SEDENA合法授權生產
@@ -136,6 +134,8 @@ Dingo及](https://zh.wikipedia.org/wiki/澳洲犬ATF "wikilink")[LKW
 
   - [緬甸](https://zh.wikipedia.org/wiki/緬甸 "wikilink")－由Ka Pa
     Sa合法授權生產，命名為MA15
+
+  - [北馬其頓共和國](https://zh.wikipedia.org/wiki/北馬其頓共和國 "wikilink")
 
   - [北塞浦路斯](https://zh.wikipedia.org/wiki/北塞浦路斯 "wikilink")
 

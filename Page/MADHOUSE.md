@@ -78,7 +78,7 @@ And Dezaki）」，於是定名為Madhouse\[1\]。
 
   - [十兵衛 心形眼罩的秘密](../Page/十兵衛.md "wikilink")（）（1999年）
 
-  - [恐怖寵物店](https://zh.wikipedia.org/wiki/恐怖寵物店 "wikilink")（）（1999年）
+  - [恐怖寵物店](../Page/恐怖寵物店.md "wikilink")（）（1999年）
 
   - [鈴鐺貓娘系列](../Page/Di_Gi_Charat.md "wikilink")（）
 

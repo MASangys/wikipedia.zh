@@ -97,8 +97,7 @@ M43彈敏感）。所以一些新生產的彈匣對這個設計進行了修改�
     LP06](https://zh.wikipedia.org/wiki/VB_Berapi_LP06 "wikilink")
   - [HS Produkt VHS](../Page/VHS突擊步槍.md "wikilink")（初期型）
   - [XM29 OICW](../Page/XM29_OICW.md "wikilink")（步槍部份）
-  - [QBZ
-    TYPE97](https://zh.wikipedia.org/wiki/QBZ_TYPE97 "wikilink")(中国人民解放军QBZ95式出口版)
+  - [97式自動步槍](../Page/97式自動步槍.md "wikilink")
 
 有些步槍原本設計不能採用STANAG彈匣，但可通過轉換部件作配合，如[HK
 G36](../Page/HK_G36突擊步槍.md "wikilink")、[斯泰爾AUG](../Page/斯泰爾AUG突擊步槍.md "wikilink")。而除了5.56毫米口徑外，STANAG彈匣亦可對應如[6.8

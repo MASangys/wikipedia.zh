@@ -1,6 +1,6 @@
 [Scania_K94UB.jpg](https://zh.wikipedia.org/wiki/File:Scania_K94UB.jpg "fig:Scania_K94UB.jpg")\]\]
 
-**斯堪尼亞K94UB**（；又稱：****）是[瑞典](../Page/瑞典.md "wikilink")[斯堪尼亞開發的一款低地台](https://zh.wikipedia.org/wiki/斯堪尼亞 "wikilink")[巴士](https://zh.wikipedia.org/wiki/巴士 "wikilink")，是的城市巴士[底盤](https://zh.wikipedia.org/wiki/底盤 "wikilink")，可供安裝單層或雙層巴士的車身，雙層巴士的版本只為[香港](../Page/香港.md "wikilink")[城巴製造了一輛](../Page/城巴.md "wikilink")\[1\]，城巴車隊編號為2800，於2001年投入服務，這輛巴士截至2019年1月仍在使用中。
+**斯堪尼亞K94UB**（；又稱：****）是[瑞典](../Page/瑞典.md "wikilink")[斯堪尼亞開發的一款低地台](https://zh.wikipedia.org/wiki/斯堪尼亞 "wikilink")[巴士](https://zh.wikipedia.org/wiki/巴士 "wikilink")，是的城市巴士[底盤](https://zh.wikipedia.org/wiki/底盤 "wikilink")，可供安裝單層或雙層巴士的車身，雙層巴士的版本只為[香港](../Page/香港.md "wikilink")[城巴製造了一輛](../Page/城巴.md "wikilink")\[1\]，城巴車隊編號為2800，於2001年投入服務，這輛巴士截至2019年5月仍在使用中。
 
 ## 背景
 

@@ -52,8 +52,6 @@ P**，於1992年起出廠，[德國鐵路訂購該批機車以取代](https://zh
 ### 希腊铁路
 
 [20080513-335-Thessaloniki-120016.jpg](https://zh.wikipedia.org/wiki/File:20080513-335-Thessaloniki-120016.jpg "fig:20080513-335-Thessaloniki-120016.jpg")
-[Korail_8243.jpg](https://zh.wikipedia.org/wiki/File:Korail_8243.jpg "fig:Korail_8243.jpg")
-[HXD10004.jpg](https://zh.wikipedia.org/wiki/File:HXD10004.jpg "fig:HXD10004.jpg")
 
 1996年，[希腊的国营铁路公司](../Page/希腊.md "wikilink")“[希腊铁路组织](https://zh.wikipedia.org/wiki/希腊铁路组织 "wikilink")”（OSE）向西门子交通订购了首批6台电力机车，定型为H560型（后改称为120型）。该型机车是在ES64P型电力机车原型车基础上，根据希腊铁路的使用要求改进设计而成的高速客运电力机车，适用于25千伏工频单相交流电气化铁路，采用水冷GTO牵引变流器，轴重为20吨，持续功率为5000千瓦，最高运行速度为200公里/小时。希腊铁路组织于1997年底又另外订购了第二批24台该型机车。
 
@@ -64,10 +62,14 @@ P**，於1992年起出廠，[德國鐵路訂購該批機車以取代](https://zh
 
 ### 韩国铁路
 
+[Korail_8243.jpg](https://zh.wikipedia.org/wiki/File:Korail_8243.jpg "fig:Korail_8243.jpg")
+
 1996年，[韩国国营铁道](https://zh.wikipedia.org/wiki/韩国国营铁道 "wikilink")（KNR）与西门子交通、克劳斯-玛菲公司、[大宇重工业集团签订了合作协议](https://zh.wikipedia.org/wiki/大宇重工业集团 "wikilink")，向韩国铁道提供2台交流传动电力机车样车，机车由德国西门子交通设计，并通过技术转让并由大宇重工业在韩国本土制造。该型机车被定型为8100型，是ES64F型电力机车基础上改进设计而成的客货运通用电力机车，采用水冷GTO牵引变流器、架承式全悬挂传动、“Sibas
 32”微机控制系统，持续功率为5200千瓦，最高运行速度为150公里/小时。8100型电力机车于1998年交付韩国铁道投入试运行，经过试验和改进后，于2002年定型为8200型电力机车并投入批量生产。
 
 ### 中国铁路
+
+[HXD10004.jpg](https://zh.wikipedia.org/wiki/File:HXD10004.jpg "fig:HXD10004.jpg")
 
 1997年，[中华人民共和国铁道部向西门子交通订购了](../Page/中华人民共和国铁道部.md "wikilink")20台DJ1型电力机车，是在ES64F型电力机车基础上专门为[中国铁路设计制造的双节重联八轴重载货运电力机车](../Page/中華人民共和國鐵路運輸.md "wikilink")，采用水冷GTO牵引变流器、“Sibas
 32”微机控制系统，持续功率为6400千瓦，最高运行速度为120公里/小时；其中首3台机车于[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")[格拉兹制造并整车付运中国](https://zh.wikipedia.org/wiki/格拉兹 "wikilink")，其余17台则由西门子交通和[株洲电力机车厂](https://zh.wikipedia.org/wiki/株洲电力机车厂 "wikilink")、[株洲电力机车研究所合作](https://zh.wikipedia.org/wiki/株洲电力机车研究所 "wikilink")，共同成立合资公司并通过技术转让负责本地组装生产。DJ1型机车于2002年起先后投入[宝成铁路](../Page/宝成铁路.md "wikilink")、[大秦铁路运用](../Page/大秦铁路.md "wikilink")。後期，由於維修成本高昂，加上有新型機車引進，以及機車功率不能應付增加的載貨量，DJ1最後在2013年全面停用並封存；當中，個別損耗較嚴重的機車，在停運前已作為零件車拆解。

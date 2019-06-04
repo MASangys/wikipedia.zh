@@ -5238,6 +5238,7 @@ SKILL（遊戲《[第2次超級機械人大戰α](https://zh.wikipedia.org/wiki/
 
   - [佐咲紗花](../Page/佐咲紗花.md "wikilink")
   - [淵上舞](https://zh.wikipedia.org/wiki/淵上舞 "wikilink")
+  - [中島愛](https://zh.wikipedia.org/wiki/中島愛 "wikilink")
 
 </div>
 
@@ -5262,6 +5263,7 @@ SKILL（遊戲《[第2次超級機械人大戰α](https://zh.wikipedia.org/wiki/
 
   - [大橋彩香](../Page/大橋彩香.md "wikilink")
   - [Starlight九九組](../Page/少女☆歌劇Revue_Starlight.md "wikilink")
+  - [angela](https://zh.wikipedia.org/wiki/angela "wikilink")
 
 </div>
 
@@ -5293,6 +5295,7 @@ SKILL（遊戲《[第2次超級機械人大戰α](https://zh.wikipedia.org/wiki/
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
   - [OxT](../Page/OxT.md "wikilink")
+  - [上坂堇](../Page/上坂堇.md "wikilink")
 
 </div>
 

@@ -12,11 +12,11 @@ Mini-DVI適配器有以下幾種：
 
   -
     Apple Mini-DVI to VGA Adapter Apple part\#
-    [1](https://web.archive.org/web/20080513030526/http://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore/?productLearnMore=M9320G%2FA)（M9320G/A）
+    \[<https://web.archive.org/web/20080513030526/http://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore/?productLearnMore=M9320G%2FA%5D%EF%BC%88M9320G%2FA%EF%BC%89>
     Apple Mini-DVI to Video Adapter Apple part\#
-    [2](https://web.archive.org/web/20080513030521/http://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore/?productLearnMore=M9319G%2FA)（M9319G/A）
+    \[<https://web.archive.org/web/20080513030521/http://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore/?productLearnMore=M9319G%2FA%5D%EF%BC%88M9319G%2FA%EF%BC%89>
     Apple Mini-DVI to DVI Adapter (DVI-D) Apple part\#
-    [3](https://web.archive.org/web/20090723124726/http://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore?productLearnMore=M9321G%2FA)（M9321G/A）在物理外觀上Mini-DVI接口與[Mini-VGA相似](../Page/Mini-VGA.md "wikilink")，不同的是其有四行針腳而不是Mini-VGA中的兩行。
+    \[<https://web.archive.org/web/20090723124726/http://store.apple.com/1-800-MY-APPLE/WebObjects/AppleStore?productLearnMore=M9321G%2FA%5D%EF%BC%88M9321G%2FA%EF%BC%89%E5%9C%A8%E7%89%A9%E7%90%86%E5%A4%96%E8%A7%80%E4%B8%8AMini-DVI%E6%8E%A5%E5%8F%A3%E8%88%87%5B%5BMini-VGA%5D%5D%E7%9B%B8%E4%BC%BC%EF%BC%8C%E4%B8%8D%E5%90%8C%E7%9A%84%E6%98%AF%E5%85%B6%E6%9C%89%E5%9B%9B%E8%A1%8C%E9%87%9D%E8%85%B3%E8%80%8C%E4%B8%8D%E6%98%AFMini-VGA%E4%B8%AD%E7%9A%84%E5%85%A9%E8%A1%8C>。
 
 如果需要使用DVI-I接口，必須把Mini-DVI to DVI-D線連接到一個DVI-D to DVI-I適配器上。
 

@@ -1,6 +1,8 @@
 </ref> |subsid = [Instagram](../Page/Instagram.md "wikilink")
 [WhatsApp](../Page/WhatsApp.md "wikilink")
 [Oculus VR](https://zh.wikipedia.org/wiki/Oculus_VR "wikilink") |logo =
+[Facebook_f_logo_(2019).svg](https://zh.wikipedia.org/wiki/File:Facebook_f_logo_\(2019\).svg "fig:Facebook_f_logo_(2019).svg")
+
 [Facebook_New_Logo_(2015).svg](https://zh.wikipedia.org/wiki/File:Facebook_New_Logo_\(2015\).svg "fig:Facebook_New_Logo_(2015).svg")
 |type = [社交網絡服務](https://zh.wikipedia.org/wiki/社交網絡服務 "wikilink")
 |registration = |language = [多語言](../Page/多语制.md "wikilink")（140种）

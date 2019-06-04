@@ -128,7 +128,7 @@ Sports Resort沒有出現。
 
 ## 外部連結
 
-  - [官方網頁](http://www.nintendo.com/games/detail/iGnKcC3xIs0WX4L3v6TedMHsQhZCKMsQ)
+  - [官方網頁](https://web.archive.org/web/20090614091358/http://www.nintendo.com/games/detail/iGnKcC3xIs0WX4L3v6TedMHsQhZCKMsQ)
   - [中文官方網頁（台灣）](http://www.nintendo.tw/wiisportsresort/index.htm)
   - [中文官方網頁（香港）](http://www.nintendo.com.hk/wiisportsresort/index.htm)
 

@@ -21,59 +21,60 @@ Of*《珍重再見：精選＋新歌》。
 
 ## 专辑
 
-  - Shades of Purple
+### 正規專輯
 
-`  01 Don't Say You Love Me`
-`  02 The Day You Went Away`
-`  03 Girl In Your Dreams`
-`  04 Mirror Mirror`
-`  05 Pretty Boy`
-`  06 Give A Little Love`
-`  07 Everything You Do`
-`  08 Don't Mess With My Love`
-`  09 Dear Diary`
-`  10 Do You Know What You Want`
-`  11 Smiling Face`
-`  12 Our Song`
-`  13 Why`
-`  14 Pretty boy(mandarin version) 臺灣華納發行版中額外收錄中文版本`**`美美少男`**`。`
+<table>
+<thead>
+<tr class="header">
+<th><p>專輯</p></th>
+<th><p>專輯資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong></strong>》</p>
+<ul>
+<li>發行日期：2000年3月7日</li>
+<li>語言：英語</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p>《<strong></strong>》</p>
+<ul>
+<li>發行日期：2001年11月9日</li>
+<li>語言：英語</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-  - The Big Room
+### 精選輯
 
-`  01 What You Do About Me`
-`  02 Everything`
-`  03 Wanna Be Where You Are`
-`  04 Miss Popular`
-`  05 Jennifer`
-`  06 Don't`
-`  07 Love Left For Me`
-`  08 Payphone`
-`  09 Leave Me Alone`
-`  10 Sometimes`
-`  11 Eventually`
-
-  - The Day You Went Away: The Best of M2M
-
-`  01 The Day You Went Away (M2M song)`
-`  02 Mirror Mirror`
-`  03 Pretty Boy`
-`  04 Don't Say You Love Me`
-`  05 Everything`
-`  06 Everything You Do (re-recorded vocals version)`
-`  07 Girl In Your Dreams`
-`  08 What You Do About Me`
-`  09 Don't (Acoustic version)`
-`  10 Wanna Be Where You Are`
-`  11 Not to Me`
-`  12 Is You`
-`  13 Wait for Me`
-`  14 Jennifer (acoustic version)`
-`  15 Love Left For Me (acoustic version)`
-`  16 Pretty Boy (Mandarin Chinese version)`
-`  17 Everything (acoustic version)`
-`  18 Don't Say You Love Me (Tin Tin Out Remix)`
-`  19 Todo Lo Que Haces ("Everything You Do" Spanish version)`
-`  20 Mirror, Mirror (Power Dance Remix)`
+<table>
+<thead>
+<tr class="header">
+<th><p>專輯</p></th>
+<th><p>專輯資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong></strong>》</p>
+<ul>
+<li>發行日期：2003年</li>
+<li>語言：英語</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 華語翻唱
 

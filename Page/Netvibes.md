@@ -52,5 +52,5 @@ Widget API（通用模組API，UWA），用戶使用UWA寫出的模組除了可�
 [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
 
 1.  <http://www.web20awards.nl/>
-2.  <http://www.webware.com/html/ww/100.html>
+2.
 3.  <http://www.time.com/time/specials/2007/0,28757,1633488,00.html>

@@ -68,8 +68,9 @@ Gene/多普達D600使用的Windows Mobile
     zol.com.cn
 2.  [多普達D600手機解鎖\~刷機\~教程](http://big5.china-code.net/al-cc4OtZBd-197710.html)
      - china-code.net
-3.  [\[原创](http://bible.younet.com/files/2008/03/03/389162.shtml)
-    多普达D600刷WM6.1过程全记录\]
+3.  date=2010-04-13 }}多普达D600刷WM6.1过程全记录 |access-date=2013-04-27
+    |archive-url=<https://web.archive.org/web/20100413103955/http://bible.younet.com/files/2008/03/03/389162.shtml>
+    |archive-date=2010-04-13 |dead-url=yes }}
 4.  [多普达D600
     WM6.1核心OS20924宋体纯净ROM](http://www.shuaji.net/rom/dopod_HTC/D600/D600_ROM/200904161408.html)
 5.  [多普达 D600 卡刷教程

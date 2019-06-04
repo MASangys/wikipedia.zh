@@ -56,7 +56,7 @@ Flash](../Page/Adobe_Flash.md "wikilink") CS3的整合。Shockwave Player
   - [Director
     podcasting](https://web.archive.org/web/20080509135412/http://director.magicgate.com/)
   - [Macromedia
-    歷史](http://veerle.duoh.com/blog/comments/macromedias_history/)
+    歷史](https://web.archive.org/web/20080518065722/http://veerle.duoh.com/blog/comments/macromedias_history/)
   - [IEEE 歷史中心：John Thompson, Lingo
     程式語言發明者](https://web.archive.org/web/20080718231929/http://www.ieee.org/web/aboutus/history_center/biography/thompsonj.html)
 

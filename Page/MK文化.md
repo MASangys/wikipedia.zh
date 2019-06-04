@@ -3,7 +3,7 @@
 **MK文化**，即[旺角](../Page/旺角.md "wikilink")（Mong
 Kok）文化，為[香港地道用語](../Page/香港.md "wikilink")，以指明其獨特的社區文化。由於旺角是香港售賣[潮流物品的集中地](https://zh.wikipedia.org/wiki/潮流 "wikilink")，亦有很多針對年青人的[娛樂場所](../Page/娛樂.md "wikilink")，包括[卡拉OK](../Page/卡拉OK.md "wikilink")、[格仔店和](https://zh.wikipedia.org/wiki/格仔店 "wikilink")[戲院等等](https://zh.wikipedia.org/wiki/戲院 "wikilink")，該處逐漸成為很多追求潮流的年青人流連及[約會的勝地](../Page/約會.md "wikilink")。其中[瓊華中心和](https://zh.wikipedia.org/wiki/瓊華中心 "wikilink")[潮流特區被認為是MK文化的發源地](https://zh.wikipedia.org/wiki/潮流特區 "wikilink")\[1\]。
 
-**MK人**則是指向在旺角地區出沒的部份年青人，但是不一定指向居住於旺角的青少年。一般而言，男性被俗稱為**MK仔**，女性被俗稱為**MK妹**。MK妹年齡必須介乎13歲至29歲之間，30歲及以上的只可以稱之為**中女**。
+**MK人**則是指向在旺角地區出沒的部份年青人，但是不一定指向居住於旺角的青少年。一般而言，男性被俗稱為**MK仔**，女性被俗稱為**MK妹**。
 
 2007年起，又出現了一個新的詞彙──[潮童](https://zh.wikipedia.org/wiki/潮童 "wikilink")，指向一些特別崇尚名牌或者喜歡穿著特殊服飾的MK人。
 在性格方面，與他們不熟悉的人會覺得他們冷酷，關係友好的人會覺得他們瘋狂。 \[2\]。

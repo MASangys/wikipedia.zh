@@ -397,7 +397,8 @@ Git数据库中不变引用的对象将会被垃圾回收清除。Git命令可�
   - [Pikacode](https://web.archive.org/web/20120325042753/http://pikacode.com/)
   - [SourceForge](../Page/SourceForge.md "wikilink")
   - [码云 Gitee](https://gitee.com)
-  - [CSDN CODE](https://code.csdn.net)
+  - [CSDN
+    CODE](https://web.archive.org/web/20180905021908/http://code.csdn.net/)
   - [Coding](https://coding.net/)
   - [gitlab](https://zh.wikipedia.org/wiki/gitlab "wikilink")
 

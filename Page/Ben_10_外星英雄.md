@@ -467,7 +467,7 @@ Studios於](https://zh.wikipedia.org/wiki/Cartoon_Network_Studios "wikilink")200
 | 29 | Inferno                           | 地心危機     |
 | 30 | Fool's Gold                       | 外星金雞母    |
 | 31 | Simple                            | 戰爭與和平    |
-| 32 | Vreedle, Vreedle                  | 物歸原主     |
+| 32 | Don’t Fear the Repo               | 物歸原主     |
 | 33 | Singlehanded                      | 斷手記      |
 | 34 | If All Else Fails                 | 同歸於盡     |
 | 35 | In Charm's Way                    | 凱文的心結    |

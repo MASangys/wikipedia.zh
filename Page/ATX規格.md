@@ -246,8 +246,6 @@ ATX的出現，也統一了mini-DIN鍵盤與PS/2滑鼠插座的使用。相比�
     銀欣科技股份有限公司](https://silverstonetek.com/techtalk_cont.php?tid=10055&area=tw)
 7.  [SFX-L Computex 2017 roundup - Small Form Factor
     Network](https://smallformfactor.net/news/sfx-l-computex-2017-roundup)
-8.  [Modern Form Factors: EPS, TFX, CFX, LFX, And Flex ATX - Power
-    Supply 101: A Reference Of
-    Specifications](https://tomshardware.co.uk/power-supply-specifications-atx-reference,review-32338-5.html)
+8.
 9.  [Power Supplies TekSpek Guide - SCAN
     UK](https://scan.co.uk/tekspek/power-supplies/psus-\(power-supply-units\))

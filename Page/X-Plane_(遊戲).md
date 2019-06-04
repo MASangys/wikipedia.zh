@@ -71,8 +71,9 @@ Level
     downloads and forums
   - [X-Plane.es](http://www.x-plane.es/) Spanish language X-Plane portal
     offering news, downloads, links, and forums.
-  - [X-Plane Freeware Project](http://www.xplanefreeware.net/) Community
-    resource for forums, downloads and professional commercial
+  - [X-Plane Freeware
+    Project](https://web.archive.org/web/20090106105517/http://xplanefreeware.net/)
+    Community resource for forums, downloads and professional commercial
     airliners.
 
 ## 参考

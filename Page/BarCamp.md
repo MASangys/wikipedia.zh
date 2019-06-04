@@ -114,4 +114,4 @@ BarCamp，則是 2011
 1.  [Social
     Protocol](http://www.w3.org/Talks/980922-MIT6805/SocialProtocols.html)
 2.  [Globalvoicesonline.org
-    [全球之聲报道](../Page/全球之聲.md "wikilink")](http://globalvoicesonline.org/2010/02/01/myanmars-first-barcamp-in-yangon/)
+    全球之聲报道](http://globalvoicesonline.org/2010/02/01/myanmars-first-barcamp-in-yangon/)

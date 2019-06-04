@@ -481,6 +481,10 @@ zh-hk:絕對武力}-](../Page/反恐精英.md "wikilink")》中首次得知此�
   - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：型号为Five-seveN
     USG，命名为“FN
     Five-seveN”，使用20发[弹匣](https://zh.wikipedia.org/wiki/弹匣 "wikilink")，以副武器之姿出现并可被所有职业使用，专家解锁，可以改裝枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、手槍消音器、[手槍制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")、[手槍刺刀](../Page/刺刀.md "wikilink")），不可改装瞄准镜。
+  - 2013年—《[-{zh-hans:反恐精英;zh-hant:絕對武力}-Online
+    2](https://zh.wikipedia.org/wiki/絕對武力Online2 "wikilink")》（Counter-Strike
+    Online 2）：型號為Five-seveN USG，命名為「Five
+    Seven」，使用[黑色](../Page/黑色.md "wikilink")[底把及黑色](../Page/机匣.md "wikilink")[套筒](https://zh.wikipedia.org/wiki/手槍套筒 "wikilink")，反恐小組專用手槍。
   - 2013年—《[-{zh-hans:战地;
     zh-hant:戰地風雲;}-4](../Page/戰地風雲4.md "wikilink")》（Battlefield
     4）：型號為Five-seveN

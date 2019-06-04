@@ -33,7 +33,7 @@ Devices软件开发工具包，以加速[数字视频转换盒](https://zh.wikip
 
 ## 参考资料
 
-[Category:Opera_Software](https://zh.wikipedia.org/wiki/Category:Opera_Software "wikilink")
+[Category:Opera浏览器](https://zh.wikipedia.org/wiki/Category:Opera浏览器 "wikilink")
 [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink")
 [Category:任天堂DS](https://zh.wikipedia.org/wiki/Category:任天堂DS "wikilink")
 [Category:Wii](https://zh.wikipedia.org/wiki/Category:Wii "wikilink")

@@ -34,7 +34,8 @@ Spot Image提供的工具
 
 ## Spot Image发起的地球行动
 
-[Planet Action Web Site](http://www.planet-action.org)
+[Planet Action Web
+Site](https://web.archive.org/web/20180728223541/http://www.planet-action.org/)
 
 ## 重要日期
 
@@ -74,7 +75,8 @@ Spot Image提供的工具
   - [Spot Image Web
     Site](https://web.archive.org/web/20080807162515/http://www.spotimage.com/)
   - [CNES Official Web Site](http://www.cnes.fr)
-  - [EADS Official Web Site](http://www.eads.com)
+  - [EADS Official Web
+    Site](https://web.archive.org/web/20190122055505/http://www.eads.com/)
   - [Astrium Official Web Site](http://www.astrium.eads.net)
 
 [Category:GIS公司](https://zh.wikipedia.org/wiki/Category:GIS公司 "wikilink")

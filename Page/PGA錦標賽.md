@@ -58,11 +58,11 @@ Wanamaker）捐赠的[沃纳梅克奖杯](https://zh.wikipedia.org/wiki/沃纳�
 <tbody>
 <tr class="odd">
 <td><p>2019</p></td>
-<td></td>
+<td><p><a href="../Page/布洛克斯·科普卡.md" title="wikilink">布洛克斯·科普卡</a>(Brooks Koepka) (2)</p></td>
 <td></td>
 <td><p>Bethpage Black Course</p></td>
 <td><p>Farmingdale, New York</p></td>
-<td></td>
+<td><p>272 (−8)</p></td>
 </tr>
 <tr class="even">
 <td><p>2018</p></td>
@@ -90,7 +90,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](https://zh.wikipedia.org/wiki/沃纳�
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
-<td><p><a href="../Page/傑森·戴伊.md" title="wikilink">傑森·戴伊</a>( Jason Day)</p></td>
+<td><p><a href="../Page/傑森·戴伊.md" title="wikilink">傑森·戴伊</a>(Jason Day)</p></td>
 <td></td>
 <td><p>Whistling Straits, Straits Course</p></td>
 <td><p>Kohler, Wisconsin</p></td>
@@ -98,7 +98,7 @@ Wanamaker）捐赠的[沃纳梅克奖杯](https://zh.wikipedia.org/wiki/沃纳�
 </tr>
 <tr class="even">
 <td><p>2014</p></td>
-<td><p><a href="../Page/羅伊·麥克羅伊.md" title="wikilink">羅伊·麥克羅伊</a>(Rory McIlroy)(2)</p></td>
+<td><p><a href="../Page/羅伊·麥克羅伊.md" title="wikilink">羅伊·麥克羅伊</a>(Rory McIlroy) (2)</p></td>
 <td></td>
 <td><p>Valhalla Golf Club</p></td>
 <td><p>Louisville, Kentucky</p></td>

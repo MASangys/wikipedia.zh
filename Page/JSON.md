@@ -118,21 +118,14 @@ JSON最开始被广泛的应用于WEB应用的开发。不過目前JSON使用在
 
 ### 读取JSON
 
-由於JSON是[JavaScript的子集](../Page/JavaScript.md "wikilink")，所以一般都會使用`eval()`作為讀取資料的方式，如果是针对可靠的数据来源，在不-{zh-cn:支持;
-zh-tw:支援;}-原生JSON解析的浏览器上面这是最快速的方法。然而由于eval方法同样可以执行任意的JavaScript-{zh-cn:代码;
-zh-tw:程式碼;}-，因此当数据来源不可靠时则可能产生安全问题。如下面的例子，直接用eval执行时会跳转：
+由於JSON是[JavaScript的子集](../Page/JavaScript.md "wikilink")，所以一般都會使用`eval()`作為讀取資料的方式，如果是针对可靠的数据来源，在不支持原生JSON解析的浏览器上面这是最快速的方法。然而由于eval方法同样可以执行任意的JavaScript代码，因此当数据来源不可靠时则可能产生安全问题。如下面的例子，直接用eval执行时会跳转：
 
 ``` javascript
 var json= eval("{message:(function (){ window.location='http://zh.wikipedia.org/wiki/JSON#.E5.AE.89.E5.85.A8.E6.80.A7.E5.95.8F.E9.A1.8C'; })()}");
 ```
 
-其中一種防止不安全-{zh-cn:代码; zh-tw:程式碼;}-出現的解決辦法，是通过浏览器原生-{zh-cn:支持;
-zh-tw:支援;}-的JSON.parse（str）方法讀取JSON資料，目前已经得到大部分主流浏览器的-{zh-cn:支持;
-zh-tw:支援;}-（IE8+，Firefox 3.5+，Chrome4+/Safari4+，Opera10+），在不-{zh-cn:支持;
-zh-tw:支援;}-原生JSON-{zh-cn:对象;
-zh-tw:物件;}-的浏览器上面可以使用`parseJSON`方法进行读取\[1\]，`parseJSON`採用解析器驗證讀入的-{zh-cn:代码;
-zh-tw:程式碼;}-是否真的是JSON-{zh-cn:代码;
-zh-tw:程式碼;}-，這樣就更安全。但由於這是用模擬的方式讀取，速度上會比`eval()`慢。
+其中一種防止不安全程式碼出現的解決辦法，是通过浏览器原生支持的JSON.parse（str）方法讀取JSON資料，目前已经得到大部分主流浏览器的支持（IE8+，Firefox
+3.5+，Chrome4+/Safari4+，Opera10+），在不支持原生JSON对象的浏览器上面可以使用`parseJSON`方法进行读取\[1\]，`parseJSON`採用解析器驗證讀入的程式碼是否真的是JSON程式碼，這樣就更安全。但由於這是用模擬的方式讀取，速度上會比`eval()`慢。
 
 ### 跨站存取問題
 
@@ -151,9 +144,8 @@ JSON與XML最大的不同在於XML是一個完整的[標記語言](https://zh.wi
 
 ### 格式化工具
 
-JSON格式取代了XML给网络传输带来了很大的便利，但是却没有了XML的一目了然，尤其是JSON-{zh-cn:数据;
-zh-tw:資料;}-很长的时候，会让人陷入繁琐复杂的数据节点查找中。开发者可以-{zh-cn:通过在线;
-zh-tw:使用線上;}-JSON格式化工具，来更方便的对JSON数据进行节点查找和解析。
+JSON格式取代了XML给网络传输带来了很大的便利，但是却没有了XML的一目了然，尤其是JSON数据很长的时候，会让人陷入繁琐复杂的数据节点查找中。开发者可以-{zh-cn:通过;
+zh-tw:使用;}-在线JSON格式化工具，来更方便的对JSON数据进行节点查找和解析。
 
 ## 參考文獻
 

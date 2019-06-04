@@ -1,11 +1,11 @@
 **Astro
-AEC**是[馬來西亞](../Page/馬來西亞.md "wikilink")[Astro擁有的頻道](../Page/Astro.md "wikilink")，全天候24小时播出。該頻道主要播出來自[台灣](../Page/台灣.md "wikilink")、[新加坡的節目](../Page/新加坡.md "wikilink")，同時亦播出本地節目（亦稱**“Astro本地圈”**节目）该频道备有[中文](../Page/中文.md "wikilink")、[马来语及](../Page/马来语.md "wikilink")[英文字幕服务](../Page/英文.md "wikilink")。
+AEC**是[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro擁有的頻道](https://zh.wikipedia.org/wiki/Astro "wikilink")，全天候24小时播出。該頻道主要播出來自[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡的節目](../Page/新加坡.md "wikilink")，同時亦播出本地節目（亦稱**“Astro本地圈”**节目）该频道备有[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[马来语及](../Page/马来语.md "wikilink")[英文字幕服务](https://zh.wikipedia.org/wiki/英文 "wikilink")。
 
 ## Astro AEC HD
 
 [Astro_AEC_HD.png](https://zh.wikipedia.org/wiki/File:Astro_AEC_HD.png "fig:Astro_AEC_HD.png")
 **Astro AEC
-HD**是[Astro第五個](../Page/Astro.md "wikilink")[中文](../Page/中文.md "wikilink")[高清頻道](../Page/高清.md "wikilink")，於2014年11月16日正式啟播。该频道於其標清频道同步播出所有節目。
+HD**是[Astro第五個](https://zh.wikipedia.org/wiki/Astro "wikilink")[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")[高清頻道](https://zh.wikipedia.org/wiki/高清 "wikilink")，於2014年11月16日正式啟播。该频道於其標清频道同步播出所有節目。
 
 ## Astro本地圈
 
@@ -23,70 +23,70 @@ HD**為“Astro本地圈”的起點。在Astro剛啟動“本地圈”時，所
 
 ## 现时节目
 
-| 日期            | 播出時间                                          | 现时节目                                 | 备注 |
-| ------------- | --------------------------------------------- | ------------------------------------ | -- |
-| 星期一至五         | 15:30 - 16:00                                 | [美食好简单](../Page/美食好简单.md "wikilink") |    |
-| 16:00 - 17:00 | 五零高手                                          |                                      |    |
-| 17:00 - 18:30 | [命運好好玩](../Page/命運好好玩_\(電視節目\).md "wikilink") |                                      |    |
-| 18:30 - 19:00 | 带你去走走                                         | Astro优先看，与新加坡同日播出                    |    |
-| 19:00 - 20:00 | 愛啓航                                           |                                      |    |
-| 20:30 - 21:30 | [娛樂百分百](../Page/娛樂百分百.md "wikilink")          | 与台灣同日播出                              |    |
-| 星期二           | 21:30 - 22:30                                 | 台湾第一等                                |    |
-| 星期一、三、四及五     | [爱玩客](../Page/爱玩客.md "wikilink")              |                                      |    |
-| 星期六           | 17:00 - 17:30                                 | 食在好源头 3 精华版                          |    |
-| 17:30 - 18:00 | 小毛病 大问题S7                                     |                                      |    |
-| 18:00 - 19:00 | 分界线                                           |                                      |    |
-| 20:30 - 22:00 | [一千個晚安](../Page/一千個晚安.md "wikilink")          | 与台灣24小时内同日播出                         |    |
-| 22:00 - 22:30 | [健康123](../Page/健康123.md "wikilink") S4       |                                      |    |
-| 23:00 - 00:00 | [麻辣天后传](../Page/麻辣天后传.md "wikilink")          |                                      |    |
-| 星期日           | 17:00 - 18:00                                 | 幸福乡味                                 |    |
-| 18:00 - 19:00 | 两代美味关系                                        |                                      |    |
-| 20:30 - 21:00 | 魅力东方                                          |                                      |    |
-| 21:00 - 22:00 | 节庆飨宴                                          |                                      |    |
-| 22:00 - 22:30 | 老友出走记                                         |                                      |    |
-| 每晚            | 20:00 - 20:30                                 | 八点最热报                                | 直播 |
-| 22:30 - 23:00 | 新闻报报看                                         |                                      |    |
-|               |                                               |                                      |    |
+| 日期            | 播出時间                                                    | 现时节目                                                    | 备注 |
+| ------------- | ------------------------------------------------------- | ------------------------------------------------------- | -- |
+| 星期一至五         | 15:30 - 16:00                                           | [美食好简单](https://zh.wikipedia.org/wiki/美食好简单 "wikilink") |    |
+| 16:00 - 17:00 | 西瓜甜不甜                                                   |                                                         |    |
+| 17:00 - 18:30 | [命運好好玩](../Page/命運好好玩_\(電視節目\).md "wikilink")           |                                                         |    |
+| 18:30 - 19:00 | 老友萬歲                                                    | Astro优先看，与新加坡同日播出                                       |    |
+| 19:00 - 20:00 | 我的左邻右里                                                  | Astro优先看，与新加坡同日播出                                       |    |
+| 20:30 - 21:30 | [娛樂百分百](https://zh.wikipedia.org/wiki/娛樂百分百 "wikilink") | 与台灣同日播出                                                 |    |
+| 星期二           | 21:30 - 22:30                                           | 台湾第一等                                                   |    |
+| 星期一、三、四及五     | [爱玩客](https://zh.wikipedia.org/wiki/爱玩客 "wikilink")     |                                                         |    |
+| 星期六           | 18:00 - 18:30                                           | 食在好源头 3 精华版                                             |    |
+| 18:30 - 19:00 | 小毛病 大问题S7                                               |                                                         |    |
+| 19:00 - 20:00 | 分界线                                                     |                                                         |    |
+| 20:30 - 22:00 | [一千個晚安](../Page/一千個晚安.md "wikilink")                    | 与台灣24小时内同日播出                                            |    |
+| 22:00 - 22:30 | [民医](../Page/民医_\(电视节目\).md "wikilink")                 |                                                         |    |
+| 23:00 - 00:00 | [麻辣天后传](https://zh.wikipedia.org/wiki/麻辣天后传 "wikilink") |                                                         |    |
+| 星期日           | 18:00 - 19:00                                           | 幸福乡味                                                    |    |
+| 19:00 - 20:00 | 两代美味关系                                                  |                                                         |    |
+| 20:30 - 21:00 | 魅力东方                                                    |                                                         |    |
+| 21:00 - 22:00 | 节庆飨宴                                                    |                                                         |    |
+| 22:00 - 22:30 | 老友出走记                                                   |                                                         |    |
+| 每晚            | 20:00 - 20:30                                           | 八点最热报                                                   | 直播 |
+| 22:30 - 23:00 | 新闻报报看                                                   |                                                         |    |
+|               |                                                         |                                                         |    |
 
 ## 新春节目
 
-| 日期            | 播出時间                                         | 现时节目                                                      | 备注 |
-| ------------- | -------------------------------------------- | --------------------------------------------------------- | -- |
-| 2月4日（除夕）      | 17:00 - 17:30                                | [美食好简单](../Page/美食好简单.md "wikilink")2019新春特备              |    |
-| 17:30 - 17:50 | 大地回春首映特备                                     |                                                           |    |
-| 20:00 - 21:00 | [爱玩客](../Page/爱玩客.md "wikilink")2019新春特备     |                                                           |    |
-| 21:00 - 21:30 | 欠你一个拥抱                                       |                                                           |    |
-| 21:30 - 00:15 | 勇气棒嘟嘟迎春接福大庆典                                 |                                                           |    |
-| 2月5日（年初一）     | 00:15 - 02:00                                | 经典成名曲音乐会                                                  |    |
-| 14:30 - 17:00 | 新春电影 - [败者为王](../Page/败者为王.md "wikilink")    |                                                           |    |
-| 17:00 - 17:30 | [美食好简单](../Page/美食好简单.md "wikilink")2019新春特备 |                                                           |    |
-| 18:30 - 19:00 | 带你去走走（第71集）                                  |                                                           |    |
-| 20:30 - 22:00 | 好经典2019桃李争春（一）                               |                                                           |    |
-| 22:00 - 23:00 | [爱玩客](../Page/爱玩客.md "wikilink")2019新春特备     |                                                           |    |
-| 2月6日（年初二）     | 07:00 - 13:00                                | 2018 - 2019[台北最High新年城](../Page/台北最High新年城.md "wikilink") |    |
-| 14:30 - 17:00 | 新春电影 - [战狼2](../Page/战狼2.md "wikilink")      |                                                           |    |
-| 17:00 - 17:30 | [美食好简单](../Page/美食好简单.md "wikilink")2019新春特备 |                                                           |    |
-| 18:30 - 19:00 | 带你去走走（第72集）                                  |                                                           |    |
-| 20:30 - 22:00 | 好经典2019桃李争春（二）                               |                                                           |    |
-| 22:00 - 23:00 | [爱玩客](../Page/爱玩客.md "wikilink")2019新春特备     |                                                           |    |
-| 23:00 - 00:00 | 谢谢你出现在我的行程里（第6集）                             |                                                           |    |
-| 2月7日（年初三）     | 07:00 - 13:00                                | [2019超级巨星红白艺能大赏](../Page/2019超级巨星红白艺能大赏.md "wikilink")    |    |
-| 14:30 - 17:30 | 新春电影 - [红海行动](../Page/红海行动.md "wikilink")    |                                                           |    |
-| 17:30 - 18:00 | [美食好简单](../Page/美食好简单.md "wikilink")2019新春特备 |                                                           |    |
-| 18:30 - 19:00 | 带你去走走（第73集）                                  |                                                           |    |
-| 20:30 - 22:00 | 好经典2019桃李争春（三）                               |                                                           |    |
-| 22:00 - 23:00 | [爱玩客](../Page/爱玩客.md "wikilink")2019新春特备     |                                                           |    |
-| 23:00 - 00:00 | 谢谢你出现在我的行程里（第7集）                             |                                                           |    |
-| 2月8日（年初四）     | 08:30 - 11:30                                | 经典名曲歌唱大赛2018决赛                                            | 重播 |
-| 14:30 - 17:00 | 新春电影 - [猜猜我是谁](../Page/猜猜我是谁.md "wikilink")  |                                                           |    |
-| 17:00 - 17:30 | [美食好简单](../Page/美食好简单.md "wikilink")2019新春特备 |                                                           |    |
-| 17:30 - 18:30 | [爱玩客](../Page/爱玩客.md "wikilink")2019新春特备     |                                                           |    |
-| 18:30 - 19:00 | 带你去走走（第74集）                                  |                                                           |    |
-| 23:00 - 00:00 | 谢谢你出现在我的行程里（第8集）                             |                                                           |    |
-| 2月9日（年初五）     | 14:30 - 17:00                                | 新春电影 - [西游记之孙悟空三打白骨精](../Page/西游记之孙悟空三打白骨精.md "wikilink") |    |
-| 20:30 - 22:00 | [非诚勿扰](../Page/非诚勿扰.md "wikilink")           |                                                           |    |
-| 22:00 - 22:30 | 徤康123 2019新春特备                               |                                                           |    |
-| 2月10日（年初六）    | 19:00 - 20:00                                | 节庆享宴 2019新春特备                                             |    |
+| 日期            | 播出時间                                                            | 现时节目                                                                         | 备注 |
+| ------------- | --------------------------------------------------------------- | ---------------------------------------------------------------------------- | -- |
+| 2月4日（除夕）      | 17:00 - 17:30                                                   | [美食好简单](https://zh.wikipedia.org/wiki/美食好简单 "wikilink")2019新春特备              |    |
+| 17:30 - 17:50 | 大地回春首映特备                                                        |                                                                              |    |
+| 20:00 - 21:00 | [爱玩客](https://zh.wikipedia.org/wiki/爱玩客 "wikilink")2019新春特备     |                                                                              |    |
+| 21:00 - 21:30 | 欠你一个拥抱                                                          |                                                                              |    |
+| 21:30 - 00:15 | 勇气棒嘟嘟迎春接福大庆典                                                    |                                                                              |    |
+| 2月5日（年初一）     | 00:15 - 02:00                                                   | 经典成名曲音乐会                                                                     |    |
+| 14:30 - 17:00 | 新春电影 - [败者为王](../Page/败者为王.md "wikilink")                       |                                                                              |    |
+| 17:00 - 17:30 | [美食好简单](https://zh.wikipedia.org/wiki/美食好简单 "wikilink")2019新春特备 |                                                                              |    |
+| 18:30 - 19:00 | 带你去走走（第71集）                                                     |                                                                              |    |
+| 20:30 - 22:00 | 好经典2019桃李争春（一）                                                  |                                                                              |    |
+| 22:00 - 23:00 | [爱玩客](https://zh.wikipedia.org/wiki/爱玩客 "wikilink")2019新春特备     |                                                                              |    |
+| 2月6日（年初二）     | 07:00 - 13:00                                                   | 2018 - 2019[台北最High新年城](https://zh.wikipedia.org/wiki/台北最High新年城 "wikilink") |    |
+| 14:30 - 17:00 | 新春电影 - [战狼2](https://zh.wikipedia.org/wiki/战狼2 "wikilink")      |                                                                              |    |
+| 17:00 - 17:30 | [美食好简单](https://zh.wikipedia.org/wiki/美食好简单 "wikilink")2019新春特备 |                                                                              |    |
+| 18:30 - 19:00 | 带你去走走（第72集）                                                     |                                                                              |    |
+| 20:30 - 22:00 | 好经典2019桃李争春（二）                                                  |                                                                              |    |
+| 22:00 - 23:00 | [爱玩客](https://zh.wikipedia.org/wiki/爱玩客 "wikilink")2019新春特备     |                                                                              |    |
+| 23:00 - 00:00 | 谢谢你出现在我的行程里（第6集）                                                |                                                                              |    |
+| 2月7日（年初三）     | 07:00 - 13:00                                                   | [2019超级巨星红白艺能大赏](https://zh.wikipedia.org/wiki/2019超级巨星红白艺能大赏 "wikilink")    |    |
+| 14:30 - 17:30 | 新春电影 - [红海行动](https://zh.wikipedia.org/wiki/红海行动 "wikilink")    |                                                                              |    |
+| 17:30 - 18:00 | [美食好简单](https://zh.wikipedia.org/wiki/美食好简单 "wikilink")2019新春特备 |                                                                              |    |
+| 18:30 - 19:00 | 带你去走走（第73集）                                                     |                                                                              |    |
+| 20:30 - 22:00 | 好经典2019桃李争春（三）                                                  |                                                                              |    |
+| 22:00 - 23:00 | [爱玩客](https://zh.wikipedia.org/wiki/爱玩客 "wikilink")2019新春特备     |                                                                              |    |
+| 23:00 - 00:00 | 谢谢你出现在我的行程里（第7集）                                                |                                                                              |    |
+| 2月8日（年初四）     | 08:30 - 11:30                                                   | 经典名曲歌唱大赛2018决赛                                                               | 重播 |
+| 14:30 - 17:00 | 新春电影 - [猜猜我是谁](https://zh.wikipedia.org/wiki/猜猜我是谁 "wikilink")  |                                                                              |    |
+| 17:00 - 17:30 | [美食好简单](https://zh.wikipedia.org/wiki/美食好简单 "wikilink")2019新春特备 |                                                                              |    |
+| 17:30 - 18:30 | [爱玩客](https://zh.wikipedia.org/wiki/爱玩客 "wikilink")2019新春特备     |                                                                              |    |
+| 18:30 - 19:00 | 带你去走走（第74集）                                                     |                                                                              |    |
+| 23:00 - 00:00 | 谢谢你出现在我的行程里（第8集）                                                |                                                                              |    |
+| 2月9日（年初五）     | 14:30 - 17:00                                                   | 新春电影 - [西游记之孙悟空三打白骨精](https://zh.wikipedia.org/wiki/西游记之孙悟空三打白骨精 "wikilink") |    |
+| 20:30 - 22:00 | [非诚勿扰](https://zh.wikipedia.org/wiki/非诚勿扰 "wikilink")           |                                                                              |    |
+| 22:00 - 22:30 | 徤康123 2019新春特备                                                  |                                                                              |    |
+| 2月10日（年初六）    | 19:00 - 20:00                                                   | 节庆享宴 2019新春特备                                                                |    |
 
 ## 直播节目列表
 
@@ -111,7 +111,7 @@ HD**為“Astro本地圈”的起點。在Astro剛啟動“本地圈”時，所
 <td><p><strong>網頁</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/新闻报报看.md" title="wikilink">新闻报报看</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/新闻报报看" title="wikilink">新闻报报看</a><br />
 Evening Edition</p></td>
 <td><p>颜江瀚、陈韵传、庄文杰、梁宝仪、<br />
 关萃汶、王钶媃、蔡心惠</p></td>
@@ -120,7 +120,7 @@ Evening Edition</p></td>
 <td><p><a href="https://zh-cn.facebook.com/EveningEdition/">網頁</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/八点最热报.md" title="wikilink">八点最热报</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/八点最热报" title="wikilink">八点最热报</a><br />
 2000 Prime Talk</p></td>
 <td><p>颜江瀚、<a href="../Page/萧慧敏.md" title="wikilink">萧慧敏</a>、陈韵传、庄文杰、<br />
 梁宝仪、关萃汶</p></td>
@@ -186,8 +186,8 @@ The Golden Melodies 2018</p></td>
 <td><p>九5搭8<br />
 Where Got Money?</p></td>
 <td><p>26</p></td>
-<td><p><a href="../Page/陈建宏.md" title="wikilink">陈建宏</a>、<a href="../Page/林建文.md" title="wikilink">林建文</a>、<a href="../Page/黄薏玲.md" title="wikilink">黄薏玲</a>、<a href="../Page/曾潔鈺.md" title="wikilink">曾潔鈺</a>、<br />
-<a href="../Page/吕爱琼.md" title="wikilink">吕爱琼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陈建宏" title="wikilink">陈建宏</a>、<a href="https://zh.wikipedia.org/wiki/林建文" title="wikilink">林建文</a>、<a href="https://zh.wikipedia.org/wiki/黄薏玲" title="wikilink">黄薏玲</a>、<a href="../Page/曾潔鈺.md" title="wikilink">曾潔鈺</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/吕爱琼" title="wikilink">吕爱琼</a></p></td>
 <td><p>2017年12月9日</p></td>
 <td><p>Astro自制处境喜剧<br />
 共播两季，一季共13集</p></td>
@@ -220,7 +220,7 @@ Where Got Money?</p></td>
 <tr class="even">
 <td><p>麦玲玲 Whoopee 好风水</p></td>
 <td><p>6</p></td>
-<td><p><a href="../Page/麦玲玲.md" title="wikilink">麦玲玲</a>、<a href="../Page/萧慧敏.md" title="wikilink">萧慧敏</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/麦玲玲" title="wikilink">麦玲玲</a>、<a href="../Page/萧慧敏.md" title="wikilink">萧慧敏</a></p></td>
 <td><p>2月15日</p></td>
 <td><p>新年特备节目。</p></td>
 <td><p><a href="http://www.xuan.com.my/2018/cny/article/17607/%E9%BA%A6%E7%8E%B2%E7%8E%B2-Whoopee-%E5%A5%BD%E9%A3%8E%E6%B0%B4">网页</a></p></td>
@@ -448,8 +448,8 @@ Up Close</p></td>
 
 ## 註明
 
-[Category:Astro](../Category/Astro.md "wikilink")
-[Category:馬來西亞電視台](../Category/馬來西亞電視台.md "wikilink")
+[Category:Astro](https://zh.wikipedia.org/wiki/Category:Astro "wikilink")
+[Category:馬來西亞電視台](https://zh.wikipedia.org/wiki/Category:馬來西亞電視台 "wikilink")
 
 1.
 2.  “十年本地圈”之新秀帮 - 本地圈 - Astro 中文视界

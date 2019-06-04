@@ -94,8 +94,8 @@ Mini](https://zh.wikipedia.org/wiki/it:Opera_\(browser\)#Opera_Mini "wikilink")
 [ro:Opera (navigator web)\#Opera
 Mini](https://zh.wikipedia.org/wiki/ro:Opera_\(navigator_web\)#Opera_Mini "wikilink")
 
-[Category:Opera_Software](https://zh.wikipedia.org/wiki/Category:Opera_Software "wikilink")
-[Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink")
+[Category:Opera浏览器](https://zh.wikipedia.org/wiki/Category:Opera浏览器 "wikilink")
+[Category:Android网页浏览器](https://zh.wikipedia.org/wiki/Category:Android网页浏览器 "wikilink")
 [Category:免費軟件](https://zh.wikipedia.org/wiki/Category:免費軟件 "wikilink")
 
 1.

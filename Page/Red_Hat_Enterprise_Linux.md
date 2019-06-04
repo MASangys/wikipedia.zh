@@ -1,8 +1,7 @@
-**Red Hat Enterprise Linux**（**RHEL**）是一個由 [Red
-Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink") 開發的商業市場導向的 [Linux
-發行版](https://zh.wikipedia.org/wiki/Linux_發行版 "wikilink")。红帽公司从 Red Hat
-Enterprise Linux 5 开始对企业版 LINUX 的每个版本提供 10 年的支持\[1\]。Red Hat Enterprise
-Linux 常被簡稱爲 RHEL，但它並非官方名稱。
+**Red Hat Enterprise Linux**（**RHEL**）是一個由[Red
+Hat開發的商業市場導向的](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[Linux发行版](../Page/Linux发行版.md "wikilink")。红帽公司从
+Red Hat Enterprise Linux 5 开始对企业版 LINUX 的每个版本提供 10 年的支持\[1\]。Red Hat
+Enterprise Linux 常被簡稱爲 RHEL，但它並非官方名稱。
 
 Red Hat Enterprise Linux 大約 3 年发布一个新版本。
 
@@ -119,6 +118,9 @@ Enterprise Linux 發佈，因此：
         ([發佈](https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/7.5_Release_Notes/index.html))
       - 7.6，即Update 6, 2018-10-30
         ([發佈](https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/7/html/7.6_Release_Notes/index.html))
+  - Red Hat Enterprise Linux 8, 2019-05-07。Linux内核版本4.18
+      - 8.0，為Red Hat Enterprise Linux
+        8的第一個版本([發佈](https://access.redhat.com/site/documentation/en-US/Red_Hat_Enterprise_Linux/8/html/8.0_Release_Notes/index.html))。
 
 ## 衍生版本
 

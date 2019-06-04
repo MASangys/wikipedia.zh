@@ -284,7 +284,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2010年11月號，《K-O
 <td><p><a href="../Page/丸山詠二.md" title="wikilink">丸山詠二</a></p></td>
 <td><p><a href="../Page/何志威.md" title="wikilink">何志威</a></p></td>
 <td></td>
-<td></td>
+<td><p><a href="../Page/朱子聰.md" title="wikilink">朱子聰</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1917,6 +1917,31 @@ LIVE活動中，由導演[山田尚子親自宣佈劇場版於](../Page/山田�
 <td></td>
 </tr>
 <tr class="even">
+<td><p>電影版歌曲</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《<a href="../Page/Unmei♪wa♪Endless!.md" title="wikilink">Unmei♪wa♪Endless!</a>》</p></td>
+<td><p>放學後TEA TIME</p></td>
+<td><p>2011年12月7日</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>5位</p></td>
+</tr>
+<tr class="even">
+<td><p>《<a href="../Page/Singing!.md" title="wikilink">Singing!</a>》</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>4位</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《》</p></td>
+<td><p>放學後TEA TIME<br />
+DEATH DEVIL</p></td>
+<td><p>2012年1月18日</p></td>
+<td><p>日本Oricon週間專輯榜初上榜第4位</p></td>
+</tr>
+<tr class="even">
 <td><p>原聲帶OST</p></td>
 <td></td>
 <td></td>
@@ -1930,9 +1955,9 @@ LIVE活動中，由導演[山田尚子親自宣佈劇場版於](../Page/山田�
 </tr>
 <tr class="even">
 <td><p>《[[K-ON!_Official_Band_Score集</p></td>
-<td><p>|K-ON! Official Band Score集</p></td>
+<td><p>#「K-ON!」_Official_Band_Score集</p></td>
+<td><p>|「K-ON!」 Official Band Score集</p></td>
 <td><p>]]》</p></td>
-<td><p>2009年9月2日</p></td>
 </tr>
 <tr class="odd">
 <td><p>《[[K-ON!_Official_Band_Score集</p></td>
@@ -1943,8 +1968,8 @@ LIVE活動中，由導演[山田尚子親自宣佈劇場版於](../Page/山田�
 <tr class="even">
 <td><p>《[[K-ON!_Official_Band_Score集</p></td>
 <td><p>#「K-ON</p></td>
-<td><p>」「_Official_Band_Score集_〜Let's_MUSIC</p></td>
-<td><p>〜」|「K-ON</p></td>
+<td><p>」_Official_Band_Score集_〜Let's_MUSIC</p></td>
+<td><p>〜|「K-ON</p></td>
 </tr>
 <tr class="odd">
 <td><p>《[[K-ON!_ORIGINAL_SOUND_TRACK#K-ON</p></td>
@@ -1955,26 +1980,38 @@ LIVE活動中，由導演[山田尚子親自宣佈劇場版於](../Page/山田�
 <tr class="even">
 <td><p>《[[K-ON!_Official_Band_Score集</p></td>
 <td><p>#「K-ON</p></td>
-<td><p>」「_Official_Band_Score集_〜Let's_MUSIC</p></td>
-<td><p>2〜」|「K-ON</p></td>
+<td><p>」_Official_Band_Score集_〜Let's_MUSIC</p></td>
+<td><p>2〜|「K-ON</p></td>
 </tr>
 <tr class="odd">
 <td><p>《[[K-ON!_ORIGINAL_SOUND_TRACK#K-ON</p></td>
-<td><p>_ORIGINAL_SOUND_TRACK_Vol.1|K-ON</p></td>
+<td><p>_ORIGINAL_SOUND_TRACK_Vol.2|K-ON</p></td>
 <td><p>ORIGINAL SOUND TRACK Vol.2]]》</p></td>
 <td><p>2010年10月6日</p></td>
 </tr>
 <tr class="even">
 <td><p>《[[K-ON!_Official_Band_Score集</p></td>
 <td><p>#「K-ON</p></td>
-<td><p>」「_Official_Band_Score集_〜Let's_MUSIC</p></td>
-<td><p>3〜」|「K-ON</p></td>
+<td><p>」_Official_Band_Score集_〜Let's_MUSIC</p></td>
+<td><p>3〜|「K-ON</p></td>
 </tr>
 <tr class="odd">
 <td><p>《[[K-ON!_Official_Band_Score集</p></td>
 <td><p>#「K-ON</p></td>
-<td><p>」「_Official_Band_Score集_〜Let's_MUSIC</p></td>
-<td><p>4〜」|「K-ON</p></td>
+<td><p>」_Official_Band_Score集_〜Let's_MUSIC</p></td>
+<td><p>4〜|「K-ON</p></td>
+</tr>
+<tr class="even">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/K-ON!_ORIGINAL_SOUND_TRACK#K-ON!_MOVIE_ORIGINAL_SOUND_TRACK" title="wikilink">K-ON! MOVIE ORIGINAL SOUND TRACK</a>》</p></td>
+<td><p>2011年12月21日</p></td>
+<td><p>日本<a href="../Page/Oricon.md" title="wikilink">Oricon週間單曲榜初上榜第</a>20位</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>《[[K-ON!_Official_Band_Score集</p></td>
+<td><p>#「K-ON!」劇場版_Official_Band_Score集_K-ON!_MOVIE編|「K-ON!」劇場版 Official Band Score集 K-ON! MOVIE編]]》</p></td>
+<td><p>2012年2月19日</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>角色印象歌曲</p></td>
@@ -2097,7 +2134,7 @@ LIVE活動中，由導演[山田尚子親自宣佈劇場版於](../Page/山田�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/K-ON!_MUSIC_HISTORY&#39;S_BOX" title="wikilink">K-ON! MUSIC HISTORY'S BOX</a>》</p></td>
+<td><p>《》</p></td>
 <td></td>
 <td><p>2013年3月20日[26]</p></td>
 <td></td>
@@ -2195,6 +2232,7 @@ LIVE活動中，由導演[山田尚子親自宣佈劇場版於](../Page/山田�
 [Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink")
 [Category:2009年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年TBS電視網動畫 "wikilink")
 [Category:2010年TBS電視網動畫](https://zh.wikipedia.org/wiki/Category:2010年TBS電視網動畫 "wikilink")
+[Category:TBS深夜動畫](https://zh.wikipedia.org/wiki/Category:TBS深夜動畫 "wikilink")
 [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 [Category:音樂題材作品](https://zh.wikipedia.org/wiki/Category:音樂題材作品 "wikilink")
 [Category:跨媒體製作](https://zh.wikipedia.org/wiki/Category:跨媒體製作 "wikilink")

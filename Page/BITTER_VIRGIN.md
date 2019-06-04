@@ -80,7 +80,7 @@ Enix](https://zh.wikipedia.org/wiki/Square_Enix "wikilink")）2005年5號至2008
 ## 外部連結
 
   - [YOUNG GANGAN - BITTER
-    VIRGIN](http://www.square-enix.co.jp/magazine/yg/introduction/bitter/)
+    VIRGIN](https://web.archive.org/web/20090326082922/http://www.square-enix.co.jp/magazine/yg/introduction/bitter/)
 
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
 [Category:YOUNG_GANGAN](https://zh.wikipedia.org/wiki/Category:YOUNG_GANGAN "wikilink")

@@ -1,4 +1,4 @@
-Eurogate是[欧洲最大的](../Page/欧洲.md "wikilink")[集装箱码头物流集团](https://zh.wikipedia.org/wiki/集装箱码头 "wikilink")。2012年，Eurogate旗下11个港口的转运量为1330万[标准箱](https://zh.wikipedia.org/wiki/标准箱 "wikilink")，总员工数为7665人。
+**Eurogate**是[欧洲最大的](../Page/欧洲.md "wikilink")[集装箱码头物流集团](https://zh.wikipedia.org/wiki/集装箱码头 "wikilink")。2012年，Eurogate旗下11个港口的转运量为1330万[标准箱](https://zh.wikipedia.org/wiki/标准箱 "wikilink")，总员工数为7665人。
 
 1999年，[不来梅](https://zh.wikipedia.org/wiki/不来梅 "wikilink")[BLG物流集团与](../Page/BLG物流.md "wikilink")[汉堡](../Page/汉堡.md "wikilink")[Eurokai集团将其集装箱码头业务合并而成立了Eurogate](../Page/Eurokai集团.md "wikilink")，总部设在德国[汉萨同盟城市](../Page/汉萨同盟.md "wikilink")[不来梅](https://zh.wikipedia.org/wiki/不来梅 "wikilink")，其集装箱码头网络主要覆盖泛欧地区，从[波罗的海](../Page/波罗的海.md "wikilink")、[北海](../Page/北海_\(大西洋\).md "wikilink")、[大西洋到](../Page/大西洋.md "wikilink")[地中海重要港口](../Page/地中海.md "wikilink")。除经营集装箱码头以外，Eurogate还通过多家子公司提供一系列物流及码头配套服务，包括[多式联运](https://zh.wikipedia.org/wiki/多式联运 "wikilink")（Eurogate
 Intermodal）、集装箱装拼箱、海运货物包装（SWOP）以及集装箱储存与维修（ReMain）。
@@ -115,13 +115,6 @@ Eurogate在德国境内运营三个集装箱码头，分别位于德国第一大
       - [Eurogate不来梅哈芬港码头信息手册](http://www.eurogate.eu/live/eg_site_en/eg_html_en/show.php3?id=53&nodeid=0&_language=en)
       - [Eurogate威廉港码头信息](http://www.eurogate.de/live/eg_site_en/show.php3?id=218&nodeid=218&_language=en)
       - [企业图片库](http://www.eurogate.de/live/eg_site_en/show.php3?id=49)
-
-<!-- end list -->
-
   - [Eurogate集团2009年业绩公告](http://www.portcontainer.com/b_affair/gonggao/t20100526_29899.asp)
 
 [Category:德國物流公司](https://zh.wikipedia.org/wiki/Category:德國物流公司 "wikilink")
-[Category:港口](https://zh.wikipedia.org/wiki/Category:港口 "wikilink")
-[Category:汉堡](https://zh.wikipedia.org/wiki/Category:汉堡 "wikilink")
-[Category:不来梅](https://zh.wikipedia.org/wiki/Category:不来梅 "wikilink")
-[Category:不来梅哈芬](https://zh.wikipedia.org/wiki/Category:不来梅哈芬 "wikilink")

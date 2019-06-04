@@ -53,7 +53,4 @@ Everett组建的美国摇滚乐队](https://zh.wikipedia.org/wiki/Mark_Oliver_Ev
 
   - [Rocking Eels](http://www.rockingeels.com/) - 歌迷網站
 
-[simple:Eels
-(band)](https://zh.wikipedia.org/wiki/simple:Eels_\(band\) "wikilink")
-
 [Category:美国摇滚乐团](https://zh.wikipedia.org/wiki/Category:美国摇滚乐团 "wikilink")

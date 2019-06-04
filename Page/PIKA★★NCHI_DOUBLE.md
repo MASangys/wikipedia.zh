@@ -31,8 +31,6 @@ Storm](../Page/J_Storm.md "wikilink")。
 3.  PIKA★★NCHI DOUBLE（Original Karaoke）
 4.  五里霧中（Original Karaoke）
 
-[ko:피칸치 더블](https://zh.wikipedia.org/wiki/ko:피칸치_더블 "wikilink")
-
 [Category:2004年單曲](https://zh.wikipedia.org/wiki/Category:2004年單曲 "wikilink")
 [Category:嵐歌曲](https://zh.wikipedia.org/wiki/Category:嵐歌曲 "wikilink")
 [Category:2004年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2004年Oricon單曲週榜冠軍作品 "wikilink")

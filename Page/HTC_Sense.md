@@ -115,6 +115,11 @@ Freestyle自我風格桌面，取消桌面應用程式固定擺放位置的框�
 搭載於[HTC U11和](../Page/HTC_U11.md "wikilink")[HTC
 U11+](../Page/HTC_U11+.md "wikilink")。
 
+### sense 10(2019)
+
+[HTC U11升級到](../Page/HTC_U11.md "wikilink")[Android
+9所預載](../Page/Android_Pie.md "wikilink")。
+
 ## 參見
 
   - [TouchFLO](../Page/TouchFLO.md "wikilink")

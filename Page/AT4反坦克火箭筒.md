@@ -164,6 +164,8 @@ Space）是一種為[都市戰而設計的AT](https://zh.wikipedia.org/wiki/都�
   - 2016年—《[-{zh:決勝時刻：現代戰爭; zh-cn:使命召唤：现代战争;
     zh-tw:決勝時刻：現代戰爭;}-重製版](../Page/決勝時刻4：現代戰爭.md "wikilink")》：只在單人模式出現，外觀比前作更為精細。
   - 2019年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：3月12日開始加入重裝部隊，可從純凈數據解析後解鎖。
+  - 2019年—《[生化危机2 (重制版)](../Page/生化危机2_\(重制版\).md "wikilink")》（Resident
+    Evil 2 : Remake）
 
 ### 動畫
 

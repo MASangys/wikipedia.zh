@@ -60,7 +60,7 @@ Kids作監製，不過實際上卻由光一作主導，而剛則從下張專輯�
         fAKE](https://zh.wikipedia.org/wiki/Face_2_fAKE "wikilink")
       - 作詞：[三井　拓](https://zh.wikipedia.org/wiki/三井拓 "wikilink")
       - 編曲：Face 2 fAKE
-      - 和音編排：[佐佐木久美](../Page/佐佐木久美.md "wikilink")
+      - 和音編排：
 8.  **答案永遠在心中**（****）
       - 作曲：堂島孝平
       - 作詞：堂島孝平

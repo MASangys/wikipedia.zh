@@ -856,7 +856,7 @@ Faith.](../Page/東方風神錄_～_Mountain_of_Faith..md "wikilink")》中首�
 
 <!-- end list -->
 
-  - [坂田合欢乃](https://zh.wikipedia.org/wiki/東方天空璋_～_Hidden_Star_in_Four_Seasons.#坂田合欢乃 "wikilink")（，Sakata
+  - [坂田合欢](https://zh.wikipedia.org/wiki/東方天空璋_～_Hidden_Star_in_Four_Seasons.#坂田合欢 "wikilink")（，Sakata
     Nemuno）
     第二關頭目兼中頭目，跨越浮世门关的山姥。
     種族：[山姥](https://zh.wikipedia.org/wiki/山姥 "wikilink")

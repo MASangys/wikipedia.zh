@@ -1,9 +1,9 @@
 **VSK-94**是一枝由[KBP工具設計廠生產的輕型](https://zh.wikipedia.org/wiki/KBP工具設計廠 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")，發射[9×39毫米子彈](https://zh.wikipedia.org/wiki/9×39 "wikilink")，是[9A-91的狙擊步槍版本](../Page/9A-91突击步枪.md "wikilink")。可以用低成本來取代[VSS
-Vintorez](../Page/VSS_Vintorez狙擊步槍.md "wikilink")。VSK-94的目的是要準確地進行定點達400[公尺距離內的所有目標](../Page/米_\(单位\).md "wikilink")。目前[俄罗斯的多個執法機構正在使用](../Page/俄罗斯.md "wikilink")。
+Vintorez](../Page/VSS_Vintorez狙擊步槍.md "wikilink")。VSK-94的目的是要準確地進行定點達400[公尺距離內的所有目標](../Page/米_\(单位\).md "wikilink")。目前被[俄罗斯的多個執法機構所使用](../Page/俄罗斯.md "wikilink")。
 
 ## 設計
 
-VSK-94和[9A-91一樣是](../Page/9A-91突击步枪.md "wikilink")[氣動式操作](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#活塞原理 "wikilink")、[轉拴式槍機的槍械](../Page/滾轉式槍機.md "wikilink")。氣動式操作類型是長行程活塞傳動，而轉拴式槍機有4個鎖耳。VSK-94的[機匣採用低成本的金屬沖壓方式生產](https://zh.wikipedia.org/wiki/機匣 "wikilink")，以減少生產成本、所需的金屬原料和生產所需的時間，亦且更容易進行維護及維修；而[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")、連裝有[後握把的](../Page/輔助握把.md "wikilink")[槍托則改為較輕的](../Page/槍托.md "wikilink")[聚合物製造](../Page/聚合物.md "wikilink")。就藏在機匣的右側。充當[快慢機的安全及發射選擇桿位於機匣的左側](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")，略高於[扳機護圈](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，並可以選擇半自動和[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。上翻式調節的金屬機械照門只能令VSK-94攻擊200[公尺以內的目標](../Page/米_\(单位\).md "wikilink")，要利用機匣左方裝上放大4倍的[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")[光學瞄準鏡才能攻擊](https://zh.wikipedia.org/wiki/望远镜 "wikilink")400公尺以內的目標。
+VSK-94和[9A-91一樣是](../Page/9A-91突击步枪.md "wikilink")[氣動式操作](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#活塞原理 "wikilink")、[轉拴式槍栓的槍械](../Page/轉拴式槍栓.md "wikilink")。氣動式操作類型是長行程活塞傳動，而轉拴式槍機有4個鎖耳。VSK-94的[機匣採用低成本的金屬沖壓方式生產](https://zh.wikipedia.org/wiki/機匣 "wikilink")，以減少生產成本、所需的金屬原料和生產所需的時間，亦且更容易進行維護及維修；而[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")、連裝有[後握把的](../Page/輔助握把.md "wikilink")[槍托則改為較輕的](../Page/槍托.md "wikilink")[聚合物製造](../Page/聚合物.md "wikilink")。就藏在機匣的右側。充當[快慢機的安全及發射選擇桿位於機匣的左側](https://zh.wikipedia.org/wiki/擊發調變模式 "wikilink")，略高於[扳機護圈](https://zh.wikipedia.org/wiki/扳機護環 "wikilink")，並可以選擇半自動和[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。上翻式調節的金屬機械照門只能令VSK-94攻擊200[公尺以內的目標](../Page/米_\(单位\).md "wikilink")，要利用機匣左方裝上放大4倍的[PSO-1](../Page/PSO-1光學瞄準鏡.md "wikilink")[光學瞄準鏡才能攻擊](https://zh.wikipedia.org/wiki/望远镜 "wikilink")400公尺以內的目標。
 
 VSK-94能安裝高效[消聲器](../Page/抑制器.md "wikilink")，大大減少了開槍時的聲音，能做到偽裝的狙擊聲音，並且完全消除砲口火焰。在50公尺之外的距離，它的發射聲音是無人聽見的。
 
@@ -75,6 +75,7 @@ VSK-94能安裝高效[消聲器](../Page/抑制器.md "wikilink")，大大減少
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink")
 [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink")
 [Category:精確射手步槍](https://zh.wikipedia.org/wiki/Category:精確射手步槍 "wikilink")
+[Category:消聲槍械](https://zh.wikipedia.org/wiki/Category:消聲槍械 "wikilink")
 [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
 [Category:9×39毫米槍械](https://zh.wikipedia.org/wiki/Category:9×39毫米槍械 "wikilink")
 [Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")

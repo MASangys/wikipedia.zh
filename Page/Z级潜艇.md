@@ -12,6 +12,7 @@ V\[4\]
 [Category:弹道导弹潜艇](https://zh.wikipedia.org/wiki/Category:弹道导弹潜艇 "wikilink")
 [Category:苏俄潜艇](https://zh.wikipedia.org/wiki/Category:苏俄潜艇 "wikilink")
 [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
+[Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")
 
 1.  Sean Maloney, 'To Secure Command of the Sea,' University of New
     Brunswick thesis 1991, p.315

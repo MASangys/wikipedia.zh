@@ -51,9 +51,12 @@ MATCH](../Page/MIX_&_MATCH.md "wikilink")》的最後勝利者將會以[iKON身�
 Dance](../Page/Last_Dance巡迴演唱會.md "wikilink")」巡迴演唱會終場演出後，[G-Dragon於](../Page/G-Dragon.md "wikilink")2月27日\[11\]、太陽於3月12日、大聲於3月13日相繼入伍\[12\]，BIGBANG在2018年正式暫停所有演藝活動。2017年10月29日推出自製選秀綜藝節目《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，最終勝出的少年隊TOP9成員，因節目收視率不如預期，YG娛樂5月3日證實《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》的少年隊取消出道計劃\[13\]。2018年1月25日，[iKON發行了第二張正規專輯](https://zh.wikipedia.org/wiki/iKON "wikilink")《Return》，其主打歌《LOVE
 SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一位達41日\[14\]，突破近十年來韓國樂壇史的最長紀錄\[15\]。
 
-### 2017年
+### 2017年至今
 
 2017年，[Naver公司投資](../Page/Naver_\(公司\).md "wikilink")1000億韓元（約為美金8852萬元）入股YG娛樂，成為第二大股東。\[16\]
+
+2019年，YG社長爆發[性招待醜聞](https://zh.wikipedia.org/wiki/性招待 "wikilink")，韓國節目《Straight》26日曝光預告，指出梁鉉錫與旗下一名歌手在2014年7月為2名訪韓的東南亞富豪，泰國Chavanos
+Rattakul及馬來西亞的劉德祖安排飯局，席間共包含8名男性及25名女性，而25名女性中，有10名是和YG娛樂關係密切，參與當天飯局的一位女性更向節目控訴，自己在酒席中喝下摻有毒品的烈酒後遭到性侵。該事件涉及旗下多名[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")\[17\]\[18\]，導致社會對其不信任\[19\]，並造成該公司股價大跌。\[20\]
 
 ### 組織
 
@@ -81,7 +84,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
   - [BLACKPINK](../Page/BLACKPINK.md "wikilink")
   - [TREASURE 13](../Page/TREASURE_13.md "wikilink")
       - [TREASURE](../Page/Treasure_\(組合\).md "wikilink")
-      - [MAGNUM](https://zh.wikipedia.org/wiki/Magnum "wikilink")\[17\]
+      - [MAGNUM](https://zh.wikipedia.org/wiki/Magnum "wikilink")\[21\]
 
 #### 企劃組合
 
@@ -114,33 +117,35 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 
 #### 製作人
 
-  - \[18\]
+  - \[22\]
 
-  - P.K of FUTURE BOUNCE\[19\]
+  - P.K of FUTURE BOUNCE\[23\]
 
-  - Dee.P of FUTURE BOUNCE\[20\]
+  - Dee.P of FUTURE BOUNCE\[24\]
 
   - Uk Jin Kang (姜旭真)
 
   - 함승천
 
-  - AiRPLAY\[21\]
+  - AiRPLAY\[25\]
 
-  - ROVIN\[22\]
+  - ROVIN\[26\]
 
-  - 趙成確（조성확）\[23\]
+  - 趙成確（조성확）\[27\]
 
-  - BIGTONE\[24\]
+  - BIGTONE\[28\]
 
-  - 민연재\[25\]
+  - 민연재\[29\]
 
-  - 韓東哲(影視製作人)\[26\]
+  - 韓東哲(影視製作人)\[30\]
 
   - 金鉉浩(김현호)
 
   - Millennium(崔來星)
 
 ### 独立音乐人
+
+Ella Gross(模特儿）
 
 #### HIGHGRND
 
@@ -162,7 +167,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 
 #### THE BLACK LABEL
 
-  - [泰迪·朴](../Page/泰迪·朴.md "wikilink")（製作人）\[27\]
+  - [泰迪·朴](../Page/泰迪·朴.md "wikilink")（製作人）\[31\]
 
   - [Zion.T](../Page/Zion.T.md "wikilink")
 
@@ -170,6 +175,8 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
   - Bryan Chase
 
   - [全昭彌](https://zh.wikipedia.org/wiki/全昭彌 "wikilink")
+
+  - Ella Gross
 
   - Peejay（製作人）
 
@@ -238,8 +245,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 
 ### 藝人
 
-  - [朴山多拉](https://zh.wikipedia.org/wiki/朴山多拉 "wikilink")（前[2NE1成員](../Page/2NE1.md "wikilink")）
-  - [柳炳宰](../Page/柳炳宰.md "wikilink")
+  - [Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")（前[2NE1成員](../Page/2NE1.md "wikilink")）
   - [安英美](../Page/安英美.md "wikilink")
   - [權玄彬](../Page/權玄彬.md "wikilink")（[YG K
     Plus](../Page/YG_K_Plus.md "wikilink")）
@@ -258,7 +264,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 
 <!-- end list -->
 
-  - [金宗燮](../Page/金宗燮.md "wikilink")\[28\]（[K-pop Star
+  - [金宗燮](../Page/金宗燮.md "wikilink")\[32\]（[K-pop Star
     6](../Page/K-pop_Star_6.md "wikilink")、[YG寶石盒](../Page/YG寶石盒.md "wikilink")）
   - [王君豪](../Page/王君豪.md "wikilink")（[YG寶石盒](../Page/YG寶石盒.md "wikilink")、[PRODUCE
     X 101](../Page/PRODUCE_X_101.md "wikilink")）
@@ -277,7 +283,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 
   - 李彩英
   - 林秀雅
-  - 韓星\[29\]
+  - 韓星\[33\]
 
 ## 已離開藝人
 
@@ -307,13 +313,13 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 
   - [JC지은](https://zh.wikipedia.org/wiki/JC지은 "wikilink")（2007年5月－2009年9月,YG）
 
-  - [Masta Wu](../Page/Masta_Wu.md "wikilink")（2000－2016年）\[30\]
+  - [Masta Wu](../Page/Masta_Wu.md "wikilink")（2000－2016年）\[34\]
 
-  - [南太鉉](../Page/南太鉉.md "wikilink")（2014－2016年）\[31\]
+  - [南太鉉](../Page/南太鉉.md "wikilink")（2014－2016年）\[35\]
 
-  - [PSY](../Page/PSY.md "wikilink")（2010－2018年）\[32\]
+  - [PSY](../Page/PSY.md "wikilink")（2010－2018年）\[36\]
 
-  - [姜成勳](https://zh.wikipedia.org/wiki/姜成勳 "wikilink")（2016－2018年）\[33\]
+  - [姜成勳](https://zh.wikipedia.org/wiki/姜成勳 "wikilink")（2016－2018年）\[37\]
 
   - [勝利](../Page/勝利_\(歌手\).md "wikilink")（2006－2019年）
 
@@ -325,12 +331,13 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 
   - [姜惠貞](../Page/姜惠貞.md "wikilink")（1997－2013年）
   - [朴韓星](../Page/朴韓星.md "wikilink")
-  - [具惠善](../Page/具惠善.md "wikilink")（2003－2017年）\[34\]
+  - [具惠善](../Page/具惠善.md "wikilink")（2003－2017年）\[38\]
   - [鄭釉珍](../Page/鄭釉珍.md "wikilink")（2008－2018年）
   - [史蒂芬妮·李](https://zh.wikipedia.org/wiki/史蒂芬妮·李 "wikilink")（2014－2017年）
-  - [李鍾碩](../Page/李鍾碩.md "wikilink")（2016－2018年）\[35\]
-  - [高準熹](../Page/高準熹.md "wikilink")（2017－2019年）\[36\]
-  - [吳尚津](../Page/吳尚津.md "wikilink")（2017－2019年）\[37\]
+  - [李鍾碩](../Page/李鍾碩.md "wikilink")（2016－2018年）\[39\]
+  - [高準熹](../Page/高準熹.md "wikilink")（2017－2019年）\[40\]
+  - [吳尚津](../Page/吳尚津.md "wikilink")（2017－2019年）\[41\]
+  - [柳炳宰](../Page/柳炳宰.md "wikilink") (2015—2019年)
 
 <!-- end list -->
 
@@ -348,10 +355,10 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 
   - [2NE1](../Page/2NE1.md "wikilink")（2009－2017年）
 
-      - [孔旻智](../Page/孔旻智.md "wikilink")（2009－2016年）\[38\]\[39\]
-      - [朴春](../Page/朴春.md "wikilink")（2009－2016年）\[40\]
+      - [孔旻智](../Page/孔旻智.md "wikilink")（2009－2016年）\[42\]\[43\]
+      - [朴春](../Page/朴春.md "wikilink")（2009－2016年）\[44\]
 
-  - [Epik High](../Page/Epik_High.md "wikilink")（2011－2018年）\[41\]
+  - [Epik High](../Page/Epik_High.md "wikilink")（2011－2018年）\[45\]
 
 ## 昔日練習生
 
@@ -363,18 +370,23 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
   - [李珠京](https://zh.wikipedia.org/wiki/MyB "wikilink")（[MyB](https://zh.wikipedia.org/wiki/MyB "wikilink")）
   - [瑞淵](https://zh.wikipedia.org/wiki/李瑞淵 "wikilink")（[fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")）
   - [美延](https://zh.wikipedia.org/wiki/曹美延 "wikilink")（[(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")）
-  - [金宥娜](https://zh.wikipedia.org/wiki/金宥娜 "wikilink")\[42\]（[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")）
+  - [金宥娜](https://zh.wikipedia.org/wiki/金宥娜 "wikilink")\[46\]（[KHAN](https://zh.wikipedia.org/wiki/KHAN "wikilink")）
   - [Jun.
     K](https://zh.wikipedia.org/wiki/金閔俊 "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）
+  - [周藝軒](../Page/周藝軒.md "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")、《[以團之名](https://zh.wikipedia.org/wiki/以團之名 "wikilink")》、[新風暴](../Page/新風暴.md "wikilink")）
   - [金聖柱](../Page/金聖柱.md "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")）
+  - [李汶翰](../Page/李汶翰.md "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")、《[青春有你](../Page/青春有你.md "wikilink")》、[UNINE](https://zh.wikipedia.org/wiki/UNINE "wikilink")）
+  - [曹承衍](../Page/曹承衍.md "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")、[M.O.L.A](../Page/M.O.L.A.md "wikilink")、《[PRODUCE
+    X 101](../Page/PRODUCE_X_101.md "wikilink")》）
+  - [王一博](https://zh.wikipedia.org/wiki/王一博 "wikilink")（[UNIQ](../Page/UNIQ.md "wikilink")）
   - [洪碩](https://zh.wikipedia.org/wiki/梁洪硕 "wikilink")（[PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")）
   - [Ravn](../Page/金英助.md "wikilink")（[ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")）
   - [Lee
     Do](https://zh.wikipedia.org/wiki/金建學 "wikilink")（[ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")）
   - [Wow](https://zh.wikipedia.org/wiki/金世潤 "wikilink")（[A.C.E](https://zh.wikipedia.org/wiki/A.C.E "wikilink")）
-  - [全雄](../Page/全雄.md "wikilink")（[AB6IX](../Page/AB6IX.md "wikilink")）
-  - [李炳坤](../Page/李炳坤.md "wikilink")（[C9BOYZ](../Page/C9BOYZ.md "wikilink")）
-  - [金昇勳](../Page/金昇勳.md "wikilink")（[C9BOYZ](../Page/C9BOYZ.md "wikilink")）
+  - [田雄](../Page/全雄.md "wikilink")（[AB6IX](../Page/AB6IX.md "wikilink")）
+  - [李炳坤](../Page/李炳坤.md "wikilink")（[CIX](https://zh.wikipedia.org/wiki/CIX "wikilink")）
+  - [金昇勳](../Page/金昇勳.md "wikilink")（[CIX](https://zh.wikipedia.org/wiki/CIX "wikilink")）
 
 <!-- end list -->
 
@@ -384,8 +396,8 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 
   - [張賢勝](../Page/張賢勝.md "wikilink")
   - [鄭鎮馨](https://zh.wikipedia.org/wiki/鄭鎮馨 "wikilink")
-  - [凱蒂·金](https://zh.wikipedia.org/wiki/凱蒂·金 "wikilink")\[43\]
-  - [柳珠伊](../Page/Cosmic_Girl.md "wikilink")\[44\]
+  - [凱蒂·金](https://zh.wikipedia.org/wiki/凱蒂·金 "wikilink")\[47\]
+  - [柳珠伊](../Page/Cosmic_Girl.md "wikilink")\[48\]
   - [金保亨](../Page/金保亨.md "wikilink")
   - [金常彬](https://zh.wikipedia.org/wiki/金常彬 "wikilink")（藝名：BIL）
 
@@ -415,14 +427,14 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
       - 朴珍熙 Jinny Park
       - 朴書英 Park Seo Young
   - 《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》
-      - [李炳坤](../Page/李炳坤.md "wikilink")（《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》、[C9BOYZ](../Page/C9BOYZ.md "wikilink")）
+      - [李炳坤](../Page/李炳坤.md "wikilink")（《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》、[CIX](https://zh.wikipedia.org/wiki/CIX "wikilink")）
       - [金昇勳](../Page/金昇勳.md "wikilink")（《[Stray
-        Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》、[C9BOYZ](../Page/C9BOYZ.md "wikilink")）
-      - 李彌談（《[Stray
-        Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》、（《[PRODUCE
+        Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》、[CIX](https://zh.wikipedia.org/wiki/CIX "wikilink")）
+      - 李美談（《[Stray
+        Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》、《[PRODUCE
         X 101](../Page/PRODUCE_X_101.md "wikilink")》）
-      - 姜碩和（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
-      - 金成淵（《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》、《[PRODUCE
+      - 姜碩華（《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》）
+      - [金成淵](../Page/金成淵.md "wikilink")（《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》、《[PRODUCE
         X 101](../Page/PRODUCE_X_101.md "wikilink")》）
       - 張尹瑞
       - 吉道煥
@@ -440,7 +452,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
   - [文秀雅](../Page/文秀雅.md "wikilink")
   - 張漢娜
   - Noa
-  - [金恩菲](https://zh.wikipedia.org/wiki/金恩菲 "wikilink")\[45\]
+  - [金恩菲](https://zh.wikipedia.org/wiki/金恩菲 "wikilink")\[49\]
 
 ## 旗下品牌
 
@@ -468,8 +480,8 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
       - 水晶男孩 無本質青春旅行
       - [違反校規的修學旅行](../Page/違反校規的修學旅行.md "wikilink")
   - 2018年
-      - [善良地活吧](../Page/善良地活吧.md "wikilink")\[46\]
-      - [YG戰略資料室](../Page/YG戰略資料室.md "wikilink")\[47\]
+      - [善良地活吧](../Page/善良地活吧.md "wikilink")\[50\]
+      - [YG戰略資料室](../Page/YG戰略資料室.md "wikilink")\[51\]
 
 ### 電視劇
 
@@ -732,12 +744,14 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 
   -
 
-  - [YGEX日本官方網站|YGEX日本](http://ygex.jp/)
+  -
 
   -
 
-  - [优酷网上的](https://zh.wikipedia.org/wiki/优酷网 "wikilink")[YG娛樂|YG娛樂](http://tvs.youku.com/ygfamily)
-    頻道
+  -
+
+  - [优酷网上的](https://zh.wikipedia.org/wiki/优酷网 "wikilink")[YG娛樂頻道](http://tvs.youku.com/ygfamily)
+
 
 [Category:YG娛樂](https://zh.wikipedia.org/wiki/Category:YG娛樂 "wikilink")
 [Category:韓國證券交易所上市公司](https://zh.wikipedia.org/wiki/Category:韓國證券交易所上市公司 "wikilink")
@@ -761,10 +775,10 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 14.
 15.
 16.
-17.
-18.
-19.
-20.
+17. [認了！爆現身YG社長性招待餐會「世界級韓星」：PSY](https://www.setn.com/m/news.aspx?newsid=548436)
+18. [驚！YG社長性招待內幕曝…逼未成年少女「嗑藥拍啪啪片」](https://www.setn.com/m/news.aspx?newsid=547575)
+19. [韓娛聞醜聞】勝利楊賢碩接連捲爭議網民發起抵制YG](https://hk.entertainment.appledaily.com/entertainment/realtime/article/20190528/59649506)
+20. [勝利前老闆被爆性招待富豪　YG股價半年蒸發4000億](https://m.mirrormedia.mg/story/20190527insight002/)
 21.
 22.
 23.
@@ -792,3 +806,7 @@ SCENARIO》橫掃韓國Melon等7大音樂排行榜，連續位居實時榜單一
 45.
 46.
 47.
+48.
+49.
+50.
+51.

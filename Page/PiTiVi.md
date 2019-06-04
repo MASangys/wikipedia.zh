@@ -1,5 +1,5 @@
 **Pitivi**
-是一個建基於[GStreamer的影片編輯軟件](../Page/GStreamer.md "wikilink")，本軟件使用[GNU通用公共許可證發佈](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")，PiTiVi可以：
+是建基於[GStreamer的影片編輯軟件](../Page/GStreamer.md "wikilink")，本軟件使用[GNU通用公共許可證發佈](https://zh.wikipedia.org/wiki/GNU通用公共許可證 "wikilink")，功能包括：
 
   - 截取及編碼GStreamer框架所支持的檔案格式
   - 修剪影片片段
@@ -13,8 +13,8 @@
 ## 資助
 
 部分Pitivi的開發者收到Google的[Summer of
-Code活動的津貼](https://zh.wikipedia.org/wiki/Summer_of_Code "wikilink")\[1\]，與此同時，全職的GStreamer開發者，Edward
-Hervey，也幫本軟件的核心工程工作。 在2008年，Collabora多媒體 宣佈了正式資助兩名PiTiVi的開發者，Brandon
+Code活動的津貼](https://zh.wikipedia.org/wiki/Summer_of_Code "wikilink")\[1\]；與此同時，全職的GStreamer開發者，Edward
+Hervey，也幫忙本軟件的核心工程工作。 在2008年，Collabora多媒體 宣佈了正式資助兩名PiTiVi的開發者，Brandon
 Lewis \[2\]（同時收到Google 的 Summer of Code 活動的津貼）及Alessandro Decina\[3\]。
 
 Pitivi還有為數不少的義務開發者參加了PiTiVi的開發。

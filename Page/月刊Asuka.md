@@ -1,4 +1,4 @@
-《**月刊Asuka**》是由[日本](../Page/日本.md "wikilink")[角川書店發行的](../Page/角川書店.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1985年創刊，主打[少女漫畫](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")。
+《**月刊Asuka**》是由[日本](../Page/日本.md "wikilink")[角川書店發行的](../Page/角川書店.md "wikilink")[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，1985年創刊，類型為[少女漫畫](https://zh.wikipedia.org/wiki/少女漫畫 "wikilink")。
 
 著名的連載作品包括[杉崎由綺琉的](../Page/杉崎由綺琉.md "wikilink")《[D・N・Angel](../Page/天使怪盜.md "wikilink")》、[CLAMP的](../Page/CLAMP.md "wikilink")《[X](../Page/X_\(漫畫\).md "wikilink")》、[九條清的](https://zh.wikipedia.org/wiki/九條清 "wikilink")《[聖魔之血](../Page/聖魔之血.md "wikilink")》等。
 

@@ -21,16 +21,11 @@
   - 2017年6月29日，[中華電信旗下電子錢包服務](https://zh.wikipedia.org/wiki/中華電信 "wikilink")[Hami
     Wallet](http://hamipay.emome.net/)(現改名[Hami
     Pay](http://hamipay.emome.net/))與愛金卡公司合作，提供手機icash2.0行動支付功能。\[5\]
-
-<!-- end list -->
-
   - 2018年2月8日，icash2.0可搭乘桃園捷運機場線。
   - 2018年9月1日，icash2.0可搭乘高雄市公車與大台南公車。
-  - 2019年1月1日，一代icash全面停止使用。
-
-\[6\]
-
+  - 2019年1月1日，一代icash全面停止使用。\[6\]
   - 2019年3月1日，icash2.0可搭乘台中市公車、彰化縣公車、南投縣公車、屏東縣公車。
+  - 2019年5月10日：icash2.0可租借[臺南市公共自行車](../Page/臺南市公共自行車租賃系統.md "wikilink")。
 
 ## 卡片種類
 
@@ -206,6 +201,7 @@ APP、icash・icash2.0）
 
   - 臺北市：[<font color="#888888">YouBike微笑單車</font>](https://zh.wikipedia.org/wiki/臺北市公共自行車租賃系統 "wikilink")
   - 新北市：[<font color="#888888">YouBike微笑單車</font>](../Page/新北市公共自行車租賃系統.md "wikilink")
+  - 臺南市：[T-Bike](../Page/臺南市公共自行車租賃系統.md "wikilink")
 
 #### 休閒遊憩
 

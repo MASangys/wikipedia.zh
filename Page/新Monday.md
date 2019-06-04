@@ -13,7 +13,7 @@
 
 ## 外部參考
 
-  - [新Monday雜誌](http://www.newmonday.com.hk/index.php?controller=Default&action=Aboutus)
+  - [新Monday雜誌](https://web.archive.org/web/20090523054352/http://www.newmonday.com.hk/index.php?controller=Default&action=Aboutus)
 
 [Category:香港雜誌](https://zh.wikipedia.org/wiki/Category:香港雜誌 "wikilink")
 [Category:新傳媒集團](https://zh.wikipedia.org/wiki/Category:新傳媒集團 "wikilink")

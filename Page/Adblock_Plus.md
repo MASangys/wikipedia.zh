@@ -103,6 +103,9 @@ AdSense廣告白名單而遭到嚴厲批評](../Page/Google_AdSense.md "wikilink
 [Category:2006年軟體](https://zh.wikipedia.org/wiki/Category:2006年軟體 "wikilink")
 [Category:广告拦截软件](https://zh.wikipedia.org/wiki/Category:广告拦截软件 "wikilink")
 [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")
+[Category:Google_Chrome扩展](https://zh.wikipedia.org/wiki/Category:Google_Chrome扩展 "wikilink")
+[Category:Internet_Explorer加载项](https://zh.wikipedia.org/wiki/Category:Internet_Explorer加载项 "wikilink")
+[Category:Microsoft_Edge扩展](https://zh.wikipedia.org/wiki/Category:Microsoft_Edge扩展 "wikilink")
 
 1.
 

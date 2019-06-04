@@ -108,7 +108,7 @@ marinomycins、platensimycin、uncialamycin、biyouyanagin、platencin、cortist
 ## 外部链接
 
   - [Nicolaou小组在萊斯大學的主页](http://nicolaou.rice.edu//)
-  - [Nicolaou小组在Scripps网站上的主页](http://www.scripps.edu/chem/nicolaou/)
+  - [Nicolaou小组在Scripps网站上的主页](https://web.archive.org/web/20090918154106/http://www.scripps.edu/chem/nicolaou/)
   - [Perspectives in Total Synthesis: A Personal
     Account](http://www.scripps.edu/chem/nicolaou/images/pdfs/KCN2.pdf)，自传
 

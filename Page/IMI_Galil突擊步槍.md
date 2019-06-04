@@ -51,7 +51,7 @@ FAL的折疊式枪托](../Page/FN_FAL自動步槍.md "wikilink")，而Rk
 
 加利爾系列步槍的[選擇性發射自動武器系統是來自](https://zh.wikipedia.org/wiki/選擇性發射 "wikilink")[卡拉什尼科夫系列的](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")[長行程活塞傳動型氣動式操作系統](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#活塞原理 "wikilink")，其好處是無需調節和採用都能夠射擊。
 
-[機匣內部的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[轉拴式槍機的兩個鎖耳可令加利爾的膛室進入閉鎖狀態](../Page/滾轉式槍機.md "wikilink")。
+[機匣內部的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[轉拴式槍栓的兩個鎖耳可令加利爾的膛室進入閉鎖狀態](../Page/轉拴式槍栓.md "wikilink")。
 
 ### 操作系統
 
@@ -69,7 +69,8 @@ FAL的折疊式枪托](../Page/FN_FAL自動步槍.md "wikilink")，而Rk
 ### 槍管
 
 早期生產型加利爾所使用的[槍管的](../Page/槍管.md "wikilink")[膛線是](../Page/膛線.md "wikilink")6條右旋305毫米（1:12英吋）的膛線纏距（適合使用55
-[格令的M](https://zh.wikipedia.org/wiki/格令 "wikilink")193子彈），而後來生產的槍管則為是6條右旋178毫米（1:7英吋）的膛線纏距（適合使用穩定[彈頭較重](../Page/彈頭.md "wikilink")、62格令的SS109／M855子彈）。槍管上裝有一個帶有6個孔的，可以用於發射[22毫米](../Page/22毫米槍榴彈.md "wikilink")[槍榴彈或利用](../Page/步槍用榴彈.md "wikilink")以安裝[刺刀](../Page/刺刀.md "wikilink")（例如[M16步槍使用的](../Page/M16突擊步槍.md "wikilink")[M7刺刀](../Page/M7刺刀.md "wikilink")）\[6\]
+[格令的M](https://zh.wikipedia.org/wiki/格令 "wikilink")193子彈），而後來生產的槍管則為是6條右旋178毫米（1:7英吋）的膛線纏距（適合使用穩定[彈頭較重](../Page/彈頭.md "wikilink")、62格令的SS109／M855子彈）。槍管上裝有一個帶有6個孔的，可以用於發射[22毫米](../Page/22毫米槍榴彈.md "wikilink")[槍榴彈](../Page/步槍用榴彈.md "wikilink")（例如[BT/AT
+52反坦克槍榴彈](https://zh.wikipedia.org/wiki/BT/AT_52反坦克槍榴彈 "wikilink")）或利用以安裝[刺刀](../Page/刺刀.md "wikilink")（例如[M16步槍使用的](../Page/M16突擊步槍.md "wikilink")[M7刺刀](../Page/M7刺刀.md "wikilink")）\[6\]
 
 ### 供彈
 
@@ -266,6 +267,9 @@ AR式步槍\]\]
     zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》（Payday
     2）：型號為加利爾7.62 ARM及加利爾狙擊型（使用狙擊手前握把及狙擊手槍托後），命名為「Gecko
     7.62」，奇怪的可裝填30發子彈。
+  - 2013年—《[-{zh-hans:反恐精英;zh-hant:絕對武力}-Online
+    2](https://zh.wikipedia.org/wiki/絕對武力Online2 "wikilink")》（Counter-Strike
+    Online 2）：型號為加利爾5.56 ARM，命名為“GALIL”。為恐怖份子專用武器。
   - 2014年—《》（Insurgency）：型號為加利爾5.56 ARM，有著兩種版本：
       - 安全部隊版本命名為“IMI GALIL SAR”，但仍然具備ARM型的一些特徵，使用黑色聚合物製護木和較短的槍管。
       - 叛軍專用版本命名為“GALIL”，使用木製護木。
@@ -338,9 +342,12 @@ AR式步槍\]\]
   - —[D Boy Gun World（槍炮世界）—Galil
     突击步枪](http://firearmsworld.net/isreal/imi/galil/galil.htm)
 
+  - [How a Galil ARM works](https://www.youtube.com/watch?v=LqEQj54GhKw)
+
 [Category:AK-47衍生枪](https://zh.wikipedia.org/wiki/Category:AK-47衍生枪 "wikilink")
 [Category:自动步枪](https://zh.wikipedia.org/wiki/Category:自动步枪 "wikilink")
 [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink")
+[Category:導氣式槍械](https://zh.wikipedia.org/wiki/Category:導氣式槍械 "wikilink")
 [Category:5.56×45毫米槍械](https://zh.wikipedia.org/wiki/Category:5.56×45毫米槍械 "wikilink")
 [Category:戰鬥步槍](https://zh.wikipedia.org/wiki/Category:戰鬥步槍 "wikilink")
 [Category:7.62×51毫米槍械](https://zh.wikipedia.org/wiki/Category:7.62×51毫米槍械 "wikilink")

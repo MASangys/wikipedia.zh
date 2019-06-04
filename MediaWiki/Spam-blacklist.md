@@ -13,6 +13,8 @@
  #   * Everything from a "#" character to the end of the line is a comment
  #   * Every non-blank line is a regex fragment which will only match hosts inside URL
 
+\blpm\.hk\b
+\breurl\.cc\b # 縮網址
 \bwww\.jcmtherapy\.com\b
 \bwww\.expecthim\.com\b
 \bticketbuynow\.com\b # [[Special:Contributions/Melanlove123|Special:Contributions/Melanlove123]]

@@ -10,6 +10,9 @@ Assigned Numbers Authority）维护。\[2\]
 Internet Information
 Services）有时会使用额外的十进制子代码来获取更多具体信息，\[3\]但是这些子代码仅出现在响应有效内容和文档中，而不是代替实际的HTTP状态代码。
 
+若要查看網址的 HTTP 狀態碼，可以使用 [httpstatus
+線上工具](https://techmoon.xyz/httpstatus/)來進行檢測。
+
 ## 1xx消息
 
 这一类型的状态码，代表请求已被接受，需要继续处理。这类响应是临时响应，只包含状态行和某些可选的响应头信息，并以空行结束。由于HTTP/1.0协议中没有定义任何1xx状态码，所以除非在某些试验条件下，服务器禁止向此类客户端发送1xx响应。\[4\]
@@ -468,6 +471,8 @@ Cloudflare 會用的未知錯誤。
     Registry](http://www.iana.org/assignments/http-status-codes/http-status-codes.xhtml)
   - 微软知识库：MSKB943891: [IIS 7.0、IIS 7.5 和 IIS 8.0 中的 HTTP
     状态代码](http://support.microsoft.com/kb/943891/)
+  - [httpstatus – 檢查網址重定向路徑、請求標頭與 HTTP
+    狀態代碼](https://techmoon.xyz/httpstatus/)
 
 [Category:HTTP](https://zh.wikipedia.org/wiki/Category:HTTP "wikilink")
 [Category:科技相關列表](https://zh.wikipedia.org/wiki/Category:科技相關列表 "wikilink")

@@ -383,7 +383,7 @@ SEED DESTINY](../Page/機動戰士GUNDAM_SEED_DESTINY.md "wikilink")》所登場
 
     在與煌親近相處後，逐漸發現煌的溫柔並被其所感動，復仇與利用的想法逐漸被依賴與愛所取代，但本人並不自知。在得知煌在與阿斯蘭互相想殺死對方的決鬥中被[神盾鋼彈的零距離自爆波及生死不明後之消息後顯得十分驚愕和悲傷](https://zh.wikipedia.org/wiki/神盾鋼彈 "wikilink")。
 
-    之後轉屬到其他單位而離開大天使號，因緣際會下被札夫特高階將領拉[拉烏·魯·克魯澤俘虜](https://zh.wikipedia.org/wiki/拉烏·魯·克魯澤 "wikilink")，其間曾被拉烏強迫發生性關係。之後[拉烏·魯·克魯澤刻意洩漏](https://zh.wikipedia.org/wiki/拉烏·魯·克魯澤 "wikilink")「反中子干擾器」的情報給她並將她送回[主天使號](https://zh.wikipedia.org/wiki/主天使號 "wikilink")，藉以轉交給希望肅清新人類的藍色宇宙手上。
+    之後轉屬到其他單位而離開大天使號，因緣際會下被札夫特高階將領拉[拉烏·魯·克魯澤俘虜](https://zh.wikipedia.org/wiki/拉烏·魯·克魯澤 "wikilink")，之後[拉烏·魯·克魯澤刻意洩漏](https://zh.wikipedia.org/wiki/拉烏·魯·克魯澤 "wikilink")「反中子干擾器」的情報給她並將她送回[主天使號](https://zh.wikipedia.org/wiki/主天使號 "wikilink")，藉以轉交給希望肅清新人類的藍色宇宙手上。
 
     在三艦同盟的努力下，藍色宇宙的主力主天使號終於被擊沉。在被擊沉前芙蕾搭乘逃生艇脫出。
 

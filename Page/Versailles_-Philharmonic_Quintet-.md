@@ -236,7 +236,8 @@ CHATEAU DE VERSAILLES - Live映像集 - （2009年5月20日）
 
 ## 官方網站
 
-  - [Versailles Official Site](http://versailles.syncl.jp/)
+  - [Versailles Official
+    Site](https://web.archive.org/web/20110929151222/http://versailles.syncl.jp/)
   - [Versailles Official World Fan
     Club](https://web.archive.org/web/20100822183653/http://www.versailles-wfc.com/index.html)
   - [Warner Japan Official Site - Versailles

@@ -92,7 +92,7 @@ bias）。由于p区连接电源负极，多数载流子空穴被外电场拉向
 saturation
 current）。这是因为反向电流是由少数载流子跨PN结形成的，因此其“饱和”值取决于少数载流子的掺杂密度。由于反向饱和电流很小，PN结处于截止状态，所以外加反向电压时，PN结相当于**断路**。
 
-當加在PN結上的反向電壓超過一定數值時，PN结的[電阻突然減小](https://zh.wikipedia.org/wiki/電阻 "wikilink")，反向電流急劇增大，這種現象稱為**擊穿**。电击穿擊穿分為[雪崩擊穿和](https://zh.wikipedia.org/wiki/雪崩擊穿 "wikilink")[齊納擊穿且都是可逆的](https://zh.wikipedia.org/wiki/齊納擊穿 "wikilink")。發生热擊穿後，PN结不再具有單向導電性，導致二極管發生不可恢復的損壞。利用齊納擊穿製作的穩壓二極體，稱為[齊納二極體](../Page/齊納二極體.md "wikilink")。
+當加在PN結上的反向電壓超過一定數值時，PN结的[電阻突然減小](https://zh.wikipedia.org/wiki/電阻 "wikilink")，反向電流急劇增大，這種現象稱為**擊穿**。电击擊穿分為[雪崩擊穿和](https://zh.wikipedia.org/wiki/雪崩擊穿 "wikilink")[齊納擊穿且都是可逆的](https://zh.wikipedia.org/wiki/齊納擊穿 "wikilink")。發生热擊穿後，PN结不再具有單向導電性，導致二極管發生不可恢復的損壞。利用齊納擊穿製作的穩壓二極體，稱為[齊納二極體](../Page/齊納二極體.md "wikilink")。
 
 #### 反向崩潰
 

@@ -48,7 +48,7 @@ Mobile只能通過預裝途徑獲得，而不能自主下載\[3\]。
 
   - [Opera台灣](https://www.opera.com/zh-tw/mobile)
 
-[Category:Opera_Software](https://zh.wikipedia.org/wiki/Category:Opera_Software "wikilink")
+[Category:Opera浏览器](https://zh.wikipedia.org/wiki/Category:Opera浏览器 "wikilink")
 [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink")
 
 1.  [Opera Solutions: Opera

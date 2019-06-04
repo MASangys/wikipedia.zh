@@ -44,7 +44,7 @@ Mr，並於翌年正式加盟。
 
 ## 參考資料
 
-  - [K-net官方網頁](http://www.k-netmusic.com/)
+  - [K-net官方網頁](https://web.archive.org/web/20100513043434/http://k-netmusic.com/)
   - [K-net Facebook](http://www.facebook.com/pages/K-Net/42406859584)
 
 [Category:香港卡拉OK公司](https://zh.wikipedia.org/wiki/Category:香港卡拉OK公司 "wikilink")

@@ -143,7 +143,8 @@
 
 ## 外部連結
 
-  - [hitomi official website](http://www.hitomilovelife.net/index.html)
+  - [hitomi official
+    website](https://web.archive.org/web/20090815064751/http://hitomilovelife.net/index.html)
   - [hitomi オフィシャルブログ「hitomiのヒトミ」Powered by
     Ameba](http://ameblo.jp/ninpu-hitomi/)
 

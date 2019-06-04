@@ -205,7 +205,7 @@ points，逻辑连接点，它们可能与其它的参考点共享一个公共�
 ## 外部链接
 
   - [3GPP包含标准的3GPP网页](http://www.3gpp.org)
-  - [便捷访问不同的规范](http://www.3gpp.org/specs/numbering.htm)
+  - [便捷访问不同的规范](https://web.archive.org/web/20081030112056/http://www.3gpp.org/specs/numbering.htm)
   - [GSM世界对GPRS的介绍](https://web.archive.org/web/20050207090121/http://www.gsmworld.com/technology/gprs/intro.shtml)
   - [GPRS附着（attache）和PDP上下文激活时序图](http://www.eventhelix.com/RealtimeMantra/Telecom/gprs_attach_pdp_sequence_diagram.pdf)
 
