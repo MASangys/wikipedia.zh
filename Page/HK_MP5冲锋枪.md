@@ -326,10 +326,6 @@ MP5\]\]
       - [司法警察局](../Page/司法警察局.md "wikilink")
       - [懲教管理局](https://zh.wikipedia.org/wiki/懲教管理局 "wikilink")
 
-  -   - 特別任務單位
-
-      - 特別行動團
-
   -   - [馬來西亞武裝部隊](https://zh.wikipedia.org/wiki/馬來西亞武裝部隊 "wikilink")
 
       - [馬來西亞皇家警察](https://zh.wikipedia.org/wiki/馬來西亞皇家警察 "wikilink")
@@ -360,6 +356,10 @@ MP5\]\]
       -
   -
   -
+  -   - 特別任務單位
+
+      - 特別行動團
+
   -
   -   - [挪威國防軍](../Page/挪威國防軍.md "wikilink")（被[MP7所取代](https://zh.wikipedia.org/wiki/HK_MP7衝鋒槍 "wikilink")\[14\]）
 
@@ -724,7 +724,7 @@ Slap）。
     zh-cn:使命召唤：黑色行动; zh-tw:決勝時刻：黑色行動;
     zh-hk:使命召喚：黑色行動;}-](../Page/決勝時刻：黑色行動.md "wikilink")》（Call
     of Duty: Black Ops）：型號為MP5K原型，
-    命名為「MP5K」，會使用“HK拍擊”上膛，奇怪地會在[1960年代出現](../Page/1960年代.md "wikilink")。故事模式時被[美國中央情報局](../Page/中央情报局.md "wikilink")[特別活動分部和](../Page/中央情報局特別行動科.md "wikilink")所使用。在聯機模式時於等級1解鎖，並能使用[紅點鏡](../Page/紅點鏡.md "wikilink")、[ACOG瞄準鏡](https://zh.wikipedia.org/wiki/ACOG瞄準鏡 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、射速增加、反射式瞄準鏡和延長彈匣（增至45發）。
+    命名為「MP5K」，會使用“HK拍擊”上膛，奇怪地會在[1960年代出現](../Page/1960年代.md "wikilink")。故事模式時被[美國中央情報局](../Page/中央情报局.md "wikilink")[特別活動部和](https://zh.wikipedia.org/wiki/中央情報局特别活動中心 "wikilink")所使用。在聯機模式時於等級1解鎖，並能使用[紅點鏡](../Page/紅點鏡.md "wikilink")、[ACOG瞄準鏡](https://zh.wikipedia.org/wiki/ACOG瞄準鏡 "wikilink")、[消音器](../Page/抑制器.md "wikilink")、射速增加、反射式瞄準鏡和延長彈匣（增至45發）。
   - 2011年—《[-{zh:決勝時刻：現代戰爭3; zh-hans:使命召唤：现代战争3; zh-hant:決勝時刻：現代戰爭3;
     zh-cn:使命召唤：现代战争3; zh-tw:決勝時刻：現代戰爭3;
     zh-hk:使命召喚：現代戰爭3;}-](../Page/決勝時刻：現代戰爭3.md "wikilink")》（Call
@@ -742,7 +742,7 @@ Slap）。
     zh-hk:使命召喚：黑色行動II;}-](../Page/決勝時刻：黑色行動II.md "wikilink")》（Call
     of Duty: Black Ops
     II）：型號為MP5A3和MP5SD3（裝備[抑制器後](../Page/抑制器.md "wikilink")），
-    命名為「MP5A3」，拔槍時會使用“HK拍擊”上膛，只在故事模式和殭屍模式中登場，故事模式中被[美國中央情報局](https://zh.wikipedia.org/wiki/美國中央情報局 "wikilink")[特別活動分部和](https://zh.wikipedia.org/wiki/特別活動分部 "wikilink")[巴拿馬國防軍所使用](https://zh.wikipedia.org/wiki/巴拿馬國防軍 "wikilink")，並是玩家一開始就能使用的武器之一。能夠使用：[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、長槍管、延長彈匣（增至45發）、[快速重裝彈匣](../Page/彈匣並聯.md "wikilink")、[槍托](../Page/槍托.md "wikilink")、射速增加。
+    命名為「MP5A3」，拔槍時會使用“HK拍擊”上膛，只在故事模式和殭屍模式中登場，故事模式中被[美國中央情報局](https://zh.wikipedia.org/wiki/美國中央情報局 "wikilink")[特别活動部和](https://zh.wikipedia.org/wiki/中央情報局特别活動中心 "wikilink")[巴拿馬國防軍所使用](https://zh.wikipedia.org/wiki/巴拿馬國防軍 "wikilink")，並是玩家一開始就能使用的武器之一。能夠使用：[反射式瞄準鏡](../Page/紅點鏡.md "wikilink")、[抑制器](../Page/抑制器.md "wikilink")、長槍管、延長彈匣（增至45發）、[快速重裝彈匣](../Page/彈匣並聯.md "wikilink")、[槍托](../Page/槍托.md "wikilink")、射速增加。
   - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：型號為MP5A4与MP5A5，均为工程兵专用武器：
       - MP5A4命名为“H\&K MP5”，采用MP5K
         PDW的折叠式枪托并折叠，同时去除前护木改为战术导轨，枪械顶部加装导轨以安装瞄准镜。使用30发弹匣，作为工程兵初始武器，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、冲锋枪消音器）、战术导轨配件（[通用握把](https://zh.wikipedia.org/wiki/辅助握把 "wikilink")）以及瞄准镜（[EoTech
@@ -756,9 +756,12 @@ Slap）。
   - 2012年—《[-{zh-hans:孤岛惊魂;
     zh-hant:極地戰嚎;}-3](https://zh.wikipedia.org/wiki/極地戰嚎3 "wikilink")》（Far
     Cry 3）：型號為MP5A3，會使用“HK拍擊”上膛，奇怪的是射擊時拉機柄會隨槍機一同復進，並在打空彈匣後會自動鎖定。
+  - 2013年—《[-{zh-hans:反恐精英;zh-hant:絕對武力}-Online
+    2](https://zh.wikipedia.org/wiki/絕對武力Online2 "wikilink")》（Counter-Strike
+    Online 2）：型號為MP5A3，命名為「MP5」。
   - 2013年—《[-{zh-hans:收获日;
     zh-hant:劫薪日;}-2](../Page/劫薪日2.md "wikilink")》（Payday
-    2）：型號為MP5A4（預設），命名為「Compact-5」，可在黑市購買後並另外花費自行組裝，會使用“HK拍擊”上膛。
+    2）：型號為MP5A4（預設），命名為「Compact-5」，可購買[雙持使用](../Page/雙持.md "wikilink")(型號為MP5K)，可在黑市購買後並另外花費改裝，會使用“HK拍擊”上膛。
   - 2013年—《[-{zh-hans:武装突袭;
     zh-hant:武裝行動;}-3](https://zh.wikipedia.org/wiki/武装突袭3 "wikilink")》（ArmA
     3）：型號為MP5K，命名为“Protecter 9mm"，會使用“HK拍擊”上膛。
@@ -802,12 +805,17 @@ Slap）。
     zh-cn:使命召唤：现代战争; zh-tw:決勝時刻：現代戰爭;
     zh-hk:使命召喚：現代戰爭;}-重製版](../Page/決勝時刻4：現代戰爭.md "wikilink")》（Call
     of Duty: Modern Warfare Remastered）：型號為MP5N及MP5SD3，外觀比前作更為精細。
+
+用，命名為「9×19VSN」。
+
+  - 2016年—《》（Escape From Tarkov）：登場型號為MP5A4（預設）和MP5SD5（預設）。
   - 2018年—《[-{zh-hans:孤岛惊魂;
     zh-hant:極地戰嚎;}-5](https://zh.wikipedia.org/wiki/極地戰嚎5 "wikilink")》（Far
     Cry 5）：型號為MP5A3、MP5SD3和MP5K，會使用「HK拍擊」上膛。
   - 2019年—《[-{zh-hans:孤岛惊魂：新曙光;
     zh-hant:極地戰嚎：破曉;}-](../Page/孤岛惊魂：新曙光.md "wikilink")》（Far
     Cry: New Dawn）
+  - 2019-《絕地求生》型號為MPK5,使用九毫米子彈。
 
 ### [動畫](https://zh.wikipedia.org/wiki/動畫 "wikilink")
 

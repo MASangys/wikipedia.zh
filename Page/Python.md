@@ -1,5 +1,5 @@
 **Python**（
-），是一种广泛使用的[解释型](https://zh.wikipedia.org/wiki/直譯语言 "wikilink")，[高级编程](https://zh.wikipedia.org/wiki/高级编程語言 "wikilink")，[通用型编程语言](../Page/通用编程语言.md "wikilink")，由[吉多·范罗苏姆创造](../Page/吉多·范罗苏姆.md "wikilink")，第一版发布于1991年。可以視之為一種改良（加入一些其他程式語言的優點，如物件導向）的[LISP](../Page/LISP.md "wikilink")。Python的设计哲学强调代码的[可读性和简洁的语法](../Page/可读性.md "wikilink")（尤其是使用[空格缩进划分代码块](../Page/越位规则.md "wikilink")，而非使用大括号或者关键词）。相比於C++或Java，Python让开发者能够用更少的代码表达想法。不管是小型还是大型程序，该语言都试图让程序的结构清晰明了。
+）是一种广泛使用的[解释型](https://zh.wikipedia.org/wiki/直譯语言 "wikilink")、[高级编程](https://zh.wikipedia.org/wiki/高级编程語言 "wikilink")、[通用型编程语言](../Page/通用编程语言.md "wikilink")，由[吉多·范罗苏姆创造](../Page/吉多·范罗苏姆.md "wikilink")，第一版发布于1991年。可以視之為一種改良（加入一些其他程式語言的優點，如物件導向）的[LISP](../Page/LISP.md "wikilink")。Python的设计哲学强调代码的[可读性和简洁的语法](../Page/可读性.md "wikilink")（尤其是使用[空格缩进划分代码块](../Page/越位规则.md "wikilink")，而非使用大括号或者关键词）。相比於C++或Java，Python让开发者能够用更少的代码表达想法。不管是小型还是大型程序，该语言都试图让程序的结构清晰明了。
 
 与[Scheme](../Page/Scheme.md "wikilink")、[Ruby](../Page/Ruby.md "wikilink")、[Perl](../Page/Perl.md "wikilink")、[Tcl等动态类型编程语言一样](../Page/Tcl.md "wikilink")，Python拥有[动态类型系统和](../Page/類型系統.md "wikilink")[垃圾回收功能](../Page/垃圾回收_\(計算機科學\).md "wikilink")，能够自动管理内存使用，并且支持多种编程范式，包括面向对象、命令式、函数式和过程式编程。其本身拥有一个巨大而广泛的标准库。
 

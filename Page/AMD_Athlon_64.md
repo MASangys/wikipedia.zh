@@ -28,8 +28,8 @@ Athlon 64處理器使用以下的插座。
 
   - [Socket 754](../Page/Socket_754.md "wikilink")
   - [Socket 939](../Page/Socket_939.md "wikilink")
-  - [Socket 940](../Page/Socket_940.md "wikilink") (FX51, 53)
-  - [Socket F](../Page/Socket_F.md "wikilink")（FX-70或以上）
+  - [Socket 940](../Page/Socket_940.md "wikilink") (FX51、FX53)
+  - [Socket F](../Page/Socket_F.md "wikilink")（FX70或以上）
   - [Socket AM2](../Page/Socket_AM2.md "wikilink")
   - [Socket
     AM2+](../Page/Socket_AM2+.md "wikilink")（Phenom）它們都是採用[HyperTransport技术来实现处理器与其他设备的连接](../Page/HyperTransport.md "wikilink")。

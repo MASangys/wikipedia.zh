@@ -2,7 +2,9 @@
 C.
 Sibley）利用以[DNA交杂之](https://zh.wikipedia.org/wiki/DNA交杂 "wikilink")[分子生物學技术对](https://zh.wikipedia.org/wiki/分子生物學 "wikilink")[鸟类的](https://zh.wikipedia.org/wiki/鸟类 "wikilink")[系统演化和](https://zh.wikipedia.org/wiki/系统演化 "wikilink")[亲缘关系进行研究](https://zh.wikipedia.org/wiki/亲缘关系 "wikilink")，总共做了12000份[鸟类的DNA](https://zh.wikipedia.org/wiki/鸟类 "wikilink")-DNA交杂實验，然後於1988-1993年发表了一系列文章。1988年查勒斯·西布萊发表了《A
 Classification of the Living Birds of the World Based on DNA-DNA
-Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥類分佈提供了優良的解釋](https://zh.wikipedia.org/wiki/鳥類 "wikilink")，同一地區的鳥類多半被歸在一起。
+Hybridization》，提出DNA分类系统。在此一分类系统對各種[鳥類分佈提供了解釋](https://zh.wikipedia.org/wiki/鳥類 "wikilink")，同一地區的鳥類多半被歸在一起。
+
+近年被全新的[鸟类全基因组测序分类系统取代](https://zh.wikipedia.org/wiki/鸟类分类系统 "wikilink")。
 
 [Avesboom_(zh).jpg](https://zh.wikipedia.org/wiki/File:Avesboom_\(zh\).jpg "fig:Avesboom_(zh).jpg")
 
@@ -335,7 +337,7 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                           - \-
                               - \-
                                   - 沙鸡科Preroclidae
-                      - 鸻下目Charadriides(旧[鸻形目](https://zh.wikipedia.org/wiki/鸻形目 "wikilink"))
+                      - 鸻下目Charadriides(旧[鸻形目](../Page/鸻形目.md "wikilink"))
                           - 鹬小目Scolopacida
                               - 鹬总科Scolopacoidea
                                   - 籽鹬科Thinocoridae(南美洲)
@@ -374,15 +376,12 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                                       - 鹗亚科Pandioninae(旧鹗科)
                                   - 蛇鹫科Sagittariidae(非洲)
                           - 隼小目Falconia
-                              - \-
-                                  - 隼科Falconidae
+                              -   - 隼科Falconidae
                       - 鹳下目Ciconiides
                           - 鸊鷉小目Podicipedida
-                              - \-
-                                  - 鸊鷉科Podicipedidae
+                              -   - 鸊鷉科Podicipedidae
                           - 鹲小目Phaethontida
-                              - \-
-                                  - 鹲科Phaethontidae
+                              -   - 鹲科Phaethontidae
                           - 鲣鸟小目Sulida(旧[鹈形目](https://zh.wikipedia.org/wiki/鹈形目 "wikilink"))
                               - 鲣鸟总科Suloidea(热带)
                                   - 鲣鸟科Sulidae
@@ -417,20 +416,16 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
               - [雀形目Passeriformes](../Page/雀形目.md "wikilink")
                   - 霸鹟亚目Tyranni(亚鸣禽，琴鸟除外)
                       - 刺鹩下目Acanthisittides(新西兰)
-                          - \-
-                              - \-
-                                  - 刺鹩科Acanthisittidae
+                          -   - 刺鹩科Acanthisittidae
                       - 阔嘴鸟下目Eurylaimides(旧大陆)
-                          - \-
-                              - 八色鸫总科Pittoidea
+                          -   - 八色鸫总科Pittoidea
                                   - 八色鸫科Pittoidae
                               - 阔嘴鸟总科Eurylaimoidea
                                   - 阔嘴鸟科Eurylaimidae
                                   - 裸眉鸫科Philepittidae(DNA资料缺乏，暂列於此)
                       - 霸鹟下目Tyrannides(新大陆)
                           - 霸鹟小目Tyrannida
-                              - \-
-                                  - 霸鹟科Tyrannidae
+                              -   - 霸鹟科Tyrannidae
                                       - 蚁鹨亚科Corythopinae
                                       - 霸鹟亚科Tyrannina
                                       - 蒂泰雀亚科Tityrinae
@@ -440,8 +435,7 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                                       - 伞鸟亚科Cotinginae(內含DNA资料缺乏暂列於此之刈草鸟)
                       - 霸鹟下目Tyrannides
                           - 蚁鵙小目Thamnophilida
-                              - \-
-                                  - 蚁鵙科Thamnophilidae
+                              -   - 蚁鵙科Thamnophilidae
                           - 灶鸟小目Furnariida(拉丁美洲)
                               - 灶鸟总科Furnarioidea
                                   - 灶鸟科Furnariidae
@@ -452,8 +446,7 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                                   - 鼠鸟科Rhinocryptidae
                                   - 食蚊鸟科Conopophagidae
                   - 雀形亚目Passeri(鸣禽)
-                      - \-
-                          - 鸦小目Corvida(澳洲)
+                      -   - 鸦小目Corvida(澳洲)
                               - 琴鸟总科Menuroidea
                                   - 短嘴旋木雀科Climacteridae
                                   - 琴鸟科Menuridae
@@ -506,8 +499,7 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                           - 雀小目Passerida
                               - 鹟总科Musicicapoidea
                                   - 太平鸟科Bombycillidae(旧太平鸟科及旧棕榈䳭科)
-                                      - \-
-                                          - 棕榈䳭族Dulini(西印度群岛)
+                                      -   - 棕榈䳭族Dulini(西印度群岛)
                                           - 丝鹟族Ptilogonatini(美洲)
                                           - 太平鸟族Bombycillini
                                   - 河乌科Cinclidae
@@ -517,8 +509,7 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                                           - 鹟族Musicicapini(旧大陆)
                                           - 石䳭族Saxicolini
                                   - 椋鸟科Sturnidae
-                                      - \-
-                                          - 椋鸟族Sturnini(旧椋鸟科，旧大陆)
+                                      -   - 椋鸟族Sturnini(旧椋鸟科，旧大陆)
                                           - 嘲鸫族Mimini(旧嘲鸫科，新大陆)
                               - 莺总科Sylvioidea
                                   - 鳾科Sittidae(旧鳾科，小鳾除外)
@@ -558,8 +549,7 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
                                           - 啄花鸟族Dicaeini
                                           - 太阳鸟族Nectariniini
                                   - 啄果鸟科Melanocharitini(新几内亚)
-                                      - \-
-                                          - 啄果鸟族Melanocharitini
+                                      -   - 啄果鸟族Melanocharitini
                                           - 弯嘴吸蜜鸟族Toxorhamphini
                                   - 冠啄果鸟科Paramythiidae(新几内亚)
                                   - 麻雀科Passeridae
@@ -586,6 +576,7 @@ Hybridization》，提出全新分类系统。在此一分类系统對各種[鳥
 ## 参见
 
   - [鸟类传统分类系统](../Page/鸟类传统分类系统.md "wikilink")
+  - 2014年[鸟类全基因组测序分类系统](https://zh.wikipedia.org/wiki/鸟类分类系统 "wikilink")
 
 [Category:鸟类](https://zh.wikipedia.org/wiki/Category:鸟类 "wikilink")
 [Category:生物分類學](https://zh.wikipedia.org/wiki/Category:生物分類學 "wikilink")

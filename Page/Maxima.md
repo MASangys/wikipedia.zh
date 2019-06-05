@@ -1,19 +1,28 @@
-**Maxima**是一种用[LISP编写的](../Page/LISP.md "wikilink")[计算机代数系统](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")（Computer
+**Maxima**
+是一种用[LISP编写的](../Page/LISP.md "wikilink")[计算机代数系统](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")（Computer
 Algebra
-System），用于公式推导和符号计算，它是一套[自由软件](../Page/自由软件.md "wikilink")，在[GNU通用公共许可证下發行](../Page/GNU通用公共许可证.md "wikilink")。它由[麻省理工学院在美国能源部的支持下于](../Page/麻省理工学院.md "wikilink")60年代末创造的[Macsyma演变而来](https://zh.wikipedia.org/wiki/Macsyma "wikilink")。Macsyma後來慢慢走上商業化的道路，自1982年开始，[Bill
-Schelter教授默默地维护基于能源部获得的代碼的Macsyma](https://zh.wikipedia.org/wiki/Bill_Schelter "wikilink")，他把這個軟體叫做Maxima，開放源码。因為版權的問題，Maxima一直没有公開發行，-{只}-有少數人知道有這個軟體的存在。1998年，Maxima終於得到公開發行的許可，這已是Schelter教授努力了16年之後的事。Schelter教授在2001年去世，不過已經正式成為合法開放源碼軟體，因此陸續有支持開放源碼的程式設計師，學者投入Maxima的開發工作。
+System），用于公式推导和符号计算，它是一套[自由软件](../Page/自由软件.md "wikilink")，在[GNU通用公共许可证下發行](../Page/GNU通用公共许可证.md "wikilink")。它由[麻省理工学院在美国能源部的支持下于](../Page/麻省理工学院.md "wikilink")60年代末创造的
+[Macsyma](https://zh.wikipedia.org/wiki/Macsyma "wikilink") 演变而来。Macsyma
+後來慢慢走上商業化的道路，自1982年开始，[Bill
+Schelter](https://zh.wikipedia.org/wiki/Bill_Schelter "wikilink")
+教授默默地维护基于能源部获得的代碼的Macsyma，他把這個軟體叫做Maxima，開放源码。因為版權的問題，Maxima一直没有公開發行，-{只}-有少數人知道有這個軟體的存在。1998年，Maxima
+終於得到公開發行的許可，這已是 Schelter 教授努力了16年之後的事。Schelter
+教授在2001年去世，不過已經正式成為合法開放源碼軟體，因此陸續有支持開放源碼的程式設計師，學者投入
+Maxima 的開發工作。
 
-Maxima的前身Macsyma在當時是非常創新的軟體。現在流行的商業[计算机代数系统軟體Maple及Mathematica](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")，都是受到Macsyma的啟發而設計出來的。
+Maxima 的前身 Macsyma
+在當時是非常創新的軟體。現代流行的商業[计算机代数系统軟體](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")
+Maple 及 Mathematica，都是受到Macsyma 的啟發而設計出來的。
 
 ## 產品功能
 
   - 符號運算
   - 各種基礎數學函數庫
   - 複數和指定精度數
-  - 利用gnuplot進行2維及3維函數繪圖
+  - 利用 gnuplot 進行2維及3維函數繪圖
   - 可編程
   - 可計算文檔，支持插入，標題單元，章節單元，備註，輸入單元，文字單元，圖片
-  - 匯出LaTeX格式
+  - 匯出 LaTeX 格式
   - 方便的加載 Common Lisp 語言或 Maxima 本身的語言寫成的 Package
   - 基於符號而不只是數值的微積分運算
   - 矩陣運算
@@ -22,20 +31,17 @@ Maxima的前身Macsyma在當時是非常創新的軟體。現在流行的商業[
 
 ## 版本历史
 
-Maxima的原始碼可在Linux, Mac OS X，及Windows下編譯。
-[Maxima已经发布了如下Maxima版本](../Page/Maxima.md "wikilink")
-
-  - Maxima 5.42 2019年1月22日
+Maxima 可在 Linux, Mac OS X，及 Windows下編譯。
 
 ## 界面
 
-Maxima原本是純文字界面，這在數學式子的顯示上就沒有Maple或Mathematica等軟體來得美觀。不過Maxima也有幾種圖形界面。第一個選擇是使用GNU的[TeXmacs](https://zh.wikipedia.org/wiki/TeXmacs "wikilink")。TeXmacs是一套所見即所得的文書處理程式，可以很方便的編輯數學式子。它同時也提供許多數學軟體一個美觀的界面，Maxima就是其中之一。其他可能的選擇還有[wxMaxima](https://zh.wikipedia.org/wiki/wxMaxima "wikilink")，[imaxima等等](https://zh.wikipedia.org/wiki/imaxima "wikilink")。
+Maxima 核心提供命令行界面，也可使用 wxMaxima, imaxima 提供 GUI 界面。
 
 ## 特殊功能
 
-變數及函式名稱自動補齊: 在命令列按下Ctrl-TAB鍵，Maxima會提示或自動補齊變數，函式或檔案的名稱。
+變數及函式名稱自動補齊: 在命令列按下 Ctrl-TAB鍵，Maxima 會提示或自動補齊變數，函式或檔案的名稱。
 
-## Maxima語言
+## Maxima 語言
 
   - 常用數學
 
@@ -67,7 +73,7 @@ ev賦值
     compare(1^999,1^99);
     compare(%pi,%e);
 
-  - 2D繪圖
+  - 2D 繪圖
 
 指定值域
 
@@ -108,7 +114,7 @@ M . M k次
 
     ?? x
 
-數學式轉換LaTeX
+數學式轉換 LaTeX 語法
 
     tex(%);
 

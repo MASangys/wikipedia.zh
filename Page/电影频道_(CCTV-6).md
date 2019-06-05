@@ -1,5 +1,5 @@
 **电影频道**（频道呼号：**CCTV-6
-电影**），频道全称为“**中共中央宣传部电影卫星频道**”，前称“[国家广电总局电影卫星频道](../Page/国家广播电影电视总局.md "wikilink")\[1\]、[国家新闻出版广电总局电影卫星频道](https://zh.wikipedia.org/wiki/国家新闻出版广电总局 "wikilink")\[2\]”，是[中国大陆一条综合性的](../Page/中国大陆.md "wikilink")[电影专业频道](../Page/电影.md "wikilink")，由[中共中央宣传部下属机构](../Page/中共中央宣传部.md "wikilink")“电影卫星频道节目制作中心”\[3\]制作和播出，但该频道的运营工作实际隶属于[中国电影集团](../Page/中国电影集团.md "wikilink")\[4\]。由于使用[中国中央电视台的品牌及标志](../Page/中国中央电视台.md "wikilink")，故该频道也被称为“**中国中央电视台电影频道**”，是唯一的国家级专业[电影频道](../Page/电影.md "wikilink")，以[普通话广播为主](../Page/普通话.md "wikilink")。该频道于1995年11月30日试播成功，1996年1月1日正式开播，通过[中星6B](../Page/中星6B.md "wikilink")、[中星九号卫星覆盖全国](https://zh.wikipedia.org/wiki/中星九号 "wikilink")，卫星信号加密作全天候播出。
+电影**），频道全称为“**中共中央宣传部电影卫星频道**”，前称“[广播电影电视部电影卫星频道](https://zh.wikipedia.org/wiki/广播电影电视部 "wikilink")”、“[国家广电总局电影卫星频道](../Page/国家广播电影电视总局.md "wikilink")\[1\]、[国家新闻出版广电总局电影卫星频道](https://zh.wikipedia.org/wiki/国家新闻出版广电总局 "wikilink")\[2\]”，是[中国大陆一条综合性的](../Page/中国大陆.md "wikilink")[电影专业频道](../Page/电影.md "wikilink")，由[中共中央宣传部下属机构](../Page/中共中央宣传部.md "wikilink")“中共中央宣传部电影卫星频道节目制作中心”\[3\]制作和播出，但该频道的运营工作实际隶属于[中国电影集团](../Page/中国电影集团.md "wikilink")\[4\]。由于使用[中国中央电视台的品牌及标志](../Page/中国中央电视台.md "wikilink")，故该频道也被称为“**中国中央电视台电影频道**”，是唯一的国家级专业[电影频道](../Page/电影.md "wikilink")，以[普通话广播为主](../Page/普通话.md "wikilink")。该频道于1995年11月30日试播成功，1996年1月1日正式开播，通过[中星6B](../Page/中星6B.md "wikilink")、[中星九号卫星覆盖全国](https://zh.wikipedia.org/wiki/中星九号 "wikilink")，卫星信号加密作全天候播出。
 
 ## 发展历史
 
@@ -22,19 +22,23 @@
 
 2018年9月28日，因应[2018年机构改革方案](https://zh.wikipedia.org/wiki/深化党和国家机构改革#具体措施 "wikilink")，撤销[国家新闻出版广电总局](../Page/中华人民共和国国家新闻出版广电总局.md "wikilink")，将原[国家新闻出版广电总局的电影管理和新闻出版](../Page/中华人民共和国国家新闻出版广电总局.md "wikilink")、版权管理等职能移交[中共中央宣传部](../Page/中共中央宣传部.md "wikilink")，原“国家新闻出版广电总局电影卫星频道节目制作中心”归口[中共中央宣传部领导](../Page/中共中央宣传部.md "wikilink")，因此经[中央机构编制委员会办公室批准](../Page/中央机构编制委员会办公室.md "wikilink")，更名为“中共中央宣传部电影卫星频道节目制作中心”。\[10\]\[11\]
 
-## 主要栏目
+## 自制栏目
 
-  - 《[中国电影报道](../Page/中国电影报道.md "wikilink")》
+  - 《[中国电影报道](../Page/中国电影报道.md "wikilink")》（曾用《电影报道》名称）
   - 《[世界电影之旅](../Page/世界电影之旅.md "wikilink")》
+  - 《佳片有约》
+  - 《光影星播客》
+  - 《电影全解码》
+  - 《今日影评》
+
+### 已停播栏目
+
   - 《[流金岁月](https://zh.wikipedia.org/wiki/流金岁月 "wikilink")》
   - 《[电影人物](https://zh.wikipedia.org/wiki/电影人物 "wikilink")》
-
-<!-- end list -->
-
-  - 《佳片有约》
   - 《电影频道梦工厂》
   - 《爱上电影网》
   - 《i爱电影》
+  - 《[来吧灰姑娘](../Page/来吧灰姑娘.md "wikilink")》（季播）
 
 ## 频道文化
 
@@ -52,6 +56,17 @@
 ### 门户网站
 
 “1905电影网”是电影频道的门户网站。该网站的域名“1905（年）”是中国电影或[华语电影的开端](https://zh.wikipedia.org/wiki/华语电影 "wikilink")。该网站除了提供相关的新闻资讯外，还提供电影频道节目中心制作的数字电影以及电影频道拥有网络播放版权的电影的在线视频点播服务。
+
+### 特殊情况下的播出安排
+
+如遇重要的国际事件以及中国大陆社会事件，电影频道会临时作出撤片和换片安排，改播事件相关主题电影，因此中国大陆网友一直昵称电影频道为“六公主”。对此，电影频道负责人表示“在一些特殊的情况下，确实是会做一些这个临时的撤片和换片。我们是在用电影这样一种艺术作品，在呼应当下的时代”\[12\]。
+
+以下为由于重要新闻事件影响，电影频道临时改播的电影列表（不完全）\[13\]\[14\]：
+
+  - 2014年4月24日，[日本首相](https://zh.wikipedia.org/wiki/日本首相 "wikilink")[安倍晋三访美](../Page/安倍晋三.md "wikilink")，时任[美国总统](../Page/美国总统.md "wikilink")[奥巴马指出](https://zh.wikipedia.org/wiki/奥巴马 "wikilink")“[钓鱼岛适用于](https://zh.wikipedia.org/wiki/钓鱼岛 "wikilink")《[美日安保条约](https://zh.wikipedia.org/wiki/美日安保条约 "wikilink")》”。因此当日原计划当日22:47播出的《[中华英雄](https://zh.wikipedia.org/wiki/中华英雄 "wikilink")》，受此影响改播《[珍珠港](https://zh.wikipedia.org/wiki/珍珠港_\(电影\) "wikilink")》。
+  - 2018年12月3日，因[黄背心运动影响](https://zh.wikipedia.org/wiki/黄背心运动 "wikilink")，原计划当日22:29播出的《[简·爱](https://zh.wikipedia.org/wiki/简·爱_\(电影\) "wikilink")》，受此影响改播《[悲惨世界](../Page/悲惨世界_\(2012年电影\).md "wikilink")》。
+  - 2019年5月16-20日，因[2018－2019年中美贸易争端等影响](../Page/2018－2019年中美贸易争端.md "wikilink")，电影频道撤销原有播出计划，连续五天在晚上20:15黄金时段播出[抗美援朝题材电影](https://zh.wikipedia.org/wiki/抗美援朝 "wikilink")：《[英雄儿女](../Page/英雄儿女.md "wikilink")》、《[上甘岭](../Page/上甘岭_\(电影\).md "wikilink")》、《[奇袭](https://zh.wikipedia.org/wiki/奇袭 "wikilink")》、《[冰血长津湖](https://zh.wikipedia.org/wiki/冰血长津湖 "wikilink")》、《[铁道卫士](https://zh.wikipedia.org/wiki/铁道卫士 "wikilink")》，并从5月21日起增设专门时段，隔日在晚上18:30播出同类电影《[长空比翼](https://zh.wikipedia.org/wiki/长空比翼 "wikilink")》《[烽火列车](https://zh.wikipedia.org/wiki/烽火列车 "wikilink")》《[英雄坦克手](https://zh.wikipedia.org/wiki/英雄坦克手 "wikilink")》，并暂停[美国电影播映](../Page/美国电影.md "wikilink")。
+  - 受中国大陆社会事件影响而改播：《[唐人街探案](../Page/唐人街探案.md "wikilink")》（[王宝强前妻马蓉出轨事件](../Page/王宝强.md "wikilink")）、《[湄公河行动](https://zh.wikipedia.org/wiki/湄公河行动 "wikilink")》（[陈羽凡吸毒被抓](../Page/陈羽凡.md "wikilink")）、《[霹雳贝贝](../Page/霹雳贝贝.md "wikilink")》（[贺建奎基因编辑婴儿事件](../Page/贺建奎.md "wikilink")）、《[车在囧途](../Page/车在囧途.md "wikilink")》、《[有车好好开](https://zh.wikipedia.org/wiki/有车好好开 "wikilink")》（[西安奔驰新车漏油维权事件](../Page/西安奔驰新车漏油维权事件.md "wikilink")）
 
 ## 参见
 
@@ -73,7 +88,7 @@
 [Category:国家新闻出版广电总局](https://zh.wikipedia.org/wiki/Category:国家新闻出版广电总局 "wikilink")
 [Category:国家广播电影电视总局](https://zh.wikipedia.org/wiki/Category:国家广播电影电视总局 "wikilink")
 [Category:国家电影局](https://zh.wikipedia.org/wiki/Category:国家电影局 "wikilink")
-[Category:中国中央电视台频道](https://zh.wikipedia.org/wiki/Category:中国中央电视台频道 "wikilink")
+[Category:中国中央电视台电影频道](https://zh.wikipedia.org/wiki/Category:中国中央电视台电影频道 "wikilink")
 [Category:中国电视电影频道](https://zh.wikipedia.org/wiki/Category:中国电视电影频道 "wikilink")
 [Category:1995年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1995年成立的电视台或电视频道 "wikilink")
 
@@ -85,7 +100,7 @@
 
 4.
 
-5.  [1999年CCTV-6节目播出片段](http://www.tudou.com/programs/view/VbTMac0oVyU/)
+5.
 
 6.
 
@@ -96,3 +111,8 @@
 
 10.
 11.
+
+12.
+
+13.
+14.

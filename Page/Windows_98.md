@@ -41,12 +41,11 @@ Sharing、对[DVD-ROM和对](https://zh.wikipedia.org/wiki/DVD "wikilink")[USB�
 
 ## 市場反應
 
-Windows 98以其良好的兼容性、易用的界面受到消费者欢迎。然而，由于Windows
-98是一个16位和32位的混合操作系统以及基于Windows
+由于Windows 98是一个16位和32位的混合操作系统以及基于Windows
 9x内核，它运行中仍然容易出现问题，例如[蓝屏死机發生機率過高](../Page/蓝屏死机.md "wikilink")。
 
 Windows
-98被人批评为没有足够的革新，第二版被批评为不能在第一版的基础上自由升级，但这仅限于[OEM版的](https://zh.wikipedia.org/wiki/OEM "wikilink")98SE，只要是98SE正式销售版，依然可以在98第一版上进行直接升级。
+98被人批评为没有足够的革新，第二版被批评不能在第一版的基础上自由升级，但这仅限于[OEM版的](https://zh.wikipedia.org/wiki/OEM "wikilink")98SE，只要是98SE正式销售版，依然可以從98第一版上进行直接升级。
 
 Windows 98的后续产品是[Windows Me](../Page/Windows_Me.md "wikilink")。
 

@@ -1,5 +1,5 @@
-**B\&Q**（中文：百安居、特力屋）是一家[跨國的大型](../Page/跨國公司.md "wikilink")[DIY用家庭與園藝工具材料](../Page/DIY.md "wikilink")[連鎖店與](../Page/連鎖店.md "wikilink")[大賣場](https://zh.wikipedia.org/wiki/大賣場 "wikilink")，1969年成立於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[南安普敦](../Page/南安普敦.md "wikilink")，目前屬於世界前500大企業之一的[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[翠豐集團](https://zh.wikipedia.org/wiki/翠豐集團 "wikilink")（Kingfisher
-Plc）旗下，是[英國第一大的家庭與園藝用品連鎖店](https://zh.wikipedia.org/wiki/英國 "wikilink")，在全球則排名第三。B\&Q的公司创始人是理查·布洛克（Richard
+**B\&Q**（中文：百安居、[特力屋](../Page/特力屋.md "wikilink")）是一家[跨國的大型](../Page/跨國公司.md "wikilink")[DIY用家庭與園藝工具材料](../Page/DIY.md "wikilink")[連鎖店與](../Page/連鎖店.md "wikilink")[大賣場](https://zh.wikipedia.org/wiki/大賣場 "wikilink")，1969年成立於[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[南安普敦](../Page/南安普敦.md "wikilink")，目前屬於世界前500大企業之一的[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[翠豐集團](https://zh.wikipedia.org/wiki/翠豐集團 "wikilink")（Kingfisher
+Plc）旗下，是[英國第一大的](https://zh.wikipedia.org/wiki/英國 "wikilink")[家庭與園藝用品連鎖店](https://zh.wikipedia.org/wiki/建材市場 "wikilink")，在全球則排名第三。B\&Q的公司创始人是理查·布洛克（Richard
 Block）與大衛·奎勒（David
 Quayle），B\&Q的公司名稱来自两位创始人姓氏布洛克（Block）与奎勒（Quayle）的英文首字母缩写。除了百安居，该集团还拥有Screwfix、Brico
 Dépôt和Castorama家装DIY连锁店，以及土耳其Koctas公司50%的股权。

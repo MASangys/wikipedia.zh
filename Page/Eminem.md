@@ -1,7 +1,11 @@
-**马绍尔·布鲁斯·马瑟斯三世**（，），以藝名**阿姆**（英語：）較為人知\[1\]，是一位美國[饒舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")、[詞曲作家](../Page/詞曲作家.md "wikilink")、[唱片製作人](../Page/音樂製作人.md "wikilink")、演員及電影製作人。他在1997年被饒舌歌手兼製作人[Dr.
-Dre發掘](../Page/Dr._Dre.md "wikilink")，其後簽約至所屬的唱片公司。在其音樂生涯中，至今共獲得十五次[格莱美獎的獎項](https://zh.wikipedia.org/wiki/格莱美獎 "wikilink")，以及[奧斯卡最佳電影歌曲獎項](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")。阿姆是世界上最暢銷的音樂歌手之一。
+**马绍尔·布鲁斯·马瑟斯三世**（，），以藝名**阿姆**（英語：）較為人知\[1\]，是一位美國著名[饒舌歌手](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")、[詞曲作家](../Page/詞曲作家.md "wikilink")、[唱片製作人](../Page/音樂製作人.md "wikilink")、演員及電影製作人。他在1997年被饒舌歌手兼製作人[Dr.
+Dre發掘](../Page/Dr._Dre.md "wikilink")，其後簽約至所屬的唱片公司。在其音樂生涯中，至今共獲得十五次格萊美獎，以及[奧斯卡最佳電影歌曲獎項](https://zh.wikipedia.org/wiki/奧斯卡金像獎 "wikilink")。他一直被認為是嘻哈史上最偉大，最有影響力的饒舌歌手之一。
 
-阿姆的專輯累積銷售，已使他成為21世紀前十年全球唱片銷量最高的歌手\[2\]，是2000年代最暢銷的藝人\[3\]。世界銷量已超過8000萬張\[4\]。他被[滾石雜誌譽為](https://zh.wikipedia.org/wiki/滾石雜誌 "wikilink")「最偉大的饒舌歌手」\[5\]。
+阿姆是美國2000年代最暢銷的饒舌歌手。在他的職業生涯中，他在Billboard 200上有九張專輯，在Billboard Hot
+100上有五張單曲。他是唯一一位在Billboard 200
+上連續首次亮相九張專輯的饒舌歌手。阿姆在全球銷售超過2.3億張唱片，是有史以來世界上最暢銷的饒舌歌手之一。
+
+滾石雜誌將他列入“ 史上最偉大的100位藝術家”名單，並將他稱為“ 嘻哈之王 ”。
 
 ## 生平
 
@@ -13,7 +17,7 @@ Boys的專輯](https://zh.wikipedia.org/wiki/Beastie_Boys "wikilink")《Licensed
 to
 Ill》以及舅舅所送的一首Ice-T的單曲之後，阿姆對[嘻哈樂產生了興趣](../Page/嘻哈.md "wikilink")，14歲便第一次登臺演出。[高中時期經常參加嘻哈比賽](https://zh.wikipedia.org/wiki/高中 "wikilink")（freestyle
 battle），在地下嘻哈樂迷中有一定的人氣。兩個使用過的名字 "Manix" 和
-"M\&M，後來演變成了Eminem\[6\]。因為經常翹課的緣故，阿姆讀了兩次九年級，在17歲的時候輟學。
+"M\&M，後來演變成了Eminem\[2\]。因為經常翹課的緣故，阿姆讀了兩次九年級，在17歲的時候輟學。
 
 從1992年起，阿姆和哥們Jeff和Mark Bass管理的FBT
 Productions簽下合約，有時候他也在位於底特律聖克雷爾畔的Gilbert's
@@ -40,8 +44,8 @@ Down" 。所以，Dr. Dre會在阿姆的工作室製作的所有Aftermath廠牌�
 ### 2000–2001: 《The Marshall Mathers LP》
 
 阿姆的第二張專輯《The Marshall Mathers
-LP》於2000年5月發行。在發行後一周內就賣出了176萬張，在美國打破了[Snoop
-Dogg的](https://zh.wikipedia.org/wiki/Snoop_Dogg "wikilink")《Doggystyle》保持的最快銷售嘻哈專輯記錄和[小甜甜布蘭妮](../Page/布蘭妮·斯皮爾斯.md "wikilink")《...Baby
+LP》於2000年5月發行。在發行後一周內就賣出了176萬張，打破了著名美國饒舌歌手【Snoop
+Dogg史努比狗狗）】的《Doggystyle》保持的最快銷售嘻哈專輯記錄和[小甜甜布蘭妮](../Page/布蘭妮·斯皮爾斯.md "wikilink")《...Baby
 One More Time》保持的最快銷售個人專輯記錄。《The Marshall Mathers LP》裡最先發行的歌曲"The Real
 Slim
 Shady"很成功，不過也帶來一些爭議，因為阿姆在這首歌中侮辱了和懷疑了許多明星，其中之一是他提及到[克莉絲汀·阿奎萊拉為Carson](../Page/克莉絲汀·阿奎萊拉.md "wikilink")
@@ -290,13 +294,12 @@ Eminem 的經典歌曲“Stan”。
 | '' - ''    | **venom**                                              | *-*                   | '' - ''                              | '' - ''                 | '' - ''        |
 | '' - ''    | **Kamikaze**                                           | *-*                   | '' - ''                              | '' - ''                 | '' - ''        |
 | '' - ''    | **The ringer**                                         | *-*                   | '' - ''                              | '' - ''                 | '' - ''        |
-| '' 2019 '' | **-**                                                  | *-*                   | '' - ''                              | '' - ''                 | '' - ''        |
+| '' 2019 '' | **Homicide**(Logic featuring Eminem )                  | *-*                   | '' - ''                              | '' - ''                 | '' - ''        |
 |            |                                                        |                       |                                      |                         |                |
 
-## 世界紀錄
+【 世界紀錄 】
 
-  - [Facebook按讚次數第](../Page/Facebook.md "wikilink")3高，總共98,809,098按讚(僅次於[夏奇拉](../Page/夏奇拉.md "wikilink"),[C羅](https://zh.wikipedia.org/wiki/C羅 "wikilink"))
-  - 專輯總銷售量超過9000萬，是饒舌專輯賣最多的歌手
+  - 專輯總銷售量超過9000萬以上，是饒舌專輯賣最多的歌手
   - Rap God《饒舌之神》一曲，創下「最多文字的流行歌曲」的金氏世界紀錄
 
 ## 注釋
@@ -310,7 +313,7 @@ Eminem 的經典歌曲“Stan”。
   -
   - [阿姆台灣官方部落格](http://eminemrelapse.pixnet.net/blog)
 
-  - [-{Eminem}-中文網](http://www.eminem.com.cn)
+  - [-{Eminem}-中文網](https://web.archive.org/web/20181024102828/http://eminem.com.cn/)
 
   - [Shady唱片公司官方網站](http://www.shadyrecords.com)
 
@@ -343,12 +346,4 @@ Eminem 的經典歌曲“Stan”。
 
 1.
 
-2.  www.mtv.com/news/articles/1627833/20091208/eminem.jhtml
-
-3.
-
-4.  [MTC.co.uk](http://ema.mtv.co.uk/artists/eminem)
-
-5.
-
-6.
+2.

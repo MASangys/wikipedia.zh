@@ -6,7 +6,7 @@ Focus宣布以7500万美元收购Borland。
 ## 1980年代：创立
 
 Borland成立于1983年，创立者是[Philippe
-Kahn](https://zh.wikipedia.org/wiki/Philippe_Kahn "wikilink")，他领导Borland开发了一系列受人尊重的软件开发工具产品。公司的第一个产品是[Turbo
+Kahn](https://zh.wikipedia.org/wiki/菲利普·卡恩 "wikilink")，他领导Borland开发了一系列受人尊重的软件开发工具产品。公司的第一个产品是[Turbo
 Pascal](../Page/Turbo_Pascal.md "wikilink")，该软件最初由[安德斯·海尔斯伯格开发](../Page/安德斯·海尔斯伯格.md "wikilink")。1984年Borland发布了[SideKick](https://zh.wikipedia.org/wiki/SideKick "wikilink")，这是一个结合了日程表、记事本和计算器功能的工具软件，其显著的特点是[記憶體驻留](https://zh.wikipedia.org/wiki/記憶體驻留 "wikilink")，从而可以打断正在正常执行的前台程序。1987年Borland收购了[Ansa-Software公司及其](https://zh.wikipedia.org/wiki/Ansa-Software "wikilink")[数据库管理系统](../Page/数据库.md "wikilink")[Paradox](https://zh.wikipedia.org/wiki/Borland_Paradox "wikilink")（第2.0版）。1989年Borland发布了[Quattro
 Pro电子表格软件](https://zh.wikipedia.org/wiki/Quattro_Pro "wikilink")，其强大的绘图功能在当时非常引人注目。
 
@@ -23,7 +23,7 @@ Access](../Page/Microsoft_Access.md "wikilink")，并且买下和dBase相似的[
 到了1990年代中期，Borland开始从软件工具市场的巅峰位置滑落，人们认为这是来自于Microsoft的竞争带来的后果。
 
 另外一些人认为[Philippe
-Kahn将公司的资源投入到了太多的项目上](https://zh.wikipedia.org/wiki/Philippe_Kahn "wikilink")，以与Microsoft在多个层面展开竞争。在Kahn的任期内，Borland引进了许多当时还很模糊、市场还没有接受的概念，持续关注这些技术的耗尽了Borland的资源，而其它公司则抓住了将这些新概念变成资本的契机。
+Kahn将公司的资源投入到了太多的项目上](https://zh.wikipedia.org/wiki/菲利普·卡恩 "wikilink")，以与Microsoft在多个层面展开竞争。在Kahn的任期内，Borland引进了许多当时还很模糊、市场还没有接受的概念，持续关注这些技术的耗尽了Borland的资源，而其它公司则抓住了将这些新概念变成资本的契机。
 
 但是仍然有其他人相信是市场环境的变化使Borland从霸主的位置上跌落下来。Phillipe
 Kahn已经把注意力放在了计算机程序员市场上。在80年代，没有几个公司能意识到个人电脑市场的增长，所以很多技术人员都有购买他们认为他们需要的任何软件的自由。Borland在具有高度技术偏好人员市场上的确做的不错。但是到90年代中期，很多公司都开始质疑在这波不受他们控制的PC软件购买热潮中，他们投资了这么多，究竟得到了什么。公司的决策层开始询问这些技术人员很难回答的问题，所以一些共同的标准就开始制定了。这要求软件厂商提供一种新的市场和支持资源，但此时在Kahn领导下的Borland没有迅速的意识到市场已经改变了。一些竞争对手如微软等却做的很棒，他们看到了这种变化并且开始向PC厂商提供他们正在寻找的信息。

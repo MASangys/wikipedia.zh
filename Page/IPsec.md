@@ -100,17 +100,6 @@ S/WAN延续。
 
   - [信息安全](../Page/信息安全.md "wikilink")
 
-## IPsec相关RFC文档
-
-  - RFC 2401: IP协议的安全架构
-    RFC 2402:认证头
-    RFC 2406:封装安全载荷
-    RFC 2407: ISAKMP的IPsec解释域（IPsec DoI）
-    RFC 2408:
-    [網路安全關聯與金鑰管理協定](../Page/網路安全關聯與金鑰管理協定.md "wikilink")（ISAKMP）
-    RFC 2409:
-    [因特网密钥交换](https://zh.wikipedia.org/wiki/因特网密钥交换 "wikilink")（IKE）
-
 ## 参考文献
 
 ## 外部链接
@@ -124,6 +113,17 @@ S/WAN延续。
   - [VPN社团](http://www.vpnc.org/)。
   - [A long thread on the
     ipsec@lists.tislabs.com](http://www.netsys.com/ipsec/2000/msg00777.html)关于是否要将字母S大写，RFC文档写的很清楚，应该是IPsec。
+
+### IPsec相关RFC文档
+
+  - RFC 2401: IP协议的安全架构
+    RFC 2402:认证头
+    RFC 2406:封装安全载荷
+    RFC 2407: ISAKMP的IPsec解释域（IPsec DoI）
+    RFC 2408:
+    [網路安全關聯與金鑰管理協定](../Page/網路安全關聯與金鑰管理協定.md "wikilink")（ISAKMP）
+    RFC 2409:
+    [因特网密钥交换](https://zh.wikipedia.org/wiki/因特网密钥交换 "wikilink")（IKE）
 
 {{-}}
 

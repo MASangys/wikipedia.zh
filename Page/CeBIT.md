@@ -29,7 +29,7 @@ Asia**在[上海举办](https://zh.wikipedia.org/wiki/上海 "wikilink")。
 
 CeBIT2003有来自60个[国家的](../Page/国家.md "wikilink")6.500家厂商参展，展馆[面积达到了](../Page/面积.md "wikilink")360.000[平方米分布在](../Page/平方米.md "wikilink")27个展厅中。展期在3月12日到19日共吸引了560.000名参观者比去年少17%，尽管这样但是交易额仍比去年高出了10%。
 
-这届展览中有着许多新鲜的技术，象是[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")-移动通讯技术、移动[宽带](https://zh.wikipedia.org/wiki/宽带 "wikilink")[通讯技术的前景](https://zh.wikipedia.org/wiki/通讯 "wikilink")。还有IT-安全技术在这一年也同样重要。还有[开放源代码的](../Page/开放源代码.md "wikilink")[Linux的一些新产品如](../Page/Linux.md "wikilink")[Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink")
+这届展览中有着许多新鲜的技术，象是[UMTS](https://zh.wikipedia.org/wiki/UMTS "wikilink")-移动通讯技术、移动[宽带](https://zh.wikipedia.org/wiki/宽带 "wikilink")[通讯技术的前景](https://zh.wikipedia.org/wiki/通讯 "wikilink")。还有IT-安全技术在这一年也同样重要。还有[开放源代码的](../Page/开放源代码.md "wikilink")[Linux的一些新产品如](../Page/Linux.md "wikilink")[Knoppix](../Page/Knoppix.md "wikilink")
 3.2 和 [SuSE Linux](https://zh.wikipedia.org/wiki/SuSE_Linux "wikilink")
 8.2这些[自由软件都是商用和私人的办公解决方案](../Page/自由软件.md "wikilink")。
 

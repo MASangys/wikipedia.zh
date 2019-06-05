@@ -365,12 +365,12 @@ Q\&A 1173](http://developer.apple.com/qa/qa2001/qa1173.html)。
     Tool](https://web.archive.org/web/20070403222748/http://netzreport.googlepages.com/online_tool_for_url_en_decoding.html)
     for URL encoding/decoding according to RFC 3986 and RFC
     3629（[JavaScript](../Page/JavaScript.md "wikilink")，[GPL](https://zh.wikipedia.org/wiki/GPL "wikilink")）
-  - [UTF-8測試頁](http://www.slovo.info/testuni.htm)
+  - [UTF-8測試頁](https://web.archive.org/web/20061225184429/http://www.slovo.info/testuni.htm)
   - [UTF-8](http://www.utf-8.com/)
 
 ## 参见
 
-  - [Alt codes](https://zh.wikipedia.org/wiki/Alt_codes "wikilink")
+  - [Alt码](../Page/Alt码.md "wikilink")
   - [ASCII](../Page/ASCII.md "wikilink")
   - [位元組順序記號](../Page/位元組順序記號.md "wikilink")
   - [Comparison of email
@@ -382,14 +382,12 @@ Q\&A 1173](http://developer.apple.com/qa/qa2001/qa1173.html)。
   - [ISO/IEC
     8859](https://zh.wikipedia.org/wiki/ISO/IEC_8859 "wikilink")
   - [GB18030](https://zh.wikipedia.org/wiki/GB18030 "wikilink")
-  - [UTF-8 in
-    URIs](https://zh.wikipedia.org/wiki/Percent-encoding#Current_standard "wikilink")
+  - [iconv](https://zh.wikipedia.org/wiki/iconv "wikilink")
   - [Unicode and
     e-mail](https://zh.wikipedia.org/wiki/Unicode_and_e-mail "wikilink")
   - [Unicode and
     HTML](https://zh.wikipedia.org/wiki/Unicode_and_HTML "wikilink")
-  - [Universal Character
-    Set](https://zh.wikipedia.org/wiki/Universal_Character_Set "wikilink")
+  - [通用字符集](../Page/通用字符集.md "wikilink")
   - [UTF-16](https://zh.wikipedia.org/wiki/UTF-16 "wikilink")
   - [UTF-9和UTF-18](https://zh.wikipedia.org/wiki/UTF-9和UTF-18 "wikilink")
   - [寬字元](../Page/寬字元.md "wikilink")

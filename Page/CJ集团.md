@@ -48,30 +48,20 @@ Shop设立中文版本，为马来西亚华裔提供另一个电视购物频道�
 [Tous_Les_Jours.jpg](https://zh.wikipedia.org/wiki/File:Tous_Les_Jours.jpg "fig:Tous_Les_Jours.jpg")店\]\]
 
   -
-  - [CJ家居購物](https://zh.wikipedia.org/wiki/CJ家居購物 "wikilink")
-
-  - [CJ宅配](https://zh.wikipedia.org/wiki/CJ宅配 "wikilink")
-
-  - [CJ大韓通運](https://zh.wikipedia.org/wiki/CJ大韓通運 "wikilink")([CJ Korea
-    Express](https://zh.wikipedia.org/wiki/CJ_Korea_Express "wikilink"))
-
-  - [CJ娛樂](https://zh.wikipedia.org/wiki/CJ娛樂 "wikilink")
-
+  -
+  -
+  -
   - [CJ-CGV](https://zh.wikipedia.org/wiki/CJ-CGV "wikilink")
 
   - [Mnet媒體](../Page/Mnet媒體.md "wikilink")
 
-  - [Morning
-    World](https://zh.wikipedia.org/wiki/Morning_World "wikilink")
+  - [早安世界](https://zh.wikipedia.org/wiki/早安世界 "wikilink")
 
   - [第一東健產業](https://zh.wikipedia.org/wiki/第一東健產業 "wikilink")
 
   - [多乐之日](../Page/多乐之日.md "wikilink")
 
   - [必品阁](../Page/必品阁.md "wikilink")
-
-  - [Lucy
-    Entertainment](https://zh.wikipedia.org/wiki/Lucy_Entertainment "wikilink")
 
   - [Big Hit娛樂](../Page/Big_Hit娛樂.md "wikilink")
 

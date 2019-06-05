@@ -1,4 +1,4 @@
-**VirtualDub**是一个[开放源代码的视频捕捉及线性处理软件](../Page/开放源代码.md "wikilink")。它由Avery
+**VirtualDub**是[开放源代码的视频捕捉及线性处理软件](../Page/开放源代码.md "wikilink")，由Avery
 Lee编写，遵循[GPL协议](https://zh.wikipedia.org/wiki/GPL "wikilink")。
 
 ## 介绍

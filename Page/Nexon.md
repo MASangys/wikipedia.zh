@@ -168,14 +168,16 @@ NXC公司過半持有。
 ### 手機遊戲
 
   - [文明爭戰](https://zh.wikipedia.org/wiki/文明爭戰 "wikilink")
-  - [HIT 英雄之戰](https://zh.wikipedia.org/wiki/HIT_英雄之戰 "wikilink")（待停運）
   - [三國志曹操傳](../Page/三國志曹操傳.md "wikilink")
-  - [真·三國無雙·斬製作公司](https://zh.wikipedia.org/wiki/真·三國無雙·斬 "wikilink")：[樂陞科技授權商](../Page/樂陞科技.md "wikilink")：日本[光榮](https://zh.wikipedia.org/wiki/光榮 "wikilink")
-  - [暗黑復仇者3](https://zh.wikipedia.org/wiki/暗黑復仇者3 "wikilink")
-  - [楓之谷M](https://zh.wikipedia.org/wiki/楓之谷M "wikilink")
-  - [楓之谷突擊](https://zh.wikipedia.org/wiki/楓之谷突擊 "wikilink")
+  - [真三國無雙·斬](https://zh.wikipedia.org/wiki/真三國無雙·斬 "wikilink")（製作公司：[樂陞科技](../Page/樂陞科技.md "wikilink")，授權商：日本[光榮](https://zh.wikipedia.org/wiki/光榮 "wikilink")）
   - [無限戰場](https://zh.wikipedia.org/wiki/無限戰場 "wikilink")
+  - [暗黑復仇者3](https://zh.wikipedia.org/wiki/暗黑復仇者3 "wikilink")
+  - [楓之谷突擊](https://zh.wikipedia.org/wiki/楓之谷突擊 "wikilink")
+  - [楓之谷M](https://zh.wikipedia.org/wiki/楓之谷M "wikilink")
+  - [AxE：背水一戰](https://zh.wikipedia.org/wiki/AxE：背水一戰 "wikilink")
+  - [LYN : 光之使者](https://zh.wikipedia.org/wiki/LYN_:_光之使者 "wikilink")
   - [爆爆王M](https://zh.wikipedia.org/wiki/爆爆王M "wikilink")
+  - [Durango：野生之地](https://zh.wikipedia.org/wiki/Durango：野生之地 "wikilink")
 
 ## 相關電視節目
 

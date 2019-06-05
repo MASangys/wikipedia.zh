@@ -256,6 +256,10 @@ Future is Now”這個標語。
 
   - 《[SNK女傑狂熱大亂鬥](../Page/SNK女傑狂熱大亂鬥.md "wikilink")》
 
+**2019年**
+
+  - 《[侍魂 曉](../Page/侍魂_曉.md "wikilink")》
+
 ## 參見
 
   - [NEOGEO](https://zh.wikipedia.org/wiki/NEOGEO "wikilink")

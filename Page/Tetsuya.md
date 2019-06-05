@@ -129,6 +129,9 @@ STEADY GO」裡的tetsu READY
 | 2017年8月24日- 8月25日  | TETSUYA 15th ANNIVERSARY LIVE                                                | 全2公演                      |
 | 2018年2月12日         | TETSUYA Valentine Dinner Show 2018                                           | 全1公演                      |
 | 2018年7月23日         | TETSUYA "LIVE 2018 SUMMER"                                                   | 全1公演                      |
+| 2018年10月3日         | TETSUYA LIVE 2018 "THANK YOU"                                                | 全2公演                      |
+| 2019年3月15日         | TETSUYA "LIVE 2019 SPRING"                                                   | 全1公演                      |
+| 2019年10月2日- 10月3日  | TETSUYA LIVE 2019 "THANK YOU" 4950                                           | 全2公演                      |
 
 ## 使用器材
 

@@ -63,7 +63,7 @@ Apache的2.x版本核心在Apache
 
 1.
 2.  <http://news.netcraft.com/archives/2009/12/24/december_2009_web_server_survey.html>
-    ，http://news.netcraft.com/archives/category/web-server-survey/
+     ，http://news.netcraft.com/archives/category/web-server-survey/
 3.  <http://news.netcraft.com/archives/2013/08/09/august-2013-web-server-survey.html>
-    ，http://news.netcraft.com/archives/category/web-server-survey/
+     ，http://news.netcraft.com/archives/category/web-server-survey/
 4.  《[世界是平的](../Page/世界是平的.md "wikilink")》，托马斯·弗里德曼著

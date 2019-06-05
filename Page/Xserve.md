@@ -9,8 +9,9 @@ PC
 G5](https://zh.wikipedia.org/wiki/Power_PC_G5 "wikilink")，随后再次转换为兩顆四核心的Intel「Nehalem核心架構」處理器。Xserve可作多種應用，包括檔案伺服器，網頁伺服器，甚至是以叢集技術執行高效能運算應用－Xserve叢集，也提供不包含顯示卡與光碟機的Xserve叢集節點。
 
 2010年11月5日，蘋果電腦的網站聲明了XServe將在2011年1月31日起停產，並建議客戶改選購安裝Mac OS X
-Server的[Mac Pro或](../Page/Mac_Pro.md "wikilink")[Mac
-Mini電腦](https://zh.wikipedia.org/wiki/Mac_Mini "wikilink")\[1\]。
+Server的[Mac Pro](../Page/Mac_Pro.md "wikilink")、[Mac
+Mini或](https://zh.wikipedia.org/wiki/Mac_Mini "wikilink")[iMac
+Pro電腦](https://zh.wikipedia.org/wiki/iMac_Pro "wikilink")\[1\]。
 
 ## 沿革
 

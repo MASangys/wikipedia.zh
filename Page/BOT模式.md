@@ -32,15 +32,15 @@
 <td><p>2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台灣高速鐵路" title="wikilink">台灣高速鐵路</a></p></td>
 <td><p>高速鐵路。</p></td>
-<td><p>2067年</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北轉運站" title="wikilink">台北轉運站</a></p></td>
 <td><p>又稱「交九轉運站」，由<a href="../Page/日勝生活科技.md" title="wikilink">日勝生活科技投資</a>，為百貨商場、旅館、住宅及長途客運站所結合的大樓，特許期由2004年起計50年。</p></td>
-<td><p>2054年</p></td>
-<td><p>台北市政府</p></td>
+<td><p>2054</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
@@ -263,7 +263,7 @@
 
 ## 弊病
 
-  - 只要盈利不達標，便可隨時申請加價而不需要批核，如香港的[大老山隧道](../Page/大老山隧道.md "wikilink")\[17\]、[大欖隧道及](../Page/大欖隧道.md "wikilink")[西區海底隧道](https://zh.wikipedia.org/wiki/西區海底隧道 "wikilink")\[18\]，近年多次因此理由加價，令其他道路如[獅子山隧道](../Page/獅子山隧道.md "wikilink")、[尖山隧道及沙田嶺隧道](../Page/尖山隧道及沙田嶺隧道.md "wikilink")、[紅磡海底隧道及](https://zh.wikipedia.org/wiki/紅磡海底隧道 "wikilink")[屯門公路車流上升](https://zh.wikipedia.org/wiki/屯門公路 "wikilink")。
+  - 只要盈利不達標，便可隨時申請加價而不需要批核，如香港[3號幹線的](https://zh.wikipedia.org/wiki/3號幹線 "wikilink")[大欖隧道及](../Page/大欖隧道.md "wikilink")[西區海底隧道](https://zh.wikipedia.org/wiki/西區海底隧道 "wikilink")\[17\]，近年多次因此理由加價，令其他道路如[獅子山隧道](../Page/獅子山隧道.md "wikilink")、[尖山隧道及沙田嶺隧道](../Page/尖山隧道及沙田嶺隧道.md "wikilink")、[紅磡海底隧道及](https://zh.wikipedia.org/wiki/紅磡海底隧道 "wikilink")[屯門公路車流上升](https://zh.wikipedia.org/wiki/屯門公路 "wikilink")。
 
 ## 參見
 
@@ -307,5 +307,3 @@
 16. [杭港地铁-公司概况](http://www.mtrhz.com.cn/about/gsgk.htm)
 
 17.
-
-18.

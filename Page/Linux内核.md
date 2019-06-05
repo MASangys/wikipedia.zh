@@ -1,6 +1,4 @@
-**Linux内核**（），是一种开源的[类Unix](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")[宏内核](https://zh.wikipedia.org/wiki/宏内核 "wikilink")。整个Linux操作系统家族基于该内核部署在传统计算机平台（如个人计算机和服务器，以
-Linux
-发行版的形式\[1\]）和各种嵌入式平台，如[路由器](../Page/路由器.md "wikilink")、[无线接入点](../Page/無線接入點.md "wikilink")、[专用小交换机](../Page/专用小交换机.md "wikilink")、[机顶盒](https://zh.wikipedia.org/wiki/机顶盒 "wikilink")、、[智能电视](https://zh.wikipedia.org/wiki/智能电视机 "wikilink")、[数字视频录像机](https://zh.wikipedia.org/wiki/数字视频录像机 "wikilink")、[网络附加存储](https://zh.wikipedia.org/wiki/网络附加存储 "wikilink")（NAS）等。工作于[平板電腦](../Page/平板電腦.md "wikilink")、[智能手机及](../Page/智能手机.md "wikilink")[智能手表的](../Page/智能手表.md "wikilink")[Android操作系统同样通过Linux内核提供的服务完成自身功能](../Page/Android.md "wikilink")。尽管于[桌面电脑的占用率较低](https://zh.wikipedia.org/wiki/桌面電腦 "wikilink")，基于Linux的操作系统统治了几乎从移动设备到主机的其他全部领域。截至2017年11月，世界前500台最强的[超级计算机全部使用Linux](../Page/超级计算机.md "wikilink")。\[2\]
+**Linux内核**（）是一种开源的[类Unix](../Page/类Unix系统.md "wikilink")[操作系统](../Page/操作系统.md "wikilink")[宏内核](https://zh.wikipedia.org/wiki/宏内核 "wikilink")。整个Linux操作系统家族基于该内核部署在传统计算机平台（如个人计算机和服务器，以Linux发行版的形式\[1\]）和各种嵌入式平台，如[路由器](../Page/路由器.md "wikilink")、[无线接入点](../Page/無線接入點.md "wikilink")、[专用小交换机](../Page/专用小交换机.md "wikilink")、[机顶盒](https://zh.wikipedia.org/wiki/机顶盒 "wikilink")、、[智能电视](https://zh.wikipedia.org/wiki/智能电视机 "wikilink")、[数字视频录像机](https://zh.wikipedia.org/wiki/数字视频录像机 "wikilink")、[网络附加存储](https://zh.wikipedia.org/wiki/网络附加存储 "wikilink")（NAS）等。工作于[平板電腦](../Page/平板電腦.md "wikilink")、[智能手机及](../Page/智能手机.md "wikilink")[智能手表的](../Page/智能手表.md "wikilink")[Android操作系统同样通过Linux内核提供的服务完成自身功能](../Page/Android.md "wikilink")。尽管于[桌面电脑的占用率较低](https://zh.wikipedia.org/wiki/桌面電腦 "wikilink")，基于Linux的操作系统统治了几乎从移动设备到主机的其他全部领域。截至2017年11月，世界前500台最强的[超级计算机全部使用Linux](../Page/超级计算机.md "wikilink")。\[2\]
 
 Linux内核最早是于1991年由[芬兰](../Page/芬兰.md "wikilink")[黑客](../Page/黑客.md "wikilink")[林納斯·托瓦茲为自己的个人电脑开发的](https://zh.wikipedia.org/wiki/林納斯·托瓦茲 "wikilink")，他当时在[Usenet](../Page/Usenet.md "wikilink")[新闻组](../Page/新闻组.md "wikilink")`comp.os.minix`登载帖子\[3\]，这份著名的帖子标志着Linux内核计划的正式开始。如今，该计划已经拓展到支持大量的计算机体系架构，远超其他操作系统和内核。它迅速吸引了一批开发者和用户，利用它作为其他自由软件项目的核心，如著名的
 GNU 操作系统。\[4\]而今天，Linux
@@ -306,6 +304,30 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td><p>2.0.40[78]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/David_Weinehall" title="wikilink">David Weinehall</a></p></td>
+<td><p><strong>EOL</strong>（已不再支援）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>2.2.27-rc2[79]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Marc-Christian_Petersen" title="wikilink">Marc-Christian Petersen</a>（前維護者<a href="../Page/艾倫·考克斯.md" title="wikilink">艾倫·考克斯</a>）</p></td>
+<td><p><strong>EOL</strong>（已不再支援）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>2.4.37.11[80]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Willy_Tarreau" title="wikilink">Willy Tarreau</a>（前維護者<a href="https://zh.wikipedia.org/wiki/Marcelo_Tosatti" title="wikilink">Marcelo Tosatti</a>）</p></td>
+<td><p><strong>EOL</strong>（已不再支援）</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><small></small></p></td>
 <td></td>
 <td></td>
@@ -331,63 +353,39 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2.0</p></td>
 <td></td>
-<td><p>2.0.40[78]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/David_Weinehall" title="wikilink">David Weinehall</a></p></td>
-<td><p><strong>EOL</strong>（已不再支援）</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.2</p></td>
-<td></td>
-<td><p>2.2.27-rc2[79]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Marc-Christian_Petersen" title="wikilink">Marc-Christian Petersen</a>（前維護者<a href="../Page/艾倫·考克斯.md" title="wikilink">艾倫·考克斯</a>）</p></td>
-<td><p><strong>EOL</strong>（已不再支援）</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2.4</p></td>
-<td></td>
-<td><p>2.4.37.11[80]</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Willy_Tarreau" title="wikilink">Willy Tarreau</a>（前維護者<a href="https://zh.wikipedia.org/wiki/Marcelo_Tosatti" title="wikilink">Marcelo Tosatti</a>）</p></td>
-<td><p><strong>EOL</strong>（已不再支援）</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2.6.16</p></td>
 <td></td>
 <td><p>2.6.16.62[81]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Adrian_Bunk" title="wikilink">Adrian Bunk</a>（前維護者<a href="../Page/葛雷格·克羅哈曼.md" title="wikilink">葛雷格·克羅哈曼</a>）</p></td>
 <td><p><strong>EOL</strong>（已不再支援）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>2.6.27</p></td>
+<tr class="even">
+<td></td>
 <td></td>
 <td><p>2.6.27.62</p></td>
 <td><p><a href="../Page/葛雷格·克羅哈曼.md" title="wikilink">葛雷格·克羅哈曼</a>[82]</p></td>
 <td><p><strong>EOL</strong>（已不再支援）</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>2.6.32</p></td>
+<tr class="odd">
+<td></td>
 <td></td>
 <td><p>2.6.32.71[83]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Willy_Tarreau" title="wikilink">Willy Tarreau</a>（前維護者<a href="../Page/葛雷格·克羅哈曼.md" title="wikilink">葛雷格·克羅哈曼</a>）</p></td>
 <td><p><strong>EOL</strong>，长期支持版本，由2009年12月3日至2016年3月</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>2.6.34</p></td>
+<tr class="even">
+<td></td>
 <td></td>
 <td><p>2.6.34.15[84]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Paul_Gortmaker" title="wikilink">Paul Gortmaker</a>（前維護者<a href="https://zh.wikipedia.org/wiki/Andi_Kleen" title="wikilink">Andi Kleen</a>）</p></td>
 <td><p><strong>EOL</strong>，长期支持版本，從2010年6月至2014年2月</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>2.6.39</p></td>
+<tr class="odd">
+<td></td>
 <td></td>
 <td><p>2.6.39.4</p></td>
 <td></td>
@@ -412,7 +410,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>3.0</p></td>
+<td></td>
 <td></td>
 <td><p>3.0.101</p></td>
 <td></td>
@@ -420,7 +418,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td><p>托瓦兹宣布，大的变化是，“没有，绝对没有。”[85]2011年5月30日，托瓦兹宣布，“让我们确保我们真正的下一个版本不只是一个全新的闪亮的数字，而是有一个好的内核。”3.0的发布日接近Linux的20周年纪念日。</p></td>
 </tr>
 <tr class="even">
-<td><p>3.2</p></td>
+<td></td>
 <td></td>
 <td><p>3.2.99</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Ben_Hutchings" title="wikilink">Ben Hutchings</a></p></td>
@@ -428,7 +426,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>3.4</p></td>
+<td></td>
 <td></td>
 <td><p>3.4.113</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Li_Zefan" title="wikilink">Li Zefan</a>（前維護者）</p></td>
@@ -436,7 +434,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td></td>
 </tr>
 <tr class="even">
-<td><p>3.5</p></td>
+<td></td>
 <td></td>
 <td><p>3.5.7</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
@@ -456,7 +454,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>3.6</p></td>
+<td></td>
 <td></td>
 <td><p>3.6.11</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
@@ -464,7 +462,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td><p>客户端TCP Fast Open实现</p></td>
 </tr>
 <tr class="even">
-<td><p>3.7</p></td>
+<td></td>
 <td></td>
 <td><p>3.7.10</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
@@ -477,7 +475,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>3.8</p></td>
+<td></td>
 <td></td>
 <td><p>3.8.13</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
@@ -502,7 +500,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>3.9</p></td>
+<td></td>
 <td><p>[86]</p></td>
 <td><p>3.9.11</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
@@ -518,7 +516,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>3.10</p></td>
+<td></td>
 <td></td>
 <td><p>3.10.108</p></td>
 <td><p>Willy Tarreau</p></td>
@@ -542,7 +540,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>3.11</p></td>
+<td></td>
 <td></td>
 <td><p>3.11.10</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
@@ -560,7 +558,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>3.12</p></td>
+<td></td>
 <td></td>
 <td><p>3.12.74</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Jiri_Slaby" title="wikilink">Jiri Slaby</a>（前維護者<a href="../Page/葛雷格·克羅哈曼.md" title="wikilink">葛雷格·克羅哈曼</a>）</p></td>
@@ -583,7 +581,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>3.13</p></td>
+<td></td>
 <td></td>
 <td><p>3.13.11</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
@@ -601,7 +599,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>3.14</p></td>
+<td></td>
 <td></td>
 <td><p>3.14.79</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
@@ -622,7 +620,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>3.15</p></td>
+<td></td>
 <td></td>
 <td><p>3.15.10</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
@@ -637,7 +635,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>3.16</p></td>
+<td></td>
 <td></td>
 <td><p>3.16.54</p></td>
 <td><p>Ben Hutchings</p></td>
@@ -654,7 +652,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>3.17</p></td>
+<td></td>
 <td></td>
 <td><p>3.17.8</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
@@ -675,7 +673,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>3.18</p></td>
+<td></td>
 <td></td>
 <td><p>3.18.95</p></td>
 <td><p>Sasha Levin</p></td>
@@ -691,7 +689,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>3.19</p></td>
+<td></td>
 <td></td>
 <td><p>3.19.8</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
@@ -725,7 +723,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td></td>
 <td><p>4.0.9</p></td>
 <td></td>
-<td><p><strong>EOL</strong></p></td>
+<td><p>EOL</p></td>
 <td><ul>
 <li><a href="../Page/Skylake微架構.md" title="wikilink">Skylake架構處理更好的支援</a>。</li>
 <li>支援Intel的Quark單晶片。</li>
@@ -740,7 +738,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td><p>4.1.52</p></td>
 <td><p>Sasha Levin[87]<br />
 [88]</p></td>
-<td><p><strong>EOL</strong></p></td>
+<td><p>EOL</p></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/ext4" title="wikilink">ext4支援檔案系統層級的加密</a>。</li>
 <li><a href="../Page/F2FS.md" title="wikilink">F2FS</a>、<a href="../Page/XFS.md" title="wikilink">XFS</a>、<a href="../Page/Btrfs.md" title="wikilink">Btrfs檔案系統增強與更新</a>。</li>
@@ -754,7 +752,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td></td>
 <td><p>4.2.8</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
-<td><p><strong>EOL</strong></p></td>
+<td><p>EOL</p></td>
 <td><ul>
 <li>大量的<a href="https://zh.wikipedia.org/wiki/ARM" title="wikilink">ARM架構改進</a>。</li>
 <li><a href="https://zh.wikipedia.org/wiki/NCQ" title="wikilink">NCQ</a> Trim支援。</li>
@@ -768,7 +766,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td></td>
 <td><p>4.3.6</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
-<td><p><strong>EOL</strong></p></td>
+<td><p>EOL</p></td>
 <td><ul>
 <li>預設啟用Intel Skylake的顯示晶片支援。</li>
 <li>許多檔案系統方面的修正。</li>
@@ -793,7 +791,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td><p>2016年3月14日</p></td>
 <td><p>4.5.7</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
-<td><p><strong>EOL</strong></p></td>
+<td><p>EOL</p></td>
 <td><ul>
 <li>對Kabylake處理器內建顯示晶片的初步支援。</li>
 <li><a href="https://zh.wikipedia.org/wiki/AMD" title="wikilink">AMD顯示卡諸多改進</a>。</li>
@@ -807,7 +805,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td><p>2016年5月15日</p></td>
 <td><p>4.6.7</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
-<td><p><strong>EOL</strong></p></td>
+<td><p>EOL</p></td>
 <td><ul>
 <li>對<a href="../Page/树莓派.md" title="wikilink">樹莓派的</a>3D圖形效能改進。</li>
 <li>新增對許多<a href="https://zh.wikipedia.org/wiki/ARM" title="wikilink">ARM平臺的支援</a>。</li>
@@ -821,7 +819,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td></td>
 <td><p>4.7.10</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
-<td><p><strong>EOL</strong></p></td>
+<td><p>EOL</p></td>
 <td><ul>
 <li>支援AMD RX480。</li>
 <li>全新的安全模塊LoadPin。</li>
@@ -835,7 +833,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td></td>
 <td><p>4.8.17</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
-<td><p><strong>EOL</strong></p></td>
+<td><p>EOL</p></td>
 <td><ul>
 <li><a href="https://zh.wikipedia.org/wiki/tmpfs" title="wikilink">tmpfs文件系统支援透明大暫存頁</a>。</li>
 <li>新的Formatted Kernel Documentation。[89]</li>
@@ -884,7 +882,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td><p>2017年2月19日</p></td>
 <td><p>4.10.17</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
-<td><p><strong>EOL</strong></p></td>
+<td><p>EOL</p></td>
 <td><ul>
 <li>支援虛擬<a href="../Page/圖形處理器.md" title="wikilink">GPU</a>。</li>
 <li>支援 <a href="https://zh.wikipedia.org/wiki/Intel" title="wikilink">Intel</a> <a href="https://zh.wikipedia.org/wiki/CPU" title="wikilink">CPU</a> <a href="../Page/CPU缓存.md" title="wikilink">L2/L3 Cache</a>。</li>
@@ -898,7 +896,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td><p>2017年5月1日</p></td>
 <td><p>4.11.12</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
-<td><p><strong>EOL</strong></p></td>
+<td><p>EOL</p></td>
 <td><ul>
 <li>AMD GPU 電源管理更加成熟。</li>
 <li>已經可以處理 <a href="../Page/DisplayPort.md" title="wikilink">DisplayPort</a> MST 音訊。</li>
@@ -921,7 +919,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td><p>2017年7月2日</p></td>
 <td><p>4.12.14</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
-<td><p><strong>EOL</strong></p></td>
+<td><p>EOL</p></td>
 <td><ul>
 <li>史上最大更新。</li>
 <li>初步支援 <a href="../Page/超威半导体.md" title="wikilink">AMD</a> <a href="../Page/AMD_Radeon_500系列.md" title="wikilink">Radeon RX Vega</a> <a href="../Page/圖形處理器.md" title="wikilink">GPU</a>。</li>
@@ -946,7 +944,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td><p>2017年9月3日</p></td>
 <td><p>4.13.16</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
-<td><p><strong>EOL</strong></p></td>
+<td><p>EOL</p></td>
 <td><ul>
 <li>初步支援 Intel Cannon Lake/<a href="../Page/Coffee_Lake微架构.md" title="wikilink">Coffee Lake</a> CPU。</li>
 <li>Nouveau 的開源 NVIDIA 具有 HDMI 3D/stereoscopic 支持。</li>
@@ -1071,7 +1069,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <td><p>| [99]</p></td>
 <td><p>4.20.2</p></td>
 <td><p>葛雷格·克羅哈曼</p></td>
-<td><p>最新稳定版本</p></td>
+<td><p>EOL版本，从2018年12月至2019年3月</p></td>
 <td><ul>
 <li>BPF 网络流解析器</li>
 <li>taprio 流量调度器</li>
@@ -1109,8 +1107,24 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[SUSE](../Page/SUSE.md 
 <tr class="odd">
 <td></td>
 <td><p>| [100]</p></td>
-<td><p>5.0-rc1[101]</p></td>
-<td><p>Linus Torvalds</p></td>
+<td><p>5.0.17<ref name="latest 5.0">{{cite mailing list</p></td>
+<td><p>title = Linux 5.0.17</p></td>
+<td><p>url = <a href="http://lkml.iu.edu/hypermail/linux/kernel/1905.2/01257.html">http://lkml.iu.edu/hypermail/linux/kernel/1905.2/01257.html</a></p></td>
+<td><p>date = 17 May 2019</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>| [101]</p></td>
+<td><p>5.1.3[102]</p></td>
+<td><p>Greg Kroah-Hartman</p></td>
+<td><p>最新稳定发行</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>| [103]</p></td>
+<td><p>5.2-rc1[104]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Linus_Torvalds" title="wikilink">Linus Torvalds</a></p></td>
 <td><p>最新不稳定发行</p></td>
 <td></td>
 </tr>
@@ -1129,68 +1143,44 @@ Linux内核的主要贡献者可见于[Linux核心黑客列表](https://zh.wikip
 
 ### 版本命名
 
-Linux内核有三个不同的命名方案。
+Linux内核有三个不同的命名方案。早期版本：第一个版本的内核是0.01，其次是0.02,0.03,0.10,0.11,0.12（第一[GPL版本](https://zh.wikipedia.org/wiki/GPL "wikilink")),0.95,0.96,0.97,0.98,0.99及1.0。\[105\]，从0.95版有许多的补丁发布於主要版本版本之间。
 
-早期版本：
+旧计划（1.0和2.6版之间)，版本的格式為A.B.C，其中A,B,C代表：**A**大幅度转变的内核，这是很少发生变化，只有当发生重大变化的代码和核心发生才会发生，在历史上曾改变两次的内核：1994年的1.0及1996年的2.0；
+**B**是指一些重大修改的内核，内核使用了传统的奇数次要版本号码的软件号码系统（用偶数的次要版本号码来表示稳定版本）；**C**是指轻微修订的内核，这个数字当有安全补丁，bug修复，新的功能或驱动程序，内核便会有变化。自2.6.0（2003年12月）发布後，人们认识到，更短的发布周期将是有益的。自那时起，版本的格式為A.B.C.D，其中A,B,C,D代表：**A**和**B**是无关緊要的，**C**是内核的版本，**D**是安全补丁。
 
-  - 第一个版本的内核是0.01。其次是0.02,0.03,0.10,0.11,0.12（第一[GPL版本](https://zh.wikipedia.org/wiki/GPL "wikilink")),0.95,0.96,0.97,0.98,0.99及1.0。\[102\]
-
-从0.95版有许多的补丁发布於主要版本版本之间。
-
-旧计划（1.0和2.6版之间)，版本的格式為A.B.C，其中A,B,C代表：
-
-  - **A**大幅度转变的内核。这是很少发生变化，只有当发生重大变化的代码和核心发生才会发生。在历史上曾改变两次的内核：1994年的1.0及1996年的2.0。
-  - **B**是指一些重大修改的内核。
-      - 内核使用了传统的奇数次要版本号码的软件号码系统（用偶数的次要版本号码来表示稳定版本）。
-
-<!-- end list -->
-
-  - **C**是指轻微修订的内核。这个数字当有安全补丁,bug修复，新的功能或驱动程序，内核便会有变化。
-
-自2.6.0（2003年12月）发布後，人们认识到，更短的发布周期将是有益的。自那时起，版本的格式為A.B.C.D，其中A,B,C,D代表：
-
-  - **A**和**B**是无关緊要的
-  - **C**是内核的版本
-  - **D**是安全补丁
-
-自3.0（2011年7月）发布后，版本的格式為3.A.B，其中A,B代表：
-
-  - **A**是内核的版本
-  - **B**是安全补丁
-
-而4.0（2015年4月）釋出後，則延續3.A.B的命名格式，只是將主版號變更為4。
+自3.0（2011年7月）发布后，版本的格式為3.A.B，其中A,B代表：**A**是内核的版本，**B**是安全补丁。而4.0（2015年4月）釋出後，則延續3.A.B的命名格式，只是將主版號變更為4。
 
 ### 版本時間線
 
-<small>來源：kernel.org\[103\]</small>
+<small>來源：kernel.org\[106\]</small>
 
 ## 法律層面
 
 ### 许可证
 
-原先托瓦茲将 Linux 置于一个禁止任何商业行为的条例之下\[104\]，但0.12版本之后改用 [GNU
-通用公共许可证第二版](../Page/GNU通用公共许可证.md "wikilink")。\[105\]
+原先托瓦茲将 Linux 置于一个禁止任何商业行为的条例之下\[107\]，但0.12版本之后改用 [GNU
+通用公共许可证第二版](../Page/GNU通用公共许可证.md "wikilink")。\[108\]
 该协议允许任何人对软件进行修改或发行，包括商业行为，只要其遵守该协议，所有基于Linux的软件也必须以该协议的形式发表，并提供[源代码](../Page/源代码.md "wikilink")。
 
-托瓦茲曾经公开声称将Linux置于GNU通用公共许可证之下是他一生中所做的“最好的决定”。\[106\]
+托瓦茲曾经公开声称将Linux置于GNU通用公共许可证之下是他一生中所做的“最好的决定”。\[109\]
 
 #### GPL第三版
 
-Linux 内核明确地仅发表在 GNU 通用公共许可证（GPL）第二版下，\[107\]而不向被许可方提供选择“任何更高版本”的选项（这是常见的
-GPL 扩展）。关于如何轻松地改变许可证以使用后来的 GPL 版本（包括第3版）以及这种更改是否合乎需要，存在着相当多的争论。\[108\]
-托瓦茲本人在版本2.4.0的发布中明确指出，他自己的代码仅在版本2下发布。\[109\]然而，GPL的条款规定，如果没有指定版本，那么可以使用任何版本；\[110\]并且[艾伦·考克斯指出](../Page/艾倫·考克斯.md "wikilink")，很少有其他
-Linux 贡献者指定了特定版本的 GPL。\[111\]
+Linux 内核明确地仅发表在 GNU 通用公共许可证（GPL）第二版下，\[110\]而不向被许可方提供选择“任何更高版本”的选项（这是常见的
+GPL 扩展）。关于如何轻松地改变许可证以使用后来的 GPL 版本（包括第3版）以及这种更改是否合乎需要，存在着相当多的争论。\[111\]
+托瓦茲本人在版本2.4.0的发布中明确指出，他自己的代码仅在版本2下发布。\[112\]然而，GPL的条款规定，如果没有指定版本，那么可以使用任何版本；\[113\]并且[艾伦·考克斯指出](../Page/艾倫·考克斯.md "wikilink")，很少有其他
+Linux 贡献者指定了特定版本的 GPL。\[114\]
 
 2006年9月，对29位关键内核程序员的调查显示其中的28位更倾向于使用 GPL 第二版（GPLv2）而非当时的 GPL
 第三版（GPLv3）草案。
 托瓦茲评论说：“我认为一些外界人士......相信我才是那个古怪不合群的人，因为我这么大张旗鼓地不做
-GPLv3 的忠实粉丝。”\[112\]这些高水平的内核开发者就大众媒体对 GPLv3
-的反对发表了评论，其中包括林納斯·托瓦茲本人、葛雷格·克羅哈曼和[安德鲁·莫顿](../Page/安德魯·莫頓.md "wikilink")。\[113\]他们提到有关[DRM](https://zh.wikipedia.org/wiki/DRM "wikilink")/、专利及“附加限制”的条款，并警告GPLv3对“开源宇宙”的[巴尔干化](../Page/巴尔干化.md "wikilink")。\[114\]\[115\]决定不采用
-GPLv3 作为 Linux 内核许可证的托瓦茲在几年后重申了他的批评。\[116\]
+GPLv3 的忠实粉丝。”\[115\]这些高水平的内核开发者就大众媒体对 GPLv3
+的反对发表了评论，其中包括林納斯·托瓦茲本人、葛雷格·克羅哈曼和[安德鲁·莫顿](../Page/安德魯·莫頓.md "wikilink")。\[116\]他们提到有关[DRM](https://zh.wikipedia.org/wiki/DRM "wikilink")/、专利及“附加限制”的条款，并警告GPLv3对“开源宇宙”的[巴尔干化](../Page/巴尔干化.md "wikilink")。\[117\]\[118\]决定不采用
+GPLv3 作为 Linux 内核许可证的托瓦茲在几年后重申了他的批评。\[119\]
 
 #### 韌體爭議
 
-許可證爭議的一個重點是Linux使用[韌體](../Page/韌體.md "wikilink")[二進位包以支援某些硬體裝置](https://zh.wikipedia.org/wiki/二進位包 "wikilink")。[理察·馬修·斯托曼認為這些東西讓Linux某部份成為](https://zh.wikipedia.org/wiki/理察·馬修·斯托曼 "wikilink")[非自由軟體](https://zh.wikipedia.org/wiki/非自由軟體 "wikilink")，甚至以此散佈Linux更會破壞GPL，因為GPL需要**完全可獲取的原始碼**\[117\]。
+許可證爭議的一個重點是Linux使用[韌體](../Page/韌體.md "wikilink")[二進位包以支援某些硬體裝置](https://zh.wikipedia.org/wiki/二進位包 "wikilink")。[理察·馬修·斯托曼認為這些東西讓Linux某部份成為](https://zh.wikipedia.org/wiki/理察·馬修·斯托曼 "wikilink")[非自由軟體](https://zh.wikipedia.org/wiki/非自由軟體 "wikilink")，甚至以此散佈Linux更會破壞GPL，因為GPL需要**完全可獲取的原始碼**\[120\]。
 
 林纳斯·托瓦兹及Linux社群中的領導者，支持較寬鬆的許可證，不支持[理察·馬修·斯托曼的立場](https://zh.wikipedia.org/wiki/理察·馬修·斯托曼 "wikilink")。社群中的[Linux-libre提供完整的自由軟體韌體](../Page/Linux-libre.md "wikilink")。
 
@@ -1404,8 +1394,8 @@ Novell），法院認定Novell才是Unix商標的合法擁有者，而不是SCO�
 
 84. <http://kernel.org/>
 
-85. [Linux 3.0-rc1](http://permalink.gmane.org/gmane.linux.kernel/1147415),
-    [Linus
+85. [Linux 3.0-rc1](http://permalink.gmane.org/gmane.linux.kernel/1147415)
+    , [Linus
     Torvalds](https://zh.wikipedia.org/wiki/Linus_Torvalds "wikilink"),
     30 May 2011, accessed 31 May 2011
 
@@ -1440,38 +1430,43 @@ Novell），法院認定Novell才是Unix商標的合法擁有者，而不是SCO�
 99.
 
 100.
+
 101.
-102. [Linux Kernel Archives -
+
+102.
+103.
+104.
+105. [Linux Kernel Archives -
      Volume 1](http://ftp.cdut.edu.cn/pub/linux/kernel/history/lka-001.html)
      （Riley Williams）
 
-103.
-
-104.
-
-105.
 106.
+
 107.
+
 108.
-
 109.
-
 110.
-
 111.
 
 112.
 
 113.
+
 114.
 
 115.
 
-116. [Linus Torvalds says GPL v3 violates everything that GPLv2 stood
+116.
+117.
+
+118.
+
+119. [Linus Torvalds says GPL v3 violates everything that GPLv2 stood
      for](https://www.youtube.com/watch?v=PaKIZ7gJlRU)
      [Debconf](https://zh.wikipedia.org/wiki/Debconf "wikilink") 2014,
      [Portland,
      Oregon](https://zh.wikipedia.org/wiki/Portland,_Oregon "wikilink")
      (accessed 11 March 2015)
 
-117. <http://www.gnu.org/philosophy/linux-gnu-freedom.html>
+120. <http://www.gnu.org/philosophy/linux-gnu-freedom.html>

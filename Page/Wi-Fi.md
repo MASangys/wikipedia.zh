@@ -9,8 +9,8 @@
 IEEE
 802.11的設備已安裝在市面上的許多產品，如：[個人電腦](https://zh.wikipedia.org/wiki/個人電腦 "wikilink")、[遊戲機](https://zh.wikipedia.org/wiki/遊戲機 "wikilink")、[MP3播放器](https://zh.wikipedia.org/wiki/MP3播放器 "wikilink")、[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")、[平板電腦](../Page/平板電腦.md "wikilink")、[印表機](https://zh.wikipedia.org/wiki/印表機 "wikilink")、[筆記型電腦以及其他可以無線上網的週邊設備](../Page/筆記型電腦.md "wikilink")。
 
-Wi-Fi聯盟成立于1999年，當時的名稱叫做Wireless Ethernet Compatibility
-Alliance（WECA）。在2002年10月，正式改名為Wi-Fi Alliance。
+Wi-Fi聯盟成立于1999年，當時的名稱為無線乙太網路相容性聯盟（Wireless Ethernet Compatibility
+Alliance, WECA）。2002年10月，正式改名為Wi-Fi Alliance。
 
 ## 由來
 

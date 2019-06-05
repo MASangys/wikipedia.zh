@@ -74,7 +74,7 @@ Windows運行](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，另
 <tr class="even">
 <td><p><a href="http://ftp.gnome.org/pub/gnome/sources/gtk+/1.2/">1.2</a></p></td>
 <td><p>1999年2月27日</p></td>
-<td><p>新增部件（GtkFontSelector、GtkPacker、GtkItemFactory、GtkCTree、GtkInvisible、GtkCalendar、GtkLayout、GtkPlug、GtkSocket）</p></td>
+<td><p>新增部件（）</p></td>
 <td><p><a href="http://mail.gnome.org/archives/gtk-devel-list/2001-April/msg00049.html">1.2.10</a></p></td>
 </tr>
 <tr class="odd">
@@ -258,6 +258,7 @@ Windows。這個軟體與GTK不同的地方在於它僅僅是為了執行軟體�
 [Category:应用程序接口](https://zh.wikipedia.org/wiki/Category:应用程序接口 "wikilink")
 [Category:GNU](https://zh.wikipedia.org/wiki/Category:GNU "wikilink")
 [Category:GNU計劃軟體](https://zh.wikipedia.org/wiki/Category:GNU計劃軟體 "wikilink")
+[Category:使用LGPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用LGPL许可证的软件 "wikilink")
 [Category:部件工具箱](https://zh.wikipedia.org/wiki/Category:部件工具箱 "wikilink")
 [Category:软件开发](https://zh.wikipedia.org/wiki/Category:软件开发 "wikilink")
 [Category:GTK](https://zh.wikipedia.org/wiki/Category:GTK "wikilink")

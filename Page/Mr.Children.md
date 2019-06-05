@@ -403,7 +403,10 @@ Love
 Mr.Children」則發起2月2日的手幅應援活動，在安可曲唱畢後舉出，現場共有8,740名歌迷參與。此舉令Mr.Children與工作人員相當感動，隔天在Father\&Mother（Fan
 Club）及官方Facebook貼出手幅照片表達致謝之意。另外，據稱還有日、台、港的藝人與歌手紛紛前來「朝聖」，如[嵐的](../Page/嵐.md "wikilink")[櫻井翔](../Page/櫻井翔.md "wikilink")、[五月天的](../Page/五月天.md "wikilink")[阿信及](https://zh.wikipedia.org/wiki/阿信 "wikilink")[瑪莎夫婦](https://zh.wikipedia.org/wiki/瑪莎 "wikilink")、[楊丞琳](../Page/楊丞琳.md "wikilink")、[炎亞綸](../Page/炎亞綸.md "wikilink")、[余文樂](../Page/余文樂.md "wikilink")、[何韻詩等](https://zh.wikipedia.org/wiki/何韻詩 "wikilink")。
 
-4月19日，宣佈將於6月26日發行最新LIVE DVD & Blu-ray 『Mr.Children Tour 2018-19 重力と呼吸』。
+4月19日，宣佈將於6月26日發行最新LIVE DVD & Blu-ray 《Mr.Children Tour 2018-19 重力と呼吸》。
+
+5月27日，公開最新LIVE DVD & Blu-ray 《Mr.Children Tour 2018-19
+重力と呼吸》的宣傳影片，分別有15秒、30秒及1分43秒3個版本，並公佈將收錄首次海外在台北單獨公演的影像，長度約19分鐘。同時公告在台灣開設官方的網路商店，台灣歌迷可利用官方網路商店購買到最新的作品。
 
 ## 作品列表
 
@@ -868,7 +871,7 @@ Club）及官方Facebook貼出手幅照片表達致謝之意。另外，據稱�
 78. [Mr.Children「himawari (Live ver.)」 MUSIC VIDEO (Short
     ver.)](https://www.youtube.com/watch?v=oGLKmSpgzXA)。
 
-79. [（日文）映画『君の膵臓をたべたい』オフィシャルサイト](http://kimisui.jp/)。
+79. [（日文）映画『君の膵臓をたべたい』オフィシャルサイト](http://kimisui.jp/) 。
 
 80. [（日文）8/7付週間シングルランキング1位はMr.Childrenの「himawari」](http://www.oricon.co.jp/news/2094985/)，2017-8-2。
 

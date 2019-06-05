@@ -109,7 +109,8 @@ px(1) :- \+ px(1).      /* 規定此规则不成立。 i.e. 此规则為假時�
 
 ## 外部連結
 
-  - [Prolog 人工智能语言中文论坛](http://prolog.longluntan.net)
+  - [Prolog
+    人工智能语言中文论坛](https://web.archive.org/web/20180202221359/http://prolog.longluntan.net/)
 
 <!-- end list -->
 

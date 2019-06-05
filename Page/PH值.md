@@ -163,7 +163,7 @@ pOH（[氢氧根离子浓度指数](https://zh.wikipedia.org/wiki/氢氧根离�
 ## 外部連接
 
   - [The pH
-    Scale](http://www.science.uwaterloo.ca/~cchieh/cact/c123/ph.html)
+    Scale](https://web.archive.org/web/20180929070151/http://www.science.uwaterloo.ca/~cchieh/cact/c123/ph.html)
   - [Chem1 Virtual Textbook, Acid-base Equilibria and
     Calculations](http://www.chem1.com/acad/webtext/pdf/c1xacid2.pdf)
   - [Red Cabbage pH

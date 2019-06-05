@@ -1,17 +1,17 @@
-**SAP公司**是一家总部位于德国[巴登符腾堡州](https://zh.wikipedia.org/wiki/巴登符腾堡州 "wikilink")[瓦尔多夫的软件企业](../Page/瓦尔多夫.md "wikilink")。公司主营业务为[企业资源管理软件](https://zh.wikipedia.org/wiki/企业资源管理 "wikilink")。该公司是歐洲最大的軟件企業，在130个国家设有地区办事处，在190个国家拥有超过335,000名客户\[1\]。该公司股票是欧洲[Stoxx
+**SAP公司**是总部位于德国[巴登符腾堡州](https://zh.wikipedia.org/wiki/巴登符腾堡州 "wikilink")[瓦尔多夫的软件企业](../Page/瓦尔多夫.md "wikilink")，主营业务为[企业资源管理软件](https://zh.wikipedia.org/wiki/企业资源管理 "wikilink")，是歐洲最大的軟件企業，在130个国家设有地区办事处，在190个国家拥有超过335,000名客户\[1\]。该公司股票是欧洲[Stoxx
 50股票市场指数的成分股](https://zh.wikipedia.org/wiki/Stoxx_50 "wikilink")。\[2\]
 
 ## 公司歷史
 
 [SAP_AG_Headquarter_1200.jpg](https://zh.wikipedia.org/wiki/File:SAP_AG_Headquarter_1200.jpg "fig:SAP_AG_Headquarter_1200.jpg")
 SAP公司於1972年在[德國創立](https://zh.wikipedia.org/wiki/德國 "wikilink")。五位創始人（Dietmar
-Hopp、Hans-Werner Hector、[Hasso
-Plattner](https://zh.wikipedia.org/wiki/Hasso_Plattner "wikilink")、Klaus
+Hopp、Hans-Werner Hector、Hasso
+Plattner（[哈索·普拉特納](https://zh.wikipedia.org/wiki/哈索·普拉特納 "wikilink")）、Klaus
 Tschira與Claus
-Wellenreuther）於德國[魏因海姆](https://zh.wikipedia.org/wiki/魏因海姆 "wikilink")（）初創時，公司名為「」（系統分析與程式開發），後根據「」（資料處理的系統、應用與產品）將公司名稱縮寫為SAP。
+Wellenreuther）於德國[魏恩海姆](../Page/魏恩海姆.md "wikilink")（）初創時，公司名為「」（系統分析與程式開發），後根據「」（資料處理的系統、應用與產品）將公司名稱縮寫為SAP。
 
-1976年，"SAP
-[GmbH](https://zh.wikipedia.org/wiki/GmbH "wikilink")"成立，並於次年將總部搬遷至[沃爾多夫](https://zh.wikipedia.org/wiki/沃爾多夫 "wikilink")。在2005年的公司年會上，SAP
+1976年，「SAP
+[GmbH](https://zh.wikipedia.org/wiki/GmbH "wikilink")」成立，並於次年將總部搬遷至[沃爾多夫](https://zh.wikipedia.org/wiki/沃爾多夫 "wikilink")。在2005年的公司年會上，SAP
 AG成為了公司的官方名稱。在2007年，SAP宣佈將以47億歐元現金收購商務智能軟件公司Business
 Objects，正式進軍商務智能領域。　在2010年，SAP宣佈將以58億美元現金收購商業軟件開發商[Sybase](../Page/Sybase.md "wikilink")。2014年9月19日SAP以每股129美元斥資83億美元收購旅遊和支付軟件提供商Concur
 Technologies，2018年11月11日SAP斥資80億美元現金，收購軟體公司Qualtrics
@@ -20,7 +20,7 @@ Technologies，2018年11月11日SAP斥資80億美元現金，收購軟體公司Q
 
 根据富比士杂志的排名，截至2016年，SAP是世界第三大软件公司。\[3\]
 
-公司在世界各地开展业务：欧洲，中东和非洲（EMEA）（欧洲，中东，非洲），中欧和东欧（包括中东欧，中东欧和独联体分区域），美国和加拿大，拉丁美洲和加勒比），大中华区（中国及台湾）和APJ（亚太地区和日本）。\[4\]
+公司在世界各地开展业务：欧洲，中东和非洲（EMEA）（欧洲，中东，非洲），中欧和东欧（包括中东欧，中东欧和独联体分区域），美国和加拿大，拉丁美洲和加勒比），大中华区（中国大陆及台湾）和APJ（亚太地区和日本）。\[4\]
 
 SAP的业务侧重于25个行业和六大产业：制造行业，物流行业，消费行业，服务行业，金融服务和公共服务。\[5\]它为大型企业，中型公司和小型企业提供集成产品集。\[6\]
 

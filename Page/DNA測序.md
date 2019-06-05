@@ -137,8 +137,6 @@ Genomics）公司所主持的[人類基因組计划](https://zh.wikipedia.org/wi
 
 ## 参考文献
 
-[et:Sekveneerimine](https://zh.wikipedia.org/wiki/et:Sekveneerimine "wikilink")
-
 [Category:DNA测序](https://zh.wikipedia.org/wiki/Category:DNA测序 "wikilink")
 [Category:分子生物学技术](https://zh.wikipedia.org/wiki/Category:分子生物学技术 "wikilink")
 

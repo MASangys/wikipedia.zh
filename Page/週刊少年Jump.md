@@ -214,7 +214,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/演員夜凪景_act-age.md" title="wikilink">演員夜凪景 act-age</a></p></td>
+<td><p><a href="../Page/演員夜凪景_act-age.md" title="wikilink">act-age 新世代演員</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -234,39 +234,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td></td>
 <td></td>
 <td><p>－</p></td>
-<td><p>2018年42號</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td><p>林聖二</p></td>
-<td><p>－</p></td>
-<td><p>2018年42號</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/電鋸人" title="wikilink">電鋸人</a></p></td>
-<td></td>
-<td></td>
-<td><p>－</p></td>
 <td><p>2019年01號</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/ne0;lation" title="wikilink">ne0;lation</a></p></td>
-<td></td>
-<td><p>依田瑞稀</p></td>
-<td><p>平尾友秀</p></td>
-<td><p>2019年02號</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td><p>帆上夏希</p></td>
-<td><p>－</p></td>
-<td><p>2019年03號</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -278,7 +246,7 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/梳扎頭髮的神緒結衣" title="wikilink">梳扎頭髮的神緒結衣</a></p></td>
 <td></td>
 <td><p><a href="../Page/椎橋寬.md" title="wikilink">椎橋寬</a></p></td>
 <td><p>－</p></td>
@@ -286,19 +254,35 @@ NARUTO NEXT GENERATIONS-;zh-hans:博人传-火影次世代}-</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/武士8:八丸傳" title="wikilink">武士8:八丸傳</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/サムライ8_八丸伝" title="wikilink">サムライ8 八丸伝</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大久保彰" title="wikilink">大久保彰</a>(作畫)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岸本齊史" title="wikilink">岸本齊史</a>(腳本)</p></td>
-<td><p>2019年22、23 合併號</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SAMURAI8～機侍_八丸傳" title="wikilink">SAMURAI8～機侍 八丸傳</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大久保彰" title="wikilink">大久保彰</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/岸本齊史" title="wikilink">岸本齊史</a></p></td>
+<td><p>2019年24號</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/福田健太郎" title="wikilink">福田健太郎</a></p></td>
+<td><p>－</p></td>
+<td><p>2019年25號</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Beast_Children" title="wikilink">Beast Children</a></p></td>
 <td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/寺坂研人" title="wikilink">寺坂研人</a></p></td>
+<td><p>－</p></td>
+<td><p>2019年26號</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/東京忍者小隊" title="wikilink">東京忍者小隊</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/松浦健人" title="wikilink">松浦健人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/田中勇輝" title="wikilink">田中勇輝</a></p></td>
+<td><p>2019年27號</p></td>
 <td></td>
 </tr>
 </tbody>

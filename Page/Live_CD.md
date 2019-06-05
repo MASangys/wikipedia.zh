@@ -21,7 +21,7 @@ CD。它可以從光碟中啟動一個完整的桌面。
 基於[Linux的自生系统和Linux軟磁碟通常是用工具程式](../Page/Linux.md "wikilink")[syslinux來起動的](https://zh.wikipedia.org/wiki/syslinux "wikilink")。在個人電腦上，可開機光碟通常都遵照[El
 Torito標準](../Page/El_Torito.md "wikilink")，將光碟上的一個特殊的檔案（通常都是隱藏檔）當作軟磁碟影像檔處理。很多基於Linux的自生系统會使用一個壓縮檔案系統，通常是簡稱「cloop」的Compressed
 Loopback
-Device，來增大光碟的容量。以此方法製作的系統，功能可以頗為豐富：典型的[Knoppix系統包括了大約](https://zh.wikipedia.org/wiki/Knoppix "wikilink")1,200種軟件包。
+Device，來增大光碟的容量。以此方法製作的系統，功能可以頗為豐富：典型的[Knoppix系統包括了大約](../Page/Knoppix.md "wikilink")1,200種軟件包。
 
 ## 使用
 
@@ -86,11 +86,11 @@ Linux](https://zh.wikipedia.org/wiki/Damn_Small_Linux "wikilink")（DSL）可以
     software media center for Linux，[官网](http://www.geexbox.org/)
   - [Gnoppix](https://zh.wikipedia.org/wiki/Gnoppix "wikilink") -
     基于[Ubuntu使用](../Page/Ubuntu.md "wikilink")[GNOME作为桌面的自生系统CD](../Page/GNOME.md "wikilink")。
-  - [Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink") -
+  - [Knoppix](../Page/Knoppix.md "wikilink") -
     基於[Debian的自生系统CD](../Page/Debian.md "wikilink")。
   - [Knoppix
     bv1al](https://zh.wikipedia.org/wiki/Knoppix_bv1al "wikilink") -
-    基於[Knoppix的](https://zh.wikipedia.org/wiki/Knoppix "wikilink")[繁體中文自生系统CD](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")。
+    基於[Knoppix的](../Page/Knoppix.md "wikilink")[繁體中文自生系统CD](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")。
   - [Kubuntu](../Page/Kubuntu.md "wikilink") -
     基于[Ubuntu的](../Page/Ubuntu.md "wikilink")[KDE桌面环境自生系统CD](../Page/KDE.md "wikilink")/DVD。
   - [linuX-gamers](https://zh.wikipedia.org/wiki/linuX-gamers "wikilink")

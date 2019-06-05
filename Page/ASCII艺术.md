@@ -173,7 +173,7 @@ ASCII艺术图形可以放到[HTML文档中](../Page/HTML.md "wikilink")，但�
 
   - [Jave - a free versatile使用Java编写的ASCII编辑器](http://www.jave.de)
   - [文本生成器](https://web.archive.org/web/20120623210735/http://www.figlet.org/)
-  - [另一个生成光栅ASCII艺术的程序](http://www.imagespro.com/programs/1141)
+  - [另一个生成光栅ASCII艺术的程序](https://archive.is/20130426162105/http://www.imagespro.com/programs/1141)
   - [Japanese Ascii Art.image](http://256arts.blogspot.com/)
   - [Boxes - 一个免费的生成和管理ASCII艺术的滤镜](http://boxes.thomasjensen.com/)
 
@@ -186,7 +186,8 @@ ASCII艺术图形可以放到[HTML文档中](../Page/HTML.md "wikilink")，但�
   - [指南](https://web.archive.org/web/20050412025156/http://www.ludd.luth.se/~vk/pics/ascii/junkyard/techstuff/tutorials/Joan_Stark.html#tutorials)
   - [AA-lib](http://aa-project.sourceforge.net/index.html)
   - [libcaca](http://caca.zoy.org/wiki/libcaca)（颜色ASCII艺术）
-  - [Cow Art](http://www.ortech-engr.com/pecans/cows.html)
+  - [Cow
+    Art](https://web.archive.org/web/19970210183702/http://www.ortech-engr.com/pecans/cows.html)
   - [星際大战](http://www.asciimation.co.nz/)（一段22分钟长的ASCII动画，要求安装Java）\*\*
     [星際大战（telnet版）](telnet://towel.blinkenlights.nl)（[telnet版的星際大战电影](https://zh.wikipedia.org/wiki/telnet "wikilink")）
 

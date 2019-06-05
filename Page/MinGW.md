@@ -77,8 +77,7 @@ Tietz维护。
 ### 官方链接
 
   - [MinGW 官方网站](http://www.mingw.org/)。
-
-  - 。
+  - OSDN上的[MinGW官方的下载站点](https://zh.osdn.net/projects/mingw/)。
 
 [Category:SourceForge专案](https://zh.wikipedia.org/wiki/Category:SourceForge专案 "wikilink")
 [Category:GNU](https://zh.wikipedia.org/wiki/Category:GNU "wikilink")

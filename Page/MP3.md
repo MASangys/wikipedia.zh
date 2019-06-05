@@ -300,7 +300,7 @@ MP2、MP3、mp3PRO、和AAC都是同一個技術家族中的成員，並且都�
 
   - [MPEG-4 ALS](https://zh.wikipedia.org/wiki/MPEG-4_ALS "wikilink")
 
-聽覺[測試](http://www.rjamorim.com/test/)試圖找出特定位元率下的最好質量的有損音訊編解碼。在128kbit/s下，AAC、MPC、WMA
+聽覺[測試](https://web.archive.org/web/20060612205408/http://www.rjamorim.com/test/)試圖找出特定位元率下的最好質量的有損音訊編解碼。在128kbit/s下，AAC、MPC、WMA
 Pro和OGG Vorbis性能持平處於領先位置，LAME
 MP3稍微落後。在64kbit/s下，AAC-HE和mp3pro少許領先於其他編解碼器。在超過128kbit/s下，多數聽眾聽不出它們之間有明顯差別。什麼是「CD音質」也是很主觀的：對於一些人來說128kbit/s的MP3就足夠了，而對於另外一些人來說必須是200kbit/s以上的位元率。
 

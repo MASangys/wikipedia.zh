@@ -4,7 +4,8 @@
 
 [漢語拼音有一個](https://zh.wikipedia.org/wiki/漢語拼音 "wikilink") Unicode
 未收的帶[重音符的](../Page/重音符.md "wikilink") m
-（̀\[1\]）用來表示「呣」的發音。 nc
+（̀\[1\]）用來表示「呣」的發音。
+
 在一些[醫學檢驗報告中](https://zh.wikipedia.org/wiki/醫學檢驗 "wikilink")，參考值標示的M為男性（Male）的意思。\[2\]
 
 ## 字符编码

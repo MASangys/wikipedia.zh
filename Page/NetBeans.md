@@ -60,7 +60,8 @@ NetBeans平台是一種可重複使用的框架用於簡化其他桌面應用程
     Enterprise, Mobility, Profiling...
   - [NetBeans GUI Builder
     "Matisse"](https://web.archive.org/web/20090308114253/http://www.netbeans.org/kb/50/quickstart-gui.html)
-  - [Blogs about NetBeans](http://www.planetnetbeans.org/)
+  - [Blogs about
+    NetBeans](https://web.archive.org/web/20061010152314/http://planetnetbeans.org/)
   - [NetBeans plugin
     catalogue](https://web.archive.org/web/20080511224500/http://www.netbeans.org/catalogue/)
     and [NB Extras](http://www.nbextras.org) to extend IDE functionality

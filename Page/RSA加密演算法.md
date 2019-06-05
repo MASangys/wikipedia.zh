@@ -1,6 +1,6 @@
 [Adi_Shamir_2009_crop.jpg](https://zh.wikipedia.org/wiki/File:Adi_Shamir_2009_crop.jpg "fig:Adi_Shamir_2009_crop.jpg")（Adi
 Shamir）\]\]
-**RSA加密演算法**是一种[非对称加密演算法](https://zh.wikipedia.org/wiki/非对称加密演算法 "wikilink")。在[公开密钥加密和](../Page/公开密钥加密.md "wikilink")[电子商业中RSA被广泛使用](https://zh.wikipedia.org/wiki/电子商业 "wikilink")。RSA是1977年由[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")（Ron
+**RSA加密演算法**是一种[非对称加密演算法](https://zh.wikipedia.org/wiki/非对称加密演算法 "wikilink")，在[公开密钥加密和](../Page/公开密钥加密.md "wikilink")[电子商业中被广泛使用](https://zh.wikipedia.org/wiki/电子商业 "wikilink")。RSA是1977年由[罗纳德·李维斯特](../Page/罗纳德·李维斯特.md "wikilink")（Ron
 Rivest）、[阿迪·萨莫尔](../Page/阿迪·萨莫尔.md "wikilink")（Adi
 Shamir）和[伦纳德·阿德曼](../Page/伦纳德·阿德曼.md "wikilink")（Leonard
 Adleman）一起提出的。当时他们三人都在[麻省理工学院工作](../Page/麻省理工学院.md "wikilink")。RSA就是他们三人姓氏开头字母拼在一起组成的。\[1\]
@@ -8,12 +8,9 @@ Adleman）一起提出的。当时他们三人都在[麻省理工学院工作](.
 1973年，在英国政府通讯总部工作的数学家克利福德·柯克斯（Clifford
 Cocks）在一个内部文件中提出了一个与之等效的算法，但该算法被列入机密，直到1997年才得到公开。\[2\]
 
-對极大整数做[因数分解的难度決定了RSA算法的可靠性](https://zh.wikipedia.org/wiki/因数分解 "wikilink")。換言之，對一极大整数做因数分解愈困难，RSA算法愈可靠。假如有人找到一种快速因数分解的算法的话，那么用RSA加密的-{zh-hans:信息;
-zh-tw:訊息}-的可靠性就肯定会极度下降。但找到这样的算法的可能性是非常小的。今天只有短的RSA钥匙才可能被强力方式-{zh-hans:解破;
-zh-tw:破解}-。到目前为止，世界上还没有任何可靠的攻击RSA算法的方式。只要其钥匙的长度足够长，用RSA加密的-{zh-hans:信息;
-zh-tw:訊息}-实际上是不能被-{zh-hans:解破; zh-tw:破解}-的。
+對极大整数做[因数分解的难度決定了RSA算法的可靠性](https://zh.wikipedia.org/wiki/因数分解 "wikilink")。換言之，對一极大整数做因数分解愈困难，RSA算法愈可靠。假如有人找到一种快速因数分解的算法的话，那么用RSA加密的-{zh-hans:信息;zh-tw:訊息}-的可靠性就会极度下降。但找到这样的算法的可能性是非常小的。今天只有短的RSA钥匙才可能被强力方式破解。到目前为止，世界上还没有任何可靠的攻击RSA算法的方式。只要其钥匙的长度足够长，用RSA加密的-{zh-hans:信息;zh-tw:訊息}-实际上是不能被破解的。
 
-1983年9月12日麻省理工学院在[美国为RSA算法申请了](../Page/美国.md "wikilink")[专利](../Page/专利.md "wikilink")。\[3\]这个专利2000年9月21日失效。\[4\]由于该算法在申请专利前就已经被發表了\[5\]，在世界上大多数其它地区这个专利权不被承认。
+1983年9月12日麻省理工学院在[美国为RSA算法申请了](../Page/美国.md "wikilink")[专利](../Page/专利.md "wikilink")。\[3\]这个专利于2000年9月21日失效。\[4\]由于该算法在申请专利前就已经被發表了\[5\]，在世界上大多数其它地区这个专利权不被承认。
 
 ## 操作
 

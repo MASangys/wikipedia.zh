@@ -448,7 +448,7 @@ ASCII第一次以規範標準的型態發表是在1967年，最後一次更新�
 
 ## 缺點
 
-ASCII的局限在於只能顯示26個基本拉丁字母、阿拉伯數目字和英式標點符號，因此只能用於顯示現代美國英語（而且在處理英語當中，即使會違反拼寫規則，外來詞如naïve、café、élite等等時，所有重音符號都必須去掉）。雖然EASCII解決了部分西歐語言的顯示問題，但對更多其他語言依然無能為力。因此，現在的软件系统大多采用[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
+ASCII的局限在於只能顯示26個基本拉丁字母、阿拉伯數字和英式標點符號，因此只能用於顯示現代美國英語（且處理naïve、café、élite等[外來語時](https://zh.wikipedia.org/wiki/外來語 "wikilink")，必須去除[附加符號](https://zh.wikipedia.org/wiki/附加符號 "wikilink")）。雖然EASCII解決了部分西歐語言的顯示問題，但對更多其他語言依然無能為力。因此，現在的软件系统大多采用[Unicode](https://zh.wikipedia.org/wiki/Unicode "wikilink")。
 
 ## 参见
 

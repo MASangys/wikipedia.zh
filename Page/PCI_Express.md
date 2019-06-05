@@ -1,16 +1,16 @@
 **PCI
-Express**，简称**PCI-E**，官方简称**PCIe**，是[電腦匯流排](https://zh.wikipedia.org/wiki/電腦匯流排 "wikilink")[PCI的一種](../Page/外设组件互连标准.md "wikilink")，它沿用現有的PCI[編程概念及](https://zh.wikipedia.org/wiki/編程 "wikilink")[通訊](https://zh.wikipedia.org/wiki/通訊 "wikilink")[標準](https://zh.wikipedia.org/wiki/標準 "wikilink")，但建基於更快的[串行通信系統](../Page/串行通信.md "wikilink")。
+Express**，简称**PCI-E**，官方简称**PCIe**，是[電腦匯流排](https://zh.wikipedia.org/wiki/電腦匯流排 "wikilink")[PCI的一種](../Page/外设组件互连标准.md "wikilink")，它沿用現有的PCI編程概念及通訊標準，但建基於更快的[串行通信系統](../Page/串行通信.md "wikilink")。
 
 [英特爾是該介面的主要支援者](https://zh.wikipedia.org/wiki/英特爾 "wikilink")。PCIe仅应用于内部互连。由于PCIe是基于现有的[PCI系统](../Page/外设组件互连标准.md "wikilink")，只需修改[物理层而无须修改软件就可将现有PCI系统转换为PCIe](../Page/物理层.md "wikilink")。
 
-PCIe拥有更快的速率，以取代几乎全部现有的内部[总线](../Page/总线.md "wikilink")（包括[AGP和](../Page/AGP.md "wikilink")[PCI](../Page/外设组件互连标准.md "wikilink")）。現在[英特爾和](https://zh.wikipedia.org/wiki/英特爾 "wikilink")[AMD已採用單晶片組技術](https://zh.wikipedia.org/wiki/AMD "wikilink")，取代原有的[南桥](../Page/南桥.md "wikilink")／[北桥方案](../Page/北桥.md "wikilink")。
+PCIe拥有更快的速率，以取代几乎全部以往的内部[总线](../Page/总线.md "wikilink")（包括[AGP和PCI](../Page/AGP.md "wikilink")）。現在英特爾和[AMD已採用單晶片組技術](https://zh.wikipedia.org/wiki/AMD "wikilink")，取代原有的[南桥](../Page/南桥.md "wikilink")／[北桥方案](../Page/北桥.md "wikilink")。
 
-除此之外，PCIe设备能够支援[热拔插以及](https://zh.wikipedia.org/wiki/热拔插 "wikilink")[热交换特性](https://zh.wikipedia.org/wiki/热交换 "wikilink")，支援的三种[电压分别为](https://zh.wikipedia.org/wiki/电压 "wikilink")+3.3V、3.3Vaux以及+12V。
+除此之外，PCIe设备能够支援[热拔插以及](https://zh.wikipedia.org/wiki/热拔插 "wikilink")[热交换特性](https://zh.wikipedia.org/wiki/热交换 "wikilink")，支援的三种电压分别为+3.3V、3.3Vaux以及+12V。
 
-考虑到现在[顯示卡功耗的日益增加](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，PCIe而后在规范中改善直接从[插槽中取电的](https://zh.wikipedia.org/wiki/插槽 "wikilink")[功率限制](../Page/功率.md "wikilink")，16x的最大提供功率达到75W\[1\]，比AGP
+考虑到现在[顯示卡功耗的日益增加](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，PCIe而后在规范中改善直接从插槽中取电的功率限制，16x的最大提供功率达到75W\[1\]，比AGP
 8X接口有了很大的提升。
 
-PCIe只是[南桥的扩展总线](../Page/南桥.md "wikilink")，它与操作系统无关，所以也保证它与原有PCI的兼容性，也就是说在很长一段时间内在主板上PCIe接口将和[PCI接口共存](../Page/外设组件互连标准.md "wikilink")，这也给用户的升级带来方便。由此可见，PCIe最大的意义在于它的通用性，不仅可以让它用于[南桥和其他](../Page/南桥.md "wikilink")[设备的连接](https://zh.wikipedia.org/wiki/设备 "wikilink")，也可以延伸到[芯片组间的连接](../Page/芯片组.md "wikilink")，甚至也可以用于连接[圖形處理器](../Page/圖形處理器.md "wikilink")，这样，整个[I/O系统重新统一起来](https://zh.wikipedia.org/wiki/I/O "wikilink")，将更进一步简化[计算机系统](../Page/電子計算機.md "wikilink")，增加[计算机的](../Page/電子計算機.md "wikilink")[可移植性和](https://zh.wikipedia.org/wiki/可移植性 "wikilink")[模块化](https://zh.wikipedia.org/wiki/模块化 "wikilink")。
+PCIe只是南桥的扩展总线，它与操作系统无关，所以也保证它与原有PCI的兼容性，也就是说在很长一段时间内在主板上PCIe接口将和PCI接口共存，这也给用户的升级带来方便。由此可见，PCIe最大的意义在于它的通用性，不仅可以让它用于南桥和其他设备的连接，也可以延伸到[芯片组间的连接](../Page/芯片组.md "wikilink")，甚至也可以用于连接[圖形處理器](../Page/圖形處理器.md "wikilink")，这样，整个[I/O系统重新统一起来](https://zh.wikipedia.org/wiki/I/O "wikilink")，将更进一步简化计算机系统，增加计算机的[可移植性和模块化](https://zh.wikipedia.org/wiki/可移植性 "wikilink")。
 
 ## 历史
 
@@ -87,9 +87,9 @@ Express”，并根据开发蓝图2006年正式推出Spec 2.0（2.0规范）。\
 
 [PCI-Express-Bus.jpg](https://zh.wikipedia.org/wiki/File:PCI-Express-Bus.jpg "fig:PCI-Express-Bus.jpg")
 [PCI-Express-Bus-1-lane.jpg](https://zh.wikipedia.org/wiki/File:PCI-Express-Bus-1-lane.jpg "fig:PCI-Express-Bus-1-lane.jpg")
-PCIe的規範主要是為了提升[電腦內部所有](https://zh.wikipedia.org/wiki/電腦 "wikilink")[匯流排的速度](https://zh.wikipedia.org/wiki/匯流排 "wikilink")，因此[頻寬有多種不同規格標準](https://zh.wikipedia.org/wiki/頻寬 "wikilink")，其中PCIe
+PCIe的規範主要是為了提升電腦內部所有匯流排的速度，因此[頻寬有多種不同規格標準](https://zh.wikipedia.org/wiki/頻寬 "wikilink")，其中PCIe
 x16是專為[顯示卡所設計的部分](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")。AGP的資料傳輸效率最高為2.1GB／s，不過對上PCIe
-x16的8GB／s，很明顯的就分出勝負，但8GB／s只有指資料傳輸的理想值，並不是使用PCIe介面的[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")，就能夠有突飛猛進的效能表現，實際的測試數據上並不會有這麼大的差異存在。
+x16的8GB／s，很明顯的就分出勝負，但8GB／s只有指資料傳輸的理想值，並不是使用PCIe介面的顯示卡，就能夠有突飛猛進的效能表現，實際的測試數據上並不會有這麼大的差異存在。
 \[9\] \[10\]
 
 | 傳輸通道數 | 腳Pin總數 | 主介面區Pin數 | 總長 度  | 主介面區長度   |
@@ -124,32 +124,40 @@ Loop，PLL）达到的。PCI-E
 
 ## PCI Express的硬件协议
 
-PCIe的连接是建立在一个双向的序列的（1-bit）点对点连接基础之上，这称之为“传输通道”。与PCI连接形成鲜明对比的是PCI是基于总线控制，所有设备共同分享的单向32位[并行总线](https://zh.wikipedia.org/wiki/并行总线 "wikilink")。PCIe是一个多层协议，由一个对话层，一个数据交换层和一个物理层构成。物理层又可进一步分为逻辑子层和电气子层。逻辑子层又可分为物理代码子层（PCS）和介质接入控制子层（MAC）。
+PCIe的连接是建立在一个单向的序列的（1-bit）点对点连接基础之上，这称之为*通道*（lane）。这一点上PCIe连接与早期PCI连接形成鲜明对比，PCI连接基于总线控制，所有设备共享双向32位并行总线。PCIe是一个多层协议，由事务层，数据交换层和物理层构成。物理层又可进一步分为逻辑子层和电气子层。逻辑子层又可分为物理代码子层（PCS）和介质接入控制子层（MAC）。这些术语借用自
+[IEEE 802](../Page/IEEE_802.md "wikilink") 网络协议模型。
 
 ### 物理层
 
 [PCIExpress.jpg](https://zh.wikipedia.org/wiki/File:PCIExpress.jpg "fig:PCIExpress.jpg")
-于使用电力方面，每组流水线使用两个单向的[低电压差分信号](https://zh.wikipedia.org/wiki/低电压差分信号 "wikilink")（LVDS）合计达到2.5兆波特。传送及接收不同数据会使用不同的传输通道，每一通道可运作四项资料。两个PCIe设备之间的连接成为“链接”，这形成1组或更多的传输通道。各个设备最少支援1传输通道（x1）的链接。也可以有2，4，8，16，32个通道的链接。这可以更好的提供双向兼容性（x2模式将用于内部接口而非插槽模式）。PCIe卡能使用在至少与之[传输通道相当的插槽上](https://zh.wikipedia.org/wiki/传输通道 "wikilink")（例如x1接口的卡也能工作在x4或x16的插槽上）。一个支援较多传输通道的插槽可以建立较少的传输通道（例如8个通道的插槽能支援1个通道）。PCIe设备之间的链接将使用两设备中较少通道数的作为标准。一个支援较多通道的设备不能在支援较少通道的插槽上正常工作，例如x4接口的卡不能在x1的插槽上正常工作（插不入），但它能在x4的插槽上只建立1个传输通道（x1）。PCIe卡能在同一数据传输通道内传输包括中断在内的全部控制信息。这也方便与[PCI的兼容](../Page/外设组件互连标准.md "wikilink")。多传输通道上的数据传输采取交叉存取，这意味着连续字节交叉存取在不同的通道上。这一特性被称之为“数据条纹”，需要非常复杂的硬件支援连续数据的同步存取，也对链接的数据吞吐量要求极高。由于数据填充的需求，数据交叉存取不需要缩小数据包。与其它高速数传输协议一样，时钟信息必须嵌入信号中。在物理层上，PCIe采用常见的[8B/10B代码方式来确保连续的](https://zh.wikipedia.org/wiki/8B/10B "wikilink")1和0字符串长度符合标准，这样保证接收端不会误读。编码方案用10位编码比特代替8个未编码比特来传输数据，占用20%的总带宽。到了PCIe
-3.0，采用[128B/130B代码方式](https://zh.wikipedia.org/wiki/128B/130B "wikilink")，仅占用1.538%的总带宽。有些协议（如[SONET](https://zh.wikipedia.org/wiki/SONET "wikilink")）使用另外的编码结构如“不规则”在数据流中嵌入时钟信息。PCIe的特性也定义一种“不规则化”的运算方法，但这种方法与SONET完全不同，它的方法主要用来避免数据传输过程中的数据重复而出现数据散射。第一代PCIe采用2.5[兆位单信号传输率](https://zh.wikipedia.org/wiki/兆位 "wikilink")，PCI-SIG计划在未来版本中增强到5\~10[兆位](https://zh.wikipedia.org/wiki/兆位 "wikilink")。
+于使用电力方面，每组流水线使用两个单向的[低电压差分信号](https://zh.wikipedia.org/wiki/低電壓差分信號 "wikilink")（LVDS）合计达到2.5
+Gbit/s。传送及接收不同数据会使用不同的传输通道，每一通道可运作四项资料。两个PCIe设备之间的连接成为“链接”，这形成1组或更多的传输通道。各个设备最少支援1传输通道（x1）的链接。也可以有2，4，8，16，32个通道的链接。这可以更好的提供双向兼容性（x2模式将用于内部接口而非插槽模式）。PCIe卡能使用在至少与之[传输通道相当的插槽上](https://zh.wikipedia.org/wiki/传输通道 "wikilink")（例如x1接口的卡也能工作在x4或x16的插槽上）。一个支援较多传输通道的插槽可以建立较少的传输通道（例如8个通道的插槽能支援1个通道）。PCIe设备之间的链接将使用两设备中较少通道数的作为标准。一个支援较多通道的设备不能在支援较少通道的插槽上正常工作，例如x4接口的卡不能在x1的插槽上正常工作（插不入），但它能在x4的插槽上只建立1个传输通道（x1）。PCIe卡能在同一数据传输通道内传输包括中断在内的全部控制信息。这也方便与[PCI的兼容](../Page/外设组件互连标准.md "wikilink")。多传输通道上的数据传输采取交叉存取，这意味着连续字节交叉存取在不同的通道上。这一特性被称之为“数据条纹”，需要非常复杂的硬件支援连续数据的同步存取，也对链接的数据吞吐量要求极高。由于数据填充的需求，数据交叉存取不需要缩小数据包。与其它高速数传输协议一样，时钟信息必须嵌入信号中。在物理层上，PCIe采用常见的[8B/10B代码方式来确保连续的](https://zh.wikipedia.org/wiki/8B/10B "wikilink")1和0字符串长度符合标准，这样保证接收端不会误读。编码方案用10位编码比特代替8个未编码比特来传输数据，占用20%的总带宽。到了PCIe
+3.0，采用[128B/130B代码方式](https://zh.wikipedia.org/wiki/128B/130B "wikilink")，仅占用1.538%的总带宽。有些协议（如[SONET](https://zh.wikipedia.org/wiki/SONET "wikilink")）使用另外的编码结构如“不规则”在数据流中嵌入时钟信息。PCIe的特性也定义一种“不规则化”的运算方法，但这种方法与SONET完全不同，它的方法主要用来避免数据传输过程中的数据重复而出现数据散射。第一代PCIe采用2.5GT/s单信号传输率，PCI-SIG计划在未来版本中增强到5\~10GT/s。
 
-### 数据链接层
+### 数据链路层
 
-数据链接层采用按序的[交换层信息包](https://zh.wikipedia.org/wiki/交换层信息包 "wikilink")（Transaction
-Layer
+数据链路层采用按序的交换层信息包（Transaction Layer
 Packets,TLPs），是由交换层生成，按32位[循环冗余校验码](https://zh.wikipedia.org/wiki/循环冗余校验 "wikilink")（CRC，本文中用LCRC）进行数据保护，采用著名的协议（Ack
 and Nak
-signaling）的信息包。TLPs能通过LCRC校验和连续性校验的称为Ack（命令正确应答）；没有通过校验的称为Nak（没有应答）。没有应答的TLPs或者等待逾時的TLPs会被重新传输。这些内容存储在[数据链接层的缓存内](https://zh.wikipedia.org/wiki/数据链接层 "wikilink")。这样可以确保TLPs的传输不受电子噪音干扰。PCIe對於ACK有所規範，在收到TLP封包之後，在一定時間內必須回應ACK，也就是ACK延遲（ACK
+signaling）的信息包。TLPs能通过LCRC校验和连续性校验的称为Ack（命令正确应答）；没有通过校验的称为Nak（没有应答）。没有应答的TLPs或者等待逾時的TLPs会被重新传输。这些内容存储在数据链路层的缓存内。这样可以确保TLPs的传输不受电子噪音干扰。PCIe對於ACK有所規範，在收到TLP封包之後，在一定時間內必須回應ACK，也就是ACK延遲（ACK
 Latency）的等待時間。因應ACK/NAK流程的需要，必須實作出重新播送緩衝器（Replay Buffer）。
 
-TLPs加上Sequence number以及16 位元 CRC 後，被包裹成為数据链接层信息包（Data Link Layer
+TLPs加上Sequence number以及16 位元 CRC 後，被包裹成為数据链路层信息包（Data Link Layer
 Packet,DLLP），除了資料傳遞外，交握信號ACK和NAK信号亦被包裹在信息包中傳送，除此之外也用来传送两个互连设备的交换层之间的流控制信息和实现电源管理功能。
 
-### 交换层
+### 事务层
+
+PCI Express采用分离交换（数据提交和应答在时间上分离），可保证传输通道在目标端设备等待发送回应信息传送其它数据信息。
 
 PCI
-Express采用[分离交换](https://zh.wikipedia.org/wiki/分离交换 "wikilink")（数据提交和应答在时间上分离），可保证传输通道在目标端设备等待发送回应信息传送其它数据信息。它采用[可信性流控制](https://zh.wikipedia.org/wiki/可信性流控制 "wikilink")。这一模式下，一个设备广播它可接收缓存的初始可信信号量。链接另一方的设备会在发送数据时统计每一发送的TLP所占用的可信信号量，直至达到接收端初始可信信号最高值。接收端在处理完毕缓存中的TLP后，它会回送发送端一个比初始值更大的可信信号量。可信信号统计是定制的标准计数器，这一算法的优势，相对于其他算法，如[握手传输协议等](https://zh.wikipedia.org/wiki/握手传输协议 "wikilink")，在于可信信号的回传反应时间不会影响系统性能，因为如果双方设备的缓存足够大的话，是不会出现达到可信信号最高值的情况，这样发送数据不会停顿。第一代PCIe标称可支援每传输通道单向每秒250兆字节的数据传输率。这一数字是根据物理信号率2500兆波特除以编码率（10位／每字节）计算而得。这意味着一个16通道（x16）的PCIe卡理论上可以达到单向250\*16=4000兆字节／
-秒（3.7G字节／每秒）。实际的传输率要根据数据有效载荷率，即依赖于数据的本身特性，这是由更高层（软件）应用程序和中间协议层决定。PCI
-Express与其它高速序列连接系统相似，它依赖于传输的鲁棒性（[CRC校验和](https://zh.wikipedia.org/wiki/CRC校验 "wikilink")[Ack算法](https://zh.wikipedia.org/wiki/Ack算法 "wikilink")）。长时间连续的单向数据传输（如高速存储设备）可以达到\>95%的PCIe通道数据传输利用率。这样的传输受益于增加的传输通道（x2,
+Express采用可信性流控制。这一模式下，一个设备广播它可接收缓存的初始可信信号量。链接另一方的设备会在发送数据时统计每一发送的TLP所占用的可信信号量，直至达到接收端初始可信信号最高值。接收端在处理完毕缓存中的TLP后，它会回送发送端一个比初始值更大的可信信号量。可信信号统计是定制的标准计数器，相比于其他方法，如基于握手的传输协议，这一模式的优势在于可信信号的回传反应时间不会影响系统性能，因为如果双方设备的缓存足够大，是不会出现达到可信信号最高值的情况，这样发送数据不会停顿。
+
+第一代PCIe标称可支援每传输通道单向每秒250 MB的数据传输率。这一数字是根据物理信号率2500
+Mbit/s除以编码率（10位／每字节）计算而得。这意味着一个16通道（x16）的PCIe卡理论上可以达到单向250\*16=4000
+MB/s（3.7 GB/s）。实际的传输率要根据数据有效载荷率，即依赖于数据的本身特性，这是由更高层（软件）应用程序和中间协议层决定。
+
+PCI
+Express与其它高速序列连接系统相似，它依赖于传输的鲁棒性（[CRC校验和](https://zh.wikipedia.org/wiki/CRC校验 "wikilink")[ACK](https://zh.wikipedia.org/wiki/ACK字元 "wikilink")）。长时间连续的单向数据传输（如高速存储设备）可以达到\>95%的PCIe通道数据传输利用率。这样的传输受益于增加的传输通道（x2,
 x4
 等）。但大多数应用程序如[USB或](../Page/USB.md "wikilink")[乙太網路控制器会把传输内容拆成小的数据包](../Page/以太网.md "wikilink")，同时还会强制加上确认信号。这类数据传输由于增加数据包的解析和强制中断，降低传输通道的效率。作为一个在同一个印刷电路板（PCB）设备间的通信协议，它不需要达到其他远距离通信协议要求的高数据传输错误容忍度，而且，这种效率的降低并非只出现在PCIe上。
 
@@ -237,7 +245,7 @@ x1卡\]\]
     PCIe）。
   - PCI Express外置接線\[13\]。
   - [Mobile PCI Express
-    Module](https://zh.wikipedia.org/wiki/Mobile_PCI_Express_Module "wikilink")（MXM）[NVIDIA所發明的圖形模塊規範](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")。
+    Module](https://zh.wikipedia.org/wiki/Mobile_PCI_Express_Module "wikilink")（MXM）[英伟达所發明的圖形模塊規範](../Page/英伟达.md "wikilink")。
   - [Advanced eXpress I/O
     Module](https://zh.wikipedia.org/wiki/Advanced_eXpress_I/O_Module "wikilink")（AXIOM）圖形模塊，由[ATI認可](https://zh.wikipedia.org/wiki/ATI "wikilink")。
   - [Thunderbolt](../Page/Thunderbolt.md "wikilink")
@@ -258,7 +266,7 @@ Express x16插槽\]\]
 
 #### 显卡
 
-大部分新型的AMD或[nvidia显卡都使用PCIe标准](https://zh.wikipedia.org/wiki/nvidia "wikilink")。[nVidia在它新开发的](https://zh.wikipedia.org/wiki/nVidia "wikilink")[SLI上采用PCIe的高速数据传输](../Page/NVIDIA_SLI.md "wikilink")，这使得两块相同[芯片组](../Page/芯片组.md "wikilink")[显卡可同时工作于一台](https://zh.wikipedia.org/wiki/显卡 "wikilink")[电脑之上](https://zh.wikipedia.org/wiki/电脑 "wikilink")。AMD公司也基于PCIe开发一种两个[GPU一同運作的技術](https://zh.wikipedia.org/wiki/GPU "wikilink")，称为[CrossFire](../Page/AMD_CrossFire.md "wikilink")。ExpressCard刚刚出现在[笔记本电脑上](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，但由于大部分[笔记本电脑仅有一个插槽](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，目前无法将现有的Cardbus接口完全淘汰，升级成新的快速卡插槽。[桌上型電腦就没有这种问题](../Page/桌上型電腦.md "wikilink")，因为它的多个插槽可以同时支援PCIe和舊版PCI。
+大部分新型的AMD或[英伟达显卡都使用PCIe标准](../Page/英伟达.md "wikilink")。[英伟达在它新开发的](../Page/英伟达.md "wikilink")[SLI上采用PCIe的高速数据传输](../Page/NVIDIA_SLI.md "wikilink")，这使得两块相同[芯片组](../Page/芯片组.md "wikilink")[显卡可同时工作于一台](https://zh.wikipedia.org/wiki/显卡 "wikilink")[电脑之上](https://zh.wikipedia.org/wiki/电脑 "wikilink")。AMD公司也基于PCIe开发一种两个[GPU一同運作的技術](https://zh.wikipedia.org/wiki/GPU "wikilink")，称为[CrossFire](../Page/AMD_CrossFire.md "wikilink")。ExpressCard刚刚出现在[笔记本电脑上](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，但由于大部分[笔记本电脑仅有一个插槽](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")，目前无法将现有的Cardbus接口完全淘汰，升级成新的快速卡插槽。[桌上型電腦就没有这种问题](../Page/桌上型電腦.md "wikilink")，因为它的多个插槽可以同时支援PCIe和舊版PCI。
 
 #### 硬盘
 

@@ -92,9 +92,6 @@ WebLogic最早由WebLogic Inc.开发，後併入BEA公司，最终BEA公司又�
   - [WebLogic中文爱好者社区\[原dev2dev中国管理团队建立](https://web.archive.org/web/20100903061047/http://www.weblogicfans.net/)\]
   - [WebLogic軟體的Wiki(英文)](http://en.wikipedia.org/wiki/Oracle_WebLogic_Server)
 
-[ja:BEA WebLogic
-Server](https://zh.wikipedia.org/wiki/ja:BEA_WebLogic_Server "wikilink")
-
 [Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink")
 [Category:甲骨文公司軟體](https://zh.wikipedia.org/wiki/Category:甲骨文公司軟體 "wikilink")
 [Category:網頁伺服器](https://zh.wikipedia.org/wiki/Category:網頁伺服器 "wikilink")

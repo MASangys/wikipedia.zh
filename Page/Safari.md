@@ -11,6 +11,8 @@ Safari發行後的[市佔率不斷攀升](https://zh.wikipedia.org/wiki/網頁�
 Applications則指其市佔率為2.63%。其後市佔率再從2009年1月的3.62%爬升至2011年4月的7.1%。\[5\]在行動裝置平台，Net
 Applications表示Safari占有率为62.17%。\[6\]
 
+safari在斯瓦希里語為旅行，字源來自阿拉伯語同意詞 سفرة （safra）。
+
 ## 開發歷程
 
 在1997年以前，[麥金塔電腦預裝的瀏覽器是](https://zh.wikipedia.org/wiki/麥金塔電腦 "wikilink")[Netscape

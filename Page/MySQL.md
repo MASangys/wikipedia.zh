@@ -33,8 +33,8 @@ MySQL在過去由于性能高、成本低、可靠性好，已经成为最流行
   - 既能夠作為一個單獨的應用程式在客戶端伺服器網絡環境中執行，也能夠作為一個程式庫而嵌入到其他的軟件中。
   - 提供多語言-{zh-hans:支持; zh-tw:支援}-，常見的編碼如中文的[GB
     2312](../Page/GB_2312.md "wikilink")、[BIG5](../Page/大五碼.md "wikilink")，日文的[Shift
-    JIS等都可以用作](../Page/Shift_JIS.md "wikilink")-{zh-hans:數據表;
-    zh-tw:資料表}-名和-{zh-hans:數據列; zh-tw:資料列}-名。
+    JIS等都可以用作](../Page/Shift_JIS.md "wikilink")-{zh-hans:数据表;
+    zh-tw:資料表}-名和-{zh-hans:数据列; zh-tw:資料列}-名。
   - 提供[TCP/IP](https://zh.wikipedia.org/wiki/TCP/IP "wikilink")、[ODBC和](../Page/ODBC.md "wikilink")[JDBC等多種數據庫連接途徑](https://zh.wikipedia.org/wiki/JDBC "wikilink")。
   - 提供用於管理、檢查、-{zh-hans:優化; zh-tw:最佳化}-數據庫操作的管理工具。
   - 可以處理擁有上千萬條記錄的大型數據庫。

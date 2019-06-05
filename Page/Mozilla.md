@@ -2,7 +2,7 @@
 
 ## 開發代號
 
-最初，「Mozilla」這個名字被用作[網景領航員的開發代號](../Page/网景导航者.md "wikilink")。網景通訊公司希望網景領航員能夠取代當時世界第一的[Mosaic](../Page/Mosaic.md "wikilink")，而這個名字由「Mosaic
+最初，「Mozilla」被用作[網景領航員的開發代號](../Page/网景导航者.md "wikilink")。網景通訊公司希望網景領航員能夠取代當時世界第一的[Mosaic](../Page/Mosaic.md "wikilink")，而這個名字由「Mosaic
 Killa」（Killa是俚語中Killer的拼法）变化而来\[3\]，并与经典的虚拟怪物[哥吉拉谐趣](https://zh.wikipedia.org/wiki/哥吉拉 "wikilink")：「Godzilla
 eat the
 Mosaic」，即Mosaic+Godzilla+Killa=Mozilla\[4\]\[5\]，Netscape工程師[傑米·加文斯基說他是在一次Netscape員工會議上想到這個名字的](../Page/傑米·加文斯基.md "wikilink")\[6\]\[7\]。

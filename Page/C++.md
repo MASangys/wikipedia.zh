@@ -3,7 +3,7 @@
 [比雅尼·斯特勞斯特魯普博士在](https://zh.wikipedia.org/wiki/比雅尼·斯特勞斯特魯普 "wikilink")[贝尔实验室工作期间在](../Page/贝尔实验室.md "wikilink")20世紀80年代發明並實現了C++。起初，這種語言被稱作“”（“包含‘[類](../Page/类_\(计算机科学\).md "wikilink")’的C語言”），作為[C語言的增強版出現](https://zh.wikipedia.org/wiki/C語言 "wikilink")。随后，C++不斷增加新特性。[虚函数](../Page/虚函数.md "wikilink")（）、[运算符重载](../Page/运算符重载.md "wikilink")（）、[多繼承](../Page/多重继承.md "wikilink")（）、[标准模板库](../Page/标准模板库.md "wikilink")（,
 ）、[异常处理](../Page/异常处理.md "wikilink")（）、[运行时类型信息](https://zh.wikipedia.org/wiki/RTTI "wikilink")（）、[命名空間](../Page/命名空间.md "wikilink")（）等概念逐漸納入標準。1998年，[國際標準組織](https://zh.wikipedia.org/wiki/国际标准化组织 "wikilink")（）頒布了C++程序設計語言的第一個國際標準ISO/IEC
 14882:1998，目前最新标准为ISO/IEC
-14882:2017。根據《C++編-{}-程思想》（）一書，C++與C的代码执行效率往往相差在±5%之間。\[1\]
+14882:2017。根據《C++編-{}-程思想》（）一書，C++與C的代码执行效率往往相差在±5%之間\[1\]。
 
 ## 发展历史
 
@@ -11,14 +11,14 @@
 
 C++語言發展大概可以分為三個階段：第一階段從80年代到1995年。這一階段C++語言基本上是傳統類型上的[面向对象語言](../Page/面向对象程序设计.md "wikilink")，並且憑藉着接近C語言的效率，在工業界使用的開發語言中佔據了相當大份額；第二階段從1995年到2000年，這一階段由於[標準模板庫](https://zh.wikipedia.org/wiki/標準模板庫 "wikilink")（）和後來的[Boost等程式庫的出現](../Page/Boost_C++_Libraries.md "wikilink")，[泛型程序設計在C](https://zh.wikipedia.org/wiki/泛型程式設計 "wikilink")++中佔據了越來越多的比重。當然，同時由於[Java](../Page/Java.md "wikilink")、[C\#等語言的出現和硬體價格的大規模下降](https://zh.wikipedia.org/wiki/C＃ "wikilink")，C++受到了一定的衝擊；第三階段從2000年至今，由於以[Loki](https://zh.wikipedia.org/wiki/Loki "wikilink")、[MPL(Boost)等程式庫為代表的](../Page/Boost_C++_Libraries.md "wikilink")[產生式編程和](https://zh.wikipedia.org/wiki/產生式編程 "wikilink")[模板元編程的出現](https://zh.wikipedia.org/wiki/模板元編程 "wikilink")，C++出現了發展歷史上又一個新的高峰，這些新技術的出現以及和原有技術的融合，使C++已經成為當今主流程序設計語言中最複雜的一員。
 
-[比雅尼·史特勞斯特魯普](https://zh.wikipedia.org/wiki/比雅尼·史特勞斯特魯普 "wikilink")（）工作起於1979年的。這個構思起源於斯特劳斯特鲁普做博士論文時的一些程式撰寫經驗。他發現[Simula具備很利於大型軟體開發的特點](../Page/Simula.md "wikilink")，但的執行速度太慢，無法對現實需求發揮功效；[BCPL雖快得多](../Page/BCPL.md "wikilink")，但它過於低階的特性，使其不適於大型軟體的開發。當斯特劳斯特鲁普開始在[貝爾實驗室工作時](../Page/贝尔实验室.md "wikilink")，他有分析[UNIX](https://zh.wikipedia.org/wiki/Unix "wikilink")[核心關於](https://zh.wikipedia.org/wiki/核心 "wikilink")[分散式計算的問題](https://zh.wikipedia.org/wiki/分散式計算 "wikilink")。回想起他的博士論文經驗，斯特劳斯特鲁普開始為C語言增強一些類似的特點。\[2\]之所以選擇C，是因為它適於各種用途、快速和可移植性。除了[C和](../Page/C.md "wikilink")[Simula之外](../Page/Simula.md "wikilink")，同時也從其它語言中取得靈感，如[ALGOL
+[比雅尼·史特勞斯特魯普](https://zh.wikipedia.org/wiki/比雅尼·史特勞斯特魯普 "wikilink")（）工作起於1979年的。這個構思起源於斯特劳斯特鲁普做博士論文時的一些程式撰寫經驗。他發現[Simula具備很利於大型軟體開發的特點](../Page/Simula.md "wikilink")，但的執行速度太慢，無法對現實需求發揮功效；[BCPL雖快得多](../Page/BCPL.md "wikilink")，但它過於低階的特性，使其不適於大型軟體的開發。當斯特劳斯特鲁普開始在[貝爾實驗室工作時](../Page/贝尔实验室.md "wikilink")，他有分析[UNIX](https://zh.wikipedia.org/wiki/Unix "wikilink")[核心關於](https://zh.wikipedia.org/wiki/核心 "wikilink")[分散式計算的問題](https://zh.wikipedia.org/wiki/分散式計算 "wikilink")。回想起他的博士論文經驗，斯特劳斯特鲁普開始為C語言增強一些類似的特點\[2\]。之所以選擇C，是因為它適於各種用途、快速和可移植性。除了[C和](../Page/C.md "wikilink")[Simula之外](../Page/Simula.md "wikilink")，同時也從其它語言中取得靈感，如[ALGOL
 68](../Page/ALGOL_68.md "wikilink")、[Ada](../Page/Ada.md "wikilink")、[CLU以及](../Page/CLU.md "wikilink")[ML](https://zh.wikipedia.org/wiki/ML "wikilink")。
 
-剛開始時，[類別](../Page/类_\(计算机科学\).md "wikilink")、[衍生類別](https://zh.wikipedia.org/wiki/继承_\(计算机科学\) "wikilink")、儲存類型檢查、[內聯和](https://zh.wikipedia.org/wiki/內聯 "wikilink")[缺省参数特性](../Page/缺省参数.md "wikilink")，都是透過[Cfront引入C語言之中](https://zh.wikipedia.org/wiki/Cfront "wikilink")。\[3\]
+剛開始時，[類別](../Page/类_\(计算机科学\).md "wikilink")、[衍生類別](https://zh.wikipedia.org/wiki/继承_\(计算机科学\) "wikilink")、儲存類型檢查、[內聯和](https://zh.wikipedia.org/wiki/內聯 "wikilink")[缺省参数特性](../Page/缺省参数.md "wikilink")，都是透過[Cfront引入C語言之中](https://zh.wikipedia.org/wiki/Cfront "wikilink")\[3\]。
 
 1983年，改命名為C++（`++`是C语言中的[增值操作符](../Page/增值和减值操作符.md "wikilink")）。加入了新的特性，其中包括[虛擬函式](https://zh.wikipedia.org/wiki/虛擬函式 "wikilink")、函式名和運算子多載、參考、常數、使用者可控制的自由空間儲存區控制、改良的型別檢查，以及新的雙斜線（`//`）單行註解風格。
 
-1985年，發佈第一版《C++程式設計語言》，提供一個重點的語言參考，至此還不是官方標準。\[4\]1985年10月出現了第一個商業化發佈。
+1985年，發佈第一版《C++程式設計語言》，提供一個重點的語言參考，至此還不是官方標準\[4\]。1985年10月出現了第一個商業化發佈。
 
 1989年，發佈了。引入了多重繼承、抽象類別、靜態成員函式、[常數成員函式](https://zh.wikipedia.org/wiki/常數成員函式 "wikilink")，以及成員保護。1990年，出版了*The
 Annotated C++ Reference
@@ -362,9 +362,9 @@ std::vector<std::vector<std::string>>table2;
 1.  STL以非常丑陋的方式封装了各种数据结构和算法，写出来的代码难以理解、不美观。
 2.  C++编译器复杂和不可靠，不适合构建人命关天类-{}-型的程序。
 3.  Ian
-    Joyner认为[面向对象技术徒增学习成本](../Page/面向对象程序设计.md "wikilink")，不如面向过程的C语言简单容易使用，尤其是在系统软件的构建上。\[23\]
+    Joyner认为[面向对象技术徒增学习成本](../Page/面向对象程序设计.md "wikilink")，不如面向过程的C语言简单容易使用，尤其是在系统软件的构建上\[23\]。
 
-概括說來[UNIX程式設計師批評C](../Page/UNIX.md "wikilink")++主要是由於社群與C++社群的文化差異。\[24\]
+概括說來[UNIX程式設計師批評C](../Page/UNIX.md "wikilink")++主要是由於社群與C++社群的文化差異\[24\]。
 
 一个值得注意的事情是[Linux之父](../Page/Linux.md "wikilink")[Linus
 Torvalds曾经炮轰C](https://zh.wikipedia.org/wiki/Linus_Torvalds "wikilink")++；[图灵奖得主](../Page/图灵奖.md "wikilink")[尼克劳斯·维尔特也曾经批评C](../Page/尼克劳斯·维尔特.md "wikilink")++语言太复杂、语法语义模糊，是“拙劣工程学”的成果。
@@ -397,11 +397,9 @@ Torvalds曾经炮轰C](https://zh.wikipedia.org/wiki/Linus_Torvalds "wikilink")+
   -
 ## 外部連結
 
-  - [JTC1/SC22/WG21 - The C++ Standards
-    Committee](http://www.open-std.org/jtc1/sc22/wg21/)
-  - [the GNU Compiler Collection](http://gcc.gnu.org/)
-  - [C和C
-    ++资源的最终列表](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
+  - [JTC1/SC22/WG21](http://www.open-std.org/jtc1/sc22/wg21/) - The C++
+    Standards Committee
+  - [C和C++资源的最终列表](https://www.toptal.com/c/the-ultimate-list-of-resources-to-learn-c-and-c-plus-plus)
 
 {{-}}
 

@@ -5,6 +5,8 @@ Games的缩写）的名称建立。一年后，SMSG改名为3DO，并推出了�
 
 2003年5月，3DO公司正式[破产](https://zh.wikipedia.org/wiki/破产 "wikilink")。魔法门及英雄无敌系列游戏的版权被卖给了[育碧公司](https://zh.wikipedia.org/wiki/育碧公司 "wikilink")，其他一些版权卖给了[微软](../Page/微软.md "wikilink")、[Namco等公司](https://zh.wikipedia.org/wiki/Namco "wikilink")。
 
+## 參考資料
+
 [de:3DO\#The 3DO
 Company](https://zh.wikipedia.org/wiki/de:3DO#The_3DO_Company "wikilink")
 

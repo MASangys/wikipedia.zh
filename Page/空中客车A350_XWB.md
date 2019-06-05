@@ -1,5 +1,5 @@
 **空中客车A350 XWB**（Airbus A350
-XWB），是歐洲飛機製造商[空中客车所發展的長程](../Page/空中客车.md "wikilink")[雙引擎](https://zh.wikipedia.org/wiki/雙發噴射機 "wikilink")[廣體客機系列](https://zh.wikipedia.org/wiki/宽体飞机 "wikilink")。A350是最先在機身與機翼同時使用[碳纖維強化聚合物的空中巴士航空器](../Page/碳纖維強化聚合物.md "wikilink")。\[1\]在典型的三等級座艙配置裡，它可搭載280至366位旅客。\[2\]A350定位為接替[A340](../Page/空中客车A340.md "wikilink")，主要競爭對手為[波音777及](https://zh.wikipedia.org/wiki/波音777 "wikilink")[787](../Page/波音787.md "wikilink")。
+XWB），是歐洲飛機製造商[空中客车所發展的長程](../Page/空中客车.md "wikilink")[雙引擎](https://zh.wikipedia.org/wiki/雙發噴射機 "wikilink")[廣體客機系列](https://zh.wikipedia.org/wiki/宽体飞机 "wikilink")。A350是最先在機身與機翼同時使用[碳纖維強化聚合物的空中巴士航空器](../Page/碳纖維強化聚合物.md "wikilink")。\[1\]在典型的三等級座艙配置裡，它可搭載280至366位旅客。\[2\]A350定位為取代[A340與部分機齡較大的](../Page/空中客车A340.md "wikilink")[A330](https://zh.wikipedia.org/wiki/空中巴士A330 "wikilink")，主要競爭對手為[波音777及](https://zh.wikipedia.org/wiki/波音777 "wikilink")[787](../Page/波音787.md "wikilink")。
 
 A350最初構想於2004年，以[A330機身搭配新空氣動力學外形和引擎](https://zh.wikipedia.org/wiki/空中巴士A330 "wikilink")。2006年，空中巴士重新設計了這架飛機，以回應幾個主要潛在客戶的負面反饋，生產出“A350
 XWB”（超廣體，eXtra Wide
@@ -92,7 +92,7 @@ XWB以及20架選擇購買權。其首席執行官（CEO）[周俊成於聲明�
 
 2013年6月20日，[聯合航空和空中巴士在巴黎航展上簽署協議](../Page/聯合航空.md "wikilink")，訂購35架A350-1000飛機。根據協議，這35架飛機包括：聯合航空原來訂購的25架A350-900飛機轉換為更大的A350-1000飛機，以及追加訂購的10架A350-1000飛機。
 
-2013年10月，日本航空在宣布訂購33架A350-900、13架A350-1000和25架A350的選購權。
+2013年10月，[日本航空在宣布訂購](../Page/日本航空.md "wikilink")33架A350-900、13架A350-1000和25架A350的選購權。
 
 2014年6月12日，阿联酋航空取消空中巴士70架A350長途客機的訂單，其中包括50架A350-900和20架更大的A350-1000的訂單，總值達216億美元，但在2019年2月14日再次確認訂購40架A350-900客機
 
@@ -142,9 +142,9 @@ XWB以及20架選擇購買權。其首席執行官（CEO）[周俊成於聲明�
 
 ## 型號
 
-A350WXB的細部型號於2006年啟動，計畫於2013年投入運行，但在2011年[巴黎航展上](https://zh.wikipedia.org/wiki/巴黎航展 "wikilink")，[空中巴士將A](https://zh.wikipedia.org/wiki/空中巴士 "wikilink")350-1000的投入日期延到2017年中期。2012年7月，再將A350-900的投入日期延到2014下半年，-800型的投入日期延到2016年年中。
+A350WXB的細部型號於2006年啟動，計畫於2013年投入運行，但在2011年[巴黎航展上](https://zh.wikipedia.org/wiki/巴黎航展 "wikilink")，[空中巴士將A](https://zh.wikipedia.org/wiki/空中巴士 "wikilink")350-1000的投入日期延到2017年中期。2012年7月，再將A350-900的投入日期延到2014下半年。
 
-  - A350-800（未生產）：設計規格為長，三級艙等配置276個座位，航程
+  - A350-800（沒有生產）：設計規格為長，三級艙等配置276個座位，航程
     ，最大起飛重量（MTOW）。\[24\]主要竞争对手为[波音787系列](../Page/波音787.md "wikilink")，也可用于替代[A330系列](https://zh.wikipedia.org/wiki/A330 "wikilink")，原預計於2014年投入服務。由[勞斯萊斯新一代遄达](https://zh.wikipedia.org/wiki/勞斯萊斯股份有限公司 "wikilink")（Next
     Generation Trent）[Trent
     XWB-75引擎推動](https://zh.wikipedia.org/wiki/罗尔斯·罗伊斯遄达XWB "wikilink")。2008年中期的訂單為182架，但自2010年來，隨著更大的900型推出，許多客戶紛紛將訂單轉為900型，曾經只有[韓亞航空為](../Page/韓亞航空.md "wikilink")-800型的唯一客戶（12架），但現在已全部取消，故目前A350-800處於與A330-800neo一樣的無限期停滯狀態。
@@ -192,7 +192,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 |        |      |           |           |      |      |      |      |      |      |      |      |      |      |      |         |
 | ------ | ---- | --------- | --------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ------- |
 |        | 2006 | 2007      | 2008      | 2009 | 2010 | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 總數      |
-| **訂單** | 2    | 292\[29\] | 163\[30\] | 51   | 78   | \-31 | 27   | 230  | \-32 | \-3  | 41   | 30   | 40   | 0    | **894** |
+| **訂單** | 2    | 292\[29\] | 163\[30\] | 51   | 78   | \-31 | 27   | 230  | \-32 | \-3  | 41   | 30   | 40   | 18   | 913     |
 | **交付** | –    | –         | –         | –    | –    | –    | –    | –    | 1    | 14   | 49   | 78   | 93   | 5    | **240** |
 |        |      |           |           |      |      |      |      |      |      |      |      |      |      |      |         |
 
@@ -235,11 +235,11 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td><p><a href="https://zh.wikipedia.org/wiki/愛爾蘭航空" title="wikilink">愛爾蘭航空</a></p></td>
 <td><p>2019</p></td>
 <td></td>
-<td><p>9</p></td>
+<td><p><strong>9</strong></p></td>
 <td></td>
 <td><p><strong>9</strong></p></td>
 <td></td>
-<td></td>
+<td><p>將於2019-2021年每年以3部交付</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -250,7 +250,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td></td>
 <td><p><strong>14</strong></p></td>
 <td></td>
-<td></td>
+<td><p>2019年至2023年交付</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -268,7 +268,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td><p><a href="../Page/泛非航空.md" title="wikilink">泛非航空</a></p></td>
 <td></td>
 <td></td>
-<td><p>10</p></td>
+<td><p><strong>10</strong></p></td>
 <td></td>
 <td><p><strong>10</strong></p></td>
 <td></td>
@@ -277,13 +277,13 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/加勒比海航空" title="wikilink">加勒比海航空</a></p></td>
-<td><p>2018</p></td>
+<td><p>2017</p></td>
 <td></td>
 <td><p><strong>4</strong></p></td>
 <td><p><strong>3</strong></p></td>
 <td><p><strong>7</strong></p></td>
 <td><p><strong>2</strong></p></td>
-<td></td>
+<td><p>A350-1000將於2020年交付</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -294,7 +294,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td></td>
 <td><p><strong>10</strong></p></td>
 <td><p><strong>8</strong></p></td>
-<td><p>其中B-1083采用“多彩世园号”彩绘。</p></td>
+<td><p>其中B-1083采用“多彩世园号”彩绘，將於2019年交付完畢</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -331,7 +331,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/亞洲航空长途" title="wikilink">亞洲航空长途</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亞洲航空X" title="wikilink">亞洲航空X</a></p></td>
 <td><p>2020</p></td>
 <td></td>
 <td><p><strong>10</strong></p></td>
@@ -422,10 +422,10 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td><p><a href="../Page/國泰航空.md" title="wikilink">國泰航空</a></p></td>
 <td><p>2016</p></td>
 <td></td>
-<td><p>'''26 '''</p></td>
+<td><p><strong>28</strong></p></td>
 <td><p><strong>20</strong></p></td>
-<td><p><strong>46</strong></p></td>
-<td><p>'''31 '''</p></td>
+<td><p><strong>48</strong></p></td>
+<td><p><strong>33</strong></p></td>
 <td><p>原始訂購30架A350-900[45][46]， 2012年1月20日追加六架[47]，2012年8月8日將16架轉為A350-1000且另外加定10架[48][49]。2017年9月13日將6架A350-1000轉為A350-900</p></td>
 </tr>
 <tr class="even">
@@ -437,7 +437,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td></td>
 <td><p><strong>14</strong></p></td>
 <td><p><strong>14</strong></p></td>
-<td><p>2018年10月交付完畢，並有6架選擇權</p></td>
+<td><p>2018年10月交付完畢</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -447,7 +447,7 @@ XWB將配備更大的[窗戶](../Page/窗.md "wikilink")，機艙內氣壓會被
 <td><p><strong>20</strong></p></td>
 <td></td>
 <td><p><strong>20</strong></p></td>
-<td><p><strong>4</strong></p></td>
+<td><p><strong>5</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -866,16 +866,12 @@ A350與[A330比較](https://zh.wikipedia.org/wiki/空中巴士A330 "wikilink")�
 \-{zh:[罗尔斯·罗伊斯](https://zh.wikipedia.org/wiki/罗尔斯·罗伊斯 "wikilink");zh-cn:[罗尔斯·罗伊斯](https://zh.wikipedia.org/wiki/罗尔斯·罗伊斯 "wikilink");zh-tw:[勞斯萊斯](https://zh.wikipedia.org/wiki/勞斯萊斯 "wikilink")}-[特倫特XWB是當前空中巴士A](https://zh.wikipedia.org/wiki/Trent_XWB "wikilink")350
 XWB唯一的引擎选擇。特倫特XWB的静态推力在330－410kN之间，将采用該公司的3轴技术，2013年6月14日，首次搭载遄达XWB发动机的A350进行了飞行测试\[82\]。
 
-更新舊款飛機來應付新推出的飛機早已有先例，如[空中巴士A320的進化版](https://zh.wikipedia.org/wiki/空中巴士A320 "wikilink")[空中巴士A320neo](https://zh.wikipedia.org/wiki/空中巴士A320neo "wikilink")；而波音為了與之抗衡，於是更新旗下的[波音737系列](../Page/波音737.md "wikilink")，導致第四代737——[波音737MAX出現](https://zh.wikipedia.org/wiki/波音737MAX "wikilink")。而A350
-XWB不同於上述，而是為了應對另一全新機種[波音787而重新開發](../Page/波音787.md "wikilink")，並非改良現有飛機。
-
 ## 性能規格
 
 <table>
 <thead>
 <tr class="header">
 <th><p>機型</p></th>
-<th><p>A350-800</p></th>
 <th><p>A350-900</p></th>
 <th><p>A350-1000</p></th>
 </tr>
@@ -885,13 +881,9 @@ XWB不同於上述，而是為了應對另一全新機種[波音787而重新開�
 <td><p>機師數</p></td>
 <td><p>2</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>座位數</p></td>
-<td><p>270 （3級）<br />
-312 （2級）<br />
-440 （最大）</p></td>
 <td><p>314 （3級）<br />
 366 （2級）<br />
 440 （最大）</p></td>
@@ -901,7 +893,6 @@ XWB不同於上述，而是為了應對另一全新機種[波音787而重新開�
 </tr>
 <tr class="odd">
 <td><p>長度</p></td>
-<td><p>60.5 m （198 ft 6 in）</p></td>
 <td><p>66.8 m （219 ft 3 in）</p></td>
 <td><p>73.8 m （242 ft 3 in）</p></td>
 </tr>
@@ -909,47 +900,39 @@ XWB不同於上述，而是為了應對另一全新機種[波音787而重新開�
 <td><p>翼展</p></td>
 <td><p>64.75 m （212.4 ft 10 in）</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>機翼面積</p></td>
 <td><p>443.0 m² （4,740 ft²）</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>後掠翼</p></td>
 <td><p>35° 4</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>高度</p></td>
 <td><p>16.9 m （55 ft 5 in）</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>機身直徑</p></td>
 <td><p>5.94 m （19 ft 5 in） [83]</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>機艙寬度</p></td>
 <td><p>5.59 m （18 ft 5） in [84]</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>貨運載酬</p></td>
-<td><p>26 LD3</p></td>
 <td><p>36 LD3</p></td>
 <td><p>44 LD3</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/最大起飛重量" title="wikilink">最大起飛重量</a></p></td>
-<td><p>248 t（<a href="https://zh.wikipedia.org/wiki/英噸" title="wikilink">噸</a>） （540,133 lb）</p></td>
 <td><p>268 t （584,225 lb）</p></td>
 <td><p>308 t （650,364 lb）</p></td>
 </tr>
@@ -957,17 +940,14 @@ XWB不同於上述，而是為了應對另一全新機種[波音787而重新開�
 <td><p>巡航速率</p></td>
 <td><p>0.85 mach（<a href="../Page/马赫.md" title="wikilink">马赫</a>）（903 km/h，561 mph（<a href="../Page/英里.md" title="wikilink">英里</a>），487 knots（<a href="https://zh.wikipedia.org/wiki/節" title="wikilink">節</a>），於40,000英尺高度）</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>最大巡航速度</p></td>
 <td><p>0.89 mach （945 km/h, 587 mph, 510 knots, 於40,000英尺高度）</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>滿載航距</p></td>
-<td><p>14,816-15,400 km （8,000-8,315 nmi）</p></td>
 <td><p>15,000 km （8,099nmi）<br />
  (-900ULR)[85]</p></td>
 <td><p>14,800 km （7,991 nmi)-15,600 km</p></td>
@@ -976,23 +956,19 @@ XWB不同於上述，而是為了應對另一全新機種[波音787而重新開�
 <td><p>最大燃油容量</p></td>
 <td><p>150,000 L （39,626 US gal）</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>實用昇限</p></td>
 <td><p>43,000 ft （13,100 m）</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>發動機 （╳2）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/罗尔斯·罗伊斯遄达XWB" title="wikilink">勞斯萊斯（Rolls-Royce Trent） Trent XWB</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>發動機最大推力</p></td>
-<td><p>337 kN （74,861 lbf）</p></td>
 <td><p>374 kN （87,001 lbf）</p></td>
 <td><p>432 kN （94,869 lbf）</p></td>
 </tr>
@@ -1009,7 +985,8 @@ XWB不同於上述，而是為了應對另一全新機種[波音787而重新開�
 
 ### 空中客车产品线
 
-  - [A300](../Page/空中客车A300.md "wikilink") -
+  - [A220](../Page/空中客车A220.md "wikilink")
+    -[A300](../Page/空中客车A300.md "wikilink") -
     [A310](../Page/空中客车A310.md "wikilink") -
     [A318](https://zh.wikipedia.org/wiki/空中客车A320#A318 "wikilink") -
     [A319](https://zh.wikipedia.org/wiki/空中客车A320#A319 "wikilink") -

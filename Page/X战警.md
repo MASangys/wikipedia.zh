@@ -1,4 +1,4 @@
-**X戰警**（）是[漫威漫畫的](../Page/漫威漫畫.md "wikilink")[超級英雄團體](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，由[斯坦·李和](https://zh.wikipedia.org/wiki/斯坦·李 "wikilink")[杰克·科比創造](../Page/杰克·科比.md "wikilink")，初次登場於1963年9月漫畫X-Men
+**X戰警**（）是[漫威漫畫的](../Page/漫威漫畫.md "wikilink")[超級英雄團體](https://zh.wikipedia.org/wiki/超級英雄 "wikilink")，由[斯坦·李和](https://zh.wikipedia.org/wiki/斯坦·李 "wikilink")[杰克·科比創作](../Page/杰克·科比.md "wikilink")，初次登場於1963年9月漫畫X-Men
 \#1中。與其相關的書在當今美國主流漫畫界十分賣座，並於2000年推出同名電影，全球票房收入達3億美元，其系列電影迄今已拍攝10部。
 
 ## 出場人物
@@ -91,7 +91,7 @@
 
 <!-- end list -->
 
-  - [彌賽亞](https://zh.wikipedia.org/wiki/霍普·桑瑪斯 "wikilink")（Messiah）
+  - （Messiah）
     原名:霍普·桑瑪斯（Hope Summers）
     異能：能力複製、鳳凰之力、崑崙武術
     定位：M日後首個出生的變種女孩，复苏变种人异能，由"機堡"带到现代。

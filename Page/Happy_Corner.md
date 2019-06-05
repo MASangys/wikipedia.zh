@@ -14,8 +14,8 @@
 
 ## 手段
 
-  - 眾人把被害者抬起，抓緊手腳，強制打開雙腿，並移至柱狀物撞擊或磨擦其下體。在香港，這些行為通常稱為「corn人」、「被人corn」；在台灣則稱為「阿」（阿魯巴）與「被阿」；受[臺灣流行文化影響](https://zh.wikipedia.org/wiki/臺灣流行文化 "wikilink")，“阿魯巴”一詞亦在[中國大陸風靡](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，並逐漸成為東南沿海部份地區（如[福建](https://zh.wikipedia.org/wiki/福建 "wikilink")、[廣東](https://zh.wikipedia.org/wiki/廣東 "wikilink")、[上海等地](https://zh.wikipedia.org/wiki/上海 "wikilink")）對此類活動的稱呼之一。
-  - 亦有將二人同時抬舉，彼此下體互相撞擊。在香港稱為「X-con」；在臺灣則稱為「對阿」、「互阿」，又稱作「雙龍會」或「雙十字交乘」。
+  - 眾人把被害者抬起，抓緊手腳，強制打開雙腿，並移至柱狀物撞擊或磨擦其下體。在香港，這些行為通常稱為「corn人」、「被人corn」；在台灣則稱為「阿」（阿魯巴）與「被阿」；受[臺灣流行文化影響](https://zh.wikipedia.org/wiki/臺灣流行文化 "wikilink")，“阿魯巴”一詞亦在[中國大陸風靡](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")，並逐漸成為東南沿海部份地區（如[福建](https://zh.wikipedia.org/wiki/福建 "wikilink")、[廣東](https://zh.wikipedia.org/wiki/廣東 "wikilink")、[上海等地](https://zh.wikipedia.org/wiki/上海 "wikilink")）對此類活動的稱呼之一。补：在大陆，实际上则有「开人」「锯人」「a人」等称呼，甚至还有「抗锯从严」的说法，在大陆，其实这一系列行为，一般不会造成伤害，常常以被阿者的大腿根部“撞”向门框/柱子。
+  - 亦有將二人同時抬舉，彼此下體互相撞擊。在香港稱為「X-con」；在臺灣則稱為「對阿」、「互阿」，又稱作「雙龍會」或「雙十字交乘」（补：大陆则称为「十字交叉」）。
   - 後來又發展出將人抬起在灌木叢上磨擦拖行的變種。在香港稱為「[剪草](https://zh.wikipedia.org/wiki/剪草 "wikilink")」，在臺灣則稱為「草上飛」\[2\]。
   - 將人抬至升降機門，再按關門鍵，使下體與升降機門互相撞擊，稱為「Lift con」（香港：𨋢con）。
   - 將人抬上大學講堂的座椅上，使下體與椅背磨擦拖行，香港稱為「火車con」。

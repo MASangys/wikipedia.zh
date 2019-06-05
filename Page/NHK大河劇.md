@@ -629,7 +629,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <a href="../Page/原田知世.md" title="wikilink">原田知世</a><br />
 <a href="../Page/小林旭.md" title="wikilink">小林旭</a><br />
 <a href="../Page/江守徹.md" title="wikilink">江守徹</a><br />
-</p></td>
+<a href="https://zh.wikipedia.org/wiki/萩原健一" title="wikilink">萩原健一</a></p></td>
 <td><p>＊「浪漫大河劇」之第一部。<br />
 ＊講述<a href="https://zh.wikipedia.org/wiki/江戶時代" title="wikilink">江戶時代的</a><a href="../Page/第二尚氏.md" title="wikilink">琉球王朝</a>。</p></td>
 </tr>
@@ -848,7 +848,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 2004年12月12日</p></td>
 <td><p><a href="../Page/三谷幸喜.md" title="wikilink">三谷幸喜</a></p></td>
 <td><p>三谷幸喜</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/服部隆之" title="wikilink">服部隆之</a></p></td>
 <td><p><a href="../Page/香取慎吾.md" title="wikilink">香取慎吾</a><br />
 <a href="../Page/山本耕史.md" title="wikilink">山本耕史</a><br />
 <a href="../Page/藤原龍也.md" title="wikilink">藤原龍也</a><br />
@@ -1112,7 +1112,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 2016年12月18日</p></td>
 <td><p><a href="../Page/三谷幸喜.md" title="wikilink">三谷幸喜</a></p></td>
 <td><p>三谷幸喜</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/服部隆之" title="wikilink">服部隆之</a></p></td>
 <td><p><a href="../Page/堺雅人.md" title="wikilink">堺雅人</a><br />
 <a href="../Page/大泉洋.md" title="wikilink">大泉洋</a><br />
 <a href="https://zh.wikipedia.org/wiki/長澤雅美" title="wikilink">長澤雅美</a><br />
@@ -1209,6 +1209,7 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <th><p><strong>編劇</strong></p></th>
 <th><p><strong>音樂</strong></p></th>
 <th><p><strong>主角演員</strong></p></th>
+<th><p><strong>備註</strong></p></th>
 </tr>
 </thead>
 <tbody>
@@ -1224,6 +1225,8 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <br />
 <br />
 </p></td>
+<td><p>＊主角為戰國時期一代劍聖<a href="../Page/宮本武藏.md" title="wikilink">宮本武藏</a><br />
+＊此劇為紀念主角誕辰400週年</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
@@ -1236,6 +1239,8 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <td><p><br />
 <br />
 <a href="../Page/丹波哲郎.md" title="wikilink">丹波哲郎</a></p></td>
+<td><p>＊主角為戰國時期真田家父子三人<a href="../Page/真田昌幸.md" title="wikilink">真田昌幸</a>、<a href="../Page/真田信之.md" title="wikilink">真田信之和</a><a href="https://zh.wikipedia.org/wiki/真田幸村" title="wikilink">真田幸村</a><br />
+＊播出30年後於2016年新再製<a href="../Page/真田丸_(大河劇).md" title="wikilink">真田丸_(大河劇)</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
@@ -1252,6 +1257,8 @@ OF ZIPANGU](../Page/信長KING_OF_ZIPANGU.md "wikilink")》
 <br />
 <br />
 </p></td>
+<td><p>＊主角為平安時期追隨<a href="../Page/源義經.md" title="wikilink">源義經的僧兵</a><a href="../Page/武藏坊弁慶.md" title="wikilink">武藏坊弁慶</a><br />
+＊此劇正值導致平家滅亡的<a href="../Page/壇之浦之戰.md" title="wikilink">壇之浦之戰</a>、以及弁慶逝世800週年</p></td>
 </tr>
 </tbody>
 </table>

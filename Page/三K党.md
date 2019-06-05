@@ -22,7 +22,7 @@ Klux"相同）及[英語的](https://zh.wikipedia.org/wiki/英語 "wikilink")「
 三K黨当初的宗旨在于进行讽刺节目表演和某种纪念仪式。从1866年到1867年，该组织成员开始破坏黑人的祈祷会，并且在夜中闯入黑人住宅抢走枪支。这些行动部分带有之前田纳西州的“黄色夹克衫”、“红帽”等自卫警察团的影子。1867年，三K党在[纳什维尔召开大会](../Page/纳什维尔.md "wikilink")，并发表了由前南方邦联军队[乔治·高登准将起草的章程](https://zh.wikipedia.org/wiki/乔治·高登 "wikilink")，开始发展成为一个全国性组织。数周后，曾做过[奴隶贸易的前邦联军队将军](https://zh.wikipedia.org/wiki/奴隶贸易 "wikilink")（Nathan
 Bedford Forrest）被选举为首任全国领袖。
 
-三K党的主要目标是与[宪政重建作斗争](https://zh.wikipedia.org/wiki/美国重建时期 "wikilink")。在内战结束后，南方诸州在社会和政治上经历着剧烈的变革。当地的白人将之视为对其种族优势地位的威胁，因此企图抵制这种变革。由于国会通过了实现种族平等的法令，因此南方白人的代表[民主党无法通过立法来维持白人一直以来的地位](../Page/民主党.md "wikilink")。除此之外，三K党也希望能够控制被解放黑奴的政治和社会地位。其中主要包括限制[黑人的](../Page/黑人.md "wikilink")[受教育权](../Page/受教育权.md "wikilink")，发展经济的权利和[选举权等](../Page/选举权.md "wikilink")。于是，暴力成为了三K党实现目标的最有效手段。但是，三K党实施暴力的对象并不局限于非洲裔美国人。南方的[共和党人也经常成为无辜的受害者](https://zh.wikipedia.org/wiki/共和党 "wikilink")。由此，三K党成为了民主党的暴力工具。另外，随着南方邦联政府的统治的结束，当地的[高加索系白人恢复了他们的社会地位](../Page/高加索.md "wikilink")，并开始实施种族隔离政策。
+三K党的主要目标是与[宪政重建作斗争](https://zh.wikipedia.org/wiki/美国重建时期 "wikilink")。在内战结束后，南方诸州在社会和政治上经历着剧烈的变革。当地的白人将之视为对其种族优势地位的威胁，因此企图抵制这种变革。由于国会通过了实现种族平等的法令，因此南方白人的代表[民主党无法通过立法来维持白人一直以来的地位](../Page/民主党_\(美国\).md "wikilink")。除此之外，三K党也希望能够控制被解放黑奴的政治和社会地位。其中主要包括限制[黑人的](../Page/黑人.md "wikilink")[受教育权](../Page/受教育权.md "wikilink")，发展经济的权利和[选举权等](../Page/选举权.md "wikilink")。于是，暴力成为了三K党实现目标的最有效手段。但是，三K党实施暴力的对象并不局限于非洲裔美国人。南方的[共和党人也经常成为无辜的受害者](../Page/共和黨_\(美國\).md "wikilink")。由此，三K党成为了民主党的暴力工具。另外，随着南方邦联政府的统治的结束，当地的[高加索系白人恢复了他们的社会地位](../Page/高加索.md "wikilink")，并开始实施种族隔离政策。
 
 在一次报纸的采访中，弗雷斯特宣称三K党在全国拥有55万男性成员，另外尽管他本人不属于该组织，但是他非常支持这个组织，而且能够在5天内召集4万三K党员。他还宣称，三K党最大的敌人并非[黑人而是](../Page/黑人.md "wikilink")“带着旅行包的人”（Carpetbaggers，暗指内战后迁移至南方的北方人）和“无赖”（Scalawags，暗指南方的共和党白人）。事实上，这番话并非全是谎言。三K党也将上述白人群体作为目标，尤其是战后随着“[自由人委员会](https://zh.wikipedia.org/wiki/自由人委员会 "wikilink")”来到南方的教师。这些教师中很多人在战前就是积极的废奴论者，并且在[地下铁道运动中表现活跃](https://zh.wikipedia.org/wiki/地下铁道运动 "wikilink")。许多南方人相信，当地的黑人正是受了这些北方人的教唆鼓动才投票支持共和党的。
 
@@ -111,9 +111,9 @@ Klansman I am（我是三K党）。
 
 [美国公民自由联盟](https://zh.wikipedia.org/wiki/美国公民自由联盟 "wikilink")（ACLU）也为三K党的各种组织提供法律援助，以保证他们受[美国宪法第一修正案所规定的](../Page/美国宪法第一修正案.md "wikilink")[言论自由的保护](https://zh.wikipedia.org/wiki/言论自由 "wikilink")。
 
-2016年3月，[三K黨前領袖戴维](https://zh.wikipedia.org/wiki/三K黨 "wikilink")·杜克頻頻在各種場合表示對特朗普的支持，但是[特朗普卻沒有即時和杜克劃清界線](https://zh.wikipedia.org/wiki/特朗普 "wikilink")。這種模稜的態度，讓這位候選人與三K黨的關係，顯得更加地撲朔迷離。戴维·杜克在2016年8月稱要角逐[美國參議院](https://zh.wikipedia.org/wiki/美國參議院 "wikilink")，但共和黨表達不歡迎態度，與這名種族主義者劃清界限。
+2016年3月，[三K黨前領袖戴维](https://zh.wikipedia.org/wiki/三K黨 "wikilink")·杜克頻頻在各種場合表示對特朗普的支持，但是[特朗普卻沒有即時和杜克劃清界線](https://zh.wikipedia.org/wiki/唐納德·川普 "wikilink")。這種模稜的態度，讓這位候選人與三K黨的關係，顯得更加地撲朔迷離。戴维·杜克在2016年8月稱要角逐[美國參議院](https://zh.wikipedia.org/wiki/美國參議院 "wikilink")，但共和黨表達不歡迎態度，與這名種族主義者劃清界限。
 
-2016年11月，[特朗普勝選後](https://zh.wikipedia.org/wiki/特朗普 "wikilink")，該團體也宣布要舉辦勝利遊行。
+2016年11月，[特朗普勝選後](https://zh.wikipedia.org/wiki/唐納德·川普 "wikilink")，該團體也宣布要舉辦勝利遊行。
 
 ## 艺术中的三K党
 
@@ -140,12 +140,6 @@ Springer）中出现过。
   - [三K黨私刑](https://zh.wikipedia.org/wiki/三K黨私刑 "wikilink")
 
 ## 註釋与参考文献
-
-<div class='references-small'>
-
-<references/>
-
-</div>
 
 ### 参考书目
 

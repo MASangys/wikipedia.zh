@@ -121,8 +121,6 @@
   - [Wiki協作系統應用於數位典藏之內容加值與知識匯集](http://mail.tku.edu.tw/sclin/research/pub/200603Wiki.pdf)
     《教育資料與圖書館學》期刊，2006年3月，第43卷，第3期，pp. 285-307.
 
-[de:Wiki-Software](https://zh.wikipedia.org/wiki/de:Wiki-Software "wikilink")
-
 [Category:Wiki软件](https://zh.wikipedia.org/wiki/Category:Wiki软件 "wikilink")
 [Category:Wiki](https://zh.wikipedia.org/wiki/Category:Wiki "wikilink")
 [Category:门户网站](https://zh.wikipedia.org/wiki/Category:门户网站 "wikilink")

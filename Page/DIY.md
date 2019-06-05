@@ -1,5 +1,5 @@
 [Basic_DIY_Tools.jpg](https://zh.wikipedia.org/wiki/File:Basic_DIY_Tools.jpg "fig:Basic_DIY_Tools.jpg")
-**DIY**是英文**Do It
+**DIY**意思是英文**Do It
 Yourself**的縮寫，可以正式譯為**自己動手做**，但通常不需詳譯人們也大都能理解其意義。DIY原本是個[-{zh-hans:名词短语;
 zh-hant:名詞片語;}-](https://zh.wikipedia.org/wiki/名詞片語 "wikilink")，但在中文環境裡除了當[名詞用之外](../Page/名詞.md "wikilink")，它往往是被當作[形容詞般使用](https://zh.wikipedia.org/wiki/形容詞 "wikilink")，意指「自助的」。
 
@@ -51,9 +51,6 @@ STATION](https://zh.wikipedia.org/wiki/KAMERA_HANDY_STATION "wikilink")\[2\]频�
       - [Bauhause](https://zh.wikipedia.org/wiki/Bauhause "wikilink")\[8\]
 
 ## 參考資料
-
-[fi:Tee se
-itse](https://zh.wikipedia.org/wiki/fi:Tee_se_itse "wikilink")
 
 [Category:生活](https://zh.wikipedia.org/wiki/Category:生活 "wikilink")
 [Category:DIY](https://zh.wikipedia.org/wiki/Category:DIY "wikilink")

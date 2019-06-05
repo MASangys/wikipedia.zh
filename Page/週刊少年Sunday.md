@@ -274,7 +274,21 @@
 <td></td>
 <td><p><a href="../Page/福地翼.md" title="wikilink">福地翼</a></p></td>
 <td><p>data-sort-value="2019.21" | 2019年21・22合并号</p></td>
-<td><p>&lt;!--|-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>摩绪</p></td>
+<td><p>MAO</p></td>
+<td><p><a href="../Page/高桥留美子.md" title="wikilink">高桥留美子</a></p></td>
+<td><p>data-sort-value="2019.23" | 2019年23号</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>只要优子也战斗</p></td>
+<td></td>
+<td><p>福井</p></td>
+<td><p>data-sort-value="2019.24" | 2019年24号</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

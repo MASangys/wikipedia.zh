@@ -2,7 +2,7 @@
 
 ## 概要
 
-雜誌名稱「non-no」源自[阿伊努語中](../Page/阿伊努語.md "wikilink")「花」的意思。其為日本發行時間最久、且引領[潮流的時尚雜誌之一](https://zh.wikipedia.org/wiki/潮流 "wikilink")。長期的競爭對手為《》。其許多受歡迎的專屬模特兒均成功轉型為[演員或](https://zh.wikipedia.org/wiki/演員 "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")。原本的編輯方針是針對[大學生](https://zh.wikipedia.org/wiki/大學生 "wikilink")、社會新鮮人等剛[成年的女性族群](https://zh.wikipedia.org/wiki/成年 "wikilink")，自2005年左右，較大學生年長的年齡層也成了目標對象。
+雜誌名稱「non-no」源自[阿伊努語中](../Page/阿伊努語.md "wikilink")「花」的意思。其為日本發行時間最久、且引領[潮流的時尚雜誌之一](https://zh.wikipedia.org/wiki/潮流 "wikilink")。長期的競爭對手為《》。其許多受歡迎的專屬模特兒均成功轉型為[演員或](../Page/演員.md "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")。原本的編輯方針是針對[大學生](https://zh.wikipedia.org/wiki/大學生 "wikilink")、社會新鮮人等剛[成年的女性族群](https://zh.wikipedia.org/wiki/成年 "wikilink")，自2005年左右，較大學生年長的年齡層也成了目標對象。
 
 其原本一個月發行2回（毎月5日、20日發售），2010年9月18日發售的11月號起改為每月發行1回（[月刊](https://zh.wikipedia.org/wiki/月刊 "wikilink")）。
 

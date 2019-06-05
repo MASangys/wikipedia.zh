@@ -55,6 +55,8 @@ FX的開發似乎已經被取消。
   - 《[灵魂献祭](https://zh.wikipedia.org/wiki/灵魂献祭 "wikilink")》
   - 《[殺戮地帶](https://zh.wikipedia.org/wiki/殺戮地帶 "wikilink")》
   - 《彩虹六號：圍攻行動》
+  - 《[激戰2/Guild Wars
+    2](https://zh.wikipedia.org/wiki/激戰2/Guild_Wars_2 "wikilink")》
   - [《黑暗靈魂》](../Page/黑暗靈魂.md "wikilink")
   - 《[黑暗靈魂II](../Page/黑暗靈魂II.md "wikilink")》
   - 《[黑暗靈魂III](https://zh.wikipedia.org/wiki/黑暗靈魂III "wikilink")》

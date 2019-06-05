@@ -418,7 +418,7 @@ Windows应用程序](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 
   - [戴夫·拉格特介绍HTML](http://www.w3.org/MarkUp/Guide/)
 
-  - [蒂姆·伯纳斯-李对网页的新定义](http://computemagazine.com/man-who-invented-world-wide-web-gives-new-definition/)
+  - [蒂姆·伯纳斯-李对网页的新定义](https://web.archive.org/web/20110412130543/http://computemagazine.com/man-who-invented-world-wide-web-gives-new-definition)
 
   - [HTML查看器](https://codebeautify.org/htmlviewer/)
 

@@ -8,7 +8,7 @@ B+
 树在节点访问时间远远超过节点内部访问时间的时候，比可作为替代的实现有着实在的优势。这通常在多数节点在[次级存储比如](https://zh.wikipedia.org/wiki/次级存储 "wikilink")[硬盘中的时候出现](../Page/硬盘.md "wikilink")。通过最大化在每个[内部节点内的](https://zh.wikipedia.org/wiki/内部节点 "wikilink")[子节点的数目减少树的高度](https://zh.wikipedia.org/wiki/子节点 "wikilink")，平衡操作不经常发生，而且效率增加了。这种价值得以确立通常需要每个节点在次级存储中占据完整的[磁盘块或近似的大小](https://zh.wikipedia.org/wiki/磁盘块 "wikilink")。
 
 B+ 背后的想法是内部节点可以有在预定范围内的可变数目的子节点。因此，B+
-树不需要象其他[自平衡二叉查找树那样经常的重新平衡](https://zh.wikipedia.org/wiki/自平衡二叉查找树 "wikilink")。对于特定的实现在子节点数目上的低和高边界是固定的。例如，在
+树不需要像其他[自平衡二叉查找树那样经常的重新平衡](https://zh.wikipedia.org/wiki/自平衡二叉查找树 "wikilink")。对于特定的实现在子节点数目上的低和高边界是固定的。例如，在
 2-3 B 树（常简称为**2-3 树**）中，每个内部节点只可能有 2 或 3 个子节点。如果节点有无效数目的子节点则被当作处于违规状态。
 
 B+ 树的创造者 [Rudolf
@@ -87,7 +87,7 @@ Bayer](https://zh.wikipedia.org/wiki/Rudolf_Bayer "wikilink")
   - [Effect of node size on the performance of cache conscious
     B+-trees](https://web.archive.org/web/20080829230826/http://www.eecs.umich.edu/~jignesh/quickstep/publ/cci.pdf)
   - [Fractal Prefetching
-    B+-trees](http://www.pittsburgh.intel-research.net/people/gibbons/papers/fpbptrees.pdf)
+    B+-trees](https://web.archive.org/web/20070928103850/http://www.pittsburgh.intel-research.net/people/gibbons/papers/fpbptrees.pdf)
   - [Towards pB+-trees in the field: implementations Choices and
     performance](https://web.archive.org/web/20070927071643/http://gemo.futurs.inria.fr/events/EXPDB2006/PAPERS/Jonsson.pdf)
   - [Cache-Conscious Index Structures for Main-Memory

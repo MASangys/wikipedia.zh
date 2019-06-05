@@ -33,7 +33,7 @@ OS的授权](../Page/Palm_OS.md "wikilink")，开发Palm兼容机型，主要为
   - [MAXPDA专业的中文Palm论坛](https://web.archive.org/web/20071111140516/http://bbs.maxpda.com/)
   - [中文维基百科全书20061208版 for
     ZDic下载](https://web.archive.org/web/20080508064805/http://bbs.maxpda.com/viewthread.php?tid=27393)
-  - [TomPDA中国内地大型综合性PDA网站](http://www.tompda.com)
+  - [TomPDA中国内地大型综合性PDA网站](https://archive.is/20140604080251/http://www.tompda.com/)
   - [Hi-PDA中国内地PDA论坛](http://www.hi-pda.com)
 
 [Category:行動電話製造商](https://zh.wikipedia.org/wiki/Category:行動電話製造商 "wikilink")

@@ -65,13 +65,12 @@ SATA支援[進階主機控制器介面功能](../Page/AHCI.md "wikilink")，可�
 
 ### SATA 1.0
 
-SATA 1.0 於 2003 年 1 月 7
-日推出，為第一代SATA介面，坊間的非官方名稱為SATA-1\[1\]，传输速度为1.5Gbit/s。
+SATA 1.0於2003年1月7日推出，為第一代SATA介面，坊間的非官方名稱為SATA-1\[1\]，传输速度为1.5Gbit/s。
 
 ### SATA 2.0
 
-SATA 2.0 於 2004
-年正式推出，坊間的非官方名稱為SATA-2（SATA-II），符合ATA-7規範，傳輸速度可達3.0Gbit/s。這顯示SATA的速度提升是以幾何級數增長，這點和PATA的一級級算術級數增長是不同的。
+SATA
+2.0於2004年正式推出，坊間的非官方名稱為SATA-2（SATA-II），符合ATA-7規範，傳輸速度可達3.0Gbit/s。顯示SATA的速度提升是以幾何級數增長，這點和PATA的算術級數增長是不同的。
 
 SATA 3Gb/s比SATA 1.5Gb/s進步的地方在於：
 
@@ -92,15 +91,15 @@ SATA
 3.0同時會為正被系統處理中的資源作優先安排，大大提升系統的執行效率。
 
 為了降低耗電，SATA 3.0採用全新INCITS
-ATA8-ACS標準，不但可相容舊有的SATA裝置、改良傳輸訊號技術，亦大幅減低了SATA2.0傳輸時所需功耗。
+ATA8-ACS標準，不但可相容舊有的SATA裝置、改良傳輸訊號技術，亦大幅減低SATA2.0傳輸時所需功耗。
 
-針對筆記型電腦（NB）市場對體積的需求，SATA 3.0提供了較一般SATA2.0接口細小的LIF介面（Low Insertion Force
+針對筆記型電腦（NB）市場對體積的需求，SATA 3.0提供較一般SATA2.0接口細小的LIF介面（Low Insertion Force
 Connector），專門針對1.8吋的儲存裝置，包括僅厚7mm光碟機。
 
 2011年7月18日SATA-IO公佈SATA3.1規格，3.1版帶來諸多特性，例如節電測量，TRIM性能提升和一些雜項調整。
 
 3.1版帶來一個新的mini SATA接口，主要用於為移動計算設備增強互操作性，Zero-Power Optical Disk
-Drive（ODD）的發明減少閒置光碟機的耗電量，用新的電源管理策略降低整個系統的電力需求。TRIM改進允許SATA固態硬碟在不影響性能的前提下自行修剪，改善了SSD的性能，同時還帶來了讓主機識別設備的硬件設備功能，提升SATA的兼容性。
+Drive（ODD）的發明減少閒置光碟機的耗電量，用新的電源管理策略降低整個系統的電力需求。TRIM改進允許SATA固態硬碟在不影響性能的前提下自行修剪，改善SSD的性能，同時還帶來讓主機識別設備的硬件設備功能，提升SATA的兼容性。
 
 另一個值得注意的是SATA通用存儲模塊（USM）和熱插拔SATA驅動器模塊，它讓SATA硬碟的熱插拔機制更為成熟，目前希捷GoFlex部分型號的硬碟已經開始支持。
 
@@ -312,7 +311,7 @@ mSATA，也有自定长度的mSATA固态硬盘。
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Universal_Serial_Bus" title="wikilink">USB</a> 3.0</p></td>
 <td><p>data-sort-value="5" | 5 Gbit/s</p></td>
-<td><p>data-sort-value="400" | 400 MB/s or more (protocol overhead, flow control, framing excluded) <ref>{{Cite book</p></td>
+<td><p>data-sort-value="400" | 400 MB/s or more (protocol overhead, flow control, framing excluded) <ref> {{Cite book</p></td>
 <td><p>title=Universal Serial Bus Specification Revision 3.0</p></td>
 <td><p>page=75 (4–4.11)</p></td>
 <td><p>url=<a href="http://www.usb.org/developers/docs/usb_30_spec_122012.zip">http://www.usb.org/developers/docs/usb_30_spec_122012.zip</a></p></td>
@@ -448,7 +447,7 @@ SATA 裝置（硬碟）都支援熱插拔（基於裝置的需要），絕大部
     year](http://www.computerworld.com/s/article/9235229/Speedy_8Gbit_16Gbit_SATA_Express_systems_coming_this_year)
     - computerworld.com
 
-11. [1](http://www.sata-io.org/zh-trad/?lang=zh-trad) - Serial ATA國際組織
+11. [1](http://www.sata-io.org/zh-trad/?lang=zh-trad)  - Serial ATA國際組織
 
 12.
 

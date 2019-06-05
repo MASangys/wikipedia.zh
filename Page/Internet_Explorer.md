@@ -376,7 +376,7 @@ Internet Starter Kit</p></td>
 <tr class="even">
 <td><p>6.0 SP1</p></td>
 <td><p>2002年9月9日</p></td>
-<td><p>漏洞修正，Windows XP以下作業系統的最終版本</p></td>
+<td><p>漏洞修正，支援<a href="../Page/Windows_98.md" title="wikilink">Windows 98</a>、<a href="https://zh.wikipedia.org/wiki/Windows_ME" title="wikilink">Windows ME和</a><a href="../Page/Windows_2000.md" title="wikilink">Windows 2000的最終版本</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Windows_XP#Service_Pack_1" title="wikilink">Windows XP SP1</a></p></td>
 <td></td>
 </tr>
@@ -461,116 +461,109 @@ Internet Starter Kit</p></td>
 <tr class="even">
 <td><p>8.0</p></td>
 <td><p>2009年3月19日</p></td>
-<td><p>最終發佈，支援<a href="https://zh.wikipedia.org/wiki/Windows_XP#Service_Pack_2" title="wikilink">Windows XP SP2</a>、<a href="https://zh.wikipedia.org/wiki/Windows_XP#Service_Pack_3" title="wikilink">SP3的最終版本</a></p></td>
+<td><p>最終發佈，支援<a href="../Page/Windows_XP.md" title="wikilink">Windows XP的最終版本</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">Windows 7</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>8.0</p></td>
-<td><p>2014年4月8日</p></td>
-<td><p>在2014年4月8日之後，不再提供 Internet Explorer 8 的技術協助，包括保護電腦安全的安全性修補程式在內。</p></td>
-<td><p><a href="http://windows.microsoft.com/zh-tw/internet-explorer/ie-8-welcome">http://windows.microsoft.com/zh-tw/internet-explorer/ie-8-welcome</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/Internet_Explorer_9.md" title="wikilink">9</a></p></td>
 <td><p>9.0 Beta</p></td>
 <td><p>2010年9月16日</p></td>
 <td><p>测试版本，第一次向公众发布带硬件加速的新引擎</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9.0 RC 1</p></td>
 <td><p>2011年2月10日</p></td>
 <td><p>增加追蹤保護功能，修改用戶介面。</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9.0</p></td>
 <td><p>2011年3月14日</p></td>
 <td><p>最終發佈，支援<a href="../Page/Windows_Vista.md" title="wikilink">Windows Vista的最終版本</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Internet_Explorer_10.md" title="wikilink">10</a></p></td>
 <td><p>10.0预览版</p></td>
 <td><p>2011年4月12日</p></td>
 <td><p>HTML5：支持異步腳本元素的屬性，HTML5的拖拽，HTML5的文件API，HTML5沙箱，HTML5 Web Workers，和一些網絡性能的API。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10.0预览版2</p></td>
 <td><p>2011年6月29日</p></td>
 <td><p>预览版2</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10.0開發者預覽版</p></td>
 <td><p>2011年9月13日</p></td>
 <td><p>支援Windows 8 UI（Metro），增加拼寫檢查以及自動修正，InPrivate選項，網絡通訊端，只能在Windows 8 Developer Preview作業系統環境下執行。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Windows_8開發歷史" title="wikilink">Windows 8 Developer Preview</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10.0 Platform Preview</p></td>
 <td><p>2011年11月29日</p></td>
 <td><p>增加跨網域資源共享，CSS的user-select屬性，增加API編寫器，WebGL，HTML5影像字幕，只能在Windows 8 Developer Preview作業系統環境下執行。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Windows_8開發歷史" title="wikilink">Windows 8 Developer Preview</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10.0用戶預覽版</p></td>
 <td><p>2012年2月29日</p></td>
 <td><p>跨域XMLHTTP資源共享（CORS系統），CSS的-ms-user-select屬性，CSS3的字體功能設置屬性可訪問先進的OpenType®功能，文件設置可在CSS-OM中啟用浮點值，HTML5 BlobBuilder API和可存或打開文件的新API，HTML5影像字幕的曲目元素，可互操作的HTML5怪異模式，JavaScript類型化數組，桌面IE10 meta標籤可提醒用戶該網站需要ActiveX加載項（僅），於標準模式除去傳統圖形功能，支持最新的HTML5 WebSocket API，Web Worker線程池，隨著Windows 8-Consumer Preview出現，並沒有提供獨立下載。</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Windows_8開發歷史" title="wikilink">Windows 8 Consumer Preview</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10.0 Release Preview</p></td>
 <td><p>2012年5月31日</p></td>
 <td><p>搜索換新界面，移除應用切換按鍵，自動合成、更新、顯示<a href="../Page/Adobe_Flash_Player.md" title="wikilink">Adobe Flash Player</a>.</p></td>
 <td><p>Windows 8 Release Preview</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10.0</p></td>
 <td><p>2012年8月15日</p></td>
 <td><p>最終發佈</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Windows_8" title="wikilink">Windows 8</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2013年2月26日[24]</p></td>
 <td><p>支援Windows 7 SP1[25]及<a href="../Page/Windows_Server_2008_R2.md" title="wikilink">Windows Server 2008 R2</a> SP1[26]的版本</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Internet_Explorer_11.md" title="wikilink">11</a></p></td>
 <td><p>11.0.9431预览版</p></td>
 <td><p>2013年6月26日</p></td>
 <td><p>WebGL的支持，预抓取及预渲染，flexbox，mutation observers，user-agent增加类Gecko的标识，随着Windows 8.1 Preview出现，并没有提供独立下载。</p></td>
 <td><p><a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1 Preview</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2013年7月25日</p></td>
 <td><p>支援Windows 7 SP1及Windows Server 2008 R2 SP1的版本[27]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11.0</p></td>
 <td><p>2013年10月17日</p></td>
 <td><p>最終發佈</p></td>
 <td><p><a href="../Page/Windows_8.1.md" title="wikilink">Windows 8.1</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2013年11月7日</p></td>
 <td><p>支援Windows 7 SP1及Windows Server 2008 R2 SP1的版本</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Windows_7" title="wikilink">Windows 7</a><br />
@@ -578,7 +571,7 @@ Internet Starter Kit</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2015年7月29日</p></td>
 <td><p>支援Windows 10</p></td>
 <td><p><a href="../Page/Windows_10.md" title="wikilink">Windows 10</a></p></td>

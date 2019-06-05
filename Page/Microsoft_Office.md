@@ -1,7 +1,7 @@
 **Microsoft
-Office**是一套由[微软公司开发的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[办公软件套裝](https://zh.wikipedia.org/wiki/办公软件套裝 "wikilink")，它可以在[Microsoft
+Office**是由[微软公司开发的](https://zh.wikipedia.org/wiki/微软公司 "wikilink")[办公软件套裝](https://zh.wikipedia.org/wiki/办公软件套裝 "wikilink")，有[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Windows
-Phone](../Page/Windows_Phone.md "wikilink")、[Mac系列](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android等系統上運行](../Page/Android.md "wikilink")。与其他办公室应用程式一样，它包括联合的[伺服器和基于](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[網際網路的服务](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。從2007版的Office被称为“Office
+Phone](../Page/Windows_Phone.md "wikilink")、[Mac系列](https://zh.wikipedia.org/wiki/Mac系列 "wikilink")、[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android等不同系統的版本](../Page/Android.md "wikilink")。与其他办公室应用程式一样，它包括联合的[伺服器和基于](https://zh.wikipedia.org/wiki/伺服器 "wikilink")[網際網路的服务](https://zh.wikipedia.org/wiki/網際網路 "wikilink")。從2007版的Office被称为“Office
 System”而不叫“Office Suite”，反映出它们包括伺服器的事实。
 
 Office最初是一个推广名称，出现于1990年代早期，指一些以前曾单独发售的软件的合集。当时主要的推广重点是：购买合集比单独购买要省很多钱。最初的Office版本包含Word、Excel和PowerPoint。「专业版」包含Microsoft

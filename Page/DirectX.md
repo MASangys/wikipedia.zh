@@ -439,16 +439,12 @@ Blog表示，未來[魔獸世界](https://zh.wikipedia.org/wiki/魔獸世界 "wi
 
 纵观DX的各个版本，X都是一个核辐射警告标志或一只螺旋桨叶片。这个设计引发了不小的争议，因为DX计划的原名叫做“[曼哈顿计划](../Page/曼哈顿计划.md "wikilink")”，这个名称来源于美国的核武器研制计划，最终美国使用[核武器轰炸了日本的](../Page/核武器.md "wikilink")[广岛和](https://zh.wikipedia.org/wiki/广岛 "wikilink")[长崎](https://zh.wikipedia.org/wiki/长崎 "wikilink")，这在暗示DX产品要替代日本在电子游戏方面的霸主地位。这一说法被微软公开否定，微軟表示这只是出于艺术设计的考虑。\[9\]
 
-<center>
-
 <File:DirectX> 1 logo.png|DirectX 1.0–6.0 <File:DirectX> 7
 logo.png|DirectX 7.0 <File:DirectX> 8.0 logo.png|DirectX 8.0
 [File:Directx9.jpg|DirectX](File:Directx9.jpg%7CDirectX) 9.0
 [File:DirectX_logo.png|DirectX](File:DirectX_logo.png%7CDirectX) 10.0
 [File:DirectX11_logo.png|DirectX](File:DirectX11_logo.png%7CDirectX)
 11.0
-
-</center>
 
 ## 参见
 

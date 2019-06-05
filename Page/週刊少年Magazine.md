@@ -68,7 +68,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/鑽石王牌" title="wikilink">鑽石王牌 act2</a></p></td>
+<td><p><a href="../Page/鑽石王牌.md" title="wikilink">鑽石王牌 act2</a></p></td>
 <td></td>
 <td><p><a href="../Page/寺嶋裕二.md" title="wikilink">寺嶋裕二</a></p></td>
 <td><p>－</p></td>

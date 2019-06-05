@@ -384,7 +384,11 @@ Jr.中高人氣的[山下智久](../Page/山下智久.md "wikilink")、[關東Jr
   - 2月8日，21st單曲《[EMMA](https://zh.wikipedia.org/wiki/EMMA "wikilink")》發行。[13](https://ja.wikipedia.org/wiki/EMMA_\(NEWS%E3%81%AE%E6%9B%B2\))
   - 3月22日，8th專輯《NEVERLAND》發行。[14](https://ja.wikipedia.org/wiki/NEVERLAND_\(NEWS%E3%81%AE%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0\))
 
-；2018年
+<!-- end list -->
+
+  - 2018年
+
+<!-- end list -->
 
   - 1月17日，22nd單曲《[LPS](https://zh.wikipedia.org/wiki/LPS "wikilink")》發行，為NEWS作品3連動第一彈。[15](https://ja.wikipedia.org/wiki/LPS_\(%E6%9B%B2\))
   - 1月24日，「NEWS LIVE TOUR 2017 NEVERLAND」演唱會DVD/BD發行，為NEWS作品3連動第二彈。
@@ -408,6 +412,15 @@ Jr.中高人氣的[山下智久](../Page/山下智久.md "wikilink")、[關東Jr
   - 2018年12月31日至2019年1月7日，於[大阪巨蛋和](../Page/大阪巨蛋.md "wikilink")[東京巨蛋舉行](../Page/東京巨蛋.md "wikilink")「NEWS
     DOME TOUR 2018-2019
     EPCOTIA-ENCORE-」。12月31日至2019年1月1日，是4人體制以來，第一次在[大阪巨蛋舉行演唱會](../Page/大阪巨蛋.md "wikilink")，也是首次NEWS的單獨跨年演唱會。
+
+<!-- end list -->
+
+  - 2019年
+
+<!-- end list -->
+
+  - 1月16日，「NEWS LIVE TOUR 2018 EPCOTIA」演唱會DVD/BD發行。
+  - 3月9日至5月26日，舉行演唱會「NEWS LIVE TOUR 2019 WORLDISTA」。
 
 ## 作品
 

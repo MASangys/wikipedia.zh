@@ -1,53 +1,43 @@
 **PostgreSQL**是[自由的](../Page/自由软件.md "wikilink")[对象-关系型数据库服务器](https://zh.wikipedia.org/wiki/对象-关系型数据库 "wikilink")（[数据库管理系统](../Page/数据库管理系统.md "wikilink")），在灵活的[BSD许可证下发行](../Page/BSD许可证.md "wikilink")。它在其他开放源代码数据库系统（比如[MySQL和](../Page/MySQL.md "wikilink")[Firebird](../Page/Firebird_\(数据库\).md "wikilink")），和[专有系统](../Page/专有软件.md "wikilink")（比如[Oracle](../Page/甲骨文公司.md "wikilink")、[Sybase](../Page/Sybase.md "wikilink")、IBM的[DB2和](https://zh.wikipedia.org/wiki/DB2 "wikilink")[Microsoft
 SQL
-Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")）之外，为用户又提供了一种选择。
+Server](https://zh.wikipedia.org/wiki/Microsoft_SQL_Server "wikilink")）之外，为用户提供了又一种选择。
 
-PostgreSQL不寻常的名字导致一些读者停下来尝试拼读它，特别是那些把[SQL拼读为](../Page/SQL.md "wikilink")"sequel"的人。PostgreSQL开发者把它拼读为"post-gress-Q-L"。（[Audio
+PostgreSQL這個單字的拼法讓有些人覺得很難唸，特别是那些把[SQL唸作](../Page/SQL.md "wikilink")"sequel"的人。PostgreSQL开发者把它唸作"post-gress-Q-L"。（[Audio
 sample](http://www.postgresql.org/files/postgresql.mp3)，5.6k
 MP3）。它也经常被简略唸为"postgres"。
 
 ## 历史
 
-PostgreSQL经历了长时间的演变，开始于在[UC
-Berkeley的](https://zh.wikipedia.org/wiki/UC_Berkeley "wikilink")[Ingres计划](../Page/Ingres.md "wikilink")。这个计划的领导者[迈克尔·斯通布雷克在](../Page/迈克尔·斯通布雷克.md "wikilink")1982年离开Berkeley去商业化Ingres，但是最后还是返回了学术界。在1985年返回Berkeley之后，Stonebraker开始了post-Ingres计划来致力于在1980年代早期变得日益清楚的、当代数据库系统的问题。Postgres和Ingres的代码库开始（并保持）完全分离了。
+PostgreSQL经历了长时间的演变。该项目最初开始于在[加利福尼亚大学伯克利分校的](https://zh.wikipedia.org/wiki/UC_Berkeley "wikilink")[Ingres计划](../Page/Ingres.md "wikilink")。这个计划的领导者[迈克尔·斯通布雷克在](../Page/迈克尔·斯通布雷克.md "wikilink")1982年离开[加利福尼亚大学伯克利分校去推进Ingres的商业化](../Page/加利福尼亞大學柏克萊分校.md "wikilink")，但最后还是返回了学术界。在1985年返回伯克利之后，[斯通布雷克开始了post](../Page/迈克尔·斯通布雷克.md "wikilink")-Ingres计划，致力于解决在1980年代早期所出现一些数据库系统存在的问题。Postgres和Ingres的代码库开始（并保持）完全分离。
 
-新项目**Postgres**的目的是通过增加所需要的最少的功能来完全支持类型。这些功能包括类型定义和完整描述联系的能力。
-完整描述联系的能力之前虽广为使用但却需要用户来维护。Postgres的数据库能够"理解"联系，并可以使用*规则*以自然的方式在有关的表中检索信息。
+新项目**Postgres**的目的是通过增加最少的功能来完全支持所需要的类型。这些功能包括类型定义和完整描述数据关系的能力。完整描述数据关系的能力之前虽广为使用但却需要由用户来维护。Postgres的数据库能够"理解"关系，并可以使用一定的规则以自然方式在相关的表中检索信息。
 
-从1986年开始项目组发表了一些描述系统基本原理的论文，并在1988年这项计划建成并运行了一个原型版本。项目组在1989年六月向少数用户发行了版本1，随后在1990年六月发行了带有重写后的规则系统的版本2。1991年的版本3再次重写了规则系统，并增加了对多个存储管理器和改进的查询引擎的支持。在1993年就有大量的用户存在了，并开始用对支持和特征的要求淹没这个计划。在发行了主要作为最后清理的版本4之后计划就终止了。
+从1986年开始，该项目组发表了一些描述这一系统基本原理的论文，并在1988年实现并运行了一个Demo版本。项目组在1989年六月向少数用户发行了版本1.0，随后在1990年6月发行了带有全新规则系统的版本2.0。1991年的版本3.0再次重写了规则系统，并增加了对多个存储管理器的支持与改进的查询引擎。Postgres在1993年开始拥有大量用户，这些用户提供了大量的功能与优化建议。但是在发行了作为细节修正的版本4.0之后，Postgres计划就终止了。
 
-尽管Postgres计划正式的终止了，[BSD许可证](../Page/BSD许可证.md "wikilink")（Berkeley在其下发行的Postgres）却使[开放源代码开发者获得副本并进一步开发系统](../Page/开放源代码.md "wikilink")。在1994年，两个[UC
-Berkeley大学的研究生](https://zh.wikipedia.org/wiki/UC_Berkeley "wikilink")
+尽管Postgres计划正式的终止了，[BSD许可证](../Page/BSD许可证.md "wikilink")（Postgres遵守BSD许可证发行）却使开发者们得以获取源代码并进一步开发系统。1994年，两个[加利福尼亚大学伯克利分校的研究生](https://zh.wikipedia.org/wiki/UC_Berkeley "wikilink")
 Andrew Yu和Jolly Chen
-增加了一个[SQL语言解释器来替代早先的基于Ingres的](../Page/SQL.md "wikilink")[QUEL系统](https://zh.wikipedia.org/wiki/QUEL "wikilink")，建立了Postgres95。代码随后被发行到web上来在世界上找寻它自己的出路。在1996年计划被重命名了：为了反映数据库的新SQL查询语言，Postgres95变成了PostgreSQL。
+增加了一个[SQL语言解释器来替代早先的基于Ingres的](../Page/SQL.md "wikilink")[QUEL系统](https://zh.wikipedia.org/wiki/QUEL "wikilink")，建立了Postgres95。代码随后被发布到互联网上供全世界使用。Postgres95在1996年被重命名为PostgreSQL以便突出该数据库全新的[SQL查询语言](../Page/SQL.md "wikilink")。
 
-第一次PostgreSQL发行形成了版本6.0。随后来自世界各地的一组数据库开发者和志愿者，通过[Internet协作起来](https://zh.wikipedia.org/wiki/Internet "wikilink")，维护着这套软件。自从版本6.0之后，出现了很多后续发行，在系统中也出现了很多改进；在2005年1月19日，版本8.0成为当前发行。自8.0后，PostgreSQL以原生（Native）的方式，运行于Windows系统。
+PostgreSQL首次发行即选择6.0作为其版本号，由来自世界各地的数据库开发者和志愿者们，通过[互联网进行软件的维护](https://zh.wikipedia.org/wiki/Internet "wikilink")。在2005年1月19日，PostgreSQL发行了版本8.0。自版本8.0之后，PostgreSQL得以借助原生方式运行于Windows系统之下。
 
-尽管许可证允许Postgres的商业化，Postgres代码没有像Ingres那样快速的被商业开发--
-考虑到Postgres提供的好处这有些令人惊奇。主要分支起源于Paula
-Hawthorn（从Ingres转移来的最初的Ingres项目组成员）和Michael
-Stonebraker组建[Illustra信息技术公司来商业化Postgres的时候](https://zh.wikipedia.org/wiki/Illustra信息技术公司 "wikilink")。
+尽管许可证允许PostgreSQL被用于商业用途，PostgreSQL却并没有像Ingres那样快速的被商业化。在2005年1月，PostgreSQL才收到了它来自数据库厂商的第一份援助。[Pervasive
+Software](https://zh.wikipedia.org/wiki/Pervasive_Software "wikilink")（[1](http://www.pervasivepostgres.com)）宣布了对PostgreSQL的商业支持和社区参与。
 
-在2005年一月，PostgreSQL收到了它来自数据库厂商的第一份援助。[Pervasive
-Software](https://zh.wikipedia.org/wiki/Pervasive_Software "wikilink")（[1](http://www.pervasivepostgres.com)）宣布了商业支持和社区参与。
-
-2000年，前[Red
+但其实在此之前，就已经有一些公司开始对PostgreSQL伸出援手。2000年，前[Red
 Hat投資者籌組了一間名為](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[Great
-Bridge的公司來商業化PostgreSQL](https://zh.wikipedia.org/wiki/Great_Bridge "wikilink")，以和其他商用資料庫廠商競爭。[Great
-Bridge資助了好幾位PostgreSQL開發者](https://zh.wikipedia.org/wiki/Great_Bridge "wikilink")，並且貢獻回饋了許多資源給社群。然而到了2001年末，[Great
-Bridge終止了營運](https://zh.wikipedia.org/wiki/Great_Bridge "wikilink")，因為像是[Red
-Hat](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")...等等公司面臨了嚴酷的競爭，且市場狀況不佳。
+Bridge的公司來商業化PostgreSQL](https://zh.wikipedia.org/wiki/Great_Bridge "wikilink")，与其他商用資料庫廠商展开競爭。[Great
+Bridge資助了好幾位PostgreSQL開發者](https://zh.wikipedia.org/wiki/Great_Bridge "wikilink")，並且貢獻了許多資源給社区。然而到了2001年末，[Great
+Bridge却終止了營運](https://zh.wikipedia.org/wiki/Great_Bridge "wikilink")，一部分原因在于PostgreSQL在被商业化后，其市場狀況并不理想。
 
 2001年，[Command Prompt,
 Inc.发布了](https://zh.wikipedia.org/wiki/Command_Prompt,_Inc. "wikilink")[Mammoth
-PostgreSQL](https://zh.wikipedia.org/wiki/Mammoth_PostgreSQL "wikilink")，最老牌的PostgreSQL商業软件。他們透過對開發者的贊助和對如同[PL/Perl](https://zh.wikipedia.org/wiki/PL/Perl "wikilink")、[PL/php](https://zh.wikipedia.org/wiki/PL/php "wikilink")、維護[PostgreSQL
+PostgreSQL](https://zh.wikipedia.org/wiki/Mammoth_PostgreSQL "wikilink")，这是最老牌的PostgreSQL商業软件。他們通过對開發者的贊助，和开发[PL/Perl](https://zh.wikipedia.org/wiki/PL/Perl "wikilink")、[PL/php等PostgreSQL在各语言中的实现](https://zh.wikipedia.org/wiki/PL/php "wikilink")，以及維護[PostgreSQL
 Build
-Farm](https://zh.wikipedia.org/wiki/PostgreSQL_Build_Farm "wikilink")
-...等等方式來支援PostgreSQL社群。
+Farm等方式來支援PostgreSQL社群](https://zh.wikipedia.org/wiki/PostgreSQL_Build_Farm "wikilink")。
 
-2005年1月，PostgreSQL接到了來自另一間資料庫廠商[Pervasive
-Software的支持](https://zh.wikipedia.org/wiki/Pervasive_Software "wikilink")，他們以十分常見於[Novell
-NetWare平台的](../Page/Novell_NetWare.md "wikilink")[Btrieve產品而聞名](https://zh.wikipedia.org/wiki/Btrieve "wikilink")。他們宣布了進行商業支援和對社群的參與。在他們得到成功一段時間後的2006年7月，[Pervasive
+2005年1月，PostgreSQL接到了來自另一間数据库廠商[Pervasive
+Software的支持](https://zh.wikipedia.org/wiki/Pervasive_Software "wikilink")，该公司以常見於[Novell
+NetWare平台的](../Page/Novell_NetWare.md "wikilink")[Btrieve產品而聞名](https://zh.wikipedia.org/wiki/Btrieve "wikilink")。他們宣布了進行商業支援和對社群的參與。但在他們成功商业化PostgreSQL一段時間後的2006年7月，[Pervasive
 Software離開了PostgreSQL的支援市場](https://zh.wikipedia.org/wiki/Pervasive_Software "wikilink")。
 
 在2005年中，兩間其他的公司宣佈商業化PostgreSQL，分別進入不同的[利基市場](https://zh.wikipedia.org/wiki/利基市場 "wikilink")。[EnterpriseDB宣布將專注於讓使用](https://zh.wikipedia.org/wiki/EnterpriseDB "wikilink")[Oracle的應用程式能更容易的在PostgreSQL上運行](https://zh.wikipedia.org/wiki/Oracle "wikilink")。[Greenplum則專注貢獻在](https://zh.wikipedia.org/wiki/Greenplum "wikilink")[資料倉儲和](../Page/資料倉儲.md "wikilink")[商業智慧的應用程式](https://zh.wikipedia.org/wiki/商業智慧 "wikilink")，尤其以[BizGres專案著稱](https://zh.wikipedia.org/wiki/BizGres "wikilink")。
@@ -58,7 +48,7 @@ Loiacono談論到](https://zh.wikipedia.org/wiki/John_Loiacono "wikilink")："�
 zh-hant:著;}-PostgreSQL"，儘管當時並沒有任何規格釋出。到了2005年11月，昇陽宣布將支援PostgreSQL。2006年6月，[Solaris
 10包含PostgreSQL一起發佈](https://zh.wikipedia.org/wiki/Solaris_10 "wikilink")。
 
-至於PostgreSQL專案本身，他繼續着每年一個主要版本發佈，以及次要的除錯版本發佈，全都可以在BSD授權下取得。這些都是基於商業化廠商、支援公司、和開放源碼駭客。
+至於PostgreSQL專案本身，他繼續着每年一個主要版本發佈，以及次要的除錯版本發佈，这些发布全都遵守BSD授權。
 
 ## 描述
 
@@ -97,8 +87,8 @@ DOMAIN`建立和使用定制类型变得很容易了。
 通过函数，可以在数据库服务器端执行指令程序。尽管这样的指令程序可以使用基本的SQL语句写成，但是由于其缺乏[流程控制等功能](https://zh.wikipedia.org/wiki/流程控制 "wikilink")，所以在PostgreSQL中引入了使用其它程序语言编写函数的能力，包括：
 
   - 一个内置的名为[PL/pgSQL](http://www.postgresql.org/docs/9.3/static/plpgsql.html)的过程语言，类似于Oracle的[PL/SQL](https://zh.wikipedia.org/wiki/PL/SQL "wikilink")；
-  - 包括[PL/Perl](http://www.postgresql.org/docs/9.3/interactive/plperl.html)，[PL/PHP](https://web.archive.org/web/20070528193514/http://www.commandprompt.com/community/plphp)，[PL/Python](http://www.postgresql.org/docs/current/interactive/plpython.html)，[PL/Ruby](http://raa.ruby-lang.org/project/pl-ruby)，[PL/sh](https://web.archive.org/web/20090111030435/http://plsh.projects.postgresql.org/)，[PL/Tcl](http://www.postgresql.org/docs/current/interactive/pltcl.html)与[PL/Scheme](http://plscheme.projects.postgresql.org/)在内的脚本语言；
-  - 编译语言：[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")，[C++](../Page/C++.md "wikilink")，或Java（通过[PL/Java](http://pljava.projects.postgresql.org/)）。
+  - 包括[PL/Perl](http://www.postgresql.org/docs/9.3/interactive/plperl.html)，[PL/PHP](https://web.archive.org/web/20070528193514/http://www.commandprompt.com/community/plphp)，[PL/Python](http://www.postgresql.org/docs/current/interactive/plpython.html)，[PL/Ruby](http://raa.ruby-lang.org/project/pl-ruby)，[PL/sh](https://web.archive.org/web/20090111030435/http://plsh.projects.postgresql.org/)，[PL/Tcl](http://www.postgresql.org/docs/current/interactive/pltcl.html)与[PL/Scheme](https://web.archive.org/web/20070712205419/http://plscheme.projects.postgresql.org/)在内的脚本语言；
+  - 编译语言：[C](https://zh.wikipedia.org/wiki/C语言 "wikilink")，[C++](../Page/C++.md "wikilink")，或Java（通过[PL/Java](https://web.archive.org/web/20070831132714/http://pljava.projects.postgresql.org/)）。
   - R统计语言（[PL/R](http://www.joeconway.com/plr/)）。
 
 以上部分的语言，甚至可以在触发器内执行。PostgreSQL支持行返回函数：它们的输出是一系列行类型数据的集合，可以在查询中当作表来使用。函数也可以被定义成以创建者或者调用者的身份运行。在某些场合，或者其他的数据库产品中，函数也会被称为“[存储过程](https://zh.wikipedia.org/wiki/存储过程 "wikilink")”，但技术上这两者并未有太大分别。

@@ -1,5 +1,5 @@
 [AIM-9_Sidewinder.jpg](https://zh.wikipedia.org/wiki/File:AIM-9_Sidewinder.jpg "fig:AIM-9_Sidewinder.jpg")\]\]
-美國三軍通用編號**AIM-9**[響尾蛇](../Page/響尾蛇.md "wikilink")（Sidewinder）[空對空飛彈是第一款以紅外線作為導引設計](https://zh.wikipedia.org/wiki/空對空飛彈 "wikilink")，也是第一款有擊落目標紀錄的空對空飛彈。它在1956年配備至[美國海軍](../Page/美國海軍.md "wikilink")，1964年[美國空軍也開始使用](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")，是一款設計理想且歷經考驗的空用武器。
+美國三軍通用編號**AIM-9**[響尾蛇](../Page/響尾蛇.md "wikilink")（Sidewinder）[空對空飛彈是第一款以紅外線作為導引設計](https://zh.wikipedia.org/wiki/空對空飛彈 "wikilink")，也是第一款有擊落目標記錄的空對空飛彈。它在1956年配備至[美國海軍](../Page/美國海軍.md "wikilink")，1964年[美國空軍也開始使用](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")，是一款設計理想且歷經考驗的空用武器。
 
 響尾蛇飛彈是[美國海軍空用武器中心所研發](../Page/美國海軍.md "wikilink")，使用單位遍及美國四大軍種，外銷數量與使用國家眾多，對現役所有的[紅外線導引空對空飛彈的基本設計概念都有深厚的影響](../Page/紅外線導引.md "wikilink")，[蘇聯的第一款紅外線導引空對空飛彈](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")-K-13（北約代號[AA-2環礁](../Page/AA-2飛彈.md "wikilink")）實際上是仿造響尾蛇而來，蘇聯設計人員對設計小組的巧思也讚賞不已\[1\]。
 
@@ -372,6 +372,8 @@ Missiles](http://www.defenseindustrydaily.com/2006/02/turkey-buys-127-aim9x-side
     Lake,Naval Institute Press,1999,ISBN 1-55750-951-4*
 2.  *Marshall L. III Michel,Clashes: Air Combat over North Vietnam
     1965-1972,Naval Institute Press,1997 ISBN 1-55750-585-3*
+
+[分類:美國售台軍事裝備](https://zh.wikipedia.org/wiki/分類:美國售台軍事裝備 "wikilink")
 
 [Category:空對空飛彈](https://zh.wikipedia.org/wiki/Category:空對空飛彈 "wikilink")
 [Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink")

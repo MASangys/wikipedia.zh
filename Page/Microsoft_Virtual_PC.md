@@ -117,11 +117,6 @@ Microsoft Virtual PC 2007並不支援Windows的家用版\[1\]。若在家用版W
 
   - [虚拟机之家](https://web.archive.org/web/20050529004559/http://www.xuniji.com/)
 
-[de:Microsoft Virtual
-PC](https://zh.wikipedia.org/wiki/de:Microsoft_Virtual_PC "wikilink")
-[ru:Microsoft Virtual
-PC](https://zh.wikipedia.org/wiki/ru:Microsoft_Virtual_PC "wikilink")
-
 [Category:虛擬化軟體](https://zh.wikipedia.org/wiki/Category:虛擬化軟體 "wikilink")
 [Category:微软软件](https://zh.wikipedia.org/wiki/Category:微软软件 "wikilink")
 [Category:Mac_OS软件](https://zh.wikipedia.org/wiki/Category:Mac_OS软件 "wikilink")

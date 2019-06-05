@@ -317,7 +317,8 @@
   - [魔法紀錄
     魔法少女小圓外傳](../Page/魔法紀錄_魔法少女小圓外傳.md "wikilink")（開發商：f4samurai，2017年8月上線）
   - [閃耀幻想曲](https://zh.wikipedia.org/wiki/閃耀幻想曲 "wikilink")（開發商：，2017年12月上線）
-  - 高校艦隊 指尖艦隊戰鬥（開發商：[Aniplex](../Page/Aniplex.md "wikilink")，2019年3月27日）
+  - [高校艦隊
+    指尖艦隊戰鬥！](https://zh.wikipedia.org/wiki/高校艦隊_指尖艦隊戰鬥！ "wikilink")（開發商：[Aniplex](../Page/Aniplex.md "wikilink")，2019年3月27日）
 
 ## 參見
 

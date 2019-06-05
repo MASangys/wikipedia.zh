@@ -1,4 +1,6 @@
-**Yahoo奇摩**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[入口網站之一](https://zh.wikipedia.org/wiki/入口網站 "wikilink")，為[Oath公司旗下入口網站](https://zh.wikipedia.org/wiki/Oath公司 "wikilink")[雅虎的台灣版](../Page/雅虎.md "wikilink")，由香港商雅虎資訊股份有限公司台灣分公司代表Oath台灣公司營運\[1\]。該網站於2001年10月[雅虎台灣與](../Page/雅虎台灣.md "wikilink")[奇摩站合併後成立](../Page/奇摩站.md "wikilink")，網址續用雅虎台灣的「tw.yahoo.com」。因為合併的緣故，所以雅虎在台灣的服務名稱，部分與世界各地通用的「Yahoo\!」品牌不同\[2\]，但是帳號與全球的雅虎網站是共通的。
+**Yahoo奇摩**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[入口網站之一](https://zh.wikipedia.org/wiki/入口網站 "wikilink")，為[Verizon
+Media旗下入口網站](../Page/Verizon_Media.md "wikilink")[雅虎的台灣版](../Page/雅虎.md "wikilink")，由[香港商雅虎資訊股份有限公司台灣分公司代表Verizon](../Page/香港.md "wikilink")
+Media台灣公司營運\[1\]。該網站於2001年10月[雅虎台灣與](../Page/雅虎台灣.md "wikilink")[奇摩站合併後成立](../Page/奇摩站.md "wikilink")，網址續用雅虎台灣的「tw.yahoo.com」。因為合併的緣故，所以雅虎在台灣的服務名稱，部分與世界各地通用的「Yahoo\!」品牌不同\[2\]，但是帳號與全球的雅虎網站是共通的。
 
 ## 歷史沿革
 
@@ -39,9 +41,11 @@ TV服務，主打跨螢[直播和](https://zh.wikipedia.org/wiki/直播 "wikilin
 
 2017年12月21日，提供拍賣輕鬆付餘額自動扣抵拍賣費用功能。
 
-2018年4月25日，[Oath公司成立](https://zh.wikipedia.org/wiki/Oath "wikilink")，吸收[AOL](https://zh.wikipedia.org/wiki/AOL "wikilink")
+2018年4月25日，[Verizon
+Media公司成立](../Page/Verizon_Media.md "wikilink")，吸收[AOL](https://zh.wikipedia.org/wiki/AOL "wikilink")
 和 Yahoo 為旗下品牌 ，隸屬於
-[Verizon](https://zh.wikipedia.org/wiki/Verizon "wikilink")，Yahoo\!奇摩的營運法人為香港商雅虎資訊股份有限公司台灣分公司，該公司為Oath台灣代表。
+[Verizon](https://zh.wikipedia.org/wiki/Verizon "wikilink")，Yahoo\!奇摩的營運法人為香港商雅虎資訊股份有限公司台灣分公司，該公司為Verizon
+Media台灣代表。
 
 ## 提供服務
 
@@ -99,7 +103,7 @@ TV服務，主打跨螢[直播和](https://zh.wikipedia.org/wiki/直播 "wikilin
 
 ## 相關條目
 
-  - [雅虎香港](../Page/雅虎香港.md "wikilink")
+  - [雅虎](../Page/雅虎.md "wikilink")
   - [奇摩站](../Page/奇摩站.md "wikilink")
 
 ## 參考資料
@@ -107,8 +111,6 @@ TV服務，主打跨螢[直播和](https://zh.wikipedia.org/wiki/直播 "wikilin
 ## 外部連結
 
   - [Yahoo奇摩](https://tw.yahoo.com/)
-
-  - [雅虎香港](https://hk.yahoo.com/)
 
   -
   -

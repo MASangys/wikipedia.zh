@@ -30,8 +30,6 @@ PC兼容机”的说法逐渐被“[标准PC](https://zh.wikipedia.org/wiki/标�
 
   - <http://oldcomputers.net/compaqi.html>
 
-[lt:PC](https://zh.wikipedia.org/wiki/lt:PC "wikilink")
-
 [Category:IBM_PC兼容机](https://zh.wikipedia.org/wiki/Category:IBM_PC兼容机 "wikilink")
 [Category:计算平台](https://zh.wikipedia.org/wiki/Category:计算平台 "wikilink")
 [Category:個人電腦](https://zh.wikipedia.org/wiki/Category:個人電腦 "wikilink")

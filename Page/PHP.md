@@ -7,7 +7,7 @@ License作為許可協議，不過因為這個協議限制了PHP名稱的使用�
 
 PHP的應用範圍相當廣泛，尤其是在網頁程式的開發上。一般來說PHP大多執行在網頁伺服器上，透過執行PHP程式碼來產生使用者瀏覽的網頁。PHP可以在多數的伺服器和作業系統上執行，而且使用PHP完全是免費的。根據2013年4月的統計資料，PHP已經被安裝在超過2億4400萬個網站和210萬台伺服器上\[4\]。
 
-PHP在[Windows上有专门的官方移植编译项目](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，并且分多个VC编译器版本和线程安全特性来提供不同的版本支持。
+PHP在[Windows上有专门的官方移植编译项目](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，并且分多个VC编译器版本和[线程安全特性来提供不同的版本支持](../Page/线程安全.md "wikilink")。
 
 ## 開發歷史
 
@@ -587,7 +587,7 @@ PHP程式語言的官方文档中曾写过「PHP是世界上最好的語言，�
 45. [PHP developer wiki server
     hacked](http://www.h-online.com/open/news/item/PHP-developer-wiki-server-hacked-1211874.html)
 
-46. [PHP官方网站被入侵，近期请勿从官方下载源码](http://www.i-mz.net/posts/2011/03/1671.html)
+46.
 
 47. [3](https://php.net/archive/2011.php#id2011-03-19-2)
 

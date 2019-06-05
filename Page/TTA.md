@@ -33,7 +33,8 @@ Audio编码，您可以将20张收藏的音频[CD存储到一张](../Page/CD.md 
 
 ## 外部链接
 
-  - [True Audio Software Project](http://www.true-audio.com)
+  - [True Audio Software
+    Project](https://web.archive.org/web/20050205232842/http://www.true-audio.com/)
   - [压缩理论](http://www.true-audio.com/codec.theory)
   - [TTA格式描述](http://www.true-audio.com/codec.format)
   - [True Audio编解码器比较](http://www.true-audio.com/codec.comparison)

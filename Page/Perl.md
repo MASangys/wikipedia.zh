@@ -29,7 +29,7 @@ Perl 4的一系列维护的版本，最后一版是1993年的Perl 4.036。那时
 5而建立。这将主要的论坛留给了Perl 5的开发，维护，和移植\[7\]。
 
 Perl
-5.000于1994年10月17日发布\[8\]。这是一个几乎完全重写了的[直译器](https://zh.wikipedia.org/wiki/直译器 "wikilink")，而且它给这个语言添加了很多新的特性，包括对象，引用，[局部变量](https://zh.wikipedia.org/wiki/局部变量 "wikilink")，和[模块](https://zh.wikipedia.org/wiki/模块_\(程序设计\) "wikilink")。很重要地，模块提供了一个不用修改直译器就可以扩展语言的方法。这使得核心的直译器非常稳定，即使它允许一般的Perl程序员添加新的语言特性。从此，Perl
+5.000于1994年10月17日发布\[8\]。这是一个几乎完全重写了的[解释器](https://zh.wikipedia.org/wiki/解释器 "wikilink")，而且它给这个语言添加了很多新的特性，包括对象，引用，[局部变量](https://zh.wikipedia.org/wiki/局部变量 "wikilink")，和[模块](https://zh.wikipedia.org/wiki/模块_\(程序设计\) "wikilink")。很重要地，模块提供了一个不用修改直译器就可以扩展语言的方法。这使得核心的直译器非常稳定，即使它允许一般的Perl程序员添加新的语言特性。从此，Perl
 5的开发就活跃起来了。
 
 Perl 5.001于1995年3月13日发布。Perl
@@ -527,7 +527,7 @@ if($hour > 22) { #錯誤
     Windows上的Perl](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
   - [Strawberry Perl](http://strawberryperl.com/)：由Perl社群所提供之[Microsoft
     Windows版Perl](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
-  - [Perl6::Perl5::Differences](http://perlcabal.org/syn/Differences.html)
+  - [Perl6::Perl5::Differences](https://web.archive.org/web/20070707003455/http://perlcabal.org/syn/Differences.html)
 
 ### 中文資源、社群
 

@@ -21,7 +21,7 @@
   - 2016年3月，成為[索尼移动子公司](../Page/索尼移动通信.md "wikilink")。
   - 2016年7月，更名為索尼网络通信有限公司（，）。
   - 2016年10月1日，推出基于[NTT
-    DOCOMO和](../Page/NTT_DOCOMO.md "wikilink")[軟銀网络的移动通信服务](https://zh.wikipedia.org/wiki/軟銀 "wikilink")「」，并取代此前的服务\[2\]。
+    DOCOMO和](../Page/NTT_DOCOMO.md "wikilink")[軟銀网络的移动通信服务](../Page/軟銀.md "wikilink")「」，并取代此前的服务\[2\]。
 
 ### 日本國內事業
 

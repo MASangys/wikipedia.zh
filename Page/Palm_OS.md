@@ -66,7 +66,8 @@ Forms等，它们可以避免C和C++低层的汇编语言。
       - [treo8 Treo中文用户交流论坛](http://www.treo8.com)
       - [MAXPDA
         中文PalmOS论坛](https://web.archive.org/web/20071111140516/http://bbs.maxpda.com/)
-      - [TomPDA 中国大陆PalmOS论坛](http://www.tompda.com)
+      - [TomPDA
+        中国大陆PalmOS论坛](https://archive.is/20140604080251/http://www.tompda.com/)
       - [煮机网 中文PalmOS论坛](http://www.zoopda.com)
       - [BrightHand.com Palm
         OS](http://www.brighthand.com/?catName=Palm_OS) - Palm OS News,

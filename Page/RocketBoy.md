@@ -55,7 +55,7 @@ Elite战队并主职FPS方面项目](https://zh.wikipedia.org/wiki/World_Elite "
 
 [Category:成都人](https://zh.wikipedia.org/wiki/Category:成都人 "wikilink")
 [Category:孟姓](https://zh.wikipedia.org/wiki/Category:孟姓 "wikilink")
-[Category:中国大陆电玩家](https://zh.wikipedia.org/wiki/Category:中国大陆电玩家 "wikilink")
+[Category:中国电玩家](https://zh.wikipedia.org/wiki/Category:中国电玩家 "wikilink")
 [Category:雷神之锤系列玩家](https://zh.wikipedia.org/wiki/Category:雷神之锤系列玩家 "wikilink")
 [Category:熊猫直播主播](https://zh.wikipedia.org/wiki/Category:熊猫直播主播 "wikilink")
 

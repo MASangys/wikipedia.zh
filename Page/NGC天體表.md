@@ -68,7 +68,8 @@ Steinicke编译于](https://zh.wikipedia.org/wiki/Wolfgang_Steinicke "wikilink")
   - [The Amateur Photographic NGC
     Catalog](https://web.archive.org/web/20110514124324/http://www.licha.de/astro_gallery_ngc.php)
 
-  - [The NGC/IC Project](http://www.ngcicproject.org/)
+  - [The NGC/IC
+    Project](https://www.webcitation.org/6D0cZfMcz?url=http://www.ngcicproject.org/)
 
   - [Adventures in Deep Space: Challenging Observing Projects for
     Amateur

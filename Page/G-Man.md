@@ -130,6 +130,8 @@ for unforeseen consequences"）随后，他又开始了在远处观察戈登的�
     他可能是来自于未来的弗里曼
     他并没有出现在黑山科学家的合影上
     可能是一个名叫“Slick”的科学家
+    The Game Theorists 发布了一个 Game Theory 的视频\[4\]，根据此视频中的理论来看，G-Man
+    的真实身份可能是和 Nihilanth 同一个种族的不同个体，只是以人类形态出现在戈登弗里曼的面前。
 
 ## 聲音
 
@@ -151,3 +153,6 @@ Half-Life\#G-Man](https://zh.wikipedia.org/wiki/pl:Lista_postaci_ze_świata_Half
     Random House, Inc. ISBN 0-7615-4364-3
 
 3.
+4.   Half Life G MAN Theory
+    |url=<https://www.youtube.com/watch?v=BgYzOLQ8sU8> |website=Youtube
+    |accessdate=2017年8月15日 |date=2017-08-15}}

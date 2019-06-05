@@ -1,4 +1,4 @@
-**可扩展标记语言**（，简称：），是一种[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")。标记指[计算机所能理解的信息符号](https://zh.wikipedia.org/wiki/计算机 "wikilink")，通过此种标记，[计算机之间可以处理包含各种信息的文章等](https://zh.wikipedia.org/wiki/電腦 "wikilink")。如何定义这些标记，既可以选择国际通用的标记语言，比如[HTML](../Page/HTML.md "wikilink")，也可以使用像XML这样由相关人士自由决定的标记语言，这就是语言的可扩展性。XML是从[标准通用标记语言](https://zh.wikipedia.org/wiki/标准通用标记语言 "wikilink")（SGML）中简化修改出来的。它主要用到的有可扩展标记语言、[可扩展样式语言](../Page/可扩展样式语言.md "wikilink")（XSL）、[XBRL和](https://zh.wikipedia.org/wiki/XBRL "wikilink")[XPath等](../Page/XPath.md "wikilink")。
+**可扩展标记语言**（，简称：）是一种[标记语言](https://zh.wikipedia.org/wiki/标记语言 "wikilink")。标记指[计算机所能理解的信息符号](https://zh.wikipedia.org/wiki/计算机 "wikilink")，通过此种标记，[计算机之间可以处理包含各种信息的文章等](https://zh.wikipedia.org/wiki/電腦 "wikilink")。如何定义这些标记，既可以选择国际通用的标记语言，比如[HTML](../Page/HTML.md "wikilink")，也可以使用像XML这样由相关人士自由决定的标记语言，这就是语言的可扩展性。XML是从[标准通用标记语言](https://zh.wikipedia.org/wiki/标准通用标记语言 "wikilink")（SGML）中简化修改出来的。它主要用到的有可扩展标记语言、[可扩展样式语言](../Page/可扩展样式语言.md "wikilink")（XSL）、[XBRL和](https://zh.wikipedia.org/wiki/XBRL "wikilink")[XPath等](../Page/XPath.md "wikilink")。
 
 ## 历史
 

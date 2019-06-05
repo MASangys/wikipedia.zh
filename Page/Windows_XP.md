@@ -325,14 +325,15 @@ XP支持停止的消息引发诸多热议。2014年3月2日，微软中国宣布
 
 2014年5月1日，因为IE的秘狐漏洞，微软破例为Windows
 XP提供扩展支持结束后的第一个补丁。\[81\]2017年5月12日，因为[WannaCry病毒的泛滥](../Page/WannaCry.md "wikilink")，微软为Windows
-XP提供扩展支持结束后的第二个补丁。\[82\]
+XP提供扩展支持结束后的第二个补丁。\[82\]2019年5月14日，因为远程桌面服务中存在一个严重的远程执行代码漏洞，微软为Windows
+XP提供扩展支持结束后的第三个补丁\[83\]。
 
 ## 批評
 
 ### 產品啟動及驗證
 
 微軟為了抑制盜版而增添[產品啟動機制](https://zh.wikipedia.org/wiki/產品啟動 "wikilink")，但受到強烈批評的原因是因為它的驗證方式。這種驗證方式使得主機硬體的部份遭受到控管，並在軟體可以永久使用前（每30天一個啟動週期）在微軟的記錄上增加一個唯一的參考[序號](https://zh.wikipedia.org/wiki/序號 "wikilink")（reference
-number）。在其它電腦上安裝系統，將因為硬體的不同而無法啟動。如果是在同一台電腦上更換太多硬體（包括新增數個或以上的虛擬光碟機，尤其是**主機板**），則會因為硬體改變太大而導致需要重新啟動。\[83\]\[84\]
+number）。在其它電腦上安裝系統，將因為硬體的不同而無法啟動。如果是在同一台電腦上更換太多硬體（包括新增數個或以上的虛擬光碟機，尤其是**主機板**），則會因為硬體改變太大而導致需要重新啟動。\[84\]\[85\]
 
 ### Windows Genuine Advantage
 
@@ -344,7 +345,7 @@ Center（微軟下載中心）下載系統元件，就會強制要求使用者�
 
 ### 安全性問題
 
-基於Windows作業系統龐大的市場佔有率，成為電腦病毒創作者的誘人目標，再加上作業系統本身的一些缺陷（安全漏洞），使作業系統容易受到[電腦病毒](https://zh.wikipedia.org/wiki/電腦病毒 "wikilink")、[木馬程式](https://zh.wikipedia.org/wiki/木馬程式 "wikilink")、[蠕蟲](https://zh.wikipedia.org/wiki/蠕蟲 "wikilink")、[惡意軟件的感染](https://zh.wikipedia.org/wiki/惡意軟件 "wikilink")。\[85\]這些經常出現的電腦安全性問題使Windows
+基於Windows作業系統龐大的市場佔有率，成為電腦病毒創作者的誘人目標，再加上作業系統本身的一些缺陷（安全漏洞），使作業系統容易受到[電腦病毒](https://zh.wikipedia.org/wiki/電腦病毒 "wikilink")、[木馬程式](https://zh.wikipedia.org/wiki/木馬程式 "wikilink")、[蠕蟲](https://zh.wikipedia.org/wiki/蠕蟲 "wikilink")、[惡意軟件的感染](https://zh.wikipedia.org/wiki/惡意軟件 "wikilink")。\[86\]這些經常出現的電腦安全性問題使Windows
 XP受到批評。
 
 ### 產品壟斷
@@ -352,17 +353,17 @@ XP受到批評。
 由於微軟把很多以前是本应由第三方提供的軟體整合到作業系統中，使XP遭受到猛烈的批評。這些軟件包括防火牆、媒體播放器（[Windows Media
 Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")），即時通訊軟體（[Windows
 Messenger](../Page/Windows_Messenger.md "wikilink")），以及它與Microsoft
-Passport網絡服務的緊密結合，這都被很多電腦專家認為會增加安全風險，威脅個人隱私。另外，這些特性的增加被認為是微軟繼續其傳統的[壟斷行為](https://zh.wikipedia.org/wiki/壟斷 "wikilink")。\[86\]
+Passport網絡服務的緊密結合，這都被很多電腦專家認為會增加安全風險，威脅個人隱私。另外，這些特性的增加被認為是微軟繼續其傳統的[壟斷行為](https://zh.wikipedia.org/wiki/壟斷 "wikilink")。\[87\]
 
 ### 用戶介面及性能表現
 
 Windows
-XP的新介面及視覺效果會使用較多的系統處理資源，同時會減慢電腦的速度及效能，對於一些硬體規格較低的電腦會有一定的影響。\[87\]\[88\]
+XP的新介面及視覺效果會使用較多的系統處理資源，同時會減慢電腦的速度及效能，對於一些硬體規格較低的電腦會有一定的影響。\[88\]\[89\]
 
 ### 安裝
 
 在某些情況下，安裝Windows
-XP的時候可能需要使用磁碟機。例如安裝XP在一個SATA硬碟時，如果該電腦的BIOS沒有IDE相容模式，電腦有可能辨認不到硬碟。因為XP的安裝光碟中並沒有通用的驅動程式。\[89\]而近年來絕大部份的新電腦都沒有磁碟機，這些電腦將需要使用自定義安裝光碟或者購買一個磁碟機\[90\]
+XP的時候可能需要使用磁碟機。例如安裝XP在一個SATA硬碟時，如果該電腦的BIOS沒有IDE相容模式，電腦有可能辨認不到硬碟。因為XP的安裝光碟中並沒有通用的驅動程式。\[90\]而近年來絕大部份的新電腦都沒有磁碟機，這些電腦將需要使用自定義安裝光碟或者購買一個磁碟機\[91\]
 。在32GB或以上的硬碟分割區安裝Windows
 XP只能支援[NTFS格式](../Page/NTFS.md "wikilink")，Windows
 XP是最後一版支援在[FAT32硬碟分割區上安裝Windows系統的Windows作業系統](https://zh.wikipedia.org/wiki/FAT32 "wikilink")。
@@ -373,12 +374,12 @@ Windows XP有三種主要的授權方式，包括零售版、OEM版以及大量�
 
 ### 零售版
 
-Windows XP Professional的香港建議標準零售版價格是港幣2330元，升級版是港幣1550元；\[91\]Windows XP
-Home Edition的香港建議完全零售版價格是港幣1550元，升級版是港幣770元。\[92\]Windows XP
+Windows XP Professional的香港建議標準零售版價格是港幣2330元，升級版是港幣1550元；\[92\]Windows XP
+Home Edition的香港建議完全零售版價格是港幣1550元，升級版是港幣770元。\[93\]Windows XP
 Professional的中国建议标准零售版价格是1998元人民币，升级版是1629元人民币；Windows XP Home
 Edition的中国建议完全零售版价格是1498元人民币，升级版是798元人民币。完全零售版可以全新安裝，也可以升級安裝；升級版只做升級安裝。這種版本的Windows
 XP產品有精美的包裝盒，一本較厚較精美的說明書，一張授權證明以及精美帶有全息影像變化防偽的[光碟](../Page/光碟.md "wikilink")。完全版的光碟標卷有FPP字樣（如英文專業版WXPFPP_EN），升級版的光碟標卷有CCP字樣（如英文專業版WXPCCP_EN）。這種授權的Windows
-XP需要激活才可使用\[93\]。若原本安裝的電腦不再使用，授權可移轉至其他電腦使用，但仍需激活。
+XP需要激活才可使用\[94\]。若原本安裝的電腦不再使用，授權可移轉至其他電腦使用，但仍需激活。
 
 ### OEM版
 
@@ -387,7 +388,7 @@ XP（包括專業版與家庭版）與電腦一起搭售，這種授權的價格
 XP產品只有一本說明書，一張授權證明以及帶有全息影像變化防偽的光碟。OEM版的Windows
 XP只能用來全新安裝，光碟標卷有OEM字樣（如英文專業版WXPOEM_EN）。這種授權的Windows
 XP需要激活才可使用。一些品牌的電腦廠商所提供的是Windows XP系統恢復光碟（Recovery
-CD），因其電腦廠商在BIOS中加入啟動資訊，也因此該產品只能配備相關產品品牌的電腦才能使用，用戶也無需啟動。\[94\]
+CD），因其電腦廠商在BIOS中加入啟動資訊，也因此該產品只能配備相關產品品牌的電腦才能使用，用戶也無需啟動。\[95\]
 
 ### 大量授權版（VOL）
 
@@ -395,7 +396,7 @@ CD），因其電腦廠商在BIOS中加入啟動資訊，也因此該產品只�
 Professional。這-{只}-對於企業、政府或教育機構，並且只有專業版有批量許可的授權方式，家庭版沒有。這種版本的Windows
 XP產品必需是有相關企業機構與微軟簽訂的軟體大量授權合約，大量許可序號（Volume License
 Key，VLK）以及相關的大量授權光碟。大量授權版與完全零售版一樣，可以全新安裝，也可以升級安裝。光碟標卷有VOL字樣（如英文專業版WXPVOL_EN）為了在企業上的效率，故這種授權的Windows
-XP無啟動的概念，但也正因如此，大量授權版的序號也成為許多[盜版使用者在使用Windows作業系統時](https://zh.wikipedia.org/wiki/盜版 "wikilink")，可以幾乎不費吹灰之力就可避開微軟盜版驗證的方式之一。\[95\]
+XP無啟動的概念，但也正因如此，大量授權版的序號也成為許多[盜版使用者在使用Windows作業系統時](https://zh.wikipedia.org/wiki/盜版 "wikilink")，可以幾乎不費吹灰之力就可避開微軟盜版驗證的方式之一。\[96\]
 
 ## 盗版
 
@@ -404,30 +405,30 @@ XP具有产品激活这一性质，许多盗版提供各种方式帮助用户绕
 
 微软大力打击盗版，曾经通过在安全补丁里包含正版验证程序的方式，使部分盗版用户的屏幕显示黑屏并提示“您是盗版软件的受害者”。此举一度引起争议，而且即使是这个功能本身也旋即被破解。
 
-另外，“番茄花园版XP”的制作人员[洪磊](https://zh.wikipedia.org/wiki/洪磊_\(中國罪犯\) "wikilink")，因犯侵犯著作权罪于2008年被判有期徒刑三年六个月并处罚金人民币1,000,000元。同案的[成都共软网络科技有限公司因犯侵犯著作权罪](https://zh.wikipedia.org/wiki/成都共软网络科技有限公司 "wikilink")，其违法所得计人民币2,924,289.09元予以没收，并判处罚金人民币8,772,861.27元；[孙显忠因侵犯著作权罪](https://zh.wikipedia.org/wiki/孙显忠 "wikilink")，判处有期徒刑三年六个月，并处罚金人民币1,000,000元。[张天平因侵犯著作权罪](https://zh.wikipedia.org/wiki/张天平 "wikilink")，判处有期徒刑二年，并处罚金人民币100,000元；[梁焯勇因侵犯著作权罪](https://zh.wikipedia.org/wiki/梁焯勇 "wikilink")，判处有期徒刑二年，并处罚金人民币100,000元。\[96\]这也是微软首次在中国就盗版提出法律诉讼。根据相关的报道，洪磊已于2011年年底出狱，现重新开放“番茄花园”网站，不过其内容转向对[Android系统的研究](../Page/Android.md "wikilink")。
+另外，“番茄花园版XP”的制作人员[洪磊](https://zh.wikipedia.org/wiki/洪磊_\(中國罪犯\) "wikilink")，因犯侵犯著作权罪于2008年被判有期徒刑三年六个月并处罚金人民币1,000,000元。同案的[成都共软网络科技有限公司因犯侵犯著作权罪](https://zh.wikipedia.org/wiki/成都共软网络科技有限公司 "wikilink")，其违法所得计人民币2,924,289.09元予以没收，并判处罚金人民币8,772,861.27元；[孙显忠因侵犯著作权罪](https://zh.wikipedia.org/wiki/孙显忠 "wikilink")，判处有期徒刑三年六个月，并处罚金人民币1,000,000元。[张天平因侵犯著作权罪](https://zh.wikipedia.org/wiki/张天平 "wikilink")，判处有期徒刑二年，并处罚金人民币100,000元；[梁焯勇因侵犯著作权罪](https://zh.wikipedia.org/wiki/梁焯勇 "wikilink")，判处有期徒刑二年，并处罚金人民币100,000元。\[97\]这也是微软首次在中国就盗版提出法律诉讼。根据相关的报道，洪磊已于2011年年底出狱，现重新开放“番茄花园”网站，不过其内容转向对[Android系统的研究](../Page/Android.md "wikilink")。
 
 ## 退役以後與現狀
 
 ### 微軟官方專供地區延續支援
 
 [愛爾蘭政府以及](https://zh.wikipedia.org/wiki/愛爾蘭政府 "wikilink")[美國海軍等政府及軍方單位](../Page/美國海軍.md "wikilink")，因為仍有為數不少的舊款軟硬體仍需在Windows
-XP才可使用而尚未更新，在微軟終止對Windows XP提供支援後，仍編列預算付費購買後繼支援服務\[97\]\[98\]
+XP才可使用而尚未更新，在微軟終止對Windows XP提供支援後，仍編列預算付費購買後繼支援服務\[98\]\[99\]
 
 ### 市場佔有率
 
 市場研究機構的數據顯示，已經退役的微軟「Windows
 XP」系統2014年8月市佔率仍有23.89%，僅比7月份降低0.93個百分點，比4月份該系統終止技術支援時僅降低2.4個百分點，「[Windows
 8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")/[8.1](../Page/Windows_8.1.md "wikilink")」合計市佔率僅有13.37%，「[Windows
-7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")」市佔率基本與上一個月持平，保持在51.2%。\[99\]
+7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink")」市佔率基本與上一個月持平，保持在51.2%。\[100\]
 
 ### 使用現狀
 
 Windows
 XP的遊樂場網際網路西式拱豬、網際網路西洋棋、網際網路西洋骰子棋、網際網路黑白棋、網際網路傷心小棧等遊戲目前還可以連線與其他玩家遊玩，而且一般應用程式發生錯誤仍然可以回報錯誤傳回給微軟伺服器，這代表微軟官方並沒有完全淘汰Windows
-XP系統。目前在台灣的光南大批發以及家樂福等賣場上仍有販售往日低配備需求國產電腦遊戲，這些遊戲可以在Windows
-XP作業系統上執行，Windows XP系統可向下相容Windows 95、Windows 98、Windows
-me、Windows NT、Windows 2000以及3.5磁片相關軟體，現今一般使用者大多在最新作業系統例如Windows
-7、Windows 8、Windows 8.1、Windows 10桌面上安裝虛擬Windows XP執行許多懷舊遊戲軟體。
+XP系統。目前在台灣的[光南大批發以及](../Page/光南大批發.md "wikilink")[家樂福等賣場上仍有販售往日低配備需求國產電腦遊戲](../Page/家樂福.md "wikilink")，這些遊戲可以在Windows
+XP作業系統上執行，Windows XP系統可向下相容Windows 95、Windows 98、Windows me、Windows
+NT、Windows 2000以及3.5磁片相關軟體，現今一般使用者大多在最新作業系統例如Windows 7、Windows
+8、Windows 8.1、Windows 10桌面上安裝虛擬Windows XP執行許多懷舊遊戲軟體。
 
 ## 註釋
 
@@ -609,11 +610,11 @@ me、Windows NT、Windows 2000以及3.5磁片相關軟體，現今一般使用�
 
 83.
 
-84. [蓋棺定論！Windows
+84.
+
+85. [蓋棺定論！Windows
     XP的是非與功過](http://big5.pconline.com.cn/b5/pcedu.pconline.com.cn/softnews/gdpl/0803/1255985_3.html)
     -太平洋電腦網
-
-85.
 
 86.
 
@@ -624,18 +625,20 @@ me、Windows NT、Windows 2000以及3.5磁片相關軟體，現今一般使用�
 89.
 
 90.
+
 91.
-
 92.
+
 93.
+94.
 
-94.  關於Windows XP產品啟動的技術性細節
+95.  關於Windows XP產品啟動的技術性細節
 
-95.
 96.
-
 97.
 
 98.
 
-99. [-{zh-cn:互联网档案馆;zh-tw:網際網路檔案館;zh-hk:互聯網檔案館;zh-sg:互联网档案馆;}-](../Page/互联网档案馆.md "wikilink")
+99.
+
+100. [-{zh-cn:互联网档案馆;zh-tw:網際網路檔案館;zh-hk:互聯網檔案館;zh-sg:互联网档案馆;}-](../Page/互联网档案馆.md "wikilink")

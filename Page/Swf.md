@@ -1,6 +1,6 @@
 SWF 是 **<u>S</u>mall <u>W</u>eb <u>F</u>ormat** 的縮寫,
 讀作**swiff**），是用於多媒體，矢量圖形和ActionScript的Adobe
-Flash文件格式。源於FutureWave軟件，然後轉移到Macromedia，然後在Adobe的控制下，SWF文件可以包含不同程度的交互和功能的動畫或applet。它們也可包含在瀏覽器遊戲中。它的普及程度很高，現在超過99%的網絡使用者都可以讀取swf檔案，即使[任天堂](../Page/任天堂.md "wikilink")[Wii](../Page/Wii.md "wikilink")（使用[Opera](https://zh.wikipedia.org/wiki/Opera "wikilink")[瀏覽器的話](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")）、[Sony的](https://zh.wikipedia.org/wiki/Sony "wikilink")[PSP也能看到](https://zh.wikipedia.org/wiki/PSP "wikilink")。
+Flash文件格式。源於FutureWave軟件，然後轉移到Macromedia，然後在Adobe的控制下，SWF文件可以包含不同程度的交互和功能的動畫或applet。它們也可包含在瀏覽器遊戲中。它的普及程度很高，現在超過99%的網絡使用者都可以讀取swf檔案，即使[任天堂](../Page/任天堂.md "wikilink")[Wii](../Page/Wii.md "wikilink")（使用[Opera瀏覽器的話](https://zh.wikipedia.org/wiki/Opera瀏覽器 "wikilink")）、[Sony的](https://zh.wikipedia.org/wiki/Sony "wikilink")[PSP也能看到](https://zh.wikipedia.org/wiki/PSP "wikilink")。
 
 ## 介紹
 

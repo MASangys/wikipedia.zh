@@ -230,7 +230,8 @@ scalefont setfont`这样的命令串。
     - a webserver written in PostScript
   - [PostScript
     fractals](http://www.pvv.ntnu.no/~andersr/fractal/PostScript.html)
-  - [PostScript barcodes](http://www.terryburton.co.uk/barcodewriter/)
+  - [PostScript
+    barcodes](https://web.archive.org/web/20060613211944/http://www.terryburton.co.uk/barcodewriter/)
   - [PostScript HTML
     renderer](http://www.terryburton.co.uk/htmlrenderer/)
   - [A PostScript

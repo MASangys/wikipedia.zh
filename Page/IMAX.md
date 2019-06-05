@@ -32,7 +32,7 @@ Park的](https://zh.wikipedia.org/wiki/Balboa_Park "wikilink")開幕。直至200
 
 IMAX为了增强图像需要一个更大的电影的分辨率，而35毫米胶片的摄影机提供的水平分辨率约为6000，一个IMAX摄影机提供的水平分辨率为18000。
 
-### IMAX 3D数字摄影机
+### IMAX 3D數位摄影機
 
 3D digital camera，即IMAX公司於2011年推出的「Phantom 65 IMAX 3D
 camera」，為4K雙鏡頭3D攝影機，畫面比例1.9:1。
@@ -42,7 +42,7 @@ camera」，為4K雙鏡頭3D攝影機，畫面比例1.9:1。
 在系列第五部《[變形金剛5：最終騎士](https://zh.wikipedia.org/wiki/變形金剛5：最終騎士 "wikilink")》中，[麥可·貝首度採用IMAX](../Page/麥可·貝.md "wikilink")
 3D技术（即同时使用两台數位IMAX 3D攝影機交叠拍攝）实时拍攝了大量的3D画面。
 
-### IMAX 2D数字摄影机
+### IMAX 2D數位攝影機
 
 2D digital camera，即2015年推出的和Arri共同研發的「Arri Alexa
 65」，為4K解析度攝影機，畫面比例2.1:1。雖然聽名字感覺比3D要低一個等級，但實際上2D
@@ -144,7 +144,7 @@ Playback，無壓縮LPCM環繞聲軌）、立體音響系統及呈橢圓形分�
 <td><p>2D：260<br />
 3D：198</p></td>
 <td><p>12聲道音響系統<br />
-IMAX中國第一家IMAX数码 12聲道音響系統影院</p></td>
+IMAX香港第一家IMAX数码 12聲道音響系統影院</p></td>
 </tr>
 <tr class="even">
 <td><p>上海-幸福蓝海国际影城(龙湖宝山天街IMAX店)</p></td>
@@ -155,7 +155,7 @@ IMAX中國第一家IMAX数码 12聲道音響系統影院</p></td>
 <td><p>336.5712</p></td>
 <td><p>288</p></td>
 <td><p>12聲道音響系統<br />
-IMAX中國第二家IMAX数字 12聲道音響系統影院</p></td>
+IMAX中國第一家IMAX数字 12聲道音響系統影院</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a>-Shaw Theatres Lido IMAX</p></td>
@@ -207,22 +207,23 @@ IMAX中國第二家IMAX数字 12聲道音響系統影院</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>迪拜VOX Cinemas &amp; IMAX</p></td>
+<td><p>迪拜-VOX Cinemas &amp; IMAX</p></td>
 <td><p>IMAX激光</p></td>
 <td><p>2015年9月28日</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>23.86</p></td>
+<td><p>12.74</p></td>
+<td><p>303.9764</p></td>
 <td></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="even">
-<td><p>吹田市109 Cinemas Osaka Expo City</p></td>
+<td><p>大阪府吹田市<br />
+109シネマズ大阪エキスポシティ(109CINEMAS OSAKA-EXPOCITY )</p></td>
 <td><p>IMAX激光</p></td>
 <td><p>2015年11月19日</p></td>
-<td><p>26</p></td>
-<td><p>18</p></td>
-<td><p>468</p></td>
+<td><p>25.99</p></td>
+<td><p>17.98</p></td>
+<td><p>467.3002</p></td>
 <td><p>407</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
@@ -269,8 +270,8 @@ IMAX中國旗下第9家IMAX影院</p></td>
 2013年11月－2016年2月15日(IMAX數位)<br />
 2016年3月24日(IMAX雷射)</p></td>
 <td><p>28.80</p></td>
-<td><p>21.16</p></td>
-<td><p>609</p></td>
+<td><p>21.15</p></td>
+<td><p>609.12</p></td>
 <td><p>404</p></td>
 <td><p>於影城架構時期即設計為IMAX影廳<br />
 於2013年11月安装IMAX数位放映系统并正式开启IMAX与IMAX数位同时放映时代<br />
@@ -281,7 +282,7 @@ IMAX中國旗下第9家IMAX影院</p></td>
 2018年8月8日正式重新开幕</p></td>
 </tr>
 <tr class="odd">
-<td><p>昆明LCC光魔激光影城</p></td>
+<td><p>昆明大都LCC光魔激光影院</p></td>
 <td><p>IMAX激光</p></td>
 <td><p>2016年6月8日(IMAX激光)</p></td>
 <td><p>23.1</p></td>
@@ -294,9 +295,9 @@ IMAX中國旗下第9家IMAX影院</p></td>
 <td><p>多哈 Novo Mall of Qatar &amp; IMAX</p></td>
 <td><p>IMAX激光</p></td>
 <td><p>2017年1月1日</p></td>
-<td><p>28.7</p></td>
-<td><p>15.9</p></td>
-<td><p>456.33</p></td>
+<td><p>28.65</p></td>
+<td><p>15.88</p></td>
+<td><p>454.962</p></td>
 <td></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
@@ -304,9 +305,9 @@ IMAX中國旗下第9家IMAX影院</p></td>
 <td><p>首尔 CGV YONGSAN I'PARK mall</p></td>
 <td><p>IMAX激光</p></td>
 <td><p>2017年7月19日[2]</p></td>
-<td><p>31</p></td>
+<td><p>29.99</p></td>
 <td><p>22.4</p></td>
-<td><p>694.4</p></td>
+<td><p>671.776</p></td>
 <td><p>624</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
@@ -344,7 +345,7 @@ IMAX激光</p></td>
 <tr class="odd">
 <td><p>東京都豐島區 キュープラザ池袋</p></td>
 <td><p>IMAX激光</p></td>
-<td><p>预计2019年7月</p></td>
+<td><p>预计2019年7月19日</p></td>
 <td><p>25.849</p></td>
 <td><p>18.91</p></td>
 <td><p>488.80459</p></td>
@@ -416,8 +417,8 @@ IMAX激光</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2018年11月23日[5]</p></td>
 <td><p>17.4</p></td>
-<td><p>9</p></td>
-<td><p>156.6</p></td>
+<td><p>8.99</p></td>
+<td><p>156.426</p></td>
 <td><p>458</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
@@ -425,9 +426,9 @@ IMAX激光</p></td>
 <td><p><a href="../Page/名古屋市.md" title="wikilink">名古屋市</a>109 Cinemas Nagoya</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2018年11月23日[6]</p></td>
-<td><p>17.1</p></td>
+<td><p>17.09</p></td>
 <td><p>8.8</p></td>
-<td><p>155.76</p></td>
+<td><p>150.392</p></td>
 <td><p>407</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
@@ -590,8 +591,8 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>2009年6月19日[7]<br />
 2019年4月24日</p></td>
 <td><p>18.4</p></td>
-<td><p>9.8</p></td>
-<td><p>180.32</p></td>
+<td><p>9.81</p></td>
+<td><p>180.504</p></td>
 <td><p>349</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
@@ -602,18 +603,22 @@ IMAX公司全球第1000家IMAX®影院</p></td>
 <td><p>22.85</p></td>
 <td><p>11.76</p></td>
 <td><p>268.716</p></td>
-<td></td>
+<td><p>326</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="even">
 <td><p>大连万达影城(经开万达广场店)</p></td>
 <td><p>新一代IMAX激光</p></td>
 <td><p>2015年8月29日<br />
-预计2019年</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>362</p></td>
+预计2019年6月1日</p></td>
+<td><p>21.62<br />
+22.01</p></td>
+<td><p>11.51<br />
+11.51</p></td>
+<td><p>248.8462<br />
+253.3351</p></td>
+<td><p>362<br />
+344</p></td>
 <td><p>12聲道音響系統</p></td>
 </tr>
 <tr class="odd">

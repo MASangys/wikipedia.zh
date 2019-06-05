@@ -19,7 +19,7 @@ Eclipse的基础是[富客户机平台](https://zh.wikipedia.org/wiki/RCP "wikil
   - [JFace](https://zh.wikipedia.org/wiki/JFace "wikilink")（文件缓冲，文本处理，文本编辑器）
   - Eclipse工作台（即Workbench，包含视图（views）、编辑器（editors）、视角（perspectives）、和向导（wizards））
 
-Eclipse采用的技术是IBM公司开发的（[SWT](../Page/SWT.md "wikilink")），这是一种基于Java的窗口组件，类似Java本身提供的[AWT和](../Page/AWT.md "wikilink")[Swing窗口组件](https://zh.wikipedia.org/wiki/Swing "wikilink")；不过IBM声称SWT比其他Java窗口组件更有效率。Eclipse的用户界面还使用了GUI中间层JFace，从而简化了基于SWT的应用程序的构建。
+Eclipse采用的技术是IBM公司开发的（[SWT](../Page/SWT.md "wikilink")），这是一种基于Java的窗口组件，类似Java本身提供的[AWT和](../Page/AWT.md "wikilink")[Swing窗口组件](../Page/Swing_\(Java\).md "wikilink")；不过IBM声称SWT比其他Java窗口组件更有效率。Eclipse的用户界面还使用了GUI中间层JFace，从而简化了基于SWT的应用程序的构建。
 
 ### 插件
 
@@ -40,7 +40,7 @@ Eclipse由各种不同的计划组成。以下列出了部分计划，更完整�
   - **Eclipse测试和性能工具平台**（\[//www.eclipse.org/tptp/index.html
     TPTP\]）：提供一个允许软件开发者构建诸如测试调试、概况分析、基准评测等测试和性能工具的平台。
   - **Eclipse Web工具平台计划**（\[//www.eclipse.org/webtools/index.html
-    WTP\]）：用[Java企业版Web应用程序开发工具来扩展Eclipse平台](https://zh.wikipedia.org/wiki/J2EE "wikilink")。它由以下部分组成：[HTML](../Page/HTML.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、[JSP](../Page/JSP.md "wikilink")、[SQL](../Page/SQL.md "wikilink")、[XML](../Page/XML.md "wikilink")、[DTD](https://zh.wikipedia.org/wiki/DTD "wikilink")、[XSD和](https://zh.wikipedia.org/wiki/XSD "wikilink")[WSDL的源代码编辑器](../Page/WSDL.md "wikilink")；XSD和WSDL的图形界面编辑器；Java企业版的“项目性质”（project
+    WTP\]）：用[Java企业版Web应用程序开发工具来扩展Eclipse平台](https://zh.wikipedia.org/wiki/J2EE "wikilink")。它由以下部分组成：[HTML](../Page/HTML.md "wikilink")、[JavaScript](../Page/JavaScript.md "wikilink")、[CSS](https://zh.wikipedia.org/wiki/CSS "wikilink")、[JSP](../Page/JSP.md "wikilink")、[SQL](../Page/SQL.md "wikilink")、[XML](../Page/XML.md "wikilink")、[DTD](https://zh.wikipedia.org/wiki/文件类型描述 "wikilink")、[XSD和](https://zh.wikipedia.org/wiki/XSD "wikilink")[WSDL的源代码编辑器](../Page/WSDL.md "wikilink")；XSD和WSDL的图形界面编辑器；Java企业版的“项目性质”（project
     nature）、建构器（builder）和模型（model），与一个Java企业版的导航（navigator）；一个Web服务（Web
     service）向导和浏览器，还有一个[WS-I测试工具](https://zh.wikipedia.org/wiki/WS-I "wikilink")；最后是数据库访问查询的工具与模型。
   - **Eclipse[商业智能和](../Page/商业智能.md "wikilink")[报表工具计划](https://zh.wikipedia.org/wiki/报表 "wikilink")**（\[//www.eclipse.org/birt/

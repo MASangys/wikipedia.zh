@@ -467,8 +467,7 @@ Awards**，中文官方譯名為**Animax動畫大賞**，於2002年開始成立�
 
   - [Animax日本](http://www.animax.co.jp)
 
-  - [Animax亞洲](https://web.archive.org/web/20070217172845/http://www.animax-asia.com/)
-
+  - [Animax亞洲](http://www.animax-asia.com/)
 
   - [Animax台灣](http://www.animax-taiwan.com)
 

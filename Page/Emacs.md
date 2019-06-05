@@ -27,8 +27,9 @@ AI lab的[黑客Carl](../Page/黑客.md "wikilink")
 Mikkelsen已经给TECO加上了称作“Control-R”的编辑显示模式，使得屏幕能跟随用户的每次击键刷新显示。斯托曼重写了这一模式，使它运行得更有效率，后来又加入了[宏](https://zh.wikipedia.org/wiki/宏 "wikilink")，允许用户重新定义运行TECO程序的键位。
 
 这一新版的TECO立刻在AI实验室流行开来，并且很快积累起了大量自定义的宏，这些宏的名字通常就以“MAC”或者“MACS”结尾，意为“宏”（macro）。两年后，[蓋伊·史提爾二世承担起统一当时存在的各种键盘命令集的工作](https://zh.wikipedia.org/wiki/蓋伊·史提爾二世 "wikilink")。史提爾和斯托曼经过一夜奋战，最终由斯托曼完成了这一任务，包括一套扩展和注释新的宏包的工具。这个完成的系统被称作EMACS，代表“Editing
-MACroS”，也代表“E with
-MACroS”。根据斯托曼的说法，他采用这个名字是“因为当时\<E\>在ITS裡还没有被当作缩写用过”\[1\]。也有说法指出，当时[波士顿在MIT附近有家名为](../Page/波士顿.md "wikilink")“”的商店出售的[冰淇淋很受欢迎](../Page/冰淇淋.md "wikilink")，[Dave
+MACroS”，也代表“E with MACroS”。
+
+根据斯托曼的说法，他采用这个名字是“因为当时\<E\>在ITS裡还没有被当作缩写用过”\[1\]。也有说法指出，当时[波士顿在MIT附近有家名为](../Page/波士顿.md "wikilink")“”的商店出售的[冰淇淋很受欢迎](../Page/冰淇淋.md "wikilink")，[Dave
 Moon是那裡的老主顾](https://zh.wikipedia.org/wiki/Dave_Moon "wikilink")，他就将ITS上一个给文本排版的程序命名为BOLIO，然而斯托曼并不喜欢甚或根本不知道那种冰淇淋，此事后来成了黑客界的一桩公案。
 
 斯托曼意识到过多的定制、在开发过程中事实上的分支以及针对特殊用途的限制，威胁着Emacs的发展。后来他写道：

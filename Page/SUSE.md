@@ -1,5 +1,6 @@
-**SUSE**（發音/ˈsuːsə/\[1\]）是[Linux作業系統的](https://zh.wikipedia.org/wiki/Linux作業系統 "wikilink")[發行版之一](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，也是[德國的一個發行版](https://zh.wikipedia.org/wiki/德國 "wikilink")。SUSE屬於[Novell旗下的業務](../Page/Novell.md "wikilink")，它同時亦是Desktop
-Linux Consortium的發起成員之一。
+**SUSE**（發音/ˈsuːsə/\[1\]）是[Linux作業系統的](https://zh.wikipedia.org/wiki/Linux作業系統 "wikilink")[發行版之一](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，源自[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")。現時SUSE屬於[Novell旗下的業務](../Page/Novell.md "wikilink")，同時亦是[桌面
+Linux 聯盟](https://zh.wikipedia.org/wiki/桌面_Linux_聯盟 "wikilink")（Desktop
+Linux Consortium）的發起成員之一。
 
 ## 歷史
 
@@ -89,9 +90,6 @@ Linux OSS，還是試用版光碟，都可以於SUSE Linux釋出新版本後馬�
   - [Linux套件列表](https://zh.wikipedia.org/wiki/Linux套件列表 "wikilink")
 
 {{-}}
-
-[ru:Дистрибутивы SUSE
-Linux](https://zh.wikipedia.org/wiki/ru:Дистрибутивы_SUSE_Linux "wikilink")
 
 [Category:Linux发行版](https://zh.wikipedia.org/wiki/Category:Linux发行版 "wikilink")
 [Category:Linux公司](https://zh.wikipedia.org/wiki/Category:Linux公司 "wikilink")

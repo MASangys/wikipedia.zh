@@ -43,6 +43,7 @@ License](../Page/GMGPL.md "wikilink")：允许代码链接一些特殊情况，�
   - [GNU通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")
   - [GNU自由文档许可证](../Page/GNU自由文档许可证.md "wikilink")
   - [BSD许可证](../Page/BSD许可证.md "wikilink")
+  - [使用LGPL许可证的软件（分类）](https://zh.wikipedia.org/wiki/Category:使用LGPL许可证的软件 "wikilink")
 
 ## 參考資料
 
@@ -53,7 +54,7 @@ License](../Page/GMGPL.md "wikilink")：允许代码链接一些特殊情况，�
   - [LGPL v3非正式中译版3版](http://www.thebigfly.com/gnu/lgpl/lgpl-v3.php)
   - [GNU較寬鬆公共許可證（中譯版）1999年2月，2.1版](https://web.archive.org/web/20060720083337/http://www.linux.org.tw/CLDP/OLD/doc/LGPL.html)
   - [五种开源协议的比较（BSD,Apache,GPL,LGPL,MIT） -
-    整理](https://awguo.com/2007/06/23/%E4%BA%94%E7%A7%8D%E5%BC%80%E6%BA%90%E5%8D%8F%E8%B0%87%E7%9A%84%E6%AF%94%E8%BE%83bsdapachegpllgplmit-%E6%95%B4%E7%90%86/)
+    整理](https://awguo.com/2007/06/23/五种开源协谇的比较bsdapachegpllgplmit-整理/)
 
 [Category:版權](https://zh.wikipedia.org/wiki/Category:版權 "wikilink")
 [Category:自由軟體授權](https://zh.wikipedia.org/wiki/Category:自由軟體授權 "wikilink")

@@ -1,8 +1,6 @@
 **Linux**（
 ）是一種[自由和開放源碼的](../Page/自由及开放源代码软件.md "wikilink")[類UNIX](../Page/类Unix系统.md "wikilink")
-[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。该操作系统的[内核由](../Page/内核.md "wikilink")[林纳斯·托瓦兹在](../Page/林纳斯·托瓦兹.md "wikilink")
-1991 年 10 月 5
-日首次发布\[1\]\[2\]，在加上[使用者空間的](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")[應用程式之後](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，成為
+[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。该操作系统的[内核由](../Page/内核.md "wikilink")[林纳斯·托瓦兹在](../Page/林纳斯·托瓦兹.md "wikilink")1991年10月5日首次发布\[1\]\[2\]，在加上[使用者空間的](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")[應用程式之後](https://zh.wikipedia.org/wiki/應用程式 "wikilink")，成為
 Linux 作業系統。Linux
 也是[自由软件和](../Page/自由软件.md "wikilink")[开放源代码软件发展中最著名的例子](https://zh.wikipedia.org/wiki/开放源代码软件 "wikilink")。只要遵循
 [GNU 通用公共许可证](../Page/GNU通用公共许可证.md "wikilink")（GPL），任何个人和机构都可以自由地使用
@@ -128,7 +126,7 @@ Hat和](https://zh.wikipedia.org/wiki/Red_Hat "wikilink")[eBay是該項目的主
 
 基於其低廉成本與高度可設定性，Linux常常被應用於[嵌入式系統](../Page/嵌入式系统.md "wikilink")，例如[機上盒](https://zh.wikipedia.org/wiki/數位視訊轉換盒 "wikilink")、[行動電話及](../Page/移动电话.md "wikilink")[行動裝置等](../Page/移动设备.md "wikilink")。在行動電話上，Linux已經成為[IOS的主要競爭者](../Page/IOS.md "wikilink")；而在行動裝置上，則成為[Windows
 CE與](../Page/Windows_Embedded_Compact.md "wikilink")[Palm
-OS外之另一個選擇](../Page/Palm_OS.md "wikilink")。目前流行的[TiVo數位攝影機使用了經過客製化後的Linux](../Page/TiVo.md "wikilink")。此外，有不少硬體式的[網路防火牆及](../Page/防火墙.md "wikilink")[路由器](../Page/路由器.md "wikilink")，例如部份[LinkSys的產品](../Page/Linksys.md "wikilink")，其內部都是使用Linux來驅動、並採用了作業系統提供的防火牆及路由功能。
+OS之外另一個選擇](../Page/Palm_OS.md "wikilink")。目前流行的[TiVo數位攝影機使用了經過客製化後的Linux](../Page/TiVo.md "wikilink")。此外，有不少硬體式的[網路防火牆及](../Page/防火墙.md "wikilink")[路由器](../Page/路由器.md "wikilink")，例如部份[LinkSys的產品](../Page/Linksys.md "wikilink")，其內部都是使用Linux來驅動、並採用了作業系統提供的防火牆及路由功能。
 
 ### 個人電腦
 
@@ -166,7 +164,7 @@ traditional.png|[MATE](../Page/MATE.md "wikilink") <File:KDE> plasma
 5.png|[KDE Plasma](../Page/KDE_Plasma_5.md "wikilink")
 <File:XFCE-4.12-Desktop-standard.png>|[Xfce](../Page/Xfce.md "wikilink")
 <File:Lxde-desktop-full.png>|[LXDE](../Page/LXDE.md "wikilink")
-<File:LXQt> 0.10 - Ambiance.png|
+<File:LXQt> 0.10 - Ambiance.png|[LXQt](../Page/LXQt.md "wikilink")
 <File:2010-04-24-133031_1280x800_scrot.png>|[Openbox](../Page/Openbox.md "wikilink")
 <File:Fluxbox.png>|[Fluxbox](../Page/Fluxbox.md "wikilink")
 <File:I3_window_manager_screenshot.png>|[i3](https://zh.wikipedia.org/wiki/i3_\(窗口管理器\) "wikilink")
@@ -176,8 +174,8 @@ screenshot.jpg|[Enlightenment](../Page/Enlightenment.md "wikilink")
 16.04LTS.png|[Unity](../Page/Unity_\(使用者介面\).md "wikilink")
 <File:Linux> Mint 19 "Tara"
 (Cinnamon).png|[Cinnamon](../Page/Cinnamon.md "wikilink")
-<File:Elementary> OS Loki
-0.4.png|[Pantheon](https://zh.wikipedia.org/wiki/elementary_OS "wikilink")
+<File:Elementary> OS 5.0 Juno with Croatian
+Wikipedia.png|[Pantheon](https://zh.wikipedia.org/wiki/elementary_OS "wikilink")
 <File:Budgie_Desktop_Environment.png>| <File:Screenshot> of Trinity
 Desktop Environment (TDE) R14.0.5
 Development.png|[Trinity](../Page/Trinity桌面环境.md "wikilink")

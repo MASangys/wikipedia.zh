@@ -123,7 +123,7 @@ BS Premium頻道取代](../Page/NHK_BS_Premium.md "wikilink")）在一段时间�
 
 ### 播出时间
 
-自（1967年）以来，《NHK红白歌合战》的播出时间一度被固定在21:00（[日本标准时间](https://zh.wikipedia.org/wiki/日本标准时间 "wikilink")，以下同）开始。而从节目分为两部分播出之后，也就是从（1989年）开始，播出时间就在19:00到20:00之间。在上、下部分之间，NHK綜合台会播出当年最后一档《[NHK新闻](https://zh.wikipedia.org/wiki/NHK新闻 "wikilink")》。
+自（1967年）以来，《NHK红白歌合战》的播出时间一度被固定在21:00（[日本标准时间](https://zh.wikipedia.org/wiki/日本标准时间 "wikilink")，以下同）开始。而从节目分为两部分播出之后，也就是从1989年（[平成元年](../Page/平成.md "wikilink")）开始，播出时间就在19:00到20:00之间。在上、下部分之间，NHK綜合台会播出当年最后一档《[NHK新闻](https://zh.wikipedia.org/wiki/NHK新闻 "wikilink")》。
 
 而节目结束时间则是自（1962年）开始，NHK綜合台就是在23:45结束（具体结束时间要看各转播台的具体安排）。而在本节目结束之后，固定是由《》接档。
 
@@ -2359,7 +2359,7 @@ Search有相关](../Page/Video_Research.md "wikilink")[收视率记录](https://
 35. [红組勝利の内訳…審査員票で圧倒、視聴者票を覆した -
     日刊スポーツ](https://www.nikkansports.com/entertainment/news/1759545.html)（2017年1月1日）
 
-36. [NHK総合「紅白歌合戦」｜ビデオリサーチ](http://www.videor.co.jp/data/ratedata/program/01kouhaku.htm)
+36.
 
 37. 『日経エンタテインメント\!』2004年3月号、122頁。
 

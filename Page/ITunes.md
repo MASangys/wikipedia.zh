@@ -1,3 +1,13 @@
+{{ About | 一款应用程序 | 在线媒体服务 | iTunes Store }}
+
+{{ trivia | time = 2015-07-02T19:48:55+00:00 }}
+
+{{ noteTA
+
+| G1 = IT | 1 = TV
+
+}}
+
 **iTunes**是一款[媒體播放器的應用程式](https://zh.wikipedia.org/wiki/媒體播放器 "wikilink")，2001年1月10日由[蘋果電腦在](https://zh.wikipedia.org/wiki/蘋果電腦 "wikilink")[舊金山的](https://zh.wikipedia.org/wiki/舊金山 "wikilink")推出，用來播放以及管理數位音樂與視訊檔案，是最受歡迎的管理[iPod与](https://zh.wikipedia.org/wiki/iPod "wikilink")[iOS设备檔案的主要工具之一](https://zh.wikipedia.org/wiki/iOS "wikilink")。此外，iTunes能連線到[iTunes
 Store](https://zh.wikipedia.org/wiki/iTunes_Store "wikilink")（在有[網路連線且蘋果公司在當地有開放該服務的情況下](https://zh.wikipedia.org/wiki/互聯網 "wikilink")），以便下載購買的[數位音樂](../Page/數位音訊.md "wikilink")、[音樂影片](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")、[電視節目](https://zh.wikipedia.org/wiki/電視節目 "wikilink")、[iOS应用](https://zh.wikipedia.org/wiki/iOS "wikilink")（在iOS
 11推出后去除）、各種[Podcast以及](https://zh.wikipedia.org/wiki/Podcast "wikilink")[標準長片](https://zh.wikipedia.org/wiki/電影 "wikilink")。2015年起电脑端的[Apple

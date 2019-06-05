@@ -40,7 +40,7 @@ myfile.tex`亦能输出[PDF文件](https://zh.wikipedia.org/wiki/PDF "wikilink")
 
 以[二次方程为例](../Page/二次方程.md "wikilink")，
 
-所有方程式在中都是以一对$符号括住。如果要使公式放在新行置中，那么就以$$取代$。例如：
+所有方程式在中都是以一对$符号围住。如果要使公式另起一行居中，那么就用$$取代$。例如：
 
 ### <span style="font-weight: normal;"><span style="font-family: cmr10, serif"></span><span style="vertical-align:0.8ex;margin-left:-0.4em;margin-right:-0.1em;text-transform:uppercase; font-size: 0.6em; font-family: Georgia, 'Times New Roman', 'Sans Serif', Serif;">a</span><span style="font-family: cmr10, serif"></span><span style='vertical-align:-0.5ex;margin-left:-0.1667em;margin-right:-0.125em;text-transform:uppercase'></span></span></span>
 

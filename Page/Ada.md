@@ -1,8 +1,7 @@
 {{ infobox programming language | name = Ada | logo = | paradigm =
 [多范式](../Page/编程范型.md "wikilink") | year = 1980年 | designer = -{}-
 
-  - MIL-STD-1815/Ada 83: [Jean
-    Ichbiah](https://zh.wikipedia.org/wiki/Jean_Ichbiah "wikilink")
+  - MIL-STD-1815/Ada 83:
 
   - Ada 95: Tucker Taft
 
@@ -11,14 +10,11 @@
 | developer = | latest_release_version = Ada 2005 |
 latest_release_date =  | latest_preview_version = Ada 2012\[1\] |
 latest_preview_date =  | turing-complete = Yes | typing =
-[静态](https://zh.wikipedia.org/wiki/静态类型 "wikilink")、[强](https://zh.wikipedia.org/wiki/強型別 "wikilink")、[安全](../Page/型別安全.md "wikilink")、[标明](https://zh.wikipedia.org/wiki/标明类型系統 "wikilink")
+[静态](https://zh.wikipedia.org/wiki/静态类型 "wikilink")、[强](https://zh.wikipedia.org/wiki/強型別 "wikilink")、[安全](../Page/型別安全.md "wikilink")、
 | implementations = AdaCore
 [GNAT](https://zh.wikipedia.org/wiki/GNAT "wikilink"),
-[Green Hills
-Software](https://zh.wikipedia.org/wiki/Green_Hills_Software "wikilink")
 Optimising Ada 95 compiler,
-[DDC-I](https://zh.wikipedia.org/wiki/DDC-I "wikilink") Score |
-influenced_by = [ALGOL 68](../Page/ALGOL.md "wikilink"),
+Score | influenced_by = [ALGOL 68](../Page/ALGOL.md "wikilink"),
 [Pascal](../Page/Pascal_\(程式語言\).md "wikilink"),
 [C++](../Page/C++.md "wikilink")（Ada 95）,
 [Smalltalk](../Page/Smalltalk.md "wikilink")（Ada 95）,
@@ -37,9 +33,10 @@ Ada Programming }}
 
 ## 重要特征
 
-Ada语言最早是针对[嵌入式和](https://zh.wikipedia.org/wiki/嵌入式 "wikilink")[实时系统设计的](https://zh.wikipedia.org/wiki/实时系统 "wikilink")，并且在现今依然在这些方面广泛使用。Ada95版，是由INTERMETRICS公司的塔克·塔夫特于1992到1995年间设计的，当时主要是希望改进对于系统、数字、财务软件编程的支持。
+Ada语言最早是针对[嵌入式和](https://zh.wikipedia.org/wiki/嵌入式 "wikilink")[-{zh-hans:实时计算;
+zh-tw:即時運算}-设计的](../Page/实时计算.md "wikilink")，并且在现今依然在这些方面广泛使用。Ada95版，是由INTERMETRICS公司的塔克·塔夫特于1992到1995年间设计的，当时主要是希望改进对于系统、数字、财务软件编程的支持。
 
-Ada语言的重要特征就是其嵌入式风格，[模块化设计](https://zh.wikipedia.org/wiki/模块化设计 "wikilink")，编译检查，[平行处理](https://zh.wikipedia.org/wiki/平行处理 "wikilink")，[异常处理及](../Page/异常处理.md "wikilink")[泛型编程](https://zh.wikipedia.org/wiki/泛型编程 "wikilink")。Ada在1995年加入了对[面向对象设计的支持](../Page/面向对象设计.md "wikilink")，包括动态分配等。
+Ada语言的重要特征就是其嵌入式风格，，编译检查，[平行处理](https://zh.wikipedia.org/wiki/平行处理 "wikilink")，[异常处理及](../Page/异常处理.md "wikilink")[泛型编程](https://zh.wikipedia.org/wiki/泛型编程 "wikilink")。Ada在1995年加入了对[面向对象设计的支持](../Page/面向对象设计.md "wikilink")，包括动态分配等。
 
 Ada的编译检查主要是针对没有分配的内存读写的保护，[堆栈溢出错误](https://zh.wikipedia.org/wiki/堆栈溢出 "wikilink")，单个错误空闲，队列读写错误以及其他可以避免的小问题。这些检查可以在为增加效率的情况下被取消，但是在编译的时候他们却能带来很高的效率。同样它也包括对程序的严正的设置。因为这些原因，它被广泛应用于一些非常重要的系统中，例如[航空电子学](https://zh.wikipedia.org/wiki/航空电子学 "wikilink")，[武器及航天飞行器的操作系统中](../Page/武器.md "wikilink")。
 

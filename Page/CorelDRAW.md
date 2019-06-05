@@ -68,6 +68,9 @@ CorelDRAW。CorelDRAW 1.0
   - [CorelDRAW Graphics Suite
     2018](https://zh.wikipedia.org/wiki/CorelDRAW_Graphics_Suite_2018 "wikilink")
     (2018年)
+  - [CorelDRAW Graphics Suite
+    2019](https://zh.wikipedia.org/wiki/CorelDRAW_Graphics_Suite_2019 "wikilink")
+    (2019年)
 
 ### 读写支持 /版本特点
 

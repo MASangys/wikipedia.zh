@@ -1,4 +1,5 @@
-**赫伯特·乔治·威尔斯**（，），通称**H·G·威尔斯**（）\[1\]，[英国著名](https://zh.wikipedia.org/wiki/英国 "wikilink")[小说家](https://zh.wikipedia.org/wiki/小说家 "wikilink")，新闻[记者](https://zh.wikipedia.org/wiki/记者 "wikilink")、[政治家](../Page/政治家.md "wikilink")、[社会学家和](https://zh.wikipedia.org/wiki/社会学家 "wikilink")[历史学家](https://zh.wikipedia.org/wiki/历史学家 "wikilink")。他创作的[科幻小说对该领域影响深远](../Page/科幻小说.md "wikilink")，如“[时间旅行](../Page/时间旅行.md "wikilink")”、“[外星人入侵](https://zh.wikipedia.org/wiki/外星人入侵 "wikilink")”、“[反乌托邦](../Page/反乌托邦.md "wikilink")”等都是20世纪科幻小说中的主流话题。
+**赫伯特·乔治·威尔斯**（，），通称**H·G·威尔斯**（）\[1\]，[英国著名](https://zh.wikipedia.org/wiki/英国 "wikilink")[小说家](https://zh.wikipedia.org/wiki/小说家 "wikilink")，新闻[记者](https://zh.wikipedia.org/wiki/记者 "wikilink")、[政治家](../Page/政治家.md "wikilink")、[社会学家和](https://zh.wikipedia.org/wiki/社会学家 "wikilink")[历史学家](https://zh.wikipedia.org/wiki/历史学家 "wikilink")。他创作的[科幻小说对该领域影响深远](../Page/科幻小说.md "wikilink")，如“[时间旅行](../Page/时间旅行.md "wikilink")”、“[外星人入侵](https://zh.wikipedia.org/wiki/外星人入侵 "wikilink")”、“[反乌托邦](../Page/反乌托邦.md "wikilink")”等都是20世纪科幻小说中的主流话题，科幻作家布里安·阿尔迪斯（Brian
+Aldiss）将威尔斯称作“科幻小说界的[莎士比亚](https://zh.wikipedia.org/wiki/莎士比亚 "wikilink")”\[2\]。
 
 ## 早年生活
 
@@ -75,9 +76,9 @@ Million）中他大胆设想在[自然选择影响下未来人类的形象](../P
 
 ## 影響
 
-威尔斯曾被提名1921年、1932年、1935年和1946年的[諾貝爾文學獎](https://zh.wikipedia.org/wiki/諾貝爾文學獎 "wikilink")\[2\]。
+威尔斯曾被提名1921年、1932年、1935年和1946年的[諾貝爾文學獎](https://zh.wikipedia.org/wiki/諾貝爾文學獎 "wikilink")\[3\]。
 
-2009年9月，[Google網站特意在其首頁標誌換上](../Page/Google.md "wikilink")[飛碟圖案及一組指向](../Page/不明飞行物.md "wikilink")《世界大戰》中外星人登陸地點的[經緯度座標](https://zh.wikipedia.org/wiki/經緯度 "wikilink")，以紀念威爾斯143歲冥誕\[3\]。
+2009年9月，[Google網站特意在其首頁標誌換上](../Page/Google.md "wikilink")[飛碟圖案及一組指向](../Page/不明飞行物.md "wikilink")《世界大戰》中外星人登陸地點的[經緯度座標](https://zh.wikipedia.org/wiki/經緯度 "wikilink")，以紀念威爾斯143歲冥誕\[4\]。
 
 ## 參考文獻
 
@@ -121,3 +122,4 @@ Million）中他大胆设想在[自然选择影响下未来人类的形象](../P
     Stableford](https://zh.wikipedia.org/wiki/Brian_Stableford "wikilink").
 2.
 3.
+4.

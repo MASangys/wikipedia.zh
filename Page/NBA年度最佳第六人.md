@@ -183,14 +183,14 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2004-05_NBA赛季.md" title="wikilink">2004-05</a></p></td>
-<td><p><a href="../Page/本·戈登.md" title="wikilink">-{zh-hans:本·戈登;zh-hk:班·哥頓;zh-tw:本·高登;}-</a></p></td>
+<td><p><a href="../Page/本·戈登.md" title="wikilink">-{zh-hans:本·戈登;zh-hk:班·哥頓;zh-tw:本·高登;}-</a>^</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/篮球位置" title="wikilink">后卫</a></p></td>
 <td><p>{{#tag:ref|<a href="../Page/本·戈登.md" title="wikilink">-{zh-hans:本·戈登;zh-hk:班·哥頓;zh-tw:本·高登;}-生于</a><a href="../Page/英格兰.md" title="wikilink">英格兰</a>，但是在美国长大，所以拥有英美双重国籍[9]。|group="注"}}</p></td>
 <td><p><a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2005-06_NBA赛季" title="wikilink">2005-06</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/麦克·米勒" title="wikilink">-{zh-hans:麦克·米勒;zh-hk:麥克·米拿;zh-tw:麥克·米勒;}-</a>^</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/麦克·米勒" title="wikilink">-{zh-hans:麦克·米勒;zh-hk:麥克·米拿;zh-tw:麥克·米勒;}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/篮球位置" title="wikilink">前锋</a>/<a href="https://zh.wikipedia.org/wiki/篮球位置" title="wikilink">后卫</a></p></td>
 <td></td>
 <td><p><a href="../Page/孟菲斯灰熊.md" title="wikilink">孟菲斯灰熊</a></p></td>
@@ -204,14 +204,14 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2007-08_NBA赛季.md" title="wikilink">2007-08</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/马努·吉诺比利" title="wikilink">马努·吉诺比利</a>^</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/马努·吉诺比利" title="wikilink">马努·吉诺比利</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/篮球位置" title="wikilink">后卫</a></p></td>
 <td></td>
 <td><p><a href="../Page/圣安东尼奥马刺.md" title="wikilink">圣安东尼奥马刺</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2008-09_NBA赛季.md" title="wikilink">2008-09</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/贾森·特里" title="wikilink">贾森·特里</a>^</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/贾森·特里" title="wikilink">贾森·特里</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/篮球位置" title="wikilink">后卫</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/达拉斯小牛" title="wikilink">达拉斯小牛</a></p></td>

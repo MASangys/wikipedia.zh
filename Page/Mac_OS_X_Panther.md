@@ -78,7 +78,7 @@ v10.4](https://zh.wikipedia.org/wiki/Mac_OS_X_v10.4 "wikilink")「Tiger」之前
 ## 外部連結
 
   - [Apple: Mac OS X 10.3: Chart of available Mac OS software
-    updates](http://docs.info.apple.com/article.html?artnum=25633)
+    updates](https://web.archive.org/web/20080309074332/http://docs.info.apple.com/article.html?artnum=25633)
   - [Ars Technica: Mac OS X 10.3
     Panther](http://arstechnica.com/reviews/os/macosx-10.3.ars)
 

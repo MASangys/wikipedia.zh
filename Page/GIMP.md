@@ -100,7 +100,7 @@ kit）的在GIMP的后续开发中产生。GTK+由其先前版本GTK（不带加
 
 `|-`
 `!仅导出`
-`|GIMP可导出`[`MNG格式图像`](https://zh.wikipedia.org/wiki/MNG "wikilink")`（仅在Linux版本）、`[`HTML`](../Page/HTML.md "wikilink")`（作为有色彩单元的表）、`[`C语言源代码`](https://zh.wikipedia.org/wiki/C语言 "wikilink")`（作为数组）和`[`ASCII艺术`](../Page/ASCII艺术.md "wikilink")`（通过插件实现），即使不能读取这类格式。`
+`|GIMP可导出`[`MNG格式图像`](https://zh.wikipedia.org/wiki/MNG "wikilink")`（仅在Linux版本）、`[`HTML`](../Page/HTML.md "wikilink")`（作为有色彩单元的表）、`[`C语言源代码`](https://zh.wikipedia.org/wiki/C语言 "wikilink")`（作为数组）和`[`ASCII艺术`](../Page/ASCII艺术.md "wikilink")`（通过插件实现），即使不能读取这类格式。這個有中文版`
 `|}`
 
 ## 开发进度

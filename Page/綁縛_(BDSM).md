@@ -8,7 +8,6 @@
 
 ## 相关联系
 
-[Gefährdete_Regionen_in_der_Grundhaltung_einer_klassischen_Oberkörperbondage.jpg](https://zh.wikipedia.org/wiki/File:Gefährdete_Regionen_in_der_Grundhaltung_einer_klassischen_Oberkörperbondage.jpg "fig:Gefährdete_Regionen_in_der_Grundhaltung_einer_klassischen_Oberkörperbondage.jpg")
 在美國的研究顯示，大約有一半的[男人覺得將人綁縛起來聽起來是](https://zh.wikipedia.org/wiki/男人 "wikilink")[情色的](../Page/情色.md "wikilink")，許多女人也如此認為。不過，就如同任何關於性想法與性行為的研究一樣，目前可得的研究資料操作得並非很好，而一些做得最好的研究則已經過時，绑缚行为现在以非情色的方式为主，变得纯粹是一种爱好而已。
 
 大眾對將緊縛作為一種个人爱好的接受程度以緩慢的速度上升，人们开始理解并且接受这种爱好。在1970年代受歡迎的主流性愛手冊《The Joy of

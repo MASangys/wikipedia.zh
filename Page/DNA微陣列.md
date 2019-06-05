@@ -106,7 +106,7 @@ Hybridization，aCGH或稱Chromosomal Microarray Analysis，CMA）
     Analysis](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.0000015)
 
   - [Rundown of microarray
-    technology](http://www.genome.gov/page.cfm?pageID=10000533)
+    technology](https://web.archive.org/web/20150924040600/http://www.genome.gov/page.cfm?pageID=10000533)
 
   - [Microarray - How does it
     work?](http://www.unsolvedmysteries.oregonstate.edu/microarray_07)

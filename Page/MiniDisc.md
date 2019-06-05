@@ -59,5 +59,6 @@ Walkman随身听产品的用户。
 
 [Category:消費電子產品](https://zh.wikipedia.org/wiki/Category:消費電子產品 "wikilink")
 [Category:索尼](https://zh.wikipedia.org/wiki/Category:索尼 "wikilink")
+[Category:日本發明](https://zh.wikipedia.org/wiki/Category:日本發明 "wikilink")
 
 1.

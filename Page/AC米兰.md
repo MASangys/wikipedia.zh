@@ -215,6 +215,19 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/2018年至2019年意大利足球甲級聯賽" title="wikilink">2018-19年</a></p></td>
+<td><p>第5位</p></td>
+<td><p>68</p></td>
+<td><p>38</p></td>
+<td><p>19</p></td>
+<td><p>11</p></td>
+<td><p>8</p></td>
+<td><p>55</p></td>
+<td><p>36</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/詹納羅·加圖索" title="wikilink">-{zh-hans:詹納羅·加圖索;zh-hk:贊拿路·加度素}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱樂部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a> <small>(90分)</small></p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2017年至2018年意大利足球甲級聯賽" title="wikilink">2017-18年</a></p></td>
 <td><p>第6名</p></td>
 <td><p>64</p></td>
@@ -227,7 +240,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/詹納羅·加圖索" title="wikilink">-{zh-hans:詹納羅·加圖索;zh-hk:贊拿路·加度素}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱樂部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a> <small>(95分)</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2016年至2017年意大利足球甲級聯賽" title="wikilink">2016-17年</a></p></td>
 <td><p>第6名</p></td>
 <td><p>63</p></td>
@@ -240,7 +253,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/温琴佐·蒙特拉" title="wikilink">-{zh-hans:温琴佐·蒙特拉;zh-hk:雲遜素·蒙迪拿}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱樂部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a> <small>(91分)</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2015年至2016年意大利足球甲級聯賽" title="wikilink">2015-16年</a></p></td>
 <td><p>第7名</p></td>
 <td><p>57</p></td>
@@ -250,10 +263,11 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p>11</p></td>
 <td><p>49</p></td>
 <td><p>43</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/斯尼薩·米哈伊洛維奇" title="wikilink">-{zh-hans:斯尼薩·米哈伊洛維奇;zh-hk:施尼沙·米赫洛域}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/斯尼薩·米哈伊洛維奇" title="wikilink">-{zh-hans:斯尼薩·米哈伊洛維奇;zh-hk:施尼沙·米赫洛域}-</a><br />
+<a href="https://zh.wikipedia.org/wiki/克里斯蒂安·布羅基" title="wikilink">克里斯蒂安·布羅基</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱樂部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a> <small>(91分)</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2014年至2015年意大利足球甲級聯賽" title="wikilink">2014-15年</a></p></td>
 <td><p>第10名</p></td>
 <td><p>52</p></td>
@@ -266,7 +280,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="../Page/菲利普·因扎吉.md" title="wikilink">-{zh-hans:菲利普·因札吉;zh-hk:菲利波·恩沙基}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱樂部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a> <small>(87分)</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2013年至2014年意大利足球甲級聯賽" title="wikilink">2013-14年</a></p></td>
 <td><p>第8名</p></td>
 <td><p>57</p></td>
@@ -276,10 +290,11 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p>13</p></td>
 <td><p>57</p></td>
 <td><p>49</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/克拉倫斯·西多夫" title="wikilink">-{zh-hans:克拉倫斯·西多夫;zh-hk:克拉倫斯·施多夫}-</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬西米利亞諾·阿萊格里" title="wikilink">馬西米利亞諾·阿萊格里</a><br />
+<a href="https://zh.wikipedia.org/wiki/克拉倫斯·西多夫" title="wikilink">-{zh-hans:克拉倫斯·西多夫;zh-hk:克拉倫斯·施多夫}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱樂部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a> <small>(102分)</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2012年至2013年意大利足球甲級聯賽.md" title="wikilink">2012-13年</a></p></td>
 <td><p>季軍</p></td>
 <td><p>72</p></td>
@@ -292,7 +307,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/馬西米利亞諾·阿萊格里" title="wikilink">馬西米利亞諾·阿萊格里</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱乐部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a> <small>(87分)</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2011年至2012年意大利足球甲级联赛" title="wikilink">2011-12年</a></p></td>
 <td><p>亞軍</p></td>
 <td><p>80</p></td>
@@ -305,7 +320,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/馬西米利亞諾·阿莱格里" title="wikilink">馬西米利亞諾·阿莱格里</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱乐部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a> <small>(84分)</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2010年至2011年意大利足球甲级联赛" title="wikilink">2010-11年</a></p></td>
 <td><p>冠军</p></td>
 <td><p>82</p></td>
@@ -318,7 +333,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/馬西米利亞諾·阿莱格里" title="wikilink">馬西米利亞諾·阿莱格里</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Scudetto.svg" title="fig:Scudetto.svg">Scudetto.svg</a><small>（第18次）</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2009年至2010年意大利足球甲级联赛" title="wikilink">2009-10年</a></p></td>
 <td><p>季軍</p></td>
 <td><p>70</p></td>
@@ -331,7 +346,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/莱昂纳多·阿勞若" title="wikilink">-{zh-hans:萊昂納多·阿勞若;zh-hk:李安納度·阿勞若}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/国际米兰足球俱乐部" title="wikilink">國際米蘭</a> <small>(82分)</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2008年至2009年意大利足球甲级联赛" title="wikilink">2008-09年</a></p></td>
 <td><p>季軍</p></td>
 <td><p>74</p></td>
@@ -344,7 +359,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="../Page/卡洛·安切洛蒂.md" title="wikilink">-{zh-hans:卡洛·安切洛蒂;zh-hk:卡羅·安察洛堤}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/國際米蘭" title="wikilink">國際米蘭</a> <small>(84分)</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2007年至2008年意大利足球甲级联赛" title="wikilink">2007-08年</a></p></td>
 <td><p>第5名</p></td>
 <td><p>64</p></td>
@@ -357,7 +372,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="../Page/卡洛·安切洛蒂.md" title="wikilink">-{zh-hans:卡洛·安切洛蒂;zh-hk:卡羅·安察洛堤}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/國際米蘭" title="wikilink">國際米蘭</a> <small>(85分)</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2006年至2007年意大利足球甲级联赛" title="wikilink">2006-07年</a></p></td>
 <td><p>第4名</p></td>
 <td><p>69</p></td>
@@ -370,7 +385,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="../Page/卡洛·安切洛蒂.md" title="wikilink">-{zh-hans:卡洛·安切洛蒂;zh-hk:卡羅·安察洛堤}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/國際米蘭" title="wikilink">國際米蘭</a> <small>(97分)</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2005年至2006年意大利足球甲级联赛.md" title="wikilink">2005-06年</a></p></td>
 <td><p>亞軍→季軍</p></td>
 <td><p>88</p></td>
@@ -383,7 +398,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="../Page/卡洛·安切洛蒂.md" title="wikilink">-{zh-hans:卡洛·安切洛蒂;zh-hk:卡羅·安察洛堤}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/國際米蘭" title="wikilink">國際米蘭</a> <small>(76分)</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2004年至2005年意大利足球甲级联赛.md" title="wikilink">2004-05年</a></p></td>
 <td><p>亞軍</p></td>
 <td><p>79</p></td>
@@ -396,7 +411,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="../Page/卡洛·安切洛蒂.md" title="wikilink">-{zh-hans:卡洛·安切洛蒂;zh-hk:卡羅·安察洛堤}-</a></p></td>
 <td><p><s><a href="../Page/尤文图斯足球俱乐部.md" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a></s></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2003年至2004年意大利足球甲级联赛.md" title="wikilink">2003-04年</a></p></td>
 <td><p>冠軍</p></td>
 <td><p>82</p></td>
@@ -409,7 +424,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="../Page/卡洛·安切洛蒂.md" title="wikilink">-{zh-hans:卡洛·安切洛蒂;zh-hk:卡羅·安察洛堤}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Scudetto.svg" title="fig:Scudetto.svg">Scudetto.svg</a><small>（第17次）</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2002年至2003年意大利足球甲级联赛.md" title="wikilink">2002-03年</a></p></td>
 <td><p>季軍</p></td>
 <td><p>61</p></td>
@@ -422,7 +437,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="../Page/卡洛·安切洛蒂.md" title="wikilink">-{zh-hans:卡洛·安切洛蒂;zh-hk:卡羅·安察洛堤}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱乐部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/2001年至2002年意大利足球甲级联赛.md" title="wikilink">2001-02年</a></p></td>
 <td><p>第4名</p></td>
 <td><p>55</p></td>
@@ -435,7 +450,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="../Page/卡洛·安切洛蒂.md" title="wikilink">-{zh-hans:卡洛·安切洛蒂;zh-hk:卡羅·安察洛堤}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱乐部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/2000年至2001年意大利足球甲级联赛.md" title="wikilink">2000-01年</a></p></td>
 <td><p>第6名</p></td>
 <td><p>49</p></td>
@@ -445,10 +460,12 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p>9</p></td>
 <td><p>56</p></td>
 <td><p>46</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/沙哲朗尼" title="wikilink">沙哲朗尼</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沙哲朗尼" title="wikilink">沙哲朗尼</a><br />
+<a href="https://zh.wikipedia.org/wiki/切薩雷·馬爾蒂尼" title="wikilink">-{zh-hans:切薩雷·馬爾蒂尼;zh-hk:施薩·馬甸尼}-</a><br />
+<a href="https://zh.wikipedia.org/wiki/毛羅·塔索蒂" title="wikilink">-{zh-hans:毛羅·塔索蒂;zh-hk:泰索迪}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/罗马足球俱乐部" title="wikilink">羅馬</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1999年至2000年意大利足球甲级联赛.md" title="wikilink">1999-00年</a></p></td>
 <td><p>季軍</p></td>
 <td><p>61</p></td>
@@ -461,7 +478,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/沙哲朗尼" title="wikilink">沙哲朗尼</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拉齐奥足球俱乐部" title="wikilink">-{zh-hans:拉齊奥;zh-hk:祖雲達斯}-</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1998年至1999年意大利足球甲级联赛.md" title="wikilink">1998-99年</a></p></td>
 <td><p>冠軍</p></td>
 <td><p>70</p></td>
@@ -474,7 +491,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/沙哲朗尼" title="wikilink">沙哲朗尼</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Scudetto.svg" title="fig:Scudetto.svg">Scudetto.svg</a><small>（第16次）</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1997年至1998年意大利足球甲级联赛.md" title="wikilink">1997-98年</a></p></td>
 <td><p>第10名</p></td>
 <td><p>44</p></td>
@@ -487,7 +504,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="../Page/法比奥·卡佩罗.md" title="wikilink">-{zh-hans:法比奥·卡佩罗;zh-hk:法比奧·卡比路}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱乐部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1996年至1997年意大利足球甲级联赛.md" title="wikilink">1996-97年</a></p></td>
 <td><p>第11名</p></td>
 <td><p>43</p></td>
@@ -500,7 +517,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱乐部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1995年至1996年意大利足球甲级联赛.md" title="wikilink">1995-96年</a></p></td>
 <td><p>冠軍</p></td>
 <td><p>73</p></td>
@@ -513,7 +530,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/法比奧·卡佩罗" title="wikilink">-{zh-hans:法比奥·卡佩罗;zh-hk:法比奧·卡比路}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Scudetto.svg" title="fig:Scudetto.svg">Scudetto.svg</a><small>（第15次）</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1994年至1995年意大利足球甲级联赛.md" title="wikilink">1994-95年</a></p></td>
 <td><p>第4名</p></td>
 <td><p>60</p></td>
@@ -526,7 +543,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/法比奧·卡佩罗" title="wikilink">-{zh-hans:法比奥·卡佩罗;zh-hk:法比奧·卡比路}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱乐部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1993年至1994年意大利足球甲级联赛.md" title="wikilink">1993-94年</a></p></td>
 <td><p>冠軍</p></td>
 <td><p>69</p></td>
@@ -539,7 +556,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/法比奧·卡佩罗" title="wikilink">-{zh-hans:法比奥·卡佩罗;zh-hk:法比奧·卡比路}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Scudetto.svg" title="fig:Scudetto.svg">Scudetto.svg</a><small>（第14次）</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1992年至1993年意大利足球甲级联赛.md" title="wikilink">1992-93年</a></p></td>
 <td><p>冠軍</p></td>
 <td><p>50</p></td>
@@ -552,7 +569,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/法比奧·卡佩罗" title="wikilink">-{zh-hans:法比奥·卡佩罗;zh-hk:法比奧·卡比路}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Scudetto.svg" title="fig:Scudetto.svg">Scudetto.svg</a><small>（第13次）</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1991年至1992年意大利足球甲级联赛.md" title="wikilink">1991-92年</a></p></td>
 <td><p>冠軍</p></td>
 <td><p>56</p></td>
@@ -565,7 +582,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/法比奧·卡佩罗" title="wikilink">-{zh-hans:法比奥·卡佩罗;zh-hk:法比奧·卡比路}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Scudetto.svg" title="fig:Scudetto.svg">Scudetto.svg</a><small>（第12次）</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1990年至1991年意大利足球甲级联赛.md" title="wikilink">1990-91年</a></p></td>
 <td><p>並列亞軍</p></td>
 <td><p>46</p></td>
@@ -578,7 +595,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/阿里戈·萨基" title="wikilink">艾列高·沙基</a></p></td>
 <td><p><a href="../Page/桑普多利亚足球俱乐部.md" title="wikilink">-{zh-hans:桑普多利亞;zh-hk:森多利亞}-</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1989年至1990年意大利足球甲级联赛.md" title="wikilink">1989-90年</a></p></td>
 <td><p>亞軍</p></td>
 <td><p>49</p></td>
@@ -591,7 +608,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/阿里戈·薩基" title="wikilink">艾列高·沙基</a></p></td>
 <td><p><a href="../Page/那不勒斯足球俱乐部.md" title="wikilink">拿玻里</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1988年至1989年意大利足球甲级联赛.md" title="wikilink">1988-89年</a></p></td>
 <td><p>季軍</p></td>
 <td><p>46</p></td>
@@ -604,7 +621,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/阿里戈·薩基" title="wikilink">艾列高·沙基</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/國際米蘭" title="wikilink">國際米蘭</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1987年至1988年意大利足球甲级联赛.md" title="wikilink">1987-88年</a></p></td>
 <td><p>冠軍</p></td>
 <td><p>45</p></td>
@@ -617,7 +634,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/阿里戈·薩基" title="wikilink">艾列高·沙基</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Scudetto.svg" title="fig:Scudetto.svg">Scudetto.svg</a><small>（第11次）</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1986年至1987年意大利足球甲级联赛.md" title="wikilink">1986-87年</a></p></td>
 <td><p>第5名</p></td>
 <td><p>35</p></td>
@@ -630,7 +647,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/法比奧·卡佩罗" title="wikilink">-{zh-hans:法比奥·卡佩罗;zh-hk:法比奧·卡比路}-</a></p></td>
 <td><p><a href="../Page/那不勒斯足球俱乐部.md" title="wikilink">拿玻里</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1985年至1986年意大利足球甲级联赛.md" title="wikilink">1985-86年</a></p></td>
 <td><p>第7名</p></td>
 <td><p>31</p></td>
@@ -643,7 +660,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/尼爾斯·利德霍爾姆" title="wikilink">尼爾斯·利德霍爾姆</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱乐部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1984年至1985年意大利足球甲级联赛.md" title="wikilink">1984-85年</a></p></td>
 <td><p>第5名</p></td>
 <td><p>36</p></td>
@@ -656,7 +673,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/尼爾斯·利德霍爾姆" title="wikilink">尼爾斯·利德霍爾姆</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/维罗纳足球俱乐部" title="wikilink">維羅納</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1983年至1984年意大利足球甲级联赛.md" title="wikilink">1983-84年</a></p></td>
 <td><p>第6名</p></td>
 <td><p>32</p></td>
@@ -669,7 +686,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱乐部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><em>1982-83</em></p></td>
 <td><p><em>乙級冠軍</em></p></td>
 <td><p><em>降級至義乙作賽</em></p></td>
@@ -682,7 +699,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1981年至1982年意大利足球甲级联赛.md" title="wikilink">1981-82年</a></p></td>
 <td><p>第14名</p></td>
 <td><p>24</p></td>
@@ -695,7 +712,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱樂部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><em>1980-81</em></p></td>
 <td><p><em>乙级冠軍</em></p></td>
 <td><p><em>被降級至義乙作賽</em></p></td>
@@ -708,7 +725,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1979年至1980年意大利足球甲级联赛.md" title="wikilink">1979-80年</a></p></td>
 <td><p>季軍</p></td>
 <td><p>36</p></td>
@@ -721,7 +738,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/國際米蘭" title="wikilink">國際米蘭</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1978年至1979年意大利足球甲级联赛.md" title="wikilink">1978-79年</a></p></td>
 <td><p>冠軍</p></td>
 <td><p>44</p></td>
@@ -734,7 +751,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/尼爾斯·利德霍爾姆" title="wikilink">尼爾斯·利德霍爾姆</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Scudetto.svg" title="fig:Scudetto.svg">Scudetto.svg</a><small> (第10次) </small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1977年至1978年意大利足球甲级联赛.md" title="wikilink">1977-78年</a></p></td>
 <td><p>第4名</p></td>
 <td><p>37</p></td>
@@ -747,7 +764,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/尼爾斯·利德霍爾姆" title="wikilink">尼爾斯·利德霍爾姆</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱樂部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1976年至1977年意大利足球甲级联赛.md" title="wikilink">1976-77年</a></p></td>
 <td><p>第10名</p></td>
 <td><p>27</p></td>
@@ -761,7 +778,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <a href="https://zh.wikipedia.org/wiki/內里奧·羅科" title="wikilink">-{zh-hans:內里奥·羅科;zh-hk:內里奧·洛高}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱樂部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1975年至1976年意大利足球甲级联赛.md" title="wikilink">1975-76年</a></p></td>
 <td><p>季軍</p></td>
 <td><p>38</p></td>
@@ -775,7 +792,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <a href="https://zh.wikipedia.org/wiki/內里奧·羅科" title="wikilink">-{zh-hans:內里奥·羅科;zh-hk:內里奧·洛高}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/都靈足球俱樂部" title="wikilink">拖連奴</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1974年至1975年意大利足球甲级联赛.md" title="wikilink">1974-75年</a></p></td>
 <td><p>第5名</p></td>
 <td><p>36</p></td>
@@ -788,7 +805,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱樂部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1973年至1974年意大利足球甲级联赛.md" title="wikilink">1973-74年</a></p></td>
 <td><p>第7名</p></td>
 <td><p>30</p></td>
@@ -803,7 +820,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <a href="https://zh.wikipedia.org/wiki/基奧雲尼·查帕東尼" title="wikilink">基奧雲尼·查帕東尼</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/拉齐奧足球俱乐部" title="wikilink">-{zh-hans:拉齊奥;zh-hk:拉素}-</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1972年至1973年意大利足球甲级联赛.md" title="wikilink">1972-73年</a></p></td>
 <td><p>亞軍</p></td>
 <td><p>44</p></td>
@@ -817,7 +834,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <a href="https://zh.wikipedia.org/wiki/切薩雷·馬爾蒂尼" title="wikilink">-{zh-hans:切薩雷·馬爾蒂尼;zh-hk:施薩·馬甸尼}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱樂部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/1971年至1972年意大利足球甲级联赛.md" title="wikilink">1971-72年</a></p></td>
 <td><p>亞軍</p></td>
 <td><p>42</p></td>
@@ -830,7 +847,7 @@ Siro）球场。圣西罗球场是根据米兰城西部的圣西罗区的名字�
 <td><p><a href="https://zh.wikipedia.org/wiki/內里奧·羅科" title="wikilink">-{zh-hans:內里奥·羅科;zh-hk:內里奧·洛高}-</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/尤文圖斯足球俱乐部" title="wikilink">-{zh-hans:尤文圖斯;zh-hk:祖雲達斯}-</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/1970年至1971年意大利足球甲级联赛.md" title="wikilink">1970-71年</a></p></td>
 <td><p>亞軍</p></td>
 <td><p>42</p></td>
@@ -2107,7 +2124,7 @@ AC米蘭進球
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/詹拿路·加度素" title="wikilink">詹拿路·加度素</a>（<em>Gennaro Gattuso</em>）</p></td>
 <td></td>
-<td><p>2017–</p></td>
+<td><p>2017–2019</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -2625,5 +2642,4 @@ Lab*）也跟着声名鹊起。“米兰实验室”是打造AC米兰的基础�
 15. [Emirates and AC Milan Score New Sponsorship
     Deal](http://www.emirates.com/media-centre/emirates-and-ac-milan-score-new-sponsorship-deal#)
 
-16. [adidas and A.C. Milan announce the extension of their partnership
-    until 2023](http://news.adidas.com/GLOBAL/latest-news/football/adidas-e-a.c.-milan-annunciano-lestensione-della-partnership-fino-al-2023/s/26d3ac3f-b054-4af3-a34b-c9174b2aba69)
+16.

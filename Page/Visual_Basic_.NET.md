@@ -527,7 +527,7 @@ namespace N
                 Sum += i;
             }
 
-            return i;
+            return Sum;
         }
     };
 
@@ -597,6 +597,35 @@ Visual Basic .NET 2003（VB 7.0）和.NET Framework 1.1一起发布。新功能�
 Framework的支持和更好的VB升迁向导。并改进了运行状况，IDE稳定性（尤其是后台编译器），以及运行时RunTime稳定性。另外，VB.NET
 2003还有一个学院版Visual Studio .NET 2003 Academic
 Edition（VS03AE），它是分发给各国某些学者免费使用的版本。
+
+### 2005年Visual Basic 2005（VB 8.0）
+
+Visual Basic 2005（VB
+8.0）是VB.Net的重大转变，微软决意在其软件名称中去掉了.NET部份。在VB2005中，微软增加了许多新功能，以引用VB对于初学者来说的一些优点：
+
+主要的变动：
+
+  - 不再支持“Edit and Continue” - 早期Visual Basic可以在调试时修改代码并且不经重新编译地执行。Visual
+    Basic 2005去掉了这个功能；
+  - 设计时表达式求值；
+  - 提供My伪命名空间，包含了不需大量编码而访问特定.NET
+    Framework功能的简单方式；提供了改进的VB到VB.NET转换向导；Using语法，简化了需要部署pattern
+    to free resources的对象的使用；My编码，可隐藏由VB.NET
+    IDE写的模板代码；数据源绑定，简化了数据库C/S开发。上述功能（尤其是My）增强了VB.Net成为快速开发应用平台的可能，并与C\#进一步区别开来。Visual
+    Basic 2005通过增加新功能而减小了和其它所谓更强大的.NET语言的差距。
+  - 增加了.NET
+    2.0语言功能包括：[泛型](../Page/泛型.md "wikilink")（generics）和Partial类（在一个文件里定义一个类的某部份然后在另外的文件里添加更多的定义，这个方法在整合用户书写的代码和系统自动生成的代码时尤其有用）；
+  - XML注释，可以被NDoc等工具处理而自动生成文档；
+  - 操作符重载；
+  - 支持在其它语言中已经广泛使用的[unsigned
+    integer数据类型](https://zh.wikipedia.org/wiki/unsigned_integer "wikilink")；
+  - 支持在许多C衍生编程语言已提供的复合操作符如："+=", "-="；
+  - IsNot专利：If Not X Is Y表达式被转换成If X IsNot
+    Y。当微软为IsNot申请专利时招致了恶名（尤其来自Real公司）；
+  - Visual Basic 2005 Express：作为VS产品线上的一部份，VB2005
+    Express是专为业余爱好者和新手定制的免费的VS
+    Express系列的一员。Express版本目的定位在帮助人们学习一种语言，所以他们有和标准版一致的用户界面，只是少了一些高级功能。另外，VS
+    Express版包括了VB6.0转换器，提供了从VB老版本升级的可行方法。
 
 ### 2008年Visual Basic 2008（VB 9.0）
 

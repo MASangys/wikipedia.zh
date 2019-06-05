@@ -114,7 +114,7 @@ CityLight座椅\[2\]。全數AVBW及AVBE已於2006年6月至2008年3月投入服
 
 AVBW27-64、AVBE2-13服役初期貼有"2006"字樣，AVBE14-21、23-66貼有"2007"字樣（雖然AVBE14-25在2007年投入服務，但左右車身前方曾經貼有"2006"字樣），而AVBE22、67-86則貼有"2008"字樣（AVBE22於2008年時為了配合廣告拍攝，故把原有的2007字樣改為2008）。所有字樣於開始服役兩年後陸續除下或被廣告覆蓋。
 
-配備歐盟三型引擎的B9TL現時主力行走[7](https://zh.wikipedia.org/wiki/九龍巴士7號線 "wikilink")、[8](https://zh.wikipedia.org/wiki/九龍巴士8號線 "wikilink")、[8A](https://zh.wikipedia.org/wiki/九龍巴士8A線 "wikilink")、[12](https://zh.wikipedia.org/wiki/九龍巴士12線 "wikilink")、[32M](https://zh.wikipedia.org/wiki/九龍巴士32M線 "wikilink")、[39A](https://zh.wikipedia.org/wiki/九龍巴士39A線 "wikilink")、[60M](https://zh.wikipedia.org/wiki/九龍巴士60M線 "wikilink")、[69M](https://zh.wikipedia.org/wiki/九龍巴士69M線 "wikilink")、[83K](https://zh.wikipedia.org/wiki/九龍巴士83K線 "wikilink")、[85](https://zh.wikipedia.org/wiki/九龍巴士85線 "wikilink")、[85A](https://zh.wikipedia.org/wiki/九龍巴士85A線 "wikilink")、[86](https://zh.wikipedia.org/wiki/九龍巴士86線 "wikilink")、[86K](https://zh.wikipedia.org/wiki/九龍巴士86K線 "wikilink")、[87K](https://zh.wikipedia.org/wiki/九龍巴士87K線 "wikilink")、[88K](https://zh.wikipedia.org/wiki/九龍巴士88K線 "wikilink")、[234A](https://zh.wikipedia.org/wiki/九龍巴士234A線 "wikilink")、[234B](https://zh.wikipedia.org/wiki/九龍巴士234B線 "wikilink")、[261](https://zh.wikipedia.org/wiki/九龍巴士261線 "wikilink")、[272K及](https://zh.wikipedia.org/wiki/九龍巴士272K線 "wikilink")[289K](https://zh.wikipedia.org/wiki/九龍巴士289K線 "wikilink")。其中的8輛巴士（AVBE33-38、41、54）均設有行李架，以方便乘客攜帶行李登車，這八輛車因應龍運巴士開辦新線而出現車源緊張而借調到龍運巴士。
+配備歐盟三型引擎的B9TL現時主力行走[7](https://zh.wikipedia.org/wiki/九龍巴士7號線 "wikilink")、[8](https://zh.wikipedia.org/wiki/九龍巴士8號線 "wikilink")、[8A](https://zh.wikipedia.org/wiki/九龍巴士8A線 "wikilink")、[12](https://zh.wikipedia.org/wiki/九龍巴士12線 "wikilink")、[32M](https://zh.wikipedia.org/wiki/九龍巴士32M線 "wikilink")、[39A](https://zh.wikipedia.org/wiki/九龍巴士39A線 "wikilink")、[60M](https://zh.wikipedia.org/wiki/九龍巴士60M線 "wikilink")、[69M](https://zh.wikipedia.org/wiki/九龍巴士69M線 "wikilink")、[83K](https://zh.wikipedia.org/wiki/九龍巴士83K線 "wikilink")、[85](https://zh.wikipedia.org/wiki/九龍巴士85線 "wikilink")、[85A](https://zh.wikipedia.org/wiki/九龍巴士85A線 "wikilink")、[86](https://zh.wikipedia.org/wiki/九龍巴士86線 "wikilink")、[86K](https://zh.wikipedia.org/wiki/九龍巴士86K線 "wikilink")、[88K](https://zh.wikipedia.org/wiki/九龍巴士88K線 "wikilink")、[234A](https://zh.wikipedia.org/wiki/九龍巴士234A線 "wikilink")、[234B](https://zh.wikipedia.org/wiki/九龍巴士234B線 "wikilink")、[261](https://zh.wikipedia.org/wiki/九龍巴士261線 "wikilink")、[272K及](https://zh.wikipedia.org/wiki/九龍巴士272K線 "wikilink")[289K](https://zh.wikipedia.org/wiki/九龍巴士289K線 "wikilink")。其中的8輛巴士（AVBE33-38、41、54）均設有行李架，以方便乘客攜帶行李登車，這八輛車因應龍運巴士開辦新線而出現車源緊張而借調到龍運巴士。
 
 為減低燃油消耗，九巴將所有歐盟三型B9TL加裝節能程式，配ZF波箱的車輛已加裝Topodyn節能程式，而配用Voith波箱的B9TL則全部已加裝SensoTop節能程式。
 
@@ -334,7 +334,7 @@ City座椅外）；側牌改用Hanover「加長版」LED電子路線牌；車尾
 
 ##### 319-386
 
-[MTRBus334_K66.jpg](https://zh.wikipedia.org/wiki/File:MTRBus334_K66.jpg "fig:MTRBus334_K66.jpg")
+[UU9137-375-K75P.jpg](https://zh.wikipedia.org/wiki/File:UU9137-375-K75P.jpg "fig:UU9137-375-K75P.jpg")
 港鐵巴士2014年9月已訂購62輛11.3米富豪B9TL（合約編號：K0584-14E），預計取代餘下全數丹尼士三叉戟10.6及11.3米，全數一手巴士(6XX)及部份前[新世界第一巴士車隊](../Page/新世界第一巴士.md "wikilink")（7XX）。在首批新車抵港前，港鐵於公佈2015年中期業績的同時，公佈加訂6輛同型號巴士，以騰出6輛Enviro200（9XX）單層巴士在鐵路服務受影響時作緊急備用。港鐵預計全數共68輛巴士將於2017年前，陸續投入到全線17條路線服務，預計載客量可增加約12%。而富豪B9TL將成為港鐵巴士的主力。
 
 該批車與城巴及新巴同款車的車內配置相近，分別在於巴士車頭擋風玻璃設有樹擋、只在車頭加裝閉路電視鏡頭以及不設電視擋。採用VOITH

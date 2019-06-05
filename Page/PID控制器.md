@@ -424,7 +424,7 @@ PID控制器可以寫成以下的形式
   - [用Excel模拟基本的PID](https://web.archive.org/web/20060413081016/http://www.htservices.com/Applications/Process/PID2.htm)
   - [如果用电子部件制作一个PID控制器](https://web.archive.org/web/20060417114838/http://asl.epfl.ch/research/projects/VtolIndoorFlying/rapports/rapportSemStauffer.pdf)查看22页
   - [关于PID控制器的文章，教材](http://www.expertune.com/r2.asp?f=Wikipedia&l=articles.html)
-  - [一个控制系统的一部分](http://www.industrial-electricity.com/open-and-closed-loop-feedback-systems-2-Parts-Typical-Control-System.html)
+  - [一个控制系统的一部分](https://web.archive.org/web/20060417135557/http://www.industrial-electricity.com/open-and-closed-loop-feedback-systems-2-Parts-Typical-Control-System.html)
   - [PID定速控制應用](http://4rdp.blogspot.com/2008/05/pid-speed-control.html)
   - [PID馬達定速與定角控制公式比較](http://4rdp.blogspot.com/2008/12/apply-pid-to-control-lego-nxts-speed.html)
   - [Ang, K.H., Chong, G.C.Y., and Li, Y. (2005)， **PID control system

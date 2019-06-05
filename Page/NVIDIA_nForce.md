@@ -72,12 +72,6 @@ Tools包含三個軟體：
   - [nForce Professional
     官方網頁](http://www.nvidia.com/page/nforce_pro.html)
 
-[de:Nvidia
-nForce](https://zh.wikipedia.org/wiki/de:Nvidia_nForce "wikilink")
-[en:NForce](https://zh.wikipedia.org/wiki/en:NForce "wikilink")
-[fi:NForce](https://zh.wikipedia.org/wiki/fi:NForce "wikilink")
-[pl:NForce](https://zh.wikipedia.org/wiki/pl:NForce "wikilink")
-
 [Category:主板](https://zh.wikipedia.org/wiki/Category:主板 "wikilink")
 [Category:英伟达](https://zh.wikipedia.org/wiki/Category:英伟达 "wikilink")
 

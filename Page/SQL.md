@@ -1,6 +1,6 @@
 **SQL**（\[1\]或\[2\]，**结构化查询语言**\[3\]\[4\]\[5\]\[6\]）是一种[特定目的程式语言](https://zh.wikipedia.org/wiki/特定目的程式语言 "wikilink")，用于管理[关系数据库管理系统](https://zh.wikipedia.org/wiki/关系数据库管理系统 "wikilink")（RDBMS），或在[关系流数据管理系统](https://zh.wikipedia.org/wiki/关系流数据管理系统 "wikilink")（RDSMS）中进行流处理。
 
-SQL基于[关系代数和](https://zh.wikipedia.org/wiki/关系代数_\(数据库\) "wikilink")[元组关系演算](../Page/元组关系演算.md "wikilink")，包括一个[数据定义语言和](https://zh.wikipedia.org/wiki/数据定义语言 "wikilink")[数据操纵语言](https://zh.wikipedia.org/wiki/数据操纵语言 "wikilink")。SQL的范围包括数据插入、查询、更新和删除，创建和修改，以及数据访问控制。尽管SQL经常被描述为，而且很大程度上是一种[声明式编程](https://zh.wikipedia.org/wiki/声明式编程 "wikilink")（[4GL](https://zh.wikipedia.org/wiki/第四代程式语言 "wikilink")），但是其也含有[过程式编程的元素](https://zh.wikipedia.org/wiki/过程式编程 "wikilink")。
+SQL基于[关系代数和](https://zh.wikipedia.org/wiki/关系代数_\(数据库\) "wikilink")[元组关系演算](../Page/元组关系演算.md "wikilink")，包括一个[数据定义语言和](https://zh.wikipedia.org/wiki/数据定义语言 "wikilink")[数据操纵语言](https://zh.wikipedia.org/wiki/数据操纵语言 "wikilink")。SQL的范围包括数据插入、查询、更新和删除，[数据库模式创建和修改](../Page/Schema_\(数据库\).md "wikilink")，以及数据访问控制。尽管SQL经常被描述为，而且很大程度上是一种[声明式编程](https://zh.wikipedia.org/wiki/声明式编程 "wikilink")（[4GL](https://zh.wikipedia.org/wiki/第四代程式语言 "wikilink")），但是其也含有[过程式编程的元素](https://zh.wikipedia.org/wiki/过程式编程 "wikilink")。
 
 SQL是对[埃德加·科德的](../Page/埃德加·科德.md "wikilink")[关系模型的第一个商业化语言实现](../Page/关系模型.md "wikilink")，这一模型在其1970年的一篇具有影响力的论文《一个对于大型共享型数据库的关系模型》\[7\]中被描述。尽管SQL并非完全按照[科德的关系模型设计](../Page/科德十二定律.md "wikilink")，但其依然成为最为广泛运用的数据库语言。
 \[8\]\[9\]
@@ -212,7 +212,8 @@ SQL标准包含9部分：
   - ISO/IEC 13249-6:2006 Part 6: *Data mining*
   - ISO/IEC 13249-7:2013 Part 7: *History*
   - ISO/IEC 13249-8:xxxx Part 8: *Metadata Registry Access*
-    *[MRA](https://www.iso.org/standard/73181.html)* (work in progress)
+    *[MRA](https://web.archive.org/web/20180612143206/https://www.iso.org/standard/73181.html)*
+    (work in progress)
 
 ## 以SQL為基礎的其他延伸語言
 

@@ -293,6 +293,7 @@ OS及Mac OS X）包括：
     Word的免费替代品
   - [WPS Office](../Page/WPS_Office.md "wikilink")
   - [永中集成Office](https://zh.wikipedia.org/wiki/永中集成Office "wikilink")
+  - [Google Docs](https://zh.wikipedia.org/wiki/Google_Docs "wikilink")
 
 ## 请参阅
 

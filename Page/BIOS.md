@@ -1,4 +1,4 @@
-**BIOS**（的縮寫、中文：**基本輸入輸出系統**），在[IBM
+**BIOS**（，中文：**基本輸入輸出系統**）在[IBM
 PC相容系統上](https://zh.wikipedia.org/wiki/IBM_PC相容系統 "wikilink")，是一种業界標准的[韌體](../Page/韌體.md "wikilink")[介面](../Page/介面_\(資訊科技\).md "wikilink")。\[1\]。BIOS这个字眼是在1975年第一次在[CP/M操作系统中出现](https://zh.wikipedia.org/wiki/CP/M "wikilink")。BIOS是[个人电脑启动时加载的第一个软件](../Page/个人电脑.md "wikilink")（實際上自Intel
 Haswell平台以後，UEFI並不是系統開機時第一個被載入的軟體）。
 
@@ -24,7 +24,7 @@ Forum），英特尔公司将EFI
 
 當電腦的電源開啟，BIOS就會由[主機板上的](https://zh.wikipedia.org/wiki/主機板 "wikilink")[快閃記憶體](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")（flash
 memory）執行，並將晶片組和記憶體子系統初始化。BIOS會把自己從快閃記憶體中，解壓縮到系統的主記憶體；並且從那邊開始執行。PC的BIOS程式碼也包含診斷功能，以保證某些重要硬體元件，像是[鍵盤](https://zh.wikipedia.org/wiki/鍵盤 "wikilink")、[磁碟](https://zh.wikipedia.org/wiki/磁碟 "wikilink")（BIOS在開機時會偵測硬碟的[S.M.A.R.T.狀態](../Page/S.M.A.R.T..md "wikilink")）、輸出輸入埠等等，可以正常運作且正確地初始化。幾乎所有的BIOS都包含設定程式（BIOS
-Setup），可以進行BIOS的設定，如設定系統時間，設定開機裝置順序，啟用/禁用電腦的某些周邊裝置。主板的CMOS晶片（[UEFI多使用](https://zh.wikipedia.org/wiki/UEFI "wikilink")[NVRAM儲存UEFI設定值](https://zh.wikipedia.org/wiki/NVRAM "wikilink")/硬體偵測資訊）用於儲存BIOS設定值及硬體偵測資訊。主板上的鈕扣電池用於讓CMOS晶片儲存BIOS設定值，以及電腦在斷電時依然可以讓系統時鐘運作。CMOS在沒有電力供應（CMOS所需電力由主板上的鈕扣電池提供）的情況下會遺失儲存的資料，而NVRAM則不會。
+Setup），可以進行BIOS的設定，如設定系統時間，設定開機裝置順序，啟用/禁用電腦的某些周邊裝置。主板的CMOS晶片（[UEFI多使用](https://zh.wikipedia.org/wiki/UEFI "wikilink")[NVRAM儲存UEFI設定值](https://zh.wikipedia.org/wiki/NVRAM "wikilink")/硬體偵測資訊）用於儲存BIOS設定值及硬體偵測資訊。主板上的鈕扣電池用於讓CMOS晶片儲存BIOS設定值，以及電腦在斷電時依然可以讓系統時鐘運作。CMOS在沒有電力供應（CMOS所需電力由主板上的鈕扣電池提供）的情況下會遺失儲存的資料。
 
 [IBM技術參考手冊中曾經包含早期PC和AT](../Page/IBM.md "wikilink")
 BIOS的[80x86原始碼](https://zh.wikipedia.org/wiki/80x86 "wikilink")。
@@ -35,13 +35,11 @@ BIOS的[80x86原始碼](https://zh.wikipedia.org/wiki/80x86 "wikilink")。
 有些BIOS系統允許使用者可以選擇要載入哪個[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")（例如從第二顆硬碟載入其他作業系統），雖然這項功能通常是由第二階段的[引导程序](https://zh.wikipedia.org/wiki/引导程序 "wikilink")（boot
 loader）來處理。
 
-許多OEM個人電腦亦包含可在載入作業系統前執行的硬體診斷程式/系統還原程式，可在開機時按特定的按鍵執行硬體診斷程式/系統還原程式，或者在BIOS的開機選單中執行。對於早期的OEM個人電腦，診斷程式可能內建於BIOS程式，也可能內建於一個隱藏的OEM磁碟分割中；對於基於UEFI韌體的OEM個人電腦而言，診斷程式可能內建於UEFI韌體中，也可能內建於EFI系統磁碟分割（ESP）/OEM磁碟分割中。
-
 ## BIOS韌體
 
-由於BIOS與硬體系統整合在一起（將BIOS程式指令燒錄在IC中），所以有時候也被稱為[韌體](../Page/韌體.md "wikilink")。在大約1990年BIOS是保存在[ROM](https://zh.wikipedia.org/wiki/ROM "wikilink")（[唯讀記憶體](../Page/唯讀記憶體.md "wikilink")）中而無法被修改。因為BIOS的大小和複雜程度隨時間不斷增加，而且硬體的更新速度加快，令BIOS也必須不斷更新以支援新硬體，於是BIOS就改為儲存在[EEPROM或者](https://zh.wikipedia.org/wiki/EEPROM "wikilink")[快閃記憶體中](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，讓使用者可以輕易更新BIOS。然而，不適當的執行或是終止BIOS更新可能導致電腦或是裝置無法使用。為了避免BIOS損壞，有些新的[主機板有備份的BIOS](https://zh.wikipedia.org/wiki/主機板 "wikilink")（「雙BIOS」主機板）。現在的BIOS有「啟動區塊」（Boot
+由於BIOS與硬體系統整合在一起（將BIOS程式指令燒錄在IC中），所以有時候也被稱為[韌體](../Page/韌體.md "wikilink")。在大約1990年BIOS是保存在[ROM](https://zh.wikipedia.org/wiki/ROM "wikilink")（[唯讀記憶體](../Page/唯讀記憶體.md "wikilink")）中而無法被修改。因為BIOS的大小和複雜程度隨時間不斷增加，而且硬體的更新速度加快，令BIOS也必須不斷更新以支援新硬體，於是BIOS就改為儲存在[EEPROM或者](https://zh.wikipedia.org/wiki/EEPROM "wikilink")[快閃記憶體中](https://zh.wikipedia.org/wiki/快閃記憶體 "wikilink")，讓使用者可以輕易更新BIOS。然而，不適當的執行或是終止BIOS更新可能導致電腦無法使用。為了避免BIOS損壞，有些[主機板有備份的BIOS](https://zh.wikipedia.org/wiki/主機板 "wikilink")（「雙BIOS」主機板）。現在的BIOS有「啟動區塊」（Boot
 Block），屬於BIOS
-ROM的一部份，一開始就會被執行。這個程式會在執行BIOS前，驗證BIOS其他部分是否正確無誤（經由檢查碼，湊雜碼等等）。如果啟動區塊偵測到主要的BIOS已損壞，則可自動讀取USB隨身碟/光碟中的特定BIOS檔案並更新BIOS。母板廠商/OEM經常發出BIOS升級來更新他們的產品和修正已知的問題。現在的BIOS多內建BIOS更新程式，無需在MS-DOS下更新BIOS，且在更新BIOS時會校驗BIOS檔案。
+ROM的一部份，一開機就會被執行。這個程式會在執行BIOS前，驗證BIOS其他部分是否正確無誤（經由檢查碼，湊雜碼等等）。如果啟動區塊偵測到主要的BIOS已損壞，則可自動讀取USB隨身碟/光碟中的特定BIOS檔案並更新BIOS。主機板廠商/OEM經常發出BIOS升級來更新他們的產品和修正已知的問題。
 
 ## 与[CMOS的联系和区别](https://zh.wikipedia.org/wiki/CMOS "wikilink")
 

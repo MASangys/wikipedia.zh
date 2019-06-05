@@ -2707,10 +2707,6 @@
 
   - 日本：朝日放送（ABC）・[朝日電視台系](../Page/朝日電視台.md "wikilink")（1999年2月7日-2003年1月26日），小魔女童年秘密篇則由[Sky
     PerfecTV\!和神奈川電視播映](https://zh.wikipedia.org/wiki/Sky_PerfecTV! "wikilink")（2004年6月26日-12月11日，隔週）
-  - 台灣：[台視](https://zh.wikipedia.org/wiki/台灣電視公司 "wikilink")（2000年-2002年）（僅放送第一季與第二季）、[東森幼幼台](../Page/東森幼幼台.md "wikilink")
-    （2000年-2012年）、[MOMO親子台](../Page/MOMO親子台.md "wikilink")（2014年-2017年）
-  - 香港：[無綫電視](../Page/電視廣播有限公司.md "wikilink")[翡翠台](../Page/翡翠台.md "wikilink")
-    (2000年-2007年)
   - 美國：[4Kids
     TV](https://zh.wikipedia.org/wiki/4Kids娱乐公司 "wikilink")（僅放送第一季，2005年，名為Magical
     DoReMi）
@@ -2995,6 +2991,76 @@
 ## CD
 
 ### 舞台劇
+
+## 節目變遷
+
+<span style="font-size: 22px;font-weight:bold">日本</span>
+<span style="font-size: 22px;font-weight:bold">香港</span>
+
+  - 小魔女DoReMi
+    重播
+
+<!-- end list -->
+
+  - 小魔女DoReMi\#
+    首播
+
+<!-- end list -->
+
+  -
+    重播
+
+<!-- end list -->
+
+  - 電影 小魔女DoReMi＃
+    首播
+
+<!-- end list -->
+
+  -
+    重播
+
+<!-- end list -->
+
+  - 大\~集合！小魔女DoReMi
+    首播
+
+<!-- end list -->
+
+  -
+    重播
+
+<!-- end list -->
+
+  - 電影 大\~集合！小魔女DoReMi 青蛙石的秘密
+    首播
+
+<!-- end list -->
+
+  -
+    重播
+
+<!-- end list -->
+
+  - 小魔女DoReMi 大合奏！
+    首播
+
+<!-- end list -->
+
+  -
+    重播
+
+<!-- end list -->
+
+  - 小魔女DoReMi 童年秘密篇
+    首播
+
+<!-- end list -->
+
+  -
+    重播
+
+<span style="font-size: 22px;font-weight:bold">台灣</span>
 
 ## 注脚
 

@@ -53,6 +53,8 @@
   - [:<File:Ejaculation.gif>](https://zh.wikipedia.org/wiki/:File:Ejaculation.gif "wikilink")
     except on [自慰](../Page/自慰.md "wikilink")
   - [:<File:Analsex2.jpg>](https://zh.wikipedia.org/wiki/:File:Analsex2.jpg "wikilink")
+  - [:<File:Genital_Diversity_Expanded.jpg>](https://zh.wikipedia.org/wiki/:File:Genital_Diversity_Expanded.jpg "wikilink")
+    except on [女陰](../Page/女陰.md "wikilink")
 
 以下内容复制自英文维基百科（更新至2018/08/02）。请参阅[讨论页上的介绍](https://zh.wikipedia.org/wiki/MediaWiki_talk:Bad_image_list "wikilink")。
 

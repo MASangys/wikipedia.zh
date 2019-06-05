@@ -181,7 +181,8 @@ Enix稱其僅是為了作技術的演示。
 在2015年[E3索尼展前发布会上Square](https://zh.wikipedia.org/wiki/E3 "wikilink")
 Enix正式發布《最终幻想VII》将完全重制於[PlayStation
 4平台](../Page/PlayStation_4.md "wikilink")。总监[野村哲也指出重製版将会对剧情和战斗系统进行更改](../Page/野村哲也.md "wikilink")\[181\]。
-{{-}}
+
+2019年5月10日，索尼發佈重製版的最新宣傳預告片，預告6月份將釋出更多細節。\[182\]
 
 ## 参考文献
 
@@ -561,3 +562,5 @@ Enix正式發布《最终幻想VII》将完全重制於[PlayStation
 180.
 
 181.
+
+182.

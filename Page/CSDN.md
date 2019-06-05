@@ -18,8 +18,7 @@
 
 ## 外部链接
 
-  - [CSDN](http://www.csdn.net/)
-
+  -
   -
 [Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink")
 [Category:中文網站](https://zh.wikipedia.org/wiki/Category:中文網站 "wikilink")

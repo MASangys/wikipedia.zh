@@ -204,8 +204,8 @@ know?」，令他廣為人知。2015年9月，他與[胡楓及女歌手](../Page
   - 2015年：[四個小生去旅行](https://zh.wikipedia.org/wiki/四個小生去旅行 "wikilink")
   - 2015年：[超強選擇1分鐘](../Page/超強選擇1分鐘.md "wikilink")
   - 2015年：[今晚睇李](../Page/今晚睇李.md "wikilink")
-  - 2016年: [湊仔攻略](../Page/湊仔攻略.md "wikilink")
-  - 2018年:[街坊廚神重出江湖](../Page/街坊廚神重出江湖.md "wikilink")
+  - 2016年：[湊仔攻略](../Page/湊仔攻略.md "wikilink")
+  - 2018年：[街坊廚神重出江湖](../Page/街坊廚神重出江湖.md "wikilink")
 
 ### 廣告
 
@@ -231,7 +231,6 @@ know?」，令他廣為人知。2015年9月，他與[胡楓及女歌手](../Page
 [Category:土生葡人](https://zh.wikipedia.org/wiki/Category:土生葡人 "wikilink")
 [Category:新法書院校友](https://zh.wikipedia.org/wiki/Category:新法書院校友 "wikilink")
 [Category:聖若瑟書院校友](https://zh.wikipedia.org/wiki/Category:聖若瑟書院校友 "wikilink")
-[Category:香港甘草演員](https://zh.wikipedia.org/wiki/Category:香港甘草演員 "wikilink")
 
 1.  [明報周刊第](../Page/明報周刊.md "wikilink")2248期，頁144。
 2.  [三個小生去旅行 -

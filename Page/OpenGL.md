@@ -1,7 +1,7 @@
 **OpenGL**（，譯名：**開放圖形庫**或者“開放式圖形庫”）是用於[渲染](../Page/渲染.md "wikilink")[2D](https://zh.wikipedia.org/wiki/二維計算機圖形 "wikilink")、[3D](https://zh.wikipedia.org/wiki/三維計算機圖形 "wikilink")[矢量圖形的跨](https://zh.wikipedia.org/wiki/矢量圖形 "wikilink")[語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")、[跨平台的](https://zh.wikipedia.org/wiki/跨平台 "wikilink")[應用程序編程接口](https://zh.wikipedia.org/wiki/應用程序編程接口 "wikilink")（API）。這個接口由近350個不同的函數调用組成，用來從簡單的圖形位元繪製複雜的三維景象。而另一种程式介面系统是仅用于[Microsoft
 Windows上的](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[Direct3D](../Page/Direct3D.md "wikilink")。OpenGL常用於[CAD](https://zh.wikipedia.org/wiki/CAD "wikilink")、[虛擬實境](https://zh.wikipedia.org/wiki/虛擬實境 "wikilink")、科學視覺化程式和[電子遊戲開發](https://zh.wikipedia.org/wiki/電子遊戲開發 "wikilink")。
 
-OpenGL的高效實現（利用了图形加速硬件）存在于[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，部分[UNIX平台和](../Page/UNIX.md "wikilink")[Mac
+OpenGL的高效實現（利用图形加速硬件）存在于[Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，部分[UNIX平台和](../Page/UNIX.md "wikilink")[Mac
 OS](https://zh.wikipedia.org/wiki/Mac_OS "wikilink")。這些實現一般由顯示裝置廠商提供，而且非常依賴於該廠商提供的硬體。[開放原始碼函式庫](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")[Mesa是一個純基於軟體的圖形API](https://zh.wikipedia.org/wiki/Mesa_library "wikilink")，它的代码兼容於OpenGL。但是，由于许可证的原因，它只声称是一个“非常相似”的API。
 
 OpenGL规范由1992年成立的OpenGL架构评审委员会（ARB）维护。ARB由一些對建立一个统一的、普遍可用的API特别感兴趣的公司组成。根据OpenGL官方网站，2002年6月的ARB投票成员包括[3Dlabs](https://zh.wikipedia.org/wiki/3Dlabs "wikilink")、[Apple

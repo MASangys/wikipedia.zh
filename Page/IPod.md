@@ -650,8 +650,8 @@ iPod当前支配了数码音乐播放器市场，多次刷新销售纪录。\[24
 
 
 6.  [The differences between iPod mini and iPod mini (Second
-    Generation)](http://docs.info.apple.com/article.html?artnum=300850)，Apple
-    Inc.
+    Generation)](http://docs.info.apple.com/article.html?artnum=300850)
+    ，Apple Inc.
 
 7.  <http://www.apple.com/ipodshuffle/features.html>
 

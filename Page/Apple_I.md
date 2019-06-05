@@ -44,7 +44,7 @@ I复制机－[Replica 1](../Page/Replica_1.md "wikilink")－于2003年以200美�
   - [My Apple I project on
     www.sbprojects.com](http://www.sbprojects.com/projects/apple1/)
   - [Apple I Operational
-    Manual](http://archive.computerhistory.org/resources/text/Apple/Apple.AppleI.1976.102646518.pdf)
+    Manual](https://web.archive.org/web/20110519052739/http://archive.computerhistory.org/resources/text/Apple/Apple.AppleI.1976.102646518.pdf)
   - [MESS, Multi-System Emulator which supports Apple
     I](http://www.mess.org/)
 

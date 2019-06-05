@@ -70,17 +70,64 @@ ASP.NET 運行的架構分為幾個階段：
 
 [ASPNET_IIS_Execute.png](https://zh.wikipedia.org/wiki/File:ASPNET_IIS_Execute.png "fig:ASPNET_IIS_Execute.png")
 
-當裝載(hosting) ASP.NET 的 Web 伺服器接收到 HTTP 请求時，HTTP 聆聽程式 (HTTP Listener)
-會將请求轉交給 URL 指定的網站應用程式的工作流程 (Worker Process)\[3\]，ASP.NET
-的工作流程處理器（aspnet_isapi.dll，若是 IIS 5.0 時則是
-aspnet_wp.exe）會解析 URL，並啟動位於 System.Web.Hosting 命名空間中的
-ISAPIRuntime（視版本）物件，接收 HTTP 请求，並呼叫 HttpRuntime，執行
-HttpRuntime.ProcessRequest()，在 ProcessRequest() 中使用
-HttpApplicationFactory 建立新的 HttpApplication（或是指定的 IHttpHandler 處理器），再分派給
-Page 中的 ProcessRequest() 或是 IHttpHandler 的 ProcessRequest() 方法，執行之後，再傳回到
-ISAPIRuntime，以及 aspnet_isapi.dll，最後交由 HTTP Listener
-回傳給用戶端，因為執行程序有如管線般順暢的執行，因此稱為
-**HTTP Pipeline Mode**。
+當裝載(hosting) ASP.NET 的 Web 伺服器接收到 HTTP 请求時，HTTP 聆聽程式 (HTTP
+Listener，实际上是内核态的HTTP.SYS) 會將请求轉交給 URL 指定的網站應用程式池中的工作者进程
+(Worker Process)\[3\]，ASP.NET
+的工作者进程接收到这个请求之后，装载专用于处理ASP.NET页面的一个ISAPI扩展“aspnet_isapi.dll”，并将HTTP请求传给它。若是
+IIS 5.0 時則是 aspnet_wp.exe。
+
+aspnet_isapi.dll负责加载ASP.NET应用程序的运行环境CLR（IIS
+7集成模式下，CLR是预加载的），每个ASP.NET应用程序都运行于自己的应用程序域（AppDomain）中。每个应用程序域都对应着一个ApplicationManager类的实例（通过AppManagerAppDomainFactory创建），负责管理运行在域中的ASP.NET应用程序（启动和停止一个ASP.NET应用程序、创建对象等）。ApplicationManager还会创建一个HostingEnvironment对象，提供了ASP.NET应用程序的一些管理信息（如ASP.NET应用程序的标识、虚拟目录与对应的物理目录等）。
+
+应用程序域创建完成之后，创建 System.Web.Hosting
+命名空間中的基于ISAPIRuntime的一个对象，调用其ProcessRequest()方法。在此方法中，根据传入的HTTP请求信息屏蔽了版本差异化后封装实例化了一个HttpWorkerRequest的对象并初始化一个HttpRuntime对象。调用HttpRuntime的ProcessRequestInternal方法。ProcessRequestInternal方法实例化一个HttpContext对象（其构造函数内部又实例化了在ASP.NET编程中非常重要的HttpRequest和HttpResponse对象）、通过HttpApplicationFactory获取HttpApplication对象实例。再调用HttpApplication对象的BeginProcessRequest方法启动整个HTTP请求的处理过程（即**HTTP管线模式**）。
+
+System.Web.UI.Page类提供了“Requset”和“Response”属性来引用这两个对象，因此在ASP.NET网页中可以直接访问这两个对象。同样，System.Web.UI.Page类的Context属性引用HttpContext对象。
+
+HttpRuntime类的ProcessRequest()方法除了创建HttpContext对象之外，还完成了另一个很重要的工作——向HttpApplicationFactory类的一个实例（它管理一个HttpApplication对象池）申请分配一个HttpApplication对象用于管理整个“HTTP请求处理管线（HTTP
+Pipeline）”中的各种事件的激发。在HttpApplication对象的InitModules()方法中创建HTTP模块（HTTP
+Module），通常在HTTP模块对象（实现IHttpModule接口）的Init()方法中响应HttpApplication对象所激发的特定事件。开发者可以创建基于IHttpHandler接口的对象，在Web.Config中插入特定的内容可以将自定义的HTTP模块加入到HTTP请求的处理流程中。
+在IIS6和IIS7经典模式下，是用
+Event+事件名称做key将所有事件的保存在HttpApplication的Events属性对象里，然后在BuildSteps里统一按照顺序组装。在IIS7集成模式下，是通过HttpModule名称+RequestNotification枚举值作为key将所有的事件保存在HttpApplication的ModuleContainers属性对象里，这个属性的类型是PipelineModuleStepContainer\[\]。
+
+“HTTP请求处理管线（HTTP Pipeline）”的处理过程为：
+
+1.  预处理阶段：由多个HTTP模块参与，通过事件来驱动，主要是对HttpContext对象的各种属性进行修改。
+2.  处理阶段：由System.Web.UI.Page类接手HttpContext对象。Page类实现了IHttpHandler接口，因此有ProcessRequest()方法并被自动调用。ProcessRequest()方法的执行结果刷新了HttpContext对象的内容。
+3.  后处理阶段：HttpApplication对象继续激发后继的事件。如果有特定的HTTP模块响应这些事件，则它们会被自动调用。在管线末端，信息傳回到
+    ISAPIRuntime，以及 aspnet_isapi.dll，最後交由 HTTP Listener
+    回傳給用戶端。当HTTP请求处理完毕，相关的对象被释放，但创建的应用程序域，以及HttpApplication等对象仍然存活，以响应下一次HTTP请求。
+
+具体的处理管线：
+
+1.  BeginRequest: 开始处理请求。当ASP.NET运行时接收到新的HTTP请求的时候引发这个事件
+2.  AuthenticateRequest授权验证请求，获取用户授权信息。当ASP.NET 运行时准备验证用户身份的时候引发这个事件
+3.  PostAuthenticateRequest：验证身份成功。通过HttpContext.User获取
+4.  AunthorizeRequest 用户权限授权。当ASP.NET运行时准备授权用户访问资源的时候引发这个事件
+5.  PostAuthorizeRequest:获得授权
+6.  ResolveRequestCache:获取页面缓存结果，如果存在直接返回结果
+7.  PostResolveRequestCache 缓存检查结束
+8.  MapRequestHandler：IIS7集成模式才支持
+9.  查找并创建HttpHandler：根据URL路径或扩展名和匹配规则查找创建，赋值给HttpContext.Handler属性（仅限于IIS6与IIS7经典模式）
+10. PostMapRequestHandler 成功创建IHttpHanlder对象
+11. AcquireRequestState
+    获取请求状态，一般用于获取Session：先判断当前页面对象是否实现了IRequiresSessionState接口，如果实现了，则从浏览器发来的请求报文体中获得SessionID,并到服务器的Session池中获得对应的Session对象，最后赋值给HttpContext的Session属性
+12. PostAcquireRequestState 成功获得Session
+13. PreRequestHandlerExecute:准备执行HttpHandler处理程序。
+14. 执行HttpHandler处理程序（仅限于IIS6与IIS7经典模式）：调用HttpHandler的ProcessRequest方法（同步）或BeginProcessRequest方法（异步）。
+15. PostRequestHandlerExecute 执行HttpHandler处理程序结束。
+16. ReleaseRequestState 准备释放请求状态（Session）
+17. PostReleaseRequestState 成功释放请求状态（Session）
+18. Filter：将内容写入Filter（仅限于IIS6与IIS7经典模式）
+19. UpdateRequestCache 更新缓存
+20. Filter：将内容写入Filter（仅限于IIS7集成模式）
+21. PostUpdateRequestCache 已更新缓存
+22. LogRequest 为当前请求执行日志记录（仅限于IIS7集成模式）
+23. PostLogRequest 已完成日志（仅限于IIS7集成模式）
+24. EndRequest 完成。把响应内容发送到客户端之前引发这个事件。
+25. Noop：扩展使用（仅限于IIS6与IIS7经典模式）
+26. PreSendRequestHeaders：根据发送的Headers动态设置一些参数（仅限于IIS7集成模式）
+27. PreSendRequestContent：可对输出内容做压缩（仅限于IIS7集成模式）
 
 在 ASP.NET 內部的 HTTP 處理器有：
 
@@ -99,20 +146,28 @@ ISAPIRuntime，以及 aspnet_isapi.dll，最後交由 HTTP Listener
 Page.ProcessRequest() 方法時，它會依序的引發 Page 內的各個事件，並同時呼叫在 Page
 中所有控制項的相關事件，其引發順序為\[4\]：
 
-  - PreInit 事件：執行預先初始化的工作，在ASP.NET 2.0中，若要動態調整主版頁面 (Master Page)、佈景主題
-    (Theme) 時，要在這個事件中調整。
-  - Init 事件：執行初始化工作。
-  - InitCompleted 事件：在完成初始化工作後引發。
-  - Preload 事件：執行預先載入的工作。
-  - Load 事件：執行載入的工作，大多數的網頁都擁有 Page_Load 事件處理常式，使用者控制項 (user control)
+启动阶段：设置页面基本属性，如 Request 和 Response。在此阶段，页面还将确定请求是回发请求还是新请求，并设置
+IsPostBack 属性。
+
+1.  PreInit 事件：執行預先初始化的工作，在ASP.NET 2.0中，若要動態調整主版頁面 (Master Page)、佈景主題
+    (Theme) 時，要在這個事件中調整。设置页面一些最基本的特性，如加载个性化信息和主题、运行时Culture。
+2.  Init
+    事件：執行初始化工作。根据页面的服务器标签及其属性设置，生成各个服务器控件的实例和给这些服务器控件的实例的属性进行赋值，并存入ViewState，但因为本阶段的赋值行为优先于ViewState的TrackViewState被调用，所以这些视图的值都将不会存入最终呈现的视图状态隐藏字段中。
+3.  InitCompleted
+    事件：在完成初始化工作後引發。调用ViewState的TrackViewState方法，开启对视图状态更改的跟踪。
+4.  Preload
+    事件：載入表单传值）。页面方法调用LoadViewState、LoadControlState、ProcessPostData，服务器控件对应调用LoadViewState和实现IPostBackDataHandler接口的LoadPostData方法
+5.  Load 事件：執行載入的工作，大多數的網頁都擁有 Page_Load 事件處理常式，使用者控制項 (user control)
     中也有 Page_Load 事件常式，都會在此時呼叫。
-  - 控制項的 PostBack 變更通知：當網頁偵測到是 PostBack 要求時，會引發 PostBack 訊息通知的事件。
-  - 控制項的 PostBack 相關事件：當網頁偵測到是 PostBack 要求時，會引發 PostBack 訊息指定的控制項的事件。
-  - LoadCompleted 事件：執行載入完成後的工作。
-  - PreRender 事件：處理在產生 HTML 結果前的工作。
-  - SaveStateCompleted 事件：處理頁面狀態（ViewState 與 ControlState）儲存完成後的事件。
-  - Render 事件：處理產生 HTML 的工作。
-  - Unload 事件：處理結束網頁處理時的工作。
+      -
+        控制項的 PostBack 變更通知：當網頁偵測到是 PostBack 要求時，會引發 PostBack 訊息通知的事件。
+        控制項的 PostBack 相關事件：當網頁偵測到是 PostBack 要求時，會引發 PostBack
+        訊息指定的控制項的事件。
+6.  LoadCompleted 事件：執行載入完成後的工作。
+7.  PreRender 事件：處理在產生 HTML 結果前的工作。
+8.  SaveStateCompleted 事件：處理頁面狀態（ViewState 與 ControlState）儲存完成後的事件。
+9.  Render 事件：處理產生 HTML 的工作。
+10. Unload 事件：處理結束網頁處理時的工作。
 
 如果 HttpWorkerRequest 呼叫的是實作 IHttpHandler 介面的 **HTTP 處理常式** 時，它只會呼叫
 IHttpHandler.ProcessRequest() 方法，由它來處理程式的輸出，不像 Page.ProcessRequest()
@@ -865,9 +920,21 @@ Silverlight
 </ul></td>
 </tr>
 <tr class="odd">
+<td><p>2018年5月1日[31]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年4月18日[32]</p></td>
+<td></td>
+<td><p>包含在 Windows 10 May 2019 Update</p></td>
+<td><p>修复了ASP.NET的10个bugs</p></td>
+</tr>
+<tr class="odd">
 <td><p>2015年11月18日</p></td>
 <td></td>
-<td><p>这一版本后来从ASP.NET分开，改称<a href="../Page/ASP.NET_Core.md" title="wikilink">ASP.NET Core</a> 1.0.[31]</p></td>
+<td><p>这一版本后来从ASP.NET分开，改称<a href="../Page/ASP.NET_Core.md" title="wikilink">ASP.NET Core</a> 1.0.[33]</p></td>
 <td><p>一个全新项目有不同的开发原则与目标。</p></td>
 </tr>
 <tr class="even">
@@ -982,4 +1049,10 @@ Silverlight
 29.
 30.
 
-31.
+31. [Microsoft .NET Framework 4.7.2 正式版发布 2018年05月01日
+    cnBeta.COM](https://www.cnbeta.com/articles/soft/721649.htm)
+
+32. [Announcing the .NET
+    Framework 4.8](https://devblogs.microsoft.com/dotnet/announcing-the-net-framework-4-8/)
+
+33.

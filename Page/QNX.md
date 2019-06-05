@@ -14,7 +14,7 @@ PlayBook和作業系統](../Page/BlackBerry_PlayBook.md "wikilink")。\[1\]
 
 ## 历史
 
-1980年，加拿大滑鐵盧大學的學生戈登貝爾和丹道奇都上了作業系統設計的課程\[2\]，課程要求學生構建一個基本的實時內核。
+1980年，加拿大滑鐵盧大學的學生戈登貝爾和丹道奇都上了實時作業系統設計的課程\[2\]，課程要求學生構建一個基本的實時微內核。
 
 2007年9月，QNX軟件系統公司發布其部分源代碼的可用性。\[3\]
 
@@ -47,7 +47,7 @@ PlayBook和作業系統](../Page/BlackBerry_PlayBook.md "wikilink")，基於QNX�
 [Category:黑莓手機](https://zh.wikipedia.org/wiki/Category:黑莓手機 "wikilink")
 
 1.
-2.  CS350: <https://www.student.cs.uwaterloo.ca/~cs350>
+2.  CS452: <https://www.student.cs.uwaterloo.ca/~cs452/>
 3.  QNX Press Releases: [source code
     availability](http://www.qnx.com/news/pr_2471_1.html)
 4.  [RIM Unveils The BlackBerry

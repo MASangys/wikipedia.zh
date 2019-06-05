@@ -88,7 +88,8 @@ Protocol*，乍有其事的寫了**HTCPCP**這樣看起來很專業的術語縮�
 
 ## 外部連結
 
-  - [IETF RFC](http://www.ietf.org/rfc.html)
+  - [IETF
+    RFC](https://web.archive.org/web/20090202124230/http://www.ietf.org/rfc.html)
   - [RFC Editor](http://www.rfc-editor.org/)
 
 [Category:互联网标准](https://zh.wikipedia.org/wiki/Category:互联网标准 "wikilink")

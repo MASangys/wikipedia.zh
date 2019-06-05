@@ -191,9 +191,9 @@ GPL被設計為[許可證](../Page/软件许可证.md "wikilink")
 Law）司法管轄區，許可證和合同之間的法律區別是重要的：合同可以通過合同法執行，而許可證是根據版權法執行的。
 然而，這種區別對於合同和執照之間沒有區別的許多司法管轄區（如[民法系統](../Page/民法.md "wikilink")）並不有用\[64\]。
 
-科恩房间很簡單：在版權法下，你不遵守GPL的條款和條件你就没有相對應的權利。而作品在没有GPL的情况下，版權法作为默認條款發生效力，而不是作品進入[公有領域](https://zh.wikipedia.org/wiki/公有領域 "wikilink")。
+GPL原理很簡單：在版權法下，你不遵守GPL的條款和條件你就没有相對應的權利。而作品在没有GPL的情况下，版權法作为默認條款發生效力，而不是作品進入[公有領域](https://zh.wikipedia.org/wiki/公有領域 "wikilink")。
 那些不接受GPL條款和條件的人根據版權法沒有許可複製或分發GPL許可軟件或衍生作品。
-然而，如果他們不重新分發GPL的本来的喜好使用組織內的軟件，使用該程序構建的工程（包括程序）不需要被該許可證覆蓋。
+然而，如果他們不重新分發GPL的程序，他們仍然可以按自己的喜好使用組織內的軟件，使用該程序構建的工程（包括程序）不需要被該許可證覆蓋。
 
 認為，GPLv3作為許可證對於讀者來說是不必要的混亂，可以在保留相同的條件和法律效力的情況下進行簡化。\[65\]
 
@@ -409,8 +409,8 @@ or later”這樣的形式來標示授權許可證，或GPLv2 + GPLv3雙許可�
 26.
 27.
 28. [Interview with Richard
-    Stallman](http://www.freesoftwaremagazine.com/articles/interview_with_richard_stallman),
-    Free Software Magazine, 23 January 2008.
+    Stallman](http://www.freesoftwaremagazine.com/articles/interview_with_richard_stallman)
+    , Free Software Magazine, 23 January 2008.
 
 29.
 

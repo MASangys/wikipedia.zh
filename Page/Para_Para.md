@@ -54,7 +54,7 @@ Dancer：KAIHEI かいへー
   - 《[芭拉芭拉樱之花](https://zh.wikipedia.org/wiki/芭拉芭拉樱之花 "wikilink")》：一部关于
     Para Para 的电影
   - [ParaParaParadise
-    遊戲模擬器](http://www.parapara.org/details/download.html)：一個在電腦上使用的
+    遊戲模擬器](https://web.archive.org/web/20070415205044/http://www.parapara.org/details/download.html)：一個在電腦上使用的
     [ParaParaParadise](https://zh.wikipedia.org/wiki/ParaParaParadise "wikilink")
     遊戲[模擬器](https://zh.wikipedia.org/wiki/模擬器 "wikilink")。
 

@@ -1,5 +1,4 @@
-《》（[IPA](https://zh.wikipedia.org/wiki/IPA "wikilink")：
-，中文譯名：椴樹之戀）是[摩尔多瓦裔](../Page/摩尔多瓦.md "wikilink")[罗马尼亚樂團](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink")[O-Zone最出名的一首曲目](https://zh.wikipedia.org/wiki/O-Zone "wikilink")，由團長作詞及作曲，于2003年夏天在罗马尼亚發行，於2004年年初開始於[欧洲其他地方以至於全球發行及展開宣傳](../Page/欧洲.md "wikilink")。登上過32国的排行榜榜首，分別在歐洲與[日本獲得](../Page/日本.md "wikilink")2004年與2005年最暢銷單曲的頭銜。\[1\]
+《》（，中文譯名：椴樹之戀）是[摩尔多瓦裔](../Page/摩尔多瓦.md "wikilink")[罗马尼亚樂團](https://zh.wikipedia.org/wiki/罗马尼亚 "wikilink")[O-Zone最出名的一首曲目](https://zh.wikipedia.org/wiki/O-Zone "wikilink")，由團長作詞及作曲，于2003年夏天在罗马尼亚發行，於2004年年初開始於[欧洲其他地方以至於全球發行及展開宣傳](../Page/欧洲.md "wikilink")。登上過32国的排行榜榜首，分別在歐洲與[日本獲得](../Page/日本.md "wikilink")2004年與2005年最暢銷單曲的頭銜。\[1\]
 
 这首歌受到了不少社会族群的追捧，特别是[俄羅斯人和](../Page/俄羅斯人.md "wikilink")[挪威人](../Page/挪威人.md "wikilink")。现在这首歌被认为是舞曲经典，在[美国受到一些](../Page/美国.md "wikilink")[俱乐部的欢迎](https://zh.wikipedia.org/wiki/俱乐部 "wikilink")，而電影《[四眼雞丁](https://zh.wikipedia.org/wiki/四眼雞丁 "wikilink")》亦使用了此歌作為主題曲。在[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")，这首歌以歌詞開頭段落所訛傳而成的「麥阿喜」為名，也一度成為流行話題。
 

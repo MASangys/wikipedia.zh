@@ -8,10 +8,10 @@
 1998年11月27日日本[世嘉](../Page/世嘉.md "wikilink")（SEGA）公司于1998年11月27日发售[Dreamcast遊戲機](../Page/Dreamcast.md "wikilink")，SONY便開始積極及加快開發第六世代家用遊戲機。PlayStation
 2在1999年發表，2000年開始發售，由於生產延誤，當時市場上很難購買到PS2。由於PS2發售同時也同時發售多款遊戲大作，加上PS2採取當時較為先進的[DVD-ROM](https://zh.wikipedia.org/wiki/DVD-ROM "wikilink")，容量達4.7或8.5GB，而Dreamcast只使用1.2GB的[GD-ROM](../Page/GD-ROM.md "wikilink")，同時SONY為遊戲開發商和為消費者提供更多的PS2支援，所以PS2很快便打敗[Dreamcast](../Page/Dreamcast.md "wikilink")，更間接導致SEGA完全退出家用游戏机市場。
 
-儘管世嘉在2001年3月宣布停止生產Dreamcast，PS2又立即面臨來自新對手的競爭，微軟的[Xbox和任天堂](../Page/Xbox.md "wikilink")[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")。許多分析家預計三大遊戲機之間的密切的三方對決：Xbox擁有最強大的硬件，而GameCube的是最便宜的遊戲機，加上任天堂改變其政策，以鼓勵第三方開發者，而PlayStation
-2則是最弱的規格，但有良好的開端（擊敗[Dreamcast](../Page/Dreamcast.md "wikilink")）、不少的遊戲支援，加上SONY與開發商的承諾。雖然在PlayStation
-2的陣容初步遊戲被認為是平庸的，但最後也領先[Xbox](../Page/Xbox.md "wikilink")，[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")。尤其是[跑車浪漫旅系列](../Page/跑車浪漫旅系列.md "wikilink")、[GUNDAM系列](../Page/GUNDAM.md "wikilink")、[俠盜獵車手系列等等令到PS](../Page/俠盜獵車手系列.md "wikilink")2大賣一時。而微軟推出聯機功能的[Xbox
-Live的發布之際](../Page/Xbox_Live.md "wikilink")，SONY在2002年底發布的PlayStation網絡適配器，而且與開發商的推了不少聯機遊戲。
+儘管世嘉在2001年3月宣布停止生產Dreamcast，PS2又立即面臨來自新對手的競爭，微軟的[Xbox和任天堂](../Page/Xbox.md "wikilink")[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")。許多分析家預計三大遊戲機之間的密切的三方對決：Xbox擁有最強大的硬件，而GameCube的是最便宜的遊戲機，再加之任天堂改變其政策，鼓勵第三方開發者，而PlayStation
+2則是最弱的規格，但有著良好的開端（擊敗[Dreamcast](../Page/Dreamcast.md "wikilink")）、不少的遊戲支援，加上SONY與開發商的承諾。雖然PlayStation
+2的初始遊戲陣容認為是平庸的，但在最後成功領先[Xbox](../Page/Xbox.md "wikilink")，[GameCube](https://zh.wikipedia.org/wiki/GameCube "wikilink")。其[跑車浪漫旅系列](../Page/跑車浪漫旅系列.md "wikilink")、[GUNDAM系列](../Page/GUNDAM.md "wikilink")、[俠盜獵車手系列等遊戲令到PS](../Page/俠盜獵車手系列.md "wikilink")2大賣一時。而在微軟推出聯機功能的[Xbox
+Live的發布之際](../Page/Xbox_Live.md "wikilink")，[索尼早在](https://zh.wikipedia.org/wiki/SONY "wikilink")2002年底發布了PlayStation網絡適配器，並與開發商合作推出眾多聯機遊戲。
 
 2004年9月，索尼推出[俠盜獵車手：聖安地列斯及PS](../Page/俠盜獵車手：聖安地列斯.md "wikilink")2薄版**PlayStation
 2
@@ -22,7 +22,7 @@ SONY原來設定PS2的壽命為10年（即2010年），但根據SONY表示，它
 2012年12月28日，日本索尼電腦娛樂（SCEJ）在PlayStation
 2（PS2）主機官方產品網頁上公告，日本地區PS2主機的供貨在今天正式結束，替PS2主機在日本長達12年9個月又24天的銷售劃下句點。
 
-太平洋标准时间2016年3月31日早上6点，PS2平台上《最终幻想XI》的线上服务正式停止。\[4\]
+2016年3月31日早上6点（太平洋标准时间），PS2平台上《最终幻想XI》的线上服务正式停止。\[4\]
 4月2日，索尼正式宣布，PS2游戏的所有线上服务已经全部结束。\[5\]
 
 2018年6月22日，日本索尼互動娛樂（SIE）发布通知，宣布从2018年8月31日起停止对PS2及其周边设备的售后服务。\[6\]
@@ -40,8 +40,8 @@ PlayStation 2
       - 2005年11月在全球創下一億部的生產銷售部數紀錄。
       - 2009年8月18日，索尼官方宣布PS2全球銷量達到破紀錄的一億四千萬部，是有史以來最暢銷的遊戲主機。
       - 2011年，PS2遊戲機的全球銷量已突破1.5億大關。
-      - 2011至2012年的SONY聖誕期間銷售，根據Sony SCE發佈的官方情報，PS2的銷量為超過50萬，竟然比[PS
-        Vita的接近](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")50萬為多。
+      - 2011至2012年與SONY聖誕期間銷售，根據Sony SCE發佈的官方情報，PS2的銷量超過50萬，並超過[PS
+        Vita所打下的](https://zh.wikipedia.org/wiki/PS_Vita "wikilink")50萬銷量。
   - PlayStation
     2本身可向下相容[PlayStation的遊戲軟體](../Page/PlayStation.md "wikilink")，並可播放DVD影音光碟。值得一提的是，PS2的下一代遊戲機[PlayStation
     3的早期部分機型是可以向下支援PS](../Page/PlayStation_3.md "wikilink")2遊戲的（詳見「硬體設計與PlayStation
@@ -78,14 +78,14 @@ PS2的核心，中央處理器（CPU）是採用Emotion
 Engine（EE），EE為索尼與東芝合作開發的處理器，它是家用機領域首次采用的將GPU記憶體直接植入繪圖芯片的設計，EE整合了CPU核心、2組向量處理單元（VPU）、1組圖形處理單元（IPU），以及記憶體控制器、I/O介面、與圖形合成器（Graphics
 Synthesizer, GS）溝通的介面，擁有16KB暫存記憶體（Scratchpad memory），8KB資料快取，16KB指令快取。
 
-EE是採用128位架構，相比起個人電腦流行的16、32或64位架構，EE的設計領先許多，目的是加強CPU的尋址能力，提高同時處理大量數據的能力，以應付同時間的複雜畫面計算。
+EE採用128位架構，相比個人電腦流行的16、32或64位架構，EE的設計領先許多，目的是加強CPU的尋址能力，提高同時處理大量數據的能力，以應付同時間的複雜畫面計算。
 
-GS是16管線的GPU，並無特殊之處。但是記憶體介面設計非常前衛。記憶體匯流排被分成3個系統，包括1024bit讀取、1024bit寫入、512bit讀寫雙向，即總頻寬高達2560
+GS為16管線的GPU，並無特殊之處。但是記憶體介面設計非常前衛。記憶體匯流排被分成3個系統，包括1024bit讀取、1024bit寫入、512bit讀寫雙向，即總頻寬高達2560
 bit，嵌入於GPU的DRAM可以提供48GB/s的資料傳輸頻寬。當時2000年的最強的[顯示卡](https://zh.wikipedia.org/wiki/顯示卡 "wikilink")[NVIDIA](https://zh.wikipedia.org/wiki/NVIDIA "wikilink")
 GeForce2 Ultra記憶體頻寬只有7.36GB/s。
 
 PS2的後繼機種 PlayStation 3（PS3）的GPU記憶體頻寬只有22.4
-GB/s，讓PS3對PS2軟體的相容性出了很大的問題。早期的解決方法是在PS3主機內加入EE和GS，硬是把PS2的核心零件塞進去，這樣PS3便能完全相容PS2遊戲。考慮到成本和PS2銷售（PS2在PS3推出後一段長時間仍銷售，在2007年更推出全新的PS2
+GB/s，讓PS3對PS2軟體的相容性出了很大的問題。早期的解決方法为在PS3主機內加入EE和GS，硬性将PS2的核心零件安置主机，這樣PS3便能完全相容PS2遊戲。考慮到成本和PS2銷售（PS2在PS3推出後一段長時間仍銷售，在2007年更推出全新的PS2
 SCPH-90000系列），因此索尼之後推出的PS3取消了EE，改以軟體模擬的方式執行PS2遊戲，但這會造成部份遊戲無法順利於PS3上運作，而且由於使用者無法得知哪一款PS2遊戲能相容以軟體模擬的PS3，最後索尼在這之後推出的PS3便完全不相容任何PS2的遊戲。
 
 ## 詳細規格

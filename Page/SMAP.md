@@ -2564,7 +2564,7 @@ SMAP初次出演“[FNS歌谣祭](https://zh.wikipedia.org/wiki/FNS歌谣祭 "wi
 
 <!-- end list -->
 
-  - [軟銀](https://zh.wikipedia.org/wiki/軟銀 "wikilink")
+  - [軟銀](../Page/軟銀.md "wikilink")
       - 公司形象广告片（2009年-2015年）
 
       - （2009年）

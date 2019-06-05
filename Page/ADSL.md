@@ -78,7 +78,7 @@ APPLE通常提供三种网络登录方式：
   - [DSL论坛，促进ADSL標準制定的组织](http://www.dslforum.org/)
   - [ADSL常见故障及维护_调制解调器故障_电脑维修网](https://web.archive.org/web/20080601235132/http://www.5cha.org/article/sort02/sort026/info-225.html)
   - [有问必答ADSL常见疑难问题FAQ](http://net.zdnet.com.cn/network_security_zone/2008/0528/889710.shtml)
-  - [ADSL应用面面俱到专题](http://www.qqread.com/z/network/adsl/index.html)
+  - [ADSL应用面面俱到专题](https://web.archive.org/web/20080609080614/http://www.qqread.com/z/network/adsl/index.html)
 
 [sv:Digital Subscriber
 Line\#ADSL](https://zh.wikipedia.org/wiki/sv:Digital_Subscriber_Line#ADSL "wikilink")

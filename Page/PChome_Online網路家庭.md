@@ -14,7 +14,8 @@ PChome也是網路電話服務[Skype的台灣代理商](../Page/Skype.md "wikili
 ### 集團服務
 
   - 海外電商平台：PChomeUSA、PChomeThai
-  - 支付服務：PChomePay支付連（第三方支付）、PChome國際連（電子支付）、Pi拍錢包（行動支付）
+  - 支付服務：PChomePay支付連（第三方支付）、PChome國際連（電子支付）、[Pi
+    拍錢包](https://zh.wikipedia.org/wiki/Pi_拍錢包 "wikilink")（行動支付）
   - 房屋仲介服務：樂屋網
   - 網路應用服務：PChome\&Skype（PChome為[Skype的台灣代理商](../Page/Skype.md "wikilink")）、Yiabi（新聞應用）、PChome
     IM（手機通訊App）、IThome電腦報、Lingvist（AI語言學習）

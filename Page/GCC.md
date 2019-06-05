@@ -1,20 +1,17 @@
 **GNU编译器套裝**（，縮寫為**GCC**），指一套[编程語言](https://zh.wikipedia.org/wiki/编程語言 "wikilink")[编译器](https://zh.wikipedia.org/wiki/编译器 "wikilink")，以[GPL及](https://zh.wikipedia.org/wiki/GPL "wikilink")[LGPL許可證所發行的](https://zh.wikipedia.org/wiki/LGPL "wikilink")[自由軟體](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，也是[GNU計畫的关键部分](https://zh.wikipedia.org/wiki/GNU計畫 "wikilink")，也是[GNU工具链的主要組成部份之一](https://zh.wikipedia.org/wiki/GNU工具链 "wikilink")。GCC（特别是其中的C语言编译器）也常被认为是跨平台编译器的事实标准。1985年由[理查德·马修·斯托曼開始發展](https://zh.wikipedia.org/wiki/理查德·马修·斯托曼 "wikilink")，現在由[自由軟體基金會負責維護工作](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")。
 
-原名為**GNU C語言編譯器**（**GNU C
-Compiler**），因為它原本只能處理[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")。GCC在发布后很快地得到擴展，變得可處理[C++](../Page/C++.md "wikilink")。之後也變得可處理[Fortran](../Page/Fortran.md "wikilink")、[Pascal](../Page/Pascal_\(程式語言\).md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Ada](../Page/Ada.md "wikilink")，[Go與其他語言](../Page/Go.md "wikilink")。
+原名為**GNU
+C語言編譯器**（），因為它原本只能處理[C語言](https://zh.wikipedia.org/wiki/C語言 "wikilink")。GCC在发布后很快地得到擴展，變得可處理[C++](../Page/C++.md "wikilink")。之後也變得可處理[Fortran](../Page/Fortran.md "wikilink")、[Pascal](../Page/Pascal_\(程式語言\).md "wikilink")、[Objective-C](../Page/Objective-C.md "wikilink")、[Java](../Page/Java.md "wikilink")、[Ada](../Page/Ada.md "wikilink")，[Go與其他語言](../Page/Go.md "wikilink")。
 
-許多操作系统，包括許多[类Unix系統](https://zh.wikipedia.org/wiki/类Unix "wikilink")，如[Linux及BSD家族都採用GCC作為标准编译器](../Page/Linux.md "wikilink")。蘋果電腦预装的[Mac
-OS
-X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[操作系统也採用這個編譯器](../Page/操作系统.md "wikilink")。
+許多操作系统，包括許多[类Unix系統](https://zh.wikipedia.org/wiki/类Unix "wikilink")，如[Linux及BSD家族都採用GCC作為标准编译器](../Page/Linux.md "wikilink")。
 
 GCC原本用C開發，後來因為[LLVM](../Page/LLVM.md "wikilink")、[Clang的崛起](../Page/Clang.md "wikilink")，它更快地將開發語言轉換為C++。許多C的愛好者在對C++一知半解的情況下主觀認定C++的性能一定會輸給C，但是Ian
-Lance Taylor給出了不同的意見，並表明C++不但性能不輸給C，而且能設計出更好，更容易維護的程式（[GCC's move to
-C++](https://lwn.net/Articles/542457/)、[Taylor的演讲簡報](http://airs.com/ian/cxx-slides.pdf)）。
+Lance Taylor給出了不同的意見，並表明C++不但性能不輸給C，而且能設計出更好，更容易維護的程式\[1\]\[2\]。
 
 ## 概觀
 
 GCC是由[理查德·马修·斯托曼在](https://zh.wikipedia.org/wiki/理查德·马修·斯托曼 "wikilink")1985年開始的。他首先擴增一個舊有的編譯器，使它能編譯C，這個編譯器一開始是以Pastel語言所寫的。Pastel是一個不可移植的[Pascal語言特殊版](../Page/Pascal_\(程式語言\).md "wikilink")，這個編譯器也只能編譯Pastel語言。為了讓[自由軟體有一個編譯器](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")，後來此編譯器由斯托曼和[Len
-Tower在](https://zh.wikipedia.org/wiki/Leonard_H._Tower_Jr. "wikilink")1987年\[1\]以C語言重寫\[2\]並成為GNU專案的編譯器。GCC的建立者由[自由軟體基金會直接管理](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")\[3\]。
+Tower在](https://zh.wikipedia.org/wiki/Leonard_H._Tower_Jr. "wikilink")1987年\[3\]以C語言重寫\[4\]並成為GNU專案的編譯器。GCC的建立者由[自由軟體基金會直接管理](https://zh.wikipedia.org/wiki/自由軟體基金會 "wikilink")\[5\]。
 
 在1997年，一群不滿GCC緩慢且封閉的創作環境者，組織了一個名為[EGCS](https://zh.wikipedia.org/wiki/EGCS "wikilink")（Experimental/Enhanced
 GNU Compiler
@@ -71,7 +68,7 @@ Fortran前端在4.0版之前是G77，此前端僅支援Fortran
 ### 内嵌OpenMP支持
 
 [OpenMP是一种跨语言的](../Page/OpenMP.md "wikilink")[对称多处理机多](https://zh.wikipedia.org/wiki/对称多处理机 "wikilink")[线程](../Page/线程.md "wikilink")[并行程序的编程工具](https://zh.wikipedia.org/wiki/平行計算 "wikilink")，也非常适合当今越来越流行的单CPU多核硬件环境，因此从gcc4.2开始，OpenMP成为其内嵌支持的并行编程规范，可以直接编译内嵌OpenMP语句的C/C++/Fortran95的源代码。gcc4.2之前如果想在C/C++/Fortran中嵌入OpenMP语句的话，需要额外安装库和预处理器才能识别和正确处理这些语句。现在
-GCC GOMP 计划实现了这些支持\[4\]：
+GCC GOMP 计划实现了这些支持\[6\]：
 
   - gcc 4.2.0开始支持OpenMP v2.5
   - gcc 4.4.0开始支持OpenMP v3.0
@@ -155,7 +152,7 @@ GCC目前支援下列處理器架構（以4.1版為準）：
 
   - [Z8000](https://zh.wikipedia.org/wiki/Zilog_Z8000 "wikilink")
   - [NEC](https://zh.wikipedia.org/wiki/NEC "wikilink") SX-9
-    [並行向量處理機](https://zh.wikipedia.org/wiki/並行向量處理機 "wikilink")\[5\]
+    [並行向量處理機](https://zh.wikipedia.org/wiki/並行向量處理機 "wikilink")\[7\]
 
 當GCC需要移植到一個新平台上，通常使用此平台固有的語言來撰寫其**初始階段**。
 
@@ -262,14 +259,16 @@ leak）。而[GNU測量器](https://zh.wikipedia.org/wiki/GNU測量器 "wikilink
 [Category:GNU計劃軟體](https://zh.wikipedia.org/wiki/Category:GNU計劃軟體 "wikilink")
 [Category:C編譯器](https://zh.wikipedia.org/wiki/Category:C編譯器 "wikilink")
 
-1.  Tower, Leonard (1987) "[GNU
+1.  [GCC's move to C++](https://lwn.net/Articles/542457/)
+2.  [Taylor的演讲簡報](http://airs.com/ian/cxx-slides.pdf)
+3.  Tower, Leonard (1987) "[GNU
     C編譯器beta測試版釋出](http://groups.google.com/group/comp.lang.misc/msg/32eda22392c20f98)"
     *comp.lang.misc*
     USENET新聞群組；參閱http://gcc.gnu.org/releases.html\#timeline
-2.
-3.  Stallman, Richard M. (2001)
+4.
+5.  Stallman, Richard M. (2001)
     "[GCC貢獻者名單](http://gcc.gnu.org/onlinedocs/gcc-2.95.3/gcc_23.html#SEC260)"於[*使用及移植GCC 2.95版*](http://gcc.gnu.org/onlinedocs/gcc-2.95.3/gcc.html#SEC_Top)（Cambridge,
     Mass.: Free Software Foundation）
-4.  [GOMP计划](http://gcc.gnu.org/projects/gomp/)
-5.  [sx-gcc - port gcc to nec sx vector cpu - Google Project
+6.  [GOMP计划](http://gcc.gnu.org/projects/gomp/)
+7.  [sx-gcc - port gcc to nec sx vector cpu - Google Project
     Hosting](http://code.google.com/p/sx-gcc/)

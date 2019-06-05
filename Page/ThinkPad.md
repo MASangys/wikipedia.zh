@@ -369,8 +369,8 @@ Logo.jpg|[联想集团收购ThinkPad后的新标志](https://zh.wikipedia.org/wi
     Forum 51nb](http://www.51nb.com/)
   - [日本IBM大和事業所參訪行程介紹特集](http://www.tpuser.idv.tw/articles/yamato-2.htm)
 
-[Category:筆記型電腦](https://zh.wikipedia.org/wiki/Category:筆記型電腦 "wikilink")
-[Category:IBM](https://zh.wikipedia.org/wiki/Category:IBM "wikilink")
+[Category:IBM笔记本电脑](https://zh.wikipedia.org/wiki/Category:IBM笔记本电脑 "wikilink")
+[Category:联想笔记本电脑](https://zh.wikipedia.org/wiki/Category:联想笔记本电脑 "wikilink")
 [Category:好設計獎](https://zh.wikipedia.org/wiki/Category:好設計獎 "wikilink")
 
 1.  [IBM ThinkPads in

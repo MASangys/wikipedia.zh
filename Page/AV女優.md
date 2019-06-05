@@ -133,7 +133,7 @@ AV女優同時在演藝界活躍的包括：（主持人）[Rio](../Page/Rio_\(A
 
 [Haru_Asahina_4.jpg](https://zh.wikipedia.org/wiki/File:Haru_Asahina_4.jpg "fig:Haru_Asahina_4.jpg")於美國的成人博覽會中露臉，攝於2006年1月7日。著名的AV女演員經常會參加各種展示場合，並與影迷們握手、簽名或合照留念。\]\]
 
-### 單體／専屬女優
+### 單體／專屬女優
 
 以個人女優形象者为少數，通常有亮麗外表，以偶像形式行銷。
 
@@ -151,9 +151,9 @@ AV女優同時在演藝界活躍的包括：（主持人）[Rio](../Page/Rio_\(A
 
 單體女優通常因演出費較高而被限制1個月只拍1部，而企劃單體女優則因為演出費較低（一般是單體和企劃類型中間的金額），片商會大量拍片來賺錢。例如：[朝河蘭](https://zh.wikipedia.org/wiki/朝河蘭 "wikilink")：2年516部（1個月21部）、[桃井望](../Page/桃井望.md "wikilink")：2年160部（1個月6部）、長瀨愛：3年120部（1個月3部）、笠木忍：6年200部（1個月2.7部）都是在2002年左右的AV興盛時期才能有高拍片量。而到2007年，則有[乃亞](../Page/乃亞.md "wikilink")：3年300部（1個月8.3部）、[立花里子](../Page/立花里子.md "wikilink")：4年170部（1個月3.5部）及[紅音螢](../Page/紅音螢.md "wikilink")：4年130部（1個月2.7部）。
 
-### 長期専屬女優
+### 長期專屬女優
 
-※下表僅列出截至2019年3月（包括出版發行時間表）為止，在作品包裝上印有「**專屬**」標記，且在各個片商中**專屬狀態超過1年（含）以上**的專屬女優\[9\]\[10\]。**[粗體](../Page/粗體.md "wikilink")**為2家片商專屬，*[斜體](https://zh.wikipedia.org/wiki/斜體 "wikilink")*為[AV](https://zh.wikipedia.org/wiki/AV "wikilink")[出道](https://zh.wikipedia.org/wiki/出道 "wikilink")，「停」為作品發行停止中，「復」為專屬回歸。
+※下表僅列出截至2019年6月（包括出版發行時間表）為止，在作品包裝上印有「**專屬**」標記，且在各個片商中**專屬狀態超過1年（含）以上**的專屬女優\[9\]\[10\]。**[粗體](../Page/粗體.md "wikilink")**為2家片商專屬，*[斜體](https://zh.wikipedia.org/wiki/斜體 "wikilink")*為[AV](https://zh.wikipedia.org/wiki/AV "wikilink")[出道](https://zh.wikipedia.org/wiki/出道 "wikilink")，「停」為作品發行停止中，「復」為專屬回歸。
 
 <table>
 <colgroup>
@@ -174,96 +174,102 @@ AV女優同時在演藝界活躍的包括：（主持人）[Rio](../Page/Rio_\(A
 <tr class="odd">
 <td><p><a href="../Page/CA集團.md" title="wikilink">WILL</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/エスワン" title="wikilink">S1</a></p></td>
-<td><p><strong><a href="../Page/吉澤明步.md" title="wikilink">吉澤明步</a></strong> <em><a href="../Page/夢乃愛華.md" title="wikilink">夢乃愛華</a></em> <a href="../Page/星野娜美.md" title="wikilink">星野娜美</a> <a href="../Page/奥田咲.md" title="wikilink">奥田咲</a> <em><a href="../Page/天使萌.md" title="wikilink">天使萌</a></em> <em><a href="../Page/葵_(AV女優).md" title="wikilink">葵</a></em> <a href="../Page/葵司.md" title="wikilink">葵司</a> <em><a href="../Page/橋本有菜.md" title="wikilink">橋本有菜</a></em> <a href="../Page/羽咲美晴.md" title="wikilink">羽咲美晴</a> <a href="https://zh.wikipedia.org/wiki/三上悠亜" title="wikilink">三上悠亜</a> <em><a href="https://zh.wikipedia.org/wiki/吉高寧寧" title="wikilink">吉高寧寧</a></em> <em><a href="https://zh.wikipedia.org/wiki/架乃由羅" title="wikilink">架乃由羅</a></em></p></td>
+<td><p><em><a href="../Page/夢乃愛華.md" title="wikilink">夢乃愛華</a></em> <a href="../Page/星野娜美.md" title="wikilink">星野娜美</a> <a href="../Page/奥田咲.md" title="wikilink">奥田咲</a> <em><a href="../Page/天使萌.md" title="wikilink">天使萌</a></em> <em><a href="../Page/葵_(AV女優).md" title="wikilink">葵</a></em> <a href="../Page/葵司.md" title="wikilink">葵司</a> <em><a href="../Page/橋本有菜.md" title="wikilink">橋本有菜</a></em> <a href="../Page/羽咲美晴.md" title="wikilink">羽咲美晴</a> <a href="../Page/三上悠亞.md" title="wikilink">三上悠亞</a> <em><a href="https://zh.wikipedia.org/wiki/吉高寧寧" title="wikilink">吉高寧寧</a></em> <em><a href="https://zh.wikipedia.org/wiki/架乃由羅" title="wikilink">架乃由羅</a></em></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Madonna_(公司).md" title="wikilink">Madonna</a></p></td>
-<td><p><em><a href="../Page/白木優子.md" title="wikilink">白木優子</a></em> <em><a href="../Page/大島優香.md" title="wikilink">大島優香</a></em> <a href="../Page/友田真希.md" title="wikilink">友田真希</a> <em><a href="https://zh.wikipedia.org/wiki/一色桃子" title="wikilink">一色桃子</a></em></p></td>
-<td></td>
+<td><p><a href="../Page/IdeaPocket.md" title="wikilink">IdeaPocket</a></p></td>
+<td><p>|TISSUE</p></td>
+<td><p><em><a href="../Page/天海翼.md" title="wikilink">天海翼</a></em> <em><a href="../Page/桃乃木香奈.md" title="wikilink">桃乃木香奈</a></em> <em><a href="../Page/相澤南.md" title="wikilink">相澤南</a></em> <em><a href="../Page/西宮夢.md" title="wikilink">西宮夢</a></em> <em><a href="https://zh.wikipedia.org/wiki/櫻空桃" title="wikilink">櫻空桃</a></em> <strong><a href="../Page/希崎潔西卡.md" title="wikilink">希崎潔西卡</a></strong> <em><a href="../Page/岬奈奈美.md" title="wikilink">岬奈奈美</a></em> <em><a href="https://zh.wikipedia.org/wiki/益坂美亞" title="wikilink">益坂美亞</a></em> <em><a href="../Page/結城乃乃.md" title="wikilink">結城乃乃</a></em></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/MOODYZ.md" title="wikilink">MOODYZ</a></p></td>
 <td><p>DiVA</p></td>
-<td><p><strong><a href="../Page/蕾_(AV女優).md" title="wikilink">蕾</a></strong> <em><a href="../Page/初川南.md" title="wikilink">初川南</a></em> <a href="../Page/秋山祥子.md" title="wikilink">秋山祥子</a> <a href="../Page/高橋聖子.md" title="wikilink">高橋聖子</a> <em><a href="https://zh.wikipedia.org/wiki/七澤米亞" title="wikilink">七澤米亞</a></em> <a href="../Page/水卜櫻.md" title="wikilink">水卜櫻</a></p></td>
+<td><p><strong><a href="../Page/蕾_(AV女優).md" title="wikilink">蕾</a></strong> <em><a href="../Page/初川南.md" title="wikilink">初川南</a></em> <a href="../Page/秋山祥子.md" title="wikilink">秋山祥子</a> <em><a href="../Page/伊東千奈美.md" title="wikilink">伊東千奈美</a></em> <a href="../Page/高橋聖子.md" title="wikilink">高橋聖子</a> <em><a href="https://zh.wikipedia.org/wiki/七澤米亞" title="wikilink">七澤米亞</a></em> <a href="../Page/水卜櫻.md" title="wikilink">水卜櫻</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/IdeaPocket.md" title="wikilink">IdeaPocket</a></p></td>
-<td><p>多数</p></td>
-<td><p><em><a href="../Page/天海翼.md" title="wikilink">天海翼</a></em> <em><a href="../Page/桃乃木香奈.md" title="wikilink">桃乃木香奈</a></em> <em><a href="../Page/相澤南.md" title="wikilink">相澤南</a></em> <em><a href="../Page/西宮夢.md" title="wikilink">西宮夢</a></em> <em><a href="https://zh.wikipedia.org/wiki/櫻空桃" title="wikilink">櫻空桃</a></em> <strong><a href="../Page/希崎潔西卡.md" title="wikilink">希崎潔西卡</a></strong> <em><a href="../Page/岬奈奈美.md" title="wikilink">岬奈奈美</a></em></p></td>
+<td><p><a href="../Page/Madonna_(公司).md" title="wikilink">Madonna</a></p></td>
+<td><p><em><a href="../Page/白木優子.md" title="wikilink">白木優子</a></em> <em><a href="../Page/大島優香.md" title="wikilink">大島優香</a></em> <a href="../Page/友田真希.md" title="wikilink">友田真希</a> <em><a href="https://zh.wikipedia.org/wiki/一色桃子" title="wikilink">一色桃子</a></em> <em><a href="../Page/加瀨佳奈子.md" title="wikilink">加瀨佳奈子</a></em> <em><a href="https://zh.wikipedia.org/wiki/水戶香奈" title="wikilink">水戶香奈</a></em></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Attackers" title="wikilink">ATTACKERS</a></p></td>
-<td><p><strong><a href="../Page/川上奈奈美.md" title="wikilink">川上奈奈美</a></strong> <a href="../Page/西野翔.md" title="wikilink">西野翔</a> <a href="../Page/松下紗榮子.md" title="wikilink">松下紗榮子</a> <a href="https://zh.wikipedia.org/wiki/夏目彩春" title="wikilink">夏目彩春</a><strong>希崎潔西卡</strong></p></td>
-<td></td>
+<td><p>多數</p></td>
+<td><p><strong><a href="../Page/川上奈奈美.md" title="wikilink">川上奈奈美</a></strong> <a href="../Page/西野翔.md" title="wikilink">西野翔</a> <a href="../Page/松下紗榮子.md" title="wikilink">松下紗榮子</a> <strong><a href="../Page/織田真子.md" title="wikilink">織田真子</a></strong> <a href="https://zh.wikipedia.org/wiki/夏目彩春" title="wikilink">夏目彩春</a><strong>希崎潔西卡</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/JULIA_(AV女優).md" title="wikilink">JULIA</a> <a href="../Page/Hitomi_(AV女優).md" title="wikilink">Hitomi</a> <a href="../Page/桐谷茉莉.md" title="wikilink">桐谷茉莉</a></p></td>
+<td><p><strong><a href="../Page/JULIA_(AV女優).md" title="wikilink">JULIA</a></strong> <a href="../Page/Hitomi_(AV女優).md" title="wikilink">Hitomi</a> <a href="../Page/桐谷茉莉.md" title="wikilink">桐谷茉莉</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Wanz_Factory" title="wikilink">WANZ FACTORY</a></p></td>
-<td><p><strong>蕾</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/kawaii*" title="wikilink">kawaii*</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/櫻萌子" title="wikilink">櫻萌子</a></em> <em><a href="https://zh.wikipedia.org/wiki/伊藤舞雪" title="wikilink">伊藤舞雪</a></em></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Wanz_Factory" title="wikilink">WANZ FACTORY</a></p></td>
+<td><p><strong>蕾</strong> <strong>JULIA</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/東凛" title="wikilink">東凛</a></em> <a href="https://zh.wikipedia.org/wiki/希島愛里" title="wikilink">希島愛里</a> <a href="../Page/佐山愛.md" title="wikilink">佐山愛</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><strong>織田真子</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Premium_(AV片商)" title="wikilink">PREMIUM</a></p></td>
 <td><p><em><a href="../Page/山岸逢花.md" title="wikilink">山岸逢花</a></em></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td></td>
-<td><p><em><a href="https://zh.wikipedia.org/wiki/東凛" title="wikilink">東凛</a></em></p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
-<td></td>
-<td><p><a href="../Page/織田真子.md" title="wikilink">織田真子</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>[11]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Max-A" title="wikilink">MAX-A</a></p></td>
 <td><p>多数</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/長瀬麻美" title="wikilink">長瀬麻美</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Alice_Japan" title="wikilink">Alice Japan</a></p></td>
 <td><p><strong><em>川上奈奈美</em></strong></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Soft_On_Demand.md" title="wikilink">SOD</a></p></td>
 <td><p><a href="../Page/Soft_On_Demand.md" title="wikilink">SODcreate</a></p></td>
 <td><p>SODstar</p></td>
-<td><p><em><a href="../Page/紗倉真菜.md" title="wikilink">紗倉真菜</a></em> <em><a href="https://zh.wikipedia.org/wiki/古川伊織" title="wikilink">古川伊織</a></em> <em><a href="../Page/白石茉莉奈.md" title="wikilink">白石茉莉奈</a></em> <em><a href="../Page/市川雅美.md" title="wikilink">市川雅美</a></em> <em><a href="https://zh.wikipedia.org/wiki/戸田真琴" title="wikilink">戸田真琴</a></em> <em><a href="https://zh.wikipedia.org/wiki/竹田夢" title="wikilink">竹田夢</a></em> <em><a href="https://zh.wikipedia.org/wiki/小倉由菜" title="wikilink">小倉由菜</a></em></p></td>
+<td><p><em><a href="../Page/紗倉真菜.md" title="wikilink">紗倉真菜</a></em> <em><a href="https://zh.wikipedia.org/wiki/古川伊織" title="wikilink">古川伊織</a></em> <em><a href="../Page/白石茉莉奈.md" title="wikilink">白石茉莉奈</a></em> <em><a href="../Page/市川雅美.md" title="wikilink">市川雅美</a></em> <em><a href="https://zh.wikipedia.org/wiki/戶田真琴" title="wikilink">戶田真琴</a></em> <em><a href="https://zh.wikipedia.org/wiki/竹田夢" title="wikilink">竹田夢</a></em> <em><a href="https://zh.wikipedia.org/wiki/小倉由菜" title="wikilink">小倉由菜</a></em></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/KM_Produce.md" title="wikilink">Top Marshal</a></p></td>
 <td><p><a href="../Page/KM_Produce.md" title="wikilink">KMP</a></p></td>
 <td><p>Million</p></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/佐倉絆" title="wikilink">佐倉絆</a></em></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/PRESTIGE.md" title="wikilink">PRESTIGE</a></p></td>
 <td><p>多数</p></td>
-<td><p><em><a href="../Page/鈴村愛里.md" title="wikilink">鈴村愛里</a></em> <a href="../Page/園田美櫻.md" title="wikilink">園田美櫻</a> <em><a href="../Page/愛音麻里亞.md" title="wikilink">愛音麻里亞</a></em> <a href="https://zh.wikipedia.org/wiki/里美尤利婭" title="wikilink">里美尤利婭</a> <em><a href="https://zh.wikipedia.org/wiki/乙都咲乃" title="wikilink">乙都咲乃</a></em>  <em><a href="../Page/春咲涼.md" title="wikilink">春咲涼</a></em>  <em><a href="../Page/河合明日菜.md" title="wikilink">河合明日菜</a></em> </p></td>
+<td><p><em><a href="../Page/鈴村愛里.md" title="wikilink">鈴村愛里</a></em> <a href="../Page/園田美櫻.md" title="wikilink">園田美櫻</a> <em><a href="../Page/愛音麻里亞.md" title="wikilink">愛音麻里亞</a></em> <em><a href="../Page/春咲涼.md" title="wikilink">春咲涼</a></em>  <em><a href="https://zh.wikipedia.org/wiki/乙都咲乃" title="wikilink">乙都咲乃</a></em>  <em><a href="../Page/河合明日菜.md" title="wikilink">河合明日菜</a></em>  <em><a href="../Page/藤江史帆.md" title="wikilink">藤江史帆</a></em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Maxing" title="wikilink">MAXING</a></p></td>
-<td><p><strong>吉澤明步</strong> <em><a href="https://zh.wikipedia.org/wiki/由愛可奈" title="wikilink">由愛可奈</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/由愛可奈" title="wikilink">由愛可奈</a></em></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -322,7 +328,7 @@ AV女優同時在演藝界活躍的包括：（主持人）[Rio](../Page/Rio_\(A
 [Category:色情](https://zh.wikipedia.org/wiki/Category:色情 "wikilink")
 [Category:女性色情演員](https://zh.wikipedia.org/wiki/Category:女性色情演員 "wikilink")
 
-1.  在[日语](../Page/日语.md "wikilink")[漢字詞彙中](https://zh.wikipedia.org/wiki/漢字詞 "wikilink")，“優”意即“演員”，引用了[中文古書以](../Page/漢字史.md "wikilink")「優伶」一詞表示[戲子（演員）的意思](https://zh.wikipedia.org/wiki/演員 "wikilink")。“男優”即為“男演員”，“女優”即為“女演員”。
+1.  在[日语](../Page/日语.md "wikilink")[漢字詞彙中](https://zh.wikipedia.org/wiki/漢字詞 "wikilink")，“優”意即“演員”，引用了[中文古書以](../Page/漢字史.md "wikilink")「優伶」一詞表示[戲子（演員）的意思](../Page/演員.md "wikilink")。“男優”即為“男演員”，“女優”即為“女演員”。
 
 2.  日本語“”，，縮寫
     。意即[成人影片](https://zh.wikipedia.org/wiki/色情片#日本成人視訊 "wikilink")。
@@ -339,8 +345,8 @@ AV女優同時在演藝界活躍的包括：（主持人）[Rio](../Page/Rio_\(A
 8.
 9.  在同集團內其他片商客串演出而共同發布的作品只能算在專屬片商內。6個月以上未發布新作品將被視為失去專屬（包含未發行版本和總集篇，個人精選除外），來作為沒有宣布任何消息的標準。
 
-10. [アダルトDVD主要メーカー専属女優リスト](http://www.dmm.co.jp/mono/dvd/-/exclusive_actress/)
-    - DMM.R18
+10. [AV主要メーカー専属女優リスト](https://www.dmm.co.jp/mono/dvd/-/exclusive-actress/)
+    - FANZA
 
 11. 由於2016年JHV跟WILL的流通部門進行了整合，兩者可被視為屬於同一個集團。
 

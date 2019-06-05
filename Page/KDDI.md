@@ -1,6 +1,6 @@
 **KDDI**是一家[日本大型](../Page/日本.md "wikilink")[-{zh-cn:电信公司; zh-hk:電訊公司;
 zh-tw: 電信公司;
-zh-sg:电信公司;}-](https://zh.wikipedia.org/wiki/電訊公司 "wikilink")，在2000年10月1日由（DDI）、、（IDO）等三家公司[合併而成](https://zh.wikipedia.org/wiki/合併 "wikilink")，主要與共同使用「」這個品牌提供[手機](../Page/移动电话.md "wikilink")、[固網](https://zh.wikipedia.org/wiki/固網電信 "wikilink")、[網際網路等](../Page/互联网服务供应商.md "wikilink")[電信服務](https://zh.wikipedia.org/wiki/電信 "wikilink")。其營業規模在日本三大綜合電信業者中（[NTT](../Page/日本電信電話.md "wikilink")、KDDI、[Softbank](https://zh.wikipedia.org/wiki/軟銀 "wikilink")）排名第二\[1\]。
+zh-sg:电信公司;}-](https://zh.wikipedia.org/wiki/電訊公司 "wikilink")，在2000年10月1日由（DDI）、、（IDO）等三家公司[合併而成](https://zh.wikipedia.org/wiki/合併 "wikilink")，主要與共同使用「」這個品牌提供[手機](../Page/移动电话.md "wikilink")、[固網](https://zh.wikipedia.org/wiki/固網電信 "wikilink")、[網際網路等](../Page/互联网服务供应商.md "wikilink")[電信服務](https://zh.wikipedia.org/wiki/電信 "wikilink")。其營業規模在日本三大綜合電信業者中（[NTT](../Page/日本電信電話.md "wikilink")、KDDI、[Softbank](../Page/軟銀.md "wikilink")）排名第二\[1\]。
 
 ## 簡介
 
@@ -34,6 +34,16 @@ KDDI另有2G的系統服務（[PDC](../Page/PDC.md "wikilink")），並使用品
 Telecommunications Inc. 37.8%的股權出售给KDDI。
 
 2010年，KDDI投資台灣最大線上音樂公司[KKBOX](../Page/KKBOX.md "wikilink")，成為KKBOX最大股東。
+
+#### LTE頻段
+
+  - FDD-LTE 2100Mhz (Band 1)
+  - FDD-LTE 1800MHz(Band 3)
+  - FDD-LTE 1500Mhz(Band 11)
+  - FDD-LTE 800Mhz (Band 18)
+  - FDD-LTE 850MHz(Band1 26)
+  - FDD-LTE 700MHz(Band1 28)
+  - TDD-LTE 3400MHz～3600MHz(Band42) 撥給 WiMAX 2.1
 
 ## 海外事業
 

@@ -1,6 +1,6 @@
 《**ONE
 PIECE**》（，中文譯名：海賊王、航海王）是[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[尾田榮一郎創作的一部著名的](https://zh.wikipedia.org/wiki/尾田榮一郎 "wikilink")[少年漫畫作品](https://zh.wikipedia.org/wiki/少年漫畫 "wikilink")，至今仍連載中，該作品內容為描述一名少年**[蒙其·D·魯夫](../Page/蒙其·D·魯夫.md "wikilink")**想要得到「**ONE
-PIECE**」和成為「**海賊王**」的[故事](https://zh.wikipedia.org/wiki/故事 "wikilink")。
+PIECE**」和成為「**海賊王**」的[故事](../Page/故事.md "wikilink")。
 
 該作於[1997年起在日本](../Page/1997年.md "wikilink")[漫畫](https://zh.wikipedia.org/wiki/漫畫 "wikilink")[雜誌](https://zh.wikipedia.org/wiki/雜誌 "wikilink")《[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")》（[集英社](../Page/集英社.md "wikilink")）定期連載，之後被改編為各種系列的[衍生作品](https://zh.wikipedia.org/wiki/ONE_PIECE#衍生作品 "wikilink")，主要包括同名的[電視動畫](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")、[電影](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\)#電影 "wikilink")、[小說和](https://zh.wikipedia.org/wiki/ONE_PIECE#輕小說 "wikilink")[電子遊戲等周邊](https://zh.wikipedia.org/wiki/ONE_PIECE#電子遊戲 "wikilink")[媒體產品](https://zh.wikipedia.org/wiki/媒體 "wikilink")。
 
@@ -1066,12 +1066,14 @@ COMICS) \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") 
 978-4-08-780751-6 |2016年1月11日 |ISBN 978-986-431-977-0 |}
 
   -
-    原作：尾田榮一郎。目前已出版2冊，日本由集英社發行，台灣目前尚未代理。
+    原作：尾田榮一郎。目前已出版2冊，日本由集英社發行，香港由天下出版發行，台灣目前尚未代理。
     {| class="wikitable" style="font-size:small;"
 
 \! rowspan="2" |卷數 \! colspan="2" | [集英社](../Page/集英社.md "wikilink")
-(JUMP COMICS) |- \!發售日期\!\!ISBN |- \! 1 | 2018年6月4日 |ISBN
-978-4-08-881559-6 |- \! 2 | 2018年7月4日 |ISBN 978-4-08-881560-2 |}
+(JUMP COMICS) \! colspan="2" | 天下出版 |- \!發售日期\!\!ISBN\!\!發售日期\!\!ISBN |-
+\! 1 | 2018年6月4日 || ISBN 978-4-08-881559-6 | 2018年10月12日 || ISBN
+978-988-8217-38-0 |- \! 2 | 2018年7月4日 || ISBN 978-4-08-881560-2 |
+2019年3月29日 || |}
 
 ## 衍生作品
 
@@ -1355,7 +1357,7 @@ COMICS) \!colspan="2"| [東立出版社](../Page/東立出版社.md "wikilink") 
 <td><p>ACT</p></td>
 <td><p>PS2、GC</p></td>
 <td><p>1-4人</p></td>
-<td><p><a href="http://battlestadium.com/index.html">15</a></p></td>
+<td><p><a href="https://web.archive.org/web/20120204222620/http://battlestadium.com/index.html">15</a></p></td>
 <td></td>
 <td></td>
 </tr>

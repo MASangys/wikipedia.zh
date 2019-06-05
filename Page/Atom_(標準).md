@@ -56,7 +56,7 @@ Atom曾命名為「Echo」。
 
     <title>Example Feed</title>
     <subtitle>A subtitle.</subtitle>
-    <link href="http://example.org/feed/" rel="self" />
+    <link href="http://www.20to20.biz/feed/" rel="self" />
     <link href="http://example.org/" />
     <id>urn:uuid:60a76c80-d399-11d9-b91C-0003939e0af6</id>
     <updated>2003-12-13T18:30:02Z</updated>

@@ -78,6 +78,10 @@ Kitty摩天輪」。
 2015年1月全球最大Hello
 Kitty主題樂園[凱蒂貓家園在中國](https://zh.wikipedia.org/wiki/凱蒂貓家園 "wikilink")[浙江省安吉縣開幕試營運](../Page/浙江省.md "wikilink")，這是Kitty主題樂園全球僅有的三座之一，也是日本以外唯一樂園，凱蒂貓家園主打家庭溫馨遊樂所以沒有高速的雲霄飛車或高速機械設施，多是以慢速設施和人物遊行、表演、餐廳為主，園區還有Kitty主題星級旅館。園區採用差別大的兩種會員卡，一般卡約[人民幣幾百元能在購物時積點](https://zh.wikipedia.org/wiki/人民幣 "wikilink")，但另一種高級貴賓卡則是人民幣5萬元，該卡優惠和特權極多從停車場到幾乎所有設施和星級旅館主題房都有優先預定權或專屬通道，還能和扮演人物優先拍照、玩遊戲、花車遊行等。\[3\]
 
+2016年3月21日，[台鐵與](https://zh.wikipedia.org/wiki/台鐵 "wikilink")[長榮航空](../Page/長榮航空.md "wikilink")、台灣三麗鷗三方合作的「新太魯閣Hello
+Kitty彩繪列車」正式首航，開行臺北往返臺東之列車。周邊彩繪火車模型、不銹鋼便當盒、絨毛娃娃等Hello
+Kitty代銷產品都非常熱門，商品銷售總金額破千萬。
+
 ## 形象風格和起源
 
 就像是其他众多Sanrio的卡通人物，Hello
@@ -126,9 +130,21 @@ Kitty共同策劃[發行跨品牌商品](http://www.damanwoo.com/node/55805)。
 
 和她的雙胞胎妹妹Mimmy很像，但Kitty的蝴蝶結是紅色的且戴在左耳。 生日密碼是十一月一日【太陽．魔術師】。
 
+## 聲優
+
+  - 初代 - [白石冬美](../Page/白石冬美.md "wikilink")
+      - 『凱蒂和咪咪的新傘』(1981年)
+  - 2代 - [小山茉美](../Page/小山茉美.md "wikilink")
+      - 『Hello Kitty的灰姑娘』(1989年)其他
+  - 3代 - [林原惠](../Page/林原惠.md "wikilink")(1990年 - 現在)
+      - 『深夜\! 天才妙老爹』第12話(2018年)
+      - 『[GUNDAM](../Page/GUNDAM.md "wikilink") VS. HELLO KITTY』(2019年)
+      - 『[蠟筆小新](https://zh.wikipedia.org/wiki/蠟筆小新 "wikilink") 凱蒂醬 VS
+        不理醬』(2019年5月10日)
+
 ## Hello Kitty的家人（White家族）
 
-  - 咪咪（Mimmy White）：Hello Kitty的雙胞胎妹妹，右耳戴著黃色蝴蝶結，
+  - 咪咪（Mimmy White）：Hello Kitty的雙胞胎妹妹，右耳戴著黃色蝴蝶結。
   - 喬治（George White）：Hello Kitty的爸爸，是個商人，最喜歡閱讀報紙。
   - 瑪麗（Mary White）：Hello Kitty的媽媽，是個家庭主婦，最喜歡做水果派（尤其是蘋果派）。
   - 安森尼（或安東尼；Anthony White）：Hello Kitty的爺爺，最喜歡畫畫。

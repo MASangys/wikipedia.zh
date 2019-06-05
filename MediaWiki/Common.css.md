@@ -132,7 +132,7 @@ ul ul {
 
 } .hlist dd:after, .hlist li:after {
 
-`   content: " ·";`
+`   content: " · ";`
 `   font-weight: bold;`
 
 } .hlist dd:last-child:after, .hlist dt:last-child:after, .hlist
@@ -612,9 +612,9 @@ javascript
 
 }
 
-.nosecnum .mw-headline-number {
+.DYKvote h2, .DYKvote h3, .DYKvote h4 {
 
-`   display: none;`
+`   margin-top: 2em;`
 
 } /\*
 

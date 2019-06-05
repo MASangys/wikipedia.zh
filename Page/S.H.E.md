@@ -1,6 +1,6 @@
 **H**ebe（田馥甄）{{·}}**E**lla（陳嘉樺） | 國籍 =  | 居住地 =
 [臺灣](../Page/臺灣.md "wikilink") | 職業 =
-[歌手](../Page/歌手.md "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")
+[歌手](../Page/歌手.md "wikilink")、[演員](../Page/演員.md "wikilink")、[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")
 | 語言 =
 [國語](../Page/中華民國國語.md "wikilink")、[閩南語](https://zh.wikipedia.org/wiki/台灣閩南語 "wikilink")
 | 音樂類型 = [華語流行音樂](../Page/華語流行音樂.md "wikilink") | 演奏樂器 =
@@ -729,8 +729,7 @@ Today以及S](https://zh.wikipedia.org/wiki/LINE_Today "wikilink").H.E
 
 41. [SHE永遠不分開](http://www.merit-times.com.tw/NewsPage.aspx?Unid=179659)
 
-42. [S.H.E就算結婚也不解散
-    笑言要一起唱到80歲](http://entertainment.dbw.cn/system/2010/04/26/052472377.shtml)
+42.
 
 43. [田馥甄預購成績嚇嚇叫！　Selina、Ella「分身」力挺](http://www.nownews.com/2010/09/11/37-2645453.htm)(2010/09/11
     10:14)

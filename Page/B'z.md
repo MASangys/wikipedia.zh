@@ -15,9 +15,9 @@ The Best
 Rock
 Walk](https://zh.wikipedia.org/wiki/吉他中心#好萊塢搖滾大道 "wikilink")」，成為目前唯一受此殊榮的亞洲藝人\[5\]\[6\]。
 
-自1989年以來冠名為「[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")」的演唱會（根據公演内容及規模亦會分為「LIVE-GYM
-Pleasure」或「SHOWCASE」），迄今為止除了在日本國内從[LIVE
-HOUSE到體育場至海外各式各樣的會場舉行以外](https://zh.wikipedia.org/wiki/展演空間 "wikilink")，亦會在各種音樂活動上出演。
+自1989年以來冠名為「[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")」的演唱會（根據公演内容及規模亦會成為「LIVE-GYM
+Pleasure」或「SHOWCASE」），迄今為止除了舉辦在日本國内從[LIVE
+HOUSE到體育場](https://zh.wikipedia.org/wiki/展演空間 "wikilink")，直至日本國外各式各樣的會場以外，亦會在各種音樂活動上出演。
 
 ### 組合名
 
@@ -97,7 +97,7 @@ Blues](../Page/The_7th_Blues.md "wikilink")』錄音時起，對錄音室作業�
 
 錄音是將松本的吉他獨奏或稻葉的歌聲進行個別錄製，松本在關於歌詞的部分，多為稻葉的歌聲加入後在首次聽聞。松本的吉他獨奏錄音，是從數種彈法中定奪樂句，亦有表示將幾種樂句混合彈奏的情況居多。錄音地點大多是在[洛杉磯與](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")[東京進行](https://zh.wikipedia.org/wiki/東京 "wikilink")，關於製作等錄音室作業，除了洛杉磯及東京以外，亦會在[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")、[夏威夷](https://zh.wikipedia.org/wiki/夏威夷 "wikilink")、[沖繩](../Page/沖繩縣.md "wikilink")、[福岡](../Page/福岡市.md "wikilink")、[大阪等地進行](https://zh.wikipedia.org/wiki/大阪 "wikilink")\[29\]。此外，曾經亦有過為了學習美國的製作流程或作業系統而前往洛杉磯，迎接製作人Andy
 Johns進行錄音，作為20th單曲「[Real Thing
-Shakes](../Page/Real_Thing_Shakes.md "wikilink")」發售等，啟用外部製作人來製作歌曲的情況\[30\]。
+Shakes](../Page/Real_Thing_Shakes.md "wikilink")」發售等，起用外部製作人來製作歌曲的情況\[30\]。
 
 ### B+U+M
 
@@ -512,7 +512,7 @@ Vai所推舉](https://zh.wikipedia.org/wiki/Steve_Vai "wikilink")。Vai祝福道
   - 專輯首位連続獲得年數：8年（截至1996年至2003年。歴代5位平手）
   - 專輯總計百萬銷量獲得數：19作（歴代第1位）\[140\]
   - 專輯連續百萬銷量獲得數：8作（歴代第2位，歴代第1位是[ZARD的](../Page/ZARD.md "wikilink")9作）
-  - 專輯初動百萬銷量獲得數：10作（歴代第1位）
+  - 專輯首週百萬銷量獲得數：10作（歴代第1位）
 
 **影像作品記錄**
 
@@ -636,7 +636,7 @@ LIVE-GYM\#B'z公演列表}}
 
 ### 支援樂手
 
-2018年7月開始的巡迴演唱會「B'z LIVE-GYM Pleasure 2018 -HINOTORI-」時點的支援樂手。
+在2019年巡迴演唱會「B'z LIVE-GYM 2019 -Whole Lotta NEW LOVE-」時點的支援樂手。
 
 <table>
 <thead>
@@ -644,33 +644,28 @@ LIVE-GYM\#B'z公演列表}}
 <th><p>人名</p></th>
 <th><p>職務（演唱會）</p></th>
 <th><p>職務（錄音）</p></th>
-<th><p>在籍期間（僅演唱會）</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="../Page/增田隆宣.md" title="wikilink">增田隆宣</a></p></td>
-<td><p><a href="../Page/電子琴.md" title="wikilink">電子琴</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鋼琴" title="wikilink">鋼琴</a>、<a href="https://zh.wikipedia.org/wiki/管風琴" title="wikilink">管風琴</a></p></td>
-<td><p>1992年 - 1997年、1999年 - 2018年</p></td>
-</tr>
-<tr class="even">
 <td></td>
 <td><p><a href="../Page/爵士鼓.md" title="wikilink">爵士鼓</a></p></td>
-<td><p>爵士鼓、<a href="https://zh.wikipedia.org/wiki/打擊樂器" title="wikilink">打擊樂器</a></p></td>
-<td><p>2002年 - 2018年</p></td>
+<td><p>爵士鼓</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/貝斯" title="wikilink">貝斯</a></p></td>
 <td><p>貝斯</p></td>
-<td><p>2003年、2008年 - 2018年</p></td>
+</tr>
+<tr class="odd">
+<td><p>Sam Pomanti</p></td>
+<td><p><a href="../Page/鍵盤樂器.md" title="wikilink">鍵盤</a></p></td>
+<td><p><a href="../Page/和聲歌手.md" title="wikilink">和聲歌手</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/大賀好修.md" title="wikilink">大賀好修</a></p></td>
+<td></td>
 <td><p><a href="../Page/吉他.md" title="wikilink">吉他</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/編曲" title="wikilink">編曲</a></p></td>
-<td><p>2011年 - 2018年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/編曲" title="wikilink">編曲</a>、<a href="../Page/和聲歌手.md" title="wikilink">和聲歌手</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -693,7 +688,7 @@ LIVE-GYM\#B'z公演列表}}
 </tr>
 <tr class="even">
 <td><p><a href="../Page/德永曉人.md" title="wikilink">德永曉人</a>（from <a href="https://zh.wikipedia.org/wiki/doa_(樂團)" title="wikilink">doa</a>）</p></td>
-<td><p>貝斯、<a href="../Page/和聲歌手.md" title="wikilink">和聲</a></p></td>
+<td><p>貝斯、<a href="../Page/和聲歌手.md" title="wikilink">和聲歌手</a></p></td>
 <td><p>1998年、2003年 - 2007年</p></td>
 </tr>
 <tr class="odd">
@@ -708,27 +703,37 @@ LIVE-GYM\#B'z公演列表}}
 </tr>
 <tr class="odd">
 <td></td>
+<td><p>2003年、2008年 - 2018年</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
 <td><p><a href="../Page/爵士鼓.md" title="wikilink">爵士鼓</a></p></td>
 <td><p>1989年 - 1990年</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>1990年 - 1994年</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Denny Fongheiser</p></td>
 <td><p>1995年 - 1997年</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/黑瀨蛙一" title="wikilink">黑瀨蛙一</a></p></td>
 <td><p>1998年 - 2001年</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td></td>
+<td><p>2002年 - 2018年</p></td>
+<td></td>
+</tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/電子琴.md" title="wikilink">電子琴</a></p></td>
+<td><p><a href="../Page/鍵盤樂器.md" title="wikilink">鍵盤</a></p></td>
 <td><p>1989年 - 1992年</p></td>
 </tr>
 <tr class="even">
@@ -737,19 +742,29 @@ LIVE-GYM\#B'z公演列表}}
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>高原裕枝</p></td>
-<td><p><a href="../Page/和聲歌手.md" title="wikilink">和聲</a></p></td>
-<td><p>1992年</p></td>
+<td><p><a href="../Page/增田隆宣.md" title="wikilink">增田隆宣</a></p></td>
+<td><p>1992年 - 1997年、1999年 - 2018年</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p>高原裕枝</p></td>
+<td><p><a href="../Page/和聲歌手.md" title="wikilink">和聲歌手</a></p></td>
+<td><p>1992年</p></td>
+</tr>
+<tr class="odd">
 <td><p>中村優子</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/大田紳一郎.md" title="wikilink">大田紳一郎</a>（from doa）</p></td>
-<td><p>和聲歌手、<a href="../Page/吉他.md" title="wikilink">吉他</a>、和聲</p></td>
+<td><p>和聲歌手、<a href="../Page/吉他.md" title="wikilink">吉他</a></p></td>
 <td><p>2003年 - 2008年</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/大賀好修.md" title="wikilink">大賀好修</a></p></td>
+<td><p>吉他</p></td>
+<td><p>2011年 - 2018年</p></td>
 </tr>
 <tr class="even">
 <td><p>澤野博敬</p></td>
@@ -808,7 +823,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 </tr>
 <tr class="even">
 <td><p>翻車魚・烏龜（マンボウ・カメ）（僅在名古屋為菊之門 雅（菊の門 雅））</p></td>
-<td><p><a href="../Page/電子琴.md" title="wikilink">電子琴</a></p></td>
+<td><p><a href="../Page/鍵盤樂器.md" title="wikilink">鍵盤</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -868,7 +883,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 **CM**
 
   - [百事可樂](../Page/百事可樂.md "wikilink")「Pepsi NEX」
-      - エフェクト・荒野篇（2011年3月1日 - ）\[150\]
+      - エフェクト篇・荒野篇（2011年3月1日 - ）\[150\]
       - People篇（2011年7月16日 - ）\[151\]
       - Xmas Lover篇（2011年12月3日 - ）
       - Tshirts Live篇（2012年2月28日 - ）\[152\]
@@ -942,167 +957,177 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 </tr>
 <tr class="even">
 <td><p>1992年</p></td>
-<td><p><a href="../Page/BLOWIN&#39;.md" title="wikilink">BLOWIN'</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/卡樂比" title="wikilink">Calbee</a>「<a href="https://zh.wikipedia.org/wiki/洋芋片" title="wikilink">-{zh-tw:洋芋片;zh-hk:薯片;zh-cn:马铃薯片;}-</a>」廣告曲</p></td>
+<td><p><a href="../Page/LADY-GO-ROUND.md" title="wikilink">LADY-GO-ROUND</a></p></td>
+<td><p><a href="../Page/TBS.md" title="wikilink">TBS系</a>『』片頭曲</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/BLOWIN&#39;.md" title="wikilink">BLOWIN'</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/卡樂比" title="wikilink">Calbee</a>「<a href="https://zh.wikipedia.org/wiki/洋芋片" title="wikilink">-{zh-tw:洋芋片;zh-hk:薯片;zh-cn:马铃薯片;}-</a>」廣告曲</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/BLOWIN&#39;.md" title="wikilink">TIME</a></p></td>
 <td><p>朝日電視台系『』片頭曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1993年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/愛のままにわがままに_僕は君だけを傷つけない" title="wikilink">愛のままにわがままに 僕は君だけを傷つけない</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/日本電視放送網" title="wikilink">日本電視台開局</a>40年記念連續劇『<a href="https://zh.wikipedia.org/wiki/西遊記系列#西遊記（1993年）" title="wikilink">西遊記</a>』主題歌</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/裸足の女神" title="wikilink">裸足の女神</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/豐田汽車" title="wikilink">豐田汽車</a>「」廣告曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1994年</p></td>
 <td><p><a href="../Page/Don&#39;t_Leave_Me.md" title="wikilink">Don't Leave Me</a></p></td>
-<td><p>朝日電視台系連續劇『』主題歌</p></td>
+<td><p>朝日電視台系<a href="../Page/朝日電視台週四晚間九點連續劇.md" title="wikilink">週四連續劇</a>『』主題歌</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/MOTEL.md" title="wikilink">MOTEL</a></p></td>
 <td><p>三貴「Boutique JOY」廣告曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1995年</p></td>
 <td><p><a href="../Page/心願_(B&#39;z單曲).md" title="wikilink">ねがい</a></p></td>
 <td><p>日本全國25局聯播網『』片尾曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/love_me,_I_love_you" title="wikilink">love me, I love you</a></p></td>
-<td><p>朝日電視台系連續劇『』主題歌</p></td>
+<td><p>朝日電視台系週四連續劇『』主題歌</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/LOVE_PHANTOM.md" title="wikilink">LOVE PHANTOM</a></p></td>
 <td><p>朝日電視台系連續劇『<a href="https://zh.wikipedia.org/wiki/X檔案" title="wikilink">X-FILE</a>』主題歌</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>TBS系『<a href="../Page/COUNT_DOWN_TV.md" title="wikilink">COUNT DOWN TV</a>』片頭曲</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1996年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/看不見的力量_～INVISIBLE_ONE～/MOVE" title="wikilink">ミエナイチカラ 〜INVISIBLE ONE〜</a></p></td>
 <td><p>朝日電視台系動畫『<a href="https://zh.wikipedia.org/wiki/靈異教師神眉" title="wikilink">-{zh-tw:靈異教師神眉;zh-cn:地狱老师;zh-hk:鳴～地獄老師}-</a>』片尾曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/看不見的力量_～INVISIBLE_ONE～/MOVE" title="wikilink">MOVE</a></p></td>
 <td><p>「」廣告曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Real_Thing_Shakes.md" title="wikilink">Real Thing Shakes</a></p></td>
 <td><p>日本電視台系連續劇『』主題歌</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>朝日電視台系『』主題曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1997年</p></td>
 <td><p><a href="../Page/FIREBALL.md" title="wikilink">FIREBALL</a></p></td>
 <td><p><a href="../Page/資生堂.md" title="wikilink">資生堂</a>「」廣告曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/FIREBALL.md" title="wikilink">哀しきdreamer</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Takara_Tomy" title="wikilink">Tomy製</a><a href="https://zh.wikipedia.org/wiki/遊戲軟體" title="wikilink">遊戲軟體</a>『<a href="../Page/印第安納波利斯500.md" title="wikilink">INDY500</a>』形象曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/いつかのメリークリスマス" title="wikilink">いつかのメリークリスマス</a></p></td>
 <td><p><a href="../Page/東寶.md" title="wikilink">東寶系電影</a>『』插入曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Calling_(B&#39;z單曲).md" title="wikilink">Calling</a></p></td>
 <td><p>朝日電視台系連續劇『<a href="../Page/千面女郎_(電視劇).md" title="wikilink">千面女郎</a>』主題歌</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Liar!_Liar!.md" title="wikilink">Liar! Liar!</a></p></td>
 <td><p><a href="../Page/SKY_PerfecTV!.md" title="wikilink">PerfecTV</a>『』廣告曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>『'97 <a href="../Page/國家冰球聯盟.md" title="wikilink">NHL</a> 日本官方開幕戰』官方主題曲</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Liar!_Liar!.md" title="wikilink">ビリビリ</a></p></td>
 <td><p>『J-ROCK ARTIST BEST 50』片尾曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1998年</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/さまよえる蒼い弾丸" title="wikilink">さまよえる蒼い弾丸</a></p></td>
 <td><p><a href="../Page/大塚製藥.md" title="wikilink">大塚製藥</a>「<a href="https://zh.wikipedia.org/wiki/寶礦力水得" title="wikilink">-{zh-tw:寶礦力水得;zh-cn:宝矿力水特;zh-hk:寶礦力水特}-</a>」廣告曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>『J-ROCK ARTIST BEST 50』片尾曲</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Calling</p></td>
-<td><p>朝日電視台系連續劇『千面女郎』主題歌</p></td>
+<td><p>朝日電視台系連續劇『千面女郎 PartⅡ』主題歌</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/SURVIVE.md" title="wikilink">ハピネス</a></p></td>
+<td><p>朝日電視台系連續劇『千面女郎 PartⅡ』片尾曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/SURVIVE.md" title="wikilink">ハピネス</a></p></td>
-<td><p>朝日電視台系連續劇『<a href="../Page/千面女郎_(電視劇).md" title="wikilink">千面女郎</a>』片尾曲</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/さまよえる蒼い弾丸" title="wikilink">Hi</a></p></td>
 <td><p>富士電視台系『Fomurla Nippon』主題曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/HOME_(B&#39;z單曲).md" title="wikilink">The Wild Wind</a></p></td>
 <td><p><a href="../Page/東映.md" title="wikilink">東映</a>・電影『<a href="../Page/不夜城_(小說).md" title="wikilink">不夜城</a>』主題歌</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/HOME_(B&#39;z單曲).md" title="wikilink">HOME</a></p></td>
 <td><p><a href="../Page/角川書店.md" title="wikilink">角川文庫廣告曲</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/B&#39;z_The_Best_&quot;Treasure&quot;.md" title="wikilink">RUN -1998 Style-</a></p></td>
-<td><p><a href="../Page/日產汽車.md" title="wikilink">日産</a>「」廣告曲</p></td>
+<td><p><a href="../Page/日產汽車.md" title="wikilink">日產汽車</a>「」廣告曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/B&#39;z_The_Best_&quot;Treasure&quot;.md" title="wikilink">Pleasure'98 〜人生の快楽〜</a></p></td>
 <td><p>『NHL GAME ONE 98 JAPAN』主題曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1999年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ギリギリchop" title="wikilink">ONE</a></p></td>
 <td><p>東寶系電影『<a href="https://zh.wikipedia.org/wiki/名偵探柯南：世紀末的魔術師" title="wikilink">名偵探柯南：世紀末的魔術師</a>』主題歌</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/ギリギリchop" title="wikilink">ギリギリchop</a></p></td>
 <td><p><a href="../Page/讀賣電視台.md" title="wikilink">讀賣電視台</a>・日本電視台系動畫『<a href="../Page/名偵探柯南_(動畫).md" title="wikilink">名偵探柯南</a>』片頭曲</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Calling</p></td>
+<td><p>朝日電視台系連續劇『千面女郎 感動完結篇Special』主題歌</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1113,7 +1138,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <tr class="even">
 <td><p>2000年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/今夜月の見える丘に" title="wikilink">今夜月の見える丘に</a></p></td>
-<td><p>TBS系連續劇『<a href="https://zh.wikipedia.org/wiki/美麗人生" title="wikilink">美麗人生</a>』主題歌</p></td>
+<td><p>TBS系<a href="https://zh.wikipedia.org/wiki/週日劇場" title="wikilink">東芝週日劇場</a>『<a href="../Page/美麗人生_(日本電視劇).md" title="wikilink">Beautiful Life～美麗人生～</a>』主題歌</p></td>
 </tr>
 <tr class="odd">
 <td><p>F・E・A・R</p></td>
@@ -1138,7 +1163,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <tr class="odd">
 <td><p>2001年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ultra_soul" title="wikilink">ultra soul</a></p></td>
-<td><p>「<a href="https://zh.wikipedia.org/wiki/2001年世界游泳錦標賽" title="wikilink">2001年福岡世界游泳錦標賽</a>」大會官方主題曲</p></td>
+<td><p>『<a href="https://zh.wikipedia.org/wiki/2001年世界游泳錦標賽" title="wikilink">2001年福岡世界游泳錦標賽</a>』大會官方主題曲</p></td>
 </tr>
 <tr class="even">
 <td><p>[[ultra_soul|スイマーよ2001</p></td>
@@ -1152,17 +1177,17 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/GOLD_(B&#39;z單曲).md" title="wikilink">GOLD</a></p></td>
-<td><p>「2001年福岡世界游泳錦標賽」大會官方主題曲</p></td>
+<td><p>『2001年福岡世界游泳錦標賽』大會官方主題曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2002年</p></td>
 <td><p><a href="../Page/GREEN_(B&#39;z專輯).md" title="wikilink">SIGNAL</a></p></td>
-<td><p><a href="../Page/科樂美數位娛樂.md" title="wikilink">科樂美</a>『<a href="https://zh.wikipedia.org/wiki/純愛手札_Girl&#39;s_Side" title="wikilink">-{zh-tw:純愛手札;;zh-cn:心跳回忆;zh-hk:心跳回憶;}- Girl's Side</a>』片頭曲[153]</p></td>
+<td><p><a href="../Page/科樂美數位娛樂.md" title="wikilink">科樂美</a>『<a href="https://zh.wikipedia.org/wiki/純愛手札_Girl&#39;s_Side" title="wikilink">-{zh-tw:純愛手札;zh-cn:心跳回忆;zh-hk:心跳回憶;}- Girl's Side</a>』片頭曲[153]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/GREEN_(B&#39;z專輯).md" title="wikilink">美しき世界</a></p></td>
-<td><p>科樂美『-{zh-tw:純愛手札;;zh-cn:心跳回忆;zh-hk:心跳回憶;}- Girl's Side』片尾曲[154]</p></td>
+<td><p>科樂美『-{zh-tw:純愛手札;zh-cn:心跳回忆;zh-hk:心跳回憶;}- Girl's Side』片尾曲[154]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1176,7 +1201,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>「<a href="../Page/泛太平洋游泳錦標賽.md" title="wikilink">2002年橫濱泛太平洋游泳錦標賽</a>」大會官方主題曲</p></td>
+<td><p>『<a href="../Page/泛太平洋游泳錦標賽.md" title="wikilink">2002年橫濱泛太平洋游泳錦標賽</a>』大會官方主題曲</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1192,7 +1217,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/BIG_MACHINE.md" title="wikilink">CHANGE THE FUTURE</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/NHK衛星第2頻道" title="wikilink">NHK-BS2</a> 『<a href="../Page/時空冒險記.md" title="wikilink">時空冒險記</a>』主題歌</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NHK衛星第2頻道" title="wikilink">NHK-BS2動畫</a>『<a href="../Page/時空冒險記.md" title="wikilink">時空冒險記ZENTRIX</a>』主題歌</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1212,7 +1237,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/BIG_MACHINE.md" title="wikilink">アラクレ</a></p></td>
-<td><p>富士電視台系連續劇『』主題歌</p></td>
+<td><p>富士電視台系<a href="../Page/富士電視台週二晚間九點連續劇.md" title="wikilink">週二晚間9點連續劇</a>『』主題歌</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1236,7 +1261,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>朝日電視台系<a href="https://zh.wikipedia.org/wiki/2004年夏季奧林匹克運動會" title="wikilink">2004年夏季奧林匹克運動會播放主題曲</a></p></td>
+<td><p>朝日電視台系『<a href="https://zh.wikipedia.org/wiki/2004年夏季奧林匹克運動會" title="wikilink">奧林匹克運動會</a>』播放主題曲</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1266,13 +1291,13 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/OCEAN_(B&#39;z單曲).md" title="wikilink">OCEAN</a></p></td>
-<td><p>富士電視台系連續劇『<a href="https://zh.wikipedia.org/wiki/海猿#《海猿_Evolution》（電視劇）" title="wikilink">海猿 UMIZARU EVOLUTION</a>』主題歌</p></td>
+<td><p><a href="../Page/OCEAN_(B&#39;z單曲).md" title="wikilink">なりふりかまわず抱きしめて</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朝日新聞社" title="wikilink">朝日新聞社</a>「<a href="../Page/朝日新聞.md" title="wikilink">朝日新聞</a>」廣告曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/OCEAN_(B&#39;z單曲).md" title="wikilink">なりふりかまわず抱きしめて</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朝日新聞社" title="wikilink">朝日新聞社</a>「<a href="../Page/朝日新聞.md" title="wikilink">朝日新聞</a>」廣告曲</p></td>
+<td><p><a href="../Page/OCEAN_(B&#39;z單曲).md" title="wikilink">OCEAN</a></p></td>
+<td><p>富士電視台系週二晚間9點連續劇『<a href="https://zh.wikipedia.org/wiki/海猿#《海猿_Evolution》（電視劇）" title="wikilink">海猿 UMIZARU EVOLUTION</a>』主題歌</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1292,7 +1317,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 </tr>
 <tr class="even">
 <td><p><a href="../Page/衝動_(B&#39;z單曲).md" title="wikilink">結晶</a></p></td>
-<td><p>日本電視台系連續劇|『<a href="https://zh.wikipedia.org/wiki/大胃王神探" title="wikilink">-{zh-tw:大胃王神探;zh-cn:美食侦探王;zh-hk:為食神探;}-</a>』主題歌</p></td>
+<td><p>日本電視台系<a href="../Page/日本電視台週六連續劇.md" title="wikilink">週六連續劇</a>『<a href="https://zh.wikipedia.org/wiki/大胃王神探" title="wikilink">-{zh-tw:大胃王神探;zh-cn:美食侦探王;zh-hk:為食神探;}-</a>』主題歌</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1327,7 +1352,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/SUPER_LOVE_SONG.md" title="wikilink">FRICTION</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/美商藝電" title="wikilink">美商藝電</a>『<a href="../Page/橫衝直撞.md" title="wikilink">橫衝直撞</a>』提供曲</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/美商藝電" title="wikilink">美商藝電</a>『<a href="../Page/橫衝直撞.md" title="wikilink">BURNOUT Dominator</a>』插入曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1347,7 +1372,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ACTION.md" title="wikilink">純情ACTION</a></p></td>
-<td><p>「<a href="https://zh.wikipedia.org/wiki/日本籃球超级聯賽" title="wikilink">日本籃球超级聯賽</a> 2007-2008」官方曲</p></td>
+<td><p>「<a href="https://zh.wikipedia.org/wiki/日本籃球超级聯賽" title="wikilink">JAPAN BASKETBALL LEAGUE</a> 2007-2008」官方曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1357,123 +1382,133 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 </tr>
 <tr class="odd">
 <td><p>2008年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/BURN_-フメツノフェイス-" title="wikilink">BURN -フメツノフェイス-</a></p></td>
-<td><p><a href="../Page/高絲.md" title="wikilink">KOSÉ</a>「」廣告曲</p></td>
+<td><p>FRICTION</p></td>
+<td><p>美商藝電『』插入曲</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;.md" title="wikilink">いつかまたここで</a></p></td>
-<td><p>朝日電視台系連續劇『』主題歌[158]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/BURN_-フメツノフェイス-" title="wikilink">BURN -フメツノフェイス-</a></p></td>
+<td><p><a href="../Page/高絲.md" title="wikilink">KOSÉ</a>「」廣告曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;.md" title="wikilink">いつかまたここで</a></p></td>
+<td><p>朝日電視台系週四連續劇『』主題歌[158]</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2009年</p></td>
 <td><p><a href="../Page/ZERO_(B&#39;z單曲).md" title="wikilink">ZERO</a></p></td>
 <td><p><a href="../Page/麒麟啤酒.md" title="wikilink">麒麟啤酒</a>「麒麟ZERO」廣告曲[159]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/一部分與全部/DIVE" title="wikilink">DIVE</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鈴木公司" title="wikilink">鈴木公司</a>「<a href="../Page/鈴木Swift.md" title="wikilink">SWIFT</a>」廣告曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/イチブトゼンブ/DIVE" title="wikilink">イチブトゼンブ</a></p></td>
 <td><p>富士電視台系<a href="../Page/富士電視台週一晚間九點連續劇.md" title="wikilink">週一晚間9點連續劇</a>『<a href="../Page/零秒出手.md" title="wikilink">零秒出手</a>』主題歌</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/MY_LONELY_TOWN.md" title="wikilink">イチブトゼンブ -Ballad Version-</a></p></td>
 <td><p>富士電視台系週一晚間9點連續劇『零秒出手』插入曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/MAGIC_(B&#39;z專輯).md" title="wikilink">PRAY</a></p></td>
 <td><p>東急系電影『』主題歌[160]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2010年</p></td>
 <td><p><a href="../Page/MAGIC_(B&#39;z專輯).md" title="wikilink">long time no see</a></p></td>
-<td><p>朝日電視台系連續劇『』主題歌[161]</p></td>
-</tr>
-<tr class="odd">
-<td><p>2011年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/さよなら傷だらけの日々よ" title="wikilink">さよなら傷だらけの日々よ</a></p></td>
-<td><p><a href="../Page/百事可樂.md" title="wikilink">百事可樂</a>「Pepsi NEX」エフェクト・荒野篇 廣告曲</p></td>
+<td><p>朝日電視台系<a href="../Page/朝日電視台週五晚間連續劇.md" title="wikilink">週五晚間連續劇</a>『』主題歌[161]</p></td>
 </tr>
 <tr class="even">
+<td><p>2011年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/さよなら傷だらけの日々よ" title="wikilink">さよなら傷だらけの日々よ</a></p></td>
+<td><p><a href="../Page/百事可樂.md" title="wikilink">百事可樂</a>「Pepsi NEX」エフェクト篇・荒野篇 廣告曲</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/Don&#39;t_Wanna_Lie.md" title="wikilink">Don't Wanna Lie</a></p></td>
 <td><p>東寶系電影『<a href="https://zh.wikipedia.org/wiki/名偵探柯南：沉默的15分鐘" title="wikilink">名偵探柯南：沉默的15分鐘</a>』主題歌[162]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>讀賣電視台・日本電視台系動畫『名偵探柯南』片頭曲[163]</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Don&#39;t_Wanna_Lie.md" title="wikilink">Homebound</a></p></td>
 <td><p>TBS系『』片尾曲[164]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/C&#39;mon.md" title="wikilink">ultra soul 2011</a></p></td>
-<td><p>朝日電視台系<a href="https://zh.wikipedia.org/wiki/2011年世界游泳錦標賽" title="wikilink">2011年上海世界游泳錦標賽播放主題曲</a>[165]</p></td>
+<td><p>朝日電視台系『<a href="https://zh.wikipedia.org/wiki/2011年世界游泳錦標賽" title="wikilink">2011年上海世界游泳錦標賽</a>』大會官方主題曲[165]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/C&#39;mon.md" title="wikilink">C'mon</a></p></td>
 <td><p>百事可樂「Pepsi NEX」People篇 廣告曲[166]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/C&#39;mon.md" title="wikilink">ピルグリム</a></p></td>
 <td><p>讀賣電視台・日本電視台系動畫『名偵探柯南』片尾曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>いつかのメリークリスマス</p></td>
 <td><p>百事可樂「Pepsi NEX」Xmas Lover篇 廣告曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2012年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/さまよえる蒼い弾丸" title="wikilink">Into Free -Dangan-</a></p></td>
-<td><p><a href="../Page/卡普空.md" title="wikilink">卡普空製遊戲軟體</a>『<a href="../Page/龍族教義.md" title="wikilink">龍族教義</a>』主題歌[167]</p></td>
+<td><p><a href="../Page/卡普空.md" title="wikilink">卡普空</a>『<a href="../Page/龍族教義.md" title="wikilink">Dragon's Dogma</a>』主題歌[167]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/GO_FOR_IT,_BABY_-記憶的山脈-.md" title="wikilink">GO FOR IT, BABY -キオクの山脈-</a></p></td>
 <td><p>百事可樂「Pepsi NEX」Tshirts Live篇 廣告曲[168]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>百事可樂「Pepsi NEX」Summer Line篇 廣告曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2013年</p></td>
 <td><p><a href="../Page/B&#39;z_The_Best_XXV_1988-1998.md" title="wikilink">核心</a></p></td>
-<td><p>日本電視台系連續劇『<a href="../Page/白雲階梯_(日本電視劇).md" title="wikilink">白雲階梯</a>』主題歌[169]</p></td>
+<td><p>日本電視台系<a href="../Page/日本電視台週三連續劇.md" title="wikilink">週三連續劇</a>『<a href="../Page/白雲階梯_(日本電視劇).md" title="wikilink">白雲階梯</a>』主題歌[169]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/B&#39;z_The_Best_XXV_1999-2012.md" title="wikilink">Q&amp;A</a></p></td>
 <td><p>讀賣電視台・日本電視台系動畫『名偵探柯南』片頭曲[170]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ultra soul</p></td>
-<td><p>朝日電視台系<a href="https://zh.wikipedia.org/wiki/2013年世界游泳錦標賽" title="wikilink">2013年巴塞隆納世界游泳錦標賽播放主題曲</a></p></td>
+<td><p>朝日電視台系『<a href="https://zh.wikipedia.org/wiki/2013年世界游泳錦標賽" title="wikilink">2013年巴塞隆納世界游泳錦標賽</a>』大會官方主題曲</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/B&#39;z_The_Best_XXV_1999-2012.md" title="wikilink">ユートピア</a></p></td>
+<td><p>朝日電視台系週四連續劇『<a href="../Page/最強名醫.md" title="wikilink">DOCTORS 2〜最強名醫〜</a>』主題歌[171]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/B&#39;z_The_Best_XXV_1999-2012.md" title="wikilink">ユートピア</a></p></td>
-<td><p>朝日電視台系連續劇『<a href="../Page/最強名醫.md" title="wikilink">DOCTORS 2〜最強名醫〜</a>』主題歌[171]</p></td>
+<td><p>ギリギリchop</p></td>
+<td><p><a href="../Page/育碧.md" title="wikilink">育碧</a>『』廣告曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
 <td><p>ultra soul</p></td>
-<td><p>朝日電視台系<a href="../Page/泛太平洋游泳錦標賽.md" title="wikilink">2014年黃金海岸泛太平洋游泳錦標賽播放主題曲</a></p></td>
+<td><p>朝日電視台系『<a href="../Page/泛太平洋游泳錦標賽.md" title="wikilink">2014年黃金海岸泛太平洋游泳錦標賽</a>』大會官方主題曲</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/EPIC_DAY.md" title="wikilink">Exit To The Sun</a></p></td>
@@ -1488,7 +1523,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <tr class="odd">
 <td><p>2015年</p></td>
 <td><p><a href="../Page/有頂天.md" title="wikilink">有頂天</a></p></td>
-<td><p>日本電視台系連續劇『<a href="../Page/學校的階梯_(電視劇).md" title="wikilink">學校的階梯</a>』主題歌</p></td>
+<td><p>日本電視台系週六連續劇『<a href="../Page/學校的階梯_(電視劇).md" title="wikilink">學校的階梯</a>』主題歌</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/EPIC_DAY.md" title="wikilink">アマリニモ</a></p></td>
@@ -1517,7 +1552,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 </tr>
 <tr class="odd">
 <td><p>ultra soul</p></td>
-<td><p>朝日電視台系<a href="https://zh.wikipedia.org/wiki/2015年世界游泳錦標賽" title="wikilink">2015年俄羅斯喀山世界游泳錦標賽播放主題曲</a></p></td>
+<td><p>朝日電視台系『<a href="https://zh.wikipedia.org/wiki/2015年世界游泳錦標賽" title="wikilink">2015年俄羅斯喀山世界游泳錦標賽</a>』大會官方主題曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1538,7 +1573,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/聲明/Still_Alive" title="wikilink">Still Alive</a></p></td>
-<td><p>TBS系連續劇『<a href="../Page/A_LIFE～深愛的人～.md" title="wikilink">A LIFE〜深愛之人〜</a>』主題歌[177]</p></td>
+<td><p>TBS系<a href="https://zh.wikipedia.org/wiki/週日劇場" title="wikilink">週日劇場</a>『<a href="../Page/A_LIFE～深愛的人～.md" title="wikilink">A LIFE〜深愛之人〜</a>』主題歌[177]</p></td>
 </tr>
 <tr class="even">
 <td><p>TBS系『』6・7月度片尾曲<ref name="still">{{Cite web |url=<a href="https://bz-vermillion.com/news/170601.html">https://bz-vermillion.com/news/170601.html</a> |title=B'z「Still Alive」TBS各番組 6・7月度テーマソングに決定</p></td>
@@ -1557,12 +1592,12 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/聲明/Still_Alive" title="wikilink">声明</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/悠詩詩上島咖啡" title="wikilink">UCC</a>「UCC BLACK無糖黑咖啡」電視廣告曲[180]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/UCC上島咖啡" title="wikilink">UCC上島咖啡</a>「UCC BLACK無糖黑咖啡」電視廣告曲[180]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ultra soul</p></td>
-<td><p>朝日電視台系<a href="https://zh.wikipedia.org/wiki/2017年世界游泳錦標賽" title="wikilink">2017年布達佩斯世界游泳錦標賽播放主題曲</a></p></td>
+<td><p>朝日電視台系『<a href="https://zh.wikipedia.org/wiki/2017年世界游泳錦標賽" title="wikilink">2017年布達佩斯世界游泳錦標賽</a>』大會官方主題曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1578,7 +1613,7 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <tr class="odd">
 <td><p>2018年</p></td>
 <td><p><a href="../Page/DINOSAUR.md" title="wikilink">Dinosaur</a></p></td>
-<td><p>電影『<a href="../Page/氣象戰_(電影).md" title="wikilink">氣象戰</a>』日語配音版主題歌[181]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華納兄弟" title="wikilink">華納兄弟電影</a>『<a href="../Page/氣象戰_(電影).md" title="wikilink">氣象戰</a>』日語配音版主題歌[181]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/DINOSAUR.md" title="wikilink">King Of The Street</a></p></td>
@@ -1587,12 +1622,12 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 </tr>
 <tr class="odd">
 <td><p>ultra soul</p></td>
-<td><p>朝日電視系播放主題曲</p></td>
+<td><p>朝日電視台系『』大會官方主題曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/NEW_LOVE.md" title="wikilink">マジェスティック</a></p></td>
-<td><p><a href="../Page/江崎固力果.md" title="wikilink">江崎固力果</a>『<a href="https://zh.wikipedia.org/wiki/Pocky" title="wikilink">Pocky</a>』電視廣告主題歌[183][184]</p></td>
+<td><p><a href="../Page/江崎固力果.md" title="wikilink">江崎固力果</a>『<a href="https://zh.wikipedia.org/wiki/Pocky" title="wikilink">Pocky</a>』廣告主題歌[183][184]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1616,8 +1651,8 @@ TOUR』。之後Z'b成員亦登場過演唱會上的環節之一，對於來自�
 <td><p><a href="../Page/鈴木_(公司).md" title="wikilink">鈴木</a>「<a href="../Page/鈴木Escudo.md" title="wikilink">-{zh-hk:Vitara;zh-tw:Escudo;}-</a>」妥協なきSUV篇 電視廣告曲</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td><p>ultra soul</p></td>
+<td><p>朝日電視台系『<a href="../Page/2019年世界游泳錦標賽.md" title="wikilink">2019年韓國光州世界游泳錦標賽</a>』大會官方主題曲</p></td>
 <td></td>
 </tr>
 </tbody>

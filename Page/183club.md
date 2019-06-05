@@ -406,36 +406,98 @@
 </tbody>
 </table>
 
+### 電視原聲帶
+
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;"><p>專輯 #</p></th>
+<th style="text-align: left;"><p>專輯資料</p></th>
+<th style="text-align: left;"><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>1st</strong></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/天國的嫁衣" title="wikilink">天國的嫁衣電視原聲帶</a></p>
+<ul>
+<li>發行日期：2004年9月10日</li>
+</ul></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>2nd</strong></p></td>
+<td style="text-align: left;"><p><a href="../Page/王子變青蛙.md" title="wikilink">王子變青蛙</a> 電視原聲帶</p>
+<ul>
+<li>發行日期：2005年6月4日</li>
+</ul></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>3rd</strong></p></td>
+<td style="text-align: left;"><p><a href="../Page/愛情魔髮師.md" title="wikilink">愛情魔髮師電視原聲帶</a></p>
+<ul>
+<li>發行日期：2006年2月10日</li>
+</ul></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>4th</strong></p></td>
+<td style="text-align: left;"><p><a href="https://zh.wikipedia.org/wiki/天使情人" title="wikilink">天使情人電視原聲帶</a></p>
+<ul>
+<li>發行日期：2006年12月1日</li>
+</ul></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+<td style="text-align: left;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;"><p><strong>5th</strong></p></td>
+<td style="text-align: left;"><p><a href="../Page/櫻野三加一.md" title="wikilink">櫻野三加一電視原聲帶</a></p>
+<ul>
+<li>發行日期：2007年8月3日</li>
+</ul></td>
+<td style="text-align: left;"></td>
+</tr>
+</tbody>
+</table>
+
 ### 其他單曲
 
-| 形式               | 發佈日期                                                     | 專輯名稱                                                                                                                                      | 歌曲名稱                 | 參與成員                                                                                                                                   | 合作藝人                                                  |
-| ---------------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- |
-| OST              | 2004年9月10日                                               | [天國的嫁衣電視原聲帶](https://zh.wikipedia.org/wiki/天國的嫁衣 "wikilink")                                                                              | 折磨                   | 全員                                                                                                                                     | \-                                                    |
-| 合輯               | 2005年3月31日                                               | 愛的奇蹟- 喬傑立巨星最紅偶像劇情歌精選                                                                                                                      | 對手                   | [顏行書](https://zh.wikipedia.org/wiki/顏行書 "wikilink")                                                                                    | [Toro](https://zh.wikipedia.org/wiki/Toro "wikilink") |
-| 任我遨游             | [台風](https://zh.wikipedia.org/wiki/台風_\(藝人\) "wikilink") |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
-| 相信永遠             | 全員                                                       | [許孟哲](../Page/許孟哲.md "wikilink")                                                                                                          |                      |                                                                                                                                        |                                                       |
-| 愛的奇蹟             | [顏行書](https://zh.wikipedia.org/wiki/顏行書 "wikilink")      | [Toro](https://zh.wikipedia.org/wiki/Toro "wikilink") +[懷恩](https://zh.wikipedia.org/wiki/懷恩 "wikilink")+[七朵花](../Page/七朵花.md "wikilink") |                      |                                                                                                                                        |                                                       |
-| OST              | 2005年6月4日                                                | [王子變青蛙](../Page/王子變青蛙.md "wikilink") 電視原聲帶                                                                                                | 迷魂計                  | 全員                                                                                                                                     | \-                                                    |
-| 真愛               |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
-| 魔法Smile          |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
-| 閉上眼默唸三遍          | [七朵花](../Page/七朵花.md "wikilink")                         |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
-| 合輯               | 2006年1月20日                                               | 愛的奇蹟II 跳舞吧\!J-star                                                                                                                        | 新年快樂Happy new Year組曲 | 全員                                                                                                                                     | [喬傑立家族](https://zh.wikipedia.org/wiki/喬傑立 "wikilink") |
-| OST              | 2006年2月10日                                               | [愛情魔髮師電視原聲帶](../Page/愛情魔髮師.md "wikilink")                                                                                                 | 完美情人                 | 全員                                                                                                                                     | \-                                                    |
-| Magic Room       |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
-| Bomba Bomba 愛情炸彈 |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
-| 感情線              |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
-| 甜蜜約定             |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
-| 2 Sweet          | [黃玉榮](../Page/黃玉榮.md "wikilink")                         | [陳喬恩](../Page/陳喬恩.md "wikilink")                                                                                                          |                      |                                                                                                                                        |                                                       |
-| OST              | 2006年12月1日                                               | [天使情人電視原聲帶](https://zh.wikipedia.org/wiki/天使情人 "wikilink")                                                                                | 發現真愛                 | [明道](https://zh.wikipedia.org/wiki/明道 "wikilink")、[祝釩剛](https://zh.wikipedia.org/wiki/祝釩剛 "wikilink")、[黃玉榮](../Page/黃玉榮.md "wikilink") | \-                                                    |
-| 不後悔的決定           |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
-| 遺忘               |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
-| 從頭               |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
-| 腦海的橡皮擦           | 黃玉榮                                                      |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
-| 合輯               | 2007年2月9日                                                | 愛的奇蹟III 搖滾萬歲                                                                                                                              | 搖滾萬歲                 | 全員                                                                                                                                     | [喬傑立家族](https://zh.wikipedia.org/wiki/喬傑立 "wikilink") |
-| 你永遠是最美的          | \-                                                       |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
-| OST              | 2007年8月3日                                                | [櫻野三加一電視原聲帶](../Page/櫻野三加一.md "wikilink")                                                                                                 | 再次相信                 | [明道](https://zh.wikipedia.org/wiki/明道 "wikilink")                                                                                      | [陳喬恩](../Page/陳喬恩.md "wikilink")                      |
-| 尋友啟示             | [明道](https://zh.wikipedia.org/wiki/明道 "wikilink")        | [許孟哲](../Page/許孟哲.md "wikilink")                                                                                                          |                      |                                                                                                                                        |                                                       |
-|                  |                                                          |                                                                                                                                           |                      |                                                                                                                                        |                                                       |
+| 形式      | 發佈日期                                                     | 專輯名稱                                                                                                                                      | 歌曲名稱                 | 參與成員                                                | 合作藝人                                                  |
+| ------- | -------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- | -------------------- | --------------------------------------------------- | ----------------------------------------------------- |
+| 合輯      | 2005年3月31日                                               | 愛的奇蹟- 喬傑立巨星最紅偶像劇情歌精選                                                                                                                      | 對手                   | [顏行書](https://zh.wikipedia.org/wiki/顏行書 "wikilink") | [Toro](https://zh.wikipedia.org/wiki/Toro "wikilink") |
+| 任我遨游    | [台風](https://zh.wikipedia.org/wiki/台風_\(藝人\) "wikilink") |                                                                                                                                           |                      |                                                     |                                                       |
+| 相信永遠    | 全員                                                       | [許孟哲](../Page/許孟哲.md "wikilink")                                                                                                          |                      |                                                     |                                                       |
+| 愛的奇蹟    | [顏行書](https://zh.wikipedia.org/wiki/顏行書 "wikilink")      | [Toro](https://zh.wikipedia.org/wiki/Toro "wikilink") +[懷恩](https://zh.wikipedia.org/wiki/懷恩 "wikilink")+[七朵花](../Page/七朵花.md "wikilink") |                      |                                                     |                                                       |
+| CD      | 2005年10月28日                                              | 七朵花首張同名專輯                                                                                                                                 | 好愛她好想他               | 全員                                                  | [七朵花](../Page/七朵花.md "wikilink")                      |
+| 合輯      | 2006年1月20日                                               | 愛的奇蹟II 跳舞吧\!J-star                                                                                                                        | 新年快樂Happy new Year組曲 | 全員                                                  | [喬傑立家族](https://zh.wikipedia.org/wiki/喬傑立 "wikilink") |
+| 合輯      | 2007年2月9日                                                | 愛的奇蹟III 搖滾萬歲                                                                                                                              | 搖滾萬歲                 | 全員                                                  | [喬傑立家族](https://zh.wikipedia.org/wiki/喬傑立 "wikilink") |
+| 你永遠是最美的 | \-                                                       |                                                                                                                                           |                      |                                                     |                                                       |
+|         |                                                          |                                                                                                                                           |                      |                                                     |                                                       |
 
 ### DVD
 

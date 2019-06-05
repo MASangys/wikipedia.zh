@@ -36,7 +36,8 @@ Einstein@Home應該不可能會成為首個直接量度得到[引力波的計劃
 
 <!-- end list -->
 
-  - [BOINC 计算平台使用详解](http://www.equn.com/forum/viewthread.php?tid=5753)
+  - [BOINC
+    计算平台使用详解](https://web.archive.org/web/20060327080441/http://www.equn.com/forum/viewthread.php?tid=5753)
 
 [Category:伯克利开放式网络计算平台](https://zh.wikipedia.org/wiki/Category:伯克利开放式网络计算平台 "wikilink")
 [Category:引力波望远镜](https://zh.wikipedia.org/wiki/Category:引力波望远镜 "wikilink")

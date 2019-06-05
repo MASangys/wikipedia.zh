@@ -271,9 +271,8 @@ Loop）模式。一些Scheme實作亦可作為編譯器，並將Scheme程式譯�
   - [The Scheme programming language 3rd
     edition](http://www.scheme.com/tspl3/)
 
-[Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")
+[Category:动态类型编程语言](https://zh.wikipedia.org/wiki/Category:动态类型编程语言 "wikilink")
 [Category:LISP程式語言家族](https://zh.wikipedia.org/wiki/Category:LISP程式語言家族 "wikilink")
-[Category:LISP程式語言](https://zh.wikipedia.org/wiki/Category:LISP程式語言 "wikilink")
 [Category:Scheme語言](https://zh.wikipedia.org/wiki/Category:Scheme語言 "wikilink")
 
 1.  Barbara Liskov, "A History of CLU", MIT Laboratory for Computer

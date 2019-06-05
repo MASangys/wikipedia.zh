@@ -37,7 +37,6 @@ OpenDarwin 的[吉祥物是](https://zh.wikipedia.org/wiki/吉祥物 "wikilink")
   - irc.freenode.net \#opendarwin
   - [PureDarwin](http://www.puredarwin.org/)
 
-[de:OpenDarwin](https://zh.wikipedia.org/wiki/de:OpenDarwin "wikilink")
 [en:Darwin (operating
 system)\#OpenDarwin](https://zh.wikipedia.org/wiki/en:Darwin_\(operating_system\)#OpenDarwin "wikilink")
 

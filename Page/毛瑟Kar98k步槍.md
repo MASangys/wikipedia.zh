@@ -97,9 +97,7 @@ S及](https://zh.wikipedia.org/wiki/8_x_68_S "wikilink")[9.3 x
   -
   -
   -
-  - ：曾裝備比利時軍隊。
-
-  - ：在南斯拉夫內戰中仍有採用。
+  -   - [比利時國防軍](https://zh.wikipedia.org/wiki/比利時軍事 "wikilink")
 
   -
   -
@@ -107,79 +105,96 @@ S及](https://zh.wikipedia.org/wiki/8_x_68_S "wikilink")[9.3 x
   -
   -
   -
-  - ：Kar98k、标准型毛瑟步枪以及捷克斯洛伐克仿制版vz.24，曾在抗日戰爭及國共內戰時期廣泛使用。
+  -
+  -   - [國民革命軍](../Page/國民革命軍.md "wikilink")：少量Kar98k連同标准型毛瑟步枪以及捷克斯洛伐克仿制版vz.24，都曾在抗日戰爭及國共內戰時期廣泛使用。
+      - [中華民國國軍](../Page/中華民國國軍.md "wikilink")
 
-  - ：國共內戰及[韓戰時使用](https://zh.wikipedia.org/wiki/韓戰 "wikilink")。
+  -   - [中國人民志願軍](https://zh.wikipedia.org/wiki/中國人民志願軍 "wikilink")：[韓戰時使用](https://zh.wikipedia.org/wiki/韓戰 "wikilink")。
 
   -
-  - ：由生產，並裝備捷克斯洛伐克軍隊，後來被[Vz.58所取代](https://zh.wikipedia.org/wiki/Vz.58 "wikilink")。
+  - ：
+
+      - ：由生產，後來被[vz.
+        58突擊步槍所取代](https://zh.wikipedia.org/wiki/vz._58突擊步槍 "wikilink")。
 
   -
-  - ：部份由蘇联提供及繼承自[納粹德國的Kar](../Page/納粹德國.md "wikilink")98k繼續在東德軍隊中服役，後來被當地生產的[AK步槍所取代](https://zh.wikipedia.org/wiki/AK-47 "wikilink")。
-
   -
   - ：二戰期間繳獲自[軸心國部隊](https://zh.wikipedia.org/wiki/軸心國 "wikilink")。
 
   -
-  - ：採購自德國。
+  -   - [芬蘭國防軍](../Page/芬蘭國防軍.md "wikilink")
 
-  - ：來自戰敗的[納粹德國](../Page/納粹德國.md "wikilink")，曾裝備法軍，於法越戰爭時並有採用。
+  -   - [法國武裝部隊](../Page/法國軍事.md "wikilink")：來自戰敗的[納粹德國](../Page/納粹德國.md "wikilink")，曾於法越戰爭期間使用。
 
-  - ：被德國聯邦國防軍用作儀仗槍。
+  -   - [德意志國防軍](../Page/德意志國防軍.md "wikilink")：於1935年成為制式步槍，取代了[Gewehr
+        98步槍](../Page/Gewehr_98步槍.md "wikilink")。
+      - [武裝黨衛軍](https://zh.wikipedia.org/wiki/武裝黨衛軍 "wikilink")
+      - [秩序警察](https://zh.wikipedia.org/wiki/秩序警察 "wikilink")
+      - [黨衛隊保安處](../Page/黨衛隊保安處.md "wikilink")
+      - [希特拉青年團](../Page/希特拉青年團.md "wikilink")
+      - [人民衝鋒隊](https://zh.wikipedia.org/wiki/人民衝鋒隊 "wikilink")
+
+  - ：使用部份由蘇聯提供及繼承自[納粹德國的Kar](../Page/納粹德國.md "wikilink")98k，直至被當地生產的[AK步槍所取代](https://zh.wikipedia.org/wiki/AK-47突擊步槍 "wikilink")。
+
+      - [國家人民軍](https://zh.wikipedia.org/wiki/國家人民軍 "wikilink")
+      - [德國人民警察](https://zh.wikipedia.org/wiki/德國人民警察 "wikilink")
+      - [工人階級戰鬥隊](https://zh.wikipedia.org/wiki/工人階級戰鬥隊 "wikilink")
+
+  -   - [德國聯邦國防軍](../Page/德國聯邦國防軍.md "wikilink")：部份繼承自[納粹德國](../Page/納粹德國.md "wikilink")，後來被[FN
+        FAL及](../Page/FN_FAL自動步槍.md "wikilink")[HK
+        G3所取代](../Page/HK_G3自動步槍.md "wikilink")。部份則保留作儀仗槍使用至[兩德統一後的今天](../Page/兩德統一.md "wikilink")。
 
   - ：繳獲自荷蘭軍隊。
 
-  -
-  -
-  - ：由1948年起裝備以色列國防軍，直至1970年代。
+  - [伊朗帝國](https://zh.wikipedia.org/wiki/巴勒維王朝 "wikilink")
 
-  - ：1938年引進50,000枝，命名為"毛式步槍"（）。
+      - 伊朗帝國軍
+
+  - [伊朗伊斯蘭共和國](https://zh.wikipedia.org/wiki/伊朗伊斯蘭共和國 "wikilink")
 
   -
-  -
-  - ：在2011年利比亞內戰中被反格達費部隊採用。
+  -   - [以色列國防軍](../Page/以色列國防軍.md "wikilink")：從1948年起裝備至1970年代。
 
-  - ：大公國民警衛隊曾在1945年採用繳獲的Kar98k，但在同年被[加拿大製](../Page/加拿大.md "wikilink")[羅斯步槍](https://zh.wikipedia.org/wiki/羅斯步槍 "wikilink")（Ross
-    Rifle）所取代。
+  -   - [日本軍](https://zh.wikipedia.org/wiki/日本軍 "wikilink")：1938年引進50,000枝，命名為"毛式步槍"（）。
 
   -
   -
-  - ：於1935年成為德軍制式步槍，直至二戰結束，以取代[Gewehr
-    98步槍](../Page/Gewehr_98步槍.md "wikilink")。
+  -   - [國民解放軍](../Page/國民解放軍.md "wikilink")：在2011年利比亞內戰中被發現有限使用。
 
-  -
-  - ：曾裝備挪威軍隊。
-
-  -
-  - ：目前仍被巴基斯坦軍隊用作狙擊步槍。
-
-  -
-  -
-  -
-  - ：愛國護衛隊曾裝備捷克斯洛伐克生產的Kar98k，後來被[AKM所取代](https://zh.wikipedia.org/wiki/AKM "wikilink")。
-
-  - ：至今仍裝備[要塞衛隊](https://zh.wikipedia.org/wiki/要塞衛隊 "wikilink")。
+  -   - 大公國民警衛隊：曾在1945年採用繳獲的Kar98k，但在同年被[加拿大製](../Page/加拿大.md "wikilink")所取代。
 
   -
   -
   -
   -
-  - ：於二戰期間蘇聯紅軍從德軍手上繳獲了數量非常多的Kar98k，在戰後蘇聯开始把這些Kar98k及其他過時武器輸送到多个[第三世界及](../Page/第三世界.md "wikilink")[東方陣營國家作軍事援助](https://zh.wikipedia.org/wiki/東方陣營 "wikilink")。
-
-  - ：曾於1939年進口五千支Kar98k。
+  -   - [挪威國防軍](https://zh.wikipedia.org/wiki/挪威軍事 "wikilink")
 
   -
   -
-  - ：在烏克蘭危機中被政府支持的民兵與分離主義武裝使用。
+  -
+  -
+  -
+  -
+  -   - 愛國護衛隊：曾裝備捷克斯洛伐克生產的Kar98k，後來被[AKM所取代](../Page/AKM突擊步槍.md "wikilink")。
+
+  -   -
+  -
+  -
+  -
+  -   - [蘇聯紅軍](https://zh.wikipedia.org/wiki/蘇聯紅軍 "wikilink")：於二戰期間從德軍手上繳獲了數量眾多的Kar98k，在戰後蘇聯政府開始把這些過時的繳獲武器輸送到多個[第三世界及](../Page/第三世界.md "wikilink")[東方陣營國家作軍事援助](https://zh.wikipedia.org/wiki/東方陣營 "wikilink")。
+
+  -   - [瑞典國防軍](../Page/瑞典國防軍.md "wikilink")：曾於1939年進口五千枝。
 
   -
   -
-  - ：由蘇聯提供及來自[法越戰爭時法軍留下的Kar](https://zh.wikipedia.org/wiki/法越戰爭 "wikilink")98k曾在越戰時被[越共及北越軍隊使用](https://zh.wikipedia.org/wiki/越共 "wikilink")。
+  -
+  -   - [瑞士近衛隊](https://zh.wikipedia.org/wiki/瑞士近衛隊 "wikilink")
 
-  - ：部份繼承自[納粹德國的Kar](../Page/納粹德國.md "wikilink")98k繼續在西德軍隊中服役，後來被[FN
-    FAL所取代](https://zh.wikipedia.org/wiki/FN_FAL "wikilink")，但有些則保留作儀仗槍使用至今。
+  -
+  -
+  -   - [越南人民軍](https://zh.wikipedia.org/wiki/越南人民軍 "wikilink")：由蘇聯提供及來自[法越戰爭時法軍遺留物資](https://zh.wikipedia.org/wiki/法越戰爭 "wikilink")。曾在越戰期間使用。
 
-  - ：包括在當地生產的[M48及M](../Page/M48毛瑟步槍.md "wikilink")48A仿製型，在內戰時期仍有出現，並有出口到其他國家。
+  -   - [南斯拉夫人民軍](../Page/南斯拉夫人民軍.md "wikilink")：包括在當地生產的[M48及M](../Page/M48毛瑟步槍.md "wikilink")48A仿製型，在內戰時期仍有出現。
 
 ## 流行文化
 
@@ -252,8 +267,8 @@ S及](https://zh.wikipedia.org/wiki/8_x_68_S "wikilink")[9.3 x
   - 《[越南大戰系列](https://zh.wikipedia.org/wiki/越南大戰系列 "wikilink")》
   - 《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：遊戲中五星槍，又名「德皇」，身為遊戲主要[看板娘](https://zh.wikipedia.org/wiki/看板娘 "wikilink")，但因技能不實用而被冠上「無用的看板娘」的惡稱。
   - 《[英雄與將軍](../Page/英雄與將軍.md "wikilink")》
-  - 《Free Fire -
-    我要活下去》：槍口可裝備補償器及消音器，但配備3級補償器射擊敵人三級頭盔只扣198HP(這時敵人還剩2HP未死)
+  - 《[Free
+    Fire－我要活下去](../Page/Free_Fire－我要活下去.md "wikilink")》：槍口可裝備補償器及消音器，但配備3級補償器射擊敵人三級頭盔只扣198HP(這時敵人還剩2HP未死)
   - 《[荒野行動](https://zh.wikipedia.org/wiki/荒野行動 "wikilink")》
   - 《[狙擊之神2](../Page/狙擊之神2.md "wikilink")》：初回版的特典，以Karabiner 98k的名稱登場。
   - 《[-{zh-hans:战地5;

@@ -439,7 +439,8 @@ end;
     3d
     Now的[SIMD指令集的语言](https://zh.wikipedia.org/wiki/SIMD "wikilink")，支持所有Intel和AMD处理器，以及Sony
     Playstation 2 Emotion Engine。
-  - [Morfik Pascal](http://www.morfik.com)允许Web应用的开发全部（服务器和浏览器端）用Object
+  - [Morfik
+    Pascal](https://web.archive.org/web/20070325203514/http://www.morfik.com/)允许Web应用的开发全部（服务器和浏览器端）用Object
     Pascal编写。
   - [web
     Pascal是一个在线IDE和Pascal编译器](https://zh.wikipedia.org/wiki/web_Pascal "wikilink")。

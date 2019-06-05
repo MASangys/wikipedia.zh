@@ -309,7 +309,7 @@ Lisp為範例（以下範例亦相容Common Lisp），解釋最基本的Lisp巨�
 
 ### 簡易巨集範例
 
-這裡定義一個巨集叫做nonsense，這個巨集可以方便地定義更多以nonsense為開頭的新函數：
+這裡定義一個巨集叫做`nonsense`，這個巨集可以方便地定義更多以`nonsense`為開頭的新函數：
 
 ``` lisp
 (defmacro nonsense (function-name)
@@ -323,13 +323,13 @@ Lisp為範例（以下範例亦相容Common Lisp），解釋最基本的Lisp巨�
 ;;影響之下，並不會被求值。
 ;;現在巨集展開完了，整個巨集才被當成一般function執行。
 
-(nonsense "apple") ;使用我們剛剛定義的nonsense這個macro來定義新的f函数
+(nonsense "apple")  ;使用我們剛剛定義的nonsense這個macro來定義新的f函数
 => nonsense-apple  ;成功定義出了新的函数叫做nonsense-apple
 
-(nonsense "banana") ;再使用一次巨集來定義新的函数叫做nonsense-banana
+(nonsense "banana")  ;再使用一次巨集來定義新的函数叫做nonsense-banana
 => nonsense-banana  ;成功定義了新的函数。
 
-(nonsense-apple " is good")     ;使用剛剛定義出的新函数
+(nonsense-apple " is good")  ;使用剛剛定義出的新函数
 => "apple is good"
 (nonsense-banana " I love to eat")  ;使用另一個剛剛定義函数
 => "banana I love to eat"
@@ -357,7 +357,7 @@ Lisp為範例（以下範例亦相容Common Lisp），解釋最基本的Lisp巨�
 [Category:动态类型编程语言](https://zh.wikipedia.org/wiki/Category:动态类型编程语言 "wikilink")
 [Category:函数式编程语言](https://zh.wikipedia.org/wiki/Category:函数式编程语言 "wikilink")
 [Category:程序设计语言](https://zh.wikipedia.org/wiki/Category:程序设计语言 "wikilink")
-[Category:Lisp程式語言](https://zh.wikipedia.org/wiki/Category:Lisp程式語言 "wikilink")
+[Category:LISP程式語言](https://zh.wikipedia.org/wiki/Category:LISP程式語言 "wikilink")
 
 1.  徐宥，[《Lisp语言是怎么来的–Lisp和AI的青梅竹马A》](http://blog.youxu.info/2009/08/31/lisp-and-ai-1/)
     [《Lisp语言是怎么来的–Lisp和AI的青梅竹马B》](http://blog.youxu.info/2010/02/10/lisp-and-ai-2/)

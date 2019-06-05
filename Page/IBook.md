@@ -8,7 +8,8 @@
 設計為其專業筆記型電腦 [PowerBook
 G3系列的一種衍生性產品系列](https://zh.wikipedia.org/wiki/PowerBook_G3 "wikilink")，採用多種關鍵性的特色使得它能在早期市場上成功。
 
-iBook最终與PowerBook一起在2006年被[MacBook所取代](../Page/MacBook.md "wikilink")。
+iBook最终在2006年發布的[MacBook與](../Page/MacBook.md "wikilink")2008年發布的[MacBook
+Air所取代](../Page/MacBook_Air.md "wikilink")。
 
 ## iBook: iMac to go.
 

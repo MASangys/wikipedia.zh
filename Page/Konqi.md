@@ -172,7 +172,7 @@ SuperTuxKart.png|Konqi在SuperTuxKart中参赛，建模者是betharatux1，jymis
     and [Blender Source
     Files](http://www.kde.org/stuff/clipart/konqi-magical-rope-video-sources.tar.bz2)
   - [Screenshots of KDE 2.0 showing
-    Kandalf](http://www.kde.org/screenshots/kde2shots.php)
+    Kandalf](https://web.archive.org/web/20060428074246/http://www.kde.org/screenshots/kde2shots.php)
 
 [Category:KDE](https://zh.wikipedia.org/wiki/Category:KDE "wikilink")
 [Category:电脑吉祥物](https://zh.wikipedia.org/wiki/Category:电脑吉祥物 "wikilink")

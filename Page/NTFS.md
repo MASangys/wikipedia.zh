@@ -84,7 +84,7 @@ NTFS文件系统限制单个文件只能关联到1024个硬链接。\[11\]
 
 ### 可选数据流（ADS）
 
-[可选数据流使单个文件可以关联到多个数据流](https://zh.wikipedia.org/wiki/分岔_\(文件系统\) "wikilink")。NTFS数据流的表述方式为“文件名：流名”，例如“text.txt:extrastream”。
+[可选数据流使单个文件可以关联到多个数据流](https://zh.wikipedia.org/wiki/分岔_\(文件系统\) "wikilink")。NTFS数据流的表述方式为“文件名:流名”，例如“text.txt:extrastream”。
 
 NTFS流从[Windows NT
 3.1开始被引入](../Page/Windows_NT_3.1.md "wikilink")，起初设计目的是为了[Services
@@ -533,7 +533,7 @@ Windows加载新版本的NTFS卷仍然会产生不少技术问题。这种问题
 
 例如，在不支持的操作系统上尝试使用带有“先前版本”（严格的说称为[卷影副本](https://zh.wikipedia.org/wiki/卷影副本 "wikilink")）的NTFS分区，会导致先前版本数据丢失。\[46\]
 
-Windows提供了一个命令行工具“convert.exe”可用于将部分文件系统转换为NTFS，包括HPFS（仅在Windows4
+Windows提供了一个命令行工具“convert.exe”可用于将部分文件系统转换为NTFS，包括HPFS（仅在Windows NT
 3.1、3.5和3.51中受支持）、FAT16和FAT32（在Windows 2000及后续版本中受支持）。
 
 ### Mac OS X
@@ -573,7 +573,7 @@ Linux）都是以[GPL的方式](https://zh.wikipedia.org/wiki/GPL "wikilink")[�
 
 ### 其他
 
-[ComStation和](https://zh.wikipedia.org/wiki/ComStation "wikilink")[FreeBSD都提供对NTFS的只读访问支持](../Page/FreeBSD.md "wikilink")（eComStation有一个测试版本的驱动程序允许写入／删除操作，但通常认为该驱动程序还不安全）。[BeOS有一个基于NTFS](../Page/BeOS.md "wikilink")-3G的的第三方工具，允许完整的NTFS读写操作。除了Linux，[NTFS-3G也能工作在](../Page/NTFS-3G.md "wikilink")[Mac
+[eComStation和](https://zh.wikipedia.org/wiki/eComStation "wikilink")[FreeBSD都提供对NTFS的只读访问支持](../Page/FreeBSD.md "wikilink")（eComStation有一个测试版本的驱动程序允许写入／删除操作，但通常认为该驱动程序还不安全）。[BeOS有一个基于NTFS](../Page/BeOS.md "wikilink")-3G的的第三方工具，允许完整的NTFS读写操作。除了Linux，[NTFS-3G也能工作在](../Page/NTFS-3G.md "wikilink")[Mac
 OS
 X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[NetBSD](../Page/NetBSD.md "wikilink")、[Solaris以及](../Page/Solaris.md "wikilink")[Haiku上](../Page/Haiku.md "wikilink")。同时，也有一个称为“[NTFS4DOS](https://zh.wikipedia.org/wiki/NTFS4DOS "wikilink")”的商用驱动程序允许在DOS下进行读写。\[53\]
 [Ahead

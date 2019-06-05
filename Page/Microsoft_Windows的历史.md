@@ -151,14 +151,13 @@ Windows NT 4.0 共有四種版本，
 
 [Windows 98](../Page/Windows_98.md "wikilink") 是 Windows 95
 的一個規模較小的升級版，它包括新的硬體驅動程式和
-[FAT32檔案系統](https://zh.wikipedia.org/wiki/FAT32 "wikilink")，後者支援大於2G的硬碟。Windows
-98 亦把[Internet
-Explorer整合至Windows介面和Windows檔案管理員中](../Page/Internet_Explorer.md "wikilink")。windows
-98 plus
+[FAT32檔案系統](https://zh.wikipedia.org/wiki/FAT32 "wikilink")，後者支援大於
+2G 的硬碟。Windows 98 亦把[Internet
+Explorer整合至Windows介面和Windows檔案管理員中](../Page/Internet_Explorer.md "wikilink")。
 
-1999 年，微軟發行Windows 98 Second
+1999 年，微軟發行 Windows 98 Second
 Edition，主要新增功能為[因特网连接共享](https://zh.wikipedia.org/wiki/因特网连接共享 "wikilink")，容許多部電腦共用一個互聯網連接。
-此外還修正了不少問題，所以被認為是基於Windows 9x核心中最穩定的版本。
+此外還修正了不少問題，所以被認為是基於 Windows 9x 核心中最穩定的版本。
 
 ## Windows 2000
 
@@ -177,14 +176,15 @@ Windows 2000 共有四種版本，
 
 ## Windows Me
 
-在2000年，微軟發行 [Windows Me](../Page/Windows_Me.md "wikilink") (Millennium
+在 2000 年，微軟發行 [Windows Me](../Page/Windows_Me.md "wikilink") (Millennium
 Edition)。相比 Windows
-98，它主要在多媒體和互聯網功能上有所增強，并且首次引入「系统還原」功能。當系统損壞時，用户可以把系统還原至上一個「正常」的狀態。軟件[Windows
-Movie Maker](../Page/Windows_Movie_Maker.md "wikilink") 亦首次包括在內。
+98，它主要在多媒體和互聯網功能上有所增強，并且首次引入「系统還原」功能。當系统損壞時，用户可以把系统還原至上一個「正常」的狀態。軟件
+[Windows Movie Maker](../Page/Windows_Movie_Maker.md "wikilink")
+亦首次包括在內。
 
-Windows Me 本是作為介於 Windows 98 和 Windows XP間的過渡產品，所以 Windows Me
+Windows Me 本是作為介於 Windows 98 和 Windows XP 間的過渡產品，所以 Windows Me
 并不認為是一個「獨特」的作業系統。在許多情況下，使用 Windows 98SE 的用戶可以透過
-Windows Update 機制提升到十分接近 Windows Me 的水準。對Windows Me
+Windows Update 機制提升到十分接近 Windows Me 的水準。對 Windows Me
 的主要批評為不夠穩定和缺乏對DOS真實模式的支援。所以又被戲稱為錯誤版本
 (Mistake Edition)。
 

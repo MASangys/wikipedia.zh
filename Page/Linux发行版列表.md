@@ -24,10 +24,10 @@ Linux是一種強調使用自由軟件的发行版。它支持多種硬件平台
   - [Grml](../Page/Grml.md "wikilink")：進行系統救援的[Live
     CD](../Page/Live_CD.md "wikilink")。
   - [Guadalinex](https://zh.wikipedia.org/wiki/Guadalinex "wikilink")：由[西班牙的](../Page/西班牙.md "wikilink")[安达卢西亚地方政府推动](https://zh.wikipedia.org/wiki/安达卢西亚 "wikilink")，基于Debian，针对西班牙语的家庭用户以及学校。
-  - [Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink")：第一张Debian的自启动运行光盘。包含的软件非常多，启动时会自动进行硬件监测。从4.0起，用DVD作光盘。
-      - 以下基于[Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink")：
-          - [Gnoppix](https://zh.wikipedia.org/wiki/Gnoppix "wikilink")：[Knoppix的](https://zh.wikipedia.org/wiki/Knoppix "wikilink")[GNOME版](../Page/GNOME.md "wikilink")，该套件发行周期较长，未来会跟[Ubuntu进行整合](../Page/Ubuntu.md "wikilink")。
-          - [Kanotix](https://zh.wikipedia.org/wiki/Kanotix "wikilink")：[自启动运行光盘](https://zh.wikipedia.org/wiki/自启动运行光盘 "wikilink")，基于[Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink")，也可以安装到硬盘上。有很好的硬件支持，桌面与[笔记本电脑的整合也很出色](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")。
+  - [Knoppix](../Page/Knoppix.md "wikilink")：第一张Debian的自启动运行光盘。包含的软件非常多，启动时会自动进行硬件监测。从4.0起，用DVD作光盘。
+      - 以下基于[Knoppix](../Page/Knoppix.md "wikilink")：
+          - [Gnoppix](https://zh.wikipedia.org/wiki/Gnoppix "wikilink")：[Knoppix的](../Page/Knoppix.md "wikilink")[GNOME版](../Page/GNOME.md "wikilink")，该套件发行周期较长，未来会跟[Ubuntu进行整合](../Page/Ubuntu.md "wikilink")。
+          - [Kanotix](https://zh.wikipedia.org/wiki/Kanotix "wikilink")：[自启动运行光盘](https://zh.wikipedia.org/wiki/自启动运行光盘 "wikilink")，基于[Knoppix](../Page/Knoppix.md "wikilink")，也可以安装到硬盘上。有很好的硬件支持，桌面与[笔记本电脑的整合也很出色](https://zh.wikipedia.org/wiki/笔记本电脑 "wikilink")。
           - [Kurumin](https://zh.wikipedia.org/wiki/Kurumin "wikilink")：针对[巴西用户的Knoppix](../Page/巴西.md "wikilink")。
   - [LinEx](https://zh.wikipedia.org/wiki/LinEx "wikilink")：由西班牙的[埃斯特雷马杜拉地方政府推动的套件](../Page/埃斯特雷马杜拉.md "wikilink")。
   - [Loco
@@ -207,7 +207,7 @@ Mandriva、Ubuntu等）不同的道路，它力圖成為「UNIX風格」的Linux
   - [Damn Small
     Linux](https://zh.wikipedia.org/wiki/Damn_Small_Linux "wikilink")（DSL）：这是小型套件的老祖宗，放在迷你CD上，原先设计是想看看一张50M的CD可以放多少桌面程序，原来是作为个人玩具，但不久Damn
     Small
-    Linux周围就聚成了一个社区，不少人加入进来，参与改进，包括一个远程、本地的程序安装系统，多功能的备份、还原系统，另外还加入了[Knoppix的硬件检测](https://zh.wikipedia.org/wiki/Knoppix "wikilink")，使用自己的\*.dsl软件包系统，默认的窗口管理器是[Fluxbox](../Page/Fluxbox.md "wikilink")。可以在微软虚拟机软件里运行，无须关闭WINDOWS系统专门进入LINUX系统，特别适合初学者。
+    Linux周围就聚成了一个社区，不少人加入进来，参与改进，包括一个远程、本地的程序安装系统，多功能的备份、还原系统，另外还加入了[Knoppix的硬件检测](../Page/Knoppix.md "wikilink")，使用自己的\*.dsl软件包系统，默认的窗口管理器是[Fluxbox](../Page/Fluxbox.md "wikilink")。可以在微软虚拟机软件里运行，无须关闭WINDOWS系统专门进入LINUX系统，特别适合初学者。
   - [Feather
     Linux](https://zh.wikipedia.org/wiki/Feather_Linux "wikilink")：类似于[Damn
     Small

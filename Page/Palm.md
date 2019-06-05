@@ -181,8 +181,6 @@ Mobile手機多由[HTC代工](https://zh.wikipedia.org/wiki/HTC "wikilink")）
 
   - [MAXPDA，Palm，黑莓论坛](https://web.archive.org/web/20071111140516/http://bbs.maxpda.com/)
 
-[fr:Palm, Inc.](https://zh.wikipedia.org/wiki/fr:Palm,_Inc. "wikilink")
-
 [Category:个人数码助理](https://zh.wikipedia.org/wiki/Category:个人数码助理 "wikilink")
 [Category:Palm公司](https://zh.wikipedia.org/wiki/Category:Palm公司 "wikilink")
 [Category:惠普](https://zh.wikipedia.org/wiki/Category:惠普 "wikilink")

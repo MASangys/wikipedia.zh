@@ -117,12 +117,13 @@ corbaloc的例子：
   - [Python ORB](http://www.fnorb.org/)
   - [Perl ORB](http://sf.net/projects/perlorb/)
   - [JacORB](https://web.archive.org/web/20041212070949/http://jacorb.inf.fu-berlin.de/)
-  - [TAO The ACE ORB](http://www.cs.wustl.edu/~schmidt/TAO.html)
+  - [TAO The ACE
+    ORB](https://web.archive.org/web/20070611101431/http://www.cs.wustl.edu/~schmidt/TAO.html)
   - [e\*ORB](https://web.archive.org/web/20040825200943/http://www.prismtechnologies.com/section-item.asp?sid4=&sid3=&sid2=9&sid=18&id=174)
   - [omniORB](http://omniorb.sourceforge.net/)
   - [MICO](http://www.mico.org/)
   - [PocoCapsule for
-    CORBA组件容器](http://www.pocomatic.com/docs/whitepapers/corba)支持CORBA服务器应用，OMG事件／通知服务应用，OMG-DDS应用，OMG-RTC应用，以及JTRS-SCA基于组件的[软件无线电](../Page/软件无线电.md "wikilink")（SDR）应用。
+    CORBA组件容器](https://web.archive.org/web/20071119030841/http://www.pocomatic.com/docs/whitepapers/corba/)支持CORBA服务器应用，OMG事件／通知服务应用，OMG-DDS应用，OMG-RTC应用，以及JTRS-SCA基于组件的[软件无线电](../Page/软件无线电.md "wikilink")（SDR）应用。
 
 [Category:面向对象的程序设计](https://zh.wikipedia.org/wiki/Category:面向对象的程序设计 "wikilink")
 [Category:进程间通信](https://zh.wikipedia.org/wiki/Category:进程间通信 "wikilink")

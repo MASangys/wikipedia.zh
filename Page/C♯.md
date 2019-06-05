@@ -569,12 +569,15 @@ World的小](../Page/Hello_World.md "wikilink")-{zh:程序;zh-hans:程序;zh-han
 ``` csharp
 using System;
 
-public class HelloWorld {
-
-  public static void Main(string[] args) {
-    Console.WriteLine("Hello world!");
-    Console.ReadLine();
-  }
+namespace ConsoleApp1
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+        }
+    }
 }
 ```
 

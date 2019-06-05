@@ -98,8 +98,8 @@ D處理器為低加上效能突出，處理器讀取記憶體無須像對手一�
 ## Athlon II
 
 Athlon
-II是AMD的45nm多核中央處理器產品系列之一，2009年推出，有2、3和4核心版本，全部均是45nm製程，以廉價市場作為定位，也作為較進階的Phenom
-II處理器系列的另一選擇。
+II是AMD的45nm多核中央處理器產品系列之一，2009年推出，有2、3和4核心版本，全部均是45nm製程，以廉價市場作為定位，也作為[Phenom
+II處理器系列的另一選擇](https://zh.wikipedia.org/wiki/Phenom_II "wikilink")。
 
 ## Athlon APU
 

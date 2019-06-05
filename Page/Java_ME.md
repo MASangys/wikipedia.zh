@@ -40,10 +40,10 @@ Ericsson都有自己的SDK](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilin
 
   - [J2ME Wireless
     Toolkit，无线设备的J2ME开发工具](http://java.sun.com/products/j2mewtoolkit/index.html)
-  - [[NetBeans](../Page/NetBeans.md "wikilink")](http://www.netbeans.org/)
-  - [[Eclipse](../Page/Eclipse.md "wikilink")](http://www.eclipse.org/)
-    + [EclipseME J2ME Plugin](http://www.eclipseme.org)
-  - [[JBuilder](https://zh.wikipedia.org/wiki/JBuilder "wikilink")](https://web.archive.org/web/20121105211827/http://www.borland.com/)
+  - [NetBeans](http://www.netbeans.org/)
+  - [Eclipse](http://www.eclipse.org/) + [EclipseME J2ME
+    Plugin](http://www.eclipseme.org)
+  - [JBuilder](https://web.archive.org/web/20121105211827/http://www.borland.com/)
   - [Sun ONE
     Studio](https://web.archive.org/web/20040725064623/http://wwws.sun.com/software/sundev/jde/studio_me/index.html)
 
@@ -74,8 +74,7 @@ Ericsson都有自己的SDK](https://zh.wikipedia.org/wiki/Sony_Ericsson "wikilin
   - [J2ME正式网站](http://java.sun.com/j2me/)
   - [TCP/IP Socket Connections with MIDP 2.0 by
     Sun](http://developers.sun.com/techtopics/mobility/midp/articles/midp2network/)
-  - [Bluetooth
-    [蓝牙支持](https://zh.wikipedia.org/wiki/蓝牙 "wikilink")](http://benhui.net/bluetooth/index.html)
+  - [Bluetooth 蓝牙支持](http://benhui.net/bluetooth/index.html)
   - [siemens](https://web.archive.org/web/20040729200516/http://www.j2mepolish.org/)
   - [J2ME.org](http://www.j2me.org)
   - [J2MEDeveloper.com](https://web.archive.org/web/20161021134747/http://www.j2medeveloper.com/)

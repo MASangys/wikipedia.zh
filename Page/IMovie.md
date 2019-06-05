@@ -89,12 +89,12 @@ iMovie因为其介面功能的簡潔而受到欢迎，大多数的工作只需�
 <td><p>在<a href="../Page/Mac_App_Store.md" title="wikilink">Mac App Store单独发售</a></p></td>
 </tr>
 <tr class="even">
-<td><p>iMovie 10.0（2017年11月后大陆地区称为iMovie剪辑 10.0）</p></td>
+<td><p>iMovie 10.0（2017年11月后中囯大陆地区称为iMovie剪辑 10.0）</p></td>
 <td><p>2013年10月22日</p></td>
 <td><p>可通过<a href="../Page/Mac_App_Store.md" title="wikilink">Mac App Store免费更新</a></p></td>
 <td><p>OS X 10.9 (Mavericks)</p></td>
 <td><p>已免费提供，<br />
-大陆地区于2017年11月的增量更新中更名为“iMovie剪辑”。</p></td>
+中囯大陆地区于2017年11月的增量更新中更名为“iMovie剪辑”。</p></td>
 </tr>
 <tr class="odd">
 <td></td>

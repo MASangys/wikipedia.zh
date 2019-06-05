@@ -8,7 +8,7 @@ Jump》連載。故事描述英國貴族喬斯達家族與吸血鬼迪奧及其�
 由日本[集英社的少年漫畫雜誌](../Page/集英社.md "wikilink")《[少年JUMP週刊](https://zh.wikipedia.org/wiki/少年JUMP週刊 "wikilink")》连载（1987年－2004年）至第六部，2005年之後於集英社的青年向漫畫雜誌《[Ultra
 Jump](https://zh.wikipedia.org/wiki/Ultra_Jump "wikilink")》連載。目前連載至第八部，並有大量的外傳。
 
-台灣無版權時期[東立出版社初譯](../Page/東立出版社.md "wikilink")《**強人陣線**》，後來[大然出版社取得授權譯為](https://zh.wikipedia.org/wiki/大然出版社 "wikilink")《**JoJo冒險野郎**》，之後[東立出版社取得版權改回與日文相同的](../Page/東立出版社.md "wikilink")《**JoJo的奇妙冒險**》
+台灣無版權時期[東立出版社譯為](../Page/東立出版社.md "wikilink")《**強人陣線**》，後來[大然出版社取得授權譯為](https://zh.wikipedia.org/wiki/大然出版社 "wikilink")《**JoJo冒險野郎**》，之後[東立出版社取得版權改回與日文相同的](../Page/東立出版社.md "wikilink")《**JoJo的奇妙冒險**》
 
 全篇作品以「歌頌人類」為主題，故事中有著夥伴之間的羈絆、與強大的敵人戰鬥等少年漫畫的經典元素，由其獨特的畫風和表現形式構成不可思議的獨特世界。除漫畫之外，亦改編成動畫、小說、遊戲、電影等作品。
 
@@ -23,7 +23,7 @@ Jump](https://zh.wikipedia.org/wiki/Ultra_Jump "wikilink")》連載。目前連�
     收錄於單行本第5卷至第12卷。主角為喬納森的孫子喬瑟夫·喬斯達(Joseph
     Joestar)，天生具有部分波紋能力。1938年，他捲入了與古代超級生物「柱之男」的戰鬥，結識了威廉·A·齊貝林的孫子西撒，並接受波紋高手莉莎莉莎的訓練。
   - 第三部《[星塵鬥士](../Page/星塵鬥士.md "wikilink")》
-    收錄於單行本第12卷至第28卷。1988年，喬納森與[DIO死鬥後一百年](../Page/迪奧·布蘭度.md "wikilink")，DIO從大西洋中甦醒。同時，喬瑟夫的外孫空條承太郎(Jotaro
+    收錄於單行本第13卷至第28卷。1988年，喬納森與[DIO死鬥後一百年](../Page/迪奧·布蘭度.md "wikilink")，DIO從大西洋中甦醒。同時，喬瑟夫的外孫空條承太郎(Jotaro
     Kujo)發現自己有幽波紋（[替身](../Page/替身_\(JoJo的奇妙冒險\).md "wikilink")）能力，DIO的復活令承太郎的母親陷入病危，為了拯救命在旦夕的母親，承太郎與他的夥伴們展開為期五十天的旅程，從日本出發，前往埃及並打倒DIO。
   - 第四部《[不滅鑽石](../Page/不滅鑽石.md "wikilink")》
     收錄於單行本第29卷至第47卷。1999年夏天，喬瑟夫的私生子東方仗助居住在日本小鎮「杜王町」，這裡有許多看似平凡的居民，但他們其實擁有替身能力，仗助接連地與這些不可思議的人相遇，其中包括了一名潛藏在小鎮裡的連續殺人狂——吉良吉影。
@@ -155,27 +155,24 @@ Production製作](../Page/David_Production.md "wikilink")。第一季自2012年1
 
 ### 小說
 
-  - 《JoJo的奇妙冒險》（1993年，[JUMP
+  - 《[JOJO的奇妙冒險I](https://zh.wikipedia.org/wiki/星塵鬥士#小說 "wikilink")》（1993年，[JUMP
     j-BOOKS](https://zh.wikipedia.org/wiki/JUMP_j-BOOKS "wikilink")）
 
 <!-- end list -->
 
   -
-    《》（作者：[關島真賴](../Page/關島真賴.md "wikilink")）
-    《》（作者：[山口宏](https://zh.wikipedia.org/wiki/山口宏 "wikilink")）
-      -
-        以第三部为題材的改编小説。以在非洲登陆后为中心描写，有原创的替身使者登场。
+    以第三部為題材的改編小說。以埃及為舞台。
 
 <!-- end list -->
 
-  - 《JoJo的奇妙冒險II
-    -黄金之心/黄金指环-》（作者：、[宮昌太朗](https://zh.wikipedia.org/wiki/宮昌太朗 "wikilink")。2001年，JUMP
+  - 《[JOJO的奇妙冒險II
+    黃金之心/黃金戒指](https://zh.wikipedia.org/wiki/黃金之風#小說 "wikilink")》（作者：大塚戲馳（）、[宮昌太朗](https://zh.wikipedia.org/wiki/宮昌太朗 "wikilink")。2001年，JUMP
     j-BOOKS）
 
 <!-- end list -->
 
   -
-    以第五部為題材的小説。主要描寫福葛離開布加拉提小隊之後的故事。
+    以第五部為題材的小說。以義大利[威尼斯為舞台](../Page/威尼斯.md "wikilink")。
 
 <!-- end list -->
 
@@ -186,16 +183,17 @@ Production製作](../Page/David_Production.md "wikilink")。第一季自2012年1
 <!-- end list -->
 
   -
-    以第四部为題材的改编小説。描写在吉良吉影死亡数月後的杜王町的故事。
+    以第四部為題材的改編小說。描寫吉良吉影死亡數個月後杜王町的故事。
 
 <!-- end list -->
 
-  - 《》（作者：[上遠野浩平](https://zh.wikipedia.org/wiki/上遠野浩平 "wikilink")）
+  - 《[不知恥的紫煙
+    -JOJO的奇妙冒險-](https://zh.wikipedia.org/wiki/黃金之風#不知恥的紫煙_-JOJO的奇妙冒險- "wikilink")》（作者：[上遠野浩平](https://zh.wikipedia.org/wiki/上遠野浩平 "wikilink")）
 
 <!-- end list -->
 
   -
-    以[黃金之風為背景](../Page/黃金之風.md "wikilink")，描述喬魯諾們擊敗迪亞波羅並當上老闆後的故事。
+    [黃金之風的後日談](../Page/黃金之風.md "wikilink")。以潘納科達·福葛為主角的小說作品。以義大利[西西里為舞台](https://zh.wikipedia.org/wiki/西西里 "wikilink")。
 
 <!-- end list -->
 
@@ -267,17 +265,17 @@ Production製作](../Page/David_Production.md "wikilink")。第一季自2012年1
   - JoJo的奇妙冒險 星塵射手 （ジョジョの奇妙な冒険 スターダストシューターズ）\[1\]
     由NAMCO
     BANDAI推出，Android系統於2014年3月10日、iOS系統同年3月13日。遊戲本身免費，部份道具收費。在2016年5月17日推出繁體中文版，隔年6月30日結束營運。
-    硬幣彈射遊戲。登場角色為第一部至第四部的角色。
+    硬幣彈射遊戲。登場角色為第一部至第五部的角色。
 
 <!-- end list -->
 
   - JoJo的奇妙冒險 鑽石紀錄 （ジョジョの奇妙な冒険 ダイヤモンドレコーズ）
-    3D格鬥遊戲。登場角色為第一部至第四部的角色。
+    3D格鬥遊戲。登場角色為第一部至第五部的角色。
 
 <!-- end list -->
 
   - JoJo's PITTER-PATTER POP\! （ジョジョのピタパタポップ）
-    三消益智類型遊戲，遊戲中經典的角色都以SD造型（Q版人物）登場，玩家不僅可操作各個JOJO角色進行戰鬥，還可以打造屬於自己的JOJO公寓讓角色入住,遊戲為免費下載，ios、Android系統皆可遊玩，目前無繁中版，登場角色為第一部至第五部的角色，後續角色將會接連推出。
+    三消益智類型遊戲，遊戲中角色以SD造型（Q版人物）登場，除了三消以外還可設計個人空間，遊戲為免費下載，ios、Android系統皆可遊玩，登場角色為第一部至第五部的角色。
 
 ### 卡片遊戲
 
@@ -298,7 +296,7 @@ Production製作](../Page/David_Production.md "wikilink")。第一季自2012年1
 
 ### 真人電影
 
-預定於2017年夏季上映。由[三池崇史導演](../Page/三池崇史.md "wikilink")，[山崎賢人飾演主角東方仗助](../Page/山崎賢人.md "wikilink")。[東寶與](../Page/東寶.md "wikilink")[日本華納娛樂共同初製作及發行](https://zh.wikipedia.org/wiki/日本華納娛樂 "wikilink")\[2\]
+改編自系列作第四部《不滅鑽石》，第一章於2017年8月4日上映，由[三池崇史導演](../Page/三池崇史.md "wikilink")，[山崎賢人飾演主角東方仗助](../Page/山崎賢人.md "wikilink")。[東寶與](../Page/東寶.md "wikilink")[日本華納娛樂共同初製作及發行](https://zh.wikipedia.org/wiki/日本華納娛樂 "wikilink")\[2\]
 
 ### 行動應用程式
 
@@ -367,9 +365,12 @@ WORLD〜」獲選為第20屆[神戶動畫獎最佳主題曲](../Page/神戶動�
 ## 合作
 
 荒木飛呂彥繪製了2007年9月的科學雜誌《細胞》期刊封面，他以《JoJo的奇妙冒險》中的替身表現[連接酶](https://zh.wikipedia.org/wiki/連接酶 "wikilink")。\[45\]
-他為[2011年東日本大地震後的](https://zh.wikipedia.org/wiki/2011年東日本大地震 "wikilink")[中尊寺繪製了畫作](../Page/中尊寺.md "wikilink")\[46\]
-荒木為日本[演歌歌手](../Page/演歌.md "wikilink")[石川小百合在](../Page/石川小百合.md "wikilink")2012年的專輯*X
+
+他為[2011年東日本大地震後的](https://zh.wikipedia.org/wiki/2011年東日本大地震 "wikilink")[中尊寺繪製了畫作](../Page/中尊寺.md "wikilink")\[46\]。
+
+他為日本[演歌歌手](../Page/演歌.md "wikilink")[石川小百合在](../Page/石川小百合.md "wikilink")2012年的專輯*X
 -Cross-*繪製了封面，其封面是一張石川小百合擺出「JoJo立」並穿戴JoJo首飾的畫像。\[47\]
+
 JoJo風格也延伸到了文學作品，2008年時，他為[川端康成的短篇小說](../Page/川端康成.md "wikilink")《[伊豆的舞孃](../Page/伊豆的舞孃.md "wikilink")》繪製封面。\[48\]
 而2012年時、他為的精神分析入門書《生き延びるためのラカン》文庫版繪製封面。\[49\]
 
@@ -384,7 +385,9 @@ JoJo風格也延伸到了文學作品，2008年時，他為[川端康成的短�
 2011年9月17日至10月6日間，[新宿一間](../Page/新宿.md "wikilink")[古馳專賣店舉辦了](../Page/古馳.md "wikilink")「古馳x荒木飛呂彥x岸邊露伴
 Gucci之旅」活動，與義大利奢侈名牌[古馳及日本](../Page/古馳.md "wikilink")[集英社旗下女性流行雜誌](../Page/集英社.md "wikilink")《SPUR》合作。\[55\]
 該活動慶祝了古馳90週年，展出等身大小的岸邊露伴[人像及大量由荒木飛呂彥繪製的人物畫作](https://zh.wikipedia.org/wiki/人像 "wikilink")，穿著古馳在2011年-2012年秋/冬季的實際時裝及荒木原創的服裝。\[56\]
+
 在2011年10月，荒木繪製了短篇漫畫《》，故事敘述岸邊露伴參觀古馳工廠並發現了一個隱藏於手提包中的秘密，作品中的角色穿著古馳的服飾及配件\[57\]\[58\]
+
 在2013年時繪製短篇漫畫《》，以[空條徐倫為主角](../Page/石之海.md "wikilink")\[59\]\[60\]之後、這些作品在世界各地的古馳專賣店展出，包括[台北101](../Page/台北101.md "wikilink")\[61\]\[62\]
 
 ### 25週年活動
