@@ -44,6 +44,10 @@
 6GB RAM+64GB ROM售價：新台幣14999元
 6GB RAM+128GB ROM售價：新台幣16599元
 
+## 獲獎
+
+以精美的一體式陶瓷機身、運用物理气相沉积鍍膜技術的相機金圈等特點，獲2018年[iF產品設計獎](https://zh.wikipedia.org/wiki/iF產品設計獎 "wikilink")\[12\]
+
 ## 參考資料
 
 <references />
@@ -69,3 +73,4 @@
     台灣上市規格有兩版本](https://www.sogi.com.tw/articles/xiaomi_mix2/6249968)
 11. [5.99 吋全面屏 2.0 旗艦，小米 MIX 2
     正式發表](http://www.eprice.com.tw/mobile/talk/4568/5035115/1/rv/%E5%B0%8F%E7%B1%B3-mix-2-launch/)
+12.

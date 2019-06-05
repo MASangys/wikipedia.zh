@@ -16,7 +16,7 @@ FOOD Story以月租約30萬承租地庫面積5011方呎樓面。\[5\]
 
 辦公室樓層有16層，主要預留予美容及健康生活等租客，呎租約50至60[港元](../Page/港元.md "wikilink")。\[6\]最大租戶為跨國虛擬辦公室公司[WeWork承租項目](../Page/WeWork.md "wikilink")8層寫字樓，涉及9萬平方呎。\[7\]而7樓及8樓全層約2.3萬平方呎樓面獲健身中心[Fitness
 First承租](https://zh.wikipedia.org/wiki/Fitness_First "wikilink")，呎租約60元，於2016年6月13日開業。25樓設阿一海景飯店及酒吧炊公館。26樓頂層為Bulldozer
-Group's 首間於香港開設的餐廳Seafood Room，佔他8,000呎樓面連2,000呎天台。
+Group's 首間於香港開設的餐廳Seafood Room，佔他8,000呎樓面連2,000呎天台，不過在2017年7月突然結業。
 
 ## 交通
 

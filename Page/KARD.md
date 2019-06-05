@@ -199,49 +199,58 @@ Wind》之后时隔8个多月发行的新單曲。据悉，组合自上一张专
 
 ### 綜藝節目
 
-| 播出日期                                                | 電視台                                                               | 節目名稱                                                           | 備註 |
-| --------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------- | -- |
-| 2016年12月29日                                         | [Arirang TV](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")     | 《[韓國音樂流行榜](../Page/韓國音樂流行榜.md "wikilink")》                     |    |
-| 2017年2月28日                                          | 《[After School Club](../Page/After_School_Club.md "wikilink")》    |                                                                |    |
-| 2017年7月25日                                          | 《[After School Club](../Page/After_School_Club.md "wikilink")》    |                                                                |    |
-| 2017年8月19日                                          | [KBS第2頻道](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")       | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》  |    |
-| 2017年12月31日                                         | [KBS第1頻道](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")       | 《》                                                             |    |
-| 2018年1月13日                                          | [KBS第2頻道](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")       | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》             |    |
-| 2018年7月19日                                          | XtvN                                                              | 《[SUPER TV 2](../Page/SUPER_TV.md "wikilink")》                 |    |
-| 2018年7月31日                                          | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》 |    |
-| TBS TV                                              | 《Fact in Star》                                                    |                                                                |    |
-| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《深夜本格演藝》                                                          |                                                                |    |
-| 2018年8月30日                                          | K-Tigers TV                                                       | 《神童的Kick Service》                                              |    |
+| 年份                                                  | 日期                                                                | 電視台                                                            | 節目名稱                                               | 参与成员 | 備註 |
+| --------------------------------------------------- | ----------------------------------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------- | ---- | -- |
+| 2016年                                               | 12月29日                                                            | [Arirang TV](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")  | 《[韓國音樂流行榜](../Page/韓國音樂流行榜.md "wikilink")》         | 全员   |    |
+| 2017年                                               | 2月28日                                                             | 《[After School Club](../Page/After_School_Club.md "wikilink")》 |                                                    |      |    |
+| 7月25日                                               | 《[After School Club](../Page/After_School_Club.md "wikilink")》    |                                                                |                                                    |      |    |
+| 8月19日                                               | [KBS第2頻道](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")       | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》  |                                                    |      |    |
+| 12月31日                                              | [KBS第1頻道](https://zh.wikipedia.org/wiki/KBS第1頻道 "wikilink")       | 《》                                                             |                                                    |      |    |
+| 2018年                                               | 1月13日                                                             | [KBS第2頻道](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")    | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》 |      |    |
+| 7月19日                                               | XtvN                                                              | 《[SUPER TV 2](../Page/SUPER_TV.md "wikilink")》                 |                                                    |      |    |
+| 7月31日                                               | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》 |                                                    |      |    |
+| TBS TV                                              | 《Fact in Star》                                                    |                                                                |                                                    |      |    |
+| [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《深夜本格演藝》                                                          |                                                                |                                                    |      |    |
+| 8月30日                                               | K-Tigers TV                                                       | 《神童的Kick Service》                                              |                                                    |      |    |
+| 2019年                                               | 4月15日                                                             | [Arirang TV](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink")  | 《[韓國音樂流行榜](../Page/韓國音樂流行榜.md "wikilink")》         |      |    |
+| 5月10日                                               | MBC every1                                                        | 《[Video Star](../Page/Video_Star.md "wikilink")》               | J.seph、BM                                          |      |    |
 
 ### 電台節目
 
-| 廣播年份       | 廣播日期                                                          | 廣播電台                           | 節目名稱                | 參與成員       | 備註 |
-| ---------- | ------------------------------------------------------------- | ------------------------------ | ------------------- | ---------- | -- |
-| 2016       | 12月18日                                                        | SBS Power FM                   | 《Cultwo Show》       | 全員         |    |
-| 12月22日     | Arirang Radio                                                 | 《Sound K》                      |                     |            |    |
-| 2017       | 1月2日                                                          | 《K-Poppin'》                    |                     |            |    |
-| 1月7日-8月26日 | 《Sound K》                                                     | BM                             | 固定嘉賓                |            |    |
-| 1月27日      | 全員                                                            |                                |                     |            |    |
-| 3月1日       | SBS Love FM                                                   | 《宋恩伊、金淑的姐姐電台|송은이, 김숙의 언니네 라디오》 |                     |            |    |
-| 4月27日      | Arirang Radio                                                 | 《Sound K》                      |                     |            |    |
-| 7月20日      | SBS Power FM                                                  | 《Cultwo Show》                  |                     |            |    |
-| 7月21日      | 《NCT的night night\!》                                           |                                |                     |            |    |
-| 7月20日      | SBS Love FM                                                   | 《尹亨彬、梁世炯的Two Man Show》         |                     |            |    |
-| 7月27日      | SBS Power FM                                                  | 《李國主的Young Street》             |                     |            |    |
-| 7月31日      | Arirang Radio                                                 | 《Sound K》                      |                     |            |    |
-| 8月3日       | MBC FM4U                                                      | 《金申英正午的希望曲》                    |                     |            |    |
-| 8月6日       | KBS Cool FM                                                   | 《李洪基的kiss the Radio》           |                     |            |    |
-| 8月9日       | MBC FM4U                                                      | 《Tei的Dream Radio》              |                     |            |    |
-| 8月12日      | SBS Power FM                                                  | 《朴素賢的LOVE GAME》                |                     |            |    |
-| 10月29日     | 《李國主的Young Street》                                            |                                |                     |            |    |
-| 2018       | 7月26日                                                         | SBS Power FM                   | 《NCT的night night\!》 |            |    |
-| 7月31日      | Arirang Radio                                                 | 《Sound K》                      |                     |            |    |
-| 7月31日      | KBS Cool FM                                                   | 《提高樂童音樂家秀賢的音量》                 |                     |            |    |
-| 8月6日       | Arirang Radio                                                 | 《Super K-pop》                  |                     |            |    |
-| 8月6日       | Super Power FM                                                | 《李國主的Young Street》             |                     |            |    |
-| 8月8日       | SBS Power FM                                                  | 《樸素賢的Love Game》                |                     |            |    |
-| 8月10日      | [MBC FM4U](https://zh.wikipedia.org/wiki/MBC_FM4U "wikilink") | 《池石鎮的2點約會》                     |                     |            |    |
-| 2019年      | 3月28日                                                         | SBS Power FM                   | 《李國主的Young Street》  | J.Seph、全志佑 |    |
+| 廣播年份       | 廣播日期                                                          | 廣播電台                                             | 節目名稱                | 參與成員 | 備註 |
+| ---------- | ------------------------------------------------------------- | ------------------------------------------------ | ------------------- | ---- | -- |
+| 2016       | 12月18日                                                        | SBS Power FM                                     | 《Cultwo Show》       | 全員   |    |
+| 12月22日     | Arirang Radio                                                 | 《Sound K》                                        |                     |      |    |
+| 2017       | 1月2日                                                          | 《K-Poppin'》                                      |                     |      |    |
+| 1月7日-8月26日 | 《Sound K》                                                     | BM                                               | 固定嘉賓                |      |    |
+| 1月27日      | 全員                                                            |                                                  |                     |      |    |
+| 3月1日       | SBS Love FM                                                   | 《宋恩伊、金淑的姐姐電台|송은이, 김숙의 언니네 라디오》                   |                     |      |    |
+| 4月27日      | Arirang Radio                                                 | 《Sound K》                                        |                     |      |    |
+| 7月20日      | SBS Power FM                                                  | 《Cultwo Show》                                    |                     |      |    |
+| 7月21日      | 《NCT的night night\!》                                           |                                                  |                     |      |    |
+| 7月20日      | SBS Love FM                                                   | 《尹亨彬、梁世炯的Two Man Show》                           |                     |      |    |
+| 7月27日      | SBS Power FM                                                  | 《李國主的Young Street》                               |                     |      |    |
+| 7月31日      | Arirang Radio                                                 | 《Sound K》                                        |                     |      |    |
+| 8月3日       | MBC FM4U                                                      | 《金申英正午的希望曲》                                      |                     |      |    |
+| 8月6日       | KBS Cool FM                                                   | 《李洪基的kiss the Radio》                             |                     |      |    |
+| 8月9日       | MBC FM4U                                                      | 《Tei的Dream Radio》                                |                     |      |    |
+| 8月12日      | SBS Power FM                                                  | 《朴素賢的LOVE GAME》                                  |                     |      |    |
+| 10月29日     | 《李國主的Young Street》                                            |                                                  |                     |      |    |
+| 2018       | 7月26日                                                         | SBS Power FM                                     | 《NCT的night night\!》 |      |    |
+| 7月31日      | Arirang Radio                                                 | 《Sound K》                                        |                     |      |    |
+| 7月31日      | KBS Cool FM                                                   | 《提高樂童音樂家秀賢的音量》                                   |                     |      |    |
+| 8月6日       | Arirang Radio                                                 | 《Super K-pop》                                    |                     |      |    |
+| 8月6日       | Super Power FM                                                | 《李國主的Young Street》                               |                     |      |    |
+| 8月8日       | SBS Power FM                                                  | 《樸素賢的Love Game》                                  |                     |      |    |
+| 8月10日      | [MBC FM4U](https://zh.wikipedia.org/wiki/MBC_FM4U "wikilink") | 《池石鎮的2點約會》                                       |                     |      |    |
+| 2019年      |                                                               |                                                  |                     |      |    |
+| 3月13日      | SBS Power FM                                                  | 《朴素贤的love game》                                  | J.Seph              |      |    |
+| 3月28日      | 《李國主的Young Street》                                            | J.Seph、全志佑                                       |                     |      |    |
+| 4月4日       | [MBC标准FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink")   | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")》 | 全员                  |      |    |
+| 4月8日       | Arirang Radio                                                 | 《Sound K》                                        |                     |      |    |
+| 4月15日      |                                                               |                                                  |                     |      |    |
+| 4月27日      | SBS Love FM                                                   | 《Unnie Radio》                                    |                     |      |    |
+| 5月8日       | [MBC标准FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink")   | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")》 | J.Seph              |      |    |
 
 ## 音樂作品
 
@@ -792,6 +801,7 @@ Wind》之后时隔8个多月发行的新單曲。据悉，组合自上一张专
 | 2018年8月11日  | K-FLOW CONCERT in TAIWAN                   | NTSU Multipurpose Gymnasium          |
 | 2018年11月30日 | Charity Concert for Palu, Sogi and Dongala | The Kasablanka Main Hall             |
 | 2019年2月16日  | ONE K Concert                              |                                      |
+| 2019年5月18日  | 2019梦想演唱会                                  |                                      |
 | 2019年5月26日  | HallyuPopFest 2019                         | 新加坡室內體育館                             |
 
 ## 獎項
@@ -920,7 +930,7 @@ Wind》之后时隔8个多月发行的新單曲。据悉，组合自上一张专
 
 4.  [K.A.R.D 個人表演影片、隱藏成員概念照](http://kpopn.niusnews.com/=K3wp0tj4)
 
-5.  [齡智加入 K.A.R.D，成為首位隱藏成員](http://kpopn.niusnews.com/=K26cd5d0)
+5.
 
 6.  [K.A.R.D 出道曲《Oh NaNa》舞蹈預告](http://kpopn.niusnews.com/=K26c96x0)
 

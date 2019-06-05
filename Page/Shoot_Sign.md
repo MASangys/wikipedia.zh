@@ -210,7 +210,7 @@ E則收錄了與坂道系列（[乃木坂46及](https://zh.wikipedia.org/wiki/�
   - Team 4 / SKE48 Team S：[北川綾巴](../Page/北川綾巴.md "wikilink")
   - SKE48 Team S：二村春香、松井珠理奈
   - SKE48 Team
-    KII：[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[小畑優奈](../Page/小畑優奈.md "wikilink")、[惣田紗莉渚](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[竹内彩姫](https://zh.wikipedia.org/wiki/竹内彩姫 "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[松村香織](../Page/松村香織.md "wikilink")
+    KII：[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、[小畑優奈](../Page/小畑優奈.md "wikilink")、[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[竹内彩姫](https://zh.wikipedia.org/wiki/竹内彩姫 "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")、[松村香織](../Page/松村香織.md "wikilink")
   - SKE48 Team
     E：[木本花音](../Page/木本花音.md "wikilink")、熊崎晴香、[後藤乐乐](https://zh.wikipedia.org/wiki/後藤乐乐 "wikilink")、斉藤真木子、菅原茉椰、[須田亜香里](https://zh.wikipedia.org/wiki/須田亜香里 "wikilink")、[谷真理佳](../Page/谷真理佳.md "wikilink")
 

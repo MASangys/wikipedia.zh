@@ -77,7 +77,7 @@ Hop**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音�
 <td><p>1st</p></td>
 <td><p>《<strong>Hippity Hop</strong>》</p>
 <ul>
-<li>發行日期：2016年6月1日</li>
+<li>發行日期：2012年8月13日</li>
 <li>語言：韓語</li>
 </ul></td>
 <td><p>13</p></td>
@@ -113,7 +113,7 @@ Hop**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音�
 <td><p>1st</p></td>
 <td><p>"<strong>I Feel Good</strong>"</p>
 <ul>
-<li>發行日期：2016年6月1日</li>
+<li>發行日期：2012年8月13日</li>
 <li>語言：韓語</li>
 </ul></td>
 <td><p>56</p></td>

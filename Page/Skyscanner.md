@@ -1,39 +1,11 @@
-**Skyscanner**
-是全球機票、飯店、租車服務的免費比價[搜尋引擎](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")，並提供30種以上的多語言服務\[1\]，包括[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[俄文](https://zh.wikipedia.org/wiki/俄文 "wikilink")、[葡萄牙語等等](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")。在Skyscanner平台上，並不直接銷售機票，而是讓用戶尋找到最便宜的交易後，引導用戶到航空公司、租車公司、飯店、或是旅行社完成訂購程序\[2\]。
+**天巡网**
+()是全球機票、飯店、租車服務的免費比價[搜尋引擎](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")，並提供30種以上的多語言服務\[1\]，包括[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")、[俄文](https://zh.wikipedia.org/wiki/俄文 "wikilink")、[葡萄牙語等等](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")。在Skyscanner平台上，並不直接銷售機票，而是讓用戶尋找到最便宜的交易後，引導用戶到航空公司、租車公司、飯店、或是旅行社完成訂購程序\[2\]。
 
 ## 歷史
 
-2001年，三位[資訊科技的專業人員](https://zh.wikipedia.org/wiki/資訊科技 "wikilink")：Gareth
+2001年三位[資訊科技的專業人員](https://zh.wikipedia.org/wiki/資訊科技 "wikilink")：Gareth
 Williams、Barry Smith與Bonamy
-Grime組成了Skyscanner公司。（在他們之中的一人因為在搜索滑雪勝地的便宜機票面臨了重重的困難之後。）
-
-2002年，Skyscanner 的第一個版本上線。
-
-2003年，公司聘用的第一位員工，協助網站的開發。
-
-2004年，愛丁堡的總部建立\[3\]。
-
-一開始，Skyscanner網站上只列出歐洲的[廉價航空](https://zh.wikipedia.org/wiki/廉價航空 "wikilink")，不過也很快地擴展搜索範圍到傳統航空，如[英國航空](../Page/英國航空.md "wikilink")、[荷蘭皇家航空](../Page/荷蘭皇家航空.md "wikilink")、[維珍航空等等](../Page/維珍航空.md "wikilink")。之後，也擴張的搜尋的地理版圖到美國、加拿大、亞洲以及世界各地。
-
-2011年，Skyscanner收購了Door-to-door的旅遊網站Zoombu，不過不願透漏價格\[4\]。
-
-2011年9月，Skyscanner在[新加坡設立了辦公室](../Page/新加坡.md "wikilink")，做為亞太地區的營運總部\[5\]。
-
-2012年，北京辦公室啟用，Skyscanner並與中國最大的搜尋引擎─[百度建立合夥關係](../Page/百度.md "wikilink")\[6\]。
-
-2013年2月，Skyscanner宣布將在美國[邁阿密建立據點的計畫](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")\[7\]。
-
-2013年10月，[紅杉資本宣布入股Skyscanner](../Page/紅杉資本.md "wikilink")，並持有約8億美金的股份\[8\]（到2013年，Skyscanner已經聘用了超過180名以上的員工）。
-
-2014年6月，Skyscanner收購中國大陸的旅遊搜尋引擎Youbibi\[9\]。
-
-2014年8月，根據一份行銷研究指出，相較於其他的旅遊網站，Skyscanner的使用者主要介於16-34歲之間，而所有的使用者中，有64%認為Skyscanner是個可信任的平台\[10\]。
-
-2014年10月，Skyscannerg收購了位於布達佩斯的行動程式開發商Distinction\[11\]。
-
-2016年1月，Skyscanner宣布在國際擴張的過程中，募集了1億9200萬美金\[12\]。
-
-2016年11月24日，[攜程旅行網](https://zh.wikipedia.org/wiki/攜程旅行網 "wikilink")（Ctrip）以14億英鎊（約135億港元）現金收購全球大型的旅遊搜尋平台之一英國愛丁堡Skyscanner\[13\]（中譯名：天巡網）。
+Grime共同组成。（在他們之中的一人因為在搜索滑雪勝地的便宜機票面臨了重重的困難之後。）2002年发布的第一個版本上線。2003年公司聘用的第一位員工，協助網站的開發。2004年愛丁堡的總部建立\[3\]。一開始網站上只列出歐洲的[廉價航空](https://zh.wikipedia.org/wiki/廉價航空 "wikilink")，不過也很快地擴展搜索範圍到傳統航空，如[英國航空](../Page/英國航空.md "wikilink")、[荷蘭皇家航空](../Page/荷蘭皇家航空.md "wikilink")、[維珍航空等等](../Page/維珍航空.md "wikilink")。之後，也擴張的搜尋的地理版圖到美國、加拿大、亞洲以及世界各地。2011年收購了Door-to-door的旅遊網站Zoombu，不過不願透漏價格\[4\]。2011年9月，Skyscanner在[新加坡設立了辦公室](../Page/新加坡.md "wikilink")，做為亞太地區的營運總部\[5\]。2012年北京辦公室啟用，並與中國最大的搜尋引擎─[百度建立合夥關係](../Page/百度.md "wikilink")\[6\]。2013年2月宣布將在美國[邁阿密建立據點的計畫](https://zh.wikipedia.org/wiki/邁阿密 "wikilink")\[7\]。2013年10月[紅杉資本宣布入股](../Page/紅杉資本.md "wikilink")，並持有約8億美金的股份\[8\]（到2013年已經聘用了超過180名以上的員工）。2014年6月收購中國大陸的旅遊搜尋引擎Youbibi\[9\]。2014年8月根據一份行銷研究指出，相較於其他的旅遊網站，其使用者主要介於16-34歲之間，而所有的使用者中，有64%認為其是個可信任的平台\[10\]。2014年10月收購了位於布達佩斯的行動程式開發商Distinction\[11\]。2016年1月宣布在國際擴張的過程中，募集了1億9200萬美金\[12\]。2016年11月24日，[攜程旅行網以](https://zh.wikipedia.org/wiki/攜程旅行網 "wikilink")14億英鎊（約135億港元）現金将全球大型的旅遊搜尋平台之一收购\[13\]（中譯名：天巡網）。
 
 ## 市場狀況
 

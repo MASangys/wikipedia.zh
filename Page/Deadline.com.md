@@ -1,5 +1,5 @@
 Deadline.com | launch date =  }} **Deadline
-Hollywood（Deadline.com）**是一個由[尼克·芬克所創立的線上](https://zh.wikipedia.org/wiki/尼克·芬克 "wikilink")[雜誌網站](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，隸屬於的。該網站每日都會更新數次電影和[娛樂相關的新聞](https://zh.wikipedia.org/wiki/資訊娛樂 "wikilink")\[1\]。
+Hollywood**，又名**Deadline.com**，是一個由所創立的線上[雜誌網站](https://zh.wikipedia.org/wiki/雜誌 "wikilink")，隸屬於的。該網站每日都會更新數次電影和[娛樂相關的新聞](https://zh.wikipedia.org/wiki/資訊娛樂 "wikilink")\[1\]。
 
 ## 參考文獻
 

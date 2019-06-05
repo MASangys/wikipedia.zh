@@ -478,7 +478,8 @@ Show\[3\]，自2018年5月5日至10月27日逢星期六晚上6時25分播出。
 
   - [意外的Q](http://www.imbc.com/broad/tv/ent/QuizQ/)官方網站
 
-  - [意外的Q](http://movie.daum.net/tv/main?tvProgramId=82629) Daum電影介紹
+  - [意外的Q](https://web.archive.org/web/20180506173444/http://movie.daum.net/tv/main?tvProgramId=82629)
+    Daum電影介紹
 
   - [意外的Q](https://tv.naver.com/mbc.unexpectedq)的[Naver
     TV頻道](https://zh.wikipedia.org/wiki/Naver_TV "wikilink")

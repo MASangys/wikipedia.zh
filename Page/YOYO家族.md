@@ -17,7 +17,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <th><p>血型</p></th>
 <th><p>參與專輯</p></th>
 <th><p>備註</p></th>
-<th><p>形象顏色</p></th>
+<th><p>顏色</p></th>
 </tr>
 </thead>
 <tbody>
@@ -52,6 +52,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p><a href="../Page/西瓜哥哥.md" title="wikilink">西瓜哥哥</a><br />
 （李岳）</p></td>
 <td><p>李豐嘉</p></td>
+<td><p>2期</p></td>
 <td><p>2001年 -</p></td>
 <td><p><a href="../Page/3月6日.md" title="wikilink">3月6日</a></p></td>
 <td><p>雙魚座</p></td>
@@ -61,12 +62,11 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p><br />
 綠色</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/草莓姐姐.md" title="wikilink">草莓姐姐</a></p></td>
 <td><p>簡皎竹</p></td>
-<td><p>3期</p></td>
+<td><p>5期</p></td>
 <td><p>2005年 -</p></td>
 <td><p>水果生力軍（第一代）</p></td>
 <td><p><a href="../Page/1月29日.md" title="wikilink">1月29日</a></p></td>
@@ -94,7 +94,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/太陽哥哥" title="wikilink">太陽哥哥</a></p></td>
 <td><p>潘金樹</p></td>
-<td><p>4期</p></td>
+<td><p>6期</p></td>
 <td><p>2009年 -</p></td>
 <td><p>天空家族</p></td>
 <td><p><a href="../Page/10月29日.md" title="wikilink">10月29日</a></p></td>
@@ -122,7 +122,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <tr class="even">
 <td><p><a href="../Page/KIWI姐姐.md" title="wikilink">KIWI姐姐</a></p></td>
 <td><p>莫允樂</p></td>
-<td><p>5期</p></td>
+<td><p>7期</p></td>
 <td><p>2013年 -</p></td>
 <td><p>水果生力軍（第二代）</p></td>
 <td><p><a href="../Page/6月12日.md" title="wikilink">6月12日</a></p></td>
@@ -150,7 +150,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/天竺鼠姐姐" title="wikilink">天竺鼠姐姐</a></p></td>
 <td><p>張恆安</p></td>
-<td><p>6期</p></td>
+<td><p>8期</p></td>
 <td><p>2017年 -</p></td>
 <td><p>動物家族</p></td>
 <td><p><a href="../Page/2月26日.md" title="wikilink">2月26日</a></p></td>
@@ -214,14 +214,14 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <th><p>藝名</p></th>
 <th><p>本名</p></th>
 <th><p>加入期數</p></th>
-<th><p>活動期間</p></th>
+<th><p>活動期間（從加入時間算起）</p></th>
 <th><p>所屬組合</p></th>
 <th><p>生日</p></th>
 <th><p>星座</p></th>
 <th><p>血型</p></th>
 <th><p>參與專輯</p></th>
 <th><p>備註</p></th>
-<th><p>形象顏色</p></th>
+<th><p>顏色</p></th>
 </tr>
 </thead>
 <tbody>
@@ -253,7 +253,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 綠色</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/橘子姐姐.md" title="wikilink">橘子姐姐</a></p></td>
+<td><p>橘子姐姐</p></td>
 <td><p>吳沛珊</p></td>
 <td></td>
 <td></td>
@@ -284,6 +284,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p><a href="../Page/朱安禹.md" title="wikilink">水蜜桃姐姐</a><br />
 （MOMO姐姐、小蜜桃姐姐）</p></td>
 <td><p>朱安禹</p></td>
+<td><p>2期</p></td>
 <td><p>2001年 - 2007年</p></td>
 <td><p>6月19日</p></td>
 <td><p>雙子座</p></td>
@@ -293,12 +294,11 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p><br />
 粉紅色</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/蜻蜓哥哥.md" title="wikilink">蜻蜓哥哥</a></p></td>
 <td><p>宋翊彰</p></td>
-<td><p>2期</p></td>
+<td><p>3期</p></td>
 <td><p>2002年 - 2009年</p></td>
 <td><p>昆蟲家族</p></td>
 <td><p><a href="../Page/12月26日.md" title="wikilink">12月26日</a></p></td>
@@ -326,6 +326,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <tr class="even">
 <td><p><a href="../Page/簡愷樂.md" title="wikilink">蝴蝶姐姐</a></p></td>
 <td><p>簡愷樂</p></td>
+<td><p>4期</p></td>
 <td><p>2004年 - 2014年</p></td>
 <td><p><a href="../Page/9月22日.md" title="wikilink">9月22日</a></p></td>
 <td><p>處女座</p></td>
@@ -335,19 +336,18 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p><br />
 淡紫色</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/鳳梨哥哥" title="wikilink">鳳梨哥哥</a></p></td>
 <td><p>簡義隆</p></td>
-<td><p>3期</p></td>
+<td><p>5期</p></td>
 <td><p>2005年 - 2010年</p></td>
 <td><p>水果生力軍（第一代）</p></td>
 <td><p><a href="../Page/2月15日.md" title="wikilink">2月15日</a></p></td>
 <td><p>水瓶座</p></td>
 <td><p>O型</p></td>
 <td><p>6－7、9</p></td>
-<td></td>
+<td><p>因服役未參與第八張專輯</p></td>
 <td><p><br />
 綠色</p></td>
 </tr>
@@ -369,14 +369,14 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/星星哥哥" title="wikilink">星星哥哥</a></p></td>
 <td><p>宋孟帆</p></td>
-<td><p>4期</p></td>
+<td><p>6期</p></td>
 <td><p>2009年 - 2014年</p></td>
 <td><p>天空家族</p></td>
 <td><p><a href="../Page/2月18日.md" title="wikilink">2月18日</a></p></td>
 <td><p>水瓶座</p></td>
 <td><p>B型</p></td>
 <td><p>9－10</p></td>
-<td></td>
+<td><p>目前主要活躍於主持界</p></td>
 <td><p><br />
 灰色</p></td>
 </tr>
@@ -388,7 +388,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p>獅子座</p></td>
 <td><p>A型</p></td>
 <td><p>9－12</p></td>
-<td><p>已婚</p></td>
+<td><p>已婚，目前主要活躍於主持界</p></td>
 <td><p><br />
 桃色</p></td>
 <td></td>
@@ -397,14 +397,14 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <tr class="odd">
 <td><p><a href="../Page/張善為.md" title="wikilink">黑皮哥哥</a></p></td>
 <td><p>張善為</p></td>
-<td><p>-</p></td>
-<td><p>2001年 - 2013年</p></td>
+<td><p>非正式成員</p></td>
+<td><p>2009年 - 2013年</p></td>
 <td></td>
 <td><p><a href="../Page/8月7日.md" title="wikilink">8月7日</a></p></td>
 <td><p>獅子座</p></td>
 <td><p>A型</p></td>
 <td><p>9－11</p></td>
-<td><p>非正規成員，因病暫停活動</p></td>
+<td><p>因病暫停活動</p></td>
 <td><p><br />
 黑色</p></td>
 </tr>
@@ -412,9 +412,9 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p><a href="https://zh.wikipedia.org/wiki/雲朵姐姐" title="wikilink">雲朵姐姐</a><br />
 （朵朵）</p></td>
 <td><p>余佳怡</p></td>
-<td><p>5期</p></td>
+<td><p>7期</p></td>
 <td><p>2013年 - 2016年</p></td>
-<td><p>天空家族</p></td>
+<td><p>天空家族（第二代）</p></td>
 <td><p>12月9日</p></td>
 <td><p>射手座</p></td>
 <td><p>A型</p></td>
@@ -432,7 +432,7 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <td><p><a href="../Page/11月20日.md" title="wikilink">11月20日</a></p></td>
 <td><p>天蠍座</p></td>
 <td><p>B型</p></td>
-<td><p>第二代，蘋果劇團兼任</p></td>
+<td><p>第二代，目前主要活躍於主持界</p></td>
 <td><p><br />
 橙色</p></td>
 <td></td>
@@ -455,13 +455,13 @@ YOYO家族為[東森電視旗下頻道](../Page/東森電視.md "wikilink")[東�
 <tr class="odd">
 <td><p><a href="../Page/李博翔.md" title="wikilink">-{杰}-希哥哥</a></p></td>
 <td><p>李博翔</p></td>
-<td><p>-</p></td>
+<td><p>非正式成員</p></td>
 <td><p>2014年 - 2016年</p></td>
 <td></td>
 <td><p><a href="../Page/8月2日.md" title="wikilink">8月2日</a></p></td>
 <td><p>獅子座</p></td>
 <td><p>B型</p></td>
-<td><p>非正規成員，目前主要活躍於戲劇與廣告演出</p></td>
+<td><p>目前主要活躍於戲劇與廣告演出</p></td>
 <td><p><br />
 藍色</p></td>
 <td></td>

@@ -121,6 +121,12 @@ Announced [4]</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2018</p></td>
+<td><p><em><a href="../Page/淘金殺手.md" title="wikilink">淘金殺手</a></em></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Jacques_Audiard" title="wikilink">Jacques Audiard</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

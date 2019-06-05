@@ -122,6 +122,10 @@ Big小明星2017》\[5\]\[6\]\[7\]進入該節目\[8\]。
 | 94     | [4月13日](../Page/4月13日.md "wikilink") | 「Big Big KIDs」－洪永城突襲「搗亂」     |
 | 95     | [4月20日](../Page/4月20日.md "wikilink") | 「Big Big KIDs」－「淡定王」出動改建高樓   |
 | 96     | [4月27日](../Page/4月27日.md "wikilink") | 「Big Big KIDs」－蝦頭考驗小主持演技     |
+| 97     | [5月4日](../Page/5月4日.md "wikilink")   | 「Big Big KIDs」－小主持的旅遊經歷      |
+| 98     | [5月11日](../Page/5月11日.md "wikilink") | 「Big Big KIDs」－DIY創意母親節禮物    |
+| 99     | [5月18日](../Page/5月18日.md "wikilink") | 「Big Big KIDs」－蝦頭似開心果？       |
+| 100    | [5月25日](../Page/5月25日.md "wikilink") | 「Big Big KIDs」－家有寵物的樂趣       |
 
 ## 主持
 
@@ -138,7 +142,7 @@ Big小明星2017》\[5\]\[6\]\[7\]進入該節目\[8\]。
 | 姓名                                                                   | 暱稱\[10\] | 首次亮相日期     | 最後亮相日期          |
 | -------------------------------------------------------------------- | -------- | ---------- | --------------- |
 | [黃碧蓮](../Page/黃碧蓮.md "wikilink")（Linna）\[11\]                        | Linna    | 2017年7月1日  | 2018年3月10日      |
-| [單文柔](../Page/單文柔.md "wikilink")（Phoebe）                             | Phoebe   | 2018年5月19日 |                 |
+| [單文柔](../Page/單文柔.md "wikilink")（Phoebe）                             | Phoebe   | 2017年7月1日  | 2018年5月19日      |
 | [鄧家禮](https://zh.wikipedia.org/wiki/:zh-yue:鄧家禮 "wikilink")（Vincent） | Vincent  | 2018年9月1日  | 2018年10月6日      |
 | [鍾晴](../Page/鍾晴_\(藝人\).md "wikilink")（Karlie）                        | Karlie   | 2017年7月1日  | 2019年2月2日\[12\] |
 | [鍾君揚](../Page/鍾君揚.md "wikilink")（Freeyon）                            | Freeyon  | 2017年7月1日  | 2019年1月19日      |

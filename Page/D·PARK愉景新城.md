@@ -191,7 +191,7 @@ Place」已經被清走。而1樓中庭空間收費遊樂區「中央公園」�
 
 ## 參考
 
-## 外部鏈接
+## 外部連結
 
   -
 [Category:荃灣區私人屋苑](https://zh.wikipedia.org/wiki/Category:荃灣區私人屋苑 "wikilink")

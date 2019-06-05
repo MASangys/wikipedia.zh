@@ -47,12 +47,22 @@ city」為主題。電視廣告於[新加坡拍攝](../Page/新加坡.md "wikili
 
   - [惠英紅](../Page/惠英紅.md "wikilink")
 
-## 會德豐「澳南」項目
+## 會德豐「O'South」及「O'East」項目
+
+O'South:
 
 1.  [The Parkside](../Page/The_Parkside.md "wikilink")
 2.  [Capri](../Page/CAPRI.md "wikilink")
 3.  [Savannah](../Page/Savannah_\(住宅\).md "wikilink")
 4.  [Monterey](../Page/MONTEREY.md "wikilink")
+
+O'East:
+
+1.  [MALIBU](../Page/MALIBU.md "wikilink") (日出康城5期)
+2.  [MONTARA](../Page/MONTARA.md "wikilink") (日出康城7A期)
+3.  [GRAND MONTARA](../Page/MONTARA.md "wikilink") (日出康城7B期)
+4.  [日出康城](../Page/日出康城.md "wikilink")9A期
+5.  [日出康城](../Page/日出康城.md "wikilink")9B期
 
 ## 交通
 

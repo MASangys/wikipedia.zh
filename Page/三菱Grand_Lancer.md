@@ -1,4 +1,4 @@
-**Mitsubishi Grand Lancer**是**三菱汽車**於2017年起在臺灣推出的Lancer車型。
+**三菱Grand Lancer**是**三菱汽車**於2017年起在臺灣推出的Lancer車型。
 
 ## 發表
 
@@ -19,8 +19,8 @@ Lancer設計製造由日本原廠[三菱MMC監製](https://zh.wikipedia.org/wiki
 
 ## 安全性與規格
 
-Grand Lancer於安全性規格上，延續[三菱Lancer Fortis /
-iO(台灣版)全座位三點式](https://zh.wikipedia.org/wiki/三菱Lancer_Fortis_/_iO\(台灣版\) "wikilink")[安全帶設定](https://zh.wikipedia.org/wiki/安全帶 "wikilink")，並導入正駕駛座安全帶雙預縮系統。安全氣囊的搭載上，經典型車款搭載雙前座氣囊，經典型以外之所有車款搭載雙前座、雙前座側邊、車側幕簾式共6顆環艙氣囊。
+Grand Lancer於安全性規格上，延續[三菱Lancer Fortis / iO
+(台灣版)全座位三點式](https://zh.wikipedia.org/wiki/三菱Lancer_Fortis_/_iO_\(台灣版\) "wikilink")[安全帶設定](https://zh.wikipedia.org/wiki/安全帶 "wikilink")，並導入正駕駛座安全帶雙預縮系統。安全氣囊的搭載上，經典型車款搭載雙前座氣囊，經典型以外之所有車款搭載雙前座、雙前座側邊、車側幕簾式共6顆環艙氣囊。
 全車系搭載煞車輔助系統、循跡防滑、車身動態穩定、陡坡輔助等主動安全系統\[3\]。
 [中華汽車為驗證Grand](https://zh.wikipedia.org/wiki/中華汽車 "wikilink")
 Lancer**性能穩定性**及**動態穩定**、**循跡防滑**等主動安全功能發揮，將本款車送至中國[黑龍江進行低溫極地測試](https://zh.wikipedia.org/wiki/黑龍江 "wikilink")。\[4\]。亦斥資上億將Grand
@@ -42,6 +42,8 @@ Grand Lancer推出時即採統一車型銷售，不再細分家庭與運動化�
 \* 旗艦型
 2018年10月：
 \* 特仕版(外型小改款)
+
+## 參考資料
 
 [Category:三菱車輛](https://zh.wikipedia.org/wiki/Category:三菱車輛 "wikilink")
 [Category:中華汽車工業](https://zh.wikipedia.org/wiki/Category:中華汽車工業 "wikilink")

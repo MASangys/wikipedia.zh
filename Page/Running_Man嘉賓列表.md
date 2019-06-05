@@ -6,13 +6,13 @@ Man](../Page/Running_Man.md "wikilink")**》歷年次數及集數的節目嘉賓
 該列表名字根據名牌顯示決定，而有關「次數」及「集數」詳情請參閱[節目列表](../Page/Running_Man節目列表.md "wikilink")。以其他方式參與演出者，包括「傳達任務」或「特別出演」則不在計算之列。另外，中途加入及已退出的**Running
 Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主持，在以下名單中，只計算其以嘉賓身份出演的集數。
 
-<table style="width:19%;">
+<table style="width:178%;">
 <colgroup>
-<col style="width: 2%" />
-<col style="width: 2%" />
-<col style="width: 4%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
+<col style="width: 19%" />
+<col style="width: 23%" />
+<col style="width: 39%" />
+<col style="width: 47%" />
+<col style="width: 47%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -699,9 +699,9 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 <tr class="odd">
 <td><p><a href="../Page/林秀香.md" title="wikilink">林秀香</a>（임수향）</p></td>
 <td><p>演員（女）</p></td>
-<td><p>080、422</p></td>
-<td><p>2</p></td>
-<td><p>2</p></td>
+<td><p>080、422、453</p></td>
+<td><p>3</p></td>
+<td><p>3</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朴孝敏.md" title="wikilink">孝敏</a>（효민）</p></td>
@@ -1439,7 +1439,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/帕特里斯·埃夫拉.md" title="wikilink">-{zh-hans:埃弗拉;zh-hk:艾夫拿;zh-tw:埃夫拉}-</a>（에브라）</p></td>
+<td><p><a href="../Page/帕特里斯·埃夫拉.md" title="wikilink">-{zh-hans:埃弗拉;zh-hk:艾夫拿;zh-tw:埃夫拉}-</a>（Patrice Evra）</p></td>
 <td><p>足球選手（男）</p></td>
 <td><p>154</p></td>
 <td><p>1</p></td>
@@ -2713,7 +2713,7 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">朴炯植</a>（박형식）</p></td>
+<td><p><a href="../Page/朴炯植.md" title="wikilink">朴炯植</a>（박형식）</p></td>
 <td><p>歌手組合（男）（<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>）</p></td>
 <td><p>236</p></td>
 <td><p>1</p></td>
@@ -5179,9 +5179,9 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 <tr class="odd">
 <td><p><a href="../Page/李相燁.md" title="wikilink">李相燁</a>（이상엽）</p></td>
 <td><p>演員（男）</p></td>
-<td><p>381、390-396、399-400、406-408</p></td>
-<td><p>13</p></td>
-<td><p>7</p></td>
+<td><p>381、390-396、399-400、406-408、453</p></td>
+<td><p>14</p></td>
+<td><p>8</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/高甫潔.md" title="wikilink">高甫潔</a>（고보결）</p></td>
@@ -5331,21 +5331,21 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/湯姆·克魯斯" title="wikilink">湯姆·克魯斯</a>（Tom Cruise）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/湯姆·克魯斯" title="wikilink">-{zh-hans:汤姆·克鲁斯;zh-hk:湯·告魯斯;zh-tw:湯姆·克魯斯;zh-my:汤·告鲁斯;}-</a>（Tom Cruise）</p></td>
 <td><p>演員（男）</p></td>
 <td><p>410</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/亨利·卡維爾.md" title="wikilink">亨利·卡維爾</a>（Henry Cavill）</p></td>
+<td><p><a href="../Page/亨利·卡維爾.md" title="wikilink">-{zh-hk:亨利·卡菲爾;zh-tw:亨利·卡維爾;zh-cn:亨利·卡维尔;}-</a>（Henry Cavill）</p></td>
 <td><p>演員（男）</p></td>
 <td><p>410</p></td>
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/賽門·佩吉" title="wikilink">賽門·佩吉</a>（Simon Pegg）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/賽門·佩吉" title="wikilink">-{zh-hans:西蒙·佩奇;zh-hk:西蒙·柏奇;zh-tw:賽門·佩吉;}-</a>（Simon Pegg）</p></td>
 <td><p>演員（男）</p></td>
 <td><p>410</p></td>
 <td><p>1</p></td>
@@ -5452,9 +5452,9 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 <tr class="even">
 <td><p><a href="../Page/李東輝_(演員).md" title="wikilink">李東輝</a>（이동휘）</p></td>
 <td><p>演員（男）</p></td>
-<td><p>435</p></td>
-<td><p>1</p></td>
-<td><p>1</p></td>
+<td><p>435、450</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/孔明_(藝人).md" title="wikilink">孔明</a>（공명）</p></td>
@@ -5554,12 +5554,26 @@ Man**成員，或當日暫代缺席參演的**Running Man**成員中的暫代主
 <td><p>1</p></td>
 <td><p>1</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="../Page/李絮.md" title="wikilink">李絮</a>（이솜）</p></td>
+<td><p>演員（女）</p></td>
+<td><p>449</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/金景南.md" title="wikilink">金景南</a>（김경남）</p></td>
+<td><p>演員（男）</p></td>
+<td><p>449</p></td>
+<td><p>1</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 
 ## 記事
 
-在下列集數中節目無嘉賓：012、029、038、042、048、060、074、081、091、093、098、130、140、160、165、171、178、185、187、196-197、216、222-223、231、247、261、267、270、276、279-280、285、288、291、293、295-296、300-301、311、316、318-319、324、329、333、335、337-338、340-342、346、349、350-354、356、358-359、364-365、368-371、373、375、378-379、382、384-387、389、397-399、401、403-404、411-412、415-416、418-421、423、426、433-434、438-441、443-444，總共103集。
+在下列集數中節目無嘉賓：012、029、038、042、048、060、074、081、091、093、098、130、140、160、165、171、178、185、187、196-197、216、222-223、231、247、261、267、270、276、279-280、285、288、291、293、295-296、300-301、311、316、318-319、324、329、333、335、337-338、340-342、346、349、350-354、356、358-359、364-365、368-371、373、375、378-379、382、384-387、389、397-399、401、403-404、411-412、415-416、418-421、423、426、433-434、438-441、443-444、451-452，總共105集。
 
 ## 參考文獻
 

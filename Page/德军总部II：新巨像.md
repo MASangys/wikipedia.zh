@@ -2,7 +2,7 @@
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStation
 4和](../Page/PlayStation_4.md "wikilink")[Xbox
 One平台](../Page/Xbox_One.md "wikilink")，并于2018年6月29日登陆[任天堂Switch](../Page/任天堂Switch.md "wikilink")。
-游戏是[德軍總部系列的第八部主系列作品](../Page/德軍總部系列.md "wikilink")，也是2014年《[德军总部：新秩序](https://zh.wikipedia.org/wiki/德军总部：新秩序 "wikilink")》的续作。故事[架空歷史](../Page/架空歷史小說.md "wikilink")，设定于[纳粹在第二次世界大戰中的勝利后的](../Page/軸心國在第二次世界大戰中的勝利.md "wikilink")1961年。玩家继续跟随老将，与美国的[纳粹政权作斗争](../Page/納粹德國.md "wikilink")。
+游戏是[德軍總部系列的第八部主系列作品](../Page/德軍總部系列.md "wikilink")，也是2014年《[德军总部：新秩序](https://zh.wikipedia.org/wiki/德军总部：新秩序 "wikilink")》的续作。故事[架空歷史](../Page/架空歷史小說.md "wikilink")，设定于[軸心國在第二次世界大戰中的勝利后的](../Page/軸心國在第二次世界大戰中的勝利.md "wikilink")1961年。玩家继续跟随老将，与美国的[纳粹政权作斗争](../Page/納粹德國.md "wikilink")。
 
 ## 注释
 

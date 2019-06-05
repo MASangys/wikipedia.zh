@@ -51,7 +51,7 @@ Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》獲得一位。10�
 
 2019年3月，《想念》在[Spotify的串流媒體數突破](../Page/Spotify.md "wikilink")1千萬。
 
-截至2019年4月，《想念》自發行至今未掉出Melon TOP100榜單之外。\[30\]
+截至2019年5月，《想念》自發行至今未掉出Melon TOP100榜單之外。\[30\]
 
 ## 曲目
 
@@ -553,8 +553,7 @@ COMEBACK V LIVE</a></p></td>
 
 38. 11月11日為「肢體殘障人日」。
 
-39. [딩고뮤직 비하인드 <마음으로 보는 라이브> 비투비
-    편](http://magazine.dingo.tv/dingomusickorea/101)
+39.
 
 40.
 41.

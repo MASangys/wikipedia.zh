@@ -2,7 +2,10 @@
 China系列**）是由韩国[三星电子旗下](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[三星Galaxy系列分拆成的中端](https://zh.wikipedia.org/wiki/三星Galaxy系列 "wikilink")[智能手機系列](https://zh.wikipedia.org/wiki/智能手機 "wikilink")，主打[香港](../Page/香港.md "wikilink")、[澳门以及](https://zh.wikipedia.org/wiki/澳门 "wikilink")[中国大陆](../Page/中国大陆.md "wikilink")\[1\]地区市场，该系列目前僅在上列地區发布和上市\[2\]。對於會否在台灣上市，台灣三星行銷部表示「內部評估中」\[3\]。目前已在台灣上市的機種有三星Galaxy
 C9 Pro\[4\] 和 三星Galaxy J7+\[5\]。
 
-## 特色
+2019年，三星宣佈 Galaxy C , Galaxy On 系列 已被 [Galaxy
+M系列](https://zh.wikipedia.org/wiki/三星Galaxy_M_Series "wikilink") 取代
+
+### 特色
 
 C系列以全金屬一體式機身、纖薄設計、大螢幕搭配指紋辨識等配置作招徠，支援4G+3G雙卡雙待和超高音質提升技術，在中高端產品中屬廉價之選。
 

@@ -69,7 +69,7 @@
 
 ## 參考資料
 
-## 外部鏈接
+## 外部連結
 
   - [Hunus Entertainment 官方網站](http://www.hunusent.co.kr)
   - [Hunus Entertainment

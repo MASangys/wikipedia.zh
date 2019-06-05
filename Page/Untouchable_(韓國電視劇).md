@@ -265,7 +265,7 @@
 
 ## 腳註
 
-## 外部鏈接
+## 外部連結
 
   - [韓國JTBC官方網站](http://tv.jtbc.joins.com/trailer/pr10010519/pm10045367/vo10189520/view)
 

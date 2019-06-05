@@ -28,7 +28,7 @@
 
 ## 科技
 
-  - [國際材料系統](https://zh.wikipedia.org/wiki/國際材料系統 "wikilink")（Material
+  - [国际材料数据系统](https://zh.wikipedia.org/wiki/国际材料数据系统 "wikilink")（Material
     Data Sheet）
 
   - ，一種影像檔副檔名

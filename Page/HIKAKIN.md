@@ -143,6 +143,7 @@ HIKAKIN的名字，来自一位前辈。HIKAKIN从小三到高三都参与跳雪
     zh-my:Digimon Universe App
     Monsters;}-](../Page/數碼暴龍宇宙_應用怪獸.md "wikilink")
     - 角色︰光次郎
+  - [咯咯咯鬼太郎](../Page/鬼太郎.md "wikilink")－角色︰本人
 
 ### 广告
 

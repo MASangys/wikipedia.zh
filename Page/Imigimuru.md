@@ -36,8 +36,8 @@
 <td><p>《<a href="../Page/電擊魔王.md" title="wikilink">電擊魔王</a>》2012年12月號[1]－<strong>連載中</strong></p></td>
 <td><p><a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA</a><br />
  <a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></td>
-<td><p>已發行10冊<br />
-（2018年9月）</p></td>
+<td><p>已發行11冊<br />
+（2019年5月）</p></td>
 <td><p>2016年7月至9月播出同名電視動畫。</p></td>
 </tr>
 </tbody>

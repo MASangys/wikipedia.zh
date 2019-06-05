@@ -334,6 +334,29 @@
 
   - 收視最低的集數以表示，收視最高的集數以表示，而空格則表示該集的收視沒有相關數據。</small>
 
+## 獎項
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>頒獎典禮</p></th>
+<th><p>獎項</p></th>
+<th><p>入圍者</p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p><a href="../Page/第55屆百想藝術大獎.md" title="wikilink">第55屆百想藝術大獎</a></p></td>
+<td><p>電視部門 男子配角獎</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/裴晟佑" title="wikilink">裴晟佑</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 同時段競爭作品
 
 **週六時段劇集**
@@ -368,7 +391,8 @@
 
   - [韓國tvN官方網站](http://program.tving.com/tvn/tvnlive)
 
-  - [LIVE (電視劇)-DAUM](http://movie.daum.net/tv/main?tvProgramId=80888)
+  - [LIVE
+    (電視劇)-DAUM](https://web.archive.org/web/20180312144040/http://movie.daum.net/tv/main?tvProgramId=80888)
 
   - [LIVE (電視劇)-NAVER](http://m.entertain.naver.com/tvBrand/6005141)
 

@@ -1,5 +1,5 @@
 **OCN Original
-Series**（），是[韓國有線頻道](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自家製作電視劇的品牌](https://zh.wikipedia.org/wiki/OCN "wikilink")\[1\]。主題內容大膽創新，包括犯罪、刑偵、神秘、穿越﹑翻拍外國劇集作品﹑甚至靈異驅魔。首部“OCN
+Series**（），是[韓國有線頻道](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN自家製作電視劇的品牌](../Page/OCN_\(頻道\).md "wikilink")\[1\]。主題內容大膽創新，包括犯罪、刑偵、神秘、穿越﹑翻拍外國劇集作品﹑甚至靈異驅魔。首部“OCN
 Original
 Series”劇集於2006年誕生，惟當時OCN的劇集以**非固定**'形式安排在週末(星期五﹑六﹑日)的不同時間段播出，也不是一部接一部連續播放。2017年1月14日起本節目固定為逢星期六日晚10時播放。
 由2018年9月12日起，OCN增加全新水木經典連續劇時段，逢星期三﹑四晚11時播映，首部作品為《[客：The
@@ -140,6 +140,51 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 
 ## 經典電視劇列表
 
+### 2005年
+
+<table style="width:37%;">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 2%" />
+<col style="width: 5%" />
+<col style="width: 3%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 2%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>播放日期</strong></p></td>
+<td><p><strong>劇集名稱</strong></p></td>
+<td><p><strong>集數</strong></p></td>
+<td><p><strong>主演</strong></p></td>
+<td><p><strong>編劇</strong></p></td>
+<td><p><strong>導演</strong></p></td>
+<td><p><strong>備註</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2005年12月5日－<br />
+2005年12月30日</p></td>
+<td><p><br />
+</p></td>
+<td><p>8</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/崔鐘元" title="wikilink">崔鐘元</a>、、、<a href="../Page/秋瓷炫.md" title="wikilink">秋瓷炫</a></p></td>
+<td></td>
+<td><p>金聖德</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 2006年
 
 <table style="width:37%;">
@@ -182,6 +227,251 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 <td><p><a href="../Page/裴斗娜.md" title="wikilink">裴斗娜</a>、<a href="../Page/金敏俊.md" title="wikilink">金敏俊</a>、<a href="../Page/李陣郁.md" title="wikilink">李陣郁</a>、<a href="../Page/吳允兒.md" title="wikilink">吳允兒</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金熙在" title="wikilink">金熙在</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金慶龍" title="wikilink">金慶龍</a>、<a href="https://zh.wikipedia.org/wiki/宋益在" title="wikilink">宋益在</a></p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 2007年
+
+<table style="width:37%;">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 2%" />
+<col style="width: 5%" />
+<col style="width: 3%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 2%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>播放日期</strong></p></td>
+<td><p><strong>劇集名稱</strong></p></td>
+<td><p><strong>集數</strong></p></td>
+<td><p><strong>主演</strong></p></td>
+<td><p><strong>編劇</strong></p></td>
+<td><p><strong>導演</strong></p></td>
+<td><p><strong>備註</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2007年1月5日－<br />
+2007年1月26日</p></td>
+<td><p><br />
+</p></td>
+<td><p>8</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓尚奎" title="wikilink">韓尚奎</a>、、、、</p></td>
+<td></td>
+<td><p>金聖德</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2007年5月18日－<br />
+2007年8月9日</p></td>
+<td><p><br />
+</p></td>
+<td><p>16</p></td>
+<td><p><a href="../Page/孫暢敏.md" title="wikilink">孫暢敏</a>、<a href="../Page/李己雨.md" title="wikilink">李己雨</a>、<a href="../Page/李宗秀.md" title="wikilink">李宗秀</a>、<a href="../Page/白成鉉.md" title="wikilink">白成鉉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朴繼玉" title="wikilink">朴繼玉</a></p></td>
+<td><p>趙燦周</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2007年11月9日－<br />
+2007年11月30日</p></td>
+<td><p>職場戀愛史<br />
+</p></td>
+<td><p>4</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2007年11月20日－<br />
+2008年1月22日</p></td>
+<td><p><br />
+</p></td>
+<td><p>10</p></td>
+<td><p><a href="../Page/李一花.md" title="wikilink">李一花</a>、、</p></td>
+<td><p>柳成燦(責任作家)、成敏智、朴宰賢</p></td>
+<td><p>金弘善</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2007年12月10日－<br />
+2007年12月24日</p></td>
+<td><p>愛系列<br />
+</p></td>
+<td><p>3</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2007年12月14日－<br />
+2008年1月25日</p></td>
+<td><p>一千零一夜<br />
+</p></td>
+<td><p>8</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 2008年
+
+<table style="width:37%;">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 2%" />
+<col style="width: 5%" />
+<col style="width: 3%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 2%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>播放日期</strong></p></td>
+<td><p><strong>劇集名稱</strong></p></td>
+<td><p><strong>集數</strong></p></td>
+<td><p><strong>主演</strong></p></td>
+<td><p><strong>編劇</strong></p></td>
+<td><p><strong>導演</strong></p></td>
+<td><p><strong>備註</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2008年1月17日－<br />
+2008年1月31日</p></td>
+<td><p>三人三色<br />
+</p></td>
+<td><p>3</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2008年3月28日－<br />
+2008年4月18日</p></td>
+<td><p>誘惑的技術<br />
+</p></td>
+<td><p>4</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2008年5月17日－<br />
+2008年6月14日</p></td>
+<td><p>京城妓房映畫館<br />
+</p></td>
+<td><p>5</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2008年5月17日－<br />
+2008年6月8日</p></td>
+<td><p>不要追問過去<br />
+</p></td>
+<td><p>8</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2008年9月19日－<br />
+2008年11月7日</p></td>
+<td><p>女師父一體<br />
+</p></td>
+<td><p>8</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2008年10月13日－<br />
+2008年11月4日</p></td>
+<td><p>一千零一夜2<br />
+</p></td>
+<td><p>8</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 2009年
+
+<table style="width:37%;">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 2%" />
+<col style="width: 5%" />
+<col style="width: 3%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 2%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>播放日期</strong></p></td>
+<td><p><strong>劇集名稱</strong></p></td>
+<td><p><strong>集數</strong></p></td>
+<td><p><strong>主演</strong></p></td>
+<td><p><strong>編劇</strong></p></td>
+<td><p><strong>導演</strong></p></td>
+<td><p><strong>備註</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2009年11月27日－<br />
+2010年1月15日</p></td>
+<td><p><br />
+</p></td>
+<td><p>8</p></td>
+<td><p><a href="../Page/朴載正.md" title="wikilink">朴載正</a>、<a href="../Page/李令恩.md" title="wikilink">李令恩</a>、<a href="https://zh.wikipedia.org/wiki/洪錫天" title="wikilink">洪錫天</a>、、<a href="../Page/張東民.md" title="wikilink">張東民</a>、</p></td>
+<td><p>楊熙勝</p></td>
+<td><p>金弘善</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -935,7 +1225,7 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
 
   - [KBS水木連續劇](../Page/KBS水木連續劇.md "wikilink")
   - [MBC水木連續劇](https://zh.wikipedia.org/wiki/MBC水木連續劇 "wikilink")
-  - [SBS水木連續劇](https://zh.wikipedia.org/wiki/SBS水木連續劇 "wikilink")
+  - [SBS水木連續劇](../Page/SBS水木連續劇.md "wikilink")
   - [tvN水木連續劇](https://zh.wikipedia.org/wiki/tvN水木連續劇 "wikilink")
   - [KBS週末連續劇](../Page/KBS週末連續劇.md "wikilink")
   - [MBC週末連續劇](../Page/MBC週末連續劇.md "wikilink")
@@ -944,6 +1234,8 @@ Guest](../Page/客：The_Guest.md "wikilink")》\[2\]。
   - [tvN週末連續劇](https://zh.wikipedia.org/wiki/tvN週末連續劇 "wikilink")
 
 ## 參考資料
+
+## 外部連結
 
   - [OCN Original Series
     Instagram](https://www.instagram.com/ocn_original/)

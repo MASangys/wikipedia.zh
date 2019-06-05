@@ -440,6 +440,7 @@ Studio Lings、德田拓也、辻浩樹</p></td>
 [Category:日本音樂劇作品](https://zh.wikipedia.org/wiki/Category:日本音樂劇作品 "wikilink")
 [Category:Bushiroad](https://zh.wikipedia.org/wiki/Category:Bushiroad "wikilink")
 [Category:2018年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2018年日本電視動畫 "wikilink")
+[Category:TBS深夜動畫](https://zh.wikipedia.org/wiki/Category:TBS深夜動畫 "wikilink")
 
 1.
 

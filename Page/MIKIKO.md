@@ -591,8 +591,8 @@ OWARI](../Page/SEKAI_NO_OWARI.md "wikilink")、[青山黛瑪](../Page/青山黛�
   - 「Sonar Music Festival」『rhizomatiks×ELEVENPLAY』（2014年）
   - BABYMETAL 『BABYMETAL WORLD TOUR 2014』（2014年）
   - 『神奇的未來 2014』開幕式表演（2014年）
-  - [軟銀](https://zh.wikipedia.org/wiki/軟銀 "wikilink") 『Pepper Tech
-    Festival 2014』開幕式表演（2014年）
+  - [軟銀](../Page/軟銀.md "wikilink") 『Pepper Tech Festival
+    2014』開幕式表演（2014年）
   - 椎名林檎巡演『椎名林檎と彼奴等がゆく 百鬼夜行2015』 - 樂曲｢熱愛發覺中｣（2015年）
   - 椎名林檎出演『[第66回NHK紅白歌合戰](../Page/第66回NHK紅白歌合戰.md "wikilink")』 - 樂曲「長短祭
     〜這裡是地獄還是天堂篇〜」\[14\]（2015年）

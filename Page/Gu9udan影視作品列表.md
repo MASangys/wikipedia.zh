@@ -319,26 +319,33 @@
 </tr>
 <tr class="odd">
 <td><p>2018年9月26日-10月20日</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Big_Picture_Family" title="wikilink">Big Picture Family</a>》</p></td>
 <td><p>實習生</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年10月13日－</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>》</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/窮遊" title="wikilink">窮遊</a>》</p></td>
 <td><p>NAYOUNG</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/峇厘島" title="wikilink">峇厘島篇</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年5月11日－6月</p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>》</p></td>
+<td><p>MINA</p></td>
+<td><p>泰國篇</p></td>
+</tr>
+<tr class="even">
 <td><p>2019年</p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>《<a href="../Page/明星來解謎_(第二季).md" title="wikilink">明星來解謎 (第二季)</a>》</p></td>
 <td><p>SEJEONG</p></td>
 <td><p>固定成員</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -646,10 +653,33 @@
 <td><p>11月13日</p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p>11月22日</p></td>
+</tr>
+<tr class="even">
+<td><p>11月29日</p></td>
+</tr>
+<tr class="odd">
+<td><p>12月21日</p></td>
 </tr>
 </tbody>
 </table>
+
+| 2019年                                               |
+| --------------------------------------------------- |
+| 放送日期                                                |
+| 1月30日                                               |
+| 2月5、6日                                              |
+| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |
+| 2月24日                                               |
+| 3月30日                                               |
+| 3月31日、4月7日                                          |
+| 《 [幫我找房子吧](../Page/幫我找房子吧.md "wikilink") 》          |
+| 4月14日                                               |
+| 4月17日                                               |
+| 4月20日                                               |
+| 5月1日                                                |
+| 5月25日、6月1日                                          |
+| 5月26日                                               |
 
 ## 其他節目
 

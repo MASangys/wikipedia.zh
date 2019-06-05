@@ -1,5 +1,6 @@
 **肯奈迪·詹姆斯·費茲傑洛德·“K·J”·阿帕**（，\[1\]\[2\]
-），是一名[紐西蘭](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")[男演員](https://zh.wikipedia.org/wiki/男演員 "wikilink")。
+），是一名[紐西蘭](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")[男演員](https://zh.wikipedia.org/wiki/男演員 "wikilink")。2017年，於[The
+CW電視劇](../Page/CW電視網.md "wikilink")《[河谷鎮](../Page/河谷鎮_\(電視劇\).md "wikilink")》中飾演“[亞契·安德魯斯](https://zh.wikipedia.org/wiki/阿奇·安德魯 "wikilink")”而出名。
 
 ## 個人生活
 
@@ -18,10 +19,48 @@ CW新影集](../Page/CW電視網.md "wikilink")《[河谷鎮](../Page/河谷鎮_
 
 ### 電影
 
-| 年份    | 作品                                                               | 角色          | 備註 |
-| ----- | ---------------------------------------------------------------- | ----------- | -- |
-| 2017  | [為了與你相遇](https://zh.wikipedia.org/wiki/為了與你相遇_\(電影\) "wikilink") | 伊森·蒙哥馬利（青年） |    |
-| 聖壇石（） |                                                                  | 後期製作中       |    |
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>作品</p></th>
+<th><p>角色</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2017年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/為了與你相遇_(電影)" title="wikilink">為了與你相遇</a></p></td>
+<td><p>伊森·蒙哥馬利（青年）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td></td>
+<td><p>Chris</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td></td>
+<td><p>Griffin Hourigan</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>待上映</p></td>
+<td><p>聖壇石（）</p></td>
+<td><p>Niko</p></td>
+<td><p>後期製作中</p></td>
+</tr>
+<tr class="odd">
+<td><p>I Still Believe</p></td>
+<td><p>Jeremy Camp</p></td>
+<td><p>後期製作中</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 電視
 
@@ -36,19 +75,19 @@ CW新影集](../Page/CW電視網.md "wikilink")《[河谷鎮](../Page/河谷鎮_
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>2013–2015</p></td>
+<td><p>2013年–2015年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/肖特蘭街" title="wikilink">肖特蘭街</a></p></td>
 <td></td>
 <td><p>46集</p></td>
 </tr>
 <tr class="even">
-<td><p>2016</p></td>
+<td><p>2016年</p></td>
 <td><p>荒島驚魂（）</p></td>
 <td><p>傑克</p></td>
 <td><p>6集</p></td>
 </tr>
 <tr class="odd">
-<td><p>2017–至今</p></td>
+<td><p>2017年–至今</p></td>
 <td><p><a href="../Page/河谷鎮_(電視劇).md" title="wikilink">河谷鎮</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿奇·安德魯" title="wikilink">亞契·安德魯斯</a></p></td>
 <td><p>主演</p></td>
@@ -122,8 +161,8 @@ CW新影集](../Page/CW電視網.md "wikilink")《[河谷鎮](../Page/河谷鎮_
   -
   -
 [Category:紐西蘭演員](https://zh.wikipedia.org/wiki/Category:紐西蘭演員 "wikilink")
-[Category:紐西蘭電影男演員](https://zh.wikipedia.org/wiki/Category:紐西蘭電影男演員 "wikilink")
-[Category:紐西蘭電視男演員](https://zh.wikipedia.org/wiki/Category:紐西蘭電視男演員 "wikilink")
+[Category:新西兰电影演员](https://zh.wikipedia.org/wiki/Category:新西兰电影演员 "wikilink")
+[Category:紐西蘭電視演員](https://zh.wikipedia.org/wiki/Category:紐西蘭電視演員 "wikilink")
 [Category:新西蘭薩摩亞人後裔](https://zh.wikipedia.org/wiki/Category:新西蘭薩摩亞人後裔 "wikilink")
 
 1.

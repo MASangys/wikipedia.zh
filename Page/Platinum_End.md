@@ -174,6 +174,13 @@ Square](../Page/Jump_Square.md "wikilink")》中进行每月连载。
 <td><p>ISBN 978-988-8510-78-8</p></td>
 </tr>
 <tr class="even">
+<td><p>11</p></td>
+<td><p>2019年7月4日[13]</p></td>
+<td><p>ISBN 978-4-08-881887-0</p></td>
+<td></td>
+<td><p>ISBN</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -222,3 +229,5 @@ Square](../Page/Jump_Square.md "wikilink")》中进行每月连载。
 11.
 
 12.
+
+13.

@@ -431,7 +431,7 @@ UMCK-5019【mu-mo限定版】</p></td>
 <td><ol>
 <li>FAKE ME FAKE ME OUT</li>
 <li>WELCOME！</li>
-<li>タイトル未定 （通常盤限定）</li>
+<li>一生のお願い （通常盤限定）</li>
 </ol></td>
 <td><p>CD+DVD<br />
 CD</p></td>

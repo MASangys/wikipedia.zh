@@ -102,10 +102,9 @@ Ostrovsky）在[烏克蘭](https://zh.wikipedia.org/wiki/烏克蘭 "wikilink")[�
   - [Vice on
     City](https://web.archive.org/web/20150705015441/http://www.citytv.com/toronto/shows/vice-on-city/)
 
-[Category:新聞網站](https://zh.wikipedia.org/wiki/Category:新聞網站 "wikilink")
+[Category:美國新聞網站](https://zh.wikipedia.org/wiki/Category:美國新聞網站 "wikilink")
 [Category:2013年建立的網站](https://zh.wikipedia.org/wiki/Category:2013年建立的網站 "wikilink")
 [Category:紐約市媒體](https://zh.wikipedia.org/wiki/Category:紐約市媒體 "wikilink")
-[Category:美國網站](https://zh.wikipedia.org/wiki/Category:美國網站 "wikilink")
 [Category:網絡電視](https://zh.wikipedia.org/wiki/Category:網絡電視 "wikilink")
 [Category:Vice媒体](https://zh.wikipedia.org/wiki/Category:Vice媒体 "wikilink")
 [Category:2013年美國建立](https://zh.wikipedia.org/wiki/Category:2013年美國建立 "wikilink")

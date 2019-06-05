@@ -17,7 +17,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><strong>1</strong></p></td>
+<td><p><a href="../Page/鑑識英雄.md" title="wikilink">1</a></p></td>
 <td><p>13</p></td>
 <td></td>
 </tr>
@@ -344,7 +344,7 @@
 <p><a href="../Page/傅冠傑.md" title="wikilink">傅冠傑</a></p></td>
 <td><p>駭客，小辛的戀人，跟詐騙集團合作</p></td>
 <td><center>
-<p>3-4</p></td>
+<p>1,3-4</p></td>
 </tr>
 </tbody>
 </table>
@@ -429,13 +429,6 @@
 <p>5-6(回憶)</p></td>
 </tr>
 <tr class="odd">
-<td><center></td>
-<td><center>
-<p><a href="https://zh.wikipedia.org/wiki/王俊傑" title="wikilink">王俊傑</a></p></td>
-<td></td>
-<td><center></td>
-</tr>
-<tr class="even">
 <td><center>
 <p>吳大雄</p></td>
 <td><center>
@@ -477,7 +470,7 @@
 <p>莉雅</p></td>
 <td><center>
 <p><a href="../Page/夏如芝.md" title="wikilink">夏如芝</a></p></td>
-<td><p>消防隊前隊員，暗戀信宗</p></td>
+<td><p>消防隊前隊員，暗戀信宗，為保護信宗而向鑑識人員訛稱是兇手</p></td>
 <td><center>
 <p>7-10</p></td>
 </tr>
@@ -527,13 +520,6 @@
 <p>7-10</p></td>
 </tr>
 <tr class="odd">
-<td><center></td>
-<td><center>
-<p><a href="https://zh.wikipedia.org/wiki/劉育睿" title="wikilink">劉育睿</a></p></td>
-<td></td>
-<td><center></td>
-</tr>
-<tr class="even">
 <td><center>
 <p>周信宗(高中時期)</p></td>
 <td><center>
@@ -542,7 +528,7 @@
 <td><center>
 <p>7,10</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p>顏士銘(高中時期)</p></td>
 <td><center>
@@ -550,13 +536,6 @@
 <td><p>周信宗的麻吉</p></td>
 <td><center>
 <p>7,10</p></td>
-</tr>
-<tr class="even">
-<td><center></td>
-<td><center>
-<p><a href="https://zh.wikipedia.org/wiki/亮哥" title="wikilink">亮哥</a></p></td>
-<td></td>
-<td><center></td>
 </tr>
 </tbody>
 </table>

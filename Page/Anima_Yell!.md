@@ -1,4 +1,4 @@
-是日本漫畫家的[四格漫畫作品](../Page/四格漫畫.md "wikilink")，於[芳文社的雜誌](../Page/芳文社.md "wikilink")《[Manga
+是日本漫畫家[卯花つかさ的](../Page/卯花つかさ.md "wikilink")[四格漫畫作品](../Page/四格漫畫.md "wikilink")，於[芳文社的雜誌](../Page/芳文社.md "wikilink")《[Manga
 Time Kirara
 Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》2016年4月號開始連載\[1\]。已發行3冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")\[2\]。於《Manga
 Time Kirara
@@ -79,7 +79,8 @@ Carat》2018年3月號宣布電視動畫化\[3\]，由[動畫工房製作](../Pa
 
 ### 工作人員
 
-  - 原作：（[芳文社](../Page/芳文社.md "wikilink")「[Manga Time Kirara
+  - 原作：[卯花つかさ](../Page/卯花つかさ.md "wikilink")（[芳文社](../Page/芳文社.md "wikilink")「[Manga
+    Time Kirara
     Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")」連載）
   - 導演：佐藤雅子
   - 劇本統籌、編劇：[志茂文彥](../Page/志茂文彥.md "wikilink")

@@ -2062,8 +2062,8 @@ IP位址數量</p></th>
 2.  ["Number Resources"](http://www.iana.org/numbers), Internet Assigned
     Numbers Authority (IANA).2014-07-12.
 3.  ["Allocation of IP addresses by
-    Country"](https://www.countryipblocks.net/allocation-of-ip-addresses-by-country.php),
-    Country IP Blocks. Accessed on 2 April 2012. Note: Site is said to
+    Country"](https://www.countryipblocks.net/allocation-of-ip-addresses-by-country.php)
+    , Country IP Blocks. Accessed on 2 April 2012. Note: Site is said to
     be updated daily.
 4.  [Population](https://www.cia.gov/library/publications/the-world-factbook/fields/2119.html),
     [The World

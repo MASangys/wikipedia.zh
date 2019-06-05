@@ -330,7 +330,8 @@ TV從5月2日起每週三、四中午12:00更新。港澳地區則由[亞洲電�
 ## 外部連結
 
   - [韓國OCN官方網站](http://program.tving.com/ocn/mistress)
-  - [Mistresses - DAUM](http://movie.daum.net/tv/main?tvProgramId=81901)
+  - [Mistresses -
+    DAUM](https://web.archive.org/web/20180429160316/http://movie.daum.net/tv/main?tvProgramId=81901)
   - [Mistresses - NAVER](http://m.entertain.naver.com/tvBrand/6680070)
   - [香港有線電視官方網站](http://epg.i-cable.com/ci/program/intro/581/獵豔情人)
 

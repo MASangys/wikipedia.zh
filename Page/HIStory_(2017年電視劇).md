@@ -290,10 +290,10 @@ Hero》、《離我遠一點》、《著魔》，每集約20分鐘，一週播�
 </tr>
 <tr class="even">
 <td><center>
-<p>5</p></td>
+<p>6</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/HIStory3#圈套" title="wikilink">圈套</a></p></td>
-<td><p><a href="../Page/徐鈞浩.md" title="wikilink">徐鈞浩</a>、<a href="https://zh.wikipedia.org/wiki/吳承洋" title="wikilink">吳承洋</a>、<a href="https://zh.wikipedia.org/wiki/卞慶華" title="wikilink">卞慶華</a>、<a href="https://zh.wikipedia.org/wiki/陳廷軒_(演員)" title="wikilink">陳廷軒</a></p></td>
+<td><p><a href="../Page/徐鈞浩.md" title="wikilink">徐鈞浩</a>、<a href="https://zh.wikipedia.org/wiki/吳承洋" title="wikilink">吳承洋</a>、<a href="../Page/卞慶華.md" title="wikilink">卞慶華</a>、<a href="https://zh.wikipedia.org/wiki/陳廷軒_(演員)" title="wikilink">陳廷軒</a></p></td>
 <td><p>林珮瑜</p></td>
 <td><p>李青蓉</p></td>
 </tr>
@@ -313,12 +313,12 @@ Hero》、《離我遠一點》、《著魔》，每集約20分鐘，一週播�
 </tr>
 <tr class="odd">
 <td><center>
-<p>6</p></td>
+<p>7</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/HIStory3#那一天" title="wikilink">那一天</a></p></td>
-<td></td>
+<td><p><a href="../Page/宋緯恩.md" title="wikilink">宋緯恩</a>、<a href="https://zh.wikipedia.org/wiki/黃雋智" title="wikilink">黃雋智</a>、<a href="https://zh.wikipedia.org/wiki/劉韋辰_(演員)" title="wikilink">劉韋辰</a>、<a href="../Page/張瀚元.md" title="wikilink">張瀚元</a></p></td>
 <td><p>林珮瑜</p></td>
-<td></td>
+<td><p>蔡宓潔</p></td>
 </tr>
 <tr class="even">
 <td></td>

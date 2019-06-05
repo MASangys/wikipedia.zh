@@ -1,5 +1,5 @@
-**杰梅因·拉马尔·科尔(Jermaine Lamarr
-Cole)**（），以其艺名**J·科尔**被大众熟知，是一位美国的饶舌歌手、词曲作者及唱片制作人。科尔成长于[北卡罗来纳州的](../Page/北卡罗来纳州.md "wikilink")[费耶特维尔](https://zh.wikipedia.org/wiki/費耶特維爾_\(北卡羅萊納州\) "wikilink")，2007年年初，科尔<span>以饶舌歌手的身份发行了</span>他的首张混音带《The
+**杰曼·拉马尔·科尔(Jermaine Lamarr Cole)**（），以其艺名**J·科尔**（**J.
+Cole**）被大众熟知，是一位美国的饶舌歌手、词曲作者及唱片制作人。科尔成长于[北卡罗来纳州的](../Page/北卡罗来纳州.md "wikilink")[费耶特维尔](https://zh.wikipedia.org/wiki/費耶特維爾_\(北卡羅萊納州\) "wikilink")，2007年年初，科尔<span>以饶舌歌手的身份发行了</span>他的首张混音带《The
 Come Up<span>》</span>。为进一步追求说唱歌手的职业生涯，2009年，在与Jay Z的Roc
 Nation唱片公司签约后，他发行了另外两张混音带。
 
@@ -10,7 +10,7 @@ Drive》均取得了全球范围内的成功</span>\[3\]\[4\]\[5\]\[6\]，并已
 Forest Hills
 Drive》则为他赢得了他的首次[格莱美奖最佳饶舌专辑的提名](../Page/葛萊美獎.md "wikilink")。《<span>2014
 Forest Hills
-Drive》也是近25年来首张无任何客串表演却获得白金唱片认证的饶舌专辑</span>\[7\]<span>。</span>
+Drive》也是近25年来首张无任何客串献唱却获得白金唱片认证的饶舌专辑</span>\[7\]<span>。</span>
 
 自学过钢琴的科尔在他的[嘻哈乐生涯中扮演着](https://zh.wikipedia.org/wiki/嘻哈乐 "wikilink")[制作人的身份](https://zh.wikipedia.org/wiki/制作人 "wikilink")。他曾为[肯德里克·拉马尔和](../Page/肯德里克·拉马尔.md "wikilink")[珍妮·杰克逊等艺人制作了热门单曲](../Page/珍妮·杰克逊.md "wikilink")，并包揽了他个人作品的主要制作工作\[8\]。同时他也涉足过其它一些领域，这其中包括成立Dreamville唱片公司和非盈利组织The
 Dreamville基金会\[9\]。
@@ -172,7 +172,7 @@ Down》中谈到了他们音乐上的相似之处。这是一首在创作上起�
 
 ## 个人生活
 
-在2016年1月的一次与导演[瑞恩·库格勒的访谈中](../Page/瑞恩·库格勒.md "wikilink")，瑞恩透露出科尔已经结婚的事实\[72\]。科尔的妻子、与他有过长期交往的女朋友Melissa
+在2016年1月的一次与导演[瑞安·库格勒的访谈中](../Page/瑞安·库格勒.md "wikilink")，瑞安透露出科尔已经结婚的事实\[72\]。科尔的妻子、与他有过长期交往的女朋友Melissa
 Heholt，曾与科尔一道在圣约翰大学就读。她同时也是Dreamville基金会的执行董事长\[73\]\[74\]。
 
 ## 作品
@@ -370,8 +370,8 @@ Heholt，曾与科尔一道在圣约翰大学就读。她同时也是Dreamville�
     video\!"](https://www.facebook.com/JColeMusic/posts/126677024036692)</cite>
 
 36. <cite class="citation web">["J. Cole reveals Debut Album Song
-    Titles"](http://www.jcole.org/2010/video-j-cole-speaks-on-final-album-selections/).
-    </cite>
+    Titles"](http://www.jcole.org/2010/video-j-cole-speaks-on-final-album-selections/)
+    . </cite>
 
 37. <cite class="citation web">["DOWNLOAD "FRIDAY NIGHT
     LIGHTS"\!"](https://web.archive.org/web/20110713092437/http://www.jcolemusic.com/news/download-friday-night-lights)</cite>

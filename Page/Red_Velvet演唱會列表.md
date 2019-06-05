@@ -501,6 +501,8 @@ Velvet歷年舉行的演唱會](../Page/Red_Velvet.md "wikilink")、參與的大
 | 1月25日  | 第27屆[首爾音樂獎](https://zh.wikipedia.org/wiki/首爾音樂獎 "wikilink") | 韓國首爾[高尺天空巨蛋](../Page/高尺天空巨蛋.md "wikilink")                             |                                                                     |
 | 3月15日  | 第30屆韓國PD頒獎典禮                                                | 韓國首爾上岩洞[MBC公開廳](https://zh.wikipedia.org/wiki/MBC "wikilink")          |                                                                     |
 | 8月30日  | 第二屆 SORIBADA BEST K-MUSIC AWARDS                            | 韓國[首爾奧林匹克體操競技場](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")  |                                                                     |
+| 2019年  | 1月23日                                                       | 第八屆Gaon Chart K-POP大獎                                                  | 韓國首爾蠶室室內體育館                                                         |
+| 4月24日  | THE FACT MUSIC AWARDS                                       | 韓國仁川南洞體育館                                                              |                                                                     |
 
 ### 海外公演
 
@@ -709,6 +711,22 @@ Velvet歷年舉行的演唱會](../Page/Red_Velvet.md "wikilink")、參與的大
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019年</p></td>
+<td><p>3月28日</p></td>
+<td><p>2019 Monster KPOP Concert</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
+<td><p>台北小巨蛋</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月27日</p></td>
+<td><p>Transcity BSD Concert</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -797,6 +815,20 @@ Velvet歷年舉行的演唱會](../Page/Red_Velvet.md "wikilink")、參與的大
 | 10月14日    |
 | 10月26日    |
 | 10月28日    |
+
+| 2019年公演列表   |
+| ----------- |
+| 日期          |
+| 2月28日       |
+| 5月11日       |
+| 5月15日       |
+| 弘益大學慶典公演    |
+| 5月16日       |
+| 5月17日       |
+| 2019AKARAKA |
+| 5月18日       |
+| 5月23日       |
+|             |
 
 ### 特別活動
 

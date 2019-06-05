@@ -32,8 +32,6 @@
   - [QJRAS **10** (1969)
     68](http://adsabs.harvard.edu//full/seri/QJRAS/0010//0000068.000.html)
 
-[Category:1882年出生](https://zh.wikipedia.org/wiki/Category:1882年出生 "wikilink")
-[Category:1968年逝世](https://zh.wikipedia.org/wiki/Category:1968年逝世 "wikilink")
 [Category:20世紀天文學家](https://zh.wikipedia.org/wiki/Category:20世紀天文學家 "wikilink")
 [Category:美國天文學家小作品](https://zh.wikipedia.org/wiki/Category:美國天文學家小作品 "wikilink")
 [Category:美国天文学家](https://zh.wikipedia.org/wiki/Category:美国天文学家 "wikilink")

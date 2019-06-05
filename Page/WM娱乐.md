@@ -157,7 +157,7 @@ OFF：J-US</p></td>
 
 ### 外签艺人
 
-  - [李彩讌](https://zh.wikipedia.org/wiki/李彩讌 "wikilink")(이채연) -
+  - [李彩演](../Page/李彩演.md "wikilink")(이채연) -
     [IZ\*ONE成员](../Page/IZ*ONE.md "wikilink")；前[JYP娛樂練習生](../Page/JYP娛樂.md "wikilink")，曾參加[Mnet選秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》、[PRODUCE
     48](../Page/PRODUCE_48.md "wikilink")
 

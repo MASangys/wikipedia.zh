@@ -71,7 +71,7 @@ Vista中通过将扮演限制在选定的服务帐户，限制了“扮演”概
   - [SSPI Information and Win32
     samples](https://web.archive.org/web/20071226233241/http://win32.mvps.org/security/sspi.html)
   - [Example of use of SSPI for HTTP
-    authentification](http://www.dupuis.me/node/22)
+    authentification](https://web.archive.org/web/20180101061651/http://www.dupuis.me/node/22)
 
 [Category:Microsoft_Windows安全技术](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows安全技术 "wikilink")
 [Category:微軟API](https://zh.wikipedia.org/wiki/Category:微軟API "wikilink")
@@ -95,7 +95,6 @@ Vista中通过将扮演限制在选定的服务帐户，限制了“扮演”概
     Microsoft](https://msdn.microsoft.com/en-us/library/aa378745.aspx)
 9.  [Credential Security Service Provider and SSO for Terminal Services
     Logon](https://technet.microsoft.com/en-us/library/cc749211.aspx)
-10. [DCOM Technical Overview: Security on the
-    Internet](http://msdn.microsoft.com/en-us/library/ms809340.aspx#dcomtec_sec)
+10.
 11. [Windows Service Hardening: AskPerf
     blog](http://blogs.technet.com/askperf/archive/2008/02/03/ws2008-windows-service-hardening.aspx)

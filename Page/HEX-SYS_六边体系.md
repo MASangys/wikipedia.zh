@@ -12,9 +12,6 @@
 
 ## 实景图集
 
-HEX-SYS 02.jpg HEX-SYS 03.jpg HEX-SYS 04.jpg HEX-SYS 05.jpg HEX-SYS
-06.jpg
-
 ## 参考文献
 
 ## 相关报道

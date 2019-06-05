@@ -887,51 +887,51 @@
 
 ### [MBC Music](../Page/MBC_Plus_Media.md "wikilink") [Show Champion](../Page/Show_Champion.md "wikilink")
 
-|        |                                                               |                                                             |                         |
-| ------ | ------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------- |
-| 年份     | 日期                                                            | 收錄專輯                                                        | 獲獎歌曲                    |
-| 2015年  | 10月21日                                                        | [I mean](../Page/I_mean.md "wikilink")                      | 回家的路 (Way Back Home)    |
-| 2016年  | 4月6日                                                          | [Remember That](../Page/Remember_That.md "wikilink")        | 春天的記憶 (Remember That)   |
-| 2017年  | 3月15日                                                         | [Feel'eM](../Page/Feel'eM.md "wikilink")                    | MOVIE                   |
-| 10月25日 | [Brother Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink") | 想念 (Missing You)                                            |                         |
-| 11月1日  |                                                               |                                                             |                         |
-| 2018年  | 6月27日                                                         | [THIS IS US](../Page/THIS_IS_US_\(BTOB迷你專輯\).md "wikilink") | 不能沒有你 (Only One For Me) |
-|        |                                                               |                                                             |                         |
+|        |                                                               |                                                             |                        |
+| ------ | ------------------------------------------------------------- | ----------------------------------------------------------- | ---------------------- |
+| 年份     | 日期                                                            | 收錄專輯                                                        | 獲獎歌曲                   |
+| 2015年  | 10月21日                                                        | [I mean](../Page/I_mean.md "wikilink")                      | 回家的路（Way Back Home）    |
+| 2016年  | 4月6日                                                          | [Remember That](../Page/Remember_That.md "wikilink")        | 春天的記憶（Remember That）   |
+| 2017年  | 3月15日                                                         | [Feel'eM](../Page/Feel'eM.md "wikilink")                    | MOVIE                  |
+| 10月25日 | [Brother Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink") | 想念（Missing You）                                             |                        |
+| 11月1日  |                                                               |                                                             |                        |
+| 2018年  | 6月27日                                                         | [THIS IS US](../Page/THIS_IS_US_\(BTOB迷你專輯\).md "wikilink") | 不能沒有你（Only One For Me） |
+|        |                                                               |                                                             |                        |
 
 ### [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") [M Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")
 
-|       |        |                                                               |                       |
-| ----- | ------ | ------------------------------------------------------------- | --------------------- |
-| 年份    | 日期     | 收錄專輯                                                          | 獲獎歌曲                  |
-| 2016年 | 4月7日   | [Remember That](../Page/Remember_That.md "wikilink")          | 春天的記憶 (Remember That) |
-| 2017年 | 10月26日 | [Brother Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink") | 想念 (Missing You)      |
-| 11月2日 |        |                                                               |                       |
+|       |        |                                                               |                      |
+| ----- | ------ | ------------------------------------------------------------- | -------------------- |
+| 年份    | 日期     | 收錄專輯                                                          | 獲獎歌曲                 |
+| 2016年 | 4月7日   | [Remember That](../Page/Remember_That.md "wikilink")          | 春天的記憶（Remember That） |
+| 2017年 | 10月26日 | [Brother Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink") | 想念（Missing You）      |
+| 11月2日 |        |                                                               |                      |
 
 ### [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")
 
-|       |        |                                                               |                           |
-| ----- | ------ | ------------------------------------------------------------- | ------------------------- |
-| 年份    | 日期     | 收錄專輯                                                          | 獲獎歌曲                      |
-| 2016年 | 4月8日   | [Remember That](../Page/Remember_That.md "wikilink")          | 春天的記憶 (Remember That)     |
-| 2017年 | 10月27日 | [Brother Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink") | 想念 (Missing You)          |
-| 2018年 | 11月23日 | [HOUR MOMENT](../Page/HOUR_MOMENT_\(BTOB特別專輯\).md "wikilink") | 既是美麗又痛苦的 (Beautiful Pain) |
-|       |        |                                                               |                           |
+|       |        |                                                               |                          |
+| ----- | ------ | ------------------------------------------------------------- | ------------------------ |
+| 年份    | 日期     | 收錄專輯                                                          | 獲獎歌曲                     |
+| 2016年 | 4月8日   | [Remember That](../Page/Remember_That.md "wikilink")          | 春天的記憶（Remember That）     |
+| 2017年 | 10月27日 | [Brother Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink") | 想念（Missing You）          |
+| 2018年 | 11月23日 | [HOUR MOMENT](../Page/HOUR_MOMENT_\(BTOB特別專輯\).md "wikilink") | 既是美麗又痛苦的（Beautiful Pain） |
+|       |        |                                                               |                          |
 
 ### [SBS](../Page/SBS_\(韓國\).md "wikilink") [人氣歌謠](https://zh.wikipedia.org/wiki/SBS人氣歌謠 "wikilink")
 
-|       |        |                                                               |                  |
-| ----- | ------ | ------------------------------------------------------------- | ---------------- |
-| 年份    | 日期     | 收錄專輯                                                          | 獲獎歌曲             |
-| 2017年 | 10月29日 | [Brother Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink") | 想念 (Missing You) |
-| 11月5日 |        |                                                               |                  |
-|       |        |                                                               |                  |
+|       |        |                                                               |                 |
+| ----- | ------ | ------------------------------------------------------------- | --------------- |
+| 年份    | 日期     | 收錄專輯                                                          | 獲獎歌曲            |
+| 2017年 | 10月29日 | [Brother Act.](../Page/Brother_Act._\(BTOB專輯\).md "wikilink") | 想念（Missing You） |
+| 11月5日 |        |                                                               |                 |
+|       |        |                                                               |                 |
 
 ###  [THE SHOW](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")
 
-|       |      |                                                             |                         |
-| ----- | ---- | ----------------------------------------------------------- | ----------------------- |
-| 年份    | 日期   | 收錄專輯                                                        | 獲獎歌曲                    |
-| 2018年 | 7月3日 | [THIS IS US](../Page/THIS_IS_US_\(BTOB迷你專輯\).md "wikilink") | 不能沒有你 (Only One For Me) |
+|       |      |                                                             |                        |
+| ----- | ---- | ----------------------------------------------------------- | ---------------------- |
+| 年份    | 日期   | 收錄專輯                                                        | 獲獎歌曲                   |
+| 2018年 | 7月3日 | [THIS IS US](../Page/THIS_IS_US_\(BTOB迷你專輯\).md "wikilink") | 不能沒有你（Only One For Me） |
 
 ## 其他榮譽
 
@@ -1140,8 +1140,7 @@
 1.
 2.
 3.
-4.  [The 32st Golden Disk Awards nominations are
-    revealed](http://isplus.live.joins.com/goldendisc/kr/candidate)
+4.
 5.
 6.
 7.

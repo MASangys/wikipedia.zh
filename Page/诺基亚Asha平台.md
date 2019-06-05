@@ -15,6 +15,6 @@ Platform**是[諾基亞和](https://zh.wikipedia.org/wiki/諾基亞 "wikilink")[
   - [諾基亞香港](https://www.nokia.com/zh_hk/phones)
 
 [Category:諾基亞](https://zh.wikipedia.org/wiki/Category:諾基亞 "wikilink")
-[Category:微軟移動](https://zh.wikipedia.org/wiki/Category:微軟移動 "wikilink")
+[Category:微軟行動](https://zh.wikipedia.org/wiki/Category:微軟行動 "wikilink")
 [Category:Linux](https://zh.wikipedia.org/wiki/Category:Linux "wikilink")
 [Category:作業系統](https://zh.wikipedia.org/wiki/Category:作業系統 "wikilink")

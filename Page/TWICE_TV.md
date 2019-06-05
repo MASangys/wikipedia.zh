@@ -202,7 +202,7 @@ V app 播出。
 
 ### TWICE 김쯔위（周子瑜）
 
-金子瑜於2017年3月12日期，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
+周子瑜於2017年3月12日期，不定時在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
 V app 播出。
 
 |    |            |                  |    |

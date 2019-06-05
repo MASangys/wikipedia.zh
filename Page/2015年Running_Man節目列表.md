@@ -43,7 +43,7 @@
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -236,7 +236,7 @@
 <a href="../Page/前進_(藝人).md" title="wikilink">前進</a>、<a href="../Page/李先鎬.md" title="wikilink">Andy</a>（<a href="https://zh.wikipedia.org/wiki/神話_(組合)" title="wikilink">神話</a>）、<br />
 <a href="https://zh.wikipedia.org/wiki/俊英" title="wikilink">文俊英</a>、<a href="../Page/黃光熙.md" title="wikilink">黃光熙</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/泰憲" title="wikilink">金泰憲</a>、<a href="https://zh.wikipedia.org/wiki/鄭熹哲" title="wikilink">鄭熹哲</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">朴炯植</a>、<a href="../Page/金桐俊.md" title="wikilink">金桐俊</a>（<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>）</p></td>
+<a href="../Page/朴炯植.md" title="wikilink">朴炯植</a>、<a href="../Page/金桐俊.md" title="wikilink">金桐俊</a>（<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>）</p></td>
 <td><p>楊花<a href="https://zh.wikipedia.org/wiki/漢江公園" title="wikilink">漢江公園</a><br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="https://zh.wikipedia.org/wiki/永登浦區" title="wikilink">永登浦區</a>）</small></p></td>
@@ -363,7 +363,7 @@ vs<br />
 <a href="../Page/李洪基.md" title="wikilink">李洪基</a>（<a href="../Page/FTIsland.md" title="wikilink">FTIsland</a>）</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>環遊世界韓流競賽</strong></span><br />
 <span style=color:#00CED1><strong>在錫隊</strong></span><br />
 劉在錫、池錫辰、Gary、哈哈、宋智孝、鄭容和、李洪基</span><br />
@@ -475,7 +475,7 @@ vs<br />
 <td><p>無嘉賓</p></td>
 <td><p>Aqua Planet水族館<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</p></td>
 <td><p><span style=font-size:110%><strong>想擁有你李光洙</strong></span><br />
 <strong>「主人公」</strong><br />
 李光洙<br />
@@ -604,7 +604,7 @@ Humansia葡露嬌<br />
 <a href="../Page/CLC.md" title="wikilink">睿恩</a>（<a href="../Page/CLC.md" title="wikilink">CLC</a>）</p></td>
 <td><p>ONEMOUNT<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</p></td>
 <td><p><span style=font-size:110%><strong>愛情度假</strong></span><br />
 '''<span style=color:#FF1493>劉在錫、朴荷娜</span><br />
 <span style=color:#FFBF00>池錫辰、海嶺</span><br />
@@ -721,7 +721,7 @@ Gary、秀英</span><br />
 </p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%>'''第四代最強者戰 －“英雄傳” <strong></span><br />
 </strong><span style=color:#FF8C00>劉在錫、金軟景</span><br />
 <span style=color:#9400D3>金鐘國、申秀智</span><br />
@@ -1018,7 +1018,7 @@ Gary<br />
 <td><p>無嘉賓</p></td>
 <td><p>韓國國際展覽中心<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</p></td>
 <td><p><span style=font-size:110%><strong>復仇的迷宮</strong></span><br />
 <strong>迷宮設計者</strong><br />
 李光洙<br />
@@ -1289,8 +1289,8 @@ Gary<br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>在梯子遊戲中不選中LUCKY</p></td>
-<td><p>池錫辰、金鐘國、Gary、哈哈、宋智孝、李光洙<strong>勝出</strong><br />
-劉在錫須接受泥水懲罰及獲得黃金四葉草[30]</p></td>
+<td><p>池錫辰、金鐘國、Gary、哈哈、宋智孝及李光洙<strong>勝出</strong><br />
+劉在錫須接受泥水懲罰並獲得黃金四葉草[30]</p></td>
 <td></td>
 <td></td>
 <td></td>

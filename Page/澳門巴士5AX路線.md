@@ -39,7 +39,7 @@
 |    2    |                                     [媽閣總站](../Page/媽閣總站.md "wikilink")                                     |
 |    3    |                                                  河邊新街／凱泉灣                                                  |
 |    4    |                                                  河邊新街／李道巷                                                  |
-|    5    |                       [十六浦](https://zh.wikipedia.org/wiki/十六浦 "wikilink")(停用；改為火船頭街)                       |
+|    5    |                        [十六浦](https://zh.wikipedia.org/wiki/十六浦 "wikilink")(改停；火船頭街)                        |
 |    6    |                          [筷子基社屋](https://zh.wikipedia.org/wiki/筷子基社屋 "wikilink")                           |
 |    7    |                                                    台山街市                                                    |
 |    8    |                                                    華大新村                                                    |
@@ -49,7 +49,7 @@
 |   12    |                                    [治安警察局](../Page/治安警察局.md "wikilink")                                    |
 |   13    |                                   [教育暨青年局](../Page/教育暨青年局.md "wikilink")                                   |
 |   14    |                         中區／[殷皇子馬路](https://zh.wikipedia.org/wiki/殷皇子馬路 "wikilink")                         |
-|   15    |                                             金碧文娛中心(停靠；改為粵通碼頭)                                              |
+|   15    |                                              金碧文娛中心(改停；粵通碼頭)                                               |
 |   16    |                           [司打口](https://zh.wikipedia.org/wiki/司打口總站 "wikilink")                            |
 |   17    |                                                  河邊新街／下環                                                   |
 |   18    |                          [澳門旅遊塔](https://zh.wikipedia.org/wiki/澳門旅遊塔 "wikilink")                           |

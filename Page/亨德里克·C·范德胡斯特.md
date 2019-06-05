@@ -39,8 +39,6 @@ New York, Dover Publications, 1981, 470 p., .
 ## 传记
 
   -
-[Category:1918年出生](https://zh.wikipedia.org/wiki/Category:1918年出生 "wikilink")
-[Category:2000年逝世](https://zh.wikipedia.org/wiki/Category:2000年逝世 "wikilink")
 [Category:荷兰天文学家](https://zh.wikipedia.org/wiki/Category:荷兰天文学家 "wikilink")
 [Category:乌特勒支大学校友](https://zh.wikipedia.org/wiki/Category:乌特勒支大学校友 "wikilink")
 [Category:莱顿大学教师](https://zh.wikipedia.org/wiki/Category:莱顿大学教师 "wikilink")

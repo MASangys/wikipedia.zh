@@ -1,9 +1,8 @@
-**SHY48**是一個在2016年於[遼寧](https://zh.wikipedia.org/wiki/遼寧 "wikilink")[瀋陽成立的中國大型女子偶像組合](https://zh.wikipedia.org/wiki/瀋陽 "wikilink")，為[SNH48的姊妹團體](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，隸屬於[瀋陽絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。SHY48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。SHY48目前共有27名成員，擁有「IDOLS
-Ft」和「SNH48 Group海外練習生」兩項計畫。
+**SHY48**是一個在2016年於[遼寧](https://zh.wikipedia.org/wiki/遼寧 "wikilink")[瀋陽成立的中國大型女子偶像組合](https://zh.wikipedia.org/wiki/瀋陽 "wikilink")，為[SNH48的姊妹團體](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，隸屬於[瀋陽絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。SHY48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。在2019年1月19日丝芭传媒对旗下团体实施重组后，该团的活动事实上已完全终止。
 
 ## 概要
 
-SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳 "wikilink")[中國本土化大型女子偶像團體](../Page/中國.md "wikilink")，組合名稱取自「瀋陽」拼音（**Sh**en**y**ang）的縮寫「SHY」，為SNH48第三個姊妹團。2016年7月30日，絲芭傳媒於SNH48第三屆總決選演唱會宣佈SNH48第三個姊妹團SHY48成立，同時開啟一期生招募。SHY48以瀋陽為中心進行演藝活動，其專屬表演場地「[SHY48星夢劇院](https://zh.wikipedia.org/wiki/SHY48星夢劇院 "wikilink")」位於[瀋陽](https://zh.wikipedia.org/wiki/瀋陽 "wikilink")[中街](https://zh.wikipedia.org/wiki/中街 "wikilink")[豫瓏城](https://zh.wikipedia.org/wiki/豫瓏城 "wikilink")，於2017年1月12日開業\[2\]，并于2019年1月起暂停营业。
+SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳 "wikilink")[中國本土化大型女子偶像團體](../Page/中國.md "wikilink")，組合名稱取自「瀋陽」拼音（**Sh**en**y**ang）的縮寫「SHY」，為SNH48第三個姊妹團。2016年7月30日，絲芭傳媒於SNH48第三屆總決選演唱會宣佈SNH48第三個姊妹團SHY48成立，同時開啟一期生招募。SHY48以瀋陽為中心進行演藝活動，其專屬表演場地「[SHY48星夢劇院](https://zh.wikipedia.org/wiki/SHY48星夢劇院 "wikilink")」位於[瀋陽](https://zh.wikipedia.org/wiki/瀋陽 "wikilink")[中街](https://zh.wikipedia.org/wiki/中街 "wikilink")[豫瓏城](https://zh.wikipedia.org/wiki/豫瓏城 "wikilink")，於2017年1月12日開業\[2\]，并于2018年12月31日起停止营业。
 
 ## 略歷
 
@@ -22,7 +21,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 
   - 1月12日，專用劇場「SHY48星夢劇院」正式開業；同日，Team SIII舉行「心的旅程」公演首演\[5\]。
   - 2月25日，Team HIII舉行「夢想的旗幟」公演首演\[6\]。
-  - 3月9日，SHY48「星夢校園行」活動開始啟動，與SNH48「星夢校園行」活動模式相同\[7\]。
+  - 3月9日，SHY48「星夢校園行」活動啟動，與SNH48「星夢校園行」活動模式相同\[7\]。
   - 4月8日，舉行「SHY48粉丝节嘉年华」\[8\]。
   - 4月20日，SHY48联合BEJ48、GNZ48開始招募三期生\[9\]。
   - 6月1日，舉行SHY48「星梦棒棒糖」计划\[10\]。
@@ -77,17 +76,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 
 ## 成員名單
 
-### SNH48 Group海外練習生
-
-  - 成员2人。
-  - 「SNH48 Group海外练习生」计划将选拔SNH48 Group
-    16至18岁年龄段的成员，前往丝芭传媒海外培训基地接受为期两年的高级别、高强度、高水准的封闭培训，实现偶像养成和造星模式多样化的结合。
-
-| SNH48 Group海外練習生 |
-| ---------------- |
-| 姓名               |
-| 王秋茹              |
-| 高崇               |
+以下资料截止至2019年4月19日SHY48官网清除所有成员资料之前。
 
 ### 暂休成員
 
@@ -191,7 +180,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <tr class="even">
 <td><p>王菲妍</p></td>
 <td></td>
-<td><p>1月27日</p></td>
+<td></td>
 <td><p>2期</p></td>
 <td><p>Team HIII</p></td>
 <td><p>2019年1月19日</p></td>
@@ -251,7 +240,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <tr class="even">
 <td><p>臧聪</p></td>
 <td></td>
-<td><p>2月21日</p></td>
+<td></td>
 <td><p>2期</p></td>
 <td><p>Team SIII</p></td>
 <td><p>2019年1月19日</p></td>
@@ -309,6 +298,16 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>SHY48 第4名</p></td>
 </tr>
 <tr class="even">
+<td><p>高崇</p></td>
+<td></td>
+<td></td>
+<td><p>2期</p></td>
+<td><p>Team HIII</p></td>
+<td><p>2019年1月19日</p></td>
+<td><p>加入SNH48 Group海外练习生</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>刁滢</p></td>
 <td></td>
 <td><p>11月24日</p></td>
@@ -318,7 +317,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>移籍IDOLS Ft</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>冯译莹</p></td>
 <td></td>
 <td></td>
@@ -328,7 +327,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>付紫琪</p></td>
 <td></td>
 <td></td>
@@ -338,7 +337,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>SHY48 第10名</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>高志娴</p></td>
 <td></td>
 <td></td>
@@ -348,7 +347,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>SHY48 第5名</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>黄嘉怡</p></td>
 <td></td>
 <td><p>4月5日</p></td>
@@ -358,7 +357,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>李慧</p></td>
 <td></td>
 <td></td>
@@ -368,7 +367,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>SHY48 第6名</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>李晴</p></td>
 <td></td>
 <td></td>
@@ -378,7 +377,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>SHY48 第15名</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>李苏洪</p></td>
 <td></td>
 <td><p>6月20日</p></td>
@@ -388,7 +387,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>曲悦萌</p></td>
 <td></td>
 <td><p>8月31日</p></td>
@@ -398,7 +397,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>司珀琳</p></td>
 <td></td>
 <td><p>10月18日</p></td>
@@ -408,7 +407,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>SHY48 第13名</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>孙敏</p></td>
 <td></td>
 <td><p>2月25日</p></td>
@@ -418,7 +417,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>SHY48 第4名</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>相望</p></td>
 <td></td>
 <td></td>
@@ -428,7 +427,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>徐斐然</p></td>
 <td></td>
 <td><p>3月4日</p></td>
@@ -438,7 +437,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>SHY48 第9名</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>杨允涵</p></td>
 <td></td>
 <td><p>3月17日</p></td>
@@ -448,7 +447,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>SHY48 第6名</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>周佳怡</p></td>
 <td></td>
 <td><p>8月12日</p></td>
@@ -458,7 +457,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>朱敏</p></td>
 <td></td>
 <td><p>6月1日</p></td>
@@ -468,7 +467,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>郑诗琪</p></td>
 <td></td>
 <td><p>7月5日</p></td>
@@ -496,6 +495,14 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>王秋茹</p></td>
+<td></td>
+<td></td>
+<td><p>4期</p></td>
+<td><p>2019年1月19日</p></td>
+<td><p>加入SNH48 Group海外练习生</p></td>
+</tr>
+<tr class="even">
 <td><p>黄逸</p></td>
 <td></td>
 <td><p>3月23日</p></td>
@@ -503,17 +510,19 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>2019年1月19日</p></td>
 <td><p>资料删除</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>王睿琦</p></td>
 <td></td>
 <td></td>
 <td><p>4期</p></td>
 <td><p>2019年1月19日</p></td>
 <td><p>资料删除<br />
+曾为2期生（Team HIII）<br />
 2018年5月17日曾被强制退团<br />
-2018年10月5日降格为4期生并被重新公开</p></td>
+2018年10月5日以4期生身份重新公开<br />
+2019年5月19日以SHY48 2期生身份加入SNH48 Team X</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>卞佳宁</p></td>
 <td></td>
 <td></td>
@@ -521,7 +530,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>2019年1月19日</p></td>
 <td><p>移籍IDOLS Ft</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>程一</p></td>
 <td></td>
 <td><p>12月9日</p></td>
@@ -529,7 +538,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>2019年1月19日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>冯嘉宝</p></td>
 <td></td>
 <td><p>8月20日</p></td>
@@ -537,7 +546,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>2019年1月19日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>刘宇晴</p></td>
 <td></td>
 <td><p>3月29日</p></td>
@@ -545,7 +554,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>2019年1月19日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>尚官</p></td>
 <td></td>
 <td><p>4月15日</p></td>
@@ -553,7 +562,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>2019年1月19日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>武晓迪</p></td>
 <td></td>
 <td><p>9月6日</p></td>
@@ -561,7 +570,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>2019年1月19日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>王永祺</p></td>
 <td></td>
 <td><p>7月5日</p></td>
@@ -569,7 +578,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>2019年1月19日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>王梓</p></td>
 <td></td>
 <td><p>12月23日</p></td>
@@ -577,7 +586,7 @@ SHY48是一個以[沈阳為中心活動的](https://zh.wikipedia.org/wiki/沈阳
 <td><p>2019年1月19日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>张瑾瑜</p></td>
 <td></td>
 <td><p>7月10日</p></td>
@@ -757,8 +766,7 @@ Team SIII菅瑞静、秦玺、叶锦童，Team HIII李熙凝暫休</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月5日</p></td>
-<td><p>4期生正式對外公開<br />
-原Team HIII王睿琦降格为4期生，并以预备生身份重新对外公开</p></td>
+<td><p>4期生正式對外公開</p></td>
 <td><p>+12</p></td>
 <td><p>72</p></td>
 <td><p>43</p></td>
@@ -790,7 +798,7 @@ Team SIII菅瑞静、秦玺、叶锦童，Team HIII李熙凝暫休</p></td>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>练</p></td>
+<td><p>正</p></td>
 <td><p>暫</p></td>
 <td></td>
 <td></td>
@@ -816,10 +824,18 @@ Team SIII赖梓惜移籍至GNZ48<br />
 26名成员移籍IDOLS Ft<br />
 Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 预备生黄逸、王睿琦请辞</p></td>
-<td><p>-45</p></td>
-<td><p>27</p></td>
-<td><p>2</p></td>
+<td><p>-47</p></td>
 <td><p>25</p></td>
+<td><p>0</p></td>
+<td><p>25</p></td>
+</tr>
+<tr class="even">
+<td><p>4月19日</p></td>
+<td><p>25名暂休成员资料删除</p></td>
+<td><p>-25</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
+<td><p>0</p></td>
 </tr>
 </tbody>
 </table>
@@ -847,7 +863,7 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <td><p>陳婧文</p></td>
 <td><p>1期</p></td>
 <td><p>SIII</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 </tr>
 <tr class="odd">
 <td><p>馮譯瑩</p></td>
@@ -866,7 +882,7 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <tr class="odd">
 <td><p>關思雨</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -894,14 +910,14 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <tr class="odd">
 <td><p>劉嬌</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>劉娜</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -915,14 +931,14 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <tr class="even">
 <td><p>南翎璞</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>秦璽</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -943,7 +959,7 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <tr class="even">
 <td><p>徐靜妍</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -964,7 +980,7 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <tr class="odd">
 <td><p>朱燕</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -973,19 +989,19 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <td><p>董思佳</p></td>
 <td><p>1期</p></td>
 <td><p>HIII</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 </tr>
 <tr class="odd">
 <td><p>高志嫻</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年1月19日移籍IDOLS Ft</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>寇承希</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1006,7 +1022,7 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <tr class="odd">
 <td><p>李熙凝</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1020,7 +1036,7 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <tr class="odd">
 <td><p>任雨情</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1034,7 +1050,7 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <tr class="odd">
 <td><p>楊肖</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1055,28 +1071,28 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <tr class="even">
 <td><p>張儒軼</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>張雲夢</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>張幼檸</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>張雨晴</p></td>
 <td><p>1期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1085,19 +1101,19 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <td><p>陳奕君</p></td>
 <td><p>2期</p></td>
 <td><p>SIII</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 </tr>
 <tr class="odd">
 <td><p>菅瑞靜</p></td>
 <td><p>2期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>葉錦童</p></td>
 <td><p>2期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1119,27 +1135,27 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <td><p>方詩涵</p></td>
 <td><p>2期</p></td>
 <td><p>HIII</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>高崇</p></td>
 <td><p>2期</p></td>
-<td></td>
+<td><p>2019年1月19日加入SNH48 Group海外练习生</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>龔夢婷</p></td>
 <td><p>2期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>逯方竹</p></td>
 <td><p>2期</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1154,8 +1170,9 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <td><p>王睿琦</p></td>
 <td><p>2期</p></td>
 <td><p>2018年5月17日被强制退团<br />
-2018年10月5日降格为4期生，并被重新公开<br />
-2019年1月19日资料删除</p></td>
+2018年10月5日以4期生身份重新公开<br />
+2019年1月19日资料删除<br />
+2019年5月19日以SHY48 2期生身份加入SNH48 Team X</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1171,7 +1188,7 @@ Team HIII高崇，预备生王秋茹加入SNH48 Group海外练习生<br />
 <td><p>李彬玉</p></td>
 <td><p>3期</p></td>
 <td><p>SIII</p></td>
-<td></td>
+<td><p>2019年4月19日资料删除</p></td>
 </tr>
 <tr class="odd">
 <td><p>司珀琳</p></td>

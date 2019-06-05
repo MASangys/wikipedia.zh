@@ -4,7 +4,7 @@
 
 雖然大部分授時台都是廣播該國的當地時間，但是美國跨越多個[時區](https://zh.wikipedia.org/wiki/時區 "wikilink")，所以WWVB廣播的時間訊號是[協調世界時](https://zh.wikipedia.org/wiki/協調世界時 "wikilink")。而當地所售買的[電波時鐘都可以設定為美國的四個時區及](https://zh.wikipedia.org/wiki/無線電時鐘 "wikilink")[夏令時間而顯示出正確的本地時間](https://zh.wikipedia.org/wiki/夏令時間 "wikilink")。\[2\]
 
-在2011年，國家標準技術研究所估計超過50萬部[時鐘及](../Page/時鐘.md "wikilink")[手錶配備了接收WWVB的對時訊號的能力](https://zh.wikipedia.org/wiki/手錶 "wikilink")。\[3\]
+在2011年，國家標準技術研究所估計超過5000萬部[時鐘及](../Page/時鐘.md "wikilink")[手錶配備了接收WWVB的對時訊號的能力](https://zh.wikipedia.org/wiki/手錶 "wikilink")。\[3\]
 
 ## 歷史
 

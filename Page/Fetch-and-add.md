@@ -39,6 +39,17 @@ GCC把它作为对C语言的扩展。\[3\]
 
 从[8086起](https://zh.wikipedia.org/wiki/8086 "wikilink")，以内存为目的操作数的ADD指令就是fetch-and-add。如果使用LOCK前缀，那么它对多处理器是原子操作。但不能返回原值，直至[486引入XADD指令](https://zh.wikipedia.org/wiki/80486 "wikilink")。
 
+``` c
+    void __fastcall atomic_inc (volatile int* pNum)
+    {
+        __asm
+        {
+            lock inc dword ptr [ECX]
+            ret
+        }
+    }
+```
+
 下述GCC编译的[C语言函数](https://zh.wikipedia.org/wiki/C语言 "wikilink")，在x86的32位与64位平台上，使用扩展asm语法：
 
 ``` c

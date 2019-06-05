@@ -16,11 +16,11 @@ TRAVEL），是[萬達超媒體電視股份有限公司旗下的旅遊頻道](ht
 
 ## 主時段節目
 
-| 週一至週五                                                 | 週六、日                                   |
-| ----------------------------------------------------- | -------------------------------------- |
-| **下午3-4點**                                            | **下午5-6點**|**晚間6-7點**                  |
-| 《[科技苑](https://zh.wikipedia.org/wiki/科技苑 "wikilink")》 | 《[型男大主廚](../Page/型男大主廚.md "wikilink")》 |
-|                                                       |                                        |
+| 週一至週五                                  | 週六、日                                 |
+| -------------------------------------- | ------------------------------------ |
+| **下午5-6點**                             | **晚間6-7點**                           |
+| 《[型男大主廚](../Page/型男大主廚.md "wikilink")》 | 《[大陸尋奇](../Page/大陸尋奇.md "wikilink")》 |
+|                                        |                                      |
 
 ## 旅遊節目列表
 
@@ -28,10 +28,13 @@ TRAVEL），是[萬達超媒體電視股份有限公司旗下的旅遊頻道](ht
 
 | colspan="1" style="color:EAECF0;" "background:aqua;""width:30%" |節目名稱 | colspan="1" style="color:EAECF0;" "background:aqua;""width:15%" |英文名稱 | colspan="1" style="color:EAECF0;" "background:aqua;""width:8%" |集數 | colspan="1" style="color:EAECF0;" background:aqua;""width:30%" |主持人、旁白 |
 | --------------------------------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------ | ---------------------------------------------------------------------- |
+| 《[味蕾時光機](https://zh.wikipedia.org/wiki/味蕾時光機 "wikilink")》             | THE TASTE OF TIME                                                     | 10                                                                 |                                                                        |
+| 《[身在異鄉非異客](https://zh.wikipedia.org/wiki/身在異鄉非異客 "wikilink")》         | Strangers at Home                                                     | 8                                                                  |                                                                        |
 | 《[世界成人禮紀行](https://zh.wikipedia.org/wiki/世界成人禮紀行 "wikilink")》         | Becoming A Man                                                        | 8                                                                  |                                                                        |
 | 《講述》                                                                  |                                                                       | 46                                                                 |                                                                        |
 | 《[探索發現](../Page/探索·发现.md "wikilink")》                                 |                                                                       |                                                                    |                                                                        |
 | 《[型男大主廚](../Page/型男大主廚.md "wikilink")》                                | Stylish Man-The Chef                                                  | 100                                                                | [曾國城](../Page/曾國城.md "wikilink")、[夏于喬](../Page/夏于喬.md "wikilink")      |
+| 《[國寶檔案](https://zh.wikipedia.org/wiki/國寶檔案 "wikilink")》               | Files of National Treasures                                           |                                                                    |                                                                        |
 | 《三國的世界》                                                               |                                                                       | 6                                                                  |                                                                        |
 | 《喜馬拉雅天梯》                                                              | Himalaya: Ladder to Paradise                                          | 5                                                                  |                                                                        |
 | 《我在故宮修文物》                                                             | Masters In Forbidden City                                             | 3                                                                  |                                                                        |

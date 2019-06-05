@@ -528,9 +528,6 @@ Schwarzesmarken**》（ラジオ
   - [廣播官方網站](http://www.joqr.co.jp/sm666/)文化放送
 
   -
-[en:List of Schwarzesmarken
-episodes](https://zh.wikipedia.org/wiki/en:List_of_Schwarzesmarken_episodes "wikilink")
-
 [Category:2011年小說](https://zh.wikipedia.org/wiki/Category:2011年小說 "wikilink")
 [Category:Fami通文庫](https://zh.wikipedia.org/wiki/Category:Fami通文庫 "wikilink")
 [Category:2016年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2016年日本電視動畫 "wikilink")
@@ -581,7 +578,7 @@ episodes](https://zh.wikipedia.org/wiki/en:List_of_Schwarzesmarken_episodes "wik
 14. [シュヴァルツェスマーケン
     殉教者たち](http://www.getchu.com/soft.phtml?id=853838)Getchu.com
 
-15. [怪奇！ 着ぐるみ政治将校](http://kiminozo-radio.jp/kaiki/index.htm)âge
+15. [怪奇！ 着ぐるみ政治将校](http://kiminozo-radio.jp/kaiki/index.htm) âge
 
 16. [シュヴァルツェスマーケン
     紅血の紋章](http://erogetrailers.com/soft/11935)ErogeTrailers

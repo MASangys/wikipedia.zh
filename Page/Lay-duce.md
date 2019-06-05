@@ -76,9 +76,19 @@
 <td><p>2018年</p></td>
 <td><p><a href="../Page/月影特工.md" title="wikilink">月影特工</a></p></td>
 <td></td>
-<td><p>10月6日－播放中</p></td>
+<td><p>10月6日－12月22日</p></td>
 <td><p>佐藤陽</p></td>
 <td><p>原創</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/騷亂時節的少女們" title="wikilink">騷亂時節的少女們</a></p></td>
+<td></td>
+<td><p>7月－預定</p></td>
+<td><p>安藤真裕<br />
+塚田拓郎</p></td>
+<td><p>漫畫</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -86,7 +96,7 @@
 
 ### OVA
 
-《[摇曳百合、](https://zh.wikipedia.org/wiki/摇曳百合 "wikilink")》（未定）
+《[摇曳百合](https://zh.wikipedia.org/wiki/摇曳百合 "wikilink")》（2019）
 
 ## 參考資料
 

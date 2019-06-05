@@ -10,6 +10,7 @@ Werner报道，它是金黄色的针状晶体。\[1\]
 [Category:乙二胺配合物](https://zh.wikipedia.org/wiki/Category:乙二胺配合物 "wikilink")
 
 [Category:钴配合物](https://zh.wikipedia.org/wiki/Category:钴配合物 "wikilink")
+[Category:三价钴化合物](https://zh.wikipedia.org/wiki/Category:三价钴化合物 "wikilink")
 [Category:氯化物](https://zh.wikipedia.org/wiki/Category:氯化物 "wikilink")
 
 1.

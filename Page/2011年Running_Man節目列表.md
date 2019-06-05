@@ -41,7 +41,7 @@
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -329,7 +329,7 @@ Running二隊穿紅色內衣被遺棄於乙旺-{里}-海水浴場、並要用海
 <small>(<em>3月7日</em>)</small></p></td>
 <td><p><a href="../Page/姜大聲.md" title="wikilink">大聲</a>(<a href="https://zh.wikipedia.org/wiki/BIGBANG" title="wikilink">BIGBANG</a>)、<br />
 <a href="../Page/鄭容和.md" title="wikilink">鄭容和</a>(<a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a>)</p></td>
-<td><p><a href="http://www.nanjicamping.co.kr/">蘭芝露營場</a><br />
+<td><p><a href="https://web.archive.org/web/20100825101929/http://www.nanjicamping.co.kr/">蘭芝露營場</a><br />
 <small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/麻浦區.md" title="wikilink">麻浦區</a>)</small></p></td>
 <td><p><span style=font-size:110%><strong>露營特輯</strong></span><br />

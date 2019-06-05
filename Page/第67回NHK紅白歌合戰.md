@@ -77,7 +77,7 @@ AKB48出場時首先演唱《[River](../Page/RIVER_\(AKB48單曲\).md "wikilink"
 
   - [萩野公介](../Page/萩野公介.md "wikilink")：[游泳選手](../Page/游泳.md "wikilink")，於當年[夏季奧林匹克運動會男子混合](../Page/2016年夏季奧林匹克運動會.md "wikilink")400公尺競賽獲得金牌。
 
-  - [村田沙耶香](https://zh.wikipedia.org/wiki/村田沙耶香 "wikilink")：[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")，憑藉小說《便利超商人》獲得本年[芥川賞](https://zh.wikipedia.org/wiki/芥川賞 "wikilink")。
+  - [村田沙耶香](../Page/村田沙耶香.md "wikilink")：[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")，憑藉小說《便利超商人》獲得本年[芥川賞](https://zh.wikipedia.org/wiki/芥川賞 "wikilink")。
 
 以上十位審查員於最終投票時各人有1票；另外NHK從當日獲得入場劵的現場觀眾中，選取4組二人組合，組成稱為「家鄉審查員」（）的團體，整個「家鄉審查員」亦擁有1票投票權\[13\]。
 

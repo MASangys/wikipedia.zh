@@ -12,7 +12,7 @@ Inc.）](http://www.pola.com.tw/products.php)，主要事業內容為女用[化�
 隨著化妝品的訪問販賣事業成功的同時，針對女性肌膚訂製的保養系列「APEX-i」也廣為人知。
 
 2006年9月成立純粹持股控股公司「 [POLA ORBIS
-Holdings](http://www.po-holdings.co.jp/index.html)」。2007年1月將POLA販售股份有限公司與總公司整合。
+Holdings](https://web.archive.org/web/20080225012324/http://www.po-holdings.co.jp/index.html)」。2007年1月將POLA販售股份有限公司與總公司整合。
 
 同年7月將POLA化妝品總部股份有限公司正式更名為POLA股份有限公司（POLA
 Inc.）。近年來不僅是訪問販賣，也開始在[百貨公司或精品選品店等設立專櫃](../Page/百貨公司.md "wikilink")「POLA
@@ -101,7 +101,7 @@ LTD[收購](../Page/併購.md "wikilink")。
     THE BEAUTY」誕生。
   - [2006年](../Page/2006年.md "wikilink")（[平成](../Page/平成.md "wikilink")18年）
       - 9月：成立[POLA ORBIS
-        Holding股份有限公司](http://www.po-holdings.co.jp/index.html)。隔年2007年1月正式轉換成純粹持股控股公司。
+        Holding股份有限公司](https://web.archive.org/web/20080225012324/http://www.po-holdings.co.jp/index.html)。隔年2007年1月正式轉換成純粹持股控股公司。
       - 12月：成立[株式會社ピーオーリアルエステート(P.O. REAL
         ESTATE)](http://www.po-realestate.co.jp/)，繼承[不動產事業](../Page/不動產.md "wikilink")。
       - 12月：進資FUTURE LABO GROUP（株式会社フューチャーラボ）。並於電視販賣事業版圖嶄露頭角。

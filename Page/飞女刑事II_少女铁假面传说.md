@@ -62,6 +62,12 @@
 
 ## 脚注
 
+## 前作和續作
+
+  - [飞女刑事](../Page/飞女刑事.md "wikilink")
+  - [飞女刑事III
+    少女忍法帖传奇](https://zh.wikipedia.org/wiki/飞女刑事III_少女忍法帖传奇 "wikilink")
+
 ## 外部链接
 
   -

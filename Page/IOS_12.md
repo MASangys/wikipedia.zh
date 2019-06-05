@@ -538,6 +538,48 @@ Music等应用程式達到介面統一的訴求](../Page/Apple_Music.md "wikilin
 <td><p>2019年4月29日</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>Developer beta 5</p></td>
+<td><p>16F5155a</p></td>
+<td><p>2019年5月7日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Developer beta 6</p></td>
+<td><p>16F5156a</p></td>
+<td><p>2019年5月10日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12.3</p></td>
+<td><p>正式版</p></td>
+<td><p>16F156</p></td>
+<td><p>2019年5月13日</p></td>
+</tr>
+<tr class="even">
+<td><p>12.3.1</p></td>
+<td><p>正式版</p></td>
+<td><p>16F203</p></td>
+<td><p>2019年5月25日</p></td>
+</tr>
+<tr class="odd">
+<td><p>12.4</p></td>
+<td><p>Developer beta 1</p></td>
+<td><p>16G5027g</p></td>
+<td><p>2019年5月15日</p></td>
+</tr>
+<tr class="even">
+<td><p>Developer beta 2</p></td>
+<td><p>16G5027i</p></td>
+<td><p>2019年5月21日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Developer beta 3</p></td>
+<td><p>16G5038d</p></td>
+<td><p>2019年5月29日</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

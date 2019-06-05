@@ -10,7 +10,7 @@
 
 于2018年4月5日宣布将向虚拟YouTuber产业投资100亿日元\[6\]。
 
-截至2018年5月28日，虚拟YouTuber總計有3000人，訂閱者共1089万，視頻點擊率達到6億9000万次以上\[7\]。到2019年4月，虚拟YouTuber總計有6000人，訂閱者共2000万。随着虚拟YouTuber迎来热潮，一些虚拟YouTuber组织也随即兴起，其中比较有名的有Upd8、ENTUM、彩虹社（也译2434）、hololive等。
+截至2018年5月28日，虚拟YouTuber總計有3000人，訂閱者共1089万，視頻點擊率達到6億9000万次以上\[7\]。到2019年4月，虚拟YouTuber總計有约6000人，訂閱者共约2000万。随着虚拟YouTuber迎来热潮，一些虚拟YouTuber组织也随即兴起，其中比较有名的有、、（也译2434）、等。
 
 ### 台灣
 
@@ -20,15 +20,15 @@
 
 ### 中國大陆
 
-在中華人民共和國，由于[YouTube遭到屏蔽](https://zh.wikipedia.org/wiki/对YouTube的审查#中華人民共和國 "wikilink")，用户不能直接观看虛擬YouTuber的视频，因此有用戶在通過授權的情況下將相關視頻轉載到如[Bilibili之類的網站](../Page/Bilibili.md "wikilink")，另外也有一部分虛擬YouTuber在中國網站內設有官方頻道。一部分虛擬YouTuber在Bilibili的粉丝订阅量远高于YouTube的订阅量。除此之外，在Bilibili上也活动着一些虚拟视频制作人，称为“虚拟UP主”\[8\]。
+在中華人民共和國，由于[YouTube遭到屏蔽](https://zh.wikipedia.org/wiki/对YouTube的审查#中華人民共和國 "wikilink")，用户不能直接观看虛擬YouTuber的视频，因此有用戶在通過授權的情況下將相關視頻轉載到如[Bilibili之類的網站](../Page/Bilibili.md "wikilink")，另外也有一部分虛擬YouTuber在中國網站內設有官方頻道。一部分虛擬YouTuber在Bilibili的粉丝订阅量远高于YouTube的订阅量。除此之外，在Bilibili上也活动着一些虚拟视频制作人，称为“虚拟UP主”\[8\]，目前在中國大陸活躍的虛擬主播有虚拟次元计划（虚研社）、兽耳放送、兰若-re、Siva_小虾鱼_、木糖纯和庄不纯、幽灵子辰、进击的冰糖等。而部分虛擬主播也参加了如中科院物理所开发日这样的大型活动\[9\]，由此看來虚拟主播在大陆地区正在慢慢被人熟知。
 
 ## 动作
 
-部分虛擬YouTuber會借助安置在頭部与肢體上的[動作捕捉設備以及傳感器將人物動作展現到虛擬角色上](https://zh.wikipedia.org/wiki/動作捕捉 "wikilink")。而藉助於實時運動捕捉的機制，虛擬YouTuber還可以通過多種方式與現實世界中的粉絲進行交流\[9\]。
+部分虛擬YouTuber會借助安置在頭部与肢體上的[動作捕捉設備以及傳感器將人物動作展現到虛擬角色上](https://zh.wikipedia.org/wiki/動作捕捉 "wikilink")。而藉助於實時運動捕捉的機制，虛擬YouTuber還可以通過多種方式與現實世界中的粉絲進行交流\[10\]。
 
 ## 反應
 
-據[BBC的報導中所指](../Page/英国广播公司.md "wikilink")，虛擬YouTuber的特點是“不受個人身份與其他問題所束縛”，且在全球範圍內受到許多“日本以外的日本文化與動漫愛好者”的歡迎\[10\]。
+據[BBC的報導中所指](../Page/英国广播公司.md "wikilink")，虛擬YouTuber的特點是“不受個人身份與其他問題所束縛”，且在全球範圍內受到許多“日本以外的日本文化與動漫愛好者”的歡迎\[11\]。
 
 ## 備註
 
@@ -49,6 +49,13 @@
   -
   - [VRChat](../Page/VRChat.md "wikilink")
 
+  - （2019年聯合諸多日本虛擬YouTuber主演的動畫）
+
+## 外部鏈結
+
+  - [四月一日三姐妹之家庭故事](https://www.bilibili.com/bangumi/media/md26900954/?from=search&seid=17924970571049216532)：时乃空等VTuber主演的電視劇
+  - [战斗吧歌姬](https://www.bilibili.com/bangumi/media/md140132/?from=search&seid=17594789830347879515)：乐元素旗下Vtuber真人秀
+
 [Category:YouTube](https://zh.wikipedia.org/wiki/Category:YouTube "wikilink")
 [Category:虛擬YouTuber](https://zh.wikipedia.org/wiki/Category:虛擬YouTuber "wikilink")
 [Category:御宅族](https://zh.wikipedia.org/wiki/Category:御宅族 "wikilink")
@@ -66,3 +73,4 @@
 8.
 9.
 10.
+11.

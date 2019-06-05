@@ -9,8 +9,7 @@ Press](../Page/Alternative_Press.md "wikilink")*》杂志誉为最有影响力�
 
 ## 参考资料
 
-[cat:瑞典重金属乐团](https://zh.wikipedia.org/wiki/cat:瑞典重金属乐团 "wikilink")
-
+[Category:瑞典重金属乐团](https://zh.wikipedia.org/wiki/Category:瑞典重金属乐团 "wikilink")
 [Category:1987年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:1987年成立的音樂團體 "wikilink")
 [Category:實驗音樂樂團](https://zh.wikipedia.org/wiki/Category:實驗音樂樂團 "wikilink")
 

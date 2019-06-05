@@ -12,16 +12,18 @@ WILD）是[OLM製作的](../Page/OLM.md "wikilink")[日本](../Page/日本.md "w
 ### 主要人物
 
   -
-    自由團領導者，頭髮（劉海）具有特徵性的「Z」形狀，拍擋是狂野白獅。
+    自由團領導者，頭髮（劉海）具有特徵性的「Z」形狀，拍檔是狂野白獅。
     希望能與父親雷一樣成為索斯獸獵人，所以去捕捉鍬甲獸卻失敗，被煙肉與尖牙猛虎拯救。在森林遇上從死亡金屬帝國逃出來的索斯獸狂野白獅，並以真試打動了對方，成功跟牠做了同伴一起對付敵人。
   -
     Supreme團領導者。
   -
-    自由團成員，拍擋是沙漠毒蠍。擅長繪畫，團隊標誌就是她設計。
+    自由團成員，拍檔是沙漠毒蠍。擅長繪畫，團隊標誌就是她設計。
   -
-    自由團成員，拍擋是轟擊戰龜。索斯獸學者，因而稱呼為索斯獸博士。
+    自由團成員，拍檔是轟擊戰龜。索斯獸學者，因而稱呼為索斯獸博士。
   -
-    自由團成員，拍擋是突擊三角龍。
+    自由團成員，拍檔是突擊三角龍。
+  -
+    自由團成員，拍檔是狩獵蒼狼。
 
 ### Supreme團
 
@@ -220,6 +222,18 @@ WILD）是[OLM製作的](../Page/OLM.md "wikilink")[日本](../Page/日本.md "w
 
   -
 
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  -
+
+<!-- end list -->
+
+  -
+
 ## 電視動畫
 
 ### 主題曲
@@ -274,7 +288,7 @@ Motoyama，主唱：[noovy](https://zh.wikipedia.org/wiki/noovy "wikilink")
 
   - 插入曲
 
-:;「WILD BLUE」（第1話－第35話、第37話－）
+:;「WILD BLUE」（第1話－第35話、第37話－第41話、第43話－）
 
   -
 
@@ -575,7 +589,7 @@ Jo Young Joo</p></td>
 <tr class="even">
 <td><p>第26話</p></td>
 <td></td>
-<td></td>
+<td><p>在廣闊的世界勇往直前</p></td>
 <td><p>廣田光毅</p></td>
 <td><p>牧俊治</p></td>
 <td><p>宍戸久美子</p></td>
@@ -585,7 +599,7 @@ Jo Young Joo</p></td>
 <tr class="odd">
 <td><p>第27話</p></td>
 <td></td>
-<td></td>
+<td><p>燃燒吧！速遞員的尊嚴</p></td>
 <td><p>高木聖子</p></td>
 <td><p>鳥井聖美</p></td>
 <td><p>境隼人</p></td>
@@ -597,7 +611,7 @@ Jo Young Joo</p></td>
 <tr class="even">
 <td><p>第28話</p></td>
 <td></td>
-<td></td>
+<td><p>高傲的少年在大地上奔馳</p></td>
 <td><p>加藤還一</p></td>
 <td><p>砂和寬德</p></td>
 <td><p>古賀一臣</p></td>
@@ -607,7 +621,7 @@ Jo Young Joo</p></td>
 <tr class="odd">
 <td><p>第29話</p></td>
 <td></td>
-<td></td>
+<td><p>驚訝！第二形態</p></td>
 <td><p>十川誠志</p></td>
 <td><p>飯島正勝</p></td>
 <td><p>北村翔太郎</p></td>
@@ -776,6 +790,48 @@ Kwon Yong Sang</p></td>
 <td><p>粟井重紀</p></td>
 <td><p>田內亞矢子</p></td>
 <td><p>高橋瑞香</p></td>
+</tr>
+<tr class="odd">
+<td><p>第43話</p></td>
+<td></td>
+<td></td>
+<td><p>高木聖子</p></td>
+<td><p>砂和寬德</p></td>
+<td><p>北村翔太郎</p></td>
+<td><p>Kim Dae Hoon<br />
+In Tae Sun<br />
+Kwon Yong Sang<br />
+Kim Yong Sub<br />
+Won Eun Sook<br />
+本田隆<br />
+田中康勝</p></td>
+<td><p>村上李香</p></td>
+</tr>
+<tr class="even">
+<td><p>第44話</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>牧俊治</p></td>
+<td><p>宍戸久美子<br />
+岡田繪里香</p></td>
+<td><p>高橋瑞香</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第45話</p></td>
+<td></td>
+<td></td>
+<td><p>筆安一幸</p></td>
+<td><p>上原秀明</p></td>
+<td><p>In Tae Sun<br />
+Kim Dae Hoon<br />
+Kim Yong Sub<br />
+Kwon Yong Sang<br />
+Joung Jin Young</p></td>
+<td><p>村上李香<br />
+本田隆</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

@@ -1,20 +1,22 @@
-**设置**，曾称“**电脑设置**”（**PC
-Settings**），它是一个[UWP应用](https://zh.wikipedia.org/wiki/Metro-style_apps "wikilink")，搭载于[Windows
-8及之后](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，[Windows
-Server 2012及之后](../Page/Windows_Server_2012.md "wikilink")，以及[Windows 10
-Mobile中](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")。
+**设置（Windows）**，原名為“**电脑设置**”（**PC
+Settings**），是一款由[微軟公司所開發](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")[UWP应用程序](https://zh.wikipedia.org/wiki/Metro-style_apps "wikilink")，並以系統程序身分裝载于[Windows
+8](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")、[Windows Server
+2012之后以及](../Page/Windows_Server_2012.md "wikilink")[Windows 10
+Mobile](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")[作業系統之中](https://zh.wikipedia.org/wiki/作業系統 "wikilink")。因大部分控制面板的操作均可直接在本程序上實現並完成，從而被認為是[控制台的替代品](../Page/控制面板.md "wikilink")。
 
 ## 功能
 
-在[Windows Server
+早在[Windows Server
 2012和](../Page/Windows_Server_2012.md "wikilink")[Windows
-8中](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，“电脑设置”被设计为一个为触摸设备优化的简单设置界面。它展示了一小部分通过桌面的[控制面板可更改的设置](../Page/控制面板.md "wikilink")。此外，部分功能（包括添加用户帐户和更改用户图片）只能在“电脑设置”中完成。\[1\]Windows
-8.1改进了此组件以包括更多原独占于控制面板的选项。\[2\]
+8中](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，“电脑设置”被设计为一个專为触摸设备而优化的简单设控制面板，展示小部分通过桌面的[控制面板可更改的设置](../Page/控制面板.md "wikilink")。\[1\]Windows
+8.1作業系統則改进了程序並包括更多的直接控制功能。\[2\]
 
-在Windows
-10中，此应用被更名为“设置”并与其他Windows应用一样运行在桌面窗口中。它包括更多以前只存在于控制面板中的选项。\[3\]\[4\]因为它是一个通用Windows应用，此版本的设置也被适用于[智能手机和](../Page/智能手机.md "wikilink")[平板电脑的](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")[Windows
+從[Windows
+10](../Page/Windows_10.md "wikilink")[作業系統開始](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，应用程序被重新命名为“设置”，並可完成大部份在控制面板中所執行的操作。\[3\]\[4\]
+
+因为程序本身為[通用Windows平台程序](https://zh.wikipedia.org/wiki/UWP "wikilink")，因此，也可在裝載[Windows
 10
-Mobile使用](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")。\[5\]\[6\]
+Mobile作業系統上的](https://zh.wikipedia.org/wiki/Windows_10_Mobile "wikilink")[智能手机和](../Page/智能手机.md "wikilink")[平板电脑中運行並使用](https://zh.wikipedia.org/wiki/平板电脑 "wikilink")。\[5\]\[6\]
 
 ## 参考资料
 

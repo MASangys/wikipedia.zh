@@ -73,7 +73,7 @@
 <ul>
 <li>發行日期：2015年1月15日</li>
 <li>發行公司：<a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、<a href="../Page/Genie音樂.md" title="wikilink">KT Music</a></li>
-<li>專輯銷量：20,654+</li>
+<li>專輯銷量：21,930+</li>
 <li>規格：CD、數位音樂下載</li>
 </ul></td>
 <td><p>12（綜合）[3]<br />
@@ -86,7 +86,7 @@
 <ul>
 <li>發行日期：2015年7月23日</li>
 <li>發行公司：<a href="https://zh.wikipedia.org/wiki/Source_Music" title="wikilink">Source Music</a>、KT Music</li>
-<li>專輯銷量：26,851+</li>
+<li>專輯銷量：28,281+</li>
 <li>規格：CD、數位音樂下載</li>
 </ul></td>
 <td><p>6（綜合）[4]</p></td>

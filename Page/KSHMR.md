@@ -1,4 +1,4 @@
-**KSHMR**(發音：英文的喀什米爾(Kashmir))，本名**Niles
+**KSHMR**(發音：Kashmir)，本名**Niles
 Hollowell-Dhar**，印裔[美國人](https://zh.wikipedia.org/wiki/美國 "wikilink")，為源於[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[柏克萊的](https://zh.wikipedia.org/wiki/柏克萊 "wikilink")[電子舞曲](../Page/電子舞曲.md "wikilink")[製作人](../Page/音樂製作人.md "wikilink")。它的出道名稱就是源自[喀什米爾](https://zh.wikipedia.org/wiki/喀什米爾 "wikilink")。離開先前的**The
 Cataracs**團體之後，Niles專心的以"KSHMR"的名稱繼續發展音樂事業，獲得了相當大的名氣。2015年，他首次登上[DJ雜誌](../Page/DJ雜誌.md "wikilink")
 前100名的排行榜，得到了23名，也是2015的"Highest

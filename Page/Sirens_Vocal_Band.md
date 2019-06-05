@@ -165,7 +165,8 @@ cappella發展史](http://hsmaterial.moe.edu.tw/file/mu/2-2-1-3-1/index.htm).教
     Asia人聲資料庫-Sirens人聲樂團](http://www.vocalasia.com/artist-info.php?lang=tw&id=11)
 2.  [Sirens人聲樂團東華獻聲](http://faculty.ndhu.edu.tw/~LCenews/e_paper/e_paper_c.php?SID=649).國立東華大學
     左岸電子報.2014-11-30
-3.  [臺灣好漾-人聲樂團SIRENS藍色警報](http://radio.rti.org.tw/program/focus/?recordId=2104).中央廣播電臺
+3.  [臺灣好漾-人聲樂團SIRENS藍色警報](http://radio.rti.org.tw/program/focus/?recordId=2104)
+    .中央廣播電臺
 4.  [Sirens藍色警報人聲樂團『SWITCH』EP介紹](http://www.iwant-radio.com/showinformation.php?sisn=35032&stime=2014&smonth=&act=1&ln=big).銀河網路電台
 5.  [2009台灣國際重唱藝術節官方網站](http://festival.tcmc.org.tw/2009)
 6.  [2010台灣國際重唱藝術節官方網站](http://festival.tcmc.org.tw/2010)

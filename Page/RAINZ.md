@@ -61,7 +61,7 @@ SOLO</p></td>
 <td><p>O</p></td>
 <td><p>綠色</p></td>
 <td><p>2ABLE</p></td>
-<td><p>Underdog﹙Roel﹚<br />
+<td><p><a href="../Page/Under_dog.md" title="wikilink">Under dog</a>﹙Roel﹚<br />
 SOLO</p></td>
 <td><p>62</p></td>
 <td></td>

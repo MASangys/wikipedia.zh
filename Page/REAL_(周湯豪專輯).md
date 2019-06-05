@@ -1,4 +1,10 @@
-《**REAL**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手周湯豪的第三張](../Page/歌手.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，也是他由[金牌大風轉投](../Page/金牌大風_\(台灣\).md "wikilink")[太陽娛樂後睽違四年推出的第三張個人專輯](../Page/太陽娛樂文化.md "wikilink")。專輯於2016年10月15日開始發行。
+《**REAL**》是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[歌手周湯豪的第三張](../Page/歌手.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")，也是他由[金牌大風轉投](../Page/金牌大風_\(台灣\).md "wikilink")[太陽娛樂後睽違四年推出的第三張個人專輯](../Page/太陽娛樂文化.md "wikilink")。專輯於2016年10月15日開始發行\[1\]。
+
+## 背景
+
+專輯內的詞、曲、DJ、MV、視覺製作周湯豪均有份負責，務求將最真實的一面給觀眾；並且和國際百大DJ聯合製作，包括[Nicky
+Romero](../Page/尼基·羅米洛.md "wikilink")、、、、Ricky Remedy
+；更囊括多元風格，包括[EDM](https://zh.wikipedia.org/wiki/EDM "wikilink")、[Trap](../Page/陷阱音樂.md "wikilink")、[流行](../Page/流行_\(音樂類型\).md "wikilink")、[搖滾](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")、[嘻哈](../Page/嘻哈.md "wikilink")、抒情、[R\&B](https://zh.wikipedia.org/wiki/R&B "wikilink")\[2\]。
 
 ## 曲目
 
@@ -16,10 +22,12 @@
 | [My Boo](https://www.youtube.com/watch?v=gfp-e7jm938)  | Ares Wu                                           | 2016年12月19日 |                 |    |
 |                                                        |                                                   |             |                 |    |
 
-## 外部連結
-
 ## 參考資料
 
 [Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
 [Category:周湯豪音樂專輯](https://zh.wikipedia.org/wiki/Category:周湯豪音樂專輯 "wikilink")
 [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")
+
+1.
+
+2.

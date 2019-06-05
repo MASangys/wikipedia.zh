@@ -9,13 +9,13 @@ M400**是一款由[西格&紹爾所研製和生產的縮短版本](../Page/西�
 
 自2007年到2010年的這4年裡，西格&紹爾美國分公司一直面向美國市場推陳出新，除了拳頭產品――[SIG
 P系列手槍以外](../Page/SIG_P220手槍.md "wikilink")，公司還研發了專門針對美國市場的[SIG
-SG 556系列突擊步槍／卡賓槍](../Page/SIG_SG_550突擊步槍.md "wikilink")。SIG SG
+SG 556系列突擊步槍／卡賓槍](../Page/SIG_SG_556突擊步槍.md "wikilink")。SIG SG
 556系列由採用AK核心部件的[SIG SG
 550突擊步槍所改進而來](../Page/SIG_SG_550突擊步槍.md "wikilink")，包括SIG
 SG 556基本型及SIG SG
 556經典型。前者為進入美國市場，採用許多美國本土零件，如AR系的槍機系統（但仍採用AK系活塞式導氣系統）、[槍托等](../Page/槍托.md "wikilink")，外觀看起來有些不倫不類；後者為迎合美國市場上“西格迷”的需求，仍採用前者的槍機系統及活塞導氣系統，但在外形上完全回歸了SG
 550，可說是“SG
-550的外衣包裹著AR系列的核心”。西格&紹爾美國分公司雖然在迎合消費者心理方面下了不少功夫，但並未在美國市場上引起大的反響，銷售情況也並非很理想。
+550的外衣包裹著AR系列的核心”。西格&紹爾美國分公司雖然在迎合消費者心理方面下了不少功夫，但並未在美國市場上引起大的反響，銷售情況也並非很理想。而結果亦很明顯：投放市場兩年以後宣佈下架。
 
 為了能夠真正融入美國市場，公司認為外形及操作習慣需更向AR系列步槍靠攏。明確了這個目標後，2010年，西格&紹爾美國分公司在SIG SG
 556基礎上推出了外形及內部機構更向AR系列步槍靠攏的活塞導氣型M16系列步槍，即SIG SG
@@ -154,12 +154,12 @@ WELD型，這款產品槍管與標準的M4系卡賓槍一樣，長度為368.3毫
       - [SIG Has Finally Made a Stock AR-15 Carbine, the M400
         (CORRECTION)](http://www.guns.com/2011/10/10/sig-has-finally-made-a-stock-ar-15-carbine/)
       - [SIG in 2011: A Year in
-        Review](http://www.guns.com/review/2011/11/12/sig-in-2011-a-year-in-review/)
+        Review](https://web.archive.org/web/20150313211356/http://www.guns.com/review/2011/11/12/sig-in-2011-a-year-in-review/)
       - [Guns.com Reports On This Years New Guns at the 2012 SHOT Show
         in Las
         Vegas](http://www.guns.com/2012/01/19/shot-show-las-vegas-2012-new-guns/)
       - [Gear Review: Sig Sauer Rifle GoBag (Coupon Code
-        Inside)](http://www.guns.com/review/2012/06/12/gear-review-sig-sauer-rifle-gobag/)
+        Inside)](https://web.archive.org/web/20150927044017/http://www.guns.com/review/2012/06/12/gear-review-sig-sauer-rifle-gobag/)
       - [SIG’s new M400 Varmint
         (VIDEO)](http://www.guns.com/2013/02/06/sigs-new-m400-varmint-video/)
       - [Chicago motorcycle club holding annual gun raffle; Proceeds to
@@ -174,7 +174,7 @@ WELD型，這款產品槍管與標準的M4系卡賓槍一樣，長度為368.3毫
       - [CMMG launching new Mk4 Varmint series
         rifles](http://www.guns.com/2014/07/31/cmmg-launching-new-mk4-varmint-series-rifles/)
       - [Is the SIG 516 Carbon the best AR-15 made?
-        (VIDEO)](http://www.guns.com/review/2014/10/09/is-the-sig-516-carbon-the-best-ar-15-made-video/)
+        (VIDEO)](https://web.archive.org/web/20150822055105/http://www.guns.com/review/2014/10/09/is-the-sig-516-carbon-the-best-ar-15-made-video/)
       - [Get a $200 SIG store credit with any SIG rifle or P220
         purchase](http://www.guns.com/2015/06/12/get-a-200-sig-store-credit-with-any-sig-rifle-or-p220-purchase/)
 

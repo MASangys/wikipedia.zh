@@ -2,12 +2,11 @@
 
 ## 概要
 
-1998年Marcus因製作[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")《[青澀之戀](https://zh.wikipedia.org/wiki/青澀之戀 "wikilink")》而聲名大噪，同年也在[東京電視台播放同名作品的](../Page/東京電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
+1998年，以[戀愛模擬遊戲](https://zh.wikipedia.org/wiki/戀愛模擬遊戲 "wikilink")《[青澀之戀](https://zh.wikipedia.org/wiki/青澀之戀 "wikilink")》讓公司一舉成名，同年也在[東京電視台播放同名作品的](../Page/東京電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。
 
 由於《青澀之戀》之續篇《青澀之戀2》的故事內容設定來個180度大轉變，讓外界震撼而引發不滿；又因為製作進度遲緩和歷經數次延期發售的影響，收益、評價、人氣各方面迅速陷入低迷。Marcus面臨[破產而解散](../Page/破產.md "wikilink")。之後，窪田和妻子另外成立繼承之前Marcus大多數作品的權利，而窪田以[筆名](../Page/筆名.md "wikilink")[六月十三投入動畫及遊戲軟體編劇](https://zh.wikipedia.org/wiki/六月十三 "wikilink")。
 
-[聲優團隊方面](../Page/聲優.md "wikilink")，被稱作的《青澀之戀》12位女主角的配音員當中，有6人是[青二Production的新人](../Page/青二製作.md "wikilink")，另外同期出道的[岡田純子](../Page/岡田純子.md "wikilink")、[岡本麻見](../Page/岡本麻見.md "wikilink")、[鈴木麗子](../Page/鈴木麗子.md "wikilink")、[今野宏美](../Page/今野宏美.md "wikilink")、[牧島有希](../Page/牧島有希.md "wikilink")、[西口有香](../Page/西口有香.md "wikilink")6人俗稱「
-()」。
+[聲優團隊方面](../Page/聲優.md "wikilink")，被稱作的《青澀之戀》12位女主角的配音員當中，有6人是[青二Production的新人](../Page/青二製作.md "wikilink")，另外同期出道的[岡田純子](../Page/岡田純子.md "wikilink")、[岡本麻見](../Page/岡本麻見.md "wikilink")、[鈴木麗子](../Page/鈴木麗子.md "wikilink")、[今野宏美](../Page/今野宏美.md "wikilink")、[牧島有希](../Page/牧島有希.md "wikilink")、[西口有香](../Page/西口有香.md "wikilink")6人俗稱「（<small></small>）」。
 
 ## 作品列表
 
@@ -15,11 +14,11 @@
 
 <!-- end list -->
 
-  - [青澀之戀](https://zh.wikipedia.org/wiki/青澀之戀 "wikilink")，又譯**青澀寶貝**（）（1998年）－Marcus製作的戀愛模擬電玩遊戲。
+  - [青澀之戀](https://zh.wikipedia.org/wiki/青澀之戀 "wikilink")，又譯**青澀寶貝**（1998年）－Marcus製作的戀愛模擬電玩遊戲。
 
-  - （）（動畫製作：[日昇動畫](../Page/日昇動畫.md "wikilink")，1998年）－原作戀愛模擬電玩遊戲改編電視動畫。
+  - （動畫製作：[日昇動畫](../Page/日昇動畫.md "wikilink")，1998年）－原作戀愛模擬電玩遊戲改編電視動畫。
 
-  - （）（2000年）
+  - （2000年）
 
 <!-- end list -->
 
@@ -27,15 +26,15 @@
 
 <!-- end list -->
 
-  - [守護者列傳](https://zh.wikipedia.org/wiki/守護者列傳 "wikilink")（）（製作公司：[SEGA](../Page/世嘉.md "wikilink")，1996年）－遊戲開頭動畫。
+  - [守護者列傳](https://zh.wikipedia.org/wiki/守護者列傳 "wikilink")（製作公司：[SEGA](../Page/世嘉.md "wikilink")，1996年）－遊戲開頭動畫。
 
-  - [少女捜査網](https://zh.wikipedia.org/wiki/少女捜査網 "wikilink")（）（OVA，1996年）－動畫製作。
+  - [少女捜査網](https://zh.wikipedia.org/wiki/少女捜査網 "wikilink")（OVA，1996年）－動畫製作。
 
   - （OVA，1996年）－動畫製作。
 
   - （企劃／製作，1998年）
 
-  - [西部曠野天使](../Page/西部曠野天使.md "wikilink")（）（原作，1999年發表）－Marcus破產後中止販售遊戲版。版權被[東寶賣掉作為](../Page/東寶.md "wikilink")[media
+  - [西部曠野天使](../Page/西部曠野天使.md "wikilink")（原作，1999年發表）－Marcus破產後中止販售遊戲版。版權被[東寶賣掉作為](../Page/東寶.md "wikilink")[media
     mix作品](https://zh.wikipedia.org/wiki/media_mix "wikilink")，2003年推出OVA（全1話，動畫製作：[OLM](../Page/OLM.md "wikilink")）。
 
 ## 過往所屬聲優

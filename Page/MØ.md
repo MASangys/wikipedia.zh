@@ -1,7 +1,8 @@
 [DJ Snake](https://zh.wikipedia.org/wiki/DJ_Snake "wikilink")\[1\] |
 website =  }}
 
-**卡伦·玛丽·阿佳拉德·奥斯特·安徒生**（，），又名**卡伦·玛丽·奥斯特**（），艺名**MØ**，丹麦创作型歌手，[索尼音乐娱乐签约艺人](https://zh.wikipedia.org/wiki/索尼音乐娱乐 "wikilink")。MØ被比作和之流的[电子流行乐艺人](https://zh.wikipedia.org/wiki/电子流行乐 "wikilink")\[2\]。MØ除了是她的中间名和姓的首字母缩写，在[丹麦语中有](../Page/丹麦语.md "wikilink")“[处女](../Page/处女.md "wikilink")”的意思\[3\]。她的首张录音室专辑《》于2014年3月发行\[4\]。
+**卡伦·玛丽·奥高·厄斯泰兹·安诺生**（，发音：\[kaʁn maʁij ogɔʁ ɶɐ̯sdɛð
+ˈɑnɐsn̩\]，），又名**卡伦·玛丽·厄斯泰兹**（），艺名**MØ**（发音：\[møːˀ\]），丹麦创作型歌手，[索尼音乐娱乐签约艺人](https://zh.wikipedia.org/wiki/索尼音乐娱乐 "wikilink")。MØ被比作和之流的[电子流行乐艺人](https://zh.wikipedia.org/wiki/电子流行乐 "wikilink")\[2\]。MØ除了是她的中间名和姓的首字母缩写，在[丹麦语中有](../Page/丹麦语.md "wikilink")“[处女](../Page/处女.md "wikilink")”的意思\[3\]。她的首张录音室专辑《》于2014年3月发行\[4\]。
 
 2014年，MØ与澳大利亚说唱歌手[伊基·阿塞莉娅发布的单曲](../Page/伊基·阿塞莉娅.md "wikilink")《》于美国[公告牌百强单曲榜上位列第](https://zh.wikipedia.org/wiki/公告牌百强单曲榜 "wikilink")27，成为MØ首支登上该榜的单曲\[5\]。次年，MØ客串和[DJ
 Snake单曲](https://zh.wikipedia.org/wiki/DJ_Snake "wikilink")《[Lean
@@ -9,7 +10,7 @@ On](../Page/Lean_On.md "wikilink")》，该曲在众多国际榜单上高居榜�
 
 ## 早年
 
-MØ生于[欧登塞附近的](../Page/欧登塞.md "wikilink")\[6\]，在[菲英岛的埃尔斯托普](https://zh.wikipedia.org/wiki/菲英岛 "wikilink")（）村长大\[7\]。父亲弗朗斯·奥斯特（）是心理学家\[8\]\[9\]，母亲梅特·奥斯特（）是老师，哥哥卡斯帕（）是医生\[10\]。
+MØ生于[欧登塞附近的](../Page/欧登塞.md "wikilink")\[6\]，在[菲英岛的埃尔斯托普](https://zh.wikipedia.org/wiki/菲英岛 "wikilink")（）村长大\[7\]。父亲弗兰斯·厄斯泰兹（）是心理学家\[8\]\[9\]，母亲梅特·厄斯泰兹（）是老师，哥哥卡斯帕（）是医生\[10\]。
 
 ## 生涯
 
@@ -22,7 +23,7 @@ MØ生于[欧登塞附近的](../Page/欧登塞.md "wikilink")\[6\]，在[菲英
 2012年，MØ创作[无伴奏合唱流行歌曲](https://zh.wikipedia.org/wiki/无伴奏合唱 "wikilink")，开始与制作人合作\[11\]。2013年1月14日，MØ发行个人首支单曲《玻璃》（）\[12\]。2013年3月15日，她发布《朝圣者》（）和B面《处女心》（）\[13\]。《朝圣者》因在名列第11，获丹麦广播电台新秀艺人头衔\[14\]\[15\]\[16\]。2013年3月27日，她在丹麦P3
 Guld大奖上首次电视表演。
 
-2013年6月7日，她发布单曲《浪费时间》（）\[17\]。2013年8月18日，据确认MØ与制作人、DJ[艾维奇的经纪人艾许](https://zh.wikipedia.org/wiki/艾维奇 "wikilink")·普诺里（）共同创作歌曲《亲爱的》（），她负责主唱。歌曲后来在[艾维奇个人首张专辑](https://zh.wikipedia.org/wiki/艾维奇 "wikilink")《》\[18\]。2013年8月30日，她发行单曲《XXX
+2013年6月7日，她发布单曲《浪费时间》（）\[17\]。2013年8月18日，据确认MØ与制作人、DJ[艾维奇的经纪人艾许](https://zh.wikipedia.org/wiki/艾维奇 "wikilink")·普诺里（）共同创作歌曲《亲爱的》（），她负责主唱。歌曲后来在[艾维奇个人首张专辑](https://zh.wikipedia.org/wiki/艾维奇 "wikilink")《[真实](https://zh.wikipedia.org/wiki/真实_\(专辑\) "wikilink")》\[18\]。2013年8月30日，她发行单曲《XXX
 88》\[19\]。MØ单飞后首张迷你专辑《》于2013年10月18日\[20\]。2013年10月，她助阵英巡演英国站\[21\]。单曲《不愿跳舞》（）于2014年1月16日以的Hottest
 Record名义，在[BBC广播一台首播](https://zh.wikipedia.org/wiki/BBC广播一台 "wikilink")\[22\]。
 
@@ -351,6 +352,8 @@ Yeahs](https://zh.wikipedia.org/wiki/Yeah_Yeah_Yeahs "wikilink")，特别是[音
   -
   -
 [Category:21世纪歌手](https://zh.wikipedia.org/wiki/Category:21世纪歌手 "wikilink")
+[Category:丹麦歌手](https://zh.wikipedia.org/wiki/Category:丹麦歌手 "wikilink")
+[Category:欧登塞人](https://zh.wikipedia.org/wiki/Category:欧登塞人 "wikilink")
 
 1.
 

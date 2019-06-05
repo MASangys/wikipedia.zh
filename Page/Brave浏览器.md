@@ -25,12 +25,13 @@ Software完成。\[5\]Brave于2016年1月20日由联合创始人[布蘭登·艾�
   -
 [Category:2016年软件](https://zh.wikipedia.org/wiki/Category:2016年软件 "wikilink")
 [Category:Mozilla](https://zh.wikipedia.org/wiki/Category:Mozilla "wikilink")
-[Category:Webkit衍生軟體](https://zh.wikipedia.org/wiki/Category:Webkit衍生軟體 "wikilink")
 [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink")
 [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
 [Category:自由跨平台软件](https://zh.wikipedia.org/wiki/Category:自由跨平台软件 "wikilink")
 [Category:自由网页浏览器](https://zh.wikipedia.org/wiki/Category:自由网页浏览器 "wikilink")
 [Category:网络广告](https://zh.wikipedia.org/wiki/Category:网络广告 "wikilink")
+[Category:基于Chromium的浏览器](https://zh.wikipedia.org/wiki/Category:基于Chromium的浏览器 "wikilink")
+[Category:Android网页浏览器](https://zh.wikipedia.org/wiki/Category:Android网页浏览器 "wikilink")
 
 1.
 2.

@@ -33,8 +33,6 @@
     American Institute of Physics, Niels Bohr Library and
     Archives](http://www.aip.org/history/ohilist/4572.html)
 
-[Category:1916年出生](https://zh.wikipedia.org/wiki/Category:1916年出生 "wikilink")
-[Category:1997年逝世](https://zh.wikipedia.org/wiki/Category:1997年逝世 "wikilink")
 [Category:美国天文学家](https://zh.wikipedia.org/wiki/Category:美国天文学家 "wikilink")
 [Category:美国物理学家](https://zh.wikipedia.org/wiki/Category:美国物理学家 "wikilink")
 [Category:美国国家科学奖获奖者](https://zh.wikipedia.org/wiki/Category:美国国家科学奖获奖者 "wikilink")

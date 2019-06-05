@@ -39,7 +39,7 @@ Official」）跟（バーチャルのじゃロリ狐娘youtuberおじさん，�
     FanFest](https://zh.wikipedia.org/wiki/YouTube_FanFest "wikilink")
   - [網紅](https://zh.wikipedia.org/wiki/網紅 "wikilink")
   - [在YouTube上訂閱人數最多的用戶列表](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")
-  - [台灣YouTuber訂閱人數排行榜](https://zh.wikipedia.org/wiki/台灣YouTuber訂閱人數排行榜 "wikilink")
+  - [台灣YouTube頻道訂閱人數排行榜](https://zh.wikipedia.org/wiki/台灣YouTube頻道訂閱人數排行榜 "wikilink")
 
 [Category:YouTuber](https://zh.wikipedia.org/wiki/Category:YouTuber "wikilink")
 [Category:網絡紅人](https://zh.wikipedia.org/wiki/Category:網絡紅人 "wikilink")

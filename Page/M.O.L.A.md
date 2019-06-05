@@ -1,7 +1,8 @@
 *' M.O.L.A**（），意指"**Make Our Life
-Awesome*'"，於2015年組成，於網絡平台發表音樂創作及Cover，成員來自不同經紀公司和團體，有[UNIQ的](../Page/UNIQ.md "wikilink")[曹承衍](../Page/曹承衍.md "wikilink")、Nathan、[15&的](https://zh.wikipedia.org/wiki/15& "wikilink")[朴智敏](../Page/朴智敏.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]
+Awesome*'"，於2015年組成的創作團體，於網絡平台發表音樂創作及Cover，成員來自不同經紀公司和團體，有[UNIQ的](../Page/UNIQ.md "wikilink")[曹承衍](../Page/曹承衍.md "wikilink")、Nathan、[15&的](https://zh.wikipedia.org/wiki/15& "wikilink")[朴智敏](../Page/朴智敏.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]
 
 2017年，加入新成員[PENTAGON的](../Page/Pentagon_\(男子組合\).md "wikilink")[Kino](https://zh.wikipedia.org/wiki/姜炯求 "wikilink")、[SEVENTEEN的](../Page/Seventeen_\(組合\).md "wikilink")[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")。\[6\]\[7\]
+其後，加入新成員HOHO。
 
 ## 成員資料
 
@@ -69,6 +70,16 @@ Awesome*'"，於2015年組成，於網絡平台發表音樂創作及Cover，成�
 <td><p><a href="../Page/Seventeen_(組合).md" title="wikilink">SEVENTEEN</a></p></td>
 <td><p><a href="../Page/Pledis娛樂.md" title="wikilink">Pledis娛樂</a></p></td>
 </tr>
+<tr class="even">
+<td><p>HOHO</p></td>
+<td><p>金豪鉉</p></td>
+<td><p>김호현</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>－</p></td>
+<td><p>－</p></td>
+<td><p>－</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -80,20 +91,22 @@ Awesome*'"，於2015年組成，於網絡平台發表音樂創作及Cover，成�
 
 ## 音樂創作及Cover
 
-| \# | 參與成員                                            | 歌曲名稱                       | 備註    |
-| -- | ----------------------------------------------- | -------------------------- | ----- |
-| 1  | 全體                                              | My Way (마이웨이)              |       |
-| 2  | Trick Or Treat (속았지?)                           |                            |       |
-| 3  | JIMIN×JAMIE                                     | No Make Up (Short. Ver)    |       |
-| 4  | WOODZ                                           | Sometimes (가끔)(Short Ver.) |       |
-| 5  | JIMIN×JAMIE                                     | Hotline Bling (Short Ver.) |       |
-| 6  | You Should Be Here                              | Cover                      |       |
-| 7  | Dangerous Woman                                 | Short Cover                |       |
-| 8  | NATHAN                                          | NATHAN Dream It            |       |
-| 9  | WOODZ                                           | Rehab                      |       |
-| 10 | 全體                                              | CHILLIN'                   |       |
-| 11 | CHILLIN' (+K, VERNON) (Remix) (Kino, Vernon 加入) |                            |       |
-| 12 | WOODZ                                           | DESPACITO                  | Cover |
+| \# | 參與成員                                            | 歌曲名稱                                   | 備註      |
+| -- | ----------------------------------------------- | -------------------------------------- | ------- |
+| 1  | 全體                                              | My Way (마이웨이)                          | Youtube |
+| 2  | Trick Or Treat (속았지?)                           |                                        |         |
+| 3  | JIMIN×JAMIE                                     | No Make Up (Short. Ver)                | Cover   |
+| 4  | WOODZ                                           | Sometimes (가끔)(Short Ver.)             | Cover   |
+| 5  | JIMIN×JAMIE                                     | Hotline Bling (Short Ver.)             | Cover   |
+| 6  | You Should Be Here                              | Cover                                  |         |
+| 7  | Dangerous Woman                                 | Short Cover                            |         |
+| 8  | NATHAN                                          | Dream It                               |         |
+| 9  | WOODZ                                           | Rehab                                  |         |
+| 10 | 全體                                              | CHILLIN'                               |         |
+| 11 | CHILLIN' (+K, VERNON) (Remix) (Kino, Vernon 加入) | Youtube                                |         |
+| 12 | WOODZ                                           | DESPACITO                              | Cover   |
+| 13 | NATHAN                                          | CRACK (cant wait)(feat. YUNGHOODIEBOI) |         |
+| 14 | WOODZ NATHAN                                    | DREAM (Full Demo version)              | Youtube |
 
 ## 音樂影音
 
@@ -114,8 +127,11 @@ M.O.L.A 連結
 個人連結
 
   -
-  - [Woodz](http://tw.weibo.com/5623075121)的新浪微博
+  -
+  - [Woodz](http://tw.weibo.com/5623075121)的新浪微博（繁）
 
+  -
+  -
   -
   -
   -

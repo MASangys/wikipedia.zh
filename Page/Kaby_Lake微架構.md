@@ -84,8 +84,8 @@ Lake处理器的Windows平台。微软表示这是为了能把资源专注于单
 5.
 6.
 7.
-8.  <http://forums.anandtech.com/showthread.php?p=37770548#post37770548>
-9.  <http://forums.anandtech.com/showthread.php?t=2454680>
+8.
+9.
 10. <https://software.intel.com/en-us/articles/whats-new-in-intel-media-sdk-r2>
 11. <https://software.intel.com/sites/default/files/mediasdk_release_notes.pdf>
 12. <https://blogs.windows.com/windowsexperience/2016/01/15/windows-10-embracing-silicon-innovation/>

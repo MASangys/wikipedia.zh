@@ -235,7 +235,7 @@
 <td><p>2019年1月29日[23]</p></td>
 <td><ul>
 <li>系統選單對應語言新增繁體中文、簡體中文及韓文。</li>
-<li>使用者頭像設定新增6款圖示供選擇，其中包括《<a href="../Page/新超级马里奥兄弟U.md" title="wikilink">新超级马里奥兄弟U</a>》。</li>
+<li>使用者頭像設定新增6款圖示可供選擇，其中包括《<a href="../Page/新超级马里奥兄弟U.md" title="wikilink">新超级马里奥兄弟U</a>》。</li>
 <li>錯誤修正與系統穩定性、使用便利性改善。</li>
 </ul></td>
 </tr>
@@ -250,7 +250,15 @@
 <tr class="odd">
 <td><p>8.0.0</p></td>
 <td><p>2019年4月16日[25]</p></td>
-<td></td>
+<td><ul>
+<li>可在HOME菜單中的「所有遊戲軟體」中對遊戲進行排序（需安裝13個軟體以上）。</li>
+<li>可在「新聞」程序中查看所有公布的資訊。</li>
+<li>使用者頭像設定新增多款圖示可供選擇，其中包括《Splatoon 2》和《<a href="../Page/耀西的手工世界.md" title="wikilink">耀西的手工世界</a>》。</li>
+<li>可讀取並遊玩已轉移至第二台主機上的遊戲存儲資料。</li>
+<li>可放大部份顯示畫面。</li>
+<li>主機設定上地區設定新增「<a href="../Page/香港.md" title="wikilink">香港</a>」和「<a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a>」。</li>
+<li>主機設定上增加戶外設定。</li>
+</ul></td>
 </tr>
 <tr class="even">
 <td><p>8.0.1</p></td>

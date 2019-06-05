@@ -2,7 +2,7 @@
 Ansheles**（，），俄籍香港男性網絡紅人、模特兒、演員及節目主持，18歲時來港進修和加入[模特兒行業](../Page/模特兒.md "wikilink")。為了繼續在香港發展，修讀一年粵語課程，2016年起獲邀擔任
 [ViuTV](../Page/ViuTV.md "wikilink")
 節目主持，2017年參演個人首部電視劇，2019年推出首支派台廣東歌《麻麻哋
-Day》和創立首飾品牌「Earon」\[1\]。
+Day》和創立首飾品牌「[EARON](https://zh.wikipedia.org/wiki/EARON "wikilink")」\[1\]。
 
 ## 簡歷
 

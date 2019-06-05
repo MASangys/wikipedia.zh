@@ -6,17 +6,16 @@ Virtual Machine 2（AVM2），是[Adobe Flash Player
 ## 發展
 
 2006年11月7日，ActionScript Virtual Machine
-2宣佈[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，並將程式碼捐贈給[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")\[2\]，貢獻的代碼大約是135,000行代碼\[3\]，使其成為Mozilla計畫中除了[Netscape本身之外最大的單一代碼捐贈](https://zh.wikipedia.org/wiki/Netscape "wikilink")\[4\]，這將貢獻於Mozilla和Adobe
-Systems下一代的[JavaScript引擎和](../Page/JavaScript引擎.md "wikilink")[ActionScript引擎](../Page/ActionScript.md "wikilink")\[5\]。
+2宣佈[開放原始碼](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，並將程式碼捐贈給[Mozilla基金會](../Page/Mozilla基金會.md "wikilink")\[2\]，貢獻的代碼大約是135,000行代碼\[3\]，成為自[Netscape以來向Mozilla計畫捐贈的最龐大代碼](https://zh.wikipedia.org/wiki/Netscape "wikilink")\[4\]。
 
-最初計畫將Tamarin作為Mozilla 2的一部分\[6\]（後來的[Firefox
-4](https://zh.wikipedia.org/wiki/Firefox_4 "wikilink")）。整合Tamarin和[SpiderMonkey的計畫被稱為](../Page/SpiderMonkey.md "wikilink")“ActionMonkey”\[7\]，但在2008年被取消\[8\]，原因是Tamarin的直譯結果比SpiderMonkey慢以及[ECMAScript
-4被棄用](../Page/ECMAScript.md "wikilink")\[9\]。
+最初計畫將Tamarin作為Mozilla 2的一部分\[5\]（後來的[Firefox
+4](https://zh.wikipedia.org/wiki/Firefox_4 "wikilink")）。整合Tamarin和[SpiderMonkey的計畫被稱為](../Page/SpiderMonkey.md "wikilink")“ActionMonkey”\[6\]，但在2008年被取消\[7\]，原因是Tamarin的直譯結果比SpiderMonkey慢以及[ECMAScript
+4被棄用](../Page/ECMAScript.md "wikilink")\[8\]。
 
 Tamarin在[Adobe Flash
-Player中繼續使用](../Page/Adobe_Flash_Player.md "wikilink")，但它並沒有取代[SpiderMonkey作為Mozilla的](../Page/SpiderMonkey.md "wikilink")[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")。
+Player中繼續使用](../Page/Adobe_Flash_Player.md "wikilink")，最後並沒有取代[SpiderMonkey作為Mozilla的](../Page/SpiderMonkey.md "wikilink")[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")。
 
-SpiderMonkey引擎仍使用著Tamarin一部分的NanoJIT，這是用於執行[即時編譯時產生原生碼的模塊](../Page/即時編譯.md "wikilink")\[10\]。
+SpiderMonkey引擎仍使用著Tamarin一部分的NanoJIT，這是用於執行[即時編譯時產生原生碼的模塊](../Page/即時編譯.md "wikilink")\[9\]。
 
 ## 參考資料
 
@@ -36,4 +35,3 @@ SpiderMonkey引擎仍使用著Tamarin一部分的NanoJIT，這是用於執行[�
 7.
 8.
 9.
-10.

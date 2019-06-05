@@ -111,7 +111,7 @@
 <td><p>Mnet、TvN</p></td>
 <td><p>《<a href="../Page/黄金铃鼓.md" title="wikilink">黄金铃鼓</a>》</p></td>
 <td><p>有情</p></td>
-<td><p>固定MC <a href="https://web.archive.org/web/20170115022741/http://m.allthatstar.com/tw/view.php?action=5205&amp;postID=286012">1</a>，<a href="https://www.youtube.com/watch?v=_3dJAheemlw&amp;list=PLIBmjIHzZF9n6yXMxQ6U_Ba6WEYKp2h7H">YouTube影片</a></p></td>
+<td><p>固定MC <a href="https://web.archive.org/web/20170115022741/http://m.allthatstar.com/tw/view.php?action=5205&amp;postID=286012%5D%EF%BC%8C%5Bhttps%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_3dJAheemlw&amp;list=PLIBmjIHzZF9n6yXMxQ6U_Ba6WEYKp2h7H">YouTube影片</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>12月20日－12月27日</p></td>
@@ -347,10 +347,45 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019年</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>2月27日－5月8日</p></td>
+<td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
+<td><p>《 <a href="../Page/My_Mad_Beauty_(第三季).md" title="wikilink">My Mad Beauty (第三季)</a> 》</p></td>
+<td><p>有情</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月4日－</p></td>
+<td><p><a href="../Page/Channel_A.md" title="wikilink">Channel A</a></p></td>
+<td><p>《 一起遊戲吧！GG》</p></td>
+<td><p>素慧</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月11日－6月</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p>《 <a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a> 》</p></td>
+<td><p>美娜</p></td>
+<td><p>泰國篇</p></td>
+</tr>
+<tr class="even">
+<td><p>5月18日－</p></td>
+<td><p><a href="../Page/TV朝鮮.md" title="wikilink">TV朝鮮</a></p></td>
+<td><p>《 <a href="https://zh.wikipedia.org/wiki/首先一起去吧" title="wikilink">首先一起去吧</a> 》</p></td>
+<td><p>素慧</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月19日－</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p>《 <a href="../Page/丫頭們.md" title="wikilink">丫頭們</a> 》</p></td>
+<td><p>有情</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -416,7 +451,7 @@
 <td><p>5月7日</p></td>
 <td><p>JTBC</p></td>
 <td><p>《<a href="../Page/認識的哥哥.md" title="wikilink">認識的哥哥</a>》[9]</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=GMx77ALAVjs">3</a> <a href="https://www.youtube.com/watch?v=qJs_Vj6nRgE">4</a> <a href="https://www.youtube.com/watch?v=8ux2OXBMhCo">5</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=GMx77ALAVjs">2</a> <a href="https://www.youtube.com/watch?v=qJs_Vj6nRgE">3</a> <a href="https://www.youtube.com/watch?v=8ux2OXBMhCo">4</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -432,7 +467,7 @@
 <td><p>tvN</p></td>
 <td><p>《SNL Korea7》</p></td>
 <td><p>YouTube 影片<br />
-<a href="https://www.youtube.com/watch?v=0wmeC5uQvAU">6</a> <a href="https://www.youtube.com/watch?v=7KO3d1VRoAs">7</a> <a href="https://www.youtube.com/watch?v=JfXknuzc-tk">8</a> <a href="https://www.youtube.com/watch?v=wIspdPHg3H8">9</a></p></td>
+<a href="https://www.youtube.com/watch?v=0wmeC5uQvAU">5</a> <a href="https://www.youtube.com/watch?v=7KO3d1VRoAs">6</a> <a href="https://www.youtube.com/watch?v=JfXknuzc-tk">7</a> <a href="https://www.youtube.com/watch?v=wIspdPHg3H8">8</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -441,7 +476,7 @@
 <td><p>5月8日</p></td>
 <td><p>《喜劇大聯盟》</p></td>
 <td><p>請夏、世正、昭彌</p></td>
-<td><p>短劇：<a href="https://www.youtube.com/watch?v=d7EVUR9IPok">10</a>、<a href="https://www.youtube.com/watch?v=AC8AnlLeTIw">11</a></p></td>
+<td><p>短劇：<a href="https://www.youtube.com/watch?v=d7EVUR9IPok">9</a>、<a href="https://www.youtube.com/watch?v=AC8AnlLeTIw">10</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -451,7 +486,7 @@
 <td><p>《<a href="../Page/姐姐們的Slam_Dunk.md" title="wikilink">姐姐們的Slam Dunk</a>》</p></td>
 <td><p>全員</p></td>
 <td><p>YouTube 影片<br />
-<a href="https://www.youtube.com/watch?v=XnaT6bbxA1s">12</a> <a href="https://www.youtube.com/watch?v=BZU9nLBRD_U">13</a></p></td>
+<a href="https://www.youtube.com/watch?v=XnaT6bbxA1s">11</a> <a href="https://www.youtube.com/watch?v=BZU9nLBRD_U">12</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -812,7 +847,7 @@
 <td><p>KBS2</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a>》</p></td>
 <td><p>女團特辑，演唱曲目<br />
-<a href="https://m.youtube.com/watch?v=QQ4rn_pLPwM">14</a><a href="https://m.youtube.com/watch?v=UFFAF2QqBtY">15</a><a href="https://m.youtube.com/watch?v=QC6B4U3Eao0">16</a></p></td>
+<a href="https://m.youtube.com/watch?v=QQ4rn_pLPwM">13</a><a href="https://m.youtube.com/watch?v=UFFAF2QqBtY">14</a><a href="https://m.youtube.com/watch?v=QC6B4U3Eao0">15</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1046,7 +1081,7 @@ MBC Music</p></td>
 <td><p>12月3日</p></td>
 <td><p>《<a href="../Page/認識的哥哥.md" title="wikilink">認識的哥哥</a>》</p></td>
 <td><p>全員</p></td>
-<td><p><a href="http://www.tvreport.co.kr/?c=news&amp;m=newsview&amp;idx=942465">17</a><a href="https://www.youtube.com/playlist?list=PL5qRfk4DowRAZvIwblM4RogSl5L8zr96P">Youtube影片</a></p></td>
+<td><p><a href="http://www.tvreport.co.kr/?c=news&amp;m=newsview&amp;idx=942465">16</a><a href="https://www.youtube.com/playlist?list=PL5qRfk4DowRAZvIwblM4RogSl5L8zr96P">Youtube影片</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1213,14 +1248,14 @@ MBC Music</p></td>
 | tvN                                                           | 《SNL Korea 9》                                                                                            | 世正、美娜                                                                               |                                                                                                              |                                                                                                                                                      |    |
 | 4月15日                                                         | Channel A                                                                                                | 《[五快男](../Page/五快男.md "wikilink")》                                                  | 彩妍                                                                                                           |                                                                                                                                                      |    |
 | 4月16日、23日                                                     | MBC                                                                                                      | 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》                                    | 世正                                                                                                           | 藝人評審團                                                                                                                                                |    |
-| 4月27日                                                         | FashionN                                                                                                 | 《[Follow Me8](https://zh.wikipedia.org/wiki/Follow_Me8 "wikilink")》                 | 请夏，彩妍                                                                                                        | [18](https://www.youtube.com/watch?v=nbd1stJs004)                                                                                                    |    |
+| 4月27日                                                         | FashionN                                                                                                 | 《[Follow Me8](https://zh.wikipedia.org/wiki/Follow_Me8 "wikilink")》                 | 请夏，彩妍                                                                                                        | [17](https://www.youtube.com/watch?v=nbd1stJs004)                                                                                                    |    |
 | 4月29日、5月6日                                                    | KBS2                                                                                                     | 《[演藝家中介](../Page/演藝家中介.md "wikilink")》                                              | 美娜                                                                                                           | 節目環節主持                                                                                                                                               |    |
 | 《[戰鬥旅行](../Page/戰鬥旅行.md "wikilink")》                          | 世正                                                                                                       | 一日MC                                                                                |                                                                                                              |                                                                                                                                                      |    |
 | 5月1日                                                          | JTBC                                                                                                     | 《[非首腦會談](https://zh.wikipedia.org/wiki/非首腦會談 "wikilink")》                           |                                                                                                              |                                                                                                                                                      |    |
 | KBS                                                           | 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》                                                           | 彩妍                                                                                  |                                                                                                              |                                                                                                                                                      |    |
 | SBS funE                                                      | 《[The Show Fan PD - DIY idol fan meeting](../Page/The_Show_Fan_PD_-_DIY_idol_fan_meeting.md "wikilink")》 | 娜榮、潔瓊                                                                               | 玩遊戲                                                                                                          |                                                                                                                                                      |    |
 | 5月5日                                                          | Mnet                                                                                                     | 《[PRODUCE 101 (第二季)](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》 | 素慧、有情、度延                                                                                                     | [預告](https://www.youtube.com/watch?v=BpJ5wJEL41w)，順位發表特別MC\[21\](素慧、有情、[昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink"))                    |    |
-| KBS                                                           | 《World Idol Show K-RUSH》                                                                                 | 彩妍                                                                                  | [19](https://m.youtube.com/watch?v=ZZnytNxmnNg)                                                              |                                                                                                                                                      |    |
+| KBS                                                           | 《World Idol Show K-RUSH》                                                                                 | 彩妍                                                                                  | [18](https://m.youtube.com/watch?v=ZZnytNxmnNg)                                                              |                                                                                                                                                      |    |
 | MBC                                                           | 《給予孩子新生命》                                                                                                | 世正、美娜                                                                               |                                                                                                              |                                                                                                                                                      |    |
 | 5月8日                                                          | TvN                                                                                                      | 《[把便利店掏空吧](../Page/把便利店掏空吧.md "wikilink")》                                          | 彩妍                                                                                                           |                                                                                                                                                      |    |
 | 5月9日                                                          | KBS2                                                                                                     | 《[寄宿房的女兒們](../Page/寄宿房的女兒們.md "wikilink")》                                          | 娜榮、潔瓊                                                                                                        |                                                                                                                                                      |    |
@@ -1449,19 +1484,48 @@ MBC Music</p></td>
 
 #### 2019年
 
-| 2019年 |- text-align:center;" | 放送日期       | **頻道**                                                                        | 節目名稱           | 成員 | 備註 |
-| ---------------------------- | ---------- | ----------------------------------------------------------------------------- | -------------- | -- | -- |
-| 1月4日                         | KBS2       | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》                 | 請夏             |    |    |
-| 1月7日                         | Vlive      | 《Idol Radio》                                                                  |                |    |    |
-| 1月8日                         | JTBC       | 《[Idol Room](../Page/Idol_Room.md "wikilink")》                                |                |    |    |
-| 1月9日                         | Vlive      | 《Idol Radio》                                                                  | 延靜             |    |    |
-| 1月13日                        | SBS        | 《[Running Man](../Page/Running_Man.md "wikilink")》                            | 度延、請夏          |    |    |
-| 1月16日                        | MBC every1 | 《[一週偶像](https://zh.wikipedia.org/wiki/一週偶像 "wikilink")》                       | 延靜             |    |    |
-| 1月24日                        | KBS2       | 《[Happy Together](https://zh.wikipedia.org/wiki/Happy_Together "wikilink") 4》 | 請夏             |    |    |
-| 1月25日                        | Mnet       | 《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink") 6》                 | 延靜             |    |    |
-| 1月29日                        | SBS        | 《[深夜正式演藝](../Page/深夜正式演藝.md "wikilink") 》                                     | 請夏             |    |    |
-| 1月30日                        | MTV        | 《我愛偶像 》                                                                       | 世正             |    |    |
-| 2月4、5、6日                     | MBC        | 《[偶像明星運動會](../Page/偶像明星運動會.md "wikilink")》                                    | 世正、美娜、延靜、有情、度延 |    |    |
+| 2019年                                               |
+| --------------------------------------------------- |
+| 放送日期                                                |
+| 1月4日                                                |
+| 1月7日                                                |
+| 1月8日                                                |
+| 1月9日                                                |
+| 1月13日                                               |
+| 1月16日                                               |
+| 1月24日                                               |
+| 1月25日                                               |
+| 1月29日                                               |
+| 1月30日                                               |
+| 2月4日                                                |
+| 2月5、6日                                              |
+| MTV                                                 |
+| 2月15、22日                                            |
+| 2月24日                                               |
+| 3月25日                                               |
+| 3月30日                                               |
+| rowspan="2” |3月31日、4月7日                             |
+| 《[神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")》    |
+| 4月2日                                                |
+| 4月5日、4月12日                                          |
+| 4月10日                                               |
+| 4月12、19日                                            |
+| 4月14日                                               |
+| 4月17日                                               |
+| 4月20日                                               |
+| 4月28日                                               |
+| 5月1日                                                |
+| 5月7日                                                |
+| 5月8日                                                |
+| 5月10日                                               |
+| 5月11日                                               |
+| 5月12、19日                                            |
+| rowspan="2” |5月15日                                  |
+| [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink") |
+| 5月21日                                               |
+| 5月24日                                               |
+| 5月25日、6月1日                                          |
+| 5月26日、6月2日                                          |
 
 ## 主持
 
@@ -1929,7 +1993,7 @@ MBC Music</p></td>
 6.
 7.
 8.
-9.  [2](https://www.youtube.com/watch?v=FLHsa5DOTFk)[【I.O.I綜藝】I.O.I
+9.  [1](https://www.youtube.com/watch?v=FLHsa5DOTFk)[【I.O.I綜藝】I.O.I
     被迫再重新選成員?\!](http://www.vlovekpop.com/160605-ioi-knowing-brother/)
     vlovekpop
 10.

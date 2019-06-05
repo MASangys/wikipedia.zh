@@ -415,7 +415,7 @@ Core i3、i7等目前提供超线程技术。
 ## 外部链接
 
   - [Intel- Intel Source for Specification of Intel
-    Processor](http://processorfinder.intel.com/Default.aspx?notFound=ordCode)
+    Processor](https://web.archive.org/web/20090827002703/http://processorfinder.intel.com/Default.aspx?notFound=ordCode)
 
 [Category:计算机比较](https://zh.wikipedia.org/wiki/Category:计算机比较 "wikilink")
 [Category:Intel处理器](https://zh.wikipedia.org/wiki/Category:Intel处理器 "wikilink")

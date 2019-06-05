@@ -1,15 +1,14 @@
-《**Manga Time Kirara MAX**》（）是由芳文社发行的四格漫画杂志杂志。原则上于每月19日发售，B5尺寸。与《[Manga
-Time
+是由芳文社发行的四格漫画杂志杂志。原则上于每月19日发售，B5尺寸。与《[Manga Time
 Kirara](../Page/Manga_Time_Kirara.md "wikilink")》系列的其他杂志同属姐妹誌。杂志口号是“Dokidoki★Visual全开杂志”（）。
 
-## 内容
+## 簡介
 
 本杂志是继《[Manga Time
 Kirara](../Page/Manga_Time_Kirara.md "wikilink")》,《[Manga Time
 Kirara
 Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三本“Kirara”系列杂志。创刊时期，由于相较其他姐妹志创刊较迟，几乎所有的版面都是新人作家、由“Kirara”系列出道的作家或是其他领域作家的作品。
 
-## 历史
+## 歷史
 
 ### 增刊
 
@@ -82,8 +81,8 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <table>
 <thead>
 <tr class="header">
-<th><p>中文标题</p></th>
-<th><p>日文标题</p></th>
+<th><p>中译标题</p></th>
+<th><p>原文标题</p></th>
 <th><p>作者</p></th>
 <th><p>客串</p></th>
 <th><p>连载开始</p></th>
@@ -138,7 +137,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td><p>2017年5月号-6月号</p></td>
 <td><p>2017年8月号</p></td>
-<td></td>
+<td><p>2019年7月号完结</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -234,7 +233,15 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>宇崎</p></td>
 <td><p>2019年2月号-4月号</p></td>
 <td><p>2019年6月号</p></td>
-<td><p>&lt;!--|-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2019年1月号-3月号</p></td>
+<td><p>2019年7月号</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -250,8 +257,8 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <table>
 <thead>
 <tr class="header">
-<th><p>中文标题</p></th>
-<th><p>日文标题</p></th>
+<th><p>中译标题</p></th>
+<th><p>原文标题</p></th>
 <th><p>作者</p></th>
 <th><p>连载前客串</p></th>
 <th><p>连载开始</p></th>
@@ -260,6 +267,24 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 </tr>
 </thead>
 <tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>Vol. 1</p></td>
+<td><p>2007年6月号</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>MR+</p></td>
+<td></td>
+<td><p>2005年4月号</p></td>
+<td><p>2007年8月号</p></td>
+<td><p>未出版单行本</p></td>
+</tr>
 <tr class="odd">
 <td></td>
 <td></td>
@@ -311,8 +336,8 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 </colgroup>
 <thead>
 <tr class="header">
-<th><p>中文标题</p></th>
-<th><p>日文标题</p></th>
+<th><p>中译标题</p></th>
+<th><p>原文标题</p></th>
 <th><p>作者</p></th>
 <th><p>连载前客串</p></th>
 <th><p>连载开始</p></th>
@@ -325,7 +350,7 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td></td>
 <td></td>
-<td><p>rowspan=13 </p></td>
+<td><p>rowspan=17 </p></td>
 <td><p>Vol. 1</p></td>
 <td><p>2009年6月号</p></td>
 <td></td>
@@ -423,8 +448,44 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <tr class="even">
 <td></td>
 <td></td>
+<td><p>鸡子</p></td>
+<td><p>2006年8月号</p></td>
+<td><p>单行本由<a href="../Page/一迅社.md" title="wikilink">一迅社出版</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2006年9月号</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/完全版漫画" title="wikilink">完全版由</a>出版</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>一智啓</p></td>
+<td><p>2007年6月号</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/白雪诗音" title="wikilink">白雪诗音</a></p></td>
 <td><p>2009年1月号</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2007年7月号</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -459,6 +520,25 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <tr class="even">
 <td></td>
 <td></td>
+<td></td>
+<td><p>rowspan=2 </p></td>
+<td><p>2005年8月号</p></td>
+<td><p>2006年11月号</p></td>
+<td><p>之后刊登于《》<br />
+单行本由<a href="../Page/JIVE.md" title="wikilink">JIVE出版</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>来栖達也</p></td>
+<td><p>2006年4月号</p></td>
+<td><p>未出版单行本</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
 <td><p>大和狸</p></td>
 <td><p>2005年9月号</p></td>
 <td><p>2005年10月号</p></td>
@@ -470,20 +550,29 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿倍野茶子" title="wikilink">阿倍野茶子</a></p></td>
 <td><p>2008年7月号</p></td>
-<td></td>
+<td><p>不是四格漫画</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/东由希" title="wikilink">东由希</a></p></td>
 <td></td>
-<td><p>2005年7-8、10月号</p></td>
 <td><p>2005年11月号</p></td>
-<td><p>2009年10月号</p></td>
+<td><p>2006年12月号</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2005年7-8、10月号</p></td>
+<td><p>2009年10月号</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/迷糊探险队" title="wikilink">迷糊探险队</a></p></td>
 <td></td>
 <td></td>
@@ -491,6 +580,15 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <td><p>2014年2月号</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>永和</p></td>
+<td><p>2005年11月号</p></td>
+<td><p>2005年12月号</p></td>
+<td><p>2006年11月号</p></td>
+<td><p>未出版单行本</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -504,19 +602,73 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <tr class="odd">
 <td></td>
 <td></td>
+<td><p>神武</p></td>
+<td></td>
+<td><p>2006年4月号</p></td>
+<td><p>2007年1月号</p></td>
+<td><p>未出版单行本</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>高藤</p></td>
+<td></td>
+<td><p>2006年5月号</p></td>
+<td><p>2007年2月号</p></td>
+<td><p>未出版单行本</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>松平鶴次郎侍</p></td>
+<td><p>2006年2-5月号</p></td>
+<td><p>2006年6月号</p></td>
+<td><p>2006年7月号</p></td>
+<td><p>未出版单行本</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
 <td></td>
 <td><p>2006年7-8月号</p></td>
 <td><p>2006年9月号</p></td>
 <td><p>2011年1月号</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2007年2月号</p></td>
+<td><p>收录至<a href="../Page/JIVE.md" title="wikilink">JIVE出版的同标题作品集</a></p></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td></td>
-<td><p>2006年9-11月号</p></td>
+<td></td>
 <td><p>2006年12月号</p></td>
+<td><p>2007年7月号</p></td>
+<td><p>单行本由<a href="../Page/JIVE.md" title="wikilink">JIVE出版</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>荒木風羽</p></td>
+<td><p>2006年9-11月号</p></td>
+<td><p>2007年10月号</p></td>
+<td><p>未出版单行本</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
 <td><p>2009年11月号</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -540,10 +692,28 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 <tr class="odd">
 <td></td>
 <td></td>
+<td><p>藍川</p></td>
+<td></td>
+<td><p>2007年3月号</p></td>
+<td><p>2007年8月号</p></td>
+<td><p>收录至<a href="../Page/JIVE.md" title="wikilink">JIVE出版的</a>《もえくりこ》</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
 <td><p>浅叶</p></td>
 <td></td>
 <td><p>2007年2月号</p></td>
 <td><p>2008年2月号</p></td>
+<td><p>未出版单行本</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>氏家</p></td>
+<td></td>
+<td><p>2007年4月号</p></td>
+<td><p>2007年11月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
 <tr class="even">
@@ -1293,23 +1463,25 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》之后，创刊的第三
 </tbody>
 </table>
 
-## 相关项目
+## 註解
+
+## 參考文獻
+
+## 參見
 
   - [Manga Time Kirara](../Page/Manga_Time_Kirara.md "wikilink")
-  - [芳文社](../Page/芳文社.md "wikilink")
+  - [Manga Time Kirara
+    Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")
+  - [Manga Time Kirara
+    Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")
+  - [Manga Time Kirara
+    Miracle\!](../Page/Manga_Time_Kirara_Miracle!.md "wikilink")
 
-## 备注
+## 外部連結
 
-<div style="{{column-count|3}}">
+  - [Manga Time Kirara MAX](http://www.dokidokivisual.com/magazine/max/)
 
-</div>
-
-## 参考来源
-
-## 外部链接
-
-  - [Manga TIme Kirara Web](http://www.dokidokivisual.com/)
-
+  -
 [Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink")
 [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
 [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")

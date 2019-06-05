@@ -41,7 +41,7 @@
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -52,7 +52,7 @@
 <td><p>7月11日<br />
 <small>(<em>6月21日</em>)</small></p></td>
 <td><p><a href="../Page/李孝利.md" title="wikilink">李孝利</a>、<a href="../Page/黄正音.md" title="wikilink">黃正音</a>[1]</p></td>
-<td><p><a href="http://www.timessquare.co.kr/cn/">時代廣場</a><br />
+<td><p><a href="https://web.archive.org/web/20120717014430/http://www.timessquare.co.kr/cn/">時代廣場</a><br />
 <small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="https://zh.wikipedia.org/wiki/永登浦區" title="wikilink">永登浦區</a>)</small></p></td>
 <td><p><span style=color:#FF0000><strong>便宜隊</strong></span><br />
@@ -302,7 +302,7 @@
 <td><p>10月17日<br />
 <small>(<em>9月27日</em>)</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/朴修映" title="wikilink">Lizzy</a>(<a href="../Page/After_School.md" title="wikilink">After School</a>)</p></td>
-<td><p><a href="http://safe119.seoul.go.kr/mainpage.htm">波拉美安全體驗館</a><br />
+<td><p><a href="https://web.archive.org/web/20121202042415/https://safe119.seoul.go.kr/mainpage.htm">波拉美安全體驗館</a><br />
 <small>(<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/銅雀區.md" title="wikilink">銅雀區</a>)</small></p></td>
 <td><p><span style=color:#FF0000><strong>追擊隊</strong></span><br />

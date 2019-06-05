@@ -32,26 +32,28 @@ NINE**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天娛
 
 ### 網絡劇
 
-| 播映年份  | 劇名                                                              | 播出平台                                                  | 出演成员 | 角色  |
-| ----- | --------------------------------------------------------------- | ----------------------------------------------------- | ---- | --- |
-| 2016年 | [超星星學園](https://zh.wikipedia.org/wiki/超星星學園 "wikilink")         | [騰訊視頻](../Page/腾讯视频.md "wikilink")                    | 肖戰   | 方天擇 |
-| 伍嘉成   | 沈昊                                                              |                                                       |      |     |
-| 彭楚粵   | 李亞當                                                             |                                                       |      |     |
-| 谷嘉誠   | 蘇格拉底                                                            |                                                       |      |     |
-| 郭子凡   | 周董                                                              |                                                       |      |     |
-| 趙磊    | 毛子尖                                                             |                                                       |      |     |
-| 陳澤希   | 傅立葉                                                             |                                                       |      |     |
-| 2018年 | [我的法則·辦公室篇](https://zh.wikipedia.org/wiki/我的法則·辦公室篇 "wikilink") | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink") | 夏之光  | 光光  |
-| 2018年 | [哦！我的皇帝陛下](../Page/哦！我的皇帝陛下.md "wikilink")                      | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink") | 谷嘉誠  | 北堂弈 |
-| 伍嘉成   | 北堂棠                                                             |                                                       |      |     |
-| 肖戰    | 北堂墨染                                                            |                                                       |      |     |
-| 彭楚粵   | 白無塵                                                             |                                                       |      |     |
-| 陳澤希   | 蘇尋仙                                                             |                                                       |      |     |
-| 焉栩嘉   | 尚羽                                                              |                                                       |      |     |
-| 郭子凡   | 北堂靖                                                             |                                                       |      |     |
-| 趙磊    | 谷磊                                                              |                                                       |      |     |
-| 夏之光   | 瑶光                                                              |                                                       |      |     |
-|       |                                                                 |                                                       |      |     |
+| 播映年份  | 劇名                                                              | 播出平台                                                                                     | 出演成员 | 角色  |
+| ----- | --------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---- | --- |
+| 2016年 | [超星星學園](https://zh.wikipedia.org/wiki/超星星學園 "wikilink")         | [騰訊視頻](../Page/腾讯视频.md "wikilink")                                                       | 肖戰   | 方天擇 |
+| 伍嘉成   | 沈昊                                                              |                                                                                          |      |     |
+| 彭楚粵   | 李亞當                                                             |                                                                                          |      |     |
+| 谷嘉誠   | 蘇格拉底                                                            |                                                                                          |      |     |
+| 郭子凡   | 周董                                                              |                                                                                          |      |     |
+| 趙磊    | 毛子尖                                                             |                                                                                          |      |     |
+| 陳澤希   | 傅立葉                                                             |                                                                                          |      |     |
+| 2018年 | [我的法則·辦公室篇](https://zh.wikipedia.org/wiki/我的法則·辦公室篇 "wikilink") | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")                                    | 夏之光  | 光光  |
+| 2018年 | [哦！我的皇帝陛下](../Page/哦！我的皇帝陛下.md "wikilink")                      | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")                                    | 谷嘉誠  | 北堂弈 |
+| 伍嘉成   | 北堂棠                                                             |                                                                                          |      |     |
+| 肖戰    | 北堂墨染                                                            |                                                                                          |      |     |
+| 彭楚粵   | 白無塵                                                             |                                                                                          |      |     |
+| 陳澤希   | 蘇尋仙                                                             |                                                                                          |      |     |
+| 焉栩嘉   | 尚羽                                                              |                                                                                          |      |     |
+| 郭子凡   | 北堂靖                                                             |                                                                                          |      |     |
+| 趙磊    | 谷磊                                                              |                                                                                          |      |     |
+| 夏之光   | 瑶光                                                              |                                                                                          |      |     |
+| 待播    | [极限17·滑魂](https://zh.wikipedia.org/wiki/极限17·滑魂 "wikilink")     | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")/[芒果TV](../Page/芒果TV.md "wikilink") | 郭子凡  | 楊步凡 |
+| 陳澤希   | 陳晞文                                                             |                                                                                          |      |     |
+|       |                                                                 |                                                                                          |      |     |
 
 ### 電視劇
 
@@ -159,20 +161,27 @@ NINE**)是[中國](https://zh.wikipedia.org/wiki/中國大陸 "wikilink")[天娛
 <td><p>季杨杨</p></td>
 </tr>
 <tr class="even">
+<td><p>待播</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陪你到世界之巅" title="wikilink">陪你到世界之巅</a></p></td>
+<td><p>未知</p></td>
+<td><p>焉栩嘉</p></td>
+<td><p>夏凌</p></td>
+</tr>
+<tr class="odd">
 <td><p>拍摄中</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/斗罗大陆_(电视剧)" title="wikilink">斗罗大陆</a></p></td>
 <td><p>未知</p></td>
 <td><p>肖戰</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>拍摄中</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南歌" title="wikilink">南歌</a></p></td>
 <td><p>未知</p></td>
 <td><p>谷嘉诚</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

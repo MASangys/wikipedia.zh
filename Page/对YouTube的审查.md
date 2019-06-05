@@ -67,12 +67,12 @@
 [Youtube_censored_TR2008.png](https://zh.wikipedia.org/wiki/File:Youtube_censored_TR2008.png "fig:Youtube_censored_TR2008.png")
 [YouTube_blocked_in_Turkey.jpg](https://zh.wikipedia.org/wiki/File:YouTube_blocked_in_Turkey.jpg "fig:YouTube_blocked_in_Turkey.jpg")
 
-土耳其法院自2007年3月開始曾數次禁止YouTube。第一次是2007年3月6日[土耳其一家地方法院判决封锁YouTube](../Page/土耳其.md "wikilink")，直至该网站删除侮辱土耳其国父[穆斯塔法·凯末尔·阿塔图尔克的视频为止](../Page/穆斯塔法·凯末尔·阿塔图尔克.md "wikilink")\[5\]。在YouTube律师稍后向该地方检察机关提供视频删除证明后，Youtube于2007年3月9日在土耳其恢复访问。其后由于此类视频在YouTube上反复出现，在2008年[土耳其又有多家法院前后数次发布封锁YouTube的禁令](../Page/土耳其.md "wikilink")\[6\]。此一禁止令直至2010年10月30日才解除\[7\]。在此期间，土耳其境内的用户在试图访问该网站时，会看到英语和土耳其语的“该网站已經被禁止访问”的提示\[8\]。儘管如此，該網站在土耳其仍可透過修改連接參數和使用備用的[網域名稱系統伺服器而被瀏覽](../Page/域名系统.md "wikilink")，根據Alexa的統計記錄，YouTube仍然是土耳其第9大最熱門的網站。2008年11月，[埃尔多安在一次访问中对记者說](https://zh.wikipedia.org/wiki/埃尔多安 "wikilink")：「我一直上Youtube，你也去上吧。」\[9\]以諷刺法院的禁止令。2010年6月，[土耳其總統](https://zh.wikipedia.org/wiki/土耳其總統 "wikilink")[阿卜杜拉·居爾亦在其](../Page/阿卜杜拉·居尔.md "wikilink")[Twitter帳戶上](../Page/Twitter.md "wikilink")，表達了反對土耳其封鎖YouTube的看法。他說這影響到許多Google在土耳其的服務，并称已指示官員尋找法律途徑讓YouTube能被允許訪問\[10\]。
+土耳其法院自2007年3月開始曾數次禁止YouTube。第一次是2007年3月6日[土耳其一家地方法院判决封锁YouTube](../Page/土耳其.md "wikilink")，直至该网站删除侮辱土耳其国父[穆斯塔法·凯末尔·阿塔图尔克的视频为止](../Page/穆斯塔法·凯末尔·阿塔图尔克.md "wikilink")\[5\]。在YouTube律师稍后向该地方检察机关提供视频删除证明后，YouTube于2007年3月9日在土耳其恢复访问。其后由于此类视频在YouTube上反复出现，在2008年[土耳其又有多家法院前后数次发布封锁YouTube的禁令](../Page/土耳其.md "wikilink")\[6\]。此一禁止令直至2010年10月30日才解除\[7\]。在此期间，土耳其境内的用户在试图访问该网站时，会看到英语和土耳其语的“该网站已經被禁止访问”的提示\[8\]。儘管如此，該網站在土耳其仍可透過修改連接參數和使用備用的[網域名稱系統伺服器而被瀏覽](../Page/域名系统.md "wikilink")，根據Alexa的統計記錄，YouTube仍然是土耳其第9大最熱門的網站。2008年11月，[埃尔多安在一次访问中对记者說](https://zh.wikipedia.org/wiki/埃尔多安 "wikilink")：「我一直上YouTube，你也去上吧。」\[9\]以諷刺法院的禁止令。2010年6月，[土耳其總統](https://zh.wikipedia.org/wiki/土耳其總統 "wikilink")[阿卜杜拉·居爾亦在其](../Page/阿卜杜拉·居尔.md "wikilink")[Twitter帳戶上](../Page/Twitter.md "wikilink")，表達了反對土耳其封鎖YouTube的看法。他說這影響到許多Google在土耳其的服務，并称已指示官員尋找法律途徑讓YouTube能被允許訪問\[10\]。
 
 在此一禁止令于2010年10月30日刚刚解除后，土耳其政治家丹尼斯·贝卡尔（Deniz
 Baykal）的视频导致该网站被短暂封锁，并被威胁如果网站不删除视频将受到新的封锁\[11\]。2014年3月27日，土耳其政府在一段描绘了土耳其的外交部长与情报官员、总司令讨论派兵进攻叙利亚圣战者武装的场景的视频被发布后的几个小时内封锁了YouTube\[12\]。随后一系列法院裁定该封锁应于2014年4月9日解除，但土耳其政府违抗法院的判决，继续封锁YouTube。直至5月29日，土耳其宪法法院发出判决，指此禁止令侵犯了宪法规定的言论自由权利，并命令恢复YouTube在土耳其的访问。
 
-2014年6月1日，Youtube在土耳其境内的访问才恢复。2015年4月6日，由于广泛传播一名在人质危机期间被杀的士兵的视频，YouTube再次被短暂封锁，同时被封锁的还有[Facebook和](../Page/Facebook.md "wikilink")[Twitter](../Page/Twitter.md "wikilink")。2016年12月23日，据互联网监测组织[土耳其封锁的报道](https://zh.wikipedia.org/wiki/土耳其封锁 "wikilink")，YouTube在土耳其再次无法访问，据称这是由于圣战者在该网站分享烧死被俘的土耳其士兵的视频\[13\]\[14\]。自12月25日起，该网站的访问重新恢复至今。
+2014年6月1日，YouTube在土耳其境内的访问才恢复。2015年4月6日，由于广泛传播一名在人质危机期间被杀的士兵的视频，YouTube再次被短暂封锁，同时被封锁的还有[Facebook和](../Page/Facebook.md "wikilink")[Twitter](../Page/Twitter.md "wikilink")。2016年12月23日，据互联网监测组织[土耳其封锁的报道](https://zh.wikipedia.org/wiki/土耳其封锁 "wikilink")，YouTube在土耳其再次无法访问，据称这是由于圣战者在该网站分享烧死被俘的土耳其士兵的视频\[13\]\[14\]。自12月25日起，该网站的访问重新恢复至今。
 
 ### 摩洛哥
 

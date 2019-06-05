@@ -1,4 +1,4 @@
-**DC影業**（）是一間設在美國[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[柏本克的公司](https://zh.wikipedia.org/wiki/柏本克_\(加利福尼亞州\) "wikilink")，隸屬於[華納兄弟和](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")[DC娛樂旗下的一個部門](https://zh.wikipedia.org/wiki/DC娛樂 "wikilink")，而兩者都屬於[時代華納所擁有](https://zh.wikipedia.org/wiki/時代華納 "wikilink")。其總裁為電影製片人。
+**DC影業**（）是一間設在美國[加利福尼亞州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[柏本克的公司](https://zh.wikipedia.org/wiki/柏本克_\(加利福尼亞州\) "wikilink")，隸屬於[華納兄弟和](https://zh.wikipedia.org/wiki/華納兄弟 "wikilink")[DC娛樂旗下的一個部門](https://zh.wikipedia.org/wiki/DC娛樂 "wikilink")，而兩者都屬於[華納媒體所擁有](../Page/華納媒體.md "wikilink")。其總裁為電影製片人。
 
 ## 管理層
 

@@ -171,7 +171,8 @@ Room**（；）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink"
 <td><p>18</p></td>
 <td><p>9月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/善美" title="wikilink">善美</a></p></td>
-<td><p>特别出演: <a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>、<a href="../Page/Umji.md" title="wikilink">Umji</a> (<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>)、<a href="../Page/磪有情.md" title="wikilink">磪有情</a> (<a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a>)</p></td>
+<td><p>特别出演: <a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>、<a href="../Page/Umji.md" title="wikilink">Umji</a> (<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a>)<br />
+<a href="../Page/磪有情.md" title="wikilink">磪有情</a> (<a href="../Page/Weki_Meki.md" title="wikilink">Weki Meki</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -241,13 +242,14 @@ Room**（；）是[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink"
 <td><p>28</p></td>
 <td><p>11月20日</p></td>
 <td><p><a href="../Page/本月少女.md" title="wikilink">本月少女</a>、<a href="https://zh.wikipedia.org/wiki/fromis_9" title="wikilink">fromis_9</a></p></td>
-<td><p>Go Won (本月少女)<ref>選擇方法：每輪剪刀石頭布遊戲：</p>
+<td><p>Go Won<br />
+(本月少女)<ref>選擇方法：每輪剪刀石頭布遊戲：</p>
 <p>第一輪：落敗Defconn的答案被淘汰<br />
 第二輪：只能與Defconn打平而晉級 （當時Loona 4人（Gowon， Kim Lip, JinSoul, Chu ）存活，Fromis_9張圭俐僅存）<br />
 第三輪：只能與Defconn打平而晉級 （只有Gowon出「布」，贏得比賽）</p>
 <p></ref></p></td>
-<td><p>2018新人女團特輯</p>
-<p>最多嘉賓出席的一集（21人）</p></td>
+<td><p>2018新人女團特輯<br />
+最多嘉賓出席的一集（21人）</p></td>
 </tr>
 <tr class="odd">
 <td><p>29</p></td>
@@ -296,7 +298,8 @@ Thank you Award</p></td>
 <th><p>集數</p></th>
 <th><p>放送日期</p></th>
 <th><p>嘉賓</p></th>
-<th><p>今日的PICK偶像</p></th>
+<th><p>今日的<br />
+PICK偶像</p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
@@ -393,7 +396,7 @@ Thank you Award</p></td>
 <a href="https://zh.wikipedia.org/wiki/金Samuel" title="wikilink">Samuel</a><br />
 Minnie、<a href="../Page/宋雨琦.md" title="wikilink">雨琦</a>、<a href="../Page/葉舒華.md" title="wikilink">舒華</a>(<a href="../Page/(G)I-DLE.md" title="wikilink">(G)I-DLE</a>)<br />
 <a href="../Page/王靖儀.md" title="wikilink">Soso</a> (<a href="https://zh.wikipedia.org/wiki/公園少女" title="wikilink">公園少女</a>)、<a href="../Page/髙田健太.md" title="wikilink">髙田健太</a>(<a href="https://zh.wikipedia.org/wiki/JBJ95" title="wikilink">JBJ95</a>)<br />
-<a href="https://zh.wikipedia.org/wiki/KOKORO" title="wikilink">KOKORO</a>、<a href="../Page/粼粼.md" title="wikilink">粼粼</a>(<a href="../Page/Cherry_Bullet.md" title="wikilink">Cherry Bullet</a>)</p></td>
+KOKORO、粼粼(<a href="../Page/Cherry_Bullet.md" title="wikilink">Cherry Bullet</a>)</p></td>
 <td></td>
 <td><p>外籍偶像特輯</p></td>
 </tr>
@@ -401,7 +404,7 @@ Minnie、<a href="../Page/宋雨琦.md" title="wikilink">雨琦</a>、<a href=".
 <td><p>47</p></td>
 <td><p>4月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a></p></td>
-<td><p>rowspan="2" </p></td>
+<td><p><a href="../Page/周子瑜.md" title="wikilink">周子瑜</a></p></td>
 <td><p>Idol Room 1週年特輯</p></td>
 </tr>
 <tr class="odd">
@@ -419,6 +422,41 @@ Minnie、<a href="../Page/宋雨琦.md" title="wikilink">雨琦</a>、<a href=".
 <td><p>偶像前後輩特輯</p></td>
 </tr>
 <tr class="odd">
+<td><p>50</p></td>
+<td><p>5月14日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/THE_BOYZ" title="wikilink">THE BOYZ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>51</p></td>
+<td><p>5月21日</p></td>
+<td><p><a href="../Page/GOT7.md" title="wikilink">GOT7</a></p></td>
+<td><p><a href="../Page/金有謙.md" title="wikilink">金有謙</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>52</p></td>
+<td><p>5月28日</p></td>
+<td><p><a href="../Page/WINNER.md" title="wikilink">WINNER</a></p></td>
+<td><p><a href="../Page/姜昇潤.md" title="wikilink">姜昇潤</a></p></td>
+<td><p>Idol 999 選拔開始</p></td>
+</tr>
+<tr class="even">
+<td><p>53</p></td>
+<td><p>6月4日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/fromis_9" title="wikilink">fromis_9</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>54</p></td>
+<td><p>6月11日</p></td>
+<td><p><a href="../Page/李遐怡.md" title="wikilink">李遐怡</a>、<a href="../Page/鄭承煥.md" title="wikilink">鄭承煥</a>、Paul Kim</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -493,6 +531,9 @@ Minnie、<a href="../Page/宋雨琦.md" title="wikilink">雨琦</a>、<a href=".
 | 47                                    | 4月23日   |
 | 48                                    | 4月30日   |
 | 49                                    | 5月7日    |
+| 50                                    | 5月14日   |
+| 51                                    | 5月21日   |
+| 52                                    | 5月28日   |
 |                                       |         |
 
 ## 備註

@@ -298,9 +298,6 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視�
 
 ## 外部連結
 
-[ja:ONE PIECE エピソードオブルフィ
-〜ハンドアイランドの冒険〜](https://zh.wikipedia.org/wiki/ja:ONE_PIECE_エピソードオブルフィ_〜ハンドアイランドの冒険〜 "wikilink")
-
 [Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink")
 [Category:ONE_PIECE特別篇](https://zh.wikipedia.org/wiki/Category:ONE_PIECE特別篇 "wikilink")
 [Category:2012年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2012年日本電視動畫 "wikilink")

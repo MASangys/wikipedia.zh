@@ -393,7 +393,7 @@ tagTV</p></td>
 1.  [企劃女團 I.B.I 將於8月中發表新曲](http://kpopn.niusnews.com/=K1onon40)
 2.
 3.  [I.B.I 預計18日出道，資料照片公開](http://kpopn.niusnews.com/=K255c760)
-4.  [智淑變身攝影師為 I.B.I 拍個人資料照片](http://kpopn.niusnews.com/=K0nnhol9)
+4.
 5.  [女團I.B.I出道Showcase　熱唱新歌《悄悄》](http://www.koreastardaily.com/tc/news/82994)
 6.  [I.B.I韓惠利公開出道感言
     今晚首度亮相《MCD》](http://www.allthatstar.com/tw/view.php?action=5205&postID=267897)

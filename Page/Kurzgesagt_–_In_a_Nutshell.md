@@ -1,6 +1,6 @@
 **Kurzgesagt – In a
 Nutshell**（前名**Kurzgesagt**）是一个位於[慕尼黑的](../Page/慕尼黑.md "wikilink")[YouTube频道與設計工作室](../Page/YouTube.md "wikilink")。由Philipp
-Dettmer於2013年創立，拥有700多万订阅者，是YouTube排名前20的德国频道\[1\]。
+Dettmer於2013年創立，拥有882多万订阅者，是YouTube排名前20的德国频道\[1\]。
 
 ## 名稱
 

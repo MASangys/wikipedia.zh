@@ -1,7 +1,7 @@
 是一款2000年发行的[隱蔽類遊戲](https://zh.wikipedia.org/wiki/隱蔽類遊戲 "wikilink")，由開發，[Eidos
 Interactive發行](https://zh.wikipedia.org/wiki/Eidos_Interactive "wikilink")。與前作《[神偷：暗黑計劃](https://zh.wikipedia.org/wiki/神偷：暗黑計劃 "wikilink")》相同，遊戲主角為神偷，在[蒸汽朋克大都會](../Page/蒸汽朋克.md "wikilink")「城市」中逐步揭曉一股新勢力的陰謀。
 
-遊戲設計以前作為基礎，回應了玩家對前作的意見反饋，改以市區潛行為核心，同時減少使用怪物敵人和迷宮關卡。遊戲於1999年[E3遊戲展公佈](https://zh.wikipedia.org/wiki/E3 "wikilink")，作為望遠鏡工作室與Edios之間發行神偷系列遊戲合約的延續。工作室在遊戲開發時已面臨破產，以Eidos預付資金繼續營運。
+遊戲設計以前作為基礎，回應了玩家對前作的意見反饋，改以市區潛行為核心，同時減少使用怪物敵人和迷宮關卡。遊戲於1999年[E3遊戲展公佈](../Page/E3电子娱乐展.md "wikilink")，作為望遠鏡工作室與Edios之間發行神偷系列遊戲合約的延續。工作室在遊戲開發時已面臨破產，以Eidos預付資金繼續營運。
 
 遊戲獲正面評價，初期銷情勝於前作，但工作室財政狀況因遲遲未獲遊戲專利費而雪上加霜，最終在2000年5月關閉，續作《神偷III》開發計劃亦被取消。系列第三作《》交由[離子風暴工作室開發](https://zh.wikipedia.org/wiki/離子風暴 "wikilink")，由Eidos於2004年發行。
 
@@ -52,7 +52,7 @@ Carlson）與，以及望遠鏡工作室合約員工被顧用為全職設計師\
 
 ### 公開及中期製作
 
-遊戲在1999年5月13日於[E3遊戲展中公佈](https://zh.wikipedia.org/wiki/E3 "wikilink")，作為望遠鏡工作室與[Eidos
+遊戲在1999年5月13日於[E3遊戲展中公佈](../Page/E3电子娱乐展.md "wikilink")，作為望遠鏡工作室與[Eidos
 Interactive於](https://zh.wikipedia.org/wiki/Eidos_Interactive "wikilink")5月7日（遊戲開發工作展開後約三個月）簽署之合約\[117\]一部分：以《[神偷：黃金](https://zh.wikipedia.org/wiki/神偷：暗黑計劃 "wikilink")》為首作，為《》推出四款遊戲\[118\]\[119\]。遊戲示範於E3中展出\[120\]\[121\]，展示更新版的黑暗引擎能造出著色光線、更細緻的角色模型和更大的環境\[122\]\[123\]。開發團隊表示他們加入了更多設有人類敵人的關卡\[124\]和預計發行日期為2000年春季\[125\]\[126\]，有關引進[多人合作模式的計劃亦在展覽中公開](https://zh.wikipedia.org/wiki/多人遊戲 "wikilink")\[127\]。[IGN成員傑森](../Page/IGN.md "wikilink")·比茨（Jason
 Bates）表示遊戲的展出造成了些微哄動且吸引了一小群忠實旁觀者\[128\]。
 

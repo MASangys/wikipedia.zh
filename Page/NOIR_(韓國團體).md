@@ -57,6 +57,15 @@ NOIR》主打歌《GANGSTA》正式出道。成員其中金淵國、柳晧淵、
 </ul></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><strong>3rd</strong></p></td>
+<td><p>《<strong>ABYSS</strong>》</p>
+<ul>
+<li>發行日期：2019年6月12日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

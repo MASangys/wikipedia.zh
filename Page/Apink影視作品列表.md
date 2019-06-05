@@ -246,6 +246,7 @@
 | 2016年             | 9月20日－10月12日                                             | [NAVER](../Page/NAVER.md "wikilink") V LIVE                       | 《[Extreme Adventure](https://zh.wikipedia.org/wiki/Extreme_Adventure "wikilink") 》\[2\]   |                                                             |
 | 2017年             | 4月28日－8月11日                                              | [NAVERV](../Page/NAVER.md "wikilink") LIVE+                       | 《尋找A Pink的"X-Pink"》                                                                       |                                                             |
 | 2018年             | 1月22日－2月5日                                               | [Naver V App](https://zh.wikipedia.org/wiki/Naver "wikilink")     | 《Racing Star with A Pink》                                                                 | 全員 [1](http://www.helloidol.com/tag/racing-star-with-apink) |
+| 2019年             | 5月8日－                                                    | [Naver V App](https://zh.wikipedia.org/wiki/Naver "wikilink")     | 《Everybody Ready\!》                                                                       | 全員                                                          |
 
 ### 固定綜藝節目
 
@@ -454,6 +455,8 @@
 | 1月6日        |
 | 1月6日        |
 | 3月15、22日    |
+| 5月16日       |
+| 5月25日       |
 
 ## 音樂錄影帶
 

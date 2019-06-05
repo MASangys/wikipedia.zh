@@ -163,7 +163,7 @@ NBA樂透抽籤是給予未能晉級[季後賽隊伍的](../Page/NBA季后赛.md
 <td><p><a href="../Page/1993年NBA选秀.md" title="wikilink">1993</a></p></td>
 <td><p><a href="../Page/奥兰多魔术.md" title="wikilink">奥兰多魔术</a><br />
 <small>（在選秀之夜傳給<a href="../Page/金州勇士.md" title="wikilink">金州勇士</a>）</small></p></td>
-<td><p>41–41 (第11差)</p></td>
+<td><p>41–41 (第十一差)</p></td>
 <td><p>1 (總計66)</p></td>
 <td><p>1.52%</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/克里斯·韋伯" title="wikilink">克里斯·韋伯</a></p></td>
@@ -283,7 +283,7 @@ NBA樂透抽籤是給予未能晉級[季後賽隊伍的](../Page/NBA季后赛.md
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/2008年NBA选秀" title="wikilink">2008</a></p></td>
 <td><p><a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a></p></td>
-<td><p>33–49 (第9差)</p></td>
+<td><p>33–49 (第九差)</p></td>
 <td><p>17 (總計1000)</p></td>
 <td><p>1.70%</p></td>
 <td><p><a href="../Page/德里克·罗斯.md" title="wikilink">德里克·罗斯</a></p></td>
@@ -333,7 +333,7 @@ NBA樂透抽籤是給予未能晉級[季後賽隊伍的](../Page/NBA季后赛.md
 <td><p><a href="https://zh.wikipedia.org/wiki/2014年NBA选秀" title="wikilink">2014</a></p></td>
 <td><p><a href="../Page/克里夫兰骑士.md" title="wikilink">克里夫兰骑士</a><br />
 <small>(此前與<a href="../Page/明尼苏达森林狼.md" title="wikilink">森林狼交易後</a>)</small></p></td>
-<td><p>33–49 (第9差)</p></td>
+<td><p>33–49 (第九差)</p></td>
 <td><p>17 (總計1000)</p></td>
 <td><p>1.70%</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/安德魯·威金斯" title="wikilink">安德魯·威金斯</a></p></td>
@@ -373,10 +373,10 @@ NBA樂透抽籤是給予未能晉級[季後賽隊伍的](../Page/NBA季后赛.md
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/2019年NBA选秀" title="wikilink">2019</a></p></td>
-<td></td>
-<td><p>0-0 (最差)</p></td>
-<td><p>250 (總計為1000)</p></td>
-<td><p>25.00%</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐澳良鵜鶘" title="wikilink">紐澳良鵜鶘</a></p></td>
+<td><p>33-49 (並列第七差)</p></td>
+<td><p>60 (總計為1000)</p></td>
+<td><p>6.00%</p></td>
 <td></td>
 </tr>
 <tr class="even">

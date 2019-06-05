@@ -31,10 +31,8 @@
 
   -
   -
-[Category:1965年出生](https://zh.wikipedia.org/wiki/Category:1965年出生 "wikilink")
 [Category:美国天文学家](https://zh.wikipedia.org/wiki/Category:美国天文学家 "wikilink")
 [Category:加州理工學院校友](https://zh.wikipedia.org/wiki/Category:加州理工學院校友 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 [Category:麦克阿瑟学者](https://zh.wikipedia.org/wiki/Category:麦克阿瑟学者 "wikilink")
 [Category:麻省理工學院校友](https://zh.wikipedia.org/wiki/Category:麻省理工學院校友 "wikilink")
 [Category:美国国家科学院院士](https://zh.wikipedia.org/wiki/Category:美国国家科学院院士 "wikilink")

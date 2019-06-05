@@ -1,4 +1,4 @@
-**Kotlin**是一種在[Java虛擬機上執行的](https://zh.wikipedia.org/wiki/Java虛擬機 "wikilink")[靜態型別](../Page/類型系統.md "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，它也可以被編譯成為[JavaScript原始碼](../Page/JavaScript.md "wikilink")。它主要是由俄羅斯[聖彼得堡的](https://zh.wikipedia.org/wiki/聖彼得堡 "wikilink")[JetBrains開發團隊所發展出來的程式語言](../Page/JetBrains.md "wikilink")，其名稱來自於聖彼得堡附近的[科特林島](https://zh.wikipedia.org/wiki/科特林島 "wikilink")。\[1\]2012年1月，著名期刊《》中Kotlin被认定为該月的最佳語言。\[2\]雖然与Java語法並不相容，但Kotlin被設計成可以和Java程式碼相互運作，並可以重複使用如[Java集合框架等的現有](../Page/Java集合框架.md "wikilink")[Java類別庫](https://zh.wikipedia.org/wiki/Java類別庫 "wikilink")。Hathibelagal写道，“如果你正在为Android开发寻找一种替代编程语言，那么应该试下Kotlin。它很容易在Android项目中替代Java或者同Java一起使用。”
+**Kotlin**是一種在[Java虛擬機上執行的](https://zh.wikipedia.org/wiki/Java虛擬機 "wikilink")[靜態型別](../Page/類型系統.md "wikilink")[程式語言](https://zh.wikipedia.org/wiki/程式語言 "wikilink")，它也可以被編譯成為[JavaScript原始碼](../Page/JavaScript.md "wikilink")。它主要是由[俄羅斯](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[聖彼得堡的](https://zh.wikipedia.org/wiki/聖彼得堡 "wikilink")[JetBrains開發團隊所發展出來的程式語言](../Page/JetBrains.md "wikilink")，其名稱來自於聖彼得堡附近的[科特林島](https://zh.wikipedia.org/wiki/科特林島 "wikilink")。\[1\]2012年1月，著名期刊《》中Kotlin被认定为該月的最佳語言。\[2\]雖然与Java語法並不相容，但Kotlin被設計成可以和Java程式碼相互運作，並可以重複使用如[Java集合框架等的現有](../Page/Java集合框架.md "wikilink")。Hathibelagal写道，“如果你正在为Android开发寻找一种替代编程语言，那么应该试下Kotlin。它很容易在Android项目中替代Java或者同Java一起使用。”
 
 ## 历史
 
@@ -56,8 +56,7 @@ fun sum(a: Int, b: Int): Int {
 Kotlin的main函数是不依赖类別的，所以main函数是一个top-level函数。支持[Perl和Unix](../Page/Perl.md "wikilink")/Linux
 [shell
 script的字符串插值](https://zh.wikipedia.org/wiki/shell_script "wikilink")（String
-interpolation），同樣也支持类型推定（[en:Type
-inference](https://zh.wikipedia.org/wiki/en:Type_inference "wikilink"))。
+interpolation），同樣也支持[类型推定](../Page/类型推论.md "wikilink")。
 
 ``` kotlin numberLines
 

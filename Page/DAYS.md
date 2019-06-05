@@ -6,7 +6,7 @@
 
 作品描寫主角柄本盡為初學者，進入了足球名校聖蹟高校之後與隊友們產生情誼、共同成長，還得到了隊友的讚賞\[1\]。
 
-在發行單行本時並收錄了在同雜誌連載的其他漫畫家的推薦文之中，第1冊收錄了[棒球漫畫](../Page/棒球.md "wikilink")《[鑽石王牌](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")》作者[寺嶋裕二的推薦文](../Page/寺嶋裕二.md "wikilink")，第2冊則收錄了[籃球漫畫](https://zh.wikipedia.org/wiki/籃球 "wikilink")《[籃球少年王](../Page/籃球少年王.md "wikilink")》作者[日向武史的推薦文](../Page/日向武史.md "wikilink")。
+在發行單行本時並收錄了在同雜誌連載的其他漫畫家的推薦文之中，第1冊收錄了[棒球漫畫](../Page/棒球.md "wikilink")《[鑽石王牌](../Page/鑽石王牌.md "wikilink")》作者[寺嶋裕二的推薦文](../Page/寺嶋裕二.md "wikilink")，第2冊則收錄了[籃球漫畫](https://zh.wikipedia.org/wiki/籃球 "wikilink")《[籃球少年王](../Page/籃球少年王.md "wikilink")》作者[日向武史的推薦文](../Page/日向武史.md "wikilink")。
 
 2015年入圍第39回[講談社漫畫賞少年部門的推薦作品](https://zh.wikipedia.org/wiki/講談社漫畫賞 "wikilink")\[2\]。
 

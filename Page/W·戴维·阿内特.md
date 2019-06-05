@@ -5,7 +5,6 @@
 
 [Category:劍橋大學校友](https://zh.wikipedia.org/wiki/Category:劍橋大學校友 "wikilink")
 [Category:加州理工學院校友](https://zh.wikipedia.org/wiki/Category:加州理工學院校友 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 [Category:莱斯大学教师](https://zh.wikipedia.org/wiki/Category:莱斯大学教师 "wikilink")
 [Category:亞利桑那大學教師](https://zh.wikipedia.org/wiki/Category:亞利桑那大學教師 "wikilink")
 [Category:芝加哥大學教師](https://zh.wikipedia.org/wiki/Category:芝加哥大學教師 "wikilink")

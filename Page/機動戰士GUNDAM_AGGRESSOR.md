@@ -67,6 +67,11 @@
 <td><p>2018年7月30日</p></td>
 <td><p>ISBN 978-4-09-128447-1</p></td>
 </tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2019年4月26日</p></td>
+<td><p>ISBN 978-4-09-129225-4</p></td>
+</tr>
 </tbody>
 </table>
 

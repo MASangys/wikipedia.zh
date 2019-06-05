@@ -11,11 +11,9 @@
   - <http://www.physics.umd.edu/grt/people/charles.html>
   - <http://www2.physics.umd.edu/~misner/cwmstud.pdf>
 
-[Category:1932年出生](https://zh.wikipedia.org/wiki/Category:1932年出生 "wikilink")
 [Category:美國天主教徒](https://zh.wikipedia.org/wiki/Category:美國天主教徒 "wikilink")
 [Category:美国物理学家](https://zh.wikipedia.org/wiki/Category:美国物理学家 "wikilink")
 [Category:古根海姆学者](https://zh.wikipedia.org/wiki/Category:古根海姆学者 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 [Category:普林斯顿大学校友](https://zh.wikipedia.org/wiki/Category:普林斯顿大学校友 "wikilink")
 [Category:相對論研究者](https://zh.wikipedia.org/wiki/Category:相對論研究者 "wikilink")
 [Category:馬里蘭大學教師](https://zh.wikipedia.org/wiki/Category:馬里蘭大學教師 "wikilink")

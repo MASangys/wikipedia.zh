@@ -374,7 +374,8 @@ Melon Soda Magic Love
 
 31.
 
-32. [ヤフオク\!](http://topic.auctions.yahoo.co.jp/promo/zero/) 2014年4月13日閲覧
+32. [ヤフオク\!](http://topic.auctions.yahoo.co.jp/promo/zero/)
+    2014年4月13日閲覧
 
 33.
 

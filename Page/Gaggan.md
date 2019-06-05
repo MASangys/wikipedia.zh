@@ -14,7 +14,7 @@
 ### 价格
 
 在开Gaggan之前，Anand曾在西班牙三星级 [米其林](../Page/米其林指南.md "wikilink")
-[分子烹饪](https://zh.wikipedia.org/wiki/分子食物 "wikilink") 餐厅
+[分子烹饪](../Page/分子食物.md "wikilink") 餐厅
 [elBulli](../Page/鬥牛犬餐廳.md "wikilink")
 工作。 厨师在Gaggan的菜单中加入了类似的品类，包括一个名为“羡慕不已”和一个为“美容和野兽”的菜品，其中土豆塞满无花果的绿色胡椒烤鸡肉串混杂着香菜泡沫。还有更新的技术，例如
 [吸烟](https://zh.wikipedia.org/wiki/熏 "wikilink") 和球化与这两个烟熏的威士忌一侧提供有 羊排

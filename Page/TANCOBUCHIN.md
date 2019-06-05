@@ -1,4 +1,4 @@
-**TANCOBUCHIN**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：たんこぶちん）是在[日本](../Page/日本.md "wikilink")[佐賀縣](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")[唐津市組成的五人](https://zh.wikipedia.org/wiki/唐津市 "wikilink")[女子搖滾樂團](https://zh.wikipedia.org/wiki/女子 "wikilink")，小學時代已組成。
+**TANCOBUCHIN**（[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")：たんこぶちん）是在[日本](../Page/日本.md "wikilink")[佐賀縣](https://zh.wikipedia.org/wiki/佐賀縣 "wikilink")[唐津市組成的五人](../Page/唐津市_\(日本\).md "wikilink")[女子搖滾樂團](https://zh.wikipedia.org/wiki/女子 "wikilink")，小學時代已組成。
 
 ## 概述
 

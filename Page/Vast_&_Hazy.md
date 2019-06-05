@@ -136,6 +136,7 @@ Studio）吳志寧協助發行第一張同名EP《Vast\&Hazy》，隨後因團�
   - 2012南面而歌 南方之星作曲人獎、南方之星演唱人獎
   - 2012原聲音樂節 原創樂團第一名
   - 2015第8屆Freshmusic Awards 最佳EP入圍
+  - 2018第12屆Freshmusic Awards 年度大躍進
 
 ## 參考資料
 

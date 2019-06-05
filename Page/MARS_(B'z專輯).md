@@ -1,8 +1,13 @@
-《**MARS**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z在](../Page/B'z.md "wikilink")1991年發行的第三張迷你專輯。
+《**MARS**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z於](../Page/B'z.md "wikilink")[1991年](../Page/1991年.md "wikilink")[5月29日由](../Page/5月29日.md "wikilink")[BMG
+VICTOR發行的第](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")3張迷你專輯。本專輯在BMG
+ROOMS（現：[VERMILLION
+RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）成立後，發售權留在了BMG
+ROOMS。
 
 ## 簡介
 
   - 於「B'z LIVE-GYM "Pleasure '91"」演唱會期間所出的專輯。
+  - 專輯的主題是「**可以跳舞的[硬式搖滾](../Page/硬式搖滾.md "wikilink")**」()。
   - 以兩首新曲和三首重新编曲并用英语演唱而构成的作品。
   - 「[孤獨的runaway](https://zh.wikipedia.org/wiki/jp:孤独のRunaway "wikilink")」的原曲是松本為女結他手[安宅美春提供作曲的同名單曲](https://zh.wikipedia.org/wiki/jp:安宅美春 "wikilink")。
   - 最終銷量約173.4萬張，是B'z最高銷量的迷你專輯，亦為日本最暢銷專輯第103名。

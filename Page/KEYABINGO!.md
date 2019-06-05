@@ -1,8 +1,8 @@
-《**KEYABINGO\!**》是日本女子偶像團體[櫸坂46冠名演出的深夜](../Page/櫸坂46.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[日本電視台製播](../Page/日本電視台.md "wikilink")，節目主持人由[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")（）擔任。自2016年首次推出以來已播出4[季](https://zh.wikipedia.org/wiki/季度 "wikilink")。
+《**KEYABINGO\!**》是日本女子偶像團體[櫸坂46冠名演出的深夜](../Page/櫸坂46.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，由[日本電視台製播](../Page/日本電視台.md "wikilink")，節目主持人由[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[三明治人擔任](../Page/三明治人.md "wikilink")。自2016年首次推出以來已播出4[季](https://zh.wikipedia.org/wiki/季度 "wikilink")。
 
 ## 概要
 
-作為[乃木坂46坂道系列而結成的姊妹團體](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")[櫸坂46繼](../Page/櫸坂46.md "wikilink")[AKB48的](../Page/AKB48.md "wikilink")《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》及乃木坂46的《[NOGIBINGO\!](../Page/NOGIBINGO!.md "wikilink")》之後，推出BINGO\!系列第三彈的節目。\[1\]《KEYABINGO\!》是以「誰能掌握綜藝，誰就掌握了整個演藝圈」為核心目標。\[2\]綜藝經驗甚少的櫸坂46成員們必須突破各式各樣的綜藝考驗\[3\]，成為有如AKB48及乃木坂46的國民偶像團體。\[4\]
+做為[乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")「[坂道系列](../Page/坂道系列.md "wikilink")」而結成的姊妹團體[櫸坂46](../Page/櫸坂46.md "wikilink")，繼[AKB48的](../Page/AKB48.md "wikilink")《[AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")》及乃木坂46的《[NOGIBINGO\!](../Page/NOGIBINGO!.md "wikilink")》之後，推出BINGO\!系列第三彈的節目。\[1\]《KEYABINGO\!》是以「誰能掌握綜藝，誰就掌握了整個演藝圈」為核心目標。\[2\]綜藝經驗甚少的櫸坂46成員們必須突破各式各樣的綜藝考驗\[3\]，成為有如AKB48及乃木坂46的國民偶像團體。\[4\]
 
 ## KEYABINGO\!
 
@@ -315,18 +315,18 @@
 
 ## KEYABINGO\! 4
 
-KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](https://zh.wikipedia.org/wiki/櫸坂46#平假名櫸坂46 "wikilink")」單獨演出，因此該季另有副標題「平假名櫸是甚麼？」（）。
+KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](https://zh.wikipedia.org/wiki/平假名櫸坂46 "wikilink")」（現[日向坂46](../Page/日向坂46.md "wikilink")）單獨演出，因此該季另有副標題「平假名櫸是甚麼？」（）。
 
 ### 演出人員
 
 **正式演出者**
 
   - 主持人
-      -
-  - [平假名櫸坂46](https://zh.wikipedia.org/wiki/櫸坂46#平假名櫸坂46 "wikilink")
-      - 平假名1期生 :
-        井口眞緒、潮紗理菜、柿崎芽實、影山優佳、加藤史帆、齊藤京子、佐佐木久美、佐佐木美玲、高瀨愛奈、高本彩花、東村芽依
-      - 平假名2期生 : 金村美玖、河田陽菜、、富田鈴花、丹生明里、濱岸日和、松田好花、宮田愛萌、渡邊美穗
+      - [三明治人](../Page/三明治人.md "wikilink")
+  - [平假名櫸坂46](https://zh.wikipedia.org/wiki/平假名櫸坂46 "wikilink")
+      - 1期生 :
+        井口真緒、潮紗理菜、柿崎芽實、影山優佳、、、[佐佐木久美](https://zh.wikipedia.org/wiki/佐佐木久美_\(偶像藝人\) "wikilink")、、高瀨愛奈、、東村芽依
+      - 2期生 : 金村美玖、河田陽菜、、富田鈴花、丹生明里、濱岸日和、松田好花、宮田愛萌、
 
 **其他演出者**
 
@@ -473,17 +473,17 @@ KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](h
 
 ### 參考
 
-## 內容連結
+## 參見
 
   - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")
   - [NOGIBINGO\!](../Page/NOGIBINGO!.md "wikilink")
 
-## 外部連結
+## 外部鏈結
 
   - [KEYABINGO\!](http://www.ntv.co.jp/KEYABINGO/) - 官方網站
   - [KEYABINGO\!2](http://www.ntv.co.jp/KEYABINGO2/) - 官方網站
   - [KEYABINGO\!3](http://www.ntv.co.jp/KEYABINGO3/) - 官方網站
-  - [KEYABINGO\!4平假名欅坂是甚麼？()](http://www.ntv.co.jp/KEYABINGO4/) - 官方網站
+  - [KEYABINGO\!4 平假名櫸是甚麼？](http://www.ntv.co.jp/KEYABINGO4/) - 官方網站
 
 {{ 電視節目的變遷|
 
@@ -502,11 +502,12 @@ KEYABINGO\!4有別於前三季，是由櫸坂46的子團「[平假名櫸坂46](h
 
 `  電視台   = `[`日本電視台`](../Page/日本電視台.md "wikilink")`|`
 `  播放檔次 = 週一25:29 - 25:59|`
-`  節目名稱 = KEYABINGO!4 平假名欅是甚麼？`
-`（2018.4.17 - ）|`
+`  節目名稱 = KEYABINGO!4 平假名櫸是甚麼？`
+`（2018.4.17 - 6.26）|`
 `  上一節目 = `
 `（2018.1.16 - 3.27）|`
-`  下一節目 = |`
+`  下一節目 = `
+`（2018.7.17 - 9.25）|`
 
 }}
 

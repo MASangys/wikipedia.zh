@@ -172,6 +172,8 @@ RS4正式版更新也会集成这个功能\[21\]。
 
 ## 升級途徑
 
+## Windows 10 版本功能比較圖表
+
 ## 參閱
 
   - [Windows 10](../Page/Windows_10.md "wikilink")/[Windows
@@ -208,8 +210,7 @@ RS4正式版更新也会集成这个功能\[21\]。
 
 11. [审查小组提出3个原则](https://finance.china.com/tech/13001906/20180926/34014413_1.html)
 
-12. [Windows 10
-    神州網信政府版已落地](https://hk.saowen.com/a/57e64ba5002717f5407bccc210c7d6b2ac3f3d250b7c8c959a1aa21ea1266461)
+12.
 
 13. [神州网信](http://www.cmgos.com/web/product/overview)
 

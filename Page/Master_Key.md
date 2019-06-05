@@ -273,8 +273,8 @@ Key》的固定成員\[5\]。該節目原本預定為12集，后改爲13集並�
 <td><p>12</p></td>
 <td><p>12月30日</p></td>
 <td><p><a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="https://zh.wikipedia.org/wiki/Seventeen" title="wikilink">珉奎</a>(<a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a>)、<a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>、<a href="https://zh.wikipedia.org/wiki/高圣熙" title="wikilink">高圣熙</a>、<a href="../Page/金桐俊.md" title="wikilink">金桐俊</a>(<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>)、<a href="https://zh.wikipedia.org/wiki/郑世云" title="wikilink">郑世云</a></p></td>
-<td></td>
-<td></td>
+<td><p>/</p></td>
+<td><p>/</p></td>
 <td><p><strong>全炫茂</strong>、<strong>珉奎</strong>獲勝</p></td>
 </tr>
 </tbody>
@@ -300,8 +300,8 @@ Key》的固定成員\[5\]。該節目原本預定為12集，后改爲13集並�
 <td><p>13</p></td>
 <td><p>1月6日</p></td>
 <td><p><a href="../Page/李壽根.md" title="wikilink">李壽根</a>、<a href="https://zh.wikipedia.org/wiki/全炫茂" title="wikilink">全炫茂</a>、<a href="../Page/金桐俊.md" title="wikilink">金桐俊</a> (<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>)、<a href="https://zh.wikipedia.org/wiki/金鐘炫" title="wikilink">JR</a>、<a href="../Page/崔珉起.md" title="wikilink">Ren</a> (<a href="../Page/NU&#39;EST.md" title="wikilink">NU'EST</a>)、<a href="https://zh.wikipedia.org/wiki/玟奎" title="wikilink">玟奎</a> (<a href="https://zh.wikipedia.org/wiki/SEVENTEEN" title="wikilink">SEVENTEEN</a>)、<a href="../Page/高聖熙.md" title="wikilink">高聖熙</a></p></td>
-<td></td>
-<td></td>
+<td><p>/</p></td>
+<td><p>/</p></td>
 <td><p>全員獲勝</p></td>
 </tr>
 <tr class="even">

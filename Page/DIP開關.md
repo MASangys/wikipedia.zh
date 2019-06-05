@@ -1,6 +1,9 @@
 [DIPSW1976.jpg](https://zh.wikipedia.org/wiki/File:DIPSW1976.jpg "fig:DIPSW1976.jpg")
 [DIP_switch_01_Pengo.jpg](https://zh.wikipedia.org/wiki/File:DIP_switch_01_Pengo.jpg "fig:DIP_switch_01_Pengo.jpg")
 [RockerDipSwitch.png](https://zh.wikipedia.org/wiki/File:RockerDipSwitch.png "fig:RockerDipSwitch.png")
+[Sab_Rotary_Switch.pdf](https://zh.wikipedia.org/wiki/File:Sab_Rotary_Switch.pdf "fig:Sab_Rotary_Switch.pdf")
+[Sab_2PST_DIP_Switch.jpg](https://zh.wikipedia.org/wiki/File:Sab_2PST_DIP_Switch.jpg "fig:Sab_2PST_DIP_Switch.jpg")
+[Sab_Tri_state_type_DIP_switch.jpg](https://zh.wikipedia.org/wiki/File:Sab_Tri_state_type_DIP_switch.jpg "fig:Sab_Tri_state_type_DIP_switch.jpg")
 
 **DIP開關**（DIP
 switch）也稱為**指撥開關**，是可以人工調整的[開關](../Page/開關.md "wikilink")，多半是數個開關一組，以標準[雙列直插封裝](../Page/雙列直插封裝.md "wikilink")（DIP）的封裝形式出現。「DIP開關」可以指個別的開關，也可以指整組的開關。DIP開關一般會設計在[印刷电路板上](../Page/印刷电路板.md "wikilink")，配合其他電子元件使用，主要目的是,調整電子設備的特性。

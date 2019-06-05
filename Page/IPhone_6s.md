@@ -93,6 +93,7 @@ MLC快閃記憶體，卻使用[NVMe介面連接](https://zh.wikipedia.org/wiki/N
 ### 第一波
 
 首波銷售國家及地區於9月12日开始接受预订，已於9月25日在[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[加拿大](../Page/加拿大.md "wikilink")、[波多黎各](../Page/波多黎各.md "wikilink")、[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")、[法國](https://zh.wikipedia.org/wiki/法國 "wikilink")、[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")、[澳洲](https://zh.wikipedia.org/wiki/澳洲 "wikilink")、[紐西蘭](https://zh.wikipedia.org/wiki/紐西蘭 "wikilink")、[日本](../Page/日本.md "wikilink")、[香港](../Page/香港.md "wikilink")、[新加坡](../Page/新加坡.md "wikilink")、[中國大陆等国家及地区上市](https://zh.wikipedia.org/wiki/中國大陆 "wikilink")\[4\]。
+内存
 
 ### 第二波
 

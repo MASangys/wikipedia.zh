@@ -26,6 +26,7 @@ Firefox好](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")\[4\]。
 
   -
 [Category:排版引擎](https://zh.wikipedia.org/wiki/Category:排版引擎 "wikilink")
+[Category:Microsoft_Edge](https://zh.wikipedia.org/wiki/Category:Microsoft_Edge "wikilink")
 
 1.
 2.

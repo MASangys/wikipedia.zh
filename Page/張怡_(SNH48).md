@@ -28,35 +28,43 @@ NII\[12\]。
 
 ### EP
 
-| 張    | 單曲名稱                                                                        | 參與歌曲名稱  | 名義          | MV | 備註    |
-| ---- | --------------------------------------------------------------------------- | ------- | ----------- | -- | ----- |
-| 11   | 《[源动力](https://zh.wikipedia.org/wiki/源动力 "wikilink")》                       | 媽咪媽咪轟   | Team XII    |    |       |
-| 12   | 《[梦想岛](https://zh.wikipedia.org/wiki/梦想岛 "wikilink")》                       | 梦想岛     |             | ★  |       |
-| 戀愛味道 | Team XII                                                                    |         |             |    |       |
-| 13   | 《[公主披風](https://zh.wikipedia.org/wiki/公主披風 "wikilink")》                     | 哎喲愛喲    | Next Girls  | ★  | 為中心成員 |
-| 非你不可 | Team XII                                                                    |         |             |    |       |
-| 14   | 《[新年這一刻](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#新年這一刻 "wikilink")》     | 鐘聲過後是樂園 | Team XII    |    |       |
-| 15   | 《[彼此的未來](../Page/彼此的未來.md "wikilink")》                                      | 彼此的未來   |             | ★  |       |
-| 致每个你 | Team XII                                                                    |         | 為中心成員       |    |       |
-| 16   | 《[夏日檸檬船](https://zh.wikipedia.org/wiki/夏日檸檬船 "wikilink")》                   | 夏日檸檬船   |             | ★  |       |
-| 夏之色  | Team XII                                                                    |         |             |    |       |
-| 17   | 《[那不勒斯的黎明](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#那不勒斯的黎明 "wikilink")》 | 絢麗時代    | Under Girls | ★  |       |
-|      |                                                                             |         |             |    |       |
+| 張    | 單曲名稱                                                                    | 參與歌曲名稱  | 名義          | MV | 備註    |
+| ---- | ----------------------------------------------------------------------- | ------- | ----------- | -- | ----- |
+| 11   | 《[源动力](https://zh.wikipedia.org/wiki/源动力 "wikilink")》                   | 媽咪媽咪轟   | Team XII    |    |       |
+| 12   | 《[梦想岛](https://zh.wikipedia.org/wiki/梦想岛 "wikilink")》                   | 梦想岛     |             | ★  |       |
+| 戀愛味道 | Team XII                                                                |         |             |    |       |
+| 13   | 《[公主披風](https://zh.wikipedia.org/wiki/公主披風 "wikilink")》                 | 哎喲愛喲    | Next Girls  | ★  | 為中心成員 |
+| 非你不可 | Team XII                                                                |         |             |    |       |
+| 14   | 《[新年這一刻](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#新年这一刻 "wikilink")》 | 鐘聲過後是樂園 | Team XII    |    |       |
+| 15   | 《[彼此的未來](../Page/彼此的未來.md "wikilink")》                                  | 彼此的未來   |             | ★  |       |
+| 致每个你 | Team XII                                                                |         | 為中心成員       |    |       |
+| 16   | 《[夏日檸檬船](https://zh.wikipedia.org/wiki/夏日檸檬船 "wikilink")》               | 夏日檸檬船   |             | ★  |       |
+| 夏之色  | Team XII                                                                |         |             |    |       |
+| 17   | 《[那不勒斯的黎明](../Page/那不勒斯的黎明.md "wikilink")》                              | 絢麗時代    | Under Girls | ★  |       |
+| 19   | 《[未来的乐章](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#未来的乐章 "wikilink")》 | 未来的乐章   |             | ★  |       |
+| 20   | 《[森林法则](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#森林法则 "wikilink")》   | Sunrise |             |    |       |
+| 21   | 《[魔女的诗篇](../Page/魔女的诗篇.md "wikilink")》                                  | 终无艳     | Under Girls | ★  |       |
+| 22   | 《[此刻到永远](https://zh.wikipedia.org/wiki/SNH48原創發行作品列表#此刻到永远 "wikilink")》 | 此刻到永远   |             | ★  |       |
 
 ### 劇場公演分組曲
 
-| 公演名稱                                                                                                                                                    | 參與歌曲名稱 | 備註    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ----- |
-| [SNH48 Team XII 1st Stage「劇場女神」公演](https://zh.wikipedia.org/wiki/Team_B_5th_Stage「劇場的女神」#SNH48_Team_XII「劇場女神」公演 "wikilink")                             | 初戀，你好  | 為中心成員 |
-| [SNH48 Team XII 2nd Stage「代號XII」公演](https://zh.wikipedia.org/wiki/Team_XII_2nd_Stage「代號XII」公演 "wikilink")                                               | 自以为    | 為中心成員 |
-| [SNH48 Team XII 2.5nd Stage「代號XII 2.0」公演](https://zh.wikipedia.org/wiki/Team_XII_2nd_Stage「代號XII」公演#SNH48_Team_XII_2.5nd_Stage「代號XII_2.0」公演 "wikilink") | 完美超载   | 為中心成員 |
+| 公演名稱                                                                                                                                                    | 參與歌曲名稱   | 備註                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ------------------------- |
+| [SNH48 Team XII 1st Stage「劇場女神」公演](https://zh.wikipedia.org/wiki/Team_B_5th_Stage「劇場的女神」#SNH48_Team_XII「劇場女神」公演 "wikilink")                             | 初戀，你好    | 為中心成員，与曾艾佳、张文静            |
+| [SNH48 Team XII 2nd Stage「代號XII」公演](https://zh.wikipedia.org/wiki/Team_XII_2nd_Stage「代號XII」公演 "wikilink")                                               | 自以为      | 為中心成員，与陈韫凌、姜杉、蒋舒婷、吕梦莹、潘瑛琪 |
+| [SNH48 Team XII 2.5nd Stage「代號XII 2.0」公演](https://zh.wikipedia.org/wiki/Team_XII_2nd_Stage「代號XII」公演#SNH48_Team_XII_2.5nd_Stage「代號XII_2.0」公演 "wikilink") | 完美超载     | 為中心成員，与蒋舒婷、吕梦莹            |
+| [SNH48 Team NII 6.5th Stage「以愛之名2.0」公演](https://zh.wikipedia.org/wiki/Team_NII_6th_Stage「以愛之名」公演#SNH48_Team_NII_6.5th_Stage「以愛之名2.0」公演_2 "wikilink")    | 春夏秋冬     | 与谢妮、许逸、江真仪                |
+| [SNH48 Team NII Waiting Stage“N.E.W”公演](https://zh.wikipedia.org/wiki/Team_NII_Waiting_Stage“N.E.W”公演 "wikilink")                                       | Universe | 为中心成员，与何晓玉、陶波尔            |
+| [SNH48 Team NII 7th Stage“时之卷”公演](https://zh.wikipedia.org/wiki/Team_NII_7th_Stage“时之卷”公演 "wikilink")                                                   | 暗羽       | 与冯薪朵、谢妮                   |
 
 ### 演唱會分組曲
 
-| 名稱                                                                                      | 日期   | 參與歌曲名稱 | 備註      |
-| --------------------------------------------------------------------------------------- | ---- | ------ | ------- |
-| 2017年                                                                                   |      |        |         |
-| [SNH48第三屆年度金曲大賞BEST 50](https://zh.wikipedia.org/wiki/SNH48第三屆年度金曲大賞BEST_50 "wikilink") | 1月7日 | 天使的尾巴  | 與費沁源、姜杉 |
+| 名稱                                                                                      | 日期   | 參與歌曲名稱 | 備註           |
+| --------------------------------------------------------------------------------------- | ---- | ------ | ------------ |
+| 2017年                                                                                   |      |        |              |
+| [SNH48第三屆年度金曲大賞BEST 50](https://zh.wikipedia.org/wiki/SNH48第三屆年度金曲大賞BEST_50 "wikilink") | 1月7日 | 天使的尾巴  | 與費沁源、姜杉      |
+| 2018年                                                                                   |      |        |              |
+| [SNH48第三屆年度金曲大賞BEST 50](https://zh.wikipedia.org/wiki/SNH48第三屆年度金曲大賞BEST_50 "wikilink") | 2月3日 | 心型病毒   | 为中心成员，與祁静、徐晗 |
 
 ## 演出
 

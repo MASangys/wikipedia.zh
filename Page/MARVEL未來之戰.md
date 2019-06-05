@@ -1,5 +1,5 @@
 是一款[漫威英雄主題的動作](../Page/漫威漫畫.md "wikilink")[電子角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")\[1\]。是由[Netmarble
-Games開發製作的](../Page/Netmarble_Games.md "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")。遊戲配合[漫威漫畫及](../Page/漫威漫畫.md "wikilink")[漫威電影宇宙內容更新相關內容](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")\[2\]。
+Games開發製作的](../Page/Netmarble_Games.md "wikilink")[iOS和](https://zh.wikipedia.org/wiki/iOS "wikilink")[Android](../Page/Android.md "wikilink")[手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")。遊戲會讓玩家操控一系列[漫威漫畫的英雄角色進行關卡](../Page/漫威漫畫.md "wikilink")，並會配合[漫威電影宇宙更新相關內容](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")\[2\]。
 
 ## 遊戲內容
 
@@ -23,7 +23,7 @@ Games開發製作的](../Page/Netmarble_Games.md "wikilink")[iOS和](https://zh.
 
 ## 評價
 
-## 参考文献
+## 參考文獻
 
 ## 外部連結
 

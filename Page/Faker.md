@@ -1,6 +1,6 @@
 **李相赫**（，，遊戲ID：**Faker**）是一名南韓知名《[英雄聯盟](https://zh.wikipedia.org/wiki/英雄聯盟 "wikilink")》職業選手，目前效力[SK
 Telecom
-T1](../Page/SK_Telecom_T1.md "wikilink")。因為其出眾的遊戲操作能力，而被玩家和對手暱稱「大魔王」、「神中之神」、「LoL傳奇人物」，被英雄聯盟公認為史上最成功和最偉大選手，曾經3度奪得[世界冠軍](../Page/英雄联盟全球总决赛.md "wikilink")、2奪[季中邀請賽冠軍](../Page/英雄联盟季中邀请赛.md "wikilink")、5奪[韓國冠軍聯賽冠軍和一個全明星賽冠軍](../Page/英雄联盟韩国冠军联赛.md "wikilink")([季中賽前身](../Page/英雄联盟季中邀请赛.md "wikilink"))。\[1\]職業生涯總獎金超過一百萬美元。\[2\]2017年和SKT
+T1](../Page/SK_Telecom_T1.md "wikilink")。因為其出眾的遊戲操作能力，而被玩家和對手暱稱「大魔王」和「李哥」等，被英雄聯盟公認為史上最成功和最偉大選手，曾經3度奪得[世界冠軍](../Page/英雄联盟全球总决赛.md "wikilink")、2奪[季中邀請賽冠軍](../Page/英雄联盟季中邀请赛.md "wikilink")、5奪[韓國冠軍聯賽冠軍和一個全明星賽冠軍](../Page/英雄联盟韩国冠军联赛.md "wikilink")([季中賽前身](../Page/英雄联盟季中邀请赛.md "wikilink"))。\[1\]職業生涯總獎金超過一百萬美元。\[2\]2017年和SKT
 T1戰隊簽下一份史上最高，年薪超過1億新台幣的合約。\[3\]2018年更簽下了一份估計超30億韓元（約7800萬台幣），年收入估計高達50億韓元（約3400萬港幣）的合同，而且為整個LCK韓國賽區最高薪金的選手。\[4\]過去在韓國伺服器的名稱為「고전파」(GoJeonPa)。現在他在韓國伺服器的名稱是「SKT
 T1 Faker」，另一個帳戶名称是「Hide on Bush」。
 
@@ -14,7 +14,7 @@ Telecom T1戰隊，並放棄就讀高中。\[5\]
 ### 職業生涯
 
 [SK_Telecom_T1_at_LoL_World_Championship_2013.jpg](https://zh.wikipedia.org/wiki/File:SK_Telecom_T1_at_LoL_World_Championship_2013.jpg "fig:SK_Telecom_T1_at_LoL_World_Championship_2013.jpg")，從左至右為Faker、Impact、Piglet、PoohManDu和Bengi。\]\]
-Faker最出名英雄的是奧莉安娜、雷茲、乐芙兰、劫、阿璃和璐璐。他是史上第一个三次奪得英雄聯盟世界大賽冠軍的中路選手，與前打野隊友Bengi同為世界大賽奪冠次數最多者。
+Faker最出名的英雄是加里歐、奧莉安娜、雷茲、乐芙兰、劫、阿璃和璐璐。他是史上第一个三次奪得英雄聯盟世界大賽冠軍的中路選手，與前打野隊友Bengi同為世界大賽奪冠次數最多者。
 
 2013年4月6日第一次為SK Telecom T1 2在職業賽場上陣，對手是CJ Entus Blaze。
 
@@ -60,52 +60,30 @@ Galaxy戰隊成功復仇，以0:3落敗，無縁三連霸。
 ## 隊伍成績
 
   - 2013年OGN春季OnGameNet第三名 (SKT)
-
   - 2013年OGN夏季HOT6iX第一名 (SKT)
-
   - 2013年S3世界大賽第一名 (SKT)
-
   - 2014年OGN冬季Pandora.TV第一名 (SKT)
-
   - 2014年全明星賽第一名 (SKT)
-
   - 2014年ITENJOY NLB夏季賽第一名 (SKT)
-
   - 2015年LCK春季季後賽第一名 (SKT)
-
   - 2015年S5季中邀請賽第二名 (SKT)
-
   - 2015年LCK夏季季後賽第一名 (SKT)
-
   - 2015年S5世界大賽第一名 (SKT)
-
   - 2016年LCK春季季後賽第一名 (SKT)
-
   - 2016年S6季中邀請賽第一名 (SKT)
-
   - 2016年LCK夏季季后赛第三名 (SKT)
-
   - 2016年S6世界大賽第一名 (SKT)
-
   - 2017年LCK春季季後賽第一名 (SKT)
-
   - 2017年MSI季中邀請賽第一名 (SKT)
-
   - 2017年RiftRival亚洲洲际赛第二名 (SKT)
-
   - 2017年LCK夏季季後賽第二名 (SKT)\[15\]
-
   - 2017年S7世界大賽第二名 (SKT)\[16\]
-
   - 2018年LCK春季季後賽第四名 (SKT)
-
   - 2018年RiftRival亚洲洲际赛第二名 (SKT)
-
   - 2018年雅加達亞運會電競英雄聯盟項目第二名 (KOREA國家代表隊)
-
   - 2019年LCK春季季後賽第一名 (SKT)
+  - 2019年MSI季中邀請賽四強 (SKT)
 
-  -
 ## 名稱由來
 
 李相赫的「Faker」是一個[英語單词](https://zh.wikipedia.org/wiki/英語 "wikilink")，即欺詐者之意，名字的由來可能與他最愛用的英雄勒布朗的稱號詐欺師有關。

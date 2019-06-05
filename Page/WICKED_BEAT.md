@@ -1,5 +1,9 @@
 《**WICKED
-BEAT**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z在](../Page/B'z.md "wikilink")1990年發行的第二張迷你專輯。
+BEAT**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z於](../Page/B'z.md "wikilink")[1990年](../Page/1990年.md "wikilink")[6月21日由](../Page/6月21日.md "wikilink")[BMG
+VICTOR發行的第](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")2張迷你專輯。本專輯在BMG
+ROOMS（現：[VERMILLION
+RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）成立後，發售權留在了BMG
+ROOMS。
 
 ## 簡介
 

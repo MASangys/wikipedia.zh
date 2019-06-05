@@ -51,7 +51,7 @@ KEN☆Tackey的經紀合約隸屬於[傑尼斯事務所](../Page/傑尼斯事務
 
 ### 出典
 
-## 外部鏈接
+## 外部連結
 
   - [KEN☆Tackey](https://avex.jp/kentackey/)在[愛貝克思日本上](../Page/愛貝克思集團.md "wikilink")
   - [KEN☆Tackey](https://www.avex.com.tw/artist/artist.asp?ArtistCode=KENTKJ)在[愛貝克思台灣上](../Page/愛貝克思_\(台灣\).md "wikilink")

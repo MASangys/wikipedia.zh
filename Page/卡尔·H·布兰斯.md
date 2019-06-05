@@ -34,7 +34,5 @@
   - [Original PhD thesis leading to
     JBD](http://www.loyno.edu/~brans/theses/)
 
-[Category:1935年出生](https://zh.wikipedia.org/wiki/Category:1935年出生 "wikilink")
 [Category:美国物理学家](https://zh.wikipedia.org/wiki/Category:美国物理学家 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 [Category:普林斯顿大学校友](https://zh.wikipedia.org/wiki/Category:普林斯顿大学校友 "wikilink")

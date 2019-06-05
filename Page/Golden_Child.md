@@ -336,12 +336,12 @@ High](../Page/Legal_High.md "wikilink")》演唱第三波原聲帶歌曲 "NEVER"
 
 ### 網路劇
 
-| 年份                                                                  | 播放日期              | 劇名       | 製作公司     | 播放平台                                       | 參演成員 | 角色  | 集數  | 備註 |
-| ------------------------------------------------------------------- | ----------------- | -------- | -------- | ------------------------------------------ | ---- | --- | --- | -- |
-| 2019年                                                               | 4月25日- (每週四、週日播出) | A-TEEN 2 | Playlist | [V LIVE](https://channels.vlive.tv/DEF407) | 普閔   | 柳周河 | 20集 |    |
-| [NAVER TV](https://tv.naver.com/playlist)                           |                   |          |          |                                            |      |     |     |    |
-| [YouTube](https://www.youtube.com/channel/UCid83oPnsL-4ZEo8CyQr6Rg) |                   |          |          |                                            |      |     |     |    |
-| [Facebook](https://www.facebook.com/TeenPlayList/)                  |                   |          |          |                                            |      |     |     |    |
+| 年份                                                                  | 播放日期              | 劇名                                                 | 製作公司     | 播放平台                                       | 參演成員 | 角色  | 集數  | 備註 |
+| ------------------------------------------------------------------- | ----------------- | -------------------------------------------------- | -------- | ------------------------------------------ | ---- | --- | --- | -- |
+| 2019年                                                               | 4月25日- (每週四、週日播出) | [A-TEEN 2](../Page/A-TEEN_2_\(電視劇\).md "wikilink") | Playlist | [V LIVE](https://channels.vlive.tv/DEF407) | 普閔   | 柳周河 | 20集 |    |
+| [NAVER TV](https://tv.naver.com/playlist)                           |                   |                                                    |          |                                            |      |     |     |    |
+| [YouTube](https://www.youtube.com/channel/UCid83oPnsL-4ZEo8CyQr6Rg) |                   |                                                    |          |                                            |      |     |     |    |
+| [Facebook](https://www.facebook.com/TeenPlayList/)                  |                   |                                                    |          |                                            |      |     |     |    |
 
 ### 電影
 
@@ -531,6 +531,14 @@ High](../Page/Legal_High.md "wikilink")》演唱第三波原聲帶歌曲 "NEVER"
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>5月6日</p></td>
+<td><p><a href="../Page/KBS第2频道.md" title="wikilink">KBS2</a></p></td>
+<td><p>《<a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a>》</p></td>
+<td><p>Y、普閔</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1481,6 +1489,11 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 “그러다 봄” COMEBACK V LIVE</p></td>
 <td><p>全員</p></td>
 </tr>
+<tr class="even">
+<td><p>5月3日</p></td>
+<td><p>Golden Child X CouchTalk - 골든차일드 X 카우치토크</p></td>
+<td><p>全員</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -2025,6 +2038,7 @@ Christmas 'WCH 쇼! 명랑음악회' V LIVE</p></td>
 | 4月19日 | 第58屆慶尚南道居民體育大會                            | 巨濟綜合體育場                                    |
 | 4月26日 | 第33屆利川陶瓷祭典                                | Ye's Park 大劇場                              |
 | 5月18日 | 2019 [夢想演唱會](../Page/夢想演唱會.md "wikilink") | [首爾世界盃競技場](../Page/首爾世界盃競技場.md "wikilink") |
+| 5月19日 | 韓國娛樂音樂饗宴                                  | 台北南港展覽館                                    |
 
 ### 簽售會
 

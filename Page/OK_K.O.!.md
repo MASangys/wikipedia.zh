@@ -20,7 +20,7 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
   -
     配音： Stephanie Nadolny ﹙第四、五、六和十三集﹚, Courtenay Taylor
     英雄等級：0.1 (第一季结尾升級為1级，"Dendy's Power"中升級為3級)
-    全名Kaio Kincaid。故事主角，年約六至十一歲，衣著有點像七、八十年代的動作遊戲主角，於Mr.
+    全名Kaio O. "K.O." Kincaid。故事主角，年約六至十一歲，衣著有點像七、八十年代的動作遊戲主角，於Mr.
     Gar經營的英雄供應店Bodega中工作，母親為Carol。
     喜歡收集戰力卡(Pow-cards)。
     和超KO和解後能使用其一部份能力。
@@ -38,14 +38,14 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
   -
     配音： Ian Jones-Quartey, Sterling Jarvis ﹙"Rad Likes Robots"中主唱﹚
     英雄等級： 2
-    於英雄供應店嘎樂福工作，專門負上貨的藍色外星人，能力是令物件懸浮。
+    全名Radicles "Rad" X.。於英雄供應店嘎樂福工作，專門負上貨的藍色外星人，能力是令物件懸浮。
 
 **Mr. Gar**(嘎Sir)
 
   -
     配音： David Herman
     英雄等級： 11
-    全名Eugene Gar ，體型强健的中年男性，英雄供應店嘎樂福的老闆，一直暗戀K.O.母親薇柔。
+    全名Eugene Garcia-Gar。體型强健的中年男性，英雄供應店嘎樂福的老闆，一直暗戀K.O.母親薇柔。
     在"Legends of Mr. Gar," 中透露他們所在的商場其實是一個小小機械人，變成商場是為了能幫助像嘎Sir的其他英雄。
     曾經與薇柔為英雄團隊威猛局的成員。因為一次行動中只顧向薇柔送出三明治沒做好支援導致雷射砲喪生而一直非常內疚。
     "Point to the Plaza"跟過去威猛局的成員相處不愉快，原因並未提及。
@@ -55,7 +55,7 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
   -
     配音： Kate Flannery
     英雄等級： 11
-    全名Carol Kincaid，K.O.的母親，健身中心Fitness Emotions的老闆。
+    全名Carol Kincaid。K.O.的母親，健身中心Fitness Emotions的老闆。
     曾經與嘎Sir為英雄團隊威猛局的成員，當時名字為銀燿。
     在S01E40最後面在與不明人士連繫時透露雷射砲可能還存在。
 
@@ -85,7 +85,8 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
     配音： [Jim
     Cummings](https://zh.wikipedia.org/wiki/Jim_Cummings "wikilink")
     英雄等級： -10
-    主要反派，英雄供應店嘎樂福對面邪門區的老闆。時常派他的機器人騷擾廣場，在第一季结尾被打上太陽。
+    全名Boxy Boxman-Voxy,
+    Sr.。主要反派，英雄供應店嘎樂福對面邪門區的老闆。時常派他的機器人騷擾廣場，在第一季结尾被打上太陽。
 
 **Shannon**(香農)
 
@@ -93,7 +94,7 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
     配音： [Kari
     Wahlgren](https://zh.wikipedia.org/wiki/Kari_Wahlgren "wikilink")
     英雄等級: -3
-    一個全身橙色的女性青少年機械人，邪門製造的機械人女兒。
+    全名Shannon Boxman-Voxy。一個全身橙色的女性青少年機械人，邪門製造的機械人女兒。
     最初代替Darrell偽裝哄騙K.O.說闖進邪門區打敗邪門博士可以讓阿肌和帥妮驕傲。
     "Rad Likes Robots"中因為被閃電打中而和阿肌相戀。被閃電打中後眼精睛由紅色轉為紫紅色
     身體可變為網子,雙手可變為圓鋸和錘子，待增
@@ -104,7 +105,7 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
     配音： [Ian
     Jones-Quartey](https://zh.wikipedia.org/wiki/Ian_Jones-Quartey "wikilink")
     英雄等級: -4
-    一個全身紅色的男性青少年機械人，頭上的綠色透明玻璃中有一顆腦袋,Lord Boxman
+    全名Darrell Boxman-Voxy。一個全身紅色的男性青少年機械人，頭上的綠色透明玻璃中有一顆腦袋,Lord Boxman
     製造的機械人兒子。要攻擊時可以變大，變形。在第一季结尾背叛Boxman(父親)接手Boxmore,成為公司的新老板。
 
 **Raymond**(太子)
@@ -112,7 +113,7 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
   -
     配音：Robbie Daymond
     英雄等級：-4
-    一個全身綠色的男性青少年機械人，頭部呈三角型，Lord
+    全名Raymond Boxman-Voxy。一個全身綠色的男性青少年機械人，頭部呈三角型，Lord
     Boxman的機器人兒子，主要使用運動裝備進行戰鬥，非常喜歡玫瑰。與其他兄弟姐妹相比實力較強。
     "Plaza Prom" 中因其性格喜歡炫耀而無法抵抗參加派對。
     儘管他們性格陰險，但他們表現出關心某些人和事。
@@ -121,7 +122,8 @@ Imaishi绘制](https://zh.wikipedia.org/wiki/Hiroyuki_Imaishi "wikilink")。
 **Lord Boxman, Jr.**(小邪門)
 
   -
-    Lord Boxman因為機械人孩子們失敗太多而製作的機械人小兒子，使用了毒液教授給予的邪惡芯片以運作。
+    全名Boxy Boxman-Voxy, Jr.。Lord
+    Boxman因為機械人孩子們失敗太多而製作的機械人小兒子，使用了毒液教授給予的邪惡芯片以運作。
 
 ### 其他
 

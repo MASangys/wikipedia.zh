@@ -142,5 +142,6 @@ Hunting」，得到唱片公司的赞赏。\[1\]
 
 [Category:日本女歌手](https://zh.wikipedia.org/wiki/Category:日本女歌手 "wikilink")
 [Category:EMI音樂旗下藝人](https://zh.wikipedia.org/wiki/Category:EMI音樂旗下藝人 "wikilink")
+[Category:前研音所屬藝人](https://zh.wikipedia.org/wiki/Category:前研音所屬藝人 "wikilink")
 
 1.

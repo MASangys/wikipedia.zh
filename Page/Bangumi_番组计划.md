@@ -6,7 +6,7 @@
 该项目最初以“**[Chobits](../Page/Chobits.md "wikilink")”**（[CLAMP所著之日本漫画名](../Page/CLAMP.md "wikilink")）作为开发代号，喻指“人性的电脑”和“完整的ACG资料库”。2009年在项目参与者Senken的协助下，“Chobits”被正式命名为**Bangumi
 番组计划**（“Bangumi”一词为日文“”的罗马音拼写），并于2009年1月25日上线。项目上线第二日会员数量达到2000，并在随后达到20000名以上；其建立初衷是致力于让ACG爱好者在欣赏ACG作品时拥有一个轻松便捷独特的交流与沟通环境\[4\]\[5\]。
 
-目前该项目已推出网页和[PC桌面客户端](../Page/PC.md "wikilink")\[6\]；第三方开发者亦根据网页制作了适用于[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android和](../Page/Android.md "wikilink")[Windows
+目前该项目已推出网页和[PC桌面客户端](../Page/个人电脑.md "wikilink")\[6\]；第三方开发者亦根据网页制作了适用于[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Android和](../Page/Android.md "wikilink")[Windows
 Phone的移动客户端](../Page/Windows_Phone.md "wikilink")\[7\]\[8\]\[9\]。
 
 该项目的网站吉祥物为“Bangumi娘”，形象为粉髮的美少女\[10\]。

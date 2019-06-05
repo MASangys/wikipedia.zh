@@ -50,10 +50,10 @@ mitsunaga3名男性所組成，之後在2012年秋時女性主唱towana正式加
 <!-- end list -->
 
   - 1月25日發行第十張單曲「」，為[小林家的女僕龍片頭曲](https://zh.wikipedia.org/wiki/小林家的女僕龍 "wikilink")。
-  - 4月26日發行第十一張單曲「」[有頂天家族2片尾曲](../Page/有頂天家族.md "wikilink")。
+  - 4月26日發行第十一張單曲「」，為[有頂天家族2片尾曲](../Page/有頂天家族.md "wikilink")。
   - 6月20日音樂MV「」破一千萬人觀看\[1\]\[2\]。
   - 8月2日發行第十二張單曲「Hello\!My
-    World\!\!」[騎士&魔法片頭曲](../Page/騎士&魔法.md "wikilink")。
+    World\!\!」，為[騎士&魔法片頭曲](../Page/騎士&魔法.md "wikilink")。
 
 <!-- end list -->
 
@@ -62,9 +62,17 @@ mitsunaga3名男性所組成，之後在2012年秋時女性主唱towana正式加
 <!-- end list -->
 
   - 1月31日發行第十三張單曲「 ～My Uncompleted
-    Story～」[童話魔法使片頭曲](../Page/童話魔法使.md "wikilink")。
+    Story～」，為[童話魔法使片頭曲](../Page/童話魔法使.md "wikilink")。
   - 3月28日發行第三張專輯「World Atlas」。
   - 12月12日發行五周年最佳專輯「STORIES」，當中收錄五年來為電視動畫所發行的片頭、片尾曲，合計13首歌。
+
+<!-- end list -->
+
+  - 2019年
+
+<!-- end list -->
+
+  - 8月7日發行第十四張單曲「」，為[實況主的逃脫遊戲【直播中】片尾曲](../Page/實況主的逃脫遊戲【直播中】.md "wikilink")。
 
 ## 成員
 
@@ -205,6 +213,14 @@ LACM-14628</p></td>
 LACM-14723</p></td>
 <td><p>49位</p></td>
 </tr>
+<tr class="even">
+<td><p>14th</p></td>
+<td><p>2019年8月7日</p></td>
+<td></td>
+<td><p>LACM-14886（歌手盤）<br />
+LACM-14887</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -255,6 +271,7 @@ LACM-14723</p></td>
 | ****                                                          | 電視動畫『[有頂天家族2](../Page/有頂天家族.md "wikilink")』片尾曲                                                                 |                                               |
 | '''Hello\!My World                                            | '''                                                                                                            | 電視動畫『[騎士&魔法](../Page/騎士&魔法.md "wikilink")』片頭曲 |
 | ** ～My Uncompleted Story～**                                   | 電視動畫『[童話魔法使](../Page/童話魔法使.md "wikilink")』片頭曲                                                                  | 2018年                                         |
+| ****                                                          | 電視動畫『[實況主的逃脫遊戲【直播中】](../Page/實況主的逃脫遊戲【直播中】.md "wikilink")』片尾曲                                                  | 2019年                                         |
 
 ## 音樂視頻
 

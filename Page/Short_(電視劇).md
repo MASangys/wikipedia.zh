@@ -1,6 +1,4 @@
-《**Short**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2018年2月12日起播出的[月火連續劇](https://zh.wikipedia.org/wiki/OCN月火連續劇 "wikilink")，由金英民導演執導與金正愛作家合作打造。此劇講述滑冰界備受矚目的選手姜浩英，和出身名門並在世界大會上獲獎的短道速滑之王、努力派選手朴恩浩，以及兩個男人同時愛著、夢想著成為女團成員的女生劉智娜三人之間的青春故事。\[1\]\[2\]
-台灣[myVideo](https://www.myvideo.net.tw/TWM_Video/Portal/servlet_main.jsp?classID=drama&menuType=MainCategory&menuId=drama#utm_source=wiki&utm_medium=wiki&utm_campaign=Kdrama/)、
-[KKTV](https://www.kktv.me/) 全劇上架。
+《**Short**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2018年2月12日起播出的[月火連續劇](../Page/OCN_Romance_Series.md "wikilink")，由金英民導演與金正愛作家合作打造。此劇講述滑冰界備受矚目的選手姜浩英，和出身名門並在世界大會上獲獎的短道速滑之王、努力派選手朴恩浩，以及兩個男人同時愛著、夢想著成為女團成員的女生劉智娜三人之間的青春故事。\[1\]\[2\]
 
 ## 演員陣容
 

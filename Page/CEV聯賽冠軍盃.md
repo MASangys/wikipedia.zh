@@ -649,6 +649,28 @@ League），又譯**CEV冠軍聯賽**，通稱**男排歐冠盃**，由[歐洲�
 <a href="https://zh.wikipedia.org/wiki/Volley_Lube" title="wikilink">Lube Cucine Civitanova</a></p></td>
 </tr>
 <tr class="even">
+<td><p>2017–18<br />
+<em><a href="https://zh.wikipedia.org/wiki/2017–18_CEV_Champions_League" title="wikilink">Details</a></em></p></td>
+<td><p><br />
+<a href="https://zh.wikipedia.org/wiki/VC_Zenit-Kazan" title="wikilink">Zenit-Kazan</a></p></td>
+<td><p>3–2</p></td>
+<td><p><br />
+<a href="https://zh.wikipedia.org/wiki/Volley_Lube" title="wikilink">Lube Cucine Civitanova</a></p></td>
+<td><p><br />
+<a href="https://zh.wikipedia.org/wiki/Perugia_Volley" title="wikilink">SIR Sicoma Colussi Perugia</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2018–19<br />
+<em><a href="https://zh.wikipedia.org/wiki/2018–19_CEV_Champions_League" title="wikilink">Details</a></em></p></td>
+<td><p><br />
+<a href="https://zh.wikipedia.org/wiki/Volley_Lube" title="wikilink">Lube Cucine Civitanova</a></p></td>
+<td><p>3–1</p></td>
+<td><p><br />
+<a href="https://zh.wikipedia.org/wiki/VC_Zenit-Kazan" title="wikilink">Zenit-Kazan</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Perugia_Volley" title="wikilink">SIR Sicoma Colussi Perugia</a> and<br />
+ <a href="https://zh.wikipedia.org/wiki/PGE_Skra_Bełchatów" title="wikilink">PGE Skra Bełchatów</a></p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

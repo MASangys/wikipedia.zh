@@ -148,7 +148,7 @@
 </tbody>
 </table>
 
-## 外部鏈接
+## 外部連結
 
   - [WatchOS 英文版](https://en.wikipedia.org/wiki/WatchOS)
   - [WatchOS 中文版](https://zh.wikipedia.org/wiki/:WatchOS "wikilink")

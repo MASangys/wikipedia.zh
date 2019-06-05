@@ -472,7 +472,7 @@
 ## 外部連結
 
   - [élf](https://web.archive.org/web/20040710061823/http://www.elf-game.co.jp/)
-  - [SILKY'S](http://www.silkys.jp/)
+  - [SILKY'S](https://web.archive.org/web/20140723131223/http://www.silkys.jp/)
 
 [Category:1989年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1989年開業電子遊戲公司 "wikilink")
 [Category:日本成人遊戲公司](https://zh.wikipedia.org/wiki/Category:日本成人遊戲公司 "wikilink")

@@ -215,8 +215,8 @@ Sow提出，因为Soylent称自己为其他餐食的完全替代品，这些含�
 15.
 
 16. [Nutrition advisor for
-    Soylent](http://discourse.soylent.me/t/nutrition-advisor-for-soylent/19994).
-    16 March 2015.
+    Soylent](http://discourse.soylent.me/t/nutrition-advisor-for-soylent/19994)
+    . 16 March 2015.
 
 17.
 
@@ -239,8 +239,8 @@ Sow提出，因为Soylent称自己为其他餐食的完全替代品，这些含�
 25.
 26.
 27. [Soylent 1.3 Shipping
-    Today](http://blog.soylent.me/post/104937168407/soylent-1-3-shipping-today-we-are-pleased-to).
-    Retrieved 11 December 2014.
+    Today](http://blog.soylent.me/post/104937168407/soylent-1-3-shipping-today-we-are-pleased-to)
+    . Retrieved 11 December 2014.
 
 28.
 29. [Soylent 1.4 begins shipping

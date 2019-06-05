@@ -45,14 +45,14 @@ CPU研究計畫的一個．RISC-V計畫早期的經費來自[DARPA](https://zh.w
 有參與支援RISC-V基金會的公司以及機構包括了[超微半導體](https://zh.wikipedia.org/wiki/超微半導體 "wikilink")，[晶心科技](../Page/晶心科技.md "wikilink")，[英國航太系統](https://zh.wikipedia.org/wiki/英國航太系統 "wikilink")，Berkeley
 Architecture，Research，[BLuespec,
 Inc](https://zh.wikipedia.org/wiki/BLuespec,_Inc "wikilink")，Cortus，[Google](../Page/Google.md "wikilink")，GreenWaves
-Technology，[慧與科技](https://zh.wikipedia.org/wiki/慧與科技 "wikilink")，[華為](https://zh.wikipedia.org/wiki/華為 "wikilink")，[IBM](../Page/IBM.md "wikilink")，Imperas
+Technology，[慧與科技](../Page/慧與科技.md "wikilink")，[華為](https://zh.wikipedia.org/wiki/華為 "wikilink")，[IBM](../Page/IBM.md "wikilink")，Imperas
 Software，[中国科学院](../Page/中国科学院.md "wikilink")，[IIT
 Madras](https://zh.wikipedia.org/wiki/IIT_Madras "wikilink")，[Lattis
 Semiconductor](https://zh.wikipedia.org/wiki/Lattis_Semiconductor "wikilink")，[Mellanox
 Technologies](https://zh.wikipedia.org/wiki/Mellanox_Technologies "wikilink")，[Microsemi](https://zh.wikipedia.org/wiki/Microsemi "wikilink")，[美光科技](../Page/美光科技.md "wikilink")，[輝達](https://zh.wikipedia.org/wiki/輝達 "wikilink")，[恩智浦半導體](https://zh.wikipedia.org/wiki/恩智浦半導體 "wikilink")，[甲骨文公司](../Page/甲骨文公司.md "wikilink")，[高通](../Page/高通.md "wikilink")，[Rambus
 Cryptography
-Research](https://zh.wikipedia.org/wiki/Rambus_Cryptography_Research "wikilink")，[威騰電子](../Page/威騰電子.md "wikilink")，[SiFive](https://zh.wikipedia.org/wiki/SiFive "wikilink"),[Alibaba
-Group](../Page/阿里巴巴集团.md "wikilink").
+Research](https://zh.wikipedia.org/wiki/Rambus_Cryptography_Research "wikilink")，[威騰電子](../Page/威騰電子.md "wikilink")，[SiFive](https://zh.wikipedia.org/wiki/SiFive "wikilink")，[Alibaba
+Group](../Page/阿里巴巴集团.md "wikilink")。
 
 ### 奖项
 

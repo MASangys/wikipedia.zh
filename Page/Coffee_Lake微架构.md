@@ -64,7 +64,8 @@ Lake（主要用于超极本）、Coffee Lake和Cannonlake。\[6\]
 | i5  | [9600K](https://ark.intel.com/content/www/tw/zh/ark/products/134896/intel-core-i5-9600k-processor-9m-cache-up-to-4-60-ghz.html)  | 6(6)   | 3.7 GHz                              | 4.6 GHz   | 4.5 GHz | 4.4 GHz | 1.15 GHz | 9 MB                    | $262    |       |        |
 
 
-\== 拓展阅读 ==
+
+## 拓展阅读
 
   - [Intel处理器架构](https://zh.wikipedia.org/wiki/Category:Intel處理器架構 "wikilink")
 

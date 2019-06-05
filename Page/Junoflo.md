@@ -187,6 +187,12 @@ Battle與Hash Swan對決後淘汰。
 <td><p><a href="../Page/Junoflo.md" title="wikilink">Junoflo</a>（Feat. 金孝恩、<a href="../Page/Changmo.md" title="wikilink">Changmo</a>）</p></td>
 </tr>
 <tr class="even">
+<td><p>A NEW JOURNEY</p></td>
+<td><p>2019年5月7日</p></td>
+<td><p>Hold On Me</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南優鉉" title="wikilink">南優鉉</a>（Feat. <a href="../Page/Junoflo.md" title="wikilink">Junoflo</a> ）</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

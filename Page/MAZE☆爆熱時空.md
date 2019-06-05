@@ -579,7 +579,7 @@ OVA版是在1996年7月24日開始發售共有兩話\[1\]，OVA是原創劇情�
     News Network
 3.  [ＭＡＺＥ★爆熱時空](http://homepage1.nifty.com/harinoue/actress/anime/anime/maze.html)
     折笠愛貯蔵庫
-4.  [ST-1 台湾の地上波](http://maaberu.fan.coocan.jp/satst1.htm)まあべる本舗
+4.  [ST-1 台湾の地上波](http://maaberu.fan.coocan.jp/satst1.htm) まあべる本舗
 5.  [ＭＡＺＥ 爆熱時空
     天変脅威の大巨人](http://www.kinenote.com/main/public/cinema/detail.aspx?cinema_id=31251)KINENOTE
 6.  [Maze Bakunetsu Jikuu: Tenpen Kyoui no Giant

@@ -125,14 +125,14 @@ Eunhyuk](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")**
 <td><p>5月24日</p></td>
 <td><p>重逢之日</p></td>
 <td><p><a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
+<td><p>單曲專輯</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=uzOLEt71tC4">《重逢之日》</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>6月22日</p></td>
 <td><p>I'm Good</p></td>
 <td><p><a href="../Page/劉憲華.md" title="wikilink">Henry</a></p></td>
-<td></td>
+<td><p>數位單曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -253,6 +253,14 @@ Eunhyuk](../Page/Super_Junior_Donghae_&_Eunhyuk.md "wikilink")**
 <td><p><a href="../Page/希澈.md" title="wikilink">希澈</a></p></td>
 <td><p>數位單曲</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=4-tH10H6gAk">《Old Movie》</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>5月20日</p></td>
+<td><p>The day we meet again</p></td>
+<td><p><a href="../Page/圭賢.md" title="wikilink">圭賢</a></p></td>
+<td><p>單曲專輯</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=IZtVqvNONt8">先行曲《Time with you》</a><br />
+<a href="https://www.youtube.com/watch?v=v_s7Vif3oDY">主打曲《Aewol-ri》</a></p></td>
 </tr>
 </tbody>
 </table>

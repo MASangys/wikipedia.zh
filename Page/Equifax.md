@@ -22,7 +22,7 @@
 
   - [Company website](http://www.equifax.com)
   - [Equifax Consumer Identity Protection
-    website](http://www.identityprotection.com)
+    website](https://web.archive.org/web/20121020053708/http://www.identityprotection.com/)
   - [Yahoo\!](http://biz.yahoo.com/ic/10/10527.html) [Finance - Equifax
     Inc. Company Profile](http://biz.yahoo.com/ic/10/10527.html)
 

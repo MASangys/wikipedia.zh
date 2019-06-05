@@ -1,8 +1,8 @@
-**Joeman**（），本名**翁雋明**，昵称“**九妹**”，[台灣前職業](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電競賽評人](https://zh.wikipedia.org/wiki/電競 "wikilink")、遊戲實況主，[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")\[1\]。就讀[交通大學時就已在電競圈擔任賽評](https://zh.wikipedia.org/wiki/交通大學 "wikilink")，並在2011年《[星海爭霸II](https://zh.wikipedia.org/wiki/星海爭霸II "wikilink")》電競賽評票選中獲得冠軍。2013年至2016年期間，擔任[微星科技](../Page/微星科技.md "wikilink")[筆電部門](https://zh.wikipedia.org/wiki/筆電 "wikilink")[產品經理](../Page/產品經理.md "wikilink")。\[2\]
+**Joeman**（），本名**翁雋明**，[台灣前職業](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電競賽評人](https://zh.wikipedia.org/wiki/電競 "wikilink")、遊戲實況主，[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")\[1\]。就讀[交通大學時就已在電競圈擔任賽評](https://zh.wikipedia.org/wiki/交通大學 "wikilink")，並在2011年《[星海爭霸II](https://zh.wikipedia.org/wiki/星海爭霸II "wikilink")》電競賽評票選中獲得冠軍。2013年至2016年期間，擔任[微星科技](../Page/微星科技.md "wikilink")[筆電部門](https://zh.wikipedia.org/wiki/筆電 "wikilink")[產品經理](../Page/產品經理.md "wikilink")。\[2\]
 
 ## 經歷
 
-就讀[國立交通大學電子系三年級時出版](../Page/國立交通大學.md "wikilink")[電影同名網路小說](https://zh.wikipedia.org/wiki/電影 "wikilink")《[紅野狼](https://zh.wikipedia.org/wiki/紅野狼 "wikilink")》\[3\]，並身兼電影《紅野狼》的副導演與路人等客串角色。
+就讀[國立交通大學電子系三年級時出版](../Page/國立交通大學.md "wikilink")[電影同名網路小說](https://zh.wikipedia.org/wiki/電影 "wikilink")《紅野狼》\[3\]，並身兼電影《紅野狼》的副導演與路人等客串角色。
 
 2018年7月29日，個人YouTube頻道達到100萬訂閱，為[台灣第18位達成](https://zh.wikipedia.org/wiki/台灣YouTuber訂閱人數排行榜 "wikilink")100萬訂閱的創作者\[4\]\[5\]。
 
@@ -28,9 +28,6 @@
 ## 相關條目
 
   - [台灣YouTuber訂閱人數排行榜](https://zh.wikipedia.org/wiki/台灣YouTuber訂閱人數排行榜 "wikilink")
-  - [在YouTube上訂閱人數最多的用戶列表](../Page/在YouTube上訂閱人數最多的用戶列表.md "wikilink")
-  - [1988年](../Page/1988年.md "wikilink")
-  - [走鐘獎](../Page/走鐘獎.md "wikilink")
 
 ## 參考資料
 
@@ -47,7 +44,6 @@
 [Category:國立交通大學校友](https://zh.wikipedia.org/wiki/Category:國立交通大學校友 "wikilink")
 [Category:國立臺南第一高級中學校友](https://zh.wikipedia.org/wiki/Category:國立臺南第一高級中學校友 "wikilink")
 [Category:私立興國中學校友](https://zh.wikipedia.org/wiki/Category:私立興國中學校友 "wikilink")
-[Category:臺南市新營區新營國民小學校友](https://zh.wikipedia.org/wiki/Category:臺南市新營區新營國民小學校友 "wikilink")
 [Category:翁姓](https://zh.wikipedia.org/wiki/Category:翁姓 "wikilink")
 [Category:台灣電玩家](https://zh.wikipedia.org/wiki/Category:台灣電玩家 "wikilink")
 

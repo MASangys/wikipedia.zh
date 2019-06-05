@@ -1,5 +1,5 @@
 《**食好D
-食平D**》第一輯（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的飲食節目](../Page/電視廣播有限公司.md "wikilink")[食平D系列之一](../Page/食平D系列.md "wikilink")，共二輯，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明擔任主持](../Page/陸浩明.md "wikilink")。第一輯於[香港時間](../Page/香港時間.md "wikilink")2018年5月7日起，逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[myTV
+食平D**》第一輯（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的飲食節目](../Page/電視廣播有限公司.md "wikilink")**食平D系列**之一，共二輯，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明擔任主持](../Page/陸浩明.md "wikilink")。第一輯於[香港時間](../Page/香港時間.md "wikilink")2018年5月7日起，逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[myTV
 SUPER播出](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，並於[myTV
 SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除）。\[1\]\[2\]
 
@@ -16,6 +16,12 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <td><p><strong>菜式</strong></p></td>
 </tr>
 <tr class="even">
+<td><p>2018年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>01</p></td>
 <td><p><a href="../Page/5月7日.md" title="wikilink">5月7日</a></p></td>
 <td><p>自家製溏鮑滋味</p></td>
@@ -27,7 +33,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>芝士煙肉燕麥通粉</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>02</p></td>
 <td><p><a href="../Page/5月8日.md" title="wikilink">5月8日</a></p></td>
 <td><p>鮮甜海鮮大餐</p></td>
@@ -38,7 +44,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>薑汁撞奶</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>03</p></td>
 <td><p><a href="../Page/5月9日.md" title="wikilink">5月9日</a></p></td>
 <td><p>聯合國惹味全餐</p></td>
@@ -50,7 +56,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>蘋果花玫瑰花茶</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>04</p></td>
 <td><p><a href="../Page/5月10日.md" title="wikilink">5月10日</a></p></td>
 <td><p>難以抗拒的慢煮美味</p></td>
@@ -61,7 +67,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>豉汁掛骨蒸豆腐</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>05</p></td>
 <td><p><a href="../Page/5月11日.md" title="wikilink">5月11日</a></p></td>
 <td><p>母親節心意盛宴</p></td>
@@ -73,7 +79,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>茉莉花茶</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>06</p></td>
 <td><p><a href="../Page/5月14日.md" title="wikilink">5月14日</a></p></td>
 <td><p>「芝」味星形Pizza</p></td>
@@ -85,7 +91,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>蒲公英茶</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>07</p></td>
 <td><p><a href="../Page/5月15日.md" title="wikilink">5月15日</a></p></td>
 <td><p>輕鬆烹調老火靚湯</p></td>
@@ -97,7 +103,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>蟲草木耳紅棗茶</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>08</p></td>
 <td><p><a href="../Page/5月16日.md" title="wikilink">5月16日</a></p></td>
 <td><p>均衡蔬果好滋味</p></td>
@@ -110,7 +116,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>蟲草蘋果雪梨茶</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>09</p></td>
 <td><p><a href="../Page/5月17日.md" title="wikilink">5月17日</a></p></td>
 <td><p>DIY燒鴨脆夾嫩</p></td>
@@ -122,7 +128,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>綿茵陳薏米糖冬瓜</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
 <td><p><a href="../Page/5月18日.md" title="wikilink">5月18日</a></p></td>
 <td><p>一加「松露」 聲價十倍</p></td>
@@ -134,7 +140,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>黑杞子茶</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11</p></td>
 <td><p><a href="../Page/5月21日.md" title="wikilink">5月21日</a></p></td>
 <td><p>伴酒燒魚鮫</p></td>
@@ -146,7 +152,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>棉花糖牛軋糖</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12</p></td>
 <td><p><a href="../Page/5月22日.md" title="wikilink">5月22日</a></p></td>
 <td><p>創意素食賀佛誕</p></td>
@@ -157,7 +163,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>蝦鬆肉末魔芋</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>13</p></td>
 <td><p><a href="../Page/5月23日.md" title="wikilink">5月23日</a></p></td>
 <td><p>「陀地黑毛豬」價廉物美</p></td>
@@ -170,7 +176,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>胎菊杞子茶</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>14</p></td>
 <td><p><a href="../Page/5月24日.md" title="wikilink">5月24日</a></p></td>
 <td><p>優質黑豚斧頭扒</p></td>
@@ -182,7 +188,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>肉桂香橙茶</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>15</p></td>
 <td><p><a href="../Page/5月25日.md" title="wikilink">5月25日</a></p></td>
 <td><p>「夢幻」薰衣草雪糕</p></td>
@@ -194,7 +200,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>醬燒年糕</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>16</p></td>
 <td><p><a href="../Page/5月28日.md" title="wikilink">5月28日</a></p></td>
 <td><p>生猛海鮮夠抵食</p></td>
@@ -207,7 +213,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>西瓜皮水</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>17</p></td>
 <td><p><a href="../Page/5月29日.md" title="wikilink">5月29日</a></p></td>
 <td><p>魔芋燜好Duck</p></td>
@@ -219,7 +225,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>雜菜燉鱲魚</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>18</p></td>
 <td><p><a href="../Page/5月30日.md" title="wikilink">5月30日</a></p></td>
 <td><p>本地靚菜煮上菜</p></td>
@@ -231,7 +237,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>南瓜連骨魚濃湯</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>19</p></td>
 <td><p><a href="../Page/5月31日.md" title="wikilink">5月31日</a></p></td>
 <td><p>「雪米」煮出綿滑蟹粥</p></td>
@@ -244,7 +250,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>腰果藜麥奶露</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>20</p></td>
 <td><p><a href="../Page/6月1日.md" title="wikilink">6月1日</a></p></td>
 <td><p>素鮑超「筍」菜</p></td>
@@ -257,7 +263,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>蘿蔔清湯腩</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>21</p></td>
 <td><p><a href="../Page/6月4日.md" title="wikilink">6月4日</a></p></td>
 <td><p>無火燜燒燕麥粥</p></td>
@@ -269,7 +275,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>粉紅番石榴、桑椹等自製消暑冰棒</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>22</p></td>
 <td><p><a href="../Page/6月5日.md" title="wikilink">6月5日</a></p></td>
 <td><p>冷門食材搭出新意</p></td>
@@ -281,7 +287,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>黃芪蟲草花茶</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>23</p></td>
 <td><p><a href="../Page/6月6日.md" title="wikilink">6月6日</a></p></td>
 <td><p>馬介休的雙重滋味</p></td>
@@ -293,7 +299,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>鹹柑桔水</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>24</p></td>
 <td><p><a href="../Page/6月7日.md" title="wikilink">6月7日</a></p></td>
 <td><p>「芝」味「荷」處尋</p></td>
@@ -305,7 +311,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>海燕窩鮮百合奶露</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>25</p></td>
 <td><p><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
 <td><p>上等韓牛啖啖肉</p></td>
@@ -316,7 +322,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>蓮藕搭配雞肉</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>26</p></td>
 <td><p><a href="../Page/6月11日.md" title="wikilink">6月11日</a></p></td>
 <td><p>「巨響」煲湯煮好菜</p></td>
@@ -328,7 +334,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>蟲草杏仁茶</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>27</p></td>
 <td><p><a href="../Page/6月12日.md" title="wikilink">6月12日</a></p></td>
 <td><p>豆豆袪濕湯</p></td>
@@ -340,7 +346,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>蟲草甘露茶</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>28</p></td>
 <td><p><a href="../Page/6月13日.md" title="wikilink">6月13日</a></p></td>
 <td><p>自製港式經典口味</p></td>
@@ -352,7 +358,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>三花茶</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>29</p></td>
 <td><p><a href="../Page/6月14日.md" title="wikilink">6月14日</a></p></td>
 <td><p>茄子巧變「蟠龍鱔」</p></td>
@@ -364,7 +370,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>蝶豆花茶</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>30</p></td>
 <td><p><a href="../Page/6月15日.md" title="wikilink">6月15日</a></p></td>
 <td><p>壓軸毛蟹冰火兩吃</p></td>
@@ -376,7 +382,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>蟲草胎菊麥冬茶</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -396,6 +402,12 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <td><p><strong>菜式</strong></p></td>
 </tr>
 <tr class="even">
+<td><p>2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>01</p></td>
 <td><p><a href="../Page/4月1日.md" title="wikilink">4月1日</a></p></td>
 <td><p>健康從有機開始</p></td>
@@ -406,7 +418,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>南瓜湯浸比目魚</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>02</p></td>
 <td><p><a href="../Page/4月2日.md" title="wikilink">4月2日</a></p></td>
 <td><p>點煮都Duck</p></td>
@@ -417,7 +429,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>翠玉彩椒炒鴨腎</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>03</p></td>
 <td><p><a href="../Page/4月3日.md" title="wikilink">4月3日</a></p></td>
 <td><p>一魚多食</p></td>
@@ -428,7 +440,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>鹽燒馬友魚骹</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>04</p></td>
 <td><p><a href="../Page/4月4日.md" title="wikilink">4月4日</a></p></td>
 <td><p>兒童有營餐</p></td>
@@ -439,7 +451,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>牛油果鮮蝦米紙</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>05</p></td>
 <td><p><a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
 <td><p>燒肉煮好餸</p></td>
@@ -450,7 +462,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>糖醋麵餅</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>06</p></td>
 <td><p><a href="../Page/4月8日.md" title="wikilink">4月8日</a></p></td>
 <td><p>牛魔王</p></td>
@@ -461,7 +473,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>番茄薯仔牛鬆燕麥通粉</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>07</p></td>
 <td><p><a href="../Page/4月9日.md" title="wikilink">4月9日</a></p></td>
 <td><p>食靚D</p></td>
@@ -472,7 +484,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>秘製蜜汁燒焗豬肋排</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>08</p></td>
 <td><p><a href="../Page/4月10日.md" title="wikilink">4月10日</a></p></td>
 <td><p>泰好味</p></td>
@@ -483,7 +495,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>冬蔭功</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>09</p></td>
 <td><p><a href="../Page/4月11日.md" title="wikilink">4月11日</a></p></td>
 <td><p>食「咩」好</p></td>
@@ -494,7 +506,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>菠蘿椰花糖雪花冰</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10</p></td>
 <td><p><a href="../Page/4月12日.md" title="wikilink">4月12日</a></p></td>
 <td><p>碟頭海鮮餐</p></td>
@@ -505,7 +517,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>涼拌小鮮魷</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11</p></td>
 <td><p><a href="../Page/4月15日.md" title="wikilink">4月15日</a></p></td>
 <td><p>新派好煮意</p></td>
@@ -516,7 +528,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>紫椒素菜餅</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12</p></td>
 <td><p><a href="../Page/4月16日.md" title="wikilink">4月16日</a></p></td>
 <td><p>家常心機菜</p></td>
@@ -527,7 +539,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>鹹蛋蒸節瓜</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>13</p></td>
 <td><p><a href="../Page/4月17日.md" title="wikilink">4月17日</a></p></td>
 <td><p>改良版健康美食</p></td>
@@ -538,7 +550,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>少油南乳炸雞翼</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>14</p></td>
 <td><p><a href="../Page/4月18日.md" title="wikilink">4月18日</a></p></td>
 <td><p>滋味魚鰾「打孖上」</p></td>
@@ -549,7 +561,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>蝦乾炒蒜心</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>15</p></td>
 <td><p><a href="../Page/4月19日.md" title="wikilink">4月19日</a></p></td>
 <td><p>全蛋宴</p></td>
@@ -560,7 +572,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>水蒸蛋糕</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>16</p></td>
 <td><p><a href="../Page/4月22日.md" title="wikilink">4月22日</a></p></td>
 <td><p>印度「補腦」咖喱</p></td>
@@ -571,7 +583,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>印度咖喱角</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>17</p></td>
 <td><p><a href="../Page/4月23日.md" title="wikilink">4月23日</a></p></td>
 <td><p>食菌有益</p></td>
@@ -582,7 +594,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>豆環牛肝菌琵琶豆腐</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>18</p></td>
 <td><p><a href="../Page/4月24日.md" title="wikilink">4月24日</a></p></td>
 <td><p>地中海健康餐</p></td>
@@ -593,7 +605,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>周打海鮮湯</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>19</p></td>
 <td><p><a href="../Page/4月25日.md" title="wikilink">4月25日</a></p></td>
 <td><p>「海陸空」全餐</p></td>
@@ -604,7 +616,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>竹蔗肥牛卷</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>20</p></td>
 <td><p><a href="../Page/4月26日.md" title="wikilink">4月26日</a></p></td>
 <td><p>野莧菜兩吃</p></td>
@@ -616,7 +628,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>韓國泡菜蛋飯釀魷魚</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>21</p></td>
 <td><p><a href="../Page/4月29日.md" title="wikilink">4月29日</a></p></td>
 <td><p>入廚提「香」</p></td>
@@ -627,7 +639,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>紹酒香草煮青口</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>22</p></td>
 <td><p><a href="../Page/4月30日.md" title="wikilink">4月30日</a></p></td>
 <td><p>養顏點補膠</p></td>
@@ -638,7 +650,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>咕嚕鮮猴頭菇</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>23</p></td>
 <td><p><a href="../Page/5月1日.md" title="wikilink">5月1日</a></p></td>
 <td><p>有益蒜子宴</p></td>
@@ -649,7 +661,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>蒜子砂鍋炆鱔</li>
 </ul></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>24</p></td>
 <td><p><a href="../Page/5月2日.md" title="wikilink">5月2日</a></p></td>
 <td><p>有「營」大蝦沙律</p></td>
@@ -660,7 +672,7 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>紫薯椰汁西米露</li>
 </ul></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>25</p></td>
 <td><p><a href="../Page/5月3日.md" title="wikilink">5月3日</a></p></td>
 <td><p>黃油烏頭「冰火」兩食</p></td>
@@ -669,6 +681,62 @@ SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（
 <li>茶香豬</li>
 <li>潮州凍烏頭</li>
 <li>瑤柱海鮮冬瓜環</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>26</p></td>
+<td><p><a href="../Page/5月6日.md" title="wikilink">5月6日</a></p></td>
+<td><p>全花錦鱔宴</p></td>
+<td><ul>
+<li>天麻白芷川芎燉花錦鱔</li>
+<li>意大利香草燴花錦鱔</li>
+<li>荷葉黃酒紅棗白玉木耳蒸鱔</li>
+<li>煎封花錦鱔腩扒</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>27</p></td>
+<td><p><a href="../Page/5月7日.md" title="wikilink">5月7日</a></p></td>
+<td><p>龍蝦食盡D</p></td>
+<td><ul>
+<li>香蔥蒜炒新鮮青龍蝦</li>
+<li>椒鹽軟殼龍蝦仔</li>
+<li>涼拌萵筍絲</li>
+<li>豆瓣醬炆牛腱</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>28</p></td>
+<td><p><a href="../Page/5月8日.md" title="wikilink">5月8日</a></p></td>
+<td><p>「國寶級」海鮮美味</p></td>
+<td><ul>
+<li>油泡筍殻</li>
+<li>巴馬火腿紹菜夾</li>
+<li>韭菜蝦煎餅</li>
+<li>鵪鶉蛋釀鮮冬菇</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>29</p></td>
+<td><p><a href="../Page/5月9日.md" title="wikilink">5月9日</a></p></td>
+<td><p>鮮魚滋味</p></td>
+<td><ul>
+<li>荷葉冬瓜去濕湯</li>
+<li>櫻花蝦香辣醬煎白花</li>
+<li>油鹽水煮泥鯭</li>
+<li>海鮮椰菜花飯</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>30</p></td>
+<td><p><a href="../Page/5月10日.md" title="wikilink">5月10日</a></p></td>
+<td><p>母愛大餐</p></td>
+<td><ul>
+<li>上海粢飯</li>
+<li>煎釀三色椒</li>
+<li>法式燉蛋梳乎厘</li>
+<li>鮑魚雞</li>
+<li>酥皮蘑菇批</li>
 </ul></td>
 </tr>
 <tr class="odd">

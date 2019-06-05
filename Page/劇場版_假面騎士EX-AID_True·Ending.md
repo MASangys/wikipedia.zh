@@ -210,10 +210,7 @@ Goes・Indaver的逆襲](../Page/宇宙戰隊九連者_THE_MOVIE_Goes·Indaver�
 </tr>
 <tr class="even">
 <td><p><strong>Ninja-Player</strong><br />
-<strong>Level 50</strong><br />
-<strong>忍者玩家</strong><br />
-<strong>Level 50</strong><br />
-</p></td>
+<strong>忍者玩家</strong></p></td>
 <td><p>原文：<br />
 身高：199.6cm<br />
 體重：97.1kg<br />

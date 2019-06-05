@@ -6,6 +6,8 @@ Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[PlayStat
 360和](../Page/Xbox_360.md "wikilink")[Xbox
 One平台发布](../Page/Xbox_One.md "wikilink")，[任天堂Switch版計畫於](../Page/任天堂Switch.md "wikilink")2019年推出。\[1\]本作是2012年《[狙击精英V2](https://zh.wikipedia.org/wiki/狙击精英V2 "wikilink")》的前传，[狙击精英系列的第三部作品](../Page/狙击精英系列.md "wikilink")。
 
+## 设定
+
 游戏背景设定在《狙击精英V2》事件的几年前，因美国[战略情报局特工卡尔](../Page/战略情报局.md "wikilink")·费尔伯恩（Karl
 Fairburne）成绩突出，他被派往处于二战时期的北非，在那里他将见识到纳粹军队的秘密武器\[2\]，并再次拿起[狙击枪狙杀敌军](https://zh.wikipedia.org/wiki/狙击枪 "wikilink")。
 

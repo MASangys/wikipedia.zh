@@ -115,8 +115,8 @@ Cosmetics 代言。
 am](../Page/I_am.md "wikilink")》全輯音源及主打《LATATA》，並於同日舉行出道Showcase，正式出道。\[52\]
 5月6日，出道曲《LATATA》首度進入音源榜Melon100名之內。\[53\]
 同日在音樂節目《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》播放出道舞台後，隨即登上Naver
-TV Top100播放量第一名。5月9日，出道曲《LATATA》在美國、英國、法國、澳洲、比利時、加拿大、德國⋯⋯等 11 個國家的
-iTunes 韓國流行音樂榜上都奪下了第一名。\[54\]
+TV Top100播放量第一名。5月9日，出道曲《LATATA》在美國、英國、法國、澳洲、比利時、加拿大、德國等 11 個國家的 iTunes
+韓國流行音樂榜上都奪下了第一名。\[54\]
 
 5月10日，出道專輯《[I
 am](../Page/I_am.md "wikilink")》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第七名。\[55\]
@@ -159,31 +159,43 @@ made》回歸，其中成員小娟參與大部份歌曲之作曲填詞，並收�
 2月26日，韓國時間下午6時，公開第二張迷你專輯《[I
 made](../Page/I_made.md "wikilink")》全輯音源及主打《Senorita》，並於同日舉行回歸Showcase。\[74\]
 
-2月28日，迷你二輯《I made》登上美國、加拿大、德國、法國、英國、荷蘭、紐西蘭、澳洲⋯⋯等 22 個國家的iTunes K-pop
-專輯榜冠軍，主打歌《Senorita》 也在美國、英國、澳洲、奧地利⋯⋯等 19 個國家拿下iTunes K-pop
+2月28日，迷你二輯《I made》登上美國、加拿大、德國、法國、英國、荷蘭、紐西蘭、澳洲等 22 個國家的iTunes K-pop
+專輯榜冠軍，主打歌《Senorita》 也在美國、英國、澳洲、奧地利等 19 個國家拿下iTunes K-pop
 單曲榜第一。同日，主打歌《Senorita》在Bugs、Naver登上了冠軍寶座、Soribada拿下亞軍，另在其餘榜單上均在上游圈徘徊。\[75\]\[76\]
 
 3月6日，在音樂節目《[Show
 Champion](../Page/Show_Champion.md "wikilink")》以主打歌《Senorita》取得回歸後首個一位，宣傳期間獲得一個一位。\[77\]3月7日，迷你二輯《[I
 made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告牌音乐奖.md "wikilink")「世界專輯榜」第五名。\[78\]
 
+**日本出道**
+
+5月20日，日本官方網站宣布7月23日將在東京舉行日本出道Showcase，7月31日正式发行日本出道迷你专辑《LATATA》。\[79\]
+
 ## 音乐作品
 
-### 数位单曲
+### 韓語
 
-  - 2018年: 《[HANN](https://zh.wikipedia.org/wiki/HANN "wikilink")》
+#### 迷你专辑
 
-### 迷你专辑
+  - 2018年：《[I am](../Page/I_am.md "wikilink")》
+  - 2019年：《[I made](../Page/I_made.md "wikilink")》
 
-  - 2018年: 《[I am](../Page/I_am.md "wikilink")》
-  - 2019年: 《[I made](../Page/I_made.md "wikilink")》
+#### 数位单曲
 
-### 个人单曲
+  - 2018年：《[HANN](https://zh.wikipedia.org/wiki/HANN "wikilink")》
 
-#### 小娟
+#### 个人单曲
 
-  - 2017年: 《Jelly》
-  - 2018年: 《Idle Song》
+**小娟**
+
+  - 2017年：《Jelly》
+  - 2018年：《Idle Song》
+
+### 日語
+
+#### 迷你專輯
+
+  - 2019年：《[LATATA](https://zh.wikipedia.org/wiki/LATATA_（日语专辑） "wikilink")》
 
 ## 媒体作品
 
@@ -191,11 +203,12 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 
 | 年份          | 产品名称                 | 参与成员         | 备注  |
 | ----------- | -------------------- | ------------ | --- |
-| 2016年       | GMarket 8秒服装\[79\]   | 小娟           | 出道前 |
-| 2017年       | Rising Star化妆品\[80\] | Minnie、雨琦、舒華 |     |
-| 2019年       | Kaja化妆品\[81\]        | 全体           |     |
-| 安慕希酸奶\[82\] | 雨琦                   | 奔跑吧          |     |
-| 唯兰颂面膜\[83\] | 代言人                  |              |     |
+| 2016年       | GMarket 8秒服装\[80\]   | 小娟           | 出道前 |
+| 2017年       | Rising Star化妆品\[81\] | Minnie、雨琦、舒華 |     |
+| 2019年       | Kaja化妆品\[82\]        | 全体           |     |
+| 安慕希酸奶\[83\] | 雨琦                   | 奔跑吧          |     |
+| 唯兰颂面膜\[84\] | 代言人                  |              |     |
+| 米读小说\[85\]  | 奔跑吧                  |              |     |
 
 ## 演唱會及大型公演
 
@@ -488,3 +501,5 @@ made](../Page/I_made.md "wikilink")》取得[美國](../Page/美国.md "wikilink
 81.
 82.
 83.
+84.
+85.

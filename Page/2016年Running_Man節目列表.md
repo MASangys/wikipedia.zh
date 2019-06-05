@@ -39,7 +39,7 @@
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -53,13 +53,13 @@
 <td><p>無嘉賓</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>SNS回覆競賽</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
 <td><p>奪得個人Running Ball</p></td>
-<td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、池錫辰、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、Gary、<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><strong>勝出</strong><br />
-李光洙翌日穿猴子裝從家裡走到最近的地鐵站與經紀人會合並派發所有猴子玩偶</p></td>
+<td><p><a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、池錫辰、<a href="https://zh.wikipedia.org/wiki/金鐘國" title="wikilink">金鐘國</a>、Gary、<a href="https://zh.wikipedia.org/wiki/哈哈" title="wikilink">哈哈及</a><a href="../Page/宋智孝.md" title="wikilink">宋智孝</a><strong>勝出</strong><br />
+李光洙須於翌日穿猴子裝從家裡走到最近的地鐵站與經紀人會合並派發所有猴子玩偶</p></td>
 </tr>
 <tr class="even">
 <td><p>236</p></td>
@@ -824,7 +824,7 @@ vs<br />
 <a href="../Page/姜河那.md" title="wikilink">姜河那</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>王座的遊戲</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
@@ -1093,7 +1093,7 @@ vs<br />
 <a href="../Page/珉豪.md" title="wikilink">珉豪</a>（<a href="../Page/SHINee.md" title="wikilink">SHINee</a>）</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>Avatar House</strong></span><br />
 '''<span style=color:#00008B>劉在錫、徐智慧</span><br />
 <span style=color:#964B00>池錫辰、梁世燦</span><br />

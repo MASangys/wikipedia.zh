@@ -1,6 +1,6 @@
 **威訊媒體公司**（）是[威訊通訊旗下的子公司](../Page/威訊通訊.md "wikilink")，也是[AOL和](https://zh.wikipedia.org/wiki/AOL "wikilink")[Yahoo網路事業部門所屬的母公司](https://zh.wikipedia.org/wiki/Yahoo "wikilink")\[1\]。Oath於2019年1月更名為威訊媒體公司\[2\]\[3\]。
 
-威訊通訊於2015年5月宣布收購AOL\[4\]，並宣佈在2016年7月份收購Yahoo的經營業務\[5\]\[6\]。隨著Yahoo執行長[梅麗莎·梅爾離職](../Page/梅麗莎·梅爾.md "wikilink")，Yahoo網路業務之外的其餘資產在6月16日組成[Altaba公司](https://zh.wikipedia.org/wiki/雅虎#Altaba公司 "wikilink")。AOL和Yahoo在交易完成後仍然會保留自己的品牌\[7\]。
+威訊通訊於2015年5月宣布收購AOL\[4\]，並宣佈在2016年7月份收購Yahoo的經營業務\[5\]\[6\]。隨著Yahoo執行長[梅麗莎·梅爾離職](../Page/梅麗莎·梅爾.md "wikilink")，Yahoo網路業務之外的其餘資產在6月16日組成Altaba公司。AOL和Yahoo在交易完成後仍然會保留自己的品牌\[7\]。
 
 ## 品牌
 

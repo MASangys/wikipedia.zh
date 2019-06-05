@@ -327,6 +327,7 @@ Got》亦拍攝了音樂录像带。錄影帶由導演負責拍攝，描繪了�
 [Category:2016年夏季奧林匹克運動會](https://zh.wikipedia.org/wiki/Category:2016年夏季奧林匹克運動會 "wikilink")
 [Category:2018年Japan_Hot_100冠軍歌曲](https://zh.wikipedia.org/wiki/Category:2018年Japan_Hot_100冠軍歌曲 "wikilink")
 [Category:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/Category:NHK紅白歌合戰演唱歌曲 "wikilink")
+[Category:JASRAC獎金獎獲獎作品](https://zh.wikipedia.org/wiki/Category:JASRAC獎金獎獲獎作品 "wikilink")
 
 1.
 

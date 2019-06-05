@@ -644,7 +644,7 @@ J2：周昌奎</p></td>
 
   - [韓國tvN官方網站](http://program.interest.me/tvn/ohmyghost?Main)
 
-  - [](http://movie.daum.net/tv/ratings?tvProgramId=68611)[DAUM](../Page/多音.md "wikilink")
+  - [](https://web.archive.org/web/20171224102006/http://movie.daum.net/tv/ratings?tvProgramId=68611)[DAUM](../Page/多音.md "wikilink")
 
   - [](https://m.search.naver.com/search.naver?sm=tab_hty.top&ie=utf8&query=%EC%98%A4+%EB%82%98%EC%9D%98+%EA%B7%80%EC%8B%A0%EB%8B%98&where=m)[NAVER](../Page/NAVER.md "wikilink")
 

@@ -79,7 +79,7 @@ Music」。\[1\]
 ### 練習生
 
   - [林煐岷](../Page/林煐岷.md "wikilink")（轉投[Brand New
-    Music](../Page/Brand_New_Music.md "wikilink")，以[MXM出道](../Page/MXM_\(男子音樂組合\).md "wikilink")）
+    Music](../Page/Brand_New_Music.md "wikilink")，以[MXM](../Page/MXM_\(男子音樂組合\).md "wikilink"),[AB6IX出道](../Page/AB6IX.md "wikilink")）
   - 崔栽佑（[PRODUCE
     101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")，轉投J-Flo娛樂，以藝名**崔智眼**在[NewKidd出道](../Page/NewKidd.md "wikilink")）
 

@@ -11,7 +11,7 @@
 
 ## 外部链接
 
-  - [ET聚场（上海欢聚一堂文化传媒有限公司）](http://www.etspace.com.cn/)
+  - [ET聚场（上海欢聚一堂文化传媒有限公司）](https://web.archive.org/web/20160418214410/http://www.etspace.com.cn/)
 
 [Category:上海文化场馆](https://zh.wikipedia.org/wiki/Category:上海文化场馆 "wikilink")
 [Category:上海人民广场](https://zh.wikipedia.org/wiki/Category:上海人民广场 "wikilink")

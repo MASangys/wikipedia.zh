@@ -23,8 +23,7 @@
   - [2018年](../Page/2018年.md "wikilink")[6月15日至](../Page/6月15日.md "wikilink")[7月17日](https://zh.wikipedia.org/wiki/7月17日 "wikilink")，因應[ViuTV播出](../Page/ViuTV.md "wikilink")[世界盃相關節目關係](https://zh.wikipedia.org/wiki/2018年國際足協世界盃 "wikilink")，暫時取消凌晨聯播《now深宵新聞》。
   - [2018年](../Page/2018年.md "wikilink")[7月18日凌晨起](https://zh.wikipedia.org/wiki/7月18日 "wikilink")，[ViuTV改為在星期二至五](../Page/ViuTV.md "wikilink")00:30-01:00及星期六01:00-01:30聯播《now深宵新聞》，節目表仍然顯示以《深宵新聞》名義播放。
   - [2018年](../Page/2018年.md "wikilink")[8月13日起](../Page/8月13日.md "wikilink")，《now深宵新聞》改以高清播出，採用新的主播桌和電視螢幕背景，惟節目停止在now.com提供23:00-23:30足本重溫。
-  - [2019年](../Page/2019年.md "wikilink")[1月8日凌晨起](../Page/1月8日.md "wikilink")，[ViuTV改為在星期二至五](../Page/ViuTV.md "wikilink")00:00-00:30及星期六00:30-01:00聯播《now深宵新聞》。
-  - [2019年](../Page/2019年.md "wikilink")[1月29日凌晨起](../Page/1月29日.md "wikilink")，[ViuTV改為在星期二至六](../Page/ViuTV.md "wikilink")00:00-00:30聯播《now深宵新聞》。
+  - [2019年](../Page/2019年.md "wikilink")[1月8日凌晨起](../Page/1月8日.md "wikilink")，[ViuTV改為在星期二至五](../Page/ViuTV.md "wikilink")00:00-00:30及星期六00:30-01:00聯播《now深宵新聞》（2019年1月29日凌晨起改為在星期二至六00:00-00:30聯播）。
   - [2019年](../Page/2019年.md "wikilink")[5月14日凌晨起](../Page/5月14日.md "wikilink")，[ViuTV改為在星期二至五](../Page/ViuTV.md "wikilink")02:00-02:30及星期六02:30-03:00聯播《now深宵新聞》。
 
 ## 播出時段
@@ -33,7 +32,8 @@
 
 ### [ViuTV](../Page/ViuTV.md "wikilink")
 
-  - 逢星期二至六凌晨<small>（星期一至五深夜）</small>00:00-00:30。
+  - 逢星期二至五凌晨<small>（星期一至四深夜）</small>02:00-02:30。
+  - 逢星期六凌晨<small>（星期五深夜）</small>02:30-03:00。
   - 星期日及一凌晨<small>（星期六及日深夜）</small>則暫停播映。
 
 ### [now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")
@@ -50,8 +50,7 @@
 ### 播出時間表
 
 背景為「」代表該節只在[now新聞台播出](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")，[now財經台不聯播](https://zh.wikipedia.org/wiki/now財經台 "wikilink")。
-背景為「」代表[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")、[now財經台](https://zh.wikipedia.org/wiki/now財經台 "wikilink")、[ViuTV三台聯播](../Page/ViuTV.md "wikilink")。
-背景為「」代表[now新聞台](https://zh.wikipedia.org/wiki/now新聞台 "wikilink")、[ViuTV兩台聯播](../Page/ViuTV.md "wikilink")。
+
 約每10分鐘播一次廣告。
 （括號表示特別調動下播出時段之安排。）
 

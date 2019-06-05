@@ -1,4 +1,4 @@
-是一款由[任天堂及](../Page/任天堂.md "wikilink")[Cygames共同開發的](../Page/Cygames.md "wikilink")[動作角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，以[IOS和](../Page/IOS.md "wikilink")[Android系統為遊戲平台](../Page/Android.md "wikilink")，在2018年9月27日於[日本](../Page/日本.md "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門推出](../Page/澳門.md "wikilink")。游戏支持[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")、[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[繁體中文及](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[簡體中文](https://zh.wikipedia.org/wiki/簡化字 "wikilink")。\[1\]官方在2018年[台北漫博展預告日台港澳將使用同一個](https://zh.wikipedia.org/wiki/台北市 "wikilink")[伺服器並同時上架](https://zh.wikipedia.org/wiki/伺服器 "wikilink")，並由Cygames負責亞洲主要行銷營運，任天堂則以歐美市場為主。\[2\]
+是一款由[任天堂及](../Page/任天堂.md "wikilink")[Cygames共同開發的](../Page/Cygames.md "wikilink")[動作角色扮演遊戲](../Page/電子角色扮演遊戲.md "wikilink")，以[IOS和](../Page/IOS.md "wikilink")[Android系統為遊戲平台](../Page/Android.md "wikilink")，在2018年9月27日於[日本](../Page/日本.md "wikilink")、[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")、[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[香港](../Page/香港.md "wikilink")、[澳門推出](../Page/澳門.md "wikilink")。游戏支持[日文](https://zh.wikipedia.org/wiki/日文 "wikilink")、[英文](https://zh.wikipedia.org/wiki/英文 "wikilink")、[繁體中文及](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")[簡體中文](https://zh.wikipedia.org/wiki/簡化字 "wikilink")。\[1\]官方在2018年[台北漫博展預告日台港澳將使用同一個](https://zh.wikipedia.org/wiki/台北市 "wikilink")[伺服器並同時上架](https://zh.wikipedia.org/wiki/伺服器 "wikilink")。\[2\]
 
 ## 劇情綱要
 
@@ -86,6 +86,43 @@
     配音：[若本規夫](../Page/若本規夫.md "wikilink")
     留名於格拉斯迪亞大陸南方的傳說中，毀滅了數個王朝的闇龍。因長期沐浴於人們的憎恨之中，其肉體已腐爛，其骨甚至也已被怨念所侵蝕。人們對他感到恐懼，但同時也抱有敬畏之心。
 
+## 重大更新
+
+2018年10月16日，修正角色操作性，可開啟或關閉角色「轉身」功能。團隊遊戲中，當玩家死亡時可查看其他角色遊玩狀況。
+
+2018年10月29日，「共鬥之翼」上限從6調整至12，持有上限從50調整至99。自動模式變得可以自動開啟寶箱。長按聖城按鈕可直接進入「建造」。
+
+2018年11月14日，提升AI攻擊和技能發動的頻率。「通往成長之道」中的「法夫納」不再使用護盾。
+
+2018年12月12日，「通往成長之道」「通往黃金之道」追加難易度「超級」。
+
+2018年12月14日，自動模式中角色變得會自動使用技能，且自動模式會延續至下個任務。「商店」新增全部購買功能。
+
+2018年12月27日，增加聖城中「盧比礦山」的盧比生產量。「交換所」開放下位素材和上位素材的互相交換功能。
+
+2019年1月25日，團隊遊戲中，一定時間未操作遊戲的玩家會被強制退出任務。
+
+2019年1月29日，團隊遊戲全面改由「共鬥之翼」參加任務，不再消費能量。隨機組隊時若沒有找到房間，會自動開啟新房間。
+
+2019年2月12日，「遺跡的試煉」更改成每天常態性開放全屬性。
+
+2019年2月26日，Skip券一次最多可使用10張並消耗對應的能量。聖城內正在建設中的設施也可以回收道具。
+
+2019年4月25日，自動模式中，角色會自動使用爆發攻擊。團隊遊戲製作房間將可設定「房間目的」。部分貼圖更改。
+
+2019年4月26日，召喚由1次150個龍光鑽石改為120個、且「龍輝護符」不會出現在召喚中，可在「商店中」兌換或是從任務掉落中取得。
+
+## 合作計畫
+
+  - [聖火降魔錄 英雄雲集](https://zh.wikipedia.org/wiki/聖火降魔錄_英雄雲集 "wikilink")
+
+<!-- end list -->
+
+  -
+    活動期間：2019/04/26～2019/05/14
+    活動「FIRE EMBLEM
+    彼此相連的世界」開放期間限定的新模式「防衛戰」。本活動是從逼近的狄亞內魯帝國兵手中守護據點，以獲得獎勵為目標。活動期間內可獲得★5角色「阿爾馮斯」，而「馬爾斯」「菲約爾姆」「維洛妮卡」則在傳說召喚中期間限定登場。
+
 ## 歌曲
 
 **主題曲**
@@ -107,7 +144,7 @@
 [Category:2018年電子遊戲](https://zh.wikipedia.org/wiki/Category:2018年電子遊戲 "wikilink")
 [Category:動作角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:動作角色扮演遊戲 "wikilink")
 [Category:Cygames遊戲](https://zh.wikipedia.org/wiki/Category:Cygames遊戲 "wikilink")
-[Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink")
+[Category:任天堂企劃製作本部遊戲](https://zh.wikipedia.org/wiki/Category:任天堂企劃製作本部遊戲 "wikilink")
 [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
 [Category:iOS遊戲](https://zh.wikipedia.org/wiki/Category:iOS遊戲 "wikilink")
 [Category:日本開發電子遊戲](https://zh.wikipedia.org/wiki/Category:日本開發電子遊戲 "wikilink")

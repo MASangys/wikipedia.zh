@@ -163,6 +163,15 @@ GONE》，展現成員們的主唱實力，唱出憂傷心碎的故事。此MV�
 </ol>
 <p># It's Showtime</p></td>
 </tr>
+<tr class="even">
+<td><p><strong>5th</strong></p></td>
+<td><p>第五張日語單曲《<strong>I like it!</strong>》</p>
+<ul>
+<li>發行日期：2019年7月31日</li>
+<li>語言：日語</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

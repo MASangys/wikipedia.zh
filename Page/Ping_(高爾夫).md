@@ -8,7 +8,7 @@
   - 1962年，美國職業選手在中使用PING球桿勝出。及後，PING的銷量開始穩步上升。
   - 1967年，索爾海姆辭去在[通用電氣的正職](https://zh.wikipedia.org/wiki/通用電氣 "wikilink")，並將PING從家中車庫遷往一棟工廠大廈。
   - 1969年，使用PING的選手勝出[美國名人賽](../Page/美國名人賽.md "wikilink")，是首次有選手使用PING贏得[四大錦標賽的賽事](https://zh.wikipedia.org/wiki/四大賽 "wikilink")\[1\]。
-  - 2017年，[挪威首相](https://zh.wikipedia.org/wiki/挪威首相 "wikilink")[埃尔娜·索尔贝格到訪美國](../Page/埃尔娜·索尔贝格.md "wikilink")，她贈予美國總統[特朗普一支PING推桿以示兩國友好的關係](https://zh.wikipedia.org/wiki/特朗普 "wikilink")\[2\]。
+  - 2017年，[挪威首相](https://zh.wikipedia.org/wiki/挪威首相 "wikilink")[埃尔娜·索尔贝格到訪美國](../Page/埃尔娜·索尔贝格.md "wikilink")，她贈予美國總統[特朗普一支PING推桿以示兩國友好的關係](https://zh.wikipedia.org/wiki/唐納德·川普 "wikilink")\[2\]。
 
 ## 贊助球員
 

@@ -1,16 +1,16 @@
-《**X戰警：黑鳳凰**》（，前稱作）是一部於2019年上映的美國[超級英雄電影](../Page/超級英雄電影.md "wikilink")，角色取自[漫威漫畫的漫畫書](../Page/漫威漫畫.md "wikilink")《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》，由[二十世紀福斯制作](../Page/二十世紀福斯.md "wikilink")，[華特迪士尼工作室电影发行](https://zh.wikipedia.org/wiki/華特迪士尼工作室电影 "wikilink")。該片為「[X戰警系列電影](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")」的第十二部作品，也是其系列最終回。本片原本作為全新的X戰警電影三部曲的首部曲，但在迪士尼收購影響下，確認為[X戰警系列電影最終章](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")。其後[X戰警將由漫威影業重新製作](https://zh.wikipedia.org/wiki/X戰警 "wikilink")，並且加入[漫威電影宇宙](https://zh.wikipedia.org/wiki/漫威電影宇宙 "wikilink")。
+《**X戰警：黑鳳凰**》（，北美作）是2019年上映的美國[超級英雄電影](../Page/超級英雄電影.md "wikilink")，角色取自[漫威漫畫的漫畫書](../Page/漫威漫畫.md "wikilink")《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》，由[二十世紀福斯制作兼发行](../Page/二十世紀福斯.md "wikilink")。該片為「[X戰警系列電影](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")」的第十二部作品，也是其系列最終回。本片原本作為全新的X戰警電影三部曲的首部曲，但在迪士尼收購影響下，確認為[X戰警系列電影最終章](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")。其後福斯重新製作，並且由迪士尼發行。也是第一部由迪士尼發行非漫威宇宙的漫威電影。
 
-《X戰警：黑鳳凰》由[賽門·金柏格執導及編劇](../Page/賽門·金柏格.md "wikilink")，[詹姆斯·麥艾維](../Page/詹姆斯·麥艾維.md "wikilink")、[麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[珍妮佛·勞倫斯](../Page/珍妮佛·勞倫斯.md "wikilink")、[尼可拉斯·霍特](https://zh.wikipedia.org/wiki/尼可拉斯·霍特 "wikilink")、[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")、[蘇菲·特納](../Page/蘇菲·特納.md "wikilink")、[雅莉珊卓·希普](../Page/雅莉珊卓·希普.md "wikilink")、[寇帝·史密-麥菲](../Page/寇帝·史密-麥菲.md "wikilink")、[伊凡·彼得斯以及](https://zh.wikipedia.org/wiki/伊凡·彼得斯 "wikilink")[潔西卡·雀絲坦主演](https://zh.wikipedia.org/wiki/潔西卡·雀絲坦 "wikilink")。在《X戰警：黑鳳凰》中，[X戰警必須面對](https://zh.wikipedia.org/wiki/X戰警 "wikilink")[黑鳳凰與傾巢而出的](https://zh.wikipedia.org/wiki/火鳳凰_\(漫威漫畫\) "wikilink")帝國。
+《X戰警：黑鳳凰》由[賽門·金柏格執導及編劇](../Page/賽門·金柏格.md "wikilink")，[詹姆斯·麥艾維](../Page/詹姆斯·麥艾維.md "wikilink")、[麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[珍妮佛·勞倫斯](../Page/珍妮佛·勞倫斯.md "wikilink")、[尼可拉斯·霍特](https://zh.wikipedia.org/wiki/尼可拉斯·霍特 "wikilink")、[蘇菲·特納](../Page/蘇菲·特納.md "wikilink")、[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")、[雅莉珊卓·希普以及](../Page/雅莉珊卓·希普.md "wikilink")[潔西卡·雀絲坦主演](https://zh.wikipedia.org/wiki/潔西卡·雀絲坦 "wikilink")。在《X戰警：黑鳳凰》中，[X戰警必須面對](https://zh.wikipedia.org/wiki/X戰警 "wikilink")[黑鳳凰與傾巢而出的](https://zh.wikipedia.org/wiki/火鳳凰_\(漫威漫畫\) "wikilink")帝國。
 
 由於《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》重置了「X戰警系列電影」的時間線，金柏格開始對所著的《》進行一次全新且更為忠於原作的改編，且比早前他在《[X戰警：最後戰役](../Page/X戰警：最後戰役.md "wikilink")》時的嘗試還更為投入。2016年4月，片商證實《[X戰警：天啟](../Page/X戰警：天啟.md "wikilink")》的續集將改編自《黑鳳凰傳奇》。金柏格於2017年6月簽約執導該片，值得一提的是，該片也是金柏格的導演[處女作](../Page/處女作.md "wikilink")。6月，大多數的《X戰警：天啟》演員陸陸續續地回歸，而[主體拍攝則於](https://zh.wikipedia.org/wiki/主體拍攝 "wikilink")6月28日在[蒙特婁開始](https://zh.wikipedia.org/wiki/蒙特婁 "wikilink")。
 
 該片計劃於2019年6月7日在美國上映。
 
-该作是首部由迪士尼发行的非漫威电影宇宙系列的漫威漫画改编电影。
-
 ## 劇情
 
-故事設於1992年，也是《[X戰警：天啟](../Page/X戰警：天啟.md "wikilink")》的十年之後，由X教授所率領的X戰警，此時則已被視為國家英雄。贏得了這個全新地位之後，他們也因此踏上了一場外太空救援任務；此時太陽閃燄意外擊中X太空梭，也讓琴·葛蕾無意間獲得了一種「不懷好意並渴望力量的全新能量」，逐漸化身為能力強大的黑鳳凰的同時，來自外星的邪惡勢力企圖利用琴的強大力量來不法統治世界，而她也隨之陷入了一場身份認同危機，此時[萬磁王竟開始反過來幫助所有的](../Page/萬磁王.md "wikilink")[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")，使他們可以對抗這個極為恐怖的黑鳳凰。
+故事設於1992年，也是《[X戰警：天啟](../Page/X戰警：天啟.md "wikilink")》的十年之後，由X教授所率領的X戰警，此時則已被視為國家英雄。在一次外太空救援事件中，琴遭受了宇宙間一股神秘且猛烈的力量所攻擊，傷勢嚴重讓她也差點賠上了自己的性命。然而，當她返回家中時，她卻發現這股神秘之力竟將她體內的力量以驚人的倍數無限擴大，甚至遠遠超過了自己所能控制的範圍。在她努力與之對抗，並試圖發揮所能時，她卻漸漸發現自己既無法理解更沒有方法去內化體內無限膨脹的超然力量。
+
+隨著琴逐漸地失控，並開始傷害她身邊親近且親愛的人們時，她開始複雜化甚至是離間所有X戰警們之間最初、最緊密的連結與組織。隨著團隊的分崩離析，X戰警們將試圖要重新找回另自己團結一心的方式——而這不僅僅是為了修補琴內心破碎的靈魂，更是要拯救我們唯一的星球，免於邪惡的外星勢力用琴做為武力來不法統治整個銀河系。
 
 ## 演員
 
@@ -47,14 +47,14 @@ Mystique／Raven Darkhölme[3]</p></td>
 Nicholas Hoult</p></td>
 <td><p>「<a href="../Page/野獸_(漫畫).md" title="wikilink">野獸</a>」漢克·麥考伊<br />
 Beast／Hank McCoy[4]</p></td>
-<td><p>變種人，具有藍色野獸的外表及超人的體能，在X教授創立的變種人學校擔任老師。</p></td>
+<td><p>變種人，具有藍色-{野獸}-的外表及超人的體能，在X教授創立的變種人學校擔任老師。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/蘇菲·特納.md" title="wikilink">蘇菲·特納</a><br />
 Sophie Turner</p></td>
 <td><p>「<a href="../Page/琴·葛雷.md" title="wikilink">黑鳳凰</a>」琴·葛雷<br />
 Dark Phoenix／Jean Grey[5]</p></td>
-<td><p>變種人，具有非常強大的心靈感應能力及念力，體內蘊藏著鳳凰之力，是X教授珍愛的學生之一。</p></td>
+<td><p>變種人，具有非常強大的心靈感應能力及念力，體內蘊藏著鳳凰之力，是X教授喜愛的學生之一。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/泰·謝里丹.md" title="wikilink">泰·謝里丹</a><br />
@@ -86,8 +86,7 @@ Quicksilver／Pietro Maximoff[9]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/丹尼爾·寇德摩爾.md" title="wikilink">丹尼爾·寇德摩爾</a><br />
-Daniel Cudmore<br />
-</p></td>
+Daniel Cudmore</p></td>
 <td><p>未知角色[10]</p></td>
 <td></td>
 </tr>
@@ -163,9 +162,7 @@ Spirit」\[40\]。6月底前，[伊凡·彼得斯回歸於該片中飾演](https
 
 ## 上映
 
-《X戰警：黑鳳凰》原定於2018年11月2日由[二十世紀福斯在美國發行](../Page/二十世紀福斯.md "wikilink")\[49\]，但後來延期至2019年2月14日\[50\]。2018年9月，再度延期至2019年6月7日\[51\]。2019年3月，随着迪士尼并购福斯，该片也改由迪士尼负责发行。
-
-该片亦为迪士尼发行的第一部不属于[漫威电影宇宙的漫威漫改电影](https://zh.wikipedia.org/wiki/漫威电影宇宙 "wikilink")。
+《X戰警：黑鳳凰》原定於2018年11月2日由[二十世紀福斯在美國發行](../Page/二十世紀福斯.md "wikilink")\[49\]，但後來延期至2019年2月14日\[50\]。2018年9月，再度延期至2019年6月7日\[51\]。
 
 ## 未來
 

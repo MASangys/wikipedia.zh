@@ -160,12 +160,7 @@ FORCE》收到褒贬不一的评价，GameRankings与Metacritic等网站批评�
 
 2.
 
-3.  Sherman, Jennifer (18 April 2019). "[Jump Force Game Reveals Full
-    DLC Character
-    Lineup](https://www.animenewsnetwork.com/news/2019-04-18/jump-force-game-reveals-full-dlc-character-lineup/.145884)".
-    [Anime News
-    Network](https://zh.wikipedia.org/wiki/Anime_News_Network "wikilink").
-    Retrieved 18 April 2019.
+3.
 
 4.
 5.

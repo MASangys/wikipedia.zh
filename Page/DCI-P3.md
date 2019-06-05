@@ -61,6 +61,14 @@ DCI-P3 色域的 HTC U11 + 手机。 
 2017 年 12 月，苹果发布了 [iMac
 Pro](https://zh.wikipedia.org/wiki/iMac_Pro "wikilink")，支持 P3 色域。
 
+### 2018
+
+2018 年 4 月，[華碩發佈了支持](../Page/華碩.md "wikilink") DCI-P3 色域的 [ZenFone
+5](https://zh.wikipedia.org/wiki/ZenFone_5 "wikilink")(ZE620KL) 手機。
+
+2018 年 6 月，[華碩再發佈支持](../Page/華碩.md "wikilink") DCI-P3 色域的 [ZenFone
+5z](https://zh.wikipedia.org/wiki/ZenFone_5z "wikilink")(ZS620KL) 手機。
+
 ## 系统比色法
 
 | [色彩空间](https://zh.wikipedia.org/wiki/色彩空间 "wikilink") | [白点](https://zh.wikipedia.org/wiki/白点 "wikilink") | [原色](../Page/原色.md "wikilink") |
@@ -80,6 +88,7 @@ DCI-P3 比 sRGB 色彩空间大了约 25%。
 </references>
 
 [Category:颜色](https://zh.wikipedia.org/wiki/Category:颜色 "wikilink")
+[Category:超高清电视](https://zh.wikipedia.org/wiki/Category:超高清电视 "wikilink")
 
 1.
 2.

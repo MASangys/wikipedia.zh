@@ -1,4 +1,4 @@
-**YooA**（，），本名為**柳諟我**或**劉始我**（）\[1\]。2015年4月以[WM
+**YooA**（，），本名為**柳諟我**或**柳始我**（）\[1\]。2015年4月以[WM
 Entertainment旗下](https://zh.wikipedia.org/wiki/WM_Entertainment "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[Oh
 My
 Girl一員出道](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")，隊内擔任領唱、主領舞、形象。

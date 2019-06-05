@@ -22,7 +22,7 @@ A8处理器](../Page/Apple_A8.md "wikilink")。iPod touch 6移除了iPod touch
 </tr>
 <tr class="even">
 <td><p>|最新作業系統</p></td>
-<td><p>正式版：<a href="../Page/IOS_12.md" title="wikilink">iOS 12.1.4</a> ，测试版：<a href="https://zh.wikipedia.org/wiki/IOS_12.2" title="wikilink">iOS 12.2 developer beta 2</a></p></td>
+<td><p>正式版：<a href="../Page/IOS_12.md" title="wikilink">iOS 12.3</a> ，测试版：<a href="https://zh.wikipedia.org/wiki/IOS_12.4" title="wikilink">iOS 12.4 developer beta</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>|<a href="https://zh.wikipedia.org/wiki/螢幕" title="wikilink">螢幕</a></p></td>

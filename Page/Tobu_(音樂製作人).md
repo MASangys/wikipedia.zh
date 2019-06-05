@@ -9,7 +9,7 @@ Burkovskis之製作過程，受電子音樂製作人[鼠來寶之歌](../Page/�
 
 ## 事業
 
-直到2018年11月23日爲止，其[YouTube頻道有超過](../Page/YouTube.md "wikilink")98萬之訂閱數量同超過70首歌。\[2\]
+直到2019年5月25日爲止，其[YouTube頻道有超過](../Page/YouTube.md "wikilink")100萬之訂閱數量同超過70首歌。\[2\]
 
 ## 音樂作品
 

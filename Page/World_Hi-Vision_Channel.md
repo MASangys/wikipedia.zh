@@ -14,7 +14,7 @@ Channel曾运营[高尔夫台日本版](https://zh.wikipedia.org/wiki/高尔夫�
 
 ## 外部链接
 
-  - [官方网站](http://www.twellv.co.jp/index.html)
+  - [官方网站](https://web.archive.org/web/20080201163733/http://www.twellv.co.jp/index.html)
 
   -
   -

@@ -171,7 +171,7 @@
 <tr class="odd">
 <td><p>18</p></td>
 <td><p>2019年3月20日</p></td>
-<td></td>
+<td><p>ISBN 978-4-592-21618-6</p></td>
 </tr>
 </tbody>
 </table>
@@ -425,7 +425,7 @@
 
 ## 外部連結
 
-  - [覆面系NOISE漫画 资料](http://www.manhua8.cn/comic/9166.html)
+  - [「覆面系NOISE」官方網頁](https://www.hanayume.com/fukumen/)
   - [電視《覆面系NOISE》動畫官方網站](http://fukumenkei-anime.jp/)
   - [電影《覆面系NOISE》劇場版官方網站](http://fukumenkei-noise.jp/)
   - [電視《覆面系NOISE》BS富士電視台動畫介紹專頁](http://www.bsfuji.tv/fukumenkei/pub/index.html)
@@ -433,9 +433,6 @@
   - [電視《覆面系NOISE》東京都會電視台動畫介紹專頁](http://s.mxtv.jp/anime/fukumenkei/)
   - [電視《覆面系NOISE》巴哈姆特動畫瘋
     動畫正版直播專題](https://ani.gamer.com.tw/animeVideo.php?sn=7598)
-  - \[<https://twitter.com/HanaYume?ref_src=twsrc%5Etfw%7Ctwcamp%5Eembeddedtimeline%7Ctwterm%5Eprofile%3AHanaYume&ref_url=https%3A%2F%2Fwww.hanayume.com%2Fthehana%2F>
-
-花與夢官方twitter
 
 [Category:花與夢](https://zh.wikipedia.org/wiki/Category:花與夢 "wikilink")
 [Category:改编成电影的日本漫画](https://zh.wikipedia.org/wiki/Category:改编成电影的日本漫画 "wikilink")

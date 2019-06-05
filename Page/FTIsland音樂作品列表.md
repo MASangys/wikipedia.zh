@@ -244,8 +244,8 @@ Sensibility》正式出道。迄今共發行16張專輯、3張合輯、8張迷�
 <li>廠牌：日本華納音樂</li>
 <li>格式：CD、數位下載</li>
 </ul></td>
-<td><p>colspan=3 </p></td>
-<td></td>
+<td><p>－</p></td>
+<td><p>3</p></td>
 </tr>
 <tr class="odd">
 <td></td>

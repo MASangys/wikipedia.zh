@@ -140,6 +140,18 @@ ISBN 978-4-06-510047-9</p></td>
 <td><p>ISBN 978-4-06-510858-1<small>（CD限定版）[15]</small><br />
 ISBN 978-4-06-510807-9</p></td>
 </tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2018年8月23日</p></td>
+<td><p>ISBN 978-4-06-512639-4<br />
+ISBN 978-4-06-512883-1<small>（限定版）</small></p></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2019年2月22日</p></td>
+<td><p>ISBN 978-4-06-514670-5<br />
+ISBN 978-4-06-514671-2<small>（限定版）</small></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -294,21 +306,32 @@ MX頻道放送中](https://zh.wikipedia.org/wiki/TOKYO_MX "wikilink")\[17\]。
 </tr>
 <tr class="odd">
 <td><p>Line.11</p></td>
-<td><p>ウロボロス</p></td>
+<td></td>
 <td><p>Ouroboros</p></td>
 <td><p>久尾步</p></td>
 <td><p>吉川博明</p></td>
-<td><p>奧野浩行、水野龍馬</p></td>
+<td><p>水野龍馬</p></td>
 <td><p>梶浦紳一郎、南伸一郎</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>Line.12</p></td>
-<td><p>デビルズライン</p></td>
+<td></td>
 <td><p>DEVILSLINE</p></td>
 <td><p>古怒田健志</p></td>
-<td><p>水野龍馬</p></td>
+<td><p>奧野浩行、水野龍馬</p></td>
 <td><p>伊藤美奈、梶浦紳一郎、三好和也</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Line.X<br />
+</p></td>
+<td></td>
+<td><p>隨時隨地</p></td>
+<td><p>水野龍馬</p></td>
+<td><p>加藤顯</p></td>
+<td><p>伊藤美奈、小川浩司、梶浦紳一郎</p></td>
 <td></td>
 <td></td>
 </tr>

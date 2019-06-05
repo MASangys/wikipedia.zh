@@ -88,9 +88,6 @@ Seoul》和《For LA》。
 
 ## 參考資料
 
-[ko:FATE NUMBER
-FOR](https://zh.wikipedia.org/wiki/ko:FATE_NUMBER_FOR "wikilink")
-
 [Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
 [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 [Category:WINNER音樂專輯](https://zh.wikipedia.org/wiki/Category:WINNER音樂專輯 "wikilink")

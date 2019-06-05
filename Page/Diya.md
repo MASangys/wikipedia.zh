@@ -17,7 +17,7 @@ Diya于1999年出生于[辽宁](../Page/辽宁省.md "wikilink")[沈阳](https:/
 
 ## 参考资料
 
-[Category:中国大陆电玩家](https://zh.wikipedia.org/wiki/Category:中国大陆电玩家 "wikilink")
+[Category:中国电玩家](https://zh.wikipedia.org/wiki/Category:中国电玩家 "wikilink")
 [Category:守望先锋玩家](https://zh.wikipedia.org/wiki/Category:守望先锋玩家 "wikilink")
 
 1.

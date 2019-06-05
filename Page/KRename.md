@@ -29,7 +29,7 @@
 
 ## 外部链接
 
-  - [官方网站](http://www.krename.net/)
+  - [官方网站](https://web.archive.org/web/20101229144112/http://krename.net/)
   - [SourceForge上项目的网页](http://sourceforge.net/projects/krename/)
 
 ## 参考文献

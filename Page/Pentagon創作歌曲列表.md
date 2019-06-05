@@ -852,6 +852,7 @@ E'Dawn Yuto 禹奭 小娟</p></td>
 | Round 1                           | PENTAGON          | Genie:us                 | PTG全體 MosPick                                         | PTG全體                                                      | Mospick                                |    |
 | Genius Feat 父親                    | PENTAGON          | Cube Youtube             | Hui 信源                                                | Hui 信源 Yuto Kino 禹奭                                        | 쥰                                      |    |
 | 1 Sided Love                      | Kriz Feat. Kino   | 1 Sided Love             | Kriz Kino                                             | Kriz Kino Dart                                             | Kriz                                   |    |
+| Dramatic                          | PENTAGON          | BVNDIT                   | Hui, Flow Blow, The Proof                             | Hui, Flow Blow, The Proof                                  | Flow Blow, The Proof                   |    |
 
 ## 參考資料
 

@@ -254,7 +254,7 @@ Gaming（RG）隊員組成，創下台港澳英雄聯盟頂級聯賽開季五連
 </tr>
 <tr class="odd">
 <td><p>Ran</p></td>
-<td><p>陳冠喻</p></td>
+<td><p>陳冠諭</p></td>
 <td><p>Jungle</p></td>
 <td></td>
 <td></td>

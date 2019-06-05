@@ -283,7 +283,7 @@
     (2014)，[](http://www.hkmdb.com/db/movies/view.mhtml?id=16864&display_set=eng)、[](http://www.hkmdb.com/db/movies/view.mhtml?id=16864&display_set=big5)
     - 香港影庫
 
-<!-- end list -->
+[Category:2014年香港電影](https://zh.wikipedia.org/wiki/Category:2014年香港電影 "wikilink")
 
 1.
 

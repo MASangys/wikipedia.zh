@@ -249,9 +249,6 @@ Z](https://zh.wikipedia.org/wiki/ONE_PIECE_FILM_Z "wikilink")》的特別短篇�
 
 ## 外部連結
 
-[ja:ONE PIECE エピソードオブメリー
-〜もうひとりの仲間の物語〜](https://zh.wikipedia.org/wiki/ja:ONE_PIECE_エピソードオブメリー_〜もうひとりの仲間の物語〜 "wikilink")
-
 [Category:ONE_PIECE](https://zh.wikipedia.org/wiki/Category:ONE_PIECE "wikilink")
 [Category:ONE_PIECE特別篇](https://zh.wikipedia.org/wiki/Category:ONE_PIECE特別篇 "wikilink")
 [Category:2013年日本電視動畫](https://zh.wikipedia.org/wiki/Category:2013年日本電視動畫 "wikilink")

@@ -28,7 +28,7 @@ Pictures**是日本一間以動畫企畫、製作為主要業務的企業，於2
 <tbody>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mysteria_Friends" title="wikilink">Mysteria Friends</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mysteria_Friends" title="wikilink">巴哈姆特之怒 -Manaria Friends-</a></p></td>
 <td></td>
 <td><p>1月20日－預定</p></td>
 <td><p><a href="../Page/岡本英樹.md" title="wikilink">岡本英樹</a></p></td>

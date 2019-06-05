@@ -23,15 +23,12 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 
 富力於2017/18球季後大肆擴軍，並公佈2018一19球季班費高達五千萬港元，並以高薪向各支港超聯勁旅挖角。其中[傑志於](../Page/傑志體育會.md "wikilink")2018年5月31日向[香港足球總會就有關](../Page/香港足球總會.md "wikilink")[R\&F富力非法接觸球員](https://zh.wikipedia.org/wiki/R&F富力 "wikilink")[丹尼作出投訴](../Page/丹尼·簡斯拿.md "wikilink")。[R\&F富力早前在未有通知的情況下直接與尚有合約在身球員](https://zh.wikipedia.org/wiki/R&F富力 "wikilink")[丹尼接觸](../Page/丹尼·簡斯拿.md "wikilink")，並傾談轉會事宜。違反國際足協的規例。\[4\]球隊先簽入[楊正光擔任球隊主教練](../Page/楊正光.md "wikilink")，同時[陳俊樂以外借加盟方式來投](../Page/陳俊樂.md "wikilink")，其他加盟球員均來自2017-18球季的「前四」隊伍。\[5\]
 
-2018年8月29日在[廣州市](https://zh.wikipedia.org/wiki/廣州市 "wikilink")[花園酒店開記者會](https://zh.wikipedia.org/wiki/花園酒店 "wikilink")，副董事長[黃盛華先生](https://zh.wikipedia.org/wiki/黃盛華 "wikilink")、總經理[章彬及總教練](https://zh.wikipedia.org/wiki/章彬 "wikilink")[楊正光和全體球員出席](../Page/楊正光.md "wikilink")。主教練[楊正光在記者會講解今季聯賽目標前三名及最少一個盃賽冠軍](../Page/楊正光.md "wikilink")，隊中還有一個外援名額，在歐洲物色中，是一位後防中堅球員，但透露此球員過往沒有參與亞洲國家聯賽，將會在9月份加入球隊。前鋒[高梵有留隊](https://zh.wikipedia.org/wiki/高梵 "wikilink")，但因為受傷關係，首戰作客[香港大球場對](../Page/香港大球場.md "wikilink")[東方龍獅賽事會避戰](https://zh.wikipedia.org/wiki/東方龍獅 "wikilink")。
+2019年4月28日，在兩度改期之下，富力完成對[凱景的港超聯賽事](../Page/凱景體育會.md "wikilink")，並以99人刷新歷屆最低入場紀錄，是[香港超級聯賽史上首現雙位入場數字](https://zh.wikipedia.org/wiki/香港超級聯賽 "wikilink")。\[6\]
+而在5月4日，[富力R\&F在](../Page/富力R&F.md "wikilink")[燕子崗體育場上演榜首大戰對陣](https://zh.wikipedia.org/wiki/燕子崗體育場 "wikilink")[和富大埔](../Page/大埔足球會.md "wikilink")，大埔憑著[辛祖於比賽尾段連入兩球上演大逆轉](../Page/辛祖.md "wikilink")，2比1反勝，富力R\&F親手將冠軍拱手相讓，同時富力R\&F再次未有錦標結束球季。\[7\]
 
-主教練[楊正光先生更透露前鋒基奧雲尼入籍在即](../Page/楊正光.md "wikilink")，騰出一個外援名額後，還考慮簽入一位外援中場加强攻力。
+### 2019-2020球季
 
-球會副董事長黃盛華表示，仍希望以培育香港及富力的年輕球員為重心，但礙於過去兩季因球員質素不高，鍛煉效果欠佳，所以第三季參與港超聯決定加入多位香港有質素的球員，希望可以藉此加強成效。成績方面球會以盃賽冠軍為目標，聯賽就希望可以打入前三。不過他補充只屬「競賽會員」的富力R\&F在今季仍不是足總的正式會員，無論如何都不能代表香港參加2019-20年的亞洲賽事，但就期望可在2019-20年球季成為足總正式會員，以爭取機會參加2021-22年的亞洲賽。
-
-新球季廣東體育台將直播9場富力R\&F的主場賽事，同時亦積極向香港足總爭取授權，希望可以在「PPTV」網上平台直播富力R\&F全季港超赛事，向內地球迷推廣港超聯，以配合大灣區概念。
-
-### 2019年一2020年球季
+簽入香港年青前鋒[陳嘉寶](https://zh.wikipedia.org/wiki/陳嘉寶 "wikilink")。
 
 ## 歷年球隊名字變更
 
@@ -498,7 +495,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 </tbody>
 </table>
 
-### 離隊一隊球員，管理層及職員名單（2018 / 19）
+### 離隊一隊球員，管理層及職員名單（2019 / 20）
 
 <table style="width:112%;">
 <colgroup>
@@ -551,7 +548,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 <td><p><a href="https://zh.wikipedia.org/wiki/何子霖" title="wikilink">何子霖</a>（He Zilin）</p></td>
 <td><p>後衛</p></td>
 <td><p>1998年7月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/廣州富力" title="wikilink">廣州富力u</a>19梯队</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/廣州富力" title="wikilink">廣州富力</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -665,7 +662,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 
   - [閔俊麟](https://zh.wikipedia.org/wiki/閔俊麟 "wikilink")（2016年）
 
-  - [楊挺](https://zh.wikipedia.org/wiki/楊挺 "wikilink")(2016年)
+  - [楊挺](https://zh.wikipedia.org/wiki/楊挺 "wikilink")（2016年）
 
 ## 曾效力球員
 
@@ -777,7 +774,7 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
 
   - [般連奴](../Page/般連奴.md "wikilink")
 
-  - [麥高派奴域](https://zh.wikipedia.org/wiki/麥高派奴域 "wikilink")
+  - [利安高](../Page/堤亞高·利安高.md "wikilink")
 
 ## 參考資料
 
@@ -799,3 +796,5 @@ R\&F富力新一季班費預算1980萬港元，積極招兵買馬包括重金挖
     (2018-05-31)](http://www.kitchee.com/news.php?id=659) 傑志- 最新消息
     2018-05-31
 5.  [关于球员陈俊乐加盟广州富力足球俱乐部的公告](https://weibo.com/2456231390/GpLzObg0J?ref=home&rid=1_0_8_3074308831379527477_0_1)
+6.  [【港超聯】凱景作客負富力正式降班　港超史上首現雙位入場人數](https://www.hk01.com/即時體育/322944/港超聯-凱景作客負富力正式降班-港超史上首現雙位入場人數)
+7.  [港超聯　和富大埔搞掂富力　首奪聯賽冠軍](https://hk.on.cc/hk/bkn/cnt/sport/20190504/bkn-20190504162426410-0504_00882_001.html)

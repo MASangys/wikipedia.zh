@@ -56,7 +56,7 @@ Lake。该工作室的开发工作焦点为[任天堂的新主机Wii](../Page/�
     from [GameSpot](../Page/GameSpot.md "wikilink")
 
 10. [*Tiger Woods 2001 PGA Tour*
-    review](http://www.sgn.cc/golf/tiger_woods_2001/review.shtml) from
+    review](http://www.sgn.cc/golf/tiger_woods_2001/review.shtml)  from
     Sports Gaming Network
 
 11. [*Tiger Woods 2002*

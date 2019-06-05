@@ -71,13 +71,15 @@ hotaru負責所有錄音的寫作，同時也在推動樂團的音樂世界觀�
 <!-- end list -->
 
   - 2月27日發行第八張單曲「shadowgraph」，為電視動畫[幻影死神片頭曲](https://zh.wikipedia.org/wiki/幻影死神 "wikilink")\[11\]，當中收錄曲「Remembrance」，為劇場版[幼女戰記主題曲](../Page/幼女戰記.md "wikilink")\[12\]。
+  - 預定7月24日發行第九張單曲「PANTA
+    RHEI」，為電視動畫[異世界超能魔術師片頭曲](../Page/異世界超能魔術師.md "wikilink")\[13\]
 
 ## 成員
 
-**Mayu** - 主唱、作曲、寫詞（已離開）**創立成員**
+**Mayu** （前島麻由）- 主唱、作曲、寫詞（已離開）**創立成員**
 
   - 個人Twitter:
-    \[<https://twitter.com/_0414mayu>[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")\]
+    [Mayu[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")](https://twitter.com/_0414Mayu)
   - 歌手，希望能用歌声让听众释放情感，将此作为自己的信条。她那受到西方音乐强烈影响下的歌声和表现力十分超群出众。2015年加入MYTH &
     ROID。
 
@@ -88,7 +90,7 @@ hotaru負責所有錄音的寫作，同時也在推動樂團的音樂世界觀�
     Oshima[twitter](https://zh.wikipedia.org/wiki/twitter "wikilink")](https://twitter.com/TomOshima_TH)
   - 音乐制作人，MYTH & ROID的总策划，负责海内外众多歌手、影像音乐的制作。至今所与所参与制作的内容跨越了各种风格席卷了整个业界。
 
-在Tom-H@ck擔任藝人尋找歌手搭檔時觀看了Mayu的LIVE，被Tom-H@ck看中。在與Tom-H@ck初次見面Mayu時由於還是學生的緣故，還穿著學生制服\[13\]。
+在Tom-H@ck擔任藝人尋找歌手搭檔時觀看了Mayu的LIVE，被Tom-H@ck看中。在與Tom-H@ck初次見面Mayu時由於還是學生的緣故，還穿著學生制服\[14\]。
 
 **hotaru**- 作詞（2017年加入）
 
@@ -129,35 +131,35 @@ hotaru負責所有錄音的寫作，同時也在推動樂團的音樂世界觀�
 <td><p>2015年8月26日</p></td>
 <td><p>L.L.L.</p></td>
 <td><p>LACM-14129</p></td>
-<td><p>29[14]位</p></td>
+<td><p>29[15]位</p></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
 <td><p>2016年2月24日</p></td>
 <td><p>ANGER/ANGER</p></td>
 <td><p>LACM-14148</p></td>
-<td><p>82[15]位</p></td>
+<td><p>82[16]位</p></td>
 </tr>
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>2016年5月25日</p></td>
 <td><p>STYX HELIX</p></td>
 <td><p>LACM-14173</p></td>
-<td><p>26[16]位</p></td>
+<td><p>26[17]位</p></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>
 <td><p>2016年8月24日</p></td>
 <td><p>Paradisus-Paradoxum</p></td>
 <td><p>LACM-14228</p></td>
-<td><p>24[17]位</p></td>
+<td><p>24[18]位</p></td>
 </tr>
 <tr class="even">
 <td><p>5th</p></td>
 <td><p>2017年2月8日</p></td>
 <td><p>JINGO JUNGLE</p></td>
 <td><p>LACM-14279</p></td>
-<td><p>22[18]位</p></td>
+<td><p>22[19]位</p></td>
 </tr>
 <tr class="odd">
 <td><p>KIHOW</p></td>
@@ -172,21 +174,28 @@ hotaru負責所有錄音的寫作，同時也在推動樂團的音樂世界觀�
 <td><p>HYDRA</p></td>
 <td><p>ZMCZ-11853<br />
 ZMCZ-11852（初回限定盤）</p></td>
-<td><p>33[19]位</p></td>
+<td><p>33[20]位</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>2018年7月25日</p></td>
 <td><p>VORACITY</p></td>
 <td><p>ZMCZ-12354</p></td>
-<td><p>47[20]位</p></td>
+<td><p>47[21]位</p></td>
 </tr>
 <tr class="even">
 <td><p>8th</p></td>
 <td><p>2019年2月27日</p></td>
 <td><p>shadowgraph</p></td>
 <td><p>ZMCZ-12951</p></td>
-<td><p>40[21]位</p></td>
+<td><p>40[22]位</p></td>
+</tr>
+<tr class="odd">
+<td><p>9th</p></td>
+<td><p>2019年7月24日</p></td>
+<td><p>PANTA RHEI</p></td>
+<td><p>ZMCZ-13171</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -200,19 +209,21 @@ ZMCZ-11852（初回限定盤）</p></td>
 
 ## 音樂合作
 
-| 樂曲                           | 音樂合作一覽                                                                                                      | 時期    |
-| ---------------------------- | ----------------------------------------------------------------------------------------------------------- | ----- |
-| **L.L.L.**                   | [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[OVERLORD](../Page/OVERLORD_\(小說\).md "wikilink")』片尾曲 | 2015年 |
-| **ANGER/ANGER**              | 電視動畫『[舞武器·舞亂伎](../Page/舞武器·舞亂伎.md "wikilink")』片尾曲                                                           | 2016年 |
-| **STYX HELIX**               | 電視動畫『[Re:從零開始的異世界生活](../Page/Re:從零開始的異世界生活.md "wikilink")』片尾曲                                               |       |
-| **Paradisus-Paradoxum**      |                                                                                                             |       |
-| **JINGO JUNGLE**             | 電視動畫『[幼女戰記](../Page/幼女戰記.md "wikilink")』片頭曲                                                                 | 2017年 |
-| **Crazy Scary Holy Fantasy** | 『[劇場版總集篇](https://zh.wikipedia.org/wiki/劇場版 "wikilink") OVERLORD 不死者之王』主題曲                                  |       |
-| **HYDRA**                    | 電視動畫『OVERLORDⅡ』片尾曲                                                                                          | 2018年 |
-| **VORACITY**                 | 電視動畫『OVERLORDⅢ』片頭曲                                                                                          |       |
-| **Future is Mine**           | [手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")『神角技巧與11的破壞者』主題曲                                       | 2019年 |
-| **shadowgraph**              | 電視動畫『[幻影死神](https://zh.wikipedia.org/wiki/幻影死神 "wikilink")』片頭曲                                              |       |
-| **Remembrance**              | 劇場版『[幼女戰記](../Page/幼女戰記.md "wikilink")』主題曲與 電視動畫『[幻影死神](https://zh.wikipedia.org/wiki/幻影死神 "wikilink")』插曲   |       |
+| 樂曲                           | 音樂合作一覽                                                                                                                | 時期    |
+| ---------------------------- | --------------------------------------------------------------------------------------------------------------------- | ----- |
+| **L.L.L.**                   | [電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[OVERLORD](../Page/OVERLORD_\(小說\).md "wikilink")』片尾曲           | 2015年 |
+| **ANGER/ANGER**              | 電視動畫『[舞武器·舞亂伎](../Page/舞武器·舞亂伎.md "wikilink")』片尾曲                                                                     | 2016年 |
+| **STYX HELIX**               | 電視動畫『[Re:從零開始的異世界生活](../Page/Re:從零開始的異世界生活.md "wikilink")』片尾曲                                                         |       |
+| **Paradisus-Paradoxum**      |                                                                                                                       |       |
+| **JINGO JUNGLE**             | 電視動畫『[幼女戰記](../Page/幼女戰記.md "wikilink")』片頭曲                                                                           | 2017年 |
+| **Crazy Scary Holy Fantasy** | 『[劇場版總集篇](https://zh.wikipedia.org/wiki/劇場版 "wikilink") OVERLORD 不死者之王』主題曲                                            |       |
+| **HYDRA**                    | 電視動畫『OVERLORDⅡ』片尾曲                                                                                                    | 2018年 |
+| **VORACITY**                 | 電視動畫『OVERLORDⅢ』片頭曲                                                                                                    |       |
+| **Future is Mine**           | [手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")『神角技巧與11的破壞者』主題曲                                                 | 2019年 |
+| **shadowgraph**              | 電視動畫『[幻影死神](https://zh.wikipedia.org/wiki/幻影死神 "wikilink")』片頭曲                                                        |       |
+| **Remembrance**              | 劇場版『[幼女戰記](../Page/幼女戰記.md "wikilink")』主題曲                                                                            |       |
+| **PANTA RHEI**               | 電視動畫『[異世界超能魔術師](../Page/異世界超能魔術師.md "wikilink")』片頭曲                                                                   |       |
+| **追想輪迴**                     | [手機遊戲](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")『[永遠的七日之都](https://zh.wikipedia.org/wiki/永遠的七日之都 "wikilink")』主題曲 |       |
 
 ## 註解
 
@@ -252,3 +263,4 @@ ZMCZ-11852（初回限定盤）</p></td>
 19.
 20.
 21.
+22.

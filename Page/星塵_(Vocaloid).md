@@ -20,7 +20,7 @@
 星尘》**使用了[雅马哈的Vocaloid](https://zh.wikipedia.org/wiki/雅马哈 "wikilink")
 4引擎制作。其声库收录了茶理理年轻的聲音。
 
-产品内并未附带呼吸音，需要在其官方网站上单独[下载](http://quad-stardust.com/download.html)。
+产品内并未附带呼吸音，需要在其官方网站上单独[下载](https://web.archive.org/web/20170212164504/http://quad-stardust.com/download.html)。
 
 <table>
 <thead>

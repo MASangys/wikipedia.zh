@@ -115,6 +115,11 @@
 | KBS Cool FM  |
 | 1月7日         |
 | SBS Power FM |
+| 5月20日        |
+| SBS Power FM |
+| 5月22日        |
+| 5月27日        |
+| 6月5日         |
 |              |
 
 ## 主持
@@ -159,16 +164,16 @@
 | 2018年9月7日－2018年10月26日  |
 | 2018年9月30日－2018年12月2日  |
 | 2018年8月28日－2019年1月15日  |
-|                        |
+| 2019年4月5日－2019年4月26日   |
 
 ### 播映中
 
-| 節目列表              |
-| ----------------- |
-|                   |
-| 播出日期              |
-| 2019年4月5日－2019年月日 |
-|                   |
+| 節目列表               |
+| ------------------ |
+|                    |
+| 播出日期               |
+| 2019年5月31日－2019年月日 |
+|                    |
 
 ## 綜藝節目
 
@@ -286,7 +291,10 @@
 | 1月31日       |
 | 2月12日       |
 | 4月5日        |
+| 5月23日       |
 | 4月5日、12日    |
+| 5月25日、6月1日  |
+| 5月28日       |
 |             |
 
 ## 音樂錄影帶
@@ -330,7 +338,7 @@
 | [ISLAND (Japanese Ver.)](https://m.youtube.com/watch?v=HcfwN2GgnpA)             |                                                                                 |                                                                  |                                                                  |                                                              |                                                              |
 | 2018年                                                                           | 《EVERYD4Y》                                                                      | 4月4日                                                             | [EVERYDAY](https://m.youtube.com/watch?v=d1D1SJ-KqaQ)            | 4月12日                                                        | [EVERYDAY](https://www.youtube.com/watch?v=Kmn302zD2qw)      |
 | 《MILLIONS》                                                                      | 12月19日                                                                          | [MILLIONS](https://www.youtube.com/watch?v=PALjhRpnfbk)          |                                                                  |                                                              |                                                              |
-|                                                                                 |                                                                                 |                                                                  |                                                                  |                                                              |                                                              |
+| 2019年                                                                           | 《WE》                                                                            | 5月15日                                                            | [AH YEAH](https://www.youtube.com/watch?v=Pm0_G8Zl0ek)           | 5月16日                                                        | [AH YEAH](https://www.youtube.com/watch?v=AVTenFTYy1k)       |
 
   - 參演音樂錄影帶
 

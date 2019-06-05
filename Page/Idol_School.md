@@ -122,6 +122,8 @@
 
   - 3月17日，四期練習生陳婕宣佈辭退。
   - 4月11日，Class River成員鄒汭伽宣佈畢業。
+  - 5月10日，Class Bridge成員俞璐宣佈畢業。
+  - 5月19日，Class Bridge成員謝婉婷宣佈畢業。
 
 ## 成員名單
 
@@ -130,7 +132,7 @@
 #### Class Bridge
 
   - 代表色為紫色
-  - 共4人
+  - 共3人
 
 <table>
 <thead>
@@ -157,15 +159,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>俞璐</p></td>
-<td></td>
-<td></td>
-<td><p>上海</p></td>
-<td><p>1期</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>張千千</p></td>
 <td></td>
 <td></td>
@@ -174,7 +167,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>周雪</p></td>
 <td></td>
 <td></td>
@@ -183,7 +176,7 @@
 <td><p>班長</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -357,7 +350,7 @@
 
 ### 離團成員
 
-  - 共50人
+  - 共51人
 
 <table>
 <thead>
@@ -638,15 +631,6 @@ Class Flower兼任</p></td>
 <td><p>Class Bridge</p></td>
 </tr>
 <tr class="even">
-<td><p>謝婉婷</p></td>
-<td></td>
-<td></td>
-<td><p>上海</p></td>
-<td><p>1期</p></td>
-<td><p>2018年10月21日</p></td>
-<td><p>Class Bridge</p></td>
-</tr>
-<tr class="odd">
 <td><p>王瀟</p></td>
 <td></td>
 <td></td>
@@ -655,7 +639,7 @@ Class Flower兼任</p></td>
 <td><p>2018年10月31日</p></td>
 <td><p>未分配</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>陳婕</p></td>
 <td></td>
 <td></td>
@@ -664,7 +648,7 @@ Class Flower兼任</p></td>
 <td><p>2019年3月17日</p></td>
 <td><p>未分配</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>鄒汭伽</p></td>
 <td></td>
 <td></td>
@@ -673,7 +657,25 @@ Class Flower兼任</p></td>
 <td><p>2019年4月11日</p></td>
 <td><p>Class River</p></td>
 </tr>
+<tr class="odd">
+<td><p>俞璐</p></td>
+<td></td>
+<td></td>
+<td><p>上海</p></td>
+<td><p>1期</p></td>
+<td><p>2019年5月10日</p></td>
+<td><p>Class Bridge</p></td>
+</tr>
 <tr class="even">
+<td><p>謝婉婷</p></td>
+<td></td>
+<td></td>
+<td><p>上海</p></td>
+<td><p>1期</p></td>
+<td><p>2019年5月19日</p></td>
+<td><p>Class Bridge</p></td>
+</tr>
+<tr class="odd">
 <td><p>李子倩</p></td>
 <td></td>
 <td></td>
@@ -682,7 +684,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class Bridge</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>李飛燕</p></td>
 <td></td>
 <td></td>
@@ -691,7 +693,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class River</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>汪燕姿</p></td>
 <td></td>
 <td></td>
@@ -700,7 +702,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class River</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>聶依格</p></td>
 <td></td>
 <td></td>
@@ -709,7 +711,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class River</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>蔣佩佩</p></td>
 <td></td>
 <td></td>
@@ -718,7 +720,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class Flower</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>安奕菲</p></td>
 <td></td>
 <td></td>
@@ -727,7 +729,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class Flower</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>鄭婉璐</p></td>
 <td></td>
 <td></td>
@@ -736,7 +738,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class River</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>陳瑩</p></td>
 <td></td>
 <td></td>
@@ -745,7 +747,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>Class River</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>馬淇雯</p></td>
 <td></td>
 <td></td>
@@ -754,7 +756,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>未分配</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>茹馮媛</p></td>
 <td></td>
 <td></td>
@@ -763,7 +765,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>未分配</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>徐晓雨</p></td>
 <td></td>
 <td><p>未知</p></td>
@@ -772,7 +774,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>未分配</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>朱琳</p></td>
 <td></td>
 <td></td>
@@ -781,7 +783,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>未分配</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>管天天</p></td>
 <td></td>
 <td></td>
@@ -790,7 +792,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>未分配</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>梅馨茹</p></td>
 <td></td>
 <td><p>未知</p></td>
@@ -799,7 +801,7 @@ Class Flower兼任</p></td>
 <td><p>未知</p></td>
 <td><p>未分配</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -819,7 +821,7 @@ Class Flower兼任</p></td>
 
 #### 神啊！請你幫助我
 
-### 單曲
+### 數字發行單曲
 
   - 挺你（“2017 [ChinaJoy](../Page/ChinaJoy.md "wikilink")”推廣版）
 
@@ -835,9 +837,20 @@ Class Flower兼任</p></td>
 <!-- end list -->
 
   -
+    選拔成員：周雪、俞璐、汪燕姿、王雨可、季葉、吳海旖
     製作：Bitman
 
 <!-- end list -->
+
+  - 心之旅/JOURNEY（微電影《慧眼特攻/OPERATION ES》片頭曲）
+
+<!-- end list -->
+
+  -
+    選拔成員：王瀞萱、俞璐、鄒汭伽
+    製作：Bitman
+
+### 未發行單曲
 
   - 原上草（FIRST LIGHT 2018演唱會主題歌）
 
@@ -848,12 +861,12 @@ Class Flower兼任</p></td>
 
 <!-- end list -->
 
-  - 心之旅/JOURNEY
+  - 青春無悔
 
 <!-- end list -->
 
   -
-    製作：Bitman
+    作曲：錢琳
 
 ## 劇場公演
 
@@ -881,7 +894,8 @@ Class Flower兼任</p></td>
 
 ## 外部連結
 
-  - [IdolSchool 官方网站](http://www.idolschool.cn)
+  - [IdolSchool
+    官方网站](https://web.archive.org/web/20150820010345/http://idolschool.cn/)
 
   - [IdolSchool
     日文官方网站](https://web.archive.org/web/20171109081221/http://idol-school.net/)

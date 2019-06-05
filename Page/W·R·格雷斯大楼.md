@@ -27,7 +27,7 @@
 ## 外部连接
 
   -
-  - [in-Arch.net：建筑信息](http://www.in-arch.net/NYC/nyc3b.html#71)
+  - [in-Arch.net：建筑信息](https://web.archive.org/web/20160618133626/http://www.in-arch.net/NYC/nyc3b.html#71)
 
 [Category:曼哈顿摩天大楼](https://zh.wikipedia.org/wiki/Category:曼哈顿摩天大楼 "wikilink")
 [Category:150米至199米高的摩天大楼](https://zh.wikipedia.org/wiki/Category:150米至199米高的摩天大楼 "wikilink")

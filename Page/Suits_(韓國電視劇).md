@@ -31,7 +31,7 @@
 <td><p><a href="../Page/蔡忠衛.md" title="wikilink">蔡忠衛</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">朴炯植</a></p></td>
+<td><p><a href="../Page/朴炯植.md" title="wikilink">朴炯植</a></p></td>
 <td><p>高延宇</p></td>
 <td><p>姜&amp;咸律師事務所的新入職律師。<br />
 擁有怪物般記憶力的新人律師。實際上並無任何律師資格，也非正統法大畢業，喜歡智娜。</p></td>
@@ -93,9 +93,9 @@
 |                                  |        |                                       |                                  |
 | -------------------------------- | ------ | ------------------------------------- | -------------------------------- |
 | **演員**                           | **角色** | **介紹**                                | **粵語配音**                         |
-| [金英浩](../Page/金英浩.md "wikilink") | 咸基澤    | 姜&咸律師事務所代表律師。                         |                                  |
+| [金英浩](../Page/金英浩.md "wikilink") | 咸基澤    | 姜&咸律師事務所代表律師。                         | [何偉誠](../Page/何偉誠.md "wikilink") |
 | [李太善](../Page/李太善.md "wikilink") | 徐基雄    | 姜&咸律師事務所律師，第2年助理生涯。                   | [鄧永健](../Page/鄧永健.md "wikilink") |
-| [孫汝恩](../Page/孫汝恩.md "wikilink") | 金文熙    | 負責第9.10集交通意外逃逸案件之檢察官，案件完結後加入姜&咸律師事務所。 |                                  |
+| [孫汝恩](../Page/孫汝恩.md "wikilink") | 金文熙    | 負責第9.10集交通意外逃逸案件之檢察官，案件完結後加入姜&咸律師事務所。 | [姜嘉蕾](../Page/姜嘉蕾.md "wikilink") |
 
 ### 延宇周邊人物
 
@@ -162,25 +162,25 @@
 <td></td>
 <td><p>金英范</p></td>
 <td><p>第5.6集出演，前外科科長，荷妍的前夫，與公司的美女理事出軌而拋棄她。因屬下的醫療事故而離職，現為由美製藥董事長。</p></td>
-<td></td>
+<td><p><a href="../Page/馮瀚輝.md" title="wikilink">馮瀚輝</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/孫錫久.md" title="wikilink">孫錫久</a></p></td>
 <td><p>David Kim</p></td>
 <td><p>第5.6.13.14.15集出演，集體訴訟的對方律師。</p></td>
-<td></td>
+<td><p><a href="../Page/張振熙.md" title="wikilink">張振熙</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>方酉成</p></td>
 <td><p>第7.8集出演，南榮會計師事務所常務理事，公司以假學歷開除他。</p></td>
-<td></td>
+<td><p><a href="../Page/何家裕.md" title="wikilink">何家裕</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/南琪愛" title="wikilink">南琪愛</a></p></td>
 <td><p>沈英珠</p></td>
 <td><p>第7.8集出演，南榮會計師事務所代表。</p></td>
-<td></td>
+<td><p><a href="../Page/曾慶珏.md" title="wikilink">曾慶珏</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -210,19 +210,19 @@
 <td></td>
 <td><p>朴俊圭</p></td>
 <td><p>第9.10集出演。開車撞到人之後雖曾報案，但隨即逃逸，事後與被害人家屬達成和解。</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/譚禹晉" title="wikilink">譚禹晉</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>洪在德</p></td>
 <td><p>出版社代表，性侵女作家，並將其作品以他人名義出版，侵害智慧財產權。</p></td>
-<td></td>
+<td><p><a href="../Page/馮瀚輝.md" title="wikilink">馮瀚輝</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金宣敬.md" title="wikilink">金宣敬</a></p></td>
 <td><p>曹代表</p></td>
 <td><p>金&amp;曹律師事務所代表，金智娜的媽媽。</p></td>
-<td></td>
+<td><p><a href="../Page/王綺婷.md" title="wikilink">王綺婷</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -278,7 +278,7 @@
 <td><p>吳炳旭</p></td>
 <td><p>首爾中央地檢次長檢察官，江錫任檢察官時的上司兼導師。</p></td>
 <td><p>7、8</p></td>
-<td></td>
+<td><p><a href="../Page/梁志達.md" title="wikilink">梁志達</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -460,7 +460,7 @@
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/suits/)
   - [金裝律師-BLOG](https://m.post.naver.com/my/series/detail.nhn?memberNo=34609460&seriesNo=452015&prevVolumeNo=15978980)
   - [Suits
-    (韓國電視劇)-DAUM](http://movie.daum.net/tv/main?tvProgramId=81175)
+    (韓國電視劇)-DAUM](https://web.archive.org/web/20180510202149/http://movie.daum.net/tv/main?tvProgramId=81175)
   - [Suits (韓國電視劇)-NAVER](http://m.entertain.naver.com/tvBrand/6358077)
 
 [Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")

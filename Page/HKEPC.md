@@ -57,7 +57,7 @@ K416p & K324P，mx760，cx500，cx300等。
 高登網友其後發現HKEPC論壇上[AMDXP3000+版主售賣假貨事件的相關貼子不見了](https://zh.wikipedia.org/wiki/AMDXP3000+版主售賣假貨事件 "wikilink")，懷疑[A君趁DDoS混亂後乘機刪除](https://zh.wikipedia.org/wiki/A君 "wikilink")[AMDXP3000+版主售賣假貨事件的相關證據](https://zh.wikipedia.org/wiki/AMDXP3000+版主售賣假貨事件 "wikilink")\[4\]。
 
 後記：2008年9月30日，中國內陸有網民張貼主題，名為[暴一狡猾騙子
-AMDXP3000+](http://bbs.ocer.net/thread-241864-1-1.html)\[5\]，找到了這個人在2005至2008年3年的行騙記錄，當中包括HKEPC論壇上[AMDXP3000+版主售賣假貨事件](https://zh.wikipedia.org/wiki/AMDXP3000+版主售賣假貨事件 "wikilink")。
+AMDXP3000+](https://web.archive.org/web/20081205200511/http://bbs.ocer.net/thread-241864-1-1.html)\[5\]，找到了這個人在2005至2008年3年的行騙記錄，當中包括HKEPC論壇上[AMDXP3000+版主售賣假貨事件](https://zh.wikipedia.org/wiki/AMDXP3000+版主售賣假貨事件 "wikilink")。
 
 ### 論壇故障變地雷，會員慘變烈士事件
 

@@ -23,7 +23,7 @@ legends = 2014-05 : 2014-12 : 2015-03 : 2015-08 : 2016-02 : 2016-08 :
 ## 授權條款
 
 在Mapillary上的照片的授權條款為[創用CC-姓名標示-相同方式分享
-4.0國際版](https://zh.wikipedia.org/wiki/創作共用授權條款 "wikilink")([CC-BY-SA](https://zh.wikipedia.org/wiki/創作共用授權條款 "wikilink"))\[7\]。其也對從貢獻給[開放街圖](../Page/開放街圖.md "wikilink")\[8\]與[维基共享资源](../Page/维基共享资源.md "wikilink")\[9\]有特殊的授權條款。[GPX軌跡的使用則不受限制](../Page/GPX.md "wikilink")，而衍生資料則使用\[10\]。
+4.0國際版](https://zh.wikipedia.org/wiki/創作共用授權條款 "wikilink")([CC-BY-SA](https://zh.wikipedia.org/wiki/創作共用授權條款 "wikilink"))\[7\]。其也對從貢獻給[開放街圖](../Page/開放街圖.md "wikilink")\[8\]與[维基共享资源](../Page/维基共享资源.md "wikilink")\[9\]有特殊的授權條款。[GPX軌跡的使用則不受限制](../Page/GPX.md "wikilink")，而衍生資料則使用[开放数据库许可证](../Page/开放数据库许可证.md "wikilink")\[10\]。
 
 授權條款曾於2014年4月29日從[CC-BY-NC更換為](https://zh.wikipedia.org/wiki/創作共用授權條款 "wikilink")[CC-BY-SA](https://zh.wikipedia.org/wiki/創作共用授權條款 "wikilink")\[11\]。
 

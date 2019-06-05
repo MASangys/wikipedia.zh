@@ -50,7 +50,7 @@ Phone](../Page/Windows_Phone.md "wikilink")，[Tizen和](../Page/Tizen.md "wikil
     Tuenti](https://web.archive.org/web/20120320231908/http://www.accesotuenti.org/)
     （西班牙语）
   - [Zaryn
-    Dentzel在一座大学的主题演讲](http://www.ie.edu/university/index.php?seccion=&show=novedades_detalle&novedad=93)
+    Dentzel在一座大学的主题演讲](https://web.archive.org/web/20100530011955/http://www.ie.edu/university/index.php?seccion=&show=novedades_detalle&novedad=93)
 
 [Category:社群網站](https://zh.wikipedia.org/wiki/Category:社群網站 "wikilink")
 [Category:社交網路服務](https://zh.wikipedia.org/wiki/Category:社交網路服務 "wikilink")

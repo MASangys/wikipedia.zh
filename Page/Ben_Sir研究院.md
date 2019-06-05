@@ -1,5 +1,5 @@
 《**Ben
-Sir研究院**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的](../Page/電視廣播有限公司.md "wikilink")[綜藝節目](../Page/綜藝節目.md "wikilink")，《[Ben
+Sir研究院**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的生活資訊節目](../Page/電視廣播有限公司.md "wikilink")，《[Ben
 Sir學堂](../Page/Ben_Sir學堂.md "wikilink")》的續作，由香港語言學者[歐陽偉豪主持](../Page/歐陽偉豪.md "wikilink")，[麥美恩](../Page/麥美恩.md "wikilink")、[駱胤鳴](../Page/駱胤鳴.md "wikilink")、[林穎彤](../Page/林穎彤.md "wikilink")、[陸浩明和](../Page/陸浩明.md "wikilink")[季蘋蘋演出](../Page/季蘋蘋.md "wikilink")。本節目於[香港時間](../Page/香港時間.md "wikilink")2017年2月19日起，逢星期日22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[myTV
 SUPER播出](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，並於[myTV
 SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除）。\[1\]\[2\]。

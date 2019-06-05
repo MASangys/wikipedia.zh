@@ -97,6 +97,7 @@ Rankings收集的56篇评测的综合评分为77.32%。\[9\]
 [Category:任天堂游戏](https://zh.wikipedia.org/wiki/Category:任天堂游戏 "wikilink")
 [Category:任天堂Switch游戏](https://zh.wikipedia.org/wiki/Category:任天堂Switch游戏 "wikilink")
 [Category:任天堂Switch獨占遊戲](https://zh.wikipedia.org/wiki/Category:任天堂Switch獨占遊戲 "wikilink")
+[Category:多人及單人電子遊戲](https://zh.wikipedia.org/wiki/Category:多人及單人電子遊戲 "wikilink")
 [Category:科学奇幻电子游戏](https://zh.wikipedia.org/wiki/Category:科学奇幻电子游戏 "wikilink")
 [Category:拳擊題材作品](https://zh.wikipedia.org/wiki/Category:拳擊題材作品 "wikilink")
 [Category:有追加下载内容的游戏](https://zh.wikipedia.org/wiki/Category:有追加下载内容的游戏 "wikilink")
@@ -111,7 +112,8 @@ Rankings收集的56篇评测的综合评分为77.32%。\[9\]
     Switch｜任天堂(香港)有限公司|newspaper=任天堂(香港)有限公司首頁|accessdate=2017-11-15}}
 4.  [Arms will get new content for free after
     launch](https://www.polygon.com/2017/5/17/15656082/arms-free-dlc-new-fighters-stages-arms).Polygon.2017-05-17.\[2017-05-19\].
-5.  [任天堂5月18日直面会信息](http://www.g-cores.com/articles/24858).机核网.2017-05-18.\[2017-05-19\].
+5.  [任天堂5月18日直面会信息](http://www.g-cores.com/articles/24858)
+    .机核网.2017-05-18.\[2017-05-19\].
 6.
 7.
 8.

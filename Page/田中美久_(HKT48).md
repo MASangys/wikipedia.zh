@@ -121,16 +121,6 @@ H成員，[熊本縣出身](../Page/熊本縣.md "wikilink")，所屬[經紀公�
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>4th</p></td>
 <td><p>2014年9月24日</p></td>
 <td><p><a href="../Page/有所保留的我愛你！.md" title="wikilink">有所保留的我愛你！</a></p></td>
@@ -139,16 +129,6 @@ H成員，[熊本縣出身](../Page/熊本縣.md "wikilink")，所屬[經紀公�
 <td><p>全版本</p></td>
 <td><p>★</p></td>
 <td><p>A面曲</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>現在 正想著你</p></td>
@@ -161,30 +141,10 @@ H成員，[熊本縣出身](../Page/熊本縣.md "wikilink")，所屬[經紀公�
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>偶像的王者</p></td>
 <td><p>Team H</p></td>
 <td><p>Type-A</p></td>
 <td><p>★</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -261,16 +221,6 @@ H成員，[熊本縣出身](../Page/熊本縣.md "wikilink")，所屬[經紀公�
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>Buddy</p></td>
 <td><p>Team H</p></td>
 <td><p>Type A</p></td>
@@ -280,7 +230,7 @@ H成員，[熊本縣出身](../Page/熊本縣.md "wikilink")，所屬[經紀公�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7th</p></td>
 <td><p>2016年4月13日</p></td>
 <td><p><a href="../Page/給74億分之1的你.md" title="wikilink">給74億分之1的你</a></p></td>
@@ -290,7 +240,7 @@ H成員，[熊本縣出身](../Page/熊本縣.md "wikilink")，所屬[經紀公�
 <td><p>★</p></td>
 <td><p>A面曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Chain of love</p></td>
 <td></td>
 <td><p>全版本</p></td>
@@ -300,7 +250,7 @@ H成員，[熊本縣出身](../Page/熊本縣.md "wikilink")，所屬[經紀公�
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>愛因斯坦比戴安娜·艾格倫</p></td>
 <td><p>NakoMiku＆MeruMio</p></td>
 <td><p>Type-C</p></td>
@@ -310,7 +260,7 @@ H成員，[熊本縣出身](../Page/熊本縣.md "wikilink")，所屬[經紀公�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>8th</p></td>
 <td><p>2016年9月7日</p></td>
 <td><p><a href="../Page/最棒了唷.md" title="wikilink">最棒了唷</a></p></td>
@@ -320,7 +270,7 @@ H成員，[熊本縣出身](../Page/熊本縣.md "wikilink")，所屬[經紀公�
 <td><p>★</p></td>
 <td><p>A面曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>把夜空的月亮吞下</p></td>
 <td><p>Team H</p></td>
 <td><p>Type-B</p></td>
@@ -330,7 +280,7 @@ H成員，[熊本縣出身](../Page/熊本縣.md "wikilink")，所屬[經紀公�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9th</p></td>
 <td><p>2017年2月15日</p></td>
 <td><p><a href="../Page/BUG也無妨.md" title="wikilink">BUG也無妨</a></p></td>
@@ -340,20 +290,10 @@ H成員，[熊本縣出身](../Page/熊本縣.md "wikilink")，所屬[經紀公�
 <td><p>★</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>HKT48家族</p></td>
 <td></td>
 <td><p>剧场盘</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -412,16 +352,6 @@ H成員，[熊本縣出身](../Page/熊本縣.md "wikilink")，所屬[經紀公�
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>12th</p></td>
 <td><p>2019年4月10日</p></td>
 <td><p><a href="../Page/意志_(單曲).md" title="wikilink">意志</a></p></td>
@@ -430,16 +360,6 @@ H成員，[熊本縣出身](../Page/熊本縣.md "wikilink")，所屬[經紀公�
 <td><p>全版本</p></td>
 <td><p>★</p></td>
 <td><p>A面曲</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>从谁开始握手</p></td>
@@ -452,16 +372,6 @@ H成員，[熊本縣出身](../Page/熊本縣.md "wikilink")，所屬[經紀公�
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>无论何时都在身旁</p></td>
 <td></td>
 <td><p>Type A</p></td>
@@ -471,7 +381,7 @@ H成員，[熊本縣出身](../Page/熊本縣.md "wikilink")，所屬[經紀公�
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

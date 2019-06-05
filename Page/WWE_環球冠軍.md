@@ -25,8 +25,11 @@ Lesnar過去對戰神從沒贏過](https://zh.wikipedia.org/wiki/Brock_Lesnar "w
 Cliy，最後一發F5，終於拿下對戰神的第一勝和環球冠軍腰帶。
 
 [Roman
-Reigns在](https://zh.wikipedia.org/wiki/Roman_Reigns "wikilink")2018年[夏日衝擊上](https://zh.wikipedia.org/wiki/夏日衝擊 "wikilink")，以Spear結束Brock
+Reigns](https://zh.wikipedia.org/wiki/Roman_Reigns "wikilink")2018年[夏日衝擊上](https://zh.wikipedia.org/wiki/夏日衝擊 "wikilink")，以Spear結束Brock
 Lesnar的冠軍持有記錄。
+
+[賽特·羅林斯](../Page/賽特·羅林斯.md "wikilink")2019年在[摔角狂熱](../Page/摔角狂熱.md "wikilink")，擊敗Brock
+Lesnar，得到了生涯中第一條環球冠軍，彌補過去沒有拿到環球冠軍的機會。
 
 ## 參考資料
 

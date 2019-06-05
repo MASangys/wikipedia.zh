@@ -273,7 +273,7 @@ PlotData =
 
 ## 參考文獻
 
-## 外部鏈接
+## 外部連結
 
   - WANNA.B [官方網站](http://www.zmcie.com/wannab)
 

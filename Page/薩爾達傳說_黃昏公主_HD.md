@@ -79,7 +79,7 @@ Awards頒發了](https://zh.wikipedia.org/wiki/Golden_Joystick_Awards "wikilink"
 
 ## 參考資料
 
-## 外部鏈接
+## 外部連結
 
   -
 [Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink")

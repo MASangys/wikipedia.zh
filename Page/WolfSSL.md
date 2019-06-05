@@ -267,8 +267,8 @@ wolfSSL 支持使用英特尔SGX
 
   -
     <span style="color:#585858; font-size: 110%">[Nordic
-    NRF51](https://www.nordicsemi.com/Products/nRF51-Series-SoC) (Series
-    SoC family, 32-bit ARM Cortex M0 核心处理器)</span>
+    NRF51](https://web.archive.org/web/20180619035750/https://www.nordicsemi.com/Products/nRF51-Series-SoC)
+    (Series SoC family, 32-bit ARM Cortex M0 核心处理器)</span>
 
 |  |                                                                                                                                                             |
 |  | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -367,8 +367,7 @@ wolfSSL [开放源代码](../Page/开放源代码.md "wikilink"),
 2.  [wolfSSL - License](https://www.wolfssl.com/wolfSSL/License.html)
 
 3.
-4.  [MySQL, Building MySQL with Support for Secure
-    Connections](http://dev.mysql.com/doc/refman/5.7/en/building-with-secure-connection-support.html)
+4.
 
 5.   Chapter 4: Features {{\!}}
     Documentation|newspaper=wolfSSL|accessdate=2018-06-18|language=en-US}}

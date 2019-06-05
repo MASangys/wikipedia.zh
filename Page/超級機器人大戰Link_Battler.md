@@ -59,7 +59,7 @@ Color平台](../Page/Game_Boy_Color.md "wikilink")[戰略角色扮演遊戲](htt
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/軟銀" title="wikilink">軟銀</a></p></td>
+<td><p><a href="../Page/軟銀.md" title="wikilink">軟銀</a></p></td>
 <td><p>ISBN 978-4797311655</p></td>
 </tr>
 <tr class="odd">

@@ -27,25 +27,39 @@ SOHC i-VTEC 直四引擎，搭配類似 Civic 的 CVT 變速箱或六速手排�
 
 HR-V 的車體有27%使用 780, 980, 或 1500MPa 的超高強度鋼材。
 
-在亞洲部分，泰國市場的 HR-V 從2014年11月開始銷售。動力是1.5升或1.8升的直四引擎，分為 EL, E, 和 S
+泰國
+
+泰國市場的 HR-V 從2014年11月開始銷售。動力是1.5升或1.8升的直四引擎，分為 EL, E, 和 S
 三型號。2015年銷售擴展到其他亞洲市場。
 
-臺灣本田2016年10月18日正式發表HR-V\[2\]，分為 VTi, VTi-S 和 S
-三個級距販售，皆使用1.8升SOHC直列4汽缸引擎。
-
-2017年HR-V臺灣年度銷售13,399輛，2017年度國產休旅車級距銷售冠軍。
-
-2018年9月1日臺灣本田公司限時推出「HR-V 安全躍進版」。\[3\]
+巴西
 
 巴西市場的 HR-V 在聖保羅工廠組裝，2015年開始以 2016年式銷售。
+
+中國
 
 在中國，[廣汽本田以中文名](../Page/广汽本田汽车.md "wikilink")「缤智」及英文名 Vezel
 銷售。[東風本田以](../Page/东风本田汽车.md "wikilink") XR-V 為名銷售，前後造型與
 HR-V 不同, 其餘設計大體相同。
 
+臺灣
+
+[臺灣本田](https://zh.wikipedia.org/wiki/台灣本田 "wikilink")2016年10月18日正式發表HR-V\[2\]，分為
+VTi, VTi-S 和 S 三個級距販售，皆使用1.8升SOHC直列4汽缸引擎。
+
+2017年HR-V臺灣年度銷售13,399輛，2017年度國產休旅車級距銷售冠軍。
+
+2018年9月1日臺灣本田公司限時推出「HR-V 安全躍進版」。\[3\]
+
+2019年5月14日[臺灣本田正式發表全新跨界跑旅All](https://zh.wikipedia.org/wiki/台灣本田 "wikilink")
+NEW HR-V，為HR-V於臺灣販售以來首次小改款。 販售編成也調整為VTi-S、S
+兩級距；販售定價分別為[新臺幣](../Page/新臺幣.md "wikilink")77.7萬元、84萬元。在主被動安全部份，全車系搭載九大主動安全系統、高剛性鋼骨防護車體結構、6具SRS輔助[氣囊](https://zh.wikipedia.org/wiki/安全氣囊 "wikilink")。至於臺灣消費者期待改款後新增的智慧安全主動防護系統及1.5升渦輪進氣引擎，則未列入本次改款當中。\[4\]
+
+
+
 <File:Honda> CRV flex BSB 03 2016.jpg|Brazilian flex-fuel HR-V
 
-### 安全性
+## 安全性
 
 |                    |                                                                                                                                                                                                                                                                                                                                                               |
 | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -57,14 +71,14 @@ HR-V 不同, 其餘設計大體相同。
 | Side Pole Driver:  | [链接=](https://zh.wikipedia.org/wiki/File:Star_full.svg "fig:链接=")[链接=](https://zh.wikipedia.org/wiki/File:Star_full.svg "fig:链接=")[链接=](https://zh.wikipedia.org/wiki/File:Star_full.svg "fig:链接=")[链接=](https://zh.wikipedia.org/wiki/File:Star_full.svg "fig:链接=")[链接=](https://zh.wikipedia.org/wiki/File:Star_full.svg "fig:链接=")                         |
 | Rollover:          | [链接=](https://zh.wikipedia.org/wiki/File:Star_full.svg "fig:链接=")[链接=](https://zh.wikipedia.org/wiki/File:Star_full.svg "fig:链接=")[链接=](https://zh.wikipedia.org/wiki/File:Star_full.svg "fig:链接=")[链接=](https://zh.wikipedia.org/wiki/File:Star_full.svg "fig:链接=")[链接=](https://zh.wikipedia.org/wiki/File:Star_empty.svg "fig:链接=") / <small>15.3%</small> |
 
-2016 HR-V [NHTSA](../Page/美国国家公路交通安全管理局.md "wikilink") scores\[4\]
+2016 HR-V [NHTSA](../Page/美国国家公路交通安全管理局.md "wikilink") scores\[5\]
 
 ## 銷售量
 
 | 年份   | 美國銷售量                    |
 | ---- | ------------------------ |
-| 2015 | 41,969<sup>\*</sup>\[5\] |
-| 2016 | 82,041\[6\]              |
+| 2015 | 41,969<sup>\*</sup>\[6\] |
+| 2016 | 82,041\[7\]              |
 
 ## 參考文献
 
@@ -79,5 +93,6 @@ HR-V 不同, 其餘設計大體相同。
 2.
 3.
 4.
-5.  <http://www.prnewswire.com/news-releases/american-honda-sets-new-all-time-annual-sales-record-300199570.html>
-6.  <http://www.hondanews.com/releases/-american-honda-sets-all-time-sales-records-powered-by-demand-for-cars-and-trucks?page=2>
+5.
+6.  <http://www.prnewswire.com/news-releases/american-honda-sets-new-all-time-annual-sales-record-300199570.html>
+7.  <http://www.hondanews.com/releases/-american-honda-sets-all-time-sales-records-powered-by-demand-for-cars-and-trucks?page=2>

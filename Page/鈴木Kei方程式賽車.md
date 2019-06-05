@@ -50,7 +50,7 @@ Works所使用的](../Page/鈴木Kei.md "wikilink")658c.c.直列三缸DOHC
 
 ## 外部連結
 
-  - [スズキスポーツ](http://www.suzukisport.com/j/index.html)
+  - [スズキスポーツ](https://web.archive.org/web/20151104163507/http://www.suzukisport.com/j/index.html)
 
   - [webCG:
     スズキ、2台のレース用フォーミュラカーを発売](http://www.webcg.net/articles/-/19628)

@@ -1,6 +1,6 @@
 [右](https://zh.wikipedia.org/wiki/File:Twinklingstarsarelaughing.png "fig:右")
 [右](https://zh.wikipedia.org/wiki/File:1855_Donniker_OrdwayHall_Boston.png "fig:右")
-**约翰·庞德·奥德威**（）是一位医生，作曲家，音乐企业家和政治家。\[1\]
+**约翰·庞德·奥德威**（，）是[美国一位医生](../Page/美国.md "wikilink")，作曲家，音乐企业家和政治家。\[1\]
 
 他出生在马萨诸塞州的[萨勒姆](../Page/塞勒姆_\(马萨诸塞州\).md "wikilink")，在1840年代中期奥德威和他的父亲Aaron在[波士顿开了一家音乐商店](../Page/波士顿.md "wikilink")。约翰也是一个音乐出版商和作曲家，他的"Twinkling
 Stars are Laughing, Love" (1855)由海顿四重奏记录直到1902年和1904年。"Dreaming of Home
@@ -9,9 +9,9 @@ Mother" (1851)是一个受欢迎的内战时代的伤感歌曲，并且继续�
 
 在1845年，他组织了一个黑人歌手剧团Ordway's
 Aeolians，在波士顿的奥德威大厅表演，并在全国范围内推广奥德威的出版业务。\[3\]\[4\]\[5\]未来的领队、作曲家帕特里克·吉尔摩也出现在Ordway's
-Aeolians的商店。詹姆斯·皮蓬特勋爵的第一次重大的作品“返回加州”在1852年写给奥德威和他的剧团。包括《铃儿响叮当》在内的19世纪的歌曲向奥德威及其乐团致敬。\[6\]\[7\]\[8\]
+Aeolians的商店。的第一次重大的作品“返回加州”在1852年写给奥德威和他的剧团。包括《[铃儿响叮当](../Page/铃儿响叮当.md "wikilink")》在内的19世纪的歌曲向奥德威及其乐团致敬。\[6\]\[7\]\[8\]
 
-他1859年毕业于[哈佛大学医学院](../Page/哈佛大学.md "wikilink")，是第一个外科医生在内战开始的志愿者，在马萨诸塞州志愿者步兵第六兵团服役。他作为联盟的外科医生被送到[葛底斯堡战役后负伤](https://zh.wikipedia.org/wiki/葛底斯堡战役 "wikilink")。
+他1859年毕业于[哈佛大学医学院](https://zh.wikipedia.org/wiki/哈佛大学医学院 "wikilink")，是第一个外科医生在内战开始的志愿者，在马萨诸塞州志愿者步兵第六兵团服役。他作为联盟的外科医生被送到[葛底斯堡战役后负伤](https://zh.wikipedia.org/wiki/葛底斯堡战役 "wikilink")。
 
 奥德威从1859年到1873年在波士顿的学校董事会以及在[马萨诸塞州综合法院](https://zh.wikipedia.org/wiki/马萨诸塞州 "wikilink")(1868)的一个团队服务。在学校他反对体罚，并为此推动了一项立法。\[9\]
 

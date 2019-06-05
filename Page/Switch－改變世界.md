@@ -29,7 +29,7 @@
 <td><p><a href="../Page/曹啟謙.md" title="wikilink">曹啟謙</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>史都燦</p></td>
+<td><p>謝道燦</p></td>
 <td><p>30歲，天才騙子</p></td>
 <td></td>
 <td></td>

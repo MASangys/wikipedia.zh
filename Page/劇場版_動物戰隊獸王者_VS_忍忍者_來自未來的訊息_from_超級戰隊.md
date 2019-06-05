@@ -389,7 +389,7 @@
 ## 外部連結
 
   - [劇場版 動物戦隊ジュウオウジャーVSニンニンジャー
-    未来からのメッセージfromスーパー戦隊](http://zyuoh-vs-ninnin.jp/)
+    未来からのメッセージfromスーパー戦隊](https://web.archive.org/web/20161220094405/http://zyuoh-vs-ninnin.jp/)
 
 [Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")
 [Category:超級戰隊系列跨界作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列跨界作品 "wikilink")

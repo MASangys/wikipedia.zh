@@ -1,54 +1,136 @@
-BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演奏樂器的龐克樂隊」。
+BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演奏樂器的龐克樂隊」、[日本新生](../Page/日本.md "wikilink")[糞便偶像](../Page/糞便.md "wikilink")\[1\]。
 2015年結成。隸屬於WACK。唱片公司為avex trax。
 
+## 概要
+
+## 沿革
+
+### 2015年
+
+### 2016年
+
+### 2017年
+
+### 2018年
+
+### 2019年
+
 ## 成員
+
+### 現任成員
 
 <table>
 <thead>
 <tr class="header">
 <th><p>名字</p></th>
-<th><p>誕生日</p></th>
+<th><p>生日</p></th>
 <th><p>出身地</p></th>
+<th><p>個人簡介</p></th>
 <th><p>担当</p></th>
+<th><p>會員顏色</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/AiNA_THE_END" title="wikilink">AiNA THE END</a></p></td>
-<td><p>12月27日</p></td>
-<td><p>大阪府豊中市</p></td>
-<td><p>禮儀師</p></td>
+<td><p>千與千尋Chittiii</p></td>
+<td></td>
+<td><p>東京都八王子市</p></td>
+<td><p>本名為蒼井ちひろ<br />
+是BiSH的隊長亦是創始成員</p></td>
+<td><p>看起來很嚴肅，是惡女<br />
+即使這樣，也只有兩個男朋友<br />
+我的妹妹哪有這麼可愛（2015-2016）</p></td>
+<td><p><span style="color:#85C1E9"><strong>■</strong></span> 淺藍色</p></td>
 </tr>
 <tr class="even">
-<td><p>千與千尋Chittiii</p></td>
-<td><p>5月8日</p></td>
-<td><p>東京都八王子市</p></td>
-<td><p>看起來很嚴肅，是惡女</p>
-<p>即使這樣，也只有兩個男朋友</p></td>
+<td><p>AiNA THE END</p></td>
+<td></td>
+<td><p>大阪府豊中市</p></td>
+<td><p>本名為飯谷愛菜<br />
+是創始成員<br />
+舞蹈指導</p></td>
+<td><p>禮儀師</p></td>
+<td><p><span style="color:#E74C3C"><strong>■</strong></span> 紅色</p></td>
 </tr>
 <tr class="odd">
 <td><p>Momoko Gummy Company</p></td>
 <td><p>9月4日</p></td>
 <td><p>東京都</p></td>
+<td><p>是創始成員</p></td>
 <td><p>天邪鬼</p></td>
+<td><p><span style="color:#F7DC6F"><strong>■</strong></span> 黃色</p></td>
 </tr>
 <tr class="even">
 <td><p>小吃ATSUKO</p></td>
-<td><p>9月27日</p></td>
+<td></td>
 <td><p>福岡縣</p></td>
+<td><p>本名為倉本あおい<br />
+是創始成員<br />
+2015年8月開始活動<br />
+是現任成員中最年長。</p></td>
 <td><p>眼鏡</p></td>
+<td><p><span style="color:#A569BD"><strong>■</strong></span> 紫色</p></td>
 </tr>
 <tr class="odd">
-<td><p>LiNGLiNG</p></td>
-<td><p>3月9日</p></td>
-<td><p>靜岡縣[1]</p></td>
+<td><p>LiNG LiNG</p></td>
+<td></td>
+<td><p>靜岡縣[2]</p></td>
+<td><p>是創始成員<br />
+2015年8月開始活動。</p></td>
 <td><p>無口</p></td>
+<td><p><span style="color:#FF69B4"><strong>■</strong></span> 粉紅色<br />
+<span style="color:#FFFFFF"><strong>■</strong></span> 白色（2015-2016）</p></td>
 </tr>
 <tr class="even">
 <td><p>AYUNi D</p></td>
-<td><p>10月12日</p></td>
+<td></td>
 <td><p>北海道</p></td>
+<td><p>本名為伊藤亜佑子<br />
+是追加成員<br />
+2016年8月開始活動。<br />
+並從千與千尋Chittiii那裡繼承了担当和LiNG LiNG的那裡繼承了白色。</p></td>
 <td><p>我的妹妹哪有這麼可愛</p></td>
+<td><p><span style="color:#FFFFFF"><strong>■</strong></span> 白色</p></td>
+</tr>
+</tbody>
+</table>
+
+### 前任成員
+
+<table>
+<thead>
+<tr class="header">
+<th><p>名字</p></th>
+<th><p>生日</p></th>
+<th><p>出身地</p></th>
+<th><p>個人簡介</p></th>
+<th><p>担当</p></th>
+<th><p>會員顏色</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Yashiro Yuka</p></td>
+<td><p>3月18日</p></td>
+<td></td>
+<td><p>是創始成員<br />
+但在正式登場之前退出<br />
+亦是BiSH任期最短的成員。<br />
+是BiSH第一個離開的成員。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Hug Me</p></td>
+<td></td>
+<td></td>
+<td><p>本名為雨谷碧莉<br />
+是創始成員<br />
+2016年於6月2日在BiSH和畢業。<br />
+畢業後，將粉紅色送到LiNG LiNG。<br />
+是前任成員中最年長。</p></td>
+<td><p>難以忍受的成熟女人</p></td>
+<td><p><span style="color:#FF69B4"><strong>■</strong></span> 粉紅色（2015-2016）</p></td>
 </tr>
 </tbody>
 </table>
@@ -1348,4 +1430,5 @@ BiSH（ビッシュ）是日本的音樂團體、女子偶像組合、「不演�
 
 [Category:日本樂團](https://zh.wikipedia.org/wiki/Category:日本樂團 "wikilink")
 
-1.  <https://twitter.com/liNGliNG_BiSH/status/1098188600686989313>
+1.  團體名稱來自Brand-new Idol SHit (新生クソアイドル)
+2.  <https://twitter.com/liNGliNG_BiSH/status/1098188600686989313>

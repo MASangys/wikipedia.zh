@@ -448,36 +448,72 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")》電視�
 <td><p><a href="../Page/大塚芳忠.md" title="wikilink">大塚芳忠</a></p></td>
 </tr>
 <tr class="even">
-<td><p>'''卡爾葛拉</p></td>
-<td><p><a href="../Page/柴田秀勝.md" title="wikilink">柴田秀勝</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>'''柯妮絲</p></td>
-<td><p><a href="../Page/高橋理惠子.md" title="wikilink">高橋理惠子</a></p></td>
-</tr>
-<tr class="even">
-<td><p>'''瓦夷帕</p></td>
-<td><p><a href="../Page/相澤正輝.md" title="wikilink">相澤正輝</a></p></td>
-</tr>
-<tr class="odd">
 <td><p>'''蒙布朗·庫力凱</p></td>
 <td><p><a href="../Page/內田直哉.md" title="wikilink">內田直哉</a></p></td>
 </tr>
-<tr class="even">
-<td><p>'''歐姆</p></td>
-<td><p><a href="../Page/竹本英史.md" title="wikilink">竹本英史</a></p></td>
-</tr>
 <tr class="odd">
-<td><p>'''修羅</p></td>
-<td><p><a href="../Page/太田真一郎.md" title="wikilink">太田真一郎</a></p></td>
+<td><p>'''卡爾葛拉</p></td>
+<td><p><a href="../Page/柴田秀勝.md" title="wikilink">柴田秀勝</a></p></td>
 </tr>
 <tr class="even">
 <td><p>'''大悟</p></td>
 <td><p><a href="../Page/高戶靖廣.md" title="wikilink">高戶靖廣</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>'''修羅</p></td>
+<td><p><a href="../Page/太田真一郎.md" title="wikilink">太田真一郎</a></p></td>
+</tr>
+<tr class="even">
 <td><p>'''涅盤</p></td>
 <td><p><a href="../Page/高塚正也.md" title="wikilink">高塚正也</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>'''歐姆</p></td>
+<td><p><a href="../Page/竹本英史.md" title="wikilink">竹本英史</a></p></td>
+</tr>
+<tr class="even">
+<td><p>'''瓦夷帕</p></td>
+<td><p><a href="../Page/相澤正輝.md" title="wikilink">相澤正輝</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>'''柯妮絲</p></td>
+<td><p><a href="../Page/高橋理惠子.md" title="wikilink">高橋理惠子</a></p></td>
+</tr>
+<tr class="even">
+<td><p>'''愛紗</p></td>
+<td><p><a href="../Page/鈴木真仁.md" title="wikilink">鈴木真仁</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>'''穆思</p></td>
+<td><p><a href="../Page/皆口裕子.md" title="wikilink">皆口裕子</a></p></td>
+</tr>
+<tr class="even">
+<td><p>'''少年瓦夷帕</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/木內玲子" title="wikilink">木內玲子</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>'''青年賽特</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新井良平" title="wikilink">新井良平</a></p></td>
+</tr>
+<tr class="even">
+<td><p>'''醫生</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/谷昌樹" title="wikilink">谷昌樹</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>'''400年前的神</p></td>
+<td><p><a href="../Page/間宮康弘.md" title="wikilink">間宮康弘</a></p></td>
+</tr>
+<tr class="even">
+<td><p>'''長老</p></td>
+<td><p><a href="../Page/增谷康紀.md" title="wikilink">增谷康紀</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>'''國王</p></td>
+<td><p><a href="../Page/菊池正美.md" title="wikilink">菊池正美</a></p></td>
+</tr>
+<tr class="even">
+<td><p>'''旁白</p></td>
+<td><p><a href="../Page/大場真人.md" title="wikilink">大場真人</a></p></td>
 </tr>
 </tbody>
 </table>

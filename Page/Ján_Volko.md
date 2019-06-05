@@ -1,5 +1,135 @@
 **Ján Volko**是斯洛伐克田徑運動員，在2018年Copernicus盃男子60公尺決賽以6.57秒獲得冠軍。
 
+## 100公尺前15好成績（Top 15）
+
+  - 不計超風速、海拔超過1000公尺成績
+
+<table>
+<thead>
+<tr class="header">
+<th><p>成績</p></th>
+<th><p>風速（公尺/秒）</p></th>
+<th><p>反應時間</p></th>
+<th><p>時間</p></th>
+<th><p>地點</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>10.122秒</p></td>
+<td><p>+1.1</p></td>
+<td><p>0.157秒</p></td>
+<td><p>2018年6月29日</p></td>
+<td><p>沙莫林</p></td>
+</tr>
+<tr class="even">
+<td><p>10.15秒</p></td>
+<td><p>+0.9</p></td>
+<td><p>0.156秒</p></td>
+<td><p>2017年8月4日</p></td>
+<td><p>英格蘭倫敦</p></td>
+</tr>
+<tr class="odd">
+<td><p>10.16秒</p></td>
+<td><p>+1.4</p></td>
+<td></td>
+<td><p>2017年6月5日</p></td>
+<td><p>布拉格</p></td>
+</tr>
+<tr class="even">
+<td><p>10.18秒</p></td>
+<td><p>+1.5</p></td>
+<td></td>
+<td><p>2017年7月13日</p></td>
+<td><p>比得哥什</p></td>
+</tr>
+<tr class="odd">
+<td><p>10.18秒</p></td>
+<td><p>0.0</p></td>
+<td></td>
+<td><p>2017年7月14日</p></td>
+<td><p>比得哥什</p></td>
+</tr>
+<tr class="even">
+<td><p>10.18秒</p></td>
+<td><p>+1.7</p></td>
+<td><p>0.162秒</p></td>
+<td><p>2018年7月18日</p></td>
+<td><p>Tábor</p></td>
+</tr>
+<tr class="odd">
+<td><p>10.20秒</p></td>
+<td><p>+1.7</p></td>
+<td><p>0.170秒</p></td>
+<td><p>2018年6月4日</p></td>
+<td><p>布拉格</p></td>
+</tr>
+<tr class="even">
+<td><p>10.21秒</p></td>
+<td><p>+1.0</p></td>
+<td></td>
+<td><p>2017年5月13日</p></td>
+<td><p>布拉格</p></td>
+</tr>
+<tr class="odd">
+<td><p>10.21秒</p></td>
+<td><p>-2.1</p></td>
+<td></td>
+<td><p>2017年6月24日</p></td>
+<td><p>特拉維夫</p></td>
+</tr>
+<tr class="even">
+<td><p>10.21秒</p></td>
+<td><p>+0.2</p></td>
+<td><p>0.153秒</p></td>
+<td><p>2018年6月22日</p></td>
+<td><p>馬德里</p></td>
+</tr>
+<tr class="odd">
+<td><p>10.23秒</p></td>
+<td><p>+0.8</p></td>
+<td></td>
+<td><p>2017年5月13日</p></td>
+<td><p>布拉格</p></td>
+</tr>
+<tr class="even">
+<td><p>10.23秒</p></td>
+<td><p>+1.5</p></td>
+<td></td>
+<td><p>2017年7月13日</p></td>
+<td><p>比得哥什</p></td>
+</tr>
+<tr class="odd">
+<td><p>10.24秒</p></td>
+<td><p>+0.4</p></td>
+<td></td>
+<td><p>2017年6月5日</p></td>
+<td><p>布拉格</p></td>
+</tr>
+<tr class="even">
+<td><p>10.24秒</p></td>
+<td><p>-0.1</p></td>
+<td><p>0.144秒</p></td>
+<td><p>2018年6月22日</p></td>
+<td><p>馬德里</p></td>
+</tr>
+<tr class="odd">
+<td><p>10.247秒</p></td>
+<td><p>-0.6</p></td>
+<td><p>0.156秒</p></td>
+<td><p>2017年8月4日</p></td>
+<td><p>英格蘭倫敦</p></td>
+</tr>
+<tr class="even">
+<td><p>平均約{{#expr: 15/(1/10.122+1/10.15+1/10.16+1/10.18+1/10.18+1/10.18+1/10.20+1/10.21+1/10.21+1/10.21+1/10.23+1/10.23+1/10.24+1/10.24+1/10.247)}}秒</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 參考資料
 
 ## 外部連結

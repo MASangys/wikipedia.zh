@@ -189,7 +189,7 @@ Red](../Page/The_Red.md "wikilink")》的大部分曲目。以[首爾為首站�
 <!-- end list -->
 
   - 首爾－Dreammaker Entertainment Limited
-  - 東京－Wess Express Online
+  - 日本－Wess Express Online
 
 <!-- end list -->
 

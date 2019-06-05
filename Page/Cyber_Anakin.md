@@ -10,10 +10,9 @@ Networks，导致百万俄罗斯互联网用户的私人信息被泄露。\[3\]\
 
 澳洲电脑安全研究员Troy Hunt对km.ru和Nival Networks的数据库泄露事件表示了确认。\[7\]
 
-2017年，该骇客还宣称骇入了中国网站loocall.com的数据库以作为对[金正男遇刺事件和](../Page/金正男遇刺事件.md "wikilink")[中华人民共和国对朝鲜的支持的反应](../Page/中朝关系.md "wikilink")。\[8\]
-
-2018年，该骇客入侵了朝鲜的ournation-school.com，并将一个本应指向@Juche_School推特账号的链接改为了指向@Juche_School1，一个黑客自己控制的账号\[9\]。该网站的主要作用是向国外用户宣传朝鲜的[主体思想](../Page/主体思想.md "wikilink")\[10\]。Cyber
-Anakin对BBC宣称其入侵的动机为[金正男遇刺事件](../Page/金正男遇刺事件.md "wikilink")\[11\]\[12\]。
+2018年，该骇客入侵了朝鲜的ournation-school.com，并将一个本应指向@Juche_School推特账号的链接改为了指向@Juche_School1，一个黑客自己控制的账号\[8\]。该网站的主要作用是向国外用户宣传朝鲜的[主体思想](../Page/主体思想.md "wikilink")\[9\]。Cyber
+Anakin对BBC宣称其入侵的动机为[金正男遇刺事件](../Page/金正男遇刺事件.md "wikilink")\[10\]\[11\]。同年六月，他入侵了欧洲的一些电视机顶盒。通过机顶盒在电视屏幕上弹出信息，他呼吁用户反对当时即将在[欧洲议会表决的](https://zh.wikipedia.org/wiki/欧洲议会 "wikilink")[数字化单一市场版权指令第](../Page/数字化单一市场版权指令.md "wikilink")
+13 条。他声称这条法律会使得大量网站启用自动审查系统，从而威胁互联网生态\[12\]。
 
 ## 参考資料
 
@@ -46,12 +45,11 @@ Anakin对BBC宣称其入侵的动机为[金正男遇刺事件](../Page/金正男
 
 7.
 
-8.  [Operation Kim Jong Nam
-    （英文）](https://www.reddit.com/r/cyberanakinvader/comments/5yl5ub/operation_kim_jong_nam/)
+8.
 
 9.
 
 10.
-
 11.
+
 12.

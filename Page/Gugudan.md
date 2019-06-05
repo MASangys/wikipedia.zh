@@ -22,6 +22,7 @@ Cafe等社群帳號。\[8\]。6月23日，公開出道專輯《Act.1 The
 Little Mermaid》封面照及主打歌《Wonderland (원더랜드)》。\[9\]6月28日，公開出道曲《Wonderland
 (원더랜드)》MV並舉辦出道Showcase。12月16日，於<small>[VLIVE](http://www.vlive.tv/video/18997)</small>中公佈粉絲名稱：단짝（Dear
 Friend）。
+[thumb](https://zh.wikipedia.org/wiki/file:Gugudan_on_04_Sep,_2016_01.jpg "wikilink")
 
 ### 2017年：第二張迷你專輯《Act.2 Narcissus》、首組子團、第一張單曲專輯《Act.3 Chococo Factory》
 
@@ -56,8 +57,7 @@ Chococo Factory》。
 
 11月2日，宣佈gugudan將於11月6日攜迷你三輯《Act.5 New Action》，主打歌《NOT THAT TYPE》。
 
-[<file:181106> 구구단(gugudan) 미니앨범 'Act 5 New Action'
-쇼케이스.jpg](https://zh.wikipedia.org/wiki/file:181106_구구단\(gugudan\)_미니앨범_'Act_5_New_Action'_쇼케이스.jpg "wikilink")
+[thumb](https://zh.wikipedia.org/wiki/file:181106_구구단\(gugudan\)_미니앨범_'Act_5_New_Action'_쇼케이스.jpg "wikilink")
 
 ### 2019年：一天成員MANDY加入、發佈《NOT THAT TYPE》9人版本
 
@@ -857,9 +857,9 @@ LineData =
 
 14. [gugudan《Narcissus》團體概念照](http://kpopn.niusnews.com/=K2sz5es2)
 
-15. [gugudan 將推出首組子團,預計8月活動](https://kpopn.niusnews.com/=K0441wg4)
+15.
 
-16. [gugudan 子團 OGUOGU 出道專輯預告](https://kpopn.niusnews.com/=K2ffqq89)
+16.
 
 17.
 

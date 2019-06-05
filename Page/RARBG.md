@@ -15,8 +15,9 @@ RARBG在以下国家受到屏蔽：
 | [巴基斯坦](../Page/巴基斯坦.md "wikilink")                       | 未知          |
 | [保加利亚](https://zh.wikipedia.org/wiki/保加利亚 "wikilink")    | 未知          |
 | [摩洛哥](https://zh.wikipedia.org/wiki/摩洛哥 "wikilink")      | 未知          |
+| [澳大利亚](../Page/澳大利亚.md "wikilink")\[6\]                  | 2017年8月18日  |
 | [印度尼西亚](../Page/印度尼西亚.md "wikilink")                     | 2017年10月10日 |
-| [爱尔兰](../Page/爱尔兰岛.md "wikilink")\[6\]                   | 2018年1月18日  |
+| [爱尔兰](../Page/爱尔兰岛.md "wikilink")\[7\]                   | 2018年1月18日  |
 
 ## 相关链接
 
@@ -36,3 +37,4 @@ RARBG在以下国家受到屏蔽：
 4.
 5.
 6.
+7.

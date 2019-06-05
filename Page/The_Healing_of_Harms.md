@@ -18,9 +18,6 @@ Forward](https://zh.wikipedia.org/wiki/Fireflight_作品列表 "wikilink")》上
 
 ## 參考資料
 
-[ja:リライアントK
-(アルバム)](https://zh.wikipedia.org/wiki/ja:リライアントK_\(アルバム\) "wikilink")
-
 [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
 
 1.  [Fireflight, "The Healing of Harms"

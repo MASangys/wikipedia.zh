@@ -139,7 +139,7 @@
 <p>2019年</p></td>
 <td><p>《<a href="../Page/我的奇妙男友2之恋恋不忘.md" title="wikilink">我的奇妙男友2之恋恋不忘</a>》</p></td>
 <td><p>薛靈喬</p></td>
-<td><p>網絡劇</p></td>
+<td><p>與<a href="../Page/虞書欣.md" title="wikilink">虞書欣主演</a></p></td>
 </tr>
 <tr class="even">
 <td><CENTER>

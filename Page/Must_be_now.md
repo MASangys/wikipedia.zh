@@ -29,7 +29,7 @@ JAPAN](../Page/MUSIC_JAPAN.md "wikilink")》上宣傳單曲\[5\]
 
 在[Oricon公信榜中](../Page/Oricon公信榜.md "wikilink")，單曲以30.7萬銷量，取得首週銷量第一位，總計為第11張單曲取得週榜首位，追平[乃木坂46的紀錄](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")，次於28張單曲的[AKB48](../Page/AKB48.md "wikilink")、16張單曲的[早安少女組。和](../Page/早安少女組。.md "wikilink")14張單曲的[SKE48](../Page/SKE48.md "wikilink")\[6\]。在[Japan
 Hot
-100中](https://zh.wikipedia.org/wiki/Japan_Hot_100 "wikilink")，單曲則壓過組合[魚韻的作品](../Page/魚韻.md "wikilink")《》，取得第一位\[7\]。
+100中](https://zh.wikipedia.org/wiki/Japan_Hot_100 "wikilink")，單曲則壓過組合[魚韻的作品](../Page/魚韻.md "wikilink")《[新宝岛](https://zh.wikipedia.org/wiki/新宝岛_\(单曲\) "wikilink")》，取得第一位\[7\]。
 
 ## 歌曲列表
 

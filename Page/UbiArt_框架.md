@@ -101,4 +101,4 @@ UBIart 框架开发而成。UBIart
 2.
 3.  [How do you create an animation in UBIart Framework?,
     UBIart](http://ubi-art.uk.ubi.com/2010/07/07/how-do-you-create-an-animation-in-ubiart-framework/)
-4.  [1](http://www.develop-online.net/news/ancel-wants-ubiart-tech-to-be-free-for-all/0109747)
+4.

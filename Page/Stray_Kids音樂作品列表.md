@@ -189,9 +189,9 @@ MIROH](../Page/Clé_1_:_MIROH.md "wikilink")》，專輯空降韓國Gaon音樂�
 <tr class="even">
 <td><p>《MIROH》</p></td>
 <td><p>2019年</p></td>
-<td></td>
+<td><p>—</p></td>
 <td><p>2</p></td>
-<td></td>
+<td><p>—</p></td>
 </tr>
 <tr class="odd">
 <td></td>

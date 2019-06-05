@@ -73,4 +73,4 @@ Dance》一發行橫掃了韓國六大音源即時榜，像是MELON、Genie等�
 [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
 [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 
-1.  <http://kpopn.niusnews.com/=K0agwk34> KPOPN
+1.  <http://kpopn.niusnews.com/=K0agwk34>  KPOPN

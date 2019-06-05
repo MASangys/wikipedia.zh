@@ -23,7 +23,7 @@ mm karabinek krotki wz. 1996**（意為：1996年型號短卡賓槍）。
 迷你「鈹」式卡賓槍的設計佈局和操作的系統可說是[Skbk wz.
 1989「縞瑪瑙」卡賓槍與](../Page/Wz._1989縞瑪瑙卡賓槍.md "wikilink")[Kbs
 wz.
-1996「鈹式」步槍所結合的版本](../Page/Wz._1996鈹式突擊步槍.md "wikilink")，而主要的差異，主要是由於使用不同的彈種所造成，包括以下多個部分：槍管、槍管耳軸、上下[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")、槍口裝置和[彈匣](../Page/彈匣.md "wikilink")。當使用適配器，它還可以使用[M16](../Page/M16突擊步槍.md "wikilink")[北約制式的彈匣](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")。武器的操作方法、[滾轉式槍機閉鎖機構和彈藥的那些與Wz](../Page/滾轉式槍機.md "wikilink").
+1996「鈹式」步槍所結合的版本](../Page/Wz._1996鈹式突擊步槍.md "wikilink")，而主要的差異，主要是由於使用不同的彈種所造成，包括以下多個部分：槍管、槍管耳軸、上下[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")、槍口裝置和[彈匣](../Page/彈匣.md "wikilink")。當使用適配器，它還可以使用[M16](../Page/M16突擊步槍.md "wikilink")[北約制式的彈匣](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")。武器的操作方法、[轉拴式槍栓閉鎖機構和彈藥的那些與Wz](../Page/轉拴式槍栓.md "wikilink").
 1996「鈹」式制式步槍相同。
 
 長度為235

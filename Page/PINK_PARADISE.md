@@ -160,7 +160,7 @@ LUV](../Page/Pink_LUV.md "wikilink")》的主打歌《》包攬韓國音樂節�
 <!-- end list -->
 
   - 聯合主辦：[上海博動文化傳播有限公司](http://bdc.sh.cn)、[上海亞太影視公司](http://www.ap450.com)
-  - 票務：[音符票務](http://www.inticket.com.cn)、[東亞票務](http://www.eaticket.com)
+  - 票務：[音符票務](https://web.archive.org/web/20180322010712/http://inticket.com.cn/)、[東亞票務](http://www.eaticket.com)
   - 宣傳媒體：[動感101](../Page/動感101.md "wikilink")
 
 ## DVD發行

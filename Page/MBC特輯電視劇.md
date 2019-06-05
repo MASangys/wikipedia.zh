@@ -1611,7 +1611,7 @@
 <td style="text-align: center;"><p><a href="../Page/世上最美麗的離別_(1996年電視劇).md" title="wikilink">世界上最美麗的離別</a><br />
 </p></td>
 <td style="text-align: center;"><p>4</p></td>
-<td style="text-align: center;"><p><small><a href="https://zh.wikipedia.org/wiki/羅文熙" title="wikilink">羅文熙</a>、<a href="../Page/朱鉉.md" title="wikilink">朱鉉</a>、<a href="../Page/金英玉.md" title="wikilink">金英玉</a>、<a href="../Page/李敏英.md" title="wikilink">李敏英</a>、<a href="../Page/李宗秀.md" title="wikilink">李宗秀</a>、<a href="../Page/孟床訓.md" title="wikilink">孟床訓</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/羅文姬.md" title="wikilink">羅文姬</a>、<a href="../Page/朱鉉.md" title="wikilink">朱鉉</a>、<a href="../Page/金英玉.md" title="wikilink">金英玉</a>、<a href="../Page/李敏英.md" title="wikilink">李敏英</a>、<a href="../Page/李宗秀.md" title="wikilink">李宗秀</a>、<a href="../Page/孟床訓.md" title="wikilink">孟床訓</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴鍾" title="wikilink">朴鍾</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/盧熙京.md" title="wikilink">盧熙京</a></p></td>
 <td style="text-align: center;"><p>創社特輯電視劇</p></td>
@@ -2453,7 +2453,7 @@
 <td style="text-align: center;"><p>2004年12月3日</p></td>
 <td style="text-align: center;"><p><br />
 </p></td>
-<td style="text-align: center;"><p><small><a href="../Page/洪銀姬.md" title="wikilink">洪銀姬</a>、、<a href="https://zh.wikipedia.org/wiki/羅文熙" title="wikilink">羅文熙</a>、<a href="../Page/政旭.md" title="wikilink">鄭旭</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/洪銀姬.md" title="wikilink">洪銀姬</a>、、<a href="../Page/羅文姬.md" title="wikilink">羅文姬</a>、<a href="../Page/政旭.md" title="wikilink">鄭旭</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/權以尚" title="wikilink">權以尚</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>

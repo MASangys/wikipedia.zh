@@ -13,7 +13,7 @@ M](../Page/Kakao_M.md "wikilink")**的練習生，練習生生涯共4年。
 
   - 3月8日，睿隣打破《[Running
     Man](../Page/Running_Man.md "wikilink")》歷史，出道僅7週參與錄製的《[Running
-    Man](../Page/Running_Man.md "wikilink")》播出
+    Man](../Page/Running_Man.md "wikilink")》播出，在節目中優秀的表現更令出道曲音源逆行。
   - 3月17日，睿隣與[金希澈參與M](https://zh.wikipedia.org/wiki/金希澈 "wikilink")\&D歌曲《I
     Wish》MV的拍摄
   - 4月15日，随組合參與錄製《[一周的偶像](https://zh.wikipedia.org/wiki/一周的偶像 "wikilink")》播出

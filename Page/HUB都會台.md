@@ -1,6 +1,6 @@
-**HUB都会台**（）是[新加坡收費媒體公司](../Page/新加坡.md "wikilink")[星和視界旗下的](https://zh.wikipedia.org/wiki/星和視界 "wikilink")[电视频道之一](https://zh.wikipedia.org/wiki/电视频道 "wikilink")，該頻道以[中文广播为主](https://zh.wikipedia.org/wiki/中文 "wikilink")，播出的節目包含[綜藝節目](../Page/綜藝節目.md "wikilink")、[电视剧](../Page/电视剧.md "wikilink")、以及[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。另外星和视界的826频道(HUB都会+2)显示+2，表示他们会在2小时后播出825频道的相同节目，但在2015年7月28日无通告之下面临关闭。
+**HUB都会台**（）是[新加坡收費媒體公司](../Page/新加坡.md "wikilink")[星和視界旗下的](https://zh.wikipedia.org/wiki/星和視界 "wikilink")[电视频道之一](https://zh.wikipedia.org/wiki/电视频道 "wikilink")，該頻道以[中文广播为主](https://zh.wikipedia.org/wiki/中文 "wikilink")，播出的節目包含[綜藝節目](../Page/綜藝節目.md "wikilink")、[电视剧](../Page/电视剧.md "wikilink")、以及[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")。另外星和视界的826频道（HUB都会+2）显示+2，表示他们会在2小时后播出825频道的相同节目，但在2015年7月28日无通告之下面临关闭。
 
-该频道由星和电视(星和视界)拥有的，该电视台还有HUB Sensasi，HUB Sports Arena, HUB Sports,
+该频道由星和电视（星和视界）拥有的，该电视台还有HUB Sensasi，HUB Sports Arena, HUB Sports,
 [HUB娱家戏剧台等频道](../Page/HUB娱家戏剧台.md "wikilink")。
 
 除此之外，星和视界用户可从2011年4月25日至2012年12月31日免费观赏，后来延长至2013年12月31日，但在无通告之下四度延长，并不设期限。
@@ -20,8 +20,8 @@
 | 21:30-22:00 | 旅遊資訊節目                             | 朋友圈72hrs遊大灣區                                            |                                                         |             |
 | 星期二         | 20:00-21:30                        | 綜藝節目                                                    | 妻子的浪漫旅行2                                                | 3月19日起      |
 | 21:30-22:00 | 美食節目                               | 尋味地圖                                                    |                                                         |             |
-| 星期三         | 20:00-21:00                        | 無                                                       | Eat Well \[HD\]                                         |             |
-| 21:00-22:00 | 無                                  | James’ Going Places                                     |                                                         |             |
+| 星期三         | 20:00-21:00                        | 美食节目                                                    | 好好吃饭吧                                                   |             |
+| 21:00-22:00 | 美食节目                               | 詹姆士出走料理                                                 |                                                         |             |
 | 星期四         | 20:00-22:00                        | 綜藝節目                                                    | 媽媽是超人3                                                  |             |
 | 星期五         | 20:00-22:00                        | 綜藝節目                                                    | [綜藝玩很大](https://zh.wikipedia.org/wiki/綜藝玩很大 "wikilink") | 緊貼台灣播放      |
 | 22:00-00:00 | [聲入人心](../Page/聲入人心.md "wikilink") |                                                         |                                                         |             |

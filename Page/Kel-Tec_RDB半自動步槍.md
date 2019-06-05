@@ -7,7 +7,7 @@ Remington](../Page/.223_Remington.md "wikilink")[口徑](https://zh.wikipedia.or
 ## 概述
 
 Kel-Tec
-RDB使用一具裝有彈簧支撐的[拋殼頂桿和退殼勾的](https://zh.wikipedia.org/wiki/拋殼頂桿 "wikilink")[滾轉式槍機](../Page/滾轉式槍機.md "wikilink")，將發射過後的彈殼彈殼向著下方拋出槍外，解決了左手射擊時彈殼拋向射手面部及氣體灼傷的問題。
+RDB使用一具裝有彈簧支撐的[拋殼頂桿和退殼勾的](https://zh.wikipedia.org/wiki/拋殼頂桿 "wikilink")[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")，將發射過後的彈殼彈殼向著下方拋出槍外，解決了左手射擊時彈殼拋向射手面部及氣體灼傷的問題。
 
 ## 衍生型
 

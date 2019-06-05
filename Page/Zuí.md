@@ -1,9 +1,7 @@
 “[Zuí_Chongqing.svg](https://zh.wikipedia.org/wiki/File:Zuí_Chongqing.svg "fig:Zuí_Chongqing.svg")”是流傳於[四川盆地的兩個婦孺皆知的複雜漢字](../Page/四川盆地.md "wikilink")“[Zuí_Chongqing.svg](https://zh.wikipedia.org/wiki/File:Zuí_Chongqing.svg "fig:Zuí_Chongqing.svg")”和“[Zuí_Sichuan.svg](https://zh.wikipedia.org/wiki/File:Zuí_Sichuan.svg "fig:Zuí_Sichuan.svg")”，其內部結構與“”字十分類似。類似結構的漢字流傳於10多個省市，300多年來均有出現，卻僅限民間相傳，從無傳統[典籍收錄](https://zh.wikipedia.org/wiki/典籍 "wikilink")。
 
-[重慶一帶的](https://zh.wikipedia.org/wiki/重慶市 "wikilink")“[Zuí_Chongqing.svg](https://zh.wikipedia.org/wiki/File:Zuí_Chongqing.svg "fig:Zuí_Chongqing.svg")”字和[四川一帶的](../Page/四川省.md "wikilink")“[Zuí_Sichuan.svg](https://zh.wikipedia.org/wiki/File:Zuí_Sichuan.svg "fig:Zuí_Sichuan.svg")”字，均念為“zuí”，即當地[方言中的](../Page/方言.md "wikilink")“賊”，意指[強盜](https://zh.wikipedia.org/wiki/強盜 "wikilink")。為了方便記憶，它們同樣也有歌謠對應[重慶一帶](https://zh.wikipedia.org/wiki/重慶市 "wikilink")“[Zuí_Chongqing.svg](https://zh.wikipedia.org/wiki/File:Zuí_Chongqing.svg "fig:Zuí_Chongqing.svg")”字歌謠為：“一點一橫長，二字下來口字方；兩邊絲繞繞，拉根板凳來坐倒；你也長，我也長，中間夾個馬兒郎；心字來打底，月字來包牆，打個金鉤銀鉤掛衣裳。”[四川一帶](../Page/四川省.md "wikilink")“[Zuí_Sichuan.svg](https://zh.wikipedia.org/wiki/File:Zuí_Sichuan.svg "fig:Zuí_Sichuan.svg")”字的常見歌謠為：“一點一橫長，二字口言旁；絲繞對絲繞，長對長，中間一個馬兒郎。心在底，月在旁，兩個鉤鉤照月亮。”，
-[綿陽一帶為](https://zh.wikipedia.org/wiki/綿陽市 "wikilink")“……兩邊絲繞繞，馬兒郎，長又長，心字底，月字旁，扯根金鉤鉤掛衣裳，揀砣石頭砸你娘。”，[巴中一帶為](../Page/巴中市.md "wikilink")“……兩橫下麵口字方；兩邊絲繞繞……你也長，我也長，中間來個馬大王；用心來打底，用月來相伴，金鉤銀鉤掛衣裳。””[臺灣一帶](../Page/臺灣.md "wikilink")
-“一點一橫長一兩口在言旁兩邊糸繞繞，中間坐個馬大娘，你也長我也長，心在底，月在旁，打個金勾掛衣裳，揀起一塊石頭甩過了牆。”，在當地鄉村中人人均能背誦。
-\[1\]\[2\]
+[重慶一帶的](https://zh.wikipedia.org/wiki/重慶市 "wikilink")“[Zuí_Chongqing.svg](https://zh.wikipedia.org/wiki/File:Zuí_Chongqing.svg "fig:Zuí_Chongqing.svg")”字和[四川一帶的](../Page/四川省.md "wikilink")“[Zuí_Sichuan.svg](https://zh.wikipedia.org/wiki/File:Zuí_Sichuan.svg "fig:Zuí_Sichuan.svg")”字，均念為“zuí”，即當地[方言中的](../Page/方言.md "wikilink")“賊”，意指[強盜](https://zh.wikipedia.org/wiki/強盜 "wikilink")。為了方便記憶，它們同樣也有歌謠對應，[重慶一帶](https://zh.wikipedia.org/wiki/重慶市 "wikilink")“[Zuí_Chongqing.svg](https://zh.wikipedia.org/wiki/File:Zuí_Chongqing.svg "fig:Zuí_Chongqing.svg")”字歌謠為：“一點一橫長，二字下來口字方；兩邊絲繞繞，拉根板凳來坐倒；你也長，我也長，中間夾個馬兒郎；心字來打底，月字來包牆，打個金鉤銀鉤掛衣裳。”[四川](../Page/四川省.md "wikilink")一帶“[Zuí_Sichuan.svg](https://zh.wikipedia.org/wiki/File:Zuí_Sichuan.svg "fig:Zuí_Sichuan.svg")”字的常見歌謠為：“一點一橫長，二字口言旁；絲繞對絲繞，長對長，中間一個馬兒郎。心在底，月在旁，兩個鉤鉤照月亮。”[綿陽一帶為](https://zh.wikipedia.org/wiki/綿陽市 "wikilink")“……兩邊絲繞繞，馬兒郎，長又長，心字底，月字旁，扯根金鉤鉤掛衣裳，揀砣石頭砸你娘。”[巴中一帶為](../Page/巴中市.md "wikilink")“……兩橫下麵口字方；兩邊絲繞繞……你也長，我也長，中間來個馬大王；用心來打底，用月來相伴，金鉤銀鉤掛衣裳。”[臺灣一帶](../Page/臺灣.md "wikilink")
+“一點一橫長一兩口在言旁兩邊糸繞繞，中間坐個馬大娘，你也長我也長，心在底，月在旁，打個金勾掛衣裳，揀起一塊石頭甩過了牆。”在當地鄉村中人人均能背誦。\[1\]\[2\]
 
 有觀點認為，這些漢字與[明朝末年](../Page/明朝.md "wikilink")[東南沿海地區剛剛興起的](https://zh.wikipedia.org/wiki/中國東部經濟區 "wikilink")[洪幫圖符十分類似](https://zh.wikipedia.org/wiki/洪門 "wikilink")，可能為洪幫[隱語秘符](https://zh.wikipedia.org/wiki/黑話 "wikilink")，由於洪幫各派系從南至北擴展傳播，而將該圖符傳播各地，尤其是[四川盆地](../Page/四川盆地.md "wikilink")，演化為漢字。\[3\]
 
@@ -17,9 +15,10 @@
 
 因此，圖符中可能隱含“**留戀大明，一馬當先**”之意。在傳播過程中，可能緩慢發生變化，最終演化成為當地民間字元，傳播越遠，其字型變化可能越大。可以看出，[四川盆地的](../Page/四川盆地.md "wikilink")“[Zuí_Chongqing.svg](https://zh.wikipedia.org/wiki/File:Zuí_Chongqing.svg "fig:Zuí_Chongqing.svg")”和“[Zuí_Sichuan.svg](https://zh.wikipedia.org/wiki/File:Zuí_Sichuan.svg "fig:Zuí_Sichuan.svg")”兩字省略了“辶”，而[陝西的](https://zh.wikipedia.org/wiki/陝西省 "wikilink")“[Biáng.svg](https://zh.wikipedia.org/wiki/File:Biáng.svg "fig:Biáng.svg")”字增加了“穴”字頭。
 
-## 相关
+## 參見 
 
-  - [Biángbiáng面](../Page/Biángbiáng面.md "wikilink")
+  - [-{zh-cn:Biángbiáng面; zh-tw:ㄅㄧㄤˊㄅㄧㄤˊ麵;
+    zh-hk:Biángbiáng麵;}-](../Page/Biángbiáng面.md "wikilink")
 
 ## 註釋
 
@@ -28,8 +27,8 @@
 [Category:重庆文化](https://zh.wikipedia.org/wiki/Category:重庆文化 "wikilink")
 
 1.
-
 2.
+
 3.
 4.
 5.

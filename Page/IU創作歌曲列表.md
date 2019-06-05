@@ -56,11 +56,11 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Everything's Alright (featuring )</p></td>
+<td><p>Everything's Alright (featuring <a href="https://zh.wikipedia.org/wiki/金賢哲" title="wikilink">金賢哲</a>)</p></td>
 <td></td>
 <td><p>✓</p></td>
 <td></td>
-<td><p>與共同作詞</p></td>
+<td><p>與<a href="https://zh.wikipedia.org/wiki/金賢哲" title="wikilink">金賢哲共同作詞</a></p></td>
 <td></td>
 <td></td>
 <td></td>

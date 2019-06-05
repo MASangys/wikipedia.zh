@@ -13,11 +13,11 @@ Nougat](../Page/Android_Nougat.md "wikilink")。\[3\]
 
 2018年9月，中国开发者weishu在酷安发布了应用太极，该应用通过对应用进行修改，允许用户无需对手机系统进行修改便可以使用部分xposed模块。
 
-2019年1月，weishu借助Magisk框架让太极得以对系统进行全局修改，越来越多的Xposed模块能够在太极中运行。[太极框架](https://github.com/taichi-framework/TaiChi)既能实现Xposed框架修改系统的功能，也能达到不修改系统使用Xposed模块的效果。更重要的是，太极已经可以成功运行于Android
-P甚至预览版Q之上。
-
-同期，ElderDriver也完成了EdXposed的开发。EdXp是一个Magisk模块，且依赖于riru框架，同样成功将Xposed移植到了Android
+2019年1月，ElderDriver完成了[EdXposed](https://github.com/ElderDrivers/EdXposed)的开发。EdXp是一个Magisk模块，依赖于[riru](https://github.com/RikkaApps/Riru)框架，成功将Xposed移植到了Android
 Pie上。
+
+2019年2月，weishu借助Magisk框架让太极得以对系统进行全局修改，越来越多的Xposed模块能够在太极中运行。[太极框架](https://github.com/taichi-framework/TaiChi)既能实现Xposed框架修改系统的功能，也能达到不修改系统使用Xposed模块的效果。更重要的是，太极已经可以成功运行于Android
+P甚至预览版Q之上。
 
 ## 用途
 

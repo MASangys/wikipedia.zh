@@ -123,6 +123,11 @@ TECI-618（B）</p></td>
 <td><p>電視動畫《<a href="https://zh.wikipedia.org/wiki/ALICE_OR_ALICE～妹控哥哥與雙胞胎妹妹～" title="wikilink">ALICE OR ALICE</a>》片尾曲</p></td>
 <td><p>2018年</p></td>
 </tr>
+<tr class="odd">
+<td><p>恋せよみんな、ハイ！</p></td>
+<td><p>電視動畫《<a href="../Page/信長老師的年幼妻子.md" title="wikilink">信長老師的年幼妻子</a>》片頭曲</p></td>
+<td><p>2019年</p></td>
+</tr>
 </tbody>
 </table>
 

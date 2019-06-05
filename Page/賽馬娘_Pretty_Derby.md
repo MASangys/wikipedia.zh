@@ -2,7 +2,7 @@
 
 遊戲內容是以[競賽馬](https://zh.wikipedia.org/wiki/競賽馬 "wikilink")[萌擬人化為主題](../Page/萌擬人化.md "wikilink")，並以「系列」作稱呼在賽場上以勝利為目標的[養成遊戲](https://zh.wikipedia.org/wiki/養成遊戲 "wikilink")。
 
-製作指揮由以往提攜《[偶像大師系列](https://zh.wikipedia.org/wiki/偶像大師系列 "wikilink")》的[Cygames內容製作人石原章弘擔任](../Page/Cygames.md "wikilink")\[3\]。
+製作指揮由以往提攜《[偶像大師系列](https://zh.wikipedia.org/wiki/偶像大師系列 "wikilink")》的[Cygames內容製作人石原章弘擔任](../Page/Cygames.md "wikilink")\[3\]。2019年5月8日，製作人石原章弘退出Cygames\[4\]。
 
 ## 故事簡介
 
@@ -265,7 +265,7 @@
 <!-- end list -->
 
   -
-    2017年3月25日開始在[Cygames的官方網站](../Page/Cygames.md "wikilink")『Cycomics（）』進行更新\[4\]。作畫由S.濃擔任\[5\]。
+    2017年3月25日開始在[Cygames的官方網站](../Page/Cygames.md "wikilink")『Cycomics（）』進行更新\[5\]。作畫由S.濃擔任\[6\]。
     角色設定與動畫版相同，但是劇情與動畫版不同。
 
 <table>
@@ -288,6 +288,18 @@
 <td><p>2018年1月30日</p></td>
 <td><p>STARTING GATE！ -賽馬娘Pretty Derby- 2</p></td>
 <td><p>ISBN 978-4-06-509247-7</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年5月30日</p></td>
+<td><p>STARTING GATE！ -賽馬娘Pretty Derby- 3</p></td>
+<td><p>ISBN 978-4-06-509267-5</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年3月29日</p></td>
+<td><p>STARTING GATE！ -賽馬娘Pretty Derby- 4</p></td>
+<td><p>ISBN 978-4-06-515533-2</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -313,7 +325,7 @@
 
 ## CD
 
-| 發行日期\[6\]                       | CD名稱                             | 規格編號       |
+| 發行日期\[7\]                       | CD名稱                             | 規格編號       |
 | ------------------------------- | -------------------------------- | ---------- |
 | 限定盤                             | 通常盤                              |            |
 | 賽馬娘Pretty Derby STARTING GATE   |                                  |            |
@@ -330,38 +342,38 @@
 
 ## 電視動畫
 
-由[Cygames](../Page/Cygames.md "wikilink")、及[Lantis三家共同企劃製作的電視動畫](../Page/Lantis.md "wikilink")\[7\]\[8\]。2018年4月1日起首播\[9\]。動畫製作由[P.A.WORKS負責](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[10\]\[11\]。
+由[Cygames](../Page/Cygames.md "wikilink")、及[Lantis三家共同企劃製作的電視動畫](../Page/Lantis.md "wikilink")\[8\]\[9\]。2018年4月1日起首播\[10\]。動畫製作由[P.A.WORKS負責](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[11\]\[12\]。
 
 ### 製作人員
 
-  - 原作：[Cygames](../Page/Cygames.md "wikilink")\[12\]
-  - 導演：[及川啟](../Page/及川啟.md "wikilink")\[13\]
-  - 副導演：太田知章\[14\]
-  - [劇本統籌](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")：石原章弘、\[15\]
-  - [人物設定](../Page/人物設計.md "wikilink")、總作畫監督：椛島洋介\[16\]
-  - 美術監督：伊藤弘\[17\]
-  - 美術：[草薙](../Page/草薙_\(動畫工作室\).md "wikilink")\[18\]
-  - 攝影監督：並木智\[19\]
-  - 色彩設計：中野尚美\[20\]
-  - 3D監督：市川元成\[21\]
-  - 剪輯：高橋步\[22\]
-  - 音樂：UTAMARO movement\[23\]
-  - 音樂企劃製作：\[24\]
-  - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")\[25\]
-  - 音響監督：森田祐一\[26\]
-  - 音響製作：\[27\]
-  - 動畫製作：[P.A.WORKS](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[28\]
+  - 原作：[Cygames](../Page/Cygames.md "wikilink")\[13\]
+  - 導演：[及川啟](../Page/及川啟.md "wikilink")\[14\]
+  - 副導演：太田知章\[15\]
+  - [劇本統籌](https://zh.wikipedia.org/wiki/劇本統籌 "wikilink")：~~石原章弘~~\[16\]、\[17\]
+  - [人物設定](../Page/人物設計.md "wikilink")、總作畫監督：椛島洋介\[18\]
+  - 美術監督：伊藤弘\[19\]
+  - 美術：[草薙](../Page/草薙_\(動畫工作室\).md "wikilink")\[20\]
+  - 攝影監督：並木智\[21\]
+  - 色彩設計：中野尚美\[22\]
+  - 3D監督：市川元成\[23\]
+  - 剪輯：高橋步\[24\]
+  - 音樂：UTAMARO movement\[25\]
+  - 音樂企劃製作：\[26\]
+  - 音樂製作：[Lantis](../Page/Lantis.md "wikilink")\[27\]
+  - 音響監督：森田祐一\[28\]
+  - 音響製作：\[29\]
+  - 動畫製作：[P.A.WORKS](https://zh.wikipedia.org/wiki/P.A._Works "wikilink")\[30\]
 
 ### 主題曲
 
-  - 片頭曲「Make Debut！」\[29\]
+  - 片頭曲「Make Debut！」\[31\]
     作詞、作曲：新田目駿，編曲：新田目駿、廣澤悠也
 
     主唱：特別週（[和氣杏未](../Page/和氣杏未.md "wikilink")）、無聲鈴鹿（[高野麻里佳](../Page/高野麻里佳.md "wikilink")）、東海帝皇（[Machico](../Page/Machico.md "wikilink")）、伏特加（[大橋彩香](../Page/大橋彩香.md "wikilink")）、大和赤驥（[木村千咲](../Page/木村千咲.md "wikilink")）、黃金船（[上田瞳](../Page/上田瞳.md "wikilink")）、目白麥昆（[大西沙織](../Page/大西沙織.md "wikilink")）
 
   - 片尾曲
 
-:;「！」（第2－4、6、8－11話）\[30\]
+:;「！」（第2－4、6、8－11話）\[32\]
 
 :: 作詞：真崎，作曲：桑原聖，編曲：酒井拓也
 
@@ -425,7 +437,7 @@
 <thead>
 <tr class="header">
 <th><p>話數</p></th>
-<th><p>日文標題[31]</p></th>
+<th><p>日文標題[33]</p></th>
 <th><p>中文標題</p></th>
 <th><p>劇本</p></th>
 <th><p>分鏡</p></th>
@@ -591,7 +603,7 @@ Kwon Hyeok-jeong、Park Ae-ri</p></td>
 
 ### Blu-ray BOX
 
-| 卷數  | 發行日期        | 收錄話數     | 規格編號\[32\] |
+| 卷數  | 發行日期        | 收錄話數     | 規格編號\[34\] |
 | --- | ----------- | -------- | ---------- |
 | 第1圈 | 2018年7月18日  | 第1R－第4R  | TBR-28250D |
 | 第2圈 | 2018年8月15日  | 第5R－第8R  | TBR-28251D |
@@ -603,7 +615,7 @@ Kwon Hyeok-jeong、Park Ae-ri</p></td>
 ## 網路廣播
 
 以《**！
-～娘報部～**》為標題，2016年11月11日起在進行配信。毎週五更新。主持人由特別週的聲優[和氣杏未](../Page/和氣杏未.md "wikilink")、無聲鈴鹿的聲優[高野麻里佳](../Page/高野麻里佳.md "wikilink")、東海帝皇的聲優[Machico](../Page/Machico.md "wikilink")\[33\]共3人擔任。
+～娘報部～**》為標題，2016年11月11日起在進行配信。毎週五更新。主持人由特別週的聲優[和氣杏未](../Page/和氣杏未.md "wikilink")、無聲鈴鹿的聲優[高野麻里佳](../Page/高野麻里佳.md "wikilink")、東海帝皇的聲優[Machico](../Page/Machico.md "wikilink")\[35\]共3人擔任。
 
 ## 參考資料
 
@@ -633,19 +645,19 @@ Kwon Hyeok-jeong、Park Ae-ri</p></td>
 3.
 
 4.
-
 5.
-6.
 
+6.
 7.
+
 8.
 9.
-
 10.
+
 11.
 12.
-
 13.
+
 14.
 15.
 16.
@@ -662,10 +674,12 @@ Kwon Hyeok-jeong、Park Ae-ri</p></td>
 27.
 28.
 29.
-
 30.
 31.
 
 32.
-
 33.
+
+34.
+
+35.

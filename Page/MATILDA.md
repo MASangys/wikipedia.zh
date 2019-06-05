@@ -22,8 +22,8 @@ STAR K](../Page/SUPER_STAR_K.md "wikilink")6》。
 別讓我哭"。[1](http://enews24.interest.me/news/article.asp?nsID=1114965)
 
 2017年10月28日[The Unit開播](../Page/The_Unit.md "wikilink")，海娜(3 Boot)、丹雅(4
-Boot)、世美(4 Boot)、賽別(2
-Boot)入選，賽別第7集淘汰，最終排名49名；海娜第10集淘汰，最終排名40名；丹雅和世美進入決賽，丹雅最終排名14名，世美意外落馬，排名從第2名下降到13名，無緣出道。
+Boot)、世美(4 Boot)、賽星(2
+Boot)入選，賽星第7集淘汰，最終排名49名；海娜第10集淘汰，最終排名40名；丹雅和世美進入決賽，丹雅最終排名14名，世美意外落馬，排名從第2名下降到13名，無緣出道。
 
 ## 成員資料
 
@@ -37,7 +37,7 @@ Boot)入選，賽別第7集淘汰，最終排名49名；海娜第10集淘汰，�
 | 海娜 |
 | 丹雅 |
 | 世美 |
-| 賽別 |
+| 賽星 |
 |    |
 
 ## 音樂作品
@@ -427,7 +427,7 @@ Boot)入選，賽別第7集淘汰，最終排名49名；海娜第10集淘汰，�
 <td><p>10月6日</p></td>
 <td></td>
 <td><p><a href="../Page/拜託了梳妝台.md" title="wikilink">拜託了梳妝台</a>2</p></td>
-<td><p>丹雅、賽別</p></td>
+<td><p>丹雅、賽星</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -491,7 +491,7 @@ Boot)入選，賽別第7集淘汰，最終排名49名；海娜第10集淘汰，�
 <td><p>9月7日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a>2</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/楊世燦的Ten" title="wikilink">楊世燦的Ten</a>2</p></td>
-<td><p>世美、賽別</p></td>
+<td><p>世美、賽星</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -499,8 +499,8 @@ Boot)入選，賽別第7集淘汰，最終排名49名；海娜第10集淘汰，�
 <td><p>10月1日-10月22日</p></td>
 <td><p><a href="../Page/京仁電視台.md" title="wikilink">京仁電視台</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/去哪裡" title="wikilink">去哪裡</a></p></td>
-<td><p>世美、賽別</p></td>
-<td><p>Ep1-2 世美、Ep3-4 賽別</p></td>
+<td><p>世美、賽星</p></td>
+<td><p>Ep1-2 世美、Ep3-4 賽星</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017-2018</p></td>
@@ -559,7 +559,7 @@ Boot)入選，賽別第7集淘汰，最終排名49名；海娜第10集淘汰，�
 <td><p>2018年2月15日</p></td>
 <td><p>WBS</p></td>
 <td></td>
-<td><p>海娜、賽別</p></td>
+<td><p>海娜、賽星</p></td>
 <td><p>DJ</p></td>
 </tr>
 <tr class="even">

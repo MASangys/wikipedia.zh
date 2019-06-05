@@ -20,8 +20,6 @@
   -
   -
   -
-[Category:1903年出生](https://zh.wikipedia.org/wiki/Category:1903年出生 "wikilink")
-[Category:1961年逝世](https://zh.wikipedia.org/wiki/Category:1961年逝世 "wikilink")
 [Category:美国物理学家](https://zh.wikipedia.org/wiki/Category:美国物理学家 "wikilink")
 [Category:加州理工學院校友](https://zh.wikipedia.org/wiki/Category:加州理工學院校友 "wikilink")
 [Category:加州理工學院教師](https://zh.wikipedia.org/wiki/Category:加州理工學院教師 "wikilink")

@@ -41,15 +41,17 @@
   - （1997年7月17日）
 
   - [Animetic Story Game 1
-    庫洛魔法使](https://zh.wikipedia.org/wiki/百變小櫻#遊戲 "wikilink")（1999年8月5日）
+    -{zh-tw:庫洛魔法使;zh-cn:魔卡少女樱;zh-hk:百變小櫻;}-](https://zh.wikipedia.org/wiki/百變小櫻#遊戲 "wikilink")（1999年8月5日）
 
   - 快打旋風EX2 PLUＳ（1999年12月24日）
 
-  - 庫洛魔法使 庫洛牌魔法（2000年1月27日發行／限定版、通常版共同）
+  - \-{zh-tw:庫洛魔法使;zh-cn:魔卡少女樱;zh-hk:百變小櫻;}-
+    -{zh-tw:庫洛牌;zh-cn:库洛牌;zh-hk:古羅咭;}-魔法（2000年1月27日發行／限定版、通常版共同）
 
   - 快打旋風EX3（2000年3月4日）
 
-  - 俄羅斯方塊 with 庫洛魔法使 永恆的心（2000年8月10日）
+  - 俄羅斯方塊 with -{zh-tw:庫洛魔法使;zh-cn:魔卡少女樱;zh-hk:百變小櫻Magic咭;}-
+    永恆的心（2000年8月10日）
 
   - [音樂大作戰](https://zh.wikipedia.org/wiki/音樂大作戰 "wikilink")（2001年1月25日）
 
@@ -101,6 +103,8 @@
   - [路易吉醫生&細菌撲滅](https://zh.wikipedia.org/wiki/路易吉醫生&細菌撲滅 "wikilink")（2014年1月15日）
 
   - （2018年6月28日）
+
+  - [俄羅斯方塊99](https://zh.wikipedia.org/wiki/俄羅斯方塊99 "wikilink")（2019年2月14日，[任天堂Switch線上服務加入者用特典](../Page/任天堂Switch線上服務.md "wikilink")）
 
 ## 來源
 

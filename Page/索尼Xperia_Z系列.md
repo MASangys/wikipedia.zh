@@ -19,7 +19,7 @@ Z系列**。
 其中，只有Z系列作为无锁SIM卡的型号在日本销售。
 
 在日本，[NTT
-DOCOMO](../Page/NTT_DOCOMO.md "wikilink")、[KDDI](../Page/KDDI.md "wikilink")、沖縄セルラー電話（各[au](../Page/Au_\(行動電話\).md "wikilink")）以及[软银都有发售Xperia](https://zh.wikipedia.org/wiki/軟銀 "wikilink")
+DOCOMO](../Page/NTT_DOCOMO.md "wikilink")、[KDDI](../Page/KDDI.md "wikilink")、沖縄セルラー電話（各[au](../Page/Au_\(行動電話\).md "wikilink")）以及[软银都有发售Xperia](../Page/軟銀.md "wikilink")
 Z系列手机。
 
 ## 系列包含的型号

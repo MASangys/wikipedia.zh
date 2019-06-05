@@ -1,4 +1,4 @@
-**EXY**（，），本名**秋昭贞**\[1\]（，），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")，[STARSHIP娛樂旗下女子組合](../Page/STARSHIP娛樂.md "wikilink")[宇宙少女及小分隊](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")**Sweet**組\[2\]成員，在隊中擔任隊長、主Rapper、在每張專輯裡擔任作曲者、作詞者。原預計於2011年以Viva
+**EXY**（，），本名**秋昭贞**\[1\]\[2\]（，），[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")，[STARSHIP娛樂旗下女子組合](../Page/STARSHIP娛樂.md "wikilink")[宇宙少女及小分隊](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")**Sweet**組\[3\]成員，在隊中擔任隊長、主Rapper、在每張專輯裡擔任作曲者、作詞者。原預計於2011年以Viva
 Girls出道，因公司倒閉而告吹，後加入[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")。2016年2月25日以宇宙少女成員身份，發行首張迷你專輯《WOULD
 YOU LIKE?》正式出道。
 
@@ -21,7 +21,7 @@ I Want For Christmas is You》。2015年12月30日，出演
 
 #### 企划组合 Y Teen
 
-8月3日，EXY与[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")6名成员（[雪娥](../Page/雪娥.md "wikilink")、[秀彬](../Page/秀斌.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")
+8月3日，EXY与[宇宙少女](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")6名成员（[雪娥](../Page/雪娥.md "wikilink")、[秀斌](../Page/秀斌.md "wikilink")、[恩熙](../Page/恩熙_\(歌手\).md "wikilink")
 、[程潇](../Page/程潇.md "wikilink")、[夏天及](../Page/夏天_\(歌手\).md "wikilink")[多榮](https://zh.wikipedia.org/wiki/多榮 "wikilink")）與男子组合[MONSTA
 X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")7名成员组成限定版的男女混合團“Y
 Teen”。8月6日，公開限定组合“Y Teen”《Do Better》的MV。
@@ -145,7 +145,8 @@ Teen”。8月6日，公開限定组合“Y Teen”《Do Better》的MV。
 | 2017年 | 2月16日                                                                     | [OnStyle](../Page/OnStyle.md "wikilink")                            | 《[Lipstick Prince](../Page/Lipstick_Prince.md "wikilink")》                   |               |
 | 2018年 | 4月5日                                                                      | K Star                                                              | 《食神之路4》                                                                      | 嘉賓 與多榮 E04    |
 | 12月8日 | MBC every1                                                                | 《今天有話要說》                                                            | 與[所願](../Page/Sowon.md "wikilink")（[GFRIEND](../Page/GFRIEND.md "wikilink")） |               |
-| 2019年 | 2月5日及2月7日                                                                 | VLIVE                                                               | 《會玩的哥哥》                                                                      | 與雪娥、秀彬、多榮共同出演 |
+| 2019年 | 2月5日及2月7日                                                                 | VLIVE                                                               | 《會玩的哥哥》                                                                      | 與雪娥、秀斌、多榮共同出演 |
+| 5月14日 | Olive                                                                     | 《One Pick Road》                                                     |                                                                              |               |
 |       |                                                                           |                                                                     |                                                                              |               |
 
 ### 固定綜藝
@@ -179,6 +180,6 @@ Teen”。8月6日，公開限定组合“Y Teen”《Do Better》的MV。
 [Category:秋姓](https://zh.wikipedia.org/wiki/Category:秋姓 "wikilink")
 [Category:宇宙少女成員](https://zh.wikipedia.org/wiki/Category:宇宙少女成員 "wikilink")
 
-1.  {{cite
-    news|url=[https://www.instagram.com/p/BKVm3tPgSyX/|title=EXY漢字本名認證|publisher=EXY香港首站](https://www.instagram.com/p/BKVm3tPgSyX/%7Ctitle=EXY漢字本名認證%7Cpublisher=EXY香港首站)|
-2.  [宇宙少女「Sweet」成員公開](http://kpopn.com/2015/12/25/327226/)
+1.
+2.
+3.  [宇宙少女「Sweet」成員公開](http://kpopn.com/2015/12/25/327226/)

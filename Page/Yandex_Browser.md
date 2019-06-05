@@ -28,8 +28,7 @@ Chrome是俄羅斯最受歡迎的網路瀏覽器](../Page/Google_Chrome.md "wiki
 [Category:2012年软件](https://zh.wikipedia.org/wiki/Category:2012年软件 "wikilink")
 [Category:C++軟體](https://zh.wikipedia.org/wiki/Category:C++軟體 "wikilink")
 [Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink")
-[Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink")
-[Category:Webkit衍生軟體](https://zh.wikipedia.org/wiki/Category:Webkit衍生軟體 "wikilink")
+[Category:基于Chromium的浏览器](https://zh.wikipedia.org/wiki/Category:基于Chromium的浏览器 "wikilink")
 
 1.
 2.

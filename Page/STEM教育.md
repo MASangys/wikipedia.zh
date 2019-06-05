@@ -113,6 +113,7 @@ Solving)，並希望學生能將這些技能應用在日常生活當中。
 
 ## 参見
 
+  - [理工](../Page/理工.md "wikilink")
   - [教育编程语言列表](../Page/教育编程语言列表.md "wikilink")
   - [创客](../Page/创客.md "wikilink")
 

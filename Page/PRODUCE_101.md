@@ -4,7 +4,7 @@ Entertainment旗下藝人的身份進行為期一年的活動](https://zh.wikipe
 **[I.O.I](../Page/I.O.I.md "wikilink")**（）。
 
 2017年，[Mnet決定制作](https://zh.wikipedia.org/wiki/Mnet_Media "wikilink")[第二季](../Page/PRODUCE_101_第二季.md "wikilink")，改為新男團選拔／生存實境節目，並由[寶兒
-(BoA)擔任國民製作人代表](../Page/寶兒.md "wikilink")\[1\]；2018年，Mnet与日本[AKB48
+(BoA)擔任](../Page/寶兒.md "wikilink")[國民製作人代表](https://zh.wikipedia.org/wiki/國民製作人代表 "wikilink")\[1\]；2018年，Mnet与日本[AKB48
 Group合作推出](../Page/AKB48.md "wikilink")[PRODUCE
 48](../Page/PRODUCE_48.md "wikilink")，進行共96位選手的女團選拔節目，並由[李昇基擔任國民製作人代表](../Page/李昇基.md "wikilink")；2019年，Mnet即將推出第四季名稱確定為[PRODUCE
 X101](https://zh.wikipedia.org/wiki/PRODUCE_X101 "wikilink")，本季重回男團選秀，並由[李棟旭擔任國民製作人代表](../Page/李棟旭.md "wikilink")。
@@ -21,12 +21,13 @@ ONE、Facebook和Twitter的帳號後，經由《PRODUCE
 
 <!-- end list -->
 
-  - 歌唱導師：[JeA](../Page/金孝珍_\(歌手\).md "wikilink") & 金聖恩 （[Big Hit
+  - 歌唱導師：[JeA](../Page/金孝珍_\(歌手\).md "wikilink") & 金聖恩 （AG 聖恩，[Big Hit
     娛樂](../Page/Big_Hit娛樂.md "wikilink") 聲樂導師）\[2\]
 
 <!-- end list -->
 
-  - 舞蹈導師：[嘉熙](https://zh.wikipedia.org/wiki/嘉熙_\(歌手\) "wikilink") & 裴允貞
+  - 舞蹈導師：[嘉熙](https://zh.wikipedia.org/wiki/嘉熙_\(歌手\) "wikilink") &
+    [裴允靜](https://zh.wikipedia.org/wiki/裴允靜 "wikilink")
 
 <!-- end list -->
 
@@ -4105,12 +4106,9 @@ Entertainment旗下藝人的身份進行為期一年的活動。
 
 ## 參考資料
 
-## 外部連結
+[`超大型練習生軍團「Produce101」亮相《M``   ``Countdown》``
+ ``張根碩助陣`](http://www.koreastardaily.com/tc/news/71742)`，韓星網2015年12月18日`
 
-  - PRODUCE
-    101[官方專頁](https://web.archive.org/web/20151220222941/http://mnettv.interest.me/produce101/main.dbp)／[官方Facebook專頁](https://www.facebook.com/produce101)／[Twitter](https://twitter.com/mnetkr)／[Instagram](https://www.instagram.com/produce48_official/)
-  - [超大型練習生軍團「Produce101」亮相《M Countdown》
-    張根碩助陣](http://www.koreastardaily.com/tc/news/71742)，韓星網2015年12月18日
   - [PTT EXCEL
     整理](https://docs.google.com/spreadsheets/d/12eKoC5W7KvHdaES5kM4YGSagMY-o3SVojhlqVgRHc4M/edit#gid=0)
 

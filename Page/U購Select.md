@@ -12,6 +12,8 @@ U購Select超級市場，為[華潤萬家超級市場的姊妹公司](../Page/�
 
 自合併後，華潤創業，錄得巨額虧蝕，因此2015年4月落實由華潤創業的母公司華潤集團收購超市零售等非啤酒業務\[3\]。
 
+U購Select超級市場目前分店中，部分為原[華潤萬家超級市場改裝](../Page/華潤萬家超級市場.md "wikilink")，亦有部分為新落成屋苑、商場店舖（如[滿樂坊](https://zh.wikipedia.org/wiki/滿東邨#設施 "wikilink")、[朗善邨](../Page/朗善邨.md "wikilink")）。
+
 ## 現況
 
 2015年4月，華潤開設U購Select超市，首兩家分店於2015年4月18日在太子道西及深井碧堤坊開業，其中深井店邀請[呂慧儀出席開幕活動](../Page/呂慧儀.md "wikilink")\[4\]。兩間分店前身均為[華潤萬家超級市場](../Page/華潤萬家超級市場.md "wikilink")。
@@ -42,4 +44,5 @@ U購Select超級市場，為[華潤萬家超級市場的姊妹公司](../Page/�
     (2015年07月06日)](http://www.nextplus.nextmedia.com/news/recommend/20150706/223542)
 
 3.  881903-[華創已完成出售非零售業務擬改名為「華潤啤酒」](http://www.881903.com/Page/ZH-TW/newsdetail.aspx?ItemId=820914&csid=261_368)
-4.  [呂慧儀的[新浪微博](../Page/新浪微博.md "wikilink")](http://news.sina.com.hk/p/weibostatus/content/index/3832978486915832)
+4.  [
+    呂慧儀的[新浪微博](../Page/新浪微博.md "wikilink")](http://news.sina.com.hk/p/weibostatus/content/index/3832978486915832)

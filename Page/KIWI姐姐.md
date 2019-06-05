@@ -86,6 +86,7 @@
 [Category:國立台灣體育大學校友](https://zh.wikipedia.org/wiki/Category:國立台灣體育大學校友 "wikilink")
 [Category:台灣主持人](https://zh.wikipedia.org/wiki/Category:台灣主持人 "wikilink")
 [Category:苗栗人](https://zh.wikipedia.org/wiki/Category:苗栗人 "wikilink")
+[Category:YOYO家族成員](https://zh.wikipedia.org/wiki/Category:YOYO家族成員 "wikilink")
 
 1.  [【如果兒童劇團】X【YOYO家族】GoGo拯救聖誕歷險記](http://epaper.ifkidsdrama.com/2014new/140822_gogoXmas/edm.html)
 2.  [Kiwi姐姐代言偶像學園](https://www.youtube.com/watch?v=fXbuH1mIW8k)

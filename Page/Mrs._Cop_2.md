@@ -177,26 +177,40 @@ Cop](../Page/Mrs._Cop.md "wikilink")》[黃洙夏](../Page/黃洙夏.md "wikilin
 
   - [金正錫](https://zh.wikipedia.org/wiki/金正錫 "wikilink")
 
-  - [金炳澈](https://zh.wikipedia.org/wiki/金炳澈 "wikilink")
-
-<!-- end list -->
+  - [金炳哲](../Page/金炳哲.md "wikilink")
 
   - [徐英](https://zh.wikipedia.org/wiki/徐英_\(演員\) "wikilink")
+
   - [韓智安](https://zh.wikipedia.org/wiki/韓智安 "wikilink")
+
   - [鄭炫錫](https://zh.wikipedia.org/wiki/鄭炫錫 "wikilink")
+
   - [崔允俊](https://zh.wikipedia.org/wiki/崔允俊 "wikilink")
+
   - [申承煥](../Page/申承煥.md "wikilink"):裴達煥（客串演出）
+
   - [尹炳熙](https://zh.wikipedia.org/wiki/尹炳熙 "wikilink")
+
   - [李在勇](../Page/李在勇.md "wikilink")
+
   - [許俊碩](../Page/許俊碩.md "wikilink")
+
   - [金容雲](https://zh.wikipedia.org/wiki/金容雲 "wikilink")
+
   - [李勝勛](https://zh.wikipedia.org/wiki/李勝勛_\(演員\) "wikilink")
+
   - [洪理杰](https://zh.wikipedia.org/wiki/洪理杰 "wikilink")
+
   - [金敏荷](https://zh.wikipedia.org/wiki/金敏荷 "wikilink")
+
   - [徐鎮旭](https://zh.wikipedia.org/wiki/徐鎮旭 "wikilink")
+
   - [河恩珍](https://zh.wikipedia.org/wiki/河恩珍 "wikilink")
+
   - [劉章英](https://zh.wikipedia.org/wiki/劉章英 "wikilink")
+
   - [朴哲民](../Page/朴哲民_\(演員\).md "wikilink")
+
   - [李錫](https://zh.wikipedia.org/wiki/李錫_\(韓國演員\) "wikilink")
 
 <!-- end list -->

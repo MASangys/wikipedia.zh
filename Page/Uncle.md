@@ -18,7 +18,7 @@ uncle、grand-uncle、granduncle）；在中文中，父亲的×父则为×祖�
 由于在许多文化中Uncle这个词都被赋予了年长但又睿智、友善的形象，该词已被很多人用作充满爱意的昵称\[3\]。在中，（Uncle
 Tompa）是一个为人熟知且受人爱戴的人物。美国的拟人形象[山姆大叔寓意众多美国人父亲般的人物](../Page/山姆大叔.md "wikilink")。各种儿童电视节目主持人使用“Uncle”作为他们的昵称，包括[沃尔特·迪斯尼](https://zh.wikipedia.org/wiki/沃尔特·迪斯尼 "wikilink")（Uncle
 Walt）、鲍勃·戴维兹（Bob Davidse，Nonkel Bob，Nonkel同Uncle）、埃德温·吕滕（Edwin
-Rutten，他主持一档儿童节目叫《De Show van Ome Willem》，即威廉 Uncle秀）。荷兰诗人Ome
+Rutten，他主持一档儿童节目叫《De Show van Ome Willem》，即威廉Uncle秀）。荷兰诗人Ome
 Ko也在他的部分笔名中使用了Uncle。
 
 富有、睿智或公正的Uncle也出现在众多虚构作品中。

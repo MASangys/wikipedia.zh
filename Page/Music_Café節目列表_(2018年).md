@@ -67,7 +67,7 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 | 372 | 6月2日   | 鄭融、Fabel　「做自己」並非壞事            | [鄭　融](../Page/鄭融.md "wikilink")、[Fabel](../Page/Fabel.md "wikilink") |- style="background-color: \#FFFFFF" |                                                        |
 | 373 | 6月9日   | 胡鴻鈞、鄭俊弘　音樂動力                  | [胡鴻鈞](https://zh.wikipedia.org/wiki/胡鴻鈞 "wikilink")、[鄭俊弘](../Page/鄭俊弘.md "wikilink") |- style="background-color: \#FFFFFF" |                                        |
 | 374 | 6月16日  | Zpecial、FreshLife　Band友的失敗年代？ | [Zpecial](https://zh.wikipedia.org/wiki/Zpecial "wikilink")、[FreshLife](https://zh.wikipedia.org/wiki/FreshLife "wikilink") |- style="background-color: \#FFFFFF" | |
-| 375 | 6月23日  | 布志綸、羅孝勇　走出迷惘                  | [布志綸](https://zh.wikipedia.org/wiki/Mr.#布志綸 "wikilink")、[羅孝勇](../Page/羅孝勇.md "wikilink") |- style="background-color: \#FFFFFF" |                                    |
+| 375 | 6月23日  | 布志綸、羅孝勇　走出迷惘                  | [布志綸](../Page/布志綸.md "wikilink")、[羅孝勇](../Page/羅孝勇.md "wikilink") |- style="background-color: \#FFFFFF" |                                                           |
 | 376 | 6月30日  | 鄭世豪、龔柯允　為自己尋找音樂路向             | [鄭世豪](../Page/鄭世豪.md "wikilink")、[龔柯允](https://zh.wikipedia.org/wiki/龔柯允 "wikilink") |- style="background-color: \#FFFFFF" |                                        |
 
 ## 7月

@@ -33,51 +33,7 @@ Pharmaceuticals進一步開發](https://zh.wikipedia.org/wiki/Kowa_Pharmaceutica
 
 ## 參考文獻
 
-<references />
-
-**外部連結**
-
-  - [FDA approval
-    history](http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.Label_ApprovalHistory)
-
-
-
-## Metabolism and interactions
-
-Most statins are metabolised in part by one or more
-[hepatic](../Page/肝臟.md "wikilink") [cytochrome
-P450](../Page/细胞色素P450.md "wikilink") enzymes, leading to an
-increased potential for [drug
-interactions](https://zh.wikipedia.org/wiki/药物相互作用 "wikilink") and
-problems with certain foods (such as
-[grapefruit](../Page/葡萄柚.md "wikilink") juice). The primary
-metabolism pathway of pitavastatin is . It is minimally metabolized by
-the CYP450 enzymes
-[CYP2C9](https://zh.wikipedia.org/wiki/CYP2C9 "wikilink") and ,\[13\]
-but not by [CYP3A4](../Page/CYP3A4.md "wikilink") (which is a common
-source of interactions in other statins). As a result, it is less likely
-to interact with drugs that are metabolized via CYP3A4, which might be
-important for elderly patients who need to take multiple
-medicines.\[14\]
-
-## History
-
-Pitavastatin (previously known as itavastatin, itabavastin, nisvastatin,
-NK-104 or NKS-104) was discovered in [Japan](../Page/日本.md "wikilink")
-by and developed further by [Kowa
-Pharmaceuticals](https://zh.wikipedia.org/wiki/Kowa_Pharmaceuticals "wikilink"),
-. Pitavastatin was approved for use in the United States by the FDA on
-08/03/2009 under the trade name Livalo. Pitavastatin has been also
-approved by the Medicines and Healthcare products Regulatory Agency
-(MHRA) in UK on 17 August 2010.
-
-日本
-
-## References
-
-<references/>
-
-## External links
+## 外部連結
 
   - [FDA approval
     history](http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.Label_ApprovalHistory)
@@ -88,7 +44,6 @@ approved by the Medicines and Healthcare products Regulatory Agency
 [Category:羧酸](https://zh.wikipedia.org/wiki/Category:羧酸 "wikilink")
 [Category:氟代芳烴](https://zh.wikipedia.org/wiki/Category:氟代芳烴 "wikilink")
 [Category:环丙基化合物](https://zh.wikipedia.org/wiki/Category:环丙基化合物 "wikilink")
-[Category:Beta_hydroxy_acids](https://zh.wikipedia.org/wiki/Category:Beta_hydroxy_acids "wikilink")
 
 1.
 
@@ -114,6 +69,3 @@ approved by the Medicines and Healthcare products Regulatory Agency
 11.
 
 12.
-13. [Drugs.com](../Page/Drugs.com.md "wikilink"): Livalo .
-
-14.

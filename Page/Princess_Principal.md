@@ -261,7 +261,9 @@ MISSION》亦同時展開，預定於同年6月開始進行事前登錄\[2\]。2
 
 ## 外部連結
 
-  - [《Princess Principal》電視動畫官網](http://www.pripri-anime.jp/)
+  - [《Princess
+    Principal》電視動畫官網](https://web.archive.org/web/20170324093651/http://www.pripri-anime.jp/)
+
 
   -
 [Category:Actas](https://zh.wikipedia.org/wiki/Category:Actas "wikilink")

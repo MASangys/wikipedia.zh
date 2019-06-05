@@ -209,7 +209,8 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年1月26日－2019年3月17日</p></td>
+<td style="text-align: center;"><p>2019年1月26日－<br />
+2019年3月17日</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/羅曼史別冊附錄" title="wikilink">羅曼史別冊附錄</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
@@ -219,7 +220,8 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年3月23日－ 2019年5月12日</p></td>
+<td style="text-align: center;"><p>2019年3月23日－<br />
+2019年5月12日</p></td>
 <td style="text-align: center;"><p><a href="../Page/自白_(電視劇).md" title="wikilink">自白</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
@@ -229,10 +231,33 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年5月18日－ 2019年月</p></td>
-<td style="text-align: center;"><p><a href="../Page/阿斯達年代記.md" title="wikilink">阿斯達年代記</a><br />
+<td style="text-align: center;"><p>2019年6月1日－<br />
+2019年7月7日</p></td>
+<td style="text-align: center;"><p><a href="../Page/阿斯達年代記.md" title="wikilink">阿斯達年代記</a>（第1、2部）<br />
+</p></td>
+<td style="text-align: center;"><p>12</p></td>
+<td style="text-align: center;"><p><a href="../Page/宋仲基.md" title="wikilink">宋仲基</a>、<a href="../Page/金智媛.md" title="wikilink">金智媛</a>、<a href="https://zh.wikipedia.org/wiki/張東健" title="wikilink">張東健</a>、<a href="../Page/金玉彬.md" title="wikilink">金玉彬</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金元錫.md" title="wikilink">金元錫</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金榮昡.md" title="wikilink">金榮昡</a>、<a href="../Page/朴尚淵.md" title="wikilink">朴尚淵</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2019年7月－<br />
+2019年</p></td>
+<td style="text-align: center;"><p><a href="../Page/德魯納酒店.md" title="wikilink">德魯納酒店</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/IU_(藝人)" title="wikilink">IU</a>、<a href="../Page/呂珍九.md" title="wikilink">呂珍九</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳忠煥" title="wikilink">吳忠煥</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/洪貞恩" title="wikilink">洪貞恩</a>、<a href="https://zh.wikipedia.org/wiki/洪美蘭" title="wikilink">洪美蘭</a></p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>2019年－<br />
+2019年</p></td>
+<td style="text-align: center;"><p><a href="../Page/阿斯達年代記.md" title="wikilink">阿斯達年代記</a>（第3部）<br />
+</p></td>
+<td style="text-align: center;"><p>6</p></td>
 <td style="text-align: center;"><p><a href="../Page/宋仲基.md" title="wikilink">宋仲基</a>、<a href="../Page/金智媛.md" title="wikilink">金智媛</a>、<a href="https://zh.wikipedia.org/wiki/張東健" title="wikilink">張東健</a>、<a href="../Page/金玉彬.md" title="wikilink">金玉彬</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金元錫.md" title="wikilink">金元錫</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金榮昡.md" title="wikilink">金榮昡</a>、<a href="../Page/朴尚淵.md" title="wikilink">朴尚淵</a></p></td>

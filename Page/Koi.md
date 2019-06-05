@@ -1,4 +1,4 @@
-**Koi**是[日本的](../Page/日本.md "wikilink")[漫画家](https://zh.wikipedia.org/wiki/漫画家 "wikilink")、[插画家](https://zh.wikipedia.org/wiki/插画家 "wikilink")。现居[东京都](https://zh.wikipedia.org/wiki/东京都 "wikilink")。
+**Koi**是一位[日本](../Page/日本.md "wikilink")[漫畫家和](https://zh.wikipedia.org/wiki/漫畫家 "wikilink")[插畫家](https://zh.wikipedia.org/wiki/插畫家 "wikilink")，現居[東京都](../Page/東京都.md "wikilink")。
 
 ## 经历·风格
 

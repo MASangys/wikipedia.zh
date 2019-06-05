@@ -63,7 +63,7 @@ re-do](https://zh.wikipedia.org/wiki/me,_re-do "wikilink")》及一張國語新�
 [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 [Category:英皇娛樂音樂專輯](https://zh.wikipedia.org/wiki/Category:英皇娛樂音樂專輯 "wikilink")
 
-1.  [2016年度叱咤樂壇流行榜頒獎典禮得獎名單](http://www.my903.com/my903/usc2016/web/awardlist.jsp)
+1.
 2.  [文匯報：祖兒牛一正日出專輯](http://paper.wenweipo.com/2016/06/17/EN1606170029.htm)
 3.  [Cosmopolitan專訪：大娛樂家
     容祖兒](https://www.cosmopolitan.com.hk/entertainment/1539846d2a8419c)

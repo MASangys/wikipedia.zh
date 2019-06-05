@@ -223,6 +223,7 @@ Ma**），[香港](../Page/香港.md "wikilink")[音樂製作人](https://zh.wik
 </tr>
 <tr class="even">
 <td><ul>
+<li><a href="../Page/林欣彤.md" title="wikilink">林欣彤</a> - 玫瑰式體驗（編）</li>
 <li><a href="../Page/符致逸.md" title="wikilink">符致逸</a> - 值得放棄（曲、編）</li>
 </ul></td>
 <td><ul>

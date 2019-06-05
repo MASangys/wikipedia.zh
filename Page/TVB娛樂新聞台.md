@@ -91,7 +91,7 @@ Jane](../Page/Dear_Jane.md "wikilink")、盧凱彤、鍾舒漫、馮允謙、[�
 Moment、曾志偉、彭家麗、方皓玟、太極、[江若琳](https://zh.wikipedia.org/wiki/江若琳 "wikilink")、[鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink")、[黎瑞恩](../Page/黎瑞恩.md "wikilink")、[溫拿](https://zh.wikipedia.org/wiki/溫拿 "wikilink")、蔡立兒、JW王灝兒、傅穎、關智斌、蔡卓妍、天堂鳥、鄭國江、ToNick等。
 
 華語藝人包括有：
-[張震](https://zh.wikipedia.org/wiki/張震 "wikilink")、[林志玲](../Page/林志玲.md "wikilink")、蘇打綠、趙薇、張孝全、湯唯、蕭亞軒、A-Lin、張震嶽、Circus、黃曉明、林曉培、楊丞琳、吳克羣、楊謹華、孫燕姿、張艾嘉、蕭敬騰、[郭采潔](https://zh.wikipedia.org/wiki/郭采潔 "wikilink")、[周冬雨](https://zh.wikipedia.org/wiki/周冬雨 "wikilink")、任賢齊、霍建華等。
+[張震](https://zh.wikipedia.org/wiki/張震 "wikilink")、[林志玲](../Page/林志玲.md "wikilink")、蘇打綠、趙薇、張孝全、湯唯、蕭亞軒、A-Lin、張震嶽、Circus、黃曉明、林曉培、楊丞琳、吳克羣、楊謹華、孫燕姿、張艾嘉、蕭敬騰、[郭采潔](../Page/郭采潔.md "wikilink")、[周冬雨](https://zh.wikipedia.org/wiki/周冬雨 "wikilink")、任賢齊、霍建華等。
 
 日韓藝人包括有： 金起範、金楨勲、IU、姜河那、水原希子、金喜善、Brown Eyes
 Girls、姜Gary、孫藝珍、三浦春馬、宋再臨、VIXX、崔始源、CN
@@ -169,55 +169,22 @@ channel宣傳活動，名為《[一起Download的日子](https://zh.wikipedia.or
 
 ## 主持
 
-<table>
-<thead>
-<tr class="header">
-<th style="text-align: center;"><p><strong>娛樂新聞台粵語主播</strong></p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"><p><a href="../Page/周奕瑋.md" title="wikilink">周奕瑋</a><br />
-</p></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p><a href="../Page/蘇可欣.md" title="wikilink">蘇可欣</a><br />
-</p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳詩欣" title="wikilink">陳詩欣</a><br />
-</p></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"><p><a href="../Page/歐陽巧瑩.md" title="wikilink">歐陽巧瑩</a><br />
-</p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳紫韻" title="wikilink">吳紫韻</a></p></td>
-</tr>
-</tbody>
-</table>
+|                    **娛樂新聞台粵語主播**                    |
+| :-------------------------------------------------: |
+|          [周奕瑋](../Page/周奕瑋.md "wikilink")           |
+|          [蘇可欣](../Page/蘇可欣.md "wikilink")           |
+|        [鍾晴](../Page/鍾晴_\(藝人\).md "wikilink")        |
+|          [秦啟維](../Page/秦啟維.md "wikilink")           |
+| [鍾煒喬](https://zh.wikipedia.org/wiki/鍾煒喬 "wikilink") |
 
 |            **娛樂頭條主播**            |
 | :------------------------------: |
 | [周奕瑋](../Page/周奕瑋.md "wikilink") |
 
-<table>
-<thead>
-<tr class="header">
-<th style="text-align: center;"><p><strong>外景採訪記者</strong></p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/林淑汶" title="wikilink">林淑汶</a><br />
-</p></td>
-</tr>
-<tr class="even">
-<td style="text-align: center;"></td>
-</tr>
-</tbody>
-</table>
+|                     **外景採訪記者**                      |
+| :-------------------------------------------------: |
+| [林淑汶](https://zh.wikipedia.org/wiki/林淑汶 "wikilink") |
+|                                                     |
 
 |                                  |
 | :------------------------------: |
@@ -267,6 +234,25 @@ channel宣傳活動，名為《[一起Download的日子](https://zh.wikipedia.or
 
 2018年9月1日起，在新加坡播放的普通話TVB娛樂新聞報道，正式改名為《亞洲娛樂新聞報道》及《亞洲一周娛樂》。
 
+## 娛樂新聞回顧節目
+
+《**娛樂新聞回顧節目**》（）是**TVB娛樂新聞台**製作的娛樂新聞回顧的特備節目，通常於每年12月底其中一個晚上舉行，主要總結該年娛樂新聞大事。主持及演出（2000年代至今）如下：
+
+| 年度   | 名稱                                                                     | 主持                                                                                                                                                                                                                       | 監製                                                         | 編審                                                      |
+| ---- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------- | ------------------------------------------------------- |
+| 2009 | [娛樂十大奇案2009](http://programme.tvb.com/variety/starbizreview2009)       | [崔建邦](../Page/崔建邦.md "wikilink")、[宋熙年](../Page/宋熙年.md "wikilink")、[龔嘉欣](https://zh.wikipedia.org/wiki/龔嘉欣 "wikilink")                                                                                                    | [張嘉玲](https://zh.wikipedia.org/wiki/張嘉玲 "wikilink")        | [張慧怡](https://zh.wikipedia.org/wiki/張慧怡 "wikilink")     |
+| 2010 | [2010八味娛樂圈](http://programme.tvb.com/variety/starbizreview2010)        | 宋熙年、[陳倩揚](../Page/陳倩揚.md "wikilink")、[麥皓兒](../Page/麥皓兒.md "wikilink")                                                                                                                                                    | 張嘉玲                                                        | 張慧怡                                                     |
+| 2011 | [繽Fun娛樂大派對](http://programme.tvb.com/variety/starbizreview2011)        | 宋熙年、麥皓兒、[森美](https://zh.wikipedia.org/wiki/森美 "wikilink")                                                                                                                                                                | 張嘉玲                                                        | 張慧怡                                                     |
+| 2012 | [Fun Fun娛樂大派對](http://programme.tvb.com/variety/starbizreview2012)     | [古明華](../Page/古明華.md "wikilink")、[黎芷珊](../Page/黎芷珊.md "wikilink")、[容羨媛](../Page/容羨媛.md "wikilink")、[吳幸美](../Page/吳幸美.md "wikilink")                                                                                      | 張嘉玲、[衛世輝](https://zh.wikipedia.org/wiki/衛世輝 "wikilink")    | 張慧怡、[鄭月明](https://zh.wikipedia.org/wiki/鄭月明 "wikilink") |
+| 2013 | [2013娛樂大派對](http://programme.tvb.com/variety/starbizreview2013)        | 旁白：[林映輝](../Page/林映輝.md "wikilink")、容羨媛                                                                                                                                                                                  | 張嘉玲                                                        | 張慧怡                                                     |
+| 2014 | [繽Fun娛樂大派對](http://programme.tvb.com/variety/starbizreview2014)        | [林盛斌](../Page/林盛斌.md "wikilink")、[張致恆](../Page/張致恆.md "wikilink")、[張振朗](../Page/張振朗.md "wikilink")、[彭永琛](../Page/彭永琛.md "wikilink")、[楊詩敏](https://zh.wikipedia.org/wiki/楊詩敏 "wikilink")、[鄭世豪](../Page/鄭世豪.md "wikilink") | 張嘉玲                                                        | 張慧怡                                                     |
+| 2015 | [2015繽Fun娛樂大派對](http://programme.tvb.com/variety/starbizreview2015)    | 吳幸美                                                                                                                                                                                                                      | 張嘉玲                                                        | 張慧怡                                                     |
+| 2016 | [2016繽Fun娛樂大派對](http://programme.tvb.com/variety/starbizreview2016)    | [衛志豪](../Page/衛志豪.md "wikilink")、[周奕瑋](../Page/周奕瑋.md "wikilink")、[謝文欣](../Page/謝文欣.md "wikilink")、[譚永浩](../Page/譚永浩.md "wikilink")、[梁麗翹](../Page/梁麗翹.md "wikilink")、[陳浚霆](../Page/陳浚霆.md "wikilink")                    | 張嘉玲                                                        | 張慧怡                                                     |
+| 2016 | [娛樂3兄弟大民調2016](https://programme.mytvsuper.com/tc/109983/娛樂3兄弟大民調2016) | [陸浩明](../Page/陸浩明.md "wikilink")、[區永權](../Page/區永權.md "wikilink")、衛志豪                                                                                                                                                    | [張志明](https://zh.wikipedia.org/wiki/張志明_\(監製\) "wikilink") | [顏家明](https://zh.wikipedia.org/wiki/顏家明 "wikilink")     |
+| 2017 | [娛樂3兄弟繽Fun大派對2017](http://programme.tvb.com/variety/starbizreview2017) | 陸浩明、區永權、衛志豪                                                                                                                                                                                                              | 張志明                                                        | [顏家明](https://zh.wikipedia.org/wiki/顏家明 "wikilink")     |
+| 2018 | [2018娛樂繽Fun大派對](http://programme.tvb.com/variety/starbizreview2018)    | 區永權、[許文軒](../Page/許文軒.md "wikilink")、[陳貝兒](../Page/陳貝兒.md "wikilink")、[陳約臨](../Page/陳約臨.md "wikilink")、[鄺潔楹](../Page/鄺潔楹.md "wikilink")、[蘇可欣](../Page/蘇可欣.md "wikilink")                                                 | 張志明                                                        | 顏家明                                                     |
+|      |                                                                        |                                                                                                                                                                                                                          |                                                            |                                                         |
+
 ## 參考資料
 
 <references/>
@@ -286,6 +272,7 @@ channel宣傳活動，名為《[一起Download的日子](https://zh.wikipedia.or
 [Category:香港電視播放頻道](https://zh.wikipedia.org/wiki/Category:香港電視播放頻道 "wikilink")
 [Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink")
 [Category:粤语电视频道](https://zh.wikipedia.org/wiki/Category:粤语电视频道 "wikilink")
+[Category:無綫電視特備節目](https://zh.wikipedia.org/wiki/Category:無綫電視特備節目 "wikilink")
 
 1.  [不讓有線獨食，無綫娛樂台出擊搶灘](http://www.takungpao.com/news/06/02/24/UL-529226.htm)
     ，《大公報》，2006年2月24日

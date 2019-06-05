@@ -1,13 +1,13 @@
 **AMD Ryzen**（
 ）是美商[超微開發並推出市場的x](https://zh.wikipedia.org/wiki/超微 "wikilink")86微處理器品牌，AMD
-[Zen微架構的微處理器產品之一](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")，其純CPU產品線於2017年3月上市販售，以Ryzen爲品牌命名的[APU產品線於](https://zh.wikipedia.org/wiki/AMD_APU "wikilink")2017年10月上架。「Ryzen」品牌於2016年12月13日AMD的New
+[Zen微架構的微處理器產品之一](https://zh.wikipedia.org/wiki/Zen微架構 "wikilink")，其純CPU產品線於2017年3月上市販售，以Ryzen為品牌命名的[APU產品線於](https://zh.wikipedia.org/wiki/AMD_APU "wikilink")2017年10月上架。「Ryzen」品牌於2016年12月13日AMD的New
 Horizon峰會上發表。\[1\]中文名為「**锐龙**」（2017年3月到8月之间的中文名称为「锐龙AMD
 Ryzen」，2017年8月之后的中文名称为「AMD锐龙」）。
 
 2017年2月22日發表代號「Summit Ridge」的第一代Ryzen系列，取代[AMD
 FX系列](../Page/AMD_FX.md "wikilink")；\[2\]2017年10月發表代號「Raven
 Ridge」的Ryzen APU產品線；2018年4月發表了代號「Pinnacle
-Ridge」的第二代Ryzen系列，是爲第一代Ryzen系列的小幅改良版；\[3\]於2019年消費電子展中宣佈將於同年年中發表代號「Matisse」，\[4\]采用7納米製程及支援PCIe
+Ridge」的第二代Ryzen系列，是第一代Ryzen系列的小幅改良版；\[3\]於2019年消費電子展中宣佈將於同年年中發表代號「Matisse」，\[4\]采用7納米製程及支援PCIe
 4.0之第三代Ryzen處理器。\[5\]
 
 ## 概覽
@@ -1977,6 +1977,241 @@ YD2600BBAFBOX</p></td>
 可支援至3400+）</p></td>
 <td><p>65</p></td>
 <td><p>YD230XBBM4KAF</p></td>
+</tr>
+</tbody>
+</table>
+
+### 基於 Zen 2 微架構
+
+#### 桌上型處理器
+
+##### Ryzen 9 系列
+
+本系列採用Socket AM4插座，最多提供40個PCIe通道。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>型號</p></th>
+<th><p>步進</p></th>
+<th><p><a href="../Page/多核心處理器.md" title="wikilink">核心數</a><br />
+/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒數</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a> (<a href="https://zh.wikipedia.org/wiki/GHz" title="wikilink">GHz</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p>記憶體支援</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/熱設計功耗" title="wikilink">TDP</a><br />
+(<a href="https://zh.wikipedia.org/wiki/瓦" title="wikilink">W</a>)</p></th>
+<th><p>制程工艺（nm）</p></th>
+<th><p>部件號</p></th>
+<th><p>發售日期</p></th>
+<th><p>發售價格 (美元)</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>基準</p></td>
+<td><p>加速</p></td>
+<td><p>L2 (KiB)</p></td>
+<td><p>L3 (MiB)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>普通版</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>3900X</strong></p></td>
+<td></td>
+<td><p>12/24</p></td>
+<td><p>3.8</p></td>
+<td><p>4.6</p></td>
+<td><p>12 × 512</p></td>
+<td><p>64</p></td>
+<td><p>DDR4-3200<br />
+（XMP/AMP<br />
+可支援至5000+）</p></td>
+<td><p>105</p></td>
+<td><p>7</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+##### Ryzen 7 系列
+
+本系列採用Socket AM4插座，最多提供40個PCIe通道。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>型號</p></th>
+<th><p>步進</p></th>
+<th><p><a href="../Page/多核心處理器.md" title="wikilink">核心數</a><br />
+/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒數</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a> (<a href="https://zh.wikipedia.org/wiki/GHz" title="wikilink">GHz</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p>記憶體支援</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/熱設計功耗" title="wikilink">TDP</a><br />
+(<a href="https://zh.wikipedia.org/wiki/瓦" title="wikilink">W</a>)</p></th>
+<th><p>制程工艺（nm）</p></th>
+<th><p>部件號</p></th>
+<th><p>發售日期</p></th>
+<th><p>發售價格 (美元)</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>基準</p></td>
+<td><p>加速</p></td>
+<td><p>L2 (KiB)</p></td>
+<td><p>L3 (MiB)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>普通版</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>3800X</strong></p></td>
+<td></td>
+<td><p>8/16</p></td>
+<td><p>3.9</p></td>
+<td><p>4.5</p></td>
+<td><p>8 × 512</p></td>
+<td><p>32</p></td>
+<td><p>DDR4-3200<br />
+（XMP/AMP<br />
+可支援至5000+）</p></td>
+<td><p>105</p></td>
+<td><p>7</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>3700X</strong></p></td>
+<td></td>
+<td><p>8/16</p></td>
+<td><p>3.6</p></td>
+<td><p>4.4</p></td>
+<td><p>8 × 512</p></td>
+<td><p>32</p></td>
+<td><p>DDR4-3200<br />
+（XMP/AMP<br />
+可支援至5000+）</p></td>
+<td><p>65</p></td>
+<td><p>7</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+##### Ryzen 5 系列
+
+本系列採用Socket AM4插座，最多提供40個PCIe通道。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>型號</p></th>
+<th><p>步進</p></th>
+<th><p><a href="../Page/多核心處理器.md" title="wikilink">核心數</a><br />
+/<a href="https://zh.wikipedia.org/wiki/執行緒" title="wikilink">執行緒數</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/時脈" title="wikilink">時脈</a> (<a href="https://zh.wikipedia.org/wiki/GHz" title="wikilink">GHz</a>)</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/快取" title="wikilink">快取</a></p></th>
+<th><p>記憶體支援</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/熱設計功耗" title="wikilink">TDP</a><br />
+(<a href="https://zh.wikipedia.org/wiki/瓦" title="wikilink">W</a>)</p></th>
+<th><p>制程工艺（nm）</p></th>
+<th><p>部件號</p></th>
+<th><p>發售日期</p></th>
+<th><p>發售價格 (美元)</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>基準</p></td>
+<td><p>加速</p></td>
+<td><p>L2 (KiB)</p></td>
+<td><p>L3 (MiB)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>普通版</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>3600X</strong></p></td>
+<td></td>
+<td><p>6/12</p></td>
+<td><p>3.8</p></td>
+<td><p>4.4</p></td>
+<td><p>6 × 512</p></td>
+<td><p>32</p></td>
+<td><p>DDR4-3200<br />
+（XMP/AMP<br />
+可支援至5000+）</p></td>
+<td><p>95</p></td>
+<td><p>7</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>3600</strong></p></td>
+<td></td>
+<td><p>6/12</p></td>
+<td><p>3.6</p></td>
+<td><p>4.2</p></td>
+<td><p>6 × 512</p></td>
+<td><p>32</p></td>
+<td><p>DDR4-3200<br />
+（XMP/AMP<br />
+可支援至5000+）</p></td>
+<td><p>65</p></td>
+<td><p>7</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

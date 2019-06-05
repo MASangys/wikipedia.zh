@@ -14,19 +14,17 @@
   - [J. Richard Bond, Microsoft Academic
     Search](https://archive.is/20140111123105/http://65.54.113.26/Author/4438177)
 
-[Category:1950年出生](https://zh.wikipedia.org/wiki/Category:1950年出生 "wikilink")
 [Category:20世紀天文學家](https://zh.wikipedia.org/wiki/Category:20世紀天文學家 "wikilink")
 [Category:21世紀天文學家](https://zh.wikipedia.org/wiki/Category:21世紀天文學家 "wikilink")
+[Category:加拿大天体物理学家](https://zh.wikipedia.org/wiki/Category:加拿大天体物理学家 "wikilink")
 [Category:加州理工學院校友](https://zh.wikipedia.org/wiki/Category:加州理工學院校友 "wikilink")
 [Category:英國皇家學會院士](https://zh.wikipedia.org/wiki/Category:英國皇家學會院士 "wikilink")
 [Category:加拿大皇家學會院士](https://zh.wikipedia.org/wiki/Category:加拿大皇家學會院士 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 [Category:多伦多人](https://zh.wikipedia.org/wiki/Category:多伦多人 "wikilink")
 [Category:多倫多大學校友](https://zh.wikipedia.org/wiki/Category:多倫多大學校友 "wikilink")
 [Category:多倫多大學教師](https://zh.wikipedia.org/wiki/Category:多倫多大學教師 "wikilink")
 [Category:丹尼·海涅曼天体物理学奖获得者](https://zh.wikipedia.org/wiki/Category:丹尼·海涅曼天体物理学奖获得者 "wikilink")
 [Category:格鲁伯宇宙学奖获得者](https://zh.wikipedia.org/wiki/Category:格鲁伯宇宙学奖获得者 "wikilink")
-[Category:加拿大天体物理学家](https://zh.wikipedia.org/wiki/Category:加拿大天体物理学家 "wikilink")
 
 1.  [John Richard Bond, Astronomers,
     Astrolab](http://astro-canada.ca/_en/a2218.php)

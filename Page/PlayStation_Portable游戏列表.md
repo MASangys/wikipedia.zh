@@ -5855,6 +5855,50 @@ Portable的](../Page/PlayStation_Portable.md "wikilink")[电子游戏](../Page/�
 <td><p>No</p></td>
 </tr>
 <tr class="odd">
+<td><p>信長之野望 蒼天錄 威力加強版</p></td>
+<td><p>NOBUNAGA’S AMBITION: Soutenroku with Power Up Kit</p></td>
+<td><p>8,4,2001</p></td>
+<td><p>KOEI</p></td>
+<td><p>KOEI</p></td>
+<td><p>JP</p></td>
+<td></td>
+<td><p>NO</p></td>
+<td><p>NO</p></td>
+</tr>
+<tr class="even">
+<td><p>信長之野望·烈風傳 威力加強版</p></td>
+<td><p>NOBUNAGA’S AMBITION: Reppuden with Power Up Kit</p></td>
+<td><p>3,23,2006</p></td>
+<td><p>KOEI</p></td>
+<td><p>KOEI</p></td>
+<td><p>JP</p></td>
+<td></td>
+<td><p>NO</p></td>
+<td><p>NO</p></td>
+</tr>
+<tr class="odd">
+<td><p>信長之野望·將星錄</p></td>
+<td><p>NOBUNAGA'S AMBITION: Shouseiroku</p></td>
+<td><p>12,22,2005</p></td>
+<td><p>KOEI</p></td>
+<td><p>KOEI</p></td>
+<td><p>JP</p></td>
+<td></td>
+<td><p>NO</p></td>
+<td><p>NO</p></td>
+</tr>
+<tr class="even">
+<td><p>信長之野望·天翔記</p></td>
+<td><p>NOBUNAGA'S AMBITION: Tenshouki</p></td>
+<td><p>9,1,2005</p></td>
+<td><p>KOEI</p></td>
+<td><p>KOEI</p></td>
+<td><p>JP</p></td>
+<td></td>
+<td><p>NO</p></td>
+<td><p>NO</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/NBA_(PSP)" title="wikilink">NBA</a></em></p></td>
 <td><p><span style="display:None">2005-03-16</span> {{#time:F j, Y|2005-03-16}}</p></td>

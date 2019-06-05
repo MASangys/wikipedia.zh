@@ -422,9 +422,65 @@ Chapmen二人組成。他們最出名的是為其他歌手製作熱門歌曲，�
 <tr class="odd">
 <td><p>"We Young"</p></td>
 <td><p><a href="../Page/NCT.md" title="wikilink">NCT Dream</a></p></td>
-<td><p><em>We Young</em>|<em><a href="https://zh.wikipedia.org/wiki/We_Young" title="wikilink">We Young</a></em></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/We_Young" title="wikilink">We Young</a></em></p></td>
 <td></td>
 <td><p>Kenzie, Ylva Dimberg</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>"TOUCH"</p></td>
+<td><p>2018</p></td>
+<td><p><a href="../Page/NCT.md" title="wikilink">NCT 127</a></p></td>
+<td><p><em><a href="../Page/NCT_2018_Empathy.md" title="wikilink">NCT 2018 Empathy</a></em></p></td>
+<td></td>
+<td><p>Deez, Adrian Mckinnon</p></td>
+</tr>
+<tr class="odd">
+<td><p>"퍼즐 (Puzzle)"</p></td>
+<td><p><a href="../Page/東方神起.md" title="wikilink">東方神起</a></p></td>
+<td><p><em>New Chapter No. 1: The Chance of Love</em></p></td>
+<td></td>
+<td><p>Adrian McKinnon, Tay Jasper</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>"Replay (PM 01:27)"</p></td>
+<td><p><a href="../Page/NCT.md" title="wikilink">NCT 127</a></p></td>
+<td><p><em>Regular-Irregular</em></p></td>
+<td></td>
+<td><p>Varren Wade</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>"Gravity"</p></td>
+<td><p><a href="../Page/EXO.md" title="wikilink">EXO</a></p></td>
+<td><p><em><a href="https://zh.wikipedia.org/wiki/DON&#39;T_MESS_UP_MY_TEMPO" title="wikilink">DON'T MESS UP MY TEMPO</a></em></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>"Damage"</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>"Forever Yours"</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">KEY</a></p></td>
+<td><p><em>Face</em></p></td>
+<td></td>
+<td><p>Daecolm, Diego Holland</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>"So Good"</p></td>
+<td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a></p></td>
+<td><p><em><a href="../Page/RBB_(Red_Velvet迷你專輯).md" title="wikilink">RBB</a></em></p></td>
+<td></td>
+<td><p>DEEZ, Ellen Berg</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -523,6 +579,14 @@ Chapmen二人組成。他們最出名的是為其他歌手製作熱門歌曲，�
 <td><p><em>Everyday #5</em></p></td>
 <td></td>
 <td><p>Alice Sophie Penrose,Carolyn Jordan,Ryan S. Jhun,Jo Miswell</p></td>
+</tr>
+<tr class="odd">
+<td><p>"전화해" (All Night)</p></td>
+<td><p>2019</p></td>
+<td><p><a href="../Page/Astro_(韓國音樂團體).md" title="wikilink">Astro</a></p></td>
+<td><p><em>All Light</em></p></td>
+<td></td>
+<td><p>Kyler Niko</p></td>
 </tr>
 </tbody>
 </table>

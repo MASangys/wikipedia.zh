@@ -514,12 +514,24 @@ IN2IT意思為「intuit」和「into it」，即是直覺、本能地知道並�
 
 ## 外部链接
 
+  - IN2IT
+
+<!-- end list -->
+
   - [官方Instagram](https://www.instagram.com/official_in2it/?hl=zh-tw//)
-    / [官方臉書](https://www.facebook.com/official.IN2IT/) /
-    [官方推特](https://twitter.com/Official_IN2IT) /
-    [推特](https://twitter.com/boys24_for_hour) / [官方Cafe
-    Daum](http://cafe.daum.net/BOYS24) /
-    [官方YouTube頻道](https://www.youtube.com/channel/UC4_FlqZHf6zWPyaQpmPXChQ)
+  - [官方Facebook](https://www.facebook.com/official.IN2IT/)
+  - [官方Twitter](https://twitter.com/Official_IN2IT)
+  - [官方Youtube
+    Channel](https://www.youtube.com/channel/UC4_FlqZHf6zWPyaQpmPXChQ)
+
+<!-- end list -->
+
+  - BOYS24
+
+<!-- end list -->
+
+  - [官方Twitter](https://twitter.com/boys24_for_hour)
+  - [官方粉絲Cafe](http://cafe.daum.net/BOYS24)
 
 [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")

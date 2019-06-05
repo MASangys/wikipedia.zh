@@ -1,5 +1,5 @@
 **宇宙
-Meki**（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")、[乐华娱乐和](../Page/乐华娱乐.md "wikilink")[Fantagio聯手推出的](../Page/Fantagio.md "wikilink")4人企劃組合，為代言企劃的第二個組合，代言韓國[百事可樂及](../Page/百事可樂.md "wikilink")等產品。成員由[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")、[乐华娱乐旗下團體](../Page/乐华娱乐.md "wikilink")[宇宙少女的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")[雪娥](../Page/雪娥.md "wikilink")、[露多和](https://zh.wikipedia.org/wiki/露多 "wikilink")[Fantagio旗下團體](../Page/Fantagio.md "wikilink")[Weki
+Meki**（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")、[乐华娱乐和](../Page/乐华娱乐.md "wikilink")[Fantagio聯手推出的](../Page/Fantagio.md "wikilink")4人企劃組合，為代言企劃的第二個組合，代言韓國[百事可樂及](../Page/百事可樂.md "wikilink")等產品。成員由[STARSHIP娛樂](../Page/STARSHIP娛樂.md "wikilink")、[乐华娱乐旗下團體](../Page/乐华娱乐.md "wikilink")[宇宙少女的](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")[雪娥](../Page/雪娥.md "wikilink")、[Luda和](../Page/Luda.md "wikilink")[Fantagio旗下團體](../Page/Fantagio.md "wikilink")[Weki
 Meki的](../Page/Weki_Meki.md "wikilink")[有情](../Page/磪有情.md "wikilink")、[度延所組成](../Page/金度延.md "wikilink")，於2018年6月1日出道。
 
 ## 歷程

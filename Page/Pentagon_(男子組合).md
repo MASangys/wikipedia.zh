@@ -125,19 +125,19 @@ Pentagon，Hey，你是我的世界」。\[10\]2017年1月31日，歌迷名稱�
 
 ### [韓國音樂著作權協會](../Page/韓國音樂著作權協會.md "wikilink")
 
-| 成員                                                      | 登記名字                  | 編號                                                                                      | 歌曲列表   |
-| ------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------- | ------ |
-| [珍虎](../Page/趙珍虎.md "wikilink")                         | 진호/조진호                | [10012815](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012815)  | \[21\] |
-| [Hui](../Page/李會澤.md "wikilink")                        | 후이                    | [10012816](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012816)  | \[22\] |
-| [洪碩](https://zh.wikipedia.org/wiki/梁洪碩 "wikilink")      | 홍석                    | [10012819](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012819)  | \[23\] |
-| [信源](https://zh.wikipedia.org/wiki/高信源 "wikilink")      | 신원/고신원                | [10019475](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10019475)  | \[24\] |
-| [Yeo One](https://zh.wikipedia.org/wiki/呂暢九 "wikilink") | 여원/여창구                | [10012817](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012817)  | \[25\] |
-| [閆桉](https://zh.wikipedia.org/wiki/閆桉 "wikilink")       | YAN AN/옌안             | [Z9999900](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=YAN%20AN#) | \[26\] |
-| [Kino](https://zh.wikipedia.org/wiki/姜炯求 "wikilink")    | 키노                    | [10012820](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012820)  | \[27\] |
-| [Yuto](https://zh.wikipedia.org/wiki/安達祐人 "wikilink")   | 유토/ADACHI YUTO        | [10012821](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012821)  | \[28\] |
-| [禹奭](https://zh.wikipedia.org/wiki/鄭禹奭 "wikilink")      | 우석/정우석                | [10012818](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012818)  | \[29\] |
-| 已退團成員                                                   |                       |                                                                                         |        |
-| [E.Dawn](../Page/金曉鐘.md "wikilink")                     | 이던(E.Dawn)/ 스캇(SCOTT) | 10012814                                                                                | \[30\] |
+| 成員                                                      | 登記名字                  | 編號                                                                                      | 歌曲列表       |
+| ------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------- | ---------- |
+| [珍虎](../Page/趙珍虎.md "wikilink")                         | 진호/조진호                | [10012815](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012815)  | \[21\]     |
+| [Hui](../Page/李會澤.md "wikilink")                        | 후이                    | [10012816](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012816)  | \[22\]     |
+| [洪碩](https://zh.wikipedia.org/wiki/梁洪碩 "wikilink")      | 홍석                    | [10012819](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012819)  | \[23\]     |
+| [信源](https://zh.wikipedia.org/wiki/高信源 "wikilink")      | 신원/고신원                | [10019475](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10019475)  | \[24\]     |
+| [Yeo One](https://zh.wikipedia.org/wiki/呂暢九 "wikilink") | 여원/여창구                | [10012817](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012817)  | \[25\]     |
+| [閆桉](https://zh.wikipedia.org/wiki/閆桉 "wikilink")       | YAN AN/옌안             | [Z9999900](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=YAN%20AN#) | 非管理 \[26\] |
+| [Kino](https://zh.wikipedia.org/wiki/姜炯求 "wikilink")    | 키노                    | [10012820](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012820)  | \[27\]     |
+| [Yuto](https://zh.wikipedia.org/wiki/安達祐人 "wikilink")   | 유토/ADACHI YUTO        | [10012821](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012821)  | \[28\]     |
+| [禹奭](https://zh.wikipedia.org/wiki/鄭禹奭 "wikilink")      | 우석/정우석                | [10012818](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=10012818)  | \[29\]     |
+| 已退團成員                                                   |                       |                                                                                         |            |
+| [E.Dawn](../Page/金曉鐘.md "wikilink")                     | 이던(E.Dawn)/ 스캇(SCOTT) | 10012814                                                                                | \[30\]     |
 
 ### 成員變遷
 
@@ -424,13 +424,14 @@ TOUR」。
 
 ### 大型頒獎禮獎項
 
-| 年份     | 日期                               | 頒獎禮                                    | 獎項                | 備註      |
-| ------ | -------------------------------- | -------------------------------------- | ----------------- | ------- |
-| 2017   | 6月24日                            | Asia Model Festival Awards             | New Star Award    | \[143\] |
-| 9月20日  | 第1屆 Soribada Best K-Music Awards | 新人獎                                    | \[144\]           |         |
-| 9月24日  | 10th KMF 2017                    | Rising star Award                      | \[145\]           |         |
-| 2018   | 11月28日                           | 2018 Korea Culture Entertainment Award | KPop Singer Award | \[146\] |
-| 12月20日 | 2018 KOREA POPULAR MUSIC AWARDS  | 大眾歌唱實演獎                                |                   |         |
+| 年份     | 日期                               | 頒獎禮                                    | 獎項                          | 備註      |
+| ------ | -------------------------------- | -------------------------------------- | --------------------------- | ------- |
+| 2017   | 6月24日                            | Asia Model Festival Awards             | New Star Award              | \[143\] |
+| 9月20日  | 第1屆 Soribada Best K-Music Awards | 新人獎                                    | \[144\]                     |         |
+| 9月24日  | 10th KMF 2017                    | Rising star Award                      | \[145\]                     |         |
+| 2018   | 11月28日                           | 2018 Korea Culture Entertainment Award | KPop Singer Award           | \[146\] |
+| 12月20日 | 2018 KOREA POPULAR MUSIC AWARDS  | 大眾歌唱實演獎                                |                             |         |
+| 2019   | 6月9日                             | Asia Model Awards                      | Popular Star Award (Singer) |         |
 
 ### 韓國主要音樂節目排行榜
 

@@ -7,11 +7,11 @@
 
 某些名稱可能會被誤認為是區段名稱，例如收錄在U+2654到U+265F的，即是收錄在的一部份而已。「西洋棋符號」僅作為這個子群的信息編輯的補充。
 
-截至 Unicode 10.0 已經定義了 280 個區段，其中：\[2\]
+截至 Unicode 12.1 已經定義了300個區段，其中：\[2\]
 
-  - 有162個區段在**0號平面**，或稱**基本多文種平面**（the **B**asic **M**ultilingual
+  - 有163個區段在**0號平面**，或稱**基本多文種平面**（the **B**asic **M**ultilingual
     **P**lane, **BMP**）
-  - 有108個區段在**1號平面**，或稱**第一輔助平面**或**多文種補充平面**（the **S**upplementary
+  - 有127個區段在**1號平面**，或稱**第一輔助平面**或**多文種補充平面**（the **S**upplementary
     **M**ultilingual **P**lane, **SMP**）
   - 有6個區段在**2號平面**，或稱**第二輔助平面**或**表意文字補充平面**（the **S**upplementary
     **I**deographic **P**lane, **SIP**）
@@ -26,5 +26,5 @@
 [Category:Unicode區段](https://zh.wikipedia.org/wiki/Category:Unicode區段 "wikilink")
 
 1.  [Unicode glossary](http://www.unicode.org/glossary/#B)
-2.  [Unicode 10.0.0
-    UCD](http://ftp.unicode.org/Public/10.0.0/ucd/Blocks.txt)
+2.  [Unicode 12.1.0
+    UCD](https://www.unicode.org/Public/12.1.0/ucd/Blocks.txt)

@@ -197,7 +197,7 @@ Doll](../Page/Million_Doll.md "wikilink")》、《[溫泉幼精小箱根](https:
 <tr class="odd">
 <td><p>2019年</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/南無阿彌陀佛！_-蓮台_UTENA" title="wikilink">南無阿彌陀佛！ -蓮台 UTENA</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/南無阿彌陀佛!-蓮台_UTENA-" title="wikilink">南無阿彌陀佛！ -蓮台 UTENA-</a></p></td>
 <td></td>
 <td><p>原創</p></td>
 <td></td>

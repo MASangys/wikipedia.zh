@@ -73,7 +73,7 @@ Remember〉（\[40\]）則是回想至今為止擁有的回憶，欲將美好情
 
 11月6日《Every DAY6 十一月》發行，收錄歌曲〈All Alone〉（）與〈Pouring〉（）。\[42\]
 
-### 2018年：日本出道、《Shoot Me : Youth Part 1》
+### 2018年：日本出道、《Shoot Me : Youth Part 1》、《Remember Us : Youth Part 2》
 
 完成2017年年度計畫，同時發行兩張專輯後，JYP娛樂於年初宣布DAY6即將進軍日本，单曲《If～倘若再次相逢～》（）於3月14日發行，儘管单曲尚未正式发行，同名主打曲已被選定作為電視劇《[Repeat～改變命運的10個月～](../Page/Repeat～改變命運的10個月～.md "wikilink")》主題曲\[43\]。6月13日，DAY6舉行首次日本演唱會「The
 Best Day」\[44\]。第二張日本單曲《Stop The
@@ -84,12 +84,9 @@ Rain》於7月13日發行，由日本知名吉他手生形真一擔任製作人�
 
 DAY6首場世界巡迴演唱會「Youth」由6月22日至24日首爾站次揭開序幕，巡演預計在亞洲、南美洲、歐洲等24個不同城市舉行\[52\]\[53\]。
 
-#### 第四張韓語迷你專輯
-
-11月22日.官方在Facebook 上公布了回歸概念照,宣布Day6將會在10日發行新專輯《Remember Us : Youth Part
-2》。11月25日,公開新專輯的曲目,並宣布主打曲為《행복했던
-날들이었다》。11月27日,開始陸續公開個成員個人照。12月10日韓國時間6時,公布新曲MV,並在當晚9時進行了回歸V
-Live 直播。
+11月22日，在官方Facebook上公布了回歸概念照，宣布Day6將會在10日發行新專輯《[Remember Us : Youth Part
+2](../Page/Remember_Us_:_Youth_Part_2.md "wikilink")》。11月25日，公開新專輯的曲目，主打曲為《행복했던
+날들이었다》。11月27日，開始陸續公開個成員個人照。12月10日韓國時間6時，公布新曲MV，並在當晚9時進行了回歸V Live 直播。
 
 ## 成員資料
 
@@ -731,7 +728,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p>9月28日</p></td>
+<td><p>9月8日</p></td>
 <td><p>DAY6 First Fan Meeting「You Made My Day」</p></td>
 <td><p>首爾</p></td>
 <td><p>高麗大學華亭體育館</p></td>
@@ -1143,7 +1140,7 @@ K：10010197\[58\]、元弼：10010555\[59\]及度雲：10010557。\[60\]
 </tr>
 <tr class="odd">
 <td><p>행복했던 날들이었다</p></td>
-<td><p>Remember Us : Youth Part 2</p></td>
+<td><p><a href="../Page/Remember_Us_:_Youth_Part_2.md" title="wikilink">Remember Us : Youth Part 2</a></p></td>
 <td><p>/</p></td>
 </tr>
 <tr class="even">

@@ -403,7 +403,13 @@ Level X</strong><br />
 <strong>劍擊玩家<br />
 Level X</strong></p></td>
 <td><p>原文：<br />
-使用「Buggle Driver II」時搭配「Giri Giri Chambara」卡帶變身的形態</p></td>
+使用「Buggle Driver II」時搭配「Giri Giri Chambara」卡帶變身的形態<br />
+身高：205.0cm<br />
+體重：151.5kg<br />
+拳擊力：92.2t<br />
+踢擊力：95.1t<br />
+跳躍力：94.7m<br />
+行動速度：100m / 0.7秒</p></td>
 <td><p>全身以青藍色為主，本身擁有部分青紫色的紋樣，外型上與劍擊機車玩家 Level 3相似[16]</p></td>
 <td><p>本身素質相比於劍擊機車玩家 Level 3來說更加提升，此外由於檀正宗有在Gashacon Bugviser II注入力量，使出必殺技的時候將對方的能力重置的力量。</p></td>
 <td><p><strong>Critical Crews-Aid</strong><br />

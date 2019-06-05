@@ -1,23 +1,23 @@
-**三星Galaxy Note 9**是由三星電子設計、開發和銷售的Android智能手機，是三星Galaxy
-Note系列的旗艦手機。於2018年8月9日亮相，作為[三星Galaxy Note
-8的繼承者](../Page/三星Galaxy_Note_8.md "wikilink")\[1\]。
+**三星Galaxy Note9** 是由三星電子設計、開發和銷售的Android智能手機，是三星Galaxy
+Note系列的旗艦手機。於2018年8月9日亮相，作為 [三星Galaxy
+Note8](../Page/三星Galaxy_Note_8.md "wikilink") 的繼承者\[1\]。
 
 ## 歷史
 
-許多Galaxy Note 9功能在正式發布之前就被洩露了，包括它的S-Pen。\[2\]\[3\]
+在正式發布之前，Samsung Galaxy Note9 很多功能就被洩露了。包括此款手機內置的 S-Pen 特色。\[2\]\[3\]
 
 ## 規格
 
 ### 硬件
 
-Samsung note
-9採用6.4英寸[1440p](https://zh.wikipedia.org/wiki/1440p "wikilink")
+Samsung Galaxy Note9
+採用6.4英寸[1440p](https://zh.wikipedia.org/wiki/1440p "wikilink")
 [Super
-AMOLED顯示屏](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")，寬高比為18.5：9。前面的設計與Note
-8類似，使用三星Infinity Display。
+AMOLED顯示屏](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink")，寬高比為18.5：9。前面的設計與Note8
+類似，使用三星Infinity Display。
 
-Samsung note
-9在美國、加拿大、日本、南美洲、中國大陆、香港和澳門用[高通骁龙](https://zh.wikipedia.org/wiki/高通骁龙 "wikilink")845，在歐洲、南韓、臺灣用[三星Exynos](../Page/三星Exynos.md "wikilink")
+Samsung Galaxy Note9
+在美國、加拿大、日本、中南美洲、中國大陆、香港和澳門用[高通骁龙](https://zh.wikipedia.org/wiki/高通骁龙 "wikilink")845，在歐洲、南韓、臺灣用[三星Exynos](../Page/三星Exynos.md "wikilink")
 9810。有128或512 GB的存儲選項。128 GB型號具有6 GB RAM，而512 GB具有8 GB
 RAM。所有型號都有一個microSD卡插槽，可能最大限度地將手機存儲空間擴大到接近1TB的存儲空間。
 
@@ -25,33 +25,33 @@ RAM。所有型號都有一個microSD卡插槽，可能最大限度地將手機�
 zh-cn:玄镜铜;}-,-{zh-hant:午夜黑;
 zh-cn:丹青黑;}-,雲朶銀(只限美國售賣),初雪白(只限臺灣,香港,於11月23日公開售賣)。
 
-Note 9具有IP68防水防塵功能和USB-C連接器，支持Samsung DeX，無需底座，手機還配有3.5 mm耳機插孔以及支持Dolby
+Note9 具有IP68防水防塵功能和USB-C連接器，支持Samsung DeX，無需底座，手機還配有3.5 mm耳機插孔以及支持Dolby
 Atmos的AKG調諧立體聲揚聲器。
 
-Note 9通過Qi標準具有快速無線充電功能。
+Note9 通過Qi標準具有快速無線充電功能。
 
-Note 9的電池已經從以前的三星Galaxy手機大幅升級; 它有4000毫安時的電池。
+Note9 的電池已經從以前的三星Galaxy手機大幅升級; 它有4000毫安時的電池。
 
-相機系統是雙攝像頭設置，其中一個鏡頭具有與S9 +相機系統類似的雙光圈（f / 1.5和f /
-2.4）系統，但設置是水平翻轉而不是垂直翻轉，類似於Note
-8的設置。
+相機系統是雙攝像頭設置，其中一個鏡頭具有與 S9+ 相機系統類似的雙光圈（f / 1.5和f /
+2.4）系統，但設置是水平翻轉而不是垂直翻轉，類似於
+Note8 的設置。
 
-指紋傳感器已經移動到攝像機設置下方，就像S9和S9 +一樣，而不是像Note 8那樣在它旁邊。
+指紋傳感器已經移動到攝像機設置下方，就像 S9 和 S9+ 一樣，而不是像 Note8 那樣在它旁邊。
 \[4\]\[5\]\[6\]\[7\]\[8\]\[9\]\[10\]\[11\]\[12\]\[13\]
 
-Note 9將從銅管散熱改為碳纖維熱管，散熱效果更好。
+Note9 將從銅管散熱改為碳纖維熱管，散熱效果更好。
 
 #### S-Pen
 
 S
 Pen現在具有藍牙功能，包括點擊其上的按鈕（長按，單按或連按）來執行某些操作，例如在演示文稿中向前或向後移動或拍照，並通過應用程序為應用程序提供第三方SDK支持。
 
-S-Pen現在有一個電池（基本上是一個超級電容器），在手機內部充電，三星聲稱使用30分鐘（或按鈕最多200次點擊），只需40秒的充電時間。
+S-Pen現在有一個電池（基本上是一個超級電容器），當S-Pen收在手機內部時會自動被充電，三星聲稱使用30分鐘（或按鈕最多200次點擊），只需40秒的充電時間。
 \[14\]
 
 ### 軟件
 
-Note 9附帶Android Oreo 8.1，三星Samsung Experience 9.5。
+Note9 附帶Android Oreo 8.1，三星Samsung Experience 9.5。
 
 相機軟件已得到進一步改進，現在包括智能相機功能，以幫助識別場景。
 

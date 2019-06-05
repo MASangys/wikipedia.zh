@@ -65,7 +65,8 @@ Gunfire**，**大意是指槍林彈雨中繼續前行，鼓勵人們在逆境中
   - 1月：公佈新成員，凱撒路Joey(前[MAD](https://zh.wikipedia.org/wiki/MAD_Team "wikilink"))、打野Xiao(金門陽明)、中路Hong(阿鴻)、輔助Mid(前[HKA](https://zh.wikipedia.org/wiki/香港態度 "wikilink")、[MS輔助](https://zh.wikipedia.org/wiki/MS怪獸 "wikilink"))。
   - 01月26日：2019 GCS春季職業聯賽開打，本賽季參賽隊伍計有**SMG**、**ONE**、**MAD**(為2018AIC
     世界冠軍班底，原**JT**選手)、**HKA**、**FW**、**TXO**（為2017AIC
-    世界冠軍班底，原**SMG**選手)、**NVM**(原上季**MS**)共7隻戰隊,並在此賽季獲得0勝12敗的慘淡成績
+    世界冠軍班底，原**SMG**選手)、**NVM**(原上季**MS**)共7隻戰隊,並在此賽季以0勝12敗排名第7。
+  - 03月22日：Din Din因個人因素及未來考量，於個人FB發出聲明說已退出SMG戰隊當實況主
 
 ## 外部連結
 

@@ -46,5 +46,5 @@
 
 1.  [MUSIC K
     ENTERTAINMENT](http://www.jobkorea.co.kr/Recruit/Co_Read/C/musick12345?Oem_Code=C1)
-2.  [YUNA KIM、全珉柱退出 THE
-    ARK！](http://kpopn.niusnews.com/=K321tf84).Kpopn.2016-07-13.
+2.  [YUNA KIM、全珉柱退出 THE ARK！](http://kpopn.niusnews.com/=K321tf84)
+    .Kpopn.2016-07-13.

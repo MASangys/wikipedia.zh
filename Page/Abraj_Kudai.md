@@ -5,7 +5,7 @@ Kudai**是一棟位於[麥加](../Page/麥加.md "wikilink")、正在興建中�
 
 ## 外部連結
 
-[官方網站](http://dar.dargroup.com/work/project/abraj-kudai)
+[官方網站](https://web.archive.org/web/20171205100728/http://dar.dargroup.com/work/project/abraj-kudai)
 
 [Category:沙特阿拉伯摩天大樓](https://zh.wikipedia.org/wiki/Category:沙特阿拉伯摩天大樓 "wikilink")
 

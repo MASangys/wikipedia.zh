@@ -79,7 +79,7 @@ Pro\[22\]\[23\]。
 
   - [大疆创新](../Page/大疆创新.md "wikilink")
 
-## 参考与引用
+## 参考来源
 
 ## 外部链接
 
@@ -88,7 +88,7 @@ Pro\[22\]\[23\]。
   - [御 Mavic Pro 常见问题](https://www.dji.com/cn/mavic/info#faq)
 
 [Category:无人机](https://zh.wikipedia.org/wiki/Category:无人机 "wikilink")
-[Category:大疆创新](https://zh.wikipedia.org/wiki/Category:大疆创新 "wikilink")
+[Category:大疆产品](https://zh.wikipedia.org/wiki/Category:大疆产品 "wikilink")
 
 1.
 

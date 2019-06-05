@@ -1,5 +1,5 @@
 **Android
-Oreo**（[奧利奧](../Page/奧利奧.md "wikilink")，开发[代号](https://zh.wikipedia.org/wiki/代号 "wikilink")：**Android
+Oreo**（开发[代号](https://zh.wikipedia.org/wiki/代号 "wikilink")：**Android
 O**）是由[Google開發的](../Page/Google.md "wikilink")[Android作業系統的第](../Page/Android.md "wikilink")8個主要版本，继承[2016年發行的](../Page/2016年.md "wikilink")[Android
 Nougat](../Page/Android_Nougat.md "wikilink")。首個測試版本在2017年3月21日發行，相当于[alpha版本](../Page/軟件版本週期.md "wikilink")；第二个开发者预览版于2017年5月17日发行，相当于[beta版本](../Page/軟件版本週期.md "wikilink")；第三个开发者预览版于2017年6月8日发行，确定正式版本中的API\[1\]。2017年7月24日，第四个开发者预览版发行，带有最新的错误修复和系统优化，确定正式版本中的系统行为\[2\]。
 
@@ -60,10 +60,10 @@ Android Oreo（Go
 Edition）就是針對低階規格、連線受限的用戶而設，主要適用於[隨機存取記憶體容量為](https://zh.wikipedia.org/wiki/隨機存取記憶體 "wikilink")512MB至1GB的行動裝置，為了配合無法使用大量數據的用戶，系統有更清晰的數據用量提示和管理，亦會在預載的Google
 Apps，例如Chrome瀏覽器、YouTube等提供預設節約數據功能。
 
-## bug
+## 錯誤
 
 在Android
-8.1中，[VPN网络会被错误地识别为](https://zh.wikipedia.org/wiki/VPN "wikilink")[移动数据网络](../Page/蜂窝网络.md "wikilink")，这一[bug影响到了一些](https://zh.wikipedia.org/wiki/bug "wikilink")[翻墙上网的网民](https://zh.wikipedia.org/wiki/翻墙 "wikilink")。
+8.1中，[VPN网络会被错误地识别为](https://zh.wikipedia.org/wiki/VPN "wikilink")[移动数据网络](../Page/蜂窝网络.md "wikilink")，这一[錯誤影响到了一些](https://zh.wikipedia.org/wiki/錯誤 "wikilink")[翻墙上网的网民](https://zh.wikipedia.org/wiki/翻墙 "wikilink")。
 
 ## 參見
 
@@ -74,7 +74,6 @@ Apps，例如Chrome瀏覽器、YouTube等提供預設節約數據功能。
 ## 外部連結
 
   -
-
 [Category:Android](https://zh.wikipedia.org/wiki/Category:Android "wikilink")
 [Category:2017年軟件](https://zh.wikipedia.org/wiki/Category:2017年軟件 "wikilink")
 [Category:行動作業系統](https://zh.wikipedia.org/wiki/Category:行動作業系統 "wikilink")

@@ -1,6 +1,5 @@
 《**Melo
-Holic**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年11月6日起播出的[月火連續劇](https://zh.wikipedia.org/wiki/OCN月火連續劇 "wikilink")\[1\]，由《[內向的老闆](../Page/內向的老闆.md "wikilink")》[宋賢旭執導與](../Page/宋賢旭.md "wikilink")-{朴}-素英作家合作打造。此劇講述一位有讀取他人心智能力的男人與雙重人格女人的故事，LINE
-TV、myVideo、愛奇藝同步跟播，KKTV 每週二、三更新。\[2\]\[3\]
+Holic**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[OCN於](https://zh.wikipedia.org/wiki/OCN "wikilink")2017年11月6日起播出的[月火連續劇](../Page/OCN_Romance_Series.md "wikilink")，改編自同名人氣網路漫畫，由《[內向的老闆](../Page/內向的老闆.md "wikilink")》[宋賢旭導演執導](../Page/宋賢旭.md "wikilink")、朴素英作家執筆。此劇講述一位有讀取他人心智能力的男人與雙重人格女人的故事。\[1\]\[2\]\[3\]\[4\]
 
 ## 演員陣容
 
@@ -151,3 +150,4 @@ TV、myVideo、愛奇藝同步跟播，KKTV 每週二、三更新。\[2\]\[3\]
 1.
 2.
 3.
+4.

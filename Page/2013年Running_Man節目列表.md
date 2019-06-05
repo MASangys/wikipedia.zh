@@ -39,7 +39,7 @@
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>

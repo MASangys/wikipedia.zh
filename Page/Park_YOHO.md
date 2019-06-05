@@ -161,6 +161,8 @@ construction in March 2015.jpg|2015年3月 <File:Park> Vista
 ## 相關條目
 
   - [爾巒](../Page/爾巒.md "wikilink")
+  - [無綫電視節目](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")：[PARK
+    YOHO週末速遞](https://zh.wikipedia.org/wiki/PARK_YOHO週末速遞 "wikilink")
 
 ## 外部連結
 
@@ -182,8 +184,7 @@ construction in March 2015.jpg|2015年3月 <File:Park> Vista
     《香港經濟日報》 2016年4月28日](http://ps.hket.com/content/1416848)
 4.  [【一個盤幾個名】峻巒用威尼斯及西西里島命名
     《蘋果日報》 2016年5月10日](http://hk.apple.nextmedia.com/realtime/finance/20160510/55085478)
-5.  [Park Yoho
-    資料專頁 2016-5-10](http://www.besthome.com.hk/new-property/Park%20Yoho)
+5.
 6.
 7.
 8.  [【電纜圍城】峻巒有130萬呎保育區 新地︰買家要負責！

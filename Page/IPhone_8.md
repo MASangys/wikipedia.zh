@@ -9,12 +9,12 @@ Jobs Theater）由[提姆·庫克發佈](../Page/提姆·庫克.md "wikilink")�
 ## 规格
 
 iPhone
-8跳過了7s的命名方式，具有[Qi標準](../Page/Qi_\(無線充電標準\).md "wikilink")[無線充電與IP](../Page/無線充電.md "wikilink")67防水功能\[2\]，體積和重量略有增加，將會搭載64GB與256GB兩種版本。電池雖然縮小，但透過節能設計，續航力可與7系列約略相同，另外，經非官方測試，證實可以在沉過液態氮還能正常使用。\[3\]
+8跳過7s的命名模式，具有[Qi標準](../Page/Qi_\(無線充電標準\).md "wikilink")[無線充電與IP](../Page/無線充電.md "wikilink")67防水功能\[2\]，體積和重量略有增加，將會搭載64GB與256GB兩種版本。電池雖然縮小，但透過節能設計，續航力可與7系列約略相同，另外，經非官方測試，證實可以在沉過液態氮還能正常使用。\[3\]
 
 ## 詳細規格
 
   - [中央处理器](../Page/中央处理器.md "wikilink")：64 位元架構「[A11
-    Bionic](https://zh.wikipedia.org/wiki/A11_Bionic "wikilink")」處理器：包含了每秒能夠演算出6000億筆指令、被蘋果公司命名為Neural
+    Bionic](https://zh.wikipedia.org/wiki/A11_Bionic "wikilink")」處理器：包含每秒能夠演算出6000億筆指令、被蘋果公司命名為Neural
     Engine的神經網路專用加速硬體，內嵌式 M11 動態協同處理器。A11 Bionic為6核處理器，10纳米級别，高效能核心的效能比起
     A10 提升 25%，至於節能核心的效能更比 A10 高出
     70%。由[台積電所代工生產](https://zh.wikipedia.org/wiki/台積電 "wikilink")。

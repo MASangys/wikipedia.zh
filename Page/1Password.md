@@ -34,6 +34,9 @@
 [Category:MacOS軟體](https://zh.wikipedia.org/wiki/Category:MacOS軟體 "wikilink")
 [Category:共享軟件](https://zh.wikipedia.org/wiki/Category:共享軟件 "wikilink")
 [Category:Windows软件](https://zh.wikipedia.org/wiki/Category:Windows软件 "wikilink")
+[Category:Microsoft_Edge扩展](https://zh.wikipedia.org/wiki/Category:Microsoft_Edge扩展 "wikilink")
+[Category:Google_Chrome扩展](https://zh.wikipedia.org/wiki/Category:Google_Chrome扩展 "wikilink")
+[Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")
 
 1.
 2.

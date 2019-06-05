@@ -41,6 +41,4 @@ NIPRNet创建于1980年代，由[美国国防部拥有的](../Page/美国国防�
 7.  [Mapping the Pentagon's Networks | Defense
     News](http://www.defensenews.com/article/20100118/DEFFEAT01/1180306/Mapping-Pentagon-s-Networks).
     defensenews.com (2014-02-24).
-8.  ["Pentagon seeks $3.2 billion for revised cyber budget" March, 2011
-    (Accessed on 19
-    April 2011)](http://www.nextgov.com/nextgov/ng_20110324_2474.php)
+8.

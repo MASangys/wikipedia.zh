@@ -129,7 +129,7 @@ Master)和隱藏的脫口秀怪物，即來賓(Talk Monster)展開兩人一組�
 
   - [官方網站](http://program.tving.com/olive/talkmon?rcnt=1)
 
-  - [TALKMON-DAUM](http://movie.daum.net/tv/main?tvProgramId=81698)
+  - [TALKMON-DAUM](https://web.archive.org/web/20180116135121/http://movie.daum.net/tv/main?tvProgramId=81698)
 
   - [TALKMON-NAVER](http://m.entertain.naver.com/tvBrand/6520060)
 

@@ -16,6 +16,8 @@ IT LIVE IT》岀道。
   -
   - 4月5日，公開《LOVE IT LIVE IT》MV，並且出道。
 
+  - 7月19日，所參與《[SUPER TV](../Page/SUPER_TV.md "wikilink")》的綜藝節目播出。
+
 ## 成員列表
 
 | 現任成員                                                |

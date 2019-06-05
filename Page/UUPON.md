@@ -5,7 +5,8 @@
 提供點數兌換悠遊卡儲值金、信用卡紅利點數、航空里程及折抵超商、百貨、網購消費服務。
 
 UUPON 另外還提供多家電商平台點數轉換、折抵電信費、APP 兌好康、填問卷賺點數、看影片賺點數、推薦好友賺點數、1
-點天天拉霸、免費扭蛋寶等服務。\[1\]
+點天天拉霸、免費[扭蛋寶](https://zh.wikipedia.org/wiki/扭蛋寶 "wikilink")
+<https://tw.gotchamall.com> 等服務。\[1\]
 [UUPON,_mascot,_UU_chan.jpg](https://zh.wikipedia.org/wiki/File:UUPON,_mascot,_UU_chan.jpg "fig:UUPON,_mascot,_UU_chan.jpg")
 
 ## 吉祥物
@@ -119,6 +120,15 @@ UUPON 合作特約商通路。
     1 千倍。UUPON 會員只要從四強隊伍，預測中冠軍隊，就有機會獲得 1 萬點 UUPON 紅利點數。只要憑 10 點，就可以在
     APP「兌好康」專區兌換一次預測機會，只要預測中冠軍隊伍，就可以參加抽獎，共有 5 位幸運會員，可得到 1 萬點 UUPON
     點數，相當於免費賺到 2500 元悠遊卡儲值金。\[20\]。
+
+#### 優惠
+
+  - 2019年4月15日，UUPON 與 來自日本的優惠平台 Gotchamall 扭蛋寶合作，在UUPON APP
+    共同推出幸運扭蛋，提供給予UUPON
+    會員透過扣除一點UUPON點數即可得到高CP值的台灣在地優惠，包含了美食/[肯德基](../Page/肯德基.md "wikilink")、[必勝客](https://zh.wikipedia.org/wiki/必勝客 "wikilink")，美妝[日藥本舖](https://zh.wikipedia.org/wiki/日藥本舖 "wikilink")，便利商店[全家便利商店](../Page/全家便利商店.md "wikilink")、[萊爾富](../Page/萊爾富.md "wikilink")，賣場[美廉社](../Page/美廉社.md "wikilink")....等台灣生活中各式各樣的折扣優惠。
+
+免費[扭蛋寶](https://zh.wikipedia.org/wiki/扭蛋寶 "wikilink")
+<https://tw.gotchamall.com>
 
 ## 活動記錄
 

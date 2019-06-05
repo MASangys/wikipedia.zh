@@ -116,7 +116,7 @@ MOBANIMATION相關動畫作品的所有版權。
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/同居人時而在腿上，時而跑到腦袋上。" title="wikilink">同居人時而在腿上，時而跑到腦袋上。</a></p></td>
 <td></td>
-<td><p>1月－<strong>播出中</strong></p></td>
+<td><p>1月9日－3月27日</p></td>
 <td><p>鈴木薰</p></td>
 <td><p>漫畫</p></td>
 <td><p>原作：皆月</p></td>

@@ -398,10 +398,11 @@ Group携手美国人工智能公司ObEN创意打造了人工智能形象，制�
     NII：[易嘉爱](https://zh.wikipedia.org/wiki/易嘉爱 "wikilink")、[张怡](https://zh.wikipedia.org/wiki/张怡 "wikilink")
   - Team
     HII：[姜杉](../Page/姜杉.md "wikilink")、[李艺彤](https://zh.wikipedia.org/wiki/李艺彤 "wikilink")、[万丽娜](https://zh.wikipedia.org/wiki/万丽娜 "wikilink")
-  - Team X：祁静、杨冰怡、张丹三
+  - Team X：祁静、杨冰怡、[张丹三](../Page/张丹三.md "wikilink")
   - Team B：[段艺璇](https://zh.wikipedia.org/wiki/段艺璇 "wikilink")
   - Team E：[苏杉杉](https://zh.wikipedia.org/wiki/苏杉杉 "wikilink")
-  - Team NIII：[刘力菲](https://zh.wikipedia.org/wiki/刘力菲 "wikilink")、郑丹妮
+  - Team
+    NIII：[刘力菲](https://zh.wikipedia.org/wiki/刘力菲 "wikilink")、[郑丹妮](https://zh.wikipedia.org/wiki/郑丹妮 "wikilink")
 
 <!-- end list -->
 
@@ -411,11 +412,7 @@ Group携手美国人工智能公司ObEN创意打造了人工智能形象，制�
 
 :**说声新年好** （Center：李艺彤）
 
-  - Team SII：
-  - Team NII：
   - Team HII：李艺彤
-  - Team X：
-  - Team B：
   - Team E：苏杉杉
   - Team G：[谢蕾蕾](../Page/谢蕾蕾.md "wikilink")
   - Team SIII：韩家乐
@@ -440,7 +437,7 @@ Group携手美国人工智能公司ObEN创意打造了人工智能形象，制�
 
 :**Brave Heart** （Center：谢蕾蕾）
 
-  - Team G：陈珂、高源婧、谢蕾蕾、张琼予、朱怡欣
+  - Team G：陈珂、高源婧、谢蕾蕾、[张琼予](../Page/张琼予.md "wikilink")、朱怡欣
   - Team NIII：刘力菲、刘倩倩、卢静、唐莉佳、肖文铃、郑丹妮、左婧媛
   - Team Z：杜秋霖、梁婉琳、龙亦瑞、杨媛媛
 
@@ -458,9 +455,7 @@ Group携手美国人工智能公司ObEN创意打造了人工智能形象，制�
 
 ## 我们的旅程
 
-《**我们的旅程**》（）是中國偶像組合[SNH48的](https://zh.wikipedia.org/wiki/SNH48 "wikilink")
-[SNH48 Group第五届年度金曲大赏BEST
-50特別紀念版EP](../Page/SNH48_Group第五届年度金曲大赏BEST_50.md "wikilink")。
+《**我们的旅程**》（）是中國偶像組合[SNH48的第](https://zh.wikipedia.org/wiki/SNH48 "wikilink")23張EP。
 
 ### 簡介
 
@@ -509,7 +504,7 @@ Group第五届年度金曲大赏BEST
 :**Zen** （Center：梁婉琳）
 
   - GNZ48 Team
-    Z：毕瑞珊、陈桂君、邓惠恩、杜秋霖、方琪、何梦瑶、梁婉琳、龙亦瑞、农燕萍、王翠菲、王炯义、王偲越、杨可路、杨媛媛、余芷媛、张秋怡
+    Z：毕瑞珊、陈桂君、邓惠恩、杜秋霖、何梦瑶、梁婉琳、龙亦瑞、农燕萍、王翠菲、王炯义、王偲越、杨可路、杨媛媛、余芷媛、张秋怡
 
 
 :**钢铁之翼**
@@ -541,12 +536,13 @@ Group第五届年度金曲大赏BEST
 
 ## 那年夏天的梦
 
-《**那年夏天的梦**》（）是中國偶像組合[SNH48的第](https://zh.wikipedia.org/wiki/SNH48 "wikilink")23張EP。
+《**那年夏天的梦**》（）是中國偶像組合[SNH48的第](https://zh.wikipedia.org/wiki/SNH48 "wikilink")24張EP。
 
 ### 簡介
 
 《那年夏天的梦》是[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")
-Group的夏季EP。
+Group于2019年夏季EP。该张EP的同名曲目由来自SNH48、BEJ48、GNZ48三团组成选拔组共20名成员演绎，且以新生代成员为主，并赴[泰国](../Page/泰国.md "wikilink")[普吉岛取景拍摄MV](https://zh.wikipedia.org/wiki/普吉岛 "wikilink")。EP附有2019年7月27日舉辦的[SNH48
+Group第六屆總選舉投票券](https://zh.wikipedia.org/wiki/SNH48_Group第六屆總選舉 "wikilink")。\[16\]
 
 ### 收錄曲目
 
@@ -558,20 +554,21 @@ Group的夏季EP。
 （Center：孙珍妮）
 
   - Team SII：钱蓓婷
-  - Team NII：王诗蒙
-  - Team HII：沈梦瑶、孙珍妮、张昕
+  - Team NII：王诗蒙、张茜
+  - Team HII：孙珍妮、张昕（兼任GNZ48 Team NIII）
   - Team X：祁静、宋昕冉、杨冰怡
   - BEJ48 Team B：青钰雯、张梦慧
-  - Team E：苏杉杉、彭嘉敏
-  - Team J：韩家乐、张怀瑾
+  - BEJ48 Team E：苏杉杉、彭嘉敏
+  - BEJ48 Team J：韩家乐、张怀瑾
   - GNZ48 Team G：高源婧、谢蕾蕾
-  - Team NIII：刘力菲、唐莉佳、郑丹妮
-  - Team Z：农燕萍
+  - GNZ48 Team NIII：刘力菲、唐莉佳、郑丹妮
+  - GNZ48 Team Z：农燕萍
 
 <!-- end list -->
 
   -
-    王诗蒙、沈梦瑶、青钰雯、张梦慧、彭嘉敏、张怀瑾、高源婧、唐莉佳、农燕萍首次參與選拔。
+    孙珍妮首次擔任選拔Center。张茜、青钰雯、张梦慧、彭嘉敏、张怀瑾、高源婧、唐莉佳、农燕萍首次參與選拔。
+    MV在[泰国](../Page/泰国.md "wikilink")[普吉拍摄](https://zh.wikipedia.org/wiki/普吉 "wikilink")。
 
 
 :**夏之序** （Center：）
@@ -634,6 +631,8 @@ Group的夏季EP。
 
   - [《我们的旅程》官网的专页](http://www.snh48.com/event/s265/)
 
+  - [《那年夏天的梦》官网的专页](http://www.snh48.com/event/s270/)
+
 [Category:SNH48歌曲](https://zh.wikipedia.org/wiki/Category:SNH48歌曲 "wikilink")
 
 1.  [SNH48首张原创EP《源动力》上线，3月25日引爆无限能量！](http://www.snh48.com/html/allnews/zixun/2016/0320/1614.html)
@@ -657,3 +656,4 @@ Group的夏季EP。
 13.
 14.
 15.
+16.

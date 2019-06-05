@@ -109,7 +109,6 @@
 5.  [第39屆十大中文金曲
     獎項名單](http://app4.rthk.hk/special/goldsong2016/result.htm)
 6.  [金曲40 獎項名單](http://app4.rthk.hk/special/goldsong2017/list.htm)
-7.  [2017年度叱咤樂壇流行榜頒獎典禮
-    得獎名單及重溫](http://usca.my903.com/my903/usca2017/award/list.php)
+7.
 8.  [2018年度叱咤樂壇流行榜頒獎典禮 得獎名單及重溫](http://usca.my903.com/)
 9.  [第四十一屆中文金曲 獎項名單](https://app4.rthk.hk/special/goldsong2018/list.htm)

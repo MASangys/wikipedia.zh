@@ -1,8 +1,7 @@
-****是一支来自美国佐治亚州劳伦斯维尔的嘻哈团体，组建于2009年。\[1\] 该组合由艺名分别为 Quavo、Offset 和
-Takeoff 的三人组成。Migos在2013年发布他们选自混音带《Y.R.N. (Young Rich
-Niggas)》的首支商业单曲《》。他们还发布过若干单曲，例如《Fight
-Night》（2014年）、《Look at My Dab》（2015年）和名列榜单第一的单曲《Bad and
-Boujee》（2016年）。
+****或称**米戈斯**，是一支来自美国[佐治亚州](../Page/喬治亞州.md "wikilink")[劳伦斯维尔的嘻哈团体](../Page/勞倫斯維爾_\(喬治亞州\).md "wikilink")，组建于2009年。\[1\] 该组合由艺名分别为
+Quavo、Offset 和 Takeoff 的三人组成。Migos在2013年发布他们选自混音带《Y.R.N. (Young Rich
+Niggas)》的首支商业单曲《》。他们还发布过若干单曲，例如《Fight Night》（2014年）、《Look at My
+Dab》（2015年）和名列榜单第一的单曲《Bad and Boujee》（2016年）。
 
 这支三人组合在2015年通过 Quality Control Music 和 300 Entertainment 发行了首张专辑《Yung
 Rich
@@ -17,7 +16,7 @@ Coach K 主持 Migos 的管理，\[4\] 他们也与制作人 DJ Durel , Murda B
 
 Migos 组合成立于2009年, 由 Quavo（原名 Quavious Keyate Marshall）、\[6\] Takeoff（原名
 Kirshnik Khari Ball）\[7\] 和 Offset（原名 Kiari Kendrell
-Cephus）三人组成。早先在[佐治亚州](https://zh.wikipedia.org/wiki/佐治亚州 "wikilink")以组合名
+Cephus）三人组成。早先在[佐治亚州](https://zh.wikipedia.org/wiki/佐治亚州 "wikilink")[劳伦斯维尔以组合名](https://zh.wikipedia.org/wiki/劳伦斯维尔_\(佐治亚州\) "wikilink")
 Polo Club 被人熟知。组合的三位成员一起长大并互为亲属关系； Quavo 为 Takeoff 的舅舅，并且 Offset 是 Quavo
 的堂弟。\[8\]此组合在2011年8月25日发布了他们的第一张完整的混音带《Juug
 Season》，接下来在2012年6月1日发布了混音带《No Label》。
@@ -121,7 +120,7 @@ Migos
 宣布将「Yung Rich Nation 巡迴演唱会」推迟至同年7月。\[40\]
 
 2015年5月2日，Offset
-在拘期间受到与同押犯人发生肢体冲撞并殴打其它犯人后在狱中煽动暴乱且造成重伤害的指控。\[41\]5月8日，在保释听证会前，基于他先前的刑事记录以及最近的狱中斗殴事件，布洛克郡法院法官约翰·R·博特纳（John
+在拘期间受到与同押犯人发生肢体冲撞并殴打其它犯人后在狱中煽动暴乱且造成重伤害的指控。\[41\]5月8日，在保释听证会前，基于他先前的刑事记录以及最近的狱中斗殴事件，布洛克郡法院法官约翰·R·特纳（John
 R. Turner）正式拒绝 Offset 保释。在听证会期间，其它两名 Migos
 的随行人员也被拒绝保释。作为其获释的条件，被准许保释的其余四人被释放后禁止返回布洛克郡。此外，被特纳法官准释的四人禁止与任何牵扯此案的人接触。Offset的律师因警官无法证明枪支与两辆面包车内非法药物的所有权，认为存在对这支三人说唱组合的[不公平地分析执法](../Page/种族归纳.md "wikilink")。然而，控方作出答复称，由于
 Migos

@@ -503,11 +503,11 @@ Temperature of Love</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>05/12-<br />
-26/04<br />
+14/06<br />
 <a href="../Page/ViuTV電視劇集列表_(2019年).md" title="wikilink">續19年</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/扶摇.md" title="wikilink">扶摇</a><br />
 Legend of Fu Yao</p></td>
-<td style="text-align: center;"><p>84</p></td>
+<td style="text-align: center;"><p>132</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/楊冪" title="wikilink">楊　冪</a>、<a href="../Page/阮經天.md" title="wikilink">阮經天</a>、<a href="../Page/劉奕君.md" title="wikilink">劉奕君</a>、<a href="https://zh.wikipedia.org/wiki/高偉光" title="wikilink">高偉光</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -1721,7 +1721,7 @@ Desperate for Love</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>30/06</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/白日之鴉" title="wikilink">白日之鴉</a><br />
+<td style="text-align: center;"><p><br />
 The Crow In Broad Daylight</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><p><a href="../Page/伊藤淳史.md" title="wikilink">伊藤淳史</a></p></td>

@@ -54,10 +54,10 @@ Man》方面發布聲明，宣布[全昭旻](../Page/全昭旻.md "wikilink")、
 <small>（錄影日期）</small></p></th>
 <th><p>嘉賓</p></th>
 <th><p>最終地點</p></th>
-<th><p>主人翁</p></th>
+<th><p>主人公</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>結果</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -138,7 +138,7 @@ Man》方面發布聲明，宣布[全昭旻](../Page/全昭旻.md "wikilink")、
 <td><p><a href="../Page/Gary_(韓國歌手).md" title="wikilink">Gary</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
 <td><p>Gary</p></td>
 <td><p><span style=font-size:110%><strong>Last 最強者戰 － 超能力戰爭</strong></span><br />
 <strong>個人戰</strong><br />
@@ -254,7 +254,7 @@ Man》方面發布聲明，宣布[全昭旻](../Page/全昭旻.md "wikilink")、
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>|勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -363,7 +363,7 @@ Running House[19]</p></td>
 <a href="../Page/尹博.md" title="wikilink">尹博</a></p></td>
 <td><p>Hyundai Motorstudio Goyang<br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>預定王競賽</strong></span><br />
 <span style=color:#c0c0c0><strong>Sandara隊</strong></span>：Sandara Park、劉在錫、金鐘國<br />
 <span style=color:#0000FF><strong>尹博隊</strong></span>：尹博、池錫辰、李光洙<br />
@@ -480,7 +480,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>落敗/勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 <th><p>累計啊撒觀光券<small>(앗싸관광권)</small>數目</p></th>
 </tr>
 </thead>
@@ -816,7 +816,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 <th><p>累計 I Go<br />
 觀光券數目</p></th>
 </tr>
@@ -956,7 +956,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 <small>（7月3日）</small></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>I GO，STOP</strong></span><br />
 <strong>咣Man（個人戰）</strong><br />
 池錫辰、哈哈、全昭旻<br />
@@ -1015,7 +1015,7 @@ Sandara隊獲得旅行券，尹博隊獲得金R銅像，韓載錫隊獲得人蔘
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1094,7 +1094,7 @@ Man成員與嘉賓進行一系列任務並爭取在競賽中獲勝，而任務�
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1135,7 +1135,7 @@ Man成員與嘉賓進行一系列任務並爭取在競賽中獲勝，而任務�
 （<a href="https://zh.wikipedia.org/wiki/少女時代" title="wikilink">少女時代</a>）</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>我的少女時代，我的惡女時代</strong></span><br />
 <strong>惡女頭目 | 惡女隊</strong><br />
 全昭旻 | 俞利、秀英<br />
@@ -1294,7 +1294,7 @@ Man成員與嘉賓進行一系列任務並爭取在競賽中獲勝，而任務�
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
 <th><p>候補觀光地點對決</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1398,7 +1398,7 @@ vs<br />
 <td><p>無嘉賓</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>輪盤地獄</strong></span><br />
 <strong>設計者</strong><br />
 李光洙<br />
@@ -1479,7 +1479,7 @@ vs<br />
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>落敗/勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1576,7 +1576,7 @@ Cheongpung Land<br />
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1589,7 +1589,7 @@ Cheongpung Land<br />
 <a href="../Page/尹普美.md" title="wikilink">尹普美</a>(<a href="../Page/Apink.md" title="wikilink">Apink</a>)</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>累積Pass － 找到助手吧</strong></span><br />
 <strong>委託人 | 助手</strong><br />
 李光洙 | 申成祿<br />
@@ -1641,7 +1641,7 @@ Cheongpung Land<br />
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1668,7 +1668,7 @@ Cheongpung Land<br />
 <a href="../Page/姜丹尼爾.md" title="wikilink">姜丹尼爾</a>（<a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>）</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>犯罪者的都市</strong></span><br />
 <span style=color:#967100><strong>劉震派</strong></span><br />
 盧士燕、劉在錫、池錫辰、李光洙<br />
@@ -1804,7 +1804,7 @@ Cheongpung Land<br />
 <th><p>隊伍</p></th>
 <th><p>結束條件</p></th>
 <th><p>機會券選擇結果</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1872,7 +1872,7 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1910,7 +1910,7 @@ b. 餵飼鱷魚期間完成合照 新西蘭隊：<br />
 <a href="../Page/李相燁.md" title="wikilink">李相燁</a>、<a href="../Page/高甫潔.md" title="wikilink">高甫潔</a></p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS炭峴製作中心</a><br />
 <small>（<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/高陽市.md" title="wikilink">高陽市</a><br />
-）</small></p></td>
+<a href="https://zh.wikipedia.org/wiki/一山西區" title="wikilink">一山西區</a>）</small></p></td>
 <td><p><span style="font-size:110%"><strong>與歹徒的戰爭</strong></span><br />
 <strong>歹徒隊</strong><br />
 金鐘國、崔貴華<br />

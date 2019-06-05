@@ -256,7 +256,7 @@ NJOI目前提供50多个标清电视频道，所有的广播频道和7个高清�
 <tr class="odd">
 <td><p><a href="../Page/Astro雙星.md" title="wikilink">Astro雙星</a></p></td>
 <td><p>324</p></td>
-<td><p>全马观看中国电视剧每天下午四点到晚上八点五部戏剧<br />
+<td><p>全马观看中国电视剧每天下午四点到晚上八点二部戏剧<br />
 </p></td>
 <td><p>RM5.30/3 天</p></td>
 </tr>
@@ -571,7 +571,7 @@ NJOI目前提供50多个标清电视频道，所有的广播频道和7个高清�
 <td><p>394<br />
 395</p></td>
 <td><p>K-Pop粉絲們最喜愛的最新與最熱門韓劇及名人潮流動向全在。</p></td>
-<td><p>RM21.20/30天</p></td>
+<td><p>RM21.20/15天</p></td>
 </tr>
 <tr class="odd">
 <td><p>儿童</p></td>
@@ -670,69 +670,88 @@ NJOI目前提供50多个标清电视频道，所有的广播频道和7个高清�
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Disney_XD_(亞洲)" title="wikilink">Disney XD HD</a></p></td>
+<td><p>637</p></td>
+<td><p>新Marvel系列的主场，有超级英雄，如蜘蛛侠，钢铁侠，绿巨人，雷神和美国队长。</p></td>
+<td><p>RM5.30/3 天</p></td>
+</tr>
+<tr class="even">
+<td><p>RM7.42/7 天</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>RM21.20/30 天</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>兒童組合</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Kids Pack</p></td>
 <td><p>612<br />
 613<br />
 615<br />
-616</p></td>
-<td><p>搜羅各式各樣最受歡迎的兒童頻道如Nickelodeon，Disney Junior，Disney Channel和Cartoon Network。</p></td>
+616<br />
+637</p></td>
+<td><p>搜羅各式各樣最受歡迎的兒童頻道如Nickelodeon，Disney Junior，Disney Channel，Cartoon Network和 Disney XD HD</p></td>
 <td><p>RM15.90/7 天</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>RM21.20/30 天</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>國際娛樂</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/華納電視頻道.md" title="wikilink">Warner TV</a></p></td>
 <td><p>719</p></td>
 <td><p>华纳电视为您提供电影界及电视剧界的世界著作、本地区独家首播的节目以及其它您所喜爱的动作片、喜剧和电视剧。华纳电视也是华纳兄弟娱乐公司旗下电影作品的指定播放电视频道。</p></td>
 <td><p>RM5.30/3 天</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>RM7.42/7 天</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>RM21.20/30 天</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>KIX HD</p></td>
 <td><p>729</p></td>
 <td><p>KIX HD 是一个为您带来许多精彩动作武打节目的全新高清频道。无论是好莱坞的电视剧还是亚洲的综艺节目都带给您动感十足与扣人心弦的体验。</p></td>
 <td><p>RM5.30/3 天</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>RM7.42/7 天</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>RM21.20/30 天</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -772,120 +791,32 @@ Astro第二個免費衛星直播應用程式，於2017年5月11日起正式啟�
 
 NJOI Now 適用頻道
 
-<table>
-<thead>
-<tr class="header">
-<th><p>頻道名稱</p></th>
-<th><p>頻道編號</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Astro Prima</p></td>
-<td><p>105</p></td>
-</tr>
-<tr class="even">
-<td><p>Astro Oasis</p></td>
-<td><p>106</p></td>
-</tr>
-<tr class="odd">
-<td><p>TV Al-Hijrah</p></td>
-<td><p>114</p></td>
-</tr>
-<tr class="even">
-<td><p>Astro Go Shop 馬来文版(HD)</p></td>
-<td><p>118</p></td>
-</tr>
-<tr class="odd">
-<td><p>Astro Vaanavil</p></td>
-<td><p>201</p></td>
-</tr>
-<tr class="even">
-<td><p>Makkal TV</p></td>
-<td><p>203</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Astro喜悅HD" title="wikilink">Astro喜悅HD</a></p></td>
-<td><p>300</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/Astro_AEC.md" title="wikilink">Astro AEC</a></p></td>
-<td><p>301</p></td>
-</tr>
-<tr class="odd">
-<td><p>Astro Go Shop 中文版（HD）</p></td>
-<td><p>303</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/TVB星河頻道.md" title="wikilink">TVB星河頻道</a>^</p></td>
-<td><p>314</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Astro小太陽" title="wikilink">Astro小太陽</a></p></td>
-<td><p>325</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/中国中央电视台中文国际频道.md" title="wikilink">CCTV-4中文国际</a></p></td>
-<td><p>334</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/KBS_World.md" title="wikilink">KBS World</a>*</p></td>
-<td><p>391</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/Sony_One.md" title="wikilink">Sony One HD</a>*</p></td>
-<td><p>393</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/Oh!K_TV_ASIA.md" title="wikilink">Oh!K HD</a>*</p></td>
-<td><p>394</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/tvN_Asia" title="wikilink">tvN HD</a>*</p></td>
-<td><p>395</p></td>
-</tr>
-<tr class="odd">
-<td><p>K-PLUS*</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Astro Awani</p></td>
-<td><p>501</p></td>
-</tr>
-<tr class="odd">
-<td><p>Bernama News Channel (BNC)</p></td>
-<td><p>502</p></td>
-</tr>
-<tr class="even">
-<td><p>Astro Tutor TV UPSR</p></td>
-<td><p>601</p></td>
-</tr>
-<tr class="odd">
-<td><p>Astro Tutor TV PMR</p></td>
-<td><p>602</p></td>
-</tr>
-<tr class="even">
-<td><p>Astro Tutor TV SPM</p></td>
-<td><p>603</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/Astro_Arena.md" title="wikilink">Astro Arena</a></p></td>
-<td><p>801</p></td>
-</tr>
-<tr class="even">
-<td><p>eGG</p></td>
-<td><p>808<sub>HD</sub></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 頻道名稱                                                            | 頻道編號 |
+| --------------------------------------------------------------- | ---- |
+| Astro Prima                                                     | 105  |
+| Astro Oasis                                                     | 106  |
+| Hello HD                                                        | 110  |
+| TV Al-Hijrah                                                    | 114  |
+| Astro Go Shop 馬来版（HD）                                           | 118  |
+| Astro Vaanavil                                                  | 201  |
+| Makkal TV                                                       | 203  |
+| [Astro喜悅HD](https://zh.wikipedia.org/wiki/Astro喜悅HD "wikilink") | 300  |
+| [Astro AEC](../Page/Astro_AEC.md "wikilink")                    | 301  |
+| Astro Go Shop 中文版（HD）                                           | 303  |
+| [Astro华丽台](https://zh.wikipedia.org/wiki/Astro华丽台 "wikilink")^  | 311  |
+| [TVB星河頻道](../Page/TVB星河頻道.md "wikilink")^                       | 314  |
+| [Astro小太陽](https://zh.wikipedia.org/wiki/Astro小太陽 "wikilink")   | 325  |
+| [CCTV-4中文国际](../Page/中国中央电视台中文国际频道.md "wikilink")               | 334  |
+| Astro Awani                                                     | 501  |
+| Bernama News Channel (BNC)                                      | 502  |
+| Astro Tutor TV UPSR                                             | 601  |
+| Astro Tutor TV PT3                                              | 602  |
+| Astro Tutor TV SPM                                              | 603  |
+| [Astro Arena](../Page/Astro_Arena.md "wikilink")                | 801  |
+| eGG HD                                                          | 808  |
+|                                                                 |      |
 
 ^NJOI Now独家免费频道
-
-  -   - 只適用於SYOK SYOK PASS用戶接受訂購。
 
 ## 参见
 

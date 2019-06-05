@@ -1,5 +1,5 @@
-**正义单链RNA病毒**（**positive-sense single-stranded RNA virus**或**（+）ssRNA
-virus**），其基因组为一条正义RNA单链。该正义链进入宿主细胞后，可以直接作为mRNA链指导蛋白质的合成；也可以通过依赖RNA的RNA聚合酶（RDRP）作用，生成负链，再以负链为模板，在RDRP作用下，生成正链。这样就达到了复制的目的。同时，生成的正链也可作为mRNA指导蛋白质的合成。\[1\]\[2\]\[3\]
+**正鏈單股RNA病毒**（**positive-sense single-stranded RNA virus**或**（+）ssRNA
+virus**），其基因组为一条正鏈RNA单股。该正义链进入宿主细胞后，可以直接作为mRNA链指导蛋白质的合成；也可以通过依赖RNA的RNA聚合酶（RDRP）作用，生成负链，再以负链为模板，在RDRP作用下，生成正链。这样就达到了复制的目的。同时，生成的正链也可作为mRNA指导蛋白质的合成。\[1\]\[2\]\[3\]
 
 ## 分类
 

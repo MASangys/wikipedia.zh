@@ -17,7 +17,7 @@
 
 [Category:中國已結業公司](https://zh.wikipedia.org/wiki/Category:中國已結業公司 "wikilink")
 [Category:北京市公司](https://zh.wikipedia.org/wiki/Category:北京市公司 "wikilink")
-[Category:公共自行車](https://zh.wikipedia.org/wiki/Category:公共自行車 "wikilink")
+[Category:中國公共自行車](https://zh.wikipedia.org/wiki/Category:中國公共自行車 "wikilink")
 
 1.
 2.

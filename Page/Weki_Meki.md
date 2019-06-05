@@ -38,14 +38,14 @@ Crazy\! 大家好，我們是Weki Meki！」。說出「Crazy」的同時，雙�
   - 2017年8月8日，Weki Meki推出首張迷你專輯《WEME》，並以主打歌曲〈I Don't Like Your
     Girlfriend〉正式出道。
   - 2018年2月1日，Weki Meki 推出《Weki
-    Meki，干嘛呢？》一個從宿舍開始，橫跨韓國、日本、泰國拍攝的團綜／真人秀。以贏得任務和比賽的方式，換取實現3個重要願望的機會。節目中也透露第二張迷你專輯《LUCKY》造型轉換和幕後花絮，並且有跟YouTube網博客開吃播、美妝課、在Engoo\[4\]與外籍老師學習英語以應付泰國行程......等等豐富的內容。
+    Meki，干嘛呢？》一個從宿舍開始，橫跨韓國、日本、泰國拍攝的團綜／真人秀。以贏得任務和比賽的方式，換取實現3個重要願望的機會。節目中也透露第二張迷你專輯《LUCKY》造型轉換和幕後花絮，並且有跟YouTube網博客開吃播、美妝課、在Engoo\[4\]與外籍老師學習英語以應付泰國行程......等等豐富的內容。在最後一集透露：Elly在秀娟加入Fantagio前，本是練習組隊長。
   - 2018年2月21日，Weki Meki發行第二張迷你專輯《Lucky》，主打歌曲為〈La La La〉，並進行為期一個月的宣傳活動。
   - 2018年5月1日，Weki
     Meki及[宇宙少女方同時在各自的官方社群帳號中公開了企劃組合](https://zh.wikipedia.org/wiki/宇宙少女 "wikilink")「[宇宙Meki](../Page/宇宙Meki.md "wikilink")」（）的預告圖\[5\]\[6\]，該組合由Weki
     Meki成員[有情](../Page/磪有情.md "wikilink")、[度延及宇宙少女](../Page/金度延.md "wikilink")[雪娥](../Page/雪娥.md "wikilink")、LUDA組成。\[7\]
   - 2018年8月8日，在出道一周年之際，公開粉絲名「Ki-Ling」\[8\]及官方應援色：「由小番茄紅和亮黃色所組成的漸層」。\[9\]
   - 2018年10月11日，Weki Meki發行單曲專輯《KISS, KICKS》，以主打歌曲〈Crush〉回歸。
-  - 2019年5月發行新專輯。
+  - 2019年5月14日，Weki Meki發行單曲2輯《LOCK END LOL》，以主打歌曲〈Picky Picky〉回歸。
 
 ## 成員列表
 
@@ -125,6 +125,18 @@ Crazy\! 大家好，我們是Weki Meki！」。說出「Crazy」的同時，雙�
 <li>語言：韓語</li>
 <li>音樂類型：K-POP</li>
 <li>專輯銷售量: 22,281+</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p><strong>《LOCK END LOL》</strong></p>
+<ul>
+<li>發行日期：2019年5月14日</li>
+<li>規格: 數位音樂下載、CD</li>
+<li>語言：韓語</li>
+<li>音樂類型：K-POP</li>
+<li>專輯銷售量:</li>
 </ul></td>
 <td></td>
 </tr>
@@ -223,6 +235,7 @@ Crazy\! 大家好，我們是Weki Meki！」。說出「Crazy」的同時，雙�
 | 2月19日  | Lucky \[16\]    |                                     |
 | 2月21日  | La La La \[17\] |                                     |
 | 10月11日 | Crush \[18\]    |                                     |
+| 2019年  | 5月14日           | Picky Picky \[19\]                  |
 
 ### 參與音樂錄影帶
 
@@ -314,7 +327,7 @@ Crazy\! 大家好，我們是Weki Meki！」。說出「Crazy」的同時，雙�
 <td><p>2018年</p></td>
 <td><p>Olleh TV (網絡版）、<br />
 OCN (電視版）</p></td>
-<td><p><a href="../Page/Short_(電視劇).md" title="wikilink">Short</a> [19]</p></td>
+<td><p><a href="../Page/Short_(電視劇).md" title="wikilink">Short</a> [20]</p></td>
 <td><p>度延</p></td>
 <td><p>刘志娜</p></td>
 <td></td>
@@ -691,7 +704,7 @@ OCN (電視版）</p></td>
 
 | 日期         | 名稱                                  | 舉行地點                       |
 | ---------- | ----------------------------------- | -------------------------- |
-| 2018年5月13日 | Weki Meki Wonderful Moment in Japan | 東京都港区赤坂5-3-2 赤坂サカス内 \[20\] |
+| 2018年5月13日 | Weki Meki Wonderful Moment in Japan | 東京都港区赤坂5-3-2 赤坂サカス内 \[21\] |
 
 ### SHOWCASE
 
@@ -780,7 +793,13 @@ OCN (電視版）</p></td>
 <td><p>LUCKY</p></td>
 </tr>
 <tr class="even">
-<td><p>KISS, KICKS</p></td>
+<td><p>KISS KICKS</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+</tr>
+<tr class="even">
+<td><p>LOCK END LOL</p></td>
 </tr>
 <tr class="odd">
 <td><ul>
@@ -818,7 +837,8 @@ OCN (電視版）</p></td>
   -
   -
   -
-  - [Weki Meki官方網站](http://www.fantagio.kr/cn/artists/wekimeki/profile/)
+  - [Weki
+    Meki官方網站](https://web.archive.org/web/20180426165401/http://www.fantagio.kr/cn/artists/wekimeki/profile/)
 
   - [Weki Meki官方Cafe](http://cafe.daum.net/WekiMeki)
 
@@ -850,3 +870,4 @@ OCN (電視版）</p></td>
 18.
 19.
 20.
+21.

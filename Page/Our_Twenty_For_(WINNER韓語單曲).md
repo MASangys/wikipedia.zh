@@ -135,9 +135,6 @@ REALLY》，選擇了更加強烈的節奏和素材，更能引發興致，是�
 
 ## 參考資料
 
-[kr:OUR TWENTY
-FOR](https://zh.wikipedia.org/wiki/kr:OUR_TWENTY_FOR "wikilink")
-
 [Category:2017年單曲](https://zh.wikipedia.org/wiki/Category:2017年單曲 "wikilink")
 [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 [Category:WINNER音樂專輯](https://zh.wikipedia.org/wiki/Category:WINNER音樂專輯 "wikilink")

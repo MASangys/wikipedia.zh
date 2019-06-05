@@ -126,7 +126,6 @@ ver.-》。
 
 ## 成員資料
 
-  - Nancy漢字未正名
   - 名字**粗體**為隊長
   - *斜体*为成长地
 
@@ -171,12 +170,9 @@ ver.-》。
 <td><p><a href="https://zh.wikipedia.org/wiki/妸仁" title="wikilink">妸仁</a></p></td>
 </tr>
 <tr class="even">
-<td><p><em><a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海</a>、<a href="https://zh.wikipedia.org/wiki/杭州" title="wikilink">杭州</a>、</em></p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/南希·麥多尼.md" title="wikilink">Nancy</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>李그루</p></td>
 </tr>
 </tbody>
@@ -656,6 +652,8 @@ LineData =
 </tr>
 </tbody>
 </table>
+
+## 註釋
 
 ## 参考资料
 

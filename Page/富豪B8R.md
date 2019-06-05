@@ -8,19 +8,16 @@
 
 B8R有兩種富豪車廠自家開發的[柴油引擎可以選配](../Page/柴油引擎.md "wikilink")，分別為D8C和D8K\[2\]，氣缸容積為7698[cc](https://zh.wikipedia.org/wiki/立方厘米 "wikilink")，兩款皆為直列六氣缸的[渦輪增壓柴油引擎](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")。
 
-D8K，7698[cc](https://zh.wikipedia.org/wiki/立方厘米 "wikilink")，直列六氣缸[渦輪增壓柴油引擎](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")（2013年－現在）
-
-  - D8K280 - 206千瓦 (280匹), 1050 Nm,
-    [歐盟六型](../Page/欧洲汽车尾气排放标准.md "wikilink")
-  - D8K320 - 235千瓦 (320匹), 1200 Nm, 歐盟六型
-  - D8K350 - 258千瓦 (350匹), 1400 Nm, 歐盟六型
-
-D8C，7698[cc](https://zh.wikipedia.org/wiki/立方厘米 "wikilink")，直列六氣缸[渦輪增壓柴油引擎](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")（2017年－現在）
-
-  - D8C250 - 186千瓦 (250匹), 950
-    Nm，[歐盟三型](../Page/欧洲汽车尾气排放标准.md "wikilink")／[歐盟五型](../Page/欧洲汽车尾气排放标准.md "wikilink")
-  - D8C330 - 246千瓦 (330匹), 1200 Nm，
-    [歐盟三型](../Page/欧洲汽车尾气排放标准.md "wikilink")／[歐盟五型](../Page/欧洲汽车尾气排放标准.md "wikilink")
+  - D8K，7698[cc](https://zh.wikipedia.org/wiki/立方厘米 "wikilink")，直列六氣缸[渦輪增壓柴油引擎](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")（2013年－現在）
+      - D8K280 - 206千瓦 (280匹), 1050 Nm,
+        [歐盟六型](../Page/欧洲汽车尾气排放标准.md "wikilink")
+      - D8K320 - 235千瓦 (320匹), 1200 Nm, 歐盟六型
+      - D8K350 - 258千瓦 (350匹), 1400 Nm, 歐盟六型
+  - D8C，7698[cc](https://zh.wikipedia.org/wiki/立方厘米 "wikilink")，直列六氣缸[渦輪增壓柴油引擎](https://zh.wikipedia.org/wiki/渦輪增壓 "wikilink")（2017年－現在）
+      - D8C250 - 186千瓦 (250匹), 950
+        Nm，[歐盟三型](../Page/欧洲汽车尾气排放标准.md "wikilink")／[歐盟五型](../Page/欧洲汽车尾气排放标准.md "wikilink")
+      - D8C330 - 246千瓦 (330匹), 1200 Nm，
+        [歐盟三型](../Page/欧洲汽车尾气排放标准.md "wikilink")／[歐盟五型](../Page/欧洲汽车尾气排放标准.md "wikilink")
 
 ## 参考文献
 

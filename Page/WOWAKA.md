@@ -1,4 +1,4 @@
-**WOWAKA**（，），或稱作現實逃避P（），是[日本的音乐创作家](../Page/日本.md "wikilink")。[hitorie乐队主唱](https://zh.wikipedia.org/wiki/hitorie "wikilink")。2019年4月5日因急性心臟衰竭去世，得年31岁\[1\]。
+**WOWAKA**（，），或稱作**現實逃避P**（），[日本音乐创作家](../Page/日本.md "wikilink")，[hitorie乐队主唱](https://zh.wikipedia.org/wiki/hitorie "wikilink")。2019年4月5日因急性心臟衰竭去世，得年31岁\[1\]。
 
 在影片网站[Niconico动画上投稿](https://zh.wikipedia.org/wiki/Niconico动画 "wikilink")[VOCALOID原创歌曲](../Page/VOCALOID.md "wikilink")。因為在影片上寫上「逃避現實，也不錯啊！（）」，所以常被稱為現實逃避P（）。
 
@@ -13,11 +13,11 @@
 | 2009/05/11 | \-{グレーゾーンにて。}-      | 在灰色地帶中                 | [初音未來](../Page/初音未來.md "wikilink")                                    | 上傳第一首                    |
 | 2009/05/24 | \-{テノヒラ}-           | 手心                     | [初音未來](../Page/初音未來.md "wikilink")                                    | 上傳第二首                    |
 | 2009/06/07 | \-{ラインアート}-         | Line art               | [初音未來](../Page/初音未來.md "wikilink")                                    | 上傳第三首                    |
-| 2009/06/16 | \-{とおせんぼ}-          | 不讓你過                   | [初音未來](../Page/初音未來.md "wikilink")                                    | 上傳第四首、nico百萬曲            |
+| 2009/06/16 | \-{とおせんぼ}-          | 禁止通行                   | [初音未來](../Page/初音未來.md "wikilink")                                    | 上傳第四首、nico百萬曲            |
 | 2009/07/13 | \-{僕のサイノウ}-         | 我的才能                   | [初音未來](../Page/初音未來.md "wikilink")                                    | 上傳第五首                    |
 | 2009/08/30 | \-{裏表ラバーズ}-         | 裏表Lovers               | [初音未來](../Page/初音未來.md "wikilink")                                    | 上傳第六首、nico百萬曲、N站和Y站合併破千萬 |
-| 2009/10/13 | \-{ずれていく}-          | 逐漸偏移                   | [初音未來](../Page/初音未來.md "wikilink")                                    | 上傳第七首                    |
-| 2009/12/02 | \-{積み木の人形}-         | 積木人偶                   | [初音未來](../Page/初音未來.md "wikilink")                                    | 上傳第八首                    |
+| 2009/10/13 | \-{ずれていく}-          | 逐漸偏移                   | [初音未來](../Page/初音未來.md "wikilink")                                    | 上傳第七首、nico百萬曲            |
+| 2009/12/02 | \-{積み木の人形}-         | 積木人偶                   | [初音未來](../Page/初音未來.md "wikilink")                                    | 上傳第八首、nico百萬曲            |
 | 2010/02/14 | \-{ローリンガール}-        | Rolling Girl           | [初音未來](../Page/初音未來.md "wikilink")                                    | 上傳第九首、nico百萬曲、N站和Y站合併破千萬 |
 | 2010/05/18 | \-{ワールズエンド・ダンスホール}- | World's End Dance Hall | [初音未來](../Page/初音未來.md "wikilink")、[巡音流歌](../Page/巡音流歌.md "wikilink") | 上傳第十首、nico千萬曲、N站和Y站合併破千萬 |
 | 2011/05/02 | \-{アンハッピーリフレイン}-    | Unhappy Refrain        | [初音未來](../Page/初音未來.md "wikilink")                                    | 上傳第十一首、nico百萬曲           |

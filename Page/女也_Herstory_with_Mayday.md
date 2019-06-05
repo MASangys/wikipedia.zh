@@ -3,18 +3,18 @@ Mayday**》，是由[相信音樂發行的音樂概念專輯](https://zh.wikiped
 
 ## 曲目
 
-| 曲序 | 曲名                                        | 演唱                                                  | 作詞                                                 | 作曲                                   | 製作                                   | 編曲    | 時間長度 |
-| -- | ----------------------------------------- | --------------------------------------------------- | -------------------------------------------------- | ------------------------------------ | ------------------------------------ | ----- | ---- |
-| 01 | 生命有一種絕對                                   | [曲婉婷](../Page/曲婉婷.md "wikilink")                    | [阿信](https://zh.wikipedia.org/wiki/陳信宏 "wikilink") | 阿信                                   | Sean Xiahao Zhang                    | 04:31 |      |
-| 02 | [盛夏光年](../Page/盛夏光年_\(歌曲\).md "wikilink") | [林憶蓮](../Page/林憶蓮.md "wikilink")                    | [恭碩良](../Page/恭碩良.md "wikilink")、倪凱文               | 03:30                                |                                      |       |      |
-| 03 | 離開地球表面                                    | [S.H.E](../Page/S.H.E.md "wikilink")                | [王治平](../Page/王治平.md "wikilink")                   | [JerryC](../Page/張逸帆.md "wikilink")  | 04:00                                |       |      |
-| 04 | 突然好想你                                     | [徐佳瑩](../Page/徐佳瑩.md "wikilink")                    | [陳建騏](../Page/陳建騏.md "wikilink")                   | [-{于}-京延](../Page/于京延.md "wikilink") | 04:31                                |       |      |
-| 05 | 溫柔                                        | [梁靜茹](../Page/梁靜茹.md "wikilink")                    | 陳建良                                                | 真藤敬利                                 | 05:00                                |       |      |
-| 06 | 你不是真正的快樂                                  | [鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink") | Lupo Groinig                                       | 05:11                                |                                      |       |      |
-| 07 | 我不願讓你一個人                                  | [家家](https://zh.wikipedia.org/wiki/纪家盈 "wikilink")  | 阿信、[冠佑](../Page/劉冠佑.md "wikilink")                 | 王治平                                  | Martin Musiubach                     | 05:04 |      |
-| 08 | 如煙                                        | [艾怡良](https://zh.wikipedia.org/wiki/艾怡良 "wikilink") | [石頭](../Page/石錦航.md "wikilink")                    | 陳建騏                                  | [盧家宏](../Page/盧家宏.md "wikilink")、蘇子茵 | 06:29 |      |
-| 09 | 愛情萬歲                                      | [魏如萱](../Page/魏如萱.md "wikilink")                    | 阿信                                                 | 黃少雍                                  | 04:38                                |       |      |
-| 10 | 我心中尚未崩壞的地方                                | [黃韻玲](../Page/黃韻玲.md "wikilink")                    | [怪獸](../Page/溫尚翊.md "wikilink")                    | [鍾興民](../Page/鍾興民.md "wikilink")     | 04:42                                |       |      |
+| 曲序 | 曲名                                        | 演唱                                                  | 作詞                                   | 作曲                                   | 製作                                   | 編曲    | 時間長度 |
+| -- | ----------------------------------------- | --------------------------------------------------- | ------------------------------------ | ------------------------------------ | ------------------------------------ | ----- | ---- |
+| 01 | 生命有一種絕對                                   | [曲婉婷](../Page/曲婉婷.md "wikilink")                    | [阿信](../Page/陳信宏.md "wikilink")      | 阿信                                   | Sean Xiahao Zhang                    | 04:31 |      |
+| 02 | [盛夏光年](../Page/盛夏光年_\(歌曲\).md "wikilink") | [林憶蓮](../Page/林憶蓮.md "wikilink")                    | [恭碩良](../Page/恭碩良.md "wikilink")、倪凱文 | 03:30                                |                                      |       |      |
+| 03 | 離開地球表面                                    | [S.H.E](../Page/S.H.E.md "wikilink")                | [王治平](../Page/王治平.md "wikilink")     | [JerryC](../Page/張逸帆.md "wikilink")  | 04:00                                |       |      |
+| 04 | 突然好想你                                     | [徐佳瑩](../Page/徐佳瑩.md "wikilink")                    | [陳建騏](../Page/陳建騏.md "wikilink")     | [-{于}-京延](../Page/于京延.md "wikilink") | 04:31                                |       |      |
+| 05 | 溫柔                                        | [梁靜茹](../Page/梁靜茹.md "wikilink")                    | 陳建良                                  | 真藤敬利                                 | 05:00                                |       |      |
+| 06 | 你不是真正的快樂                                  | [鄧紫棋](https://zh.wikipedia.org/wiki/鄧紫棋 "wikilink") | Lupo Groinig                         | 05:11                                |                                      |       |      |
+| 07 | 我不願讓你一個人                                  | [家家](https://zh.wikipedia.org/wiki/纪家盈 "wikilink")  | 阿信、[冠佑](../Page/劉冠佑.md "wikilink")   | 王治平                                  | Martin Musiubach                     | 05:04 |      |
+| 08 | 如煙                                        | [艾怡良](https://zh.wikipedia.org/wiki/艾怡良 "wikilink") | [石頭](../Page/石錦航.md "wikilink")      | 陳建騏                                  | [盧家宏](../Page/盧家宏.md "wikilink")、蘇子茵 | 06:29 |      |
+| 09 | 愛情萬歲                                      | [魏如萱](../Page/魏如萱.md "wikilink")                    | 阿信                                   | 黃少雍                                  | 04:38                                |       |      |
+| 10 | 我心中尚未崩壞的地方                                | [黃韻玲](../Page/黃韻玲.md "wikilink")                    | [怪獸](../Page/溫尚翊.md "wikilink")      | [鍾興民](../Page/鍾興民.md "wikilink")     | 04:42                                |       |      |
 
 ## 音樂錄影帶
 

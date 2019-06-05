@@ -26,11 +26,10 @@
     Jump 2015年23號 - 2016年14號）
 
   - [ORIGIN](https://zh.wikipedia.org/wiki/ORIGIN "wikilink")（[週刊Young
-    Magazine](../Page/週刊Young_Magazine.md "wikilink") 2016年40號 - ）
+    Magazine](../Page/週刊Young_Magazine.md "wikilink") 2016年40號－2019年11號）
 
-  - [Dr.STONE](https://zh.wikipedia.org/wiki/Dr.STONE "wikilink")
-    (原作：[稲垣理一郎](https://zh.wikipedia.org/wiki/稲垣理一郎 "wikilink")　[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")
-    2017年14号 - )
+  - [Dr.STONE](https://zh.wikipedia.org/wiki/Dr.STONE "wikilink")（原作：[稲垣理一郎](https://zh.wikipedia.org/wiki/稲垣理一郎 "wikilink")　[週刊少年Jump](../Page/週刊少年Jump.md "wikilink")
+    2017年14号 - ）
 
 ### 短篇作品
 
@@ -75,10 +74,9 @@
   - H‧E The HUNT for ENERGY 能源獵人（H・E The HUNT for ENERGY）（全3卷）青文出版
   - Wallman 空降殺手（Wallman-ウォールマン-）全3卷（[Grand
     Jump](https://zh.wikipedia.org/wiki/Grand_Jump "wikilink") 2013年14號
-    - 2015年4號）青文出版
+    - 2015年4號）台灣青文代理，香港玉皇朝出版
   - Terra Formars \~火星任務\~外傳 阿西莫夫（）（全2卷）
-  - ORIGIN（共6卷）台灣東販出版
-  - Dr.STONE 新石紀（Dr.STONE）共3卷 東立出版
+  - ORIGIN（共6卷）台灣東販代理，香港[玉皇朝出版](../Page/玉皇朝.md "wikilink")
 
 ## 外部連結
 

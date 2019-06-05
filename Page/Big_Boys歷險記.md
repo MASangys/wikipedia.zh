@@ -1,5 +1,5 @@
 《**Big
-Boys歷險記**》（）是[香港電視廣播有限公司的綜藝節目](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")，2017年[TVB
+Boys歷險記**》（）是[香港電視廣播有限公司的真人秀節目](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")，2017年[TVB
 Amazing
 Summer綜藝節目之一](../Page/TVB_Amazing_Summer.md "wikilink")，陣容由《[兄弟幫](../Page/兄弟幫.md "wikilink")》（Big
 Boys

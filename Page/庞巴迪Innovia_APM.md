@@ -32,6 +32,7 @@ Mifflin的工厂组装，这个由多个建筑组成的设施专门从事自动�
 ## 运用
 
 **在机场使用的Innovia APM100系统**:\[12\]
+[AirTrain_nearing_West_Field_Road_station,_July_2018.JPG](https://zh.wikipedia.org/wiki/File:AirTrain_nearing_West_Field_Road_station,_July_2018.JPG "fig:AirTrain_nearing_West_Field_Road_station,_July_2018.JPG")[旅客捷运系统列车](../Page/旧金山国际机场旅客捷运系统.md "wikilink")\]\]
 
   - AeroTrain，[吉隆坡国际机场](https://zh.wikipedia.org/wiki/吉隆坡国际机场 "wikilink")，马来西亚\[13\]
   - [AirTrain，](../Page/旧金山国际机场旅客捷运系统.md "wikilink")[旧金山国际机场](../Page/舊金山國際機場.md "wikilink")，美国\[14\]
@@ -60,6 +61,8 @@ Mifflin的工厂组装，这个由多个建筑组成的设施专门从事自动�
 一个在新加坡樟宜机场安装的Innovia APM100系统在2006年被三菱Crystal替换。
 
 **城市的Innovia APM100系统：**
+[Knight_Center_Downtown_Skyscrapers.jpg](https://zh.wikipedia.org/wiki/File:Knight_Center_Downtown_Skyscrapers.jpg "fig:Knight_Center_Downtown_Skyscrapers.jpg")列车\]\]
+[Carriage_on_the_Bukit_Panjang_LRT_line_approaching_the_Choa_Chu_Kang_station.jpg](https://zh.wikipedia.org/wiki/File:Carriage_on_the_Bukit_Panjang_LRT_line_approaching_the_Choa_Chu_Kang_station.jpg "fig:Carriage_on_the_Bukit_Panjang_LRT_line_approaching_the_Choa_Chu_Kang_station.jpg")列车\]\]
 
   - [都会旅客捷运系统](../Page/都會旅客捷運系統.md "wikilink")，迈阿密，美国\[17\]
   - [武吉班讓輕軌](https://zh.wikipedia.org/wiki/武吉班讓輕軌 "wikilink")，新加坡\[18\]
@@ -77,8 +80,9 @@ Mifflin的工厂组装，这个由多个建筑组成的设施专门从事自动�
   - PHX Sky Train，[凤凰城空港国际机场](../Page/鳳凰城天港國際機場.md "wikilink")，美国\[20\]
 
 **城市的Innovia APM256系统：**
+[TRTC_CITYFLO650_IN_Wenhu_Line.jpg](https://zh.wikipedia.org/wiki/File:TRTC_CITYFLO650_IN_Wenhu_Line.jpg "fig:TRTC_CITYFLO650_IN_Wenhu_Line.jpg")[文湖线列车](https://zh.wikipedia.org/wiki/文湖线 "wikilink")\]\]
 
-  -  [台北捷运](https://zh.wikipedia.org/wiki/台北捷运 "wikilink")[文湖线](../Page/文湖線.md "wikilink")\[21\]
+  - [台北捷运](https://zh.wikipedia.org/wiki/台北捷运 "wikilink")[文湖线](../Page/文湖線.md "wikilink")\[21\]
 
 **在机场使用的Innovia APM300系统：**
 

@@ -1,7 +1,6 @@
-《**Manga Time Kirara
-Miracle\!**》（）是由[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫畫雜誌](../Page/四格漫畫.md "wikilink")，B5尺寸。2012年1月創刊，每月16日發售。2017年10月停刊\[1\]。雜誌口號是「更自由的四格漫畫」（）。
+是由[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫畫雜誌](../Page/四格漫畫.md "wikilink")，B5尺寸。2012年1月創刊，每月16日發售。2017年10月停刊\[1\]。雜誌口號是「更自由的四格漫畫」（）。
 
-## 特徵・內容的傾向
+## 簡介
 
 繼《[Manga Time Kirara](../Page/Manga_Time_Kirara.md "wikilink")》、《[Manga
 Time Kirara
@@ -42,8 +41,8 @@ Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》以來的第五本�
   - [城下町的蒲公英](../Page/城下町的蒲公英.md "wikilink")（[春日步](../Page/春日步.md "wikilink")、2012年4月號・6月號客串、8月號
     - ）※移籍至《Manga Time Kirara》
 
-  - [烏菈菈迷路帖](../Page/烏菈菈迷路帖.md "wikilink")（、2014年6月號 - ）※移籍至《Manga Time
-    Kirara》
+  - [烏菈菈迷路帖](../Page/烏菈菈迷路帖.md "wikilink")（[はりかも](https://zh.wikipedia.org/wiki/はりかも "wikilink")、2014年6月號
+    - ）※移籍至《Manga Time Kirara》
 
   - [魔王城のお姫様](https://zh.wikipedia.org/wiki/魔王城のお姫様 "wikilink")（[上下](https://zh.wikipedia.org/wiki/上下 "wikilink")、2016年4月號
     - ）※移籍至『Kirara基地』・「Manga Time Kirara Miralce\! web」
@@ -108,7 +107,7 @@ Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》以來的第五本�
     Step\!](https://zh.wikipedia.org/wiki/Lisa_Step! "wikilink")（[奄美あまゆ](https://zh.wikipedia.org/wiki/奄美あまゆ "wikilink")、vol.1
     - 2013年8月號）
 
-  - [夜森の国のソラニ](https://zh.wikipedia.org/wiki/夜森の国のソラニ "wikilink")（、vol.1
+  - [夜森の国のソラニ](https://zh.wikipedia.org/wiki/夜森の国のソラニ "wikilink")（[はりかも](https://zh.wikipedia.org/wiki/はりかも "wikilink")、vol.1
     - 2014年1月號）
 
   - [Good night\!
@@ -122,7 +121,9 @@ Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》以來的第五本�
   - [きしとおひめさま](https://zh.wikipedia.org/wiki/きしとおひめさま "wikilink")（[パイン](https://zh.wikipedia.org/wiki/パイン_\(漫画家\) "wikilink")、vol.1
     - 2015年6月號）※2013年6月號後偶數月號隔月揭載
 
-  - [櫻Trick](../Page/櫻Trick.md "wikilink") （、vol.1 - 2017年10月號）
+  - [櫻Trick](../Page/櫻Trick.md "wikilink")
+    （[Tachi](https://zh.wikipedia.org/wiki/Tachi "wikilink")、vol.1 -
+    2017年10月號）
 
   - [となりの魔法少女](https://zh.wikipedia.org/wiki/となりの魔法少女 "wikilink")（[七葉なば](https://zh.wikipedia.org/wiki/七葉なば "wikilink")、vol.3
     - 2014年11月號）※奇數月號隔月揭載
@@ -194,7 +195,9 @@ Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》以來的第五本�
   - [小学生もゆるくない。](https://zh.wikipedia.org/wiki/小学生もゆるくない。 "wikilink")（[村上メイシ](https://zh.wikipedia.org/wiki/村上メイシ "wikilink")、2016年5月號
     - 2017年9月號）
 
-## 相關項目
+## 參考來源
+
+## 參見
 
   - [Manga Time Kirara](../Page/Manga_Time_Kirara.md "wikilink")
   - [Manga Time Kirara
@@ -205,14 +208,10 @@ Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》以來的第五本�
 
 ## 外部連結
 
-  - [Manga Time Kirara Web](http://www.dokidokivisual.com/index.php)
-  - [Manga Time Kirara Miracle\!
-    Web](http://www.dokidokivisual.com/miracle/)
-  - [NicoNico靜圖 |
-    Kirara基地](http://seiga.nicovideo.jp/manga/official/kirara)
+  - [Manga Time Kirara
+    Miracle\!](http://www.dokidokivisual.com/miracle/)
 
-## 參考來源
-
+  -
 [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
 [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")
 [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")

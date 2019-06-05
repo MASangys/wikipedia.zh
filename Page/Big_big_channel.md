@@ -120,8 +120,8 @@ channel的主版面分為：最HIT、直播、藝人、達人、煮食、揾食�
 <tr class="even">
 <td style="text-align: center;"><p>2019/04/30</p></td>
 <td style="text-align: center;"><p><a href="../Page/機動部隊2019.md" title="wikilink">機動部隊2019</a></p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>4</p></td>
+<td style="text-align: center;"><p><a href="../Page/楊明.md" title="wikilink">楊　明</a>、<a href="https://zh.wikipedia.org/wiki/蔡思貝" title="wikilink">蔡思貝</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

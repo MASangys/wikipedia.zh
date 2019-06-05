@@ -734,7 +734,7 @@ Genius：终极总决赛而暂时中断](../Page/The_Genius.md "wikilink")。201
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/张道允" title="wikilink">张道允</a></p></td>
+<td><p>张道允</p></td>
 <td><p>2016 - 至今</p></td>
 <td><p>8 - 至今</p></td>
 <td></td>

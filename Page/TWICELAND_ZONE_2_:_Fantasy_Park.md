@@ -85,7 +85,7 @@ Convention Exhibition-Hall 5舉行。
 <td><p>2018年6月17日</p></td>
 <td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡室內體育館" title="wikilink">新加坡室內體育館</a></p></td>
-<td><p>8,500</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">

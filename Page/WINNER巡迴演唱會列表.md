@@ -889,7 +889,9 @@ S/S](https://zh.wikipedia.org/wiki/2014_S/S_-Japan_Collection- "wikilink")》所
 | 2019年2月9日      | 2019平昌K-pop演唱會與冬奧會舉辦週年紀念                                                                                     | 江陵奧林匹克公園                                       |
 | 2019年2月18日     | 第一屆Learning Form Idol Festival                                                                               | 首爾KBS Arena Hall                               |
 | 2019年2月19日     | 信韓大學新生入學訓練表演晚會                                                                                               | 信韓大學                                           |
+| 2019年5月21日     | 漢陽大學學校慶典                                                                                                     | 首爾京畿道安山市 ERICA 校區                              |
 | 2019年5月25日     | HallyuPopFest 2019                                                                                           | 新加坡室內體育館                                       |
+| 2019年7月6日      | SBS Super Concert                                                                                            | 香港亞洲國際博覽館                                      |
 |                |                                                                                                              |                                                |
 
 ## 參考文獻

@@ -81,16 +81,6 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/我們的少年時代" title="wikilink">我們的少年時代</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2018年</p></td>
-<td><p><a href="../Page/东方卫视.md" title="wikilink">东方卫视</a></p></td>
-<td><p><a href="../Page/天坑鹰猎.md" title="wikilink">天坑鹰猎</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>待播</p></td>
-<td></td>
-<td><p><a href="../Page/长安十二时辰.md" title="wikilink">长安十二时辰</a></p></td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td></td>

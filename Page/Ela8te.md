@@ -117,7 +117,7 @@ RANIA\#音樂作品](https://zh.wikipedia.org/wiki/BP_RANIA#音樂作品 "wikili
 [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
 
 1.
-2.  [RaNia 回歸延遲至九月中旬](http://kpopn.com/2012/09/03/141555/)
+2.
 3.  [1](http://www.allkpop.com/2012/09/yang-hyun-suk-revealed-to-be-the-producer-behind-ranias-comeback)
-4.  [RaNia 2週年特別單曲 UP](http://kpopn.com/2013/07/05/183513/)
+4.
 5.  [RaNia原始成員Di、Xia、T-ae約滿不續　攜手共組新團Ela8te](http://www.koreastardaily.com/tc/news/78901)

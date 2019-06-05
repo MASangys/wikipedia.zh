@@ -25,8 +25,9 @@
   - [KwickFind](https://web.archive.org/web/20160303231342/http://kde-apps.org/content/show.php/KwickFind%2B%28Locate%2BGUI%2BFrontend%29?content=54817)
     - KDE GUI frontend for locate
 
-  - [Locate32 for Windows](http://www.locate32.net/) -
-    带有GUI的Windows版locate，以GNU授权协议发布
+  - [Locate32 for
+    Windows](https://web.archive.org/web/20161205184446/http://www.locate32.net/)
+    - 带有GUI的Windows版locate，以GNU授权协议发布
 
 <table>
 <tbody>

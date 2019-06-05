@@ -1,4 +1,4 @@
-Pinkoi是一個販售設計商品的[電商平台](https://zh.wikipedia.org/wiki/電子商務 "wikilink")，由顏君庭、李讓、林怡君\[1\]創立於2011年\[2\]，總部位於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，開設[網路商店採審核制](https://zh.wikipedia.org/wiki/網路商店 "wikilink")\[3\]\[4\]，以買賣亞洲具有原創性的設計商品為主要特色\[5\]。收費模式為免費上架商品，商品售出後，平台抽10%服務費\[6\]\[7\]。
+Pinkoi是一個販售設計商品的[電商平台](https://zh.wikipedia.org/wiki/電子商務 "wikilink")，由顏君庭、李讓、林怡君\[1\]創立於2011年\[2\]，總部位於[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，開設[網路商店採審核制](https://zh.wikipedia.org/wiki/網路商店 "wikilink")\[3\]\[4\]，以買賣亞洲具有原創性的設計商品為主要特色\[5\]。收費模式為免費上架商品，商品售出後，平台抽15%+NT$15服務費，再加上服務費的5%營業稅\[6\]\[7\]。
 
 2015年Pinkoi獲得[紅杉資本](../Page/紅杉資本.md "wikilink")、共同注資900萬美金，並發佈英文網站\[8\]\[9\]，目前網站共支援繁體中文、簡體中文、英文、日文和泰文\[10\]
 。

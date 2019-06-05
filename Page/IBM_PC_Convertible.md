@@ -49,6 +49,7 @@ Convertible的一半，也显得IBM这款电脑没有很大竞争力。
 
 ## 外部链接
 
+[Category:IBM笔记本电脑](https://zh.wikipedia.org/wiki/Category:IBM笔记本电脑 "wikilink")
 [Category:手提式计算机](https://zh.wikipedia.org/wiki/Category:手提式计算机 "wikilink")
 
 1.

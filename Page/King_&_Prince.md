@@ -250,7 +250,7 @@ Prince**是[日本六人](../Page/日本.md "wikilink")[偶像](../Page/偶像_\
 <tr class="even">
 <td><p>初回限定盤A(CD+DVD)</p></td>
 <td><p>UPCJ-9008</p></td>
-<td></td>
+<td><p>台壓版2019年6月21日發售</p></td>
 <td></td>
 <td></td>
 <td></td>

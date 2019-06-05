@@ -3078,8 +3078,8 @@ Resort贊助，頒發給在韓國音樂界有優秀成就的藝人的年度頒�
 34.
 
 35. ["2008 Mnet KM Music Festival
-    Part1"](http://mwave.interest.me/mnettv/videodetail.m?searchVideoDetailVO.clip_id=87840).
-    *MAMA*. Retrieved 2014-12-17.
+    Part1"](http://mwave.interest.me/mnettv/videodetail.m?searchVideoDetailVO.clip_id=87840)
+    . *MAMA*. Retrieved 2014-12-17.
 
 36. ["2009 Mnet Asian Music Awards
     Part1"](http://mwave.interest.me/mnettv/videodetail.m?searchVideoDetailVO.clip_id=100689)

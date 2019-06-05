@@ -63,7 +63,7 @@ Ayawawa与王鹏夫妇现育有二孩，居于[天津市](../Page/天津市.md "
 
 [Category:杨姓](https://zh.wikipedia.org/wiki/Category:杨姓 "wikilink")
 [Category:中华人民共和国女企业家](https://zh.wikipedia.org/wiki/Category:中华人民共和国女企业家 "wikilink")
-[Category:中国大陆网络红人](https://zh.wikipedia.org/wiki/Category:中国大陆网络红人 "wikilink")
+[Category:中國網路紅人](https://zh.wikipedia.org/wiki/Category:中國網路紅人 "wikilink")
 [Category:自贡人](https://zh.wikipedia.org/wiki/Category:自贡人 "wikilink")
 
 1.

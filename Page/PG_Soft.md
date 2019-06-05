@@ -3,7 +3,7 @@ Soft**\[2\]，是一家[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")
 \[3\]，於2015年秋季成立\[4\]，[總部位於](https://zh.wikipedia.org/wiki/總部 "wikilink")[馬爾他](https://zh.wikipedia.org/wiki/馬爾他 "wikilink")，在歐洲、亞洲以及北美洲設有辦公處\[5\]。
 
 PG
-Soft持有[馬爾他以及](https://zh.wikipedia.org/wiki/馬爾他 "wikilink")[直布羅陀營運許可證書](https://zh.wikipedia.org/wiki/直布羅陀 "wikilink")\[6\]，旗下遊戲通過BMM
+Soft持有[馬爾他及](https://zh.wikipedia.org/wiki/馬爾他 "wikilink")[直布羅陀營運許可證書](https://zh.wikipedia.org/wiki/直布羅陀 "wikilink")\[6\]，旗下遊戲通過BMM
 Test Labs以及NMI Gaming等遊戲認證機構認證\[7\]，參加了2017年和2018年ICE英國倫敦國際博弈產業展\[8\]。
 
 ## 外部連結

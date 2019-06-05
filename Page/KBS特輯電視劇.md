@@ -1482,7 +1482,7 @@
 <td style="text-align: center;"><p><br />
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p><small><a href="../Page/崔秀宗.md" title="wikilink">崔秀宗</a>、<a href="../Page/權海驍.md" title="wikilink">權海驍</a>、、<a href="../Page/朴仁煥.md" title="wikilink">朴仁煥</a>、<a href="https://zh.wikipedia.org/wiki/羅文熙" title="wikilink">羅文熙</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/崔秀宗.md" title="wikilink">崔秀宗</a>、<a href="../Page/權海驍.md" title="wikilink">權海驍</a>、、<a href="../Page/朴仁煥.md" title="wikilink">朴仁煥</a>、<a href="../Page/羅文姬.md" title="wikilink">羅文姬</a></small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金映鎮" title="wikilink">金映鎮</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/陳秀完.md" title="wikilink">陳秀完</a></p></td>
 <td style="text-align: center;"><p>春節特輯電視劇</p></td>
@@ -1502,7 +1502,7 @@
 <td style="text-align: center;"><p><br />
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p><small><a href="../Page/金甲洙.md" title="wikilink">金甲洙</a>、<a href="../Page/金美淑.md" title="wikilink">金美淑</a>、<a href="../Page/朱鎮模.md" title="wikilink">朱鎮模</a>、<a href="../Page/政旭.md" title="wikilink">鄭旭</a>、、<a href="../Page/張基龍.md" title="wikilink">張基龍</a></small></p></td>
+<td style="text-align: center;"><p><small><a href="../Page/金甲洙.md" title="wikilink">金甲洙</a>、<a href="../Page/金美淑.md" title="wikilink">金美淑</a>、<a href="../Page/朱鎮模.md" title="wikilink">朱鎮模</a>、<a href="../Page/政旭.md" title="wikilink">鄭旭</a>、</small></p></td>
 <td style="text-align: center;"><p><a href="../Page/表民秀.md" title="wikilink">表民秀</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/盧熙京.md" title="wikilink">盧熙京</a></p></td>
 <td style="text-align: center;"><p>世紀末特輯電視劇</p></td>

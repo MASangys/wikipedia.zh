@@ -1,4 +1,4 @@
-**CKG48**是一個在2017年於[重慶成立的中國大型女子偶像組合](https://zh.wikipedia.org/wiki/重慶 "wikilink")，為[SNH48的姊妹團體](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，隸屬於[重慶絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。CKG48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。CKG48目前共有31名成員，擁有「IDOLS
+**CKG48**是一個在2017年於[重慶成立的中國大型女子偶像組合](https://zh.wikipedia.org/wiki/重慶 "wikilink")，為[SNH48的姊妹團體](https://zh.wikipedia.org/wiki/SNH48 "wikilink")，隸屬於[重慶絲芭文化傳媒集團有限公司](https://zh.wikipedia.org/wiki/絲芭傳媒 "wikilink")。CKG48的基本定位同樣是秉承SNH48的基本定位，基於「可面對面偶像」的造星理念，具備互聯網思維和參與感精神的近距離養成式大型女子偶像團體，充分吸收SNH48的模式特色和運營經驗，並進行區域化改造\[1\]。CKG48目前共有30名成員，擁有「IDOLS
 Ft」一項計畫。
 
 ## 概要
@@ -60,7 +60,7 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
       - 部分成员移籍至[SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")、[BEJ48](https://zh.wikipedia.org/wiki/BEJ48 "wikilink")、[GNZ48](https://zh.wikipedia.org/wiki/GNZ48 "wikilink")；
       - 部分成员加入基于互联网的偶像养成女团「IDOLS Ft」。
   - 3月3日，运营公司宣布CKG48将舉辦CKG48《少女•山茶》系列公演。《少女•山茶》系列公演将分为「生命」、「成长」、「绽放」三个章节，这也是CKG48自2019年首次公演。
-  - 3月16日，CKG48在重庆重演时代艺术中心举行《少女•山茶•生命》首演。
+  - 3月16日，CKG48在重庆重演时代艺术中心举行《Miss Camellia》首演。
   - 4月7日，在重慶寅派動力舉辦「青春的約定·CKG48春季限定演出」，同時有以下事項發表：
       - 凡IDOLS
         Ft成員均可參加CKG48的多項綜合考核，達標者可參加CKG48所有相關活動。同時宣布SHY48一期生李慧通過CKG48對於IDOLS
@@ -68,6 +68,9 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
       - CKG48將聯合MAX伯爵，共同製作CKG48首檔實境真人秀「密逃少女」；
       - CKG48將啟動綜藝節目「熱血少女」，以線上綜藝和線下比賽相結合，競選CKG48五人小組合；
       - CKG48於2019年起，正式將公演、外務等相關業務，全面輻射至[重慶](https://zh.wikipedia.org/wiki/重慶 "wikilink")、[四川](https://zh.wikipedia.org/wiki/四川 "wikilink")、[雲南](https://zh.wikipedia.org/wiki/雲南 "wikilink")、[貴州等西南地區](https://zh.wikipedia.org/wiki/貴州 "wikilink")。
+  - 5月1日，CKG48在成都乐空间举行《奇妙的加冕旅程》首演。
+  - 6月2日，在重慶寅派動力舉辦「盛夏好声音·CKG48夏季限定演出」，同時有以下事項發表：
+      - SHY48一期生杨允涵通過CKG48對於IDOLS Ft成員的考核，正式加入CKG48。
 
 ## 成員名單
 
@@ -79,11 +82,11 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
 | ---- |
 | 姓名   |
 | 曹露丹  |
-| 邓倩   |
 | 戴紫薇  |
 | 黄琬璎  |
 | 李慧   |
 | 赖俊亦  |
+| 刘弋菡  |
 | 雷宇霄  |
 | 孟玥   |
 | 毛译晗  |
@@ -94,8 +97,8 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
 | 王梦竹  |
 | 魏小燕  |
 | 吴学雨  |
+| 杨允涵  |
 | 曾佳   |
-| 赵思雨  |
 | 左欣   |
 
 ### 暂休成员
@@ -355,6 +358,16 @@ CKG48是一個以[重庆為中心活動的](https://zh.wikipedia.org/wiki/重庆
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>赵思雨</p></td>
+<td></td>
+<td><p>5月7日</p></td>
+<td><p>3期</p></td>
+<td><p>(IDOLS Ft)</p></td>
+<td><p>2019年5月10日</p></td>
+<td><p>于IDOLS Ft暂休</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -569,6 +582,22 @@ Team C陶菀瑞，Team K刘炅然，预备生余梦露暂休</p></td>
 <td><p>(19)</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>5月10日</p></td>
+<td><p>IDOLS Ft赵思雨结束于CKG48的活动</p></td>
+<td><p>-1</p></td>
+<td><p>30</p></td>
+<td><p>(18)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>6月2日</p></td>
+<td><p>IDOLS Ft楊允涵加入CKG48</p></td>
+<td><p>+1</p></td>
+<td><p>31</p></td>
+<td><p>(19)</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -718,6 +747,7 @@ CKG99100118</p></td>
 | 2019年                           |        |          |     |
 | 青春的约定•CKG48春季限定演出               | 4月7日   | 重庆寅派动力   |     |
 | CKG48《奇幻的加冕旅程》巡演                | 5月1-2日 | 成都乐空间    | 成都站 |
+| 盛夏好声音•CKG48夏季限定演出               | 5月19日  | 重庆寅派动力   |     |
 
 ## 演出
 
@@ -737,8 +767,11 @@ CKG99100118</p></td>
 | 2018年1月16日－4月16日   | [勒是雾都](https://zh.wikipedia.org/wiki/勒是雾都 "wikilink")   | [哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink") |    |
 | 2018年6月16日－9月30日   | [娱乐新人王](https://zh.wikipedia.org/wiki/娱乐新人王 "wikilink") | [哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink") |    |
 | 2018年11月22日－12月21日 | [我的下午茶](https://zh.wikipedia.org/wiki/我的下午茶 "wikilink") | [哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink") |    |
+| 2019年5月28日－        | [密逃少女](https://zh.wikipedia.org/wiki/密逃少女 "wikilink")   | [哔哩哔哩](https://zh.wikipedia.org/wiki/哔哩哔哩 "wikilink") |    |
 
 ## 公演
+
+### 于星梦剧院的公演
 
   - Team C
 
@@ -754,24 +787,7 @@ CKG99100118</p></td>
 | 1  | [奇幻加冕禮](https://zh.wikipedia.org/wiki/Team_E_2nd_Stage「奇幻加冕禮」公演#CKG48_Team_K_1st_Stage「奇幻加冕禮」公演 "wikilink")           | 2017年11月4日－2018年6月10日 | 52场 |
 | 2  | [美丽世界](https://zh.wikipedia.org/wiki/Team_HII_4th_Stage「Beautiful_World」公演#CKG48_Team_K_2nd_Stage「美丽世界」公演 "wikilink") | 2018年6月16日－12月30日     | 41场 |
 
-### 其他剧场的公演
-
-  - Team C
-
-| 序號 | 公演名稱                                                                                                        | 日期           | 剧场                                                              | 場次 |
-| -- | ----------------------------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------- | -- |
-| 1  | [第1人称](https://zh.wikipedia.org/wiki/Team_NIII_2nd_Stage“第1人称”公演#CKG48_Team_C_1st_Stage「第1人称」公演 "wikilink") | 2018年6月2日、3日 | [SNH48星梦剧院](https://zh.wikipedia.org/wiki/SNH48星梦剧院 "wikilink") | 2場 |
-|    |                                                                                                             |              |                                                                 |    |
-
-  - Team K
-
-| 序號 | 公演名稱                                                                                                        | 日期          | 剧场                                                              | 場次 |
-| -- | ----------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------- | -- |
-| 1  | [奇幻加冕禮](https://zh.wikipedia.org/wiki/Team_E_2nd_Stage「奇幻加冕禮」公演#CKG48_Team_K_1st_Stage「奇幻加冕禮」公演 "wikilink") | 2017年12月30日 | [SNH48星梦剧院](https://zh.wikipedia.org/wiki/SNH48星梦剧院 "wikilink") | 1場 |
-| 2  | [奇幻加冕禮](https://zh.wikipedia.org/wiki/Team_E_2nd_Stage「奇幻加冕禮」公演#CKG48_Team_K_1st_Stage「奇幻加冕禮」公演 "wikilink") | 2018年4月21日  | [GNZ48星梦剧院](https://zh.wikipedia.org/wiki/GNZ48星梦剧院 "wikilink") | 1場 |
-|    |                                                                                                             |             |                                                                 |    |
-
-### 重演时代艺术中心
+### 于重演时代艺术中心的公演
 
 **重演时代艺术中心**，是位于中国[重慶市](https://zh.wikipedia.org/wiki/重慶市 "wikilink")[渝中区重庆](../Page/渝中区.md "wikilink")[龙湖时代天街D馆](https://zh.wikipedia.org/wiki/龙湖地产 "wikilink")3楼的一座小型剧场，重慶絲芭文化将其租用后作为CKG48的固定演出场地，但亦有部分其他话剧及舞台剧团体在此演出\[26\]。
 
@@ -791,12 +807,11 @@ CKG99100118</p></td>
 
 由2019年3月16日起提供直播，目前仅在Bilibili进行单机位直播。因此运营商首度允许现场粉丝使用摄影设备进行拍照录像。
 
-| 序號 | 公演名稱                                                                | 日期          | 場次    |
-| -- | ------------------------------------------------------------------- | ----------- | ----- |
-| 1  | [少女•山茶•生命](https://zh.wikipedia.org/wiki/CKG48“少女·山茶”公演 "wikilink") | 2019年3月16日－ | 目前公演中 |
-| 2  | [少女•山茶•成长](https://zh.wikipedia.org/wiki/CKG48“少女·山茶”公演 "wikilink") |             |       |
-| 3  | [少女•山茶•绽放](https://zh.wikipedia.org/wiki/CKG48“少女·山茶”公演 "wikilink") |             |       |
-|    |                                                                     |             |       |
+| 序號 | 公演名稱                                                                     | 日期          | 場次    |
+| -- | ------------------------------------------------------------------------ | ----------- | ----- |
+| 1  | [Miss Camellia](https://zh.wikipedia.org/wiki/CKG48“少女·山茶”公演 "wikilink") | 2019年3月16日－ | 目前公演中 |
+| 2  | [奇幻的加冕旅程](https://zh.wikipedia.org/wiki/CKG48“奇幻的加冕旅程”公演 "wikilink")     | 2019年5月18日－ | 目前公演中 |
+|    |                                                                          |             |       |
 
 #### 附近交通
 
@@ -805,6 +820,32 @@ CKG99100118</p></td>
         [袁家岗站](https://zh.wikipedia.org/wiki/袁家岗站 "wikilink")
   - [重慶公交](https://zh.wikipedia.org/wiki/重慶公交 "wikilink")：
       - 225路;403路;411路;416路;466路;471路;476路;0493路;836路;873路;T019路
+
+### 其他剧场的公演
+
+  - Team C
+
+| 序號 | 公演名稱                                                                                                        | 日期           | 剧场                                                              | 場次 |
+| -- | ----------------------------------------------------------------------------------------------------------- | ------------ | --------------------------------------------------------------- | -- |
+| 1  | [第1人称](https://zh.wikipedia.org/wiki/Team_NIII_2nd_Stage“第1人称”公演#CKG48_Team_C_1st_Stage「第1人称」公演 "wikilink") | 2018年6月2日、3日 | [SNH48星梦剧院](https://zh.wikipedia.org/wiki/SNH48星梦剧院 "wikilink") | 2場 |
+|    |                                                                                                             |              |                                                                 |    |
+
+  - Team K
+
+| 序號 | 公演名稱                                                                                                        | 日期          | 剧场                                                              | 場次 |
+| -- | ----------------------------------------------------------------------------------------------------------- | ----------- | --------------------------------------------------------------- | -- |
+| 1  | [奇幻加冕禮](https://zh.wikipedia.org/wiki/Team_E_2nd_Stage「奇幻加冕禮」公演#CKG48_Team_K_1st_Stage「奇幻加冕禮」公演 "wikilink") | 2017年12月30日 | [SNH48星梦剧院](https://zh.wikipedia.org/wiki/SNH48星梦剧院 "wikilink") | 1場 |
+| 2  | [奇幻加冕禮](https://zh.wikipedia.org/wiki/Team_E_2nd_Stage「奇幻加冕禮」公演#CKG48_Team_K_1st_Stage「奇幻加冕禮」公演 "wikilink") | 2018年4月21日  | [GNZ48星梦剧院](https://zh.wikipedia.org/wiki/GNZ48星梦剧院 "wikilink") | 1場 |
+|    |                                                                                                             |             |                                                                 |    |
+
+## 集体代言及宣傳產品
+
+  - 中國
+
+| 代言/宣傳年份 | 產品        | 代言/宣傳成員 | 备注 |
+| ------- | --------- | ------- | -- |
+| 2019年   | 重庆加勒比海水世界 | CKG48   |    |
+|         |           |         |    |
 
 ## 注解
 

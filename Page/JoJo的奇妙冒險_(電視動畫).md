@@ -2566,7 +2566,7 @@ SHIN HYUNG WOO<br />
 <td><p>岩崎安利</p></td>
 <td><p>石本峻一<br />
 田中春香</p></td>
-<td><p>4月26日&lt;!--</p></td>
+<td><p>4月26日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2585,29 +2585,98 @@ destino</p></td>
 <tr class="odd">
 <td><p>Episodio 29</p></td>
 <td></td>
+<td><p>目的地是羅馬！競技場</p></td>
+<td><p>安川正吾</p></td>
+<td><p>久保雄介</p></td>
+<td><p>CHA MYOUNG JUN</p></td>
+<td><p>鈴木勘太</p></td>
+<td><p>石本峻一<br />
+田中春香</p></td>
+<td><p>5月11日</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>5月日</p></td>
 </tr>
 <tr class="even">
 <td><p>Episodio 30</p></td>
 <td></td>
+<td><p>年輕歲月與綠洲 其1</p></td>
+<td><p>川-{畑}-喬</p></td>
+<td><p>佐藤洋二</p></td>
+<td><p>SHIN HYUNG WOO<br />
+豐田曉子<br />
+小林理<br />
+高阪雅基<br />
+石本峻一<br />
+田中春香</p></td>
+<td><p>片山貴仁</p></td>
+<td><p>5月17日</p></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>5月日</p></td>
 </tr>
 <tr class="odd">
 <td><p>Episodio 31</p></td>
+<td></td>
+<td><p>年輕歲月與綠洲 其2</p></td>
+<td><p>筆安一幸</p></td>
+<td><p>藤本次朗</p></td>
+<td><p><a href="../Page/木村泰大.md" title="wikilink">木村泰大</a></p></td>
+<td><p>津曲大介<br />
+橫山謙次<br />
+木下由衣<br />
+森田莉奈</p></td>
+<td><p>鈴木勘太<br />
+片山貴仁</p></td>
+<td><p>石本峻一</p></td>
+<td><p>5月24日</p></td>
+</tr>
+<tr class="even">
+<td><p>Episodio 32</p></td>
+<td></td>
+<td><p>年輕歲月與綠洲 其3</p></td>
+<td><p>大原實</p></td>
+<td><p>長田伸二</p></td>
+<td><p>石本峻一<br />
+森藤希子<br />
+高阪雅基<br />
+長田伸二<br />
+鄧佳湄<br />
+津曲大介<br />
+千葉山夏惠<br />
+CHA MYOUNG JUN<br />
+豐田曉子<br />
+木下由衣</p></td>
+<td><p>岩崎安利<br />
+鈴木勘太</p></td>
+<td><p>石本峻一<br />
+田中春香</p></td>
+<td><p>5月31日&lt;!--</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Episodio 33</p></td>
+<td></td>
+<td><p>其名為迪亞波羅</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>月日</p></td>
+</tr>
+<tr class="even">
+<td><p>Episodio 34</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>月日</p></td>
+</tr>
+<tr class="odd">
+<td><p>Episodio 35</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2619,19 +2688,7 @@ destino</p></td>
 <td><p>月日</p></td>
 </tr>
 <tr class="even">
-<td><p>Episodio 32</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td><p>月日</p></td>
-</tr>
-<tr class="odd">
-<td><p>Episodio 33</p></td>
+<td><p>Episodio 36</p></td>
 <td></td>
 <td></td>
 <td></td>

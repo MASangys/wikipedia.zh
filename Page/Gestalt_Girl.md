@@ -4,7 +4,7 @@ Girl**（日語：），是一支以全[日語歌詞創作的台灣搖滾樂團]
 ## 簡歷
 
 Gestalt Girl（ゲシュタルト乙女）於2016年1月成立，由
-Mikan（主唱/吉他手）、Kaiaki（吉他手）、Croc（貝斯手）、Cho（鼓手）組成\[1\]。樂團名字取自[心理學中](https://zh.wikipedia.org/wiki/心理學 "wikilink")[格式塔學派的](https://zh.wikipedia.org/wiki/格式塔學派 "wikilink")「[完形心理學](https://zh.wikipedia.org/wiki/完形心理學 "wikilink")」，意為團員各有獨立風格，互相組合下能展現嶄新音樂風貌，而「乙女」二字則代表樂團充滿各種可能\[2\]，2017年2月發行首張迷你專輯《[タイムトラベル](https://zh.wikipedia.org/wiki/タイムトラベル "wikilink")》\[3\]，翌年再推出第二張迷你專輯《[生まれ変わったら](https://zh.wikipedia.org/wiki/生まれ変わったら "wikilink")》\[4\]，並在日本獲得好評\[5\]。
+Mikan（主唱/吉他手）、Kaiaki（吉他手）、Yú（貝斯手）組成\[1\]。樂團名字取自[心理學中](https://zh.wikipedia.org/wiki/心理學 "wikilink")[格式塔學派的](https://zh.wikipedia.org/wiki/格式塔學派 "wikilink")「[完形心理學](https://zh.wikipedia.org/wiki/完形心理學 "wikilink")」，意為團員各有獨立風格，互相組合下能展現嶄新音樂風貌，而「乙女」二字則代表樂團充滿各種可能\[2\]，2017年2月發行首張迷你專輯《[タイムトラベル](https://zh.wikipedia.org/wiki/タイムトラベル "wikilink")》\[3\]，翌年再推出第二張迷你專輯《[生まれ変わったら](https://zh.wikipedia.org/wiki/生まれ変わったら "wikilink")》\[4\]，並在日本獲得好評\[5\]。
 
 ## 樂團成員
 
@@ -13,8 +13,7 @@ Mikan（主唱/吉他手）、Kaiaki（吉他手）、Croc（貝斯手）、Cho�
 | **名稱** | **出生日期** | **學歷** | **擔當位置** |
 | MIkan  |          |        | 主音、吉他手   |
 | Kaiaki |          |        | 吉他手      |
-| Croc   |          |        | 貝斯手      |
-| Cho    |          |        | 鼓手       |
+| Yú     |          |        | 貝斯手      |
 |        |          |        |          |
 
 ## 音樂作品

@@ -54,9 +54,7 @@ Chrome扩展程序中心](https://zh.wikipedia.org/wiki/Google_Chrome扩展程�
 ## 外部链接
 
   -
-[Category:软件附加组件](https://zh.wikipedia.org/wiki/Category:软件附加组件 "wikilink")
-[Category:Google_Chrome](https://zh.wikipedia.org/wiki/Category:Google_Chrome "wikilink")
-[Category:Google_Chrome扩展程序](https://zh.wikipedia.org/wiki/Category:Google_Chrome扩展程序 "wikilink")
+[Category:Google_Chrome扩展](https://zh.wikipedia.org/wiki/Category:Google_Chrome扩展 "wikilink")
 [Category:Vivaldi_(浏览器)](https://zh.wikipedia.org/wiki/Category:Vivaldi_\(浏览器\) "wikilink")
 
 1.

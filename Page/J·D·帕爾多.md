@@ -3,7 +3,10 @@ Pardo**，）是美國的一位演員。他的父親是阿根廷人，母親是�
 
 ## 參考資料
 
-[Category:美國演員](https://zh.wikipedia.org/wiki/Category:美國演員 "wikilink")
+[Category:阿根廷裔美国人](https://zh.wikipedia.org/wiki/Category:阿根廷裔美国人 "wikilink")
+[Category:薩爾瓦多裔美國人](https://zh.wikipedia.org/wiki/Category:薩爾瓦多裔美國人 "wikilink")
+[Category:美國電視男演員](https://zh.wikipedia.org/wiki/Category:美國電視男演員 "wikilink")
+[Category:美國電影男演員](https://zh.wikipedia.org/wiki/Category:美國電影男演員 "wikilink")
 
 1.
 2.

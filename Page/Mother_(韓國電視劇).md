@@ -540,7 +540,7 @@ Asia於新加坡和馬來西亞於韓國播放後](https://zh.wikipedia.org/wiki
 
   - [韓國tvN官方網站](http://program.tving.com/tvn/mother/)
   - [tvN水木連續劇](https://www.facebook.com/tvNWedThuDrama/)FB官方專頁
-  - [MOTHER](http://movie.daum.net/tv/main?tvProgramId=78420)
+  - [MOTHER](https://web.archive.org/web/20180208230234/http://movie.daum.net/tv/main?tvProgramId=78420)
     [DAUM](../Page/多音.md "wikilink")
   - [MOTHER](http://m.entertain.naver.com/tvBrand/4193240)
     [NAVER](../Page/NAVER.md "wikilink")

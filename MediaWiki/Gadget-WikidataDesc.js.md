@@ -65,7 +65,7 @@ mw.loader.using('mediawiki.ForeignApi').done(function () {
 `')`
 `                       .append($save)`
 `                       .append($cancel);`
-`   var CSS = '#wikidatadesc .text { color: gray; font-size: medium; } #wikidatadesc .editbox { width: 100%; padding: 4px; border: none; border-bottom: 1px solid #ccc; box-sizing: border-box; } #wikidatadesc .editbox:focus { border-bottom: 1px solid #0645ad; } #wikidatadesc .option { font-size: smaller; }';`
+`   var CSS = '#wikidatadesc .text { color: #54595d; font-size: medium; } #wikidatadesc .editbox { width: 100%; padding: 4px; border: none; border-bottom: 1px solid #ccc; box-sizing: border-box; } #wikidatadesc .editbox:focus { border-bottom: 1px solid #0645ad; } #wikidatadesc .option { font-size: smaller; }';`
 
 `   var status = 0;         // 0 显示，1 编辑`
 `   var loaded = false;`
@@ -208,10 +208,11 @@ mw.loader.using('mediawiki.ForeignApi').done(function () {
 `           meta:   'tokens'`
 `       }).done(function (data) {`
 `           if (id == 'NE') {`
-`               var jdata = '{"labels":{"zh":{"language":"zh","value":"'`
-`                           + pagename + '"}}, "descriptions":{"zh":{"language":"zh","value":"'`
-`                           + newdesc + '"}}, "sitelinks":{"zhwiki":{"site":"zhwiki","title":"'`
-`                           + pagename + '"}}}';`
+`               var jdata = JSON.Stringify({`
+`                   labels: {zh: {language: 'zh', value: pagename}},`
+`                   descriptions: {zh: {language: 'zh', value: newdesc}},`
+`                   sitelinks: {zhwiki: {site: 'zhwiki', title: pagename}},`
+`               });`
 `               api.post({`
 `                   action: 'wbeditentity',`
 `                   'new':    'item',`

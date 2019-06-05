@@ -250,8 +250,8 @@ KT-7.62mm同轴机枪<br />
     可充當攻堅主力](http://hk.huaxia.com/thjq/jswz/2012/11/3065429.html)
 2.  [Kharkiv Machine Design Bureau designed new version of BTR-4 with
     additional
-    protection](http://wartime.org.ua/9610-hkbm-vigotovilo-noviy-varant-btr-4e1-z-dodatkovim-zahistom.html).
-    Military panorama. March 12, 2014.
+    protection](http://wartime.org.ua/9610-hkbm-vigotovilo-noviy-varant-btr-4e1-z-dodatkovim-zahistom.html)
+    . Military panorama. March 12, 2014.
 3.  [SpetsTechnoExport of Ukraine awarded contract to supply 5 BTR-4 8x8
     armoured to
     Indonesia](http://www.armyrecognition.com/january_2014_global_defense_security_news_industry/spetstechnoexport_of_ukraine_awarded_contract_to_supply_5_btr-4_8x8_armoured_to_indonesia_2401143.html)

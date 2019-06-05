@@ -181,8 +181,8 @@ Reuters的[ResearcherID系统](../Page/ResearcherID.md "wikilink")\[56\]、\[57\
 44. <cite class="citation web">Meadows, Alice (22 June 2015). </cite>
 45. <cite class="citation web">["NHMRC and ARC Statement on Open
     Researcher and Contributor ID
-    (ORCID)"](https://www.nhmrc.gov.au/grants-funding/policy/nhmrc-and-arc-statement-open-researcher-and-contributor-id-orcid).
-    </cite>
+    (ORCID)"](https://www.nhmrc.gov.au/grants-funding/policy/nhmrc-and-arc-statement-open-researcher-and-contributor-id-orcid)
+    . </cite>
 46. <cite class="citation web">["Announcements"](http://www.jneurosci.org/site/misc/announcementspage.xhtml)
     . </cite>
 47. <cite class="citation web">["The Journal of Neuroscience Rolls Out
@@ -209,7 +209,7 @@ Reuters的[ResearcherID系统](../Page/ResearcherID.md "wikilink")\[56\]、\[57\
     integration"](http://figshare.com/blog/figshare_ORCID_integration/86).
     </cite>
 56. <cite class="citation web">["RID - ORCID Integration - IP &
-    Science"](http://wokinfo.com/researcherid/integration/). </cite>
+    Science"](http://wokinfo.com/researcherid/integration/) . </cite>
 57. <cite class="citation web">["Researchfish now integrating with the
     ORCID registry"](https://www.researchfish.com/node/2525) . </cite>
 58. <cite class="citation web">["British Library EThOS - about searching

@@ -18,7 +18,9 @@ Sugar Life](../Page/Happy_Sugar_Life.md "wikilink")》的片尾曲。\[6\]
 
 ## 音樂作品
 
-### 單曲
+### 以ReoNa名義
+
+#### 單曲
 
 | 編號    | 發售日        | 標題                  | 規格編號                  | [Oricon排名](../Page/Oricon.md "wikilink") |
 | ----- | ---------- | ------------------- | --------------------- | ---------------------------------------- |
@@ -26,7 +28,22 @@ Sugar Life](../Page/Happy_Sugar_Life.md "wikilink")》的片尾曲。\[6\]
 | 1st   | 2018年8月29日 | **SWEET HURT**\[7\] | VVCL-1285 ～ VVCL-1286 | VVCL-1287                                |
 | 2nd   | 2019年2月6日  | **forget-me-not**   | VVCL-1388 ～ VVCL-1389 | VVCL-1390                                |
 
-### 迷你專輯
+#### 参加作品
+
+| 发售日        | 名称                                    | 规格        | 参加曲目             |
+| ---------- | ------------------------------------- | --------- | ---------------- |
+| 2019年1月23日 | **MiX ～面白いほどよくわかるノンストップSACRA MUSIC～** | VVCL-1387 | **「SWEET HURT」** |
+
+### 以神崎エルザ starring ReoNa名義
+
+#### 單曲
+
+| 編號    | 發售日           | 標題           | 規格編號        | [Oricon排名](../Page/Oricon.md "wikilink") |
+| ----- | ------------- | ------------ | ----------- | ---------------------------------------- |
+| 初回限定盤 | 通常盤           |              |             |                                          |
+| 1st   | 2019年06月26日予定 | **Prologue** | VVCL-1466/7 | VVCL-1468                                |
+
+#### 迷你專輯
 
 <table>
 <tbody>
@@ -67,11 +84,69 @@ Sugar Life](../Page/Happy_Sugar_Life.md "wikilink")》的片尾曲。\[6\]
 </tbody>
 </table>
 
-### 参加作品
+### 商業搭配
 
-| 发售日        | 名称                                    | 规格        | 参加曲目             |
-| ---------- | ------------------------------------- | --------- | ---------------- |
-| 2019年1月23日 | **MiX ～面白いほどよくわかるノンストップSACRA MUSIC～** | VVCL-1387 | **「SWEET HURT」** |
+<table>
+<thead>
+<tr class="header">
+<th><p>乐曲</p></th>
+<th><p>商业搭配</p></th>
+<th><p>时间</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>電視動畫『<a href="../Page/刀劍神域外傳Gun_Gale_Online.md" title="wikilink">刀劍神域外傳Gun Gale Online</a>』第2、3話插曲</p></td>
+<td><p>2018年</p></td>
+</tr>
+<tr class="even">
+<td><p>step, step</p></td>
+<td><p>電視動畫『刀劍神域外傳Gun Gale Online』第4話插曲</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Independence</p></td>
+<td><p>電視動畫『刀劍神域外傳Gun Gale Online』第5話、5.5、11話插曲</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>電視動畫『刀劍神域外傳Gun Gale Online』第6話插曲</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Disorder</p></td>
+<td><p>電視動畫『刀劍神域外傳Gun Gale Online』第9話插曲</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Rea(s)oN</p></td>
+<td><p>電視動畫『刀劍神域外傳Gun Gale Online』第12話插曲</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>SWEET HURT</p></td>
+<td><p>電視動畫『<a href="../Page/Happy_Sugar_Life.md" title="wikilink">Happy Sugar Life</a>』片尾曲</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>電視動畫『Happy Sugar Life』第9話插曲</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>forget-me-not</p></td>
+<td><p>電視動畫『<a href="https://zh.wikipedia.org/wiki/刀劍神域" title="wikilink">刀劍神域</a> Alicization篇』第二期片尾曲</p></td>
+<td><p>2019年</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>電視動畫『刀劍神域 Alicization篇』第19、24話插曲</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 演出
 

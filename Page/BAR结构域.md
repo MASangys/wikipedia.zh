@@ -7,7 +7,7 @@
 
 ## 外部链接
 
-  - [endocytosis.org](http://www.endocytosis.org/BARdomains/BARs.html)
+  - [endocytosis.org](https://web.archive.org/web/20130727122243/http://www.endocytosis.org/BARdomains/BARs.html)
 
 [Category:外周膜蛋白](https://zh.wikipedia.org/wiki/Category:外周膜蛋白 "wikilink")
 [Category:蛋白质域](https://zh.wikipedia.org/wiki/Category:蛋白质域 "wikilink")

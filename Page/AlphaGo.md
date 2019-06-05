@@ -16,13 +16,13 @@ AlphaGo的研究計劃於2014年啟動，此後和之前的围棋程序相比表
 Stone和Zen等其他围棋程序的500局比赛中\[16\]，单机版AlphaGo（运行于一台电脑上）仅输一局\[17\]。而在其后的对局中，分布式版AlphaGo（以[分散式運算运行于多台电脑上](https://zh.wikipedia.org/wiki/分散式運算 "wikilink")）在500局比赛中全部获胜，且對抗運行在單機上的AlphaGo约有77%的勝率。2015年10月的分散式運算版本AlphaGo使用了1,202块[CPU及](https://zh.wikipedia.org/wiki/CPU "wikilink")176块[GPU](https://zh.wikipedia.org/wiki/GPU "wikilink")。\[18\]
 
   - 2015年10月，AlphaGo击败[樊麾](../Page/樊麾.md "wikilink")，成为第一个無需[让子即可在](https://zh.wikipedia.org/wiki/圍棋的讓子 "wikilink")19路棋盘上击败围棋[职业棋士的](https://zh.wikipedia.org/wiki/职业棋士 "wikilink")[电脑围棋程序](https://zh.wikipedia.org/wiki/电脑围棋 "wikilink")，寫下了歷史，並於2016年1月發表在知名期刊《[自然](../Page/自然_\(期刊\).md "wikilink")》。\[19\]\[20\]
-  - 2016年3月，透過自我對弈數以萬計盤進行練習強化，AlphaGo在一场[五番棋比赛中](../Page/AlphaGo李世乭五番棋.md "wikilink")4:1击败頂尖职业棋手[李世乭](../Page/李世乭.md "wikilink")，成为第一个不借助让子而击败[围棋职业九段棋士的电脑围棋程序](../Page/围棋段位制.md "wikilink")，立下了里程碑。\[21\]五局賽後[韓國棋院授予AlphaGo有史以來第一位](https://zh.wikipedia.org/wiki/韓國棋院 "wikilink")[名譽職業九段](https://zh.wikipedia.org/wiki/圍棋段位制 "wikilink")\[22\]。
+  - 2016年3月，透過自我對弈數以萬計盤進行練習強化，AlphaGo在一场[五番棋比赛中](https://zh.wikipedia.org/wiki/AlphaGo李世石五番棋 "wikilink")4:1击败頂尖职业棋手[李世石](https://zh.wikipedia.org/wiki/李世石 "wikilink")，成为第一个不借助让子而击败[围棋职业九段棋士的电脑围棋程序](../Page/围棋段位制.md "wikilink")，立下了里程碑。\[21\]五局賽後[韓國棋院授予AlphaGo有史以來第一位](https://zh.wikipedia.org/wiki/韓國棋院 "wikilink")[名譽職業九段](https://zh.wikipedia.org/wiki/圍棋段位制 "wikilink")\[22\]。
   - 2016年7月18日，因[柯洁那段时间状态不佳](../Page/柯洁.md "wikilink")，其在[Go
     Ratings網站上的WHR等级分下滑](../Page/Go_Ratings.md "wikilink")，AlphaGo得以在Go
     Ratings网站的排名中位列世界第一，但几天之后，柯洁便又反超了AlphaGo\[23\]。2017年2月初，Go
     Ratings网站删除了AlphaGo、[DeepZenGo等围棋人工智能在该网站上的所有信息](../Page/DeepZenGo.md "wikilink")。
   - 2016年12月29日至2017年1月4日，再度強化的AlphaGo以「[Master](../Page/Master_\(围棋软件\).md "wikilink")」為帳號名稱，在未公開其真實身分的情況下，-{zh-cn:借;zh-tw:藉;}-非正式的網路快棋對戰進行測試，挑戰中韓日台的一流高手，測試結束时60戰全勝\[24\]。
-  - 2017年5月23至27日在[烏鎮圍棋峰會上](https://zh.wikipedia.org/wiki/烏鎮圍棋峰會 "wikilink")，最新的強化版AlphaGo和世界第一棋士柯潔比試、並配合八段棋士協同作戰與對決五位頂尖九段棋士等五場比賽，取得三比零全勝的戰績，團隊戰與組隊戰也全勝，此次AlphaGo利用谷歌TPU執行，加上快速進化的機器學習法，運算資源消耗僅李世乭版本的十分之一。\[25\]在与柯洁的比赛结束后，[中国围棋协会授予AlphaGo](../Page/中国围棋协会.md "wikilink")[职业围棋九段的称号](../Page/围棋段位制.md "wikilink")。\[26\]
+  - 2017年5月23至27日在[烏鎮圍棋峰會上](https://zh.wikipedia.org/wiki/烏鎮圍棋峰會 "wikilink")，最新的強化版AlphaGo和世界第一棋士柯潔比試、並配合八段棋士協同作戰與對決五位頂尖九段棋士等五場比賽，取得三比零全勝的戰績，團隊戰與組隊戰也全勝，此次AlphaGo利用谷歌TPU執行，加上快速進化的機器學習法，運算資源消耗僅李世石版本的十分之一。\[25\]在与柯洁的比赛结束后，[中国围棋协会授予AlphaGo](../Page/中国围棋协会.md "wikilink")[职业围棋九段的称号](../Page/围棋段位制.md "wikilink")。\[26\]
 
 AlphaGo在沒有人類對手後，AlphaGo之父[杰米斯·哈萨比斯宣布AlphaGo退役](../Page/杰米斯·哈萨比斯.md "wikilink")。而從業餘棋士的水平到世界第一，AlphaGo的棋力取得這樣的進步，僅僅花了-{zh-cn:两;zh-tw:二;}-年左右。
 最終版本 Alpha Zero 可自我學習

@@ -147,7 +147,7 @@
 <table>
 <tbody>
 <tr class="odd">
-<td><p><a href="http://www.linux.org.au/conf/2002/debiancon.html">Debian GNU/Linux: Australian Mini-Conference 2002</a></p></td>
+<td><p><a href="https://web.archive.org/web/20080722051829/http://www.linux.org.au/conf/2002/debiancon.html">Debian GNU/Linux: Australian Mini-Conference 2002</a></p></td>
 <td><p>2002</p></td>
 <td><p>2月4日至2月5日</p></td>
 <td><p><a href="../Page/布里斯班.md" title="wikilink">布里斯班</a></p></td>

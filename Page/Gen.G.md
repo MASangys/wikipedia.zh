@@ -26,9 +26,9 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 <thead>
 <tr class="header">
 <th><p>ID</p></th>
-<th><p>名字[3][4]</p></th>
+<th><p>名字[3]</p></th>
 <th><p>位置</p></th>
-<th><p>生日[5]</p></th>
+<th><p>生日[4]</p></th>
 <th><p>國籍</p></th>
 </tr>
 </thead>
@@ -55,22 +55,50 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 <td></td>
 </tr>
 <tr class="even">
+<td><p>SeongHwan</p></td>
+<td><p>尹成愌</p></td>
+<td><p>打野</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>Fly</p></td>
 <td><p>宋鏞浚</p></td>
 <td><p>中路</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>Kuzan</p></td>
+<td><p>李晟赫</p></td>
+<td><p>中路</p></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="odd">
+<td><p>Rich</p></td>
+<td><p>李在元</p></td>
+<td><p>中路</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>Ruler</p></td>
 <td><p>朴載赫</p></td>
 <td><p>ADC</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Life</p></td>
 <td><p>金玎玟</p></td>
+<td><p>輔助</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Asper</p></td>
+<td><p>金太基</p></td>
 <td><p>輔助</p></td>
 <td></td>
 <td></td>
@@ -84,7 +112,7 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 <thead>
 <tr class="header">
 <th><p>ID</p></th>
-<th><p>名字[6]</p></th>
+<th><p>名字[5]</p></th>
 <th><p>位置</p></th>
 <th><p>國籍</p></th>
 </tr>
@@ -104,7 +132,7 @@ Gen.G参加了2018年的英雄联盟全球总决赛，尽管作为卫冕冠军�
 </tr>
 <tr class="odd">
 <td><p>Haru</p></td>
-<td><p>姜珉丞[7]</p></td>
+<td><p>姜珉丞[6]</p></td>
 <td><p>打野</p></td>
 <td></td>
 </tr>
@@ -228,4 +256,3 @@ Gen.G风暴英雄战队成立于2017年七月，这支队伍在2018年暴雪嘉�
 4.
 5.
 6.
-7.

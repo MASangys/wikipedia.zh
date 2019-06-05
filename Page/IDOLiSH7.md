@@ -667,7 +667,7 @@ MX播出，第一、二話為一小時特番，第三話開始正常播放。台
 <tr class="odd">
 <td><p>#1</p></td>
 <td></td>
-<td></td>
+<td><p>TRIGGER -before the Radiant Glory 前篇</p></td>
 <td><p>中西泰博</p></td>
 <td><p>青木英</p></td>
 <td><p>馬川奈央</p></td>
@@ -676,7 +676,7 @@ MX播出，第一、二話為一小時特番，第三話開始正常播放。台
 <tr class="even">
 <td><p>#2</p></td>
 <td></td>
-<td></td>
+<td><p>TRIGGER -before the Radiant Glory 後篇</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -685,7 +685,7 @@ MX播出，第一、二話為一小時特番，第三話開始正常播放。台
 <tr class="odd">
 <td><p>#3</p></td>
 <td></td>
-<td></td>
+<td><p>被捲入事件的男子 前篇</p></td>
 <td><p>林宏樹</p></td>
 <td><p>渡部周</p></td>
 <td><p>サトウミチオ、古矢好二、丸岡功治、岡崎洋美、森美幸、加藤里香</p></td>
@@ -694,7 +694,7 @@ MX播出，第一、二話為一小時特番，第三話開始正常播放。台
 <tr class="even">
 <td><p>#4</p></td>
 <td></td>
-<td></td>
+<td><p>被捲入事件的男子 後篇</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -703,7 +703,7 @@ MX播出，第一、二話為一小時特番，第三話開始正常播放。台
 <tr class="odd">
 <td><p>#5</p></td>
 <td></td>
-<td></td>
+<td><p>PARTY TIME TOGETHER 前篇</p></td>
 <td><p>綾奈由仁子</p></td>
 <td><p>志賀翔子</p></td>
 <td><p>猪股雅美、サトウミチオ、古矢好二、丸岡功治、岡崎洋美、鈴木春香、杉本幸子</p></td>
@@ -712,7 +712,7 @@ MX播出，第一、二話為一小時特番，第三話開始正常播放。台
 <tr class="even">
 <td><p>#6</p></td>
 <td></td>
-<td></td>
+<td><p>PARTY TIME TOGETHER 後篇</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -721,16 +721,16 @@ MX播出，第一、二話為一小時特番，第三話開始正常播放。台
 <tr class="odd">
 <td><p>#7</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>NATSU☆狂歡一夏！ 前篇</p></td>
+<td><p>關根步美</p></td>
+<td><p>別所誠人</p></td>
+<td><p>馬川奈央</p></td>
+<td><p>猪股雅美、サトウミチオ、古矢好二、杉本幸子、丸岡功治、成松義人、岡崎洋美</p></td>
 </tr>
 <tr class="even">
 <td><p>#8</p></td>
 <td></td>
-<td></td>
+<td><p>NATSU☆狂歡一夏！ 後篇</p></td>
 <td></td>
 <td></td>
 <td></td>

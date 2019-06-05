@@ -1665,7 +1665,7 @@ Bus自從成立以來，除了有位於東京都的總部之外，另外有在�
 <tr class="odd">
 <td><p>2013年</p></td>
 <td><p>2015年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鑽石王牌" title="wikilink">鑽石王牌</a></p></td>
+<td><p><a href="../Page/鑽石王牌.md" title="wikilink">鑽石王牌</a></p></td>
 <td></td>
 <td><p>MADHOUSE、Production I.G</p></td>
 <td><p>漫畫</p></td>

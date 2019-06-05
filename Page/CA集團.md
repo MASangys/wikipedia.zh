@@ -272,12 +272,13 @@ Mart](../Page/DMM.com.md "wikilink")、[TIS等](../Page/TIS.md "wikilink")4家�
   - 東京スペシャル（「[偷窺](https://zh.wikipedia.org/wiki/偷窺 "wikilink")」専門製造商）（2009年10月設立）
     [官方網站](https://web.archive.org/web/20160229235151/http://www.tokyo-special.com/)
 
-  - （「[亂交](../Page/群交.md "wikilink")」専門製造商）（2012年5月設立）[官方網站](http://www.zukobako.jp/)
+  - （「[亂交](../Page/群交.md "wikilink")」専門製造商）（2012年5月設立）[官方網站](https://web.archive.org/web/20160303213222/http://www.zukobako.jp/)
 
   - キャンディ（2013年1月設立）
     [官方網站](https://web.archive.org/web/20160304204604/http://www.candy-av.com/)
 
-  - teamZERO（2013年10月設立） [官方網站](http://www.team-zero.tv/)
+  - teamZERO（2013年10月設立）
+    [官方網站](https://web.archive.org/web/20160217182138/http://www.team-zero.tv/)
 
   - ヤリマン伝説（2016年1月設立）
     [官方網站](https://web.archive.org/web/20160221155533/http://www.yariman-d.com/)

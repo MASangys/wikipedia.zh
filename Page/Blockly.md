@@ -47,7 +47,7 @@ Blockly 被使用在一些著名的计画中，其中包括：
     [SVG](https://zh.wikipedia.org/wiki/可缩放向量图形 "wikilink")，而不是使用
     Flash
   - 可完全客户端运行的 JavaScript
-  - 支持主要的网路浏览器包括：Chrome，
+  - 支持主要的网络浏览器包括：Chrome，
     [Firefox](../Page/Firefox.md "wikilink")，[Safari](../Page/Safari.md "wikilink")，Opera，IE
   - 支持行动载具，如 [安卓](../Page/Android.md "wikilink") 以及 [iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")
   - 支持许多程式设计架构，包括变数，函数， 阵列等

@@ -28,7 +28,27 @@ X Machi Asobi Vol.4」中募集配音員\[2\]。
 
 ## 單行本
 
-  - 第1本 ISBN 978-4-8322-7684-0 2008年2月發售
+<table>
+<thead>
+<tr class="header">
+<th><p>冊數</p></th>
+<th><p><a href="../Page/芳文社.md" title="wikilink">芳文社</a></p></th>
+<th><p><a href="../Page/尚禾文化.md" title="wikilink">尚禾文化</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2008年2月27日</p></td>
+<td><p>ISBN 978-4-8322-7684-0</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 動畫
 

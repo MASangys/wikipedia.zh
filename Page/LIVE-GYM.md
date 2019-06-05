@@ -5,7 +5,7 @@
 在1989年6月舉辦了首次獨立公演『B'z LIVE-GYM \#00 "OFF THE ROCK"』後」、「不是辦在LIVE
 HOUSE，起初就要從音樂廳開始發展{{\#tag:ref||group="原文"}}」。這是因為希望能僅以他們自身創作的樂曲來構成演唱會，與考量到為了增加[黑膠唱片及](../Page/黑膠唱片.md "wikilink")[雷射唱片](https://zh.wikipedia.org/wiki/雷射唱片 "wikilink")（CD）的銷量，因此比起在日本全國各地的[LIVE
 HOUSE巡演](https://zh.wikipedia.org/wiki/展演空間 "wikilink")，不如更想做宣傳活動。此外，由於當時松本任職了[YAMAHA的評論員](https://zh.wikipedia.org/wiki/YAMAHA "wikilink")，在YAMAHA各店鋪舉辦了「吉他研討會」，在研討會後與同行的稻葉一同披露B'z等，巡迴於日本全國各地做宣傳活動。}}，「製作作品」與「巡演」成為了B'z的主要活動\[1\]。迄今為止，除了從[LIVE
-HOUSE到](https://zh.wikipedia.org/wiki/展演空間 "wikilink")[音樂廳](https://zh.wikipedia.org/wiki/音樂廳 "wikilink")、[競技場](https://zh.wikipedia.org/wiki/競技場 "wikilink")、[巨蛋](../Page/巨蛋.md "wikilink")、[體育場](https://zh.wikipedia.org/wiki/體育場 "wikilink")，在不同規模的會場舉辦了演唱會以外，亦會在日本國外舉辦演唱會。此外，亦有機會在等活動上出演。2017年開設了B'z演唱會情報、門票販售情報官方網站「B'z
+HOUSE到](https://zh.wikipedia.org/wiki/展演空間 "wikilink")、[競技場](https://zh.wikipedia.org/wiki/競技場 "wikilink")、[巨蛋](../Page/巨蛋.md "wikilink")、[體育場](https://zh.wikipedia.org/wiki/體育場 "wikilink")，在不同規模的會場舉辦了演唱會以外，亦會在日本國外舉辦演唱會。此外，亦有機會在等活動上出演。2017年開設了B'z演唱會情報、門票販售情報官方網站「B'z
 Club-Gym」\[2\]。
 
 關於名稱「LIVE-GYM」，是當時所屬的唱片公司「[BMG
@@ -19,7 +19,7 @@ VICTOR](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")」表示想到了適
 
 ### Pleasure巡演
 
-Pleasure巡演是不會發售原創專輯的系列演唱會，標題取自8th單曲「[LADY
+Pleasure巡演是不會發售原創專輯的演唱會系列，標題由來取自8th單曲「[LADY
 NAVIGATION](../Page/LADY_NAVIGATION.md "wikilink")」的2nd
 beat（[Coupling](../Page/A面與B面.md "wikilink")）「Pleasure '91
 〜人生の快楽〜」\[5\]。在1991年『B'z LIVE-GYM "Pleasure
@@ -1197,7 +1197,7 @@ Official Concert International Day</a></p></td>
 <tr class="odd">
 <td><p>2006年9月1日</p></td>
 <td><p><a href="../Page/B&#39;z_LIVE_in_なんば.md" title="wikilink">B'z NETWORK LIVE in Japan</a></p></td>
-<td><p><strong>1會場1公演</strong> - <a href="../Page/湊町河畔.md" title="wikilink">難波Hatch</a> B'z的首次邀請制演唱會。由<a href="https://zh.wikipedia.org/wiki/DWANGO" title="wikilink">DWANGO贊助</a>。日後，這場演唱會的模樣由美國Control Room（當時的Network LIVE）公司進行了全世界轉播。首次披露了「<a href="../Page/HOME_(B&#39;z單曲).md" title="wikilink">HOME</a>」的英語版。作為『B'z Live in なんば』影像作品化。2010年亦作為『B'z LIVE in なんば 2006 &amp; B'z SHOWCASE 2007 -19- at Zepp Tokyo』發售。<br />
+<td><p><strong>1會場1公演</strong> - <a href="../Page/湊町河畔.md" title="wikilink">難波Hatch</a> B'z的首次邀請制演唱會。由<a href="https://zh.wikipedia.org/wiki/DWANGO" title="wikilink">DWANGO贊助</a>。日後，這場演唱會的模樣由美國Control Room（當時的Network LIVE）公司進行了全世界轉播。首次披露了「<a href="../Page/HOME_(B&#39;z單曲).md" title="wikilink">HOME</a>」的英語版本。作為『B'z Live in なんば』影像作品化。2010年亦作為『B'z LIVE in なんば 2006 &amp; B'z SHOWCASE 2007 -19- at Zepp Tokyo』發售。<br />
 <strong>EDSE</strong> - 「BUDDY」</p></td>
 </tr>
 <tr class="even">
@@ -1697,7 +1697,7 @@ at EX THEATER ROPPONGI</p></td>
 <tr class="odd">
 <td><p>2017年7月11日</p></td>
 <td><p>B'z SHOWCASE 2017 -必殺日置人-</p></td>
-<td><p><strong>1會場1公演</strong> - 日置市伊集院文化会館 標題取自。成為了首次在B'z In Your Town巡演開始前舉辦SHOWCASE。</p></td>
+<td><p><strong>1會場1公演</strong> - 日置市伊集院文化会館 標題由來取自『』。成為了首次在B'z In Your Town巡演開始前舉辦SHOWCASE。</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年7月13日 - 8月9日</p></td>
@@ -1814,6 +1814,12 @@ B'z Pleasure in Hawaii</p></td>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>2019年6月4日</p></td>
+<td><p>B'z SHOWCASE 2019<br />
+-魔界転翔-</p></td>
+<td><p><strong>1會場1公演</strong> - 天草市民センター 標題由來取自『<a href="../Page/魔界轉生.md" title="wikilink">魔界轉生</a>』。</p></td>
+</tr>
+<tr class="even">
 <td><p>2019年6月8日 - 9月10日</p></td>
 <td><p>B'z LIVE-GYM 2019<br />
 -Whole Lotta NEW LOVE-</p></td>
@@ -1824,12 +1830,12 @@ B'z Pleasure in Hawaii</p></td>
 <div class="NavContent" style="text-align:left;">
 </div>
 </div>
-<p>成為了自「B'z LIVE-GYM '98 "SURVIVE"」以來，支援樂手全體換新的巡演[48]。</p></td>
+<p>由來自作為一個樂團該有所改變了這樣的成員意向，成為了自「B'z LIVE-GYM '98 "SURVIVE"」以來，支援樂手全體換新的巡演[48][49]。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年8月16日・18日</p></td>
 <td><p>SUMMER SONIC 2019</p></td>
-<td><p><strong>2會場2公演</strong> - <a href="../Page/千葉海洋球場.md" title="wikilink">ZOZO海洋球場</a>＆<a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a>、舞洲SONIC PARK 作為B'z是睽違10年[49]的第3次出演。成為了SUMMER SONIC史上首次聘邀日本藝人作為主打音樂人[50]。</p></td>
+<td><p><strong>2會場2公演</strong> - <a href="../Page/千葉海洋球場.md" title="wikilink">ZOZO海洋球場</a>＆<a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a>、舞洲SONIC PARK 作為B'z是睽違10年[50]的第3次出演。成為了SUMMER SONIC史上首次聘邀日本藝人作為主打音樂人[51]。</p></td>
 </tr>
 </tbody>
 </table>
@@ -1995,7 +2001,7 @@ DVD版、BD版一同收錄了巡演紀錄片DVD。</p></td>
 2010年12月22日 (Blu-ray Disc)</p></td>
 <td><p>BMBV-5001 (DVD)<br />
 BMXV-1002 - 3 (Blu-ray Disc)</p></td>
-<td><p>雖是Network Live（現・Control Room）擁有所有權的影像，但因權利期限已過期而決定發行[51]。<br />
+<td><p>雖是Network Live（現・Control Room）擁有所有權的影像，但因權利期限已過期而決定發行[52]。<br />
 2008年度Oricon公信榜年間音樂DVD榜第7位。<br />
 BD版將<a href="../Page/B&#39;z_The_Best_&quot;ULTRA_Treasure&quot;.md" title="wikilink">B'z The Best "ULTRA Treasure"特典DVD的</a>「B'z SHOWCASE 2007 "19" at Zepp Tokyo」併為套組發行。</p></td>
 </tr>
@@ -2020,7 +2026,7 @@ B'z LIVE-GYM 2003 "BIG MACHINE"<br />
 B'z LIVE-GYM 2005 "CIRCLE OF ROCK"</p></td>
 <td><p>2008年<a href="../Page/12月10日.md" title="wikilink">12月10日</a> (DVD)</p></td>
 <td><p>BMBV-5002 - 4 (DVD)</p></td>
-<td><p>為紀念結成20週年，以未發表演唱會影像為中心做收錄[52]。<br />
+<td><p>為紀念結成20週年，以未發表演唱會影像為中心做收錄[53]。<br />
 2009年度Oricon公信榜年間音樂DVD榜第12位。</p></td>
 </tr>
 <tr class="even">
@@ -2069,7 +2075,7 @@ BMXV-5013(Blu-ray Disc)</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/1月30日.md" title="wikilink">1月30日</a> (DVD/Blu-ray Disc)</p></td>
 <td><p>BMBV-5015 - 5016(DVD)<br />
 BMXV-5015 (Blu-ray Disc)</p></td>
-<td><p>未發表巡演影像作品3個月連續發行第1彈[53]</p></td>
+<td><p>未發表巡演影像作品3個月連續發行第1彈[54]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_2005_-CIRCLE_OF_ROCK-.md" title="wikilink">B'z LIVE-GYM 2005<br />
@@ -2077,14 +2083,14 @@ BMXV-5015 (Blu-ray Disc)</p></td>
 <td><p>B'z LIVE-GYM 2005 "CIRCLE OF ROCK"</p></td>
 <td><p>2013年<a href="../Page/2月27日.md" title="wikilink">2月27日</a> (DVD)</p></td>
 <td><p>BMBV-5017 - 5018 (DVD)</p></td>
-<td><p>未發表巡演影像作品3個月連續發行第2彈[54]</p></td>
+<td><p>未發表巡演影像作品3個月連續發行第2彈[55]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_2001_-ELEVEN-.md" title="wikilink">B'z LIVE-GYM 2001 -ELEVEN-</a></strong></p></td>
 <td><p>B'z LIVE-GYM 2001 "ELEVEN"</p></td>
 <td><p>2013年<a href="../Page/3月27日.md" title="wikilink">3月27日</a> (DVD)</p></td>
 <td><p>BMBV-5019 - 5020 (DVD)</p></td>
-<td><p>未發表巡演影像作品3個月連續發行第3彈[55]</p></td>
+<td><p>未發表巡演影像作品3個月連續發行第3彈[56]</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_Pleasure_2013_ENDLESS_SUMMER_-XXV_BEST-.md" title="wikilink">B'z LIVE-GYM Pleasure 2013<br />
@@ -2098,8 +2104,8 @@ BMXV-5021 - 5022 (Blu-ray Disc)<br />
 通常盤<br />
 BMBV-5025 - 5026(DVD)<br />
 BMXV-5025 (Blu-ray Disc)</p></td>
-<td><p>完全盤收錄了Tour Final的日產體育場公演，加上亦收錄了巡演紀錄片與音樂廳Tour Final的會津風雅堂公演[56]。<br />
-通常盤僅收錄了Tour Final的日產體育場公演[57]。</p></td>
+<td><p>完全盤收錄了Tour Final的日產體育場公演，加上亦收錄了巡演紀錄片與音樂廳Tour Final的會津風雅堂公演[57]。<br />
+通常盤僅收錄了Tour Final的日產體育場公演[58]。</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/B&#39;z_LIVE-GYM_2015_-EPIC_NIGHT-.md" title="wikilink">B'z LIVE-GYM 2015<br />
@@ -2314,9 +2320,9 @@ Hidden Treasure<br />
 <td><p>B'z LIVE-GYM 2003 "BANZAI IN NORTH AMERICA", B'z LIVE-GYM 2003 "BIG MACHINE", B'z LIVE-GYM 2008 "ACTION", B'z LIVE-GYM Pleasure 2008 -GLORY DAYS-, B'z SHOWCASE 2009 -B'z In Your Town-, B'z LIVE-GYM 2010 "Ain't No Magic", B'z LIVE-GYM 2011 -long time no see-, B'z LIVE-GYM 2011 -C'mon-, B'z LIVE-GYM 2012 -Into Free-, B'z LIVE-GYM Pleasure 2013 -ENDLESS SUMMER-, B'z LIVE-GYM 2015 -EPIC NIGHT-, B'z SHOWCASE 2017 -B'z In Your Town-, B'z LIVE-GYM 2017-2018 "LIVE DINOSAUR", B'z LIVE-GYM Pleasure 2018 -HINOTORI-</p></td>
 </tr>
 <tr class="even">
-<td><p>Mohini Dey</p></td>
+<td></td>
 <td><p>貝斯</p></td>
-<td><p>B'z LIVE-GYM 2019</p></td>
+<td><p>B'z LIVE-GYM 2019 -Whole Lotta NEW LOVE-</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -2346,27 +2352,27 @@ Hidden Treasure<br />
 <tr class="even">
 <td></td>
 <td><p>爵士鼓</p></td>
-<td><p>B'z LIVE-GYM 2019</p></td>
+<td><p>B'z LIVE-GYM 2019 -Whole Lotta NEW LOVE-</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/電子琴.md" title="wikilink">電子琴</a></p></td>
+<td><p><a href="../Page/鍵盤樂器.md" title="wikilink">鍵盤</a></p></td>
 <td><p>B'z LIVE-GYM #00 "OFF THE LOCK", B'z LIVE-GYM #001 "OFF THE LOCK", B'z LIVE-GYM "BREAK THROUGH", B'z LIVE-GYM '90-'91 "RISKY", B'z LIVE-GYM "Pleasure '91", B'z LIVE-GYM '91-'92 "IN THE LIFE"</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/增田隆宣.md" title="wikilink">增田隆宣</a></p></td>
-<td><p>電子琴</p></td>
+<td><p>鍵盤</p></td>
 <td><p>B'z LIVE-GYM Pleasure '92 "TIME", B'z LIVE-GYM '93 "RUN", B'z LIVE-GYM Pleasure '93 "JAP THE RIPPER", B'z LIVE-GYM '94 "The 9th Blues", B'z LIVE-GYM Pleasure '95 "BUZZ</p></td>
 </tr>
 <tr class="odd">
 <td><p>（ex.<a href="../Page/WANDS.md" title="wikilink">WANDS</a>）</p></td>
-<td><p>電子琴</p></td>
+<td><p>鍵盤</p></td>
 <td><p>B'z LIVE-GYM '98 "SURVIVE"</p></td>
 </tr>
 <tr class="even">
 <td><p>Sam Pomanti</p></td>
-<td><p>電子琴</p></td>
-<td><p>B'z LIVE-GYM 2019</p></td>
+<td><p>鍵盤</p></td>
+<td><p>B'z LIVE-GYM 2019 -Whole Lotta NEW LOVE-</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/大田紳一郎.md" title="wikilink">大田紳一郎</a></p></td>
@@ -2379,9 +2385,9 @@ Hidden Treasure<br />
 <td><p>B'z LIVE-GYM 2011 -long time no see-, B'z LIVE-GYM 2011 -C'mon-, B'z LIVE-GYM 2012 -Into Free-, B'z LIVE-GYM Pleasure 2013 -ENDLESS SUMMER-, B'z LIVE-GYM 2015 -EPIC NIGHT-, B'z SHOWCASE 2017 -B'z In Your Town-, B'z LIVE-GYM 2017-2018 "LIVE DINOSAUR", B'z LIVE-GYM Pleasure 2018 -HINOTORI-</p></td>
 </tr>
 <tr class="odd">
-<td><p>YUKIHIDE "YT" TAKIYAMA</p></td>
+<td></td>
 <td><p>吉他</p></td>
-<td><p>B'z LIVE-GYM 2019</p></td>
+<td><p>B'z LIVE-GYM 2019 -Whole Lotta NEW LOVE-</p></td>
 </tr>
 <tr class="even">
 <td><p>高原裕枝</p></td>
@@ -2545,9 +2551,9 @@ Hidden Treasure<br />
 
 48.
 
-49. 2017年僅稻葉作為INABA/SALAS出演。
+49.
 
-50.
+50. 2017年僅稻葉作為INABA/SALAS出演。
 
 51.
 
@@ -2556,7 +2562,9 @@ Hidden Treasure<br />
 53.
 
 54.
+
 55.
 56.
-
 57.
+
+58.

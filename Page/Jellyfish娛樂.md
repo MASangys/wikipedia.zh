@@ -92,8 +92,8 @@ E\&M簽訂合約成為合作夥伴。
 <a href="https://zh.wikipedia.org/wiki/趙啓賢" title="wikilink">啓賢</a><br />
 <a href="https://zh.wikipedia.org/wiki/周延浩" title="wikilink">延浩</a>、<a href="https://zh.wikipedia.org/wiki/金勇勝" title="wikilink">勇勝</a>、<a href="https://zh.wikipedia.org/wiki/劉岡旻" title="wikilink">岡旻</a></p></td>
 <td><p>東憲</p></td>
+<td><p>(베러) (VERRER)</p></td>
 <td><p>colspan="2" </p></td>
-<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -164,6 +164,8 @@ E\&M簽訂合約成為合作夥伴。
 ## 練習生
 
   - [趙慧妍](https://zh.wikipedia.org/wiki/趙慧妍 "wikilink")（前[gugudan成員](https://zh.wikipedia.org/wiki/gugudan "wikilink")）
+  - 金敏奎（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
+  - 崔俊聖（[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ## 昔日練習生
 
@@ -179,7 +181,7 @@ E\&M簽訂合約成為合作夥伴。
   - 金珍燮（前[IN2IT成員](../Page/IN2IT.md "wikilink")、《[少年24](../Page/少年24.md "wikilink")》參賽者）
   - 高智炯（《[少年24](../Page/少年24.md "wikilink")》參賽者）
   - 尹熙錫（《[PRODUCE
-    101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")》參賽者，現為ONO娛樂公司之旗下藝人）
+    101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101第二季 "wikilink")》參賽者，現為[LIMITLESS成員](../Page/LIMITLESS_\(男子團體\).md "wikilink")）
   - 朴晙喜（[A.C.E成員](https://zh.wikipedia.org/wiki/A.C.E "wikilink")、《[The
     Unit](../Page/The_Unit.md "wikilink")》參賽者）
 

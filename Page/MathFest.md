@@ -30,7 +30,7 @@
 
 <references />
 
-## 外部鏈接
+## 外部連結
 
   - [MAA全國Mathfest會議清單](http://www.maa.org/meetings/mathfest)
 

@@ -1,11 +1,10 @@
-Stella Jang (韓語：，1991年11月18日 \~ )\[1\]，本名蔣星銀
+Stella Jang (韓語：스텔라장，1991年11月18日 \~ )\[1\]，本名蔣星銀
 (韓語：장성은)是[韓國的創作型](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[歌手](../Page/歌手.md "wikilink")。曾於法國留學11年，會使用6國語言。\[2\]
 
 ## 生平
 
 從小學於法國留學十一年，於法國[亨利四世中学](https://zh.wikipedia.org/wiki/亨利四世中学 "wikilink")
-([Lycée
-Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[法国巴黎工科農科院生命工程學就讀畢業](https://zh.wikipedia.org/wiki/法国 "wikilink")。曾在法國知名化妝品公司當過實習生。\[3\]
+()後進入[法国巴黎工科農科院生命工程學就讀畢業](https://zh.wikipedia.org/wiki/法国 "wikilink")。曾在法國知名化妝品公司當過實習生。\[3\]
 
 ## 英文名由來
 
@@ -288,10 +287,28 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 </ul></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><strong>10th</strong></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a>《<a href="../Page/初次見面我愛你_(韓國電視劇).md" title="wikilink">初次見面我愛你</a>》Part.1</p>
+<ul>
+<li>發行日期：2019年5月6日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>11th</strong></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/最棒的戀愛" title="wikilink">最棒的戀愛</a>》[6]</p>
+<ul>
+<li>發行日期：2019年5月25日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
-### 參與歌曲\[6\]
+### 參與歌曲\[7\]
 
 <table>
 <thead>
@@ -523,6 +540,17 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td></td>
 <td><p>配唱</p></td>
 </tr>
+<tr class="odd">
+<td><p><strong>21th</strong></p></td>
+<td><p>《PEACH BLOSSOM》</p>
+<ul>
+<li>歌手：BIGONE(朴元)</li>
+<li>發行日期：2019年5月5日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+<td><p>配唱、作詞、作曲[8]</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -530,16 +558,16 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 
 | 發行日期       | 歌曲          | 備註    |
 | ---------- | ----------- | ----- |
-| 2019年4月12日 | 《tvN 歡樂頌–春》 | \[7\] |
+| 2019年4月12日 | 《tvN 歡樂頌–春》 | \[9\] |
 
 ## 綜藝節目
 
 ### 固定
 
-| 年份    | 日期                | 電視台                                                 | 節目名稱                                      | 備註    |
-| ----- | ----------------- | --------------------------------------------------- | ----------------------------------------- | ----- |
-| 2018年 | 11月24日—2019年2月16日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [三清洞外婆](../Page/三清洞外婆.md "wikilink")      |       |
-| 2019年 | 5月1日—             | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [工作室](../Page/工作室_\(韓國綜藝\).md "wikilink") | \[8\] |
+| 年份    | 日期                | 電視台                                                 | 節目名稱                                      | 備註     |
+| ----- | ----------------- | --------------------------------------------------- | ----------------------------------------- | ------ |
+| 2018年 | 11月24日—2019年2月16日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [三清洞外婆](../Page/三清洞外婆.md "wikilink")      |        |
+| 2019年 | 5月1日—             | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [工作室](../Page/工作室_\(韓國綜藝\).md "wikilink") | \[10\] |
 
 ### 參與
 
@@ -560,7 +588,7 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p><a href="https://zh.wikipedia.org/wiki/EBS" title="wikilink">EBS</a></p></td>
 <td><p>　</p></td>
 <td><p>EP1278<br />
-公演日期：10月28日–29日晚上7點30分[9]</p></td>
+公演日期：10月28日–29日晚上7點30分[11]</p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
@@ -622,7 +650,7 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>10月21日</p></td>
 <td></td>
 <td><p>開放的藝術舞台　</p></td>
-<td><p>9月13日公開放送[10]</p></td>
+<td><p>9月13日公開放送[12]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -630,7 +658,7 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p><a href="https://zh.wikipedia.org/wiki/EBS" title="wikilink">EBS</a></p></td>
 <td><p>　</p></td>
 <td><p>EP1355<br />
-公演日期：11月16日晚上8點[11]</p></td>
+公演日期：11月16日晚上8點[13]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -693,21 +721,22 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>3月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/光州文化廣播" title="wikilink">光州 MBC</a></p></td>
 <td></td>
-<td><p>公演日期：3月12日晚上7點30分開始[12][13]</p></td>
+<td><p>公演日期：3月12日晚上7點30分開始[14][15]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>4月10日</p></td>
+<td><p>5月4日</p></td>
 <td></td>
 <td><p>開放的藝術舞台　</p></td>
-<td><p>公開放送(蔚山文化藝術會館)[14][15][16]</p></td>
+<td><p>公演日期：4月10日晚上7點30分開始<br />
+公開放送(蔚山文化藝術會館)[16][17][18]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>6月</p></td>
+<td><p>5月23日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EBS" title="wikilink">EBS</a></p></td>
 <td></td>
-<td><p>公演日期：5月2日晚上8點開始[17]</p></td>
+<td><p>公演日期：5月2日晚上8點開始[19]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -729,7 +758,7 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>9月5日</p></td>
 <td><p><a href="../Page/文化廣播公司.md" title="wikilink">MBC</a></p></td>
 <td></td>
-<td><p>擔任DJ[18]</p></td>
+<td><p>擔任DJ[20]</p></td>
 </tr>
 </tbody>
 </table>
@@ -748,37 +777,37 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>4月4日</p></td>
 <td></td>
 <td><p>Jang Byeog Jin的Bounce Bounce</p></td>
-<td><p>[19][20]</p></td>
+<td><p>[21][22]</p></td>
 </tr>
 <tr class="even">
 <td><p>10月6日</p></td>
 <td></td>
 <td><p>K-poppin'</p></td>
-<td><p>Hot New Face [21][22]</p></td>
+<td><p>Hot New Face [23][24]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月2日</p></td>
 <td><p><a href="../Page/文化廣播公司.md" title="wikilink">MBC</a></p></td>
 <td></td>
-<td><p>[23][24]</p></td>
+<td><p>[25][26]</p></td>
 </tr>
 <tr class="even">
 <td><p>11月21日</p></td>
 <td></td>
 <td><p>Jang Byeog Jin的Bounce Bounce</p></td>
-<td><p>[25][26]</p></td>
+<td><p>[27][28]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月23日</p></td>
 <td></td>
 <td><p>English Go! Go!</p></td>
-<td><p>[27][28]</p></td>
+<td><p>[29][30]</p></td>
 </tr>
 <tr class="even">
 <td><p>12月12日</p></td>
 <td></td>
 <td><p>Seo Jeong Deok的午夜國家</p></td>
-<td><p>[29]</p></td>
+<td><p>[31]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月17日</p></td>
@@ -809,91 +838,91 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>1月1日</p></td>
 <td></td>
 <td><p>週日音樂旅行 POP</p></td>
-<td><p>[30][31]</p></td>
+<td><p>[32][33]</p></td>
 </tr>
 <tr class="even">
 <td><p>1月20日</p></td>
 <td></td>
 <td><p>K-Poppin'</p></td>
-<td><p>[32][33]</p></td>
+<td><p>[34][35]</p></td>
 </tr>
 <tr class="odd">
 <td><p>1月21日</p></td>
 <td></td>
 <td><p>English Go! Go!</p></td>
-<td><p>[34]</p></td>
+<td><p>[36]</p></td>
 </tr>
 <tr class="even">
 <td><p>1月27日</p></td>
 <td></td>
 <td><p>K-Poppin'</p></td>
-<td><p>[35]</p></td>
+<td><p>[37]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2月17日—3月1日</p></td>
 <td><p>Podcast</p></td>
 <td><p>暖男High Season 2</p></td>
-<td><p>[36]</p></td>
+<td><p>[38]</p></td>
 </tr>
 <tr class="even">
 <td><p>2月26日</p></td>
 <td></td>
 <td><p>週日音樂旅行 - 世界音樂，我是Hareem</p></td>
-<td><p>[37]</p></td>
+<td><p>[39]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月22日—10月8日</p></td>
 <td></td>
 <td><p>我們的幸福時光，我是Stella Jang</p></td>
-<td><p>DJ[38][39]</p></td>
+<td><p>DJ[40][41]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月3日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td></td>
-<td><p>[40][41]</p></td>
+<td><p>[42][43]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月5日</p></td>
 <td></td>
 <td><p>金甲洙的My Way</p></td>
-<td><p>[42]</p></td>
+<td><p>[44]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月25日</p></td>
 <td></td>
 <td><p>K-poppin</p></td>
-<td><p>[43][44][45]</p></td>
+<td><p>[45][46][47]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月27日</p></td>
 <td><p><a href="../Page/文化廣播公司.md" title="wikilink">MBC</a></p></td>
 <td></td>
-<td><p>[46][47]</p></td>
+<td><p>[48][49]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月31日</p></td>
 <td></td>
 <td><p>Park Won的Music WonderLand</p></td>
-<td><p>[48][49]</p></td>
+<td><p>[50][51]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月7日</p></td>
 <td></td>
 <td></td>
-<td><p>[50][51]</p></td>
+<td><p>[52][53]</p></td>
 </tr>
 <tr class="even">
 <td><p>6月8日</p></td>
 <td></td>
 <td><p>Morning Special</p></td>
-<td><p>[52][53]</p></td>
+<td><p>[54][55]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td></td>
-<td><p>[54][55]</p></td>
+<td><p>[56][57]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月1日</p></td>
@@ -905,55 +934,55 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>7月2日</p></td>
 <td></td>
 <td><p>多文化音樂旅遊</p></td>
-<td><p>[56][57]</p></td>
+<td><p>[58][59]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月3日</p></td>
 <td><p>Podcast</p></td>
 <td><p>Mint Radio</p></td>
-<td><p>[58]</p></td>
+<td><p>[60]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月7日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td></td>
-<td><p>[59]</p></td>
+<td><p>[61]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月19日</p></td>
 <td></td>
 <td><p>Super K-pop</p></td>
-<td><p>[60][61]</p></td>
+<td><p>[62][63]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月21日</p></td>
 <td></td>
 <td><p>Band People, Radio Star</p></td>
-<td><p>[62][63]</p></td>
+<td><p>[64][65]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月9日</p></td>
 <td></td>
 <td></td>
-<td><p>[64][65]</p></td>
+<td><p>[66][67]</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月17日</p></td>
 <td></td>
 <td></td>
-<td><p>[66]</p></td>
+<td><p>[68]</p></td>
 </tr>
 <tr class="even">
 <td><p>11月06日</p></td>
 <td><p>V LIVE CASPER Radio</p></td>
 <td><p>屋頂月光的屋頂收音機</p></td>
-<td><p>EP27[67]</p></td>
+<td><p>EP27[69]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月28日</p></td>
 <td></td>
 <td></td>
-<td><p>1週年紀念OPEN STUDIO[68]</p></td>
+<td><p>1週年紀念OPEN STUDIO[70]</p></td>
 </tr>
 </tbody>
 </table>
@@ -985,7 +1014,7 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>1月31日</p></td>
 <td></td>
 <td><p>Super K-pop</p></td>
-<td><p>[69][70]</p></td>
+<td><p>[71][72]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1039,13 +1068,13 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>8月29日</p></td>
 <td></td>
 <td></td>
-<td><p>[71][72]</p></td>
+<td><p>[73][74]</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月12日</p></td>
 <td></td>
 <td><p>Super K-pop</p></td>
-<td><p>[73][74]</p></td>
+<td><p>[75][76]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月23日</p></td>
@@ -1063,7 +1092,7 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>11月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td></td>
-<td><p>[75][76]</p></td>
+<td><p>[77][78]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月13日—至今</p></td>
@@ -1118,7 +1147,7 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>2月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td></td>
-<td><p>春節特別直播《音樂一起走》[77][78]</p></td>
+<td><p>春節特別直播《音樂一起走》[79][80]</p></td>
 </tr>
 <tr class="even">
 <td><p>3月14日</p></td>
@@ -1142,7 +1171,7 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>4月17日</p></td>
 <td></td>
 <td><p>Super K-Pop</p></td>
-<td><p>[79][80][81][82]</p></td>
+<td><p>[81][82][83][84]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月18日</p></td>
@@ -1154,7 +1183,7 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>4月19日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td></td>
-<td><p>[83]</p></td>
+<td><p>[85]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月20日</p></td>
@@ -1172,22 +1201,34 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>4月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/韓國國際廣播電台" title="wikilink">KBS World Radio</a></p></td>
 <td><p>朴正炫的One Fine Day</p></td>
-<td><p>特別DJ[84]</p></td>
+<td><p>特別DJ[86]</p></td>
 </tr>
 <tr class="odd">
 <td><p>rowspan = "2" | 4月30日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC_FM4U" title="wikilink">MBC FM4U</a></p></td>
 <td></td>
-<td></td>
+<td><p>特別DJ[87]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/韓國國際廣播電台" title="wikilink">KBS World Radio</a></p></td>
 <td><p>朴正炫的One Fine Day</p></td>
-<td><p>特別DJ[85]</p></td>
+<td><p>特別DJ[88]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>rowspan = "2" | 5月2日</p></td>
+<td><p>5月2日</p></td>
+<td><p><a href="../Page/KBS第2FM.md" title="wikilink">KBS Cool FM</a></p></td>
+<td></td>
+<td><p>[89]</p></td>
+</tr>
+<tr class="even">
+<td><p>5月16日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/韓國國際廣播電台" title="wikilink">KBS World Radio</a></p></td>
+<td><p>朴正炫的One Fine Day</p></td>
+<td><p>特別DJ</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月17日</p></td>
 <td><p><a href="../Page/KBS第2FM.md" title="wikilink">KBS Cool FM</a></p></td>
 <td></td>
 <td></td>
@@ -1195,33 +1236,39 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 </tbody>
 </table>
 
+## 電視劇
+
+| 年份    | 電視台                                     | 作品名稱                                                 | 角色    | 備註    |
+| ----- | --------------------------------------- | ---------------------------------------------------- | ----- | ----- |
+| 2019年 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[初次見面我愛你](../Page/初次見面我愛你_\(韓國電視劇\).md "wikilink")》 | 街頭表演者 | 客串EP2 |
+
 ## 演唱會
 
 ### 單獨演唱會
 
 | 年份    | 日期     | 演唱會名稱       | 地點                      | 備註     |
 | ----- | ------ | ----------- | ----------------------- | ------ |
-| 2017年 | 6月17日  | 〈똑똑〉        | Hyundai Card Understage | \[86\] |
-| 2018年 | 11月18日 | 〈Bon Anniv〉 | CJ azit                 | \[87\] |
-| 2019年 | 3月30日  | 〈有害物質〉      | 共鳴中心                    | \[88\] |
+| 2017年 | 6月17日  | 〈똑똑〉        | Hyundai Card Understage | \[90\] |
+| 2018年 | 11月18日 | 〈Bon Anniv〉 | CJ azit                 | \[91\] |
+| 2019年 | 3月30日  | 〈有害物質〉      | 共鳴中心                    | \[92\] |
 
 ### 其他活動/大型公演/演唱會
 
 | 日期    | 公演/演唱會名稱             | 地點         | 備註         |
 | ----- | -------------------- | ---------- | ---------- |
-| 8月28日 | Ja Mezz Showcase     | Club Crack | \[89\]     |
-| 9月19日 | 2015 M.I.SEA CONCERT | 濟州島漢拿體育館   | 特別嘉賓\[90\] |
+| 8月28日 | Ja Mezz Showcase     | Club Crack | \[93\]     |
+| 9月19日 | 2015 M.I.SEA CONCERT | 濟州島漢拿體育館   | 特別嘉賓\[94\] |
 
 | 日期     | 公演/演唱會名稱                | 地點              | 備註         |
 | ------ | ----------------------- | --------------- | ---------- |
 | 6月20日  | 加平同心慰問公演                |                 | 軍隊活動       |
 | 8月9日   | 51師同心慰問公演               |                 | 軍隊活動       |
 | 8月25日  | 25師同心慰問公演               |                 | 軍隊活動       |
-| 10月20日 | 新村Arisu Straw Busking   | 新村Arisu Straw劇場 | \[91\]     |
-| 11月19日 | 嶺南大學獨島Music Art CONCERT | 嶺南大學天然草坪球場      | \[92\]     |
+| 10月20日 | 新村Arisu Straw Busking   | 新村Arisu Straw劇場 | \[95\]     |
+| 11月19日 | 嶺南大學獨島Music Art CONCERT | 嶺南大學天然草坪球場      | \[96\]     |
 | 11月22日 | 鐵原同心慰問公演                |                 | 軍隊活動       |
-| 12月7日  | 抱川同心慰問公演                |                 | 軍隊活動\[93\] |
-| 12月31日 | Grandline Show          | HanaTour V Hall | \[94\]     |
+| 12月7日  | 抱川同心慰問公演                |                 | 軍隊活動\[97\] |
+| 12月31日 | Grandline Show          | HanaTour V Hall | \[98\]     |
 
 <table>
 <thead>
@@ -1237,19 +1284,19 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>2月15日</p></td>
 <td><p>大明文化工廠情人節週罷工演唱會</p></td>
 <td><p>yes24 Stage1館 </p></td>
-<td><p>[95]</p></td>
+<td><p>[99]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月8日</p></td>
 <td><p>健康保險40週年紀念健康競走大會暨健康音樂會 </p></td>
 <td><p>水原長安公園 </p></td>
-<td><p>[96]</p></td>
+<td><p>[100]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月30日</p></td>
 <td><p>KFM京畿廣播 公開放送 </p></td>
 <td><p>利川樂天Premium Outlet </p></td>
-<td><p>[97]</p></td>
+<td><p>[101]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月16日</p></td>
@@ -1261,7 +1308,7 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>5月17日</p></td>
 <td><p>梨花女子大學大同祭 </p></td>
 <td><p> </p></td>
-<td><p>大學活動[98]</p></td>
+<td><p>大學活動[102]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月21日</p></td>
@@ -1273,49 +1320,49 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>5月27日</p></td>
 <td><p>第12屆東豆川市青少年 Music Festival </p></td>
 <td><p>東豆川市綜合體育場輔助球場露天特設舞臺 </p></td>
-<td><p>[99][100]</p></td>
+<td><p>[103][104]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月28日</p></td>
 <td><p>第11屆抱川日東不倒翁同心慶典 </p></td>
 <td><p>日東高級中學 </p></td>
-<td><p>軍隊活動[101][102]</p></td>
+<td><p>軍隊活動[105][106]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月10日</p></td>
 <td><p>清淨園x宗家FOODIE GROUND FESTTIVAL </p></td>
 <td><p>建國大學Common Ground廣場 </p></td>
-<td><p>[103]</p></td>
+<td><p>[107]</p></td>
 </tr>
 <tr class="even">
 <td><p>7月8日</p></td>
 <td><p>NBA BUZZER BEAT FESTIVAL 2017 </p></td>
 <td><p>KBS Arena </p></td>
-<td><p>[104]</p></td>
+<td><p>[108]</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月28日</p></td>
 <td><p>2017 蔚珍Music Farm Festival </p></td>
 <td><p>蔚珍EXPO公園露天特設舞臺 </p></td>
-<td><p>第一天(Green Energy Concert)[105]</p></td>
+<td><p>第一天(Green Energy Concert)[109]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月17日</p></td>
 <td><p>Another Nice Day #13 </p></td>
 <td><p>FORMTEC WorksHall </p></td>
-<td><p>[106]</p></td>
+<td><p>[110]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月19日</p></td>
 <td><p>2017 慶北SNS朋友邀請 擺脫酷暑的共鳴脫口秀演唱會 </p></td>
 <td><p>慶尚北道廳 </p></td>
-<td><p>[107][108]</p></td>
+<td><p>[111][112]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月25日</p></td>
 <td><p>KIA BEAT360 BEAT LIVE </p></td>
 <td><p>BEAT 360 Cafe </p></td>
-<td><p>Cafe Stage [109]</p></td>
+<td><p>Cafe Stage [113]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月26日—27日</p></td>
@@ -1327,63 +1374,63 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>9月23日</p></td>
 <td><p>釜山市民公園開放音樂會 </p></td>
 <td><p>釜山市民公園 海厄利亞草坪廣場 </p></td>
-<td><p>[110][111]</p></td>
+<td><p>[114][115]</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月14日</p></td>
 <td><p>2017 KT&amp;G 想象實現FESTIVAL </p></td>
 <td><p>KT&amp;G 想象廣場春川藝術中心 </p></td>
-<td><p>[112][113]</p></td>
+<td><p>[116][117]</p></td>
 </tr>
 <tr class="even">
 <td><p>10月21日</p></td>
 <td><p>青春 2017,COFFEE FESTIVAL </p></td>
 <td><p>蠶室樂天世界塔 </p></td>
-<td><p>[114][115]</p></td>
+<td><p>[118][119]</p></td>
 </tr>
 <tr class="odd">
 <td><p>GRAND MINT FESTIVAL 2017 </p></td>
 <td><p>cafe Blossom House<br />
 (手球競技場2-1 Gate前) </p></td>
-<td><p>[116][117][118]</p></td>
+<td><p>[120][121][122]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>11月5日</p></td>
 <td><p>2017 想象univing day:你再次對我4th </p></td>
 <td><p>KT&amp;G 春川想象廣場 </p></td>
-<td><p>[119][120]</p></td>
+<td><p>[123][124]</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月11日</p></td>
 <td><p>暖男HIGH演唱會 - 甜蜜的秋天 </p></td>
 <td><p>GonGam Center</p></td>
-<td><p>[121][122]</p></td>
+<td><p>[125][126]</p></td>
 </tr>
 <tr class="even">
 <td><p>11月26日</p></td>
 <td><p>2017 大韓民國我們的酒大慶典(2017 K-Sool Music Festival) </p></td>
 <td><p>良才站aT中心第二展廳</p></td>
-<td><p>[123]</p></td>
+<td><p>[127]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月3日</p></td>
 <td><p>V LIVE ROOKIE STAGE 2017 [PEEKAVOO＆VOOM STAGE] </p></td>
 <td><p>YES24 LIVE HALL</p></td>
 <td><p>HIDDEN TRACK NO.V<br />
-晚上8點開始[124]</p></td>
+晚上8點開始[128]</p></td>
 </tr>
 <tr class="even">
 <td><p>12月15日</p></td>
 <td><p>第2屆BELLON BELLON 聖誕音樂會 </p></td>
 <td><p>Playce Camp Jeju</p></td>
-<td><p>晚上6點30分開始[125]</p></td>
+<td><p>晚上6點30分開始[129]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月23日</p></td>
 <td><p>COEX 2017 WINTER Festival </p></td>
 <td><p>COEX東門大廳</p></td>
-<td><p>晚上6點~7點[126][127]</p></td>
+<td><p>晚上6點~7點[130][131]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1402,23 +1449,23 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>1月28日</p></td>
 <td><p>Time Square 1月文化公演 </p></td>
 <td><p>永登浦Time Square</p></td>
-<td><p>晚上5點開始[128][129]</p></td>
+<td><p>晚上5點開始[132][133]</p></td>
 </tr>
 <tr class="even">
 <td><p>2月9日</p></td>
 <td><p>Hoegaarden Rosée x Pink Terrace Live Concert </p></td>
 <td><p>聖水洞 Layer57</p></td>
-<td><p>晚上8點到8點40分[130]</p></td>
+<td><p>晚上8點到8點40分[134]</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月23日</p></td>
 <td><p>[2018 Indie Wall Hall vol.1] Indie In the Spring </p></td>
 <td><p>釜山 思想Indie Station</p></td>
-<td><p>晚上8點開始[131][132]</p></td>
+<td><p>晚上8點開始[135][136]</p></td>
 </tr>
 <tr class="even">
 <td><p>3月27日</p></td>
-<td><p>Francophonie Music Tour[133][134]</p></td>
+<td><p>Francophonie Music Tour[137][138]</p></td>
 <td><p>首爾 CJ azit </p></td>
 <td><p>晚上7點開始</p></td>
 </tr>
@@ -1443,7 +1490,7 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <tr class="even">
 <td><p>3月31日</p></td>
 <td><p>大田 Alliance Francaise 'Entrepôt</p></td>
-<td><p>晚上6點開始[135]</p></td>
+<td><p>晚上6點開始[139]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1451,121 +1498,121 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>Have A Nice Day #6 </p></td>
 <td><p>首爾 蘭芝漢江公園</p></td>
 <td><p>TSINGTAO Terminal 2<br />
-晚上4點30分~5點05分[136][137]</p></td>
+晚上4點30分~5點05分[140][141]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月27日</p></td>
 <td><p>2018 BLOSSOM MUSIC FESTA </p></td>
 <td><p>Platform 倉洞61 Red Box</p></td>
-<td><p>晚上8點開始[138][139]</p></td>
+<td><p>晚上8點開始[142][143]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月28日</p></td>
 <td><p>Hana Tour V Hall 10週年紀念演唱會 </p></td>
 <td><p>Hana Tour V Hall</p></td>
 <td><p>V's PICK vol.5<br />
-晚上7點開始[140]</p></td>
+晚上7點開始[144]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月4日</p></td>
 <td><p>第32屆利川陶瓷節 </p></td>
 <td><p>藝's Park 露天舞台</p></td>
-<td><p>晚上5點開始[141][142]</p></td>
+<td><p>晚上5點開始[145][146]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月15日</p></td>
 <td><p>2018 大邱韓醫大學 大同祭 </p></td>
 <td><p>大邱韓醫大學 大運動場</p></td>
-<td><p>[143]</p></td>
+<td><p>[147]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月22日</p></td>
 <td><p>2018 高麗大學 石塔大同祭: KUniverse </p></td>
 <td><p>高麗大學 民主廣場</p></td>
-<td><p>晚上3點30分開始[144][145]</p></td>
+<td><p>晚上3點30分開始[148][149]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月25日</p></td>
 <td><p>第38屆LIVE CLUB DAY </p></td>
 <td><p>Hana Tour V Hall</p></td>
 <td><p>Legend Stage<br />
-晚上8點~8點40分 [146]</p></td>
+晚上8點~8點40分 [150]</p></td>
 </tr>
 <tr class="even">
 <td><p>5月31日</p></td>
 <td><p>2018 韓國外國語大學 大同祭:QUINQUATRIA </p></td>
 <td><p>韓國外國語大學 草坪廣場</p></td>
-<td><p>晚上4點開始 [147][148]</p></td>
+<td><p>晚上4點開始 [151][152]</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月23日</p></td>
 <td><p>閃亮的創作歌手 - Stella Jang X Today's Radio </p></td>
 <td><p>合井 甜美的音樂廳</p></td>
-<td><p>晚上7點40分開始[149]</p></td>
+<td><p>晚上7點40分開始[153]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月5日</p></td>
 <td><p>HIPHOP HACK-A-THON SHOW &amp; PROVE 5 </p></td>
 <td><p>CJ azit</p></td>
-<td><p>晚上7點開始[150][151]</p></td>
+<td><p>晚上7點開始[154][155]</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月12日</p></td>
 <td><p>第14屆堤川國際音樂電影節:3rd Night. Gold Night </p></td>
 <td><p>義林池舞台</p></td>
-<td><p>晚上6點30分開始 [152][153][154]</p></td>
+<td><p>晚上6點30分開始 [156][157][158]</p></td>
 </tr>
 <tr class="even">
 <td><p>8月15日</p></td>
 <td><p>李承桓Acoustic演唱會 &lt;15日的Summer&gt; </p></td>
 <td><p>HanaTour V Hall</p></td>
 <td><p>嘉賓<br />
-晚上5點30分~5點55分[155][156][157]</p></td>
+晚上5點30分~5點55分[159][160][161]</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月11日</p></td>
 <td><p>秋季感性,小劇場演唱會 </p></td>
 <td><p>始興市 終身教育學院</p></td>
-<td><p>晚上7點30分開始[158][159]</p></td>
+<td><p>晚上7點30分開始[162][163]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月15日</p></td>
 <td><p>2018 JOY OLPARK FESTIVAL </p></td>
 <td><p>奧林匹克公園</p></td>
-<td><p>下午12點55分~1點25分[160][161][162][163]</p></td>
+<td><p>下午12點55分~1點25分[164][165][166][167]</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月18日</p></td>
 <td><p>YAMAHA Studio Live Listening Session #6 </p></td>
 <td><p>Tone Studio</p></td>
 <td><p>Special Guest Vocal，與JANE BAND合作<br />
-下午3點開始[164]</p></td>
+下午3點開始[168]</p></td>
 </tr>
 <tr class="even">
 <td><p>10月13日</p></td>
 <td><p>Sunset River Festa </p></td>
 <td><p>京仁Ara運河始川江邊</p></td>
 <td><p>晚霞Stage<br />
-晚上7點開始[165]</p></td>
+晚上7點開始[169]</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月20日</p></td>
 <td><p>Grand Mint Festival 2018 </p></td>
 <td><p>TSINGTAO LOVING FOREST GARDEN<br />
 (88號水邊舞臺)</p></td>
-<td><p>下午3點30分~4點10分[166][167] [168][169]</p></td>
+<td><p>下午3點30分~4點10分[170][171] [172][173]</p></td>
 </tr>
 <tr class="even">
 <td><p>11月23日</p></td>
 <td><p>第18屆昌寧郡青少年慶典 </p></td>
 <td><p>昌寧郡民體育館</p></td>
-<td><p>[170][171]</p></td>
+<td><p>[174][175]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月15日</p></td>
 <td><p>ONSTAGEX 12月公演 DIGGING CLUB SEOUL </p></td>
 <td><p>DDP 設計2館</p></td>
-<td><p>晚上5點~9點[172][173]</p></td>
+<td><p>晚上5點~9點[176][177]</p></td>
 </tr>
 <tr class="even">
 <td><p>12月21日</p></td>
@@ -1573,30 +1620,30 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 &lt;YOLO (YOU ONLY LOVE ONCE)&gt; </p></td>
 <td><p>HanaTour V Hall</p></td>
 <td><p>特別嘉賓<br />
-晚上8點開始[174][175]</p></td>
+晚上8點開始[178][179]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月27日</p></td>
 <td><p>INDIE NURI 8 <Stella Jang> </p></td>
 <td><p>金海文化殿堂 Nuri Hall</p></td>
-<td><p>晚上7點30分開始[176]</p></td>
+<td><p>晚上7點30分開始[180]</p></td>
 </tr>
 <tr class="even">
 <td><p>12月28日</p></td>
 <td><p>束草文化演唱會 "束草啊 玩吧" </p></td>
 <td><p>束草文化藝術會館大禮堂</p></td>
-<td><p>晚上7點30分開始[177]</p></td>
+<td><p>晚上7點30分開始[181]</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月29日</p></td>
 <td><p>2018 Soundberry Theater -  ＆ Stella Jang </p></td>
 <td><p>誠信女子大學雲亭校區大禮堂</p></td>
-<td><p>下午3點開始[178][179]</p></td>
+<td><p>下午3點開始[182][183]</p></td>
 </tr>
 <tr class="even">
 <td><p>2018 Soundberry Theater - ADOY ＆ Stella Jang </p></td>
 <td><p>誠信女子大學雲亭校區大禮堂</p></td>
-<td><p>晚上7點開始[180][181]</p></td>
+<td><p>晚上7點開始[184][185]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1616,77 +1663,89 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 <td><p>1月13日</p></td>
 <td><p>Times Square 文化公演 </p></td>
 <td><p>永登浦時代廣場</p></td>
-<td><p>下午5點開始[182]</p></td>
+<td><p>下午5點開始[186]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月6日</p></td>
 <td><p>2019 LOVESOME FESTIVAL </p></td>
 <td><p>延世大學露天劇場</p></td>
 <td><p>下午3點20分~4點<br />
-同時參與下午4點40分~5點40分的SIGN EVENT[183][184] [185]</p></td>
+同時參與下午4點40分~5點40分的SIGN EVENT[187][188] [189]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月7日</p></td>
 <td><p>2019 大清湖大德音樂節 </p></td>
 <td><p>大清公園</p></td>
-<td><p>下午5點~6點 [186][187][188]</p></td>
+<td><p>下午5點~6點 [190][191][192]</p></td>
 </tr>
 <tr class="even">
 <td><p>4月27日</p></td>
 <td><p>2019 李承煥 FESTIVAL </p></td>
 <td><p>倉洞市立運動場</p></td>
-<td><p>下午2點05分~2點40分[189][190]</p></td>
+<td><p>下午2點05分~2點40分[193][194]</p></td>
 </tr>
 <tr class="odd">
 <td><p>5月11日</p></td>
 <td><p>Beautiful Mint Life 2019 </p></td>
 <td><p>奧林匹克公園</p></td>
 <td><p>Mint Breeze Stage<br />
-下午3點10分~4點[191][192][193]</p></td>
+下午3點10分~4點[195][196][197]</p></td>
 </tr>
 <tr class="even">
+<td><p>5月18日</p></td>
+<td><p>2019 YAMAHA FESTIVAL </p></td>
+<td><p>三千浦大橋公園</p></td>
+<td><p>晚上5點~6點30分[198][199]</p></td>
+</tr>
+<tr class="odd">
 <td><p>5月25日</p></td>
 <td><p>第23屆安陽市青少年慶典 </p></td>
 <td><p>坪村中央公園主舞臺</p></td>
-<td><p>下午2點~8點30分[194][195]</p></td>
+<td><p>下午2點~8點30分[200][201]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月1日–2日</p></td>
 <td><p>2019 Rainbow &amp; Music Festival </p></td>
 <td><p>京畿道加平郡鱉島</p></td>
-<td><p>[196][197]</p></td>
+<td><p>[202][203]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月9日</p></td>
 <td><p>2019 DMZ Peace Train Music Festival </p></td>
 <td><p>江原道 鐵原孤石亭</p></td>
 <td><p>PLAY STAGE<br />
-下午6點10分~6點40分[198][199][200][201][202]</p></td>
+下午6點10分~6點40分[204][205][206][207][208]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月14日</p></td>
 <td><p>2019 桑達公園夜間演唱會 - 濟州 </p></td>
 <td><p>桑達公園</p></td>
-<td><p>Thank you for the music主題[203]</p></td>
+<td><p>Thank you for the music主題[209]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7月2日</p></td>
 <td><p>2019 Matinee Concert<br />
 <PUDDITORIUM的Cinema Brunch Season2> </p></td>
 <td><p>電影殿堂天空劇場</p></td>
-<td><p>[204]</p></td>
+<td><p>[210]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7月6日–7日</p></td>
 <td><p>2019 Uuban Music Festival </p></td>
 <td><p>世宗大學Convention Center及大洋Hall</p></td>
-<td><p>[205][206][207][208]</p></td>
+<td><p>[211][212][213][214]</p></td>
+</tr>
+<tr class="odd">
+<td><p>7月20日–21日</p></td>
+<td><p>GREEN PLUGGED DONGHAE 2019 </p></td>
+<td><p>東海 望祥海水浴場</p></td>
+<td><p>[215][216]</p></td>
 </tr>
 <tr class="even">
 <td><p>9月28日</p></td>
 <td><p>2019昌原文化FESTA </p></td>
 <td><p>城山藝術廳</p></td>
-<td><p>[209][210][211]</p></td>
+<td><p>[217][218][219]</p></td>
 </tr>
 </tbody>
 </table>
@@ -1927,3 +1986,11 @@ Henri-IV](https://zh.wikipedia.org/wiki/Lycée_Henri-IV "wikilink"))後進入[�
 209.
 210.
 211.
+212.
+213.
+214.
+215.
+216.
+217.
+218.
+219.

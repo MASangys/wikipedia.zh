@@ -533,7 +533,7 @@
 <td><center></td>
 <td><p>江聰明的父親</p></td>
 <td><center>
-<p>11</p></td>
+<p>11，13-14，16-18</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -543,7 +543,7 @@
 <td><center></td>
 <td><p>大仁高中新任校長</p></td>
 <td><center>
-<p>11-12</p></td>
+<p>11-12，14-16</p></td>
 </tr>
 <tr class="even">
 <td><center>

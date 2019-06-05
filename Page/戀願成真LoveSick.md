@@ -1,8 +1,7 @@
-《**戀願成真LoveSick**》是Tachi創作的日本[四格漫畫作品](../Page/四格漫畫.md "wikilink")。于2016年3月26日發售的《[COMIC
-CUNE](https://zh.wikipedia.org/wiki/COMIC_CUNE "wikilink")》2016年5月號雜誌開始連載。\[1\]於2018年4月27日發售的《COMIC
-CUNE》2018年6月號發表最終回\[2\]。ComicWalker網站也發表該漫畫。\[3\]已出版全3冊[單行本](https://zh.wikipedia.org/wiki/單行本 "wikilink")。
+是[タチ創作的日本](https://zh.wikipedia.org/wiki/タチ "wikilink")[四格漫畫](../Page/四格漫畫.md "wikilink")。2016年3月26日在《[COMIC
+CUNE](https://zh.wikipedia.org/wiki/COMIC_CUNE "wikilink")》2016年5月號開始連載。作品於2018年4月27日完結，單行本全出版3冊。
 
-## 故事
+## 故事簡介
 
 該作品主要敘述倾听少女的恋爱心声并为之实现恋情的丘比特喜欢上了人类的故事。
 
@@ -17,29 +16,41 @@ CUNE》2018年6月號發表最終回\[2\]。ComicWalker網站也發表該漫畫�
   -
     人類。
 
-## 單行本
+## 出版書籍
 
-| 卷數   | [KADOKAWA](../Page/KADOKAWA.md "wikilink")            |
-| ---- | ----------------------------------------------------- |
-| 發售日期 | [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink") |
-| 1    | 2016年10月27日\[4\]                                      |
-| 2    | 2017年8月26日\[5\]                                       |
-| 3    | 2018年5月26日\[6\]                                       |
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p><a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+</tr>
+<tr class="even">
+<td><p>1</p></td>
+<td><p>2016年10月27日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>2017年8月26日</p></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>2018年5月26日</p></td>
+</tr>
+</tbody>
+</table>
 
-## 參考資料
+## 參考文獻
 
 ## 外部連結
 
-  - [戀願成真LoveSick](http://comiccune.jp/work/1616/)於[COMIC
-    CUNE網站的內容](https://zh.wikipedia.org/wiki/COMIC_CUNE "wikilink")
-  - [戀願成真LoveSick](http://comic-walker.com/contents/detail/KDCW_MF06000038010000_68/)於ComicWalker網站的內容
+  - [戀願成真LoveSick的COMIC CUNE官方網站](http://comiccune.jp/work/1616/)
 
+  -
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
 [Category:四格漫畫](https://zh.wikipedia.org/wiki/Category:四格漫畫 "wikilink")
-
-1.
-2.
-3.
-4.
-5.
-6.

@@ -1,4 +1,4 @@
-《**暖DD·食平D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的飲食節目](../Page/電視廣播有限公司.md "wikilink")[食平D系列的第四輯](../Page/食平D系列.md "wikilink")，全節目共30集，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明擔任主持](../Page/陸浩明.md "wikilink")。本節目於[香港時間](../Page/香港時間.md "wikilink")2015年12月28日起，逢星期一至五22:30－23:00在[翡翠台和](../Page/翡翠台.md "wikilink")[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，並於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
+《**暖DD·食平D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的飲食節目](../Page/電視廣播有限公司.md "wikilink")**食平D系列**的第四輯，全節目共30集，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明擔任主持](../Page/陸浩明.md "wikilink")。本節目於[香港時間](../Page/香港時間.md "wikilink")2015年12月28日起，逢星期一至五22:30－23:00在[翡翠台和](../Page/翡翠台.md "wikilink")[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，並於[myTV提供節目重溫](https://zh.wikipedia.org/wiki/myTV "wikilink")。
 
 ## 每集內容
 
@@ -289,7 +289,7 @@
 <td><p>25</p></td>
 <td><p>1月29日</p></td>
 <td><p>品嘗刁鑽大茶飯<br />
-（嘉賓：<a href="https://zh.wikipedia.org/wiki/Super_Girls" title="wikilink">Super Girls</a> ）</p></td>
+（嘉賓：<a href="https://zh.wikipedia.org/wiki/Super_Girls" title="wikilink">Super Girls</a>）</p></td>
 <td><ul>
 <li>雞泡魚膠蓮子百合湯</li>
 <li>紅棗紅糟蒸羊架</li>

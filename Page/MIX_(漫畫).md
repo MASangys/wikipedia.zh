@@ -2,7 +2,7 @@
 
 ## 概要
 
-《MIX》以《[棒球英豪](../Page/棒球英豪.md "wikilink")》26年後的明青學園作為舞台。
+《MIX》以《[棒球英豪](../Page/棒球英豪.md "wikilink")》26年後（动画为30年后）的明青學園作為舞台。
 
 ## 登場角色
 
@@ -181,7 +181,7 @@
 <td><p>14</p></td>
 <td><p>2019年2月12日</p></td>
 <td><p>ISBN 978-4-09-128858-5</p></td>
-<td><p>2019年4月5日</p></td>
+<td><p>2019年4月4日</p></td>
 </tr>
 </tbody>
 </table>
@@ -242,7 +242,7 @@
 <td><p>第1話</p></td>
 <td></td>
 <td><p>明青的王牌</p></td>
-<td><p>富岡淳宏</p></td>
+<td><p>富岡淳广</p></td>
 <td><p>渡部穩寬</p></td>
 <td><p>西村廣、角谷知美</p></td>
 <td><p>牧孝雄</p></td>
@@ -251,7 +251,7 @@
 <tr class="even">
 <td><p>第2話</p></td>
 <td></td>
-<td><p>我是哥哥，你是弟弟</p></td>
+<td><p>-{zh-cn:我是哥哥 你是弟弟;zh-tw:我是哥哥而你是弟弟}-</p></td>
 <td><p>樋口达人</p></td>
 <td><p>渡部穩寬</p></td>
 <td><p>石田畅</p></td>
@@ -261,7 +261,7 @@
 <tr class="odd">
 <td><p>第3話</p></td>
 <td></td>
-<td><p>明青学园什么的</p></td>
+<td><p>-{zh-cn:明青学园什么的;zh-tw:明青學園這樣的}-</p></td>
 <td><p>福岛幸典</p></td>
 <td><p>柴田匠</p></td>
 <td><p>广冈岁仁、繁田亨、新村杏子、太田慎之介</p></td>
@@ -271,22 +271,63 @@
 <tr class="even">
 <td><p>第4話</p></td>
 <td></td>
-<td><p>好想交换啊</p></td>
+<td><p>-{zh-cn:好想交换啊;zh-tw:真想交換啊}-</p></td>
 <td><p>山田健一</p></td>
 <td><p>山中祥平</p></td>
 <td><p>角谷知美、井戸田あかね、菅原美幸</p></td>
-<td><p>髙田晴仁 |-&lt;!--</p></td>
-<td><p>第5話</p></td>
+<td><p>髙田晴仁</p></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p>第5話</p></td>
+<td></td>
+<td><p>-{zh-cn:你是投手吧？;zh-tw:是投手吧?}-</p></td>
+<td><p>筆坂明规</p></td>
+<td><p>细田纱织、西村广</p></td>
+<td><p>牧孝雄</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>第6話</p></td>
 <td></td>
+<td><p>春天到来的话</p></td>
+<td><p>富岡淳广</p></td>
+<td><p>久慈悟郎</p></td>
+<td><p>小川浩司、吉田肇、饭泉俊臣</p></td>
+<td><p>鳥宏明</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>第7話</p></td>
 <td></td>
+<td><p>擔心?</p></td>
+<td><p>北条千夏</p></td>
+<td><p>渡部穩寬</p></td>
+<td><p>渡部穩寬<br />
+宫泽良太</p></td>
+<td><p>北村友幸、广冈岁仁、佐藤和巳</p></td>
+<td><p>高田晴仁</p></td>
+</tr>
+<tr class="even">
+<td><p>第8話</p></td>
 <td></td>
+<td><p>我的哥哥</p></td>
+<td><p>樋口达人</p></td>
+<td><p>石田畅</p></td>
+<td><p>新村杏子、太田慎之介</p></td>
+<td><p>牧孝雄</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>第9話</p></td>
 <td></td>
-<td><p>--&gt;</p></td>
+<td><p>是大新闻吧</p></td>
+<td><p>福岛幸典</p></td>
+<td><p>柴田匠</p></td>
+<td><p>菅原美幸、角谷知美、井戸田あかね</p></td>
+<td><p>鸟宏明 |-&lt;!--</p></td>
+<td><p>第10話</p></td>
 </tr>
 </tbody>
 </table>

@@ -61,6 +61,7 @@ Ars Technica注意到Fuchsia的很多部分都能工作，尤其是硬件支持\
 [Category:自由作業系統](https://zh.wikipedia.org/wiki/Category:自由作業系統 "wikilink")
 [Category:实时操作系统](https://zh.wikipedia.org/wiki/Category:实时操作系统 "wikilink")
 [Category:未來軟體](https://zh.wikipedia.org/wiki/Category:未來軟體 "wikilink")
+[Category:Google_Fuchsia](https://zh.wikipedia.org/wiki/Category:Google_Fuchsia "wikilink")
 
 1.  <cite class="citation web">Prince, Rob. </cite>
 2.  <cite class="citation web">Lopez, Napier (13 August 2016). </cite>

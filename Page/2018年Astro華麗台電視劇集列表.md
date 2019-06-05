@@ -281,7 +281,7 @@ Legal Mavericks</p></td>
 Rogue Emperor</p></td>
 <td style="text-align: center;"><p>17</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/馬國明" title="wikilink">馬國明</a>、<a href="https://zh.wikipedia.org/wiki/周麗淇" title="wikilink">周麗淇</a>、<a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a>、<br />
-<a href="../Page/黃智雯.md" title="wikilink">黃智雯</a>、<a href="../Page/古明華.md" title="wikilink">古明華</a>、<a href="https://zh.wikipedia.org/wiki/謝東閔" title="wikilink">謝東閔</a></p></td>
+<a href="../Page/黃智雯.md" title="wikilink">黃智雯</a>、<a href="../Page/古明華.md" title="wikilink">古明華</a>、<a href="../Page/謝東閔_(香港).md" title="wikilink">謝東閔</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/潘嘉德.md" title="wikilink">潘嘉德</a></p></td>
 <td style="text-align: center;"><p>主：四方（<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>）<br />
 插：乾杯（<a href="../Page/羅鈞滿.md" title="wikilink">羅鈞滿</a>、<a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a>、<a href="../Page/姚兵.md" title="wikilink">姚　兵</a>）<br />
@@ -319,7 +319,7 @@ Recipes To Live By</p></td>
 The No No Girl</p></td>
 <td style="text-align: center;"><p>20</p></td>
 <td style="text-align: center;"><p><a href="../Page/張兆輝.md" title="wikilink">張兆輝</a>、<a href="../Page/陳松伶.md" title="wikilink">陳松伶</a>、<a href="../Page/張振朗.md" title="wikilink">張振朗</a>、<br />
-<a href="../Page/陳瀅.md" title="wikilink">陳　瀅</a>、<a href="https://zh.wikipedia.org/wiki/謝東閔" title="wikilink">謝東閔</a>、<a href="../Page/王卓淇.md" title="wikilink">王卓淇</a></p></td>
+<a href="../Page/陳瀅.md" title="wikilink">陳　瀅</a>、<a href="../Page/謝東閔_(香港).md" title="wikilink">謝東閔</a>、<a href="../Page/王卓淇.md" title="wikilink">王卓淇</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/陳耀全.md" title="wikilink">陳耀全</a></p></td>
 <td style="text-align: center;"><p>主：我有我美麗（<a href="https://zh.wikipedia.org/wiki/胡定欣" title="wikilink">胡定欣</a>）</p></td>
 <td style="text-align: center;"></td>

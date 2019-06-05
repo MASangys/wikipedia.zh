@@ -88,7 +88,7 @@ SILK（配以[CELT](https://zh.wikipedia.org/wiki/CELT "wikilink")）是混合�
     Codec](http://skypejournal.com/2009/01/skype-for-windows-40-beta-3-hotfix.html),
     Retrieved 2009-09-01
 
-13. <http://about.skype.com/2009/02/allnew_skype_now_available.html>
+13.
 
 14. Jonathan Christensen (2009-03-03) [SILK, our super wideband audio
     codec, is now available for

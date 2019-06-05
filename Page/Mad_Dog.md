@@ -440,7 +440,7 @@
 
 ## 腳註
 
-## 外部鏈接
+## 外部連結
 
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/maddog/index.html)
   - [Mad

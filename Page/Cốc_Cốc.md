@@ -26,7 +26,7 @@ X两种操作系统](https://zh.wikipedia.org/wiki/OS_X "wikilink")，\[2\]\[3\]
     dấu](https://web.archive.org/web/20130708192753/http://vnreview.vn/tin-tuc-san-pham-moi/-/view_content/content/535630/trinh-duyet-co-rom-ho-tro-chuyen-ngu-tieng-viet-khong-dau)
 
   -
-[Category:Webkit衍生軟體](https://zh.wikipedia.org/wiki/Category:Webkit衍生軟體 "wikilink")
+[Category:基于Chromium的浏览器](https://zh.wikipedia.org/wiki/Category:基于Chromium的浏览器 "wikilink")
 [Category:開放原始碼](https://zh.wikipedia.org/wiki/Category:開放原始碼 "wikilink")
 [Category:自由网页浏览器](https://zh.wikipedia.org/wiki/Category:自由网页浏览器 "wikilink")
 [Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink")

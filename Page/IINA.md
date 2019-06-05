@@ -4,9 +4,9 @@
 
 IINA采用[OS X Yosemite后的新设计语言](../Page/OS_X_Yosemite.md "wikilink")。
 
-由于IINA采用作为播放内核，其支持的文件格式与相同。同时，IINA保留的配置文件和[lua脚本系统](https://zh.wikipedia.org/wiki/lua "wikilink")，现有的用户可以无缝切换到IINA。
+由于IINA采用mpv作为播放内核，其支持的文件格式与mpv相同。同时，IINA保留mpv的配置文件和[lua脚本系统](https://zh.wikipedia.org/wiki/lua "wikilink")，现有的mpv用户可以无缝切换到IINA。
 
-IINA支持[MacOS的多种新特性](../Page/MacOS.md "wikilink")。如：黑暗模式、[画中画](../Page/画中画.md "wikilink")、[Force
+IINA支持macOS的多种新特性。如：黑暗模式、[画中画](../Page/画中画.md "wikilink")、[Force
 Touch](../Page/3D_Touch.md "wikilink")、[Touch
 Bar等](https://zh.wikipedia.org/wiki/MacBook_Pro#第四代_（触控栏） "wikilink")\[2\]。
 

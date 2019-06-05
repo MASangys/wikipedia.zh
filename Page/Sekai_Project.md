@@ -581,7 +581,7 @@ Project改为於其合作伙伴Denpasoft上发售成人游戏。以《[灰色的
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="../Page/戀愛是甜蜜調味料.md" title="wikilink">戀愛是甜蜜調味料</a></p></td>
 <td><p>Canvas+Garden</p></td>
 <td><p>2018年9月7日</p></td>
 <td></td>

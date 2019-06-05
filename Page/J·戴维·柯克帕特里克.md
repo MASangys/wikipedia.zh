@@ -15,9 +15,7 @@
   - ["Ask an Astronomer" video from 2003 entitled "What is a Brown
     Dwarf?"](http://coolcosmos.ipac.caltech.edu/cosmic_classroom/ask_astronomer/video/2003-003.shtml)
 
-[Category:1964年出生](https://zh.wikipedia.org/wiki/Category:1964年出生 "wikilink")
 [Category:美国天文学家](https://zh.wikipedia.org/wiki/Category:美国天文学家 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 [Category:亞利桑那大學校友](https://zh.wikipedia.org/wiki/Category:亞利桑那大學校友 "wikilink")
 [Category:范德堡大學校友](https://zh.wikipedia.org/wiki/Category:范德堡大學校友 "wikilink")
 

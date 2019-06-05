@@ -152,10 +152,10 @@ KMTV Asia</p></td>
 [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
 1.
-2.  [新女團The Ark首波概念照](http://kpopn.niusnews.com/=K1n4bab1)
+2.
 3.  [디아크(THE ARK)_유나킴(YUNA KIM)_Image
     film](https://www.youtube.com/watch?v=TdRoSdvMaRU)
-4.  [YUNA KIM、全珉柱退出 THE ARK！](http://kpopn.niusnews.com/=K321tf84)
+4.
 5.  [Euna Kim And Lee Suji Open Up About The Ark’s Disbandment And
     Perform On “The
     Unit”](https://www.soompi.com/2017/11/04/watch-euna-kim-lee-suji-open-the-arks-disbandment-perform-unit/)

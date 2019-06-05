@@ -43,7 +43,7 @@ PlotData =
 ` color:grey width:14 textcolor:black align:left anchor:from`
 ` bar:Se-chan_梁世燦 from:16/04/2017 till:end`
 
-</timeline> |}
+</timeline>
 
 ## 節目成員
 
@@ -122,7 +122,7 @@ Race Starter(레이스 스타터)<br />
 鼻泰(코태)<br />
 清汤男孩(지리보이)<br />
 小便失禁男孩(소변지리보이)<br />
-水流里蜜拳（수유리 허니핀지）</p></td>
+水流里蜜拳(수유리 허니핀지)</p></td>
 <td><p>《Angel》<br />
 <a href="../Page/朴軫永.md" title="wikilink">朴軫永</a>《니가 사는 그 집》[3]<br />
  -《I Swear》</p></td>
@@ -208,7 +208,8 @@ Miss懵(미스멍)<br />
 宋關泰(송관태))<br />
 睡公主(잠의 여신)<br />
 五秒答問王(오초 토크 마스터)<br />
-懵社長(멍사장)</p></td>
+懵社長(멍사장)<br />
+破壞之王(파괴지왕)</p></td>
 <td><p>《<a href="../Page/愤怒的小鸟系列.md" title="wikilink">愤怒的小鸟系列</a>》遊戲主題曲<br />
 <a href="../Page/1世代.md" title="wikilink">1世代</a>《What Makes You Beautiful》<br />
 <a href="../Page/4minute.md" title="wikilink">4minute</a>《Hot Issue》</p></td>
@@ -249,7 +250,8 @@ Miss懵(미스멍)<br />
 光基范(광기범)<br />
 <strong>小偷/騙子/賤精</strong>(얌생이)<br />
 光巴佩(광바페)<br />
-李伙計 腳趾光洙(발톱 광수)<br />
+李伙計<br />
+腳趾光洙(발톱 광수)<br />
 宋仲基好友</p></td>
 <td><p><a href="../Page/史汀.md" title="wikilink">史汀</a>《Saint Agnes and The Burning Train》<br />
 Onble Game《Theme of False Emperor》<br />
@@ -532,7 +534,8 @@ IU，想你了<br />
 <td><p>由於劉在錫與金鍾國兩人於早期各成為兩隊的隊長，加上兩人在節目中的對立角色，故有這個稱號。</p></td>
 </tr>
 <tr class="even">
-<td><p>7012 （칠공일이）</p></td>
+<td><p>7012<br />
+（칠공일이）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/Gary_(韓國歌手).md" title="wikilink">Gary</a>、<a href="../Page/Haha.md" title="wikilink">Haha</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a></p></td>
 <td><p>在第276集正式出現，Gary解開房子的密碼（4個數字：7、0、1、2），韓文意思是「7位成員永遠在一起」。</p></td>
 </tr>
@@ -543,7 +546,8 @@ IU，想你了<br />
 <td><p>在節目上兩人時常鬥嘴互相嫌棄，甚至踢腿抓頭髮，事後又互相關懷照顧，相愛相殺的模樣，為節目增添不少笑料。第249集中，字幕標註「該玩的時候玩，該工作的時候工作，這就是懵光姊弟愛的表現方式」。</p></td>
 </tr>
 <tr class="even">
-<td><p>9012 （구공일이）</p></td>
+<td><p>9012<br />
+（구공일이）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/Gary_(韓國歌手).md" title="wikilink">Gary</a>、<a href="../Page/Haha.md" title="wikilink">Haha</a>、<a href="../Page/宋智孝.md" title="wikilink">宋智孝</a>、<a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a>、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a></p></td>
 <td><p>第346集梁世燦和全昭旻成為「Running Man」後提起（加上2016年11月退出的Gary，因此是9012，而不是8012）</p></td>
 </tr>
@@ -556,7 +560,8 @@ IU，想你了<br />
 （배신자 커플）<br />
 作秀情侣<br />
 （꼴값 커플)<br />
-飛蛾情侶 （나방 커플）</p></td>
+飛蛾情侶<br />
+（나방 커플）</p></td>
 <td><p><a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></p></td>
 <td><p>出現於第348集提起，取兩人之共同個性（前面集數中各自有背叛）。<br />
 出現於第356集提起，成員車上等待時，金鍾國取2人之共同個性（行為奇怪）。<br />
@@ -589,7 +594,8 @@ IU，想你了<br />
 <td><p>第378集開始提起，在<a href="https://zh.wikipedia.org/wiki/紐西蘭" title="wikilink">紐西蘭的內維斯鞦韆</a>(Nevis Arc)接受懲罰，故有這個稱號。</p></td>
 </tr>
 <tr class="even">
-<td><p>朋友關係 （친구사이）</p></td>
+<td><p>朋友關係<br />
+（친구사이）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="../Page/梁世燦.md" title="wikilink">梁世燦</a></p></td>
 <td><p>第390集開始提起。</p></td>
 </tr>
@@ -598,13 +604,11 @@ IU，想你了<br />
 （처벌 팀）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/池錫辰" title="wikilink">池錫辰</a>、<a href="../Page/劉在錫.md" title="wikilink">劉在錫</a>、<a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a>、<a href="../Page/全昭旻.md" title="wikilink">全昭旻</a></p></td>
 <td><p>在多個國際特輯中同樣需要接受懲罰之四名成員<br />
-國際特輯懲罰包括：</p>
-<ol>
-<li>危險的觀光：戰悚迷宮</li>
-<li>半半旅行：鱷魚死亡之籠</li>
-<li>家族團遊計劃：漫步雲端、幽靈酒店</li>
-</ol>
-<p>因此四人自稱為懲罰小隊，對於出現這狀況連製作組都表示感到非常神奇。</p></td>
+國際特輯懲罰包括：<br />
+#危險的觀光：戰悚迷宮<br />
+#半半旅行：鱷魚死亡之籠<br />
+#家族團遊計劃：漫步雲端、幽靈酒店<br />
+因此四人自稱為懲罰小隊，對於出現這狀況連製作組都表示感到非常神奇。</p></td>
 </tr>
 <tr class="even">
 <td><p>國旻兄妹</p></td>

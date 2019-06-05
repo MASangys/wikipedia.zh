@@ -13,5 +13,5 @@
   - [EdmundDZhang](https://www.youtube.com/user/EdmundDZhang)的Youtube頻道
 
 [Category:武汉人](https://zh.wikipedia.org/wiki/Category:武汉人 "wikilink")
-[Category:中国大陆网络红人](https://zh.wikipedia.org/wiki/Category:中国大陆网络红人 "wikilink")
+[Category:中國網路紅人](https://zh.wikipedia.org/wiki/Category:中國網路紅人 "wikilink")
 [Category:张姓](https://zh.wikipedia.org/wiki/Category:张姓 "wikilink")

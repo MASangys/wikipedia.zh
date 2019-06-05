@@ -13,7 +13,7 @@ Gemini 3車身，與首輛樣辦車不同。
 
 ## 香港
 
-### 配Wright Eclipse Gemini 2車身的富豪B8L(AVBWL)
+### 配Wright Eclipse Gemini 2車身的富豪B8L（AVBWL）
 
 [AVBWL1_KMB_6C_06-08-2017.jpg](https://zh.wikipedia.org/wiki/File:AVBWL1_KMB_6C_06-08-2017.jpg "fig:AVBWL1_KMB_6C_06-08-2017.jpg")
 2016年12月17日，網上流傳指北愛爾蘭Wright廠房有一輛配Wright Eclipse Gemini
@@ -37,10 +37,8 @@ Euro 6」水牌於富豪水牌之下。
 
 AVBWL1於2018年4月27日調往九龍灣車廠將軍澳分支（K）上掛93K線，後於2019年1月29日重新調回荔枝角車廠（L）。
 
-### 配MCV EvoSeti車身的富豪B8L(AVBML)
+### 配MCV EvoSeti車身的富豪B8L（AVBML）
 
-[AVBML1_at_Jordan,_West_Kowloon_Station_(20190322093113).jpg](https://zh.wikipedia.org/wiki/File:AVBML1_at_Jordan,_West_Kowloon_Station_\(20190322093113\).jpg "fig:AVBML1_at_Jordan,_West_Kowloon_Station_(20190322093113).jpg")
-[WA756-AVBML1-69X.jpg](https://zh.wikipedia.org/wiki/File:WA756-AVBML1-69X.jpg "fig:WA756-AVBML1-69X.jpg")
 根據網友提供的消息，九巴將於2018年引入由埃及Manufacturing Commercial Vehicles
 Group（MCV）公司提供車身的富豪B8L，這將是繼VDL
 DB300（AMC1／SY4050）及富豪B7RLE之後，九巴引入的第三款裝嵌MCV車身的巴士。車身款式是英國富豪B5TL使用的車身，
@@ -50,7 +48,11 @@ Ethos座椅，採用「城市脈搏」紅色塗裝，落車門上方改用動態
 巴士於2018年2月5日日間以車船「Asian
 Parade」運抵香港。同年3月20日，代理商把此車駛往[新巴創富道車廠作測試之用](../Page/新巴創富道車廠.md "wikilink")\[2\]。2018年4月11日，代理安排此車作首次驗車\[3\]。此車已於2019年3月5日出牌並入籍屯門車廠，車牌號碼為WA756，成為全港首部W字頭的專利巴士。車隊編號為AVBML1，2019年3月22日連同V6B1正式投入服務。
 
-### 配Wright Gemini 3車身的富豪B8L(V6B)
+AVBML1 at Jordan, West Kowloon Station (20190322093113).jpg|九巴配MCV
+EvoSeti車身的B8L WA756-AVBML1-69X.jpg|[九巴配MCV](../Page/九龍巴士.md "wikilink")
+EvoSeti 3車身的富豪B8L的AVBML1行駛[69X線](../Page/九龍巴士69X線.md "wikilink")
+
+### 配Wright Gemini 3車身的富豪B8L（V6B）
 
 #### 九巴
 
@@ -67,6 +69,10 @@ Parade」運抵香港。同年3月20日，代理商把此車駛往[新巴創富�
   - 部分新車下層車廂內設有行李架\[6\]。
 
 此批首三架巴士已於2018年10月及11月抵港。首輛新車於2019年3月14日出牌並入籍屯門車廠，車牌號碼為WA4799，同年3月22日連同AVBML1正式投入服務。
+
+V6B22 WC7411
+(2).jpg|WC7411（V6B22）停泊在[洪福邨公共運輸交匯處](../Page/洪福邨公共運輸交匯處.md "wikilink")
+WC9561-V6B31-265B.jpg|WC9561（V6B31）停泊在[旺角（柏景灣）公共運輸交匯處](../Page/旺角（柏景灣）公共運輸交匯處.md "wikilink")
 
 #### 龍運巴士
 

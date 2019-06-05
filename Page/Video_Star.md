@@ -11,7 +11,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
   - [朴素賢](../Page/朴素賢.md "wikilink")（2016年7月12日－至今）
   - [金淑](../Page/金淑.md "wikilink")（2016年7月12日－至今）
   - [朴娜勑](../Page/朴娜勑.md "wikilink")（2016年7月12日－至今）
-  - [Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")（2019年2月3日－至今）
+  - [Dara](https://zh.wikipedia.org/wiki/Dara "wikilink")（2019年2月5日－至今）
 
 ### 已退出主持
 
@@ -361,7 +361,7 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <tr class="odd">
 <td><p>34</p></td>
 <td><p>2月28日</p></td>
-<td><p><a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a> (、)、 (<a href="https://zh.wikipedia.org/wiki/Hangzoo" title="wikilink">Hangzoo</a>、<a href="https://zh.wikipedia.org/wiki/地球人_(歌手)" title="wikilink">地球人</a>、<a href="https://zh.wikipedia.org/wiki/Boi_B" title="wikilink">Boi B</a>)</p></td>
+<td><p><a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a> (、)、<a href="../Page/Rhythm_Power.md" title="wikilink">Rhythm Power</a> (<a href="https://zh.wikipedia.org/wiki/Hangzoo" title="wikilink">Hangzoo</a>、<a href="https://zh.wikipedia.org/wiki/地球人_(歌手)" title="wikilink">地球人</a>、<a href="https://zh.wikipedia.org/wiki/Boi_B" title="wikilink">Boi B</a>)</p></td>
 <td><p>“旋律人Duo~最强自信”特辑</p></td>
 <td></td>
 </tr>
@@ -1061,11 +1061,25 @@ Star》基本相同，不同的是《Video Star》的主持全部由女艺人担
 <td><p><a href="https://zh.wikipedia.org/wiki/Dara" title="wikilink">Dara作為特別MC主持</a>。</p></td>
 </tr>
 <tr class="odd">
+<td><p>130</p></td>
+<td><p>2月5日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Tony_An" title="wikilink">Tony An</a>、<a href="../Page/金伊娜.md" title="wikilink">金伊娜</a>、<a href="../Page/皇甫惠貞.md" title="wikilink">皇甫</a>、<a href="https://zh.wikipedia.org/wiki/JeA" title="wikilink">JeA</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dara" title="wikilink">Dara加入固定主持</a>。</p></td>
+</tr>
+<tr class="even">
+<td><p>131</p></td>
+<td><p>2月12日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭珍雲" title="wikilink">鄭珍雲</a>、<a href="https://zh.wikipedia.org/wiki/Mir" title="wikilink">Mir</a>、<a href="../Page/天動.md" title="wikilink">天動</a>、DinDin</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>144</p></td>
+<td><p>5月14日</p></td>
+<td><p><a href="../Page/高耀太.md" title="wikilink">高耀太</a>、<a href="https://zh.wikipedia.org/wiki/Ailee" title="wikilink">Ailee</a></p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/KARD.md" title="wikilink">KARD作特別嘉賓</a>。</p></td>
 </tr>
 </tbody>
 </table>

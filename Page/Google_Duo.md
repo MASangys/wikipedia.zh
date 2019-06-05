@@ -1,5 +1,5 @@
 **Duo**是[Google开发的一款](../Page/Google.md "wikilink")[手机应用](../Page/流動應用程式.md "wikilink")，同时提供[Android和](../Page/Android.md "wikilink")[iOS版](https://zh.wikipedia.org/wiki/iOS "wikilink")。2016年5月18日，它在[Google
-I/O大会上](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")\[1\]\[2\]与即时通信应用[Allo一同宣布](../Page/Google_Allo.md "wikilink")。Duo于8月16日在美国正式推出，并于几天后扩展到全球。\[3\]\[4\]\[5\]Duo在推出2天后便爬升至[Google
+I/O大会上](https://zh.wikipedia.org/wiki/Google_I/O "wikilink")\[1\]\[2\]与即时通信应用[Allo一同宣布](../Page/Google_Allo.md "wikilink")。Duo于8月16日在美国正式推出，并于几天后拓展到全球。\[3\]\[4\]\[5\]Duo在推出2天后便爬升至[Google
 Play免费应用榜单的第一名](../Page/Google_Play.md "wikilink")。\[6\]
 
 ## 功能

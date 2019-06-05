@@ -63,6 +63,70 @@ STORIES》六部動畫電影，是原創動畫《K》系列新動畫電影作品
   - 「SURVIVE\!」
     演出 - angela\[7\]
 
+### 片尾曲
+
+  - \[BLAZE\] (第一部)
+    作词：atsuko
+    作曲：atsuko,KATSU
+    编曲：KATSU
+    歌：[angela](https://zh.wikipedia.org/wiki/angela "wikilink")
+
+<!-- end list -->
+
+  - \[天狼の如く\] (第二部)
+    作词：atsuko
+    作曲：atsuko,KATSU
+    编曲：KATSU
+    歌：[angela](https://zh.wikipedia.org/wiki/angela "wikilink")
+
+<!-- end list -->
+
+  - ［上書き世界］ (第三部)
+    作词：atsuko
+    作曲：atsuko,KATSU
+    编曲：KATSU
+    歌：[angela](https://zh.wikipedia.org/wiki/angela "wikilink")
+
+<!-- end list -->
+
+  - \[Lost Small World\~欖の向こうに\~］ (第四部)
+    作词：atsuko
+    作曲：atsuko,KATSU
+    编曲：KATSU
+    歌：[angela](https://zh.wikipedia.org/wiki/angela "wikilink")
+
+<!-- end list -->
+
+  - \[BURN\] (第五部)
+    作词：atsuko
+    作曲：atsuko,KATSU
+    编曲：KATSU
+    歌：[angela](https://zh.wikipedia.org/wiki/angela "wikilink")
+
+<!-- end list -->
+
+  - \[Nameless Song\] (第六部)
+    作词：atsuko
+    作曲：atsuko,KATSU
+    编曲：KATSU
+    歌：[angela](https://zh.wikipedia.org/wiki/angela "wikilink")
+
+<!-- end list -->
+
+  - \[Kiss\!Kiss\!Kiss\!\] (偶像篇)
+    作词：来楽零(GoRA)
+    作曲：設楽哲也
+    编曲：設楽哲也
+    歌：伊佐那社（CV:[浪川大輔](../Page/浪川大輔.md "wikilink")）
+      -
+
+          -
+            夜刀神狗朗（CV:[小野大輔](../Page/小野大輔.md "wikilink")）
+            比水流（CV:[與津和幸](https://zh.wikipedia.org/wiki/與津和幸 "wikilink")）
+            御芍神紫（CV:[森田成一](../Page/森田成一.md "wikilink")）
+            八田美咲（CV:[福山潤](../Page/福山潤.md "wikilink")）
+            伏見猿比古（CV:[宮野真守](../Page/宮野真守.md "wikilink")）
+
 ### 電影
 
 <table>

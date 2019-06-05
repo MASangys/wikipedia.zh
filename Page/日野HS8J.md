@@ -41,7 +41,7 @@ KKA-2591.jpg|[新店客運KKA](https://zh.wikipedia.org/wiki/新店客運 "wikil
 <File:HINO> - HS8JRVL -
 KKA-0580.jpg|[大南汽車KKA](https://zh.wikipedia.org/wiki/大南汽車 "wikilink")-0580
 
-  - 敦峰汽車
+  - 金龍汽車(敦峰)
 
 <File:淡水客運2018> HINO HS8JRVL-UTF KKA-0113
 860.jpg|[淡水客運KKA](../Page/淡水客運.md "wikilink")-0113

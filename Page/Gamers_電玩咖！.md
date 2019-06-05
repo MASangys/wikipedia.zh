@@ -173,6 +173,11 @@
 <td></td>
 <td><p>2019年2月20日</p></td>
 </tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td></td>
+<td><p>2019年6月20日</p></td>
+</tr>
 </tbody>
 </table>
 

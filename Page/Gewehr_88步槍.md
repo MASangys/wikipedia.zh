@@ -18,7 +18,7 @@
 [Clip_Mauser_Gewehr_88.jpg](https://zh.wikipedia.org/wiki/File:Clip_Mauser_Gewehr_88.jpg "fig:Clip_Mauser_Gewehr_88.jpg")
 Gew
 88是一種旋轉後拉式機制的步槍，它有著不少源自[奥匈帝國曼利夏公司的設計](https://zh.wikipedia.org/wiki/奥匈帝國 "wikilink")。當中包括其供彈系統，該槍採用常見於曼利夏步槍的盒式彈倉，並以一個5發容量的漏夾供彈，漏夾的特點是會在最後一發子彈上膛後自彈倉底部的穴中掉出，這可减少重新裝填的時間，但同時也較容易令污染物進入彈倉內部，有機會導致供彈故障。為了解決專利問題的糾紛，德國當局指定曼利夏公司為Gew
-88的生產商之一。該槍的槍機系統也採納了曼利夏公司的設計，並加以改良，槍栓為[轉拴式](https://zh.wikipedia.org/wiki/轉拴式槍栓 "wikilink")。其槍管和膛線則完全仿製自[勒貝爾M1886步槍](../Page/勒貝爾M1886步槍.md "wikilink")。較特别的是，其槍管是被包裹在一條金屬管內，這除了有保護槍管的作用之外還能夠阻止其直接與槍身接觸，令其帶有[自由浮動式槍管的特徵](../Page/自由浮動式槍管.md "wikilink")，故有助於提升精度，但也較易在惡劣環境下使用時因金屬管裡面佈滿積水而導致槍管生銹。Gew
+88的生產商之一。該槍的槍機系統也採納了曼利夏公司的設計，並加以改良，槍栓為[轉拴式](../Page/轉拴式槍栓.md "wikilink")。其槍管和膛線則完全仿製自[勒貝爾M1886步槍](../Page/勒貝爾M1886步槍.md "wikilink")。較特别的是，其槍管是被包裹在一條金屬管內，這除了有保護槍管的作用之外還能夠阻止其直接與槍身接觸，令其帶有[自由浮動式槍管的特徵](../Page/自由浮動式槍管.md "wikilink")，故有助於提升精度，但也較易在惡劣環境下使用時因金屬管裡面佈滿積水而導致槍管生銹。Gew
 88還有著一根像運動步槍的拉機柄。
 
 在彈藥方面，Gew
@@ -46,8 +46,8 @@ Gew
 88也參與了多場革命，以及一戰前後的武裝起義和衝突，當中包括：[俄國內戰](https://zh.wikipedia.org/wiki/俄國內戰 "wikilink")、[德國十一月革命](https://zh.wikipedia.org/wiki/德國十一月革命 "wikilink")、、、、[土耳其獨立戰爭](../Page/土耳其獨立戰爭.md "wikilink")、[蘇波戰爭](https://zh.wikipedia.org/wiki/蘇波戰爭 "wikilink")\[6\]、[愛爾蘭獨立戰爭和](https://zh.wikipedia.org/wiki/愛爾蘭獨立戰爭 "wikilink")[立陶宛獨立戰爭等](https://zh.wikipedia.org/wiki/立陶宛獨立戰爭 "wikilink")。在1919—20年，約5,500枝Gew
 88和Kar 88被提供了給新成立的（由德國當局授權英法兩國出售）。大戰之間的魏瑪共和國繼續為其民兵部隊裝備Gew 88。Gew
 88也在[西班牙內戰被交戰雙方所使用](https://zh.wikipedia.org/wiki/西班牙內戰 "wikilink")\[7\]。[二戰初期](https://zh.wikipedia.org/wiki/二戰 "wikilink")，波蘭\[8\]和南斯拉夫的二線部隊和游擊隊依然有裝備Gew
-88\[9\]。於1940年，英國的也使用部份來自的Gew
-88\[10\]。有部份步槍出現在[東非戰役的](https://zh.wikipedia.org/wiki/東非戰役_\(第二次世界大戰\) "wikilink")[衣索比亞人手上](https://zh.wikipedia.org/wiki/衣索比亞人 "wikilink")。[納粹德國的](../Page/納粹德國.md "wikilink")[人民衝鋒隊於](https://zh.wikipedia.org/wiki/人民衝鋒隊 "wikilink")1944—45年也裝備Gew
+88\[9\]。於1940年，英國的也使用部份來自的Gew 88\[10\]。有部份Gew
+88步槍還出現在[東非戰役的](https://zh.wikipedia.org/wiki/東非戰役_\(第二次世界大戰\) "wikilink")[衣索比亞人手上](https://zh.wikipedia.org/wiki/衣索比亞人 "wikilink")。[納粹德國的](../Page/納粹德國.md "wikilink")[人民衝鋒隊於](https://zh.wikipedia.org/wiki/人民衝鋒隊 "wikilink")1944—45年也裝備Gew
 88\[11\]。
 
 [中國曾是Gew](../Page/中國.md "wikilink")
@@ -77,7 +77,7 @@ S"步槍\[14\]。這種改膛方式需要更多的工序才可完成，因為7.9
 ## 改裝至發射現代子彈
 
 Gew
-88步槍可承受的膛壓比起其他同口徑的步槍都要低。這是因為研發團隊對無煙火藥的一知半解所致的，他們不知道這種新型火藥的威力大大高於以往的[黑火藥](https://zh.wikipedia.org/wiki/黑火藥 "wikilink")。若要改裝至發射現代子彈，用戶必須了解其步槍的樣式，因為每枝Gew
+88步槍可承受的膛壓比起其他同口徑的步槍都要低。這是因為研發團隊對無煙火藥的一知半解所致的，他們不知道這種新型火藥的威力大大高於以往的[黑火藥](https://zh.wikipedia.org/wiki/黑火藥 "wikilink")。若要改裝至發射現代子彈，用戶必須了解其步槍的規格，因為每枝Gew
 88的口徑和膛徑配置相當不統一。而該槍亦不能安全地發射所有高膛壓的機槍用彈。
 
 ## 缺陷

@@ -808,7 +808,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>78</p></td>
 <td><p>1月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/李鉉宇" title="wikilink">李铉宇</a>、、</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李鉉宇" title="wikilink">李铉宇</a>、、<a href="https://zh.wikipedia.org/wiki/金贤哲" title="wikilink">金贤哲</a></p></td>
 <td><p>有妇之夫的申告式<br />
 （上）</p></td>
 <td></td>
@@ -2633,7 +2633,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>345</p></td>
 <td><p>9月18日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a> (<a href="../Page/SHINee.md" title="wikilink">SHINee</a>)、<a href="../Page/金旻鍾.md" title="wikilink">金民钟</a>、<a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">朴炯植</a> (<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>)、<a href="../Page/喜悅Dana.md" title="wikilink">Dana</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a> (<a href="../Page/SHINee.md" title="wikilink">SHINee</a>)、<a href="../Page/金旻鍾.md" title="wikilink">金民钟</a>、<a href="../Page/朴炯植.md" title="wikilink">朴炯植</a> (<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>)、<a href="../Page/喜悅Dana.md" title="wikilink">Dana</a></p></td>
 <td><p>中秋特辑 - 虚伪绅士特辑<br />
 (音乐剧《邦妮和克莱德》特辑)</p></td>
 <td></td>
@@ -2884,7 +2884,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>329</p></td>
 <td><p>5月21日</p></td>
-<td><p>、<a href="../Page/高潤荷.md" title="wikilink">Younha</a>、、<a href="https://zh.wikipedia.org/wiki/朴俊亨" title="wikilink">朴俊亨</a></p></td>
+<td><p>、<a href="../Page/高潤荷.md" title="wikilink">Younha</a>、<a href="https://zh.wikipedia.org/wiki/金贤哲" title="wikilink">金贤哲</a>、<a href="https://zh.wikipedia.org/wiki/朴俊亨" title="wikilink">朴俊亨</a></p></td>
 <td><p>真正的Radio Star裴哲秀和只是DJ们特辑<br />
 (MBC广播DJ特辑)</p></td>
 <td></td>
@@ -4380,8 +4380,8 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>576</p></td>
 <td><p>8月1日</p></td>
-<td><p><a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>、、<a href="../Page/孫娜恩.md" title="wikilink">孫娜恩</a>、<a href="../Page/金楨勳.md" title="wikilink">金楨勳</a></p></td>
-<td></td>
+<td><p><a href="../Page/金鍾旼.md" title="wikilink">金鍾旼</a>、、<a href="../Page/孫娜恩.md" title="wikilink">孫娜恩</a> (<a href="../Page/Apink.md" title="wikilink">Apink</a>)、<a href="../Page/金楨勳.md" title="wikilink">金楨勳</a></p></td>
+<td><p>“说什么靠脸吃饭呢”特輯</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4464,7 +4464,7 @@ Radio Star**》的播出列表。\[4\]
 <tr class="odd">
 <td><p>588</p></td>
 <td><p>10月24日</p></td>
-<td><p>金朝翰、<a href="../Page/鄭恩地.md" title="wikilink">鄭恩地</a>（<a href="../Page/Apink.md" title="wikilink">Apink</a>）、<a href="../Page/李賢_(韓國歌手).md" title="wikilink">李賢</a>、趙彬</p></td>
+<td><p>、<a href="../Page/鄭恩地.md" title="wikilink">鄭恩地</a> (<a href="../Page/Apink.md" title="wikilink">Apink</a>)、<a href="../Page/李賢_(韓國歌手).md" title="wikilink">李賢</a>、 ()</p></td>
 <td><p>“好奇的歌手故事Y”特輯</p></td>
 <td></td>
 </tr>
@@ -4621,7 +4621,7 @@ Radio Star**》的播出列表。\[4\]
 <td><p>608</p></td>
 <td><p>3月13日</p></td>
 <td><p><a href="../Page/李伊庚.md" title="wikilink">李伊庚</a>、<a href="https://zh.wikipedia.org/wiki/金鍾國" title="wikilink">金鍾國</a>、<a href="https://zh.wikipedia.org/wiki/俞世润" title="wikilink">俞世润</a>、</p></td>
-<td><p>“為何那樣，锺国先生”特辑</p></td>
+<td><p>“為何那樣，鍾国先生”特辑</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4665,6 +4665,41 @@ Radio Star**》的播出列表。\[4\]
 <td><p><a href="../Page/邊宇民.md" title="wikilink">邊宇民</a>、<a href="../Page/姜其永.md" title="wikilink">姜其永</a>、<a href="../Page/李現填.md" title="wikilink">李現填</a>、</p></td>
 <td><p>“神秘的演员词典”特辑</p></td>
 <td><p><a href="../Page/許卿煥.md" title="wikilink">許卿煥擔任特别主持</a>。</p></td>
+</tr>
+<tr class="even">
+<td><p>615</p></td>
+<td><p>5月1日</p></td>
+<td><p>、<a href="../Page/安英美.md" title="wikilink">安英美</a>、崔旭、<a href="../Page/朴經.md" title="wikilink">朴經</a> (<a href="../Page/Block_B.md" title="wikilink">Block B</a>)</p></td>
+<td><p>“我耳膜的Candy”特辑</p></td>
+<td><p><a href="../Page/世正.md" title="wikilink">金世正</a> (<a href="https://zh.wikipedia.org/wiki/gu9udan" title="wikilink">gu9udan</a>)擔任特别主持。</p></td>
+</tr>
+<tr class="odd">
+<td><p>616</p></td>
+<td><p>5月8日</p></td>
+<td><p><a href="../Page/卞貞秀.md" title="wikilink">卞貞秀</a>、、、</p></td>
+<td><p>“销售People”特辑</p></td>
+<td><p><a href="../Page/P.O.md" title="wikilink">P.O</a> (<a href="../Page/Block_B.md" title="wikilink">Block B</a>)擔任特别主持。</p></td>
+</tr>
+<tr class="even">
+<td><p>617</p></td>
+<td><p>5月15日</p></td>
+<td><p><a href="../Page/柳承秀.md" title="wikilink">柳承秀</a>、、李多智、</p></td>
+<td><p>“老师的恩惠”特辑</p></td>
+<td><p><a href="../Page/河成雲.md" title="wikilink">河成雲</a> (<a href="../Page/HOTSHOT.md" title="wikilink">HOTSHOT</a>)擔任特别主持。</p></td>
+</tr>
+<tr class="odd">
+<td><p>618</p></td>
+<td><p>5月22日</p></td>
+<td><p>(<a href="../Page/Jinusean.md" title="wikilink">Jinusean</a>)、、、</p></td>
+<td><p>“多孩市 多孩区 多孩洞”特辑</p></td>
+<td><p>擔任特别主持。</p></td>
+</tr>
+<tr class="even">
+<td><p>619</p></td>
+<td><p>5月29日</p></td>
+<td><p>、、、<a href="../Page/孫賢祐.md" title="wikilink">Shownu</a> (<a href="https://zh.wikipedia.org/wiki/MONSTA_X" title="wikilink">MONSTA X</a>)</p></td>
+<td><p>“火热的家伙们”特辑</p></td>
+<td><p><a href="../Page/安英美.md" title="wikilink">安英美擔任特别主持</a>。</p></td>
 </tr>
 </tbody>
 </table>

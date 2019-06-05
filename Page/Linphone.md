@@ -51,7 +51,7 @@ Linphone-4.1.1-windows-settings.png|Linphone 4.1於[Windows
 
 ## 參考資料
 
-## 外部鏈接
+## 外部連結
 
   -
 [Category:Android软件](https://zh.wikipedia.org/wiki/Category:Android软件 "wikilink")

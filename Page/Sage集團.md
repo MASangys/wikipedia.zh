@@ -7,7 +7,8 @@ Sage在[倫敦證券交易所上市](https://zh.wikipedia.org/wiki/倫敦證券�
 ## 外部連結
 
   -
-[Category:英國公司](https://zh.wikipedia.org/wiki/Category:英國公司 "wikilink")
+[Category:英国软件公司](https://zh.wikipedia.org/wiki/Category:英国软件公司 "wikilink")
+[Category:1981年成立的公司](https://zh.wikipedia.org/wiki/Category:1981年成立的公司 "wikilink")
 
 1.
 2.

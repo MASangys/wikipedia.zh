@@ -27,6 +27,7 @@ Scatterometer
   - 2013年获得[NASA Distinguished Public Service
     Medal](https://zh.wikipedia.org/wiki/NASA_Distinguished_Public_Service_Medal "wikilink")
   - 2014年获得[霍华德·休斯纪念奖](https://zh.wikipedia.org/wiki/霍华德·休斯纪念奖 "wikilink")
+  - 2019年獲得[邵逸夫獎](../Page/邵逸夫獎.md "wikilink")
 
 ## 参考来源
 
@@ -37,12 +38,13 @@ Scatterometer
   - [JPL Gallery for Ed
     Stone](https://web.archive.org/web/20100404080806/http://beacon.jpl.nasa.gov/exhibits/directors/Stonegal.htm)
 
+[Category:爱荷华州人](https://zh.wikipedia.org/wiki/Category:爱荷华州人 "wikilink")
+[Category:美国物理学家](https://zh.wikipedia.org/wiki/Category:美国物理学家 "wikilink")
 [Category:加州理工学院教师](https://zh.wikipedia.org/wiki/Category:加州理工学院教师 "wikilink")
-[Category:美国国家科学奖获奖者](https://zh.wikipedia.org/wiki/Category:美国国家科学奖获奖者 "wikilink")
 [Category:旅行者系列](https://zh.wikipedia.org/wiki/Category:旅行者系列 "wikilink")
 [Category:美国国家科学院院士](https://zh.wikipedia.org/wiki/Category:美国国家科学院院士 "wikilink")
-[Category:美国物理学家](https://zh.wikipedia.org/wiki/Category:美国物理学家 "wikilink")
-[Category:爱荷华州人](https://zh.wikipedia.org/wiki/Category:爱荷华州人 "wikilink")
+[Category:美国国家科学奖获奖者](https://zh.wikipedia.org/wiki/Category:美国国家科学奖获奖者 "wikilink")
+[Category:邵逸夫奖得主](https://zh.wikipedia.org/wiki/Category:邵逸夫奖得主 "wikilink")
 
 1.
 2.

@@ -1,5 +1,4 @@
-**違法SmashRegz**成立於2008年，團員為[呂士軒](http://%E5%91%82%E5%A3%AB%E8%BB%92)、張伍、史今。
-\[1\]
+**違法SmashRegz**成立於2008年，團員為[呂士軒](../Page/呂士軒.md "wikilink")、張伍、史今。 \[1\]
 
 ## 音樂作品
 
@@ -21,7 +20,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>1st</strong></p></td>
-<td style="text-align: left;"><p>《<strong><a href="https://zh.wikipedia.org/wiki/戲劇話" title="wikilink">戲劇話</a></strong>》</p>
+<td style="text-align: left;"><p>《<strong>戲劇話</strong>》</p>
 <ul>
 <li>發行日：2015年12月</li>
 <li>唱片公司：機械貓Robokatz Music</li>
@@ -42,7 +41,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>2</strong></p></td>
-<td style="text-align: left;"><p>《<strong><a href="https://zh.wikipedia.org/wiki/歡迎入座-張伍" title="wikilink">歡迎入座-張伍</a></strong>》</p>
+<td style="text-align: left;"><p>《<strong>歡迎入座-張伍</strong>》</p>
 <ul>
 <li>發行日：2017年</li>
 <li>唱片公司：機械貓Robokatz Music</li>
@@ -62,7 +61,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>3</strong></p></td>
-<td style="text-align: left;"><p>《<strong><a href="https://zh.wikipedia.org/wiki/想入非非-史今" title="wikilink">想入非非-史今</a></strong>》</p>
+<td style="text-align: left;"><p>《<strong>想入非非-史今</strong>》</p>
 <ul>
 <li>發行日：2017年</li>
 <li>唱片公司：機械貓Robokatz Music</li>
@@ -83,7 +82,7 @@
 </tr>
 <tr class="even">
 <td style="text-align: left;"><p><strong>4</strong></p></td>
-<td style="text-align: left;"><p>《<strong><a href="https://zh.wikipedia.org/wiki/誤入奇途-呂士軒" title="wikilink">誤入奇途-呂士軒</a></strong>》</p>
+<td style="text-align: left;"><p>《<strong>誤入奇途-呂士軒</strong>》</p>
 <ul>
 <li>發行日：2017年</li>
 <li>唱片公司：機械貓Robokatz Music</li>

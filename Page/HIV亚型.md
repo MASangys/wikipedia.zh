@@ -116,7 +116,7 @@ HIV病毒正在演化为更温和的形式，但要成为不致死的病毒还�
 
 14.
 
-15. [HIV-2](http://www.hivworkshop.com/hiv-2.htm)
+15.
 
 16. [CBER - Donor Screening Assays for Infectious Agents and HIV
     Diagnostic Assays](http://www.fda.gov/cber/products/testkits.htm)

@@ -50,10 +50,11 @@ Everywhere插件的一些不足，包括支持HTTPS服务的列表需要维护�
   - [版本库](https://gitweb.torproject.org/https-everywhere.git)
 
 [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")
-[Category:Opera_Software](https://zh.wikipedia.org/wiki/Category:Opera_Software "wikilink")
+[Category:Opera浏览器](https://zh.wikipedia.org/wiki/Category:Opera浏览器 "wikilink")
 [Category:保密通信](https://zh.wikipedia.org/wiki/Category:保密通信 "wikilink")
 [Category:Tor_(匿名網絡)](https://zh.wikipedia.org/wiki/Category:Tor_\(匿名網絡\) "wikilink")
 [Category:用JavaScript編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用JavaScript編程的自由軟體 "wikilink")
+[Category:Google_Chrome扩展](https://zh.wikipedia.org/wiki/Category:Google_Chrome扩展 "wikilink")
 
 1.
 2.

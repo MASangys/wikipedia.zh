@@ -5,7 +5,7 @@ Plus\!中以](https://zh.wikipedia.org/wiki/Microsoft_Plus! "wikilink")“系统
 Agent）首次引入，随后在[Windows
 98中被更名为任务计划程序](../Page/Windows_98.md "wikilink")。任务计划程序启动前，[Windows事件记录服务必须已在运行](https://zh.wikipedia.org/wiki/Windows事件记录 "wikilink")。
 
-此服务不应与[计算机调度混淆](../Page/调度_\(计算机\).md "wikilink")，那是分配[CPU资源到内存中的进程](../Page/中央处理器.md "wikilink")。
+此服务不应与[计算机调度混淆](../Page/调度_\(计算机\).md "wikilink")，因其为分配[CPU资源到内存中的进程](../Page/中央处理器.md "wikilink")。
 
 ## 版本
 
@@ -54,9 +54,9 @@ XP中，分配为使用SYSTEM权限运行的任务在计算机准备使用[`sysp
 在Windows Vista和Windows Server 2008上，如果未安装Service Pack
 2，任务计划程序中的“下次运行时间”可能显示错误。\[17\]
 
-在Windows Vista、7、2008和2008
-R2上：微软管理控制台在您实际运行“任务计划程序2.0”时会说您正在运行“任务计划程序1.0”。这是一个不足为虑的小瑕疵，很可能是软件开发人员在重写该组件时忘记更改它。在Windows
-8和2012中这已被纠正。
+當用戶在[Windows Vista](../Page/Windows_Vista.md "wikilink")、7、2008以及2008
+R2作業系統上的「微软管理控制台」运行“任务计划程序2.0”版本时会提示用户當前正在运行“任务计划程序1.0”的通知。雖然只是一个不足为虑的小瑕疵，很可能是软件开发人员在重写该组件时忘记修复此Bug。但在后续的Windows
+8和Windows Severe 2012作業系統中已得到糾正。
 
 ## 参见
 

@@ -100,9 +100,11 @@ Funk》等。成員Eunsol因爲幾個她的影片累計超過一百萬點擊量�
 
 2015年八月，在一所高中舉行的一场表演中，Hadam因表演時沒有穿[安全褲而引起大众的批評](https://zh.wikipedia.org/wiki/安全褲 "wikilink")。\[8\]\[9\]
 
+## 註釋
+
 ## 參考資料
 
-## 外部鏈接
+## 外部連結
 
   - [Bambino's Fancafe](http://cafe.daum.net/BAMBINo)
 

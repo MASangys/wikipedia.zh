@@ -48,7 +48,7 @@ PINBALLS**（），2006年組成，成員都來自於[日本](../Page/日本.md 
   - 2011年2月，其團隊的照片被印製成TOWER RECORDS NO MUSIC NO
     LIFE宣傳海報張貼在[JR澀谷站](https://zh.wikipedia.org/wiki/澀谷車站 "wikilink")\[10\]。
   - 2011年3月，首張專輯「天線（<small></small>）」由TOWER RECORDS旗下新成立的[Knock
-    up！](http://knockup.jp/)\[11\]發行，從此正式亮相。
+    up！](https://web.archive.org/web/20110404042920/http://www.knockup.jp/)\[11\]發行，從此正式亮相。
   - 2011年8月，首張迷你專輯「ten bear(s)」首次在日本全國進行販售。
   - 2012年4月，發表以時間旅行為題材的概念專輯「100 years on spaceship」，由Knock
     up！進行販售。同時邀請擔任THE

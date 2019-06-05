@@ -1,7 +1,7 @@
 《**高等Rapper
 2**》（）為[韩国](https://zh.wikipedia.org/wiki/大韩民国 "wikilink")[Mnet在](../Page/Mnet媒體.md "wikilink")[高等Rapper結束一年後打造的第二季](../Page/高等Rapper.md "wikilink")[高中生](https://zh.wikipedia.org/wiki/高中生 "wikilink")[Rapper](../Page/饒舌.md "wikilink")[选秀](../Page/选秀.md "wikilink")[节目](../Page/綜藝節目.md "wikilink")。製作組於2017年12月19日起至隔年1月7日期間募集參賽者，選拔出32名學生參與節目錄製，並於2018年2月23日播出第一集。
 \[1\] 第二季擴大招募範圍，開放準高中生（招募時為國三生，節目播出時為高一生）報名。 優勝者將獲得獎學金一千萬韓元及發售音源的機會。
-曾參與[高等Rapper第一季的參賽者為](../Page/高等Rapper.md "wikilink")：趙元優\[2\]、尹炳浩、吳檀律、金允浩、房載民、李智恩。\[3\]
+曾參與[高等Rapper第一季的參賽者為](../Page/高等Rapper.md "wikilink")：趙元優\[2\]、尹炳浩、吳譚律、金允浩、房載民、李智恩、金夏溫。\[3\]
 第二季冠軍為金夏溫。
 
 ## 主持
@@ -94,7 +94,7 @@
 
 由導師評分（各隊導師50分，滿分200分），從8人組成的小組中淘汰4人、晉級4人。
 
-1.  裵淵瑞組TOP4
+1.  裴淵瑞組TOP4
 2.  金夏溫組TOP4（金夏溫片段在第三集播出\[5\]）
 
 ### 第三集
@@ -131,7 +131,7 @@
 | 題材： 詩             | [San E](../Page/San_E.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink") 隊 | VS            | Boi B ＆ Hangzoo 隊 |
 | 趙元優、金根洙 - 外殼啊 走開  | 尹鎮榮、李勝華 - 搖曳中綻放的花                                                               |               |                   |
 | Boi B ＆ Hangzoo 隊 | VS                                                                              | Groovy Room 隊 |                   |
-| 李盧橺、吳譚律 - 鼓       | 李秉宰、河善浩 - 燃燒的渴望                                                                 |               |                   |
+| 裴淵瑞、吳譚律 - 鼓       | 李秉宰、河善浩 - 燃燒的渴望                                                                 |               |                   |
 
 |                 |                                                                                 |            |            |
 | --------------- | ------------------------------------------------------------------------------- | ---------- | ---------- |
@@ -154,7 +154,7 @@
 | [San E](../Page/San_E.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink") 隊 | 房載民、金根洙 - Santah Claus <small> (ft. [San E](../Page/San_E.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink")) </small> | 396                                                | 6   |      |
 | Deepflow 隊                                                                      | 尹炳浩 - 雨 (Rain) <small> (ft. Deepflow) </small>                                                                              | 438                                                | 3   |      |
 | 導師製作歌曲                                                                          | Groovy Room 隊                                                                                                               | 金夏溫、李秉宰 - Barcode                                  | 471 | 1    |
-| Boi B ＆ Hangzoo 隊                                                               | 李盧橺、尹鎮榮 - Like It                                                                                                           | 464                                                | 2   |      |
+| Boi B ＆ Hangzoo 隊                                                               | 裴淵瑞、尹鎮榮 - Like It                                                                                                           | 464                                                | 2   |      |
 | [San E](../Page/San_E.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink") 隊 | 趙元優、金允浩 - Break Time                                                                                                        | 422                                                | 4   |      |
 | Deepflow 隊                                                                      | 李睿燦 - March                                                                                                                 | 372                                                | 7   |      |
 
@@ -163,18 +163,18 @@
   - 於2018年4月6日首播。
   - 內容 : 半決賽
 
-| 所屬隊伍                                                                            | 演唱者/歌名              | 得分  | 排名 | 結果     |
-| ------------------------------------------------------------------------------- | ------------------- | --- | -- | ------ |
-| [San E](../Page/San_E.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink") 隊 | 房載民 - 善良孩子症候群       | 332 | 8  | 淘汰     |
-| Groovy Room 隊                                                                   | 朴俊昊 - Take off      | 298 | 9  | 淘汰     |
-| [San E](../Page/San_E.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink") 隊 | 金允浩 - Movement      | 340 | 7  | 淘汰     |
-| Deepflow 隊                                                                      | 尹炳浩 - 獨自            | 396 | 6  | 淘汰     |
-| Boi B ＆ Hangzoo 隊                                                               | 尹鎮榮 - Night Vibe    | 402 | 5  | **晉級** |
-| [San E](../Page/San_E.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink") 隊 | 金根洙 - Happy All Day | 264 | 10 | 淘汰     |
-| [San E](../Page/San_E.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink") 隊 | 趙元優 - What Time     | 436 | 3  | **晉級** |
-| Groovy Room 隊                                                                   | 李秉宰 - 責怪(Blame)     | 468 | 2  | **晉級** |
-| Boi B ＆ Hangzoo 隊                                                               | 李盧橺 - 志向(Aim)       | 424 | 4  | **晉級** |
-| Groovy Room 隊                                                                   | 金夏溫 - Adios         | 473 | 1  | **晉級** |
+| 所屬隊伍                                                                            | 演唱者/歌名                    | 得分  | 排名 | 結果     |
+| ------------------------------------------------------------------------------- | ------------------------- | --- | -- | ------ |
+| [San E](../Page/San_E.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink") 隊 | 房載民 - 善良孩子症候群             | 332 | 8  | 淘汰     |
+| Groovy Room 隊                                                                   | 朴俊昊 - Take off            | 298 | 9  | 淘汰     |
+| [San E](../Page/San_E.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink") 隊 | 金允浩 - Movement            | 340 | 7  | 淘汰     |
+| Deepflow 隊                                                                      | 尹炳浩 - 獨自                  | 396 | 6  | 淘汰     |
+| Boi B ＆ Hangzoo 隊                                                               | 尹鎮榮 - Night Vibe (Remake) | 402 | 5  | **晉級** |
+| [San E](../Page/San_E.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink") 隊 | 金根洙 - Happy All Day       | 264 | 10 | 淘汰     |
+| [San E](../Page/San_E.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink") 隊 | 趙元優 - What Time           | 436 | 3  | **晉級** |
+| Groovy Room 隊                                                                   | 李秉宰 - 怪                   | 468 | 2  | **晉級** |
+| Boi B ＆ Hangzoo 隊                                                               | 裴淵瑞 - 志向(Aim)             | 424 | 4  | **晉級** |
+| Groovy Room 隊                                                                   | 金夏溫 - Adios               | 473 | 1  | **晉級** |
 
 ### 第八集
 
@@ -185,7 +185,7 @@
 | ------------------------------------------------------------------------------- | --------------------------------------------- | --- | ----- |
 | Boi B ＆ Hangzoo 隊                                                               | 尹鎮榮 - YAHO <small> (Feat. 地球人) </small>       | 484 | 4     |
 | [San E](../Page/San_E.md "wikilink")、[Cheetah](../Page/Cheetah.md "wikilink") 隊 | 趙元優 - 053 <small> (Feat. 韓海) </small>         | 422 | 5     |
-| Boi B ＆ Hangzoo 隊                                                               | 李盧橺 - 李盧橌 <small> (Feat. ELO、Jessie) </small> | 572 | 2     |
+| Boi B ＆ Hangzoo 隊                                                               | 裴淵瑞 - 李盧橌 <small> (Feat. ELO、Jessie) </small> | 572 | 2     |
 | Groovy Room 隊                                                                   | 李秉宰 - 完全不 <small> (Feat. 禹元材) </small>        | 534 | 3     |
 | Groovy Room 隊                                                                   | 金夏溫 - 嗡嗡 <small> (Feat. Sik-K) </small>       | 579 | **1** |
 

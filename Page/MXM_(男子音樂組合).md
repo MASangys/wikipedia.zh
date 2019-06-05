@@ -45,6 +45,10 @@ DAY》及《I JUST DO》，9月6日發表迷你專輯《UNMIX》正式出道。
     SHOW進入一位候選](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")。
   - 11月7日，發行數位單曲《ONE MORE》。
 
+### 2019年：再次出道、正式團體[AB6IX](../Page/AB6IX.md "wikilink")
+
+  - 5月22日，與[田雄](../Page/全雄.md "wikilink")、[朴佑鎭](../Page/朴佑鎮.md "wikilink")、[李大輝以](../Page/李大輝.md "wikilink")[AB6IX再次出道](../Page/AB6IX.md "wikilink")。
+
 ## 音樂作品
 
 ### 正規專輯
@@ -277,16 +281,17 @@ DAY》及《I JUST DO》，9月6日發表迷你專輯《UNMIX》正式出道。
 
 ### 綜藝節目
 
-| 播出日期                  | 電視台                                                               | 節目名稱                                                                    | 集數      | 參演成員                                                                                                                                                                                                                                                                           |
-| --------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2017年4月7日－2017年6月16日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             | 《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》              | EP.1-11 | [林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")                                                                                                                                                                                                              |
-| 2017年8月6日             | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | 《[腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")》\[11\] | EP.124  | [林煐岷](../Page/林煐岷.md "wikilink")                                                                                                                                                                                                                                               |
-| 2017年9月5日             | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》          | EP.280  | [林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")                                                                                                                                                                                                              |
-| 2017年9月12日－2017年9月26日 | [OnStyle](../Page/OnStyle.md "wikilink")                          | 《[旅行報告書](../Page/旅行報告書.md "wikilink")》                                  | EP.6-8  | [林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")                                                                                                                                                                                                              |
-| 2017年10月25日           | [MBC every1](https://zh.wikipedia.org/wiki/MBC_every1 "wikilink") | 《[一週偶像](https://zh.wikipedia.org/wiki/一週偶像 "wikilink")》                 | EP.326  | [金Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink")、[鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")、[MXM](https://zh.wikipedia.org/wiki/MXM "wikilink")、[JBJ](../Page/JBJ.md "wikilink")                                                                           |
-| 2017年11月21日           | [MBC every1](https://zh.wikipedia.org/wiki/MBC_every1 "wikilink") | 《[Video Star](../Page/Video_Star.md "wikilink")》                        | EP.72   | [Rhymer](https://zh.wikipedia.org/wiki/Rhymer "wikilink")、[Kiggen](https://zh.wikipedia.org/wiki/Kiggen "wikilink")、[韓海](https://zh.wikipedia.org/wiki/鄭韓海 "wikilink")、[MXM](https://zh.wikipedia.org/wiki/MXM "wikilink")                                                     |
-| 2018年1月16日            | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》          | EP.299  | [林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")                                                                                                                                                                                                              |
-| 2018年8月29日            | [MBC every1](https://zh.wikipedia.org/wiki/MBC_every1 "wikilink") | 《[一週偶像](https://zh.wikipedia.org/wiki/一週偶像 "wikilink")》                 | EP.370  | [Rhymer](https://zh.wikipedia.org/wiki/Rhymer "wikilink")、[KANTO](https://zh.wikipedia.org/wiki/KANTO "wikilink")、[韓海](https://zh.wikipedia.org/wiki/鄭韓海 "wikilink")、[GREE](https://zh.wikipedia.org/wiki/GREE "wikilink")、[MXM](https://zh.wikipedia.org/wiki/MXM "wikilink") |
+| 播出日期                  | 電視台                                                               | 節目名稱                                                                    | 集數         | 參演成員                                                                                                                                                                                                                                                                                                                           |
+| --------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------------- | ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2017年4月7日－2017年6月16日  | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")             | 《[PRODUCE 101 第二季](../Page/PRODUCE_101_第二季.md "wikilink")》              | EP.1-11    | [林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")                                                                                                                                                                                                                                                              |
+| 2017年8月6日             | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")               | 《[腦性時代：問題男子](https://zh.wikipedia.org/wiki/腦性時代：問題男子 "wikilink")》\[11\] | EP.124     | [林煐岷](../Page/林煐岷.md "wikilink")                                                                                                                                                                                                                                                                                               |
+| 2017年9月5日             | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》          | EP.280     | [林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")                                                                                                                                                                                                                                                              |
+| 2017年9月12日－2017年9月26日 | [OnStyle](../Page/OnStyle.md "wikilink")                          | 《[旅行報告書](../Page/旅行報告書.md "wikilink")》                                  | EP.6-8     | [林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")                                                                                                                                                                                                                                                              |
+| 2017年10月25日           | [MBC every1](https://zh.wikipedia.org/wiki/MBC_every1 "wikilink") | 《[一週偶像](https://zh.wikipedia.org/wiki/一週偶像 "wikilink")》                 | EP.326     | [金Samuel](https://zh.wikipedia.org/wiki/金Samuel "wikilink")、[鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")、[MXM](https://zh.wikipedia.org/wiki/MXM "wikilink")、[JBJ](../Page/JBJ.md "wikilink")                                                                                                                           |
+| 2017年11月21日           | [MBC every1](https://zh.wikipedia.org/wiki/MBC_every1 "wikilink") | 《[Video Star](../Page/Video_Star.md "wikilink")》                        | EP.72      | [Rhymer](https://zh.wikipedia.org/wiki/Rhymer "wikilink")、[Kiggen](https://zh.wikipedia.org/wiki/Kiggen "wikilink")、[韓海](https://zh.wikipedia.org/wiki/鄭韓海 "wikilink")、[MXM](https://zh.wikipedia.org/wiki/MXM "wikilink")                                                                                                     |
+| 2018年1月16日            | [Arirang TV](https://zh.wikipedia.org/wiki/Arirang_TV "wikilink") | 《[After School Club](../Page/After_School_Club.md "wikilink")》          | EP.299     | [林煐岷](../Page/林煐岷.md "wikilink")、[金東賢](../Page/金東賢.md "wikilink")                                                                                                                                                                                                                                                              |
+| 2018年8月29日            | [MBC every1](https://zh.wikipedia.org/wiki/MBC_every1 "wikilink") | 《[一週偶像](https://zh.wikipedia.org/wiki/一週偶像 "wikilink")》                 | EP.370     | [Rhymer](https://zh.wikipedia.org/wiki/Rhymer "wikilink")、[KANTO](https://zh.wikipedia.org/wiki/KANTO "wikilink")、[韓海](https://zh.wikipedia.org/wiki/鄭韓海 "wikilink")、[GREE](https://zh.wikipedia.org/wiki/GREE "wikilink")、[MXM](https://zh.wikipedia.org/wiki/MXM "wikilink")                                                 |
+| 2019年1月19日-26日        | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")               | 《[戰鬥旅行](../Page/戰鬥旅行.md "wikilink")》                                    | EP.125-126 | [MXM](https://zh.wikipedia.org/wiki/MXM "wikilink")、[韓海](https://zh.wikipedia.org/wiki/鄭韓海 "wikilink")、[金珍京](https://zh.wikipedia.org/wiki/金珍京 "wikilink")、[辰正善](https://zh.wikipedia.org/wiki/辰正善 "wikilink")、[MC Gree](https://zh.wikipedia.org/wiki/MC_Gree "wikilink")、[宋海娜](https://zh.wikipedia.org/wiki/宋海娜 "wikilink") |
 
 ### 電台節目
 
@@ -453,6 +458,18 @@ DAY》及《I JUST DO》，9月6日發表迷你專輯《UNMIX》正式出道。
 <td><p>2018年5月12日</p></td>
 <td><p>2018夢想演唱會</p></td>
 <td><p>首爾世界盃體育場</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年12月2日</p></td>
+<td><p>BrandNew Year 2018</p></td>
+<td><p>首爾SK奧林匹克手球館</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年2月9日</p></td>
+<td><p>11th KPOP FESTIVAL 2019</p></td>
+<td><p>札幌文化藝術劇場</p></td>
 <td></td>
 </tr>
 </tbody>

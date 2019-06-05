@@ -99,6 +99,12 @@ FILMS亦舉辦《[-{zh-cn:百变之星;zh-hk:星夢美少女;zh-tw:萬花筒之�
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="../Page/異世界超能魔術師.md" title="wikilink">異世界超能魔術師</a></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

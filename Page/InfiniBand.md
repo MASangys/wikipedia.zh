@@ -198,7 +198,7 @@ Association，缩写IBTA），其中包括[康柏](../Page/康柏.md "wikilink")
 [Category:串行总线](https://zh.wikipedia.org/wiki/Category:串行总线 "wikilink")
 [Category:超級電腦](https://zh.wikipedia.org/wiki/Category:超級電腦 "wikilink")
 
-1.  <http://www.ddn.com/products/storage-platform-sfa12kx/config-specs>
+1.
 
 2.  <http://www.nextplatform.com/2016/02/22/oracle-engineers-its-own-infiniband-interconnects/>
 

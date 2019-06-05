@@ -63,7 +63,7 @@ Technica称赞了Matebook的輕薄和金屬一體設計，並稱其屏幕非常�
 ## 外部链接
 
   -
-[Category:华为](https://zh.wikipedia.org/wiki/Category:华为 "wikilink")
+[Category:华为笔记本电脑](https://zh.wikipedia.org/wiki/Category:华为笔记本电脑 "wikilink")
 [Category:2合1電腦](https://zh.wikipedia.org/wiki/Category:2合1電腦 "wikilink")
 
 1.

@@ -210,7 +210,7 @@
 <tr class="even">
 <td><p><a href="../Page/子閎.md" title="wikilink">子閎</a></p></td>
 <td><p>項冥</p></td>
-<td><p>客串（第4、8、9、26集）</p></td>
+<td><p>客串（第4、8、9、25、26集）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -436,6 +436,16 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019年</p></td>
+<td><p>5月14日</p></td>
+<td><p><a href="../Page/90後的我們.md" title="wikilink">90後的我們</a></p></td>
+<td><p><a href="../Page/八大綜合台.md" title="wikilink">八大綜合台</a><br />
+<a href="../Page/KKTV.md" title="wikilink">KKTV</a></p></td>
+<td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
+<td><p>風田</p></td>
+<td><p>客串（第集）</p></td>
+</tr>
+<tr class="odd">
 <td><p>待播</p></td>
 <td><p><a href="../Page/對的時間對的人.md" title="wikilink">對的時間對的人</a></p></td>
 <td></td>
@@ -444,7 +454,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
 <td><p>江安瀾</p></td>
 <td><p>男主角</p></td>
@@ -453,7 +463,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/愛情的開關" title="wikilink">愛情的開關</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湖南衛視" title="wikilink">湖南衛視</a><br />
 <a href="https://zh.wikipedia.org/wiki/騰訊視頻" title="wikilink">騰訊視頻</a></p></td>
@@ -463,7 +473,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/七月與安生_(電視劇)" title="wikilink">七月與安生</a></p></td>
 <td><p><a href="../Page/爱奇艺.md" title="wikilink">爱奇艺</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
@@ -1002,21 +1012,21 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/奈何BOSS要娶我.md" title="wikilink">奈何BOSS要娶我第二季</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/搜狐視頻" title="wikilink">搜狐視頻</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
+<td><p>楚炎</p></td>
+<td><p>第二男主角</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/天醒之路" title="wikilink">天醒之路</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/優酷網" title="wikilink">優酷網</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/熊梓淇" title="wikilink">Dylan</a></p></td>
 <td><p>燕西凡</p></td>
 <td><p>第二男主角</p></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>拍攝者</p></td>
-<td><p><a href="../Page/奈何BOSS要娶我.md" title="wikilink">奈何BOSS要娶我第二季</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/搜狐視頻" title="wikilink">搜狐視頻</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
-<td><p>楚炎</p></td>
-<td><p>第二男主角</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1029,6 +1039,15 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>拍攝中</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/一夜新娘" title="wikilink">一夜新娘</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/易恩" title="wikilink">易恩</a></p></td>
+<td><p>金逸文</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>停拍中</p></td>
 <td><p><a href="../Page/破網時刻.md" title="wikilink">破網時刻</a></p></td>
 <td></td>
@@ -1037,7 +1056,7 @@
 <td><p>男主角</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
 <td><p>熊威</p></td>
 <td><p>第二男主角</p></td>
@@ -1230,15 +1249,76 @@
 
 ## 舞台劇
 
-|       |            |                                                       |                                |      |       |              |
-| ----- | ---------- | ----------------------------------------------------- | ------------------------------ | ---- | ----- | ------------ |
-| 年份    | 日期         | 舞台劇名稱                                                 | 出演成員                           | 角色   | 性質    | 演出地區         |
-| 2018年 | 11月25日     | [一夜新娘](https://zh.wikipedia.org/wiki/一夜新娘 "wikilink") | [風田](../Page/風田.md "wikilink") | 宮城先生 | 第三男主角 | 嘉義縣表演藝術中心表演廳 |
-| 2019年 | 3月8日       | 臺灣戲曲中心大表演廳                                            |                                |      |       |              |
-| 3月9日  |            |                                                       |                                |      |       |              |
-| 3月10日 |            |                                                       |                                |      |       |              |
-| 3月15日 | 臺中國家歌劇院中劇院 |                                                       |                                |      |       |              |
-| 3月16日 |            |                                                       |                                |      |       |              |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>演出日期</p></td>
+<td><p>舞台劇名稱</p></td>
+<td><p>出演成員</p></td>
+<td><p>角色</p></td>
+<td><p>性質</p></td>
+<td><p>演出地區</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年11月25日</p></td>
+<td><p><a href="../Page/故事工廠.md" title="wikilink">一夜新娘</a></p></td>
+<td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
+<td><p>宮城先生</p></td>
+<td><p>第三男主角</p></td>
+<td><p>嘉義縣表演藝術中心表演廳</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年3月8日~2019年3月10日</p></td>
+<td><p>臺灣戲曲中心大表演廳</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年3月15日、<br />
+2019年3月16日</p></td>
+<td><p>臺中國家歌劇院中劇院</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年7月26日~2019年7月28日</p></td>
+<td><p><a href="../Page/搞笑者們.md" title="wikilink">搞笑者們 老大的金蛋</a></p></td>
+<td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td><p>台北城市舞台</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月2日、<br />
+2019年11月3日</p></td>
+<td><p>國立臺灣體育運動大學中興堂</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月16日</p></td>
+<td><p>大東文化藝術中心演藝廳</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月30日</p></td>
+<td><p>清華大學大禮堂</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 短片
 
@@ -1687,7 +1767,13 @@
 2019年4月26日<br />
 2019年4月29日<br />
 2019年5月2日<br />
-2019年5月3日}}</p></td>
+2019年5月3日<br />
+2019年5月7日<br />
+2019年5月14日<br />
+2019年5月16日<br />
+2019年5月17日<br />
+2019年5月27日<br />
+2019年5月31日}}</p></td>
 <td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
 <td></td>
 <td></td>
@@ -1824,7 +1910,8 @@
 2018年11月7日<br />
 2018年12月12日<br />
 2019年1月9日<br />
-2019年1月30日}}</p></td>
+2019年1月30日<br />
+2019年5月8日}}</p></td>
 <td><p><a href="../Page/子閎.md" title="wikilink">子閎</a></p></td>
 <td></td>
 <td></td>
@@ -1973,7 +2060,8 @@
 2019年1月15日<br />
 2019年2月26日<br />
 2019年4月23日<br />
-2019年4月30日}}</p></td>
+2019年4月30日<br />
+2019年5月21日}}</p></td>
 <td><p><a href="https://www.youtube.com/user/PlayStationTaiwan">YouTube</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宏正" title="wikilink">宏正</a>、<a href="../Page/偉晉.md" title="wikilink">偉晉</a>、<a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a>、<a href="../Page/子閎.md" title="wikilink">子閎</a>、<a href="../Page/Evan_(SpeXial).md" title="wikilink">Evan</a>、<a href="../Page/Teddy_(SpeXial).md" title="wikilink">Teddy</a>、<a href="../Page/風田.md" title="wikilink">風田</a>、<a href="https://zh.wikipedia.org/wiki/以綸" title="wikilink">以綸</a></p></td>
 </tr>
@@ -2046,7 +2134,9 @@
 2019年3月25日<br />
 2019年4月1日<br />
 2019年4月8日<br />
-2019年4月22日}}</p></td>
+2019年4月22日<br />
+2019年5月6日<br />
+2019年5月20日}}</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/17app" title="wikilink">17app</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">明-{杰}-</a></p></td>
 </tr>

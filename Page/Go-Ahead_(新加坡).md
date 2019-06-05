@@ -1,4 +1,3 @@
-[Volvo_B9TL_SG5053C.jpg](https://zh.wikipedia.org/wiki/File:Volvo_B9TL_SG5053C.jpg "fig:Volvo_B9TL_SG5053C.jpg")
 **Go-Ahead**，另名**前进新加坡**，将会是[新加坡第四](../Page/新加坡.md "wikilink")[公共巴士业者](../Page/公共交通.md "wikilink")，从2016年9月投入运作，分两个阶段接手[新捷运现有的](../Page/新捷运.md "wikilink")24条巴士路线。此业者是继[Tower
 Transit后](../Page/Tower_Transit_\(新加坡\).md "wikilink")，外包巴士路线配套的第二个巴士业者，也是[Go-Ahead集团旗下的附属之一](https://zh.wikipedia.org/wiki/Go-Ahead集团 "wikilink")。
 
@@ -66,7 +65,7 @@ Buslines）与本地天山船务公司组成的合资公司，及兀兰运输。
 
 ## 外部連結
 
-[官方网站](http://www.go-aheadsingapore.com/en-sg/)
+[官方网站](https://www.go-aheadsingapore.com/)
 
 [Category:新加坡交通](https://zh.wikipedia.org/wiki/Category:新加坡交通 "wikilink")
 [Category:新加坡公司](https://zh.wikipedia.org/wiki/Category:新加坡公司 "wikilink")

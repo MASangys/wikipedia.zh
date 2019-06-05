@@ -87,23 +87,26 @@
 <tr class="odd">
 <td><p>第一關</p></td>
 <td></td>
-<td><p>凈土的探查機</p></td>
-<td><p>妖怪之山山麓（）</p></td>
+<td><p>凈土的探測器<br />
+Eagle Rabbit</p></td>
+<td><p>妖怪山麓（）</p></td>
 <td><p>清蘭</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>第二關</p></td>
 <td></td>
-<td><p>湖上的前線基地</p></td>
-<td><p>妖怪之山的湖（）</p></td>
+<td><p>湖上的前線基地<br />
+Lunatic Front Line</p></td>
+<td><p>妖怪山中湖（）</p></td>
 <td><p>鈴瑚</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>第三關</p></td>
 <td></td>
-<td><p>阿波羅經絡</p></td>
+<td><p>阿波羅經絡<br />
+Dreamful Path</p></td>
 <td><p>秘密的聯絡通道（）</p></td>
 <td><p>哆來咪·蘇伊特</p></td>
 <td></td>
@@ -111,7 +114,8 @@
 <tr class="even">
 <td><p>第四關</p></td>
 <td></td>
-<td><p>寂寞未至之街</p></td>
+<td><p>寂不會造訪的城<br />
+Lunatic Kingdom</p></td>
 <td><p>月之都（）</p></td>
 <td><p>稀神 探女</p></td>
 <td></td>
@@ -119,7 +123,8 @@
 <tr class="odd">
 <td><p>第五關</p></td>
 <td></td>
-<td><p>星條旗的小丑</p></td>
+<td><p>星條旗的小丑<br />
+Clownish Moon</p></td>
 <td><p>靜海（）</p></td>
 <td><p>-</p></td>
 <td><p>克勞恩皮絲</p></td>
@@ -127,18 +132,20 @@
 <tr class="even">
 <td><p>最終關</p></td>
 <td></td>
-<td><p>即使不共戴天</p></td>
-<td><p>靜海（內側）（）</p></td>
+<td><p>即使已然不共戴天<br />
+Pure Furies</p></td>
+<td><p>靜海（裡）（）</p></td>
 <td><p>-</p></td>
 <td><p>純狐</p></td>
 </tr>
 <tr class="odd">
 <td><p>Extra</p></td>
 <td></td>
-<td><p>王牌無論何時都是壞棋</p></td>
-<td><p>夢之世界（）</p></td>
+<td><p>王牌無論何時都是著壞棋<br />
+Evel Trinity</p></td>
+<td><p>夢境世界（）</p></td>
 <td><p>哆來咪·蘇伊特</p></td>
-<td><p>黑卡提亞·拉碧斯拉祖利 ＆ 純狐</p></td>
+<td><p>赫卡提亞·拉碧斯拉祖利 ＆ 純狐</p></td>
 </tr>
 </tbody>
 </table>
@@ -272,6 +279,8 @@
   - [東方紺珠伝人物介紹](http://155384.co/thread-190673-1-1.html)
 
 ## 註釋
+
+
 
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
 [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")

@@ -5,7 +5,7 @@ Inc.**是已結業的一家加拿大連鎖廉價商店，總部位於[安大略�
 
 ## 参考文献
 
-## 外部鏈接
+## 外部連結
 
   - [Official
     website](https://web.archive.org/web/*/www.zellers.com)，[Internet

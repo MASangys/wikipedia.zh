@@ -1,4 +1,4 @@
-**澳門巴士MT1路線**是一條由[澳門公共汽車有限公司經營](https://zh.wikipedia.org/wiki/澳門公共汽車有限公司 "wikilink")，往返**[城市日前地](../Page/城市日前地.md "wikilink")**及**[澳門機場](../Page/澳門機場_\(巴士站\).md "wikilink")**的循環線。
+**澳門巴士MT1路線**是一條由**[澳門公共汽車有限公司](https://zh.wikipedia.org/wiki/澳門公共汽車有限公司 "wikilink")**經營，往返**[城市日前地](../Page/城市日前地.md "wikilink")**及**[澳門機場](../Page/澳門機場_\(巴士站\).md "wikilink")**的循環線。
 
 ## 歷史及簡介
 
@@ -19,6 +19,8 @@
   - 2018年7月15日，本線取消停靠「奧林匹克游泳館圓形地」站
   - 2018年7月21日，本線恢復停靠「運動場/賽馬會」站（原名：運動場道）。
   - 2018年8月1日，本線回復由[澳巴經營](https://zh.wikipedia.org/wiki/澳門公共汽車有限公司 "wikilink")。
+  - 2019年5月18日，配合建设发展办公室重整，取消“奥林匹克游泳馆”巴士站。
+  - 2019年6月1日，本線服務時間將由07:00-22:30調整至07:00-00:00開出。
 
 ## 路線資料
 
@@ -31,7 +33,7 @@
 
 | **服務時間**                             | 平日(星期一至五)        | 例假日(含公眾假期) |
 | ------------------------------------ | ---------------- | ---------- |
-| [城市日前地](../Page/城市日前地.md "wikilink") | 07:00-22:30      |            |
+| [城市日前地](../Page/城市日前地.md "wikilink") | 07:00-00:00      |            |
 | **班距**                               | 尖峰10-12分鐘，離峰20分鐘 |            |
 |                                      |                  |            |
 
@@ -58,28 +60,27 @@
 |    6    |                                                       奧林匹克大馬路                                                       |
 |    7    |                                                        澳門運動場                                                        |
 |    8    |                                                       運動場圓形地                                                        |
-|    9    |                             [奧林匹克游泳館](https://zh.wikipedia.org/wiki/奧林匹克游泳館 "wikilink")                             |
-|   10    |                           [望德聖母灣馬路](https://zh.wikipedia.org/wiki/望德聖母灣馬路 "wikilink")／軍營                            |
-|   11    |                           [望德聖母灣馬路](https://zh.wikipedia.org/wiki/望德聖母灣馬路 "wikilink")／紅樹林                           |
-|   12    |                                                      澳門土木工程實驗室                                                      |
-|   13    |                                                      機場圓形地／偉龍                                                       |
-|   14    |                         [氹仔客運碼頭](https://zh.wikipedia.org/wiki/氹仔客運碼頭_\(巴士總站\) "wikilink")                          |
-|   15    |                                                        機場倉庫                                                         |
-|   16    |                                [澳門機場](https://zh.wikipedia.org/wiki/澳門機場 "wikilink")                                |
-|   17    |                                        偉龍／[科大醫院](../Page/科大醫院.md "wikilink")                                        |
-|   18    |                              偉龍／[科技大學](https://zh.wikipedia.org/wiki/科技大學 "wikilink")                               |
-|   19    | [望德聖母灣馬路](https://zh.wikipedia.org/wiki/望德聖母灣馬路 "wikilink")／[連貫公路](https://zh.wikipedia.org/wiki/路氹連貫公路 "wikilink") |
-|   20    |                                                        排角／銀河                                                        |
-|   21    |                                                       運動場／賽馬會                                                       |
-|   22    |                                                        華寶花園                                                         |
-|   23    |                                                        花城公園                                                         |
-|   24    |                                                        百利寶花園                                                        |
-|   25    |                                                        氹仔電訊                                                         |
-|   26    |                                                       史伯泰／盧廉若                                                       |
-|   27    |                                                       蘇利安圓形地                                                        |
-|   28    |                           [亞馬喇前地](https://zh.wikipedia.org/wiki/亞馬喇前地_\(總站\) "wikilink")                            |
-|   29    |                                  [總統酒店](../Page/總統酒店.md "wikilink")**（賽車期間不停靠此站）**                                  |
-|   30    |                                                     城市日大馬路／波爾圖街                                                     |
+|    9    |                           [望德聖母灣馬路](https://zh.wikipedia.org/wiki/望德聖母灣馬路 "wikilink")／軍營                            |
+|   10    |                           [望德聖母灣馬路](https://zh.wikipedia.org/wiki/望德聖母灣馬路 "wikilink")／紅樹林                           |
+|   11    |                                                      澳門土木工程實驗室                                                      |
+|   12    |                                                      機場圓形地／偉龍                                                       |
+|   13    |                         [氹仔客運碼頭](https://zh.wikipedia.org/wiki/氹仔客運碼頭_\(巴士總站\) "wikilink")                          |
+|   14    |                                                        機場倉庫                                                         |
+|   15    |                                [澳門機場](https://zh.wikipedia.org/wiki/澳門機場 "wikilink")                                |
+|   16    |                                        偉龍／[科大醫院](../Page/科大醫院.md "wikilink")                                        |
+|   17    |                              偉龍／[科技大學](https://zh.wikipedia.org/wiki/科技大學 "wikilink")                               |
+|   18    | [望德聖母灣馬路](https://zh.wikipedia.org/wiki/望德聖母灣馬路 "wikilink")／[連貫公路](https://zh.wikipedia.org/wiki/路氹連貫公路 "wikilink") |
+|   19    |                                                        排角／銀河                                                        |
+|   20    |                                                       運動場／賽馬會                                                       |
+|   21    |                                                        華寶花園                                                         |
+|   22    |                                                        花城公園                                                         |
+|   23    |                                                        百利寶花園                                                        |
+|   24    |                                                        氹仔電訊                                                         |
+|   25    |                                                       史伯泰／盧廉若                                                       |
+|   26    |                                                       蘇利安圓形地                                                        |
+|   27    |                           [亞馬喇前地](https://zh.wikipedia.org/wiki/亞馬喇前地_\(總站\) "wikilink")                            |
+|   28    |                                  [總統酒店](../Page/總統酒店.md "wikilink")**（賽車期間不停靠此站）**                                  |
+|   29    |                                                     城市日大馬路／波爾圖街                                                     |
 
 ## 參考文献
 

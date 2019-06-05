@@ -23,48 +23,63 @@ TV播出上架](../Page/CHOCO_TV.md "wikilink")。香港地區於[Viu免費同�
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 10%" />
-<col style="width: 49%" />
+<col style="width: 38%" />
+<col style="width: 10%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/姜棟樑.md" title="wikilink">姜棟樑</a></p></td>
 <td><p>朴宇鎮</p></td>
 <td><p>道河的律師兼秘書兼司機。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/太仁鎬.md" title="wikilink">太仁鎬</a></p></td>
 <td><p>朴成彬</p></td>
 <td><p>道河的神經精神科醫師。朴宇鎮的哥哥。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鄭東煥.md" title="wikilink">鄭東煥</a></p></td>
 <td><p>李善文</p></td>
 <td><p>MK集團會長，道河的爸爸。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>李道彬</p></td>
 <td><p>MK集團酒店分部代表，道河的哥哥。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/丁文晟.md" title="wikilink">丁文晟</a></p></td>
 <td><p>尹道山</p></td>
 <td><p>旅行專欄作家，不為人知的MK集團會長次子，時間不多。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金史熙.md" title="wikilink">金史熙</a></p></td>
 <td><p>金慧英</p></td>
 <td><p>道彬的妻子,道山的好友。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金奎吏.md" title="wikilink">金奎吏</a></p></td>
 <td><p>金俊雅/珠娜</p></td>
 <td><p>道河的初戀。</p></td>
+<td><p><a href="../Page/羅婉楓.md" title="wikilink">羅婉楓</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -75,45 +90,54 @@ TV播出上架](../Page/CHOCO_TV.md "wikilink")。香港地區於[Viu免費同�
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 10%" />
-<col style="width: 49%" />
+<col style="width: 38%" />
+<col style="width: 10%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/韓昇延.md" title="wikilink">韓昇延</a></p></td>
 <td><p>全聖熙</p></td>
 <td><p>米卡的大學同學摯友事友，歌劇副導，最後跟偉鎮在一起。</p></td>
+<td><p><a href="../Page/廖欣怡.md" title="wikilink">廖欣怡</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金海淑.md" title="wikilink">金海淑</a></p></td>
 <td><p>吳少女</p></td>
 <td><p>雇用米卡照顧自己，並且把米卡當作自己的親生孫女。和米卡一樣能看到別人的時鐘，在和米卡一起露營時看到了道河的時鐘。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/羅映姬.md" title="wikilink">羅映姬</a></p></td>
 <td><p>陳羅熙</p></td>
 <td><p>米卡的媽媽，優雅女士。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/金路雲" title="wikilink">金路雲</a></p></td>
 <td><p>崔偉鎮</p></td>
 <td><p>米卡的弟弟，閒閒沒事，最後跟聖熙在一起。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>崔太平</p></td>
 <td><p>米卡的爸爸，公司失敗被關。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>劉花粉</p></td>
 <td><p>米卡的奶奶，為救米卡在62歲時死亡。</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -127,53 +151,69 @@ TV播出上架](../Page/CHOCO_TV.md "wikilink")。香港地區於[Viu免費同�
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 10%" />
-<col style="width: 49%" />
+<col style="width: 38%" />
+<col style="width: 10%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>| 崔PD</p></td>
 <td><p>歌劇導演，趙在侑的姨母。</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/張光_(演員).md" title="wikilink">張光</a></p></td>
 <td><p>朴老師朴宰煥</p></td>
 <td><p>和吳少女相惜的朋友，時間不多。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>| 朴惠蘭</p></td>
 <td><p>歌劇團團員，時間不多。</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>朴正才</p></td>
 <td><p>拿刀誤傷李道河的精神科病人。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>申信範</p></td>
 <td></td>
 <td><p>醫院中想吃巧克力的失智長者，時間不多。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>| 金敏浩</p></td>
 <td><p>歌劇導演。</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>尹雅仁</p></td>
 <td><p>歌劇團團員朴惠蘭的女兒。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td></td>
 <td><p>吳少女的朋友，接到訃告驚慌前往吊唁。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -184,28 +224,39 @@ TV播出上架](../Page/CHOCO_TV.md "wikilink")。香港地區於[Viu免費同�
 <colgroup>
 <col style="width: 10%" />
 <col style="width: 10%" />
-<col style="width: 49%" />
+<col style="width: 38%" />
+<col style="width: 10%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
+<td><p><strong>香港配音</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/于曉光" title="wikilink">于曉光</a></p></td>
 <td><p>張治昂</p></td>
 <td><p>中國成樂公司老闆。</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李對淵.md" title="wikilink">李對淵</a></p></td>
 <td></td>
 <td><p>撞車事故後外表毫髮未傷卻突然身故的男士。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
 <td><p>撞車事故後突然身故男士的妻子。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -376,7 +427,8 @@ TV播出上架](../Page/CHOCO_TV.md "wikilink")。香港地區於[Viu免費同�
 ## 外部連結
 
   - [韓國tvN官方網站](http://program.tving.com/tvn/abouttime/)
-  - [想暫停的瞬間：About Time](http://movie.daum.net/tv/main?tvProgramId=80425)
+  - [想暫停的瞬間：About
+    Time](https://web.archive.org/web/20180514064957/http://movie.daum.net/tv/main?tvProgramId=80425)
     [DAUM](../Page/多音.md "wikilink")
   - [想暫停的瞬間：About Time](http://m.entertain.naver.com/tvBrand/6010516)
     [NAVER](../Page/NAVER.md "wikilink")

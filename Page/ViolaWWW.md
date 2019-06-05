@@ -11,7 +11,7 @@ Interactive Object-oriented Language and Application）的首字母缩写\[4\]�
 
 毕业后魏培源与XCF及创业伙伴一起继续开发Viola\[6\]\[7\]。随后其接受了[奥莱利公司的投资](https://zh.wikipedia.org/wiki/奥莱利 "wikilink")，這是一家美国电子出版公司。奥莱利公司使用了其软件以显示旗下网站[全球網路導航器](https://zh.wikipedia.org/wiki/全球網路導航器 "wikilink")\[8\]。魏培源的主要工作是创建一个适用于互联网的Viola版本：
 
-ViolaWWW創建於1992年，是第一個添加擴展功能的瀏覽器，如嵌入式腳本對象、樣式表和表。早期版本在[CERN獲得了诸多好评](https://zh.wikipedia.org/wiki/CERN "wikilink")\[9\]。埃德·克羅爾（Ed
+ViolaWWW創建於1992年，是第一個添加擴充功能的瀏覽器，如嵌入式腳本對象、樣式表和表。早期版本在[CERN獲得了诸多好评](https://zh.wikipedia.org/wiki/CERN "wikilink")\[9\]。埃德·克羅爾（Ed
 Kroll）还在其1992年很流行的文章**中強調了该浏览器。
 
 随着ViolaWWW的开发其开始与[HyperCard越来越相似](../Page/HyperCard.md "wikilink")：

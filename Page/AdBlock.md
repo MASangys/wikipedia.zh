@@ -20,8 +20,10 @@ Plus的原始碼\[10\]\[11\]。
 [Category:2009年软件](https://zh.wikipedia.org/wiki/Category:2009年软件 "wikilink")
 [Category:免费软件](https://zh.wikipedia.org/wiki/Category:免费软件 "wikilink")
 [Category:网络广告](https://zh.wikipedia.org/wiki/Category:网络广告 "wikilink")
-[Category:软件附加组件](https://zh.wikipedia.org/wiki/Category:软件附加组件 "wikilink")
+[Category:Google_Chrome扩展](https://zh.wikipedia.org/wiki/Category:Google_Chrome扩展 "wikilink")
 [Category:广告拦截软件](https://zh.wikipedia.org/wiki/Category:广告拦截软件 "wikilink")
+[Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")
+[Category:Microsoft_Edge扩展](https://zh.wikipedia.org/wiki/Category:Microsoft_Edge扩展 "wikilink")
 
 1.
 2.

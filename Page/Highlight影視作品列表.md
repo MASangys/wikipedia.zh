@@ -1206,12 +1206,13 @@
 | 11月2日       | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | 《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》               |             |
 |             |                                                       |                                                                             |             |
 
-|            |                                                       |                                                |             |
-| ---------- | ----------------------------------------------------- | ---------------------------------------------- | ----------- |
-| 放送日期       | 電視台                                                   | 節目名稱                                           | 出演成員（空白為全體） |
-| 1月16日      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | 《[屋塔房的問題兒童們](../Page/屋塔房的問題兒童們.md "wikilink")》 | 起光          |
-| 2月18日、25日  | [JTBC](../Page/JTBC.md "wikilink")                    | 《[拜托了冰箱](../Page/拜托了冰箱.md "wikilink")》         | 起光          |
-| 4月30日、5月2日 | Olive TV                                              | 《onepick road》                                 | 東雲          |
+|            |                                                       |                                                        |                   |
+| ---------- | ----------------------------------------------------- | ------------------------------------------------------ | ----------------- |
+| 放送日期       | 電視台                                                   | 節目名稱                                                   | 出演成員（空白為全體）       |
+| 1月16日      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | 《[屋塔房的問題兒童們](../Page/屋塔房的問題兒童們.md "wikilink")》         | 起光                |
+| 2月18日、25日  | [JTBC](../Page/JTBC.md "wikilink")                    | 《[拜托了冰箱](../Page/拜托了冰箱.md "wikilink")》                 | 起光                |
+| 4月30日、5月2日 | Olive TV                                              | 《onepick road》                                         | 東雲                |
+| 5月3日、5月10日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》 | 起光(應援練習生，以社長身分出演) |
 
 ## 電台及可視電台
 

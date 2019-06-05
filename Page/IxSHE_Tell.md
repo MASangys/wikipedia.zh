@@ -45,6 +45,10 @@ disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《》。
   - 片尾曲「I know\! Harmony」
     作詞：，作曲、編曲：，主唱：[中惠光城](../Page/中惠光城.md "wikilink")
 
+## 評價
+
+《IxSHE Tell》獲得[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2018的純愛系作品獎。\[5\]
+
 ## 參考來源
 
 ## 外部連結
@@ -62,3 +66,4 @@ disc](https://zh.wikipedia.org/wiki/Fan_disc "wikilink")《》。
 2.
 3.
 4.
+5.

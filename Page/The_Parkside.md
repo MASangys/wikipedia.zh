@@ -4,7 +4,7 @@
 [The_Parkside_Place_Central_Avenue_Entrance_2016.jpg](https://zh.wikipedia.org/wiki/File:The_Parkside_Place_Central_Avenue_Entrance_2016.jpg "fig:The_Parkside_Place_Central_Avenue_Entrance_2016.jpg")
 **The
 Parkside**，位於[香港](../Page/香港.md "wikilink")[新界](../Page/新界.md "wikilink")[將軍澳南](../Page/將軍澳南.md "wikilink")[唐俊街](https://zh.wikipedia.org/wiki/唐俊街 "wikilink")18號
-，是[會德豐集團旗下的私人住宅屋苑](../Page/會德豐.md "wikilink")。由[呂元祥建築師事務所設計](../Page/呂元祥建築師事務所.md "wikilink")，[金門建築承建](../Page/金門建築.md "wikilink")。物業分為3座樓高28層的大廈，共提供591伙單位，於2014年11月開售，在2016年9月落成。管理公司為夏利文物業管理有限公司。展覽廳及示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈](../Page/港威大廈.md "wikilink")，首批120個單位的價單，定價由549.2萬元起，實用呎價由12,373元至15,194元。\[1\]
+，是[會德豐集團旗下的豪華私人住宅屋苑](../Page/會德豐.md "wikilink")。由[呂元祥建築師事務所設計](../Page/呂元祥建築師事務所.md "wikilink")，[金門建築承建](../Page/金門建築.md "wikilink")。物業分為3座樓高28層的大廈，共提供591伙單位，於2014年11月開售，在2016年9月落成。管理公司為夏利文物業管理有限公司。展覽廳及示範單位設於[尖沙咀](../Page/尖沙咀.md "wikilink")[港威大廈](../Page/港威大廈.md "wikilink")，首批120個單位的價單，定價由549.2萬元起，實用呎價由12,373元至15,194元。\[1\]
 
 ## 單位
 
@@ -97,6 +97,8 @@ Parkside（2015年3月） <File:The> Parkside west.jpg|The Parkside西面（2016
 ## 外部連結
 
   -
+  - [金門建築項目網頁](https://www.gammonconstruction.com/tc/html/projects/projects-7ae7d39e452b444aada3e4ded37ebc1f.html)
+
 [Category:會德豐地產(香港)物業](https://zh.wikipedia.org/wiki/Category:會德豐地產\(香港\)物業 "wikilink")
 [Category:西貢區私人屋苑](https://zh.wikipedia.org/wiki/Category:西貢區私人屋苑 "wikilink")
 [Category:將軍澳](https://zh.wikipedia.org/wiki/Category:將軍澳 "wikilink")

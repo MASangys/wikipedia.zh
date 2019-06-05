@@ -24,17 +24,20 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 
 ### 2017年
 
-  - 2月21日，Plan
-    A娛樂宣布VICTON即將在3月2日發行第二張迷你專輯《READY》。22日，開始釋出各成員的宣傳照片以及宣傳影片。
-  - 4月21日，Plan A娛樂宣布VICTON即將在5月27日舉行出道200日特別粉絲見面會《WELCOME TO VICTON
-    CLASS》。
-  - 8月13日，Plan A娛樂宣布VICTON將於8月23日以第三張迷你專輯《IDENTITY》回歸。
-  - 10月27日，Plan A娛樂宣佈VICTON會於11月9日以第四張迷你專輯《From.
-    VICTON》回歸。30日，開始釋出各成員的宣傳照片以及宣傳影片。
+  - 2月21日，Plan A娛樂宣布即將在3月2日發行第二張迷你專輯《READY》。22日，開始釋出各成員的宣傳照片以及宣傳影片。
+  - 4月21日，Plan A娛樂宣布即將在5月27日舉行出道200日特別粉絲見面會《WELCOME TO VICTON CLASS》。
+  - 8月13日，Plan
+    A娛樂宣布將於8月23日以第三張迷你專輯《IDENTITY》回歸，後開始釋出各成員的宣傳照片以及宣傳影片，並於發行當天舉辦Showcase。\[7\]
+  - 10月27日，Plan A娛樂公開第四張迷你專輯《From. VICTON》Week
+    Teaser，後開始釋出各成員的宣傳照片以及宣傳影片。\[8\]
+  - 11月9日，發行第四張迷你專輯《From. VICTON》，並於當天舉辦Showcase。
 
 ### 2018年
 
-  - 4月30日，Plan A娛樂宣布VICTON即將在5月23日首張單曲《俉月哀》。
+  - 4月30日，Plan A娛樂宣布即將在5月23日首張單曲《俉月哀》，後陸續釋出各成員的宣傳照片以及宣傳影片。\[9\]\[10\]
+  - 8月3日，Plan A娛樂公開首次歐洲巡迴演出資訊，於9月11日莫斯科站開始。\[11\]
+  - 10月26日，Plan A娛樂公開韓國見面會《VICTON 1ST FAN MEETING : WELCOME TO
+    WONDERLAND》詳細資訊。
 
 ### 2019年
 
@@ -49,7 +52,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <td><p>現任成員</p></td>
 </tr>
 <tr class="even">
-<td><p>本名[7]</p></td>
+<td><p>本名[12]</p></td>
 </tr>
 <tr class="odd">
 <td><p>韓勝宇<br />
@@ -102,7 +105,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <ul>
 <li>發行日期：2016年11月9日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：14,947+[8][9]</li>
+<li>專輯銷量：14,947+[13][14]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -112,7 +115,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <ul>
 <li>發行日期：2017年3月2日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：27,395+[10]</li>
+<li>專輯銷量：27,395+[15]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -122,7 +125,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <ul>
 <li>發行日期：2017年8月23日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：21,371+[11]</li>
+<li>專輯銷量：21,371+[16]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -132,7 +135,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <ul>
 <li>發行日期：2017年11月9日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：13,419+[12]</li>
+<li>專輯銷量：13,419+[17]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -166,7 +169,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <ul>
 <li>發行日期：2018年5月23日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：11,123+[13]</li>
+<li>專輯銷量：11,123+[18]</li>
 <li>參與藝人：Victon</li>
 </ul></td>
 <td><ol>
@@ -192,6 +195,8 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 | [1theK](https://www.youtube.com/watch?v=lqfGcA7wA6E) |       |                   |                                                       |
 | 2017                                                 | 11月9日 | 记得我（나를 기억해）       | [VICTON](https://www.youtube.com/watch?v=AZ_6stDd0WA) |
 | [1theK](https://www.youtube.com/watch?v=uLvr9Q-iJcs) |       |                   |                                                       |
+| 2018                                                 | 5月23日 | 俉月哀 （오월애）         | [VICTON](https://www.youtube.com/watch?v=b4Yo_8Y4FI8) |
+| [1theK](https://www.youtube.com/watch?v=VWz8DmLbhNY) |       |                   |                                                       |
 
 ### 合作音樂錄影帶
 
@@ -218,6 +223,8 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 | 9月4日   | [不像話 （말도 안돼）](https://www.youtube.com/watch?v=_r7271fr2Zc)          |                                                                     |     |
 | 11月9日  | [记得我（나를 기억해）](https://www.youtube.com/watch?v=SO4UYIeTJ1o)          |                                                                     |     |
 | 12月24日 | [记得我（나를 기억해）](https://www.youtube.com/watch?v=LGUCD0sDs2g)          | 圣诞版                                                                 |     |
+| 2018   | 6月10日                                                               | [俉月哀 （오월애）](https://www.youtube.com/watch?v=-oauPoQ8pRQ)            | 制服版 |
+| 7月25日  | [俉月哀 （오월애）](https://www.youtube.com/watch?v=KBxdxm6VbkY)            | Random Camera版                                                      |     |
 
 ### 專屬影片
 
@@ -228,6 +235,8 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 | VICTON diary | [VICTON](http://www.youtube.com/playlist?list=PLmK1FmGJobnAFs-QyXQjXrJV4F-uJNJmh) |                                                                                   |
 
 ## 影視作品
+
+### 電視劇
 
 | 電視劇列表             |
 | ----------------- |
@@ -247,6 +256,7 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 | 2016年綜藝節目列表 |
 | ----------- |
 | 日期          |
+| 11月24日      |
 | 12月13日      |
 | 12月14日      |
 | 12月19日      |
@@ -285,16 +295,120 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 <p>4月12日</p></td>
 </tr>
 <tr class="odd">
+<td><p>4月11日-6月27日</p></td>
+</tr>
+<tr class="even">
+<td><p>6月25日</p></td>
+</tr>
+<tr class="odd">
 <td><p>10月4日</p></td>
 </tr>
 <tr class="even">
-<td><p>4月11日</p></td>
+<td><p>11月16日</p></td>
 </tr>
 <tr class="odd">
-<td><p>5月23日</p></td>
+<td><p>12月6日</p></td>
 </tr>
 </tbody>
 </table>
+
+| 2018年綜藝節目列表 |
+| ----------- |
+| 日期          |
+| 1月12日-1月26日 |
+| 1月21-1月28日  |
+| 2月15日、2月16日 |
+| 4月11日       |
+| 5月23日       |
+| 5月29日       |
+| 6月5日        |
+| 6月6日        |
+| 6月7日        |
+| 9月10日、9月16日 |
+| 9月25日、9月26日 |
+
+| 2019年綜藝節目列表 |
+| ----------- |
+| 日期          |
+| 5月3日-       |
+
+### 廣播節目
+
+| 廣播節目列表                |
+| --------------------- |
+| 2016年                 |
+| 日期                    |
+| 11月14日                |
+| SBS Love FM           |
+| 11月20日                |
+| 11月21日                |
+| 11月23日                |
+| 12月20日                |
+| 2017年                 |
+| 3月5日                  |
+| 3月20日                 |
+| 3月25日、4月1日、4月8日、4月15日 |
+| 4月10日                 |
+| 7月5日                  |
+| 8月28日                 |
+| 8月30日                 |
+| 9月7日                  |
+| 9月9日                  |
+| 10月6日                 |
+| 11月20日                |
+| 2018年                 |
+| 5月28日                 |
+| 6月4日                  |
+| 6月16日                 |
+
+## 演唱會
+
+### 見面會
+
+|                    |                                                        |                             |    |
+| ------------------ | ------------------------------------------------------ | --------------------------- | -- |
+| 日期                 | 活動名稱                                                   | 舉行地點                        | 備註 |
+| 2016年11月9日         | 《VICTON DEBUT SHOWCASE 》                               | YES24 LIVE HALL             |    |
+| 2017年5月2日          | 《HELLO JAPAN\! VICTON 1st SPECIAL LIVE》                | 豐洲PIT                       |    |
+| 2017年5月27日         | 《VICTON Special Fan Meeting <Welcome to VICTON CLASS>》 | Universal Art Center        |    |
+| 2017年8月23日         | 《VICTON 3rd MINI ALBUM SHOWCASE <IDENTITY>》            | 梨花女子大學 Samsung Hall         |    |
+| 2017年11月9日         | 《VICTON 4th Mini Album Showcase \<From.VICTON\>》       | Blue Square Hall            |    |
+| 2018年4月15日         | 《2018 VICTON Special Fanmeeting in Japan <美好的一天>》      | 東京TFT Hall300               |    |
+| 2018年11月17日、11月18日 | 《VICTON 1ST FAN MEETING : WELCOME TO WONDERLAND》       | Sogang University Mary Hall |    |
+
+  - VICTON First Europe Tour 2018
+
+|            |       |                    |
+| ---------- | ----- | ------------------ |
+| 日期         | 站次    | 舉行地點               |
+| 2018年9月11日 | 莫斯科站  | MOCKBA HALL        |
+| 2018年9月13日 | 倫敦站   | 229 THE VENUE      |
+| 2018年9月15日 | 馬德里站  | GOTHAM THE CLUB    |
+| 2018年9月16日 | 米蘭站   | MAGAZZINI GENERALI |
+| 2018年9月18日 | 巴黎站   | FLOW PARIS         |
+| 2018年9月20日 | 維也納站  | REIGEN LIVE        |
+| 2018年9月22日 | 埃森站   | TUROCK             |
+| 2018年9月23日 | 伊斯坦堡站 | UNIQ HALL          |
+
+### 其他公演
+
+|                  |                                             |                           |                                             |
+| ---------------- | ------------------------------------------- | ------------------------- | ------------------------------------------- |
+| 日期               | 活動名稱                                        | 舉行地點                      | 備註                                          |
+| 2016年11月30日      | 《2016 MBN HERO CONCERT》                     | 蠶室室內體育館                   |                                             |
+| 2017年4月29日       | 《Hollywood Bowl 2017》                       | LA Hollywood Bowl         |                                             |
+| 2017年6月23日       | 《2017 ASIA MODEL FESTIVAL & K-Model Awards》 | Jangchung Arena           |                                             |
+| 2017年8月5日        | 《Malaysia Kwave Music Festival》             | Surf Beach, Sunway Lagoon |                                             |
+| 2017年9月9日        | 《INCHEON K-POP FESTIVAL 2017》               | 仁川文化競技場                   |                                             |
+| 2017年9月22日       | 《KCON 2017 AUSTRALIA》                       | QUDOS BANK ARENA          |                                             |
+| 2017年9月30日       | 《2017 Korea Music Festival》                 | 首爾高尺 Sky dome             |                                             |
+| 2017年10月29日      | 《Busan One Asia Festival 2017》              | 釜山亞運會主體育場                 |                                             |
+| 2018年1月30日       | 《KBS 平昌冬奧會G-10 開幕式》                         | KBS Arena Hall            |                                             |
+| 2018年4月13日、4月14日 | 《KCON 2018 JAPAN》                           | 幕張Messe國際展示場              |                                             |
+| 2018年5月26日       | 《SeoWon Valley Green Concert》               | Valley Coex Hall          |                                             |
+| 2018年9月7日        | 《HallyuPopFest2018》                         | 新加坡室內體育館                  |                                             |
+| 2018年10月13日      | 《秋季浪漫音樂會》                                   | 群山青春夜市場                   |                                             |
+| 2018年12月1日       | 《2018 Melon Music Awards》                   | 首爾高尺 Sky dome             | 許燦以1theK Dance War Team's Special Stage身分參與 |
 
 ## 獎項
 
@@ -395,10 +509,15 @@ To New World》，以主打歌《I'm fine》出道\[2\]。
 4.
 5.   allkpop.com|newspaper=allkpop|access-date=2016-11-12}}
 6.
-7.  成員本名已在官咖正名。
-8.  [2016年12月GAON專輯榜26位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=12&hitYear=2016&termGbn=month)
-9.  [2017年1月GAON專輯榜56位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=01&hitYear=2017&termGbn=month)
-10. [2017年4月GAON專輯榜17位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2017&termGbn=month)
-11. [2017年9月GAON專輯榜26位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=year)
-12. [2017年12月GAON專輯榜](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=12&hitYear=2017&termGbn=month)
-13. [2018年5月GAON專輯榜17位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=month)
+7.
+8.
+9.
+10.
+11.
+12. 成員本名已在官咖正名。
+13. [2016年12月GAON專輯榜26位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=12&hitYear=2016&termGbn=month)
+14. [2017年1月GAON專輯榜56位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=01&hitYear=2017&termGbn=month)
+15. [2017年4月GAON專輯榜17位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2017&termGbn=month)
+16. [2017年9月GAON專輯榜26位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=year)
+17. [2017年12月GAON專輯榜](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=12&hitYear=2017&termGbn=month)
+18. [2018年5月GAON專輯榜17位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=month)

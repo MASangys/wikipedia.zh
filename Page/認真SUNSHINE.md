@@ -60,7 +60,7 @@ Storm发售](../Page/J_Storm.md "wikilink")。
 ## 外部链接
 
 1.  [Johsnny's net
-    -真剣SUNSHINE](http://www.johnnys-net.jp/page?id=discoPopup&dataId=3007&target=popup1&lang=zh_tw)
+    -真剣SUNSHINE](https://web.archive.org/web/20170305150040/http://www.johnnys-net.jp/page?id=discoPopup&dataId=3007&target=popup1&lang=zh_tw)
 2.  [真剣SUNSHINE - J
     Storm](https://www.j-storm.co.jp/heysayjump/discography/%E7%9C%9F%E5%89%A3sunshine)
 

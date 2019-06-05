@@ -83,7 +83,7 @@
 <td><p>3月8日</p></td>
 <td><p>24</p></td>
 <td><p><a href="../Page/原生之罪.md" title="wikilink">原生之罪</a></p></td>
-<td><p><a href="../Page/翟天临.md" title="wikilink">翟天临</a>、<a href="https://zh.wikipedia.org/wiki/尹正" title="wikilink">尹正</a>、<a href="https://zh.wikipedia.org/wiki/白冰" title="wikilink">白冰</a>、<a href="https://zh.wikipedia.org/wiki/颜卓灵" title="wikilink">颜卓灵</a>、<a href="https://zh.wikipedia.org/wiki/李若宁" title="wikilink">李若宁</a></p></td>
+<td><p><a href="../Page/翟天临.md" title="wikilink">翟天临</a>、<a href="../Page/尹正.md" title="wikilink">尹正</a>、<a href="https://zh.wikipedia.org/wiki/白冰" title="wikilink">白冰</a>、<a href="https://zh.wikipedia.org/wiki/颜卓灵" title="wikilink">颜卓灵</a>、<a href="https://zh.wikipedia.org/wiki/李若宁" title="wikilink">李若宁</a></p></td>
 <td><p><a href="https://www.weibo.com/u/6448085104">网站</a></p></td>
 <td><p>每晚 20:00 - 21:00</p></td>
 </tr>
@@ -125,14 +125,48 @@
 <td><p><a href="../Page/你好，旧时光.md" title="wikilink">你好，旧时光</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/李兰迪" title="wikilink">李兰迪</a>、<a href="../Page/张新成.md" title="wikilink">张新成</a></p></td>
 <td><p><a href="https://www.weibo.com/u/6241214066?is_hot=1">网站</a></p></td>
-<td><p>每日 17:00 - 18:00</p></td>
+<td><p>每日 17:00 - 18:00<br />
+4月22日起，改为星期一至五 17:00 - 18:00</p></td>
+</tr>
+<tr class="even">
+<td><p>4月27日</p></td>
+<td><p>24</p></td>
+<td><p><a href="../Page/如果愛，重來.md" title="wikilink">如果愛，重來</a></p></td>
+<td><p><a href="../Page/張書豪.md" title="wikilink">張書豪</a>、<a href="../Page/柯佳嬿.md" title="wikilink">柯佳嬿</a>、<a href="../Page/吳岳擎.md" title="wikilink">吳岳擎</a></p></td>
+<td><p><a href="https://web.facebook.com/pg/iottdejavu/">网站</a></p></td>
+<td><p>星期六、日 17:00 - 18:00</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月9日</p></td>
+<td><p>60</p></td>
+<td><p><a href="../Page/筑梦情缘.md" title="wikilink">筑梦情缘</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/霍建华" title="wikilink">霍建华</a>、<a href="../Page/杨幂.md" title="wikilink">杨幂</a></p></td>
+<td><p><a href="https://www.weibo.com/jujiang2018?refer_flag=1005055013_">网站</a></p></td>
+<td><p>每晚 20:00 - 21:00<br />
+5月15日起，每晚19:00 - 21:00 (两集连播)</p></td>
+</tr>
+<tr class="even">
+<td><p>5月10日</p></td>
+<td><p>56</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/听雪楼" title="wikilink">听雪楼</a></p></td>
+<td><p><a href="../Page/秦俊杰.md" title="wikilink">秦俊杰</a>、<a href="../Page/袁冰妍.md" title="wikilink">袁冰妍</a></p></td>
+<td><p><a href="https://www.weibo.com/u/6091343896">网站</a></p></td>
+<td><p>星期一至五 18:00 - 19:00</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月21日</p></td>
+<td><p>50</p></td>
+<td><p><a href="../Page/逆袭之星途璀璨.md" title="wikilink">逆袭之星途璀璨</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/普提查·克瑟辛" title="wikilink">普提查·克瑟辛</a>、<a href="../Page/宋轶.md" title="wikilink">宋轶</a>、<a href="https://zh.wikipedia.org/wiki/种丹妮" title="wikilink">种丹妮</a>、<a href="../Page/彦希.md" title="wikilink">彦希</a></p></td>
+<td><p><a href="https://www.weibo.com/u/6036221103">网站</a></p></td>
+<td><p>星期一至五 17:00 - 18:00</p></td>
 </tr>
 </tbody>
 </table>
 
-|     |
-| --- |
-| 播映中 |
+|     |      |
+| --- | ---- |
+| 播映中 | 即将播出 |
 
 ## 2018年
 

@@ -118,7 +118,7 @@ TOWER直通的B區後方（東側）是候車處與售票處、自動售票機�
 
   - ：往[山形站](https://zh.wikipedia.org/wiki/山形站 "wikilink")（JR巴士東北）
 
-  - ：往、[會津若松站](../Page/會津若松站.md "wikilink")、、（[JR巴士關東](https://zh.wikipedia.org/wiki/JR巴士關東 "wikilink")、）
+  - ：往[豬苗代站](https://zh.wikipedia.org/wiki/豬苗代站 "wikilink")、[會津若松站](../Page/會津若松站.md "wikilink")、、[喜多方營業所](https://zh.wikipedia.org/wiki/喜多方站 "wikilink")（[JR巴士關東](https://zh.wikipedia.org/wiki/JR巴士關東 "wikilink")、）
 
   - ：往[西鄉巴士站](https://zh.wikipedia.org/wiki/西鄉巴士站 "wikilink")（白河）、須賀川營業所、[郡山站](https://zh.wikipedia.org/wiki/郡山站_\(福島縣\) "wikilink")、[二本松巴士站](https://zh.wikipedia.org/wiki/二本松IC#二本松巴士站 "wikilink")、[福島站東口](https://zh.wikipedia.org/wiki/福島站_\(福島縣\) "wikilink")（JR巴士關東、JR巴士東北、）
 

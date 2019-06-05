@@ -20,7 +20,9 @@ STRAKS開發團隊在早期30天，給與SIGNATUM用家將手上的SIGT，依照
 
   - Yobit \[2\]
   - Novaexchange
-  - [Sunrise Eschange](https://www.sunrisecoin.org/) \[3\]
+  - [Sunrise
+    Eschange](https://web.archive.org/web/20180423015800/https://www.sunrisecoin.org/)
+    \[3\]
 
 ## 參閱
 

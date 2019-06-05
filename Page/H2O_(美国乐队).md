@@ -63,7 +63,8 @@
 
 ## 外部链接
 
-  - [Official website](http://www.h2ogo.com/)
+  - [Official
+    website](https://web.archive.org/web/20160622230556/http://www.h2ogo.com/)
   - [Singer Toby Morse's site promoting a clean
     lifestyle](http://www.OneLifeOneChance.com/)
   - [Interview with Adam and Rusty

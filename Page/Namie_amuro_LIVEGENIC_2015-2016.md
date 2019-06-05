@@ -89,7 +89,7 @@ HONG KONG」。
 ## 外部連結
 
   - [官方網站 -
-    發行情報](http://contents.namieamuro.jp/discography/dvd/dvd20.html)
+    發行情報](https://web.archive.org/web/20180617065829/http://contents.namieamuro.jp/discography/dvd/dvd20.html)
 
 [分類:安室奈美惠影像作品](https://zh.wikipedia.org/wiki/分類:安室奈美惠影像作品 "wikilink")
 [分類:2016年巡迴演唱會](https://zh.wikipedia.org/wiki/分類:2016年巡迴演唱會 "wikilink")

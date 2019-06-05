@@ -16,140 +16,75 @@ iOS 4更新造成部分[iPhone
 
 ## 歷史
 
-### 公開與發佈
-
 iOS
 4於2010年6月13日的[WWDC大會中首次公開](../Page/苹果全球开发者大会.md "wikilink")\[2\]\[3\]。值得注意的是，iOS
-4是第一個被簡稱為iOS的主要版本（前代系統皆稱為iPhone OS）\[4\]\[5\]\[6\]\[7\]。
-
-2010年6月21日，iOS 4正式推出\[8\]\[9\]\[10\]。
-
-### 主要更新
-
-#### 4.0.1
+4是第一個被簡稱為iOS的主要版本（前代系統皆稱為iPhone OS）\[4\]\[5\]\[6\]\[7\]。2010年6月21日，iOS
+4正式推出\[8\]\[9\]\[10\]。
 
 iOS
 4.0.1於2010年7月15日發布。此更新以變更數據[演算法](https://zh.wikipedia.org/wiki/演算法 "wikilink")，企圖解決iPhone
-4[天線收訊不良的問題](https://zh.wikipedia.org/wiki/IPhone_4#iPhone_4訊號減弱或斷訊的情況\(天線門事件\) "wikilink")\[11\]\[12\]\[13\]。
-
-#### 4.0.2
-
-iOS
-4.0.2於2010年8月11日發布，改良系統界限檢查機制，修補了因處理作業程式碼時的緩衝區溢位問題，導致檢視[PDF文件時](../Page/可移植文档格式.md "wikilink")，若文件含有惡意製作的內嵌字型，可能允許執行惡意程式碼的漏洞\[14\]\[15\]。此更新也修補了越獄工具[JailbreakMe使用的](../Page/JailbreakMe.md "wikilink")[Safari漏洞](../Page/Safari.md "wikilink")\[16\]。
-
-#### 4.1
-
-iOS 4.1於2010年9月8日發布。此更新為[iPhone
-4加入了](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")[HDR功能](https://zh.wikipedia.org/wiki/高動態範圍成像 "wikilink")、[HD影片上傳功能及線上租借電視影集功能](https://zh.wikipedia.org/wiki/高畫質 "wikilink")，並新增社群服務[Game
+4[天線收訊不良的問題](https://zh.wikipedia.org/wiki/IPhone_4#iPhone_4訊號減弱或斷訊的情況\(天線門事件\) "wikilink")\[11\]\[12\]\[13\]。iOS
+4.0.2则於2010年8月11日發布，改良系統界限檢查機制，修補了因處理作業程式碼時的緩衝區溢位問題，導致檢視[PDF文件時](../Page/可移植文档格式.md "wikilink")，若文件含有惡意製作的內嵌字型，可能允許執行惡意程式碼的漏洞\[14\]\[15\]。此更新也修補了越獄工具[JailbreakMe使用的](../Page/JailbreakMe.md "wikilink")[Safari漏洞](../Page/Safari.md "wikilink")\[16\]。2010年9月8日，iOS4.1發布。此更新為[iPhone
+4加入了](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")[HDR功能](https://zh.wikipedia.org/wiki/高動態範圍成像 "wikilink")、上傳功能及線上租借電視影集功能，並新增社群服務[Game
 Center及](../Page/Game_Center.md "wikilink")[iTunes
 Ping](https://zh.wikipedia.org/wiki/iTunes_Ping "wikilink")\[17\]\[18\]\[19\]。此更新也解決了內建感應器故障、[藍牙收訊不良及](../Page/藍牙.md "wikilink")[iPhone
 3G效能下降及電池壽命縮減的問題](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")，並修補了[FaceTime通訊漏洞及](../Page/FaceTime.md "wikilink")[WebKit漏洞](../Page/WebKit.md "wikilink")\[20\]\[21\]\[22\]。
-
-#### 4.2.1（4.2）
 
 iOS 4.2.1於2010年11月22日發布。此更新取代因為漏洞不斷而取消發布的iOS 4.2\[23\]\[24\]，首次將所有iOS
 4的功能帶到[iPad上](../Page/IPad_\(第一代\).md "wikilink")\[25\]，並加入[繁體中文支援](https://zh.wikipedia.org/wiki/繁體中文 "wikilink")\[26\]\[27\]\[28\]。此更新引入了[AirPlay隔空播放技術](../Page/隔空播放.md "wikilink")\[29\]及[AirPrint影印技術](https://zh.wikipedia.org/wiki/AirPrint "wikilink")，可以透過裝置無線傳送列印內容至[印表機](../Page/打印机.md "wikilink")\[30\]\[31\]\[32\]；原本只有[MobileMe用戶享有的](../Page/MobileMe.md "wikilink")[Find
 My
 iPhone功能](https://zh.wikipedia.org/wiki/Find_My_iPhone "wikilink")，也改為免費內建於裝置中\[33\]\[34\]\[35\]。由於硬體機能問題，此更新成為了iPhone
 3G及[iPod touch
-2G的最終iOS版本](https://zh.wikipedia.org/wiki/IPod_Touch_\(第二代\) "wikilink")\[36\]。
-
-#### 4.2.5
-
-iOS 4.2.5於2011年1月11日發布。此更新為[CDMA版本的iPhone](../Page/分碼多重進接.md "wikilink")
+2G的最終iOS版本](https://zh.wikipedia.org/wiki/IPod_Touch_\(第二代\) "wikilink")\[36\]。發布于2011年1月11日的iOS
+4.2.5则為[CDMA版本的iPhone](../Page/分碼多重進接.md "wikilink")
 4新增了[Wi-Fi熱點功能](https://zh.wikipedia.org/wiki/热点_\(Wi-Fi\) "wikilink")\[37\]\[38\]。
-
-#### 4.3
 
 iOS
 4.3於2011年3月4日發布。此更新改進了[AirPlay技術](../Page/隔空播放.md "wikilink")\[39\]\[40\]\[41\]、Safari的[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")\[42\]\[43\]\[44\]\[45\]，為所有版本的iPhone
 4引進Wi-Fi熱點功能\[46\]\[47\]\[48\]，並新增[iTunes家庭共享功能](https://zh.wikipedia.org/wiki/iTunes "wikilink")\[49\]\[50\]\[51\]。
 
-#### 4.3.1
-
-iOS 4.3.1於2011年4月14日發布。此更新解決了iPod
-touch螢幕故障及連接電視時螢幕閃爍的問題\[52\]\[53\]，並進一步提高了iPhone系列的收訊穩定度\[54\]\[55\]。
-
-#### 4.3.2
-
-iOS
-4.3.2於2011年4月14日發布。此更新解決了[FaceTime影像延遲問題](../Page/FaceTime.md "wikilink")\[56\]，並修正了[iPad系列的收訊問題](https://zh.wikipedia.org/wiki/iPad "wikilink")\[57\]。
-
-#### 4.3.3
-
-iOS
-4.3.3於2011年5月4日發布。此更新修補了[定位系統不準確的問題](../Page/定常系統.md "wikilink")\[58\]\[59\]。
-
-#### 4.3.4
-
-iOS 4.0.1於2011年7月15日發布。此更新修補了數個安全漏洞\[60\]。
-
-#### 4.3.5
-
-iOS
-4.3.5於2011年7月25日發布。此更新修正了[憑證驗證的安全性問題](https://zh.wikipedia.org/wiki/憑證 "wikilink")\[61\]\[62\]。此更新為iOS
-4的最終版本\[63\]\[64\]。
+此后，iOS 4.3.1、iOS 4.3.2、iOS 4.3.3、iOS 4.3.4陆续发布。4.3.1更新解決了iPod
+touch螢幕故障及連接電視時螢幕閃爍的問題\[52\]\[53\]，並進一步提高了iPhone系列的收訊穩定度\[54\]\[55\]。4.3.2更新解決了[FaceTime影像延遲問題](../Page/FaceTime.md "wikilink")\[56\]，並修正了[iPad系列的收訊問題](https://zh.wikipedia.org/wiki/iPad "wikilink")\[57\]。4.3.3修補了[定位系統不準確的問題](../Page/定常系統.md "wikilink")\[58\]\[59\]。4.3.4修補了數個安全漏洞\[60\]。iOS
+4的最终版本\[61\]\[62\]——iOS
+4.3.5则於2011年7月25日發布。此更新修正了[憑證驗證的安全性問題](https://zh.wikipedia.org/wiki/憑證 "wikilink")\[63\]\[64\]。
 
 ## 系統新增功能
-
-### 主畫面
 
 在iOS 4中，由於資料夾功能的引入，主畫面能容納的最大程式數量從180個大幅提升至2160個\[65\]\[66\]，不過在iOS
 4中，一個資料夹最多只能放置12个应用程序\[67\]。根據容納的程式種類不同，資料夾的名稱也會隨之變化，當然也可以手動更改\[68\]。另外，還新增了自行更換主畫面[桌布的功能](https://zh.wikipedia.org/wiki/桌布 "wikilink")，不過[iPhone
 3G及](https://zh.wikipedia.org/wiki/iPhone_3G "wikilink")[第二代iPod
 touch則因為硬體效能問題而被排除在外](https://zh.wikipedia.org/wiki/IPod_touch_\(第二代\) "wikilink")\[69\]\[70\]。
 
-### 多工处理
-
 在iOS 4中，可以同时运行多个应用程序并隨時迅速切换，以讓部分应用程序在背景中運作，同時保有效能與電池續航力\[71\]。由於iOS
 4的多工處理功能尚不完善，因此只有[定位](../Page/全球定位系统.md "wikilink")、[網路電話及](../Page/网络电话交换机.md "wikilink")[音樂播放等類型的應用程式能支援多工處理](https://zh.wikipedia.org/wiki/媒体播放器 "wikilink")\[72\]\[73\]\[74\]\[75\]。同時，iOS
 4引進了「快速切換」技術，能在使用者切換程式時保持其他背景程式運行\[76\]\[77\]\[78\]。
 
-### 拼寫檢查
-
 [拼寫檢查最初於iPad版本的iPhone](https://zh.wikipedia.org/wiki/拼寫檢查 "wikilink") OS
 3.2中出現\[79\]，而在iOS
-4中引入所有裝置中。在輸入文字時，若出現拼字或文法錯誤，錯誤的地方會以紅底線標記，並提示正確的拼字或文法\[80\]。
-
-### 相機
-
-在iOS 4中，可以最大五倍变焦倍率拍攝相片\[81\]。此外，在iOS 4.2中，首次為[iPhone
+4中引入所有裝置中。在輸入文字時，若出現拼字或文法錯誤，錯誤的地方會以紅底線標記，並提示正確的拼字或文法\[80\]。相机方面，在iOS
+4中，可以最大五倍变焦倍率拍攝相片\[81\]。此外，在iOS 4.2中，首次為[iPhone
 4加入了](https://zh.wikipedia.org/wiki/iPhone_4 "wikilink")[HDR拍攝功能](https://zh.wikipedia.org/wiki/高動態範圍成像 "wikilink")\[82\]\[83\]。
 
-### Spotlight
-
-[Spotlight功能最初於](../Page/Spotlight_\(應用程式\).md "wikilink")[iPhone OS
-3中出現](https://zh.wikipedia.org/wiki/iPhone_OS_3 "wikilink")。在iOS
+此外，iOS 4还有一大亮点，就是改进了最初於[iPhone OS
+3中出現的](https://zh.wikipedia.org/wiki/iPhone_OS_3 "wikilink")[Spotlight功能](../Page/Spotlight_\(應用程式\).md "wikilink")。在iOS
 4中，Spotlight加入了[Google搜尋及](../Page/Google搜索.md "wikilink")[維基百科的快捷搜尋選項](../Page/维基百科.md "wikilink")，點選後會直接打開Safari應用程式顯示結果\[84\]\[85\]。
 
 ## 應用程式新增功能
-
-### 邮件
 
 在iOS 4中，可以在整合的收件箱内查看包含[Gmail](../Page/Gmail.md "wikilink")、[Yahoo\!
 Mail及](../Page/Yahoo!_Mail.md "wikilink")[Hotmail等所有已登入郵件帐户中的邮件](https://zh.wikipedia.org/wiki/Windows_Live_Hotmail "wikilink")\[86\]，透過搜尋邮件標題及內文尋找郵件，還可以使用第三方应用程序開啟附件\[87\]\[88\]。iOS
 4還加入了對[MobileMe及](../Page/MobileMe.md "wikilink")[Microsoft
 Exchange郵件帳戶的支援](../Page/Microsoft_Exchange_Server.md "wikilink")\[89\]。
 
-### Game Center
-
 在iOS 4.1中，首次引入社群服務[Game
 Center](../Page/Game_Center.md "wikilink")\[90\]。在Game
 Center中，用戶可透過在遊戲中獲得成就，在排行榜上競爭，並與其他來自世界各地的用戶交談\[91\]\[92\]\[93\]。此功能與iPhone
-3G不相容\[94\]。
-
-### FaceTime
-
-[缩略图](https://zh.wikipedia.org/wiki/File:1st-Gen-iPad-WiFi-iBooks.jpg "fig:缩略图")
-[FaceTime是](../Page/FaceTime.md "wikilink")[蘋果裝置專用的視訊通話應用程式](https://zh.wikipedia.org/wiki/蘋果裝置 "wikilink")，於iOS
+3G不相容\[94\]。[缩略图](https://zh.wikipedia.org/wiki/File:1st-Gen-iPad-WiFi-iBooks.jpg "fig:缩略图")
+[FaceTime是苹果推出的一种](../Page/FaceTime.md "wikilink")[视频通话应用软件](https://zh.wikipedia.org/wiki/視訊電話 "wikilink")，使用该公司自定义的通信协议，於iOS
 4首次推出\[95\]\[96\]。
-
-### Safari
 
 在iOS 4中，於「搜尋引擎」選項內新增了[Bing](../Page/Bing.md "wikilink")\[97\]；自iOS
 4.2開始，可以在網頁內搜尋特定單字或句子\[98\]。
-
-### iBooks
 
 [iBooks最初於iPad推出](https://zh.wikipedia.org/wiki/iBooks "wikilink")，並於iOS
 4中加入了對iPhone及iPod touch的支援\[99\]\[100\]。不過iBooks不是內建軟體，而是作為一款[App
@@ -313,11 +248,11 @@ touch無法升級至iOS](https://zh.wikipedia.org/wiki/IPod_touch_\(第一代\) 
 60.
 
 61.
-
 62.
-
 63.
+
 64.
+
 65.
 
 66.

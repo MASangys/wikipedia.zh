@@ -5,7 +5,8 @@ Bank](https://zh.wikipedia.org/wiki/KBS音樂銀行 "wikilink")》舞台作正�
 
 出道後一個月，INX就已經到台灣宣傳，並計劃演唱中文歌曲《小幸運》\[5\]。
 2017年，INX因中國限韓令影響，轉與台灣阿爾發音樂簽約，並參與錄製合輯。於1月13日推出「阿爾發22週年『光
-LIGHT』新歌加經典」收錄《光 LIGHT》和《Alright》中文版歌曲\[6\]。
+LIGHT』新歌加經典」收錄《光
+LIGHT》和《Alright》中文版歌曲\[6\]。2017年11月30日，團體正式解散。
 
 ## 成員資料
 
@@ -249,10 +250,15 @@ LIGHT』新歌加經典」收錄《光 LIGHT》和《Alright》中文版歌曲\[
   -
   - [INX](http://cafe.daum.net/INXofficial)在Daum cafe的頁面
 
-[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
+[Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 [Category:2016年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2016年成立的音樂團體 "wikilink")
+[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
+[Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink")
+[Category:已解散的韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國男子演唱團體 "wikilink")
+[Category:2016年韓國建立](https://zh.wikipedia.org/wiki/Category:2016年韓國建立 "wikilink")
+[Category:2017年韓國廢除](https://zh.wikipedia.org/wiki/Category:2017年韓國廢除 "wikilink")
+[Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.
 2.

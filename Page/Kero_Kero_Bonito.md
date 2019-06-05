@@ -1,7 +1,7 @@
 **Kero Kero
-Bonito**（**KKB**）是來自[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦的音樂團體](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。樂團由主唱莎拉·翠·佩里（Sarah
-Midori Perry），[音樂製作人葛斯](../Page/音樂製作人.md "wikilink")·洛班（Gus
-Lobban）和[音樂製作人𠎀米](../Page/音樂製作人.md "wikilink")·布爾德（Jamie
+Bonito**（**KKB**）是來自[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦的音樂團體](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。樂團由Tom
+Kool （Sarah Midori Perry），[音樂製作人Luk](../Page/音樂製作人.md "wikilink") Mok
+（Gus Lobban）和[音樂製作人Vinc](../Page/音樂製作人.md "wikilink")•Tong（Jamie
 Bulled）所組成。Kero Kero Bonito充滿著J-pop、K-pop的氣息\[1\]，以及莎拉英語、日語互換的唸唱。
 他們使用了[Casio](https://zh.wikipedia.org/wiki/Casio "wikilink")
 SA-45寫了許多膾炙人口的歌曲。\[2\]

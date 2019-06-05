@@ -306,8 +306,8 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Seonghwan</p></td>
-<td><p>尹成奐</p></td>
+<td><p>SeongHwan</p></td>
+<td><p>尹成愌[12]</p></td>
 <td><p>Jungle</p></td>
 <td></td>
 <td></td>
@@ -328,14 +328,14 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 </tr>
 <tr class="odd">
 <td><p>SnowFlower</p></td>
-<td><p>盧會宗[12]</p></td>
+<td><p>盧會宗[13]</p></td>
 <td><p>Support</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ikssu</p></td>
-<td><p>田益數[13]</p></td>
+<td><p>田益數[14]</p></td>
 <td><p>Top</p></td>
 <td></td>
 <td></td>
@@ -356,7 +356,7 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 <thead>
 <tr class="header">
 <th><p>代號或暱稱</p></th>
-<th><p>姓名[14]</p></th>
+<th><p>姓名[15]</p></th>
 <th><p>國籍</p></th>
 <th><p>職位</p></th>
 </tr>
@@ -395,7 +395,7 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 <thead>
 <tr class="header">
 <th><p>代號或暱稱</p></th>
-<th><p>姓名[15]</p></th>
+<th><p>姓名[16]</p></th>
 <th><p>國籍</p></th>
 <th><p>職位</p></th>
 </tr>
@@ -420,7 +420,7 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 
 #### Afreeca Freecs Blue （已解散）
 
-\[16\]
+\[17\]
 
 <table>
 <thead>
@@ -522,8 +522,9 @@ Freecs以2:0战胜SK Telecom T1。\[3\]
 9.  無對應漢字
 10. 只收錄2018的中文姓名名單
 11. \[8\]
-12. \[7\]
-13. \[14\]
-14. \[7\]
-15. \[12\]
-16.
+12.
+13. \[7\]
+14. \[15\]
+15. \[7\]
+16. \[12\]
+17.

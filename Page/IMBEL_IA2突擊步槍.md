@@ -31,11 +31,10 @@ IA2設有兩種口徑：[5.56×45毫米](../Page/5.56×45mm_NATO.md "wikilink")[
 SCAR](../Page/FN_SCAR突擊步槍.md "wikilink")、[HK433或](../Page/HK433突擊步槍.md "wikilink")[雷明登ACR那樣具有模塊化的設計](../Page/雷明登ACR突擊步槍.md "wikilink")。
 
 7.62×51毫米北约口徑型仍然使用類似於FN
-FAL的操作系統（槍機傾斜式閉鎖），而非5.56×45毫米北约口徑型的7鎖耳[滾轉式槍機操作系統](../Page/滾轉式槍機.md "wikilink")（槍機迴轉式閉鎖）。
+FAL的操作系統（槍機傾斜式閉鎖），而非5.56×45毫米北约口徑型的7鎖耳[轉拴式槍栓操作系統](../Page/轉拴式槍栓.md "wikilink")（槍機迴轉式閉鎖）。
 
 IA2大量地使用[聚合物材料](../Page/聚合物.md "wikilink")，並在[機匣的左側具有非往復式](https://zh.wikipedia.org/wiki/機匣 "wikilink")。5.56×45毫米北约口徑型使用與[M16系列兼容的](../Page/M16突擊步槍.md "wikilink")[STANAG彈匣](../Page/STANAG彈匣.md "wikilink")，而7.62×51毫米北约口徑型則是公制式[FN
-FAL的](../Page/FN_FAL自動步槍.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")。
-IA2的導氣系統為可手動調節。\[5\]
+FAL的](../Page/FN_FAL自動步槍.md "wikilink")[彈匣](../Page/彈匣.md "wikilink")。IA2的導氣系統為可手動調節。\[5\]
 
 該槍的快慢機具有3個位置：保險（S）、半自動射擊（SA）和全自動射擊（A）。
 

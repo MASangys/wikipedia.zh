@@ -1,10 +1,12 @@
-《**Re：Blackpink**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK以組合名稱作為專輯名字的日本出道迷你專輯](../Page/BLACKPINK.md "wikilink")《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》後續的改版專輯，由所屬經紀公司[YG娛樂與日本唱片公司](../Page/YG娛樂.md "wikilink")[AVEX共同創立的公司](../Page/愛貝克思集團.md "wikilink")[YGEX製作發行](https://zh.wikipedia.org/wiki/YGEX "wikilink")，於2018年3月28日以三種不同版本發售。\[1\]
+《**Re:
+Blackpink**》是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK以組合名稱作為專輯名字的日本出道迷你專輯](../Page/BLACKPINK.md "wikilink")《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》後續的改版專輯，由所屬經紀公司[YG娛樂與日本唱片公司](../Page/YG娛樂.md "wikilink")[AVEX共同創立的公司](../Page/愛貝克思集團.md "wikilink")[YGEX製作發行](https://zh.wikipedia.org/wiki/YGEX "wikilink")，於2018年3月28日以三種不同版本發售\[1\]。
 
 ## 背景
 
-2018年1月30日，所屬日本唱片公司[YGEX通過官方網站公開了即將發行BLACKPINK日本首張迷你專輯後續改版專輯](https://zh.wikipedia.org/wiki/YGEX "wikilink")《Re：Blackpink》的消息，這張專輯定於3月28日發行，內容包含了首張迷你專輯《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》中的所有歌曲的CD\[2\]\[3\]，而在宣佈發行日期的當天，YGEX也公開了專輯部分配置\[4\]，包含一張CD+DVD盤、CD盤及PlayButton的初回限定盤，共三款發行版本，而此前在韓國發行的所有韓語數位單曲均重新錄製為日語版收錄於專輯三種版本內。3月12日則公開專輯完整資訊及配置，其中，CD+DVD套裝盤除了收錄曾在2017年7月20日在[日本武道館舉行首場海外Showcase](../Page/日本武道館.md "wikilink")「BLACKPINK
+2018年1月30日，所屬日本唱片公司[YGEX通過官方網站公開了即將發行BLACKPINK日本首張迷你專輯後續改版專輯](https://zh.wikipedia.org/wiki/YGEX "wikilink")《Re:
+Blackpink》的消息，這張專輯定於3月28日發行，內容包含了首張迷你專輯《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》中的所有歌曲的CD\[2\]\[3\]，而在宣佈發行日期的當天，YGEX也公開了專輯部分配置\[4\]，包含一張CD+DVD盤、CD盤及PlayButton的初回限定盤，共三款發行版本，而此前在韓國發行的所有韓語數位單曲均重新錄製為日語版收錄於專輯三種版本內。3月12日則公開專輯完整資訊及配置，其中，CD+DVD套裝盤除了收錄曾在2017年7月20日在[日本武道館舉行首場海外Showcase](../Page/日本武道館.md "wikilink")「BLACKPINK
 Premium Debut Showcase」正式進軍日本的現場表演影像之外，a-nation
-2017的實況錄像、在新視覺攝影製作現場拍攝的製作映像也會收錄其中。\[5\]
+2017的實況錄像、在新視覺攝影製作現場拍攝的製作映像也會收錄其中\[5\]。
 
 ## 發行版本
 

@@ -26,12 +26,12 @@
 
 ### 專屬線上頻道
 
-| 頻道名稱              | 播放平台                                     | 設立日期                                                                    | 備註                                                                      |
-| ----------------- | ---------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| Channel NCT       | [YouTube](../Page/YouTube.md "wikilink") | 2017/4/14                                                               | [連結](https://www.youtube.com/channel/UCwgtORdDtUKhpjE1VBv6XfA/featured) |
-| Channel NCT DAILY | 2018/11/20                               | [連結](https://www.youtube.com/channel/UCG-coSVp89xFSWN4pbVL53w)          |                                                                         |
-| Channel NCT MUSIC | 2018/11/26                               | [連結](https://www.youtube.com/channel/UC6_kmAF-67rCiIpa3dCit5A/featured) |                                                                         |
-| Channel NCT DANCE | 2018/11/20                               | [連結](https://www.youtube.com/channel/UCcnk_XPx9NtZDFhBdz-DfIA/featured) |                                                                         |
+| 頻道名稱              | 播放平台                                     | 設立日期                                                           | 備註                                                             |
+| ----------------- | ---------------------------------------- | -------------------------------------------------------------- | -------------------------------------------------------------- |
+| Channel NCT       | [YouTube](../Page/YouTube.md "wikilink") | 2017/4/14                                                      | [連結](https://www.youtube.com/channel/UCwgtORdDtUKhpjE1VBv6XfA) |
+| Channel NCT DAILY | 2018/11/20                               | [連結](https://www.youtube.com/channel/UCG-coSVp89xFSWN4pbVL53w) |                                                                |
+| Channel NCT MUSIC | 2018/11/26                               | [連結](https://www.youtube.com/channel/UC6_kmAF-67rCiIpa3dCit5A) |                                                                |
+| Channel NCT DANCE | 2018/11/20                               | [連結](https://www.youtube.com/channel/UCcnk_XPx9NtZDFhBdz-DfIA) |                                                                |
 
 ## 剧集
 
@@ -88,7 +88,7 @@
 <td><p><a href="../Page/OnStyle.md" title="wikilink">OnStyle</a></p></td>
 <td><p>《<a href="../Page/Lipstick_Prince.md" title="wikilink">Lipstick Prince</a>》</p></td>
 <td><p>道英</p></td>
-<td><p>第一季，</p></td>
+<td><p>第一季</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年12月13日－2017年2月18日</p></td>
@@ -99,7 +99,7 @@
 </tr>
 <tr class="even">
 <td><p>2017年1月27日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式会社" title="wikilink">SBS</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/小學生老師" title="wikilink">小學生老師</a>》</p></td>
 <td><p>Ten</p></td>
 <td><p>新年特輯</p></td>
@@ -116,7 +116,7 @@
 <td><p><a href="../Page/OnStyle.md" title="wikilink">OnStyle</a></p></td>
 <td><p>《<a href="../Page/Lipstick_Prince.md" title="wikilink">Lipstick Prince</a>》</p></td>
 <td><p>Johnny</p></td>
-<td><p>第二季，[2]</p></td>
+<td><p>第二季 [2]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年6月12日</p></td>
@@ -164,7 +164,7 @@
 </tr>
 <tr class="odd">
 <td><p>2018年10月26日-11月9日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/SBS" title="wikilink">SBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/SBS株式会社" title="wikilink">SBS</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/叢林的法則" title="wikilink">叢林的法則</a>》</p></td>
 <td><p>Lucas</p></td>
 <td><p>印度洋篇，第338-339集</p></td>
@@ -262,36 +262,72 @@
 | 11月5日、11月12日                                        |
 | 11月8日                                               |
 
-| 2019年綜藝節目列表      |
-| ---------------- |
-| 日期               |
-| 1月9日             |
-| 2月5－6日           |
-| 1月31日、2月7日、2月14日 |
-| 2月12日            |
-| 3月16日            |
-| 4月13日            |
-| 4月16日            |
-| 4月18日            |
-| 《》               |
-| 4月19日            |
-| 4月23日            |
-| 4月27日            |
-| 5月5日             |
-| 5月               |
+<table>
+<thead>
+<tr class="header">
+<th><p>2019年綜藝節目列表</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>日期</p></td>
+</tr>
+<tr class="even">
+<td><p>1月9日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2月5－6日</p></td>
+</tr>
+<tr class="even">
+<td><p>1月31日、2月7日、2月14日</p></td>
+</tr>
+<tr class="odd">
+<td><p>2月12日</p></td>
+</tr>
+<tr class="even">
+<td><p>3月16日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月13日</p></td>
+</tr>
+<tr class="even">
+<td><p>4月16日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月18日</p></td>
+</tr>
+<tr class="even">
+<td><p>《》</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月19日</p></td>
+</tr>
+<tr class="even">
+<td><p>4月23日</p></td>
+</tr>
+<tr class="odd">
+<td><p>4月27日</p></td>
+</tr>
+<tr class="even">
+<td><p>5月12日</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月14日</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月19日</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 主持
 
-### 節目主持
+### 音樂節目主持
 
-<table style="width:23%;">
-<colgroup>
-<col style="width: 1%" />
-<col style="width: 2%" />
-<col style="width: 8%" />
-<col style="width: 4%" />
-<col style="width: 8%" />
-</colgroup>
+<table>
 <thead>
 <tr class="header">
 <th><p>日期</p></th>
@@ -310,34 +346,27 @@
 <td><p>固定MC</p></td>
 </tr>
 <tr class="even">
-<td><p>2016年9月19日－12月11日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/優酷" title="wikilink">優酷</a></p></td>
-<td><p>《<a href="../Page/My_SMT.md" title="wikilink">My SMT</a>》</p></td>
-<td><p>道英、Johnny</p></td>
-<td><p>固定MC，與<a href="../Page/利特.md" title="wikilink">利特主持</a></p></td>
-</tr>
-<tr class="odd">
 <td><p>2017年2月5日－2018年2月4日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/SBS株式会社" title="wikilink">SBS</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a>》</p></td>
 <td><p>道英</p></td>
 <td><p>固定MC，與<a href="../Page/朴珍榮.md" title="wikilink">珍榮</a>、<a href="../Page/金智秀_(歌手).md" title="wikilink">Jisoo主持</a>[4]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年2月24日－2019年1月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a>》</p></td>
 <td><p>Mark</p></td>
 <td><p>固定MC，與<a href="https://zh.wikipedia.org/wiki/邕聖祐" title="wikilink">邕聖祐</a>、<a href="../Page/美娜.md" title="wikilink">美娜主持</a>[5]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年5月22日－至今</p></td>
 <td><p>SBS MTV</p></td>
 <td><p>《<a href="../Page/THE_SHOW_(SBS_MTV節目).md" title="wikilink">THE SHOW</a>》</p></td>
 <td><p>Jeno</p></td>
 <td><p>固定MC，與<a href="https://zh.wikipedia.org/wiki/金龍國" title="wikilink">金龍國</a>、睿恩主持[6]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -346,6 +375,21 @@
 </tr>
 </tbody>
 </table>
+
+### 綜藝節目主持
+
+| 日期                | 播出平台                                              | 節目名稱                                     | 參與成員      | 備註                                     |
+| ----------------- | ------------------------------------------------- | ---------------------------------------- | --------- | -------------------------------------- |
+| 2016年9月19日－12月11日 | [優酷](https://zh.wikipedia.org/wiki/優酷 "wikilink") | 《[My SMT](../Page/My_SMT.md "wikilink")》 | 道英、Johnny | 固定MC，與[利特主持](../Page/利特.md "wikilink") |
+| 2019年7月16日－8月21日  | PPTV                                              | 《Food Truck Battle》                      | Ten       |                                        |
+|                   |                                                   |                                          |           |                                        |
+
+### 活動典禮主持
+
+| 日期         | 節目名稱         | 參與成員    | 備註 |
+| ---------- | ------------ | ------- | -- |
+| 2019年6月15日 | 2019 安東韓流演唱會 | Jeno、渽民 |    |
+|            |              |         |    |
 
 ## 廣播電台
 
@@ -1667,14 +1711,14 @@
 
 ### 團體MV
 
-<table style="width:16%;">
+<table style="width:160%;">
 <colgroup>
-<col style="width: 5%" />
-<col style="width: 1%" />
-<col style="width: 1%" />
-<col style="width: 5%" />
-<col style="width: 2%" />
-<col style="width: 1%" />
+<col style="width: 50%" />
+<col style="width: 15%" />
+<col style="width: 15%" />
+<col style="width: 50%" />
+<col style="width: 20%" />
+<col style="width: 10%" />
 </colgroup>
 <thead>
 <tr class="header">
@@ -1784,7 +1828,8 @@
 <td><p>NCT Dream</p></td>
 <td><p>Mark、仁俊、Jeno、楷燦、辰樂、志晟</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=1Opsx733bfg">Performance Video</a><br />
-<a href="https://www.youtube.com/watch?v=rpKcpAYovFo">Performance Video (中文版)</a></p></td>
+<a href="https://www.youtube.com/watch?v=rpKcpAYovFo">Performance Video (中文版)</a><br />
+<a href="https://www.youtube.com/watch?v=Cg8k2Jtfw6M">DREAM SHOW Ver. Dance Practice</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://www.youtube.com/watch?v=V-Avlk8ZZVk">最後的初戀 (My First and Last) (中文版)</a></p></td>
@@ -1916,7 +1961,8 @@ Focus on ver.<br />
 <td><p>《We Go Up》</p></td>
 <td><p>NCT Dream</p></td>
 <td><p>Mark、仁俊、Jeno、楷燦、渽民、辰樂、志晟</p></td>
-<td><p><a href="https://www.youtube.com/watch?v=QLXvgzik5lU">Dance Practice</a><a href="https://www.youtube.com/watch?v=wJTr5t-mvWE">Halloween Costume Ver.</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=QLXvgzik5lU">Dance Practice</a><br />
+<a href="https://www.youtube.com/watch?v=wJTr5t-mvWE">Halloween Costume Ver.</a></p></td>
 </tr>
 <tr class="even">
 <td><p>10月8日</p></td>
@@ -1987,6 +2033,31 @@ Focus on ver.<br />
 <td><p>3月18日</p></td>
 <td><p><a href="https://www.youtube.com/watch?v=azr7saygKng">Wakey-Wakey</a></p></td>
 <td><p>《Awaken》</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=LYcRXodIJiw">Dance Practice</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月9日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=irXZve4QRos">無翼而飛 (Take Off)</a></p></td>
+<td><p>《Take Off》</p></td>
+<td><p>WayV</p></td>
+<td><p>錕、Ten、昀昀、Lucas、肖俊、Hendery、揚揚</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=JDTQL9qowzA">Performance Video</a><br />
+<a href="https://www.youtube.com/watch?v=THb4TX0QPwk">Dance Practice</a></p></td>
+</tr>
+<tr class="even">
+<td><p>5月13日</p></td>
+<td><p>Highway to Heaven</p></td>
+<td><p>《NCT ＃127 We Are Superhuman》</p></td>
+<td><p>NCT 127</p></td>
+<td><p>泰一、Johnny、泰容、悠太、道英、在玹、廷祐、Mark、楷燦</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=1eekOcpx_iQ">NEO CITY Tour Film ver.</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>5月24日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=x95oZNxW5Rc">Superhuman</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1996,14 +2067,7 @@ Focus on ver.<br />
 
 ### [SM STATION歌曲MV](../Page/SM_STATION.md "wikilink")
 
-<table style="width:15%;">
-<colgroup>
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 2%" />
-<col style="width: 1%" />
-<col style="width: 1%" />
-</colgroup>
+<table>
 <thead>
 <tr class="header">
 <th><p>年份</p></th>
@@ -2203,9 +2267,11 @@ Focus on ver.<br />
 | 12月                   | VOGUE Korea               | Lucas、渽民                                             |                        |                      |                                                                                     |
 | Harper's Bazaar Korea | Lucas                     |                                                      |                        |                      |                                                                                     |
 | 2019年                 | 3月                        | Men's Non-No                                         | 日本                     | 悠太                   |                                                                                     |
-| Urbanlike             | 韓國                        | NCT Dream（缺楷灿）                                       |                        |                      |                                                                                     |
+| Urbanlike             | 韓國                        | NCT Dream（缺楷燦）                                       |                        |                      |                                                                                     |
 | 4月                    | Grazia                    | 在玹                                                   |                        |                      |                                                                                     |
 | 5月                    | NYLON                     | 渽民                                                   |                        |                      |                                                                                     |
+| 6月                    | Maps                      | NCT Dream（缺楷燦、辰樂）                                    |                        |                      |                                                                                     |
+| 风度men’s uno Young\!   | 中國                        | WayV                                                 |                        |                      |                                                                                     |
 
 ## 参考文献
 

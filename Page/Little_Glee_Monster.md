@@ -229,6 +229,14 @@ Glee Monster」。
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>14th</p></td>
+<td><p>2019年5月29日</p></td>
+<td><p>君に届くまで</p></td>
+<td><p>SRCL-11157/8</p></td>
+<td><p>SRCL-11159</p></td>
+<td><p>SRCL-11160/1</p></td>
+</tr>
 </tbody>
 </table>
 

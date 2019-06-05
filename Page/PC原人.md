@@ -201,7 +201,7 @@ PC原人的主要攻擊方式是使用像是石頭一樣堅硬的頭部進行攻
 ## 外部連結
 
   - [Hudson Selection PC原人
-    官網](http://www.hudson.co.jp/gamenavi/gamedb/softinfo/hu_select/pc)
+    官網](https://web.archive.org/web/20080208221152/http://www.hudson.co.jp/gamenavi/gamedb/softinfo/hu_select/pc/)
 
 [Category:1989年電子遊戲](https://zh.wikipedia.org/wiki/Category:1989年電子遊戲 "wikilink")
 [Category:PC_Engine遊戲](https://zh.wikipedia.org/wiki/Category:PC_Engine遊戲 "wikilink")

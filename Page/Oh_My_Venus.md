@@ -330,6 +330,8 @@ John Kim</p></td>
   - [韓國KBS官方網站](http://www.kbs.co.kr/drama/ohmyvenus/)
   - [friDay影音線上看](http://video.friday.tw/drama/detail/198)
 
+}}
+
 [Category:2015年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2015年韓國電視劇集 "wikilink")
 [Category:韓國浪漫喜劇電視劇](https://zh.wikipedia.org/wiki/Category:韓國浪漫喜劇電視劇 "wikilink")
 [Category:律師題材電視劇](https://zh.wikipedia.org/wiki/Category:律師題材電視劇 "wikilink")

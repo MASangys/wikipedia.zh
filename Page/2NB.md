@@ -711,7 +711,7 @@ Sharala》，依然稱她為2NB的[金頌怡](../Page/加頻.md "wikilink")\[21\
 8.  [허솔지, 소속사와 계약만료로 투앤비
     탈퇴](http://sports.donga.com/3//20110621/38196455/1) dongA.com
 
-9.  [EXID 公開二位新成員](http://kpopn.com/2012/07/31/136269/) Kpopn
+9.  [EXID 公開二位新成員](http://kpopn.com/2012/07/31/136269/)  Kpopn
 
 10. [복학생 백지영, 2NB의 '김송이'\! -
     히든싱어 10회](https://www.youtube.com/watch?v=ANdm30iTWeQ)

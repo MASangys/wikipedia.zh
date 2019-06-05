@@ -1,5 +1,5 @@
 **約翰·布萊爾·畢克史塔夫**（[英语](../Page/英语.md "wikilink"): John-Blair "J. B."
-Bickerstaff，）为[NBA职业](../Page/NBA.md "wikilink")[篮球教练](../Page/篮球.md "wikilink")，曾擔任[休斯敦火箭队](https://zh.wikipedia.org/wiki/休斯敦火箭队 "wikilink")、[曼斐斯灰熊主教練](https://zh.wikipedia.org/wiki/曼斐斯灰熊 "wikilink")。
+Bickerstaff，）为[NBA职业](../Page/NBA.md "wikilink")[篮球教练](../Page/篮球.md "wikilink")，曾擔任[休斯敦火箭队](https://zh.wikipedia.org/wiki/休斯敦火箭队 "wikilink")、[曼斐斯灰熊主教練](https://zh.wikipedia.org/wiki/曼斐斯灰熊 "wikilink")，目前[克里夫蘭騎士副總教練](https://zh.wikipedia.org/wiki/克里夫蘭騎士 "wikilink")。
 
 ## 篮球生涯
 
@@ -23,6 +23,8 @@ Fizdale)，畢克史塔夫接替其作为临时主教练直到赛季结束。
 根據最新消息指出，灰熊和代理總教練畢克史塔夫（J.B. Bickerstaff）達成協議，畢克史塔夫將從代理轉為正式總教練。
 
 灰熊總教練畢克史塔夫（J.B. Bickerstaff）被開除。
+
+5月20日讯 根据NBA记者Adrian Wojnarowski报道，多位消息人士透露，骑士已聘请JB-比克斯塔夫为球队助教。
 
 ## 主教练战绩
 

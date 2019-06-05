@@ -1,22 +1,3 @@
-2017年7月8日
-2017年7月20日
-2017年8月4日
-2017年8月31日
-<small> | sec-title = | rate = | runtime = 103分鐘 | country =
-<small></small> | language =
-<small>[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")</small>
-| imdb_id = | amg_id = | budget = | gross =
-16.2億[日圆票房](https://zh.wikipedia.org/wiki/日圆 "wikilink")
-84.3萬港元票房
-260萬新台幣票房
-
-| preceded_by =
-<small>[-{zh-cn:蜡笔小新：梦境世界大突击;zh-tw:蠟筆小新：爆睡！夢世界大作戰;zh-hk:蠟筆小新：瞓啦！早唞早著夢作戰}-](https://zh.wikipedia.org/wiki/蠟筆小新：爆睡！夢世界大作戰 "wikilink")</small>
-| followed_by =
-<small>[-{zh-tw:蠟筆小新：功夫小子〜拉麵大亂鬥〜;zh-hk:蠟筆小新：爆盛！功夫小新〜拉麵大亂鬥〜}-](../Page/蠟筆小新：功夫小子〜拉麵大亂鬥〜.md "wikilink")</small>
-| cn_name = 蜡笔小新：宇宙人来袭！！ | hk_name = 蠟筆小新：外星人噼噼怪來襲！！ | tw_name =
-蠟筆小新：宇宙人Pi力來襲！！ }}
-
 《**蠟筆小新：宇宙人Pi力來襲！！**》（）是于[日本](../Page/日本.md "wikilink")2017年4月15日上映的《[蜡笔小新](../Page/蜡笔小新.md "wikilink")》第25部电影版。本作並為蠟筆小新電影版25周年紀念作品。
 
 ## 概要
@@ -34,11 +15,111 @@
 
 ## 角色
 
+### 原作角色
+
 <table>
 <tbody>
 <tr class="odd">
-<td><p><strong>聲優</strong></p></td>
+<td><p><strong>日本配音</strong></p></td>
 <td><p><strong>國语配音</strong>（台湾）</p></td>
+<td><p><strong>粵語配音</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><a href="../Page/矢島晶子.md" title="wikilink">矢島晶子</a></p></td>
+<td><center>
+<p><a href="../Page/蔣篤慧.md" title="wikilink">蔣篤慧</a></p></td>
+<td><center>
+<p><a href="../Page/王慧珠.md" title="wikilink">王慧珠</a></p></td>
+<td><center>
+<p><strong>野原新之助</strong><br />
+</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p><a href="../Page/楢橋美紀.md" title="wikilink">楢橋美紀</a></p></td>
+<td><center></td>
+<td><center>
+<p><a href="../Page/譚淑英.md" title="wikilink">譚淑英</a></p></td>
+<td><center>
+<p><strong>野原美伢</strong><br />
+</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><a href="../Page/森川智之.md" title="wikilink">森川智之</a></p></td>
+<td><center></td>
+<td><center></td>
+<td><center>
+<p><strong>野原廣志</strong><br />
+</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p><a href="../Page/興梠里美.md" title="wikilink">興梠里美</a></p></td>
+<td><center></td>
+<td><center></td>
+<td><center>
+<p><strong>野原向日葵</strong><br />
+</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><a href="../Page/真柴摩利.md" title="wikilink">真柴摩利</a></p></td>
+<td><center></td>
+<td><center></td>
+<td><center>
+<p><strong>小白</strong><br />
+</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p><a href="../Page/真柴摩利.md" title="wikilink">真柴摩利</a></p></td>
+<td><center></td>
+<td><center></td>
+<td><center>
+<p><strong>風間徹</strong><br />
+</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><a href="../Page/林玉緒.md" title="wikilink">林玉緒</a></p></td>
+<td><center></td>
+<td><center></td>
+<td><center>
+<p><strong>櫻田妮妮</strong><br />
+</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/一龍斎貞友" title="wikilink">一龍斎貞友</a></p></td>
+<td><center></td>
+<td><center></td>
+<td><center>
+<p><strong>佐藤正男</strong><br />
+</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/佐藤智恵" title="wikilink">佐藤智恵</a></p></td>
+<td><center></td>
+<td><center></td>
+<td><center>
+<p><strong>阿呆</strong><br />
+</p></td>
+</tr>
+</tbody>
+</table>
+
+### 本劇角色
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>日本配音</strong></p></td>
+<td><p><strong>國语配音</strong>（台湾）</p></td>
+<td><p><strong>粵語配音</strong></p></td>
 <td><p><strong>角色</strong></p></td>
 <td><p><strong>介紹</strong></p></td>
 </tr>
@@ -47,6 +128,7 @@
 <p><a href="../Page/澤城美雪.md" title="wikilink">澤城美雪</a></p></td>
 <td><center>
 <p><a href="../Page/草莓姐姐.md" title="wikilink">草莓姐姐</a></p></td>
+<td><center></td>
 <td><center>
 <p><strong>Pi力</strong><br />
 </p></td>
@@ -58,6 +140,7 @@
 （）</p></td>
 <td><center>
 <p><a href="../Page/符爽.md" title="wikilink">符爽</a></p></td>
+<td><center></td>
 <td><center>
 <p><strong>Pi力的爸爸</strong><br />
 </p></td>
@@ -67,6 +150,8 @@
 <td><center></td>
 <td><center>
 <p><a href="../Page/番茄姐姐.md" title="wikilink">番茄姐姐</a></p></td>
+<td><center>
+<p><a href="../Page/吳小藝.md" title="wikilink">吳小藝</a></p></td>
 <td><center>
 <p><strong>Pi力的媽媽</strong><br />
 </p></td>
@@ -78,6 +163,7 @@
 （）</p></td>
 <td><center>
 <p><a href="../Page/宋昱璁.md" title="wikilink">宋昱璁</a></p></td>
+<td><center></td>
 <td><center>
 <p><strong>摩露達達</strong><br />
 </p></td>
@@ -90,6 +176,7 @@
 <td><center>
 <p><a href="../Page/符爽.md" title="wikilink">符爽</a><br />
 <a href="../Page/王瑞芹.md" title="wikilink">王瑞芹</a>〈幼年〉</p></td>
+<td><center></td>
 <td><center>
 <p><strong>八尾</strong><br />
 </p></td>
@@ -98,7 +185,9 @@
 <tr class="odd">
 <td></td>
 <td><center></td>
+<td></td>
 <td><center>
+<center>
 <p><strong>卡絲莉</strong><br />
 </p></td>
 <td><p>試圖接近Pi力和野原一家的神秘女，都和另一名神秘男摩露達達一起行動。</p></td>
@@ -108,6 +197,7 @@
 <p><a href="https://zh.wikipedia.org/wiki/志田未来" title="wikilink">志田未来</a></p></td>
 <td><center>
 <p><a href="../Page/番茄姐姐.md" title="wikilink">番茄姐姐</a></p></td>
+<td><center></td>
 <td><center>
 <p><strong>志田未来</strong><br />
 </p></td>
@@ -128,12 +218,12 @@
 
 **片頭曲**「[100%傳達給你](https://zh.wikipedia.org/wiki/100%傳達給你/振袖和服 "wikilink")」（[unBORDE](../Page/日本華納音樂.md "wikilink")）
 
-  - <small>作詞、作曲、編曲：[中田康貴](../Page/中田康貴.md "wikilink")，主唱：[Kyary Pamyu
-    Pamyu](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")</small>
+  - 作詞、作曲、編曲：[中田康貴](../Page/中田康貴.md "wikilink")，主唱：[Kyary Pamyu
+    Pamyu](https://zh.wikipedia.org/wiki/Kyary_Pamyu_Pamyu "wikilink")
 
 **片尾曲**「」（unBORDE）
 
-  - <small>作詞、作曲、主唱：[高橋優](https://zh.wikipedia.org/wiki/高橋優 "wikilink")</small>
+  - 作詞、作曲、主唱：[高橋優](https://zh.wikipedia.org/wiki/高橋優 "wikilink")
 
 ## 藍光\&DVD
 

@@ -7,7 +7,7 @@
 
 ### 地圖
 
-遊戲中的地圖分為世界\[3\]、台灣（各國限定地圖均不同，有[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[4\]、[日本](../Page/日本.md "wikilink")、[中國](../Page/中國.md "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、西亞北非[波斯灣等版本](https://zh.wikipedia.org/wiki/波斯灣 "wikilink")）、樂園\[5\]、宇宙、探險\[6\]\[7\]、要塞\[8\]、夜市（此為臺版限定地圖，在其他版本中名為殭屍地圖）\[9\]、神之手\[10\]、魔法花園、極凍時代、玩具王國、水上都市、飛天法寶、追逐海岸、宇宙基地、雪橇山、計程車拉力賽、炸彈競技場共18個。
+遊戲中的地圖分為世界\[3\]、台灣（各國限定地圖均不同，有[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")\[4\]、[日本](../Page/日本.md "wikilink")、[中國](../Page/中國.md "wikilink")、[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")、[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、西亞北非[波斯灣等版本](https://zh.wikipedia.org/wiki/波斯灣 "wikilink")）、樂園\[5\]、宇宙、探險\[6\]\[7\]、要塞\[8\]、夜市（此為臺版限定地圖，在其他版本中名為殭屍地圖）\[9\]、神之手\[10\]、魔法花園、極凍時代、玩具王國、水上都市、飛天法寶、追逐海岸、宇宙基地、雪橇山、計程車拉力賽、炸彈競技場、升降遺跡共19個。
 
 泰印、臺、日版跟進韓國把「所屬國家地圖」改造成「Stop\&Go地圖」，該地圖和原本地圖沒什麼變化而是引進了「地契」玩法來增加遊戲規則。
 

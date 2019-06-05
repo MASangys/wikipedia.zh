@@ -465,7 +465,7 @@ struct NetworkManager : ErrorDisplayable{
 ## 外部链接
 
   - [MixIn](http://c2.com/cgi/wiki?MixIn) at Portland Pattern Repository
-  - [Mixins](http://www.macromedia.com/support/documentation/en/flex/1/mixin/index.html)
+  - [Mixins](https://web.archive.org/web/20050308114937/http://www.macromedia.com/support/documentation/en/flex/1/mixin/index.html)
     in [ActionScript](../Page/ActionScript.md "wikilink")
   - [The Common Lisp Object System: An
     Overview](http://www.dreamsongs.com/NewFiles/ECOOP.pdf) by [Richard

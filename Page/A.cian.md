@@ -349,7 +349,7 @@ PlotData =
 5.  [A.cian換公司回歸，MV公開](https://www.kpopn.com/2014/10/29/a-cian%E6%8F%9B%E5%85%AC%E5%8F%B8%E5%9B%9E%E6%AD%B8%EF%BC%8Cmv%E5%85%AC%E9%96%8B/)2013-10-31
 6.  [A.cian's leader LO-J revealed to have left the
     group](https://www.allkpop.com/article/2015/10/acians-leader-lo-j-revealed-to-have-left-the-group)2015-10-31
-7.  [A.cian 改為四人團體，三月回歸](http://kpopn.niusnews.com/=K0vgalg6)2016-03-17
+7.  [A.cian 改為四人團體，三月回歸](http://kpopn.niusnews.com/=K0vgalg6) 2016-03-17
 8.  [A.cian's Hyeokjin speaks on former member LO-J's departure +
     struggles the team
     faced](https://www.allkpop.com/article/2016/04/acians-hyeokjin-speaks-on-former-member-lo-js-departure-struggles-the-team-faced)2016-04-08

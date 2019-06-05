@@ -4,7 +4,7 @@
 
 赫奇在[艾奧瓦州](https://zh.wikipedia.org/wiki/艾奧瓦州 "wikilink")出生，於[艾奥瓦大学畢業](../Page/艾奥瓦大学.md "wikilink")，後來成為農民，[韓戰其間曾在](https://zh.wikipedia.org/wiki/韓戰 "wikilink")[美国陆军服役](../Page/美国陆军.md "wikilink")。退役後他曾擔任弗里蒙特學校董事會和馬哈斯卡縣學校董事會委員。
 
-1987年起，他以[共和黨黨籍當選為艾奥瓦州眾議院代表議員](../Page/共和黨_\(美國\).md "wikilink")，直到2001年不再參選\[1\]。2016年10月28日赫奇在[奥塔姆瓦逝世](https://zh.wikipedia.org/wiki/奥塔姆瓦 "wikilink")\[2\]。
+1987年起，他以[共和黨黨籍當選為艾奥瓦州眾議院代表議員](../Page/共和黨_\(美國\).md "wikilink")，直到2001年不再參選\[1\]。2016年10月28日赫奇在[奥塔姆瓦逝世](../Page/奥塔姆瓦.md "wikilink")\[2\]。
 
 ## 參考資料
 

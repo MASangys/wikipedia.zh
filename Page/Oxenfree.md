@@ -130,4 +130,5 @@ Gamer則給了這款遊戲](https://zh.wikipedia.org/wiki/PC_Gamer "wikilink")83
 
 20.
 
-21.  Skybound|website=www.skybound.com|access-date=2016-05-27}}
+21.
+    Skybound|website=www.skybound.com|access-date=2016-05-27|archive-url=[https://web.archive.org/web/20160516131659/http://www.skybound.com/oxenfree-is-out-this-friday-our-newest-partnership/|archive-date=2016-05-16|dead-url=yes](https://web.archive.org/web/20160516131659/http://www.skybound.com/oxenfree-is-out-this-friday-our-newest-partnership/%7Carchive-date=2016-05-16%7Cdead-url=yes)}}

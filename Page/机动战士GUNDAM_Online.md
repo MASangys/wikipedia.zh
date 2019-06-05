@@ -1,7 +1,7 @@
 是[BANDAI NAMCO
 Online开发的一款](https://zh.wikipedia.org/wiki/BANDAI_NAMCO_Online "wikilink")[大型多人在线第三人称射击游戏](https://zh.wikipedia.org/wiki/第三人称射击游戏#大型多人在线第三人称射击游戏 "wikilink")。
 
-在日本由[万代南梦宫娱乐运营](../Page/万代南梦宫娱乐.md "wikilink")。在中国由[久游网代理运营](../Page/久游网.md "wikilink")。台港澳以經在2019年2月4日結束營運。
+在日本由[万代南梦宫娱乐运营](../Page/万代南梦宫娱乐.md "wikilink")。在中国由[久游网代理运营](../Page/久游网.md "wikilink")。台港澳已經在2019年2月4日結束營運。
 
 ## 概述
 

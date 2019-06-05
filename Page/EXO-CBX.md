@@ -177,6 +177,29 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 </tbody>
 </table>
 
+### 數位單曲
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>單曲#</p></td>
+<td><p>單曲資料</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1st</strong></p></td>
+<td><p>《<strong>Paper Cuts</strong>》[28]</p>
+<ul>
+<li>發行日期：2019年4月12日</li>
+<li>語言：日語</li>
+</ul></td>
+<td><ol>
+<li>Paper Cuts</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
 ### OST
 
 |            |                                                         |                                                |                     |
@@ -236,7 +259,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
-<td><p>《'''EXO-CBX "MAGICAL CIRCUS" TOUR 2018 '''》[28]</p>
+<td><p>《'''EXO-CBX "MAGICAL CIRCUS" TOUR 2018 '''》[29]</p>
 <ul>
 <li>發行日期：2018年9月26日</li>
 <li>語言：韓語</li>
@@ -253,11 +276,11 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 |        |                           |                                                                    |                                                               |
 | ------ | ------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------- |
 | 年份     | 發佈日期                      | 歌曲名稱                                                               | 專輯                                                            |
-| 2016年  | 8月25日                     | For You\[29\]                                                      | 《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink") OST Part 1》 |
-| 10月31日 | Hey Mama\!\[30\]          | 《[Hey Mama\!](https://zh.wikipedia.org/wiki/Hey_Mama! "wikilink")》 |                                                               |
-| 11月7日  | The One\[31\]             |                                                                    |                                                               |
-| 12月26日 | Crush U\[32\]             | 《劍靈 Blade & Soul》                                                  |                                                               |
-| 2017年  | 5月1日                      | Ka-CHING\!\[33\]                                                   | 《[GIRLS](../Page/GIRLS_\(EXO-CBX迷你專輯\).md "wikilink")》        |
+| 2016年  | 8月25日                     | For You\[30\]                                                      | 《[月之戀人－步步驚心：麗](../Page/月之戀人－步步驚心：麗.md "wikilink") OST Part 1》 |
+| 10月31日 | Hey Mama\!\[31\]          | 《[Hey Mama\!](https://zh.wikipedia.org/wiki/Hey_Mama! "wikilink")》 |                                                               |
+| 11月7日  | The One\[32\]             |                                                                    |                                                               |
+| 12月26日 | Crush U\[33\]             | 《劍靈 Blade & Soul》                                                  |                                                               |
+| 2017年  | 5月1日                      | Ka-CHING\!\[34\]                                                   | 《[GIRLS](../Page/GIRLS_\(EXO-CBX迷你專輯\).md "wikilink")》        |
 | 7月29日  | It's Running Time\!       | 《[Running Man (動畫版)](../Page/Running_Man_\(動畫版\).md "wikilink")》   |                                                               |
 | 2018年  | 4月10日                     | 花요일 (Blooming Day)                                                 | 《Blooming Days》                                               |
 | 4月25日  | Horololo                  | 《Magic》                                                            |                                                               |
@@ -268,7 +291,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 |             |              |                                               |               |      |
 | ----------- | ------------ | --------------------------------------------- | ------------- | ---- |
 | 年份          | 播放日期         | 頻道                                            | 節目名稱          | 參與成員 |
-| 2018年       | 4月9日－4月15日   | NAVER V LIVE                                  | 月火水木CBX\[34\] | 全體   |
+| 2018年       | 4月9日－4月15日   | NAVER V LIVE                                  | 月火水木CBX\[35\] | 全體   |
 | 4月15日       | NAVER V LIVE | \!t Live Special : The 1st MUGI-BOX "EXO-CBX" |               |      |
 | 5月21日－7月13日 | oksusu、XtvN  | EXO的爬着梯子世界旅行-CBX日本篇                           |               |      |
 
@@ -278,18 +301,18 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 | ----------------- | ----------- | -- |
 | 期數                | 雜誌名稱        | 備注 |
 | 2017年6月刊 No.2055  | Anan        |    |
-| 2017年7月刊          | JELLY\[35\] |    |
-| Vivi\[36\]        |             |    |
-| Cancam\[37\]      |             |    |
-| Popteen           | 封面\[38\]    |    |
-| NYLON JAPAN\[39\] |             |    |
+| 2017年7月刊          | JELLY\[36\] |    |
+| Vivi\[37\]        |             |    |
+| Cancam\[38\]      |             |    |
+| Popteen           | 封面\[39\]    |    |
+| NYLON JAPAN\[40\] |             |    |
 
 ## 出版物
 
 |            |                            |      |
 | ---------- | -------------------------- | ---- |
 | 出版日期       | 名稱                         | 參與成員 |
-| 2018年7月17日 | SELFIE BOOK: EXO-CBX\[40\] | 全體   |
+| 2018年7月17日 | SELFIE BOOK: EXO-CBX\[41\] | 全體   |
 
 ## 廣告代言
 
@@ -305,7 +328,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 |            |                     |      |                                                                                        |
 | ---------- | ------------------- | ---- | -------------------------------------------------------------------------------------- |
 | 委任日期       | 活動名稱                | 參與成員 | 備注                                                                                     |
-| 2018年6月18日 | 韓國行政安全部安全宣傳大使\[41\] | 全體   | 與[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")（[少女時代](../Page/少女时代.md "wikilink")） |
+| 2018年6月18日 | 韓國行政安全部安全宣傳大使\[42\] | 全體   | 與[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")（[少女時代](../Page/少女时代.md "wikilink")） |
 
 ## 音樂現場
 
@@ -361,7 +384,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 | 2017年6月7日 | 關東站   | 代代木公園 |
 |           |       |       |
 
-  - EXO-CBX首次日本競技場巡演《Magical Circus》\[42\]\[43\]
+  - EXO-CBX首次日本競技場巡演《Magical Circus》\[43\]\[44\]
 
 |            |       |          |
 | ---------- | ----- | -------- |
@@ -375,7 +398,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 | 2018年6月7日  | 大阪站   | 大阪城展演廳   |
 | 2018年6月8日  |       |          |
 
-  - 《EXO-CBX “MAGICAL CIRCUS” 2019 –Special Edition》\[44\]
+  - 《EXO-CBX “MAGICAL CIRCUS” 2019 –Special Edition》\[45\]
 
 |            |       |                                          |
 | ---------- | ----- | ---------------------------------------- |
@@ -403,9 +426,9 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 | 8月5日   | SMTOWN SPECIAL STAGE in HONG KONG     | 香港體育館                                    |                                          |
 | 8月26日  | A-NATION 2017                         | 東京味之素體育場                                 |                                          |
 | 10月1日  | Korea Music Festival 2017             | 高尺天空巨蛋                                   |                                          |
-| 11月4日  | Dream Concert 夢想演唱會                   | 平昌冬季奧林匹克廣場\[45\]                         |                                          |
-| 2018   | 9月9日                                  | 2018 SPECTRUM Dance Music Festival\[46\] | [首爾綜合運動場](../Page/首爾綜合運動場.md "wikilink") |
-| 10月6日  | 2018江南 Festival K-Pop 演唱會\[47\]       | SM Town Media                            |                                          |
+| 11月4日  | Dream Concert 夢想演唱會                   | 平昌冬季奧林匹克廣場\[46\]                         |                                          |
+| 2018   | 9月9日                                  | 2018 SPECTRUM Dance Music Festival\[47\] | [首爾綜合運動場](../Page/首爾綜合運動場.md "wikilink") |
+| 10月6日  | 2018江南 Festival K-Pop 演唱會\[48\]       | SM Town Media                            |                                          |
 
 ## 粉絲見面會
 
@@ -461,7 +484,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/甜瓜音樂獎.md" title="wikilink">Melon Music Awards</a>[48]</p></td>
+<td><p><a href="../Page/甜瓜音樂獎.md" title="wikilink">Melon Music Awards</a>[49]</p></td>
 <td><p>舞蹈獎（男子部門）</p></td>
 <td><p>Blooming Day</p></td>
 <td></td>
@@ -490,7 +513,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎</a>[49]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金唱片獎" title="wikilink">金唱片獎</a>[50]</p></td>
 <td><p>唱片部門－本賞</p></td>
 <td><p><a href="../Page/Blooming_Days.md" title="wikilink">Blooming Days</a></p></td>
 <td></td>
@@ -503,7 +526,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Gaon_Chart_K-POP大獎.md" title="wikilink">Gaon Chart K-POP大獎</a>[50]</p></td>
+<td><p><a href="../Page/Gaon_Chart_K-POP大獎.md" title="wikilink">Gaon Chart K-POP大獎</a>[51]</p></td>
 <td><p>年度歌手賞-第二季專輯部門</p></td>
 <td></td>
 <td></td>
@@ -616,7 +639,7 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 
 1.
 
-2.  [伯賢、XIUMIN、CHEN 將組成子團！](http://kpopn.niusnews.com/=K0g3tf81)Kpopn
+2.  [伯賢、XIUMIN、CHEN 將組成子團！](http://kpopn.niusnews.com/=K0g3tf81) Kpopn
 
 3.  [EXO-CBX 將於10/31發行首張迷你專輯](http://kpopn.niusnews.com/=K19zyby6)Kpopn
 
@@ -688,9 +711,9 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 37.
 
 38.
+
 39.
 40.
-
 41.
 
 42.
@@ -710,3 +733,5 @@ EXO-L-JAPAN限定版（CD、DVD）</p></td>
 49.
 
 50.
+
+51.

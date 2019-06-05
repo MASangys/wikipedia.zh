@@ -19,7 +19,8 @@ K](../Page/姜永晛.md "wikilink")、[晙赫](https://zh.wikipedia.org/wiki/晙
 2015年7月，[JYP娛樂宣布度雲加入團體](../Page/JYP娛樂.md "wikilink")，並更改團名為[DAY6](../Page/DAY6.md "wikilink")，同年9月7日[DAY6正式出道](../Page/DAY6.md "wikilink")，同步公開首張迷你專輯《[The
 Day](../Page/The_Day_\(DAY6迷你專輯\).md "wikilink")》所有歌曲音源及主打歌〈Congratulations〉MV。2016年6月28日起Jae與[15&的](https://zh.wikipedia.org/wiki/15& "wikilink")[朴智敏](../Page/朴智敏.md "wikilink")、[U-KISS的Kevin共同主持英語節目](../Page/U-KISS.md "wikilink")《[After
 School
-Club](../Page/After_School_Club.md "wikilink")》\[8\]\[9\]。2017年起，為宣傳DAY6開始經營[YouTube頻道](../Page/YouTube.md "wikilink")。\[10\]2018年7月17日，因與DAY6成員一起舉辦DAY6'YOUTH'第一次世界巡迴演唱會，從ASC畢業下車，也會減少在YouTube活躍度。
+Club](../Page/After_School_Club.md "wikilink")》\[8\]\[9\]。2017年起，為宣傳DAY6開始經營[YouTube頻道](../Page/YouTube.md "wikilink")\[10\]
+─JaeSix。2018年7月17日，因與DAY6成員一起舉辦DAY6'YOUTH'第一次世界巡迴演唱會，從ASC畢業下車，並減少在YouTube活躍度。
 
 ## 作品
 

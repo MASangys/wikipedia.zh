@@ -6,7 +6,7 @@ The Soul**，（），現時藝名來自姓氏車（Car），名字正元和庭�
 2019年1月，於《[THE
 FAN](../Page/THE_FAN.md "wikilink")》為歌迷會取名作「定員超過（정원초과）」，定員與正元的韓文相同，有超過制定人數的含義。\[6\]
 
-2019年3月起，[THE FAN
+2019年3月，於[THE FAN獲得第一名](../Page/THE_FAN.md "wikilink")。[THE FAN
 TOP5參賽者開始一年限定活動](https://zh.wikipedia.org/wiki/THE_FAN_TOP5 "wikilink")，3月2日參加聯合演唱會。之後將分別推出2張個人專輯，並製作聯合專輯，由[FAVE娛樂相關的](https://zh.wikipedia.org/wiki/FAVE娛樂 "wikilink")[The
 Five文化產業專門會社負責經紀管理](https://zh.wikipedia.org/wiki/The_Five文化產業專門會社 "wikilink")。
 \[7\]
@@ -72,6 +72,9 @@ Five文化產業專門會社負責經紀管理](https://zh.wikipedia.org/wiki/Th
 
 **Car, the garden**
 
+  - [Car, the garden](https://cafe.naver.com/carthegarden)的Naver Cafe
+
+  -
   -
   -
   -

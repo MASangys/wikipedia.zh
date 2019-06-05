@@ -297,8 +297,7 @@ Phone 7.X上运行，属于单向兼容。\[1\]
 
 ### Windows Phone 8.1
 
-第二代 預裝[Windows Phone 8.1](../Page/Windows_Phone_8.1.md "wikilink")
-作業系統或更高。
+第二代 預裝[Windows Phone 8.1](../Page/Windows_Phone_8.1.md "wikilink") 作業系統。
 
   -
 

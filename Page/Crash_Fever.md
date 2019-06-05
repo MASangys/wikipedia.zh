@@ -245,6 +245,7 @@ Fever第一個海外版本，官方設有Facebook粉絲專頁、[Google+](../Pag
   - 3月15日：《[Re：從零開始的異世界生活](https://zh.wikipedia.org/wiki/Re：從零開始的異世界生活 "wikilink")》合作活動舉辦\[91\]
   - 4月4日：與《[Love Live\! Sunshine\!\!
     學園偶像電影\~彩虹彼端\~](../Page/Love_Live!_Sunshine!!_學園偶像電影~彩虹彼端~.md "wikilink")》合作活動開始\[92\]\[93\]
+  - 5月10日：《[工作細胞](../Page/工作細胞.md "wikilink")》合作活動舉辦
   - 5月25日：台港澳版三週年慶祝活動、線下會預定舉辦\[94\]
 
 ### 中國內地簡體版
@@ -275,7 +276,7 @@ Fever第一個海外版本，官方設有Facebook粉絲專頁、[Google+](../Pag
 
 <!-- end list -->
 
-  - 1月08日：15:00結束營運
+  - 1月8日：15:00結束營運
 
 ### 韓國版
 

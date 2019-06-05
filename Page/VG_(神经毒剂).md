@@ -2,4 +2,4 @@
 
 ## 参考文献
 
-[cat:神经毒剂](https://zh.wikipedia.org/wiki/cat:神经毒剂 "wikilink")
+[Category:神经毒剂](https://zh.wikipedia.org/wiki/Category:神经毒剂 "wikilink")

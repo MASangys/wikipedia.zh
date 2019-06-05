@@ -168,21 +168,21 @@ Pixel系列手机在美国高端智能手机市场上销量第三，在西欧高
 
 ## 笔记本电脑
 
-| 名稱                                      | Pixelbook                                                    |
-| --------------------------------------- | ------------------------------------------------------------ |
-| 製造商                                     | [Google](../Page/Google.md "wikilink")                       |
-| 发布日期                                    | 2017年10月5日                                                   |
-| 显示屏                                     | 12.3英寸                                                       |
-| [系统芯片](../Page/系统芯片.md "wikilink")（SoC） | Intel Core i5                                                |
-| 内存                                      | 8/16 GB LPDDR4 RAM                                           |
-| 容量                                      | 128/256/512 GB支援（NVME 固態硬碟）                                  |
-| 电池                                      | 41 Whr電池 45W充電器（5V / 3A，9V / 3A，15V / 3A，20V / 2.25A）        |
-| 相机                                      | 720p 攝像頭 (60fps)                                             |
-| 預裝[操作系统](../Page/操作系统.md "wikilink")    | Chrome OS                                                    |
-| 支持的最新操作系统                               | Chrome OS                                                    |
-| 接口                                      | 兩個USB-C充電, 3.5mm耳機插孔                                         |
-| 網站                                      | <https://store.google.com/us/product/google_pixelbook_specs> |
-|                                         |                                                              |
+| 名稱                                      | Pixelbook                                                             |
+| --------------------------------------- | --------------------------------------------------------------------- |
+| 製造商                                     | [Google](../Page/Google.md "wikilink")                                |
+| 发布日期                                    | 2017年10月5日                                                            |
+| 显示屏                                     | 12.3英寸                                                                |
+| [系统芯片](../Page/系统芯片.md "wikilink")（SoC） | Intel Core i5                                                         |
+| 内存                                      | 8/16 GB LPDDR4 RAM                                                    |
+| 容量                                      | 128/256/512 GB支援（NVME 固態硬碟）                                           |
+| 电池                                      | 41 Whr電池 45W充電器（5V / 3A，9V / 3A，15V / 3A，20V / 2.25A）                 |
+| 相机                                      | 720p 攝像頭 (60fps)                                                      |
+| 預裝[操作系统](../Page/操作系统.md "wikilink")    | Chrome OS                                                             |
+| 支持的最新操作系统                               | Chrome OS                                                             |
+| 接口                                      | 兩個[USB-C充電](https://zh.wikipedia.org/wiki/USB-C "wikilink")、3.5mm耳機插孔 |
+| 網站                                      | <https://store.google.com/us/product/google_pixelbook_specs>          |
+|                                         |                                                                       |
 
 ## 配件
 

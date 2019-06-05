@@ -133,14 +133,12 @@
   - [Solution to Rugby and
     Relativity](http://www.plus.maths.org/issue28/outerspace/solution.html)
 
-[Category:1952年出生](https://zh.wikipedia.org/wiki/Category:1952年出生 "wikilink")
 [Category:牛津大学麦格达伦学院校友](https://zh.wikipedia.org/wiki/Category:牛津大学麦格达伦学院校友 "wikilink")
 [Category:宇宙学家](https://zh.wikipedia.org/wiki/Category:宇宙学家 "wikilink")
+[Category:理论物理学家](https://zh.wikipedia.org/wiki/Category:理论物理学家 "wikilink")
 [Category:英格蘭物理學家](https://zh.wikipedia.org/wiki/Category:英格蘭物理學家 "wikilink")
 [Category:英國皇家學會院士](https://zh.wikipedia.org/wiki/Category:英國皇家學會院士 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 [Category:英國皇家天文學會金質獎章獲得者](https://zh.wikipedia.org/wiki/Category:英國皇家天文學會金質獎章獲得者 "wikilink")
-[Category:理论物理学家](https://zh.wikipedia.org/wiki/Category:理论物理学家 "wikilink")
 [Category:IOP狄拉克奖章获得者](https://zh.wikipedia.org/wiki/Category:IOP狄拉克奖章获得者 "wikilink")
 
 1.  [Page from University of Cambridge, Department of Applied

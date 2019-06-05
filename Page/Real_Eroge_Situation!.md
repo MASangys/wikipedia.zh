@@ -55,7 +55,9 @@ ANIMATION》是由[Seven製作的成人動畫](../Page/Animation_StudiO_Seven.md
 
 ## 評價
 
-《Real Eroge Situation\!》在Getchu.com舉辦的「美少女遊戲大賞2017」中獲得情色部門第3名。\[8\]
+《Real Eroge Situation\!》在Getchu.com舉辦的「美少女遊戲大賞2017」中獲得情色部門第3名。\[8\]《Real
+Eroge Situation\!
+H×3》獲得[萌系遊戲大賞](../Page/萌系遊戲大賞.md "wikilink")2018的色情系作品獎PINK。\[9\]
 
 ## 參考來源
 
@@ -78,3 +80,4 @@ ANIMATION》是由[Seven製作的成人動畫](../Page/Animation_StudiO_Seven.md
 6.
 7.
 8.
+9.

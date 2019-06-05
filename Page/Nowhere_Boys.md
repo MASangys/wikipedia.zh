@@ -102,7 +102,7 @@ of geniuses”的音樂國度\[3\]。
 <li>生死時速</li>
 <li>大不了一代</li>
 <li>致旅途中的我</li>
-<li>--</li>
+<li>掹藤</li>
 <li>Electronic Dreams</li>
 </ol></td>
 </tr>
@@ -133,6 +133,7 @@ of geniuses”的音樂國度\[3\]。
 |                                                                                                     |
 |                                                                                                     |
 | **2019年**                                                                                           |
+|                                                                                                     |
 |                                                                                                     |
 
 | **各台冠軍歌總數** |

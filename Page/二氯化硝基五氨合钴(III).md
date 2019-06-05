@@ -17,4 +17,5 @@
 ## 参考文献
 
 [Category:钴配合物](https://zh.wikipedia.org/wiki/Category:钴配合物 "wikilink")
+[Category:三价钴化合物](https://zh.wikipedia.org/wiki/Category:三价钴化合物 "wikilink")
 [Category:氨配合物](https://zh.wikipedia.org/wiki/Category:氨配合物 "wikilink")

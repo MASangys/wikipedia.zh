@@ -214,7 +214,7 @@
 </ul></td>
 <td><p>4</p></td>
 <td><ul>
-<li>韓國：41,691+<ref>《Fall in Lovelyz》韓國唱片銷量統計：</li>
+<li>韓國：41,691+<ref>《治癒》韓國唱片銷量統計：</li>
 <li></li>
 </ul>
 <p></ref></p></td>
@@ -228,11 +228,24 @@
 </ul></td>
 <td><p>-</p></td>
 <td><ul>
-<li>韓國：43,386+<ref>《Fall in Lovelyz》韓國唱片銷量統計：</li>
-<li><p></ref></p></li>
-</ul></td>
+<li>韓國：43,386+<ref>《SANCTUARY》韓國唱片銷量統計：</li>
+<li>{{cite web| url=<a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=12&amp;hitYear=2018&amp;termGbn=month%7Ctitle=（2018.12">http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=12&amp;hitYear=2018&amp;termGbn=month|title=（2018.12</a>）|publisher=South Korean Gaon Chart|language=Ko}</li>
+</ul>
+<p>}</ref></p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/ONCE_UPON_A_TIME_(專輯)" title="wikilink">ONCE UPON A TIME</a></p></td>
+<td><ul>
+<li>發行日期：2019年5月20日</li>
+<li>廠牌：Woollim娛樂</li>
+<li>格式：CD、數位音樂下載</li>
+</ul></td>
+<td><p>-</p></td>
+<td><ul>
+<li>韓國：—</li>
+</ul></td>
+</tr>
+<tr class="even">
 <td><p><small>"—" 表示該專輯/單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>

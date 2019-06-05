@@ -1,5 +1,5 @@
-'''EXOPLANET ＃4 - The EℓyXiOn -
-'''是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[EXO於](../Page/EXO.md "wikilink")2017年舉辦的第四次巡迴演唱會。EℓyXiOn來自「elysium」，有極樂世界之意。本次演唱會意指被選中的人才能夠去的樂園，將帶來融合音樂、表演、影片、舞台為一體的華麗表演。\[1\]
+**EXOPLANET \#4 - The EℓyXiOn
+-**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[EXO於](../Page/EXO.md "wikilink")2017年舉辦的第四次巡迴演唱會。EℓyXiOn來自「elysium」，有極樂世界之意。本次演唱會意指被選中的人才能夠去的樂園，將帶來融合音樂、表演、影片、舞台為一體的華麗表演。\[1\]
 
 ## 概述
 

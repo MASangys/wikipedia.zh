@@ -18,7 +18,7 @@
 [Category:2012年软件](https://zh.wikipedia.org/wiki/Category:2012年软件 "wikilink")
 [Category:Webkit衍生軟體](https://zh.wikipedia.org/wiki/Category:Webkit衍生軟體 "wikilink")
 [Category:開放原始碼](https://zh.wikipedia.org/wiki/Category:開放原始碼 "wikilink")
-[Category:自由网页浏览器](https://zh.wikipedia.org/wiki/Category:自由网页浏览器 "wikilink")
+[Category:基于Chromium的浏览器](https://zh.wikipedia.org/wiki/Category:基于Chromium的浏览器 "wikilink")
 
 1.  [LARDINOIS, FREDERIC. "Torch Browser Passes 10 Million Monthly
     Active Users, Adds Download Accelerator, Updates Torch Music

@@ -6,18 +6,18 @@ SHOW 、TEENTIME。 官方粉絲名為Youth。
 
 ## 成員資料
 
-| 成員列表                                 |
-| ------------------------------------ |
-| 藝名                                   |
-| 漢字                                   |
-| 天真                                   |
-| 恩洙                                   |
-| [國憲](../Page/金國憲.md "wikilink")\[2\] |
-| 準燮                                   |
-| 有彬                                   |
-| 漢瑟                                   |
-| 已離隊成員                                |
-| 泰彬                                   |
+| 成員列表                            |
+| ------------------------------- |
+| 藝名                              |
+| 漢字                              |
+| 天真                              |
+| 恩洙                              |
+| [國憲](../Page/金國憲.md "wikilink") |
+| 準燮                              |
+| 有彬                              |
+| 漢瑟                              |
+| 已離隊成員                           |
+| 泰彬                              |
 
 ## 音樂作品
 
@@ -36,7 +36,7 @@ SHOW 、TEENTIME。 官方粉絲名為Youth。
 <ul>
 <li>發行日期：2017年7月26日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>專輯銷量：2,704+ [3]</li>
+<li>專輯銷量：2,704+ [2]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -46,7 +46,7 @@ SHOW 、TEENTIME。 官方粉絲名為Youth。
 <ul>
 <li>發行日期：2018年7月10日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>專輯銷量：5,331[4]</li>
+<li>專輯銷量：5,331[3]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -55,32 +55,28 @@ SHOW 、TEENTIME。 官方粉絲名為Youth。
 
 ### 單曲專輯
 
-  - 出道前
-
 |    發表日期    | 成員 |        曲名         |               合作藝人               |
 | :--------: | :-: | :---------------: | :------------------------------: |
+|    出道前     |    |                   |                                  |
+|            |    |                   |                                  |
 | 2016年3月23日 | 有彬 | 淩晨的林蔭大道 (새벽 가로수길) | [白智榮](../Page/白智榮.md "wikilink") |
 | 2016年5月30日 | 有彬 | 骨子裡都是你 (뼛속까지 너야)  | [李旼赫](../Page/李旼赫.md "wikilink") |
 
 ### 原聲帶
 
-  - 出道前
-
 |     年份     |                              劇名                              | 演唱 |         曲名          |                            合作對象                            |
 | :--------: | :----------------------------------------------------------: | :-: | :-----------------: | :--------------------------------------------------------: |
+|    出道前     |                                                              |    |                     |                                                            |
 | 2015.05.13 |           [看見味道的少女](../Page/看見味道的少女.md "wikilink")           | 有彬 |    平凡的告別(흔한 이별)     |          [金娜英](../Page/金娜英_\(歌手\).md "wikilink")           |
 | 2016.04.15 | [Goodbye Mr. Black](../Page/Goodbye_Mr._Black.md "wikilink") | 有彬 |    也許這就是(아마도 이건)    |                                                            |
 | 2016.08.02 |             [打架吧鬼神](../Page/打架吧鬼神.md "wikilink")             | 有彬 |    偶然的事（우연한 일들）     | [金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink") |
 | 2016.11.03 |                            積極的體質                             | 有彬 |  The Common People  |                                                            |
 | 2017.02.18 |               [金科長](../Page/金科長.md "wikilink")               | 有彬 | 星光傾瀉的夜晚（별빛이 쏟아지는 밤） |                                                            |
 |    2017    |              [秘密森林](../Page/秘密森林.md "wikilink")              | 國憲 |   就像愛情（사랑할 것 처럼）    |                                                            |
-
-  - 出道後
-
-|     年份     |                     劇名                     | 演唱 |        曲名         | 合作對象 |
-| :--------: | :----------------------------------------: | :-: | :---------------: | :--: |
-| 2018.07.12 |  [金秘書為何那樣](../Page/金秘書為何那樣.md "wikilink")  | 有彬 |  第一次說的話（처음 하는 말）  |      |
-|    2018    | [Jugglers](../Page/Jugglers.md "wikilink") | 國憲 | 除你以外都不懂（너 밖에 모르고） |      |
+|    出道後     |                                                              |    |                     |                                                            |
+|            |                                                              |    |                     |                                                            |
+| 2018.07.12 |           [金秘書為何那樣](../Page/金秘書為何那樣.md "wikilink")           | 有彬 |   第一次說的話（처음 하는 말）   |                                                            |
+|    2018    |          [Jugglers](../Page/Jugglers.md "wikilink")          | 國憲 |  除你以外都不懂（너 밖에 모르고）  |                                                            |
 
 ### MIXTAPE
 
@@ -133,7 +129,15 @@ SHOW 、TEENTIME。 官方粉絲名為Youth。
 | 年份    | 電視臺                                | 劇名                                           | 參演成員 | 角色        | 性質   |
 | 2016年 | JTBC                               | [青春時代](../Page/青春時代_\(韓國電視劇\).md "wikilink") | 有彬   | 網友（客串）    | 第3集  |
 | 2018年 | [JTBC](../Page/JTBC.md "wikilink") | [我的ID是江南美人](../Page/我的ID是江南美人.md "wikilink") | 準燮   | 都炅錫（中學時期） |      |
-| 2018年 | MBN                                | [Rich Man](../Page/Rich_Man.md "wikilink")   | 太彬   | 李英才（客串）   | 第11集 |
+| 2018年 | MBN                                | [Rich Man](../Page/Rich_Man.md "wikilink")   | 泰彬   | 李英才（客串）   | 第11集 |
+
+### 專屬節目
+
+|       |       |                                      |         |     |
+| ----- | ----- | ------------------------------------ | ------- | --- |
+| 日期    | 電視臺   | 節目名稱                                 | 參與成員    | 備註  |
+| 2016年 | V app | MYTEEN Show                          | 全員      | 出道前 |
+| 2017年 | MBC   | Trainee Escape Project - MYTEEN GO\! | 全員（漢瑟外） | 出道前 |
 
 ### 綜藝節目
 
@@ -143,16 +147,8 @@ SHOW 、TEENTIME。 官方粉絲名為Youth。
 | 2014年                 | [MNET](../Page/Mnet媒體.md "wikilink") | [Super Star K6](../Page/SUPER_STAR_K.md "wikilink")                 | 有彬          | 出道前 |
 | 2017年4月11日－2017年6月27日 | K-STAR                               | [我是演員](../Page/我是演員.md "wikilink")                                  | 有彬          |     |
 | 2018年                 | [JTBC](../Page/JTBC.md "wikilink")   | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")         | 國憲、準燮、天真、恩洙 |     |
-| 2018年                 | [JTBC](../Page/JTBC.md "wikilink")   | [THE TEAM CHEF](../Page/The_Team_Chef.md "wikilink")                | 太彬          | 全季  |
+| 2018年                 | [JTBC](../Page/JTBC.md "wikilink")   | [THE TEAM CHEF](../Page/The_Team_Chef.md "wikilink")                | 泰彬          | 全季  |
 | 2019年                 | [MNET](../Page/Mnet媒體.md "wikilink") | [PRODUCEX101](https://zh.wikipedia.org/wiki/PRODUCEX101 "wikilink") | 國憲、有彬       |     |
-
-### 專屬綜藝節目
-
-|       |       |                                      |         |     |
-| ----- | ----- | ------------------------------------ | ------- | --- |
-| 日期    | 電視臺   | 節目名稱                                 | 參與成員    | 備註  |
-| 2016年 | V app | MYTEEN Show                          | 全員      | 出道前 |
-| 2017年 | MBC   | Trainee Escape Project - MYTEEN GO\! | 全員（漢瑟外） | 出道前 |
 
 ## 參考資料
 
@@ -166,40 +162,48 @@ SHOW 、TEENTIME。 官方粉絲名為Youth。
 
 ## 外部連結
 
-  - MusicWorks
-
-<!-- end list -->
-
-  -
-
-  -
-  -
-  -
-  -
-<!-- end list -->
-
-  - MyTeen
+  - MYTEEN
 
 <!-- end list -->
 
   -
   -
-  -
-  - [MYTEEN的youtube](https://www.youtube.com/channel/UCn-lpjIudxfCaWkPPC4Fang)
+  - [MYTEEN的Youtube頻道](https://www.youtube.com/channel/UCn-lpjIudxfCaWkPPC4Fang)
+
+  - [MYTEEN的VLive頻道](https://channels.vlive.tv/DD543B)
 
   - [MYTEEN的官咖](http://cafe.daum.net/officialmyteen)
 
   -
+
+<!-- end list -->
+
+  - MYTEEN成員
+
+<!-- end list -->
+
+  -
+<!-- end list -->
+
+  - MUSIC WORKS
+
+<!-- end list -->
+
   -
 
+  -
+  -
+  -
+  - [MUSIC WORKS的VLive頻道](https://channels.vlive.tv/F4A151)
+
+  -
 [Category:2017年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年成立的音樂團體 "wikilink")
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 [Category:2017年韓國建立](https://zh.wikipedia.org/wiki/Category:2017年韓國建立 "wikilink")
 
-1.  [1](https://entertain.naver.com/read?oid=311&aid=0000938312&cid=1073787)
+1.  [泰彬退團新聞報導](https://entertain.naver.com/read?oid=311&aid=0000938312&cid=1073787)
     2018-12-31
-2.  原藝名為時憲，F;UZZLE時期起改為本名
-3.  [2017年8月GAON專輯榜80位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=08&hitYear=2017&termGbn=month)
-4.  [2018年7月GAON專輯榜40位](http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2018&termGbn=month)
+2.  [2017年8月GAON專輯榜80位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=08&hitYear=2017&termGbn=month)
+3.  [2018年7月GAON專輯榜40位](http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=07&hitYear=2018&termGbn=month)

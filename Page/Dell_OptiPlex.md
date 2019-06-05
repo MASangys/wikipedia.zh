@@ -19,7 +19,8 @@ OptiPlex是将Opti（意为最佳的）和Plex（意为部件）组合成的单�
   - [Dell美国](http://www.dell.com/business/desktops/optiplex):OptiPlex桌面计算机打算用于中型和大型
     [企业](../Page/企业.md "wikilink")
   - [戴尔支持](http://support.dell.com) 更多的信息有关的规格。
-  - [戴尔驱动程序](https://delldrivers.net) 有关驱动程序的详细信息和软件。
+  - [戴尔驱动程序](https://web.archive.org/web/20180620234515/https://delldrivers.net/)
+    有关驱动程序的详细信息和软件。
 
 [Category:戴爾產品](https://zh.wikipedia.org/wiki/Category:戴爾產品 "wikilink")
 

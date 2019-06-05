@@ -5,7 +5,8 @@ Division。於2017年離開大陸冰球聯盟轉戰奧地利冰球聯賽。
 
 ## 外部連結
 
-  - [官方網站](http://www.medvescak.com/hrv/index.html)
+  - [官方網站](https://web.archive.org/web/20110128170225/http://www.medvescak.com/hrv/index.html)
+
   - [Official Video
     Portal](https://web.archive.org/web/20121119054302/http://www.medvescakizbliza.com/)
 
@@ -16,7 +17,9 @@ Division。於2017年離開大陸冰球聯盟轉戰奧地利冰球聯賽。
 
 <!-- end list -->
 
-  - [Official Website](http://www.medvescak.com/hrv/index.html)
+  - [Official
+    Website](https://web.archive.org/web/20110128170225/http://www.medvescak.com/hrv/index.html)
+
   - [Official Video
     Portal](https://web.archive.org/web/20121119054302/http://www.medvescakizbliza.com/)
 

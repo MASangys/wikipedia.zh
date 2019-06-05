@@ -305,7 +305,7 @@ __索引__
 
 4\. 「舒服得如同夏日午後的懶腰」Control T—《我憑什麼想念你》
 
-<http://www.hipsternook.com/2017/03/09/controlt/>
+<https://web.archive.org/web/20180228185613/http://www.hipsternook.com/2017/03/09/controlt/>
 
 5\. 韓國專訪
 

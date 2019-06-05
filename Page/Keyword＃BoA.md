@@ -1,5 +1,4 @@
-《*'
-Keyword＃BoA*'》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")的綜藝節目，由[寶兒主持](../Page/寶兒.md "wikilink")\[1\]\[2\]，節目以記錄偶像BoA的真實生活為主軸\[3\]\[4\]。
+《**Keyword\#BoA**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")的綜藝節目，由[寶兒主持](../Page/寶兒.md "wikilink")\[1\]\[2\]，節目以記錄偶像BoA的真實生活為主軸\[3\]\[4\]。
 
 ## 收視率
 

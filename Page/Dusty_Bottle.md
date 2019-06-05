@@ -20,6 +20,11 @@ Nusic](https://zh.wikipedia.org/wiki/Brave_Nusic "wikilink")。2018年推出四�
 | **派台歌曲成績** |
 | ---------- |
 | 大碟         |
+| **2018年**  |
+|            |
+|            |
+|            |
+|            |
 | **2019年**  |
 |            |
 
@@ -33,6 +38,7 @@ Nusic](https://zh.wikipedia.org/wiki/Brave_Nusic "wikilink")。2018年推出四�
 
 ## 音樂演出
 
+  - 2019年：GLUESTICK FEST
   - 2018年：Clockenflap \[1\]
   - 2018年：接地氣音樂節
   - 2018年: LKF Beer Music Fest

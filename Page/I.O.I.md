@@ -126,7 +126,7 @@ E\&M方面則回應：「現在確實正在討論重組I.O.I，但是現在還�
 <th><p>國籍</p></th>
 <th><p>經紀公司</p></th>
 <th><p>小分隊 </p></th>
-<th><p>現時所屬團體</p></th>
+<th><p>現時發展</p></th>
 </tr>
 </thead>
 <tbody>
@@ -137,9 +137,9 @@ E\&M方面則回應：「現在確實正在討論重組I.O.I，但是現在還�
 <td><p><br />
 <a href="../Page/忠清南道.md" title="wikilink">忠清南道</a><a href="../Page/牙山市.md" title="wikilink">牙山市</a></p></td>
 <td></td>
-<td><p><a href="../Page/Pledis娛樂.md" title="wikilink">Pledis娛樂</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PRISTIN" title="wikilink">PRISTIN</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/金請夏" title="wikilink">金請夏</a></p></td>
@@ -184,7 +184,7 @@ Joo Kyul-kyung</p></td>
 <td></td>
 <td><p><a href="../Page/Pledis娛樂.md" title="wikilink">Pledis娛樂</a></p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/PRISTIN" title="wikilink">PRISTIN</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/金素慧.md" title="wikilink">金素慧</a></p></td>
@@ -671,7 +671,7 @@ Whatta Man+너무너무너무</p></td>
 
 21. [I.O.I小分隊面世，俞璉靜「被回收」，經紀公司：需要更多練習](http://www.vlovekpop.com/20160613-ioi/)vlovekpop
 
-22. [I.O.I 子團預計在八月發表新曲](http://kpopn.niusnews.com/=K1omrvl0)
+22.
 
 23. [I.O.I小分隊的壓場感太強了！只是預告已令人驚歎！](http://www.vlovekpop.com/20160808-ioi/)
     vlovekpop

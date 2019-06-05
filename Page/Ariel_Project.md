@@ -170,6 +170,34 @@ Ariel Project
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>5</p></td>
+<td><p>恵比壽CreAto (日本)</p></td>
+<td><p>おやすみセカイ 〜新メンバーお披露目ライブ〜[14]</p></td>
+<td><p><strong><em>Seina首次以「おやすみセカイ」成員身分參與演出</em></strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>81moment 〜新メンバーお披露目ライブ〜</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>7</p></td>
+<td><p>Seina以第2名勝出SHOWROOM活動，獲得為日本商店「おたちゅう。秋葉原店」拍攝宣傳廣告機會；並從店方獲贈價值相等於3,000日元禮品</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>8</p></td>
+<td><p>渋谷WOMB LIVE (日本)</p></td>
+<td><p>ARISING WAVE[15]</p></td>
+<td><p><strong><em>おやすみセカイ首次選取《桜色メモリー》作為cover曲</em></strong></p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -204,12 +232,12 @@ Ariel Project
 <td><p>UCOL-004</p></td>
 <td><p>Billboard Japan 單曲銷量榜</p>
 <p>第100位</p>
-<p>(2018年3月第3星期)[14]</p></td>
+<p>(2018年3月第3星期)[16]</p></td>
 </tr>
 <tr class="even">
 <td><p>第7回アイドル楽曲大賞2018 インディーズ/地方アイドル楽曲部門</p>
-<p>第17位：桜色メモリー[15]</p>
-<p>第19位：天使かよ。[16]</p></td>
+<p>第17位：桜色メモリー[17]</p>
+<p>第19位：天使かよ。[18]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -225,7 +253,7 @@ Ariel Project
   - キラメク明日へ
   - アクエリアスの片思い
   - 恋のアミューズ
-  - エンジェルメッセージ\[17\]
+  - エンジェルメッセージ\[19\]
   - Dream on stage
 
 ## 媒體演出
@@ -263,21 +291,21 @@ Ariel Project
 
 #### KOBE COLLECTION 2017 AUTUMN & WINTER
 
-  - Show Report—Special：Aoi\[18\]
+  - Show Report—Special：Aoi\[20\]
 
 ### 訪問及報導
 
 #### 2015年
 
-  - 2015年11月28日：網媒JapHK《寵物聯盟代言人 「ARIEL PROJECT，美少女團體」》專訪\[19\]
+  - 2015年11月28日：網媒JapHK《寵物聯盟代言人 「ARIEL PROJECT，美少女團體」》專訪\[21\]
 
 #### 2016年
 
-  - 2016年2月5日：[MyRadio](../Page/MyRadio.md "wikilink")《瀛能無雙》直播專訪\[20\]
+  - 2016年2月5日：[MyRadio](../Page/MyRadio.md "wikilink")《瀛能無雙》直播專訪\[22\]
   - 2016年5月25日：日本女子偶像專題網站Tokyo Girls' Update《Made in Hong Kong: Ariel
-    Project 4th One-man Live Report》\[21\]
-  - 2016年8月8日：[蘋果日報娛樂版](../Page/蘋果日報_\(香港\).md "wikilink")《邊班港女咁巴閉？卡娃兒指數鍊贏㗎妹》（只刊登於網頁版）\[22\]
-  - 2016年8月12日：網媒JapHK《JapHK LIVE\! 突避節目》直播專訪\[23\]
+    Project 4th One-man Live Report》\[23\]
+  - 2016年8月8日：[蘋果日報娛樂版](../Page/蘋果日報_\(香港\).md "wikilink")《邊班港女咁巴閉？卡娃兒指數鍊贏㗎妹》（只刊登於網頁版）\[24\]
+  - 2016年8月12日：網媒JapHK《JapHK LIVE\! 突避節目》直播專訪\[25\]
 
 <!-- end list -->
 
@@ -287,85 +315,85 @@ Ariel Project
 
   - 2017年2月10日：雜誌Ani-wave 動漫狂熱 Vol.388《Ani-Girl：香港組合的新時代》（附送海報）
   - 2017年2月20日：[蘋果日報](../Page/蘋果日報_\(香港\).md "wikilink")—果籽【科技籽】《港版AKB夠貼地
-    哈日族應援》（同時刊登於網頁版及印刷版）\[24\]
+    哈日族應援》（同時刊登於網頁版及印刷版）\[26\]
   - 2017年3月10日：雜誌Ani-wave 動漫狂熱 Vol.390《@JAM x TALE in Hong Kong 2017特集》
   - 2017年3月26日：香港日系偶像專題網媒iDOL +1D 專訪Ariel Project出演IDOL
-    UNIVERSE\[25\]\[26\]
+    UNIVERSE\[27\]\[28\]
   - 2017年6月17日：台灣日系偶像專題網媒ATC Taiwan 專訪Ariel Project出演Angels' Fes. in
-    Hong Kong Vol.2\[27\]
+    Hong Kong Vol.2\[29\]
   - 2017年7月25日：台灣日系偶像專題網媒ATC Taiwan【新聞】《香港偶像團體Ariel
-    Project兩位新成員正式出道！》\[28\]
+    Project兩位新成員正式出道！》\[30\]
   - 2017年8月18日：台灣日系偶像專題網媒ATC Taiwan【新聞】《ArielProject參加@JAM EXPO 2017
-    決定！》\[29\]
-  - 2017年8月29日：台灣日系偶像專題網媒ATC Taiwan【新聞】《あおい獲得KOBE COLLECION的出演權！》\[30\]
-  - 2017年11月30日：台灣日本音樂情報網站迷迷音 專訪香港日系女子偶像組合Ariel Project\[31\]
-  - 2017年12月8日：[Fami通](../Page/Fami通.md "wikilink")（香港）《客樣相談》生放送\[32\]
+    決定！》\[31\]
+  - 2017年8月29日：台灣日系偶像專題網媒ATC Taiwan【新聞】《あおい獲得KOBE COLLECION的出演權！》\[32\]
+  - 2017年11月30日：台灣日本音樂情報網站迷迷音 專訪香港日系女子偶像組合Ariel Project\[33\]
+  - 2017年12月8日：[Fami通](../Page/Fami通.md "wikilink")（香港）《客樣相談》生放送\[34\]
   - 2017年12月18日：台灣日系偶像專題網媒ATC Taiwan【新聞】香港女子偶像團體アリエルプロジェクト (Ariel
-    Project) 二周年紀念公演\[33\]
+    Project) 二周年紀念公演\[35\]
 
 #### 2018年
 
   - 2018年1月29日：台灣日系偶像專題網媒ATC Taiwan【新聞】來自香港的偶像團體Ariel
-    Project（アリエルプロジェクト）遠征日本發行首張單曲『桜色メモリー』\[34\]
+    Project（アリエルプロジェクト）遠征日本發行首張單曲『桜色メモリー』\[36\]
   - 2018年1月30日：日本女藝人專題網站ACTRESS
-    PRESS《アリエルプロジェクト、待望の1stシングル「桜色メモリー」を3月3日に発売決定！》\[35\]
-  - 2018年2月24日：[ATV亞洲電視](../Page/亞洲電視數碼媒體.md "wikilink")（香港）《激活音樂—音樂講呢D》專訪\[36\]
-  - 2018年2月25日：[新城知訊台](https://zh.wikipedia.org/wiki/新城知訊台 "wikilink")（香港）《周末日常》專訪\[37\]
+    PRESS《アリエルプロジェクト、待望の1stシングル「桜色メモリー」を3月3日に発売決定！》\[37\]
+  - 2018年2月24日：[ATV亞洲電視](../Page/亞洲電視數碼媒體.md "wikilink")（香港）《激活音樂—音樂講呢D》專訪\[38\]
+  - 2018年2月25日：[新城知訊台](https://zh.wikipedia.org/wiki/新城知訊台 "wikilink")（香港）《周末日常》專訪\[39\]
   - 2018年3月7日：台灣日系偶像專題網媒ATC Taiwan【新聞】香港偶像Ariel Project新單曲紀念活動
-    首次擔任新星堂一日店長\[38\]
+    首次擔任新星堂一日店長\[40\]
   - 2018年3月16日：雜誌Ani-wave 動漫狂熱 Vol.416《@JAM x TALE in Hong Kong
     2018：Ariel Project專訪》
   - 2018年3月16日：台灣日系偶像專題網媒ATC Taiwan【新聞】港、日人氣偶像聯手進軍九龍灣國際展貿中心 「@JAM × TALE
-    in Hong Kong 2018」 (上篇)\[39\]
+    in Hong Kong 2018」 (上篇)\[41\]
   - 2018年3月27日：香港日本文化資訊網站日文化新聞《Ariel Project x CD
-    Warehouse在港舉辦首個CD發售活動》\[40\]
+    Warehouse在港舉辦首個CD發售活動》\[42\]
   - 2018年3月31日：香港日本文化資訊網站日文化新聞《アリエルプロジェクト採訪 (@JAM×TALE in Hong Kong
-    2018)》\[41\]
+    2018)》\[43\]
   - 2018年3月31日：[熱血時報](../Page/熱血時報.md "wikilink")《瀛能無雙》訪問吉川友、東京女子流、Ariel
     Project
-  - 2018年4月1日：香港日本文化資訊網站日文化新聞《大型舞台活動@JAM×TALE再臨香港 日本與香港偶像共同演出》\[42\]
-  - 2018年4月28日：印尼日系文化YouTube Channel主理人Stephen Wira訪問Ariel Project\[43\]
-  - 2018年5月14-18日：[商業電台](../Page/香港商業電台.md "wikilink")（香港）《一切從音樂開始》專訪\[44\]
+  - 2018年4月1日：香港日本文化資訊網站日文化新聞《大型舞台活動@JAM×TALE再臨香港 日本與香港偶像共同演出》\[44\]
+  - 2018年4月28日：印尼日系文化YouTube Channel主理人Stephen Wira訪問Ariel Project\[45\]
+  - 2018年5月14-18日：[商業電台](../Page/香港商業電台.md "wikilink")（香港）《一切從音樂開始》專訪\[46\]
   - 2018年7月31日：前[Babyraids
-    JAPAN成員林愛夏個人生放節目](../Page/Babyraids_Japan.md "wikilink")《林愛夏のうにょうにょルーム》\[45\]
-  - 2018年8月1日：日本娛樂及新聞網站AbemaTIMES《ベビレ解散の林愛夏、香港のアイドルグループに「マネージャーやらせてくれませんか？」》\[46\]
+    JAPAN成員林愛夏個人生放節目](../Page/Babyraids_Japan.md "wikilink")《林愛夏のうにょうにょルーム》\[47\]
+  - 2018年8月1日：日本娛樂及新聞網站AbemaTIMES《ベビレ解散の林愛夏、香港のアイドルグループに「マネージャーやらせてくれませんか？」》\[48\]
   - 2018年8月8日：台灣日系偶像專題網媒ATC Taiwan《「Tokyo Idol Festival 2018」活動回顧
-    場外偶像不畏烈日賣力宣傳》\[47\]
-  - 2018年8月17日：《@JAM EXPO 2018 Official Book Pilot Version》Seina專訪\[48\]
-  - 2018年10月15、17、19日：日本OTT視頻平台U-NEXT《ドルネクラウンジ》Nanami\[49\]、Yura\[50\]、Seina\[51\]專訪\[52\]
+    場外偶像不畏烈日賣力宣傳》\[49\]
+  - 2018年8月17日：《@JAM EXPO 2018 Official Book Pilot Version》Seina專訪\[50\]
+  - 2018年10月15、17、19日：日本OTT視頻平台U-NEXT《ドルネクラウンジ》Nanami\[51\]、Yura\[52\]、Seina\[53\]專訪\[54\]
   - 2018年12月22日：台灣日系偶像專題網媒ATC
-    Taiwan《香港女子偶像團體「アリエルプロジェクト」反攻日本築夢舉辦單獨演唱會》\[53\]
+    Taiwan《香港女子偶像團體「アリエルプロジェクト」反攻日本築夢舉辦單獨演唱會》\[55\]
   - 2018年12月27日：[香港01](../Page/香港01.md "wikilink")【港產日系女團】衝出香港！Ariel
-    Project六名少女日本東京開騷\[54\]
+    Project六名少女日本東京開騷\[56\]
 
 #### 2019年
 
   - 2019年3月7日：台灣日系偶像專題網媒ATC Taiwan《香港最大日本偶像音樂祭 粉絲瘋狂「@JAM x TALE in Hong
-    Kong 2019」》\[55\]
+    Kong 2019」》\[57\]
   - 2019年3月9日：香港綜藝及生活資訊網媒STARS HK《香港2偶像組合連同4日本人氣女子偶像團體襲港演出
-    望在港有更多活動機會》（附專訪片段）\[56\]
+    望在港有更多活動機會》（附專訪片段）\[58\]
   - 2019年3月10日：香港日本文化資訊網媒港日通信社 Hong Kong Japan News Agency專訪Ariel
-    Project\[57\]
+    Project\[59\]
 
 ### 其他
 
-  - 2016年5月：加拿大亞太商會「5116 亞省山林大火賑災大行動」宣傳片及MV\[58\]\[59\]
+  - 2016年5月：加拿大亞太商會「5116 亞省山林大火賑災大行動」宣傳片及MV\[60\]\[61\]
 
 <!-- end list -->
 
-  - 2016年7月25日：網媒JapHK《世界衛生組織確疹「扑Q芒膏症候群」》短片（Hinako出演）\[60\]
-  - 2017年1月28日：[蘋果日報](../Page/蘋果日報_\(香港\).md "wikilink")—果籽（網頁版）《恐怖新體驗　第一身VR實試Bio7+台製返校》（Hinako出演）\[61\]
+  - 2016年7月25日：網媒JapHK《世界衛生組織確疹「扑Q芒膏症候群」》短片（Hinako出演）\[62\]
+  - 2017年1月28日：[蘋果日報](../Page/蘋果日報_\(香港\).md "wikilink")—果籽（網頁版）《恐怖新體驗　第一身VR實試Bio7+台製返校》（Hinako出演）\[63\]
   - 2017年4月10日：Fami通（香港）日本殿堂 ACG 平台《Fami通》香港版啟動宣傳片（Hinako出演）
   - 2017年4月14日：Fami通（香港）日本女團恭祝《Fami通》香港版啟動宣傳片
-  - 2017年7月11日：Fami通（香港）Hong Kong Idol Festival 2017宣傳片\[62\]
-  - 2017年7月11日：Fami通（香港）新GAME試玩 —《4D打喪屍》（Hinako及Seina出演）\[63\]
-  - 2017年7月30日：香港動漫電玩節 2017—Fami通・PS4™《Tricky Towers》挑戰賽（Hinako出演）\[64\]
+  - 2017年7月11日：Fami通（香港）Hong Kong Idol Festival 2017宣傳片\[64\]
+  - 2017年7月11日：Fami通（香港）新GAME試玩 —《4D打喪屍》（Hinako及Seina出演）\[65\]
+  - 2017年7月30日：香港動漫電玩節 2017—Fami通・PS4™《Tricky Towers》挑戰賽（Hinako出演）\[66\]
   - 2017年9月23日：[電波組.inc專屬電視節目](../Page/電波組.inc.md "wikilink")—[電波之神神](../Page/電波之神神.md "wikilink")
-    （Nanami出演）\[65\]
+    （Nanami出演）\[67\]
   - 2018年3月27日：Fami通（香港）ACG活動—《荒野行動》正式授權 《Freeing Game-
-    城市任務》真人版「食雞」求生遊戲（Hinako及Yura出演）\[66\]
+    城市任務》真人版「食雞」求生遊戲（Hinako及Yura出演）\[68\]
   - 2018年8月31日：印尼日系文化YouTube Channel主理人Stephen Wira介紹及評價Ariel
-    Project首張Single\[67\]
+    Project首張Single\[69\]
 
 ## 外部連結
 
@@ -479,10 +507,10 @@ __索引__
 15.
 
 16.
+
 17.
 
 18.
-
 19.
 
 20.
@@ -556,12 +584,12 @@ __索引__
 54.
 
 55.
+
 56.
+
 57.
 58.
-
 59.
-
 60.
 
 61.
@@ -577,3 +605,7 @@ __索引__
 66.
 
 67.
+
+68.
+
+69.

@@ -1,6 +1,6 @@
 **toetoe
 偷偷**，是一個[臺灣的](../Page/臺灣.md "wikilink")[及時通訊](../Page/即時通訊.md "wikilink")[社交網站](https://zh.wikipedia.org/wiki/社交網站 "wikilink")[平台](../Page/系统平台.md "wikilink")。該網站由楊皓宇（Howie）成立於2013年；根據[PTT實業坊](https://zh.wikipedia.org/wiki/PTT實業坊 "wikilink")
-NTU版顯示以及作者本人表示，該作品原本應是當時[國立臺灣大學](../Page/國立臺灣大學.md "wikilink")「創業創意學程」藝術設計與行銷課程期末學生作品之一。\[1\]\[2\]
+NTU版顯示以及作者本人表示，該作品原本應是當時[國立臺灣大學](../Page/國立臺灣大學.md "wikilink")「創業創意學程」藝術設計與行銷課程期末學生作品之一。2018之後便再也沒有維修完成的一天，前期還希望人家贊助他們\[1\]\[2\]
 
 ## 概略
 

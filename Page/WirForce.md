@@ -63,7 +63,7 @@ WirForce \[waɪˈrfors\]
         & Final
         <u>大會成就獎項</u>\[9\]： 首殺 First Blood（最早到場的 BYOC 玩家）、情比金堅（上台還幫
         [Xargon](../Page/Xargon.md "wikilink")
-        宣傳訂閱特價，根本真愛）、您佈置係？（最特別的佈置玩家）等等
+        宣傳訂閱特價，根本真愛）、您佈置系？（最特別的佈置玩家）等等
 
 <!-- end list -->
 

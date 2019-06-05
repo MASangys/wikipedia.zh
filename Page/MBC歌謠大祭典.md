@@ -576,7 +576,7 @@ Moves Like Jagger（原唱：<a href="../Page/魔力紅.md" title="wikilink">魔
 
   - 總主持：[Clara](../Page/李成敏.md "wikilink")
 
-  - <font color=#1E90FF>藍隊</font>主持：[金成柱](https://zh.wikipedia.org/wiki/金成柱_\(主持人\) "wikilink")、[朴炯植](https://zh.wikipedia.org/wiki/朴炯植 "wikilink")
+  - <font color=#1E90FF>藍隊</font>主持：[金成柱](https://zh.wikipedia.org/wiki/金成柱_\(主持人\) "wikilink")、[朴炯植](../Page/朴炯植.md "wikilink")
 
   - 主持：[鄭埻夏](../Page/鄭埻夏.md "wikilink")、[盧弘喆](../Page/盧弘喆.md "wikilink")
 
@@ -2222,7 +2222,7 @@ DNA（原唱：<a href="../Page/防彈少年團.md" title="wikilink">防彈少�
 </tr>
 <tr class="even">
 <td><p>經典歌曲表演</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>（<a href="../Page/河成雲.md" title="wikilink">河成雲</a> × <a href="../Page/黃旼炫.md" title="wikilink">黃旼炫</a> × <a href="https://zh.wikipedia.org/wiki/金在奐" title="wikilink">金在奐</a> × <a href="../Page/朴佑鎮.md" title="wikilink">朴佑鎮</a> × <a href="https://zh.wikipedia.org/wiki/裴珍映" title="wikilink">裴珍映</a>）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>（<a href="../Page/河成雲.md" title="wikilink">河成雲</a> × <a href="../Page/黃旼炫.md" title="wikilink">黃旼炫</a> × <a href="../Page/金在奐.md" title="wikilink">金在奐</a> × <a href="../Page/朴佑鎮.md" title="wikilink">朴佑鎮</a> × <a href="https://zh.wikipedia.org/wiki/裴珍映" title="wikilink">裴珍映</a>）</p></td>
 <td><p>Rising Sun（原唱：<a href="../Page/東方神起.md" title="wikilink">東方神起</a>）[170]</p></td>
 </tr>
 <tr class="odd">

@@ -40,17 +40,12 @@ Key！大家好，我們是BLK。」 2018年9月18日宣布解散。
 <li>發行：2017年11月28日</li>
 <li>語言：韓語</li>
 </ul></td>
-<td><p>{{hidden|曲目|</p>
-<ol>
-<li>INTO BLK (INTRO)</li>
-<li><strong>HERO</strong></li>
-<li>SO HIGH</li>
-<li>Kiss Me Babe</li>
-<li>열두 시가 되면</li>
-</ol></td>
+<td></td>
 </tr>
 </tbody>
 </table>
+
+## 参考资料
 
 ## 外部連結
 

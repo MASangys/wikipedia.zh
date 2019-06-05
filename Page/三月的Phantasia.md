@@ -131,6 +131,13 @@ VVCL-1172/3</p></td>
 <td><p>KSCL-2858/9</p></td>
 <td><p>KSCL-2860</p></td>
 </tr>
+<tr class="odd">
+<td><p>2nd</p></td>
+<td><p>2019年3月13日</p></td>
+<td><p><strong></strong></p></td>
+<td><p>VVCL-1423/4</p></td>
+<td><p>VVCL-1425</p></td>
+</tr>
 </tbody>
 </table>
 

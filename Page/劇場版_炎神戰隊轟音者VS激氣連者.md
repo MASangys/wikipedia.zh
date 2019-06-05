@@ -113,8 +113,8 @@
     台配：[何志威](../Page/何志威.md "wikilink") </small>
     **臨獸[烏龜拳](https://zh.wikipedia.org/wiki/烏龜 "wikilink")·美加<small>｜**[宇垣秀成](../Page/宇垣秀成.md "wikilink")
     聲 / 台配：[李景唐](../Page/李景唐.md "wikilink") </small>
-    **幻獸[龍拳](https://zh.wikipedia.org/wiki/龍 "wikilink")·龍<small>｜**[川野直輝](https://zh.wikipedia.org/wiki/川野直輝 "wikilink")
-    飾 / 台配：[林士程](../Page/林士程.md "wikilink") </small>
+    **幻獸[龍拳](https://zh.wikipedia.org/wiki/龍 "wikilink")·龍<small>｜** 飾 /
+    台配：[林士程](../Page/林士程.md "wikilink") </small>
 
 ## 登場機體
 

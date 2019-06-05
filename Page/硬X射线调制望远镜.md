@@ -22,6 +22,7 @@
       - [暗物质粒子探测卫星](../Page/暗物质粒子探测卫星.md "wikilink")
       - [实践十号](https://zh.wikipedia.org/wiki/实践十号 "wikilink")
       - [量子科学实验卫星](../Page/量子科学实验卫星.md "wikilink")
+      - [引力波暴高能电磁对应体全天监测器](https://zh.wikipedia.org/wiki/引力波暴高能电磁对应体全天监测器 "wikilink")
 
 ## 参考资料
 

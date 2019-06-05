@@ -232,7 +232,7 @@ Genius](../Page/The_Genius.md "wikilink")》的導演[鄭中淵擔任導演](htt
 <td><p>藝人、演員、前女子組合<a href="../Page/Rainbow_(音樂團體).md" title="wikilink">Rainbow成員</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/學振" title="wikilink">鶴辰</a></p></td>
+<td><p><a href="../Page/鶴辰.md" title="wikilink">鶴辰</a></p></td>
 <td><p>학진</p></td>
 <td><p>演员、前排球運動員(10年經歷)</p></td>
 </tr>
@@ -267,9 +267,9 @@ Genius](../Page/The_Genius.md "wikilink")》的導演[鄭中淵擔任導演](htt
 <td><p>土耳其籍外籍記者、合氣道3段。</p></td>
 </tr>
 <tr class="even">
-<td><p>Yuri Park</p></td>
+<td><p>朴俞里</p></td>
 <td><p>유리</p></td>
-<td><p>模特，俄羅斯出身，現年24歲。</p></td>
+<td><p>模特，俄羅斯出身，現年24歲。 現為Esteem娛樂旗下藝人。</p></td>
 </tr>
 <tr class="odd">
 <td><p>金會吉</p></td>

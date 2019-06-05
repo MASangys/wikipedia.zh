@@ -1,6 +1,6 @@
 **Ferret
-50**是一枝由[美国槍械製造公司蜘蛛武器公司研製及生產的競爭射擊和遠距離狩獵用途單發](../Page/美国.md "wikilink")、、[手動枪机式大口徑重型](https://zh.wikipedia.org/wiki/手動槍機#旋轉後拉式槍機 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50
-BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")、、[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+50**是一枝由[美国槍械製造公司蜘蛛武器公司所研製及生產的競爭射擊和遠距離狩獵用途單發](../Page/美国.md "wikilink")、、[手動枪机式大口徑重型](https://zh.wikipedia.org/wiki/手動槍機#旋轉後拉式槍機 "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")（[反器材步槍](../Page/反器材步槍.md "wikilink")），發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50
+BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")、、[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 概述
 

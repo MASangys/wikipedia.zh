@@ -36,12 +36,13 @@ p.claimCommands = {
 
 p.generalCommands = {
 
-`   label      = "label",`
-`   title      = "title",`
-`   alias      = "alias",`
-`   aliases    = "aliases",`
-`   badge      = "badge",`
-`   badges     = "badges"`
+`   label       = "label",`
+`   title       = "title",`
+`   description = "description",`
+`   alias       = "alias",`
+`   aliases     = "aliases",`
+`   badge       = "badge",`
+`   badges      = "badges"`
 
 }
 
@@ -62,7 +63,6 @@ p.flags = {
 `   former        = "former",`
 `   edit          = "edit",`
 `   editAtEnd     = "edit@end",`
-`   mdy           = "mdy",`
 `   single        = "single",`
 `   sourced       = "sourced"`
 
@@ -100,7 +100,7 @@ local formats = {
 `   property              = "%p[%s][%r]",`
 `   qualifier             = "%q[%s][%r]",`
 `   reference             = "%r",`
-`   propertyWithQualifier = "%p[ `<span style=\"font-size:85%\">`(%q)`</span>`][%s][%r]",`
+`   propertyWithQualifier = "%p[ `<span style=\"font-size:85\\%\">`(%q)`</span>`][%s][%r]",`
 `   alias                 = "%a[%s]",`
 `   badge                 = "%b[%s]"`
 
@@ -120,10 +120,10 @@ local hookNames = { -- {level_1, level_2}
 \-- default value objects, should NOT be mutated but instead copied
 local defaultSeparators = {
 
-`   ["sep"]      = {" "},`
-`   ["sep%s"]    = {","},`
-`   ["sep%q"]    = {"; "},`
-`   ["sep%q\\d"] = {", "},`
+`   ["sep"]      = {""},`
+`   ["sep%s"]    = {"、"},`
+`   ["sep%q"]    = {"；"},`
+`   ["sep%q\\d"] = {"、"},`
 `   ["sep%r"]    = nil,  -- none`
 `   ["punc"]     = nil   -- none`
 
@@ -169,7 +169,6 @@ local Config = {} Config.__index = Config
 `   cfg.periods = {true, true, true}  -- future = true, current = true, former = true`
 `   cfg.flagPeriod = false`
 `   `
-`   cfg.mdyDate = false`
 `   cfg.singleClaim = false`
 `   cfg.sourcedOnly = false`
 `   cfg.editable = false`
@@ -718,7 +717,7 @@ function Config:getEditIcon()
 
 `   local value = ""`
 `   local prefix = ""`
-`   local front = " "`
+`   local front = ""`
 `   local back = ""`
 `   `
 `   if self.entityID:sub(1,1) == "P" then`
@@ -778,7 +777,7 @@ Config:concatValues(valuesArray)
 `           `
 `           if not skip then`
 `               -- add `<ref>` tag with the reference's hash as its name (to deduplicate references)`
-`               outString = outString .. mw.getCurrentFrame():extensionTag("ref", valuesArray[i][1], {name = "wikidata-" .. valuesArray[i].refHash .. "-v" .. i18n['cite']['version']})`
+`               outString = outString .. mw.getCurrentFrame():extensionTag("ref", valuesArray[i][1], {name = valuesArray[i].refHash})`
 `           end`
 `       else`
 `           outString = outString .. valuesArray[i][1]`
@@ -1079,14 +1078,10 @@ noSpecial)
 `                   dateStr = self.langObj:formatDate("F", "1-"..m.."-1")`
 `                   `
 `                   if d then`
-`                       if self.mdyDate then`
-`                           dateStr = dateStr .. " " .. d .. ","`
-`                       else`
-`                           dateStr = d .. " " .. dateStr`
-`                       end`
+`                       dateStr = dateStr .. d .. "日"`
 `                   end`
 `                   `
-`                   value = dateStr .. " " .. value`
+`                   value = value .. "年" .. dateStr`
 `               end`
 `               `
 `               value = prefix .. value .. suffix .. calendar`
@@ -1106,13 +1101,27 @@ noSpecial)
 `           `
 `           return value`
 `       elseif datatype == 'globecoordinate' then`
-`           -- logic from `<https://github.com/DataValues/Geo>
+`           -- logic from `<https://github.com/DataValues/Geo>` (v4.0.1)`
 `           `
-`           local precision, numDigits, strFormat, value, globe`
-`           local latValue, latitude, latDegrees, latMinutes, latSeconds`
-`           local lonValue, longitude, lonDegrees, lonMinutes, lonSeconds`
+`           local precision, unitsPerDegree, numDigits, strFormat, value, globe`
+`           local latitude, latConv, latValue, latLink`
+`           local longitude, lonConv, lonValue, lonLink`
 `           local latDirection, latDirectionN, latDirectionS, latDirectionEN`
 `           local lonDirection, lonDirectionE, lonDirectionW, lonDirectionEN`
+`           `
+`           local latDegrees = nil`
+`           local latMinutes = nil`
+`           local latSeconds = nil`
+`           local lonDegrees = nil`
+`           local lonMinutes = nil`
+`           local lonSeconds = nil`
+`           `
+`           local latDegSym = ""`
+`           local latMinSym = ""`
+`           local latSecSym = ""`
+`           local lonDegSym = ""`
+`           local lonMinSym = ""`
+`           local lonSecSym = ""`
 `           `
 `           local latDirectionEN_N = "N"`
 `           local latDirectionEN_S = "S"`
@@ -1164,61 +1173,101 @@ noSpecial)
 `           `
 `           precision = datavalue['precision']`
 `           `
-`           if not precision or precision == 0 then`
-`               precision = 1 / 3600  -- precision unspecified, set to arcsecond`
+`           if not precision or precision <= 0 then`
+`               precision = 1 / 3600  -- precision not set (correctly), set to arcsecond`
 `           end`
 `           `
+`           -- remove insignificant detail`
 `           latitude = math.floor(latitude / precision + 0.5) * precision`
 `           longitude = math.floor(longitude / precision + 0.5) * precision`
 `           `
-`           numDigits = math.ceil(-math.log10(3600 * precision))`
+`           if precision >= 1 - (1 / 60) and precision < 1 then`
+`               precision = 1`
+`           elseif precision >= (1 / 60) - (1 / 3600) and precision < (1 / 60) then`
+`               precision = 1 / 60`
+`           end`
 `           `
-`           if numDigits < 0 or numDigits == -0 then`
+`           if precision >= 1 then`
+`               unitsPerDegree = 1`
+`           elseif precision >= (1 / 60)  then`
+`               unitsPerDegree = 60`
+`           else`
+`               unitsPerDegree = 3600`
+`           end`
+`           `
+`           numDigits = math.ceil(-math.log10(unitsPerDegree * precision))`
+`           `
+`           if numDigits <= 0 then`
 `               numDigits = tonumber("0")  -- for some reason, 'numDigits = 0' may actually store '-0', so parse from string instead`
 `           end`
 `           `
 `           strFormat = "%." .. numDigits .. "f"`
 `           `
-`           -- use string.format() to strip decimal point followed by a zero (.0) for whole numbers`
-`           latSeconds = tonumber(strFormat:format(math.floor(latitude * 3600 * 10^numDigits + 0.5) / 10^numDigits))`
-`           lonSeconds = tonumber(strFormat:format(math.floor(longitude * 3600 * 10^numDigits + 0.5) / 10^numDigits))`
-`           `
-`           latMinutes = math.floor(latSeconds / 60)`
-`           lonMinutes = math.floor(lonSeconds / 60)`
-`           `
-`           latSeconds = latSeconds - (latMinutes * 60)`
-`           lonSeconds = lonSeconds - (lonMinutes * 60)`
-`           `
-`           latDegrees = math.floor(latMinutes / 60)`
-`           lonDegrees = math.floor(lonMinutes / 60)`
-`           `
-`           latMinutes = latMinutes - (latDegrees * 60)`
-`           lonMinutes = lonMinutes - (lonDegrees * 60)`
-`           `
-`           latValue = latDegrees .. degSymbol`
-`           lonValue = lonDegrees .. degSymbol`
-`           `
-`           if precision < 1 then`
-`               latValue = latValue .. latMinutes .. minSymbol`
-`               lonValue = lonValue .. lonMinutes .. minSymbol`
-`           end`
-`           `
-`           if precision < (1 / 60) then`
-`               latSeconds = strFormat:format(latSeconds)`
-`               lonSeconds = strFormat:format(lonSeconds)`
+`           if precision >= 1 then`
+`               latDegrees = strFormat:format(latitude)`
+`               lonDegrees = strFormat:format(longitude)`
 `               `
 `               if not raw then`
-`                   -- replace decimal marks based on locale`
-`                   latSeconds = replaceDecimalMark(latSeconds)`
-`                   lonSeconds = replaceDecimalMark(lonSeconds)`
+`                   latDegSym = replaceDecimalMark(latDegrees) .. degSymbol`
+`                   lonDegSym = replaceDecimalMark(lonDegrees) .. degSymbol`
+`               else`
+`                   latDegSym = latDegrees .. degSymbol`
+`                   lonDegSym = lonDegrees .. degSymbol`
+`               end`
+`           else`
+`               latConv = math.floor(latitude * unitsPerDegree * 10^numDigits + 0.5) / 10^numDigits`
+`               lonConv = math.floor(longitude * unitsPerDegree * 10^numDigits + 0.5) / 10^numDigits`
+`               `
+`               if precision >= (1 / 60) then`
+`                   latMinutes = latConv`
+`                   lonMinutes = lonConv`
+`               else`
+`                   latSeconds = latConv`
+`                   lonSeconds = lonConv`
+`                   `
+`                   latMinutes = math.floor(latSeconds / 60)`
+`                   lonMinutes = math.floor(lonSeconds / 60)`
+`                   `
+`                   latSeconds = strFormat:format(latSeconds - (latMinutes * 60))`
+`                   lonSeconds = strFormat:format(lonSeconds - (lonMinutes * 60))`
+`                   `
+`                   if not raw then`
+`                       latSecSym = replaceDecimalMark(latSeconds) .. secSymbol`
+`                       lonSecSym = replaceDecimalMark(lonSeconds) .. secSymbol`
+`                   else`
+`                       latSecSym = latSeconds .. secSymbol`
+`                       lonSecSym = lonSeconds .. secSymbol`
+`                   end`
 `               end`
 `               `
-`               latValue = latValue .. latSeconds .. secSymbol`
-`               lonValue = lonValue .. lonSeconds .. secSymbol`
+`               latDegrees = math.floor(latMinutes / 60)`
+`               lonDegrees = math.floor(lonMinutes / 60)`
+`               `
+`               latDegSym = latDegrees .. degSymbol`
+`               lonDegSym = lonDegrees .. degSymbol`
+`               `
+`               latMinutes = latMinutes - (latDegrees * 60)`
+`               lonMinutes = lonMinutes - (lonDegrees * 60)`
+`               `
+`               if precision >= (1 / 60) then`
+`                   latMinutes = strFormat:format(latMinutes)`
+`                   lonMinutes = strFormat:format(lonMinutes)`
+`                   `
+`                   if not raw then`
+`                       latMinSym = replaceDecimalMark(latMinutes) .. minSymbol`
+`                       lonMinSym = replaceDecimalMark(lonMinutes) .. minSymbol`
+`                   else`
+`                       latMinSym = latMinutes .. minSymbol`
+`                       lonMinSym = lonMinutes .. minSymbol`
+`                   end`
+`               else`
+`                   latMinSym = latMinutes .. minSymbol`
+`                   lonMinSym = lonMinutes .. minSymbol`
+`               end`
 `           end`
 `           `
-`           latValue = latValue .. latDirection`
-`           lonValue = lonValue .. lonDirection`
+`           latValue = latDegSym .. latMinSym .. latSecSym .. latDirection`
+`           lonValue = lonDegSym .. lonMinSym .. lonSecSym .. lonDirection`
 `           `
 `           value = latValue .. separator .. lonValue`
 `           `
@@ -1231,7 +1280,10 @@ noSpecial)
 `                   globe = "earth"`
 `               end`
 `               `
-`               value = "[`<https://tools.wmflabs.org/geohack/geohack.php?language=>`"..self.langCode.."&params="..latitude.."_"..latDirectionEN.."_"..longitude.."_"..lonDirectionEN.."_globe:"..globe.." "..value.."]"`
+`               latLink = table.concat({latDegrees, latMinutes, latSeconds}, "_")`
+`               lonLink = table.concat({lonDegrees, lonMinutes, lonSeconds}, "_")`
+`               `
+`               value = "[`<https://tools.wmflabs.org/geohack/geohack.php?language=>`"..self.langCode.."&params="..latLink.."_"..latDirectionEN.."_"..lonLink.."_"..lonDirectionEN.."_globe:"..globe.." "..value.."]"`
 `           end`
 `           `
 `           return value`
@@ -1465,8 +1517,6 @@ function Config:processFlag(flag)
 
 `   if not flag then`
 `       return false`
-`   else`
-`       flag = mw.text.trim(flag)`
 `   end`
 `   `
 `   if flag == p.flags.linked then`
@@ -1489,9 +1539,6 @@ function Config:processFlag(flag)
 `       return true`
 `   elseif flag == p.flags.unit then`
 `       self.curState.unitOnly = true`
-`       return true`
-`   elseif flag == p.flags.mdy then`
-`       self.mdyDate = true`
 `       return true`
 `   elseif flag == p.flags.single then`
 `       self.singleClaim = true`
@@ -1527,8 +1574,6 @@ function Config:processFlagOrCommand(flag)
 `   `
 `   if not flag then`
 `       return false`
-`   else`
-`       flag = mw.text.trim(flag)`
 `   end`
 `   `
 `   if flag == p.claimCommands.property or flag == p.claimCommands.properties then`
@@ -1803,10 +1848,27 @@ end
 `   local value = ""`
 `   local ref = {}`
 `   `
+`   local version = 1  -- increase this each time the below logic is changed to avoid conflict errors`
+`   `
 `   if statement.snaks then`
 `       -- don't include "imported from", which is added by a bot`
 `       if statement.snaks[p.aliasesP.importedFrom] then`
 `           statement.snaks[p.aliasesP.importedFrom] = nil`
+`       end`
+`       `
+`       -- don't include "inferred from", which is added by a bot`
+`       if statement.snaks[p.aliasesP.inferredFrom] then`
+`           statement.snaks[p.aliasesP.inferredFrom] = nil`
+`       end`
+`       `
+`       -- don't include "type of reference"`
+`       if statement.snaks[p.aliasesP.typeOfReference] then`
+`           statement.snaks[p.aliasesP.typeOfReference] = nil`
+`       end`
+`       `
+`       -- don't include "image" to prevent littering`
+`       if statement.snaks[p.aliasesP.image] then`
+`           statement.snaks[p.aliasesP.image] = nil`
 `       end`
 `       `
 `       -- don't include "language" if it is equal to the local one`
@@ -1945,7 +2007,7 @@ end
 `           `
 `           if not self.rawValue then`
 `               -- this should become a `<ref>` tag, so safe the reference's hash for later`
-`               value.refHash = statement.hash`
+`               value.refHash = "wikidata-" .. statement.hash .. "-v" .. (tonumber(i18n['cite']['version']) + version)`
 `           end`
 `           `
 `           ref = {value}  -- wrap the value object in an array`
@@ -2145,39 +2207,31 @@ collect values function State:iterate(statements, hooks, matchHook)
 
 end
 
-function extractEntityFromInput(id, allowOmitPropPrefix)
+function getEntityId(arg, allowOmitPropPrefix)
 
-`   if id:sub(1,1):upper() == "Q" then`
-`       return id:upper()  -- entity ID of an item was given`
-`   elseif id:sub(1,9):lower() == "property:" then`
-`       return replaceAlias(mw.text.trim(id:sub(10))):upper()  -- entity ID of a property was given`
-`   elseif allowOmitPropPrefix and id ~= "" then`
-`       return replaceAlias(id):upper()  -- could be an entity ID of a property without "Property:" prefix`
-`   else`
+`   if not arg then`
 `       return nil`
+`   elseif arg:sub(1,1):upper() == "Q" then`
+`       return arg:upper()  -- entity ID of an item was given`
+`   elseif arg:sub(1,9):lower() == "property:" then`
+`       return replaceAlias(mw.text.trim(arg:sub(10))):upper()  -- entity ID of a property was given`
+`   elseif allowOmitPropPrefix and arg ~= "" then`
+`       return replaceAlias(arg):upper()  -- could be an entity ID of a property without "Property:" prefix`
+`   else`
+`       return ""`
 `   end`
 
 end
 
-function extractEntityFromArgs(args, nextIndex, allowOmitPropPrefix)
+function nextArg(args)
 
-`   local id, eidArg`
+`   local arg = args[args.pointer]`
 `   `
-`   if args[nextIndex] then`
-`       args[nextIndex] = mw.text.trim(args[nextIndex])`
+`   if arg then`
+`       args.pointer = args.pointer + 1`
+`       return mw.text.trim(arg)`
 `   else`
-`       args[nextIndex] = ""`
-`   end`
-`   `
-`   id = extractEntityFromInput(args[nextIndex], allowOmitPropPrefix)`
-`   eidArg = args[p.args.eid]`
-`   `
-`   if id then`
-`       return id, nextIndex + 1`
-`   elseif eidArg then`
-`       return extractEntityFromInput(eidArg, true), nextIndex  -- if no positional id was found but eid was given, use eid without a default`
-`   else`
-`       return mw.wikibase.getEntityIdForCurrentPage(), nextIndex  -- by default, use item-entity connected to current page`
+`       return nil`
 `   end`
 
 end
@@ -2187,49 +2241,64 @@ function claimCommand(args, funcName)
 `   local _ = Config.new()`
 `   _:processFlagOrCommand(funcName)  -- process first command (== function name)`
 `   `
-`   local parsedFormat, formatParams, claims, value`
+`   local lastArg, parsedFormat, formatParams, claims, value`
 `   local hooks = {count = 0}`
 `   `
-`   local nextIndex = 1`
-`   `
 `   -- process flags and commands`
-`   while _:processFlagOrCommand(args[nextIndex]) do`
-`       nextIndex = nextIndex + 1`
-`   end`
+`   repeat`
+`       lastArg = nextArg(args)`
+`   until not _:processFlagOrCommand(lastArg)`
 `   `
-`   _.entityID, nextIndex = extractEntityFromArgs(args, nextIndex, false)`
+`   -- use the entity ID from the positional arguments if given`
+`   _.entityID = getEntityId(lastArg, false)`
 `   `
-`   -- if eid was explicitly set to empty, then this returns an empty string`
-`   if _.entityID == nil then`
-`       return ""`
+`   if not _.entityID or _.entityID == "" then`
+`       -- if no positional ID is given, use the eid argument if given`
+`       _.entityID = getEntityId(args[p.args.eid], true)`
+`       `
+`       if _.entityID == "" then`
+`           -- if eid was explicitly set to empty, then this returns an empty string`
+`           return ""`
+`       elseif not _.entityID then`
+`           -- by default, use the item-entity connected to the current page`
+`           _.entityID = mw.wikibase.getEntityIdForCurrentPage()`
+`       end`
+`   else`
+`       lastArg = nextArg(args)`
 `   end`
 `   `
 `   _.entity = mw.wikibase.getEntity(_.entityID)`
-`   _.propertyID = replaceAlias(args[nextIndex]):upper()`
-`   nextIndex = nextIndex + 1`
+`   _.propertyID = replaceAlias(lastArg)`
+`   `
+`   if not _.entity or not _.propertyID then`
+`       return ""  -- we cannot continue without an entity or a property ID`
+`   end`
+`   `
+`   _.propertyID = _.propertyID:upper()`
+`   `
+`   if not _.entity.claims or not _.entity.claims[_.propertyID] then`
+`       return ""  -- there is no use to continue without any claims`
+`   end`
+`   `
+`   claims = _.entity.claims[_.propertyID]`
 `   `
 `   if _.states.qualifiersCount > 0 then`
 `       -- do further processing if "qualifier(s)" command was given`
 `       `
-`       if #args - nextIndex + 1 > _.states.qualifiersCount then`
+`       if #args - args.pointer + 1 > _.states.qualifiersCount then`
 `           -- claim ID or literal value has been given`
 `           `
-`           _.propertyValue = mw.text.trim(args[nextIndex])`
-`           nextIndex = nextIndex + 1`
+`           _.propertyValue = nextArg(args)`
 `       end`
 `       `
 `       for i = 1, _.states.qualifiersCount do`
 `           -- check if given qualifier ID is an alias and add it`
-`           _.qualifierIDs[parameters.qualifier..i] = replaceAlias(mw.text.trim(args[nextIndex] or "")):upper()`
-`           nextIndex = nextIndex + 1`
+`           _.qualifierIDs[parameters.qualifier..i] = replaceAlias(nextArg(args) or ""):upper()`
 `       end`
 `   elseif _.states[parameters.reference] then`
 `       -- do further processing if "reference(s)" command was given`
 `       `
-`       if args[nextIndex] then`
-`           _.propertyValue = mw.text.trim(args[nextIndex])`
-`       end`
-`       -- not incrementing nextIndex because it is never used after this`
+`       _.propertyValue = nextArg(args)`
 `   end`
 `   `
 `   -- check for special property value 'somevalue' or 'novalue'`
@@ -2333,23 +2402,18 @@ function claimCommand(args, funcName)
 `       end`
 `   end`
 `   `
-`   if _.entity and _.entity.claims then claims = _.entity.claims[_.propertyID] end`
-`   if claims then`
-`       -- first sort the claims on rank to pre-define the order of output (preferred first, then normal, then deprecated)`
-`       claims = sortOnRank(claims)`
-`       `
-`       -- then iterate through the claims to collect values`
-`       value = _:concatValues(_.states[parameters.property]:iterate(claims, hooks, State.claimMatches))  -- pass property state with level 1 hooks and matchHook`
-`       `
-`       -- if desired, add a clickable icon that may be used to edit the returned values on Wikidata`
-`       if _.editable and value ~= "" then`
-`           value = value .. _:getEditIcon()`
-`       end`
-`       `
-`       return value`
-`   else`
-`       return ""`
+`   -- first sort the claims on rank to pre-define the order of output (preferred first, then normal, then deprecated)`
+`   claims = sortOnRank(claims)`
+`   `
+`   -- then iterate through the claims to collect values`
+`   value = _:concatValues(_.states[parameters.property]:iterate(claims, hooks, State.claimMatches))  -- pass property state with level 1 hooks and matchHook`
+`   `
+`   -- if desired, add a clickable icon that may be used to edit the returned values on Wikidata`
+`   if _.editable and value ~= "" then`
+`       value = value .. _:getEditIcon()`
 `   end`
+`   `
+`   return value`
 
 end
 
@@ -2358,18 +2422,27 @@ function generalCommand(args, funcName)
 `   local _ = Config.new()`
 `   _.curState = State.new(_)`
 `   `
+`   local lastArg`
 `   local value = nil`
-`   local nextIndex = 1`
 `   `
-`   while _:processFlag(args[nextIndex]) do`
-`       nextIndex = nextIndex + 1`
-`   end`
+`   repeat`
+`       lastArg = nextArg(args)`
+`   until not _:processFlag(lastArg)`
 `   `
-`   _.entityID, nextIndex = extractEntityFromArgs(args, nextIndex, true)`
+`   -- use the entity ID from the positional arguments if given`
+`   _.entityID = getEntityId(lastArg, true)`
 `   `
-`   -- if eid was explicitly set to empty, then this returns an empty string`
-`   if _.entityID == nil then`
-`       return ""`
+`   if not _.entityID or _.entityID == "" then`
+`       -- if no positional ID is given, use the eid argument if given`
+`       _.entityID = getEntityId(args[p.args.eid], true)`
+`       `
+`       if _.entityID == "" then`
+`           -- if eid was explicitly set to empty, then this returns an empty string`
+`           return ""`
+`       elseif not _.entityID then`
+`           -- by default, use the item-entity connected to the current page`
+`           _.entityID = mw.wikibase.getEntityIdForCurrentPage()`
+`       end`
 `   end`
 `   `
 `   -- serve according to the given command`
@@ -2385,6 +2458,12 @@ function generalCommand(args, funcName)
 `       if _.curState.linked and value then`
 `           value = buildWikilink(value)`
 `       end`
+`   elseif funcName == p.generalCommands.description then`
+`       _.entity = mw.wikibase.getEntity(_.entityID)`
+`       `
+`       if _.entity.descriptions[_.langCode] then`
+`           value = _.entity.descriptions[_.langCode].value`
+`       end`
 `   else`
 `       local parsedFormat, formatParams`
 `       local hooks = {count = 0}`
@@ -2395,8 +2474,16 @@ function generalCommand(args, funcName)
 `       `
 `       _.entity = mw.wikibase.getEntity(_.entityID)`
 `       `
+`       if not _.entity then`
+`           return ""  -- we cannot continue without an entity`
+`       end`
+`       `
 `       if funcName == p.generalCommands.alias or funcName == p.generalCommands.aliases then`
-`           local aliases`
+`           if not _.entity.aliases or not _.entity.aliases[_.langCode] then`
+`               return ""  -- there is no use to continue without any aliasses`
+`           end`
+`           `
+`           local aliases = _.entity.aliases[_.langCode]`
 `           `
 `           -- parse the desired format, or parse the default aliases format`
 `           if args["format"] then`
@@ -2419,14 +2506,16 @@ function generalCommand(args, funcName)
 `           -- set the parsed format and the separators (and optional punctuation mark)`
 `           _:setFormatAndSeparators(_.curState, parsedFormat)`
 `           `
-`           if _.entity and _.entity.aliases then aliases = _.entity.aliases[_.langCode] end`
-`           if aliases then`
-`               value = _:concatValues(_.curState:iterate(aliases, hooks))`
-`           end`
+`           -- iterate to collect values`
+`           value = _:concatValues(_.curState:iterate(aliases, hooks))`
 `       elseif funcName == p.generalCommands.badge or funcName == p.generalCommands.badges then`
-`           _.inSitelinks = true`
+`           if not _.entity.sitelinks or not _.entity.sitelinks[_.siteID] or not _.entity.sitelinks[_.siteID].badges then`
+`               return ""  -- there is no use to continue without any badges`
+`           end`
 `           `
-`           local badges`
+`           local badges = _.entity.sitelinks[_.siteID].badges`
+`           `
+`           _.inSitelinks = true`
 `           `
 `           -- parse the desired format, or parse the default aliases format`
 `           if args["format"] then`
@@ -2449,10 +2538,8 @@ function generalCommand(args, funcName)
 `           -- set the parsed format and the separators (and optional punctuation mark)`
 `           _:setFormatAndSeparators(_.curState, parsedFormat)`
 `           `
-`           if _.entity and _.entity.sitelinks and _.entity.sitelinks[_.siteID] then badges = _.entity.sitelinks[_.siteID].badges end`
-`           if badges then`
-`               value = _:concatValues(_.curState:iterate(badges, hooks))`
-`           end`
+`           -- iterate to collect values`
+`           value = _:concatValues(_.curState:iterate(badges, hooks))`
 `       end`
 `   end`
 `   `
@@ -2473,12 +2560,15 @@ establishCommands(commandList, commandFunc)
 
 `   for commandIndex, commandName in pairs(commandList) do`
 `       local function wikitextWrapper(frame)`
+`           local args = copyTable(frame.args)`
+`           args.pointer = 1`
 `           loadSubmodules(frame)`
-`           return commandFunc(copyTable(frame.args), commandName)`
+`           return commandFunc(args, commandName)`
 `       end`
 `       p[commandName] = wikitextWrapper`
 `       `
 `       local function luaWrapper(args)`
+`           args.pointer = 1`
 `           loadSubmodules()`
 `           return commandFunc(args, commandName)`
 `       end`

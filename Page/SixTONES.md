@@ -1,4 +1,4 @@
-**SixTONES**是由[傑尼斯事務所的](../Page/傑尼斯事務所.md "wikilink")[小傑尼斯](../Page/小傑尼斯.md "wikilink")──[傑西](../Page/傑西.md "wikilink")、[松村北斗](../Page/松村北斗.md "wikilink")、[森本慎太郎](../Page/森本慎太郎.md "wikilink")、[京本大我](../Page/京本大我.md "wikilink")、[田中樹及](../Page/田中樹.md "wikilink")[高地優吾六人組成](../Page/高地優吾.md "wikilink")。
+**SixTONES**是由[傑尼斯事務所的](../Page/傑尼斯事務所.md "wikilink")[小傑尼斯](../Page/小傑尼斯.md "wikilink")──[傑西](../Page/傑西.md "wikilink")、[松村北斗](../Page/松村北斗.md "wikilink")、[森本慎太郎](../Page/森本慎太郎.md "wikilink")、[京本大我](../Page/京本大我.md "wikilink")、[田中樹及](../Page/田中樹.md "wikilink")[高地優吾所組成的團體](../Page/高地優吾.md "wikilink")，念作「STONES」。
 
 SixTONES的意思是解作六個不同的音階，代表著六人每人也有各自屬於自己的音調。
 
@@ -39,8 +39,11 @@ SixTONES負責主持官方YouTube頻道『[小傑尼斯頻道](https://zh.wikipe
 同年10月29日，在東京JR線的品川站内揭載了六人的海報「ジャニーズをデジタルに放つ新世代。」 並宣布參與世界各地展開的「YouTube
 Artist Promotion」活動，成為日本第一組參與這個活動的藝人。 11月5日在YouTube頻道上公開為了該活動拍攝的Music
 Video \< JAPONICA STYLE \>，該MV由[瀧澤秀明執導](../Page/瀧澤秀明.md "wikilink")。
+12月11日參加在幕張展覽館舉行的「YouTube FanFest Music」
 
 ## 原創歌曲
+
+以[JASRAC上顯示ARTIST](https://zh.wikipedia.org/wiki/JASRAC "wikilink")「SixTONES」為主。
 
 ### 2015年
 
@@ -145,6 +148,15 @@ Video \< JAPONICA STYLE \>，該MV由[瀧澤秀明執導](../Page/瀧澤秀明.m
   -
     作詞：Mr. ズドン、作曲：Mr. ズドン
 
+<!-- end list -->
+
+  - Rollin' <JASRAC作品245-0836-5>
+
+<!-- end list -->
+
+  -
+    作詞：Yocke、作曲：Yocke
+
 ## 演出
 
 （單獨演出作品請參照個人頁面）
@@ -159,17 +171,17 @@ Video \< JAPONICA STYLE \>，該MV由[瀧澤秀明執導](../Page/瀧澤秀明.m
   - Johnny's 銀座2015（2015年5月1日・3日・4日、Theatre Creation）\[5\]
   - Johnny's 銀座2016（2016年5月27日 - 5月31日、Theatre Creation）
   - Summer Stage Johnny's King （2016年8月17日 - 25日、EX六本木劇場）
-  - Johnny's Jr.祭り（2017年3月24日 - 26日、横浜體育館 / 4月8日・9日、埼玉超级競技場 /
+  - Johnny's Jr.祭り（2017年3月24日 - 26日、橫濱體育館 / 4月8日 - 9日、埼玉超级競技場 /
     5月3日、大阪城Hall
-  - Summer Stage 〜你们是〜KING'S TREASURE（2017年8月1日 - 3日〔單獨公演〕、8月11日 -
+  - Summer Stage 〜你們是〜KING'S TREASURE（2017年8月1日 - 3日〔單獨公演〕、8月11日 -
     13日〔和[Snow
     Man合同公演](../Page/Snow_Man.md "wikilink")〕、EX六本木劇場）\[51\]
-  - 御台場 踊り場 土日の遊び場（2017年12月9日・10日、東京・御台場特設会場 富士電視台港灣棚）
+  - 御台場 踊り場 土日の遊び場（2017年12月9日 - 10日、東京・御台場特設会場 富士電視台港灣棚）
   - Johnny's Jr.祭り 2018（2018年2月23日 - 25日、大阪城Hall /
-    3月24日・27日〔合同公演〕・26日〔單獨公演〕、横浜體育館）
-  - Summer Paradise 2018（2018年7月28日 - 8月4日、28日、29日、東京ドームシティホール)
-  - SixTONES CHANGE the ERA 201ix（2019年3月21－23日橫濱體育館 / 4月20日宮城 /
-    5月1-2日大阪城Hall）
+    3月24日・27日〔合同公演〕・26日〔單獨公演〕、橫濱體育館）
+  - Summer Paradise 2018（2018年7月28日 - 8月4日、28日、29日、TOKYO DOME CITY HALL)
+  - CHANGE the ERA -201ix-（2019年3月21 - 23日橫濱體育館 / 4月20日宮城·Sekisui Heim
+    Super Arena〔追加公演〕 / 5月1 - 2日大阪城Hall）
 
 ### 舞台劇
 
@@ -185,15 +197,20 @@ Video \< JAPONICA STYLE \>，該MV由[瀧澤秀明執導](../Page/瀧澤秀明.m
 
 ### 綜藝節目
 
-  - Johnny's Jr.dex（2017年10月21日 -、Fuji Tv）
+  - Johnny's Jr.dex（2017年10月21日 - 2018年3月3日、Fuji Tv）
 
 ### 活動
 
   - [傑尼斯大運動会](https://zh.wikipedia.org/wiki/傑尼斯大運動会 "wikilink")（2017年4月16日、東京巨蛋）
+  - [YouTube
+    FanFest](https://zh.wikipedia.org/wiki/YouTube_FanFest "wikilink")
+    Music（2018年12月11日、幕張展覽館）
+  - KANSAI COLLECTION 2019 SPRING／SUMMER（2019年3月17日、京瓷巨蛋大阪） - Secret
+    Guest
 
 ### 電影
 
-  - 少年們（2019年3月29日-）
+  - 少年們（2019年3月29日上映）
 
 <!-- end list -->
 

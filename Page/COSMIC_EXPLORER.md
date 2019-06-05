@@ -20,6 +20,7 @@ J](https://zh.wikipedia.org/wiki/環球唱片#日本環球音樂 "wikilink")。
 <!-- end list -->
 
   - 2016年3月16日，收錄在專輯初回限定盤CD的歌曲「FLASH」作為單曲在線上發售。
+  - 2016年，《COSMIC EXPLORER》的中国大陆引进版《宇宙探险家》发行，这是Perfume的首张大陆引进专辑\[2\]。
 
 ## 收錄曲
 
@@ -64,3 +65,4 @@ J](https://zh.wikipedia.org/wiki/環球唱片#日本環球音樂 "wikilink")。
 
 1.  [NEW ALBUM「COSMIC EXPLORER」2016/04/06 (水)
     Release\!\!](http://www.perfume-web.jp/news/individual.php?id=407)
+2.

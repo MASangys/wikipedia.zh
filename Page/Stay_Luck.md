@@ -12,6 +12,7 @@ Entertainment中獨立](../Page/Across_Entertainment.md "wikilink")。除了聲�
   - 左座翔丸
   - 橋本祐樹
   - [村井雄治](../Page/村井雄治.md "wikilink")
+  - [澤城千春](../Page/澤城千春.md "wikilink")
 
 ### 女性
 

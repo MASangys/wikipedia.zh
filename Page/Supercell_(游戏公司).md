@@ -119,7 +119,7 @@ Supercell 停止使用疑似侵權的十幾項專利技術，Supercell將涉及�
 [Category:2010年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2010年開業電子遊戲公司 "wikilink")
 [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 [Category:芬蘭電子遊戲公司](https://zh.wikipedia.org/wiki/Category:芬蘭電子遊戲公司 "wikilink")
-[Category:SoftBank](https://zh.wikipedia.org/wiki/Category:SoftBank "wikilink")
+[Category:软银集团](https://zh.wikipedia.org/wiki/Category:软银集团 "wikilink")
 [Category:腾讯游戏](https://zh.wikipedia.org/wiki/Category:腾讯游戏 "wikilink")
 [Category:芬兰品牌](https://zh.wikipedia.org/wiki/Category:芬兰品牌 "wikilink")
 

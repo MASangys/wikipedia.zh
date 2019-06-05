@@ -197,6 +197,17 @@ NU'EST音樂作品列表主要列舉韓國男子音樂組合[NU'EST及其子團�
 <td><p>—</p></td>
 </tr>
 <tr class="even">
+<td><p><strong>6th</strong></p></td>
+<td><p>第六張迷你專輯《<strong><a href="../Page/Happily_Ever_After.md" title="wikilink">Happily Ever After</a></strong>》</p>
+<ul>
+<li>發行日期：2019年4月29日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td><p>1</p></td>
+<td><p>6</p></td>
+<td><p>—</p></td>
+</tr>
+<tr class="odd">
 <td><p>"—" 表示該專輯未有在榜上排名或未有資料或沒有在當地發行</p></td>
 <td></td>
 <td></td>
@@ -524,7 +535,7 @@ NU'EST音樂作品列表主要列舉韓國男子音樂組合[NU'EST及其子團�
 <li>語言：韓語</li>
 </ul></td>
 <td><ol>
-<li>風兒啊請停下（바람아 멈추어다오）（原唱: )</li>
+<li>風兒啊請停下（바람아 멈추어다오）（原唱:<a href="https://zh.wikipedia.org/wiki/李芝娟" title="wikilink">李芝娟</a> )</li>
 </ol></td>
 </tr>
 <tr class="odd">

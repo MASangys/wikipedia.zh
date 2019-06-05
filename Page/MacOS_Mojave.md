@@ -26,8 +26,8 @@ API顯示卡的[Mac Pro例外](../Page/Mac_Pro.md "wikilink")\[2\]：
 
 #### APFS 檔案系統
 
-[蘋果檔案系統](https://zh.wikipedia.org/wiki/蘋果檔案系統 "wikilink")（[APFS](https://zh.wikipedia.org/wiki/APFS "wikilink")）
-正式支援硬碟及[Fusion Drive](../Page/Fusion_Drive.md "wikilink")。
+[苹果文件系统](../Page/苹果文件系统.md "wikilink")（APFS）正式支援硬碟及[Fusion
+Drive](../Page/Fusion_Drive.md "wikilink")。
 
 #### Metal
 
@@ -46,7 +46,7 @@ API顯示卡的[Mac Pro例外](../Page/Mac_Pro.md "wikilink")\[2\]：
 在[macOS High
 Sierra](https://zh.wikipedia.org/wiki/macOS_High_Sierra "wikilink")
 中，只會在首次打开[32位元應用程式時提示用戶](https://zh.wikipedia.org/wiki/32位元應用程式 "wikilink")；而在macOS
-Mojave中，會在每次打开32位元應用程式時提示用戶，因為这次更新將是最後一次支援32位元应用程序的macOS。
+Mojave中，會在每次打开32位元應用程式時提示用戶，因為这是最後一代支援32位元应用程序的macOS。
 
 ### 新增功能
 

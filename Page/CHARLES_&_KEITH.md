@@ -1,8 +1,7 @@
-**小CK**（）是由兄弟檔 [Charles
+**CHARLES & KEITH**（）是由兄弟檔 [Charles
 Wong和](https://zh.wikipedia.org/wiki/Charles_Wong "wikilink")[Keith
 Wong](https://zh.wikipedia.org/wiki/Keith_Wong "wikilink")
-於[1996年在](../Page/1996年.md "wikilink")[新加坡創立](../Page/新加坡.md "wikilink")。該品牌的產品包含鞋履、包袋、皮帶、太陽眼鏡、手環等各類時尚配飾。截止至2014年，該集團旗下已經在全球36個國家的各大城市的黃金商圈設立了450家門店。[2017年](../Page/2017年.md "wikilink")[4月27日於](../Page/4月27日.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[微風廣場首家專賣店](../Page/微風廣場.md "wikilink")。\[1\]
-\[2\]
+於[1996年在](../Page/1996年.md "wikilink")[新加坡創立](../Page/新加坡.md "wikilink")。該品牌的產品包含鞋履、包袋、皮帶、太陽眼鏡、手環等各類時尚配飾。截止至2014年，該集團旗下已經在全球36個國家的各大城市的黃金商圈設立了450家門店。
 
 ## 品牌簡介
 
@@ -55,7 +54,3 @@ Keith原有的時尚風格和概念，以優質材料，襯托女性溫婉高壓
 [Category:服裝品牌](https://zh.wikipedia.org/wiki/Category:服裝品牌 "wikilink")
 [Category:1996年成立的公司](https://zh.wikipedia.org/wiki/Category:1996年成立的公司 "wikilink")
 [Category:新加坡品牌](https://zh.wikipedia.org/wiki/Category:新加坡品牌 "wikilink")
-
-1.  [CHARLES ＆ KEITH來了
-    粉絲摩拳擦掌](http://www.chinatimes.com/newspapers/20170424000518-260113)
-2.  [終於等到！新加坡夯牌Charles\&Keith登台　2千元買美包](http://fashion.ettoday.net/news/906726)

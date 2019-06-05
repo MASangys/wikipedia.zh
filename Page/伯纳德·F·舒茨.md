@@ -15,10 +15,8 @@
 
   - [阿尔伯特·爱因斯坦研究所天体物理学小组](https://web.archive.org/web/20090514100603/http://www.aei.mpg.de/english/research/teams/astrophysicalRelativity/index.html)
 
-[Category:1946年出生](https://zh.wikipedia.org/wiki/Category:1946年出生 "wikilink")
 [Category:美国物理学家](https://zh.wikipedia.org/wiki/Category:美国物理学家 "wikilink")
 [Category:加州理工學院校友](https://zh.wikipedia.org/wiki/Category:加州理工學院校友 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 [Category:马克斯·普朗克学会人物](https://zh.wikipedia.org/wiki/Category:马克斯·普朗克学会人物 "wikilink")
 [Category:相對論研究者](https://zh.wikipedia.org/wiki/Category:相對論研究者 "wikilink")
 

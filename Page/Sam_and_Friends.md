@@ -4,6 +4,10 @@
 
 ## 曲目
 
+## 外部連結
+
+  - [豆瓣音樂《Sam & Friends》](https://music.douban.com/subject/4896698/)
+
 [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 [Category:許冠傑音樂專輯](https://zh.wikipedia.org/wiki/Category:許冠傑音樂專輯 "wikilink")
 [Category:1988年音樂專輯](https://zh.wikipedia.org/wiki/Category:1988年音樂專輯 "wikilink")

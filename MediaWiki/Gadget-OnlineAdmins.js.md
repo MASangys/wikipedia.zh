@@ -12,6 +12,8 @@
 
 (function($, mw) {
 
+`   var BLACKLIST = ['Xiplus-abot'];`
+
 `   // Create portlet link`
 `   var portletLinkOnline = mw.util.addPortletLink(`
 `       'p-cactions',`
@@ -76,7 +78,7 @@
 `               var mark = function(data) {`
 `                   $.each(data.query.users, function(i, user) {`
 `                       // 找到管理员，去除adminbot`
-`                       if ($.inArray('bot', user.groups) === -1) {`
+`                       if ($.inArray('bot', user.groups) === -1 && $.inArray(user.name, BLACKLIST)) {`
 `                           if ($.inArray('sysop', user.groups) > -1) {`
 `                               admins[i] = user.name;`
 `                           }`

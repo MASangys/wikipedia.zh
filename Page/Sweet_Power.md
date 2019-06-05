@@ -19,6 +19,7 @@ Power」，其中如[高杉真宙亦於](../Page/高杉真宙.md "wikilink")2014
 <li><a href="../Page/內山理名.md" title="wikilink">內山理名</a></li>
 <li></li>
 <li><a href="https://zh.wikipedia.org/wiki/黑木梅沙" title="wikilink">黑木梅沙</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/長見玲亜" title="wikilink">長見玲亜</a></li>
 <li><a href="../Page/南澤奈央.md" title="wikilink">南澤奈央</a></li>
 <li><a href="../Page/桐谷美玲.md" title="wikilink">桐谷美玲</a></li>
 <li><a href="../Page/松山瑪麗.md" title="wikilink">松山瑪麗</a></li>

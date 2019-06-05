@@ -65,15 +65,17 @@
 <tr class="odd">
 <td><p>第一關</p></td>
 <td></td>
-<td><p>朝霧前方的盛夏之日</p></td>
-<td><p>盛夏的高空（）</p></td>
-<td><p>愛塔妮緹·拉爾瓦</p></td>
+<td><p>朝靄散後的仲夏日<br />
+Miracle Blue Sky</p></td>
+<td><p>仲夏的高空（）</p></td>
+<td><p>愛塔妮緹拉爾瓦</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>第二關</p></td>
 <td></td>
-<td><p>紅色山岳的孤獨</p></td>
+<td><p>深紅山之孤獨<br />
+Red Mountain Loneliness</p></td>
 <td><p>紅葉盡染的山（）</p></td>
 <td><p>坂田 合歡</p></td>
 <td></td>
@@ -81,7 +83,8 @@
 <tr class="odd">
 <td><p>第三關</p></td>
 <td></td>
-<td><p>神獸徜徉的櫻色之海</p></td>
+<td><p>神獸徜徉的櫻色之海<br />
+Sea of Spring Pink</p></td>
 <td><p>博麗神社的夜櫻（）</p></td>
 <td><p>莉莉懷特</p></td>
 <td><p>高麗野 阿吽</p></td>
@@ -89,8 +92,9 @@
 <tr class="even">
 <td><p>第四關</p></td>
 <td></td>
-<td><p>可見度零的邂逅</p></td>
-<td><p>魔法森林的上空（推測）<br />
+<td><p>可見度零的邂逅<br />
+White Blizzard Out of Season</p></td>
+<td><p>魔法森林上空（推測）<br />
 （）</p></td>
 <td><p>丁禮田 舞</p></td>
 <td><p>矢田寺 成美</p></td>
@@ -98,7 +102,8 @@
 <tr class="odd">
 <td><p>第五關</p></td>
 <td></td>
-<td><p>童子舞蹈狂亂之舞</p></td>
+<td><p>童子們跳起瘋狂的舞蹈<br />
+Into Crazy Back Door</p></td>
 <td><p>後戶之國（）</p></td>
 <td><p>爾子田 里乃</p></td>
 <td><p>爾子田 里乃 ＆ 丁禮田 舞</p></td>
@@ -106,24 +111,26 @@
 <tr class="even">
 <td><p>最終關</p></td>
 <td></td>
-<td><p>勿開啟之、勿窺探之<br />
-身後之門藏有祕天</p></td>
+<td><p>切勿打開，切勿窺看<br />
+後門之中別有秘天<br />
+Hidden Star in Four Seasons</p></td>
 <td><p>後戶之國（）</p></td>
 <td><p>-</p></td>
 <td><p>摩多羅 隱岐奈</p></td>
 </tr>
 <tr class="odd">
-<td><p>Extra</p></td>
+<td><p>Extra[1]</p></td>
 <td></td>
-<td><p>祕神的真面目</p></td>
+<td><p>秘神的真面目<br />
+Hidden Star in Fifth Season</p></td>
 <td><p>後戶之國（）</p></td>
 <td><p>爾子田 里乃 ＆ 丁禮田 舞</p></td>
-<td><p>摩多羅 隱岐奈（真）</p></td>
+<td><p>摩多羅 隱岐奈</p></td>
 </tr>
 </tbody>
 </table>
 
-  - 最終關進入最後符卡時會將Power強制清零，奪取所選擇的副季節裝備進行攻擊\[1\]\[2\]\[3\]\[4\]。
+  - 最終關進入最後符卡時會將Power強制清零，奪取所選擇的副季節裝備進行攻擊\[2\]\[3\]\[4\]\[5\]。
 
 ## 曲目一覽
 
@@ -262,7 +269,8 @@
 [Category:捲軸射擊遊戲](https://zh.wikipedia.org/wiki/Category:捲軸射擊遊戲 "wikilink")
 [Category:東方Project](https://zh.wikipedia.org/wiki/Category:東方Project "wikilink")
 
-1.  使用春裝備會發動「裏・ブリージーチェリーブロッサム」
-2.  使用夏裝備會發動「裏・パーフェクトサマーアイス」
-3.  使用秋裝備會發動「裏・クレイジーフォールウィンド」
-4.  使用冬裝備會發動「裏・エクストリームウインター」
+1.  在遊戲中標註為復仇關（Revenging Stage）
+2.  使用春裝備會發動「裏・ブリージーチェリーブロッサム」
+3.  使用夏裝備會發動「裏・パーフェクトサマーアイス」
+4.  使用秋裝備會發動「裏・クレイジーフォールウィンド」
+5.  使用冬裝備會發動「裏・エクストリームウインター」

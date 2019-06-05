@@ -59,9 +59,15 @@ The Campus正式開幕後首次舉辦的劇場公演。
 1月26日，「BNK48第6張單曲選拔總選舉」於舉行。\[21\]Team
 BIII的[Cherprang以](../Page/丘普朗·阿瑞昆.md "wikilink")84,195票获得第一，取得组合第6张单曲的Center\[22\]。
 
+5月11日－12日，參加泰國駐日本大使館在東京舉辦的「泰國節」，第2度於該活動中登台表演\[23\]。
+
+6月2日、在[清迈举办的迷你演唱会及击掌会](https://zh.wikipedia.org/wiki/清迈 "wikilink")“BNK48
+Thank You & The
+Beginner”中，公布了将以清迈为据点组建姐妹团体[CGM48的消息](https://zh.wikipedia.org/wiki/CGM48 "wikilink")\[24\]\[25\]\[26\]。
+
 ## 成員
 
-  - 在泰国，除了本名之外，青少年另有一易于称呼的昵称，在BNK48中，这一昵称常被直接用做成员名称\[23\]。
+  - 在泰国，除了本名之外，青少年另有一易于称呼的昵称，在BNK48中，这一昵称常被直接用做成员名称\[27\]。
 
 ### Team BIII
 
@@ -87,7 +93,7 @@ BIII的[Cherprang以](../Page/丘普朗·阿瑞昆.md "wikilink")84,195票获得
 <td><p>Cherprang Areekul</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>BNK48總隊長[24]</p></td>
+<td><p>BNK48總隊長[28]</p></td>
 <td><p>1</p></td>
 </tr>
 <tr class="even">
@@ -98,7 +104,7 @@ BIII的[Cherprang以](../Page/丘普朗·阿瑞昆.md "wikilink")84,195票获得
 <td></td>
 <td><p>AKB48<br />
 10期</p></td>
-<td><p>2017年7月2日自AKB48移籍[25]<br />
+<td><p>2017年7月2日自AKB48移籍[29]<br />
 前AKB48 Team A（初代橫山）<br />
 前AKB48 Team B（倉持）<br />
 前AKB48 Team 4（高橋朱里）</p></td>
@@ -201,7 +207,7 @@ BIII的[Cherprang以](../Page/丘普朗·阿瑞昆.md "wikilink")84,195票获得
 <td><p>Pimrapat Phadungwatanachok</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>2018年9月18日－10月15日於AKB48進行短期留學[26][27]</p></td>
+<td><p>2018年9月18日－10月15日於AKB48進行短期留學[30][31]</p></td>
 <td><p>4</p></td>
 </tr>
 <tr class="even">
@@ -275,7 +281,7 @@ BIII的[Cherprang以](../Page/丘普朗·阿瑞昆.md "wikilink")84,195票获得
 Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
-<td><p>日本與泰國混血[28]</p></td>
+<td><p>日本與泰國混血[32]</p></td>
 <td><p>17</p></td>
 </tr>
 <tr class="even">
@@ -601,7 +607,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>-</p></td>
 <td><p>2017年9月23日</p></td>
-<td><p>畢業[29]</p></td>
+<td><p>畢業[33]</p></td>
 </tr>
 <tr class="even">
 <td><p>Cincin</p></td>
@@ -611,7 +617,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>-</p></td>
 <td><p>2017年11月18日</p></td>
-<td><p>畢業[30]</p></td>
+<td><p>畢業[34]</p></td>
 </tr>
 <tr class="odd">
 <td><p>Jan</p></td>
@@ -620,9 +626,9 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>BIII</p></td>
-<td><p>2018年2月28日[31]</p></td>
+<td><p>2018年2月28日[35]</p></td>
 <td><p>畢業<br />
-所屬經紀公司為[32][33]</p></td>
+所屬經紀公司為[36][37]</p></td>
 </tr>
 <tr class="even">
 <td><p>Can</p></td>
@@ -632,7 +638,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>BIII</p></td>
 <td><p>2018年8月26日</p></td>
-<td><p>畢業[34]<br />
+<td><p>畢業[38]<br />
 所屬經紀公司為BNK48 Office</p></td>
 </tr>
 <tr class="odd">
@@ -673,7 +679,7 @@ Sachiya Hanami</p></td>
 <td><p>1期</p></td>
 <td><p>2018年2月12日</p></td>
 <td><p>丹麥與泰國混血<br />
-畢業[35]</p></td>
+畢業[39]</p></td>
 </tr>
 <tr class="even">
 <td><p>Maysa</p></td>
@@ -682,7 +688,7 @@ Sachiya Hanami</p></td>
 <td></td>
 <td><p>1期</p></td>
 <td><p>2018年10月31日</p></td>
-<td><p>畢業[36]</p></td>
+<td><p>畢業[40]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -974,7 +980,7 @@ Type B</p></td>
 
 ### 二期生
 
-  - 應徵總數：10782名\[37\]
+  - 應徵總數：10782名\[41\]
   - 徵選時間：2017年12月25日－2018年2月1日
   - 第一次審査：合格者約300名
   - 第二次審査（2018年2月中旬）：合格者94名
@@ -987,12 +993,12 @@ Type B</p></td>
 
 ## 劇場公演
 
-自2018年5月起、组合与专属剧场“BNK48劇場”进行定期公演\[38\]。
+自2018年5月起、组合与专属剧场“BNK48劇場”进行定期公演\[42\]。
 [BNK48_theater.jpg](https://zh.wikipedia.org/wiki/File:BNK48_theater.jpg "fig:BNK48_theater.jpg")
 
 ### Team BIII
 
-1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演 "wikilink")：2018年5月12日\[39\]－\[40\]
+1.  [PARTY開始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY開始了」#BNK48_Team_BIII_1st_Stage「PARTY開始了」公演 "wikilink")：2018年5月12日\[43\]－\[44\]
 
 ### 研究生
 
@@ -1166,6 +1172,14 @@ Bluport Huahin</p></td>
 37.
 
 38.
-39. 于同月6 - 7日举行了面向Founder Member，不对外售票的首演
+
+39.
 
 40.
+
+41.
+
+42.
+43. 于同月6 - 7日举行了面向Founder Member，不对外售票的首演
+
+44.

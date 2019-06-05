@@ -70,7 +70,7 @@ Factory所屬](../Page/Idea_Factory.md "wikilink")[遊戲開發者兼](https://z
 
 ### 小說插畫
 
-  - [約會大作戰](../Page/約會大作戰.md "wikilink")（[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")，作者：[橘公司](https://zh.wikipedia.org/wiki/橘公司 "wikilink")，2011年連載至今、刊載27卷【本傳19卷、短篇集8卷】）
+  - [約會大作戰](../Page/約會大作戰.md "wikilink")（[富士見Fantasia文庫](../Page/富士見Fantasia文庫.md "wikilink")，作者：[橘公司](https://zh.wikipedia.org/wiki/橘公司 "wikilink")，2011年連載至今、刊載28卷【本傳20卷、短篇集8卷】）
 
 ### 漫畫
 

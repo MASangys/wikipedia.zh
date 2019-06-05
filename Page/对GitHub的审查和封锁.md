@@ -61,11 +61,15 @@ Rathke稱，[美国聯邦政府已要求中国當局调查相关的網路攻擊�
 
 ### 浏览器端攻击
 
-2019年4月3日起，中国大陆的一些[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")（如[QQ浏览器](../Page/QQ浏览器.md "wikilink")、[微信浏览器](https://zh.wikipedia.org/wiki/微信浏览器 "wikilink")、[UC浏览器和](../Page/UC浏览器.md "wikilink")[360安全浏览器等](../Page/360安全浏览器.md "wikilink")）将GitHub上的996.icu项目仓库标记为“危险网站”、“违法网站”，阻止用户访问相关GitHub网页\[30\]\[31\]\[32\]。
+2019年4月3日起，中国大陆的一些[浏览器](https://zh.wikipedia.org/wiki/浏览器 "wikilink")（如[QQ浏览器](../Page/QQ浏览器.md "wikilink")、[微信浏览器](https://zh.wikipedia.org/wiki/微信浏览器 "wikilink")、[UC浏览器和](../Page/UC浏览器.md "wikilink")[360安全浏览器等](../Page/360安全浏览器.md "wikilink")）将GitHub上的996.icu项目仓库标记为“危险网站”、“违法网站”，阻止用户访问相关GitHub网页。
+
+之后的调查发现，这次对于该项目的屏蔽几乎同时发生，这不得不让人对这些浏览器的幕后产生怀疑。
+
+也有人猜测，对于该项目的屏蔽跟同一个提供源有关，不过目前尚未下定论。
 
 ## 俄罗斯
 
-俄罗斯政府通过维护一份网络封锁的黑名单，封锁网站包括儿童色情、毒品、宣扬自杀、宣扬恐怖主义和其他非法网站等。\[33\]
+俄罗斯政府通过维护一份网络封锁的黑名单，封锁网站包括儿童色情、毒品、宣扬自杀、宣扬恐怖主义和其他非法网站等。\[30\]
 
 ### 运营商封锁
 
@@ -73,56 +77,56 @@ Rathke稱，[美国聯邦政府已要求中国當局调查相关的網路攻擊�
 
 2014年12月2日，因为网站内包含了几种涉及自杀教学的内容而封禁了GitHub。因为GitHub全站使用[HTTPS连接](../Page/超文本传输安全协议.md "wikilink")，无法针对部分页面进行封锁，因此[互联网服务供应商被强制要求封锁整个网站](../Page/互联网服务供应商.md "wikilink")。
 实行封锁的运营商包括：Beeline、MTS、MGTS和Megafon。监督局负责人Maxim
-Ksenzov表示，GitHub被封禁是因为之前的2014年10月10日GitHub未遵守俄罗斯的删除请求。\[34\]在2014年10月2日GitHub曾被短暂封锁，直到原始的自杀教程被删除。\[35\]
+Ksenzov表示，GitHub被封禁是因为之前的2014年10月10日GitHub未遵守俄罗斯的删除请求。\[31\]在2014年10月2日GitHub曾被短暂封锁，直到原始的自杀教程被删除。\[32\]
 
 ### 被封禁的内容
 
-2014年3月23日，有人在GitHub上面发布了介绍自杀的手册，内含在俄罗斯内的31种自杀方法，该项目被数个用户[複刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")。\[36\]在GitHub被封锁之后，很多GitHub用户举报了该项目。该项目于2014年10月2日被建立者删除。\[37\]\[38\]
+2014年3月23日，有人在GitHub上面发布了介绍自杀的手册，内含在俄罗斯内的31种自杀方法，该项目被数个用户[複刻](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")。\[33\]在GitHub被封锁之后，很多GitHub用户举报了该项目。该项目于2014年10月2日被建立者删除。\[34\]\[35\]
 
 ### 回应
 
 按照俄罗斯政府的相关要求，GitHub屏蔽了相关仓库在俄罗斯内的访问，以解除对GitHub的封锁。
-GitHub为监督局专门建立了一个名为“roskomnadzor”的仓库，并记录来自监督局的删除通知。在仓库的README文件中，GitHub指出，他们对[互联网审查表示关注](../Page/互联网审查.md "wikilink")，公开透明是为了防止潜在的[史翠珊效应](../Page/史翠珊效应.md "wikilink")。GitHub还指出，发布通知仅仅是为了记录，不会针对仓库内容的观点进行判断。\[39\]
+GitHub为监督局专门建立了一个名为“roskomnadzor”的仓库，并记录来自监督局的删除通知。在仓库的README文件中，GitHub指出，他们对[互联网审查表示关注](../Page/互联网审查.md "wikilink")，公开透明是为了防止潜在的[史翠珊效应](../Page/史翠珊效应.md "wikilink")。GitHub还指出，发布通知仅仅是为了记录，不会针对仓库内容的观点进行判断。\[36\]
 
 ### 政府删除请求
 
-截止到2016年6月，GitHub共收到6份政府删除请求，其中5份来自俄罗斯政府。\[40\]
+截止到2016年6月，GitHub共收到6份政府删除请求，其中5份来自俄罗斯政府。\[37\]
 
 ## 印度
 
-印度根据联邦和州法律来审查网站。互联网服务供应商需要按照的要求来进行审查。但有评论指出，这些法律规定比较模糊，供应商容易过分审查。\[41\]
+印度根据联邦和州法律来审查网站。互联网服务供应商需要按照的要求来进行审查。但有评论指出，这些法律规定比较模糊，供应商容易过分审查。\[38\]
 
 ### 运营商封锁
 
-在2014年12月17日，命令运营商封禁32个网站。\[42\]命令于2014年12月31日被公开，其中包括GitHub、Gist、[Vimeo](../Page/Vimeo.md "wikilink")、[互联网档案馆和多个](../Page/互联网档案馆.md "wikilink")服务。\[43\]
+在2014年12月17日，命令运营商封禁32个网站。\[39\]命令于2014年12月31日被公开，其中包括GitHub、Gist、[Vimeo](../Page/Vimeo.md "wikilink")、[互联网档案馆和多个](../Page/互联网档案馆.md "wikilink")服务。\[40\]
 
 封锁令被印度执政党[印度人民党的Arvind](../Page/印度人民党.md "wikilink")
-Gupta所证实，他还指出封锁令与印度的反恐小组针对[伊斯兰国的建议有关](../Page/伊斯兰国.md "wikilink")。Gupta还指出，配合政府调查的网站会被解除封锁。\[44\]
+Gupta所证实，他还指出封锁令与印度的反恐小组针对[伊斯兰国的建议有关](../Page/伊斯兰国.md "wikilink")。Gupta还指出，配合政府调查的网站会被解除封锁。\[41\]
 
 2015年1月2日，印度通信部门宣布将解封四个网站，其中有GitHub
-Gist，并指出一旦剩下的网站遵守印度法律，也会被解除封锁。解释封禁原因时，部长提到“在这些网站中，大多数网站在发布内容之前都不需要任何审核……这些网站经常被用于传递和交流[吉哈德内容](../Page/吉哈德.md "wikilink")……”\[45\]
+Gist，并指出一旦剩下的网站遵守印度法律，也会被解除封锁。解释封禁原因时，部长提到“在这些网站中，大多数网站在发布内容之前都不需要任何审核……这些网站经常被用于传递和交流[吉哈德内容](../Page/吉哈德.md "wikilink")……”\[42\]
 
-2015年1月4日，一个GitHub发言人指出，一些用户在访问GitHub时仍然会遇到困难，GitHub已经和印度政府进行接触，但仍然无法确定封禁的具体原因。发言人还指出，使印度的开发者能够重新访问GitHub是他们的高优先级工作，他们“愿意与印度政府合作，建立一套识别和处理非法内容的过滤系统，以恢复网站的正常访问，并确保将来不会再受到影响。”\[46\]
+2015年1月4日，一个GitHub发言人指出，一些用户在访问GitHub时仍然会遇到困难，GitHub已经和印度政府进行接触，但仍然无法确定封禁的具体原因。发言人还指出，使印度的开发者能够重新访问GitHub是他们的高优先级工作，他们“愿意与印度政府合作，建立一套识别和处理非法内容的过滤系统，以恢复网站的正常访问，并确保将来不会再受到影响。”\[43\]
 
 ### 影响
 
-据[印度时报报道](https://zh.wikipedia.org/wiki/印度时报 "wikilink")，运营商Vodafone、BSNL、Hathway封锁了GitHub而通过Airtel仍能访问。\[47\]因为封锁令只告诉运营商封锁哪些网站但未指出如何封锁，因此封锁程度是不同的。封锁是不可靠的，并且似乎发生在多个层面上。即使是同一运营商，封锁方法也有多种，包括[IP封锁](https://zh.wikipedia.org/wiki/IP封锁 "wikilink")、使用[代理服务器](../Page/代理服务器.md "wikilink")、[DNS污染](https://zh.wikipedia.org/wiki/DNS污染 "wikilink")。根据封锁程度不同，突破封锁的方法也不同，例如更换[DNS服务器或使用](../Page/域名系统.md "wikilink")[代理软件](https://zh.wikipedia.org/wiki/代理软件 "wikilink")。\[48\]
+据[印度时报报道](https://zh.wikipedia.org/wiki/印度时报 "wikilink")，运营商Vodafone、BSNL、Hathway封锁了GitHub而通过Airtel仍能访问。\[44\]因为封锁令只告诉运营商封锁哪些网站但未指出如何封锁，因此封锁程度是不同的。封锁是不可靠的，并且似乎发生在多个层面上。即使是同一运营商，封锁方法也有多种，包括[IP封锁](https://zh.wikipedia.org/wiki/IP封锁 "wikilink")、使用[代理服务器](../Page/代理服务器.md "wikilink")、[DNS污染](https://zh.wikipedia.org/wiki/DNS污染 "wikilink")。根据封锁程度不同，突破封锁的方法也不同，例如更换[DNS服务器或使用](../Page/域名系统.md "wikilink")[代理软件](https://zh.wikipedia.org/wiki/代理软件 "wikilink")。\[45\]
 
 ### 批评
 
 [GOIBlocks_protest_poster_fsftn.png](https://zh.wikipedia.org/wiki/File:GOIBlocks_protest_poster_fsftn.png "fig:GOIBlocks_protest_poster_fsftn.png")
 
 针对封锁，[TechCrunch评论到](../Page/TechCrunch.md "wikilink")“在名单中加入GitHub……是最脑残的决定之一”，并预言GitHub在信息技术领域的重要性会使封禁行为引发抗议。
-Twitter用户通过“\#GOIblocks”标签进行抗议，并引用[纳伦德拉·莫迪在](../Page/纳伦德拉·莫迪.md "wikilink")2012年发表的信息来谴责网络封锁。\[49\]印度[匿名者多次向政府发出威胁](../Page/匿名者.md "wikilink")，但并未采取实际行动。\[50\]
+Twitter用户通过“\#GOIblocks”标签进行抗议，并引用[纳伦德拉·莫迪在](../Page/纳伦德拉·莫迪.md "wikilink")2012年发表的信息来谴责网络封锁。\[46\]印度[匿名者多次向政府发出威胁](../Page/匿名者.md "wikilink")，但并未采取实际行动。\[47\]
 
 ## 土耳其
 
 [October_9,_2016_GitHub_Turkey_block.jpg](https://zh.wikipedia.org/wiki/File:October_9,_2016_GitHub_Turkey_block.jpg "fig:October_9,_2016_GitHub_Turkey_block.jpg")
 2016年10月8日，在土耳其黑客组织声称入侵土耳其能源部长、[埃尔多安女婿](https://zh.wikipedia.org/wiki/埃尔多安 "wikilink")之后，命令互联网服务供应商封锁几个[檔案分享网站](../Page/檔案分享.md "wikilink")，包括、[Microsoft
 OneDrive](../Page/OneDrive.md "wikilink")、[Google
-Drive](../Page/Google雲端硬碟.md "wikilink")\[51\]。觀測網路審查情況的注意到GitHub於次日上午被封鎖，並且相關的封鎖令被信息与通信技术署逐步發佈出來\[52\]。封鎖導致依賴GitHub的軟體（例如[Font
+Drive](../Page/Google雲端硬碟.md "wikilink")\[48\]。觀測網路審查情況的注意到GitHub於次日上午被封鎖，並且相關的封鎖令被信息与通信技术署逐步發佈出來\[49\]。封鎖導致依賴GitHub的軟體（例如[Font
 Awesome](../Page/Font_Awesome.md "wikilink")、等）無法正常運行。Startup
-Istanbul活動的參與者也表達了對基礎設施可用性的不滿。在土耳其，\#GitHub[標籤成為了Twitter的熱門標籤之一](../Page/主題標籤.md "wikilink")。按照的說法，RedHack組織蓄意通過多種服務來傳播郵件內容，期待土耳其政府將其封鎖，以造成[史翠珊效應](https://zh.wikipedia.org/wiki/史翠珊效應 "wikilink")。18小時後GitHub被解封\[53\]。
+Istanbul活動的參與者也表達了對基礎設施可用性的不滿。在土耳其，\#GitHub[標籤成為了Twitter的熱門標籤之一](../Page/主題標籤.md "wikilink")。按照的說法，RedHack組織蓄意通過多種服務來傳播郵件內容，期待土耳其政府將其封鎖，以造成[史翠珊效應](https://zh.wikipedia.org/wiki/史翠珊效應 "wikilink")。18小時後GitHub被解封\[50\]。
 
 ## 注释
 
@@ -187,12 +191,14 @@ Istanbul活動的參與者也表達了對基礎設施可用性的不滿。在土
 
 29.
 30.
+
 31.
+
 32.
+
 33.
 
 34.
-
 35.
 
 36.
@@ -203,6 +209,7 @@ Istanbul活動的參與者也表達了對基礎設施可用性的不滿。在土
 39.
 
 40.
+
 41.
 
 42.
@@ -210,7 +217,6 @@ Istanbul活動的參與者也表達了對基礎設施可用性的不滿。在土
 43.
 
 44.
-
 45.
 
 46.
@@ -219,9 +225,4 @@ Istanbul活動的參與者也表達了對基礎設施可用性的不滿。在土
 48.
 
 49.
-
 50.
-51.
-
-52.
-53.

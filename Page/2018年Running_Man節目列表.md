@@ -61,7 +61,7 @@ Man](../Page/Running_Man.md "wikilink")》方面發布聲明，宣布[李多熙]
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>|勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -460,7 +460,7 @@ Man](../Page/Running_Man.md "wikilink")》方面發布聲明，宣布[李多熙]
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>|勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -595,7 +595,7 @@ Man](../Page/Running_Man.md "wikilink")》方面發布聲明，宣布[李多熙]
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>|勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -678,7 +678,7 @@ Running Man 365 MT</strong></span><br />
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -746,7 +746,7 @@ Running Man 365 MT</strong></span><br />
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>|勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -852,8 +852,7 @@ Running Man 365 MT</strong></span><br />
 成為票數最多</p></td>
 <td><p>金鍾國<strong>勝出</strong><br />
 獲得加濕器禮物<br />
-成為票數最少的全昭旻<br />
-須接受由金鍾國負責的「杖刑」大懲罰</p></td>
+成為票數最少的全昭旻須接受由金鍾國負責的「杖刑」大懲罰</p></td>
 </tr>
 <tr class="odd">
 <td><p>344</p></td>
@@ -866,23 +865,16 @@ Running Man 365 MT</strong></span><br />
 <td><p><span style=font-size:110%><strong>補身競賽</strong></span><br />
 <strong>個人戰</strong><br />
 沒有隊伍</p></td>
-<td><p><span style=font-size:110%><strong>死亡遊戲</span><br />
-個人戰</strong><br />
-池錫辰、全昭旻</p></td>
 <td><p><strong>團體任務</strong><br />
 於五小時內累計完食徽章至少20個：若任務成功，則由徽章最少的成員接受懲罰；否則，除徽章最多的成員外均接受懲罰<br />
 <strong>個人任務</strong><br />
-累積最多完食徽章<br />
-<strong>死亡遊戲</strong><br />
-卷尺距離最短</p></td>
+累積最多完食徽章</p></td>
 <td><p><strong>團體任務</strong><br />
 全員<strong>勝出</strong><br />
 <strong>個人任務</strong><br />
 劉在錫、金鍾國、哈哈、宋智孝、李光洙及梁世燦<strong>勝出</strong><br />
-池錫辰、全昭旻同時累積最少徽章而須通過「死亡遊戲」<br />
-<strong>死亡遊戲</strong><br />
-全昭旻<strong>勝出</strong><br />
-池錫辰須接受水炮彈懲罰[21]</p></td>
+池錫辰、全昭旻通過「死亡遊戲」抽選後由池錫辰接受水炮彈懲罰[21]</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>345</p></td>
@@ -967,7 +959,7 @@ Running Man 365 MT</strong></span><br />
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>結束條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1053,7 +1045,7 @@ Running Man 365 MT</strong></span><br />
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>|勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1078,13 +1070,12 @@ Running Man 365 MT</strong></span><br />
 <span style=color:#00BFFF>宋智孝、黄致列</span><br />
 <span style=color:#FF8C00>李光洙、Jennie</span><br />
 <span style=color:#7700FF>梁世燦、表藝珍</p></td>
-<td><p><span style=font-size:110%><strong>死亡對決</strong></span><br />
-'''<span style=color:#FF8C00>李光洙、Jennie</span><br />
-<span style=color:#7700FF>梁世燦、表藝珍</p></td>
-<td><p><strong>正常任務</strong><br />
-獲得2張愛心卡片<br />
-<strong>死亡對決</strong><br />
-不獲得2張炸彈卡片</p></td>
+<td><p>獲得2張愛心卡片</p></td>
+<td><p>哈哈、全昭旻<strong>勝出</strong><br />
+獲得金情侶戒指兩枚<br />
+第二名的池錫辰、尹寶拉獲得韓牛套裝<br />
+第三名的金鍾國、Jisoo獲得紅參一盒<br />
+李光洙、Jennie及梁世燦、表藝珍通過「死亡對決」抽選後由李光洙、Jennie接受水炮彈懲罰</p></td>
 </tr>
 <tr class="even">
 <td><p>348</p></td>
@@ -1093,7 +1084,7 @@ Running Man 365 MT</strong></span><br />
 （7月17日）</small></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/湯·告魯斯" title="wikilink">湯·告魯斯</a>、<br />
 <a href="../Page/亨利·卡維爾.md" title="wikilink">亨利·卡維爾</a>、<a href="../Page/西蒙·柏奇.md" title="wikilink">西蒙·柏奇</a></p></td>
-<td><p>樂天世界酒店<br />
+<td><p><a href="../Page/樂天世界塔.md" title="wikilink">樂天世界塔</a><br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/松坡區.md" title="wikilink">松坡區</a>）</small></p></td>
 <td><p><span style=font-size:110%><strong>抓住潛入的要員</strong></span><br />
@@ -1166,7 +1157,7 @@ Man成員在比賽中盡力累積超過八張「8」字卡以進入決賽，並�
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1212,7 +1203,7 @@ Man成員在比賽中盡力累積超過八張「8」字卡以進入決賽，並�
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1306,7 +1297,7 @@ Jennie、劉在錫、宋智孝、李光洙、梁世燦<br />
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1461,7 +1452,7 @@ Jennie、劉在錫、宋智孝、李光洙、梁世燦<br />
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -1985,38 +1976,38 @@ Face隊<strong>勝出</strong><br />
 <tr class="even">
 <td><p>418</p></td>
 <td><p>9月16日</p></td>
-<td></td>
+<td><p>rowspan=6 </p></td>
 <td><p>8.0%</p></td>
 </tr>
 <tr class="odd">
 <td><p>419</p></td>
 <td><p>9月23日</p></td>
-<td></td>
 <td><p>6.3%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>420</p></td>
 <td><p>9月30日</p></td>
-<td></td>
 <td><p>7.3%</p></td>
+<td><p>4.8%</p></td>
 </tr>
 <tr class="odd">
 <td><p>421</p></td>
 <td><p>10月7日</p></td>
-<td></td>
 <td><p>7.7%</p></td>
+<td><p>4.5%</p></td>
 </tr>
 <tr class="even">
 <td><p>422</p></td>
 <td><p>10月14日</p></td>
-<td></td>
 <td><p>8.1%</p></td>
+<td><p>4.5%</p></td>
 </tr>
 <tr class="odd">
 <td><p>423</p></td>
 <td><p>10月21日</p></td>
-<td></td>
 <td><p>7.4%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>因直播<a href="../Page/韓國職棒聯賽.md" title="wikilink">韓國職棒聯賽赛事</a>，节目暂停放送一週。</p></td>
@@ -2033,50 +2024,50 @@ Face隊<strong>勝出</strong><br />
 <tr class="even">
 <td><p>425</p></td>
 <td><p>11月11日</p></td>
-<td></td>
+<td><p>rowspan=8 </p></td>
 <td><p>7.1%</p></td>
 </tr>
 <tr class="odd">
 <td><p>426</p></td>
 <td><p>11月18日</p></td>
-<td></td>
 <td><p>8.8%</p></td>
+<td><p>5.0%</p></td>
 </tr>
 <tr class="even">
 <td><p>427</p></td>
 <td><p>11月25日</p></td>
-<td></td>
 <td><p>9.1%</p></td>
+<td><p>5.0%</p></td>
 </tr>
 <tr class="odd">
 <td><p>428</p></td>
 <td><p>12月2日</p></td>
-<td></td>
 <td><p>8.6%</p></td>
+<td><p>5.4%</p></td>
 </tr>
 <tr class="even">
 <td><p>429</p></td>
 <td><p>12月9日</p></td>
-<td></td>
 <td><p>9.0%</p></td>
+<td><p>5.3%</p></td>
 </tr>
 <tr class="odd">
 <td><p>430</p></td>
 <td><p>12月16日</p></td>
-<td></td>
 <td><p>8.7%</p></td>
+<td><p>5.2%</p></td>
 </tr>
 <tr class="even">
 <td><p>431</p></td>
 <td><p>12月23日</p></td>
-<td></td>
 <td><p>8.7%</p></td>
+<td><p>4.7%</p></td>
 </tr>
 <tr class="odd">
 <td><p>432</p></td>
 <td><p>12月30日</p></td>
-<td></td>
 <td><p>8.1%</p></td>
+<td><p>5.7%</p></td>
 </tr>
 </tbody>
 </table>

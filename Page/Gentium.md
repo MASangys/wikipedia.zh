@@ -52,7 +52,7 @@ SIL](../Page/Doulos_SIL.md "wikilink")。
     萬國字體](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&item_id=Gentium)
   - [SIL开源字体授权
     (OFL)](http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL)
-  - 給[LaTeX使用的Gentium](https://zh.wikipedia.org/wiki/LaTeX "wikilink")：[非官方軟體包](http://comments.gmane.org/gmane.comp.tex.fonts/264)、[如何安裝](http://www.tex.ac.uk/cgi-bin/texfaq2html?label=instt1font)與[如何使用](http://article.gmane.org/gmane.comp.tex.fonts/163/match=ggn)
+  - 給[LaTeX使用的Gentium](https://zh.wikipedia.org/wiki/LaTeX "wikilink")：[非官方軟體包](https://web.archive.org/web/20070929120845/http://comments.gmane.org/gmane.comp.tex.fonts/264)、[如何安裝](http://www.tex.ac.uk/cgi-bin/texfaq2html?label=instt1font)與[如何使用](https://web.archive.org/web/20161127025015/http://article.gmane.org/gmane.comp.tex.fonts/163/match=ggn)
 
 [Category:衬线字体](https://zh.wikipedia.org/wiki/Category:衬线字体 "wikilink")
 [Category:2001年面世](https://zh.wikipedia.org/wiki/Category:2001年面世 "wikilink")

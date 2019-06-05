@@ -1,6 +1,6 @@
 **HTC
-U11**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2017年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，運行[Android
-8.0.0](../Page/Android_Oreo.md "wikilink")（出廠版本為[Android
+U11**是[台灣手機公司](https://zh.wikipedia.org/wiki/台灣 "wikilink")[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")2017年開發的新一代[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，目前運行[Android
+9.0.0](../Page/Android_Pie.md "wikilink")（出廠版本為[Android
 7.1.1](../Page/Android_Nougat.md "wikilink")）操作系统，同級競品為[Samsung Galaxy
 S8](../Page/三星Galaxy_S8.md "wikilink")、[Sony Xperia XZ
 Premium](../Page/Sony_Xperia_XZ_Premium.md "wikilink")、[Asus ZenFone 4
@@ -23,6 +23,10 @@ Boost™功能使得U11相機在知名評測機構[DxOMark的手機項目獲得�
 U11亦延續了U
 Ultra的四顆[麥克風](https://zh.wikipedia.org/wiki/麥克風 "wikilink")，可進行3D收音以及可
 Zoom-in針對被射主體收音的「Acoustic Focus」強化錄影時的音效。
+
+2019年5月27日，開放更新[Android 9.0
+Pie](https://zh.wikipedia.org/wiki/Android_9 "wikilink")，同日晚間11點，官方停止推送[Android
+9.0 Pie更新](https://zh.wikipedia.org/wiki/Android_9 "wikilink")。
 
 ## 詳細規格
 

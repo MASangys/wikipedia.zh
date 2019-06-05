@@ -31,8 +31,8 @@ Watch使用](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")。
 [分類:2006年成立的公司](https://zh.wikipedia.org/wiki/分類:2006年成立的公司 "wikilink")
 [分類:香港公司](https://zh.wikipedia.org/wiki/分類:香港公司 "wikilink")
 [分類:線上音樂商店](https://zh.wikipedia.org/wiki/分類:線上音樂商店 "wikilink")
-[分類:Android軟件](https://zh.wikipedia.org/wiki/分類:Android軟件 "wikilink")
-[分類:iOS軟件](https://zh.wikipedia.org/wiki/分類:iOS軟件 "wikilink")
+[分類:Android软件](https://zh.wikipedia.org/wiki/分類:Android软件 "wikilink")
+[分類:iOS软件](https://zh.wikipedia.org/wiki/分類:iOS软件 "wikilink")
 [分類:香港音樂](https://zh.wikipedia.org/wiki/分類:香港音樂 "wikilink")
 [分類:電訊盈科](https://zh.wikipedia.org/wiki/分類:電訊盈科 "wikilink")
 

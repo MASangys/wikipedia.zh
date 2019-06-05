@@ -66,9 +66,9 @@ Entertainment理事](https://zh.wikipedia.org/wiki/YG_Entertainment "wikilink")�
 </tr>
 <tr class="even">
 <td><p><strong>4th</strong></p></td>
-<td><p>第四張正規專輯《<strong>Track List</strong>》</p>
+<td><p>第四張正規專輯《<strong>Let's Play</strong>》</p>
 <ul>
-<li>發行日期：2001年2月7日</li>
+<li>發行日期：2004年11月12日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>備註：</li>
 </ul></td>

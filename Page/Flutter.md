@@ -10,8 +10,8 @@ Flutter第一个版本支持[Android操作系统](../Page/Android.md "wikilink")
 
 Flutter的主要组成部分包括：
 
-  - Flutter引擎
   - 基础库
+  - [Skia 2D渲染引擎](../Page/Skia_Graphics_Library.md "wikilink")
   - 定制化设计风格的组件
 
 ### Flutter引擎
@@ -44,6 +44,7 @@ Design的组件实现的是同名的谷歌设计语言](../Page/质感设计.md 
 [Category:自由跨平台軟體](https://zh.wikipedia.org/wiki/Category:自由跨平台軟體 "wikilink")
 [Category:Dart](https://zh.wikipedia.org/wiki/Category:Dart "wikilink")
 [Category:軟體框架](https://zh.wikipedia.org/wiki/Category:軟體框架 "wikilink")
+[Category:Google_Fuchsia](https://zh.wikipedia.org/wiki/Category:Google_Fuchsia "wikilink")
 
 1.
 2.

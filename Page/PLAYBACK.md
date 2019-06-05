@@ -1,22 +1,22 @@
-<span>**PLAYBACK**（韩语：플레이백）是[Coridel娱乐旗下的五人韩国](../Page/Coridel娛樂.md "wikilink")[女子团体](../Page/女子音乐组合.md "wikilink")，</span>组合于2015年6月25日携数位单曲《Playback》正式出道。\[1\]组合成员分别为：Yunji、Hayoung、Yujin、Woolim和Eunjin。
+<span>**PLAYBACK**是[Coridel娱乐旗下的五人韩国](../Page/Coridel娛樂.md "wikilink")[女子团体](../Page/女子音乐组合.md "wikilink")，</span>组合于2015年6月25日携数位单曲《Playback》正式出道。\[1\]组合成员分别为：允祉、夏瑩、有真
+、友琳和恩珍。
 
 ## 经历
 
-Woolim在加入PLAYBACK前曾在[JYP娱乐当了](../Page/JYP娛樂.md "wikilink")3年的练习生。曾参加韩国[Mnet电视台的综艺节目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[看见你的声音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》，演唱了[爱莉安娜·格兰德的](../Page/爱莉安娜·格兰德.md "wikilink")《Problem》后迅速獲得知名度。
+友琳在加入PLAYBACK前曾在[JYP娱乐当了](../Page/JYP娛樂.md "wikilink")3年的练习生。曾参加韩国[Mnet电视台的综艺节目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[看见你的声音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》，演唱了[爱莉安娜·格兰德的](../Page/爱莉安娜·格兰德.md "wikilink")《Problem》后迅速獲得知名度。
 
 PLAYBACK在2015年6月25日发布同名单曲专辑《Playback》。三个月后，组合计划在9月2日推出一张全新的单曲专辑。\[2\] 该专辑叫《没有吗
-(없을까)》，该专辑与[Eric
-Nam合作录制](../Page/Eric_Nam.md "wikilink")。\[3\] 该歌曲吸引了媒体的关注，因为歌曲制作团队是挪威的ELEMENT。\[4\]
+(No?)》，该专辑与[Eric
+Nam合作录制](../Page/Eric_Nam.md "wikilink")。\[3\] 该歌曲吸引了媒体的关注，因为歌曲制作团队是挪威的'元素'。\[4\]
 
-Eunjin在《[K-pop Star
+恩珍在《[K-pop Star
 6](../Page/K-pop_Star_6.md "wikilink")》中被淘汰后，2017年4月13日加入到组合中。\[5\]
 
 2017年10月13日，[Coridel娱乐通过官方fan](../Page/Coridel娛樂.md "wikilink")
-cafe发布组合将参加《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，并打算在10月中旬发布一张专辑。\[6\]2017年10月20日，发布第三张数字单曲《没能说出的话（말하지
-못한 이야기）》。2017年10月28日发布第四张单曲《告诉我 (말해줘)》。
+cafe发布组合将参加《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》，并打算在10月中旬发布一张专辑。\[6\]2017年10月20日，发布第三张数字单曲《没能说出的话(Unable
+to say anything)》。2017年10月28日发布第四张单曲《告诉我 (Tell me)》。
 
-2019年4月17日，Hayoung與Management Nangman簽訂了專屬合約，開始演員活動，參與網路劇《ON THE
-CAMPUS》。
+2019年4月17日，夏瑩與Management Nangman簽訂了專屬合約，開始演員活動，參與網路劇《在校園裏》。
 
 ## 成员资料
 
@@ -89,19 +89,19 @@ CAMPUS》。
 
 ### 真人秀
 
-| 年份        | 参与成员                                              | 名称                                                          | 电视台  | 备注                             |
-| --------- | ------------------------------------------------- | ----------------------------------------------------------- | ---- | ------------------------------ |
-| 2015      | Woolim                                            | [看见你的声音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")   | Mnet | 第七集                            |
-| 2016      | Eunjin                                            | [Produce 101](../Page/PRODUCE_101.md "wikilink")            | Mnet | 因健康问题在第四集离开                    |
-| 2016-2017 | [Kpop Star 6](../Page/K-pop_Star_6.md "wikilink") | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | 前八名  |                                |
-| 2017-2018 | Hayoung、Woolim                                    | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink") | JTBC | Hayoung最終排行第9名、Woolim最終排行第124名 |
+| 年份        | 参与成员                                              | 名称                                                          | 电视台  | 备注                    |
+| --------- | ------------------------------------------------- | ----------------------------------------------------------- | ---- | --------------------- |
+| 2015      | 友琳                                                | [看见你的声音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")   | Mnet | 第七集                   |
+| 2016      | 恩珍                                                | [Produce 101](../Page/PRODUCE_101.md "wikilink")            | Mnet | 因健康问题在第四集离开           |
+| 2016-2017 | [Kpop Star 6](../Page/K-pop_Star_6.md "wikilink") | [SBS](../Page/SBS_\(韓國\).md "wikilink")                     | 前八名  |                       |
+| 2017-2018 | 夏瑩、友琳                                             | [MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink") | JTBC | 夏瑩最終排行第9名、友琳最終排行第124名 |
 
 ### 网络剧
 
-| 年份   | 名称              | 电视台         | 参与成员    | 备注 |
-| ---- | --------------- | ----------- | ------- | -- |
-| 2016 | *Swan*          | Drama Fever | Hayoung | 配角 |
-| 2019 | *ON THE CAMPUS* |             | Hayoung | 配角 |
+| 年份   | 名称   | 电视台   | 参与成员 | 备注 |
+| ---- | ---- | ----- | ---- | -- |
+| 2016 | 天鵝   | 戲劇狂熱者 | 夏瑩   | 配角 |
+| 2019 | 在校園裏 |       | 夏瑩   | 配角 |
 
 ### MV
 
@@ -122,13 +122,13 @@ CAMPUS》。
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>“I Wonder (없을까?)” <small>feat. <a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a></small></p></td>
+<td><p>“I Wonder (我想知道)” <small>feat. <a href="../Page/Eric_Nam.md" title="wikilink">Eric Nam</a></small></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017</p></td>
-<td><p>“Want You To Say(말해줘)”</p></td>
+<td><p>“Want You To Say(想要你說)”</p></td>
 <td><ul>
 <li>舞蹈版[8]</li>
 </ul></td>
@@ -151,7 +151,7 @@ CAMPUS》。
 <tr class="odd">
 <td><p>2015</p></td>
 <td><p>TG E600S 耳机</p></td>
-<td><p>Woolim, Hayoung, Yujin, and Yunji</p></td>
+<td><p>允祉、夏瑩、有真、友琳</p></td>
 <td><p><br />
 </p></td>
 </tr>

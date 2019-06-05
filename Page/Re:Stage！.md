@@ -191,7 +191,7 @@ for Dream」的活動會場中宣布改編為電視動畫\[2\]。
 
 ## 電視動畫
 
-預定2019年播出，標題為《Re:Stage！Dream Days♪》\[20\]。
+預定2019年7月播出，標題為《Re:Stage！Dream Days♪》\[20\]。
 
 ### 製作人員
 
@@ -200,6 +200,11 @@ for Dream」的活動會場中宣布改編為電視動畫\[2\]。
   - 系列構成：team yoree.
   - 角色設計：谷口元浩
   - 動畫製作：[夢太公司](https://zh.wikipedia.org/wiki/夢太公司 "wikilink")×[Graphinica](../Page/Graphinica.md "wikilink")
+
+### 主題曲
+
+  - 片頭曲「Don’t think,\!\!」
+    作詞：高瀨愛虹，作曲、編曲：伊藤翼，主唱：[KiRaRe](https://zh.wikipedia.org/wiki/#KiRaRe "wikilink")
 
 ## 參考資料
 

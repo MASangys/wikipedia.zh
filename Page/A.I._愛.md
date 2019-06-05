@@ -5,15 +5,15 @@
 ## 曲目
 
 1.  沒有眼淚的世界
-2.  A.I. 愛 (第三主打)
+2.  A.I. 愛 （第三主打）
 3.  千秋萬代
-4.  無聲感情 (第五主打)
-5.  Tonight Forever(feat.TFBOYS)
-6.  親愛的 (第四主打)
-7.  奇遇的起點 (第六主打)
+4.  無聲感情 （第五主打）
+5.  Tonight Forever（feat.[TFBOYS](../Page/TFBOYS.md "wikilink")）
+6.  親愛的 （第四主打）
+7.  奇遇的起點 （第六主打）
 8.  Why Don't You Just Love Me
-9.  聽愛（《豆福傳》動畫電影主題曲）(第二主打)
-10. 緣分一道橋(feat.譚維維)（《[長城](https://zh.wikipedia.org/wiki/長城_\(電影\) "wikilink")》電影主題曲）(首波主打)
+9.  聽愛（《[豆福傳](https://zh.wikipedia.org/wiki/豆福傳 "wikilink")》動畫電影主題曲）（第二主打）
+10. 緣分一道橋（feat.[譚維維](https://zh.wikipedia.org/wiki/譚維維 "wikilink")）（電影《[長城](https://zh.wikipedia.org/wiki/長城_\(電影\) "wikilink")》主題曲）（首波主打）
 11. 列王的紛爭
 
 ## 製作
@@ -24,7 +24,7 @@
 
 [Category:2017年音樂專輯](https://zh.wikipedia.org/wiki/Category:2017年音樂專輯 "wikilink")
 [Category:王力宏音樂專輯](https://zh.wikipedia.org/wiki/Category:王力宏音樂專輯 "wikilink")
-[Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
+[Category:台灣流行音樂專輯](https://zh.wikipedia.org/wiki/Category:台灣流行音樂專輯 "wikilink")
 
 1.
 2.

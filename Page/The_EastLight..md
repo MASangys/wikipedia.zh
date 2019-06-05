@@ -1,4 +1,4 @@
-**.**（），韓國Media
+**The EastLight.**（），韓國Media
 Line於2016年所推出的男子樂團，成員包括李碩澈、李恩成、李勝鉉、金埈煜、丁俟江及李宇鎭。歌迷官方名稱為「Sun」。樂隊成員平均年齡15歲，被稱作「天才樂隊」，成員李宇鎭因參加韓國選秀節目《[PRODUCE
 101第二季](https://zh.wikipedia.org/wiki/PRODUCE_101_\(第二季\) "wikilink")》而無法參與第二次回歸活動《[You're
 My Love](https://www.youtube.com/watch?v=CiGrgfoUlqM)》，2018年10月正式解散。
@@ -200,7 +200,7 @@ Music的](../Page/Brand_New_Music.md "wikilink")[林煐岷為最勤奮的練習�
 
 <!-- end list -->
 
-  - [TheEastLight.](http://www.officialeastlight.com/)的官方網頁
+  - [TheEastLight.](https://web.archive.org/web/20180214052926/http://officialeastlight.com/)的官方網頁
 
   -
   -

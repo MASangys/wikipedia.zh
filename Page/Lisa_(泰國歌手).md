@@ -12,7 +12,7 @@ U的現任成員](../Page/NCT.md "wikilink")）隸屬於「We Zaa Cool」\[5\]\[
 ### 2011年－2015年：出道前
 
 Lisa曾隸屬於「We Zaa
-Cool」\[7\]\[8\]，之後在2010年於YG娛樂泰國選拔賽上獲得第一名，成為海選中唯一入選的參賽者，2011年4月進入YG娛樂開始練習生的生涯，而她也是當時該娛樂公司設立以來第一位來自其他國家非韓國人的練習生。\[9\]
+Cool」舞團\[7\]\[8\]，之後在2010年於YG娛樂泰國選拔賽上獲得第一名，成為海選中唯一入選的參賽者，2011年4月進入YG娛樂開始練習生的生涯，而她也是當時該娛樂公司設立以來第一位來自其他國家非韓國人的練習生。\[9\]
 
 在正式出道前，Lisa曾在2012年5月10日首度於官方[YouTube頻道上傳的名為](../Page/YouTube.md "wikilink")「Who's
 That
@@ -36,13 +36,15 @@ One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》\[15\]。
 
 ## 品牌代言
 
-| 年份    | 商品名稱          | 合作藝人                                                                                                                               | 來源     |
-| ----- | ------------- | ---------------------------------------------------------------------------------------------------------------------------------- | ------ |
-| 2014年 | 服飾品牌「Nonagon」 | [B.I](../Page/B.I.md "wikilink")、[BOBBY](../Page/金知元_\(饒舌者\).md "wikilink")（[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")） | \[17\] |
-| 2015年 | \[18\]        |                                                                                                                                    |        |
-| 2016年 | \[19\]        |                                                                                                                                    |        |
-| 2017年 | BOBBY（iKON）   | \[20\]                                                                                                                             |        |
-| 2018年 | \[21\]        |                                                                                                                                    |        |
+| 年份                                                | 種類                                     | 商品名稱                                                                                      | 合作藝人                                                                                                                                          | 來源     |
+| ------------------------------------------------- | -------------------------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| 2014年－至今                                          | 服飾                                     | 「Nonagon」                                                                                 | [B.I](../Page/B.I.md "wikilink")、[BOBBY](../Page/金知元_\(饒舌者\).md "wikilink")（[iKON](https://zh.wikipedia.org/wiki/iKON "wikilink")）2014年－2016年 | \[17\] |
+| \[18\]                                            |                                        |                                                                                           |                                                                                                                                               |        |
+| \[19\]                                            |                                        |                                                                                           |                                                                                                                                               |        |
+| BOBBY（iKON）2017年－至今                               | \[20\]                                 |                                                                                           |                                                                                                                                               |        |
+| \[21\]                                            |                                        |                                                                                           |                                                                                                                                               |        |
+| 2019年                                             | [消費電子產品](../Page/消費電子產品.md "wikilink") | 「[三星](../Page/三星電子.md "wikilink")」，型號「[Galaxy S10](../Page/三星Galaxy_S10.md "wikilink")」系列 | rowspan="2"                                                                                                                                   | \[22\] |
+| [電信](https://zh.wikipedia.org/wiki/電信 "wikilink") | 「[AIS通信](../Page/AIS通信.md "wikilink")」 | \[23\]                                                                                    |                                                                                                                                               |        |
 
 ## 獎項與榮譽
 
@@ -59,20 +61,20 @@ One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》\[15\]。
 <tr class="odd">
 <td><p>2016年</p></td>
 <td><ul>
-<li>TC Candler全球100張最美面孔第41名[22]</li>
+<li>TC Candler全球100張最美面孔第41名[24]</li>
 </ul></td>
 </tr>
 <tr class="even">
 <td><p>2017年</p></td>
 <td><ul>
-<li>年度一百位最美的K-Pop面孔第92名[23]</li>
+<li>年度一百位最美的K-Pop面孔第92名[25]</li>
 <li>TC Candler全球100張最美面孔第15名</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
 <td><ul>
-<li>TC Candler全球100張最美面孔第9名[24]</li>
+<li>TC Candler全球100張最美面孔第9名[26]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -87,7 +89,6 @@ One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》\[15\]。
   -
   -
 [Category:BLACKPINK成員](https://zh.wikipedia.org/wiki/Category:BLACKPINK成員 "wikilink")
-[Category:泰國人](https://zh.wikipedia.org/wiki/Category:泰國人 "wikilink")
 [Category:在韓國的泰國人](https://zh.wikipedia.org/wiki/Category:在韓國的泰國人 "wikilink")
 [Category:泰國女歌手](https://zh.wikipedia.org/wiki/Category:泰國女歌手 "wikilink")
 [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")
@@ -117,3 +118,5 @@ One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》\[15\]。
 22.
 23.
 24.
+25.
+26.

@@ -3,7 +3,8 @@ Junior的第七次巡迴演唱會](../Page/Super_Junior.md "wikilink")，繼2015
 Junior全球巡演《[Super Show
 6](../Page/Super_Show_6.md "wikilink")》後，時隔約兩年五個月的大型演唱會\[1\]。2017年12月15日在首爾揭幕，隨后在新加坡、曼谷、香港、台北等城市舉辦演唱會。
 
-先前為[利特](../Page/利特.md "wikilink")、[希澈](../Page/希澈.md "wikilink")、[藝聲](../Page/藝聲.md "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[始源七人參與該巡迴演唱會](https://zh.wikipedia.org/wiki/始源 "wikilink")，[厲旭和](../Page/厲旭.md "wikilink")[圭賢因為入伍服役](../Page/圭賢.md "wikilink")、[強仁因酒後駕駛自省](../Page/強仁.md "wikilink")、[晟敏因與粉絲溝通不良遭抵制](../Page/晟敏.md "wikilink")，均不參與演唱會的演出\[2\]\[3\]。早期厲旭因入伍，沒參加之前的演唱會，目前退伍後，以八人的方式進行下去，厲旭從2018年11月11日的泰國場開始加入參與演出。
+先前為[利特](../Page/利特.md "wikilink")、[希澈](../Page/希澈.md "wikilink")、[藝聲](../Page/藝聲.md "wikilink")、[神童](../Page/神童_\(藝人\).md "wikilink")、[銀赫](../Page/銀赫.md "wikilink")、[東海](../Page/東海_\(藝人\).md "wikilink")、[始源七人參與該巡迴演唱會](https://zh.wikipedia.org/wiki/始源 "wikilink")，[厲旭和](../Page/厲旭.md "wikilink")[圭賢因為入伍服役](../Page/圭賢.md "wikilink")、[強仁因酒後駕駛自省](../Page/強仁.md "wikilink")、[晟敏因與粉絲溝通不良遭抵制](../Page/晟敏.md "wikilink")，均不參與演唱會的演出\[2\]\[3\]。早期厲旭因入伍，沒參加之前的演唱會，目前退伍後，以八人的方式進行下去，厲旭從2018年11月11日的泰國場開始加入參與演出;圭賢於2019年5月7日退伍後，亦會參與之後的Super
+Show 7S演唱會。
 
 ## 歷史
 

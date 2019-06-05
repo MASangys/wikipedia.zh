@@ -2,6 +2,7 @@
 
 ## 设计
 
+[Nintendo_Switch_Joy-Con_illustration.svg](https://zh.wikipedia.org/wiki/File:Nintendo_Switch_Joy-Con_illustration.svg "fig:Nintendo_Switch_Joy-Con_illustration.svg")
 Joy-Con成对搭配，每对包括左右两只，即“Joy-Con L”和“Joy-Con
 R”。每只大小均为10.2厘米×3.6厘米×2.8厘米，左右手柄重量分别为49克和52克\[1\]。
 
@@ -15,8 +16,6 @@ Joy-Con内置3.7伏、525毫安时、1.9瓦·时的[锂离子聚合物电池](ht
 Joy-Con内置扬声器，可根据状况所需时，发出声音提示玩家。（如：[超级马力欧派对](../Page/超级马力欧派对.md "wikilink")）\[13\]
 
 ### 颜色
-
-[Nintendo_Switch_Joy-Con_illustration.svg](https://zh.wikipedia.org/wiki/File:Nintendo_Switch_Joy-Con_illustration.svg "fig:Nintendo_Switch_Joy-Con_illustration.svg")
 
 Joy-Con有多种配色，可通过主机附带或另行购买的方式获得。顾客除了灰色外，还可选择电光红（L）和电光蓝（R）配色\[14\]。2017年中段，任天堂随《[ARMS](../Page/ARMS_\(游戏\).md "wikilink")》发布了电光黄版Joy-Con，在《[Splatoon
 2](../Page/Splatoon_2.md "wikilink")》首发时推出了电光绿（L）和电光粉红（R）版\[15\]，北美地區发布了电光粉红（L）和电光绿（R）版，2017年10月，随《[超级马里奥

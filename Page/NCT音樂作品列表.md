@@ -82,26 +82,26 @@ Dig.</a><br />
 </tr>
 <tr class="even">
 <td><p>1st</p></td>
-<td><p>{{tsl|en|Regular-Irregular</p></td>
-<td><p>Regular-Irregular}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Regular-Irregular" title="wikilink">Regular-Irregular</a></p></td>
 <td><ul>
 <li>發行日期：2018年10月12日</li>
 <li>廠牌：<a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a>、</li>
 <li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></li>
 </ul></td>
 <td></td>
+<td><p>|</p></td>
 </tr>
 <tr class="odd">
 <td><p>1st<br />
 Repackage</p></td>
-<td><p>{{tsl|en|Regular-Irregular</p></td>
-<td><p>Regulate}}</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Regular-Irregular" title="wikilink">Regulate</a></p></td>
 <td><ul>
 <li>發行日期：2018年11月23日</li>
 <li>廠牌：<a href="../Page/SM娛樂.md" title="wikilink">SM娛樂</a>、</li>
 <li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="../Page/數位音樂下載.md" title="wikilink">數位音樂下載</a></li>
 </ul></td>
 <td></td>
+<td><p>|</p></td>
 </tr>
 <tr class="even">
 <td><p>日語</p></td>
@@ -274,7 +274,7 @@ Repackage</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Chain</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Chain" title="wikilink">Chain</a></p></td>
 <td><ul>
 <li>發行日期：2018年5月23日</li>
 <li>廠牌：<a href="../Page/Avex_trax.md" title="wikilink">愛貝克思</a></li>
@@ -415,7 +415,7 @@ World</a><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/The_7th_Sense" title="wikilink">The 7th Sense</a><br />
+<td><p><a href="../Page/The_7th_Sense.md" title="wikilink">The 7th Sense</a><br />
 <small>（일곱 번째 감각）</small></p></td>
 <td><p>2016</p></td>
 <td><p><small>泰容、道英、Ten、在玹、Mark</small></p></td>
@@ -424,7 +424,7 @@ World</a><br />
 <td><p>2</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Without_You_(NCT_U單曲)" title="wikilink">Without You</a></p></td>
+<td><p><a href="../Page/Without_You_(NCT_U單曲).md" title="wikilink">Without You</a></p></td>
 <td><p><small>韓文版：<br />
 泰一、道英、在玹<br />
 中文版：<br />
@@ -539,7 +539,7 @@ World</a><br />
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Chewing_Gum" title="wikilink">Chewing Gum</a><br />
+<td><p><a href="../Page/Chewing_Gum.md" title="wikilink">Chewing Gum</a><br />
 <small>（泡泡糖）</small></p></td>
 <td><p>2016</p></td>
 <td><p><small>Mark、仁俊、Jeno、楷燦、渽民、辰樂、志晟</small></p></td>
@@ -754,7 +754,7 @@ Inlayer</small></p></td>
 <th><p>電視台</p></th>
 <th><p>歌曲名稱</p></th>
 <th><p>參與成員</p></th>
-<th><p>電視劇</p></th>
+<th><p>電視劇/节目</p></th>
 </tr>
 </thead>
 <tbody>
@@ -843,7 +843,7 @@ Drama X</p></td>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/浙江衛視" title="wikilink">浙江衛視</a></p></td>
 <td><p>造億萬噸光芒</p></td>
-<td><p>Lucas （與<a href="https://zh.wikipedia.org/wiki/李晨" title="wikilink">李晨</a>、<a href="https://zh.wikipedia.org/wiki/楊穎" title="wikilink">楊穎</a>、<a href="https://zh.wikipedia.org/wiki/鄭愷" title="wikilink">鄭愷</a>、<br />
+<td><p>Lucas （與<a href="../Page/李晨_(演员).md" title="wikilink">李晨</a>、<a href="../Page/Angelababy.md" title="wikilink">Angelababy</a>、<a href="https://zh.wikipedia.org/wiki/鄭愷" title="wikilink">鄭愷</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/朱亞文" title="wikilink">朱亞文</a>、<a href="https://zh.wikipedia.org/wiki/王彥霖" title="wikilink">王彥霖</a>、<a href="../Page/宋雨琦.md" title="wikilink">宋雨琦</a>）</p></td>
 <td><p>《<a href="../Page/奔跑吧.md" title="wikilink">奔跑吧3</a> 主題曲》</p>
 <ul>

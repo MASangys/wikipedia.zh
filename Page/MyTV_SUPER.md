@@ -74,47 +74,51 @@ SUPER分別推出基本版（主打TVB主題內容）和內容豐富的至尊版
 <td><p>播放足球賽事</p></td>
 </tr>
 <tr class="even">
-<td><p>Discovery 組合</p></td>
-<td><p>播放紀錄片</p></td>
+<td><p>體通天下組合</p></td>
+<td><p>播放體育賽事</p></td>
 </tr>
 <tr class="odd">
+<td><p>Discovery 組合</p></td>
+<td><p>播放紀錄片及歐洲體育賽事</p></td>
+</tr>
+<tr class="even">
 <td><p><strong>精選服務（僅限點播）</strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TVB外購節目點播組合</p></td>
 <td><p>無綫電視外購節目</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Disney點播組合</p></td>
 <td><p>涵蓋<a href="https://zh.wikipedia.org/wiki/迪士尼" title="wikilink">迪士尼品牌旗下節目</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Ani-One 點播組合[3]</p></td>
 <td><p>日本動漫動畫電影及動漫卡通</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>天映邵氏電影點播組合</p></td>
 <td><p>邵氏經典電影</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>myTV SUPER電影組合</p></td>
 <td><p>功夫、動作、驚慄、愛情、喜劇影片等</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Red Label 點播組合</p></td>
 <td><p>（限制級別）<br />
 韓國限制級電影點播</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>精選服務（僅限直播）</strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Mezzo Live HD</p></td>
 <td><p>古典和爵士音樂</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>精選基本頻道組合</p></td>
 <td><p>訂購任何精選服務附送</p></td>
 </tr>
@@ -126,6 +130,7 @@ SUPER分別推出基本版（主打TVB主題內容）和內容豐富的至尊版
   - 應用程式及網頁版，每月68[港元](../Page/港元.md "wikilink")，或每年480元。
   - 基本版解碼器(租用計劃)，每月68元，或每年780元。
   - 至尊版解碼器，每年1880元。
+  - MyTV Gold解碼器，每月148[港元](../Page/港元.md "wikilink")
 
 ## 節目列表
 
@@ -216,7 +221,8 @@ SUPER分別推出基本版（主打TVB主題內容）和內容豐富的至尊版
 <td><p>2019年4月1日－5月10日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/鐵探" title="wikilink">鐵探</a></p></td>
 <td><p>逢星期一至五21:30-22:30於翡翠台播出<br />
-同日20:00於騰訊視頻同步上架</p></td>
+同日20:00於騰訊視頻同步上架<br />
+5月11日起，於<a href="../Page/Netflix.md" title="wikilink">Netflix全部上架</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1872,11 +1878,20 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 
   - 4月1日，myTV
     Gold推出，Eurosport（305頻道）、動物星球頻道（404頻道）、Discovery頻道（405頻道）、Discovery科學頻道（406頻道）、啟播，beIN
-    Sport 1（301頻道）、beIN Sport 2（302頻道）、beIN Sport MAX（303頻道）再度啟播，beIN
+    Sport 1（301頻道）、beIN Sport 2（302頻道）、beIN Sport MAX（303頻道） 再度啟播，beIN
     Sport 1、beIN Sport 2、beIN Sport MAX加盟beIN
     Sports體育組合，Eurosport、Discovery頻道、動物星球頻道
     、Discovery科學頻道、加盟Discovery頻道組合、myTV
     SUPER荷里活電影組合及高先電影點播組合加盟myTV Gold。
+
+<!-- end list -->
+
+  - 5月6日，體通天下 1 台（306頻道）、體通天下 2 台（307頻道）、體通天下 3 台（308頻道）啟播。
+
+<!-- end list -->
+
+  - 5月31日，[Sony
+    Channel](../Page/Sony_Channel_\(亞洲\).md "wikilink")（503頻道）停播。
 
 ## 頻道列表
 
@@ -2139,34 +2154,58 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 <td><p><a href="http://www.mytvsuper.com/tc/epg/EUS">myTV SUPER節目表</a>／<a href="https://www.eurosport.com/">歐洲體育台官方網站</a></p></td>
 </tr>
 <tr class="even">
+<td><p>306</p></td>
+<td><p><a href="../Page/體通天下.md" title="wikilink">體通天下 1 台</a><br />
+</p></td>
+<td><p>2019年5月6日</p></td>
+<td><p>體通天下組合</p></td>
+<td><p><a href="http://www.mytvsuper.com/tc/epg/SW1">myTV SUPER節目表</a>／<a href="https://www.sports2world.com/">體通天下官方網站</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>307</p></td>
+<td><p><a href="../Page/體通天下.md" title="wikilink">體通天下 2 台</a><br />
+</p></td>
+<td><p><a href="http://www.mytvsuper.com/tc/epg/SW2">myTV SUPER節目表</a>／<a href="https://www.sports2world.com/">體通天下官方網站</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>308</p></td>
+<td><p><a href="../Page/體通天下.md" title="wikilink">體通天下 3 台</a><br />
+</p></td>
+<td><p><a href="http://www.mytvsuper.com/tc/epg/SW3">myTV SUPER節目表</a>／<a href="https://www.sports2world.com/">體通天下官方網站</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>紀實</strong>（4XX）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>401</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/BBC_Earth" title="wikilink">BBC Earth</a></p></td>
 <td><p>2016年11月14日</p></td>
 <td><p>BBC娛樂資訊組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/BBE">myTV SUPER節目表</a>／<a href="http://www.bbcasia.com/channels/earth/">BBC Earth頻道亞洲官方網站</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>402</p></td>
 <td></td>
 <td><p>2019年3月11日</p></td>
 <td><p>基本頻道</p></td>
 <td><p><a href="https://www.mytvsuper.com/tc/epg/LNH">myTV SUPER節目表</a>／<a href="https://tv.lovenature.com/">Love Nature官方網站</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>403</p></td>
 <td></td>
 <td><p>Blue Ant娛樂組合</p></td>
 <td><p><a href="https://www.mytvsuper.com/tc/epg/LN4">myTV SUPER節目表</a>／<a href="https://tv.lovenature.com/">Love Nature官方網站</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>404</p></td>
 <td><p><a href="../Page/動物星球頻道.md" title="wikilink">動物星球頻道</a><br />
 </p></td>
@@ -2174,7 +2213,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 <td><p>Discovery 組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/ANP">myTV SUPER節目表</a>／<a href="http://www.discoverychannel.co.uk/animalplanet/">動物星球頻道官方網站</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>405</p></td>
 <td><p><a href="../Page/探索頻道.md" title="wikilink">Discovery頻道</a><br />
 </p></td>
@@ -2182,7 +2221,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>406</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Discovery科學頻道" title="wikilink">Discovery科學頻道</a><br />
 </p></td>
@@ -2190,14 +2229,14 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>綜藝娛樂</strong>（5XX）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>500</p></td>
 <td><p><a href="../Page/BLUE_ANT_Extreme.md" title="wikilink">BLUE ANT超極娛樂</a><br />
 </p></td>
@@ -2205,7 +2244,7 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 <td><p>BLUE ANT 娛樂組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CRTX">myTV SUPER節目表</a>／</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>501</p></td>
 <td><p><a href="../Page/BLUE_ANT_Entertainment.md" title="wikilink">BLUE ANT綜藝娛樂</a><br />
 </p></td>
@@ -2213,19 +2252,12 @@ SUPER，無綫於2016年5月22日推出以[吳業坤扮演的](../Page/吳業坤
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>502</p></td>
 <td><p><a href="../Page/AXN.md" title="wikilink">AXN</a></p></td>
 <td><p>2016年7月1日上午6:00</p></td>
 <td><p>Sony娛樂組合</p></td>
 <td><p><a href="http://www.mytvsuper.com/tc/epg/CAXN">myTV SUPER節目表</a>／<a href="http://www.axn-asia.com">AXN Asia官方網站</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>503</p></td>
-<td><p><a href="../Page/Sony_Channel_(亞洲).md" title="wikilink">Sony Channel</a></p></td>
-<td><p><a href="http://www.mytvsuper.com/tc/epg/CSEN">myTV SUPER節目表</a>／<a href="http://www.sonychannelasia.com/">Sony Channel亞洲官方網站</a></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>504</p></td>
@@ -2629,6 +2661,14 @@ Travel</p></td>
 <td></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>503</p></td>
+<td><p><a href="../Page/Sony_Channel_(亞洲).md" title="wikilink">Sony Channel</a></p></td>
+<td><p>2016年7月1日上午6:00</p></td>
+<td><p>2019年5月31日晚上11:59</p></td>
+<td><p>Sony娛樂組合</p></td>
+<td><p>索尼影業電視旗下Sony Channel亞洲地區停播</p></td>
 </tr>
 </tbody>
 </table>

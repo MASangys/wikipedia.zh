@@ -1,5 +1,5 @@
 **BLACKPINK音樂作品列表**主要列舉[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[BLACKPINK自](../Page/BLACKPINK.md "wikilink")2016年出道至今所發行的音樂作品。該團體隸屬於[YG娛樂](../Page/YG娛樂.md "wikilink")，以單曲《[Square
-One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》在2016年8月8日正式出道。迄今，BLACKPINK在韓國及日本共發行了4張單曲、3張迷你專輯、1張正規專輯。\[1\]
+One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》在2016年8月8日正式出道。迄今，BLACKPINK在韓國及日本共發行了4張單曲、3張迷你專輯、1張正規專輯\[1\]。
 
 ## 正規專輯
 
@@ -26,9 +26,7 @@ One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》在2016年8月8日
 <li></li>
 </ul>
 <p></ref></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日本告示牌" title="wikilink"><small>Billboard<br />
-Hot<br />
-Albums</small></a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/日本告示牌" title="wikilink">Hot</a><br />
 <ref>告示牌日本熱門專輯榜：</p>
 <ul>
 <li></li>
@@ -79,10 +77,18 @@ Albums</small></a><br />
 <ref>韓國Gaon專輯榜：</p>
 <ul>
 <li></li>
+<li></li>
 </ul>
 <p></ref></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/澳大利亚唱片业协会榜" title="wikilink">AUS</a><br />
 <ref>澳大利亚唱片业协会榜：</p>
+<ul>
+<li></li>
+<li></li>
+</ul>
+<p></ref></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奧地利Ö3四十強音樂榜" title="wikilink">AUT</a><br />
+<ref>奧地利專輯榜：</p>
 <ul>
 <li></li>
 </ul>
@@ -91,42 +97,17 @@ Albums</small></a><br />
 <ref>告示牌加拿大專輯榜：</p>
 <ul>
 <li></li>
-</ul>
-<p></ref></p></td>
-<td><p><a href="../Page/法國唱片出版業公會.md" title="wikilink">FRA</a><br />
-<ref>法國唱片出版業公會專輯榜：</p>
-<ul>
 <li></li>
 </ul>
 <p></ref></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/Oricon公信榜.md" title="wikilink">Oricon</a><br />
-<ref>日本Oricon每週專輯榜：</p>
-<ul>
-<li></li>
-<li></li>
-</ul>
-<p></ref></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日本告示牌" title="wikilink"><small>Billboard<br />
-Hot<br />
-Albums</small></a><br />
-<ref>告示牌日本熱門專輯榜：</p>
-<ul>
-<li></li>
-<li></li>
-</ul>
-<p></ref></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>韓國</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Square_Up_(迷你專輯)" title="wikilink">Square Up</a></p></td>
 <td><ul>
 <li>發行日期：2018年6月15日</li>
@@ -137,40 +118,31 @@ Albums</small></a><br />
 <td><p>61<br />
 </p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Kill_This_Love.md" title="wikilink">Kill This Love</a></p></td>
 <td><ul>
 <li>發行日期：2019年4月5日</li>
 <li>廠牌：YG娛樂、Genie音樂、<a href="../Page/新視鏡唱片.md" title="wikilink">新視鏡唱片</a></li>
 <li>格式：CD、數位音樂下載</li>
 </ul></td>
-<td></td>
-<td></td>
+<td><p>3</p></td>
+<td><p>18</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>日本</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Blackpink_(迷你專輯).md" title="wikilink">Blackpink</a></p></td>
 <td><ul>
 <li>發行日期：2017年8月30日</li>
-<li>廠牌：YGEX</li>
-<li>格式：CD、DVD、數位音樂下載、PlayButton</li>
-</ul></td>
-<td><p>—</p></td>
-<td><p>—</p></td>
-</tr>
-<tr class="even">
-<td><ul>
 <li>改版發行日期：2018年3月28日《<a href="../Page/Re:_Blackpink.md" title="wikilink">Re: Blackpink</a>》</li>
 <li>語言：日語</li>
 <li>廠牌：YGEX</li>
 <li>格式：CD、DVD、數位音樂下載、PlayButton</li>
 </ul></td>
-<td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 </tr>
@@ -259,31 +231,18 @@ Albums</small></a><br />
 <ref>加拿大百強單曲榜：</p>
 <ul>
 <li></li>
-<li></li>
-<li></li>
 </ul>
 <p></ref></p></td>
-<td><p><a href="../Page/QQ音乐.md" title="wikilink">CHN</a><br />
-<ref>中國QQ音樂排行榜：</p>
-<ul>
-<li></li>
-<li></li>
-<li></li>
-<li></li>
-</ul>
-<p></ref></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/芬蘭官方榜單" title="wikilink">FIN</a><br />
-<ref>芬蘭官方榜單：</p>
-<ul>
-<li></li>
-<li></li>
-<li><p></ref></p></li>
-</ul></td>
 <td><p><a href="../Page/法國唱片出版業公會.md" title="wikilink">FRA</a><br />
 <ref>法國唱片出版業公會音樂排行榜：</p>
 <ul>
 <li></li>
-<li></li>
+</ul>
+<p></ref></p></td>
+<td><p>JPN</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐西蘭唱片音樂協會" title="wikilink">NZ</a><br />
+<ref>紐西蘭40大單曲榜：</p>
+<ul>
 <li></li>
 </ul>
 <p></ref></p></td>
@@ -296,12 +255,12 @@ Albums</small></a><br />
 <li></li>
 <li></li>
 <li></li>
+<li></li>
 </ul>
 <p></ref></p></td>
 <td><p><br />
-<ref>告示牌韓國流行音樂百大單曲排行榜：</p>
+<ref name="K-pop Hot 100">告示牌韓國流行音樂百大單曲排行榜：</p>
 <ul>
-<li></li>
 <li></li>
 </ul>
 <p></ref></p></td>
@@ -311,14 +270,9 @@ Albums</small></a><br />
 <li></li>
 </ul>
 <p></ref></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日本熱門100金曲榜" title="wikilink">JPN<br />
-Hot<br />
-100</a><br />
-<ref>日本熱門100金曲榜：</p>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本熱門100金曲榜" title="wikilink">Hot</a><br />
+<ref name="Billboard Japan Hot 100">日本熱門100金曲榜：</p>
 <ul>
-<li></li>
-<li></li>
-<li></li>
 <li></li>
 </ul>
 <p></ref></p></td>
@@ -342,22 +296,22 @@ Hot<br />
 <td><p><a href="https://zh.wikipedia.org/wiki/口哨_(BLACKPINK歌曲)" title="wikilink">口哨</a></p></td>
 <td><p>1</p></td>
 <td><p>—</p></td>
-<td><p>12</p></td>
-<td><p>24</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Playing_with_Fire_(BLACKPINK歌曲)" title="wikilink">Playing with Fire</a></p></td>
 <td><p>3</p></td>
 <td><p>31</p></td>
 <td><p>92</p></td>
-<td><p>17</p></td>
+<td><p>—</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Stay_(BLACKPINK歌曲)" title="wikilink">Stay</a></p></td>
 <td><p>10</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
-<td><p>48</p></td>
+<td><p>—</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/As_If_It&#39;s_Your_Last.md" title="wikilink">As If It's Your Last</a></p></td>
@@ -374,20 +328,27 @@ Hot<br />
 <td><p>22</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Kill_This_Love_(歌曲)" title="wikilink">Kill This Love</a></p></td>
+<td><p>2019</p></td>
+<td><p>2</p></td>
+<td><p>2</p></td>
+<td><p>11</p></td>
+</tr>
+<tr class="odd">
 <td><p>日本</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Ddu-Du_Ddu-Du_(日本單曲).md" title="wikilink">Ddu-Du Ddu-Du</a></p></td>
 <td><p>2018</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><small>"—" 表示該單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>
@@ -419,24 +380,12 @@ Hot<br />
 <li></li>
 </ul>
 <p></ref></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日本熱門100金曲榜" title="wikilink">JPN<br />
-Hot<br />
-100</a><br />
-<ref>日本熱門100金曲榜：</p>
-<ul>
-<li></li>
-</ul>
-<p></ref></p></td>
-<td><p><a href="../Page/新西兰官方音乐榜.md" title="wikilink">NZ<br />
-Heat.</a><br />
-<ref>紐西蘭最佳熱門發現歌曲榜：</p>
-<ul>
-<li></li>
-</ul>
-<p></ref></p></td>
+<td><p>JPN</p></td>
+<td><p>NZ</p></td>
 <td><p><a href="../Page/告示牌榜單.md" title="wikilink">US World</a><br />
 <ref>美國告示牌世界數位單曲銷售排行榜：</p>
 <ul>
+<li></li>
 <li></li>
 </ul>
 <p></ref></p></td>
@@ -447,16 +396,20 @@ Heat.</a><br />
 <ul>
 <li></li>
 <li></li>
-</ul>
-<p></ref></p></td>
-<td><p><br />
-<ref>告示牌韓國流行音樂百大單曲排行榜：</p>
-<ul>
 <li></li>
 </ul>
 <p></ref></p></td>
-<td></td>
-<td></td>
+<td><p><br />
+</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/日本熱門100金曲榜" title="wikilink">Hot</a><br />
+</p></td>
+<td><p><a href="../Page/新西兰官方音乐榜.md" title="wikilink">Hot</a><br />
+<ref>紐西蘭40大熱門單曲榜：</p>
+<ul>
+<li></li>
+<li></li>
+</ul>
+<p></ref></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -467,7 +420,7 @@ Heat.</a><br />
 <td><p>245</p></td>
 </tr>
 <tr class="even">
-<td><p>Forever Young</p></td>
+<td></td>
 <td><p>2018</p></td>
 <td><p>2</p></td>
 <td><p>2</p></td>
@@ -488,6 +441,27 @@ Heat.</a><br />
 <td><p>—</p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>2019</p></td>
+<td><p>38</p></td>
+<td><p>9</p></td>
+<td><p>—</p></td>
+</tr>
+<tr class="even">
+<td><p>Kick It</p></td>
+<td><p>90</p></td>
+<td><p>89</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+</tr>
+<tr class="odd">
+<td><p>Hope Not</p></td>
+<td><p>108</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+<td><p>—</p></td>
+</tr>
+<tr class="even">
 <td><p><small>"—" 表示該單曲未有在榜上排名或未有資料或沒有在當地發行</small></p></td>
 <td></td>
 <td></td>

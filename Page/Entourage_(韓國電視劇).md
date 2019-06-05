@@ -737,7 +737,7 @@
 <tr class="even">
 <td><p><a href="../Page/朱利安·姜.md" title="wikilink">朱利安·姜</a></p></td>
 <td><p>朱利安·姜</p></td>
-<td></td>
+<td><p>和車俊出演綜藝節目。</p></td>
 <td></td>
 </tr>
 <tr class="odd">

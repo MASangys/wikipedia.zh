@@ -1,10 +1,10 @@
 **Lovelyz Diary**（韓語：러블리즈
 다이어리）是一系列由[韓國女子團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Lovelyz出演的](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")[綜藝及](https://zh.wikipedia.org/wiki/綜藝 "wikilink")[真人秀節目](https://zh.wikipedia.org/wiki/真人秀 "wikilink")。節目中將展現[Lovelyz各種不同的各種面貌](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")。
 
-## 第一季 （Lovelyz Diary 1）
+## 第一季 （Lovelyz Diary）
 
 第一季於2014年11月18日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-TVcast播出，主軸為[Lovelyz從練習生生活](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，到準備出道Showcase的日常生活。
+TVcast播出，主軸為[Lovelyz從練習生生活](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，到準備出道Showcase的日常生活\[1\]。
 
 |    |             |                                     |
 | -- | ----------- | ----------------------------------- |
@@ -18,11 +18,10 @@ TVcast播出，主軸為[Lovelyz從練習生生活](https://zh.wikipedia.org/wik
 | 7  | 2014年12月9日  | Before Girls' Invasion              |
 | 8  | 2014年12月12日 | ‘LOVELYZ’데뷔 5초 전\!（‘LOVELYZ’出道前5秒！） |
 
-## 第二季 （Lovelyz Diary 2）
+## 第二季 （Lovelyz Diary Season 2）
 
 第二季於2015年3月6日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V
-app播出，主軸為第一張專輯改版《[Hi\~](../Page/Hi~.md "wikilink")》回歸期間，[Lovelyz展現的魅力](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")。
+TVcast播出，主軸為第一張專輯改版《[Hi\~](../Page/Hi~.md "wikilink")》回歸期間，[Lovelyz展現的魅力](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")\[2\]。
 
 <table>
 <tbody>
@@ -75,11 +74,10 @@ app播出，主軸為第一張專輯改版《[Hi\~](../Page/Hi~.md "wikilink")�
 </tbody>
 </table>
 
-## 第三季 （Lovelyz Diary 3）
+## 第三季 （Lovelyz Diary Season 3）
 
 第三季於2015年9月22日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
-V
-app播出，主軸為第一張迷你專輯《Lovelyz8》的過程與成員的小故事；成員[智秀恢復演藝活動](../Page/徐智秀.md "wikilink")，回歸Lovelyz。\[1\]
+TVcast播出，主軸為第一張迷你專輯《Lovelyz8》的過程與成員的小故事；成員[智秀恢復演藝活動](../Page/徐智秀.md "wikilink")，回歸Lovelyz\[3\]\[4\]\[5\]。
 
 |    |             |                               |
 | -- | ----------- | ----------------------------- |
@@ -93,11 +91,11 @@ app播出，主軸為第一張迷你專輯《Lovelyz8》的過程與成員的小
 | 7  | 2015年10月13日 | 第三視角的LOVELYZ                  |
 | 8  | 2015年10月15日 | LOVELYZ 的神秘朋友公開               |
 
-## 第四季 （Lovelyz Diary 4）
+## 第四季 （Lovelyz Diary Season 4）
 
 第四季於2016年4月28日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
 V
-app播出，主軸為以分組競賽模式，展現[Lovelyz成員個人的風格](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")。
+app播出，主軸為以分組競賽模式，展現[Lovelyz成員個人的風格](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")\[6\]。
 
 <table>
 <tbody>
@@ -182,38 +180,40 @@ LYZ隊：Baby Soul、智愛、Kei、洙正</p></td>
 </tbody>
 </table>
 
-## 第五季 （Lovelyz Diary 5）
+## 第五季 （Lovelyz Diary Season 5）
 
 第五季於2017年11月21日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
 V
-app播出，主軸為如果成员们没有成为[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，前往平行宇宙后会以什么模样进行生活。
+app播出，主軸為另一个世界的自己，如果成员们没有成为[Lovelyz](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")，前往平行宇宙后会如何进行生活\[7\]。
 
-|    |             |    |
-| -- | ----------- | -- |
-| 集數 | 播出日期        | 主題 |
-| 1  | 2017年11月21日 |    |
-| 2  | 2017年11月28日 |    |
-| 3  | 2017年12月5日  |    |
-| 4  | 2017年12月12日 |    |
-| 5  | 2017年12月26日 |    |
-| 6  | 2018年1月2日   |    |
-| 7  | 2018年1月9日   |    |
-| 8  | 2018年1月16日  |    |
+|    |             |                     |
+| -- | ----------- | ------------------- |
+| 集數 | 播出日期        | 参与成员                |
+| 1  | 2017年11月21日 | 全体                  |
+| 2  | 2017年11月28日 | Baby Soul、智秀        |
+| 3  | 2017年12月5日  | Baby Soul、智爱、智秀、Kei |
+| 4  | 2017年12月12日 | 智爱、美珠、Kei、Jin       |
+| 5  | 2017年12月26日 | 美珠、Jin              |
+| 6  | 2018年1月2日   | Baby Soul、美珠、洙正、叡仁  |
+| 7  | 2018年1月9日   | 全体                  |
+| 8  | 2018年1月16日  |                     |
 
-## 第六季 （Lovelyz Diary 6）
+## 第六季 （Lovelyz Diary Season 6）
 
 第六季於2019年5月9日起，在[Naver](https://zh.wikipedia.org/wiki/Naver "wikilink")
 V
-app播出，主軸為[Lovelyz之任务地狱](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")。
+app播出，主軸為[Lovelyz之任务地狱](https://zh.wikipedia.org/wiki/Lovelyz "wikilink")\[8\]。
 
-|    |           |    |
-| -- | --------- | -- |
-| 集數 | 播出日期      | 主題 |
-| 1  | 2019年5月9日 |    |
+|    |            |    |
+| -- | ---------- | -- |
+| 集數 | 播出日期       | 主題 |
+| 1  | 2019年5月9日  |    |
+| 2  | 2019年5月16日 |    |
+| 3  | 2019年5月23日 |    |
 
 ## 特別篇
 
-### 第四▪五季 （Lovelyz Diary 4.5）
+### 第四▪五季 （Lovelyz Diary Season 4.5）
 
 第四▪五季於2017年7月28和29日两天，在演唱会Alwayz播出，主軸為Lovelyz Diary回忆篇。
 
@@ -223,6 +223,8 @@ app播出，主軸為[Lovelyz之任务地狱](https://zh.wikipedia.org/wiki/Love
 | 1  | 2017年7月28和29日 | 回顾LD、Acapella和练习生时练习舞蹈的歌曲PLAY |
 | 2  | 前往LD的回忆地点拍照   |                               |
 
+## 參考資料
+
 ## 外部連結
 
   - [V APP專屬頻道](https://channels.vlive.tv/FB183)
@@ -230,4 +232,15 @@ app播出，主軸為[Lovelyz之任务地狱](https://zh.wikipedia.org/wiki/Love
 [Category:Lovelyz](https://zh.wikipedia.org/wiki/Category:Lovelyz "wikilink")
 [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")
 
-1.
+1.  ["LOVELYZ DIARY"
+    Preview](https://www.youtube.com/watch?v=gXZNMZxBvPE)
+2.  ["LOVELYZ DIARY" SEASON 2
+    Prologue](https://www.youtube.com/watch?v=-MQg1pTXBa0)
+3.  ["LOVELYZ DIARY 3" Teaser 1](https://tv.naver.com/v/528663)
+4.  ["LOVELYZ DIARY 3" Teaser 2](https://tv.naver.com/v/531616)
+5.
+6.  [Lovelyz Diary Season4 Teaser](https://www.vlive.tv/video/7518)
+7.  ['러블리즈 다이어리 시즌5' 예고편 ('Lovelyz Diary Season 5'
+    Teaser)](https://www.vlive.tv/video/48625)
+8.  ['러블리즈 다이어리 시즌6' 예고편 ('Lovelyz Diary Season 6'
+    Teaser)](https://www.vlive.tv/video/126687)

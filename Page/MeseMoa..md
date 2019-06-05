@@ -274,19 +274,22 @@ BOY比賽中獲得評審特別獎](../Page/JUNON_SUPER_BOY.md "wikilink")\[3\]�
   - **4月29日，MeseMoa.名義的首張專輯『Secret』發售。**
   - 5月1日，原成員Zeararu.以原名『篠原裕之』創立經紀唱片公司株式會社DD，並將MeseMoa.隸屬旗下。
   - **8月26日，首張單曲『Muddy Water』發售。**
-  - **12月31日，第2張單曲『New Sunshine』發售。**
+  - **12月31日，第二張單曲『New Sunshine』發售。**
 
 ### 2018年
 
-  - **5月3日，第3張單曲『Flower Wind』發售。**同日，開始舉行『全国TOUR2018「Maze No.9」第一弾』
+  - **5月3日，第三張單曲『Flower Wind』發售。**同日，開始舉行『全国TOUR2018「Maze No.9」第一弾』
   - 5月19日，受邀前往德國漫展DoKoMi(ドコミ)
   - 7月29日，開始舉行『全国TOUR 2018「Maze No.9」第二弾』
-  - **8月25日，第4張單曲『大逆転ディーラー』發售。**
+  - **8月25日，第四張單曲『大逆転ディーラー』發售。**
   - 12月24日，在Tokyo Dome City Hall舉行『MeseMoa.全国TOUR 2018「Maze No.9」Final』
 
 ### 2019年
 
   - **1月29日，第二張專輯『It's Showtime』發售**
+  - '''4月26日，第五張單曲『平成パラダイムチェンジ』發售
+  - 4月27，28日，出演「ニコニコ超会議2019」，並由浮躁王子擔當超舞蹈比賽2019中的評審
+  - 4月26日\~28,30日，5月4日\~6日，出演肉fes2019與餃子fes2019
   - 6月8日，受邀前往德國漫展DoKoMi(ドコミ)
 
 ## 特徵
@@ -637,6 +640,39 @@ CD+DVD</p></td>
 </tbody>
 </table>
 
+### 電影
+
+<table>
+<thead>
+<tr class="header">
+<th><p>日期</p></th>
+<th><p>電影標題</p></th>
+<th><p>角色</p></th>
+<th><p>參與成員</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2017年7月22日</p></td>
+<td></td>
+<td><p>川西雅也</p></td>
+<td><p>AOI</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年7月28日</p></td>
+<td></td>
+<td><p>加藤誠一</p></td>
+<td><p>白服</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ### 動畫
 
 <table>
@@ -708,7 +744,8 @@ CD+DVD</p></td>
 
   - MeseMoa.[官方Youtube頻道](https://www.youtube.com/channel/UC6454ctklRFUiE6CMzuw0hQ)
 
-  - MeseMoa.[Fan Club M＋](https://musumen-fc.jp/)
+  - MeseMoa.[Fan Club
+    M＋](https://web.archive.org/web/20160217162303/https://musumen-fc.jp/)
 
   - MeseMoa.官方[LINE部落格](http://lineblog.me/musumen/)
 

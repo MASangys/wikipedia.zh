@@ -78,7 +78,8 @@
   - 2017年9月29日 D.C.III DreamDays～ダ・カーポIII～ドリームデイズ
   - 2018年4月27日 [てんぷれっ\!\!](../Page/Tenpure!!.md "wikilink")
   - 2018年11月30日 スペースライブ
-  - 2019年5月31日 D.C.4 ～ダ・カーポ4～
+  - 2019年5月31日 [D.C.4
+    ～ダ・カーポ4～](https://zh.wikipedia.org/wiki/初音島4 "wikilink")
 
 ### CIRCUS FETISH
 

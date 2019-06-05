@@ -429,12 +429,12 @@ PlotData =
 7.  [DR Music 否認 Joy 退隊](http://kpopn.com/2012/06/17/128676/)
 8.  [Has Joy Left
     RaNia?](https://wowkpop.wordpress.com/2012/04/04/has-joy-left-rania/)
-9.  [RaNia 回歸延遲至九月中旬](http://kpopn.com/2012/09/03/141555/)
+9.
 10. [1](http://www.allkpop.com/2012/09/yang-hyun-suk-revealed-to-be-the-producer-behind-ranias-comeback)
 11. <http://www.allkpop.com/2012/10/rania-confirms-american-advancement/>
 12.
 13. <http://cafe.daum.net/1248>.
-14. <http://kpopn.com/2013/07/05/183513/> RaNia 2週年特別單曲 UP
+14. <http://kpopn.com/2013/07/05/183513/>  RaNia 2週年特別單曲 UP
 15.
 16.
 17. [2014年7月至10月期間以珠伊、Di、T-ae、Xia、Sharon五名成員方式活動的RANIA](http://67.media.tumblr.com/e511da209668f9866fcbaac293af10f0/tumblr_o7u5ffOg171sq377wo2_1280.jpg)
@@ -481,5 +481,5 @@ PlotData =
 46. [For those asking here is a sketch of the light stick that Dr Music
     approved](http://twitter.com/A1STSherlock/status/772165761808859136)
 47. [**이나**在新浪微博上正名](http://tw.weibo.com/5623157712)
-48. 退出後，曾以本名加入OMYJEWEL
+48. 退出後，曾以本名加入[O My Jewel](../Page/O_My_Jewel.md "wikilink")
 49. [Alex在8月15日發布的Twitter貼文](http://twitter.com/thealexreid/status/764879171663241217)

@@ -56,7 +56,7 @@ EHI、商业信息服务，以及商業出版集团和[道琼斯出版集团等]
     Deutsche Startups
 
 7.  [Best
-    Databases 2014](http://reviews.libraryjournal.com/2014/11/reference/best-databases-2014/),
-    Library Journal
+    Databases 2014](http://reviews.libraryjournal.com/2014/11/reference/best-databases-2014/)
+    , Library Journal
 
 8.

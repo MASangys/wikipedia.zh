@@ -14,11 +14,10 @@
   - <http://www.nytimes.com/1997/08/08/us/peter-carruthers-61-physicist.html>
   - <http://library.web.cern.ch/library/archives/biographies/Carruthers_PA-199711.pdf>
 
-[Category:1935年出生](https://zh.wikipedia.org/wiki/Category:1935年出生 "wikilink")
-[Category:1997年逝世](https://zh.wikipedia.org/wiki/Category:1997年逝世 "wikilink")
 [Category:美国物理学家](https://zh.wikipedia.org/wiki/Category:美国物理学家 "wikilink")
 [Category:卡內基美隆大學校友](https://zh.wikipedia.org/wiki/Category:卡內基美隆大學校友 "wikilink")
 [Category:康乃爾大學校友](https://zh.wikipedia.org/wiki/Category:康乃爾大學校友 "wikilink")
 [Category:康乃爾大學教師](https://zh.wikipedia.org/wiki/Category:康乃爾大學教師 "wikilink")
 [Category:理论物理学家](https://zh.wikipedia.org/wiki/Category:理论物理学家 "wikilink")
 [Category:亞利桑那大學教師](https://zh.wikipedia.org/wiki/Category:亞利桑那大學教師 "wikilink")
+[Category:圣菲研究所人物](https://zh.wikipedia.org/wiki/Category:圣菲研究所人物 "wikilink")

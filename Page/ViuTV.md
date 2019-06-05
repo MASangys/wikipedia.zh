@@ -119,10 +119,8 @@ ViuTV於開台一周年當日（2017年4月6日）
 
 ### 吉祥物亮相
 
-2017年10月9日，ViuTV於《[ViuTV
-2018節目巡禮](https://zh.wikipedia.org/wiki/ViuTV_2018節目巡禮 "wikilink")》公佈白熊吉祥物「Sound
-Bear」，「Sound
-Bear」的角色設定為ViuTV員工，並經常亮相於ViuTV的各大平台，員工編號為：ViuTV0001。\[10\]\[11\]「Sound
+2017年10月9日，ViuTV於《》節目巡禮公佈白熊吉祥物「Sound Bear」，「Sound
+Bear」的角色設定為ViuTV員工，並經常亮相於ViuTV的各大台，員工編號為：ViuTV0001。\[10\]\[11\]「Sound
 Bear」正式亮相前，其白熊的身份一度被誤會為[毛記電視的吉祥物](../Page/毛記電視.md "wikilink")「Tvmost
 Buddy」。\[12\]
 
@@ -130,7 +128,7 @@ Buddy」。\[12\]
 
 2017年10月9日，ViuTV於節目巡禮《》公佈「實況娛樂」系列節目改革為全新旗艦品牌節目《Good Night
 Show》，首個節目《[Good Night Show
-全民星戰](../Page/Good_Night_Show_全民星戰.md "wikilink")》於2018年4月播放。\[13\]
+全民星戰](../Page/Good_Night_Show_全民星戰.md "wikilink")》於2018年4月播放，直到2019年4月ViuTV重組黃金時段節目後結束。\[13\]
 
 ## 爭議事件
 
@@ -164,11 +162,11 @@ ViuTV一系列的消閒資訊節目在逢星期一至星期五中午播放，週
 
 ### 劇集
 
-ViuTV於每日黃金時段只會播映「兩線劇」，主要為[韓劇](https://zh.wikipedia.org/wiki/韓劇 "wikilink")、[台劇及](https://zh.wikipedia.org/wiki/台劇 "wikilink")[日劇](https://zh.wikipedia.org/wiki/日劇 "wikilink")。在非黃金時段，亦會播放其他外購亞洲劇集（如[泰劇和少量](https://zh.wikipedia.org/wiki/泰劇 "wikilink")[中國電視劇](https://zh.wikipedia.org/wiki/中國電視劇 "wikilink")）。
+ViuTV現時於星期一至五黃金時段播映「四線劇」，主要為[韓劇](https://zh.wikipedia.org/wiki/韓劇 "wikilink")、[日劇及自家製作劇集](https://zh.wikipedia.org/wiki/日劇 "wikilink")。在非黃金時段，亦會重播其他外購亞洲劇集（如[泰劇](https://zh.wikipedia.org/wiki/泰劇 "wikilink")、[台劇和少量](https://zh.wikipedia.org/wiki/台劇 "wikilink")[中國電視劇](https://zh.wikipedia.org/wiki/中國電視劇 "wikilink")）。
 
 而開台初期另外在星期一、二晚上播放自製實況劇集，首套播放的自製劇集為《[瑪嘉烈與大衛系列
 綠豆](../Page/瑪嘉烈與大衛系列_綠豆.md "wikilink")》。雖然ViuTV曾於2017年節目巡禮表示會增加自製劇時段至每星期五天，惟自2017年1月31日播畢《[三一如三](../Page/三一如三.md "wikilink")》後，仍未有安排自製劇接檔，意味ViuTV自2017年2月開始暫時取消自製劇時段。直至同年4月3日，有關時段改為星期一至五21:30-22:00播出，於5月暫停四星期並改為播放20套鮮浪潮電影，5月29日起繼續播放自製劇。10月16日起，ViuTV再度暫時取消自製劇時段，並將該時段併入韓劇時段，即還原開臺至2017年3月期間播映1.5小時韓劇的安排。於2018年3月至4月，曾於星期一至五22:00-22:30播放《[VR驅魔人](https://zh.wikipedia.org/wiki/VR驅魔人 "wikilink")》，但及後因世界盃而再度暫停自製劇時段。直至7月16日起，逢星期一至五23:30-00:00繼續播放自製劇集《[Plan
-B](https://zh.wikipedia.org/wiki/Plan_B "wikilink")》。
+B](https://zh.wikipedia.org/wiki/Plan_B "wikilink")》。由2019年4月29日起，自製劇集改為逢星期一至五21:30-22:00、22:00-22:30連續播放兩綫時長三十分鐘劇集《[婚内情](https://zh.wikipedia.org/wiki/婚内情 "wikilink")》及《[詭探前傳](https://zh.wikipedia.org/wiki/詭探前傳 "wikilink")》。
 
 ### 新聞及財經
 
@@ -199,7 +197,8 @@ ViuTV自製音樂節目《[粤詞越愛](https://zh.wikipedia.org/wiki/粤詞越
 
 ### 體育
 
-ViuTV現時於星期一至五晚間時段播放體育娛樂節目《[體育係…300](../Page/體育係….md "wikilink")》。ViuTV亦會不定時直播一些大型體育賽事([無綫財經·資訊台及](../Page/無綫財經·資訊台.md "wikilink")[香港開電視亦有同樣安排](../Page/香港開電視.md "wikilink"))，如每月一場的[西班牙甲組足球聯賽等](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")，但於2017年9月9日起改由96台[ViuTVsix現場直播](../Page/ViuTVsix.md "wikilink")。另外，ViuTV逢星期六會播放由[now寬頻電視體育平台製作的體育節目精選](https://zh.wikipedia.org/wiki/now寬頻電視體育平台 "wikilink")，逢星期二晚上播放[英格蘭足球超級聯賽精華節目](https://zh.wikipedia.org/wiki/英格蘭足球超級聯賽 "wikilink")《英超精華》。
+ViuTV會不定時直播一些大型體育賽事（[無綫財經·資訊台及](../Page/無綫財經·資訊台.md "wikilink")[香港開電視亦有同樣安排](../Page/香港開電視.md "wikilink")），如每月一場的[西班牙甲組足球聯賽等](https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽 "wikilink")
+。
 
 ViuTV首個直播的大型體育比賽為2016年[香港國際七人欖球賽](../Page/香港國際七人欖球賽.md "wikilink")。
 

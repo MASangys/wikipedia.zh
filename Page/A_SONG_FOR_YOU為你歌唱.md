@@ -216,5 +216,4 @@
 [Category:觀眾參與節目](https://zh.wikipedia.org/wiki/Category:觀眾參與節目 "wikilink")
 [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
 
-1.  [어송포유
-    시즌 4](https://www.viki.com/tv/28421c-a-song-for-you-season-4?locale=ko)
+1.

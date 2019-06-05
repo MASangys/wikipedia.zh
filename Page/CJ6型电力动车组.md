@@ -33,21 +33,13 @@
 [CJ6_在海南环.jpg](https://zh.wikipedia.org/wiki/File:CJ6_在海南环.jpg "fig:CJ6_在海南环.jpg")在[海口站](../Page/海口站.md "wikilink")\]\]
 目前，CJ6型动车组尚未投入正式运营，正在[海南環島鐵路进行试验](https://zh.wikipedia.org/wiki/海南環島鐵路 "wikilink")，並配屬三亞動車所\[5\]。
 
-预计CJ6型首批将制造十列，全数投入[长株潭城际铁路](../Page/长株潭城际铁路.md "wikilink")\[6\]。
-
 ## 参考资料
 
 [Category:中国电力动车组](https://zh.wikipedia.org/wiki/Category:中国电力动车组 "wikilink")
 [Category:中车株机制铁路车辆](https://zh.wikipedia.org/wiki/Category:中车株机制铁路车辆 "wikilink")
 
 1.
-
 2.
-
 3.
-
 4.
-
 5.  [中國動車組-CJ6型動車組](https://www.china-emu.cn/EMUs/Series/?detail-92-31-16.html)
-
-6.

@@ -79,8 +79,8 @@ WOMAN](../Page/RICH_MAN,_POOR_WOMAN.md "wikilink")》，講述一個患有面盲
 <tr class="odd">
 <td><p>朴賢宇</p></td>
 <td><p>Michael</p></td>
-<td><p>align=left</p></td>
-<td><p>|</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>

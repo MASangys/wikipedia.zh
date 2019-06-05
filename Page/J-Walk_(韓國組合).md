@@ -370,13 +370,13 @@ LOVE」\[35\]，為組合自轉投[YG娛樂後首個粉絲見面會](../Page/YG�
 <td><p>最佳男子組合</p></td>
 <td><p>J-Walk</p></td>
 <td></td>
-<td><p><ref>{{cite web|url=<a href="http://mwave.interest.me/mnettv/videodetail.m?searchVideoDetailVO.clip_id=6490%7Ctitle=2002">http://mwave.interest.me/mnettv/videodetail.m?searchVideoDetailVO.clip_id=6490|title=2002</a> MMF part 1</p></td>
+<td><p>[38]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/SBS歌謠大戰.md" title="wikilink">SBS歌謠大戰</a></p></td>
 <td><p>人氣獎</p></td>
 <td></td>
-<td><p>[38]</p></td>
+<td><p>[39]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -471,3 +471,5 @@ LOVE」\[35\]，為組合自轉投[YG娛樂後首個粉絲見面會](../Page/YG�
 
 37.
 38.
+
+39.

@@ -8,10 +8,12 @@ Strut」歷年作品集，首支派台歌《親親你面頰》最高曾登上[�
 [藍調結他手藍調人於](../Page/藍調.md "wikilink")2005年經朋友介紹而認識[龐克搖滾結他手K](https://zh.wikipedia.org/wiki/龐克搖滾 "wikilink")13，後來發現彼此都喜歡美式[次文化和山地搖滾音樂](../Page/次文化.md "wikilink")，尤其是美國樂隊Stray
 Cats和The Brian Setzer Orchestra，因而於2009年一同創立「Dirty
 Boogie」，開始販賣山地搖滾服飾及每年舉辦山地搖滾音樂會。同年K13亦於網上認識到身為電單車隊S.R.B.C.的創立人，人稱「隊長」的Felix，趁著[菲律賓山地搖滾樂團The](https://zh.wikipedia.org/wiki/菲律賓 "wikilink")
-Bembol
-Rockers來港演出，眾人相約出來觀看兼作初次見面。藍調人在朋友介紹下認識到香港知名龐克搖滾樂團[高潮樂隊的鼓手Barry](https://zh.wikipedia.org/wiki/高潮樂隊 "wikilink")，四人後來相約到Barry的[錄音室聚會](https://zh.wikipedia.org/wiki/錄音室 "wikilink")，分享各自對美式次文化和山地搖滾的珍藏，此時他們決定要成立一支山地搖滾樂團。藍調人因為憧憬低音提琴已久，毅然決定在新樂團中彈奏這種他從未接觸過的樂器。自2009年組成後他們主要以自娛為主作練習及創作，直到2013年才正式命名為The
+Bembol Rockers來港演出，眾人相約出來觀看兼作初次見面。Dirty
+Boogie在朋友介紹下認識到香港知名龐克搖滾樂團[高潮樂隊的鼓手Barry](https://zh.wikipedia.org/wiki/高潮樂隊 "wikilink")，四人後來相約到Barry的[錄音室聚會](https://zh.wikipedia.org/wiki/錄音室 "wikilink")，分享各自對美式次文化和山地搖滾的珍藏，此時他們決定要成立一支山地搖滾樂團。自2009年組成後他們主要以自娛為主作練習及創作，直到2013年才正式命名為The
 Boogie
-Playboys並以此作為樂團的正式成立日期，開始活躍。2017年12月出版的兩張專輯，分別為這兩段時期各自的作品。2018年8月，電結他手K13於網上公開宣布退出樂隊，但沒有補充電結他手一職是否有人新成員入替。2018年8月25日樂隊在[無綫電視的節目](../Page/電視廣播有限公司.md "wikilink")「樂勢力」\[7\]中出現時已經由新成員YKM填補電結他手一職。\[8\]
+Playboys並以此作為樂團的正式成立日期，開始活躍。2017年12月出版的兩張專輯，分別為這兩段時期各自的作品。2018年8月，電結他手K13於網上公開宣布退出樂隊，但沒有補充電結他手一職是否有人新成員入替。2018年8月25日樂隊在[無綫電視的節目](../Page/電視廣播有限公司.md "wikilink")「樂勢力」\[7\]中出現時已經由新成員YKM填補電結他手一職。2019年適逢樂隊組成10周年，被邀請於4月到美國拉斯維加斯全球最大型的Rockabilly音樂節[Viva
+Las
+Vegas](https://www.vivalasvegas.net/)中表演，是這個有22年歷史的音樂節中作表演的首支華人樂隊。\[8\]
 
 ## 成員資料
 
@@ -159,7 +161,7 @@ Boogie Playboys的歌雖然大多數以粵語創作，但歌名則全部附有�
 5.
 6.
 7.
-8.  <https://hk.on.cc/hk/bkn/cnt/entertainment/20180913/bkn-20180913043029115-0913_00862_001.html>
+8.  <https://hk.on.cc/hk/bkn/cnt/entertainment/20190509/bkn-20190509044912503-0509_00862_001.html>
 9.
 10.
 11.

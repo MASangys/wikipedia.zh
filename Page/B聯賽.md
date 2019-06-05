@@ -326,18 +326,18 @@
 
 ### 第三級 (9隊)
 
-| Team                                                                    | City, Prefecture                                                                    | 2015-16 League |
-| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | -------------- |
-| [安城AISHIN AW神馬](https://zh.wikipedia.org/wiki/安城AISHIN_AW神馬 "wikilink") | [愛知縣](../Page/愛知縣.md "wikilink")[安城市](https://zh.wikipedia.org/wiki/安城市 "wikilink") | NBDL           |
-| [金澤武士團](https://zh.wikipedia.org/wiki/金澤武士團 "wikilink")                 | [石川縣](../Page/石川縣.md "wikilink")[金澤市](../Page/金澤市.md "wikilink")                    | bj-league      |
-| [大塚商會越谷阿爾法](https://zh.wikipedia.org/wiki/大塚商會越谷阿爾法 "wikilink")         | [埼玉縣](../Page/埼玉縣.md "wikilink")[越谷市](../Page/越谷市.md "wikilink")                    | NBDL           |
-| [福岡新銳](https://zh.wikipedia.org/wiki/福岡新銳 "wikilink")                   | [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")                                 | bj-league      |
-| [埼玉野馬](https://zh.wikipedia.org/wiki/埼玉野馬 "wikilink")                   | [埼玉縣](../Page/埼玉縣.md "wikilink")[所澤市](../Page/所澤市.md "wikilink")                    | bj-league      |
-| [東京海上日動大藍鯊](https://zh.wikipedia.org/wiki/東京海上日動大藍鯊 "wikilink")         | [東京都](../Page/東京都.md "wikilink")[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink") | NBDL           |
-| [東京五夢](https://zh.wikipedia.org/wiki/東京五夢 "wikilink")                   | [東京都](../Page/東京都.md "wikilink")                                                    | bj-league      |
-| [東京八王子快車](https://zh.wikipedia.org/wiki/東京八王子快車 "wikilink")             | [東京都](../Page/東京都.md "wikilink")[八王子市](../Page/八王子市.md "wikilink")                  | NBDL           |
-| [豐田合成天蠍](https://zh.wikipedia.org/wiki/豐田合成天蠍 "wikilink")               | [愛知縣](../Page/愛知縣.md "wikilink")[清須市](../Page/清須市.md "wikilink")                    | NBDL           |
-| [岐阜猛撲](https://zh.wikipedia.org/wiki/岐阜猛撲 "wikilink")                   | [岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[岐阜市](../Page/岐阜市.md "wikilink") |                |
+| Team                                                                    | City, Prefecture                                                                           | 2015-16 League |
+| ----------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | -------------- |
+| [安城AISHIN AW神馬](https://zh.wikipedia.org/wiki/安城AISHIN_AW神馬 "wikilink") | [愛知縣](../Page/愛知縣.md "wikilink")[安城市](https://zh.wikipedia.org/wiki/安城市_\(日本\) "wikilink") | NBDL           |
+| [金澤武士團](https://zh.wikipedia.org/wiki/金澤武士團 "wikilink")                 | [石川縣](../Page/石川縣.md "wikilink")[金澤市](../Page/金澤市.md "wikilink")                           | bj-league      |
+| [大塚商會越谷阿爾法](https://zh.wikipedia.org/wiki/大塚商會越谷阿爾法 "wikilink")         | [埼玉縣](../Page/埼玉縣.md "wikilink")[越谷市](../Page/越谷市.md "wikilink")                           | NBDL           |
+| [福岡新銳](https://zh.wikipedia.org/wiki/福岡新銳 "wikilink")                   | [福岡縣](https://zh.wikipedia.org/wiki/福岡縣 "wikilink")                                        | bj-league      |
+| [埼玉野馬](https://zh.wikipedia.org/wiki/埼玉野馬 "wikilink")                   | [埼玉縣](../Page/埼玉縣.md "wikilink")[所澤市](../Page/所澤市.md "wikilink")                           | bj-league      |
+| [東京海上日動大藍鯊](https://zh.wikipedia.org/wiki/東京海上日動大藍鯊 "wikilink")         | [東京都](../Page/東京都.md "wikilink")[練馬區](https://zh.wikipedia.org/wiki/練馬區 "wikilink")        | NBDL           |
+| [東京五夢](https://zh.wikipedia.org/wiki/東京五夢 "wikilink")                   | [東京都](../Page/東京都.md "wikilink")                                                           | bj-league      |
+| [東京八王子快車](https://zh.wikipedia.org/wiki/東京八王子快車 "wikilink")             | [東京都](../Page/東京都.md "wikilink")[八王子市](../Page/八王子市.md "wikilink")                         | NBDL           |
+| [豐田合成天蠍](https://zh.wikipedia.org/wiki/豐田合成天蠍 "wikilink")               | [愛知縣](../Page/愛知縣.md "wikilink")[清須市](../Page/清須市.md "wikilink")                           | NBDL           |
+| [岐阜猛撲](https://zh.wikipedia.org/wiki/岐阜猛撲 "wikilink")                   | [岐阜縣](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")[岐阜市](../Page/岐阜市.md "wikilink")        |                |
 
 ## 參考資料
 

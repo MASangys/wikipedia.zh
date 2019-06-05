@@ -1,20 +1,20 @@
-**＝LOVE**（，簡稱「」）是2017年成立的[日本女子](../Page/日本.md "wikilink")[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，由具有現役偶像身分的[指原莉乃擔任總製作人](../Page/指原莉乃.md "wikilink")。
+**=LOVE**（，簡稱「」）是2017年成立的[日本女子](../Page/日本.md "wikilink")[偶像](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[團體](https://zh.wikipedia.org/wiki/女子團體 "wikilink")，由[指原莉乃擔任總製作人](../Page/指原莉乃.md "wikilink")。
 
 ## 概要
 
 由[HKT48在籍的現役偶像](../Page/HKT48.md "wikilink")[指原莉乃](../Page/指原莉乃.md "wikilink")、加上以[聲優養成著稱的](../Page/聲優.md "wikilink")[代代木動畫學院](../Page/代代木動畫學院.md "wikilink")，出於「聲優教育」而誕生的「聲優偶像」，於2017年開始活動。
 
-團名「＝LOVE」以英文讀做「」，[注音假名轉寫成](https://zh.wikipedia.org/wiki/振假名 "wikilink")「」，意為「等於愛」。指原莉乃認為「偶像必須被[粉絲喜愛](../Page/爱好者.md "wikilink")，自己也必須喜愛偶像這份工作」、「覺得偶像就是愛」，因而命名\[1\]\[2\]。
+團名「=LOVE」以英文讀做「」，[注音假名轉寫成](https://zh.wikipedia.org/wiki/振假名 "wikilink")「」，意為「等於愛」。指原莉乃認為「偶像必須被[粉絲喜愛](../Page/爱好者.md "wikilink")，自己也必須喜愛偶像這份工作」、「覺得偶像就是愛」，因而命名\[1\]\[2\]。
 
 ## 歷史
 
-2017年1月30日深夜，指原莉乃在個人[SHOWROOM頻道發表由演藝養成學校代代木動畫學院舉辦](../Page/SHOWROOM.md "wikilink")、自己擔任製作人的[聲優偶像甄選活動](../Page/聲優.md "wikilink")，當日中午開放網路報名，預計2017年夏季出道\[3\]\[4\]。4月29日，徵選的最終審查後，宣布共有13人合格（當中1人在成員正式披露前辭退）；與此同時，指原公布團名為「＝LOVE」\[5\]。8月5日，成员于“
+2017年1月30日深夜，指原莉乃在個人[SHOWROOM頻道發表由演藝養成學校代代木動畫學院舉辦](../Page/SHOWROOM.md "wikilink")、自己擔任製作人的[聲優偶像甄選活動](../Page/聲優.md "wikilink")，當日中午開放網路報名，預計2017年夏季出道\[3\]\[4\]。4月29日，徵選的最終審查後，宣布共有13人合格（當中1人在成員正式披露前辭退）；與此同時，指原公布團名為「=LOVE」\[5\]。8月5日，成员于“
 2017”舉行首次Live（現場表演），在活动中首次亮相\[6\]。
 
 9月6日，自唱片公司[SACRA
 MUSIC发行出道單曲](../Page/SACRA_MUSIC.md "wikilink")《=LOVE》\[7\]。11月15日，成员将不定期来店的咖啡店开业\[8\]。12月6日，发行第二张单曲《我们的制服圣诞节》\[9\]。
 
-2019年2月24日，姐妹團“”正式公開，成員分別為：尾木波菜、落合希来里、蟹沢萌子、河口夏音、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜菜風、永田詩央里、本田珠由記\[10\]，以及稍後公布的川中子奈月心。
+2019年2月24日，姐妹團“[≠ME](https://zh.wikipedia.org/wiki/≠ME "wikilink")”正式公開，成員分別為：尾木波菜、落合希来里、蟹沢萌子、河口夏音、櫻井もも、菅波美玲、鈴木瞳美、谷崎早耶、冨田菜菜風、永田詩央里、本田珠由記\[10\]，以及稍後公布的川中子奈月心。
 
 ## 成員
 
@@ -142,7 +142,7 @@ MUSIC发行出道單曲](../Page/SACRA_MUSIC.md "wikilink")《=LOVE》\[7\]。11
 | 4      | 2018年10月17日  | 《[Want you\! Want you\!](../Page/Want_you!_Want_you!.md "wikilink")》 | CD+DVD                                                                                      | VVCL-1300/1 | 初回生產限定盤 Type-A | 2位  |
 | CD+DVD | VVCL-1302/3  | 初回生產限定盤 Type-B                                                       |                                                                                             |             |                |     |
 | CD     | VVCL-1304    | 通常盤（Type-C）                                                          |                                                                                             |             |                |     |
-| 5      | 2019年4月24日   | 《》                                                                   | CD+DVD                                                                                      | VVCL-1435/6 | 初回生產限定盤 Type-A |     |
+| 5      | 2019年4月24日   | 《[去尋找鑽石百合](https://zh.wikipedia.org/wiki/去尋找鑽石百合 "wikilink")》        | CD+DVD                                                                                      | VVCL-1435/6 | 初回生產限定盤 Type-A | 2位  |
 | CD+DVD | VVCL-1437/8  | 初回仕様限定盤 Type-B                                                       |                                                                                             |             |                |     |
 | CD     | VVCL-1439    | 通常盤（Type-C）                                                          |                                                                                             |             |                |     |
 
@@ -151,18 +151,19 @@ MUSIC发行出道單曲](../Page/SACRA_MUSIC.md "wikilink")《=LOVE》\[7\]。11
 ## 相關條目
 
   - [指原莉乃](../Page/指原莉乃.md "wikilink")
+  - [≠ME](https://zh.wikipedia.org/wiki/≠ME "wikilink")
   - [HKT48](../Page/HKT48.md "wikilink")
   - [聲優](../Page/聲優.md "wikilink")
 
 ## 外部連結
 
-  - [＝LOVE OFFICIAL WEB SITE](http://equal-love.jp/)
+  - [=LOVE OFFICIAL WEB SITE](http://equal-love.jp/)
 
   -
 
   -
 
-  - [＝LOVE × SHOWROOM
+  - [=LOVE × SHOWROOM
     個人直播企劃專頁](https://www.showroom-live.com/campaign/Equal_LOVE)
 
 

@@ -53,7 +53,7 @@
 [Category:韓國科幻劇](https://zh.wikipedia.org/wiki/Category:韓國科幻劇 "wikilink")
 [Category:PENTAGON](https://zh.wikipedia.org/wiki/Category:PENTAGON "wikilink")
 
-1.  [Spark](http://kpopn.niusnews.com/=K25766x0) 2015年7月25日
+1.  [Spark](http://kpopn.niusnews.com/=K25766x0)  2015年7月25日
 2.  [男團PENTAGON成員YEO
     ONE出演網路劇Spark預告公開](http://www.koreastardaily.com/tc/news/81362)
     2015年7月17日

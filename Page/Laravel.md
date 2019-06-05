@@ -108,7 +108,6 @@ Laravel發行版本分為兩類：**一般版本**和**LTS長期支援版本**\[
 <th><p>版本</p></th>
 <th><p>發佈日期</p></th>
 <th><p>PHP 版本</p></th>
-<th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -116,106 +115,88 @@ Laravel發行版本分為兩類：**一般版本**和**LTS長期支援版本**\[
 <td></td>
 <td><p>2011年6月</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2011年9月</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2012年2月22日</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2012年3月27日</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2012年5月22日</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2013年5月28日</p></td>
 <td><p>≥ 5.3.0</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2013年12月11日</p></td>
 <td><p>≥ 5.3.0</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2014年6月1日</p></td>
 <td><p>≥ 5.4.0</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2015年2月4日</p></td>
 <td><p>≥ 5.4.0</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2015年6月9日</p></td>
 <td><p>≥ 5.5.9</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2015年12月21日</p></td>
 <td><p>≥ 5.5.9</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2016年8月23日</p></td>
 <td><p>≥ 5.6.4</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2017年1月24日</p></td>
 <td><p>≥ 5.6.4</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2017年8月30日</p></td>
 <td><p>≥ 7.0.0</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2018年2月7日</p></td>
 <td><p>≥ 7.1.3</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2018年9月4日</p></td>
 <td><p>≥ 7.1.3</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>2019年2月26日</p></td>
 <td><p>≥ 7.1.3</p></td>
-<td></td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -314,7 +295,8 @@ Artisan 的功能（如自動化的執行任務）。\[28\]
 
 Laravel 對伺服器環境有少量的要求。 然而，這些要求可以透過使用家用的虛擬機來達成，因此強烈建議使用家用作為本地的開發環境。
 
-若不使用 Homestead，您需要確保您的伺服器滿足以下的要求：
+若不使用 Homestead，您需要確保您的伺服器滿足以下的要求，這裏以長期支援版本 Laravel 5.5 為例，如果是最新版本
+Laravel 5.8 需要 PHP 版本 \>= 7.1.3 ：
 
   - PHP 版本 \>= 7.0.0
   - [OpenSSL](../Page/OpenSSL.md "wikilink") PHP 擴充

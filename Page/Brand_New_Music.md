@@ -73,8 +73,7 @@ A」，歌手目前有：[요다영](https://zh.wikipedia.org/wiki/요다영 "wi
 
   -
   -
-<small><sup>1</sup>YDG之演員活動由Ilgwang Polaris Entertainment管理。
-<sup>2</sup>Chancellor為其經紀公司Duble Kick Entertainment製作音樂。</small>
+<small><sup>1</sup>YDG之演員活動由Ilgwang Polaris Entertainment管理。</small>
 
 ### 團體
 
@@ -89,14 +88,10 @@ A」，歌手目前有：[요다영](https://zh.wikipedia.org/wiki/요다영 "wi
 
 ### 練習生
 
-  - 金施勲
-    ([ProduceX101](https://zh.wikipedia.org/wiki/ProduceX101 "wikilink"))
-  - 李垠尚
-    ([ProduceX101](https://zh.wikipedia.org/wiki/ProduceX101 "wikilink"))
-  - yoon jeonghwan
-    ([ProduceX101](https://zh.wikipedia.org/wiki/ProduceX101 "wikilink"))
-  - hong seongjun
-    ([ProduceX101](https://zh.wikipedia.org/wiki/ProduceX101 "wikilink"))
+  - 金施勲 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
+  - 李垠尚 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
+  - 尹晶煥 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
+  - 洪誠俊 ([PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink"))
 
 ### 製作人
 
@@ -168,12 +163,15 @@ A」，歌手目前有：[요다영](https://zh.wikipedia.org/wiki/요다영 "wi
 
   -
   -
+<small><sup>2</sup>Chancellor為其經紀公司Duble Kick Entertainment製作音樂。</small>
+
 ### 過往練習生
 
   - 尹宰喜（轉投[Happy
-    Face娛樂](../Page/Happy_Face娛樂.md "wikilink")，[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")）
-  - Yoon Kyungheon（轉投春娛樂，成為男團WITZ出道）
-  - 鄭明勳（轉投AAP.Y，[ProduceX101](https://zh.wikipedia.org/wiki/ProduceX101 "wikilink")）
+    Face娛樂](../Page/Happy_Face娛樂.md "wikilink")，《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》）
+  - Yoon Kyungheon（轉投春娛樂，以男團[We In The
+    Zone出道](../Page/We_In_The_Zone.md "wikilink")）
+  - 鄭明勳（轉投AAP.Y，[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")）
 
 ## 參考來源
 

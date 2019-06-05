@@ -26,6 +26,8 @@ XL」一名解釋，當自己過度勞累時就永不會到達那種地步，而
   - 2017：《[黑塔](https://zh.wikipedia.org/wiki/黑塔_\(電影\) "wikilink")》-作曲
   - 2018：《[古墓奇兵](https://zh.wikipedia.org/wiki/古墓奇兵_\(2018年電影\) "wikilink")》-作曲
   - 2019：《[艾莉塔：戰鬥天使](../Page/艾莉塔：戰鬥天使.md "wikilink")》-作曲
+  - 2019：《[音速小子](../Page/音速小子_\(電影\).md "wikilink")》-作曲
+  - 2019：《[未來戰士：黑暗命運](../Page/未來戰士：黑暗命運.md "wikilink")》-作曲
 
 ### 電子遊戲
 
@@ -33,10 +35,9 @@ XL」一名解釋，當自己過度勞累時就永不會到達那種地步，而
   - 2009：《[模擬市民3](../Page/模擬市民3.md "wikilink")》-作曲
   - 2010：《[靚影特務](https://zh.wikipedia.org/wiki/靚影特務 "wikilink")》-原始混音
   - 2010：《[模擬市民3：夜店人生](../Page/模擬市民3：夜店人生.md "wikilink")》-原創音樂
-  - 2011：《[黑街聖徒3](../Page/黑街聖徒3.md "wikilink")》-作曲
   - 2011：《[暗黑孢子](https://zh.wikipedia.org/wiki/暗黑孢子 "wikilink")》-作曲
-  - 2012：《[質量效應3-Citadel
-    DLC](https://zh.wikipedia.org/wiki/質量效應3 "wikilink")》-作曲
+  - 2015：《[勁爆美式足球16](https://zh.wikipedia.org/wiki/勁爆美式足球16 "wikilink")》-作曲
+  - 2017：《[FIFA 18](../Page/FIFA_18.md "wikilink")》-作曲
 
 ## 參考資料
 

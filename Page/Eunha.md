@@ -1,5 +1,6 @@
 **丁恩妃**\[1\]（，，），藝名**Eunha**（），[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source
-Music旗下女子組合](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[GFRIEND的成員](../Page/GFRIEND.md "wikilink")，在隊內擔任第二主唱。曾與隊友[SinB於](../Page/SinB.md "wikilink")[Big
+Music旗下女子組合](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[GFRIEND的成員](../Page/GFRIEND.md "wikilink")，在隊內擔任領唱(lead
+vocal)。曾與隊友[SinB於](../Page/SinB.md "wikilink")[Big
 Hit娛樂擔任練習生](../Page/Big_Hit娛樂.md "wikilink")，擁有多年的練習生經歷。
 
 ## 經歷

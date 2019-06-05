@@ -183,6 +183,7 @@ BVCL-575（通常盤）</p></td>
 [Category:東京都出身人物](https://zh.wikipedia.org/wiki/Category:東京都出身人物 "wikilink")
 [Category:1994年出生](https://zh.wikipedia.org/wiki/Category:1994年出生 "wikilink")
 [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:前研音所屬藝人](https://zh.wikipedia.org/wiki/Category:前研音所屬藝人 "wikilink")
 
 1.
 2.

@@ -35,7 +35,7 @@ exit
 ```
 
   - [PlayOnLinux
-    Bash的-{文件}-](http://www.playonlinux.com/en/dev-documentation-1.html)
+    Bash的-{文件}-](https://web.archive.org/web/20160313040750/https://www.playonlinux.com/en/dev-documentation-1.html)
 
 ## 參見
 

@@ -10,9 +10,7 @@
   - [Selected works by William J.
     Borucki](http://www.nasa.gov/centers/ames/news/releases/2004/borucki/publications.html)
 
-[Category:1939年出生](https://zh.wikipedia.org/wiki/Category:1939年出生 "wikilink")
 [Category:太陽系外行星發現者](https://zh.wikipedia.org/wiki/Category:太陽系外行星發現者 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 [Category:行星科學家](https://zh.wikipedia.org/wiki/Category:行星科學家 "wikilink")
 [Category:聖荷西州立大學校友](https://zh.wikipedia.org/wiki/Category:聖荷西州立大學校友 "wikilink")
 [Category:威斯康辛大學麥迪遜分校校友](https://zh.wikipedia.org/wiki/Category:威斯康辛大學麥迪遜分校校友 "wikilink")

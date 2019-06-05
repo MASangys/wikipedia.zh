@@ -37,7 +37,6 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 
   - 1月14日，首张EP《初日》发行\[12\]。
   - 1月24日，运营方公布因屡次违反相关守则，暂停成员施可妍及万芳舟的活动\[13\]。二人在自省后，于3月2日起正式归队\[14\]。
-  - 3月25日，发行数字单曲《[NO WAY MAN](../Page/NO_WAY_MAN.md "wikilink")》。
 
 ## 成員
 
@@ -335,6 +334,13 @@ SH**為以[中國](../Page/中國.md "wikilink")[上海為活動據點的女子�
 Type-B（CD+DVD）</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>2019年5月24日</p></td>
+<td><p>《So long!》</p></td>
+<td><p>CD</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -344,6 +350,7 @@ Type-B（CD+DVD）</p></td>
 | ---------- | ----------------------------------------------------------------------- | -- |
 | 2018年12月3日 | 《[LOVE TRIP](https://zh.wikipedia.org/wiki/LOVE_TRIP "wikilink")》（爱的旅程） |    |
 | 2019年3月25日 | 《[NO WAY MAN](../Page/NO_WAY_MAN.md "wikilink")》                        |    |
+| 2019年5月20日 | 《关于你》                                                                   |    |
 
 ## 媒体出演
 
@@ -354,10 +361,11 @@ Type-B（CD+DVD）</p></td>
   - 《AKB少女90天的挑战》（腾讯视频、Bilibili、优酷、YouTube，2019年3月16日 -
     ，每周二、四、六更新）魏新及袁瑞希为主角\[19\]
   - 《SH第二现场》（腾讯视频、Bilibili、优酷、AcFun、YouTube，2019年3月11日 - 、每周一更新）\[20\]
+  - 《Say Hi》（Bilibili，2019年5月8日 - 、每周三更新）\[21\]
 
 ### 广告代言
 
-  - [资生堂跨境形象大使](https://zh.wikipedia.org/wiki/资生堂 "wikilink")（2019年4月）：刘念、毛唯嘉、朱苓、吴安琪、魏新\[21\]
+  - [资生堂跨境形象大使](https://zh.wikipedia.org/wiki/资生堂 "wikilink")（2019年4月）：刘念、毛唯嘉、朱苓、吴安琪、魏新\[22\]
 
 ## 註釋
 
@@ -421,3 +429,5 @@ Type-B（CD+DVD）</p></td>
 20.
 
 21.
+
+22.

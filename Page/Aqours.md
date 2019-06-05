@@ -358,7 +358,7 @@ Phoenix</p></td>
 </tr>
 <tr class="even">
 <td><p>Aqours Center<nowiki></p></td>
-<td><p></nowiki> 第四回總選舉<ref>{{cite web|url=<a href="http://gs.dengeki.com/news/127277/%7Ctitle=【結果発表">http://gs.dengeki.com/news/127277/|title=【結果発表</a>！】総投票数104万1120票！　『ラブライブ！サンシャイン</p></td>
+<td><p></nowiki> 第三回總選舉<ref>{{cite web|url=<a href="http://gs.dengeki.com/news/127277/%7Ctitle=【結果発表">http://gs.dengeki.com/news/127277/|title=【結果発表</a>！】総投票数104万1120票！　『ラブライブ！サンシャイン</p></td>
 <td><p>』Aqours 4thシングル センターポジション総選挙　最終結果発表！|publisher=電撃G’sマガジン|accessdate=2019-02-26|date=2019-02-26}}</ref></p></td>
 <td><p>8位</p></td>
 <td><p>5位</p></td>

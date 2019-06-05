@@ -1,6 +1,7 @@
 《**Get it beauty**》（韓語：**겟 잇 뷰티**）是韓國[On
 Style的美妝綜藝節目](https://zh.wikipedia.org/wiki/On_Style "wikilink")，現由[張允珠](https://zh.wikipedia.org/wiki/張允珠 "wikilink")、[金度延](../Page/金度延.md "wikilink")（[Weki
-Meki](../Page/Weki_Meki.md "wikilink")）、[朴秀英](https://zh.wikipedia.org/wiki/朴秀英 "wikilink")([Red
+Meki](../Page/Weki_Meki.md "wikilink")）、[Joy](https://zh.wikipedia.org/wiki/朴秀英 "wikilink")
+([Red
 Velvet](../Page/Red_Velvet.md "wikilink"))、文佳菲及金秀美主持，每集邀請不同來賓參演，並介紹時下化妝、護膚、服飾流行趨勢，與觀眾進行現場交流的美妝秀\[1\]\[2\]。
 
 ## 主持演變

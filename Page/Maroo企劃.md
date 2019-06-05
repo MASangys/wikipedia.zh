@@ -91,6 +91,7 @@ One為期一年半的活動回到所屬社當日即開通了官咖](https://zh.w
   - [myB](https://zh.wikipedia.org/wiki/myB "wikilink")（2015—2016）\[8\]
   - [河锡辰](https://zh.wikipedia.org/wiki/河锡辰 "wikilink")
   - [Supernova](https://zh.wikipedia.org/wiki/超新星_\(韩国组合\) "wikilink")（2007－2018）
+  - 孔瑜真（[BONUSbaby](../Page/BONUSbaby.md "wikilink")）
 
 ### 過去旗下練習生
 

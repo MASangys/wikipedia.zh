@@ -4227,7 +4227,7 @@ K大之手下<br />
 |        |          |                                                                                                         |                                                          |                                                                                      |                        |             |
 | ------ | -------- | ------------------------------------------------------------------------------------------------------- | -------------------------------------------------------- | ------------------------------------------------------------------------------------ | ---------------------- | ----------- |
 | **順序** | **歌曲名稱** | **作詞**                                                                                                  | **作曲**                                                   | **主唱**                                                                               | **播出期間**               | **播出集數**    |
-| 1      | 勇敢       | [五月天阿信](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")                                                   | [五月天怪獸](../Page/溫尚翊.md "wikilink")                       | [王識賢](../Page/王識賢.md "wikilink")                                                     | 2015年7月28日－2015年8月14日  | 第1集～第14集    |
+| 1      | 勇敢       | [五月天阿信](../Page/陳信宏.md "wikilink")                                                                      | [五月天怪獸](../Page/溫尚翊.md "wikilink")                       | [王識賢](../Page/王識賢.md "wikilink")                                                     | 2015年7月28日－2015年8月14日  | 第1集～第14集    |
 | 2      | 相思痕      | [陳百潭](../Page/陳百潭.md "wikilink")                                                                        | [陳百潭](../Page/陳百潭.md "wikilink")                         | [陳百潭](../Page/陳百潭.md "wikilink")、[曹雅雯](../Page/曹雅雯.md "wikilink")                    | 2015年8月17日－2015年8月31日  | 第15集～第25集   |
 | 3      | 紅豆       | [石國人](https://zh.wikipedia.org/wiki/石國人 "wikilink")                                                     | [石國人](https://zh.wikipedia.org/wiki/石國人 "wikilink")      | [謝宜君](../Page/謝宜君.md "wikilink")                                                     | 2015年9月1日－2015年9月30日   | 第26集～第47集   |
 | 4      | 天還未光     | [李岩修](https://zh.wikipedia.org/wiki/李岩修 "wikilink")                                                     | [徐嘉良](https://zh.wikipedia.org/wiki/徐嘉良 "wikilink")      | [吳木](https://zh.wikipedia.org/wiki/吳木 "wikilink")                                    | 2015年10月1日－2015年10月30日 | 第48集～第69集   |
@@ -4268,7 +4268,7 @@ K大之手下<br />
 <tr class="even">
 <td><p>1</p></td>
 <td><p>勇敢</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳信宏" title="wikilink">五月天阿信</a></p></td>
+<td><p><a href="../Page/陳信宏.md" title="wikilink">五月天阿信</a></p></td>
 <td><p><a href="../Page/溫尚翊.md" title="wikilink">五月天怪獸</a></p></td>
 <td><p><a href="../Page/王識賢.md" title="wikilink">王識賢</a></p></td>
 <td><p>信達踢球之歌（第1集）<br />

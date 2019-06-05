@@ -65,7 +65,7 @@ Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》后打造的全新形式的[H
 <td><p>金康宇</p></td>
 </tr>
 <tr class="even">
-<td><p>尹秉浩</p></td>
+<td><p>尹炳浩</p></td>
 </tr>
 <tr class="odd">
 <td><p>黃賢宇</p></td>
@@ -189,6 +189,7 @@ Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》后打造的全新形式的[H
 | 京仁西部區                     |
 | 首爾江東區                     |
 | 首爾江西區                     |
+| 光州全羅區                     |
 
 | 各地區代表的cypher對決總排名 |
 | ----------------- |
@@ -241,7 +242,7 @@ Rapstar](../Page/Unpretty_Rapstar.md "wikilink")》后打造的全新形式的[H
 | 釜山慶尚區                |
 | 釜山慶尚區                |
 
-  - 張龍俊因未成年涉嫌性交易爭議從節目中下車\[4\] 。首爾江東區代表經導師選擇由趙民昱替補。
+  - 張龍俊因未成年涉嫌性交易爭議從節目中下車\[4\] 。首爾江東區代表經導師選擇由趙民旭替補。
 
 ### 第六集
 

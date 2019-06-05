@@ -618,7 +618,7 @@ List of music videos, showing year released and director
 
 ## 創作作品
 
-**`韓國音樂著作權協會之登記編號：LE（10002393），60首。`\[23\]**
+**`韓國音樂著作權協會之登記編號：LE（10002393），66首。`\[23\]**
 **`韓國音樂著作權協會之登記編號：正花(PP)（10016499），2首。`\[24\]**
 **`韓國音樂著作權協會之登記編號：慧潾（10016622），1首。`\[25\]**
 **`韓國音樂著作權協會之登記編號：率智（W0804500），6首``。`\[26\]**
@@ -676,11 +676,12 @@ List of music videos, showing year released and director
 <td><p>2月16日</p></td>
 <td><p>EXID</p></td>
 <td><p>I DO</p></td>
-<td><p>LE、正花、哈妮</p></td>
+<td><p>LE、哈妮、正花<br />
+多美、有智、海嶺</p></td>
 <td></td>
 <td></td>
 <td><p>100000302789</p></td>
-<td></td>
+<td><p>EXID全員參與作詞</p></td>
 </tr>
 <tr class="odd">
 <td><p>2月16日</p></td>
@@ -1331,6 +1332,73 @@ BRAND NEW、HI-LITE</a></p></td>
 <td></td>
 <td></td>
 <td><p>100002466201</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月15日</p></td>
+<td><p>EXID</p></td>
+<td><p>ME AND YOU</p></td>
+<td><p>LE</p></td>
+<td></td>
+<td></td>
+<td><p>100002522074</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月15日</p></td>
+<td><p>EXID</p></td>
+<td><p>WE ARE</p></td>
+<td><p>率智、LE、哈妮<br />
+慧潾、正花</p></td>
+<td></td>
+<td><p>LE</p></td>
+<td><p>100002522077</p></td>
+<td><p>EXID全員參與作詞</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月15日</p></td>
+<td><p>EXID</p></td>
+<td><p>아끼지마</p></td>
+<td><p>LE</p></td>
+<td></td>
+<td></td>
+<td><p>100002522079</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月15日</p></td>
+<td><p>EXID</p></td>
+<td><p>어떻게지내</p></td>
+<td><p>LE</p></td>
+<td></td>
+<td></td>
+<td><p>100002522080</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月15日</p></td>
+<td><p>EXID</p></td>
+<td><p>내일해(LADY)(URBAN MIX)</p></td>
+<td><p>LE</p></td>
+<td></td>
+<td></td>
+<td><p>100002522086</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月15日</p></td>
+<td><p>EXID</p></td>
+<td><p>나의밤</p></td>
+<td><p>LE</p></td>
+<td></td>
+<td></td>
+<td><p>100002522092</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">

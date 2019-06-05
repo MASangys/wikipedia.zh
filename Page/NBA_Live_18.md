@@ -35,8 +35,7 @@ Harden](https://zh.wikipedia.org/wiki/James_Harden "wikilink")。\[5\]\[6\]
     Live 18將首次引入WNBA](http://tech.sina.com.cn/roll/2017-08-04/doc-ifyitayr9025672.shtml)
 4.  [NBA Live 18 Demo Shoots Out A Release Date On PS4 And Xbox
     One](http://www.justpushstart.com/2017/08/nba-live-18-demo-shoots-release-date-ps4-xbox-one/)
-5.  [受肯定！Harden成《NBA
-    Live 18》封面人物，大鬍子：我感到很榮幸](http://www.dongtw.com/nba/20170811/552600.html)
+5.
 6.  ['NBA Live 18' Cover Athlete And Art
     Revealed](https://www.forbes.com/sites/brianmazique/2017/08/10/nba-live-18-cover-athlete-and-art-revealed)
 7.  [NBA Live 18 Review -

@@ -151,8 +151,8 @@ TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
   - 娛樂熱辣辣．好好醜醜又一年 (2015)
   - 色香味主播室
   - 寵物狗救星
-  - 香港亞洲流行音樂節
-  - 香港亞洲流行音樂節2017
+  - [香港亞洲流行音樂節](../Page/香港亞洲流行音樂節.md "wikilink")
+  - [香港亞洲流行音樂節2017](../Page/香港亞洲流行音樂節.md "wikilink")
   - 去吧\!台灣住囉囉
   - 名廚．鄉土濃情甄文達
   - 薛凱琪唔做薛凱琪
@@ -198,6 +198,7 @@ TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
 
 **馬來西亞Astro TV**
 
+  - 秤菜Pun歡喜2014
   - 堪輿百子櫃
   - 話說籍貫
   - 鼠寶家族
@@ -225,16 +226,16 @@ TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
   - 阿賢人情味S9
   - 閃亮的時刻
   - 師傅
-  - Hua Hee Seko-lah 歡喜上課-lah
   - 家在馬來西亞–西馬的故事（家在馬來西亞5：西馬城鎮華人故事）
   - 家在馬來西亞- 沙巴、砂勞越（家在馬來西亞－沙巴與砂拉越華人故事）
-  - Hua Hee Kitchen 歡喜廚房
+  - 歡喜廚房
   - 阿賢貪吃路線 II
   - 阿賢人情味 S4
   - 為食打橫行
   - 小小玩家出遊趣S4
   - 孩子
   - 老行業
+  - 歡喜上課lah Sr1
   - 歡喜上課Lah (S2)
   - 老師, 您好\!
   - 童童歡樂園
@@ -244,7 +245,7 @@ TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
   - 阿賢人情味 5
   - 背包Go Cuti S3
   - 歡喜歡喜就好 S3
-  - Hua Hee Hokkien Class 歡喜學堂
+  - 歡喜學堂
   - Budget玩家Go Cuti
   - 大地
   - 廉呷特工
@@ -274,7 +275,7 @@ TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
   - 歡喜到你家
   - 你好奇的事 S2
   - 你好奇的事 S3
-  - 舞極限Battleground 2014 Korea Special
+  - 2014年Astro舞極限 - 韓國特備
   - 三語難不難
   - 阿賢貪吃路線 S4
   - 遇見生命 (S2)
@@ -284,7 +285,7 @@ TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
   - 寰遊沖繩日記
   - 寰遊日記 - 台中
   - 走走英語
-  - Battleground Final 2011
+  - 2011年Astro舞極限 - 決賽
   - 慶功音樂會（BFF慶功音樂會）
   - 馬來西亞百年華教
   - 寫食人生 S2
@@ -292,7 +293,9 @@ TV的節目](https://zh.wikipedia.org/wiki/Astro频道 "wikilink")。
 
 **其他**
 
-  - 香港亞洲流行音樂節2018
+  - 尋覓人情味
+  - [香港亞洲流行音樂節2018](../Page/香港亞洲流行音樂節.md "wikilink")
+  - [香港亞洲流行音樂節2019](../Page/香港亞洲流行音樂節.md "wikilink")
 
 ## 參見
 

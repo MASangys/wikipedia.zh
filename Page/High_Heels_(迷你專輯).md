@@ -45,7 +45,6 @@ Should Be So Lucky》的翻唱版。\[2\]\[3\]该组合仅6名成员参加了她
 
   -
 [Category:2016年迷你專輯](https://zh.wikipedia.org/wiki/Category:2016年迷你專輯 "wikilink")
-[Category:CLC](https://zh.wikipedia.org/wiki/Category:CLC "wikilink")
 [Category:CLC音樂專輯](https://zh.wikipedia.org/wiki/Category:CLC音樂專輯 "wikilink")
 [Category:韓國音樂專輯](https://zh.wikipedia.org/wiki/Category:韓國音樂專輯 "wikilink")
 

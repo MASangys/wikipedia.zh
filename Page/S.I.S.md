@@ -224,10 +224,11 @@ Got A Feeling》。
 
 ### 综艺节目
 
-|      |     |                                              |                  |    |
-| ---- | --- | -------------------------------------------- | ---------------- | -- |
-| 年份   | 电视台 | 节目名称                                         | 参与成员             | 备注 |
-| 2017 | KBS | 《[The Unit](../Page/The_Unit.md "wikilink")》 | Gaeul、Anne、Sebin |    |
+|      |        |                                                                 |                  |    |
+| ---- | ------ | --------------------------------------------------------------- | ---------------- | -- |
+| 年份   | 电视台    | 节目名称                                                            | 参与成员             | 备注 |
+| 2017 | KBS    | 《[The Unit](../Page/The_Unit.md "wikilink")》                    | Gaeul、Anne、Sebin |    |
+| 2019 | Viu TV | 《[林盧去追星](https://zh.wikipedia.org/wiki/林盧去追星 "wikilink")》 (第6集) | 全體               |    |
 
 ## 主要音樂節目榜單排名
 
@@ -273,7 +274,7 @@ Got A Feeling》。
 
 ## 參考文獻
 
-## 外部鏈接
+## 外部連結
 
   - [官方Twitter](https://twitter.com/SIS_twt)
   - [官方Daum Cafe](http://cafe.daum.net/sis.official)

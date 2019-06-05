@@ -36,4 +36,4 @@ Downs）結婚，並在1881年移民到[懷俄明州](https://zh.wikipedia.org/w
 2.
 3.
 4.
-5.  [](http://www.ijc.org/en_/U.S._Chairs)
+5.

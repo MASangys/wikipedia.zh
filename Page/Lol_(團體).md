@@ -330,7 +330,7 @@ CD</p></td>
 <td><p>AVCD-94386/B<br />
 AVCD-94387<br />
 AVCD-94388</p></td>
-<td><p>週間　位<br />
+<td><p>週間12位<br />
 </p></td>
 </tr>
 </tbody>
@@ -733,6 +733,7 @@ AVCG-70113</p></td>
 | think of you                                  | 電影「一礼して、キス」主題曲                                                                       |                                                                                 |
 | ice cream                                     | 札幌電視台「ジョシスタ あいく的」３月片頭曲                                                               | 7th單曲「ice cream/ワスレナイ」                                                          |
 | 岩手電視台「５きげんどようび」３月片尾曲                          |                                                                                      |                                                                                 |
+| power of the dream                            | ​ 動畫「[魔導少年最終章](https://zh.wikipedia.org/wiki/魔導少年最終章 "wikilink")」片頭曲                 | ​ 2nd專輯「lml」                                                                    |
 |                                               |                                                                                      |                                                                                 |
 
 ## 脚注

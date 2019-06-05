@@ -1,4 +1,4 @@
-《**Do姐再Shopping**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的真人秀節目](../Page/電視廣播有限公司.md "wikilink")，全節目共15集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[農夫擔任主持](../Page/農夫_\(組合\).md "wikilink")，本節目於2017年11月27日起[香港時間逢星期一至五](../Page/香港時間.md "wikilink")22:30－23:00在[翡翠台播出](../Page/翡翠台.md "wikilink")，及於[myTV
+《**Do姐再Shopping**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的真人秀節目](../Page/電視廣播有限公司.md "wikilink")，亦是監製[周子妮節目系列之一](https://zh.wikipedia.org/wiki/周子妮 "wikilink")，全節目共15集，由[鄭裕玲](../Page/鄭裕玲.md "wikilink")、[農夫擔任主持](../Page/農夫_\(組合\).md "wikilink")，本節目於2017年11月27日起[香港時間逢星期一至五](../Page/香港時間.md "wikilink")22:30－23:00在[翡翠台播出](../Page/翡翠台.md "wikilink")，及於[myTV
 SUPER提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除）\[1\]\[2\]\[3\]\[4\]。亦為無綫電視50週年9部「[台慶獻禮](https://zh.wikipedia.org/wiki/無綫電視台慶相關活動#台慶鉅獻／台慶獻禮 "wikilink")」之一。
 
 ## 每集主題

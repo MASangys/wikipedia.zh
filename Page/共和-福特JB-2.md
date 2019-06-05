@@ -1,4 +1,4 @@
-共和-福特JB-2（Republic-Ford
+**共和-福特JB-2**（Republic-Ford
 JB-2）為[二戰末期美國仿製的](https://zh.wikipedia.org/wiki/二戰 "wikilink")[V-1飛彈](https://zh.wikipedia.org/wiki/V-1飛彈 "wikilink")。在1944年開發，但從來沒有在戰鬥中使用過。原本計劃在[美國進攻日本本土時使用](https://zh.wikipedia.org/wiki/沒落行動 "wikilink")。JB-2也是美國陸軍在二戰中進行的JB計畫（噴射動力炸彈，Jet
 Bomb）當中最為成功的一款，其研究的相關基礎為後續更先進之戰術彈道飛彈與巡弋飛彈奠定基礎。
 

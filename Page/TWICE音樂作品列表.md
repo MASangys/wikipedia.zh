@@ -195,9 +195,9 @@
 <li>唱片公司：<a href="https://zh.wikipedia.org/wiki/JYP_Entertainment" title="wikilink">JYP Entertainment</a></li>
 <li>發行公司：KT Music</li>
 </ul></td>
-<td></td>
+<td><p>2</p></td>
 <td><p>1</p></td>
-<td></td>
+<td><p>4</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -1251,6 +1251,41 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年4月22日</p></td>
+<td><p>GIRLS LIKE US</p></td>
+<td><p>FANCY YOU</p></td>
+<td><p>志效</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>HOT</p></td>
+<td><p>Momo</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>TURN IT UP</p></td>
+<td><p>Sana</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>STRAWBERRY</p></td>
+<td><p>彩瑛</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

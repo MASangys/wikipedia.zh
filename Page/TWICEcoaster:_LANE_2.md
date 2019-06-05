@@ -156,35 +156,35 @@ KNOCK」歌詞，描述女孩希望有人能敲開她心房的故事\[3\]。
 <tr class="odd">
 <td><p>年榜</p></td>
 <td><p>單曲榜</p></td>
-<td></td>
-<td><p>#—</p></td>
+<td><p>2017年</p></td>
+<td><p>#8</p></td>
 <td><p>—</p></td>
-<td></td>
+<td><p><a href="http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&amp;serviceGbn=ALL&amp;targetTime=2017&amp;hitYear=2017&amp;termGbn=year">1</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>下載榜</p></td>
-<td></td>
-<td><p>#—</p></td>
-<td><p>—</p></td>
+<td><p>#10</p></td>
+<td><p>1,627,015</p></td>
+<td><p><a href="http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&amp;serviceGbn=S1020&amp;targetTime=2017&amp;hitYear=2017&amp;termGbn=year">2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>串流榜</p></td>
+<td><p>102,591,893</p></td>
+<td><p><a href="http://gaonchart.co.kr/main/section/chart/online.gaon?nationGbn=T&amp;serviceGbn=S1040&amp;targetTime=2017&amp;hitYear=2017&amp;termGbn=year">3</a></p></td>
 <td></td>
-<td><p>#—</p></td>
-<td><p>—</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>專輯榜</p></td>
-<td></td>
-<td><p>#—</p></td>
-<td><p>—</p></td>
+<td><p>#15</p></td>
+<td><p>277,716</p></td>
+<td><p><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=2017&amp;hitYear=2017&amp;termGbn=year">4</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -464,8 +464,9 @@ KNOCK」歌詞，描述女孩希望有人能敲開她心房的故事\[3\]。
 | ---------- | ------------- |
 | Gaon Chart |               |
 | 2017       | 277,716\[11\] |
-| 2018       | 31,363+       |
-| 總共         | 309,079+      |
+| 2018       | 31,363        |
+| 2019       | 26,587+       |
+| 總共         | 335,666+      |
 
 ## 預告
 

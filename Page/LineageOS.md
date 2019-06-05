@@ -1,6 +1,6 @@
 **LineageOS**（也称**Lineage OS**、**Lineage OS Android
 Distribution**）是一个面向[智慧型手機和](../Page/智能手机.md "wikilink")[平板電腦的](../Page/平板電腦.md "wikilink")[自由](../Page/自由软件.md "wikilink")、[免费](https://zh.wikipedia.org/wiki/免费 "wikilink")、[开放原始碼的](https://zh.wikipedia.org/wiki/开源 "wikilink")[Android系統分支](../Page/Android.md "wikilink")。它是深受欢迎的
-[CyanogenMod的继任者](../Page/CyanogenMod.md "wikilink")。它在2016年12月Cyanogen公司突然宣布停止开发並关闭项目基础设施後[复刻而生](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")。\[1\]\[2\]LineageOS於2016年12月24日正式启动，它的原始码存放於[GitHub](../Page/GitHub.md "wikilink")。\[3\]
+[CyanogenMod的继任者](../Page/CyanogenMod.md "wikilink")。它在2016年12月Cyanogen公司突然宣布停止开发並关闭项目基础设施後[复刻而生](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")。\[1\]\[2\]LineageOS於2016年12月24日正式启动，其原始码存放於[GitHub](../Page/GitHub.md "wikilink")。\[3\]
 
 由於Cyanogen公司保留了使用Cyanogen名称的权利，因此計畫復刻後更名为LineageOS。\[4\]
 
@@ -79,6 +79,51 @@ OS。\[19\]
 
 LineageOS正在开发一个名为“FlipFlap”的專屬功能，並为翻蓋提供相容性和新功能。對於某些[三星裝置可能还具有模拟翻盖](../Page/三星電子.md "wikilink")。\[20\]
 
+## 版本
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本</p></th>
+<th><p>AOSP 版本</p></th>
+<th><p>首次發行時間</p></th>
+<th><p>最後更新時間</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>rowspan="1" align="center" </p></td>
+<td><p>6.0.1<br />
+(Marshmallow)</p></td>
+<td><p>as CM<br />
+ as LOS</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>rowspan="1" align="center" </p></td>
+<td><p>7.1.2<br />
+(Nougat)</p></td>
+<td><p>as CM<br />
+ as LOS</p></td>
+<td><p>[21]</p></td>
+</tr>
+<tr class="odd">
+<td><p>rowspan="1" align="center" </p></td>
+<td><p>8.1.0<br />
+(Oreo)</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>rowspan="1" align="center" </p></td>
+<td><p>9.0.0<br />
+(Pie)</p></td>
+<td><p>[22]</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 参见
 
   - [客制Android韌體列表](../Page/客制Android韌體列表.md "wikilink")
@@ -141,3 +186,7 @@ LineageOS正在开发一个名为“FlipFlap”的專屬功能，並为翻蓋提
 19.
 
 20.
+
+21.
+
+22.

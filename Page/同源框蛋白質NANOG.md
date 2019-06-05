@@ -66,7 +66,7 @@ nÓg」（[提爾納諾](https://zh.wikipedia.org/wiki/提爾納諾 "wikilink")�
   -
   -
   - [Discovery reveals more about stem cells'
-    immortality](http://www.wellcome.ac.uk/News/2009/News/WTX056296.htm)
+    immortality](https://web.archive.org/web/20130525111306/http://www.wellcome.ac.uk/News/2009/News/WTX056296.htm)
 
 ## 参见
 

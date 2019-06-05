@@ -14,28 +14,69 @@ Studio Code](../Page/Visual_Studio_Code.md "wikilink")。\[3\]\[4\]
   - 2016年5月20日，允许向Mac应用商店提交软件包。\[9\]\[10\]\[11\]\[12\]
   - 2016年8月2日，支持Windows商店。\[13\]\[14\]
 
-## 基于Electron的软件
+## 使用Electron构建的应用程序
 
-许多知名的软件都使用了Electron 框架，以下是其中一部分:
+许多桌面应用程序都使用Electron构建，以下是其中一部分。\[15\]
 
-  - [Atom](../Page/Atom_\(文字編輯器\).md "wikilink")
-  - [GitHub客户端](../Page/GitHub.md "wikilink")
-  - [Slack](../Page/Slack.md "wikilink")
-  - [GitKraken](https://zh.wikipedia.org/wiki/GitKraken "wikilink")
-  - [Visual Studio Code](../Page/Visual_Studio_Code.md "wikilink")
-  - [WordPress.com](../Page/WordPress.com.md "wikilink")
-  - [Light Table](../Page/Light_Table.md "wikilink")
+  - [Atom](../Page/Atom_\(文字編輯器\).md "wikilink")\[16\]
+
+  - \[17\]
+
+  -
+  - \[18\]
+
+  - [Cryptocat](../Page/Cryptocat.md "wikilink")\[19\]
+
   - [Discord](../Page/Discord.md "wikilink")
-  - [KeeWeb](https://zh.wikipedia.org/wiki/KeeWeb "wikilink")
-  - [Postman](https://zh.wikipedia.org/wiki/Postman "wikilink")
-  - [WhatsApp](../Page/WhatsApp.md "wikilink") Windows及Mac客户端
 
-在[基于Electron 的App](https://electronjs.org/apps)页面中可以查询到更多使用Electron
-构建的应用。
+  - \[20\]
+
+  - [GitHub客户端](../Page/GitHub.md "wikilink")\[21\]
+
+  - [Keybase](../Page/Keybase.md "wikilink")
+
+  - [Light Table](../Page/Light_Table.md "wikilink")
+
+  - \[22\]
+
+  - [MongoDB
+    Compass](https://zh.wikipedia.org/wiki/MongoDB#管理與圖形化介面 "wikilink")\[23\]
+
+  - Shift\[24\]
+
+  - [Signal](../Page/Signal_\(軟件\).md "wikilink")
+
+  - [Skype](../Page/Skype.md "wikilink")\[25\]
+
+  - \[26\]
+
+  - \[27\]
+
+  - [Twitch.tv](https://zh.wikipedia.org/wiki/Twitch.tv "wikilink")
+
+  - [Unity](../Page/Unity_\(游戏引擎\).md "wikilink")
+
+  - [Visual Studio
+    Code](../Page/Visual_Studio_Code.md "wikilink")\[28\]\[29\]
+
+  - \[30\]
+
+  - [WhatsApp](../Page/WhatsApp.md "wikilink")
+
+  - \[31\]
+
+  - [Yammer](../Page/Yammer.md "wikilink")
+
+在[官网](https://electronjs.org/apps)中可以查询到更多使用Electron构建的应用程序。
 
 ## 参见
 
+  -
   - （CEF）
+
+  - [HTML应用程序](../Page/HTML应用程序.md "wikilink")
+
+  - [Blink](../Page/Blink.md "wikilink")
 
   - NWJS——舊名為 node-webkit 。和 Electron
     一樣是基於[chromium的軟體框架](https://zh.wikipedia.org/wiki/chromium "wikilink")
@@ -55,16 +96,57 @@ Studio Code](../Page/Visual_Studio_Code.md "wikilink")。\[3\]\[4\]
 [Category:使用MIT许可证的软件](https://zh.wikipedia.org/wiki/Category:使用MIT许可证的软件 "wikilink")
 
 1.
+
 2.  <https://github.com/atom/electron>
+
 3.  <https://github.com/atom/atom>
+
 4.
+
 5.
+
 6.
+
 7.
+
 8.
+
 9.
+
 10.
+
 11.
+
 12.
+
 13.
+
 14.
+
+15.
+
+16.
+
+17.
+18.
+
+19.
+20.
+
+21.
+
+22.
+
+23.
+24.
+25.
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+31.

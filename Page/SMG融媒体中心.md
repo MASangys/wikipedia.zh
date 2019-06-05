@@ -318,6 +318,262 @@ Court Report</p></td>
 </tbody>
 </table>
 
+## 员工
+
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: center;"><p><strong>管理层</strong></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><p>宋炯明<br />
+（主任）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p><strong>东方卫视、KNEWS新闻中心主播</strong></p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p><a href="../Page/叶蓉.md" title="wikilink">叶　蓉</a></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>姜　波</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p><a href="../Page/柏栩栩.md" title="wikilink">柏栩栩</a></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>荣盛楠</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>刘　晔</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p><strong>上视新闻中心主播</strong></p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>印海蓉</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>周　瑜</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>王兆阳</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>黄　浩</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>石景宇</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p><strong>外语新闻中心主播</strong></p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/张介英" title="wikilink">张介英</a></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>David Symington</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>手语主播</strong></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>唐文妍</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>寇辰珠</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p><strong>主持人/嘉宾主持</strong></p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>杨　光<br />
+（《环球交叉点》）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>刘　凝<br />
+（《七分之一》）</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>赵秋申（秋深）<br />
+（《案件聚焦》）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>何　婕<br />
+（《中国长三角》《今晚60分》）</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>本地新闻记者</strong></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>宣克炅（首席）</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>邱旭黎</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>汤昊鹏</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>陈慧莹</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>应冠文</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>丁　璨</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>李　荣</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>吴　骥</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>朱技(计)华</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>王天峰</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>陈　斌</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>梁　晖</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>李　怡</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>谢丹青</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p><strong>区级电视台特约记者</strong></p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>倪格格<br />
+（崇明）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>瞿煌俊<br />
+（黄浦）</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>金霄雯<br />
+（）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>熊雪寒<br />
+（）</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>刘惠民<br />
+（）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>李婷婷<br />
+（）</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>顾舜丽<br />
+（青浦）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>徐嘉卿<br />
+（）</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>张　健<br />
+（嘉定）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>陈　涛<br />
+（虹口）</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>叶刘琦<br />
+（浦东）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>田　玲<br />
+（）</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>凌珊姗<br />
+（奉贤）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>陈旻成<br />
+（金山）</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>驻境内记者</strong></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>任彬源<br />
+（辽宁）</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>王　峥<br />
+（陕西）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>符　雅<br />
+（海南）</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>驻港澳台记者</strong></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>俞　骅<br />
+（香港）</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>徐蔚珏<br />
+（台北）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p><strong>驻外记者</strong></p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>宋看看<br />
+（东京）</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p><strong>编辑记者</strong></p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>孙晓旻</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>施远立</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>陈　钦</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>蔡晨艺</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p><strong>外语新闻记者/编辑</strong></p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>Stuart Clark</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>徐新晨</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>陈　童</p></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>周宏妍</p></td>
+</tr>
+</tbody>
+</table>
+
 ## 参考文献
 
 ## 注释

@@ -1,4 +1,4 @@
-**HowHow**（），本名**陳孜昊**，[臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[金山區人](../Page/金山區_\(台灣\).md "wikilink")，為知名[喜劇人](https://zh.wikipedia.org/wiki/喜劇人 "wikilink")、[網路紅人](../Page/網絡紅人.md "wikilink")、[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")，他的[Youtube頻道有百萬以上訂閱數及](https://zh.wikipedia.org/wiki/Youtube "wikilink")2億8千萬次以上觀看次數。\[1\]因目前風格為[無厘頭且](https://zh.wikipedia.org/wiki/無厘頭 "wikilink")「廢到笑」的業配影片，其作品在[批踢踢joke板常常第一時間被網友分享並推爆](https://zh.wikipedia.org/wiki/批踢踢 "wikilink")，在網路上有**廢片始祖**、**業配之王**、**業配鬼才**、**叛徒**的暱稱，2018年3月成為了[Office
+**HowHow**（），本名**陳孜昊**，[臺灣](../Page/臺灣.md "wikilink")[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[金山區人](../Page/金山區_\(台灣\).md "wikilink")，為知名[喜劇人](https://zh.wikipedia.org/wiki/喜劇人 "wikilink")、[網路紅人](../Page/網絡紅人.md "wikilink")、[Youtuber](https://zh.wikipedia.org/wiki/Youtuber "wikilink")，他的[Youtube頻道有百萬以上訂閱數及](https://zh.wikipedia.org/wiki/Youtube "wikilink")2億8千萬次以上觀看次數。\[1\]因目前風格為[無厘頭影片](https://zh.wikipedia.org/wiki/無厘頭 "wikilink")，其作品在[批踢踢joke板常常第一時間被網友分享並推爆](https://zh.wikipedia.org/wiki/批踢踢 "wikilink")，在網路上有**廢片始祖**、**業配之王**、**業配鬼才**、**叛徒**的暱稱，2018年3月成為了[Office
 365的品牌代言人](../Page/Office_365.md "wikilink")，目前與其他喜愛音樂的Youtuber所組成的樂團[七月半中擔任貝斯手及團長一職](https://zh.wikipedia.org/wiki/七月半_\(youtuber\) "wikilink")，於2019年2月14日情人節當天與歌手[鄧福如登記結婚](../Page/鄧福如.md "wikilink")。
 
 陳孜昊為[師大附中畢業校友](../Page/國立臺灣師範大學附屬高級中學.md "wikilink")，[國立政治大學經濟系學士](../Page/國立政治大學.md "wikilink")，後負笈[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[喬治亞州](../Page/喬治亞州.md "wikilink")，在[薩凡納藝術設計學院攻讀動畫和視覺特效碩士](../Page/薩凡納藝術設計學院.md "wikilink")。\[2\]
@@ -14,7 +14,7 @@ Fun」，名字取自陳孜昊的「昊」，以及大學[同學葉大方的](ht
 
 2017年7月28日和台北市長[柯文哲一起拍攝](../Page/柯文哲.md "wikilink")[世大運宣傳影片](https://zh.wikipedia.org/wiki/世大運 "wikilink")《台北！我的主場！》\[4\]
 
-10月27日為[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[雷神索爾3：諸神黃昏](../Page/雷神索爾3：諸神黃昏.md "wikilink")》宣傳，全程使用[英語訪問](https://zh.wikipedia.org/wiki/英語 "wikilink")[好萊塢明星](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")[馬克·盧法洛和](https://zh.wikipedia.org/wiki/馬克·盧法洛 "wikilink")[克里斯·漢斯沃](https://zh.wikipedia.org/wiki/克里斯·漢斯沃 "wikilink")。\[5\]
+2017年10月27日為[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[雷神索爾3：諸神黃昏](../Page/雷神索爾3：諸神黃昏.md "wikilink")》宣傳，全程使用[英語訪問](https://zh.wikipedia.org/wiki/英語 "wikilink")[好萊塢明星](https://zh.wikipedia.org/wiki/好萊塢 "wikilink")[馬克·盧法洛和](https://zh.wikipedia.org/wiki/馬克·盧法洛 "wikilink")[克里斯·漢斯沃](https://zh.wikipedia.org/wiki/克里斯·漢斯沃 "wikilink")。\[5\]
 
 2018年3月31日，陳孜昊在新影片《
 HowFun的新夥伴！》中宣布新成員[藍亦明加入HowFun創作團隊](https://zh.wikipedia.org/wiki/藍亦明 "wikilink")。\[6\]

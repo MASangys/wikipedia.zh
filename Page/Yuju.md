@@ -1,5 +1,6 @@
 **崔裕娜**\[1\]（，，），藝名**Yuju**（），[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source
-Music旗下](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[GFRIEND的成員](../Page/GFRIEND.md "wikilink")，在隊內擔任主唱、高音擔當，是4代K-pop女團中音域較高的出色主唱，曾經是[Cube娛樂](../Page/Cube娛樂.md "wikilink")(2011年)和[LOEN娛樂](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")(2012年)的練習生，練習生生涯總長為2-3年(國二至高二)，中間休息過一段時間，高一離開了練習了一年半的公司([LOEN娛樂](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink"))
+Music旗下](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[GFRIEND的成員](../Page/GFRIEND.md "wikilink")，在隊內擔任主唱，是K-pop
+4代女團中最優秀的主唱之一。她曾經是[Cube娛樂](../Page/Cube娛樂.md "wikilink")(2011年)和[LOEN娛樂](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink")(2012年)的練習生，練習生生涯總長為2-3年(國二至高二)，中間休息過一段時間，高一離開了練習了一年半的公司([LOEN娛樂](https://zh.wikipedia.org/wiki/LOEN娛樂 "wikilink"))
 
 ## 簡歷
 

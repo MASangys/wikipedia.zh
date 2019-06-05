@@ -101,7 +101,6 @@ Fortnite</p></td>
 [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")
 [Category:波蘭電子遊戲公司](https://zh.wikipedia.org/wiki/Category:波蘭電子遊戲公司 "wikilink")
 
-1.  [Epic Games buys People Can Fly
-    studio](http://www.joystiq.com/2007/08/20/epic-believes-people-can-fly-acquires-majority-stake/)
+1.
 2.
 3.

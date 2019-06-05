@@ -186,7 +186,7 @@ AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒
 <td><p>愛·回家 / 殭</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/謝東閔" title="wikilink">謝東閔</a></p></td>
+<td><p><a href="../Page/謝東閔_(香港).md" title="wikilink">謝東閔</a></p></td>
 <td><p>愛·回家 / 愛情食物鏈</p></td>
 </tr>
 </tbody>
@@ -211,7 +211,7 @@ AOD我的最愛頒獎典禮](https://zh.wikipedia.org/wiki/MY_AOD我的最愛頒
 <td><p>親親我好媽 / 超時空男臣</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/謝東閔" title="wikilink">謝東閔</a></p></td>
+<td><p><a href="../Page/謝東閔_(香港).md" title="wikilink">謝東閔</a></p></td>
 <td><p>流氓皇帝 / 全職沒女 / 使徒行者2</p></td>
 </tr>
 <tr class="odd">

@@ -17,4 +17,4 @@ X**是**[华为](../Page/华为.md "wikilink")**于2017年5月23日推出的运�
   - [MateBook
     X华为官方商城](https://m.vmall.com/product/417236260.html#cid=91247)
 
-[Category:華為](https://zh.wikipedia.org/wiki/Category:華為 "wikilink")
+[Category:华为笔记本电脑](https://zh.wikipedia.org/wiki/Category:华为笔记本电脑 "wikilink")

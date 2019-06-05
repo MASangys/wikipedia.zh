@@ -20,7 +20,7 @@ iPhone SE沿用了[iPhone
 iPhone SE採用與[iPhone
 6s一致的](https://zh.wikipedia.org/wiki/iPhone_6s "wikilink")[A9晶片](../Page/Apple_A9.md "wikilink")，比起[iPhone
 5s的](https://zh.wikipedia.org/wiki/iPhone_5s "wikilink")[A7晶片擁有](../Page/Apple_A7.md "wikilink")2倍的CPU性能、3倍的GPU性能，也因為新晶片的節能效果，使用時間大幅延長。RAM
-亦與iPhone 6s一樣為2 GB。是市場唯一性能頂規的4吋小手機。
+亦與iPhone 6s一樣為2 GB。是市場唯一性能頂級的4吋小手機。
 
 ### 相機
 

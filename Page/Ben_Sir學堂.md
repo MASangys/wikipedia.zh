@@ -1,5 +1,5 @@
 《**Ben
-Sir學堂**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的綜藝節目](../Page/電視廣播有限公司.md "wikilink")，由[歐陽偉豪擔任主持](../Page/歐陽偉豪.md "wikilink")。本節目於2016年9月25日[香港時間逢星期日晚上](../Page/香港時間.md "wikilink")22:30-23:00在[翡翠台播出](../Page/翡翠台.md "wikilink")，及於[MyTV提供網上節目重溫](../Page/MyTV.md "wikilink")（集數上傳後兩個月後會刪除）。\[1\]
+Sir學堂**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的生活資訊節目](../Page/電視廣播有限公司.md "wikilink")，由[歐陽偉豪擔任主持](../Page/歐陽偉豪.md "wikilink")。本節目於2016年9月25日[香港時間逢星期日晚上](../Page/香港時間.md "wikilink")22:30-23:00在[翡翠台播出](../Page/翡翠台.md "wikilink")，及於[MyTV提供網上節目重溫](../Page/MyTV.md "wikilink")（集數上傳後兩個月後會刪除）。\[1\]
 
 ## 簡介
 

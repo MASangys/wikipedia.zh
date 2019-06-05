@@ -84,9 +84,9 @@ Brightest Diamond》音源与MV同时公开\[8\]。
 <tr class="odd">
 <td><p>星妤[22]</p></td>
 <td><p>Shalldy</p></td>
-<td></td>
-<td></td>
 <td><p>舞蹈</p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -98,6 +98,14 @@ Brightest Diamond》音源与MV同时公开\[8\]。
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>过往成员</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/紫寧.md" title="wikilink">紫宁</a>[24]</p></td>
 <td><p>Winnie</p></td>
 <td><p>张紫宁</p></td>
@@ -107,22 +115,14 @@ Brightest Diamond》音源与MV同时公开\[8\]。
 <td><p>《<a href="https://zh.wikipedia.org/wiki/創造101" title="wikilink">创造101</a>》<br />
 <a href="https://zh.wikipedia.org/wiki/火箭少女101" title="wikilink">火箭少女101</a></p></td>
 </tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="odd">
-<td><p>过往成员</p></td>
 <td><p>心雨[25]</p></td>
 <td><p>Una</p></td>
 <td><p>朱心雨</p></td>
 <td><p><br />
 <a href="https://zh.wikipedia.org/wiki/河南" title="wikilink">河南</a><a href="../Page/新乡市.md" title="wikilink">新乡</a></p></td>
 <td><p>门面</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

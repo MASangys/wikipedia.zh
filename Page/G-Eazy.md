@@ -1,4 +1,4 @@
-杰拉尔德·厄尔·吉勒姆（，），艺名G-Eazy，来自美国[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[奥克兰的说唱歌手](https://zh.wikipedia.org/wiki/奥克兰 "wikilink")、[词曲作者和唱片制作人](https://zh.wikipedia.org/wiki/词曲作者 "wikilink")\[1\]。他的首张专辑，《[不足为奇](https://zh.wikipedia.org/wiki/不足为奇 "wikilink")》得到乐评评论家的积极评价。这张专辑在美国[Billboard
+**杰拉尔德·厄尔·吉勒姆**（，），艺名**G-Eazy**，来自美国[加利福尼亚州](../Page/加利福尼亚州.md "wikilink")[奥克兰的说唱歌手](https://zh.wikipedia.org/wiki/奥克兰 "wikilink")、[词曲作者和唱片制作人](https://zh.wikipedia.org/wiki/词曲作者 "wikilink")\[1\]。他的首张专辑，《[不足为奇](https://zh.wikipedia.org/wiki/不足为奇 "wikilink")》得到乐评评论家的积极评价。这张专辑在美国[Billboard
 200上最高达到](../Page/公告牌二百强专辑榜.md "wikilink")3位。他的第二张专辑，《[黑潮来袭](https://zh.wikipedia.org/wiki/黑潮来袭 "wikilink")》于2015年11月4日发行。它包含[公告牌百强单曲榜前十热门单曲](https://zh.wikipedia.org/wiki/公告牌百强单曲榜 "wikilink")《[Me,
 Myself &
 I](https://zh.wikipedia.org/wiki/Me,_Myself_&_I_\(G-Eazy與碧碧·瑞茲莎歌曲\) "wikilink")》。\[2\]他的第三张专辑《[美丽与毁灭](https://zh.wikipedia.org/wiki/美丽与毁灭 "wikilink")》于2017年12月15日发行。
@@ -177,6 +177,7 @@ Summer组织，这是一个致力于帮助年轻人充分发挥潜力并加强�
   - [G-Eazy的Instagram](http://instagram.com/g_eazy/)
 
 [Category:美國饒舌歌手](https://zh.wikipedia.org/wiki/Category:美國饒舌歌手 "wikilink")
+[Category:西海岸嘻哈音乐人](https://zh.wikipedia.org/wiki/Category:西海岸嘻哈音乐人 "wikilink")
 
 1.
 2.  <http://www.billboard.com/artist/1493192/g-eazy/chart>

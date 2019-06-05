@@ -255,7 +255,7 @@ Stars」系列的再復活作品。
 ## 外部連結
 
   - [HUG！光之美少女光之美少女 All Stars Memories
-    官方網站](http://www.toei-anim.co.jp/movie/precure/)
+    官方網站](http://www.toei-anim.co.jp/movie/2018_hug_precure/)
 
   -
 [Category:2018年日本劇場動畫](https://zh.wikipedia.org/wiki/Category:2018年日本劇場動畫 "wikilink")

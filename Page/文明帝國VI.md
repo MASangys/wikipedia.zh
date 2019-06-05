@@ -2,7 +2,7 @@
 Games开发的](../Page/Firaxis_Games.md "wikilink")[回合策略游戏](https://zh.wikipedia.org/wiki/回合策略游戏 "wikilink")，是[文明系列的最新作品](../Page/文明系列.md "wikilink")，同时是庆祝该系列25周年的作品\[1\]。游戏对应[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[Mac
 OS
-X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux平台](../Page/Linux.md "wikilink")，于2016年10月21日在全球发行。2017年12月21日登陆iOS平台（最初只支持iPad，2018年10月6日开始支持iPhone）；2018年11月16日登陆[任天堂Switch](../Page/任天堂Switch.md "wikilink")\[2\]。
+X及](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")[Linux平台](../Page/Linux.md "wikilink")，于2016年10月21日在全球发行。2017年12月21日登陆[iOS平台](https://zh.wikipedia.org/wiki/iOS "wikilink")（最初只支持iPad，2018年10月6日开始支持iPhone）；2018年11月16日登陆[任天堂Switch](../Page/任天堂Switch.md "wikilink")\[2\]。
 
 ## 游戏概况
 

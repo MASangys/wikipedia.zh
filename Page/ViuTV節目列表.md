@@ -18,21 +18,20 @@
 <thead>
 <tr class="header">
 <th><p>時間</p></th>
-<th><p>星期一<small>（06日）</small></p></th>
-<th><p>星期二<small>（07日）</small></p></th>
-<th><p>星期三<small>（08日）</small></p></th>
-<th><p>星期四<small>（09日）</small></p></th>
-<th><p>星期五<small>（03日）</small></p></th>
-<th><p>星期六<small>（04日）</small></p></th>
-<th><p>星期日<small>（05日）</small></p></th>
+<th><p>星期一<small>（10日）</small></p></th>
+<th><p>星期二<small>（04日）</small></p></th>
+<th><p>星期三<small>（05日）</small></p></th>
+<th><p>星期四<small>（06日）</small></p></th>
+<th><p>星期五<small>（07日）</small></p></th>
+<th><p>星期六<small>（08日）</small></p></th>
+<th><p>星期日<small>（09日）</small></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>19:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/now新聞報道" title="wikilink">7點新聞報道</a><sup>*</sup></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西班牙甲組足球聯賽" title="wikilink">西班牙甲組足球聯賽</a><sup>*</sup><br />
-<small><a href="https://zh.wikipedia.org/wiki/基達菲足球會" title="wikilink">基達菲</a> 對 <a href="https://zh.wikipedia.org/wiki/基羅納足球會" title="wikilink">基朗拿</a></small></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -43,7 +42,7 @@
 <td><p>19:30</p></td>
 <td></td>
 <td><p><a href="../Page/杏林在線.md" title="wikilink">杏林在線</a></p></td>
-<td></td>
+<td><p><a href="../Page/經緯線_(電視節目).md" title="wikilink">經緯線</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -52,8 +51,8 @@
 <tr class="odd">
 <td><p>20:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/扶搖" title="wikilink">扶搖</a></p></td>
-<td><p><a href="../Page/經緯線_(電視節目).md" title="wikilink">經緯線</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/now新聞報道" title="wikilink">8點新聞報道</a><sup>*</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中醫「症」解" title="wikilink">中醫「症」解</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -61,8 +60,8 @@
 </tr>
 <tr class="even">
 <td><p>20:30</p></td>
-<td><p><a href="../Page/Suits_(韓國電視劇).md" title="wikilink">金裝律師</a></p></td>
-<td><p>周六好戲勢: <a href="../Page/魔警.md" title="wikilink">魔警</a></p></td>
+<td><p><a href="../Page/我身後的陶斯.md" title="wikilink">我身後的陶斯</a></p></td>
+<td><p>周六好戲勢: </p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/恐怖醫學" title="wikilink">恐怖醫學</a></p></td>
 <td></td>
 <td></td>
@@ -71,8 +70,8 @@
 </tr>
 <tr class="odd">
 <td><p>21:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/教束" title="wikilink">教束</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/婚內情" title="wikilink">婚內情</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/十二道鋒味" title="wikilink">鋒味 第二季</a><sup>P</sup></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -81,9 +80,9 @@
 </tr>
 <tr class="even">
 <td><p>22:00</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/退休女皇" title="wikilink">退休女皇</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/詭探前傳" title="wikilink">詭探前傳</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/婚內情" title="wikilink">婚內情</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -91,7 +90,7 @@
 </tr>
 <tr class="odd">
 <td><p>22:30</p></td>
-<td><p>-{<a href="https://zh.wikipedia.org/wiki/友枱VIP" title="wikilink">友枱VIP</a>}-</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/愛我嗎?_愛你媽!" title="wikilink">愛我嗎? 愛你媽!</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -101,9 +100,9 @@
 </tr>
 <tr class="even">
 <td><p>23:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/走佬去馬拉" title="wikilink">走佬去馬拉</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/暗殺教室" title="wikilink">暗殺教室2</a></p></td>
-<td><p><a href="../Page/大鳴大放_(電視節目).md" title="wikilink">大鳴大放</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/玩_X_爆二世古" title="wikilink">玩 X 爆二世古</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林盧去追星" title="wikilink">林盧去追星</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿美利堅有外星人2" title="wikilink">阿美利堅有外星人2</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -116,14 +115,14 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/女學生·吹水班" title="wikilink">女學生·吹水班</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/又要威_又要戴頭盔" title="wikilink">又要威 又要戴頭盔</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/總有一瓣喺左近" title="wikilink">總有一瓣喺左近</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_(動畫)" title="wikilink">海賊王</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/now深宵新聞" title="wikilink">深宵新聞</a><sup>*</sup></p></td>
+<td><p><a href="../Page/鬼燈的冷徹.md" title="wikilink">鬼燈的冷徹2</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>00:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/now深宵新聞" title="wikilink">深宵新聞</a></p></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/Regalia_三聖星.md" title="wikilink">雷加利亞三聖星</a><sup>R</sup></p></td>
+<td><p><a href="../Page/齊木楠雄的災難_(動畫).md" title="wikilink">齊木楠雄的災難</a><sup>R</sup></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE_(動畫)" title="wikilink">海賊王</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -152,12 +151,12 @@
 <td><p><strong>實況娛樂</strong></p></td>
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>22:30 - 23:00</p></td>
-<td><p>-{<a href="https://zh.wikipedia.org/wiki/友枱VIP" title="wikilink">友枱VIP</a>}-</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>23:00 - 23:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/走佬去馬拉" title="wikilink">走佬去馬拉</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/林盧去追星" title="wikilink">林盧去追星</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -167,6 +166,20 @@
 <td><p>11:00 - 12:00</p></td>
 <td></td>
 <td><p>重播外購節目</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>13:30 - 14:30</p></td>
+<td></td>
+<td><p>重播節目</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>23:00 - 00:00</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿美利堅有外星人2" title="wikilink">阿美利堅有外星人2</a></p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -212,9 +225,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>21:30 - 23:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/十二道鋒味" title="wikilink">鋒味 第二季</a></p></td>
-<td><p>外購節目</p></td>
+<td><p>22:30 - 23:00</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Mirror_Go" title="wikilink">Mirror Go</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -227,8 +240,8 @@
 </tr>
 <tr class="odd">
 <td><p>逢星期一</p></td>
-<td><p>00:00 - 01:00</p></td>
-<td><p><a href="../Page/精裝送禮仔.md" title="wikilink">精裝送禮仔</a></p></td>
+<td><p>00:30 - 01:00</p></td>
+<td><p><a href="../Page/玩_X_爆泰國.md" title="wikilink">玩 X 爆泰國</a></p></td>
 <td><p>重播節目</p></td>
 <td></td>
 </tr>
@@ -259,40 +272,54 @@
 部分集數於深夜時段重播</p></td>
 </tr>
 <tr class="odd">
+<td><p>逢星期六</p></td>
+<td><p>01:00 - 02:30</p></td>
+<td><p><a href="../Page/Crime_Scene_犯罪現場.md" title="wikilink">犯罪現場</a></p></td>
+<td><p>重播外購節目</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>逢星期日</p></td>
-<td><p>20:30 - 21:30</p></td>
+<td><p>08:30 - 09:00</p></td>
+<td></td>
+<td><p>重播節目</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>09:00 - 09:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/台灣民宿" title="wikilink">台灣民宿</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>&lt;!--逢星期日</p></td>
+<td><p>--&gt;20:30 - 22:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/恐怖醫學" title="wikilink">恐怖醫學</a></p></td>
 <td><p>外購節目<br />
 每集播放三次</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>逢星期一</p></td>
-<td><p>02:00 - 03:00</p></td>
+<td><p>02:30 - 04:00</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>逢星期六</p></td>
+<td><p>12:30 - 14:00</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>逢星期六</p></td>
-<td><p>12:30 - 13:30</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>娛樂新聞</p></td>
 <td><p>逢星期一至五</p></td>
 <td><p>19:30 - 20:00</p></td>
 <td></td>
-<td><p>每集播放三次</p></td>
-</tr>
-<tr class="odd">
-<td><p>逢星期二至六</p></td>
-<td><p>02:00 - 02:30</p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>每集播放兩次</p></td>
 </tr>
 <tr class="even">
 <td><p>逢星期二至五及下星期一</p></td>
@@ -309,15 +336,29 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>娛樂訪談節目</p></td>
+<td><p>逢星期日</p></td>
+<td><p>22:00 - 22:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/週日慶功宴" title="wikilink">週日慶功宴</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>娛樂名人專訪</p></td>
+<td><p>逢星期一、三、五</p></td>
 <td><p>「」時段內播出</p></td>
 <td><p><a href="../Page/Interviu.md" title="wikilink">Interviu</a></p></td>
+<td><p>部分集數於其他時段重播</p></td>
+</tr>
+<tr class="even">
+<td><p>潮流資訊節目</p></td>
+<td><p>逢星期二、四</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>潮流資訊節目</p></td>
-<td></td>
+<td><p>逢星期一</p></td>
+<td><p>01:05 - 01:30</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -332,14 +373,21 @@
 星期四：<a href="https://zh.wikipedia.org/wiki/又要威_又要戴頭盔" title="wikilink">又要威 又要戴頭盔</a><br />
 星期五：<a href="https://zh.wikipedia.org/wiki/總有一瓣喺左近" title="wikilink">總有一瓣喺左近</a></p></td>
 <td><p><a href="../Page/晚吹.md" title="wikilink">晚吹系列</a><br />
-部分集數於深夜時段重播</p></td>
+星期一至四集數於深夜時段重播</p></td>
 </tr>
 <tr class="odd">
-<td><p>健康資訊節目</p></td>
-<td><p>逢星期一</p></td>
-<td><p>01:00 - 02:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/醫定要知道" title="wikilink">醫定要知道</a></p></td>
+<td><p>飲食節目</p></td>
+<td><p>逢星期六</p></td>
+<td><p>14:30 - 15:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/料理美食王" title="wikilink">料理美食王</a></p></td>
 <td><p>外購節目</p></td>
+</tr>
+<tr class="even">
+<td><p>健康資訊節目</p></td>
+<td><p>逢星期六</p></td>
+<td><p>20:00 - 20:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中醫「症」解" title="wikilink">中醫「症」解</a></p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -380,7 +428,7 @@
 <tr class="odd">
 <td><p><strong>逢星期一至五</strong></p></td>
 <td><p>20:30 - 21:30</p></td>
-<td><p><a href="../Page/Suits_(韓國電視劇).md" title="wikilink">金裝律師</a></p></td>
+<td><p><a href="../Page/我身後的陶斯.md" title="wikilink">我身後的陶斯</a></p></td>
 <td><p>韓國劇集<br />
 每集播放兩次</p></td>
 <td></td>
@@ -410,7 +458,7 @@
 <td><p>非黃金時段劇集</p></td>
 <td><p>逢星期一至五</p></td>
 <td><p>13:30 - 15:00</p></td>
-<td><p><a href="../Page/七日的王妃.md" title="wikilink">七日的王妃</a></p></td>
+<td><p><a href="../Page/悄悄話_(電視劇).md" title="wikilink">悄悄話</a></p></td>
 <td><p><strong>熱捧劇站</strong><br />
 重播韓國劇集<br />
 每集播放兩次</p></td>
@@ -424,8 +472,8 @@
 </tr>
 <tr class="odd">
 <td><p>逢星期二至五</p></td>
-<td><p>00:30 - 02:00</p></td>
-<td><p><a href="../Page/打架吧鬼神.md" title="wikilink">打架吧鬼神</a></p></td>
+<td><p>00:30 - 01:30</p></td>
+<td><p><a href="../Page/W－兩個世界.md" title="wikilink">W－兩個世界</a></p></td>
 <td><p>重播韓國劇集</p></td>
 <td></td>
 </tr>
@@ -454,7 +502,7 @@
 <td><p>兒童類動畫</p></td>
 <td><p>每日</p></td>
 <td><p>16:00 - 16:30</p></td>
-<td><p>星期一至五：<a href="../Page/塔麻可吉！.md" title="wikilink">他媽哥池</a>2<br />
+<td><p>星期一至五：<a href="../Page/塔麻可吉！.md" title="wikilink">他媽哥池</a>3<br />
 星期六至日：<a href="../Page/哈囉！小梅子.md" title="wikilink">小梅子日記</a></p></td>
 <td><p>日本動畫<br />
 重播韓國動畫</p></td>
@@ -466,7 +514,7 @@
 星期六：<br />
 星期日：<a href="../Page/魔物獵人物語.md" title="wikilink">魔物獵人物語 RIDE ON</a></p></td>
 <td><p>日本動畫<br />
-日本動畫<br />
+韓國動畫<br />
 韓國動畫<br />
 日本動畫</p></td>
 <td></td>
@@ -505,22 +553,15 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>逢星期日</p></td>
-<td><p>09:15 - 09:30</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>逢星期六至日</p></td>
 <td><p>09:30 - 10:00</p></td>
 <td><p>星期六：<a href="https://zh.wikipedia.org/wiki/超變戰陀" title="wikilink">超變戰陀</a><br />
-星期日：<a href="../Page/機器戰士TOBOT.md" title="wikilink">機器戰士TOBOT</a> 3</p></td>
+星期日：<a href="../Page/機器戰士TOBOT.md" title="wikilink">機器戰士TOBOT</a> 4</p></td>
 <td><p>中國動畫<br />
 韓國動畫</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10:00 - 10:30</p></td>
 <td><p>星期六：<a href="../Page/赤髮白雪姬.md" title="wikilink">赤髮白雪姬</a><br />
 星期日：<a href="../Page/救難小英雄24.md" title="wikilink">時間飛船24</a></p></td>
@@ -528,7 +569,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>10:30 - 11:00</p></td>
 <td><p>星期六：<a href="https://zh.wikipedia.org/wiki/藍海少女" title="wikilink">藍海少女</a><br />
 星期日：<a href="https://zh.wikipedia.org/wiki/PAPA_DOG" title="wikilink">我的狗爸爸</a></p></td>
@@ -537,7 +578,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>逢星期日</p></td>
 <td><p>11:00 - 11:30</p></td>
 <td><p><a href="../Page/假面騎士Build.md" title="wikilink">幪面超人BUILD</a></p></td>
@@ -545,27 +586,20 @@
 每集播放兩次</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>逢星期六</p></td>
 <td><p>00:30 - 01:00</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>非兒童類動畫</p></td>
-<td><p>逢星期六</p></td>
-<td><p>01:00 - 02:00</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金田一少年之事件簿_(動畫)" title="wikilink">金田一少年之事件簿R</a></p></td>
-<td><p>重播日本動畫<br />
-每次播放兩集</p></td>
-</tr>
 <tr class="odd">
-<td><p>23:00 - 23:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/暗殺教室" title="wikilink">暗殺教室</a>2</p></td>
-<td><p>日本動畫</p></td>
-<td></td>
-<td></td>
+<td><p>非兒童類動畫</p></td>
+<td><p>逢星期二至六</p></td>
+<td><p>00:00 - 00:30</p></td>
+<td><p>星期二至三：<a href="../Page/Regalia_三聖星.md" title="wikilink">雷加利亞三聖星</a><br />
+星期四至六：<a href="../Page/齊木楠雄的災難_(動畫).md" title="wikilink">齊木楠雄的災難</a></p></td>
+<td><p>重播日本動畫</p></td>
 </tr>
 <tr class="even">
 <td><p>逢星期日</p></td>
@@ -576,9 +610,9 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>23:30 - 00:00</p></td>
+<td><p>23:30 - 00:30</p></td>
 <td><p><a href="../Page/鬼燈的冷徹.md" title="wikilink">鬼燈的冷徹</a>2</p></td>
-<td><p>日本動畫</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -621,17 +655,24 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>逢星期日</p></td>
+<td><p>11:30 - 12:00</p></td>
+<td><p>北海道耆聞</p></td>
+<td><p>重播外購節目</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>文化藝術節目</p></td>
 <td><p>逢星期日</p></td>
 <td><p>15:00 - 15:30</p></td>
 <td></td>
-<td></td>
+<td><p>外購節目</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>逢星期六至日</p></td>
 <td><p>15:30 - 16:00</p></td>
 <td><p>星期六：<br />
-星期日：</p></td>
+星期日：<a href="https://zh.wikipedia.org/wiki/活匠當下" title="wikilink">活匠當下 2</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -654,16 +695,9 @@
 <td><p>逢星期五</p></td>
 <td><p>12:30 - 13:00</p></td>
 <td></td>
-<td><p>重播節目</p></td>
+<td><p>重播節目 &lt;!--|-</p></td>
 </tr>
 <tr class="odd">
-<td><p>歌唱比賽</p></td>
-<td><p>逢星期六</p></td>
-<td><p>13:30 - 15:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/2018中國好聲音" title="wikilink">中國好聲音</a></p></td>
-<td><p>外購節目</p></td>
-</tr>
-<tr class="even">
 <td><p>本地及國際流行音樂</p></td>
 <td><p>不定期播放</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ViuTV節目列表#大型音樂會" title="wikilink">大型音樂會、音樂特輯</a></p></td>
@@ -697,7 +731,7 @@
 <td><p>香港電台節目</p></td>
 <td><p>逢星期一至五</p></td>
 <td><p>18:30 - 19:00</p></td>
-<td><p>星期一至四：<a href="../Page/香港故事.md" title="wikilink">香港故事</a> - 數字人生<br />
+<td><p>星期一至四：<a href="../Page/香港故事.md" title="wikilink">香港故事</a> - 尋優探品<br />
 星期五：<a href="../Page/警訊.md" title="wikilink">警訊</a></p></td>
 <td><p>除《警訊》以外其他節目曾於<a href="../Page/港台電視31、31A.md" title="wikilink">港台電視31、31A播出</a></p></td>
 </tr>
@@ -776,7 +810,8 @@
 </tr>
 <tr class="even">
 <td><p><strong>逢星期二至六</strong></p></td>
-<td><p>00:00 - 00:30</p></td>
+<td><p>02:00 - 02:30（星期二至五）<br />
+02:30 - 03:00（星期六）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -850,7 +885,6 @@
 <tr class="header">
 <th><p>首播日期</p></th>
 <th><p>播映時間</p></th>
-<th><p>頻道</p></th>
 <th style="text-align: center;"><p><strong>電影名稱（中文）</strong><br />
 （英文）</p></th>
 <th><p>演員</p></th>
@@ -862,7 +896,6 @@
 <tr class="odd">
 <td><p>2019年2月23日</p></td>
 <td><p>20:30-22:35</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/一個人的武林" title="wikilink">一個人的武林</a><br />
 Kung Fu Jungle</p></td>
 <td><p><a href="../Page/甄子丹.md" title="wikilink">甄子丹</a>、<a href="https://zh.wikipedia.org/wiki/王寶強" title="wikilink">王寶強</a>、<a href="https://zh.wikipedia.org/wiki/楊采妮" title="wikilink">楊采妮</a>、<a href="https://zh.wikipedia.org/wiki/白冰" title="wikilink">白　冰</a></p></td>
@@ -872,7 +905,6 @@ Kung Fu Jungle</p></td>
 <tr class="even">
 <td><p>2019年3月2日</p></td>
 <td><p>20:30-23:30</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/讓子彈飛" title="wikilink">讓子彈飛</a><br />
 Let the Bullets Fly</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/周潤發" title="wikilink">周潤發</a>、<a href="../Page/姜文.md" title="wikilink">姜　文</a>、<a href="https://zh.wikipedia.org/wiki/葛優" title="wikilink">葛　優</a>、<a href="https://zh.wikipedia.org/wiki/劉嘉玲" title="wikilink">劉嘉玲</a>、<a href="https://zh.wikipedia.org/wiki/陳坤" title="wikilink">陳　坤</a></p></td>
@@ -883,7 +915,6 @@ Let the Bullets Fly</p></td>
 <tr class="odd">
 <td><p>2019年3月9日</p></td>
 <td><p>20:30-23:15</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/大魔術師" title="wikilink">大魔術師</a><br />
 The Great Magician</p></td>
 <td><p><a href="../Page/梁朝偉.md" title="wikilink">梁朝偉</a>、<a href="../Page/劉青雲.md" title="wikilink">劉青雲</a>、<a href="../Page/周迅.md" title="wikilink">周　迅</a></p></td>
@@ -893,7 +924,6 @@ The Great Magician</p></td>
 <tr class="even">
 <td><p>2019年3月16日</p></td>
 <td><p>20:30-22:45</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="../Page/志明與春嬌_(電影).md" title="wikilink">志明與春嬌</a><br />
 Love In A Puff</p></td>
 <td><p><a href="../Page/楊千嬅.md" title="wikilink">楊千嬅</a>、<a href="../Page/余文樂.md" title="wikilink">余文樂</a></p></td>
@@ -903,7 +933,6 @@ Love In A Puff</p></td>
 <tr class="odd">
 <td><p>2019年3月23日</p></td>
 <td><p>20:30-23:00</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="../Page/哪一天我們會飛.md" title="wikilink">哪一天我們會飛</a><br />
 She Remembers, He Forgets</p></td>
 <td><p><a href="../Page/楊千嬅.md" title="wikilink">楊千嬅</a>、<a href="https://zh.wikipedia.org/wiki/林海峰" title="wikilink">林海峰</a>、<a href="../Page/蘇麗珊.md" title="wikilink">蘇麗珊</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、<a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a></p></td>
@@ -913,7 +942,6 @@ She Remembers, He Forgets</p></td>
 <tr class="even">
 <td><p>2019年3月30日</p></td>
 <td><p>20:30-22:50</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="../Page/一念無明_(電影).md" title="wikilink">一念無明</a><br />
 Mad World</p></td>
 <td><p><a href="../Page/余文樂.md" title="wikilink">余文樂</a>、<a href="../Page/曾志偉.md" title="wikilink">曾志偉</a>、<a href="../Page/金燕玲.md" title="wikilink">金燕玲</a>、<a href="../Page/方皓玟.md" title="wikilink">方皓玟</a></p></td>
@@ -923,7 +951,6 @@ Mad World</p></td>
 <tr class="odd">
 <td><p>2019年4月6日</p></td>
 <td><p>20:30-22:30</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="../Page/點五步.md" title="wikilink">點五步</a><br />
 Weeds on Fire</p></td>
 <td><p><a href="../Page/廖啟智.md" title="wikilink">廖啟智</a>、<a href="../Page/林耀聲.md" title="wikilink">林耀聲</a>、-{<a href="../Page/胡子彤.md" title="wikilink">胡子彤</a>}-</p></td>
@@ -933,7 +960,6 @@ Weeds on Fire</p></td>
 <tr class="even">
 <td><p>2019年4月13日</p></td>
 <td><p>20:30-22:30</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/樹大招風" title="wikilink">樹大招風</a><br />
 Trivisa</p></td>
 <td><p><a href="../Page/任賢齊.md" title="wikilink">任賢齊</a>、<a href="../Page/林家棟.md" title="wikilink">林家棟</a>、<a href="https://zh.wikipedia.org/wiki/陳小春" title="wikilink">陳小春</a></p></td>
@@ -943,7 +969,6 @@ Trivisa</p></td>
 <tr class="odd">
 <td><p>2019年4月20日</p></td>
 <td><p>20:30-23:15</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="../Page/那夜凌晨，我坐上了旺角開往大埔的紅VAN_(電影).md" title="wikilink">那夜凌晨，我坐上了旺角開往大埔的紅VAN</a><br />
 The Midnight After</p></td>
 <td><p><a href="../Page/黃又南.md" title="wikilink">黃又南</a>、<a href="../Page/文詠珊.md" title="wikilink">文詠珊</a>、<a href="../Page/任達華.md" title="wikilink">任達華</a>、<a href="../Page/徐天佑.md" title="wikilink">徐天佑</a>、<a href="../Page/惠英紅.md" title="wikilink">惠英紅</a>、<a href="../Page/林雪.md" title="wikilink">林　雪</a></p></td>
@@ -953,7 +978,6 @@ The Midnight After</p></td>
 <tr class="even">
 <td><p>2019年5月4日</p></td>
 <td><p>20:30-23:00</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="../Page/魔警.md" title="wikilink">魔警</a><br />
 That Demon Within</p></td>
 <td><p><a href="../Page/吳彥祖.md" title="wikilink">吳彥祖</a>、<a href="../Page/張家輝.md" title="wikilink">張家輝</a></p></td>
@@ -963,7 +987,6 @@ That Demon Within</p></td>
 <tr class="odd">
 <td><p>2019年5月11日</p></td>
 <td><p>20:30-23:00</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/29+1" title="wikilink">29+1</a><br />
 29+1</p></td>
 <td><p><a href="../Page/周秀娜.md" title="wikilink">周秀娜</a>、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a>、<a href="../Page/蔡瀚億.md" title="wikilink">蔡瀚億</a>、<a href="https://zh.wikipedia.org/wiki/楊尚斌" title="wikilink">楊尚斌</a></p></td>
@@ -971,29 +994,80 @@ That Demon Within</p></td>
 <td><p>周六好戲勢系列</p></td>
 </tr>
 <tr class="even">
-<td><p>2019年5月25日</p></td>
+<td><p>2019年5月18日</p></td>
 <td><p>20:30-23:00</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="../Page/鎗王之王.md" title="wikilink">鎗王之王</a><br />
 Triple Tap</p></td>
 <td><p><a href="../Page/古天樂.md" title="wikilink">古天樂</a>、<a href="../Page/吳彥祖.md" title="wikilink">吳彥祖</a>、<a href="https://zh.wikipedia.org/wiki/李冰冰" title="wikilink">李冰冰</a>、<a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a></p></td>
 <td><p>2010年</p></td>
-<td></td>
+<td><p>周六好戲勢系列</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年5月25日</p></td>
+<td><p>20:30-23:00</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/救火英雄" title="wikilink">救火英雄</a><br />
+As The Light Goes Out</p></td>
+<td><p><a href="../Page/謝霆鋒.md" title="wikilink">謝霆鋒</a>、<a href="../Page/余文樂.md" title="wikilink">余文樂</a>、<a href="../Page/任達華.md" title="wikilink">任達華</a>、<a href="../Page/胡軍.md" title="wikilink">胡　軍</a></p></td>
+<td><p>2012年</p></td>
+<td><p>周六好戲勢系列</p></td>
+</tr>
+<tr class="even">
 <td><p>2019年6月1日</p></td>
 <td><p>20:30-22:45</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="../Page/衝鋒車_(2015年電影).md" title="wikilink">衝鋒車</a><br />
 Two Thumbs Up</p></td>
 <td><p><a href="../Page/吳鎮宇.md" title="wikilink">吳鎮宇</a>、<a href="../Page/任達華.md" title="wikilink">任達華</a>、<a href="../Page/古巨基.md" title="wikilink">古巨基</a>、<a href="../Page/譚耀文.md" title="wikilink">譚耀文</a>、<a href="../Page/鄭浩南.md" title="wikilink">鄭浩南</a>、<a href="https://zh.wikipedia.org/wiki/思漩" title="wikilink">思　漩</a>、<a href="../Page/姜皓文.md" title="wikilink">姜皓文</a></p></td>
 <td><p>2015年</p></td>
-<td><p>&lt;!--</p></td>
+<td><p>周六好戲勢系列</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月15日</p></td>
+<td><p>20:30-23:00</p></td>
+<td style="text-align: center;"><p><a href="../Page/一個好爸爸.md" title="wikilink">一個好爸爸</a><br />
+Run, Papa, Run!</p></td>
+<td><p><a href="../Page/古天樂.md" title="wikilink">古天樂</a>、<a href="https://zh.wikipedia.org/wiki/劉若英" title="wikilink">劉若英</a>、<a href="../Page/苗可秀.md" title="wikilink">苗可秀</a>、<a href="https://zh.wikipedia.org/wiki/劉一含" title="wikilink">劉一含</a>、<a href="../Page/莫少聰.md" title="wikilink">莫少聰</a>、<a href="../Page/林雪.md" title="wikilink">林　雪</a></p></td>
+<td><p>2008年</p></td>
+<td><p>周六好戲勢系列</p></td>
 </tr>
 <tr class="even">
-<td><p>未知</p></td>
+<td><p>2019年6月22日</p></td>
+<td><p>20:30-23:00</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/天亮之前" title="wikilink">天亮之前</a><br />
+One Night Only</p></td>
+<td><p><a href="../Page/郭富城.md" title="wikilink">郭富城</a>、<a href="https://zh.wikipedia.org/wiki/楊子姗" title="wikilink">楊子姗</a>、<a href="../Page/郝蕾.md" title="wikilink">郝　蕾</a>、-{<a href="https://zh.wikipedia.org/wiki/安志杰" title="wikilink">安志杰</a>}-</p></td>
+<td><p>2016年</p></td>
+<td><p>周六好戲勢系列</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月29日</p></td>
+<td><p>20:30-22:30</p></td>
+<td style="text-align: center;"><p><a href="../Page/前度.md" title="wikilink">前度</a><br />
+Ex</p></td>
+<td><p><a href="../Page/鍾欣潼.md" title="wikilink">鍾欣潼</a>、<a href="../Page/陳偉霆.md" title="wikilink">陳偉霆</a>、<a href="https://zh.wikipedia.org/wiki/衞詩雅" title="wikilink">衞詩雅</a>、<a href="https://zh.wikipedia.org/wiki/杜汶澤" title="wikilink">杜汶澤</a>、<a href="https://zh.wikipedia.org/wiki/林二汶" title="wikilink">林二汶</a>、<a href="../Page/恬妞.md" title="wikilink">恬　妞</a></p></td>
+<td><p>2010年</p></td>
+<td><p>周六好戲勢系列 &lt;!--</p></td>
+</tr>
+<tr class="even">
+<td><p>未定</p></td>
+<td><p>20:30-22:30</p></td>
+<td style="text-align: center;"><p><a href="../Page/神鎗手_(香港電影).md" title="wikilink">神鎗手</a><br />
+The Sniper</p></td>
+<td><p><a href="../Page/任賢齊.md" title="wikilink">任賢齊</a>、<a href="https://zh.wikipedia.org/wiki/黃曉明" title="wikilink">黃曉明</a>、<a href="../Page/陳冠希.md" title="wikilink">陳冠希</a></p></td>
+<td><p>2009年</p></td>
+<td><p>周六好戲勢系列</p></td>
+</tr>
+<tr class="odd">
+<td><p>未定</p></td>
+<td><p>20:30-22:30</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/導火新聞線_(電影)" title="wikilink">導火新聞線</a><br />
+The Menu</p></td>
+<td><p><a href="../Page/吳孟達.md" title="wikilink">吳孟達</a>、<a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<a href="../Page/周家怡.md" title="wikilink">周家怡</a>、<a href="https://zh.wikipedia.org/wiki/楊淇" title="wikilink">楊　淇</a></p></td>
+<td><p>2016年</p></td>
+<td><p>周六好戲勢系列</p></td>
+</tr>
+<tr class="even">
+<td><p>未定</p></td>
 <td><p>20:30-23:15</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="../Page/戲王之王_(2007年電影).md" title="wikilink">戲王之王</a><br />
 Simply Actors</p></td>
 <td><p><a href="../Page/蔡卓妍.md" title="wikilink">蔡卓妍</a>、<a href="../Page/詹瑞文.md" title="wikilink">詹瑞文</a>、<a href="../Page/葉璇.md" title="wikilink">葉　璇</a>、<a href="../Page/陳司翰.md" title="wikilink">陳司翰</a></p></td>
@@ -1001,74 +1075,32 @@ Simply Actors</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>未知</p></td>
-<td><p>20:30-23:00</p></td>
-<td><p>ViuTV</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/救火英雄" title="wikilink">救火英雄</a><br />
-As The Light Goes Out</p></td>
-<td><p><a href="../Page/謝霆鋒.md" title="wikilink">謝霆鋒</a>、<a href="../Page/余文樂.md" title="wikilink">余文樂</a>、<a href="../Page/任達華.md" title="wikilink">任達華</a>、<a href="../Page/胡軍.md" title="wikilink">胡　軍</a></p></td>
-<td><p>2012年</p></td>
+<td><p>未定</p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p>未知</p></td>
-<td><p>未知</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/單身男女" title="wikilink">單身男女</a><br />
 Don't Go Breaking My Heart</p></td>
 <td><p><a href="../Page/古天樂.md" title="wikilink">古天樂</a>、<a href="https://zh.wikipedia.org/wiki/高圓圓" title="wikilink">高圓圓</a>、<a href="../Page/吳彥祖.md" title="wikilink">吳彥祖</a></p></td>
 <td><p>2011年</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>未知</p></td>
-<td><p>未知</p></td>
-<td><p>ViuTV</p></td>
-<td style="text-align: center;"><p><a href="../Page/前度.md" title="wikilink">前度</a><br />
-Ex</p></td>
-<td><p><a href="../Page/鍾欣潼.md" title="wikilink">鍾欣潼</a>、<a href="../Page/陳偉霆.md" title="wikilink">陳偉霆</a>、<a href="https://zh.wikipedia.org/wiki/衞詩雅" title="wikilink">衞詩雅</a>、<a href="https://zh.wikipedia.org/wiki/杜汶澤" title="wikilink">杜汶澤</a>、<a href="https://zh.wikipedia.org/wiki/林二汶" title="wikilink">林二汶</a>、<a href="../Page/恬妞.md" title="wikilink">恬　妞</a></p></td>
-<td><p>2010年</p></td>
-<td></td>
-</tr>
 <tr class="even">
-<td><p>未知</p></td>
-<td><p>未知</p></td>
-<td><p>ViuTV</p></td>
+<td><p>未定</p></td>
+<td></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/非誠勿擾_(電影)" title="wikilink">非誠勿擾</a><br />
 If You Are the One</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/葛優" title="wikilink">葛　優</a>、<a href="../Page/舒淇.md" title="wikilink">舒　淇</a>、<a href="../Page/方中信.md" title="wikilink">方中信</a>、<a href="https://zh.wikipedia.org/wiki/馮遠征" title="wikilink">馮遠征</a>、<a href="../Page/胡可.md" title="wikilink">胡　可</a>、<a href="../Page/徐若瑄.md" title="wikilink">徐若瑄</a>、<a href="https://zh.wikipedia.org/wiki/范偉" title="wikilink">范　偉</a></p></td>
 <td><p>2008年</p></td>
-<td></td>
+<td><p>普通話對白</p></td>
 </tr>
 <tr class="odd">
-<td><p>未知</p></td>
-<td><p>未知</p></td>
-<td><p>ViuTV</p></td>
-<td style="text-align: center;"><p><a href="../Page/一個好爸爸.md" title="wikilink">一個好爸爸</a><br />
-Run, Papa, Run!</p></td>
-<td><p><a href="../Page/古天樂.md" title="wikilink">古天樂</a>、<a href="https://zh.wikipedia.org/wiki/劉若英" title="wikilink">劉若英</a>、<a href="../Page/苗可秀.md" title="wikilink">苗可秀</a>、<a href="https://zh.wikipedia.org/wiki/劉一含" title="wikilink">劉一含</a>、<a href="../Page/莫少聰.md" title="wikilink">莫少聰</a>、<a href="../Page/林雪.md" title="wikilink">林　雪</a></p></td>
-<td><p>2008年</p></td>
-<td><p>--&gt;</p></td>
+<td><p>未定</p></td>
+<td></td>
+<td style="text-align: center;"><p><a href="../Page/破風_(電影).md" title="wikilink">破風</a><br />
+To The Fore</p></td>
+<td><p><a href="../Page/彭于晏.md" title="wikilink">彭于晏</a>、<a href="../Page/崔始源.md" title="wikilink">崔始源</a>、<a href="../Page/竇驍.md" title="wikilink">竇　驍</a>、<a href="../Page/王珞丹.md" title="wikilink">王珞丹</a></p></td>
+<td><p>2015年</p></td>
+<td><p>普通話對白 --&gt;</p></td>
 </tr>
-</tbody>
-</table>
-
-### 日本
-
-<table>
-<thead>
-<tr class="header">
-<th><p>首播日期</p></th>
-<th><p>播映時間</p></th>
-<th><p>頻道</p></th>
-<th style="text-align: center;"><p><strong>電影名稱（中文）</strong><br />
-（英文）</p></th>
-<th><p>演員</p></th>
-<th><p>發行年份</p></th>
-<th><p>備註</p></th>
-</tr>
-</thead>
-<tbody>
 </tbody>
 </table>
 
@@ -1079,7 +1111,6 @@ Run, Papa, Run!</p></td>
 <tr class="header">
 <th><p>首播日期</p></th>
 <th><p>播映時間</p></th>
-<th><p>頻道</p></th>
 <th style="text-align: center;"><p><strong>電影名稱（中文）</strong><br />
 （英文）</p></th>
 <th><p>演員</p></th>
@@ -1091,7 +1122,6 @@ Run, Papa, Run!</p></td>
 <tr class="odd">
 <td><p>2018年9月30日</p></td>
 <td><p>21:30-00:15</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="../Page/回家的路_(電影).md" title="wikilink">回家的路</a><br />
 Way Back Home</p></td>
 <td><p><a href="../Page/全道嬿.md" title="wikilink">全道嬿</a>、<a href="../Page/高洙.md" title="wikilink">高　洙</a></p></td>
@@ -1101,32 +1131,38 @@ Way Back Home</p></td>
 <tr class="even">
 <td><p>2018年10月7日</p></td>
 <td><p>21:30-00:30</p></td>
-<td><p>ViuTV</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/我的小小英雄" title="wikilink">我的小小英雄</a><br />
+<td style="text-align: center;"><p><br />
 My Little Hero</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金來沅" title="wikilink">金來沅</a>、<a href="../Page/趙安_(韓國藝人).md" title="wikilink">趙　安</a>、<a href="https://zh.wikipedia.org/wiki/池大韓" title="wikilink">池大韓</a>、<a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金來沅" title="wikilink">金來沅</a>、<a href="../Page/趙安_(韓國藝人).md" title="wikilink">趙　安</a>、、<a href="../Page/李光洙_(演員).md" title="wikilink">李光洙</a></p></td>
 <td><p>2013年</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年10月21日</p></td>
 <td><p>21:30-00:00</p></td>
-<td><p>ViuTV</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/爸爸是女兒" title="wikilink">爸爸是女兒</a><br />
+<td style="text-align: center;"><p><br />
 Daddy You, Daughter Me</p></td>
 <td><p><a href="../Page/尹帝文.md" title="wikilink">尹帝文</a>、<a href="../Page/庭沼珉.md" title="wikilink">庭沼珉</a>、<a href="../Page/李一花.md" title="wikilink">李一花</a>、<a href="../Page/申久.md" title="wikilink">申　久</a></p></td>
-<td><p>2016年</p></td>
+<td><p>2017年</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2018年10月28日</p></td>
 <td><p>21:30-00:00</p></td>
-<td><p>ViuTV</p></td>
 <td style="text-align: center;"><p><a href="../Page/鐵線蟲_(電影).md" title="wikilink">鐵線蟲入侵</a><br />
 Deranged</p></td>
 <td><p><a href="../Page/金明民.md" title="wikilink">金明民</a>、<a href="../Page/文晶熙.md" title="wikilink">文晶熙</a>、<a href="../Page/金烔完.md" title="wikilink">金烔完</a>、<a href="https://zh.wikipedia.org/wiki/李荷妮" title="wikilink">李荷妮</a></p></td>
 <td><p>2012年</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月8日</p></td>
+<td><p>20:30-23:00</p></td>
+<td style="text-align: center;"><p><br />
+No Tears for the Dead</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/張東健" title="wikilink">張東健</a>、<a href="../Page/金敏喜.md" title="wikilink">金敏喜</a></p></td>
+<td><p>2014年</p></td>
+<td><p>周六好戲勢系列</p></td>
 </tr>
 </tbody>
 </table>
@@ -1235,8 +1271,10 @@ Cultural Club</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016年5月2日</p></td>
-<td><p>星期二至六：<br />
-00:00-00:30</p></td>
+<td><p>星期二至五：<br />
+02:00-02:30<br />
+星期六：<br />
+02:30-03:00</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/now深宵新聞" title="wikilink">深宵新聞</a><br />
 Late News</p></td>
 <td></td>
@@ -1827,7 +1865,7 @@ NPC Opening</p></td>
 <td><p>10:30-11:55</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/行政長官答問會" title="wikilink">行政長官答問會</a><br />
 CE Q&amp;A Session</p></td>
-<td><p>主持：</p></td>
+<td><p>主持：<a href="https://zh.wikipedia.org/wiki/黃浩霖" title="wikilink">黃浩霖</a></p></td>
 <td><p>與<a href="../Page/Now新聞台.md" title="wikilink">Now新聞台同步播出</a></p></td>
 </tr>
 </tbody>
@@ -2232,7 +2270,7 @@ ViuTV Facebook直播主持：<a href="../Page/楊樂文.md" title="wikilink">楊
 <td><p>電影頒獎禮</p></td>
 <td><p><a href="../Page/第38屆香港電影金像獎.md" title="wikilink">第38屆香港電影金像獎頒獎典禮</a><br />
 The 38th Hong Kong Film Awards Presentation Ceremony</p></td>
-<td><p>主持：<a href="../Page/盧鎮業.md" title="wikilink">盧鎮業</a>、<a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、<a href="../Page/朱鑑然.md" title="wikilink">朱鑑然</a>、<a href="../Page/余香凝.md" title="wikilink">余香凝</a>、<a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/李任燊.md" title="wikilink">李任燊</a>、<a href="../Page/李靖筠.md" title="wikilink">李靖筠</a>、<a href="../Page/杜小喬.md" title="wikilink">杜小喬</a>、<a href="../Page/林耀聲.md" title="wikilink">林耀聲</a>、-{<a href="../Page/胡子彤.md" title="wikilink">胡子彤</a>}-、<a href="../Page/凌文龍.md" title="wikilink">凌文龍</a>、<a href="../Page/袁澧林.md" title="wikilink">袁澧林</a>、<a href="../Page/梁雍婷.md" title="wikilink">梁雍婷</a>、<a href="../Page/郭奕芯.md" title="wikilink">郭奕芯</a>、<a href="../Page/陳健朗.md" title="wikilink">陳健朗</a>、<a href="../Page/陳嘉桓.md" title="wikilink">陳嘉桓</a>、<a href="../Page/陳欣妍.md" title="wikilink">陳欣妍</a>、<a href="../Page/陳漢娜.md" title="wikilink">陳漢娜</a>、<a href="../Page/麥芷誼.md" title="wikilink">麥芷誼</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、<a href="../Page/湯加文.md" title="wikilink">湯加文</a>、、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<a href="../Page/劉頌鵬.md" title="wikilink">劉頌鵬</a>、<a href="../Page/蔡瀚億.md" title="wikilink">蔡瀚億</a>、<a href="../Page/談善言.md" title="wikilink">談善言</a>、<a href="../Page/鄧月平.md" title="wikilink">鄧月平</a>、<a href="https://zh.wikipedia.org/wiki/謝高晉" title="wikilink">謝高晉</a>、<a href="../Page/蘇麗珊.md" title="wikilink">蘇麗珊</a>、<a href="../Page/顧定軒.md" title="wikilink">顧定軒</a><br />
+<td><p>主持：<a href="../Page/盧鎮業.md" title="wikilink">盧鎮業</a>、<a href="../Page/王敏奕.md" title="wikilink">王敏奕</a>、<a href="../Page/朱鑑然.md" title="wikilink">朱鑑然</a>、<a href="../Page/余香凝.md" title="wikilink">余香凝</a>、<a href="../Page/吳肇軒.md" title="wikilink">吳肇軒</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="../Page/李任燊.md" title="wikilink">李任燊</a>、<a href="../Page/李靖筠.md" title="wikilink">李靖筠</a>、<a href="../Page/杜小喬.md" title="wikilink">杜小喬</a>、<a href="../Page/林耀聲.md" title="wikilink">林耀聲</a>、-{<a href="../Page/胡子彤.md" title="wikilink">胡子彤</a>}-、<a href="../Page/凌文龍.md" title="wikilink">凌文龍</a>、<a href="../Page/袁澧林.md" title="wikilink">袁澧林</a>、<a href="../Page/梁雍婷.md" title="wikilink">梁雍婷</a>、<a href="../Page/郭奕芯.md" title="wikilink">郭奕芯</a>、<a href="../Page/陳健朗.md" title="wikilink">陳健朗</a>、<a href="../Page/陳嘉桓.md" title="wikilink">陳嘉桓</a>、<a href="../Page/陳欣妍.md" title="wikilink">陳欣妍</a>、<a href="../Page/陳漢娜.md" title="wikilink">陳漢娜</a>、<a href="../Page/麥芷誼.md" title="wikilink">麥芷誼</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、<a href="../Page/湯加文.md" title="wikilink">湯加文</a>、<a href="../Page/黃定謙.md" title="wikilink">黃定謙</a>、<a href="../Page/黃溢濠.md" title="wikilink">黃溢濠</a>、<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<a href="../Page/劉頌鵬.md" title="wikilink">劉頌鵬</a>、<a href="../Page/蔡瀚億.md" title="wikilink">蔡瀚億</a>、<a href="../Page/談善言.md" title="wikilink">談善言</a>、<a href="../Page/鄧月平.md" title="wikilink">鄧月平</a>、<a href="https://zh.wikipedia.org/wiki/謝高晉" title="wikilink">謝高晉</a>、<a href="../Page/蘇麗珊.md" title="wikilink">蘇麗珊</a>、<a href="../Page/顧定軒.md" title="wikilink">顧定軒</a><br />
 ViuTV現場主持：</p></td>
 <td></td>
 <td><p><strong>現場直播</strong><br />
@@ -2971,11 +3009,21 @@ Hong Kong Asian Pop Music Festival 2019</p></td>
 <td><p><a href="../Page/香港電台.md" title="wikilink">香港電台製作</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>5月13日</p></td>
-<td><p>00:00-01:30</p></td>
-<td><p>本地音樂</p></td>
-<td><p><a href="../Page/ToNick.md" title="wikilink">ToNick</a> 演唱會 2019<br />
+<td><p>6月15日</p></td>
+<td><p>23:00-01:00</p></td>
+<td><p>國際音樂</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/5G_科技演唱會" title="wikilink">5G 科技演唱會</a><br />
 </p></td>
+<td><p>演出：</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6月30日</p></td>
+<td><p>23:30-01:00</p></td>
+<td><p>本地音樂</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ToNick_Live_For_More_Concert" title="wikilink">ToNick Live For More Concert</a><br />
+ToNick Live For More Concert</p></td>
 <td><p>演出：<a href="../Page/ToNick.md" title="wikilink">ToNick</a></p></td>
 <td></td>
 <td><p>&lt;!-- |-</p></td>
@@ -3312,15 +3360,15 @@ Tung Wah Group of Hospitals Student Ambassador Tour to Vancouver 2018</p></td>
 <td><p>外購節目（<a href="../Page/加拿大.md" title="wikilink">加拿大</a><a href="../Page/新時代電視.md" title="wikilink">新時代電視</a>）</p></td>
 </tr>
 <tr class="even">
-<td><p>5月11日</p></td>
+<td><p>5月12日</p></td>
 <td><p>2</p></td>
 <td><p>20:00-20:30</p></td>
 <td><p>體育</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/敢跑到極地" title="wikilink">敢跑到極地</a><br />
-</p></td>
-<td><p>嘉賓：<a href="https://zh.wikipedia.org/wiki/徐志堅_(香港)" title="wikilink">徐志堅</a>、<a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a>、<a href="../Page/劉心悠.md" title="wikilink">劉心悠</a></p></td>
+Running The North Pole Marathon</p></td>
+<td><p>嘉賓：<a href="../Page/劉心悠.md" title="wikilink">劉心悠</a>、<a href="../Page/梁釗峰.md" title="wikilink">梁釗峰</a>、<a href="https://zh.wikipedia.org/wiki/徐志堅_(香港)" title="wikilink">徐志堅</a></p></td>
 <td><p><a href="../Page/富衛.md" title="wikilink">FWD富衛保險</a></p></td>
-<td></td>
+<td><p>外判節目（<a href="../Page/香港.md" title="wikilink">香港Dejavu</a> Creative）</p></td>
 </tr>
 </tbody>
 </table>
@@ -3426,6 +3474,7 @@ Tung Wah Group of Hospitals Student Ambassador Tour to Vancouver 2018</p></td>
 | 2019年3月17日                                                              | 23:10-01:15 | [愛斯賓奴](../Page/皇家西班牙人體育俱樂部.md "wikilink") 對 [西維爾](https://zh.wikipedia.org/wiki/西維爾足球會 "wikilink")                       |                                                                                                                     |                                                                                   |
 | 2019年4月21日                                                              | 19:55-22:00 | [基達菲](https://zh.wikipedia.org/wiki/基達菲足球會 "wikilink") 對 [西維爾](https://zh.wikipedia.org/wiki/西維爾足球會 "wikilink")          |                                                                                                                     |                                                                                   |
 | 2019年5月5日                                                               | 17:55-20:00 | [基達菲](https://zh.wikipedia.org/wiki/基達菲足球會 "wikilink") 對 [基朗拿](https://zh.wikipedia.org/wiki/基羅納足球會 "wikilink")          |                                                                                                                     |                                                                                   |
+| 2019年5月19日                                                              | 02:40-04:45 | [切爾達](https://zh.wikipedia.org/wiki/切爾達 "wikilink") 對 [華歷簡奴](https://zh.wikipedia.org/wiki/華歷簡奴 "wikilink")              | 與[Now Sports 3同步播出](https://zh.wikipedia.org/wiki/Now_Sports_3 "wikilink")                                          |                                                                                   |
 
 ### [英格蘭超級聯賽](https://zh.wikipedia.org/wiki/英格蘭足球超級聯賽 "wikilink")
 
@@ -3745,38 +3794,47 @@ ViuTV開始播出時已進入補時階段。</small></p></td>
 
   - 賽季期間提供每周一場NBA常規賽直播，季後賽及總決賽都會直播，而總決賽更會直播所有賽事。
 
-|                                                                    |             |                                                                                                                               |                                                                                                    |    |
-| ------------------------------------------------------------------ | ----------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | -- |
-| 賽季                                                                 | 播放日         | 時間                                                                                                                            | 播放賽事                                                                                               | 備註 |
-| [2018-19年](https://zh.wikipedia.org/wiki/2018-19_NBA賽季 "wikilink") | 2018年11月3日  | 10:30-13:00                                                                                                                   | 常規賽：[明尼蘇達木狼](https://zh.wikipedia.org/wiki/明尼蘇達木狼 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink") |    |
-| 2018年11月11日                                                        | 09:30-12:00 | 常規賽：[侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink") 對 [聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink")     |                                                                                                    |    |
-| 2018年11月18日                                                        | 08:30-11:00 | 常規賽：[猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink") 對 [波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink")       |                                                                                                    |    |
-| 2018年11月24日                                                        | 11:30-14:00 | 常規賽：[猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")           |                                                                                                    |    |
-| 2018年12月1日                                                         | 11:30-14:00 | 常規賽：[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink") 對 [波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink")         |                                                                                                    |    |
-| 2018年12月8日                                                         | 10:30-13:00 | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink")                            |                                                                                                    |    |
-| 2018年12月15日                                                        | 11:00-13:30 | 常規賽：[奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")       |                                                                                                    |    |
-| 2018年12月23日                                                        | 09:00-11:30 | 常規賽：[密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink") 對 [邁阿密熱火](https://zh.wikipedia.org/wiki/邁阿密熱火 "wikilink")       |                                                                                                    |    |
-| 2018年12月26日                                                        | 09:00-11:30 | 常規賽：[洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |    |
-| 2018年12月29日                                                        | 11:30-14:00 | 常規賽：[洛杉磯快艇](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")         |                                                                                                    |    |
-| 2019年1月6日                                                          | 09:30-12:00 | 常規賽：[多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") 對 [密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink")       |                                                                                                    |    |
-| 2019年1月13日                                                         | 09:00-11:30 | 常規賽：[聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink") 對 [奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink") |                                                                                                    |    |
-| 2019年1月20日                                                         | 09:30-12:00 | 常規賽：[洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink") 對 [侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink")         |                                                                                                    |    |
-| 2019年1月27日                                                         | 09:30-12:00 | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink")                          |                                                                                                    |    |
-| 2019年2月2日                                                          | 11:00-13:30 | 常規賽：[侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")           |                                                                                                    |    |
-| 2019年2月10日                                                         | 09:30-12:00 | 常規賽：[奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink") 對 [侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink")     |                                                                                                    |    |
-| 2019年2月23日                                                         | 10:30-13:45 | 常規賽：[猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink") 對 [奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink")       |                                                                                                    |    |
-| 2019年2月24日                                                         | 09:30-12:00 | 常規賽：[侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |    |
-| 2019年3月2日                                                          | 11:30-14:00 | 常規賽：[密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")       |                                                                                                    |    |
-| 2019年3月3日                                                          | 09:30-12:00 | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [費城七六人](https://zh.wikipedia.org/wiki/費城七六人 "wikilink")                              |                                                                                                    |    |
-| 2019年3月9日                                                          | 11:30-14:00 | 常規賽：[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                                |                                                                                                    |    |
-| 2019年3月17日                                                         | 08:30-11:00 | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink")                          |                                                                                                    |    |
-| 2019年3月24日                                                         | 08:30-11:00 | 常規賽：[達拉斯獨行俠](../Page/達拉斯獨行俠.md "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                                               |                                                                                                    |    |
-| 2019年3月30日                                                         | 10:30-13:00 | 常規賽：[夏洛特黃蜂](../Page/夏洛特黃蜂.md "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")                            |                                                                                                    |    |
-| 2019年4月6日                                                          | 10:30-13:00 | 常規賽：[波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")         |                                                                                                    |    |
-| 2019年4月14日                                                         | 08:00-11:00 | 季後賽：[洛杉磯快艇](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |    |
-| 2019年4月20日                                                         | 08:30-11:00 | 季後賽：[波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink") 對 [印第安納溜馬](https://zh.wikipedia.org/wiki/印第安納溜馬 "wikilink")   |                                                                                                    |    |
-| 2019年4月28日                                                         | 10:00-12:25 | 季後賽：[聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")       |                                                                                                    |    |
-| 2019年5月4日                                                          | 08:00-10:30 | 季後賽：[密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink") 對 [波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink")   |                                                                                                    |    |
+|                                                                    |             |                                                                                                                               |                                                                                                    |             |
+| ------------------------------------------------------------------ | ----------- | ----------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ----------- |
+| 賽季                                                                 | 播放日         | 時間                                                                                                                            | 播放賽事                                                                                               | 備註          |
+| [2018-19年](https://zh.wikipedia.org/wiki/2018-19_NBA賽季 "wikilink") | 2018年11月3日  | 10:30-13:00                                                                                                                   | 常規賽：[明尼蘇達木狼](https://zh.wikipedia.org/wiki/明尼蘇達木狼 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink") |             |
+| 2018年11月11日                                                        | 09:30-12:00 | 常規賽：[侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink") 對 [聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink")     |                                                                                                    |             |
+| 2018年11月18日                                                        | 08:30-11:00 | 常規賽：[猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink") 對 [波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink")       |                                                                                                    |             |
+| 2018年11月24日                                                        | 11:30-14:00 | 常規賽：[猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")           |                                                                                                    |             |
+| 2018年12月1日                                                         | 11:30-14:00 | 常規賽：[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink") 對 [波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink")         |                                                                                                    |             |
+| 2018年12月8日                                                         | 10:30-13:00 | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink")                            |                                                                                                    |             |
+| 2018年12月15日                                                        | 11:00-13:30 | 常規賽：[奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")       |                                                                                                    |             |
+| 2018年12月23日                                                        | 09:00-11:30 | 常規賽：[密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink") 對 [邁阿密熱火](https://zh.wikipedia.org/wiki/邁阿密熱火 "wikilink")       |                                                                                                    |             |
+| 2018年12月26日                                                        | 09:00-11:30 | 常規賽：[洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |             |
+| 2018年12月29日                                                        | 11:30-14:00 | 常規賽：[洛杉磯快艇](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")         |                                                                                                    |             |
+| 2019年1月6日                                                          | 09:30-12:00 | 常規賽：[多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") 對 [密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink")       |                                                                                                    |             |
+| 2019年1月13日                                                         | 09:00-11:30 | 常規賽：[聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink") 對 [奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink") |                                                                                                    |             |
+| 2019年1月20日                                                         | 09:30-12:00 | 常規賽：[洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink") 對 [侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink")         |                                                                                                    |             |
+| 2019年1月27日                                                         | 09:30-12:00 | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink")                          |                                                                                                    |             |
+| 2019年2月2日                                                          | 11:00-13:30 | 常規賽：[侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")           |                                                                                                    |             |
+| 2019年2月10日                                                         | 09:30-12:00 | 常規賽：[奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink") 對 [侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink")     |                                                                                                    |             |
+| 2019年2月23日                                                         | 10:30-13:45 | 常規賽：[猶他爵士](https://zh.wikipedia.org/wiki/猶他爵士 "wikilink") 對 [奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink")       |                                                                                                    |             |
+| 2019年2月24日                                                         | 09:30-12:00 | 常規賽：[侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |             |
+| 2019年3月2日                                                          | 11:30-14:00 | 常規賽：[密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")       |                                                                                                    |             |
+| 2019年3月3日                                                          | 09:30-12:00 | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [費城七六人](https://zh.wikipedia.org/wiki/費城七六人 "wikilink")                              |                                                                                                    |             |
+| 2019年3月9日                                                          | 11:30-14:00 | 常規賽：[丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                                |                                                                                                    |             |
+| 2019年3月17日                                                         | 08:30-11:00 | 常規賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [奧克拉荷馬雷霆](https://zh.wikipedia.org/wiki/奧克拉荷馬雷霆 "wikilink")                          |                                                                                                    |             |
+| 2019年3月24日                                                         | 08:30-11:00 | 常規賽：[達拉斯獨行俠](../Page/達拉斯獨行俠.md "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                                               |                                                                                                    |             |
+| 2019年3月30日                                                         | 10:30-13:00 | 常規賽：[夏洛特黃蜂](../Page/夏洛特黃蜂.md "wikilink") 對 [洛杉磯湖人](https://zh.wikipedia.org/wiki/洛杉磯湖人 "wikilink")                            |                                                                                                    |             |
+| 2019年4月6日                                                          | 10:30-13:00 | 常規賽：[波特蘭拓荒者](https://zh.wikipedia.org/wiki/波特蘭拓荒者 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")         |                                                                                                    |             |
+| 2019年4月14日                                                         | 08:00-11:00 | 季後賽：[洛杉磯快艇](https://zh.wikipedia.org/wiki/洛杉磯快艇 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |             |
+| 2019年4月20日                                                         | 08:30-11:00 | 季後賽：[波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink") 對 [印第安納溜馬](https://zh.wikipedia.org/wiki/印第安納溜馬 "wikilink")   |                                                                                                    |             |
+| 2019年4月28日                                                         | 10:00-12:25 | 季後賽：[聖安東尼奧馬刺](https://zh.wikipedia.org/wiki/聖安東尼奧馬刺 "wikilink") 對 [丹佛金塊](https://zh.wikipedia.org/wiki/丹佛金塊 "wikilink")       |                                                                                                    |             |
+| 2019年5月4日                                                          | 08:00-10:30 | 季後賽：[密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink") 對 [波士頓塞爾特人](https://zh.wikipedia.org/wiki/波士頓塞爾特人 "wikilink")   |                                                                                                    |             |
+| 2019年5月11日                                                         | 09:00-11:30 | 季後賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [侯斯頓火箭](https://zh.wikipedia.org/wiki/侯斯頓火箭 "wikilink")                              |                                                                                                    |             |
+| 2019年5月18日                                                         | 08:30-11:00 | 季後賽：[多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") 對 [密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink")       |                                                                                                    |             |
+| 2019年5月26日                                                         | 08:30-11:15 | 季後賽：[密爾沃基公鹿](https://zh.wikipedia.org/wiki/密爾沃基公鹿 "wikilink") 對 [多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink")       |                                                                                                    |             |
+| 2019年5月31日                                                         | 09:00-11:30 | 總決賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink")                              |                                                                                                    |             |
+| 2019年6月3日                                                          | 08:00-10:45 | 總決賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink")                              |                                                                                                    |             |
+| 2019年6月6日                                                          | 09:00-11:30 | 總決賽：[多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |             |
+| 2019年6月8日                                                          | 09:00-11:30 | 總決賽：[多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") 對 [金州勇士](../Page/金州勇士.md "wikilink")                              |                                                                                                    |             |
+| 2019年6月11日                                                         | 09:00-11:30 | 總決賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") \<\!-- |-                    | 2019年6月14日                                                                                         | 09:00-11:30 |
+| 2019年6月17日                                                         | 08:00-10:30 | 總決賽：[金州勇士](../Page/金州勇士.md "wikilink") 對 [多倫多速龍](https://zh.wikipedia.org/wiki/多倫多速龍 "wikilink") --\>                         |                                                                                                    |             |
 
 ### 其他
 

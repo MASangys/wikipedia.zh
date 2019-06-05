@@ -562,7 +562,7 @@ Star 1的後續篇。節目由2012年11月18日播放至2013年4月7日。
 <tr class="even">
 <td><p>二千圓 (金日道&amp;金孝彬)</p></td>
 <td><p>金緩宣 - 삐에로는 우릴 보고 웃지 / 自作歌詞 - Because Of You<br />
-(原曲：Bill Withers - Just The Two Of Us)</p></td>
+(原曲：<a href="https://zh.wikipedia.org/wiki/比爾·威瑟斯" title="wikilink">Bill Withers</a> - Just The Two Of Us)</p></td>
 <td><p>第4集, 未公開</p></td>
 <td></td>
 <td></td>
@@ -681,7 +681,7 @@ Star 1的後續篇。節目由2012年11月18日播放至2013年4月7日。
 <td><p>2</p></td>
 <td><p>二千圓</p></td>
 <td><p>金日道</p></td>
-<td><p>自作歌詞 - Because Of You (原曲 : Bill Withers - Just The Two Of Us)</p></td>
+<td><p>自作歌詞 - Because Of You (原曲 : <a href="https://zh.wikipedia.org/wiki/比爾·威瑟斯" title="wikilink">Bill Withers</a> - Just The Two Of Us)</p></td>
 <td></td>
 <td><p><strong>生存</strong></p></td>
 <td></td>
@@ -1410,7 +1410,7 @@ Star 1的後續篇。節目由2012年11月18日播放至2013年4月7日。
 | 尹柱錫          | **JYP**      |                                |                                                                                                                                                             |                               |           |    |
 | 7            | \-           | 辛知勳                            | The Jackson 5 - I'll Be There                                                                                                                               | **YG**                        |           |    |
 | 林京荷          | **JYP**      |                                |                                                                                                                                                             |                               |           |    |
-| 8            | Soul Queen   | 崔藝瑾                            | Bill Withers - Ain't No Sunshine                                                                                                                            | **YG**                        |           |    |
+| 8            | Soul Queen   | 崔藝瑾                            | [Bill Withers](https://zh.wikipedia.org/wiki/比爾·威瑟斯 "wikilink") - Ain't No Sunshine                                                                         | **YG**                        |           |    |
 | 金東玉          | **YG**       |                                |                                                                                                                                                             |                               |           |    |
 | 李振宇          | **YG**       |                                |                                                                                                                                                             |                               |           |    |
 | ?            | ?            | 崔熙太                            | \-                                                                                                                                                          | **JYP**                       |           |    |

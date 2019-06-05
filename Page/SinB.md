@@ -1,5 +1,5 @@
 **黃恩妃**\[1\]（，，），藝名**SinB**（），[韓國女](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[歌手](../Page/歌手.md "wikilink")，是[Source
-Music旗下女子組合](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[GFRIEND的成員](../Page/GFRIEND.md "wikilink")，在隊內擔任主領舞、副唱、形象、ACE擔當。曾與隊友[Eunha於](../Page/Eunha.md "wikilink")[Big
+Music旗下女子組合](https://zh.wikipedia.org/wiki/Source_Music "wikilink")[GFRIEND的成員](../Page/GFRIEND.md "wikilink")，在隊內擔任主領舞、副唱、形象擔當。曾與隊友[Eunha於](../Page/Eunha.md "wikilink")[Big
 Hit娛樂擔任練習生](../Page/Big_Hit娛樂.md "wikilink")，擁有多年的練習生經歷。
 
 ## 经历
@@ -9,6 +9,9 @@ Hit娛樂擔任練習生](../Page/Big_Hit娛樂.md "wikilink")，擁有多年的
 2016年11月3日，SinB與團員在全州全北大學演出期間，突感身體不適及暈眩，演出不久，便開始出現異樣，摸著頭後顯得軟弱無力，最後更垂頭暈倒台上之後，她去了醫院接受檢查，可正常參與活動。<sup>[\[15](https://zh.wikipedia.org/wiki/GFRIEND#cite_note-15 "wikilink")\]</sup>11月5日，Source
 Music
 發表聲明，會停止所有演藝活動，以便讓她們休養身體。11月17日跟受傷的[Umji如常應付韓國高考](../Page/Umji.md "wikilink")。
+
+2019年5月18日，SinB在亞洲巡演「GO GO
+GFRIEND\!」中再次因跳舞用力過度造成肩膀脫臼復發。她含淚向粉絲透露她一直很想努力維持好身體狀況，但總是事與願違，並解釋因為她每次都從粉絲身上獲得很多活力，今天也是抱持著要好好報答大家的決心登上舞台，就是無法如她所願。她擔心粉絲誤會經紀公司逼她上台，也特別澄清：「公司在後台也要我坐著唱的，但我覺得你們特地到這裡來看我們演出，如果只有我一個人坐著，實在很可惜也很抱歉，才決定努力到最後一刻，希望你們不要因此覺得有遺憾好嗎？」。[GFRIEND其他成員看到SinB如此自責](../Page/GFRIEND.md "wikilink")，都鼓勵她「妳的心意就足夠讓這個演唱會完整」，台下粉絲也為她打氣，盼她能盡早復原。\[2\]
 
 ## 音樂作品
 
@@ -110,3 +113,4 @@ Music
 
 1.  [이렇게 사랑스러운 '여자친구'
     보셨나요?](http://www.staraz.co.kr/news/articleView.html?idxno=14346)
+2.  <https://tw.appledaily.com/new/realtime/20190519/1569213/>

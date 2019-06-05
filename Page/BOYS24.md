@@ -1,3 +1,5 @@
+{{about|一组韩国音乐团体|少年24（BOYS24）的其他意思|少年24 (消歧义)}
+
 **少年24**（)是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[CJ
 E\&M旗下的男子練習生團體](../Page/CJ_E&M.md "wikilink")，成員是由選秀節目[少年24中脫穎而出的練習生](../Page/少年24.md "wikilink")。隨著成員交替，現時有二十七個習生。少年24會於[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[明洞專用公演場舉行公演](../Page/明洞.md "wikilink")，並會在2017年8月尾舉行總決賽決定出道成員。
 

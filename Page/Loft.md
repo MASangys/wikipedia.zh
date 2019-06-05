@@ -328,7 +328,7 @@ SELF\&SHELF LOFT（セルフ&シェルフ - ）…文具為中心的店舖
 
 4.
 5.  <http://www.itoyokado.co.jp/dbps_data/_material_/localhost/pdf/2013/130308.pdf>
-6.  [武蔵境ロフトオープン情報](http://www.loft.co.jp/lp/musashisakai/)
+6.
 7.   - 株式会社イトーヨーカ堂 2014年11月27日
 8.  [ロフト古淵店オープン情報](http://www.loft.co.jp/pages/kobuchi)
 9.

@@ -1,6 +1,6 @@
 《**無心的呢喃**》（**Careless
 Whisper**）是1984年7月[英國前雙人男子樂團](https://zh.wikipedia.org/wiki/英國 "wikilink")[威猛樂隊](../Page/威猛樂隊.md "wikilink")（Wham\!）發行，但由[喬治·麥可](https://zh.wikipedia.org/wiki/喬治·麥可 "wikilink")（George
-Michael）獨唱的單曲，此單曲在英美兩地都獲得3週冠軍，更一舉成為1985年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《[告示牌排行榜](https://zh.wikipedia.org/wiki/告示牌排行榜 "wikilink")》最佳年度單曲\[1\]\[2\]。〈無心的呢喃〉儼然已成為喬治·麥可招牌曲目，它也是能夠代表1980年代抒情歌曲的超級經典之一。
+Michael）獨唱的單曲，此單曲在英美兩地都獲得3週冠軍，更一舉成為1985年[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")《[告示牌排行榜](https://zh.wikipedia.org/wiki/告示牌排行榜 "wikilink")》最佳年度單曲\[1\]\[2\]。《無心的呢喃》儼然已成為喬治·麥可招牌曲目，它也是能夠代表1980年代抒情歌曲的超級經典之一。
 
 ## 內容
 
@@ -37,7 +37,7 @@ Hits: Top 30 Breakup Songs」時，此曲為第22名\[12\]\[13\]。
 
 ## 改編
 
-  - 有三個不同的粵語版本，為[梅艷芳的](../Page/梅艷芳.md "wikilink")《夢幻的擁抱》、[甄妮的](../Page/甄妮.md "wikilink")《忍痛說謊》和[蔡國權的](https://zh.wikipedia.org/wiki/蔡國權 "wikilink")《無心快語》。\[14\]
+  - 有三個不同的中文版本，為[梅艷芳的](../Page/梅艷芳.md "wikilink")《夢幻的擁抱》、[甄妮的](../Page/甄妮.md "wikilink")《忍痛說謊》和[蔡國權的](https://zh.wikipedia.org/wiki/蔡國權 "wikilink")《無心快語》。\[14\]
   - 有兩個不同的日語版本，為[西城秀樹的](../Page/西城秀樹.md "wikilink")《抱きしめてジルバ》和[鄉裕美的](https://zh.wikipedia.org/wiki/鄉裕美 "wikilink")《ケアレス・ウィスパー》。
 
 ## 資料來源

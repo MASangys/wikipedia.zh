@@ -68,7 +68,8 @@ D](../Page/Simon_D.md "wikilink")、[Gray获得](../Page/Gray_\(歌手\).md "wik
 ## 第六季（2017年）
 
 第六季的4组制作人导师分别由[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")、[DEAN](https://zh.wikipedia.org/wiki/权革 "wikilink")；\[15\][朴載範](../Page/朴載範.md "wikilink")、[Dok2](../Page/Dok2.md "wikilink")；\[16\][Dynamic
-Duo的](../Page/Dynamic_Duo.md "wikilink")、\[17\]和、\[18\]担任。此季有众多韩国Hiphop界知名或小有名气的Rapper报名参加了此季的海选，包括曾在SMTM第四季参赛的、韩国Hiphop新兴代表以及SMTM第一季的制作人等均作为选手参赛。本季冠军由的及他的制作团队FANXYCHILD的[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")、[DEAN获得](https://zh.wikipedia.org/wiki/权革 "wikilink")。
+Duo的](../Page/Dynamic_Duo.md "wikilink")、\[17\]和、\[18\]担任。此季有众多韩国Hiphop界知名或小有名气的Rapper报名参加了此季的海选，包括曾在SMTM第四季参赛的、韩国Hiphop新兴代表以及SMTM第一季的制作人等均作为选手参赛。本季冠军由[Rhythm
+Power的](../Page/Rhythm_Power.md "wikilink")及他的制作团队FANXYCHILD的[Zico](https://zh.wikipedia.org/wiki/Zico_\(歌手\) "wikilink")、[DEAN获得](https://zh.wikipedia.org/wiki/权革 "wikilink")。
 
 ## 第七季（2018年）
 
@@ -795,7 +796,7 @@ Quiett](../Page/The_Quiett.md "wikilink")、[Changmo擔任](../Page/Changmo.md "
 </tr>
 <tr class="even">
 <td><p>凤蝶</p></td>
-<td><p>Boi B (Feat. <a href="../Page/吉成俊.md" title="wikilink">Gill</a>, )</p></td>
+<td><p>Boi B (Feat. <a href="../Page/吉成俊.md" title="wikilink">Gill</a>, <a href="../Page/Rhythm_Power.md" title="wikilink">Rhythm Power</a>)</p></td>
 <td><p>5</p></td>
 <td><p>720,563+<ref>凤蝶累计销量：</p>
 <ul>

@@ -432,7 +432,7 @@ Expo
 20.
 
 21.
-22. <http://nintendoenthusiast.com/news/splatoon-surpasses-1-million-copies-sold-worldwide/>
+22.
 
 23. [2015年の国内家庭用ゲーム市場規模速報を発表！　ソフト販売本数トップは『モンスターハンタークロス』に](http://www.famitsu.com/news/201601/06096700.html).Fami通.2016-01-06.\[2016-02-01\].
 

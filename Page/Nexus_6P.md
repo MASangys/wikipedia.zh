@@ -13,8 +13,8 @@ v2.1 2.0GHz八核处理器，3GB RAM + 32GB/64GB/128GB
 ROM（沒有microSD卡擴充槽）。800万像素+1230万像素摄像头组合，配备了指纹识别感應器。[USB采用](../Page/USB.md "wikilink")[Type-C接口](../Page/USB_3.1.md "wikilink")，配备3450mAh电池。\[2\]此外该手机还可使用最新[Google
 Pay支付服务以及谷歌的移动网络服务](../Page/Google_Pay.md "wikilink")[Project
 Fi](https://zh.wikipedia.org/wiki/Project_Fi "wikilink")，唯兩功能在手機推出時只能在美國國內使用。
-[缩略图](https://zh.wikipedia.org/wiki/File:A_Nexus_6p_runs_android_8.1.png "fig:缩略图")8.1的Nexus
-6p\]\] 新手机也采用了Android传感器中枢（Sensor
+
+新手机也采用了Android传感器中枢（Sensor
 Hub）技术，用作处理传感器数据。德国博世的低功耗传感器帮助手机判断用户是在行走、跑步还是在單車，并计算步數。\[3\]
 
 ## 顏色

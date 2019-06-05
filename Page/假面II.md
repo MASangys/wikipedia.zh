@@ -154,6 +154,7 @@ DOGO侦探社探员<br />
 卢慧璇之青梅竹马<br />
 于第3集到英国深造犯罪心理学<br />
 于第18集因听闻杜月馨失踪而回国调查<br />
+(特別出演1-3,16(聲演),18-20)<br />
 参见<a href="https://zh.wikipedia.org/wiki/#绝地复仇案(17-20)" title="wikilink">绝地复仇案(17-20)</a></p></td>
 </tr>
 <tr class="even">

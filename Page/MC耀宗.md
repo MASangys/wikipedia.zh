@@ -1,6 +1,4 @@
-**MC耀宗**（Dream
-Walker），台灣台北[饒舌說唱歌手](../Page/饒舌.md "wikilink")。嘻哈音樂公司「逆流音樂」負責人，也是台灣大型饒舌創作比賽「MADSTREET狂熱街頭」創辦人兼主辦之一。也受邀擔任過號稱大陸嘻哈[黃埔軍校的兩季](https://zh.wikipedia.org/wiki/黃埔軍校 "wikilink")《LISTEN
-UP》說唱創作大賽的評委（第一季冠軍就是“中國有嘻哈”裡的[VAVA](https://zh.wikipedia.org/wiki/VAVA "wikilink")），更前往[深圳擔任總決賽評委嘉賓之一](https://zh.wikipedia.org/wiki/深圳 "wikilink")。
+{{multiple issues|   {{external links|time=2017-0
 
 ## 生平
 

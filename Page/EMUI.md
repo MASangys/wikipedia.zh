@@ -44,7 +44,7 @@ EMUI与原生Android系统桌面不同，以“合一桌面”为设计元素，
 
   - [EMUI官方网站](http://emui.huawei.com/)
 
-[Category:華為](https://zh.wikipedia.org/wiki/Category:華為 "wikilink")
+[Category:华为产品](https://zh.wikipedia.org/wiki/Category:华为产品 "wikilink")
 [Category:定制Android固件](https://zh.wikipedia.org/wiki/Category:定制Android固件 "wikilink")
 [Category:售後韌體](https://zh.wikipedia.org/wiki/Category:售後韌體 "wikilink")
 

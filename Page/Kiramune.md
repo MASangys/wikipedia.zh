@@ -149,7 +149,7 @@ Live](https://zh.wikipedia.org/wiki/Kiramune#Reading_Live "wikilink")」朗讀�
 
 聚集Kiramune所屬歌手們以個人歌曲合辦的演唱會。通稱「Kirafes」。
 2009年至今除2011年以外，每年皆有舉行。
-2013年首度於日本25間電影院舉行直撥。
+2013年首度於日本25間電影院舉行直播。
 
 <table>
 <thead>

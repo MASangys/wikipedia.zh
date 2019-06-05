@@ -1075,8 +1075,9 @@ World</a><br />
 <td><p><ref></p>
 <ul>
 <li></li>
-<li><p></ref></p></li>
-</ul></td>
+<li></li>
+</ul>
+<p></ref></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1119,8 +1120,9 @@ World</a><br />
 <ul>
 <li></li>
 <li></li>
-<li><p></ref></p></li>
-</ul></td>
+<li></li>
+</ul>
+<p></ref></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1345,7 +1347,7 @@ World</a><br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>月之落<small>（달의 몰락）（原唱：）</small></p></td>
+<td><p>月之落<small>（달의 몰락）（原唱：<a href="https://zh.wikipedia.org/wiki/金賢哲" title="wikilink">金賢哲</a>）</small></p></td>
 <td><p>—</p></td>
 <td><p>—</p></td>
 <td><p>《복면가왕 70회》<ref></p>

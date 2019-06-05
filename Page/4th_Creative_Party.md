@@ -9,7 +9,7 @@ CREATIVE PARTY” 的前身。\[1\]
 
 ### 视效
 
-从1996年至今20多年时间，共制作了韩国、中国、欧洲、[好莱坞等海内外电影约](../Page/好莱坞.md "wikilink")170余部。
+从1996年至今20多年时间，共制作了韩国、中国、欧洲、[好莱坞等海内外电影约](../Page/好莱坞.md "wikilink")190余部。
 
 韩国电影制作了朴赞郁导演的《[小姐](../Page/下女的誘惑.md "wikilink")》、《[蝙蝠](../Page/饑渴誘罪.md "wikilink")》、《[老男孩](../Page/原罪犯.md "wikilink")》，奉俊昊导演的《[汉江怪物](../Page/駭人怪物.md "wikilink")》、《[母亲](../Page/非常母親.md "wikilink")》，崔东勋导演的《[暗杀](../Page/暗杀_\(2015年电影\).md "wikilink")》等。
 
@@ -31,9 +31,10 @@ KOREA）”，于2016年开放。也企划制作中国项目。\[4\]目前正在
 
 ## VFX 作品
 
-2018
-《古剑奇谭之流月昭明》、《[三体](../Page/三体_\(电影\).md "wikilink")》、《7年之夜》、《素人特工》、《Intimate
-Stranger》、《7年之夜》
+2019 《半岛》、《指定生存者》、《Item》、《素人特工》、《狂怒沙暴》、《我的日记》、《美人漁2》、《三体》
+
+2018 《Intimate Strangers》、《黄金兄弟》、《死之咏讃》、《Believe It or
+Not》、《7年之夜》、《古剑奇谭之流月昭明》
 
 2017
 《[玉子](../Page/玉子_\(電影\).md "wikilink")》、《[三生三世十里桃花](../Page/三生三世十里桃花_\(電影\).md "wikilink")》、《[喵星人](../Page/喵星人_\(電影\).md "wikilink")》、《[王者](../Page/The_King_\(2017年電影\).md "wikilink")》、《不汗党：坏家伙们的世界》、《苌山虎》、《[VIP](https://zh.wikipedia.org/wiki/VIP_\(電影\) "wikilink")》、《治安官》
@@ -94,6 +95,7 @@ Stranger》、《7年之夜》
 | 年度   | 奖项                                                                                            | 获奖作品                                                                            |
 | ---- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | 2018 | 第90届[奥斯卡颁奖典礼](https://zh.wikipedia.org/wiki/奥斯卡颁奖典礼 "wikilink")“视觉效果奖 TOP10 提名”               | 《[玉子](../Page/玉子_\(電影\).md "wikilink")》 (Okja)                                  |
+| 2018 | 第45届 电脑图形及互动技术展览会“电脑动画节部分-VR Theater”                                                         | 《穿越黑暗》 (Across Dark)                                                            |
 | 2016 | 第53届[大钟奖电影节](../Page/大鐘獎.md "wikilink")“技术奖”                                                  | 《大虎》 (The Tiger)                                                                |
 | 2016 | 第21届[春史电影奖](https://zh.wikipedia.org/wiki/春史電影獎 "wikilink")“技术奖”                              | 《大虎》 (The Tiger)                                                                |
 | 2016 | [SIGGRAPH](../Page/SIGGRAPH.md "wikilink") ASIA 2016 “Computer Animation Festival” 受邀公映。\[7\] | 《大虎》 (The Tiger)                                                                |

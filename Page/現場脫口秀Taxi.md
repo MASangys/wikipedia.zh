@@ -2180,7 +2180,7 @@
 <tr class="odd">
 <td><p>304</p></td>
 <td><p>9月23日</p></td>
-<td><p><a href="../Page/ZE:A.md" title="wikilink">ZE:A</a> (<a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">朴炯植</a>、<a href="../Page/時完.md" title="wikilink">任时完</a>、<a href="../Page/黃光熙.md" title="wikilink">黃光熙</a>)</p></td>
+<td><p><a href="../Page/ZE:A.md" title="wikilink">ZE:A</a> (<a href="../Page/朴炯植.md" title="wikilink">朴炯植</a>、<a href="../Page/時完.md" title="wikilink">任时完</a>、<a href="../Page/黃光熙.md" title="wikilink">黃光熙</a>)</p></td>
 <td></td>
 </tr>
 <tr class="even">

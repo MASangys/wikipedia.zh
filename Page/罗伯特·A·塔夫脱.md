@@ -21,7 +21,7 @@ Patterson）认为他诚实、有负责心、大胆、威严、又颇有才智�
 [Category:美国总统儿子](https://zh.wikipedia.org/wiki/Category:美国总统儿子 "wikilink")
 [Category:美国自由意志主义者](https://zh.wikipedia.org/wiki/Category:美国自由意志主义者 "wikilink")
 [Category:美国反共主义者](https://zh.wikipedia.org/wiki/Category:美国反共主义者 "wikilink")
-[Category:美国保守主义](https://zh.wikipedia.org/wiki/Category:美国保守主义 "wikilink")
+[Category:美國保守主義者](https://zh.wikipedia.org/wiki/Category:美國保守主義者 "wikilink")
 [Category:哈佛法学院校友](https://zh.wikipedia.org/wiki/Category:哈佛法学院校友 "wikilink")
 [Category:耶鲁大学校友](https://zh.wikipedia.org/wiki/Category:耶鲁大学校友 "wikilink")
 [Category:俄亥俄州共和党人](https://zh.wikipedia.org/wiki/Category:俄亥俄州共和党人 "wikilink")

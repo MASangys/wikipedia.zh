@@ -58,8 +58,6 @@
     \[<http://adsabs.harvard.edu/cgi-bin/nph-bib_query?bibcode=2004PASP>..116..290P\&db_key=AST\&high=40fcc30dde26513\])
 
   -
-[Category:1912年出生](https://zh.wikipedia.org/wiki/Category:1912年出生 "wikilink")
-[Category:2003年逝世](https://zh.wikipedia.org/wiki/Category:2003年逝世 "wikilink")
 [Category:20世紀天文學家](https://zh.wikipedia.org/wiki/Category:20世紀天文學家 "wikilink")
 [Category:美国天文学家](https://zh.wikipedia.org/wiki/Category:美国天文学家 "wikilink")
 [Category:加州理工學院校友](https://zh.wikipedia.org/wiki/Category:加州理工學院校友 "wikilink")

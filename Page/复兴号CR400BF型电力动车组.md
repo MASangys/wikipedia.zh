@@ -29,11 +29,11 @@ Alliance设计公司设计。车体涂装大致使用白色底色搭配前窗周
 
 值得一提的是，CR400BF前期1列样板车（0503）采用全白色底色，头车处搭配前窗两侧金色色块的设计。后期的2列样板车（0305和0507）则额外在侧窗上方增加金色线条的涂装，在命名为复兴号之前贴有“和谐号”的标识。而从5001起则采用量产车使用的涂装。而在量产车涂装定型以及定名后，2列样板车并未改变成量产车的涂装，而是在原有涂装上在头车正面加上中国铁路路徽以及在头车侧面加上“复兴号”和“CR”标志。直至2019年1月，样板车0305和0507已改为量产车一样的涂装。唯獨CR400BF-0503仍然不知道情況。
 
-另外，CR400BF-C的头型设计采用扁平化造型，採用京張高鐵智能動車組「鷹隼&龍鳳呈祥方案」相同的頭型，但使用金鳳凰塗裝，与其它型号的CR400BF系列不同。
+另外，CR400BF-C的头型设计采用扁平化造型，採用[京張高鐵智能動車組](../Page/京张城际铁路.md "wikilink")「鷹隼&龍鳳呈祥方案」相同的頭型，但使用金鳳凰塗裝，与其它型号的CR400BF系列不同。
 
 ### 动力配置
 
-CR400BF系列中，CR400BF、CR400BF-C采用8辆编组，4动4拖的统一动力配置形式，由2个基本动力单元组成。CR400BF-A、CR400BF-E则采用16辆编组，8动8拖的统一动力配置形式，由4个基本动力单元组成。另外，CR400BF-B采用17辆编组，8动9拖的统一动力配置形式，由4个基本动力单元组成。
+CR400BF系列中，CR400BF、CR400BF-C/G采用8辆编组，4动4拖的统一动力配置形式，由2个基本动力单元组成。CR400BF-A、CR400BF-E则采用16辆编组，8动8拖的统一动力配置形式，由4个基本动力单元组成。另外，CR400BF-B采用17辆编组，8动9拖的统一动力配置形式，由4个基本动力单元组成。
 
 ### 主要设备
 
@@ -61,7 +61,7 @@ mm的大轮径及磨耗型踏面，改善轮轨匹配关系，优化转向架两
 
 #### 集电装置及供电系统
 
-CR400BF、CR400BF-C型在3号和6号车厢设置[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")，而较长编组的CR400BF-A型、CR400BF-B型、CR400BF-E在3号、6号、11号、14号车厢设置受电弓，在正常运行时，短编组运行时则使用一个受电弓，长编组或短编组重连运行则使用两个受电弓。
+CR400BF、CR400BF-C/G型在3号和6号车厢设置[受电弓](https://zh.wikipedia.org/wiki/受电弓 "wikilink")，而较长编组的CR400BF-A型、CR400BF-B型、CR400BF-E在3号、6号、11号、14号车厢设置受电弓，在正常运行时，短编组运行时则使用一个受电弓，长编组或短编组重连运行则使用两个受电弓。
 
 CR400BF型动车组采用主动控制受电弓，高压设备外绝缘的雷电冲击耐受电压提升至185
 kV，采用整体密闭的高压箱结构，除受电弓外，其余高压部件不暴露于运行环境中，以改善高压系统部件的工作环境，提高系统在不同网高和不同环境下的工作可靠性，实现日常运用的免维护。
@@ -71,9 +71,9 @@ Hz辅助供电系统，具有自动平衡负载和冗余供电功能，辅助变
 
 ### 内部
 
-CR400BF系列列车均设有商务车，一等座车以及二等座车。其中二等座椅间距为1020mm，座位设于左右3+2排中间为过道。一等座椅间距为1160mm，座位设于左右2+2排中间为过道。商务车在所有系列中均会在头车两端驾驶室后部设有5个座椅，而在长编组系列中则会设有一个全部为商务座席的车厢。另外，CR400BF、CR400BF-C型在5号车厢设置[吧台](https://zh.wikipedia.org/wiki/餐车 "wikilink")，CR400BF-A、CR400BF-B型则在9号车厢设置吧台。
+CR400BF系列列车均设有商务车，一等座车以及二等座车。其中二等座椅间距为1020mm，座位设于左右3+2排中间为过道。一等座椅间距为1160mm，座位设于左右2+2排中间为过道。商务车在所有系列中均会在头车两端驾驶室后部设有5个座椅，而在长编组系列中则会设有一个全部为商务座席的车厢。另外，CR400BF、CR400BF-C/G型在5号车厢设置[吧台](https://zh.wikipedia.org/wiki/餐车 "wikilink")，CR400BF-A、CR400BF-B型则在9号车厢设置吧台。
 
-另外，CR400BF、CR400BF-C型动车组在4号车厢、CR400BF-A、CR400BF-B型动车组在8号车厢设有储物间，以配合承担高铁快运业务；上述车厢均会设有供[轮椅人士使用的無障礙座位](https://zh.wikipedia.org/wiki/轮椅 "wikilink")，以及无障碍洗手间\[11\]。
+另外，CR400BF、CR400BF-C/G型动车组在4号车厢、CR400BF-A、CR400BF-B型动车组在8号车厢设有储物间，以配合承担高铁快运业务；上述车厢均会设有供[轮椅人士使用的無障礙座位](https://zh.wikipedia.org/wiki/轮椅 "wikilink")，以及无障碍洗手间\[11\]。
 
 本系列在所有座席均设有220V-50Hz的电源插座，其中一等座席和二等座席席位还加设[USB插座](../Page/USB.md "wikilink")。所有车厢均会设置16：9[显示屏提供铁路资讯及旅客信息](https://zh.wikipedia.org/wiki/显示屏 "wikilink")\[12\]。為了能夠提醒旅客到站，在通道門上方設置發光二極體（LED）旅客列車資訊顯示板，可顯示列車沿途停靠站、铁路宣传资讯、列車到站提示、抵站的室外温度以及列車的時速等資訊。另外，所有列车车厢均会设置[监控摄像头以加强保安](../Page/摄像头.md "wikilink")。
 
@@ -82,24 +82,25 @@ CR400BF系列列车均设有商务车，一等座车以及二等座车。其中�
 另外，CR400BF-E採用與CRH2E-2463\~2465相同的縱向臥鋪的布局，頭尾取消座車，除9號車廂為橫向布局之軟臥/餐車合造車，其餘皆為縱向布局。
 
 <File:Business> class interior of ZES501700
-(20180210133342).jpg|CR400BF的商务座 <File:201706> First Class Interior of
-CR400BF.jpg|CR400BF的一等座 <File:201706> Second Class Interior of
-CR400BF.jpg|CR400BF的二等座 <File:Dining> car interior of CR400BF-0503
-(20170307110521).jpg|CR400BF的吧台 <File:201801> Seat Sign on
-CR400BF.jpg|CR400BF的座位指示，可显示坐席预定状态 <File:Water> cooler of
-CR400BF-3009.jpg|CR400BF的饮水机
+(20180210133342).jpg|CR400BF的商务座 <File:G99> G100 CR400BF-A-5057 EMU
+business class seats.jpg|CR400BF-A設有一個全部為商務座席的車廂 <File:G99> G100
+CR400BF-A-5057 EMU first class seats.jpg|CR400BF-A的一等座 <File:G99> G100
+CR400BF-A-5057 EMU second class seats.jpg|CR400BF-A的二等座 <File:Dining>
+car interior of CR400BF-0503 (20170307110521).jpg|CR400BF的吧台（0503）
+<File:201801> Seat Sign on CR400BF.jpg|CR400BF的座位指示，可显示坐席预定状态
+<File:Water> cooler of CR400BF-3009.jpg|CR400BF的饮水机
 
 ## 运用状况
 
 {{ multiple image | align = right | direction = vertical | width = 220
 |image1=CR400BF-5001@BJN
 (20170921132213).jpg|caption1=CR400BF-5001担当的G2次列车于[北京南站附近](../Page/北京南站.md "wikilink")（2018年3月）
-|image2=201805 G3 arrives at Shanghai Hongqiao
-Station.jpg|caption2=CR400BF担当G3次列车驶入[上海虹桥站](https://zh.wikipedia.org/wiki/上海虹桥站 "wikilink")（2018年5月）
-|image3=201806 G7076 departs from Shanghai
-Station.jpg|caption3=CR400BF担当G7076次列车于[上海站附近](https://zh.wikipedia.org/wiki/上海站 "wikilink")（2018年6月）
-|image4=201801 CR400BF-5015 at Hangzhoudong
-Station.jpg|caption4=CR400BF-5015担当的G1373次列车于[杭州东站](../Page/杭州东站.md "wikilink")（2018年1月）}}
+|image2=201806 G7076 departs from Shanghai
+Station.jpg|caption2=CR400BF担当G7076次列车于[上海站附近](https://zh.wikipedia.org/wiki/上海站 "wikilink")（2018年6月）
+|image3=201801 CR400BF-5015 at Hangzhoudong
+Station.jpg|caption3=CR400BF-5015担当的G1373次列车于[杭州东站](../Page/杭州东站.md "wikilink")（2018年1月）
+|image4=G100 CR400BF-A-5057 at Hong Kong West Kowloon
+Station.jpg|caption4=CR400BF-A-5057担当的[G100次列车于](../Page/沪港高速动车组列车.md "wikilink")[香港西九龍站](../Page/香港西九龍站.md "wikilink")（2018年）}}
 2017年2月25日起，中国标准动车组CR400AF和CR400BF隔日重联承担至的[G65/68次列车的运输任务](../Page/京广深高速动车组列车.md "wikilink")，铁路部门将根据这次运营的情况跟踪和旅客反馈，对后续生产的列车做出进一步改进\[13\]。其间7月3日到7月22日曾调往京沪高铁调试。
 
 2017年6月26日，中国标准动车组开始承担[京沪高速动车组列车任务](../Page/京沪高速动车组列车.md "wikilink")，当日始发车次为双向首发的G123次（下行列车）和G124次（上行列车）\[14\]。根据运行安排，在6月26日至6月30日间，中国标准动车组承运G123/156次列车和G155/124次列车的运输任务；自7月1日起，将有4对京沪高速列车使用中国标准动车组运行，分别为G1/G142次、G107/G4次、G143/G2次和G3/G12次\[15\]。
@@ -124,11 +125,11 @@ Station.jpg|caption4=CR400BF-5015担当的G1373次列车于[杭州东站](../Pag
 
 ### 配属概况
 
-至2019年4月，总共已有161组CR400BF系列动车组出厂。
+至2019年5月，总共已有163组CR400BF系列动车组出厂。
 
-  - 車號0XXX，為樣版車
-  - 車號3XXX，為中車唐山機車車輛生產的列車
-  - 車號5XXX，為中車長春軌道客車生產的列車
+  - 车号0XXX，为样版车
+  - 车号3XXX，为中车唐山机车车辆生产的列车
+  - 车号5XXX，为中车长春轨道客车生产的列车
 
 <table>
 <thead>
@@ -155,24 +156,24 @@ Station.jpg|caption4=CR400BF-5015担当的G1373次列车于[杭州东站](../Pag
 <td><p>35</p></td>
 <td><p>0503、0507、<br />
 5006、5022、5025～5042、5047、5068～5079</p></td>
-<td><p>曹莊</p></td>
+<td><p>曹庄</p></td>
 <td><p><a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="../Page/京津城际铁路.md" title="wikilink">京津城际铁路</a>、<a href="https://zh.wikipedia.org/wiki/津秦客运专线" title="wikilink">津秦客运专线</a>、<a href="../Page/秦沈客运专线.md" title="wikilink">秦沈客运专线</a>、<a href="../Page/哈大客运专线.md" title="wikilink">哈大高速铁路</a>、<a href="../Page/沈丹客运专线.md" title="wikilink">沈丹客运专线</a></p></td>
-<td><p>0503、0507爲样板车。</p></td>
+<td><p>0503、0507为样板车。</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/中国铁路沈阳局集团有限公司.md" title="wikilink">瀋陽局集團</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沈阳局集团" title="wikilink">沈阳局集团</a></p></td>
 <td><p>1</p></td>
 <td><p>0305</p></td>
-<td><p>瀋陽南</p></td>
-<td><p><a href="../Page/京沈客运专线.md" title="wikilink">京瀋客運專綫</a></p></td>
-<td><p>樣板車</p></td>
+<td><p>沈阳南</p></td>
+<td><p><a href="../Page/京沈客运专线.md" title="wikilink">京沈客运专线</a></p></td>
+<td><p>样板车</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/上海局集团" title="wikilink">上海局集团</a></p></td>
 <td><p>28</p></td>
 <td><p>5001～5005、5007～5021、5023、5024、5043～5046、5080、5081</p></td>
 <td><p>上海虹桥</p></td>
-<td><p><a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="https://zh.wikipedia.org/wiki/京港客運專線" title="wikilink">京廣-廣深港高鐵</a>、<a href="../Page/沪宁城际铁路.md" title="wikilink">沪宁城际铁路</a>、<a href="../Page/宁安客运专线.md" title="wikilink">宁安客运专线</a>、<a href="../Page/宁杭客运专线.md" title="wikilink">宁杭客运专线</a>、<a href="../Page/杭甬客运专线.md" title="wikilink">杭甬客运专线</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a>、<a href="https://zh.wikipedia.org/wiki/新金温铁路" title="wikilink">新金温铁路</a>、<a href="../Page/合福客运专线.md" title="wikilink">合福客运专线</a>、<a href="../Page/福厦铁路.md" title="wikilink">福厦铁路</a>、<a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="../Page/柳南城际铁路.md" title="wikilink">柳南城际铁路</a></p></td>
+<td><p><a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="https://zh.wikipedia.org/wiki/京港客运专线" title="wikilink">京广-广深港高铁</a>、<a href="../Page/沪宁城际铁路.md" title="wikilink">沪宁城际铁路</a>、<a href="../Page/宁安客运专线.md" title="wikilink">宁安客运专线</a>、<a href="../Page/宁杭客运专线.md" title="wikilink">宁杭客运专线</a>、<a href="../Page/杭甬客运专线.md" title="wikilink">杭甬客运专线</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a>、<a href="https://zh.wikipedia.org/wiki/新金温铁路" title="wikilink">新金温铁路</a>、<a href="../Page/合福客运专线.md" title="wikilink">合福客运专线</a>、<a href="../Page/福厦铁路.md" title="wikilink">福厦铁路</a>、<a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="../Page/柳南城际铁路.md" title="wikilink">柳南城际铁路</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -210,11 +211,27 @@ Station.jpg|caption4=CR400BF-5015担当的G1373次列车于[杭州东站](../Pag
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/上海局集团" title="wikilink">上海局集团</a></p></td>
-<td><p>29</p></td>
-<td><p>3026、3027、<br />
-5048～5067、5088～5096</p></td>
+<td><p>28</p></td>
+<td><p>5048～5066、5088～5096</p></td>
 <td><p>上海虹桥</p></td>
-<td><p><a href="../Page/沪宁城际铁路.md" title="wikilink">沪宁城际铁路</a>、<a href="../Page/宁安客运专线.md" title="wikilink">宁安客运专线</a>、<a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a>、<a href="https://zh.wikipedia.org/wiki/京港客運專線" title="wikilink">京廣-廣深港高鐵</a></p></td>
+<td><p><a href="../Page/沪宁城际铁路.md" title="wikilink">沪宁城际铁路</a>、<a href="../Page/宁安客运专线.md" title="wikilink">宁安客运专线</a>、<a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a>、<a href="https://zh.wikipedia.org/wiki/京港客运专线" title="wikilink">京广-广深港高铁</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>3026、3027、3057、3058、<br />
+5067</p></td>
+<td><p>南京南</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -226,22 +243,14 @@ Station.jpg|caption4=CR400BF-5015担当的G1373次列车于[杭州东站](../Pag
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/北京局集團" title="wikilink">北京局集團</a></p></td>
-<td><p>1</p></td>
-<td><p>5097</p></td>
-<td><p>北京南</p></td>
-<td><p><a href="../Page/京沪高速铁路.md" title="wikilink">京沪高速铁路</a></p></td>
-<td><p>17编组试验车。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海局集团" title="wikilink">上海局集团</a></p></td>
+<td><p>9</p></td>
+<td><p>5097～5105</p></td>
+<td><p>上海虹桥</p></td>
+<td><p>京沪高速铁路</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/上海局集团" title="wikilink">上海局集团</a></p></td>
-<td><p>5</p></td>
-<td><p>5098～5102</p></td>
-<td><p>上海虹桥</p></td>
-<td></td>
-<td><p>5098～5102尚未到货</p></td>
-</tr>
-<tr class="odd">
 <td><p>colspan = 6 | <font color=white><strong>CR400BF-C</strong></font></p></td>
 <td></td>
 <td></td>
@@ -249,15 +258,31 @@ Station.jpg|caption4=CR400BF-5015担当的G1373次列车于[杭州东站](../Pag
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>1</p></td>
 <td><p>5143</p></td>
 <td></td>
 <td></td>
-<td><p>高寒型试验车。</p></td>
+<td><p>京张高铁试验车。</p></td>
+</tr>
+<tr class="even">
+<td><p>colspan = 6 | <font color=white><strong>CR400BF-G</strong></font></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/中国铁路沈阳局集团有限公司.md" title="wikilink">沈阳局集团</a></p></td>
+<td><p>3</p></td>
+<td><p>5113-5115</p></td>
+<td><p>瀋陽南</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>colspan = 6 | <font color=white><strong>CR400BF-E(型号待确认)</strong></font></p></td>
 <td></td>
 <td></td>
@@ -265,13 +290,13 @@ Station.jpg|caption4=CR400BF-5015担当的G1373次列车于[杭州东站](../Pag
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>1</p></td>
 <td><p>0306</p></td>
 <td></td>
 <td></td>
-<td><p>縱向臥鋪试验车。</p></td>
+<td><p>纵向臥铺试验车。</p></td>
 </tr>
 </tbody>
 </table>
@@ -300,7 +325,7 @@ Station.jpg|caption4=CR400BF-5015担当的G1373次列车于[杭州东站](../Pag
   - C／CA：Can（[拼音](../Page/汉语拼音.md "wikilink")），餐，餐车
   - S／SW：Shang（[拼音](../Page/汉语拼音.md "wikilink")），商，商务
 
-### CR400BF、CR400BF-C
+### CR400BF、CR400BF-C/G
 
 <table>
 <thead>
@@ -379,7 +404,7 @@ ZES xxxx00</p></td>
 </tbody>
 </table>
 
-  - 列车编号（0305、0503、0507、3001-3023、5001-5047、5048-5081、5143） 。
+  - 列车编号（0305、0503、0507、3001-3023、5001-5047、5048-5081、5113-5115、5143） 。
 
 ### CR400BF-A\[35\]
 
@@ -645,12 +670,23 @@ ZYS xxxx00</p></td>
 
   - 列车编号（5097）。
 
+## 意外事件
+
+  - 2018年1月23日，CR400BF-5033与5034在经由[哈大客运专线交付途中](../Page/哈大客运专线.md "wikilink")，5033号动车组03车车轴发生故障，遂返回长客厂。
+  - 2018年2月8日，[西成高速铁路首班使用](https://zh.wikipedia.org/wiki/西成高速铁路 "wikilink")[复兴号运营的G](../Page/复兴号电力动车组.md "wikilink")89次列车（由CR400BF-5033与5034重联担当）运行至[郑西高速铁路下行线时](https://zh.wikipedia.org/wiki/郑西高速铁路 "wikilink")，因为5033号动车组03车车轴高温报警而导致列车被迫于[西安北站停车](../Page/西安北站.md "wikilink")，不得已要调换[CRH380B承担该次任务](../Page/和谐号CRH380B型电力动车组.md "wikilink")，最后该车次晚点约86分钟\[36\]。
+  - 2018年2月28日，CR400BF-5033与5029重联担当的G83次列车在[京广高速铁路运行时](../Page/京广高速铁路.md "wikilink")，5033号动车组03车车轴轴温预警故障，降速运行至[长沙南站](../Page/长沙南站.md "wikilink")。
+  - 2018年3月11日，[中国铁路总公司要求北京局集团公司](../Page/中国铁路总公司.md "wikilink")、长客股份要立即组织对CR400BF-5033动车组所涉及的3起轴温异常升高故障原因进行分析。3月20日前报总公司机辆部，在故障原因未查明之前，禁止5033组上线载客运营。后暂被限制仅在[京津城际铁路运营短途城际列车](../Page/京津城际铁路.md "wikilink")，2018年6月解除限制，但不久后再次故障。
+  - 2018年6月7日，CR400BF-5033+5032重联担当的G89次列车在[郑西高速铁路下行线运行时](https://zh.wikipedia.org/wiki/郑西高速铁路 "wikilink")，5033号动车组第4次因为03车轴温报警，在[渭南北站临时停车](https://zh.wikipedia.org/wiki/渭南北站 "wikilink")，后降速运行至[西安北站](../Page/西安北站.md "wikilink")，启用热备动车组[CRH380B承担该次任务](../Page/和谐号CRH380B型电力动车组.md "wikilink")，终到[成都东站列车晚点](../Page/成都东站.md "wikilink")140分钟。
+  - 2018年6月8日，CR400BF-5029担当成都东至北京西的G90次列车在[西成高速铁路运行时一扇车窗玻璃破碎](https://zh.wikipedia.org/wiki/西成高速铁路 "wikilink")，未影响车体气密性，未对行车造成影响。
+  - 2018年9月26日，一列CR400BF-A（車組不明）到達[香港西九龍站的](../Page/香港西九龍站.md "wikilink")8號月台時，懷疑因站台縫隙過窄而導致車門卡住無法打開，事後列車需臨時使用其他月台落客。根據港鐵最新的內部指引，現時復興號CR400BF-A型列車到達香港西九龍站必須使用6號月台，直至問題解決為止，\[37\]唯[CR400AF-A型电力动车组則未有此問題](https://zh.wikipedia.org/wiki/CR400AF型电力动车组 "wikilink")。
+
 ## 参见
 
-  - [ICE-3列车](https://zh.wikipedia.org/wiki/ICE-3列车 "wikilink")
-  - [长白山号DJF3型电力动车组](https://zh.wikipedia.org/wiki/长白山号电力动车组 "wikilink")
-  - [和谐号CRH3型电力动车组](../Page/和谐号CRH3型电力动车组.md "wikilink")
-  - [复兴号电力动车组](../Page/复兴号电力动车组.md "wikilink")
+  - [中国动车组列表](https://zh.wikipedia.org/wiki/中国动车组列表 "wikilink")
+  - [CR200J型电力动车组](https://zh.wikipedia.org/wiki/CR200J型电力动车组 "wikilink")
+  - [CR300AF型电力动车组](../Page/复兴号CR300AF型电力动车组.md "wikilink")
+  - [CR300BF型电力动车组](../Page/复兴号CR300BF型电力动车组.md "wikilink")
+  - [CR400AF型电力动车组](https://zh.wikipedia.org/wiki/CR400AF型电力动车组 "wikilink")
 
 ## 参考资料
 
@@ -707,3 +743,6 @@ ZYS xxxx00</p></td>
 34.
 35. [这张图，让你更懂“大长金”](https://media.weibo.cn/article?id=2309404257750128434478)中国铁路官方微博
     2018年7月3日
+36. [G89次列车中途故障
+    复兴号首次入川遇阻](http://companies.caixin.com/2018-02-09/101209318.html)
+37. [西九站8號月台隙疑過窄　內地復興號無法開門](http://hk.on.cc/hk/bkn/cnt/news/20180927/bkn-20180927193650240-0927_00822_001.html)

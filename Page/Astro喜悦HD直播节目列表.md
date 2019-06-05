@@ -29,7 +29,7 @@
 <td><p>2017年1月21日</p></td>
 <td><p>晚上7點00分</p></td>
 <td><p>現場直播<br />
-<a href="http://my.com.my/Home">MY FM</a>同步转播</p></td>
+<a href="https://web.archive.org/web/20161120150114/http://my.com.my/Home">MY FM</a>同步转播</p></td>
 <td><p>KKBOX</p></td>
 </tr>
 <tr class="odd">
@@ -97,7 +97,7 @@
 <td><p>2019年1月26日</p></td>
 <td><p>晚上7點00分</p></td>
 <td><p>現場直播<br />
-<a href="http://my.com.my/Home">MY</a>同步转播</p></td>
+<a href="https://web.archive.org/web/20161120150114/http://my.com.my/Home">MY</a>同步转播</p></td>
 <td><p>KKBOX</p></td>
 </tr>
 <tr class="even">
@@ -105,7 +105,7 @@
 <td><p>2019年3月12日</p></td>
 <td><p>晚上8點00分</p></td>
 <td><p>現場直播<br />
-<a href="http://my.com.my/Home">MY</a>同步转播</p></td>
+<a href="https://web.archive.org/web/20161120150114/http://my.com.my/Home">MY</a>同步转播</p></td>
 <td><p>KKBOX</p></td>
 </tr>
 <tr class="odd">

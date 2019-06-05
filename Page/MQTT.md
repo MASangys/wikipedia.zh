@@ -1,6 +1,5 @@
-**MQTT**\[1\](**消息队列遥测传输**)是[ISO
-标准](https://zh.wikipedia.org/wiki/国际标准化组织 "wikilink")(ISO/IEC
-PRF
+**MQTT**\[1\]**消息队列遥测传输**(Message Queuing Telemetry Transport)是[ISO
+标准](https://zh.wikipedia.org/wiki/国际标准化组织 "wikilink")(ISO/IEC PRF
 20922)\[2\]下基于[发布/订阅范式的消息协议](https://zh.wikipedia.org/wiki/发布/订阅 "wikilink")。它工作在
 [TCP/IP协议族上](https://zh.wikipedia.org/wiki/TCP/IP协议族 "wikilink")，是为硬件性能低下的远程设备以及网络状况糟糕的情况下而设计的[发布/订阅型消息协议](https://zh.wikipedia.org/wiki/发布/订阅 "wikilink")，为此，它需要一个[消息中间件](https://zh.wikipedia.org/wiki/消息中间件 "wikilink")
 。
@@ -35,8 +34,8 @@ UA](../Page/OPC_UA.md "wikilink")\[12\]以及 [web
 
 ## 服务品质(QOS)
 
-{{ Main article|服务品质 }} 服务质量指的是交通优先级和资源预留控制机制，而不是接收的服务质量。
-服务质量是为不同应用程序，用户或数据流提供的不同优先级的能力，或者也可以说是为数据流保证一定的性能水平的能力。
+{{ Main article|服务品质 }} 服务品質指的是交通优先级和资源预留控制机制，而不是接收的服务品質。
+服务品質是为不同应用程序，用户或数据流提供的不同优先级的能力，或者也可以说是为数据流保证一定的性能水平的能力。
 
 以下是每一个[服务品质级别的具体描述](https://zh.wikipedia.org/wiki/服务品质 "wikilink")
 

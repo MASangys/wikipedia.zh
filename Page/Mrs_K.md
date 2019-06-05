@@ -26,5 +26,6 @@ K親手所殺的第五人（任達華飾）。他的出現，是要搶回過去�
 [Category:香港動作片](https://zh.wikipedia.org/wiki/Category:香港動作片 "wikilink")
 [Category:2017年電影](https://zh.wikipedia.org/wiki/Category:2017年電影 "wikilink")
 [Category:英皇電影](https://zh.wikipedia.org/wiki/Category:英皇電影 "wikilink")
+[Category:2017年香港電影](https://zh.wikipedia.org/wiki/Category:2017年香港電影 "wikilink")
 
 1.

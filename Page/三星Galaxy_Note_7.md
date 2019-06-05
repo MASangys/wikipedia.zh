@@ -280,7 +280,7 @@ S7的PCB为10層，不過Note 7首次採用了12層，可能因而出事。另�
 8.
 9.
 10.
-11. <https://news.samsung.com/global/wp-content/themes/sw_newsroom/download.php?post_id=76059&id=76234&meta_type=file>
+11.
 
 12.
 13.

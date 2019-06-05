@@ -11,37 +11,110 @@ KOF作為世界級別的大型商業活動，為了追求巨大經濟效益而�
 
 ## 登場角色
 
-| 登場隊伍       |
-| ---------- |
-| 隊名         |
-| 日本         |
-| 龍虎         |
-| 餓狼         |
-| 怒          |
-| 八神         |
-| K'         |
-| 南鎮         |
-| 女性格鬥家      |
-| 韓國         |
-| 超能力戰士      |
-| 惡人         |
-| 異世界        |
-| 墨西哥        |
-| 中國         |
-| 南美         |
-| 官方招待       |
-| BOSS       |
-| FINAL BOSS |
-| DLC        |
-|            |
+<table>
+<caption>登場隊伍</caption>
+<thead>
+<tr class="header">
+<th><p>隊名</p></th>
+<th><p>成員</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>日本</p></td>
+<td><p><strong>草薙 京（KYO KUSANAGI）</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>龍虎</p></td>
+<td><p><strong>坂崎 獠（RYO SAKAZAKI）</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>餓狼</p></td>
+<td><p><strong>泰利·波格（TERRY BOGARD）</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>怒</p></td>
+<td><p><strong>拉爾夫·鐘斯（RALF JONES）</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>八神</p></td>
+<td><p><strong>八神 庵（IORI YAGAMI）</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>K'</p></td>
+<td><p><strong>K'（K DASH）</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>南鎮</p></td>
+<td><p><strong>傑斯·侯活（GEESE HOWARD）</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>女性格鬥家</p></td>
+<td><p><strong>瓊（KING）</strong>[6]</p></td>
+</tr>
+<tr class="odd">
+<td><p>韓國</p></td>
+<td><p><strong>金家藩（KIM KAPHWAN）</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>超能力戰士</p></td>
+<td><p><strong>麻宮 雅典娜（ATHENA ASAMIYA）</strong>[7]</p></td>
+</tr>
+<tr class="odd">
+<td><p>惡人</p></td>
+<td><p><strong>扎那杜（XANADU）</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>異世界</p></td>
+<td><p><strong>娜可露露（NAKORURU）</strong>[8]</p></td>
+</tr>
+<tr class="odd">
+<td><p>墨西哥</p></td>
+<td><p><strong>羅門（RAMON）</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>中國</p></td>
+<td><p><strong>瞬影（SHUN'EI）</strong>[9]</p></td>
+</tr>
+<tr class="odd">
+<td><p>南美</p></td>
+<td><p><strong>尼爾森（NELSON）</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>官方招待</p></td>
+<td><p><strong>希爾薇·波拉·波拉（SYLVIE PAULA PAULA）</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>BOSS</p></td>
+<td><p><strong>安東諾夫（ANTONOV）</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>FINAL BOSS</p></td>
+<td><p><strong>威爾斯（VERSE）</strong></p></td>
+</tr>
+<tr class="odd">
+<td><p>DLC</p></td>
+<td><p><strong>葳莆（WHIP）</strong><br />
+<strong>山崎 龍二（RYUJI YAMAZAKI）</strong><br />
+<strong>芭妮莎（VANESSA）</strong><br />
+<strong>洛克·侯活（ROCK HOWARD）</strong><br />
+<strong>娜吉德（NAJD）</strong>[10]<br />
+<strong>奥斯華德（OSWALD）</strong><br />
+<strong>海頓（HEIDERN）</strong><br />
+<strong>布魯·瑪莉（BLUE MARY）</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 发行
 
 距離上一個作品首個版本約六年之隔，於2015年9月份SNKP宣佈將於2016年推出拳皇XIV(於4月25日宣佈詳細日期為23日)，初步得知遊戲平台為PS4。從宣傳得知人物畫面變更為類3D模組跟以往的2D強化建模有所分別。於2015年12月份的發佈宣傳透露本作會有共16支隊伍及50名參戰人數與前作同樣3人一隊。官方於4月25日在日本當地舉行的試玩會宣佈於2016年8月23日(初回特典25日)推出發售，又在試玩會公開全部隊伍及其隊員圖，發表正式的遊戲內容介紹影片同時發佈再增加來自《侍魂》系列的娜可露露和新篇章關鍵角色-瞬影這兩位人物的正式露面宣傳片，並同時宣佈即是起(4月25日)從SNKP正式重回原有名稱SNK制作，拳皇XIV會以SNK名義發行。6月15日發表第二片正式的遊戲內容介紹影片，宣傳游戏模式与展现出安東諾夫的外貌，并正式宣佈草薙京和八神庵的声优已经不是由多年配音他们的[野中政宏與](../Page/野中政宏.md "wikilink")[安井邦彥](../Page/安井邦彥.md "wikilink")，而是由[前野智昭與](../Page/前野智昭.md "wikilink")[星野貴紀进行配音](../Page/星野貴紀.md "wikilink")。
 
 ## 注释
-
-<references group = "註"/>
 
 ## 参考来源
 
@@ -53,6 +126,7 @@ KOF作為世界級別的大型商業活動，為了追求巨大經濟效益而�
   -
 [Category:2016年电子游戏](https://zh.wikipedia.org/wiki/Category:2016年电子游戏 "wikilink")
 [Category:拳皇系列电子游戏](https://zh.wikipedia.org/wiki/Category:拳皇系列电子游戏 "wikilink")
+[Category:格鬥遊戲](https://zh.wikipedia.org/wiki/Category:格鬥遊戲 "wikilink")
 [Category:Atlus游戏](https://zh.wikipedia.org/wiki/Category:Atlus游戏 "wikilink")
 [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
 [Category:PlayStation_Network游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_Network游戏 "wikilink")
@@ -69,3 +143,10 @@ KOF作為世界級別的大型商業活動，為了追求巨大經濟效益而�
 3.
 4.
 5.  [转移阵地！《拳皇14》将于6月16日正式登陆Steam](http://play.163.com/17/0519/22/CKR4L5DP00318QLJ.html).网易游戏.2017-05-19.\[2017-05-21\].
+6.  KING的常見譯名是有'金'或者'瓊'作中文譯名，可能是為免跟KIM(金家藩)的中文簡稱'金'出現名稱相衝，在2016年4月25日XIV的正式發表後官方網站大更新後將瓊作為官方中文譯名。
+7.  兩年後發行之《[SNK女傑狂熱大亂鬥](../Page/SNK女傑狂熱大亂鬥.md "wikilink")》，安排其中12位拳皇14女性角色登場，官方設定麻宮雅典娜為第一主角。
+8.  源自SNK的自家作品\<侍魂(サムライスピリッツ)\>並為該作品的角色，擔任著部落中與神靈溝通的巫女。外觀上為黑色長髮、身著阿伊努人傳統花樣服飾。性格上娜可露露喜愛著大自然的一切事物，並有著能傾聽大自然聲音的特殊能力，而娜可露露不喜殺戮；因此在面臨衝突時會盡可能避免以武力解決。
+9.  根據官方正式名稱為瞬影。官方定為新篇章關鍵人物，疑案為擔當新篇章主角。
+10. [New Saudi Arabian female character and Masmak fort stage coming to
+    King of Fighters 14 as
+    DLC](https://www.eventhubs.com/news/2017/nov/20/new-saudi-arabian-female-character-and-masmak-fort-stage-coming-king-fighters-14-dlc/)

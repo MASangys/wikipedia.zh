@@ -173,8 +173,7 @@ OEM厂商和制造商得到更高水平的服务与支持。
 36. [SandForce SF-2000 encryption flaw
     discovered](http://www.bit-tech.net/news/hardware/2012/06/12/sandforce-sf-2000-encryption/1)
 
-37. [Kingston Technology statement on LSI SandForce SF-2000 encryption
-    flaw](http://www.ocdrift.com/kingston-technology-statement-on-lsi-sandforce-sf-2000-encryption-flaw/)
+37.
 
 38. [256-bit AES encryption broken in SandForce SSD
     controllers](http://techreport.com/news/23096/256-bit-aes-encryption-broken-in-sandforce-ssd-controllers)

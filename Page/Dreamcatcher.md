@@ -45,7 +45,7 @@ Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》出道舞台�
 
 主打歌《Love Shake》為翻唱師姐 [Dal★Shabet](../Page/Dal★Shabet.md "wikilink")
 收錄於首張專輯《[Bang
-Bang](https://zh.wikipedia.org/wiki/Bang_Bang "wikilink")》的同名歌曲\[10\]\[11\]。
+Bang](https://zh.wikipedia.org/wiki/Bang_Bang_\(Dal★Shabet專輯\) "wikilink")》的同名歌曲\[10\]\[11\]。
 
 ## Dreamcatcher 時期簡歷
 
@@ -113,7 +113,7 @@ B Class 的成員，分别排在第44、50及56名。
 2月14日至25日，舉行歐洲巡回演唱會《1st Tour "Fly High"》。(地點：2/14 英國 倫敦、2/16 葡萄牙
 里斯本、2/18 西班牙 馬德里、2/21 荷蘭 阿姆斯特丹、2/22 德國 柏林、2/23 波蘭 華沙、2/25 法國 巴黎)
 
-3月10日，舉行首場韓國演唱會，並在演唱會上公佈了官方粉絲名的影片。
+3月10日，舉行首場韓國演唱會《WELCOME TO THE DREAM WORLD》，並在演唱會上公佈了官方粉絲名的影片。
 
 #### 迷你二輯《惡夢·Escape the ERA》
 
@@ -143,20 +143,24 @@ City](../Page/Alone_in_the_City.md "wikilink")》回歸歌壇，並公開了行�
 11月21日，Dreamcatcher發行首張日本單曲《What-Japanese ver.-》，並同時收錄《Chase Me -
 Japanese Ver.-》和日語原創新曲《I Miss You》在日本正式出道。\[15\]
 
-**2019年**
+**<big>2019年</big>**
 
 #### 出道二週年特別單曲《Over the Sky》
 
-2019年1月16日，公開出道二週年特別單曲《Over the Sky》數字音源。
+1月16日，公開出道二週年特別單曲《Over the Sky》數字音源。
 
 #### 迷你四輯《The End of Nightmare》
 
-2019年2月1日，Dreamcatcher在官方SNS宣佈將於2月13日以迷你四輯《[The End of
+2月1日，Dreamcatcher在官方SNS宣佈將於2月13日以迷你四輯《[The End of
 Nightmare](https://zh.wikipedia.org/wiki/The_End_of_Nightmare "wikilink")》回歸歌壇，並公開了行程表。
 
-2019年2月13日，於韓國時間下午6時正式公開主打曲 MV《PIRI》及專輯音源。
+2月13日，於韓國時間下午6時正式公開主打曲 MV《PIRI》及專輯音源。
 
-2019年3月13日，Dreamcatcher發行第二張日本單曲《PIRI～笛を吹け～-Japanese ver.-》。
+3月13日，Dreamcatcher發行第二張日本單曲《PIRI～笛を吹け～-Japanese ver.-》。
+
+3月20日至5月4日，舉行亞洲巡迴演唱會《DREAMCATCHER CONCERT : Invitation From Nightmare
+City》。(地點：3/20 印尼 雅加達、3/23 新加坡、3/24 菲律賓 馬尼拉、4/6-4/7 韓國 首爾、5/2 日本 東京、5/4日
+日本 神戶)
 
 ## 成員
 

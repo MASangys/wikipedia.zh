@@ -643,6 +643,15 @@ Paek、[Gary](../Page/Gary_\(韓國歌手\).md "wikilink")、等嘻哈和R\&B歌
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2019年3月11日</p></td>
+<td><p>Lovedrunk（술이 달다）</p></td>
+<td><p>《 sleepless in __________》</p></td>
+<td><p><a href="../Page/Epik_High.md" title="wikilink">Epik High</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

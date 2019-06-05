@@ -8,23 +8,33 @@
 
 ## 登場角色
 
-### 科學特搜隊
-
 声演记载中，有声漫画与动画声优不同者，顺序为有声漫画/动画顺序
+
+### 科學特搜隊
 
   -
     初代超人早田進之子。
 
+<!-- end list -->
+
   -
     過去是科學特別搜查隊的隊員。
 
+<!-- end list -->
+
   -
+
+<!-- end list -->
 
   -
     時間調查地球，並企圖進行侵略的宇宙人。雖然被科學特搜隊打倒，但在消滅之際召喚了積頓。
 
+<!-- end list -->
+
   -
     隸屬於科學特搜隊的青年，外表與地球人極其相似的外星人。
+
+<!-- end list -->
 
   -
 
@@ -32,8 +42,16 @@
 
   -
 
+<!-- end list -->
 
+  -
+
+<!-- end list -->
+
+  -
     超人氣偶像，同時本人也是超人的擁躉。
+
+<!-- end list -->
 
   -
 
@@ -177,7 +195,7 @@
 
 ## 网络动画
 
-于2017年12月1日宣布了3DCG动画的制作决定，并预计在2019年4月1日由[Netflix独占在世界范围内进行串流](../Page/Netflix.md "wikilink")。\[2\]
+于2017年12月1日宣布了3DCG动画的制作决定，并在2019年4月1日由[Netflix独占在世界范围内进行串流](../Page/Netflix.md "wikilink")。\[2\]
 
 ### 制作
 
@@ -189,13 +207,116 @@
 
 ### 主题曲
 
-:;「Sight Over The Battle」\[4\]
+  - 「Sight Over The Battle」\[4\]
+    作詞：YORKE，作曲：[Ta_2](../Page/鈴木達央.md "wikilink")
+    ，編曲：小山寿，主唱：[OLDCODEX](../Page/OLDCODEX.md "wikilink")
 
-  -
+### 各話列表
 
-      -
-        作詞：YORKE，作曲：[Ta_2](../Page/鈴木達央.md "wikilink")
-        ，編曲：小山寿，主唱：[OLDCODEX](../Page/OLDCODEX.md "wikilink")
+<table>
+<thead>
+<tr class="header">
+<th><p>話數</p></th>
+<th><p>日文標題</p></th>
+<th><p>中文標題</p></th>
+<th><p>劇本</p></th>
+<th><p>分鏡</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>第1話</p></td>
+<td></td>
+<td><p>不能存在於地球上的力量</p></td>
+<td><p><a href="../Page/檜垣亮.md" title="wikilink">檜垣亮</a></p></td>
+<td><p><a href="../Page/荒牧伸志.md" title="wikilink">荒牧伸志</a></p></td>
+</tr>
+<tr class="even">
+<td><p>第2話</p></td>
+<td></td>
+<td><p>無法逃離的命運</p></td>
+<td><p>荒牧伸志、佐藤誠</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第3話</p></td>
+<td></td>
+<td><p>當奥特曼也沒什麼不好</p></td>
+<td><p>佐藤誠</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第4話</p></td>
+<td></td>
+<td><p>限制解除</p></td>
+<td><p>荒牧伸志</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第5話</p></td>
+<td></td>
+<td><p>異星人的街道</p></td>
+<td><p>土城溫美</p></td>
+<td><p><a href="../Page/岡村天齋.md" title="wikilink">岡村天齋</a></p></td>
+</tr>
+<tr class="even">
+<td><p>第6話</p></td>
+<td></td>
+<td><p>名為奥特曼的詛咒</p></td>
+<td><p>椎名政治</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第7話</p></td>
+<td></td>
+<td><p>隱忍的思念</p></td>
+<td><p>土城溫美、檜垣亮</p></td>
+<td><p>佐藤誠</p></td>
+</tr>
+<tr class="even">
+<td><p>第8話</p></td>
+<td></td>
+<td><p>拉開帷幕的真相</p></td>
+<td><p>土城溫美</p></td>
+<td><p>荒牧伸志</p></td>
+</tr>
+<tr class="odd">
+<td><p>第9話</p></td>
+<td></td>
+<td><p>初次見面，哥哥</p></td>
+<td><p>砂山藏澄、檜垣亮</p></td>
+<td><p>堀元宣</p></td>
+</tr>
+<tr class="even">
+<td><p>第10話</p></td>
+<td></td>
+<td><p>星團評議會</p></td>
+<td><p>砂山藏澄</p></td>
+<td><p>佐藤誠</p></td>
+</tr>
+<tr class="odd">
+<td><p>第11話</p></td>
+<td></td>
+<td><p>保持原有的你</p></td>
+<td><p>椎名政治</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第12話</p></td>
+<td></td>
+<td><p>艾-{}-斯殺手</p></td>
+<td><p>岡村天齋</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>第13話</p></td>
+<td></td>
+<td><p>真正的奥特曼</p></td>
+<td><p>檜垣亮</p></td>
+<td><p>荒牧伸志</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 

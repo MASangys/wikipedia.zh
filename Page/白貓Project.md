@@ -234,6 +234,10 @@ Play選為年度最佳三十個遊戲之一](../Page/Google_Play.md "wikilink")�
   -
     於2019年2月28日，推出鹿目圓（弓兵）、曉美焰（雙劍士）、美樹沙耶香（劍士）、佐倉杏子（槍兵）、巴麻美（魔法師）等數名角色。
 
+<!-- end list -->
+
+  - [銀魂聯動](https://zh.wikipedia.org/wiki/銀魂聯動 "wikilink")（2019年4月）
+
 ## 白貓tennis
 
 2016年5月18日，日本官方於Youtube頻道公佈將於夏季在Android 及iOS

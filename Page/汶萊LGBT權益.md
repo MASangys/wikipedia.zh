@@ -3,23 +3,32 @@
 ## 同性恋合法地位
 
 在现行法律颁布之前，同性恋在文莱就是非法的。在文莱，同性恋最高可判处10年监禁，且不论是否是双方自愿或发生在私下场合。2014年，文莱宣布实行[伊斯兰教法](https://zh.wikipedia.org/wiki/伊斯兰教法 "wikilink")，\[5\]\[6\]并计划在2019年4月3日正式颁布。\[7\]
-因此，美国演员[乔治·克鲁尼发表了一封公开信](https://zh.wikipedia.org/wiki/乔治·克鲁尼 "wikilink")，呼吁大家抵制[文莱苏丹所投资的](https://zh.wikipedia.org/wiki/文莱苏丹 "wikilink")，这包括[比佛利山酒店和](https://zh.wikipedia.org/wiki/比佛利山酒店 "wikilink")。\[8\]\[9\]
+因此，引起全球政治人物與社會名流抨擊，好萊塢巨星[喬治克隆尼](https://zh.wikipedia.org/wiki/喬治克隆尼 "wikilink")（George
+Clooney）和歌手[艾爾頓強](https://zh.wikipedia.org/wiki/艾爾頓強 "wikilink")（Elton
+John）紛紛呼吁大家抵制[文莱苏丹所投资的](https://zh.wikipedia.org/wiki/文莱苏丹 "wikilink")，这包括[比佛利山酒店和](https://zh.wikipedia.org/wiki/比佛利山酒店 "wikilink")等汶萊在各國擁有的飯店\[8\]\[9\]\[10\]。
 
-当文莱宣布实施伊斯兰教法的时候，[联合国曾敦促该国重新审视该法律](https://zh.wikipedia.org/wiki/联合国 "wikilink")，而许多媒体将这些法律斥为“中世纪”、“不文明”和“重返石器时代”等。\[10\]\[11\]但是文莱政府却宣布这些法律条款是源自真主的“特别指引”，但他们还是将法律的实施日期推迟到了2019年4月。\[12\]如果男性之间发生[男男性行为](https://zh.wikipedia.org/wiki/男男性行为 "wikilink")，那么他们将被判处[石刑](../Page/石刑.md "wikilink")。只要他们主动承认，或是有四人声明目击，即可对他们实施处罚。\[13\]而如果是女性之间发生[女女性行为](../Page/女女性行为.md "wikilink")，那么她们将被判处40鞭[鞭刑或最高](https://zh.wikipedia.org/wiki/鞭刑 "wikilink")10年的[有期徒刑](../Page/有期徒刑.md "wikilink")。\[14\]
+当文莱宣布实施伊斯兰教法的时候，[联合国曾敦促该国重新审视该法律](https://zh.wikipedia.org/wiki/联合国 "wikilink")，而许多媒体将这些法律斥为“中世纪”、“不文明”和“重返石器时代”等。\[11\]\[12\]但是文莱政府却宣布这些法律条款是源自真主的“特别指引”，但他们还是将法律的实施日期推迟到了2019年4月。\[13\]如果男性之间发生[男男性行为](https://zh.wikipedia.org/wiki/男男性行为 "wikilink")，那么他们将被判处[石刑](../Page/石刑.md "wikilink")。只要他们主动承认，或是有四人声明目击，即可对他们实施处罚。\[14\]而如果是女性之间发生[女女性行为](../Page/女女性行为.md "wikilink")，那么她们将被判处40鞭[鞭刑或最高](https://zh.wikipedia.org/wiki/鞭刑 "wikilink")10年的[有期徒刑](../Page/有期徒刑.md "wikilink")。\[15\]
 
-国际人权活动家建议文莱的LGBT人群以及[基督徒](../Page/基督徒.md "wikilink")、[佛教徒等少数群体在该国保持谨慎](https://zh.wikipedia.org/wiki/佛教徒 "wikilink")，因为“任何玷污伊斯兰教形象”的人都将遭受严惩。\[15\]
+国际人权活动家建议文莱的LGBT人群以及[基督徒](../Page/基督徒.md "wikilink")、[佛教徒等少数群体在该国保持谨慎](https://zh.wikipedia.org/wiki/佛教徒 "wikilink")，因为“任何玷污伊斯兰教形象”的人都将遭受严惩。\[16\]
+
+汶萊在 2019 年 4 月 3 日正式實施《伊斯蘭法刑法典》。在歐盟同樣強力反對時，汶萊駐歐盟大使在 4 月 15
+日致函歐洲議會（European Parliament）時，整整 4
+頁的信函強調並聲稱，此法目的是為了要捍衛傳統、宗教與文化價值，以及家族傳承與穆斯林婚姻的神聖性。希望歐盟各國給予「包容、尊重、理解」（tolerance,
+respect and understanding）\[17\]。
+
+2019年5月5日汶萊蘇丹[哈桑纳尔·博尔基亚宣布](../Page/哈桑纳尔·博尔基亚.md "wikilink")，暫緩實施新刑法，並會對相關法律再進行評估\[18\]。
 
 ## 跨性别者权利
 
-文莱不允许在官方文件上修改自己的姓名或性别。\[16\][性别重置手术也被禁止](https://zh.wikipedia.org/wiki/性别重置手术 "wikilink")。\[17\]
+文莱不允许在官方文件上修改自己的姓名或性别。\[19\][性别重置手术也被禁止](https://zh.wikipedia.org/wiki/性别重置手术 "wikilink")。\[20\]
 
-2015年3月11日，文莱依据《2013年伊斯兰刑法（）》判处一名公务员因[变装而罚款](https://zh.wikipedia.org/wiki/变装 "wikilink")1000[文莱元](https://zh.wikipedia.org/wiki/文莱元 "wikilink")。\[18\]\[19\]
+2015年3月11日，文莱依据《2013年伊斯兰刑法（）》判处一名公务员因[变装而罚款](https://zh.wikipedia.org/wiki/变装 "wikilink")1000[文莱元](https://zh.wikipedia.org/wiki/文莱元 "wikilink")。\[21\]\[22\]
 
 ## 生存状况
 
-文莱的LGBT社区非常隐蔽和秘密，而文莱社会倾向于将同性恋者与“娘娘腔”联系到一起。\[20\]
+文莱的LGBT社区非常隐蔽和秘密，而文莱社会倾向于将同性恋者与“娘娘腔”联系到一起。\[23\]
 
-2011年，的学者启动了一项针对文莱[同性恋者的调查研究](https://zh.wikipedia.org/wiki/同性恋者 "wikilink")。该研究说明了文莱的同性恋者是如何对自己[性取向选择沉默或保持谨慎态度](../Page/性取向.md "wikilink")，研究者只在文莱找到了29名同性恋者，而其中一部分还并非文莱公民。\[21\]
+2011年，的学者启动了一项针对文莱[同性恋者的调查研究](https://zh.wikipedia.org/wiki/同性恋者 "wikilink")。该研究说明了文莱的同性恋者是如何对自己[性取向选择沉默或保持谨慎态度](../Page/性取向.md "wikilink")，研究者只在文莱找到了29名同性恋者，而其中一部分还并非文莱公民。\[24\]
 
 ## 人权报告
 
@@ -43,7 +52,7 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>同性性行为</strong></p></td>
-<td><p>男同性恋者将判处死刑；女同性恋者将判处鞭刑或监禁。[22]</p></td>
+<td><p>男同性恋者将判处死刑；女同性恋者将判处鞭刑或监禁。[25]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>同意年龄平等</strong></p></td>
@@ -83,7 +92,7 @@
 </tr>
 <tr class="odd">
 <td><p><strong>性别变更的合法性</strong></p></td>
-<td><p>文莱禁止在官方文件上变更性别也不允许性别重置手术。[23][24]</p></td>
+<td><p>文莱禁止在官方文件上变更性别也不允许性别重置手术。[26][27]</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>女同性恋者享有试管受精权益</strong></p></td>
@@ -122,8 +131,7 @@
   - [文莱项目官方网站](https://www.thebruneiproject.com/)
 
 [Category:文莱政治](https://zh.wikipedia.org/wiki/Category:文莱政治 "wikilink")
-[Category:亞洲LGBT權益](https://zh.wikipedia.org/wiki/Category:亞洲LGBT權益 "wikilink")
-[Category:各國家地區人權](https://zh.wikipedia.org/wiki/Category:各國家地區人權 "wikilink")
+[Category:文莱社会](https://zh.wikipedia.org/wiki/Category:文莱社会 "wikilink")
 [Category:亚洲各国LGBT权益](https://zh.wikipedia.org/wiki/Category:亚洲各国LGBT权益 "wikilink")
 
 1.
@@ -141,23 +149,32 @@
 
 9.
 
-10.
+10. [同性戀死刑激眾怒
+    名流籲抵制汶萊飯店](https://udn.com/news/story/6812/3741308?from=udn-referralnews_ch2artbottom)
+    2019.4.7 聯合
+
 11.
 12.
 13.
 14.
 15.
 16.
+17. [亞洲同婚進程比一比：誰正漸趨保守？誰又是繼台灣之後，最可能合法化的國家？](https://crossing.cw.com.tw/blogTopic.action?id=1158&nid=11491&utm_source=Facebook&utm_medium=Social&utm_campaign=Daily&fbclid=IwAR0XRe549ji1ZYQPQAepJ1DAqsOyb0N8zY9GLhQmRVpAobVLP90FaPvmlkU)
+    2019.3.21 換日線
 
-17.
-
-18.
+18. [國際施壓 汶萊暫緩同志刑罰](https://udn.com/news/story/6809/3796165) 2019.5.6 聯合
 
 19.
 
 20.
 
 21.
+
 22.
+
 23.
+
 24.
+25.
+26.
+27.

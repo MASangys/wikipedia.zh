@@ -1,6 +1,6 @@
 **Rena**（；；）\[1\]\[2\]\[3\]，是一名[韓國的女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[歌手](../Page/歌手.md "wikilink")，為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[PRISTIN的成員之一](https://zh.wikipedia.org/wiki/Pristin "wikilink")，隊內擔任Rapper。
 本名为
-**姜艺彬**「」是一個純[韓字名字](https://zh.wikipedia.org/wiki/韓字 "wikilink")，未有[漢字表記](https://zh.wikipedia.org/wiki/漢字 "wikilink")，此处採用官方正名「姜艺彬」。
+**姜艺彬**「」是一個純[韓字名字](https://zh.wikipedia.org/wiki/韓字 "wikilink")，未有[漢字表記](https://zh.wikipedia.org/wiki/漢字 "wikilink")，此处採用官方正名「姜艺彬」。2019年5月24日，经纪公司宣布[PRISTIN正式解散](https://zh.wikipedia.org/wiki/PRISTIN "wikilink")，Rena与经纪公司解约。
 
 ## 練習生時期
 

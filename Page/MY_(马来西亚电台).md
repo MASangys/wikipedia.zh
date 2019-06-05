@@ -37,6 +37,7 @@ FM于2012年8月启用后，播放经典音乐的时段和负责经典音乐时�
   - [关丹](../Page/关丹.md "wikilink"): 101.1 MHz
   - [古晉](../Page/古晉.md "wikilink"): 96.9 MHz
   - [美里](../Page/美里.md "wikilink"): 103.2 MHz
+  - [诗巫](https://zh.wikipedia.org/wiki/诗巫 "wikilink"): 105.9FM
   - [亞庇](https://zh.wikipedia.org/wiki/亞庇 "wikilink"): 104.0 MHz
   - [山打根](../Page/山打根.md "wikilink"): 100.6 MHz
   - [卫星电视](../Page/Astro集團.md "wikilink"): 853频道

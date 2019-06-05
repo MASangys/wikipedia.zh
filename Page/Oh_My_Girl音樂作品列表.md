@@ -16,7 +16,7 @@ Girl歷年發行及參與的各類音樂專輯](https://zh.wikipedia.org/wiki/Oh
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>《<strong>The Fifth Season</strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/The_Fifth_Season" title="wikilink">The Fifth Season</a></strong>》</p>
 <ul>
 <li>發行日期：2019年5月8日</li>
 <li>語言：韓語</li>
@@ -140,7 +140,7 @@ Girl歷年發行及參與的各類音樂專輯](https://zh.wikipedia.org/wiki/Oh
 </tr>
 <tr class="odd">
 <td><p><strong>6th</strong></p></td>
-<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Remember_me" title="wikilink">Remember me</a></strong>》</p>
+<td><p>《<strong><a href="https://zh.wikipedia.org/wiki/Remember_Me_(Oh_My_Girl迷你專輯)" title="wikilink">Remember me</a></strong>》</p>
 <ul>
 <li>發行日期：2018年9月10日</li>
 <li>語言：韓語</li>
@@ -746,6 +746,31 @@ Girl歷年發行及參與的各類音樂專輯](https://zh.wikipedia.org/wiki/Oh
 <li>發行日期：2019年3月15日</li>
 <li>語言：韓語</li>
 <li>合作藝人: <a href="../Page/孝定.md" title="wikilink">孝定</a></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+
+  - 小分隊
+
+### [Oh My Girl Banhana](../Page/Oh_My_Girl_Banhana.md "wikilink")
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>形式</p></th>
+<th><p>單曲資料</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2018</p></td>
+<td><p>電視劇</p></td>
+<td><p><a href="../Page/先熱情地打掃吧.md" title="wikilink">先熱情地打掃吧</a> OST Part1.《Sweet Heart》</p>
+<ul>
+<li>發行日期：2018年11月26日</li>
+<li>語言：韓語</li>
 </ul></td>
 </tr>
 </tbody>

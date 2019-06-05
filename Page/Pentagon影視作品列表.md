@@ -13,7 +13,8 @@
 | 2018年             | KBS 1TV              | [朝鮮美人別傳](../Page/朝鮮美人別傳.md "wikilink")       | Yeo One                    | 圭憲 규헌            | 男主角，新年特別劇             |
 | 2019年             | MBN                  | 最棒的炸雞 최고의치킨                                  | 洪碩                         | 裴起範              |                       |
 | 2019年             | Naver TVCast、Youtube | On The Campus 온더캠퍼스                          | 洪碩                         | Yoon Heeyeol 윤희열 | 男主角                   |
-| 2019年             | 網路劇                  | Welcome to the Witch Shop 어서오세요 마녀상점         | Yeo One                    | Seongwoo 성우      | 男主角                   |
+| 2019年             | Youtube              | Welcome to the Witch Shop 어서오세요 마녀상점         | Yeo One                    | Seongwoo 성우      | 男主角                   |
+| 2019年             | Naver V              | 어쨌든 기념일                                      | 洪碩                         | Hong yujae 유재    | 男主角                   |
 
 ### 電影
 
@@ -579,25 +580,29 @@
 </tbody>
 </table>
 
-|                  |                      |                                                                             |         |         |
-| ---------------- | -------------------- | --------------------------------------------------------------------------- | ------- | ------- |
-| 日期               | 電視台/ 網絡頻道            | 節目名稱                                                                        | 參與成員    | 備註      |
-| 2019年            |                      |                                                                             |         |         |
-| 1月7日             | KBS                  | [大國民Talk Show-你好](https://zh.wikipedia.org/wiki/大國民Talk_Show-你好 "wikilink") | Hui 洪碩  |         |
-| 1月19日            | 名古屋テレビ               | メ～テレ「デルサタ」                                                                  |         |         |
-| 2月3日、10日         | MBC                  | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                              | 珍虎      | 拜年少爺    |
-| 2月6日、13日、20日、27日 | テレビ朝日系               | BREAK OUT                                                                   |         |         |
-| 3月12日            | Naver VLive V COOKIE | Lie V                                                                       | 禹奭      |         |
-| 3月20日            | MBC everyone         | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                            | 禹奭      |         |
-| 3月22日 - 4月12日    | MBC                  | 現在排名是一位                                                                     | 珍虎 Hui  | E1-4    |
-| 3月28日            | Naver VLive V COOKIE | SINGING ROOM X PENTAGON                                                     |         |         |
-| 4月9日             | TBS                  | Fact in Star                                                                |         |         |
-| 4月11日            | Celuv TV             | I'm Celuv                                                                   |         |         |
-| 4月16日            | JTBC                 | [IDOL ROOM](https://zh.wikipedia.org/wiki/IDOL_ROOM "wikilink")             | 閆桉 Yuto |         |
-| 4月17日            | Mnet                 | [M COUNTDOWN](https://zh.wikipedia.org/wiki/M_COUNTDOWN "wikilink")         | 洪碩      | 特別MC    |
-| 4月20日            | KBS                  | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                            |         | 日本篇 金蓮子 |
-| 4月22日            | Naver V Live Osen    | Star Road                                                                   |         |         |
-| 4月28日            | MBC                  | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                              | 珍虎      | 嘉賓評審    |
+|                  |                      |                                                                                |          |         |
+| ---------------- | -------------------- | ------------------------------------------------------------------------------ | -------- | ------- |
+| 日期               | 電視台/ 網絡頻道            | 節目名稱                                                                           | 參與成員     | 備註      |
+| 2019年            |                      |                                                                                |          |         |
+| 1月7日             | KBS                  | [大國民Talk Show-你好](https://zh.wikipedia.org/wiki/大國民Talk_Show-你好 "wikilink")    | Hui 洪碩   |         |
+| 1月19日            | 名古屋テレビ               | メ～テレ「デルサタ」                                                                     |          |         |
+| 2月3日、10日         | MBC                  | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                 | 珍虎       | 拜年少爺    |
+| 2月6日、13日、20日、27日 | テレビ朝日系               | BREAK OUT                                                                      |          |         |
+| 3月12日            | Naver VLive V COOKIE | Lie V                                                                          | 禹奭       |         |
+| 3月20日            | MBC everyone         | [Weekly Idol](../Page/Weekly_Idol.md "wikilink")                               | 禹奭       |         |
+| 3月22日 - 4月12日    | MBC                  | 現在排名是一位                                                                        | 珍虎 Hui   | E1-4    |
+| 3月28日            | Naver VLive V COOKIE | SINGING ROOM X PENTAGON                                                        |          |         |
+| 4月9日             | TBS                  | Fact in Star                                                                   |          |         |
+| 4月11日            | Celuv TV             | I'm Celuv                                                                      |          |         |
+| 4月16日            | JTBC                 | [IDOL ROOM](https://zh.wikipedia.org/wiki/IDOL_ROOM "wikilink")                | 閆桉 Yuto  |         |
+| 4月17日            | Mnet                 | [M COUNTDOWN](https://zh.wikipedia.org/wiki/M_COUNTDOWN "wikilink")            | 洪碩       | 特別MC    |
+| 4月20日            | KBS                  | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                               |          | 日本篇 金蓮子 |
+| 4月22日            | Naver V Live Osen    | Star Road                                                                      |          |         |
+| 4月28日、5月5日       | MBC                  | [神秘音樂秀：蒙面歌王](../Page/神秘音樂秀：蒙面歌王.md "wikilink")                                 | 珍虎       | 嘉賓評審    |
+| 5月19日            | Mnet                 | [M COUNTDOWN](https://zh.wikipedia.org/wiki/M_COUNTDOWN "wikilink") KCON JAPAN | 洪碩 Kino  | 特別MC    |
+| 5月23日            | MBC Music            | Gini Stage                                                                     | Hui Kino |         |
+| 6月1日、8日          | KBS                  | [戰鬥旅行](../Page/戰鬥旅行.md "wikilink")                                             | 洪碩       |         |
+| 6月22日            | KBS                  | [不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")                               |          |         |
 
 ## 電台節目
 
@@ -659,6 +664,7 @@
 | 4月13日      | SBS PowerFM | 朴素賢的Love Game                                  | 珍虎 禹奭  |    |
 | 4月14日      | tbs eFM     | Idol’s Dignity                                 | 閆桉     |    |
 | 4月24日      | MBC Radio   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 珍虎 Hui |    |
+| 5月6日       | MBC Radio   | [IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") | 閆桉     |    |
 
 ## 廣告代言
 
@@ -717,6 +723,7 @@
 | The Star Magazine                            | March 2019 | 禹奭      |             |
 | W Korea                                      | April 2019 | 禹奭      |             |
 | Haru Hana                                    | Vol. 59    |         |             |
+| Marie Claire Korea                           | June 2019  |         |             |
 
 ## 參考資料
 

@@ -89,7 +89,7 @@ Type A・B・C・D・E皆有初回限定盤及通常盤2種版本，各版本的
   - Team 4／SKE48 Team S：[北川綾巴](../Page/北川綾巴.md "wikilink")
   - SKE48 Team S：松井珠理奈
   - SKE48 Team
-    KII：[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、小畑優奈、北野瑠華、[惣田紗莉渚](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[竹內彩姫](https://zh.wikipedia.org/wiki/竹內彩姫 "wikilink")、日高優月、[古畑奈和](../Page/古畑奈和.md "wikilink")
+    KII：[江籠裕奈](../Page/江籠裕奈.md "wikilink")、[大場美奈](../Page/大場美奈.md "wikilink")、小畑優奈、北野瑠華、[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")、[高柳明音](../Page/高柳明音.md "wikilink")、[竹內彩姫](https://zh.wikipedia.org/wiki/竹內彩姫 "wikilink")、日高優月、[古畑奈和](../Page/古畑奈和.md "wikilink")
   - SKE48 Team E：[鎌田菜月](../Page/鎌田菜月.md "wikilink")、熊崎晴香、末永櫻花、菅原茉椰、須田亞香里
 
 ### 犯蠢
@@ -159,7 +159,7 @@ Type A・B・C・D・E皆有初回限定盤及通常盤2種版本，各版本的
   - Team 4／STU48：岡田奈奈
   - Team 8：岡部麟、小栗有以
   - SKE48 Team S：松井珠理奈
-  - 乃木坂46：[大園桃子](https://zh.wikipedia.org/wiki/大園桃子 "wikilink")、[久保史緒里](../Page/久保史緒里.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")、[堀未央奈](../Page/堀未央奈.md "wikilink")、[山下美月](../Page/山下美月.md "wikilink")、[與田祐希](../Page/與田祐希.md "wikilink")
+  - 乃木坂46：[大園桃子](../Page/大園桃子.md "wikilink")、[久保史緒里](../Page/久保史緒里.md "wikilink")、[齋藤飛鳥](../Page/齋藤飛鳥.md "wikilink")、[堀未央奈](../Page/堀未央奈.md "wikilink")、[山下美月](../Page/山下美月.md "wikilink")、[與田祐希](../Page/與田祐希.md "wikilink")
   - 欅坂46：[今泉佑唯](../Page/今泉佑唯.md "wikilink")、[小林由依](../Page/小林由依.md "wikilink")、[菅井友香](../Page/菅井友香.md "wikilink")、[長濱禰留](../Page/長濱禰留.md "wikilink")、[渡邊理佐](https://zh.wikipedia.org/wiki/渡邊理佐 "wikilink")
   - 平假名櫸坂46：加藤史帆
 

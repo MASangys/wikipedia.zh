@@ -158,7 +158,7 @@ BEATLESS，那是沒有心跳之物。從來沒人描寫過的，人類的絕望
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2019年5月2日</p></td>
+<td><p>2019年5月2日[6]</p></td>
 <td><p>ISBN 978-986-954-756-7</p></td>
 <td></td>
 </tr>
@@ -174,7 +174,7 @@ BEATLESS，那是沒有心跳之物。從來沒人描寫過的，人類的絕望
 </tr>
 <tr class="even">
 <td><p>下卷</p></td>
-<td><p>ISBN 978-4-04-120399-6[6]</p></td>
+<td><p>ISBN 978-4-04-120399-6[7]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -203,12 +203,12 @@ BEATLESS，那是沒有心跳之物。從來沒人描寫過的，人類的絕望
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>2012年9月22日[7]</p></td>
+<td><p>2012年9月22日[8]</p></td>
 <td><p>ISBN 978-4-04-120399-6</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>2013年2月21日[8]</p></td>
+<td><p>2013年2月21日[9]</p></td>
 <td><p>ISBN 978-4-04-120605-8</p></td>
 </tr>
 </tbody>
@@ -216,7 +216,7 @@ BEATLESS，那是沒有心跳之物。從來沒人描寫過的，人類的絕望
 
 ## 電視動畫
 
-2018年1月12日起由日本[每日放送等台首播](../Page/每日放送.md "wikilink")。2017年11月25日發表PV第一彈及5名聲優陣容\[9\]。
+2018年1月12日起由日本[每日放送等台首播](../Page/每日放送.md "wikilink")。2017年11月25日發表PV第一彈及5名聲優陣容\[10\]。
 
 ### 製作人員
 
@@ -267,7 +267,7 @@ BEATLESS，那是沒有心跳之物。從來沒人描寫過的，人類的絕望
         作曲：Pa's Lam System
 
 註:該曲過後有人聲唱的為「Resonator」收錄在設定集BEATLESS “Arm for the
-Outsourcers”的特典CD裡面。\[10\]
+Outsourcers”的特典CD裡面。\[11\]
 
 ### 各話列表
 
@@ -275,7 +275,7 @@ Outsourcers”的特典CD裡面。\[10\]
 <thead>
 <tr class="header">
 <th><p>話數</p></th>
-<th><p>日文標題[11]</p></th>
+<th><p>日文標題[12]</p></th>
 <th><p>中文標題</p></th>
 <th><p>劇本</p></th>
 <th><p>分鏡</p></th>
@@ -647,7 +647,7 @@ Ryu Joong Hyeon</p></td>
 <tr class="header">
 <th><p>播放地區</p></th>
 <th><p>播放電視台</p></th>
-<th><p>播放日期[12]</p></th>
+<th><p>播放日期[13]</p></th>
 <th><p>播放時間（<a href="https://zh.wikipedia.org/wiki/UTC" title="wikilink">UTC</a><a href="https://zh.wikipedia.org/wiki/UTC+9" title="wikilink">+9</a>）</p></th>
 <th><p>所屬聯播網</p></th>
 <th><p>備註</p></th>
@@ -656,7 +656,7 @@ Ryu Joong Hyeon</p></td>
 <tbody>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/近畿廣域圈" title="wikilink">近畿廣域圈</a></p></td>
-<td><p><a href="../Page/每日放送.md" title="wikilink">每日放送</a>(MBS)[13]</p></td>
+<td><p><a href="../Page/每日放送.md" title="wikilink">每日放送</a>(MBS)[14]</p></td>
 <td><p>2018年1月12日－</p></td>
 <td><p>星期五 25時55分－26時25分</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/日本新聞網" title="wikilink">日本新聞網</a></p></td>
@@ -692,7 +692,7 @@ Ryu Joong Hyeon</p></td>
 
 ### Blu-ray BOX
 
-| 卷數 | 發行日期        | 收錄話數       | 規格編號\[14\] | 封面hIE |
+| 卷數 | 發行日期        | 收錄話數       | 規格編號\[15\] | 封面hIE |
 | -- | ----------- | ---------- | ---------- | ----- |
 | 1  | 2018年5月25日  | 第1話\~第6話   | KAXA-7621  | 紅霞    |
 | 2  | 2018年7月25日  | 第7話\~第12話  | KAXA-7622  | 薩托努斯  |
@@ -732,3 +732,4 @@ Ryu Joong Hyeon</p></td>
 12.
 13.
 14.
+15.

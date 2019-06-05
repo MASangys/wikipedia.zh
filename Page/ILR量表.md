@@ -24,9 +24,21 @@ Level 1）。
 | C1   | 3/3+ | S        |
 | C2   | 4/4+ | D        |
 
+另一个可能的比较表\[2\]:
+
+| CEFR | ILR  | ACTFL    |
+| ---- | ---- | -------- |
+| A1   | 0/1  | NL/NM/NH |
+| A2   | 1+   | IL/IM    |
+| B1   | 2/2+ | IH       |
+| B2   | 3/3+ | AL/AM/AH |
+| C1   | 4    | S        |
+| C2   | 4+   | D        |
+
 ## 参考文献
 
 [Category:各組織標準](https://zh.wikipedia.org/wiki/Category:各組織標準 "wikilink")
 [Category:語言教育](https://zh.wikipedia.org/wiki/Category:語言教育 "wikilink")
 
 1.
+2.  <http://french-baltimore.com/about-us/the-cecr/index.html>

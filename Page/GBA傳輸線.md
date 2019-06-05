@@ -30,7 +30,7 @@ Advance游戏，Game Boy Advance游戏一栏会显示为不适用。
 <td><p>在两个版本之间交换集换式卡牌。</p></td>
 </tr>
 <tr class="even">
-<td><p>《''</p></td>
+<td><p>《》</p></td>
 <td></td>
 <td><p>解锁新的游戏内容。</p></td>
 </tr>
@@ -305,7 +305,7 @@ Advance游戏，Game Boy Advance游戏一栏会显示为不适用。
 <tr class="even">
 <td><p>《》</p></td>
 <td></td>
-<td><p>发送试玩版《至GBA。</p></td>
+<td><p>发送试玩版《》至GBA。</p></td>
 </tr>
 <tr class="odd">
 <td><p>《》</p></td>

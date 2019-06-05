@@ -80,7 +80,7 @@ COME TRUE保持的連續六張專輯首周第一的紀錄](../Page/DREAMS_COME_T
 
 ## 外部連結
 
-  - [生物股長官方網站](http://ikimonogakari.com/discography/album/escl-4089/)
+  - [生物股長官方網站](https://web.archive.org/web/20170814145752/http://ikimonogakari.com/discography/album/escl-4089/)
   - [Sony Music](http://www.sonymusic.co.jp/artist/Ikimonogakari/)
   - [台灣索尼音樂](https://web.archive.org/web/20120308122632/http://www.sonymusic.com.tw/album_info.php?al_prodno=88691951482)
 
