@@ -2,6 +2,10 @@
 ](https://zh.wikipedia.org/wiki/File:Latin_keyboard_layouts_by_country_in_Europe_map.PNG "fig:在歐洲使用不同鍵盤布局的分佈：     ")
 **AZERTY**是一種源於[法國的打字機和電腦鍵盤鍵盤布局](https://zh.wikipedia.org/wiki/法國 "wikilink")。「AZERTY」是該鍵盤布局字母區第一行的前六個字母。它是仿照英文電腦鍵盤鍵盤[QWERTY佈局](https://zh.wikipedia.org/wiki/QWERTY "wikilink")。於1907年提出了「[ZHJAYSCPG鍵盤](https://zh.wikipedia.org/wiki/ZHJAYSCPG鍵盤 "wikilink")」，但於1976年克勞德·馬爾桑設計安排順序成AZERTY。現主要用於[法國和](https://zh.wikipedia.org/wiki/法國 "wikilink")[比利時](https://zh.wikipedia.org/wiki/比利時 "wikilink")，但[盧森堡和](https://zh.wikipedia.org/wiki/盧森堡 "wikilink")[瑞士的](https://zh.wikipedia.org/wiki/瑞士 "wikilink")[法語居民卻使用](https://zh.wikipedia.org/wiki/法語 "wikilink")[QWERTZ鍵盤](../Page/QWERTZ鍵盤.md "wikilink")。而在加拿大[魁北克省的法語居民大多已經適應了使用](../Page/魁北克省.md "wikilink")[QWERTY鍵盤](../Page/QWERTY鍵盤.md "wikilink")。\[1\]\[2\]\[3\]
 
+在法語中，由於「Z」比「W」常用，因此兩者互換了位置。W只用作外來語。
+
+此外「A」和「Q」的位置互換，並將M提升一行。
+
 [KB_France.svg](https://zh.wikipedia.org/wiki/File:KB_France.svg "fig:KB_France.svg")的AZERTY。\]\]
 
 ## 參考

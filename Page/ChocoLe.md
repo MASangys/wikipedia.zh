@@ -162,7 +162,7 @@ AVCA-49741/B</p></td>
   - [ChocoLe -チョコレ- Offical Web
     Site](https://web.archive.org/web/20120514110755/http://chocole.net/)
 
-  - [We-Girls](http://www.we-girls.jp/)
+  - [We-Girls](https://web.archive.org/web/20121128053037/http://www.we-girls.jp/)
 
   -
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")

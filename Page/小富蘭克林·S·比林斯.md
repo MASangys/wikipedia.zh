@@ -35,8 +35,8 @@
     at 91](http://www.burlingtonfreepress.com/article/20140309/NEWS02/303090036/)
     , March 9, 2014
 4.  David Cogger, Vermont Standard, [Judge Billings Receives Purple
-    Heart](http://www.thevermontstandard.com/2010/12/judge-billings-receives-purple-heart-2/),
-    December 16, 2010
+    Heart](http://www.thevermontstandard.com/2010/12/judge-billings-receives-purple-heart-2/)
+    , December 16, 2010
 5.  Vermont General Assembly, [Senate Concurrent Resolution 23,
     Congratulating Judge Franklin Swift Billings, Jr., and Mrs. Pauline
     Richardson Gillingham Billings on Their 60th Wedding
@@ -47,8 +47,8 @@
     February 18, 2010
 7.  David Cogger, Vermont Standard, [Judge Franklin Billings Recalls
     President
-    Coolidge](http://www.thevermontstandard.com/2010/05/judge-franklin-billings-recalls-president-coolidge/),
-    May 9, 2010
+    Coolidge](http://www.thevermontstandard.com/2010/05/judge-franklin-billings-recalls-president-coolidge/)
+    , May 9, 2010
 8.  U.S. Government Printing Office, [United States Senate Judiciary
     Committee Confirmation Hearings on Appointments to the Federal
     Judiciary](http://books.google.com/books?ei=Ya0dU_zZF6GX1AG42YHoDA&id=MDwTAAAAIAAJ&dq=%22franklin+s+billings%22+yale+law+school&focus=searchwithinvolume&q=%22franklin+s+billings%22),

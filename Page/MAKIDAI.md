@@ -1,5 +1,5 @@
 **MAKIDAI**
-、本名：**真木大輔**（、）是[日本的](../Page/日本.md "wikilink")[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、[司儀](../Page/司儀.md "wikilink")。前[EXILE的表演者](https://zh.wikipedia.org/wiki/EXILE "wikilink")。元[J
+、本名：**真木大輔**（、）是[日本的](../Page/日本.md "wikilink")[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[DJ](https://zh.wikipedia.org/wiki/DJ "wikilink")、[演員](../Page/演員.md "wikilink")、[司儀](../Page/司儀.md "wikilink")。前[EXILE的表演者](https://zh.wikipedia.org/wiki/EXILE "wikilink")。元[J
 Soul Brothers](../Page/J_Soul_Brothers.md "wikilink")、[RATHER
 UNIQUE](https://zh.wikipedia.org/wiki/RATHER_UNIQUE "wikilink")。
 

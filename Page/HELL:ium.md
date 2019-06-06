@@ -32,7 +32,5 @@ LLC.發售](https://zh.wikipedia.org/wiki/Geneon_Universal_Entertainment_Japan,_
 
 6.  Just believe.（Instrumental）
 
-[ja:リアル鬼ごっこ](https://zh.wikipedia.org/wiki/ja:リアル鬼ごっこ "wikilink")
-
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
 [Category:NBC環球娛樂歌曲](https://zh.wikipedia.org/wiki/Category:NBC環球娛樂歌曲 "wikilink")

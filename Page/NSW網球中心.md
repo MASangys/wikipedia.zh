@@ -2,8 +2,6 @@
 
 ## 圖片
 
-<center>
-
 image:NSW Tennis Centre outside.jpg|
 
 <center>
@@ -25,8 +23,6 @@ image:Sydney 2000 Olympic tennis.JPG|
 <center>
 
 2000年夏季奧林匹克運動會
-
-</center>
 
 </center>
 

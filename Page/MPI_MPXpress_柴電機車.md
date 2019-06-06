@@ -80,4 +80,4 @@ MP54AC采用一对康明斯16缸QSK60发动机，每台发动机功率为2,700�
 3.
 4.
 5.  <http://discuss.amtraktrains.com/index.php?/topic/57022-sunrail-locomotive-delivered/>
-    First SunRail locomotive delivered
+     First SunRail locomotive delivered

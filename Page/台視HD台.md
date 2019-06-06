@@ -95,7 +95,7 @@
   - [新獵人](https://zh.wikipedia.org/wiki/HUNTER×HUNTER "wikilink")
   - [美食獵人](../Page/美食獵人TORIKO.md "wikilink")
   - [航海王](https://zh.wikipedia.org/wiki/ONE_PIECE_\(動畫\) "wikilink")（首播部分從第537話起、重播部分從第459話起）
-  - [鑽石王牌](https://zh.wikipedia.org/wiki/鑽石王牌 "wikilink")
+  - [鑽石王牌](../Page/鑽石王牌.md "wikilink")
   - [聖鬥士星矢Ω](https://zh.wikipedia.org/wiki/聖鬥士星矢Ω "wikilink")
 
 ### 資訊節目

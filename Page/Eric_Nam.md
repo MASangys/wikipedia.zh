@@ -454,6 +454,20 @@ Nam厭倦主流媒體對亞裔美國人的不佳詮釋，決定和他的兩個�
 </ul></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><strong>9th</strong></p></td>
+<td><p>第九張數位單曲《Runaway》</p>
+<ul>
+<li>發行日期：2019年5月8日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

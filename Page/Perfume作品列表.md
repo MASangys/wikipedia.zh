@@ -84,6 +84,12 @@
 <tbody>
 <tr class="odd">
 <td><p>1st</p></td>
+<td><p>2008年2月13日</p></td>
+<td><p>'''<a href="https://zh.wikipedia.org/wiki/Fan_Service_-Prima_Box-" title="wikilink">Fan Service -Prima Box-</a></p></td>
+<td><p>不入榜</p></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
 <td><p>2012年9月12日</p></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/Perfume_Global_Compilation_“LOVE_THE_WORLD”" title="wikilink">Perfume Global Compilation “LOVE THE WORLD”</a></strong></p></td>
 <td><p>1</p></td>

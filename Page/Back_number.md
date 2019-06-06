@@ -171,6 +171,34 @@ number」，變成沒用的東西。\[1\]
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>17th</p></td>
+<td><p>2017年12月20日</p></td>
+<td><p>眨眼</p></td>
+<td><p>5</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>18th</p></td>
+<td><p>2018年8月22日</p></td>
+<td><p>大不正解</p></td>
+<td><p>3</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>19th</p></td>
+<td><p>2018年11月21日</p></td>
+<td><p>Old Fashion</p></td>
+<td><p>4</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>20th</p></td>
+<td><p>2019年2月27日</p></td>
+<td><p>HAPPY BIRTHDAY</p></td>
+<td><p>4</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -257,10 +285,37 @@ number」，變成沒用的東西。\[1\]
 <td><p>1</p></td>
 </tr>
 <tr class="odd">
+<td><p>6th</p></td>
+<td><p>2019年3月27日</p></td>
+<td></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
 <td></td>
+</tr>
+</tbody>
+</table>
+
+### 精選專輯
+
+<table>
+<thead>
+<tr class="header">
+<th><p>發行日期</p></th>
+<th><p>名稱</p></th>
+<th><p>Oricon公信榜 週榜最高排名</p></th>
+<th><p>上榜週數</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2016年12月28日</p></td>
+<td></td>
+<td><p>2</p></td>
+<td><p>122</p></td>
 </tr>
 </tbody>
 </table>

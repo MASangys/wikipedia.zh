@@ -123,7 +123,8 @@ Center）起訴Mojang允許[Youtube上的Minecraft影片使用](https://zh.wikip
 [Category:瑞典電子遊戲公司](https://zh.wikipedia.org/wiki/Category:瑞典電子遊戲公司 "wikilink")
 [Category:Mojang](https://zh.wikipedia.org/wiki/Category:Mojang "wikilink")
 
-1.  [申請案](http://tmwpsearch.tipo.gov.tw:8080/SearchWord/wfm10110.jsp?sysid=1103048067).MOJANG於中華民國的申請案資料
+1.  [申請案](http://tmwpsearch.tipo.gov.tw:8080/SearchWord/wfm10110.jsp?sysid=1103048067)
+    .MOJANG於中華民國的申請案資料
 
 2.
 

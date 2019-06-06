@@ -737,6 +737,54 @@ SONG](../Page/LOST_SONG.md "wikilink")」主題曲「」作詞。2018年5月19�
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年10月12日</p></td>
+<td></td>
+<td><p>上海萬代南夢宮上海文化中心未來劇場</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年10月26日</p></td>
+<td><p>台灣</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月3日</p></td>
+<td><p>香港九龍灣國際展貿中心Music Zone@E-max</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年11月10日</p></td>
+<td><p>東京 豊洲PIT</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年11月30日</p></td>
+<td><p>岡山 YEBISU YA PRO</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月1日</p></td>
+<td><p>福岡 LIVEHOUSE CB　</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年12月15日</p></td>
+<td><p>宮城 仙台MACANA</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月21日</p></td>
+<td><p>北海道 KRAPS HALL</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

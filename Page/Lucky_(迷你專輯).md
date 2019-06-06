@@ -83,5 +83,6 @@
 
 9.
 
-10. [泰國Chammel\[V](http://www.channelvthailand.com/v/v_news/asian-top-50-year-end-chart-2011/)
-     2011年度Asian Top50\]
+10. date=2012-05-09 }} 2011年度Asian Top50 |access-date=2012-06-15
+    |archive-url=<https://web.archive.org/web/20120509134325/http://www.channelvthailand.com/v/v_news/asian-top-50-year-end-chart-2011/>
+    |archive-date=2012-05-09 |dead-url=yes }}

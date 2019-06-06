@@ -27,7 +27,7 @@ Edwards）。凯莉·圣迪亚戈担任公司的主席兼游戏制作人，陈�
 Network服务上线之前准备就绪](../Page/PlayStation_Network.md "wikilink")。然而，当《流》终于在2007年2月被放上PSN网络商店销售时，其游戏内容“还没有最初设定的一半多”。\[12\]
 根据对凯莉的采访，索尼方面在把开发任务分配给开发组前已经预料到thatgamecompany他们会低估游戏开发所要用的时间周期，所以索尼方面对本作的延期并不感到意外。\[13\]
 《流》在发售后获得了优异的反馈：它成为了2007年年度PlayStation
-Network网络商店下载量最高的游戏；在之后[互动艺术与科学学会主办的](https://zh.wikipedia.org/wiki/互动艺术与科学学会 "wikilink")2008年第11届年度互动成就展上，《流》被提名为“最佳下载游戏”；\[14\]
+Network网络商店下载量最高的游戏；在之后[互动艺术与科学学会主办的](../Page/互动艺术与科学学会.md "wikilink")2008年第11届年度互动成就展上，《流》被提名为“最佳下载游戏”；\[14\]
 在2007年度[英国电影和电视艺术奖上](../Page/英国电影和电视艺术学院.md "wikilink")，《流》被提名为“最佳创新奖”。\[15\]\[16\]\[17\]
 在《流》发售之后，索尼还发售了一部它的[资料片和](https://zh.wikipedia.org/wiki/资料片 "wikilink")《流》的[PlayStation
 Portable掌机版本](../Page/PlayStation_Portable.md "wikilink")，这两者的开发都没有thatgamecompany的直接参与。它们由美国的电子游戏开发团队[SuperVillain
@@ -226,7 +226,8 @@ thatgamecompany的员工们并不反感动作游戏。在他们制作自己的�
 39. [Journey and Flower studio thatgamecompany teases its next
     title](http://www.eurogamer.net/articles/2016-11-01-journey-and-flower-studio-thatgamecompany-teases-its-next-title).Eurogamer.2016-11-01.\[2016-11-02\].
 
-40. [多人，多平台！陈星汉工作室新作设定图公开](http://www.g-cores.com/articles/21290).机核网.2016-11-02.\[2016-11-02\].
+40. [多人，多平台！陈星汉工作室新作设定图公开](http://www.g-cores.com/articles/21290)
+    .机核网.2016-11-02.\[2016-11-02\].
 
 41.
 

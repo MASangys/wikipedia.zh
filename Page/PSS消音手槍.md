@@ -40,6 +40,7 @@ PSS手槍曾經被[克格勃採用過](https://zh.wikipedia.org/wiki/克格勃 "
     Firearms](http://world.guns.ru/handguns/hg/rus/pss-silent-e.html)
 
 [Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink")
+[Category:消聲槍械](https://zh.wikipedia.org/wiki/Category:消聲槍械 "wikilink")
 [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
 [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
 

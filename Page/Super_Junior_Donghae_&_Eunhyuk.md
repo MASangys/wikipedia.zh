@@ -58,10 +58,12 @@ You＞為專輯主打歌曲，進行該專輯宣傳活動。
 ### 2019年至今：Danger、韓國首場專屬演唱會、第二次亞洲巡演
 
 2019年3月7日，[Label SJ宣布Super](../Page/Label_SJ.md "wikilink")
-Junior-D\&E將於4月13與14日兩天在首爾奧林匹克公園的奧林匹克廳舉行首場國內演唱會《THE D\&E》。
+Junior-D\&E將於4月13與14日兩天在首爾奧林匹克公園的奧林匹克廳舉行首場國內演唱會《THE
+D\&E》，銀赫在首次韓國舉行的演唱會《The D\&E》，擔任舞台總監與舞台導演。
 
-4月1日,馬來西亞主辦單位MIC Entertainment Group宣布Super Junior-D\&E將於5月4日在吉隆坡Sunway
-Velocity Mall舉行《THE D\&E》 。
+4月1日,馬來西亞主辦單位MIC Entertainment Group宣布Super
+Junior-D\&E將於5月4日在吉隆坡美拉華蒂體育館舉行《THE D\&E》
+。
 
 4月2日,[Label
 SJ宣布將於](../Page/Label_SJ.md "wikilink")4月12日公開新專輯先行曲《Gloomy》MV,14日由線上音源網站發布第三張韓語迷你專輯《[Danger](../Page/Danger_\(Super_Junior-D&E迷你專輯\).md "wikilink")》，並於隔日發售實體專輯。
@@ -213,6 +215,7 @@ SJ宣布將於](../Page/Label_SJ.md "wikilink")4月12日公開新專輯先行曲
 | 2019年5月4日     | 吉隆坡站  | 美拉華蒂體育館                        |
 | 2019年5月25日    | 曼谷站   | Thunder Dome Muang Thong Thani |
 | 2019年6月22-23日 | 台北站   | 新莊體育館                          |
+| 2019年6月29日    | 香港站   | 亞洲國際博覽館 Hall 10                |
 
   - 其他大型演唱會
 

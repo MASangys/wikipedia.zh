@@ -521,8 +521,9 @@ Lübeck (Germany) and FFG-47 USS Nicholas at Port of
 Leixões.jpg|葡萄牙Vasco da
 Gama號（F330，右）與[西班牙海軍](../Page/西班牙海軍.md "wikilink")[Blas
 de Lezo號](../Page/阿爾瓦羅·巴贊級巡防艦.md "wikilink")（左） <File:F331> NRP Alvares
-Cabral (30156576661).jpg|Alvares Cabral號（F331） <File:171106-N-UY653-245>
-(26461109339).jpg|Corte-Real號（F332）
+Cabral (30156576661).jpg|Alvares Cabral號（F331） <File:Portuguese> frigate
+NRP Corte Real (F332) underway in the Atlantic Ocean on 6 November 2017
+(171106-N-UY653-245).JPG|Corte-Real號（F332）
 
 #### MEKO 200 HN
 

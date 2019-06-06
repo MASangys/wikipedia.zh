@@ -19,7 +19,7 @@ Contemporary或](https://zh.wikipedia.org/wiki/Adult_contemporary_music "wikilin
   - [Radio 2 Timeline/History](http://www.r2ok.co.uk/R2_timeline.htm)
 
   - [Listen BBC Radio Latest Bulletins Listen to Business
-    Bulletin](http://www.sofradio.eu/27377/bbc_radio_2.html)
+    Bulletin](https://web.archive.org/web/20100405041126/http://www.sofradio.eu/27377/bbc_radio_2.html)
 
 [Category:英國廣播公司電台](https://zh.wikipedia.org/wiki/Category:英國廣播公司電台 "wikilink")
 [Category:英國電台](https://zh.wikipedia.org/wiki/Category:英國電台 "wikilink")

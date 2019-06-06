@@ -31,8 +31,6 @@ MARS的瞄準鏡](../Page/ITL_MARS一體化紅點鏡.md "wikilink")，以及其�
     Fort官網](https://web.archive.org/web/20121019053741/http://www.fort.vn.ua/en/products/automatic-weapons/assault-rifle-fort221.html)
   - [1](https://web.archive.org/web/20081015044759/http://www.altair.com.pl/start-1862)
 
-[uk:Форт-221](https://zh.wikipedia.org/wiki/uk:Форт-221 "wikilink")
-
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink")
 [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink")
 [Category:衝鋒槍](https://zh.wikipedia.org/wiki/Category:衝鋒槍 "wikilink")

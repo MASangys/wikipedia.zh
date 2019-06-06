@@ -131,7 +131,7 @@
 
 ## 外部链接
 
-  - [日本官網](http://www.e-tnk.net/index.html)
+  - [日本官網](https://web.archive.org/web/20150520011218/http://e-tnk.net/index.html)
 
 [Category:1999年成立的公司](https://zh.wikipedia.org/wiki/Category:1999年成立的公司 "wikilink")
 [Category:日本動畫工作室](https://zh.wikipedia.org/wiki/Category:日本動畫工作室 "wikilink")

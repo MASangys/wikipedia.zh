@@ -256,7 +256,7 @@ Fergus Chow</p></td>
   - 17日，於[荃灣廣場舉行](../Page/荃灣廣場.md "wikilink")《Reflection》簽唱會。
   - 18日，於新城電台節目"開心家天下"宣傳《皮外傷》及新碟《Reflection》。
   - 18日至19日，於[無線收費電視首播](https://zh.wikipedia.org/wiki/無線收費電視 "wikilink")《皮外傷》MV製作花絮。
-  - 18日至22日，於[叱咤903節目](https://zh.wikipedia.org/wiki/叱咤903 "wikilink")"雲妮鍾情"宣傳《Reflection》。
+  - 18日至22日，於[叱咤903節目](../Page/叱咤903.md "wikilink")"雲妮鍾情"宣傳《Reflection》。
   - 18日，於[Now
     TV](https://zh.wikipedia.org/wiki/Now_TV "wikilink")-Channel
     102節目"Hello Au Pa Ma"宣傳新碟《Reflection》。

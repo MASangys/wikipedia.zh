@@ -482,14 +482,21 @@ Eddy，以五人樂團的體制正式活動，2013年5月發表第一張專輯�
 <td><p>2014年3月26日</p></td>
 <td></td>
 <td><p>11位</p></td>
-<td><p>UMA-9033-9034</p></td>
+<td><p>UMA-9033/4</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2016年9月28日</p></td>
 <td></td>
 <td></td>
+<td><p>初回限定盤：UMA-9083/4、通常盤：UMA-1083</p></td>
+</tr>
+<tr class="even">
+<td><p>6th</p></td>
+<td><p>2019年5月22日</p></td>
 <td></td>
+<td></td>
+<td><p>初回限定盤： GNCL-1309、通常盤：GNCL-1310</p></td>
 </tr>
 </tbody>
 </table>

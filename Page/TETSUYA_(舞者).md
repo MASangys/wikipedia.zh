@@ -1,4 +1,4 @@
-**TETSUYA**（）是[日本的](../Page/日本.md "wikilink")[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")。[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[EXILE
+**TETSUYA**（）是[日本的](../Page/日本.md "wikilink")[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")、[演員](../Page/演員.md "wikilink")。[EXILE及](https://zh.wikipedia.org/wiki/EXILE "wikilink")[EXILE
 THE SECOND表演者](../Page/EXILE_THE_SECOND.md "wikilink")。原[J Soul
 Brothers](../Page/J_Soul_Brothers.md "wikilink")。
 
@@ -148,8 +148,7 @@ PARTY正式成員](https://zh.wikipedia.org/wiki/DANCE_EARTH_PARTY "wikilink")�
     「[零系可口可樂](../Page/零系可口可樂.md "wikilink")」（2013年）
   - [第一興商](https://zh.wikipedia.org/wiki/第一興商 "wikilink")「SmartDAM」（2013年）
   - [洋服の青山](https://zh.wikipedia.org/wiki/青山商事 "wikilink")（2015年）\[24\]
-  - [軟銀](https://zh.wikipedia.org/wiki/軟銀 "wikilink")「スポナビライブ」（2016年6月 -
-    ）
+  - [軟銀](../Page/軟銀.md "wikilink")「スポナビライブ」（2016年6月 - ）
   - [和真](https://zh.wikipedia.org/wiki/和真 "wikilink")「UTMO」（2016年）
     \[25\]
 

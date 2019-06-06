@@ -39,6 +39,7 @@
 
 [Category:软件文档](https://zh.wikipedia.org/wiki/Category:软件文档 "wikilink")
 [Category:计算机文件](https://zh.wikipedia.org/wiki/Category:计算机文件 "wikilink")
+[Category:TXT](https://zh.wikipedia.org/wiki/Category:TXT "wikilink")
 
 1.
 

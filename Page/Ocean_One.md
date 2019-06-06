@@ -114,7 +114,8 @@ One在各大報章及其售樓說明書中刊登的廣告及資料寫到「九�
 [Category:麗新發展物業](https://zh.wikipedia.org/wiki/Category:麗新發展物業 "wikilink")
 
 1.  [油塘Ocean One呎價10326
-    麗展新盤突搶閘開價](http://www.mpfinance.com/htm/Finance/20121014/News/la_laa1.htm)《明報》2012年10月14日
+    麗展新盤突搶閘開價](http://www.mpfinance.com/htm/Finance/20121014/News/la_laa1.htm)
+    《明報》2012年10月14日
 2.  [油塘OCEAN
     ONE樓底10呎10吋](http://www.hkej.com/template/property/php/detail.php?title_id=9979)《信報》2012年10月14日
 3.  [Ocean

@@ -1,12 +1,11 @@
-[尹淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink"){{·}}[洪知秀](https://zh.wikipedia.org/wiki/洪知秀 "wikilink"){{·}}[文俊輝](../Page/文俊輝.md "wikilink"){{·}}[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink"){{·}}[全圓佑](../Page/全圓佑.md "wikilink"){{·}}
-[李知勳](../Page/李知勳_\(SEVENTEEN\).md "wikilink"){{·}}[李碩珉](https://zh.wikipedia.org/wiki/李碩珉 "wikilink"){{·}}[金珉奎](../Page/金珉奎.md "wikilink"){{·}}[徐明浩](https://zh.wikipedia.org/wiki/徐明浩 "wikilink"){{·}}[夫勝寛](../Page/夫勝寛.md "wikilink"){{·}}[崔韓率](https://zh.wikipedia.org/wiki/崔韓率 "wikilink"){{·}}[李燦](../Page/李燦_\(SEVENTEEN\).md "wikilink")
+[淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink"){{·}}[Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink"){{·}}[Jun](../Page/文俊輝.md "wikilink"){{·}}[Hoshi](https://zh.wikipedia.org/wiki/權順榮 "wikilink"){{·}}[圓佑](../Page/全圓佑.md "wikilink"){{·}}[WOOZI](../Page/李知勳_\(SEVENTEEN\).md "wikilink"){{·}}[The8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink"){{·}}[DK](https://zh.wikipedia.org/wiki/李碩珉 "wikilink"){{·}}[珉奎](../Page/金珉奎.md "wikilink"){{·}}[勝寛](../Page/夫勝寛.md "wikilink"){{·}}[Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink"){{·}}[Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink")
 | 簽名 = | 相關團體 =
 [夫碩順(BSS)](https://zh.wikipedia.org/wiki/SEVENTEEN-BSS "wikilink")
 }}
 
-**SEVENTEEN**（，）是韓國[Pledis娛樂旗下的](../Page/Pledis娛樂.md "wikilink")13人男子流行音樂團體，成員包括[韓國籍](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[尹淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[李知勳](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[李碩珉](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[金珉奎](../Page/金珉奎.md "wikilink")、[夫勝寛](../Page/夫勝寛.md "wikilink")、[李燦](../Page/李燦_\(SEVENTEEN\).md "wikilink")，[美籍韓裔的](../Page/美国.md "wikilink")[洪知秀](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")，韓美雙籍的[崔韓率](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")，以及[中國籍的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[文俊輝](../Page/文俊輝.md "wikilink")、[徐明浩](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")。
+**SEVENTEEN**（，）是韓國[Pledis娛樂旗下的](../Page/Pledis娛樂.md "wikilink")13人男子流行音樂團體，成員包括[韓國籍](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[崔勝哲](https://zh.wikipedia.org/wiki/崔勝哲 "wikilink")、[尹淨漢](https://zh.wikipedia.org/wiki/尹淨漢 "wikilink")、[權順榮](https://zh.wikipedia.org/wiki/權順榮 "wikilink")、[全圓佑](../Page/全圓佑.md "wikilink")、[李知勳](../Page/李知勳_\(SEVENTEEN\).md "wikilink")、[李碩珉](https://zh.wikipedia.org/wiki/李碩珉 "wikilink")、[金珉奎](../Page/金珉奎.md "wikilink")、[夫勝寛](../Page/夫勝寛.md "wikilink")、[李燦](../Page/李燦_\(SEVENTEEN\).md "wikilink")，[美籍韓裔的](../Page/美国.md "wikilink")[洪知秀](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")，韓美雙籍的[崔韓率](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")，以及[中國籍的](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[文俊輝和](../Page/文俊輝.md "wikilink")[徐明浩](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")。
 
-2015年5月26日透過實境節目《SEVENTEEN Project：出道大作戰》第七集Debut
+2015年5月26日透過練習生生活紀錄節目《小綠屋》實境節目《SEVENTEEN Project：出道大作戰》第七集Debut
 Showcase正式出道，並於5月29日發行首張迷你專輯《[17
 Carat](../Page/17_Carat.md "wikilink")》，主打曲為〈Adore
 U〉。由於成員參與每一張專輯的作曲、作詞和編舞而獲得「自給自足偶像（자체제작
@@ -217,7 +216,7 @@ Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》冠軍歌曲�
 
 #### 2017《DIAMOND EDGE》首次世界巡演
 
-7月14日-16日连续三场，SEVENTEEN在可容纳10万人的韩国首尔蚕室综合运动场举办第一站首尔场为此拉开序幕。第二站他们于7月26日-27日在日本埼玉超级竞技场，这个竞技场可容纳37000人，随后更是在仅隔1年便再次巡游中国香港，可见SEVENTEEN海内外的超高人气。
+7月14日-16日连续三场，SEVENTEEN在可容纳10万人的韩国首尔蚕室综合运动场举办第一站首尔场为此拉开序幕。第二站他们于7月26日-27日在日本埼玉超级竞技场，这个竞技场可容纳37000人，随后更是在仅隔1年便再次巡游香港，可见SEVENTEEN海内外的超高人气。
 
 #### 合作
 
@@ -381,7 +380,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <td><p>分隊</p></td>
 </tr>
 <tr class="even">
-<td><p>Hip-pop Team</p></td>
+<td><p>Hip-hop Team</p></td>
 </tr>
 <tr class="odd">
 <td><p>圓佑<br />
@@ -422,8 +421,8 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 호시 / ホシ</p></td>
 </tr>
 <tr class="odd">
-<td><p>The 8<br />
-디에잇 / ディエイト</p></td>
+<td><p>The8<br />
+디에잇 / ソ・ミョンホ</p></td>
 </tr>
 <tr class="even">
 <td><p>Dino<br />
@@ -449,7 +448,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 | [珉奎](../Page/金珉奎.md "wikilink")                         | 민규 / 김민규 / MIN GYU / KIM MIN GYU | 10009931 | \[72\]                                                                                            |
 | [The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")   | 디에잇 / THE 8                      | 10013922 | \[73\]                                                                                            |
 | [勝寛](../Page/夫勝寛.md "wikilink")                         | 부승관 / BU SEUNG KWAN              | 10012321 | \[74\]                                                                                            |
-| [Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")  | 버논 / VERNON                      | 10009930 | \[75\]                                                                                            |
+| [Vernon](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")  | 버논 / 최한솔 / VERNON / CHWE HAN SOL | 10009930 | \[75\]                                                                                            |
 | [Dino](../Page/李燦_\(SEVENTEEN\).md "wikilink")          | 디노 / DI NO                       | 10009928 | \[76\]                                                                                            |
 
 ### 韓國編舞協會<small>\[77\]</small>之登記名稱
@@ -1100,7 +1099,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <td><p>2018年10月6日</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北" title="wikilink">台北</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新庄体育馆" title="wikilink">新庄体育馆</a></p></td>
+<td><p><a href="../Page/新莊體育館.md" title="wikilink">新莊體育館</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1121,7 +1120,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <td><p>2018年11月3日</p></td>
 <td></td>
 <td><p><a href="../Page/首爾.md" title="wikilink">首爾</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/首爾奥林匹克体操竞技场" title="wikilink">首爾奥林匹克体操竞技场</a></p></td>
+<td><p><a href="../Page/首尔奥林匹克体操竞技场.md" title="wikilink">首爾奧林匹克體操競技場</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1479,19 +1478,19 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2018年4月22日（日本時間18:30）</p></td>
+<td><p>2019年4月22日（日本時間18:30）</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2018年4月26日（日本時間14:00）</p></td>
+<td><p>2019年4月26日（日本時間14:00）</p></td>
 <td><p>大阪城展演廳</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2018年4月27日（日本時間12:30）</p></td>
+<td><p>2019年4月27日（日本時間12:30）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2213,6 +2212,12 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 <td></td>
 </tr>
 <tr class="even">
+<td><p>7月6日</p></td>
+<td><p>SBS Super Concert Hong Kong 2019</p></td>
+<td><p><a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -2236,7 +2241,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 | 5月12日    | 趙容弼50週年紀念演唱會’Thanks to You'                                    | 韓國[首爾蠶室綜合運動場奧林匹克主競技場](../Page/首爾.md "wikilink")                                                                        | 全體                                                                    | 開場表演嘉賓 |
 | 10月2日    | [韓國電視劇節](../Page/韓國電視劇節.md "wikilink")2018                     |                                                                                                                        | 全體                                                                    | 表演嘉賓   |
 | 2019年    |                                                                |                                                                                                                        |                                                                       |        |
-| 5月9日     | 第65屆 京畿道體育節                                                    | 韓國[京畿道體育館](../Page/京畿道.md "wikilink")                                                                                  | 全體                                                                    | 開場表演嘉賓 |
+| 5月9日     | 第65屆 京畿道體育節                                                    | 韓國[京畿道體育館](../Page/京畿道.md "wikilink")                                                                                  | 全體（[Vernon因個人行程缺席](https://zh.wikipedia.org/wiki/崔韓率 "wikilink")      | 開場表演嘉賓 |
 |          |                                                                |                                                                                                                        |                                                                       |        |
 
 ### 其他活動
@@ -2258,6 +2263,7 @@ School於](../Page/After_School.md "wikilink")2009年拿到[人氣歌謠一位�
 | 4月21日  | 第10屆S.E.S Green Heart Bazzar                           | 韓國首爾城東區S factory                                                                                                                   | [Joshua](https://zh.wikipedia.org/wiki/洪知秀 "wikilink")、[珉奎](../Page/金珉奎.md "wikilink")           |                                                                                           |
 | 2019年  |                                                        |                                                                                                                                    |                                                                                                  |                                                                                           |
 | 2月16日  | the SAEM Fansign in Malaysia                           | 馬來西亞[吉隆坡柏威年廣場](../Page/吉隆坡.md "wikilink")                                                                                          | 全體                                                                                               | [The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")、[Jun未出席](../Page/文俊輝.md "wikilink") |
+| 5月30日  | Tiffany & Co. 北京國貿旗艦店開幕儀式                              | 中國[北京](../Page/北京市.md "wikilink")                                                                                                  | [The 8](https://zh.wikipedia.org/wiki/徐明浩 "wikilink")                                            |                                                                                           |
 |        |                                                        |                                                                                                                                    |                                                                                                  |                                                                                           |
 
 ## 獎項

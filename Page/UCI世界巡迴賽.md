@@ -3,12 +3,12 @@
 
 ## 排名賽事
 
-自2017年起，UCI世界巡迴賽包括37個賽事。\[1\] 這些賽事包括:
+自2019年起，UCI世界巡迴賽包括38個賽事。這些賽事包括:
 
   - 三個[大环赛](https://zh.wikipedia.org/wiki/大环赛 "wikilink")
   - 五個古典單日赛
   - 十个在欧洲的多日赛
-  - 十二个在欧洲的一日赛
+  - 十三个在欧洲的一日赛
   - 一个在澳大利亚的多日赛
   - 一個在阿聯酋的多日賽
   - 一個在美國的多日賽
@@ -20,7 +20,7 @@
 <thead>
 <tr class="header">
 <th><p>賽事</p></th>
-<th><p>世界排名積分[2]</p></th>
+<th><p>世界排名積分[1]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -58,7 +58,7 @@
 單站</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/環阿布扎比自由車賽" title="wikilink">環阿布扎比自由車賽</a><br />
+<td><p><a href="https://zh.wikipedia.org/wiki/環阿聯酋自由車賽" title="wikilink">環阿聯酋自由車賽</a><br />
  <a href="https://zh.wikipedia.org/wiki/環土耳其自由車賽" title="wikilink">環土耳其自由車賽</a><br />
  <a href="https://zh.wikipedia.org/wiki/環加州自由車賽" title="wikilink">環加州自由車賽</a><br />
  <a href="../Page/环广西公路自行车世巡赛.md" title="wikilink">環廣西自行車賽</a></p></td>
@@ -94,10 +94,14 @@
  <a href="https://zh.wikipedia.org/wiki/倫敦–薩里古典賽" title="wikilink">倫敦–薩里古典賽</a></p></td>
 <td><p>300</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/布呂赫–德帕內三日賽" title="wikilink">布呂赫–德帕內三日賽</a></p></td>
+<td><p>300</p></td>
+</tr>
 </tbody>
 </table>
 
-2017年10月，由UCI授权，[万达体育在未来](../Page/万达集团.md "wikilink")5年内将在广西举办[环广西公路自行车世界巡回赛](../Page/环广西公路自行车世巡赛.md "wikilink")，届时，女子世巡赛单日赛也会穿插其中。10月19日，2017格力-环广西公路自行车世界巡回赛在广西壮族自治区北海市海滩公园正式开幕。天空车队（英国）、巴林美利达车队（巴林）、BMC车队（美国）等来自全球的18支车队参加。\[3\]
+2017年10月，由UCI授权，[万达体育在未来](../Page/万达集团.md "wikilink")5年内将在广西举办[环广西公路自行车世界巡回赛](../Page/环广西公路自行车世巡赛.md "wikilink")，届时，女子世巡赛单日赛也会穿插其中。10月19日，2017格力-环广西公路自行车世界巡回赛在广西壮族自治区北海市海滩公园正式开幕。天空车队（英国）、巴林美利达车队（巴林）、BMC车队（美国）等来自全球的18支车队参加。\[2\]
 
 ## 紀錄
 
@@ -1773,8 +1777,5 @@
 [Category:UCI巡迴賽](https://zh.wikipedia.org/wiki/Category:UCI巡迴賽 "wikilink")
 [Category:UCI世界排名](https://zh.wikipedia.org/wiki/Category:UCI世界排名 "wikilink")
 
-1.  [UCI confirms 2013 WorldTour
-    calendar](http://www.velonation.com/News/ID/12905/UCI-confirms-2013-WorldTour-calendar.aspx)
-    VeloNation. Accessed 14-01-11
+1.
 2.
-3.

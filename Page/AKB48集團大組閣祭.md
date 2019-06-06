@@ -753,7 +753,7 @@ AKB48所稱的「組閣」，是指對所有成員的所屬分隊進行調整；
 | [北野瑠華](https://zh.wikipedia.org/wiki/北野瑠華 "wikilink")   | SKE48第5期生 |      | [AKS](../Page/AKS.md "wikilink")                                                                |                      |
 | [木下有希子](../Page/木下有希子.md "wikilink")                    | SKE48第3期生 |      | [AKS](../Page/AKS.md "wikilink")                                                                | 2014年8月25日畢業發表       |
 | [神門沙樹](https://zh.wikipedia.org/wiki/神門沙樹 "wikilink")   | 選秀生       |      | [AKS](../Page/AKS.md "wikilink")                                                                |                      |
-| [惣田紗莉渚](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink") | 選秀生       |      | [AKS](../Page/AKS.md "wikilink")                                                                |                      |
+| [惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")                    | 選秀生       |      | [AKS](../Page/AKS.md "wikilink")                                                                |                      |
 | [高木由麻奈](../Page/高木由麻奈.md "wikilink")                    | SKE48第4期生 |      | [AKS](../Page/AKS.md "wikilink")                                                                |                      |
 | [髙塚夏生](https://zh.wikipedia.org/wiki/髙塚夏生 "wikilink")   | 選秀生       |      | [AKS](../Page/AKS.md "wikilink")                                                                |                      |
 | [高柳明音](../Page/高柳明音.md "wikilink")                      | SKE48第2期生 |      | [愛貝娛樂](https://zh.wikipedia.org/wiki/愛貝娛樂 "wikilink")                                           | 兼任NMB48 Team BⅡ      |

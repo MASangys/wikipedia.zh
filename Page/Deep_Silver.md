@@ -1,6 +1,5 @@
 **Deep
-Silver**是一間電子遊戲開發商和出版商，公司創建於2002年，是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[跨國公司](../Page/跨國公司.md "wikilink")[Koch
-Media下屬的全資子公司](https://zh.wikipedia.org/wiki/Koch_Media "wikilink")。Deep
+Silver**是一間電子遊戲開發商和出版商，公司創建於2002年，是[德國](https://zh.wikipedia.org/wiki/德國 "wikilink")[跨國公司](../Page/跨國公司.md "wikilink")下屬的全資子公司。Deep
 Silver在英國、德國、意大利、奧地利、法國、瑞士和西班牙都設有分部\[1\]。截至2014年，Deep
 Sliver已經發行了超過200部作品，其中包括知名的《[地鐵系列](https://zh.wikipedia.org/wiki/模板:地鐵系列 "wikilink")》和《[死亡島系列](https://zh.wikipedia.org/wiki/死亡島系列 "wikilink")》遊戲。\[2\]\[3\]
 
@@ -9,20 +8,18 @@ Sliver已經發行了超過200部作品，其中包括知名的《[地鐵系列]
 Koch Media於2002年創立Deep Silver\[4\]，翌年開始發行遊戲\[5\]。
 
 2008年4月30日，Deep
-Silver在美國加利福尼亞州洛杉磯開設美國分部，負責美國的銷售、市場運營以及在北美地區的開發業務。同時也是Koch
-Media在美國進行業務擴展的其中一部分。\[6\]
+Silver在美國加利福尼亞州洛杉磯開設美國分部，負責美國的銷售、市場運營以及在北美地區的開發業務。同時也是在美國進行業務擴展的其中一部分。\[6\]
 
 2013年Deep Silver的業務得到大拓展。Koch
-Media順利在1月[THQ的破產拍賣中收購了](https://zh.wikipedia.org/wiki/THQ "wikilink")《[黑道聖徒](https://zh.wikipedia.org/wiki/黑道聖徒系列 "wikilink")》以及《地鐵》系列遊戲品牌，同時還收購了THQ的全資子公司[Volition](https://zh.wikipedia.org/wiki/Volition "wikilink")。\[7\]雖然他們沒有提及收購價格，但據Joystiq獲得的資料顯示，這次收購耗資超過了2000萬美元。\[8\]此外，Koch
+Media順利在1月[THQ的破產拍賣中收購了](https://zh.wikipedia.org/wiki/THQ "wikilink")《[黑道聖徒](https://zh.wikipedia.org/wiki/黑道聖徒系列 "wikilink")》以及《地鐵》系列遊戲品牌，同時還收購了THQ的全資子公司[Volition](../Page/Volition_\(公司\).md "wikilink")。\[7\]雖然他們沒有提及收購價格，但據Joystiq獲得的資料顯示，這次收購耗資超過了2000萬美元。\[8\]此外，Koch
 Media也於當年12月收購了手機遊戲公司[Fishlabs
 Entertainment及其遊戲版權](https://zh.wikipedia.org/wiki/Fishlabs_Entertainment "wikilink")\[9\]。兩間公司成為Deep
 Silver的子公司。Deep
 Silver也於當年宣布進入[手機遊戲界](https://zh.wikipedia.org/wiki/手機遊戲 "wikilink")\[10\]。2014年7月底，他們又從[Crytek手上收購了](../Page/Crytek.md "wikilink")《國土防線》系列的版權，並新建了工作室Dambuster
 Studios接手續作遊戲開發。\[11\]
 
-2018年2月，奥地利游戏公司[THQ Nordic宣布收购Koch](../Page/THQ_Nordic.md "wikilink")
-Media，而Deep Silver作为Koch
-Media子公司也一并被收购。而《黑道圣徒》、《地铁》以及《家园前线》等原THQ发行的游戏系列也回到新的THQ手中。\[12\]
+2018年2月，奥地利游戏公司[THQ Nordic宣布收购](../Page/THQ_Nordic.md "wikilink")，而Deep
+Silver作为子公司也一并被收购。而《黑道圣徒》、《地铁》以及《家园前线》等原THQ发行的游戏系列也回到新的THQ手中。\[12\]
 
 ### 爭議
 
@@ -45,17 +42,17 @@ Mountain](https://zh.wikipedia.org/wiki/Cursed_Mountain "wikilink")》。這是�
 目前，Deep Silver擁有以下的工作室：
 
   - [Fishlabs
-    Entertainment](https://zh.wikipedia.org/wiki/Fishlabs_Entertainment "wikilink")，全稱Deep
-    Silver FISHLABS，位於德國漢堡。公司建於2004年，2013年12月被Koch Media收購，成為Deep
+    Entertainment](https://zh.wikipedia.org/wiki/Fishlabs_Entertainment "wikilink")（全稱**Deep
+    Silver FISHLABS**）位於德國漢堡。公司建於2004年，2013年12月被Koch Media收購，成為Deep
     Silver子工作室。\[21\]
-  - [Volition](https://zh.wikipedia.org/wiki/Volition "wikilink")，全稱Deep
-    Silver Volition,
-    LLC，於1996在美國伊利諾伊州[尚佩恩成立](https://zh.wikipedia.org/wiki/尚佩恩_\(伊利諾伊州\) "wikilink")，是《黑道聖徒》系列遊戲的開發公司。此前它是THQ的全資子公司。而在THQ破產後，Koch
-    Media在2013年1月的破產拍賣會上收購了Volition，一併被收購的還有《黑道聖徒》系列的版權。\[22\]
+  - [Volition](../Page/Volition_\(公司\).md "wikilink")（全稱**Deep Silver
+    Volition,
+    LLC**），於1996在美國伊利諾伊州[尚佩恩成立](https://zh.wikipedia.org/wiki/尚佩恩_\(伊利諾伊州\) "wikilink")，是《黑道聖徒》系列遊戲的開發公司。此前它是THQ的全資子公司。而在THQ破產後，Koch
+    Media在2013年1月的破產拍賣會上收購了Volition，一併被收購的還有[《黑街聖徒》系列的版權](../Page/黑街聖徒系列.md "wikilink")。\[22\]
   - [Dambuster
-    Studios](https://zh.wikipedia.org/wiki/Dambuster_Studios "wikilink")，全稱Deep
-    Silver Dambuster Studios，於2014年7月30日創建，位於英格蘭諾丁漢。當日Koch Media和Deep
-    Silver宣布收購了Crytek旗下的《國土防線》系列，公司將遊戲續作《國土防線：革命》的開發交由Dambuster
+    Studios](https://zh.wikipedia.org/wiki/Dambuster_Studios "wikilink")（全稱**Deep
+    Silver Dambuster Studios**）於2014年7月30日創建，位於英格蘭諾丁漢。當日和Deep
+    Silver宣布收購了[Crytek旗下的](../Page/Crytek.md "wikilink")《國土防線》系列，公司將遊戲續作《國土防線：革命》的開發交由Dambuster
     Studios負責。\[23\]
 
 ## 遊戲
@@ -148,13 +145,13 @@ Silver發行或製作的遊戲，其子工作室在未併入前的作品不予�
 </tr>
 <tr class="odd">
 <td><p>2011</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/死亡島" title="wikilink">死亡島</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2015</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/死亡島2" title="wikilink">死亡島2</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/死亡之岛2" title="wikilink">死亡之岛2</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -237,8 +234,8 @@ Silver發行或製作的遊戲，其子工作室在未併入前的作品不予�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2018</p></td>
-<td><p><a href="../Page/戰慄深隧：流亡.md" title="wikilink">戰慄深隧：流亡</a></p></td>
+<td><p>2019</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/地铁：离乡" title="wikilink">地铁：离乡</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -298,7 +295,7 @@ Silver發行或製作的遊戲，其子工作室在未併入前的作品不予�
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Risen_2:_Dark_Waters" title="wikilink">Risen 2: Dark Waters</a></p></td>
+<td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/育碧軟件" title="wikilink">育碧軟件</a></p></td>
 <td></td>
 </tr>
@@ -513,6 +510,12 @@ Silver發行或製作的遊戲，其子工作室在未併入前的作品不予�
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2019</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/物质世界" title="wikilink">物质世界</a>（Outward）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

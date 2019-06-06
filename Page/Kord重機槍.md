@@ -13,7 +13,7 @@
 
 ## 設計細節
 
-雖然Kord重機槍的性能、構造和外觀上都類似於前蘇聯軍隊制式的NSV重機槍，但內部機構已經被大量的重新設計。閉鎖機構由原來的[水平旋轉後膛閉鎖改為卡拉什尼科夫樣式](https://zh.wikipedia.org/wiki/水平旋轉後膛閉鎖 "wikilink")[滾轉式槍機閉鎖機構設計](../Page/滾轉式槍機.md "wikilink")。\[4\]此外，[氣動式操行系統亦已被修改](../Page/氣動式_\(槍械\).md "wikilink")，而[槍口制退器內的擋板亦是重新設計](../Page/砲口制動器.md "wikilink")。這些改進的變化讓這武器的[後座力比NSV降低了很多](../Page/後座力.md "wikilink")，讓其在持續射擊時有更大的[準確性](../Page/準確與精密.md "wikilink")。供彈方向可以很容易地改變，由右邊供彈改為左邊供彈。
+雖然Kord重機槍的性能、構造和外觀上都類似於前蘇聯軍隊制式的NSV重機槍，但內部機構已經被大量的重新設計。閉鎖機構由原來的[水平旋轉後膛閉鎖改為卡拉什尼科夫樣式](https://zh.wikipedia.org/wiki/水平旋轉後膛閉鎖 "wikilink")[轉拴式槍栓閉鎖機構設計](../Page/轉拴式槍栓.md "wikilink")。\[4\]此外，[氣動式操行系統亦已被修改](../Page/氣動式_\(槍械\).md "wikilink")，而[槍口制退器內的擋板亦是重新設計](../Page/砲口制動器.md "wikilink")。這些改進的變化讓這武器的[後座力比NSV降低了很多](../Page/後座力.md "wikilink")，讓其在持續射擊時有更大的[準確性](../Page/準確與精密.md "wikilink")。供彈方向可以很容易地改變，由右邊供彈改為左邊供彈。
 
 Kord重機槍採用了新的結構，從而明顯地比它的前身NSV重機槍較為輕便。不過其發射機構仍然是非常堅固的，另一方面亦使其有更高的發射速率和顯著地降低[後座力](../Page/後座力.md "wikilink")。而經過修改的槍口上所裝上的[槍口制退器亦有助降低後座力](../Page/砲口制動器.md "wikilink")。因為一根全新的高科技[合金製作而成的](../Page/合金.md "wikilink")[槍管最大限度地減少彈度的變形和下沉](../Page/槍管.md "wikilink")，使[精度大大增加](../Page/準確與精密.md "wikilink")，甚至超過以前的蘇聯機槍。除了使用的開放式可調節[機械瞄具以外](../Page/機械瞄具.md "wikilink")，[機匣的尾部左側亦整合了屬於俄羅斯標準的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[瞄準鏡導軌](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")，用以裝上[PSO-1等快拆式](../Page/PSO-1光學瞄準鏡.md "wikilink")[光學瞄準鏡](https://zh.wikipedia.org/wiki/瞄準鏡 "wikilink")。
 

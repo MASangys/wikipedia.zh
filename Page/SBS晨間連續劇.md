@@ -8,7 +8,8 @@
 | 1995年5月15日 \~ 2009年5月9日                             | 每週一至周六 逢晨間8點 30分         | 30分              |      |    |
 | 2009年5月11日 \~ 2011年10月21日                           | 每週一至周五 逢晨間8點 40分         | 40分              |      |    |
 | 2011年10月24日 \~ 2018年6月8日                            | 每周一至周五 逢晨間8點 30分         |                  |      |    |
-| 2018年6月11日 \~ 現在                                    | 每週一至周五 逢晨間8點 40分         |                  |      |    |
+| 2018年6月11日 \~ 2019年5月17日                            | 每週一至周五 逢晨間8點 40分         |                  |      |    |
+| 2019年5月20日 \~ 現在                                    | 每週一至周五 逢晨間8點 35分         |                  |      |    |
 |                                                     |                          |                  |      |    |
 
 ## 歷年作品
@@ -1497,11 +1498,11 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2018年11月26日-2019年5月<br />
+<td style="text-align: center;"><p>2018年11月26日-2019年5月17日<br />
 </p></td>
 <td style="text-align: center;"><p><a href="../Page/江南醜聞.md" title="wikilink">江南醜聞</a><br />
 </p></td>
-<td style="text-align: center;"><p>120</p></td>
+<td style="text-align: center;"><p>123</p></td>
 <td style="text-align: center;"><p><a href="../Page/申高恩.md" title="wikilink">申高恩</a>、<a href="../Page/林允浩.md" title="wikilink">林允浩</a>、<a href="../Page/徐道永.md" title="wikilink">徐道永</a>、、<a href="../Page/方銀姬.md" title="wikilink">方銀姬</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/尹柳海" title="wikilink">尹柳海</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴慧漣" title="wikilink">朴慧漣</a></p></td>
@@ -1536,15 +1537,15 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年5月20日－2019年月日<br />
+<td style="text-align: center;"><p>2019年5月20日－2019年11月<br />
 </p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/奇怪的岳母" title="wikilink">奇怪的岳母</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/可疑的岳母" title="wikilink">可疑的岳母</a><br />
 </p></td>
 <td style="text-align: center;"><p>120</p></td>
-<td style="text-align: center;"><p><a href="../Page/朴鎮宇.md" title="wikilink">朴鎮宇</a>、<a href="../Page/申多恩.md" title="wikilink">申多恩</a>、<a href="../Page/金慧渲.md" title="wikilink">金慧渲</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/金慧渲.md" title="wikilink">金慧渲</a>、<a href="../Page/申多恩.md" title="wikilink">申多恩</a>、<a href="../Page/朴鎮宇.md" title="wikilink">朴鎮宇</a>、、<a href="../Page/安妍紅.md" title="wikilink">安妍紅</a>、<a href="../Page/金正鉉_(1976年).md" title="wikilink">金正鉉</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李正勳" title="wikilink">李正勳</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金仁江" title="wikilink">金仁江</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><strong>UHD畫質製作</strong></p></td>
 </tr>
 </tbody>
 </table>

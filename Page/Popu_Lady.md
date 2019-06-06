@@ -364,16 +364,6 @@ Lady成員開始以分進合擊方式參與大量戲劇演出。2017年元3月7�
 ## 外部連結
 
   -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
 [Category:Popu_Lady](https://zh.wikipedia.org/wiki/Category:Popu_Lady "wikilink")
 
 1.

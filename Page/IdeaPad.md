@@ -111,6 +111,7 @@ Review称其键盘有“独特的ThinkPad的感觉”和“平稳灵敏的触摸
   - [联想中国_ideapad](http://appserver.lenovo.com.cn/Lenovo_Brand_List.aspx?CategoryID=1)
 
 [Category:2008年面世的產品](https://zh.wikipedia.org/wiki/Category:2008年面世的產品 "wikilink")
+[Category:联想笔记本电脑](https://zh.wikipedia.org/wiki/Category:联想笔记本电脑 "wikilink")
 
 1.
 

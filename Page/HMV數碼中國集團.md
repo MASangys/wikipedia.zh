@@ -17,8 +17,10 @@ Light
 Limited在其入稟狀中指稱，該公司2015年7月與被告訂立為期4年的租約，把涉案的舖位租給被告，現時每月租金約159萬港元，被告上月開始欠租，連同其他拖欠的雜費，合共欠該公司約342.3萬港元；另外，位於中環萬年大廈地庫的hmv分店業主Pridemax
 Limited則在其入稟狀指稱，該公司2016年9月與被告訂立為期6年的租約，以每月100萬港元把該地庫租給被告，被告上月開始欠租，連同其他拖欠的雜費，合共欠該公司約143.7萬港元。\[9\]。
 
+2019年，該公司主席蕭定一建議將公司名稱由「HMV數碼中國集團有限公司」更改為「中國創意數碼娛樂有限公司」。\[10\]
+
 旗下藝人[SIS樂印姊妹](../Page/SIS樂印姊妹.md "wikilink")、[譚芷昀](https://zh.wikipedia.org/wiki/譚芷昀 "wikilink")、[陳永馨](../Page/陳永馨.md "wikilink")、[譚順生的唱片合約由](../Page/譚順生.md "wikilink")**GME中國**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md "wikilink")；[鄭欣宜的唱片合約由](../Page/鄭欣宜.md "wikilink")**Passionfruit
-Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md "wikilink")\[10\]；[鄧健泓的唱片合約由](../Page/鄧健泓.md "wikilink")[星娛樂代理發行](../Page/中星集團.md "wikilink")；[周柏豪](../Page/周柏豪.md "wikilink")、[連詩雅的唱片合約由](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")[星夢娛樂代理出品及發行](https://zh.wikipedia.org/wiki/星夢娛樂 "wikilink")。
+Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md "wikilink")\[11\]；[鄧健泓的唱片合約由](../Page/鄧健泓.md "wikilink")[星娛樂代理發行](../Page/中星集團.md "wikilink")；[周柏豪](../Page/周柏豪.md "wikilink")、[連詩雅的唱片合約由](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")[星夢娛樂代理出品及發行](https://zh.wikipedia.org/wiki/星夢娛樂 "wikilink")。
 
 ## 旗下藝人
 
@@ -79,7 +81,7 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 <td><p><a href="../Page/陳嘉莉.md" title="wikilink">陳嘉莉</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/林雪.md" title="wikilink">林　雪</a></p></td>
+<td><p><a href="../Page/白健恩.md" title="wikilink">白健恩</a></p></td>
 </tr>
 <tr class="even">
 <td><p><strong>GME中國</strong></p></td>
@@ -238,6 +240,12 @@ Records**代理出品，[華納唱片代理發行](../Page/香港華納唱片.md
 </tr>
 <tr class="even">
 <td><p><a href="../Page/杜德偉.md" title="wikilink">杜德偉</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>組合</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/少女標本_(香港)" title="wikilink">少女標本</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>藝人</strong></p></td>
@@ -549,7 +557,7 @@ Dark Secret</p></td>
 <a href="../Page/鄒文正.md" title="wikilink">鄒文正</a>、<a href="https://zh.wikipedia.org/wiki/張雷" title="wikilink">張　雷</a>、<a href="../Page/布志綸.md" title="wikilink">布志綸</a>、<br />
 <a href="https://zh.wikipedia.org/wiki/伍倩彤" title="wikilink">伍倩彤</a>、<a href="../Page/黃竣鋒.md" title="wikilink">黃竣鋒</a>、<a href="https://zh.wikipedia.org/wiki/伍熹賢" title="wikilink">伍熹賢</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭英偉" title="wikilink">鄭英偉</a></p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="http://hmvod.hmv.com.hk/zh_hk/drama/18/1">網頁</a></p></td>
 <td style="text-align: center;"><p>主：暗算天機主題音樂（<a href="../Page/韋啟良.md" title="wikilink">韋啟良作曲</a>）<br />
 尾：天機泄露（獨唱版）（<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>）<br />
 尾：天機泄露（合唱版）（<a href="../Page/沈震軒.md" title="wikilink">沈震軒</a>、<a href="../Page/吳海昕.md" title="wikilink">吳海昕</a>）</p></td>
@@ -559,28 +567,31 @@ Dark Secret</p></td>
 <small>（單元一：<br />
 畜牲傳心師</small><br />
 <small>8/3/2018）</small></p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/向西聞記" title="wikilink">向西聞記</a><br />
+<td style="text-align: center;"><p><br />
 Hong Kong West Side Stories</p></td>
 <td style="text-align: center;"><p><a href="../Page/張繼聰.md" title="wikilink">張繼聰</a>、<a href="../Page/王宗堯.md" title="wikilink">王宗堯</a>、<a href="../Page/張建聲.md" title="wikilink">張建聲</a>、<br />
-<a href="../Page/林雪.md" title="wikilink">林　雪</a>、<a href="../Page/趙永洪.md" title="wikilink">趙永洪</a>、<a href="https://zh.wikipedia.org/wiki/趙善恆" title="wikilink">趙善恆</a> @ <a href="../Page/ToNick.md" title="wikilink">ToNick</a>、<br />
-<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>、<a href="../Page/石詠莉.md" title="wikilink">石詠莉</a>、<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<br />
-<a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="https://zh.wikipedia.org/wiki/李美琪_(香港)" title="wikilink">李美琪</a>、<br />
-<a href="../Page/李尚正.md" title="wikilink">李尚正</a>、<a href="../Page/黎紀君.md" title="wikilink">黎紀君</a>、、<br />
-<a href="../Page/張沛樂.md" title="wikilink">張沛樂</a>、、<a href="https://zh.wikipedia.org/wiki/王嘉偉" title="wikilink">東方昇</a>、<br />
-<a href="../Page/杜小喬.md" title="wikilink">杜小喬</a>、<a href="../Page/甄詠珊.md" title="wikilink">甄詠珊</a>、<a href="../Page/陳意嵐.md" title="wikilink">陳意嵐</a>、<br />
-<a href="../Page/吳浣儀.md" title="wikilink">吳浣儀</a>、<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<br />
-<a href="../Page/譚杏藍.md" title="wikilink">譚杏藍</a>、<a href="../Page/白健恩.md" title="wikilink">白健恩</a>、、<br />
-<a href="../Page/陳嘉莉.md" title="wikilink">陳嘉莉</a>、<a href="https://zh.wikipedia.org/wiki/Super_Girls" title="wikilink">Super Girls</a>（<a href="../Page/蔡明思.md" title="wikilink">蔡明思</a>、<a href="https://zh.wikipedia.org/wiki/陳穎欣" title="wikilink">陳穎欣</a>）</p></td>
+<a href="../Page/林雪.md" title="wikilink">林　雪</a>、<a href="../Page/趙永洪.md" title="wikilink">趙永洪</a>、<a href="../Page/胡杏兒.md" title="wikilink">胡杏兒</a>、<br />
+<a href="../Page/石詠莉.md" title="wikilink">石詠莉</a>、<a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>、<a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a>、<br />
+<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、<a href="https://zh.wikipedia.org/wiki/李美琪_(香港)" title="wikilink">李美琪</a>、<a href="../Page/李尚正.md" title="wikilink">李尚正</a>、<br />
+<a href="../Page/黎紀君.md" title="wikilink">黎紀君</a>、、<a href="../Page/張沛樂.md" title="wikilink">張沛樂</a>、<br />
+、<a href="https://zh.wikipedia.org/wiki/王嘉偉" title="wikilink">東方昇</a>、<a href="../Page/杜小喬.md" title="wikilink">杜小喬</a>、<br />
+<a href="../Page/甄詠珊.md" title="wikilink">甄詠珊</a>、<a href="../Page/陳意嵐.md" title="wikilink">陳意嵐</a>、<a href="../Page/吳浣儀.md" title="wikilink">吳浣儀</a>、<br />
+<a href="../Page/陳詩慧.md" title="wikilink">陳詩慧</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、<a href="../Page/譚杏藍.md" title="wikilink">譚杏藍</a>、<br />
+<a href="../Page/白健恩.md" title="wikilink">白健恩</a>、<a href="../Page/陳嘉莉.md" title="wikilink">陳嘉莉</a>、、<br />
+<a href="https://zh.wikipedia.org/wiki/趙善恆" title="wikilink">趙善恆</a> @ <a href="../Page/ToNick.md" title="wikilink">ToNick</a>、<br />
+ @ <a href="../Page/RubberBand.md" title="wikilink">RubberBand</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/Super_Girls" title="wikilink">Super Girls</a>（<a href="../Page/蔡明思.md" title="wikilink">蔡明思</a>、<a href="https://zh.wikipedia.org/wiki/陳穎欣" title="wikilink">陳穎欣</a>）</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/吳漢邦" title="wikilink">吳漢邦</a><br />
 <a href="https://zh.wikipedia.org/wiki/吳兆麟_(導演)" title="wikilink">吳兆麟</a></p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="http://hmvod.hmv.com.hk/zh_hk/drama/17/1">網頁</a></p></td>
+<td style="text-align: center;"><p>主：向西聞記主題音樂（<a href="https://zh.wikipedia.org/wiki/朱韻文" title="wikilink">朱韻文作曲</a>）<br />
+插：我們是無法說明的季節（<a href="https://zh.wikipedia.org/wiki/趙善恆" title="wikilink">趙善恆</a> @ <a href="../Page/ToNick.md" title="wikilink">ToNick</a> Feat. <a href="../Page/廖子妤.md" title="wikilink">廖子妤</a>）</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2019年5月25日<br />
 <small>（第一季）</small></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/性敢中環" title="wikilink">性敢中環</a><br />
-Central</p></td>
+Sexy Central</p></td>
 <td style="text-align: center;"><p><a href="../Page/何佩瑜.md" title="wikilink">何佩瑜</a>、<a href="https://zh.wikipedia.org/wiki/連詩雅" title="wikilink">連詩雅</a>、<a href="../Page/鄭欣宜.md" title="wikilink">鄭欣宜</a>、<br />
 <a href="../Page/雨僑.md" title="wikilink">雨　僑</a>、<a href="../Page/陳嘉莉.md" title="wikilink">陳嘉莉</a>、<a href="../Page/孫耀威.md" title="wikilink">孫耀威</a>、<br />
 <a href="../Page/郭偉亮.md" title="wikilink">Eric Kwok</a>、<a href="../Page/栢天男.md" title="wikilink">栢天男</a>、<a href="../Page/鄧健泓.md" title="wikilink">鄧健泓</a>、<br />
@@ -676,7 +687,6 @@ Central</p></td>
   - 2018 《一齣好戲》
   - 2018 《毒梟之王：巴勃羅》
   - 2018 《拉普拉斯的魔女》
-  - 2018 《聖哥傳真人版》
   - 2018 《毒裁者2：無法無天》
   - 2018 《緊急救命》
   - 2018 《智命談判》
@@ -693,6 +703,7 @@ Central</p></td>
 
   - 2018 《HIStory》
   - 2018 《大軍師司馬懿》
+  - 2018 《聖哥傳》
 
 ### 唱片
 
@@ -2196,4 +2207,6 @@ Central</p></td>
 
 9.  [hmv銅鑼灣旗艦店及中環店涉欠租486萬　業主申收舖](https://hk.on.cc/hk/bkn/cnt/news/20181203/bkn-20181203114028480-1203_00822_001.html)
 
-10. [東方日報C1：鄭欣宜「自立門戶」做揸弗人](http://hk.on.cc/hk/bkn/cnt/entertainment/20170812/bkn-20170812031308432-0812_00862_001.html)
+10. [【HMV股東會】股東：唔贊成合股、改公司名](https://hk.finance.appledaily.com/finance/realtime/article/20190522/59629074)
+
+11. [東方日報C1：鄭欣宜「自立門戶」做揸弗人](http://hk.on.cc/hk/bkn/cnt/entertainment/20170812/bkn-20170812031308432-0812_00862_001.html)

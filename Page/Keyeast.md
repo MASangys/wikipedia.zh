@@ -40,11 +40,11 @@ KEYEAST*'（)是韓國一間[上市](https://zh.wikipedia.org/wiki/上市 "wikil
 
 男藝人
 
+  - [朱智勳](https://zh.wikipedia.org/wiki/朱智勳 "wikilink")
   - [裴勇浚](../Page/裴勇浚.md "wikilink")
   - [崔權](../Page/崔權.md "wikilink")
   - [崔星俊](../Page/崔星俊.md "wikilink")
-  - 鄭智煥
-  - [朱智勳](https://zh.wikipedia.org/wiki/朱智勳 "wikilink")
+  - [鄭智煥](https://zh.wikipedia.org/wiki/鄭智煥 "wikilink")
   - [金東旭](../Page/金東旭.md "wikilink")
   - [金秀賢](../Page/金秀賢_\(男演員\).md "wikilink")
   - [金賢重](../Page/金賢重.md "wikilink")

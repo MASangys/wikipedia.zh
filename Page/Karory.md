@@ -60,7 +60,7 @@
 
   - [karory.net](http://karory.net/)（个人网站）
 
-  - [同人社团“KAROMIX”相关信息](http://c10010493.circle.ms/oc/CircleProfile.aspx)
+  - [同人社团“KAROMIX”相关信息](https://web.archive.org/web/20121021030519/http://c10010493.circle.ms/oc/CircleProfile.aspx)
 
   -
 [Category:日本插畫家](https://zh.wikipedia.org/wiki/Category:日本插畫家 "wikilink")

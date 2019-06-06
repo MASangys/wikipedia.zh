@@ -45,7 +45,7 @@ Phone版本的Instagram\[15\]。
 Krieger）宣佈辭職，並將在未來幾週內離開公司，同時任命產品副總裁亞當·莫塞里（Adam
 Mosseri）為Instagram新的負責人。\[37\]
 
-2018年10月24日，投资公司最新调查显示，美国85%青少年每月登录一次Instagram，首度超越[Snapchat的](../Page/Snapchat.md "wikilink")84%；另外脸书则从2016年的60%降至28%，在美国最年轻的网路使用者中，已沦为最不受欢迎的媒体社群。\[38\]
+2018年10月24日，投资公司最新调查显示，美国85%青少年每月登录一次Instagram，首度超越[Snapchat的](../Page/Snapchat.md "wikilink")84%；另外脸书则从2016年的60%降至28%，在美国最年轻的網路使用者中，已沦为最不受欢迎的媒体社群。\[38\]
 
 ## 功能
 
@@ -108,7 +108,7 @@ Instagram还对一些话题的搜索做出屏蔽处理。用户搜索类似“\#
 
 ### 未經明確審查封鎖帳戶
 
-Instagram常未經明確審查，僅憑檢舉便刪除或封鎖用戶。例如[youtuber](https://zh.wikipedia.org/wiki/youtuber "wikilink")[阿滴英文](../Page/阿滴英文.md "wikilink")、[小A辣](../Page/小A辣.md "wikilink")、[蔡阿嘎](../Page/蔡阿嘎.md "wikilink")。
+Instagram常未經明確審查，僅憑檢舉便刪除或封鎖用戶。知名YouTuber[阿滴英文](../Page/阿滴英文.md "wikilink")、[小A辣](../Page/小A辣.md "wikilink")、[蔡阿嘎皆遭受波及](../Page/蔡阿嘎.md "wikilink")。
 
 ### 使用平台
 

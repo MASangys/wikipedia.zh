@@ -1113,7 +1113,7 @@ vs 1（嘉賓）」形式主持，節目名稱改為。
 <tr class="odd">
 <td><p>196</p></td>
 <td><p>8月10日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">朴炯植</a>(<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>)、<a href="../Page/黃光熙.md" title="wikilink">黃光熙</a> (<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>)、<a href="../Page/時完.md" title="wikilink">時完</a> (<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>)</p></td>
+<td><p><a href="../Page/朴炯植.md" title="wikilink">朴炯植</a>(<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>)、<a href="../Page/黃光熙.md" title="wikilink">黃光熙</a> (<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>)、<a href="../Page/時完.md" title="wikilink">時完</a> (<a href="../Page/ZE:A.md" title="wikilink">ZE:A</a>)</p></td>
 </tr>
 <tr class="even">
 <td><p>197</p></td>

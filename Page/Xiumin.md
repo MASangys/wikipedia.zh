@@ -44,10 +44,11 @@ Free》\[6\]。8月，Xiumin成為綜藝節目《[被子外面很危險](../Page
 
 ### 個人作品
 
-|       |                  |                                      |
-| ----- | ---------------- | ------------------------------------ |
-| 年份    | 歌曲名稱             | 專輯名稱                                 |
-| 2014年 | Breakin' Machine | 《Exology Chapter 1: The Lost Planet》 |
+|       |                  |                                                     |
+| ----- | ---------------- | --------------------------------------------------- |
+| 年份    | 歌曲名稱             | 專輯名稱                                                |
+| 2014年 | Breakin' Machine | 《Exology Chapter 1: The Lost Planet》                |
+| 2019年 | 理由 （You）         | 《[SM STATION第三季](../Page/SM_STATION.md "wikilink")》 |
 
 ### OST
 

@@ -3601,15 +3601,52 @@ Kim Ki Yeob</p></td>
 <td><p>307</p></td>
 <td></td>
 <td><p>格雷與茱比亞</p></td>
+<td><p>十川誠志</p></td>
+<td><p>石平信司</p></td>
+<td><p>牧野友映</p></td>
+<td><p>大野勉、青野厚司</p></td>
+</tr>
+<tr class="odd">
+<td><p>308</p></td>
 <td></td>
+<td><p>瑟雷夫之書的最強惡魔</p></td>
+<td><p>米村正二</p></td>
+<td><p>佐野聡彦</p></td>
+<td><p>横内一樹</p></td>
+<td><p>渡辺健一、石川恵理</p></td>
+</tr>
+<tr class="even">
+<td><p>309</p></td>
 <td></td>
+<td><p>崩毀的羈絆</p></td>
+<td><p>志茂文彦</p></td>
+<td><p>石平信司</p></td>
+<td><p>高山智也</p></td>
+<td><p>藤崎真吾</p></td>
+</tr>
+<tr class="odd">
+<td><p>310</p></td>
 <td></td>
+<td><p>快樂與苦痛</p></td>
+<td><p>冨岡淳広</p></td>
+<td><p>辻𣘺綾佳</p></td>
+<td><p>犬塚政彦</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>311</p></td>
+<td></td>
+<td><p>納茲的心</p></td>
+<td><p>志茂文彦</p></td>
+<td><p>清水一伸</p></td>
+<td><p>糸島雅彦、飯塚正則<br />
+中山初絵</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>312</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>白影龍史汀格</p></td>
 <td></td>
 <td></td>
 <td></td>

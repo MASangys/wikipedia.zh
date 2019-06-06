@@ -30,7 +30,7 @@ UTS-15的[機匣是由](https://zh.wikipedia.org/wiki/機匣 "wikilink")[碳纖�
 
 ### 槍管
 
-槍管設在兩根彈倉下方。槍管為精密機械加工和[热处理](../Page/热处理.md "wikilink")4140型[钢打造而成](../Page/钢.md "wikilink")，槍管內部進行[鍍](https://zh.wikipedia.org/wiki/电镀 "wikilink")[铬處理](../Page/铬.md "wikilink")，保證了槍管的使用壽命，並設有內置可移除式[喉缩](https://zh.wikipedia.org/wiki/喉缩 "wikilink")。槍管上方設有三個鎖耳（），與彈倉連接；槍管下方設有一個槍管固定環，槍管固定環套在[機匣上](https://zh.wikipedia.org/wiki/機匣 "wikilink")。傳統型三鎖耳式[滾轉式槍機保證了發射威力很大的](../Page/滾轉式槍機.md "wikilink")12鉛徑霰彈時的可靠性，只要直接進入槍管節套鎖定即可完成閉鎖。\[8\]槍管的位置較低，與抵肩位置在一條直線上，後座力直接向後，減少了的幅度。槍管螺紋為貝瑞塔樣式，可適用於任何情況下，使用由貝瑞塔製造的一系列收束器的附件。\[9\]
+槍管設在兩根彈倉下方。槍管為精密機械加工和[热处理](../Page/热处理.md "wikilink")4140型[钢打造而成](../Page/钢.md "wikilink")，槍管內部進行[鍍](https://zh.wikipedia.org/wiki/电镀 "wikilink")[铬處理](../Page/铬.md "wikilink")，保證了槍管的使用壽命，並設有內置可移除式[喉缩](https://zh.wikipedia.org/wiki/喉缩 "wikilink")。槍管上方設有三個鎖耳（），與彈倉連接；槍管下方設有一個槍管固定環，槍管固定環套在[機匣上](https://zh.wikipedia.org/wiki/機匣 "wikilink")。傳統型三鎖耳式[轉拴式槍栓保證了發射威力很大的](../Page/轉拴式槍栓.md "wikilink")12鉛徑霰彈時的可靠性，只要直接進入槍管節套鎖定即可完成閉鎖。\[8\]槍管的位置較低，與抵肩位置在一條直線上，後座力直接向後，減少了的幅度。槍管螺紋為貝瑞塔樣式，可適用於任何情況下，使用由貝瑞塔製造的一系列收束器的附件。\[9\]
 
 ### 握把與保險
 
@@ -248,7 +248,7 @@ UTS-15的外型頗具有科色彩，因而同時出現在多隻[电影](../Page/
     Shotgun](https://web.archive.org/web/20121011072415/http://www.americanrifleman.org/blogs/uts-15-polymer-tactical-shotgun/)
 
   - —[Slickguns—UTS-15 Tactical
-    Shotgun](http://www.slickguns.com/product/uts-15-tactical-shotgun)
+    Shotgun](https://web.archive.org/web/20121219094354/http://www.slickguns.com/product/uts-15-tactical-shotgun)
 
   - —The Firearm Blog.com—
 

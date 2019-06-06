@@ -244,7 +244,8 @@ MV
     (六) 21:50 (UTC+8)查閱
 8.  FS (Fuying & Sam)- 專輯介紹
     -懂你想聽的-myMusic|accessdate=2017-09-30|work=全世界{{\!}}FS
-    (Fuying & Sam)- 專輯介紹 -懂你想聽的-myMusic|language=zh-hant}}
+    (Fuying & Sam)- 專輯介紹
+    -懂你想聽的-myMusic|language=zh-hant|archive-url=[https://web.archive.org/web/20171001031957/https://www.mymusic.net.tw/ux/w/album/show/464769|archive-date=2017-10-01|dead-url=yes](https://web.archive.org/web/20171001031957/https://www.mymusic.net.tw/ux/w/album/show/464769%7Carchive-date=2017-10-01%7Cdead-url=yes)}}
 9.
 10.
 11. FS (Fuying & Sam)- 專輯介紹

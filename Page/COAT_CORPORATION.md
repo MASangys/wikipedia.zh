@@ -86,7 +86,7 @@ COAT FIRST STAGE。[代表董事江岛隼人](../Page/代表董事.md "wikilink"
 
 ## 旗下著名演员
 
-因为[多田野数人和](https://zh.wikipedia.org/wiki/多田野数人 "wikilink")[淫梦骚动的影响](https://zh.wikipedia.org/wiki/淫梦 "wikilink")，部分COAT旗下的演员因为网络的炒作，并配上网民自创的“TDN表记名”，变得在niconico和2ch等GV无关的网络论坛上家喻户晓，并衍生出了在日本闻名遐迩的网络迷因[真夏夜的淫梦](https://zh.wikipedia.org/wiki/真夏夜的淫梦 "wikilink")。
+因为[多田野数人和](https://zh.wikipedia.org/wiki/多田野数人 "wikilink")[淫梦骚动的影响](https://zh.wikipedia.org/wiki/淫梦 "wikilink")，部分COAT旗下的演员因为网络的炒作，并配上网民自创的“TDN记名法”，变得在niconico和2ch等GV无关的网络论坛上家喻户晓，并衍生出了在日本闻名遐迩的网络[迷因](../Page/迷因.md "wikilink")[真夏夜的淫梦](https://zh.wikipedia.org/wiki/真夏夜的淫梦 "wikilink")。
 
   - [谷冈俊一（TNOK）](https://zh.wikipedia.org/wiki/谷冈俊一 "wikilink")
   - [田所浩二（野兽先辈）](https://zh.wikipedia.org/wiki/野兽先辈 "wikilink")

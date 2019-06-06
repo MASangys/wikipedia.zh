@@ -6091,6 +6091,71 @@ SUPER及](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[TVB周刊均會�
 </tbody>
 </table>
 
+## 2019年
+
+### [翡翠台](../Page/翡翠台.md "wikilink")
+
+<table style="width:10%;">
+<colgroup>
+<col style="width: 1%" />
+<col style="width: 4%" />
+<col style="width: 2%" />
+<col style="width: 1%" />
+<col style="width: 2%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>類別</p></th>
+<th><p>節目名稱</p></th>
+<th><p>播放日期及時間</p></th>
+<th><p>集數</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>首播自製劇集</p></td>
+<td><p><a href="../Page/白色強人.md" title="wikilink">白色強人</a></p></td>
+<td><p>6月10日起<br />
+逢星期一至五<br />
+21:30</p></td>
+<td><p>25</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/好日子_(無綫電視劇).md" title="wikilink">好日子</a></p></td>
+<td><p>6月24日起<br />
+逢星期一至五<br />
+20:30</p></td>
+<td><p>20</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/街坊財爺.md" title="wikilink">街坊財爺</a></p></td>
+<td><p>7月22日起<br />
+逢星期一至五<br />
+20:30</p></td>
+<td><p>25</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/十二傳說.md" title="wikilink">十二傳說</a></p></td>
+<td><p>7月22日起<br />
+逢星期一至五<br />
+21:30</p></td>
+<td><p>25</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### [J2](../Page/J2.md "wikilink")
+
+### [明珠台](../Page/明珠台.md "wikilink")
+
 ## TVB fun 互動遊戲
 
 於2012至2016年期間，[無綫電視推出手機應用程式](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")[TVB

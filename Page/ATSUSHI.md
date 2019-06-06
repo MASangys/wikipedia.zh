@@ -87,17 +87,18 @@ EXILE的作品請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作�
 
 ### 單曲
 
-|   | 日本發行日期      | 標題                                                                                 | 備考                                                                                       | ORICON 名次 |
-| - | ----------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------- |
-| 1 | 2011年9月14日  | '''[總有一天…](https://zh.wikipedia.org/wiki/Rising_Sun/總有一天… "wikilink")              | EXILE的單曲「[Rising Sun](https://zh.wikipedia.org/wiki/Rising_Sun/總有一天… "wikilink")」的雙A面單曲。 | 1位        |
-| 2 | 2011年11月23日 | '''[Ooo Baby](https://zh.wikipedia.org/wiki/獻給你/Ooo_Baby "wikilink")               | 與EXILE的單曲「[獻給你](https://zh.wikipedia.org/wiki/獻給你/Ooo_Baby "wikilink")」合為雙A面單曲。          | 2位        |
-| 3 | 2012年12月5日  | '''[MELROSE 〜不能相愛的約定〜](https://zh.wikipedia.org/wiki/MELROSE_〜不能相愛的約定〜 "wikilink") | 初次的單獨單曲。                                                                                 | 2位        |
-| 4 | 2013年8月21日  | '''路標                                                                              |                                                                                          | 7位        |
-| 5 | 2014年2月19日  | **青龍**                                                                             | 專輯「音樂輯」的先行單曲。                                                                            | 3位        |
-| 6 | 2014年10月29日 | **Precious Love**                                                                  |                                                                                          | 3位        |
-| 7 | 2015年2月4日   | **櫻花的季節**                                                                          |                                                                                          | 3位        |
-| 8 | 2016年7月6日   | **Beautiful Gorgeous Love**                                                        | 與RED DIAMOND DOGS的單曲「First Liners」合為雙A面單曲。                                               | 2位        |
-| 9 | 2018年4月11日  | **Just The Way You Are**                                                           | 翻唱Bruno Mars的歌曲「Just The Way You Are」。                                                   | 6位        |
+|    | 日本發行日期      | 標題                                                                                 | 備考                                                                                       | ORICON 名次 |
+| -- | ----------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | --------- |
+| 1  | 2011年9月14日  | '''[總有一天…](https://zh.wikipedia.org/wiki/Rising_Sun/總有一天… "wikilink")              | EXILE的單曲「[Rising Sun](https://zh.wikipedia.org/wiki/Rising_Sun/總有一天… "wikilink")」的雙A面單曲。 | 1位        |
+| 2  | 2011年11月23日 | '''[Ooo Baby](https://zh.wikipedia.org/wiki/獻給你/Ooo_Baby "wikilink")               | 與EXILE的單曲「[獻給你](https://zh.wikipedia.org/wiki/獻給你/Ooo_Baby "wikilink")」合為雙A面單曲。          | 2位        |
+| 3  | 2012年12月5日  | '''[MELROSE 〜不能相愛的約定〜](https://zh.wikipedia.org/wiki/MELROSE_〜不能相愛的約定〜 "wikilink") | 初次的單獨單曲。                                                                                 | 2位        |
+| 4  | 2013年8月21日  | '''路標                                                                              |                                                                                          | 7位        |
+| 5  | 2014年2月19日  | **青龍**                                                                             | 專輯「音樂輯」的先行單曲。                                                                            | 3位        |
+| 6  | 2014年10月29日 | **Precious Love**                                                                  |                                                                                          | 3位        |
+| 7  | 2015年2月4日   | **櫻花的季節**                                                                          |                                                                                          | 3位        |
+| 8  | 2016年7月6日   | **Beautiful Gorgeous Love**                                                        | 與RED DIAMOND DOGS的單曲「First Liners」合為雙A面單曲。                                               | 2位        |
+| 9  | 2018年4月11日  | **Just The Way You Are**                                                           | 翻唱Bruno Mars的歌曲「Just The Way You Are」。                                                   | 6位        |
+| 10 | 2018年11月28日 | **Suddenly / RED SOUL BLUE DRAGON**                                                |                                                                                          | 4位        |
 
 ### 協作・單曲
 
@@ -222,15 +223,34 @@ EXILE的作品請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作�
 富士電視台連續劇『直美與加奈子』主題曲</p></td>
 <td><p>7位</p></td>
 </tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>2017年4月2日</p></td>
+<td><p><strong>人類的證明</strong></p></td>
+<td></td>
+<td><p>EXILE ATSUSHI + Char 名義。<br />
+朝日電視台連續劇『人類的證明』主題歌</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>2017年5月17日</p></td>
+<td><p><strong>天音</strong></p></td>
+<td></td>
+<td><p>EXILE ATSUSHI &amp; 久石譲 名義。<br />
+『電影『鑪場武士』主題歌</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
 **配信單曲**
 
-| 日本發行日期     | 標題                                                                                        | 備考 |
-| ---------- | ----------------------------------------------------------------------------------------- | -- |
-| 2012年3月30日 | **[故鄉](https://zh.wikipedia.org/wiki/故鄉_\(ATSUSHI的曲\) "wikilink")**                       |    |
-| 2014年7月2日  | **[Precious Love](https://zh.wikipedia.org/wiki/Precious_Love_\(ATSUSHI的曲\) "wikilink")** |    |
+| 日本發行日期      | 標題                                                                                                  | 備考 |
+| ----------- | --------------------------------------------------------------------------------------------------- | -- |
+| 2012年3月30日  | **[故鄉](https://zh.wikipedia.org/wiki/故鄉_\(ATSUSHI的曲\) "wikilink")**                                 |    |
+| 2014年7月2日   | **[Precious Love](https://zh.wikipedia.org/wiki/Precious_Love_\(ATSUSHI的曲\) "wikilink")**           |    |
+| 2018年12月24日 | **[With you〜Luv merry X'mas〜](https://zh.wikipedia.org/wiki/With_you〜Luv_merry_X'mas〜 "wikilink")** |    |
 
 ### 專輯
 
@@ -240,6 +260,12 @@ EXILE的作品請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作�
 | 2 | 2014年3月12日 | **[音樂輯](https://zh.wikipedia.org/wiki/音樂輯 "wikilink")**                                   | 首次單獨發售的專輯。                                                                                             | 2位        |
 | 3 | 2014年12月3日 | **[情歌輯](https://zh.wikipedia.org/wiki/情歌輯 "wikilink")**                                   |                                                                                                        | 1位        |
 |   |            |                                                                                           |                                                                                                        |           |
+
+### 精選輯
+
+| 日本發行日期     | 標題                                                                                | ORICON 名次 |
+| ---------- | --------------------------------------------------------------------------------- | --------- |
+| 2019年4月30日 | **[TRADITIONAL BEST](https://zh.wikipedia.org/wiki/TRADITIONAL_BEST "wikilink")** | 6位        |
 
 ### 映像作品
 
@@ -253,25 +279,16 @@ EXILE的作品請參考[EXILE\#作品](https://zh.wikipedia.org/wiki/EXILE#作�
 
 ### 其他的個人樂曲
 
-1.  [這麼長時間你都不在](https://zh.wikipedia.org/wiki/our_style "wikilink")（作詞：[Kenn
-    Kato](https://zh.wikipedia.org/wiki/Kenn_Kato "wikilink")　作曲・編曲：[原一博](https://zh.wikipedia.org/wiki/原一博 "wikilink")）
-      -
-        EXILE的專輯『our
-        style』所收錄、1st個人專輯『[Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo#Solo_/_EXILE_ATSUSHI "wikilink")』中的[隱藏音軌並且重唱所收錄](https://zh.wikipedia.org/wiki/隱藏音軌 "wikilink")。
-2.  [forever love](../Page/給珍愛的未來.md "wikilink")（作詞：ATSUSHI / 作曲：Arno
-    Lucas, Jerome Dufour / 編曲：Arno Lucas, [Kenji
-    Sano](https://zh.wikipedia.org/wiki/佐野健二 "wikilink")）
-      -
-        收錄於EXILE的專輯『給珍愛的未來』、1st個人專輯『Solo』。
-3.  [心願](https://zh.wikipedia.org/wiki/心願\(ATSUSHI的曲\) "wikilink")（作詞：ATSUSHI
-    / 作曲：Arno Lucas, Jerome Dufour / 編曲：Arno Lucas, 佐野健二）
-      -
-        收錄於EXILE的單曲「FANTASY」、及之後推出的專輯（包含個人）所收錄的專輯ver.。
-4.  [Bloom](https://zh.wikipedia.org/wiki/EXILE_BEST_HITS_-LOVE_SIDE_/_SOUL_SIDE- "wikilink")（作詞：Seiji
-    Odake / 作曲：ATSUSHI /
-    編曲：[中野雄太](https://zh.wikipedia.org/wiki/中野雄太 "wikilink")）
-      -
-        收錄於EXILE的精選專輯『EXILE BEST HITS -LOVE SIDE-』。
+| 日本發行日期     | 標題                                                                            | 收入作品                                                                                                                                                                                     |
+| ---------- | ----------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2002年3月6日  | **[這麼長時間你都不在](https://zh.wikipedia.org/wiki/這麼長時間你都不在 "wikilink")**           | 收錄於EXILE的專輯『our style』所收錄、1st個人專輯『[Solo](https://zh.wikipedia.org/wiki/EXILE_JAPAN/Solo#Solo_/_EXILE_ATSUSHI "wikilink")』中的[隱藏音軌並且重唱所收錄](https://zh.wikipedia.org/wiki/隱藏音軌 "wikilink")。 |
+| 2009年12月2日 | **[forever love](https://zh.wikipedia.org/wiki/forever_love "wikilink")**     | 收錄於EXILE的專輯『給珍愛的未來』、1st個人專輯『Solo』。                                                                                                                                                       |
+| 2010年6月9日  | **[心願](https://zh.wikipedia.org/wiki/心願\(ATSUSHI的曲\) "wikilink")**            | 收錄於EXILE的單曲「FANTASY」、及之後推出的專輯（包含個人）所收錄的專輯ver.。                                                                                                                                           |
+| 2012年12月5日 | **[Bloom](https://zh.wikipedia.org/wiki/Bloom "wikilink")**                   | 收錄於EXILE的精選專輯『EXILE BEST HITS -LOVE SIDE-』。                                                                                                                                              |
+| 2013年6月19日 | **[Real Valentine](https://zh.wikipedia.org/wiki/Real_Valentine "wikilink")** | 收錄於EXILE「Flower Song」。                                                                                                                                                                   |
+| 2013年9月25日 | **[Colorful Love](https://zh.wikipedia.org/wiki/Colorful_Love "wikilink")**   | 收錄於EXILE「No Limit」。                                                                                                                                                                      |
+| 2015年8月19日 | **[UPSIDE DOWN](https://zh.wikipedia.org/wiki/UPSIDE_DOWN "wikilink")**       | 收錄於EXILE「24karats GOLD SOUL」。                                                                                                                                                            |
+|            |                                                                               |                                                                                                                                                                                          |
 
 **未正式發表歌曲**
 
@@ -1455,7 +1472,7 @@ EXILE ATSUSHILIVE TOUR 2014“Music”
 8.  [EXILE
     ATSUSHIの甘い歌声に浸る……全国6都市ソロライブ](http://natalie.mu/music/news/74749)
 
-9.  [NHK全国学校音楽コンクール中學課題曲專頁。](http://www.nhk.or.jp/ncon/music_program/kadaikyoku_j.html)
+9.
 
 10.
 

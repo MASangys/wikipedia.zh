@@ -13,7 +13,7 @@ B.V.**）是[宏碁的子公司](../Page/宏碁.md "wikilink")，其前身則是
 
 ## 参考文献
 
-## 外部鏈接
+## 外部連結
 
   - [Packard Bell全球](http://www.packardbell.com/index.html)
 

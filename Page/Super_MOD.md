@@ -24,7 +24,8 @@ Demand，[縮寫](../Page/縮寫.md "wikilink")：SMOD），是[富邦集團旗�
 
 ## 外部連結
 
-  - [Super MOD](http://www.supermod.com.tw)
+  - [Super
+    MOD](https://web.archive.org/web/20180807191226/http://supermod.com.tw/)
 
 [Category:凱擘大寬頻](https://zh.wikipedia.org/wiki/Category:凱擘大寬頻 "wikilink")
 [Category:IPTV](https://zh.wikipedia.org/wiki/Category:IPTV "wikilink")

@@ -80,6 +80,7 @@ Baker），於當地時間3月30日（北京時間3月31日）逝世，享壽65�
 ## 衍生產品
 
 [The_Rainbow_Flag,_GLBT_Pride.jpg](https://zh.wikipedia.org/wiki/File:The_Rainbow_Flag,_GLBT_Pride.jpg "fig:The_Rainbow_Flag,_GLBT_Pride.jpg")與彩虹旗的合體版\]\]
+[White_House_goes_rainbow_for_the_pass_of_same-sex_marriage.jpg](https://zh.wikipedia.org/wiki/File:White_House_goes_rainbow_for_the_pass_of_same-sex_marriage.jpg "fig:White_House_goes_rainbow_for_the_pass_of_same-sex_marriage.jpg")以六色彩虹旗打亮\]\]
 彩虹旗在現代已廣泛地應用在各種產品中，其中包括珠寶、服裝和其他個人物品。彩虹旗的顏色亦成為一個展示LGBT身份或團結的象徵。彩虹旗的知名度是如此之高，使得彩虹旗基本上已經完全取代其他同性戀象徵物，如[Λ和](https://zh.wikipedia.org/wiki/Λ "wikilink")[粉红三角形](../Page/粉红三角形.md "wikilink")。基本的彩虹旗已經產生出無數的變化。最經常的珠寶類是驕傲項鍊（）和自由戒指（），分別由六個戒指組成，每個戒指一種顏色，組成一個鏈。\[18\]\[19\]其它的產品從鑰匙鏈到蠟燭。一些國旗被改變以包含彩虹旗，而這些其中的旗幟被做成從倒三角到笑臉的形狀。\[20\]
 
 加拿大[蒙特利爾的](https://zh.wikipedia.org/wiki/蒙特利爾 "wikilink")[波特站](../Page/波特站.md "wikilink")，是一個[同性戀鎮地鐵車站](https://zh.wikipedia.org/wiki/同性戀鎮 "wikilink")。該車站最近重建成一個帶有彩虹旗元素的地鐵車站。\[21\]\[22\]
@@ -98,8 +99,6 @@ Baker），於當地時間3月30日（北京時間3月31日）逝世，享壽65�
 
   - 2016年12月10日至17日，台中市政府，新市政大樓、豐原陽明大樓及台中州廳。\[26\]
   - 2017年11月24日，英國駐香港總領事館亦在法院道大樓懸掛六色彩虹直幡，亦在facebook專頁上祝福參與遊行的人士，指「所有愛情都是偉大的」，他們可與榮耀同行。\[27\]
-
-[Rainbow_Flag_at_Southorn_Playground_6030.JPG](https://zh.wikipedia.org/wiki/File:Rainbow_Flag_at_Southorn_Playground_6030.JPG "fig:Rainbow_Flag_at_Southorn_Playground_6030.JPG")巴士站之上\]\]
 
 ## 參見
 

@@ -69,7 +69,7 @@ A11也採用此種排程方式](https://zh.wikipedia.org/wiki/Apple_A11 "wikilin
 ## 外部連結
 
   - [big.LITTLE
-    Processing](http://www.arm.com/products/processors/technologies/biglittleprocessing.php)
+    Processing](https://web.archive.org/web/20121022055646/http://www.arm.com/products/processors/technologies/bigLITTLEprocessing.php)
   - [Big.LITTLE Processing with ARM CortexTM-A15 &
     Cortex-A7](https://web.archive.org/web/20131017064722/http://www.arm.com/files/downloads/big_LITTLE_Final_Final.pdf)
     (PDF)

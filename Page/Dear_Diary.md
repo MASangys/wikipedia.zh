@@ -1,7 +1,7 @@
 《**Dear Diary**》是[香港組合](../Page/香港.md "wikilink")[Robynn &
 Kendy的第二張個人唱片](../Page/Robynn_&_Kendy.md "wikilink")，於2013年2月21日推出。
 
-## 曲目資料
+## 曲目
 
 ## 音樂錄影帶
 

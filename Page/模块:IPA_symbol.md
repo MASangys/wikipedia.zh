@@ -1,49 +1,130 @@
-local p, __output, args, data = {}, {}, {}, mw.loadData("Module:IPA
-symbol/data") local id, output
+local data = mw.loadData('Module:IPA symbol/data').data local p = {}
 
-__output.name = function() return data.correspondences\[id\]\["name"\]
-end __output.wikipage = function() return
-data.correspondences\[id\]\["wikipage"\] end __output.soundfile =
-function() return data.correspondences\[id\]\["soundfile"\] end
-__output.type = function() return data.correspondences\[id\]\["type"\]
+local gsub = mw.ustring.gsub local len = mw.ustring.len local sub =
+mw.ustring.sub
+
+local function reverseLook(t, s)
+
+`   local ret`
+`   for i = 1, len(s) - 1 do`
+`       -- Look for 2-char matches first`
+`       ret = t[sub(s, i, i + 1)] or t[sub(s, i, i)]`
+`       if ret then return ret end`
+`   end`
+`   ret = t[sub(s, -1)] -- Last character`
+`   if ret then return ret end`
+
 end
 
-local function html_error(message)
+local function returnData(s, dataType)
 
-` if args[2] then`
-`   return args[2]`
-` else`
-`   return mw.ustring.format(`
-`     '`<strong class="error">`错误使用{{`[`IPAsym`](https://zh.wikipedia.org/wiki/Template:IPAsym "wikilink")`}}：%s%s`</strong>`'`
-`     ,message`
-`     ,mw.title.getCurrentTitle().isContentPage and ("[[Category:需要注意的国际音标页面|" .. (args[1] or "") .. "]]") or ""`
-`    )`
-` end`
+`   for _, v in ipairs(data.univPatterns) do`
+`       s = gsub(s, v.pat, v.rep)`
+`   end`
+`   local key = s`
+`   for _, v in ipairs(data.keyPatterns) do`
+`       key = gsub(key, v.pat, v.rep)`
+`   end`
+`   local ret = data.sounds[key] or data.diacritics[key]`
+`       or reverseLook(data.diacritics, s)`
+`   if ret and dataType then`
+`       if ret[dataType] then`
+`           ret = ret[dataType]`
+`       else`
+`           error(string.format('Invalid data type "%s"', dataType))`
+`       end`
+`   end`
+`   return ret`
+
+end
+
+local function returnErrorCat()
+
+`   local ns = mw.title.getCurrentTitle().namespace`
+`   if ns % 2 == 0 and ns ~= 2 then -- Non-talk and non-user`
+`       return ''`
+`   else`
+`       return ''`
+`   end`
+
+end
+
+local function returnError(s)
+
+`   return string.format(`
+`       '`<span class="error">`Error using {{`[`IPA``
+ ``symbol`](https://zh.wikipedia.org/wiki/Template:IPA_symbol "wikilink")`}}: "%s" not found in list`</span>`%s',`
+`       s, returnErrorCat())`
+
+end
+
+function p._main(s, errorText, output)
+
+`   return returnData(s, output or 'article') or errorText or returnError(s)`
 
 end
 
 function p.main(frame)
 
-` -- all input is trimmed; accepted parameters are:`
-` --   name              description`
-` --   ====              ===========`
-` --   (1)               the input`
-` --   (2)               overwrite the error message`
-` --   (3)               overwrite the output when input is empty`
-` --   output            the output, one of: input; name; wikipage; soundfile; type`
+`   local args = {}`
+`   for k, v in pairs(frame.args) do`
+`       args[k] = v ~= '' and v`
+`   end`
+`   if not args.symbol then return '' end -- Exit early`
+`   if args.errortext == 'blank' then args.errortext = '' end`
+`   return p._main(args.symbol, args.errortext, args.output)`
 
-` for k, v in pairs(frame:getParent().args) do`
-`   args[k] = v and mw.text.trim(v)`
-` end`
-` args.output = args.output or 'wikipage'`
+end
 
-` if not args[1] or args[1] == "" then return args[3] or "" end`
+function p._link(s, displayText, prefix, suffix, audio, addSpan,
+errorText)
 
-` id = data.symbols[args[1]]`
-` if not id then return html_error('“' .. args[1] .. '”在列表中找不到') end`
+`   local t = returnData(s)`
+`   if t then`
+`       s = string.format('%s`[`%s`](https://zh.wikipedia.org/wiki/:%s "wikilink")`%s',`
+`           prefix or '', t.article, displayText or s, suffix or '')`
+`       if addSpan ~= 'no' then`
+`           local span = mw.html.create('span'):addClass('IPA')`
+`           if prefix or suffix then`
+`               span:addClass('nowrap'):attr('title',`
+`                   'Representation in the International Phonetic Alphabet (IPA)')`
+`           end`
+`           s = tostring(span:wikitext(s))`
+`       end`
+`       if audio then`
+`           audio = require('Module:Yesno')(audio, audio)`
+`           if audio == true then audio = t.audio end`
+`           if audio ~= '' then`
+`               audio = mw.getCurrentFrame():expandTemplate{`
+`                   title = 'Template:Audio',`
+`                   args = { audio, 'listen', help = 'no' }`
+`               }`
+`               audio = ' `<span class="nowrap" style="font-size:85%">`(' .. audio`
+`                   .. ')`</span>`'`
+`           end`
+`       else`
+`           audio = ''`
+`       end`
+`       return s .. audio`
+`    else`
+`       return errorText or returnError(s)`
+`   end`
 
-` return  __output[args.output] and __output[args.output]() or html_error("没有这样的输出选项")`
+end
+
+function p.link(frame)
+
+`   local args = {}`
+`   for k, v in pairs(frame.args) do`
+`       args[k] = v ~= '' and v`
+`   end`
+`   if not args.symbol then return '' end -- Exit early`
+`   if args.errortext == 'blank' then args.errortext = '' end`
+`   return p._link(args.symbol, args.text, args.prefix, args.suffix, args.audio,`
+`       args.span, args.errortext)`
 
 end
 
 return p
+
+[Category:需要注意的国际音标页面](https://zh.wikipedia.org/wiki/Category:需要注意的国际音标页面 "wikilink")

@@ -31,7 +31,7 @@
 <td><p><a href="../Page/沈建宏.md" title="wikilink">沈建宏</a></p></td>
 <td><p>A</p></td>
 <td><p>天蝎座</p></td>
-<td><p>174cm</p></td>
+<td><p>166cm</p></td>
 <td></td>
 <td><p>莊敬高中戲劇科</p></td>
 <td></td>

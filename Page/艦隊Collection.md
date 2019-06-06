@@ -50,7 +50,10 @@ Torelli號潛水艇，並於第七張地圖加入英國海軍的[皇家方舟號
 
 2018年9月9日，2018年初秋活动开始。击破第三张地图可获得由德國远洋郵輪改裝而成的[神鹰号航空母舰](https://zh.wikipedia.org/wiki/神鹰号航空母舰 "wikilink")，击破第四张地图可获得[意大利海军](../Page/意大利海军.md "wikilink")[西北风](https://zh.wikipedia.org/wiki/西北风号驱逐舰 "wikilink")，同時可以在此地图通过打捞获得[瑞典海军的](https://zh.wikipedia.org/wiki/瑞典海军 "wikilink")。击破第五张地图的最终海域可以获得[英国皇家海军](https://zh.wikipedia.org/wiki/英国皇家海军 "wikilink")[纳尔逊级](../Page/纳尔逊级战列舰.md "wikilink")[战列舰](https://zh.wikipedia.org/wiki/战列舰 "wikilink")[纳尔逊](https://zh.wikipedia.org/wiki/纳尔逊号战舰 "wikilink")。
 
-2018年12月27日开始的冬季限定活动中，击破第三张地图的最终海域可以获得[旧日本海军的](https://zh.wikipedia.org/wiki/大日本帝国海军 "wikilink")。同时可以通过打捞获得[美国海军的](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[弗莱彻级驱逐舰](https://zh.wikipedia.org/wiki/弗莱彻级驱逐舰 "wikilink")[约翰斯顿](https://zh.wikipedia.org/wiki/约翰斯顿号驱逐舰_\(DD-557\) "wikilink")，这也是本作实装的第一艘[弗莱彻级驱逐舰](https://zh.wikipedia.org/wiki/弗莱彻级驱逐舰 "wikilink")。
+2018年12月27日开始的冬季限定活动中，击破第三张地图的最终海域可以获得[大日本帝国海军的](https://zh.wikipedia.org/wiki/大日本帝国海军 "wikilink")。同时可以通过打捞获得[美国海军的](https://zh.wikipedia.org/wiki/美国海军 "wikilink")[弗莱彻级驱逐舰](https://zh.wikipedia.org/wiki/弗莱彻级驱逐舰 "wikilink")[约翰斯顿](https://zh.wikipedia.org/wiki/约翰斯顿号驱逐舰_\(DD-557\) "wikilink")，这也是本作实装的第一艘[弗莱彻级驱逐舰](https://zh.wikipedia.org/wiki/弗莱彻级驱逐舰 "wikilink")。
+
+2019年5月21日舉行的春季限定活動中，擊破第二張地圖可以獲得[大日本帝國海軍](../Page/大日本帝國海軍.md "wikilink")[占守型海防艦的](https://zh.wikipedia.org/wiki/占守型海防艦 "wikilink")，並可透過打撈獲得其同型艦的。在擊破第三張地圖後，將可獲得[義大利皇家海軍的](../Page/義大利皇家海軍.md "wikilink")。後段作戰中則可以打撈[美國海軍的](../Page/美國海軍.md "wikilink")[弗莱彻级驱逐舰命名艦](https://zh.wikipedia.org/wiki/弗莱彻级驱逐舰 "wikilink")[弗萊徹號驅逐艦
+(DD-445)](https://zh.wikipedia.org/wiki/弗萊徹號驅逐艦_\(DD-445\) "wikilink")，更能夠於擊破第五張地圖(最終關卡)後獲得美國海軍[科羅拉多級戰艦的](https://zh.wikipedia.org/wiki/科羅拉多級戰艦 "wikilink")[科羅拉多號戰艦](../Page/科羅拉多號戰艦.md "wikilink")。
 
 登場的艦娘各有自己的專用台詞，並使用[聲優錄製成全語音](../Page/聲優.md "wikilink")，部分艦娘還有整點報時的語音。重大節日（聖誕節、[新曆新年等日本傳統節日](../Page/日本新年.md "wikilink")）、或是牽涉到史實的活動時亦會裝設期間限定的語音。聲優最多一人分飾約10艘的艦娘。至2014年11月底已登場艦娘配音聲優名單刊載於官方解說書《》\[8\]。
 
@@ -1879,7 +1882,7 @@ Flash或者支援有所局限，僅有[Windows系統則有支援](https://zh.wik
 
 ### 模仿作品
 
-由於艦隊Collection成功吸引了大量玩家，不少遊戲開發商因而對其借鑒、模仿、甚至抄襲、冒名，包括曾在中国大陆地區網路上引發艦隊colletion玩家集體抗議的《[舰娘世界](https://zh.wikipedia.org/wiki/舰娘世界 "wikilink")》\[124\]（曾名「舰娘国服」）、《炮妹》\[125\]、《[战舰少女](../Page/战舰少女.md "wikilink")》\[126\]、《[舰娘收藏](https://zh.wikipedia.org/wiki/舰娘收藏 "wikilink")》\[127\]、《[碧蓝航线](https://zh.wikipedia.org/wiki/碧蓝航线 "wikilink")》和《[深淵地平線](../Page/深淵地平線.md "wikilink")》等等，其中部分曾在網絡上引起廣泛爭議，甚至有的抄袭作品为了人气不惜一切代价抹黑《舰队Collection》的形象。
+由於艦隊Collection成功吸引了大量玩家，不少遊戲開發商因而對其借鑒、模仿、甚至抄襲、冒名，包括曾在中国大陆地區網路上引發艦隊colletion玩家集體抗議的《[舰娘世界](https://zh.wikipedia.org/wiki/舰娘世界 "wikilink")》\[124\]（曾名「舰娘国服」）、《炮妹》\[125\]、《[战舰少女](../Page/战舰少女.md "wikilink")》\[126\]、《[舰娘收藏](../Page/舰娘收藏.md "wikilink")》\[127\]、《[碧蓝航线](https://zh.wikipedia.org/wiki/碧蓝航线 "wikilink")》和《[深淵地平線](../Page/深淵地平線.md "wikilink")》等等，其中部分曾在網絡上引起廣泛爭議，甚至有的抄袭作品为了人气不惜一切代价抹黑《舰队Collection》的形象。
 
 另一部同質性極高的知名網頁遊戲《[刀劍亂舞](../Page/刀劍亂舞.md "wikilink")》是與艦隊Collection同由[DMM.com營運](../Page/DMM.com.md "wikilink")，但由不同團隊開發製作，該團隊製作人亦承認其遊戲系統的許多部份參考了艦隊Collection的系統\[128\]。
 

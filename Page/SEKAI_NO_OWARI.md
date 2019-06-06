@@ -822,6 +822,7 @@ CD</p></td>
 
 49. [NHK全國學校音樂比賽2015年中學組專頁。](http://www.nhk.or.jp/ncon/music_program/kadaikyoku_j.html#pagetop)
 
+
 50. [【オリコン】セカオワ、アルバム初1位
     前作比3.8倍・18万枚増](http://www.oricon.co.jp/news/2047413/full/)，Oricon
     Style，2015年1月20日。

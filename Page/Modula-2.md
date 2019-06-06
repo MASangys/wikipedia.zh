@@ -44,7 +44,8 @@ Modula-2程式語言有幾項特色使其在電腦科學的發展過程中有著
     (英文)
   - <http://www.arjay.bc.ca/Modula-2/m2faq.html> (英文)
   - <http://www.nongnu.org/gm2/>  (英文)
-  - <http://objective.modula2.net/>  (英文)
+  - <https://web.archive.org/web/20150722230801/http://objective.modula2.net/>
+     (英文)
 
 [Category:ISO标准化编程语言](https://zh.wikipedia.org/wiki/Category:ISO标准化编程语言 "wikilink")
 [Category:静态类型编程语言](https://zh.wikipedia.org/wiki/Category:静态类型编程语言 "wikilink")

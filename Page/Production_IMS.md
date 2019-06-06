@@ -114,7 +114,7 @@ Doll》等作品做過其他公司的協力。2014年1月出現首部主力製�
 
 ## 外部連結
 
-  - [官方網站](http://productionims.com/)
+  - [官方網站](https://web.archive.org/web/20140809204844/http://productionims.com//)
 
 [Category:Production_IMS](https://zh.wikipedia.org/wiki/Category:Production_IMS "wikilink")
 [Category:2013年成立的公司](https://zh.wikipedia.org/wiki/Category:2013年成立的公司 "wikilink")

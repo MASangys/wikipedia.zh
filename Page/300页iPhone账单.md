@@ -15,7 +15,7 @@ Technica的技术类网站游戏编辑](../Page/Ars_Technica.md "wikilink")。�
 
 ## 视频
 
-贾斯汀·伊扎里克是[匹兹堡区域的一位](../Page/匹兹堡.md "wikilink")[平面设计师](../Page/平面设计.md "wikilink")，当时23岁\[23\]的她还是一位[喜剧小品演员和](../Page/喜剧小品.md "wikilink")[博客写手](https://zh.wikipedia.org/wiki/博客 "wikilink")，她于2007年8月11日（星期六）收到了这份300页的账单\[24\]，然后决定在一家咖啡馆裡以此为题材拍一段视频\[25\]。到了星期一，她将剪辑出来的一分钟片段發布到了多家互联网流行[影片分享网站](https://zh.wikipedia.org/wiki/影片分享网站 "wikilink")\[26\]。根据8月22日4家网站总结的数字，这段视频仅第一个星期就在Youtube获得了超过50万次的点击率，在有35万人次观看，[Break.com又有](https://zh.wikipedia.org/wiki/Break.com "wikilink")50万人点击，[雅虎视频上更高达](https://zh.wikipedia.org/wiki/雅虎视频 "wikilink")110万人次。到了2007年底，报道的观看人次已经突破800万。艾扎里克表示这段视频从Revver为自己带来了2000美元的收入\[27\]。
+贾斯汀·伊扎里克是[匹兹堡区域的一位](../Page/匹兹堡.md "wikilink")[平面设计师](../Page/平面设计.md "wikilink")，当时23岁\[23\]的她还是一位[喜剧小品演员和](../Page/喜剧小品.md "wikilink")[博客写手](https://zh.wikipedia.org/wiki/博客 "wikilink")，她于2007年8月11日（星期六）收到了这份300页的账单\[24\]，然后决定在一家咖啡馆裡以此为题材拍一段视频\[25\]。到了星期一，她将剪辑出来的一分钟片段發布到了多家互联网流行[影片分享网站](https://zh.wikipedia.org/wiki/影片分享网站 "wikilink")\[26\]。根据8月22日4家网站总结的数字，这段视频仅第一个星期就在YouTube获得了超过50万次的点击率，在有35万人次观看，[Break.com又有](https://zh.wikipedia.org/wiki/Break.com "wikilink")50万人点击，[雅虎视频上更高达](https://zh.wikipedia.org/wiki/雅虎视频 "wikilink")110万人次。到了2007年底，报道的观看人次已经突破800万。艾扎里克表示这段视频从Revver为自己带来了2000美元的收入\[27\]。
 
 部分视频还在多家全国或地方电视台播出，艾扎里克也接受了一对一的采访，其中包括[有线电视新闻网](../Page/有线电视新闻网.md "wikilink")\[28\]、[福克斯新闻频道](https://zh.wikipedia.org/wiki/福克斯新闻频道 "wikilink")\[29\]、\[30\]和\[31\]。[美国广播公司新闻频道也独立播放了由其一位广播电台记者主持的一次视频采访](../Page/美国广播公司.md "wikilink")\[32\]。
 
@@ -62,6 +62,8 @@ Technica网站博客上则认为这种对隐私权的担忧纯粹是无稽之谈
   - [WTAE-TV电视台新闻采访](http://www.youtube.com/watch?v=5h-jFzQFMLw)
 
   - [WTAE-TV电视台新闻报导](http://www.youtube.com/watch?v=2YaR6vB5l6E)
+
+[分類:2007年美國](https://zh.wikipedia.org/wiki/分類:2007年美國 "wikilink")
 
 [Category:2007年網絡事件](https://zh.wikipedia.org/wiki/Category:2007年網絡事件 "wikilink")
 [Category:iPhone](https://zh.wikipedia.org/wiki/Category:iPhone "wikilink")

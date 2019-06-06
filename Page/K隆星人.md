@@ -22,7 +22,7 @@
   - [Keroro 軍曹](../Page/Keroro.md "wikilink")（）
     配音：日本→[渡邊久美子](../Page/渡邊久美子.md "wikilink")；台灣→[雷碧文](../Page/雷碧文.md "wikilink")；香港→[方淑儀](../Page/方淑儀.md "wikilink")（有線電視）／[張雪儀](../Page/張雪儀.md "wikilink")（第二季
     DVD/VCD）／[周文瑛](../Page/周文瑛.md "wikilink")（第一季、電影）→[陸惠玲](../Page/陸惠玲.md "wikilink")（第二季後）、[許盈](../Page/許盈.md "wikilink")<small>（代配）</small>（無綫電視）
-    本作主角。Keroro小隊的隊長，受K隆星人追崇。最擅長做家務，最喜愛組裝[高達模型](https://zh.wikipedia.org/wiki/高達模型 "wikilink")，Tamama、摩亞、Karara喜歡的對象，多時扮女生。養主兼好友是日向冬樹，他們的友誼是非常珍貴。
+    本劇中心人物。Keroro小隊的隊長，受K隆星人追崇。最擅長做家務，最喜愛組裝[高達模型](https://zh.wikipedia.org/wiki/高達模型 "wikilink")，Tamama、摩亞、Karara喜歡的對象，多時扮女生。養主兼好友是日向冬樹，他們的友誼是非常珍貴。
 
 <!-- end list -->
 

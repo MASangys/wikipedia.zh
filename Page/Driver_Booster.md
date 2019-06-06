@@ -30,7 +30,6 @@ Booster发布后第二天被[Softpedia编辑发新闻推荐](../Page/Softpedia.m
 
   - [官方主页](http://www.iobit.com)
   - [产品页面](http://www.iobit.com/driver-booster.php)
-  - [驱动之家](http://drivers.mydrivers.com/)
 
 [Category:2013年軟體](https://zh.wikipedia.org/wiki/Category:2013年軟體 "wikilink")
 [Category:系统软件](https://zh.wikipedia.org/wiki/Category:系统软件 "wikilink")

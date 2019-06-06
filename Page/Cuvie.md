@@ -66,6 +66,7 @@
 [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 [Category:1976年出生](https://zh.wikipedia.org/wiki/Category:1976年出生 "wikilink")
 [Category:日本女性漫画家](https://zh.wikipedia.org/wiki/Category:日本女性漫画家 "wikilink")
+[Category:成人漫画家](https://zh.wikipedia.org/wiki/Category:成人漫画家 "wikilink")
 
 1.  部分參考於[えろまんがけんきゅう（仮）【Cuvie先生
     インタビュー】](http://ero.manga-studies.com/?p=article&bid=104)。

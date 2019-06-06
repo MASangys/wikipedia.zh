@@ -275,8 +275,7 @@ Nehalem微架構以及其製程改進版Intel Westmere微架構。
 7.  [Intel® Xeon® Processor E7-8870 (30M Cache, 2.40 GHz, 6.40 GT s
     Intel®
     QPI)](http://ark.intel.com/zh-tw/products/53580/intel-xeon-processor-e7-8870-\(30m-cache-2_40-ghz-6_40-gts-intel-qpi\))
-8.  [Core i7的Turbo Boost将改名为Dymanic
-    Speed](http://www.expreview.com/news/hard/2008-09-16/1221551597d10017.html)
+8.
 9.  [IDF秋08：Intel公布Nehalem更多细节](http://www.hardspell.com/doc/hard/80412.htm)
 
 10. [英特尔下個月推四核心Atom处理器](http://news.mydrivers.com/1/114/114483.htm)

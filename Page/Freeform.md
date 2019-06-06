@@ -61,7 +61,7 @@ Family與其劃清界線。2005年8月29日，ABC家庭宣布免責聲明，表�
 
 ### 重塑品牌形象與Freeform（2015年－至今）
 
-[Freeform_temp.svg](https://zh.wikipedia.org/wiki/File:Freeform_temp.svg "fig:Freeform_temp.svg")
+[Freeform.svg](https://zh.wikipedia.org/wiki/File:Freeform.svg "fig:Freeform.svg")
 2014年12月3日，[綜藝雜誌報導表示ABC](../Page/綜藝_\(雜誌\).md "wikilink")
 Family高層提出了於2015年早些重新開台的計畫，其中包括重新命名、設計新標誌或是製播偏向千禧一代收視族群的節目（非家庭或青少年收視群）等的選項。\[25\]
 2015年4月14日，ABC

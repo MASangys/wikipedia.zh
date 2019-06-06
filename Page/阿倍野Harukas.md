@@ -69,7 +69,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>55F - 39F</p></td>
+<td><p>39F - 55F</p></td>
 <td><p>大阪萬豪都酒店 客房</p></td>
 <td></td>
 </tr>
@@ -246,7 +246,7 @@
 2.  [あべのハルカス：「日本一尽くし」で全面開業](http://mainichi.jp/graph/2014/03/07/20140307k0000e020148000c/001.html)
     - 毎日新聞2014年3月7日
 3.  [日本一300メートル、あべのハルカス全面開業](http://www.yomiuri.co.jp/homeguide/news/20140307-OYT8T00731.html)
-    - 読売新聞2014年3月7日
+     - 読売新聞2014年3月7日
 4.  [「あべの美術館（仮称）」計画の特別顧問に蓑豊氏を招聘](http://www.kintetsu.jp/news/files/abenominosi100428.pdf)近畿日本鉄道2010年4月28日閲覧
 5.  [あべの美術館（仮称）学芸員　募集要項](http://www.kintetsu.jp/employment/bosyu.html)
     近畿日本鉄道2010年11月30日閲覧

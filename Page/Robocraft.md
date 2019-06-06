@@ -231,99 +231,77 @@ Module),而且把全部武器轉向速度統一。\[23\]
 [分類:大型多人線上第三人稱射擊遊戲](https://zh.wikipedia.org/wiki/分類:大型多人線上第三人稱射擊遊戲 "wikilink")
 [分類:科幻电子游戏](https://zh.wikipedia.org/wiki/分類:科幻电子游戏 "wikilink")
 
-1.  [Get ready to join the fight\!](http://robocraftgame.com/first/)
+1.
 
 2.
-3.  [Robocraft Wins Indie Game of the
-    Year](http://robocraftgame.com/robocraft-wins-indie-game-of-the-year/)
+3.
 
-4.  [ROBOCRAFT WINS “Best Debut
-    Game”](http://robocraftgame.com/robocraft-wins-best-debut-game/)
+4.
 
-5.  [Rise of the Walkers – Major Update
-    Notes](http://robocraftgame.com/rise-of-the-walkers-major-update-notes/)
+5.
 
 6.
-7.  [1](http://robocraftgame.com/cpu-update-0-11-1493/)
+7.
 
-8.  [RAIL CANNONS AND MORE
-    INSIDE](http://robocraftgame.com/rail-cannons-and-more-inside/)
+8.
 
 9.
-10. [ELECTROMANIA IS
-    HERE\!](http://robocraftgame.com/electromania-is-here/)
+10.
 
-11. [Robocraft gives you
-    WINGS](http://robocraftgame.com/robocraft-gives-you-wings/)
+11.
 
 12.
 13.
-14. [COUNTDOWN TO
-    MEGABOTS 2…](http://robocraftgame.com/countdown-to-megabots-2/)
+14.
 
 15.
-16. [NEW MAP, NEW LOBBY, NEW TECH TREE, NEW
-    CUBE\!\!\!](http://robocraftgame.com/new-map-new-lobby-new-tech-tree-new-cube/)
+16.
 
 17.
-18. [Robocraft – Tanks Are Rollin'
-    Out\!](http://robocraftgame.com/robocraft-taro-release/)
+18.
 
-19. [Xmas Gift from
-    Freejam](http://robocraftgame.com/xmas-gift-from-freejam/)
+19.
 
-20. [Dawn of the
-    Megabots](http://robocraftgame.com/dawn-of-the-megabots-full-detailed-notes/)
+20.
 
-21. [League of
-    Mechs](http://robocraftgame.com/robocraft-league-of-mechs-coming-this-week/)
+21.
 
 22.
-23. [MAXIMUM LOADOUT
-    – 0.11.1440](http://robocraftgame.com/maximum-loadout-0-10-1440/)
+23.
 
-24. [E14 Needs You\!](http://robocraftgame.com/e14-needs-you/)
+24.
 
-25. [COUNTDOWN TO
-    MEGABOTS 3…](http://robocraftgame.com/countdown-to-megabots-3/)
+25.
 
-26. [Plasma Cannons ARE
-    HERE\!](http://robocraftgame.com/plasma-cannons-are-here/)
+26.
 
 27.
-28. [WARNING\! – GAME CHANGER
-    INSIDE\!\!\!](http://robocraftgame.com/warning-game-changer-inside/)
+28.
 
-29. [COUNTDOWN TO
-    MEGABOTS 1…](http://robocraftgame.com/countdown-to-megabots-1/)
+29.
 
 30.
-31. [MAXIMUM LOADOUT
-    – 0.11.1440](http://robocraftgame.com/maximum-loadout-0-10-1440/)
+31.
 
 32.
-33. [AEROFLAK UPDATE
-    – 0.10.1311](http://robocraftgame.com/aeroflak-update-0-10-1311/)
+33.
 
-34. [MISSILE LAUNCHER UPDATE
-    – 0.10.1379](http://robocraftgame.com/missile-launcher-update-0-10-1379/)
+34.
 
-35. [2](http://robocraftgame.com/proto-seeker-update-0-11-1470/)
+35.
 
 36.
 37.
-38. [The New Radar Jammer and Radar
-    Receiver](http://robocraftgame.com/the-new-radar-jammer-and-radar-receiver/)
+38.
 
 39.
 40.
 41.
 42.
-43. [HOW FAST? HOW HIGH?](http://robocraftgame.com/how-fast-how-high/)
+43.
 
 44.
-45. [The Story so far](http://robocraftgame.com/story/)
+45.
 
 46.
-47. [Protonium (noun, Chemistry,
-    Physics)](http://robocraftgame.com/respawning-in-9-days-time/)
+47.

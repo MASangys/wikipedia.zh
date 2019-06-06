@@ -211,7 +211,7 @@ Playground for Music and You” 。\[12\]\[13\]
 
   - [VICTON](../Page/VICTON.md "wikilink")
 
-  - [林智民](../Page/林智民.md "wikilink")
+  - [林智敏](https://zh.wikipedia.org/wiki/林智敏 "wikilink")
 
 ### 演員
 
@@ -224,7 +224,7 @@ Playground for Music and You” 。\[12\]\[13\]
 
   - [PlayM
     BOYS](https://zh.wikipedia.org/wiki/PlayM_BOYS "wikilink")（前稱[FAVEBOYS](https://zh.wikipedia.org/wiki/FAVEBOYS "wikilink")、[STARHILLBOYS](https://zh.wikipedia.org/wiki/STARHILLBOYS "wikilink")）\[14\]\[15\]\[16\]
-      - [林智民](../Page/林智民.md "wikilink")（01年5月22日，[THE
+      - [林智敏](https://zh.wikipedia.org/wiki/林智敏 "wikilink")（01年5月22日，[THE
         FAN第](../Page/THE_FAN.md "wikilink")3名，[THE FAN
         TOP5](https://zh.wikipedia.org/wiki/THE_FAN_TOP5 "wikilink")）
       - [全暏炎](https://zh.wikipedia.org/wiki/全暏炎 "wikilink")（02年2月21日，[Under
@@ -241,11 +241,13 @@ Playground for Music and You” 。\[12\]\[13\]
 
 ### 女練習生
 
-  - [PlayM GIRLS](https://zh.wikipedia.org/wiki/PlayM_GIRLS "wikilink")
+  - [PlayM
+    GIRLS](https://zh.wikipedia.org/wiki/PlayM_GIRLS "wikilink")（前稱[FAVEGIRLS](https://zh.wikipedia.org/wiki/FAVEGIRLS "wikilink")）
 
 ### [The Five文化產業專門會社](https://zh.wikipedia.org/wiki/The_Five文化產業專門會社 "wikilink")
 
   - 韓語：더파이브문화산업전문회사
+  - 英語：The Five Cultural Industrial Company
   - 2018年成立，負責[THE FAN相關事務](../Page/THE_FAN.md "wikilink")
   - [THE FAN
     TOP5](https://zh.wikipedia.org/wiki/THE_FAN_TOP5 "wikilink")（限定活動）

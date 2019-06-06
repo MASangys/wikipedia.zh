@@ -394,9 +394,6 @@
 
 ## 參考資料
 
-[de:Liste der Nummer-eins-Hits in Japan
-(2013)](https://zh.wikipedia.org/wiki/de:Liste_der_Nummer-eins-Hits_in_Japan_\(2013\) "wikilink")
-
 [Category:2014年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2014年Oricon單曲週榜冠軍作品 "wikilink")
 [Category:每年Oricon單曲週榜冠軍作品列表](https://zh.wikipedia.org/wiki/Category:每年Oricon單曲週榜冠軍作品列表 "wikilink")
 [Category:2014年音樂排行榜](https://zh.wikipedia.org/wiki/Category:2014年音樂排行榜 "wikilink")

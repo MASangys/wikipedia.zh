@@ -7,7 +7,8 @@ Via Satélite（衛星電視）的宿寫。
 
 ## 頻道
 
-  -
+  - [Las Estrellas](../Page/星系頻道.md "wikilink")
+
   -
   -
   -
@@ -73,7 +74,6 @@ Via Satélite（衛星電視）的宿寫。
   - [Televisa官方网页](http://www.televisa.com/)
   - [EsMas.com](http://www2.esmas.com/)
 
-[Category:電視網](https://zh.wikipedia.org/wiki/Category:電視網 "wikilink")
 [Category:墨西哥公司](https://zh.wikipedia.org/wiki/Category:墨西哥公司 "wikilink")
 [Category:媒体公司](https://zh.wikipedia.org/wiki/Category:媒体公司 "wikilink")
 [Category:墨西哥媒体](https://zh.wikipedia.org/wiki/Category:墨西哥媒体 "wikilink")

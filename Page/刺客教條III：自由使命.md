@@ -59,7 +59,7 @@ Arcade和](https://zh.wikipedia.org/wiki/Xbox_Live_Arcade "wikilink")[Steam取�
 [Category:官方繁体中文化游戏‎](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏‎ "wikilink")
 [Category:官方简体中文化游戏‎](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏‎ "wikilink")
 
-1.  <http://www.joystiq.com/2012/06/04/assassins-creed-3-liberation-confirmed-for-vita-launches-octo/>
+1.
 
 2.
 3.

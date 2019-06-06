@@ -102,7 +102,7 @@ IV和弦）作為和聲，再配對加上流行音樂段落混搭而成。\[12\]
 
 [Category:澳大利亚摇滚乐团](https://zh.wikipedia.org/wiki/Category:澳大利亚摇滚乐团 "wikilink")
 [Category:喜劇搖滾](https://zh.wikipedia.org/wiki/Category:喜劇搖滾 "wikilink")
-[Category:喜劇歌手](https://zh.wikipedia.org/wiki/Category:喜劇歌手 "wikilink")
+[Category:澳大利亞喜劇音樂家](https://zh.wikipedia.org/wiki/Category:澳大利亞喜劇音樂家 "wikilink")
 
 1.  [The axis of awesome - Australian Federal
     election 2007](http://akasha-zenith.livejournal.com/13268.html)

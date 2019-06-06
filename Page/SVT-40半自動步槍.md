@@ -61,6 +61,8 @@ SVT-38曾參加蘇聯和芬蘭的[冬季戰爭](https://zh.wikipedia.org/wiki/�
 
 ## 外部連結
 
+  - [How a SVT-40 works](https://www.youtube.com/watch?v=BijFilXwx80)
+
 [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
 [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
 [Category:半自動步槍](https://zh.wikipedia.org/wiki/Category:半自動步槍 "wikilink")

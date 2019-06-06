@@ -226,7 +226,7 @@
     lightning](https://zh.wikipedia.org/wiki/GNU_lightning "wikilink") –
     生成机器语言的[即时编译器](https://zh.wikipedia.org/wiki/即时编译 "wikilink")
 16. [DotGNU](../Page/DotGNU.md "wikilink") –
-    [微软.NET的替代](https://zh.wikipedia.org/wiki/Microsoft_.NET框架 "wikilink")
+    Microsoft[.NET的替代](../Page/.NET框架.md "wikilink")
 17. [GNU
     Classpath](https://zh.wikipedia.org/wiki/GNU_Classpath "wikilink") –
     [Java库](../Page/Java.md "wikilink")
@@ -330,8 +330,8 @@
 19. [GNU nano](https://zh.wikipedia.org/wiki/GNU_nano "wikilink") -
     文本编辑器
 20. [GNU
-    Parallel](https://zh.wikipedia.org/wiki/Parallel_\(software\) "wikilink")
-    – 从标准输入并行构建和执行命令
+    parallel](https://zh.wikipedia.org/wiki/GNU_parallel "wikilink") –
+    从标准输入并行构建和执行命令
 21. [pexec](https://zh.wikipedia.org/wiki/pexec "wikilink") –
     并行执行shell命令（在单一主机上，或使用[SSH连接多个主机](https://zh.wikipedia.org/wiki/SSH "wikilink")）
 22. [GNU Privacy Guard](../Page/GnuPG.md "wikilink") –

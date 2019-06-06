@@ -1409,7 +1409,7 @@ Eric Kwok之妻</p></td>
 
 ### 迴響
 
-  - 受本劇[蔣志光](../Page/蔣志光.md "wikilink")、[韋綺姍](../Page/韋綺姍.md "wikilink")、黑妹、[小寶等帶動的全城熱話影響](../Page/小寶.md "wikilink")，TVB亦於[2015無綫節目巡禮之中發佈讓以前的歌手再次發光發熱的節目](../Page/2015無綫節目巡禮.md "wikilink")《我要再成名》的（製作）計劃，其後於2017年製作同類的懷舊音樂節目[流行經典50年](https://zh.wikipedia.org/wiki/流行經典50年 "wikilink")。
+  - 受本劇[蔣志光](../Page/蔣志光.md "wikilink")、[韋綺姍](../Page/韋綺姍.md "wikilink")、黑妹、[小寶等帶動的全城熱話影響](../Page/小寶.md "wikilink")，TVB亦於[2015無綫節目巡禮之中發佈讓以前的歌手再次發光發熱的節目](../Page/2015無綫節目巡禮.md "wikilink")《我要再成名》的（製作）計劃，其後於2017年製作同類的懷舊音樂節目[流行經典50年](../Page/流行經典50年.md "wikilink")。
 
 ## 記事
 

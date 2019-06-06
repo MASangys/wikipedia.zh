@@ -66,7 +66,7 @@
   - [山崎洋子](../Page/山崎洋子.md "wikilink")（作家）
   - [渡邊謙](../Page/渡邊謙.md "wikilink")（演員）
   - 加納みゆき（演員）
-  - [千代之富士貢](https://zh.wikipedia.org/wiki/千代之富士貢 "wikilink")（本名:秋元貢，[相撲選手](../Page/相撲.md "wikilink")
+  - [千代之富士貢](../Page/千代之富士貢.md "wikilink")（本名:秋元貢，[相撲選手](../Page/相撲.md "wikilink")
     - [横綱](https://zh.wikipedia.org/wiki/横綱 "wikilink")）
   - [中野正之](https://zh.wikipedia.org/wiki/中野正之 "wikilink") (NHK番組制作局長)
 

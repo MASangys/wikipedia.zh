@@ -6,6 +6,8 @@ S4。\[2\]
 
 後來的J系列定位更改為中階智慧型手機，J已經不代表一開始的日系，而是Junior的意思，與中國品牌手機定位的青春版意思較接近。
 
+三星為了簡化生產線，在2019年宣布將入門J系列納入Galaxy A，由現在開始J系列將不會再推出新型號。\[3\]
+
 ## 爭議
 
 ### 不支持 S Pen
@@ -18,7 +20,7 @@ S4。\[2\]
 
 ### 升級 Android L
 
-目前日本docomo於2015年10月1日將Galaxy J(型號:SC-02F)升級至5.0 \[3\]。
+目前日本docomo於2015年10月1日將Galaxy J(型號:SC-02F)升級至5.0 \[4\]。
 
   - 2015年9月21日官方在J的版面貼出Lollipop使用手冊 (計畫在21日前開始)
   - 2015年10月底台灣官方回應"Galaxy J(型號:SGH-N075t)升級Android L 的更新。
@@ -41,45 +43,47 @@ S4。\[2\]
 
 三星Galaxy J2
 
-[三星Galaxy J5](../Page/三星Galaxy_J5.md "wikilink")\[4\]
+[三星Galaxy J5](../Page/三星Galaxy_J5.md "wikilink")\[5\]
 
-[三星Galaxy J7](../Page/三星Galaxy_J7.md "wikilink")\[5\]
+[三星Galaxy J7](../Page/三星Galaxy_J7.md "wikilink")\[6\]
 
 ### 2016年
 
-[三星Galaxy J2 Prime](../Page/三星Galaxy_J2_Prime.md "wikilink")\[6\]
+三星Galaxy J1(2016)
 
-[三星Galaxy J5 (2016)](../Page/三星Galaxy_J5_\(2016\).md "wikilink")\[7\]
+[三星Galaxy J2 Prime](../Page/三星Galaxy_J2_Prime.md "wikilink")\[7\]
 
-[三星Galaxy J7 (2016)](../Page/三星Galaxy_J7_\(2016\).md "wikilink")\[8\]
+[三星Galaxy J5 (2016)](../Page/三星Galaxy_J5_\(2016\).md "wikilink")\[8\]
+
+[三星Galaxy J7 (2016)](../Page/三星Galaxy_J7_\(2016\).md "wikilink")\[9\]
 
 [三星Galaxy J5 Prime](../Page/三星Galaxy_J5_Prime.md "wikilink")
 
-[三星Galaxy J7 Prime](../Page/三星Galaxy_J7_Prime.md "wikilink")\[9\]
+[三星Galaxy J7 Prime](../Page/三星Galaxy_J7_Prime.md "wikilink")\[10\]
 
 ### 2017年
 
-[三星Galaxy J3 Pro](../Page/三星Galaxy_J3_Pro.md "wikilink")\[10\]
+[三星Galaxy J3 Pro](../Page/三星Galaxy_J3_Pro.md "wikilink")\[11\]
 
 [三星Galaxy J5
 Pro](https://zh.wikipedia.org/wiki/三星Galaxy_J5_Pro "wikilink")
 
-[三星Galaxy J7 Pro](../Page/三星Galaxy_J7_Pro.md "wikilink")\[11\]
+[三星Galaxy J7 Pro](../Page/三星Galaxy_J7_Pro.md "wikilink")\[12\]
 
-[三星Galaxy J7+](../Page/三星Galaxy_J7+.md "wikilink")\[12\]
+[三星Galaxy J7+](../Page/三星Galaxy_J7+.md "wikilink")\[13\]
 
 ### 2018年
 
 [三星Galaxy J2 Pro
-(2018)](../Page/三星Galaxy_J2_Pro_\(2018\).md "wikilink")\[13\]\[14\]
+(2018)](../Page/三星Galaxy_J2_Pro_\(2018\).md "wikilink")\[14\]\[15\]
 
 [三星Galaxy J4
-(2018)](../Page/三星Galaxy_J4_\(2018\).md "wikilink")\[15\]\[16\]\[17\]\[18\]
+(2018)](../Page/三星Galaxy_J4_\(2018\).md "wikilink")\[16\]\[17\]\[18\]\[19\]
 
 [三星Galaxy J6
-(2018)](../Page/三星Galaxy_J6_\(2018\).md "wikilink")\[19\]\[20\]\[21\]\[22\]\[23\]
+(2018)](../Page/三星Galaxy_J6_\(2018\).md "wikilink")\[20\]\[21\]\[22\]\[23\]\[24\]
 
-[三星Galaxy J8](../Page/三星Galaxy_J8.md "wikilink")\[24\]
+[三星Galaxy J8](../Page/三星Galaxy_J8.md "wikilink")\[25\]
 
 三星Galaxy J6+
 
@@ -96,9 +100,9 @@ Pro](https://zh.wikipedia.org/wiki/三星Galaxy_J5_Pro "wikilink")
 2.   ePrice 比價王|accessdate=2017-12-23|last=比價王|first=ePrice|work=ePrice
     比價王|language=zh-TW}}
 
-3.  <https://www.nttdocomo.co.jp/info/notice/page/150604_01_m.html>
+3.
 
-4.
+4.  <https://www.nttdocomo.co.jp/info/notice/page/150604_01_m.html>
 
 5.
 
@@ -118,26 +122,28 @@ Pro](https://zh.wikipedia.org/wiki/三星Galaxy_J5_Pro "wikilink")
 
 13.
 
-14.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice
+14.
+
+15.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice
     比價王|language=zh-TW}}
 
-15.
+16.
 
-16.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice
+17.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice
     比價王|language=zh-TW}}
 
-17.
+18.
 
-18.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice
+19.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice
     比價王|language=zh-TW}}
 
-19.
+20.
 
-20.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice
+21.  ePrice 比價王|accessdate=2018-05-22|last=比價王|first=ePrice|work=ePrice
     比價王|language=zh-TW}}
-
-21.
 
 22.
+
 23.
 24.
+25.

@@ -222,7 +222,6 @@ Colony)，但是卻有異於傳統開放式殖民地的漏斗形狀。位置設�
   - 第2任:[派屈克·薩拉](https://zh.wikipedia.org/wiki/派屈克·薩拉 "wikilink")
   - 代理:艾琳·卡納巴（臨時議長）
   - 第3任:[吉伯特·杜蘭朵](https://zh.wikipedia.org/wiki/吉伯特·杜蘭朵 "wikilink")（ギルバート・デュランダル）
-  - 第4任:[拉克絲·克萊因](../Page/拉克絲·克萊因.md "wikilink")
 
 ### ZAFT
 

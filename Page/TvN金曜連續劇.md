@@ -610,7 +610,7 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年6月－<br />
+<td style="text-align: center;"><p>2019年9月－<br />
 2019年</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/千里馬超市" title="wikilink">千里馬超市</a><br />
 </p></td>

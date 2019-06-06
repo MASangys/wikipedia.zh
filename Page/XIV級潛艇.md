@@ -67,26 +67,12 @@ XIV級潛艇是以[IX級潛艇作為基礎設計的運輸潛艇](../Page/IX級�
 ## 相關條目
 
   - [U艇](https://zh.wikipedia.org/wiki/U型潛艇 "wikilink")
-
-<!-- end list -->
-
   - [I級潛艇](../Page/I級潛艇.md "wikilink")
-
-<!-- end list -->
-
   - [VII級潛艇](../Page/VII級潛艇.md "wikilink")
-
-<!-- end list -->
-
   - [IX級潛艇](../Page/IX級潛艇.md "wikilink")
-
-<!-- end list -->
-
   - [XXI級潛艇](../Page/XXI級潛艇.md "wikilink")
-
-<!-- end list -->
-
   - [XXIII級潛艇](../Page/XXIII級潛艇.md "wikilink")
 
 [Category:德國潛艦](https://zh.wikipedia.org/wiki/Category:德國潛艦 "wikilink")
 [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
+[Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")

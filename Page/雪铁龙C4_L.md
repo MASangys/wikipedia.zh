@@ -13,7 +13,7 @@ L提供的是功率150马力（EP6DT）与170马力版本（EP6DTS?），目前�
 ## 外部链接
 
   - [东风雪铁龙官方网站](https://web.archive.org/web/20130913111740/http://www.dongfeng-citroen.com.cn/citroen/index.shtml)
-  - [雪铁龙C4L中文官方网站](http://www.dongfeng-citroen.com.cn/citroen/cx/xc/c4l/index.shtml)
+  - [雪铁龙C4L中文官方网站](https://web.archive.org/web/20130807083025/http://www.dongfeng-citroen.com.cn/citroen/cx/xc/c4l/index.shtml)
 
 [fr:Citroën C4
 (2010)\#C4L](https://zh.wikipedia.org/wiki/fr:Citroën_C4_\(2010\)#C4L "wikilink")

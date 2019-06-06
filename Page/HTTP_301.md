@@ -3,7 +3,7 @@
 Code）。可以简单地理解为该资源已经被永久改变了位置\[1\]，通常会发送[HTTP
 Location来](../Page/HTTP_Location.md "wikilink")[重定向到正确的新位置](https://zh.wikipedia.org/wiki/重定向 "wikilink")。
 
-返回301请求码进行跳转被[Google认为是将网站地址由](../Page/Google.md "wikilink") HTTP 迁移到
+返回301状态码进行跳转被[Google认为是将网站地址由](../Page/Google.md "wikilink") HTTP 迁移到
 [HTTPS](https://zh.wikipedia.org/wiki/HTTPS "wikilink") 的最佳方法。\[2\]
 
 ## 定义

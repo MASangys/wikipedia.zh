@@ -106,6 +106,7 @@ ENTERTAINMENT**。而公司旗下三個樂團[FTIsland](../Page/FTIsland.md "wik
 
   - 3月14日，FNC正式宣布[崔鍾訓退出](../Page/崔鍾訓.md "wikilink")[FTIsland](../Page/FTIsland.md "wikilink")。
   - 4月26日，FNC正式宣布[HONEYST解散](../Page/HONEYST.md "wikilink")。
+  - 5月13日，FNC宣布[權珉娥合約到期不續約](https://zh.wikipedia.org/wiki/權珉娥 "wikilink")，退出[AOA並離開公司](../Page/AOA.md "wikilink")，前成員[草娥也結束合約](https://zh.wikipedia.org/wiki/草娥 "wikilink")，離開公司。
 
 ## 現有藝人
 
@@ -150,24 +151,15 @@ ENTERTAINMENT**。而公司旗下三個樂團[FTIsland](../Page/FTIsland.md "wik
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴草娥" title="wikilink">草娥</a></p></td>
-<td></td>
-<td><p>女</p></td>
-<td><p>2015年12月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/AOA_(韓國)" title="wikilink">AOA</a>（前成員）</p></td>
-<td><p>ELVIS</p></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/李宗泫.md" title="wikilink">李宗泫</a></p></td>
 <td></td>
-<td><p>男</p></td>
 <td><p>2016年7月27日</p></td>
 <td><p><a href="../Page/CNBLUE.md" title="wikilink">CNBLUE</a></p></td>
 <td><p>Boice</p></td>
 <td></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>吳昇錫</p></td>
 <td><p>오승석</p></td>
 <td><p>約滿前組合解散<br />
@@ -177,7 +169,7 @@ Solo未出道的狀態</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>金哲敏</p></td>
 <td><p>김철민</p></td>
 <td></td>
@@ -186,7 +178,7 @@ Solo未出道的狀態</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>徐東成</p></td>
 <td><p>서동성</p></td>
 <td></td>
@@ -195,7 +187,7 @@ Solo未出道的狀態</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>金歡</p></td>
 <td><p>김환</p></td>
 <td></td>
@@ -261,7 +253,7 @@ Solo未出道的狀態</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/申智珉" title="wikilink">智珉</a></strong>{{·}}<a href="https://zh.wikipedia.org/wiki/徐酉奈" title="wikilink">酉奈</a>{{·}}<a href="https://zh.wikipedia.org/wiki/申惠晶" title="wikilink">惠晶</a><br />
-<a href="https://zh.wikipedia.org/wiki/珉阿" title="wikilink">珉阿</a>{{·}}<a href="https://zh.wikipedia.org/wiki/金雪炫" title="wikilink">雪炫</a>{{·}}<a href="https://zh.wikipedia.org/wiki/金澯美" title="wikilink">澯美</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/金雪炫" title="wikilink">雪炫</a>{{·}}<a href="https://zh.wikipedia.org/wiki/金澯美" title="wikilink">澯美</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2015年5月20日</p></td>
@@ -512,6 +504,8 @@ band)展開競賽\[8\]，節目最終由舞團隊勝出，以[SF9之名在](http
   - [吳元斌](../Page/吳元斌.md "wikilink")（[FTIsland](../Page/FTIsland.md "wikilink")）
   - [崔鍾訓](../Page/崔鍾訓.md "wikilink")（[FTIsland](../Page/FTIsland.md "wikilink")）
   - [徐有慶](https://zh.wikipedia.org/wiki/徐有慶 "wikilink")（[AOA](../Page/AOA.md "wikilink")）
+  - [朴草娥](https://zh.wikipedia.org/wiki/朴草娥 "wikilink")（[AOA](../Page/AOA.md "wikilink")）
+  - [權珉娥](https://zh.wikipedia.org/wiki/權珉娥 "wikilink")（[AOA](../Page/AOA.md "wikilink")）
 
 <!-- end list -->
 
@@ -557,7 +551,7 @@ band)展開競賽\[8\]，節目最終由舞團隊勝出，以[SF9之名在](http
   - 高宥辰（《[Produce
     48](https://zh.wikipedia.org/wiki/Produce_48 "wikilink")》）
 
-  - 金鐘孝（音樂家）
+  - J-HYO（[LC9](../Page/LC9.md "wikilink")）
 
   - [李準](../Page/李準_\(歌手\).md "wikilink")（歌手、演員）
 
@@ -579,7 +573,7 @@ band)展開競賽\[8\]，節目最終由舞團隊勝出，以[SF9之名在](http
 
   - 卓真奎（《[少年24](../Page/BOYS24.md "wikilink")》）
 
-  - 李輝燦（ONO 練習生）
+  - [李輝燦](../Page/LIMITLESS_\(男子團體\).md "wikilink")（[LIMITLESS](../Page/LIMITLESS_\(男子團體\).md "wikilink")）
 
 ## 電視劇製作
 

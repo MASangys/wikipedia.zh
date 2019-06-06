@@ -71,8 +71,8 @@ Interaction公司提供基于SMI科技的myGaze®眼动仪及多项针对无障�
     . Reuters. Retrieved April 17, 2015.
 8.  Stephen Hall (April 16, 2015). [SMI’s Google Glass eye-tracking
     prototype is
-    impressive](http://www.googleglassfans.com/archives/6481/smis-google-glass-eye-tracking).
-    Google Glass Fans. Retrieved April 17, 2015.
+    impressive](http://www.googleglassfans.com/archives/6481/smis-google-glass-eye-tracking)
+    . Google Glass Fans. Retrieved April 17, 2015.
 9.  Jamie Feltham (November 17, 2014). [SMI Launches Oculus Rift Eye
     Tracking Upgrade
     Package](http://vrfocus.com/archives/8818/smi-lanches-oculus-rift-eye-tracking-upgrade-package/).

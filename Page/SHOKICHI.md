@@ -93,12 +93,12 @@ SECOND\#音樂作品](https://zh.wikipedia.org/wiki/EXILE_THE_SECOND#音樂作�
 
 1.  Back 2U（2017年10月20日）
 2.  我是為了與你相遇而出生 （2019年3月14日）
-3.  Psychedelic Romance feat. SALU（2019年4月17日）
+3.  迷幻浪漫 feat. SALU（2019年4月17日）
 
 ### 專輯
 
 1.  [THE FUTURE](../Page/THE_FUTURE.md "wikilink") (2016年4月27日) - 5位
-2.  1114 (2019年5月15日)
+2.  1114 (2019年5月15日) - 3位
 
 ### 翻唱曲
 
@@ -268,30 +268,114 @@ SECOND\#音樂作品](https://zh.wikipedia.org/wiki/EXILE_THE_SECOND#音樂作�
 
 ### 演唱會、活動
 
-  - VBA LIVE TOUR 2012 VOCAL BATTLE STAGE
-      - 2012年2月29日・3月1日 大阪・[Zepp
-        Osaka](https://zh.wikipedia.org/wiki/Zepp_Osaka "wikilink")
-      - 2012年3月6日・7日 東京・[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")
-  - EXILE ATSUSHI PREMIUM LIVE 2012 〜命をうたう〜（2012年10月 - 11月）\[41\]
-  - VOCAL BATTLE STAGE 2014\[42\]
-      - 2014年4月24日・25日 東京・[日本武道館](../Page/日本武道館.md "wikilink")
-  - SAPPORO COLLECTION2015\[43\]
-      - 2015年4月25日 北海きたえーる（北海道立総合体育センター）
-  - フジテレビお台場夢大陸スペシャルイベ ント 【EXILE SHOKICHI SPECIAL LIVE】\[44\]
-      - 2015年7月18日 　夢大陸オマツリランド内　「SUMMER GATE スタジアム」
-  - J-WAVE LIVE SUMMER JAM 2015\[45\]
-      - 2015年8月9日
-        東京・[国立代々木競技場第一体育館](https://zh.wikipedia.org/wiki/国立代々木競技場第一体育館 "wikilink")
-  - EXILE SHOKICHI presents THE SHOW TIME Vol.1 ～IGNITION Release
-    Party～\[46\]
-      - 2015年11月5日 大阪・Zeppなんば大阪
-          - 1st Stage: THE SHOW TIME ～BLUE～（開場12：30 / 開演13：30）
-          - 2nd Stage: THE SHOW TIME ～BLACK～（開場15：30 / 開演16：30）
-          - 3rd Stage: THE SHOW TIME ～RED～（開場18：30 / 開演19：30）
-      - 2015年11月9日 東京・Zeppダイバーシティ東京
-          - 1st Stage: THE SHOW TIME ～BLUE～（開場12：30 / 開演13：30）
-          - 2nd Stage: THE SHOW TIME ～BLACK～（開場15：30 / 開演16：30）
-          - 3rd Stage: THE SHOW TIME ～RED～（開場18：30 / 開演19：30）
+<div class="NavFrame" style="clear: both; border:0;">
+
+<div class="NavHead" style="text-align: left;">
+
+VBA LIVE TOUR 2012 VOCAL BATTLE STAGE
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - 2012年2月29日・3月1日 大阪・[Zepp
+    Osaka](https://zh.wikipedia.org/wiki/Zepp_Osaka "wikilink")
+  - 2012年3月6日・7日 東京・[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;">
+
+<div class="NavHead" style="text-align: left;">
+
+EXILE ATSUSHI PREMIUM LIVE 2012 〜命をうたう〜（2012年10月 - 11月）\[41\]
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;">
+
+<div class="NavHead" style="text-align: left;">
+
+VOCAL BATTLE STAGE 2014\[42\]
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - 2014年4月24日・25日 東京・[日本武道館](../Page/日本武道館.md "wikilink")
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;">
+
+<div class="NavHead" style="text-align: left;">
+
+フジテレビお台場夢大陸スペシャルイベ ント 【EXILE SHOKICHI SPECIAL LIVE】\[43\]
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - 2015年7月18日 　夢大陸オマツリランド内　「SUMMER GATE スタジアム」
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;">
+
+<div class="NavHead" style="text-align: left;">
+
+EXILE SHOKICHI presents THE SHOW TIME Vol.1 ～IGNITION Release
+Party～\[44\]
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - 2015年11月5日 大阪・Zeppなんば大阪
+      - 1st Stage: THE SHOW TIME ～BLUE～（開場12：30 / 開演13：30）
+      - 2nd Stage: THE SHOW TIME ～BLACK～（開場15：30 / 開演16：30）
+      - 3rd Stage: THE SHOW TIME ～RED～（開場18：30 / 開演19：30）
+  - 2015年11月9日 東京・Zeppダイバーシティ東京
+      - 1st Stage: THE SHOW TIME ～BLUE～（開場12：30 / 開演13：30）
+      - 2nd Stage: THE SHOW TIME ～BLACK～（開場15：30 / 開演16：30）
+      - 3rd Stage: THE SHOW TIME ～RED～（開場18：30 / 開演19：30）
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;">
+
+<div class="NavHead" style="text-align: left;">
+
+EXILE SHOKICHI LIVE TOUR 2019 "UNDERDOGG"\[45\]
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - 6月29日：長野・[長野ビッグハット](https://zh.wikipedia.org/wiki/長野ビッグハット "wikilink")
+  - 7月03日、7月04日：埼玉・[さいたまスーパーアリーナ](https://zh.wikipedia.org/wiki/さいたまスーパーアリーナ "wikilink")
+  - 7月27日：静岡・[静岡エコパアリーナ](https://zh.wikipedia.org/wiki/静岡エコパアリーナ "wikilink")
+  - 8月17日：福岡・[マリンメッセ福岡](https://zh.wikipedia.org/wiki/マリンメッセ福岡 "wikilink")
+  - 9月11日、9月12日：大阪・[大阪城ホール](https://zh.wikipedia.org/wiki/大阪城ホール "wikilink")
+  - 9月15日：北海道・[北海きたえーる](https://zh.wikipedia.org/wiki/北海きたえーる "wikilink")
+
+</div>
+
+</div>
 
 ## 備註
 
@@ -398,13 +482,8 @@ SECOND\#音樂作品](https://zh.wikipedia.org/wiki/EXILE_THE_SECOND#音樂作�
 
 43.
 
-44.
-
-45. [【写真レポート】三代目 J SOUL BROTHERS今市隆二がJ-WAVELIVE SUMMER
-    JAM 2015の大トリで初のソロステージ！
-    WWSチャンネル 2014年8月21日閲覧](http://www.wws-channel.com/music/j-wave_live_2015/imaichiryuji.html)
-
-
-46. [EXILE SHOKICHI presents THE SHOW TIME Vol.1 ～IGNITION Release
+44. [EXILE SHOKICHI presents THE SHOW TIME Vol.1 ～IGNITION Release
     Party～
     続報！ 2015年10月16日閲覧](http://exile-shokichi.jp/news/detail.php?id=1027724)
+
+45.

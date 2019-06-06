@@ -53,7 +53,7 @@
 <td><p>2017</p></td>
 <td><p><a href="../Page/超惑星戰記ZERO.md" title="wikilink">超惑星戰記ZERO</a></p></td>
 <td><p>ブラスターマスター ゼロ</p></td>
-<td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a>、<a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a></p></td>
+<td><p><a href="../Page/任天堂3DS.md" title="wikilink">任天堂3DS</a>、<a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td><p>FC時期《<a href="https://zh.wikipedia.org/wiki/超惑星戰記" title="wikilink">超惑星戰記</a>》的重製版</p></td>
 </tr>
 <tr class="odd">
@@ -81,7 +81,7 @@
 <td><p>2018</p></td>
 <td></td>
 <td><p>ぎゃる☆がん2</p></td>
-<td><p><a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a></p></td>
+<td><p><a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -106,10 +106,10 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>未定</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/白色鋼鐵X_THE_OUT_OF_GUNVOLT" title="wikilink">白色鋼鐵X THE OUT OF GUNVOLT</a></p></td>
-<td><p>白き鋼鉄X The out of Gunvolt</p></td>
-<td><p><a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a></p></td>
+<td><p>2019</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/銀白鋼鐵_X_THE_OUT_OF_GUNVOLT" title="wikilink">銀白鋼鐵 X THE OUT OF GUNVOLT</a></p></td>
+<td><p>白き鋼鉄のX THE OUT OF GUNVOLT</p></td>
+<td><p><a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a>、<a href="../Page/PlayStation_4.md" title="wikilink">PlayStation 4</a>、<a href="https://zh.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Microsoft Windows</a></p></td>
 <td><p>《蒼藍雷霆 鋼佛特》系列的外傳作品</p></td>
 </tr>
 </tbody>

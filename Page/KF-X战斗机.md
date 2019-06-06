@@ -5,7 +5,20 @@
 
 ## 参数信息
 
-## 参阅
+## 參見
+
+### 各國的第五代戰機
+
+  - [F-22](https://zh.wikipedia.org/wiki/F-22 "wikilink")
+  - [F-35](https://zh.wikipedia.org/wiki/F-35 "wikilink")
+  - [ATD-X](https://zh.wikipedia.org/wiki/ATD-X "wikilink")
+  - [Su-57](https://zh.wikipedia.org/wiki/Su-57 "wikilink")
+  - [J-20](https://zh.wikipedia.org/wiki/J-20 "wikilink")
+  - [J-31](https://zh.wikipedia.org/wiki/J-31 "wikilink")
+
+## 資料來源
+
+## 外部連結
 
 [Category:韓國戰鬥機](https://zh.wikipedia.org/wiki/Category:韓國戰鬥機 "wikilink")
 

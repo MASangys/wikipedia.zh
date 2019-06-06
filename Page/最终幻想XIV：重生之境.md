@@ -168,7 +168,7 @@ Informer](../Page/Game_Informer.md "wikilink")》、ZAM和Joystiq的年度最佳
 [Category:Windows游戏](https://zh.wikipedia.org/wiki/Category:Windows游戏 "wikilink")
 [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
 [Category:文明崩潰後世界題材遊戲](https://zh.wikipedia.org/wiki/Category:文明崩潰後世界題材遊戲 "wikilink")
-[Category:盛大游戏](https://zh.wikipedia.org/wiki/Category:盛大游戏 "wikilink")
+[Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink")
 [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
 
 1.

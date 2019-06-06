@@ -1,4 +1,4 @@
-**ArtePiazza**（，[罗马字](https://zh.wikipedia.org/wiki/平文式罗马字 "wikilink")：）是日本电子游戏开发商及[计算机图形工作室](../Page/计算机图形.md "wikilink")。公司名字由意大利单词“艺术”和“广场”组合而成\[1\]。
+**ArtePiazza**（，[罗马字](../Page/平文式罗马字.md "wikilink")：）是日本电子游戏开发商及[计算机图形工作室](../Page/计算机图形.md "wikilink")。公司名字由意大利单词“艺术”和“广场”组合而成\[1\]。
 
 公司以为[艾尼克斯](../Page/艾尼克斯.md "wikilink")（现[史克威尔艾尼克斯](../Page/史克威尔艾尼克斯.md "wikilink")）开发多部[勇者斗恶龙作品而知名](https://zh.wikipedia.org/wiki/勇者斗恶龙 "wikilink")。虽然ArtePiazza主要是负责CG设计以及为一些早期作品设计插图，但它们也参与了加强重制的工作。其中包括[PlayStation
 2重制版](../Page/PlayStation_2.md "wikilink")《[勇者斗恶龙V](https://zh.wikipedia.org/wiki/勇者斗恶龙V "wikilink")》，以及[任天堂DS重制版的](../Page/任天堂DS.md "wikilink")《[勇者斗恶龙IV](https://zh.wikipedia.org/wiki/勇者斗恶龙IV "wikilink")》、《勇者斗恶龙V》及《[勇者斗恶龙VI](https://zh.wikipedia.org/wiki/勇者斗恶龙VI "wikilink")》\[2\]。

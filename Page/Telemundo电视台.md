@@ -17,5 +17,8 @@ Mundo的广播电台。
   - [官方网站](http://www.telemundo.com)
 
 [Category:電視頻道](https://zh.wikipedia.org/wiki/Category:電視頻道 "wikilink")
+[Category:美國電視網](https://zh.wikipedia.org/wiki/Category:美國電視網 "wikilink")
 [Category:西班牙语电视频道](https://zh.wikipedia.org/wiki/Category:西班牙语电视频道 "wikilink")
 [Category:美國電視台](https://zh.wikipedia.org/wiki/Category:美國電視台 "wikilink")
+[Category:1952年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1952年成立的电视台或电视频道 "wikilink")
+[Category:1984年成立的电视台或电视频道](https://zh.wikipedia.org/wiki/Category:1984年成立的电视台或电视频道 "wikilink")

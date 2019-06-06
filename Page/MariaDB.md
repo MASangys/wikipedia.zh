@@ -114,12 +114,10 @@ zh-tw:新增}-了一些功能，以支持原生的非阻塞操作和进度报告
 ### 客户端
 
   - [DBEdit](../Page/DBEdit.md "wikilink") 一个免费的MariaDB数据库和其他数据库管理应用程序。
-
   - [Navicat](../Page/Navicat.md "wikilink") 一系列Windows、Mac OS
     X、Linux下专有数据库管理应用程序。
-
-  - 一个Windows上自由和开放源码的MySQL客户端。它支持MariaDB的5.2.7版本和以后的版本。\[27\]\[28\]
-
+  - [HeidiSQL](../Page/HeidiSQL.md "wikilink")
+    一个Windows上自由和开放源码的MySQL客户端。它支持MariaDB的5.2.7版本和以后的版本。\[27\]\[28\]
   - [phpMyAdmin](https://zh.wikipedia.org/wiki/phpMyAdmin "wikilink")
     一个基于网络的MySQL数据库管理应用程序
 
@@ -148,7 +146,8 @@ zh-tw:新增}-了一些功能，以支持原生的非阻塞操作和进度报告
   - [Chakra
     Linux](https://zh.wikipedia.org/wiki/Chakra_Linux "wikilink")\[31\]
   - [Fedora](../Page/Fedora.md "wikilink")（从Fedora 19起）\[32\]
-  - [Gentoo Linux](../Page/Gentoo_Linux.md "wikilink")\[33\]
+  - [GentOS
+    Linux](https://zh.wikipedia.org/wiki/GentOS_Linux "wikilink")\[33\]
   - [Google](../Page/Google.md "wikilink")\[34\]\[35\]
   - [Mozilla基金会](https://zh.wikipedia.org/wiki/Mozilla基金会 "wikilink")\[36\]
   - [OpenBSD](../Page/OpenBSD.md "wikilink")\[37\]\[38\] (from 5.7)

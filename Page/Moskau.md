@@ -31,6 +31,8 @@
   - 捷克滑稽乐团Los Rotopedos在2012年改编了这首歌，随后歌曲登上了[Český
     slavík歌曲荣誉的前十名](https://zh.wikipedia.org/wiki/Český_slavík "wikilink")。
   - [2018年世界盃足球賽時](https://zh.wikipedia.org/wiki/2018年世界盃足球賽 "wikilink")，這首歌曲被重新錄製，並免費下載。
+  - 台灣[中華職棒](https://zh.wikipedia.org/wiki/中華職棒 "wikilink")[Lamigo桃猿隊的應援曲](https://zh.wikipedia.org/wiki/Lamigo桃猿 "wikilink")《Let's
+    go Lamigo》。
 
 ## 参考文献
 

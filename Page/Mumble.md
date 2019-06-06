@@ -25,19 +25,19 @@ X與](https://zh.wikipedia.org/wiki/OS_X "wikilink")[Linux上](../Page/Linux.md 
 
 ## 注釋
 
-## 參考資料
+## 参考文献
 
-## 相關條目
+## 外部連結
+
+  -
+  -
+## 参见
 
   - [TeamSpeak](../Page/TeamSpeak.md "wikilink")
 
   -
   - [VoIP軟體的比較](../Page/VoIP軟體的比較.md "wikilink")
 
-## 外部連結
-
-  -
-  -
 [Category:VoIP軟體](https://zh.wikipedia.org/wiki/Category:VoIP軟體 "wikilink")
 
 1.

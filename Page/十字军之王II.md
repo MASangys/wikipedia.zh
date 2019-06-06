@@ -30,7 +30,7 @@ DLC包括下列內容：\[11\]\[12\]
 
 #### 家族盾徽包I、II、III及查理曼盾徽包
 
-將歷史上顯赫家族的家徽從隨機生成升級為专属家徽，包括[卡佩家族的](../Page/卡佩王朝.md "wikilink")[法蘭西百合](https://zh.wikipedia.org/wiki/百合花飾 "wikilink")、[加洛林之鷹](https://zh.wikipedia.org/wiki/卡洛林王朝 "wikilink")、[哈布斯堡雄獅](../Page/哈布斯堡王朝.md "wikilink")…等。
+將歷史上顯赫家族的家徽從隨機生成升級為专属家徽，包括[卡佩家族的](../Page/卡佩王朝.md "wikilink")[法蘭西百合](../Page/百合花飾.md "wikilink")、[加洛林之鷹](https://zh.wikipedia.org/wiki/卡洛林王朝 "wikilink")、[哈布斯堡雄獅](../Page/哈布斯堡王朝.md "wikilink")…等。
 
 #### 民族肖像
 

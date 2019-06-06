@@ -23,9 +23,11 @@ Falls》\[10\]。 2010年11月，曾被邀請到新加坡的 Timbre
 表演；2011年的1月及4月也曾到[台北的](https://zh.wikipedia.org/wiki/台北 "wikilink")
 A House 演出。
 
+2019年，《明陣》，是Robynn（葉晴晴）婚後重回工作軌道的第一擊，《負攝石》《明陣》均收錄在四月推出的新碟中。\[11\]
+
 ### Kendy（孫曉慧）
 
-Kendy（孫曉慧）中學時於[瑪利曼中學就讀](../Page/瑪利曼中學.md "wikilink")，其後因受任職金融界的父親影響，到[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦政治經濟學院主修經濟學](../Page/倫敦政治經濟學院.md "wikilink")\[11\]，在留學期間考獲皇家音樂聲樂八級文憑及[倫敦音樂學校音樂表演證書](https://zh.wikipedia.org/wiki/倫敦音樂學校 "wikilink")。2010年畢業返港後曾於銀行界工作，並為作曲人唱Demo及作曲\[12\]。
+Kendy（孫曉慧）中學時於[瑪利曼中學就讀](../Page/瑪利曼中學.md "wikilink")，其後因受任職金融界的父親影響，到[英國](https://zh.wikipedia.org/wiki/英國 "wikilink")[倫敦政治經濟學院主修經濟學](../Page/倫敦政治經濟學院.md "wikilink")\[12\]，在留學期間考獲皇家音樂聲樂八級文憑及[倫敦音樂學校音樂表演證書](https://zh.wikipedia.org/wiki/倫敦音樂學校 "wikilink")。2010年畢業返港後曾於銀行界工作，並為作曲人唱Demo及作曲\[13\]。
 
 Kendy在英國求學時開始接觸[吉他](../Page/吉他.md "wikilink")，並從此愛上了彈吉他。從學校宿舍，到lounge和open
 mic的表演，都吉他不離手。但她印象最深刻卻是加入了英國青年音樂劇團（Youth Music Theatre UK
@@ -61,6 +63,8 @@ Away》專輯拍攝了6首非主打歌的MV，整個拍攝過程都是她們和�
 2014年參加[浙江衛視節目](https://zh.wikipedia.org/wiki/浙江衛視 "wikilink")《[中國好聲音](https://zh.wikipedia.org/wiki/中國好聲音 "wikilink")》第三季，演唱《思念是一種病》和《說你愛我
 x I Swear》晉級楊坤組8強。
 
+2019年，Robynn & Kendy計劃舉行演唱會。\[14\]
+
 ## 音樂作品
 
 ### 音樂專輯
@@ -88,11 +92,11 @@ x I Swear》晉級楊坤組8強。
 <td style="text-align: left;"><p><strong>CD 1</strong></p>
 <ol>
 <li><strong>翻牆</strong></li>
-<li><strong>不用太趕</strong>(那些回憶廣東版)</li>
+<li><strong>不用太趕</strong></li>
 <li><strong>小說伴咖啡</strong></li>
 <li>生活與生存</li>
 <li><strong>Sunset</strong></li>
-<li>那些回憶(不用太趕國語版)</li>
+<li>那些回憶（不用太趕國語版）</li>
 </ol>
 <p><strong>CD 2</strong></p>
 <ol>
@@ -105,9 +109,9 @@ x I Swear》晉級楊坤組8強。
 <p><strong>DVD</strong></p>
 <ol>
 <li>MAKING OF</li>
-<li><strong>翻牆</strong> MV</li>
-<li><strong>小說伴咖啡</strong> MV</li>
-<li><strong>Sunset</strong> MV</li>
+<li>翻牆 MV</li>
+<li>小說伴咖啡 MV</li>
+<li>Sunset MV</li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -122,7 +126,7 @@ x I Swear》晉級楊坤組8強。
 <li><strong>小說伴咖啡</strong></li>
 <li>生活與生存</li>
 <li><strong>Sunset</strong></li>
-<li>那些回憶(不用太趕國語版)</li>
+<li>那些回憶（不用太趕國語版）</li>
 </ol>
 <p><strong>CD 2</strong></p>
 <ol>
@@ -134,21 +138,21 @@ x I Swear》晉級楊坤組8強。
 </ol>
 <p><strong>DVD Dream Together Live Part 1</strong></p>
 <ol>
-<li><strong>翻牆</strong></li>
+<li>翻牆</li>
 <li>你著幾號鞋</li>
 <li>你是我的女人</li>
 <li>那些回憶（國）</li>
 <li>呼吸需要</li>
 <li>親在我心裡</li>
 <li>生活與生存</li>
-<li><strong>Sunset</strong></li>
+<li>Sunset</li>
 <li>一百種生活</li>
 <li>找自己</li>
-<li><strong>小說伴咖啡</strong></li>
+<li>小說伴咖啡</li>
 <li>MAKING OF</li>
-<li><strong>翻牆</strong> MV</li>
-<li><strong>小說伴咖啡</strong> MV</li>
-<li><strong>Sunset</strong> MV</li>
+<li>翻牆 MV</li>
+<li>小說伴咖啡 MV</li>
+<li>Sunset MV</li>
 </ol></td>
 <td style="text-align: left;"></td>
 </tr>
@@ -162,9 +166,9 @@ x I Swear》晉級楊坤組8強。
 <ol>
 <li><strong>一顆星的故事</strong></li>
 <li><strong>無人島</strong></li>
-<li><strong>陶瓷娃娃</strong>(想怎樣廣東版)</li>
+<li><strong>陶瓷娃娃</strong></li>
 <li>或許</li>
-<li><strong>Say Goodbye</strong>(碳粉知己廣東版)</li>
+<li><strong>Say Goodbye</strong></li>
 </ol>
 <p><strong>CD 2</strong></p>
 <ol>
@@ -176,9 +180,9 @@ x I Swear》晉級楊坤組8強。
 </ol>
 <p><strong>DVD</strong></p>
 <ol>
-<li><strong>一顆星的故事</strong> MV</li>
-<li><strong>陶瓷娃娃</strong> MV(想怎樣廣東版)</li>
-<li>'''Say Goodbye '''(碳粉知己廣東版) MV</li>
+<li>一顆星的故事 MV</li>
+<li>陶瓷娃娃 MV</li>
+<li>Say Goodbye MV</li>
 </ol></td>
 </tr>
 <tr class="even">
@@ -190,9 +194,9 @@ x I Swear》晉級楊坤組8強。
 <ol>
 <li><strong>一顆星的故事</strong></li>
 <li><strong>無人島</strong></li>
-<li><strong>陶瓷娃娃</strong>(想怎樣廣東版)</li>
+<li><strong>陶瓷娃娃</strong></li>
 <li>或許</li>
-<li><strong>Say Goodbye</strong>(碳粉知己廣東版)</li>
+<li><strong>Say Goodbye</strong></li>
 </ol>
 <p><strong>CD 2</strong></p>
 <ol>
@@ -205,8 +209,8 @@ x I Swear》晉級楊坤組8強。
 <p><strong>DVD</strong></p>
 <ol>
 <li><em>' 一顆星的故事</em>' MV</li>
-<li><strong>陶瓷娃娃</strong>MV(想怎樣廣東版)</li>
-<li><strong>Say Goodbye</strong>(碳粉知己廣東版) MV</li>
+<li><strong>陶瓷娃娃</strong>MV</li>
+<li><strong>Say Goodbye</strong> MV</li>
 <li>有了你（新城鑽動真情音樂會Live）</li>
 <li>Flyaway（新城鑽動真情音樂會Live）</li>
 <li>陶瓷娃娃（新城鑽動真情音樂會Live）</li>
@@ -223,10 +227,10 @@ x I Swear》晉級楊坤組8強。
 <td style="text-align: left;"><ol>
 <li><strong>Sail Away</strong></li>
 <li>今天只講笑</li>
-<li><strong>La La La</strong>（Featuring Ghost Style） (我是傻瓜廣東版)</li>
+<li><strong>La La La</strong>（Featuring Ghost Style）</li>
 <li>公主病死了</li>
-<li>到你（Featuring The Exchange）</li>
-<li>不痛不癢(不想想你廣東版)</li>
+<li>到你（Feat. The Exchange）</li>
+<li>不痛不癢</li>
 <li><strong>第十行星</strong></li>
 <li><strong>Gonna Be Okay</strong></li>
 <li>Sail Away With Me</li>
@@ -241,10 +245,10 @@ x I Swear》晉級楊坤組8強。
 <td style="text-align: left;"><ol>
 <li><strong>Sail Away</strong></li>
 <li>今天只講笑</li>
-<li><strong>La La La</strong>（Featuring Ghost Style）(我是傻瓜廣東版)</li>
+<li><strong>La La La</strong>（Featuring Ghost Style）</li>
 <li>公主病死了</li>
-<li>到你（Featuring The Exchange）</li>
-<li>不痛不癢(不想想你廣東版)</li>
+<li>到你（Feat. The Exchange）</li>
+<li>不痛不癢</li>
 <li><strong>第十行星</strong></li>
 <li><strong>Gonna Be Okay</strong></li>
 <li>Sail Away With Me</li>
@@ -263,7 +267,7 @@ x I Swear》晉級楊坤組8強。
 <li><strong>Not Just Another Girl</strong></li>
 <li>降落傘</li>
 <li><strong>蝶亂飛</strong></li>
-<li><strong>月湖</strong>(幸福好寂寞廣東版)</li>
+<li><strong>月湖</strong></li>
 <li>My Home</li>
 <li>一切很美只因有你（Bonus Track）</li>
 <li>手望/笑忘書 Medley（Bonus Track）</li>
@@ -272,7 +276,7 @@ x I Swear》晉級楊坤組8強。
 <p><strong>CD 2 - The Scrapbook（Demo Versions）</strong></p>
 <ol>
 <li>Novel &amp; Coffee（小說伴咖啡）</li>
-<li>Sunset（Sunset）</li>
+<li>Sunset</li>
 <li>Fly Away（無人島）</li>
 <li>Stars（一顆星的故事）</li>
 <li>Between The Lines（陶瓷娃娃）</li>
@@ -303,21 +307,21 @@ x I Swear》晉級楊坤組8強。
 <td style="text-align: left;"><p><strong>CD</strong></p>
 <ol>
 <li><strong>想怎樣</strong>（feat. <a href="../Page/陳樂基.md" title="wikilink">陳樂基</a> &amp; <a href="https://zh.wikipedia.org/wiki/鄧小巧" title="wikilink">鄧小巧</a>）(陶瓷娃娃國語版)</li>
-<li>碳粉知己(Say Goodbye國語版)</li>
+<li>碳粉知己（Say Goodbye國語版）</li>
 <li><strong>我不完美</strong></li>
 <li><strong>如果一天有25小時</strong></li>
-<li>我是傻瓜(La La La國語版)</li>
-<li>不想想你(不痛不癢國語版)</li>
-<li>那些回憶(不用太趕國語版)</li>
-<li>幸福好寂寞(月湖國語版)</li>
-<li><strong>新一天</strong> (feat. <a href="../Page/林奕匡.md" title="wikilink">林奕匡</a>)</li>
+<li>我是傻瓜（La La La國語版）</li>
+<li>不想想你（不痛不癢國語版）</li>
+<li>那些回憶（不用太趕國語版）</li>
+<li>幸福好寂寞（月湖國語版）</li>
+<li><strong>新一天</strong>（feat. <a href="../Page/林奕匡.md" title="wikilink">林奕匡</a>）</li>
 </ol>
 <p><strong>DVD</strong></p>
 <ol>
-<li><strong>想怎樣 MV</strong>（feat. <a href="../Page/陳樂基.md" title="wikilink">陳樂基</a> &amp; <a href="https://zh.wikipedia.org/wiki/鄧小巧" title="wikilink">鄧小巧</a>）</li>
+<li>想怎樣 MV</li>
 <li>我不完美 MV</li>
 <li>如果一天有25小時 MV</li>
-<li><strong>新一天 MV</strong> (feat. <a href="../Page/林奕匡.md" title="wikilink">林奕匡</a>)</li>
+<li>新一天 MV (feat. <a href="../Page/林奕匡.md" title="wikilink">林奕匡</a>)</li>
 </ol></td>
 </tr>
 <tr class="odd">
@@ -326,7 +330,7 @@ x I Swear》晉級楊坤組8強。
 <td style="text-align: left;"><p>新曲+精選</p></td>
 <td style="text-align: left;"><p><a href="../Page/環球唱片_(香港).md" title="wikilink">環球唱片 (香港)</a></p></td>
 <td style="text-align: left;"><p>2019年4月26日</p></td>
-<td style="text-align: left;"><p>CD1</p>
+<td style="text-align: left;"><p>CD1 - 新曲</p>
 <ol>
 <li><strong>負攝石</strong></li>
 <li><strong>急救中</strong></li>
@@ -338,26 +342,26 @@ x I Swear》晉級楊坤組8強。
 <li><strong>荷光</strong></li>
 <li><strong>明陣</strong></li>
 </ol>
-<p>CD2</p>
+<p>CD2 - 精選</p>
 <ol>
-<li><strong>翻牆</strong></li>
-<li><strong>不用太趕</strong>(那些回憶廣東版)</li>
-<li><strong>小說伴咖啡</strong></li>
+<li>翻牆</li>
+<li>不用太趕</li>
+<li>小說伴咖啡</li>
 <li>生活與生存</li>
-<li><strong>Sunset</strong></li>
-<li><strong>一顆星的故事</strong></li>
-<li><strong>陶瓷娃娃</strong>(想怎樣廣東版)</li>
+<li>Sunset</li>
+<li>一顆星的故事</li>
+<li>陶瓷娃娃</li>
 <li>或許</li>
-<li><strong>Say Goodbye</strong>(碳粉知己廣東版)</li>
-<li><strong>Sail Away</strong></li>
-<li><strong>La La La</strong>（Featuring Ghost Style） (我是傻瓜廣東版)</li>
+<li>Say Goodbye</li>
+<li>Sail Away</li>
+<li>La La La（Featuring Ghost Style）</li>
 <li>公主病死了</li>
-<li>不痛不癢(不想想你廣東版)</li>
-<li><strong>第十行星</strong></li>
-<li><strong>Gonna Be Okay</strong></li>
-<li><strong>蝶亂飛</strong></li>
-<li><strong>月湖</strong>(幸福好寂寞廣東版)</li>
-<li><strong>我不完美</strong></li>
+<li>不痛不癢</li>
+<li>第十行星</li>
+<li>Gonna Be Okay</li>
+<li>蝶亂飛</li>
+<li>月湖</li>
+<li>我不完美</li>
 </ol></td>
 </tr>
 </tbody>
@@ -1417,6 +1421,10 @@ x I Swear》晉級楊坤組8強。
 <td><p>2019年4月19日</p></td>
 <td><p>香港電台 《全港中學生英語演講比賽2019》</p></td>
 </tr>
+<tr class="odd">
+<td><p>2019年5月14日</p></td>
+<td><p>中環香港美利酒店 marie claire 《國際美妝大獎暨第14屆大中華特別獎》</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1497,4 +1505,7 @@ x I Swear》晉級楊坤組8強。
 10.
 
 11.
+
 12.
+13.
+14.

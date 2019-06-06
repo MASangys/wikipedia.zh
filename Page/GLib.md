@@ -34,6 +34,7 @@ GLib由五个库组成：
 
 [Category:C函式庫](https://zh.wikipedia.org/wiki/Category:C函式庫 "wikilink")
 [Category:用C編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用C編程的自由軟體 "wikilink")
+[Category:使用LGPL许可证的软件](https://zh.wikipedia.org/wiki/Category:使用LGPL许可证的软件 "wikilink")
 [Category:GTK](https://zh.wikipedia.org/wiki/Category:GTK "wikilink")
 [Category:GNOME](https://zh.wikipedia.org/wiki/Category:GNOME "wikilink")
 [Category:自由發展元件與函式庫](https://zh.wikipedia.org/wiki/Category:自由發展元件與函式庫 "wikilink")

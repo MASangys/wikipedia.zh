@@ -158,7 +158,7 @@ STYLE也使用以「ai」「manami」「asami」等等成員們的名字。</sma
 
   - [HAPPY\! STYLE official site](http://happy-style.cc/contents/)
   - [ハロー\!プロジェクト公式HP内オフィシャルサイト](https://web.archive.org/web/20111123070932/http://www.helloproject.com/sina/index.html)
-  - [過去SI☆NA的官方網站](http://web.archive.org/web/20110303065855/http://happy-style.cc/contents/si_na/index_.html)\[5\]
+  - [過去SI☆NA的官方網站](https://web.archive.org/web/20110303065855/http://happy-style.cc/contents/si_na/index_.html)\[5\]
 
 ## 備註
 

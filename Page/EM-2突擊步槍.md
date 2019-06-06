@@ -1,6 +1,6 @@
 **EM-2**（[英語全名](https://zh.wikipedia.org/wiki/英語 "wikilink")：Experimental
 Model 2，意為「實驗二型」），或稱為第九號步槍一型（Rifle No.9 Mk1）或詹森步槍（Janson
-rifle）是由移民到英國的[波蘭槍械設計師卡齊米日](https://zh.wikipedia.org/wiki/波蘭 "wikilink")·雅努謝夫斯基（化命為：斯特凡·肯尼思·詹森）於1948年設計的[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，該槍於1951年以實驗武器的名義少量在[英軍中服役](https://zh.wikipedia.org/wiki/英軍 "wikilink")。
+rifle）是由移民到英國的[波蘭槍械設計師卡齊米日](https://zh.wikipedia.org/wiki/波蘭 "wikilink")·雅努謝夫斯基（化名為：斯特凡·肯尼思·詹森）於1948年設計的[犢牛式](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")[突擊步槍](https://zh.wikipedia.org/wiki/突擊步槍 "wikilink")，該槍於1951年以實驗武器的名義少量在[英軍中服役](https://zh.wikipedia.org/wiki/英軍 "wikilink")。
 
 ## 設計及歷史
 

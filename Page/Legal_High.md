@@ -139,7 +139,7 @@
 <p>羽生晴樹</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/張裕東" title="wikilink">張裕東</a></p></td>
-<td><p>25歲，自幼在海外生活，由檢察官轉職當律師，為人親切，抱著「希望雙方也能獲得幸福」的心態，擁有天生萬人迷的特性，和古美門在法庭上對峙。雖然貌似對黛有好感，但卻在最終話證實他真正抱有好感的對象是古美門。口頭禪是「在沙地阿拉伯有這樣一句諺語：(諺語內容)」。</p></td>
+<td><p>25歲，自幼在海外生活，由檢察官轉職當律師，為人親切，抱著「希望雙方也能獲得幸福」的心態，擁有天生萬人迷的特性，常和古美門在法庭上對峙，被古美門稱為Mr.Win Win，雖然貌似對黛有好感，但卻在最終話證實他真正抱有好感的對象是古美門。口頭禪是「在沙地阿拉伯有這樣一句諺語」。</p></td>
 <td><center>
 <p>第2季</p></td>
 </tr>
@@ -150,7 +150,7 @@
 <p>黛真知子</p></td>
 <td><center>
 <p><a href="../Page/何璐怡.md" title="wikilink">何璐怡</a></p></td>
-<td><p>27歲（第二季），因發覺自己已經能預測古美門的下一步，自知已經難以繼續待在古美門律師事務所而落淚。才能也已經受到古美門認同，於是轉投NEXUS。與古美門上演數次師徒對決戲碼，立志要親手並徹底的擊敗古美門。曾將古美門逼到絕境，但在緊要關頭卻總是棋差一著。</p></td>
+<td><p>27歲（第二季），因發覺自己已經能預測古美門的下一步，自知已經難以繼續待在古美門律師事務所而落淚。才能也已經受到古美門認同，於是負氣下轉投NEXUS。與古美門上演數次師徒對決戲碼，決心要親手並徹底的擊敗古美門。曾將古美門逼到絕境，但在緊要關頭卻總是棋差一著。事後古美門並不承認黛有背叛行為。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -2159,7 +2159,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>平均收視率12.5%（視聴率是<a href="https://zh.wikipedia.org/wiki/關東地区" title="wikilink">關東地区</a>・<a href="../Page/Video_Research.md" title="wikilink">Video Research社調查</a>）</p></td>
+<td><p>平均收視率12.5%（收視率由<a href="../Page/Video_Research.md" title="wikilink">Video Research於</a><a href="../Page/關東地方.md" title="wikilink">關東地區進行統計</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -2380,7 +2380,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>平均收視率18.4%（視聴率是<a href="https://zh.wikipedia.org/wiki/關東地区" title="wikilink">關東地区</a>・<a href="../Page/Video_Research.md" title="wikilink">Video Research公司調查</a>）</p></td>
+<td><p>平均收視率18.4%（收視率由<a href="../Page/Video_Research.md" title="wikilink">Video Research於</a><a href="../Page/關東地方.md" title="wikilink">關東地區進行統計</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>

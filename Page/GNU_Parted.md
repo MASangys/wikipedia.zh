@@ -24,10 +24,10 @@ Parted函式庫的圖形前端
 CD的](../Page/Live_CD.md "wikilink")[發行版裡作為工具以方便使用者進行硬碟分割](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")。[QtParted是另外一個使用](../Page/QtParted.md "wikilink")[Qt寫成的圖形前端](../Page/Qt.md "wikilink")，但此專案已經不再被維護。
 
 **Pyparted**\[4\]
-(也被稱作python-parted)\[5\]是一個以[Python寫成的圖形前端](../Page/Python.md "wikilink")。以此為預設分割工具的[Linux發行版包含](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")[Slackware](../Page/Slackware.md "wikilink")，[Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink")，，，以及[Parted
+(也被稱作python-parted)\[5\]是一個以[Python寫成的圖形前端](../Page/Python.md "wikilink")。以此為預設分割工具的[Linux發行版包含](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")[Slackware](../Page/Slackware.md "wikilink")，[Knoppix](../Page/Knoppix.md "wikilink")，，，以及[Parted
 Magic](../Page/Parted_Magic.md "wikilink")。
 
-默认带有此程序的[Linux发行版包括](../Page/Linux发行版.md "wikilink")[Slackware](../Page/Slackware.md "wikilink")、[Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink")、、和[Parted
+默认带有此程序的[Linux发行版包括](../Page/Linux发行版.md "wikilink")[Slackware](../Page/Slackware.md "wikilink")、[Knoppix](../Page/Knoppix.md "wikilink")、、和[Parted
 Magic](http://www.partedmagic.com/)。
 
 ## 限制

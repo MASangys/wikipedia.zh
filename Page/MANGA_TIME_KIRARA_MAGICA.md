@@ -36,9 +36,8 @@ Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》的增刊及姊妹誌發
 ### 連載至2017年3月號之作品
 
   - 魔法少女小焰☆田村～平行世界並不總是平行～（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：魔法少女ほむら☆たむら〜平行世界がいつも平行であるとは限らないのだ〜）（あfろ、創刊號—2017年3月號）（＊）
-  - 巴麻美平凡的日常（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：巴マミの平凡な日常）（あらたまい、創刊號—2017年3月號。從2017年3月號後轉移到同公司發行的Kirara
-    Manga Time Forward，從5月號開始隔月連載。自Kirara Manga Time Forward
-    2018年1月號起改為每月連載）（＊）
+  - 巴麻美平凡的日常（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：巴マミの平凡な日常）（あらたまい、創刊號—2017年3月號。從2017年3月號後轉移到同由芳文社發行的Kirara
+    Manga Time Forward，從5月號開始隔月連載。自該刊2018年1月號起改為每月連載）（＊）
   - 見瀧原☆Anti-Materials（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：見滝原☆アンチマテリアルズ）（みゃま、創刊號—）（現時休載中）（＊）
   - \[新約\][魔法少女小織](https://zh.wikipedia.org/wiki/魔法少女小织 "wikilink")〜sadness
     prayer〜（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：\[新約\]

@@ -161,6 +161,10 @@ Rain〉，是一首能凸顯Ladies' Code獨特風格的感性舞曲。
 
 12月12日，時隔兩年以團體回歸，《The Last Holiday》有別於前面兩次主打的神秘風格。
 
+### 2019年：正式回歸《FEEDBACK》
+
+5月16日 LADIES' CODE 《FEEDBACK》回歸，繼去年年末《The Last Holiday》時隔五個月的團體正式回歸。
+
 ## 音樂作品
 
 ### 單曲專輯
@@ -256,6 +260,15 @@ Rain〉，是一首能凸顯Ladies' Code獨特風格的感性舞曲。
 <td><p>《<strong>The Last Holiday</strong>》</p>
 <ul>
 <li>發行日期：2018年12月12日</li>
+<li>語言：韓語</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>5th</strong></p></td>
+<td><p>《<strong>FEEDBACK</strong>》</p>
+<ul>
+<li>發行日期：2019年5月16日</li>
 <li>語言：韓語</li>
 </ul></td>
 <td></td>
@@ -465,6 +478,12 @@ Rain〉，是一首能凸顯Ladies' Code獨特風格的感性舞曲。
 </tr>
 <tr class="even">
 <td><p>Here We are</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+</tr>
+<tr class="even">
+<td><p>Feedback</p></td>
 </tr>
 <tr class="odd">
 <td><ul>

@@ -121,7 +121,8 @@ NOTE2. 2019》演唱會。\[7\]12月30日，公開成員個人概念照、首波
 'ROOFTOP》及主打歌《Rooftop》。
 
 2月17日，韓國時間零點整，《Rooftop》突逆襲進入Melon實時榜第97名。
-\[11\]\[12\]2月19日，N.Flying憑藉《Rooftop》首次獲得音源榜單Bugs實時榜1位。\[13\]2月25日，韓國時間凌晨0點，《Rooftop》在Melon實時榜成功攻下第1名。\[14\]\[15\]
+\[11\]\[12\]2月19日，N.Flying憑藉《Rooftop》首次獲得音源榜單Bugs實時榜1位。\[13\]2月25日，韓國時間凌晨0點，《Rooftop》在Melon實時榜成功攻下第1名。\[14\]\[15\]《Rooftop》亦獲得Melon,Mnet,Soribada,Genie
+四榜月榜一位。
 
 3月5日，因音源逆襲一位而重返音樂節目打歌，出道1385天在《THE SHOW》拿下一位，3月17日，於《人氣歌謠》拿下第二個一位。
 
@@ -358,7 +359,7 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | [舉重妖精金福珠](../Page/舉重妖精金福珠.md "wikilink")            | 游泳部隊員                                  |             |         |        |
 | 2017年                                                       | SBS                                                 | [姐姐風采依舊](../Page/姐姐風采依舊.md "wikilink") | 全體          | 結婚典禮樂團  | 客串Ep.3 |
 | MBC                                                         | [多樣的兒媳](../Page/多樣的兒媳.md "wikilink")                | 金宰鉉                                    | 金泰奇         | 男配角     |        |
-| OCN                                                         | [救救我](../Page/救救我.md "wikilink")                    | 李承協                                    |             |         |        |
+| OCN                                                         | [救救我](../Page/救救我.md "wikilink")                    | 李承協                                    | 一陣會成員       |         |        |
 | 網路劇                                                         | 世上的所有戀愛第三季                                          | 李承協                                    | 男主角         |         |        |
 | 2018年                                                       | Luv pub                                             | 泰瑞                                     |             |         |        |
 | 2019年                                                       | [MBN](https://zh.wikipedia.org/wiki/MBN "wikilink") | [最棒的炸雞](../Page/最棒的炸雞.md "wikilink")   | 朴俊赫         | 男配角     |        |
@@ -443,6 +444,7 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 | 3月19日       |
 | 4月14日       |
 | 4月22日       |
+| 5月11日       |
 |             |
 
 ## 影音作品
@@ -775,6 +777,9 @@ Memories》並公開專輯配置圖、風格概念照，27日舉辦單獨演唱�
 <td><p><a href="../Page/Spring_Memories.md" title="wikilink">Spring Memories</a></p></td>
 </tr>
 <tr class="odd">
+<td><p>Leave it</p></td>
+</tr>
+<tr class="even">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 </ul>

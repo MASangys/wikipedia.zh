@@ -1,8 +1,8 @@
 [Victoria_Dockside_viewed_from_Tsim_Sha_Tsui_Promenade.jpg](https://zh.wikipedia.org/wiki/File:Victoria_Dockside_viewed_from_Tsim_Sha_Tsui_Promenade.jpg "fig:Victoria_Dockside_viewed_from_Tsim_Sha_Tsui_Promenade.jpg")\]\]
 **Victoria
-Dockside**位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[尖沙咀](../Page/尖沙咀.md "wikilink")[梳士巴利道](../Page/梳士巴利道.md "wikilink")，毗鄰[梳士巴利花園](../Page/梳士巴利花園.md "wikilink")、[香港藝術館](../Page/香港藝術館.md "wikilink")、[星光大道和](../Page/星光大道_\(香港\).md "wikilink")[香港太空館](../Page/香港太空館.md "wikilink")，是位於尖沙咀核心地段的綜合型發展項目，總樓面面積達300萬平方呎，預計於2019年全面啟用。項目的第一期[K11
+Dockside**位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[尖沙咀](../Page/尖沙咀.md "wikilink")[梳士巴利道](../Page/梳士巴利道.md "wikilink")18號，毗鄰[梳士巴利花園](../Page/梳士巴利花園.md "wikilink")、[香港藝術館](../Page/香港藝術館.md "wikilink")、[星光大道和](../Page/星光大道_\(香港\).md "wikilink")[香港太空館](../Page/香港太空館.md "wikilink")，是位於尖沙咀核心地段的綜合型發展項目，總樓面面積達300萬平方呎，預計於2019年全面啟用。項目的第一期[K11
 Atelier已於](../Page/K11_Atelier.md "wikilink")2018年4月底正式開幕，銳意將該區發展成國際級創意藝術設計新地標。Victoria
-Dockside前身為於1978年12月建成的[新世界中心](../Page/新世界中心.md "wikilink")，是全港首個集合商場、酒店及服務式住宅為一的綜合商住區，在八、九十年代一度成為文化藝術及時尚潮人的集中地，其後於1997年建成地下商場——[名店城](../Page/名店城.md "wikilink")，兩者均於2009年至2011年被拆卸，於2012年年底起分階段重建，Victoria
+Dockside前身為於1978年12月建成的[新世界中心](../Page/新世界中心.md "wikilink")，是全港首個集合[商場](../Page/商場.md "wikilink")、[酒店及](../Page/酒店.md "wikilink")[服務式住宅為一的綜合商住區](https://zh.wikipedia.org/wiki/服務式住宅 "wikilink")，在八、九十年代一度成為文化藝術及時尚潮人的集中地，其後於1997年建成地下商場——[名店城](../Page/名店城.md "wikilink")，兩者均於2009年至2011年被拆卸，於2012年年底起分階段重建，Victoria
 Dockside耗資200億港元，2019年全面落成啟用後建築面積達32萬平方米，包括藝術、設計及消閒體驗，為[新世界發展目前規模最龐大的項目](../Page/新世界發展.md "wikilink")。\[1\]
 
 ## 沿革

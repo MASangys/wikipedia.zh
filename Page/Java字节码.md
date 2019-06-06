@@ -1,5 +1,5 @@
 **Java
-字节码**（）是[Java虚拟机执行的一种指令格式](../Page/Java虚拟机.md "wikilink")。大多数操作码都是一个[字节长](../Page/字节.md "wikilink")，而有些操作需要参数，导致了有一些多字节的操作码。而且并不是所有可能的256个操作码都被使用；其中有51个操作码被保留做将来使用。除此之外，原始[Java平台开发商](https://zh.wikipedia.org/wiki/Java平台 "wikilink")，[升阳微系统](https://zh.wikipedia.org/wiki/升阳微系统 "wikilink")，额外保留了3个代码永久不使用。
+字节码**（）是[Java虚拟机执行的一种指令格式](../Page/Java虚拟机.md "wikilink")。大多数操作码都是一个[字节长](../Page/字节.md "wikilink")，而有些操作需要参数，导致了有一些多字节的操作码。而且并不是所有可能的256个操作码都被使用；其中有51个操作码被保留做将来使用。除此之外，原始[Java平台开发商](https://zh.wikipedia.org/wiki/Java平台 "wikilink")，[昇陽微系统](https://zh.wikipedia.org/wiki/昇陽微系统 "wikilink")，额外保留了3个代码永久不使用。
 
 ## 与Java的关系
 
@@ -121,7 +121,7 @@ mov ecx, eax
 
 ## 基于Java字节码的语言
 
-最常用的基于Java字节码的语言就是开发出Java字节码的Java语言。刚开始，只存在一个由[升阳微系统开发的一个](https://zh.wikipedia.org/wiki/升阳微系统 "wikilink")[编译器javac](https://zh.wikipedia.org/wiki/编译器 "wikilink")。而现在Java字节码规范已经可以得到，因此，第三方公司亦开发出支持Java字节码的编译器。例如：
+最常用的基于Java字节码的语言就是开发出Java字节码的Java语言。刚开始，只存在一个由[昇陽微系统开发的一个](https://zh.wikipedia.org/wiki/昇陽微系统 "wikilink")[编译器javac](https://zh.wikipedia.org/wiki/编译器 "wikilink")。而现在Java字节码规范已经可以得到，因此，第三方公司亦开发出支持Java字节码的编译器。例如：
 
   - [Jikes](https://zh.wikipedia.org/wiki/Jikes "wikilink")，编译Java源代码到Java字节码（由IBM开发，用C++实现）
   - Espresso，编译Java源代码到Java字节码（仅支持Java 1.0）
@@ -149,7 +149,7 @@ mov ecx, eax
   - [MIDletPascal](https://zh.wikipedia.org/wiki/MIDletPascal "wikilink")
   - [JavaFX
     Script](https://zh.wikipedia.org/wiki/JavaFX_Script "wikilink")
-    由升阳微系统公司开发的一种脚本语言，运行于Java虚拟机之上
+    由昇陽微系统公司开发的一种脚本语言，运行于Java虚拟机之上
 
 ## 运行
 

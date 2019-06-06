@@ -6,7 +6,7 @@
 解決問題的能力，與透過自由軟體的推動，縮短數位落差，實現教育機會均等的理想，並推出各版本ezgo免費光碟以提供各縣市教育單位推廣及教學應用。\[1\]\[2\]
 
 ezgo平均每年推出一新版本，早期版本名稱為EzGo，從 ezgo8 起採用全小寫的
-ezgo，以示站在巨人肩膀上渺小的我們，對自由軟體巨人之敬意。\[3\]目前最新穩定版本為2017年1月推出的ezgo13，並於被[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[市政府](https://zh.wikipedia.org/wiki/市政府 "wikilink")[教育局採用為新北市](https://zh.wikipedia.org/wiki/教育局 "wikilink")[國中](https://zh.wikipedia.org/wiki/國中 "wikilink")[小學](https://zh.wikipedia.org/wiki/小學 "wikilink")102[學年採購一萬台](https://zh.wikipedia.org/wiki/學年 "wikilink")[電腦的指定](https://zh.wikipedia.org/wiki/電腦 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")\[4\]。
+ezgo，以示站在巨人肩膀上渺小的我們，對自由軟體巨人之敬意。\[3\]目前最新穩定版本為2018年7月推出的ezgo14，並於被[新北市](https://zh.wikipedia.org/wiki/新北市 "wikilink")[市政府](https://zh.wikipedia.org/wiki/市政府 "wikilink")[教育局採用為新北市](https://zh.wikipedia.org/wiki/教育局 "wikilink")[國中](https://zh.wikipedia.org/wiki/國中 "wikilink")[小學](https://zh.wikipedia.org/wiki/小學 "wikilink")102[學年採購一萬台](https://zh.wikipedia.org/wiki/學年 "wikilink")[電腦的指定](https://zh.wikipedia.org/wiki/電腦 "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")\[4\]。
 
 ## 製作理念
 

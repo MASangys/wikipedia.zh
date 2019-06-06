@@ -1,5 +1,5 @@
 **LGBT抚养**是指的是[LGBT族群](../Page/LGBT.md "wikilink")（[男同性戀](../Page/男同性戀.md "wikilink")、[女同性戀](../Page/女同性戀.md "wikilink")、[雙性戀和](https://zh.wikipedia.org/wiki/雙性戀 "wikilink")[跨性別](../Page/跨性別.md "wikilink")）从伴侣关系走向包括一个或多个抚养对象的家庭关系的过程。根据社会的发展和科学的进步
-，目前抚养关系产生的方式包括[收养](https://zh.wikipedia.org/wiki/收养 "wikilink")，[代孕](https://zh.wikipedia.org/wiki/代孕 "wikilink")，及女性伴侣通过[人工受精等](https://zh.wikipedia.org/wiki/人工受精 "wikilink")。同样也包括对伴侣原有抚养对象的抚养。根据2000年美国的普查，33%的女同性恋家庭和22%的男同性恋家庭拥有至少一个小于18岁的孩子。\[1\]
+，目前抚养关系产生的方式包括[收养](https://zh.wikipedia.org/wiki/收养 "wikilink")，[代孕](../Page/代孕.md "wikilink")，及女性伴侣通过[人工受精等](https://zh.wikipedia.org/wiki/人工受精 "wikilink")。同样也包括对伴侣原有抚养对象的抚养。根据2000年美国的普查，33%的女同性恋家庭和22%的男同性恋家庭拥有至少一个小于18岁的孩子。\[1\]
 某些孩子不知道自己的抚养人是同志，抚养人甚至可以一直不告知抚养对象这一情况，在这一情况中不同个案有一定的区别。\[2\]\[3\]一般来说，LGBT家庭，特别是同志收养，是西方国家长期政治争论的焦点，一般是保守派及社会自由派两方面文化战的一部分。2008年1月，[欧洲人权法庭裁决同志伴侣有权收养一个孩子](https://zh.wikipedia.org/wiki/欧洲人权法庭 "wikilink")。\[4\]\[5\]
 
 科学研究已经肯定的证明，同志家长和异性恋家长有同样的能力，并适合收养孩子。\[6\]\[7\]\[8\]

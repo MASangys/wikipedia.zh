@@ -5,8 +5,10 @@ NT體系結構**是指一系列[微軟設計及製造](https://zh.wikipedia.org/
 NT所衍生出的視窗作業系統架構](../Page/Windows_NT.md "wikilink")。Windows
 NT採用[用戶模式與](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")[核心模式的分層設計並且是](https://zh.wikipedia.org/wiki/使用者空間 "wikilink")[搶佔式和](https://zh.wikipedia.org/wiki/搶占式多任務處理 "wikilink")[可重入的](../Page/可重入.md "wikilink")。可運行在單處理器或[對稱多處理器](https://zh.wikipedia.org/wiki/對稱多處理 "wikilink")（SMP）上，並利用[I/O請求包與異步I](https://zh.wikipedia.org/wiki/I/O請求包 "wikilink")/O來處理所有的I/O請求。在[Windows
 2000](../Page/Windows_2000.md "wikilink")（含）之前採用的Windows
-NT皆為32位元版本的，第一版64位元的Windows NT首先用於64位元的[Windows
-XP](https://zh.wikipedia.org/wiki/Windows_XP版本列表#64.E4.BD.8D.E7.89.88 "wikilink")。
+NT皆為32位元版本的，第一个基于[IA-64的](https://zh.wikipedia.org/wiki/IA-64 "wikilink")64位元Windows
+NT首先用於64位元的[Windows
+XP](https://zh.wikipedia.org/wiki/Windows_XP版本列表#64.E4.BD.8D.E7.89.88 "wikilink")，而第一个基于[x86-64的](https://zh.wikipedia.org/wiki/x86-64 "wikilink")64位Windows
+NT则为[Windows Server 2003](../Page/Windows_Server_2003.md "wikilink")。
 
 用戶模式下的程式與子系統僅能存取其可存取的資源，核心模式下的程式則可以存取所有資源與外部裝置。Windows
 NT採用的[核心是屬於](https://zh.wikipedia.org/wiki/核心 "wikilink")[混合核心](../Page/混合核心.md "wikilink")。其體系結構包括[簡單內核](https://zh.wikipedia.org/wiki/簡單內核 "wikilink")、[硬體抽象層](../Page/硬體抽象層.md "wikilink")（HAL）、驅動程式、服務（總稱為[執行體](https://zh.wikipedia.org/wiki/#執行體 "wikilink")）,

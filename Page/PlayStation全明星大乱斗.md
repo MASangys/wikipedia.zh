@@ -143,4 +143,4 @@ Vita双平台上的乱斗类](../Page/PlayStation_Vita.md "wikilink")[格鬥遊�
 [Category:美国开发电子游戏](https://zh.wikipedia.org/wiki/Category:美国开发电子游戏 "wikilink")
 [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 
-1.  [Official website](http://www.playstationallstars.com)
+1.

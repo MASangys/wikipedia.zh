@@ -319,7 +319,7 @@ function p.bottom(frame, args, map)
 `   if args.switcherLabel then`
 `       retval = retval .. '`<span class="switcher-label" style="display:none">`' .. args.switcherLabel .. '`</span>`'`
 `   elseif args.autoSwitcherLabel then`
-`       retval = retval .. '`<span class="switcher-label" style="display:none">`Show map of ' .. map('name') .. '`</span>`'`
+`       retval = retval .. '`<span class="switcher-label" style="display:none">`显示' .. map('name') .. '的地图`</span>`'`
 `   end`
 `   `
 `   retval = retval .. '`

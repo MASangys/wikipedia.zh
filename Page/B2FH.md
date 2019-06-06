@@ -47,9 +47,9 @@ B<sup>2</sup>FH 論文發表50周年紀念研討會\[12\]。
 ## 外部連結
 
   - [B<sup>2</sup>FH
-    paper](http://rmp.aps.org/abstract/RMP/v29/i4/p547_1) ([Direct PDF
-    download link](http://rmp.aps.org/pdf/RMP/v29/i4/p547_1)). Free to
-    read.
+    paper](https://web.archive.org/web/20140110034637/http://rmp.aps.org/abstract/RMP/v29/i4/p547_1)
+    ([Direct PDF download
+    link](http://rmp.aps.org/pdf/RMP/v29/i4/p547_1)). Free to read.
 
 [Category:原子核物理学](https://zh.wikipedia.org/wiki/Category:原子核物理学 "wikilink")
 [Category:天体物理学](https://zh.wikipedia.org/wiki/Category:天体物理学 "wikilink")

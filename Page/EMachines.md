@@ -11,7 +11,7 @@ Inc.**）是[宏碁的子公司](../Page/宏碁.md "wikilink")，其前身則是
 
 ## 参考文献
 
-## 外部鏈接
+## 外部連結
 
   - [eMachines全球](http://www.emachines.com/selection/)
 

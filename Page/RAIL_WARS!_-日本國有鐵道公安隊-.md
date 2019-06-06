@@ -1064,6 +1064,10 @@ Online上開始連載由淺川圭司負責作畫的漫畫版](https://zh.wikiped
 <td><p>16</p></td>
 <td><p>2018年12月14日</p></td>
 </tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>2019年7月19日</p></td>
+</tr>
 </tbody>
 </table>
 

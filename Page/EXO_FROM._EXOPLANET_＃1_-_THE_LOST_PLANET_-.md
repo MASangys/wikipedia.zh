@@ -1,4 +1,4 @@
-**EXO FROM. EXOPLANET ＃1 - THE LOST PLANET
+**EXO FROM. EXOPLANET \#1 - THE LOST PLANET
 -**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[EXO於](../Page/EXO.md "wikilink")2014年舉辦的第一次巡迴演唱會。
 
 ## 概述
@@ -283,7 +283,7 @@
 <td><p>2015年1月10日</p></td>
 <td><p><a href="../Page/WOWOW.md" title="wikilink">WOWOW</a> Prime<br />
 <a href="../Page/WOWOW.md" title="wikilink">WOWOW</a> Live</p></td>
-<td><p>EXO FROM. EXOPLANET＃1 - THE LOST PLANET～放送直前Special～ [19]</p></td>
+<td><p>EXO FROM. EXOPLANET#1 - THE LOST PLANET～放送直前Special～ [19]</p></td>
 <td></td>
 </tr>
 <tr class="odd">

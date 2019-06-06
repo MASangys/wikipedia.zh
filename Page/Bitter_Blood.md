@@ -328,7 +328,7 @@ Blood}-》（）。
 
 ## 外部連結
 
-  - [富士電視台官方網站](http://www.fujitv.co.jp/BitterBlood/index.html)
+  - [富士電視台官方網站](https://web.archive.org/web/20150310134657/http://www.fujitv.co.jp/BitterBlood/index.html)
   - [MY 101綜合台官方網站](http://www.my-cartoon.com.tw/my101/partners_by_blood/index.php)
   - [緯來日本台官方網站](http://japan.videoland.com.tw/channel/20150801/default.asp)
 

@@ -163,76 +163,28 @@ Dressed Man”。\[14\]
 
 ### 大型頒獎禮獎項
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>年份</p></td>
-<td><p>頒獎典禮</p></td>
-<td><p>獎項</p></td>
-<td><p>結果</p></td>
-</tr>
-<tr class="even">
-<td><p>2016年</p></td>
-<td><p>第5屆<a href="../Page/Gaon_Chart_K-POP大獎.md" title="wikilink">Gaon Chart K-POP大獎</a></p></td>
-<td><p>微博人氣獎</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>2017年</p></td>
-<td><p>第6屆Gaon Chart K-POP大獎</p></td>
-<td><p>年度粉絲投票人氣獎</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>第5屆音悅V榜年度盛典</p></td>
-<td><p>盛典之夜最受歡迎藝人獎</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>FASHIONISTA AWARDS 2017</p></td>
-<td><p>Global Icon</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>2018年</p></td>
-<td><p>第3屆<a href="../Page/亞洲明星盛典.md" title="wikilink">亞洲明星盛典</a> ASIA ARTIST AWARDS</p></td>
-<td><p>人氣獎（演員部門）</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+|                         |                                                                   |                 |                   |    |
+| ----------------------- | ----------------------------------------------------------------- | --------------- | ----------------- | -- |
+| 年份                      | 頒獎典禮                                                              | 獎項              | 作品                | 結果 |
+| 2016年                   | 第5屆[Gaon Chart K-POP大獎](../Page/Gaon_Chart_K-POP大獎.md "wikilink") | 微博人氣獎           |                   | 獲獎 |
+| 2017年                   | 第6屆Gaon Chart K-POP大獎                                             | 年度粉絲投票人氣獎       |                   | 獲獎 |
+| 第5屆音悅V榜年度盛典             | 盛典之夜最受歡迎藝人獎                                                       |                 | 獲獎                |    |
+| FASHIONISTA AWARDS 2017 | Global Icon                                                       |                 | 獲獎                |    |
+| 2018年                   | 第3屆[亞洲明星盛典](../Page/亞洲明星盛典.md "wikilink") ASIA ARTIST AWARDS      | 人氣獎（演員部門）       | 獨孤Rewind|獨孤Rewind | 獲獎 |
+| 2019年                   | 14th Annual Soompi Awards                                         | BEST IDOL ACTOR | 獨孤Rewind|獨孤Rewind | 獲獎 |
+| BEST WEB SERIES         | 獨孤Rewind                                                          | 提名              |                   |    |
+| BEST VARIETY SHOW       | Busted\!                                                          | 獲獎              |                   |    |
+| 微博星耀盛典                  | 年度星耀盛典男神                                                          |                 | 獲獎                |    |
 
 ### 個人榮譽
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p>年份</p></td>
-<td><p>獲獎項目</p></td>
-</tr>
-<tr class="even">
-<td><p>2016年</p></td>
-<td><ul>
-<li>K-Pop一百張最帥面孔 第5名[29]</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p>2017年</p></td>
-<td><ul>
-<li>TC Candler全球100張最帥面孔 第9名</li>
-<li>2017 Instagram Awards - 2017 Top 5 Accounts[30]</li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p>2018年</p></td>
-<td><ul>
-<li>TC Candler全球100張最帥面孔 第15名</li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+|                                                   |                           |
+| ------------------------------------------------- | ------------------------- |
+| 年份                                                | 獲獎項目                      |
+| 2016年                                             | K-Pop一百張最帥面孔 第5名\[29\]    |
+| 2017年                                             | TC Candler全球100張最帥面孔 第9名  |
+| 2017 Instagram Awards - 2017 Top 5 Accounts\[30\] |                           |
+| 2018年                                             | TC Candler全球100張最帥面孔 第15名 |
 
 ## 參考資料
 
@@ -257,6 +209,7 @@ Dressed Man”。\[14\]
 
 1.  [EXO-K(엑소케이) 세훈, '셀카 찍勛 때 팬들
     생각해'](http://thestar.chosun.com/site/data/html_dir/2012/05/04/2012050400337.html)
+
 
 2.
 

@@ -1,4 +1,4 @@
-**2\*Sweet**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[雙胞胎女子組合](../Page/雙胞胎.md "wikilink")，成員有**[萱野可芬](https://zh.wikipedia.org/wiki/萱野可芬 "wikilink")**和**[萱野可芳](https://zh.wikipedia.org/wiki/萱野可芳 "wikilink")**，兩人從事[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")、[歌手等工作](../Page/歌手.md "wikilink")，她們的父親是[日本](../Page/日本.md "wikilink")[橫濱人](https://zh.wikipedia.org/wiki/橫濱 "wikilink")，母親是台灣人，是台日[混血兒](../Page/混血兒.md "wikilink")，在台灣長大，她們還有一個妹妹，還有一隻寵物妹妹萱野P。
+**2\*Sweet**是[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[雙胞胎女子組合](../Page/雙胞胎.md "wikilink")，成員有**[萱野可芬](https://zh.wikipedia.org/wiki/萱野可芬 "wikilink")**和**[萱野可芳](https://zh.wikipedia.org/wiki/萱野可芳 "wikilink")**，兩人從事[演員](../Page/演員.md "wikilink")、[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")、[歌手等工作](../Page/歌手.md "wikilink")，她們的父親是[日本](../Page/日本.md "wikilink")[橫濱人](https://zh.wikipedia.org/wiki/橫濱 "wikilink")，母親是台灣人，是台日[混血兒](../Page/混血兒.md "wikilink")，在台灣長大，她們還有一個妹妹，還有一隻寵物妹妹萱野P。
 
 ## 音樂作品
 

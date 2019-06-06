@@ -1,4 +1,4 @@
-**Kino**是一个[自由的](../Page/自由软件.md "wikilink")[影视编辑软件](https://zh.wikipedia.org/wiki/影视编辑软件 "wikilink")，其基于[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，运行于[Linux及其他](../Page/Linux.md "wikilink")[类Unix操作系统中](https://zh.wikipedia.org/wiki/类Unix "wikilink")。Kino于2000年末由Dan
+**Kino**是[自由的](../Page/自由软件.md "wikilink")[影视编辑软件](https://zh.wikipedia.org/wiki/影视编辑软件 "wikilink")，其基于[GTK+](https://zh.wikipedia.org/wiki/GTK+ "wikilink")，运行于[Linux及其他](../Page/Linux.md "wikilink")[类Unix操作系统中](https://zh.wikipedia.org/wiki/类Unix "wikilink")。Kino于2000年末由Dan
 Dennedy和Arne Schirmacher开始开发。\[1\]
 
 项目的目标是：“Linux桌面中简易而可靠的[DV编辑器](https://zh.wikipedia.org/wiki/DV "wikilink")，能够以诸多可用格式输出。”（"*Easy

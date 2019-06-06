@@ -252,9 +252,7 @@ Harbour）开发的增强版本。\[16\]\[17\]\[18\]与`dd`相比，`dcfldd`允�
 
 11.
 
-12. [Windows 137GB (128
-    [GiB](https://zh.wikipedia.org/wiki/GiB "wikilink")) Capacity
-    Barrier - Seagate
+12. [Windows 137GB (128 GiB) Capacity Barrier - Seagate
     Technology](https://web.archive.org/web/20070316080228/http://www.seagate.com/support/kb/disc/tp/137gb.pdf)
     (March 2003)
 

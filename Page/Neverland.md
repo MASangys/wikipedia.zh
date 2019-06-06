@@ -87,7 +87,7 @@ Factory*）等。
   - [MobyGames上的](https://zh.wikipedia.org/wiki/MobyGames "wikilink")[Rap
     sheet](http://www.mobygames.com/company/neverland-co-ltd/)
 
-[Category:1999年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1999年開業電子遊戲公司 "wikilink")
+[Category:1993年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:1993年開業電子遊戲公司 "wikilink")
 [Category:新宿區公司](https://zh.wikipedia.org/wiki/Category:新宿區公司 "wikilink")
 [Category:日本電子遊戲公司](https://zh.wikipedia.org/wiki/Category:日本電子遊戲公司 "wikilink")
 [Category:電子遊戲開發公司](https://zh.wikipedia.org/wiki/Category:電子遊戲開發公司 "wikilink")

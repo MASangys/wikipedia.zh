@@ -630,10 +630,9 @@ GOLD GLIDER TOUR 2012</a></strong></p></td>
 
   - （「R.I.P.」をはじめ何曲かビデオクリップを公開している。）
 
-  - [BayFM 「PON TSUKA\!\!」](http://web.bayfm.jp/bump/) -
-    [BayFM的电视节目网站](https://zh.wikipedia.org/wiki/BayFM "wikilink")
+  - [PONTSUKA\!\!」](http://web.bayfm.jp/bump/) - 於主持的廣播节目网站
 
+[Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")
 [Category:日本另类摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本另类摇滚乐团 "wikilink")
 [Category:TOY'S_FACTORY旗下藝人](https://zh.wikipedia.org/wiki/Category:TOY'S_FACTORY旗下藝人 "wikilink")
 [Category:Oricon動畫單曲年榜冠軍獲得者](https://zh.wikipedia.org/wiki/Category:Oricon動畫單曲年榜冠軍獲得者 "wikilink")
-[Category:日本獨立搖滾樂團](https://zh.wikipedia.org/wiki/Category:日本獨立搖滾樂團 "wikilink")

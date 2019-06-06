@@ -569,13 +569,15 @@ PlotData =
 
 14.
 
-15. [Stellar《Mask》MV 公開](http://kpopn.com/2014/08/21/237116/) 2014年8月21日
+15. [Stellar《Mask》MV 公開](http://kpopn.com/2014/08/21/237116/)
+    2014年8月21日
 
 16. [Stellar 11日性感回歸](http://kpopn.com/2015/03/08/264826/) 2015年3月8日
 
 17.
 
-18. [Stellar《Fool》MV 公開](http://kpopn.com/2015/03/11/265257/) 2015年3月11日
+18. [Stellar《Fool》MV 公開](http://kpopn.com/2015/03/11/265257/)
+    2015年3月11日
 
 19. [Stellar 回歸概念照公開](http://kpopn.com/2015/07/09/284721/) 2015年7月9日
 
@@ -589,7 +591,7 @@ PlotData =
 
 24.
 
-25. [《Sting》MV 公開](http://kpopn.niusnews.com/=K19n9cd6)
+25.
 
 26. [Stellar MV 拍攝中發生事故，幸無大礙](http://kpopn.niusnews.com/=K0nmvh39)
     2016年7月8日
@@ -629,7 +631,7 @@ PlotData =
 
 42.
 
-43. \[高瑛欣问她的名字，高瑛欣回答。\]<span>成員</span>
+43. \[高瑛欣問她的名字，高瑛欣回答。\]<span>成員</span>
 
 44.
 

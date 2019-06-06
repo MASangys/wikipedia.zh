@@ -34,6 +34,7 @@
 
 [Category:溴化物](https://zh.wikipedia.org/wiki/Category:溴化物 "wikilink")
 [Category:钴配合物](https://zh.wikipedia.org/wiki/Category:钴配合物 "wikilink")
+[Category:三价钴化合物](https://zh.wikipedia.org/wiki/Category:三价钴化合物 "wikilink")
 
 1.
 2.

@@ -164,7 +164,7 @@
 
 ## 外部連結
 
-  - [官方網站](http://www.aircelchennaiopen.org/)
+  - [官方網站](https://wayback.archive-it.org/all/20130203202444/http://www.aircelchennaiopen.org/2013/)
 
 [Category:清奈公開賽](https://zh.wikipedia.org/wiki/Category:清奈公開賽 "wikilink")
 [Category:2014年ATP巡迴賽](https://zh.wikipedia.org/wiki/Category:2014年ATP巡迴賽 "wikilink")

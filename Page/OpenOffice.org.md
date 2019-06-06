@@ -14,7 +14,7 @@ X版](../Page/MacOS.md "wikilink")，并可[移植到其他](https://zh.wikipedi
 
 ## 歷史
 
-OpenOffice.org的前身是1998年一家德國公司[StarDivision所研發出來的辦公室軟體](https://zh.wikipedia.org/wiki/StarDivision "wikilink")[StarOffice](../Page/StarOffice.md "wikilink")。1999年8月，已經相當成熟的StarOffice
+OpenOffice.org的前身是德國公司[StarDivision由](https://zh.wikipedia.org/wiki/StarDivision "wikilink")1985年開始研發的辦公軟體[StarOffice](../Page/StarOffice.md "wikilink")。1999年8月，已經相當成熟的StarOffice
 5.2被[昇陽電腦](../Page/昇陽電腦.md "wikilink")（Sun
 Microsystems）買下。2000年7月19日，套件的[源碼通過兩種授權協議](https://zh.wikipedia.org/wiki/源碼 "wikilink")，[GNU宽通用公共许可证](../Page/GNU宽通用公共许可证.md "wikilink")（LGPL）與[昇陽工業標準源碼許可證](https://zh.wikipedia.org/wiki/昇陽工業標準源碼許可證 "wikilink")（Sun
 Industry Standards Source License,

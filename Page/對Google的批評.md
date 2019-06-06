@@ -21,7 +21,7 @@ Schmidt）在2007年的《[金融时报](https://zh.wikipedia.org/wiki/金融时
 施密特在2010年华尔街日报的采访时重申了这一过程：“其实，我觉得大多数人不希望Google回答他们的问题，他们希望Google告诉他们什么是他们应该做的。”
 \[6\]
 
-美國總統[特朗普以及美国](https://zh.wikipedia.org/wiki/特朗普 "wikilink")[保守派一直质疑Google是否](https://zh.wikipedia.org/wiki/保守派 "wikilink")“针对”保守派媒体。特朗普認為Google篡改关于他的搜索结果，隐藏正面消息，只显示负面报道，96%的消息都来自反对他的“[左翼媒体](https://zh.wikipedia.org/wiki/左翼 "wikilink")”。特朗普認為，Google能控制公眾能看到什么，看不到什么\[7\]。
+美國總統[特朗普以及美国](https://zh.wikipedia.org/wiki/唐納德·川普 "wikilink")[保守派一直质疑Google是否](https://zh.wikipedia.org/wiki/保守派 "wikilink")“针对”保守派媒体。特朗普認為Google篡改关于他的搜索结果，隐藏正面消息，只显示负面报道，96%的消息都来自反对他的“[左翼媒体](https://zh.wikipedia.org/wiki/左翼 "wikilink")”。特朗普認為，Google能控制公眾能看到什么，看不到什么\[7\]。
 
 ## 审查
 
@@ -42,7 +42,7 @@ Google透過檢查不同瀏覽器的署名，把[Opera封鎖在外](https://zh.w
 
 ### 能源消耗
 
-Google为了维持其服务器，而产生高的能源使用量一直被批评（不過可能只是指能源效率較低），\[13\]Google承诺将花费数百万美元来研究便宜、清洁及[可再生能源](https://zh.wikipedia.org/wiki/可再生能源 "wikilink")，并已在其[山景城总部屋顶上安装](https://zh.wikipedia.org/wiki/山景城 "wikilink")[太阳能电池板](https://zh.wikipedia.org/wiki/太阳能电池板 "wikilink")。\[14\]\[15\]
+Google为了维持其服务器，而产生高的能源使用量一直被批评（不過可能只是指能源效率較低），\[13\]Google承诺将花费数百万美元来研究便宜、清洁及[可再生能源](https://zh.wikipedia.org/wiki/可再生能源 "wikilink")，并已在其[山景城总部屋顶上安装](../Page/山景城_\(加利福尼亚州\).md "wikilink")[太阳能电池板](https://zh.wikipedia.org/wiki/太阳能电池板 "wikilink")。\[14\]\[15\]
 
 ### Go编程语言的命名
 

@@ -121,6 +121,10 @@ Clapper**》。\[20\]
 
   - [VOCALOID](../Page/VOCALOID.md "wikilink")
   - [初音未來](../Page/初音未來.md "wikilink")
+  - [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")
+  - [nagi](https://zh.wikipedia.org/wiki/やなぎなぎ "wikilink")
+  - [EGOIST](../Page/EGOIST.md "wikilink")
+  - [Tia](../Page/Tia.md "wikilink")
 
 ## 相關連結
 
@@ -128,7 +132,9 @@ Clapper**》。\[20\]
       - [livetune.jp](https://web.archive.org/web/20130205082055/http://livetune.jp/)
         - 正式官網
 
-      - [livetune OFFICIAL SITE](http://livetune.syncl.jp/) - Victor時代官網
+      - [livetune OFFICIAL
+        SITE](https://web.archive.org/web/20130908210841/http://livetune.syncl.jp/)
+        - Victor時代官網
 
       -
   - [livetune+](http://livetuneplus.com)

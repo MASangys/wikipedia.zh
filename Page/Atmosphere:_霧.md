@@ -223,7 +223,7 @@ Track 形式收錄在本專輯。
 3.  [Vernie Yeung：Promo](http://www.iamverynice.com/promos)
 
 4.
-5.  [HMV 整體排行榜](http://www.hmv.com.hk/ch/charts/default.asp?subm=chart)
+5.
 
 6.  [HMV 亞洲音樂排行榜](http://www.hmv.com.hk/ch/charts/asian.asp?subm=chart)
 

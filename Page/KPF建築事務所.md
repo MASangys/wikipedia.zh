@@ -104,6 +104,7 @@ Associates一起完善其锥形的形式，从而最大限度地发挥[上海环
   - [Victoria Dockside](../Page/Victoria_Dockside.md "wikilink")，香港
   - [南京國際金融中心](https://zh.wikipedia.org/wiki/南京國際金融中心 "wikilink")，中國南京（與[巴馬丹拿建築及工程師有限公司合作](../Page/巴馬丹拿.md "wikilink")）
   - [太平洋電線電纜總部大樓](../Page/太平洋電線電纜.md "wikilink")，台灣台北市
+  - [广州周大福金融中心](https://zh.wikipedia.org/wiki/广州周大福金融中心 "wikilink")(廣州東塔），中國廣州
 
 ## 主要奖项
 

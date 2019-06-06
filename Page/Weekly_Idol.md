@@ -2984,7 +2984,7 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <tr class="even">
 <td><p>393</p></td>
 <td><p>2月6日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/金東漢" title="wikilink">金東漢</a>、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/金東漢" title="wikilink">金東漢</a><sup>1st</sup>、<a href="../Page/GFRIEND.md" title="wikilink">GFRIEND</a><sup>13th</sup></p></td>
 <td><p><strong>許參為特別主持</strong></p></td>
 </tr>
 <tr class="odd">
@@ -3063,6 +3063,36 @@ Weekly Idol 8周年特辑 (暑假特辑2)</p></td>
 <td><p>406</p></td>
 <td><p>5月8日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Oh_My_Girl" title="wikilink">Oh My Girl</a><sup>6th</sup></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>407</p></td>
+<td><p>5月15日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a><sup>10th</sup></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>408</p></td>
+<td><p>5月22日</p></td>
+<td><p><a href="../Page/AB6IX.md" title="wikilink">AB6IX</a><sup>1st</sup></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>409</p></td>
+<td><p>5月29日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Lovelyz" title="wikilink">Lovelyz</a><sup>8th</sup></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>410</p></td>
+<td><p>6月5日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/NCT_127" title="wikilink">NCT 127</a><sup>4th</sup></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>411</p></td>
+<td><p>6月12日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女</a><sup>4th</sup></p></td>
 <td></td>
 </tr>
 </tbody>

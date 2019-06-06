@@ -593,6 +593,27 @@ little SEABIRDS\!\!」初日公演。\[5\]
 <td><p>★</p></td>
 <td><p>A面曲</p></td>
 </tr>
+<tr class="even">
+<td><p>55th</p></td>
+<td><p>2019年3月13日</p></td>
+<td><p><a href="../Page/回憶上心頭DAYS.md" title="wikilink">回憶上心頭DAYS</a><br />
+（）</p></td>
+<td><p>回憶上心頭DAYS</p></td>
+<td></td>
+<td><p>全版本</p></td>
+<td><p>|★</p></td>
+<td><p>A面曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>必然性</p></td>
+<td><p>IZ4648</p></td>
+<td><p>Type C</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

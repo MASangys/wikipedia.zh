@@ -34,7 +34,7 @@ Limited」新增MOMO跑車方向盤、時速錶刻度至220km/hr的白光儀錶�
 Limited」換裝新設計的水箱護罩、HID氙氣頭燈與鈦色塗裝的17吋10幅式鋁合金鋼圈，內裝則新增方向盤換檔撥片與金屬踏板組；此外兩款車型均換裝碳纖維裝飾的中控台及排檔座飾板。
 
 2011年 -
-6月28日再度小改款，並邀請男[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")[江口洋介擔綱代言人](../Page/江口洋介.md "wikilink")。外觀方面，頭燈組及水箱護罩重新設計，並將自動光感應頭燈、[EyeSight系統](../Page/EyeSight.md "wikilink")、深色金屬飾板、新設計座椅、方向盤換檔撥片等列入標準配備，[SI-DRIVE系統](../Page/SI-DRIVE.md "wikilink")、全景式天窗、煞車及油門金屬踏板、[巡航定速系統](../Page/巡航定速.md "wikilink")、衛星導航與影音系統、免鑰匙感應門鎖系統等則為選購配件。
+6月28日再度小改款，並邀請男[演員](../Page/演員.md "wikilink")[江口洋介擔綱代言人](../Page/江口洋介.md "wikilink")。外觀方面，頭燈組及水箱護罩重新設計，並將自動光感應頭燈、[EyeSight系統](../Page/EyeSight.md "wikilink")、深色金屬飾板、新設計座椅、方向盤換檔撥片等列入標準配備，[SI-DRIVE系統](../Page/SI-DRIVE.md "wikilink")、全景式天窗、煞車及油門金屬踏板、[巡航定速系統](../Page/巡航定速.md "wikilink")、衛星導航與影音系統、免鑰匙感應門鎖系統等則為選購配件。
 
 2012年 - 7月3日同步推出第三度小改款以及限量300部的「tS」特仕車。2.5L車型改換新開發的2.5L水平對臥四缸DOHC
 [FB25型引擎](https://zh.wikipedia.org/wiki/速霸陸FB族引擎#FB25型 "wikilink")，同時重新調校懸吊系統，部分等級並加裝可提升燃油效率的[怠速熄火系統](../Page/怠速熄火系統.md "wikilink")。再者，精進的[EyeSight系統包含了自動偵測與前車的間距](../Page/EyeSight.md "wikilink")、進而自動跟車定速巡航與輔助煞車，加上車道偏離時會自動預警、煞車優先系統等。至於「tS」特仕車，包含18英吋輕量化鋁圈、[普利司通](../Page/普利司通.md "wikilink")215/45R18

@@ -64,7 +64,7 @@ puissance Q-3535 (58).jpg|Q-3535真空管擴大機
 2.  [丁謂遭申請破產清盤](http://hk.apple.nextmedia.com/financeestate/art/20121125/18079411).
     香港蘋果日報. 2012-11-25.
 3.
-4.  [新生SANSUIとは](http://webcache.googleusercontent.com/search?q=cache:I9j88jy4OGoJ:www.sansui-doshisha.jp/quality/index.html+&cd=1&hl=zh-CN&ct=clnk)
-5.  [新生SANSUIとは](http://webcache.googleusercontent.com/search?q=cache:I9j88jy4OGoJ:www.sansui-doshisha.jp/quality/index.html+&cd=1&hl=zh-CN&ct=clnk)
+4.
+5.
 6.  ，實際上依據香港方面認定兩者是聯營公司（關係企業），而非母子公司。特許權部份參照報表中〈業務回顧及前景（續）〉一節。
 7.  可參照台灣[SANSUI 山水 - 關於我們](http://www.sansui-taiwan.com/about.php) 的說明。

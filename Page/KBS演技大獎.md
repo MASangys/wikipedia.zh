@@ -2396,7 +2396,7 @@
 <tr class="odd">
 <td><p>網路人氣獎</p></td>
 <td><p><a href="../Page/金明民.md" title="wikilink">金明民</a>（<a href="https://zh.wikipedia.org/wiki/我们遇见的奇迹" title="wikilink">我们遇见的奇迹</a>）<br />
-<a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">朴炯植</a>（<a href="https://zh.wikipedia.org/wiki/Suits_(韩国电视剧)" title="wikilink">Suits</a>）</p></td>
+<a href="../Page/朴炯植.md" title="wikilink">朴炯植</a>（<a href="https://zh.wikipedia.org/wiki/Suits_(韩国电视剧)" title="wikilink">Suits</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>最佳CP獎</p></td>

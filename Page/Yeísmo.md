@@ -24,9 +24,8 @@ llano”（[平原](https://zh.wikipedia.org/wiki/平原 "wikilink")））或者
 
   - haya（[山毛櫸](https://zh.wikipedia.org/wiki/山毛櫸 "wikilink")／haber的虚拟式[现在时](https://zh.wikipedia.org/wiki/现在时 "wikilink")[第一和第三人稱單數](https://zh.wikipedia.org/wiki/第一人稱 "wikilink")）
     \~ halla（hallar的陈述式现在时第三人稱單數）
-  - cayó（caer的陈述式简单[过去时第三人稱單數](https://zh.wikipedia.org/wiki/过去时 "wikilink")）
-    \~
-    calló（callar的陈述式简单[过去时第三人稱單數](https://zh.wikipedia.org/wiki/过去时 "wikilink")）
+  - cayó（caer的陈述式简单[过去时第三人稱單數](../Page/过去时.md "wikilink")） \~
+    calló（callar的陈述式简单[过去时第三人稱單數](../Page/过去时.md "wikilink")）
   - hoya（大坑） \~ olla（[鍋](https://zh.wikipedia.org/wiki/鍋 "wikilink")）
   - baya（[漿果](https://zh.wikipedia.org/wiki/漿果 "wikilink")）／vaya（ir的虚拟式現在时第一和第三人稱單數）
     \~ valla（[籬笆](https://zh.wikipedia.org/wiki/籬笆 "wikilink")）

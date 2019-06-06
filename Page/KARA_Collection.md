@@ -83,7 +83,8 @@ SIGMA發售](https://zh.wikipedia.org/wiki/环球音乐_\(日本\) "wikilink")�
 
 ## 外部連結
 
-  - [Kara韓國官方網站](http://kara.dspmedia.co.kr/)
+  - [Kara韓國官方網站](https://web.archive.org/web/20110710172218/http://kara.dspmedia.co.kr/)
+
   - [Kara日本官方網站](http://www.karaweb.jp/)
   - [Kara facebook](http://www.facebook.com/karakpop)
   - [Kara官方facebook](https://www.facebook.com/dspofficialkara)

@@ -1,13 +1,13 @@
 **iPad mini 2**（原名**iPad
-mini配備-{zh-hans:Retina显示屏;zh-hant:Retina顯示器;}-**\[1\]，不過後來在发布会上被改為現名）是[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的第二代[iPad
-mini](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")。此[平板電腦配備有](../Page/平板電腦.md "wikilink")7.9吋[-{zh-hans:Retina显示屏;zh-hant:Retina顯示器;}-](../Page/Retina显示屏.md "wikilink")，2013年10月22日於[美国](../Page/美国.md "wikilink")[加州](../Page/加利福尼亚州.md "wikilink")[舊金山發佈](https://zh.wikipedia.org/wiki/舊金山 "wikilink")，並於同年11月15日發售\[2\]。
+mini配備-{zh-hans:Retina显示屏;zh-hant:Retina顯示器;}-**\[1\]，不過後來在-{zh-tw:發表會;zh-cn:发布会}-上被改為現名）是[蘋果公司設計](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")、開發及銷售的第二代[iPad
+mini](https://zh.wikipedia.org/wiki/iPad_mini "wikilink")。此[平板電腦配備有](../Page/平板電腦.md "wikilink")7.9吋[-{zh-hans:Retina显示屏;zh-hant:Retina顯示器;}-](../Page/Retina显示屏.md "wikilink")，2013年10月22日於[美国](../Page/美国.md "wikilink")[加州](../Page/加利福尼亚州.md "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")-{zh-tw:發表;zh-cn:发布}-，並於同年11月15日發售\[2\]。
 
-2014年10月，蘋果公司發佈[iPad mini
+2014年10月，蘋果公司-{zh-tw:發表;zh-cn:发布}-[iPad mini
 3](https://zh.wikipedia.org/wiki/iPad_mini_3 "wikilink")。原有的iPad mini
-2仍繼續供售容量16GB及32GB機型，[iPad mini
-(第一代)仍繼續供售容量](https://zh.wikipedia.org/wiki/iPad_mini_\(第一代\) "wikilink")16GB機型。
+2仍繼續銷售容量16GB及32GB機型，[iPad mini
+(第一代)仍繼續銷售容量](https://zh.wikipedia.org/wiki/iPad_mini_\(第一代\) "wikilink")16GB機型。
 
-自2017年3月21日蘋果公司發佈[iPad
+自2017年3月21日蘋果公司-{zh-tw:發表;zh-cn:发布}-[iPad
 (2017)後](https://zh.wikipedia.org/wiki/iPad_\(2017\) "wikilink")，iPad
 mini 2隨即下架。
 

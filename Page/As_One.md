@@ -3,14 +3,14 @@ One**（，），[香港及](../Page/香港.md "wikilink")[韓國](https://zh.wi
 Star，聯同[郭富城御用排舞師](../Page/郭富城.md "wikilink")[Sunny
 Wong](https://zh.wikipedia.org/wiki/Sunny_Wong "wikilink")，籌備超過一年的全新跳唱女子組合。以亞洲為戰略導向，目標成為代表香港的亞洲人氣偶像天團。
 
-2015年經歷成員洗牌後，成員包括[Shin](../Page/吳思佳.md "wikilink")、[Nata](../Page/陳苑澄.md "wikilink")、[Chloe及](../Page/蘇皓兒.md "wikilink")[Kayan](https://zh.wikipedia.org/wiki/陳嘉茵 "wikilink")，並於韓國正式出道，成為首隊進軍韓國流行音樂市場的香港[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。
+2015年經歷成員洗牌後，成員包括[Shin](../Page/吳思佳.md "wikilink")、[Tania](../Page/陳苑澄.md "wikilink")、[Chloe及](../Page/蘇皓兒.md "wikilink")[Kayan](https://zh.wikipedia.org/wiki/陳嘉茵 "wikilink")，並於韓國正式出道，成為首隊進軍韓國流行音樂市場的香港[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")。
 
-2017年Nata、Shin與太陽娛樂解約離開而退出組合，往後As One將暫以個人活動為主，Kayan接替Shin擔任隊長。
+2017年Tania、Shin與太陽娛樂解約離開而退出組合，往後As One將暫以個人活動為主，Kayan接替Shin擔任隊長。
 
 2017年12月，As One正式解散，成員各自發展，Shin到韓國發展，而後來加入的陳嘉茵則到台灣發展\[1\]，2018年回港發展。
 
 2018年6月，As
-One前成員Nata參加[該年度的](../Page/2018年度香港小姐競選.md "wikilink")[香港小姐競選](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")\[2\]，奪得「現場至like才藝表演獎」，並入圍最後五強。
+One前成員Tania參加[2018年度香港小姐競選的](../Page/2018年度香港小姐競選.md "wikilink")[香港小姐競選](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")\[2\]，奪得「現場至like才藝表演獎」，並入圍最後五強。
 
 ## 團名由來
 
@@ -18,7 +18,7 @@ One前成員Nata參加[該年度的](../Page/2018年度香港小姐競選.md "wi
 One」有「團結」、「合為一體」的意思，寓意成員團結一致，猶如一體，而團名縮寫為「A1」，而「A」與「1」分別是字母與數字之首，故團名亦有成員事事盡力，希望能爭取第一之意。
 
 值得一提的是，「As
-One」還曾代表着四位初始成員的名字，除了字母「A」外，「S」、「O」、「N」及「E」分別代表着Shin、Oli、Nata及Elfa四位初始成員，意味著四人能夠團結一致，就像團名一樣，做到「As
+One」還曾代表着四位初始成員的名字，除了字母「A」外，「S」、「O」、「N」及「E」分別代表着Shin、Oli、Tania及Elfa四位初始成員，意味著四人能夠團結一致，就像團名一樣，做到「As
 One」。
 
 而在韓國，「As One」則會以「AS 1」（에즈원）進行活動。
@@ -27,7 +27,7 @@ One」。
 
 ### 2012至2013年：香港出道《Catch Me Up》及首張迷你專輯《AsOnE》
 
-2012年6月25日，As One 正式出道，初始成員包括Shin、Elfa、Oli、Nata。
+2012年6月25日，As One 正式出道，初始成員包括Shin、Elfa、Oli、Tania。
 
 2012年7月26日，公開出道曲《Catch Me Up》音源及MV。MV上載僅5天，點擊率已衝破十萬，並惹來極大迴響。
 
@@ -41,7 +41,7 @@ One」。
 
 ### 2014至2015年：成員大變動及韓國出道《Candy Ball》
 
-2014年1月4日，官方公開Shin、Nata及Elfa三人「太陽飛馬」打氣歌《Let's Goal》音源及MV。
+2014年1月4日，官方公開Shin、Tania及Elfa三人「太陽飛馬」打氣歌《Let's Goal》音源及MV。
 
 2014年1月9日，成員Oli完成休養，正式回歸 As One。
 
@@ -84,14 +84,14 @@ Ya》MV首播會暨簽唱會」於活動中首播粵語版MV及首次獻唱新�
 
 ### 2017年：個人活動
 
-2017年2月，太陽娛樂表示成員Nata已提出提前解約離開而退出，組合暫不會解散。往後As One將暫以個人活動為主。
+2017年2月，太陽娛樂表示成員Tania已提出提前解約離開而退出，組合暫不會解散。往後As One將暫以個人活動為主。
 
 2017年6月，隊長Shin於個人SNS發放個人出道預告，並跳槽到Unleash娛樂。
 
 2017年12月，As
 One正式解散，成員各自發展，Shin到中國發展；陳嘉茵則到台灣發展，2018年簽約[夢想沙龍](https://zh.wikipedia.org/wiki/夢想沙龍 "wikilink")，並回港推出首支個人派台作品《大肆慶祝》；
 
-2018年6月，Nata報名參加了[2018年度香港小姐競選](../Page/2018年度香港小姐競選.md "wikilink")\[8\]。據了解，陳苑澄曾為香港藝術體操隊成員，她曾於2005年接受報章訪問，表示自己當時參與藝術體操已有四年時間，而自己愛上藝術體操是因為動作優美，表演時十分有美感，而棒操則為的自己的強項。\[9\]她於2017年離開As
+2018年6月，Tania報名參加了[2018年度香港小姐競選](../Page/2018年度香港小姐競選.md "wikilink")\[8\]。據了解，陳苑澄曾為香港藝術體操隊成員，她曾於2005年接受報章訪問，表示自己當時參與藝術體操已有四年時間，而自己愛上藝術體操是因為動作優美，表演時十分有美感，而棒操則為的自己的強項。\[9\]她於2017年離開As
 One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競選而再次受到關注](https://zh.wikipedia.org/wiki/香港小姐競選 "wikilink")。\[10\]
 
 ## 成員資料
@@ -109,8 +109,8 @@ One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競
 | Oli Huang     |
 | Elfa          |
 | Francesca Yau |
-| Nata          |
-| Tania Chan    |
+| Tania         |
+| Tania chan    |
 | Shin          |
 | Katarina Ng   |
 
@@ -121,7 +121,7 @@ One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競
 | 5月    | 6月    | 1月    | 8月    | 4月    | 5月    | 1月    |
 | Shin  |       |       |       |       |       |       |
 | Oli   |       |       |       |       |       |       |
-| Nata  |       |       |       |       |       |       |
+| Tania |       |       |       |       |       |       |
 | Elfa  |       |       |       |       |       |       |
 | Chloe |       |       |       |       |       |       |
 | Kayan |       |       |       |       |       |       |
@@ -168,7 +168,7 @@ One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競
 <td><p><strong>1st</strong></p></td>
 <td><p>Catch Me Up</p></td>
 <td><p>2012年7月27日</p></td>
-<td><p>Shin、Nata、Elfa、Oli</p></td>
+<td><p>Shin、Tania、Elfa、Oli</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
@@ -193,13 +193,13 @@ One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競
 <td><p><strong>5th</strong></p></td>
 <td><p>New Girl</p></td>
 <td><p>2014年10月27日</p></td>
-<td><p>Shin、Nata、Elfa</p></td>
+<td><p>Shin、Tania、Elfa</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>6th</strong></p></td>
 <td><p>Candy Ball</p></td>
 <td><p>2015年7月24日</p></td>
-<td><p>Shin、Nata、KaYan、Chloe</p></td>
+<td><p>Shin、Tania、KaYan、Chloe</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong>7th</strong></p></td>
@@ -212,16 +212,16 @@ One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競
 
 ### 韓語單曲
 
-| 單曲      | 單曲名稱            | 發行日期       | 主唱                    |
-| ------- | --------------- | ---------- | --------------------- |
-| **1st** | 캔디볼（Candy Ball） | 2015年7月13日 | Shin、Nata、KaYan、Chloe |
-| **2nd** | 헤이야 (Hey Ya)    | 2016年5月4日  |                       |
+| 單曲      | 單曲名稱            | 發行日期       | 主唱                     |
+| ------- | --------------- | ---------- | ---------------------- |
+| **1st** | 캔디볼（Candy Ball） | 2015年7月13日 | Shin、Tania、KaYan、Chloe |
+| **2nd** | 헤이야 (Hey Ya)    | 2016年5月4日  |                        |
 
 ### 國語單曲
 
-| 單曲      | 單曲名稱   | 發行日期      | 主唱                    |
-| ------- | ------ | --------- | --------------------- |
-| **1st** | Hey Ya | 2016年5月4日 | Shin、Nata、KaYan、Chloe |
+| 單曲      | 單曲名稱   | 發行日期      | 主唱                     |
+| ------- | ------ | --------- | ---------------------- |
+| **1st** | Hey Ya | 2016年5月4日 | Shin、Tania、KaYan、Chloe |
 
 ### PRODUCE 101
 
@@ -288,9 +288,9 @@ One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競
 
 ### 其他歌曲
 
-| 單曲      | 單曲名稱       | 發行日期      | 主唱             | 備註                                                          |
-| ------- | ---------- | --------- | -------------- | ----------------------------------------------------------- |
-| **1st** | Let's Goal | 2014年1月4日 | Shin、Nata、Elfa | [太陽飛馬打氣歌](https://zh.wikipedia.org/wiki/香港飛馬足球會 "wikilink") |
+| 單曲      | 單曲名稱       | 發行日期      | 主唱              | 備註                                                          |
+| ------- | ---------- | --------- | --------------- | ----------------------------------------------------------- |
+| **1st** | Let's Goal | 2014年1月4日 | Shin、Tania、Elfa | [太陽飛馬打氣歌](https://zh.wikipedia.org/wiki/香港飛馬足球會 "wikilink") |
 
 ## 派台歌曲成績
 
@@ -369,60 +369,60 @@ One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競
 <td style="text-align: center;"><p>2012年</p></td>
 <td style="text-align: center;"><p>Catch Me Up</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>Shin、Nata、Oli、Elfa</p></td>
+<td style="text-align: center;"><p>Shin、Tania、Oli、Elfa</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2013年</p></td>
 <td style="text-align: center;"><p>Red Hot Hits 2013</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>Shin、Nata、Oli、Elfa</p></td>
+<td style="text-align: center;"><p>Shin、Tania、Oli、Elfa</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>4EVER</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>Shin、Nata、Oli、Elfa</p></td>
+<td style="text-align: center;"><p>Shin、Tania、Oli、Elfa</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>2014年</p></td>
 <td style="text-align: center;"><p>Let's Goal（太陽飛馬打氣歌）</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>Shin、Nata、Elfa</p></td>
+<td style="text-align: center;"><p>Shin、Tania、Elfa</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>Be With U</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>Shin、Nata、Oli、Elfa</p></td>
+<td style="text-align: center;"><p>Shin、Tania、Oli、Elfa</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>New Girl</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>Shin、Nata、Elfa</p></td>
+<td style="text-align: center;"><p>Shin、Tania、Elfa</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2015年</p></td>
 <td style="text-align: center;"><p>캔디볼</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>Shin、Nata、Chloe、Kayan</p></td>
+<td style="text-align: center;"><p>Shin、Tania、Chloe、Kayan</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>Candy Ball</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>Shin、Nata、Chloe、Kayan</p></td>
+<td style="text-align: center;"><p>Shin、Tania、Chloe、Kayan</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>2016年</p></td>
 <td style="text-align: center;"><p>헤이야</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>Shin、Nata、Chloe、Kayan</p></td>
+<td style="text-align: center;"><p>Shin、Tania、Chloe、Kayan</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>Hey Ya!</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>Shin、Nata、Chloe、Kayan</p></td>
+<td style="text-align: center;"><p>Shin、Tania、Chloe、Kayan</p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>
@@ -794,7 +794,7 @@ One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競
 
 <!-- end list -->
 
-  - 那些愛過我的他們（Nata、Elfa）
+  - 那些愛過我的他們（Tania、Elfa）
 
 ## 代言人／廣告
 
@@ -820,7 +820,7 @@ One後曾修讀心理學課程，並於2018年參選該年度的[香港小姐競
 </tr>
 <tr class="odd">
 <td><p>藍妹啤酒</p></td>
-<td><p>全員（Shin、Nata、Oli、Elfa）</p></td>
+<td><p>全員（Shin、Tania、Oli、Elfa）</p></td>
 <td></td>
 </tr>
 <tr class="even">

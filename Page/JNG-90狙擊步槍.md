@@ -19,7 +19,7 @@ JNG-90**是由[土耳其MKEK公司於](../Page/土耳其.md "wikilink")2004年\[
 
   - [World
     Guns](http://world.guns.ru/sniper/sniper-rifles/tr/mkek-jng-90-bora-r.html)
-  - [官網](http://www.mkek.gov.tr/english/foUrunDetaylari.aspx?iKodUrun=335&iKodUrunKategorisi=131)
+  - [官網](https://web.archive.org/web/20120229213151/http://www.mkek.gov.tr/english/foUrunDetaylari.aspx?iKodUrun=335&iKodUrunKategorisi=131)
 
 [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink")
 [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink")

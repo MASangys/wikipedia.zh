@@ -116,7 +116,7 @@ IV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](.
   - [少女時代](https://zh.wikipedia.org/wiki/少女時代 "wikilink")
     （[太妍](../Page/太妍.md "wikilink")、[Sunny](https://zh.wikipedia.org/wiki/李純揆 "wikilink")、[Tiffany](https://zh.wikipedia.org/wiki/Tiffany "wikilink")、[孝淵](https://zh.wikipedia.org/wiki/孝淵 "wikilink")、[俞利](../Page/俞利.md "wikilink")、[秀英](https://zh.wikipedia.org/wiki/秀英 "wikilink")(缺席東京、上海場演出)、[潤娥](https://zh.wikipedia.org/wiki/潤娥 "wikilink")(缺席台灣場演出)、[徐玄](https://zh.wikipedia.org/wiki/徐玄 "wikilink")）
   - [SHINee](../Page/SHINee.md "wikilink")
-    （[溫流](../Page/溫流.md "wikilink")(缺席首爾場演出)、[鐘鉉](../Page/鐘鉉.md "wikilink")、[Key](https://zh.wikipedia.org/wiki/Key "wikilink")、[珉豪](../Page/珉豪.md "wikilink")(缺席大板場演出)、[泰民](../Page/泰民.md "wikilink")）
+    （[溫流](../Page/溫流.md "wikilink")(缺席首爾場演出)、[鐘鉉](../Page/鐘鉉.md "wikilink")、[Key](https://zh.wikipedia.org/wiki/Key "wikilink")、[珉豪](../Page/珉豪.md "wikilink")(缺席大阪場演出)、[泰民](../Page/泰民.md "wikilink")）
   - [f(x)](https://zh.wikipedia.org/wiki/f\(x\)_\(組合\) "wikilink")
     （[Victoria](https://zh.wikipedia.org/wiki/Victoria "wikilink")(缺席東京、大板場演出)、[Amber](https://zh.wikipedia.org/wiki/Amber "wikilink")、[Luna](https://zh.wikipedia.org/wiki/Luna "wikilink")、[Krystal](../Page/鄭秀晶.md "wikilink")）
   - [EXO](../Page/EXO.md "wikilink")
@@ -173,6 +173,7 @@ IV**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀公司](.
 
 [Category:SMTOWN巡迴演唱會](https://zh.wikipedia.org/wiki/Category:SMTOWN巡迴演唱會 "wikilink")
 [Category:2014年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2014年巡迴演唱會 "wikilink")
+[Category:2015年巡迴演唱會](https://zh.wikipedia.org/wiki/Category:2015年巡迴演唱會 "wikilink")
 
 1.
 2.

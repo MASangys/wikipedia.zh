@@ -8,7 +8,8 @@
     4](https://zh.wikipedia.org/wiki/華碩ZenFone_4_\(2014\) "wikilink")
   - [ZenFone
     5](https://zh.wikipedia.org/wiki/華碩ZenFone_5_\(2014\) "wikilink")
-  - [ZenFone 6](https://zh.wikipedia.org/wiki/ZenFone_6 "wikilink")
+  - [ZenFone
+    6](https://zh.wikipedia.org/wiki/華碩ZenFone_6_\(2014\) "wikilink")
   - [ZenFone C](https://zh.wikipedia.org/wiki/ZenFone_C "wikilink")
 
 ### ZenFone 第二代
@@ -29,6 +30,12 @@
 
   - [ZenFone
     5](https://zh.wikipedia.org/wiki/華碩ZenFone_5_\(2018\) "wikilink")
+    （註：與第一代機型同名但不同標誌。）
+
+### ZenFone 第六代
+
+  - [ZenFone
+    6](https://zh.wikipedia.org/wiki/華碩ZenFone_6_\(2019\) "wikilink")
     （註：與第一代機型同名但不同標誌。）
 
 ### ZenFone 特色機種

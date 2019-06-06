@@ -44,30 +44,30 @@ COAST。
 ### 2014年
 
   - 最優秀女優獎
-      - **白金獎**：**[上原亞衣](../Page/上原亞衣.md "wikilink")**\[5\]
-      - **黃金獎**：**[彩美旬果](../Page/彩美旬果.md "wikilink")**
+      - **白金獎**：**[上原亜衣](../Page/上原亞衣.md "wikilink")**\[5\]
+      - **黃金獎**：**[あやみ旬果](../Page/彩美旬果.md "wikilink")**
   - 最優秀新人獎：[白石茉莉奈](../Page/白石茉莉奈.md "wikilink")\[6\]
-  - 特別獎：[麻美由真](../Page/麻美由真.md "wikilink")（大病後的復出）\[7\]
+  - 特別獎：[麻美ゆま](../Page/麻美由真.md "wikilink")（大病後的復出）\[7\]
   - 話題獎
-      - **[吉澤明步](../Page/吉澤明步.md "wikilink")**（入行10週年）
-      - **[明日花綺羅](../Page/明日花綺羅.md "wikilink")**（擔任過兩家片商的專屬女優）
-  - 特別主持人獎：[吉川愛美](../Page/吉川愛美.md "wikilink")
+      - **[吉沢明歩](../Page/吉澤明步.md "wikilink")**（入行10週年）
+      - **[明日花キララ](../Page/明日花綺羅.md "wikilink")**（擔任過兩家片商的專屬女優）
+  - 特別主持人獎：[吉川あいみ](../Page/吉川愛美.md "wikilink")
   - 最優秀作品獎
       - 郵購：《**AV debut**》 -
         [橘梨紗](https://zh.wikipedia.org/wiki/橘梨紗 "wikilink")
-      - 配送：《**絶対的美少女、お貸しします**》 - [鈴村愛里](../Page/鈴村愛里.md "wikilink")
+      - 配送：《**絶対的美少女、お貸しします**》 - [鈴村あいり](../Page/鈴村愛里.md "wikilink")
       - 租賃：《**新人NO.1 STYLE スター候補生**》 -
-        [緒川里緒](../Page/緒川里緒.md "wikilink")
+        [緒川りお](../Page/緒川里緒.md "wikilink")
 
 ### 2015年
 
-  - 最優秀女優獎\[8\]：**湊莉久**
-  - 優秀女優獎：**白石茉莉奈**
-  - 最優秀新人獎\[9\]：**[天使もえ](https://zh.wikipedia.org/wiki/天使もえ "wikilink")**
-  - 特別獎\[10\]：**[希志爱野](../Page/希志愛野.md "wikilink")**
-  - 話題獎：**[櫻由羅](https://zh.wikipedia.org/wiki/櫻由羅 "wikilink")**
+  - 最優秀女優獎\[8\]：**[湊莉久](../Page/湊莉久.md "wikilink")**
+  - 優秀女優獎：**[白石茉莉奈](../Page/白石茉莉奈.md "wikilink")**
+  - 最優秀新人獎\[9\]：**[天使もえ](../Page/天使萌.md "wikilink")**
+  - 特別獎\[10\]：**[希志あいの](../Page/希志愛野.md "wikilink")**
+  - 話題獎：**[さくらゆら](https://zh.wikipedia.org/wiki/櫻由羅 "wikilink")**
   - 特別主持人獎：**[東凛](https://zh.wikipedia.org/wiki/東凛 "wikilink")**
-  - 媒體獎：**[小島みなみ](https://zh.wikipedia.org/wiki/小島みなみ "wikilink")**
+  - 媒體獎：**[小島みなみ](https://zh.wikipedia.org/wiki/小島南 "wikilink")**
   - 最優秀作品獎
 
 :\* 郵購：《**R18
@@ -76,20 +76,20 @@ COAST。
 
 :\* 配送《**がご奉仕しちゃう
 超最新やみつきエステ**》（2014年5月1日、[PRESTIGE](https://zh.wikipedia.org/wiki/Prestige "wikilink")）-
-[桃谷繪里香](https://zh.wikipedia.org/wiki/桃谷繪里香 "wikilink")
+[桃谷エリカ](https://zh.wikipedia.org/wiki/桃谷繪里香 "wikilink")
 
 :\* 租賃：《'''現役女子大生\!\! 照れカワ、ふんわり18歳 AVデビュー\!\!
 '''》（2014年3月1日、[MOODYZ](../Page/MOODYZ.md "wikilink")）-
-[初川南](../Page/初川南.md "wikilink")
+[初川みなみ](../Page/初川南.md "wikilink")
 
 ### 2016年
 
   - 最優秀女優獎：**[大槻ひびき](https://zh.wikipedia.org/wiki/大槻ひびき "wikilink")**
   - 優秀女優獎：**[AIKA](../Page/AIKA_\(AV女優\).md "wikilink")**
-  - 最優秀新人獎：**[三上悠亚](https://zh.wikipedia.org/wiki/三上悠亜 "wikilink")**
+  - 最優秀新人獎：**[三上悠亜](https://zh.wikipedia.org/wiki/三上悠亜 "wikilink")**
   - 特別獎：**[JULIA](../Page/JULIA_\(AV女優\).md "wikilink")**
-  - 話題獎：**[市川まさみ](https://zh.wikipedia.org/wiki/市川まさみ "wikilink")**
-  - 特別主持人獎：**[葵司](https://zh.wikipedia.org/wiki/葵つかさ "wikilink")**
+  - 話題獎：**[市川まさみ](../Page/市川雅美.md "wikilink")**
+  - 特別主持人獎：**[葵つかさ](../Page/葵司.md "wikilink")**
   - 媒體獎：**[紗倉まな](../Page/紗倉真菜.md "wikilink")**
   - 最優秀作品獎
 
@@ -107,14 +107,14 @@ Peach**》（2015年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wi
 
 ### 2017年
 
-  - 最優秀女優獎：**三上悠亚**
-  - 優秀女優獎：**[明日花绮罗](../Page/明日花綺羅.md "wikilink")**
-  - 最優秀新人獎：**[高桥圣子](../Page/高橋聖子.md "wikilink")**
-  - 優秀新人獎：**[羽咲美晴](../Page/羽咲美晴.md "wikilink")**
-  - 特別獎：**[安部未华子](../Page/安部未華子.md "wikilink")**
-  - 話題獎：**[凰香奈芽](../Page/凰香奈芽.md "wikilink")**
-  - 特別主持人獎：**[椎名そら](https://zh.wikipedia.org/wiki/椎名そら "wikilink")**
-  - 媒體獎：**[桃乃木香奈](../Page/桃乃木香奈.md "wikilink")**
+  - 最優秀女優獎：**[三上悠亜](https://zh.wikipedia.org/wiki/三上悠亜 "wikilink")**
+  - 優秀女優獎：**[明日花キララ](../Page/明日花綺羅.md "wikilink")**
+  - 最優秀新人獎：**[高橋 しょう子](../Page/高橋聖子.md "wikilink")**
+  - 優秀新人獎：**[羽咲 みはる](../Page/羽咲美晴.md "wikilink")**
+  - 特別獎：**[あべ みかこ](../Page/安部未華子.md "wikilink")**
+  - 話題獎：**[凰 かなめ](../Page/凰香奈芽.md "wikilink")**
+  - 特別主持人獎：**[椎名そら](../Page/椎名空.md "wikilink")**
+  - 媒體獎：**[桃乃木かな](../Page/桃乃木香奈.md "wikilink")**
   - 最優秀作品獎
 
 :\* 郵購：《**グラビア四天王たかしょーMUTEKI
@@ -131,14 +131,14 @@ Debut**》（2016年5月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wi
 
 ### 2018年
 
-  - 最優秀女優獎：**[桥本有菜](../Page/橋本有菜.md "wikilink")**
-  - 優秀女優獎：**[高桥圣子](../Page/高橋聖子.md "wikilink")**
-  - 最優秀新人獎：**[桜空もも](https://zh.wikipedia.org/wiki/桜空もも "wikilink")**
-  - 優秀新人獎：**[水卜さくら](https://zh.wikipedia.org/wiki/水卜さくら "wikilink")**
+  - 最優秀女優獎：**[橋本ありな](../Page/橋本有菜.md "wikilink")**
+  - 優秀女優獎：**[高橋しょう子](../Page/高橋聖子.md "wikilink")**
+  - 最優秀新人獎：**[桜空もも](https://zh.wikipedia.org/wiki/櫻空桃 "wikilink")**
+  - 優秀新人獎：[水卜さくら](../Page/水卜櫻.md "wikilink")
   - 特別獎：**[松本菜奈実](https://zh.wikipedia.org/wiki/松本菜奈実 "wikilink")**
   - 話題獎：**[戸田真琴](https://zh.wikipedia.org/wiki/戸田真琴 "wikilink")**
-  - 特別主持人獎：[明里䌷](../Page/明里紬.md "wikilink")
-  - 週刊プレイボーイ獎：**[桥本有菜](../Page/橋本有菜.md "wikilink")**
+  - 特別主持人獎：[明里つむぎ](../Page/明里紬.md "wikilink")
+  - 週刊プレイボーイ獎：**[橋本ありな](../Page/橋本有菜.md "wikilink")**
   - 最優秀作品獎
 
 :\* 郵購：《**Fade
@@ -152,6 +152,30 @@ In**》（2017年6月1日、[MUTEKI](https://zh.wikipedia.org/wiki/MUTEKI "wikil
 :\* 租賃：《**E-BODYが1年がかりでAV出演を口説いた超有名歓楽街すすきのNo.1美乳ソープ嬢
 専属デビュー**》（2017年1月15日、[E-BODY](https://zh.wikipedia.org/wiki/E-BODY "wikilink")）-
 **[堺希美](https://zh.wikipedia.org/wiki/堺希美 "wikilink")**
+
+### 2019年
+
+  - 最優秀女優獎：**[相沢みなみ](../Page/相澤南.md "wikilink")**
+  - 優秀女優獎：**[天使もえ](../Page/天使萌.md "wikilink")**
+  - 最優秀新人獎：**[河合あすな](../Page/河合明日菜.md "wikilink")**
+  - 優秀新人獎：**[坂道みる](https://zh.wikipedia.org/wiki/坂道美琉 "wikilink")**
+  - 特別獎：**[美谷朱里](../Page/美谷朱里.md "wikilink")**
+  - 話題獎：**[唯井まひろ](https://zh.wikipedia.org/wiki/唯井真尋 "wikilink")**
+  - メディア賞：[水卜さくら](../Page/水卜櫻.md "wikilink")
+  - 週刊プレイボーイ獎：**[吉高寧々](https://zh.wikipedia.org/wiki/吉高寧寧 "wikilink")**
+  - 最優秀作品獎
+
+:\* 動画部門：《**本庄鈴 みなさまのおかげです。AV
+DEBUT**》（2018年5月24日、[SOD](https://zh.wikipedia.org/wiki/SOD "wikilink")）-
+**[本庄鈴](../Page/本庄鈴.md "wikilink")**
+
+:\* 販売部門：《**新人NO.1STYLE
+河北彩花AVデビュー**》（2018年4月19日、[S1](https://zh.wikipedia.org/wiki/S1 "wikilink")）-
+**[河北彩花](../Page/河北彩花.md "wikilink")**
+
+:\* レンタル部門：《**新人NO.1STYLE
+河北彩花AVデビュー**》（2018年4月19日、[S1](https://zh.wikipedia.org/wiki/S1 "wikilink")）-
+**[河北彩花](../Page/河北彩花.md "wikilink")**
 
 ## 记录
 

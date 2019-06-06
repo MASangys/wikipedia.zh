@@ -52,7 +52,8 @@ Interactive从刚刚倒闭的THQ公司手里收购旗下的Yuke's工作室，获
 
   - [2K
     Sports官方网站](https://web.archive.org/web/20090713061602/http://www.2ksports.com/)
-  - [2K Games官方网站](http://www.2kgames.com/)
+  - [2K
+    Games官方网站](https://web.archive.org/web/20100701170800/http://www.2kgames.com/)
 
 [Category:2005年開業電子遊戲公司](https://zh.wikipedia.org/wiki/Category:2005年開業電子遊戲公司 "wikilink")
 [Category:Take-Two_Interactive的部门与子公司](https://zh.wikipedia.org/wiki/Category:Take-Two_Interactive的部门与子公司 "wikilink")

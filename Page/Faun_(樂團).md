@@ -28,7 +28,7 @@ XV - BEST-OF》**，包含數首重新錄製、現場演出的舊歌，與兩首
 ## 風格
 
 Faun主要使用古波斯─阿拉伯地區的曲調，配上[瑞典傳統樂器](../Page/瑞典.md "wikilink")等中世紀樂器以及電子節奏。歌詞以[標準德語](../Page/標準德語.md "wikilink")、[低地德語](https://zh.wikipedia.org/wiki/低地德語 "wikilink")、[中古高地德語](../Page/中古高地德語.md "wikilink")、[古諾爾斯語](https://zh.wikipedia.org/wiki/古諾爾斯語 "wikilink")、[拉丁語](https://zh.wikipedia.org/wiki/拉丁語 "wikilink")、[匈牙利語](https://zh.wikipedia.org/wiki/匈牙利語 "wikilink")、[芬蘭語](https://zh.wikipedia.org/wiki/芬蘭語 "wikilink")、[拉迪諾語等語言寫成](../Page/拉迪諾語.md "wikilink")，採自[布蘭詩歌](https://zh.wikipedia.org/wiki/布蘭詩歌 "wikilink")、[詩體埃達等古代文學或是現代德國詩文](../Page/詩體埃達.md "wikilink")，內容涉及死亡、重生等概念以及北歐神話，主流出道後多以德文創作。2004年，Oliver
-Pade在[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[烏特勒支的](https://zh.wikipedia.org/wiki/烏特勒支 "wikilink")音樂節中說道：「我們不知道我們玩的是哪種音樂，所以我們稱它做『異教民謠』。」(We
+Pade在[荷蘭](https://zh.wikipedia.org/wiki/荷蘭 "wikilink")[烏特勒支的](https://zh.wikipedia.org/wiki/烏特勒支 "wikilink")音樂節中說道：「我們自己也不知道我們演奏的是哪種音樂，所以我們稱它做『異教民謠』。」(We
 don't know ourselves what kind of music we play, so we call it
 paganfolk.)
 

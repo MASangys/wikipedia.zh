@@ -29,7 +29,7 @@ RT中](../Page/Windows_RT.md "wikilink")，微软取消了对加载项的支持�
 
 {{-}}
 
-[Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink")
+[Category:Internet_Explorer加载项](https://zh.wikipedia.org/wiki/Category:Internet_Explorer加载项 "wikilink")
 
 1.  Browser
     Extensions微软开发人员网络http://msdn.microsoft.com/en-us/library/aa753587（v=vs.85）.aspx

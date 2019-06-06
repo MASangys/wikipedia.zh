@@ -728,175 +728,180 @@ ACP](../Page/.45_ACP.md "wikilink")[口徑版本](https://zh.wikipedia.org/wiki/
 </tr>
 <tr class="even">
 <td></td>
-<td><p>於2010年被聯邦實用射擊會採購作運動用途[61][62]</p></td>
+<td><p>特種部隊單位</p></td>
 <td><p>P226</p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>於2010年被聯邦實用射擊會採購作運動用途[61][62]</p></td>
+<td><p>P226</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/聯邦警衛局" title="wikilink">聯邦警衛局</a></p></td>
 <td><p>P226</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/沙特阿拉伯軍事.md" title="wikilink">沙特阿拉伯皇家武裝部隊</a></p></td>
 <td><p>P226</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>特種部隊單位</p></td>
 <td><p>P226</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/新加坡武裝部隊.md" title="wikilink">新加坡武裝部隊</a>[63]</p></td>
 <td><p>P226</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/新加坡警察部隊" title="wikilink">新加坡警察部隊</a></p></td>
 <td><p>P226</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>—</p></td>
 <td><p>P226</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>[64]</p></td>
 <td><p>P226</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>[65]</p></td>
 <td><p>P226</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>地方警察單位</p></td>
 <td><p>P226</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>聯邦刑事警察</p></td>
 <td><p>P226</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/瑞士陸軍" title="wikilink">瑞士陸軍</a></p></td>
 <td><p>P226</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td></td>
-<td><p>—</p></td>
-<td><p>P226</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td><p>P226</p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>P226</p></td>
-<td></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td><p>—</p></td>
 <td><p>P226</p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td><p>P226</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>P226</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>—</p></td>
+<td><p>P226</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/英國軍隊.md" title="wikilink">英國武裝部隊</a></p></td>
 <td><p>P226；標準型P226命名為<strong>L105A1</strong>[66]，耐腐蝕處理改進型P226命名為<strong>L106A1</strong>[67]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/英國特種部隊" title="wikilink">英國特種部隊</a>[68]</p></td>
 <td><p>P226；命名為<strong>L107A1</strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/北安普敦郡.md" title="wikilink">北安普敦郡</a><a href="../Page/警察.md" title="wikilink">警察</a></p></td>
 <td><p>P226</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/联邦调查局.md" title="wikilink">联邦调查局</a>[69]</p></td>
 <td><p>P226</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/美國海軍.md" title="wikilink">美國海軍</a>[70]</p></td>
 <td><p>P226R（<a href="../Page/9×19mm魯格彈.md" title="wikilink">9×19毫米</a>）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>[71]</p></td>
 <td><p>P226（<a href="../Page/9×19mm魯格彈.md" title="wikilink">9×19毫米</a>）；命名為<strong>Mk 25</strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>P226R</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/美國農業部" title="wikilink">美國農業部</a></p></td>
 <td><p>P226（<a href="../Page/.40_S&amp;W.md" title="wikilink">.40 S&amp;W</a>）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/美國能源部.md" title="wikilink">美國能源部</a></p></td>
 <td><p>P226（<a href="../Page/9×19mm魯格彈.md" title="wikilink">9×19毫米</a>）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/印第安事務局.md" title="wikilink">印第安事務局</a></p></td>
 <td><p>P226（<a href="../Page/9×19mm魯格彈.md" title="wikilink">9×19毫米</a>）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>P226（<a href="../Page/9×19mm魯格彈.md" title="wikilink">9×19毫米</a>）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/美國菸酒槍炮及爆裂物管理局.md" title="wikilink">美國菸酒槍炮及爆裂物管理局</a></p></td>
 <td><p>P226（<a href="../Page/9×19mm魯格彈.md" title="wikilink">9×19毫米</a>）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/美國緝毒局" title="wikilink">美國緝毒局</a></p></td>
 <td><p>P226（<a href="../Page/9×19mm魯格彈.md" title="wikilink">9×19毫米</a>）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/美國國家公園管理局" title="wikilink">美國國家公園管理局</a></p></td>
 <td><p>P226（<a href="../Page/9×19mm魯格彈.md" title="wikilink">9×19毫米</a>）、P226 （<a href="../Page/.40_S&amp;W.md" title="wikilink">.40 S&amp;W</a>）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/美國財政部" title="wikilink">美國財政部</a></p></td>
 <td><p>P226（<a href="../Page/9×19mm魯格彈.md" title="wikilink">9×19毫米</a>）</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/德州騎警司" title="wikilink">德州騎警司</a>[72]</p></td>
 <td><p>P226（<a href="../Page/.357_SIG.md" title="wikilink">.357 SIG</a>）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>多個地方警察局</p></td>
 <td><p>P226、P226R、P226DAK</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/瑞士近衛隊" title="wikilink">瑞士近衛隊</a></p></td>
 <td><p>P226</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/委內瑞拉軍事.md" title="wikilink">委內瑞拉國民軍</a></p></td>
 <td><p>P226</p></td>
@@ -1246,7 +1251,7 @@ P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧](..
     zh-hk:榮譽勳章;}-2010](../Page/榮譽勳章_\(2010年遊戲\).md "wikilink")》：型號為P226R，連槍口螺紋，命名為「P226」，18+1發[彈匣](../Page/彈匣.md "wikilink")。故事模式時被主角「野兔」所使用。
   - 2012年—《[-{zh-cn:荣誉勋章：战士; zh-tw:榮譽勳章：鐵血悍將;
     zh-hk:榮譽勳章：鐵血悍將;}-](https://zh.wikipedia.org/wiki/榮譽勳章：鐵血悍將 "wikilink")》：型號為P226R，連槍口螺紋，命名為「SIG-Sauer
-    P226」，15+1發[彈匣](../Page/彈匣.md "wikilink")。故事模式時被[美国海军特种作战研究大队所使用](../Page/美国海军特种作战研究大队.md "wikilink")；聯機模式時為所有國家的突擊兵。
+    P226」，15+1發[彈匣](../Page/彈匣.md "wikilink")。故事模式時被[美國海軍特種作戰開發組所使用](../Page/美國海軍特種作戰開發組.md "wikilink")；聯機模式時為所有國家的突擊兵。
   - 2012年—《[-{zh-cn:杀手：赦免;
     zh-tw:刺客任務：赦免;}-](https://zh.wikipedia.org/wiki/殺手：赦免 "wikilink")》：型號為P226R，命名為「JAGD
     P22G」，衍生型為：消聲型、情報局型和萊拉型。
@@ -1275,6 +1280,7 @@ P226同時出現在不少[电影](../Page/电影.md "wikilink")、[电视剧](..
   - 2015年—《[虹彩六號：圍攻行動](../Page/虹彩六號：圍攻行動.md "wikilink")》：型號為P226 Mk
     25型，被[特种空勤团所使用](../Page/特种空勤团.md "wikilink")。
   - 2016年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》：名稱為P226的少女戰術人形，2017年9月的簽到槍。
+  - 2016年—《》（Escape From Tarkov）：型號為P226R。
   - 2018年—《[-{zh-hans:孤岛惊魂; zh-hant:極地戰嚎;
     zh-tw:極地戰嚎;}-5](https://zh.wikipedia.org/wiki/極地戰嚎5 "wikilink")》（Far
     Cry 5）：型號為P226R，命名為“P226”。

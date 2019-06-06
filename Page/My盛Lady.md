@@ -461,7 +461,7 @@ Paulala Beauty美容院老闆<br />
 鍾情香廣男<br />
 于第13集發現董天驕欺騙自己而與其反目<br />
 於第15集被香廣男捧紅為歌手<br />
-于第17集被香广男强吻，後與其分手<br />
+于第17集被香广男强吻，後掌摑其並與其分手<br />
 於第20集原諒董天驕並再度為其女友，最後結婚<br />
 參見<a href="https://zh.wikipedia.org/wiki/#袁家" title="wikilink"><strong>袁家</strong></a></p></td>
 </tr>
@@ -478,7 +478,7 @@ Paulala Beauty美容院老闆<br />
 <td><p><strong>香廣男</strong></p></td>
 <td><p>袁萱之鍾情對象<br />
 於第14集受董天驕所托與袁萱拍拖<br />
-於第17集為了令袁萱醒悟而強吻她，後分手</p></td>
+於第17集為了令袁萱醒悟而強吻她，後被其掌摑並分手</p></td>
 </tr>
 </tbody>
 </table>

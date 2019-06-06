@@ -122,8 +122,8 @@ USB系统运行盘\]\]
     為主](http://chinese.engadget.com/2011/09/22/windows-8-ditches-80s-bios-boot-for-streamline-uefi/)ENGADGET
     中文版 2011-9-22
 5.  [發現Store服務
-    傳Windows 8內置應用商店](http://tech.hexun.com.tw/2011-05-03/129243451.html)2011年05月03日18:04　
-    來源：中國軟件資訊網
+    傳Windows 8內置應用商店](http://tech.hexun.com.tw/2011-05-03/129243451.html)
+    2011年05月03日18:04　 來源：中國軟件資訊網
 6.  [Windows 8
     新功能總整理](http://chinese.engadget.com/2011/09/13/windows-8-details-new-features-ui-enhancements-and-everything/)ENGADGET
     中文版 Andy Yang 2011-9-14

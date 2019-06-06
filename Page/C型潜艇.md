@@ -124,6 +124,7 @@
 [Category:蘇聯二戰武器](https://zh.wikipedia.org/wiki/Category:蘇聯二戰武器 "wikilink")
 [Category:中國人民解放軍海軍潛艇](https://zh.wikipedia.org/wiki/Category:中國人民解放軍海軍潛艇 "wikilink")
 [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
+[Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")
 
 1.  <http://www.deepstorm.ru/DeepStorm.files/17-45/c%20IX/list.htm>
 2.  Морозов, Кулагин, Эски в бою, 2008, с. 10

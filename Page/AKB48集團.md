@@ -1,8 +1,8 @@
 **AKB48集團**（，）是[日本作詞家](../Page/日本.md "wikilink")[秋元康所製作的女子](../Page/秋元康.md "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")[AKB48及其姊妹團體](../Page/AKB48.md "wikilink")，以及這些團體所形成的[演藝企劃與品牌之合稱](https://zh.wikipedia.org/wiki/演藝 "wikilink")\[1\]\[2\]。通稱**AKB集團**（）\[3\]、**48集團**（）\[4\]，外界也使用**AKB48企劃**（）\[5\]、**AKB48家族**（）\[6\]等稱呼。有時還會使用更省略的稱呼，如**AKB48G**\[7\]、**AKBG**\[8\]、**48G**\[9\]\[10\]，或直接以**48**來表記\[11\]。
 
-AKB48集團是從日本出發、同時使用「[特許經營](../Page/加盟連鎖.md "wikilink")」的概念跨國運作的大型偶像企劃。目前在日本國內有6個團體（AKB48、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")、[HKT48](../Page/HKT48.md "wikilink")、[NGT48](../Page/NGT48.md "wikilink")、[STU48](../Page/STU48.md "wikilink")），日本以外則有4個團體（[JKT48](../Page/JKT48.md "wikilink")、[BNK48](../Page/BNK48.md "wikilink")、[AKB48
+AKB48集團是從日本出發、同時使用「[特許經營](../Page/加盟連鎖.md "wikilink")」的概念跨國運作的大型偶像企劃。目前在日本國內有6個團體（AKB48、[SKE48](../Page/SKE48.md "wikilink")、[NMB48](../Page/NMB48.md "wikilink")、[HKT48](../Page/HKT48.md "wikilink")、[NGT48](../Page/NGT48.md "wikilink")、[STU48](../Page/STU48.md "wikilink")），日本以外則有5個團體（[JKT48](../Page/JKT48.md "wikilink")、[BNK48](../Page/BNK48.md "wikilink")、[AKB48
 Team TP](../Page/AKB48_Team_TP.md "wikilink")、[AKB48 Team
-SH](../Page/AKB48_Team_SH.md "wikilink")）。在團體操作上，「AKB48集團」與「AKB48」有時不會加以區分，例如以「AKB48」名義進行的作品或活動，包括[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")、[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")、[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")、[電視節目演出等](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，除了AKB48本團之外，通常也有姊妹團體的成員參加（日本國內各團為主），實際上是整個AKB48集團在參與這些作品與活動，這在日本國內的場合尤其明顯。
+SH](../Page/AKB48_Team_SH.md "wikilink")、[SGO48](../Page/SGO48.md "wikilink")）。在團體操作上，「AKB48集團」與「AKB48」有時不會加以區分，例如以「AKB48」名義進行的作品或活動，包括[單曲](https://zh.wikipedia.org/wiki/單曲 "wikilink")、[專輯](https://zh.wikipedia.org/wiki/專輯 "wikilink")、[演唱會](https://zh.wikipedia.org/wiki/演唱會 "wikilink")、[電視節目演出等](https://zh.wikipedia.org/wiki/電視節目 "wikilink")，除了AKB48本團之外，通常也有姊妹團體的成員參加（日本國內各團為主），實際上是整個AKB48集團在參與這些作品與活動，這在日本國內的場合尤其明顯。
 
 ## 概要
 

@@ -96,7 +96,7 @@ YouBike微笑單車在2016年8月30日執行中彰地區系統更新工作時，
 10. [苗栗縣YouBike公共自行車費率說明](https://miaoli.youbike.com.tw/use/rates)
 11. [臺中市iBike公共自行車費率說明](https://i.youbike.com.tw/use/rates)
 12. [彰化縣YouBike公共自行車費率說明](https://chcg.youbike.com.tw/use/rates)
-13. [泉州YouBike微笑自行車收費標準](https://www.youbike.me/cn/use_rates.php)
+13.
 14. 泉港區、台商投資區、泉州開發區、洛江區、江南新區與安溪縣皆與泉州市採同樣收費標準
 15. [莆田YouBike微笑自行車收費標準](https://putian.youbike.me/cn/use_rates.php)
 16. [YouBike也有身分證！跨區租借

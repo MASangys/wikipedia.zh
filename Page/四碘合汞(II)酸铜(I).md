@@ -23,6 +23,7 @@
 [Category:一价铜化合物](https://zh.wikipedia.org/wiki/Category:一价铜化合物 "wikilink")
 [Category:汞配合物](https://zh.wikipedia.org/wiki/Category:汞配合物 "wikilink")
 [Category:碘代酸盐](https://zh.wikipedia.org/wiki/Category:碘代酸盐 "wikilink")
+[Category:具有可逆热致变色效应的物质](https://zh.wikipedia.org/wiki/Category:具有可逆热致变色效应的物质 "wikilink")
 
 1.  《无机化合物合成手册》.第三卷. 日本化学会 编. 曹惠民 译.化学工业出版社. P<sub>394</sub>. 汞的络合物
 

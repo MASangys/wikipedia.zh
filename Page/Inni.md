@@ -64,7 +64,7 @@ Palace](https://zh.wikipedia.org/wiki/Alexandra_Palace "wikilink")。全球發�
 
 ## 引用來源
 
-## 外部鏈接
+## 外部連結
 
   -
 {{-}}

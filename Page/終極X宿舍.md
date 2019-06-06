@@ -161,16 +161,44 @@ followed_by =
 銅時空:Zack&lt;br</p>
 <p>種類：半魑魅→混元高階異能行者／終極鐵克人／鐵時空白道最強異能行者 武器：鬼龍鎞克、鐵克無極 參加大戰的其中一員，戰後失蹤。 十年前，本與寒將要結婚，最後因為怕自己去討伐狄阿怖玀魔尊無法平安回來，而以傳音入密告知寒不要再等自己了。 託付脩帶回了重組感情的墜子，希望寒能有一段新的感情。 36集提到目前還在大戰中，正邪大戰陷入膠著。 第40集為了守護時空和平，與夏宇在大戰中犧牲自己。受傷，需要大東去幫他療傷。終極一班4提及</p></td>
 <td><center>
-<p>'''[[汪東城全劇|</p>
-<center>
+<p>'''[[汪東城全劇</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><center>
 <p><a href="https://zh.wikipedia.org/wiki/羅弘証" title="wikilink">SpeXial-宏正</a>'''</p></td>
 <td><center>
 <p><strong>呼延覺羅·蒼芎（呼延蒼芎）</strong><br />
 金時空：辜戰<br />
 銀時空：黃忠(黃漢升)<br />
 銅時空：勾追</p></td>
+<td><p><strong>狀態：正常→遭魔化→正常</strong><br />
+<strong>種類：未开发風的原位高階異能行者→終極X克人</strong><br />
+20歲，脩的堂弟，與寒因家族世仇的關係而不合，卻漸漸與她成了歡喜冤家。<br />
+因個性關係招惹到Lily(賴歷歷)進入宿舍引起風波。<br />
+第5集幫朱莉亞破壞相親約會。<br />
+大男人主義、自尊心高。<br />
+遭鬼龍攻擊時撞上欄杆而短暫失憶。<br />
+因是正統異能家族，潛能無限，而遭鬼龍附身。<br />
+把朱莉亞當作親妹妹看待。<br />
+在H聯盟管訓室發現呼延家的祖傳吉他。<br />
+第21集為了雄哥、死人叔、阿公而拼了命想彈奏蒐魂曲，卻被眾人極力反對。<br />
+第22集在彈奏蒐魂曲救葉思仁時因寒分心而昏倒，醒來後因蒐魂曲副作用一直纏著寒。<br />
+第26集小聾女給了蒼芎消除蒐魂曲後遺症的藥水，因為喝了會恢復跟寒的世仇，正在猶豫要不要喝。<br />
+第31集於寒房門外向寒告白，最後發現裡面的人是慧慧。<br />
+喝了小聾女的藥後還是對寒有著感情。<br />
+情人節那天想把祖傳吉他送給寒。<br />
+第35集去參加“大飯桶比賽”，但是並沒有獲勝。<br />
+第37集遇到Lily，她卻不記得自己是誰。<br />
+阻止葉聖去救他哥哥陳偉(葉神)。<br />
+第39集中因為葉聖在西洋劍激戰中敗給陳偉，第二個遭到魔化。<br />
+第40集因異能虛擬實境劇場-瘋水世家成為終極X克人，認定夏天、夏宇為異能行者的驕傲。喜歡寒。</p></td>
+<td><center>
+<p>6000(未開發時)→50000+(終極x克人)</p></td>
+<td><center>
+<p>全劇</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/蔡芷紜" title="wikilink">寒</a></p></td>
 <td><center>
@@ -195,7 +223,7 @@ followed_by =
 <td><center>
 <p>全劇</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p><a href="../Page/黃小柔.md" title="wikilink">黃小柔</a></p></td>
 <td><center>
@@ -217,7 +245,7 @@ followed_by =
 <td><center>
 <p>全劇</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p><strong><a href="https://zh.wikipedia.org/wiki/許名傑" title="wikilink">SpeXial-明-{杰}-</a></strong></p></td>
 <td><center>
@@ -247,7 +275,7 @@ followed_by =
 <td><center>
 <p>2，9，11，13，15-25，27-29，31-40 |-駱伯華飾夏蘭荇德·雪</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/王詩安" title="wikilink">王詩安</a></p></td>
 <td><center>
@@ -267,7 +295,7 @@ followed_by =
 <td><center>
 <p>1-19，26，28-35，37，40(影片)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/阿西" title="wikilink">阿西</a><br />
 (<a href="../Page/陳博正.md" title="wikilink">陳博正</a>)</p></td>
@@ -294,7 +322,7 @@ followed_by =
 <td><center>
 <p>1-6，8-17，19-23，26-27，29-34，36-40</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p><a href="../Page/蔡昌憲.md" title="wikilink">蔡昌憲</a></p></td>
 <td><center>
@@ -315,7 +343,7 @@ followed_by =
 <td><center>
 <p>1-27，30-35，38-40</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/阿喜_(藝人)" title="wikilink">阿喜</a><br />
 (原訂<a href="../Page/文雨非.md" title="wikilink">文雨非飾</a>)</p></td>
@@ -339,7 +367,7 @@ followed_by =
 <td><center>
 <p>1-26，28-40</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p><a href="../Page/陳德修.md" title="wikilink">赤世代-脩</a></p></td>
 <td><center>
@@ -349,7 +377,7 @@ followed_by =
 <td><p><strong>狀態：正常→失蹤→被魔尊控制→正常</strong><br />
 <strong>種類：風的原位高階異能行者</strong><br />
 <strong>武器：神風鎞克、小黃蜂</strong><br />
-30歲，葉宇香的丈夫，蒼穹的堂哥，鐵克禁衛軍首席戰鬥團東城衞團長，大戰失蹤人員之一。<br />
+40歲，葉宇香的丈夫，蒼穹的堂哥，鐵克禁衛軍首席戰鬥團東城衞團長，大戰失蹤人員之一。<br />
 20年前因汪大東誤傷劉備，為維護時空秩序而暫時留在銀時空假扮劉備。（詳見<a href="../Page/終極三國.md" title="wikilink">終極三國</a>）<br />
 10年前，去金時空請大東協助夏天療傷，後與阿香和夏天參與大戰，下落不明。<br />
 第23集脩回到了夏人公寓，貌似被別人下了魔咒，而記不起大戰發生的事情，連讀心術也因被下的魔咒過強而造成異能反彈使其無效，魔咒可怕到說也說不出來，寫也寫不出來，打字也打不出來的程度。<br />
@@ -365,7 +393,7 @@ followed_by =
 <td><center>
 <p>1，23-40</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p><a href="../Page/那維勳.md" title="wikilink">那維勳</a></p></td>
 <td><center>
@@ -374,7 +402,7 @@ followed_by =
 铜時空：日音王</p></td>
 <td><p><strong>狀態：正常→失蹤→急速衰老→正常</strong><br />
 <strong>種類：高阶魔化異能行者→麻瓜(含有魔化異能體質）</strong><br />
-56歲，當年為了寒的安全一路跟著寒，卻意外的上錯了時空列車，從此失蹤10年，生日當天從206號房走出來，卻已失憶。<br />
+66歲，當年為了寒的安全一路跟著寒，卻意外的上錯了時空列車，從此失蹤10年，生日當天從206號房走出來，卻已失憶。<br />
 在不小心被雄哥及夏美電到後醒來並恢復記憶，但後來嚴重老化，不願讓雄哥擔心而躲著她。<br />
 於第11集被雄哥找回，之后睡在鈦棺裡。<br />
 從鈦棺醒來後，被告知可能只剩三天或三天不到的壽命，後來吉如苓將古墓醫院的三顆續命丸的最後一顆拿給自己吃，但是吃下的藥效是變很娘的續命丸，令思仁感到困擾，不久後就失效。<br />
@@ -389,7 +417,7 @@ followed_by =
 <td><center>
 <p>3-9，11，19-23，26-28，32-35</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

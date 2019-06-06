@@ -322,6 +322,8 @@ Them》正式出道。2003年，為[M.BOAT娛樂與](https://zh.wikipedia.org/wi
   - 2019年4月4日：tvN《[人生酒館](https://zh.wikipedia.org/wiki/人生酒館 "wikilink")》
   - 2019年4月27日：KBS2
     《[不朽的名曲](https://zh.wikipedia.org/wiki/不朽的名曲 "wikilink")》
+  - 2019年5月17日：KBS2
+    《[柳熙烈的寫生簿](https://zh.wikipedia.org/wiki/柳熙烈的寫生簿 "wikilink")》
 
 ## 演唱會
 

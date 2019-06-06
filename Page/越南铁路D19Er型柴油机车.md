@@ -8,7 +8,7 @@ D19Er型柴油机车的干线客货运两用的电力传动准轨柴油机车，
 
 ### 柴油机
 
-D19E型柴油机车装用一台美国卡特彼勒公司的3512B型柴油机，这是一款[四冲程](https://zh.wikipedia.org/wiki/四冲程循环 "wikilink")、[12气缸](../Page/V12发动机.md "wikilink")、电喷式的[V型高速柴油机](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")，气缸内径为170毫米，[活塞](https://zh.wikipedia.org/wiki/活塞 "wikilink")[冲程为](https://zh.wikipedia.org/wiki/冲程 "wikilink")190毫米；在[UIC标定条件下](../Page/國際鐵路聯盟.md "wikilink")，标定转速为每分钟1800转时的额定功率为1,950马力（1,455千瓦）；柴油机装车功率为1,800马力（1,340千瓦）。
+D19E型柴油机车装用一台美国卡特彼勒公司的3512B型柴油机，这是一款[四冲程](../Page/四冲程循环.md "wikilink")、[12气缸](../Page/V12发动机.md "wikilink")、电喷式的[V型高速柴油机](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")，气缸内径为170毫米，[活塞](https://zh.wikipedia.org/wiki/活塞 "wikilink")[冲程为](https://zh.wikipedia.org/wiki/冲程 "wikilink")190毫米；在[UIC标定条件下](../Page/國際鐵路聯盟.md "wikilink")，标定转速为每分钟1800转时的额定功率为1,950马力（1,455千瓦）；柴油机装车功率为1,800马力（1,340千瓦）。
 
 ### 传动系统
 

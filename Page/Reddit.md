@@ -375,7 +375,7 @@ Blue從App Store移除，在Google Play和App Store另推出官方客戶端\[127
 
 107. [Reddit CEO Ellen Pao Issues an Apology for the Direction of the
      Site](http://www.foxnews.com/us/2015/07/06/reddit-ceo-ellen-pao-issues-apology-for-direction-site/)
-     by Laura Entis *FoxNews.com* July 06, 2015
+      by Laura Entis *FoxNews.com* July 06, 2015
 
 108.
 

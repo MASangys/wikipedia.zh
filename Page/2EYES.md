@@ -7,7 +7,7 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》以《別囂
 HQ，準備SOLO活動。\[1\]
 
 2017年，香淑、延峻出演《[MIX
-NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")》，香淑合格。在受訪中表示，團隊已很久沒接工作，組員亦已遷離宿舍，團體名存實望已解散。
+NINE](https://zh.wikipedia.org/wiki/MIX_NINE "wikilink")》，香淑合格。在受訪中表示，團隊已很久沒接工作，組員亦已遷離宿舍，團體名存實亡已解散。
 
 ## 成員
 

@@ -85,7 +85,7 @@ It Up跳舞机「Pump It Up Pro」在事实上还在发售中。
 [Category:音乐游戏](https://zh.wikipedia.org/wiki/Category:音乐游戏 "wikilink")
 
 1.  [部分中国大陆山寨厂商称呼所谓的“劲舞团单机版”截图](http://www.wanyx.com/picnews/21295.html)
-    玩游戏网
+     玩游戏网
 2.  [部分中国大陆山寨厂商称呼所谓的“劲舞团单机版”截图](http://www.pc6.com/softview/SoftView_21635.html)
 3.  [Roxor lawsuit settled, Konami inherits ITG
     franchise](http://www.ddrfreak.com/phpBB2/viewtopic.php?t=121920)

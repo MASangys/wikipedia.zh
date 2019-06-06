@@ -41,7 +41,7 @@ Blank传授。\[14\]
 
 2.
 
-3.  <http://www.udacity.com/courses>
+3.
 
 4.
 

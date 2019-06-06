@@ -238,7 +238,7 @@
 
   -
     配音員：日：[石原夏織](../Page/石原夏織.md "wikilink")（聲）、上花楓裏（歌）／港：[何璐怡](../Page/何璐怡.md "wikilink")／台：[劉如蘋](../Page/劉如蘋.md "wikilink")（動畫版第2部）→[陳凱莉](https://zh.wikipedia.org/wiki/陳凱莉 "wikilink")（動畫版第3部）→[張乃文](../Page/張乃文_\(配音員\).md "wikilink")（動畫版第4部、劇場版）
-    11月11日出生，[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。街機2014年第1彈與動畫第51集登場。夢想學院的插班新人，與小莓同屆。喜歡的品牌是「**Swing
+    11月11日出生，[天蠍座](https://zh.wikipedia.org/wiki/天蠍座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。街機2014年第1彈與動畫第51集登場。夢幻學院的插班新人，與小莓同屆。喜歡的品牌是「**Swing
     ROCK**」。
     入學前和朋友經營樂團，是持有絕對音感的音樂少女。家中經營咖啡廳，非常喜歡貓。被說可愛時會害羞。於第94集與小莓組成二人組合「**2wings**」。
     口頭禪是「啦啦啦～的感覺」「如果你是"Do"我就是"Re"；如果你是"Re"我就是"Mi"，我永遠都不會輸」。
@@ -251,7 +251,7 @@
     TOY**」。
     在學校內選擇製作人課程，並擔任星羅的專屬製作人。日夜都為星羅的製作操心，但對自己的事非常不在行。常喝「腦力閃電 (Brain
     Thunder)」補充體力。
-    原本沒有躋身偶像行列的打算，但意外獲選廣告代言人後決定也兼任自己的製作人成為偶像。對於重點非常注意，所以說話時會重複三次。興奮時，說話節奏會變快，口頭蟬是「OK
+    原本沒有躋身偶像行列的打算，但意外獲選廣告代言人後決定也兼任自己的製作人成為偶像。對於重點非常注意，所以說話時會重複三次。興奮時，說話節奏會變快，口頭禪是「OK
     OK OK\~」。
     小時候非常老實，所以在同學間沒互動，也是她的大煩惱，可是在媽媽幫忙改造型象後便變得非常活潑。
 
@@ -300,9 +300,9 @@
   -
     配音員：日：[關根明良](../Page/關根明良.md "wikilink")（聲）、美谷玲實（歌）／港：[陳琴雲](../Page/陳琴雲.md "wikilink")／台：[李昀晴](../Page/李昀晴.md "wikilink")
     9月14日出生，[處女座](https://zh.wikipedia.org/wiki/處女座 "wikilink")，血型[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")。
-    街機2015年第3彈暨動畫第118集登場。喜歡的品牌是「**桜色花伝**」。
+    街機2015年第3彈暨動畫第118集登場。喜歡的品牌是「**櫻色花傳**」。
     與明里同年，就讀京都姬櫻女子學院的京都偶像。原為[薙刀選手](https://zh.wikipedia.org/wiki/薙刀 "wikilink")，被導師挖角而進入偶像學校。
-    性格和小堇，梨沙類似，都是屬於文靜成熟的類型，但被挖出弱點或被其他角色建議表現的可愛些時便會顯得不知所措。
+    性格和小堇，莉莎類似，都是屬於文靜成熟的類型，但被挖出弱點或被其他角色建議表現的可愛些時便會顯得不知所措。
     雅雖然看起來一直是酷酷的，獨自凜然，難以接近的類型，其實非常溫柔，有點天然呆的模樣也很可愛。
     於第136集與心音組成二人組合「**鬆甜☆撫子**（）」。
 
@@ -312,7 +312,7 @@
     配音員：日：[伊藤加奈惠](../Page/伊藤加奈惠.md "wikilink")（聲）、愛野繪理（歌）／港：[張頌欣](../Page/張頌欣.md "wikilink")／台：[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")
     8月21日出生，[獅子座](https://zh.wikipedia.org/wiki/獅子座 "wikilink")，血型[A型](https://zh.wikipedia.org/wiki/A型 "wikilink")。
     街機2015年第5彈暨動畫第135集登場。喜歡的品牌是「**Retro Clover**」。
-    與明里同年，雅的舊識。就讀神戶星辰學院的神戶偶像。是地方偶像，所以到了星光學園之後有段時間很不習慣(無人認識)。個性樂天可愛，有活力，但偶爾有點自我中心。
+    與明里同年，雅的舊識。就讀神戶愛德華學院的神戶偶像。是地方偶像，所以到了星光學園之後有段時間很不習慣(無人認識)。個性樂天可愛，有活力，但偶爾有點自我中心。
     跑超快也是特點之一。喜歡吃甜點，家裡經營點心店「Châtaigne」。口頭禪是「世界的中心在此！\[3\]！」或是「世界的中心就在心音這裡！」
     於第136集與雅組成二人組合「**鬆甜☆撫子**（）」。
 
@@ -346,8 +346,8 @@
 <!-- end list -->
 
   -
-    配音員：日：[豐永利行](../Page/豐永利行.md "wikilink")／港：[陳灝瑋](../Page/陳灝瑋.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")（第1、2部）→[余孟珂](https://zh.wikipedia.org/wiki/余孟珂 "wikilink")（第3部起與劇場版）
-    學園的雜務役，是提亞拉校長的弟弟，負責打理學園女王的專屬宿舍，年紀僅比學生們大些的青年，經常給予莓等人一些建議。在外與朋友組成地下樂團「More
+    配音員：日：[豐永利行](../Page/豐永利行.md "wikilink")／港：[陳灝瑋](../Page/陳灝瑋.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")（第1、2部）→[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")（第3部起與劇場版）
+    學園的雜務役，是堤亞拉學園長的弟弟，負責打理學園女王的專屬宿舍，年紀僅比學生們大些的青年，經常給予莓等人一些建議。在外與朋友組成地下樂團「More
     Than True」，在樂團中單任主唱，藝名簡稱「直」。127話被任用為教師，擔任凜與圓的班導師，但偶爾還是會拿起掃把掃地來當靜心運動。
 
 ### 學校學生
@@ -689,7 +689,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[平川大輔](../Page/平川大輔.md "wikilink")／台：余孟珂
+    配音員：日：[平川大輔](../Page/平川大輔.md "wikilink")／台：歐祖豪
     第103話開始登場。學生食堂的新任甜點主廚，賣點為甜甜圈。曾當過偶像一陣子。
 
 ## 藝能工作者
@@ -744,7 +744,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[櫻井透](https://zh.wikipedia.org/wiki/櫻井透 "wikilink")／港：[曹啟謙](../Page/曹啟謙.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")(第1部)→[余孟珂](https://zh.wikipedia.org/wiki/余孟珂 "wikilink")(第3部)
+    配音員：日：[櫻井透](https://zh.wikipedia.org/wiki/櫻井透 "wikilink")／港：[曹啟謙](../Page/曹啟謙.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")(第1部)→[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")(第3部)
     第19話登場。
 
 <!-- end list -->
@@ -792,7 +792,7 @@
 
   -
     配音員：日：[藤田茜](../Page/藤田茜.md "wikilink")／台：[張乃文](../Page/張乃文_\(配音員\).md "wikilink")
-    第158話登場。就讀沖繩美麗海Beat學園的沖繩偶像，曾在一次東京的舞蹈選拔時與凜相識，喜歡凜的舞蹈。
+    第158話登場。就讀沖繩美麗海音樂學院的沖繩偶像，曾在一次東京的舞蹈選拔時與凜相識，喜歡凜的舞蹈。
 
 ## 設計師
 
@@ -831,7 +831,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[大川透](../Page/大川透.md "wikilink")／港：[梁偉德](../Page/梁偉德.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")（第1、2部）→[余孟珂](https://zh.wikipedia.org/wiki/余孟珂 "wikilink")（第3部起）
+    配音員：日：[大川透](../Page/大川透.md "wikilink")／港：[梁偉德](../Page/梁偉德.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")（第1、2部）→[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")（第3部起）
     第20話登場。「**LoLi
     GoThiC**」的總設計師，住在陰森的豪宅，令不少想拿高級服裝卡的偶像覺得可怕，將自己設定為活了三百年的吸血鬼，雇用的員工都會裝成妖魔鬼怪來招待訪客，因百合香擁有堅強的心而把高級卡交給百合香。
 
@@ -873,7 +873,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[田丸篤志](../Page/田丸篤志.md "wikilink")／港：[鍾見麟](../Page/鍾見麟.md "wikilink")／台：[余孟珂](https://zh.wikipedia.org/wiki/余孟珂 "wikilink")
+    配音員：日：[田丸篤志](../Page/田丸篤志.md "wikilink")／港：[鍾見麟](../Page/鍾見麟.md "wikilink")／台：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")
     「**Dreamy Crown**」的總設計師。第106話登場。天羽明日香的徒弟，剛出道於服裝界，在山郊"Dreamy
     Lake"湖邊建立自己的個人工作室。基本上在明里有個人表演時都會看到翼，每天早上準時收看「大空天氣」。
     第160話曾被椿說過：「有大空明里的地方，必有瀬名翼。」
@@ -887,7 +887,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")／港：[梁偉德](../Page/梁偉德.md "wikilink")／台：[余孟珂](https://zh.wikipedia.org/wiki/余孟珂 "wikilink")
+    配音員：日：[鳥海浩輔](../Page/鳥海浩輔.md "wikilink")／港：[梁偉德](../Page/梁偉德.md "wikilink")／台：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")
     「**Dance Fusion**」的總設計師。第128話登場。曾經是強尼別府的搭檔，共同組成「Sunny &
     Johnny」，一起被稱為「舞蹈界的王者」。
 
@@ -917,7 +917,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[子安武人](../Page/子安武人.md "wikilink")／港：[梁偉德](../Page/梁偉德.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")(第1、2部)→[余孟珂](https://zh.wikipedia.org/wiki/余孟珂 "wikilink")(劇場版)
+    配音員：日：[子安武人](../Page/子安武人.md "wikilink")／港：[梁偉德](../Page/梁偉德.md "wikilink")／台：[丘台名](../Page/丘台名.md "wikilink")(第1、2部)→[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")(劇場版)
     莓的父親，目前於國外工作中。為人老實，但經常用誇張的言詞描述自己的出國經驗。不曾說謊。於第25集登場。
 
 <!-- end list -->
@@ -943,7 +943,7 @@
   -
     配音員：日：[宮本佳那子](../Page/宮本佳那子.md "wikilink")→[加隈亞衣](../Page/加隈亞衣.md "wikilink")／港：[成瑤孆](../Page/成瑤孆.md "wikilink")→[廖杏茵](../Page/廖杏茵.md "wikilink")／台：[江銘珊](https://zh.wikipedia.org/wiki/江銘珊 "wikilink")(第1、2部)→[連婉鈞](https://zh.wikipedia.org/wiki/連婉鈞 "wikilink")(第3部)
     星羅的妹妹，與賴智同校同年級的隔壁班學生（國中時代以後為同班級），非常崇拜莓。與賴智認識後一起以自家店面宣傳身邊偶像的活動消息。出生於聖誔節，而希英瑠這名字為法語的聖誔節。
-    第172集表示已轉進夢想學園就讀。
+    第172集表示已轉進夢幻學院就讀。
     對動物過敏。
 
 <!-- end list -->
@@ -979,7 +979,7 @@
 <!-- end list -->
 
   -
-    配音員：日：[内田夕夜](../Page/内田夕夜.md "wikilink")／港：[陳廷軒](../Page/陳廷軒.md "wikilink")／台：[余孟珂](https://zh.wikipedia.org/wiki/余孟珂 "wikilink")
+    配音員：日：[内田夕夜](../Page/内田夕夜.md "wikilink")／港：[陳廷軒](../Page/陳廷軒.md "wikilink")／台：[歐祖豪](https://zh.wikipedia.org/wiki/歐祖豪 "wikilink")
     珠璃的父親，知名的西班牙裔廚師。
 
 <!-- end list -->
@@ -1096,7 +1096,7 @@
 | [關根明良](../Page/關根明良.md "wikilink")                    | 藤原雅       | colspan="2" |
 | [伊藤加奈惠](../Page/伊藤加奈惠.md "wikilink")                  | 栗栖心音      | colspan="2" |
 | [小岩井小鳥](../Page/小岩井小鳥.md "wikilink")                  | 大地乃乃      | colspan="3" |
-| [福沙奈惠](../Page/福沙奈惠.md "wikilink")                    | 白樺梨沙      | colspan="3" |
+| [福沙奈惠](../Page/福沙奈惠.md "wikilink")                    | 白樺莉紗      | colspan="3" |
 |                                                       |           |             |
 
 ## 注釋

@@ -73,8 +73,5 @@
 13. **畢業旅行 ～送給那位離開早安少女組。的歌～**（卒業旅行 〜モーニング娘。旅立つ人に贈る唄〜）
     （作詞・作曲：淳君 編曲：酒井ミキオ）
 
-[en:5
-(number)](https://zh.wikipedia.org/wiki/en:5_\(number\) "wikilink")
-
 [Category:2003年音樂專輯](https://zh.wikipedia.org/wiki/Category:2003年音樂專輯 "wikilink")
 [Category:早安少女組。音樂專輯](https://zh.wikipedia.org/wiki/Category:早安少女組。音樂專輯 "wikilink")

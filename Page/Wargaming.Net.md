@@ -56,8 +56,8 @@ Wargaming.Net 的任何產品。\[8\]
 6.  [Wargaming Announces Unified Premium Account
     System](http://www.gamasutra.com/view/pressreleases/193301/Wargaming_Announces_Unified_Premium_Account_System.php)
 7.  *Shawn Schuster*.[Wargaming's Unified Premium Account goes
-    live](http://massively.joystiq.com/2013/08/29/wargamings-unified-premium-account-goes-live/).
-    Massively.joystiq.com August 2013. Retrieved 2013-09-23.
+    live](http://massively.joystiq.com/2013/08/29/wargamings-unified-premium-account-goes-live/)
+    . Massively.joystiq.com August 2013. Retrieved 2013-09-23.
 8.  [Unified Premium Account
     System](https://eu.wargaming.net/support/Knowledgebase/Article/View/127/21/unified-premium-account-system)
     . Eu.wargaming.net. Retrieved 2013-09-23.

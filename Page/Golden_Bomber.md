@@ -183,7 +183,7 @@ Stone日本版雜誌及節目中經常提及](https://zh.wikipedia.org/wiki/Roll
 相當喜歡[GLAY和](../Page/GLAY.md "wikilink")[B'z](../Page/B'z.md "wikilink")，憧憬的樂手是[X
 JAPAN的吉他手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[hide](https://zh.wikipedia.org/wiki/hide "wikilink")。
 
-於2012年8月上映的電影『[死ガ二人ヲワカツマデ…](https://zh.wikipedia.org/wiki/死ガ二人ヲワカツマデ… "wikilink")─第1章「色ノナイ青」』中首次以[演員身份演出](https://zh.wikipedia.org/wiki/演員 "wikilink")，並且也是首次擔任主演。2013年3月於日劇[古書堂事件手帖第](../Page/古書堂事件手帖.md "wikilink")9集客串演出\[12\]。
+於2012年8月上映的電影『[死ガ二人ヲワカツマデ…](https://zh.wikipedia.org/wiki/死ガ二人ヲワカツマデ… "wikilink")─第1章「色ノナイ青」』中首次以[演員身份演出](../Page/演員.md "wikilink")，並且也是首次擔任主演。2013年3月於日劇[古書堂事件手帖第](../Page/古書堂事件手帖.md "wikilink")9集客串演出\[12\]。
 2013年10月於日本電視台深夜日劇「49」常規演出。劇中飾演一名男公關。
 
 **舞台出演**
@@ -191,8 +191,8 @@ JAPAN的吉他手](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[hide](https
 2015年　舞台[『ふしぎ遊戯』](http://stage-fushigiyugi.jp/)　2015.03.19\~29
 (共18場)－主演　**鬼宿** （原作：渡瀨悠宇）
 
-2016年　舞台[「GOKÛ」](http://stage-goku.jp/)　2016.02.16\~28 (共19場)－主演　**悟空**
-（原作：手塚治虫）
+2016年　舞台[「GOKÛ」](https://web.archive.org/web/20170422050451/http://stage-goku.jp/)　2016.02.16\~28
+(共19場)－主演　**悟空** （原作：手塚治虫）
 
 2017年　舞台[「犬夜叉」](http://stage-inuyasha.jp/)　2017.04.06\~15
 (共14場)－主演　**犬夜叉**（原作：高橋留美子）

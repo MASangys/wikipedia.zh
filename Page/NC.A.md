@@ -69,6 +69,37 @@ Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 </tbody>
 </table>
 
+<table>
+<tbody>
+<tr class="odd">
+<td><p>專輯</p></td>
+<td><p>專輯資料</p></td>
+<td><p>曲目</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>2nd</strong></p></td>
+<td><p>第二張迷你專輯《<strong>Some</strong>》</p>
+<ul>
+<li>發行日期：2019年5月10日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td><ol>
+<li>Habit</li>
+<li>Awesome Breeze (主打曲)</li>
+<li>So Do You</li>
+<li>I’m fine</li>
+<li>Playing with fire</li>
+<li>Awesome Breeze (inst.)</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
 ### 數位單曲
 
 <table>
@@ -420,6 +451,12 @@ Bank正式出道](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")。
 </tr>
 <tr class="odd">
 <td><p>《Love Me (읽어주세요)》</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+</tr>
+<tr class="odd">
+<td><p>《Some》</p></td>
 </tr>
 <tr class="even">
 <td><ul>

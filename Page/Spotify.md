@@ -1,5 +1,5 @@
 **Spotify**（Spotify Technology
-SA）（中文名：**斯波蒂菲**或**声破天**）是一個起源於[瑞典的音樂](../Page/瑞典.md "wikilink")[串流服務公司](https://zh.wikipedia.org/wiki/串流 "wikilink")，也是目前全球最大的串流音樂服務商，提供包括[Sony
+SA）（中文名：**聲田**、**声破天**、**斯波蒂菲**）是一個起源於[瑞典的音樂](../Page/瑞典.md "wikilink")[串流服務公司](https://zh.wikipedia.org/wiki/串流 "wikilink")，也是目前全球最大的串流音樂服務商，提供包括[Sony
 Music](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")、[EMI](../Page/EMI.md "wikilink")、[Warner
 Music
 Group和](https://zh.wikipedia.org/wiki/Warner_Music_Group "wikilink")[Universal四大唱片公司及眾多獨立廠牌所授權](https://zh.wikipedia.org/wiki/Universal_Music_Group "wikilink")、由[数字版权管理](../Page/数字版权管理.md "wikilink")（DRM）保護的音樂\[1\]，使用用戶在2019年4月已經達到2.17億以上\[2\]。

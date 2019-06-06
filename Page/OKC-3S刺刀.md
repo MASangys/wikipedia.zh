@@ -1,4 +1,4 @@
-**OKC-3S**是一柄由[美国海军陆战队在](../Page/美国海军陆战队.md "wikilink")21世纪初正式採用\[1\]、用以取代[M7刺刀及作為](../Page/M7刺刀.md "wikilink")[M16](../Page/M16突擊步槍.md "wikilink")／[M4槍族的制式配備的多用途](../Page/M4卡賓槍.md "wikilink")[刀和](https://zh.wikipedia.org/wiki/刀 "wikilink")[刺刀](../Page/刺刀.md "wikilink")。這柄多用途刺刀系統有著比M7更為持久的耐用性，可以被視為一柄戰鬥刀。
+**OKC-3S**是一柄由[美国海军陆战队在](../Page/美国海军陆战队.md "wikilink")21世纪初正式採用\[1\]、用以取代[M7刺刀及用作](../Page/M7刺刀.md "wikilink")[M16](../Page/M16突擊步槍.md "wikilink")／[M4槍族的制式配備的多用途](../Page/M4卡賓槍.md "wikilink")[刀和](https://zh.wikipedia.org/wiki/刀 "wikilink")[刺刀](../Page/刺刀.md "wikilink")。這柄多用途刺刀系統有著比M7更為持久的耐用性，可以被視為一柄戰鬥刀。
 
 ## 歷史
 

@@ -64,7 +64,8 @@ Loscher起初试图通过提出正式警告，指控其“挑唆暴力（Aufruf 
 5.  [《CLUB-MATE：俘获全德国的饮料！》](http://www.club-mate-shop.de/produkt.php)
     ，生产Club-Mate公司的网站。
 6.  [对Brauerei
-    Loscher经理的采访](http://maclites.com/blog/interviews/club-mate-bronte-brauerei-loscher-marcus-loscher)。
+    Loscher经理的采访](http://maclites.com/blog/interviews/club-mate-bronte-brauerei-loscher-marcus-loscher)
+    。
 7.  [2006-2010年Club-Mate在柏林的供应情况](http://www.iphpbb.com/foren-archiv/5/259200/259200/berlin-77421311-15157-7.html)，论坛。
 8.  [Club-Mate已经成为聚会的重要饮料](http://www.berliner-zeitung.de/archiv/im-sommer-wird-bei-illegalen-freiluft-partys-gefeiert--gute-orte-sind-immer-schwerer-zu-finden-tanzen--bis-die-polizei-kommt,10810590,10566832.html)，，2008年6月19日。
 9.  [《Club-Mate：海盗党的生命水》](http://www.cicero.de/kapital/piratischer-lebenssaft/48854)，Cicero

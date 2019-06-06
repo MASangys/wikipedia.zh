@@ -1,5 +1,5 @@
 **AOA**（；**Ace of
-Angels**的首字母缩寫，直譯「王牌天使」）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂旗下第一支](../Page/FNC娛樂.md "wikilink")[女子音樂組合和女子舞蹈團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是FNC第一支音樂與舞蹈共同活動的團體，初始成員有[草娥](https://zh.wikipedia.org/wiki/朴草娥 "wikilink")、[智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")、[酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")、[惠晶](https://zh.wikipedia.org/wiki/申惠晶 "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[雪炫](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")、[澯美](https://zh.wikipedia.org/wiki/金澯美 "wikilink")、有慶8人（有慶于2016年10月宣布退出；草娥於2017年6月宣布退出），由智珉擔任隊長。AOA的子團包括[AOA
+Angels**的首字母缩寫，直譯「王牌天使」）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[FNC娛樂旗下第一支](../Page/FNC娛樂.md "wikilink")[女子音樂組合和女子舞蹈團體](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，也是FNC第一支音樂與舞蹈共同活動的團體，初始成員有[草娥](https://zh.wikipedia.org/wiki/朴草娥 "wikilink")、[智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")、[酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")、[惠晶](https://zh.wikipedia.org/wiki/申惠晶 "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[雪炫](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")、[澯美](https://zh.wikipedia.org/wiki/金澯美 "wikilink")、有慶8人（有慶于2016年10月宣布退出；草娥於2017年6月宣布退出；珉娥於2019年5月約滿退出），由智珉擔任隊長。AOA的子團包括[AOA
 Black](https://zh.wikipedia.org/wiki/AOA_Black "wikilink")、[AOA
 White和](https://zh.wikipedia.org/wiki/AOA_White "wikilink")[AOA
 Cream](https://zh.wikipedia.org/wiki/AOA_Cream "wikilink")。
@@ -23,7 +23,11 @@ Bangle](https://zh.wikipedia.org/wiki/Bingle_Bangle_\(AOA迷你專輯\) "wikilin
 
 ### 2012－2013年：出道
 
-2012年7月16日至23日，AOA的8名成员[雪炫](../Page/雪炫.md "wikilink")、[草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")、[惠晶](../Page/惠晶.md "wikilink")、[澯美](../Page/澯美.md "wikilink")、[酉奈](../Page/酉奈.md "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[智珉和](../Page/智珉.md "wikilink")[有庆依次通过照片公开](https://zh.wikipedia.org/wiki/有庆 "wikilink")\[1\]\[2\]。AOA以舞团形式公开，一些成员也演奏乐器。FNC解释了她们首次亮相的含义：、[草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")、[酉奈](../Page/酉奈.md "wikilink")、[惠晶](../Page/惠晶.md "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[雪炫](../Page/雪炫.md "wikilink")、[澯美以及队长](../Page/澯美.md "wikilink")[智珉为](../Page/智珉.md "wikilink")“全天使”\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]，而[有庆则为](https://zh.wikipedia.org/wiki/有庆 "wikilink")“半天使”，因为她只在组合以乐队形式活动时参加\[10\]。这也是AOA自称“7+1”组合的原因\[11\]。首张专辑《Angel's
+2012年7月16日至23日，AOA的8名成员[雪炫](../Page/雪炫.md "wikilink")、[草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")、[惠晶](../Page/惠晶.md "wikilink")、[澯美](../Page/澯美.md "wikilink")、[酉奈](../Page/酉奈.md "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[智珉和](../Page/智珉.md "wikilink")[有庆依次通过照片公开](https://zh.wikipedia.org/wiki/有庆 "wikilink")\[1\]\[2\]。AOA以舞团形式公开，一些成员也演奏乐器。
+
+FNC解释了她们首次亮相的含义：、[草娥](https://zh.wikipedia.org/wiki/草娥 "wikilink")、[酉奈](../Page/酉奈.md "wikilink")、[惠晶](../Page/惠晶.md "wikilink")、[珉娥](../Page/珉娥.md "wikilink")、[雪炫](../Page/雪炫.md "wikilink")、[澯美以及队长](../Page/澯美.md "wikilink")[智珉为](../Page/智珉.md "wikilink")“全天使”\[3\]\[4\]\[5\]\[6\]\[7\]\[8\]\[9\]，而[有庆则为](https://zh.wikipedia.org/wiki/有庆 "wikilink")“半天使”，因为她只在组合以乐队形式活动时参加\[10\]。这也是AOA自称“7+1”组合的原因\[11\]。
+
+首张专辑《Angel's
 Story》于7月28日官方发布两天前泄露\[12\]，主打歌《Elvis》的MV于7月30日释出。之后AOA于8月9日于[M\!
 Countdown进行了首次舞台亮相](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")，次日于[KBS音乐银行表演](https://zh.wikipedia.org/wiki/KBS音乐银行 "wikilink")。
 
@@ -93,7 +97,7 @@ Champion](../Page/Show_Champion.md "wikilink")》奪下一位\[53\]。
 2016年10月，成員有慶與公司的合約已經到期，確定不續約，但FNC表示若未來若再有關於樂團模式的活動，將會以特別邀請的方式進行（即「特約鼓手」）
 \[54\]\[55\]。
 
-### 2017年：首張正規專輯《ANGEL'S KNOCK》、草娥退團
+### 2017年：首張正規專輯《ANGEL'S KNOCK》、草娥退出
 
 1月2日，發行正規專輯《ANGEL'S KNOCK》\[56\]。專輯共收錄十首歌曲，並以兩首主打曲《Excuse Me》及《Bing
 Bing》正式回歸\[57\]。
@@ -111,7 +115,7 @@ Jimin》的企劃並釋出第二支solo歌曲《Hallelujah》。
 
 11月，[珉娥在訪問中表示AOA將以六人體制於翌年二至三月回歸](../Page/珉娥.md "wikilink")，並正在準備專輯，但確實日期仍未落實\[65\]。
 
-### 2018年至今
+### 2018年：《Bingle Bangle》
 
 1月19日，釋出企劃《Ready To Jimin》的第二首歌曲《Hey》。
 
@@ -123,6 +127,12 @@ Jimin》的企劃並釋出第二支solo歌曲《Hallelujah》。
 5月13日，確定第五張迷你專輯命名為《[Bingle
 Bangle](https://zh.wikipedia.org/wiki/Bingle_Bangle_\(AOA迷你專輯\) "wikilink")》。
 
+5月28日，六人體制以主打曲《Bingle Bangle（빙글뱅글）》正式回歸
+
+### 2019年：合約到期，珉娥退出
+
+5月13日，公司宣布全員合約到期，只有[珉娥不續約](../Page/珉娥.md "wikilink")，因此退出組合。其餘五人已完成續約，往後組合以五人形式進行活動。\[68\]
+
 ## 成員列表
 
   - 名字**粗體**為隊長
@@ -133,12 +143,12 @@ Bangle](https://zh.wikipedia.org/wiki/Bingle_Bangle_\(AOA迷你專輯\) "wikilin
 | **[申智珉](https://zh.wikipedia.org/wiki/申智珉 "wikilink")** |
 | [徐酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")     |
 | [申惠晶](https://zh.wikipedia.org/wiki/申惠晶 "wikilink")     |
-| [權珉娥](https://zh.wikipedia.org/wiki/權珉娥 "wikilink")     |
 | [金雪炫](https://zh.wikipedia.org/wiki/金雪炫 "wikilink")     |
 | [金澯美](https://zh.wikipedia.org/wiki/金澯美 "wikilink")     |
 | 已退出成員                                                   |
 | [徐有慶](https://zh.wikipedia.org/wiki/徐有慶 "wikilink")     |
 | [朴草娥](https://zh.wikipedia.org/wiki/朴草娥 "wikilink")     |
+| [權珉娥](https://zh.wikipedia.org/wiki/權珉娥 "wikilink")     |
 
 **附註**
 
@@ -149,7 +159,7 @@ Bangle](https://zh.wikipedia.org/wiki/Bingle_Bangle_\(AOA迷你專輯\) "wikilin
 
 <timeline> ImageSize = width:650 height:350 PlotArea = width:500
 height:300 left:125 bottom:35 Alignbars = justify DateFormat =
-mm/dd/yyyy Period = from:2012 till:2018 TimeAxis =
+mm/dd/yyyy Period = from:2012 till:2019 TimeAxis =
 orientation:horizontal format:mm/yyyy
 
 Colors =
@@ -186,7 +196,7 @@ PlotData =
 ` color:blue width:10 textcolor:black align:left anchor:from`
 ` bar:HyeJeong from:08/09/2012 till:end`
 ` color:darkblue width:10 textcolor:black align:left anchor:from`
-` bar:MinA from:08/09/2012 till:end`
+` bar:MinA from:08/09/2012 till:05/13/2019`
 ` color:purple width:10 textcolor:black align:left anchor:from`
 ` bar:SeolHyun from:08/09/2012 till:end`
 ` color:pink width:10 textcolor:black align:left anchor:from`
@@ -243,12 +253,54 @@ PlotData =
 
 ### 真人秀
 
-| 年份        | 电视台                                                 | 名称                                               | 成员         | 注释          |
-| --------- | --------------------------------------------------- | ------------------------------------------------ | ---------- | ----------- |
-| 2013      | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink") | [清潭洞111](../Page/清潭洞111.md "wikilink")           | 全员         | FNC娱乐的真人秀   |
-| 2015      | Naver                                               | Open-up\! AOA                                    | 全员         | AOA首个网络真人秀  |
-| MBCevery1 | AOA – 美好的一天                                         | 全员                                               | AOA首个电视真人秀 |             |
-| 2016      | Onstyle                                             | [Channel AOA](../Page/Channel_AOA.md "wikilink") | 全员         | AOA第二次电视真人秀 |
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>电视台</p></th>
+<th><p>名称</p></th>
+<th><p>成员</p></th>
+<th><p>注释</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2013</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a></p></td>
+<td><p><a href="../Page/清潭洞111.md" title="wikilink">清潭洞111</a></p></td>
+<td><p>全员</p></td>
+<td><p>FNC娱乐的真人秀</p></td>
+</tr>
+<tr class="even">
+<td><p>2015</p></td>
+<td><p>Naver</p></td>
+<td><p>Open-up! AOA</p></td>
+<td><p>全员</p></td>
+<td><p>AOA首个网络真人秀</p></td>
+</tr>
+<tr class="odd">
+<td><p>MBCevery1</p></td>
+<td><p>AOA – 美好的一天</p></td>
+<td><p>全员</p></td>
+<td><p>AOA首个电视真人秀</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016</p></td>
+<td><p>Onstyle</p></td>
+<td><p><a href="../Page/Channel_AOA.md" title="wikilink">Channel AOA</a></p></td>
+<td><p>全员</p></td>
+<td><p>AOA第二次电视真人秀</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td></td>
+<td><p>AOA的心動峴港 充實之感</p></td>
+<td><p><a href="../Page/AOA_CREAM.md" title="wikilink">AOA CREAM</a></p></td>
+<td><p>[69]</p></td>
+</tr>
+</tbody>
+</table>
 
 ### 綜藝節目
 
@@ -1118,17 +1170,38 @@ PlotData =
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>11月11日、18日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a></p></td>
+<td><p><a href="../Page/神秘音樂秀：蒙面歌王.md" title="wikilink">神秘音樂秀：蒙面歌王</a></p></td>
+<td><p><a href="../Page/酉奈.md" title="wikilink">酉奈</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2019</p></td>
 <td><p>1月16日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/白種元的胡同餐館.md" title="wikilink">白種元的胡同餐館</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/澯美.md" title="wikilink">澯美</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1月27日</p></td>
 <td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a></p></td>
 <td><p><a href="../Page/Running_Man.md" title="wikilink">Running Man</a></p></td>
 <td><p><a href="../Page/智珉.md" title="wikilink">智珉</a>、<a href="../Page/珉娥.md" title="wikilink">珉娥</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4月4日-</p></td>
+<td></td>
+<td><p>在美容室見吧</p></td>
+<td><p><a href="../Page/澯美.md" title="wikilink">澯美</a>(固定MC)[70][71]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月23日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Happy_Together" title="wikilink">Happy Together</a></p></td>
+<td><p><a href="../Page/惠晶.md" title="wikilink">惠晶</a>[72]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1462,11 +1535,11 @@ PlotData =
 ## 爭議
 
   - 2016年5月3日，在一段 Channel AOA
-    實境秀上歷史測驗的環節，智珉與雪炫兩人在答題時，沒有認出朝鮮著名的獨立運動家[安重根](../Page/安重根.md "wikilink")，誤答成[金斗漢](../Page/金斗漢.md "wikilink")，最後透過網路搜索尋得答案，但節目播出後引起許多爭議和不滿\[68\]。5月12日，智珉、雪炫發文表達歉意。\[69\]5月13日Channel
+    實境秀上歷史測驗的環節，智珉與雪炫兩人在答題時，沒有認出朝鮮著名的獨立運動家[安重根](../Page/安重根.md "wikilink")，誤答成[金斗漢](../Page/金斗漢.md "wikilink")，最後透過網路搜索尋得答案，但節目播出後引起許多爭議和不滿\[73\]。5月12日，智珉、雪炫發文表達歉意。\[74\]5月13日Channel
     AOA 製作公司OnStyle
-    方面表示“該集是以速度遊戲的概念進行，由於雪炫、智珉組要與其他組競爭，所以狀況較為緊急。關於我們國家的重要歷史，製作單位應該更謹慎地進行製作，造成大家的困擾，我們非常抱歉，未來會多加注意\[70\]。”
+    方面表示“該集是以速度遊戲的概念進行，由於雪炫、智珉組要與其他組競爭，所以狀況較為緊急。關於我們國家的重要歷史，製作單位應該更謹慎地進行製作，造成大家的困擾，我們非常抱歉，未來會多加注意\[75\]。”
   - 2016年5月16日，AOA在凌晨12點公開新歌《Good
-    Luck》MV，被指MV中出現日本汽車標誌，引起網友反彈。經紀公司FNC在公開MV數小時後，刪除並上傳新版本，把日系車品牌標誌打上馬賽克\[71\]。
+    Luck》MV，被指MV中出現日本汽車標誌，引起網友反彈。經紀公司FNC在公開MV數小時後，刪除並上傳新版本，把日系車品牌標誌打上馬賽克\[76\]。
 
 ## 參考資料
 
@@ -1630,7 +1703,7 @@ PlotData =
 59. [[草娥IG投震撼彈](https://zh.wikipedia.org/wiki/草娥 "wikilink")
     憂鬱退出AOA](http://www.chinatimes.com/realtimenews/20170622005826-260404)
 
-60. [草娥透過 Instagram 宣布退出 AOA](http://kpopn.niusnews.com/=K0lvgvw6)kpopn
+60. [草娥透過 Instagram 宣布退出 AOA](http://kpopn.niusnews.com/=K0lvgvw6) kpopn
 
 61. [초아, 남친과 日여행 귀국길 포착...이번엔 어떤
     반응?](http://entertain.naver.com/read?oid=468&aid=0000277114&cid=1064791&gid=999339)
@@ -1657,3 +1730,13 @@ PlotData =
 70.
 
 71.
+
+72.
+
+73.
+
+74.
+
+75.
+
+76.

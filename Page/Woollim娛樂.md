@@ -1,5 +1,5 @@
-*' WOOLLIM
-Entertainment*'（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wikilink")[经纪公司](https://zh.wikipedia.org/wiki/经纪公司 "wikilink")，於2003年9月創立，代表為[李重燁](https://zh.wikipedia.org/wiki/李重燁 "wikilink")（）。創立初期的音樂風格為[Rock和](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[Hip-hop](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")，而後於2010年推出首組偶像男子團體[INFINITE](../Page/INFINITE.md "wikilink")，成為[K-POP主流經紀公司之一](../Page/韓國流行音樂.md "wikilink")。
+**Woollim
+Entertainment**（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wikilink")[经纪公司](https://zh.wikipedia.org/wiki/经纪公司 "wikilink")，於2003年9月創立，代表為[李重燁](https://zh.wikipedia.org/wiki/李重燁 "wikilink")（）。創立初期的音樂風格為[Rock和](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")[Hip-hop](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")，而後於2010年推出首組偶像男子團體[INFINITE](../Page/INFINITE.md "wikilink")，成為[K-POP主流經紀公司之一](../Page/韓國流行音樂.md "wikilink")。
 
 ## 旗下藝人
 
@@ -243,7 +243,7 @@ Entertainment*'（）是[韓國一間](https://zh.wikipedia.org/wiki/韓國 "wik
   - 徐胤卿（2001-11-01）
   - 金素嬉（2003-08-14 [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")）
   - 鄭多玹（2005-04-29）
-  - 尹素允
+  - 尹素允（1998-03-30）
 
 ### 男練習生
 

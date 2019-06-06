@@ -17,7 +17,7 @@ Faunus）、以及稱為-{zh-hans:戮兽;zh-tw:魔獸;zh-hk:戮獸;zh-mo:戮獸}
 
 ### 第三季
 
-故事第三季主要描述Vytal節錦標賽，是四王國的獵人學院學生的武術競賽，全世界都會觀看實況轉播。RWBY隊、JNPR隊、以及Sun帶領的SSSN隊都晉級決賽，而Cinder也帶領人馬喬裝混入並晉級。Ruby和Yang的世叔Qrow以及Weiss的姊姊Winter各自因事務來到Beacon，並發生口角而在學校發生激戰，最後遭Ironwood和Ozpin制止，稍後Qrowe在和Ozpin、Glynda及Ironwood的密秘會談中報告探查結果，並指責Ironwood與大張旗鼓駐紮的Atlas軍隊造成市民不安。同時，Cinder已經透過後門程式進入比賽系統操控賽程、並得知Penny的身份。在與姐姐Winter的午後相處中，Weiss藉由Winter的開導而進一步練習使用「召喚陣」，Winter則因任務完成返回Atlas。接下來Pyrrha被Ozpin等人召見，他們透露了一個神話：四季-{zh-hans:少女;zh-tw:聖女;zh-hk:少女;zh-mo:少女}-，她們是真實存在、擁有超自然強大力量的半神少女，巡守著這個世界，但為了不讓心懷叵測的壞人獵殺或奪取她們的力量，Ozpin的組織抹消了她們的存在達數百年。而現今的秋之-{zh-hans:少女;zh-tw:聖女;zh-hk:少女;zh-mo:少女}-Amber不久前被不明人士重傷昏迷並且被掠奪了一半的神力，在被Qrow及時救下後被藏在信號塔地下的密室，依靠維生機器苟延殘喘。神力無法直接轉移，Atlas的技術可以把整個Aura轉移，Ozpin希望把神力轉給Pyrrha，但如此一來Pyrrha和Amber可能合併變成另一個人格，等於Pyrrha的靈魂死亡，Pyrrha被迫在自己的生命以及全世界的利益界之間選擇。
+故事第三季主要描述Vytal節錦標賽，是四王國的獵人學院學生的武術競賽，全世界都會觀看實況轉播。RWBY隊、JNPR隊、以及Sun帶領的SSSN隊都晉級決賽，而Cinder也帶領人馬喬裝混入並晉級。Ruby和Yang的世叔Qrow以及Weiss的姊姊Winter各自因事務來到Beacon，並發生口角而在學校發生激戰，最後遭Ironwood和Ozpin制止，稍後Qrow在和Ozpin、Glynda及Ironwood的密秘會談中報告探查結果，並指責Ironwood與大張旗鼓駐紮的Atlas軍隊造成市民不安。同時，Cinder已經透過後門程式進入比賽系統操控賽程、並得知Penny的身份。在與姐姐Winter的午後相處中，Weiss藉由Winter的開導而進一步練習使用「召喚陣」，Winter則因任務完成返回Atlas。接下來Pyrrha被Ozpin等人召見，他們透露了一個神話：四季-{zh-hans:少女;zh-tw:聖女;zh-hk:少女;zh-mo:少女}-，她們是真實存在、擁有超自然強大力量的半神少女，巡守著這個世界，但為了不讓心懷叵測的壞人獵殺或奪取她們的力量，Ozpin的組織抹消了她們的存在達數百年。而現今的秋之-{zh-hans:少女;zh-tw:聖女;zh-hk:少女;zh-mo:少女}-Amber不久前被不明人士重傷昏迷並且被掠奪了一半的神力，在被Qrow及時救下後被藏在信號塔地下的密室，依靠維生機器苟延殘喘。神力無法直接轉移，Atlas的技術可以把整個Aura轉移，Ozpin希望把神力轉給Pyrrha，但如此一來Pyrrha和Amber可能合併變成另一個人格，等於Pyrrha的靈魂死亡，Pyrrha被迫在自己的生命以及全世界的利益界之間選擇。
 
 決賽是單人對決，Yang和Mercury的對戰中，Yang看見Mercury敗後偷襲，而打傷Mercury的腳。場外其他人卻只看見Yang主動攻擊已認輸的Mercury，Yang失去參賽資格。視角回到Cinder過去的時代，正是她招收了有引起幻覺能力的Emerald和兩腳都是義肢的Mercury，三人合力偷襲Amber並偷取了她一半的神力，並且與白牙領導者Adam結盟。接下來Cinder安排Pyrrha和Penny對決，Pyrrha正因為突然到來的巨大抉擇而心煩意亂，加上Emerald的幻覺干擾造成Pyrrha不慎將Penny扯碎成數段。Cinder用接連兩場意外以及Penny的機器人身份煽動觀眾，造成被負面情緒吸引的Grimm攻擊學校、白牙同時將更多的Grimm運入學校、Neo放出Torchwick接管Atlas軍隊的指揮船，並擊毀Atlas旗艦、Atlas的機器人軍隊因電腦病毒轉而攻擊人們。一切混亂都被Cinder等人即時轉播給全世界，巨大的龍型Grimm也出現攻擊轉播塔。師長和眾學生努力疏散平民並奮力抵抗，但仍在攻勢前節節敗退。Ruby成功登上Atlas指揮船並打贏Neopolitan和Torchwick，指揮船也被擊落讓Atlas的機械大軍全部失效。Blake遇到Adam被打倒折磨，Yang亦被Adam斬斷右臂。Pyrrha與Jaune找到Ozpin，在地下準備強行轉移Amber的神力，但尾隨的Cinder一箭射殺了Amber，成功搶奪了全部的神力。Ozpin獨自對戰Cinder後生死不明，白牙隨著Grimm佔領Vale而撤退，Cinder則成功接管了信號塔。Pyrrha在信號塔頂樓與Cinder展開決戰，最後被Cinder殺死。趕到塔頂並目睹此景的Ruby卻突然釋出巨大的力量，將巨龍冰凍在塔頂，Cinder也下落不明。不久Ruby在家中醒來，來探望的Qrow向她談論關於她的銀眼意義和其中隱藏力量的傳說，並透露敵人的行動正往Mistral轉移。RWBY隊中，Weiss被父親強行帶回Atlas，Blake不告而別並消失，Yang被斷手和Blake離去的事實打擊而陷入消沉。幾個月過後，休養好的Ruby不告離家，並與JNPR剩餘的隊員們前往Mistral的Haven學院。
 
@@ -199,7 +199,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 <!-- end list -->
 
   -
-    主角，角色原型是[小紅帽](https://zh.wikipedia.org/wiki/小紅帽 "wikilink")，名字取自紅寶石\[29\]\[30\]，故事開始時為15歲，因跳級就讀較其他人年幼。外像力為高速移動，移動時帶有玫瑰花瓣飄散、以及砍殺戮獸Grimm時也能令其消散時化為玫瑰花瓣，代表色是紅色。喜歡助人，期望能夠成為一名獵人，是個武器控。不善長徒手搏擊，一旦武器離手戰鬥能力極為低落，因此在第五季時受到Oscar(Ozpin)的特訓。為Yang的同父異母妹妹。
+    主角，角色原型是[小紅帽](https://zh.wikipedia.org/wiki/小紅帽 "wikilink")，名字取自紅寶石\[29\]\[30\]，故事開始時為15歲，因跳級就讀較其他人年幼。外像力為會成一團玫瑰花瓣進行高速遁走、以及砍殺戮獸Grimm時也能令其消散時化為玫瑰花瓣，代表色是紅色。喜歡助人，期望能夠成為一名獵人，是個武器控。不善長徒手搏擊，一旦武器離手戰鬥能力極為低落，因此在第五季時受到Oscar(Ozpin)的特訓。為Yang的同父異母妹妹。
     在第三季最終話，因目睹Pyrrha遭到Cinder殺害，在極度悲痛的情形下，眼睛發出銀色羽翼般的光芒，瞬間重創Cinder，並將飛龍型Grimm凍結在Beacon的塔頂，後被Qrow救下帶回家中。
     第四季時與Jaune、Nora、Ren組成小隊RNJR（或隊長為Jaune的隊名JNRR）前往Mistral，行經鬼百合鎮(Oniyuri)遺址時遭到Salam手下的Tyrian襲擊，屈居劣勢，Qrow前來救援卻在Aura防禦被擊破後遭其蠍尾蟄傷。之後在Ren與Nora的故鄉黑百合鎮(Kuroyuri)遇上了當年毀滅城鎮的大型魔獸，一番苦戰後勝利，之後被在附近巡邏的飛艇接往Mistral。
     在Qrow向Ruby透露的傳說中，Ruby與其母Summer
@@ -245,7 +245,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
     Fang對避風港學院CCT塔發動的恐怖攻擊，同時與RWBY隊的其他人會合。
     武器為「躍影飛綾（Gambol
     Shroud）」是一把刀身可折疊的[武士刀](../Page/日本刀.md "wikilink")，板狀的刀鞘同時也身兼第二把刀，劍柄本體是一把手槍，並附有「鎖鏈模式（Kyotetsu
-    Shouge）」，能夠在刀身摺疊時以可伸縮的彈性緞帶甩動進行攻擊或移動。第六季第11集在與Adam的時候遭其斬斷刀身。
+    Shouge）」，能夠在刀身摺疊時以可伸縮的彈性緞帶甩動進行攻擊或移動。第六季第11集在與Adam對峙的時候遭其斬斷刀身。
 
 <!-- end list -->
 
@@ -588,10 +588,7 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 
   -
     Salem的手下之一，擁有一條蠍子尾巴的弗納人，留着長辮子，黃眼睛，性格很像瘋子。在第四季時負責追捕Ruby，於第六話時將Ruby等人打得毫無還手之力，在即將得手之際被Qrow阻止，並爆發激戰，最終在Qrow意圖營救Ruby時以蠍尾重傷之，卻遭到Ruby以鐮刀斬斷尾巴（當時兩人的靈氣都已耗盡），負傷逃走。
-
-第六季時再度登場，並換上一條Watt博士所製造的鋼製毒蠍尾。先是挑釁嘲諷了Mercury和Emerald，然後輕鬆的將Mercury擊倒在地。季中和Watt博士一起前往Atlas王國進行內部顛覆活動。
-
-  -
+    第六季時再度登場，並換上一條Watt博士所製造的鋼製毒蠍尾。先是挑釁嘲諷了Mercury和Emerald，然後輕鬆的將Mercury擊倒在地。季中和Watt博士一起前往Atlas王國進行內部顛覆活動。
     瞳孔通常比別人的要更收縮。他的胸部與腹部有幾條醒目的傷疤。
     武器是固定於手腕的雙刃戰斧，可摺疊，兼具雙管聯裝衝鋒槍。
 
@@ -789,14 +786,14 @@ Naming Rule，CNR）」，劇中角色幾乎都遵從此規則命名（除了Ozp
 <!-- end list -->
 
   -
-    Ruby一夥人在前往Atlas的途中遇到的老婆婆，雖然年邁但卻意外的有著年輕人的性格，懂得很多關於魔獸的知識。
+    Ruby一夥人在前往Atlas的途中遇到的老婆婆，雖然年邁但卻意外的有著年輕人般的性格與活力，懂得很多關於魔獸的知識。
     真實身分是比STRQ小隊更早時代的傳奇獵人，以「屠戮死神（Grimm
     Reaper）」一名為人所稱著的鐮刀使，並且和Ruby同樣是「銀眼」的持有者，但在一次行動中遇襲遭人砍瞎雙眼，之後就此銷聲匿跡。在那之後則是仰賴電子義眼來維持視力。另外她也擁有駕駛飛艇的技術，在Vol
     6和Weiss奪取軍用飛艇幫助Ruby一行人離開Argus、對抗Atlas超大型人型兵器、消滅海中戮獸Leviathan，並在最終話抵達Atlas。
 
 <!-- end list -->
 
-  - **光明之神/黑暗之神**（英文名：God Of Light/God Of Light，配音：Chase McCaskill/Bruce
+  - **光明之神/黑暗之神**（英文名：God Of Light／God Of Dark，配音：Chase McCaskill／Bruce
     DuBose）
 
 <!-- end list -->

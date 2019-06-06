@@ -1,4 +1,4 @@
-**NG**，是指[電影或](https://zh.wikipedia.org/wiki/電影 "wikilink")[電視節目製作過程中](https://zh.wikipedia.org/wiki/電視 "wikilink")，[演員或劇組工作人員不慎出了差錯](https://zh.wikipedia.org/wiki/演員 "wikilink")、表現不夠理想（通常由導演判斷）而需再執行一次的鏡頭\[1\]，通常在最後成為從正片中刪減的鏡頭。該詞也可用來表示在[廣播放送](../Page/電台廣播.md "wikilink")、電視或[新聞現場直播時發生的失誤](https://zh.wikipedia.org/wiki/新聞 "wikilink")，例如口誤、吃螺絲或其他技術失誤。
+**NG**，是指[電影或](https://zh.wikipedia.org/wiki/電影 "wikilink")[電視節目製作過程中](https://zh.wikipedia.org/wiki/電視 "wikilink")，[演員或劇組工作人員不慎出了差錯](../Page/演員.md "wikilink")、表現不夠理想（通常由導演判斷）而需再執行一次的鏡頭\[1\]，通常在最後成為從正片中刪減的鏡頭。該詞也可用來表示在[廣播放送](../Page/電台廣播.md "wikilink")、電視或[新聞現場直播時發生的失誤](https://zh.wikipedia.org/wiki/新聞 "wikilink")，例如口誤、吃螺絲或其他技術失誤。
 
 NG片段常常成為電視節目的題材，也不時會被收錄至一部電影的幕後花絮之中，甚至製作為的[彩蛋重新呈現給觀眾](../Page/片尾彩蛋.md "wikilink")；例如[成龍和](../Page/成龍.md "wikilink")[畢·雷諾斯等電影人](../Page/畢·雷諾斯.md "wikilink")，都因為在片尾置入NG鏡頭而聞名。這樣做的目的通常是提供觀眾在劇情本身之外的娛樂效果，或是使之略為了解一些平常不易見到的拍攝過程。
 

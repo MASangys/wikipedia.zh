@@ -92,12 +92,9 @@ Road](../Page/Hot_Road_\(電影\).md "wikilink")》上映。
   -
   -
   -
-  -
 <!-- end list -->
 
   - [孫暐](../Page/孫暐.md "wikilink")
-
-  - 篠原美由紀
 
   - 伊然（イーラン）
 
@@ -128,10 +125,6 @@ Road](../Page/Hot_Road_\(電影\).md "wikilink")》上映。
 
   -
   -
-  - 近藤カコ
-
-  - 伊波さやか
-
   - ASHLEY（）
 
   - 碓井玲菜
@@ -155,9 +148,10 @@ Road](../Page/Hot_Road_\(電影\).md "wikilink")》上映。
 
   - 尾方琴葉
 
+  - 一ノ瀬陽鞠
+
 <!-- end list -->
 
-  - 一ノ瀬陽鞠
   - 加藤咲希
   - 白石こころ
   - 石川紗由
@@ -328,6 +322,13 @@ Road](../Page/Hot_Road_\(電影\).md "wikilink")》上映。
 
   - 浦川祥哉
 
+  - 篠原美由紀
+
+  - 近藤カコ
+
+  - 伊波さやか
+
+  -
   - （引退）
 
 ## 選秀活動

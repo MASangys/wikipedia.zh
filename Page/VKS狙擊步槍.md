@@ -22,7 +22,7 @@ VKS消聲狙擊步槍採用了[无托结构的設計](../Page/犢牛式_\(槍械
 
 ### 槍機組件
 
-與[AK系列步槍一樣](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，VKS也採用[轉拴式槍機閉鎖結構](../Page/滾轉式槍機.md "wikilink")。不過兩者的槍機設計不同的是，AK系列步槍槍機機頭上設有兩個鎖耳（，又稱：閉鎖突箏），而VKS則是在槍機機頭上設有四個鎖耳。VKS的裝在[機框上](https://zh.wikipedia.org/wiki/機框 "wikilink")，可在[機匣左右兩側設置](https://zh.wikipedia.org/wiki/機匣 "wikilink")。
+與[AK系列步槍一樣](https://zh.wikipedia.org/wiki/AK-47突击步枪 "wikilink")，VKS也採用[轉拴式](../Page/轉拴式槍栓.md "wikilink")[槍栓閉鎖結構](https://zh.wikipedia.org/wiki/槍栓 "wikilink")。不過兩者的槍機設計不同的是，AK系列步槍槍機機頭上設有兩個鎖耳（，又稱：閉鎖突箏），而VKS則是在槍機機頭上設有四個鎖耳。VKS的裝在[機框上](https://zh.wikipedia.org/wiki/機框 "wikilink")，可在[機匣左右兩側設置](https://zh.wikipedia.org/wiki/機匣 "wikilink")。
 
 使用時，先向前推動拉機柄，帶動槍機向前，將[彈匣內首發](../Page/彈匣.md "wikilink")[子彈推進](../Page/子彈.md "wikilink")[膛室](../Page/膛室.md "wikilink")。當槍機前進到位的時候，機框上的閉鎖凹槽驅動槍機滾轉閉鎖，呈[閉膛待擊狀態](https://zh.wikipedia.org/wiki/閉膛待擊 "wikilink")。子彈擊發以後，向後拉動拉機柄，機框螺旋槽帶動槍機反方向滾轉而而開鎖，並且抽出[彈殼](https://zh.wikipedia.org/wiki/彈殼 "wikilink")，在槍機向後的過程中，將彈殼拋出槍外。
 
@@ -51,7 +51,7 @@ VKS消聲狙擊步槍發射專屬12.7×55毫米俄羅斯口徑[亞音速](https:
 
 ## 使用國
 
-  - ：被[俄羅斯聯邦安全局](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")（，簡稱：ФСБ；，簡稱：FSB）所使用。
+  -   - [俄羅斯聯邦安全局](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")
 
 ## 流行文化
 
@@ -168,6 +168,7 @@ VKS消聲狙擊步槍發射專屬12.7×55毫米俄羅斯口徑[亞音速](https:
 [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink")
 [Category:狙击步枪](https://zh.wikipedia.org/wiki/Category:狙击步枪 "wikilink")
 [Category:反器材步槍](https://zh.wikipedia.org/wiki/Category:反器材步槍 "wikilink")
+[Category:消聲槍械](https://zh.wikipedia.org/wiki/Category:消聲槍械 "wikilink")
 [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
 [Category:犢牛式槍械](https://zh.wikipedia.org/wiki/Category:犢牛式槍械 "wikilink")
 [Category:俄聯邦儀器設計局](https://zh.wikipedia.org/wiki/Category:俄聯邦儀器設計局 "wikilink")

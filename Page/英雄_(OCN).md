@@ -26,7 +26,6 @@ Series）。
   - [玄成](https://zh.wikipedia.org/wiki/玄成 "wikilink") 飾演 尹午鬥
   - [大谷亮平](../Page/大谷亮平.md "wikilink") 飾演 李宰仁
   - [吳秀敏](https://zh.wikipedia.org/wiki/吳秀敏 "wikilink") 飾演 張彩玉（童年：）
-  - [張光](../Page/張光_\(演員\).md "wikilink") 飾演 申慶賢（客串）
 
 ## 標題
 

@@ -1,6 +1,4 @@
-**Crispy脆樂團**是由男主唱**[Skippy](https://zh.wikipedia.org/wiki/Skippy "wikilink")**加上女主唱**[丁不拉丁](https://zh.wikipedia.org/wiki/丁不拉丁 "wikilink")**（亦可稱丁丁）所組成的另類男女雙主唱民謠組合**。**
-
-曲風多元，在民謠中結合搖滾、流行、電子、取樣拼貼等不同面向的元素，男主唱聲音清亮細緻、女主唱多層次副穿透力，兩人聲線交織形成獨特的音景，溫暖且撫慰人心。於2018年入圍第29屆[金曲獎](../Page/金曲獎.md "wikilink")[最佳演唱組合](../Page/最佳演唱組合獎_\(金曲獎\).md "wikilink")。
+**Crispy脆樂團**是由男主唱**[Skippy](https://zh.wikipedia.org/wiki/Skippy "wikilink")**加上女主唱**[丁不拉丁](https://zh.wikipedia.org/wiki/丁不拉丁 "wikilink")**（亦可稱丁丁）所組成的另類男女雙主唱民謠組合'''。於2018年入圍第29屆[金曲獎](../Page/金曲獎.md "wikilink")[最佳演唱組合](../Page/最佳演唱組合獎_\(金曲獎\).md "wikilink")。
 
 ## 樂團簡介
 
@@ -35,112 +33,84 @@ Wall](https://zh.wikipedia.org/wiki/The_Wall "wikilink")、賣捌所......等等
 pop的全新嘗試，強而有力的節奏、豐富的電子聲響與雙主唱編排，一高一低的聲線唱著科技時代的焦慮、寂寞與救贖。「活在過度曝光的時代，你看見的是光還是光害？
 」一切的事物都有正反兩面，太多的光就成了光害，而也只有在最深的黑暗裡才看得見最美的星空。面對這個被螢幕籠罩的過曝世界，用一首歌重新思考快樂。
 
-**2018以《你快樂，嗎》入圍第29屆[金曲獎](../Page/金曲獎.md "wikilink")「[最佳演唱組合](../Page/最佳演唱組合獎_\(金曲獎\).md "wikilink")」**。
+2018以《你快樂，嗎》入圍第29屆[金曲獎](../Page/金曲獎.md "wikilink")「[最佳演唱組合](../Page/最佳演唱組合獎_\(金曲獎\).md "wikilink")」。
 
 ## 發行
 
 ### 單曲
 
-| 發行日期    | 歌曲名稱                                              |
-| ------- | ------------------------------------------------- |
-| 2017年4月 | [過曝](https://www.youtube.com/watch?v=VxyOHeCoEGU) |
-
-### EP
-
 <table>
-<thead>
-<tr class="header">
-<th style="text-align: left;"><p>發行順序</p></th>
-<th style="text-align: left;"><p>資料</p></th>
-<th style="text-align: left;"><p>曲目</p></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td><p><strong>發行日期</strong></p></td>
+<td><p><strong>歌曲名稱</strong></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p><strong>1st</strong></p></td>
-<td style="text-align: left;"><p>《<strong>這不是脆弱，</strong>》</p>
-<ul>
-<li>發行日：2012年4月3日</li>
-</ul></td>
-<td style="text-align: left;"><p>1.這不是脆弱 2.念舊</p>
-<p>3.後來我們</p>
-<p>4.<a href="https://www.youtube.com/watch?v=V3SbZKjCUWE">100分</a></p></td>
-</tr>
-<tr class="odd">
-<td style="text-align: left;"><p>2nd</p></td>
-<td style="text-align: left;"><p>《玩伴》</p>
-<ul>
-<li>發行日：2015年5月</li>
-</ul></td>
-<td style="text-align: left;"><p>1.玩伴 2.煙火</p>
-<p>3.這世界沒有你想像的苦澀</p></td>
-</tr>
-<tr class="even">
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=VxyOHeCoEGU">過曝</a></p></td>
 </tr>
 </tbody>
 </table>
 
-### 專輯
+### EP
 
 <table>
-<thead>
-<tr class="header">
-<th style="text-align: left;"><p>發行順序</p></th>
-<th style="text-align: left;"><p>資料</p></th>
-<th style="text-align: left;"><p>曲目</p></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
-<td style="text-align: left;"></td>
+<td><p><strong>發行順序</strong></p></td>
+<td><p><strong>資料</strong></p></td>
+<td><p><strong>曲目</strong></p></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><p><strong>1st</strong></p></td>
-<td style="text-align: left;"><p>《<strong>後來，我們</strong>》</p>
+<td><p><strong>1</strong></p></td>
+<td><p>align="left| <strong>《這不是脆弱,》</strong>[3]</p>
 <ul>
-<li>發行日：2013年3月5日</li>
+<li>發行日期：</li>
 </ul></td>
-<td style="text-align: left;"><p><strong>DISC BOY</strong></p>
-<p>1.後來我們</p>
-<p>2.睡賊</p>
-<p>3.<a href="https://www.youtube.com/watch?v=RVtcOQik8wY">學校</a></p>
-<p>4.Whose time is it?</p>
-<p>5.肩膀</p>
-<p>6.<a href="https://www.youtube.com/watch?v=ZmKUSLeuGVk">流浪(Boy)</a></p>
-<p><strong>DISC GIRL</strong></p>
-<p>1.As the hands turn</p>
-<p>2.100分</p>
-<p>3.孩子</p>
-<p>4.I'm home, dear dad</p>
-<p>5.改變</p>
-<p>6.<a href="https://www.youtube.com/watch?v=cIAiCOfunUI">流浪(Girl)</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td style="text-align: left;"><p><strong>2nd</strong></p></td>
-<td style="text-align: left;"><p>《<strong>你快樂，嗎</strong>》 (In Search of Happiness)</p>
+<td><p><strong>2</strong></p></td>
+<td><p>align="left| <strong>《玩伴》</strong> [4]</p>
 <ul>
-<li>發行日：2017年3月2日</li>
+<li>發行日期：</li>
+<li>發行公司：<a href="../Page/亞神音樂.md" title="wikilink">亞神音樂</a></li>
 </ul></td>
-<td style="text-align: left;"><p>1.<a href="https://www.youtube.com/watch?v=vyklSbH58u0&amp;feature=youtu.be">編織星空的人 (Weaver of Stars)</a> </p>
-<p>2.<a href="https://www.youtube.com/watch?v=OZ0Wr5XimCE">100萬 (Millions)</a></p>
-<p>3.<a href="https://www.youtube.com/watch?v=X7JbNOomdVU">你快樂嗎 (In Search of Happiness)</a></p>
-<p>4.<a href="https://www.youtube.com/watch?v=E_MAvP_d9S4">你說風景無法帶走 (The View We Left Behind)</a></p>
-<p>5.<a href="https://www.youtube.com/watch?v=Sf-9eE5DAhE">於是你不再感到痛了 (No More Pain)</a></p>
-<p>6.色香味俱全 (Exquisite Cuisine)</p>
-<p>7.<a href="https://www.youtube.com/watch?v=9XWu5hiNvS8">麻辣湯頭 (Spicy Hot Soup)</a></p>
-<p>8.<a href="https://www.youtube.com/watch?v=LnScqgqKoOU">星空之上 (Above the Stars)</a></p>
-<p>9.<a href="https://www.youtube.com/watch?v=r52e2z0alvA">提醒 (Reminder)</a></p>
-<p>10.<a href="https://www.youtube.com/watch?v=NMHjBvrvqkM">燈塔 (Lighthouse)</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 錄音室專輯
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p><strong>發行順序</strong></p></td>
+<td><p><strong>資料</strong></p></td>
+<td><p><strong>曲目</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>1</strong></p></td>
+<td><p>align="left| <strong>《後來，我們》</strong>[5]</p>
+<ul>
+<li>發行日期：</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>2</strong></p></td>
+<td><p>align="left|<strong>《你快樂，嗎》</strong> (In Search of Happiness) [6]</p>
+<ul>
+<li>發行日期：</li>
+<li>發行公司：<a href="../Page/台灣索尼音樂娛樂.md" title="wikilink">台灣索尼音樂娛樂</a></li>
+</ul></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -164,3 +134,7 @@ pop的全新嘗試，強而有力的節奏、豐富的電子聲響與雙主唱�
 
 1.
 2.
+3.
+4.
+5.
+6.

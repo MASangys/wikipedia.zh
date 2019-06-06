@@ -20,7 +20,7 @@ Network使用第](https://zh.wikipedia.org/wiki/w:en:Dish_Network "wikilink")999
 ## 外部連結
 
   - [電視廣播(美國)有限公司相關網站](http://www.tvbusa.com/index.php?option=com_channel&Itemid=118&channel=JV)
-  - [電視廣播(澳洲)有限公司相關網站](http://www.tvbvietnam.com.au/)
+  - [電視廣播(澳洲)有限公司相關網站](https://web.archive.org/web/20120807033802/http://www.tvbvietnam.com.au/)
 
 [Category:電視廣播有限公司電視頻道](https://zh.wikipedia.org/wiki/Category:電視廣播有限公司電視頻道 "wikilink")
 [Category:越南語電視頻道](https://zh.wikipedia.org/wiki/Category:越南語電視頻道 "wikilink")

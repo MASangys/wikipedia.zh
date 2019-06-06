@@ -120,12 +120,14 @@ Joo發行歌曲Let This Die；N、Leo、Ravi出演徐仁國的Shake It Up；Hong
   - 7月31日，LEO發行第1張迷你韓語專輯《CANVAS》，作為團內第二位solo出道。
   - 9月26日，發行第三張日本專輯《Reincarnation》，並於日本開始發售紀念活動。
 
-### 2019年：HYUK SOLO、隊長N入伍、RAVI第二張迷你專輯《R.OOK BOOK》
+### 2019年：HYUK SOLO、隊長N入伍、RAVI第二張迷你專輯《R.OOK BOOK》、RAVI約滿不續約
 
   - 1月12日，HYUK發行第1首數位單曲《Boy with a Star》，作為團內第三位SOLO出道。
   - 3月4日，N軍樂隊入伍，分發到的軍樂隊為陸軍士官學校，預計於2020年10月7號退伍。
   - 3月5日，[RAVI發行第二張迷你專輯](https://zh.wikipedia.org/wiki/RAVI "wikilink")《R.OOK
     BOOK》，主打歌《TUXEDO》，並於3月22、23、24日舉辦RAVI 3rd REAL-LIVE \[R.OOK BOOK\]。
+  - 5月24日，Jellyfish Entertainment 宣布 VIXX 成員 Leo、Ken、弘彬與 Hyuk
+    續簽合約，而RAVI決定離開公司並建立自己的工作室；但將繼續參與VIXX的團體活動。而隊長N將等退伍後再討論續約的問題。
 
 ## 成員列表
 

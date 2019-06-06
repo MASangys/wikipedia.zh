@@ -435,7 +435,7 @@ Hansol<br />
 
 1.
 2.
-3.  [A-Tom 退出 Topp Dogg 參加《101》](http://kpopn.niusnews.com/=K269exx0)
+3.
 4.
 5.
 6.

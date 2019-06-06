@@ -63,7 +63,7 @@ Tiffany的頭銜後，便對其進行了一次專訪，寶兒也講述了在做[
   -
 [Category:泰國女歌手](https://zh.wikipedia.org/wiki/Category:泰國女歌手 "wikilink")
 [Category:泰國女性模特兒](https://zh.wikipedia.org/wiki/Category:泰國女性模特兒 "wikilink")
-[Category:泰国演员](https://zh.wikipedia.org/wiki/Category:泰国演员 "wikilink")
+[Category:泰國女演員](https://zh.wikipedia.org/wiki/Category:泰國女演員 "wikilink")
 [Category:泰國變性人](https://zh.wikipedia.org/wiki/Category:泰國變性人 "wikilink")
 [Category:跨性別演員](https://zh.wikipedia.org/wiki/Category:跨性別演員 "wikilink")
 [Category:跨性別模特兒](https://zh.wikipedia.org/wiki/Category:跨性別模特兒 "wikilink")

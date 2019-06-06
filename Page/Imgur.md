@@ -12,6 +12,10 @@ Services](https://zh.wikipedia.org/wiki/Amazon_Web_Services "wikilink")（2011�
 2011年1月，公司總部從俄亥俄州搬到[加州](https://zh.wikipedia.org/wiki/加利福尼亞州 "wikilink")[舊金山](https://zh.wikipedia.org/wiki/舊金山 "wikilink")。2014年4月，該網站從[安德森·霍洛维茨基金處獲得四千萬美元的資助](https://zh.wikipedia.org/wiki/安德森·霍洛维茨基金 "wikilink")，同時後者也進入了Imgur的董事會。\[5\]
 而[Reddit也在持續投入資金](../Page/Reddit.md "wikilink")。\[6\]
 
+## 屏蔽中国大陆用户
+
+据[GreatFire统计及有些用户报告](../Page/GreatFire.md "wikilink")，他们无法使用中国IP访问Imgur\[7\]。原因并不是被[GFW封锁](https://zh.wikipedia.org/wiki/GFW "wikilink")，而是自行屏蔽了大陆的用户\[8\]\[9\]\[10\]。
+
 ## 參考文獻
 
 ## 外部連結
@@ -28,3 +32,7 @@ Services](https://zh.wikipedia.org/wiki/Amazon_Web_Services "wikilink")（2011�
     Bootstrapping, Imgur Raises $40 Million From Andreessen Horowitz &
     Reddit](http://techcrunch.com/2014/04/03/after-five-years-of-bootstrapping-imgur-raises-40-million-from-andreessen-reddit/)"
 6.
+7.
+8.
+9.
+10.

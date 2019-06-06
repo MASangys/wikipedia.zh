@@ -1832,19 +1832,19 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p>3D电影，原为2D电影，后期转制。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/地狱怪客：血后的崛起" title="wikilink">地狱怪客：血后的崛起</a></p></td>
-<td><p>2019年4月12日</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/哭泣的女人_(電影).md" title="wikilink">哭泣的女人</a></p></td>
 <td><p>2019年4月19日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/復仇者聯盟：終局之戰" title="wikilink">復仇者聯盟：終局之戰</a></p></td>
 <td><p>2019年4月26日</p></td>
 <td><p>3D电影，原为2D电影，后期转制。全片使用数字Arri Alexa IMAX摄影机拍摄</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/POKÉMON_名偵探皮卡丘.md" title="wikilink">POKÉMON 名偵探皮卡丘</a></p></td>
+<td><p>2019年5月10日</p></td>
+<td><p>3D電影</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/阿拉丁_(2019年电影)" title="wikilink">阿拉丁</a></p></td>
@@ -1880,16 +1880,6 @@ Remastering的縮寫。製片公司把影片的35毫米底片拷貝或是數位�
 <td><p><a href="https://zh.wikipedia.org/wiki/狮子王_(2019年电影)" title="wikilink">獅子王</a></p></td>
 <td><p>2019年7月19日</p></td>
 <td><p>3D电影。部分精彩片段使用数字Arri Alexa IMAX摄影机拍摄，並且整部影片的寬高比為1.90:1</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/變種人_(電影).md" title="wikilink">變種人</a></p></td>
-<td><p>2019年8月2日</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/阿特米斯奇幻历险_(电影)" title="wikilink">阿特米斯奇幻歷險</a></p></td>
-<td><p>2019年8月9日</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/牠：第二章.md" title="wikilink">牠：第二章</a></p></td>

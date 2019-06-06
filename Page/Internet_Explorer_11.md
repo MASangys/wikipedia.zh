@@ -123,7 +123,7 @@ Explorer 11開發者預覽版\[12\]\[13\]。
 
 ## 外部連結
 
-  - [官方網站](http://ie.microsoft.com/)
+  - [官方網站](https://web.archive.org/web/20130715223741/http://ie.microsoft.com/)
 
 [Category:Internet_Explorer](https://zh.wikipedia.org/wiki/Category:Internet_Explorer "wikilink")
 [Category:Windows_8](https://zh.wikipedia.org/wiki/Category:Windows_8 "wikilink")

@@ -1,10 +1,10 @@
 **Android
-Lollipop（棒棒糖）**是一個由[Google開發的第五个主要](../Page/Google.md "wikilink")[Android作業系統](../Page/Android.md "wikilink")。於2014年6月25日Google
+Lollipop**是一個由[Google開發的第五个主要](../Page/Google.md "wikilink")[Android作業系統](../Page/Android.md "wikilink")。於2014年6月25日Google
 I/O大会亮相，並於隔日選定[Google
 Nexus做為開發設備](../Page/Google_Nexus.md "wikilink")，于2014年11月12日通过[OTA正式推送到新款的Nexus和Google](https://zh.wikipedia.org/wiki/OTA "wikilink")
 Play版设备上，其正式版源代码在2014年11月3日公布。
 
-在Lollipop中最大的改變於一個被稱為“Material
+在Android Lollipop中最大的改變於一個被稱為“Material
 Design”重新設計過的使用者介面反應迅速灵敏的設計語言，和改進過的通知系統，使之能夠從鎖定屏幕中使用，並允許了其他應用程式透過橫幅提示顯示在屏幕的頂端中。內部設計也有了改變，為改善應用程式性能以[ART模式正式取代了](../Page/Android_Runtime.md "wikilink")[-{zh-cn:Dalvik虚拟机;zh-tw:Dalvik模式;}-](../Page/Dalvik虚拟机.md "wikilink")，並改善和優化了電池的使用。
 
 ## 開發
@@ -54,7 +54,8 @@ Open Source Project釋出](../Page/Android.md "wikilink")。\[20\]
 
 ## 外部連結
 
-  -
+  - [Android – 5.0
+    Lollipop](https://www.android.com/versions/lollipop-5-0/)
 
 [Category:Android](https://zh.wikipedia.org/wiki/Category:Android "wikilink")
 [Category:行動作業系統](https://zh.wikipedia.org/wiki/Category:行動作業系統 "wikilink")

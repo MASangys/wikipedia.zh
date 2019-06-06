@@ -20,7 +20,8 @@ openZIM 项目由 Wikimedia CH
 
 ## 外部链接
 
-  - [Open Zim Wiki](http://www.openzim.org/index.php/Main_Page)
+  - [Open Zim
+    Wiki](https://web.archive.org/web/20130131031557/http://www.openzim.org/index.php/Main_Page)
   - [Kiwix ZIM
     阅读器](https://web.archive.org/web/20130116164530/http://kiwix.org/index.php/Main_Page/en)
   - [Symbian 手机用 ZIM 阅读器

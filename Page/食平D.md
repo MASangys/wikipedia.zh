@@ -1,4 +1,4 @@
-《**食平D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的飲食節目](../Page/電視廣播有限公司.md "wikilink")[食平D系列的第一輯](../Page/食平D系列.md "wikilink")，共24集，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明擔任主持](../Page/陸浩明.md "wikilink")。本節目於2013年4月29日起[香港時間逢星期一至五](../Page/香港時間.md "wikilink")22:30-23:00在[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，及於[MyTV提供網上節目重溫](../Page/MyTV.md "wikilink")（集數上傳後兩個月後會刪除）。
+《**食平D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的飲食節目](../Page/電視廣播有限公司.md "wikilink")**食平D系列**的第一輯，共24集，由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明擔任主持](../Page/陸浩明.md "wikilink")。本節目於2013年4月29日起[香港時間逢星期一至五](../Page/香港時間.md "wikilink")22:30-23:00在[翡翠台及](../Page/翡翠台.md "wikilink")[高清翡翠台播出](../Page/高清翡翠台.md "wikilink")，及於[MyTV提供網上節目重溫](../Page/MyTV.md "wikilink")（集數上傳後兩個月後會刪除）。
 
 ## 節目簡介
 

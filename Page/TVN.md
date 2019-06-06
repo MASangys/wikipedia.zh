@@ -9,7 +9,8 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 
 ### 最高收視率排行
 
-  - 以下記載《**戲劇作品**》排名前20位的最高**全國平均**收視率（非首都區、非瞬間最高收視）、相關**最高收視的集數和日期**（非總集數和大結局日期）。(請參考底部資料來源)
+  - 以下記載《**戲劇作品**》排名前20位的最高**全國平均**收視率（非首都區、非瞬間最高收視）、相關**最高收視的集數和日期**（非總集數和大結局日期）。
+    (請參考底部資料來源)
 
 <table>
 <thead>
@@ -199,11 +200,11 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>20</p></td>
-<td><p><a href="../Page/第二個二十歲.md" title="wikilink">第二個二十歲</a></p></td>
-<td><p>16</p></td>
-<td><p>7.233%</p></td>
-<td><p>2015/10/17</p></td>
-<td><p>金土</p></td>
+<td><p><a href="../Page/阿斯達年代記.md" title="wikilink">阿斯達年代記</a></p></td>
+<td><p>2</p></td>
+<td><p>7.310%</p></td>
+<td><p>2019/06/02</p></td>
+<td><p>週末</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -327,11 +328,11 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="http://program.m.tving.com/tvn/littlebighero/">Little Big Heros</a></p></td>
 <td><p>2012年8月20日</p></td>
 <td><p>2017年12月18日</p></td>
 <td><p>2</p></td>
-<td><p>真人實境秀</p></td>
+<td><p>時事教養</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年3月5日</p></td>
@@ -348,11 +349,11 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>喜劇節目</p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="http://program.m.tving.com/tvn/coolkkadang/">COOLKKADANG</a></p></td>
 <td><p>2012年11月1日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
-<td><p>脫口秀節目</p></td>
+<td><p>時事教養</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/The_Romantic_&amp;_Idol" title="wikilink">The Romantic &amp; Idol</a></p></td>
@@ -509,23 +510,24 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/周三美食匯" title="wikilink">周三美食匯</a><br />
-（間中停播2次，變更播放時段4次）</p></td>
+<td><p><a href="../Page/週三美食匯.md" title="wikilink">週三美食匯</a><br />
+（間中停播1次，變更播放時段4次）<br />
+轉到O'live頻道播出</p></td>
 <td><p>2015年1月21日</p></td>
-<td><p>2018年9月19日</p></td>
+<td><p>2018年5月30日</p></td>
 <td><p>1</p></td>
 <td><p>美食節目</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年1月2日</p></td>
-<td><p>2019年4月24日</p></td>
+<td><p>2018年6月7日</p></td>
+<td><p>2018年9月19日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2019年5月日</p></td>
-<td></td>
+<td><p>2019年1月2日</p></td>
+<td><p>2019年4月24日</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -705,12 +707,12 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>2015年9月10日</p></td>
 <td><p>2018年12月19日</p></td>
 <td><p>2</p></td>
-<td><p>脫口秀節目</p></td>
+<td><p>時事教養</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>2019年2月28日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年5月2日</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -853,7 +855,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>2016年12月8日</p></td>
 <td><p>2017年4月13日</p></td>
 <td><p>1</p></td>
-<td><p>訪談節目</p></td>
+<td><p>脫口秀節目</p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年5月18日</p></td>
@@ -1018,7 +1020,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>2019年</p></td>
-<td><p>播放中</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1104,7 +1106,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p><a href="../Page/Seoul_Mate.md" title="wikilink">Seoul Mate</a></p></td>
 <td><p>2017年11月11日</p></td>
 <td><p>2018年8月25日</p></td>
-<td><p>2</p></td>
+<td><p>3</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
@@ -1115,18 +1117,32 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Seoul_Mate_3" title="wikilink">Seoul Mate 3</a></p></td>
+<td><p>2019年7月1日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/本業是歌手－這些傢伙的兩種生活.md" title="wikilink">本業是歌手－這些傢伙的兩種生活</a></p></td>
 <td><p>2017年11月23日</p></td>
 <td><p>2018年1月11日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/窮遊豪華團.md" title="wikilink">窮遊豪華團</a></p></td>
 <td><p>2017年11月25日</p></td>
-<td><p>播放中</p></td>
-<td><p>1</p></td>
+<td><p>2019年6月1日</p></td>
+<td><p>2</p></td>
 <td><p>真人實境秀</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/更窮遊豪華團" title="wikilink">更窮遊豪華團</a></p></td>
+<td><p>2019年6月17日</p></td>
+<td><p>播放中</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/我的英文青春期.md" title="wikilink">我的英文青春期</a></p></td>
@@ -1151,9 +1167,10 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="odd">
-<td><p>2019年</p></td>
-<td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姜食堂_(第二季)" title="wikilink">姜食堂2</a><br />
+（新西遊記外傳）</p></td>
+<td><p>2019年5月31日</p></td>
+<td><p>播放中</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1272,7 +1289,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>真人實境秀</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/驚人的週六" title="wikilink">驚人的週六</a></p></td>
+<td><p><a href="../Page/驚人的星期六.md" title="wikilink">驚人的星期六</a></p></td>
 <td><p>2018年4月7日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
@@ -1291,7 +1308,7 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>2018年4月29日</p></td>
 <td><p>2018年5月20日</p></td>
 <td><p>試播</p></td>
-<td><p>談話性節目</p></td>
+<td><p>時事教養</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018年7月20日</p></td>
@@ -1311,136 +1328,143 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p><a href="../Page/The_Call.md" title="wikilink">The Call</a></p></td>
 <td><p>2018年5月4日</p></td>
 <td><p>2018年6月29日</p></td>
-<td><p>1</p></td>
+<td><p>2</p></td>
 <td><p>競技節目</p></td>
 </tr>
 <tr class="even">
+<td><p>2019年7月5日</p></td>
+<td><p>播放中</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/今天_明日.md" title="wikilink">今天 明日</a></p></td>
 <td><p>2018年5月24日</p></td>
 <td><p>2018年7月26日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/食糧日記.md" title="wikilink">食糧日記</a></p></td>
 <td><p>2018年5月30日</p></td>
 <td><p>2018年8月8日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/守美的拌菜.md" title="wikilink">守美的拌菜</a></p></td>
 <td><p>2018年6月6日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>美食節目</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/吃草的聲音.md" title="wikilink">吃草的聲音</a></p></td>
 <td><p>2018年6月25日</p></td>
 <td><p>2018年7月30日</p></td>
 <td><p>3</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年9月17日</p></td>
 <td><p>2018年11月19日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年4月1日</p></td>
 <td><p>播放中</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/我的數學青春期.md" title="wikilink">我的數學青春期</a></p></td>
 <td><p>2018年6月26日</p></td>
 <td><p>2018年7月17日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/大逃出.md" title="wikilink">大逃出</a></p></td>
 <td><p>2018年7月1日</p></td>
 <td><p>2018年9月23日</p></td>
 <td><p>2</p></td>
 <td><p>競技節目</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/大逃出2" title="wikilink">大逃出2</a></p></td>
 <td><p>2019年3月17日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年6月2日</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/伽利略：覺醒的宇宙" title="wikilink">伽利略：覺醒的宇宙</a></p></td>
 <td><p>2018年7月15日</p></td>
 <td><p>2018年9月9日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
-<td><p><a href="../Page/Road_To_Ithaca.md" title="wikilink">Road To Ithaca</a></p></td>
+<tr class="odd">
+<td><p><a href="../Page/通往伊薩卡之路.md" title="wikilink">通往伊薩卡之路</a></p></td>
 <td><p>2018年7月15日</p></td>
 <td><p>2018年9月23日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/劉QUIZ_ON_THE_BLOCK.md" title="wikilink">劉QUIZ ON THE BLOCK</a></p></td>
 <td><p>2018年8月29日</p></td>
 <td><p>2018年11月14日</p></td>
 <td><p>2</p></td>
 <td><p>脫口秀節目</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/劉QUIZ_ON_THE_BLOCK_(第二季).md" title="wikilink">劉QUIZ ON THE BLOCK (第二季)</a></p></td>
 <td><p>2019年4月16日</p></td>
 <td><p>播放中</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/一場聲音的戰爭：300.md" title="wikilink">一場聲音的戰爭：300</a></p></td>
 <td><p>2018年8月31日</p></td>
 <td><p>2018年9月28日</p></td>
 <td><p>2</p></td>
 <td><p>競技節目</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年5月3日</p></td>
 <td><p>播放中</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>2018年9月24日</p></td>
 <td><p>2018年9月25日</p></td>
 <td><p>試播</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="http://program.m.tving.com/tvn/imhomemom/">媽媽 我回來了</a></p></td>
 <td><p>2018年9月26日</p></td>
 <td><p>2018年11月8日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/週末使用說明書.md" title="wikilink">週末使用說明書</a></p></td>
 <td><p>2018年9月30日</p></td>
 <td><p>2019年1月27日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/驚險的親家練習.md" title="wikilink">驚險的親家練習</a><br />
 （第16集開始變更播放時段）</p></td>
 <td><p>2018年10月5日</p></td>
@@ -1448,145 +1472,180 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年1月19日</p></td>
 <td><p>2019年3月9日</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="http://program.m.tving.com/tvn/aparttogether/">分開又一起</a></p></td>
 <td><p>2018年10月7日</p></td>
 <td><p>2019年2月3日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p><a href="http://program.m.tving.com/tvn/tvnshift/">TvN Shift</a></p></td>
 <td><p>2018年10月26日</p></td>
 <td><p>2018年12月7日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="http://program.m.tving.com/tvn/icansmellyourmoney/">聽見你的錢</a></p></td>
 <td><p>2018年11月20日</p></td>
 <td><p>2018年12月10日</p></td>
 <td><p>1</p></td>
-<td><p>真人實境秀</p></td>
+<td><p>時事教養</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/無國界路邊攤" title="wikilink">無國界路邊攤</a></p></td>
 <td><p>2018年11月21日</p></td>
 <td><p>2019年2月20日</p></td>
 <td><p>1</p></td>
 <td><p>美食節目</p></td>
 </tr>
-<tr class="even">
-<td></td>
+<tr class="odd">
+<td><p><a href="http://program.m.tving.com/tvn/whataboutmyage/">年齡參差</a></p></td>
 <td><p>2018年11月22日</p></td>
 <td><p>2018年12月13日</p></td>
 <td><p>試播</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019年2月12日</p></td>
 <td><p>2019年4月2日</p></td>
 <td><p>1</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/令人垂涎的遊輪.md" title="wikilink">令人垂涎的遊輪</a></p></td>
 <td><p>2018年11月24日</p></td>
 <td><p>2019年1月5日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Amor_Fati.md" title="wikilink">Amor Fati</a></p></td>
 <td><p>2018年12月9日</p></td>
 <td><p>2019年3月3日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Coffee_Friends.md" title="wikilink">Coffee Friends</a></p></td>
 <td><p>2019年1月4日</p></td>
 <td><p>2019年3月8日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p><a href="http://program.m.tving.com/tvn/sang-am-times/">上巖時間</a></p></td>
 <td><p>2019年1月22日</p></td>
 <td><p>2019年4月2日</p></td>
 <td><p>1</p></td>
-<td><p>談話性節目</p></td>
+<td><p>時事教養</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>2019年2月3日</p></td>
 <td><p>2019年3月10日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/我手中的侄子tv.md" title="wikilink">我手中的侄子TV</a></p></td>
 <td><p>2019年2月17日</p></td>
 <td><p>2019年3月10日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/問題性BOSS.md" title="wikilink">問題性BOSS</a></p></td>
 <td><p>2019年3月6日</p></td>
 <td><p>2019年4月24日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/西班牙寄宿.md" title="wikilink">西班牙寄宿</a></p></td>
 <td><p>2019年3月15日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年5月24日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/傻瓜們的監獄生活.md" title="wikilink">傻瓜們的監獄生活</a></p></td>
 <td><p>2019年3月16日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>競技節目</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Show!_Audio_Jockey.md" title="wikilink">Show! Audio Jockey</a></p></td>
 <td><p>2019年3月17日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Miss_Korea" title="wikilink">Miss Korea</a></p></td>
 <td><p>2019年3月24日</p></td>
-<td><p>播放中</p></td>
+<td><p>2019年5月26日</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="odd">
-<td></td>
+<tr class="even">
+<td><p><a href="http://program.m.tving.com/tvn/thoughtofchildren/">孩子的想法</a></p></td>
 <td><p>2019年4月9日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/工作室_(韓國綜藝).md" title="wikilink">工作室</a></p></td>
 <td><p>2019年5月1日</p></td>
 <td><p>播放中</p></td>
 <td><p>1</p></td>
 <td><p>真人實境秀</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="http://program.m.tving.com/tvn/coverstory/">封面故事</a></p></td>
+<td><p>2019年5月16日</p></td>
+<td><p>播放中</p></td>
+<td><p>1</p></td>
+<td><p>時事教養</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/孫Sational-打造他的時間" title="wikilink">孫Sational-打造他的時間</a></p></td>
+<td><p>2019年5月25日</p></td>
+<td><p>播放中</p></td>
+<td><p>1</p></td>
+<td><p>時事教養</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/高校供餐王.md" title="wikilink">高校供餐王</a></p></td>
+<td><p>2019年6月8日</p></td>
+<td><p>播放中</p></td>
+<td><p>1</p></td>
+<td><p>美食節目</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/豐盛的餐桌" title="wikilink">豐盛的餐桌</a></p></td>
+<td><p>2019年6月11日</p></td>
+<td><p>播放中</p></td>
+<td><p>1</p></td>
+<td><p>美食節目</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Super_Hearer" title="wikilink">Super Hearer</a></p></td>
+<td><p>2019年6月16日</p></td>
+<td><p>播放中</p></td>
+<td><p>1</p></td>
+<td><p>競技節目</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1782,6 +1841,16 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 </tr>
 <tr class="even">
 <td><p>18</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/姜食堂_(第二季)" title="wikilink">姜食堂</a><br />
+第二季<br />
+(<a href="../Page/新西遊記.md" title="wikilink">新西遊記外傳</a>)</p></td>
+<td><p>1</p></td>
+<td><p>7.749%</p></td>
+<td><p>2019/05/31</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
 <td><p><a href="../Page/懂也沒用的神秘雜學詞典.md" title="wikilink">懂也沒用的神秘雜學詞典</a><br />
 第一季</p></td>
 <td><p>7</p></td>
@@ -1789,23 +1858,14 @@ tvN製作之戲劇近年收視皆於[有線電視方面拿下不錯的成績](ht
 <td><p>2017/07/14</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>19</p></td>
+<tr class="even">
+<td><p>20</p></td>
 <td><p><a href="../Page/花樣爺爺.md" title="wikilink">花樣爺爺</a><br />
 第二季<br />
 <a href="../Page/西班牙.md" title="wikilink">西班牙篇</a></p></td>
 <td><p>2</p></td>
 <td><p>6.835%</p></td>
 <td><p>2014/03/14</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>20</p></td>
-<td><p><a href="../Page/新西遊記.md" title="wikilink">新西遊記</a><br />
-第六季</p></td>
-<td><p>4</p></td>
-<td><p>6.822%</p></td>
-<td><p>2018/11/25</p></td>
 <td></td>
 </tr>
 <tr class="odd">

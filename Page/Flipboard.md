@@ -15,7 +15,7 @@ S2手机内。\[6\]
 
 ### 可访问性
 
-2013年8月1日，國際版再次被[中國防火長城封鎖](../Page/防火长城.md "wikilink")，手段是[DNS污染](https://zh.wikipedia.org/wiki/DNS污染 "wikilink")。Flipboard中國團隊在新浪微博官方帳號稱：\[11\]
+2013年8月1日，國際版再次被[中國防火長城封鎖](../Page/防火长城.md "wikilink")，手段是[DNS污染](https://zh.wikipedia.org/wiki/DNS污染 "wikilink")（已解封）。Flipboard中國團隊在新浪微博官方帳號稱：\[11\]
 -{zh-hant;zh-hans;|}-
 
 ## 参考资料

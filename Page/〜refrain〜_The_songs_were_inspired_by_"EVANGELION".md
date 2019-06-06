@@ -59,9 +59,6 @@ ME TO THE MOON （On the Street）。
 
 ※ 曲目14为
 
-[en:\~refrain\~ The songs were inspired by
-Evangelion](https://zh.wikipedia.org/wiki/en:~refrain~_The_songs_were_inspired_by_Evangelion "wikilink")
-
 [Category:EVANGELION的音乐](https://zh.wikipedia.org/wiki/Category:EVANGELION的音乐 "wikilink")
 [Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink")
 [Category:1997年原聲帶](https://zh.wikipedia.org/wiki/Category:1997年原聲帶 "wikilink")

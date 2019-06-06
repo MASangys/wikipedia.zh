@@ -72,6 +72,8 @@ Make It》、《Blackout》，這成為這間唱片公司的另一個成功，�
     Alive](https://zh.wikipedia.org/wiki/The_Word_Alive "wikilink")
   - Upon This Dawning
   - [Set It Off](https://zh.wikipedia.org/wiki/Set_It_Off "wikilink")
+  - [I DONT KNOW HOW BUT THEY FOUND
+    ME](https://zh.wikipedia.org/wiki/I_DONT_KNOW_HOW_BUT_THEY_FOUND_ME "wikilink")
 
 ### 終止活動的樂團
 

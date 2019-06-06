@@ -1,5 +1,5 @@
 《**月刊Big Comic
-Spirits**》是[小學館發行的](../Page/小學館.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")，2009年創刊。
+Spirits**》是[小學館發行的](../Page/小學館.md "wikilink")[青年漫畫雜誌](https://zh.wikipedia.org/wiki/青年漫畫雜誌 "wikilink")，2009年創刊。
 
 ## 連載漫画
 
@@ -458,7 +458,7 @@ Spirits**》是[小學館發行的](../Page/小學館.md "wikilink")[漫畫雜�
 <tr class="odd">
 <td><p>45</p></td>
 <td><p><span style="display:none">くしやくおうらいしんく</span><strong><a href="https://zh.wikipedia.org/wiki/孔雀王#孔雀王ライジング" title="wikilink">孔雀王ライジング</a></strong></p></td>
-<td><p><span style="display:none">おきの まこと</span><a href="https://zh.wikipedia.org/wiki/荻野真" title="wikilink">荻野真</a></p></td>
+<td><p><span style="display:none">おきの まこと</span><a href="../Page/荻野真.md" title="wikilink">荻野真</a></p></td>
 <td><p>－</p></td>
 <td><p>2012.05</p></td>
 <td><p><span style="display:none">99</span>連載中</p></td>

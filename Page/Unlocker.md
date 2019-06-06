@@ -1,5 +1,5 @@
 **Unlocker**是[Microsoft
-Windows上一个可以跟踪和解除](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[计算机文件](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")[文件锁定保护的工具](https://zh.wikipedia.org/wiki/文件锁定 "wikilink")。它的主要用途是终止正在使用某文件的[进程](https://zh.wikipedia.org/wiki/进程 "wikilink")，或迫使进程停止使用该文件。这样用户就可以安全地删除、重命名或移动文件。软件由法国程序员Cedrick
+Windows上一个可以跟踪和解除](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[计算机文件](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")[文件锁定保护的工具](../Page/文件锁定.md "wikilink")。它的主要用途是终止正在使用某文件的[进程](https://zh.wikipedia.org/wiki/进程 "wikilink")，或迫使进程停止使用该文件。这样用户就可以安全地删除、重命名或移动文件。软件由法国程序员Cedrick
 'Nitch' Collomb编写。
 
 ## 历史

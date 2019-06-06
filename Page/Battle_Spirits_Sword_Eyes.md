@@ -180,7 +180,7 @@ Spirits
   - 菊．帶刀（キク・タテワキ）
     [配音員](../Page/配音員.md "wikilink")：[佐藤智惠](../Page/佐藤智惠.md "wikilink")
 
-刃的義祖母。
+劍的義祖母。
 
   - 高頭（タカト）
     [配音員](../Page/配音員.md "wikilink")：[吉田麻實](../Page/吉田麻實.md "wikilink")

@@ -1,34 +1,63 @@
 [MyCiti_Bus_system_Civic_Centre_station_1.JPG](https://zh.wikipedia.org/wiki/File:MyCiti_Bus_system_Civic_Centre_station_1.JPG "fig:MyCiti_Bus_system_Civic_Centre_station_1.JPG")
-**MyCiTi**是在一个在[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[开普敦市推广运营的](https://zh.wikipedia.org/wiki/开普敦 "wikilink")[快速公交系统](https://zh.wikipedia.org/wiki/快速公交系统 "wikilink")。它提供了[Table
-View](https://zh.wikipedia.org/wiki/:en:Table_View "wikilink"),
-[Milnerton](https://zh.wikipedia.org/wiki/:en:Milnerton "wikilink"),
-[Atlantis](https://zh.wikipedia.org/wiki/:en:Atlantis,_Cape_Town "wikilink"),
-[Khayelitsha和开普敦中心之间的快速公交连接](https://zh.wikipedia.org/wiki/:en:Khayelitsha,_Cape_Town "wikilink")，以及一些接驳服务。
+[MyCiTi_bus_in_the_Foreshore,_Cape_Town.jpg](https://zh.wikipedia.org/wiki/File:MyCiTi_bus_in_the_Foreshore,_Cape_Town.jpg "fig:MyCiTi_bus_in_the_Foreshore,_Cape_Town.jpg")的MyCiTi巴士。\]\]
+[MyCiTi_Optare_Solo_bus_in_a_bus_lane_in_the_Foreshore,_Cape_Town.jpg](https://zh.wikipedia.org/wiki/File:MyCiTi_Optare_Solo_bus_in_a_bus_lane_in_the_Foreshore,_Cape_Town.jpg "fig:MyCiTi_Optare_Solo_bus_in_a_bus_lane_in_the_Foreshore,_Cape_Town.jpg")上。\]\]
 
-## 简介
+**MyCiTi**（，）是一種帶有饋線的[巴士快速交通系統](https://zh.wikipedia.org/wiki/巴士快速交通系統 "wikilink")，是[南非](https://zh.wikipedia.org/wiki/南非 "wikilink")[開普敦市以更大的綜合](../Page/開普敦.md "wikilink")[公共交通來驅動經濟發展戰略的一部分](../Page/公共交通.md "wikilink")\[1\]\[2\]。該服務正在開普敦各地推廣，並在約10%的城市內提供顯著增強的公共交通系統。該服務於2010年開通，第一階段的特色是沿城市西海岸線從北向南行駛的巴士。
 
-MyCiTi开始运作[2010年世界杯足球赛前夕的](https://zh.wikipedia.org/wiki/2010年世界杯足球赛 "wikilink")2010年5月，提供从[Civic
-Centre](https://zh.wikipedia.org/wiki/:en:Cape_Town_Civic_Centre "wikilink")（一个新建的巴士总站）至[开普敦国际机场的班车服务](../Page/开普敦国际机场.md "wikilink")。在世界杯举办期间，还包括一条围绕[城市碗地区的临时环路](https://zh.wikipedia.org/wiki/:en:City_Bowl "wikilink")。
+至2015年，MyCiTi在/、、、、、帕登伊蘭、、、與開普敦市中心之間提供快速巴士服務。其還在上述大部分地區以及、以及與大西洋沿岸的所有郊區，以及與提供支線服務。
 
-第一条正式的[快速公交系统](https://zh.wikipedia.org/wiki/快速公交系统 "wikilink")（BRT）路线（1A线）于2011年5月开始运营，它有一条沿着西海岸的公交专用道，从市中心穿过[Milnerton直至](https://zh.wikipedia.org/wiki/:en:Milnerton "wikilink")[Table
-View](https://zh.wikipedia.org/wiki/:en:Table_View "wikilink")，用来提供快速公交服务。该条干线连接着在[城市碗地区另一条线路](https://zh.wikipedia.org/wiki/:en:City_Bowl "wikilink")：从[Gardens经过Civic](https://zh.wikipedia.org/wiki/:en:Gardens,_Cape_Town "wikilink")
-Centre，直至
-[Waterfront](https://zh.wikipedia.org/wiki/:en:Victoria_&_Alfred_Waterfront "wikilink")；与此同时，在[Table
-View](https://zh.wikipedia.org/wiki/:en:Table_View "wikilink")、
-[Bloubergstrand和](https://zh.wikipedia.org/wiki/:en:Bloubergstrand "wikilink")[Parklands地区](https://zh.wikipedia.org/wiki/:en:Parklands,_Cape_Town "wikilink")，有三条接驳服务线路。
+該服務在巴士專線使用高地台的標準尺寸鉸接巴士，而在2號國道快線服務中使用低地台的標準尺寸鉸接巴士，至於在郊區和市中心區域則使用較小的9米[Optare巴士](../Page/Optare.md "wikilink")。MyCiTi通過等級登車和許多其他措施使其普及化，並且需要使用符合[EMV標準的智能卡系統](../Page/EMV.md "wikilink")（稱為Myconnect）來進行無現金支付。服務的候車時間（即同一路線上的巴士之間的時間）從高峰時段的3分鐘至20分鐘到的非高峰時段的60分鐘。
 
-2012年至2013年间，西海岸新运营了一些新的线路与此同时也扩展到了东海岸地区\[1\]\[2\]
+2015年11月，每天約有60,000名乘客使用MyCiTi服務的36條路線上的42個巴士站、600多個巴士停靠站以及大約223輛高峰巴士\[3\]\[4\]。
 
-MyCiTi服务旨在在开普敦提供可靠、安全的公共交通。目前每天有约12,000班次。
+2018年10月27日，MyCiTi再次擴展其服務，為其營運引入新的站點和路線，使其成為南非最大的公共交通公司之一。
 
-## 外部链接
+## 歷史
 
-  - [MyCiTi官方网站](http://www.myciti.org.za/)
+MyCiTi於[2010年國際足協世界盃前夕的](https://zh.wikipedia.org/wiki/2010年國際足協世界盃 "wikilink")2010年5月開始運作，提供從（一個新建的巴士總站）至[開普敦國際機場的班車服務](https://zh.wikipedia.org/wiki/開普敦國際機場 "wikilink")。在世界盃舉辦期間，還包括一條圍繞地區的臨時循環線。
 
-## 参考资料
+第一條正式的[快速公交系統路線](https://zh.wikipedia.org/wiki/快速公交系統 "wikilink")（1A線）于2011年5月开始营运。其有一条沿着西海岸的公交专用道，从市中心穿过直至，用来提供快速公交服务。该条干线连接着在地区另一条路线：从经过市民中心，直至；与此同时，在、和三個地区均有接驳服务路线。
 
-[Category:快速公交系统](https://zh.wikipedia.org/wiki/Category:快速公交系统 "wikilink")
-[Category:交通列表](https://zh.wikipedia.org/wiki/Category:交通列表 "wikilink")
+2012年，MyCiTi第一次開始使用其首個定制的9米巴士作為其車隊的一部分。該巴士是190個單位訂單的一部分，由Busmark
+2000於組裝，並用作支線巴士。Optare Solo的尺寸較短，使其即使在住宅和密集城市區域內也可以輕鬆操控\[5\]。
 
-1.  <http://www.news24.com/SouthAfrica/News/MyCiTi-rolls-out-Cape-Flats-operations-20140705>
-2.  <http://allafrica.com/stories/201407160723.html>
+2012年至2013年间，西海岸营运了一些新的线路，与此同时也扩展至东海岸地区\[6\]\[7\]。在2013年底，服務大規模擴張。這些路線包括泰堡維和帕克蘭周圍的新路線，並連接至以下地區：經過賽馬場路及幹河路前往世紀城；沿庫貝赫路前往蒙塔古花園；經過布勞烏堡路前往基拉尼、達農及多魯巴赫；位於西海岸路的桑尼戴爾和桑當車站；梅爾克博斯特蘭；、馬姆雷和佩拉。
+
+MyCiTi巴士服務亦已經擴展至開普敦東南部的卡雅利沙及米歇爾平原，稱為2號國道快線。其在2號國道高速公路上使用巴士與小巴－出租車專線，允許公共交通工具在早晨高峰時段超越其他交通工具\[8\]\[9\]。
+
+MyCiTi服务旨在為开普敦提供可靠、安全的公共交通。目前，MyCiTi每天约有12,000班次。
+
+## 參考文獻
+
+## 外部連結
+
+  - [Official website](http://www.myciti.org.za/)
+  - [COMPREHENSIVE INTEGRATED TRANSPORT PLAN 2013 – 2018 MINI
+    REVIEW 2014](http://www.capetown.gov.za/en/TransportCapeTown/Documents/2014-05-13_Transport_Plan_2013-18.pdf)
+
+[Category:開普敦交通](https://zh.wikipedia.org/wiki/Category:開普敦交通 "wikilink")
+[Category:快速公交系統](https://zh.wikipedia.org/wiki/Category:快速公交系統 "wikilink")
+[Category:南非快速運輸](https://zh.wikipedia.org/wiki/Category:南非快速運輸 "wikilink")
+
+1.
+
+2.  Information for this article was updated based on information
+    obtained from www.myciti.org.za, as at 29 December 2015.
+
+3.
+4.  A passenger journey is defined by [Transport for Cape
+    Town](https://zh.wikipedia.org/wiki/Transport_for_Cape_Town "wikilink")
+    (TCT) as the number of individual passengers travelling from origin
+    to destination, for one way travel. It is not the number of
+    ‘boardings’, so it does not count passengers again when they
+    transfer to a new bus.
+
+5.
+
+6.  <http://www.news24.com/SouthAfrica/News/MyCiTi-rolls-out-Cape-Flats-operations-20140705>
+
+7.  <http://allafrica.com/stories/201407160723.html>
+
+8.
+
+9.

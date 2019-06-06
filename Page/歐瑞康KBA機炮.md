@@ -7,7 +7,7 @@
 ## 設計細節
 
 歐瑞康KBA
-25毫米機炮最初是由美國著名槍械設計師[尤金·M·斯通纳所研製](../Page/尤金·M·斯通纳.md "wikilink")，全自動、主動閉鎖，由[氣動式和](../Page/氣動式_\(槍械\).md "wikilink")[滾轉式槍機操作](../Page/滾轉式槍機.md "wikilink")，並且採用雙向供彈系統的機炮，讓這機炮快速和輕易的轉換發射[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。
+25毫米機炮最初是由美國著名槍械設計師[尤金·M·斯通纳所研製](../Page/尤金·M·斯通纳.md "wikilink")，全自動、主動閉鎖，由[氣動式和](../Page/氣動式_\(槍械\).md "wikilink")[轉拴式槍栓操作](../Page/轉拴式槍栓.md "wikilink")，並且採用雙向供彈系統的機炮，讓這機炮快速和輕易的轉換發射[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。
 這些特點保證其即使在最極端的環境條件，仍具有高度可靠性和安全性。
 
 它發射的[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")[機炮](https://zh.wikipedia.org/wiki/機炮 "wikilink")[炮彈可在](../Page/炮彈.md "wikilink")2,000公尺（2,187.23码，6,561.68英尺，1.24英里）的範圍內，擊落低空飛行的飛機。它由每盒600發的所供彈。它被先進而複雜的[DIANA防空系統](https://zh.wikipedia.org/wiki/DIANA防空系統 "wikilink")（每台砲塔兩門）、[裝甲步兵戰車](https://zh.wikipedia.org/wiki/裝甲步兵戰車 "wikilink")（每台砲塔一門）、[SIDAM

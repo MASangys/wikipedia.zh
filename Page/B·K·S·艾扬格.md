@@ -44,8 +44,8 @@ been translated into 17 languages and sold 3 million copies.\[12\]
 ## 外部链接
 
   - [The official Iyengar website](http://www.bksiyengar.com)
-  - [BBC World Service article and programme by [Mark
-    Tully](https://zh.wikipedia.org/wiki/Mark_Tully "wikilink")](http://www.bbc.co.uk/worldservice/people/highlights/010116_iyengar.shtml)
+  - [BBC World Service article and programme by Mark
+    Tully](http://www.bbc.co.uk/worldservice/people/highlights/010116_iyengar.shtml)
   - [Leap of
     faith](http://docsonline.tv/?search=Leap%20of%20faith&type=title&docinfo=406)
     (2008), Trivedi & Makim, Documentary about the life of BKS Iyengar

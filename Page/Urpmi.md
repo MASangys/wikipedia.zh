@@ -13,12 +13,12 @@ Linux（同樣是基於Mandriva Linux的分支）。
 Rigaux所開發，爾後被[Mandriva
 Linux所採用](../Page/Mandriva_Linux.md "wikilink")，故由François
 Pons及其他[Mandriva公司的雇員所維護](../Page/Mandriva.md "wikilink")。目前（2010年至2013年）由同時也是rpmdrake的維護者的Thierry
-Vignaud所維護（見[1](https://web.archive.org/web/20150523165549/http://svn.mandriva.com/viewvc/soft/rpmdrake/trunk/NEWS?revision=273200&view=markup)）。
+Vignaud所維護（見\[<https://web.archive.org/web/20150523165549/http://svn.mandriva.com/viewvc/soft/rpmdrake/trunk/NEWS?revision=273200&view=markup%5D%EF%BC%89>。
 
 Per Øyvind Karlsen目前（截至2013年止）維護著Rosa Linux的一個urpmi的分支，同時也由Thierry
 Vignaud進行修復程式錯誤及改進效能的工作（如：
-[2](http://svnweb.mageia.org/soft?view=revision&revision=7297) -\>
-[3](https://abf.rosalinux.ru/proyvind/urpmi/commit/11e4718ce2a1bf814bcb1a68d2490e2ff3a8ca34.patch)），但這並不是Mandriva
+[1](http://svnweb.mageia.org/soft?view=revision&revision=7297) -\>
+[2](https://abf.rosalinux.ru/proyvind/urpmi/commit/11e4718ce2a1bf814bcb1a68d2490e2ff3a8ca34.patch)），但這並不是Mandriva
 Business Server所使用的版本。
 
 ## 指令

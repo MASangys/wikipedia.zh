@@ -343,9 +343,9 @@ Braff使用Kickstarter为他的电影](https://zh.wikipedia.org/wiki/Zach_Braff 
     January 9, 2012, Kickstarter.com, accessed February 3, 2012.
 
 34. ["Double Fine Kickstarter hits 3 million, drive closing on
-    Ustream"](http://www.joystiq.com/2012/03/13/double-fine-kickstarter-hits-3-million-drive-closing-on-ustream/),
-    [Joystiq](../Page/Joystiq.md "wikilink"), March 13, 2012, Retrieved
-    March 13, 2012.
+    Ustream"](http://www.joystiq.com/2012/03/13/double-fine-kickstarter-hits-3-million-drive-closing-on-ustream/)
+    , [Joystiq](../Page/Joystiq.md "wikilink"), March 13, 2012,
+    Retrieved March 13, 2012.
 
 35. Carl Franzen "[Crowd-Funding Website Kickstarter Has Double Million
     Dollar
@@ -466,8 +466,8 @@ Braff使用Kickstarter为他的电影](https://zh.wikipedia.org/wiki/Zach_Braff 
     September 15, 2011.](http://www.betabeat.com/2011/09/15/when-kickstarter-goes-wrong-were-419-backers-almost-taken-for-a-27637-ride/)
 
 86. [Kirk Hamilton “Creator of ‘Satirical’ Tentacle-Rape Game
-    Apologizes”, [Kotaku](../Page/Kotaku.md "wikilink"), May 17,
-    2012](http://kotaku.com/5911214/creator-of-satirical-tentacle+rape-game-apologizes)
+    Apologizes”, Kotaku,
+    May 17, 2012](http://kotaku.com/5911214/creator-of-satirical-tentacle+rape-game-apologizes)
 
 87. [Pepitone, Julianne, “Kickstarter pulls plug on scam minutes before
     $120,000 heist”, CNN Money, 17
@@ -481,10 +481,8 @@ Braff使用Kickstarter为他的电影](https://zh.wikipedia.org/wiki/Zach_Braff 
     September 20, 2012
 
 90. [Kicked to the Curb: Kickstarter’s Hidden Wasteheap of Killed
-    Projects,
-    [Wired](https://zh.wikipedia.org/wiki/Wired_\(magazine\) "wikilink"),
-    September 23,
-    2012](http://www.wired.com/design/2012/09/kickstarter-takedowns/)
+    Projects, Wired,
+    September 23, 2012](http://www.wired.com/design/2012/09/kickstarter-takedowns/)
 
 91.
 

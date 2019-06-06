@@ -3,7 +3,7 @@
 
 ## 概要
 
-該款列車由[長春長客－龐巴迪軌道車輛製造](https://zh.wikipedia.org/wiki/長春長客－龐巴迪軌道車輛 "wikilink")，該款列车外型为“鼓形”结构，而非一号线的梯型结构。首批列車內部型號為**A2**，共156輛，26列，為當時的舊2號線通車而購買；增購車內部型號為**A3**，共48輛，8列，主要為1號線增加運力而購買。最高運營時速為80公里每小時。該款列車在[西朗車輛段](https://zh.wikipedia.org/wiki/西朗車輛段 "wikilink")、[嘉禾車輛段](https://zh.wikipedia.org/wiki/嘉禾車輛段 "wikilink")、[大洲停車場以及](https://zh.wikipedia.org/wiki/大洲停車場 "wikilink")[赤沙車輛段均有配屬](https://zh.wikipedia.org/wiki/赤沙車輛段 "wikilink")。
+該款列車由[長春長客－龐巴迪軌道車輛製造](https://zh.wikipedia.org/wiki/長春長客－龐巴迪軌道車輛 "wikilink")，該款列车外型为“鼓形”结构，而非一号线的梯型结构。首批列車內部型號為**A2**，共156輛，26列，為當時的舊2號線通車而購買；增購車內部型號為**A3**，共48輛，8列，主要為1號線增加運力而購買。最高運營時速為80公里每小時。該款列車在[西朗車輛段](https://zh.wikipedia.org/wiki/西朗車輛段 "wikilink")、[嘉禾車輛段](https://zh.wikipedia.org/wiki/嘉禾車輛段 "wikilink")、[大洲停車場及](https://zh.wikipedia.org/wiki/大洲停車場 "wikilink")[赤沙車輛段均有配屬](https://zh.wikipedia.org/wiki/赤沙車輛段 "wikilink")。目前該款列車只配屬西朗車輛段（1号线）及赤沙車輛段（8号线）。
 
 全数列车均使用[庞巴迪制交流牵引](https://zh.wikipedia.org/wiki/庞巴迪 "wikilink")[电动机及](../Page/电动机.md "wikilink")[IGBT牵引变流器](https://zh.wikipedia.org/wiki/IGBT "wikilink")，[受电弓设于第](https://zh.wikipedia.org/wiki/受电弓 "wikilink")2及第5节。除两端设驾驶室厢不带动力外，其余4节车厢均自带动力。
 

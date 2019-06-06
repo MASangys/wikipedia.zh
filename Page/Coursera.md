@@ -17,8 +17,8 @@ Coursera官方发表直言维护两个平台需要显著的资源，为了进一
 Coursera上现有28个不同国家和地区的145所不同的大学，院校和学校提供在线课堂。\[10\]
 [澳大利亚](../Page/澳大利亚.md "wikilink")
 
-  - [西澳大利亚大学](https://zh.wikipedia.org/wiki/西澳大利亚大学 "wikilink")
-  - [澳大利亚新南威尔士大学](https://zh.wikipedia.org/wiki/澳大利亚新南威尔士大学 "wikilink")
+  - [西澳大学](../Page/西澳大学.md "wikilink")
+  - [新南威尔士大学](../Page/新南威尔士大学.md "wikilink")
   - [墨尔本大学](../Page/墨尔本大学.md "wikilink")
   - [麦考瑞大学](https://zh.wikipedia.org/wiki/麦考瑞大学 "wikilink")
 

@@ -32,7 +32,7 @@ GHz的處理器及1 GB的RAM\[1\]\[2\]\[3\]。
     MB。額外的軟體在“DSL擴展”中提供。擴展是使用必需額外安裝的Debian的APT工具。“輕到足以在486DX及16MB的RAM上執行”\[11\]\[12\]。
 
   - －
-    從[Knoppix衍生的輕量級發行版](https://zh.wikipedia.org/wiki/Knoppix "wikilink")。現在處於不活躍的狀態\[13\]\[14\]。
+    從[Knoppix衍生的輕量級發行版](../Page/Knoppix.md "wikilink")。現在處於不活躍的狀態\[13\]\[14\]。
 
   - Kali Linux mini - [Kali
     Linux的輕量級版本](../Page/Kali_Linux.md "wikilink")，大小約28

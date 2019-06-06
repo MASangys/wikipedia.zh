@@ -88,8 +88,8 @@ BMG）\[17\]\[18\] |caliber= 12.7毫米（.50英吋）\[19\]\[20\]\[21\] |barrel
 <div class="NavContent" style="background:#fff; margin:0 auto; padding:0 10px;">
 
   - [長行程活塞氣動式](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")
-  - [滾轉式槍機](../Page/滾轉式槍機.md "wikilink")
-  - [開放式槍機](../Page/開放式槍機.md "wikilink")
+  - [轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")
+  - [開放式槍栓](https://zh.wikipedia.org/wiki/開放式槍栓 "wikilink")
   - [恆定後坐](https://zh.wikipedia.org/wiki/恆定後坐 "wikilink")
 
 </div>
@@ -127,8 +127,8 @@ M15A2[可散式彈鏈](../Page/彈鏈.md "wikilink")
 |payload_capacity= |fuel_capacity= |pw_ratio= |suspension=
 |clearance= |vehicle_range= |speed= |guidance= }}
 
-**CIS
-50MG重機槍**是一挺由[新加坡國防企業新加坡特許工業公司](../Page/新加坡.md "wikilink")（現改稱為）在1980年代後期自主研發和生產的[氣動式操作](../Page/氣動式_\(槍械\).md "wikilink")、氣冷及[彈鏈供彈式](../Page/彈鏈.md "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")，發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50
+**CIS 50MG**（現稱：**STK
+50MG**）是一挺由[新加坡國防企業新加坡特許工業公司](../Page/新加坡.md "wikilink")（現改稱為）在1980年代後期自主研發和生產的[氣動式操作](../Page/氣動式_\(槍械\).md "wikilink")、氣冷及[彈鏈供彈式](../Page/彈鏈.md "wikilink")[重機槍](https://zh.wikipedia.org/wiki/重機槍 "wikilink")，發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")（.50
 BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑制式](https://zh.wikipedia.org/wiki/口徑 "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
 
 ## 歷史
@@ -148,7 +148,7 @@ GPHMG）計劃的經驗教訓，建立適合現代戰術理論和生產技術的
 50MG**。\[39\]
 
 **CIS
-50MG**是一挺[氣動式操作](../Page/氣動式_\(槍械\).md "wikilink")、氣冷及[彈鏈供彈式武器](../Page/彈鏈.md "wikilink")，這機槍採用雙氣動活塞操作，並將兩根導氣管安裝在[槍管的兩側](../Page/槍管.md "wikilink")。槍管通過具有多個徑向鎖耳（）的[轉拴式](../Page/滾轉式槍機.md "wikilink")[槍機閉鎖](https://zh.wikipedia.org/wiki/槍機 "wikilink")，在進入槍管後端的閉鎖槽內直接閉鎖，消除了頂空調整的需要。CIS
+50MG**是一挺[氣動式操作](../Page/氣動式_\(槍械\).md "wikilink")、氣冷及[彈鏈供彈式武器](../Page/彈鏈.md "wikilink")，這機槍採用雙氣動活塞操作，並將兩根導氣管安裝在[槍管的兩側](../Page/槍管.md "wikilink")。槍管通過具有多個徑向鎖耳（）的[轉拴式](../Page/轉拴式槍栓.md "wikilink")[槍拴閉鎖](https://zh.wikipedia.org/wiki/槍拴 "wikilink")，在進入槍管後端的閉鎖槽內直接閉鎖，消除了頂空調整的需要。CIS
 50MG也裝有一根可以快速拆卸的槍管，配備一個與槍管整合了的提把，即使不需要戴上隔熱[石棉](../Page/石棉.md "wikilink")[手套也可以在作戰或是實戰演習在情況下很方便地更換過熱或損毀的槍管](../Page/手套.md "wikilink")。\[40\]
 
 CIS 50MG並採用了與[Ultimax
@@ -172,11 +172,11 @@ CIS
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p>於1994年取得特許生產證後為<a href="https://zh.wikipedia.org/wiki/印尼軍隊" title="wikilink">印尼軍隊生產</a>，並且命名為<strong>Pindad SMB-QCB</strong>（）。[43][44]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/印尼軍事" title="wikilink">印尼武裝部隊</a>（由於1994年開始授權生產，命名為<strong>Pindad SMB-QCB</strong>）[43][44]</p></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>被<a href="https://zh.wikipedia.org/wiki/馬來西亞武裝部隊" title="wikilink">馬來西亞武裝部隊所採用</a>。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/馬來西亞武裝部隊" title="wikilink">馬來西亞武裝部隊</a></p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -184,10 +184,10 @@ CIS
 </tr>
 <tr class="even">
 <td></td>
-<td><p>被<a href="https://zh.wikipedia.org/wiki/新加坡共和国武装部队" title="wikilink">新加坡武裝部隊</a>（，簡稱：SAF）所採用。[45]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新加坡共和国武装部队" title="wikilink">新加坡武裝部隊</a>[45]</p></td>
 </tr>
 <tr class="odd">
-<td><p>被<a href="https://zh.wikipedia.org/wiki/警察海岸保卫处" title="wikilink">警察海岸保卫处</a>（，簡稱：PCG；）所採用。[46][47]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/警察海岸保卫处" title="wikilink">警察海岸保卫处</a>[46][47]</p></td>
 <td></td>
 </tr>
 </tbody>

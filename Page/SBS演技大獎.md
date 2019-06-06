@@ -264,7 +264,7 @@
 <td><p><a href="../Page/金泰希.md" title="wikilink">金泰希</a>《<a href="https://zh.wikipedia.org/wiki/龍八夷" title="wikilink">龍八夷</a>》<br />
 <a href="../Page/崔明吉_(藝人).md" title="wikilink">崔明吉</a>《<a href="../Page/Punch_(電視劇).md" title="wikilink">Punch</a>》<br />
 <a href="../Page/金賢珠.md" title="wikilink">金賢珠</a>《<a href="../Page/我有愛人了.md" title="wikilink">我有愛人了</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">朴炯植</a>《<a href="../Page/上流社會_(電視劇).md" title="wikilink">上流社會</a>》<br />
+<td><p><a href="../Page/朴炯植.md" title="wikilink">朴炯植</a>《<a href="../Page/上流社會_(電視劇).md" title="wikilink">上流社會</a>》<br />
 <a href="https://zh.wikipedia.org/wiki/朱智勳" title="wikilink">朱智勳</a>《<a href="../Page/假面_(電視劇).md" title="wikilink">假面</a>》<br />
 <a href="https://zh.wikipedia.org/wiki/卞耀漢" title="wikilink">卞耀漢</a>《<a href="../Page/六龍飛天.md" title="wikilink">六龍飛天</a>》</p></td>
 <td><p><a href="../Page/文瑾瑩.md" title="wikilink">文瑾瑩</a>《<a href="https://zh.wikipedia.org/wiki/村莊：阿雉阿拉的祕密" title="wikilink">村莊：阿雉阿拉的祕密</a>》<br />

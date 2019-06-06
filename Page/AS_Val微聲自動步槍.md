@@ -90,9 +90,8 @@ Val\]\]
     Wars）
   - 2016年—《[少女前線](https://zh.wikipedia.org/wiki/少女前線 "wikilink")》(Girls'
     Frontline) 為四星人型，可由常規製造獲得
-  - 2016年—《逃離塔科夫》（Escape From Tarkov） 命名為AS VAL
-    原版槍身，可使用20發VAL塑料彈匣和30發SR-3
-    Vikhr專用彈匣。並可使用PSO-1瞄準鏡和各式俄係瞄具，同時可使用各類改裝件，可加裝皮卡丁尼導軌前護木、側鏡軌和M4型伸縮托桿以配合各式伸縮托塊。
+  - 2016年—《》（Escape From Tarkov）：命名為“AS Val”，可使用20發原裝塑料彈匣和30發SR-3
+    Vikhr專用彈匣，並可裝上PSO-1瞄準鏡或其他俄係瞄具、皮卡丁尼導軌前護木、側鏡軌和M4型伸縮托桿等各種改裝零件。
 
 ## 另見
 
@@ -112,6 +111,7 @@ Val\]\]
 
 [Category:自動步槍](https://zh.wikipedia.org/wiki/Category:自動步槍 "wikilink")
 [Category:突擊步槍](https://zh.wikipedia.org/wiki/Category:突擊步槍 "wikilink")
+[Category:消聲槍械](https://zh.wikipedia.org/wiki/Category:消聲槍械 "wikilink")
 [Category:9×39毫米槍械](https://zh.wikipedia.org/wiki/Category:9×39毫米槍械 "wikilink")
 [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
 [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")

@@ -1,4 +1,4 @@
-**EGOIST**是一個[日本的雙人音樂團體](../Page/日本.md "wikilink")，由[Supercell的詞曲作家Ryo和演唱者Chelly組成](https://zh.wikipedia.org/wiki/Supercell "wikilink")。最初是為了製作2011年的電視動畫罪惡王冠的主題曲而組成，後來又製作了其他動畫的主題曲，包括了[心靈判官和](https://zh.wikipedia.org/wiki/心靈判官 "wikilink")[甲鐵城的卡巴內利的主題曲](../Page/甲鐵城的卡巴內利.md "wikilink")。
+**EGOIST**是一個[日本的雙人音樂團體](../Page/日本.md "wikilink")，由[Supercell的詞曲作家Ryo和演唱者Chelly組成](https://zh.wikipedia.org/wiki/Supercell "wikilink")。最初是為了製作2011年的電視動畫罪惡王冠的主題曲而組成，後來又製作了其他動畫的主題曲，包括了[心靈判官和](https://zh.wikipedia.org/wiki/心靈判官 "wikilink")[甲鐵城的卡巴內里的主題曲](../Page/甲鐵城的卡巴內里.md "wikilink")。
 
 ## 概要
 
@@ -182,6 +182,13 @@ VVCL-1153/4（B）</p></td>
 </tr>
 </tbody>
 </table>
+
+## 相關條目
+
+  - [初音未來](../Page/初音未來.md "wikilink")
+  - [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")
+  - [nagi](https://zh.wikipedia.org/wiki/やなぎなぎ "wikilink")
+  - [Tia](../Page/Tia.md "wikilink")
 
 ## 註解
 

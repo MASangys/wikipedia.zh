@@ -219,7 +219,7 @@ Project**與**TJR**(已活動休止)是其姐妹品牌。目前是（パート�
 <tr class="even">
 <td><p>17</p></td>
 <td><p>2019年5月31日</p></td>
-<td><p><strong><a href="https://zh.wikipedia.org/wiki/Eスクールライフ" title="wikilink">Eスクールライフ</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/E_School_Life" title="wikilink">Eスクールライフ</a></strong></p></td>
 <td><p>松倉慎二、神宮寺、平野譲治</p></td>
 <td></td>
 </tr>

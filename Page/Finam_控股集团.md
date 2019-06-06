@@ -1,12 +1,14 @@
-**Finam控股集团**（****）是一家金融服务企业，总部坐落于[俄罗斯](../Page/俄罗斯.md "wikilink")[莫斯科](../Page/莫斯科.md "wikilink")。该集团是Finam投资公司的母公司，俄罗斯最大的经纪商，2012年贸易额达到7万亿卢布。Finam的子公司，运营所有大型股票、[债券](../Page/债券.md "wikilink")、[期权和](https://zh.wikipedia.org/wiki/期权 "wikilink")[期货交易所](https://zh.wikipedia.org/wiki/期货交易 "wikilink")，为[外汇市场和差价合约提供交易](../Page/外汇市场.md "wikilink")。此外，Finam经营许多[互惠基金](https://zh.wikipedia.org/wiki/互惠基金 "wikilink")，为[资产](https://zh.wikipedia.org/wiki/资产 "wikilink")、[养老金和](https://zh.wikipedia.org/wiki/养老金 "wikilink")[储蓄提供信托管理服务](../Page/储蓄.md "wikilink")。
+**Finam控股集团**（****），是一家企業总部位於[俄罗斯](../Page/俄罗斯.md "wikilink")[莫斯科的](../Page/莫斯科.md "wikilink")[金融服务企业](https://zh.wikipedia.org/wiki/金融服务 "wikilink")。该集团是Finam投资公司的母公司，俄罗斯最大的经纪商，2012年的交易金额达到7万亿[卢布](../Page/卢布.md "wikilink")。Finam倡导积极直接的投资政策，注重于高新项目的收购。
 
-Finam的[子公司包括CJSC](../Page/子公司.md "wikilink") Finam，资金管理公司Finam
-Management，Finam 全球投资基金，WhoTrades
-Ltd.，Finam银行，Finam培训中心以及Finam调频广播站。Finam倡导积极直接的投资政策，注重于高新项目的收购。
+Finam的[子公司](../Page/子公司.md "wikilink")，包括CJSC Finam、资金管理公司Finam
+Management、Finam 全球投资基金、WhoTrades
+Ltd.、Finam银行、Finam培训中心、以及Finam调频广播站。在Finam的子公司中，运营所有大型股票、[债券](../Page/债券.md "wikilink")、[期权和](https://zh.wikipedia.org/wiki/期权 "wikilink")[期货交易所](https://zh.wikipedia.org/wiki/期货交易 "wikilink")，为[外汇市场和](../Page/外汇市场.md "wikilink")[差价合约提供交易](https://zh.wikipedia.org/wiki/差价合约 "wikilink")。此外，Finam经营许多[互惠基金](https://zh.wikipedia.org/wiki/互惠基金 "wikilink")，为[资产](https://zh.wikipedia.org/wiki/资产 "wikilink")、[养老金和](https://zh.wikipedia.org/wiki/养老金 "wikilink")[储蓄提供信托管理服务](../Page/储蓄.md "wikilink")。
 
-## Finam 历史
+## 歷史沿革
 
-1994年，财务分析投资公司由建立。1996年则成为俄罗斯股票交易所的一家清算公司，并在[诺亚布尔斯克](https://zh.wikipedia.org/wiki/诺亚布尔斯克 "wikilink")（秋明地区）成立了第一家地方分公司。20世纪最后十年，公司通过成为以下交易所会员，继续增发新股。这些交易所包括国家证券市场参与者协会NAUFOR，,
+1994年，建立了一家[财务分析投资公司](https://zh.wikipedia.org/wiki/财务分析 "wikilink")。
+
+1996年，這家财务分析投资公司成为俄罗斯股票交易所的一家清算公司，并在[诺亚布尔斯克](https://zh.wikipedia.org/wiki/诺亚布尔斯克 "wikilink")（秋明地区）成立了第一家地方分公司。20世纪最后十年，公司通过成为以下交易所会员，继续增发新股。这些交易所包括国家证券市场参与者协会NAUFOR，,
 , 和俄罗斯交易体系。
 
 1999年，公司为投资者建立了第一家工作室，之后这里成为Finam培训中心，每年有超过10名学生在此接受培训。2000年，公司开始提供在线交易服务，成立了Finam.ru交易网站。

@@ -34,16 +34,11 @@ RTM和OSR1中内置了使用简体中文输入法接口的繁体[注音输入法
 8少了左下角的開始功能表按鍵](https://zh.wikipedia.org/wiki/Windows_8 "wikilink")，不符合传统操作习惯难以适应，不便於操作。[Windows
 8.1再次添加開始功能表](../Page/Windows_8.1.md "wikilink")「按鍵」。
 
+## Windows 10
+
 ## 注释
 
-## 参见
 
-  - [對Windows XP的批評](../Page/對Windows_XP的批評.md "wikilink")
-  - [對Windows Vista的批評](../Page/對Windows_Vista的批評.md "wikilink")
-  - [對Windows
-    8的批評](https://zh.wikipedia.org/wiki/對Windows_8的批評 "wikilink")
-
-{{-}}
 
 [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")
 [Category:針對微軟的批評與爭議](https://zh.wikipedia.org/wiki/Category:針對微軟的批評與爭議 "wikilink")

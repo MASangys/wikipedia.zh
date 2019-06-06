@@ -1178,6 +1178,15 @@ Champion**》（）是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")�
   - 05.01 -
     [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")<sup>12th</sup>
     - Fancy<sup>1st</sup>
+  - 05.08 - [NU'EST](../Page/NU'EST.md "wikilink")<sup>1st</sup> - Bet
+    Bet<sup>1st</sup>
+  - 05.15 - [Oh My
+    Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")<sup>2nd</sup>
+    - The Fifth Season<sup>1st</sup>
+  - 05.22 - 特輯 [NU'EST](../Page/NU'EST.md "wikilink")<sup>2nd</sup> -
+    Bet Bet<sup>2nd</sup>
+  - 05.29 - [金在奐](../Page/金在奐.md "wikilink")<sup>1st</sup> - Begin
+    Again<sup>1st</sup>
 
 ## 藝人成就
 

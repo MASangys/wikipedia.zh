@@ -225,7 +225,10 @@ DAYS》。\[25\]
 ## 參見
 
   - [VOCALOID](../Page/VOCALOID.md "wikilink")
-  - [初音未來](../Page/初音未來.md "wikilink")
+  - [NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")
+  - [nagi](https://zh.wikipedia.org/wiki/やなぎなぎ "wikilink")
+  - [EGOIST](../Page/EGOIST.md "wikilink")
+  - [Tia](../Page/Tia.md "wikilink")
 
 ## 外部連結
 

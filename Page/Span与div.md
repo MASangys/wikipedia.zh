@@ -86,7 +86,5 @@ page](https://zh.wikipedia.org/wiki/Dynamic_web_page "wikilink")）上，这也�
 
 [Category:HTML](https://zh.wikipedia.org/wiki/Category:HTML "wikilink")
 
-[fa:دیواره](https://zh.wikipedia.org/wiki/fa:دیواره "wikilink")
-
 1.
 2.

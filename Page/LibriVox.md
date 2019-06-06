@@ -39,7 +39,7 @@ LibriVox的有聲書總共以33種語言發音，其中大約90％的有聲書�
 <!-- end list -->
 
   - [Embed LibriVox Audio in your
-    Site](http://publicliterature.org/music/librivox.php)
+    Site](https://web.archive.org/web/20140303020444/http://publicliterature.org/music/librivox.php)
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@ LibriVox的有聲書總共以33種語言發音，其中大約90％的有聲書�
     [Internet
     Archive](https://zh.wikipedia.org/wiki/Internet_Archive "wikilink")
     (full mirror with streaming and reviews)
-  - [LibriVox](http://phobos.apple.com/WebObjects/MZSearch.woa/wa/search?id=XmIFQ9rHzow&term=Librivox)
+  - [LibriVox](https://web.archive.org/web/20130612054816/http://phobos.apple.com/WebObjects/MZSearch.woa/wa/search?id=XmIFQ9rHzow&term=Librivox)
     at [Apple.com](https://zh.wikipedia.org/wiki/Apple.com "wikilink")
     [iTunes](https://zh.wikipedia.org/wiki/iTunes "wikilink")
   - [LibriVox](http://www.disc-shelf.com/?artist=35) at [Disc

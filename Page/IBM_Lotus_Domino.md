@@ -120,8 +120,7 @@ Versions](https://zh.wikipedia.org/wiki/Lotus_Notes#Versions "wikilink").
 [Category:莲花公司软件](https://zh.wikipedia.org/wiki/Category:莲花公司软件 "wikilink")
 [Category:面向文档的数据库](https://zh.wikipedia.org/wiki/Category:面向文档的数据库 "wikilink")
 [Category:数据管理](https://zh.wikipedia.org/wiki/Category:数据管理 "wikilink")
-[Category:私有数据库管理系统](https://zh.wikipedia.org/wiki/Category:私有数据库管理系统 "wikilink")
-[Category:数据库类型](https://zh.wikipedia.org/wiki/Category:数据库类型 "wikilink")
+[Category:数据库管理系统](https://zh.wikipedia.org/wiki/Category:数据库管理系统 "wikilink")
 
 1.  [Ticket Verifier Technical
     Components](http://help.sap.com/erp2005_ehp_04/helpdata/EN/22/bf642724ca20418924e57c51412191/frameset.htm)

@@ -1581,6 +1581,12 @@ WEB版預告映像</p></td>
 
 2017年10月28日上映\[15\]。台灣於2018年4月4日上映\[16\]。香港於2018年4月12日上映
 
+## 参见
+
+  - [京都动画](https://zh.wikipedia.org/wiki/京都动画 "wikilink")
+  - [KA Esuma文庫](../Page/KA_Esuma文庫.md "wikilink")
+  - [京都动画大奖](https://zh.wikipedia.org/wiki/京都动画大奖 "wikilink")
+
 ## 註釋
 
 ## 外部連結

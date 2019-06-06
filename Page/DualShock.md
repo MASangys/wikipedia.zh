@@ -64,20 +64,20 @@ DualShock 3控制器顶部同时拥有“DualShock
 
 DualShock 3控制器后面的贴纸写明，DualShock
 3在3.7[伏特时消耗的电流达到](../Page/伏特.md "wikilink")300[毫安](../Page/安培.md "wikilink")，功耗为1.11[瓦特](../Page/瓦特.md "wikilink")。而Sixaxis控制器背后的贴纸为3.7
-V时消耗30毫安（0.111W），功耗增加了大约1W。但DualShock 3控制器仅在震动马达激活时才会消耗这么多的电量。DualShock
+V时消耗30毫安（0.111瓦特），功耗增加了大约1W。但DualShock 3控制器仅在震动马达激活时才会消耗这么多的电量。DualShock
 3内置了一块3.7
-V的[锂离子电池](../Page/锂离子电池.md "wikilink")，最多可以存储570毫安时的电量，充满电后最长可以提供30个小时的连续游戏。与Sixaxis控制器一样一样，DualShock
+V的[锂离子电池](../Page/锂离子电池.md "wikilink")，最多可以存储570毫安时的电量，充满电后最长可以提供30个小时的连续游戏。与Sixaxis控制器一样，DualShock
 3控制器的说明书上也说明了如何移除和更换电池。DualShock
 3还可以通过控制器顶部的[USB](../Page/USB.md "wikilink")
 mini-B接口消耗电量。在控制器电量不足时，可以同时充电和游玩。通过USB链接到PlayStation 3后，DualShock
 3会自动通过USB连接线传输按键信号。
 
-随着“超薄”型号的PS3的发布，索尼同时发布了新版本的DualShock
+随着PlayStation 3“超薄”型号的发布，索尼同时发布了新版本的DualShock
 3（在背后的贴纸型号后有一个小A1标示），通过USB供电时，在5.0[伏特的情况下消耗](../Page/伏特.md "wikilink")500[毫安的电量](../Page/安培.md "wikilink")，但其内置的电池仍为3.7伏特的锂离子电池。这一版本的DualShock
 3去掉了L1/R1肩部按键和L2/R2扳机键之间附加的塑料支架，增加了控制器的刚性。顶部的[发光二极管直接焊接在](https://zh.wikipedia.org/wiki/发光二极管 "wikilink")[印刷电路板上](../Page/印刷电路板.md "wikilink")，并且控制器的配色方案稍微进行了更改。
 
 虽然DualShock 3控制器支持许多非官方的USB
-mini-B连接线和USB电源适配器，但是索尼官方还是推出了官方的充电套装：，需要搭配墙壁电源适配器使用。还有一个也可以选择。如果使用第三方电源适配器，其必须要是USB主机设备，DualShock
+mini-B连接线和USB电源适配器，但是索尼官方还是推出了官方的，需要搭配墙壁电源适配器使用。还有一个也可以选择。如果使用第三方电源适配器，其必须要是USB主机设备，DualShock
 3控制器和Sixaxis控制器在充电前必须要接收USB主机的信号来进行“唤醒”才能充电。普通的电源适配器无法直接为其充电。
 
 2008年4月2日，索尼公司的一名代表证实，在2008年4月中旬发布DualShock

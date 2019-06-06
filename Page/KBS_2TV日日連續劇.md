@@ -774,26 +774,26 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年1月2日－2019年5月<br />
+<td style="text-align: center;"><p>2019年1月2日－2019年5月31日<br />
 </p></td>
 <td style="text-align: center;"><p><a href="../Page/左撇子妻子.md" title="wikilink">左撇子妻子</a><br />
 </p></td>
-<td style="text-align: center;"><p>100</p></td>
+<td style="text-align: center;"><p>103</p></td>
 <td style="text-align: center;"><p>|<a href="../Page/李水京.md" title="wikilink">李水京</a>、<a href="../Page/金鎮祐.md" title="wikilink">金鎮祐</a>、<a href="../Page/陳泰賢.md" title="wikilink">陳泰賢</a>、<a href="../Page/河戀姝.md" title="wikilink">河戀姝</a>、<a href="../Page/李丞涓.md" title="wikilink">李丞涓</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金明旭" title="wikilink">金明旭</a></p></td>
 <td style="text-align: center;"><p>文恩雅</p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年6月－2019年月<br />
+<td style="text-align: center;"><p>2019年6月3日－2019年11月<br />
 </p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/太陽的季節_(電視劇)" title="wikilink">太陽的季節</a><br />
 </p></td>
 <td style="text-align: center;"><p>100</p></td>
+<td style="text-align: center;"><p><a href="../Page/吳昶錫.md" title="wikilink">吳昶錫</a>、<a href="../Page/尹素怡.md" title="wikilink">尹素怡</a>、<a href="https://zh.wikipedia.org/wiki/崔成宰" title="wikilink">崔成宰</a>、<a href="../Page/河詩恩.md" title="wikilink">河詩恩</a></p></td>
+<td style="text-align: center;"><p>金元勇</p></td>
+<td style="text-align: center;"><p>李恩珠</p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p>|</p></td>
 </tr>
 </tbody>
 </table>

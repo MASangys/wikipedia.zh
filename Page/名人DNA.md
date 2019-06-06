@@ -33,7 +33,7 @@ people)是名人的[Y染色體](../Page/Y染色體.md "wikilink")[單倍群](htt
     前[總合格鬥](https://zh.wikipedia.org/wiki/總合格鬥 "wikilink")
     [摔角選手](../Page/摔角.md "wikilink"),
     [作家](https://zh.wikipedia.org/wiki/作家 "wikilink"),
-    [演員](https://zh.wikipedia.org/wiki/演員 "wikilink"),
+    [演員](../Page/演員.md "wikilink"),
     其測試結果属于D1b單倍群(D-M64.1)\[13\]，他的祖籍是日本[東京都](../Page/東京都.md "wikilink")\[14\]。
 
 #### D1b1

@@ -29,8 +29,9 @@ Ash](../Page/Dragon_Ash.md "wikilink")）。主要給年輕人氣的[音樂家](
 
 2.  [SHIBUYA-AX](http://www.shibuyabunka.com/space.php?id=17)
     渋谷文化プロジェクト、[ライヴ会場解説 /
-    SHIBUYA-AX](http://www.geocities.jp/livehis/house/house_ax.html)、[会場案内（東京都）
-    /
+    SHIBUYA-AX](http://www.geocities.jp/livehis/house/house_ax.html)
+    、[会場案内（東京都） /
     SHIBUYA-AX](http://www.geocities.co.jp/Bookend/7135/kaijo-tokyo.html)
+
 
 3.

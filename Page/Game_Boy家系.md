@@ -15,10 +15,10 @@ Boy系统累计全球销量2.0020亿。
 
 通过[任天堂3DS](../Page/任天堂3DS.md "wikilink") [Virtual
 Console可玩到Game](../Page/Virtual_Console.md "wikilink")
-Boy家系游戏，[Wii](../Page/Wii.md "wikilink") Virtual
+Boy家系游戏，[Wii U](../Page/Wii_U.md "wikilink") Virtual
 Console则仅能玩Game Boy Advance游戏。
 
-任天堂为将任天堂DS推销给更广泛的用户，在2005年停产了Game
+任天堂为将任天堂DS推销给更广泛的用户，在2008年隨著Game Boy Advance停产結束了Game
 Boy品牌。有认为[任天堂DS家族或](../Page/任天堂DS家族.md "wikilink")[任天堂3DS家族是Game](../Page/任天堂3DS家族.md "wikilink")
 Boy家系的一部分。
 

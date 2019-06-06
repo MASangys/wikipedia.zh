@@ -5,15 +5,14 @@ Blockchain.info是世界访问量最大的比特币网站\[5\]，2013年十二�
 
 2014年2月，苹果从[iOS应用商店下架Blockchain应用](../Page/App_Store_\(iOS\).md "wikilink")，遭致了比特币社群的严厉回应，主要是[Reddit社群](../Page/Reddit.md "wikilink")\[7\]\[8\]\[9\]。
 
+## 参考资料
+
 ## 外部链接
 
-  - [Blockchain.info官方网站.](https://blockchain.info/zh-cn/)
-  - [Blockchain Twitter.](https://twitter.com/blockchain)
-  - [Blockchain PHP](http://bitcoinphp.sf.net)
-
-## 参考
-
+  -
+  -
 [Category:比特幣](https://zh.wikipedia.org/wiki/Category:比特幣 "wikilink")
+[Category:经济网站](https://zh.wikipedia.org/wiki/Category:经济网站 "wikilink")
 
 1.
 2.

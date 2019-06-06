@@ -515,9 +515,14 @@ PSY受到[皇后乐队的主唱](../Page/皇后乐队.md "wikilink")[弗雷迪·
 <td><p>首爾蠶室綜合運動場</p></td>
 </tr>
 <tr class="even">
+<td><p>All Night Stand 2018</p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年12月24－25日</p></td>
 <td></td>
+<td><p>首爾奧林匹克公園體操競技場</p></td>
 </tr>
 </tbody>
 </table>
@@ -543,6 +548,9 @@ PSY受到[皇后乐队的主唱](../Page/皇后乐队.md "wikilink")[弗雷迪·
 | 10月1日    | 2016 Busan One Asia Festival | 韓國－釜山亞運會主體育場                         |                   |
 | 2017年    | 5月20日                        | 延世大學校慶演唱會                            | 韓國－首爾新村區          |
 | 7月14日    | MEGA K FESTIVAL SUMMER NIGHT | 中國－香港亞洲國際博覧館                         |                   |
+| 2019年    | 5月14日                        | 光雲大學校慶演唱會                            | 韓國－首爾特別市蘆原區       |
+| 5月17日    | 仁荷大學校慶演唱會                    | 韓國－首爾仁川                              |                   |
+|          |                              |                                      |                   |
 
 ### 大型頒獎典禮
 

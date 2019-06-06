@@ -384,7 +384,7 @@ $ ./make.sh
 <!-- end list -->
 
   - [A JNI Tutorial at CodeProject.com (Microsoft
-    specific)](http://www.codeproject.com/java/jnibasics1.asp)
+    specific)](https://web.archive.org/web/20070930030219/http://www.codeproject.com/java/jnibasics1.asp)
   - [JNI Tutorial at
     CodeToad.com](http://www.codetoad.com/java_simpleJNI.asp)
   - [Larger JNI example from

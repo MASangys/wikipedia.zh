@@ -3,7 +3,7 @@
 
 ## 概述
 
-Spz-kr全槍主要以[斯登衝鋒槍的零件組成](../Page/斯登衝鋒槍.md "wikilink")，其中最引人注目的是[機匣和](https://zh.wikipedia.org/wiki/機匣 "wikilink")[槍托的部份](../Page/槍托.md "wikilink")，它沒有[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")，其用作充當握把的[彈匣及](../Page/彈匣.md "wikilink")[彈匣釋放鈕則是來自](https://zh.wikipedia.org/wiki/彈匣釋放鈕 "wikilink")[StG44](../Page/StG44突击步枪.md "wikilink")。該槍的所有衍生型皆能夠進行半自動或[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。射手只需扣一半板機便能進行單發射擊，繼續扣下去就是連發射擊。（後來研製的[斯泰爾AUG也有運用這種類似的結構](https://zh.wikipedia.org/wiki/斯泰爾AUG "wikilink")）
+Spz-kr全槍主要以[斯登衝鋒槍的零件組成](../Page/斯登衝鋒槍.md "wikilink")，其中最引人注目的是[機匣和](https://zh.wikipedia.org/wiki/機匣 "wikilink")[槍托的部份](../Page/槍托.md "wikilink")，它沒有[護木](https://zh.wikipedia.org/wiki/護木 "wikilink")，其用作充當握把的[彈匣及](../Page/彈匣.md "wikilink")[彈匣釋放鈕則是來自](https://zh.wikipedia.org/wiki/彈匣釋放鈕 "wikilink")[StG44](../Page/StG44突击步枪.md "wikilink")。該槍的所有衍生型皆能夠進行半自動或[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。射手只需扣一半扳機便能進行單發射擊，繼續扣下去就是連發射擊。（後來研製的[斯泰爾AUG突擊步槍也有運用這種類似的結構](../Page/斯泰爾AUG突擊步槍.md "wikilink")）
 
 ## 使用國
 

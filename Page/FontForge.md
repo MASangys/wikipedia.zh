@@ -90,7 +90,8 @@ Graphics Meeting）作为主题的实时协作特性。
   -
   - [SourceForge上的](../Page/SourceForge.md "wikilink")[非官方Windows版本](http://fontforgebuilds.sourceforge.net/)
 
-  - [非官方Windows版本](http://www.geocities.jp/meir000/fontforge/)
+  - [非官方Windows版本](https://web.archive.org/web/20140605140631/http://www.geocities.jp/meir000/fontforge/)
+
 
   - [Design With FontForge](http://designwithfontforge.com/) ——
     使用FontForge设计字体的指南

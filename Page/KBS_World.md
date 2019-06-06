@@ -21,7 +21,7 @@ News 9和KBS自製紀錄片如常播出，直至2018年6月才完結。
 
 ## 现时节目
 
-  - 时间以[UTC+8为准](https://zh.wikipedia.org/wiki/UTC+8 "wikilink")
+  - 时间以[UTC+9为准](https://zh.wikipedia.org/wiki/UTC+9 "wikilink")
 
 <table>
 <thead>
@@ -35,169 +35,161 @@ News 9和KBS自製紀錄片如常播出，直至2018年6月才完結。
 <tbody>
 <tr class="odd">
 <td><p>星期一至五</p></td>
-<td><p>15:40-16:00</p></td>
+<td><p>16:30 - 16:50</p></td>
 <td><p>KBS World News Today</p></td>
 <td><p>英語廣播</p></td>
 </tr>
 <tr class="even">
-<td><p>18:45-19:25</p></td>
-<td><p><a href="../Page/愛到最後.md" title="wikilink">愛到最後</a></p></td>
-<td><p>與韓國隔一周後播出</p></td>
+<td><p>16:50 - 17:00</p></td>
+<td><p>KBS World e-Today</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>19:25 - 20:05</p></td>
-<td><p><a href="../Page/明日也晴朗.md" title="wikilink">明日也晴朗</a></p></td>
+<td><p>星期一</p></td>
+<td><p>19:55 - 20:45</p></td>
+<td><p>Entertainment Weekly</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>星期一至五</p></td>
+<td><p>20:45 - 21:20</p></td>
+<td><p><a href="../Page/拜託了，夏天啊.md" title="wikilink">拜託了，夏天啊</a></p></td>
+<td><p>與韓國隔一周後播出</p></td>
+</tr>
+<tr class="odd">
+<td><p>21:20 - 22:00</p></td>
+<td><p><a href="../Page/左撇子妻子.md" title="wikilink">左撇子妻子</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>星期一至四</p></td>
-<td><p>23:25 - 00:35</p></td>
-<td><p><a href="../Page/Who_Are_You－學校2015.md" title="wikilink">Who Are You－學校2015</a></p></td>
+<td><p>星期一</p></td>
+<td><p>22:00 - 23:20</p></td>
+<td><p><a href="../Page/The_hit.md" title="wikilink">The hit</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>23:20 - 00:40</p></td>
+<td><p><a href="../Page/大國民脫口秀-你好.md" title="wikilink">大國民脫口秀-你好</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>星期二至五</p></td>
+<td><p>00:50 - 02:00</p></td>
+<td><p><a href="../Page/真是好時節.md" title="wikilink">真是好時節</a></p></td>
+<td><p>重播剧集</p></td>
+</tr>
+<tr class="odd">
+<td><p>星期二</p></td>
+<td><p>19:40 - 19:50</p></td>
+<td><p>Guerrilla Date</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>19:50 - 20:45</p></td>
+<td><p><a href="../Page/鄰居查爾斯.md" title="wikilink">鄰居查爾斯</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>星期二至三</p></td>
-<td><p>20:55 - 22:05</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/最完美的離婚" title="wikilink">最完美的離婚</a></p></td>
+<td><p>22:00 - 23:10</p></td>
+<td><p><a href="../Page/Perfume_(電視劇).md" title="wikilink">香水</a></p></td>
 <td><p>與韓國隔日播出</p></td>
 </tr>
 <tr class="even">
-<td><p>星期四至五</p></td>
-<td><p>就算死也喜歡</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>星期六至日</p></td>
-<td><p>20:25 - 21:40</p></td>
-<td><p><a href="../Page/我唯一的守護者.md" title="wikilink">我唯一的守護者</a></p></td>
-<td><p>与韩国紧接隔周播出</p></td>
-</tr>
-<tr class="even">
-<td><p>星期一</p></td>
-<td><p>20:55 - 22:05</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/演艺家中介" title="wikilink">演艺家中介</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>22:05 - 23:25</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大国民脱口秀-你好" title="wikilink">大国民脱口秀-你好</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>星期二</p></td>
-<td><p>1 Percent of Friendship</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>星期三</p></td>
-<td><p>Hyena On The Keyboard</p></td>
+<td><p>19:40 - 20:45</p></td>
+<td><p><a href="../Page/屋塔房的問題兒童們.md" title="wikilink">屋塔房的問題兒童們</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>星期四</p></td>
+<td><p>19:40 - 20:45</p></td>
+<td><p>德华TV</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>星期四至五</p></td>
+<td><p>22:00 - 23:10</p></td>
+<td><p><a href="../Page/僅此一次的愛情.md" title="wikilink">僅此一次的愛情</a></p></td>
+<td><p>與韓國隔日播出</p></td>
+</tr>
+<tr class="odd">
+<td><p>星期四</p></td>
+<td><p>23:10 - 00:40</p></td>
+<td><p><a href="../Page/歡樂在一起.md" title="wikilink">歡樂在一起</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>星期五</p></td>
+<td><p>17:00 - 18:30</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/音乐银行" title="wikilink">音乐银行</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>19:50 - 20:45</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>星期四</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/欢乐在一起" title="wikilink">欢乐在一起</a></p></td>
+<td><p>00:45 - 00:50</p></td>
+<td><p>Slow Shelter</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>星期五</p></td>
-<td><p>17:30-18:00</p></td>
-<td><p>K-RUSH Season 3</p></td>
+<td><p>星期六</p></td>
+<td><p>16:35 - 17:55</p></td>
+<td><p><a href="../Page/柳喜烈的寫生簿.md" title="wikilink">柳喜烈的寫生簿</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>星期六</p></td>
-<td><p>17:00-18:20</p></td>
+<td><p>17:55 - 19:15</p></td>
 <td><p><a href="../Page/搞笑演唱會.md" title="wikilink">搞笑演唱會</a></p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>18:20 - 20:05</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/不朽的名曲" title="wikilink">不朽的名曲</a></p></td>
+<td><p>19:15 - 21:00</p></td>
+<td><p><a href="../Page/不朽的名曲：傳說在歌唱.md" title="wikilink">不朽的名曲：傳說在歌唱</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>星期日</p></td>
-<td><p>15:40-17:00</p></td>
+<td><p>16:40 - 17:45</p></td>
 <td><p><a href="../Page/戰鬥旅行.md" title="wikilink">戰鬥旅行</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>17:00-18:35</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/超人回來了" title="wikilink">超人回來了</a></p></td>
+<td><p>17:45 - 18:05</p></td>
+<td><p><a href="../Page/A_SONG_FOR_YOU為你歌唱.md" title="wikilink">A SONG FOR YOU為你歌唱第五季</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>18:35 - 20:05</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/两天一夜" title="wikilink">两天一夜</a></p></td>
+<td><p>18:05 - 19:30</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>星期三</p></td>
-<td><p>17:20-18:30</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/柳熙烈的寫生簿" title="wikilink">柳熙烈的寫生簿</a></p></td>
+<td><p>19:30 - 21:00</p></td>
+<td><p><a href="../Page/超人歸來_(韓國綜藝).md" title="wikilink">超人回來了</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>每晚</p></td>
-<td><p>20:05 - 20:45（星期一）<br />
-20:05 - 20:55（星期二至五）<br />
-20:05 - 20:25（星期六至日）</p></td>
-<td><p><a href="../Page/KBS9点新闻.md" title="wikilink">KBS9点新闻</a></p></td>
-<td><p>现场直播</p></td>
+<td><p>星期六至日</p></td>
+<td><p>21:00 - 22:20</p></td>
+<td><p><a href="../Page/我世上最漂亮的女兒.md" title="wikilink">我世上最漂亮的女兒</a></p></td>
+<td><p>与韩国紧接隔周播出</p></td>
 </tr>
 <tr class="odd">
-<td><p>星期五</p></td>
-<td><p>16:05 - 17:35</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/音乐银行" title="wikilink">音乐银行</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>18:30-18:45</p></td>
-<td><p>The Beauty A Week</p></td>
-<td><p>特別節目</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>18:20-18:30</p></td>
-<td><p>Office Watch Season 2</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>01:00-01:50</p></td>
-<td><p>The Beauty Season 2</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>星期一</p></td>
-<td><p>16:00-16:50</p></td>
-<td><p>The Beauty</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>星期一至四</p></td>
-<td><p>16:00-16:10</p></td>
-<td><p>KBS WORLD e-TODAY</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>星期五</p></td>
-<td><p>18:30-18:40</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td></td>
 <td></td>
 <td></td>

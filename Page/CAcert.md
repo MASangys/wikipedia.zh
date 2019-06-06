@@ -32,7 +32,7 @@ CAcert的签名提供商是[CeBIT和](../Page/CeBIT.md "wikilink")[FOSDEM](https
     Tablets](https://zh.wikipedia.org/wiki/Nokia_Internet_Tablet "wikilink"))
     (not on [Nokia
     N900](https://zh.wikipedia.org/wiki/Nokia_N900 "wikilink"))
-  - [Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink")
+  - [Knoppix](../Page/Knoppix.md "wikilink")
   - [Mandriva Linux](../Page/Mandriva_Linux.md "wikilink")
   - [MirOS BSD](https://zh.wikipedia.org/wiki/MirOS_BSD "wikilink")
   - [OpenBSD](../Page/OpenBSD.md "wikilink")

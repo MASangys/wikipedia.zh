@@ -22,8 +22,6 @@ WASP-8b的軌道是逆向軌道\[2\]\[3\]。它的平衡溫度是950 K，但會�
   - <https://www.webcitation.org/66L51oQpk?url=http://www.superwasp.org/wasp_planets.htm>
   - <http://exoplanet.eu/planet.php?p1=WASP-8&p2=b>
 
-[de:WASP-8 b](https://zh.wikipedia.org/wiki/de:WASP-8_b "wikilink")
-
 [Category:凌星现象](https://zh.wikipedia.org/wiki/Category:凌星现象 "wikilink")
 [Category:熱木星](https://zh.wikipedia.org/wiki/Category:熱木星 "wikilink")
 [Category:類木行星](https://zh.wikipedia.org/wiki/Category:類木行星 "wikilink")

@@ -1,5 +1,9 @@
 《**BAD
-COMMUNICATION**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikipedia.org/wiki/樂團 "wikilink")[B'z在](../Page/B'z.md "wikilink")1989年發行的首張迷你專輯。
+COMMUNICATION**》是[日本](../Page/日本.md "wikilink")[音樂組合](../Page/音樂組合.md "wikilink")[B'z於](../Page/B'z.md "wikilink")[1989年](../Page/1989年.md "wikilink")[10月21日由](../Page/10月21日.md "wikilink")[BMG
+VICTOR發行的首張迷你專輯](https://zh.wikipedia.org/wiki/BMG_JAPAN "wikilink")。本專輯即使在BMG
+ROOMS（現：[VERMILLION
+RECORDS](../Page/VERMILLION_RECORDS.md "wikilink")）成立後，發售權亦留在了BMG
+JAPAN。
 
 ## 簡介
 

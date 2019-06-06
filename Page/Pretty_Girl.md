@@ -10,7 +10,8 @@ Media。
 
 ## 外部連結
 
-  - [KARA韓國官方網站](http://kara.dspmedia.co.kr/)
+  - [KARA韓國官方網站](https://web.archive.org/web/20110710172218/http://kara.dspmedia.co.kr/)
+
   - [KARA日本官方網站](http://www.karaweb.jp/)
   - [Kara facebook](http://www.facebook.com/karakpop)
   - [華納唱片-Kara團體介紹](https://web.archive.org/web/20120901091616/http://www.warnermusic.com.tw/artist/149)

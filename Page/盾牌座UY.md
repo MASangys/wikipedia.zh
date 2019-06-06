@@ -2,7 +2,7 @@
 
 ## 恆星狀況
 
-[Rho_Cassiopeiae_Sol_VY_Canis_Majoris.png](https://zh.wikipedia.org/wiki/File:Rho_Cassiopeiae_Sol_VY_Canis_Majoris.png "fig:Rho_Cassiopeiae_Sol_VY_Canis_Majoris.png")、[手槍星](../Page/手槍星.md "wikilink")、黃特超巨星[仙后座ρ](../Page/螣蛇十二.md "wikilink")、[参宿四和](https://zh.wikipedia.org/wiki/参宿四 "wikilink")[大犬座VY](../Page/大犬座VY.md "wikilink")（盾牌座UY的大小與大犬座VY的大小相若）\]\]
+[Rho_Cassiopeiae_Sol_VY_Canis_Majoris_-_2019-05-14.svg](https://zh.wikipedia.org/wiki/File:Rho_Cassiopeiae_Sol_VY_Canis_Majoris_-_2019-05-14.svg "fig:Rho_Cassiopeiae_Sol_VY_Canis_Majoris_-_2019-05-14.svg")、[手槍星](../Page/手槍星.md "wikilink")、黃特超巨星[仙后座ρ](../Page/螣蛇十二.md "wikilink")、[参宿四和](https://zh.wikipedia.org/wiki/参宿四 "wikilink")[大犬座VY](../Page/大犬座VY.md "wikilink")（盾牌座UY的大小與大犬座VY的大小相若）\]\]
 盾牌座UY是一顆紅[超巨星](../Page/超巨星.md "wikilink")，其[恆星光譜分類為M](https://zh.wikipedia.org/wiki/恆星光譜 "wikilink")4Ia。這顆恆星的半徑約為太陽的1,708
 ±
 192倍。儘管其體積非常大，但其質量僅僅約為[太陽質量的](https://zh.wikipedia.org/wiki/太陽質量 "wikilink")32倍，即約為[地球質量的](https://zh.wikipedia.org/wiki/地球質量 "wikilink")1000萬倍。這顆恆星不僅僅在體積方面巨大，[亮度也非常高](https://zh.wikipedia.org/wiki/亮度 "wikilink")。其亮度為太陽的340,000倍，是光度最高的恆星之一。\[3\]盾牌座UY也是一顆半規則[變星](../Page/變星.md "wikilink")，其變光週期約為740日。\[4\]

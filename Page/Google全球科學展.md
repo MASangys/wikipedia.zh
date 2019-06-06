@@ -13,7 +13,7 @@ fairs help students to explore their vision and curiosity through
 science. Our company was founded on an experiment. We firmly believe
 that science can change the world.）”\[11\]
 
-Google的页面说明，因当地法律不允许，比赛不在[古巴](../Page/古巴.md "wikilink")、[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")、[朝鲜](https://zh.wikipedia.org/wiki/朝鲜 "wikilink")、[苏丹](https://zh.wikipedia.org/wiki/苏丹 "wikilink")、[缅甸](https://zh.wikipedia.org/wiki/缅甸 "wikilink")、[叙利亚](../Page/叙利亚.md "wikilink")、[津巴布韦以及任何其他美国制裁的国家的居民开放](https://zh.wikipedia.org/wiki/津巴布韦 "wikilink")。\[12\]
+Google的页面说明，因当地法律不允许，比赛不在[古巴](../Page/古巴.md "wikilink")、[伊朗](https://zh.wikipedia.org/wiki/伊朗 "wikilink")、[朝鲜](https://zh.wikipedia.org/wiki/朝鲜 "wikilink")、[苏丹](../Page/苏丹.md "wikilink")、[缅甸](https://zh.wikipedia.org/wiki/缅甸 "wikilink")、[叙利亚](../Page/叙利亚.md "wikilink")、[津巴布韦以及任何其他美国制裁的国家的居民开放](https://zh.wikipedia.org/wiki/津巴布韦 "wikilink")。\[12\]
 
 ## 嘉宾访谈
 

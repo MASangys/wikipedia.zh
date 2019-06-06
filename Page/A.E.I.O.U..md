@@ -2,7 +2,7 @@
 **A.E.I.O.U.**，或**AEIOU**，是[哈布斯堡王朝皇帝使用的格言](../Page/哈布斯堡王朝.md "wikilink")，亦是[奥地利帝国的国家格言](https://zh.wikipedia.org/wiki/奥地利帝国 "wikilink")。这个格言是由[腓特烈三世发明的](../Page/腓特烈三世_\(神圣罗马帝国\).md "wikilink")，这位皇帝喜欢使用缩写的、带有神秘色彩的语言。\[1\]
 他在自己的一封手稿上曾用德语解释了A.E.I.O.U.的真正含义，即“**A**lles **E**rdreich **i**st
 **Ö**sterreich
-**u**ntertan”（[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")，意为“世界属于奥地利”），<ref name="MKL">
+**u**ntertan”（[德文](https://zh.wikipedia.org/wiki/德文 "wikilink")，意为“普天之下，莫非奥土”），<ref name="MKL">
 
 ` "A", `*`Meyers``   ``Konversationslexikon`*`, (various authors),`
 ` Volume 1, page 1, 1885-1890, web (Commons):`

@@ -448,7 +448,7 @@ HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度
   -   - 2009年6月上號：[第31届SHOT展轻武器赏介（Ⅱ）](https://web.archive.org/web/20141211021226/http://gdwap.dooland.com/article.php?id=11156)
       - 2009年8月上號：[打造新旗舰
         斯普林菲尔德XD(M)系列手枪全解析](https://web.archive.org/web/20141211022948/http://gdwap.dooland.com/article.php?id=12657)
-      - 2016年5月下號：[斯普林菲爾德公司新款XD(M) 4.5英寸手槍](http://202.38.93.11/newreader/bookan.html?id=307718&page=57)
+      - 2016年5月下號：[斯普林菲爾德公司新款XD(M) 4.5英寸手槍](https://web.archive.org/web/20160818090429/http://202.38.93.11/newreader/bookan.html?id=307718&page=57)
 
 <!-- end list -->
 
@@ -460,7 +460,7 @@ HRC）和1,200—1,300平方毫米每牛頓（N/mm<sup>2</sup>）的抗拉強度
     website](http://www.springfield-armory.com/xdm-series/)
 
   - —[Guns Magazine—Long Slide
-    Magic](http://www.gunsmagazine.com/long-slide-magic/)
+    Magic](https://web.archive.org/web/20120119001908/http://www.gunsmagazine.com/long-slide-magic/)
 
   - —Guns Holsters and Gear.com—
 

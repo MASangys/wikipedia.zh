@@ -94,7 +94,4 @@
 
   - [实体管理在标准通用标记语言里头](http://www.oasis-open.org/cover/goldenti.html)
 
-[nl:Lijst van
-HTML-entiteiten](https://zh.wikipedia.org/wiki/nl:Lijst_van_HTML-entiteiten "wikilink")
-
 [Category:标记语言](https://zh.wikipedia.org/wiki/Category:标记语言 "wikilink")

@@ -1,4 +1,4 @@
-**BBC廣播大樓**（****）是[英國廣播公司的總部所在地](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")。位於[倫敦的波特蘭廣場](https://zh.wikipedia.org/wiki/倫敦 "wikilink")。廣播大樓動工於1928年，在1932年完工。1932年3月15日，第一個在廣播大樓製作的廣播節目對外播出。兩個月後廣播大樓正式開始使用。廣播大樓在建設完成之後曾進行多次翻新，2005年更進行大規模擴建。2013年3月開始，[BBC新聞的編輯部以及](https://zh.wikipedia.org/wiki/BBC新聞 "wikilink")[BBC新聞台和](https://zh.wikipedia.org/wiki/BBC新聞台 "wikilink")[BBC世界新聞頻道的攝影棚也從BBC電視中心搬遷到BBC廣播大樓](https://zh.wikipedia.org/wiki/BBC世界新聞頻道 "wikilink")。
+**BBC廣播大樓**（****）是[英國廣播公司的總部所在地](https://zh.wikipedia.org/wiki/英國廣播公司 "wikilink")。位於[倫敦的](https://zh.wikipedia.org/wiki/倫敦 "wikilink")[波特蘭坊](https://zh.wikipedia.org/wiki/波特蘭坊 "wikilink")。廣播大樓動工於1928年，在1932年完工。1932年3月15日，第一個在廣播大樓製作的廣播節目對外播出。兩個月後廣播大樓正式開始使用。廣播大樓在建設完成之後曾進行多次翻新。
 
 ## 翻新
 

@@ -23,7 +23,7 @@ E200投入運行兩年之後所收集到的資料，作為是否將該車型全�
 ### 環保性
 
 動力系統方面，KiHa
-E200型同時搭載了設置在車身中段[底盤處的](https://zh.wikipedia.org/wiki/底盤 "wikilink")[柴油引擎與設置在車頂上](../Page/柴油引擎.md "wikilink")、蓄電能力達15.2[千瓦小時的鋰離子電池之組合](https://zh.wikipedia.org/wiki/千瓦小時 "wikilink")，而實際上驅動車輪的則為[鼠籠式三相電動馬達](https://zh.wikipedia.org/wiki/鼠籠式三相電動馬達 "wikilink")，這三者是構成這套串聯式混合動力系統的核心元件。雖然在應用上已經非常普及的[柴電聯車](https://zh.wikipedia.org/wiki/柴電聯車 "wikilink")（DEMU）或[柴電機車上](https://zh.wikipedia.org/wiki/柴電機車 "wikilink")，柴油引擎也僅被用來作為[發電用途而不直接驅動車輪](https://zh.wikipedia.org/wiki/發電 "wikilink")，但是在增加了大型蓄電池之後，整套系統的運用更具彈性。其運作模式主要分為以下四種：
+E200型同時搭載了設置在車身中段[底盤處的](https://zh.wikipedia.org/wiki/底盤 "wikilink")[柴油引擎與設置在車頂上](../Page/柴油引擎.md "wikilink")、蓄電能力達15.2[千瓦小時的鋰離子電池之組合](https://zh.wikipedia.org/wiki/千瓦小時 "wikilink")，而實際上驅動車輪的則為[鼠籠式三相電動馬達](https://zh.wikipedia.org/wiki/鼠籠式三相電動馬達 "wikilink")，這三者是構成這套串聯式混合動力系統的核心元件。雖然在應用上已經非常普及的[柴聯車](../Page/柴聯車.md "wikilink")（DEMU）或[柴電機車上](https://zh.wikipedia.org/wiki/柴電機車 "wikilink")，柴油引擎也僅被用來作為[發電用途而不直接驅動車輪](https://zh.wikipedia.org/wiki/發電 "wikilink")，但是在增加了大型蓄電池之後，整套系統的運用更具彈性。其運作模式主要分為以下四種：
 
   - 發車狀態：E200採純電動模式，利用蓄電池中儲存的電力驅動電動馬達自靜止狀態起步，此時柴油引擎不運轉，大幅降低起步[噪音](../Page/噪音.md "wikilink")。
   - 加速狀態：在發車後隨著車速漸增，當需要加速或遇到急上坡狀況時，柴油引擎開始運轉驅動[發電機](https://zh.wikipedia.org/wiki/發電機 "wikilink")，由發電機與蓄電池同時提供電動馬達所需的電力。

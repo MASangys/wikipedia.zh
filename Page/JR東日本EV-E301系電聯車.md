@@ -6,7 +6,7 @@ EV-E301系是以被暱稱為「NE Train Smart電池君」（）的[KuMoYa
 E995型實驗車為基礎所開發而出的量產車型](../Page/JR東日本E995型電聯車.md "wikilink")，JR東日本在其上使用了一套被稱為「蓄電池驅動電聯車系統」（）的新技術，在傳統的電力列車驅動系統上額外加裝了大容量[鋰離子蓄電池與相關控制迴路](https://zh.wikipedia.org/wiki/鋰離子蓄電池 "wikilink")，可在不同的供電來源間自由切換。配合此特色新車款被賦予「**ACCUM**」的暱稱，而該暱稱是取自「能源蓄集車輛」（Energy
 **Accum**ulating Vehicle）的部分拼字。
 
-除了作為一般的電聯車使用外，EV-E301系也可以行駛於非電氣化的路線上，JR東日本於2014年3月15日的班次表修改後，先投入一列兩輛編組的試產車至旗下的非電氣化路線、[烏山線實際營運](../Page/烏山線.md "wikilink")，並陸續量產擴增編組。以完全取代該線上使用柴油動力的為目標。
+除了作為一般的電聯車使用外，EV-E301系也可以行駛於非電氣化的路線上，JR東日本於2014年3月15日的班次表修改後，先投入一列兩輛編組的試產車至旗下的非電氣化路線——[烏山線實際營運](../Page/烏山線.md "wikilink")，並陸續量產擴增編組。以完全取代該線上使用柴油動力的為目標。
 
 2015年5月，此型電聯車獲頒[鐵道友之會的](../Page/鐵道友之會.md "wikilink")[桂冠獎](../Page/桂冠獎.md "wikilink")（）\[1\]
 
@@ -21,7 +21,7 @@ EV-E301系是JR東日本首度採用「EV」這個編號作為列車車型命名
 
 ### 運作
 
-EV-E301系列的動力系統設計大體沿用自E995型實驗車，主要的差異點還是在原本將集電與儲電設備集中設置在同一輛車上的E995，在EV-E301車系變成分置於頭尾兩車廂。與傳統電聯車相較，EV-E301系的集電－[DC/DC](../Page/直流電.md "wikilink")[變壓設備](https://zh.wikipedia.org/wiki/變壓器 "wikilink")，與提供驅動力的[調壓調頻交流](https://zh.wikipedia.org/wiki/VVVF "wikilink")（VVVF）電動機之間，多加入了容量95[千瓦小時的鋰離子蓄電池迴路](https://zh.wikipedia.org/wiki/千瓦小時 "wikilink")。為了配合蓄電池系統較低的工作電壓（600[伏特](../Page/伏特.md "wikilink")），車上的[電動機也更改為輸入電壓較低的](https://zh.wikipedia.org/wiki/電動機 "wikilink")600伏特版本，共2具，每具能提供95[千瓦的動力輸出](https://zh.wikipedia.org/wiki/千瓦 "wikilink")。外部提供的1500伏特電壓必須先經過直流轉換降壓為600伏特之後，才能提供給電動馬達使用或對蓄電池充電。
+EV-E301系列的動力系統設計大體沿用自E995型實驗車，主要的差異點還是在原本將集電與儲電設備集中設置在同一輛車上的E995，在EV-E301車系變成分置於頭尾兩車廂。與傳統電聯車相較，EV-E301系的集電－[DC/DC](../Page/直流電.md "wikilink")[變壓設備](https://zh.wikipedia.org/wiki/變壓器 "wikilink")，與提供驅動力的[調壓調頻交流](https://zh.wikipedia.org/wiki/VVVF "wikilink")（VVVF）電動機之間，多加入了容量95[千瓦小時的鋰離子蓄電池迴路](https://zh.wikipedia.org/wiki/千瓦小時 "wikilink")。為了配合蓄電池系統較低的工作電壓（600[伏特直流電](../Page/伏特.md "wikilink")），車上的[電動機也更改為輸入電壓較低的](https://zh.wikipedia.org/wiki/電動機 "wikilink")600伏特版本，共2具，每具能提供95[千瓦的動力輸出](https://zh.wikipedia.org/wiki/千瓦 "wikilink")。外部提供的1500伏特[直流電必須先經過降壓為](../Page/直流電.md "wikilink")600伏特之後，才能提供給電動馬達使用或對蓄電池充電。
 
 在多了蓄電能力之後，相較於一般電聯車只能在設有配電線路的[電氣化路線上行駛不同](../Page/電氣化鐵路.md "wikilink")，EV-E301可自由在電氣化與非電氣化路段中穿梭，大幅提昇車輛調度的彈性。
 
@@ -82,7 +82,7 @@ E200型](https://zh.wikipedia.org/wiki/KiHa_E200型 "wikilink")，與第一款�
 
 ## 營運
 
-JR東日本預計在2014年春時，將兩輛一編組的EV-E301投入實際營運，新車款的啟用路線為全線皆非電氣化的[烏山線](../Page/烏山線.md "wikilink")。之所以選擇烏山線主要理由在於其路線長度適中正好能配合EV-E301所搭載的蓄電池電力，另一個主要考量則是因為烏山線可與已經電氣化的[東北本線進行直通運行](../Page/東北本線.md "wikilink")，利用EV-E301進行電氣化與非電氣化路線的交互營運測試。屆時EV-E301將會行駛於[宇都宮至](https://zh.wikipedia.org/wiki/宇都宮車站 "wikilink")[寶積寺之間的東北本線部分路段](../Page/寶積寺車站.md "wikilink")，與寶積寺至[烏山之間的烏山線全線](https://zh.wikipedia.org/wiki/烏山車站_\(日本\) "wikilink")。在確認初期的營運順暢後，JR東日本將會陸續增加列車組的數量，最終目的是將該線上使用的柴聯車全都替換為EV-E301。
+JR東日本預計在2014年春時，將兩輛一編組的EV-E301投入實際營運，新車款的啟用路線為全線皆非電氣化的[烏山線](../Page/烏山線.md "wikilink")。之所以選擇烏山線主要理由在於其路線長度適中正好能配合EV-E301所搭載的蓄電池電力，另一個主要考量則是因為烏山線可與已經電氣化的[東北本線進行直通運行](../Page/東北本線.md "wikilink")，利用EV-E301進行電氣化與非電氣化路線的交互營運測試。屆時EV-E301將會行駛於[宇都宮至](https://zh.wikipedia.org/wiki/宇都宮車站 "wikilink")[寶積寺之間的東北本線部分路段](../Page/寶積寺車站.md "wikilink")，與寶積寺至[烏山之間的烏山線全線](https://zh.wikipedia.org/wiki/烏山車站_\(日本\) "wikilink")。在確認初期的營運順暢後，JR東日本將會陸續增加列車組的數量，最終已於2017年（平成29年）3月4日起將該線上定期班次使用的柴聯車全都替換為EV-E301\[2\]。
 
 為了配合EV-E301車系的營運，JR東日本會在烏山車站的站內增設專用的充電設備，讓抵達該站之後會進行折返的列車可以在等待發車時，同時進行快速的充電。為了確保電力消耗的最佳化，EV-E301車上的耗電設備都盡可能採用最節能的設計，例如將車室照明替換成耗電量極低的[LED](https://zh.wikipedia.org/wiki/LED "wikilink")（發光二極體）型式。
 
@@ -126,6 +126,7 @@ JR東日本預計在2014年春時，將兩輛一編組的EV-E301投入實際營�
 ## 相關條目
 
   - [JR九州817系電聯車](https://zh.wikipedia.org/wiki/JR九州817系電聯車 "wikilink")：[JR九州將部分](https://zh.wikipedia.org/wiki/JR九州 "wikilink")817系電聯車編組加裝蓄電池，改造成與EV-E301系類似的彈性動力測試車。
+  - [JR東日本EV-E801系電聯車](https://zh.wikipedia.org/wiki/JR東日本EV-E801系電聯車 "wikilink")：與EV-E301類似，但輸入電力為[交流電](../Page/交流電.md "wikilink")，2017年3月4日起用於[男鹿線](../Page/男鹿線.md "wikilink")。
 
 ## 參考文獻
 
@@ -140,3 +141,4 @@ JR東日本預計在2014年春時，將兩輛一編組的EV-E301投入實際營�
 [Category:桂冠獎](https://zh.wikipedia.org/wiki/Category:桂冠獎 "wikilink")
 
 1.  [2016年　ブルーリボン・ローレル賞選定車両](http://www.jrc.gr.jp/award/bl/bl2016)
+2.   - 東日本旅客鉄道プレスリリース、2016年12月16日

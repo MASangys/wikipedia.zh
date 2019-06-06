@@ -4,7 +4,7 @@ TPS**（，意為：戰術警用霰彈槍）是一款由[比利时槍械製造�
 ## 概述
 
 FN
-TPS是以[溫徹斯特M1300為藍本](../Page/溫徹斯特M1200泵動式霰彈槍.md "wikilink")，並且使用許多相似的功能，例如降低[後座力的導氣孔式](../Page/後座力.md "wikilink")[槍管和加快上膛速度的](../Page/槍管.md "wikilink")[滾轉式槍機](../Page/滾轉式槍機.md "wikilink")。\[1\]它是一枝[泵动式](https://zh.wikipedia.org/wiki/泵动式 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")（滑動式槍機），槍管下方裝有平行的內置式[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。使用泵动式操作的溫徹斯特M1200與其他泵动式霰彈槍一樣，是以可前後滑動的前護木通過兩根操作連桿連接到槍機使得槍機前後復進。正因如此，前護木是裝在槍管下方的管式彈倉並且可以前後滑動。空彈殼會在右邊的拋殼口彈出。
+TPS是以[溫徹斯特M1300為藍本](../Page/溫徹斯特M1200泵動式霰彈槍.md "wikilink")，並且使用許多相似的功能，例如降低[後座力的導氣孔式](../Page/後座力.md "wikilink")[槍管和加快上膛速度的](../Page/槍管.md "wikilink")[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")。\[1\]它是一枝[泵动式](https://zh.wikipedia.org/wiki/泵动式 "wikilink")[霰彈槍](https://zh.wikipedia.org/wiki/霰彈槍 "wikilink")（滑動式槍機），槍管下方裝有平行的內置式[管式彈倉](https://zh.wikipedia.org/wiki/彈匣#管式彈倉 "wikilink")。使用泵动式操作的溫徹斯特M1200與其他泵动式霰彈槍一樣，是以可前後滑動的前護木通過兩根操作連桿連接到槍機使得槍機前後復進。正因如此，前護木是裝在槍管下方的管式彈倉並且可以前後滑動。空彈殼會在右邊的拋殼口彈出。
 
 它也具有很多現代化的特色，包括[美国](../Page/美国.md "wikilink")[M16步槍](../Page/M16突擊步槍.md "wikilink")／[M4卡賓槍的](../Page/M4卡賓槍.md "wikilink")[槍托](../Page/槍托.md "wikilink")（四代）、獨立式（A2型）和可調節式[機械瞄具以及](../Page/機械瞄具.md "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")。\[2\]FN
 TPS裝有[M16A2樣式的](https://zh.wikipedia.org/wiki/M16突擊步槍#M16A2 "wikilink")[準星和](../Page/照準器.md "wikilink")[照門](https://zh.wikipedia.org/wiki/照門 "wikilink")。瞄準具可調節海拔和風偏。\[3\]

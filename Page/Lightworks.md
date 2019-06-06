@@ -105,8 +105,7 @@ Lightworks 的控制界面类似于行业标准
 3.
 4.  <http://www.lwks.com/index.php?option=com_content&view=article&id=15&Itemid=176>
 5.
-6.  <http://www.lightworksbeta.com/index.php?option=com_content&view=article&id=120&Itemid=268>
-
+6.
 7.
 8.  <http://www.interlab-net.com/docs/lightworks/Press_Releases/First%20major%20order%20for%20Lightworks%20under%20new%20ownership.pdf>
 9.  <http://www.interlab-net.com/docs/lightworks/Press_Releases/LWKS_PR_version2.pdf>

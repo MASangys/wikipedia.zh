@@ -440,6 +440,6 @@
 [Category:華語流行音樂團體](https://zh.wikipedia.org/wiki/Category:華語流行音樂團體 "wikilink")
 [Category:臺灣女子演唱團體](https://zh.wikipedia.org/wiki/Category:臺灣女子演唱團體 "wikilink")
 [Category:華語歌手](https://zh.wikipedia.org/wiki/Category:華語歌手 "wikilink")
-[Category:閩南語歌手](https://zh.wikipedia.org/wiki/Category:閩南語歌手 "wikilink")
+[Category:台语女歌手](https://zh.wikipedia.org/wiki/Category:台语女歌手 "wikilink")
 
 1.  [黄西田V.S櫻桃姐妹](http://www.fuki-world.com/twsongs/singert/dspsong.cgi?a=L0651)

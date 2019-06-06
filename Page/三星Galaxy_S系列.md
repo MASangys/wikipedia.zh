@@ -97,14 +97,15 @@ S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三�
 
 ### 平板電腦
 
-| 名稱                                                                                              | 推出日期      | 屏幕                                                                                   |
-| ----------------------------------------------------------------------------------------------- | --------- | ------------------------------------------------------------------------------------ |
-| [三星Galaxy Tab](../Page/三星Galaxy_Tab.md "wikilink")                                              | 2010年     | 7" [TFT-LCD](https://zh.wikipedia.org/wiki/TFT-LCD "wikilink") 1024 x 600            |
-| [Samsung Galaxy Tab S 10.5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S_10.5 "wikilink") |           |                                                                                      |
-| [Samsung Galaxy Tab S 8.4](../Page/Samsung_Galaxy_Tab_S_8.4.md "wikilink")                      | 2014年7月2日 | 8.4" [AMOLED](../Page/AMOLED.md "wikilink") 2560x1600                                |
-| [Samsung Galaxy Tab S2 8.0](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S2_8.0 "wikilink") |           |                                                                                      |
-| [Samsung Galaxy Tab S2 9.7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S2_9.7 "wikilink") |           |                                                                                      |
-| [Samsung Galaxy Tab S3 9.7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S3_9.7 "wikilink") | 2017年2月   | 9.7" [Super AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink") 1536x2048 |
+| 名稱                                                                                              | 推出日期      | 屏幕                                                                                     |
+| ----------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------- |
+| [Samsung Galaxy Tab S 10.5](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S_10.5 "wikilink") | 2014年7月2日 | 10.5 Super AMOLED 1600 x 2560                                                          |
+| [Samsung Galaxy Tab S 8.4](../Page/Samsung_Galaxy_Tab_S_8.4.md "wikilink")                      | 2014年7月2日 | 8.4" [Super AMOLED](https://zh.wikipedia.org/wiki/Super_AMOLED "wikilink") 1600 x 2560 |
+| [三星Galaxy Tab S2 8.0](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S2_8.0 "wikilink")             | 2015年     | 8" Super AMOLED 1536 x 2048                                                            |
+| [三星Galaxy Tab S2 9.7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S2_9.7 "wikilink")       | 2015年     | 9.7" Super AMOLED 1536 x 2048                                                          |
+| [Samsung Galaxy Tab S3 9.7](https://zh.wikipedia.org/wiki/Samsung_Galaxy_Tab_S3_9.7 "wikilink") | 2017年2月   | 9.7" Super AMOLED1536x2048                                                             |
+| [三星Galaxy Tab S4](../Page/Samsung_Galaxy_Tab_S4.md "wikilink")                                  | 2018年8月   | 10.5" Super AMOLED 1660 x 2560                                                         |
+| [三星Galaxy Tab S5e](https://zh.wikipedia.org/wiki/三星Galaxy_Tab_S5e "wikilink")                   | 2019年     | 10.5 "Super AMOLED 1660 x 2560                                                         |
 
 ### 其他
 
@@ -1648,10 +1649,10 @@ S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三�
 <td><p>SM-G950F[117](S8)</p></td>
 <td><p>802.11a/b/i/g/n/r/ac, Hotspot, Dualband, Wi-Fi Direct</p></td>
 <td><p>Bluetooth 5.0</p></td>
+<td><p>No</p></td>
 <td><p>不適用</p></td>
 <td><p>Yes</p></td>
 <td><p>8 MP</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1745,11 +1746,11 @@ S系列**是由[三星電子旗下的](../Page/三星電子.md "wikilink")[三�
 <td><p>Yes</p></td>
 <td><p>802.11a/b/i/g/n/r/ac/ax, Hotspot, Dualband, Wi-Fi Direct</p></td>
 <td><p>Yes</p></td>
-<td><p>Yes</p></td>
 <td><p>未知</p></td>
 <td><p>Yes</p></td>
 <td><p>No</p></td>
 <td><p>10MP</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>

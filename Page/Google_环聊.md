@@ -24,7 +24,7 @@ Chat和Hangouts Meet继续使用。\[3\]\[4\]
 
 ## 外部链接
 
-  - [Google Hangouts官方网站](http://www.google.com/hangouts/)
+  - [Google Hangouts](https://hangouts.google.com/)
 
 [Category:2013年软件](https://zh.wikipedia.org/wiki/Category:2013年软件 "wikilink")
 [Category:即时通讯软件](https://zh.wikipedia.org/wiki/Category:即时通讯软件 "wikilink")

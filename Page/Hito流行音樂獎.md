@@ -191,7 +191,7 @@ HITO流行音樂獎頒獎典禮每年會選出各3首在臺灣非常熱門且有
 
   - [Hitoradio‧Hit Fm --華人音樂入口指標](http://www.hitoradio.com)
 
-[Category:中文流行歌曲](https://zh.wikipedia.org/wiki/Category:中文流行歌曲 "wikilink")
+[Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink")
 [Category:音樂獎項](https://zh.wikipedia.org/wiki/Category:音樂獎項 "wikilink")
 [Category:台灣音樂](https://zh.wikipedia.org/wiki/Category:台灣音樂 "wikilink")
 [Category:電台](https://zh.wikipedia.org/wiki/Category:電台 "wikilink")

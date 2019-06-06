@@ -1,5 +1,5 @@
 《**My Road, My
-Journey**》（，[罗马字](https://zh.wikipedia.org/wiki/平文式罗马字 "wikilink")：）是[FC游戏](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")《[勇者斗恶龙II
+Journey**》（，[罗马字](../Page/平文式罗马字.md "wikilink")：）是[FC游戏](https://zh.wikipedia.org/wiki/FC游戏机 "wikilink")《[勇者斗恶龙II
 恶灵的众神](../Page/勇者斗恶龙II_恶灵的众神.md "wikilink")》的结尾曲\[1\]。歌曲由[藤公之介作词](https://zh.wikipedia.org/wiki/藤公之介 "wikilink")，[椙山浩一作曲](../Page/椙山浩一.md "wikilink")\[2\]。歌曲是日本[自民党](../Page/自由民主党_\(日本\).md "wikilink")[众议院议员](https://zh.wikipedia.org/wiki/日本眾議院 "wikilink")[爱知和男作為歌手的出道歌曲](https://zh.wikipedia.org/wiki/爱知和男 "wikilink")\[3\]。歌曲也是动画版《[勇者斗恶龙
 达伊的大冒险](https://zh.wikipedia.org/wiki/勇者斗恶龙_达伊的大冒险 "wikilink")》的片尾曲，该版本由[团时朗演唱](https://zh.wikipedia.org/wiki/团时朗 "wikilink")\[4\]。歌曲其他版本还有日本女偶像二人组鲁拉的版本。歌曲的开头和椙山浩一所做的音乐《出会い》（[菅原保德](https://zh.wikipedia.org/wiki/菅原保德 "wikilink")
 唱）完全一样。歌曲也收錄于《勇者斗恶龙II》的派生游戏《[勇者斗恶龙

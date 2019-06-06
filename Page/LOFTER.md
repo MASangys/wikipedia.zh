@@ -4,6 +4,10 @@
 
 2007年，[Tumblr创立后](https://zh.wikipedia.org/wiki/Tumblr "wikilink")，[轻博客开始逐渐流行](../Page/轻博客.md "wikilink")。2011年8月，LOFTER上线。\[1\]2011年12月，LOFTER开放注册。\[2\]
 
+## 历史
+
+2019年5月24日，LOFTER二次元创作排行榜单中的CP排行被从榜单中移除。
+
 ## 特色
 
 LOFTER官方介绍页面宣称其为“简单随性的记录工具，凝聚精华的创作平台”。\[3\]

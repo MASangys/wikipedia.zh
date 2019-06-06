@@ -53,7 +53,7 @@
 <td><p>107</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/NTV7" title="wikilink">NTV7</a></p></td>
 <td><p>2002年4月7日</p></td>
-<td><p>首要媒体旗下的英语频道，也播出韩国节目，华语新闻和韩国电视剧。</p></td>
+<td><p>首要媒体旗下的英语频道，也播出韩国节目，华语新闻和韩国电视剧和英语节目</p></td>
 </tr>
 <tr class="even">
 <td><p>108<sub>HD</sub></p></td>
@@ -1206,6 +1206,9 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
   - TV Okey HD
   - TV Alhijrah HD
   - Bernama News Channel (BNC) HD
+
+**此平台将会跟随MYTV广播**
+
   - ACTV
   - ACTV 2
   - ACTV 3
@@ -1213,7 +1216,6 @@ Fox Action Movies 為追求刺激的觀眾提供日以繼夜無間斷的狂飆�
   - NAM TV
   - Syiok TV
   - Caya TV
-  - Channel W HD
   - RTM BES HD
   - RTM HD Sports
 

@@ -79,8 +79,9 @@ element）组成，资源片是1个子载波（频域）并且持续一个时隙
 
 ## 外部連結
 
-  - [LTE homepage](http://www.3gpp.org/article/lte) from the 3GPP
-    website
+  - [LTE
+    homepage](https://web.archive.org/web/20081207052302/http://www.3gpp.org/article/lte)
+    from the 3GPP website
   - [LTE A-Z
     Description](http://sites.google.com/site/lteencyclopedia/home) 3GPP
     LTE Encyclopedia

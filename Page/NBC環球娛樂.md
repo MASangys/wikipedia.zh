@@ -72,8 +72,7 @@ USA仍是電通子公司，但因不堪虧損而淡出業界。
     (2015年〜)
   - [KOTOKO](https://zh.wikipedia.org/wiki/KOTOKO "wikilink")
     (2004年〜2010年、2018年〜)（2011年8月1日於[I've畢業](../Page/I've.md "wikilink")）
-  - [山崎はるか](https://zh.wikipedia.org/wiki/山崎はるか "wikilink")
-    (2011年〜2013年、2018年〜)
+  - [山崎遙](../Page/山崎遙.md "wikilink") (2011年〜2013年、2018年〜)
   - [飯田里穂](https://zh.wikipedia.org/wiki/飯田里穂 "wikilink") (2018年〜)
 
 <!-- end list -->

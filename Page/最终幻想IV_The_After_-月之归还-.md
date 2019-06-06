@@ -190,8 +190,7 @@ Years》或《[任天堂力量](../Page/任天堂力量.md "wikilink")》的年�
 
 3.
 
-4.  [Final Fantasy 4: The After Years coming to iOS, Android this winter
-    \[Update](http://www.joystiq.com/2013/09/27/final-fantasy-4-the-after-years-coming-to-ios-android-this-win/)\]
+4.
 
 5.
 6.  V-Jump Magazine, February 2008 Issue

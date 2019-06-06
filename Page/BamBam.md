@@ -80,6 +80,10 @@ FEATHER」。
   - 2019年 泰國Workpoint TV《The Flash Quiz》
   - 2019年
     [SBS](../Page/SBS_\(韓國\).md "wikilink")《[傳說中的大魚](../Page/傳說中的大魚.md "wikilink")》EP.2－3（2019年4月12、19日）
+  - 2019年
+    [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[傻瓜們的監獄生活](../Page/傻瓜們的監獄生活.md "wikilink")》EP.9－10（2019年5月11、18日），與Mark
+  - 2019年
+    [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》（2019年5月20日），與有謙
 
 ### 主持
 
@@ -124,10 +128,12 @@ FEATHER」。
   - 2018-19年 泰國 RESTIER 樂睡恬寢具
   - 2018-19年 泰國 [AIS通信](../Page/AIS通信.md "wikilink") NEXT G
   - 2018-19年 泰國 [Shopee 蝦皮購物](../Page/蝦皮購物.md "wikilink")
-  - 2018-19年 泰國 [Lee牛仔褲](../Page/Lee.md "wikilink") LEExBAMBAM 服裝聯名款
+  - 2018-19年 泰國 [Lee 牛仔褲](../Page/Lee.md "wikilink") LEExBAMBAM 服裝聯名款
   - 2018-19年 泰國
     [UNICEF聯合國兒童基金會](https://zh.wikipedia.org/wiki/聯合國兒童基金會 "wikilink")
     親善大使
+  - 2019年 泰國 [Calbee](https://zh.wikipedia.org/wiki/卡樂比 "wikilink") Jaxx
+    沾醬薯條
 
 ## 見面會
 
@@ -162,15 +168,13 @@ FEATHER」。
   -
   -
 [Category:GOT7成員](https://zh.wikipedia.org/wiki/Category:GOT7成員 "wikilink")
-[Category:泰國人](https://zh.wikipedia.org/wiki/Category:泰國人 "wikilink")
+[Category:泰國男歌手](https://zh.wikipedia.org/wiki/Category:泰國男歌手 "wikilink")
 [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
-[Category:1997年出生](https://zh.wikipedia.org/wiki/Category:1997年出生 "wikilink")
 [Category:在韓國的泰國人](https://zh.wikipedia.org/wiki/Category:在韓國的泰國人 "wikilink")
-[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 
 1.  [【더★프로필】 갓세븐(GOT7) 영재-뱀뱀-유겸, 동생라인의 평소
     패션스타일은?](http://thestar.chosun.com/site/data/html_dir/2014/02/25/2014022502855.html)
-    The Star. 2014-02-27
+     The Star. 2014-02-27
 2.
 3.  〈BANG BANG BAM BAM〉泰國《ELLE MEN》雜誌2016年5月號 Vol.3 No.31.
     \[2016-05-03\]

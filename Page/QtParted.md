@@ -7,7 +7,7 @@ Parted作為後端](../Page/GNU_Parted.md "wikilink")，並以[Qt作為前端](.
 QtParted開發團隊並不直接提供使用QtParted的[LiveCD](https://zh.wikipedia.org/wiki/LiveCD "wikilink")。但被包含在[Ark
 Linux的](https://zh.wikipedia.org/wiki/Ark_Linux "wikilink")[Live
 CD裡](../Page/Live_CD.md "wikilink")（[Ark
-Linux開發團隊目前仍繼續維護QtParted](https://zh.wikipedia.org/wiki/Ark_Linux "wikilink")），以下的發行版也包含了QtParted：[Knoppix](https://zh.wikipedia.org/wiki/Knoppix "wikilink")、[Kubuntu](../Page/Kubuntu.md "wikilink")、[MEPIS](https://zh.wikipedia.org/wiki/MEPIS "wikilink")、、.
+Linux開發團隊目前仍繼續維護QtParted](https://zh.wikipedia.org/wiki/Ark_Linux "wikilink")），以下的發行版也包含了QtParted：[Knoppix](../Page/Knoppix.md "wikilink")、[Kubuntu](../Page/Kubuntu.md "wikilink")、[MEPIS](https://zh.wikipedia.org/wiki/MEPIS "wikilink")、、.
 
 [KDE Partition
 Manager在](../Page/KDE_Partition_Manager.md "wikilink")2005年後取代了QtParted。

@@ -571,7 +571,7 @@ Digital公司還慎重派人來臺進行技術上的交流](https://zh.wikipedia
 此片內容為中華地區少數正面描述日本時代的電影，與長期以來「殖民地社會必然是悲慘的」印象大相逕庭；又臺灣社會在[藍](../Page/泛藍.md "wikilink")[綠](../Page/泛綠.md "wikilink")、[國家認同和](https://zh.wikipedia.org/wiki/國家認同 "wikilink")[統](https://zh.wikipedia.org/wiki/中國統一 "wikilink")[獨問題上的對立](https://zh.wikipedia.org/wiki/台灣獨立 "wikilink")、以及[華語地區對日本的複雜情感影響對此一時期形成的兩極評價](https://zh.wikipedia.org/wiki/華語地區 "wikilink")，故上映前後引起一定程度的爭論。
 
   - 在上映前有[統派立場學者批評此電影為媚日](../Page/統派.md "wikilink")，比喻為日人拍的《[莎韻之鐘](../Page/莎韻之鐘.md "wikilink")》\[56\]。
-  - 不意外的，在上映日，由[新黨青年軍組成的](../Page/新黨.md "wikilink")「抗獨史陣線」也在電影上映前號召[王炳忠](../Page/王炳忠.md "wikilink")、[侯漢廷等](../Page/侯漢廷.md "wikilink")7位學生到[西門町召開記者會](../Page/西門町.md "wikilink")，公開批評魏德聖，呼籲民眾拒看，魏德聖則希望他們先看過電影\[57\]。
+  - 不意外且不理性的，在上映日，由[新黨青年軍組成的](../Page/新黨.md "wikilink")「抗獨史陣線」也在電影上映前號召[王炳忠](../Page/王炳忠.md "wikilink")、[侯漢廷等](../Page/侯漢廷.md "wikilink")7位學生到[西門町召開記者會](../Page/西門町.md "wikilink")，公開批評魏德聖，呼籲民眾拒看，魏德聖則希望他們先看過電影\[57\]。
   - 上映後，也有一位網友於[PTT上批評](https://zh.wikipedia.org/wiki/PTT "wikilink")《KANO》是魏德聖皇民三部曲最終篇\[58\]。眼尖網友追尋IP位址，發現竟是從「行政院研考會」發出。網友發現，公務員上班時間卻跑來PO文，諷刺說：「連上班時間都有行政院的IP搶PO文」\[59\]。
   - 有投書人自稱是[雲林](https://zh.wikipedia.org/wiki/雲林 "wikilink")[口湖鄉水產業者的反對意見在聯合報與中國時報一稿多投](https://zh.wikipedia.org/wiki/口湖鄉 "wikilink")\[60\]，部分網友對這投書事質疑，因投稿人提及在微雨中走路回家，而當地最近的電影院距離口湖鄉達30公里，以及自電影上映以來雲嘉地區到3月11日才下雨，開玩笑說出投書人腳力很好、可能來自未來\[61\]。另有人懷疑該文出自[文化部長](https://zh.wikipedia.org/wiki/中華民國文化部 "wikilink")[龍應台之手](../Page/龍應台.md "wikilink")，但龍氏本人否認\[62\]。之後，中時電子報網站撤除該篇文章，實際情況不明。
 

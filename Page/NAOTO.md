@@ -104,7 +104,7 @@ BOYZ](https://zh.wikipedia.org/wiki/HONEST_BOYZ "wikilink")\[6\]。
     ）
   - [富士通](../Page/富士通.md "wikilink")「[ARROWS](https://zh.wikipedia.org/wiki/ARROWS "wikilink")」（2012年11月
     - ）
-  - [軟銀](https://zh.wikipedia.org/wiki/軟銀 "wikilink")「スポナビライブ」（2016年 - ）
+  - [軟銀](../Page/軟銀.md "wikilink")「スポナビライブ」（2016年 - ）
 
 ### 音樂錄影帶
 

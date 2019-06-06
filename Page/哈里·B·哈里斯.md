@@ -21,7 +21,7 @@
 
 2015年5月29日，哈里斯正式担任[太平洋司令部司令](https://zh.wikipedia.org/wiki/太平洋司令部 "wikilink")。在任时多次对朝鲜施加压力，希望借此能促进朝鲜半岛无核化。\[7\]\[8\]\[9\]
 
-2018年2月9日，美國總統[特朗普提名他出任駐澳大利亞大使](https://zh.wikipedia.org/wiki/特朗普 "wikilink")。\[10\]
+2018年2月9日，美國總統[特朗普提名他出任駐澳大利亞大使](https://zh.wikipedia.org/wiki/唐納德·川普 "wikilink")。\[10\]
 
 2018年5月18日，[美國總統](https://zh.wikipedia.org/wiki/美國總統 "wikilink")[唐納·川普改提名他為](../Page/唐納·川普.md "wikilink")[美國駐韓大使](https://zh.wikipedia.org/wiki/美國駐韓大使 "wikilink")。\[11\]\[12\]
 

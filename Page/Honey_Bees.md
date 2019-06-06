@@ -54,7 +54,10 @@ Bees到廣州正佳劇場進行一年一度的大匯演。同年10月27-29日，
 Bees到雲頂表演。
 
 2018年家燕媽媽帶領Honey Bees與Super
-Boys到TVB電視台拍攝[流行經典50年第](https://zh.wikipedia.org/wiki/流行經典50年 "wikilink")26集，跳唱信者得愛。
+Boys到TVB電視台拍攝[流行經典50年第](../Page/流行經典50年.md "wikilink")26集，跳唱信者得愛。同年12月4,5日家燕媽媽帶領Honey
+Bess在紅磡體育館進行薛家燕愛你無限60年演唱會。
+
+2019年2月家燕媽媽帶領Honey Bees與Super Boys上郵輪表演。
 
 ## 唱片資料
 
@@ -129,15 +132,11 @@ Boys到TVB電視台拍攝[流行經典50年第](https://zh.wikipedia.org/wiki/�
 
   - [FACEBOOK HONEY
     BEES群組](http://www.facebook.com/sandy.lee.7547?ref=ts&fref=ts#!/groups/honeybeesfans/)
-
   - [FACEBOOK 家燕媽媽藝術中心專頁](http://www.facebook.com/motherhk)
 
-  -
 [Category:香港女子演唱團體](https://zh.wikipedia.org/wiki/Category:香港女子演唱團體 "wikilink")
 [Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
 [Category:2011年香港建立](https://zh.wikipedia.org/wiki/Category:2011年香港建立 "wikilink")
-[Category:香港前兒童演員](https://zh.wikipedia.org/wiki/Category:香港前兒童演員 "wikilink")
-[Category:無綫電視女藝員](https://zh.wikipedia.org/wiki/Category:無綫電視女藝員 "wikilink")
 
 1.  [薛家燕帶Honey Bees赴新演唱| 中國報](http://www.chinapress.com.my/node/619366)
 2.  [CLC莊錠欣Elkie畢業後　新Honey

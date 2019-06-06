@@ -4,7 +4,7 @@ Hub**（**FCH**），是[超微半導體推出的主機板](https://zh.wikipedia
 
 ## 技術概覽
 
-以往的晶片組中，高速匯流排控制位於[北橋晶片](https://zh.wikipedia.org/wiki/北橋 "wikilink")，整合式[顯示核心為降低延時](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，也會整合於北橋晶片上；而低速匯流排控制、時脈信號控制以及連接BIOS則由[南橋晶片負責](https://zh.wikipedia.org/wiki/南橋 "wikilink")。AMD在APU處理器晶片上，除了以往的[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")、新加入的整合顯示核心以外，更整合北橋晶片上大部分的功能（如[PCI-E控制器等](https://zh.wikipedia.org/wiki/PCI-E "wikilink")），相當於由中央處理器接管控制所有高速匯流排。而餘下的南橋晶片仍舊負責較低速的外圍匯流排、BIOS溝通等功能，不過某些型號上仍然有通道數較少的PCIe匯流排控制器。AMD將AMD
+以往的晶片組中，高速匯流排控制位於[北橋晶片](https://zh.wikipedia.org/wiki/北橋 "wikilink")，整合式[顯示核心為降低延時](https://zh.wikipedia.org/wiki/顯示核心 "wikilink")，也會整合於北橋晶片上；而低速匯流排控制、時脈信號控制以及連接BIOS則由[南橋晶片負責](https://zh.wikipedia.org/wiki/南橋 "wikilink")。AMD在APU處理器晶片上，除了以往的[記憶體控制器](https://zh.wikipedia.org/wiki/記憶體控制器 "wikilink")、新加入的整合顯示核心以外，更整合北橋晶片上大部分的功能（如高速[PCI-E控制器等](https://zh.wikipedia.org/wiki/PCI-E "wikilink")），相當於由中央處理器接管控制所有高速匯流排。而餘下的南橋晶片仍舊負責較低速的外圍匯流排、BIOS溝通等功能，不過某些型號上仍然有通道數較少的PCIe匯流排控制器。AMD將AMD
 APU平台上餘下的這個「南橋」稱為Fusion Controller
 Hub（FCH），類似於[英特爾的Platform](https://zh.wikipedia.org/wiki/英特爾 "wikilink")
 Controller Hub（PCH，平台路徑控制器）。\[1\]\[2\]

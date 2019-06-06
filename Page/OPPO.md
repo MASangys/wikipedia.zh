@@ -90,6 +90,9 @@ X](../Page/OPPO_Find_X.md "wikilink")，稱為「未來旗艦」。
 R17](https://zh.wikipedia.org/wiki/OPPO_R17_/_R17_Pro "wikilink")、[OPPO
 R17 Pro](https://zh.wikipedia.org/wiki/OPPO_R17_/_R17_Pro "wikilink")。
 
+2019年4月，OPPO發布智慧型手機[OPPO Reno](../Page/OPPO_Reno.md "wikilink")、[OPPO
+Reno 10倍變焦版](../Page/OPPO_Reno.md "wikilink")
+
 ## 產品列表
 
 ### Find系列
@@ -311,6 +314,7 @@ OPPO在特定市場為其手機邀請明星代言人，擴大產品與品牌知�
 
   - [田馥甄 (Hebe)](../Page/田馥甄.md "wikilink") (包括 馬來西亞 市場）
   - [蕭敬騰 (Jam Hsiao)](../Page/蕭敬騰.md "wikilink")
+  - [吳慷仁](../Page/吳慷仁.md "wikilink")
 
 **馬來西亞**
 

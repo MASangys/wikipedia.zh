@@ -216,7 +216,7 @@ Vicky和Zinnie開始參與廣播節目及其他綜藝節目；Zinnie之後前往
     。
 4.
 5.
-6.  [韓星通過移動服務公開自慰裸照引風波](http://entertainment.big5.anhuinews.com/system/2004/05/12/000641905.shtml)
+6.
 7.
 8.
 9.

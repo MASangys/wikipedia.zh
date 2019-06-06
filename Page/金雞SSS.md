@@ -185,6 +185,7 @@
 [Category:香港電影金像獎最佳女配角獲獎電影](https://zh.wikipedia.org/wiki/Category:香港電影金像獎最佳女配角獲獎電影 "wikilink")
 [Category:卖淫题材电影](https://zh.wikipedia.org/wiki/Category:卖淫题材电影 "wikilink")
 [Category:香港賀歲片](https://zh.wikipedia.org/wiki/Category:香港賀歲片 "wikilink")
+[Category:2014年香港電影](https://zh.wikipedia.org/wiki/Category:2014年香港電影 "wikilink")
 
 1.
 

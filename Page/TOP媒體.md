@@ -64,14 +64,17 @@ TOP](https://zh.wikipedia.org/wiki/TEEN_TOP "wikilink")、
 
   - [申藝燦](https://zh.wikipedia.org/wiki/申藝燦 "wikilink")（[Under
     Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")
-    參賽者）
-  - [方俊赫](https://zh.wikipedia.org/wiki/方俊赫 "wikilink")（[Under
-    Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")
-    參賽者）
-  - [宋旼宰](https://zh.wikipedia.org/wiki/宋旼宰 "wikilink")（[The
-    Fan](https://zh.wikipedia.org/wiki/The_Fan "wikilink") 參賽者）
-  - [盧輝俊](https://zh.wikipedia.org/wiki/盧輝俊 "wikilink")（[The
-    Fan](https://zh.wikipedia.org/wiki/The_Fan "wikilink") 參賽者）
+    參賽者、[1THE9成員](https://zh.wikipedia.org/wiki/1THE9 "wikilink")）
+  - [MCND成員](https://zh.wikipedia.org/wiki/MCND "wikilink")：
+      - WIN，[方俊赫](https://zh.wikipedia.org/wiki/方俊赫 "wikilink")（[Under
+        Nineteen](https://zh.wikipedia.org/wiki/Under_Nineteen "wikilink")
+        參賽者）
+      - MINJAE，[宋旼宰](https://zh.wikipedia.org/wiki/宋旼宰 "wikilink")（[The
+        Fan](https://zh.wikipedia.org/wiki/The_Fan "wikilink") 參賽者）
+      - HUIJUN，[盧輝俊](https://zh.wikipedia.org/wiki/盧輝俊 "wikilink")（[The
+        Fan](https://zh.wikipedia.org/wiki/The_Fan "wikilink") 參賽者）
+      - CASTLE J
+      - BIC
 
 ## 過去旗下藝人
 

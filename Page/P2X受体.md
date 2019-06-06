@@ -32,7 +32,7 @@
   - [Ivar von Kügelgen: Pharmacology of mammalian P2X- and
     P2Y-receptors, BIOTREND Reviews No. 03, September 2008,© 2008
     BIOTREND Chemicals
-    AG](http://www.biotrend.com/download/NetBTReview3-9-2008.pdf)
+    AG](https://web.archive.org/web/20090521020834/http://www.biotrend.com/download/NetBTReview3-9-2008.pdf)
   - [Ligand-gated ion channel Database (European Bioinformatics
     Institute)](http://www.ebi.ac.uk/compneur-srv/LGICdb/LGICdb.php)
 

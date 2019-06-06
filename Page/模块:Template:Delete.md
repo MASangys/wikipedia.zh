@@ -150,11 +150,10 @@ function z.input( frame )
 `               else`
 `                   imgtitle = nil`
 `               end`
-`               if imgtitle and imgtitle.exists then`
-`                   table.insert( pretext, '`[`'_.._imgtitle.text_.._'`](https://zh.wikipedia.org/wiki/File:'_.._imgtitle.text_.._' "fig:'_.._imgtitle.text_.._'")`' )`
-`                   deletesuffix = '：`[`File:'``   ``..``
+`               if imgtitle then`
+`                   deletesuffix = '：`[`:File:'``   ``..``
  ``imgtitle.text``   ``..``
- ``'`](https://zh.wikipedia.org/wiki/File:'_.._imgtitle.text_.._' "fig:File:' .. imgtitle.text .. '")`'`
+ ``'`](https://zh.wikipedia.org/wiki/:File:'_.._imgtitle.text_.._' "wikilink")`'`
 `               else`
 `                   if check then`
 `                       rowsuffix2 = '`
@@ -174,7 +173,11 @@ function z.input( frame )
 `               end`
 `               rowsuffix = args.cat or args.cate or args.category or ( '[[Category:快速删除候选|' .. ( item[7] or '速' ) .. ']]' )`
 `           end`
-`           row = '* `<strong><span id="speedy-delete-' .. item[1] .. '" title="' .. extractShortDesc( item ) .. '">`' .. item[3] .. '（[[WP:CSD#'_.._item[1]_.._'|CSD ' .. item[1] .. ']]）' .. rowsuffix .. rowsuffix2 .. '`</span></strong>`'`
+`           if deletesuffix then`
+`            row = '* `<strong><span id="speedy-delete-' .. item[1] .. '" title="' .. extractShortDesc( item ) .. '">`' .. item[3] .. '（[[WP:CSD#'_.._item[1]_.._'|CSD ' .. item[1] .. ']]' .. deletesuffix .. '）' ..  rowsuffix .. rowsuffix2 .. '`</span></strong>`'`
+`           else`
+`            row = '* `<strong><span id="speedy-delete-' .. item[1] .. '" title="' .. extractShortDesc( item ) .. '">`' .. item[3] .. '（[[WP:CSD#'_.._item[1]_.._'|CSD ' .. item[1] .. ']]）' .. rowsuffix .. rowsuffix2 .. '`</span></strong>`'`
+`           end`
 `           table.insert( rows, row )`
 `       elseif arg and mw.text.trim( arg ) ~= '' then`
 `           if frame.args.reasoncode then`

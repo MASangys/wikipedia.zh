@@ -117,7 +117,7 @@ LMS公司曾因為自認為實力不足，因而提議讓盟約者坦克使用�
 16. [Website of the Royal New South Wales Lancers Lancer Barracks and
     Museum - Covenanter
     Bridgelayer](http://www.lancers.org.au/site/Covanter_Bridgelayer.asp)
-    Retrieved August 2013
+     Retrieved August 2013
 
 17.
 

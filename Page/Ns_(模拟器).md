@@ -134,7 +134,7 @@ ns-3被分为24个[模块](https://zh.wikipedia.org/wiki/模块_\(程序设计\)
 1.
 2.
 3.
-4.  <http://www.nsnam.org/overview/publications/>
+4.
 5.  <http://ee.lbl.gov/ns/>
 6.  Sandeep Bajaj, Lee Breslau, Deborah Estrin, Kevin Fall, Sally Floyd,
     Padma Haldar, Mark Handley, Ahmed Helmy, John Heidemann, Polly

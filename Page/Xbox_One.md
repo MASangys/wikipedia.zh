@@ -102,8 +102,11 @@ One觀看電視。另外，Xbox One還支援[Skype線上語音交談功能](../P
 ### Xbox One S
 
 Xbox One S取消了外置电源變壓器改用内置电源，尺寸大幅缩小了40%并可以竖放，支持[Ultra
-HD藍光视频输出和HDR模式](../Page/超高清蓝光光碟.md "wikilink")，GPU主频提升了约7%。為第一款支援Ultra
-HD藍光的遊戲機；微軟即日起宣布將於2019年5月8日發售無光碟、全數位版Xbox One S主機。\[13\]
+HD藍光视频输出和HDR模式](../Page/超高清蓝光光碟.md "wikilink")，GPU主频提升了约7%，為第一款支援Ultra
+HD藍光的遊戲機。
+
+2019年4月17日，微軟在inside Xbox直播節目中宣布將推出無光碟、全數位版Xbox One
+S主機\[13\]，並於同年5月8日正式發行。
 
 ### Xbox One X
 

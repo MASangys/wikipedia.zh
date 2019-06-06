@@ -1078,7 +1078,8 @@ LACA-35561<br />
 [Category:搖滾樂團](https://zh.wikipedia.org/wiki/Category:搖滾樂團 "wikilink")
 [Category:Lantis旗下歌手](https://zh.wikipedia.org/wiki/Category:Lantis旗下歌手 "wikilink")
 
-1.  [『OLDCODEX』 09版與10版](http://blog.163.com/aroma_maniac/blog/static/2049221302012817111423720)．2012年8月27日
+1.  [『OLDCODEX』 09版與10版](http://blog.163.com/aroma_maniac/blog/static/2049221302012817111423720)
+    ．2012年8月27日
 2.  [OLDCODEXから大切なお知らせ](https://www.oldcodex.com/news_all/other/121015.html)・2012年10月15日
 3.  [Ta_2からみなさまへ](https://www.oldcodex.com/news_all/other/121015-3.html)・2012年10月15日
 4.  [YORKE.からみなさまへ](https://www.oldcodex.com/news_all/other/121015-2.html)・2012年10月15日

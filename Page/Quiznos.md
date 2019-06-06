@@ -1,6 +1,7 @@
 **QIP Holder
-LLC**（營業品牌名稱：**Quiznos**）是一間[加盟連鎖的](../Page/加盟連鎖.md "wikilink")[速食餐廳](https://zh.wikipedia.org/wiki/速食餐廳 "wikilink")，總部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[科羅拉多州](../Page/科羅拉多州.md "wikilink")[丹佛](../Page/丹佛.md "wikilink")，以提供烘烤過的[潛艇三明治為主](../Page/潛艇三明治.md "wikilink")。餐廳在1981年由吉米·蘭巴托（Jimmy
-Lambatos）創立，並於1991年時賣給瑞克（Rick）和理查·夏登（Richard
+LLC**（營業品牌名稱：**Quiznos**）是一間[加盟連鎖的](../Page/加盟連鎖.md "wikilink")[速食餐廳](https://zh.wikipedia.org/wiki/速食餐廳 "wikilink")，總部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[科羅拉多州](../Page/科羅拉多州.md "wikilink")[丹佛](../Page/丹佛.md "wikilink")，以提供烘烤過的[潛艇三明治為主](../Page/潛艇三明治.md "wikilink")。
+
+餐廳在1981年由吉米·蘭巴托（Jimmy Lambatos）創立，並於1991年時賣給瑞克（Rick）和理查·夏登（Richard
 Schaden），並成長至近5,000間連鎖分店。而截至2013年底，Quiznos在美國共有約1,500間餐廳，在其他國家則共有約600間分店。Quiznos是北美洲第二大的潛艇三明治連鎖店，僅次於[Subway](https://zh.wikipedia.org/wiki/Subway "wikilink")。
 
 ## 歷史

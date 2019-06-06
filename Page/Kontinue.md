@@ -278,8 +278,7 @@ KKBOX 本地單曲週榜 Top 100
 1.
 2.  [KKBOX 本地專輯周榜](http://www.kkbox.com/hk/tc/index.html)
 
-3.  [HMV Top 40
-    排行榜走勢](http://www.hmv.com.hk/ch/charts/default.asp?subm=chart)
+3.
 
 4.  [hmv HMV 亞洲音樂排行榜](http://hmv.com.hk/ch/charts/asian.asp)
 

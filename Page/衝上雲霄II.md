@@ -432,7 +432,7 @@ Head姐</strong></p></td>
 <td><p><strong>莫文翠</strong></p></td>
 <td><p>機艙服務員<br />
 夏晨家中租客之一<br />
-江　薇之親女兒</p></td>
+江薇之親女兒</p></td>
 <td><p><strong>Tracy</strong></p></td>
 </tr>
 <tr class="even">

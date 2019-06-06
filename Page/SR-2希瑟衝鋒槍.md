@@ -12,7 +12,7 @@ SR-2“希瑟”和其子彈被設計為一件緊湊的武器，可以選用四�
 
 ## 設計細節
 
-與大多數衝鋒槍不同（一般的衝鋒槍利用不同的[反沖作用原理](../Page/反沖作用_\(槍械\).md "wikilink")），SR-2“希瑟”採用了[氣動式操作和](../Page/氣動式_\(槍械\).md "wikilink")[滾轉式](../Page/滾轉式槍機.md "wikilink")[槍機](https://zh.wikipedia.org/wiki/槍機 "wikilink")（通常為[突击步枪和現代](../Page/突击步枪.md "wikilink")[輕机枪所使用](https://zh.wikipedia.org/wiki/輕机枪 "wikilink")）。這種設計當中有一部分是借用[SR-3“旋風”緊湊型突擊步槍](../Page/SR-3旋风突击步枪.md "wikilink")。SR-2“希瑟”的外觀類似於[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")，把20或30發[彈匣插入](../Page/彈匣.md "wikilink")以內，但它即使不使用[包絡式槍機亦可令總長度大幅下降](../Page/包絡式槍機.md "wikilink")，重量分佈更加平衡。機匣的兩側上還具有兩個AK樣式的控制桿：右側的是保險開關，左側的是射擊模式選擇器。位於右側，採用向上折疊式設計，並且被固定到槍機機框，所以會在射擊的過程會隨機框移動。[機匣頂部具有接口用安裝其專用的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[KP
+與大多數衝鋒槍不同（一般的衝鋒槍利用不同的[反沖作用原理](../Page/反沖作用_\(槍械\).md "wikilink")），SR-2“希瑟”採用了[氣動式操作和](../Page/氣動式_\(槍械\).md "wikilink")[轉拴式](../Page/轉拴式槍栓.md "wikilink")[槍栓](https://zh.wikipedia.org/wiki/槍栓 "wikilink")（通常為[突击步枪和現代](../Page/突击步枪.md "wikilink")[輕机枪所使用](https://zh.wikipedia.org/wiki/輕机枪 "wikilink")）。這種設計當中有一部分是借用[SR-3“旋風”緊湊型突擊步槍](../Page/SR-3旋风突击步枪.md "wikilink")。SR-2“希瑟”的外觀類似於[烏茲衝鋒槍](../Page/烏茲衝鋒槍.md "wikilink")，把20或30發[彈匣插入](../Page/彈匣.md "wikilink")以內，但它即使不使用[包絡式槍機亦可令總長度大幅下降](../Page/包絡式槍機.md "wikilink")，重量分佈更加平衡。機匣的兩側上還具有兩個AK樣式的控制桿：右側的是保險開關，左側的是射擊模式選擇器。位於右側，採用向上折疊式設計，並且被固定到槍機機框，所以會在射擊的過程會隨機框移動。[機匣頂部具有接口用安裝其專用的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[KP
 SR-2](https://zh.wikipedia.org/wiki/KP_SR-2紅點鏡 "wikilink")[紅點鏡](../Page/紅點鏡.md "wikilink")（與AK樣式的側式瞄準鏡導軌不同）。該武器具有一個金屬製向上折疊式[槍托](../Page/槍托.md "wikilink")。
 
 修改版本的SR-2M的[護木以下還裝有](https://zh.wikipedia.org/wiki/護木 "wikilink")[前端手槍握把](../Page/輔助握把.md "wikilink")，前握把前方具有一個小型向下凸起的擋塊，可防止在黑暗等情況下使用時手指意外地伸到槍管前方而受傷（類似於[HK

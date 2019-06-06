@@ -25,7 +25,7 @@ U和Windows平台发行\[8\]。2014年7月8日，史克威尔艾尼克斯宣布�
 [Category:大型多人在线角色扮演游戏](https://zh.wikipedia.org/wiki/Category:大型多人在线角色扮演游戏 "wikilink")
 [Category:有资料片的游戏](https://zh.wikipedia.org/wiki/Category:有资料片的游戏 "wikilink")
 [Category:PlayStation_4遊戲](https://zh.wikipedia.org/wiki/Category:PlayStation_4遊戲 "wikilink")
-[Category:盛大游戏](https://zh.wikipedia.org/wiki/Category:盛大游戏 "wikilink")
+[Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink")
 [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
 
 1.

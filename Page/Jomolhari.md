@@ -3,7 +3,7 @@ Fynn创造的[藏文](../Page/藏文.md "wikilink")[有头体电脑字体](https
 
 ## 格式和授权
 
-Jomolhari字体可以在[OpenType格式使用](../Page/OpenType.md "wikilink")[TrueType轮廓](../Page/TrueType.md "wikilink")。根据[SIL开源字体授权的条款发行](../Page/SIL开源字体授权.md "wikilink")。
+Jomolhari字体可以[OpenType格式获取](../Page/OpenType.md "wikilink")，使用[TrueType轮廓](../Page/TrueType.md "wikilink")。根据[SIL开源字体授权的条款发行](../Page/SIL开源字体授权.md "wikilink")。
 
 该字体还可从[Savannah上的](https://zh.wikipedia.org/wiki/GNU_Savannah "wikilink")[Free
 Tibetan Fonts

@@ -51,22 +51,22 @@ Performance**企劃，並加入[NCT成員](../Page/NCT.md "wikilink")[Ten作為�
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/Kai.md" title="wikilink">Kai</a></p></td>
+<td></td>
+<td><p>Kai</p></td>
+<td><p>金鍾仁</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/珉豪.md" title="wikilink">珉豪</a></p></td>
 <td></td>
 <td><p>Minho</p></td>
 <td><p>崔珉豪</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/泰民.md" title="wikilink">泰民</a></p></td>
 <td></td>
 <td><p>Taemin</p></td>
 <td><p>李泰民</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/Kai.md" title="wikilink">Kai</a></p></td>
-<td></td>
-<td><p>Kai</p></td>
-<td><p>金鍾仁</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Ten_(歌手).md" title="wikilink">Ten</a></p></td>

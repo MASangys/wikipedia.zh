@@ -3092,7 +3092,7 @@ Awards**」，是由大田文化產業機構舉辦，頒發給韓國[電視劇�
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">朴炯植</a></p></td>
+<td><p><a href="../Page/朴炯植.md" title="wikilink">朴炯植</a></p></td>
 <td><p>《<a href="../Page/Suits_(韓國電視劇).md" title="wikilink">Suits</a>》</p></td>
 <td></td>
 </tr>

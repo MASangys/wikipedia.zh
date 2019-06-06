@@ -414,8 +414,7 @@ REVOLUTION〜**
 [Category:超級樂團](https://zh.wikipedia.org/wiki/Category:超級樂團 "wikilink")
 
 1.
-2.  [シネマファイターズ / CINEMA
-    FIGHTERS](http://shortshorts.org/2016/cinemafighters)
+2.
 3.
 4.
 5.

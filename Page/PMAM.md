@@ -18,7 +18,7 @@ last_aired =  | channel_1 =
 picture_format_1 = | audio_format_1 = | first_run_1 = |
 first_aired_1 =  | last_aired_1 =  | preceded_by =
 [PM10-AM03](../Page/PM10-AM03.md "wikilink") | followed_by =
-[PMAM之美好偵探社](../Page/PMAM之美好偵探社.md "wikilink") | related = |
+[PMAM之慾望俱樂部](../Page/PMAM之慾望俱樂部.md "wikilink") | related = |
 website = | production_website = }}
 《**PMAM**》，2013年[台灣偶像劇](https://zh.wikipedia.org/wiki/台灣偶像劇 "wikilink")、[中天綜合台迷你](../Page/中天綜合台.md "wikilink")[偶像劇](../Page/偶像劇.md "wikilink")。本劇為[PM10-AM03第二季](../Page/PM10-AM03.md "wikilink")。[野火娛樂製作](https://zh.wikipedia.org/wiki/野火娛樂 "wikilink")。故事主要描述現代年輕人愛跑[夜店](https://zh.wikipedia.org/wiki/夜店 "wikilink")，崇尚[拜金](https://zh.wikipedia.org/wiki/拜金 "wikilink")、[夜生活的故事](../Page/夜生活.md "wikilink")。由[修杰楷](../Page/修杰楷.md "wikilink")、[周定緯](../Page/周定緯.md "wikilink")、[張兆志](../Page/張兆志.md "wikilink")、[陳艾熙](https://zh.wikipedia.org/wiki/陳艾熙 "wikilink")、[大飛](https://zh.wikipedia.org/wiki/吳志慶 "wikilink")、[張景嵐](../Page/張景嵐.md "wikilink")、[方-{志}-友](../Page/方志友.md "wikilink")、[夏語心等主演](../Page/夏語心.md "wikilink")。2013年3月25日開鏡\[1\]，2014年10月20日在[中天綜合台播出](../Page/中天綜合台.md "wikilink")。
 

@@ -1,5 +1,5 @@
 **StayReal**
-是由臺灣地區樂團[五月天主唱](../Page/五月天.md "wikilink")[阿信與臺灣地區知名插畫家](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")[不二良所共同創立的潮流品牌](../Page/不二良.md "wikilink")。2007年成立至今，事業版圖除了臺灣，在中国大陆、香港、東京均有設點，共有20多家門市。\[1\]
+是由臺灣地區樂團[五月天主唱](../Page/五月天.md "wikilink")[阿信與臺灣地區知名插畫家](../Page/陳信宏.md "wikilink")[不二良所共同創立的潮流品牌](../Page/不二良.md "wikilink")。2007年成立至今，事業版圖除了臺灣，在中国大陆、香港、東京均有設點，共有20多家門市。\[1\]
 2011年起開設連鎖品牌咖啡廳「StayReal Café」。\[2\]\[3\]
 2014年由[南韓團體](https://zh.wikipedia.org/wiki/南韓 "wikilink")[FTIsland擔任亞洲區年度代言人](../Page/FTIsland.md "wikilink")，成為第一個以韓團代言的台灣潮流品牌
 \[4\]；2015年則由[CNBLUE擔任](../Page/CNBLUE.md "wikilink")。\[5\]
@@ -15,7 +15,7 @@ Sweat & Tears」的合作品牌，開設複合式咖啡店。\[6\]
 
 ## 設計師
 
-  - [五月天](../Page/五月天.md "wikilink")[阿信](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")
+  - [五月天](../Page/五月天.md "wikilink")[阿信](../Page/陳信宏.md "wikilink")
   - [不二良](../Page/不二良.md "wikilink")
   - Kea
   - NewNew
@@ -147,19 +147,19 @@ Sweat & Tears」的合作品牌，開設複合式咖啡店。\[6\]
   - 高雄漢神巨蛋店
   - 高雄大遠百店
 
-## 參考資料
-
-<references />
-
 ## 演唱會
 
   - 主辦單位：StayReal
   - 協辦單位：[相信音樂](https://zh.wikipedia.org/wiki/相信音樂 "wikilink")、[必應創造](../Page/必應創造.md "wikilink")
 
-| 時間         | 名稱                           | 地點                                                          | 附註                                                                                                                                                                                                                             |
-| ---------- | ---------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 2017年9月3日  | STAYREAL \#在場證明 10週年音樂派對 上海場 | [上海世博展覽館](https://zh.wikipedia.org/wiki/上海世博展覽館 "wikilink") | with [八三夭](../Page/八三夭.md "wikilink")、[鼓鼓](https://zh.wikipedia.org/wiki/鼓鼓 "wikilink")、[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")、[蔡依林](../Page/蔡依林.md "wikilink")、[怪獸](https://zh.wikipedia.org/wiki/怪獸 "wikilink") |
-| 2017年9月29日 | STAYREAL \#在場證明 10週年音樂派對 台北場 | [Legacy Max](../Page/新光三越百貨.md "wikilink")                  | with [八三夭](../Page/八三夭.md "wikilink")、[鼓鼓](https://zh.wikipedia.org/wiki/鼓鼓 "wikilink")、[瑪莎](https://zh.wikipedia.org/wiki/瑪莎 "wikilink")                                                                                      |
+| 時間         | 名稱                           | 地點                                         | 附註                                                                                                                                                                                                                             |
+| ---------- | ---------------------------- | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 2017年9月3日  | STAYREAL \#在場證明 10週年音樂派對 上海場 | 上海世博展覽館                                    | with [八三夭](../Page/八三夭.md "wikilink")、[鼓鼓](https://zh.wikipedia.org/wiki/鼓鼓 "wikilink")、[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")、[蔡依林](../Page/蔡依林.md "wikilink")、[怪獸](https://zh.wikipedia.org/wiki/怪獸 "wikilink") |
+| 2017年9月29日 | STAYREAL \#在場證明 10週年音樂派對 台北場 | [Legacy Max](../Page/新光三越百貨.md "wikilink") | with [八三夭](../Page/八三夭.md "wikilink")、[鼓鼓](https://zh.wikipedia.org/wiki/鼓鼓 "wikilink")、[瑪莎](https://zh.wikipedia.org/wiki/瑪莎 "wikilink")                                                                                      |
+
+## 參考資料
+
+<references />
 
 ## 外部連結
 
@@ -171,7 +171,6 @@ Sweat & Tears」的合作品牌，開設複合式咖啡店。\[6\]
 [Category:2007年成立的公司](https://zh.wikipedia.org/wiki/Category:2007年成立的公司 "wikilink")
 [Category:台灣品牌](https://zh.wikipedia.org/wiki/Category:台灣品牌 "wikilink")
 [Category:台灣服裝品牌](https://zh.wikipedia.org/wiki/Category:台灣服裝品牌 "wikilink")
-[Category:藝人時裝品牌](https://zh.wikipedia.org/wiki/Category:藝人時裝品牌 "wikilink")
 
 1.  [STAYREAL](http://hk.ulifestyle.com.hk/spot/detail.html?id=ABdGDVowBwNZEwNi)
     HK.Ulifestyle.com

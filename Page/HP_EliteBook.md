@@ -248,7 +248,7 @@ w — workstation 工作站</p></td>
   - [HP Business
     Notebooks](http://www.hp.com/sbso/solutions/pc_expertise/professional_innovations/elitebook/index.html)
 
-[Category:Hewlett-Packard_products](https://zh.wikipedia.org/wiki/Category:Hewlett-Packard_products "wikilink")
+[Category:惠普笔记本电脑](https://zh.wikipedia.org/wiki/Category:惠普笔记本电脑 "wikilink")
 
 1.
 2.

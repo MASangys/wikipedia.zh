@@ -54,6 +54,7 @@ Lieury分析的一项调查中显示，在刺激记忆方面，使用纸笔练�
 [Category:任天堂DS独占游戏](https://zh.wikipedia.org/wiki/Category:任天堂DS独占游戏 "wikilink")
 [Category:任天堂DS遊戲](https://zh.wikipedia.org/wiki/Category:任天堂DS遊戲 "wikilink")
 [Category:益智游戏](https://zh.wikipedia.org/wiki/Category:益智游戏 "wikilink")
+[Category:東北大學_(日本)](https://zh.wikipedia.org/wiki/Category:東北大學_\(日本\) "wikilink")
 
 1.
 2.

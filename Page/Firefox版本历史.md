@@ -5,13 +5,11 @@ Firefox發佈紀錄](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")�
 
 ### 正式發佈版本
 
-:\*Firefox 66.0.3
+:\*Firefox 67.0
 
-:\*Firefox 60.6.1 ESR
+:\*Firefox 60.7.0 ESR
 
 ### 未來發佈版本\[1\]
-
-:\*Firefox 67.0
 
 :\*Firefox 68.0
 
@@ -23,13 +21,11 @@ Firefox發佈紀錄](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")�
 
 ### 現行測試版本
 
-:\*Firefox 67.0 Beta
+:\*Firefox 68.0 Beta
 
-:\*Firefox 68.0 Nightly
+:\*Firefox 69.0 Nightly
 
 ### 未來測試版本
-
-:\*Firefox 68.0 Beta
 
 :\*Firefox 69.0 Beta
 
@@ -38,8 +34,6 @@ Firefox發佈紀錄](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")�
 :\*Firefox 71.0 Beta
 
 :\*Firefox 72.0 Beta
-
-:\*Firefox 69.0 Nightly
 
 :\*Firefox 70.0 Nightly
 
@@ -10025,286 +10019,307 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>60.6.2esr</p></td>
+<td><p><em>Firefox 60.6.2esr</em></p></td>
+<td><p>2019年5月5日</p></td>
+<td><p><em>ESR版本穩定性更新</em>[461]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>60.6.3esr</p></td>
+<td><p><em>Firefox 60.6.3esr</em></p></td>
+<td><p>2019年5月8日</p></td>
+<td><p><em>ESR版本穩定性更新</em>[462]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>60.7.0esr</p></td>
+<td><p><em>Firefox 60.7.0esr</em></p></td>
+<td><p>2019年5月21日</p></td>
+<td><p><em>ESR版本安全性更新</em>[463]</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>Firefox 61</strong></p></td>
 <td><p>61.0a1</p></td>
 <td><p><em>Firefox 61.0 Nightly</em></p></td>
 <td><p>2018年3月12日</p></td>
 <td><p><em>第一個Firefox 61.0預覽版</em></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>61.0b3</p></td>
 <td><p><em>Firefox 61.0 Beta 3</em></p></td>
 <td><p>2018年5月9日</p></td>
 <td><p><em>第一個Firefox 61.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>61.0b4</p></td>
 <td><p><em>Firefox 61.0 Beta 4</em></p></td>
 <td><p>2018年5月10日</p></td>
 <td><p><em>第二個Firefox 61.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>61.0b5</p></td>
 <td><p><em>Firefox 61.0 Beta 5</em></p></td>
 <td><p>2018年5月14日</p></td>
 <td><p><em>第三個Firefox 61.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>61.0b6</p></td>
 <td><p><em>Firefox 61.0 Beta 6</em></p></td>
 <td><p>2018年5月17日</p></td>
 <td><p><em>第四個Firefox 61.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>61.0b7</p></td>
 <td><p><em>Firefox 61.0 Beta 7</em></p></td>
 <td><p>2018年5月21日</p></td>
 <td><p><em>第五個Firefox 61.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>61.0b8</p></td>
 <td><p><em>Firefox 61.0 Beta 8</em></p></td>
 <td><p>2018年5月25日</p></td>
 <td><p><em>第六個Firefox 61.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>61.0b9</p></td>
 <td><p><em>Firefox 61.0 Beta 9</em></p></td>
 <td><p>2018年5月28日</p></td>
 <td><p><em>第七個Firefox 61.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>61.0b10</p></td>
 <td><p><em>Firefox 61.0 Beta 10</em></p></td>
 <td><p>2018年5月31日</p></td>
 <td><p><em>第八個Firefox 61.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>61.0b11</p></td>
 <td><p><em>Firefox 61.0 Beta 11</em></p></td>
 <td><p>2018年6月4日</p></td>
 <td><p><em>第九個Firefox 61.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>61.0b12</p></td>
 <td><p><em>Firefox 61.0 Beta 12</em></p></td>
 <td><p>2018年6月7日</p></td>
 <td><p><em>第十個Firefox 61.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>61.0b13</p></td>
 <td><p><em>Firefox 61.0 Beta 13</em></p></td>
 <td><p>2018年6月11日</p></td>
 <td><p><em>第十一個Firefox 61.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>61.0b14</p></td>
 <td><p><em>Firefox 61.0 Beta 14</em></p></td>
 <td><p>2018年6月14日</p></td>
 <td><p><em>第十二個Firefox 61.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>61.0 RC1</p></td>
 <td><p><em>Firefox 61.0 Release Candidate 1</em></p></td>
 <td><p>2018年6月19日</p></td>
 <td><p>''第一個Firefox 61.0候選版</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>61.0 RC2</p></td>
 <td><p><em>Firefox 61.0 Release Candidate 2</em></p></td>
 <td><p>2018年6月20日</p></td>
 <td><p>''第二個Firefox 61.0候選版</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>61.0 RC3</p></td>
 <td><p><em>Firefox 61.0 Release Candidate 3</em></p></td>
 <td><p>2018年6月21日</p></td>
 <td><p>''第三個Firefox 61.0候選版</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>61.0</p></td>
 <td><p><em>Firefox 61.0</em></p></td>
 <td><p>2018年6月26日</p></td>
-<td><p><em>官方版Firefox 61.0釋出</em>[461]</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>61.0.1</p></td>
-<td><p><em>Firefox 61.0.1</em></p></td>
-<td><p>2018年7月5日</p></td>
-<td><p><em>穩定性更新</em>[462]</p></td>
+<td><p><em>官方版Firefox 61.0釋出</em>[464]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>61.0.2</p></td>
-<td><p><em>Firefox 61.0.2</em></p></td>
-<td><p>2018年8月8日</p></td>
-<td><p><em>穩定性更新</em>[463]</p></td>
+<td><p>61.0.1</p></td>
+<td><p><em>Firefox 61.0.1</em></p></td>
+<td><p>2018年7月5日</p></td>
+<td><p><em>穩定性更新</em>[465]</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>61.0.2</p></td>
+<td><p><em>Firefox 61.0.2</em></p></td>
+<td><p>2018年8月8日</p></td>
+<td><p><em>穩定性更新</em>[466]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>Firefox 62</strong></p></td>
 <td><p>62.0a1</p></td>
 <td><p><em>Firefox 62.0 Nightly</em></p></td>
 <td><p>2018年5月7日</p></td>
 <td><p><em>第一個Firefox 62.0預覽版</em></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>62.0b3</p></td>
 <td><p><em>Firefox 62.0 Beta 3</em></p></td>
 <td><p>2018年6月26日</p></td>
 <td><p><em>第一個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>62.0b4</p></td>
 <td><p><em>Firefox 62.0 Beta 4</em></p></td>
 <td><p>2018年6月29日</p></td>
 <td><p><em>第二個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>62.0b5</p></td>
 <td><p><em>Firefox 62.0 Beta 5</em></p></td>
 <td><p>2018年7月3日</p></td>
 <td><p><em>第三個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>62.0b6</p></td>
 <td><p><em>Firefox 62.0 Beta 6</em></p></td>
 <td><p>2018年7月6日</p></td>
 <td><p><em>第四個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>62.0b7</p></td>
 <td><p><em>Firefox 62.0 Beta 7</em></p></td>
 <td><p>2018年7月10日</p></td>
 <td><p><em>第五個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>62.0b8</p></td>
 <td><p><em>Firefox 62.0 Beta 8</em></p></td>
 <td><p>2018年7月12日</p></td>
 <td><p><em>第六個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>62.0b9</p></td>
 <td><p><em>Firefox 62.0 Beta 9</em></p></td>
 <td><p>2018年7月16日</p></td>
 <td><p><em>第七個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>62.0b10</p></td>
 <td><p><em>Firefox 62.0 Beta 10</em></p></td>
 <td><p>2018年7月19日</p></td>
 <td><p><em>第八個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>62.0b11</p></td>
 <td><p><em>Firefox 62.0 Beta 11</em></p></td>
 <td><p>2018年7月23日</p></td>
 <td><p><em>第九個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>62.0b12</p></td>
 <td><p><em>Firefox 62.0 Beta 12</em></p></td>
 <td><p>2018年7月27日</p></td>
 <td><p><em>第十個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>62.0b13</p></td>
 <td><p><em>Firefox 62.0 Beta 13</em></p></td>
 <td><p>2018年7月31日</p></td>
 <td><p><em>第十一個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>62.0b14</p></td>
 <td><p><em>Firefox 62.0 Beta 14</em></p></td>
 <td><p>2018年8月3日</p></td>
 <td><p><em>第十二個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>62.0b15</p></td>
 <td><p><em>Firefox 62.0 Beta 15</em></p></td>
 <td><p>2018年8月7日</p></td>
 <td><p><em>第十三個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>62.0b16</p></td>
 <td><p><em>Firefox 62.0 Beta 16</em></p></td>
 <td><p>2018年8月9日</p></td>
 <td><p><em>第十四個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>62.0b17</p></td>
 <td><p><em>Firefox 62.0 Beta 17</em></p></td>
 <td><p>2018年8月14日</p></td>
 <td><p><em>第十五個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>62.0b18</p></td>
 <td><p><em>Firefox 62.0 Beta 18</em></p></td>
 <td><p>2018年8月17日</p></td>
 <td><p><em>第十六個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>62.0b19</p></td>
 <td><p><em>Firefox 62.0 Beta 19</em></p></td>
 <td><p>2018年8月21日</p></td>
 <td><p><em>第十七個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>62.0b20</p></td>
 <td><p><em>Firefox 62.0 Beta 20</em></p></td>
 <td><p>2018年8月24日</p></td>
 <td><p><em>第十八個Firefox 62.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>62.0 RC1</p></td>
 <td><p><em>Firefox 62.0 Release Candidate 1</em></p></td>
 <td><p>2018年8月27日</p></td>
 <td><p>''第一個Firefox 62.0候選版</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>62.0 RC2</p></td>
 <td><p><em>Firefox 62.0 Release Candidate 2</em></p></td>
 <td><p>2018年8月30日</p></td>
 <td><p>''第二個Firefox 62.0候選版</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>62.0</p></td>
 <td><p><em>Firefox 62.0</em></p></td>
 <td><p>2018年9月5日</p></td>
@@ -10316,697 +10331,753 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 <li>登出 Firefox 账户时询问是否清除同步数据</li>
 <li>Windows 版本支持关机或更新时自动保存浏览会话并在下次启动时恢复</li>
 <li>在汉堡菜单中增加了跟踪保护的开关按钮</li>
-<li>在 macOS 10.14 黑暗模式下自动启用深邃主题。[464][465]</li>
+<li>在 macOS 10.14 黑暗模式下自动启用深邃主题。[467][468]</li>
 </ul></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>62.0.1</p></td>
 <td><p><em>Firefox 62.0.1</em></p></td>
 <td><p>2018年9月7日</p></td>
-<td><p><em>穩定性更新</em>（僅Android版本）[466]</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>62.0.2</p></td>
-<td><p><em>Firefox 62.0.2</em></p></td>
-<td><p>2018年9月21日</p></td>
-<td><p><em>安全性與穩定性更新</em>[467]</p></td>
+<td><p><em>穩定性更新</em>（僅Android版本）[469]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>62.0.3</p></td>
-<td><p><em>Firefox 62.0.3</em></p></td>
-<td><p>2018年10月2日</p></td>
-<td><p><em>安全性與穩定性更新</em>[468]</p></td>
+<td><p>62.0.2</p></td>
+<td><p><em>Firefox 62.0.2</em></p></td>
+<td><p>2018年9月21日</p></td>
+<td><p><em>安全性與穩定性更新</em>[470]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>62.0.3</p></td>
+<td><p><em>Firefox 62.0.3</em></p></td>
+<td><p>2018年10月2日</p></td>
+<td><p><em>安全性與穩定性更新</em>[471]</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>Firefox 63</strong></p></td>
 <td><p>63.0a1</p></td>
 <td><p><em>Firefox 63.0 Nightly</em></p></td>
 <td><p>2018年6月25日</p></td>
 <td><p><em>第一個Firefox 63.0預覽版</em></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>63.0b3</p></td>
 <td><p><em>Firefox 63.0 Beta 3</em></p></td>
 <td><p>2018年9月5日</p></td>
 <td><p><em>第一個Firefox 63.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>63.0b4</p></td>
 <td><p><em>Firefox 63.0 Beta 4</em></p></td>
 <td><p>2018年9月7日</p></td>
 <td><p><em>第二個Firefox 63.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>63.0b5</p></td>
 <td><p><em>Firefox 63.0 Beta 5</em></p></td>
 <td><p>2018年9月11日</p></td>
 <td><p><em>第三個Firefox 63.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>63.0b6</p></td>
 <td><p><em>Firefox 63.0 Beta 6</em></p></td>
 <td><p>2018年9月13日</p></td>
 <td><p><em>第四個Firefox 63.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>63.0b7</p></td>
 <td><p><em>Firefox 63.0 Beta 7</em></p></td>
 <td><p>2018年9月18日</p></td>
 <td><p><em>第五個Firefox 63.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>63.0b8</p></td>
 <td><p><em>Firefox 63.0 Beta 8</em></p></td>
 <td><p>2018年9月21日</p></td>
 <td><p><em>第六個Firefox 63.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>63.0b9</p></td>
 <td><p><em>Firefox 63.0 Beta 9</em></p></td>
 <td><p>2018年9月25日</p></td>
 <td><p><em>第七個Firefox 63.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>63.0b10</p></td>
 <td><p><em>Firefox 63.0 Beta 10</em></p></td>
 <td><p>2018年9月27日</p></td>
 <td><p><em>第八個Firefox 63.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>63.0b11</p></td>
 <td><p><em>Firefox 63.0 Beta 11</em></p></td>
 <td><p>2018年10月1日</p></td>
 <td><p><em>第九個Firefox 63.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>63.0b12</p></td>
 <td><p><em>Firefox 63.0 Beta 12</em></p></td>
 <td><p>2018年10月5日</p></td>
 <td><p><em>第十個Firefox 63.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>63.0b13</p></td>
 <td><p><em>Firefox 63.0 Beta 13</em></p></td>
 <td><p>2018年10月8日</p></td>
 <td><p><em>第十一個Firefox 63.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>63.0b14</p></td>
 <td><p><em>Firefox 63.0 Beta 14</em></p></td>
 <td><p>2018年10月12日</p></td>
 <td><p><em>第十二個Firefox 63.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>63.0 RC1</p></td>
 <td><p><em>Firefox 63.0 Release Candidate 1</em></p></td>
 <td><p>2018年10月15日</p></td>
 <td><p>''第一個Firefox 63.0候選版</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>63.0 RC2</p></td>
 <td><p><em>Firefox 63.0 Release Candidate 2</em></p></td>
 <td><p>2018年10月18日</p></td>
 <td><p>''第二個Firefox 63.0候選版</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>63.0</p></td>
 <td><p><em>Firefox 63.0</em></p></td>
 <td><p>2018年10月23日</p></td>
-<td><p><em>官方版Firefox 63.0釋出</em>[469]</p></td>
+<td><p><em>官方版Firefox 63.0釋出</em>[472]</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>63.0.1</p></td>
 <td><p><em>Firefox 63.0.1</em></p></td>
 <td><p>2018年10月31日</p></td>
-<td><p><em>穩定性更新</em>[470]</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>63.0.2</p></td>
-<td><p><em>Firefox 63.0.2</em></p></td>
-<td><p>2018年11月7日</p></td>
-<td><p><em>穩定性更新</em>（僅Android版本）[471]</p></td>
+<td><p><em>穩定性更新</em>[473]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>63.0.3</p></td>
-<td><p><em>Firefox 63.0.3</em></p></td>
-<td><p>2018年11月15日</p></td>
-<td><p><em>穩定性更新</em>[472]</p></td>
+<td><p>63.0.2</p></td>
+<td><p><em>Firefox 63.0.2</em></p></td>
+<td><p>2018年11月7日</p></td>
+<td><p><em>穩定性更新</em>（僅Android版本）[474]</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>63.0.3</p></td>
+<td><p><em>Firefox 63.0.3</em></p></td>
+<td><p>2018年11月15日</p></td>
+<td><p><em>穩定性更新</em>[475]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>Firefox 64</strong></p></td>
 <td><p>64.0a1</p></td>
 <td><p><em>Firefox 64.0 Nightly</em></p></td>
 <td><p>2018年9月4日</p></td>
 <td><p><em>第一個Firefox 64.0預覽版</em></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>64.0b3</p></td>
 <td><p><em>Firefox 64.0 Beta 3</em></p></td>
 <td><p>2018年10月23日</p></td>
 <td><p><em>第一個Firefox 64.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>64.0b4</p></td>
 <td><p><em>Firefox 64.0 Beta 4</em></p></td>
 <td><p>2018年10月26日</p></td>
 <td><p><em>第二個Firefox 64.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>64.0b5</p></td>
 <td><p><em>Firefox 64.0 Beta 5</em></p></td>
 <td><p>2018年10月29日</p></td>
 <td><p><em>第三個Firefox 64.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>64.0b6</p></td>
 <td><p><em>Firefox 64.0 Beta 6</em></p></td>
 <td><p>2018年11月1日</p></td>
 <td><p><em>第四個Firefox 64.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>64.0b7</p></td>
 <td><p><em>Firefox 64.0 Beta 7</em></p></td>
 <td><p>2018年11月5日</p></td>
 <td><p><em>第五個Firefox 64.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>64.0b8</p></td>
 <td><p><em>Firefox 64.0 Beta 8</em></p></td>
 <td><p>2018年11月8日</p></td>
 <td><p><em>第六個Firefox 64.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>64.0b9</p></td>
 <td><p><em>Firefox 64.0 Beta 9</em></p></td>
 <td><p>2018年11月12日</p></td>
 <td><p><em>第七個Firefox 64.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>64.0b10</p></td>
 <td><p><em>Firefox 64.0 Beta 10</em></p></td>
 <td><p>2018年11月16日</p></td>
 <td><p><em>第八個Firefox 64.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>64.0b11</p></td>
 <td><p><em>Firefox 64.0 Beta 11</em></p></td>
 <td><p>2018年11月20日</p></td>
 <td><p><em>第九個Firefox 64.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>64.0b12</p></td>
 <td><p><em>Firefox 64.0 Beta 12</em></p></td>
 <td><p>2018年11月23日</p></td>
 <td><p><em>第十個Firefox 64.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>64.0b13</p></td>
 <td><p><em>Firefox 64.0 Beta 13</em></p></td>
 <td><p>2018年11月27日</p></td>
 <td><p><em>第十一個Firefox 64.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>64.0b14</p></td>
 <td><p><em>Firefox 64.0 Beta 14</em></p></td>
 <td><p>2018年11月29日</p></td>
 <td><p><em>第十二個Firefox 64.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>64.0 RC1</p></td>
 <td><p><em>Firefox 64.0 Release Candidate 1</em></p></td>
 <td><p>2018年12月4日</p></td>
 <td><p>''第一個Firefox 64.0候選版</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>64.0 RC2</p></td>
 <td><p><em>Firefox 64.0 Release Candidate 2</em></p></td>
 <td><p>2018年12月6日</p></td>
 <td><p>''第二個Firefox 64.0候選版</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>64.0 RC3</p></td>
 <td><p><em>Firefox 64.0 Release Candidate 3</em></p></td>
 <td><p>2018年12月7日</p></td>
 <td><p>''第三個Firefox 64.0候選版</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>64.0</p></td>
 <td><p><em>Firefox 64.0</em></p></td>
 <td><p>2018年12月11日</p></td>
-<td><p><em>官方版Firefox 64.0釋出</em>[473]</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>64.0.1</p></td>
-<td><p><em>Firefox 64.0.1</em></p></td>
-<td><p>2018年12月14日</p></td>
-<td><p><em>穩定性更新</em>（僅Android版本）[474]</p></td>
+<td><p><em>官方版Firefox 64.0釋出</em>[476]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>64.0.2</p></td>
-<td><p><em>Firefox 64.0.2</em></p></td>
-<td><p>2019年1月9日</p></td>
-<td><p><em>穩定性更新</em>[475]</p></td>
+<td><p>64.0.1</p></td>
+<td><p><em>Firefox 64.0.1</em></p></td>
+<td><p>2018年12月14日</p></td>
+<td><p><em>穩定性更新</em>（僅Android版本）[477]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>64.0.2</p></td>
+<td><p><em>Firefox 64.0.2</em></p></td>
+<td><p>2019年1月9日</p></td>
+<td><p><em>穩定性更新</em>[478]</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>Firefox 65</strong></p></td>
 <td><p>65.0a1</p></td>
 <td><p><em>Firefox 65.0 Nightly</em></p></td>
 <td><p>2018年10月22日</p></td>
 <td><p><em>第一個Firefox 65.0預覽版</em></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>65.0b3</p></td>
 <td><p><em>Firefox 65.0 Beta 3</em></p></td>
 <td><p>2018年12月11日</p></td>
 <td><p><em>第一個Firefox 65.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>65.0b4</p></td>
 <td><p><em>Firefox 65.0 Beta 4</em></p></td>
 <td><p>2018年12月12日</p></td>
 <td><p><em>第二個Firefox 65.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>65.0b5</p></td>
 <td><p><em>Firefox 65.0 Beta 5</em></p></td>
 <td><p>2018年12月17日</p></td>
 <td><p><em>第三個Firefox 65.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>65.0b6</p></td>
 <td><p><em>Firefox 65.0 Beta 6</em></p></td>
 <td><p>2018年12月20日</p></td>
 <td><p><em>第四個Firefox 65.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>65.0b7</p></td>
 <td><p><em>Firefox 65.0 Beta 7</em></p></td>
 <td><p>2018年12月27日</p></td>
 <td><p><em>第五個Firefox 65.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>65.0b8</p></td>
 <td><p><em>Firefox 65.0 Beta 8</em></p></td>
 <td><p>2019年1月4日</p></td>
 <td><p><em>第六個Firefox 65.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>65.0b9</p></td>
 <td><p><em>Firefox 65.0 Beta 9</em></p></td>
 <td><p>2019年1月8日</p></td>
 <td><p><em>第七個Firefox 65.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>65.0b10</p></td>
 <td><p><em>Firefox 65.0 Beta 10</em></p></td>
 <td><p>2019年1月11日</p></td>
 <td><p><em>第八個Firefox 65.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>65.0b11</p></td>
 <td><p><em>Firefox 65.0 Beta 11</em></p></td>
 <td><p>2019年1月15日</p></td>
 <td><p><em>第九個Firefox 65.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>65.0b12</p></td>
 <td><p><em>Firefox 65.0 Beta 12</em></p></td>
 <td><p>2019年1月18日</p></td>
 <td><p><em>第十個Firefox 65.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>65.0 RC1</p></td>
 <td><p><em>Firefox 65.0 Release Candidate 1</em></p></td>
 <td><p>2019年1月21日</p></td>
 <td><p>''第一個Firefox 65.0候選版</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>65.0 RC2</p></td>
 <td><p><em>Firefox 65.0 Release Candidate 2</em></p></td>
 <td><p>2019年1月24日</p></td>
 <td><p>''第二個Firefox 65.0候選版</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>65.0</p></td>
 <td><p><em>Firefox 65.0</em></p></td>
 <td><p>2019年1月29日</p></td>
-<td><p><em>官方版Firefox 65.0釋出</em>[476]</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>65.0.1</p></td>
-<td><p><em>Firefox 65.0.1</em></p></td>
-<td><p>2019年2月12日</p></td>
-<td><p><em>穩定性與安全性更新</em>[477]</p></td>
+<td><p><em>官方版Firefox 65.0釋出</em>[479]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>65.0.2</p></td>
-<td><p><em>Firefox 65.0.2</em></p></td>
-<td><p>2019年2月28日</p></td>
-<td><p><em>穩定性更新</em>[478]</p></td>
+<td><p>65.0.1</p></td>
+<td><p><em>Firefox 65.0.1</em></p></td>
+<td><p>2019年2月12日</p></td>
+<td><p><em>穩定性與安全性更新</em>[480]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>65.0.2</p></td>
+<td><p><em>Firefox 65.0.2</em></p></td>
+<td><p>2019年2月28日</p></td>
+<td><p><em>穩定性更新</em>[481]</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>Firefox 66</strong></p></td>
 <td><p>66.0a1</p></td>
 <td><p><em>Firefox 66.0 Nightly</em></p></td>
 <td><p>2018年12月10日</p></td>
 <td><p><em>第一個Firefox 66.0預覽版</em></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>66.0b3</p></td>
 <td><p><em>Firefox 66.0 Beta 3</em></p></td>
 <td><p>2019年1月29日</p></td>
 <td><p><em>第一個Firefox 66.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>66.0b4</p></td>
 <td><p><em>Firefox 66.0 Beta 4</em></p></td>
 <td><p>2019年2月1日</p></td>
 <td><p><em>第二個Firefox 66.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>66.0b5</p></td>
 <td><p><em>Firefox 66.0 Beta 5</em></p></td>
 <td><p>2019年2月5日</p></td>
 <td><p><em>第三個Firefox 66.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>66.0b6</p></td>
 <td><p><em>Firefox 66.0 Beta 6</em></p></td>
 <td><p>2019年2月8日</p></td>
 <td><p><em>第四個Firefox 66.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>66.0b7</p></td>
 <td><p><em>Firefox 66.0 Beta 7</em></p></td>
 <td><p>2019年2月12日</p></td>
 <td><p><em>第五個Firefox 66.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>66.0b8</p></td>
 <td><p><em>Firefox 66.0 Beta 8</em></p></td>
 <td><p>2019年2月15日</p></td>
 <td><p><em>第六個Firefox 66.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>66.0b9</p></td>
 <td><p><em>Firefox 66.0 Beta 9</em></p></td>
 <td><p>2019年2月18日</p></td>
 <td><p><em>第七個Firefox 66.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>66.0b10</p></td>
 <td><p><em>Firefox 66.0 Beta 10</em></p></td>
 <td><p>2019年2月22日</p></td>
 <td><p><em>第八個Firefox 66.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>66.0b11</p></td>
 <td><p><em>Firefox 66.0 Beta 11</em></p></td>
 <td><p>2019年2月26日</p></td>
 <td><p><em>第九個Firefox 66.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>66.0b12</p></td>
 <td><p><em>Firefox 66.0 Beta 12</em></p></td>
 <td><p>2019年3月1日</p></td>
 <td><p><em>第十個Firefox 66.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>66.0b13</p></td>
 <td><p><em>Firefox 66.0 Beta 13</em></p></td>
 <td><p>2019年3月5日</p></td>
 <td><p><em>第十一個Firefox 66.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>66.0b14</p></td>
 <td><p><em>Firefox 66.0 Beta 14</em></p></td>
 <td><p>2019年3月7日</p></td>
 <td><p><em>第十二個Firefox 66.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>66.0 RC1</p></td>
 <td><p><em>Firefox 66.0 Release Candidate 1</em></p></td>
 <td><p>2019年3月12日</p></td>
 <td><p>''第一個Firefox 66.0候選版</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>66.0 RC2</p></td>
 <td><p><em>Firefox 66.0 Release Candidate 2</em></p></td>
 <td><p>2019年3月14日</p></td>
 <td><p>''第二個Firefox 66.0候選版</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>66.0 RC3</p></td>
 <td><p><em>Firefox 66.0 Release Candidate 3</em></p></td>
 <td><p>2019年3月15日</p></td>
 <td><p>''第三個Firefox 66.0候選版</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>66.0</p></td>
 <td><p><em>Firefox 66.0</em></p></td>
 <td><p>2019年3月19日</p></td>
-<td><p><em>官方版Firefox 66.0釋出</em>[479]</p></td>
+<td><p><em>官方版Firefox 66.0釋出</em>[482]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>66.0.1</p></td>
 <td><p><em>Firefox 66.0.1</em></p></td>
 <td><p>2019年3月22日</p></td>
-<td><p><em>安全性更新</em>[480]</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>66.0.2</p></td>
-<td><p><em>Firefox 66.0.2</em></p></td>
-<td><p>2019年3月27日</p></td>
-<td><p><em>穩定性更新</em>[481]</p></td>
+<td><p><em>安全性更新</em>[483]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>66.0.3</p></td>
-<td><p><em>Firefox 66.0.3</em></p></td>
-<td><p>2019年4月10日</p></td>
-<td><p><em>穩定性更新</em>[482]</p></td>
+<td><p>66.0.2</p></td>
+<td><p><em>Firefox 66.0.2</em></p></td>
+<td><p>2019年3月27日</p></td>
+<td><p><em>穩定性更新</em>[484]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>66.0.3</p></td>
+<td><p><em>Firefox 66.0.3</em></p></td>
+<td><p>2019年4月10日</p></td>
+<td><p><em>穩定性更新</em>[485]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>66.0.4</p></td>
+<td><p><em>Firefox 66.0.4</em></p></td>
+<td><p>2019年5月5日</p></td>
+<td><p><em>穩定性更新</em>[486]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>66.0.5</p></td>
+<td><p><em>Firefox 66.0.5</em></p></td>
+<td><p>2019年5月7日</p></td>
+<td><p><em>穩定性更新</em>[487]</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>Firefox 67</strong></p></td>
 <td><p>67.0a1</p></td>
 <td><p><em>Firefox 67.0 Nightly</em></p></td>
 <td><p>2019年1月28日</p></td>
 <td><p><em>第一個Firefox 67.0預覽版</em></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>67.0b3</p></td>
 <td><p><em>Firefox 67.0 Beta 3</em></p></td>
 <td><p>2019年3月18日</p></td>
 <td><p><em>第一個Firefox 67.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>67.0b4</p></td>
 <td><p><em>Firefox 67.0 Beta 4</em></p></td>
 <td><p>2019年3月22日</p></td>
 <td><p><em>第二個Firefox 67.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>67.0b5</p></td>
 <td><p><em>Firefox 67.0 Beta 5</em></p></td>
 <td><p>2019年3月26日</p></td>
 <td><p><em>第三個Firefox 67.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>67.0b6</p></td>
 <td><p><em>Firefox 67.0 Beta 6</em></p></td>
 <td><p>2019年3月28日</p></td>
 <td><p><em>第四個Firefox 67.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>67.0b7</p></td>
 <td><p><em>Firefox 67.0 Beta 7</em></p></td>
 <td><p>2019年4月1日</p></td>
 <td><p><em>第五個Firefox 67.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>67.0b8</p></td>
 <td><p><em>Firefox 67.0 Beta 8</em></p></td>
 <td><p>2019年4月4日</p></td>
 <td><p><em>第六個Firefox 67.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>67.0b9</p></td>
 <td><p><em>Firefox 67.0 Beta 9</em></p></td>
 <td><p>2019年4月8日</p></td>
 <td><p><em>第七個Firefox 67.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>67.0b10</p></td>
 <td><p><em>Firefox 67.0 Beta 10</em></p></td>
 <td><p>2019年4月11日</p></td>
 <td><p><em>第八個Firefox 67.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>67.0b11</p></td>
 <td><p><em>Firefox 67.0 Beta 11</em></p></td>
 <td><p>2019年4月15日</p></td>
 <td><p><em>第九個Firefox 67.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>67.0b12</p></td>
 <td><p><em>Firefox 67.0 Beta 12</em></p></td>
 <td><p>2019年4月19日</p></td>
 <td><p><em>第十個Firefox 67.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>67.0b13</p></td>
 <td><p><em>Firefox 67.0 Beta 13</em></p></td>
 <td><p>2019年4月22日</p></td>
 <td><p><em>第十一個Firefox 67.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>67.0b14</p></td>
 <td><p><em>Firefox 67.0 Beta 14</em></p></td>
 <td><p>2019年4月25日</p></td>
 <td><p><em>第十二個Firefox 67.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>67.0b15</p></td>
 <td><p><em>Firefox 67.0 Beta 15</em></p></td>
 <td><p>2019年4月29日</p></td>
 <td><p><em>第十三個Firefox 67.0測試版</em></p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>67.0b16</p></td>
+<td><p><em>Firefox 67.0 Beta 16</em></p></td>
+<td><p>2019年5月3日</p></td>
+<td><p><em>第十四個Firefox 67.0測試版</em></p></td>
+<td></td>
+</tr>
 <tr class="odd">
-<td><p>67.0</p></td>
-<td><p><em>Firefox 67.0</em></p></td>
-<td><p>2019年5月14日</p></td>
-<td><p><em>官方版Firefox 67.0釋出</em></p></td>
+<td><p>67.0b17</p></td>
+<td><p><em>Firefox 67.0 Beta 17</em></p></td>
+<td><p>2019年5月6日</p></td>
+<td><p><em>第十五個Firefox 67.0測試版</em></p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>67.0b18</p></td>
+<td><p><em>Firefox 67.0 Beta 18</em></p></td>
+<td><p>2019年5月7日</p></td>
+<td><p><em>第十六個Firefox 67.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>67.0b19</p></td>
+<td><p><em>Firefox 67.0 Beta 19</em></p></td>
+<td><p>2019年5月10日</p></td>
+<td><p><em>第十七個Firefox 67.0測試版</em></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>67.0 RC1</p></td>
+<td><p><em>Firefox 67.0 Release Candidate 1</em></p></td>
+<td><p>2019年5月14日</p></td>
+<td><p>''第一個Firefox 67.0候選版</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>67.0 RC2</p></td>
+<td><p><em>Firefox 67.0 Release Candidate 2</em></p></td>
+<td><p>2019年5月17日</p></td>
+<td><p>''第二個Firefox 67.0候選版</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>67.0</p></td>
+<td><p><em>Firefox 67.0</em></p></td>
+<td><p>2019年5月21日</p></td>
+<td><p><em>官方版Firefox 67.0釋出</em>[488]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>Firefox 68</strong></p></td>
 <td><p>68.0a1</p></td>
 <td><p><em>Firefox 68.0 Nightly</em></p></td>
 <td><p>2019年3月18日</p></td>
 <td><p><em>第一個Firefox 68.0預覽版</em></p></td>
 </tr>
-<tr class="odd">
-<td><p>68.0b1</p></td>
-<td><p><em>Firefox 68.0 Beta 1</em></p></td>
-<td><p>2019年5月13日</p></td>
+<tr class="even">
+<td><p>68.0b3</p></td>
+<td><p><em>Firefox 68.0 Beta 3</em></p></td>
+<td><p>2019年5月21日</p></td>
 <td><p><em>第一個Firefox 68.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>68.0</p></td>
 <td><p><em>Firefox 68.0</em></p></td>
 <td><p>2019年7月9日</p></td>
 <td><p><em>官方版Firefox 68.0釋出</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>Firefox 69</strong></p></td>
 <td><p>69.0a1</p></td>
 <td><p><em>Firefox 69.0 Nightly</em></p></td>
-<td><p>2019年5月13日</p></td>
+<td><p>2019年5月20日</p></td>
 <td><p><em>第一個Firefox 69.0預覽版</em></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>69.0b1</p></td>
 <td><p><em>Firefox 69.0 Beta 1</em></p></td>
 <td><p>2019年7月8日</p></td>
 <td><p><em>第一個Firefox 69.0測試版</em></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>69.0</p></td>
 <td><p><em>Firefox 69.0</em></p></td>
 <td><p>2019年9月3日</p></td>
 <td><p><em>官方版Firefox 69.0釋出</em></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -12003,3 +12074,15 @@ Bay*和*Greenlane*都是[-{zh-tw:紐西蘭;zh-cn:新西兰}-](../Page/新西兰.
 481.
 
 482.
+
+483.
+
+484.
+
+485.
+
+486.
+
+487.
+
+488.

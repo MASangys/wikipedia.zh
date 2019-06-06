@@ -104,8 +104,8 @@ TV的版本历史](../Page/Apple_TV.md "wikilink")。[iOS可以通过](https://z
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/#12.2" title="wikilink">12.2</a></p></td>
-<td><p>16E227</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/#12.3" title="wikilink">12.3</a></p></td>
+<td><p>16F156</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1203,6 +1203,34 @@ Air](https://zh.wikipedia.org/wiki/iPad_Air "wikilink")、[iPad Mini
 </tr>
 <tr class="odd">
 <td><p>12.2</p></td>
+</tr>
+</tbody>
+</table>
+
+<table>
+<thead>
+<tr class="header">
+<th><p>版本列表: iOS 12.3.x</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><strong>可能無法在 iPhone 5S、iPad Air、iPad Mini 2 和 iPad Mini 3 使用部分新功能。</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>版本</p></td>
+</tr>
+<tr class="odd">
+<td><p>12.3</p></td>
 </tr>
 </tbody>
 </table>

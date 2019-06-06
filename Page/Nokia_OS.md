@@ -17,7 +17,7 @@ Global和](../Page/HMD_Global.md "wikilink")[微軟移動開發的](https://zh.w
 
 [Category:諾基亞](https://zh.wikipedia.org/wiki/Category:諾基亞 "wikilink")
 [Category:HMD_Global](https://zh.wikipedia.org/wiki/Category:HMD_Global "wikilink")
-[Category:微軟移動](https://zh.wikipedia.org/wiki/Category:微軟移動 "wikilink")
+[Category:微軟行動](https://zh.wikipedia.org/wiki/Category:微軟行動 "wikilink")
 [Category:嵌入式作業系統](https://zh.wikipedia.org/wiki/Category:嵌入式作業系統 "wikilink")
 [Category:嵌入式Linux](https://zh.wikipedia.org/wiki/Category:嵌入式Linux "wikilink")
 [Category:售後韌體](https://zh.wikipedia.org/wiki/Category:售後韌體 "wikilink")

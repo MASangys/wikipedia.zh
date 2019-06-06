@@ -88,22 +88,22 @@ Struck就會發動，一定移動數目內糖果就會減少一色。
     應用程式下載量的第二名與第三名。\[18\]
   - 該遊戲的愛好者指出：“該遊戲有挑戰性，而且適合打發時間\[19\]，而且該遊戲可令玩家和Facebook的好友有互動\[20\]”。
   - 有醫生認爲沉迷玩該遊戲容易引發多種健康問題\[21\]，如老花、頸椎移位、肌肉發炎等\[22\]\[23\]。
-  - 專業心理輔導師李馨君指出過度沉迷在玩該遊戲容易引發多種心理及生理問題，對青少年產生負面影響\[24\]。
+  - 專業心理輔導師李馨君指出過度沉迷在玩該遊戲容易引發多種心理及生理問題，對青少年產生負面影響\[24\]。在英國，有母親因沉迷該遊戲成癮，疏於照顧孩子和家居而被男友離棄，甚至失去工作，並欠債3000英鎊。\[25\]
   - 關卡是永無止境的，若破關了還是會繼續下去。
 
 ## 相关统计
 
-自2012年11月起在[移动设备平台上推出後](../Page/移动设备.md "wikilink")，在1個月內有達1,000萬名用戶[下載](https://zh.wikipedia.org/wiki/下載 "wikilink")，現在每月用戶達4,600萬，並且持續地增加中\[25\]，擊敗[憤怒鳥在內的](https://zh.wikipedia.org/wiki/憤怒鳥 "wikilink")200萬個手機應用程式\[26\]。
-根據開發商所称的數據，玩家加起來的總遊戲時間逾10萬年，至今已經有超過1[兆顆糖果被消除](../Page/兆.md "wikilink")。\[27\]根據[Zynga和](../Page/Zynga.md "wikilink")[King.com所称的數據](https://zh.wikipedia.org/wiki/King.com "wikilink")，King.com每日活躍用戶數超越了Zynga。\[28\]
+自2012年11月起在[移动设备平台上推出後](../Page/移动设备.md "wikilink")，在1個月內有達1,000萬名用戶[下載](https://zh.wikipedia.org/wiki/下載 "wikilink")，現在每月用戶達4,600萬，並且持續地增加中\[26\]，擊敗[憤怒鳥在內的](https://zh.wikipedia.org/wiki/憤怒鳥 "wikilink")200萬個手機應用程式\[27\]。
+根據開發商所称的數據，玩家加起來的總遊戲時間逾10萬年，至今已經有超過1[兆顆糖果被消除](../Page/兆.md "wikilink")。\[28\]根據[Zynga和](../Page/Zynga.md "wikilink")[King.com所称的數據](https://zh.wikipedia.org/wiki/King.com "wikilink")，King.com每日活躍用戶數超越了Zynga。\[29\]
 
 ## 影響
 
-  - 在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，有蛋糕店推出以糖果大爆險爲主題的蛋糕，曾出現訂單全滿的情況。\[29\]
-  - 韓國歌手[PSY的歌曲](../Page/PSY.md "wikilink")《[紳士](https://zh.wikipedia.org/wiki/紳士_\(歌曲\) "wikilink")》的MV中有玩《糖果大爆險》的鏡頭\[30\]。
+  - 在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，有蛋糕店推出以糖果大爆險爲主題的蛋糕，曾出現訂單全滿的情況。\[30\]
+  - 韓國歌手[PSY的歌曲](../Page/PSY.md "wikilink")《[紳士](https://zh.wikipedia.org/wiki/紳士_\(歌曲\) "wikilink")》的MV中有玩《糖果大爆險》的鏡頭\[31\]。
   - 在[日本](../Page/日本.md "wikilink")，這款遊戲的活躍會員數突破一億位使用者。（據[中時電子報](../Page/中時電子報.md "wikilink")2013年11月13日報導）
   - 2013年11月18日，這款遊戲在iOS推出至今剛好滿一年，全球累積在各個平台加總被下載次數超過5億次，玩家上線次數超過1500億次。
   - 臺灣的[客家電視台曾報導](../Page/客家電視台.md "wikilink")“電玩Candy Crush
-    全球一天玩7億次”。\[31\]
+    全球一天玩7億次”。\[32\]
 
 ## 後續作品
 
@@ -115,7 +115,7 @@ Saga》非常雷同。該遊戲內建於「[Windows 10
 10和](../Page/Windows_10.md "wikilink")[Windows
 Phone平台上切換](../Page/Windows_Phone.md "wikilink")。
 
-游戏因收到欢迎带动开发公司股价上涨\[32\]。
+游戏因收到欢迎带动开发公司股价上涨\[33\]。
 
 ### Candy Crush Jelly Saga
 
@@ -150,7 +150,7 @@ Saga》基本玩法而來。與以往不同的是，本作加入了Boss型關卡
     Saga頁面](https://www.microsoft.com/zh-tw/store/apps/candy-crush-saga/9nblggh18846)
 
   - [Candy Crush
-    Saga-Flash版](http://free-flash-games.net/puzzle/candy-crush-saga)
+    Saga-Flash版](https://web.archive.org/web/20131230234503/http://free-flash-games.net/puzzle/candy-crush-saga)
 
   - [中文版《糖果传奇》官网](http://ccs.qq.com/)
 
@@ -198,8 +198,9 @@ Saga》基本玩法而來。與以往不同的是，本作加入了Boss型關卡
 28.
 29.
 30.
-31. [電玩Candy Crush
+31.
+32. [電玩Candy Crush
     全球一天玩7億次](http://web.pts.org.tw/hakka/news/detail.php?id=103108)
-32. 陈怡均. [Candy Crush开发商
+33. 陈怡均. [Candy Crush开发商
     上季获利优于预期](http://www.chinatimes.com/cn/newspapers/20150214000062-260203).
     China Times Inc. 2015-02-14. \[2014-05-09\].

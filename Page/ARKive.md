@@ -27,7 +27,7 @@ layers），可分别显示出世界受威胁物种\[10\]的分布以及[墨西�
 
 ## 外部链接
 
-  - [ARKive官方网站](http://www.arkive.org)
+  - [ARKive官方网站](https://archive.today/20160426231847/http://www.arkive.org/)
   - [由Hewlett-Packard提供的技术说明](https://web.archive.org/web/20110120025341/http://www.hpl.hp.com/research/ssrc/services/publishing/arkive/)
   - [Memorandum of Understanding with Encyclopedia of
     Life](http://eol.org/content_partner/agreement/5978)

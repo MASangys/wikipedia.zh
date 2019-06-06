@@ -111,9 +111,14 @@ Fire](https://zh.wikipedia.org/wiki/Boyz_On_Fire_\(專輯\) "wikilink")》歌曲
 Really〉的MV\[36\]，MV及拍攝花絮於《SpeXial Life
 2》最後一集播出。（此三部作品是SpeXial以12人組合推出的最後作品。）
 
-2017年3月12日，第四期團員[執於個人微博宣佈](https://zh.wikipedia.org/wiki/趙志偉 "wikilink")「重新出發」並將工作的聯繫資料也一併刪除，暗示已與公司解約。3月20日，[執將微博認證從原本的](https://zh.wikipedia.org/wiki/趙志偉 "wikilink")「可米經紀旗下藝人」改為「前可米經紀旗下藝人」，並發長文，正式宣告離開公司。3月23日，[執將微博名稱](https://zh.wikipedia.org/wiki/趙志偉 "wikilink")「趙志偉努力奮鬥中」\[37\]，確定退出SpeXial。團體以10人繼續活動。
+2017年2月26日，SpeXial官方在Facebook粉絲專頁宣布，團員[以綸於](../Page/王以綸.md "wikilink")3月18日舉辦「國王的派對」生日見面會。
+
+2017年3月12日，第四期團員[執在個人微博宣佈](https://zh.wikipedia.org/wiki/趙志偉 "wikilink")「重新出發」並將工作的聯繫資料也一併刪除，暗示已與公司解約。3月20日，[執將微博認證從原本的](https://zh.wikipedia.org/wiki/趙志偉 "wikilink")「可米經紀旗下藝人」改為「前可米經紀旗下藝人」，並發長文，正式宣告離開公司。3月23日，[執將微博名稱](https://zh.wikipedia.org/wiki/趙志偉 "wikilink")「趙志偉努力奮鬥中」\[37\]，確定退出SpeXial。團體以10人繼續活動。
 
 2017年8月25日，第三期團員[以綸在個人Facebook粉絲專頁宣佈和可米經紀正式解除合約關係並於SpeXial畢業](../Page/王以綸.md "wikilink")\[38\]。團體以9人繼續活動。
+
+2017年9月8日，SpeXial官方在Facebook粉絲專頁宣布，團員[子閎於](https://zh.wikipedia.org/wiki/林子閎 "wikilink")10月1日舉辦「Born
+to Shine」生日見面會。
 
 2017年12月17日，第五張專輯《[Buddy
 Buddy](https://zh.wikipedia.org/wiki/Buddy_Buddy "wikilink")》於北京舉辦發片記者會，該專輯其後於12月22日正式發行。
@@ -128,15 +133,20 @@ Buddy〉、〈Love Killah〉、〈Dangerous〉、〈Break it down〉、〈Bad Ba
 Style〉六首舞曲，該節目於2月15日播出。（團長[宏正原本因腳傷無法登台](https://zh.wikipedia.org/wiki/宏正 "wikilink")，為了在除夕能和粉絲們團圓，不顧腳傷神秘現身合體並參與唱跳〈Super
 Style〉），惟團員[Dylan因拍攝戲劇而缺席](https://zh.wikipedia.org/wiki/熊梓淇 "wikilink")。
 
-2018年3月23日，團員[偉晉生日當天在臉書宣布在當兵前](../Page/偉晉.md "wikilink")，先於5月27日舉辦首次個人音樂會「黃偉晉灰%音樂會」，後於9月入伍。
+2018年3月23日，團員[偉晉生日當天在Facebook粉絲專頁宣布在當兵前](../Page/偉晉.md "wikilink")，先於5月27日舉辦首次個人音樂會「黃偉晉灰%音樂會」，後於9月入伍。
 
 2018年5月15日，團長[宏正與可米經紀合約期滿](https://zh.wikipedia.org/wiki/宏正 "wikilink")，不和可米經紀續約，現屬於「樂昕娛樂」公司，正式退出SpeXial\[39\]。至今，團體以8人繼續活動，團員有[偉晉](../Page/偉晉.md "wikilink")、[明-{杰}-](https://zh.wikipedia.org/wiki/許名傑 "wikilink")、[子閎](../Page/子閎.md "wikilink")、[Evan](../Page/Evan_\(SpeXial\).md "wikilink")、[Teddy](../Page/Teddy_\(SpeXial\).md "wikilink")、[風田](../Page/風田.md "wikilink")、[易恩](https://zh.wikipedia.org/wiki/易恩 "wikilink")、[Dylan](https://zh.wikipedia.org/wiki/熊梓淇 "wikilink")。
+
+2018年8月27日，團員[子閎和SpeXial官方在Facebook粉絲專頁宣布](https://zh.wikipedia.org/wiki/林子閎 "wikilink")，於9月29日舉辦「ALL
+FOR YOU」生日見面會。
 
 2018年9月3日，團員[偉晉入伍服役一年時間](../Page/偉晉.md "wikilink")，暫停參與後續的活動，團體以7人繼續活動。
 
 ### 2019
 
-2019年4月14日，團員[明-{杰}-](https://zh.wikipedia.org/wiki/許名傑 "wikilink")、[子閎宣布](../Page/子閎.md "wikilink")[YouTube頻道](../Page/YouTube.md "wikilink")[龍兄虎弟](https://www.youtube.com/channel/UComUQFkhd4jA2hLfJZ1zBKg)，頻道成立於3月7日。
+2019年4月14日，團員[明-{杰}-](https://zh.wikipedia.org/wiki/許名傑 "wikilink")、[子閎宣布](../Page/子閎.md "wikilink")[YouTube頻道](../Page/YouTube.md "wikilink")「[龍兄虎弟](https://www.youtube.com/channel/UComUQFkhd4jA2hLfJZ1zBKg)」，頻道成立於2019年3月7日。
+
+2019年5月18日，團員[明-{杰}-在Facebook粉絲專頁宣布](https://zh.wikipedia.org/wiki/許名傑 "wikilink")，於7月6日舉辦「音為有你」音樂會。
 
 ## 成員
 

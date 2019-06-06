@@ -2,7 +2,7 @@
 
 ## 概述
 
-馬格普PDR為一種採用[導氣原理](https://zh.wikipedia.org/wiki/氣動式 "wikilink")，[滾轉式槍機運作的個人防衛武器系統](../Page/滾轉式槍機.md "wikilink")，其槍身採用了[犢牛式設計](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")，並顯得相當短小和緊湊。該槍亦是少數地採用標準口徑的個人防衛武器，目的是為了能讓使用方減低在戰場上的後勤負擔。其載彈量為20或30發，並採用由馬格普工業公司生產的P-MAG彈匣供彈，但亦可對應其他[STANAG彈匣](../Page/STANAG彈匣.md "wikilink")。本槍的標準瞄具為[機械瞄具](../Page/機械瞄具.md "wikilink")，用戶也可在[機匣頂部的戰術導軌上裝上各種瞄準鏡](https://zh.wikipedia.org/wiki/機匣 "wikilink")。
+馬格普PDR為一種採用[導氣原理](https://zh.wikipedia.org/wiki/氣動式 "wikilink")，[轉拴式槍栓運作的個人防衛武器系統](../Page/轉拴式槍栓.md "wikilink")，其槍身採用了[犢牛式設計](https://zh.wikipedia.org/wiki/犢牛式 "wikilink")，並顯得相當短小和緊湊。該槍亦是少數地採用標準口徑的個人防衛武器，目的是為了能讓使用方減低在戰場上的後勤負擔。其載彈量為20或30發，並採用由馬格普工業公司生產的P-MAG彈匣供彈，但亦可對應其他[STANAG彈匣](../Page/STANAG彈匣.md "wikilink")。本槍的標準瞄具為[機械瞄具](../Page/機械瞄具.md "wikilink")，用戶也可在[機匣頂部的戰術導軌上裝上各種瞄準鏡](https://zh.wikipedia.org/wiki/機匣 "wikilink")。
 
 ## 衍生型
 

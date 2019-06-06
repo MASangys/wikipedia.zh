@@ -92,7 +92,8 @@ Sync）在中国遭到了前所未有的封杀……”，数码荔枝一并停�
 ## 外部链接
 
   -
-  - [Resilio Sync 中文官网](https://www.resilio-sync.cn/)
+  - [Resilio Sync
+    中文官网](https://web.archive.org/web/20171012121515/https://www.resilio-sync.cn/)
 
 [Category:文件共享服务](https://zh.wikipedia.org/wiki/Category:文件共享服务 "wikilink")
 [Category:数据同步](https://zh.wikipedia.org/wiki/Category:数据同步 "wikilink")

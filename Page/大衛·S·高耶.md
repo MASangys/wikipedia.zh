@@ -42,6 +42,7 @@
   - 《[黑暗騎士：黎明昇起](../Page/黑暗騎士：黎明昇起.md "wikilink")》故事（2012）
   - 《[超人：鋼鐵英雄](https://zh.wikipedia.org/wiki/超人：鋼鐵英雄 "wikilink")》故事和劇本（2013）
   - 《[蝙蝠俠對超人：正義曙光](https://zh.wikipedia.org/wiki/蝙蝠俠對超人：正義曙光 "wikilink")》故事（2016）
+  - 《[魔鬼終結者：黑暗宿命](https://zh.wikipedia.org/wiki/魔鬼終結者：黑暗宿命 "wikilink")》故事和劇本（2019）
 
 #### 電視劇
 

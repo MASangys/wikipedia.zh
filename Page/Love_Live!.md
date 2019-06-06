@@ -150,7 +150,7 @@ Live\!
 <tr class="even">
 <td><p>1</p></td>
 <td></td>
-<td><p>LoveLive! School idol diary 〜高坂穂乃果〜</p></td>
+<td><p>LoveLive! School idol diary ～高坂穂乃果〜</p></td>
 <td><p>2013年5月30日</p></td>
 <td><p>ISBN 978-4-04-891583-0</p></td>
 <td><p>2015年5月5日</p></td>

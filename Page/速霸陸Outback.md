@@ -122,7 +122,7 @@ Kombi front.JPG|歐規版前期型
 ### 第四代BR系（2009年-2014年）
 
 2009年 -
-5月20日Outback和[第五代Legacy四門轎車型B](https://zh.wikipedia.org/wiki/速霸陸Legacy#第五代BM/BR系（2009年迄今） "wikilink")4、五門旅行車型在日本同步發表，原廠找來美國著名[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")[勞勃·狄尼洛當產品代言人](../Page/罗伯特·德尼罗.md "wikilink")；短短3個星期訂單就超過4千張，比原廠預估目標多出兩倍\[2\]。動力心臟為2.5L水平對臥四缸SOHC
+5月20日Outback和[第五代Legacy四門轎車型B](https://zh.wikipedia.org/wiki/速霸陸Legacy#第五代BM/BR系（2009年迄今） "wikilink")4、五門旅行車型在日本同步發表，原廠找來美國著名[演員](../Page/演員.md "wikilink")[勞勃·狄尼洛當產品代言人](../Page/罗伯特·德尼罗.md "wikilink")；短短3個星期訂單就超過4千張，比原廠預估目標多出兩倍\[2\]。動力心臟為2.5L水平對臥四缸SOHC
 [EJ253型引擎](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ253型 "wikilink")，原先3.0L也改以3.6L[水平對臥六缸DOHC](../Page/水平對臥六缸引擎.md "wikilink")
 [EZ36型引擎替代](https://zh.wikipedia.org/wiki/速霸陸EZ族引擎#EZ36型 "wikilink")，動力更為強勁。至於歐洲市場，則仍繼續供應2.0L水平對臥四缸DOHC
 [EE20型渦輪增壓](../Page/速霸陸EE20型引擎.md "wikilink")[柴油引擎](../Page/柴油引擎.md "wikilink")。除了五速自動排檔或六速手動排檔兩種變速箱之外，原廠更提供新開發的[Lineartronic

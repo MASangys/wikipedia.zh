@@ -153,7 +153,8 @@ Prime的宣传视频。\[26\]对此，大多数玩家\[27\]认为Ingress
 Prime就是玩家苦思久等的Ingress 2.0，但是否是Ingress
 2.0以及和对现有Ingress账户内的道具是否共通仍需等待正式版发布。\[28\][iOS的](https://zh.wikipedia.org/wiki/iOS "wikilink")[TestFlight版本已经被证明放出](https://zh.wikipedia.org/wiki/TestFlight "wikilink")。\[29\]2018年11月6日，Ingress
 Prime Android版作为旧版更新的方式登陆Google Play商店，但由于旧玩家对新界面和游戏方式的不满，Niantic
-Labs另外提供保留旧版界面的新应用可以安装使用。\[30\]\[31\]\[32\]
+Labs另外提供保留旧版界面的新应用Scanner Redacted代替新版Ingress
+Prime安装使用。\[30\]\[31\]\[32\]
 
 ## 注解
 

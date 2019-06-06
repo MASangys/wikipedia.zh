@@ -13,7 +13,7 @@
   - \[<http://adsabs.harvard.edu/full/1985MNRAS.217P>...1W
     B.Warner,Department of Astronomy,University of Cape Town\] retrieved
     21/09/2011
-  - <http://www.otticademaria.it/astro/Costellazioni/st_pup.html>
+  - <https://web.archive.org/web/20051026122516/http://www.otticademaria.it/astro/Costellazioni/st_pup.html>
 
 [Category:新星](https://zh.wikipedia.org/wiki/Category:新星 "wikilink")
 [Category:船尾座](https://zh.wikipedia.org/wiki/Category:船尾座 "wikilink")

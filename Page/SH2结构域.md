@@ -16,7 +16,7 @@ SH2结构域并不存在于单细胞的[酵母之中](../Page/酵母.md "wikilin
 
 前人做过详尽的对[人类及](https://zh.wikipedia.org/wiki/人类 "wikilink")[小鼠中SH](https://zh.wikipedia.org/wiki/小鼠 "wikilink")2结构域的[生物信息学检测](../Page/生物信息学.md "wikilink")，发现人类基因组编码出的115种蛋白质中包含了120个SH2结构域\[9\]，这意味着SH2结构域的进化速度很快。
 
-现已解析出大量SH2结构域的结构，亦构建出敲除含SH2结构域的那些蛋白质的基因敲除鼠。可在[这个网站](http://sh2.uchicago.edu)上找到这些敲除小鼠的信息\[10\]。
+现已解析出大量SH2结构域的结构，亦构建出敲除含SH2结构域的那些蛋白质的基因敲除鼠。可在[这个网站](https://web.archive.org/web/20060910123443/http://sh2.uchicago.edu/)上找到这些敲除小鼠的信息\[10\]。
 
 ## 功能
 

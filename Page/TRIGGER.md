@@ -126,16 +126,16 @@ La Kill》。
 </tr>
 <tr class="even">
 <td><p>2015年</p></td>
-<td><p>小魔女學園 魔法遊行</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/小魔女學園" title="wikilink">小魔女學園 魔法遊行</a></p></td>
 <td></td>
 <td><p>2015年10月9日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年</p></td>
-<td><p>PROMARE</p></td>
-<td><p>2019年5月24日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/PROMARE" title="wikilink">PROMARE</a></p></td>
 <td></td>
+<td><p>2019年5月24日</p></td>
 <td></td>
 </tr>
 </tbody>

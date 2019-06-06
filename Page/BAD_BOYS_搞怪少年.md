@@ -498,6 +498,7 @@ BOYS J》電視劇的續篇，日本於2013年11月9日上映。
 [Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
 [Category:小傑尼斯相關影視作品](https://zh.wikipedia.org/wiki/Category:小傑尼斯相關影視作品 "wikilink")
 [Category:乃木坂46](https://zh.wikipedia.org/wiki/Category:乃木坂46 "wikilink")
+[Category:暴走族题材作品](https://zh.wikipedia.org/wiki/Category:暴走族题材作品 "wikilink")
 
 1.  第1話因節目調整在25:20 - 25:50播放。
 2.  [ドラマ公式サイト](http://www.ntv.co.jp/bad_boys/)、2013年4月14日参照。

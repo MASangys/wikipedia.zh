@@ -42,7 +42,6 @@ Arms更購買其[特許生產證](https://zh.wikipedia.org/wiki/特許生產證 
 
 ### 操作系統
 
-[RPC_Fort-227.jpg](https://zh.wikipedia.org/wiki/File:RPC_Fort-227.jpg "fig:RPC_Fort-227.jpg")
 由於加利爾ACE步槍的改進都主要集中在外部，內部結構上基本沒有改變。
 
 發射時，部分高壓[瓦斯氣體會通過](https://zh.wikipedia.org/wiki/瓦斯 "wikilink")1.8毫米（.071英吋）的氣導孔端口，接著30度角轉向至槍管上方的高壓瓦斯氣體管。高壓瓦斯氣體會驅動活塞（裝在槍機的上方），進而驅動活塞連桿和槍機向後。而向後推動時，槍機內部的鎖耳槽就會開始把槍機頭向右滾轉和向後滑動，令槍機解鎖，從而拋出彈殼。槍機上方的部分承托提供了一定的空間，使[槍管內的氣體壓力降低到安全水平之前解鎖](../Page/槍管.md "wikilink")。拋出彈殼後就會因為復進簧而令槍機機框向前復進，同時從彈匣取出下一發子彈到膛室。連接到槍機機框左[機匣和隨著每槍前後往復運動](https://zh.wikipedia.org/wiki/機匣 "wikilink")，並且留下拉機柄導槽以允許由左手直接操作，而射擊手仍可保持在的位置。
@@ -50,7 +49,7 @@ Arms更購買其[特許生產證](https://zh.wikipedia.org/wiki/特許生產證 
 ### 槍機
 
 [Ace_32_close_stock.jpg](https://zh.wikipedia.org/wiki/File:Ace_32_close_stock.jpg "fig:Ace_32_close_stock.jpg")
-同樣由鋼製造的上[機匣內部的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[滾轉式槍機的兩個鎖耳可以令加利爾的膛室進入閉鎖狀態](../Page/滾轉式槍機.md "wikilink")。同時5.56毫米口徑的ACE槍機上具有設有[空槍掛機](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")。槍機保持開放的特點是軍隊系客戶的一個共同的要求，以加快了更換彈匣和再上膛的速度。\[3\]
+同樣由鋼製造的上[機匣內部的](https://zh.wikipedia.org/wiki/機匣 "wikilink")[轉拴式槍栓的兩個鎖耳可以令加利爾的膛室進入閉鎖狀態](../Page/轉拴式槍栓.md "wikilink")。同時5.56毫米口徑的ACE槍機上具有設有[空槍掛機](https://zh.wikipedia.org/wiki/空槍掛機 "wikilink")。槍機保持開放的特點是軍隊系客戶的一個共同的要求，以加快了更換彈匣和再上膛的速度。\[3\]
 
 ### 長行程活塞氣動式
 

@@ -126,13 +126,16 @@ S400座椅。ATENU49以後新車（ATENU55、135例外），車身側牌長度�
 160-164, 166, 168-170, 172, 173, 176拆除下層4個座位改裝為輪椅位、增加企位，但
 載客量維持137人（U59/L27+S51）。
 
+其中一輛巴士 -
+ATENU53（車牌SD6028）於2019年5月11日晚上9時許，行駛[961線往](https://zh.wikipedia.org/wiki/過海隧道巴士961線 "wikilink")[灣仔期間](../Page/灣仔.md "wikilink")，於[中環](../Page/中環.md "wikilink")[干諾道中](https://zh.wikipedia.org/wiki/干諾道中 "wikilink")[交易廣場對開突然起火](../Page/交易廣場.md "wikilink")，全車迅速陷入火海，幸車上所有人及時疏散。消防員到場將火救熄，無人受傷，惟巴士燒至扭曲變形。\[23\]\[24\]由於肇事巴士完全損毀引致無法修復，直接退役。
+
 ##### ATENU199-ATENU329
 
 ATENU199-ATENU329為第2批Enviro 500 MMC，採用ZF Ecolife
 6AP1700B六前速波箱，車尾額外加裝了四盞LED燈，該批巴士車尾四盞LED燈於2016年底陸續拆除。在第2批新車中，ATENU253、261、271-276、279-281、287-290共15副底盤由ADL馬來西亞廠房生產。
 
 其中一輛巴士 -
-ATENU274（車牌SP9007）於2018年5月4日晚上9時許，在行走277X線途中因機件故障，於大老山公路往馬鞍山方向近沙田醫院對開停下，車長安排乘客轉乘另一部巴士離開。九巴派出技工到場檢查和維修期間時，巴士突然起火，全車嚴重焚燬，\[23\]最終因損毀嚴重及底盤變形而無法修復，提早退役。
+ATENU274（車牌SP9007）於2018年5月4日晚上9時許，在行走277X線途中因機件故障，於大老山公路往馬鞍山方向近沙田醫院對開停下，車長安排乘客轉乘另一部巴士離開。九巴派出技工到場檢查和維修期間時，巴士突然起火，全車付諸一炬，\[25\]最終因底盤及車架扭曲變形而直接退役。
 
 ##### ATENU330-ATENU473、ATENU498
 
@@ -152,7 +155,7 @@ MMC，其中ATENU474-497、499-566、571-573、575、581、583、617、639及677
 DIWA 864.5四前速波箱，其餘採用ZF Ecolife
 6AP1700B六前速波箱，車尾沒有額外加裝4盞LED燈。在第4批新車中，ATENU474-483、496、497、499、511、513-517、520、522、532-535、537-540、567-570、574、576-580、582、584-616、618-638、639-676、678-681、685、801共137副底盤由ADL馬來西亞廠房生產。
 
-2017年底，其中一輛巴士（ATENU576）車頂安裝了20塊約1米乘0.6米半導體製成的太陽能電池板，電池板可從陽光吸收能量轉化為電能，減少車頂吸熱。當巴士停車熄匙後，太陽能裝置為通風系統供電，將車廂熱空氣抽出車外，調節車廂溫度至合適水平，從而減低製冷所產生柴油消耗\[24\]。
+2017年底，其中一輛巴士（ATENU576）車頂安裝了20塊約1米乘0.6米半導體製成的太陽能電池板，電池板可從陽光吸收能量轉化為電能，減少車頂吸熱。當巴士停車熄匙後，太陽能裝置為通風系統供電，將車廂熱空氣抽出車外，調節車廂溫度至合適水平，從而減低製冷所產生柴油消耗\[26\]。
 
 2018年8月開始，ATENU475-479, 480, 481, 486, 490, 491, 495, 503, 509, 510,
 512, 515, 516, 518, 524, 525, 532, 539-541, 544, 547, 549, 552-554, 558,
@@ -172,7 +175,7 @@ MMC。其中ATENU682-684及686-778、787共97部新車採用備有SensoTop程式
 OpenMatic盒的預留位。全部新車底盤由ADL馬來西亞廠房生產。
 
 ATENU803-839、841-876、893採用Facelift車身，是首批配Facelift車身的12米Enviro500
-MMC巴士。\[25\]該批首輛巴士已於2015年9月29日下午完成裝嵌\[26\]，首批共三輛配有Facelift車身的Enviro500
+MMC巴士。\[27\]該批首輛巴士已於2015年9月29日下午完成裝嵌\[28\]，首批共三輛配有Facelift車身的Enviro500
 MMC（ATENU803-805）已於2015年11月23日正式出牌，其中ATENU803在正式出牌當日首航258D線。
 
 2017年1月開始，ATENU688, 697, 699, 733, 738, 741, 747, 755, 756, 761, 762,
@@ -293,11 +296,11 @@ DIWA 864.5波箱，其餘採用ZF Ecolife 6AP1700B六前速波箱。
 #### 3ATENU
 
 2013年，載通國際為九巴訂購2部配備歐盟5型引擎的Enviro 500 MMC
-12.8米巴士\[27\]，其後於2015年加訂50輛及100輛\[28\]\[29\]，合共152輛。這批新車由珠海廣通客車負責組裝車身，所有新車已於2015-2016年全數付運。
+12.8米巴士\[29\]，其後於2015年加訂50輛及100輛\[30\]\[31\]，合共152輛。這批新車由珠海廣通客車負責組裝車身，所有新車已於2015-2016年全數付運。
 
 首部新車在2014年4月24日運抵香港，採用ZF Ecolife
 6AP1700B六前速波箱，並於兩日後進行首次驗車。首部新車與另一輛[富豪B9TL](https://zh.wikipedia.org/wiki/富豪B9TL "wikilink")
-12.8米樣板車一同於6月2日在[九巴月輪街車廠參與記者招待會](https://zh.wikipedia.org/wiki/九巴月輪街車廠 "wikilink")，[九巴稱會安排這兩輛巴士試驗行走](https://zh.wikipedia.org/wiki/九巴 "wikilink")[43X](https://zh.wikipedia.org/wiki/九龍巴士43X線 "wikilink")、[49X](https://zh.wikipedia.org/wiki/九龍巴士49X線 "wikilink")、[277X和](https://zh.wikipedia.org/wiki/九龍巴士277X線 "wikilink")[279X線](https://zh.wikipedia.org/wiki/九龍巴士279X線 "wikilink")，以收集行車數據\[30\]\[31\]\[32\]。座位方面，新車下層非低地台區域座椅使用Vogel
+12.8米樣板車一同於6月2日在[九巴月輪街車廠參與記者招待會](https://zh.wikipedia.org/wiki/九巴月輪街車廠 "wikilink")，[九巴稱會安排這兩輛巴士試驗行走](https://zh.wikipedia.org/wiki/九巴 "wikilink")[43X](https://zh.wikipedia.org/wiki/九龍巴士43X線 "wikilink")、[49X](https://zh.wikipedia.org/wiki/九龍巴士49X線 "wikilink")、[277X和](https://zh.wikipedia.org/wiki/九龍巴士277X線 "wikilink")[279X線](https://zh.wikipedia.org/wiki/九龍巴士279X線 "wikilink")，以收集行車數據\[32\]\[33\]\[34\]。座位方面，新車下層非低地台區域座椅使用Vogel
 Revo S440巴士仔圖案座椅，而下層低地台區域則使用Vogel Revo S400座椅，所有座椅配上黑色巴士仔圖案，上層使用Vogel
 Revo
 S480座椅。新車改用Hanover橙色LED路線顯示器，上層車頭改用全新設計的電視預留組件（俗稱「檔布」），而電視組件下方的扶手柱，車輛採用「十」字設計。車頂也預留了用作遮掩GPS自動報站系統及GPRS收發天線的保護罩，並改用方形樓梯以增加載客量。新車改用新款的上海凱倫自動報站機，顯示屏可顯示8個中文字。車尾額外加裝了四盞LED燈。
@@ -307,12 +310,12 @@ S480座椅。新車改用Hanover橙色LED路線顯示器，上層車頭改用全
 118-142設有90個座位和61個企位，總載客量為151人。
 
 為方便車長區別車輛，所有Enviro 500 MMC
-12.8米駕駛室內已貼上「此巴士12.8米長，只供已受訓人員駕駛」標示。受運輸署限制，現時只有39M、42A、43B、44M、49X、52X、58M、59M、60M、60X、67M、68A、68X、73X、86K、87K、182、249M、258D、259D、263、268C、269C、276P\[33\]、279X、307、373、680、681、968、978、985、B1及W3線可使用12.8米巴士，相關路線之車長均須接受特別訓練。
+12.8米駕駛室內已貼上「此巴士12.8米長，只供已受訓人員駕駛」標示。受運輸署限制，現時只有39M、40X、42A、43B、44M、49X、52X、58M、59M、60M、60X、67M、68A、68X、73X、86K、87K、182、249M、258D、259D、260X、263、268C、269C、276P\[35\]、279X、307、373、680、681、968、978、985、B1及W3線可使用12.8米巴士，相關路線之車長均須接受特別訓練。
 
 ##### 3ATENU1-2
 
 首兩輛Enviro 500 MMC 12.8米（3ATENU1-2）為樣版車，採用ZF EcoLife
-6AP1700B六前速波箱。兩部樣版車已於2014年7月10日正式出牌，分別入藉屯門和沙田車廠。3ATENU1在2014年7月測試行走線，但未能成功。\[34\]3ATENU2其後在2014年8月中旬調往沙田車廠，測試路線改為線。經過路面測試及車長訓練後，該兩輛Enviro
+6AP1700B六前速波箱。兩部樣版車已於2014年7月10日正式出牌，分別入藉屯門和沙田車廠。3ATENU1在2014年7月測試行走線，但未能成功。\[36\]3ATENU2其後在2014年8月中旬調往沙田車廠，測試路線改為線。經過路面測試及車長訓練後，該兩輛Enviro
 500 MMC
 12.8米樣版車於2014年8月22日首航73X線。九巴給予車隊編號類型為3ATENU，是九巴首次以六個英文字母混合數字作為車型代號，兩輛巴士於2016年9月15日由沙田車廠（S）被調往屯門車廠（U）改掛線，兩輛巴士於2018年3月23日改掛線，車尾四盞LED燈在同年底陸續拆除。
 
@@ -323,7 +326,7 @@ S480座椅。新車改用Hanover橙色LED路線顯示器，上層車頭改用全
 MMC屬同一訂單）。其中3ATENU3, 5-11, 16, 19,
 23-32、50採用備有SensoTop程式的Voith DIWA 864.5波箱，其餘新車則採用ZF
 EcoLife
-6AP1700B六前速波箱。首部新車（3ATENU3）已於2015年10月22日正式出牌，同年10月24日正式首航[B1線](https://zh.wikipedia.org/wiki/九龍巴士B1線 "wikilink")。新車首20部採用舊款車身，車廂上下層、駕駛室、車廂及車外均裝設閉路電視鏡頭。此外，駕駛室內儀表按鈕位置亦作出大量修改。3ATENU3-22下層車廂設有行李架及多用途空間，主要行走[B1線](https://zh.wikipedia.org/wiki/九龍巴士B1線 "wikilink")，以紓緩該路線擠逼的問題和縮短候車時間\[35\]。
+6AP1700B六前速波箱。首部新車（3ATENU3）已於2015年10月22日正式出牌，同年10月24日正式首航[B1線](https://zh.wikipedia.org/wiki/九龍巴士B1線 "wikilink")。新車首20部採用舊款車身，車廂上下層、駕駛室、車廂及車外均裝設閉路電視鏡頭。此外，駕駛室內儀表按鈕位置亦作出大量修改。3ATENU3-22下層車廂設有行李架及多用途空間，主要行走[B1線](https://zh.wikipedia.org/wiki/九龍巴士B1線 "wikilink")，以紓緩該路線擠逼的問題和縮短候車時間\[37\]。
 2018年10月開始，3ATENU8、21拆除下層行李架及加裝座位，使總載客量改為146人（U63/L35+48）。
 
 另外30輛新車採用Facelift車身，是首批配Facelift車身的12.8米Enviro500
@@ -340,7 +343,7 @@ DIWA 864.5波箱，其餘新車則採用ZF EcoLife
 
 其中3ATENU92-95、97、99-101、103-104、112-116、118-142拆除8個低地台區座椅，以提升企位限額增加載客量，經運輸署驗車後，下層企位提升到61人，總載客量提升至151人。
 
-其中9輛新車已於2016年6月3日正式出牌，而全數新車已於2016年10月6日或之前已經出牌。其中3ATENU53及3ATENU57翌日分別首航73X及58M線。其餘新車陸續上掛42A、59M、67M、68A、68X、258D、263、268C、269C、276P\[36\]、279X、307、373、681、968、978及985路線，而後備車指定路線為39M、43B、44M、49X、52X、60M、60X、86K、87K、182、249M、259D及680線，39M、43B、44M、52X、60M、60X、86K、87K、182、249M、259D及W3線曾掛12.8米巴士，而49X、52X、68A、259D、268C、269C及680線最新獲批12.8米巴士路線，除了49X以外皆有上掛3ATENU，然而259D的車隊於2018年10月與258D的車隊交換配合258D獲批使用12.8米巴士。
+其中9輛新車已於2016年6月3日正式出牌，而全數新車已於2016年10月6日或之前已經出牌。其中3ATENU53及3ATENU57翌日分別首航73X及58M線。其餘新車陸續上掛42A、59M、67M、68A、68X、258D、263、268C、269C、276P\[38\]、279X、307、373、681、968、978及985路線，而後備車指定路線為39M、43B、44M、49X、52X、60M、60X、86K、87K、182、249M、259D及680線，39M、43B、44M、52X、60M、60X、86K、87K、182、249M、259D及W3線曾掛12.8米巴士，而49X、52X、68A、259D、268C、269C及680線最新獲批12.8米巴士路線，除了680以外皆有上掛3ATENU，然而259D的車隊於2018年10月與258D的車隊交換配合258D獲批使用12.8米巴士，至2019年5月259D線方重新上掛3ATENU。
 
 ##### 3ATENUW1/3ATENU152
 
@@ -373,7 +376,7 @@ City）塗裝。全數新車底盤由ADL馬來西亞廠房生產。全數巴士�
 
 [619_ath1.jpg](https://zh.wikipedia.org/wiki/File:619_ath1.jpg "fig:619_ath1.jpg")
 2013年，環境保護署資助九巴購買3部配置歐盟6型油電混合引擎的Enviro 500 Hybrid
-12米巴士。九巴於2014年9月1日發出的新聞稿，顯示了此車採用獨特的拉花（白色配上樹葉圖案，藍色、綠色絲帶，車身貼有hBus圖樣）\[37\]。首部新車已於2014年9月6日晚上到港，成為香港首部混能雙層巴士。九巴其後在2014年9月13日於[九巴月輪街車廠舉辦記者招待會](https://zh.wikipedia.org/wiki/九巴月輪街車廠 "wikilink")，九巴稱會安排這3輛巴士試驗行走[1A](https://zh.wikipedia.org/wiki/九龍巴士1A線 "wikilink")、104及619線，並預計於2014年第4季投入服務。\[38\]車廂內部與外部均與九巴12米柴油版本大致相同。車尾亦加裝四盞LED日行燈，但已在2016年下半年拆除。此三輛巴士自出牌起，一直披著混能環保廣告，至2018年已披上近四年，部分廣告顏色已嚴重脫色，加上歐盟六型的巴士開始大行其道，此款車失去了宣傳意義。故九巴為其重新噴上金色標準色彩，ATH1為首部完成有關工序的車輛，於2018年10月4日率先噴上金色色彩，並於翌日早上重投服務。
+12米巴士。九巴於2014年9月1日發出的新聞稿，顯示了此車採用獨特的拉花（白色配上樹葉圖案，藍色、綠色絲帶，車身貼有hBus圖樣）\[39\]。首部新車已於2014年9月6日晚上到港，成為香港首部混能雙層巴士。九巴其後在2014年9月13日於[九巴月輪街車廠舉辦記者招待會](https://zh.wikipedia.org/wiki/九巴月輪街車廠 "wikilink")，九巴稱會安排這3輛巴士試驗行走[1A](https://zh.wikipedia.org/wiki/九龍巴士1A線 "wikilink")、104及619線，並預計於2014年第4季投入服務。\[40\]車廂內部與外部均與九巴12米柴油版本大致相同。車尾亦加裝四盞LED日行燈，但已在2016年下半年拆除。此三輛巴士自出牌起，一直披著混能環保廣告，至2018年已披上近四年，部分廣告顏色已嚴重脫色，加上歐盟六型的巴士開始大行其道，此款車失去了宣傳意義。故九巴為其重新噴上金色標準色彩，ATH1為首部完成有關工序的車輛，於2018年10月4日率先噴上金色色彩，並於翌日早上重投服務。
 
 首部新車已於2014年10月29日正式出牌，其中ATH2於同年11月11日下午三時半首航1A線；其餘2輛Enviro 500 MMC
 Hybrid巴士ATH1及ATH3分別於11月13日及12月5日首航619及104線。
@@ -388,14 +391,14 @@ Hybrid巴士ATH1及ATH3分別於11月13日及12月5日首航619及104線。
 [9509_LWB_E32_17-08-2018.jpg](https://zh.wikipedia.org/wiki/File:9509_LWB_E32_17-08-2018.jpg "fig:9509_LWB_E32_17-08-2018.jpg")
 2012年7月，載通國際為龍運訂購22輛配置歐盟5型引擎、ZF Ecolife 6AP1700B六前速波箱的普通版本Enviro 500 MMC
 12米巴士（與載通國際為九巴訂購的第一批198輛Enviro 500
-MMC屬同一訂單）。\[39\]。而第二張訂單中，原僅有6輛分配給龍運，後來為解決龍運長遠換車問題，九巴在第二批訂單中撥出19輛新車予龍運巴士，並有相應數量的普通版丹尼士三叉戟巴士轉往九巴服務，成為9523-9541，其餘新車（9501-9522、9542-9547）由載通國際直接分配購入。當中9501-9522與九巴第一批Enviro
+MMC屬同一訂單）。\[41\]。而第二張訂單中，原僅有6輛分配給龍運，後來為解決龍運長遠換車問題，九巴在第二批訂單中撥出19輛新車予龍運巴士，並有相應數量的普通版丹尼士三叉戟巴士轉往九巴服務，成為9523-9541，其餘新車（9501-9522、9542-9547）由載通國際直接分配購入。當中9501-9522與九巴第一批Enviro
 500MMC屬同一批次，而9523-9547則與九巴第二批訂單屬同一批次，車尾亦安裝了四盞LED日行燈，但已於2016年起陸續拆除。新車由珠海廣通客車負責組裝車身；機械配備與九巴相同批次之車輛相同；行李架面積比普通版Enviro
 500較小，行李架支架並油上黃色扶手油漆，與同公司其他設有行李架的車輛設計不同（該等車的行李架支架一概不會油上油漆），使用Ventura橫推式中門。座位方面，下層非低地台區域座椅使用
 Vogel Revo S440巴士仔圖案座椅，而下層低地台區域則使用 Vogel Revo S400座椅，所有座椅配上新款的巴士仔圖案，上層使用
 Vogel Revo
 S480座椅。全數改用Hanover橙色LED路線顯示器。上層車頭改用全新設計的電視預留組件（俗稱「檔布」），而電視組件下方的扶手柱，有車輛採用「T」設計，亦有車輛採用「十」字設計。車頂也預留了用作遮掩GPS自動報站系統及GPRS收發天線的保護罩，並改用方形樓梯以増加載客量。新車亦首次改用新款的上海凱倫自動報站機，顯示屏可顯示8個中文字，為龍運首次配上此款報站機。載客量方面，早期設定為84個座位和42個企位，總載客量為126人；其後龍運作出修訂，全部新車修改為84個座位和47個企位，總載客量為131人。
 
-首部新車（9501）已於2013年10月31日抵港，並於2013年12月6日正式出牌，同年12月10日首航S1線。\[40\]
+首部新車（9501）已於2013年10月31日抵港，並於2013年12月6日正式出牌，同年12月10日首航S1線。\[42\]
 
 #### 6501-6526
 
@@ -410,7 +413,7 @@ MMC相同（80XX、68XX））；行李架面積比普通版較大，並不再塗
 
 龍運在這批巴士中選用兩種傳動規格，編號6501-6507及6510選用5.74尾牙比；而餘下的6508、6509、6511-6526則改配5.13尾牙比。
 
-首兩輛新車已於2014年12月30日抵港。首部新車（6501）已於2015年3月27日正式出牌，同年3月28日首航S64線。其餘25部新車（6502-6526）已於2015年4月1日至同年12月8日全數出牌及投入服務。\[41\]現主力行走大嶼山對外路線，間中支援機場路線。
+首兩輛新車已於2014年12月30日抵港。首部新車（6501）已於2015年3月27日正式出牌，同年3月28日首航S64線。其餘25部新車（6502-6526）已於2015年4月1日至同年12月8日全數出牌及投入服務。\[43\]現主力行走大嶼山對外路線，間中支援機場路線。
 
 6508-6526車尾不再設有四盞紅色LED提示燈。
 
@@ -505,9 +508,9 @@ MMC 11.3米巴士，車隊編號為9100-9148，當中10輛新車原為Enviro
 這批巴士設有樹擋，電視組件則採用全新設計的「襠布」以及方梯設計。此外，新車開啟車頭大燈後，車內燈光會根據車門的開關自動調節光暗。
 
 首兩輛新車（9100、9102）已於2013年5月22日出牌，為城巴首兩部市區版本的Enviro 500
-MMC，並於翌日分別首航788及789線，9101則於2013年5月24日出牌，其餘46部新車（9103-9148）亦於同年12月前全數出牌及投入服務。這批新車中，9100-9109入籍營運壹部柴灣（E）車廠，己於2017年9月調往黃竹坑車廠（S），其餘入籍黃竹坑車廠（S），現時主要行走25A、37A、37B、40、40M、71、90B、95C、98及973等路線。
+MMC，並於翌日分別首航788及789線，9101則於2013年5月24日出牌，其餘46部新車（9103-9148）亦於同年12月前全數出牌及投入服務。這批新車中，9100-9109入籍營運壹部柴灣（E）車廠，已於2017年9月調往黃竹坑車廠（S），其餘入籍黃竹坑車廠（S），現時主要行走25A、37A、37B、40、40M、71、90B、95C、98及973等路線。
 
-9104、9105、9109、9111-9148原附設尾軸反方向輔助轉向功能，惟因意外眾多加上規格跟運輸署驗車記錄不符，尾軸反方向輔助轉向功能已於2013年11月起陸續被鎖上。經丹尼士廠方和運輸署協商後，在2016年批准開啟尾軸輔助轉向系統。本批車的9117共1輛批准啟用尾軸輔助轉向系統，被固定安排行走指定路線（請參閱上面城巴一段）。
+9104、9105、9109、9111-9148原附設尾軸反方向輔助轉向功能，惟因意外眾多加上規格跟運輸署驗車記錄不符，尾軸反方向輔助轉向功能已於2013年11月起陸續被鎖上。經丹尼士廠方和運輸署協商後，在2016年批准開啟尾軸輔助轉向系統。
 
 #### 8000-8065
 
@@ -517,8 +520,8 @@ MMC
 500
 MMC（8000-8003）已於2013年3月29日起投入服務，其餘62部新車（8004-8065）已於2013年5月至2014年9月全數出牌及投入服務。
 
-車廂採用了桃紅色的扶手及可調較角度的Lazzerini GTS 3700真皮座椅\[42\]，上層及下層的最後一排座椅為Lazzerini
-City真皮座椅，所有座椅設有腳踏,並設有獨立閱讀燈和下車鐘按鈕；同時報站系統\[43\]亦由直立式改為橫置式並額外增加一個電子路線圖屏幕在其中一個位於下層的電視組件內、下層樓梯位和行李架的位置改用了金屬鋁板取代玻璃\[44\]，行李架的體積亦有增加，行李架支架並油上桃紅色扶手油漆，車身左側和車尾的電子路線顯示板使用長幅式Hanover顯示屏，以顯示該車行走路線之目的地。上層除車頭及樓梯外，其他地方不設扶手柱。這批巴士設有從外抽鮮風入車廂的功能，中間亦加裝了靜電除塵裝置過濾，以改善車廂內空氣質素\[45\]。這批新車設有74個座位和46個企位，總載客量為120人。
+車廂採用了桃紅色的扶手及可調較角度的Lazzerini GTS 3700真皮座椅\[44\]，上層及下層的最後一排座椅為Lazzerini
+City真皮座椅，所有座椅設有腳踏,並設有獨立閱讀燈和下車鐘按鈕；同時報站系統\[45\]亦由直立式改為橫置式並額外增加一個電子路線圖屏幕在其中一個位於下層的電視組件內、下層樓梯位和行李架的位置改用了金屬鋁板取代玻璃\[46\]，行李架的體積亦有增加，行李架支架並油上桃紅色扶手油漆，車身左側和車尾的電子路線顯示板使用長幅式Hanover顯示屏，以顯示該車行走路線之目的地。上層除車頭及樓梯外，其他地方不設扶手柱。這批巴士設有從外抽鮮風入車廂的功能，中間亦加裝了靜電除塵裝置過濾，以改善車廂內空氣質素\[47\]。這批新車設有74個座位和46個企位，總載客量為120人。
 
 在原有安排下，由8009開始的城巴 CityFlyer Enviro 500
 MMC新車將會附設尾軸反方向輔助轉向功能，惟因意外眾多加上規格跟運輸署驗車記錄不符，尾軸反方向輔助轉向功能於2013年11月陸續被鎖上。不過城巴後來亦決定於2017年起陸續重開尾軸轉向功能。
@@ -545,11 +548,11 @@ City 2657座椅，上層及下層座椅數量分別維持為55人及31人，但�
 
 2013年，[新創建集團為城巴訂購](../Page/新創建集團.md "wikilink")104輛配置歐盟5型引擎、ZF Ecolife
 6AP1700B六前速波箱的普通版本Enviro 500 MMC 12米巴士，編號分別為8361-8399、
-8402-8466\[46\]。用以取代90輛於1997年出牌配Alexander
-RX車身（511-585、621-635）及14輛轉往非專利部的富豪奧林比安12／11.3米（601-610、986-988、991）。其中8362-8399、8402-8427、8448-8449共66副底盤由ADL馬來西亞廠房製造\[47\]\[48\]，是香港首批出牌，由馬來西亞輸出的ADL巴士底盤；而車身則繼續由珠海廣通客車負責組裝。
+8402-8466\[48\]。用以取代90輛於1997年出牌配Alexander
+RX車身（511-585、621-635）及14輛轉往非專利部的富豪奧林比安12／11.3米（601-610、986-988、991）。其中8362-8399、8402-8427、8448-8449共66副底盤由ADL馬來西亞廠房製造\[49\]\[50\]，是香港首批出牌，由馬來西亞輸出的ADL巴士底盤；而車身則繼續由珠海廣通客車負責組裝。
 
 這批巴士車廂規格與上一批投入服務的12米Enviro 500 MMC巴士（8321-8360）相若，但改用較薄和輕量化的Lazzerini
-Citylight座椅，故上層座位數量增加四個，總載客量增加至137人（U59/L31+S47），但巴士上層的冷氣出風口配置並沒有因為座椅增加而作出更改。車廂改用黃色LED照明系統，車頭沒有設置樹擋，車外裝設閉路電視鏡頭。首兩部新車（8361和8362）分別於2014年1月28日及2014年2月5日正式出牌，翌日首航線\[49\]，其餘102部新車（8363-8399、
+Citylight座椅，故上層座位數量增加四個，總載客量增加至137人（U59/L31+S47），但巴士上層的冷氣出風口配置並沒有因為座椅增加而作出更改。車廂改用黃色LED照明系統，車頭沒有設置樹擋，車外裝設閉路電視鏡頭。首兩部新車（8361和8362）分別於2014年1月28日及2014年2月5日正式出牌，翌日首航線\[51\]，其餘102部新車（8363-8399、
 8402-8466）則於同年2月至11月全數出牌及投入服務。此批新車雖全屬柴灣車廠（E），但在日常車務安排上，這批新車將優先調派行走新界區過海隧道巴士路線。8450、8452、8454、8455及8451、8453、8456-8459分別於於2015年及2016年拆除下層6個座位，改為企位，總載客量增加至139人（U59/L25+S55），為現時城巴載客量最高的12米低地台巴士，並啟用尾軸輔助轉向系統。經丹尼士廠方和運輸處協商後，在2016年初批准陸續開啟尾軸輔助轉向系統。
 
 2017年，鑑於新巴需要大量12米巴士以用作填補因首批1999年富豪超級奧林比安12米退役而產生的車隊空缺，令早前訂購的Enviro500
@@ -578,8 +581,8 @@ Dennis標誌的輪蓋，後期拆除了輪蓋，以便檢查車輪螺絲。
 #### 8400-8401
 
 2013年，環境保護署資助新創建集團購買3輛配備油電混合引擎的Enviro 500 Hybrid
-12米巴士\[50\]，其中兩部新車分配予城巴，車隊編號為8400及8401，新車配備與九巴和新巴的相同。城巴2014年9月1日發出新聞稿介紹此車，此兩部新車配有康明斯ISBe歐盟六型引擎，車身配有標準城巴配色，車身後半部漆有淺綠色、深綠色拉花，並有混合動力、Hybrid字樣。\[51\]
-\[52\]
+12米巴士\[52\]，其中兩部新車分配予城巴，車隊編號為8400及8401，新車配備與九巴和新巴的相同。城巴2014年9月1日發出新聞稿介紹此車，此兩部新車配有康明斯ISBe歐盟六型引擎，車身配有標準城巴配色，車身後半部漆有淺綠色、深綠色拉花，並有混合動力、Hybrid字樣。\[53\]
+\[54\]
 
 首輛新車（8401）已於2014年9月25日抵港，同年11月12日正式出牌，2014年11月22日首航5B線；另一輛新車（8400）已於2014年11月16日抵港，同年12月6日起首航969線，並於2017年起改為行走1、5B及10線。
 
@@ -593,7 +596,7 @@ Palatine車身的富豪奧林比安12米（586-600）、1997年市區版丹尼�
 Citylight座椅，惟車廂部份組件轉用較深的紫色以及尾牙比改為5.74以節省燃油消耗。此批新車中8467-8506共40輛新車總載客量維持137人（U59/L31+S47），被編往營運壹部柴灣（E）車廠，主要行走市區路線。2016年4月至6月，8491-8506增設行李架，總載客量減少至131人（U59/L25+S47），同年5月改為營運貳部北區（N）車廠，主要行走深圳灣口岸路線（同時有16部[Enviro
 500](https://zh.wikipedia.org/wiki/Enviro_500 "wikilink")（8225-8240）轉往營運壹部柴灣車廠）。2018年6月，8484-8489左頭軸上方增設了雙層小型行李架增設及在下層樓梯後位置加裝一組輪椅停放區及行李架，總載客量減少至133人（U59/L23+S51），主要行走九龍區[22線](../Page/城巴22線.md "wikilink")。而8507-8536共30輛新車於出廠時已安裝密封式行李架及車內設有太陽簾，總載客量則為132人（U59/L27+S46），被編往營運貳部小濠灣（T）車廠，主要行走北大嶼山路線；而兩者車廂繼續使用黃色LED照明系統、車頭沒有設置樹擋、以及車外裝設閉路電視鏡頭；而車身左側的電子路線顯示板改用長幅式Hanover顯示屏（與城巴機場快線Enviro
 500
-MMC相同），以顯示該車行走路線之目的地\[53\]，上層車廂的冷氣出風口位置按座位數量而作出修改。全部新車在正式出牌前已經裝上新款印有Alexander
+MMC相同），以顯示該車行走路線之目的地\[55\]，上層車廂的冷氣出風口位置按座位數量而作出修改。全部新車在正式出牌前已經裝上新款印有Alexander
 Dennis標誌的輪蓋。這批新車中，8519-8536共18副底盤由ADL馬來西亞廠房生產。
 
 首兩部新車（8467,
@@ -682,8 +685,7 @@ MMC
 #### 6844-6871
 
 新創建於2018年3月21日發出標書招標訂購28輛城巴機場快線規格的12.8米巴士，最終合約由亞歷山大丹尼士（亞太）有限公司奪得，需為城巴供應28輛Enviro500
-MMC 12.8米客車版巴士，車身編號獲編為J517，新巴士採用與Enviro 400 XLB相似的玻璃樓梯設計。
-首台底盤（底盤序號為6621）已於2019年2月25日由車船Morning
+MMC 12.8米客車版巴士，車身編號獲編為J517。 首台底盤（底盤序號為6621）已於2019年2月25日由車船Morning
 Lily連同9輛九巴富豪B8L運抵本港。
 
 ### [新世界第一巴士](../Page/新世界第一巴士.md "wikilink")
@@ -699,28 +701,28 @@ Lily連同9輛九巴富豪B8L運抵本港。
 2013年，[新創建集團為新巴購買](../Page/新創建集團.md "wikilink")12輛配置歐盟5型引擎、ZF Ecolife
 6AP1700B六前速波箱的Enviro 500 MMC
 11.3米巴士，由珠海廣通客車負責組裝車身，車廂配置和底盤型號與同期投入服務的城巴版本（9100-9148）相近，惟改用了較薄和輕量化的Lazzerini
-Citylight座椅，故上層座位數量增加兩個，總載客量增加至124人（U53/L25+S46）\[54\]。此外，車廂全面改用黃色LED照明系統，車外裝設閉路電視鏡頭，是全港首批巴士設有車外鏡頭監察路面情況。
+Citylight座椅，故上層座位數量增加兩個，總載客量增加至124人（U53/L25+S46）\[56\]。此外，車廂全面改用黃色LED照明系統，車外裝設閉路電視鏡頭，是全港首批巴士設有車外鏡頭監察路面情況。
 
 此批新車用以取代其中部份因年事已高的[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")（VA37、39、41、44、45、49、50）、[丹尼士禿鷹](https://zh.wikipedia.org/wiki/丹尼士禿鷹 "wikilink")11米（DA59、61、65）及[丹尼士飛鏢SLF](https://zh.wikipedia.org/wiki/丹尼士飛鏢 "wikilink")（2028）巴士，另填補因在同年2月焚毀並已提早於同年8月退役的[丹尼士三叉戟](https://zh.wikipedia.org/wiki/丹尼士三叉戟 "wikilink")（1053）巴士的空缺。首3輛投入服務的Enviro
 500 MMC
-11.3米巴士（4041、4042、4043）於2013年12月31日正式出牌，並於2014年1月2日分別首航[2及](../Page/新巴2號線.md "wikilink")[641線](https://zh.wikipedia.org/wiki/過海隧道巴士641線 "wikilink")。\[55\]
+11.3米巴士（4041、4042、4043）於2013年12月31日正式出牌，並於2014年1月2日分別首航[2及](../Page/新巴2號線.md "wikilink")[641線](https://zh.wikipedia.org/wiki/過海隧道巴士641線 "wikilink")。\[57\]
 
 #### 5600
 
 2013年，環境保護署資助新創建集團購買3輛配備油電混合引擎的Enviro 500 Hybrid
-12米巴士，其中一部新車分配予新巴，車隊編號為5600。新巴城巴網頁於2014年9月1日發出新聞稿介紹此車，此車配有康明斯ISBe歐盟六型引擎，車身配有新巴標準配色，惟車身的下半部有一條綠色飾條，後半部漆有淺綠色、深綠色拉花，並有混合動力、Hybrid字樣。\[56\]
-車廂內部與同期城巴的12米柴油版本相若。新車已於2014年9月17日抵港\[57\]於2014年11月7日正式出牌，車牌號碼為TA3523，同年11月22日首航8線。
+12米巴士，其中一部新車分配予新巴，車隊編號為5600。新巴城巴網頁於2014年9月1日發出新聞稿介紹此車，此車配有康明斯ISBe歐盟六型引擎，車身配有新巴標準配色，惟車身的下半部有一條綠色飾條，後半部漆有淺綠色、深綠色拉花，並有混合動力、Hybrid字樣。\[58\]
+車廂內部與同期城巴的12米柴油版本相若。新車已於2014年9月17日抵港\[59\]於2014年11月7日正式出牌，車牌號碼為TA3523，同年11月22日首航8線。
 
 #### 5583-5599、5601-5669
 
 2014年6月，[新創建集團為新巴購買](../Page/新創建集團.md "wikilink")86輛配置歐盟5型引擎、ZF Ecolife
 6AP1700B六前速波箱的Enviro 500 MMC
-12米巴士\[58\]，由珠海廣通客車負責組裝車身，車廂配置和底盤型號與同期投入服務的城巴Enviro
+12米巴士\[60\]，由珠海廣通客車負責組裝車身，車廂配置和底盤型號與同期投入服務的城巴Enviro
 500 MMC 12米巴士（8467-8506）相同，繼續使用較薄和輕量化的Lazzerini
 Citylight座椅，總載客量為137人（U59/L31+S47）。此外，車廂繼續使用黃色LED照明系統，車頭沒有設置樹擋，車外裝設閉路電視鏡頭，設有車外鏡頭監察路面情況；而車身左側的電子路線顯示板改用長幅式Hanover顯示屏（與城巴機場快綫Enviro
 500 MMC相同），以顯示該車行走路線之目的地。這批新車中，5598-5599、5601-5608共十副底盤由ADL馬來西亞廠房生產。
 
-此批新車用以取代其中部份因年事已高或意外的[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")（VA56、58、59、65-70、73-76）、丹尼士禿鷹11米（DA62、63、66-73、77-79）巴士及[丹尼士三叉戟](https://zh.wikipedia.org/wiki/丹尼士三叉戟 "wikilink")12米（1001-1049、1051、1066、1093、1099、1148、3043）。另填補因在2014年至2015年退役的6輛[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")（VA71-76）巴士及5部[丹尼士三叉戟](https://zh.wikipedia.org/wiki/丹尼士三叉戟 "wikilink")12米（1215-1219）改裝為[人力車觀光巴士](../Page/人力車觀光巴士.md "wikilink")，以便將5輛[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")（VA51-55）過檔至城巴的空缺。首輛新車（5583）已於2014年12月1日抵港\[59\]，2015年1月5日正式出牌及投入服務。經丹尼士廠方和運輸處協商後，在2015年初批准開啟尾軸輔助轉向系統。本批新車的5587及5588成為首兩部啟用尾軸輔助轉向系統的Enviro
+此批新車用以取代其中部份因年事已高或意外的[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")（VA56、58、59、65-70、73-76）、丹尼士禿鷹11米（DA62、63、66-73、77-79）巴士及[丹尼士三叉戟](https://zh.wikipedia.org/wiki/丹尼士三叉戟 "wikilink")12米（1001-1049、1051、1066、1093、1099、1148、3043）。另填補因在2014年至2015年退役的6輛[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")（VA71-76）巴士及5部[丹尼士三叉戟](https://zh.wikipedia.org/wiki/丹尼士三叉戟 "wikilink")12米（1215-1219）改裝為[人力車觀光巴士](../Page/人力車觀光巴士.md "wikilink")，以便將5輛[富豪奧林比安](https://zh.wikipedia.org/wiki/富豪奧林比安 "wikilink")（VA51-55）過檔至城巴的空缺。首輛新車（5583）已於2014年12月1日抵港\[61\]，2015年1月5日正式出牌及投入服務。經丹尼士廠方和運輸處協商後，在2015年初批准開啟尾軸輔助轉向系統。本批新車的5587及5588成為首兩部啟用尾軸輔助轉向系統的Enviro
 500
 MMC巴士，而5583-5586已於稍後時間開啟尾軸輔助轉向系統。另外，本批新車的5603-5616及5626共15輛在出牌時一度未有裝上輪蓋，其後裝上輪蓋，但後來輪蓋已經拆除，以便檢查車輪螺絲。
 
@@ -848,9 +850,9 @@ CityLight座椅，使載客量增加至124人（與新巴4040-4051相同）。�
 [SMRTBuses-ADL-Enviro500-MMC.JPG](https://zh.wikipedia.org/wiki/File:SMRTBuses-ADL-Enviro500-MMC.JPG "fig:SMRTBuses-ADL-Enviro500-MMC.JPG")
 [SMRT巴士於](../Page/SMRT巴士.md "wikilink")2013年訂購201輛配置歐盟5型引擎、ZF Ecolife
 6AP1700B六前速波箱的Enviro 500 MMC 12米巴士，其中116輛巴士將使用於新加坡陸路交通管理局推行的巴士服務提升計劃（Bus
-Service Enhancement Programme，BSEP） \[60\]，已於2014-2015年付運\[61\]。
+Service Enhancement Programme，BSEP） \[62\]，已於2014-2015年付運\[63\]。
 
-首兩部樣板巴士已於2014年5月26日運抵新加坡，\[62\]並分別於同年6月19日及6月25日正式出牌。\[63\]\[64\]
+首兩部樣板巴士已於2014年5月26日運抵新加坡，\[64\]並分別於同年6月19日及6月25日正式出牌。\[65\]\[66\]
 首部樣板車（SMB5001A）由英國原廠製造底盤及組裝車身；第二部樣版車（SMB5002Y）底盤由英國原廠製造，而車身則由珠海廣通客車負責組裝。其餘新車底盤均由ADL馬來西亞廠房生產，並由珠海廣通客車負責組裝車身。
 
 這批巴士採用[Vogelsitze
@@ -858,7 +860,7 @@ System 750/3](http://www.vogelindustries.com.my/usr/product.aspx?pgid=35)座位�
 
 其中三部新車已於2014年7月13日起行走BSEP 972線，這批巴士現在行走 61, 67, 75, 77, 106, 169, 172,
 176, 178, 180, 187, 188, 189, 190, 700, 850E, 854, 856, 857, 868, 911E,
-951E, 960, 961, 963, 964, 965, 966, 969, 972, 975, 981, 983和985路線。\[65\]
+951E, 960, 961, 963, 964, 965, 966, 969, 972, 975, 981, 983和985路線。\[67\]
 
 2014年，新加坡陸路交通管理局計劃將新加坡巴士路線劃分為14個地區進行招標，由巴士公司競投。因此，SMRT將所有Enviro 500
 MMC轉移予新加坡陸路交通管理局。2016年5月29日起，部份Enviro 500 MMC租予Tower Transit營運。
@@ -877,7 +879,7 @@ KL）。首兩輛樣板車由英國原廠製造底盤及組裝車身，其餘新
 這批巴士配置Cummins ISL8.9E3
 325B引擎，設有樹擋。載客量方面，這批巴士設置78個座位和47個企位，載客量為125人。最高行車速度（以[平路計](../Page/平路.md "wikilink")）為80KM/H。
 
-首部新車已於2014年10月付運，已於2015年9月7日投入服務\[66\]。這批巴士服務在巴生河流域地區一些高客量路線，尤其是蕉賴、莎阿南至吉隆坡以及吉隆坡市區路線\[67\]。2015年9月7日正式首航U80路線。現時這批巴士主要行走300,
+首部新車已於2014年10月付運，已於2015年9月7日投入服務\[68\]。這批巴士服務在巴生河流域地區一些高客量路線，尤其是蕉賴、莎阿南至吉隆坡以及吉隆坡市區路線\[69\]。2015年9月7日正式首航U80路線。現時這批巴士主要行走300,
 450, 590, 750和751路線。
 
 其後[檳城快捷通亦購入](https://zh.wikipedia.org/wiki/檳城快捷通 "wikilink")33架同型號巴士，但載客量大減至108人。該批巴士已於2016年7月投入服務。
@@ -887,9 +889,9 @@ KL）。首兩輛樣板車由英國原廠製造底盤及組裝車身，其餘新
 [NZBus_5016_Enviro500mmc.jpg](https://zh.wikipedia.org/wiki/File:NZBus_5016_Enviro500mmc.jpg "fig:NZBus_5016_Enviro500mmc.jpg")
 
 新西蘭Global public transport company於2015年2月訂購15輛採用ZF Ecolife
-6AP1700B六前速波箱的Enviro 500 MMC 12.5米巴士，將於2015年第四季投入服務\[68\]。
+6AP1700B六前速波箱的Enviro 500 MMC 12.5米巴士，將於2015年第四季投入服務\[70\]。
 
-這批巴士主要行走500、501、550和550x線，由Howick & Eastern Buses營運。 \[69\]
+這批巴士主要行走500、501、550和550x線，由Howick & Eastern Buses營運。 \[71\]
 
 首兩部樣板巴士（500、509）由英國原廠製造底盤及組裝車身，其餘新車均由Kiwi Bus
 Builders位於[新西蘭](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")[陶朗加廠房負責組裝車身](../Page/陶朗加.md "wikilink")。
@@ -898,7 +900,7 @@ Builders位於[新西蘭](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")[�
 
 2015年9月，NZ Bus宣佈訂購23輛、採用備有SensoTop程式的Voith DIWA 864.5D4波箱的Enviro 500 MMC
 12.5米巴士，由Kiwi Bus
-Builders位於[新西蘭](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")[陶朗加廠房負責組裝車身](../Page/陶朗加.md "wikilink")。全部新車底盤由ADL馬來西亞廠房製造\[70\]。這批巴士主要行走274、277和881線。
+Builders位於[新西蘭](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")[陶朗加廠房負責組裝車身](../Page/陶朗加.md "wikilink")。全部新車底盤由ADL馬來西亞廠房製造\[72\]。這批巴士主要行走274、277和881線。
 
 2016年，Birkenhead Transport Ltd訂購8輛Enviro 500 MMC 12.5米巴士，由珠海廣通客車負責組裝車身。
 
@@ -911,14 +913,14 @@ Builders位於[新西蘭](https://zh.wikipedia.org/wiki/新西蘭 "wikilink")[�
 
 位於加利福尼亚州、奥克兰的AC Transit曾在2015年2月25日使用1輛Enviro 500MMC樣版車行走。
 
-Community Transit訂購17輛Enviro 500MMC，其後加訂5輛，2015年下旬投入服務。\[71\]
+Community Transit訂購17輛Enviro 500MMC，其後加訂5輛，2015年下旬投入服務。\[73\]
 
 位於華盛頓州、西雅圖的Sound Transit訂購5輛Enviro 500MMC，主要行走Sound Transit Express。
 
 ## 加拿大
 
 [GO_Transit_SuperLo_Enviro500_8308.jpg](https://zh.wikipedia.org/wiki/File:GO_Transit_SuperLo_Enviro500_8308.jpg "fig:GO_Transit_SuperLo_Enviro500_8308.jpg")
-加拿大Go Transit訂購了250輛3.9米高的Enviro 500 MMC，由多倫多附近一間廠房負責裝嵌車身\[72\]。
+加拿大Go Transit訂購了250輛3.9米高的Enviro 500 MMC，由多倫多附近一間廠房負責裝嵌車身\[74\]。
 
 Strathcona County Transit訂購3輛Enviro 500 MMC。
 
@@ -931,14 +933,14 @@ OC Transpo訂購37輛"Go Anywhere"型號的Enviro 500 MMC，將於2015年陸續�
 ## 墨西哥
 
 2015年，墨西哥Metrobús of Mexico City訂購90輛Enviro 500
-MMC12.8米，並已於2016年陸續付運。\[73\]
+MMC12.8米，並已於2016年陸續付運。\[75\]
 
 ## 德國
 
 [BVG_AD441-III.JPG](https://zh.wikipedia.org/wiki/File:BVG_AD441-III.JPG "fig:BVG_AD441-III.JPG")
 
 2015年10月，德國柏林Berliner Verkehrsbetriebe引入1輛Enviro 500
-MMC作6星期的試驗，以測試Enviro 500 MMC在柏林行走的情況\[74\]\[75\]。
+MMC作6星期的試驗，以測試Enviro 500 MMC在柏林行走的情況\[76\]\[77\]。
 
 2018年10月，柏林BVG公司宣佈購入200輛13.8米的Enviro 500
 MMC車型來取代原有的猛獅雙層巴士車隊，新巴士是三門、雙樓梯設計，會於
@@ -1044,146 +1046,152 @@ MMC車型來取代原有的猛獅雙層巴士車隊，新巴士是三門、雙�
 22. 九龍巴士（一九三三）有限公司，〈[九巴自行研發雙層巴士太陽能發電裝置 以創新思維
     為環保出力](http://www.kmb.hk/tc/news/press/archives/news201709182584.html)〉［新聞稿］，2017年9月18日。
 
-23.
+23. 〈[九巴中環爆炸「燒通頂」全毀](http://s.nextmedia.com/apple/a.php?i=20190512&sec_id=4104&s=0&a=20676577)〉，《蘋果日報》，2019年5月12日。
 
-24. 九龍巴士（一九三三）有限公司，〈[九巴自行研發雙層巴士太陽能發電裝置 以創新思維
+24. 〈[\[突發！\] ATENU53(SD6028) 於中環起火,
+    巴士被燒通頂](https://www.hkitalk.net/HKiTalk2/forum.php?mod=viewthread&tid=1125887&fbclid=IwAR3fcgjKUHZ89Gz26HxeBUTRe78kqFfgGK1JLjRcuTz4upGDRJ5YwiJvq0k)〉，hkitalk.net
+    香港交通資訊網
+
+25.
+
+26. 九龍巴士（一九三三）有限公司，〈[九巴自行研發雙層巴士太陽能發電裝置 以創新思維
     為環保出力](http://www.kmb.hk/tc/news/press/archives/news201709182584.html)〉［新聞稿］，2017年9月18日。
 
-25. <https://drive.google.com/file/d/0B1iNNKGzLtEeUFZHYmlieUY1bTQ/view>
+27. <https://drive.google.com/file/d/0B1iNNKGzLtEeUFZHYmlieUY1bTQ/view>
 
-26. <https://www.facebook.com/plaxtonlbuspage/photos/pb.459548207416219.-2207520000.1443661512./886613174709718/?type=3&theater>
+28. <https://www.facebook.com/plaxtonlbuspage/photos/pb.459548207416219.-2207520000.1443661512./886613174709718/?type=3&theater>
 
-27. [載通國際控股有限公司 須予披露交易 採購ENVIRO 500
+29. [載通國際控股有限公司 須予披露交易 採購ENVIRO 500
     雙層CKD巴士](http://www.hkexnews.hk/listedco/listconews/SEHK/2014/1104/LTN20141104856_C.pdf)[[链接=](https://zh.wikipedia.org/wiki/chrome-extension:/gmpljdlgcdkljlppaekciacdmdlhfeon/images/beside-link-icon.svg "wikilink")](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.hkexnews.hk%2Flistedco%2Flistconews%2FSEHK%2F2014%2F1104%2FLTN20141104856_C.pdf&embedded=true&chrome=false&dov=1)，香港交易所
     - 披露易，4-11-2014。
 
-28. [載通國際控股有限公司 須予披露交易 採購ENVIRO 500
+30. [載通國際控股有限公司 須予披露交易 採購ENVIRO 500
     雙層CKD巴士](http://www.hkexnews.hk/listedco/listconews/SEHK/2015/0202/LTN20150202997_C.pdf)[[链接=](https://zh.wikipedia.org/wiki/chrome-extension:/gmpljdlgcdkljlppaekciacdmdlhfeon/images/beside-link-icon.svg "wikilink")](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.hkexnews.hk%2Flistedco%2Flistconews%2FSEHK%2F2015%2F0202%2FLTN20150202997_C.pdf&embedded=true&chrome=false&dov=1)，香港交易所
     - 披露易，2-2-2015。
 
-29. [載通國際控股有限公司 重大交易
+31. [載通國際控股有限公司 重大交易
     採購ENVIRO 500雙層CKD巴士](http://www.hkexnews.hk/listedco/listconews/SEHK/2015/0413/LTN20150413900_C.pdf)[[链接=](https://zh.wikipedia.org/wiki/chrome-extension:/gmpljdlgcdkljlppaekciacdmdlhfeon/images/beside-link-icon.svg "wikilink")](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.hkexnews.hk%2Flistedco%2Flistconews%2FSEHK%2F2015%2F0413%2FLTN20150413900_C.pdf&embedded=true&chrome=false&dov=1)，香港交易所
     - 披露易，13-4-2015。
 
-30. [九巴率先引入12.8米雙層巴士　更符合環保效益](http://www.kmb.hk/tc/news/press/archives/news201406022036.html)，九巴官方新聞稿，2014-06-02
+32. [九巴率先引入12.8米雙層巴士　更符合環保效益](http://www.kmb.hk/tc/news/press/archives/news201406022036.html)，九巴官方新聞稿，2014-06-02
 
-31. [九巴新冷氣雙層巴士載客146人歷來最多](http://hk.apple.nextmedia.com/realtime/news/20140602/52540376)，蘋果日報，2014-06-02
+33. [九巴新冷氣雙層巴士載客146人歷來最多](http://hk.apple.nextmedia.com/realtime/news/20140602/52540376)，蘋果日報，2014-06-02
 
-32. [九巴「巨無霸」首曝光　亞洲最長載客146人](http://hk.on.cc/hk/bkn/cnt/news/20140602/bkn-20140602122756680-0602_00822_001.html)，東方日報，2014-06-02
+34. [九巴「巨無霸」首曝光　亞洲最長載客146人](http://hk.on.cc/hk/bkn/cnt/news/20140602/bkn-20140602122756680-0602_00822_001.html)，東方日報，2014-06-02
 
-33. 不包括同系列的276線
+35. 不包括同系列的276線
 
-34. [3ATENU1 & 2
+36. [3ATENU1 & 2
     投入載客服務消息](http://www.hkitalk.net/HKiTalk2/thread-866349-1-1.html)，HKitalk.net
 
-35. [水貨客塞爆B1線
+37. [水貨客塞爆B1線
     九巴擬調「巨無霸」巴士應付](http://hk.apple.nextmedia.com/realtime/news/20150319/53546725)，蘋果日報，2015年3月19日。
 
-36.
-37. [九巴新聞稿：九巴率先引進全港首部最先進歐盟第6代環保引擎混能雙層巴士「hBus」](http://www.kmb.hk/tc/news/press/archives/news201409012070.html)
+38.
+39. [九巴新聞稿：九巴率先引進全港首部最先進歐盟第6代環保引擎混能雙層巴士「hBus」](http://www.kmb.hk/tc/news/press/archives/news201409012070.html)
 
-38. [九巴率先引入歐六環保引擎混合動力巴士「hBus」擬行走市區路線　發揮最大環保效益](http://kmb.hk/tc/news/press/archives/news201409132075.html)
+40. [九巴率先引入歐六環保引擎混合動力巴士「hBus」擬行走市區路線　發揮最大環保效益](http://kmb.hk/tc/news/press/archives/news201409132075.html)
     ，九巴新聞檔案，2014年9月13日
 
-39. [載通國際控股有限公司 重大交易
+41. [載通國際控股有限公司 重大交易
     採購ENVIRO 500雙層CKD巴士](http://www.hkexnews.hk/listedco/listconews/SEHK/2015/0413/LTN20150413900_C.pdf)[[链接=](https://zh.wikipedia.org/wiki/chrome-extension:/gmpljdlgcdkljlppaekciacdmdlhfeon/images/beside-link-icon.svg "wikilink")](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.hkexnews.hk%2Flistedco%2Flistconews%2FSEHK%2F2015%2F0413%2FLTN20150413900_C.pdf&embedded=true&chrome=false&dov=1)，香港交易所
     - 披露易，13-4-2015。
 
-40. <https://www.facebook.com/ogphk?ref=stream>
+42. <https://www.facebook.com/ogphk?ref=stream>
 
-41. [載通國際控股有限公司 須予披露交易 採購 ENVIRO 500
+43. [載通國際控股有限公司 須予披露交易 採購 ENVIRO 500
     雙層CKD巴士](http://www.hkexnews.hk/listedco/listconews/SEHK/2014/0612/LTN20140612219_C.pdf)[[链接=](https://zh.wikipedia.org/wiki/chrome-extension:/gmpljdlgcdkljlppaekciacdmdlhfeon/images/beside-link-icon.svg "wikilink")](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.hkexnews.hk%2Flistedco%2Flistconews%2FSEHK%2F2014%2F0612%2FLTN20140612219_C.pdf&embedded=true&chrome=false&dov=1)，香港交易所
     - 披露易，12-6-2014。
 
-42. [GTS 3700](http://www.lazzerini.it/en/90/info.php)，Lazzerini
+44. [GTS 3700](http://www.lazzerini.it/en/90/info.php)，Lazzerini
 
-43. 官方稱電子路線圖屏幕為「動態巴士站表」。[1](https://www.youtube.com/watch?v=nQmOoL6j8u4)
+45. 官方稱電子路線圖屏幕為「動態巴士站表」。[1](https://www.youtube.com/watch?v=nQmOoL6j8u4)
 
-44. [一張由Stuart Robert
+46. [一張由Stuart Robert
     Barber拍攝並上載到Facebook的城巴機場快線Enviro500梯位相片](https://www.facebook.com/photo.php?fbid=567323013283457)
 
-45. [無綫新聞：城巴擬兩年內更新機場快線車隊](http://news.tvb.com/local/515154256db28c223c000003/)，2013年3月26日。
+47. [無綫新聞：城巴擬兩年內更新機場快線車隊](http://news.tvb.com/local/515154256db28c223c000003/)，2013年3月26日。
 
-46. [ATENVIRO
+48. [ATENVIRO
     Facebook專頁近況](https://www.facebook.com/ATENVIRO/posts/10152575859251469)
 
-47. [ATENVIRO
+49. [ATENVIRO
     Facebook專頁近況](https://www.facebook.com/ATENVIRO/posts/10152207686341469?stream_ref=10)
 
-48. [HKitalk：ADL馬來西亞組裝廠尋廠記](http://www.hkitalk.net/HKiTalk2/thread-827490-1-1.html)
+50. [HKitalk：ADL馬來西亞組裝廠尋廠記](http://www.hkitalk.net/HKiTalk2/thread-827490-1-1.html)
 
-49. [2](https://www.facebook.com/photo.php?fbid=609524949085210&set=a.514871361883903.1073741826.459548207416219&type=1)，柏斯敦巴士台
-
-50. [Flickr的一幅相片](https://www.flickr.com/photos/c812jgb/13936791107/)
-
-51. [新巴城巴引入混合動力雙層巴士](http://www.nwstbus.com.hk/tc/uploadedPressRelease/6813_01092014_chi.pdf)[[链接=](https://zh.wikipedia.org/wiki/chrome-extension:/gmpljdlgcdkljlppaekciacdmdlhfeon/images/beside-link-icon.svg "wikilink")](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.nwstbus.com.hk%2Ftc%2FuploadedPressRelease%2F6813_01092014_chi.pdf&embedded=true&chrome=false&dov=1)，新巴城巴新聞稿（香港：城巴及新巴公眾事務部，2014年9月1日）。
+51. [2](https://www.facebook.com/photo.php?fbid=609524949085210&set=a.514871361883903.1073741826.459548207416219&type=1)，柏斯敦巴士台
 
 52. [Flickr的一幅相片](https://www.flickr.com/photos/c812jgb/13936791107/)
 
-53. [「28/11 城巴最新一批城市版ADL Enviro 500
+53. [新巴城巴引入混合動力雙層巴士](http://www.nwstbus.com.hk/tc/uploadedPressRelease/6813_01092014_chi.pdf)[[链接=](https://zh.wikipedia.org/wiki/chrome-extension:/gmpljdlgcdkljlppaekciacdmdlhfeon/images/beside-link-icon.svg "wikilink")](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.nwstbus.com.hk%2Ftc%2FuploadedPressRelease%2F6813_01092014_chi.pdf&embedded=true&chrome=false&dov=1)，新巴城巴新聞稿（香港：城巴及新巴公眾事務部，2014年9月1日）。
+
+54. [Flickr的一幅相片](https://www.flickr.com/photos/c812jgb/13936791107/)
+
+55. [「28/11 城巴最新一批城市版ADL Enviro 500
     MMC 12米巴士，車身左側的電子路線牌將使用與客車版（Cityflyer）相同的長幅式Hanover顯示屏。估計新巴士將會主要派往行走北大嶼山路線。」相關照片](https://www.facebook.com/plaxtonlbuspage/photos/a.514871361883903.1073741826.459548207416219/755362241168146/?type=1&permPage=1)，柏斯敦巴士台
     Facebook專頁
 
-54. <http://www.facebook.com/photo.php?fbid=589594164411622&set=a.514871558550550.1073741827.459548207416219&type=1&theater>
+56. <http://www.facebook.com/photo.php?fbid=589594164411622&set=a.514871558550550.1073741827.459548207416219&type=1&theater>
 
-55. [3](http://www.hkitalk.net/HKiTalk2/viewthread.php?tid=813671&page=10#pid2899989)，HKiTalk
+57. [3](http://www.hkitalk.net/HKiTalk2/viewthread.php?tid=813671&page=10#pid2899989)，HKiTalk
 
-56. [新巴城巴引入混合動力雙層巴士](http://www.nwstbus.com.hk/tc/uploadedPressRelease/6813_01092014_chi.pdf)[[链接=](https://zh.wikipedia.org/wiki/chrome-extension:/gmpljdlgcdkljlppaekciacdmdlhfeon/images/beside-link-icon.svg "wikilink")](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.nwstbus.com.hk%2Ftc%2FuploadedPressRelease%2F6813_01092014_chi.pdf&embedded=true&chrome=false&dov=1)，新巴城巴新聞稿（香港：城巴及新巴公眾事務部，2014年9月1日）。
+58. [新巴城巴引入混合動力雙層巴士](http://www.nwstbus.com.hk/tc/uploadedPressRelease/6813_01092014_chi.pdf)[[链接=](https://zh.wikipedia.org/wiki/chrome-extension:/gmpljdlgcdkljlppaekciacdmdlhfeon/images/beside-link-icon.svg "wikilink")](https://docs.google.com/viewer?url=http%3A%2F%2Fwww.nwstbus.com.hk%2Ftc%2FuploadedPressRelease%2F6813_01092014_chi.pdf&embedded=true&chrome=false&dov=1)，新巴城巴新聞稿（香港：城巴及新巴公眾事務部，2014年9月1日）。
 
-57. [「17/9 新巴全新ADL Enviro 500
+59. [「17/9 新巴全新ADL Enviro 500
     Hybrid 12米混合動力雙層巴士，已於今日清晨抵港並由貨櫃碼頭提貨，隨即駛往柴灣創富道車廠。」相關照片](https://www.facebook.com/plaxtonlbuspage/photos/a.718761968161507.1073741853.459548207416219/723251474379223/?type=1&permPage=1)，柏斯敦巴士台
     Facebook專頁
 
-58. [￡80m-flying-start-for-enviro400-as-adl-also-confirms-￡175m-export-wins](http://www.alexander-dennis.com/news/80m-flying-start-for-enviro400-as-adl-also-confirms-175m-export-wins)
+60. [￡80m-flying-start-for-enviro400-as-adl-also-confirms-￡175m-export-wins](http://www.alexander-dennis.com/news/80m-flying-start-for-enviro400-as-adl-also-confirms-175m-export-wins)
     ，Alexander Dennis（01-05-2014）
 
-59. [「1/12 新巴首部 ADL Enviro 500
+61. [「1/12 新巴首部 ADL Enviro 500
     MMC 12米巴士已經運到香港。傍晚時份曾路經藍田經東隧前往柴灣。」](https://www.facebook.com/plaxtonlbuspage/posts/756920757678961)，柏斯敦巴士台
     Facebook專頁
 
-60. 新加坡巴士服務提升計劃（Bus Service Enhancement
+62. 新加坡巴士服務提升計劃（Bus Service Enhancement
     Programme，BSEP）中所購買巴士的車牌號碼數字由35字頭開首；其餘巴士車牌號碼數字均由50或51字頭開首。
 
-61. [SMRT Buses enhances strategy for fleet growth and renewal: Double
+63. [SMRT Buses enhances strategy for fleet growth and renewal: Double
     Deckers among confirmed delivery of over 570
     buses](http://www.mynewsdesk.com/sg/smrt/pressreleases/smrt-buses-enhances-strategy-for-fleet-growth-and-renewal-double-deckers-among-confirmed-delivery-of-over-570-buses-979666)
 
-62. [柏斯敦巴士台
+64. [柏斯敦巴士台
     Facebook專頁近況](https://www.facebook.com/photo.php?fbid=10203141708437325&set=o.459548207416219&type=3&src=https%3A%2F%2Ffbcdn-sphotos-d-a.akamaihd.net%2Fhphotos-ak-prn2%2Ft31.0-8%2F10258223_10203141708437325_1862449636747546250_o.jpg&smallsrc=https%3A%2F%2Ffbcdn-sphotos-d-a.akamaihd.net%2Fhphotos-ak-prn2%2Ft1.0-9%2F10409392_10203141708437325_1862449636747546250_n.jpg&size=1080%2C610)
 
-63. [(buses\[IN](https://www.facebook.com/photo.php?fbid=10201384799256446&set=o.147670341940115&type=1&relevant_count=1)gapore\!)
+65. [(buses\[IN](https://www.facebook.com/photo.php?fbid=10201384799256446&set=o.147670341940115&type=1&relevant_count=1)gapore\!)
     Facebook專頁近況\]
 
-64. \[[https://www.facebook.com/busesingapore/photos/a.178669185506897.36688.147670341940115/750718521635291/?type=3\&src=https%3A%2F%2Ffbcdn-sphotos-a-a.akamaihd.net%2Fhphotos-ak-xfp1%2Ft1.0-9%2F10345532_750718521635291_4912835444139899373_n.png\&size=655%2C666\&fbid=750718521635291(buses\[IN\]gapore](https://www.facebook.com/busesingapore/photos/a.178669185506897.36688.147670341940115/750718521635291/?type=3&src=https%3A%2F%2Ffbcdn-sphotos-a-a.akamaihd.net%2Fhphotos-ak-xfp1%2Ft1.0-9%2F10345532_750718521635291_4912835444139899373_n.png&size=655%2C666&fbid=750718521635291\(buses%5BIN%5Dgapore)\!)
+66. \[[https://www.facebook.com/busesingapore/photos/a.178669185506897.36688.147670341940115/750718521635291/?type=3\&src=https%3A%2F%2Ffbcdn-sphotos-a-a.akamaihd.net%2Fhphotos-ak-xfp1%2Ft1.0-9%2F10345532_750718521635291_4912835444139899373_n.png\&size=655%2C666\&fbid=750718521635291(buses\[IN\]gapore](https://www.facebook.com/busesingapore/photos/a.178669185506897.36688.147670341940115/750718521635291/?type=3&src=https%3A%2F%2Ffbcdn-sphotos-a-a.akamaihd.net%2Fhphotos-ak-xfp1%2Ft1.0-9%2F10345532_750718521635291_4912835444139899373_n.png&size=655%2C666&fbid=750718521635291\(buses%5BIN%5Dgapore)\!)
     Facebook專頁近況\]
 
-65. [SMRT Double Deckers to Begin Service on 13
+67. [SMRT Double Deckers to Begin Service on 13
     July 2014](http://www.mynewsdesk.com/sg/smrt/pressreleases/smrt-double-deckers-to-begin-service-on-13-july-2014-1016455)
     SMRT Corporation 6-7-2014
 
-66. [ATENVIRO
+68. [ATENVIRO
     Facebook專頁近況](https://www.facebook.com/ATENVIRO/posts/10152264396326469?stream_ref=10)
-
-67.
-
-68.
 
 69.
 
-70. "NZ Bus invests in 23 ADL Enviro 500s" *[Coach & Bus
-    Week](https://zh.wikipedia.org/wiki/Coach_&_Bus_Week "wikilink")*
-    issue 1207 22 September 2015 page 14
+70.
 
 71.
 
-72.
+72. "NZ Bus invests in 23 ADL Enviro 500s" *[Coach & Bus
+    Week](https://zh.wikipedia.org/wiki/Coach_&_Bus_Week "wikilink")*
+    issue 1207 22 September 2015 page 14
 
-73. [90 vehicle Mexico City order for Alexander
-    Dennis](http://busandcoach.com/news/articles/90-vehicle-mexico-city-order-for-alexander-dennis/)
-     *Bus & Coach Professional* 5 November 2015
+73.
 
 74.
 
-75. [Six-week Berlin trial for ADL
+75. [90 vehicle Mexico City order for Alexander
+    Dennis](http://busandcoach.com/news/articles/90-vehicle-mexico-city-order-for-alexander-dennis/)
+     *Bus & Coach Professional* 5 November 2015
+
+76.
+
+77. [Six-week Berlin trial for ADL
     Enviro500](http://busandcoach.com/news/articles/berlin-s-bvg-to-put-enviro500-to-the-test/)
     *Bus & Coach Professional* 23 October 2015

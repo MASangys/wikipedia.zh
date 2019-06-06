@@ -446,7 +446,7 @@ PILOT**》（）是[日本](../Page/日本.md "wikilink")[富士電視台於](..
 
 ## 外部連結
 
-  - [富士電視台](http://www.fujitv.co.jp/misspilot/index.html)
+  - [富士電視台](https://web.archive.org/web/20130919020253/http://www.fujitv.co.jp/misspilot/index.html)
   - [緯來日本台](http://japan.videoland.com.tw/channel/20140804/)
 
 ## 節目的變遷

@@ -76,7 +76,7 @@ future.")\[6\]
 [Category:总部在英国的国际组织](https://zh.wikipedia.org/wiki/Category:总部在英国的国际组织 "wikilink")
 [Category:1991年建立的組織](https://zh.wikipedia.org/wiki/Category:1991年建立的組織 "wikilink")
 
-1.  [官网中文版](http://www.populationmatters.org/chinese/) -
+1.  [官网中文版](http://www.populationmatters.org/chinese/)  -
     populationmatters.org
 
 2.  [全球糧食 一半浪費掉](http://www.ciic.org.tw/cht/news_detail.php?serial=127/)

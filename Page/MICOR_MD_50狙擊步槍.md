@@ -14,7 +14,7 @@ St George）所研製。MD 50（Leader
 
 MD
 50狙擊步槍是一枝[犢牛式結構的](../Page/犢牛式_\(槍械\).md "wikilink")[氣動式](../Page/氣動式_\(槍械\).md "wikilink")、[半自動武器](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")。其[機匣是由擠壓](https://zh.wikipedia.org/wiki/機匣 "wikilink")[鋁合金製造而成](../Page/鋁合金.md "wikilink")。MD
-50狙擊步槍的氣動系統具有三個位置的氣體調節器和環形短行程導氣活塞，設於[槍管的周圍](../Page/槍管.md "wikilink")。槍機組件是原創和創新的設計。[滾轉式槍機所具有的三角槍機頭還有三個前方鎖耳](../Page/滾轉式槍機.md "wikilink")——這是大約三十年以前，由聖喬治在他研製的Leader
+50狙擊步槍的氣動系統具有三個位置的氣體調節器和環形短行程導氣活塞，設於[槍管的周圍](../Page/槍管.md "wikilink")。槍機組件是原創和創新的設計。[轉拴式槍栓所具有的三角槍機頭還有三個前方鎖耳](../Page/轉拴式槍栓.md "wikilink")——這是大約三十年以前，由聖喬治在他研製的Leader
 T2步槍當中的一個想法。槍機機框是非常短和輕巧，因而令機匣相對較短和感受到的[後座力較輕](../Page/後座力.md "wikilink")。為了進一步減輕後座力，槍管上還配備了高效能的大型多室式[槍口制退器](../Page/砲口制動器.md "wikilink")。該步槍是由10發容量的可拆卸式[彈匣供彈](../Page/彈匣.md "wikilink")，並且由槍身的右側拋出。瞄準方式是通過[機匣頂部設置了用於瞄準方面的全長度整體式](https://zh.wikipedia.org/wiki/機匣 "wikilink")[MIL-STD-1913戰術導軌](../Page/皮卡汀尼導軌.md "wikilink")，可以裝有多種的瞄準具——諸如日間望遠式[光學瞄準／狙擊鏡](https://zh.wikipedia.org/wiki/瞄準镜 "wikilink")、[红外线](../Page/红外线.md "wikilink")／[熱成像](https://zh.wikipedia.org/wiki/熱成像儀 "wikilink")[夜視儀和](../Page/夜視鏡.md "wikilink")／或後備[機械瞄具](../Page/機械瞄具.md "wikilink")。附件如[兩腳架或握把腳架可以安裝在位於前護木下方的附加導軌](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")。
 
 ## 參見

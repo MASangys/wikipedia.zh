@@ -793,18 +793,27 @@ V社公布了关于《DOTA2》TI8比赛的部分信息，本次比赛将在加�
 
 
 \=== 2019年 ===
-V社公布了关于《DOTA2》TI8比赛的部分信息，本次比赛将在[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[上海的](https://zh.wikipedia.org/wiki/上海市 "wikilink")[梅赛德斯-奔驰文化中心进行](../Page/梅赛德斯-奔驰文化中心.md "wikilink")。
+V社公布了关于《DOTA2》TI9比赛的部分信息，本次比赛将在[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[上海的](https://zh.wikipedia.org/wiki/上海市 "wikilink")[梅赛德斯-奔驰文化中心进行](../Page/梅赛德斯-奔驰文化中心.md "wikilink")。
+
+TI9参赛队伍名额维持18个，但V社决定将直接受邀名额从TI8的8个增至
+12个，而地区预选赛名额则由10个减至6个，等于一个赛区分配一个名额，以此解决「赛区该拿几个名额」的争议。\[33\]
+
+V社也首次要求各参赛队伍不得寻求运动博弈网站的赞助。根据甲级（Major）及乙级（Minor）赛事中各队的累积积分，截至目前为止已有8支TI9直接受邀的队伍出炉。
 
 直接受邀的队伍包括：
 
-  - Virtus.Pro
   - Team Secret
+  - Virtus.pro
+  - Evil Geniuses
   - Vici Gaming
-  - Evil Genius
+  - PSG.LGD
+  - Fnatic
+  - Team Liquid
+  - Ninjas in Pyjamas
 
 ## 媒体报道
 
-DOTA2国际邀请赛的报道最主要渠道为[互联网](../Page/互联网.md "wikilink")。每年的比赛通过网络游戏和电子竞技组织提供在线直播、评论和文章，这同体育评论员和分析师很像。\[33\]2014年7月17日维尔福宣布本届DOTA2国际邀请赛将通过与ESPN的合作在其体育直播网络ESPN3上进行报道。\[34\]
+DOTA2国际邀请赛的报道最主要渠道为[互联网](../Page/互联网.md "wikilink")。每年的比赛通过网络游戏和电子竞技组织提供在线直播、评论和文章，这同体育评论员和分析师很像。\[34\]2014年7月17日维尔福宣布本届DOTA2国际邀请赛将通过与ESPN的合作在其体育直播网络ESPN3上进行报道。\[35\]
 
 ## 注釋
 
@@ -883,6 +892,8 @@ DOTA2国际邀请赛的报道最主要渠道为[互联网](../Page/互联网.md 
 32.  Valve|accessdate=2016-07-01|author=Valve|date=|publisher=}}
 
 33.
-34. 18 Jul 2014, Valve Press Release, [International Dota 2
+
+34.
+35. 18 Jul 2014, Valve Press Release, [International Dota 2
     Championships on ESPN
     Networks](http://store.steampowered.com/news/13929/), Steam

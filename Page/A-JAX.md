@@ -123,7 +123,7 @@ Core進行回歸舞台](https://zh.wikipedia.org/wiki/Music_Core "wikilink")。�
 
 2014年，[文智厚](https://zh.wikipedia.org/wiki/文智厚 "wikilink")、[李承燁](https://zh.wikipedia.org/wiki/李承燁 "wikilink")、[徐在亨](https://zh.wikipedia.org/wiki/徐在亨 "wikilink")、[金導慪都參與了](https://zh.wikipedia.org/wiki/金導慪 "wikilink")《吸血鬼之花》的演出。其中，[金亨坤更以音樂劇演員身份活動中](https://zh.wikipedia.org/wiki/金亨坤 "wikilink")。
 
-### 2016年：成民、智厚、在亨接連退團、加入重熙
+### 2016年至2018年：成民、智厚、在亨退團、加入重熙、選秀節目、亨坤改名、日本回歸
 
 2016年1月，[朴成民因想實現成為嘻哈歌手的夢想而退出](https://zh.wikipedia.org/wiki/朴成民 "wikilink")，但公司強調成民仍為旗下藝人。\[48\]
 
@@ -131,9 +131,7 @@ Core進行回歸舞台](https://zh.wikipedia.org/wiki/Music_Core "wikilink")。�
 
 2月28日，以新的面貌回歸，全力進軍中國市場，交由[星匯傳媒與其一道打理在中國的演藝事業](https://zh.wikipedia.org/wiki/星匯傳媒 "wikilink")。
 
-### 2017年：亨坤改名、日本回歸
-
-升辰、重熙參加《[The Unit](../Page/The_Unit.md "wikilink")》。
+2017年，升辰、重熙參加《[The Unit](../Page/The_Unit.md "wikilink")》。
 
 ### 2019年：團隊解散
 
@@ -891,7 +889,7 @@ PlotData =
 
 <!-- end list -->
 
-  - [官方網站](http://ajax.dspmedia.co.kr/)
+  - [官方網站](https://web.archive.org/web/20160515202835/http://ajax.dspmedia.co.kr/)
 
   - [官方CAFE](http://cafe.daum.net/a-jax)
 

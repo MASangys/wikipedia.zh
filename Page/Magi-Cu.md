@@ -167,7 +167,7 @@ Cute」的[首字母縮略字](../Page/首字母縮略字.md "wikilink")。官�
 
 ## 外部連結
 
-  - [Magi-Cu](http://www.enterbrain.co.jp/magical-cute/)
+  - [Magi-Cu](https://web.archive.org/web/20080120004914/http://www.enterbrain.co.jp/magical-cute/)
 
 [Category:ENTERBRAIN](https://zh.wikipedia.org/wiki/Category:ENTERBRAIN "wikilink")
 [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")

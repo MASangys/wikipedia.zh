@@ -32,13 +32,14 @@ Ltd.*）是在[日本的](../Page/日本.md "wikilink")[唱片公司](../Page/�
   - 成模 from [超新星](https://zh.wikipedia.org/wiki/超新星_\(韓國組合\) "wikilink")
     (2015年〜)
   - [明和電機](../Page/明和電機.md "wikilink") (2014年〜)
-  - [山本彩](../Page/山本彩.md "wikilink") (2016年〜)
+  - [山本彩](../Page/山本彩.md "wikilink") (2016年〜2018年)
   - 允鶴 from [超新星](https://zh.wikipedia.org/wiki/超新星_\(韓國組合\) "wikilink")
     (2016年〜)
 
 ### A-Z
 
   - [NMB48](../Page/NMB48.md "wikilink") (2011年〜)
+  - [RADIO FISH](../Page/RADIO_FISH.md "wikilink") (2015年～)
   - [Rev. from DVL](../Page/Rev._from_DVL.md "wikilink") (2014年〜)
       - [橋本環奈](../Page/橋本環奈.md "wikilink") (2016年〜)
 
@@ -67,7 +68,7 @@ Ltd.*）是在[日本的](../Page/日本.md "wikilink")[唱片公司](../Page/�
 
   - [泡沫青田](../Page/青田典子.md "wikilink") (2006年)
 
-  - [藤森慎吾とAYAMAN](../Page/藤森慎吾.md "wikilink") JAPAN (2011年)
+  - [藤森慎吾與AYAMAN](../Page/藤森慎吾.md "wikilink") JAPAN (2011年)
 
   - 「[桃太郎電鐵](../Page/桃太郎電鐵系列.md "wikilink")20周年紀念專輯」
 

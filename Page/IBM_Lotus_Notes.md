@@ -35,7 +35,6 @@ Technologies](https://zh.wikipedia.org/wiki/HCL_Technologies "wikilink")\[6\]。
 [Category:OS/2软件](https://zh.wikipedia.org/wiki/Category:OS/2软件 "wikilink")
 [Category:Usenet客户端](https://zh.wikipedia.org/wiki/Category:Usenet客户端 "wikilink")
 [Category:面向文档的数据库](https://zh.wikipedia.org/wiki/Category:面向文档的数据库 "wikilink")
-[Category:NoSQL](https://zh.wikipedia.org/wiki/Category:NoSQL "wikilink")
 
 1.  ["IBM Drops Lotus Brand, Takes Notes and Domino
     Forward"](http://www.eweek.com/enterprise-apps/ibm-drops-lotus-brand-takes-notes-and-domino-forward/)

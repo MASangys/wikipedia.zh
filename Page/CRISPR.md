@@ -1,6 +1,6 @@
 [Crispr.png](https://zh.wikipedia.org/wiki/File:Crispr.png "fig:Crispr.png")
 
-**CRISPR**<small>（[IPA](https://zh.wikipedia.org/wiki/國際音標 "wikilink")：/ˈkrɪspər/；[DJ](../Page/DJ音標.md "wikilink")：/ˈkrispə/；[KK](../Page/KK音標.md "wikilink")：/ˈkrɪspɚ/）</small>是存在於细菌中的一種基因組，該類基因組中含有曾經攻擊過該細菌的病毒的基因片段。細菌透過這些基因片段來偵測並抵抗相同病毒的攻擊，並摧毁其DNA。這類基因組是細菌免疫系统的關鍵組成部分。透過這些基因组，人類可以準確且有效地編輯生命體内的部分基因，也就是CRISPR/Cas9基因編輯技術。
+**CRISPR**<small>（[IPA](../Page/國際音標.md "wikilink")：/ˈkrɪspər/；[DJ](../Page/DJ音標.md "wikilink")：/ˈkrispə/；[KK](../Page/KK音標.md "wikilink")：/ˈkrɪspɚ/）</small>是存在於细菌中的一種基因組，該類基因組中含有曾經攻擊過該細菌的病毒的基因片段。細菌透過這些基因片段來偵測並抵抗相同病毒的攻擊，並摧毁其DNA。這類基因組是細菌免疫系统的關鍵組成部分。透過這些基因组，人類可以準確且有效地編輯生命體内的部分基因，也就是CRISPR/Cas9基因編輯技術。
 
 **CRISPR/Cas系統**，為目前發現存在於多數[細菌與絕大多數的](https://zh.wikipedia.org/wiki/細菌 "wikilink")[古菌中的一種](../Page/古菌.md "wikilink")[後天免疫系統](https://zh.wikipedia.org/wiki/後天免疫 "wikilink")\[1\]，以消滅外來的[質體](https://zh.wikipedia.org/wiki/質體 "wikilink")(大陸稱[质粒](../Page/质粒.md "wikilink"))或者[噬菌體](https://zh.wikipedia.org/wiki/噬菌體 "wikilink")\[2\]\[3\]，並在自身[基因組中留下外來基因片段作為](https://zh.wikipedia.org/wiki/基因组 "wikilink")“記憶”\[4\]。全名為**常間回文重複序列叢集/常間回文重複序列叢集關聯蛋白系統**（**C**lustered
 **R**egularly **I**nterspaced **S**hort **P**alindromic

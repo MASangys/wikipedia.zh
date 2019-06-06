@@ -65,7 +65,7 @@ IF產品設計金獎是由知名的德國設計師在1996年設計\[4\]，
 
 ## 外部連結
 
-  - [官方網站](http://ifworlddesignguide.com/the-if-story/)
+  - [官方網站](https://web.archive.org/web/20170406191121/http://ifworlddesignguide.com/the-if-story/)
 
 [Category:設計獎項](https://zh.wikipedia.org/wiki/Category:設計獎項 "wikilink")
 [Category:1954年建立的奖项](https://zh.wikipedia.org/wiki/Category:1954年建立的奖项 "wikilink")

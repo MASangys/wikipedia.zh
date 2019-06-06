@@ -56,6 +56,18 @@ Shadoff)以單回合62桿雙雙追平球場紀錄。以外卡資格參賽的台�
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>2018</p></td>
+<td><p>10月25日至28日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/奈利·科達" title="wikilink">奈利·科達</a>(Nelly Korda)</p></td>
+<td></td>
+<td><p>61-71-69-68=275</p></td>
+<td><p>-13</p></td>
+<td><p>2桿</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/李旻智" title="wikilink">李旻智</a></p></td>
+<td><p>2,200,000</p></td>
+<td><p>330,000</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td><p>10月19日至22日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/池恩熙" title="wikilink">池恩熙</a></p></td>
@@ -67,7 +79,7 @@ Shadoff)以單回合62桿雙雙追平球場紀錄。以外卡資格參賽的台�
 <td><p>2,200,000</p></td>
 <td><p>330,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>10月6日至10月9日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/張荷娜" title="wikilink">張荷娜</a></p></td>
@@ -79,7 +91,7 @@ Shadoff)以單回合62桿雙雙追平球場紀錄。以外卡資格參賽的台�
 <td><p>2,000,000</p></td>
 <td><p>300,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>10月22日至10月25日</p></td>
 <td><p><a href="../Page/高寶璟.md" title="wikilink">高寶璟</a></p></td>
@@ -92,7 +104,7 @@ Shadoff)以單回合62桿雙雙追平球場紀錄。以外卡資格參賽的台�
 <td><p>2,000,000</p></td>
 <td><p>300,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>10月30日至11月2日</p></td>
 <td><p><a href="../Page/朴仁妃.md" title="wikilink">朴仁妃</a></p></td>
@@ -104,7 +116,7 @@ Shadoff)以單回合62桿雙雙追平球場紀錄。以外卡資格參賽的台�
 <td><p>2,000,000</p></td>
 <td><p>300,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>10月24日至27日</p></td>
 <td><p><a href="../Page/蘇珊·彼特森.md" title="wikilink">蘇珊·彼特森</a></p></td>
@@ -116,7 +128,7 @@ Shadoff)以單回合62桿雙雙追平球場紀錄。以外卡資格參賽的台�
 <td><p>2,000,000</p></td>
 <td><p>300,000</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>10月25日至28日</p></td>
 <td><p><a href="../Page/蘇珊·彼特森.md" title="wikilink">蘇珊·彼特森</a></p></td>
@@ -128,7 +140,7 @@ Shadoff)以單回合62桿雙雙追平球場紀錄。以外卡資格參賽的台�
 <td><p>2,000,000</p></td>
 <td><p>300,000</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>10月20日至23日</p></td>
 <td><p><a href="../Page/曾雅妮.md" title="wikilink">曾雅妮</a></p></td>

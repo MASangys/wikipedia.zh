@@ -1,7 +1,7 @@
 **OTT服务**是指「over-the-top」服务，通常是指内容或服务建构在网络基础服务之上，而不需要[电信运营商额外的支持](../Page/电信.md "wikilink")。该概念早期特指音频和视频内容的分发，后来逐渐包含了各种基于[互联网的内容和服务](../Page/互联网.md "wikilink")。典型的例子有[Skype](../Page/Skype.md "wikilink")、[Google
 Voice](../Page/Google_Voice.md "wikilink")、[微信](../Page/微信.md "wikilink")、[互聯網電視等](https://zh.wikipedia.org/wiki/互聯網電視 "wikilink")。
 
-OTT服務需要通過互聯網作資訊傳送，過往需要申領牌照的行業如電訊、電視、電台等媒體，如服務建基於網絡，於很多國家都不會被[規範](https://zh.wikipedia.org/wiki/規範 "wikilink")。但隨著OTT服務被廣泛使用，個別國家如中國大陸近年已嚴格規管。
+OTT服務需要通過互聯網作資訊傳送，過往需要申領牌照的行業如電訊、電視、電台等媒體，如服務建基於網絡，於很多國家都不會被[規範](https://zh.wikipedia.org/wiki/規範 "wikilink")。但隨著OTT服務被廣泛使用，個別國家如中國近年已嚴格規管。
 
 **Over the top**
 本身原為英文中的[籃球用語](https://zh.wikipedia.org/wiki/籃球 "wikilink")，意指「過頂傳球」，即將球傳得比較高遠而越過對手的頭，並最終落至隊友手中\[1\]。
@@ -18,8 +18,8 @@ OTT服務需要通過互聯網作資訊傳送，過往需要申領牌照的行�
 
 在世界上很多地方經營OTT無需領有牌照，但内容仍然受到版權法的規限，不容未獲授權節目上架，并且也提供电视直播。
 
-但是在[中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")，使用OTT廣播受到[廣電總局的规范](https://zh.wikipedia.org/wiki/廣電總局 "wikilink")，而其規管主要著眼於節目或頻道的政治或意識形態方面，但侵權節目（外國電影、綜藝節目、配上[簡體中文字幕的](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")[動畫等](https://zh.wikipedia.org/wiki/動畫 "wikilink")）還是可以常見於中國大陸的OTT平台上
-\[2\]\[3\]\[4\]\[5\]。由于中国大陆的OTT是不得提供正规电视直播，且安卓电视系统又可以自由安装应用，故一些家户均是靠智能电视或第三方网络盒子安装第三方软件收看盗版链接的直播。即使[中国移动电讯运营商它依然保留互联网电视OTT服务](https://zh.wikipedia.org/wiki/中国移动 "wikilink")，但依然会以“电视看点”的名义擦边球提供直播。
+但是在[中華人民共和國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink")，使用OTT廣播受到[廣電總局的规范](https://zh.wikipedia.org/wiki/廣電總局 "wikilink")，而其規管主要著眼於節目或頻道的政治或意識形態方面，但侵權節目（外國電影、綜藝節目、配上[簡體中文字幕的](https://zh.wikipedia.org/wiki/簡體中文 "wikilink")[動畫等](https://zh.wikipedia.org/wiki/動畫 "wikilink")）還是可以常見於中國的OTT平台上
+\[2\]\[3\]\[4\]\[5\]。由于中国的OTT是不得提供正规电视直播，且安卓电视系统又可以自由安装应用，故一些家户均是靠智能电视或第三方网络盒子安装第三方软件收看盗版链接的直播。即使[中国移动电讯运营商它依然保留互联网电视OTT服务](https://zh.wikipedia.org/wiki/中国移动 "wikilink")，但依然会以“电视看点”的名义擦边球提供直播。
 
 ## 知名OTT平台
 

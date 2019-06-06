@@ -1,4 +1,5 @@
 [Niantic_Labs_logo.png](https://zh.wikipedia.org/wiki/File:Niantic_Labs_logo.png "fig:Niantic_Labs_logo.png")
+[Niantic_logo.png](https://zh.wikipedia.org/wiki/File:Niantic_logo.png "fig:Niantic_logo.png")
 **Niantic**（）\[1\]是[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州一家软件开发公司](https://zh.wikipedia.org/wiki/加州 "wikilink")，知名产品为[另类实境游戏](https://zh.wikipedia.org/wiki/另类实境游戏 "wikilink")《[Ingress](../Page/Ingress.md "wikilink")》\[2\]\[3\]和[任天堂旗下](../Page/任天堂.md "wikilink")[精靈寶可夢公司合作開發遊戲](https://zh.wikipedia.org/wiki/精靈寶可夢公司 "wikilink")《[精靈寶可夢GO](../Page/精靈寶可夢GO.md "wikilink")》。
 
 ## 沿革

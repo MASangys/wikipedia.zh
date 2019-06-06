@@ -24,7 +24,7 @@ X佔7.73%，所有Linux系統佔1.61%。\[3\]
 
 #### 採用Linux的理由
 
-由其他作業系統遷移到Linux上的理由包含了更好的系統穩定性、更好的[惡意軟體防護](https://zh.wikipedia.org/wiki/惡意軟體 "wikilink")、很低的價格或免費、可以簡單的更新全部軟體、免費的軟體授權、較大的可自訂性、可以存取程式的[原始碼等等](https://zh.wikipedia.org/wiki/原始碼 "wikilink")。某些[Linux發行版對硬體的要求較低也是原因](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，較老的硬體系統因此可以安裝Linux系統使用。\[4\]\[5\]然而，由於市面上預先安裝好Linux作業系統的電腦甚少，要使用Linux作業系統，使用者通常必須先去該Linux發行版的網站下載映像檔，並製作成開機光碟或開機隨身碟，自行在電腦上安裝Linux。
+Linux擁有更好的系統穩定性、更好的[惡意軟體防護](https://zh.wikipedia.org/wiki/惡意軟體 "wikilink")、很低的價格或免費、可以簡單的更新全部軟體、免費的軟體授權、較大的可自訂性、可以存取程式的[原始碼等等](https://zh.wikipedia.org/wiki/原始碼 "wikilink")。某些[Linux發行版對硬體的要求較低](https://zh.wikipedia.org/wiki/Linux發行版 "wikilink")，因此較舊的硬體系統也可以使用Linux系統。\[4\]\[5\]不過市面上預先安裝好Linux作業系統的電腦甚少，因此使用者通常必須先去該Linux發行版的網站下載映像檔，並製作成開機光碟或開機隨身碟，自行在電腦上安裝Linux。
 
 #### 採用Linux的障礙
 

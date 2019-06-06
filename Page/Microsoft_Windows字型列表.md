@@ -3,965 +3,172 @@
 10的](../Page/Windows_10.md "wikilink")[字型](../Page/计算机字体.md "wikilink")。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]不包含[Microsoft
 Office和其它](../Page/Microsoft_Office.md "wikilink")[微軟應用程式的字型](https://zh.wikipedia.org/wiki/微軟 "wikilink")。
 
-<table>
-<thead>
-<tr class="header">
-<th><p>字型名稱</p></th>
-<th><p>系列</p></th>
-<th><p>對象語言和備註</p></th>
-<th><p>Windows版本</p></th>
-<th><p>範例圖</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>Abadi MT Condensed Light</p></td>
-<td><p>Regular</p></td>
-<td><p><a href="../Page/拉丁字母.md" title="wikilink">拉丁字母</a>／<a href="https://zh.wikipedia.org/wiki/希臘字母" title="wikilink">希臘字母</a>／<a href="https://zh.wikipedia.org/wiki/西里爾字母" title="wikilink">西里爾字母</a></p></td>
-<td><p>98</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Abadi_MT_Condensed_Light_font_sample.png" title="fig:Abadi_MT_Condensed_Light_font_sample.png">Abadi_MT_Condensed_Light_font_sample.png</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Aharoni</p></td>
-<td><p>Bold</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/希伯來字母" title="wikilink">希伯來文</a></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Aharoni_font_sample.JPG" title="fig:Aharoni_font_sample.JPG">Aharoni_font_sample.JPG</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>Aldhabi</p></td>
-<td><p>Regular</p></td>
-<td><p><a href="../Page/阿拉伯字母.md" title="wikilink">阿拉伯文</a></p></td>
-<td><p>8</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Aldhabi_font.svg" title="fig:Aldhabi_font.svg">Aldhabi_font.svg</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Andalus</p></td>
-<td><p>Regular</p></td>
-<td><p>阿拉伯文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Andalus_Font.png" title="fig:Andalus_Font.png">Andalus_Font.png</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>Angsana New</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p><a href="../Page/泰文字.md" title="wikilink">泰文</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>AngsanaUPC</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>泰文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Aparajita</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/天城文" title="wikilink">天城文</a></p></td>
-<td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Arabic Typesetting</p></td>
-<td><p>Regular</p></td>
-<td><p>阿拉伯文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/Arial.md" title="wikilink">Arial</a></p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母、阿拉伯文、希伯來文</p></td>
-<td><p>3.1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Arial_font.svg" title="fig:Arial_font.svg">Arial_font.svg</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Arial Black</p></td>
-<td><p>Black, Black Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母、阿拉伯文、希伯來文</p></td>
-<td><p>98</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Arial_Black_font.png" title="fig:Arial_Black_font.png">Arial_Black_font.png</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/基本體" title="wikilink">Batang</a></p></td>
-<td><p>Regular</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/韓文" title="wikilink">韓文</a></p></td>
-<td><p>XP</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Batang_font.png" title="fig:Batang_font.png">Batang_font.png</a></p></td>
-</tr>
-<tr class="even">
-<td><p>BatangChe</p></td>
-<td><p>Regular</p></td>
-<td><p>韓文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Browallia New</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>泰文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Browalia_new.JPG" title="fig:Browalia_new.JPG">Browalia_new.JPG</a></p></td>
-</tr>
-<tr class="even">
-<td><p>BrowalliaUPC</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>泰文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Browalia_UPC.JPG" title="fig:Browalia_UPC.JPG">Browalia_UPC.JPG</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/Calibri.md" title="wikilink">Calibri</a></p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母、<a href="../Page/越南文字母.md" title="wikilink">越南文</a>（Windows 8.0）</p></td>
-<td><p>Vista</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Calibri_font.svg" title="fig:Calibri_font.svg">Calibri_font.svg</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Calibri Light</p></td>
-<td><p>Regular, Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母、越南文</p></td>
-<td><p>8.0</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/Cambria.md" title="wikilink">Cambria</a></p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>Vista</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Cambria_font.svg" title="fig:Cambria_font.svg">Cambria_font.svg</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Cambria Math</p></td>
-<td><p>Regular</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/數學" title="wikilink">數學</a></p></td>
-<td><p>Vista</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Cambira_Math_font_samlpe.JPG" title="fig:Cambira_Math_font_samlpe.JPG">Cambira_Math_font_samlpe.JPG</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Candara" title="wikilink">Candara</a></p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>Vista</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Candara_font.svg" title="fig:Candara_font.svg">Candara_font.svg</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Comic_Sans_MS" title="wikilink">Comic Sans MS</a></p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>95</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Comic_Sans_font.svg" title="fig:Comic_Sans_font.svg">Comic_Sans_font.svg</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/Consolas.md" title="wikilink">Consolas</a></p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>Vista</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Consolas_font.svg" title="fig:Consolas_font.svg">Consolas_font.svg</a></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>Vista</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Constantia_font.svg" title="fig:Constantia_font.svg">Constantia_font.svg</a></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>Regular, Italic, Bold, Bold Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>Vista</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Corbel_font_sample.JPG" title="fig:Corbel_font_sample.JPG">Corbel_font_sample.JPG</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Cordia New</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>泰文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Cordia_new.JPG" title="fig:Cordia_new.JPG">Cordia_new.JPG</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>CordiaUPC</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>泰文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Cordia_UPC.JPG" title="fig:Cordia_UPC.JPG">Cordia_UPC.JPG</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Courier#Courier_New" title="wikilink">Courier New</a></p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母、阿拉伯文、希伯來文</p></td>
-<td><p>3.1</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>DaunPenh</p></td>
-<td><p>Regular</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/高棉字母" title="wikilink">高棉字母</a></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:DaunPenh_font_sample.JPG" title="fig:DaunPenh_font_sample.JPG">DaunPenh_font_sample.JPG</a></p></td>
-</tr>
-<tr class="even">
-<td><p>David</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>希伯來文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:David_font_sample.JPG" title="fig:David_font_sample.JPG">David_font_sample.JPG</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/標楷體.md" title="wikilink">DFKai-SB</a></p></td>
-<td><p>Regular</p></td>
-<td><p><a href="../Page/繁体字.md" title="wikilink">正體中文</a></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:KAIU.svg" title="fig:KAIU.svg">KAIU.svg</a></p></td>
-</tr>
-<tr class="even">
-<td><p>DilleniaUPC</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>泰文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>DokChampa</p></td>
-<td><p>Regular</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/寮文" title="wikilink">寮文</a>、泰文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Dokchampa_Thai.jpg" title="fig:Dokchampa_Thai.jpg">Dokchampa_Thai.jpg</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/方黑體.md" title="wikilink">Dotum</a></p></td>
-<td><p>Regular</p></td>
-<td><p>韓文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Dotum_font_sample.JPG" title="fig:Dotum_font_sample.JPG">Dotum_font_sample.JPG</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>DotumChe</p></td>
-<td><p>Regular</p></td>
-<td><p>韓文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Ebrima</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>、<a href="../Page/提非納文字.md" title="wikilink">提非納文字</a>、<a href="../Page/瓦伊語.md" title="wikilink">瓦伊語</a></p></td>
-<td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Estrangelo Edessa</p></td>
-<td><p>Regular</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/敘利亞字母" title="wikilink">敘利亞字母</a></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Estrangelo_Edessa_font_sample.JPG" title="fig:Estrangelo_Edessa_font_sample.JPG">Estrangelo_Edessa_font_sample.JPG</a></p></td>
-</tr>
-<tr class="even">
-<td><p>EucrosiaUPC</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>泰文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Eucrosia_UPC.JPG" title="fig:Eucrosia_UPC.JPG">Eucrosia_UPC.JPG</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>Euphemia</p></td>
-<td><p>Regular</p></td>
-<td><p><a href="../Page/加拿大原住民音節文字.md" title="wikilink">加拿大原住民音節文字</a></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Euphemia_Font_Sample.png" title="fig:Euphemia_Font_Sample.png">Euphemia_Font_Sample.png</a></p></td>
-</tr>
-<tr class="even">
-<td><p>FangSong</p></td>
-<td><p>Monospaced</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/简体中文" title="wikilink">簡體中文</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Franklin Gothic Medium</p></td>
-<td><p>Regular, Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>FrankRuehl</p></td>
-<td><p>Regular</p></td>
-<td><p>希伯來文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>FreesiaUPC</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>泰文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Regular</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Gadugi</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p><a href="../Page/切羅基語.md" title="wikilink">切羅基語</a>、加拿大原住民音節文字</p></td>
-<td><p>8</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Gautami</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/泰盧固文" title="wikilink">泰盧固文</a></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Gautami_font.png" title="fig:Gautami_font.png">Gautami_font.png</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/Georgia_(字型).md" title="wikilink">Georgia</a></p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>2000</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Georgia_font.svg" title="fig:Georgia_font.svg">Georgia_font.svg</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Gisha</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>希伯來文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/圓黑體" title="wikilink">Gulim</a></p></td>
-<td><p>Regular</p></td>
-<td><p>韓文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Gulim_font.png" title="fig:Gulim_font.png">Gulim_font.png</a></p></td>
-</tr>
-<tr class="even">
-<td><p>GulimChe</p></td>
-<td><p>Regular</p></td>
-<td><p>韓文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/宮書體" title="wikilink">Gungsuh</a></p></td>
-<td><p>Regular</p></td>
-<td><p>韓文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>GungsuhChe</p></td>
-<td><p>Regular</p></td>
-<td><p>韓文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Impact" title="wikilink">Impact</a></p></td>
-<td><p>Regular</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>98</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Impact_font.svg" title="fig:Impact_font.svg">Impact_font.svg</a></p></td>
-</tr>
-<tr class="even">
-<td><p>IrisUPC</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>泰文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Iskoola Pota</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p><a href="../Page/僧伽羅文.md" title="wikilink">僧伽羅文</a></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Iskoola_Pota.JPG" title="fig:Iskoola_Pota.JPG">Iskoola_Pota.JPG</a></p></td>
-</tr>
-<tr class="even">
-<td><p>JasmineUPC</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>泰文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Jasmine_UPC.JPG" title="fig:Jasmine_UPC.JPG">Jasmine_UPC.JPG</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/中易楷体" title="wikilink">KaiTi</a></p></td>
-<td><p>Regular</p></td>
-<td><p>簡體中文</p></td>
-<td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Kalinga</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p><a href="../Page/奧里亞文.md" title="wikilink">奧里亞文</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Kartika</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p><a href="../Page/馬拉雅拉姆文.md" title="wikilink">馬拉雅拉姆文</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Khmer UI</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>高棉字母</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>KodchiangUPC</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>泰文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Kokila</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>天城文</p></td>
-<td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Lao UI</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>寮文</p></td>
-<td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Latha</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/坦米爾文" title="wikilink">坦米爾文</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Leelawadee</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>泰文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Leelawadee.JPG" title="fig:Leelawadee.JPG">Leelawadee.JPG</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Levenim MT</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>希伯來文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>LilyUPC</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>泰文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Lilly_UPC.JPG" title="fig:Lilly_UPC.JPG">Lilly_UPC.JPG</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/Lucida.md" title="wikilink">Lucida Console</a></p></td>
-<td><p>Regular</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>98</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Lucida_Console_font.svg" title="fig:Lucida_Console_font.svg">Lucida_Console_font.svg</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Lucida_Sans_Unicode" title="wikilink">Lucida Sans Unicode</a></p></td>
-<td><p>Regular</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母、希伯來文</p></td>
-<td><p>98</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/Malgun_Gothic.md" title="wikilink">Malgun Gothic</a></p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>韓文（不包含<a href="../Page/朝鮮漢字.md" title="wikilink">漢字</a>）</p></td>
-<td><p>Vista</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:MS_MalgunGothic.svg" title="fig:MS_MalgunGothic.svg">MS_MalgunGothic.svg</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>Mangal</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>天城文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Mangal_font.png" title="fig:Mangal_font.png">Mangal_font.png</a></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Regular</p></td>
-<td><p>Windows介面</p></td>
-<td><p>95</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/Meiryo.md" title="wikilink">Meiryo</a></p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/日文" title="wikilink">日文</a></p></td>
-<td><p>Vista</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Meiryo_font.svg" title="fig:Meiryo_font.svg">Meiryo_font.svg</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Meiryo UI</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>日文</p></td>
-<td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Microsoft Himalaya</p></td>
-<td><p>Regular</p></td>
-<td><p><a href="../Page/藏文.md" title="wikilink">藏文</a></p></td>
-<td><p>Vista</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/微軟正黑體.md" title="wikilink">Microsoft JhengHei</a></p></td>
-<td><p>Regular, Bold, Light</p></td>
-<td><p>正體中文</p></td>
-<td><p>Vista</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:MSZH.svg" title="fig:MSZH.svg">MSZH.svg</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>Microsoft JhengHei UI</p></td>
-<td><p>Regular, Bold, Light</p></td>
-<td><p>正體中文</p></td>
-<td><p>8</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Microsoft New Tai Lue</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/西雙版納傣文" title="wikilink">西雙版納傣文</a></p></td>
-<td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Microsoft PhagsPa</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/八思巴文" title="wikilink">八思巴文</a></p></td>
-<td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Regular</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母、阿拉伯文、希伯來文、泰文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Microsoft Tai Le</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p><a href="../Page/德宏傣文.md" title="wikilink">德宏傣文</a></p></td>
-<td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Microsoft Uighur</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/維吾爾文" title="wikilink">維吾爾文</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/微软雅黑.md" title="wikilink">Microsoft YaHei</a></p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>簡體中文</p></td>
-<td><p>Vista</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:MSYH.svg" title="fig:MSYH.svg">MSYH.svg</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Microsoft YaHei UI</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>簡體中文</p></td>
-<td><p>8</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Microsoft Yi Baiti</p></td>
-<td><p>Regular</p></td>
-<td><p><a href="../Page/彝文.md" title="wikilink">彝文</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/新細明體.md" title="wikilink">MingLiU, PMingLiU</a></p></td>
-<td><p>Monospaced, Proportional</p></td>
-<td><p>正體中文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:MingLiu.svg" title="fig:MingLiu.svg">MingLiu.svg</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>MingLiU-ExtB, PMingLiU-ExtB</p></td>
-<td><p>Monospaced, Proportional</p></td>
-<td><p>正體中文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/新細明體.md" title="wikilink">MingLiU_HKSCS</a></p></td>
-<td><p>Monospaced</p></td>
-<td><p><a href="../Page/粵語字.md" title="wikilink">粵語字</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>MingLiU_HKSCS-ExtB</p></td>
-<td><p>Monospaced</p></td>
-<td><p>粵語字</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Miriam</p></td>
-<td><p>Monospaced, Proportional</p></td>
-<td><p>希伯來文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Mongolian Baiti</p></td>
-<td><p>Regular</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/蒙古文字" title="wikilink">蒙古文字</a></p></td>
-<td><p>Vista</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>MoolBoran</p></td>
-<td><p>Regular</p></td>
-<td><p>高棉字母</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/MS_Gothic.md" title="wikilink">MS Gothic, MS PGothic</a></p></td>
-<td><p>Monospaced, Proportional</p></td>
-<td><p>日文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>MS Mincho, MS PMincho</p></td>
-<td><p>Monospaced, Proportional</p></td>
-<td><p>日文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Ms_mieng_drieu.svg" title="fig:Ms_mieng_drieu.svg">Ms_mieng_drieu.svg</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>MS UI Gothic</p></td>
-<td><p>Proportional</p></td>
-<td><p>日文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>MV Boli</p></td>
-<td><p>Regular</p></td>
-<td><p><a href="../Page/它拿字母.md" title="wikilink">它拿字母</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Myanmar Text</p></td>
-<td><p>Regular</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/緬文" title="wikilink">緬文</a></p></td>
-<td><p>8</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Narkisim</p></td>
-<td><p>Regular</p></td>
-<td><p>希伯來文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Nirmala UI</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>天城文、<a href="https://zh.wikipedia.org/wiki/孟加拉文" title="wikilink">孟加拉文</a>、<a href="../Page/古木基文.md" title="wikilink">古木基文</a>、<a href="../Page/古吉拉特文.md" title="wikilink">古吉拉特文</a>、奧里亞文、坦米爾文、泰盧固文、<a href="../Page/卡納達文.md" title="wikilink">卡納達文</a>、馬拉雅拉姆文、僧伽羅文</p></td>
-<td><p>8</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/中易宋体.md" title="wikilink">NSimSun</a></p></td>
-<td><p>Monospaced</p></td>
-<td><p>簡體中文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:NSimSun_font_example.svg" title="fig:NSimSun_font_example.svg">NSimSun_font_example.svg</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>Nyala</p></td>
-<td><p>Regular</p></td>
-<td><p>茲字母</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Palatino#Palatino_Linotype" title="wikilink">Palatino Linotype</a></p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>2000</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Palatino_font.svg" title="fig:Palatino_font.svg">Palatino_font.svg</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>Plantagenet Cherokee</p></td>
-<td><p>Regular</p></td>
-<td><p>切羅基語</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Raavi</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>古木基文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Rod</p></td>
-<td><p>Regular</p></td>
-<td><p>希伯來文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Sakkal Majalla</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>阿拉伯文</p></td>
-<td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Segoe Print</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>Vista</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Segoe Script</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>Vista</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Segoe_UI" title="wikilink">Segoe UI</a> v5.00[7]</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母、阿拉伯文</p></td>
-<td><p>Vista</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Segoe_UI_Revision_Differences.png" title="fig:Segoe_UI_Revision_Differences.png">Segoe_UI_Revision_Differences.png</a><br />
-Segoe UI v5.00（上）與 v5.27（下）</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Segoe_UI" title="wikilink">Segoe UI</a> v5.01[8]</p></td>
-<td><p>Light, Semibold, plus previous faces</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母、阿拉伯文</p></td>
-<td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/Segoe_UI" title="wikilink">Segoe UI</a> v5.27[9]</p></td>
-<td><p>Light Italic, Semibold Italic, Semilight, Semilight Italic plus previous faces</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母、阿拉伯文</p></td>
-<td><p>8</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Segoe UI Symbol</p></td>
-<td><p>Regular</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Shonar Bangla</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>孟加拉文</p></td>
-<td><p>7</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Shruti</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>古吉拉特文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/中易黑體" title="wikilink">SimHei</a></p></td>
-<td><p>Monospaced</p></td>
-<td><p>簡體中文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:SimHei_font_ex.svg" title="fig:SimHei_font_ex.svg">SimHei_font_ex.svg</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/中易楷体" title="wikilink">SimKai</a></p></td>
-<td><p>Monospaced</p></td>
-<td><p>簡體中文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Kaiti.svg" title="fig:Kaiti.svg">Kaiti.svg</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>Simplified Arabic</p></td>
-<td><p>Regular, Bold, Monospaced</p></td>
-<td><p>阿拉伯文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Simplified_Arabic_Font.png" title="fig:Simplified_Arabic_Font.png">Simplified_Arabic_Font.png</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/中易宋體" title="wikilink">SimSun</a></p></td>
-<td><p>Proportional</p></td>
-<td><p>簡體中文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Simsun.svg" title="fig:Simsun.svg">Simsun.svg</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>SimSun-ExtB</p></td>
-<td><p>Monospaced</p></td>
-<td><p>簡體中文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Regular</p></td>
-<td><p><a href="../Page/亞美尼亞字母.md" title="wikilink">亞美尼亞字母</a>、<a href="https://zh.wikipedia.org/wiki/喬治亞字母" title="wikilink">喬治亞字母</a></p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Sylfaen_font_example.jpg" title="fig:Sylfaen_font_example.jpg">Sylfaen_font_example.jpg</a></p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td><p>Regular</p></td>
-<td></td>
-<td><p>3.1</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Tahoma" title="wikilink">Tahoma</a></p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母、阿拉伯文、希伯來文、泰文</p></td>
-<td><p>95</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Tahoma_font.svg" title="fig:Tahoma_font.svg">Tahoma_font.svg</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/Times_New_Roman.md" title="wikilink">Times New Roman</a></p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母、阿拉伯文、希伯來文</p></td>
-<td><p>3.1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Times_New_Roman_font.svg" title="fig:Times_New_Roman_font.svg">Times_New_Roman_font.svg</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Traditional Arabic</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>阿拉伯文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/Trebuchet_MS.md" title="wikilink">Trebuchet MS</a></p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>2000</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Trebuchet_MS_font.svg" title="fig:Trebuchet_MS_font.svg">Trebuchet_MS_font.svg</a></p></td>
-</tr>
-<tr class="even">
-<td><p>Tunga</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>Kannada</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Tunga_font.png" title="fig:Tunga_font.png">Tunga_font.png</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>Urdu Typesetting</p></td>
-<td><p>Regular</p></td>
-<td><p>阿拉伯文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Utsaah</p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>天城文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Vani</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>泰盧固文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/Verdana.md" title="wikilink">Verdana</a></p></td>
-<td><p>Regular, Bold, Italic, Bold Italic</p></td>
-<td><p>拉丁字母／希臘字母／西里爾字母</p></td>
-<td><p>95</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Verdana_font.svg" title="fig:Verdana_font.svg">Verdana_font.svg</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>Vijaya</p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>坦米爾文</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Vrinda" title="wikilink">Vrinda</a></p></td>
-<td><p>Regular, Bold</p></td>
-<td><p>孟加拉文</p></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Vrinda_font.svg" title="fig:Vrinda_font.svg">Vrinda_font.svg</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/:Webdings" title="wikilink">:Webdings</a></p></td>
-<td><p>Regular</p></td>
-<td></td>
-<td><p>98</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Webdings_font.png" title="fig:Webdings_font.png">Webdings_font.png</a></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td><p>Regular</p></td>
-<td></td>
-<td><p>3.1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Wingdings_font.png" title="fig:Wingdings_font.png">Wingdings_font.png</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>Yu Gothic</p></td>
-<td><p>Regular, Bold, Light, Medium</p></td>
-<td><p>日文</p></td>
-<td><p>8.1</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>Yu Gothic UI</p></td>
-<td><p>Regular, Bold, Light, Semilight, Semibold</p></td>
-<td><p>日文</p></td>
-<td><p>8.1</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Yu Mincho</p></td>
-<td><p>Regular, Demibold, Light</p></td>
-<td><p>日文</p></td>
-<td><p>8.1</p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 字体                                                                                                             | 支持字形                                                                                      | 应用文字                                               | 首次自带  | 样例                                                                                                                                                                                   |
+| -------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | -------------------------------------------------- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Abadi MT Condensed Light                                                                                       | 常规                                                                                        | 拉丁字母、希腊文、西里尔字母                                     | 98    | [175x175像素](https://zh.wikipedia.org/wiki/File:Abadi_MT_Condensed_Light_font_sample.png "fig:175x175像素")                                                                             |
+| Aharoni                                                                                                        | 粗体                                                                                        | 希伯来文                                               | 10    |                                                                                                                                                                                      |
+| Aldhabi                                                                                                        | 常规                                                                                        | 阿拉伯文                                               | 8     | [92x92像素](https://zh.wikipedia.org/wiki/File:Aldhabi_font.svg "fig:92x92像素")                                                                                                         |
+| Andalus                                                                                                        | 常规                                                                                        | 阿拉伯文                                               |       | [60x60像素](https://zh.wikipedia.org/wiki/File:Andalus_Font.png "fig:60x60像素")                                                                                                         |
+| Angsana New                                                                                                    | 常规、粗体、斜体、粗斜体                                                                              | 泰文                                                 |       | [47x47像素](https://zh.wikipedia.org/wiki/File:Angsana_new_thai.JPG "fig:47x47像素")                                                                                                     |
+| AngsanaUPC                                                                                                     | 常规、粗体、斜体、粗斜体                                                                              | 泰文                                                 |       | [48x48像素](https://zh.wikipedia.org/wiki/File:Angsana_UPC_thai.JPG "fig:48x48像素")                                                                                                     |
+| Aparajita                                                                                                      | 常规、粗体、斜体、粗斜体                                                                              | 梵文                                                 | 7     |                                                                                                                                                                                      |
+| Arabic Typesetting                                                                                             | 常规                                                                                        | 阿拉伯文                                               |       | [96x96像素](https://zh.wikipedia.org/wiki/File:Arabic_Typesetting_Font.svg "fig:96x96像素")                                                                                              |
+| [Arial](../Page/Arial.md "wikilink")                                                                           | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母、阿拉伯文、希伯来文                           | 3.1   | [59x59像素](https://zh.wikipedia.org/wiki/File:Arial_font.svg "fig:59x59像素")                                                                                                           |
+| Arial Black                                                                                                    | 黑体、黑斜体                                                                                    | 拉丁字母、希腊文、西里尔字母、阿拉伯文、希伯来文                           | 98    | [165x165像素](https://zh.wikipedia.org/wiki/File:Arial_Black_font.png "fig:165x165像素")                                                                                                 |
+| Arial Nova                                                                                                     | 常规、粗体、斜体、粗斜体、细体、细斜体、紧缩、紧缩粗体、紧缩粗斜体、紧缩斜体、紧缩细体、紧缩细斜体                                         | 拉丁字母、希腊文、西里尔字母                                     | 10    |                                                                                                                                                                                      |
+| Batang                                                                                                         | 常规                                                                                        | 朝鲜语                                                | XP    | [45x45像素](https://zh.wikipedia.org/wiki/File:Batang_font.png "fig:45x45像素")                                                                                                          |
+| BatangChe                                                                                                      | 常规                                                                                        | 朝鲜语                                                |       |                                                                                                                                                                                      |
+| [Book Antiqua](https://zh.wikipedia.org/wiki/Palatino#Book_Antiqua_and_other_unauthorised_versions "wikilink") | 常规                                                                                        | 拉丁字母、希腊文、西里尔字母                                     | 98    |                                                                                                                                                                                      |
+| Browallia New                                                                                                  | 常规、粗体、斜体、粗斜体                                                                              | 泰文                                                 |       | [88x88像素](https://zh.wikipedia.org/wiki/File:Browalia_new.JPG "fig:88x88像素")                                                                                                         |
+| BrowalliaUPC                                                                                                   | 常规、粗体、斜体、粗斜体                                                                              | 泰文                                                 |       | [82x82像素](https://zh.wikipedia.org/wiki/File:Browalia_UPC.JPG "fig:82x82像素")                                                                                                         |
+| [Calibri](../Page/Calibri.md "wikilink")                                                                       | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母、越南语（视窗8.0）                          | Vista | [77x77像素](https://zh.wikipedia.org/wiki/File:Calibri_font.svg "fig:77x77像素")                                                                                                         |
+| Calibri Light                                                                                                  | 常规、斜体                                                                                     | 拉丁字母、希腊文、西里尔字母、越南语                                 | 8.0   |                                                                                                                                                                                      |
+| Calisto MT                                                                                                     | 常规                                                                                        | 拉丁字母、希腊文、西里尔字母                                     | 98    | [101x101像素](https://zh.wikipedia.org/wiki/File:Calisto_MT_font_sample.png "fig:101x101像素")                                                                                           |
+| [Cambria](../Page/Cambria.md "wikilink")                                                                       | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | Vista | [110x110像素](https://zh.wikipedia.org/wiki/File:Cambria_font.svg "fig:110x110像素")                                                                                                     |
+| Cambria Math                                                                                                   | 常规                                                                                        | 数学                                                 | Vista |                                                                                                                                                                                      |
+| [Candara](https://zh.wikipedia.org/wiki/Candara "wikilink")                                                    | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | Vista | [106x106像素](https://zh.wikipedia.org/wiki/File:Candara_font.svg "fig:106x106像素")                                                                                                     |
+| Century Gothic                                                                                                 | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | 98    | [150x150像素](https://zh.wikipedia.org/wiki/File:Century_Gothic_font_sample.png "fig:150x150像素")                                                                                       |
+| [Comic Sans MS](https://zh.wikipedia.org/wiki/Comic_Sans_MS "wikilink")                                        | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | 95    | [142x142像素](https://zh.wikipedia.org/wiki/File:Comic_Sans_font.svg "fig:142x142像素")                                                                                                  |
+| [Consolas](../Page/Consolas.md "wikilink")                                                                     | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | Vista | [135x135像素](https://zh.wikipedia.org/wiki/File:Consolas_font.svg "fig:135x135像素")                                                                                                    |
+| Constantia                                                                                                     | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | Vista | [144x144像素](https://zh.wikipedia.org/wiki/File:Constantia_font.svg "fig:144x144像素")                                                                                                  |
+| [Copperplate Gothic](https://zh.wikipedia.org/wiki/Copperplate_Gothic "wikilink") Bold                         | 常规                                                                                        | 拉丁字母、希腊文、西里尔字母                                     | 98    | [220x220像素](https://zh.wikipedia.org/wiki/File:Copperplate_Gothic_font_sample.png "fig:220x220像素")                                                                                   |
+| Copperplate Gothic Light                                                                                       | 常规                                                                                        | 拉丁字母、希腊文、西里尔字母                                     | 98    |                                                                                                                                                                                      |
+| Corbel                                                                                                         | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | Vista |                                                                                                                                                                                      |
+| Cordia New                                                                                                     | 常规、粗体、斜体、粗斜体                                                                              | 泰文                                                 |       | [85x85像素](https://zh.wikipedia.org/wiki/File:Cordia_new.JPG "fig:85x85像素")                                                                                                           |
+| CordiaUPC                                                                                                      | 常规、粗体、斜体、粗斜体                                                                              | 泰文                                                 |       | [89x89像素](https://zh.wikipedia.org/wiki/File:Cordia_UPC.JPG "fig:89x89像素")                                                                                                           |
+| [Courier New](https://zh.wikipedia.org/wiki/Courier_New "wikilink")                                            | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母、阿拉伯文、希伯来文                           | 3.1   |                                                                                                                                                                                      |
+| DaunPenh                                                                                                       | 常规                                                                                        | 高棉文                                                | Vista |                                                                                                                                                                                      |
+| David                                                                                                          | 常规、粗体                                                                                     | 希伯来文                                               |       |                                                                                                                                                                                      |
+| Dengxian                                                                                                       | 常规、粗体、细体                                                                                  | 简体中文                                               | 10    |                                                                                                                                                                                      |
+| [DFKai-SB](../Page/標楷體.md "wikilink")                                                                          | 常规                                                                                        | 繁体中文                                               |       | [95x95像素](https://zh.wikipedia.org/wiki/File:KAIU.svg "fig:95x95像素")                                                                                                                 |
+| DilleniaUPC                                                                                                    | 常规、粗体、斜体、粗斜体                                                                              | 泰文                                                 |       | [50x50像素](https://zh.wikipedia.org/wiki/File:Dillenia_UPC_thai.JPG "fig:50x50像素")                                                                                                    |
+| DokChampa                                                                                                      | 常规                                                                                        | 老挝文                                                |       | [62x62像素](https://zh.wikipedia.org/wiki/File:Dokchampa_Thai.jpg "fig:62x62像素")                                                                                                       |
+| Dotum                                                                                                          | 常规                                                                                        | 朝鲜语                                                |       | [220x220像素](https://zh.wikipedia.org/wiki/File:Dotum_font_sample.JPG "fig:220x220像素")                                                                                                |
+| DotumChe                                                                                                       | 常规                                                                                        | 朝鲜语                                                |       |                                                                                                                                                                                      |
+| Ebrima                                                                                                         | 常规、粗体                                                                                     | N'ko文字、提非纳文字、瓦伊语                                   | 7     |                                                                                                                                                                                      |
+| Estrangelo Edessa                                                                                              | 常规                                                                                        | 叙利亚文                                               |       | [220x220像素](https://zh.wikipedia.org/wiki/File:Estrangelo_Edessa_font_sample.JPG "fig:220x220像素") [42x42像素](https://zh.wikipedia.org/wiki/File:SyriacAbbreviation.jpg "fig:42x42像素") |
+| EucrosiaUPC                                                                                                    | 常规、粗体、斜体、粗斜体                                                                              | 泰文                                                 |       | [74x74像素](https://zh.wikipedia.org/wiki/File:Eucrosia_UPC.JPG "fig:74x74像素")                                                                                                         |
+| Euphemia                                                                                                       | 常规                                                                                        | 统一加拿大音节文字                                          |       | [80x80像素](https://zh.wikipedia.org/wiki/File:Euphemia_Font_Sample.png "fig:80x80像素")                                                                                                 |
+| FangSong                                                                                                       | 等宽                                                                                        | 简体中文                                               |       |                                                                                                                                                                                      |
+| [Franklin Gothic](https://zh.wikipedia.org/wiki/Franklin_Gothic "wikilink") Medium                             | 常规、斜体                                                                                     | 拉丁字母、希腊文、西里尔字母                                     | 7     | [157x157像素](https://zh.wikipedia.org/wiki/File:Franklin_Gothic_font_sample.png "fig:157x157像素")                                                                                      |
+| FrankRuehl                                                                                                     | 常规                                                                                        | 希伯来文                                               |       |                                                                                                                                                                                      |
+| FreesiaUPC                                                                                                     | 常规、粗体、斜体、粗斜体                                                                              | 泰文                                                 |       |                                                                                                                                                                                      |
+| Gabriola                                                                                                       | 常规                                                                                        | 拉丁字母、希腊文、西里尔字母                                     | 7     |                                                                                                                                                                                      |
+| Gadugi                                                                                                         | 常规、粗体                                                                                     | 切罗基文、统一加拿大原住民音节文字                                  | 8     |                                                                                                                                                                                      |
+| Gautami                                                                                                        | 常规、粗体                                                                                     | 泰卢固文                                               | XP    | [80x80像素](https://zh.wikipedia.org/wiki/File:Gautami_font.png "fig:80x80像素")                                                                                                         |
+| [Georgia](../Page/Georgia_\(字型\).md "wikilink")                                                                | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | 2000  | [79x79像素](https://zh.wikipedia.org/wiki/File:Georgia_font.svg "fig:79x79像素")                                                                                                         |
+| Georgia Pro                                                                                                    | 常规、斜体、粗体、粗斜体、细体、细斜体、半粗体、半粗斜体、黑体、黑斜体、紧缩、紧缩斜体、紧缩粗体、紧缩粗斜体、紧缩细体、紧缩细斜体、紧缩半粗体、紧缩半粗斜体、紧缩黑体、紧缩黑斜体 | 拉丁字母、希腊文、西里尔字母                                     | 10    |                                                                                                                                                                                      |
+| Gill Sans Nova                                                                                                 | 常规、斜体、粗体、粗斜体、细体、细斜体、特粗体、紧缩、紧缩斜体、紧缩粗体、紧缩粗斜体、紧缩细体、紧缩细斜体、紧缩加粗体、紧缩加粗斜体、紧缩特粗体                  | 拉丁字母、希腊文、西里尔字母                                     | 10    |                                                                                                                                                                                      |
+| Gisha                                                                                                          | 常规、粗体                                                                                     | 希伯来文                                               |       |                                                                                                                                                                                      |
+| Gulim                                                                                                          | 常规                                                                                        | 朝鲜语                                                |       | [41x41像素](https://zh.wikipedia.org/wiki/File:Gulim_font.png "fig:41x41像素")                                                                                                           |
+| GulimChe                                                                                                       | 常规                                                                                        | 朝鲜语                                                |       |                                                                                                                                                                                      |
+| Gungsuh                                                                                                        | 常规                                                                                        | 朝鲜语                                                |       |                                                                                                                                                                                      |
+| GungsuhChe                                                                                                     | 常规                                                                                        | 朝鲜语                                                |       |                                                                                                                                                                                      |
+| [Impact](https://zh.wikipedia.org/wiki/Impact "wikilink")                                                      | 常规                                                                                        | 拉丁字母、希腊文、西里尔字母                                     | 98    | [71x71像素](https://zh.wikipedia.org/wiki/File:Impact_font.svg "fig:71x71像素")                                                                                                          |
+| IrisUPC                                                                                                        | 常规、粗体、斜体、粗斜体                                                                              | 泰文                                                 |       | [52x52像素](https://zh.wikipedia.org/wiki/File:Iris_UPC_thai.JPG "fig:52x52像素")                                                                                                        |
+| Iskoola Pota                                                                                                   | 常规、粗体                                                                                     | 僧伽罗文                                               |       | [151x151像素](https://zh.wikipedia.org/wiki/File:Iskoola_Pota.JPG "fig:151x151像素")                                                                                                     |
+| JasmineUPC                                                                                                     | 常规、粗体、斜体、粗斜体                                                                              | 泰文                                                 |       | [75x75像素](https://zh.wikipedia.org/wiki/File:Jasmine_UPC.JPG "fig:75x75像素")                                                                                                          |
+| Javanese Text                                                                                                  | 常规                                                                                        | 爪哇文                                                | 8.1   |                                                                                                                                                                                      |
+| KaiTi                                                                                                          | 常规                                                                                        | 简体中文                                               | 7     |                                                                                                                                                                                      |
+| Kalinga                                                                                                        | 常规、粗体                                                                                     | 奥里亚文                                               |       |                                                                                                                                                                                      |
+| Kartika                                                                                                        | 常规、粗体                                                                                     | 马拉雅拉姆语                                             |       |                                                                                                                                                                                      |
+| Khmer UI                                                                                                       | 常规、粗体                                                                                     | 高棉文                                                |       |                                                                                                                                                                                      |
+| KodchiangUPC                                                                                                   | 常规、粗体、斜体、粗斜体                                                                              | 泰文                                                 |       | [76x76像素](https://zh.wikipedia.org/wiki/File:Kodchiang_UPC_thai.JPG "fig:76x76像素")                                                                                                   |
+| Kokila                                                                                                         | 常规、粗体、斜体、粗斜体                                                                              | 梵文                                                 | 7     |                                                                                                                                                                                      |
+| Lao UI                                                                                                         | 常规、粗体                                                                                     | 老挝文                                                | 7     |                                                                                                                                                                                      |
+| Latha                                                                                                          | 常规、粗体                                                                                     | 泰米尔文                                               | XP    |                                                                                                                                                                                      |
+| Leelawadee                                                                                                     | 常规、粗体                                                                                     | 泰文                                                 |       | [50x50像素](https://zh.wikipedia.org/wiki/File:Leelawadee.JPG "fig:50x50像素")                                                                                                           |
+| Leelawadee UI                                                                                                  | 常规、粗体、半粗体                                                                                 | 布吉文、泰文、爪哇语、高棉文、老挝文                                 | 8.1   |                                                                                                                                                                                      |
+| Levenim MT                                                                                                     | 常规、粗体                                                                                     | 希伯来文                                               |       |                                                                                                                                                                                      |
+| LilyUPC                                                                                                        | 常规、粗体、斜体、粗斜体                                                                              | 泰文                                                 |       | [56x56像素](https://zh.wikipedia.org/wiki/File:Lilly_UPC.JPG "fig:56x56像素")                                                                                                            |
+| Lucida Console                                                                                                 | 常规                                                                                        | 拉丁字母、希腊文、西里尔字母                                     | 98    | [220x220像素](https://zh.wikipedia.org/wiki/File:Lucida_Console_font.svg "fig:220x220像素")                                                                                              |
+| Lucida Handwriting Italic                                                                                      | 常规                                                                                        | 拉丁字母、希腊文、西里尔字母                                     | 98    |                                                                                                                                                                                      |
+| [Lucida Sans Unicode](https://zh.wikipedia.org/wiki/Lucida_Sans_Unicode "wikilink")                            | 常规                                                                                        | 拉丁字母、希腊文、西里尔字母、希伯来语                                | 98    |                                                                                                                                                                                      |
+| [Malgun Gothic](https://zh.wikipedia.org/wiki/清黑體 "wikilink")                                                  | 常规、粗体                                                                                     | 朝鲜语（视窗8前不支持汉字）                                     | Vista | [64x64像素](https://zh.wikipedia.org/wiki/File:MS_MalgunGothic.svg "fig:64x64像素")                                                                                                      |
+| Mangal                                                                                                         | 常规、粗体                                                                                     | 梵文                                                 |       | [49x49像素](https://zh.wikipedia.org/wiki/File:Mangal_font.png "fig:49x49像素")                                                                                                          |
+| Manny ITC                                                                                                      | 常规                                                                                        | 拉丁字母                                               | 1997  |                                                                                                                                                                                      |
+| Marlett                                                                                                        | 常规                                                                                        | 视窗界面                                               | 95    |                                                                                                                                                                                      |
+| [Meiryo](../Page/Meiryo.md "wikilink")                                                                         | 常规、粗体、斜体、粗斜体                                                                              | 日文                                                 | Vista | [103x103像素](https://zh.wikipedia.org/wiki/File:Meiryo_font.svg "fig:103x103像素")                                                                                                      |
+| Meiryo UI                                                                                                      | 常规、粗体、斜体、粗斜体                                                                              | 日文                                                 | 7     |                                                                                                                                                                                      |
+| Microsoft Himalaya                                                                                             | 常规                                                                                        | 藏文                                                 | Vista |                                                                                                                                                                                      |
+| [Microsoft JhengHei](../Page/微軟正黑體.md "wikilink")                                                              | 常规、粗体                                                                                     | 繁体中文                                               | Vista | [67x67像素](https://zh.wikipedia.org/wiki/File:MSZH.svg "fig:67x67像素")                                                                                                                 |
+| Microsoft JhengHei UI                                                                                          | 常规、粗体                                                                                     | 繁体中文                                               | 8     |                                                                                                                                                                                      |
+| Microsoft New Tai Lue                                                                                          | 常规、粗体                                                                                     | 新傣仂文                                               | 7     |                                                                                                                                                                                      |
+| Microsoft PhagsPa                                                                                              | 常规、粗体                                                                                     | 八思巴文                                               | 7     |                                                                                                                                                                                      |
+| Microsoft Sans Serif                                                                                           | 常规                                                                                        | 拉丁字母、希腊文、西里尔字母、阿拉伯文、希伯来文、泰文                        |       |                                                                                                                                                                                      |
+| Microsoft Tai Le                                                                                               | 常规、粗体                                                                                     | 傣哪文                                                | 7     |                                                                                                                                                                                      |
+| Microsoft Uighur                                                                                               | 常规、粗体                                                                                     | 维吾尔文                                               |       |                                                                                                                                                                                      |
+| [Microsoft YaHei](../Page/微软雅黑.md "wikilink")                                                                  | 常规、粗体                                                                                     | 简体中文                                               | Vista | [74x74像素](https://zh.wikipedia.org/wiki/File:MSYH.svg "fig:74x74像素")                                                                                                                 |
+| Microsoft YaHei UI                                                                                             | 常规、粗体                                                                                     | 简体中文                                               | 8     |                                                                                                                                                                                      |
+| Microsoft Yi Baiti                                                                                             | 常规                                                                                        | 彝文                                                 |       |                                                                                                                                                                                      |
+| [MingLiU](../Page/新細明體.md "wikilink")、PMingLiU                                                                 | 等宽、比例                                                                                     | 繁体中文                                               |       | [86x86像素](https://zh.wikipedia.org/wiki/File:MingLiu.svg "fig:86x86像素")                                                                                                              |
+| MingLiU-ExtB、PMingLiU-ExtB                                                                                     | 等宽、比例                                                                                     | 繁体中文                                               |       |                                                                                                                                                                                      |
+| MingLiU_HKSCS                                                                                                 | 等宽                                                                                        | 香港繁体中文                                             |       |                                                                                                                                                                                      |
+| MingLiU_HKSCS-ExtB                                                                                            | 等宽                                                                                        | 香港繁体中文                                             |       |                                                                                                                                                                                      |
+| Miriam, Miriam Fixed                                                                                           | 等宽、比例                                                                                     | 希伯来文                                               |       |                                                                                                                                                                                      |
+| Mongolian Baiti                                                                                                | 常规                                                                                        | 蒙古文、满文、锡伯文                                         | Vista |                                                                                                                                                                                      |
+| MoolBoran                                                                                                      | 常规                                                                                        | 高棉文                                                |       |                                                                                                                                                                                      |
+| MS Gothic, MS PGothic                                                                                          | 等宽、比例                                                                                     | 日文                                                 |       |                                                                                                                                                                                      |
+| MS Mincho, MS PMincho                                                                                          | 等宽、比例                                                                                     | 日文                                                 |       | [47x47像素](https://zh.wikipedia.org/wiki/File:Ms_mieng_drieu.svg "fig:47x47像素")                                                                                                       |
+| MS UI Gothic                                                                                                   | 比例                                                                                        | 日文                                                 |       |                                                                                                                                                                                      |
+| MV Boli                                                                                                        | 常规                                                                                        | 塔安娜文                                               |       |                                                                                                                                                                                      |
+| Myanmar Text                                                                                                   | 常规                                                                                        | 缅甸文                                                | 8     |                                                                                                                                                                                      |
+| Narkisim                                                                                                       | 常规                                                                                        | 希伯来文                                               |       |                                                                                                                                                                                      |
+| Neue Haas Grotesk Text Pro                                                                                     | 罗马体、粗体、斜体、粗斜体                                                                             | 拉丁字母                                               | 10    |                                                                                                                                                                                      |
+| News Gothic MT                                                                                                 | 常规                                                                                        | 拉丁字母、希腊文、西里尔字母                                     | 98    | [155x155像素](https://zh.wikipedia.org/wiki/File:News_Gothic_MT_font_sample.png "fig:155x155像素")                                                                                       |
+| Nirmala UI                                                                                                     | 常规、粗体                                                                                     | 梵文、孟加拉文、古木基文、古吉拉特文、奥里雅文、泰米尔文、泰卢固文、埃纳德文、马拉雅拉姆语、僧伽罗文 | 8     |                                                                                                                                                                                      |
+| NSimSun                                                                                                        | 等宽                                                                                        | 简体中文                                               |       | [97x97像素](https://zh.wikipedia.org/wiki/File:NSimSun_font_example.svg "fig:97x97像素")                                                                                                 |
+| Nyala                                                                                                          | 常规                                                                                        | 埃塞俄比亚文                                             | Vista |                                                                                                                                                                                      |
+| [Palatino Linotype](https://zh.wikipedia.org/wiki/Palatino#Palatino_Linotype "wikilink")                       | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | 2000  | [106x106像素](https://zh.wikipedia.org/wiki/File:Palatino_font.svg "fig:106x106像素")                                                                                                    |
+| Plantagenet Cherokee                                                                                           | 常规                                                                                        | 切罗基文                                               |       |                                                                                                                                                                                      |
+| Raavi                                                                                                          | 常规、粗体                                                                                     | 古木基文                                               | XP    |                                                                                                                                                                                      |
+| Rockwell Nova                                                                                                  | 常规、斜体、粗体、粗斜体、细体、细斜体、加粗体、加粗斜体、紧缩、紧缩斜体、紧缩粗体、紧缩粗斜体、紧缩细体、紧缩细斜体                                | 拉丁字母、希腊文、西里尔字母                                     | 10    |                                                                                                                                                                                      |
+| Rod                                                                                                            | 常规                                                                                        | 希伯来文                                               |       |                                                                                                                                                                                      |
+| Sakkal Majalla                                                                                                 | 常规、粗体                                                                                     | 阿拉伯文                                               | 7     |                                                                                                                                                                                      |
+| Sanskrit Text                                                                                                  | 常规                                                                                        | 梵文                                                 | 10    |                                                                                                                                                                                      |
+| Segoe MDL2 Assets                                                                                              | 常规                                                                                        | 象形文字                                               | 10    |                                                                                                                                                                                      |
+| Segoe Print                                                                                                    | 常规、粗体                                                                                     | 拉丁字母、希腊文、西里尔字母                                     | Vista |                                                                                                                                                                                      |
+| Segoe Script                                                                                                   | 常规、粗体                                                                                     | 拉丁字母、希腊文、西里尔字母                                     | Vista |                                                                                                                                                                                      |
+| [Segoe UI](https://zh.wikipedia.org/wiki/Segoe_UI "wikilink") v5.00\[7\]                                       | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母、阿拉伯文                                | Vista | [220x220像素](https://zh.wikipedia.org/wiki/File:Segoe_UI_Revision_Differences.png "fig:220x220像素") Segoe UI v5.00（上）和v5.27（下）                                                         |
+| [Segoe UI](https://zh.wikipedia.org/wiki/Segoe_UI "wikilink") v5.01\[8\]                                       | 细体、半粗体及之前版本字形                                                                             | 拉丁字母、希腊文、西里尔字母、阿拉伯文                                | 7     |                                                                                                                                                                                      |
+| [Segoe UI](https://zh.wikipedia.org/wiki/Segoe_UI "wikilink") v5.27\[9\]                                       | 细斜体、半粗斜体、半细体、半细斜体及之前版本字形                                                                  | 拉丁字母、希腊文、西里尔字母、阿拉伯文                                | 8     |                                                                                                                                                                                      |
+| [Segoe UI](https://zh.wikipedia.org/wiki/Segoe_UI "wikilink") v5.35                                            | 黑体、黑斜体及之前版本字形                                                                             | 拉丁字母、希腊文、西里尔字母、阿拉伯文、亚美尼亚文、格鲁吉亚文、希伯来文、傈僳文           | 8.1   |                                                                                                                                                                                      |
+| Segoe UI Emoji                                                                                                 | 常规                                                                                        | [绘文字](../Page/繪文字.md "wikilink")、表情符、符号            | 10    |                                                                                                                                                                                      |
+| Segoe UI Historic\[10\]                                                                                        | 常规                                                                                        | （多种古代文字）                                           | 10    |                                                                                                                                                                                      |
+| Segoe UI Symbol                                                                                                | 常规                                                                                        | 拉丁字母、希腊文、西里尔字母                                     | 7     |                                                                                                                                                                                      |
+| Shonar Bangla                                                                                                  | 常规、粗体                                                                                     | 孟加拉文                                               | 7     |                                                                                                                                                                                      |
+| Shruti                                                                                                         | 常规、粗体                                                                                     | 古吉拉特文                                              | XP    |                                                                                                                                                                                      |
+| [SimHei](https://zh.wikipedia.org/wiki/中易黑体 "wikilink")                                                        | 等宽                                                                                        | 简体中文                                               |       | [112x112像素](https://zh.wikipedia.org/wiki/File:SimHei_font_ex.svg "fig:112x112像素")                                                                                                   |
+| [SimKai](https://zh.wikipedia.org/wiki/中易楷体 "wikilink")                                                        | 等宽                                                                                        | 简体中文                                               |       | [45x45像素](https://zh.wikipedia.org/wiki/File:Kaiti.svg "fig:45x45像素")                                                                                                                |
+| Simplified Arabic                                                                                              | 常规、粗体、等宽                                                                                  | 阿拉伯文                                               |       | [49x49像素](https://zh.wikipedia.org/wiki/File:Simplified_Arabic_Font.png "fig:49x49像素")                                                                                               |
+| [SimSun](../Page/中易宋体.md "wikilink")                                                                           | 比例                                                                                        | 简体中文                                               |       | [39x39像素](https://zh.wikipedia.org/wiki/File:Simsun.svg "fig:39x39像素")                                                                                                               |
+| SimSun-ExtB                                                                                                    | 等宽                                                                                        | 简体中文                                               |       |                                                                                                                                                                                      |
+| Sitka Banner                                                                                                   | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | 8.1   |                                                                                                                                                                                      |
+| Sitka Display                                                                                                  | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | 8.1   |                                                                                                                                                                                      |
+| Sitka Heading                                                                                                  | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | 8.1   |                                                                                                                                                                                      |
+| Sitka Small                                                                                                    | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | 8.1   |                                                                                                                                                                                      |
+| Sitka Subheading                                                                                               | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | 8.1   |                                                                                                                                                                                      |
+| Sitka Text                                                                                                     | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | 8.1   |                                                                                                                                                                                      |
+| Sylfaen                                                                                                        | 常规                                                                                        | 亚美尼亚文、格鲁吉亚文                                        |       | [105x105像素](https://zh.wikipedia.org/wiki/File:Sylfaen_font_example.jpg "fig:105x105像素")                                                                                             |
+| Symbol                                                                                                         | 常规                                                                                        |                                                    | 3.1   |                                                                                                                                                                                      |
+| [Tahoma](https://zh.wikipedia.org/wiki/Tahoma "wikilink")                                                      | 常规、粗体                                                                                     | 拉丁字母、希腊文、西里尔字母、阿拉伯文、希伯来文、泰文                        | 95    | [96x96像素](https://zh.wikipedia.org/wiki/File:Tahoma_font.svg "fig:96x96像素")                                                                                                          |
+| [Times New Roman](../Page/Times_New_Roman.md "wikilink")                                                       | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母、阿拉伯文、希伯来文、亚美尼亚文                     | 3.1   | [220x220像素](https://zh.wikipedia.org/wiki/File:Times_New_Roman_font.svg "fig:220x220像素")                                                                                             |
+| Traditional Arabic                                                                                             | 常规、粗体                                                                                     | 阿拉伯文                                               | 2000  |                                                                                                                                                                                      |
+| [Trebuchet MS](../Page/Trebuchet_MS.md "wikilink")                                                             | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | 2000  | [175x175像素](https://zh.wikipedia.org/wiki/File:Trebuchet_MS_font.svg "fig:175x175像素")                                                                                                |
+| Tunga                                                                                                          | 常规、粗体                                                                                     | 埃纳德文                                               | XP    | [69x69像素](https://zh.wikipedia.org/wiki/File:Tunga_font.png "fig:69x69像素")                                                                                                           |
+| Urdu Typesetting                                                                                               | 常规                                                                                        | 阿拉伯文                                               |       |                                                                                                                                                                                      |
+| Utsaah                                                                                                         | 常规、粗体、斜体、粗斜体                                                                              | 梵文                                                 |       |                                                                                                                                                                                      |
+| Vani                                                                                                           | 常规、粗体                                                                                     | 泰卢固文                                               |       |                                                                                                                                                                                      |
+| [Verdana](../Page/Verdana.md "wikilink")                                                                       | 常规、粗体、斜体、粗斜体                                                                              | 拉丁字母、希腊文、西里尔字母                                     | 95    | [114x114像素](https://zh.wikipedia.org/wiki/File:Verdana_font.svg "fig:114x114像素")                                                                                                     |
+| Verdana Pro                                                                                                    | 常规、斜体、粗体、粗斜体、细体、细斜体、半粗体、半粗斜体、黑体、黑斜体、紧缩、紧缩斜体、紧缩粗体、紧缩粗斜体、紧缩细体、紧缩细斜体、紧缩半粗体、紧缩半粗斜体、紧缩黑体、紧缩黑斜体 | 拉丁字母、希腊文、西里尔字母                                     | 10    |                                                                                                                                                                                      |
+| Vijaya                                                                                                         | 常规、粗体                                                                                     | 泰米尔文                                               |       |                                                                                                                                                                                      |
+| [Vrinda](https://zh.wikipedia.org/wiki/Vrinda "wikilink")                                                      | 常规、粗体                                                                                     | 孟加拉文                                               | XP    | [40x40像素](https://zh.wikipedia.org/wiki/File:Vrinda_font.svg "fig:40x40像素")                                                                                                          |
+| [Webdings](../Page/Webdings.md "wikilink")                                                                     | 常规                                                                                        |                                                    | 98    | [160x160像素](https://zh.wikipedia.org/wiki/File:Webdings_font.png "fig:160x160像素")                                                                                                    |
+| Westminster                                                                                                    | 常规                                                                                        | 拉丁字母、希腊文、西里尔字母                                     | 98    |                                                                                                                                                                                      |
+| Wingdings                                                                                                      | 常规                                                                                        |                                                    | 3.1   | [179x179像素](https://zh.wikipedia.org/wiki/File:Wingdings_font.png "fig:179x179像素")                                                                                                   |
+| Yu Gothic                                                                                                      | 常规、细体、中等、粗体                                                                               | 日文                                                 | 8.1   |                                                                                                                                                                                      |
+| Yu Gothic UI                                                                                                   | 常规、粗体、半粗体、半细体、细体                                                                          | 日文                                                 | 8.1   |                                                                                                                                                                                      |
+| Yu Mincho                                                                                                      | 常规、半粗体、细体                                                                                 | 日文                                                 | 8.1   |                                                                                                                                                                                      |
 
 ## 參見
 
@@ -992,3 +199,4 @@ Segoe UI v5.00（上）與 v5.27（下）</p></td>
 7.
 8.
 9.
+10.

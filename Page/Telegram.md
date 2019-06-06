@@ -18,7 +18,7 @@ LLP是獨立的非營利公司，設立在[柏林](../Page/柏林.md "wikilink")
 
 ### 活躍人數
 
-[SPIM_on_Telegram.png](https://zh.wikipedia.org/wiki/File:SPIM_on_Telegram.png "fig:SPIM_on_Telegram.png")广告（中文用户群体称之为“[清真](../Page/清真.md "wikilink")”）在群组[刷屏](https://zh.wikipedia.org/wiki/刷屏 "wikilink")，而“电报拉人”是常见的中文垃圾广告之一。\]\]
+[SPIM_on_Telegram.png](https://zh.wikipedia.org/wiki/File:SPIM_on_Telegram.png "fig:SPIM_on_Telegram.png")广告（中文用户群体称之为“[清真广告](../Page/清真.md "wikilink")”）在群组[刷屏](https://zh.wikipedia.org/wiki/刷屏 "wikilink")。另有常见的中文垃圾广告“电报拉人”。\]\]
 
   - 2013年10月，Telegram每天有10萬活躍用戶\[15\]。
   - 2014年3月，Telegram公布其服務分別已達到每月3500萬活躍用戶和每日1500萬活躍用戶\[16\]。
@@ -93,7 +93,7 @@ Telegram 亞洲區停擺一小時。
 ### 機器人
 
 [GDPRbot_de_Telegram_en_español.png](https://zh.wikipedia.org/wiki/File:GDPRbot_de_Telegram_en_español.png "fig:GDPRbot_de_Telegram_en_español.png")
-[Telegram_account_is_limited.png](https://zh.wikipedia.org/wiki/File:Telegram_account_is_limited.png "fig:Telegram_account_is_limited.png")
+[Telegram_account_is_limited.png](https://zh.wikipedia.org/wiki/File:Telegram_account_is_limited.png "fig:Telegram_account_is_limited.png")，可以通过官方机器人@SpamBot查询禁言原因和解封时间。\]\]
 在2015年6月，Telegram
 開放了機器人[API](https://zh.wikipedia.org/wiki/API "wikilink")\[51\]，更在2017年5月支援了付款功能\[52\]。機器人是
 Telegram

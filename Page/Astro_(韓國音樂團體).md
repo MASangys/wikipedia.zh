@@ -72,11 +72,13 @@ PRESENT》兩版本年曆。
 
 1月16日，推出 ASTRO 1ST ALBUM \[All Light\] 正規專輯。
 
-1月29日，组合在\[THE SHOW\]獲得出道以来第一個一位。
+1月29日，組合在\[THE SHOW\]獲得出道以來第一個一位。
 
-3月16日，在台北開啟\[ASTRO The 2nd ASTROAD STAR LIGHT\]
+3月16日，在台北開啟\[ASTRO The 2nd ASTROAD Tour - STAR LIGHT\]
 
 4月3日，發表首張日語迷你專輯《Venus》正式日本出道，並公開主打歌《花咲ケミライ》MV。
+
+4月27日，在泰國曼谷結束\[ASTRO The 2nd ASTROAD Tour - STAR LIGHT\]
 
 ## 成員列表
 
@@ -114,7 +116,7 @@ PRESENT》兩版本年曆。
 <ul>
 <li>發行日期：2019年1月16日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
-<li>專輯銷量：121,173+[12]</li>
+<li>專輯銷量：129,185+[12]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -259,7 +261,7 @@ PRESENT》兩版本年曆。
 | 2018年8月31日  | Rainbow Falling     | 《[我的ID是江南美人](../Page/我的ID是江南美人.md "wikilink")》OST part.7        | 04:17 | 車銀優 |
 | 2018年10月2日  | Get Myself With You | 《[Top Management](../Page/Top_Management.md "wikilink")》S.O.U.L | 04:12 | 車銀優 |
 | 2018年11月15日 | Together            | 《[Top Management](../Page/Top_Management.md "wikilink")》OST     | 03:01 | 車銀優 |
-| 2019年2月5日   | 내 삶의 전부(我人生的全部)     | 《하나뿐인 내편》OST part.28                                            | 03:28 | MJ  |
+| 2019年2月5日   | 내 삶의 전부 (我人生的全部)    | 《[我唯一的守護者](../Page/我唯一的守護者.md "wikilink")》OST part.28           | 03:28 | MJ  |
 
 ### Fantagio 家族專輯FM201.8
 
@@ -419,10 +421,18 @@ Rocky</p></td>
 <tr class="even">
 <td><p>2019</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
-<td><p>十八的瞬間</p></td>
+<td><p>十八歲的瞬間</p></td>
 <td><p>文彬</p></td>
-<td></td>
+<td><p>鄭五宰</p></td>
 <td><p>男配角</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>MBC</p></td>
+<td><p>新入史官具海玲</p></td>
+<td><p>車銀優</p></td>
+<td><p>李林</p></td>
+<td><p>男主角</p></td>
 </tr>
 </tbody>
 </table>
@@ -746,6 +756,7 @@ Rocky</p></td>
 | 1月25日 |
 | 1月26日 |
 | 2月2日  |
+| 2月9日  |
 | 2月20日 |
 | 3月4日  |
 
@@ -1049,8 +1060,8 @@ Rocky</p></td>
 |             |       |                                    |
 | ----------- | ----- | ---------------------------------- |
 | 日期          | 演唱會站次 | 舉行地點                               |
-| 2016年10月14日 | 东京站   | TSUTAYA O-EAST                     |
-| 2016年10月22日 | 雅加达站  | NUSA INDAH THEATER , BALAI KARTINI |
+| 2016年10月14日 | 東京站   | TSUTAYA O-EAST                     |
+| 2016年10月22日 | 雅加達站  | NUSA INDAH THEATER , BALAI KARTINI |
 | 2017年2月12日  | 曼谷站   | MUANG THAI GMM LIVE HOUSE          |
 |             |       |                                    |
 
@@ -1061,14 +1072,14 @@ Rocky</p></td>
 | 日期         | 演唱會站次 | 舉行地點    |
 | 2017年2月28日 | 台北站   | 台大綜合體育館 |
 
-  - 《ASTRO 1st Show in Hong Kong》
+  - 《ASTRO 1st SHOWCASE In Hong Kong》
 
 |           |       |         |
 | --------- | ----- | ------- |
 | 日期        | 演唱會站次 | 舉行地點    |
 | 2017年3月3日 | 香港站   | 旺角麥花臣場館 |
 
-  - 《ASTRO THE 1st SHOWCASE IN SINGAPORE》
+  - 《ASTRO THE 1st SHOWCASE IN Singapore》
 
 |           |       |         |
 | --------- | ----- | ------- |
@@ -1162,6 +1173,7 @@ Rocky</p></td>
 | 2018年6月23日  | 2018 Super Lucky Day with ASTRO                          | 新世界免稅店                                                                                                                                   | 全體   |
 | 2018年7月5日   | M\!Countdown in Taipei                                   | 台北小巨蛋                                                                                                                                    | 銀優缺席 |
 | 2018年9月30日  | K-EXPO 2018                                              | 紐約 Pier 36                                                                                                                               | 全體   |
+| 2019年5月4日   | KPOP BIG5 CONCERT                                        | 德國杜塞道夫Mitsubishi Electric Halle                                                                                                          | 銀優缺席 |
 
 ### 歌迷簽名會
 

@@ -325,7 +325,7 @@ Equality，EIGE）中被提及。然而，歐洲法院的一些判決先例通�
 <tr class="even">
 <td><p><a href="../Page/英國LGBT權益.md" title="wikilink">英國</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Yes_check.svg" title="fig:Yes_check.svg">Yes_check.svg</a> 承認</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/File:Yes_check.svg" title="fig:Yes_check.svg">Yes_check.svg</a> / <a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a> <a href="https://zh.wikipedia.org/wiki/英國同性婚姻" title="wikilink">自2014年起在英格蘭和威爾士，蘇格蘭，不包括北愛爾蘭及直布羅舵</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:Yes_check.svg" title="fig:Yes_check.svg">Yes_check.svg</a> / <a href="https://zh.wikipedia.org/wiki/File:X_mark.svg" title="fig:X_mark.svg">X_mark.svg</a> <a href="https://zh.wikipedia.org/wiki/英國同性婚姻" title="wikilink">自2014年起在英格蘭和威爾士，蘇格蘭及直布羅舵，不包括北愛爾蘭</a></p></td>
 <td><p>可以，2002年在<a href="https://zh.wikipedia.org/wiki/英格蘭LGBT權利" title="wikilink">英格蘭和</a><a href="https://zh.wikipedia.org/wiki/威爾士LGBT權益" title="wikilink">威爾士</a>，2009年在<a href="https://zh.wikipedia.org/wiki/蘇格蘭LGBT權益" title="wikilink">蘇格蘭</a>，2014年在直布羅舵</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Yes_check.svg" title="fig:Yes_check.svg">Yes_check.svg</a> 可以</p></td>
 <td><p>全部[43][44]</p></td>

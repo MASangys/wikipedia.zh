@@ -50,6 +50,10 @@ Products)」2015年消失，被葡萄酒以及煙草產品兩類取代。
 
 2016,2017,2018 Choice巧思連續三年榮獲世界金獎 Monde Selection Gold Award,並獲德國紅點設計獎
 
+2017,2018,2019 慕耕活-特金烏龍王23.5°N，連續三年榮獲特金獎(Grand Gold Quality
+Awardd)，成為台灣唯一獲得此殊榮的產品。[官網公布頁面](http://awards.monde-selection.com/product.asp?fileName=MOD-37433)
+[愛喝茶！ 3輕熟男創茶葉品牌揚名國際](https://fnc.ebc.net.tw/FncNews/Content/43235)
+
 ## 外部連結
 
   - [Monde Selection 官方網站](http://www.monde-selection.com/en/) ()

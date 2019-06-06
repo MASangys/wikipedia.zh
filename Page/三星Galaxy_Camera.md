@@ -18,6 +18,16 @@ Camera的功能特色。\[5\]
 在2012年10月，美国的无线服务提供商[AT\&T宣布](../Page/AT&T.md "wikilink")，将通过其零售网点开始促进Galaxy
 Camera销售。\[6\]
 
+## 其它規格
+
+| [作業系統](../Page/行動作業系統.md "wikilink")                  | Android 4.1（Jelly Bean），可升级到4.1.2（Jelly Bean）; TouchWiz UI |
+| ----------------------------------------------------- | ---------------------------------------------------------- |
+| [系統晶片](../Page/系统芯片.md "wikilink")                    | Exynos 4412                                                |
+| [CPU](https://zh.wikipedia.org/wiki/中央處理器 "wikilink") | 四核1.4 GHz Cortex-A9                                        |
+| [GPU](../Page/圖形處理器.md "wikilink")                    | Mali-400MP4 @ 440 MHz ; 17.6 GFLOPS                        |
+| **記憶體**                                               | 1 GB                                                       |
+| **儲存空間**                                              | 4 GB                                                       |
+
 ## 参考资料
 
 [Category:三星數位相機](https://zh.wikipedia.org/wiki/Category:三星數位相機 "wikilink")

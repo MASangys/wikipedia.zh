@@ -59,7 +59,7 @@ Franco前女友<br />
 高立仁、卓慧翹之下屬</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/吳卓羲.md" title="wikilink">吳卓羲</a></strong></p></td>
+<td><p><strong><a href="../Page/蕭正楠.md" title="wikilink">蕭正楠</a></strong></p></td>
 <td><p><strong>梁啟榮</strong></p></td>
 <td><p><strong>Jackson、哨牙仔、唧榮</strong><br />
 法醫精神科醫生<br />
@@ -70,7 +70,7 @@ Franco前女友<br />
 暗戀陳思家，於第14集起為男友，於第21集被发现一脚踏两船而分手</p></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="../Page/羅仲謙.md" title="wikilink">羅仲謙</a></strong></p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/梁烈唯" title="wikilink">梁烈唯</a></strong></p></td>
 <td><p><strong>王世邦</strong></p></td>
 <td><p><strong>Edgar</strong><br />
 精神科醫生<br />
@@ -101,7 +101,7 @@ Franco前女友<br />
 杜慧敏之男友，於第24集分手</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/袁偉豪.md" title="wikilink">袁偉豪</a></strong></p></td>
+<td><p><strong><a href="../Page/陳國邦.md" title="wikilink">陳國邦</a></strong></p></td>
 <td><p><strong>何年月</strong></p></td>
 <td><p><strong>Sunny</strong><br />
 精神科見習醫生<br />
@@ -201,7 +201,7 @@ Franco前女友<br />
 於鍾國彬昏迷時暫任主管（第23集起）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/謝東閔" title="wikilink">謝東閔</a></p></td>
+<td><p><a href="../Page/謝東閔_(香港).md" title="wikilink">謝東閔</a></p></td>
 <td><p>蔣偉文</p></td>
 <td><p><strong>炮仗</strong><br />
 警員</p></td>
@@ -892,7 +892,7 @@ Franco前女友<br />
 <td><p><strong>霍志健</strong></p></td>
 <td><p><strong>Kelvin</strong><br />
 富家子<br />
-多次強姦林頌恩，及拍攝其裸照，要脅其與狗獸交，並為牠們性奴</p></td>
+企圖強姦桑拿店女職員，被「蔣大軍」所殺</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/李綺雯.md" title="wikilink">李綺雯</a></p></td>

@@ -86,6 +86,7 @@ LineData =
 `  at:08/04/2017`
 `  at:04/04/2018`
 `  at:12/19/2018`
+`  at:05/15/2019`
 
 </timeline>
 
@@ -203,7 +204,7 @@ FOR》後打破了[YG娛樂的慣例](../Page/YG娛樂.md "wikilink")，僅隔4�
 
 11月7日，有線電視[tvN推出由WINNER成員出演共四集的](https://zh.wikipedia.org/wiki/tvN "wikilink")《新西遊記外傳：[花樣青春WINNER篇](../Page/花樣青春.md "wikilink")》，為此前在《新西遊記4》中，「宋神指事件」\[66\]及最後妖怪們蒐集七顆龍珠成功招喚龍神實現了願望，而宋旻浩的願望就是和WINNER成員們一起出演《花樣青春》，節目組因此滿足了他的願望。\[67\]且平均年齡25.5歲的他們，也成為歷代《花樣青春》中最年輕的團隊。\[68\]
 
-### 2018年：第二張正規專輯《EVERYD4Y》、首次巡迴演唱會
+### 2018年：第二張正規專輯《EVERYD4Y》、首次巡迴演唱會、單曲《MILLIONS》
 
 1月4日，根據韓國音源串流平台[Gaon音樂榜週間流媒數顯示](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")，WINNER的歌曲《REALLY
 REALLY》的音源累積突破了一億播放次數。此曲在2017年4月4日發布後的第39週突破了一億的流媒，更成為韓國[男子組合中首組最初在榜達成一億流媒紀錄的組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")。\[69\]
@@ -234,12 +235,14 @@ REALLY》在YouTube突破1億觀看次數，成為團體首支破億MV。\[82\]
 
 12月13日，官方宣布WINNER將於12月19日時隔8個月以單曲專輯《MILLIONS》回歸，根據所屬公司透露，WINNER的第三張正歸專輯將延期至明年2月海外巡演結束之後，因此此次的單曲將是以先行曲的形式公開。\[83\]
 
-12月19日，公布時隔8個月回歸的新單曲《MILLIONS》歌曲音源及音樂錄影帶，新曲發布後在韓國七大主流音源網站位居實時榜首，並在其他19個國家和地區iTunes歌曲榜上排名第一，證實了WINNER日益強大的全球影響力。\[84\]
+12月19日，公布時隔8個月回歸的新單曲《[MILLIONS](https://zh.wikipedia.org/wiki/MILLIONS "wikilink")》歌曲音源及音樂錄影帶，新曲發布後在韓國七大主流音源網站位居實時榜首，並在其他19個國家和地區iTunes歌曲榜上排名第一，證實了WINNER日益強大的全球影響力。\[84\]
 
-### 2019年：
+### 2019年：第二張迷你專輯《WE》
 
 1月29日，全體出演YG與Olleh TV Mobile合作共8集的旅遊實境綜藝節目《WINNER VACATION - Hoony
 Tour》，由成員李昇勳親自擔任導遊，帶領成員介紹濟州島美食店和旅行路線，充滿趣味性。\[85\]
+
+5月3日，YG娛樂宣布WINNER將於5月15日時隔5個月以第二張迷你專輯《WE》回歸\[86\]，主打歌為《Ah Yeah》。
 
 ## 音樂作品
 
@@ -254,6 +257,7 @@ Tour》，由成員李昇勳親自擔任導遊，帶領成員介紹濟州島美�
 #### 迷你專輯
 
   - 2016年：《[EXIT:E](../Page/EXIT:E.md "wikilink")》
+  - 2019年：《[WE](https://zh.wikipedia.org/wiki/WE_\(WINNER韓語迷你專輯\) "wikilink")》
 
 #### 單曲專輯
 
@@ -261,7 +265,7 @@ Tour》，由成員李昇勳親自擔任導遊，帶領成員介紹濟州島美�
     FOR](https://zh.wikipedia.org/wiki/Fate_Number_For_\(WINNER韓語單曲\) "wikilink")》
   - 2017年：《[OUR TWENTY
     FOR](../Page/Our_Twenty_For_\(WINNER韓語單曲\).md "wikilink")》
-  - 2018年：《MILLIONS》
+  - 2018年：《[MILLIONS](https://zh.wikipedia.org/wiki/MILLIONS "wikilink")》
 
 ### 日語作品
 
@@ -315,12 +319,12 @@ Tour》，由成員李昇勳親自擔任導遊，帶領成員介紹濟州島美�
 |                               |                                                                                                                                                                                                                                              |                                                                                                                                                                                                                |                                                         |
 | ----------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | 年份                            | 廣告名稱                                                                                                                                                                                                                                         | 參與成員                                                                                                                                                                                                           | 合作藝人                                                    |
-| 2010年                         | LG國際電話002\[86\]                                                                                                                                                                                                                              | [姜昇潤](../Page/姜昇潤.md "wikilink")                                                                                                                                                                               |                                                         |
-| CJ集團形象廣告\[87\]                | [許閣](../Page/許閣.md "wikilink")、[John Park](../Page/John_Park.md "wikilink")、[張才人](../Page/張才人.md "wikilink")、[PSY](../Page/PSY.md "wikilink")、[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、[2NE1](../Page/2NE1.md "wikilink") |                                                                                                                                                                                                                |                                                         |
-| 網絡遊戲《彩虹騎士（Grand Chase）》\[88\] |                                                                                                                                                                                                                                              |                                                                                                                                                                                                                |                                                         |
-| 2011年                         | 三星 Galaxy Tab\[89\]                                                                                                                                                                                                                          | [許閣](../Page/許閣.md "wikilink")、[John Park](../Page/John_Park.md "wikilink")、張才人                                                                                                                                |                                                         |
-| Teams Polham服裝品牌\[90\]        |                                                                                                                                                                                                                                              |                                                                                                                                                                                                                |                                                         |
-| 2012年                         | 芬達飲料\[91\]                                                                                                                                                                                                                                   | [李光洙](../Page/李光洙_\(演員\).md "wikilink")、[白珍熙](../Page/白珍熙.md "wikilink")                                                                                                                                       |                                                         |
+| 2010年                         | LG國際電話002\[87\]                                                                                                                                                                                                                              | [姜昇潤](../Page/姜昇潤.md "wikilink")                                                                                                                                                                               |                                                         |
+| CJ集團形象廣告\[88\]                | [許閣](../Page/許閣.md "wikilink")、[John Park](../Page/John_Park.md "wikilink")、[張才人](../Page/張才人.md "wikilink")、[PSY](../Page/PSY.md "wikilink")、[BIGBANG](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")、[2NE1](../Page/2NE1.md "wikilink") |                                                                                                                                                                                                                |                                                         |
+| 網絡遊戲《彩虹騎士（Grand Chase）》\[89\] |                                                                                                                                                                                                                                              |                                                                                                                                                                                                                |                                                         |
+| 2011年                         | 三星 Galaxy Tab\[90\]                                                                                                                                                                                                                          | [許閣](../Page/許閣.md "wikilink")、[John Park](../Page/John_Park.md "wikilink")、張才人                                                                                                                                |                                                         |
+| Teams Polham服裝品牌\[91\]        |                                                                                                                                                                                                                                              |                                                                                                                                                                                                                |                                                         |
+| 2012年                         | 芬達飲料\[92\]                                                                                                                                                                                                                                   | [李光洙](../Page/李光洙_\(演員\).md "wikilink")、[白珍熙](../Page/白珍熙.md "wikilink")                                                                                                                                       |                                                         |
 | 2014年                         | NII服裝品牌                                                                                                                                                                                                                                      | WINNER                                                                                                                                                                                                         |                                                         |
 | 芬達飲料                          | [南寶拉](../Page/南寶拉.md "wikilink")                                                                                                                                                                                                             |                                                                                                                                                                                                                |                                                         |
 | Adidas                        |                                                                                                                                                                                                                                              |                                                                                                                                                                                                                |                                                         |
@@ -329,7 +333,7 @@ Tour》，由成員李昇勳親自擔任導遊，帶領成員介紹濟州島美�
 | 2015年                         | NII服裝品牌                                                                                                                                                                                                                                      |                                                                                                                                                                                                                |                                                         |
 | YOGIYO外送app                   | [姜昇潤](../Page/姜昇潤.md "wikilink")                                                                                                                                                                                                             | [車勝元](../Page/車勝元.md "wikilink")、[崔智友](https://zh.wikipedia.org/wiki/崔智友 "wikilink")、[劉寅娜](../Page/劉寅娜.md "wikilink")、[樂童音樂家](https://zh.wikipedia.org/wiki/樂童音樂家 "wikilink")、[李聖經](../Page/李聖經.md "wikilink") |                                                         |
 | 真維斯服裝品牌                       | [宋旻浩](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")、[南太鉉](../Page/南太鉉.md "wikilink")                                                                                                                                                         |                                                                                                                                                                                                                |                                                         |
-| SKT電信 Varie T \[92\]          | [宋旻浩](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")                                                                                                                                                                                          | Basick、Lil Boi、[Hanhae](https://zh.wikipedia.org/wiki/鄭韓海 "wikilink")                                                                                                                                          |                                                         |
+| SKT電信 Varie T \[93\]          | [宋旻浩](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")                                                                                                                                                                                          | Basick、Lil Boi、[Hanhae](https://zh.wikipedia.org/wiki/鄭韓海 "wikilink")                                                                                                                                          |                                                         |
 | Adidas                        |                                                                                                                                                                                                                                              |                                                                                                                                                                                                                |                                                         |
 | 2016年                         | NII服裝品牌                                                                                                                                                                                                                                      | WINNER                                                                                                                                                                                                         |                                                         |
 | 真維斯服裝品牌                       | [宋旻浩](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")、[南太鉉](../Page/南太鉉.md "wikilink")                                                                                                                                                         |                                                                                                                                                                                                                |                                                         |
@@ -512,6 +516,12 @@ Tour》，由成員李昇勳親自擔任導遊，帶領成員介紹濟州島美�
 <td><p>MILLIONS</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年</p></td>
+</tr>
+<tr class="even">
+<td><p>WE</p></td>
+</tr>
+<tr class="odd">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 <li>「(1)」：兩星期冠軍</li>
@@ -537,10 +547,10 @@ Tour》，由成員李昇勳親自擔任導遊，帶領成員介紹濟州島美�
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 </tr>
 <tr class="even">
-<td><p>10</p></td>
+<td><p>11</p></td>
 </tr>
 <tr class="odd">
-<td><p>一位總數：22<br />
+<td><p>一位總數：23<br />
 三台冠軍歌曲總數：3<br />
 四台冠軍歌曲總數：1</p></td>
 </tr>
@@ -683,3 +693,4 @@ Tour》，由成員李昇勳親自擔任導遊，帶領成員介紹濟州島美�
 90.
 91.
 92.
+93.

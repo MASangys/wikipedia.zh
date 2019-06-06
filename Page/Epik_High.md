@@ -281,6 +281,9 @@ High將於出道日10月23日發表第9張正規專輯回歸歌壇，並於11月
   - 2014年5月18日
       - Epik High X BiBiZhou（[周笔畅](../Page/周笔畅.md "wikilink")） - With
         You\[5\]
+  - 2018年6月28日
+      - Epik High X END OF THE WORLD （SEKAI NO OWARI）－Sleeping
+        Beauty\[6\]
 
 ### 原聲帶
 
@@ -288,91 +291,530 @@ High將於出道日10月23日發表第9張正規專輯回歸歌壇，並於11月
 
 ## 演唱会
 
-  - Epik High亚洲巡回演唱会\[6\]
+  - Epik High亚洲巡回演唱会2014\[7\]
 
-|                |       |                               |
-| -------------- | ----- | ----------------------------- |
-| 日期             | 演唱會站次 | 舉行地點                          |
-| 2014年11月14-16日 | 首尔站   | BLUE SQUARE SAMSUNG CARD HALL |
-| 2014年11月22日    | 上海站   | 浅水湾剧院                         |
-| 2014年11月23日    | 北京站   | TANGO LIVE HOUSE              |
-| 2014年11月27日    | 东京站   | 东京电子乐场(WOMB)                  |
-| 2014年11月28日    | 东京站   | 新宿歌舞伎町                        |
-| 2014年11月29日    | 爱知站   | BOTTOM LINE                   |
-| 2014年11月30日    | 大阪站   | 心斋桥，阳光大厅                      |
-| 2014年12月1日     | 大阪站   | BIGCAT                        |
-| 2014年12月7日     | 大邱站   | CHUNMA ARTS CENTER            |
-| 2014年12月19日    | 仁川站   | 三山世界体育馆                       |
-| 2014年12月27-28日 | 釜山站   | SOHYANG THEATRE               |
-| 2015年1月10-11日  | 横滨站   | 横滨湾大厅                         |
-| 2015年2月28日     | 台北站   | TAIPEI LEGACY                 |
-| 2015年4月18日     | 马尼拉站  | SM体育馆                         |
-| 2015月4月19日     | 香港站   | KITEC圆形大厅3号馆                  |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>日期</p></td>
+<td><p>國家</p></td>
+<td><p>演唱會站次</p></td>
+<td><p>舉行地點</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年11月14-16日</p></td>
+<td></td>
+<td><p>首尔站</p></td>
+<td><p>BLUE SQUARE SAMSUNG CARD HALL</p></td>
+</tr>
+<tr class="odd">
+<td><p>2014年11月22日</p></td>
+<td></td>
+<td><p>上海站</p></td>
+<td><p>浅水湾剧院</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年11月23日</p></td>
+<td><p>北京站</p></td>
+<td><p>TANGO LIVE HOUSE</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2014年11月27日</p></td>
+<td></td>
+<td><p>东京站</p></td>
+<td><p>东京电子乐场(WOMB)</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年11月28日</p></td>
+<td><p>东京站</p></td>
+<td><p>新宿歌舞伎町</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2014年11月29日</p></td>
+<td><p>爱知站</p></td>
+<td><p>BOTTOM LINE</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014年11月30日</p></td>
+<td><p>大阪站</p></td>
+<td><p>心斋桥，阳光大厅</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2014年12月1日</p></td>
+<td><p>大阪站</p></td>
+<td><p>BIGCAT</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014年12月7日</p></td>
+<td></td>
+<td><p>大邱站</p></td>
+<td><p>CHUNMA ARTS CENTER</p></td>
+</tr>
+<tr class="odd">
+<td><p>2014年12月19日</p></td>
+<td><p>仁川站</p></td>
+<td><p>三山世界体育馆</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014年12月27-28日</p></td>
+<td><p>釜山站</p></td>
+<td><p>SOHYANG THEATRE</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年1月10-11日</p></td>
+<td></td>
+<td><p>横滨站</p></td>
+<td><p>横滨湾大厅</p></td>
+</tr>
+<tr class="even">
+<td><p>2015年2月28日</p></td>
+<td></td>
+<td><p>台北站</p></td>
+<td><p>TAIPEI LEGACY</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015年4月18日</p></td>
+<td></td>
+<td><p>马尼拉站</p></td>
+<td><p>SM体育馆</p></td>
+</tr>
+<tr class="even">
+<td><p>2015月4月19日</p></td>
+<td></td>
+<td><p>香港站</p></td>
+<td><p>KITEC圆形大厅3号馆</p></td>
+</tr>
+</tbody>
+</table>
 
   - Epik High日本巡回演唱会2015 Show Must Go On
 
-|            |       |                  |
-| ---------- | ----- | ---------------- |
-| 日期         | 演唱會站次 | 舉行地點             |
-| 2015年5月3日  | 神奈川站  | 横滨湾大厅            |
-| 2015年5月4日  | 静冈站   | SOUND SHOWER ARK |
-| 2015年5月5日  | 京都站   | 京都FANJ           |
-| 2015年5月6日  | 爱知站   | BOTTOM LINE      |
-| 2015年5月8日  | 宫城站   | 仙台达尔文            |
-| 2015年5月22日 | 福冈站   | BEAT STATION     |
-| 2015年5月23日 | 大阪站   | 梅田AMHALL         |
-| 2015年5月24日 | 东京站   | 新木场工作室海岸         |
-|            |       |                  |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>日期</p></td>
+<td><p>國家</p></td>
+<td><p>演唱會站次</p></td>
+<td><p>舉行地點</p></td>
+</tr>
+<tr class="even">
+<td><p>2015年5月3日</p></td>
+<td></td>
+<td><p>神奈川站</p></td>
+<td><p>横滨湾大厅</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015年5月4日</p></td>
+<td><p>静冈站</p></td>
+<td><p>SOUND SHOWER ARK</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015年5月5日</p></td>
+<td><p>京都站</p></td>
+<td><p>京都FANJ</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年5月6日</p></td>
+<td><p>爱知站</p></td>
+<td><p>BOTTOM LINE</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015年5月8日</p></td>
+<td><p>宫城站</p></td>
+<td><p>仙台达尔文</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年5月22日</p></td>
+<td><p>福冈站</p></td>
+<td><p>BEAT STATION</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015年5月23日</p></td>
+<td><p>大阪站</p></td>
+<td><p>梅田AMHALL</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年5月24日</p></td>
+<td><p>东京站</p></td>
+<td><p>新木场工作室海岸</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-  - Epik High北美巡回演唱会2015\[7\]
+  - Epik High北美巡回演唱会2015\[8\]
 
-|            |       |        |
-| ---------- | ----- | ------ |
-| 日期         | 演唱會站次 | 舉行地點   |
-| 2015年5月28日 | 旧金山站  | 沃菲尔德剧院 |
-| 2015年5月29日 | 洛杉矶站  | 维尔顿剧院  |
-| 2015年5月31日 | 温哥华站  | 时尚剧院   |
-| 2015年6月5日  | 达拉斯站  | 南边音乐厅  |
-| 2015年6月12日 | 纽约站   | 百思买剧院  |
-| 2015年6月14日 | 多伦多站  | 丹福思音乐厅 |
-|            |       |        |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>日期</p></td>
+<td><p>國家</p></td>
+<td><p>演唱會站次</p></td>
+<td><p>舉行地點</p></td>
+</tr>
+<tr class="even">
+<td><p>2015年5月28日</p></td>
+<td></td>
+<td><p>旧金山站</p></td>
+<td><p>沃菲尔德剧院</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015年5月29日</p></td>
+<td><p>洛杉矶站</p></td>
+<td><p>维尔顿剧院</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015年5月31日</p></td>
+<td><p>温哥华站</p></td>
+<td><p>时尚剧院</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年6月5日</p></td>
+<td><p>达拉斯站</p></td>
+<td><p>南边音乐厅</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015年6月12日</p></td>
+<td><p>纽约站</p></td>
+<td><p>百思买剧院</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年6月14日</p></td>
+<td></td>
+<td><p>多伦多站</p></td>
+<td><p>丹福思音乐厅</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
   - EPIK HIGH JAPAN TOUR 2016
 
-|              |       |                            |
-| ------------ | ----- | -------------------------- |
-| 日期           | 演唱會站次 | 舉行地點                       |
-| 2016年4月29日   | 名古屋站  | Zepp Nagoya                |
-| 2016年5月1日    | 横浜站   | YOKOHAMA BAY HALL          |
-| 2016年5月3日    | 福岡站   | FUKUOKA Drum logos         |
-| 2016年5月5日    | 東京站   | TOKYO STUDIO COAST         |
-| 2016年5月8日    | 仙台站   | SENDAI RENSA               |
-| 2016年5月9-10日 | 大阪站   | OSAKA BIGCAT               |
-| 2016年5月29日   | 沖繩站   | OKINAWA SAKURAZAKA CENTRAL |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>日期</p></td>
+<td><p>國家</p></td>
+<td><p>演唱會站次</p></td>
+<td><p>舉行地點</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年4月29日</p></td>
+<td></td>
+<td><p>名古屋站</p></td>
+<td><p>Zepp Nagoya</p></td>
+</tr>
+<tr class="odd">
+<td><p>2016年5月1日</p></td>
+<td><p>横浜站</p></td>
+<td><p>YOKOHAMA BAY HALL</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年5月3日</p></td>
+<td><p>福岡站</p></td>
+<td><p>FUKUOKA Drum logos</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年5月5日</p></td>
+<td><p>東京站</p></td>
+<td><p>TOKYO STUDIO COAST</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年5月8日</p></td>
+<td><p>仙台站</p></td>
+<td><p>SENDAI RENSA</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年5月9-10日</p></td>
+<td><p>大阪站</p></td>
+<td><p>OSAKA BIGCAT</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年5月29日</p></td>
+<td><p>沖繩站</p></td>
+<td><p>OKINAWA SAKURAZAKA CENTRAL</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
   - EPIK HIGH CONCERT '현재상영중(NOW PLAYING) 2016
 
-|               |       |              |
-| ------------- | ----- | ------------ |
-| 日期            | 演唱會站次 | 舉行地點         |
-| 2016年7月22-24日 | 首尔    | 西江大學瑪麗·霍爾大劇院 |
-| 2016年7月29-31日 |       |              |
-|               |       |              |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>日期</p></td>
+<td><p>國家</p></td>
+<td><p>演唱會站次</p></td>
+<td><p>舉行地點</p></td>
+</tr>
+<tr class="even">
+<td><p>2016年7月22-24日</p></td>
+<td></td>
+<td><p>首尔</p></td>
+<td><p>西江大學瑪麗·霍爾大劇院</p></td>
+</tr>
+<tr class="odd">
+<td><p>2016年7月29-31日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
   - EPIK HIGH 回歸紀念演唱會
 
-|              |       |                               |
-| ------------ | ----- | ----------------------------- |
-| 日期           | 演唱會站次 | 舉行地點                          |
-| 2017年11月3-4日 | 首尔    | Blue Square Samsung Card Hall |
-|              |       |                               |
+<table>
+<tbody>
+<tr class="odd">
+<td><p>日期</p></td>
+<td><p>演國家</p></td>
+<td><p>唱會站次</p></td>
+<td><p>舉行地點</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年11月3-4日</p></td>
+<td></td>
+<td><p>首尔</p></td>
+<td><p>Blue Square Samsung Card Hall</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+  - Epik High巡回演唱会2019
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>日期</p></td>
+<td><p>國家</p></td>
+<td><p>演唱會站次</p></td>
+<td><p>舉行地點</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年3月13日</p></td>
+<td></td>
+<td><p>柏林站</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/文化釀酒廠" title="wikilink">文化釀酒廠</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年3月14日</p></td>
+<td></td>
+<td><p>赫爾辛基站</p></td>
+<td><p>The Circus</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年3月15日</p></td>
+<td></td>
+<td><p>阿姆斯特丹站</p></td>
+<td><p>Q-Factory</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年3月16日</p></td>
+<td></td>
+<td><p>布魯塞爾站</p></td>
+<td><p>La Madeleine</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年3月17日</p></td>
+<td></td>
+<td><p>巴黎站</p></td>
+<td><p>Yoyo Paris De Tokyo</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年3月19日</p></td>
+<td></td>
+<td><p>華沙站</p></td>
+<td><p>Progresja</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年3月20日</p></td>
+<td></td>
+<td><p>倫敦站</p></td>
+<td><p>電子舞廳</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年4月1日</p></td>
+<td></td>
+<td><p>明尼阿波利斯站</p></td>
+<td><p>First Avenue</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年4月3日</p></td>
+<td><p>芝加哥站</p></td>
+<td><p>House of Blues</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年4月4日</p></td>
+<td></td>
+<td><p>多倫多站</p></td>
+<td><p>Phoenix Concert Theatre</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年4月7日</p></td>
+<td></td>
+<td><p>紐約站</p></td>
+<td><p>Terminal 5</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年4月9日</p></td>
+<td><p>波士頓站</p></td>
+<td><p>Paradise Rock Club</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年4月10日</p></td>
+<td><p>費城站</p></td>
+<td><p>Union Transfer</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年4月12日</p></td>
+<td><p>華盛頓站</p></td>
+<td><p>The Fillmore Silver Sprin</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年4月13日</p></td>
+<td><p>羅里站</p></td>
+<td><p>Lincoln Theatre</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年4月15日</p></td>
+<td><p>亞特蘭大站</p></td>
+<td><p>Center Stage</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年4月18日</p></td>
+<td><p>柯士甸站</p></td>
+<td><p>Emo's</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年4月19日</p></td>
+<td><p>休斯敦站</p></td>
+<td><p>House of Blues</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年4月20日</p></td>
+<td><p>達拉斯站</p></td>
+<td><p>Canton Hall</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年4月23日</p></td>
+<td><p>聖地牙哥站</p></td>
+<td><p>The Observatory</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年4月26日</p></td>
+<td><p>洛杉磯站</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/威爾頓劇院" title="wikilink">威爾頓劇院</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年4月28日</p></td>
+<td><p>三藩市站</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/沃菲爾德劇院" title="wikilink">沃菲爾德劇院</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年5月1日</p></td>
+<td><p>西雅圖站</p></td>
+<td><p>Showbox SoDo</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年5月2日</p></td>
+<td></td>
+<td><p>溫哥華站</p></td>
+<td><p>時尚劇院</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年5月3日</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月27日</p></td>
+<td></td>
+<td><p>香港站</p></td>
+<td><p>九龍灣國際展貿中心展貿廳</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年6月29日</p></td>
+<td></td>
+<td><p>台北站</p></td>
+<td><p>信義劇場 Legacy MAX</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
   - 演唱會表演嘉賓
 
-|            |                                                                              |             |
-| ---------- | ---------------------------------------------------------------------------- | ----------- |
-| 日期         | 演唱會名稱                                                                        | 舉行地點        |
-| 2015年10月3日 | [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink") DEBUT CONCERT SHOWTIME | 奧林匹克公園體操體育場 |
+|                |                                                                              |               |
+| -------------- | ---------------------------------------------------------------------------- | ------------- |
+| 日期             | 演唱會名稱                                                                        | 舉行地點          |
+| 2015年10月3日     | [iKON](https://zh.wikipedia.org/wiki/iKON "wikilink") DEBUT CONCERT SHOWTIME | 首尔奧林匹克公園體操體育場 |
+| 2018年12月24－25日 | [PSY](../Page/PSY.md "wikilink") All Nigh Stand 2018                         |               |
 
 ## EPIK HIGH 其他演唱会
 
@@ -434,6 +876,7 @@ High將於出道日10月23日發表第9張正規專輯回歸歌壇，並於11月
 | 2017年5月28日     | THE 11TH SEOUL JAZZ FESTIVAL 2017                             | 首爾奧林匹克公園                                    |
 | 2017年9月2日      | Chemie Concert Season 3 Vol.2                                 | 首爾河南市文化藝術中心大劇院                              |
 | 2017年9月17日     | 2017 SOMEDAY FESTIVAL                                         | 首爾蘭芝漢江公園                                    |
+| 2019年5月16日     | 檀國大學校慶演唱會                                                     | 首爾忠清南道天安市                                   |
 
 ## 獎項
 
@@ -712,3 +1155,4 @@ High將於出道日10月23日發表第9張正規專輯回歸歌壇，並於11月
 5.
 6.
 7.
+8.

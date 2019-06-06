@@ -239,6 +239,15 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年5月17日－5月19日</p></td>
+<td><p>KCON 2019 JAPAN</p></td>
+<td><p><a href="../Page/千葉市.md" title="wikilink">千葉市</a></p></td>
+<td></td>
+<td><p><a href="../Page/幕張展覽館.md" title="wikilink">幕張展覽館</a></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -748,9 +757,7 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
 
 活動嘉賓：
 
-  - 韓國嘉賓
-
-<!-- end list -->
+**韓國嘉賓**
 
   - [Wanna One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")
   - [PENTAGON](../Page/Pentagon_\(男子組合\).md "wikilink")
@@ -763,14 +770,54 @@ Countdown在世界各地舉辦的大型特別活動](https://zh.wikipedia.org/wi
   - [Golden Child](../Page/Golden_Child.md "wikilink")
   - [THE BOYZ](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")
 
-<!-- end list -->
-
-  - TAIPEI 嘉賓
-
-<!-- end list -->
+**TAIPEI 嘉賓**
 
   - [五月天](../Page/五月天.md "wikilink")
   - [鼓鼓](https://zh.wikipedia.org/wiki/鼓鼓 "wikilink")
+
+## KCON 2019 JAPAN
+
+活動日期：2019年5月17日－2018年5月19日
+
+活動地點：[幕張展覽館](../Page/幕張展覽館.md "wikilink")
+
+5月17日
+
+  - [AB6IX](../Page/AB6IX.md "wikilink")
+  - [ATEEZ](../Page/ATEEZ.md "wikilink")
+  - [Cherry Bullet](../Page/Cherry_Bullet.md "wikilink")
+  - [河成雲](../Page/河成雲.md "wikilink")
+  - [IZ\*ONE](../Page/IZ*ONE.md "wikilink")
+  - [鄭世雲](https://zh.wikipedia.org/wiki/鄭世雲 "wikilink")
+  - [金在奐](../Page/金在奐.md "wikilink")
+  - [MOMOLAND](../Page/MOMOLAND.md "wikilink")
+  - [THE BOYZ](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")
+
+5月18日
+
+  - [A.C.E](https://zh.wikipedia.org/wiki/A.C.E "wikilink")
+  - [請夏](https://zh.wikipedia.org/wiki/請夏 "wikilink")
+  - [ITZY](../Page/ITZY.md "wikilink")
+  - [MONSTA X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")
+  - [NU'EST](../Page/NU'EST.md "wikilink")
+  - [ONF](https://zh.wikipedia.org/wiki/ONF "wikilink")
+  - [朴志訓](https://zh.wikipedia.org/wiki/朴志訓 "wikilink")
+  - [TARGET](https://zh.wikipedia.org/wiki/TARGET "wikilink")
+  - [VERIVERY](../Page/VERIVERY.md "wikilink")
+  - [WJSN](https://zh.wikipedia.org/wiki/WJSN "wikilink")
+
+5月19日
+
+  - [D-CRUNCH](../Page/D-CRUNCH.md "wikilink")
+  - [fromis_9](https://zh.wikipedia.org/wiki/fromis_9 "wikilink")
+  - [GWSN](https://zh.wikipedia.org/wiki/GWSN "wikilink")
+  - [IZ\*ONE](../Page/IZ*ONE.md "wikilink")
+  - [NATURE](https://zh.wikipedia.org/wiki/NATURE "wikilink")
+  - [ONEUS](https://zh.wikipedia.org/wiki/ONEUS "wikilink")
+  - [PENTAGON](https://zh.wikipedia.org/wiki/PENTAGON "wikilink")
+  - [SF9](https://zh.wikipedia.org/wiki/SF9 "wikilink")
+  - [TWICE](https://zh.wikipedia.org/wiki/TWICE "wikilink")
+  - [VAV](../Page/VAV.md "wikilink")
 
 ## 參考資料
 

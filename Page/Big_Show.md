@@ -8,6 +8,8 @@ Punk和](../Page/CM_Punk.md "wikilink")[Kane](../Page/肯恩_\(摔角手\).md "w
 
 ### 早期生涯
 
+Big Show名為Big Show,是一個人。
+
 ### WCW
 
 #### WCW世界重量級冠軍（1995-1996）

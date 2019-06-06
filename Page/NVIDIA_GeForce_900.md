@@ -1015,7 +1015,7 @@ GM206</p></td>
 
 69. <http://www.geforce.com/hardware/notebook-gpus/geforce-910m/specifications>
 
-70. <https://www.techpowerup.com/gpudb/2748/geforce-910m>
+70.
 
 71. <http://www.geforce.com/hardware/notebook-gpus/geforce-910m/specifications>
 

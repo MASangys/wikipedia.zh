@@ -29,7 +29,7 @@ SMG。而在2012年，IWI又推出了長槍管的5.56×45毫米型X95-L和5.45×
 
 塔沃爾X95系列是一款外型上獨立於塔沃爾系列、極其緊湊的[犢牛式](../Page/犢牛式_\(槍械\).md "wikilink")[突击步枪](../Page/突击步枪.md "wikilink")。其非常緊湊的外型是專為軍事上的特種部隊而設計，因為他倆通常是不會使用較長的突擊步槍。由於槍身比CTAR-21更短，因此微型塔沃爾的[槍托系統與原來的TAR](../Page/槍托.md "wikilink")-21的形狀有明顯不同。\[10\]最明顯的特徵就是護木前端具有向外擴展的喇叭形擴口處理，以防止使用者在黑暗等情況下使用時手指伸到槍管前方而受傷；同時由於不再使用原來的[MARS紅點鏡](../Page/ITL_MARS一體化紅點鏡.md "wikilink")，因而取消了[雷射瞄準器開關](https://zh.wikipedia.org/wiki/雷射瞄準器 "wikilink")。這一點被生產商視為該槍與過去其他同系列突擊步槍型號於網上目錄上的區別。
 
-塔沃爾X95採用[長行程活塞氣動式](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")，[轉拴式槍機閉鎖機構](../Page/滾轉式槍機.md "wikilink")。外殼完全是由[聚合物所製造而成](../Page/聚合物.md "wikilink")，聚合物外殼內部的[機匣部分是一個鋼製U形骨架](https://zh.wikipedia.org/wiki/機匣 "wikilink")，保障武器堅固耐用。
+塔沃爾X95採用[長行程活塞氣動式](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")，[轉拴式槍栓閉鎖機構](../Page/轉拴式槍栓.md "wikilink")。外殼完全是由[聚合物所製造而成](../Page/聚合物.md "wikilink")，聚合物外殼內部的[機匣部分是一個鋼製U形骨架](https://zh.wikipedia.org/wiki/機匣 "wikilink")，保障武器堅固耐用。
 
 塔沃爾X95可藉由的位置很​​輕易地與TAR-21（以及CTAR-21、STAR-21和GTAR-21）區分開來。X95的拉機柄更接近，而TAR-21的拉機柄更靠近槍口。其[槍托還略有重新設計](../Page/槍托.md "wikilink")。\[11\]
 
@@ -152,59 +152,68 @@ Earth）和[橄榄绿色](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")（
 [COBRA_COMMANDO.jpg](https://zh.wikipedia.org/wiki/File:COBRA_COMMANDO.jpg "fig:COBRA_COMMANDO.jpg")突擊隊。\]\]
 [Парад_в_честь_70-летия_Великой_Победы_-_33.jpg](https://zh.wikipedia.org/wiki/File:Парад_в_честь_70-летия_Великой_Победы_-_33.jpg "fig:Парад_в_честь_70-летия_Великой_Победы_-_33.jpg")期間，攜帶塔沃爾X95的[阿塞拜疆軍隊士兵們](https://zh.wikipedia.org/wiki/阿塞拜疆軍隊 "wikilink")。\]\]
 
-  - ：塔沃爾X95被[安哥拉武装力量所採用](../Page/安哥拉武装力量.md "wikilink")。\[30\]
+  -   - [安哥拉武裝部隊](../Page/安哥拉武装力量.md "wikilink")：X95\[30\]
 
-  - ：塔沃爾X95被[阿塞拜疆陸軍](https://zh.wikipedia.org/wiki/阿塞拜疆陸軍 "wikilink")[特種部隊所採用](../Page/特種部隊.md "wikilink")。
+  -   - [特種部隊單位](../Page/特種部隊.md "wikilink")：X95
 
-  - ：MTAR-21於當地由[金牛座軍事工業公司作本土生產](https://zh.wikipedia.org/wiki/金牛座軍事工業公司 "wikilink")。\[31\]
+  - ：MTAR-21於當地由作本土生產。\[31\]
 
-  - ：塔沃爾X95被[哥倫比亞陸軍](https://zh.wikipedia.org/wiki/哥倫比亞陸軍 "wikilink")[特種部隊所採用](../Page/特種部隊.md "wikilink")。
+  -   - [特種部隊單位](../Page/特種部隊.md "wikilink")
 
-  - ：塔沃爾X95將取代塞浦路斯國民警衛軍所裝備的G3。
+  -   - [塞浦路斯國民警衛隊](https://zh.wikipedia.org/wiki/塞浦路斯國民警衛隊 "wikilink")：X95將取代目前裝備的[HK
+        G3自動步槍](../Page/HK_G3自動步槍.md "wikilink")。
 
-  - ：MTAR-21被[格魯吉亞陸軍](https://zh.wikipedia.org/wiki/格魯吉亞陸軍 "wikilink")[特種部隊所採用](../Page/特種部隊.md "wikilink")。
+  -   - [特種部隊單位](../Page/特種部隊.md "wikilink")：MTAR-21
 
-  - ：MTAR-21被警察所採用。
+  -   - 警察單位：MTAR-21
 
-  - ：MTAR-21被[洪都拉斯陸軍及其](https://zh.wikipedia.org/wiki/洪都拉斯陸軍 "wikilink")[特種部隊所採用](../Page/特種部隊.md "wikilink")。\[32\]
+  -
+  -   - [洪都拉斯陸軍](../Page/洪都拉斯軍事.md "wikilink")：MTAR-21\[32\]
 
-  - ：[中央後備警察部隊](https://zh.wikipedia.org/wiki/中央後備警察部隊 "wikilink")（，簡稱：CRP；[天城文](https://zh.wikipedia.org/wiki/天城文 "wikilink")：केंद्रीय
-    रिज़र्व पुलिस
-    बलF）訂購了12,000枝X95步槍（微型塔沃爾），並且在2011年初收到第一批步槍。\[33\]在印度軍隊使用武器打擊克什米爾叛亂之後，CRPF指揮官表示，由於X95的體積細小、威力強大、射程更遠以及重量更輕，因而是一款比[AKM更有力的突擊步槍](../Page/AKM突擊步槍.md "wikilink")。2002年底，印度與[以色列軍事工業簽署了一項價值達到](../Page/以色列軍事工業.md "wikilink")8.8億美元（相當於2017年的24億[印度盧比或](../Page/印度盧比.md "wikilink")3,500萬美元）的協議，將向印度的[特種部隊人員設放](../Page/特種部隊.md "wikilink")3,070枝製成的TAR-21，\[34\]它的人體工程學設計、耐熱量和沙粒的可靠性可使它倆在近身距離和車廂內操作方面具有優勢。到了2005年，以色列軍事工業向印度北部[特別邊防部隊](../Page/特別邊防部隊.md "wikilink")（SFF）提供了350—400枝TAR-21。但隨後宣布結果“在操作上不令人滿意”。此後已經完成所需作出的改進，2006年間在以色列的測試進展順利，並且結算了交付合同當中的貨品。TAR-21現已投入操作服役——即使以後印度準備進行更大規模的競標，可能採用X95的9×19毫米魯格口徑版本。\[35\]隨後由當地（，簡稱：OFB）作印度本土生產，命名為「**Zittara**」，但從未被採用過。\[36\]新型塔沃爾X95裝有經過修改的單塊式[槍托和新型瞄準具](../Page/槍托.md "wikilink")，以及[土耳其製MKEK](../Page/土耳其.md "wikilink")
-    T-40[槍管下掛式榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器#附加型榴弹发射器 "wikilink")。\[37\]最近已被訂購5,500枝，並且正在訂購更多的步槍。2010年12月，（MARCOS）獲發配了500多枝塔沃爾犢牛式突擊步槍和另外30支[加利爾狙擊步槍](../Page/IMI加利爾狙擊型步槍.md "wikilink")，價值分別超過1.5億印度盧比（220萬美元）和2,000萬印度盧比（290,000美元）。\[38\]2016年，IWI宣布與印度朋茲勞埃德公司建立49:51比例的合資企業，以便在印度生產步槍組件。\[39\]
+  - ：2016年，IWI宣布與印度朋茲勞埃德公司建立49:51比例的合資企業，以便在印度生產塔沃爾步槍的組件。\[33\]
 
-  - ：MTAR-21被特種部隊所採用。
+      - [中央後備警察部隊](https://zh.wikipedia.org/wiki/中央後備警察部隊 "wikilink")（CRPF）：訂購了12,000枝X95步槍（微型塔沃爾），並且在2011年初收到第一批步槍。\[34\]在印度軍隊使用武器打擊克什米爾叛亂之後，CRPF指揮官表示，由於X95的體積細小、威力強大、射程更遠以及重量更輕，因而是一款比[AKM更有力的突擊步槍](../Page/AKM突擊步槍.md "wikilink")。
 
-  - ：2009年11月宣布，微型塔沃爾（塔沃爾X95）將會取代原來的所有T.A.R.
-    21，並且另外加上一種新型槍管下掛式榴彈發射器（[IWI
-    GL
-    40附加型榴彈發射器](../Page/IWI_GL_40附加型榴彈發射器.md "wikilink")）並且一起在2011年成為的以色列國防軍制式步兵武器。\[40\]2014年，以色列國防軍宣布，未來（從2014年底開始），一部份步兵部隊可能會開始裝備一些X95的改進型，它倆將裝上有較長的380毫米（14.96英寸）[槍管而非X](../Page/槍管.md "wikilink")95原來的330毫米（12.99英寸）槍，以及較輕的扳機扣力。\[41\]
+      - [印度武裝部隊](https://zh.wikipedia.org/wiki/印度軍事 "wikilink")：2002年底，印度與[以色列軍事工業簽署了一項價值達到](../Page/以色列軍事工業.md "wikilink")8.8億美元（相當於2017年的24億[印度盧比或](../Page/印度盧比.md "wikilink")3,500萬美元）的協議，將向印度的[特種部隊人員設放](../Page/特種部隊.md "wikilink")3,070枝製成的TAR-21，\[35\]它的人體工程學設計、耐熱量和沙粒的可靠性可使它在近身距離和車廂內操作方面具有優勢。
 
-  - ：被[特種部隊所採用](../Page/特種部隊.md "wikilink")\[42\]。
+      - [特別邊防部隊](../Page/特別邊防部隊.md "wikilink")（SFF）：2005年，以色列軍事工業向印度北部的特別邊防部隊提供了350—400枝TAR-21。但隨後宣布結果“在操作上不令人滿意”。此後已經完成所需作出的改進，2006年間在以色列的測試進展順利，並且結算了交付合同當中的貨品。TAR-21現已投入操作服役——即使以後印度準備進行更大規模的競標，可能採用X95的9×19毫米魯格口徑版本。\[36\]隨後由當地（，簡稱：OFB）作印度本土生產，命名為「**Zittara**」，但從未被採用過。\[37\]新型塔沃爾X95裝有經過修改的單塊式[槍托和新型瞄準具](../Page/槍托.md "wikilink")，以及[土耳其製MKEK](../Page/土耳其.md "wikilink")
+        T-40[槍管下掛式榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器#附加型榴弹发射器 "wikilink")。\[38\]最近已被訂購5,500枝，並且正在訂購更多的步槍。
 
-  - ：少量被馬其頓[特種部隊](../Page/特種部隊.md "wikilink")“老虎”所採用。\[43\]
+      - （MARCOS）：2010年12月，MARCOS獲發配了500多枝塔沃爾犢牛式突擊步槍和另外30支[加利爾狙擊步槍](../Page/IMI加利爾狙擊型步槍.md "wikilink")，價值分別超過1.5億印度盧比（220萬美元）和2,000萬印度盧比（290,000美元）。\[39\]
 
-  - ：被特種部隊所採用。\[44\]
+  -   - [以色列國防軍](../Page/以色列國防軍.md "wikilink")：2009年11月宣布，微型塔沃爾（塔沃爾X95）將會取代原來的所有T.A.R.
+        21，並且另外加上一種新型槍管下掛式榴彈發射器（[IWI GL
+        40附加型榴彈發射器](../Page/IWI_GL_40附加型榴彈發射器.md "wikilink")）並且一起在2011年成為他們的制式步兵武器。\[40\]2014年，以色列國防軍宣布，未來（從2014年底開始），一部份步兵部隊可能會開始裝備一些X95的改進型，它倆將裝上有較長的380毫米（14.96英寸）[槍管而非X](../Page/槍管.md "wikilink")95原來的330毫米（12.99英寸）槍，以及較輕的扳機扣力。\[41\]
 
-  - ：自2018年開始，（DGSN）使用塔沃爾X95。\[45\]
+  -   - [特種部隊單位](../Page/特種部隊.md "wikilink")\[42\]
 
-  - ：於尼日利亞海軍特別舟艇部隊服役。\[46\]
+  -   - 特種部隊單位\[43\]
 
-  - ：\[47\]
+  -   - （DGSN）：自2018年開始使用塔沃爾X95。\[44\]
 
-  - ：X95-SMG被[秘魯武裝部隊所採用](https://zh.wikipedia.org/wiki/秘魯武裝部隊 "wikilink")。
+  -   - 特別舟艇部隊\[45\]
 
-  - ：\[48\]
+  -   - “老虎”[特種部隊](../Page/特種部隊.md "wikilink")\[46\]
 
-  - ：[泰国皇家军队使用塔沃爾X](../Page/泰国皇家军队.md "wikilink")95。
+  -   - [菲律賓海岸防衛隊](../Page/菲律賓海巡署.md "wikilink")\[47\]
+      - [菲律賓國家警察](https://zh.wikipedia.org/wiki/菲律賓國家警察 "wikilink")
 
-  - ：[烏克蘭內政部的負責人](https://zh.wikipedia.org/wiki/烏克蘭內政部 "wikilink")[尤里·盧岑科在](https://zh.wikipedia.org/wiki/尤里·盧岑科 "wikilink")2008年10月1日，宣佈向[IWI和以及烏克蘭的研究和生產公司](https://zh.wikipedia.org/wiki/以色列軍事工業#小型武器 "wikilink")將共同生產塔沃爾系列突擊步槍，當中包括X95
+  -   - [秘魯武裝部隊](../Page/秘魯軍事.md "wikilink")：X95-SMG
+
+  - \[48\]
+
+  -   - [泰国皇家军队](../Page/泰国皇家军队.md "wikilink")：X95
+
+  - ：的負責人[尤里·盧岑科在](https://zh.wikipedia.org/wiki/尤里·盧岑科 "wikilink")2008年10月1日，宣佈向[IWI和以及烏克蘭的研究和生產公司](https://zh.wikipedia.org/wiki/以色列軍事工業#小型武器 "wikilink")將共同生產塔沃爾系列突擊步槍，當中包括X95
     330和X95-R，分別命名為「**[Fort-223](../Page/Fort-221突擊步槍.md "wikilink")**」和「**[Fort-224](../Page/Fort-221突擊步槍.md "wikilink")**」。\[49\]並將被分發至[烏克蘭軍隊和](https://zh.wikipedia.org/wiki/烏克蘭軍隊 "wikilink")[特警隊內服役](https://zh.wikipedia.org/wiki/特種警察 "wikilink")。\[50\]\[51\]RPC
-    Fort曾向烏克蘭安全部隊人員展示5.45口徑型操作樣槍（包括烏克蘭生產的X95-R），作為說服他們購買為烏克蘭特殊部隊生產的塔沃爾系列的一種手段。\[52\]目前Fort-224被[乌克兰民族卫队所採用](../Page/乌克兰民族卫队.md "wikilink")。\[53\]
+    Fort曾向烏克蘭安全部隊人員展示5.45口徑型操作樣槍（包括烏克蘭生產的X95-R），作為說服他們購買為烏克蘭特種部隊生產的塔沃爾系列的一種手段。\[52\]目前Fort-224已被[乌克兰民族卫队所採用](../Page/乌克兰民族卫队.md "wikilink")。\[53\]
 
-  - ：從2012年起，MTAR-21目前已在[越南人民军](../Page/越南人民军.md "wikilink")[特種部隊中服役](../Page/特種部隊.md "wikilink")，被特種部隊、海軍陸戰隊和海軍部隊有限地採用。\[54\]
+      - [烏克蘭武裝力量](https://zh.wikipedia.org/wiki/烏克蘭軍事 "wikilink")
 
-  - ：使用塔沃爾X95。\[55\]
+      -
+  -   - [越南人民军](../Page/越南人民军.md "wikilink")：自2012年起，MTAR-21已開始在軍隊中服役，目前主要裝備於特種部隊、海軍陸戰隊和海軍部隊\[54\]
+
+  -   - ：X95\[55\]
 
 ## 流行文化
 
@@ -462,22 +471,22 @@ Earth）和[橄榄绿色](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")（
 
 32.
 
-33.
-34.
+33. [IWI Establishes Activity in
+    India](http://www.israeldefense.co.il/en/content/iwi-establishes-activity-india)
+    Ami Rojkes Dombe | 7/02/2016
 
-35. [Tavor-21 Rifle Headed Into Service With Indian Special
+34.
+35.
+
+36. [Tavor-21 Rifle Headed Into Service With Indian Special
     Forces](http://www.defenseindustrydaily.com/tavor21-rifle-headed-into-service-with-indian-special-forces-03080/).
     Defenseindustrydaily.com (2007-02-28). Retrieved on 2010-08-31.
 
-36.
 37.
-38. [Israeli TAR-21 Tavor Assault Rifles for Indian Navy
+38.
+39. [Israeli TAR-21 Tavor Assault Rifles for Indian Navy
     Commandos](http://www.bharat-rakshak.com/NEWS/newsrf.php?newsid=14166)
     , 2011-01-12, IANS, bharat-rakshak.com
-
-39. [IWI Establishes Activity in
-    India](http://www.israeldefense.co.il/en/content/iwi-establishes-activity-india)
-    Ami Rojkes Dombe | 7/02/2016
 
 40.
 41. [ישראל
@@ -488,16 +497,16 @@ Earth）和[橄榄绿色](https://zh.wikipedia.org/wiki/橄榄绿 "wikilink")（
 
 42. [1](https://uk.news.yahoo.com/ivory-coast-special-forces-mutiny-town-adiake-sources-132057875.html)
 
-43. [MyCity Military－Vojske bivših Republika
-    SFRJ](http://www.mycity-military.com/Vojske-sveta-baze-i-objekti/Vojske-bivsih-Republika-SFRJ_206.html#p820836)
-
-44. [084-й отдельный батальон специального назначения вооруженных сил
+43. [084-й отдельный батальон специального назначения вооруженных сил
     Монголии: dambiev](http://dambiev.livejournal.com/687586.html)
 
-45.
+44.
 
-46. [Instagram—IWI US：「 Some good dudes rocking our \#Negev and \#X95
+45. [Instagram—IWI US：「 Some good dudes rocking our \#Negev and \#X95
     」](https://www.instagram.com/p/BhHNqTHgsDS/)
+
+46. [MyCity Military－Vojske bivših Republika
+    SFRJ](http://www.mycity-military.com/Vojske-sveta-baze-i-objekti/Vojske-bivsih-Republika-SFRJ_206.html#p820836)
 
 47. [צפו: משמר החופים של הפיליפינים קיבל משלוח של רובי תבור מישראל |
     Israel Defense](http://www.israeldefense.co.il/he/node/34099)

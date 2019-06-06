@@ -6,10 +6,6 @@
 
 全碟作詞：[陳少琪](https://zh.wikipedia.org/wiki/陳少琪 "wikilink")　<small>（下面註明例外曲目）</small>　全碟作曲及編曲：[劉以達](https://zh.wikipedia.org/wiki/劉以達 "wikilink")　全碟監製：黃祖輝
 
-TATMINGPAIR1986EP.jpeg|唱片封套封面 TATMINGPAIR1986EP2.jpeg|唱片封套封底
-TATMINGPAIR1986EP3.jpeg|專輯黑膠唱片 TATMINGPAIR1986EP4.jpeg|專輯歌詞表
-TATMINGPAIR1986EP5.jpeg|專輯歌詞表背頁
-
 [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 [Category:1986年音樂專輯](https://zh.wikipedia.org/wiki/Category:1986年音樂專輯 "wikilink")
 

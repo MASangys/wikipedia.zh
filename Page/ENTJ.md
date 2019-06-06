@@ -48,7 +48,7 @@ Fi過濾信息，這種過濾的基礎是緣於標准（經常是無形的）形
   - [TypeLogic ESFP](http://typelogic.com/esfp.html)
   - [Personality Page ESFP](http://www.personalitypage.com/ESFP.html)
   - [The Myers & Briggs Foundation: The 16 MBTI
-    Types](http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
+    Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
   - [PersonalityDesk: ESFP
     Profile](https://web.archive.org/web/20100315081448/http://www.personalitydesk.com/esfp-type-description.php)
 

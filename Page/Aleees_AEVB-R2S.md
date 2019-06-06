@@ -17,7 +17,7 @@ AEVB-A1S**是[中華民國車商](../Page/中華民國.md "wikilink")[立凱電�
 ## 外部連結
 
   - [台灣立凱電](http://www.aleees.com/tw/)
-  - [下一代換電式電動巴士](http://www.aleees.com/tw/product/e-bus01.html)
+  - [下一代換電式電動巴士](https://web.archive.org/web/20150424134610/http://www.aleees.com/tw/product/e-bus01.html)
   - [電動巴士規格](https://web.archive.org/web/20150411093421/http://www.aleees.com/tw/product/e-bus01/aleees-ebus-standard.html)
   - [立凱電的低地板電動巴士](https://web.archive.org/web/20150411102616/http://www.aleees.com/tw/product/e-bus01/low-floor-ebus.html)
 

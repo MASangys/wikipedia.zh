@@ -77,7 +77,8 @@ ALBUM](../Page/LIFE_ALBUM.md "wikilink")》約隔十個月之後發行。初回�
   - [My song Your
     song](http://www.sonymusic.co.jp/Music/Arch/ES/Ikimonogakari/?ESCL-3146)
     - Sony Music
-  - [唱片介紹](http://www.ikimonogakari.com/discography_ESCL-3146.html)
+  - [唱片介紹](https://web.archive.org/web/20100902115050/http://www.ikimonogakari.com/discography_ESCL-3146.html)
+
 
 [Category:生物股長音樂專輯](https://zh.wikipedia.org/wiki/Category:生物股長音樂專輯 "wikilink")
 [Category:2008年音樂專輯](https://zh.wikipedia.org/wiki/Category:2008年音樂專輯 "wikilink")

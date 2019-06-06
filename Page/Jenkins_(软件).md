@@ -44,7 +44,7 @@ Jenkins的扩展插件已经发布，能使非Java语言编写的项目也使用
 
 <!-- end list -->
 
-  - [Hudson和持续集成（CI）相关的文章](http://adrian.org.ar/tag/hudson)
+  - [Hudson和持续集成（CI）相关的文章](https://web.archive.org/web/20140711093451/http://adrian.org.ar/tag/hudson/)
   - [Jenkins创始人川口耕介在The
     Changelog播客中谈论项目的起因与名字的变更](https://web.archive.org/web/20130117165447/http://thechangelog.com/post/3186867001/episode-0-4-8-jenkins-formerly-hudson-with-kohsuke-kawag)
   - 创始人川口耕介的文章《[七招优化Jenkins/Hudson](http://www.cloudbees.com/sites/default/files/whitepapers/7WaysToOptimizeJenkins.pdf)》

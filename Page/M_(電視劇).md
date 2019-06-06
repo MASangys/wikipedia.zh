@@ -46,8 +46,7 @@
 ## 外部連結
 
   - [《M》韓國MBC官方網站](http://www.imbc.com/broad/tv/drama/M/)
-  - [Youtube
-    -《M》開場片段](http://www.youtube.com/watch?v=--itrkXeQes&feature=youtu.be)
+  - [Youtube -《M》開場片段](https://www.youtube.com/watch?v=A-bhqSfB88E)
 
 [Category:1994年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:1994年韓國電視劇集 "wikilink")
 [Category:1994年電視劇集](https://zh.wikipedia.org/wiki/Category:1994年電視劇集 "wikilink")

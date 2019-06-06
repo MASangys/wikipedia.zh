@@ -45,7 +45,7 @@ STA方法也经常被称为*反相关分析*或者*白噪声分析*。STA方法�
 
 ### 正则化STA
 
-在实际应用中，由于白化操作会增加视觉刺激某些维度上的噪音（刺激变化比较小的维度），有可能有必要对白化STA进行[正则化处理](https://zh.wikipedia.org/wiki/正则化 "wikilink")。通用的方法是[Tikhonov正则化处理](https://zh.wikipedia.org/wiki/Tikhonov正则化 "wikilink")。正则化后的STA，如果使用线性回归表述，公式为：
+在实际应用中，由于白化操作会增加视觉刺激某些维度上的噪音（刺激变化比较小的维度），有可能有必要对白化STA进行[正则化处理](https://zh.wikipedia.org/wiki/正则化 "wikilink")。通用的方法是[吉洪诺夫正则化处理](https://zh.wikipedia.org/wiki/吉洪诺夫正则化 "wikilink")。正则化后的STA，如果使用线性回归表述，公式为：
 
 \(\mathrm{STA}_{ridge} = \tfrac{T}{n_{sp}} \left(X^TX + \lambda I\right)^{-1}X^T \mathbf{y},\)
 

@@ -6,6 +6,8 @@ Antergos在2012年7月首次於[DistroWatch被報道](../Page/DistroWatch.md "wi
 
 加利西亞中「*Antergos*」的意義為：「*祖先」*。對於這一項目而言，其寓意着「連接過去與現在」\[2\]。
 
+由於缺乏貢獻者，2019年5月21日宣佈停止開發。
+
 ## 歷史與開發
 
 該專案初始時以*Cinnarch*\[3\]\[4\]作爲名稱，並以[Cinnamon作爲](../Page/Cinnamon.md "wikilink")[桌面环境](../Page/桌面环境.md "wikilink")。後者是[GNOME

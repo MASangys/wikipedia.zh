@@ -6,9 +6,6 @@ records在日本发行](../Page/Sony_Music_Records.md "wikilink")。\[1\]
 
 ## 参考文献
 
-[en:Orange
-Range](https://zh.wikipedia.org/wiki/en:Orange_Range "wikilink")
-
 [Category:橘子新樂園音樂專輯](https://zh.wikipedia.org/wiki/Category:橘子新樂園音樂專輯 "wikilink")
 [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")
 [Category:Sony_Music_Records音樂專輯](https://zh.wikipedia.org/wiki/Category:Sony_Music_Records音樂專輯 "wikilink")

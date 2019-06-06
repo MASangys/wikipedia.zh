@@ -109,7 +109,7 @@ G28的扳機為[兩道火扳機](https://zh.wikipedia.org/wiki/兩道火扳機 "
 ### 快慢機
 
 HK
-G28的[快慢機具有保險和發射兩種發射模式](../Page/擊發調變槍械.md "wikilink")。從最前方的保險位置調節到發射位置旋轉約90[°](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")。快慢機位於兩側上方，可以由[拇指激活調整操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")，方便左右兩手使用。每個發射模式選擇的位置上都採用了黑克勒-科赫獨特的[子彈形表示標誌作為標記](https://zh.wikipedia.org/wiki/黑克勒-科赫武器列表#其他相關 "wikilink")，它也可以充當為一個安全說明書，以防止無意之間發射。
+G28的[快慢機具有保險和發射兩種發射模式](../Page/擊發調變槍械.md "wikilink")。從最前方的保險位置調節到發射位置旋轉約90[°](https://zh.wikipedia.org/wiki/度_\(角\) "wikilink")。快慢機位於兩側上方，可以由[拇指調整操作](https://zh.wikipedia.org/wiki/拇指 "wikilink")，方便左右兩手使用。每個發射模式選擇的位置上都採用了黑克勒-科赫獨特的[子彈形表示標誌作為標記](https://zh.wikipedia.org/wiki/黑克勒-科赫武器列表#其他相關 "wikilink")，它也可以充當為一個安全說明書，以防止無意之間發射。
 
 ### 手槍握把
 

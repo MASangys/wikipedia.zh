@@ -34,6 +34,7 @@ PB手槍的擊發機構與馬卡洛夫手槍相同，另外由於槍管前部安
   - [槍炮世界—马卡洛夫PB微声手枪](http://firearmsworld.net/russain/hg/makarov/makarov_pb.htm)
 
 [Category:半自動手槍](https://zh.wikipedia.org/wiki/Category:半自動手槍 "wikilink")
+[Category:消聲槍械](https://zh.wikipedia.org/wiki/Category:消聲槍械 "wikilink")
 [Category:俄羅斯槍械](https://zh.wikipedia.org/wiki/Category:俄羅斯槍械 "wikilink")
 [Category:蘇聯槍械](https://zh.wikipedia.org/wiki/Category:蘇聯槍械 "wikilink")
 [Category:9×18毫米馬卡羅夫槍械](https://zh.wikipedia.org/wiki/Category:9×18毫米馬卡羅夫槍械 "wikilink")

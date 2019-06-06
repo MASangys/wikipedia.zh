@@ -18,7 +18,7 @@
 
 ## 參見
 
-  - [直同志](https://zh.wikipedia.org/wiki/直同志 "wikilink")
+  - [直同志](../Page/直同志.md "wikilink")
 
 ## 參考資料
 

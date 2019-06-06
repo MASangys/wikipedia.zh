@@ -74,7 +74,7 @@ GO ROUND](http://www.nicovideo.jp/watch/sm16202181/)正式出道。
 
   - **ROOT FIVE**的[饒舌擔當](../Page/饒舌.md "wikilink")。
   - 2008年開始於影音分享網站「[NICONICO動畫](https://zh.wikipedia.org/wiki/NICONICO動畫 "wikilink")」投稿作品。
-  - 參與日劇「[花樣少男少女](https://zh.wikipedia.org/wiki/花樣少男少女 "wikilink")」演出等也以[演員身分展開活動](https://zh.wikipedia.org/wiki/演員 "wikilink")。
+  - 參與日劇「[花樣少男少女](https://zh.wikipedia.org/wiki/花樣少男少女 "wikilink")」演出等也以[演員身分展開活動](../Page/演員.md "wikilink")。
   - 同時是[TOTAL
     OBJECTION的成員](https://zh.wikipedia.org/wiki/TOTAL_OBJECTION "wikilink")。
 

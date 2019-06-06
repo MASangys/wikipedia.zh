@@ -274,8 +274,6 @@
   - [RIAA网址](http://www.RIAA.com)
   - [RIAA金唱片和白金唱片数据库的搜索](https://web.archive.org/web/20070626050454/http://www.riaa.com/goldandplatinumdata.php?table=SEARCH)
 
-[pt:RIAA](https://zh.wikipedia.org/wiki/pt:RIAA "wikilink")
-
 [Category:美國音樂](https://zh.wikipedia.org/wiki/Category:美國音樂 "wikilink")
 [Category:最高程度](https://zh.wikipedia.org/wiki/Category:最高程度 "wikilink")
 [Category:歌手列表](https://zh.wikipedia.org/wiki/Category:歌手列表 "wikilink")

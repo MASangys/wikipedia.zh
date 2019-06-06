@@ -1338,7 +1338,7 @@
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/安東尼·戴維斯_(籃球運動員)" title="wikilink">安东尼·戴维斯</a>^ (3)</p></td>
 <td><p><a href="../Page/新奥尔良鹈鹕.md" title="wikilink">新奥尔良鹈鹕</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/德雷蒙德·格林" title="wikilink">卓雷蒙·格林</a>^ (3)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德雷蒙德·格林" title="wikilink">卓雷蒙·格林</a>^ (4)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/维克多·歐拉迪波" title="wikilink">维克多·歐拉迪波</a>^</p></td>
@@ -1354,6 +1354,41 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/羅伯特·科溫頓" title="wikilink">羅伯特·柯文頓</a>^</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/費城76人" title="wikilink">費城76人</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/吉米·巴特勒" title="wikilink">吉米·巴特勒</a>^</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="../Page/鲁迪·戈贝尔.md" title="wikilink">鲁迪·戈贝尔</a>^(3)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/犹他爵士" title="wikilink">犹他爵士</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/保罗·乔治.md" title="wikilink">保罗·乔治</a>^ (4)</p></td>
+<td><p><a href="../Page/俄克拉何马城雷霆.md" title="wikilink">俄克拉何马城雷霆</a></p></td>
+<td><p><a href="../Page/克雷·湯普森.md" title="wikilink">克雷·湯普森</a>^</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/揚尼斯·安戴托昆波" title="wikilink">揚尼斯·安戴托昆波</a>^(2)</p></td>
+<td><p><a href="../Page/密尔沃基雄鹿.md" title="wikilink">密尔沃基雄鹿</a></p></td>
+<td><p><a href="../Page/乔尔·恩比德.md" title="wikilink">乔尔·恩比德</a>^(2)</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/馬庫斯·史馬特.md" title="wikilink">馬庫斯·史馬特</a>^</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/波士頓凱爾特人" title="wikilink">波士頓凱爾特人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/德雷蒙德·格林" title="wikilink">卓雷蒙·格林</a>^ (5)</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/艾瑞克·布萊德索.md" title="wikilink">艾瑞克·布萊德索</a>^</p></td>
+<td><p><a href="../Page/密尔沃基雄鹿.md" title="wikilink">密尔沃基雄鹿</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/科怀·伦纳德" title="wikilink">科怀·伦纳德</a>^ (5)</p></td>
 </tr>
 </tbody>
 </table>

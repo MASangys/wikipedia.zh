@@ -1,4 +1,4 @@
-**The
+**The Austin** / **Grand
 Austin**，位於[香港](../Page/香港.md "wikilink")[九龍](../Page/九龍.md "wikilink")[渡船角](../Page/渡船角.md "wikilink")[匯翔道](../Page/匯翔道.md "wikilink")8號及[柯士甸道西](https://zh.wikipedia.org/wiki/柯士甸道西 "wikilink")9號，為[會德豐](../Page/會德豐.md "wikilink")、[新世界發展及](../Page/新世界發展.md "wikilink")[香港鐵路有限公司合作發展的](https://zh.wikipedia.org/wiki/香港鐵路有限公司 "wikilink")[高尚住宅項目](https://zh.wikipedia.org/wiki/高尚住宅 "wikilink")。項目為港鐵[柯士甸站C及D地盤](../Page/柯士甸站.md "wikilink")，於2009年底推出招標，2010年3月由會德豐及新世界發展聯手投得，合共補地價約117.07億元。項目於2012年8月份獲批動工，分兩期發展。由[王歐陽（香港）有限公司設計](https://zh.wikipedia.org/wiki/王歐陽 "wikilink")，[協興建築承建](../Page/協興建築.md "wikilink")。第1期由4幢23至27層高（在兩層地庫及三層基座上）建築組成，涉及約54.4萬方呎，共提供575個住宅單位，於2015年4月入伙\[1\]，第2期已定名為**Grand
 Austin**，於2015年10月落成。
 

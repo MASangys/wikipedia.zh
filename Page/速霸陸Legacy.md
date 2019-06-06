@@ -151,7 +151,7 @@ E-5AT五速手自排變速系統；10月22日自Legacy衍生的第三代Outback�
 B」車型，原本僅有六速手排，現增加五速自排變速箱。此外3.0L級距尚有倍適登（Bilstein）避震器、專屬水箱罩和尾翼、18吋輪圈等配備。
 
 2005年 -
-9月30日「3.0R」、「2.0GT」、「2.0R」等車型推出「MAGNIFICA」特仕車，含有特製皮革前座座椅、[瑞士SPORTEC製鋁合金輪框](https://zh.wikipedia.org/wiki/瑞士 "wikilink")、McIntosh音響系統等配備。此外，為了慶祝Legacy在全球銷售累計超過300萬輛，原廠特地邀請美國知名[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")[布魯斯·威利斯擔任產品代言人](https://zh.wikipedia.org/wiki/布魯斯·威利斯 "wikilink")。
+9月30日「3.0R」、「2.0GT」、「2.0R」等車型推出「MAGNIFICA」特仕車，含有特製皮革前座座椅、[瑞士SPORTEC製鋁合金輪框](https://zh.wikipedia.org/wiki/瑞士 "wikilink")、McIntosh音響系統等配備。此外，為了慶祝Legacy在全球銷售累計超過300萬輛，原廠特地邀請美國知名[演員](../Page/演員.md "wikilink")[布魯斯·威利斯擔任產品代言人](https://zh.wikipedia.org/wiki/布魯斯·威利斯 "wikilink")。
 
 2006年 -
 5月24日實施小改款，頭燈及尾燈皆重新設計。由於引擎[汽缸改用最新開發的電解式線上削銳研磨](https://zh.wikipedia.org/wiki/汽缸 "wikilink")（Electrolytic
@@ -199,7 +199,7 @@ Image:Legacy-Blitzen.jpg|Blitzen特仕車
 ### 第五代BM/BR系（2009年-2014年）
 
 2009年 -
-5月20日四門轎車型B4、五門旅行車型及衍生車款Outback在日本同步發表，原廠找來美國著名[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")[勞勃·狄尼洛當產品代言人](../Page/罗伯特·德尼罗.md "wikilink")；短短3個星期訂單就超過4千張，比原廠預估目標多出兩倍\[11\]。第五代Legacy的車身尺碼為前四代之最，所以後座乘坐空間和行李廂容量大幅提昇。動力心臟則有2.5L水平對臥四缸SOHC
+5月20日四門轎車型B4、五門旅行車型及衍生車款Outback在日本同步發表，原廠找來美國著名[演員](../Page/演員.md "wikilink")[勞勃·狄尼洛當產品代言人](../Page/罗伯特·德尼罗.md "wikilink")；短短3個星期訂單就超過4千張，比原廠預估目標多出兩倍\[11\]。第五代Legacy的車身尺碼為前四代之最，所以後座乘坐空間和行李廂容量大幅提昇。動力心臟則有2.5L水平對臥四缸SOHC
 [EJ253型和](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ253型 "wikilink")2.5L水平對臥四缸DOHC
 [EJ255型渦輪增壓兩種設定](https://zh.wikipedia.org/wiki/速霸陸EJ族引擎#EJ255型 "wikilink")，其中前者搭配[Lineartronic
 CVT變速箱](https://zh.wikipedia.org/wiki/無段自動變速器#Lineartronic_CVT "wikilink")，具有六速手自排功能；至於後者則搭配六速手動排檔變速系統。同年10月17日臺灣總代理[台灣意美汽車引進](../Page/台灣意美汽車.md "wikilink")2.0L與2.5L兩種動力、四種車型；10月23日則獲得第30屆[日本年度風雲車的](../Page/日本年度風雲車.md "wikilink")「最佳價值」特別獎\[12\]。

@@ -18,7 +18,7 @@
 <td><p>有些事現在不做 一輩子都不會做了<br />
 （啟航版）</p></td>
 <td><p><a href="../Page/五月天.md" title="wikilink">五月天</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/陳信宏" title="wikilink">阿信</a></p></td>
+<td><p><a href="../Page/陳信宏.md" title="wikilink">阿信</a></p></td>
 <td><p><a href="../Page/溫尚翊.md" title="wikilink">怪獸</a></p></td>
 <td><p>1:58</p></td>
 <td></td>

@@ -22,13 +22,6 @@
 
 ## 参考文献
 
-[de:Oh\!
-(Lied)](https://zh.wikipedia.org/wiki/de:Oh!_\(Lied\) "wikilink")
-[it:Oh\!
-(singolo)](https://zh.wikipedia.org/wiki/it:Oh!_\(singolo\) "wikilink")
-[pt:Oh\!
-(canção)](https://zh.wikipedia.org/wiki/pt:Oh!_\(canção\) "wikilink")
-
 [Category:少女時代歌曲](https://zh.wikipedia.org/wiki/Category:少女時代歌曲 "wikilink")
 [Category:2012年單曲](https://zh.wikipedia.org/wiki/Category:2012年單曲 "wikilink")
 [Category:2012年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:2012年Oricon單曲週榜冠軍作品 "wikilink")

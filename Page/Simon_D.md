@@ -8,232 +8,560 @@ Gray, ELO, Hoody, Ugly Duck, DJ Pumkin,禹元材,Code Kunst,朴載範的 B-Boy �
 等；2018年7月25日，Simon D 在Youtube發佈《Me No Jay
 Park》，宣佈自己已卸下AOMG代表的職位，恢復一般藝人歌手。
 
-## 作品
+## 音樂作品
 
-### 音樂
+### 單曲
 
-  -
-    **個人**
-      - 2007年 11月4日 - 出道單曲 ** (8℃ Boyz Producing)
-      - 2008年 6月4日 - Mixtape **
-      - 2011年 9月5日 - "Hero" (數位單曲)
-      - 2011年 9月21日 - "Stay Cool" (數位單曲)
-      - 2011年 10月7日 - 1輯 ** (正規專輯)
-      - 2015年 8月12日 - "Simon Dominic" (數位單曲)
-      - 2015年 8月21日 - 1輯 *₩ & Only* (迷你專輯)
-      - 2018年 6月15日 - 2輯 '' DARKROOM: roommates only'' (正規專輯)
-      - 2018年 7月25日 - "Me No Jay Park" (數位單曲)
-    **團體**
-      - 2009年 4月21日 - BlueBrand PART 2 〈말 좀 해줘〉
-      - 2009年 7月14日 - EP **
-      - 2010年 3月18日 - 正規1輯 **
-      - 2010年 6月3日 - 正規1輯 Repackage **
-      - 2010年 6月24日 - 2輯 블루브랜드 Trauma Part 2 〈너 때문이야〉
-      - 2010年 9月6日 - 單曲 *왜*
-      - 2010年 10月1日 - EP **
-      - 2010年 10月15日 - 單曲 *신승훈 20th Anniversary With 슈프림팀 Vol. 2*
-      - 2011年 1月4日 - [雅典娜：戰爭女神](../Page/雅典娜：戰爭女神.md "wikilink") OST *Get
-        Ready*
-      - 2011年 4月15日 - 單曲 *Hommage to Quincy Jones*
-      - 2013年 3月19日 - 單曲 **
-    **參與**
-      - \- ** - 〈피똥〉, 〈한국에서〉
+<table>
+<thead>
+<tr class="header">
+<th><p>單曲</p></th>
+<th><p>單曲資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p>首張單曲《<em>' Lonely Night</em>'》</p>
+<ul>
+<li>發行日期：2007年11月4日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-      - 아키버드 - *Lady Jane*
+### 數位單曲
 
-      - \- *Elements Combined* - "A Legend"
+<table>
+<thead>
+<tr class="header">
+<th><p>單曲</p></th>
+<th><p>單曲資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>'''1st '''</p></td>
+<td><p>首張數位單曲《''' Hero '''》</p>
+<ul>
+<li>發行日期：2011年9月5日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>'''2nd '''</p></td>
+<td><p>第二張數位單曲《''' Stay Cool '''》</p>
+<ul>
+<li>發行日期：2011年9月21日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>'''3rd '''</p></td>
+<td><p>第三張數位單曲《''' Simon Dominic '''》</p>
+<ul>
+<li>發行日期：2015年8月12日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>4th</strong></p></td>
+<td><p>第四張數位單曲《<em>' Me No Jay Park</em>'》</p>
+<ul>
+<li>發行日期：2018年7月25日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-      - 마일드 비츠 - *Loaded* - "W.M.W", "Against"
+### 專輯
 
-      - 케슬로 - *Street Level Vol.1* - "Victim of Steam"
+#### 混音專輯
 
-      - \- *More Than Music* - "Hip Hop For Respect"
+<table>
+<thead>
+<tr class="header">
+<th><p>專輯</p></th>
+<th><p>專輯資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p>首張混音專輯《''' I Just Wanna Rhyme '''》</p>
+<ul>
+<li>發行日期：2008年6月4日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-      - DJ Schedule 1 - *Fight 4 Right* - "Rit It Bitch"
+#### 迷你專輯
 
-      - \- *22 Channels* - "The Triumph"
+<table>
+<thead>
+<tr class="header">
+<th><p>專輯</p></th>
+<th><p>專輯資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>'''1st '''</p></td>
+<td><p>首張迷你專輯《<em>' ₩ &amp; Only</em>'》</p>
+<ul>
+<li>發行日期：2015年8月21日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-      - \- *Xclusive* - "Night Riders(밤을 걷는 소리꾼)"
+#### 正規專輯
 
-      - \- *Vismajor* - "Seoul State Of Mind", "Meridian Sun"
+<table>
+<thead>
+<tr class="header">
+<th><p>專輯</p></th>
+<th><p>專輯資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>'''1st '''</p></td>
+<td><p>首張正規專輯《<em>' Simon Dominic Presents 'SNL LEAGUE BEGINS</em>'》</p>
+<ul>
+<li>發行日期：2011年10月7日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>'''2nd '''</p></td>
+<td><p>第二張正規專輯《''' DARKROOM: roommates only '''》</p>
+<ul>
+<li>發行日期：2018年6月15日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-      - JA(aka J.Clacci) - *Beat CD Bootleg, JA01* - "Romantic Sense"
+### Featuring/合唱歌曲
 
-      - [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink") - 〈〉
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>歌曲名</p></th>
+<th><p>演唱者</p></th>
+<th><p>專輯</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2005</p></td>
+<td><p>A Legend</p></td>
+<td><p>Addsp2ch（Feat. Simon D）</p></td>
+<td><p>Elements Combined</p></td>
+</tr>
+<tr class="even">
+<td><p>W.M.W</p></td>
+<td><p>Mild Beats（Feat. Simon D）</p></td>
+<td><p>Loaded</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Against</p></td>
+<td><p>Mild Beats（Feat. Simon Dc）</p></td>
+<td><p>Loaded</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2006</p></td>
+<td><p>Victim of Steam</p></td>
+<td><p>Keslo（Feat. Simon D）</p></td>
+<td><p>Street Level Vol.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>Hip Hop For Respect</p></td>
+<td><p>Infinite Flow (IF)（Feat. Simon D, Verbal Jint, 각나그네, TBNY, Vasco, Garion, DOK2, sean2slow, MC성천）</p></td>
+<td><p>More Than Music</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2007</p></td>
+<td><p>Rit It Bitch</p></td>
+<td><p>DJ Schedule 1（Feat. Simon D, Vasco）</p></td>
+<td><p>Fight 4 Right</p></td>
+</tr>
+<tr class="odd">
+<td><p>The Triumph</p></td>
+<td><p>Loptimist （Feat. Simon D）</p></td>
+<td><p>22 Channels</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Night Riders (밤을 걷는 소리꾼)</p></td>
+<td><p>Jiggy Fellaz（Feat. Simon D）</p></td>
+<td><p>Xclusive</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Seoul State Of Mind</p></td>
+<td><p>Deepflow（Feat. Simon D, Untouchable）</p></td>
+<td><p>Vismajor</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Meridian Sun</p></td>
+<td><p>Deepflow（Feat. Simon D, Loptimist, DJ Wegun）</p></td>
+<td><p>Vismajor</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Romantic Sense</p></td>
+<td><p>JA(aka J.Clacci)（Feat. Simon D）</p></td>
+<td><p>Beat CD Bootleg, JA01</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1枚銅錢 Remix</p></td>
+<td><p><a href="../Page/Dynamic_Duo.md" title="wikilink">Dynamic Duo</a>（Feat. Simon D）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Hyper Soar</p></td>
+<td><p>Outsider（Feat. Simon D）</p></td>
+<td><p>Soliloquist</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>City Soul</p></td>
+<td><p>Primary Score（Feat. Simon D, dok2, Mild Beats）</p></td>
+<td><p>First Step</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Beautiful Struggle</p></td>
+<td><p>Primary Score（Feat. Simon D, E-sens, 김지석）</p></td>
+<td><p>First Step</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>회상(2007 Hiphop Ver.)</p></td>
+<td><p>Turbo &amp; 金鍾國（Feat. Simon D）</p></td>
+<td><p>2007 회상</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Give it to H.E.R.</p></td>
+<td><p><a href="../Page/The_Quiett.md" title="wikilink">The Quiett</a> （Feat. Simon D）</p></td>
+<td><p>The Real Me</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Upgrade 2K7</p></td>
+<td><p>Vasco（Feat. Simon D）</p></td>
+<td><p>덤벼라 세상아</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2008</p></td>
+<td><p>피똥</p></td>
+<td><p>E SENS（Feat. Simon D）</p></td>
+<td><p>New Blood, Rapper Vol.1</p></td>
+</tr>
+<tr class="even">
+<td><p>한국에서</p></td>
+<td><p>E SENS（Feat. Simon D）</p></td>
+<td><p>New Blood, Rapper Vol.1</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lady Jane</p></td>
+<td><p>Aquibird（Feat. Simon D）</p></td>
+<td><p>Whose Dream</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Amnesia</p></td>
+<td><p>Loptimist （Feat. Simon D）</p></td>
+<td><p>Mind-Expander</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Miss Understand</p></td>
+<td><p>Alex（Feat. Simon Do）</p></td>
+<td><p>My Vintage Romance</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>추파춥스</p></td>
+<td><p>Swings （Feat. Simon D）</p></td>
+<td><p>#1 Mixtape</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Ugly Talkin'</p></td>
+<td><p>Minos（Feat. Simon D）</p></td>
+<td><p>Ugly Talkin'</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Bite A Fake</p></td>
+<td><p>Minos（Feat. Simon D）</p></td>
+<td><p>Ugly Talkin'</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Diet /Die-Et/</p></td>
+<td><p>Buga Kingz（Feat. Simon D）</p></td>
+<td><p>The Menu</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2009</p></td>
+<td><p>잔소리</p></td>
+<td><p>Dynamic Duo（Feat. Simon D）</p></td>
+<td><p>Ballad for Fallen Soul Part.1</p></td>
+</tr>
+<tr class="odd">
+<td><p>8 by 8, Part 2</p></td>
+<td><p>Epik High（Feat. Simon D）</p></td>
+<td><p>魂: Map the Soul</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>월광증</p></td>
+<td><p>Dynamic Duo（Feat. Simon D）</p></td>
+<td><p>Band of Dynamic Brothers</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>I Won't Give Up</p></td>
+<td><p>Nuol（Feat. Simon D, jinbo, dok2）</p></td>
+<td><p>The Mission</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>잔치피플</p></td>
+<td><p>Primary Skool（Feat. Simon D）</p></td>
+<td><p>Daily Apartment</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2011</p></td>
+<td><p>Thank U</p></td>
+<td><p><a href="../Page/安胜浩.md" title="wikilink">Tony An</a>（Feat. Simon D）</p></td>
+<td><p>Thank U</p></td>
+</tr>
+<tr class="even">
+<td><p>History Is Made At Night</p></td>
+<td><p>Huckleberry P（Feat. Simon D）</p></td>
+<td><p>Man In Black</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2012</p></td>
+<td><p>What Is Love</p></td>
+<td><p>Piggy Dolls（Feat. Simon D）</p></td>
+<td><p>What Is Love</p></td>
+</tr>
+<tr class="even">
+<td><p>입장정리</p></td>
+<td><p>Primary （Feat. Simon D, ）</p></td>
+<td><p>Primary And The Messengers LP</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>꽃보다 그대가</p></td>
+<td><p>영준 （Feat. Simon D）</p></td>
+<td><p>꽃보다 그대가</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Shut Up</p></td>
+<td><p><a href="../Page/李艺真.md" title="wikilink">Ailee</a>（Feat. Simon D）</p></td>
+<td><p>Invitation</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>오해 (Misunderstood)</p></td>
+<td><p>Dynamic Duo（Feat. Simon D）</p></td>
+<td><p>DIGILOG 2/2</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>혼란속의 형제들</p></td>
+<td><p>JTONG（Feat. Simon D, Beenzino, Zion.T）</p></td>
+<td><p>모히칸과 맨발</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2014</p></td>
+<td><p>Metronome</p></td>
+<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a>（Feat. Simon D, <a href="../Page/Gray_(歌手).md" title="wikilink">Gray</a>）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Give It To Me</p></td>
+<td><p>Crush （Feat. Simon D, 朴載範）</p></td>
+<td><p>Crush On You</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>瘋狂的傢伙 (SUCCESS CRAZED)</p></td>
+<td><p>朴載範（Feat. Simon D）</p></td>
+<td><p>EVOLUTION</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>DAY N NIGHT</p></td>
+<td><p>許閣（Feat. Simon D）</p></td>
+<td><p>DAY N NIGHT</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016</p></td>
+<td><p>你,无论何时（넌 언제나）</p></td>
+<td><p>Simon D（Feat. , Gray）</p></td>
+<td><p><a href="../Page/Two_Yoo_Project_-_Sugar_Man.md" title="wikilink">双刘计划 - Sugar Man Part.23</a>（투유 프로젝트 - 슈가맨 Part.23）</p></td>
+</tr>
+<tr class="even">
+<td><p>Always On My Grind</p></td>
+<td></td>
+<td><p>Follow The Movement Tour</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>不是你所知道的我（니가 알던 내가 아냐）</p></td>
+<td><p><a href="../Page/BewhY.md" title="wikilink">BewhY</a>、<a href="https://zh.wikipedia.org/wiki/G2_(歌手)" title="wikilink">G2</a>、<a href="https://zh.wikipedia.org/wiki/鄭帝元" title="wikilink">One</a>（Feat. Simon D）</p></td>
+<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5 Episode 1</a>（쇼미더머니 5 Episode 1）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>安心（맘 편히）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭帝元" title="wikilink">One</a>、Gray、Simon D</p></td>
+<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5 Episode 2</a>（쇼미더머니 5 Episode 2）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>XamBaqJa</p></td>
+<td><p>BewhY（Feat. Simon D）</p></td>
+<td><p><a href="../Page/Show_Me_The_Money_5.md" title="wikilink">Show Me The Money 5 Episode 9</a>（쇼미더머니 5 Episode 9）</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Heartbreak Hotel</p></td>
+<td><p><a href="../Page/Tiffany_(少女時代).md" title="wikilink">Tiffany</a>（Feat. Simon D）</p></td>
+<td><p>Heartbreak Hotel</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Angel</p></td>
+<td><p>（Feat. Simon D）</p></td>
+<td><p>8 Femmes</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>不是你所知道的我 (Remix)（니가 알던 내가 아냐 (Remix)）</p></td>
+<td><p><a href="../Page/朴載範.md" title="wikilink">朴載範</a> &amp; <a href="https://zh.wikipedia.org/wiki/Ugly_Duck" title="wikilink">Ugly Duck</a>（Feat. <a href="../Page/Loco.md" title="wikilink">Loco</a>, <a href="https://zh.wikipedia.org/wiki/DayDay" title="wikilink">DayDay</a>, Simon D）</p></td>
+<td><p>Scene Stealers</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017</p></td>
+<td><p>No, Thank you</p></td>
+<td><p>Epik High（Feat. Simon D, <a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink">宋旻浩</a>, The Quiett）</p></td>
+<td><p>We've Done Something Wonderful</p></td>
+</tr>
+<tr class="even">
+<td><p>2018</p></td>
+<td><p>翻過來 (뒤집어버려)</p></td>
+<td><p>朴載範 、<a href="../Page/Loco.md" title="wikilink">Loco</a>、Simon D、Gray</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-      - [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink") - ** - "Beyond
-        the Wall", 〈잔소리〉
-
-      - \- ** - "Hyper Soar"
-
-      - 프라이머리 스코어 - *First Step* - "City Soul", "Beautiful Struggle"
-
-      - [Turbo](../Page/Turbo_\(韓國男子團體\).md "wikilink") &
-        [金鍾國](https://zh.wikipedia.org/wiki/金鍾國 "wikilink") -
-        《2007 회상》
-
-      - [The Quiett](../Page/The_Quiett.md "wikilink") - *The Real Me* -
-        "Give it to H.E.R."
-
-      - [Epik High](../Page/Epik_High.md "wikilink") - ** - "8 by 8,
-        Part 2"
-
-      - [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink") - ** - "월광증"
-
-      - \- ** - "Amnesia"
-
-      - [Alex](../Page/秋憲坤.md "wikilink") - *Miss. Understand*
-
-      - \- *The Mission* - "I Won't Give Up"
-
-      - 프라이머리 스쿨 - *Daily Apartment* - "잔치피플"
-
-      - \- *\#1* - "추파춥스"
-
-      - \- *Ugly Talkin*' - "Ugly Talkin'", "Bite A Fake"
-
-      - \- 《덤벼라 세상아》 - "Upgrade 2K7"
-
-      - \- *The Menu* - "Diet /Die-Et/'
-
-      - 피기돌스 - *사랑이 뭐길래* - "사랑이 뭐길래"
-
-      - [朴載範](../Page/朴載範.md "wikilink") - *메트로놈(Metronome)* -
-        "메트로놈(Metronome)"
-
-      - [Crush](../Page/Crush_\(歌手\).md "wikilink") - *Crush On You* -
-        "Give It To Me"
-
-      - \- ** - "입장정리"
-
-      - 브라운 아이드 소울 영준 - *꽃보다 그대가* - "꽃보다 그대가"
-
-      - [Ailee](../Page/李艺真.md "wikilink") - ** - "Shut Up"
-
-      - [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink") - ** - "오해
-        (Misunderstood)"
-
-      - [Tony An](../Page/安胜浩.md "wikilink") - *Thank U* - "Thank U"
-
-      - ICON - *Icontact* - "Luv Hiphop"
-
-      - [朴宰範](../Page/朴載範.md "wikilink") - *EVOLUTION* - "미친놈 (SUCCESS
-        CRAZED)"
-
-      - \- *Man In Black* - "History Is Made At Night"
-
-      - \- *모히칸과 맨발* - "혼란속의 형제들"
-
-      - [許閣](../Page/許閣.md "wikilink") - *DAY N NIGHT* - "DAY N NIGHT"
-
-      - [Two Yoo Project - Sugar
-        Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink") Part 23
-        - "넌 언제나"
-
-      - [Tiffany](../Page/Tiffany_\(少女時代\).md "wikilink") - *Heartbreak
-        Hotel* - "Heartbreak Hotel"
-
-      - \- *8 Femmes* - "Angel"
-
-      - [Epik High](../Page/Epik_High.md "wikilink") - *We've Done
-        Something Wonderful* -*No, Thank
-        you(노땡큐)*([宋旻浩](https://zh.wikipedia.org/wiki/宋旻浩 "wikilink")、[The
-        Quiett](../Page/The_Quiett.md "wikilink"))
-
-      - [朴載範](../Page/朴載範.md "wikilink")、[Loco](../Page/Loco.md "wikilink")、
-        [Gray](../Page/Gray_\(歌手\).md "wikilink") - "翻過來 (뒤집어버려)"
+## 影視作品
 
 ### 綜藝節目
 
-  - 2010年 3月28 \~ 2011年
-    2月20日：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Hot
-    Brothers](https://zh.wikipedia.org/wiki/Hot_Brothers "wikilink")》
-  - 2010年
-    7月6日：[SBS](../Page/SBS_\(韓國\).md "wikilink")《[強心臟](https://zh.wikipedia.org/wiki/強心臟 "wikilink")》
-  - 2010年
-    7月22日：[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Happy
-    Together](../Page/歡樂在一起.md "wikilink")》
-  - 2010年
-    9月19日：[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[夜行星](https://zh.wikipedia.org/wiki/夜行星 "wikilink")》
-  - 2010年
-    10月4日：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[來玩吧](https://zh.wikipedia.org/wiki/來玩吧 "wikilink")》
-  - 2010年 11月27日 \~ 2011年
-    5月28日：[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[百分滿分](../Page/百分滿分.md "wikilink")》
-  - 2011年
-    4月21日：[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Happy
-    Together](../Page/歡樂在一起.md "wikilink")》
-  - 2011年
-    8月1日：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[來玩吧](https://zh.wikipedia.org/wiki/來玩吧 "wikilink")》
-  - 2011年
-    06月11日：[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[自由宣言星期六secret](https://zh.wikipedia.org/wiki/自由宣言星期六secret "wikilink")》
-  - 2011年
-    06月18日：[KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")《[自由宣言星期六secret](https://zh.wikipedia.org/wiki/自由宣言星期六secret "wikilink")》
-  - 2011年 9月4日：[SBS](../Page/SBS_\(韓國\).md "wikilink")《[Running
-    Man](../Page/Running_Man.md "wikilink")》
-  - 2012年 9月8日:
-    [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》
-  - 2012年 12月29日:
-    [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》
-  - 2013年 1月6日：[SBS](../Page/SBS_\(韓國\).md "wikilink")《[Running
-    Man](../Page/Running_Man.md "wikilink")》
-  - 2013年 4月9日:
-    [SBS](../Page/SBS_\(韓國\).md "wikilink")《[話神-支配心靈者》](../Page/話神-支配心靈者.md "wikilink")
-  - 2013年 4月29日: [MBC
-    Music](https://zh.wikipedia.org/wiki/MBC_Music "wikilink")《[Haha的19tv以下犯上](https://zh.wikipedia.org/wiki/Haha的19tv以下犯上 "wikilink")》
-  - 2014年 3月19日:
-    [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[黃金漁場](https://zh.wikipedia.org/wiki/黃金漁場 "wikilink")》
-  - 2014年 4月29日:
-    [Mnet](../Page/Mnet媒體.md "wikilink")《[4種秀](https://zh.wikipedia.org/wiki/4種秀 "wikilink")》
-  - 2014年 5月6日:
-    [Mnet](../Page/Mnet媒體.md "wikilink")《[4種秀](https://zh.wikipedia.org/wiki/4種秀 "wikilink")》
-  - 2014年 6月7日:
-    [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[柳熙烈的写生簿](https://zh.wikipedia.org/wiki/柳熙烈的写生簿 "wikilink")》
-  - 2014年 10月7日: [Mnet](../Page/Mnet媒體.md "wikilink")《[MIX &
-    MATCH](../Page/MIX_&_MATCH.md "wikilink")》
-  - 2014年 10月16日: [Mnet](../Page/Mnet媒體.md "wikilink")《[MIX &
-    MATCH](../Page/MIX_&_MATCH.md "wikilink")》
-  - 2015年 6月28日 \~ 8月2日:
-    [O'live](https://zh.wikipedia.org/wiki/O'live "wikilink")《[Maps](https://zh.wikipedia.org/wiki/Maps "wikilink")》
-  - 2015年 8月3日:
-    [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》
-  - 2015年 8月28日:
-    [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")《[柳熙烈的写生簿](https://zh.wikipedia.org/wiki/柳熙烈的写生簿 "wikilink")》
-  - 2015年 9月4日:
-    [JTBC](../Page/JTBC.md "wikilink")《[魔女狩獵](../Page/魔女狩獵.md "wikilink")》
-  - 2015年 9月20日:
-    [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[蒙面歌王](https://zh.wikipedia.org/wiki/蒙面歌王_\(韓國\) "wikilink")》
-  - 2015年 9月30日:
-    [TVN](../Page/TVN.md "wikilink")《[周三美食匯](https://zh.wikipedia.org/wiki/周三美食匯 "wikilink")》
-  - 2016年 2月1日: [JTBC](../Page/JTBC.md "wikilink")
-    《[拜托了冰箱](../Page/拜托了冰箱.md "wikilink")》
-  - 2016年 2月8日: [JTBC](../Page/JTBC.md "wikilink")
-    《[拜托了冰箱](../Page/拜托了冰箱.md "wikilink")》
-  - 2016年 3月22日: [JTBC](../Page/JTBC.md "wikilink")《[Two Yoo Project -
-    Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》
-  - 2016年 5月6日 \~ 7月15日: [Mnet](../Page/Mnet媒體.md "wikilink")《[Show Me
-    The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》
-  - 2016年 6月11日: [TVN](../Page/TVN.md "wikilink") 《[SNL
-    Korea](../Page/SNL_Korea.md "wikilink")》
-  - 2016年 8月31日:
-    [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[黃金漁場](https://zh.wikipedia.org/wiki/黃金漁場 "wikilink")》
-  - 2018年 6月22日 \~ 8月31日 :
-    [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[我獨自生活](../Page/我獨自生活.md "wikilink")》
-  - 2018年10月3日:
-    [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[黃金漁場](https://zh.wikipedia.org/wiki/黃金漁場 "wikilink")》
-  - 2019年2月1日:
-    [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》
+| 年份                | 播放日期                                                                               | 節目名稱                                                        | 電視台                                                                                    | 備註                                                                                                          |
+| ----------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------- | -------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| 2010              | 3月28日-2011年2月20日                                                                   | 《Hot Brothers》                                              | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")                            |                                                                                                             |
+| 7月6日              | 《[強心臟](https://zh.wikipedia.org/wiki/強心臟 "wikilink")》                              | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")     |                                                                                        |                                                                                                             |
+| 7月22日             | 《[Happy Together](../Page/歡樂在一起.md "wikilink")》                                    | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")         |                                                                                        |                                                                                                             |
+| 9月19日             | 《夜行星》                                                                              | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")         |                                                                                        |                                                                                                             |
+| 8月1日              | 《來玩吧》                                                                              | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") |                                                                                        |                                                                                                             |
+| 11月27日-2011年5月28日 | 《[百分滿分](../Page/百分滿分.md "wikilink")》                                               | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")         |                                                                                        |                                                                                                             |
+| 2011              | 4月21日                                                                              | 《[Happy Together](../Page/歡樂在一起.md "wikilink")》             | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")                                    |                                                                                                             |
+| 8月1日              | 《來玩吧》                                                                              | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") |                                                                                        |                                                                                                             |
+| 6月11日             | 《自由宣言星期六secret》                                                                    | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")         |                                                                                        |                                                                                                             |
+| 6月18日             | 《自由宣言星期六secret》                                                                    | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink")         |                                                                                        |                                                                                                             |
+| 9月4日              | 《[Running Man](../Page/Running_Man.md "wikilink")》                                 | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")     |                                                                                        |                                                                                                             |
+| 2012              | 9月8日                                                                               | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》          | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")                                  |                                                                                                             |
+| 12月29日            | 《[不朽的名曲：傳說在歌唱](../Page/不朽的名曲：傳說在歌唱.md "wikilink")》                                 | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")       |                                                                                        |                                                                                                             |
+| 2013              | 1月6日                                                                               | 《[Running Man](../Page/Running_Man.md "wikilink")》          | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")                                |                                                                                                             |
+| 4月9日              | 《[話神-支配心靈者](../Page/話神-支配心靈者.md "wikilink") 》                                      | [SBS](https://zh.wikipedia.org/wiki/SBS株式會社 "wikilink")     |                                                                                        |                                                                                                             |
+| 4月29日             | 《Haha的19tv以下犯上》                                                                    | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") |                                                                                        |                                                                                                             |
+| 2014              | 3月19日                                                                              | 《[黃金漁場](https://zh.wikipedia.org/wiki/黃金漁場 "wikilink")》     | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")                            |                                                                                                             |
+| 4月15日             | 《[4種秀](https://zh.wikipedia.org/wiki/4種秀 "wikilink")》                              | [Mnet](../Page/Mnet媒體.md "wikilink")                        | 主角，第1集                                                                                 |                                                                                                             |
+| 5月6日              | 《[4種秀](https://zh.wikipedia.org/wiki/4種秀 "wikilink")》                              | [Mnet](../Page/Mnet媒體.md "wikilink")                        | 主角，第2集                                                                                 |                                                                                                             |
+| 6月7日              | 《[柳熙烈的写生簿](https://zh.wikipedia.org/wiki/柳熙烈的写生簿 "wikilink")》                      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")       |                                                                                        |                                                                                                             |
+| 10月9日             | 《[MIX & MATCH](../Page/MIX_&_MATCH.md "wikilink")》                                 | [Mnet](../Page/Mnet媒體.md "wikilink")                        | 評委嘉賓，第5集                                                                               |                                                                                                             |
+| 10月16日            | 《[MIX & MATCH](../Page/MIX_&_MATCH.md "wikilink")》                                 | [Mnet](../Page/Mnet媒體.md "wikilink")                        | 評委嘉賓，第6集                                                                               |                                                                                                             |
+| 2015              | 6月28日-8月2日                                                                         | 《Maps》                                                      | [O'live](https://zh.wikipedia.org/wiki/O'live "wikilink")                              |                                                                                                             |
+| 8月3日              | 《[大國民脫口秀-你好](../Page/大國民脫口秀-你好.md "wikilink")》                                     | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")       |                                                                                        |                                                                                                             |
+| 8月28日             | 《[柳熙烈的写生簿](https://zh.wikipedia.org/wiki/柳熙烈的写生簿 "wikilink")》                      | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink")       |                                                                                        |                                                                                                             |
+| 9月4日              | 《[魔女狩獵](../Page/魔女狩獵.md "wikilink")》                                               | [JTBC](../Page/JTBC.md "wikilink")                          |                                                                                        |                                                                                                             |
+| 9月20日             | 《[蒙面歌王](https://zh.wikipedia.org/wiki/蒙面歌王_\(韓國\) "wikilink")》                     | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") |                                                                                        |                                                                                                             |
+| 9月30日             | 《[周三美食匯](https://zh.wikipedia.org/wiki/周三美食匯 "wikilink")》                          | [TVN](../Page/TVN.md "wikilink")                            |                                                                                        |                                                                                                             |
+| 2016              | 2月1日                                                                               | 《[拜托了冰箱](../Page/拜托了冰箱.md "wikilink")》                      | [JTBC](../Page/JTBC.md "wikilink")                                                     |                                                                                                             |
+| 2月8日              | 《[拜托了冰箱](../Page/拜托了冰箱.md "wikilink")》                                             | [JTBC](../Page/JTBC.md "wikilink")                          |                                                                                        |                                                                                                             |
+| 3月22日             | 《[Two Yoo Project - Sugar Man](../Page/Two_Yoo_Project_-_Sugar_Man.md "wikilink")》 | [JTBC](../Page/JTBC.md "wikilink")                          | 嘉賓，第23集                                                                                |                                                                                                             |
+| 5月6日-7月15日        | 《[Show Me The Money 5](../Page/Show_Me_The_Money_5.md "wikilink")》                 | [Mnet](../Page/Mnet媒體.md "wikilink")                        | 製作人，與[Gray一同出演](https://zh.wikipedia.org/wiki/Gray "wikilink")                         |                                                                                                             |
+| 6月11日             | 《[SNL Korea](../Page/SNL_Korea.md "wikilink")》                                     | [TVN](../Page/TVN.md "wikilink")                            | 主角，第154集                                                                               |                                                                                                             |
+| 8月31日             | 《[黃金漁場](https://zh.wikipedia.org/wiki/黃金漁場 "wikilink")》                            | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 嘉賓，第491集，與[Gray](https://zh.wikipedia.org/wiki/Gray "wikilink")、Zico (Block B)、李善彬一同出演 |                                                                                                             |
+| 2018              | 6月22日-8月31日                                                                        | 《[我獨自生活](../Page/我獨自生活.md "wikilink")》                      | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")                            |                                                                                                             |
+| 10月3日             | 《[黃金漁場](https://zh.wikipedia.org/wiki/黃金漁場 "wikilink")》                            | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") |                                                                                        |                                                                                                             |
+| 2019              | 2月1日                                                                               | 《[看見你的聲音](https://zh.wikipedia.org/wiki/看見你的聲音 "wikilink")》 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")                                  | 嘉賓，與[Gray](https://zh.wikipedia.org/wiki/Gray "wikilink")、[Loco](../Page/Loco.md "wikilink")、Code Kunst一同出演 |
+|                   |                                                                                    |                                                             |                                                                                        |                                                                                                             |
 
 ### MV
 
-  - 2009年：[M\&D](https://zh.wikipedia.org/wiki/M&D "wikilink")〈Close ur
-    Mouth〉
+|       |                  |                                                      |                                                               |
+| ----- | ---------------- | ---------------------------------------------------- | ------------------------------------------------------------- |
+| 年份    | MV               | 歌手                                                   | 官方影片                                                          |
+| 2009年 | 《Close ur Mouth》 | [M\&D](https://zh.wikipedia.org/wiki/M&D "wikilink") | [Close ur Mouth](https://www.youtube.com/watch?v=c4dfLAGJhao) |
+|       |                  |                                                      |                                                               |
 
 ### 電視劇
 
-  - 2012年：[MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")《[Stand
-    By](../Page/Stand_By.md "wikilink")》飾演 Sam D
-  - 2016年：[tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")《[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")》飾演
-    Sam D
+| 年份    | 電視台                                                         | 劇目                                                       | 角色    |
+| ----- | ----------------------------------------------------------- | -------------------------------------------------------- | ----- |
+| 2012年 | [MBC](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink") | 《[Stand By](../Page/Stand_By.md "wikilink")》             | Sam D |
+| 2016年 | [tvN](https://zh.wikipedia.org/wiki/tvN "wikilink")         | 《[Entourage](../Page/Entourage_\(韓國電視劇\).md "wikilink")》 | Sam D |
+|       |                                                             |                                                          |       |
 
 ## 參考資料
 

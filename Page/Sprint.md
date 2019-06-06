@@ -28,7 +28,7 @@ Nextel更名回Sprint。於2013年8月，SoftBank增購新Sprint公司股份，�
 <references/>
 
 [Category:美国通信公司](https://zh.wikipedia.org/wiki/Category:美国通信公司 "wikilink")
-[Category:SoftBank](https://zh.wikipedia.org/wiki/Category:SoftBank "wikilink")
+[Category:软银集团](https://zh.wikipedia.org/wiki/Category:软银集团 "wikilink")
 [Category:1899年成立的公司](https://zh.wikipedia.org/wiki/Category:1899年成立的公司 "wikilink")
 [Category:堪萨斯州公司](https://zh.wikipedia.org/wiki/Category:堪萨斯州公司 "wikilink")
 

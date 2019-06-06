@@ -134,7 +134,7 @@ Team**，並由周杰倫擔任董事长。
 
 #### 選手
 
-一隊:J Team(JT)
+  - J Team
 
 <table>
 <thead>
@@ -215,7 +215,7 @@ Team**，並由周杰倫擔任董事长。
 </tbody>
 </table>
 
-二隊:J Team2(JT2)
+  - J Team 2
 
 <table>
 <thead>
@@ -228,8 +228,8 @@ Team**，並由周杰倫擔任董事长。
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>Zion</p></td>
-<td><p>張祖嘉</p></td>
+<td><p>Driver</p></td>
+<td><p>沈宗樺</p></td>
 <td><p>Top</p></td>
 <td></td>
 </tr>
@@ -240,14 +240,14 @@ Team**，並由周杰倫擔任董事长。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Sheep</p></td>
-<td><p>顏劭榮</p></td>
+<td><p>Rendi</p></td>
+<td><p>呂致遠</p></td>
 <td><p>Mid</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Bao</p></td>
-<td><p>林弘裕</p></td>
+<td><p>NekoL</p></td>
+<td><p>楊子立</p></td>
 <td><p>AD</p></td>
 <td></td>
 </tr>
@@ -258,15 +258,9 @@ Team**，並由周杰倫擔任董事长。
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Woody</p></td>
-<td><p>林弘裕</p></td>
-<td><p>Support</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>Etrenal</p></td>
-<td><p>林子恩</p></td>
-<td><p>Top</p></td>
+<td><p>Draw</p></td>
+<td><p>廖佳興</p></td>
+<td><p>Substitute</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -318,6 +312,8 @@ Team**，並由周杰倫擔任董事长。
 </table>
 
 #### 過往成員
+
+  - J Team
 
 <table>
 <thead>

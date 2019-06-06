@@ -52,7 +52,7 @@ OS使用。\[14\]後來Google把Google Now從桌面平台Chrome中移除\[15\]�
 ## 功能
 
 Google
-Now為[Google搜尋應用程式的一部分](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")。它可以識別使用者在設備上重複的動作（常見的位置、重複的日曆活動、搜尋歷史……等），並以「卡片」（Cards）的方式向使用者提供相關資訊。此系统使用了[Google知識圖譜計畫](https://zh.wikipedia.org/wiki/Google知識圖譜 "wikilink")，透過整合詳細的搜尋結果分析並分析結果的意義和關聯。\[18\]\[19\]
+Now為[Google搜尋應用程式的一部分](https://zh.wikipedia.org/wiki/Google搜尋 "wikilink")。它可以識別使用者在設備上重複的動作（常見的位置、重複的日曆活動、搜尋歷史……等），並以「卡片」（Cards）的方式向使用者提供相關資訊。此系统使用了[Google知識圖譜計畫](https://zh.wikipedia.org/wiki/Google知識圖譜 "wikilink")，透過整合詳細的搜尋結果分析並分析結果的意義和關聯。電子商務網站多利用此功能於物流狀況通知。\[18\]\[19\]
 
 Google Now可能無法在使用者的所在地區提供所有卡片。\[20\]
 
@@ -181,19 +181,17 @@ Google”即可开始语音搜索。
 
 ## 参见
 
-  - [xndme](http://xndme.com)— 一个开放的个人助手平台
+  - [Siri](../Page/Siri.md "wikilink")，蘋果公司[iPhone搭载](https://zh.wikipedia.org/wiki/iPhone "wikilink")
 
-  -
+  - [Cortana](../Page/Cortana.md "wikilink")，[微軟公司出品](https://zh.wikipedia.org/wiki/微軟公司 "wikilink")
+
   - [hidi](https://zh.wikipedia.org/wiki/hidi "wikilink")，僅支援中國版的[宏達電](https://zh.wikipedia.org/wiki/宏達電 "wikilink")[HTC
     One](https://zh.wikipedia.org/wiki/HTC_One "wikilink")
 
   - [S Voice](../Page/S_Voice.md "wikilink")，三星[Samsung
     Galaxy](https://zh.wikipedia.org/wiki/Samsung_Galaxy "wikilink")
 
-  - [Siri](../Page/Siri.md "wikilink")，蘋果[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink")
-
-  - [Cortana](../Page/Cortana.md "wikilink")，[微軟](https://zh.wikipedia.org/wiki/微軟 "wikilink")
-
+  -
 ## 参考资料
 
 ## 外部链接

@@ -1,4 +1,4 @@
-**Namori**（），\[1\]\[2\]）是日本漫畫家，性別為[女性](../Page/女性.md "wikilink")\[3\]，血型為[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")\[4\]。她出生於[富山縣](../Page/富山縣.md "wikilink")，居於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")\[5\]。大學時住在名古屋\[6\]。
+**Namori**（），\[1\]\[2\]）是日本[女性](../Page/女性.md "wikilink")\[3\]漫畫家，血型為[B型](https://zh.wikipedia.org/wiki/B型 "wikilink")\[4\]。她出生於[富山縣](../Page/富山縣.md "wikilink")，居於[京都府](https://zh.wikipedia.org/wiki/京都府 "wikilink")\[5\]。大學時住在名古屋\[6\]。
 
 據其所言，她從小學時代就想當漫畫家了\[7\]。
 
@@ -8,7 +8,8 @@
 
 ### 漫畫
 
-  - 《[神燈女僕！](https://zh.wikipedia.org/wiki/神燈女僕！ "wikilink")》（刊載於『[月刊Comic_Alive](../Page/月刊Comic_Alive.md "wikilink")』2007年5月號至2009年4月號上、原作者為[夏綠](../Page/夏綠.md "wikilink")）
+  - 《[神燈女僕！](https://zh.wikipedia.org/wiki/神燈女僕！ "wikilink")》（刊載於『[月刊Comic
+    Alive](../Page/月刊Comic_Alive.md "wikilink")』2007年5月號至2009年4月號上、原作者為[夏綠](../Page/夏綠.md "wikilink")）
       - 全3巻（刊載於『・アライブシリーズ』）
   - 《[輕鬆百合](../Page/輕鬆百合.md "wikilink")》（初載於『』Vol.5 -
     Vol.14休刊為止，後轉至『[コミック百合姫](https://zh.wikipedia.org/wiki/コミック百合姫 "wikilink")』2011年1月号繼續連載，持續連載中）

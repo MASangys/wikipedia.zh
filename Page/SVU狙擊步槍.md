@@ -15,7 +15,7 @@ SVU被發現在[第一次車臣戰爭期間首次使用](../Page/第一次車臣
 
 雖然[7.62×54R](../Page/7.62×54mmR.md "wikilink")[步枪](../Page/步枪.md "wikilink")[子彈的威力綽綽有餘](../Page/子彈.md "wikilink")，但是為了抑止[後座力並增加射擊穩定度](../Page/後座力.md "wikilink")，SVU加入一種特殊的大型[槍口制退器](../Page/砲口制動器.md "wikilink")。它採用了與、[消聲器等其他槍口裝置整合在一起的三重檔板設計](../Page/抑制器.md "wikilink")；據信可以消除高達40％的反衝力道，而步槍的槍口[噪音也藉由加入了消聲器的結構而有所改善](../Page/噪音.md "wikilink")。[槍托與片狀彈簧的彈性為非剛性與](../Page/槍托.md "wikilink")[機匣連接的](https://zh.wikipedia.org/wiki/機匣 "wikilink")。SVU在SVD之上的其他主要改進包括更換槍托、、扳機和瞄準鏡的安裝位置，亦將[槍管縮短了](../Page/槍管.md "wikilink")100毫米，使武器取得了完美的平衡。SVU-A和SVU-AS更採用了經過改進、類似[斯泰爾AUG突擊步槍的射控扳機機構](../Page/斯泰爾AUG突擊步槍.md "wikilink")，輕按扳機只能單發，完全按下扳機便是[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")。\[2\]該槍的零件是由[聚酰胺所製成](../Page/聚酰胺.md "wikilink")。\[3\]
 
-雖然SVU保留了[機械瞄具](../Page/機械瞄具.md "wikilink")，但由於槍身縮短，以致於傳統[照門與](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星均改為摺疊式以免干擾PSO](../Page/照準器.md "wikilink")-1光學瞄準鏡操作；而且SVU幾乎總是裝上具有照明的[PSO-1光學瞄準鏡](../Page/PSO-1光學瞄準鏡.md "wikilink")，但也可以安裝其他俄羅斯瞄準鏡。PSO-1光學瞄準鏡的分劃板是在全世界上的狙擊鏡之中幾乎是獨一無二的設計，位於其分劃的左下角測距板，在中間可以發現具有[彈著補助](https://zh.wikipedia.org/wiki/彈著補助 "wikilink")（，簡稱：BDC）的多重「∧」（人字形）設計，以及分劃板中心的左右兩邊的風偏測距儀規正板標記。分劃板也是由放射性[氚光所照明](../Page/氚.md "wikilink")，而不是一個小型電池供電式電燈照明。SVU還配備了一個可調節式特製[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，為了保證[自由浮動式槍管的](../Page/自由浮動式槍管.md "wikilink")[精度不會受到影響](../Page/準確與精密.md "wikilink")，而安裝在扳機以前的[護木上](https://zh.wikipedia.org/wiki/護木 "wikilink")，通過一根連桿延伸至接近槍口的位置。雖然對於狙擊步槍而言是多餘的，SVU的[刺刀](../Page/刺刀.md "wikilink")設置於前[護木下方](https://zh.wikipedia.org/wiki/護木 "wikilink")。
+雖然SVU保留了[機械瞄具](../Page/機械瞄具.md "wikilink")，但由於槍身縮短，以致於傳統[照門與](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星均改為摺疊式以免干擾PSO](../Page/照準器.md "wikilink")-1光學瞄準鏡操作；而且SVU幾乎總是裝上具有照明的[PSO-1光學瞄準鏡](../Page/PSO-1光學瞄準鏡.md "wikilink")，但也可以安裝其他俄羅斯瞄準鏡。PSO-1光學瞄準鏡的標線是在全世界上的狙擊鏡之中幾乎是獨一無二的設計，位於其標線的左下角測距板，在中間可以發現具有彈墜補助（，簡稱：BDC）的多重「∧」（人字形）設計，以及標線中心的左右兩邊的風偏測距儀規正板標記。標線也是由放射性[氚光所照明](../Page/氚.md "wikilink")，而不是一個小型電池供電式電燈照明。SVU還配備了一個可調節式特製[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")，為了保證[自由浮動式槍管的](../Page/自由浮動式槍管.md "wikilink")[精度不會受到影響](../Page/準確與精密.md "wikilink")，而安裝在扳機以前的[護木上](https://zh.wikipedia.org/wiki/護木 "wikilink")，通過一根連桿延伸至接近槍口的位置。雖然對於狙擊步槍而言是多餘的，SVU的[刺刀](../Page/刺刀.md "wikilink")設置於前[護木下方](https://zh.wikipedia.org/wiki/護木 "wikilink")。
 
 SVU在中距離的射擊精度類似於SVD。SVU-A和SVU-AS雖然能[全自動射擊](https://zh.wikipedia.org/wiki/自動火器 "wikilink")，但是只能在緊急情況（例如在近身混戰之中，遇上了構成威脅狙擊手的生命時）以下使用，因為發射威力強大的子彈和步槍的輕便槍身會令全自動射擊時的[後座力非常驚人](../Page/後座力.md "wikilink")，而且狙擊步槍本身也不允許長時間全自動射擊。\[4\]
 
@@ -98,10 +98,6 @@ SVU在中距離的射擊精度類似於SVD。SVU-A和SVU-AS雖然能[全自動�
 ## 使用國
 
   -
-  -
-  -
-  - —被[特種部隊所採用](../Page/特種部隊.md "wikilink")。
-
   -
 ## 流行文化
 

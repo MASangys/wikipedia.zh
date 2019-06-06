@@ -28,7 +28,7 @@ ID及一些相关信息，并同意“Apple开发者注册协议”中的条款�
 
 [Category:IOS](https://zh.wikipedia.org/wiki/Category:IOS "wikilink")
 
-1.  [苹果开发者计划中的标准计划和企业计划](http://www.ioskaifa.com/blog/2012/09/苹果开发者计划中的标准计划和企业计划/)
+1.
 2.  [Apple开发者注册](http://developer.apple.com/programs/register)
 3.  [三种iOS开发计划比较](https://developer.apple.com/programs/start/ios/)
 4.  [为什么注册企业计划资格需要提供DUNS编号？](http://www.iphonepeixun.com/iphone培训/iphone开发培训/iphone_kaifa_peixun/changjian_wenti/2012-09/198.html)

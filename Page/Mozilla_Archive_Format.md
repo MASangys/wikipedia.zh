@@ -24,7 +24,7 @@ MAFF是一种[开放文件格式](https://zh.wikipedia.org/wiki/开放文件格�
   - [MAFF file format
     Specification](http://maf.mozdev.org/maff-specification.html)
   - [MAF - Mozilla Archive Format, with MHT and Faithful
-    Save](https://addons.mozilla.org/en-US/firefox/addon/mozilla-archive-format/)
+    Save](https://web.archive.org/web/20130617225750/https://addons.mozilla.org/en-US/firefox/addon/mozilla-archive-format/)
   - [User Manual of Firefox Addon MAF - Mozilla Archive Format, with MHT
     and Faithful Save](http://maf.mozdev.org/documentation.html)
 

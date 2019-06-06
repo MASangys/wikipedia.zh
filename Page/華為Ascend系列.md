@@ -125,6 +125,6 @@
 
 ## 參考資料
 
-[Category:華為](https://zh.wikipedia.org/wiki/Category:華為 "wikilink")
+[Category:华为产品](https://zh.wikipedia.org/wiki/Category:华为产品 "wikilink")
 [Category:平板電腦](https://zh.wikipedia.org/wiki/Category:平板電腦 "wikilink")
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")

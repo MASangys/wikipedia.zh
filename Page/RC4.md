@@ -17,7 +17,7 @@ Code"\[2\]。（见[RC2](https://zh.wikipedia.org/wiki/RC2 "wikilink")，[RC5](.
 RC4开始时是商业密码，没有公开发表出来，但是在1994年9月份的时候，它被人匿名公开在了Cypherpunks
 邮件列表上，很快它就被发到了sci.crypt
 新闻组上，随后从这传播到了互联网的许多站点。随之贴出的代码后来被证明是真实的，因为它的输出跟取得了RC4版权的私有软件的输出是完全相同的。由于算法已经公开，RC4也就不再是商业秘密了，只是它的名字“RC4”仍然是一个注册商标。RC4经常被称作是“ARCFOUR”或者"ARC4"（意思是称为RC4），这样来避免商标使用的问题。RSA
-Security从来没有正式公布这个算法，罗纳德·李维斯特在2008年的自己的课程笔记中与RC4的[英文维基百科文章](https://zh.wikipedia.org/wiki/英文维基百科 "wikilink")，并且在2014年的文件\[3\]中确认了RC4及其代码的历史。
+Security从来没有正式公布这个算法，罗纳德·李维斯特在2008年的自己的课程笔记中给出了一个指向RC4的[英文维基百科文章的链接](https://zh.wikipedia.org/wiki/英文维基百科 "wikilink")，并且在2014年的文件\[3\]中确认了RC4及其代码的历史。
 
 RC4已经成为一些常用的协议和标准的一部分，如1997年的[WEP和](https://zh.wikipedia.org/wiki/WEP "wikilink")2003/2004年无线卡的WPA；和1995年的[SSL](https://zh.wikipedia.org/wiki/SSL "wikilink")，以及后来1999年的[TLS](https://zh.wikipedia.org/wiki/TLS "wikilink")。直到由于[RC4攻击使用RC](https://zh.wikipedia.org/wiki/#RC4攻击 "wikilink")4的SSL和TLS，在2015年由
 RFC 7465 禁止在所有版本的TLS中使用。

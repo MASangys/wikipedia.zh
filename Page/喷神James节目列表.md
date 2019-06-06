@@ -955,7 +955,7 @@ III”的两个部分，由於節目使用了受版權保護的《[-{](../Page/�
 <td><p>165</p></td>
 <td><p>Kingdom Hearts Timeline - Chronologically Confused</p></td>
 <td><p>2019年1月23日</p></td>
-<td><p>噴神James對於《<strong><a href="../Page/王國之心系列.md" title="wikilink">王國之心</a></strong>》系列中的時間軸表示錯綜複雜、混淆不清。 |- </p></td>
+<td><p>噴神James對於<strong>《<a href="../Page/王國之心系列.md" title="wikilink">王國之心</a>》</strong>系列中的時間軸表示錯綜複雜、混淆不清。 |- </p></td>
 </tr>
 <tr class="even">
 <td><p>167</p></td>
@@ -975,7 +975,7 @@ III”的两个部分，由於節目使用了受版權保護的《[-{](../Page/�
 <strong>《英式足球模擬器》</strong><em>（Soccer Simulator）</em><br />
 <strong>《職業棒球賽》</strong><em>（Baseball Pros）</em><br />
 <strong>《》</strong><br />
-</p></td>
+|- </p></td>
 </tr>
 </tbody>
 </table>
