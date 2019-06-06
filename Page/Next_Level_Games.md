@@ -121,6 +121,14 @@ Game在2014年与[任天堂签订合约](../Page/任天堂.md "wikilink")，在�
 <td><p>任天堂</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/路易吉洋樓3" title="wikilink">路易吉洋樓3</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/動作冒險遊戲" title="wikilink">動作冒險、解謎</a></p></td>
+<td><p>2019年</p></td>
+<td><p><a href="../Page/任天堂Switch.md" title="wikilink">任天堂Switch</a></p></td>
+<td><p>任天堂</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

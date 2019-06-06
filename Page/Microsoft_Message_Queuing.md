@@ -36,18 +36,20 @@ MSMQ使用下述端口:
     98](../Page/Windows_98.md "wikilink") 与 [Windows
     Me](../Page/Windows_Me.md "wikilink").
   - Version 2.0, 包含在[Windows 2000中](../Page/Windows_2000.md "wikilink").
-      - 新特性包括:\[4\] Support for registering public message queues in
-        [Active Directory](../Page/Active_Directory.md "wikilink"),
-        128-bit encryption and digital certificate support, full
-        [COM](https://zh.wikipedia.org/wiki/Component_Object_Model "wikilink")
-        support for message properties (achieving functional parity with
-        the [Win32 API](../Page/Windows_API.md "wikilink") function
-        calls, full DNS path name support, improved performance in
-        multi-threaded applications.
+      - 新特性包括:<ref>
+
+</ref> Support for registering public message queues in [Active
+Directory](../Page/Active_Directory.md "wikilink"), 128-bit encryption
+and digital certificate support, full
+[COM](https://zh.wikipedia.org/wiki/Component_Object_Model "wikilink")
+support for message properties (achieving functional parity with the
+[Win32 API](../Page/Windows_API.md "wikilink") function calls, full DNS
+path name support, improved performance in multi-threaded applications.
+
   - Version 3.0, 包含在[Windows XP](../Page/Windows_XP.md "wikilink") (专业版,
     非家庭版) 与 [Windows Server
     2003](../Page/Windows_Server_2003.md "wikilink").
-      - 新特性包括:\[5\] Internet Messaging (referencing queues via HTTP,
+      - 新特性包括:\[4\] Internet Messaging (referencing queues via HTTP,
         [SOAP](https://zh.wikipedia.org/wiki/SOAP "wikilink")-formatted
         messages, MSMQ support for [Internet Information
         Services](https://zh.wikipedia.org/wiki/Internet_Information_Services "wikilink")),
@@ -57,14 +59,14 @@ MSMQ使用下述端口:
   - Version 4.0, 包含在[Windows
     Vista与](../Page/Windows_Vista.md "wikilink")[Windows Server
     2008](../Page/Windows_Server_2008.md "wikilink").
-      - 新特性包括:\[6\] Subqueues,\[7\] improved support for "poison
+      - 新特性包括:\[5\] Subqueues,\[6\] improved support for "poison
         messages" (messages which continually fail to be processed
         correctly by the receiver), and support for transactional
         receives of messages from a remote queue.
   - Version 5.0, 包含在[Windows
     7](https://zh.wikipedia.org/wiki/Windows_7 "wikilink") 与 [Windows
     Server 2008 R2](../Page/Windows_Server_2008_R2.md "wikilink").
-      - 新特性包括:\[8\] support for Secure Hash Algorithm 2.0
+      - 新特性包括:\[7\] support for Secure Hash Algorithm 2.0
         ([SHA2](https://zh.wikipedia.org/wiki/SHA2 "wikilink")) and all
         advanced hash algorithms that are supported in Windows 2008 R2;
         by default, weaker hash algorithms are disabled.
@@ -416,7 +418,6 @@ HRESULT CreateMSMQQueue(
     Support.microsoft.com (2011-09-28). Retrieved on 2014-02-22.
 4.
 5.
-6.
-7.  [Sub-queues in
+6.  [Sub-queues in
     MSMQ 4.0](http://blogs.msdn.com/jolson/archive/2008/01/29/ws08-feature-of-the-week-14-sub-queues-in-msmq-4-0.aspx)
-8.
+7.

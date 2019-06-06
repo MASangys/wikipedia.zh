@@ -16,7 +16,7 @@
 | 演員                                                  | 角色         | 粵語配音                             |
 | [黃秋生](../Page/黃秋生.md "wikilink")                    | 阿東 (何建東)   | 黃秋生                              |
 | [葉童](https://zh.wikipedia.org/wiki/葉童 "wikilink")   | 阿詩         | 葉童                               |
-| [李修賢](https://zh.wikipedia.org/wiki/李修賢 "wikilink") | 李Sir (李山)  | [朱子聰](../Page/朱子聰.md "wikilink") |
+| [李修賢](https://zh.wikipedia.org/wiki/李修賢 "wikilink") | 李Sir (李鎮山) | [朱子聰](../Page/朱子聰.md "wikilink") |
 | [李美鳳](../Page/李美鳳.md "wikilink")                    | Anna       |                                  |
 | [張耀揚](../Page/張耀揚.md "wikilink")                    | 劉sir (劉少秋) |                                  |
 | [樊少皇](../Page/樊少皇.md "wikilink")                    | 李Sir下屬     |                                  |

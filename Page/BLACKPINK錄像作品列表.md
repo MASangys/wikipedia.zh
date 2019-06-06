@@ -4,36 +4,39 @@
 
 ### 韓語
 
-| 順序 | 發佈日期（[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")） | 歌曲名稱                        | 收錄專輯                                                                                 | 導演（音譯）   | 音樂影片   |
-| -- | ------------------------------------------------------------ | --------------------------- | ------------------------------------------------------------------------------------ | -------- | ------ |
-| 1  | 2016年8月8日                                                    | Boombayah（붐바야）              | 《[Square One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》                    | 徐賢勝\[1\] | \[2\]  |
-| 2  | 2016年8月8日                                                    | 口哨（휘파람）                     | 辛希元\[3\]                                                                             | \[4\]    |        |
-| 3  | 2016年11月1日                                                   | Playing with Fire（불장난）      | 《[Square Two](https://zh.wikipedia.org/wiki/Square_Two_\(Black_Pink單曲\) "wikilink")》 | 徐賢勝      | \[5\]  |
-| 4  | 2016年11月1日                                                   | Stay                        | 韓司敏\[6\]                                                                             | \[7\]    |        |
-| 5  | 2017年6月22日                                                   | As If It's Your Last（마지막처럼） | 《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》                              | 徐賢勝      | \[8\]  |
-| 6  | 2018年6月15日                                                   | Ddu-Du Ddu-Du（뚜두뚜두）         | 《[Square Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》           | 徐賢勝\[9\] | \[10\] |
+| 順序 | 發佈日期（[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")） | 歌曲名稱                                                                                                 | 收錄專輯                                                                                 | 導演（音譯）    | 音樂影片   |
+| -- | ------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | --------- | ------ |
+| 1  | 2016年8月8日                                                    | [Boombayah](https://zh.wikipedia.org/wiki/Boombayah "wikilink")（붐바야）                                 | 《[Square One](../Page/Square_One_\(Black_Pink單曲\).md "wikilink")》                    | 徐賢勝\[1\]  | \[2\]  |
+| 2  | 2016年8月8日                                                    | [口哨](https://zh.wikipedia.org/wiki/口哨_\(BLACKPINK歌曲\) "wikilink")（휘파람）                               | 辛希元\[3\]                                                                             | \[4\]     |        |
+| 3  | 2016年11月1日                                                   | [Playing with Fire](https://zh.wikipedia.org/wiki/Playing_with_Fire_\(BLACKPINK歌曲\) "wikilink")（불장난） | 《[Square Two](https://zh.wikipedia.org/wiki/Square_Two_\(Black_Pink單曲\) "wikilink")》 | 徐賢勝       | \[5\]  |
+| 4  | 2016年11月1日                                                   | [Stay](https://zh.wikipedia.org/wiki/Stay_\(BLACKPINK歌曲\) "wikilink")                                | 韓司敏\[6\]                                                                             | \[7\]     |        |
+| 5  | 2017年6月22日                                                   | [As If It's Your Last](../Page/As_If_It's_Your_Last.md "wikilink")（마지막처럼）                            | 《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》                              | 徐賢勝       | \[8\]  |
+| 6  | 2018年6月15日                                                   | [Ddu-Du Ddu-Du](https://zh.wikipedia.org/wiki/Ddu-Du_Ddu-Du "wikilink")（뚜두뚜두）                        | 《[Square Up](https://zh.wikipedia.org/wiki/Square_Up_\(迷你專輯\) "wikilink")》           | 徐賢勝\[9\]  | \[10\] |
+| 7  | 2019年4月5日                                                    | [Kill This Love](https://zh.wikipedia.org/wiki/Kill_This_Love_\(歌曲\) "wikilink")                     | 《[Kill This Love](../Page/Kill_This_Love.md "wikilink")》                             | 徐賢勝\[11\] | \[12\] |
 
 ### 日語
 
 | 順序 | 發佈日期（[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")） | 歌曲名稱          | 收錄專輯                                                                     | 導演（音譯）    | 音樂影片   |
 | -- | ------------------------------------------------------------ | ------------- | ------------------------------------------------------------------------ | --------- | ------ |
-| 1  | 2017年7月13日                                                   | Boombayah     | 《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》                  | 徐賢勝\[11\] | \[12\] |
-| 2  | 2017年7月14日                                                   | 口笛            | 辛希元\[13\]                                                                | \[14\]    |        |
-| 3  | 2017年7月15日                                                   | 火遊び           | 徐賢勝\[15\]                                                                | \[16\]    |        |
-| 4  | 2017年7月16日                                                   | Stay          | 韓司敏\[17\]                                                                | \[18\]    |        |
-| 5  | 2017年7月17日                                                   | 最後のように        | 徐賢勝\[19\]                                                                | \[20\]    |        |
-| 6  | 2018年8月17日                                                   | Ddu-Du Ddu-Du | 《[Blackpink in Your Area](../Page/Blackpink_in_Your_Area.md "wikilink")》 | 徐賢勝\[21\] | \[22\] |
+| 1  | 2017年7月13日                                                   | Boombayah     | 《[Blackpink](../Page/Blackpink_\(迷你專輯\).md "wikilink")》                  | 徐賢勝\[13\] | \[14\] |
+| 2  | 2017年7月14日                                                   | 口笛            | 辛希元\[15\]                                                                | \[16\]    |        |
+| 3  | 2017年7月15日                                                   | 火遊び           | 徐賢勝\[17\]                                                                | \[18\]    |        |
+| 4  | 2017年7月16日                                                   | Stay          | 韓司敏\[19\]                                                                | \[20\]    |        |
+| 5  | 2017年7月17日                                                   | 最後のように        | 徐賢勝\[21\]                                                                | \[22\]    |        |
+| 6  | 2018年8月17日                                                   | Ddu-Du Ddu-Du | 《[Blackpink in Your Area](../Page/Blackpink_in_Your_Area.md "wikilink")》 | 徐賢勝\[23\] | \[24\] |
 
 ### 舞蹈影片
 
 | 順序 | 發佈日期（[韓國時間](https://zh.wikipedia.org/wiki/韓國標準時 "wikilink")） | 歌曲名稱                        | 舞蹈影片   |
 | -- | ------------------------------------------------------------ | --------------------------- | ------ |
-| 1  | 2016年8月8日                                                    | Boombayah（붐바야）              | \[23\] |
-| 2  | 2016年8月8日                                                    | 口哨（휘파람）                     | \[24\] |
-| 3  | 2016年11月1日                                                   | Playing with Fire（불장난）      | \[25\] |
-| 4  | 2017年6月22日                                                   | As If It's Your Last（마지막처럼） | \[26\] |
-| 5  | 2018年6月15日                                                   | Ddu-Du Ddu-Du（뚜두뚜두）         | \[27\] |
-| 6  | 2018年6月20日                                                   | Forever Young               | \[28\] |
+| 1  | 2016年8月8日                                                    | Boombayah（붐바야）              | \[25\] |
+| 2  | 2016年8月8日                                                    | 口哨（휘파람）                     | \[26\] |
+| 3  | 2016年11月1日                                                   | Playing with Fire（불장난）      | \[27\] |
+| 4  | 2017年6月22日                                                   | As If It's Your Last（마지막처럼） | \[28\] |
+| 5  | 2018年6月15日                                                   | Ddu-Du Ddu-Du（뚜두뚜두）         | \[29\] |
+| 6  | 2018年6月20日                                                   | Forever Young               | \[30\] |
+| 7  | 2019年4月8日                                                    | Kill This Love              | \[31\] |
+| 8  | 2019年4月15日                                                   | Don't Know What To Do       | \[32\] |
 
 ## 影音專輯
 
@@ -63,7 +66,7 @@ DVD</a></p></td>
 <p><strong>BLACKPINK ARENA TOUR 2018 "SPECIAL FINAL IN KYOCERA DOME OSAKA"</strong></p>
 </center>
 <ul>
-<li>發行日期：2019年3月13日<small>（日本）</small>[29]</li>
+<li>發行日期：2019年3月13日<small>（日本）</small>[33]</li>
 <li>語言：日語</li>
 <li>廠牌：<a href="https://zh.wikipedia.org/wiki/YGEX" title="wikilink">YGEX</a></li>
 <li>格式：<a href="../Page/CD.md" title="wikilink">CD</a>、<a href="https://zh.wikipedia.org/wiki/DVD" title="wikilink">DVD</a>、<a href="https://zh.wikipedia.org/wiki/藍光" title="wikilink">藍光</a></li>
@@ -80,23 +83,51 @@ DVD</a></p></td>
 </tbody>
 </table>
 
+## 年曆
+
+<table>
+<thead>
+<tr class="header">
+<th><p>#</p></th>
+<th><p>詳細資料</p></th>
+<th><p>構成</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p><strong>《BLACKPINK'S 2019 WELCOMING COLLECTION》</strong></p>
+<ul>
+<li>發行日期：2019年2月14日[34]</li>
+<li>語言：中文、韓語、英語、日語</li>
+<li>價格：₩43,000</li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 其它
 
 <table>
 <thead>
 <tr class="header">
-<th><p>名稱</p></th>
+<th><p>#</p></th>
 <th><p>詳細資料</p></th>
 <th><p>內容詳情</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><center>
-<p><strong>BLACKPINK HOUSE</strong></p>
-</center></td>
-<td><ul>
-<li>發行日期：2019年3月13日<small>（日本）</small>[30]</li>
+<td><p><strong>1st</strong></p></td>
+<td><p><strong>《BLACKPINK HOUSE》</strong></p>
+<ul>
+<li>發行日期：2019年3月13日<small>（日本）</small>[35]</li>
 <li>語言：日語</li>
 <li>廠牌：YGEX</li>
 <li>格式：DVD、藍光</li>
@@ -143,6 +174,7 @@ DVD</a></p></td>
 10.
 
 11.
+
 12.
 
 13.
@@ -161,7 +193,6 @@ DVD</a></p></td>
 22.
 
 23.
-
 24.
 
 25.
@@ -175,3 +206,13 @@ DVD</a></p></td>
 29.
 
 30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.

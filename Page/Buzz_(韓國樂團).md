@@ -540,6 +540,10 @@ Return》，민대홍於2014年離開。
 </tbody>
 </table>
 
+## 外部連結
+
+  - [Buzz的官方Facebook](https://www.facebook.com/buzzcomeback/)
+
 ## 参考文献
 
 <references />

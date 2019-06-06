@@ -6,6 +6,7 @@ Girls的](../Page/Wonder_Girls.md "wikilink")[宥斌](https://zh.wikipedia.org/w
 
 ### 團名由來
 
+[Itzy_logo.png](https://zh.wikipedia.org/wiki/File:Itzy_logo.png "fig:Itzy_logo.png")
 意味著粉絲、大眾所盼望的一切，ITZY全都具備（EVERYTHING YOU WANT **IT'Z** IN
 US.），並把這樣的抱負濃縮成短而有力的口號「有嗎？有啊！」，就此形成了兼具特色與氣勢的團名。
 
@@ -15,7 +16,7 @@ US.），並把這樣的抱負濃縮成短而有力的口號「有嗎？有啊�
 
 ### 成員列表
 
-  - 名字**粗體**為隊長。
+名字**粗體**為隊長。
 
 | 成員列表                                |
 | ----------------------------------- |
@@ -60,8 +61,7 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》奪下出道
 
 3月10日，出道26天在《[人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")》獲得第一次三冠王的榮耀，也打破[2NE1的](../Page/2NE1.md "wikilink")86天記錄。累計在音樂節目已經得到九個一位的紀錄，也是女團出道曲紀錄。\[12\]
 
-4月8日，出道曲《DALLA
-DALLA》MV用時57天就突破了一億，成為歷代女團出道曲最快破一億的女團，也打破[BLACKPINK的](../Page/BLACKPINK.md "wikilink")176天記錄。\[13\]
+4月8日，出道曲《DALLA DALLA》MV用時57天就突破了一億。\[13\]
 
 5月8日，出席在美國紐約甘迺迪國際機場舉行的“LOUIS VUITTON2020郵輪時裝秀”。
 
@@ -71,99 +71,22 @@ DALLA》MV用時57天就突破了一億，成為歷代女團出道曲最快破�
 
 #### 數位单曲
 
-<table>
-<thead>
-<tr class="header">
-<th><p><strong>單曲 #</strong></p></th>
-<th><p><strong>單曲資料</strong></p></th>
-<th><p><strong>曲目</strong></p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>1st</p></td>
-<td><p><strong>《<a href="../Page/IT&#39;z_Different.md" title="wikilink">IT'z Different</a>》</strong></p>
-<ul>
-<li>發行日期 ：2019年2月12日</li>
-<li>語言：韓語</li>
-</ul></td>
-<td></td>
-</tr>
-</tbody>
-</table>
-
-## 影音作品
-
-### 音樂錄影帶
-
-<table>
-<thead>
-<tr class="header">
-<th><p>年份</p></th>
-<th><p>發佈日期</p></th>
-<th><p>專輯</p></th>
-<th><p>M/V</p></th>
-<th><p>Performance Video</p></th>
-<th><p>Dance Practice Video</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2019年</p></td>
-<td><p>2月11日</p></td>
-<td><p>《<a href="../Page/IT&#39;z_Different.md" title="wikilink">IT'z Different</a>》</p></td>
-<td><p>달라달라(DALLA DALLA)[14]</p></td>
-<td><p>달라달라(DALLA DALLA)[15]</p></td>
-<td><p>달라달라(DALLA DALLA)[16]<br />
-달라달라(DALLA DALLA)(Close-up Ver.)[17]</p></td>
-</tr>
-</tbody>
-</table>
-
-### 其他音樂錄影帶
-
-| 發布日期       | 歌曲名稱                                      | 歌手                                   | 參與成員  |
-| ---------- | ----------------------------------------- | ------------------------------------ | ----- |
-| 2017年8月18日 | LOVE YOURSELF Highlight Reel '起承轉結'\[18\] | [防彈少年團](../Page/防彈少年團.md "wikilink") | 留眞、有娜 |
+  - 《[IT'z Different](../Page/IT'z_Different.md "wikilink")》（2019年2月12日）
 
 ## 影視作品
 
-### 專屬綜藝
-
-| 年份    | 日期     | 電視台                                                                                 | 節目名稱           | 參與成員 |
-| ----- | ------ | ----------------------------------------------------------------------------------- | -------------- | ---- |
-| 2019年 | 2月20日－ | [YouTube](../Page/YouTube.md "wikilink")、[Naver V App](../Page/NAVER.md "wikilink") | 《ITZY? ITZY\!》 | 全體   |
-
-### 固定綜藝
-
-| 日期                     | 電視台                                     | 節目名稱                                                          | 參與成員 | 登場集數           | 備註      |
-| ---------------------- | --------------------------------------- | ------------------------------------------------------------- | ---- | -------------- | ------- |
-| 2013年11月24日－2014年4月13日 | [SBS](../Page/SBS_\(韓國\).md "wikilink") | 《[K-pop Star 3](../Page/K-pop_Star_3.md "wikilink")》          | 彩領   | 2、7-8、10、13-14 | 出道前選秀節目 |
-| 2015年5月5日－7月7日         | [Mnet](../Page/Mnet媒體.md "wikilink")    | 《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》 | 全集   |                |         |
-| 2017年10月29日－2018年1月26日 | [JTBC](../Page/JTBC.md "wikilink")      | 《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》 | 留眞   |                |         |
-| 2018年12月1日－12月29日      | SBS                                     | 《[The Fan](https://zh.wikipedia.org/wiki/The_Fan "wikilink")》 | 禮志   | 2、5-6          |         |
-
-### 嘉賓出演
-
-| 年份    | 日期                                                  | 電視台                                                       | 節目名稱                                                                         | 參與成員        | 登場集數                 | 備註  |
-| ----- | --------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------- | ----------- | -------------------- | --- |
-| 2017年 | 10月17日                                              | [Mnet](../Page/Mnet媒體.md "wikilink")                      | 《[Stray Kids](https://zh.wikipedia.org/wiki/Stray_Kids_\(電視節目\) "wikilink")》 | 禮志、留眞、彩領、有娜 | 1                    | 出道前 |
-| 2019年 | 2月21日                                               | 《[超級實習生](../Page/超級實習生.md "wikilink")》                    | 全員                                                                           | 5           | 未來預告。錄製時出道前幾天、2本部新客戶 |     |
-| 3月10日 | [SBS](https://zh.wikipedia.org/wiki/SBS "wikilink") | 《[家师父一体](https://zh.wikipedia.org/wiki/家师父一体 "wikilink")》 | 60                                                                           | 特别出演        |                      |     |
-| 3月17日 | 61                                                  |                                                           |                                                                              |             |                      |     |
-
-### 節目主持
-
-| 年份    | 日期    | 電視台                                                   | 節目名稱                                                                     | 參與成員 | 備註         |
-| ----- | ----- | ----------------------------------------------------- | ------------------------------------------------------------------------ | ---- | ---------- |
-| 2019年 | 2月28日 | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 禮志   | Special MC |
-
 ## 雜誌畫報
 
-| 年份    | 雜誌名稱         | 期數  | 合作品牌     | 參與成員 | 備註   |
-| ----- | ------------ | --- | -------- | ---- | ---- |
-| 2019年 | COSMOPOLITAN | 4月号 | 化妆品M.A.C | 全員   | 美妆画报 |
-| ELLE  | 5月号          |     |          |      |      |
+| 年份    | 雜誌名稱         | 期數  | 合作品牌                                       | 參與成員 | 備註   |
+| ----- | ------------ | --- | ------------------------------------------ | ---- | ---- |
+| 2019年 | COSMOPOLITAN | 4月号 | [MAC彩妆](../Page/MAC_\(化妝品\).md "wikilink") | 全員   | 美妆画报 |
+| ELLE  | 5月号          |     |                                            |      |      |
+
+## 廣告代言
+
+| 年份    | 商品名稱                                       | 參與成員 | 合作藝人 |
+| ----- | ------------------------------------------ | ---- | ---- |
+| 2019年 | [MAC彩妝](../Page/MAC_\(化妝品\).md "wikilink") | 全員   |      |
 
 ## 演唱會
 
@@ -171,14 +94,14 @@ DALLA》MV用時57天就突破了一億，成為歷代女團出道曲最快破�
 
 | **日期**                                                                       | **演唱會站次** | **舉行地點**              |
 | ---------------------------------------------------------------------------- | --------- | --------------------- |
-| 首張單曲《[IT'z Different](../Page/IT'z_Different.md "wikilink")》出道Showcase\[19\] |           |                       |
+| 首張單曲《[IT'z Different](../Page/IT'z_Different.md "wikilink")》出道Showcase\[14\] |           |                       |
 | 2019年2月12日                                                                   | 首爾站       | BLUE SQUARE I MARKET廳 |
 |                                                                              |           |                       |
 
 ### 其他大型演唱會
 
-| 年份 | 日期 | 演唱會名稱 | 舉行地點 |- 我家 | 2019年 | 5月18日 | KCON 2019 Japan |  |
-| -- | -- | ----- | ---------- | ----- | ----- | --------------- |  |
+| 年份 | 日期 | 演唱會名稱 | 舉行地點 |- 我家 | 2019年 | 5月18日 | KCON 2019 Japan | 日本 |
+| -- | -- | ----- | ---------- | ----- | ----- | --------------- | -- |
 
 ## 獎項
 
@@ -287,8 +210,3 @@ DALLA》MV用時57天就突破了一億，成為歷代女團出道曲最快破�
     甫出道就達成「無線台三冠王」紀錄　台上側翻實現奪冠承諾！](https://www.koreastardaily.com/tc/news/114672)
 13.
 14.
-15.
-16.
-17.
-18.
-19.

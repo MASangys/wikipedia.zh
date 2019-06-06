@@ -25,22 +25,24 @@ Card建立的獨特安全和隱私架構意即Apple不會知道使用者的購�
 
 ### 合作伙伴
 
-Apple Card的合作夥伴由高盛銀行作為發卡機構、並以MasterCard系統作為Apple Card的全球網路支付系統\[7\]。
+Apple
+Card的合作夥伴由高盛銀行作為發卡機構、並以[MasterCard系統作為Apple](https://zh.wikipedia.org/wiki/MasterCard "wikilink")
+Card的全球網路支付系統\[7\]。
 
 ### 實體卡片
 
 除了虛擬卡片外，Apple另外設計實體鈦金卡，可在尚未支援Apple
-Pay非接觸式付款的地方購物。該卡具有EMV晶片和磁條，但卡片上不會註記卡號、CVV
-安全碼、有效期或簽名，但如有必要可在Apple Wallet應用程式中找到上述資訊。
+Pay非接觸式付款的地方購物\[8\]。該卡具有EMV晶片和磁條，但卡片上不會註記卡號、CVV
+安全碼、有效期或簽名，但如有必要可在Apple Wallet應用程式中找到上述資訊\[9\]。
 
 ## 使用地區
 
-Apple Card 將在2019年夏天於美國正式啟用，在該年年底之前，會擴展至全球40個國家\[8\]。
+Apple Card 將在2019年夏天於美國正式啟用，在該年年底之前，會擴展至全球40個國家\[10\]。
 
 至於在[中華民國（臺灣）部分](../Page/中華民國.md "wikilink")，[行政院金融監督管理委員會表示](https://zh.wikipedia.org/wiki/中華民國金融監督管理委員會 "wikilink")，由於Apple
 Card的發卡銀行為高盛，而高盛在臺灣並無[商業銀行業務](https://zh.wikipedia.org/wiki/商業銀行 "wikilink")，且Apple
 Card的細節尚未明朗，若蘋果公司將Apple
-Card引進臺灣，可以利用在臺設立信用卡發行機構的方式，也可與臺灣的銀行合作採[聯名卡形式發行](https://zh.wikipedia.org/wiki/聯名卡 "wikilink")，而合作銀行須符合信用卡業務管理辦法規定辦理\[9\]\[10\]。
+Card引進臺灣，可以利用在臺設立信用卡發行機構的方式，也可與臺灣的銀行合作採[聯名卡形式發行](https://zh.wikipedia.org/wiki/聯名卡 "wikilink")，而合作銀行須符合信用卡業務管理辦法規定辦理\[11\]\[12\]。
 
 ## 参考資料
 
@@ -54,12 +56,24 @@ Card引進臺灣，可以利用在臺設立信用卡發行機構的方式，也�
 [Category:信用卡](https://zh.wikipedia.org/wiki/Category:信用卡 "wikilink")
 
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
+
 7.
+
 8.
 9.
+
 10.
+
+11.
+
+12.

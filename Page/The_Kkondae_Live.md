@@ -103,7 +103,7 @@ Live**》（），為[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikili
 <tr class="even">
 <td><p>6</p></td>
 <td><p>2018年11月2日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>【<a href="../Page/尹智聖.md" title="wikilink">尹智聖</a>、<a href="../Page/河成雲.md" title="wikilink">河成雲</a>、<a href="https://zh.wikipedia.org/wiki/金在奐" title="wikilink">金在奐</a>、<a href="../Page/李大輝.md" title="wikilink">李大輝</a>】</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Wanna_One" title="wikilink">Wanna One</a>【<a href="../Page/尹智聖.md" title="wikilink">尹智聖</a>、<a href="../Page/河成雲.md" title="wikilink">河成雲</a>、<a href="../Page/金在奐.md" title="wikilink">金在奐</a>、<a href="../Page/李大輝.md" title="wikilink">李大輝</a>】</p></td>
 <td><p><a href="../Page/李大輝.md" title="wikilink">李大輝</a></p></td>
 <td><p>不是老人</p></td>
 </tr>

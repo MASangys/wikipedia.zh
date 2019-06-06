@@ -76,6 +76,7 @@
 [Category:楢葉町](https://zh.wikipedia.org/wiki/Category:楢葉町 "wikilink")
 [Category:2019年啟用的鐵路車站](https://zh.wikipedia.org/wiki/Category:2019年啟用的鐵路車站 "wikilink")
 [Category:日本鐵路車站_Je](https://zh.wikipedia.org/wiki/Category:日本鐵路車站_Je "wikilink")
+[Category:以建築物命名的鐵路車站](https://zh.wikipedia.org/wiki/Category:以建築物命名的鐵路車站 "wikilink")
 
 1.
 

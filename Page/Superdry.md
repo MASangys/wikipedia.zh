@@ -27,7 +27,7 @@ Sutherland取代。\[8\]2016年2月，Dunkerton以每股12英鎊（總計4800萬
 
 ## 參考文獻
 
-## 外部鏈接
+## 外部連結
 
   -
 [Category:英国服装品牌](https://zh.wikipedia.org/wiki/Category:英国服装品牌 "wikilink")

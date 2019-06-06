@@ -408,15 +408,17 @@ TV**》和动画《**VENUS PROJECT -CLIMAX-**》（ヴィーナス プロジェ�
 ## 外部链接
 
   - [VENUS
-    PROJECT公式サイト](http://web.archive.org/web/20160129021720/http://vproject.jp:80/)
+    PROJECT公式サイト](https://web.archive.org/web/20160129021720/http://vproject.jp/)
     - 閉鎖。2016年1月29日時点の[アーカイブ](../Page/互联网档案馆.md "wikilink")。
 
-      - [VENUS PROJECT 最新ニュース](https://venusproject.themedia.jp/)
+      - [VENUS PROJECT
+        最新ニュース](https://web.archive.org/web/20151117051937/https://venusproject.themedia.jp/)
       - [ゲーム「VENUS PROJECT」公式ブログ](http://venusproject.blog.jp/)
-      - [漫画「VENUS PROJECT」](http://comicdangan.com/manga/venus/) -
-        コミックダンガン
+      - [漫画「VENUS
+        PROJECT」](https://web.archive.org/web/20150627161416/http://comicdangan.com/manga/venus/)
+        - コミックダンガン
       - [TVアニメ「VENUS PROJECT
-        -CLIMAX-」公式サイト](http://web.archive.org/web/20160202160835/http://vproject.jp/anime/)
+        -CLIMAX-」公式サイト](https://web.archive.org/web/20160202160835/http://vproject.jp/anime/)
         - 閉鎖。2016年2月2日時点の[アーカイブ](../Page/互联网档案馆.md "wikilink")。
 
   -

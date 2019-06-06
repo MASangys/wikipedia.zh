@@ -76,8 +76,7 @@ Martin Heide于1981年作为飞机设计师加入公司。
     22](https://zh.wikipedia.org/wiki/Schleicher_ASW_22滑翔机 "wikilink"),
     还包括 B, BL, BLE ([Offene
     Klasse](https://zh.wikipedia.org/wiki/Wettbewerbsklasse#Offene_Klasse "wikilink"))
-  - [ASK
-    23](https://zh.wikipedia.org/wiki/Schleicher_ASK_23滑翔机 "wikilink")
+  - [ASK 23](https://zh.wikipedia.org/wiki/Schleicher_ASK_23 "wikilink")
   - [ASW
     24](https://zh.wikipedia.org/wiki/Schleicher_ASW_24滑翔机 "wikilink"),
     还包括有动力型号ASW 24E

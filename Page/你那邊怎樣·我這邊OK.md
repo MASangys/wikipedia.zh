@@ -1,4 +1,4 @@
-《**你那邊怎樣·我這邊OK**》（）是一部台灣和新加坡合拍的[八點檔電視劇](../Page/八點檔.md "wikilink")，由[臺灣电视公司](https://zh.wikipedia.org/wiki/臺灣电视公司 "wikilink")、[拙八郎创意执行有限公司和](https://zh.wikipedia.org/wiki/拙八郎创意执行有限公司 "wikilink")[新加坡新传媒私人有限公司首次联合制作](../Page/新传媒私人有限公司.md "wikilink")、合作拍摄，[台湾](https://zh.wikipedia.org/wiki/台湾 "wikilink")、[新加坡跨国合作两地实景拍摄](../Page/新加坡.md "wikilink")；台湾团队由身兼总导演、总监制的[王小棣带领](../Page/王小棣.md "wikilink")、新加坡团队由监制[梁来玲带领](https://zh.wikipedia.org/wiki/梁来玲 "wikilink")，并且由[蓝正龙](https://zh.wikipedia.org/wiki/蓝正龙 "wikilink")、[曾之乔](https://zh.wikipedia.org/wiki/曾之乔 "wikilink")、[刘冠廷](https://zh.wikipedia.org/wiki/刘冠廷 "wikilink")、[陈泂江](https://zh.wikipedia.org/wiki/陈泂江 "wikilink")、[陈罗密欧](https://zh.wikipedia.org/wiki/陈罗密欧 "wikilink")、[沈琳宸领衔主演](https://zh.wikipedia.org/wiki/沈琳宸 "wikilink")，[蓝心湄](https://zh.wikipedia.org/wiki/蓝心湄 "wikilink")、[曾沛慈](../Page/曾沛慈.md "wikilink")、[庹宗华](https://zh.wikipedia.org/wiki/庹宗华 "wikilink")、[吴岳擎](https://zh.wikipedia.org/wiki/吴岳擎 "wikilink")、[张耀仁](https://zh.wikipedia.org/wiki/张耀仁 "wikilink")、[黄俊雄](https://zh.wikipedia.org/wiki/黄俊雄 "wikilink")、[方伟杰](https://zh.wikipedia.org/wiki/方伟杰 "wikilink")、[郑惠玉](../Page/郑惠玉.md "wikilink")、[陈汉玮](https://zh.wikipedia.org/wiki/陈汉玮 "wikilink")、[张耀栋](https://zh.wikipedia.org/wiki/张耀栋 "wikilink")、[蔡琦慧](../Page/蔡琦慧.md "wikilink")、[陈泰铭](https://zh.wikipedia.org/wiki/陈泰铭 "wikilink")、[陈楚寰等台](https://zh.wikipedia.org/wiki/陈楚寰 "wikilink")、新知名演员共同演出。\[1\]\[2\]
+《**你那邊怎樣·我這邊OK**》（）是一部台灣和新加坡合拍的[八點檔電視劇](../Page/八點檔.md "wikilink")，由[臺灣电视公司](https://zh.wikipedia.org/wiki/臺灣电视公司 "wikilink")、[拙八郎创意执行有限公司和](https://zh.wikipedia.org/wiki/拙八郎创意执行有限公司 "wikilink")[新加坡新传媒私人有限公司首次联合制作](../Page/新传媒私人有限公司.md "wikilink")、合作拍摄，[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")、[新加坡跨國合作兩地實景拍摄](../Page/新加坡.md "wikilink")；台灣團隊由身兼總導演、總監製的[王小棣帶領](../Page/王小棣.md "wikilink")、新加坡團隊由監製[梁來玲帶領](https://zh.wikipedia.org/wiki/梁來玲 "wikilink")，並且由[藍正龍](../Page/藍正龍.md "wikilink")、[曾之喬](../Page/曾之喬.md "wikilink")、[劉冠廷](../Page/劉冠廷.md "wikilink")、[陳泂江](../Page/陳泂江.md "wikilink")、[陳羅密歐](https://zh.wikipedia.org/wiki/陳羅密歐 "wikilink")、[沈琳宸領銜主演](https://zh.wikipedia.org/wiki/沈琳宸 "wikilink")，[藍心湄](../Page/藍心湄.md "wikilink")、曹西平、[曾沛慈](../Page/曾沛慈.md "wikilink")、[庹宗華](../Page/庹宗華.md "wikilink")、[吳岳擎](../Page/吳岳擎.md "wikilink")、[張耀仁](../Page/張耀仁.md "wikilink")、[黄俊雄](https://zh.wikipedia.org/wiki/黄俊雄 "wikilink")、[方伟杰](https://zh.wikipedia.org/wiki/方伟杰 "wikilink")、[鄭惠玉](https://zh.wikipedia.org/wiki/鄭惠玉 "wikilink")、[陳漢瑋](../Page/陳漢瑋.md "wikilink")、[張耀棟](../Page/張耀棟.md "wikilink")、[蔡琦慧](../Page/蔡琦慧.md "wikilink")、[陳泰銘](https://zh.wikipedia.org/wiki/陳泰銘 "wikilink")、[陳楚寰等台](../Page/陳楚寰.md "wikilink")、新知名演員共同演出。\[1\]\[2\]
 
 本剧以2016年轰动台湾的自动提款机吐钞盗领案件为背景，剧情将双线开展，一条故事线在新加坡，另一条故事线则在台北；本剧同时也獲得中華民國文化部107年度電視節目製作補助案連續劇類補助3800萬元。\[3\]
 \[4\]
@@ -25,7 +25,7 @@
 <tr class="odd">
 <td><p><a href="../Page/臺灣電視台.md" title="wikilink">台視主頻</a></p></td>
 <td></td>
-<td><p>2019年8月</p></td>
+<td><p>2019年8月26日</p></td>
 <td><p><strong>台灣篇（20集）</strong><br />
 週一至週五20:00 - 21:00</p></td>
 </tr>
@@ -39,7 +39,7 @@
 <tr class="odd">
 <td><p><a href="../Page/新傳媒8頻道.md" title="wikilink">新傳媒8頻道</a></p></td>
 <td></td>
-<td><p>2019年8月</p></td>
+<td><p>2019年8月26日</p></td>
 <td><p><strong>新加坡篇（20集）</strong><br />
 週一至週五21:00 - 22:00</p></td>
 </tr>
@@ -139,7 +139,7 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/蓝心湄" title="wikilink">蓝心湄</a></p></td>
 <td><p>甄蒂</p></td>
 <td><p><strong>過氣藝人</strong><br />
-网名：小乔，熱愛表演，當年以動感舞曲闖出名號並紅遍整個新馬地區，在演藝圈出道30年後失去昔日的光環和掌聲，近年来沦落到要去歌厅或红包场唱歌维系生活，平常沒事就喜欢上网玩游戏，也因此認識了小自己20歲的“小鮮肉”叶栋煌。</p></td>
+网名：小乔，熱愛表演，當年以動感舞曲闖出名號並紅遍整個新馬地區，在演藝圈出道30年後失去昔日的光環和掌聲，近年来沦落到要去歌厅或红包场唱歌维系生活，平常沒事就喜欢上网玩游戏，也因此認識了小自己20歲的“小鮮肉”叶栋煌</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/曾沛慈.md" title="wikilink">曾沛慈</a></p></td>
@@ -167,7 +167,8 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/黃俊雄_(藝人).md" title="wikilink">黃俊雄</a></p></td>
-<td><p>路瑞克</p></td>
+<td><p>路瑞克<br />
+（Eric）</p></td>
 <td><p><strong>新加坡騰昇銀行银行员</strong><br />
 专长: 骇客技术，针对ATM系统开发出破解程序<br />
 叶栋煌好友，与刘维芸有感情线</p></td>
@@ -216,7 +217,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/范文芳.md" title="wikilink">范文芳</a></p></td>
-<td></td>
+<td><p>Linda</p></td>
 <td><p>郭豪森特助</p></td>
 </tr>
 <tr class="odd">
@@ -240,6 +241,26 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/海裕芬.md" title="wikilink">海裕芬</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/曹西平.md" title="wikilink">曹西平</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/張銘杰.md" title="wikilink">張銘-{杰}-</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/楊雄" title="wikilink">楊雄</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -252,6 +273,7 @@
   - 2018年12月5日：「新加坡電視節」媒體記者會（地点：滨海湾金沙会议展览中心）
   - 2019年1月15日：「聯合開鏡發布會」（地点：台北圓山大飯店）
   - 2019年1月16日：首日開鏡拍攝（地点：台北圓山大飯店）
+  - 2019年5月28日：殺青酒（地点：台北圓山大飯店）
 
 ## 電視原聲帶
 
@@ -421,20 +443,16 @@
 
 [Category:鄉土劇](https://zh.wikipedia.org/wiki/Category:鄉土劇 "wikilink")
 [Category:台灣偶像劇](https://zh.wikipedia.org/wiki/Category:台灣偶像劇 "wikilink")
-[Category:新加坡電視劇](https://zh.wikipedia.org/wiki/Category:新加坡電視劇 "wikilink")
 [Category:中文連續劇](https://zh.wikipedia.org/wiki/Category:中文連續劇 "wikilink")
 [Category:2019年台灣電視劇集](https://zh.wikipedia.org/wiki/Category:2019年台灣電視劇集 "wikilink")
 [Category:台視電視劇](https://zh.wikipedia.org/wiki/Category:台視電視劇 "wikilink")
 [Category:新傳媒合拍劇](https://zh.wikipedia.org/wiki/Category:新傳媒合拍劇 "wikilink")
-[Category:台灣背景電視劇](https://zh.wikipedia.org/wiki/Category:台灣背景電視劇 "wikilink")
-[Category:新加坡背景電視劇](https://zh.wikipedia.org/wiki/Category:新加坡背景電視劇 "wikilink")
-[Category:犯罪電視劇](https://zh.wikipedia.org/wiki/Category:犯罪電視劇 "wikilink")
+[Category:台北市背景電視劇](https://zh.wikipedia.org/wiki/Category:台北市背景電視劇 "wikilink")
+[Category:新加坡背景作品](https://zh.wikipedia.org/wiki/Category:新加坡背景作品 "wikilink")
 [Category:台灣犯罪劇](https://zh.wikipedia.org/wiki/Category:台灣犯罪劇 "wikilink")
 [Category:台灣懸疑劇](https://zh.wikipedia.org/wiki/Category:台灣懸疑劇 "wikilink")
 [Category:警察主角題材電視劇](https://zh.wikipedia.org/wiki/Category:警察主角題材電視劇 "wikilink")
-[Category:姊弟戀題材電視劇](https://zh.wikipedia.org/wiki/Category:姊弟戀題材電視劇 "wikilink")
-[Category:身分差異戀情題材電視劇](https://zh.wikipedia.org/wiki/Category:身分差異戀情題材電視劇 "wikilink")
-[Category:報復題材電視劇](https://zh.wikipedia.org/wiki/Category:報復題材電視劇 "wikilink")
+[Category:2016年背景作品](https://zh.wikipedia.org/wiki/Category:2016年背景作品 "wikilink")
 
 1.  [蓝正龙来新拍戏“赚到”
     希望素颜上镜](https://entertainment.toggle.sg/zh/celebrityphotos/default-11001872#slideshow-1)

@@ -22,7 +22,7 @@
 
 <!-- end list -->
 
-  - [神秘海域4：盜賊末路](https://zh.wikipedia.org/wiki/神秘海域4：盜賊末路 "wikilink")（1025万）
+  - [神秘海域4：盜賊末路](https://zh.wikipedia.org/wiki/神秘海域4：盜賊末路 "wikilink")（1500万）
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@
 
 <!-- end list -->
 
-  - [最後生還者](../Page/最後生還者.md "wikilink")（660万）
+  - [最後生還者](../Page/最後生還者.md "wikilink")（1000万）
 
 <!-- end list -->
 
@@ -67,7 +67,7 @@
 
 <!-- end list -->
 
-  - [戰神 (2018年遊戲)](../Page/戰神_\(2018年遊戲\).md "wikilink")（600万）
+  - [戰神 (2018年遊戲)](../Page/戰神_\(2018年遊戲\).md "wikilink")（1000万）
 
 <!-- end list -->
 
@@ -75,7 +75,7 @@
 
 <!-- end list -->
 
-  - [蜘蛛俠 (2018年遊戲)](../Page/蜘蛛俠_\(2018年遊戲\).md "wikilink")（900万）
+  - [蜘蛛俠 (2018年遊戲)](../Page/蜘蛛俠_\(2018年遊戲\).md "wikilink")（1000万）
 
 <!-- end list -->
 

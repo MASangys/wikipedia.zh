@@ -6,7 +6,7 @@ WARS：最後的絕地武士](../Page/STAR_WARS：最後的絕地武士.md "wiki
 
 ## 劇情
 
-[路克·天行者](https://zh.wikipedia.org/wiki/路克·天行者 "wikilink")[死後大約一年之後](../Page/STAR_WARS：最後的絕地武士.md "wikilink")，再次面對[第一軍團](https://zh.wikipedia.org/wiki/第一軍團 "wikilink")—亦同時考驗過去和他們內心的混亂，將天行者傳奇帶到了最後。
+[路克·天行者](https://zh.wikipedia.org/wiki/路克·天行者 "wikilink")[化成絕地英靈大約一年之後](../Page/STAR_WARS：最後的絕地武士.md "wikilink")，再次面對[第一軍團](https://zh.wikipedia.org/wiki/第一軍團 "wikilink")—亦同時考驗過去和他們內心的混亂，將天行者傳奇帶到了最後。
 
 ## 演員
 

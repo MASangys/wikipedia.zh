@@ -10,7 +10,7 @@ como Lengua Extranjera，缩写ELE）考试证书及其标准。\[1\]
 como Lengua Segunda y
 Extranjera，简称ELSE）的教学、测试及认证工作。如今，阿根廷几乎三分之二的[国立大学属于ELSE联盟的一员](https://zh.wikipedia.org/wiki/国立大学 "wikilink")。\[3\]
 
-2004年11月，阿根廷共和国教育、科学和技术部与[中华人民共和国教育部签署备忘录](../Page/中华人民共和国教育部.md "wikilink")，互相承认西班牙语（ELE）和汉语（[HSK](https://zh.wikipedia.org/wiki/汉语水平考试 "wikilink")）语言证书。\[4\]
+2004年11月，阿根廷共和国教育、科学和技术部与[中华人民共和国教育部签署备忘录](../Page/中华人民共和国教育部.md "wikilink")，互相承认西班牙语（ELE）和汉语（[HSK](../Page/汉语水平考试.md "wikilink")）语言证书。\[4\]
 
 2005年1月31日，阿根廷共和国教育、科学和技术部签署第28/05号决议，证书更名为CELU，用以证明非西语母语外国人的西语语言应用能力。\[5\]
 

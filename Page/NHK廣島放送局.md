@@ -1,4 +1,4 @@
-**NHK廣島放送局**是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）的放送局之一，為[中國地方的基干局](https://zh.wikipedia.org/wiki/中國地方 "wikilink")。\[1\]
+**NHK廣島放送局**是[日本放送協會](https://zh.wikipedia.org/wiki/日本放送協會 "wikilink")（NHK）的放送局之一，位於[廣島縣](../Page/廣島縣.md "wikilink")[廣島市](../Page/廣島市.md "wikilink")，為[中國地方的基干局](https://zh.wikipedia.org/wiki/中國地方 "wikilink")。\[1\]
 
 ## 历史
 
@@ -63,5 +63,6 @@
 ## 外部連結
 
 [Category:NHK](https://zh.wikipedia.org/wiki/Category:NHK "wikilink")
+[Category:廣島市](https://zh.wikipedia.org/wiki/Category:廣島市 "wikilink")
 
 1.

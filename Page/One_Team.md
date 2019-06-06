@@ -138,7 +138,7 @@ Team Esports**。團隊理念：我們相信在傳說戰場上，團結是贏得
 <td><p>S.T Scott</p></td>
 <td><p>魔龍輔助</p></td>
 <td></td>
-<td></td>
+<td><p>現<a href="../Page/SMG戰隊.md" title="wikilink">SMG戰隊教練</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>S.T Ben</p></td>

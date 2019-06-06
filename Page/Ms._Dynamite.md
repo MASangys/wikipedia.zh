@@ -217,8 +217,6 @@ Guetta2014年专辑《*Listen*》歌曲《No Money No Love》中。
 
   -
   -
-[en:Ms.
-Dynamite](https://zh.wikipedia.org/wiki/en:Ms._Dynamite "wikilink")
 
 [Category:倫敦饒舌歌手](https://zh.wikipedia.org/wiki/Category:倫敦饒舌歌手 "wikilink")
 [Category:英格蘭創作歌手](https://zh.wikipedia.org/wiki/Category:英格蘭創作歌手 "wikilink")

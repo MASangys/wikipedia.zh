@@ -1,5 +1,5 @@
 《**飯 bless
-you**》（，），為韓國電視台於2019年推出的綜藝節目\[1\]，由[宋恩伊](../Page/宋恩伊.md "wikilink")、[張度妍](https://zh.wikipedia.org/wiki/張度妍 "wikilink")、[李英子](https://zh.wikipedia.org/wiki/李英子 "wikilink")、[金淑等人](../Page/金淑.md "wikilink")\[2\]共同主持，節目主軸為邀請嘉賓，同時以借直率的美食談話與朋友般的親切感，將美食和煩惱商談結合在一起。\[3\]\[4\]。
+you**》（，），為韓國電視台於2019年推出的綜藝節目\[1\]，由[宋恩伊](../Page/宋恩伊.md "wikilink")、[张度练](https://zh.wikipedia.org/wiki/张度练 "wikilink")、[李英子](https://zh.wikipedia.org/wiki/李英子 "wikilink")、[金淑](../Page/金淑.md "wikilink")、等人\[2\]共同主持，節目主軸為邀請嘉賓，同時以借直率的美食談話與朋友般的親切感，將美食和煩惱商談結合在一起。\[3\]\[4\]。
 
 ## 各集內容
 

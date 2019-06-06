@@ -11,6 +11,10 @@ Crush**（），是[韓國DAM娛樂於](https://zh.wikipedia.org/wiki/韓國 "wi
 | Bomi  |
 | Yo-na |
 
+## 活動經歷
+
+2019年4月6日，在 Global Digital Content Group(K-Hall)舉行出道showcase\[2\]。
+
 ## 參考文獻
 
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
@@ -20,3 +24,4 @@ Crush**（），是[韓國DAM娛樂於](https://zh.wikipedia.org/wiki/韓國 "wi
 [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.
+2.

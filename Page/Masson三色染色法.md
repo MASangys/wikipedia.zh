@@ -25,7 +25,7 @@ stain），是一种用于[组织学的染色方法](../Page/组织学.md "wikil
   - [Masson's Trichrome
     Protocol](https://www.scribd.com/doc/49699318/Masson-Protocol)
   - [Stainsfile: Masson's
-    Trichrome](http://stainsfile.info/StainsFile/stain/conektv/masson.htm)
+    Trichrome](https://web.archive.org/web/20130702072424/http://stainsfile.info/StainsFile/stain/conektv/masson.htm)
 
 [Category:染色法](https://zh.wikipedia.org/wiki/Category:染色法 "wikilink")
 

@@ -55,7 +55,7 @@ Room監製製作。
 <td><p><a href="../Page/尹普美.md" title="wikilink">尹普美</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/Apink.md" title="wikilink">Apink成員</a>）、<a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a></p></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/Apink.md" title="wikilink">Apink成員</a>）、<a href="../Page/演員.md" title="wikilink">演員</a></p></td>
 <td><p>全集</p></td>
 </tr>
 <tr class="even">
@@ -84,6 +84,9 @@ Room監製製作。
 |  |
 |  |
 |  |
+|  |
+|  |
+|  |
 
 ## 收視率
 
@@ -104,7 +107,7 @@ Room監製製作。
 
 ## 外部連結
 
-  - \[ 官方網站\]
+  - [官方網站](http://tv.mnet.com/program/2129)
 
 [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
 [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")

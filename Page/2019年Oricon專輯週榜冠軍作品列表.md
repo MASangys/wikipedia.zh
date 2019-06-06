@@ -76,7 +76,7 @@
 <tr class="even">
 <td><p>2月25日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK</a></p></td>
+<td><p><a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK</a></p></td>
 <td><p>原创</p></td>
 <td><p>19.7</p></td>
 <td><p>1</p></td>
@@ -151,6 +151,46 @@
 <td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
 <td><p>原創</p></td>
 <td><p>44.6</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>5月6日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Kis-My-Ft2" title="wikilink">Kis-My-Ft2</a></p></td>
+<td><p>原創</p></td>
+<td><p>20.4</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月13日</p></td>
+<td><p><a href="../Page/FANCY_YOU.md" title="wikilink">FANCY YOU</a></p></td>
+<td><p>TWICE</p></td>
+<td><p>原創</p></td>
+<td><p>3.7</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>5月20日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/歌物語" title="wikilink">歌物語2 -〈物語〉系列主題歌集-</a></p></td>
+<td><p>群星</p></td>
+<td><p>原聲</p></td>
+<td><p>1.6</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月27日</p></td>
+<td></td>
+<td><p><a href="../Page/桃色幸運草Z.md" title="wikilink">桃色幸運草Z</a></p></td>
+<td><p>原創</p></td>
+<td><p>5.3</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>6月3日</p></td>
+<td></td>
+<td></td>
+<td><p>原創</p></td>
+<td><p>2.6</p></td>
 <td><p>1</p></td>
 </tr>
 </tbody>

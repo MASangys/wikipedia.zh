@@ -156,7 +156,7 @@ Kotaro Egami＆[平田祥一郎](https://zh.wikipedia.org/wiki/平田祥一郎 "
 
 ## 參考文獻
 
-## 外部鏈接
+## 外部連結
 
   - [AR performers Official Site](https://arp-fc.yukes.co.jp/) - 官網
   - [@arboys_official](https://twitter.com/arboys_official) - 官方推特

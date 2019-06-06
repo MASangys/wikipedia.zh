@@ -45,8 +45,8 @@ Lab)](../Page/哈佛创新实验室.md "wikilink")\[1\]。总部位于美国波�
 
 ## 外部链接
 
-  - [BrainCo英文官网](https://https://www.brainco.tech/)
-  - [BrainCo中文官网](https://https://www.brainco.cn/)
+  - [BrainCo英文官网](https://www.brainco.tech/)
+  - [BrainCo中文官网](https://www.brainco.cn/)
 
 <!-- end list -->
 

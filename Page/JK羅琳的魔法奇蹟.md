@@ -26,7 +26,7 @@ Biography*》。主角[J·K·羅琳由](https://zh.wikipedia.org/wiki/J·K·羅�
 
   -
   - [J.K. Rowling Magic Beyond
-    Words](http://magicbeyondwords.aetncsg.com/)
+    Words](https://web.archive.org/web/20110624234310/http://magicbeyondwords.aetncsg.com/)
 
 [Category:2011年电视电影](https://zh.wikipedia.org/wiki/Category:2011年电视电影 "wikilink")
 [Category:美國電影作品](https://zh.wikipedia.org/wiki/Category:美國電影作品 "wikilink")

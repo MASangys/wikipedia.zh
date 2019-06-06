@@ -1,5 +1,5 @@
 **M.O.N.T**（韓語：**몬트**），團名有**M**embers **O**f the **N**ational
-**T**eam的意思，是[韓國FM娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的三人男子團體\[1\]，成員包括Bitsaeon、Narachan及Roda。
+**T**eam的意思，是[韓國FM娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的三人男子團體\[1\]，成員包括Bitsaeon、Narachan及Roda。粉絲名為「Mint」。
 
 ## 成員資料
 
@@ -27,6 +27,9 @@ International Music Festival》及參與表演\[2\]\[3\]。
 
 2019年1月4日，以歌曲《Will You Be My Girlfriend?》正式出道\[4\]。
 
+2019年3月31日-4月18日，在[洛杉機](https://zh.wikipedia.org/wiki/洛杉機 "wikilink")、[德州](https://zh.wikipedia.org/wiki/德州 "wikilink")、[紐約](https://zh.wikipedia.org/wiki/紐約 "wikilink")、[亞特蘭大](https://zh.wikipedia.org/wiki/亞特蘭大 "wikilink")、[芝加哥](../Page/芝加哥.md "wikilink")、[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")、[德國及](https://zh.wikipedia.org/wiki/德國 "wikilink")[西班牙舉行](../Page/西班牙.md "wikilink")《Will
+You Be My Mint?》粉絲見面會\[5\]\[6\]。
+
 ## 參考文獻
 
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
@@ -39,3 +42,5 @@ International Music Festival》及參與表演\[2\]\[3\]。
 2.
 3.
 4.
+5.
+6.

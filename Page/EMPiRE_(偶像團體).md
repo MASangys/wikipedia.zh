@@ -77,6 +77,9 @@ EMPiRE首布公開樣貌\[3\]\[4\]。9月28日，公布全部成員樣貌\[5\]�
     YUFU（テラヤマユフ，現NOW EMPiRE）一名成員。
   - 4月21日 - TERAYAMA YUFU（NOW EMPiRE）將參加福岡・DRUM SON舉行的「NEW EMPiRE
     TOUR」正式加入予定，EMPiRE並再次成為6人体制。
+  - 7月11日 - 「NEW EMPiRE TOUR」追加公演，命名為「NEW EMPiRE TOUR
+    "EVOLUTiONS"」並於[赤坂BLITZ舉行](../Page/赤坂BLITZ.md "wikilink")。是第三度在赤坂舉行演唱會亦是NOW
+    EMPiRE首場赤坂赤坂BLITZ的演唱會。
   - 7月17日 - 發行首張《CD》。
 
 ## 成員
@@ -188,11 +191,11 @@ Project AW徵選合格者。長野縣出身<br />
 2019年於3月4日在EMPiRE和畢業。<br />
 （創始成員）<br />
 </p></td>
-<td><p>已不存在</p></td>
+<td><p><a href="https://twitter.com/intent/follow?screen_name=YUKA_EMPiRE">YUKA EMPiRE</a></p></td>
 </tr>
 <tr class="even">
 <td><p>YUiNA EMPiRE</p></td>
-<td><p>2月7日[29]</p></td>
+<td><p>[29]</p></td>
 <td><p>WACK徵選2017最終審査参加者。徵選時的名字為「リソリソ」。<br />
 追加成員徵選合格者。<br />
 2018年5月1日移籍至[30]。<br />
@@ -581,14 +584,16 @@ AVTD-93976<br />
 
 **歷年作品列表**
 
-| 年份          | 歌手                   | 歌曲                          | 標題                          | 填詞       |
-| :---------- | :------------------- | :-------------------------- | :-------------------------- | :------- |
-| 2018年       | **EMPiRE**           | **Don't tell me why**       | '''THE EMPiRE STRiKES START | '''      |
-| **EMPiRE**  | **LiTTLE BOY**       | '''THE EMPiRE STRiKES START | '''                         | **YUKA** |
-| **Dope**    | **EMPiRE originals** | **MAYU**                    |                             |          |
-| **SO i YA** | **MAHO**             |                             |                             |          |
-| 2019年       | **ERASER HEAD**      | **ピアス**                     | **MAYU**                    |          |
-|             |                      |                             |                             |          |
+| 年份    | 歌手         | 歌曲                    | 標題                          | 填詞       |
+| ----- | ---------- | --------------------- | --------------------------- | -------- |
+| 2018年 | **EMPiRE** | **TOKYO MOONLiGHT**   | '''THE EMPiRE STRiKES START | '''      |
+| 2018年 | **EMPiRE** | **LiTTLE BOY**        | '''THE EMPiRE STRiKES START | '''      |
+| 2018年 | **EMPiRE** | **Don't tell me why** | '''THE EMPiRE STRiKES START | '''      |
+| 2018年 | **EMPiRE** | **コノ世界ノ片隅デ**          | '''THE EMPiRE STRiKES START | '''      |
+| 2018年 | **EMPiRE** | **SO i YA**           | **EMPiRE originals**        | **MAHO** |
+| 2018年 | **EMPiRE** | **Dope**              | **EMPiRE originals**        | **MAYU** |
+| 2018年 | **EMPiRE** | **Talk about**        | **EMPiRE originals**        | **YUKA** |
+| 2019年 | **EMPiRE** | **ERASER HEAD**       | **ピアス**                     | **MAYU** |
 
 ## 商業搭配
 
@@ -629,6 +634,11 @@ AVTD-93976<br />
   - 《TS ONE UNITED THE EMPiRE STRiKES START\!\!》（2018年、※）\[35\] -
     2018年4月
 
+### 電影
+
+  - 《The Documentary of WACK オーディション～オーケストラ物語～》 - 演出 -
+    YU-Ki、YUKA、MAYU、YUiNA
+
 ### 電視
 
   - 《早安攝影棚》
@@ -656,6 +666,7 @@ AVTD-93976<br />
 | 2019年5月18日                                    | 北海道・KLUB COUNTER ACTION |                       |                  |
 | 2019年5月19日                                    |                         |                       |                  |
 | 2019年6月9日                                     | 東京・新宿BLAZE              |                       |                  |
+| NEW EMPiRE TOUR "EVOLUTiONS"                  | 2019年7月11日              | 東京MYNAVI BLITZ赤坂      |                  |
 
 ### 活動
 
@@ -676,6 +687,8 @@ AVTD-93976<br />
 
 ## 瑣事
 
+  - 截至2018年，他們是唯一沒有獨立時期並立即在主要品牌上推出的WACK單位。
+  - MiDORiKO EMPiRE是唯一的EMPiRE成員中沒有參加WACK徵選的成員。
   - 在NOW EMPiRE加入之前不論是現任成員或是已離開的成員名稱都以M或Y開頭。
 
 ## 注釋

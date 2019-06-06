@@ -22,7 +22,7 @@ Party的官方網站上實施了名為](../Page/B'z_Party.md "wikilink")「Pleas
 
 被每日替換演奏的「[ZERO](../Page/ZERO_\(B'z單曲\).md "wikilink")」\[6\]，未收錄於本作中\[7\]。
 
-在Oricon影像榜(綜合・2019年3月25日)上，以[初動銷量紀錄](https://zh.wikipedia.org/wiki/Oricon公信榜#初動 "wikilink")44,613張DVD、70,725張Blu-ray，超越了前作『[B'z
+在Oricon影像榜(綜合・2019年3月25日)上，以首週銷量紀錄44,613張DVD、70,725張Blu-ray，超越了前作『[B'z
 LIVE-GYM 2017-2018 "LIVE
 DINOSAUR"](../Page/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR".md "wikilink")』的銷量紀錄，並達成雙項冠軍。
 
@@ -35,7 +35,7 @@ DINOSAUR"](../Page/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR".md "wikilink")』的�
 
 ### 支援樂手
 
-  - [增田隆宣](../Page/增田隆宣.md "wikilink")：[電子琴](../Page/電子琴.md "wikilink")
+  - [增田隆宣](../Page/增田隆宣.md "wikilink")：[鍵盤](../Page/鍵盤樂器.md "wikilink")
 
   - ：[爵士鼓](../Page/爵士鼓.md "wikilink")
 
@@ -112,18 +112,22 @@ DINOSAUR"](../Page/B'z_LIVE-GYM_2017-2018_"LIVE_DINOSAUR".md "wikilink")』的�
 
       -
         巡演標題曲。在本作成為首次CD化。
-        被作為在[1995年所發行的](../Page/1995年.md "wikilink")18th單曲「[LOVE
-        PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")」的續編製作\[8\]。樂曲編曲，刻意編排為近似「LOVE
-        PHANTOM」的氛圍\[9\]，本巡演的商標亦採用了「LOVE
-        PHANTOM」唱片封面所使用的相同[字體](https://zh.wikipedia.org/wiki/字體 "wikilink")。
-        松本自30週年的數年前起，便有「創作LOVE
-        PHANTOM續編」這樣的構想。之後，因認為30週年紀念巡迴演唱會是個好時機，而在「B'z
+        被作為於[1995年發行的](../Page/1995年.md "wikilink")18th單曲「[LOVE
+        PHANTOM](../Page/LOVE_PHANTOM.md "wikilink")」續編而製作的樂曲\[8\]。刻意將編曲編排為近似於「LOVE
+        PHANTOM」的氛圍\[9\]，本巡演商標亦採用了「LOVE
+        PHANTOM」唱片封面所使用的相同[字體](https://zh.wikipedia.org/wiki/字體 "wikilink")。自巡演前已暗示過樂曲本身的存在，在出道30週年紀念大型展覽會『B'z
+        30th Year Exhibition "SCENES" 1988-2018』後期展示了一部分樂譜與歌詞。\[10\]
+        松本自30週年的數年前起，便擁有「創作LOVE
+        PHANTOM續編{{\#tag:ref||group="原文"}}」這樣的構想。之後，因認為30週年紀念巡迴演唱會是良好時機，而在「B'z
         LIVE-GYM 2017-2018 "LIVE
         DINOSAUR"」巡演中向成員提案，並決定製作。但關於樂曲製作，松本回顧當時表示「雖然說時容易，但由於LOVE
-        PHANTOM的形象相當強烈，因此製作續編出乎意料地頗為辛苦{{\#tag:ref||group="原文"}}」\[10\]。
-        關於本樂曲的歌詞，根據稻葉的解說表示，因為「LOVE
-        PHANTOM」的歌詞是一首關於戀愛的故事，所以將「熄滅過一次的戀心，又再度燃起{{\#tag:ref||group="原文"}}」為形象，從該處象徵復活，並連結到象徵著重生之物的『[火鳥](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")』這樣的形象。此外，稻葉在留言中比喻，若說「LOVE
-        PHANTOM」是男人，那麼「HINOTORI」則成為了近似女人感受般的氛圍，「即便（2首歌曲的）時間軸相同，亦成為了有如表與裏的形象{{\#tag:ref||group="原文"}}」\[11\]。
+        PHANTOM的形象相當強烈，因此製作續編出乎意料地辛苦{{\#tag:ref||group="原文"}}」\[11\]。
+        關於本樂曲的歌詞，根據稻葉的解說表示，由於「LOVE
+        PHANTOM」的歌詞是一首關於戀愛的故事，因此以「熄滅過一次的戀心又再度燃起{{\#tag:ref||group="原文"}}」為形象，自其處象徵復活，並連結到象徵著重生之物的『[火鳥](https://zh.wikipedia.org/wiki/不死鳥 "wikilink")』這樣的形象。此外，稻葉在留言中比喻，若說「LOVE
+        PHANTOM」是男人，那麼「HINOTORI」則成為了類似於女人感受般的氛圍，「即便（2首歌曲的）時間軸相同，亦成為了有如表與裏般的形象{{\#tag:ref||group="原文"}}」\[12\]。
+        在本次的演唱會上並未依照音源演奏「HINOTORI」，而是以穿插在「LOVE
+        PHANTOM」曲中這樣的構成來演奏。這是在彩排演唱會時，試著分別演奏了「LOVE
+        PHANTOM」與「HINOTORI」之後，因為是有意識地完成了一首編曲相似的樂曲，所以成員便產生了「在大作結束後，又開始了相同種類的大作{{\#tag:ref||group="原文"}}」這樣的違和感。於是誕生出「與其接續著口味及濃度相當的樂曲，不如製作成更大塊如何{{\#tag:ref||group="原文"}}」這樣的主意，而成為了有如本次的構成。在巡迴演唱會結束後的粉絲俱樂部會報訪談中，松本以「結果論」作為開場白，留言表示「通過穿插的方式，雖然並非組曲，卻進一步擴大了規模。我認為最終有選擇連接起來真是太好了{{\#tag:ref||group="原文"}}」\[13\]。
 
 ## 投票點播結果
 
@@ -219,3 +223,6 @@ PARTY Presents Pleasure in Hawaii」上被演奏的曲目。(有被實際演奏�
 10.
 
 11.
+
+12.
+13.

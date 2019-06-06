@@ -21,8 +21,8 @@ World\!......應該對音樂作品的完整性提出存在的問題，在人類�
   - [Melomics Records Youtube
     Channel](https://www.youtube.com/user/melomicsrecords/)
 
-  - [Tom Service' Review of Hello World\! from [The
-    Guardian](https://zh.wikipedia.org/wiki/The_Guardian "wikilink")](https://www.theguardian.com/music/2012/jul/01/iamus-hello-world-review/)
+  - [Tom Service' Review of Hello World\! from The
+    Guardian](https://www.theguardian.com/music/2012/jul/01/iamus-hello-world-review/)
 
   -
   - [German Public Radio coverage, with

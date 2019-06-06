@@ -19,34 +19,34 @@ Inaba LIVE 2010
 
   - Corey McCormick：[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")
 
-  - ：[電子琴](../Page/電子琴.md "wikilink")
+  - ：[鍵盤](../Page/鍵盤樂器.md "wikilink")
 
   - ：[爵士鼓](../Page/爵士鼓.md "wikilink")
 
 ## 收錄影像曲
 
-1.  **Tamayura**
-2.  **マイミライ**
-3.  **The Morning Call**
+1.  **[Tamayura](../Page/Peace_Of_Mind.md "wikilink")**
+2.  **[マイミライ](../Page/Okay_\(稻葉浩志單曲\).md "wikilink")**
+3.  **[The Morning Call](../Page/Hadou.md "wikilink")**
 4.  **[Okay](../Page/Okay_\(稻葉浩志單曲\).md "wikilink")**
-5.  **エデン**
+5.  **[エデン](../Page/Hadou.md "wikilink")**
 6.  **[AKATSUKI](../Page/KI_\(稻葉浩志單曲\).md "wikilink")**
-7.  **波**
-8.  **LOVE LETTER**
-9.  **透明人間**
-10. **赤い糸**
-11. **Lone Pine**
-12. **この手をとって走り出して**
+7.  **[波](../Page/熔巖.md "wikilink")**
+8.  **[LOVE LETTER](../Page/志庵.md "wikilink")**
+9.  **[透明人間](../Page/Peace_Of_Mind.md "wikilink")**
+10. **[赤い糸](../Page/Hadou.md "wikilink")**
+11. **[Lone Pine](../Page/Hadou.md "wikilink")**
+12. **[この手をとって走り出して](../Page/Hadou.md "wikilink")**
 13. **LOST〜[Wonderland](../Page/Wonderland.md "wikilink")**
 14. **[遠くまで](https://zh.wikipedia.org/wiki/遠くまで "wikilink")**
 15. **〜jam〜**（[音樂即興演奏會](../Page/音樂即興.md "wikilink")）
-16. **CAGE FIGHT**
-17. **今宵キミト**
-18. **絶対(的)**
-19. **正面衝突**
+16. **[CAGE FIGHT](../Page/Hadou.md "wikilink")**
+17. **[今宵キミト](../Page/Hadou.md "wikilink")**
+18. **[絶対(的](../Page/Hadou.md "wikilink"))**
+19. **[正面衝突](../Page/Peace_Of_Mind.md "wikilink")**
       - encore
-20. **ハズムセカイ**
-21. **イタイケな太陽**
+20. **[ハズムセカイ](../Page/Peace_Of_Mind.md "wikilink")**
+21. **[イタイケな太陽](../Page/Hadou.md "wikilink")**
       -
         片尾職員列表使用了退場曲的未發表曲「**cocoa** 」\[2\] 。
 

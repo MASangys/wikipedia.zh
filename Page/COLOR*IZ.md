@@ -189,8 +189,8 @@ FINAL](../Page/PRODUCE_48_-_FINAL.md "wikilink")》中的所有歌曲\[12\]。[I
 <tbody>
 <tr class="odd">
 <td><p>Gaon Chart</p></td>
-<td><p>210,411（实体版）<br />
-14,990（kihno）</p></td>
+<td><p>242,773（实体版）<br />
+26,584（kihno）</p></td>
 <td><p><ref></p>
 <ul>
 <li>{{cite web|url=<a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=2018&amp;hitYear=2018&amp;termGbn=year">http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=2018&amp;hitYear=2018&amp;termGbn=year</a> |title=（2018） |publisher=South Korean Gaon Chart |language=Ko |deadurl=yes</li>

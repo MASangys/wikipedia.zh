@@ -11,10 +11,8 @@ Budgie桌面与GNOME栈紧密结合并使用其技术以提供简洁的体验。
 ## 历史
 
 Budgie起初作为Evolve OS
-[Linux发行版的默认桌面环境](../Page/Linux发行版.md "wikilink")。在Evolve
+[Linux发行版的默认桌面环境](../Page/Linux发行版.md "wikilink")，其早期版本过于缓慢且容易崩溃。但随着时间的推移，速度与可靠性均得到了提升。在Evolve
 OS更名为[Solus后](../Page/SolusOS.md "wikilink")，Budgie的开发进度不断加速。
-
-的早期版本过于缓慢且容易崩溃。但随着时间的推移，速度与可靠性均得到了提升。
 
 Budgie v1于2014年2月18日发布，v10于2015年12月27日发布。命名标准在这段期间发生了更改，现最新发布版本为10.5。
 
@@ -62,10 +60,8 @@ Budgie v1于2014年2月18日发布，v10于2015年12月27日发布。命名标�
 ## 另请参阅
 
   - [GNOME](../Page/GNOME.md "wikilink")
-
-  -
+  - [LXQt](../Page/LXQt.md "wikilink")
   - [MATE](../Page/MATE.md "wikilink")
-
   - [SolusOS](../Page/SolusOS.md "wikilink")
 
 ## 参考文献

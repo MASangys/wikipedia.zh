@@ -1,4 +1,4 @@
-Burp 或 Burp Suite（飽嗝套裝）是一个用于测试 Web
+Burp 或 Burp Suite 是一个用于测试 Web
 应用程序安全性的图形化工具。该工具使用[Java编写](../Page/Java.md "wikilink")，由PortSwigger
 Web Security开发。
 [缩略图](https://zh.wikipedia.org/wiki/File:Burp_Decoder_-_Free_Edition.png "fig:缩略图")

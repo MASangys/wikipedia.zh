@@ -111,6 +111,12 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。團體名稱的RAM
 <td><p>THROW YA FIST</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>2019年7月31日</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -137,11 +143,13 @@ zone](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。團體名稱的RAM
 
 ### 參與作品
 
-| 發行日        | 曲名                                                                     | 收錄專輯                                |
-| ---------- | ---------------------------------------------------------------------- | ----------------------------------- |
-| 2016年6月15日 | Unbreakable (vs. [GENERATIONS](../Page/放浪新世代_from_放浪一族.md "wikilink")) | V.A.『HiGH\&LOW ORIGINAL BEST ALBUM』 |
-| FIND A WAY |                                                                        |                                     |
-|            |                                                                        |                                     |
+| 發行日                                                                                           | 曲名                                                                      | 收錄專輯                                |
+| --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | ----------------------------------- |
+| 2016年6月15日                                                                                    | Unbreakable (vs. [GENERATIONS](../Page/放浪新世代_from_放浪一族.md "wikilink"))  | V.A.『HiGH\&LOW ORIGINAL BEST ALBUM』 |
+| FIND A WAY                                                                                    |                                                                         |                                     |
+| 2019年7月3日                                                                                     | SHOOT IT OUT (vs. [GENERATIONS](../Page/放浪新世代_from_放浪一族.md "wikilink")) | BATTLE OF TOKYO ～ENTER THE Jr.EXILE |
+| Dead Or Alive (vs. [BALLISTIK BOYZ](https://zh.wikipedia.org/wiki/BALLISTIK_BOYZ "wikilink")) |                                                                         |                                     |
+| MIX IT UP (vs. [FANTASTICS](../Page/FANTASTICS_from_EXILE_TRIBE.md "wikilink"))               |                                                                         |                                     |
 
 ## 演唱會
 
@@ -221,6 +229,11 @@ THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"\[8\]
   - WEEKEND THE RAMPAGE（2017年10月 - .bayfm）
   - RMPG DOPE STATION（2019年1月 - .block.fm）
 
+### 網路節目
+
+  - 登上頂點吧 THE RAMPAGE (てっぺんとるぞ THE RAMPAGE, 2018年～2019年,
+    [GYAO\!](https://zh.wikipedia.org/wiki/GYAO! "wikilink")）
+
 ### 音樂錄影帶參與
 
   - [EXILE THE SECOND](../Page/EXILE_THE_SECOND.md "wikilink")
@@ -232,13 +245,17 @@ THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"\[8\]
       - 「[WILD WILD
         WILD](../Page/WILD_WILD_WILD.md "wikilink")」（2016年9月）
 
+### 廣告
+
+  - [森永製菓](../Page/森永製菓.md "wikilink")「ICE BOX」形象代言人（2018年 - ）\[9\]
+
 ## 獎項
 
   - [MTV日本音樂錄影帶大獎2017](../Page/MTV日本音樂錄影帶大獎.md "wikilink")
     最佳新人音樂錄影帶獎"Lightning"
   - [亞洲明星盛典(Asia Artist Award)2017年](../Page/亞洲明星盛典.md "wikilink") New
     Wave獎
-  - 第32年度 [日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink") 最佳5位新人獎(音樂類) \[9\]
+  - 第32年度 [日本金唱片大獎](../Page/日本金唱片大獎.md "wikilink") 最佳5位新人獎(音樂類) \[10\]
 
 ## 腳註
 
@@ -265,3 +282,4 @@ THE RAMPAGE LIVE TOUR 2019 "THROW YA FIST"\[8\]
 7.
 8.
 9.
+10.

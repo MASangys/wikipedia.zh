@@ -82,23 +82,48 @@ One》出道的一支[韓國雙人獨立樂團](https://zh.wikipedia.org/wiki/�
 </tr>
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
+<td><p>《<strong>Stop&amp;Go</strong>》</p>
+<ul>
+<li>發行日期：2014年6月20日</li>
+<li>發行公司：</li>
+<li>語言：韓語</li>
+<li>種類：<a href="https://zh.wikipedia.org/wiki/搖滾樂" title="wikilink">Rock</a></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>4th</strong></p></td>
+<td><p>《<strong>Dialogue on the Road</strong>》</p>
+<ul>
+<li>發行日期：2019年5月10日</li>
+<li>發行公司：Mirrorball Music</li>
+<li>語言：韓語</li>
+<li>種類：<a href="../Page/獨立音樂.md" title="wikilink">Indie</a>、<a href="https://zh.wikipedia.org/wiki/民間音樂" title="wikilink">Folk</a>、<a href="../Page/藍調.md" title="wikilink">藍調</a></li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 特別專輯
+
+<table>
+<thead>
+<tr class="header">
+<th><p>"width="50px"| 順序</p></th>
+<th><p>專輯資料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
 <td><p>《<strong>Merry Christmas From J Rabbit</strong>》</p>
 <ul>
 <li>發行日期：2012年11月30日</li>
 <li>發行公司：Mirrorball Music</li>
 <li>語言：韓語</li>
 <li>種類：<a href="https://zh.wikipedia.org/wiki/謠曲" title="wikilink">Ballad</a></li>
-</ul></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>4th</strong></p></td>
-<td><p>《<em>'Stop&amp;Go</em>》</p>
-<ul>
-<li>發行日期：2014年6月20日</li>
-<li>發行公司：</li>
-<li>語言：韓語</li>
-<li>種類：<a href="https://zh.wikipedia.org/wiki/搖滾樂" title="wikilink">Rock</a></li>
 </ul></td>
 <td></td>
 </tr>
@@ -545,7 +570,7 @@ One》出道的一支[韓國雙人獨立樂團](https://zh.wikipedia.org/wiki/�
 <td><p>8月21日</p></td>
 <td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
 <td><p>春夏秋冬的森林</p></td>
-<td><p>EP14[13]</p></td>
+<td><p>EP14[13][14]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -553,42 +578,49 @@ One》出道的一支[韓國雙人獨立樂團](https://zh.wikipedia.org/wiki/�
 <td><p>2月8日—6月28日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/光州文化廣播" title="wikilink">光州 MBC</a></p></td>
 <td></td>
-<td><p>固定主持[14][15]</p></td>
+<td><p>固定主持[15][16]</p></td>
 </tr>
 <tr class="odd">
-<td><p>5月23日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS 2TV</a></p></td>
-<td><p><a href="../Page/柳喜烈的寫生簿.md" title="wikilink">柳喜烈的寫生簿</a></p></td>
-<td><p>EP229 追悼歲月號特輯[16]</p></td>
+<td><p>5月1日</p></td>
+<td><p><a href="../Page/Mnet媒體.md" title="wikilink">Mnet</a></p></td>
+<td><p>音樂 [Mju:zik]</p></td>
+<td><p>[17][18][19]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>10月30日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/EBS" title="wikilink">EBS</a></p></td>
-<td></td>
-<td><p>EP1070 (第二部)[17]</p></td>
+<td><p>5月23日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/KBS第2頻道" title="wikilink">KBS 2TV</a></p></td>
+<td><p><a href="../Page/柳喜烈的寫生簿.md" title="wikilink">柳喜烈的寫生簿</a></p></td>
+<td><p>EP229 追悼歲月號特輯[20]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>10月30日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EBS" title="wikilink">EBS</a></p></td>
+<td></td>
+<td><p>EP1070 (第二部)[21]</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2016年</p></td>
 <td><p>6月16日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/光州文化廣播" title="wikilink">光州 MBC</a></p></td>
 <td></td>
 <td><p>EP223</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7月2日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/光州文化廣播" title="wikilink">光州 MBC</a></p></td>
 <td></td>
 <td><p>EP404</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2018年</p></td>
 <td><p>5月29日—9月25日</p></td>
 <td><p><a href="../Page/JTBC.md" title="wikilink">JTBC</a></p></td>
 <td><p>S2</p></td>
-<td><p>助理MC[18]</p></td>
+<td><p>助理MC[22]</p></td>
 </tr>
 </tbody>
 </table>
@@ -613,7 +645,7 @@ One》出道的一支[韓國雙人獨立樂團](https://zh.wikipedia.org/wiki/�
 <td><p>5月7日</p></td>
 <td><p>〈It's Spring〉</p></td>
 <td><p>狎鷗亭YE HALL</p></td>
-<td><p>[19]</p></td>
+<td><p>[23]</p></td>
 </tr>
 <tr class="even">
 <td><p>2012年</p></td>
@@ -621,21 +653,21 @@ One》出道的一支[韓國雙人獨立樂團](https://zh.wikipedia.org/wiki/�
 <td><p>J Rabbit Christmas Concert 釜山場</p></td>
 <td><p>釜山Danurim Center<br />
 Danurim Hall</p></td>
-<td><p>[20]</p></td>
+<td><p>[24]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2012年</p></td>
 <td><p>12月30日</p></td>
 <td><p>J Rabbit Christmas Concert 首爾場</p></td>
 <td><p>永登浦Art Hall</p></td>
-<td><p>[21]</p></td>
+<td><p>[25]</p></td>
 </tr>
 <tr class="even">
 <td><p>2013年</p></td>
 <td><p>4月12日—13日</p></td>
 <td><p>〈그래 새롭게〉</p></td>
 <td><p>KT&amp;G想象廣場 大峙Art Hall</p></td>
-<td><p>分別為晚上8點、晚上7點開始[22]</p></td>
+<td><p>分別為晚上8點、晚上7點開始[26]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013年</p></td>
@@ -643,7 +675,7 @@ Danurim Hall</p></td>
 <td><p>J Rabbit's Summer Concert 〈STOP &amp; GO〉</p></td>
 <td><p>國立中央博物館 劇場YONG</p></td>
 <td><p>第一天為晚上7點30分開始，<br />
-其餘皆晚上6點開始[23]</p></td>
+其餘皆晚上6點開始[27]</p></td>
 </tr>
 </tbody>
 </table>
@@ -688,3 +720,7 @@ Danurim Hall</p></td>
 21.
 22.
 23.
+24.
+25.
+26.
+27.

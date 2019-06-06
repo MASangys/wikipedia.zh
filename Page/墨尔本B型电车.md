@@ -149,7 +149,7 @@ B型电车也曾在已撤销的以下路线运营
 
 8.  [Some facts about the new Melbourne tram
     network](http://www.yarratrams.com.au/media-centre/news/articles/2004/some-facts-about-the-new-melbourne-tram-network-%28from-18th-april-2004%29/)
-    Yarra Trams 19 February 2004
+     Yarra Trams 19 February 2004
 
 9.
 

@@ -32,7 +32,7 @@ POWER**（8比特音乐力量）》是[2016年](../Page/2016年.md "wikilink")[1
 ## 外部链接
 
   - [RIKI 8BIT MUSIC
-    POWER](http://riki2riki.com/html/0_sample_8bit.html)
+    POWER](https://web.archive.org/web/20160206015136/http://riki2riki.com//html//0_sample_8bit.html)
 
 [Category:红白机游戏](https://zh.wikipedia.org/wiki/Category:红白机游戏 "wikilink")
 [Category:2016年音樂專輯](https://zh.wikipedia.org/wiki/Category:2016年音樂專輯 "wikilink")

@@ -1,3 +1,5 @@
+-----
+
 **咖啡因 Garphine Liu**（）
 [台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[電視](https://zh.wikipedia.org/wiki/電視 "wikilink")[編劇](../Page/編劇.md "wikilink")、[作家](https://zh.wikipedia.org/wiki/作家 "wikilink")，本名劉以飛，筆名咖啡因，亦曾使用過珈琲因為筆名。
 兩性作家背景，出版過《男人都是詐騙集團》等十多本書，後將創作舞台延伸到編劇領域，代表作有《[姊的時代](../Page/姊的時代.md "wikilink")》、《[微笑PASTA](../Page/微笑PASTA.md "wikilink")》、《[愛情回來了](https://zh.wikipedia.org/wiki/愛情回來了 "wikilink")》、《[誰來坐大位](https://zh.wikipedia.org/wiki/誰來坐大位 "wikilink")》（公視，入圍98年度金鐘獎迷你劇集編劇）等，目前活躍於兩岸編劇圈。作品涵蓋偶像劇、古裝、民初戲、推理、親子、動畫、武俠、奇幻、文藝各類型。
@@ -18,10 +20,8 @@
   - 2003年：《[阿薩布路一號](https://zh.wikipedia.org/wiki/阿薩布路一號 "wikilink")》（衛視中文台）\[1\]
   - 2003年：《[微笑PASTA](../Page/微笑PASTA.md "wikilink")》（台視、三立）\[2\]
   - 2008年：《[誰來坐大位](https://zh.wikipedia.org/wiki/誰來坐大位 "wikilink")》（公視，入圍98年度金鐘獎迷你劇集編劇）\[3\]
-  - 2010年：《[摩登新人類](../Page/摩登新人類.md "wikilink")》（[東南衛視](https://zh.wikipedia.org/wiki/東南衛視 "wikilink")、[南方衛視](https://zh.wikipedia.org/wiki/南方衛視 "wikilink")、[壹電視](../Page/壹電視.md "wikilink")）
-    \[4\]
-  - 2011年：《[小真的六度波羅蜜](https://zh.wikipedia.org/wiki/小真的六度波羅蜜 "wikilink")》（佛陀文教基金會）
-    \[5\]
+  - 2010年：《[摩登新人類](../Page/摩登新人類.md "wikilink")》（[東南衛視](https://zh.wikipedia.org/wiki/東南衛視 "wikilink")、[南方衛視](https://zh.wikipedia.org/wiki/南方衛視 "wikilink")、[壹電視](../Page/壹電視.md "wikilink")）\[4\]
+  - 2011年：《[小真的六度波羅蜜](https://zh.wikipedia.org/wiki/小真的六度波羅蜜 "wikilink")》（佛陀文教基金會）\[5\]
   - 2011年：《紅樓夢大觀園、紅樓夢通靈寶玉》（明日工作室，榮獲數位內容產品獎）
   - 2012年：《[愛啊哎呀，我願意](../Page/愛啊哎呀，我願意.md "wikilink")》（土豆網、安徽衛視、深圳衛視、中視）\[6\]
   - 2014年：《[愛情回來了](https://zh.wikipedia.org/wiki/愛情回來了 "wikilink")》（安徽衛視、陝西衛視、廣東衛視）
@@ -92,7 +92,7 @@
 [:Category:劉姓](https://zh.wikipedia.org/wiki/Category:劉姓 "wikilink")
 [:Category:台灣編劇](https://zh.wikipedia.org/wiki/Category:台灣編劇 "wikilink")
 [:Category:作家](https://zh.wikipedia.org/wiki/Category:作家 "wikilink")
-[G](https://zh.wikipedia.org/wiki/Category:世新大學校友 "wikilink")
+[:Category:世新大學校友](https://zh.wikipedia.org/wiki/Category:世新大學校友 "wikilink")
 
 1.
 2.

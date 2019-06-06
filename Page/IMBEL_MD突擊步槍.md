@@ -19,7 +19,7 @@ FAL經重新設計、以發射5.56×45毫米北约口徑子彈的機構取代原
 MD可說是FN
 FAL的90％整體加上M16A1的10％成分。該槍亦可發射[22毫米](../Page/22毫米槍榴彈.md "wikilink")[槍榴彈](../Page/步槍用榴彈.md "wikilink")，裝上[兩腳架和](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")[刺刀](../Page/刺刀.md "wikilink")。
 
-早期的MD-1原型槍保留了FAL型，並且在緊靠著彈匣插槽的後方裝有閉鎖肩。其後發現這與5.56毫米北约子彈不適配，因而在後續原型和最終定型的設計當中加入了M16型七鎖耳[滾轉式槍機](../Page/滾轉式槍機.md "wikilink")。FAL的[短行程活塞氣動式是從](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#短行程活塞傳動 "wikilink")[槍管通過位於](../Page/槍管.md "wikilink")[準星殼體以內的氣導孔放出的高壓燃氣所驅動](../Page/照準器.md "wikilink")，而在槍機機框以上獨立起來並且承受燃氣撞擊的連桿則獲保留。
+早期的MD-1原型槍保留了FAL型，並且在緊靠著彈匣插槽的後方裝有閉鎖肩。其後發現這與5.56毫米北约子彈不適配，因而在後續原型和最終定型的設計當中加入了M16型七鎖耳[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")。FAL的[短行程活塞氣動式是從](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#短行程活塞傳動 "wikilink")[槍管通過位於](../Page/槍管.md "wikilink")[準星殼體以內的氣導孔放出的高壓燃氣所驅動](../Page/照準器.md "wikilink")，而在槍機機框以上獨立起來並且承受燃氣撞擊的連桿則獲保留。
 
 該步槍是由與M16兼容的[STANAG
 4179彈匣所供彈](../Page/STANAG彈匣.md "wikilink")。版本的不同之處在於MD-2採用了來自FN

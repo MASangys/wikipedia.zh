@@ -20,7 +20,7 @@ Inaba LIVE 2016
 
   - [稻葉浩志](../Page/稻葉浩志.md "wikilink")：[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[吉他](../Page/吉他.md "wikilink")、[藍調口琴](../Page/口琴.md "wikilink")
 
-  - ：[電子琴](../Page/電子琴.md "wikilink")
+  - ：[鍵盤](../Page/鍵盤樂器.md "wikilink")
 
   - Corey McCormick：[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")
 

@@ -6,16 +6,20 @@ Works**）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀
 ### Solo歌手
 
   - [白智榮](../Page/白智榮.md "wikilink")
-  - [孔旻智](../Page/孔旻智.md "wikilink")
-  - [柳星恩](https://zh.wikipedia.org/wiki/柳星恩 "wikilink")
-  - [金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")
-  - 宋有彬 ([MYTEEN](../Page/MYTEEN.md "wikilink"))
-  - 奉久 (GB9)
 
+  - [孔旻智](../Page/孔旻智.md "wikilink")
+
+  - [柳星恩](https://zh.wikipedia.org/wiki/柳星恩 "wikilink")
+
+  - [金昭希](https://zh.wikipedia.org/wiki/金昭希_\(歌手\) "wikilink")
+
+  -
+  -
 ### 組合
 
-  - [MYTEEN](../Page/MYTEEN.md "wikilink")
-  - GB9
+  - ：、
+
+  - [MYTEEN](../Page/MYTEEN.md "wikilink")：恩洙、天真、[國憲](../Page/金國憲.md "wikilink")、準燮、、漢瑟
 
 ### 演員
 
@@ -25,13 +29,16 @@ Works**）是[韓國的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[經紀
 
 ## 外部連結
 
-  - [MusicWorks網址](http://themusicworks.co.kr/)
+  - MUSIC WORKS
 
-  - [MusicWorksInstagram](https://www.instagram.com/officialmwent/)
+<!-- end list -->
 
-  - [MusicWorksTwitter](https://twitter.com/official_mwent)
+  -
 
-  - [MusicWorksFacebook](https://www.facebook.com/officialmusicworks/)
+  -
+  -
+  -
+  - [MUSIC WORKS的VLive頻道](https://channels.vlive.tv/F4A151)
 
   -
 [Category:韓國藝人經紀公司](https://zh.wikipedia.org/wiki/Category:韓國藝人經紀公司 "wikilink")

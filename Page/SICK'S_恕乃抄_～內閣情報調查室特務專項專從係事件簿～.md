@@ -1445,7 +1445,6 @@ Saga”的完结篇\[1\]。SICK'S系列包含三部连续剧作品，这部作�
 [Category:繼續](https://zh.wikipedia.org/wiki/Category:繼續 "wikilink")
 [Category:2018年亮相的日本網絡劇](https://zh.wikipedia.org/wiki/Category:2018年亮相的日本網絡劇 "wikilink")
 [Category:2018年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2018年開播的日本電視劇集 "wikilink")
-[Category:日本網絡劇](https://zh.wikipedia.org/wiki/Category:日本網絡劇 "wikilink")
 [Category:TBS電視劇](https://zh.wikipedia.org/wiki/Category:TBS電視劇 "wikilink")
 [Category:超能力題材電視劇](https://zh.wikipedia.org/wiki/Category:超能力題材電視劇 "wikilink")
 [Category:间谍题材电视剧](https://zh.wikipedia.org/wiki/Category:间谍题材电视剧 "wikilink")

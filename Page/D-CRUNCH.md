@@ -98,9 +98,6 @@ Entertainment的練習生](../Page/Imagine_Asia.md "wikilink")。
 
 ### **D-CRUNCH**（**디크런치**）
 
-  - 首張單曲《0806》(2018年8月6日)
-  - 迷你一輯《M1112(4colors)》(2018年11月12日)
-
 <table>
 <thead>
 <tr class="header">
@@ -114,12 +111,14 @@ Entertainment的練習生](../Page/Imagine_Asia.md "wikilink")。
 <tr class="odd">
 <td><p>2018</p></td>
 <td><p>8月6日</p></td>
-<td><p>《0806》</p></td>
+<td><p>首張單曲<br />
+《0806》</p></td>
 <td><p>1. Palace 2. I want</p></td>
 </tr>
 <tr class="even">
 <td><p>11月12日</p></td>
-<td><p>《M1112(4colors)》</p></td>
+<td><p>迷你一輯<br />
+《M1112(4colors)》</p></td>
 <td><p>1.보고싶게 (I miss you) 2.STEALER</p>
 <p>3.I'm OK</p>
 <p>4.지금 (now)</p>

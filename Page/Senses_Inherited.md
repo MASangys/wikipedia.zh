@@ -4,6 +4,10 @@ Inherited**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.m
 此專輯是[張敬軒向](https://zh.wikipedia.org/wiki/張敬軒 "wikilink")[林憶蓮於](../Page/林憶蓮.md "wikilink")[1996年推出的粵語專輯](../Page/1996年.md "wikilink")《[感覺完美](../Page/感覺完美.md "wikilink")》作致敬而推出的作品\[2\]，亦刻意找來有份參與《[感覺完美](../Page/感覺完美.md "wikilink")》的音樂人[周國儀](https://zh.wikipedia.org/wiki/周國儀 "wikilink")（Mac
 Chew）為他整張唱片進行編曲工作（《天才兒童1985》除外）。值得一提的是，此專輯為香港樂壇少數能夠所有派台歌曲均於同年內榮獲**四台冠軍歌**美譽的粵語專輯。
 
+國際唱片業協會（香港會）於2019年5月9日在香港舉行的新聞發布會上宣布《Senses
+Inherited》在一年內達到金唱片銷量。《Senses
+Inherited》打破多項紀錄，在香港唱片商會銷量榜10週冠軍，是過去10年最多冠軍週數唱片。
+
 ## 曲目列表
 
 ## 專輯派台歌曲成績

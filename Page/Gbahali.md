@@ -1,5 +1,5 @@
 [缩略图](https://zh.wikipedia.org/wiki/File:Postosuchus_kirkpatricki.jpg "fig:缩略图")
-**Gbahali**是一种出没于[利比里亚的](../Page/利比里亚.md "wikilink")[神秘动物](../Page/神秘生物列表.md "wikilink")，据说这是一种类似[波斯特鳄的肉食性动物](../Page/波斯特鱷屬.md "wikilink")，长20-30英尺（6-9.1米），通常出没于非常偏僻的河流附近。\[1\]
+**Gbahali**（吉巴哈利）是一种出没于[利比里亚的](../Page/利比里亚.md "wikilink")[神秘动物](../Page/神秘生物列表.md "wikilink")，据说这是一种类似[波斯特鳄的肉食性动物](../Page/波斯特鱷屬.md "wikilink")，长20-30英尺（6-9.1米），通常出没于非常偏僻的河流附近。\[1\]
 
 ## 历史
 

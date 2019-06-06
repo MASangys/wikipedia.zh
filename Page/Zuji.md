@@ -20,6 +20,7 @@ Zuji是由旗下的與亞洲區內多家航空公司在2002年聯手創立。200
 [Category:旅遊公司](https://zh.wikipedia.org/wiki/Category:旅遊公司 "wikilink")
 [Category:網路公司](https://zh.wikipedia.org/wiki/Category:網路公司 "wikilink")
 [Category:線上旅行社](https://zh.wikipedia.org/wiki/Category:線上旅行社 "wikilink")
+[Category:2018年关闭的网站](https://zh.wikipedia.org/wiki/Category:2018年关闭的网站 "wikilink")
 
 1.  [Webjet：出售OTA Zuji 新增FIT
     Ruums业务](https://www.pinchain.com/article/98088)

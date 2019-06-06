@@ -5,7 +5,7 @@ Classic**是[索尼互动娱乐开发和发售的一款](https://zh.wikipedia.or
 
 [PSX-Console-wController.jpg](https://zh.wikipedia.org/wiki/File:PSX-Console-wController.jpg "fig:PSX-Console-wController.jpg")
 PlayStation
-Classic的外形与原版PlayStation相似，但长宽尺寸缩减至原版的45%（149mm×33mm×105mm），体积只有原版的80%，总重量约170g。除主机外，官方配置还包括两只初代[DualShock手柄](../Page/DualShock.md "wikilink")、一根[microUSB连接线和一根](https://zh.wikipedia.org/wiki/microUSB "wikilink")[HDMI连接线](../Page/HDMI.md "wikilink")，所有外设都与原版PlayStation外设互不通用\[2\]。机器使用[USB接口供电](../Page/USB.md "wikilink")，最高支持720P高清画质输出。硬件方面，该机采用采用[联发科MTK](https://zh.wikipedia.org/wiki/联发科 "wikilink")
+Classic的外形与原版PlayStation相似，但长宽尺寸缩减至原版的45%（149mm×33mm×105mm），体积只有原版的80%，总重量约170g。除主机外，官方配置还包括两只手柄（与原版PlayStation手柄设计相似，但接口不同）、一根[microUSB连接线和一根](https://zh.wikipedia.org/wiki/microUSB "wikilink")[HDMI连接线](../Page/HDMI.md "wikilink")，所有外设都与原版PlayStation外设互不通用\[2\]。机器使用[USB接口供电](../Page/USB.md "wikilink")，最高支持720P高清画质输出。硬件方面，该机采用采用[联发科MTK](https://zh.wikipedia.org/wiki/联发科 "wikilink")
 MT8167A芯片，集成[ARM](https://zh.wikipedia.org/wiki/ARM "wikilink") Cortex
 A35 CPU和[PowerVR](../Page/PowerVR.md "wikilink") GE8300
 GPU，配备1GB运行内存和16GB存储空间；游戏载体并非传统的[光盘或](https://zh.wikipedia.org/wiki/光盘 "wikilink")[记忆卡](https://zh.wikipedia.org/wiki/记忆卡 "wikilink")，而是机器内部存储器。软件方面，索尼并没有为该机单独开发操作平台，而是使用了基于第三方PlayStation[模拟器PCSX](https://zh.wikipedia.org/wiki/模拟器 "wikilink")

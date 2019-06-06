@@ -4,9 +4,9 @@ II**（型号：**ILCE-7RM2**，简称**A7R2**）\[1\]是一款[全画幅](../Pa
 ## 另见
 
   - [索尼A7相机比较](../Page/索尼α7.md "wikilink")
-  - 索尼A7R III
-  - 索尼A7II
-  - 索尼A9
+  - [索尼A7R III](https://zh.wikipedia.org/wiki/索尼_α7RIII "wikilink")
+  - [索尼A7II](https://zh.wikipedia.org/wiki/索尼A7II "wikilink")
+  - [索尼A9](https://zh.wikipedia.org/wiki/索尼A9 "wikilink")
   - [Exmor R
     ](../Page/Exmor.md "wikilink")
 
@@ -14,9 +14,10 @@ II**（型号：**ILCE-7RM2**，简称**A7R2**）\[1\]是一款[全画幅](../Pa
 
 ## 外部链接
 
-  - [Sony α7R II](http://m.dpreview.com/products/sony/slrs/sony_a7rii)
+  - [索尼α7R II](https://www.dpreview.com/products/sony/slrs/sony_a7rii)
     dpreview
 
+[Category:索尼相機](https://zh.wikipedia.org/wiki/Category:索尼相機 "wikilink")
 [Category:2015年面世的相機](https://zh.wikipedia.org/wiki/Category:2015年面世的相機 "wikilink")
 
 1.

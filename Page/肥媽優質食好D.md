@@ -1,4 +1,4 @@
-《**肥媽優質食好D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的飲食節目](../Page/電視廣播有限公司.md "wikilink")[食平D系列第八輯](../Page/食平D系列.md "wikilink")，惟節目名稱已經再沒有用「食平D」作節目名，因為節目要求高貴，此節目繼續由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明擔任主持](../Page/陸浩明.md "wikilink")。本節目於[香港時間](../Page/香港時間.md "wikilink")2018年10月29日起，逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[myTV
+《**肥媽優質食好D**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司拍攝製作的飲食節目](../Page/電視廣播有限公司.md "wikilink")**食平D系列**第八輯，惟節目名稱已經再沒有用「食平D」作節目名，因為節目要求高貴，此節目繼續由[肥媽](../Page/肥媽.md "wikilink")、[陸浩明擔任主持](../Page/陸浩明.md "wikilink")。本節目於[香港時間](../Page/香港時間.md "wikilink")2018年10月29日起，逢星期一至五22:30－23:00在[翡翠台](../Page/翡翠台.md "wikilink")、[myTV
 SUPER播出](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")，並於[myTV
 SUPER提供節目重溫](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")（集數上傳7天後會刪除）。\[1\]\[2\]。為無綫電視50+1週年「[台慶獻禮](https://zh.wikipedia.org/wiki/無綫電視台慶相關活動#台慶鉅獻／台慶獻禮 "wikilink")」之一。
 

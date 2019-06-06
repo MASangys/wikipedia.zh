@@ -382,6 +382,7 @@ Ma發揮其敏銳的推理能力揭開真相的故事。\[1\]
 [Category:小說改編韓國電視劇](https://zh.wikipedia.org/wiki/Category:小說改編韓國電視劇 "wikilink")
 [Category:推理小說改編電視劇](https://zh.wikipedia.org/wiki/Category:推理小說改編電視劇 "wikilink")
 [Category:2018年韓國電視劇集](https://zh.wikipedia.org/wiki/Category:2018年韓國電視劇集 "wikilink")
+[Category:克莉絲蒂作品改編電視劇](https://zh.wikipedia.org/wiki/Category:克莉絲蒂作品改編電視劇 "wikilink")
 
 1.
 2.

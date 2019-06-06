@@ -10,7 +10,7 @@ Sunshine\!\!的相关动画作品](https://zh.wikipedia.org/wiki/LoveLive!_Sunsh
 
 在各自分離後才初次意識到，彼此間的存在是如此重要… 為了踏出嶄新的一步，Aqours 追尋到的答案又是——?
 
-邁向大家的共同目標，閃閃發光的前方！呈現給所有向未來展翅的人們，最閃亮的Live Entertainment Movie！
+邁向大家的共同目標，閃閃發光的前方！
 
 呈現給所有向未來展翅的人們，最閃亮的Live Entertainment Movie\!
 

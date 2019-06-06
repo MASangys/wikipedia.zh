@@ -1,4 +1,5 @@
 
+
 {| class="wikitable" |+ | colspan="4" |
 
 1.  格式問題，請參考其他同性質文章（如[利福平](../Page/利福平.md "wikilink")）來修改格式。請善用連結翻譯器
@@ -52,10 +53,11 @@ medication](../Page/通用名药物.md "wikilink"). The wholesale price is as of
 
 ## 醫藥用途
 
-恩替卡韋主要用於長期為B肝的成年患者、兩歲幼童或年齡較大的小孩。病毒複製活耀會有活動性疾病的跡象能使肝酶升高。\[15\]恩替卡韋也適用在肝臟移植手術後的病患，可預防再次感染B型肝炎病毒，\[16\]和治療愛滋病病毒的病患。恩替卡韋對B型肝炎病毒的活性較弱，但不推薦用在同時感染B型肝炎病毒和愛滋病病毒的病患，因為沒有方案可以完全抑制抗-愛滋病病毒。\[17\]
+恩替卡韋主要用於長期為B肝的成年患者、兩歲幼童或年齡較大的小孩。病毒複製活耀會有活動性疾病的跡象能使肝酶升高。\[15\]恩替卡韋也適用在肝臟移植手術後的病患，可預防再次感染B型肝炎病毒，\[16\]和治療愛滋病病毒的病患。恩替卡韋對愛滋病病毒的活性較弱，但不推薦用在同時感染B型肝炎病毒和愛滋病病毒的病患，會沒有辦法完全抑制抗-愛滋病病毒。\[17\]因為同時服用治療B型肝炎病毒的藥物恩替卡韋愛滋病病毒的藥物干安能和舒發泰膜衣錠會讓愛滋病病毒產生抗藥性。\[18\]
 
-as it may select for resistance to lamivudine and emtricitabine in
-HIV.\[18\]
+恩替卡韋的效力被
+
+研究的 雙盲測試 多中心試驗
 
 Entecavir is mainly used to treat chronic hepatitis B infection in
 adults and children 2 years and older with active viral replication and
@@ -80,14 +82,7 @@ exist in pregnant women.\[24\]
 
 ## 副作用
 
-The majority of people who use entecavir have little to no side
-effects.\[25\] The most common side effects include headache, fatigue,
-dizziness, and nausea.\[26\] Less common effects include [trouble
-sleeping](../Page/失眠.md "wikilink") and gastrointestinal symptoms such
-as sour stomach, diarrhea, and vomiting.\[27\]
-
-Serious side effects from entecavir include lactic acidosis, , , and
-.\[28\]
+恩替卡韋最主要的副作用包跨頭痛，疲乏，頭暈和噁心\[25\]，但服用恩替卡韋的病患幾乎沒有副作用。\[26\]恩替卡韋少部分則有[失眠和胸口作嘔](../Page/失眠.md "wikilink")，腹瀉和嘔吐的胃腸道癥狀。\[27\]恩替卡韋嚴重的副作用包括乳酸中毒，，和。\[28\]
 
 Laboratory tests may show an increase in [alanine
 transaminase](../Page/谷丙转氨酶.md "wikilink") (ALT),
@@ -97,53 +92,43 @@ function and hematology are recommended.\[30\]
 
 ## 作用機制
 
-Entecavir is a ,\[31\] or more specifically, a
-[deoxyguanosine](https://zh.wikipedia.org/wiki/脫氧鳥苷 "wikilink")  that
-belongs to a class of s and inhibits [reverse
-transcription](../Page/逆转录酶.md "wikilink"), [DNA
-replication](../Page/DNA复制.md "wikilink") and
-[transcription](../Page/转录.md "wikilink") in the  process. Other
-nucleoside and nucleotide analogues include
-[lamivudine](../Page/拉米夫定.md "wikilink"), , [adefovir
-dipivoxil](../Page/阿德福韦.md "wikilink"), and
-[tenofovir](../Page/替诺福韦二吡呋酯.md "wikilink").
+恩替卡韋是一種\[31\]，也是一種的[脫氧鳥苷](https://zh.wikipedia.org/wiki/脫氧鳥苷 "wikilink")。恩替卡韋在的過程中,也可抑制[反轉錄酶](../Page/逆转录酶.md "wikilink")，[DNA複製和](../Page/DNA复制.md "wikilink")[轉錄](../Page/转录.md "wikilink")。
 
-Entecavir reduces the amount of HBV in the blood by reducing its ability
-to multiply and infect new cells.\[32\]
+其他核苷和核苷酸類似物包跨[拉米夫定](../Page/拉米夫定.md "wikilink")，，
+[阿德福韋和](../Page/阿德福韦.md "wikilink")[替諾福韋二吡呋酯](../Page/替诺福韦二吡呋酯.md "wikilink")。
+
+恩替卡韋可減少血液裡乙型肝炎病毒的數量和降低感染上皮細胞的次數。\[32\]
+
+
 
 ## 服用方法
 
-Entecavir is taken by mouth as a tablet or solution. Doses are based on
-a person's weight.\[33\] The solution is recommended for children more
-than 2 years old who weigh up to 30 kg. Entecavir is recommended on an
-empty stomach at least 2 hours before or after a meal, generally at the
-same time every day. It is not used in children less than 2 years old.
-Dose adjustments are also recommended for people with decreased kidney
-function.\[34\]
+恩替卡韋可以是藥片，也可以是藥水，以口服方式服用。
+藥用量以個人的體重為基礎。\[33\]藥水建議給兩歲以上的小孩或是體重超過30公斤的人服用，兩歲以下的小孩則不可使用恩替卡韋。恩替卡韋建議在空腹前兩個小時或是餐後服用。恩替卡韋也可治療腎功能下降的病患。
 
 ## 歷史
 
-  - 1992: SQ-34676 at Squibb as part of anti-herpes virus program\[35\]
+  - 1992: SQ-34676 at Squibb as part of anti-herpes virus program\[34\]
   - 1997: BMS 200475 developed at BMS pharmaceutical research institute
     as antiviral nucleoside analogue à Activity demonstrated against
     HBV, HSV-1, HCMV, VZV in cell lines & no or little activity against
-    HIV or influenza\[36\]
+    HIV or influenza\[35\]
   - Superior activity observed against HBV pushed research towards BMS
     200475, its base analogues and its enantiomer against HBV in
-    HepG2.2.15 cell line\[37\]
+    HepG2.2.15 cell line\[36\]
   - Comparison to other NAs, proven more selective potent inhibitor of
-    HBV by virtue of being Guanine NA\[38\]
+    HBV by virtue of being Guanine NA\[37\]
   - 1998: Inhibition of hepadnaviral polymerases was demonstrated in
-    vitro in comparison to a number of NAs-TP\[39\]
+    vitro in comparison to a number of NAs-TP\[38\]
   - Metabolic studies showed more efficient phosphorylation to
-    triphosphate active form\[40\]
+    triphosphate active form\[39\]
   - 3-year treatment of woodchuck model of CHB à sustained antiviral
     efficacy and prolonged life spans without detectable emergence of
-    resistance\[41\]
-  - Efficacy \# LVD resistant HBV replication in vitro\[42\]
+    resistance\[40\]
+  - Efficacy \# LVD resistant HBV replication in vitro\[41\]
   - Superior activity compared to LVD in vivo for both HBeAg+ & HBeAg−
-    patients\[43\]\[44\]
-  - Efficacy in LVD refractory CHB patients\[45\]
+    patients\[42\]\[43\]
+  - Efficacy in LVD refractory CHB patients\[44\]
   - Entecavir was approved by the U.S.
     [FDA](../Page/美国食品药品监督管理局.md "wikilink") in
     March 2005.
@@ -152,11 +137,11 @@ function.\[34\]
 
 Bristol-Myers Squibb was the original patent holder for Baraclude, the
 brand name of entecavir in the US and Canada. The drug patent expiration
-for Baraclude was in 2015.\[46\]\[47\] On August 26, 2014, [Teva
+for Baraclude was in 2015.\[45\]\[46\] On August 26, 2014, [Teva
 Pharmaceuticals USA](../Page/梯瓦.md "wikilink") gained FDA approval for
-generic equivalents of Baraclude 0.5 mg and 1 mg tablets;\[48\]
-received such approval on August 21, 2015;\[49\] and  on August 26,
-2015.\[50\]
+generic equivalents of Baraclude 0.5 mg and 1 mg tablets;\[47\]
+received such approval on August 21, 2015;\[48\] and  on August 26,
+2015.\[49\]
 
 ## 參考文獻
 
@@ -214,11 +199,12 @@ received such approval on August 21, 2015;\[49\] and  on August 26,
 24.
 
 25.
-
 26.
+
 27.
 
 28.
+
 29.
 
 30.
@@ -227,18 +213,18 @@ received such approval on August 21, 2015;\[49\] and  on August 26,
 32.
 
 33.
-
-34.
-35. Slusarchyk, W. A., A. K. Field, J. A. Greytok, P. Taunk, A. V.
+34. Slusarchyk, W. A., A. K. Field, J. A. Greytok, P. Taunk, A. V.
     Tooumari, M. G. Young, and R. Zahler.
     4-Hydroxy-3-(hydroxymethyl)-2-methylcyclopentyl purines and
     pyrimidines, a novel class of anti-herpesvirus agents. Abstract from
     the Fifth International Conference on Antiviral Research. Antivir
     Res 1992.17(Suppl. 1):98
 
-36.
+35.
 
+36.
 37.
+
 38.
 
 39.
@@ -262,5 +248,3 @@ received such approval on August 21, 2015;\[49\] and  on August 26,
 48.
 
 49.
-
-50.

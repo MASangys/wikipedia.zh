@@ -6,7 +6,7 @@
 
 ### 熱捧劇站
 
-[香港時間逢星期一至五](../Page/香港時間.md "wikilink")13:30-15:00播出，逢星期二至六04:30-06:00重播
+[香港時間逢星期一至五](../Page/香港時間.md "wikilink")13:30-15:00播出，逢星期二至六04:30-06:00重播；6月5日起改為逢星期一至五13:30-14:45播出，逢星期二至六04:30-05:45重播（**除特別註明外，逢公眾假期暫停播映**）
 
 <table style="width:344%;">
 <colgroup>
@@ -44,7 +44,7 @@ Drinking Solo</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now觀星台電視劇集列表_(2016年).md" title="wikilink">2016年now觀星台劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>），於<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台首播時不設粵語配音</a>，1月1日暫停播映</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/tvN" title="wikilink">tvN</a>），於<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台首播時不設粵語配音</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -58,7 +58,7 @@ On the Way to the Airport</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now觀星台電視劇集列表_(2016年).md" title="wikilink">2016年now觀星台劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a>），於<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台首播時不設粵語配音</a>，2月5日至7日暫停播映</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a>），於<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台首播時不設粵語配音</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -100,7 +100,7 @@ Queen for Seven Days</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2017年).md" title="wikilink">2017年now劇集台劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a>），4月5日、19日、22日及5月1日暫停播映</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/KBS" title="wikilink">KBS</a>）</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -114,14 +114,14 @@ Innocent Defendant</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2017年).md" title="wikilink">2017年now觀星台劇集</a></span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a>），於<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台首播時不設粵語配音</a>，5月13日暫停播映</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a>），於<a href="https://zh.wikipedia.org/wiki/now觀星台" title="wikilink">now觀星台首播時不設粵語配音</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>30/05-<br />
-24/06</p></td>
+25/06</p></td>
 <td style="text-align: center;"><p><a href="../Page/悄悄話_(電視劇).md" title="wikilink">悄悄話</a><br />
 Whisper</p></td>
 <td style="text-align: center;"><p>18</p></td>
@@ -129,6 +129,20 @@ Whisper</p></td>
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
 </div></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/SBS_(韓國).md" title="wikilink">SBS</a>）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>26/06-<br />
+25/07</p></td>
+<td style="text-align: center;"><p><a href="../Page/醫療船_(韓國電視劇).md" title="wikilink">醫療船</a><br />
+Hospital Ship</p></td>
+<td style="text-align: center;"><p>21</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>）</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -185,7 +199,21 @@ Legend of Fu Yao</p></td>
 插：血如墨（<a href="../Page/张碧晨.md" title="wikilink">张碧晨</a>）<br />
 插：傲红尘（<a href="../Page/尤长靖.md" title="wikilink">尤长靖</a>）<br />
 插：少年（<a href="https://zh.wikipedia.org/wiki/孙郡" title="wikilink">孙郡</a>）</p></td>
-<td style="text-align: center;"><p>外購劇（<a href="../Page/中國.md" title="wikilink">中國上海檸萌影視傳媒有限公司</a>），1月10日早上重播時段改為10:00-10:30，1月25日、2月6日、27日及4月12日暫停播映，2月5日、6日及5月13日早上重播時段改為09:30-10:00，3月5日、4月5日、19日、22日、5月1日及9日暫停早上重播時段</p></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/中國.md" title="wikilink">中國上海檸萌影視傳媒有限公司</a>），1月10日早上重播時段改為10:00-10:30，1月25日、2月6日、27日及4月12日暫停播映，2月5日、6日及5月13日早上重播時段改為09:30-10:00，3月5日、4月5日、19日、22日、5月1日、9日、31日、6月3日、6日及7日暫停早上重播時段</p></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>17/06-<br />
+</p></td>
+<td style="text-align: center;"><p><a href="../Page/Legal_V～前律師·小鳥遊翔子～.md" title="wikilink">Legal V～前律師·小鳥遊翔子～</a><br />
+Legal V</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2018年).md" title="wikilink">2018年now劇集台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -315,6 +343,21 @@ My Secret, Terrius</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>）</p></td>
 </tr>
+<tr class="even">
+<td style="text-align: center;"><p>26/06-<br />
+29/07</p></td>
+<td style="text-align: center;"><p><a href="../Page/愛上變身情人_(電視劇).md" title="wikilink">變身有情人</a><br />
+The Beauty Inside</p></td>
+<td style="text-align: center;"><p>24</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/Now劇集台電視劇集列表_(2019年).md" title="wikilink">2019年now劇集台劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/now劇集台" title="wikilink">now劇集台播出時名為</a>《The Beauty Inside》<br />
+外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="../Page/JTBC.md" title="wikilink">JTBC</a>）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
 </tbody>
 </table>
 
@@ -368,26 +411,39 @@ Being an Actor</p></td>
 07/06</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/婚內情" title="wikilink">婚內情</a><br />
 Till Death Do Us Part</p></td>
-<td style="text-align: center;"><p>30</p></td>
+<td style="text-align: center;"><p>31</p></td>
 <td style="text-align: center;"><p><a href="../Page/鄧萃雯.md" title="wikilink">鄧萃雯</a>、<a href="../Page/陳錦鴻.md" title="wikilink">陳錦鴻</a>、<a href="../Page/廖碧兒.md" title="wikilink">廖碧兒</a>、<br />
-<a href="../Page/林德信.md" title="wikilink">林德信</a>、<a href="../Page/談善言.md" title="wikilink">談善言</a>、<a href="../Page/許博文.md" title="wikilink">強　尼</a>、<br />
-、<a href="../Page/袁富華.md" title="wikilink">袁富華</a></p></td>
+<a href="../Page/林德信.md" title="wikilink">林德信</a>、<a href="../Page/談善言.md" title="wikilink">談善言</a>、<a href="../Page/許博文.md" title="wikilink">強　尼</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/till-death-do-us-part">網頁</a></p></td>
 <td style="text-align: center;"><p>主：快樂到死（<a href="../Page/黃耀明.md" title="wikilink">黃耀明</a>、<a href="../Page/關淑怡.md" title="wikilink">關淑怡</a>）</p></td>
-<td style="text-align: center;"><p>&lt;!--|- |-<br />
-</p></td>
+<td style="text-align: center;"><p>第31集於6月9日（星期日）22:00-23:00播出</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"></td>
-<td style="text-align: center;"><p><br />
-</p></td>
+<td style="text-align: center;"><p>10/06-<br />
+05/07</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/教束" title="wikilink">教束</a><br />
+Limited Education</p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p><a href="../Page/周國賢.md" title="wikilink">周國賢</a>、<a href="../Page/駱振偉.md" title="wikilink">駱振偉</a>、、<a href="../Page/吳浩康.md" title="wikilink">吳浩康</a>、<a href="../Page/岑樂怡.md" title="wikilink">岑樂怡</a></p></td>
-<td style="text-align: center;"><p>周國賢</p></td>
+<td style="text-align: center;"><p><a href="../Page/廖啟智.md" title="wikilink">廖啟智</a>、<a href="../Page/陳秀雯.md" title="wikilink">陳秀雯</a>、<a href="../Page/劉俊謙_(香港).md" title="wikilink">劉俊謙</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/朱栢謙" title="wikilink">朱栢謙</a>、<a href="../Page/岑珈其.md" title="wikilink">岑珈其</a>、、<br />
+<a href="https://zh.wikipedia.org/wiki/唐浩然" title="wikilink">唐浩然</a>、<a href="https://zh.wikipedia.org/wiki/周漢寧" title="wikilink">周漢寧</a>、<a href="https://zh.wikipedia.org/wiki/程人富" title="wikilink">程人富</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/鍾雪瑩" title="wikilink">鍾雪瑩</a>、<a href="https://zh.wikipedia.org/wiki/鄧麗英" title="wikilink">鄧麗英</a>、<a href="https://zh.wikipedia.org/wiki/盧蓁宜" title="wikilink">盧蓁宜</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/麥可怡" title="wikilink">麥可怡</a>、<a href="https://zh.wikipedia.org/wiki/余家溢" title="wikilink">余家溢</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/陳志發.md" title="wikilink">陳志發</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"><p>--&gt;</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -428,11 +484,25 @@ Till Death Do Us Part</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/詭探前傳" title="wikilink">詭探前傳</a><br />
 Psycho Detective 2</p></td>
 <td style="text-align: center;"><p>30</p></td>
-<td style="text-align: center;"><p><a href="../Page/鄭少秋.md" title="wikilink">鄭少秋</a>、<a href="../Page/陶大宇.md" title="wikilink">陶大宇</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、<br />
-、<a href="../Page/麥子樂.md" title="wikilink">麥子樂</a>、<a href="../Page/廖啟智.md" title="wikilink">廖啟智</a>、<br />
-<a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a>、<a href="../Page/郭偉亮.md" title="wikilink">Eric Kwok</a>、</p></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/鄭少秋.md" title="wikilink">鄭少秋</a>、<a href="../Page/陶大宇.md" title="wikilink">陶大宇</a>、<a href="../Page/郭偉亮.md" title="wikilink">Eric Kwok</a>、<br />
+<a href="https://zh.wikipedia.org/wiki/江若琳" title="wikilink">江若琳</a>、<a href="../Page/游學修.md" title="wikilink">游學修</a>、、<br />
+<a href="../Page/麥子樂.md" title="wikilink">麥子樂</a>、、</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/湯皓浚" title="wikilink">湯皓浚</a></p></td>
 <td style="text-align: center;"><p><a href="http://viu.tv/encore/psycho-detective-2">網頁</a></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>10/06-<br />
+05/07</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/退休女皇" title="wikilink">退休女皇</a><br />
+Retire to Queen</p></td>
+<td style="text-align: center;"><p>20</p></td>
+<td style="text-align: center;"><p><a href="../Page/景黛音.md" title="wikilink">景黛音</a>、<a href="../Page/姜濤.md" title="wikilink">姜　濤</a>、<a href="../Page/江熚生.md" title="wikilink">江熚生</a>、<br />
+<a href="../Page/薛晉寧.md" title="wikilink">薛晉寧</a>、<a href="../Page/盧瀚霆.md" title="wikilink">盧瀚霆</a>、<a href="https://zh.wikipedia.org/wiki/徐浩昌" title="wikilink">肥　腸</a>、<br />
+、</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 </tr>
@@ -579,10 +649,24 @@ Bring it on, Ghost</p></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><p>23/05-<br />
-27/06</p></td>
+26/06</p></td>
 <td style="text-align: center;"><p><a href="../Page/W－兩個世界.md" title="wikilink">W－兩個世界</a><br />
 W–Two Worlds</p></td>
 <td style="text-align: center;"><p>20</p></td>
+<td style="text-align: center;"><div style="text-align: center;">
+<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
+</div></td>
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>）</p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>27/06-<br />
+01/08</p></td>
+<td style="text-align: center;"><p><a href="../Page/購物王路易.md" title="wikilink">購物王路易</a><br />
+Shopaholic Louis</p></td>
+<td style="text-align: center;"><p>21</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2017年).md" title="wikilink">2017年ViuTV劇集</a></span></p>
 </div></td>
@@ -685,24 +769,12 @@ Gu Family</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
 <p><span style="font-size:larger;"><strong>重播劇集</strong>：2013年now 101台劇集</span></p>
 </div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>），2月2日暫停播映</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-</tr>
-<tr class="even">
+<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a><a href="https://zh.wikipedia.org/wiki/MBC" title="wikilink">MBC</a>），2月2日暫停播映 &lt;!--|-</p></td>
 <td style="text-align: center;"><p>25/05-<br />
 10/08</p></td>
 <td style="text-align: center;"><p><a href="../Page/Single_Wife.md" title="wikilink">單親妻</a><br />
 Single Wife</p></td>
 <td style="text-align: center;"><p>12</p></td>
-<td style="text-align: center;"><div style="text-align: center;">
-<p><span style="font-size:larger;"><strong>重播劇集</strong>：<a href="../Page/ViuTV電視劇集列表_(2018年).md" title="wikilink">2018年ViuTV劇集</a></span></p>
-</div></td>
-<td style="text-align: center;"><p>外購劇（<a href="https://zh.wikipedia.org/wiki/韓國" title="wikilink">韓國</a>）</p></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
 </tr>
 </tbody>
 </table>
@@ -930,7 +1002,7 @@ Girl Detective Alisa's Case File</p></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>19/04</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/白日之鴉" title="wikilink">白日之鴉</a><br />
+<td style="text-align: center;"><p><br />
 The Crow In Broad Daylight</p></td>
 <td style="text-align: center;"><p>1</p></td>
 <td style="text-align: center;"><div style="text-align: center;">
@@ -946,7 +1018,8 @@ The Crow In Broad Daylight</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/探偵物語2018" title="wikilink">偵探物語</a><br />
 Detective Story</p></td>
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><p><a href="../Page/齋藤工.md" title="wikilink">齋藤工</a>、<a href="../Page/二階堂富美.md" title="wikilink">二階堂富美</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/齋藤工.md" title="wikilink">齋藤工</a>、<a href="../Page/二階堂富美.md" title="wikilink">二階堂富美</a>、、<br />
+<a href="https://zh.wikipedia.org/wiki/長谷川京子" title="wikilink">長谷川京子</a>、<a href="../Page/吹越滿.md" title="wikilink">吹越滿</a>、<a href="../Page/夏木麻里.md" title="wikilink">夏木麻里</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -968,9 +1041,10 @@ Heyacho</p></td>
 <tr class="odd">
 <td style="text-align: center;"><p>13/05</p></td>
 <td style="text-align: center;"><p><br />
-</p></td>
+CHIEF</p></td>
 <td style="text-align: center;"><p>1</p></td>
-<td style="text-align: center;"><p><a href="../Page/澤村一樹.md" title="wikilink">澤村一樹</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/澤村一樹.md" title="wikilink">澤村一樹</a>、<a href="../Page/伊藤步.md" title="wikilink">伊藤步</a>、<a href="../Page/尾美利德.md" title="wikilink">尾美利德</a>、<br />
+、<a href="../Page/永瀨匡.md" title="wikilink">永瀨匡</a></p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
@@ -988,6 +1062,17 @@ Desperate for Love</p></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
 <td style="text-align: center;"></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><p>07/06</p></td>
+<td style="text-align: center;"><p><br />
+</p></td>
+<td style="text-align: center;"><p>1</p></td>
+<td style="text-align: center;"><p><a href="../Page/北川景子.md" title="wikilink">北川景子</a>、<a href="../Page/北村一輝.md" title="wikilink">北村一輝</a></p></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"></td>
+<td style="text-align: center;"><p>外購劇（<a href="../Page/日本.md" title="wikilink">日本</a><a href="../Page/朝日電視台.md" title="wikilink">朝日電視台</a>），播映時間為09:30-11:45</p></td>
 </tr>
 </tbody>
 </table>

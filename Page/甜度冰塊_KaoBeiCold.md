@@ -1,11 +1,11 @@
 **甜度冰塊
 KaoBeiCold**，是主要由[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[華人](https://zh.wikipedia.org/wiki/華人 "wikilink")[西西歪與](https://zh.wikipedia.org/wiki/西西歪 "wikilink")[香港人](../Page/香港.md "wikilink")[狄達創建的](https://zh.wikipedia.org/wiki/狄達 "wikilink")
-[YouTube頻道](../Page/YouTube.md "wikilink")。截至 2019 年 1 月 12 日，共有 128,107
+[YouTube頻道](../Page/YouTube.md "wikilink")。截至 2019 年 5 月 22 日，共有 138,196
 訂閱人數。他們時常在 channel
 放他們的[臺灣文化體驗](../Page/臺灣文化.md "wikilink")、[男女議題等影片](https://zh.wikipedia.org/wiki/男女議題 "wikilink")，通常每週三、五晚上會有新片上傳。
 
 一開始這個 YouTube channel
-是[國立臺灣藝術大學電影系的馬來西亞籍學生西西歪邀他的同班同學一起合作創辦的](../Page/國立臺灣藝術大學.md "wikilink")。然而有些原因，大多數人沒多久就紛紛退出，最慘時只剩西西歪與狄達。但後有他們的學弟妹兔子等人加入，才有今日的團隊。他們有和[Mira's
+是[國立臺灣藝術大學電影系的馬來西亞籍學生西西歪邀他的同班同學一起合作創辦的](../Page/國立臺灣藝術大學.md "wikilink")。然而有些原因，大多數人沒多久就紛紛退出，最慘時只剩西西歪與狄達。但後有他們的學弟妹加入。他們有和[Mira's
 Garden](../Page/Mira.md "wikilink")\[1\]、[CoffeeTea\&Jane](https://zh.wikipedia.org/wiki/CoffeeTea&Jane "wikilink")\[2\]、[嚴政WallaceYim](https://zh.wikipedia.org/wiki/嚴政WallaceYim "wikilink")\[3\]、[Soya手癢計劃](https://zh.wikipedia.org/wiki/Soya手癢計劃 "wikilink")
 \[4\]等 [YouTuber合作過](../Page/YouTuber.md "wikilink")。
 
@@ -36,7 +36,7 @@ Garden](../Page/Mira.md "wikilink")\[1\]、[CoffeeTea\&Jane](https://zh.wikipedi
 <td></td>
 </tr>
 <tr class="even">
-<td><p>兔仔</p></td>
+<td><p>Mocha</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -46,7 +46,7 @@ Garden](../Page/Mira.md "wikilink")\[1\]、[CoffeeTea\&Jane](https://zh.wikipedi
 <td></td>
 </tr>
 <tr class="even">
-<td><p>王斐胤</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

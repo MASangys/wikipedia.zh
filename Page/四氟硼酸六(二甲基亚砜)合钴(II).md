@@ -14,6 +14,7 @@
 ## 参考文献
 
 [Category:钴配合物](https://zh.wikipedia.org/wiki/Category:钴配合物 "wikilink")
+[Category:二价钴化合物](https://zh.wikipedia.org/wiki/Category:二价钴化合物 "wikilink")
 [Category:二甲基亚砜配合物](https://zh.wikipedia.org/wiki/Category:二甲基亚砜配合物 "wikilink")
 [Category:氟硼酸盐](https://zh.wikipedia.org/wiki/Category:氟硼酸盐 "wikilink")
 

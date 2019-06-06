@@ -156,7 +156,7 @@ Kids將於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年1月19日
 <tr class="odd">
 <td><p>align="center"; width="600px"| {{Hidden begin</p></td>
 <td><p>titlestyle = background:#d8d8d8; text-align:center;</p></td>
-<td><p>title = 馬尼拉 }} <strong>Opening VCR－Question + SKZ ANTHEM</strong></p>
+<td><p>title = 馬尼拉、美國 }} <strong>Opening VCR－Question + SKZ ANTHEM</strong></p>
 <ul>
 <li>Intro</li>
 <li>Hellevator</li>
@@ -185,9 +185,12 @@ Kids將於](https://zh.wikipedia.org/wiki/Stray_Kids "wikilink")2019年1月19日
 <p><strong>VCR</strong></p>
 <ul>
 <li>勝戰歌（승전가／Victory Song）</li>
+</ul>
+<p><strong>Ment 4</strong></p>
+<ul>
 <li>MIROH</li>
 </ul>
-<p><strong>Ment 4－Ending</strong></p>
+<p><strong>Ment 5－Ending</strong></p>
 <ul>
 <li>沒必要突然冷場吧（갑자기 분위기 싸해질 필요 없잖아요／Awkward Silence）</li>
 <li>Get Cool</li>

@@ -60,6 +60,7 @@
 3.  [ACBL](https://zh.wikipedia.org/wiki/American_Contract_Bridge_League "wikilink")
     ["In Their Own Words" Article by Jim
     Jacoby](http://www.acbl.org/play/in-their-own-words.php?convention=jacoby&action=Go)
+
 4.  [ACBL](https://zh.wikipedia.org/wiki/American_Contract_Bridge_League "wikilink")
     ["Bidding Toolbox"
     Article](http://web2.acbl.org/documentLibrary/play/Commonly_Used_Conventions/jacoby2NT.pdf)

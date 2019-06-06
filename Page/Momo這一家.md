@@ -37,19 +37,29 @@
 <td><p><a href="../Page/Astro小太阳.md" title="wikilink">Astro小太阳</a></p></td>
 <td></td>
 <td><p>第一季<br />
-2018年10月4日</p></td>
+2018年10月4日<br />
+第二季<br />
+2019年5月9日</p></td>
 <td><p>星期四～五<br />
 上午08:30－09:00</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/YouTube.md" title="wikilink">YouTube</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/全球" title="wikilink">全球</a></p></td>
+<td><p>第一季和第二季</p></td>
+<td><p>不定时会在MOMO亲子台频道播出<br />
+Asus Zenbo赞助的集数完整版将会上传至Asus台湾的YouTube频道</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>重播</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/MOMO亲子台" title="wikilink">MOMO亲子台</a></p></td>
 <td></td>
 <td><p>第一季<br />
@@ -59,11 +69,13 @@
 <td><p>星期X 00:00－00:00</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Astro小太阳.md" title="wikilink">Astro小太阳</a></p></td>
 <td></td>
 <td><p>第一季<br />
-2018年10月4日</p></td>
+2018年10月4日<br />
+第二季<br />
+2019年5月9日</p></td>
 <td><p>星期四～五<br />
 13:00－13:30<br />
 18:30－19:00<br />
@@ -71,7 +83,7 @@
 03:30－04:00</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>第一季<br />
 2019年1月18日</p></td>
 <td><p>星期四～五<br />
@@ -84,7 +96,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

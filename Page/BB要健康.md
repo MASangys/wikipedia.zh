@@ -1,4 +1,4 @@
-《**BB要健康**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的資訊節目](../Page/電視廣播有限公司.md "wikilink")，全節目共10集，由[林盛斌](../Page/林盛斌.md "wikilink")、[陳敏之](../Page/陳敏之.md "wikilink")、[楊潮凱擔任主持](../Page/楊潮凱.md "wikilink")，本節目於2019年3月4日起[香港時間逢星期一至五](../Page/香港時間.md "wikilink")22:30－23:00在[翡翠台播出](../Page/翡翠台.md "wikilink")，及於[myTV
+《**BB要健康**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公司的健康資訊節目](../Page/電視廣播有限公司.md "wikilink")，[2019無綫節目巡禮綜藝節目之一](../Page/2019無綫節目巡禮.md "wikilink")。全節目共10集，由[林盛斌](../Page/林盛斌.md "wikilink")、[陳敏之](../Page/陳敏之.md "wikilink")、[楊潮凱擔任主持](../Page/楊潮凱.md "wikilink")，本節目於2019年3月4日起[香港時間逢星期一至五](../Page/香港時間.md "wikilink")22:30－23:00在[翡翠台播出](../Page/翡翠台.md "wikilink")，及於[myTV
 Super提供網上節目重溫](https://zh.wikipedia.org/wiki/myTV_Super "wikilink")（集數上傳後兩個月後會刪除）\[1\]\[2\]
 
 ## 每集內容

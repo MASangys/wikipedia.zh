@@ -171,6 +171,8 @@ GOES-16的更多开发始于1999年6月NESDIS的ABI成像仪的设计，一开�
 </tbody>
 </table>
 
+[Category:氣象衛星](https://zh.wikipedia.org/wiki/Category:氣象衛星 "wikilink")
+
 1.
 2.
 3.

@@ -1,17 +1,18 @@
 《**Perfume**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS
-2TV於](https://zh.wikipedia.org/wiki/KBS_2TV "wikilink")2019年6月3日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由《[懲毖錄](../Page/懲毖錄_\(電視劇\).md "wikilink")》、《[人偶之家](../Page/人偶之家.md "wikilink")》的金尚輝導演執導、崔賢玉作家執筆。此劇講述把整個人生都奉獻給家人，但最後卻家破人亡、陷入絕望的中年女性，和想挑戰愛情卻沒有勇氣，一直畏畏縮縮的男人之間展開「人生第二次」愛情的故事。\[1\]\[2\]\[3\]\[4\]\[5\]
+2TV於](https://zh.wikipedia.org/wiki/KBS_2TV "wikilink")2019年6月3日起播出的[月火連續劇](../Page/KBS月火連續劇.md "wikilink")，由《[人偶之家](../Page/人偶之家.md "wikilink")》的金尚輝導演與崔賢玉作家合作打造。此劇講述把整個人生都奉獻給家人，但最後卻家破人亡、陷入絕望的中年女性，和想挑戰愛情卻沒有勇氣，一直畏畏縮縮的男人之間展開「人生第二次」愛情的故事。\[1\]\[2\]\[3\]\[4\]\[5\]\[6\]
 
-香港由myTV SUPER緊貼韓國點播
+香港由[myTV
+SUPER緊貼韓國點播](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")。
 
 ## 演員陣容
 
 ### 主要人物
 
-<table style="width:52%;">
+<table style="width:70%;">
 <colgroup>
-<col style="width: 8%" />
-<col style="width: 8%" />
-<col style="width: 35%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 49%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -22,7 +23,7 @@
 <tr class="even">
 <td><p><a href="../Page/申成祿.md" title="wikilink">申成祿</a></p></td>
 <td><p>徐伊道</p></td>
-<td><p>極具審美眼光的韓國頂尖的設計師</p></td>
+<td><p>極具審美眼光的韓國頂尖的設計師，外表看似完美、擁有一切的他，其實被周圍的人視為擁有「性格障礙」，更有「關種」的感覺。異常敏感的他，有著52件事物恐懼症和35種過敏症。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/高媛熙.md" title="wikilink">高媛熙</a><br />
@@ -48,13 +49,13 @@
 </tbody>
 </table>
 
-### 其他人物
+### 在熙周邊人物
 
-<table style="width:52%;">
+<table style="width:70%;">
 <colgroup>
-<col style="width: 8%" />
-<col style="width: 8%" />
-<col style="width: 35%" />
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 49%" />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -63,41 +64,16 @@
 <td><p><strong>介紹</strong></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/申惠晶" title="wikilink">申惠晶</a></p></td>
-<td><p>宋美宥</p></td>
-<td><p>天生麗質、從小具備過人演技的童星，長大後轉型成時尚模特兒。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/李敏智_(1984年出生).md" title="wikilink">延敏智</a></p></td>
-<td><p>宋珉熙</p></td>
-<td><p>。</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/趙漢哲.md" title="wikilink">趙漢哲</a></p></td>
 <td><p>金泰俊</p></td>
-<td><p>閔在熙的丈夫。</p></td>
+<td><p>在熙的丈夫，大企業公關室組長。</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td><p>朴俊龍</p></td>
-<td><p>徐伊道親如手足的好友。</p></td>
-</tr>
-<tr class="even">
 <td></td>
 <td><p>金珍京</p></td>
-<td><p>。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/李漢偉.md" title="wikilink">李漢偉</a></p></td>
-<td></td>
-<td></td>
+<td><p>在熙的女兒，從來維持全校第一名的學習狂高中生。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/車順裴.md" title="wikilink">車順裴</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -105,7 +81,47 @@
 </tbody>
 </table>
 
-## 原聲帶
+### 伊道Collection
+
+<table style="width:70%;">
+<colgroup>
+<col style="width: 10%" />
+<col style="width: 10%" />
+<col style="width: 49%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>演員</strong></p></td>
+<td><p><strong>角色</strong></p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>朴俊龍</p></td>
+<td><p>伊道親如手足的好友。</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/申惠晶" title="wikilink">申惠晶</a></p></td>
+<td><p>宋美宥</p></td>
+<td><p>天生麗質、從小具備過人演技的童星，長大後轉型成時尚模特兒。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 其他人物
+
+|                                  |        |              |
+| -------------------------------- | ------ | ------------ |
+| **演員**                           | **角色** | **介紹**       |
+| [李漢偉](../Page/李漢偉.md "wikilink") | 趙春奧    | 民錫經紀人公司的代表。  |
+| [延敏智](../Page/延敏智.md "wikilink") | 宋珉熙    | 泰俊的公司部下兼情婦。  |
+| 趙惠元                              | 趙秀妍    | 珍京的朋、民錫的私生飯。 |
+|                                  |        |              |
 
 ## 收視率
 
@@ -114,8 +130,8 @@
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[6]</p></th>
-<th><p>TNmS收視率[7]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[7]</p></th>
+<th><p>TNmS收視率[8]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -128,13 +144,13 @@
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2019/06/03</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.0%</p></td>
+<td><p>5.5%</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>6.4%</p></td>
+<td><p>7.0%</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
@@ -330,16 +346,21 @@
 
   - 收視最低的集數以表示，收視最高的集數以表示，而空格則表示該集的收視沒有相關數據。</small>
 
-## 同時段競爭作品
+## 同時段作品
 
-  - [MBC](../Page/文化廣播公司.md "wikilink")
-    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[檢法男女2](../Page/檢法男女2.md "wikilink")》
+### 同時段競爭作品
+
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[初次見面我愛你](../Page/初次見面我愛你_\(韓國電視劇\).md "wikilink")》、《[偵探醫生](../Page/偵探醫生.md "wikilink")》
+    [月火連續劇](../Page/SBS月火連續劇.md "wikilink")：《[初次見面我愛你](../Page/初次見面我愛你_\(韓國電視劇\).md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink")
     [月火連續劇](../Page/TvN月火連續劇.md "wikilink")：《[Abyss](../Page/Abyss.md "wikilink")》
   - [JTBC](../Page/JTBC.md "wikilink")
     [月火連續劇](../Page/JTBC月火連續劇.md "wikilink")：《[風在吹](https://zh.wikipedia.org/wiki/風在吹_\(電視劇\) "wikilink")》
+
+### 同一劇集時段作品
+
+  - [MBC](../Page/文化廣播公司.md "wikilink")
+    [月火連續劇](../Page/MBC月火連續劇.md "wikilink")：《[檢法男女2](../Page/檢法男女2.md "wikilink")》
 
 ## 參考資料
 
@@ -361,3 +382,4 @@
 5.
 6.
 7.
+8.

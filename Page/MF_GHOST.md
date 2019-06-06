@@ -1,6 +1,6 @@
-漫畫《**MF GHOST**》（日語：**MFゴースト**，假名：**エムエフゴースト** ，台灣譯名：**燃油車鬥魂**
-）為[重野秀一在](../Page/重野秀一.md "wikilink")2013年完結《[頭文字D](../Page/頭文字D.md "wikilink")》時隔4年後於《[周刊Young
-Magazine](https://zh.wikipedia.org/wiki/周刊Young_Magazine "wikilink")》上再度連載的新賽車作品\[1\]。
+《**MF
+GHOST**》（，台灣譯名：**燃油車鬥魂**）為[重野秀一在](../Page/重野秀一.md "wikilink")2013年完結《[頭文字D](../Page/頭文字D.md "wikilink")》時隔4年後於《[週刊Young
+Magazine](../Page/週刊Young_Magazine.md "wikilink")》上再度連載的賽車漫畫作品\[1\]。
 
 ## 故事概要
 
@@ -192,6 +192,12 @@ ISBN 978-4-06-513567-9<small>（限定版）</p></td>
 <td><p>2019年1月4日</p></td>
 <td><p>ISBN 978-4-06-514160-1<br />
 ISBN 978-4-06-514770-2<small>（限定版）</p></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>2019年5月7日</p></td>
+<td><p>ISBN 978-4-06-515459-5<br />
+ISBN 978-4-06-515460-1<small>（限定版）</p></td>
 </tr>
 </tbody>
 </table>

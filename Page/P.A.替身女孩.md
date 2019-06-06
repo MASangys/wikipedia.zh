@@ -268,7 +268,7 @@ Actress），從撐場面用的婚禮賓客，到企業家失散多年的女兒�
 [Category:少女漫畫](https://zh.wikipedia.org/wiki/Category:少女漫畫 "wikilink")
 [Category:戲劇漫畫](https://zh.wikipedia.org/wiki/Category:戲劇漫畫 "wikilink")
 [Category:懸疑漫畫](https://zh.wikipedia.org/wiki/Category:懸疑漫畫 "wikilink")
-[Category:日本漫畫改編日本電視劇‎](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇‎ "wikilink")
+[Category:日本漫畫改編日本電視劇](https://zh.wikipedia.org/wiki/Category:日本漫畫改編日本電視劇 "wikilink")
 [Category:日本電視台週六連續劇](https://zh.wikipedia.org/wiki/Category:日本電視台週六連續劇 "wikilink")
 [Category:戲劇題材作品](https://zh.wikipedia.org/wiki/Category:戲劇題材作品 "wikilink")
 [Category:1998年日本電視劇集](https://zh.wikipedia.org/wiki/Category:1998年日本電視劇集 "wikilink")

@@ -373,7 +373,7 @@ Castle」中，一群欲扶助丈夫事業和培育子女成為二代貴族的�
 <table>
 <tbody>
 <tr class="odd">
-<td><p>年度</p></td>
+<td><p>年份</p></td>
 <td><p>頒獎典禮</p></td>
 <td><p>獎項</p></td>
 <td><p>入圍者</p></td>
@@ -382,26 +382,26 @@ Castle」中，一群欲扶助丈夫事業和培育子女成為二代貴族的�
 <tr class="even">
 <td><p>2019年</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/第55屆百想藝術大賞" title="wikilink">第55屆百想藝術大賞</a></p></td>
-<td><p>電視部門作品賞</p></td>
-<td></td>
+<td><p>電視部門 作品賞</p></td>
+<td><p>《Sky Castle》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>電視部門劇本賞</p></td>
+<td><p>電視部門 劇本賞</p></td>
 <td><p><a href="../Page/柳賢美.md" title="wikilink">柳賢美</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>電視部門導演賞</p></td>
+<td><p>電視部門 導演賞</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/趙賢卓" title="wikilink">趙賢卓</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>電視部門女子最優秀演技獎</p></td>
+<td><p>電視部門 女子最優秀演技獎</p></td>
 <td><p><a href="../Page/廉晶雅.md" title="wikilink">廉晶雅</a></p></td>
 <td></td>
 <td></td>
@@ -415,29 +415,22 @@ Castle」中，一群欲扶助丈夫事業和培育子女成為二代貴族的�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>電視部門男子助演獎</p></td>
+<td><p>電視部門 男子助演獎</p></td>
 <td><p><a href="../Page/金炳哲.md" title="wikilink">金炳哲</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>電視部門女子助演獎</p></td>
+<td><p>電視部門 女子助演獎</p></td>
 <td><p><a href="../Page/尹世雅.md" title="wikilink">尹世雅</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>電視部門女子新人演技獎</p></td>
+<td><p>電視部門 女子新人演技獎</p></td>
 <td><p><a href="../Page/金惠允.md" title="wikilink">金惠允</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>

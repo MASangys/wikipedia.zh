@@ -1,6 +1,6 @@
 是由[5pb.開發和發行的視覺小說遊戲](../Page/5pb..md "wikilink")，為[科學ADV系列的第六作](../Page/科學ADV系列.md "wikilink")，也是2012年《[机器人笔记](https://zh.wikipedia.org/wiki/机器人笔记 "wikilink")》的正統續作，其[PlayStation
 4和](../Page/PlayStation_4.md "wikilink")[Nintendo
-Switch版計劃在](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")2019年1月31日於日本發行。遊戲的製作班底除了美術方面多了松尾行弘的參與外，其餘基本上與前作相同，例如配樂的阿保剛和編劇的安本亨以及志倉千代丸。
+Switch版在](https://zh.wikipedia.org/wiki/Nintendo_Switch "wikilink")2019年1月31日於日本發行。遊戲的製作班底除了美術方面多了松尾行弘的參與外，其餘基本上與前作相同，例如配樂的阿保剛和編劇的安本亨以及志倉千代丸。
 
 遊戲的故事發生在前作的半年後，而其中機器人研究社的前社員也有出現在此部作品中。同時它也包含從同一系列[跨界而來的角色](../Page/跨界作品.md "wikilink")，比如來自《[命運石之門](../Page/命運石之門.md "wikilink")》，綽號為「桶子」的橋田至。《機器人筆記DaSH》會根據玩家在[手機軟件](https://zh.wikipedia.org/wiki/手機軟件 "wikilink")（遊戲內建）「Deluoode
 Map」裡作出的決定使故事分支至不同的方向。

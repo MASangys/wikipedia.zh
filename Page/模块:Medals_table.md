@@ -13,7 +13,7 @@ local function deflag(s)
 `       s = mw.ustring.gsub(s, '^%s*&[Nn][Bb][Ss][Pp];%s*', '')`
 `   end`
 `   s = mw.ustring.gsub(s, '%s*&[Nn][Bb][Ss][Pp];%s*$', '')`
-`   s = mw.ustring.gsub(s, '%s%s+', '')`
+`   s = mw.ustring.gsub(s, '%s+', '')`
 `   s = mw.ustring.gsub(s, '^%s*(.-?)%s*$', '%1')`
 `   return s`
 
@@ -51,13 +51,13 @@ function p.createTable(frame, args)
 `   if host ~= '' then`
 `       if args['name_' .. host] then`
 `           host = args['name_' .. host]`
-`           host = '主办国家/地区（' .. deflag(host) .. '）'`
+`           host = ' 主办国家/地区（' .. deflag(host) .. '）'`
 `       elseif host:match('^([A-Z][A-Z][A-Z])') then`
 `           host = frame:expandTemplate{title = flagTemplate, args = {host, event} }`
-`           host = '主办国家/地区（' .. deflag(host) .. '）'`
+`           host = ' 主办国家/地区（' .. deflag(host) .. '）'`
 `       end`
 `       host = host .. (args['host_note'] or '')`
-`       host = frame:expandTemplate{title = 'color box', args = {hostColor, ' * ', 'border=darkgray'}} ..' '.. host`
+`       host = frame:expandTemplate{title = 'color box', args = {hostColor, ' * ', 'border=darkgray'}} .. host`
 `   end`
 `   `
 `   local leading = ''`

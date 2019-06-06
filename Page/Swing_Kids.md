@@ -183,6 +183,43 @@ Kids”。由[陽光姐妹淘導演姜炯哲執導](https://zh.wikipedia.org/wik
 </tbody>
 </table>
 
+## 獎項
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年度</p></th>
+<th><p>大獎</p></th>
+<th><p>獎項</p></th>
+<th><p>入圍者</p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>第55屆<a href="../Page/百想藝術大獎.md" title="wikilink">百想藝術大獎</a></p></td>
+<td><p>電影部門 導演獎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>電影部門 男子新人演技獎</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>藝術獎（配樂）</p></td>
+<td><p>金峻錫</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 參考資料
 
 [Category:韓語電影](https://zh.wikipedia.org/wiki/Category:韓語電影 "wikilink")

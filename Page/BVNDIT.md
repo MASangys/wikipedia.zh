@@ -1,4 +1,5 @@
-**BVNDIT**（），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MNH娱乐](https://zh.wikipedia.org/wiki/MNH娱乐 "wikilink")2019年推出的五人女子组合，这也是MNH娱乐打造的首支女团\[1\]。
+**BVNDIT**（；**Be Ambitious N Do
+It**的缩写，直译「向着梦想勇敢前进」），是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MNH娱乐](https://zh.wikipedia.org/wiki/MNH娱乐 "wikilink")2019年推出的五人女子组合，这也是MNH娱乐打造的首支女团\[1\]。
 
 ## 團體資料
 
@@ -14,7 +15,7 @@
 | **怡妍** |
 | 宋熙     |
 | 鄭友     |
-| 是明     |
+| 施明     |
 | 承恩     |
 
 ### 團名由來
@@ -27,9 +28,13 @@
 
 2019年3月11日至13日期间陆续公开了5名成员个人预告照。 4月10日，推出首张數位單曲《BVNDIT,BE
 AMBITIOUS\!》，并发表主打歌曲〈Hocus Pocus〉正式出道。4月11日，通过《M\!
-Countdown》带来首个正式出道舞台。
+Countdown》带来首个正式出道舞台。 5月15日，单曲〈Dramatic〉回归，舞蹈室版本。
 
 ## 音樂作品
+
+### 单曲
+
+  - Dramatic（2019年5月15日）
 
 ### 數碼單曲
 
@@ -52,9 +57,10 @@ Countdown》带来首个正式出道舞台。
 
 ### 音樂錄影帶
 
-| 年份    | 發布日期  | 收錄專輯                     | M/V              | Dance Practice Video |
-| ----- | ----- | ------------------------ | ---------------- | -------------------- |
-| 2019年 | 4月10日 | 《BVNDIT, BE AMBITIOUS\!》 | Hocus Pocus\[2\] | Hocus Pocus\[3\]     |
+| 年份    | 發布日期       | 收錄專輯/單曲                  | M/V                   | Dance Practice Video | Performance Video |
+| ----- | ---------- | ------------------------ | --------------------- | -------------------- | ----------------- |
+| 2019年 | 4月10日      | 《BVNDIT, BE AMBITIOUS\!》 | Hocus Pocus\[2\]\[3\] | Hocus Pocus\[4\]     |                   |
+| 5月15日 | 《Dramatic》 | \- |                     | Dramatic\[5\]         | Dramatic\[6\]\[7\]   |                   |
 
 ### 音樂現場
 
@@ -94,6 +100,16 @@ Countdown》带来首个正式出道舞台。
 </tbody>
 </table>
 
+| **第二張數碼單曲《Dramatic》**                                                  |
+| ---------------------------------------------------------------------- |
+| 節目名稱                                                                   |
+| Dramatic                                                               |
+| [Show Champion](../Page/Show_Champion.md "wikilink")                   |
+| [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") |
+| [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")      |
+| [Show\! 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")     |
+| [人氣歌謠](https://zh.wikipedia.org/wiki/人氣歌謠 "wikilink")                  |
+
 ## 演唱會及其他演出
 
 ### Showcase
@@ -124,6 +140,9 @@ Countdown》带来首个正式出道舞台。
 <td><p>BVNDIT, BE AMBITIOUS!</p></td>
 </tr>
 <tr class="even">
+<td><p>Dramatic</p></td>
+</tr>
+<tr class="odd">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 <li>「 (1) 」：兩星期冠軍</li>
@@ -142,6 +161,8 @@ Countdown》带来首个正式出道舞台。
 | 0                                    |
 |                                      |
 | **一位總數：0**                           |
+
+## 註釋
 
 ## 参考资料
 
@@ -162,3 +183,7 @@ Countdown》带来首个正式出道舞台。
 1.
 2.
 3.
+4.
+5.
+6.
+7.

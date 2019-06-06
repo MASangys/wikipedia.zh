@@ -8,10 +8,10 @@ Touch**（），是[韓國HKM娛樂](https://zh.wikipedia.org/wiki/韓國 "wikil
 | 成員列表 |
 | 藝名   |
 | 漢字   |
-| 宥真   |
 |      |
 | 序希   |
 |      |
+| 宥真   |
 |      |
 
 ## 參考文獻

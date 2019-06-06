@@ -238,7 +238,9 @@ GmbH获得了工业卓越奖，成为欧洲最佳工业设施。
 
 ## 参考文献
 
-<references group="" responsive="1">
+<references>
+
+group="" responsive="1"
 
 </references>
 

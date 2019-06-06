@@ -33,7 +33,7 @@ SMAP\!**（）是[日本一檔由](../Page/日本.md "wikilink")[木村拓哉在
 
 ## 參考資料
 
-## 外部鏈接
+## 外部連結
 
   - [What's海賊團](http://www.tfm.co.jp/what-s/index.php)
 

@@ -244,12 +244,13 @@ US》全輯音源及主打《Valkyrie》並於同日8點舉行出道演唱會，
 <tr class="odd">
 <td><p>Gaon Chart</p></td>
 <td><p>LIGHT US</p></td>
-<td><p>28,593+</p></td>
+<td><p>29,671+</p></td>
 <td><p><ref>Gaon Album Chart專輯銷量排名《LIGHT US》</p>
 <ul>
 <li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=01&amp;hitYear=2019&amp;termGbn=month">2019年GAON1月專輯榜17位</a></li>
 <li><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=02&amp;hitYear=2019&amp;termGbn=month">2019年GAON1月專輯榜23位</a></li>
 <li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=03&amp;hitYear=2019&amp;termGbn=month">2019年GAON3月專輯榜75位</a></li>
+<li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=04&amp;hitYear=2019&amp;termGbn=month">2019年GAON4月專輯榜94位</a></li>
 </ul>
 <p></ref></p></td>
 </tr>

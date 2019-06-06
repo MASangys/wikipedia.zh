@@ -351,8 +351,7 @@ Afghanistan.jpg|[アフガニスタン](https://zh.wikipedia.org/wiki/アフガ�
 10. [Sweden Receives First Batch of AMV 8×8 Wheeled Armored
     Vehicles](http://www.deagel.com/news/Sweden-Receives-First-Batch-of-AMV-8x8-Wheeled-Armored-Vehicles_n000011275.aspx)
     - Deagel.com, March 5, 2013
-11. [Artem
-    Defence](https://www.artem-defense.com/docs/200811-newsletter10-ARTEM-UK.pdf)
+11.
 12. [Image of Patria AMV with BMP-3 turred at
     IDEX 2007](http://www.armyrecognition.com/moyen_orient/Emirats_arabe/IDEX_2003_Pictures_Gallery/IDEX_2007/images/IDEX_2007_Dynamic_Demonstration_006.jpg)
 13.  IHS Jane's 360|url =

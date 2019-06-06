@@ -23,7 +23,7 @@ Daily*）。8月29日，由[凯文·史密斯主持的先行宣發活動在](../
 
 ## 資料來源
 
-## 外部鏈接
+## 外部連結
 
   -
 [Category:2010年代美國電視劇](https://zh.wikipedia.org/wiki/Category:2010年代美國電視劇 "wikilink")

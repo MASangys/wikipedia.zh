@@ -257,7 +257,7 @@ TV](../Page/LINE_TV.md "wikilink")、[friDay影音每周六日中午](https://zh
 <tr class="odd">
 <td><p><a href="../Page/金史熙.md" title="wikilink">金史熙</a></p></td>
 <td><p>尹道熙</p></td>
-<td></td>
+<td><p>綽號「世紀惡女」，前兩任丈夫留下高額保險金，後來的男友死於氰化物中毒，也留下高額保險金。因罪証確鑿一審被判處死刑。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -309,6 +309,91 @@ TV](../Page/LINE_TV.md "wikilink")、[friDay影音每周六日中午](https://zh
 <td><p>李泰恆</p></td>
 <td><p>羅哲振</p></td>
 <td><p>彩妝師。工讀生殺人事件的嫌疑人。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>部長法官。</p></td>
+</tr>
+<tr class="odd">
+<td><p>安縷兒</p></td>
+<td><p>劉夏璘</p></td>
+<td><p>天才童星。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>申熙京</p></td>
+<td><p>劉夏璘的媽媽。</p></td>
+</tr>
+<tr class="odd">
+<td><p>方岺</p></td>
+<td><p>高敏錫</p></td>
+<td><p>大法官出身的高泰林的父親。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>林宥拉</p></td>
+<td><p>漢江化學排放有毒物質滲入地下水，中毒過深死亡的小女孩。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>李尚海</p></td>
+<td><p>漢江化學被不當解僱的員工。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>趙錦先</p></td>
+<td><p>漢江流通被不當解僱的員工。但他手中握有成基俊的不法証據，並以此要脅。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>鄭老先生</p></td>
+<td><p>漢江化學排放有毒物質滲入地下水導致多人中毒，奉四里中的年長居民。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>林爺爺</p></td>
+<td><p>林宥拉的爺爺。</p></td>
+</tr>
+<tr class="odd">
+<td><p>李允在</p></td>
+<td><p>董翰奇</p></td>
+<td><p>負責尹道熙殺人案件的檢察官。</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>李俊日</p></td>
+<td><p>尹道熙的男友。</p></td>
+</tr>
+<tr class="odd">
+<td><p>金智秀</p></td>
+<td><p>李荷娜</p></td>
+<td><p>李俊日的女兒。</p></td>
+</tr>
+<tr class="even">
+<td><p>李振木</p></td>
+<td><p>安裴達</p></td>
+<td><p>尹道熙的前男友。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>尹道熙殺人案件承審法官。</p></td>
+</tr>
+<tr class="even">
+<td><p>車晴華</p></td>
+<td></td>
+<td><p>在法庭上用驅魔儀式作証的大光佛堂女巫。也是韓明道告發詐欺的被告。</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>韓明道</p></td>
+<td><p>找女巫作法想找到愛人的單身男。</p></td>
+</tr>
+<tr class="even">
+<td><p>車民赫</p></td>
+<td></td>
+<td><p>韓明道提告事件的起訴檢察官。</p></td>
 </tr>
 </tbody>
 </table>

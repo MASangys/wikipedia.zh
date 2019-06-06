@@ -6,7 +6,7 @@ EOS.IO以[分散式操作系統與](../Page/分布式操作系统.md "wikilink")
 
 ## 歷史
 
-  - 根據2017年所發佈的[白皮書](https://zh.wikipedia.org/wiki/白皮书 "wikilink")，EOS.IO平台由一家私人公司[block.one](https://block.one/)開發，並以[開源軟件的形式於](../Page/开源软件.md "wikilink")2018年6月1日推出。為確保於當[區塊鏈上線前](../Page/区块链.md "wikilink")，其代幣可以廣泛分發，block.one將一億個代幣以[ERC-20的形式發放](https://zh.wikipedia.org/wiki/ERC-20 "wikilink")。基於是次分發，所有代幣持有人都有權於EOS.IO軟件推出時啟動主網。
+  - 根據2017年所發佈的[白皮書](../Page/白皮书.md "wikilink")，EOS.IO平台由一家私人公司[block.one](https://block.one/)開發，並以[開源軟件的形式於](../Page/开源软件.md "wikilink")2018年6月1日推出。為確保於當[區塊鏈上線前](../Page/区块链.md "wikilink")，其代幣可以廣泛分發，block.one將一億個代幣以[ERC-20的形式發放](https://zh.wikipedia.org/wiki/ERC-20 "wikilink")。基於是次分發，所有代幣持有人都有權於EOS.IO軟件推出時啟動主網。
   - Block.one的首席執行官[布蘭登·布魯默宣佈](../Page/布蘭登·布魯默.md "wikilink")，EOS的[首次代幣發行共籌得超過](https://zh.wikipedia.org/wiki/首次代幣發行 "wikilink")4億美金，當中超過一億美金將用以支持EOS.IO[區塊鏈](../Page/区块链.md "wikilink")。\[1\]後來有外界質疑[block.one](https://block.one/)公司所籌集的鉅額資金，對於該區塊鏈的開發並非必要。而事實上，block.one公司亦未有交代資金的去向，EOS代幣的價錢更是自從高位$22.89美元一直下滑。\[2\]
   - EOS.IO最初的測試網Dawn 1.0於2017年9月3日推出，版本Dawn 2.0於同年12月4日推出；版本Dawn
     3.0於2018年1月25日推出，版本Dawn 4.0於同年5月7日推出。
@@ -29,6 +29,8 @@ EOS.IO以[分散式操作系統與](../Page/分布式操作系统.md "wikilink")
   - 4月27日，Block.one 团队成员和EOS VC 高级投资总监 Brian Mehler
     獲邀在由[EOS.IO](../Page/EOS.IO.md "wikilink") 區塊鏈的節點MEET.ONE
     发起大型 EOS 主题论坛发表演讲。\[7\]
+  - 5月27日，根據中国电子信息产业发展（CCID）最近发布的全球公共区块链技术评估指数。该评估旨在评估市场上最有效的加密货币;
+    EOS排名第一，而Tron和以太坊分别排名第二和第三。\[8\]
 
 ## 技術說明
 
@@ -37,11 +39,11 @@ EOS.IO平台的目標是提供分散式應用程序托管﹑智能合約功能�
 基於EOS.IO軟件上發行的主要代幣EOS提供了[區塊鏈上的](../Page/区块链.md "wikilink")[頻寬和內存](https://zh.wikipedia.org/wiki/頻寬 "wikilink")，用戶將按其抵押的EOS代幣數量獲資源分發（持有並抵押1%的EOS將獲分發總[頻寬](https://zh.wikipedia.org/wiki/頻寬 "wikilink")1%的使用權）。按照用戶抵押的EOS代幣數量，用戶可以獲得投票權及參與對[區塊鏈管治](../Page/区块链.md "wikilink")。EOS.IO平台啟用時，將會投票選出21名區塊產生者（節點），負責於每500[毫秒區塊時間產生及驗證區塊](https://zh.wikipedia.org/wiki/毫秒 "wikilink")。EOS.IO軟件及其智能合約所用的[編程語言為](https://zh.wikipedia.org/wiki/編程語言 "wikilink")[WebAssembly](../Page/WebAssembly.md "wikilink")
 ([RUST](../Page/Rust.md "wikilink")，
 [C](https://zh.wikipedia.org/wiki/C语言 "wikilink"),
-[C++](../Page/C++.md "wikilink"))。\[8\]
+[C++](../Page/C++.md "wikilink"))。\[9\]
 
 ### 帳户
 
-EOS.IO軟件允許每個帳戶被引用為獨一無二且[人類可讀的](../Page/人类可读介质.md "wikilink")12字符戶名，戶名可以由帳戶創建人選擇。帳戶創建人必順預留足夠的[RAM以儲存新帳戶](https://zh.wikipedia.org/wiki/RAM "wikilink")，直至新帳戶以抵押代幣來為自己預留RAM。\[9\]
+EOS.IO軟件允許每個帳戶被引用為獨一無二且[人類可讀的](../Page/人类可读介质.md "wikilink")12字符戶名，戶名可以由帳戶創建人選擇。帳戶創建人必順預留足夠的[RAM以儲存新帳戶](https://zh.wikipedia.org/wiki/RAM "wikilink")，直至新帳戶以抵押代幣來為自己預留RAM。\[10\]
 
 ### RAM交易
 
@@ -60,7 +62,7 @@ EOS.IO儲存建立於EOS.IO軟件及[星际文件系统](../Page/星际文件系
 ## EOS.IO的生態
 
 直至2019年2月23日，EOS公链共有[分散式应用程序](../Page/分散式應用程式.md "wikilink")
-400个，其中博彩类游戏有220个，占据了EOS整个生态的55%。\[10\]
+400个，其中博彩类游戏有220个，占据了EOS整个生态的55%。
 和其他区块链平台比較，EOS的分散式應用程式數目並不是最多的，但它的每日用家數量卻領先其他平台。
 
 ### EOS.IO 生態的重要事件

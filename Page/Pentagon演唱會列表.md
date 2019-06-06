@@ -103,6 +103,7 @@
 | 5月19日       | KCON 2019 Japan                                                                  | 幕張メッセ国際展示場                                |                                                                     |
 | 5月26日       | 2019 Hallyu Pop Fest                                                             | 新加坡室內體育館                                  |                                                                     |
 | 6月1日        | K-POP WE\*FRIEND CONCERT IN VIETNAM                                              |                                           |                                                                     |
+| 6月8日        | DMC POPO CONCERT IN INJI                                                         |                                           |                                                                     |
 | 6月16日       | Star Of Asia 2019 in Kazakhstan                                                  |                                           |                                                                     |
 
 ## 參考資料

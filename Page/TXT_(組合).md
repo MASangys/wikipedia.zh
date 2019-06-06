@@ -114,7 +114,9 @@ Dog](https://zh.wikipedia.org/wiki/Cat_&_Dog "wikilink")》进行为期一周的
 Countdown作为回归初舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")。\[31\]
 
 5月3日，韓國時間18時，官方[Youtube頻道公開](https://zh.wikipedia.org/wiki/Youtube "wikilink")《Cat
-& Dog (English ver.)》音樂錄影帶 \[32\]，並於同日韓國時間18時發行音源。\[33\]
+& Dog (English ver.)》音樂錄影帶 \[32\]，並於同日韓國時間18時發行數位音源。\[33\]
+
+5月31日，韓國時間18時，發行《Our Summer (Acoustic Mix)》的數位音源。
 
 ## 音樂作品
 
@@ -134,6 +136,7 @@ Countdown作为回归初舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wiki
 <!-- end list -->
 
   - 2019年《Cat & Dog (English ver.)》
+  - 2019年《Our Summer (Acoustic Mix)》
 
 ## 影視作品
 
@@ -150,9 +153,9 @@ Countdown作为回归初舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wiki
 
 ## 雜誌畫報
 
-| 年份    | 雜誌名稱    | 期數  | 合作品牌 | 參與成員 | 備註     |
-| ----- | ------- | --- | ---- | ---- | ------ |
-| 2019年 | W KOREA | 5月號 |      | 全員   | \[35\] |
+| 年份    | 雜誌名稱    | 期數  | 合作品牌 | 參與成員 | 備註           |
+| ----- | ------- | --- | ---- | ---- | ------------ |
+| 2019年 | W KOREA | 5月號 |      | 全員   | \[35\]\[36\] |
 
 ## 演唱會及其他演出
 
@@ -216,6 +219,19 @@ Countdown作为回归初舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wiki
 | [Mnet](../Page/Mnet媒體.md "wikilink") |
 | 1                                    |
 | 一位總數：3                               |
+
+## 爭議
+
+2019年4月25日，於TOMORROW X TOGETHER官方粉絲社區宣布官方粉絲名稱為「Young
+One」（），是從眾多粉絲推薦的名字中所選出。意指「我們從什麼都不是（0，韓語發音為Young），到相遇後成為了一體（One）」，「Young
+One」也有著「永遠」的意思（韓語發音），TOMORROW X
+TOGETHER成員們願所有粉絲都能夠永遠陪伴在他們身邊。因為與[Tiffany的個人粉絲名稱](../Page/Tiffany_\(少女時代\).md "wikilink")「Young
+One」，以及意義「永遠」相同而引發爭議\[37\]。
+
+5月6日，所屬經紀公司[Big
+Hit娛樂針對撞名爭議發表官方立場聲明](../Page/Big_Hit娛樂.md "wikilink")，向等待TOMORROW
+X TOGETHER官方粉絲名稱公開的粉絲們，以及對此次事件感到不愉快的人們致歉，並決定重新選定TOMORROW X
+TOGETHER官方粉絲名稱\[38\]。
 
 ## 註釋
 
@@ -291,3 +307,6 @@ Countdown作为回归初舞台](https://zh.wikipedia.org/wiki/M!_Countdown "wiki
 33.
 34.
 35.
+36.
+37.
+38.

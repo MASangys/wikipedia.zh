@@ -2,7 +2,8 @@
 ANS开发\[2\]。
 
 KulturNav旨在加强对档案馆，图书馆和博物馆中遗产信息的访问，使用共同的[元数据在各机构之间工作](../Page/元数据.md "wikilink")。因此，许多机构可以合作建立标准命名和术语列表\[3\]。元数据作为链接的开放数据（LOD）发布，可以与其他LOD资源进一步链接\[4\]。[应用程序编程接口](https://zh.wikipedia.org/wiki/应用程序编程接口 "wikilink")（API）当前支持[HTTP
-GET请求以读取数据](https://zh.wikipedia.org/wiki/HTTP#请求方法 "wikilink")。API调用目前尚未经过身份验证或授权，这意味着系统只返回任何用户可读的已发布内容\[5\]。该系统是在中使用[Solr和](../Page/Solr.md "wikilink")[jQuery一起开发的](https://zh.wikipedia.org/wiki/jQuery "wikilink")\[6\]。
+GET请求以读取数据](https://zh.wikipedia.org/wiki/HTTP#请求方法 "wikilink")。API调用目前尚未经过身份验证或授权，这意味着系统只返回任何用户可读的已发布内容\[5\]。该系统是在[Play
+Framework中使用](https://zh.wikipedia.org/wiki/Play_Framework "wikilink")[Solr和](../Page/Solr.md "wikilink")[jQuery一起开发的](https://zh.wikipedia.org/wiki/jQuery "wikilink")\[6\]。
 
 运营者KulturIT公司于2013年成立，由五个挪威博物馆和一个[瑞典博物馆所有](../Page/瑞典.md "wikilink")\[7\]。是一个非盈利组织\[8\]
 。
@@ -40,8 +41,8 @@ photography）开始转移到KulturNav网站\[11\]。瑞典建筑师名册也可
 
 8.
 9.  [*Seminar Lansering av KulturNav* (Launch
-    seminar)](http://www.kulturradet.no/kalender/hendelse/-/lansering-av-kulturnav-200115),
-    Arts Council Norway
+    seminar)](http://www.kulturradet.no/kalender/hendelse/-/lansering-av-kulturnav-200115)
+    , Arts Council Norway
 
 10. [Digisam, "KulturNav" (PowerPoint
     presentation)](http://www.digisam.se/images/docs/Bodin_KulturNav_DISKA_20140211_dist.pdf)

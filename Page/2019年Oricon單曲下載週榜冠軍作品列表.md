@@ -133,6 +133,41 @@
 <td><p>2.5</p></td>
 <td><p>[13]</p></td>
 </tr>
+<tr class="even">
+<td><p>5月6日</p></td>
+<td></td>
+<td><p><a href="../Page/LiSA.md" title="wikilink">LiSA</a></p></td>
+<td><p>2.1</p></td>
+<td><p>[14]</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月13日</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月20日</p></td>
+<td><p>Remember me</p></td>
+<td><p><a href="../Page/MAN_WITH_A_MISSION.md" title="wikilink">MAN WITH A MISSION</a></p></td>
+<td><p>3.2</p></td>
+<td><p>[15]</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月27日</p></td>
+<td><p>找不同</p></td>
+<td><p><a href="../Page/菅田將暉.md" title="wikilink">菅田將暉</a></p></td>
+<td><p>9.9</p></td>
+<td><p>[16]</p></td>
+</tr>
+<tr class="even">
+<td><p>6月3日</p></td>
+<td><p>6.5</p></td>
+<td><p>[17]</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -172,3 +207,10 @@
     エド・シーランとのコラボ曲も収録【オリコンランキング】](https://www.oricon.co.jp/news/2133736/)
 13. [あいみょん、デジタルSG&ストリーミング同時1位
     『しんちゃん』主題歌が好調【オリコンランキング】](https://www.oricon.co.jp/news/2134286/)
+14. [あいみょん「マリーゴールド」が18週連続首位
+    累積再生回数4000万回突破【オリコンランキング】](https://www.oricon.co.jp/news/2135024/)
+15. [MAN WITH A MISSION、自身初のデジタルシングル1位
+    月9ドラマ『ラジエーションハウス』主題歌【オリコンランキング】](https://www.oricon.co.jp/news/2135455/)
+16. [菅田将暉、米津玄師プロデュース曲で初のデジタル1位「自分の曲にすることが一生涯の務め」【オリコンランキング】](https://www.oricon.co.jp/news/2135950/full/)
+17. [乃木坂46、デジタルALが自身初の1位
+    シングルでは菅田将暉が2週連続首位【オリコンランキング】](https://www.oricon.co.jp/news/2136420/full/)

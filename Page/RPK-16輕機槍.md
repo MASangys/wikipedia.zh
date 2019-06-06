@@ -14,7 +14,7 @@ Kalashnikova，；前稱：伊茨瑪希工廠，，[俄语罗马化](../Page/俄
 ## 設計細節
 
 根據客戶的指示，RPK-16是可與國外[5.56×45毫米北約](../Page/5.56×45mm_NATO.md "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[FN
-Minimi和](../Page/FN_Minimi輕機槍.md "wikilink")[M249輕機槍比較的俄製產品](../Page/M249班用自動武器.md "wikilink")，結合了強大的[火力與足夠的機動力特性](https://zh.wikipedia.org/wiki/火力 "wikilink")，能夠快速更換槍管並且以[彈匣與金屬製](../Page/彈匣.md "wikilink")[彈鏈供彈](../Page/彈鏈.md "wikilink")（北約標準的突擊步槍）。但是，RPK-16的研發人員拒絕採用雙重供彈設計，因此它將可兼容AK-74、RPK-74，以及AK-12的彈匣。\[9\]目前，製造商正在為其研發一款特殊、容量達到96發的彈鼓，並且用作其標準供彈具。
+Minimi和](../Page/FN_Minimi輕機槍.md "wikilink")[M249輕機槍比較的俄製產品](../Page/M249班用自動武器.md "wikilink")，結合了強大的[火力與足夠的機動力特性](https://zh.wikipedia.org/wiki/火力 "wikilink")，能夠快速更換槍管並且以[彈匣與金屬製](../Page/彈匣.md "wikilink")[彈鏈供彈](../Page/彈鏈.md "wikilink")（北約標準的突擊步槍）。但是，RPK-16的研發人員拒絕採用雙排供彈設計，因此它將可兼容AK-74、RPK-74，以及AK-12的彈匣。\[9\]目前，製造商正在為其研發一款特殊、容量達到96發的彈鼓，並且用作其標準供彈具。
 
 RPK-16的佈局類似於AK-12，但具有經過改進的[人體工程學](https://zh.wikipedia.org/wiki/人體工程學 "wikilink")[手槍握把與折疊](https://zh.wikipedia.org/wiki/手槍握把 "wikilink")[槍托設計](../Page/槍托.md "wikilink")。該機槍的淨重量約為4.5公斤。此外，該機槍保留了傳統的卡拉什尼科夫[氣動式系統設計](../Page/氣動式_\(槍械\).md "wikilink")，裝有長行程活塞，以確保其牢固的結構與高度可靠性。RPK-16具有較低的後座係數與較高的射擊[精度](../Page/準確與精密.md "wikilink")，在火力方面明顯優於RPK-74。其射速高達700發／分鐘。
 除了全自動（連發）以外，亦可以半自動（單發）與點放（點發）模式射擊。
@@ -31,7 +31,7 @@ RPK-16亦採用了全新設計的可拆卸式[機匣蓋](https://zh.wikipedia.or
 ## 使用國
 
   -   - [俄羅斯聯邦武裝力量](https://zh.wikipedia.org/wiki/俄羅斯聯邦武裝力量 "wikilink")：
-        2018年2月，卡拉什尼科夫關注的總幹事阿列克謝·克里沃庫奇宣布，現已與[俄羅斯聯邦國防部簽署了RPK](https://zh.wikipedia.org/wiki/俄羅斯聯邦國防部 "wikilink")-16的持續供貨合同。\[12\]\[13\]
+        2018年2月，卡拉什尼科夫集團的總幹事阿列克謝·克里沃庫奇宣布，現已與[俄羅斯聯邦國防部簽署了RPK](https://zh.wikipedia.org/wiki/俄羅斯聯邦國防部 "wikilink")-16的持續供貨合同。\[12\]\[13\]
       - [俄羅斯聯邦安全局](../Page/聯邦安全局.md "wikilink")
 
 ## 流行文化

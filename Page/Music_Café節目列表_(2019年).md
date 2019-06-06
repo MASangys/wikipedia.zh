@@ -53,6 +53,21 @@ Café節目列表**　**[2010年](../Page/Music_Café節目列表_\(2010年\).md
 | 417 | 4月20日  | 糖兄妹、新青年理髮廳　對未來的想像 | [糖兄妹](../Page/糖兄妹.md "wikilink")、[新青年理髮廳](../Page/新青年理髮廳.md "wikilink") |- style="background-color: \#FFFFFF" |              |
 | 418 | 4月27日  | 馮允謙、龔柯允　為音樂走下去    | [馮允謙](../Page/馮允謙.md "wikilink")、[龔柯允](https://zh.wikipedia.org/wiki/龔柯允 "wikilink") |- style="background-color: \#FFFFFF" | |
 
+## 5月
+
+| 集數  | J2首播日期 | 主題                     | 嘉賓                                                                                                                                                |
+| --- | ------ | ---------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 419 | 5月4日   | 陳健安、鄧小巧　談個人定義          | [陳健安](../Page/陳健安.md "wikilink")、[鄧小巧](https://zh.wikipedia.org/wiki/鄧小巧 "wikilink") |- style="background-color: \#FFFFFF" |                      |
+| 420 | 5月11日  | \-{余}-震東、甄詠珊、潘伯仲　各有各風格 | [-{余}-震東](../Page/余震東.md "wikilink")、[甄詠珊](../Page/甄詠珊.md "wikilink")、[潘伯仲](../Page/潘伯仲.md "wikilink") |- style="background-color: \#FFFFFF" |    |
+| 421 | 5月18日  | 謝東閔、安俊豪、李晧軒　大男孩的音樂夢    | [謝東閔](../Page/謝東閔_\(香港\).md "wikilink")、[安俊豪](../Page/安俊豪.md "wikilink")、[李晧軒](../Page/李晧軒.md "wikilink") |- style="background-color: \#FFFFFF" | |
+| 422 | 5月25日  | 吳若希、朱紫嬈　出道十年新大計        | [吳若希](../Page/吳若希.md "wikilink")、[朱紫嬈](../Page/朱紫嬈.md "wikilink") |- style="background-color: \#FFFFFF" |                                         |
+
+## 6月
+
+| 集數  | J2首播日期 | 主題              | 嘉賓                                                                                                        |
+| --- | ------ | --------------- | --------------------------------------------------------------------------------------------------------- |
+| 423 | 6月1日   | 鍾舒祺、黃浩邦　忠於自己的音樂 | [鍾舒祺](../Page/鍾舒祺.md "wikilink")、[黃浩邦](../Page/黃浩邦.md "wikilink") |- style="background-color: \#FFFFFF" | |
+
 [Category:無綫電視節目列表](https://zh.wikipedia.org/wiki/Category:無綫電視節目列表 "wikilink")
 [Category:Music_Café](https://zh.wikipedia.org/wiki/Category:Music_Café "wikilink")
 [Category:2019年無綫電視節目](https://zh.wikipedia.org/wiki/Category:2019年無綫電視節目 "wikilink")

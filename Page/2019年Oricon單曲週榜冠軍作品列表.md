@@ -133,6 +133,41 @@
 <td><p>7.3</p></td>
 <td><p>1</p></td>
 </tr>
+<tr class="even">
+<td><p>5月6日</p></td>
+<td></td>
+<td><p><a href="../Page/Johnny&#39;s_WEST.md" title="wikilink">Johnny's WEST</a></p></td>
+<td><p>15.9</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月13日</p></td>
+<td><p>心動了</p></td>
+<td><p>日向坂46</p></td>
+<td><p>1.7</p></td>
+<td><p>2</p></td>
+</tr>
+<tr class="even">
+<td><p>5月20日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Dark_Knight" title="wikilink">Dark Knight</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_N&#39;_ONLY" title="wikilink">ONE N' ONLY</a></p></td>
+<td><p>4.6</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月27日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Rain_(龜梨和也單曲)" title="wikilink">Rain</a></p></td>
+<td><p><a href="../Page/龜梨和也.md" title="wikilink">龜梨和也</a></p></td>
+<td><p>13.6</p></td>
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>6月3日</p></td>
+<td></td>
+<td><p><a href="../Page/Hey!_Say!_JUMP.md" title="wikilink">Hey! Say! JUMP</a> / <a href="../Page/山田涼介.md" title="wikilink">山田涼介</a></p></td>
+<td><p>19.9</p></td>
+<td><p>1</p></td>
+</tr>
 </tbody>
 </table>
 

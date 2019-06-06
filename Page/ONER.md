@@ -20,6 +20,7 @@
 <td><p>身高</p></td>
 <td><p>學歷</p></td>
 <td><p>隊內擔當及才藝</p></td>
+<td><p>個人應援色</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/岳岳" title="wikilink">岳岳</a></p></td>
@@ -31,6 +32,7 @@
 <td><p>183cm</p></td>
 <td><p>英國<a href="../Page/格拉斯哥大學.md" title="wikilink">格拉斯哥大學</a></p></td>
 <td><p>隊長、唱歌、RAP、跳舞、吉他</p></td>
+<td><p>邏輯統治紫（LOGIC RULE）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/木子洋.md" title="wikilink">木子洋</a></p></td>
@@ -42,6 +44,7 @@
 <td><p>188cm</p></td>
 <td><p>中國<a href="https://zh.wikipedia.org/wiki/北京服裝學院" title="wikilink">北京服裝學院</a></p></td>
 <td><p>唱歌、跳舞、鋼琴</p></td>
+<td><p>噗通粉（TO MY SWEET HEART）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/卜凡_(歌手).md" title="wikilink">卜 凡</a></p></td>
@@ -53,6 +56,7 @@
 <td><p>192cm</p></td>
 <td><p>中國<a href="https://zh.wikipedia.org/wiki/北京服裝學院" title="wikilink">北京服裝學院</a></p></td>
 <td><p>RAP、跳舞、即興饒舌</p></td>
+<td><p>無限鎏金（INFINITY GOLD）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/靈超.md" title="wikilink">靈 超</a></p></td>
@@ -64,6 +68,7 @@
 <td><p>183cm</p></td>
 <td><p>沙河一中</p></td>
 <td><p>老么、唱歌、跳舞、爵士鼓</p></td>
+<td><p>精靈藍（HEAVEN AND HELL）</p></td>
 </tr>
 </tbody>
 </table>
@@ -168,6 +173,8 @@
 | 2019年2月5日  |
 | 2019年2月10日 |
 | 2019年3月18日 |
+| 2019年4月19日 |
+| 2019年5月4日  |
 
 ## 見面會及簽售會
 

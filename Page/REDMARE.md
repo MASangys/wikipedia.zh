@@ -119,13 +119,13 @@ Velvet](../Page/Perfect_Velvet.md "wikilink")》的大部分曲目。以[首爾�
 <td><p><a href="https://zh.wikipedia.org/wiki/福岡县" title="wikilink">福岡县</a><a href="../Page/福岡市.md" title="wikilink">福岡市</a></p></td>
 <td></td>
 <td></td>
-<td><p>15,000</p></td>
+<td><p>40,000</p></td>
 </tr>
 <tr class="odd">
 <td><p>1月12日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/兵庫县" title="wikilink">兵庫县</a><a href="https://zh.wikipedia.org/wiki/神戶市" title="wikilink">神戶市</a></p></td>
 <td></td>
-<td><p>16,000</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -141,7 +141,7 @@ Velvet](../Page/Perfect_Velvet.md "wikilink")》的大部分曲目。以[首爾�
 <td><p>1月29日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/神奈川县" title="wikilink">神奈川县</a><a href="https://zh.wikipedia.org/wiki/橫濱市" title="wikilink">橫濱市</a></p></td>
 <td><p><a href="../Page/橫濱體育館.md" title="wikilink">橫濱體育館</a></p></td>
-<td><p>34,020</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -158,7 +158,7 @@ Velvet](../Page/Perfect_Velvet.md "wikilink")》的大部分曲目。以[首爾�
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td></td>
 <td></td>
-<td><p>5,994</p></td>
+<td><p>6,000</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -189,7 +189,7 @@ Velvet](../Page/Perfect_Velvet.md "wikilink")》的大部分曲目。以[首爾�
 <td><p>2月15日</p></td>
 <td><p><a href="../Page/芝加哥.md" title="wikilink">芝加哥</a></p></td>
 <td></td>
-<td><p>3,553</p></td>
+<td><p>3,453</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -197,7 +197,7 @@ Velvet](../Page/Perfect_Velvet.md "wikilink")》的大部分曲目。以[首爾�
 <td><p>2月17日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/紐華克" title="wikilink">紐華克</a></p></td>
 <td></td>
-<td><p>2,800</p></td>
+<td><p>3,000</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -219,7 +219,7 @@ Velvet](../Page/Perfect_Velvet.md "wikilink")》的大部分曲目。以[首爾�
 </tr>
 <tr class="odd">
 <td><p>colspan= 5"| 總計</p></td>
-<td><p>126,067</p></td>
+<td><p>101,153</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -260,6 +260,7 @@ Velvet](../Page/Perfect_Velvet.md "wikilink")》的大部分曲目。以[首爾�
   - 新加坡場 － ONE PRODUCTION
   - 日本場 － AVEX TRAX
   - 美国场 - SubKulture Entertainment
+  - 加拿大场 - Kpop Me Entertainment
 
 <!-- end list -->
 
@@ -270,9 +271,9 @@ Velvet](../Page/Perfect_Velvet.md "wikilink")》的大部分曲目。以[首爾�
   - 首爾場 － \[7\]
   - 曼谷場 － TRUE MOVE H\[8\]
   - 臺北場 － tixCraft\[9\]
-  - 杜佛場 － APACTix\[10\]
+  - 新加坡場 － APACTix\[10\]
   - 日本場 － YAHOO TICKET
-  - 美国场、多伦多场 - TicketMaster
+  - 北美场 - TicketMaster
 
 ## 參考資料
 

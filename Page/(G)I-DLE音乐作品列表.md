@@ -1,4 +1,4 @@
-**(G)I-DLE音乐作品列表**主要记载韩国女子音乐组合[(G)I-DLE及成员个人发行的音乐作品](../Page/\(G\)I-DLE.md "wikilink")。
+**(G)I-DLE音乐作品列表**主要记载韩国女子音乐组合[(G)I-DLE团体及成员发行的音乐作品](../Page/\(G\)I-DLE.md "wikilink")。迄今为止，团体共发行了1首单曲、2张迷你专辑，成员小娟发行了2首单曲。
 
 ## 韩语作品
 
@@ -140,7 +140,7 @@
 </tr>
 <tr class="even">
 <td><p>Mermaid</p></td>
-<td><p><a href="../Page/李旼赫.md" title="wikilink">李旼赫</a>、<a href="https://zh.wikipedia.org/wiki/Peniel" title="wikilink">Peniel</a>、<a href="https://zh.wikipedia.org/wiki/郑鎰勳" title="wikilink">郑鎰勳</a>、<a href="https://zh.wikipedia.org/wiki/张睿恩" title="wikilink">张睿恩</a>、<a href="https://zh.wikipedia.org/wiki/郑禹奭" title="wikilink">郑禹奭</a>、田小娟</p></td>
+<td><p><a href="../Page/李旼赫.md" title="wikilink">李旼赫</a>、<a href="https://zh.wikipedia.org/wiki/Peniel" title="wikilink">Peniel</a>、<a href="https://zh.wikipedia.org/wiki/郑鎰勳" title="wikilink">郑鎰勳</a>、<a href="https://zh.wikipedia.org/wiki/张睿恩" title="wikilink">张睿恩</a>、<a href="https://zh.wikipedia.org/wiki/郑禹奭" title="wikilink">郑禹奭</a>、<a href="https://zh.wikipedia.org/wiki/田小娟" title="wikilink">田小娟</a></p></td>
 <td><p>小娟</p></td>
 <td></td>
 <td></td>
@@ -190,6 +190,33 @@
 | 2019年1月15日  | Hutazone\[16\]                                                                      | 你也是？我也是！        | [李旼赫](../Page/李旼赫.md "wikilink")(feat.[田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink"))                                                                                                                      |      |
 | 2019年3月4日   | I Wanna Be正规一辑Repackage\[17\]                                                       | I Wanna Be      | [金起范](https://zh.wikipedia.org/wiki/Key_\(歌手\) "wikilink")(feat.[田小娟](https://zh.wikipedia.org/wiki/田小娟 "wikilink"))                                                                                            |      |
 
+## 日语作品
+
+### 迷你专辑
+
+<table>
+<thead>
+<tr class="header">
+<th><p>专辑</p></th>
+<th><p>专辑资料</p></th>
+<th><p>曲目</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong>1st</strong></p></td>
+<td><p><strong>《<a href="https://zh.wikipedia.org/wiki/LATATA_（日语专辑）" title="wikilink">LATATA</a>》</strong>[18]</p>
+<ul>
+<li>发行日期：2019年7月31日</li>
+<li>语言：日语</li>
+<li>类型：</li>
+<li>销量：</li>
+</ul></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 其他歌曲
 
 ### 中文作品
@@ -207,8 +234,8 @@
 <tbody>
 <tr class="odd">
 <td><p>2019年4月22日</p></td>
-<td><p>综艺《<a href="../Page/奔跑吧.md" title="wikilink">奔跑吧》主题曲</a></p></td>
-<td><p>造亿万吨光芒[18]</p></td>
+<td><p>综艺《奔跑吧》主题曲</p></td>
+<td><p>造亿万吨光芒[19]</p></td>
 <td></td>
 <td><p>雨琦</p></td>
 </tr>
@@ -217,15 +244,15 @@
 
 ### 英语作品
 
-| 发行日期                              | 专辑名称/项目名称                                   | 歌曲名称                                                                  | 歌手                                                                        | 参与成员   |
-| --------------------------------- | ------------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------ |
-| 2017年11月13日                       | Dance Party\!(English Ver.)-Kids song\[19\] | Hot Summer                                                            | LINE FRIENDS(Feat. Minnie)                                                | Minnie |
-| Morning Sunrise                   |                                             |                                                                       |                                                                           |        |
-| Dinosaur Song (Herbivore Ver.)    |                                             |                                                                       |                                                                           |        |
-| The Brush Brush Song              |                                             |                                                                       |                                                                           |        |
-| Oats, Peas, Beans and Barley Grow |                                             |                                                                       |                                                                           |        |
-| Clap Concert                      |                                             |                                                                       |                                                                           |        |
-| 2018年11月3日                        | K/DA                                        | [POP/STARS](https://zh.wikipedia.org/wiki/POP/STARS "wikilink")\[20\] | [Madison Beer](https://zh.wikipedia.org/wiki/麦迪逊·比尔 "wikilink")、(G)I-DLE、 | 美延、小娟  |
+| 发行日期                              | 专辑名称/项目名称                                   | 歌曲名称                                                                  | 歌手                                                                                                        | 参与成员   |
+| --------------------------------- | ------------------------------------------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ------ |
+| 2017年11月13日                       | Dance Party\!(English Ver.)-Kids song\[20\] | Hot Summer                                                            | [LINE FRIENDS](https://zh.wikipedia.org/wiki/连我 "wikilink")(Feat. [Minnie](../Page/Minnie.md "wikilink")) | Minnie |
+| Morning Sunrise                   |                                             |                                                                       |                                                                                                           |        |
+| Dinosaur Song (Herbivore Ver.)    |                                             |                                                                       |                                                                                                           |        |
+| The Brush Brush Song              |                                             |                                                                       |                                                                                                           |        |
+| Oats, Peas, Beans and Barley Grow |                                             |                                                                       |                                                                                                           |        |
+| Clap Concert                      |                                             |                                                                       |                                                                                                           |        |
+| 2018年11月3日                        | K/DA                                        | [POP/STARS](https://zh.wikipedia.org/wiki/POP/STARS "wikilink")\[21\] | [Madison Beer](https://zh.wikipedia.org/wiki/麦迪逊·比尔 "wikilink")、(G)I-DLE、                                 | 美延、小娟  |
 
 ## 创作作品
 
@@ -452,11 +479,12 @@
 
 ### Minnie
 
-Minnie（민니）未在韩国音乐著作权家协会登记。\[21\]
+Minnie（민니）未在韩国音乐著作权家协会注册\[22\]。
 
-| 年份    | 歌曲名称           | 歌手       | 参与作词 | 参与作曲 | 参与编曲 |
-| ----- | -------------- | -------- | ---- | ---- | ---- |
-| 2019年 | Blow Your Mind | (G)I-DLE | √    | √    | √    |
+| 年份      | 歌曲名称           | 歌手       | 参与作词 | 参与作曲 | 参与编曲 |
+| ------- | -------------- | -------- | ---- | ---- | ---- |
+| 2019年   | Blow Your Mind | (G)I-DLE | √    | √    | √    |
+| For You |                |          |      |      |      |
 
 ## 参考资料
 
@@ -510,12 +538,14 @@ Minnie（민니）未在韩国音乐著作权家协会登记。\[21\]
 17. [I Wanna Be - The 1st Album
     Repackage](https://www.melon.com/album/detail.htm?albumId=10256412).
     Melon. March 4, 2019.
-18. [造亿万吨光芒](https://y.qq.com/n/yqq/album/004AkYC83vY8To.html). 腾讯音乐.
+18. [LATATA](https://sp.universal-music.co.jp/g-i-dle/latata/). 日本环球音乐.
+    July 31, 2019.
+19. [造亿万吨光芒](https://y.qq.com/n/yqq/album/004AkYC83vY8To.html). 腾讯音乐.
     April 22, 2019.
-19. [Dance Party\! - 어린이
+20. [Dance Party\! - 어린이
     영어동요](http://www.melon.com/album/detail.htm?albumId=10110671).
     Melon. November 13, 2017.
-20. [POP/STARS](https://www.melon.com/album/detail.htm?albumId=10218827).
+21. [POP/STARS](https://www.melon.com/album/detail.htm?albumId=10218827).
     Melon. November 4, 2018.
-21. [KOMCA민니搜索](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=민니).
+22. [KOMCA민니搜索](https://www.komca.or.kr/srch2/srch_01_popup_mem_right.jsp?S_MB_CD=민니).
     KOMCA. February, 2019.

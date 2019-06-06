@@ -20,7 +20,7 @@
 | 藝名                                                    |
 | 漢字                                                    |
 | Rensika                                               |
-| [家儀](../Page/家儀.md "wikilink")                        |
+| [家儀](https://zh.wikipedia.org/wiki/李家儀 "wikilink")    |
 | **[允惠](https://zh.wikipedia.org/wiki/允惠 "wikilink")** |
 | [鍍我](https://zh.wikipedia.org/wiki/鍍我 "wikilink")     |
 | 湘兒                                                    |

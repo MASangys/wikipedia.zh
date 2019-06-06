@@ -664,8 +664,7 @@ Plan），该计划包含28项改善巴士服务的建议。此后的十二个�
 
 80.
 
-81. [MTA Capital Milestone Report
-    (2010–2014)](http://web.mta.info/capitaldashboard/pdf/Milestones_Report.pdf)
+81.
 
 82.
 

@@ -44,7 +44,7 @@ X可透过两张nano-SIM卡实现双卡功能\[3\]；而在其他地区，可透
 
 iPhone X沿用[iPhone
 X的](https://zh.wikipedia.org/wiki/iPhone_X "wikilink")[全面屏设计](../Page/全螢幕手機.md "wikilink")，圆角显示屏一直延伸到屏幕边缘。由于搭载[面容
-ID](../Page/面容_ID.md "wikilink")，手机正面仍然有“刘海”设计。与iPhone X、[XS/XS
+ID](../Page/面容_ID.md "wikilink")，手机正面仍然有“瀏海”设计。与iPhone X、[XS/XS
 Max不同](../Page/IPhone_XS.md "wikilink")，X的机身并未采用不锈钢，而是沿用了[iPhone
 8时代的铝合金](https://zh.wikipedia.org/wiki/iPhone_8 "wikilink")+玻璃背板设计。iPhone
 X提供六种颜色，分别是黑色、白色、蓝色、黄色、珊瑚红色以及[Product
@@ -57,7 +57,7 @@ iPhone X使用一块6.1英寸的Liquid
 [视网膜LCD显示屏](../Page/Retina显示屏.md "wikilink")。分辨率为1792\*828，[ppi为](../Page/每英寸像素.md "wikilink")326，对比度1400:1，最大亮度625cd/m2，ppi与iPhone
 8相同而逊于iPhone 8
 Plus。该屏幕被苹果称为“最先进的LCD屏幕”，搭载原彩显示技术，并且支持P3广色域显示，但是该屏幕并不支持HDR显示。iPhone
-X屏幕还采用了像素遮罩及子像素抗锯齿技术，保证屏幕的圆角边缘显示依旧清晰。iPhone X并未配备自苹果iPhone
+X屏幕还采用像素遮罩及子像素抗锯齿技术，保证屏幕的圆角边缘显示依旧清晰。iPhone X并未配备自苹果iPhone
 6s起运用的三维触控技术，但仍然搭载有[线性马达](../Page/直線電動機.md "wikilink")，并设计了长按+触觉反馈的“[Haptic
 Touch](https://zh.wikipedia.org/wiki/Haptic_Touch "wikilink")”功能弥补三维触控缺位带来的不便。\[4\]
 

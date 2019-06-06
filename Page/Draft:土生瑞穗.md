@@ -4,7 +4,7 @@
 
 高中一年級時受動漫《[K-ON\!\!](https://zh.wikipedia.org/wiki/K-ON!! "wikilink")》中的角色[中野梓的影響加入輕音部](https://zh.wikipedia.org/wiki/中野梓 "wikilink")\[8\]\[9\]。在輕音部的1年裡\[10\]，學會了用電吉他演奏[ONE
 OK
-ROCK的歌曲](https://zh.wikipedia.org/wiki/ONE_OK_ROCK "wikilink")\[11\]。也慢慢地注意起自己的打扮\[12\]，將來想成為設計師和髮型師
+ROCK的歌曲](../Page/ONE_OK_ROCK.md "wikilink")\[11\]。也慢慢地注意起自己的打扮\[12\]，將來想成為設計師和髮型師
 \[13\]。但在高中三年级时
 ，作为升学对象，通过美容专科学校考试也成为了高中生时代最后的回忆\[14\]，在小组同学的劝说下参加了榉坂46的招募。\[15\]。
 

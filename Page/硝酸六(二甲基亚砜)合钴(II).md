@@ -9,6 +9,7 @@
 
 [Category:二甲基亚砜配合物](https://zh.wikipedia.org/wiki/Category:二甲基亚砜配合物 "wikilink")
 [Category:钴配合物](https://zh.wikipedia.org/wiki/Category:钴配合物 "wikilink")
+[Category:二价钴化合物](https://zh.wikipedia.org/wiki/Category:二价钴化合物 "wikilink")
 [Category:硝酸盐](https://zh.wikipedia.org/wiki/Category:硝酸盐 "wikilink")
 
 1.  Moneva M., Daniel; Suwalsky W., Mario; Weinert S., Otto. Dissolving

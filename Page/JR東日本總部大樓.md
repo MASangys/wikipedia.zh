@@ -23,7 +23,7 @@
     工事画報社、昭和13年（1938年）1月。
       - [鉄道省庁舎新築第一期工事](http://library.jsce.or.jp/Image_DB/mag/gaho/kenchikukouji/14-01/14-01-2581.pdf)
   - 『[建築雑誌 第52輯
-    第635號](http://ci.nii.ac.jp/vol_issue/nels/AN00079427/ISS0000407527_ja.html)』
+    第635號](https://web.archive.org/web/20140410024427/http://ci.nii.ac.jp/vol_issue/nels/AN00079427/ISS0000407527_ja.html)』
     建築學會、昭和13年（1938年）2月。
       - [竣工建築物](http://ci.nii.ac.jp/els/contents?id=ART0008335366&type=pdf&host=cinii&lang=jp)
   - 『[土木建築工事画報

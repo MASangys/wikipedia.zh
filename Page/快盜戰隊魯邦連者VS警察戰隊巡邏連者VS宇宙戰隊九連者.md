@@ -46,7 +46,7 @@ Matter的隱藏寶藏，讓Don Armage成為他宇宙的統治者。
   - Garu / 豺狼藍 - [中井和哉](../Page/中井和哉.md "wikilink")
   - Balance / 天秤金 - [小野友樹](../Page/小野友樹.md "wikilink")
   - Champ / 金牛黑 - [大塚明夫](../Page/大塚明夫.md "wikilink")
-  - Raptor 283 / 天鷹粉 - [M・A・O](../Page/市道真央.md "wikilink")
+  - Raptor 283 / 天鷹粉紅 - [M・A・O](../Page/市道真央.md "wikilink")
   - 蕭・龍波 / 天龍司令 - [神谷浩史](../Page/神谷浩史.md "wikilink")
   - 最佳前鋒（Gooty） - [三矢雄二](../Page/三矢雄二.md "wikilink")
   - Jim Carter - [釘宮理惠](../Page/釘宮理惠.md "wikilink")
@@ -55,3 +55,8 @@ Matter的隱藏寶藏，讓Don Armage成為他宇宙的統治者。
 ## 註釋
 
 ## 外部連結
+
+[ja:ルパンレンジャーVSパトレンジャーVSキュウレンジャー](https://zh.wikipedia.org/wiki/ja:ルパンレンジャーVSパトレンジャーVSキュウレンジャー "wikilink")
+
+[Category:超級戰隊系列](https://zh.wikipedia.org/wiki/Category:超級戰隊系列 "wikilink")
+[Category:超級戰隊系列電影作品](https://zh.wikipedia.org/wiki/Category:超級戰隊系列電影作品 "wikilink")

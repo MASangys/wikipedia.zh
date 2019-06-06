@@ -2,16 +2,61 @@
 
 ## 演員列表
 
-| 演員  | 角色 | 介紹 |
-| --- | -- | -- |
-| 莊凱勛 | 老馬 |    |
-| 劉品言 | 雨晴 |    |
-| 古斌  | 文峰 |    |
-| 楊謹華 | 宜君 |    |
-| 宋芸樺 | 維娜 |    |
-| 許時豪 | 天天 |    |
-| 林哲熹 | 阿賓 |    |
-| 謝欣穎 | 小艾 |    |
+<table style="width:50%;">
+<colgroup>
+<col style="width: 15%" />
+<col style="width: 5%" />
+<col style="width: 30%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p>演員</p></td>
+<td><p>角色</p></td>
+<td><p>簡介</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/莊凱勛.md" title="wikilink">莊凱勛</a></p></td>
+<td><p>老馬</p></td>
+<td><p><strong>格鬥拳擊手</strong><br />
+</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/劉品言.md" title="wikilink">劉品言</a></p></td>
+<td><p>雨晴</p></td>
+<td><p><strong>酒店小姐</strong><br />
+</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/宋芸樺.md" title="wikilink">宋芸樺</a></p></td>
+<td><p>維娜</p></td>
+<td><p><strong>廣播主持人</strong><br />
+</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/楊謹華.md" title="wikilink">楊謹華</a></p></td>
+<td><p>宜君</p></td>
+<td><p><strong>維娜之母</strong><br />
+</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/林哲熹.md" title="wikilink">林哲熹</a></p></td>
+<td><p>阿賓</p></td>
+<td><p><strong>記憶銀行職員</strong><br />
+</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/謝欣穎.md" title="wikilink">謝欣穎</a></p></td>
+<td><p>小艾</p></td>
+<td><p><strong>記憶銀行創辦人</strong><br />
+</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 
@@ -33,7 +78,6 @@
 
 ## 外部連結
 
-[愛的廣義相對論粉絲頁](https://www.facebook.com/MemoryEclipse/)
+[愛的廣義相對論的Facebook專頁](https://www.facebook.com/MemoryEclipse/)
 
 [緣份‧黑天鵝 (2019)豆瓣](https://movie.douban.com/subject/30377877/)
-[:Category:使用创建条目精灵建立的页面](https://zh.wikipedia.org/wiki/Category:使用创建条目精灵建立的页面 "wikilink")

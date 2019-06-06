@@ -63,7 +63,7 @@ Cultural Blog）奖。\[4\]
 1.
 2.
 3.  [School Galleries on
-    Behance](https://www.behance.net/galleries/schools), Behance.net
+    Behance](https://www.behance.net/galleries/schools) , Behance.net
 4.
 5.
 6.

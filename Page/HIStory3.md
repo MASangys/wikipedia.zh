@@ -1,4 +1,4 @@
-《**[HIStory系列](../Page/HIStory_\(2017年電視劇\).md "wikilink")**》，第三季分為二個單元《圈套》、《那一天》\[1\]於2018年第四季開拍，編劇一樣找來成功打造第一與第二季的的林珮瑜，李青蓉和蔡宓潔導演也將再次執導第三季。
+《**[HIStory系列](../Page/HIStory_\(2017年電視劇\).md "wikilink")**》，第三季分為二個單元《圈套》、《那一天》\[1\]於2018年第三季開拍，編劇一樣找來成功打造第一與第二季的的林珮瑜，李青蓉和蔡宓潔導演也將再次執導第三季。
 
 ## 播出時間
 
@@ -77,11 +77,11 @@
 <p><a href="../Page/吳承洋_(1989年).md" title="wikilink">吳承洋</a></p></td>
 <td><center>
 <p>唐毅</p></td>
-<td><p>行天盟少主，防備心重，不輕信他人，對任何人事物沒有喜惡之分，淡如冰水毫不在乎的個性，唯獨只重視唐國棟，把唐國棟當成神一般看待，唐國棟的所行所為就像是教條，唐毅尊崇信仰著。 唐國棟是唐毅身處黑暗中的那曙陽光。四年前的事件，唐國棟死了，唐毅是唯一的生還者。為了親手手刃兇手，唐毅整整布局了四年，原以為能替唐國棟一報血海深仇，萬萬沒想到，少飛打亂唐毅的計畫……</p></td>
+<td><p>行天盟少主，陳文浩、李麗真的親生兒子，防備心重，不輕信他人，對任何人事物沒有喜惡之分，淡如冰水毫不在乎的個性，唯獨只重視唐國棟，把唐國棟當成神一般看待，唐國棟的所行所為就像是教條，唐毅尊崇信仰著。 唐國棟是唐毅身處黑暗中的那曙陽光。四年前的事件，唐國棟死了，唐毅是唯一的生還者。為了親手手刃兇手，唐毅整整布局了四年，原以為能替唐國棟一報血海深仇，萬萬沒想到，少飛打亂唐毅的計畫……</p></td>
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="https://zh.wikipedia.org/wiki/卞慶華" title="wikilink">卞慶華</a></p></td>
+<p><a href="../Page/卞慶華.md" title="wikilink">卞慶華</a></p></td>
 <td><center>
 <p>Jack</p></td>
 <td><p>唐毅的得力左右手，也是唐毅的貼身保鑣，協助唐毅進行行天盟的漂白工作。個性亦正亦邪，當過傭兵的他，利益絕對是優先考量，無謂生死，只想享受當下，看盡人性的黑暗，為達目的在所不惜。 由於少飛糾纏著唐毅，因此認識被自己一騙再騙還是上當的傻子趙立安，他很好奇身為刑警的趙子，在看過這麼多現實險惡之後，居然還能抱持著人性本善的初衷？因此被他的單純吸引，為了守護這份純真，因此開始有定下來的念頭。</p></td>
@@ -98,112 +98,112 @@
 <p><a href="../Page/林意箴.md" title="wikilink">林意箴</a></p></td>
 <td><center>
 <p>左紅葉</p></td>
-<td><p>行天盟的大小姐，世海集團的總裁，在外人面前是果敢、有主見女性，只有在家人面前才會展現撒嬌任性一面。 唐國棟對紅葉視如己出，從小就被國棟栽培為知識分子，不參與黑幫打殺，是幫裡眾人捧在手心的小公主。國棟死掉後，休學回台協助唐毅一起完成國棟漂白心願。和唐毅一起長大，喜歡向唐毅撒嬌，故意逗弄少飛。</p></td>
+<td><p>行天盟的大小姐，世海集團的總裁，在外人面前是果敢、有主見女性，只有在家人面前才會展現撒嬌任性一面。 唐國棟對紅葉視如己出，從小就被唐國棟栽培為知識分子，不參與黑幫打殺，是幫裡眾人捧在手心的小公主。唐國棟過世後，休學回台協助唐毅一起完成唐國棟漂白心願。和唐毅一起長大，喜歡向唐毅撒嬌，故意逗弄少飛。 喜歡古道一。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p><a href="../Page/丁春誠.md" title="wikilink">丁春誠</a></p></td>
 <td><center>
 <p>古道一</p></td>
-<td><p>行天盟的要員，是唐國棟的心腹之一，外型精實、忠實木訥、沉默寡言。受唐國棟委託，擔任紅葉保母兼保鑣。紅葉替唐毅漂白行天盟，成立世海集團後，被拔擢成為紅葉的機要秘書兼保鑣。</p></td>
+<td><p>行天盟的要員，是唐國棟的心腹之一，外型精實、忠實木訥、沉默寡言。受唐國棟委託，擔任紅葉保母兼保鑣。紅葉替唐毅漂白行天盟，成立世海集團後，被拔擢成為紅葉的機要秘書兼保鑣。喜歡左紅葉。</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p><a href="../Page/梅賢治.md" title="wikilink">梅賢治</a></p></td>
 <td><center>
 <p>李至德</p></td>
-<td><p>阿德，行天盟的要員 唐毅手下，對唐毅很崇拜，為了唐毅可以做任何事情。</p></td>
+<td><p>阿德，行天盟的要員。 唐毅手下，對唐毅很崇拜；為了唐毅可以做任何事情。深愛唐毅多年，但唐毅對他只能是兄弟。 被阿志滅口。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/陳家逵" title="wikilink">陳家逵</a></p></td>
 <td><center>
 <p>陳文浩</p></td>
-<td></td>
+<td><p>柬埔寨毒梟的幕後首腦。唐毅的親生父親。</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/周明宇" title="wikilink">周明宇</a></p></td>
 <td><center>
 <p>唐國棟</p></td>
-<td><p>行天盟老大</p></td>
+<td><p>行天盟老大，唐毅及左紅葉的養父。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/賀龍" title="wikilink">賀龍</a></p></td>
 <td><center>
 <p>石大砲</p></td>
-<td><p>偵三隊隊長</p></td>
+<td><p>偵三隊隊長。</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p><a href="../Page/章廣辰.md" title="wikilink">章廣辰</a></p></td>
 <td><center>
 <p>Andy</p></td>
-<td><p>夜店老闆兼牛郎，唐毅的朋友</p></td>
+<td><p>夜店老闆，唐毅的朋友。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/顏怡平" title="wikilink">顏怡平</a></p></td>
 <td><center>
 <p>黃鈺琦</p></td>
-<td><p>偵三隊隊員</p></td>
+<td><p>偵三隊隊員。喜歡孟少飛。</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p><a href="../Page/蔡承邑.md" title="wikilink">蔡承邑</a></p></td>
 <td><center>
 <p>阿志</p></td>
-<td><p>偵三隊隊員</p></td>
+<td><p>偵三隊隊員。是殺死李至德的兇手。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p><a href="../Page/劉宇昕.md" title="wikilink">劉宇昕</a></p></td>
 <td><center>
 <p>俊偉</p></td>
-<td><p>偵三隊隊員</p></td>
+<td><p>偵三隊隊員。</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/林子健_(演員)" title="wikilink">林子健</a></p></td>
 <td><center>
 <p>江勁堂</p></td>
-<td><p>醫師，唐毅的朋友</p></td>
+<td><p>醫師，唐毅的朋友。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/方語晴" title="wikilink">方語晴</a></p></td>
 <td><center>
-<p>李麗貞</p></td>
-<td><p>孟少飛的前輩</p></td>
+<p>李麗真</p></td>
+<td><p>警察，唐毅的親生母親，孟少飛最尊敬的前輩，四年前與唐國棟一起死於槍殺。</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/林明森" title="wikilink">林明森</a></p></td>
 <td><center>
 <p>顏正強</p></td>
-<td><p>國際刑警科隊長</p></td>
+<td><p>國際刑警科隊長。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/羅茂銓" title="wikilink">羅茂銓</a></p></td>
 <td><center>
 <p>小唐毅</p></td>
-<td><p>小時候的唐毅</p></td>
+<td><p>小時候的唐毅。</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/羅子婷" title="wikilink">羅子婷</a></p></td>
 <td><center>
 <p>小紅葉</p></td>
-<td><p>小時候的左紅葉</p></td>
+<td><p>小時候的左紅葉。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/翁嘉駿" title="wikilink">翁嘉駿</a></p></td>
 <td><center>
 <p>養父</p></td>
-<td></td>
+<td><p>唐毅的養父，討厭唐毅。</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -217,7 +217,7 @@
 <p><a href="https://zh.wikipedia.org/wiki/羅波" title="wikilink">羅波</a></p></td>
 <td><center>
 <p>老柯</p></td>
-<td></td>
+<td><p>唐毅的對手，被抓捕</p></td>
 </tr>
 <tr class="even">
 <td><center>
@@ -231,14 +231,14 @@
 <p><a href="https://zh.wikipedia.org/wiki/闕文明" title="wikilink">闕文明</a></p></td>
 <td><center>
 <p>王坤成</p></td>
-<td><p>柬埔寮毒梟</p></td>
+<td><p>柬埔寮毒梟。</p></td>
 </tr>
 <tr class="even">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/田大為" title="wikilink">田大為</a></p></td>
 <td><center>
 <p>賀航</p></td>
-<td></td>
+<td><p>行天盟未漂白的成員。背叛行天盟，跟陳文浩合作。</p></td>
 </tr>
 <tr class="odd">
 <td><center>
@@ -417,30 +417,98 @@
 
 ### 演員列表
 
-<table style="width:70%;">
+<table style="width:137%;">
 <colgroup>
 <col style="width: 48%" />
 <col style="width: 55%" />
 <col style="width: 32%" />
-<col style="width: -22%" />
-<col style="width: -22%" />
-<col style="width: -22%" />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>演員</strong></p></td>
 <td><p><strong>角色</strong></p></td>
-<td><p><strong>介紹</strong> |-夏得</p></td>
+<td><p><strong>介紹</strong></p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><a href="../Page/宋緯恩.md" title="wikilink">宋緯恩</a></p></td>
+<td><center>
+<p>向豪廷</p></td>
+<td><p>個性不羈，是很多女生喜歡的學校風雲人物</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/黃雋智" title="wikilink">黃雋智</a></p></td>
+<td><center>
+<p>-{于}-希顧</p></td>
+<td><p>個性內斂的獨行俠</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/劉韋辰_(演員)" title="wikilink">劉韋辰</a></p></td>
+<td><center>
+<p>孫博翔</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p><a href="../Page/張瀚元.md" title="wikilink">張瀚元</a></p></td>
+<td><center>
+<p>盧志剛</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/夏恩" title="wikilink">夏恩</a></p></td>
 <td><center></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/夏得" title="wikilink">夏得</a></p></td>
 <td><center></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/何禹賢" title="wikilink">何禹賢</a></p></td>
 <td><center></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/蔡曜仲" title="wikilink">蔡曜仲</a></p></td>
 <td><center></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><a href="../Page/陳如山.md" title="wikilink">陳如山</a></p></td>
+<td><center></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/石承鎬" title="wikilink">石承鎬</a></p></td>
+<td><center></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><a href="../Page/紀欣伶.md" title="wikilink">紀欣伶</a></p></td>
+<td><center></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/孫英豪" title="wikilink">孫英豪</a></p></td>
+<td><center></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><center>
+<p>-{<a href="https://zh.wikipedia.org/wiki/于子育" title="wikilink">于子育</a>}-</p></td>
+<td><center></td>
 <td></td>
 </tr>
 </tbody>
@@ -472,6 +540,7 @@
   - 2019年1月25日《圈套》殺青。
   - 2019年4月11日《圈套》記者會。
   - 2019年4月16日《圈套》開播。
+  - 2019年5月16日《那一天》開鏡。
 
 ## 參考資料
 

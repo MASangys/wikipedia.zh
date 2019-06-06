@@ -90,7 +90,7 @@ Thymeleaf是 [开源软件](../Page/开源软件.md "wikilink")、许可下
 
 </references>
 
-## 外部鏈接
+## 外部連結
 
   - [Thymeleaf](http://www.thymeleaf.org)
 

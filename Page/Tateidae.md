@@ -1,4 +1,4 @@
-**Tateidae科**，是一類有的[微小](https://zh.wikipedia.org/wiki/微小貝 "wikilink")[海螺](https://zh.wikipedia.org/wiki/海螺 "wikilink")，屬於[腹足纲](../Page/腹足纲.md "wikilink")[玉黍螺目](../Page/玉黍螺目.md "wikilink")[截螺總科](../Page/截螺總科.md "wikilink")。
+**Tateidae科**，是一類有的[微小](../Page/微小貝.md "wikilink")[海螺](https://zh.wikipedia.org/wiki/海螺 "wikilink")，屬於[腹足纲](../Page/腹足纲.md "wikilink")[玉黍螺目](../Page/玉黍螺目.md "wikilink")[截螺總科](../Page/截螺總科.md "wikilink")。
 
 ## 分類
 
@@ -114,6 +114,6 @@
     Sociedad Malacológica del
     Uruguay](https://zh.wikipedia.org/wiki/Comunicaciones_de_la_Sociedad_Malacológica_del_Uruguay "wikilink")*
     **8**(84–85/86–87): 347-355.
-    [PDF](http://www.smdu.org.uy/84-85/8487-347.pdf).
+    [PDF](http://www.smdu.org.uy/84-85/8487-347.pdf) .
 
 3.

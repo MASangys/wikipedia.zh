@@ -49,5 +49,5 @@ International為一條創新[生活時尚](https://zh.wikipedia.org/wiki/生活�
 [Category:香港电视频道](https://zh.wikipedia.org/wiki/Category:香港电视频道 "wikilink")
 [Category:综艺娱乐节目](https://zh.wikipedia.org/wiki/Category:综艺娱乐节目 "wikilink")
 
-1.  <http://nowtv.now.com/overseas/us/channel?lang=zh>
-2.  <https://unifi.com.my/tv/schedule/index.html>
+1.
+2.

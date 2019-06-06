@@ -7,8 +7,8 @@ Global推出的旗艦機型](../Page/HMD_Global.md "wikilink")，2019年2月26�
 ### 硬件
 
 Nokia 9
-PureView搭載了一枚[高通](../Page/高通.md "wikilink")[驍龍](../Page/高通驍龍.md "wikilink")[845處理器](https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_845 "wikilink")。配備了五個有ZEISS認證鏡頭，分別為3台1200萬像素f/1.8單色鏡頭（使用高感光度黑白感光元）及2台1200萬像素f/1.8RGB鏡頭（使用彩色感光元件）組合，屏幕支援HDR
-10顯示技術及屏幕指紋識別功能。Nokia 9 PureView配備ToF 3D鏡頭，意味可拍攝出更佳效的虛化背景相片。
+PureView搭載了一枚[高通](../Page/高通.md "wikilink")[驍龍](../Page/高通驍龍.md "wikilink")[845處理器](https://zh.wikipedia.org/wiki/高通驍龍元件列表#Snapdragon_845 "wikilink")。配備了五個有ZEISS認證鏡頭，分別為3台1200萬像素f/1.8單色鏡頭（使用高感光度黑白感光元件）及2台1200萬像素f/1.8RGB鏡頭（使用彩色感光元件）組合，5颗镜头的CMOS均为索尼IMX
+386，屏幕支援HDR 10顯示技術及屏幕指紋識別功能。Nokia 9 PureView配備ToF 3D鏡頭，意味可拍攝出更佳效的虛化背景相片。
 
 亦確認Nokia 9 PureView不會有高通驍龍855的版本\[2\]。
 

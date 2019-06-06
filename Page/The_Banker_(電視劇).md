@@ -237,8 +237,8 @@ Banker**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilin
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
-<td></td>
-<td></td>
+<td><p>5.2%</p></td>
+<td><p>5.7%</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -316,50 +316,50 @@ Banker**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilin
 <tr class="even">
 <td><p>25</p></td>
 <td><p>2019/05/08</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>3.7%</p></td>
+<td><p>3.8%</p></td>
 </tr>
 <tr class="odd">
 <td><p>26</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.6%</p></td>
+<td><p>4.7%</p></td>
+<td><p>3.7%</p></td>
 </tr>
 <tr class="even">
 <td><p>27</p></td>
 <td><p>2019/05/09</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>3.6%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>28</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.6%</p></td>
+<td><p>4.5%</p></td>
+<td><p>4.4%</p></td>
 </tr>
 <tr class="even">
 <td><p>29</p></td>
 <td><p>2019/05/15</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>3.6%</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>30</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>4.3%</p></td>
+<td><p>4.0%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>31</p></td>
 <td><p>2019/05/16</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>5.4%</p></td>
+<td><p>5.4%</p></td>
 </tr>
 <tr class="odd">
 <td><p>32</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td></td>
+<td></td>
+<td><p>5.1%</p></td>
 </tr>
 <tr class="even">
 <td><p>平均收視率</p></td>
@@ -379,12 +379,10 @@ Banker**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilin
   - [KBS](../Page/韓國放送公社.md "wikilink")
     [水木連續劇](../Page/KBS水木連續劇.md "wikilink")：《[監獄醫生](../Page/監獄醫生.md "wikilink")》
   - [SBS](../Page/SBS_\(韓國\).md "wikilink")
-    [特別劇](../Page/SBS特別劇.md "wikilink")：《[Big
+    [水木連續劇](../Page/SBS水木連續劇.md "wikilink")：《[Big
     Issue](../Page/Big_Issue.md "wikilink")》、《[絕對達令](../Page/絕對達令_\(韓國電視劇\).md "wikilink")》
   - [tvN](../Page/TVN.md "wikilink")
     [水木連續劇](../Page/TvN水木連續劇.md "wikilink")：《[觸及真心](../Page/觸及真心.md "wikilink")》、《[她的私生活](../Page/她的私生活.md "wikilink")》
-
-## 註釋
 
 ## 參考資料
 

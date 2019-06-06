@@ -66,7 +66,7 @@
 <tr class="even">
 <td><p>2月25日</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ONE_OK_ROCK" title="wikilink">ONE OK ROCK</a></p></td>
+<td><p><a href="../Page/ONE_OK_ROCK.md" title="wikilink">ONE OK ROCK</a></p></td>
 <td><p>23.1</p></td>
 <td><p>[5]</p></td>
 </tr>
@@ -133,6 +133,41 @@
 <td><p>1.2</p></td>
 <td><p>[14]</p></td>
 </tr>
+<tr class="even">
+<td><p>5月6日</p></td>
+<td><p><a href="../Page/催眠麥克風.md" title="wikilink">催眠麥克風 Enter the Hypnosis Microphone</a></p></td>
+<td><p>催眠麥克風 -Division All Stars-</p></td>
+<td><p>不詳</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月13日</p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/hyde" title="wikilink">hyde</a></p></td>
+<td><p>0.3</p></td>
+<td><p>[15]</p></td>
+</tr>
+<tr class="even">
+<td><p>5月20日</p></td>
+<td><p>MAGIC</p></td>
+<td><p>back number</p></td>
+<td><p>0.1</p></td>
+<td><p>[16]</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月27日</p></td>
+<td></td>
+<td><p><a href="../Page/桃色幸運草Z.md" title="wikilink">桃色幸運草Z</a></p></td>
+<td><p>0.2</p></td>
+<td><p>[17]</p></td>
+</tr>
+<tr class="even">
+<td><p>6月3日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Sing_Out!" title="wikilink">Sing Out! (Special Edition)</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/乃木坂46" title="wikilink">乃木坂46</a></p></td>
+<td><p>0.4</p></td>
+<td><p>[18]</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -171,3 +206,10 @@
     エド・シーランとのコラボ曲も収録【オリコンランキング】](https://www.oricon.co.jp/news/2133736/)
 14. [あいみょん、デジタルSG&ストリーミング同時1位
     『しんちゃん』主題歌が好調【オリコンランキング】](https://www.oricon.co.jp/news/2134286/)
+15. [あいみょん「マリーゴールド」が18週連続首位
+    累積再生回数4000万回突破【オリコンランキング】](https://www.oricon.co.jp/news/2135024/)
+16. [MAN WITH A MISSION、自身初のデジタルシングル1位
+    月9ドラマ『ラジエーションハウス』主題歌【オリコンランキング】](https://www.oricon.co.jp/news/2135455/)
+17. [菅田将暉、米津玄師プロデュース曲で初のデジタル1位「自分の曲にすることが一生涯の務め」【オリコンランキング】](https://www.oricon.co.jp/news/2135950/full/)
+18. [乃木坂46、デジタルALが自身初の1位
+    シングルでは菅田将暉が2週連続首位【オリコンランキング】](https://www.oricon.co.jp/news/2136420/full/)

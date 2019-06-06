@@ -7,12 +7,12 @@ Superior](../Page/Big_Comic_Superior.md "wikilink")》2018年1號開始連載\[1
 ## 登場角色
 
   -
-    本作男主角
+    本作男主角。
 
 <!-- end list -->
 
   -
-    本作女主角
+    本作女主角，[AV女優](../Page/AV女優.md "wikilink")。
 
 ## 出版書籍
 

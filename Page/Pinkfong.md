@@ -1,0 +1,31 @@
+**Pinkfong**（）是[韓國教育娛樂公司](https://zh.wikipedia.org/wiki/韓國 "wikilink")所創立的幼儿教育卡通形象，外观特点是肤色粉红色并且带着一顶金色皇冠的小[狐狸](https://zh.wikipedia.org/wiki/狐狸 "wikilink")，中文官方譯名為**碰碰狐**\[1\]。目前Pinkfong擁有4,000多個兒童視頻、歌曲、遊戲和[應用程序](https://zh.wikipedia.org/wiki/應用程序 "wikilink")\[2\]\[3\]\[4\]。
+
+## 歷史
+
+Pinkfong於2010年6月在其首爾總部成立，專屬YouTube頻道於2011年12月13日推出\[5\]，以狐狸作為形象是受[安托万·德圣埃克絮佩里的著名童書](../Page/安托万·德圣埃克絮佩里.md "wikilink")《[小王子](../Page/小王子.md "wikilink")》所啟發\[6\]。目前Pinkfong在[首爾](../Page/首爾.md "wikilink")、[上海和](https://zh.wikipedia.org/wiki/上海 "wikilink")[洛杉磯皆有辦公室](https://zh.wikipedia.org/wiki/洛杉磯 "wikilink")，擁有超過200名員工。
+
+## “Baby Shark”
+
+Pinkfong的所有影片中，目前最著名的是一首名為“[Baby
+Shark](../Page/Baby_Shark.md "wikilink")”（鯊魚寶寶）的兒歌，長136秒，講述著海底下三代鯊魚的故事；因其可愛動畫造型、簡單重覆的歌詞及容易上手的舞蹈動作，在兒童界竄紅，後又有多名韓國、歐美藝人翻唱\[7\]\[8\]，至2019年5月，該影片在Youtube觀看人數已超過27億，在所有影片中[排名第14位](../Page/觀看次數最多的YouTube影片列表.md "wikilink")。
+
+## 參考資料
+
+## 外部連結
+
+  - [官方網站](https://www.pinkfong.com/en/index.html)
+
+[Category:韓國品牌](https://zh.wikipedia.org/wiki/Category:韓國品牌 "wikilink")
+[Category:虛構狐狸](https://zh.wikipedia.org/wiki/Category:虛構狐狸 "wikilink")
+
+1.  [碰碰狐
+    中文YouTube官方頻道](https://www.youtube.com/channel/UCrLO-yoAu4ZTzRSdmWqS53A)
+2.
+3.
+4.
+5.
+6.
+7.  [兒歌也能變神曲！翻唱10餘種語言、25億次觀看的《Baby Shark》是如何辦到？
+    遠見](https://www.gvm.com.tw/article.html?id=55934)
+8.  [洗腦兒歌創16億點閱率、搶進英排行榜
+    公司股價大漲76%](https://udn.com/news/story/6812/3353846)

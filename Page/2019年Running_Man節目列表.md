@@ -29,7 +29,7 @@
 style="text-align:center;font-size:90%"
 \!width=3.5%|次數\!\!width=3.5%|集數\!\!width=7%|播放日期
 <small>（錄影日期）</small>\!\!width=14%|嘉賓\!\!width=12%|最終地點\!\!colspan=2
-width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等級
+width=30%|隊伍\!\!width=8%| 勝利條件\!\!結果及備註\!\!width=10%| 各成員等級
 <small>(<span style="color:gold;">金色</span>及<span style="color:red;">紅色</span>分別表示該成員為目前最高及最低等級)</small>
 |- \!368 \!433 |1月6日<small>
 （2018年
@@ -55,7 +55,7 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等�
 <span style=color:#808080>池錫辰、李光洙</span>
 <span style=color:#2E8B57>金鍾國、全昭旻</span>
 <span style=color:#9400D3>宋智孝、梁世燦</span> |獲得最多資金 |劉在錫、哈哈**勝出**
-獲得10萬獎金並等級各升一級
+獲得10萬韓圜獎金並等級各升一級
 無法死守秘密的池錫辰、李光洙須接受奶油炮彈懲罰\[3\] |<span style="color:red;">劉在錫 2
 池錫辰 2</span>
 金鍾國 4
@@ -115,7 +115,7 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等�
 <span style="color:gold;">全昭旻 6</span>
 梁世燦 2</span> |}
 
-### 常规节目（2月至）
+### 常规节目（2月至5月）
 
 <table style="width:10%;">
 <colgroup>
@@ -138,7 +138,7 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等�
 <th><p>最終地點</p></th>
 <th><p>隊伍</p></th>
 <th><p>勝利條件</p></th>
-<th><p>備註</p></th>
+<th><p>結果及備註</p></th>
 </tr>
 </thead>
 <tbody>
@@ -236,7 +236,7 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等�
 <td><p><br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/鐘路區.md" title="wikilink">鐘路區</a>）</small></p></td>
-<td><p><span style=font-size:110%><strong>蜜蜂的逆襲</strong></span><br />
+<td><p><span style=font-size:110%><strong>蜜蜂的逆襲競賽</strong></span><br />
 <strong>蜜蜂隊長 | 蜜蜂隊</strong><br />
 李光洙 | 全昭旻、梁世燦<br />
 <strong>哥哥姐姐隊</strong><br />
@@ -306,7 +306,7 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等�
 池錫辰、劉在錫、金鐘國、李光洙<br />
 <strong>宋智孝隊</strong><br />
 宋智孝、哈哈、全昭旻、梁世燦</p></td>
-<td><p>團隊勝出並沒有離開房間</p></td>
+<td><p>所屬團隊勝出且沒有離開密室（因為兇手是<a href="https://zh.wikipedia.org/wiki/霧霾" title="wikilink">霧霾</a>）</p></td>
 <td><p>金鐘國<strong>勝出</strong><br />
 獲得空氣清新機商品券</p></td>
 </tr>
@@ -320,7 +320,7 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等�
 <td><p><a href="https://zh.wikipedia.org/wiki/西京大學" title="wikilink">西京大學</a><br />
 <small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
 <a href="../Page/城北區_(首爾).md" title="wikilink">城北區</a>）</small></p></td>
-<td><p><span style=font-size:110%><strong>秘密情侶競賽</strong></span><br />
+<td><p><span style=font-size:110%><strong>Solo天國X情侶地獄:秘密情侶競賽</strong></span><br />
 <span style=color:#0000FF><strong>笑星隊</strong></span><br />
 劉在錫、池錫辰、梁世燦、張熙軫<br />
 <span style="color:#EECC00"><strong>老公你好隊</strong></span><br />
@@ -335,9 +335,9 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等�
 <td><p><strong>秘密情侶</strong><br />
 隱藏身份並擊敗母胎單身或不被單身部隊全數舉報<br />
 <strong>母胎單身</strong><br />
-隱藏身份並擊敗所有秘密情侶<br />
+隱藏身份並使用指定的淘汰方式擊敗所有秘密情侶<br />
 <strong>單身部隊</strong><br />
-擊敗或舉報秘密情侶並不令母胎單身被秘密情侶淘汰出局</p></td>
+擊敗或舉報所有秘密情侶並不令母胎單身被秘密情侶淘汰出局</p></td>
 </tr>
 <tr class="even">
 <td><p>446</p></td>
@@ -374,7 +374,7 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等�
 在任務隊完成所有約會清單之前擊敗全昭旻</p></td>
 <td><p>Running Man及追擊者隊<strong>勝出</strong><br />
 金知碩及李伊庚獲得情侶戒指<br />
-全昭旻須支付所有約會費用，並須接受奶油炮彈懲罰[9]</p></td>
+全昭旻須負擔所有約會費用，並須接受奶油炮彈懲罰[9]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -414,7 +414,8 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等�
 </tr>
 <tr class="even">
 <td><p>實時搜索詞獲得第一名</p></td>
-<td><p>結果於第450集公佈</p></td>
+<td><p>韓寶凜隊<strong>勝出</strong><br />
+落敗的金惠允隊、EXID隊及Seventeen隊經遊戲抽選後由劉在錫及李光洙接受海盜船大懲罰[11]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -443,10 +444,10 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等�
 <strong>間諜</strong><br />
 隱藏身份並擊敗劉姆斯龐德<br />
 <strong>追擊者隊</strong><br />
-尋找及打開保險箱並令劉姆斯龐德無法於10分鐘內被水槍噴中</p></td>
+尋找及打開保險箱並於10分鐘內不被劉姆斯龐德的水槍噴中</p></td>
 <td><p>劉姆斯龐德及龐德女郎<strong>勝出</strong><br />
 劉在錫及李絮獲得純金R名譽卡片<br />
-李光洙須接受由申河均負責的「杖刑」大懲罰[11]</p></td>
+李光洙須接受由申河均負責的「杖刑」大懲罰[12]</p></td>
 </tr>
 <tr class="even">
 <td><p>384</p></td>
@@ -454,44 +455,89 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等�
 <td><p>5月5日<small><br />
 （4月22日）</small></p></td>
 <td><p><a href="../Page/李東輝_(演員).md" title="wikilink">李東輝</a></p></td>
-<td><p><br />
-<small>（<br />
+<td><p>清風湖畔纜車站<br />
+<small>（<a href="../Page/忠清北道.md" title="wikilink">忠清北道</a><a href="../Page/堤川市.md" title="wikilink">堤川市</a><br />
 ）</small></p></td>
-<td><p><span style="font-size:110%"><strong>兒童節特輯－你的名字</strong></span><br />
-<strong><span style=color:#808080>在錫隊</strong><br />
+<td><p><span style="font-size:110%"><strong>兒童節特輯－名字離家出走事件</strong></span><br />
+<strong><span style=color:#808080>在錫隊（他隊）</strong><br />
 劉在錫、梁世燦、李東輝<br />
-<strong><span style="color:#FF8C00">錫辰隊</strong><br />
+<strong><span style="color:#FF8C00">錫辰隊（這傢伙隊）</strong><br />
 池錫辰、宋智孝、李光洙<br />
-<strong><span style=color:#000000>鐘國隊</strong><br />
-金鐘國、哈哈、全昭旻</p></td>
-<td></td>
-<td><p><strong>勝出</strong>[12]</p></td>
+<strong><span style=color:#000000>哈哈隊（素人隊）</strong><br />
+哈哈、金鐘國、全昭旻</p></td>
+<td><p>最先尋找名字牌</p></td>
+<td><p>哈哈隊（素人隊）<strong>勝出</strong><br />
+最後一名的錫辰隊（這傢伙隊）經選擇去除名字後由劉在錫及池錫辰接受互相撥水懲罰[13]</p></td>
 </tr>
 <tr class="odd">
 <td><p>385</p></td>
 <td><p>451</p></td>
 <td><p>5月12日<small><br />
 （4月29日）</small></p></td>
-<td></td>
-<td><p><br />
-<small>（<br />
-）</small></p></td>
-<td><p><span style="font-size:110%"></p></td>
-<td></td>
-<td><p><strong>勝出</strong></p></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>無嘉賓</p></td>
+<td><p><a href="../Page/SBS_(韓國).md" title="wikilink">SBS三稜鏡大樓</a><br />
+<small>（<a href="https://zh.wikipedia.org/wiki/首爾特別市" title="wikilink">首爾特別市</a><br />
+<a href="../Page/麻浦區.md" title="wikilink">麻浦區</a>）</small></p></td>
+<td><p><span style="font-size:110%"><strong>教師節特輯－世宗大王猜謎語競賽</strong></span><br />
+<strong>個人戰</strong><br />
+沒有隊伍</p></td>
+<td><p>在問答環節中成功解開世宗大王的謎語並沒有被積木擊中</p></td>
+<td><p>哈哈<strong>勝出</strong><br />
+經包裹選擇後獲得一萬韓圜現金</p></td>
 </tr>
 </tbody>
 </table>
+
+### Running Man 9週年特輯－RM國內粉絲見面會 Running區（9）計劃（5月至今）
+
+Running Man
+成立9週年計劃，所有成員以進行任務的方式與製作組進行對決選擇在粉絲見面會內表演的舞蹈和歌曲，所有成員如果任務成功的話可以自由選擇，失敗的話則由製作組選擇。
+名字概念來自[Mnet舞蹈真人秀節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[Dancing
+9](../Page/Dancing_9.md "wikilink")》。
+{| class="wikitable" width="100%"
+style="text-align:center;font-size:90%"
+\!width=3.5%|次數\!\!width=3.5%|集數\!\!width=7%|播放日期
+<small>（錄影日期）</small>\!\!width=14%|嘉賓\!\!width=12%|最終地點\!\! colspan="2"
+width="30%" |隊伍\!\!width=9.5%|勝利條件\!\!結果及備註 |- \!386 \!452
+|5月19日<small>
+（5月7日）</small> | 無嘉賓 |Heyri藝術村
+<small>（[京畿道](../Page/京畿道.md "wikilink")[坡州市](../Page/坡州市.md "wikilink")
+）</small> | colspan="2"
+|<span style="font-size:110%">**第1章－義氣擔保競賽**</span>
+**<span style="color:#EECC00">Running Man</span>
+VS
+<span style=color:#FF0000>製作組</span>** |於五小時內完成三項任務 |Running Man**勝出**
+成員可以自由選擇在粉絲見面會時表演的舞蹈，舞蹈選擇於454集公開 |- \!387 \!453 |5月26日<small>
+（5月13日）</small> |
+[李相燁](../Page/李相燁.md "wikilink")、[林秀香](../Page/林秀香.md "wikilink")
+|金浦藝術村
+<small>（[京畿道](../Page/京畿道.md "wikilink")[金浦市](https://zh.wikipedia.org/wiki/金浦市 "wikilink")
+）</small> | colspan="2"
+|<span style="font-size:110%">**第2章－選定情侶演出者「2人」**</span>
+**假孫子 | 假貨隊**
+哈哈 | 李相燁、林秀香
+**最愛孫子 | 真孫子隊**
+李光洙 | 劉在錫、池錫辰、金鍾國、宋智孝、全昭旻、梁世燦 |**假孫子及假貨隊**
+隱藏身份並擊敗最愛孫子或三名真孫子隊成員
+**最愛孫子及真孫子隊**
+擊敗假孫子及假貨隊 |最愛孫子及真孫子隊**勝出**
+哈哈、李相燁及林秀香須接受水炸彈懲罰
+同時經抽卡抽選後由劉在錫與已經自動當選搭檔演出的哈哈成為見面會第一對表演搭檔\[14\] |- \!rowspan=2|388 \!454
+|6月2日<small>
+（5月20日及27日）</small> | rowspan=5|無嘉賓 | rowspan=2| | rowspan=2 colspan="2"
+|<span style="font-size:110%">**第3章－負擔交易比賽**</span>
+**<span style=color:#0000FF>劉在錫、宋智孝**
+**<span style=color:#FF0000>池錫辰、金鐘國**
+**<span style=color:#c0c0c0>哈哈、梁世燦**
+**<span style="color:#EECC00">李光洙、全昭旻** |rowspan=2|隊伍中最終"R"幣數目最多
+|rowspan=2|**勝出**\[15\]\[16\] |- \!rowspan=2|455
+|rowspan=2|6月9日<small>
+（同上）</small> |- \!389 | | colspan="2"
+|<span style="font-size:110%">**第4章－看到了奇蹟**</span>
+| |**勝出** |- \!390 \!456 |6月16日<small>
+（6月3日）</small> | | colspan="2"
+|<span style="font-size:110%">**第5章－**</span>
+| |**勝出** |}
 
 ## 收視率
 
@@ -503,9 +549,9 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等�
 <th><p>集數</p></th>
 <th><p>播放日期</p></th>
 <th><p>TNmS全國<br />
-收視率[13]</p></th>
+收視率[17]</p></th>
 <th><p>AGB全國<br />
-收視率[14]</p></th>
+收視率[18]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -608,7 +654,7 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等�
 <tr class="odd">
 <td><p>448</p></td>
 <td><p>4月21日</p></td>
-<td></td>
+<td><p>6.6%</p></td>
 <td><p>4.5%</p></td>
 </tr>
 <tr class="even">
@@ -620,32 +666,32 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等�
 <tr class="odd">
 <td><p>450</p></td>
 <td><p>5月5日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td></td>
+<td><p>4.9%</p></td>
 </tr>
 <tr class="even">
 <td><p>451</p></td>
 <td><p>5月12日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>7.2%</p></td>
+<td><p>4.6%</p></td>
 </tr>
 <tr class="odd">
 <td><p>452</p></td>
 <td><p>5月19日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>8.2%</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>453</p></td>
 <td><p>5月26日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>7.2%</p></td>
+<td><p>4.6%</p></td>
 </tr>
 <tr class="odd">
 <td><p>454</p></td>
 <td><p>6月2日</p></td>
-<td><p>%</p></td>
-<td><p>%</p></td>
+<td><p>6.3%</p></td>
+<td><p>5.3%</p></td>
 </tr>
 <tr class="even">
 <td><p>455</p></td>
@@ -753,9 +799,13 @@ width=30%|隊伍\!\!width=8%| 勝利條件\!\!備註\!\!width=10%| 各成員等�
     X](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")、[SF9特別出演](https://zh.wikipedia.org/wiki/SF9 "wikilink")。
 9.  姜世娜、金鎮雄及J Black & Mmary特別出演。
 10. [王嘉爾](../Page/王嘉爾.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）特別出演，[柳賢振聲音出演](../Page/柳賢振.md "wikilink")。
-11. [申河均特別出演](../Page/申河均.md "wikilink")。宣傳電影《完美搭檔》。
-12. 宣傳電影《小委託人》。
-13. [Naver: TNmS
+11. 結果於第450集公佈。
+12. [申河均特別出演](../Page/申河均.md "wikilink")。宣傳電影《完美搭檔》。
+13. 宣傳電影《小委託人》。
+14. 本集末段，製作組以文字形式為第449集的內容抄襲網路漫畫《金錢遊戲》一事向原作者致歉。
+15. 名字概念來自電影《[穿著Prada的惡魔](../Page/穿著Prada的惡魔_\(電影\).md "wikilink")》。
+16. Lia Kim 特別出演。
+17. [Naver: TNmS
     收視數據表](https://m.search.naver.com/search.naver?sm=mtb_hty.top&where=m&query=TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&oquery=05%EC%9B%9413%EC%9D%BC++TNMS++%EC%8B%9C%EC%B2%AD%EB%A5%A0&tqi=TYBhglpVuowssuf%2BZewsssssscC-394882)
-14. [AGB Nielsen Media Research
+18. [AGB Nielsen Media Research
     收視數據表](http://www.nielsenkorea.co.kr/tv_terrestrial_day.asp?menu=Tit_1&sub_menu=1_1&area=00)

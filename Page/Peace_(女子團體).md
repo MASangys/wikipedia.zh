@@ -1,5 +1,6 @@
-**Peace**（），是[韓國Krazy娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的四人女子組合，成員包括Sora、Say、亨恩及Yu
-Rim\[1\]，Sora、Say、亨恩均是前[BULLDOK成員](../Page/BULLDOK.md "wikilink")。
+**Peace**（），是[韓國Krazy娛樂於](https://zh.wikipedia.org/wiki/韓國 "wikilink")2019年推出的四人女子組合，成員包括Sora、Say、Hyung
+Eun及Yu Rim\[1\]，Sora、Say、Hyung
+Eun均是前[BULLDOK成員](../Page/BULLDOK.md "wikilink")。
 
 ## 成員資料
 
@@ -9,8 +10,8 @@ Rim\[1\]，Sora、Say、亨恩均是前[BULLDOK成員](../Page/BULLDOK.md "wikil
 | 外文        |
 | Sora\[2\] |
 | Say       |
-| 亨恩        |
-|           |
+| Hyung Eun |
+| Yu Rim    |
 
 ## 參考文獻
 

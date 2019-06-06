@@ -367,13 +367,12 @@ displayed as "<u>Lone Star State</u>" but in fact links to
 
 #### 重命名連結
 
-  - Same target, different name.
-  - The target ("piped") text must be placed **first**, then the text to
-    be displayed **second**.
+  - 用於相同目標頁面但有不同顯示名稱的情形。
+  - 目標頁面文字應當放在**第一個位置**，顯示文字則置於**第二個位置**（以「[豎線](../Page/豎線.md "wikilink")」為界）。
 
-| What you type                                                    | What it looks like                                                                                    |
-| ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
-| `New York also has [[public_transport\|public transportation]].` | New York also has [public transportation](https://zh.wikipedia.org/wiki/public_transport "wikilink"). |
+| 程式碼                   | 效果                                                         |
+| --------------------- | ---------------------------------------------------------- |
+| `紐約也有[[公共運輸\|大眾運輸]]。` | 紐約也有[大眾運輸](https://zh.wikipedia.org/wiki/公共運輸 "wikilink")。 |
 
 #### 自動重命名連結
 
@@ -391,11 +390,11 @@ displayed as "<u>Lone Star State</u>" but in fact links to
 
 | Description                                       | What you type                                | What it looks like                                                                                   |
 | ------------------------------------------------- | -------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| *Automatically hide stuff in parentheses*         | `[[kingdom_(biology)\|]]`                    | [kingdom](https://zh.wikipedia.org/wiki/kingdom_\(biology\) "wikilink")                              |
+| 自動隱藏括弧中的文字                                        | `[[界_(生物)\|]]`                               | [界](https://zh.wikipedia.org/wiki/界_\(生物\) "wikilink")                                               |
 | *Automatically hide the comma and following text* | `[[Seattle,_Washington\|]]`                  | [Seattle](https://zh.wikipedia.org/wiki/Seattle,_Washington "wikilink")                              |
-| *Automatically hide namespace*                    | `[[Wikipedia:Village_pump\|]]`               | [Village pump](https://zh.wikipedia.org/wiki/Wikipedia:Village_pump "wikilink")                      |
-| *Or both*                                         | `[[Wikipedia:Manual_of_Style_(headings)\|]]` | [Manual of Style](https://zh.wikipedia.org/wiki/Wikipedia:Manual_of_Style_\(headings\) "wikilink")   |
-| *<b>But this doesn't work for section links</b>*  | `[[Wikipedia:Manual_of_Style#Links\|]]`      | [Manual_of_Style\#Links](https://zh.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Links "wikilink") |
+| 自動隱藏命名空間名稱                                        | `[[Wikipedia:互助客棧\|]]`                       | [互助客棧](https://zh.wikipedia.org/wiki/Wikipedia:互助客棧 "wikilink")                                      |
+| 或者同時隱藏                                            | `[[Wikipedia:Manual_of_Style_(headings)\|]]` | [Manual of Style](https://zh.wikipedia.org/wiki/Wikipedia:Manual_of_Style_\(headings\) "wikilink")   |
+| <b>但無法隱藏章節名稱連結</b>                                | `[[Wikipedia:Manual_of_Style#Links\|]]`      | [Manual_of_Style\#Links](https://zh.wikipedia.org/wiki/Wikipedia:Manual_of_Style#Links "wikilink") |
 
 #### Blend link
 
@@ -620,23 +619,20 @@ pages](https://zh.wikipedia.org/wiki/Wikipedia:Project_namespace "wikilink").
     [URL](https://zh.wikipedia.org/wiki/URL "wikilink") from the address
     bar, pasting it where you want it.
 
-| What you type                                                                                                                           | What it looks like                                                                                                                         |
-| --------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| `[//en.wikipedia.org/w/index.php?title=Help:Wiki_markup&diff=330350877&oldid=330349143 Diff between revisions 330349143 and 330350877]` | \[//en.wikipedia.org/w/index.php?title=Help:Wiki_markup\&diff=330350877\&oldid=330349143 Diff between revisions 330349143 and 330350877\] |
+| 程式碼                                                                                                                                     | 效果                                                                                                                                      |
+| --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
+| `[//zh.wikipedia.org/w/index.php?title=Help:Wiki_markup&diff=330350877&oldid=330349143 Diff between revisions 330349143 and 330350877]` | \[//zh.wikipedia.org/w/index.php?title=Help:Wiki標記式語言\&diff=330350877\&oldid=330349143 Diff between revisions 330349143 and 330350877\] |
 
-  - You can also use an [internal diff
-    link](https://zh.wikipedia.org/wiki/Help:Diff#Internal_links "wikilink").
-    **Unlike the template , this kind of link can even be used in edit
-    summaries.**
+  - 您可以使用[內部修訂差異連結](https://zh.wikipedia.org/wiki/Help:Diff#Internal_links "wikilink")。**不同於模板，這種連結方式甚至可以用於撰寫編輯摘要。**
 
-| What you type                                                                          | What it looks like                                                                                                          |
-| -------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| `[[Special:Diff/330349143/330350877\|Diff between revisions 330349143 and 330350877]]` | [Diff between revisions 330349143 and 330350877](https://zh.wikipedia.org/wiki/Special:Diff/330349143/330350877 "wikilink") |
+| 程式碼                                                                  | 效果                                                                                                        |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| `[[Special:Diff/330349143/330350877\|修訂版本330349143與330350877之間的差異]]` | [修訂版本330349143與330350877之間的差異](https://zh.wikipedia.org/wiki/Special:Diff/330349143/330350877 "wikilink") |
 
   - If the diff intended to be shown is between an immediately previous
     revision, the first parameter can be dropped.
 
-| What you type                                                                | What it looks like                                                                                                |
+| 程式碼                                                                          | 效果                                                                                                                |
 | ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- |
 | `[[Special:Diff/330350877\|Diff between revisions 330349143 and 330350877]]` | [Diff between revisions 330349143 and 330350877](https://zh.wikipedia.org/wiki/Special:Diff/330350877 "wikilink") |
 
@@ -646,7 +642,7 @@ pages](https://zh.wikipedia.org/wiki/Wikipedia:Project_namespace "wikilink").
     and templates will be shown as they are today, not as they were at
     the time).
 
-| What you type                                         | What it looks like                                                                         |
+| 程式碼                                                   | 效果                                                                                         |
 | ----------------------------------------------------- | ------------------------------------------------------------------------------------------ |
 | `[[Special:Permalink/330350877\|Revision 330350877]]` | [Revision 330350877](https://zh.wikipedia.org/wiki/Special:Permalink/330350877 "wikilink") |
 
@@ -1307,6 +1303,6 @@ for additional links.
     formula](https://zh.wikipedia.org/wiki/Help:Displaying_a_formula "wikilink"):
     displaying mathematical formulae.
 
-[Category:Wikipedia_how-to](https://zh.wikipedia.org/wiki/Category:Wikipedia_how-to "wikilink")
+[Category:维基百科指南](https://zh.wikipedia.org/wiki/Category:维基百科指南 "wikilink")
 [Category:Wikipedia_editor_help](https://zh.wikipedia.org/wiki/Category:Wikipedia_editor_help "wikilink")
-[Category:Wikipedia_text_help](https://zh.wikipedia.org/wiki/Category:Wikipedia_text_help "wikilink")
+[Category:維基百科文字幫助文檔](https://zh.wikipedia.org/wiki/Category:維基百科文字幫助文檔 "wikilink")

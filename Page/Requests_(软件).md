@@ -4,18 +4,18 @@
 ## 示例代码
 
 ``` python
-    >>> import requests
-    >>> r = requests.get('https://api.github.com/user', auth=('user', 'pass'))
-    >>> r.status_code
-    200
-    >>> r.headers['content-type']
-    'application/json; charset=utf8'
-    >>> r.encoding
-    'utf-8'
-    >>> r.text # doctest: +ELLIPSIS
-    u'{"type":"User"...'
-    >>> r.json() # doctest: +ELLIPSIS
-    {u'private_gists': 419, u'total_private_repos': 77, ...}
+>>> import requests
+>>> r = requests.get('https://api.github.com/user', auth=('user', 'pass'))
+>>> r.status_code
+200
+>>> r.headers['content-type']
+'application/json; charset=utf8'
+>>> r.encoding
+'utf-8'
+>>> r.text # doctest: +ELLIPSIS
+u'{"type":"User"...'
+>>> r.json() # doctest: +ELLIPSIS
+{u'private_gists': 419, u'total_private_repos': 77, ...}
 ```
 
 ## 外部链接

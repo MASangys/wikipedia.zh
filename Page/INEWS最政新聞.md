@@ -8,9 +8,9 @@
 
 ## 主播
 
-  - 現任主播為**[張齡予](https://zh.wikipedia.org/wiki/張齡予 "wikilink")**。
   - 第一任主播為**[黃倩萍](https://zh.wikipedia.org/wiki/黃倩萍 "wikilink")**，並同時擔任節目製作人。
   - 第二任主播為**[王志郁](../Page/王志郁.md "wikilink")**，並同時擔任節目製作人。
+  - 第三任主播為**[張齡予](https://zh.wikipedia.org/wiki/張齡予 "wikilink")**。
   - 代班主播：[詹璇依](../Page/詹璇依.md "wikilink")、[王志郁](../Page/王志郁.md "wikilink")、主播排班
 
 ## [鏡面呈現](../Page/電視新聞鏡面.md "wikilink")

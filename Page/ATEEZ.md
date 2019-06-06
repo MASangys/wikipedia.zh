@@ -1,4 +1,4 @@
-**ATEEZ**（）是[韓國KQ娛樂旗下的八人](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於2018年10月24日出道，由弘中、星和、潤浩、呂尚、崔傘、旼琦、[友榮](../Page/鄭友榮.md "wikilink")、鍾浩所组成。
+**ATEEZ**（）是[韓國KQ娛樂旗下的八人](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子音樂組合](https://zh.wikipedia.org/wiki/男子音樂組合 "wikilink")，於2018年10月24日出道，由弘中、星化、潤浩、呂尚、崔傘、旼琦、[友榮](../Page/鄭友榮.md "wikilink")、鍾浩所组成。
 
 ## 團體資料
 
@@ -13,10 +13,9 @@
 | 成員列表                            |
 | ------------------------------- |
 | 藝名                              |
-|                                 |
 | 漢字                              |
 | 弘中                              |
-| 星和                              |
+| 星化                              |
 | 潤浩                              |
 | 呂尚                              |
 | 崔傘                              |
@@ -105,10 +104,11 @@ Oneo》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告
 <li>發行日期：2019年1月15日</li>
 <li>語言：韓語</li>
 <li>類型：Dance,Ballad</li>
-<li>銷量：44,692+<ref></li>
+<li>銷量：48,379+<ref></li>
 <li><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=01&amp;hitYear=2019&amp;termGbn=month">2019年GAON01月專輯榜12位</a></li>
 <li><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=02&amp;hitYear=2019&amp;termGbn=month">2019年GAON02月專輯榜15位</a></li>
 <li><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=03&amp;hitYear=2019&amp;termGbn=month">2019年GAON03月專輯榜37位</a></li>
+<li><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=03&amp;hitYear=2019&amp;termGbn=month">2019年GAON04月專輯榜49位</a></li>
 </ul>
 <p></ref></p></td>
 <td></td>
@@ -123,7 +123,7 @@ Oneo》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告
 | 成員 | 登記名稱 | 登記編號     | 參與歌曲列表 |
 | -- | ---- | -------- | ------ |
 | 弘中 | 김홍중  | 10020014 | \[10\] |
-| 星和 | 박성화  | 10020020 | \[11\] |
+| 星化 | 박성화  | 10020020 | \[11\] |
 | 潤浩 | 정윤호  | 10020018 | \[12\] |
 | 呂尚 | 강여상  | 10020021 | \[13\] |
 | 崔傘 | 최산   | 10020019 | \[14\] |
@@ -135,13 +135,13 @@ Oneo》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告
 
 ### 音樂錄影帶
 
-| 發佈日期                                                    | 歌曲名稱                                                                                   | 參與成员 | 備註                |
-| ------------------------------------------------------- | -------------------------------------------------------------------------------------- | ---- | ----------------- |
-| 2018年10月24日                                             | [Pirate King](https://www.youtube.com/watch?v=RqJ1rH9M5G0)                             | 全體   | Performance Ver   |
-| [Treasure](https://www.youtube.com/watch?v=tLV83ndOwz4) | 全體                                                                                     |      |                   |
-| 2019年1月9日                                               | [HALA HALA (Hearts Awakened, Live Alive)](https://www.youtube.com/watch?v=5OyM7QjQ0X0) | 全體   | Performance Video |
-| 2019年1月15日                                              | [Say My Name](https://www.youtube.com/watch?v=nKU4OVH18mE)                             | 全體   |                   |
-| 2019年2月7日                                               | [HALA HALA (Hearts Awakened, Live Alive)](https://www.youtube.com/watch?v=QbjmVyP9RFg) | 全體   | Performance Ver   |
+| 發佈日期           | 歌曲名稱                                          | 參與成员 | 備註                |
+| -------------- | --------------------------------------------- | ---- | ----------------- |
+| 2018年10月24日    | Pirate King\[18\]                             | 全體   | Performance Ver   |
+| Treasure\[19\] | 全體                                            |      |                   |
+| 2019年1月9日      | HALA HALA (Hearts Awakened, Live Alive)\[20\] | 全體   | Performance Video |
+| 2019年1月15日     | Say My Name\[21\]                             | 全體   |                   |
+| 2019年2月7日      | HALA HALA (Hearts Awakened, Live Alive)\[22\] | 全體   | Performance Ver   |
 
 ### 專屬節目
 
@@ -163,11 +163,6 @@ Oneo》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告
 | 2018年11月14日 | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink") | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") 》 | 全體   | 看得見的廣播 |
 | 2019年2月4日   | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink") | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") 》 | 鍾浩   |        |
 | 2019年2月6日   | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC标准FM "wikilink") | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink") 》 | 全體   |        |
-
-## 廣告拍摄
-
-| 發佈日期 | 名稱 | 參與成員 | 備註 |
-| ---- | -- | ---- | -- |
 
 ## 演唱會及大型公演
 
@@ -206,12 +201,6 @@ Oneo》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告
 | 4月21日 | 莫斯科站   | Izvestia Hall         |
 
 ## 獎項與榮譽
-
-### 音樂節目獎項
-
-| 年份 | 日期 | 電視台 | 節目名稱 | 獲獎歌曲 | 排名 |
-| -- | -- | --- | ---- | ---- | -- |
-|    |    |     |      |      |    |
 
 ### 主要音樂節目榜單排名
 
@@ -269,17 +258,9 @@ Oneo》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告
 | 0                                    |
 | 一位總數：0                               |
 
-## 備註與參考資料
-
-### 備註
-
-### 參考資料
+## 參考資料
 
 ## 外部連結
-
-  - ATEEZ連結
-
-<!-- end list -->
 
   - [ATEEZ](http://ateez.kqent.com/)的官方網站
 
@@ -292,7 +273,6 @@ Oneo》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告
   - [ATEEZ](https://channels.vlive.tv/C057DB/home)的VLIVE頻道
 
   -
-
 [Category:2018年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2018年成立的音樂團體 "wikilink")
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
@@ -314,3 +294,8 @@ Oneo》取得[美國](../Page/美国.md "wikilink")[Billboard的](../Page/公告
 15.
 16.
 17.
+18.
+19.
+20.
+21.
+22.

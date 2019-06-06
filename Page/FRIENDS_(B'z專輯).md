@@ -4,7 +4,7 @@ II](../Page/FRIENDS_II.md "wikilink")》。
 
 ## 作品解說
 
-僅在初回盤附屬了可將CD盒置入的紙製保護套（Sleeve Case）。
+僅在初回盤附屬了可將CD盒置入的紙製封套盒（Sleeve Case）。
 
 本作成為了憑藉全曲來維持1個故事性的[概念專輯](https://zh.wikipedia.org/wiki/概念專輯 "wikilink")，與其他的B'z專輯相比作風大為不同。根據[松本孝弘的陳述表示](../Page/松本孝弘.md "wikilink")「想製作一張猶如電影原聲帶般的專輯{{\#tag:ref||group="原文"}}」。內容是由『回想』『再會』『糾葛』『解決』之場面所組成的愛情故事，專輯標題『**FRIENDS**』正是故事的主題。曲順表記並非「\#1」等，而是採用了「**SCENE
 1**」等獨特的表記方式，亦成為其特徵。關於作詞，[稻葉浩志表示](../Page/稻葉浩志.md "wikilink")「所有樂曲的歌詞皆是在乘坐飛機移動中以每4曲同時進行書寫{{\#tag:ref||group="原文"}}」。
@@ -23,7 +23,7 @@ II](../Page/FRIENDS_II.md "wikilink")》。
         由[吉他前奏與](../Page/吉他.md "wikilink")[玻璃的破碎聲揭開序幕](../Page/玻璃.md "wikilink")。除了器樂曲以外，是本作中唯一的演唱會未演奏曲。
 4.  2-2. **Love is…** (1:26)
       -
-        器樂曲。以次曲「」的[旋律為依據](https://zh.wikipedia.org/wiki/旋律 "wikilink")，用[電子琴演奏了](../Page/電子琴.md "wikilink")[音樂盒般地氛圍](https://zh.wikipedia.org/wiki/音樂盒 "wikilink")。
+        器樂曲。以次曲「」的[旋律為基礎](https://zh.wikipedia.org/wiki/旋律 "wikilink")，用[鍵盤演奏了](../Page/鍵盤樂器.md "wikilink")[音樂盒般地氛圍](https://zh.wikipedia.org/wiki/音樂盒 "wikilink")。
 5.  SCENE 3. **失戀之日（）**(4:51)
       -
         由突然驟變的強烈吉他前奏揭開序幕。在粉絲間擁有高人氣，因上榜粉絲票選前10名，而被收錄進精選輯『[B'z The Best
@@ -61,7 +61,7 @@ II](../Page/FRIENDS_II.md "wikilink")》。
 
   - ：[爵士鼓](../Page/爵士鼓.md "wikilink")
 
-  - （）：[電子琴](../Page/電子琴.md "wikilink")（\#3,3,4,7,8）
+  - （）：[鍵盤](../Page/鍵盤樂器.md "wikilink")（\#3,3,4,7,8）
 
   - 澤野博敬：[小號](../Page/小號.md "wikilink")（\#7）
 

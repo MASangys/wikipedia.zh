@@ -1,52 +1,75 @@
-**股票互換**（英語：stock swap）是一種股權資產交換成另一種股權的過程。\[1\]
-在合併或收購公司的期間，股票交換提供的是用股票，而不是現金支付的機會。
+**股票互換**（英語：Stock
+swap）是一種股權資產交換成另一種股權的過程\[1\]，常發生在合併或收購公司的期間。股票交換提供以股票[交換價值](https://zh.wikipedia.org/wiki/交換價值 "wikilink")，而不是現金支付的機會。
+
+<table>
+<tbody>
+<tr class="odd">
+<td><ol>
+<li>Stock swap建議翻成<strong>股份轉換</strong></li>
+<li>「常發生在合併或收購公司的期間。股票交換提供以股票<a href="https://zh.wikipedia.org/wiki/交換價值" title="wikilink">交換價值</a>，而不是現金支付的機會。」→「除了現金交易之外，公司的合併與收購也可透過股份轉換進行。」</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
 
 ## 概述
 
-收購公司主要使用自己的[股票作為現金來購買業務](../Page/股票.md "wikilink")。
-被收購公司的每個[股東將從收單公司收到預定數量的](https://zh.wikipedia.org/wiki/股東 "wikilink")[股份](https://zh.wikipedia.org/wiki/股份 "wikilink")。在交換發生之前，各方必須準確評估其公司，以便計算公平交換比率。評估公司非常複雜。
-不僅需要確定公平的市場價值，還需要確定投資和內在價值。
+收購公司主要使用自己的[股票作為現金來購買其他企業主體的股權](../Page/股票.md "wikilink")。
+被收購公司的每個[股東將從收單公司收到預期數量的](https://zh.wikipedia.org/wiki/股東 "wikilink")[股份](https://zh.wikipedia.org/wiki/股份 "wikilink")。在交換發生之前，各方必須準確評估其公司，以便計算公平交換比率。評估公司是一件非常複雜的事，不僅需要確定公平的市場價值，還需要確定投資和內在價值。
 
-收購公司可能還需要以股票形式增加一點額外獎勵，以確保被收購公司的董事會批准收購。 在所有評估完成後，雙方將對於交換比率達成共識。
-該比率會決定每個人從接管公司獲得到的股份數量。
-當此股票交換實現時，股東將獲得新股份並擁有新公司的股份。有些時候，股票交換協議不允許新股東在一段時間內出售新股票，以避免股價突然下跌。
+<table>
+<tbody>
+<tr class="odd">
+<td><ol>
+<li>「被收購公司的每個<a href="https://zh.wikipedia.org/wiki/股東" title="wikilink">股東將從</a>『收單公司』收到預定數量的<a href="https://zh.wikipedia.org/wiki/股份" title="wikilink">股份</a>。」→「主併公司」（acquiring company ）</li>
+<li>「在『交換』發生之前，各方必須準確評估其公司，以便計算公平『交換』比率」→「在轉換前各方必須準確評估其公司，以便計算公平的轉換比率。」，後面的交換都要改成轉換</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
+收購公司可能還需要以股票形式增加一點額外獎勵，以確保被收購公司的董事會批准收購。在所有評估完成後，雙方將對於交換比率達成共識。
+該比率會決定每個人從接管公司獲得到的股份數量。當此股票交換實現時，股東將獲得新股份並擁有新公司的股份。有些時候，股票交換協議不允許新股東在一段時間內出售新股票，以避免股價突然下跌。
 這是用於打擊惡意收購的股東權益計劃或[毒丸防禦的一種形式](https://zh.wikipedia.org/wiki/毒丸防御 "wikilink")。
 當所有事情匯集在一起並且公平時，收購才會繼續進行下去。
 
-在南韓，如果兩家公司都在南韓證券期貨交易所（KRX）上市，則合併比率由法律規定的某個公式去定義。 .
+<table>
+<tbody>
+<tr class="odd">
+<td><ol>
+<li>「這是用於打擊惡意收購的股東權益計劃或<a href="https://zh.wikipedia.org/wiki/毒丸防御" title="wikilink">毒丸防禦的一種形式</a>。 」→「這是一種用於打擊惡意收購的<a href="https://zh.wikipedia.org/wiki/股東權益計劃" title="wikilink">股東權益計劃</a>」</li>
+<li>「 When all things come (work) together」→ 是「相得益彰」的意思，這邊可以翻「當萬事俱備且條件公平時」</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
+在南韓，如果兩家公司都在南韓證券期貨交易所（KRX）上市，則合併比率由法律規定的公式去定義。
 
 ## 範例
 
-例如，在2010年，兩家公司聚集在一起組建了GenOn Energy，Mirant和 RRI
+例如，在2010年，兩家公司聚集在一起組建了GenOn Energy，Mirant 和 RRI
 Energy。Mirant的股東每持有Mirant的股份即可獲得2.885股的RRI股份。
-這股股票交換使Mirant股東有更具吸引力的報價來促進收購，從而說服Mirant的董事會允許收購。
-
-In 2014, South Korean Internet giant [Daum
-Communications](https://zh.wikipedia.org/wiki/Daum_Communications "wikilink")
-merged with Kakao Corp to form [Daum
-Kakao](https://zh.wikipedia.org/wiki/Daum_Kakao "wikilink") in a stock
-swap deal. The merger ratio was approximately 1.14 so it is regarded as
-[backdoor
-listing](https://zh.wikipedia.org/wiki/backdoor_listing "wikilink") for
-Kakao.
-
-In 2017,
-[Disney](https://zh.wikipedia.org/wiki/The_Walt_Disney_Company "wikilink")
-announced it will acquire most of [21st Century
-Fox](https://zh.wikipedia.org/wiki/21st_Century_Fox "wikilink") assets
-in an all-stock deal valued at $52 Billion ($66 Billion if debt is
-included). With the acquired company shareholders owning 25% of the
-combined company, and Disney shareholders owning 75% majority.
+這股股票交換使Mirant股東有更具吸引力的報價來促進收購，從而說服Mirant的董事會允許收購。再舉個一個例子，2014年，韓國互聯網巨頭Daum
+Communications與Kakao Corp合併，以股票互換協議形成Daum Kakao。
+合併比率約為1.14，因此被視為Kakao的[借殼上市](../Page/借殼上市.md "wikilink")。最後一個範例，在2017年，[迪士尼宣布將以](https://zh.wikipedia.org/wiki/迪士尼 "wikilink")52億美元的全股票交易收購[21世紀福克斯的大部分資產](../Page/21世纪.md "wikilink")（如果包括債務，則為66億美元）。被收購公司股東擁有合併後公司25％的股份，而迪士尼股東擁有75％的股權。
 
 ## 內部交換
 
-Stock swaps can also happen internally within a company.
-[Starbucks](https://zh.wikipedia.org/wiki/Starbucks "wikilink") has used
-this strategy in the past. When the stock options they offered to their
-employees dropped so low in price that they became virtually worthless,
-Starbucks offered a swap option. The company allowed the employees to
-swap their worthless shares for more that had a higher
-value.\[2\]\[3\]\[4\]\[5\]
+股票互換也可以在公司內部發生。[星巴克過去曾使用過這種策略](https://zh.wikipedia.org/wiki/星巴克 "wikilink")，因為他們向員工提供的股票期權價格降低，以至於他們的股票變得毫無價值，就在此時，星巴克提供了一個轉換選項。
+該公司允許員工的股票，以獲得更高價值的股票。\[2\]\[3\]\[4\]\[5\]
+
+<table>
+<tbody>
+<tr class="odd">
+<td><ol>
+<li>「以至於他們的股票變得毫無價值」→「stock options」是「股票選擇權」的意思，「以至於他們的股票選擇權變得毫無價值」</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
+
+
 
 ## 參考資料
 

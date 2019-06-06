@@ -11,7 +11,7 @@ Gears](../Page/Gears.md "wikilink")[插件实现此功能](../Page/插件.md "wi
 Chrome](../Page/Google_Chrome.md "wikilink")、\[4\][Opera](https://zh.wikipedia.org/wiki/Opera電腦瀏覽器 "wikilink")
 10.6、\[5\][Internet Explorer](../Page/Internet_Explorer.md "wikilink")
 9.0、\[6\]和Safari
-5即被支持。掌上设备上，它适用于[Android](../Page/Android.md "wikilink")（固件版本2.0+）、[iOS](../Page/IOS.md "wikilink")、[Windows
+5即被支持。掌上设备上，它适用于[Android](../Page/Android.md "wikilink")（固件版本2.0+）、[iOS](https://zh.wikipedia.org/wiki/iOS "wikilink")、[Windows
 Phone与](../Page/Windows_Phone.md "wikilink")[Maemo](../Page/Maemo.md "wikilink")。W3C地理位置应用程序接口同样被发布于2010年11月24日的Opera
 Mobile
 10.1实现，支持对Android和[Symbian](https://zh.wikipedia.org/wiki/Symbian "wikilink")（S60第3及第5代）系统。\[7\]

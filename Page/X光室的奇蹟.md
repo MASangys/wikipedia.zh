@@ -3,10 +3,12 @@ Jump](https://zh.wikipedia.org/wiki/Grand_Jump "wikilink")》（[集英社](../P
 
 電視劇於2019年在富士電視網「月9」上播映。
 
+台灣由friDay影音，4/9起，每周二更新。
+
 ## 登場人物
 
   - 五十嵐唯織（いがらし いおり）
-    本作的主角。有醫療執照但是擔任放射科技師。 他有天才般的影像閱讀技術和感覺，但他不擅長社交。
+    本作的主角。有醫師執照但是擔任放射科技師。 他有天才般的影像閱讀技術和感覺，但他不擅長社交。
   - 甘春杏（あまかす あん）
     本作的女主角。甘春綜合醫院・放射科醫生。父親也是放射科醫生。認為技師只須負責拍照影像診斷是醫生的工作，但他通過與唯織的合作改變了想法。
     跟唯織是青梅竹馬，但她已經不記得了。
@@ -24,40 +26,49 @@ Jump](https://zh.wikipedia.org/wiki/Grand_Jump "wikilink")》（[集英社](../P
 <tr class="header">
 <th><p>卷數</p></th>
 <th><p><a href="../Page/集英社.md" title="wikilink">集英社</a></p></th>
+<th><p><a href="../Page/東立出版社.md" title="wikilink">東立出版社</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2016年6月17日</p></td>
+<td><p>ISBN 978-4-08-890465-8</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2016年10月19日</p></td>
+<td><p>ISBN 978-4-08-890516-7</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2017年3月17日</p></td>
+<td><p>ISBN 978-4-08-890621-8</p></td>
 </tr>
 <tr class="odd">
 <td><p>4</p></td>
 <td><p>2017年8月18日</p></td>
+<td><p>ISBN 978-4-08-890737-6</p></td>
 </tr>
 <tr class="even">
 <td><p>5</p></td>
 <td><p>2018年1月19日</p></td>
+<td><p>ISBN 978-4-08-890851-9</p></td>
 </tr>
 <tr class="odd">
 <td><p>6</p></td>
 <td><p>2018年7月19日</p></td>
+<td><p>ISBN 978-4-08-891081-9</p></td>
 </tr>
 <tr class="even">
 <td><p>7</p></td>
 <td><p>2019年3月19日</p></td>
+<td><p>ISBN 978-4-08-891160-1</p></td>
 </tr>
 </tbody>
 </table>

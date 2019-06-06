@@ -6,7 +6,9 @@ HAPPY〉。\[1\]\[2\]
 
 ## 參考資料
 
-[Category:TWICE音樂專輯](https://zh.wikipedia.org/wiki/Category:TWICE音樂專輯 "wikilink")
+[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink")
+[Category:TWICE單曲](https://zh.wikipedia.org/wiki/Category:TWICE單曲 "wikilink")
+[Category:飲料廣告歌曲](https://zh.wikipedia.org/wiki/Category:飲料廣告歌曲 "wikilink")
 
 1.  [TWICE JAPAN 4th & 5th SINGLE
     Release！](https://www.youtube.com/watch?v=8NlEeqHJgQY)

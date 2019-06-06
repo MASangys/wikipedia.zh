@@ -30,6 +30,7 @@ BS8K将“拥有世界上最高质量的影像和声音，成为NHK电视台的�
 [Category:NHK电视频道](https://zh.wikipedia.org/wiki/Category:NHK电视频道 "wikilink")
 [Category:日本卫星电视频道](https://zh.wikipedia.org/wiki/Category:日本卫星电视频道 "wikilink")
 [Category:日本的世界之最](https://zh.wikipedia.org/wiki/Category:日本的世界之最 "wikilink")
+[Category:超高清电视](https://zh.wikipedia.org/wiki/Category:超高清电视 "wikilink")
 
 1.
 

@@ -29,7 +29,7 @@ BB305是一種[病毒載體](https://zh.wikipedia.org/wiki/病毒載體 "wikilin
 4.  (8 December 2014) [bluebird bio Announces Data Demonstrating First
     Four Patients with β-Thalassemia Major Treated with LentiGlobin™ are
     Transfusion-Free](https://finance.yahoo.com/news/bluebird-bio-announces-data-demonstrating-224500318.html)
-    Yahoo News, Retrieved 17 May 2015
+     Yahoo News, Retrieved 17 May 2015
 5.
 6.
 7.

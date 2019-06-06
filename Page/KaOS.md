@@ -45,7 +45,7 @@ Rijkhoff也爲DistroWatch週報審閱了KaOS的2017.09版本。他说，"KaOS似
 
 </references>
 
-## 外部鏈接
+## 外部連結
 
   -
   - [KaOS论坛](http://kaosx.us/forum)

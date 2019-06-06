@@ -1,5 +1,5 @@
 《**Big
-Issue**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2019年3月6日起播出的[特別劇](../Page/SBS特別劇.md "wikilink")，由《[傻瓜媽媽](../Page/傻瓜媽媽.md "wikilink")》、《[神的禮物－14天](https://zh.wikipedia.org/wiki/神的禮物－14天 "wikilink")》的[李東勳導演與](https://zh.wikipedia.org/wiki/李東勳_\(導演\) "wikilink")《[龍八夷](https://zh.wikipedia.org/wiki/龍八夷 "wikilink")》、《[THE
+Issue**》（，），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS於](../Page/SBS_\(韓國\).md "wikilink")2019年3月6日起播出的[水木連續劇](../Page/SBS水木連續劇.md "wikilink")，由《[傻瓜媽媽](../Page/傻瓜媽媽.md "wikilink")》、《[神的禮物－14天](https://zh.wikipedia.org/wiki/神的禮物－14天 "wikilink")》的[李東勳導演與](https://zh.wikipedia.org/wiki/李東勳_\(導演\) "wikilink")《[龍八夷](https://zh.wikipedia.org/wiki/龍八夷 "wikilink")》、《[THE
 K2](../Page/THE_K2.md "wikilink")》的[張赫麟作家合作打造](https://zh.wikipedia.org/wiki/張赫麟 "wikilink")。此劇以狗仔隊的視角，講述主角每週追查醜聞的有趣狗仔隊成功故事\[1\]\[2\]。
 
 香港由[myTV
@@ -425,13 +425,13 @@ Sunday通信的幕後實權者。身體傷殘後，成爲竊聽、偷拍設備�
 <td><p>29</p></td>
 <td><p>2019/05/01</p></td>
 <td></td>
-<td><p>%</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>30</p></td>
 <td><p>2.8%</p></td>
-<td><p>%</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -439,13 +439,13 @@ Sunday通信的幕後實權者。身體傷殘後，成爲竊聽、偷拍設備�
 <td><p>31</p></td>
 <td><p>2019/05/02</p></td>
 <td><p>2.9%</p></td>
-<td><p>%</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>32</p></td>
 <td><p>3.7%</p></td>
-<td><p>%</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

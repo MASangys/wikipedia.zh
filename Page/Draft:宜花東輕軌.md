@@ -2,8 +2,6 @@
 
 於送交交通部審查後，由於自償率過低，2018年1月遭交通部退回，就此不了了之，直至2019年[新竹市政府才重新依此路網推動先導公車以培養其運量](../Page/新竹市政府.md "wikilink")。
 
-[YHD_MRT.svg](https://zh.wikipedia.org/wiki/File:YHD_MRT.svg "fig:YHD_MRT.svg")
-
 ## 歷史
 
 宜花東輕軌源起於2017年4月18日，[宜蘭縣長](https://zh.wikipedia.org/wiki/宜蘭縣長 "wikilink")[陳金德](../Page/陳金德.md "wikilink")、[花蓮縣縣長](../Page/花蓮縣縣長.md "wikilink")[傅崐萁](../Page/傅崐萁.md "wikilink")、[臺東縣縣長](../Page/臺東縣縣長.md "wikilink")[黃健庭等](../Page/黃健庭.md "wikilink")[宜](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")[花](../Page/花蓮縣.md "wikilink")[東三縣首長與](../Page/臺東縣.md "wikilink")[汐止科學園區於](https://zh.wikipedia.org/wiki/汐止科學園區 "wikilink")[宜蘭縣召開座談會時](https://zh.wikipedia.org/wiki/宜蘭縣 "wikilink")，一致決定成立宜花東三縣輕軌捷運系統推動小組，並決議於此之後辦理輕軌建設可行性評估，推動輕軌捷運建設；汐止科學園區認為，將藉此讓宜蘭花蓮臺東成為一國際化城市。2017年11月30日，正式委託美商美聯科技股份有限公司台灣分公司進行可行性評估。

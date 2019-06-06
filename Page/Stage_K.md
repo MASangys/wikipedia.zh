@@ -15,14 +15,14 @@ Star）表演合作舞台的機會。
 
   - 每集節目以一組[韓國歌手為主題](https://zh.wikipedia.org/wiki/韓國 "wikilink")，分為Stage
     1（準決賽）及Stage 2（決賽）兩輪比賽，每輪比賽均由現場評審團投票決定名次。
-  - Stage 1：四強隊伍按抽籤次序表演自選曲目，經評審團投票選出最高分的兩隊可晉級Stage 2。
+  - Stage 1：四強隊伍按抽籤次序表演自選曲目的舞蹈，經評審團投票選出最高分的兩隊可晉級Stage 2。
   - Stage 2：在Stage 1獲得最高分的隊伍會決定最後兩強的出場次序，兩隊需演出由Dream
-    Star指定的同一首曲目，最後經評審團投票選出冠亞軍。
+    Star指定同一首曲目的舞蹈，最後經評審團投票選出冠亞軍。
   - 冠軍隊伍可得到獎盃、500萬韓元獎金及LED面罩，並可獲得與Dream Star表演合作舞台的機會。
 
 ### 現場評審團
 
-  - Dream Star（一組）：每集節目的主題歌手，四強隊伍需表演Dream Star的歌曲作品。
+  - Dream Star（一組）：每集節目的主題歌手，四強隊伍需表演Dream Star的歌曲作品的舞蹈。
   - K-Leaders（四名）：[K-pop界的前輩歌手](https://zh.wikipedia.org/wiki/K-pop "wikilink")，本節目的固定評審。
   - Global
     Supporters（四名）：每集四強隊伍所屬國籍的評審，多數是曾出演[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[綜藝節目或在](../Page/綜藝節目.md "wikilink")[韓國發展的藝人](https://zh.wikipedia.org/wiki/韓國 "wikilink")，負責現場翻譯及為代表其國家的隊伍應援。
@@ -32,6 +32,7 @@ Star）表演合作舞台的機會。
 
 |         | 現場觀眾         | Global Supporters | K-Leaders | Dream Star         |
 | ------- | ------------ | ----------------- | --------- | ------------------ |
+| 組合      | Solo歌手       |                   |           |                    |
 | Stage 1 | 一人一票各1分（可棄權） | 一人一票各10分          | 一人一票各20分  | 一人一票各30分或全體一票佔100分 |
 | Stage 2 | 一人一票各30分     |                   |           |                    |
 
@@ -39,7 +40,12 @@ Star）表演合作舞台的機會。
 
 ### 主持
 
-<table>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 30%" />
+<col style="width: 35%" />
+<col style="width: 35%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th><p>姓名</p></th>
@@ -59,6 +65,11 @@ Star）表演合作舞台的機會。
 ### 固定評審（K-Leaders）
 
 <table>
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 40%" />
+<col style="width: 40%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th><p>姓名</p></th>
@@ -75,12 +86,12 @@ Star）表演合作舞台的機會。
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/殷志源" title="wikilink">殷志源</a>（）</p></td>
 <td></td>
-<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩成員</a>）、<a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a>、<a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a>、<a href="../Page/音樂製作人.md" title="wikilink">音樂製作人</a></p></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="../Page/水晶男孩.md" title="wikilink">水晶男孩成員</a>）、<a href="../Page/演員.md" title="wikilink">演員</a>、<a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a>、<a href="../Page/音樂製作人.md" title="wikilink">音樂製作人</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Dara" title="wikilink">Dara</a>（）</p></td>
 <td></td>
-<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（前<a href="../Page/2NE1.md" title="wikilink">2NE1成員</a>）、<a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a>、<a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a></p></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（前<a href="../Page/2NE1.md" title="wikilink">2NE1成員</a>）、<a href="../Page/演員.md" title="wikilink">演員</a>、<a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/宥斌" title="wikilink">宥斌</a>（）</p></td>
@@ -92,11 +103,13 @@ Star）表演合作舞台的機會。
 
 ## 各集內容
 
-<table>
+### 第一至五集
+
+<table style="width:100%;">
 <colgroup>
 <col style="width: 12%" />
 <col style="width: 12%" />
-<col style="width: 16%" />
+<col style="width: 14%" />
 <col style="width: 12%" />
 <col style="width: 12%" />
 <col style="width: 12%" />
@@ -106,7 +119,8 @@ Star）表演合作舞台的機會。
 <thead>
 <tr class="header">
 <th><p>集數</p></th>
-<th><p>播出日期</p></th>
+<th><p>播出日期<br />
+（錄製日期）</p></th>
 <th><p>Dream Star<br />
 （特別舞台）</p></th>
 <th><p>Global Supporters</p></th>
@@ -131,40 +145,41 @@ Star）表演合作舞台的機會。
 </tr>
 <tr class="even">
 <td><p>01</p></td>
-<td><p>2019年4月7日</p></td>
+<td><p>2019年4月7日<br />
+（2019年3月15日）</p></td>
 <td><p><a href="../Page/Red_Velvet.md" title="wikilink">Red Velvet</a>[3]<br />
-（My Second Date）</p></td>
-<td></td>
+（<a href="../Page/Perfect_Velvet.md" title="wikilink">My Second Date</a>[4]）</p></td>
+<td><p>卡梅倫</p></td>
 <td></td>
 <td><p>1</p></td>
-<td><p>Peek-A-Boo</p></td>
+<td><p><a href="../Page/Perfect_Velvet.md" title="wikilink">Peek-A-Boo</a>[5]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/紀堯姆·帕特里.md" title="wikilink">紀堯姆·帕特里</a></p></td>
 <td></td>
 <td><p>2</p></td>
-<td><p>Power Up</p></td>
+<td><p><a href="../Page/Summer_Magic.md" title="wikilink">Power Up</a>[6]</p></td>
 <td></td>
 <td><p>2</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>扇仁志</p></td>
 <td></td>
 <td><p>3</p></td>
-<td><p>Bad Boy</p></td>
-<td></td>
+<td><p><a href="../Page/Perfect_Velvet.md" title="wikilink">Bad Boy</a>[7]</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p></p></td>
 <td></td>
 <td><p>4</p></td>
-<td><p>RBB (Really Bad Boy)</p></td>
-<td></td>
+<td><p><a href="../Page/RBB_(Red_Velvet迷你專輯).md" title="wikilink">RBB (Really Bad Boy)</a>[8]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -172,40 +187,41 @@ Star）表演合作舞台的機會。
 </tr>
 <tr class="even">
 <td><p>02</p></td>
-<td><p>2019年4月14日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a>[4]<br />
-（RHYTHM TA）</p></td>
-<td></td>
+<td><p>2019年4月14日<br />
+（2019年3月26日）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/iKON" title="wikilink">iKON</a>[9]<br />
+（<a href="../Page/WELCOME_BACK_(iKON韓語專輯).md" title="wikilink">RHYTHM TA</a>[10]）</p></td>
+<td><p>卡梅倫</p></td>
 <td></td>
 <td><p>4</p></td>
-<td><p>BLING BLING</p></td>
+<td><p><a href="../Page/New_Kids:_Begin_(iKON韓語單曲).md" title="wikilink">BLING BLING</a>[11]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p></p></td>
 <td></td>
 <td><p>1</p></td>
-<td><p>RHYTHM TA</p></td>
+<td><p><a href="../Page/WELCOME_BACK_(iKON韓語專輯).md" title="wikilink">RHYTHM TA</a>[12]</p></td>
 <td></td>
 <td><p>1</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>扇仁志</p></td>
 <td></td>
 <td><p>2</p></td>
-<td><p>BEAUTIFUL</p></td>
-<td></td>
+<td><p><a href="../Page/Return_(iKON專輯).md" title="wikilink">BEAUTIFUL</a>[13]</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p></p></td>
 <td></td>
 <td><p>3</p></td>
-<td><p>GOODBYE ROAD</p></td>
-<td></td>
+<td><p>[14]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -213,40 +229,42 @@ Star）表演合作舞台的機會。
 </tr>
 <tr class="even">
 <td><p>03</p></td>
-<td><p>2019年4月21日</p></td>
-<td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>[5]<br />
-（MAMACITA）</p></td>
-<td></td>
+<td><p>2019年4月21日<br />
+（2019年4月2日）</p></td>
+<td><p><a href="../Page/Super_Junior.md" title="wikilink">Super Junior</a>[15]<br />
+（<a href="../Page/Mamacita.md" title="wikilink">MAMACITA</a>[16]）</p></td>
+<td><p></p></td>
 <td></td>
 <td><p>3</p></td>
-<td><p>SORRY, SORRY</p></td>
+<td><p><a href="../Page/Sorry,_Sorry.md" title="wikilink">SORRY, SORRY</a>[17]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>帕娜莎</p></td>
 <td></td>
 <td><p>2</p></td>
-<td><p>Black Suit</p></td>
+<td><p><a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">Black Suit</a>[18]</p></td>
 <td></td>
 <td><p>1</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>JYUNKY<br />
+（WALWARI）</p></td>
 <td></td>
 <td><p>4</p></td>
-<td><p>Don't Don</p></td>
-<td></td>
+<td><p><a href="../Page/Don&#39;t_Don.md" title="wikilink">Don't Don</a>[19]</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p></p></td>
 <td></td>
 <td><p>1</p></td>
-<td><p>Lo Siento</p></td>
-<td></td>
+<td><p><a href="../Page/Play_(Super_Junior專輯).md" title="wikilink">Lo Siento</a>[20]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -254,40 +272,42 @@ Star）表演合作舞台的機會。
 </tr>
 <tr class="even">
 <td><p>04</p></td>
-<td><p>2019年4月28日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>[6]<br />
-（Dance The Night Away）</p></td>
-<td></td>
+<td><p>2019年4月28日<br />
+（2019年4月9日）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/TWICE" title="wikilink">TWICE</a>[21]<br />
+（<a href="../Page/Summer_Nights.md" title="wikilink">Dance The Night Away</a>[22]）</p></td>
+<td><p>約夏金</p></td>
 <td></td>
 <td><p>2</p></td>
-<td><p>YES or YES</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/YES_or_YES" title="wikilink">YES or YES</a>[23]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>帕娜莎</p></td>
 <td></td>
 <td><p>3</p></td>
-<td><p>KNOCK KNOCK</p></td>
+<td><p><a href="../Page/TWICEcoaster:_LANE_2.md" title="wikilink">KNOCK KNOCK</a>[24]</p></td>
 <td></td>
 <td><p>1</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>JYUNKY<br />
+（WALWARI）</p></td>
 <td></td>
 <td><p>1</p></td>
-<td><p>LIKEY</p></td>
-<td></td>
+<td><p><a href="../Page/Twicetagram.md" title="wikilink">LIKEY</a>[25]</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>泰利斯</p></td>
 <td></td>
 <td><p>4</p></td>
-<td><p>What is Love?</p></td>
-<td></td>
+<td><p><a href="../Page/What_is_Love?.md" title="wikilink">What is Love?</a>[26]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -295,79 +315,128 @@ Star）表演合作舞台的機會。
 </tr>
 <tr class="even">
 <td><p>05</p></td>
-<td><p>2019年5月12日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>[7]</p></td>
+<td><p>2019年5月12日<br />
+（2019年4月16日）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/EXID" title="wikilink">EXID</a>[27]<br />
+（<a href="https://zh.wikipedia.org/wiki/I_Love_You_(EXID單曲)" title="wikilink">I LOVE YOU</a>[28]）</p></td>
+<td><p>伊娜</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/I_Love_You_(EXID單曲)" title="wikilink">I LOVE YOU</a>[29]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p></p></td>
 <td></td>
+<td><p>2</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Hot_Pink_(EXID單曲)" title="wikilink">HOT PINK</a>[30]</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>1</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>坦夏</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>4</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Ah_Yeah_(EXID迷你專輯)" title="wikilink">Ah Yeah</a>[31]</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p></p></td>
+<td></td>
+<td><p>3</p></td>
+<td><p><a href="../Page/Full_Moon_(EXID迷你專輯).md" title="wikilink">DDD</a>[32]</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
+</tr>
+</tbody>
+</table>
+
+### 第六至十集
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 14%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p>播出日期<br />
+（錄製日期）</p></th>
+<th><p>Dream Star<br />
+（特別舞台）</p></th>
+<th><p>Global Supporters／<br />
+特邀評審</p></th>
+<th><p>四強隊伍</p></th>
+<th><p>Stage 1（準決賽）</p></th>
+<th><p>Stage 2（決賽）</p></th>
+<th><p>Stage K（夢想舞台）</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>出場<br />
+次序</p></td>
+<td><p>參賽歌曲</p></td>
+<td><p>得分</p></td>
+<td><p>出場<br />
+次序</p></td>
+<td><p>參賽歌曲</p></td>
+<td><p>得分</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>06</p></td>
-<td><p>2019年5月19日</p></td>
-<td><p><a href="../Page/寶兒.md" title="wikilink">寶兒</a></p></td>
+<td><p>2019年5月19日<br />
+（2019年4月23日）</p></td>
+<td><p><a href="../Page/寶兒.md" title="wikilink">寶兒</a>[33]<br />
+（[34]）</p></td>
+<td><p>JYUNKY<br />
+（WALWARI）</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>1</p></td>
+<td><p>[35]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>卡洛斯</p></td>
 <td></td>
+<td><p>3</p></td>
+<td><p>[36]</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>2</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>泰利斯</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>2</p></td>
+<td><p>[37]</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>赫克特</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>4</p></td>
+<td><p>[38]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -375,8 +444,402 @@ Star）表演合作舞台的機會。
 </tr>
 <tr class="even">
 <td><p>07</p></td>
-<td><p>2019年5月26日</p></td>
+<td><p>2019年5月26日<br />
+（2019年4月30日）</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/g.o.d" title="wikilink">g.o.d</a>[39]</p></td>
+<td><p>K-Panel[40]：</p>
+<ul>
+<li><a href="../Page/俞世潤.md" title="wikilink">俞世潤</a>（）</li>
+<li><a href="../Page/韓昇延.md" title="wikilink">韓昇延</a></li>
+<li><a href="../Page/智珉.md" title="wikilink">智珉</a>（<a href="../Page/AOA.md" title="wikilink">AOA</a>）</li>
+<li><a href="https://zh.wikipedia.org/wiki/倞利" title="wikilink">倞利</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/金元植" title="wikilink">RAVI</a>（<a href="../Page/VIXX.md" title="wikilink">VIXX</a>）</li>
+</ul>
+<p>K-Rookie：</p>
+<ul>
+<li><a href="https://zh.wikipedia.org/wiki/J.Seph" title="wikilink">J.Seph</a>（<a href="../Page/KARD.md" title="wikilink">KARD</a>）</li>
+<li><a href="../Page/BM.md" title="wikilink">BM</a>（<a href="../Page/KARD.md" title="wikilink">KARD</a>）</li>
+<li><a href="../Page/娜英.md" title="wikilink">娜英</a>（<a href="https://zh.wikipedia.org/wiki/gu9udan" title="wikilink">gu9udan</a>）</li>
+<li><p>（<a href="https://zh.wikipedia.org/wiki/gu9udan" title="wikilink">gu9udan</a>）</p></li>
+</ul></td>
 <td></td>
+<td><p>3</p></td>
+<td><p>[41]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2NE1.md" title="wikilink">2NE1</a>[42]</p></td>
+<td></td>
+<td><p>2</p></td>
+<td><p><a href="../Page/2NE1_2nd_Mini_Album.md" title="wikilink">I AM THE BEST</a>[43]</p></td>
+<td></td>
+<td><p>2</p></td>
+<td><p><a href="../Page/To_Anyone.md" title="wikilink">CAN'T NOBODY</a>[44]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/水晶男孩.md" title="wikilink">水晶男孩</a>[45]</p></td>
+<td></td>
+<td><p>4</p></td>
+<td><p><a href="../Page/Road_Fighter_(專輯).md" title="wikilink">Road Fighter</a>[46]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/Wonder_Girls.md" title="wikilink">Wonder Girls</a>[47]</p></td>
+<td></td>
+<td><p>1</p></td>
+<td><p><a href="../Page/So_Hot.md" title="wikilink">So Hot</a>[48]</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>08</p></td>
+<td><p>2019年6月2日<br />
+（2019年5月14日）</p></td>
+<td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>[49]<br />
+</p></td>
+<td></td>
+<td></td>
+<td><p>1</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/口哨_(BLACKPINK歌曲)" title="wikilink">Whistle</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>3</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Boombayah" title="wikilink">Boombayah</a></p></td>
+<td></td>
+<td><p>1</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>|</p></td>
+<td><p>2</p></td>
+<td><p><a href="../Page/As_If_It&#39;s_Your_Last.md" title="wikilink">As If It's Your Last</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>4</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Playing_with_Fire_(BLACKPINK歌曲)" title="wikilink">Playing with Fire</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>09</p></td>
+<td><p>2019年6月9日<br />
+（2019年5月21日）</p></td>
+<td><p><a href="../Page/EXO.md" title="wikilink">EXO</a>[50]<br />
+（）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>2019年6月16日<br />
+（2019年5月28日）</p></td>
+<td><p><br />
+（）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 第十一至十五集
+
+<table style="width:100%;">
+<colgroup>
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 14%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+<col style="width: 12%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th><p>集數</p></th>
+<th><p>播出日期<br />
+（錄製日期）</p></th>
+<th><p>Dream Star<br />
+（特別舞台）</p></th>
+<th><p>Global Supporters</p></th>
+<th><p>四強隊伍</p></th>
+<th><p>Stage 1（準決賽）</p></th>
+<th><p>Stage 2（決賽）</p></th>
+<th><p>Stage K（夢想舞台）</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>出場<br />
+次序</p></td>
+<td><p>參賽歌曲</p></td>
+<td><p>得分</p></td>
+<td><p>出場<br />
+次序</p></td>
+<td><p>參賽歌曲</p></td>
+<td><p>得分</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2019年6月23日<br />
+（2019年6月4日）</p></td>
+<td><p><br />
+（）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>2019年6月30日<br />
+（2019年6月11日）</p></td>
+<td><p><br />
+（）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>13</p></td>
+<td><p>2019年7月7日<br />
+（2019年6月18日）</p></td>
+<td><p><br />
+（）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>2019年7月14日<br />
+（2019年6月25日）</p></td>
+<td><p><br />
+（）</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>15</p></td>
+<td><p>2019年7月21日<br />
+（2019年7月2日）</p></td>
+<td><p><br />
+（）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -425,7 +888,7 @@ Star）表演合作舞台的機會。
 <tr class="header">
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[8][9]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB收視率</a>[51][52]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -442,7 +905,7 @@ Star）表演合作舞台的機會。
 <tr class="odd">
 <td><p>03</p></td>
 <td><p>2019/04/21</p></td>
-<td></td>
+<td><p>1.6%</p></td>
 </tr>
 <tr class="even">
 <td><p>04</p></td>
@@ -450,8 +913,48 @@ Star）表演合作舞台的機會。
 <td><p>2.1%</p></td>
 </tr>
 <tr class="odd">
+<td><p>因播出電影《<a href="https://zh.wikipedia.org/wiki/念力_(電影)" title="wikilink">念力</a>》而停播一週。</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>05</p></td>
 <td><p>2019/05/12</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>06</p></td>
+<td><p>2019/05/19</p></td>
+<td><p>1.6%</p></td>
+</tr>
+<tr class="even">
+<td><p>07</p></td>
+<td><p>2019/05/26</p></td>
+<td><p>1.5%</p></td>
+</tr>
+<tr class="odd">
+<td><p>08</p></td>
+<td><p>2019/06/02</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>09</p></td>
+<td><p>2019/06/09</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td><p>2019/06/16</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>11</p></td>
+<td><p>2019/06/23</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="odd">
+<td><p>12</p></td>
+<td><p>2019/06/30</p></td>
 <td><p>%</p></td>
 </tr>
 </tbody>
@@ -463,8 +966,11 @@ Star）表演合作舞台的機會。
 
 ### 參考資料
 
+## 官方影片
+
 ## 外部連結
 
+  -
   -
   -
   -
@@ -473,11 +979,103 @@ Star）表演合作舞台的機會。
 [Category:JTBC](https://zh.wikipedia.org/wiki/Category:JTBC "wikilink")
 
 1.
+
 2.
+
 3.
+
 4.
+
 5.
+
 6.
+
 7.
+
 8.
+
 9.
+
+10.
+
+11.
+
+12.
+
+13.
+
+14.
+
+15.
+
+16.
+
+17.
+
+18.
+
+19.
+
+20.
+
+21.
+
+22.
+
+23.
+
+24.
+
+25.
+
+26.
+
+27.
+
+28.
+
+29.
+
+30.
+
+31.
+
+32.
+
+33.
+
+34.
+
+35.
+
+36.
+
+37.
+
+38.
+
+39.
+
+40.
+
+41.
+
+42.
+
+43.
+
+44.
+
+45.
+46.
+
+47.
+48.
+
+49.
+
+50.
+
+51.
+
+52.

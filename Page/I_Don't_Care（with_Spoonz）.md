@@ -30,6 +30,8 @@ W成員們共同製作歌曲的過程。
 Store，NU'EST W亦會在10月11日舉辦簽名會，參與此快閃店活動\[5\]。在一連串的宣傳活動後，Spoonz與NU'EST
 W的合作獲得了熱烈的迴響，品牌團隊預定擴大計畫，將Spoonz品牌的概念與價值推廣至海外，以Spoonz受到更多喜愛作為理想目標\[6\]。
 
+## I Don't Care（with Spoonz）NU'EST版本
+
 ## 曲目
 
 ## 發行歷史
@@ -53,6 +55,10 @@ W的合作獲得了熱烈的迴響，品牌團隊預定擴大計畫，將Spoonz�
 <td><p><a href="https://www.youtube.com/watch?v=xzaZdHvk4uo">I Don't Care (with Spoonz)</a><br />
 <a href="https://www.youtube.com/watch?v=5WDbVUvk7sk">I Don't Care (with Spoonz)</a></p></td>
 </tr>
+<tr class="even">
+<td><p>2019年6月1日</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=dkH9PQJV-Yo">NU'EST - I Don't Care (with Spoonz)</a></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -63,6 +69,7 @@ W的合作獲得了熱烈的迴響，品牌團隊預定擴大計畫，將Spoonz�
 | JR   | BT       |
 | Aron | Slime    |
 | 白虎   | Diabol   |
+| 旼炫   | Ping     |
 | Ren  | Cindy    |
 
 ## 預告影片

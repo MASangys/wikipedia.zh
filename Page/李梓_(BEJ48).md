@@ -13,7 +13,7 @@ Me](https://zh.wikipedia.org/wiki/时尚_\(杂志\) "wikilink")》10月刊拍摄
 
 2017年1月7日，参与了[SNH48第三届年度金曲大赏BEST
 50](https://zh.wikipedia.org/wiki/SNH48第三届年度金曲大赏BEST_50 "wikilink")。2月27日，参加[第24届东方风云榜音乐盛典粉丝派对](https://zh.wikipedia.org/wiki/东方风云榜#第24届（2017年） "wikilink")\[13\]\[14\]。5月9日，出席代言龙族创意工作室游戏《拳皇命运》发布会，并为其中的角色“琼”配音\[15\]。5月25日，出席网络电影《[有言在仙](https://zh.wikipedia.org/wiki/有言在仙 "wikilink")》开机礼\[16\]。7月29日，于[SNH48
-Group第四届总选举获得第](https://zh.wikipedia.org/wiki/SNH48_Group第四届总选举 "wikilink")40名\[17\]。10月6日，其主演的网络电影《有言在仙》上线播放\[18\]。
+Group第四届总选举获得第](https://zh.wikipedia.org/wiki/SNH48_Group第四届总选举 "wikilink")46名\[17\]。10月6日，其主演的网络电影《有言在仙》上线播放\[18\]。
 
 2018年2月3日，参与了[SNH48 Group第四届年度金曲大赏BEST
 50](https://zh.wikipedia.org/wiki/SNH48_Group第四届年度金曲大赏BEST_50 "wikilink")。6月5日，其主演的网络电影《[少女侦探社](https://zh.wikipedia.org/wiki/少女侦探社 "wikilink")》上线播放\[19\]。6月23日，出席网络电影《[暴走萌妹特攻队](https://zh.wikipedia.org/wiki/萌妹特攻队 "wikilink")》开机礼\[20\]。7月28日，于[SNH48

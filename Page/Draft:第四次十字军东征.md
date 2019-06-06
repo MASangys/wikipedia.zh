@@ -48,46 +48,7 @@
 
 威尼斯共和国与拜占庭帝国之间的贸易竞争以及发生于1182年的[拉丁大屠杀使得近年来两国关系十分紧张](../Page/拉丁大屠杀.md "wikilink")。且据记载，总督丹多洛曾于1171年威尼斯针对拜占庭的远征行动中被[曼努埃尔一世命人用玻璃弄瞎了双眼](https://zh.wikipedia.org/wiki/曼努埃尔一世_\(拜占庭\) "wikilink")，因此丹多洛本人很可能对拜占庭帝国抱有个人敌意\[32\]\[33\]。
 
-, meanwhile, had left the fleet before it sailed from Venice, to visit
-his cousin . The reasons for his visit are a matter of debate; he may
-have realized the Venetians' plans and left to avoid excommunication, or
-he may have wanted to meet with the Byzantine prince [Alexios IV
-Angelos](../Page/阿历克塞四世.md "wikilink"), Philip's brother-in-law and the
-son of the recently deposed Byzantine emperor [Isaac II
-Angelos](../Page/伊萨克二世·安格洛斯.md "wikilink"). Alexios IV had recently fled
-to Philip in 1201 but it is unknown whether or not Boniface knew he was
-at Philip's court. There, Alexios IV offered to pay the entire debt owed
-to the Venetians, give 200,000 silver marks to the crusaders, 10,000
-Byzantine professional troops for the Crusade, the maintenance of 500
-knights in the Holy Land, the service of the Byzantine navy to transport
-the Crusader Army to Egypt, and the placement of the [Eastern Orthodox
-Church](../Page/正教會.md "wikilink") under the authority of the
-[Pope](../Page/教宗.md "wikilink"), if they would sail to Byzantium and
-topple the reigning emperor [Alexios III
-Angelos](../Page/阿历克塞三世.md "wikilink"), brother of Isaac II.
-This tempting offer, for an enterprise that was short on funds, reached
-the leaders of the Crusade on 1 January 1203 as they wintered at
-Zara.\[34\] Doge Dandolo was a fierce supporter of the plan; however, in
-his earlier capacity as an ambassador to Byzantium and someone who knew
-the finer details of how Byzantine politics worked, it is likely he knew
-the promises were false and there was no hope of any Byzantine emperor
-raising the money promised, let alone raising the troops and giving the
-church to the Holy See. Count Boniface agreed and Alexios IV returned
-with the Marquess to rejoin the fleet at
-[Corfu](../Page/克基拉島.md "wikilink") after it had sailed from
-Zara. Most of the rest of the crusade's leaders, encouraged by bribes
-from Dandolo,\[35\] eventually accepted the plan as well. However, there
-were dissenters. Led by [Reynold of
-Montmirail](https://zh.wikipedia.org/wiki/Reynold_of_Montmirail "wikilink"),
-those who refused to take part in the scheme to attack Constantinople
-sailed on to Syria.\[36\] The remaining fleet of 60 [war
-galleys](../Page/槳帆船.md "wikilink"), 100 , and 50 large  (the entire
-fleet was manned by 10,000 Venetian oarsmen and marines) sailed in late
-April 1203.\[37\] In addition, 300 siege engines were brought along on
-board the fleet.\[38\] Hearing of their decision, the Pope hedged and
-issued an order against any more attacks on Christians unless they were
-actively hindering the Crusader cause, but he did not condemn the scheme
-outright.\[39\]
+另一方面，波尼法西斯在十字军于威尼斯出航之前离开了舰队，随后前往其表弟住处。此次离开的原因饱含争议：一方面认为波尼法西斯已经意识到了威尼斯人的行动从而离开舰队避免绝罚，另一方面认为波尼法西斯前往菲利普处是为了结识其舅弟阿莱克修斯四世，后者为拜占庭帝国7年前被废黜的皇帝伊萨克二世之子。但阿莱克修斯于1201年才逃至菲利普处，彼时波尼法西斯是否知晓该情况尚不确定。该次见面之后，阿莱克修斯与波尼法西斯达成约定：阿莱克修斯给与十字军20万马克帮助其偿还所有对威尼斯人的债务，提供1万名士兵援助十字军继续东征，在圣地派驻500名骑士，动用拜占庭海军运送十字军前往埃及；而十字军则需要帮助阿莱克修斯击败时为拜占庭皇帝的[阿莱克修斯三世夺回皇位](https://zh.wikipedia.org/wiki/阿莱克修斯三世 "wikilink")。该约定于1203年1月传达至正于扎拉过冬的十字军\[34\]。总督丹多洛知晓该约定后十分赞成，但从其过往作为使节前往拜占庭的经历可以得出：丹多洛十分了解拜占庭的财政运转，此次约定的内容不可能兑现。波尼法西斯伯爵与阿莱克修斯随后返回已从扎拉出发前往至[克基拉島的舰队](../Page/克基拉島.md "wikilink")，重新加入十字军。而剩余的大部分十字军领导者亦在丹多洛的贿赂下同意了此次计划\[35\]，但仍有反对者，那些不愿意参与进攻君士坦丁堡的士兵则由蒙米赖伊的雷诺领导前往[叙利亚](../Page/叙利亚.md "wikilink")\[36\]。1203年4月下旬，包括60艘[槳帆船](../Page/槳帆船.md "wikilink")，100辆和50艘的舰队（整个舰队配有10000名威尼斯水手与军人）出发前往君士坦丁堡\[37\]，此外还有300辆攻城车\[38\]。教皇听闻此行动后发布命令，严禁十字军攻击任何基督徒，除非他们阻止十字军前进，但命令中并未对该计划进行谴责\[39\]。
 
 When the Fourth Crusade arrived at Constantinople on 23 June 1203, the
 city had a population of approximately 500,000 people,\[40\] a garrison

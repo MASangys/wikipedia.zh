@@ -1,6 +1,6 @@
 **NATURE**（）是[韓國n](https://zh.wikipedia.org/wiki/韓國 "wikilink").CH
-娛樂公司推出的女子組合，由[韓國籍成員Lu](https://zh.wikipedia.org/wiki/韓國 "wikilink")、Saebom、Chaebin、Loha、Uchae、Sunshine;[中國籍成員Gaga](../Page/中國.md "wikilink")、Aurora及[日本籍成員Haru組成](../Page/日本.md "wikilink")；於2018年8月3日出道。
-\[1\]\[2\]\[3\]
+娛樂公司推出的女子組合，由[韓國籍成員Saebom](https://zh.wikipedia.org/wiki/韓國 "wikilink")、**Lu**、Chaebin、Loha、Uchae、Sunshine;[中國籍成員Aurora](../Page/中國.md "wikilink")、Gaga及[日本籍成員Haru組成](../Page/日本.md "wikilink")；於2018年8月3日出道。
+\[1\]\[2\]\[3\]官方粉絲名為「Leaf」。
 
 ## 團名由來
 
@@ -83,7 +83,7 @@
 ### 出道前
 
 2016年，Chaebin以MIDAS練習生名義參加[PRODUCE
-101](../Page/PRODUCE_101.md "wikilink")。
+101](../Page/PRODUCE_101.md "wikilink")，最終排名第88名。
 
 2017年，Lu為前[Brave練習生](https://zh.wikipedia.org/wiki/Brave_娛樂 "wikilink")。以本名林河英試鏡[MIXNINE未通過](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")。
 
@@ -148,7 +148,36 @@
 
 ### 大型頒獎禮獲獎獎項
 
-2018 Soribada Best K-Music Awards-新韓流新人賞
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>名稱</p></th>
+<th><p>獎項</p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2018年</p></td>
+<td><p>第2屆 <a href="../Page/Soribada最佳音樂大獎.md" title="wikilink">Soribada Best K-Music Awards</a></p></td>
+<td><p>新韓流新人賞</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>第20屆 <a href="../Page/Mnet亞洲音樂大獎.md" title="wikilink">Mnet Asian Music Awards</a></p></td>
+<td><p>女子新人獎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ### 韓國主要音樂節目排行榜
 

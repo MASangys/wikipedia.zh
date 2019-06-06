@@ -3,9 +3,8 @@ Experience或](../Page/Samsung_Experience.md "wikilink")[TouchWiz](../Page/Touch
 Samsung Experience \[1\]
 ，作為[三星電子旗下的](../Page/三星電子.md "wikilink")[三星Galaxy系列手機的](../Page/三星Galaxy.md "wikilink")[使用者界面](https://zh.wikipedia.org/wiki/使用者界面 "wikilink")。
 
-One UI基於[Android 9.0開發](../Page/Android_Pie.md "wikilink")，目前三星Galaxy
-S9系列，Galaxy
-Note9系列可以運行。\[2\]根據Samsung的說明，該使用者界面將會逐步更新至其他更舊的裝置，\[3\]並會預載於2019年2月發佈的Galaxy
+手机端和平板电脑端的One UI基於[Android
+9.0開發](../Page/Android_Pie.md "wikilink")。\[2\]，而智能手表端则基于[Tizen开发](../Page/Tizen.md "wikilink")。根據Samsung的說明，該使用者界面正在逐步更新至其他更舊的裝置，\[3\]並預載於2019年2月發佈的Galaxy
 S10系列。\[4\]
 
 ## 功能
@@ -36,15 +35,129 @@ OneUI中也去除了以下的功能:
     S9和](https://zh.wikipedia.org/wiki/Galaxy_S9 "wikilink")[Galaxy Note
     9发售时摄像功能的卖点之一](https://zh.wikipedia.org/wiki/Galaxy_Note_9 "wikilink")\[10\]。)
 
-## 已獲升級裝置
+## 運行 One UI 的裝置
 
-[Galaxy
+2019年上半年[S10系列之後的手機已經預載One](../Page/三星Galaxy_S10.md "wikilink")
+UI，而舊款手機[Galaxy
 S8系列](https://zh.wikipedia.org/wiki/Galaxy_S8 "wikilink")、[Galaxy
 Note 8](https://zh.wikipedia.org/wiki/Galaxy_Note_8 "wikilink")、[Galaxy
 S9系列](https://zh.wikipedia.org/wiki/Galaxy_S9 "wikilink")、[Galaxy Note
 9](https://zh.wikipedia.org/wiki/Galaxy_Note_9 "wikilink")、[Galaxy
-S10系列](https://zh.wikipedia.org/wiki/Galaxy_S10 "wikilink")
-(預載)、[Galaxy A9(2018)](../Page/三星Galaxy_A9_\(2018\).md "wikilink")
+A9(2018)](../Page/三星Galaxy_A9_\(2018\).md "wikilink")、[Galaxy
+A8+(2018)等亦陸續獲得更新](https://zh.wikipedia.org/wiki/三星Galaxy_A8+_\(2018\) "wikilink")。
+
+<table>
+<caption>運行 One UI 的裝置</caption>
+<thead>
+<tr class="header">
+<th><p>手機系列</p></th>
+<th><p>手機型號</p></th>
+<th><p>One UI 版本</p></th>
+<th><p>Android 版本</p></th>
+<th><p>發布日期</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_S系列" title="wikilink">Samsung Galaxy S系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_S10" title="wikilink">Samsung Galaxy S10e/S10/S10+/S10 5G</a></p></td>
+<td><p>1.1</p></td>
+<td><p>Android 9.0 Pie</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_S9" title="wikilink">Samsung Galaxy S9/S9+</a></p></td>
+<td><p>1.0</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_S8" title="wikilink">Samsung Galaxy S8/S8+</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note系列" title="wikilink">Samsung Galaxy Note系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_9" title="wikilink">Samsung Galaxy Note 9</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_Note_8" title="wikilink">Samsung Galaxy Note 8</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/三星Galaxy_A系列.md" title="wikilink">Samsung Galaxy A系列</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/三星Galaxy_A70" title="wikilink">Samsung Galaxy A70</a></p></td>
+<td><p>1.1</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A50" title="wikilink">Samsung Galaxy A50</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A20" title="wikilink">Samsung Galaxy A20</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/三星Galaxy_A9_(2018).md" title="wikilink">Samsung Galaxy A9 (2018)</a></p></td>
+<td><p>1.0</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A8+_(2018)" title="wikilink">Samsung Galaxy A8+ (2018)</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/三星Galaxy_A7_(2018).md" title="wikilink">Samsung Galaxy A7 (2018)</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Samsung_Galaxy_A8s" title="wikilink">Samsung Galaxy A8s</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/三星Galaxy_Tab.md" title="wikilink">三星Galaxy Tab 系列</a></p></td>
+<td><p><a href="../Page/Samsung_Galaxy_Tab_S4.md" title="wikilink">Samsung Galaxy Tab S4</a> Wi-Fi</p></td>
+<td><p>Android 9.0 Pie</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/Samsung_Galaxy_Tab_S4.md" title="wikilink">Samsung Galaxy Tab S4</a> LTE</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 

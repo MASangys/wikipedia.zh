@@ -2,7 +2,7 @@
 Forest**》（，），為[tvN首次推出的](https://zh.wikipedia.org/wiki/tvN "wikilink")[金曜連續劇於](https://zh.wikipedia.org/wiki/tvN金土連續劇 "wikilink")2018年9月7日開播（每周五晚上11點播放一集）。此劇為《[SNL
 Korea](../Page/SNL_Korea.md "wikilink")》團隊事前製作的電視劇，由著名諧星兼主持人[申東燁為主軸與演員](../Page/申東燁.md "wikilink")[鄭尚勳](../Page/鄭尚勳.md "wikilink")、[崔嬉序三人共同合演的黑色喜劇](../Page/崔嬉序.md "wikilink")\[1\]\[2\]。
 
-## 劇情
+## 劇情簡介
 
 該劇講述了申東燁飾演的過氣藝人、鄭尚勳飾演的高利貸業者、崔熙瑞飾演的單身媽媽等人在首爾大林洞相遇後發生的精彩故事。
 

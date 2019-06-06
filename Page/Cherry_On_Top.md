@@ -60,6 +60,8 @@ Creative於2018年推出的四人[女子音樂組合](https://zh.wikipedia.org/w
 </tbody>
 </table>
 
+## 參考文章
+
 ## 外部連結
 
   - [United Creative](http://www.unitedcreative.co.kr/)
@@ -74,8 +76,6 @@ Creative於2018年推出的四人[女子音樂組合](https://zh.wikipedia.org/w
   -
   - [CHERRY ON TOP](https://story.kakao.com/_aWaM68)的[KAKAO
     STORY](../Page/Kakao.md "wikilink")
-
-## 參考文章
 
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")

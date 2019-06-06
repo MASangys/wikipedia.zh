@@ -120,12 +120,24 @@ Moments」\[18\]。 11月25日，於盆唐區AK Plaza舉行第二次擊掌會。
 </tr>
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
-<td><p>迷你一輯《<strong>VERI-US</strong>》</p>
+<td><p>《<strong>VERI-US</strong>》</p>
 <ul>
 <li>發行日期：2019年1月9日</li>
 <li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
 <li>銷量：24,080 +<ref></li>
 <li><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=02&amp;hitYear=2019&amp;termGbn=month">2019年GAON02月專輯榜33位</a></li>
+</ul>
+<p></ref></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>2nd</strong></p></td>
+<td><p>《<strong>VERI-ABLE</strong>》</p>
+<ul>
+<li>發行日期：2019年4月24日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>銷量：8,932+<ref></li>
+<li><a href="http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=04&amp;hitYear=2019&amp;termGbn=month">2019年GAON4月專輯榜27位</a></li>
 </ul>
 <p></ref></p></td>
 <td></td>
@@ -282,6 +294,9 @@ Moments」\[18\]。 11月25日，於盆唐區AK Plaza舉行第二次擊掌會。
 <td><p>VERI-US</p></td>
 </tr>
 <tr class="odd">
+<td><p>VERI-ABLE</p></td>
+</tr>
+<tr class="even">
 <td><ul>
 <li>「/」表示未有相關資料</li>
 <li>「(1)」：兩星期冠軍</li>

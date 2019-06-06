@@ -13,6 +13,7 @@ Data股東則佔其餘42.5%權益
 ## 外部连接
 
   -
+
 [Category:美国金融技术公司](https://zh.wikipedia.org/wiki/Category:美国金融技术公司 "wikilink")
 [Category:1984年成立的公司](https://zh.wikipedia.org/wiki/Category:1984年成立的公司 "wikilink")
 

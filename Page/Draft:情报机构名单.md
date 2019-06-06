@@ -150,8 +150,9 @@
 
 ### [加拿大](../Page/加拿大.md "wikilink")
 
-  - [加拿大安全情报局](../Page/加拿大國家安全情報局.md "wikilink") - *服务*
-    [加拿大安全局](../Page/加拿大國家安全情報局.md "wikilink") （CSIS / SCRS）
+  - [加拿大安全情报局](https://zh.wikipedia.org/wiki/加拿大安全情報局 "wikilink") - *服务*
+    [加拿大安全局](https://zh.wikipedia.org/wiki/加拿大安全情報局 "wikilink") （CSIS /
+    SCRS）
   - 通信安全机构 （CSE）
   - 加拿大军队情报司令部 （DND）
       - [加拿大军队国家反情报部队](http://www.forces.gc.ca/en/about-policies-standards-defence-admin-orders-directives-8000/8002-2.page)

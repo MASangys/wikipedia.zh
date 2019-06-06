@@ -1,5 +1,5 @@
 《**劉QUIZ ON THE BLOCK (第二季)**》(，)
-為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")。由[劉在錫](../Page/劉在錫.md "wikilink")、[曹世鎬共同主持](https://zh.wikipedia.org/wiki/曹世鎬 "wikilink")，節目主軸為探訪人們的日常生活，進行簡單談話和突然問答的街頭談話與問答秀。計劃在平凡的舞台街邊把陽光當作照明，用愉快的驚喜給人們疲乏的生活帶來活力，度過特別的一天。
+為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")。由[劉在錫](../Page/劉在錫.md "wikilink")、[曹世鎬共同主持](https://zh.wikipedia.org/wiki/曹世鎬 "wikilink")，節目主軸為探訪人們的日常生活，進行簡單談話和突然問答的街頭談話與問答秀。計劃在平凡的舞台街邊把陽光當作照明，用愉快的驚喜給人們疲乏的生活帶來活力，度過特別的一天。\[1\]\[2\]
 
 ## 節目形式
 
@@ -21,7 +21,7 @@
 <th><p>總集數</p></th>
 <th><p>集數</p></th>
 <th><p>播出日期</p></th>
-<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB尼爾森收視率</a>[1][2]</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB尼爾森收視率</a>[3][4]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -61,25 +61,25 @@
 <td><p>16</p></td>
 <td><p>4</p></td>
 <td><p>2019/05/07</p></td>
-<td><p>%</p></td>
+<td><p>2.220%</p></td>
 </tr>
 <tr class="odd">
 <td><p>17</p></td>
 <td><p>5</p></td>
 <td><p>2019/05/14</p></td>
-<td><p>%</p></td>
+<td><p>2.507%</p></td>
 </tr>
 <tr class="even">
 <td><p>18</p></td>
 <td><p>6</p></td>
 <td><p>2019/05/21</p></td>
-<td><p>%</p></td>
+<td><p>2.339%</p></td>
 </tr>
 <tr class="odd">
 <td><p>19</p></td>
 <td><p>7</p></td>
 <td><p>2019/05/28</p></td>
-<td><p>%</p></td>
+<td><p>2.215%</p></td>
 </tr>
 <tr class="even">
 <td><p>20</p></td>
@@ -90,25 +90,25 @@
 <tr class="odd">
 <td><p>21</p></td>
 <td><p>9</p></td>
-<td></td>
+<td><p>2019/06/11</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>22</p></td>
 <td><p>10</p></td>
-<td></td>
+<td><p>2019/06/18</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
 <td><p>23</p></td>
 <td><p>11</p></td>
-<td></td>
+<td><p>2019/06/25</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td><p>24</p></td>
 <td><p>12</p></td>
-<td></td>
+<td><p>2019/07/02</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="odd">
@@ -140,3 +140,5 @@
 
 1.
 2.
+3.
+4.

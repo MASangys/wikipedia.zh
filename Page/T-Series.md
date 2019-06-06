@@ -1,8 +1,8 @@
 **超级卡带工业私人有限公司**（暂定名称），（），又名**T-Series**\[1\]\[2\]是一家印度的音乐录像带和电影公司，1983年由创办。\[3\]
 
-截至2018年，T-Series是印度[宝莱坞音乐唱片巨头](../Page/宝莱坞.md "wikilink")，在电影业也有一定起色，与[薩爾曼·汗](../Page/薩爾曼·汗.md "wikilink")、[阿傑·德烏根](https://zh.wikipedia.org/wiki/阿傑·德烏根 "wikilink")、[阿克夏·庫馬](../Page/阿克夏·庫馬.md "wikilink")、[阿米爾·罕](https://zh.wikipedia.org/wiki/阿米爾·罕 "wikilink")、[蘭比爾·卡浦爾等艺人之间有合作关系](../Page/蘭比爾·卡浦爾.md "wikilink")。\[4\]
+截至2018年，T-Series是印度[宝莱坞音樂唱片巨頭](../Page/宝莱坞.md "wikilink")，在电影業也有一定起色，与[薩爾曼·汗](../Page/薩爾曼·汗.md "wikilink")、[阿傑·德烏根](https://zh.wikipedia.org/wiki/阿傑·德烏根 "wikilink")、[阿克夏·庫馬](../Page/阿克夏·庫馬.md "wikilink")、[阿米爾·罕](https://zh.wikipedia.org/wiki/阿米爾·罕 "wikilink")、[蘭比爾·卡浦爾等艺人之间有合作关系](../Page/蘭比爾·卡浦爾.md "wikilink")。\[4\]
 
-T-Series的[YouTube频道以播送音樂影片](../Page/YouTube.md "wikilink")、电影预告片为主，截至2018年10月21日有超过510亿的观看次数，是YouTube上累计观看次数最多的频道。截至2019年3月，其订阅数將近9000万。\[5\]
+T-Series的[YouTube频道以播送音樂影片](../Page/YouTube.md "wikilink")、电影预告片为主，截至2018年10月21日有超过510亿的观看次数，是YouTube上累计观看次数最多的频道。截至2019年6月，其訂閱數達到1億，是Youtube上訂閱數最高的非官方頻道。\[5\]
 
 2018年開始，T-Series的YouTube頻道訂閱人數迅速成長，在年底已幾乎追上排行第一的[PewDiePie頻道](../Page/PewDiePie.md "wikilink")。
 

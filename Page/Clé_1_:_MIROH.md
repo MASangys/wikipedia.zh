@@ -39,12 +39,14 @@ Kids在官方社群平台上釋出回歸預告](https://zh.wikipedia.org/wiki/St
 
 ## 概要
 
-在2018年的《I am》系列作品中，Stray Kids唱出深淵中的煩惱，表現了不安少年的樣子，而在此新專輯中融入了Stray
+在2018年的《I am》系列專輯作品中，Stray Kids唱出深淵中的煩惱，表現了不安少年的樣子，而在此新專輯中融入了Stray
 Kids的勇氣與挑戰，唱出從少年到成年，邁向人生另一步，面對新世界的熱情；對於自己的存在而感到苦惱的少年們，與同樣感到苦惱的「你(YOU)」一起逃離屬於我們的空間(District
 9)，前往像叢林般冷漠險峻的都市「MIROH」\[2\]。
-新專輯名稱《Clé 1 : MIROH》的「Clé」在法語中的意思為「鑰匙」；而主打歌名〈MIROH〉則是Stray
+新專輯名稱《Clé 1 : MIROH》的「Clé」在法語中的意思為「鑰匙」；而「MIROH」則是Stray
 Kids親自創造的詞，透過英文「Maze」來表達未知，以韓語表達就是「미로(MIRO)」，再根據Stray
 Kids的做法不同，地點可能會變成「Hell」，也可能會變成「Heaven」，所以在「MIRO」後面加上「H」組成〈MIROH〉\[3\]。
+主打歌〈MIROH〉是一首比起恐懼，以對自己的信任和勇氣，在險峻叢林般的「迷宮」裡邁出第一步，充滿著Stray
+Kids的霸氣和抱負，可以感受到融合[Hip-hop與](https://zh.wikipedia.org/wiki/Hip-hop "wikilink")[EDM曲風的絕妙組合的歌曲](https://zh.wikipedia.org/wiki/EDM "wikilink")\[4\]，表演中更融入了紐西蘭傳統舞蹈[哈卡舞與](../Page/哈卡舞.md "wikilink")[多米諾骨牌舞蹈技術等](https://zh.wikipedia.org/wiki/多米諾骨牌 "wikilink")，嘗試了新的舞蹈風格\[5\]。
 
 ### 發行版本
 
@@ -102,13 +104,13 @@ Kids的做法不同，地點可能會變成「Hell」，也可能會變成「Hea
 <td><p>專輯週榜</p></td>
 <td><p>2019年3月24日－30日</p></td>
 <td><p><strong>#1</strong></p></td>
-<td><p>103,021+</p></td>
-<td><p>[4]</p></td>
+<td><p>136,869+[6]</p></td>
+<td><p>[7]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年3月31日－4月6日</p></td>
 <td><p>#9</p></td>
-<td><p>[5]</p></td>
+<td><p>[8]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -117,7 +119,7 @@ Kids的做法不同，地點可能會變成「Hell」，也可能會變成「Hea
 <tr class="odd">
 <td><p>2019年4月7日－4月13日</p></td>
 <td><p>#4</p></td>
-<td><p>[6]</p></td>
+<td><p>[9]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -126,7 +128,7 @@ Kids的做法不同，地點可能會變成「Hell」，也可能會變成「Hea
 <tr class="even">
 <td><p>2019年4月14日－4月20日</p></td>
 <td><p>#5</p></td>
-<td><p>[7]</p></td>
+<td><p>[10]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -135,7 +137,7 @@ Kids的做法不同，地點可能會變成「Hell」，也可能會變成「Hea
 <tr class="odd">
 <td><p>2019年4月21日－4月27日</p></td>
 <td><p>#8</p></td>
-<td><p>[8]</p></td>
+<td><p>[11]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -145,7 +147,7 @@ Kids的做法不同，地點可能會變成「Hell」，也可能會變成「Hea
 <td><p>專輯月榜</p></td>
 <td><p>2019年3月</p></td>
 <td><p>#2</p></td>
-<td><p>[9]</p></td>
+<td><p>[12]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -157,7 +159,7 @@ Kids的做法不同，地點可能會變成「Hell」，也可能會變成「Hea
 <td><p>2019年3月22日－28日</p></td>
 <td><p><strong>#1</strong></p></td>
 <td><p>16.39%</p></td>
-<td><p>[10]</p></td>
+<td><p>[13]</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年3月29日－4月4日</p></td>
@@ -175,7 +177,7 @@ Kids的做法不同，地點可能會變成「Hell」，也可能會變成「Hea
 <td><p> </p></td>
 <td><p>#3</p></td>
 <td></td>
-<td><p>[11]</p></td>
+<td><p>[14]</p></td>
 </tr>
 <tr class="even">
 <td><p>日本</p></td>
@@ -184,7 +186,7 @@ Kids的做法不同，地點可能會變成「Hell」，也可能會變成「Hea
 <td><p>2019年3月25日－31日</p></td>
 <td><p>#15</p></td>
 <td><p>5,856+</p></td>
-<td><p>[12][13]</p></td>
+<td><p>[15][16]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -274,3 +276,6 @@ Kids的做法不同，地點可能會變成「Hell」，也可能會變成「Hea
 11.
 12.
 13.
+14.
+15.
+16.

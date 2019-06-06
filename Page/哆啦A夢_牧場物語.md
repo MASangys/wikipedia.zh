@@ -1,21 +1,23 @@
 是一款由[Marvelous
-Entertainment開發](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")，由[萬代南夢宮娛樂發行在](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")[任天堂Switch平台上的](../Page/任天堂Switch.md "wikilink")[模擬經營遊戲](https://zh.wikipedia.org/wiki/模擬經營遊戲 "wikilink")。為[牧場物語與](https://zh.wikipedia.org/wiki/牧場物語系列 "wikilink")[多啦A夢進行聯動合作的遊戲](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")。遊戲於2019年2月的[任天堂直面會上公佈相關消息](https://zh.wikipedia.org/wiki/任天堂直面會 "wikilink")，並於同年4月份確定會於2019年6月13日在[任天堂Switch平台發售](../Page/任天堂Switch.md "wikilink")。
+Entertainment開發](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")，由[萬代南夢宮娛樂發行在](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")[任天堂Switch平台上的](../Page/任天堂Switch.md "wikilink")[模擬經營遊戲](https://zh.wikipedia.org/wiki/模擬經營遊戲 "wikilink")。為[牧場物語與](https://zh.wikipedia.org/wiki/牧場物語系列 "wikilink")[多啦A夢進行聯動合作的遊戲](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")。
 
-## 遊戲相關
+遊戲於2019年2月的[任天堂直面會上公佈相關消息](https://zh.wikipedia.org/wiki/任天堂直面會 "wikilink")，並於同年4月份確定會於2019年6月13日在[任天堂Switch平台發售](../Page/任天堂Switch.md "wikilink")（繁體中文版為2019年7月25日）。另外，還預計在2019年秋季推出[Steam版本](../Page/Steam.md "wikilink")。
 
-遊戲與歷代牧場物語遊玩方式相同，但人物構成及故事聚焦主要角色為多啦A夢相關角色。
+## 概要
 
-並且會引用於多啦A夢故事中部份出現過的場景/道具，作為遊戲的增添設置。
+本作除了收錄以「親情」為中心的主線劇情之外，另有比主線分量多達五倍的豐富支線任務。《哆啦A夢
+牧場物語》中雖然並無《牧場物語》過去系列作中的戀愛、結婚要素，但仍可藉由故事發展和角色培養好感度，加深與人們的交流與羈絆。\[1\]
+
+## 故事背景
+
+《哆啦A夢
+牧場物語》的故事開始於大雄思考著暑假自由研究的主題，某日發現了一顆奇妙的種子，並帶回家種植。沒想到種子竟眨眼間成長茁壯，還突然颳起大風也將大雄一行人捲起，飛往神秘大樹聳立的「萬物鎮」。為了尋找回到原本世界的方法，大雄一行人開始了牧場生活。\[2\]
 
 ## 開發
 
-遊戲於2019年2月的任天堂直面會上首度公佈相關消息，在此之前並無任何合作消息。
+遊戲於2019年2月的任天堂直面會上首度公佈相關消息，在發表前並無任何有關本作的消息。作為《[牧場物語》與](https://zh.wikipedia.org/wiki/牧場物語系列 "wikilink")《[多啦A夢》兩作品合作的遊戲](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")，公佈後引起媒體關注\[3\]及網上熱議討論。\[4\]
 
-而本次新作品並非屬於最初所說登陸於[任天堂Switch平台的牧場物語新作](../Page/任天堂Switch.md "wikilink")\[1\]，該作品另指系列正統新作。
-
-此次作品為[牧場物語與](https://zh.wikipedia.org/wiki/牧場物語系列 "wikilink")[多啦A夢兩者作品進行聯動合作的遊戲](https://zh.wikipedia.org/wiki/多啦A夢 "wikilink")，公佈後引起媒體關注\[2\]及網上熱議討論。\[3\]
-
-及後確定為牧場物語系列首次的中文支援，開發為[Marvelous牧場物語製作方](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")，但發行商則為[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")。
+本次新作品並非屬於最初所說登陸於[任天堂Switch平台的](../Page/任天堂Switch.md "wikilink")《牧場物語》系列新作\[5\]，該作另指系列正統作品。另外本作日後也宣布對應中文，是《牧場物語》系列首次的中文化。開發為《牧場物語》系列作的開發商[Marvelous](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wikilink")，但發行商則為[萬代南夢宮娛樂](https://zh.wikipedia.org/wiki/萬代南夢宮娛樂 "wikilink")。
 
 ## 参考资料
 
@@ -34,7 +36,9 @@ Entertainment開發](https://zh.wikipedia.org/wiki/Marvelous_Entertainment "wiki
 [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
 [Category:官方繁体中文化遊戲](https://zh.wikipedia.org/wiki/Category:官方繁体中文化遊戲 "wikilink")
 
-1.  [Nintendo Switch新作『ドラえもん
+1.
+2.
+3.  [スイッチの牧場物語の新作はドラえもんだけではない？](http://neta7.com/7970.html)
+4.  [牧場物語の新作Switchはドラえもん！？牧場物語の恋愛はあるの？](https://konannews.com/%E7%89%A7%E5%A0%B4%E7%89%A9%E8%AA%9E%E3%81%AE%E6%96%B0%E4%BD%9Cswitch%E3%81%AF%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%EF%BC%81%EF%BC%9F%E7%89%A7%E5%A0%B4%E7%89%A9%E8%AA%9E%E3%81%AE%E6%81%8B/)
+5.  [Nintendo Switch新作『ドラえもん
     のび太の牧場物語』](https://news.denfaminicogamer.jp/news/190402c)
-2.  [スイッチの牧場物語の新作はドラえもんだけではない？](http://neta7.com/7970.html)
-3.  [牧場物語の新作Switchはドラえもん！？牧場物語の恋愛はあるの？](https://konannews.com/%E7%89%A7%E5%A0%B4%E7%89%A9%E8%AA%9E%E3%81%AE%E6%96%B0%E4%BD%9Cswitch%E3%81%AF%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%EF%BC%81%EF%BC%9F%E7%89%A7%E5%A0%B4%E7%89%A9%E8%AA%9E%E3%81%AE%E6%81%8B/)

@@ -17,7 +17,7 @@ pfSense项目作爲m0n0wall项目的[分支起始於](https://zh.wikipedia.org/w
   - *Security: Manage Network Security With pfSense Firewall \[Video\]*
     Birmingham, UK: Packt Publishing, 2018. . By Manuj Aggarwal.
 
-## 外部鏈接
+## 外部連結
 
   -
 [Category:2004年软件](https://zh.wikipedia.org/wiki/Category:2004年软件 "wikilink")

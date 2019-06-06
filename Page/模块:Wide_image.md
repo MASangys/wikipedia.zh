@@ -60,7 +60,8 @@ local function getcontainers(noborder, float, width, maxwidth)
 `           r:addClass('floatnone')`
 `       else -- center is default`
 `           r:addClass('floatnone')`
-`       r:css('margin', '0 auto')`
+`           r:css('margin-left', 'auto')`
+`           r:css('margin-right', 'auto')`
 `           r:css('overflow', 'hidden')`
 `       end`
 `   else`
@@ -73,7 +74,8 @@ local function getcontainers(noborder, float, width, maxwidth)
 `           r:addClass('tnone')`
 `       else -- center is default`
 `           r:addClass('tnone')`
-`           r:css('margin', '0 auto')`
+`           r:css('margin-left', 'auto')`
+`           r:css('margin-right', 'auto')`
 `           r:css('overflow', 'hidden')`
 `       end`
 `   end`

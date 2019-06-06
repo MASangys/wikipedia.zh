@@ -169,7 +169,7 @@ ID是相同的，CID才是唯一的。\[1\]\[2\]
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="http://openmobilenetwork.org/">开放式移动网络</a></p></td>
+<td><p><a href="https://web.archive.org/web/20190306111559/http://openmobilenetwork.org/">开放式移动网络</a></p></td>
 <td></td>
 <td style="text-align: right;"></td>
 <td></td>

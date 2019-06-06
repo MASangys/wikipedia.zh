@@ -1,16 +1,58 @@
 《**Seoul
-Mate2**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN的綜藝節目](https://zh.wikipedia.org/wiki/tvN "wikilink")，是一檔邀請外國嘉賓到自己家中生活，一同累積回憶的全球home
+Mate2**》（，）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[tvN電視台於](https://zh.wikipedia.org/wiki/tvN "wikilink")2018年12月10日推出的綜藝節目，是一檔邀請外國嘉賓到自己家中生活，一同累積回憶的全球home
 sharing真人秀節目\[1\]\[2\]\[3\]\[4\]。
 
-## 各集內容
+## 節目成員
 
-| 集數 | 播放日期       | 來賓 |
-| -- | ---------- | -- |
-| 1  | 2018/12/10 |    |
-| 2  | 2018/12/17 |    |
-| 3  | 2018/12/24 |    |
-| 4  | 2018/12/31 |    |
-|    |            |    |
+<table>
+<thead>
+<tr class="header">
+<th><p>姓名</p></th>
+<th><p>出生日期<br />
+（年齡）</p></th>
+<th><p>職業</p></th>
+<th><p>備註</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>漢字</p></td>
+<td><p>諺文</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/金俊昊.md" title="wikilink">金俊昊</a></p></td>
+<td></td>
+<td></td>
+<td><p>喜劇演員</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/金淑.md" title="wikilink">金淑</a></p></td>
+<td></td>
+<td></td>
+<td><p>喜劇演員、演員</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/洪洙賢.md" title="wikilink">洪洙賢</a></p></td>
+<td></td>
+<td></td>
+<td><p>演員</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Key_(歌手)" title="wikilink">Key</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="../Page/SHINee.md" title="wikilink">SHINee成員</a>、歌手、演員</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 收視率
 
@@ -114,8 +156,7 @@ Mate2**》節目收視，收視最低的集數以表示，收視最高的集數�
 ## 外部連結
 
   - [官方網站](http://program.m.tving.com/tvn/seoulmate2)
-  - [Seoul
-    Mate2-NAVER](http://m.entertain.naver.com/tvBrand/8960985/broadcastInfo/mainCard)
+  - [Seoul Mate2-NAVER](http://m.entertain.naver.com/tvBrand/8960985)
 
 [Category:韓國電視節目](https://zh.wikipedia.org/wiki/Category:韓國電視節目 "wikilink")
 [Category:韓國綜藝節目](https://zh.wikipedia.org/wiki/Category:韓國綜藝節目 "wikilink")

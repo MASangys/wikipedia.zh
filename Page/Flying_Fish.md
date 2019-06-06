@@ -2,7 +2,7 @@
 TRIBE的第二張單曲](../Page/FANTASTICS_from_EXILE_TRIBE.md "wikilink")。於[2019年](../Page/2019年.md "wikilink")[4月3日由](../Page/4月3日.md "wikilink")[rhythm
 zone發行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
-## 概要
+## 简介
 
   - 與前作「[OVER
     DRIVE](https://zh.wikipedia.org/wiki/OVER_DRIVE_\(FANTASTICS_from_EXILE_TRIBEの曲\) "wikilink")」相隔四個月、是2019年第一發單曲。以「CD+DVD」和「CD」共兩個版本發售。
@@ -10,7 +10,7 @@ zone發行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
     Love」是隊長[佐藤大樹主演電影](../Page/佐藤大樹.md "wikilink")『[4月の君、スピカ。](https://zh.wikipedia.org/wiki/4月の君、スピカ。 "wikilink")』的主題曲，也是首次發布的抒情曲\[1\]。
   - 特別收錄曲目是上一張單曲主打「OVER DRIVE」的英文版本。
 
-## 収録曲
+## 收录单曲
 
 ### CD
 
@@ -52,14 +52,9 @@ zone發行](https://zh.wikipedia.org/wiki/rhythm_zone "wikilink")。
 
 1.  Flying Fish（MUSIC VIDEO）
 
-## 出典
+## 参考资料
 
-
-
-[Category:FANTASTICS_from_EXILE_TRIBEの楽曲](https://zh.wikipedia.org/wiki/Category:FANTASTICS_from_EXILE_TRIBEの楽曲 "wikilink")
-[Category:2019年のシングル](https://zh.wikipedia.org/wiki/Category:2019年のシングル "wikilink")
-[Category:エイベックス・グループの楽曲](https://zh.wikipedia.org/wiki/Category:エイベックス・グループの楽曲 "wikilink")
-[Category:小竹正人が制作した楽曲](https://zh.wikipedia.org/wiki/Category:小竹正人が制作した楽曲 "wikilink")
-[Category:楽曲_ふ](https://zh.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:2019年單曲](https://zh.wikipedia.org/wiki/Category:2019年單曲 "wikilink")
+[Category:愛貝克思歌曲](https://zh.wikipedia.org/wiki/Category:愛貝克思歌曲 "wikilink")
 
 1.  [FANTASTICSが主題歌担当する映画「4月の君、スピカ。」4月公開決定](https://natalie.mu/music/news/318173)音楽ナタリー（2019年1月31日）

@@ -1,0 +1,30 @@
+**联盟TMA-13**（）是俄罗斯[联盟计划中](../Page/联盟计划.md "wikilink")[联盟和载人飞船的第](../Page/联盟号宇宙飞船.md "wikilink")100次飞行，本次任务计划将远征18的两名[宇航员和太空游客](../Page/宇航员.md "wikilink")[理查·蓋瑞特送到国际空间站](../Page/理查·蓋瑞特.md "wikilink")\[1\]。
+
+## 任务队员
+
+### 后备队员
+
+## 细节
+
+[萨利占·沙里波夫是本次任务的原定人选](../Page/萨利占·沙里波夫.md "wikilink")，但最后被[尤里·隆恰科夫所取代](../Page/尤里·隆恰科夫.md "wikilink")\[2\]。
+
+[联盟-FG运载火箭是在协调世界时](../Page/联盟-FG.md "wikilink")2008年10月12日7时01分点火发射的\[3\]。
+
+2009年4月8日7时16分，联盟TMA-13飞船返回舱平安降落在哈萨克斯坦[杰兹卡兹甘市东北部草原](https://zh.wikipedia.org/wiki/杰兹卡兹甘 "wikilink")。它原定于4月7日返程，但由于[天气原因而被推迟](../Page/天气.md "wikilink")\[4\]。
+
+## 图集
+
+Soyuz TMA-13 erected at Baikonur Cosmodrome launch pad.jpg|发射前 Soyuz
+TMA-13 arrives at Baikonur Cosmodrome launch pad.jpg|发射前
+Soyuz_TMA-13_Edit.jpg|发射 Soyuz TMA-13 lift off with Expedition 18 crew
+from Baikonur Cosmodrome.jpg
+
+## 参考文献
+
+[Category:2008年航天](https://zh.wikipedia.org/wiki/Category:2008年航天 "wikilink")
+[Category:联盟计划](https://zh.wikipedia.org/wiki/Category:联盟计划 "wikilink")
+
+1.
+2.
+3.
+4.

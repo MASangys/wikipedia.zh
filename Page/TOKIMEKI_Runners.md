@@ -36,7 +36,7 @@ Runners》的PV及《LoveLive\! 学园偶像祭 全明星》的开场动画。\[
   - 脚本：EDEN'S NOTES
   - 音响监督：长崎行男
   - 音乐制作人：大久保隆一、高桥亚弥
-  - 音乐制作：[Lantis](../Page/Lantis.md "wikilink")、[日昇音乐出版](https://zh.wikipedia.org/wiki/日昇 "wikilink")
+  - 音乐制作：[Lantis](../Page/Lantis.md "wikilink")、[日昇音乐出版](../Page/日昇.md "wikilink")
   - 映像制作：DRAWIZ
   - 监督、演出：辰口智树
   - 企划制作人：若林悠纪

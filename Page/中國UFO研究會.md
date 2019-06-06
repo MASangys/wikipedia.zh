@@ -6,7 +6,7 @@
 
 1981年的[7·24UFO事件過後](https://zh.wikipedia.org/wiki/7·24UFO事件 "wikilink")，中國UFO研究會立刻組織各地分會展開大規模的調研活動，並於各地媒體上發表研究該起事件的文章。1994年[鳳凰山事件發生後](../Page/孟照国事件.md "wikilink")，中國UFO研究會也聯合了[北京UFO研究會等幾個組織一同對進行實地考察](https://zh.wikipedia.org/wiki/北京UFO研究會 "wikilink")\[4\]。
 
-中國UFO研究會終於1997年9月解散\[5\]。
+1997年9月中國UFO研究會解散\[5\]。
 
 ## 參考資料
 

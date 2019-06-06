@@ -191,7 +191,7 @@ Project](../Page/Ariel_Project.md "wikilink")**。
 </tr>
 <tr class="odd">
 <td><p>27</p></td>
-<td><p>Hinako以次名勝出偶像應援app「CHEERZ」的活動，獲得日本大型商場「涉谷Modi」超大型戶外屏幕的硬照拍攝機會[10]</p></td>
+<td><p>Hinako以第2名勝出偶像應援app「CHEERZ」的活動，獲得日本大型商場「涉谷Modi」超大型戶外屏幕的硬照拍攝機會[10]</p></td>
 <td></td>
 <td></td>
 <td></td>

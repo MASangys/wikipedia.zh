@@ -23,7 +23,8 @@ zh-hant:規格}-没有差异。
 
 ## 外部链接
 
-  - [1](https://www.nokia.com/phones/en_int/nokia-3)
+  - [Nokia 3.1 您的生活夥伴 | Nokia 手機台灣 | 台灣 -
+    繁體中文](https://www.nokia.com/phones/zh_tw/nokia-3)
 
 [Category:诺基亚手机](https://zh.wikipedia.org/wiki/Category:诺基亚手机 "wikilink")
 [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")

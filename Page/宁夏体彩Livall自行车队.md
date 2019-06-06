@@ -1,4 +1,4 @@
-**宁夏体彩Livall自行车队**（），是一支[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[公路自行车队](https://zh.wikipedia.org/wiki/公路自行车 "wikilink")，在[国际自行车联盟级別中属](https://zh.wikipedia.org/wiki/国际自行车联盟 "wikilink")[亞洲洲际车队](../Page/UCI洲際巡迴賽.md "wikilink")。
+**宁夏体彩Livall高士特自行车队**（），是一支[中国](https://zh.wikipedia.org/wiki/中华人民共和国 "wikilink")[公路自行车队](https://zh.wikipedia.org/wiki/公路自行车 "wikilink")，在[国际自行车联盟级別中属](https://zh.wikipedia.org/wiki/国际自行车联盟 "wikilink")[亞洲洲际车队](../Page/UCI洲際巡迴賽.md "wikilink")。
 
 ## 队员名单
 
@@ -18,10 +18,10 @@
 
 ## 外部链接
 
-  - [宁夏体彩Livall自行车队
+  - [宁夏体彩Livall高士特自行车队
     (procyclingstats.com)](http://www.procyclingstats.com/team/2458)
-  - [2018年队员名单
-    (uci.org)](http://www.uci.org/road/teams/TeamDetail/10344/1928/228)
+  - [2019年队员名单
+    (uci.org)](https://www.uci.org/road/teams/TeamDetail/11385/1001928/242)
 
 [Category:UCI洲際車隊](https://zh.wikipedia.org/wiki/Category:UCI洲際車隊 "wikilink")
 [Category:中国自行车队](https://zh.wikipedia.org/wiki/Category:中国自行车队 "wikilink")

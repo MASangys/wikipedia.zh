@@ -160,7 +160,7 @@ PUNKS》发售后，乐队就再未有亮眼的表现。1999年以音乐理念�
 作曲：織田哲郎<br />
 編曲：ZYYG</p></td>
 <td><p>3位</p></td>
-<td><p>朝日电视台动画《<a href="https://zh.wikipedia.org/wiki/灌篮高手" title="wikilink">灌篮高手</a>》开场曲</p></td>
+<td><p>朝日电视台动画《<a href="../Page/灌篮高手.md" title="wikilink">灌篮高手</a>》开场曲</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -292,7 +292,8 @@ PUNKS》发售后，乐队就再未有亮眼的表现。1999年以音乐理念�
   - [ZYYG－Being](http://www.being.co.jp/zyyg/)
   - [ck510 official web site](http://www.ck510.com/)（ck510官网）
   - [BlueFish Sound Studio](http://www.h6.dion.ne.jp/〜uonome//)（加藤直樹官网）
-  - [Ken☆ken Web](http://www4.pf-x.net/〜kenken/)（藤本健一官网）
+  - [Ken☆ken
+    Web](https://web.archive.org/web/20181126213016/https://www.pf-x.net/〜kenken/)（藤本健一官网）
 
 [Category:Being旗下艺人](https://zh.wikipedia.org/wiki/Category:Being旗下艺人 "wikilink")
 [Category:日本摇滚乐团](https://zh.wikipedia.org/wiki/Category:日本摇滚乐团 "wikilink")

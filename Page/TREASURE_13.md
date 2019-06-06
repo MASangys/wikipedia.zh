@@ -1,5 +1,5 @@
 **TREASURE 13**（韓語：**트레저
-13**）為兄弟組合[TREASURE和](../Page/Treasure_\(組合\).md "wikilink")[MAGNUM一起活動時的合稱](../Page/MAGNUM.md "wikilink")，所屬公司為[YG娛樂](../Page/YG娛樂.md "wikilink")。成員包括[崔玹碩](../Page/崔玹碩.md "wikilink")、朴志焄、Yoshinori、金俊奎、夏允彬、Mashiho、尹在赫、Asahi、[房藝談](https://zh.wikipedia.org/wiki/房藝談 "wikilink")、金道英、Haruto、朴正宇及蘇正煥共13名。三隊共用的官方粉絲名為TREASURE
+13**）為兄弟組合[TREASURE和](../Page/Treasure_\(組合\).md "wikilink")[MAGNUM一起活動時的合稱](../Page/MAGNUM.md "wikilink")，所屬公司為[YG娛樂](../Page/YG娛樂.md "wikilink")。成員包括[崔玹碩](../Page/崔玹碩.md "wikilink")、朴志焄、Yoshi、金俊奎、夏允彬、Mashiho、尹在赫、Asahi、[房藝談](https://zh.wikipedia.org/wiki/房藝談 "wikilink")、金道英、Haruto、朴正宇及蘇正煥共13名。三隊共用的官方粉絲名為TREASURE
 MAKER。預計2019年5至7月間正式出道。
 
 ## 經歷

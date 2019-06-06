@@ -270,10 +270,10 @@ LA》，並於同日舉行回歸Showcase。\[6\]
 <tr class="odd">
 <td><p>Gaon Chart</p></td>
 <td><p>Genie:us</p></td>
-<td><p>13,459+</p></td>
+<td><p>39,875+</p></td>
 <td><p><ref>Gaon Album Chart專輯銷量排名《Genie:us》</p>
 <ul>
-<li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=03&amp;hitYear=2019&amp;termGbn=month">2019年GAON3月專輯榜21位</a></li>
+<li><a href="http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&amp;serviceGbn=&amp;targetTime=04&amp;hitYear=2019&amp;termGbn=month">2019年GAON4月專輯榜15位</a></li>
 </ul>
 <p></ref></p></td>
 </tr>

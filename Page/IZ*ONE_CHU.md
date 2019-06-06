@@ -6,7 +6,7 @@ CHU**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet�
 ## 第一季
 
   - 記錄IZ\*ONE日常工作與合宿生活，記錄12位成員的宿舍趣事、製作專輯、出道Showcase、團長選舉等的幕後花絮。
-  - 宿舍以六人為一組，為隔鄰單位鄰居，第一宿舍(205單位）\[6\]為權恩妃、姜惠元、崔叡娜、金彩元、金珉周、安兪真
+  - 宿舍在[首爾](../Page/首爾.md "wikilink")[江南區三成洞](../Page/江南區_\(首爾\).md "wikilink")\[6\]以六人為一組，為隔鄰單位鄰居，第一宿舍(205單位）\[7\]為權恩妃、姜惠元、崔叡娜、金彩元、金珉周、安兪真
     （金珉周（上）、安兪真（下）兩人房，其她四人在一個房間。（金彩元（對門，上）、崔叡娜（對門，下）權恩妃（對窗，下）姜惠元（對窗，上）），第二宿舍（203單位）為宮脇咲良、李彩演、矢吹奈子、本田仁美、曺柔理、張元英
     （李彩演（下格床）、本田仁美（上）兩人房，其她四人在一個房間。矢吹奈子（對窗，上）、張元英
     （對窗，下）曺柔理（對門，上）、宮脇咲良（對門，下））。
@@ -42,7 +42,7 @@ CHU**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet�
   - 為宮脇咲良、[矢吹奈子](../Page/矢吹奈子.md "wikilink")、[本田仁美體驗韓國高中生活](../Page/本田仁美.md "wikilink")，包括參加「才藝表演」，因為日本從小學到高中，都沒有類似場合。
   - 高中回憶相冊。
   - 放學後，與宮脇咲良、矢吹奈子、本田仁美體驗「即席炒年糕」店，挑戰YouTuber 「大食女王－挑食的太陽」菜單。
-  - 分組課外活動：[塔羅牌](../Page/塔羅牌.md "wikilink")（權恩妃、張員瑛、矢吹奈子）、韓國練歌房（[李彩演](../Page/李彩演.md "wikilink")、本田仁美、[曺柔理](../Page/曺柔理.md "wikilink")、[安兪真](../Page/安兪真.md "wikilink")、金采源）、[網吧](../Page/网吧.md "wikilink")（[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[金玟周](https://zh.wikipedia.org/wiki/金玟周 "wikilink")、[崔叡娜](../Page/崔叡娜.md "wikilink")、[姜惠元](../Page/姜惠元.md "wikilink")）體驗
+  - 分組課外活動：[塔羅牌](../Page/塔羅牌.md "wikilink")（權恩妃、張員瑛、矢吹奈子）、韓國練歌房（[李彩演](../Page/李彩演.md "wikilink")、本田仁美、[曺柔理](../Page/曺柔理.md "wikilink")、[安兪真](../Page/安兪真.md "wikilink")、金采源）、[網吧](../Page/网吧.md "wikilink")（[宮脇咲良](../Page/宮脇咲良.md "wikilink")、[金玟周](../Page/金玟周.md "wikilink")、[崔叡娜](../Page/崔叡娜.md "wikilink")、[姜惠元](../Page/姜惠元.md "wikilink")）體驗
   - 「恐怖校園」藏寶+課室逃脫－「IZ\*One」膽小鬼揭曉（日本Line、金玟周、崔叡娜、曺柔理）。膽子大的是[姜惠元](../Page/姜惠元.md "wikilink")、安兪真、權恩妃、李彩演、張員瑛、金采源。
   - 安兪真[首爾藝高入學日](../Page/首尔公演艺术高中.md "wikilink")，也透露跟同公司師姐－[Fromis
     9白知憲](https://zh.wikipedia.org/wiki/Fromis_9 "wikilink")（沒有出席）是同班同學。同日，也是金玟周轉學開學禮。
@@ -70,4 +70,5 @@ CHU**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[Mnet�
 3.
 4.
 5.
-6.  2019年4月10日[Weekly Idol正名](../Page/Weekly_Idol.md "wikilink")
+6.  [張員瑛在](../Page/張員瑛.md "wikilink")[請給一頓飯第](../Page/請給一頓飯.md "wikilink")121集透露
+7.  2019年4月10日[Weekly Idol正名](../Page/Weekly_Idol.md "wikilink")

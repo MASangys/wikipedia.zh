@@ -137,6 +137,6 @@ Asobi](https://zh.wikipedia.org/wiki/Machi_Asobi "wikilink")（）活動中正�
 1.
 2.  [本邦初公開の「魔法少女まどか☆マギカ
     ポータブル」プロモーションムービーも公開された「ニトロプラス新作発表会＆いとうかなこミニライブ」レポート](http://www.4gamer.net/games/138/G013839/20110812016/)
-3.  <http://www.vgchartz.com/game/70554/puella-magi-madoka-magica-portable/Japan/>
+3.
 4.  [Puella Magi Madoka Magica Portable Reviews -
     GameSpot](https://www.gamespot.com/puella-magi-madoka-magica-portable/reviews/)

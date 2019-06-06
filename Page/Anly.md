@@ -161,7 +161,9 @@ SQUARE》的主题曲。\[38\]
 13.
 14.
 15.  マイナビニュース|date = 2015-10-05|accessdate = 2015-12-05|publisher =
-    マイナビ}}
+    マイナビ|archive-url =
+    [https://web.archive.org/web/20170731112107/http://news.mynavi.jp/news/2015/10/05/664/|archive-date](https://web.archive.org/web/20170731112107/http://news.mynavi.jp/news/2015/10/05/664/%7Carchive-date)
+    = 2017-07-31|dead-url = yes}}
 
 16.
 

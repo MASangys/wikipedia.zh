@@ -49,13 +49,13 @@ STAR](https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR "wikilink")》\[1\]�
 <td><p><br />
 [3]</p></td>
 <td><p><a href="../Page/Oricon公信榜.md" title="wikilink">週榜</a><br />
-<ref>韓語迷你專輯在日本Oricon週榜成績：</p>
+<ref> 韓語迷你專輯在日本Oricon週榜成績：</p>
 <ul>
 <li></li>
 </ul>
 <p></ref></p></td>
 <td><p><a href="../Page/Oricon公信榜.md" title="wikilink">月榜</a><br />
-<ref name="Oricon月榜">韓語迷你專輯在日本Oricon月榜成績：</p>
+<ref name="Oricon月榜"> 韓語迷你專輯在日本Oricon月榜成績：</p>
 <ul>
 <li></li>
 </ul>

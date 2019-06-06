@@ -97,7 +97,11 @@ ARE P\!SCO』在台中Legacy開演，與酒商合作發行限量的『Pisco Prot
 P\!SCO』聯名款，而連續兩年的週年專場皆以獨立自主企劃的高規格演出型態大受好評。專場結束後前往日本東京巡演與日本知名樂團『[四星球](https://zh.wikipedia.org/wiki/四星球 "wikilink")』、『PAN』共演，巡迴的最後一場則是與七組日本友團共演的『Asia
 Series』的東京版，P\!SCO除了擔任壓軸以外，吉他手Rachel也與『[JinnyOops\!](https://zh.wikipedia.org/wiki/JinnyOops! "wikilink")』、『[Who
 the
-Bitch](https://zh.wikipedia.org/wiki/Who_the_Bitch "wikilink")』進行難得的跨國合作，P\!SCO也藉著這次巡迴發行日盤『この歌を歌う度に』。在電商蝦皮上成立專屬的PISCOGOODS周邊商城。十一月參與電視節目『[樂團新勢力](../Page/樂團新勢力.md "wikilink")』，十二月與『[NTW新台灣娛樂摔角聯盟](https://zh.wikipedia.org/wiki/NTW新台灣娛樂摔角聯盟 "wikilink")』合作並製作選手的出場曲。
+Bitch](https://zh.wikipedia.org/wiki/Who_the_Bitch "wikilink")』進行難得的跨國合作，P\!SCO也藉著這次巡迴發行日盤『この歌を歌う度に』。在電商蝦皮上成立專屬的PISCOGOODS周邊商城。十一月參與電視節目『[樂團新勢力](../Page/樂團新勢力.md "wikilink")』，十二月與『[NTW新台灣娛樂摔角聯盟](https://zh.wikipedia.org/wiki/NTW新台灣娛樂摔角聯盟 "wikilink")』合作並製作『[中二之王Sky選手](https://zh.wikipedia.org/wiki/中二之王Sky選手 "wikilink")』的出場曲。
+
+### 2019年
+
+九週年演唱會前夕發表新曲『[光圈](../Page/光圈.md "wikilink")』，此曲首度由主唱小論和bass手Omoi共同填詞，描述小時候遭受霸凌而留下心理陰影，雖然長大後傷痕漸漸淡化，但那不被他人接受的痛苦卻深深刻在心中，因此陷入憂鬱情緒無法自拔，渴望得到愛與救贖的故事。這首歌曲在『[街聲](../Page/街聲.md "wikilink")』上獲得相當好的成績，快速突破十萬次點閱並獲得搖滾類排行榜連續六週冠軍。趁著這股氣勢P\!SCO的九週年演唱會也開出票房紅盤，並且邀請到日本偶像團『[ぜんぶ君のせいだ。](https://zh.wikipedia.org/wiki/ぜんぶ君のせいだ。 "wikilink")』共演。
 
 ## 歷任成員
 
@@ -131,16 +135,20 @@ Bitch](https://zh.wikipedia.org/wiki/Who_the_Bitch "wikilink")』進行難得的
 •綽號別稱：娘娘、教主
 •球衣背號：5號
 •球衣姓名：CatLun
+•背號起源：出生的月份
 •擅長樂器：鋼琴、吉他、小提琴
 •參與樂團：筆醬、[四幸丸](https://zh.wikipedia.org/wiki/四幸丸 "wikilink")
 •興趣：貓奴
 •現職：錄音室助理
-\===吉他手Rachel ===
+
+### 吉他手Rachel
+
 現任團長，負責樂團的整體規劃、統籌執行、社群經營。在舞台上以馬尾、大動作而形象分明，現場演出時Talking的主要負責人，除樂團外也曾經參與舞台劇[陰道獨白與音樂劇](https://zh.wikipedia.org/wiki/陰道獨白 "wikilink")[搖滾芭比演出](https://zh.wikipedia.org/wiki/搖滾芭比 "wikilink")。另外Rachel也以[跨性別者的身分受到注目](https://zh.wikipedia.org/wiki/跨性別者 "wikilink")，並在樂團以自身的力道不遺餘力的推廣[彩虹驕傲](https://zh.wikipedia.org/wiki/彩虹驕傲 "wikilink")
 •生日：6月18號
 •綽號別稱：芮秋、秋秋
 •球衣背號：17號
 •球衣姓名：RACHEL
+•背號起源：喜歡的棒球選手[林岳平](../Page/林岳平.md "wikilink")
 •擅長樂器：吉他
 •興趣：棒球、料理
 •現職：雜誌出版社攝影師
@@ -150,17 +158,21 @@ Bitch](https://zh.wikipedia.org/wiki/Who_the_Bitch "wikilink")』進行難得的
 •綽號別稱：爪爪
 •球衣背號：13號
 •球衣姓名：OmOi
+•背號起源：幸運數字
 •擅長樂器：鋼琴、貝斯
 •參與樂團：[伊蕾莎](https://zh.wikipedia.org/wiki/伊蕾莎 "wikilink")、[海鮮套餐](https://zh.wikipedia.org/wiki/海鮮套餐 "wikilink")、[超展開](https://zh.wikipedia.org/wiki/超展開 "wikilink")
-•興趣：不明
+•興趣：看小說、看日綜
 •現職：網路媒體編輯
-\===鼓手朝量 ===
+
+### 鼓手朝量
+
 P\!SCO團員裡唯一的全職音樂人，除了教課以外也擔任演唱會樂手，如[周湯豪](../Page/周湯豪.md "wikilink")、[黃鴻升](https://zh.wikipedia.org/wiki/黃鴻升 "wikilink")、[葛仲珊](../Page/葛仲珊.md "wikilink")、[FIR阿沁等](https://zh.wikipedia.org/wiki/FIR阿沁 "wikilink")
 •本名：楊朝量
 •生日：11月12號
 •綽號別稱：朝量、量量、楊里長、章造(SYOUZOU)、三重鼓王、亮亮王子、木易楊
 •球衣背號：16號
 •球衣姓名：LIANG
+•背號起源：喜歡的棒球選手[陳偉殷](https://zh.wikipedia.org/wiki/陳偉殷 "wikilink")
 •擅長樂器：鼓
 •參與樂團：[Slimo黏菌](https://zh.wikipedia.org/wiki/Slimo黏菌 "wikilink")、[Yesido](https://zh.wikipedia.org/wiki/Yesido "wikilink")、[Undersoul](https://zh.wikipedia.org/wiki/Undersoul "wikilink")、[痞子旁分](https://zh.wikipedia.org/wiki/痞子旁分 "wikilink")
 •興趣：打電動
@@ -173,6 +185,7 @@ P\!SCO團員裡唯一的全職音樂人，除了教課以外也擔任演唱會�
 •生日：10月15號
 •綽號別稱：鼎鼎、鼎王、顏值擔當
 •球衣背號：88號
+•背號起源：想錢想瘋了
 •球衣姓名：DingDing
 •擅長樂器：鋼琴、吉他
 •興趣：貓奴
@@ -191,7 +204,11 @@ P\!SCO團員裡唯一的全職音樂人，除了教課以外也擔任演唱會�
 •每當唱這首歌的時候－2018年5月
 •清澈的湖水裡有魚－2018年5月
 •この歌を歌う度に－2018年6月
-\=== DVD === •P\!SCO-5-ReStart Live DVD
+•光圈－2019年4月
+
+### DVD
+
+•P\!SCO-5-ReStart Live DVD
 \=== 舞台劇 === •搖滾芭比 Hedwig and the Angry Inch－2013年
 
 ## 得獎紀錄

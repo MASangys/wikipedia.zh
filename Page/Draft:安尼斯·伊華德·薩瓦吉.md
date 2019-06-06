@@ -1,67 +1,39 @@
 **安尼斯·伊華德·薩瓦吉** (1906年2月21日 - 1964年) 是一個
 [奈及利亞的](../Page/奈及利亞.md "wikilink")[醫生](https://zh.wikipedia.org/wiki/Physician "wikilink")
 和第一個在[西非接受培訓並取得](../Page/西非.md "wikilink")[正統醫學](https://zh.wikipedia.org/wiki/正統醫學 "wikilink")
-資格的女性。\[1\]\[2\]\[3\]\[4\]\[5\] Savage was the first West African woman
-to receive a [university
-degree](https://zh.wikipedia.org/wiki/university_degree "wikilink") in
-[Medicine](https://zh.wikipedia.org/wiki/Medicine "wikilink"),
-graduating with first class honours from the University of Edinburgh in
-1929 at the age of 23.\[6\]\[7\] In 1933, [Sierra
-Leonean](https://zh.wikipedia.org/wiki/Sierra_Leone "wikilink")
-[political
-activist](https://zh.wikipedia.org/wiki/Political_Activist "wikilink")
-and [higher
-education](https://zh.wikipedia.org/wiki/higher_education "wikilink")
-pioneer, [Edna
-Elliot-Horton](https://zh.wikipedia.org/wiki/Edna_Elliott-Horton "wikilink")
-became the second West African woman university graduate and the first
-to earn a [bachelor's
-degree](https://zh.wikipedia.org/wiki/bachelor's_degree "wikilink") in
-the [liberal
-arts](https://zh.wikipedia.org/wiki/Liberal_arts_education "wikilink").\[8\]
+資格的女性。\[1\]\[2\]\[3\]\[4\]\[5\] 萨瓦吉是西非第一位获得
+[醫學大学学位的妇女](https://zh.wikipedia.org/wiki/醫學 "wikilink")，1929年23岁，以一等荣誉毕业于[愛丁堡大學](https://zh.wikipedia.org/wiki/愛丁堡大學 "wikilink")。
+\[6\]\[7\] 在1933年，[塞拉利昂是](../Page/塞拉利昂.md "wikilink")
+[政治活动家](https://zh.wikipedia.org/wiki/政治活动家 "wikilink") 和
+[高等教育先驱](../Page/高等教育.md "wikilink")，
+[埃德娜·艾略特·霍顿](https://zh.wikipedia.org/wiki/埃德娜·艾略特·霍顿 "wikilink")
+成为第二个西非女子大学毕业生，也是第一个获得[文科](https://zh.wikipedia.org/wiki/文科教育 "wikilink")
+[学士学位](https://zh.wikipedia.org/wiki/学士学位 "wikilink") 的人。 .\[8\]
 
-## Life
+## 生活
 
-### Early life and education
+### 早期生活和教育
 
-Savage was born on 21 February 1906 in
-[Edinburgh](https://zh.wikipedia.org/wiki/Edinburgh "wikilink"),
-[Scotland](https://zh.wikipedia.org/wiki/Scotland "wikilink"),\[9\] to
-[Richard Akinwande
-Savage](https://zh.wikipedia.org/wiki/Richard_Akinwande_Savage "wikilink")
-Sr, a [Nigerian](https://zh.wikipedia.org/wiki/Nigerian "wikilink")
-[medical
-doctor](https://zh.wikipedia.org/wiki/medical_doctor "wikilink"),
-newspaper publisher and a 1900 Edinburgh graduate of [Sierra Leone
-Creole
-descent](https://zh.wikipedia.org/wiki/Sierra_Leone_Creole "wikilink")
-and Maggie S. Bowie, a
-[working-class](https://zh.wikipedia.org/wiki/working-class "wikilink")
-[Scotswoman](https://zh.wikipedia.org/wiki/Scotswoman "wikilink").\[10\]
-Her brother was [Richard Gabriel Akinwande
-Savage](https://zh.wikipedia.org/wiki/Richard_Gabriel_Akinwande_Savage "wikilink"),
-also a doctor who graduated from Edinburgh in 1926.\[11\] Savage passed
-exams to the [Royal College of
-Music](https://zh.wikipedia.org/wiki/Royal_College_of_Music "wikilink")
-in 1919 and was given a scholarship to study at [George Watson’s Ladies
-College](https://zh.wikipedia.org/wiki/George_Watson's_College "wikilink").\[12\]
-There, she received an award for General Proficiency in Class Work and
-passed the Scottish Higher Education Leaving
-Certificate.\[13\]\[14\]\[15\]
+薩瓦吉於1906年2月21日出生於 [蘇格蘭](../Page/蘇格蘭.md "wikilink")
+[愛丁堡](https://zh.wikipedia.org/wiki/愛丁堡 "wikilink")，\[9\] 她的父親
+[理查德·阿金万德·薩瓦吉](https://zh.wikipedia.org/wiki/理查德·阿金万德·薩瓦吉 "wikilink")
+先生，是一位[塞拉利昂裔的](../Page/塞拉利昂.md "wikilink")
+[尼日利亚](https://zh.wikipedia.org/wiki/尼日利亚 "wikilink")
+[醫學博士](https://zh.wikipedia.org/wiki/醫學博士 "wikilink")、報紙出版商，1900年於愛丁堡大學畢業。她的母親玛姬鲍伊是一位[工人階級](https://zh.wikipedia.org/wiki/工人階級 "wikilink")
+的 [蘇格蘭女性](https://zh.wikipedia.org/wiki/蘇格蘭女性 "wikilink").\[10\] 她的哥哥
+[理查德·加布里埃尔·阿金万德·萨瓦吉](https://zh.wikipedia.org/wiki/理查德·加布里埃尔·阿金万德·萨瓦吉 "wikilink")
+也是個醫生，並且於1926年畢業於愛丁堡。\[11\] 薩瓦吉於1919年通過了
+[皇家音乐学院的考試](https://zh.wikipedia.org/wiki/皇家音乐学院 "wikilink")
+，並獲得獎學金使她能在[乔治·沃森女子学院學習](https://zh.wikipedia.org/wiki/乔治·沃森女子学院 "wikilink")，\[12\]
+并通过了苏格兰高等教育毕业证书。\[13\]\[14\]\[15\]
 
-She entered [Edinburgh
-University](https://zh.wikipedia.org/wiki/Edinburgh_University "wikilink")
-to study medicine, excelled in her studies. In her fourth year of
-medical school, she obtained first class honours in all subjects, won a
-prize in *‘Diseases of the Skin’* and a medal in Forensic Medicine -
-becoming the first woman in the history of Edinburgh to do so.\[16\] She
-was awarded the Dorothy Gilfillan Memorial Prize as the best woman
-graduate in 1929.\[17\]
+她進入[愛丁堡大學並且在此學習醫學](https://zh.wikipedia.org/wiki/愛丁堡大學 "wikilink")，她的成績非常優異。在醫學院的第四年，她獲得了所有學科的一等榮譽，還獲得了
+*‘皮膚病 ’*獎 和法醫學獎章，成为爱丁堡历史上第一位这样做的妇女。 \[16\]
+1929年，她被授予多萝西·吉尔菲兰纪念奖，成为最佳女毕业生。\[17\]
 
-### Medical career and legacy
+### 医疗事业与遗产
 
-Savage faced gender and racial institutional barriers in her
-career.\[18\] After graduation, she joined the colonial service in the
+萨瓦吉在职业生涯中面临性别和种族制度障碍。 \[18\] 畢業後，she joined the colonial service in the
 [Gold
 Coast](https://zh.wikipedia.org/wiki/Gold_Coast_\(British_colony\) "wikilink")
 (present-day Ghana) as a Junior Medical Officer. Though better qualified

@@ -1,0 +1,35 @@
+，出生于日本[岐阜县](../Page/岐阜县.md "wikilink")。是一位界面设计师，[Emoji发明者](../Page/繪文字.md "wikilink")\[1\]\[2\]\[3\]\[4\]。如今是[角川多玩国旗下](../Page/角川多玩国.md "wikilink")[株式会社多玩国的一员](../Page/多玩國.md "wikilink")。
+
+1998至1999年间，当时在手机公司[NTT
+DOCOMO](../Page/NTT_DOCOMO.md "wikilink")，为即将推出的[i-mode工作的栗田穰崇](https://zh.wikipedia.org/wiki/i-mode "wikilink")，使用12x12像素的网格设计了一套176个表情符号，这些表情最终引导了全球通过短信使用象形图像传达思想的趋势\[5\]\[6\]\[7\]。为了制作这些表情符号，栗田穰崇自日本漫画、汉字、街道标志等处获得了灵感\[8\]。
+
+纽约[現代藝術博物館将原版emoji表情纳入收藏](../Page/現代藝術博物館.md "wikilink")\[9\]\[10\]\[11\]。
+
+## 参考资料
+
+[Category:1972年出生](https://zh.wikipedia.org/wiki/Category:1972年出生 "wikilink")
+[Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
+[Category:界面设计师](https://zh.wikipedia.org/wiki/Category:界面设计师 "wikilink")
+[Category:日本藝術家](https://zh.wikipedia.org/wiki/Category:日本藝術家 "wikilink")
+[Category:岐阜縣出身人物](https://zh.wikipedia.org/wiki/Category:岐阜縣出身人物 "wikilink")
+
+1.
+
+2.
+3.
+
+4.
+
+5.
+
+6.
+
+7.
+
+8.
+
+9.
+
+10.
+
+11.

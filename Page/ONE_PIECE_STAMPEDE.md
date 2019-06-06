@@ -186,6 +186,30 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版系列的第](https://zh.wik
 <td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#戰國" title="wikilink">戰國</a></p></td>
 <td><p><a href="../Page/大川透.md" title="wikilink">大川透</a></p></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#巴斯提憂" title="wikilink">巴斯提憂</a></p></td>
+<td><p><a href="../Page/小山剛志.md" title="wikilink">小山剛志</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#布蘭紐" title="wikilink">布蘭紐</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/山田真一" title="wikilink">山田真一</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#飛鼠" title="wikilink">飛鼠</a></p></td>
+<td><p><a href="../Page/太田真一郎.md" title="wikilink">太田真一郎</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#梅納德" title="wikilink">梅納德</a></p></td>
+<td><p><a href="../Page/花田光.md" title="wikilink">花田光</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#鬥犬" title="wikilink">鬥犬</a></p></td>
+<td><p><a href="../Page/竹本英史.md" title="wikilink">竹本英史</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/海軍_(ONE_PIECE)#達爾梅西亞" title="wikilink">達爾梅西亞</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/服卷浩司" title="wikilink">服卷浩司</a></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -228,6 +252,18 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版系列的第](https://zh.wik
 <td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#哥爾·D·羅傑" title="wikilink">哥爾·D·羅傑</a></p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE海賊列表#席爾巴斯·雷利" title="wikilink">席爾巴斯·雷利</a></p></td>
+<td><p><a href="../Page/園部啟一.md" title="wikilink">園部啟一</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/ONE_PIECE角色列表#摩甘茲" title="wikilink">摩甘茲</a></p></td>
+<td><p><a href="../Page/加瀨康之.md" title="wikilink">加瀨康之</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="../Page/高木禮子.md" title="wikilink">高木禮子</a></p></td>
+</tr>
 </tbody>
 </table>
 
@@ -259,14 +295,38 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版系列的第](https://zh.wik
     聲優：[山里亮太](../Page/山里亮太.md "wikilink")\[15\]（日本）
     海賊萬博會的解說員，左手右腳為義肢的中年男性。
 
+<!-- end list -->
+
+  - 其他來賓聲優
+
+<!-- end list -->
+
+  - [竹中直人](../Page/竹中直人.md "wikilink")\[16\]
+
+<!-- end list -->
+
+  - Fischer's海賊團（聲優：[Fischer's](https://zh.wikipedia.org/wiki/魚團 "wikilink")\[17\]）
+  - 女海兵（聲優：[栗子](https://zh.wikipedia.org/wiki/龍夢柔 "wikilink")\[18\]）
+
 ## 製作人員
 
   - 原作・監修：[尾田栄一郎](https://zh.wikipedia.org/wiki/尾田栄一郎 "wikilink")
   - 監督：[大塚隆史](../Page/大塚隆史.md "wikilink")
   - 劇本：冨岡淳廣・大塚隆史
-  - 人物設計・總作画監督：[佐藤雅將](../Page/佐藤雅將.md "wikilink")
-  - 美術設定：須江信人
+
+<!-- end list -->
+
+  - 音樂：田中公平
+  - 人物設計・總作畫監督：[佐藤雅將](../Page/佐藤雅將.md "wikilink")
   - 美術監督：岡本穂高
+  - 美術設定：須江信人
+  - 色彩設計：永井留美子
+
+<!-- end list -->
+
+  - CG指導：新井啓介
+  - 攝影監督：和田尚之
+  - 製作擔當：稲垣哲雄
   - 監製：小山弘起
 
 ## 參考資料
@@ -303,3 +363,8 @@ PIECE](../Page/ONE_PIECE.md "wikilink")》[劇場版系列的第](https://zh.wik
 14.
 
 15.
+16. [映画「ワンピース」追加キャストに竹中直人ら 登場キャラ＆声優は歴代最多に |
+    アニメ！アニメ！](https://animeanime.jp/article/2019/05/25/45694.html)、2019年5月25日閲覧。
+
+17.
+18.

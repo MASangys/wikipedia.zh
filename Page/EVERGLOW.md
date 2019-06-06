@@ -1,4 +1,4 @@
-**EVERGLOW**（名字風格：**∑V∑RδLOW**，；），是[樂華娛樂在](../Page/乐华娱乐.md "wikilink")2019年推出的六人女子團體。由五名韩国成员E:U、SIHYEON、MIA、ONDA、AISHA，以及一名中国成员YIREN组成。2019年3月18日，以首张单曲专辑《[ARRIVAL
+**EVERGLOW**（名字風格：**∑V∑RδLOW**，；），是[樂華娛樂在](../Page/乐华娱乐.md "wikilink")2019年推出的六人女子團體。由五名韩国成员E:U、SIHYEON、MIA、ONDA、AISHA，以及一名中國成员YIREN组成。2019年3月18日，以首张单曲专辑《[ARRIVAL
 OF EVERGLOW](../Page/ARRIVAL_OF_EVERGLOW.md "wikilink")》正式出道。\[1\]
 
 ## 團體資料
@@ -74,7 +74,7 @@ Bon Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》。\[9\]
 <ul>
 <li>發行日期 ：2019年3月18日</li>
 <li>語言：韓語</li>
-<li>專輯銷量：9,919+[10]</li>
+<li>專輯銷量：16,628+[10]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -125,6 +125,10 @@ Bon Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》。\[9\]
 | 2018年6月15日 - 8月31日 | 《[PRODUCE 48](../Page/PRODUCE_48.md "wikilink")》 | 施賢、怡人                                                       | 出道前  |           |
 
 ### 嘉賓出演
+
+| 日期         | 電視台                                                 | 節目名稱                                                                                                                            | 參與成員 | 備註 |
+| ---------- | --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ---- | -- |
+| 2019年5月21日 | [MTV](https://zh.wikipedia.org/wiki/MTV "wikilink") | 《[我愛偶像](https://zh.wikipedia.org/wiki/我愛偶像 "wikilink") [Idols of Asia](https://zh.wikipedia.org/wiki/Idols_of_Asia "wikilink")》 | 全員   |    |
 
 ## 演唱會及其他演出
 
@@ -204,7 +208,7 @@ Bon Chocolat)](https://www.youtube.com/watch?v=HvGql8HwOIM)》。\[9\]
 7.
 8.
 9.
-10. [2019年03月GAON專輯榜29位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=03&hitYear=2019&termGbn=month)
+10. [2019年04月GAON專輯榜33位](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2019&termGbn=month)
 11.
 12.
 13.

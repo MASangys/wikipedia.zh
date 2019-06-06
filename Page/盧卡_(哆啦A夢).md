@@ -1,5 +1,9 @@
 **盧卡**（，）。是藤子·F·不二雄動畫作品《[大雄的月球探測記](../Page/大雄的月球探測記.md "wikilink")》中的主人公\[1\]\[2\]
 
+## 人物
+
+月神兄弟。
+
 ## 参考来源
 
 [Category:虚构澳大利亞人](https://zh.wikipedia.org/wiki/Category:虚构澳大利亞人 "wikilink")

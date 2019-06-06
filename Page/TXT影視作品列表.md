@@ -12,11 +12,12 @@ TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、
 
 ## 官方頻道單元
 
-|         |                |                |          |        |       |
-| ------- | -------------- | -------------- | -------- | ------ | ----- |
-| 年份      | 日期             | 頻道             | 單元名稱     | 固定演出成員 | 備註    |
-| 2019年   | 3月4日－至今        | YouTube、V LIVE | 《T:TIME》 | 全員     | \[5\] |
-| 3月5日－至今 | YouTube、V LIVE | 《EPISODE》      | \[6\]    |        |       |
+|          |                |                |          |        |       |
+| -------- | -------------- | -------------- | -------- | ------ | ----- |
+| 年份       | 日期             | 頻道             | 單元名稱     | 固定演出成員 | 備註    |
+| 2019年    | 3月4日－至今        | YouTube、V LIVE | 《T:TIME》 | 全員     | \[5\] |
+| 3月5日－至今  | YouTube、V LIVE | 《EPISODE》      | \[6\]    |        |       |
+| 5月11日－至今 | YouTube        | 《++line》       | \[7\]    |        |       |
 
 ## 節目主持
 
@@ -109,7 +110,15 @@ TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、
 <td><p>3月26日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/阿里郎電視台" title="wikilink">阿里郎電視台</a></p></td>
 <td><p>《<a href="../Page/After_School_Club.md" title="wikilink">After School Club</a>》</p></td>
-<td><p>[7]</p></td>
+<td><p>[8]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月6日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/阿里郎電視台" title="wikilink">阿里郎電視台</a></p></td>
+<td><p>《<a href="../Page/韓國音樂流行榜.md" title="wikilink">Pops in Seoul</a>》</p></td>
+<td><p>[9]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -118,11 +127,11 @@ TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、
 
 ## 電台節目
 
-|       |                                                             |                                                  |                    |      |              |
-| ----- | ----------------------------------------------------------- | ------------------------------------------------ | ------------------ | ---- | ------------ |
-| 年份    | 播放日期                                                        | 電視台                                              | 節目名稱               | 參與成員 | 備註           |
-| 2019年 | 3月22日                                                       | KBS World Radio Arabic                           | 《STAR Interview》   | 全員   | 3月15日錄製\[8\] |
-| 3月29日 | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink") | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")》 | 3月26日錄製\[9\]\[10\] |      |              |
+|       |                                                             |                                                  |                     |      |               |
+| ----- | ----------------------------------------------------------- | ------------------------------------------------ | ------------------- | ---- | ------------- |
+| 年份    | 播放日期                                                        | 電視台                                              | 節目名稱                | 參與成員 | 備註            |
+| 2019年 | 3月22日                                                       | KBS World Radio Arabic                           | 《STAR Interview》    | 全員   | 3月15日錄製\[10\] |
+| 3月29日 | [MBC標準FM](https://zh.wikipedia.org/wiki/MBC標準FM "wikilink") | 《[IDOL RADIO](../Page/IDOL_RADIO.md "wikilink")》 | 3月26日錄製\[11\]\[12\] |      |               |
 
 ## 音樂錄影帶
 
@@ -141,24 +150,25 @@ TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、
 <td><p>2019年</p></td>
 <td><p>3月4日</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/The_Dream_Chapter:_STAR" title="wikilink">The Dream Chapter: STAR</a>》</p></td>
-<td><p>어느날 머리에서 뿔이 자랐다 (CROWN)[11]</p></td>
-<td><p>어느날 머리에서 뿔이 자랐다 (CROWN)[12]</p></td>
 <td><p>어느날 머리에서 뿔이 자랐다 (CROWN)[13]</p></td>
+<td><p>어느날 머리에서 뿔이 자랐다 (CROWN)[14]</p></td>
+<td><p>어느날 머리에서 뿔이 자랐다 (CROWN)[15]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3月17日</p></td>
 <td></td>
-<td><p>Blue Orangeade[14]</p></td>
+<td><p>Blue Orangeade[16]</p></td>
 <td></td>
-<td><p>Blue Orangeade[15]</p></td>
+<td><p>Blue Orangeade[17]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月25日</p></td>
-<td><p>Cat &amp; Dog[16]</p></td>
-<td><p>Cat &amp; Dog[17]</p></td>
+<td><p>Cat &amp; Dog[18]</p></td>
+<td><p>Cat &amp; Dog[19]<br />
+Cat &amp; Dog (Animal ver.)[20]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -167,7 +177,7 @@ TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、
 <tr class="odd">
 <td><p>5月3日</p></td>
 <td><p>《Cat &amp; Dog (English ver.)》</p></td>
-<td><p>Cat &amp; Dog (English ver.)[18]</p></td>
+<td><p>Cat &amp; Dog (English ver.)[21]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -197,211 +207,223 @@ TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、
 </tr>
 <tr class="odd">
 <td><p>1月10日</p></td>
-<td><p>Introduction Film - What do you do?[19]</p></td>
+<td><p>Introduction Film - What do you do?[22]</p></td>
 <td><p>YEONJUN</p></td>
 <td><p>DREAMING</p></td>
 </tr>
 <tr class="even">
 <td><p>1月13日</p></td>
-<td><p>Introduction Film - What do you do?[20]</p></td>
+<td><p>Introduction Film - What do you do?[23]</p></td>
 <td><p>SOOBIN</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1月15日</p></td>
-<td><p>Introduction Film - What do you do?[21]</p></td>
+<td><p>Introduction Film - What do you do?[24]</p></td>
 <td><p>HUENINGKAI</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1月17日</p></td>
-<td><p>Introduction Film - What do you do?[22]</p></td>
+<td><p>Introduction Film - What do you do?[25]</p></td>
 <td><p>TAEHYUN</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1月20日</p></td>
-<td><p>Introduction Film - What do you do?[23]</p></td>
+<td><p>Introduction Film - What do you do?[26]</p></td>
 <td><p>BEOMGYU</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1月23日</p></td>
-<td><p>Introduction Film - What do you do?[24]</p></td>
+<td><p>Introduction Film - What do you do?[27]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1月27日</p></td>
-<td><p>Questioning Film - What do you see?[25]</p></td>
+<td><p>Questioning Film - What do you see?[28]</p></td>
 <td><p>SOOBIN</p></td>
 <td><p>TOMORROW</p></td>
 </tr>
 <tr class="even">
 <td><p>1月28日</p></td>
-<td><p>Questioning Film - What do you see?[26]</p></td>
+<td><p>Questioning Film - What do you see?[29]</p></td>
 <td><p>HUENINGKAI</p></td>
 <td><p>SECRET</p></td>
 </tr>
 <tr class="odd">
 <td><p>1月29日</p></td>
-<td><p>Questioning Film - What do you see?[27]</p></td>
+<td><p>Questioning Film - What do you see?[30]</p></td>
 <td><p>BEOMGYU</p></td>
 <td><p>HOPE</p></td>
 </tr>
 <tr class="even">
 <td><p>1月30日</p></td>
-<td><p>Questioning Film - What do you see?[28]</p></td>
+<td><p>Questioning Film - What do you see?[31]</p></td>
 <td><p>YEONJUN</p></td>
 <td><p>PROMISE</p></td>
 </tr>
 <tr class="odd">
 <td><p>1月31日</p></td>
-<td><p>Questioning Film - What do you see?[29]</p></td>
+<td><p>Questioning Film - What do you see?[32]</p></td>
 <td><p>TAEHYUN</p></td>
 <td><p>CLUE</p></td>
 </tr>
 <tr class="even">
 <td><p>2月17日</p></td>
-<td><p>The Dream Chapter: STAR[30]</p></td>
+<td><p>The Dream Chapter: STAR[33]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Voice Teaser #01[31]</p></td>
+<td><p>Voice Teaser #01[34]</p></td>
 <td><p>TAEHYUN</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2月18日</p></td>
-<td><p>Voice Teaser #02[32]</p></td>
+<td><p>Voice Teaser #02[35]</p></td>
 <td><p>SOOBIN</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2月19日</p></td>
-<td><p>Voice Teaser #03[33]</p></td>
+<td><p>Voice Teaser #03[36]</p></td>
 <td><p>BEOMGYU</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2月20日</p></td>
-<td><p>Voice Teaser #04[34]</p></td>
+<td><p>Voice Teaser #04[37]</p></td>
 <td><p>YEONJUN</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2月21日</p></td>
-<td><p>Voice Teaser #05[35]</p></td>
+<td><p>Voice Teaser #05[38]</p></td>
 <td><p>HUENINGKAI</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2月25日</p></td>
-<td><p>Answer Reveal[36]</p></td>
+<td><p>Answer Reveal[39]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>어느날 머리에서 뿔이 자랐다 (CROWN) Official Teaser 1[37]</p></td>
+<td><p>어느날 머리에서 뿔이 자랐다 (CROWN) Official Teaser 1[40]</p></td>
 <td><p>CROWN</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2月26日</p></td>
-<td><p>어느날 머리에서 뿔이 자랐다 (CROWN) Official Teaser 2[38]</p></td>
+<td><p>어느날 머리에서 뿔이 자랐다 (CROWN) Official Teaser 2[41]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2月28日</p></td>
-<td><p>ALL ABOUT TOMORROW X TOGETHER![39]</p></td>
+<td><p>ALL ABOUT TOMORROW X TOGETHER![42]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>3月1日</p></td>
-<td><p>The Dream Chapter: STAR Preview[40]</p></td>
+<td><p>The Dream Chapter: STAR Preview[43]</p></td>
 <td><p>CROWN</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>3月15日</p></td>
-<td><p>어느날 머리에서 뿔이 자랐다 (CROWN) 接力舞蹈[41]</p></td>
+<td><p>어느날 머리에서 뿔이 자랐다 (CROWN) 接力舞蹈[44]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>3月19日</p></td>
-<td><p>ㅋㅋ DANCE (KK DANCE) Chapter 1[42]</p></td>
+<td><p>ㅋㅋ DANCE (KK DANCE) Chapter 1[45]</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>ㅋㅋ DANCE (KK DANCE) Chapter 2[43]</p></td>
+<td><p>ㅋㅋ DANCE (KK DANCE) Chapter 2[46]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月15日</p></td>
-<td><p>Sketching Film[44]</p></td>
+<td><p>Sketching Film[47]</p></td>
 <td><p>BEOMGYU</p></td>
 <td><p>rowspan="5"</p></td>
 </tr>
 <tr class="odd">
-<td><p>Sketching Film[45]</p></td>
+<td><p>Sketching Film[48]</p></td>
 <td><p>YEONJUN</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Sketching Film[46]</p></td>
+<td><p>Sketching Film[49]</p></td>
 <td><p>TAEHYUN</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>Sketching Film[47]</p></td>
+<td><p>Sketching Film[50]</p></td>
 <td><p>HUENINGKAI</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Sketching Film[48]</p></td>
+<td><p>Sketching Film[51]</p></td>
 <td><p>SOOBIN</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>4月22日</p></td>
-<td><p>Cat &amp; Dog Official Teaser (멍 version)[49]</p></td>
+<td><p>Cat &amp; Dog Official Teaser (멍 version)[52]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4月24日</p></td>
-<td><p>Cat &amp; Dog Official Teaser (냥 version)[50]</p></td>
+<td><p>Cat &amp; Dog Official Teaser (냥 version)[53]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5月1日</p></td>
-<td><p>Cat &amp; Dog Official Teaser (English ver.)[51]</p></td>
+<td><p>Cat &amp; Dog Official Teaser (English ver.)[54]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>5月2日</p></td>
-<td><p>M COUNTDOWN Theater with TOMORROW X TOGETHER[52]</p></td>
+<td><p>M COUNTDOWN Theater with TOMORROW X TOGETHER[55]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5月3日</p></td>
-<td><p>Cat &amp; Dog 接力舞蹈[53]</p></td>
+<td><p>Cat &amp; Dog 接力舞蹈[56]</p></td>
+<td><p>全員</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月4日</p></td>
+<td><p>Cat &amp; Dog High-end Choreography[57]</p></td>
+<td><p>全員</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月5日</p></td>
+<td><p>TOMORROW X TOGETHER Fan Event [Dance Challenge] [58]</p></td>
 <td><p>全員</p></td>
 <td></td>
 </tr>
@@ -410,13 +432,14 @@ TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、
 
 ## 音樂錄影帶瀏覽次數
 
-|                                  |            |                           |                                                  |                                                  |            |
-| -------------------------------- | ---------- | ------------------------- | ------------------------------------------------ | ------------------------------------------------ | ---------- |
-| 順序                               | 日期         | 歌曲名稱                      | 語言                                               | 官方影片                                             | 瀏覽次數       |
-| 1                                | 2019年3月4日  | '어느날 머리에서 뿔이 자랐다 (CROWN)' | 韓語                                               | [1](https://www.youtube.com/watch?v=W3iSnJ663II) | 65,148,123 |
-| 2                                | 2019年4月25日 | 'Cat & Dog'               | [2](https://www.youtube.com/watch?v=NaKrke1EL1A) | 12,888,479                                       |            |
-| 3                                | 2019年4月7日  | 'Blue Orangeade'          | [3](https://www.youtube.com/watch?v=LTz8NjNQp-s) | 3,467,264                                        |            |
-| <small>最後更新時間：2019年5月2日。</small> |            |                           |                                                  |                                                  |            |
+|                                  |            |                            |                                                  |                                                  |            |
+| -------------------------------- | ---------- | -------------------------- | ------------------------------------------------ | ------------------------------------------------ | ---------- |
+| 順序                               | 日期         | 歌曲名稱                       | 語言                                               | 官方影片                                             | 瀏覽次數       |
+| 1                                | 2019年3月4日  | '어느날 머리에서 뿔이 자랐다 (CROWN)'  | 韓語                                               | [1](https://www.youtube.com/watch?v=W3iSnJ663II) | 65,684,920 |
+| 2                                | 2019年4月25日 | 'Cat & Dog'                | [2](https://www.youtube.com/watch?v=NaKrke1EL1A) | 13,982,742                                       |            |
+| 3                                | 2019年5月3日  | 'Cat & Dog (English ver.)' | [3](https://www.youtube.com/watch?v=nvO17uPanBY) | 4,058,803                                        |            |
+| 4                                | 2019年4月7日  | 'Blue Orangeade'           | [4](https://www.youtube.com/watch?v=LTz8NjNQp-s) | 3,494,775                                        |            |
+| <small>最後更新時間：2019年5月4日。</small> |            |                            |                                                  |                                                  |            |
 
 ## 音樂節目
 
@@ -460,52 +483,58 @@ TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/Super_Concert" title="wikilink">SUPER CONCERT IN 光州</a></p></td>
+</tr>
+<tr class="even">
 <td><p>Blue Orangeade</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TOMORROW X TOGETHER Debut Celebration Show</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/THE_SHOW" title="wikilink">THE SHOW</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>별의 낮잠 (Nap of a star)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>TOMORROW X TOGETHER Debut Celebration Show</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Cat &amp; Dog</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/M!_Countdown" title="wikilink">M! Countdown</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/Music_Bank" title="wikilink">Music Bank</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Show!_音樂中心" title="wikilink">Show! 音樂中心</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/人氣歌謠" title="wikilink">人氣歌謠</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Show_Champion.md" title="wikilink">Show Champion</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/Super_Concert" title="wikilink">SUPER CONCERT IN 光州</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -570,3 +599,8 @@ TOGETHER歷年參與之音樂錄影帶](../Page/TXT_\(組合\).md "wikilink")、
 51.
 52.
 53.
+54.
+55.
+56.
+57.
+58.

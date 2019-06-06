@@ -72,7 +72,7 @@ Pulle表示政府将把同性性行为合法化。\[9\]
 
 ## 外部链接
 
-  - [斯里兰卡同性恋社区论坛](http://www.getreal.fullboards.com)
+  - [斯里兰卡同性恋社区论坛](https://web.archive.org/web/20180717180557/http://getreal.fullboards.com/)
   - [Equal Ground](http://www.equal-ground.org)
   - [SodomyLaws: Sri
     Lanka](http://www.glapn.org/sodomylaws/world/sri_lanka/sri_lanka.htm)

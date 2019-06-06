@@ -14,10 +14,10 @@ Mili当前由以下六名成员组成：\[4\]
 
   - momocashew——主唱，主要作词者。為加拿大籍華裔，生于北京，現居日本\[5\]。
   - Yamato Kasai 或称HAMO（）——主要作曲家，主要编曲，作词者，吉他手
-  - Yukihito Mitomo（）——贝斯手。葛西的故友，於2013年底加入Mili
-  - Shoto Yoshida（）——鼓手。葛西的故友，於2013年底加入Mili
-  - Ame Yamaguchi（）——造型师，设计师，美术指导。於2014年4月加入Mili
-  - Ao Fujimori（）——插画家，动画师
+  - Yukihito Mitomo（）——贝斯手。葛西的故友，於2013年12月加入Mili\[6\]
+  - Shoto Yoshida（）——鼓手。葛西的故友，於2013年12月加入Mili\[7\]
+  - Ame Yamaguchi（）——造型师，设计师，美术指导。於2014年5月加入Mili
+  - Ao Fujimori（）——插画家，动画师，于2014年9月加入Mili\[8\]
 
 ## 历史
 
@@ -28,7 +28,7 @@ Mili当前由以下六名成员组成：\[4\]
   - 8月：由momocashew及葛西大和二人成立
   - 10月28日：首次投稿于《Sound On Our Palms -TENORI-ON Compilation-》
   - 11月：为音乐游戏[Cytus提供歌曲](https://zh.wikipedia.org/wiki/Cytus "wikilink")
-  - 12月：创作音乐视频《解体と造形 - KAITAI TO ZOKEI》\[6\]
+  - 12月：创作音乐视频《解体と造形 - KAITAI TO ZOKEI》\[9\]
 
 <!-- end list -->
 
@@ -36,16 +36,16 @@ Mili当前由以下六名成员组成：\[4\]
 
 <!-- end list -->
 
-  - 9月2日：为[理光的商业宣传片提供背景音乐](../Page/理光.md "wikilink")\[7\]
+  - 9月2日：为[理光的商业宣传片提供背景音乐](../Page/理光.md "wikilink")\[10\]
   - 9月17日：为Yamayuri（山ゆり）提供歌曲
-  - 9月17日：为《A lighthouse and a lilium auratum》\[8\]和《A flower
-    sings》\[9\]创作音效
+  - 9月17日：为《A lighthouse and a lilium auratum》\[11\]和《A flower
+    sings》\[12\]创作音效
   - 9月21日：参与作曲的[视觉小说游戏](../Page/视觉小说.md "wikilink")《MuNiCa - Cry of
     Pluto》被送到2013年[东京电玩展参展](../Page/东京电玩展.md "wikilink")
   - 11月13日：为音乐游戏[Deemo提供歌曲](../Page/Deemo.md "wikilink")
   - 11月30日：为Sakevisual开发制作的乙女向游戏《Backstage Pass》提供歌曲
   - 12月13日：为[有声漫画](https://zh.wikipedia.org/wiki/有声漫画 "wikilink")《ごめんね -
-    Gomenne》创作歌曲\[10\]
+    Gomenne》创作歌曲\[13\]
 
 <!-- end list -->
 
@@ -54,13 +54,13 @@ Mili当前由以下六名成员组成：\[4\]
 <!-- end list -->
 
   - 1月8日：乐队注册于ARTISTCROWD
-  - 3月8日：为游戏《夜狐八重奏+》提供歌曲\[11\]
-  - 6月：为[TOTO的商业宣传片提供背景音乐](../Page/TOTO.md "wikilink")\[12\]
+  - 3月8日：为游戏《夜狐八重奏+》提供歌曲\[14\]
+  - 6月：为[TOTO的商业宣传片提供背景音乐](../Page/TOTO.md "wikilink")\[15\]
   - 6月26日：为[富士急行的游乐园](../Page/富士急行.md "wikilink")——麗莎與卡斯柏小鎮（La ville de
-    Gaspard et Lisa）中的[光雕投影提供歌曲](../Page/光雕投影.md "wikilink")\[13\]
-  - 9月17日：第一张专辑《Mag Mell》开始发售\[14\]
+    Gaspard et Lisa）中的[光雕投影提供歌曲](../Page/光雕投影.md "wikilink")\[16\]
+  - 9月17日：第一张专辑《Mag Mell》开始发售\[17\]
   - 11月5日：参与创作Ferri的第二张专辑《∞》中的两首歌曲——《Rusty Chandelier》和《Eternal
-    Return》\[15\]
+    Return》\[18\]
 
 <!-- end list -->
 
@@ -68,10 +68,10 @@ Mili当前由以下六名成员组成：\[4\]
 
 <!-- end list -->
 
-  - 1月：为的商业宣传片《Branding Movie》提供背景音乐\[16\]
-  - 1月28日：与乐队H△G共同创作的专辑《H△G × Mili》开始发售\[17\]
+  - 1月：为的商业宣传片《Branding Movie》提供背景音乐\[19\]
+  - 1月28日：与乐队H△G共同创作的专辑《H△G × Mili》开始发售\[20\]
   - 3月25日：参与创作DAOKO的第一张专辑《DAOKO》中的《ないものねだり》一曲
-  - 为的[花泽香菜签名版AK](https://zh.wikipedia.org/wiki/花泽香菜 "wikilink")100II[数字音频播放器创作歌曲](https://zh.wikipedia.org/wiki/数字音频播放器 "wikilink")《辿り着く場所》\[18\]
+  - 为的[花泽香菜签名版AK](https://zh.wikipedia.org/wiki/花泽香菜 "wikilink")100II[数字音频播放器创作歌曲](https://zh.wikipedia.org/wiki/数字音频播放器 "wikilink")《辿り着く場所》\[21\]
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@ Mili当前由以下六名成员组成：\[4\]
 <!-- end list -->
 
   - 10月：为动画《[时空使徒](../Page/时空使徒.md "wikilink")》创作主题曲《与我共鳴-NENTEN-》
-  - 10月12日：第二张专辑《Miracle Milk》开始发售\[19\]
+  - 10月12日：第二张专辑《Miracle Milk》开始发售\[22\]
   - 11月5日-12日：举办巡回演唱
 
 <!-- end list -->
@@ -89,15 +89,15 @@ Mili当前由以下六名成员组成：\[4\]
 
 <!-- end list -->
 
-  - 5月24日：第一张迷你专辑《Hue》开始发售\[20\]
-  - 5月27日、6月11日、6月24日：举办迷你演唱会\[21\]
+  - 5月24日：第一张迷你专辑《Hue》开始发售\[23\]
+  - 5月27日、6月11日、6月24日：举办迷你演唱会\[24\]
   - 8月20日：出演[Summer Sonic 2017](../Page/SUMMER_SONIC.md "wikilink")
-  - 8月26日：出演《NO FEAR FESTIVAL 2017》\[22\]
-  - 8月30日：为音乐游戏[Deemo提供歌曲](../Page/Deemo.md "wikilink")\[23\]
+  - 8月26日：出演《NO FEAR FESTIVAL 2017》\[25\]
+  - 8月30日：为音乐游戏[Deemo提供歌曲](../Page/Deemo.md "wikilink")\[26\]
   - 9月30日、10月1日、10月9日、11月11日：庆祝乐团成立5周年，举行巡回演唱“Mag Milk All
-    Songs”，同時為Mili第一次的海外單獨演唱會\[24\]
+    Songs”，同時為Mili第一次的海外單獨演唱會\[27\]
   - 11月22日：参加演唱会"MUSIC CONFERENCE vol.2 ～CAM HALL 30th
-    anniversary～"\[25\]
+    anniversary～"\[28\]
 
 <!-- end list -->
 
@@ -105,12 +105,12 @@ Mili当前由以下六名成员组成：\[4\]
 
 <!-- end list -->
 
-  - 4月25日：第三张专辑《Millennium Mother》开始发售\[26\]
+  - 4月25日：第三张专辑《Millennium Mother》开始发售\[29\]
   - 5月19日、5月20日、6月9日、6月15日、11月8日、11月10日、11月11日：举行巡回演唱“Mommy, Where's My
-    Left Hand Again?”\[27\]\[28\]
-  - 10月12日：为动画《[哥布林杀手](https://zh.wikipedia.org/wiki/哥布林杀手 "wikilink")》创作主题曲“Rightfully”\[29\]\[30\]
+    Left Hand Again?”\[30\]\[31\]
+  - 10月12日：为动画《[哥布林杀手](https://zh.wikipedia.org/wiki/哥布林杀手 "wikilink")》创作主题曲“Rightfully”\[32\]\[33\]
   - 10月：為動畫《梅露可物語》創作主題曲“オリジン”及片尾曲“Bottleship”，並為動畫提供配樂
-  - 11月30日-12月2日：出演[新加坡漫展C](../Page/新加坡.md "wikilink")3 AFA 2018\[31\]
+  - 11月30日-12月2日：出演[新加坡漫展C](../Page/新加坡.md "wikilink")3 AFA 2018\[34\]
 
 <!-- end list -->
 
@@ -118,11 +118,11 @@ Mili当前由以下六名成员组成：\[4\]
 
 <!-- end list -->
 
-  - 2月3日：举办演唱会“Mother Ship Gi6pon”\[32\]
+  - 2月3日：举办演唱会“Mother Ship Gi6pon”\[35\]
 
 ## 发行乐曲
 
-来源：\[33\]
+来源：\[36\]
 
 ### 单曲
 
@@ -132,7 +132,7 @@ Mili当前由以下六名成员组成：\[4\]
 <th><p>发售日期</p></th>
 <th><p>标题</p></th>
 <th><p>版权号</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon最高排名</a>[34]</p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon最高排名</a>[37]</p></th>
 <th><p>官方网站</p></th>
 </tr>
 </thead>
@@ -142,7 +142,7 @@ Mili当前由以下六名成员组成：\[4\]
 <td><p>Rightfully</p></td>
 <td><p>SNCL-00020~00021（特别版）<br />
 SNCL-00022~00023（限定版）</p></td>
-<td></td>
+<td><p>7</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -176,7 +176,7 @@ SNCL-00022~00023（限定版）</p></td>
 <th><p>发售日期</p></th>
 <th><p>标题</p></th>
 <th><p>版权号</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon最高排名</a>[35]</p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon最高排名</a>[38]</p></th>
 <th><p>官方网站</p></th>
 </tr>
 </thead>
@@ -311,7 +311,7 @@ SNCL-00018(通常版)</p></td>
 <th><p>发售日期</p></th>
 <th><p>标题</p></th>
 <th><p>版权号</p></th>
-<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon最高排名</a>[36]</p></th>
+<th><p><a href="../Page/Oricon.md" title="wikilink">Oricon最高排名</a>[39]</p></th>
 <th><p>官方网站</p></th>
 </tr>
 </thead>
@@ -421,7 +421,6 @@ SNCL-00018(通常版)</p></td>
 6.
 
 7.
-
 8.
 
 9.
@@ -435,38 +434,44 @@ SNCL-00018(通常版)</p></td>
 13.
 
 14.
+
 15.
 
 16.
 
 17.
-
 18.
 
 19.
+
 20.
+
 21.
 
 22.
 23.
-
 24.
 
 25.
 26.
+
 27.
 
 28.
 29.
-
 30.
-31.
 
+31.
 32.
 
 33.
-
 34.
 
 35.
+
 36.
+
+37.
+
+38.
+39.

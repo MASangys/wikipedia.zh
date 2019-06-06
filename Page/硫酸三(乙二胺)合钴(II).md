@@ -15,6 +15,7 @@
 [Category:硫酸盐](https://zh.wikipedia.org/wiki/Category:硫酸盐 "wikilink")
 
 [Category:钴配合物](https://zh.wikipedia.org/wiki/Category:钴配合物 "wikilink")
+[Category:二价钴化合物](https://zh.wikipedia.org/wiki/Category:二价钴化合物 "wikilink")
 
 1.  Tripath I.P., Mishra Mahendra Kumar, Tripathi Ruchita, et al.
     Synthesis, Spectral, Electrochemical analysis and Screening for

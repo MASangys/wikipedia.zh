@@ -124,10 +124,11 @@ Culture](https://zh.wikipedia.org/wiki/Banana_Culture "wikilink")）旗下男團
 
 ### 其他大型公演
 
-| 演出日期      | 演出名稱             | 地點 | 備註 |
-| --------- | ---------------- | -- | -- |
-| 2019年3月5日 | KBS Open Concert |    |    |
-|           |                  |    |    |
+| 演出日期       | 演出名稱               | 地點       | 備註 |
+| ---------- | ------------------ | -------- | -- |
+| 2019年3月5日  | KBS Open Concert   |          |    |
+| 2019年5月26日 | HallyuPopFest 2019 | 新加坡室內體育館 |    |
+|            |                    |          |    |
 
 ## 獎項與榮譽
 
@@ -204,8 +205,6 @@ Culture](https://zh.wikipedia.org/wiki/Banana_Culture "wikilink")）旗下男團
   -
 **TREI成員**
 
-  -
-  -
   -
   -
   -

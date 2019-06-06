@@ -3,11 +3,7 @@ Microsystems为](https://zh.wikipedia.org/wiki/Sun_Microsystems "wikilink")[Java
 
 <div>
 
-<https://web.archive.org/web/20170613233020/http://agile.csc.ncsu.edu/SEMaterials/tutorials/javadoc/>
-
-</div>
-
-</ref>
+<https://web.archive.org/web/20170613233020/http://agile.csc.ncsu.edu/SEMaterials/tutorials/javadoc/%3C/div>\></ref>
 
 Javadoc使用的“doc comments”格式\[2\]
 是记录Java类的事实上的行业标准。一些[IDE](../Page/集成开发环境.md "wikilink")，\[3\]如[IntelliJ

@@ -29,7 +29,7 @@ RZA以製作[靈魂樂及稀疏節拍風格的音樂而聞名](../Page/靈魂樂
 2.  [The Rap Beat Creator: Make Your Own Beats\!\!\!: The Source
     Magazine Picks 20 Greatest
     Producers](http://createrapbeats.blogspot.com/2008/08/source-magazine-picks-20-greatest.html).
-    Createrapbeats.blogspot.com (20018-08-24). Retrieved on 2013-04-17.
+    Createrapbeats.blogspot.com (2018-08-24). Retrieved on 2013-04-17.
 3.  [Dr. Dre Is VIBE's Greatest Producer Of All Time, Speaks On
     Win](http://www.vibe.com/article/dr-dre-vibes-greatest-producer-all-time-speaks-win).
     Vibe (2010-06-01). Retrieved on 2013-04-17.

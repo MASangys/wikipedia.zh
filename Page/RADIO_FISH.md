@@ -1,6 +1,6 @@
 **RADIO
 FISH**（）是[日本搞笑組合的](../Page/日本.md "wikilink")[東方收音機在中心结成了的](../Page/東方收音機.md "wikilink")[歌舞](https://zh.wikipedia.org/wiki/歌舞 "wikilink")[演唱組合](../Page/男子音乐组合.md "wikilink")，所屬經紀公司為[YOSHIMOTO
-MUSIC ENTERTAINMENT](../Page/YOSHIMOTO_R_and_C.md "wikilink")。
+MUSIC](../Page/YOSHIMOTO_R_and_C.md "wikilink")。
 
 ## 略歴
 

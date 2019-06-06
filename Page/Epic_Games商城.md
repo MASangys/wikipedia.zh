@@ -3,7 +3,7 @@ Games在](../Page/Epic_Games.md "wikilink")2018年12月推出的[數位遊戲發
 Windows與](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")[MacOS](../Page/MacOS.md "wikilink")。用戶可在商城中購買Epic
 Games或其他廠商的遊戲，並透過Epic Games客戶端下載遊戲。
 
-## 簡介
+## 功能特色
 
 該商城可以透過[網頁瀏覽器或Epic](https://zh.wikipedia.org/wiki/網頁瀏覽器 "wikilink")
 Games客戶端來使用。目前除了提供遊戲販售與遊玩之外，暫時沒有其他附加功能（諸如[遊戲成就](https://zh.wikipedia.org/wiki/成就_\(電子遊戲\) "wikilink")、[討論區](https://zh.wikipedia.org/wiki/討論區 "wikilink")、遊戲評價...等等）。\[1\]從2019年1月開始，商店也提供區域定價與退費機制。\[2\]未來商店也計畫提供玩家評價系統，但遊戲開發者可以自行選擇是否要啟用這項功能，以免發生被誤用的情況（例如「[評論轟炸](../Page/評論轟炸.md "wikilink")」）。\[3\][雲端存檔](https://zh.wikipedia.org/wiki/雲端儲存 "wikilink")、成就、[遊戲-{模組}-等功能預計在](../Page/遊戲模組.md "wikilink")2019年內推出，此外也計畫推出不同於「傳統留言版」的社交機制。不過Epic
@@ -20,8 +20,8 @@ Games會額外提供5%的補助。Epic Games認為該計畫有助於開發者推
 
 從2018年12月14日開始，每隔兩週會提供一款商城中的遊戲讓玩家限時免費領取，第一款限時免費遊戲是《[深海迷航](../Page/深海迷航.md "wikilink")》(Subnautica)。\[8\]
 
-目前Epic
-games商城对中国大陆锁区，如果使用中国大陆的[VISA信用卡](https://zh.wikipedia.org/wiki/VISA "wikilink")、[paypal支付可能会导致封号](https://zh.wikipedia.org/wiki/paypal "wikilink")。\[9\]
+Epic
+games商城创建伊始对中国大陆锁区，当时如果使用中国大陆的[VISA信用卡](https://zh.wikipedia.org/wiki/VISA "wikilink")、[paypal支付可能会导致封号](https://zh.wikipedia.org/wiki/paypal "wikilink")。\[9\]后在2019年5月14日解除对中国大陆的锁区（《[暴雨](https://zh.wikipedia.org/wiki/暴雨_\(游戏\) "wikilink")》、《[超凡双生](https://zh.wikipedia.org/wiki/超凡双生 "wikilink")》和《[底特律：变人](https://zh.wikipedia.org/wiki/底特律：变人 "wikilink")》仍未解除锁区），并同时支持[支付宝与](../Page/支付宝.md "wikilink")[微信支付](../Page/微信支付.md "wikilink")。\[10\]，后又追加对[银联的支持](https://zh.wikipedia.org/wiki/银联 "wikilink")。
 
 ## 發展歷程
 
@@ -30,44 +30,44 @@ games商城对中国大陆锁区，如果使用中国大陆的[VISA信用卡](ht
 Games商城出現以前，PC遊戲的[數位發行管道以](https://zh.wikipedia.org/wiki/數位發行 "wikilink")[Valve公司的](https://zh.wikipedia.org/wiki/Valve "wikilink")[Steam平台為主流](../Page/Steam.md "wikilink")，其他諸如[Origin](https://zh.wikipedia.org/wiki/Origin_\(電子遊戲平台\) "wikilink")、[Uplay](../Page/Uplay.md "wikilink")、[GOG等平台皆未達到競爭優勢](../Page/GOG.com.md "wikilink")。Valve對於在Steam上架的遊戲一律收取30%的抽成，同時[App
 Store](../Page/App_Store_\(iOS\).md "wikilink")、[PlayStation
 Store等其他數位平台的抽成比例大多也是如此](../Page/PlayStation_Store.md "wikilink")。2017年8月，Epic
-Games創始人表示30%的抽成已不再合適，他認為即使Valve把抽成降低到8%仍舊能獲取利潤。\[10\]
+Games創始人表示30%的抽成已不再合適，他認為即使Valve把抽成降低到8%仍舊能獲取利潤。\[11\]
 
 2018年12月月初，Epic
 Games宣布即將推出自家的數位商店以挑戰Steam平台。為了對抗Steam平台，首先針對Valve的30%抽成，Epic
-Games表示將提供更低的12%抽成。\[11\]另外對於使用[虛幻引擎製作的遊戲再提供額外](https://zh.wikipedia.org/wiki/虛幻引擎 "wikilink")5%的抽成減免。經過計算之後，Epic
-Games認為降低抽成仍足以讓他們盈利。此外Epic也提到他們不會強迫上架的遊戲添加[DRM](https://zh.wikipedia.org/wiki/DRM "wikilink")（數位版權管理）。\[12\]
+Games表示將提供更低的12%抽成。\[12\]另外對於使用[虛幻引擎製作的遊戲再提供額外](https://zh.wikipedia.org/wiki/虛幻引擎 "wikilink")5%的抽成減免。經過計算之後，Epic
+Games認為降低抽成仍足以讓他們盈利。此外Epic也提到他們不會強迫上架的遊戲添加[DRM](https://zh.wikipedia.org/wiki/DRM "wikilink")（數位版權管理）。\[13\]
 
 2018年12月6日，在[遊戲大獎的頒獎典禮期間正式推出Epic](https://zh.wikipedia.org/wiki/遊戲大獎 "wikilink")
-Games商城，同時宣布有數款獨立遊戲在商城上架。\[13\]\[14\]按照規劃，初期商店在[Windows與](https://zh.wikipedia.org/wiki/Windows "wikilink")[MacOS平台推出](../Page/MacOS.md "wikilink")，未來將拓展到[Android與其他平台](../Page/Android.md "wikilink")。在Android上的目標是透過自家商店來銷售產品，不再需要透過[Google
+Games商城，同時宣布有數款獨立遊戲在商城上架。\[14\]\[15\]按照規劃，初期商店在[Windows與](https://zh.wikipedia.org/wiki/Windows "wikilink")[MacOS平台推出](../Page/MacOS.md "wikilink")，未來將拓展到[Android與其他平台](../Page/Android.md "wikilink")。在Android上的目標是透過自家商店來銷售產品，不再需要透過[Google
 Play而被額外抽成](../Page/Google_Play.md "wikilink")。相對於普遍的30%抽成，Epic
 Games商城的12%抽成優勢也有可能讓Google
 Play感到壓力。另一方面，由於[蘋果公司在](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[iOS平台擁有壟斷地位](https://zh.wikipedia.org/wiki/iOS "wikilink")，目前Epic
-Games暫時沒有機會在iOS上與其抗衡。\[15\]
+Games暫時沒有機會在iOS上與其抗衡。\[16\]
 
 早在商城推出之前，其發行策略總監Sergey Galyonkin於2015年建立了[Steam
 Spy網站](../Page/Steam_Spy.md "wikilink")，該網站專門透過Steam使用者的公開個人檔案來收集與統計Steam遊戲的銷售數據。當初他只是將這網站當作次要的經營目標，但這些Steam銷售的分析經驗確實帶給他不少幫助，往後在建構Epic
-Games商城時便能採用更益於銷售的策略。\[16\]此外，Epic
-games旗下遊戲《[堡垒之夜](https://zh.wikipedia.org/wiki/堡垒之夜 "wikilink")》的成功也是商城推出的助力之一。\[17\]
+Games商城時便能採用更益於銷售的策略。\[17\]此外，Epic
+games旗下遊戲《[堡垒之夜](https://zh.wikipedia.org/wiki/堡垒之夜 "wikilink")》的成功也是商城推出的助力之一。\[18\]
 
 ## 反響
 
 在Epic
-Games商城對外公布的前幾天，2018年12月1日，Valve宣布以往Steam平台的30%抽成政策將會進行調整，如果一款遊戲在Steam上的銷售額超過金則抽成會調降到25%、如果超過則會調降到20%。\[18\]這消息引發不少玩家與遊戲開發者的議論，有些獨立開發者擔心Valve此舉是為了挽留[3A遊戲開發者與發行商](https://zh.wikipedia.org/wiki/3A遊戲 "wikilink")，而非考量到小型遊戲的開發者。\[19\]
+Games商城對外公布的前幾天，2018年12月1日，Valve宣布以往Steam平台的30%抽成政策將會進行調整，如果一款遊戲在Steam上的銷售額超過金則抽成會調降到25%、如果超過則會調降到20%。\[19\]這消息引發不少玩家與遊戲開發者的議論，有些獨立開發者擔心Valve此舉是為了挽留[3A遊戲開發者與發行商](https://zh.wikipedia.org/wiki/3A遊戲 "wikilink")，而非考量到小型遊戲的開發者。\[20\]
 
 在Epic
-Games商城公布之後，有些媒體認為該新興平台的政策將會對Steam造成一定衝擊，同時透露出近年來遊戲開發商與Steam之間發生的關係變化。\[20\]\[21\]此外，一些獨立開發者宣布將未發售的新作或已發售的作品轉移到Epic
+Games商城公布之後，有些媒體認為該新興平台的政策將會對Steam造成一定衝擊，同時透露出近年來遊戲開發商與Steam之間發生的關係變化。\[21\]\[22\]此外，一些獨立開發者宣布將未發售的新作或已發售的作品轉移到Epic
 Games商城上獨佔發售、或是限時獨佔後才會到其他平台上架，有些遊戲原本在Steam有上架但在轉移到Epic
-Games商城後便從Steam下架。\[22\]\[23\]
+Games商城後便從Steam下架。\[23\]\[24\]
 
 2019年1月9日，[育碧宣布旗下的](../Page/育碧.md "wikilink")《[湯姆克蘭西：全境-{}-封鎖2](../Page/湯姆克蘭西：全境封鎖2.md "wikilink")》將會透過Epic
 Games商城進行販售（以及自家的Uplay），並且不會在Steam平台發售，未來也計畫在Epic
 Games商城推出更多自家遊戲。這是首次有第三方大廠加入Epic
-Games商城的行列。\[24\]
+Games商城的行列。\[25\]
 
 2019年1月29日，發行商[Deep
 Silver宣布原定要在Steam上發售的](../Page/Deep_Silver.md "wikilink")《[戰慄深隧：流亡](../Page/戰慄深隧：流亡.md "wikilink")》將改在Epic
 Games商城獨佔發售，獨佔滿一年後才會在Steam與其他PC數位平台發售。在Epic
-Games商城上的定價（美國區）將會比其他數位平台減少10美金。\[25\]
+Games商城上的定價（美國區）將會比其他數位平台減少10美金。\[26\]
 
 ## 争议
 
@@ -75,7 +75,7 @@ Games商城上的定價（美國區）將會比其他數位平台減少10美金�
 Store被用户发现会收集[Steam的用户信息](../Page/Steam.md "wikilink")，其中包括用户的好友列表、游戏时间、游戏云存档，这些文件被Steam封装在localconfig.vdf文件内，之后会被Epic
 Games读取并加密保存到Epic Games文件夹。Epic技术副总裁Daniel
 Vogel对此回应称，该文件仅在用户允许导入Steam好友时，才会发送至Epic，对此解释，有网友测试发现，在同步Steam好友时，该文件根本没有被访问；至于游戏云存档，Daniel
-Vogel尚未做出解释。\[26\]而在[一般資料保護規範](https://zh.wikipedia.org/wiki/一般資料保護規範 "wikilink")（GDPR）实行后，Steam已经默认将用户的好友列表、游戏时间设置为私密（仅好友）了，这意味着，除非动用本地文件或者向Valve申请授权的API，否则这些信息第三方都是无法获取的。\[27\]
+Vogel尚未做出解释。\[27\]而在[一般資料保護規範](https://zh.wikipedia.org/wiki/一般資料保護規範 "wikilink")（GDPR）实行后，Steam已经默认将用户的好友列表、游戏时间设置为私密（仅好友）了，这意味着，除非动用本地文件或者向Valve申请授权的API，否则这些信息第三方都是无法获取的。\[28\]
 
 ## 參考資料
 
@@ -110,8 +110,8 @@ Vogel尚未做出解释。\[26\]而在[一般資料保護規範](https://zh.wiki
 11.
 
 12.
-13.
 
+13.
 14.
 
 15.
@@ -139,3 +139,5 @@ Vogel尚未做出解释。\[26\]而在[一般資料保護規範](https://zh.wiki
 26.
 
 27.
+
+28.

@@ -27,8 +27,6 @@ Python 程序库。SunPy 项目的目的是支持其他太阳物理 Python
   - [SunPy 文档](https://docs.sunpy.org/)
   - [SunPy 项目的 GitHub 地址](https://github.com/sunpy/sunpy)
 
-[en:SunPy](https://zh.wikipedia.org/wiki/en:SunPy "wikilink")
-
 [Category:科学软件](https://zh.wikipedia.org/wiki/Category:科学软件 "wikilink")
 [Category:开源软件](https://zh.wikipedia.org/wiki/Category:开源软件 "wikilink")
 [Category:Python軟體](https://zh.wikipedia.org/wiki/Category:Python軟體 "wikilink")

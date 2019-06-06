@@ -88,11 +88,13 @@ DREAM SHOW。
 
 ### 綜藝節目
 
-| 年份   | 名稱                                          | 電視台                                           | 備註                |
-| ---- | ------------------------------------------- | --------------------------------------------- | ----------------- |
-| 2014 | EXO90:2014                                  | [Mnet](../Page/Mnet媒體.md "wikilink")          | 首次亮相綜藝節目          |
-| 2015 | Mickey Mouse Club                           | [Disney Channel](../Page/迪士尼頻道.md "wikilink") |                   |
-| 2018 | [MBC偶像明星運動會](../Page/偶像明星運動會.md "wikilink") | [MBC](../Page/文化廣播公司.md "wikilink")           | 中秋特輯：參與射箭項目\[11\] |
+| 年份   | 名稱                                          | 電視台                                                         | 備註                |
+| ---- | ------------------------------------------- | ----------------------------------------------------------- | ----------------- |
+| 2014 | EXO90:2014                                  | [Mnet](../Page/Mnet媒體.md "wikilink")                        | 首次亮相綜藝節目          |
+| 2015 | Mickey Mouse Club                           | [Disney Channel](../Page/迪士尼頻道.md "wikilink")               |                   |
+| 2018 | [MBC偶像明星運動會](../Page/偶像明星運動會.md "wikilink") | [MBC](../Page/文化廣播公司.md "wikilink")                         | 中秋特輯：參與射箭項目\[11\] |
+| 2019 | 最好的一天\[12\]                                 | MBC                                                         | 印尼公益節目；與渽民        |
+| 2019 | Idol Battleground                           | [Naver網絡節目](https://zh.wikipedia.org/wiki/Naver "wikilink") | 電子遊戲；與渽民、辰樂、志晟、神童 |
 
 ### 雜誌
 
@@ -125,3 +127,4 @@ DREAM SHOW。
 10.
 11.  NCT (엔시티) Amino|accessdate=2019-01-10|work=NCT (엔시티) {{\!}}
     aminoapps.com}}
+12.

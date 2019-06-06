@@ -14,6 +14,7 @@ A<sup>3</sup>，分子中，配体二甲基亚砜以其[氧原子与钴配位](.
 ## 参考文献
 
 [Category:钴配合物](https://zh.wikipedia.org/wiki/Category:钴配合物 "wikilink")
+[Category:二价钴化合物](https://zh.wikipedia.org/wiki/Category:二价钴化合物 "wikilink")
 [Category:高氯酸盐](https://zh.wikipedia.org/wiki/Category:高氯酸盐 "wikilink")
 [Category:二甲基亚砜配合物](https://zh.wikipedia.org/wiki/Category:二甲基亚砜配合物 "wikilink")
 

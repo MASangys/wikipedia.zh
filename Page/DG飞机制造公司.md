@@ -24,8 +24,9 @@ Flight建造](https://zh.wikipedia.org/wiki/AMS_Flight "wikilink")。
 [动力滑翔机DG](https://zh.wikipedia.org/wiki/滑翔机 "wikilink")-400的推出，拓展了公司的[产品组合](../Page/投資組合.md "wikilink")。
 飞机上的发动机工况显示和控制单元**DEI**使技术上经验不足的人也能够操纵动力飞机。
 
-在接下来的几年中， 公司又开发了 双座的 DG-500和DG-1000以及18米级的DG-600和DG-800 。
-所有型号都拥有带发动机的版本。
+在接下来的几年中， 公司又开发了 双座的
+DG-500和DG-1000以及[18米级的DG](https://zh.wikipedia.org/wiki/滑翔竞赛分级 "wikilink")-600和DG-800
+。 所有型号都拥有带发动机的版本。
 
 由于自主起飞型DG-800A的发动机的供应问题以及由此带来的飞机交付延迟， *Glaser-Dirks
 飞机制造有限责任*公司于1996年春季破产。
@@ -41,8 +42,9 @@ Flight建造](https://zh.wikipedia.org/wiki/AMS_Flight "wikilink")。
 
 2003年，DG 飞机制造公司接管了陷入财务困境的[Rolladen
 Schneider飞机制造公司](https://zh.wikipedia.org/wiki/Rolladen_Schneider飞机制造公司 "wikilink")，并关闭了其在[埃格尔斯巴赫的工厂](../Page/埃格尔斯巴赫.md "wikilink")。
-不久，Rolladen Schneider破产。 此后DG 飞机制造公司继续生产非常成功的标准级滑翔机 LS8 ，并对其进一步开发。
-同时继续研发LS系列的最后型号LS10，并投入量产。 此外，DG飞机制造公司还获得了已停产的LS1 ，
+不久，Rolladen Schneider破产。 此后DG
+飞机制造公司继续生产非常成功的[标准级滑翔机](https://zh.wikipedia.org/wiki/滑翔竞赛分级 "wikilink")
+LS8 ，并对其进一步开发。 同时继续研发LS系列的最后型号LS10，并投入量产。 此外，DG飞机制造公司还获得了已停产的LS1 ，
 LS3和LS9型的后续支持服务业务。 LS4和LS6及其生产设备被斯洛文尼亚的AMS公司一起接管。 \[1\]
 然而，AMS公司在2009年放弃滑翔机生产之前，只制造了少量LS4，而LS6更是一架都没生产。
 这两种型号的售后支持服务最终再次由DG接管。 同时，两家公司之间延续26年的合作也告结束。
@@ -72,7 +74,7 @@ LS3和LS9型的后续支持服务业务。 LS4和LS6及其生产设备被斯洛�
   - [www.dg-flugzeugbau.de](http://www.dg-flugzeugbau.de/) - 官方制造商DG
     Flugzeugbau
   - Gerhard Marzinzik： [两个品牌 -
-    一个制造商](http://www.dg-flugzeugbau.de/zwei-marken-d.html)
+    一个制造商](https://web.archive.org/web/20110823021612/http://www.dg-flugzeugbau.de/zwei-marken-d.html)
     ，Aerokurier 9/2006
 
 ## 参考

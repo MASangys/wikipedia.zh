@@ -17,7 +17,7 @@ RADIO＊MAIDEN》命名並開始廣播。
 
 <references />
 
-## 外部鏈接
+## 外部連結
 
   - [少女＊領域 RADIO＊MAIDEN 官方網站](http://www.onsen.ag/program/otomain/)
 

@@ -205,7 +205,7 @@ class, style, width, shading, percol, cols)
 `   cell`
 `       :addClass('navbox-title')`
 `       :attr('colspan', colspan)`
-`       :css('padding', '0.25em')`
+`       :css('padding', '0.1em 0.25em')`
 `       :css('font-size', '110%')`
 `       :wikitext(title)`
 `   `

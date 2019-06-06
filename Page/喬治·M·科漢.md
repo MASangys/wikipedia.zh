@@ -1,4 +1,4 @@
-**喬治·M·科漢**（，），是一位[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")、[歌手](../Page/歌手.md "wikilink")。
+**喬治·M·科漢**（，），是一位[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[演員](../Page/演員.md "wikilink")、[作曲家](https://zh.wikipedia.org/wiki/作曲家 "wikilink")、[歌手](../Page/歌手.md "wikilink")。
 
 科漢小時候就開始與他的父母和妹妹一起表演了一場名為“The Four
 Cohans”的[舞台劇](../Page/劇場藝術.md "wikilink")。他在[百老匯的作品無處不在](../Page/百老匯.md "wikilink")。科漢在他的一生中發表了300多首歌曲，在美國歌壇享負盛名。

@@ -12,9 +12,9 @@ LUCENTE是拉丁語及英語結合而成的，意思是『像星星一樣閃耀�
   - Z. Hoo曾為韓國街頭團體「DOB」一員。
   - Bao曾為男子團體「[LC9](../Page/LC9.md "wikilink")」的預備成員，團體在Bao成爲正式成員之前解散。
   - Kogun曾為男子團體「Zest」的成員。
-  - 朴河曾為男子團體「Nu'Bility」的成員，曾經參加「[PRODUCE 101
-    第二季](../Page/PRODUCE_101_第二季.md "wikilink")」和「[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")」。
-  - 太俊以前是[DSP媒體的練習生](../Page/DSP媒體.md "wikilink")。
+  - 朴河曾為男子團體「Nu'Bility」的成員，曾經參加《[PRODUCE 101
+    第二季](../Page/PRODUCE_101_第二季.md "wikilink")》和《[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")》。
+  - 太俊曾是[DSP媒體的練習生](../Page/DSP媒體.md "wikilink")。
 
 **出道后**
 

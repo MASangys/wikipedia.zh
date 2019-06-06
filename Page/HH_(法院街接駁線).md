@@ -63,7 +63,7 @@
 
 </references>
 
-## 外部鏈接
+## 外部連結
 
   - [線路歷史](http://www.erictb.info/linehistory.html)
   - [法院街和霍伊特-歇爾美角街車站站台](http://www.columbia.edu/~brennan/abandoned/court.html)

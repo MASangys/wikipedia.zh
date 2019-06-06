@@ -173,7 +173,7 @@ Samsung Galaxy J8 共有3个不同版本的型号，不同地区销售不同型�
 </tr>
 <tr class="even">
 <td><p>电池容量</p></td>
-<td><p>3500 mAh</p></td>
+<td><p>3500 mAh（固定式）</p></td>
 <td></td>
 <td></td>
 </tr>

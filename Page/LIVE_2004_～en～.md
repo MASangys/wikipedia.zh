@@ -17,7 +17,7 @@
 
   - ：[貝斯](https://zh.wikipedia.org/wiki/貝斯 "wikilink")
 
-  - ：[電子琴](../Page/電子琴.md "wikilink")
+  - ：[鍵盤](../Page/鍵盤樂器.md "wikilink")
 
   - ：[爵士鼓](../Page/爵士鼓.md "wikilink")
 
@@ -29,42 +29,42 @@
 
 ### DISC1
 
-1.  **冷血**
-2.  **Here I am\!\!**
-3.  **くちびる**
-4.  **arizona**
-5.  **Touch**
-6.  **眠れないのは誰のせい**
-7.  **I'm on fire**
-8.  **Soul Station**
-9.  **ファミレス午前3時**
+1.  **[冷血](../Page/熔巖.md "wikilink")**
+2.  **[Here I am\!\!](../Page/志庵.md "wikilink")**
+3.  **[くちびる](../Page/熔巖.md "wikilink")**
+4.  **[arizona](../Page/熔巖.md "wikilink")**
+5.  **[Touch](../Page/志庵.md "wikilink")**
+6.  **[眠れないのは誰のせい](../Page/熔巖.md "wikilink")**
+7.  **[I'm on fire](../Page/KI_\(稻葉浩志單曲\).md "wikilink")**
+8.  **[Soul Station](../Page/熔巖.md "wikilink")**
+9.  **[ファミレス午前3時](../Page/志庵.md "wikilink")**
       -
         稻葉從此處開始演奏吉他，是僅與大賀2人的演奏。
-10. **おかえり**
+10. **[おかえり](../Page/Peace_Of_Mind.md "wikilink")**
       -
         [doa的德永與大田加入和聲](https://zh.wikipedia.org/wiki/doa_\(樂團\) "wikilink")。
-11. **I AM YOUR BABY**
-12. **水平線**
+11. **[I AM YOUR BABY](../Page/Wonderland.md "wikilink")**
+12. **[水平線](../Page/Peace_Of_Mind.md "wikilink")**
       -
         稻葉再次僅主唱。
 13. **[Wonderland](../Page/Wonderland.md "wikilink")**
 
 ### DISC2
 
-1.  **O.NO.RE**
-2.  **CHAIN**
+1.  **[O.NO.RE](../Page/志庵.md "wikilink")**
+2.  **[CHAIN](../Page/到遠方.md "wikilink")**
       -
         演奏了比原曲低的音調。
-3.  **Seno de Revolution**
-4.  **正面衝突**
+3.  **[Seno de Revolution](../Page/志庵.md "wikilink")**
+4.  **[正面衝突](../Page/Peace_Of_Mind.md "wikilink")**
 5.  **[AKATSUKI](../Page/KI_\(稻葉浩志單曲\).md "wikilink")**
       - encore
-6.  **[遠くまで](https://zh.wikipedia.org/wiki/遠くまで "wikilink")**
-7.  **愛なき道**
+6.  **[遠くまで](../Page/到遠方.md "wikilink")**
+7.  **[愛なき道](../Page/熔巖.md "wikilink")**
 
 #### DVD特典影像
 
-1.  **波**
+1.  **[波](../Page/熔巖.md "wikilink")**
       -
         稻葉演奏了吉他。
 

@@ -51,5 +51,9 @@
 
 ## 脚注
 
+[Category:日本現場影像](https://zh.wikipedia.org/wiki/Category:日本現場影像 "wikilink")
+[Category:愛貝克思集團](https://zh.wikipedia.org/wiki/Category:愛貝克思集團 "wikilink")
+[Category:2019年音樂相關影像作品](https://zh.wikipedia.org/wiki/Category:2019年音樂相關影像作品 "wikilink")
+
 1.  \[<https://natalie.mu/music/news/318058> lolが初のライブ映像作品リリース、Zepp
     DCツアーファイナルを収録（2019年1月30日）2019年3月2日閲覧。

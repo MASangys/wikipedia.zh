@@ -3,7 +3,7 @@
 ## 合并
 
 [Platform_wall_construction_for_new_BU_West_station,_December_2018.JPG](https://zh.wikipedia.org/wiki/File:Platform_wall_construction_for_new_BU_West_station,_December_2018.JPG "fig:Platform_wall_construction_for_new_BU_West_station,_December_2018.JPG")
-2014年10月，马萨诸塞湾交通局主持会议商讨将[波士顿大学](https://zh.wikipedia.org/wiki/波士顿大学 "wikilink")的波士顿大学西站、、和这四座非无障碍车站进行合并，变为两座无障碍车站。\[1\]
+2014年10月，马萨诸塞湾交通局主持会议商讨将[波士顿大学](https://zh.wikipedia.org/wiki/波士顿大学 "wikilink")的波士顿大学西站、[圣保罗街站](../Page/圣保罗街站_\(波士顿轻轨绿线B支线\).md "wikilink")、[普莱森特街站和](../Page/普莱森特街站.md "wikilink")[巴布科克街站这四座非无障碍车站进行合并](../Page/巴布科克街站.md "wikilink")，变为两座无障碍车站。\[1\]
 波士顿大学西站和圣保罗街站将合并，新的车站设在艾默里街和圣保罗街中间。\[2\]
 
 由于联邦大道路段施工工程延误，合并工作也被延迟。麻州交通部预计在2017年改换车站施工承包商。\[3\]

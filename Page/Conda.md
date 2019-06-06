@@ -13,36 +13,6 @@ Conda可安装Python语言的包，\[14\]类似于其他基于Python的跨平台
   - Miniconda\[17\]
   - Anaconda Repository.\[18\]
 
-## Conda的命令
-
-首先打开命令行(最好用管理员模式打开) 。
-
-输入 `conda --version` 显示conda版本号。
-
-输入`conda upgrade --all` 把所有工具包进行升级
-
-输入`conda activate 环境名` 切换到指定的环境。如果未指定环境名，则切换到默认的base环境。
-
-输入`conda env list` 列出所有的环境
-
-输入`conda create -n 环境名 python=3`
-创建一个指定名称的虚拟环境并指定python版本为3，conda会自动找3中最新的版本下载。
-
-输入`conda install 包名`，安装指定的包
-
-输入`conda remove 包名` ，卸载指定的包
-
-输入`conda remove -n 环境名 --all` // 删除指定环境及下所有包
-
-输入`conda update 包名` 更新指定包
-
-输入`conda list` 列出当前环境下所有已经安装的包
-
-输入`conda env export > environment.yaml`或输入`conda env export --file
-python36_20190106.yml` 导出当前环境的包信息
-
-输入`conda env create -f environment.yaml` 用配置文件创建新的虚拟环境
-
 ## 参考文献
 
 ## 外部链接

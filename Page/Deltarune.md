@@ -142,6 +142,7 @@ King」的花店，但因為幾乎只送花給別人而沒有收入，也因此�
 ## 外部連結
 
   -
-[Category:电子游戏](https://zh.wikipedia.org/wiki/Category:电子游戏 "wikilink")
+[Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")
+[Category:2018年电子游戏](https://zh.wikipedia.org/wiki/Category:2018年电子游戏 "wikilink")
 
 1.

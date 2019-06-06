@@ -1,6 +1,6 @@
-**Galaxy A9 (2018) (在大陸也稱 Galaxy A9s)**
+**Galaxy A9（2018）（在大陸也稱 Galaxy A9s）**
 是[三星电子制造的](https://zh.wikipedia.org/wiki/三星电子 "wikilink")[智慧型手機](https://zh.wikipedia.org/wiki/智慧型手機 "wikilink")，在2018年10月11日於[馬來西亞發佈](../Page/马来西亚.md "wikilink")。Galaxy
-A9 (2018) 使用了四個後置鏡頭使用直排設計，分別用於廣角、遠攝、主成像及景深記錄。Galaxy A9採用 [Super
+A9（2018）使用了四個後置鏡頭使用直排設計，分別用於廣角、遠攝、主成像及景深記錄。Galaxy A9採用 [Super
 AMOLED](../Page/AMOLED.md "wikilink") display，解像度為2220 x
 1080，18.5:9比例，支援Alway On display。Galaxy A9
 採用[高通驍龍](../Page/高通驍龍.md "wikilink") 660晶片，6GB

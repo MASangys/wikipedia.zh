@@ -7,17 +7,17 @@ Dream Live In Seoul開啓出道舞台。而7名團員中，沒有韓國籍成員
 
 ### 成員列表
 
-| 成員列表   |
-| ------ |
-| 藝名     |
-| 原语     |
-| Perry  |
-| Malvin |
-| Roy    |
-| Josh   |
-| Sid    |
-| Gai    |
-| Blink  |
+| 成員列表                                                      |
+| --------------------------------------------------------- |
+| 藝名                                                        |
+| 原语                                                        |
+| [Perry](https://zh.wikipedia.org/wiki/Perry "wikilink")   |
+| [Malvin](https://zh.wikipedia.org/wiki/Malvin "wikilink") |
+| [Roy](https://zh.wikipedia.org/wiki/Roy "wikilink")       |
+| [Josh](https://zh.wikipedia.org/wiki/Josh "wikilink")     |
+| [Sid](https://zh.wikipedia.org/wiki/Sid "wikilink")       |
+| Gai                                                       |
+| Blink                                                     |
 
 ## 參考文獻
 

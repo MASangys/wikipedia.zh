@@ -1,6 +1,6 @@
 **LSD**是由英國音樂家[迷走小子](https://zh.wikipedia.org/wiki/迷走小子 "wikilink")、澳洲歌手[希雅和美國製作人](https://zh.wikipedia.org/wiki/希雅 "wikilink")[迪波洛組成的](../Page/迪波洛.md "wikilink")[超級樂團](https://zh.wikipedia.org/wiki/超級樂團 "wikilink")。\[1\]
 樂團至今已經發行了5張
-(加上1張混音)單曲，並全部收錄於迷你專輯《不需要新朋友》（），於[Spotify上發行於](../Page/Spotify.md "wikilink")2019年3月12日。\[2\]
+(加上1張混音)單曲，並全部收錄於迷你專輯《有你就足夠》（），於[Spotify上發行於](../Page/Spotify.md "wikilink")2019年3月12日。\[2\]
 他們於3月11日宣布他們的首張專輯將於4月12日發行。
 
 ## 歷程
@@ -173,7 +173,7 @@ LSD於11月1日發行單曲《Mountains》。\[10\]
   - 《愛情資優生》
   - 《神曲》
   - 《愛情風暴》
-  - 《不需要新朋友》
+  - 《有你就足夠》
 
 ## 註釋
 

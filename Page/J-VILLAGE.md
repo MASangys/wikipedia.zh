@@ -31,6 +31,7 @@
 3.
 
 4.  [国内初の全天候型練習場オープン
-    Jヴィレッジで記念イベント](http://www.minyu-net.com/news/news/FM20180909-305302.php)『[福島民友](https://zh.wikipedia.org/wiki/福島民友 "wikilink")』2018年9月9日（2018年9月14日閲覧）。
+    Jヴィレッジで記念イベント](http://www.minyu-net.com/news/news/FM20180909-305302.php)
+    『[福島民友](https://zh.wikipedia.org/wiki/福島民友 "wikilink")』2018年9月9日（2018年9月14日閲覧）。
 
 5.

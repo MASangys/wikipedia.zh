@@ -38,8 +38,6 @@ Natura
 底，Natura
 2000覆盖的范围已达到欧盟各成员国海陆总面积的18.2%，其中共有鸟类[特殊保护地](https://zh.wikipedia.org/wiki/特殊保护地 "wikilink")5616个，总面积756,142[平方公里](https://zh.wikipedia.org/wiki/平方公里 "wikilink")；[特别保护区](https://zh.wikipedia.org/wiki/特别保护区 "wikilink")24127个，总面积1,049,871平方公里\[21\]。
 
-<center>
-
 NATURA 2000 Gebiet Haslauer
 Moor.jpg|[奥地利](https://zh.wikipedia.org/wiki/奥地利 "wikilink")
 Natura2000belgiumLesse.jpg|[比利时](../Page/比利时.md "wikilink") Schild
@@ -54,8 +52,6 @@ skugga.jpg|[瑞典](../Page/瑞典.md "wikilink")[布胡斯](https://zh.wikipedi
 Odra.jpg|[波利采](https://zh.wikipedia.org/wiki/波利采 "wikilink")（[奧得河和](../Page/奧得河.md "wikilink")[什切青潟湖](https://zh.wikipedia.org/wiki/什切青潟湖 "wikilink")）
 Ría_de_Ortigueira_desde_la_sierra_de_A_Capelada.jpg|西班牙[加利西亚自治区北部](https://zh.wikipedia.org/wiki/加利西亚自治区 "wikilink")
 [奥尔蒂盖拉湾](../Page/奥尔蒂盖拉湾.md "wikilink")
-
-</center>
 
 ## 参考文献
 

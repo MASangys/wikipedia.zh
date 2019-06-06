@@ -29,7 +29,7 @@
 
 ## 參考資料
 
-## 外部鏈接
+## 外部連結
 
   - [勝利娛樂上](../Page/勝利娛樂.md "wikilink")《[SHAKE](https://www.jvcmusic.co.jp/-/Discography/A002763/VIDL-10820.html)》的資料
 

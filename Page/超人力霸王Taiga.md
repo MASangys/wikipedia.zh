@@ -9,15 +9,15 @@
 
 ## 故事概要
 
-地球には宇宙人が密かに移住してきている。だが、その事を知っているのはごく一部の人間のみで、一般的には知られていない。
+外星人偷偷移居至地球。但，這件事只有少數的一部份人知道，一般的大眾仍舊未知。
 
-そんな社会の中で、主人公の《工藤ヒロユキ》は、宇宙人が絡む事件をもその業務内容に含まれる民間の警備組織《Ｅ.Ｇ.Ｉ.Ｓ.（イージス）》に就職し日夜平和のために働いている。
+就在這樣的社會之中，主角《工藤ヒロユキ》，就職於包含外星人所引發的事件為業務內容的民間警備組織《Ｅ.Ｇ.Ｉ.Ｓ.》日以繼夜地為和平工作著。
 
-そんな彼には、本人も知らないある大きな秘密が眠っていた。
+這樣的他，卻有個連他本人都不知道的大秘密沉睡著。
 
-それはウルトラマンタイガの光の粒子が体内に宿っているという秘密。
+那就是他的體內寄宿著超人力霸王泰迦的光之粒子。
 
-ヒロユキの体からタイガが蘇る時、新たな物語が始まる！
+當ヒロユキ體內的超人力霸王泰迦甦醒的那刻，新的故事即將開始！
 
 ## 故事背景
 
@@ -55,6 +55,38 @@
 <td><p><strong>超人力霸王泰迦</strong>、<strong>超人力霸王泰塔斯</strong>、<strong>超人力霸王風馬</strong>的人間體，22歲，民間警備組織Ｅ.Ｇ.Ｉ.Ｓ.的成員，也是本作的主角。</p></td>
 </tr>
 <tr class="odd">
+<td><center>
+<p><strong>佐々木カナ</strong><br />
+<strong>（）</strong></p></td>
+<td><center>
+<p><a href="../Page/新山千春.md" title="wikilink">新山千春</a></p></td>
+<td><p>民間警備組織Ｅ.Ｇ.Ｉ.Ｓ.的社長，38歲。</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><strong>宗谷ホマレ</strong><br />
+<strong>（）</strong></p></td>
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/諒太郎" title="wikilink">諒太郎</a></p></td>
+<td><p>ヒロユキ的前輩，25歲，也是民間警備組織Ｅ.Ｇ.Ｉ.Ｓ.的成員。</p></td>
+</tr>
+<tr class="odd">
+<td><center>
+<p><strong>旭川ピリカ</strong><br />
+<strong>（）</strong></p></td>
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/桃果" title="wikilink">桃果</a></p></td>
+<td><p>民間警備組織Ｅ.Ｇ.Ｉ.Ｓ.的操作員，23歲。</p></td>
+</tr>
+<tr class="even">
+<td><center>
+<p><strong>霧崎</strong><br />
+<strong>（）</strong></p></td>
+<td><center>
+<p><a href="https://zh.wikipedia.org/wiki/七瀬公" title="wikilink">七瀬公</a></p></td>
+<td><p><strong>超人力霸王特雷基亞</strong>的人間體，ヒロユキ所捲入的事件的幕後黑手神秘男子。</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -66,7 +98,7 @@
 
 ### 超人力霸王泰迦
 
-人間體：工藤ヒロユキ（替身演員：、聲：）
+人間體：工藤ヒロユキ（替身演員：、聲：寺島拓篤）
 
   -
     原文： / *Ultraman Taiga*
@@ -80,10 +112,11 @@
     跳躍力：800公尺
     腕力：6萬噸
     握力：4萬5千噸
+    必殺技：
 
 ### 超人力霸王泰塔斯
 
-人間體：工藤ヒロユキ（替身演員：、聲：）
+人間體：工藤ヒロユキ（替身演員：、聲：日野聰）
 
   -
     原文： / *Ultraman Titas*
@@ -97,10 +130,11 @@
     跳躍力：500公尺
     腕力：15萬噸
     握力：9萬6千噸
+    必殺技：
 
 ### 超人力霸王風馬
 
-人間體：工藤ヒロユキ（替身演員：、聲：）
+人間體：工藤ヒロユキ（替身演員：、聲：葉山翔太）
 
   -
     原文： / *Ultraman Fuma*
@@ -114,10 +148,11 @@
     跳躍力：900公尺
     腕力：4萬噸
     握力：2萬8千噸
+    必殺技：
 
 ### 超人力霸王特雷基亞
 
-人間體：（替身演員：、聲：[內田雄馬](../Page/內田雄馬.md "wikilink")）
+人間體：霧崎（替身演員：、聲：[內田雄馬](../Page/內田雄馬.md "wikilink")）
 
   -
     原文： / *Ultraman Tregear*
@@ -188,6 +223,9 @@
 ## 外部連結
 
   - [《超人力霸王泰迦》圓谷官方網站](https://m-78.jp/taiga/)
+  - [《超人力霸王泰迦》東京電視台官方網站](http://ani.tv/taiga/)
+  - [《超人力霸王系列》遊戲機台官網](http://www.dcd-ultraman.com/)
+  - [《超人力霸王系列》官方推特](https://twitter.com/ultraman_series)
 
 [Category:超人力霸王系列](https://zh.wikipedia.org/wiki/Category:超人力霸王系列 "wikilink")
 [Category:2019年開播的日本電視劇集](https://zh.wikipedia.org/wiki/Category:2019年開播的日本電視劇集 "wikilink")

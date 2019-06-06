@@ -28,22 +28,22 @@
 
 ### 衛生保健
 
-  - , 或吃，一種用於飲食失調的臨床心理學自我評估篩選器
+  - , 一種用於飲食失調的臨床心理學自我評估篩選器
 
-  - Ectopic , 或吃，異常的心臟狀況
+  - 異位性（Ectopic atrial tachycardia） , 異常的心臟狀況
 
 ### 組織
 
-  - ,或吃，英格蘭，威爾士和蘇格蘭的非部門公共機構
+  - ,英格蘭，威爾士和蘇格蘭的非部門公共機構
 
-  - , 或吃，一個旨在促進藝術家和工程師之間合作的非營利組織
+  - , 一個旨在促進藝術家和工程師之間合作的非營利組織
 
 ### 運輸
 
   - [European Air Transport (Belgium)](../Page/欧洲运输航空.md "wikilink"),
-    或吃，DHL已經解散的比利時包裹運輸航空公司
+    DHL已經解散的比利時包裹運輸航空公司
 
-  - , 或吃，DHL的德國包裹運輸航空公司
+  - , DHL的德國包裹運輸航空公司
 
   - (IATA code: **EAT**),位於美國華盛頓州的公共機場
 
@@ -54,6 +54,6 @@
   - e.a.t., *et aliis titulis* ([Latin](../Page/拉丁语.md "wikilink") for
     *and other titles*)
   - [East Africa Time](https://zh.wikipedia.org/wiki/東非時間 "wikilink"),
-    或吃，在東非和馬達加斯加使用的時區
-  - 緊急行動終止，或吃，這是一個信號，標誌著美國全國性激活的結束 [Emergency Alert
+    在東非和馬達加斯加使用的時區
+  - 緊急行動終止，這是一個信號，標誌著美國全國性激活的結束 [Emergency Alert
     System](../Page/紧急报警系统.md "wikilink")

@@ -18,7 +18,7 @@ Sto-Con[核桃木製](../Page/核桃.md "wikilink")[槍托形成了步槍的主�
 
 目前，這步槍系統還在向火力更強大的彈藥的方向增加，例如[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")（7.62×67毫米）和[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（8.6×70毫米或8.58×70毫米）[口徑的適應和修改](https://zh.wikipedia.org/wiki/口徑 "wikilink")。在這個系列當中，眾所周知的型號是GOL狙擊手GS04
 ML，口徑為[.308
-Winchester](../Page/.308_Winchester.md "wikilink")，裝有骨架式槍托。這種武器被德國各支[特種部隊和立陶宛武裝部隊所採用](../Page/特種部隊.md "wikilink")，據生產商所言，亦只有他倆可以使用。GOL狙擊步槍針對了各種任務進行了原廠調整，並可根據需要由機構進行修改以進行特殊作戰。可用的附件包括：[消聲器](https://zh.wikipedia.org/wiki/消聲器 "wikilink")、夜間[狙擊鏡](../Page/瞄准镜.md "wikilink")、特殊[彈匣和](../Page/彈匣.md "wikilink")[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")。而其他調整亦可行。由於可作各種專業化選項，武器可根據具體任務進行調整，因此很難建立統一的技術數據。
+Winchester](../Page/.308_Winchester.md "wikilink")，裝有骨架式槍托。這種武器被德國各支[特種部隊和立陶宛武裝部隊所採用](../Page/特種部隊.md "wikilink")，據生產商所言，亦只有他倆可以使用。GOL狙擊步槍針對了各種任務進行了原廠調整，並可根據需要由機構進行修改以進行特殊作戰。可用的附件包括：[抑制器](../Page/抑制器.md "wikilink")、夜間[狙擊鏡](../Page/瞄准镜.md "wikilink")、特殊[彈匣和](../Page/彈匣.md "wikilink")[兩腳架](https://zh.wikipedia.org/wiki/兩腳架 "wikilink")。而其他調整亦可行。由於可作各種專業化選項，武器可根據具體任務進行調整，因此很難建立統一的技術數據。
 
 ## 使用國
 

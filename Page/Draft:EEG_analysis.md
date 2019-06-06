@@ -1,19 +1,18 @@
-## introduction
-
-     **EEG analysis** exploits mathematical signal analysis methods to
-extract information from Electroencephalography (EEG) signals with the
-assistance of computers. The targets of EEG analysis are to help
-researchers get better understanding of our brains, assist clinical
-doctors to make right decisions for treatment, and to boost
-brain-computer interface(BCI) technology. There are many ways to roughly
-categorize EEG analysis methods. If a mathematical model is exploited to
-fit the sampled EEG signals\[1\],  the method can be categorized as a
-parametric method. Otherwise, it is a non-parametric method.
-Traditionally, most EEG analysis methods fall into four categories: time
-domain method, frequency domain method, time-frequency domain method,
-and nonlinear method\[2\]. Note that there are also some brand new
-methods that have been recently introduced, including Deep Neural
-Networks(DNN) methods.
+**腦波分析**（[:en:EEG
+analysis](https://zh.wikipedia.org/wiki/:en:EEG_analysis "wikilink")）
+exploits mathematical signal analysis methods to extract information
+from Electroencephalography (EEG) signals with the assistance of
+computers. The targets of EEG analysis are to help researchers get
+better understanding of our brains, assist clinical doctors to make
+right decisions for treatment, and to boost brain-computer
+interface(BCI) technology. There are many ways to roughly categorize EEG
+analysis methods. If a mathematical model is exploited to fit the
+sampled EEG signals\[1\],  the method can be categorized as a parametric
+method. Otherwise, it is a non-parametric method. Traditionally, most
+EEG analysis methods fall into four categories: time domain method,
+frequency domain method, time-frequency domain method, and nonlinear
+method\[2\]. Note that there are also some brand new methods that have
+been recently introduced, including Deep Neural Networks(DNN) methods.
 
 ## Methods
 
@@ -77,16 +76,23 @@ Entropy and Sample Entropy\[13\]\[14\].
 [Category:用条目向导创建的草稿](https://zh.wikipedia.org/wiki/Category:用条目向导创建的草稿 "wikilink")
 
 1.
+
 2.
+
 3.
 4.
+
 5.
 6.
+
 7.
 8.
+
 9.
 10.
+
 11.
 12.
+
 13.
 14.

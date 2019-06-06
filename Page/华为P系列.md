@@ -29,12 +29,15 @@ Pro则是全球首款后置三摄像头手机，同时也是2010年以来全球�
   - [华为Ascend
     P7](https://zh.wikipedia.org/wiki/华为Ascend_P7 "wikilink")（2014年）
   - [华为P8](../Page/华为P8.md "wikilink")、华为P8 Max、华为P8
-    Lite（中国称P8青春版）（2015年）
-  - [华为P9](../Page/华为P9.md "wikilink")、华为P9 Plus、华为P9 Lite（中国称G9）（2016年）
-  - [华为P10](../Page/华为P10.md "wikilink")、华为P10 Plus、华为P10 Lite（中国称Nova
+    Lite（中国内地称P8青春版）（2015年）
+  - [华为P9](../Page/华为P9.md "wikilink")、华为P9 Plus、华为P9
+    Lite（中国内地称G9）（2016年）
+  - [华为P10](../Page/华为P10.md "wikilink")、华为P10 Plus、华为P10 Lite（中国内地称nova
     Lite）（2017年）
-  - [华为P20](../Page/华为P20系列.md "wikilink")、华为P20 Pro、华为P20 Lite（中国称Nova
-    3e）（2018年）
+  - [华为P20](../Page/华为P20系列.md "wikilink")、华为P20 Pro、华为P20
+    Lite（中国内地称nova 3e）（2018年）
+  - [华为P30](../Page/華為P30系列.md "wikilink")、华为P30 Pro、华为P30
+    Lite（中国内地称nova 4e）（2019年）
 
 ## 配置简表
 
@@ -206,8 +209,7 @@ Pro则是全球首款后置三摄像头手机，同时也是2010年以来全球�
 <td><p>2017-02-26 2017-03-24</p></td>
 <td><p>麒麟960</p></td>
 <td><p><a href="../Page/Android_Nougat.md" title="wikilink">Android 7.0 "Nougat"</a> EMUI 5.1</p></td>
-<td><p><a href="../Page/Android_Pie.md" title="wikilink">Android 9.0 "Pie"</a> EMUI 9.0</p>
-<p>（内测）</p></td>
+<td><p><a href="../Page/Android_Pie.md" title="wikilink">Android 9.0 "Pie"</a> EMUI 9.0</p></td>
 <td><p>4GB LPDDR4</p></td>
 <td><p>64/128GB <a href="https://zh.wikipedia.org/wiki/eMMC" title="wikilink">eMMC</a> 5.1/<a href="../Page/通用闪存存储.md" title="wikilink">UFS</a> 2.1</p>
 <p>支持microSD</p></td>
@@ -248,6 +250,35 @@ Pro则是全球首款后置三摄像头手机，同时也是2010年以来全球�
 <td><p>LEICA VARIO-SUMMILUX-H 1:1.6-2.4/27-80 ASPH. 40MP彩色+20MP黑白+8MP广角</p></td>
 <td><p>6.1" AMOLED</p></td>
 <td><p>4000mAh 4.5V5A快充</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>P30</p></td>
+<td><p>Elle</p></td>
+<td><p>2019-03-26</p>
+<p>2019-04-11</p></td>
+<td><p>麒麟980</p></td>
+<td><p>Android 9.0 "Pie" EMUI 9.1</p></td>
+<td></td>
+<td><p>8GB LPDDR4X</p></td>
+<td><p>64/128/256GB UFS 2.1 支持NM Card</p></td>
+<td><p>LEICA VARIO-SUMMILUX-H 1:1.8-2.4/17-80 ASPH. 40MP广角+16MP超广角+8MP长焦</p></td>
+<td><p>3650mAh 4.5V5A快充</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>P30 Pro</p></td>
+<td><p>Vogue</p></td>
+<td><p>128/256/512GB UFS 2.1 支持NM Card</p></td>
+<td><p>LEICA VARIO-SUMMILUX-H 1:1.6-3.4/16-125 ASPH. 40MP广角+20MP超广角+8MP超级变焦</p>
+<p>华为ToF镜头</p></td>
+<td><p>6.47" AMOLED</p></td>
+<td><p>4200mAh 10V4A快充</p>
+<p>Qi 15W无线充电</p></td>
 <td></td>
 <td></td>
 <td></td>

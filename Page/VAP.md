@@ -900,8 +900,7 @@
   - [CHAOS;HEAD](../Page/CHAOS;HEAD.md "wikilink")（ & [Kids
     Station製作](../Page/Kids_Station.md "wikilink")，[千葉電視台等台](https://zh.wikipedia.org/wiki/千葉電視台 "wikilink")）\[23\]\[24\]
 
-  - [晨曦公主](https://zh.wikipedia.org/wiki/晨曦公主 "wikilink")（AT-X、TOKYO
-    MX等有線獨立局各局）
+  - [晨曦公主](../Page/晨曦公主.md "wikilink")（AT-X、TOKYO MX等有線獨立局各局）
 
   - [愛·天地無用！](../Page/愛·天地無用！.md "wikilink")（TOKYO MX）
 

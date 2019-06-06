@@ -35,7 +35,7 @@ MUSCLE**，為韓國[JTBC電視台於](../Page/JTBC.md "wikilink")2019年推出�
 <td><p><a href="../Page/權赫秀.md" title="wikilink">權赫秀</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a></p></td>
+<td><p><a href="../Page/演員.md" title="wikilink">演員</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/朴娜勑.md" title="wikilink">朴娜勑</a></p></td>
@@ -47,13 +47,13 @@ MUSCLE**，為韓國[JTBC電視台於](../Page/JTBC.md "wikilink")2019年推出�
 <td><p><a href="https://zh.wikipedia.org/wiki/劉逸雲" title="wikilink">Amber</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)成員</a>）、<a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a>、<a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a></p></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="https://zh.wikipedia.org/wiki/f(x)_(組合)" title="wikilink">f(x)成員</a>）、<a href="../Page/演員.md" title="wikilink">演員</a>、<a href="https://zh.wikipedia.org/wiki/主持人" title="wikilink">主持人</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/恩熙_(歌手).md" title="wikilink">恩熙</a></p></td>
 <td></td>
 <td></td>
-<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女成員</a>）、<a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a></p></td>
+<td><p><a href="../Page/歌手.md" title="wikilink">歌手</a>（<a href="https://zh.wikipedia.org/wiki/宇宙少女" title="wikilink">宇宙少女成員</a>）、<a href="../Page/演員.md" title="wikilink">演員</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/JooE.md" title="wikilink">JooE</a></p></td>

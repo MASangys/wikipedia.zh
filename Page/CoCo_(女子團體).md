@@ -1,6 +1,7 @@
 **CoCo**（），是[韓國Fancy](https://zh.wikipedia.org/wiki/韓國 "wikilink")
 Factory於2019年推出的七人女子組合，成員包括Lee Jihyun、Sin Soomin、Park Seoha、Baek
-Minseo、Kim Suhyeon、Lim Hyojeong及Ryu Youngchae\[1\]，七人出道的平均年齡是12.3歲。
+Minseo、Kim Suhyeon、Lim Hyojeong及Ryu
+Youngchae\[1\]，七人出道的平均年齡是12.3歲\[2\]\[3\]
 
 ## 成員資料
 
@@ -17,6 +18,10 @@ Minseo、Kim Suhyeon、Lim Hyojeong及Ryu Youngchae\[1\]，七人出道的平均
 
 ## 參考文獻
 
+## 外部链接
+
+  - [1](https://www.instagram.com/coco7_official/) Coco Instagram
+
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
 [Category:2019年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年成立的音樂團體 "wikilink")
@@ -24,3 +29,5 @@ Minseo、Kim Suhyeon、Lim Hyojeong及Ryu Youngchae\[1\]，七人出道的平均
 [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 
 1.
+2.
+3.

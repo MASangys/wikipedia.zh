@@ -9,6 +9,12 @@ Deepfake亦可用來製作虛假的和媒體\[2\]。帶色情成份的Deepfake�
 
 ## 參考資料
 
+## 參見
+
+  - [深度學習](https://zh.wikipedia.org/wiki/深度學習 "wikilink")
+  - [人工智能](../Page/人工智能.md "wikilink")
+  - [计算机视觉](../Page/计算机视觉.md "wikilink")
+
 [Category:人工智能应用](https://zh.wikipedia.org/wiki/Category:人工智能应用 "wikilink")
 [Category:计算机图形学](https://zh.wikipedia.org/wiki/Category:计算机图形学 "wikilink")
 [Category:色情](https://zh.wikipedia.org/wiki/Category:色情 "wikilink")

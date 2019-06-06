@@ -17,7 +17,7 @@ Right**》是臺灣政治人物[柯文哲是為](../Page/柯文哲.md "wikilink"
 ## 參考文獻
 
 [Category:柯文哲](https://zh.wikipedia.org/wiki/Category:柯文哲 "wikilink")
-[Category:中文流行歌曲](https://zh.wikipedia.org/wiki/Category:中文流行歌曲 "wikilink")
+[Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink")
 [Category:2018年單曲](https://zh.wikipedia.org/wiki/Category:2018年單曲 "wikilink")
 
 1.

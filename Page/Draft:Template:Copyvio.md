@@ -27,12 +27,9 @@ style="border-bottom: 2px solid \#003153; padding: 0.5em 1em"{{\!}}
 
 }} 請負責驗證本版權的維基人在標識侵權後，於<span class=plainlinksneverexpand>\[
 Wikipedia:頁面存廢討論/疑似侵權\]</span>內容的部分加上：
-<inputbox> type=commenttitle width=62 bgcolor=\#FFFFE0 break=no default=
-preload=Wikipedia:頁面存廢討論/疑似侵權/preload preloadparams\[\]=
-page=Wikipedia:頁面存廢討論/疑似侵權 </inputbox>
+}}
 並在<span class=plainlinksneverexpand>\[ 本創建者\]</span>的對話頁中加入：
-<inputbox> type=comment width=62 bgcolor=\#FFFFE0 buttonlabel=‍ break=no
-default= </inputbox>
+}}
 
 </div>
 

@@ -7,7 +7,7 @@ SSI 家族成员是可由细胞因子诱导的细胞因子信号转导负调节�
 ## 功能
 
 SOCS3基因的表达可由多种细胞因子的诱导，包括
-IL-6，[IL-10](https://zh.wikipedia.org/wiki/IL-10 "wikilink")，[干扰素-γ](https://zh.wikipedia.org/wiki/干扰素-γ "wikilink")(IFN-γ)。
+IL-6，[IL-10](https://zh.wikipedia.org/wiki/IL-10 "wikilink")，[干扰素-γ](../Page/干扰素-γ.md "wikilink")(IFN-γ)。
 
 在 IL-6，Epo，GCSF 和瘦素的信号传导中，已发现SOCS3在各自的细胞因子受体上的结合对 SOCS3的抑制功能而言是至关重要的。
 

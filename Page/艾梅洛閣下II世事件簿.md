@@ -1,10 +1,12 @@
 《**艾梅洛閣下II世事件簿**》（）是TYPE-MOON的視覺小說「[Fate/stay
-night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")」系列中分拆出來、由日本小說家[三田誠所著作](https://zh.wikipedia.org/wiki/三田誠 "wikilink")、負責繪製插畫的日本[輕小說作品](../Page/輕小說.md "wikilink")，譯者K.K.。
+night](https://zh.wikipedia.org/wiki/Fate/stay_night "wikilink")」系列中分拆出來、由日本小說家[三田誠所著作](https://zh.wikipedia.org/wiki/三田誠 "wikilink")、負責繪製插畫的日本[輕小說作品](../Page/輕小說.md "wikilink")，譯者[K.K.](https://zh.wikipedia.org/wiki/譯者K.K. "wikilink")。
 
 2017年起由東冬負責本作的漫畫版繪製，並在同年的[Young
 Ace](../Page/Young_Ace.md "wikilink")11月號開始連載\[1\]\[2\]。
 
 2018年12月宣布動畫化，預定2019年7月播放\[3\]\[4\]。
+
+2019年起，由角川文庫出版本作的文庫版\[5\]。
 
 以下名詞以台灣角川出版的小說版為準。
 
@@ -293,6 +295,15 @@ liner
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>10</p></td>
+<td></td>
+<td></td>
+<td><p>2019年5月17日</p></td>
+<td><p>ASIN B07QNW53KH</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -303,26 +314,32 @@ liner
 <tr class="header">
 <th><p>卷數</p></th>
 <th><p><a href="../Page/KADOKAWA.md" title="wikilink">KADOKAWA</a></p></th>
+<th><p><a href="../Page/台灣角川.md" title="wikilink">台灣角川</a></p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td><p>發售日期</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+<td><p>發售日期</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2018年7月3日</p></td>
+<td><p>ISBN 978-4-04-107053-6</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
 <td><p>2018年8月4日</p></td>
+<td><p>ISBN 978-4-04-107054-3</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
 <td><p>2019年1月10日</p></td>
+<td><p>ISBN 978-4-04-107733-7</p></td>
 </tr>
 <tr class="odd">
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -419,3 +436,4 @@ liner
 2.
 3.
 4.
+5.

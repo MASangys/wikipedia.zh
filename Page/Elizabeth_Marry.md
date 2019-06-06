@@ -645,7 +645,7 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 </tr>
 <tr class="odd">
 <td><p>2016年3月25 - 31日（<a href="../Page/東京藝術劇場.md" title="wikilink">東京藝術劇場</a> Theater West）</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/胡桃夾子" title="wikilink">胡桃夾子</a></p></td>
+<td><p><a href="../Page/胡桃夾子.md" title="wikilink">胡桃夾子</a></p></td>
 <td><p>克拉拉</p></td>
 </tr>
 <tr class="even">
@@ -1147,6 +1147,35 @@ Renah（[平井麗奈](https://zh.wikipedia.org/wiki/平井麗奈 "wikilink")）
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong>舞台「幽☆遊☆白書」製作委員會</strong></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年8月28日 - 9月2日<br />
+（<a href="https://zh.wikipedia.org/wiki/Theatre1010" title="wikilink">Theatre1010</a>）</p></td>
+<td><p>舞台「<a href="https://zh.wikipedia.org/wiki/幽☆遊☆白書" title="wikilink">幽☆遊☆白書</a>」</p></td>
+<td><p>幻　海</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年9月4 - 8日<br />
+（森之宮Piloti Hall）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年9月10 - 13日<br />
+（福岡 <a href="https://zh.wikipedia.org/wiki/Momochi_Palace" title="wikilink">Momochi Palace</a>）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年9月20 - 22日<br />
+（<a href="https://zh.wikipedia.org/wiki/一宮市民會館" title="wikilink">一宮市民會館</a>）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

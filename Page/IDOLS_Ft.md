@@ -782,7 +782,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td><p><a href="https://zh.wikipedia.org/wiki/辽宁" title="wikilink">辽宁</a></p></td>
 <td><p>SHY48 1期</p></td>
 <td><p>2019年1月19日</p></td>
-<td></td>
+<td><p>同时为CKG48成员</p></td>
 <td><p>SHY48第6名</p></td>
 </tr>
 <tr class="odd">
@@ -885,17 +885,6 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 </tr>
 <tr class="even">
-<td><p>CKG预</p></td>
-<td><p>赵思雨</p></td>
-<td></td>
-<td><p>5月7日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/四川" title="wikilink">四川</a></p></td>
-<td><p>CKG48 3期</p></td>
-<td><p>同时为CKG48成员</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>K</p></td>
 <td><p>周桐冉</p></td>
 <td></td>
@@ -906,7 +895,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>C</p></td>
 <td><p>左欣</p></td>
 <td></td>
@@ -917,7 +906,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Z</p></td>
 <td><p>赵欣雨</p></td>
 <td></td>
@@ -928,7 +917,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>E</p></td>
 <td><p>郑一凡</p></td>
 <td></td>
@@ -939,7 +928,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>BEJ预</p></td>
 <td><p>张语倩</p></td>
 <td></td>
@@ -950,7 +939,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>K</p></td>
 <td><p>赵泽慧</p></td>
 <td></td>
@@ -961,7 +950,7 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>GNZ预</p></td>
 <td><p>章泽婷</p></td>
 <td></td>
@@ -972,13 +961,57 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>GNZ预</p></td>
 <td><p>张紫颖</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/广东" title="wikilink">广东</a> <a href="https://zh.wikipedia.org/wiki/阳江" title="wikilink">阳江</a></p></td>
 <td><p>GNZ48 4期</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 暂休成员
+
+<table>
+<thead>
+<tr class="header">
+<th><p>原属<br />
+队伍</p></th>
+<th><p>姓名</p></th>
+<th><p>读音</p></th>
+<th><p>出生日期</p></th>
+<th><p>出生地</p></th>
+<th><p>加入期别</p></th>
+<th><p>列入<br />
+暂休名单<br />
+日期</p></th>
+<th><p>总选举<br />
+最高<br />
+名次</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>CKG预</p></td>
+<td><p>赵思雨</p></td>
+<td></td>
+<td><p>5月7日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/四川" title="wikilink">四川</a></p></td>
+<td><p>CKG48 3期</p></td>
+<td><p>2019年5月10日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1056,12 +1089,18 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>全</p></td>
+<td><p>正</p></td>
+<td><p>暂</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2019年</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1月19日</p></td>
 <td><p>8名成员自SNH48移籍加入<br />
 14名成员自BEJ48移籍加入<br />
@@ -1071,26 +1110,55 @@ Group的组成部分。该团成员会透过运营商自有的渠道及其他第
 <td><p>+85</p></td>
 <td><p>85</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月11日</p></td>
 <td><p>原GNZ48预备生鄢羽蝶加入</p></td>
 <td><p>+1</p></td>
 <td><p>86</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月25日</p></td>
 <td><p>张丹三自SNH48移籍加入</p></td>
 <td><p>+1</p></td>
 <td><p>87</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月26日</p></td>
 <td><p>程子钰、代玲、黄黎蓉请辞</p></td>
 <td><p>-3</p></td>
 <td><p>84</p></td>
 </tr>
+<tr class="odd">
+<td><p>5月10日</p></td>
+<td><p>赵思雨暂休</p></td>
+<td></td>
+<td><p>84</p></td>
+</tr>
 </tbody>
 </table>
+
+## 代役及进入正式团体规则
+
+### SNH48、BEJ48、GNZ48
+
+IDOLS Ft成员需满足以下要求则可获得申请进入SNH48、BEJ48、GNZ48代役机会。成员将根据IDOLS
+Ft每月排名以及个人意愿，进行报名申请，由各分团的运营公司进行评估。符合该团条件以及与成员个人意愿一致的成员，将可进入该分团进行代役，参与该团体的活动及外务，亦可以获得参加SNH48
+Group年度大型团体活动的机会。符合条件的成员，若自行放弃当月代役机会，则在3个月内不再重新安排代役申请。若成员代役申请被所申请分团拒绝，则下个月仍可继续申请其他分团的代役请求。
+
+1.  单月IDOLS Ft总分累计超过10万分。
+2.  单月IDOLS Ft总分排名于前15名。
+3.  在进行IDOLS Ft活动中无任何违反成员守则行为。
+4.  可以全身心投入到正式团体的日常工作中。
+
+当成员在代役队伍中代役场次满20场且在代役期间无任何违规行为，或是在SNH48
+Group年度偶像人气总决选中报成绩排名TOP48，或是连续4个月于IDOLS
+Ft排名中排名第一且每月总分超过20万分，则可获得进入正式团体的机会。以上条件均需在代役期间完成则可进入正式团体。
+
+### CKG48
+
+IDOLS Ft成員均可參加CKG48的多項綜合考核，達標的IDOLS
+Ft成员则可以加入CKG48，参与CKG48所有相關活動。而进入CKG48之成员仍属于IDOLS
+Ft，但将可以以CKG48成员名义参与团体活动。
 
 ## 争议
 

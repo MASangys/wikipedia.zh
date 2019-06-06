@@ -60,13 +60,34 @@ label6 = 單元劇/短劇 | data6 = 2 }}
 2.Ella以此劇入圍《<a href="https://zh.wikipedia.org/wiki/第41屆金钟奖" title="wikilink">第41屆金钟奖</a>》<a href="../Page/金鐘獎戲劇節目女主角獎得獎列表.md" title="wikilink">戲劇節目類最佳女主角</a></p></td>
 </tr>
 <tr class="even">
+<td><p>2006年11月19日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/華視" title="wikilink">華視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/花樣少年少女" title="wikilink">花樣少年少女</a></p></td>
+<td><p>盧瑞莃（Ella 飾）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2007年7月20日</p></td>
 <td><p><a href="../Page/Channel_V.md" title="wikilink">Channel [V</a>]</p></td>
 <td><p>棒棒堂偶像劇-愛情來了</p></td>
 <td><p>S.H.E三人皆飾演本人</p></td>
 <td><p>短劇</p></td>
 </tr>
+<tr class="even">
+<td><p>2010年1月31日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中視" title="wikilink">中視</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/就想賴著你" title="wikilink">就想賴著你</a></p></td>
+<td><p>楊果（Ella 飾）</p></td>
+<td></td>
+</tr>
 <tr class="odd">
+<td><p>2014年10月5日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/中視" title="wikilink">中視</a></p></td>
+<td><p><a href="../Page/謊言遊戲.md" title="wikilink">謊言遊戲</a></p></td>
+<td><p>孫真（Ella 飾）</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

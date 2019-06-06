@@ -1,0 +1,37 @@
+**圆通桥**，曾用名为**广济桥**、**大通桥**，是一座位于[中国](https://zh.wikipedia.org/wiki/中国 "wikilink")[广东省](../Page/广东省.md "wikilink")[惠州市](../Page/惠州市.md "wikilink")[惠城区的大桥](../Page/惠城区.md "wikilink")，连接[龙丰与](https://zh.wikipedia.org/wiki/龙丰街道 "wikilink")[桥西两地](https://zh.wikipedia.org/wiki/桥西街道_\(惠州市\) "wikilink")。该桥始建于[明](../Page/明朝.md "wikilink")[正德十三年](https://zh.wikipedia.org/wiki/正德_\(年号\) "wikilink")（公元1518年），而现今的北侧桥梁于1992年10月动工建设，1993年8月1日开放车辆通行；现今的南侧桥梁于2013年12月22日重建，并于2014年10月31日开放车辆通行。
+
+该桥梁是[惠州西湖](../Page/惠州西湖.md "wikilink")“五湖六桥八景”中“六桥”的第六桥，亦是其中惟一的交通桥梁。
+
+## 构造
+
+## 历史
+
+### 行人桥梁时期
+
+### 行车桥梁时期
+
+## 连接道路
+
+### 龙丰端
+
+  - [鹅岭北路](https://zh.wikipedia.org/wiki/鹅岭北路 "wikilink")
+  - [鹅岭北路横街](https://zh.wikipedia.org/wiki/鹅岭北路横街 "wikilink")
+
+### 桥西端
+
+  - [环城西路](https://zh.wikipedia.org/wiki/环城西路 "wikilink")
+  - [后所街](https://zh.wikipedia.org/wiki/后所街 "wikilink")
+  - [长寿路](https://zh.wikipedia.org/wiki/长寿路_\(惠州\) "wikilink")
+
+## 行经公共交通
+
+## 事件
+
+## 关联艺术创作
+
+## 参考资料
+
+    [[Category:惠州桥梁|Category:惠州桥梁]]
+    [[Category:1993年完工橋梁|Category:1993年完工橋梁]]
+    [[Category:2014年完工橋梁|Category:2014年完工橋梁]]
+    [[Category:拱桥|Category:拱桥]]

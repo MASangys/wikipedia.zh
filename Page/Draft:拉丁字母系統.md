@@ -46,9 +46,9 @@ indigenous [American](../Page/美洲原住民語言.md "wikilink"),
 [African](../Page/非洲语言.md "wikilink") languages. More recently,
 [linguists](../Page/语言学.md "wikilink") have also tended to prefer the
 Latin script or the [International Phonetic
-Alphabet](https://zh.wikipedia.org/wiki/國際音標 "wikilink") (itself largely
-based on the Latin script) when transcribing or creating written
-standards for non-European languages, such as the [African reference
+Alphabet](../Page/國際音標.md "wikilink") (itself largely based on
+the Latin script) when transcribing or creating written standards for
+non-European languages, such as the [African reference
 alphabet](../Page/非洲参考字母.md "wikilink").
 
 The term *Latin alphabet* may refer to either the alphabet used to write

@@ -116,7 +116,7 @@ Survival**》（）為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")�
 <tr class="odd">
 <td><p><a href="../Page/金秀路.md" title="wikilink">金秀路</a></p></td>
 <td><p>김수로</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a></p></td>
+<td><p><a href="../Page/演員.md" title="wikilink">演員</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/Sunny_(少女時代).md" title="wikilink">Sunny</a></p></td>

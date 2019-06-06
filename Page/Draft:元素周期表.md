@@ -305,7 +305,7 @@ the rest of the noble gases have eight.
 
 ###  关于IIIB族与第6、7周期上元素的问题
 
-尽管钪和钇一直都是第三族元素的前两个，接下来的两个元素的真身仍未确定。它们一般是[镧和](../Page/镧.md "wikilink")[锕](https://zh.wikipedia.org/wiki/锕 "wikilink")，但有时是[镥和](../Page/镥.md "wikilink")[鐒](../Page/鐒.md "wikilink")。这两个变体源于历史上将镧系元素放置在周期表中的困难，以及关于f区元素开始和结束的位置的争议。\[143\]{{\#tag:ref|But
+尽管钪和钇一直都是第三族元素的前两个，接下来的所屬两个元素仍有待商榷。一般認為它们是[镧和](../Page/镧.md "wikilink")[锕](https://zh.wikipedia.org/wiki/锕 "wikilink")，但有时是[镥和](../Page/镥.md "wikilink")[鐒](../Page/鐒.md "wikilink")。这两个說法源于历史上将镧系元素放置在周期表中的困难，以及关于f区元素开始和结束位置的争议。\[143\]{{\#tag:ref|But
 for the existence of the lanthanides the composition of group 3 would
 not have been a source of any special interest, since scandium, yttrium,
 lanthanum and actinium exhibit the same gradual change in properties as
@@ -340,12 +340,12 @@ on the Physics and Chemistry of the Rare Earths.* **41**. Amsterdam:
 Elsevier, pp. 1–94; Seaborg G. T. (1994). Origin of the Actinide
 Concept'. In K. A. Gschneider Jr. (ed). *Handbook on the Physics and
 Chemistry of the Rare Earths*. **18**. Amsterdam: Elsevier, pp.
-1–27.|group=n}} 有人声称这样的争议证明，“将周期系统分解为明确划分的区块是错误的”。\[145\]
+1–27.|group=n}} 有人声称这样的争议证明，“将周期系统分拆为明确划分的区块是错误的”。\[145\]
 第三种变体显示[钇下面的两个位置被镧系元素和锕系元素占据](../Page/钇.md "wikilink")。
 
 已经有化学和物理论据提出来支持镥和铹要置于这两个位置，\[146\]\[147\]但大多数元素周期表制作者都对此不置信。\[148\]
-大部分活跃的化学家都不知道有此争议。\[149\] 在2015年12月成立了一项
-[國際純化學和應用化學聯合會项目](../Page/國際純化學和應用化學聯合會.md "wikilink")，就此事提出建议。\[150\]
+大部分活跃的化学家都不知道有此争议。\[149\]
+2015年12月，[國際純化學和應用化學聯合會成立了一项项目](../Page/國際純化學和應用化學聯合會.md "wikilink")，就此事提出建议。\[150\]
 
 #### 镧与锕
 
@@ -365,13 +365,12 @@ Oxford University Press • Myers et al. (2004). *Holt Chemistry*.
 Orlando: Holt, Rinehart & Winston •  (2000). *Essential Chemistry* (2nd
 ed.). Boston:
 McGraw-Hill|group=n}}有人提出这种布局随着依赖于元素的电子构型和区分电子的概念的周期表的出现而起源于20世纪40年代。
-[铯](../Page/铯.md "wikilink")、[钡和镧的构型是](../Page/钡.md "wikilink")\[Xe\]6s<sup>1</sup>、\[Xe\]6s<sup>2</sup>和\[Xe\]5d<sup>1</sup>6s<sup>2</sup>。因此，镧具有5d分化电子，这使其“在第3组中作为第6期的d区的第一个成员”。\[152\]
-A consistent set of electron configurations is then seen in group 3:
-[钪](../Page/钪.md "wikilink") \[Ar\]3d<sup>1</sup>4s<sup>2</sup>,
-yttrium \[Kr\]4d<sup>1</sup>5s<sup>2</sup> and lanthanum
-\[Xe\]5d<sup>1</sup>6s<sup>2</sup>. Still in period 6,
-[镱](../Page/镱.md "wikilink") was assigned an electron configuration
-of \[Xe\]4f<sup>13</sup>5d<sup>1</sup>6s<sup>2</sup> and
+[铯](../Page/铯.md "wikilink")、[钡和镧的构型是](../Page/钡.md "wikilink")\[Xe\]6s<sup>1</sup>、\[Xe\]6s<sup>2</sup>和\[Xe\]5d<sup>1</sup>6s<sup>2</sup>。因此，镧具有5d分化电子，这使其“在第3组中作为第6周期的d区的第一个成员”。\[152\]
+然后在第3组中可以看到一组一致的电子构型： [钪](../Page/钪.md "wikilink")
+\[Ar\]3d<sup>1</sup>4s<sup>2</sup>、钇
+\[Kr\]4d<sup>1</sup>5s<sup>2</sup>和镧\[Xe\]5d<sup>1</sup>6s<sup>2</sup>。还是在第六周期中，[镱](../Page/镱.md "wikilink")
+was assigned an electron configuration of
+\[Xe\]4f<sup>13</sup>5d<sup>1</sup>6s<sup>2</sup> and
 [镥](../Page/镥.md "wikilink")
 \[Xe\]4f<sup>14</sup>5d<sup>1</sup>6s<sup>2</sup>, "resulting in a 4f
 differentiating electron for lutetium and firmly establishing it as the
@@ -408,12 +407,11 @@ f-block elements are Ce 1, Pr 2 and Nd 3.\[160\]
 </tbody>
 </table>
 
-In other tables, lutetium and lawrencium are the remaining group 3
-members.{{\#tag:ref|For examples of the group 3 = Sc-Y-Lu-Lr table see
-Rayner-Canham G. & Overton T. (2013). *Descriptive Inorganic Chemistry*
-(6th ed.). New York: W. H. Freeman and Company • Brown et al. (2009).
-*Chemistry: The Central Science* (11th ed.). Upper Saddle River, New
-Jersey: Pearson Education • Moore et al. (1978). *Chemistry*. Tokyo:
+在其他表格中，镥与铹是剩余的3族成员。{{\#tag:ref|For examples of the group 3 = Sc-Y-Lu-Lr
+table see Rayner-Canham G. & Overton T. (2013). *Descriptive Inorganic
+Chemistry* (6th ed.). New York: W. H. Freeman and Company • Brown et al.
+(2009). *Chemistry: The Central Science* (11th ed.). Upper Saddle River,
+New Jersey: Pearson Education • Moore et al. (1978). *Chemistry*. Tokyo:
 McGraw-Hill Kogakusha|group=n}} Early techniques for chemically
 separating scandium, yttrium and lutetium relied on the fact that these
 elements occurred together in the so-called "yttrium group" whereas La
@@ -604,24 +602,12 @@ necessarily the end of the periodic table.\[189\]
 
 ### 最优排列方式
 
-The many different forms of periodic table have prompted the question of
-whether there is an optimal or definitive form of periodic table.\[190\]
-The answer to this question is thought to depend on whether the chemical
-periodicity seen to occur among the elements has an underlying truth,
-effectively hard-wired into the universe, or if any such periodicity is
-instead the product of subjective human interpretation, contingent upon
-the circumstances, beliefs and predilections of human observers. An
-objective basis for chemical periodicity would settle the questions
-about the location of hydrogen and helium, and the composition of group
-3. Such an underlying truth, if it exists, is thought to have not yet
-been discovered. In its absence, the many different forms of periodic
-table can be regarded as variations on the theme of chemical
-periodicity, each of which explores and emphasizes different aspects,
-properties, perspectives and relationships of and among the
-elements.{{\#tag:ref|, one of the foremost authorities on the history of
-the periodic table,\[191\] favoured the concept of an optimal form of
-periodic table but has recently changed his mind and now supports the
-value of a plurality of periodic tables.\[192\]|group=n}}
+各种不同格式的周期表使人们产生了以下问题：是否存在一个最理想的或有确切格式的周期表。\[190\]
+一般认为，这个问题的答案取决于元素的化学周期性是否基于某种规则，与宇宙的联系是否紧密高效，或者说这些周期性都只是基于人类观察者的环境、信仰和偏好所主观解释的产物。化学周期性的一个客观标准将解决有关氢和氦的位置与III族组成的问题。这种未被证实的理论即使存在也被认为仍未被发现。在其缺失的情况下，各种不同格式的周期表可以看作是化学周期性主题的变化，每一种周期表都探究并强调了这些元素之间特征、性质、属性和关系的不同。{{\#tag:ref|,
+one of the foremost authorities on the history of the periodic
+table,\[191\] favoured the concept of an optimal form of periodic table
+but has recently changed his mind and now supports the value of a
+plurality of periodic tables.\[192\]|group=n}}
 
 ## 请参阅
 

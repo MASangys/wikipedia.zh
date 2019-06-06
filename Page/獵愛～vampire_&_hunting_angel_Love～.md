@@ -87,7 +87,7 @@ Think & Write
 
 ## 外部連結
 
-  - [九祐小姬個人網站](https://chuixueji.wordpress.com/)
+  - [獵愛～vampire & hunting angel Love～官方網站](https://www.bloodvhal.com/)
 
   -
 ## 參考資料

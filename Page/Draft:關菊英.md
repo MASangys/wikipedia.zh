@@ -951,5 +951,4 @@ Ying*'；），[香港歌手及演員](../Page/香港.md "wikilink")。
 [Category:溫哥華人](https://zh.wikipedia.org/wiki/Category:溫哥華人 "wikilink")
 [Category:素食主義者](https://zh.wikipedia.org/wiki/Category:素食主義者 "wikilink")
 [Category:香港女同性戀者](https://zh.wikipedia.org/wiki/Category:香港女同性戀者 "wikilink")
-[Category:香港甘草演員](https://zh.wikipedia.org/wiki/Category:香港甘草演員 "wikilink")
 [Category:關姓](https://zh.wikipedia.org/wiki/Category:關姓 "wikilink")

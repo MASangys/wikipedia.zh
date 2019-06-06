@@ -90,7 +90,8 @@ Crane指出，阿蒙森所募集的政府和私人資助都指定作北極科考
 10月初，关于阿蒙森修订计划的消息传到挪威，引起了大家的强烈反对。尽管南森给予他的祝福和赞同，
 除少数人赞同之外，阿蒙森的行动受到媒体和公众的谴责，后续资金几乎没有任何着落。可以预见是英国的反应是负面的。凯尔蒂起初表示不相信，但很快就变成了轻蔑而愤怒。
 “我已经把阿蒙森的行为全部细节寄给了斯科特…如果我是斯科特，我不会让他们着陆。”颇具影响力的RGS前总裁[克莱门茨•马卡姆爵士写道](https://zh.wikipedia.org/wiki/克莱门茨•马卡姆 "wikilink")
-。 由于不知道世界的反应，弗拉姆向南航行了四个月。 第一座冰山在1911年元旦被发现的；屏障本身于1月11日出现。1月14日，弗拉姆在鲸湾。
+。 由于不知道世界的反应，弗拉姆向南航行了四个月。
+第一座冰山在1911年元旦被发现的；冰障于1月11日出现在他们的视野里。而1月14日，前进号出现在了鲸湾。
 
 *标注：* *如感觉翻译不准确，请修改后删除这段文字！*
 
@@ -117,114 +118,47 @@ Crane指出，阿蒙森所募集的政府和私人資助都指定作北極科考
 
 ### 建站旅程
 
-In early February 阿蒙森 began organising the depot-laying journeys across
-the Barrier, in preparation for the following summer's assault on the
-pole. Supply depots laid in advance at regular intervals on the
-projected route would limit the amount of food and fuel that the South
-Pole party would have to carry. The depot journeys would be the first
-true tests of equipment, dogs and men. For the first journey, to begin
-on 10 February, 阿蒙森 chose Prestrud, Helmer Hanssen and Johansen to
-accompany him; 18 dogs would pull three sledges. Before leaving, 阿蒙森
-left instructions with Nilsen regarding *Fram*. The ship was to sail to
-Buenos Aires for reprovisioning, before undertaking a programme of
-oceanographic work in the [Southern Ocean](../Page/南冰洋.md "wikilink")
-and then returning to the Barrier as early as possible in 1912.
+二月初，阿蒙森开始了建立补给站的行程，他们穿越冰障为来年夏季向南极点的冲刺做准备。预先在预定路线上固定间距设置的补给站将限制南极队可携带的粮食和燃料的数量。这段筹备之行是对设备、雪橇犬、队员的重大挑战。二月十日，阿蒙森带上普雷斯特鲁德、赫尔默·汉森和西奥马尔·约翰森以及十八条雪橇犬、三架雪橇出发了。启程之前，他向尼尔森传达了给*前进号*的指示——在进行对[南冰洋的考察之前](https://zh.wikipedia.org/wiki/Southern_Ocean "wikilink")，他们将前往布宜诺斯艾利斯寻求补给，并趁早在1912年返回这里。
 
-When the four men began their journey south, their only knowledge of the
-Barrier was from books previous explorers had published, and they
-anticipated difficult travelling conditions. They were surprised to find
-the Barrier surface was much like that of a conventional glacier; they
-covered  on the first day. 阿蒙森 noted how well his dogs were performing
-in these conditions, and wondered at the English aversion to the use of
-dogs on the Barrier. The party reached 80° S on 14 February, and after
-laying the depot turned for home, reaching Framheim on 16 February.
+当这四人出发时 ，他们对冰障仅有的知识仅限于探险家们的出版物，这就是队员们所能预料到的艰难境遇。第一天，他们在和冰川相似的冰障表面走了
+。阿蒙森记录下了雪橇犬在冰面上的优秀表现和对英国人不愿使用雪橇犬的诧异。二月十四日，他们抵达80°\&nbsp，S并在放置好物资后于二月十六日返回基地“弗拉姆之家”。
 
-The second depot-laying party left Framheim on 22 February, with eight
-men, seven sledges and forty-two dogs. Conditions on the Barrier had
-deteriorated sharply; average temperatures had dropped by 9 °C (16 °F),
-and rough snow had drifted across the previously smooth ice surface. In
-temperatures sometimes as low as , on 3 March the party reached 81° S,
-where they established a second depot. 阿蒙森, Helmer Hanssen, Prestrud,
-Johansen and Wisting then continued with the strongest dogs, hoping to
-reach 83° S, but in difficult conditions they halted at 82° S on
-8 March. 阿蒙森 could see that the dogs were exhausted; the party turned
-for home, and with light sledges travelled swiftly to reach Framheim on
-22 March. 阿蒙森 wanted more supplies taken south before the impending
-[polar night](https://zh.wikipedia.org/wiki/极夜 "wikilink") made travel
-impossible, and on 31 March a party of seven men led by Johansen left
-Framheim for the 80° S depot with six slaughtered seals— of meat. The
-party returned on 11 April—three days later than expected—after they
-strayed into a field of crevasses.
+第二支补给队于二十二日出发，包括十名队员，七架雪橇和四十二只雪橇犬。但冰面上的条件恶化了，平均气温下降了9 °C
+(16 °F)，粗糙的雪粒横扫无比光滑的冰面。三月三日，气温有时低至零下四十摄氏度，队员们抵达了81° S并建立了第二个补给站。阿蒙森，赫尔默·汉森和普雷斯特鲁德带领最强壮的雪橇犬，希望可以突破83° S，但由于恶劣的环境，队伍停滞在南纬82° 。雪橇犬全部精疲力尽
+，这支队伍迅速掉头回家，带着轻便的雪橇板于三月二十二日回到基地 。阿蒙森希望在即将降临的
+[极夜使南行变得不可能之前派送更多物资向南](https://zh.wikipedia.org/wiki/polar_night "wikilink")，于是三月三十日，队员一行七人在约翰森的带领下从南纬80° 启程，带着他们的物资——六只海豹的肉
+。队员们在四月十一日返回——因为在冰隙中迷路而比预期迟了三天。
 
-Overall, the depot-laying journeys established three depots containing
-of supplies, which included  of seal meat and  of [paraffin
-oil](https://zh.wikipedia.org/wiki/煤油 "wikilink"). 阿蒙森 learned much from
-the journeys, especially on the second, when the dogs struggled with
-sledges that were too heavy. He decided to increase the number of dogs
-for the polar journey, if necessary at the expense of the number of men.
-The journeys revealed some disunity among the men, particularly between
-Johansen and 阿蒙森. During the second depot journey, Johansen openly
-complained about the unsatisfactory nature of the equipment; 阿蒙森
-believed that his authority had been challenged.
+总的来说，建站旅程建立了三个补给站，容纳了镑海豹肉和 和四十加仑石蜡油 。
+阿蒙森从中收获很多，尤其是第二次旅程，当雪橇犬挣扎着拖动过于沉重的货物时。他决定增加参与极地之行的雪橇犬数目，如果有必要，以牺牲人数为代价。约翰森和阿蒙森的矛盾在行程中显露出来，在第二趟建站旅程中，约翰森公然抱怨设施的不完善，使阿蒙森觉得他的权威地位受到了威胁
+。
+
+*标注：水平有限，欢迎修改！*
 
 ### 冬天
 
-The sun set over Framheim on 21 April, not to reappear for four months.
-阿蒙森 was mindful of the boredom and loss of morale that had blighted
-the *Belgica* expedition's winter in the ice, and although there was no
-possibility of sledging he ensured that the shore party kept busy. One
-urgent task was to improve the sledges, which had not worked well during
-the depot journeys. In addition to those chosen specifically for the
-expedition, 阿蒙森 had brought along several sledges from Sverdrup's
-1898–1902 *Fram* expedition, which he now thought would be better
-suited to the task ahead. Bjaaland reduced the weight of these older
-sledges by almost a third by
-[planing](https://zh.wikipedia.org/wiki/刨 "wikilink") down the timber,
-and also constructed three sledges of his own from some spare
-[hickory](../Page/山核桃属.md "wikilink") wood. The adapted sledges were to
-be used to cross the Barrier, while Bjaaland's new set would be used in
-the final stages of the journey, across the [polar
-plateau](https://zh.wikipedia.org/wiki/南極高原 "wikilink") itself. Johansen
-prepared the sledging rations (42,000 biscuits, 1,320 tins of pemmican
-and about  of chocolate), while other men worked on improving the boots,
-cooking equipment, goggles, skis and tents. To combat the dangers of
-scurvy, twice a day the men ate seal meat that had been collected and
-frozen in quantities before the onset of winter. The cook, Lindstrøm,
-supplemented the vitamin C intake with bottled
-[cloudberries](../Page/雲莓.md "wikilink") and
-[blueberries](../Page/藍莓.md "wikilink"), and provided wholemeal
-bread made with fresh yeast, rich in [B
-vitamins](https://zh.wikipedia.org/wiki/维生素B "wikilink").
+四月二十一日，日落降临在弗拉姆之家上空，太阳在地平线下隐没了整整四个月。
+阿蒙森注意到了极夜和严冬带来的厌倦削弱了*比利时人号*上探险队员们的士气。尽管不能拉雪橇，他还是确保队员们在岸上有所忙碌。
+而他们的当务之急就是改进在建站之旅中使用笨重的雪橇。除了那些专门为探险准备的，阿蒙森还从*前进号*（Sverdrup
+1898-1902）上带来一些他认为更能胜任当前任务的雪橇。通过[刨木材](https://zh.wikipedia.org/wiki/planning "wikilink")，比阿兰德将雪橇的重量减轻了将近三分之一，他还用剩余的[山核桃木做了三架雪橇](https://zh.wikipedia.org/wiki/hickory "wikilink")。改良的雪橇将用于穿越冰障，而比阿兰德新做的用于探险的最后阶段——穿越[南极高原](https://zh.wikipedia.org/wiki/polar_plateau "wikilink")
+。约翰森准备了口粮（42000个小面包，1320罐干肉饼和约220英镑的巧克力）,而其他人忙于改良靴子、烹饪设备、护目镜、滑雪板和帐篷。为了抵御坏血病的威胁，他们每天吃两次海豹肉，这些海豹肉是在冬天来临之前大量收集并冷冻起来的。厨师林德斯托姆准备了成罐的
+[云莓](https://zh.wikipedia.org/wiki/cloudberries "wikilink") 和
+[蓝莓作为维生素C的补剂](https://zh.wikipedia.org/wiki/blueberries "wikilink")，还有富含[维生素B的酵母做成的全麦面包](https://zh.wikipedia.org/wiki/B_vitamins "wikilink")。
 
-While 阿蒙森 was confident in his men and equipment, he was, Hassel
-recorded, tormented by thoughts of Scott's motor sledges and the fear
-that these would carry the British party to success. With this in mind
-阿蒙森 planned to begin the polar journey as soon as the sun rose in
-late August, though Johansen warned that it would be too cold on the
-Barrier so early in the season. 阿蒙森 overruled him, and at sunrise on
-24 August seven sledges were made ready. Johansen's concerns seemed
-justified, as harsh conditions for the next two weeks—temperatures as
-low as —prevented the men from leaving. On 8 September 1911, when the
-temperature rose to , 阿蒙森 decided he could wait no longer, and the party
-of eight set off; Lindstrøm remained alone at Framheim.
+据哈塞尔回忆，虽然阿蒙森对他的队员和设施信心满满，但关于斯科特机动雪橇的念头折磨着他，他害怕这些英国佬会因这些设施而先他们一步成功。这促使阿蒙森计划当八月末太阳一升起，就开始极点之旅。约翰森警告他那时冰障上会无比寒冷，阿蒙森否决了这个提议。八月二十四日，太阳升起之时，七架雪橇已经蓄势待发。约翰森对恶劣条件的担忧是合理的，因为在接下来的两个星期里气温低至——阻止了他们启程。
+1911年九月八日，气温回升到 ，阿蒙森无法再继续等待，他下令让八人队出发，而林德斯托姆独自坚守在弗拉姆之家。
+
+*水平有限，欢迎修改和指正*
 
 ## 第二季度，1911–12年
 
 ### 错误的开始
 
-The party made good initial progress, travelling around  each day. The
-dogs ran so hard that several from the strongest teams were detached
-from the traces and secured onto the sledges to act as ballast. In their
-wolf-skin and reindeer-skin clothing the men could cope with the
-freezing temperatures while they kept moving, but when they stopped they
-suffered, and barely slept at night. The dogs' paws became frostbitten.
-On 12 September, with temperatures down to , the party halted after only
- and built [igloos](../Page/冰屋.md "wikilink") for shelter. 阿蒙森 now
-recognised that they had started the march too early in the season, and
-decided they should return to Framheim. He would not risk the lives of
-men and dogs for reasons of stubbornness. Johansen, in his diary, wrote
-of the foolishness of starting prematurely on such a long and historic
-journey, and of the dangers of an obsession with beating the English.
+一行人最开始取得了很好的进展, 每天能推进约 。雪橇被狗拉的飞快，快到几只最强壮的狗必须要被固定在雪橇作为压舱物。
+穿着厚实的狼皮和鹿皮衣的队员们不光为了保持体温必须不停的走路，晚上还无法入眠。
+9月12日当天，气温很快降到了零下56摄氏度（零下69华氏度），狗的脚掌已经冷出了冻霜。一行人在寒冷的气温下仅仅行进4海里（7.4千米）被迫停止后原地搭建了冰屋
+ 阿蒙森意识到了一行人过早地开始了他们的征程，并且考虑到一行人和狗的生命安全决定返回福莱海姆营地。
+随后，约翰森在日记中写下了一行人在缺乏准备的情况下开始这样危险和有历史性的征程的愚蠢。
 
 On 14 September, on their way back to Framheim, they left most of their
 equipment at the 80° S depot, to lighten the sledges. Next day, in
@@ -274,223 +208,101 @@ Glacier](https://zh.wikipedia.org/wiki/阿塞爾海伯格冰川 "wikilink")，
 #### 迈向极点的征程
 
 [Axel_Heiberg_Glacier_-_Antarctica.JPG](https://zh.wikipedia.org/wiki/File:Axel_Heiberg_Glacier_-_Antarctica.JPG "fig:Axel_Heiberg_Glacier_-_Antarctica.JPG")
-(also called the polar plateau)\]\] Upon reaching  at the summit of the
-glacier, at 85° 36′ S, 阿蒙森 prepared for the final stage of the journey.
-Of the 45 dogs who had made the ascent (7 had perished during the
-Barrier stage), only 18 would go forward; the remainder were to be
-killed for food. Each of the sledge-drivers killed dogs from his own
-team, skinned them, and divided the meat between dogs and men. "We
-called the place the Butchers' Shop", 阿蒙森 recalled. "\[T\]here was
-depression and sadness in the air; we had grown so fond of our dogs".
-Regrets did not prevent the team from enjoying the plentiful food;
-Wisting proved particularly skilful in his preparation and presentation
-of the meat.
+(also called the polar plateau)\]\] 在抵达冰川的最高点
+（85°36′S）后，阿蒙森开始准备最后一段征程。45只雪橇犬中（其中7条在穿越冰障中死去），仅剩18只可以继续工作，剩下20只则被杀掉充饥。每位雪橇驾驶者都从自己队里杀掉狗，将肉分给同伴和剩余的雪橇犬。“我们称这里为屠夫商店”阿蒙森回忆道，“空气中弥漫着沉重和伤感，我们曾经如此喜爱我们的犬类伙伴。”但是遗憾的情绪并没有妨碍队员们享用丰盛的食物，威斯汀熟练的烹饪和上菜证明了这点。
 
-The party loaded up three sledges with supplies for a march of up to
-60 days, leaving the remaining provisions and dog carcasses in a depot.
-Bad weather prevented their departure until 25 November, when they set
-off cautiously over the unknown ground in persistent fog. They were
-travelling over an icy surface broken by frequent crevasses, which
-together with the poor visibility slowed their progress. 阿蒙森 called this
-area the "Devil's Glacier". On 4 December they came to an area where the
-crevasses were concealed under layers of snow and ice with a space
-between, which gave what 阿蒙森 called an "unpleasantly hollow" sound as
-the party passed over it. He christened this area "The Devil's
-Ballroom." When later that day they emerged on to more solid ground,
-they had reached 87° S.
+队员们准备了60天的补给，载满了整整三架雪橇，他们将剩下的食物和狗的尸体留在了补给站。恶劣的天气阻碍他们出发，直到11月25日，他们才小心翼翼地在浓雾中向未知的冰域前进。
+这里遍布的冰隙和低能见度使他们进展缓慢。阿蒙森将这片区域成为“魔鬼冰川”。12月4日，他们来到“死亡真空”，在这里，积雪和冰层下暗藏着危险的冰隙。阿蒙森将这里命名为“撒旦的舞池”
+第二天，他们踏上了坚实的冰面——87°S。
 
-On 8 December the Norwegians passed Shackleton's Farthest South record
-of 88° 23′. As they neared the pole, they looked for any break in the
-landscape that might indicate another expedition had got there ahead of
-them. While camped on 12 December they were momentarily alarmed by a
-black object that appeared on the horizon, but this proved to be their
-own dogs' droppings off in the distance, magnified by mirage. Next day
-they camped at 89° 45′ S,  from the pole. On the following day,
-14 December 1911, with the concurrence of his comrades 阿蒙森 travelled in
-front of the sledges, and at around 3 pm the party reached the vicinity
-of the South Pole. They planted the Norwegian flag and named the polar
-plateau "King Haakon VII's Plateau". 阿蒙森 later reflected on the irony of
-his achievement: "Never has a man achieved a goal so diametrically
-opposed to his wishes. The area around the North Pole—devil take it—had
-fascinated me since childhood, and now here I was at the South Pole.
-Could anything be more crazy?"
+12月8日，挪威人们打破了英国探险家沙克尔顿创下的向南极探险的最远记录88°23′。
+当他们接近极点，他们找寻着任何可能表明另一支队伍已经领先于他们抵达的迹象。12月12日，出现在营地地平线上的黑色物体使他们立刻警觉起来，但那只是远处被海市蜃楼放大的雪橇犬的粪便。
+第二天，他们在距离极点的89°45′S扎营。翌日，1911年12月14日，阿蒙森走在雪橇的最前面，在队员们的协调合作下，他们在下午三点抵达了南极点附近。
+他们插上国旗，并将极地高原命名为“哈康七世高原”。
+阿蒙森后来如此回应那些对他成就的讽刺：“没有哪个人实现目标同他的初衷如此完全相反。北极——在撒旦的驱使下——我从童年起为之深深着迷，而今，我站在南极点上。还有什么能比这更疯狂的吗？”
 
-For the next three days the men worked to fix the exact position of the
-pole; after the conflicting and disputed claims of Cook and Peary in the
-north, 阿蒙森 wanted to leave unmistakable markers for Scott. After taking
-several [sextant](../Page/六分仪.md "wikilink") readings at different times
-of day, Bjaaland, Wisting and Hassel skied out in different directions
-to "box" the pole; 阿蒙森 reasoned that between them they would bracket the
-exact point. Finally the party pitched a tent, which they called , as
-near as possible to the actual pole as they could calculate by their
-observations. In the tent 阿蒙森 left equipment for Scott, and a letter
-addressed to King Haakon which he requested Scott to deliver.
+接下来的三天里，队员们忙于确定极点的精确位置。在发生库克和皮尔里在北极点的矛盾和争议后，阿蒙森想给对手斯科特留下明显的标记来宣告自己的成功。
+在一天多次读取[六分仪的数据后](https://zh.wikipedia.org/wiki/sextant "wikilink")，阿蒙森让比阿兰德、威斯汀和哈塞尔从不同方向冲袭极点，如此他们的滑行范围一定包括了极点。
+最终，他们在通过观测和估算后尽可能接近极点的地方搭建了一个帐篷，并称之为。里面留下了设备和仪器，还有一封阿蒙森写给国王哈康的信，他请斯科特寄给国王。
+
+标注：水平有限，欢迎修改和指正。
 
 #### 回到法兰海姆
 
-On 18 December, the party began the journey back to Framheim. 阿蒙森 was
-determined to return to civilisation before Scott, and be first with the
-news. Nevertheless, he limited their daily distances to , to preserve
-the strength of dogs and men. In the 24-hour daylight the party
-travelled during the notional night, to keep the sun at their backs and
-thus reduce the danger of
-[snow-blindness](https://zh.wikipedia.org/wiki/雪盲症 "wikilink"). Guided
-by the snow cairns built on their outward journey, they reached the
-Butchers' Shop on 4 January 1912, and began the descent to the Barrier.
-The men on skis "went whizzing down", but for the sledge drivers—Helmer
-Hanssen and Wisting—the descent was precarious; the sledges were hard to
-manoeuvre, and brakes were added to the runners to enable rapid stops
-when crevasses were encountered.
+12月18日，队员们启程返回“弗拉姆之家”。 阿蒙森决心赶在斯科特前返回有人类文明的大陆，成为被报道的第一人。
+不过，为了保存队员和雪橇犬的体力，他将速度限制在每天。队员们在24小时的白日极昼下前进，他们背向太阳因此减小患
+[雪盲症的可能性](https://zh.wikipedia.org/wiki/snow-blindness "wikilink")。在用于标记的雪堆的指引下，他们在1912年1月4日到达“屠夫商店”，随后沿着下坡路向冰障滑行。
+他们乘着滑雪板呼啸而过，但对于雪橇驾驶者汉森和威斯汀来说，下坡是充满不确定因素的。在这里雪橇难以控制，而他们要在遇到冰障时迅速减速制动。
 
-On 7 January, the party reached the first of their depots on the
-Barrier. 阿蒙森 now felt their pace could be increased, and the men adopted
-a routine of travelling , stopping for six hours, then resuming the
-march. Under this regime they covered around  a day, and on 25 January,
-at 4 am, they reached Framheim. Of the 52 dogs that had started in
-October, 11 had survived, pulling 2 sledges. The journey to the pole and
-back had taken 99 days—10 fewer than scheduled—and they had covered
-about .
+1月7日，队员抵达了他们在冰障上的第一个补给站。 阿蒙森认为是时候加速了，他们规定每行驶休息6小时，然后继续前进。
+以这个速度，队伍每天可以行进。在1月25日凌晨4点，他们回到了弗拉姆之家。10月11日的那个队伍中，52条雪橇犬仅剩11条顽强地拖着雪橇。这次极点之旅共历时99天——比预期短了10天——而他们共计行进了大约。
+
+*标注：水平有限，欢迎修改和指正。*
 
 #### 昭告世界
 
-On his return to Framheim, 阿蒙森 lost no time in winding up the
-expedition. After a farewell dinner in the hut, the party loaded the
-surviving dogs and the more valuable equipment aboard *Fram*, which
-departed the Bay of Whales late on 30 January 1912. The destination was
-[Hobart](../Page/荷巴特.md "wikilink") in
-[Tasmania](../Page/塔斯馬尼亞州.md "wikilink"). During the
-five-week voyage 阿蒙森 prepared his telegrams and drafted the first report
-that he would give to the press. On 7 March, *Fram* reached Hobart,
-where 阿蒙森 quickly learned there was as yet no news from Scott. He
-immediately sent telegrams to his brother Leon, to Nansen and to King
-Haakon, briefly informing them of his success. The next day he cabled
-the first full account of the story to London's **, to which he had sold
-exclusive rights. *Fram* remained in Hobart for two weeks; while there
-she was joined by 's ship **, which was in service with the . 阿蒙森
-presented them with a gift of his 11 surviving dogs.
+当阿蒙森回到弗拉姆之家，他不遗余力地结束了探险。在营房举办送别宴之后，队员们带着幸存的狗和有价值的设备登上前进号，于1912年1月30日从鲸湾启程。这次航行目的地是[塔斯馬尼亞州的](https://zh.wikipedia.org/wiki/Tasmania "wikilink")[荷巴特](https://zh.wikipedia.org/wiki/Hobart "wikilink")
+。在五个星期的航行中，阿蒙森准备了电报内容，起草了给新闻界的第一份报告。
+3月7日，“前进号”到达荷巴特，阿蒙森很快了解到至今还没有斯科特的消息。他立即给里昂、南森和国王哈康发了电报，简短告知他探险的成功的消息。第二天他通过海底电报将故事完整地叙述给伦敦**，并将版权卖给了他们。
+“前进号”在荷巴特停泊了两个星期，在那儿她被纳入了服役于的的'' 阿蒙森将幸存的11条雪橇犬作为礼物赠送给了他们。
 
 ### 其他成就
 
 #### 东边派对
 
-On 8 November 1911, Prestrud, Stubberud and Johansen had departed for
-King Edward VII Land. The search for the point at which the solid ice of
-the Barrier became ice-covered land proved difficult. On 1 December the
-party had their first sighting of what was indubitably dry land, a
-[nunatak](https://zh.wikipedia.org/wiki/冰原岛峰 "wikilink") which had been
-recorded by Scott during the  in 1902. After reaching this point they
-collected geological specimens and samples of mosses, and briefly
-explored their surroundings before returning to Framheim on 16 December.
-They were the first men to set foot on King Edward VII Land.
+1911年11月8日，普雷斯特鲁德、Stubberud和约翰森动身前往爱德华七世地（斯科特探险队率先发现的南极洲半岛）。
+要找到冰障坚实冰层下的确切位置是很难的。12月1日，陆地终于出现在他们的视野里，这无疑是斯科特的在1902年标记的
+[冰原岛峰](https://zh.wikipedia.org/wiki/nunatak "wikilink")。
+他们在这里采集了地质标本和苔藓样本，并在12月16日的返程前简略考察了周边的情况。
+他们成为第一批踏足爱德华七世地的人。
 
-#### *Fram*和*Kainan Maru*
+#### 前进号和开南丸号
 
-After leaving the Bay of Whales on 15 February 1911, *Fram* sailed for
-Buenos Aires where she arrived on 17 April. Here, Nilsen learned that
-the expedition's funds were exhausted; a sum supposedly set aside for
-the ship's needs had not materialised. Fortunately, 阿蒙森's friend Don
-Pedro Christopherson was at hand to fulfil his earlier promises to
-provide supplies and fuel. *Fram* departed in June for an oceanographic
-cruise between South America and Africa, which occupied the next three
-months. The ship returned to Buenos Aires in September for final
-refitting and re-provisioning, before sailing south on 5 October. Strong
-winds and stormy seas prolonged the voyage, but the ship arrived at the
-Bay of Whales on 9 January 1912. On 17 January the men in Framheim were
-surprised by the appearance of a second ship; it was *Kainan Maru*,
-carrying the [Japanese Antarctic
-Expedition](../Page/日本南極遠征.md "wikilink") led by [Nobu
-Shirase](../Page/白瀨矗.md "wikilink"). Communication between the two
-expeditions was limited by language difficulties, though the Norwegians
-gathered that the Japanese were heading for King Edward VII Land.
-*Kainan Maru* departed the next day, and on 26 January she landed a
-party on King Edward VII Land. This was the first landing on this shore
-from the sea; attempts by
-*[Discovery](../Page/发现号_\(三桅船\).md "wikilink")* (1902), **
-(1908) and *Terra Nova* (1911) had all failed.
+1911年2月15日，在离开鲸湾之后，前进号驶向布宜诺斯艾利斯，并于4月17日抵达。
+至此，尼尔森发觉他们的经费已经耗尽了，一笔据说是为这艘船的需要而预留的款项并没有兑现。幸运的是，阿蒙森的朋友唐·佩德·罗克里斯托弗森即将提供早些时候承诺的补给和燃料。
+六月，前进号开始了在南美洲和非洲为期三个月的海洋学考察。
+七月，轮船回到布宜诺斯艾利斯做10月5日南行前最后的改装和再补给。暴风骤雨延长了航行，但她还是在1912年1月9日到达了鲸湾。
+2月17日，“弗拉姆之家”（弗雷门海姆营地）的人们惊讶于另外一艘船的出现，那就是载着由[白瀨矗带领的](https://zh.wikipedia.org/wiki/Nobu_Shirase "wikilink")[日本南極遠征的](https://zh.wikipedia.org/wiki/Japanese_Antarctic_Expedition "wikilink")“开南丸号”。
+尽管两支队伍的沟通受到了语言的限制，挪威人还是推测出日本人正向爱德华七世地进发。
+“开南丸号”在第二天早上出发，他们于1月26日登陆爱德华七世地。*[发现号
+(三桅船)](https://zh.wikipedia.org/wiki/Discovery "wikilink")*(1902)被认为是第一个从海上的成功登陆,
+他们打败了** (1908) 和
+*[特拉诺瓦号](https://zh.wikipedia.org/wiki/Terra_Nova "wikilink")*
+(1911)。
 
 ## 后续
 
-### 当时反应
+### 各界反响
 
-In Hobart, 阿蒙森 received congratulatory telegrams from, among others,
-former U.S. President [Theodore
-Roosevelt](../Page/西奥多·罗斯福.md "wikilink") and [King George
-V](../Page/乔治五世.md "wikilink") of the United Kingdom. The king expressed
-particular pleasure that 阿蒙森's first port of call on his return had been
-on soil of the British Empire. In Norway, which only six years earlier
-had become an independent country after 500 years of Danish and Swedish
-supremacy, the news was proclaimed in banner headlines, and the national
-flag was flown throughout the country. All the expedition's participants
-received the Norwegian South Pole medal (*Sydpolsmedaljen*), established
-by King Haakon to commemorate the expedition. However, 阿蒙森's biographer
-Roland Huntford refers to "the chill underneath the cheers"; there
-remained a residue of unease over 阿蒙森's tactics. One Norwegian newspaper
-expressed relief that 阿蒙森 had found a new route, and had not intruded on
-Scott's path from McMurdo Sound.
+在霍巴特，阿蒙森收到了来自前美国总统[西奥多·罗斯福和英国国王](https://zh.wikipedia.org/wiki/Theodore_Roosevelt "wikilink")[乔治五世的贺电](https://zh.wikipedia.org/wiki/King_George_V "wikilink")。令国王十分高兴的是,
+阿布森返回后的第一个停靠港是在大英帝国的土地上。在挪威，这个被丹麦和瑞典交替霸权统治500年后恢复主权仅六年的国家，消息迅速出现在各大报纸的通栏标题，国旗飘扬在家家户户的门前。全部探险队成员被授予了国王哈康为纪念这次探险设立的挪威南极勋章
+(*Sydpolsmedaljen*)。
+然而，阿蒙森的传记作者罗兰德·亨特福德指出“欢呼下暗涌的寒意”，在阿蒙森的策略上，仍然存在着令人不安的残余。一家挪威报纸简短地报道了阿蒙森发现一条新路线，而没有沿着斯科特的路线从麦克默多海峡破冰南行的事件。
 
-In Britain, press reaction to 阿蒙森's victory was restrained but generally
-positive. Apart from the enthusiastic reports in the *Daily Chronicle*
-and the *Illustrated London News*—which each had a financial stake in
-阿蒙森's success—the *[Manchester
-Guardian](../Page/衛報.md "wikilink")* remarked that any cause for
-reproach was wiped out by the Norwegians' courage and determination.
-Readers of ** were exhorted not to grudge "the brave Norseman" the
-honour he had earned, and ** suggested that every British boy should
-read 阿蒙森's expedition account. *The Times* correspondent offered a mild
-rebuke to 阿蒙森 for his failure to inform Scott until it was too late for
-the latter to respond, "all the more unnecessary, for no one would have
-welcomed co-operation in the work of South Polar exploration more than
-Captain Scott ... Still, no one who knows Captain 阿蒙森 can have any doubt
-of his integrity, and since he states he has reached the Pole we are
-bound to believe him".
+在英国，除了因占有金融股份而给予热情报道每日记事报和伦敦新闻画报外，新闻界对阿蒙森的成功的反应都较为克制，但总体上是积极的——*[衛報](https://zh.wikipedia.org/wiki/Manchester_Guardian "wikilink")*评论道：挪威人的勇气和决心消除了一切可以指责的理由。**
+的读者劝告人们不要将恶意施加在值得这些荣誉的勇敢的诺斯曼人（古代挪威人）身上， **提出所有的英国男孩都应该读读阿蒙森的探险经历。
+泰晤士报记者对阿蒙森过迟告知斯科特他失败的消息以至于后者来不及做出回应给予了温和的指责，"这是不必要的，因为没有人比斯科特更欢迎在南极探险工作中合作……尽管如此，没有人怀疑阿蒙森船长的正直，因此，当他宣告自己抵达南极点时，我们一定会相信他。
 
-Senior figures at the RGS expressed more hostile sentiments, at least
-privately. To them, 阿蒙森's feat was the result of "a dirty trick".
-Markham hinted that 阿蒙森's claim might be fraudulent: "We must wait for
-the truth until the return of the *Terra Nova*". When later in 1912 阿蒙森
-addressed the RGS he felt slighted after [Lord
-Curzon](https://zh.wikipedia.org/wiki/喬治·寇松，第一代凱德爾斯頓的寇松侯爵 "wikilink"),
-the Society's president, jocularly called for "three cheers for the
-dogs". Shackleton did not join in denigrating 阿蒙森's victory, and called
-him "perhaps the greatest polar explorer of today". Before she heard the
-news of her husband's death,  conceded that 阿蒙森's journey "was a very
-fine feat ... in spite of one's irritation one has to admire it".
+皇家地理学会（RGS：Royal Geographical
+Society）的上层人士更多地私下表达了敌对情绪。对他们来说，阿蒙森的功绩靠的是一个“肮脏的把戏”。马卡姆暗示说阿蒙森的声称可能是具有欺骗性的：“我们必须等到特拉诺瓦号返航回来才能知道真相”。
+1912年晚些时候，皇家地理学会会长[喬治·寇松，第一代凱德爾斯頓的寇松侯爵](https://zh.wikipedia.org/wiki/Lord_Curzon "wikilink")
+打趣地将这次成功描述成“为雪橇犬们的欢呼”，阿蒙森认为自己受到了怠慢。
+沙克尔顿无意于诋毁阿蒙森的探险，并认为他为“也许是现今最伟大的极地探险家”
+ 在 得到她丈夫去世的消息前，评价“这是一项非常伟大的功绩，尽管使人愤怒，但不得不敬佩”。
 
 ### 斯科特的悲剧
 
 [Antarctic_expedition_map_(Amundsen_-_Scott)-en.svg](https://zh.wikipedia.org/wiki/File:Antarctic_expedition_map_\(Amundsen_-_Scott\)-en.svg "fig:Antarctic_expedition_map_(Amundsen_-_Scott)-en.svg")
-(green) and 阿蒙森's expedition (red) to reach the South Pole\]\] 阿蒙森 left
-Hobart to undertake a lecture tour of Australia and New Zealand. He then
-went to Buenos Aires where he finished writing his expedition account.
-Back in Norway he supervised the publication of the book, then visited
-Britain before embarking on a long lecture tour of the United States. In
-February 1913, while in [Madison, Wisconsin](../Page/麦迪逊.md "wikilink"),
-he received the news that Scott and four comrades had reached the pole
-on 17 January 1912, but had all perished by 29 March, during their
-return journey. The bodies of Scott,  and  had been discovered in
-November 1912, after the end of the Antarctic winter. In his initial
-response, 阿蒙森 called the news "Horrible, horrible". His more formal
-tribute followed: "Captain Scott left a record, for honesty, for
-sincerity, for bravery, for everything that makes a man".
+(green) and 阿蒙森's expedition (red) to reach the South Pole\]\]
+阿蒙森离开霍巴特后，开始了从澳大利亚到新西兰的巡回演讲。之后他到布宜诺斯艾利斯完成探险的叙述记录。接着他回到挪威监督出版，在去美国进行一系列巡回演讲前，他来到了英国。
+1913年2月，在[麦迪逊](https://zh.wikipedia.org/wiki/Madison,_Wisconsin "wikilink")，阿蒙森得到了关于斯科特的消息：他和四个同伴于1月17日抵达南极点，但在返程途中遇难（3月29日）。斯科特、和
+的遗体在1912年11月被发现，那时南极的冬天已经过去。在阿蒙森的初次回应中，他称这个消息“可怕，太可怕了”。
+他更为正式的悼词如下：“斯科特上尉留下了一个讯息，关于正直，关于真挚，关于勇敢，关于构成一个真正的人的一切。”
 
-According to Huntford, the news of Scott's death meant that "阿蒙森 the
-victor was eclipsed ... by Scott the martyr". In the United Kingdom a
-myth quickly developed in which Scott was portrayed as one who had
-behaved nobly and played the game fairly. He had been defeated because,
-by contrast, 阿蒙森 was a mere glory-seeker who had concealed his true
-intentions, had used dogs rather than relying on honest  and had
-slaughtered these same dogs for food. Furthermore, he was considered a
-"professional" which, in the mindset of upper-class Britain of that
-time, diminished anything he might have accomplished. This narrative was
-heavily reinforced with the publication of Scott's journals and his
-"Message to the Public". Huntford points out that "\[Scott's\] literary
-talent was his trump. It was as if he had reached out from his buried
-tent and taken revenge." Even so, among explorers 阿蒙森's name continued
-to be respected. In his account of the *Terra Nova* expedition written a
-few years later, Scott's comrade  wrote that the primary reason for
-阿蒙森's success was "the very remarkable qualities of the man",
-specifically his courage in choosing to discover a new route rather than
-follow the known path.
+亨特福德表示，斯科特的遇难意味着“在斯科特殉道般的献身下，阿蒙森的胜利显得黯然失色”。
+在英国，斯科特迅速被描绘成一个道德崇高、公平竞争的传奇人物。斯科特被打败的原因在于对手阿蒙森仅仅是个爱慕虚荣的人，靠雪橇犬而非，而这批狗同样被屠杀作为食物。此外，他被认为是“职业人士”，在当时英国上层的观念里，这削弱了他完成任何事情的可能性。斯科特日记的出版和“给公众的讯息”大大巩固了这个故事。亨特福德指出：“\[斯科特\]的文学天赋是他的法宝。在就如同他从葬身的帐篷里伸出手来复仇。”
+ 即便如此，阿蒙森的名字仍然在探险家们中传颂。在他的“史前新纪元”探险叙述集完成几年后，斯科特的伙伴
+描写阿蒙森成功的主要原因是“他身上的卓越品质”，尤其是他选择新路线而非依照已知轨道的勇气。
 
 ### 历史角度
 
@@ -524,12 +336,8 @@ the memories of both polar pioneers.
 
 ### 现代研究
 
-In a paper published 100 years after the 阿蒙森 expedition, researchers
-claimed that the tent and flags are buried under  of ice and about a
-minute of latitude north of the South Pole,\[7\] or about one [nautical
-mile](../Page/海里.md "wikilink"). Scott's party was the last to see the
-tent, which they found on 18 January 1912.  took a photo of the
-tent,\[8\] but died returning from the Pole.
+在一份发表于阿蒙森探险队100年后的论文中，研究人员声称，帐篷和标志都被埋在南极点以北1分纬度（大约1海里）处17米（56英尺）冰下。\[7\]
+斯科特一行人于1912年1月18日发现帐篷，他们是看到帐篷的最后一群人。[亨利·罗伯逊·鲍尔斯拍摄了一张帐篷的照片](https://zh.wikipedia.org/wiki/亨利·罗伯逊·鲍尔斯 "wikilink")，\[8\]但他死在了从南极点折返的路上。
 
 ## 注释和参考
 
@@ -605,6 +413,11 @@ tent,\[8\] but died returning from the Pole.
 \[\[Category:南極洲探險|Category:南極洲探險\]\]
 \[\[Category:南極探險英雄年代|Category:南極探險英雄年代\]\]
 \[\[Category:世界记忆名录|Category:世界记忆名录\]\]
+
+[Category:冒险](https://zh.wikipedia.org/wiki/Category:冒险 "wikilink")
+[Category:探险](https://zh.wikipedia.org/wiki/Category:探险 "wikilink")
+[Category:探险队](https://zh.wikipedia.org/wiki/Category:探险队 "wikilink")
+[Category:南极考察](https://zh.wikipedia.org/wiki/Category:南极考察 "wikilink")
 
 1.  Robert Bryce *Cook and Peary: the Polar Controversy Resolved*
     Stackpole 1997; Henderson, B. (2005) *True North* W W Norton &

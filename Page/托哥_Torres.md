@@ -21,10 +21,6 @@ Osas」\[2\]兩片開始被人注意。在2018年，他開設其[YouTube頻道](
 除了[廣東話](https://zh.wikipedia.org/wiki/廣東話 "wikilink")、[國語以及](https://zh.wikipedia.org/wiki/國語 "wikilink")[英文外](https://zh.wikipedia.org/wiki/英文 "wikilink")、他也略懂法文。
 除了語言能力外，托哥最常被人討論的為其高達193厘米的身高。
 
-## 批評
-
-托哥的影片大多以英文作為主要語言，因此常被網民批評為何一個華人要講英文。
-
 ## 外部連結
 
 [托哥IG](https://www.instagram.com/torres_pit/?hl=en)

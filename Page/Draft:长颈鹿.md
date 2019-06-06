@@ -26,7 +26,7 @@ camelopardalis*）即为该物种的[模式種](../Page/模式種.md "wikilink")
 驼豹（Camelopard）
 是古英语中对长颈鹿的称呼，这个词起源于[古希臘語](https://zh.wikipedia.org/wiki/古希臘語 "wikilink")，用于代指拥有[骆驼一样的身体和](../Page/骆驼.md "wikilink")[豹一样的花纹的动物](../Page/豹.md "wikilink")。\[7\]\[8\]
 
-[中国典籍关于长颈鹿的记载](https://zh.wikipedia.org/wiki/中国 "wikilink")，最早出自[晋代李石所著](https://zh.wikipedia.org/wiki/晋代 "wikilink")《续博物志》，记录[非洲](../Page/非洲.md "wikilink")[索马里沿岸](../Page/索马里.md "wikilink")**拨拔力**古国出产的异兽，身高一丈余颈长九尺。[宋代](https://zh.wikipedia.org/wiki/宋代 "wikilink")[赵汝适著](../Page/赵汝适.md "wikilink")《[诸蕃志](../Page/诸蕃志.md "wikilink")》中称[非洲长颈鹿为](../Page/非洲.md "wikilink")**徂蜡**：“状如驼驰，而大如[牛](../Page/牛.md "wikilink")，色黄，前脚高五尺，后低三尺，头高向上。”\[9\][明朝永乐十二年](../Page/明朝.md "wikilink")（1414），时值[郑和第四次出海](https://zh.wikipedia.org/wiki/郑和 "wikilink")，榜葛次国（今孟加拉）使臣将一只长颈鹿进贡给明成祖，以“**麒麟**”为名，据说乃东非土语中的长颈鹿名称giri之音译\[10\]\[11\]；在中国传说中，[麒麟为祥瑞之兽](../Page/麒麟.md "wikilink")，[明成祖便将其视为祥瑞之兆](../Page/明成祖.md "wikilink")，命人撰文并绘图记录，以此标榜自己施政的伟大。存世的图像记录仅有传沈度所绘的《麒麟图》。\[12\]该典故流传甚广。长颈鹿在[日語及](https://zh.wikipedia.org/wiki/日語 "wikilink")[韓語中的名称皆源于麒麟](https://zh.wikipedia.org/wiki/韓語 "wikilink")（日语：キリン）\[13\]，在[閩南話中也称为](https://zh.wikipedia.org/wiki/閩南話 "wikilink")「麒麟鹿」。
+[中国典籍关于长颈鹿的记载](https://zh.wikipedia.org/wiki/中国 "wikilink")，最早出自[晋代李石所著](https://zh.wikipedia.org/wiki/晋代 "wikilink")《续博物志》，记录[非洲](../Page/非洲.md "wikilink")[索马里沿岸](../Page/索马里.md "wikilink")**拨拔力**古国出产的异兽，身高一丈余颈长九尺。[宋代](https://zh.wikipedia.org/wiki/宋代 "wikilink")[赵汝适著](../Page/赵汝适.md "wikilink")《[诸蕃志](../Page/诸蕃志.md "wikilink")》中称[非洲长颈鹿为](../Page/非洲.md "wikilink")**徂蜡**：“状如驼驰，而大如[牛](../Page/牛.md "wikilink")，色黄，前脚高五尺，后低三尺，头高向上。”\[9\][明朝永乐十二年](../Page/明朝.md "wikilink")（1414），时值[郑和第四次出海](https://zh.wikipedia.org/wiki/郑和 "wikilink")，榜葛剌国（今孟加拉）使臣将一只长颈鹿进贡给明成祖，以“**麒麟**”为名，据说乃东非土语中的长颈鹿名称giri之音译\[10\]\[11\]；在中国传说中，[麒麟为祥瑞之兽](../Page/麒麟.md "wikilink")，[明成祖便将其视为祥瑞之兆](../Page/明成祖.md "wikilink")，命人撰文并绘图记录，以此标榜自己施政的伟大。存世的图像记录仅有传沈度所绘的《麒麟图》。\[12\]该典故流传甚广。长颈鹿在[日語及](https://zh.wikipedia.org/wiki/日語 "wikilink")[韓語中的名称皆源于麒麟](https://zh.wikipedia.org/wiki/韓語 "wikilink")（日语：キリン）\[13\]，在[閩南話中也称为](https://zh.wikipedia.org/wiki/閩南話 "wikilink")「麒麟鹿」。
 
 ## 分类
 
@@ -36,29 +36,15 @@ camelopardalis*）即为该物种的[模式種](../Page/模式種.md "wikilink")
 
 ### 演化
 
-The giraffe is one of only two living genera of the family
-[长颈鹿科](https://zh.wikipedia.org/wiki/长颈鹿科 "wikilink") in the
-order [偶蹄目](../Page/偶蹄目.md "wikilink"), the other being the
-[㺢㹢狓](../Page/㺢㹢狓.md "wikilink"). The family was once much more
-extensive, with over 10 fossil
-[属](https://zh.wikipedia.org/wiki/属 "wikilink") described. Their
-closest known relatives are the extinct deer-like . They, together with
-the family  (whose only extant species is the
-[叉角羚](../Page/叉角羚.md "wikilink")), belong to the superfamily
-. These animals may have evolved from the extinct family  which might
-also have been the ancestor of [鹿科](../Page/鹿科.md "wikilink").\[16\]
+长颈鹿是[偶蹄目](../Page/偶蹄目.md "wikilink")[长颈鹿科仅有的两个现存的属中的一个](https://zh.wikipedia.org/wiki/长颈鹿科 "wikilink")，剩下的一个是[㺢㹢狓](../Page/㺢㹢狓.md "wikilink").
+该科曾经一度分布非常广泛，有超过10个属。他们关系最近的已知的近亲是已经灭绝的类鹿的[梯角鹿科](https://zh.wikipedia.org/wiki/梯角鹿科 "wikilink")
+。他们和叉角羚科一样（现仅存的物种只有[叉角羚](../Page/叉角羚.md "wikilink")）都从属于[长颈鹿总科](https://zh.wikipedia.org/wiki/长颈鹿科 "wikilink")
+。这些动物很可能是从已经灭绝的[古鹿科演化过来](https://zh.wikipedia.org/wiki/古鹿科 "wikilink")，而古鹿科很可能是[鹿科的祖先](../Page/鹿科.md "wikilink")\[16\]
 
-The elongation of the neck appears to have started early in the giraffe
-. Comparisons between giraffes and their ancient relatives suggest that
-vertebrae close to the skull lengthened earlier, followed by lengthening
-of vertebrae further down.\[17\] One early giraffid ancestor was **
-which has been dated variously to have lived 25–20 million years ago
-(mya), 17–15 mya or 18–14.3 mya and whose deposits have been found in
-Libya. This animal was medium-sized, slender and antelope-like. **
-appeared 15 mya in the [印度次大陸](../Page/印度次大陸.md "wikilink") and
-resembled an okapi or a small giraffe, and had a longer neck and similar
-.\[18\] *Giraffokeryx* may have shared a clade with more massively built
-giraffids like *[西瓦鹿](../Page/西瓦鹿.md "wikilink")* and **.\[19\]
+长颈鹿脖子的延长似乎开始于长颈鹿谱系的早期。与远古时期的近亲相比，现在的长颈鹿接近颅骨的椎骨较早延长，随后椎骨进一步向下延长。\[17\]
+[Canthumeryx](https://zh.wikipedia.org/wiki/Canthumeryx "wikilink")
+是早期长颈鹿的一个祖先，该物种的历史可以追溯到2500万至2000万年前，并且在利比亚找到了他们的化石。该物种是中等大小，体型苗条，形态类似羚羊。[始长颈鹿属出现在](https://zh.wikipedia.org/wiki/始长颈鹿 "wikilink")1500万年前的印度次大陆，类似于霍加或小长颈鹿，有较长的脖子和类似的听小骨。\[18\]
+始长颈鹿属可能与与大量的长颈鹿比如：[西瓦鹿和](../Page/西瓦鹿.md "wikilink")[布拉马兽共享同一个进化分支](https://zh.wikipedia.org/wiki/布拉马兽 "wikilink")。\[19\]
 [Giraffidcomparison.jpg](https://zh.wikipedia.org/wiki/File:Giraffidcomparison.jpg "fig:Giraffidcomparison.jpg")
 Giraffids like *[古長頸鹿](https://zh.wikipedia.org/wiki/古長頸鹿 "wikilink")*,
 *[山西獸屬
@@ -396,10 +382,10 @@ keep its head above the surface.\[155\]
 
 [Okapi_Giraffe_Neck.png](https://zh.wikipedia.org/wiki/File:Okapi_Giraffe_Neck.png "fig:Okapi_Giraffe_Neck.png")
 长颈鹿的脖子非常长，可以达到 ，占其身长的很大一部分\[156\]\[157\]\[158\]\[159\]
-它的长颈是由于颈椎不成比例的延长而不是颈椎骨的增多导致的。 Each
-cervical vertebra is over  long.\[160\] They comprise 52–54 per cent of
-the length of the giraffe's [脊椎](../Page/脊椎.md "wikilink"), compared
-with the 27–33 percent typical of similar large ungulates, including the
+它的长颈是由于颈椎不成比例的延长而不是颈椎骨的增多导致的。
+每一節頸椎長度都超過  。\[160\] They comprise 52–54 per cent of the
+length of the giraffe's [脊椎](../Page/脊椎.md "wikilink"), compared with
+the 27–33 percent typical of similar large ungulates, including the
 giraffe’s closest living relative, the
 [㺢㹢狓](../Page/㺢㹢狓.md "wikilink").\[161\] This elongation
 largely takes place after birth, perhaps because giraffe mothers would
@@ -720,7 +706,7 @@ but is less prevalent in areas with fertile soils.\[291\]\[292\]\[293\]
 古埃及人为长颈鹿创造了[圣书体写法𓃱](https://zh.wikipedia.org/wiki/圣书体 "wikilink")，
 在[埃及语中代表](../Page/埃及语.md "wikilink")“sr”之后又代表 “mmy”。\[300\]
 古埃及人还将长颈鹿作为宠物饲养并将它们运送到地中海沿岸各地。\[301\]
-[Tribute_Giraffe_with_Attendant.jpg](https://zh.wikipedia.org/wiki/File:Tribute_Giraffe_with_Attendant.jpg "fig:Tribute_Giraffe_with_Attendant.jpg")陈璋根据[明代](https://zh.wikipedia.org/wiki/明代 "wikilink")[沈度的](https://zh.wikipedia.org/wiki/沈度 "wikilink")《[瑞应麒麟图》临摹而成的](https://zh.wikipedia.org/wiki/瑞应麒麟图 "wikilink")《榜葛剌进麒麟图》，现藏于中国国家博物馆。该图描绘[永乐十二年](../Page/永乐_\(明朝\).md "wikilink")（1414年）榜葛刺（今孟加拉）使臣向明成祖进贡长颈鹿的场景。\]\]
+[Tribute_Giraffe_with_Attendant.jpg](https://zh.wikipedia.org/wiki/File:Tribute_Giraffe_with_Attendant.jpg "fig:Tribute_Giraffe_with_Attendant.jpg")陈璋根据[明代](https://zh.wikipedia.org/wiki/明代 "wikilink")[沈度的](https://zh.wikipedia.org/wiki/沈度 "wikilink")《[瑞应麒麟图》临摹而成的](https://zh.wikipedia.org/wiki/瑞应麒麟图 "wikilink")《榜葛剌进麒麟图》，现藏于中国国家博物馆。该图描绘[永乐十二年](../Page/永乐_\(明朝\).md "wikilink")（1414年）榜葛剌（今孟加拉）使臣向明成祖进贡长颈鹿的场景。\]\]
 在[古希腊和](../Page/古希腊.md "wikilink")[古罗马的记述中也存在长颈鹿](../Page/古罗马.md "wikilink")，但长颈鹿被认为是骆驼和猎豹的不自然杂交体。\[302\]
 长颈鹿是被收集并被送回罗马展览的众多动物之一。已知第一只被带到罗马对公共展览的长颈鹿是公元前46年[尤利烏斯·凱撒带回的](../Page/尤利烏斯·凱撒.md "wikilink")。\[303\]
 随着[罗马帝国的衰落](../Page/罗马帝国的衰落.md "wikilink"), 在欧洲被饲养的长颈鹿逐渐绝种\[304\]

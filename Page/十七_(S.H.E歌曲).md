@@ -81,7 +81,45 @@ Today以及S](https://zh.wikipedia.org/wiki/LINE_Today "wikilink").H.E
 
 ## 獎項/榜單
 
+### 金曲獎
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>獎項</p></th>
+<th><p>入圍者</p></th>
+<th><p>結果</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第30屆金曲獎" title="wikilink">第30屆金曲獎</a> <a href="../Page/年度歌曲獎_(金曲獎).md" title="wikilink">年度歌曲獎</a></p></td>
+<td><p><a href="../Page/S.H.E.md" title="wikilink">S.H.E</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/第30屆金曲獎" title="wikilink">第30屆金曲獎</a> <a href="../Page/最佳音樂錄影帶獎_(金曲獎).md" title="wikilink">最佳音樂錄影帶獎</a></p></td>
+<td><p><a href="../Page/陳奕仁.md" title="wikilink">陳奕仁</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 其他獎項/榜單
+
   - Billboard Radio China 2018年度10大華語歌曲 \#4
+  - [YES
+    933](../Page/YES_933.md "wikilink")[醉心龍虎榜](../Page/醉心龍虎榜.md "wikilink")
+    2018年最喜愛20大歌曲 \#19
   - 2018年 Hit Fm年度百首單曲 \#5
   - 2018年度 [流行音樂全金榜](../Page/流行音樂全金榜.md "wikilink") 年度20大金曲
 

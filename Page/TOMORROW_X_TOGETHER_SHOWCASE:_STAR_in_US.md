@@ -44,7 +44,7 @@ US》美國巡迴Showcase於2019年4月19進行美國場次的門票販售，巡
 <td><p><a href="https://zh.wikipedia.org/wiki/紐約" title="wikilink">紐約</a></p></td>
 <td></td>
 <td></td>
-<td><p>2,100/2,100[6]</p></td>
+<td><p>2,100/2,100[6][7]</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年5月12日</p></td>
@@ -57,34 +57,47 @@ US》美國巡迴Showcase於2019年4月19進行美國場次的門票販售，巡
 <td><p>2019年5月14日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/奧蘭多" title="wikilink">奧蘭多</a></p></td>
 <td></td>
-<td><p>1,250/1,250[7]</p></td>
+<td><p>1,250/1,250[8]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年5月17日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/亞特蘭大" title="wikilink">亞特蘭大</a></p></td>
 <td></td>
-<td><p>1,050/1,050[8]</p></td>
+<td><p>1,050/1,050[9]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2019年5月19日</p></td>
 <td><p><a href="../Page/達拉斯.md" title="wikilink">達拉斯</a></p></td>
 <td></td>
-<td><p>4,300/4,300（包含擊掌會）[9]</p></td>
+<td><p>4,300/4,300（包含擊掌會）[10]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2019年5月24日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/洛杉磯" title="wikilink">洛杉磯</a></p></td>
 <td></td>
-<td><p>2,300/2,300[10]</p></td>
+<td><p>2,300/2,300[11]</p></td>
 <td></td>
 </tr>
 </tbody>
 </table>
 
 ## 表演清單
+
+1.  VCR \#1 OPENING
+2.  Blue Orangeade
+3.  MNET 1
+4.  TALK \#1 "TXT Jenga Talk"
+5.  Cat & Dog (English ver.)
+6.  VCR \#2 MY DREAM
+7.  별의 낮잠（Nap of a star）
+8.  Our Summer (Acoustic ver.)
+9.  MENT 2
+10. 어느날 머리에서 뿔이 자랐다 (CROWN)
+11. ENDING MNET 3
+12. VCR \#3 ENDING
 
 ## 製作
 
@@ -117,7 +130,7 @@ US》美國巡迴Showcase於2019年4月19進行美國場次的門票販售，巡
 
 <!-- end list -->
 
-  - 紐約、奧蘭多、洛杉磯、－AXS Tickets\[11\]
+  - 紐約、奧蘭多、洛杉磯、－AXS Tickets\[12\]
   - 亞特蘭大－Ticketmaster
   - 芝加哥、達拉斯－Ticketfly
 
@@ -141,3 +154,4 @@ US》美國巡迴Showcase於2019年4月19進行美國場次的門票販售，巡
 9.
 10.
 11.
+12.

@@ -18,7 +18,7 @@
 | [李炳坤](../Page/李炳坤.md "wikilink")      |
 | [金昇勳](../Page/金昇勳.md "wikilink")      |
 | colspan="7" style= |已離開成員             |
-| 李彌談                                   |
+| 李美談                                   |
 |                                       |
 
 ### TREASURE B：16至19歲新人練習生

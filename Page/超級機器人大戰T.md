@@ -128,7 +128,7 @@ FHANTASM》的維爾賓（、Bellvine），魔法騎士遊戲版的魔神蘭迪�
 <!-- end list -->
 
   -
-    VTX社長，本作最終BOSS
+    VTX社長
 
 #### UDN
 

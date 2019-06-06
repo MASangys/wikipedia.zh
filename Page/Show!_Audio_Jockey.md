@@ -99,7 +99,7 @@ X的](https://zh.wikipedia.org/wiki/MONSTA_X "wikilink")[元虎](../Page/李虎�
       - 下午3時起第一檔欄目是[Boom的](../Page/Boom_\(藝人\).md "wikilink")“BOOM
         BOX”，由音樂問答、對口型秀等組成，預計是直到所有人满足為止不會停止的“注入式”興致秀。
       - 下午4.30時开始播出“朴明洙的輕易秀”，通过市民和[朴明洙進行對決等令人興奮的内容引發笑聲](../Page/朴明洙.md "wikilink")。
-      - 下午5時开始播出＂AJ联合节目＂。全部的AJ都会在一起主持这一个时段。
+      - 下午5時開始播出“AJ聯合節目”，全部的AJ一起主持这個時段。
 
 ## 收視率
 
@@ -165,12 +165,37 @@ Jockey**》節目收視，收視最低的集數以表示，收視最高的集數
 <tr class="even">
 <td><p>8</p></td>
 <td><p>2019/05/05</p></td>
-<td><p>%</p></td>
+<td><p>0.846%</p></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+<td><p>9</p></td>
+<td><p>2019/05/12</p></td>
+<td><p>0.954%</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>2019/05/19</p></td>
+<td><p>1.077%</p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>2019/05/26</p></td>
+<td><p>1.001%</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>2019/06/02</p></td>
+<td><p>1.338%</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>2019/06/09</p></td>
+<td><p>%</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>2019/06/16</p></td>
+<td><p>%</p></td>
 </tr>
 </tbody>
 </table>

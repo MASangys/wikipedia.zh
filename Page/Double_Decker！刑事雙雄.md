@@ -139,25 +139,25 @@ Decker！刑事雙雄**》是[日昇動畫推出的原創](../Page/日昇動畫.
 <td><p>安藤良、古田丈司</p></td>
 <td><p>安藤良、平沼加名</p></td>
 <td><p>吉田雄一、神谷美也子<br />
-小林利充</p></td>
+<a href="https://zh.wikipedia.org/wiki/小林利充" title="wikilink">小林利充</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>#03</p></td>
 <td></td>
 <td><p>對手是搭檔的搭檔</p></td>
-<td></td>
-<td><p>吉田惠里香</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/吉田惠里香" title="wikilink">吉田惠里香</a></p></td>
 <td><p>大石康之</p></td>
 <td><p>藤井真澄、立花希望<br />
 小澤久美子</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>#04</p></td>
 <td></td>
 <td><p>德里克歸來</p></td>
-<td></td>
+<td><p>德里克回歸</p></td>
 <td><p>鈴木智尋</p></td>
 <td><p>西澤晉</p></td>
 <td></td>
@@ -167,18 +167,18 @@ Decker！刑事雙雄**》是[日昇動畫推出的原創](../Page/日昇動畫.
 <td><p>#05</p></td>
 <td></td>
 <td><p>A·庫羅伊德謀殺案</p></td>
-<td></td>
 <td><p>吉田惠里香</p></td>
 <td><p>安藤良</p></td>
 <td><p>德本善信</p></td>
 <td><p>吉田雄一、小林理<br />
 富澤佳也乃、井畑翔太</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>#06</p></td>
 <td></td>
 <td><p>里斯巴雷塔警察24小時跟蹤採訪</p></td>
-<td></td>
+<td><p>緊貼里斯巴雷塔警察24小時</p></td>
 <td><p>鈴木智尋</p></td>
 <td></td>
 <td><p>吉村愛</p></td>
@@ -189,7 +189,7 @@ Decker！刑事雙雄**》是[日昇動畫推出的原創](../Page/日昇動畫.
 <td></td>
 <td><p>一波三折的復仇</p></td>
 <td></td>
-<td><p>神保昌登</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/神保昌登" title="wikilink">神保昌登</a></p></td>
 <td><p>榊原智次、重國勇二<br />
 森田實</p></td>
 <td></td>
@@ -223,7 +223,7 @@ Decker！刑事雙雄**》是[日昇動畫推出的原創](../Page/日昇動畫.
 <td><p>落第刑警 純情派</p></td>
 <td></td>
 <td><p>吉田惠里香</p></td>
-<td><p>加瀨充子</p></td>
+<td><p><a href="../Page/加瀨充子.md" title="wikilink">加瀨充子</a></p></td>
 <td><p>伊部勇志</p></td>
 <td><p>山村直己、山岸正和</p></td>
 </tr>
@@ -233,7 +233,7 @@ Decker！刑事雙雄**》是[日昇動畫推出的原創](../Page/日昇動畫.
 <td><p>SEVEN-O再度消亡</p></td>
 <td></td>
 <td><p>西澤晉</p></td>
-<td><p>米谷良知</p></td>
+<td><p><a href="../Page/米谷良知.md" title="wikilink">米谷良知</a></p></td>
 <td><p>前澤弘美、吉田雄一<br />
 稻熊一晃</p></td>
 <td></td>

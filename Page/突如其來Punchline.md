@@ -40,7 +40,7 @@ Sales榜中，單曲銷出272,666張，取得週榜第1位\[15\]，[日本熱門
 
   - Team S：[北川綾巴](../Page/北川綾巴.md "wikilink")、松井珠理奈
   - Team
-    KII：[江籠裕奈](../Page/江籠裕奈.md "wikilink")、大場美奈、[小畑優奈](../Page/小畑優奈.md "wikilink")、[惣田紗莉渚](https://zh.wikipedia.org/wiki/惣田紗莉渚 "wikilink")、高柳明音、[竹內彩姫](https://zh.wikipedia.org/wiki/竹內彩姫 "wikilink")、[日高優月](https://zh.wikipedia.org/wiki/日高優月 "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")
+    KII：[江籠裕奈](../Page/江籠裕奈.md "wikilink")、大場美奈、[小畑優奈](../Page/小畑優奈.md "wikilink")、[惣田紗莉渚](../Page/惣田紗莉渚.md "wikilink")、高柳明音、[竹內彩姫](https://zh.wikipedia.org/wiki/竹內彩姫 "wikilink")、[日高優月](https://zh.wikipedia.org/wiki/日高優月 "wikilink")、[古畑奈和](../Page/古畑奈和.md "wikilink")
   - Team
     E：[鎌田菜月](../Page/鎌田菜月.md "wikilink")、[熊崎晴香](https://zh.wikipedia.org/wiki/熊崎晴香 "wikilink")、佐藤佳穗、末永櫻花、[菅原茉椰](https://zh.wikipedia.org/wiki/菅原茉椰 "wikilink")、須田亞香里
 

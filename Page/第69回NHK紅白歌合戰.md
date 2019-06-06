@@ -226,9 +226,9 @@
 
 ### 審查員
 
-共11人（[五十音順](https://zh.wikipedia.org/wiki/五十音順 "wikilink")）：
+共11人（[五十音順](../Page/五十音順.md "wikilink")）：
 
-  - [阿部貞夫](../Page/阿部貞夫.md "wikilink")：[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")，明年[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[韋駄天～東京奧運故事～](../Page/韋駄天～東京奧運故事～.md "wikilink")》飾演主角・。
+  - [阿部貞夫](../Page/阿部貞夫.md "wikilink")：[演員](../Page/演員.md "wikilink")，明年[NHK大河劇](../Page/NHK大河劇.md "wikilink")《[韋駄天～東京奧運故事～](../Page/韋駄天～東京奧運故事～.md "wikilink")》飾演主角・。
 
   - [安藤櫻](../Page/安藤櫻.md "wikilink")：演員，本年秋季NHK[晨間劇](../Page/連續電視小說.md "wikilink")《[萬福](../Page/萬福_\(電視劇\).md "wikilink")》飾演主角・福子。
 

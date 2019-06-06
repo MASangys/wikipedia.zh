@@ -55,7 +55,7 @@ C位</p></td>
 <td><p><big><strong>商振博</strong></big><br />
 奶茶</p></td>
 <td><p>Shang Zhenbo</p></td>
-<td><p><br />
+<td><p>黑龍江<br />
 </p></td>
 <td><p>179</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/雙子座" title="wikilink">雙子座</a></p></td>

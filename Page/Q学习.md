@@ -2,12 +2,11 @@
 
 对于任何有限的[馬可夫決策過程](https://zh.wikipedia.org/wiki/馬可夫決策過程 "wikilink")（FMDP），Q-学习可以找到一个可以最大化所有步骤的奖励期望的策略。\[1\]，在给定一个部分随机的策略和无限的探索时间，Q-学习可以给出一个最佳的动作选择策略。
 
-「Q」这个字母在强化学习中表示一个动作的品质（quality )。\[2\]
+「Q」这个字母在强化学习中表示一个动作的品质（quality)。\[2\]
 
 ## 强化学习
 
-强化学习涉及一个智能体，一组「状态」和每个状态下的动作集合。通过执行一个行动
-\(\)，该智能体从一个状态转移到另一个状态。在一个特定的状态下执行一个动作时，智能体可以得到一个奖励。
+强化学习涉及一个[智能体](https://zh.wikipedia.org/wiki/智能代理 "wikilink")（），一组「状态」和每个状态下的动作集合。通过执行一个行动\(\,a \in A\)，该智能体从一个状态转移到另一个状态。在一个特定的状态下执行一个动作时，智能体可以得到一个奖励。
 
 智能体的目标是最大化其奖励的總和。这个潜在的奖励是所有未来可以拿到的奖励值的期望的加权和。
 
@@ -21,15 +20,14 @@
 
 ## 算法
 
-[缩略图](https://zh.wikipedia.org/wiki/File:Q-Learning_Matrix_Initialized_and_After_Training.png "fig:缩略图")
-行動获得的奖励会被乘以权重( 衰减系数)。衰減係數是一个0到1之间的数，作用是让智能体更加看重最近得到的奖励。
+[Q-Learning_Matrix_Initialized_and_After_Training.png](https://zh.wikipedia.org/wiki/File:Q-Learning_Matrix_Initialized_and_After_Training.png "fig:Q-Learning_Matrix_Initialized_and_After_Training.png")
+行動获得的奖励会被乘以权重（衰减系数）\(\gamma\)。衰減係數\(\,\gamma\,\)是一个0到1之间的数，作用是让智能体更加看重最近得到的奖励。
 
-  -
-    \(\)
+\[Q^{new}(s_{t},a_{t}) \leftarrow (1-\alpha) \cdot \underbrace{Q(s_{t},a_{t})}_{\text{old value}} + \underbrace{\alpha}_{\text{learning rate}} \cdot  \overbrace{\bigg( \underbrace{r_{t}}_{\text{reward}} + \underbrace{\gamma}_{\text{discount factor}} \cdot \underbrace{\max_{a}Q(s_{t+1}, a)}_{\text{estimate of optimal future value}} \bigg) }^{\text{learned value}}\]
 
 ## 实现
 
-*Q*-学习最简单的实现方式就是将獎勵值存储在一个表格(Q-table)中，但是这种方式受限于状态和动作空间的数目。
+*Q*-学习最简单的实现方式就是将獎勵值存储在一个表格（Q-table）中，但是这种方式受限于状态和动作空间的数目。
 
 ### 函数逼近
 
@@ -47,9 +45,11 @@
 ## 参见
 
   - [强化学习](../Page/强化学习.md "wikilink")
-  - 时间查分学习
-  - SARSA
+
+  -
+  -
   - [囚徒困境](../Page/囚徒困境.md "wikilink")
+
   - [博弈论](../Page/博弈论.md "wikilink")
 
 ## 参考文献

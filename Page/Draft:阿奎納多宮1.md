@@ -1,5 +1,5 @@
-位於菲律賓卡維特鎮的**阿奎納多宮**是國際性的聖地，西元1898年的6月12號[阿奎納多就是在這裡對西班牙宣布菲律賓獨立](../Page/埃米利奧·阿奎納多.md "wikilink")。為了紀念這件事，高級政府官員們會在每年的6月12號在這裡升起菲律賓國旗，同時6月12號也被稱為獨立日(*Araw
-ng Kalayaan*)，並訂為法定假日，而現在這裡變成了博物館。
+位於[菲律賓卡維特鎮的](https://zh.wikipedia.org/wiki/菲律宾 "wikilink")**阿奎納多宮**是一個國家的的聖地，西元1898年6月12號[阿奎納多在這裡對](../Page/埃米利奧·阿奎納多.md "wikilink")[西班牙宣布菲律賓獨立](../Page/西班牙.md "wikilink")，為了紀念這件事，高級政府官員們會在每年的6月12號在這裡升起[菲律賓國旗](../Page/菲律賓國旗.md "wikilink")，同時這天也被稱為（Araw
+ng Kalayaan），並訂為，而現在這裡變成了博物館。
 
 The *' Emilio F. Aguinaldo Shrine*' is a national shrine located in  in
 the [Philippines](https://zh.wikipedia.org/wiki/菲律宾 "wikilink"), where
@@ -7,14 +7,26 @@ the [Philippine Declaration of
 Independence](https://zh.wikipedia.org/wiki/Philippine_Declaration_of_Independence "wikilink")
 from [Spain](../Page/西班牙.md "wikilink") was declared on June 12,
 1898.\[1\] To commemorate the event, now known as *Araw ng Kalayaan* or
-**, a , the [Philippine flag](../Page/菲律賓國旗.md "wikilink") is raised
-here by top government officials on June 12 each year. The house is now
-a museum
+, a , the [Philippine flag](../Page/菲律賓國旗.md "wikilink") is raised here
+by top government officials on June 12 each year. The house is now a
+museum
+
+<table>
+<tbody>
+<tr class="odd">
+<td><ol>
+<li>National 是「國家的」，international才是國際級</li>
+</ol></td>
+</tr>
+</tbody>
+</table>
 
 ## History
 
 [左](https://zh.wikipedia.org/wiki/File:General_Aguinaldo.jpg "fig:左")
-The shrine is the  of [Emilio
+這座宮殿是**阿奎納多**的，他是[菲律賓第一共和國第一位正式的菲律賓總統](../Page/菲律宾第一共和国.md "wikilink")。這棟房子建於1845年，用的是木頭跟茅草，一直到1849年才重建。而阿奎納多在1869年的3月22號在這裡出生。
+
+The shrine is the of [Emilio
 Aguinaldo](../Page/埃米利奧·阿奎納多.md "wikilink"),\[2\]
 officially the first [President of the
 Philippines](../Page/菲律宾总统.md "wikilink"), the only president
@@ -22,7 +34,19 @@ of the [First Philippine Republic](../Page/菲律宾第一共和国.md "wikilink
 house was built in 1845 made from wood and  and reconstructed in 1849.
 Here Aguinaldo was born on March 22, 1869.\[3\]
 
+|             |
+| ----------- |
+| 記得引用要拖到對應段落 |
+
 ### Independence day
+
+1898年6月12號，革命者在大廳的窗邊宣布菲律賓從[西班牙的統治下獨立](../Page/西班牙.md "wikilink")，作者Ambrosio
+Rianzares
+Bautista宣讀了[菲律賓獨立宣言](../Page/菲律賓獨立宣言.md "wikilink")，獨立宣言於1898年9月21日由馬洛洛斯國會批准。阿奎納多總統從1919年至1921年大大地擴建了他的家園，將其改造成了國旗和國家的紀念碑。他還建造了一個精心設計的「獨立陽台」，阿奎納多和菲律賓高級官員都在獨立日慶祝活動中使用了這個陽台。至今許多遊客認為這個陽台是獨立宣言的實際位置。阿奎納多於1963年6月12日將他的家園捐贈給了菲律賓政府，使1896年菲律賓革命的精神永久化，結束了西班牙對該國的殖民統治。
+
+|              |
+| ------------ |
+| 引用和連結要加到對應段落 |
 
 On June 12, 1898, the independence from
 [Spain](../Page/西班牙.md "wikilink") was proclaimed from the window

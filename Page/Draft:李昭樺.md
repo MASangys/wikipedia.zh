@@ -1,0 +1,138 @@
+**<big><big>李昭樺</big></big>**（**Lee
+Chao-Hua**，1975年12月7日－）兔將創意影業創辦人暨CEO，電影監製，視覺特效總監，3D立體電影總監，動畫視效總監。畢業於南加大電機工程碩士及劍橋大學資訊工程博士，於2011創立[兔將影業](../Page/兔將創意影業.md "wikilink")。在歐、美、亞三地的學術、企業經營及媒體製作領域皆獲得卓越成果，致力於研發公司動畫特效技術、獨家3D製作技術。\[1\]\[2\]
+
+曾擔任多部電影特效總監及3D立體視覺總監，包括《[十二生肖](https://movie.douban.com/subject/4212172/)》丶《[風暴](https://movie.douban.com/subject/20388198/)》丶《[五月天諾亞方舟](https://zh.wikipedia.org/wiki/五月天諾亞方舟 "wikilink")》丶《[天將雄師](https://zh.wikipedia.org/wiki/天將雄師 "wikilink")》丶《[捉妖記](https://zh.wikipedia.org/wiki/捉妖記 "wikilink")》丶《[黃飛鴻之英雄有夢](https://zh.wikipedia.org/wiki/黃飛鴻之英雄有夢 "wikilink")》丶《[功夫瑜伽](https://zh.wikipedia.org/wiki/功夫瑜伽 "wikilink")》等。2017年帶領兔將完成第一部好萊塢大片《[超凡戰隊](https://zh.wikipedia.org/wiki/金剛戰士_\(2017年電影\) "wikilink")》3D立體電影製作，並完成多部IP大劇之特效製作，如劇版點擊突破五百億的《[三生三世十里桃花](https://zh.wikipedia.org/wiki/三生三世十里桃花_\(电视剧\) "wikilink")》等。所帶領研發的圖學技術與世界首創雲端製作系統被廣泛應用在電影及動畫製作。2016年憑電影《[紅衣小女孩](../Page/紅衣小女孩.md "wikilink")》入圍金馬獎第53屆最佳視覺效果。\[3\]2017年憑電影《目擊者》再度入圍金馬獎第54屆最佳視覺效果。\[4\]2018年更帶領兔將參與了春節賀歲票房冠軍《唐人街探案2》的製作，開春便交出漂亮的成績。
+
+## 主要作品
+
+### 電影
+
+| 年份                                                                | 電影名稱                                                                  |
+| ----------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 2019                                                              | 《[回到過去擁抱你](https://movie.douban.com/subject/27073835/celebrities)》    |
+| 《[媽閣是座城](https://movie.douban.com/subject/26304201/)》             |                                                                       |
+| 《[狗眼看人心](../Page/狗眼看人心.md "wikilink")》                            |                                                                       |
+| 《[神探蒲松齡](https://zh.wikipedia.org/wiki/神探蒲松齡 "wikilink")》         |                                                                       |
+| 2018                                                              | 《[慾念遊戲](https://zh.wikipedia.org/wiki/慾念遊戲 "wikilink")》               |
+| 《[天氣預爆](https://movie.douban.com/subject/26994789/)》              |                                                                       |
+| 《[胖子行動隊](https://zh.wikipedia.org/wiki/胖子行動隊 "wikilink")》         |                                                                       |
+| 《[人面魚：紅衣小女孩外傳](../Page/人面魚：紅衣小女孩外傳.md "wikilink")》                |                                                                       |
+| 《[粽邪](../Page/粽邪.md "wikilink")》                                  |                                                                       |
+| 《[影 Shadow](https://movie.douban.com/subject/4864908/)》           |                                                                       |
+| 《[媽媽咪鴨](https://movie.douban.com/subject/26603666/)》              |                                                                       |
+| 《[唐人街探案2](../Page/唐人街探案2.md "wikilink")》                          |                                                                       |
+| 2017                                                              | 《[心理罪之城市之光](../Page/心理罪之城市之光.md "wikilink")》                          |
+| 《[極致追擊](../Page/极致追击.md "wikilink")》                              |                                                                       |
+| 《[紅衣小女孩2](../Page/紅衣小女孩2.md "wikilink")》                          |                                                                       |
+| 《[閃光少女](https://zh.wikipedia.org/wiki/閃光少女 "wikilink")》           |                                                                       |
+| 《[京城81號2](https://zh.wikipedia.org/wiki/京城81號2 "wikilink")》       |                                                                       |
+| 《[大護法](../Page/大护法.md "wikilink")》                                |                                                                       |
+| 《[超凡戰隊](https://zh.wikipedia.org/wiki/超凡战队 "wikilink")》\[5\]\[6\] |                                                                       |
+| 《[目擊者](../Page/目擊者_\(2017年電影\).md "wikilink")》\[7\]               |                                                                       |
+| 《[健忘村](../Page/健忘村.md "wikilink")》\[8\]                           |                                                                       |
+| 《[功夫瑜伽](https://zh.wikipedia.org/wiki/功夫瑜伽 "wikilink")》\[9\]      |                                                                       |
+| 《[決戰食神](../Page/決戰食神.md "wikilink")》\[10\]                        |                                                                       |
+| 2016                                                              | 《[大魚海棠](../Page/大鱼海棠.md "wikilink")》\[11\]                            |
+| 《[寒戰II](https://zh.wikipedia.org/wiki/寒戰II "wikilink")》\[12\]     |                                                                       |
+| 《[快手槍手快槍手](../Page/快手槍手快槍手.md "wikilink")》\[13\]                  |                                                                       |
+| 《[真相禁區](../Page/真相禁區.md "wikilink")》\[14\]                        |                                                                       |
+| 2015                                                              | 《[不可思異](https://zh.wikipedia.org/wiki/不可思異 "wikilink")》\[15\]         |
+| 《[捉妖記](https://zh.wikipedia.org/wiki/捉妖记 "wikilink")》\[16\]\[17\] |                                                                       |
+| 《[紅衣小女孩](../Page/紅衣小女孩_\(電影\).md "wikilink")》\[18\]               |                                                                       |
+| 《[天將雄獅](https://zh.wikipedia.org/wiki/天将雄狮 "wikilink")》\[19\]     |                                                                       |
+| 2014                                                              | 《[黃飛鴻之英雄有夢](https://zh.wikipedia.org/wiki/黃飛鴻之英雄有夢 "wikilink")》\[20\] |
+| 《[大稻埕](../Page/大稻埕.md "wikilink")》\[21\]                          |                                                                       |
+| 2013                                                              | 《[風暴](https://zh.wikipedia.org/wiki/風暴 "wikilink")》\[22\]             |
+| 《[5月天諾亞方舟](../Page/5月天諾亞方舟.md "wikilink")》\[23\]\[24\]            |                                                                       |
+| 《[蠱](https://zh.wikipedia.org/wiki/蠱 "wikilink")》\[25\]           |                                                                       |
+
+## 電視劇
+
+| 年份                                                                    | 作品名稱                                                                |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| 2019                                                                  | 《[三生三世宸汐緣](https://movie.douban.com/subject/30230682/)》\[26\]       |
+| 《[風暴舞](../Page/风暴舞.md "wikilink")》                                    |                                                                     |
+| 《[鶴唳華亭](https://movie.douban.com/subject/27114834/)》                  |                                                                     |
+| 《[只為遇見你](../Page/只为遇见你.md "wikilink")》                                |                                                                     |
+| 2018                                                                  | 《[為了你我願意熱愛整個世界](../Page/为了你我愿意热爱整个世界.md "wikilink")》\[27\]          |
+| 《[橙紅年代](https://zh.wikipedia.org/wiki/橙紅年代 "wikilink")》\[28\]         |                                                                     |
+| 《[香蜜沉沉燼如霜](../Page/香蜜沉沉燼如霜.md "wikilink")》\[29\]                      |                                                                     |
+| 《[溫暖的弦](https://zh.wikipedia.org/wiki/溫暖的弦 "wikilink")》\[30\]         |                                                                     |
+| 2017                                                                  | 《[醉玲瓏](../Page/醉玲珑.md "wikilink")》\[31\]                            |
+| 《[三生三世十里桃花](https://zh.wikipedia.org/wiki/三生三世十里桃花 "wikilink")》\[32\] |                                                                     |
+| 2016                                                                  | 《[微微一笑很傾城](https://zh.wikipedia.org/wiki/微微一笑很傾城 "wikilink")》\[33\] |
+
+## 獎項\[34\]
+
+### 金馬獎
+
+| 年份                                                                            | 獎項                                        | 作品                                                    | 結果             |
+| ----------------------------------------------------------------------------- | ----------------------------------------- | ----------------------------------------------------- | -------------- |
+| 2017 <small>[(54屆)](https://zh.wikipedia.org/wiki/第54屆金馬獎 "wikilink")</small> | [最佳視覺效果](../Page/金馬獎最佳視覺效果.md "wikilink") | 《[目擊者](https://zh.wikipedia.org/wiki/目擊者 "wikilink")》 | 提名\[35\]\[36\] |
+| 2016 <small>[(53屆)](https://zh.wikipedia.org/wiki/第53屆金馬獎 "wikilink")</small> | [最佳視覺效果](../Page/金馬獎最佳視覺效果.md "wikilink") | 《[紅衣小女孩](../Page/紅衣小女孩_\(電影\).md "wikilink")》         | 提名\[37\]       |
+
+### 亞太影展
+
+| 年份                                                          | 獎項     | 作品                                       | 結果             |
+| ----------------------------------------------------------- | ------ | ---------------------------------------- | -------------- |
+| 2018 <small>[(58屆)](../Page/第58屆亞太影展.md "wikilink")</small> | 最佳視覺特效 | 《[紅衣小女孩2](../Page/紅衣小女孩2.md "wikilink")》 | 提名\[38\]\[39\] |
+
+## 外部連結
+
+  - 李昭樺
+    在[互聯網電影數據庫](https://zh.wikipedia.org/wiki/互聯網電影數據庫 "wikilink")（IMDb）上的資料**<small>（英文）</small>**
+  - 李昭樺在[豆瓣電影上的頁面](../Page/豆瓣.md "wikilink")**<small>（简体中文）</small>**
+  - 李昭樺在[时光网的頁面](../Page/时光网.md "wikilink")**<small>（简体中文）</small>**
+
+## 參考文獻
+
+1.  [財訊─華宇第二代》李昭樺兔將靠３Ｄ練兵　要當亞洲皮克斯](https://web.archive.org/web/20170912144639/http://www.wealth.com.tw/article_in.aspx?nid=6679)
+2.  [財訊─兔將讓人、妖逼真同台
+    五年拚出亞洲特效天王《捉妖記》、《紅衣小女孩》特效團隊　營收年年翻倍](https://web.archive.org/web/20170912144639/http://www.wealth.com.tw/article_in.aspx?nid=6679)
+3.  [專訪－台灣獨創3D技術
+    三人打造兩岸特效王國](https://www.gvm.com.tw/article.html?id=44454)
+
+<!-- end list -->
+
+1.   台灣電影網 Taiwan
+    Cinema|accessdate=2019-05-15|last=台灣電影網|work=www.taiwancinema.com}}
+2.   最懂投資的財經媒體|language=zh-TW}}
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.  遠見雜誌|accessdate=2019-05-17|last=遠見天下文化出版股份有限公司|work=遠見雜誌 - 前進的動力}}
+18.
+19.
+20.  遠見雜誌|accessdate=2019-05-17|last=遠見天下文化出版股份有限公司|work=遠見雜誌 - 前進的動力}}
+21.
+22.  遠見雜誌|accessdate=2019-05-17|last=遠見天下文化出版股份有限公司|work=遠見雜誌 - 前進的動力}}
+23.
+24.
+25.  台灣電影網 Taiwan
+    Cinema|accessdate=2019-05-17|last=台灣電影網|work=www.taiwancinema.com}}
+26.
+    ETtoday星光雲|accessdate=2019-05-16|last=ETtoday新聞雲|work=star.ettoday.net|language=zh-Hant}}
+27.
+28.
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+36.
+37.
+38.
+39.

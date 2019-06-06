@@ -46,14 +46,14 @@ TAEYEON CONCERT》並透露將會有全新舞台，同時也是該巡迴的最�
 <td><p>2018年11月17日</p></td>
 <td><p><a href="../Page/香港.md" title="wikilink">香港</a></p></td>
 <td></td>
-<td><p>亞洲國際博覽館Arena</p></td>
+<td><p><a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館Arena</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年12月1日</p></td>
 <td><p><a href="../Page/曼谷.md" title="wikilink">曼谷</a></p></td>
 <td></td>
-<td><p>Thunder Dome Muang Thong Thani</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Thunder_Dome" title="wikilink">Thunder Dome</a> Muang Thong Thani</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -67,14 +67,14 @@ TAEYEON CONCERT》並透露將會有全新舞台，同時也是該巡迴的最�
 <td><p>2018年12月14日</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬尼拉" title="wikilink">馬尼拉</a></p></td>
 <td></td>
-<td><p>New Frontier Theater</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/New_Frontier_Theater" title="wikilink">New Frontier Theater</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2019年1月12日</p></td>
 <td><p><a href="../Page/新加坡.md" title="wikilink">新加坡</a></p></td>
 <td></td>
-<td><p>新加坡博览中心</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新加坡博览中心" title="wikilink">新加坡博览中心</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
