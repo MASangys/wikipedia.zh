@@ -23,7 +23,7 @@ c/w曲《變成向日葵》是對aiko極具意義的歌曲，當年aiko就是憑
 
 ## 外部連結
 
-  - [唱片介紹](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200800000047&DSP_SKHKETSEQ=001)
+  - [唱片介紹](https://web.archive.org/web/20110908013900/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200800000047&DSP_SKHKETSEQ=001)
 
 [Category:Aiko歌曲](https://zh.wikipedia.org/wiki/Category:Aiko歌曲 "wikilink")
 [Category:2008年單曲](https://zh.wikipedia.org/wiki/Category:2008年單曲 "wikilink")

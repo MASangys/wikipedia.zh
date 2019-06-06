@@ -102,7 +102,7 @@
 
 ## 外部連結
 
-  - [波麗佳音](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002285&DSP_SKHKETSEQ=003)
+  - [波麗佳音](https://web.archive.org/web/20140103132203/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201100002285&DSP_SKHKETSEQ=003)
   - [金牌大風](https://web.archive.org/web/20120328023252/http://www.gold-typhoon.com.tw/music/album/5216)
 
 [Category:羅志祥音樂專輯](https://zh.wikipedia.org/wiki/Category:羅志祥音樂專輯 "wikilink")

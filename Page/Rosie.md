@@ -20,7 +20,7 @@ box](https://zh.wikipedia.org/wiki/astral_box "wikilink")》的曲目；《他�
 
 ## 外部連結
 
-  - [唱片介紹](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200100000368&DSP_SKHKETSEQ=001)
+  - [唱片介紹](https://web.archive.org/web/20110908014627/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200100000368&DSP_SKHKETSEQ=001)
 
 [Category:aiko歌曲](https://zh.wikipedia.org/wiki/Category:aiko歌曲 "wikilink")
 [Category:2001年單曲](https://zh.wikipedia.org/wiki/Category:2001年單曲 "wikilink")

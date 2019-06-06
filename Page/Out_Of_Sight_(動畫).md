@@ -95,7 +95,7 @@ Sight**》，官方中文名稱為《**敲敲**》，並簡稱為**OOS**\[1\]，
   - [Out of Sight
     官方網站](https://web.archive.org/web/20120325164446/http://evaty.main.jp/oos/)
   - [用心体味 创造视线之外的奇幻魔力——访《Out of
-    Sight》创作团队](http://www.hxsd.com/news/zhuantipindao/20110412OOS/index.html)
+    Sight》创作团队](https://web.archive.org/web/20110827111836/http://www.hxsd.com/news/zhuantipindao/20110412OOS/index.html)
   - [自由時報電子報：日本點閱率第1　台藝大學生動畫當紅](http://iservice.libertytimes.com.tw/liveNews/news.php?no=420400)
 
 [Category:臺灣網路動畫](https://zh.wikipedia.org/wiki/Category:臺灣網路動畫 "wikilink")

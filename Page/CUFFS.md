@@ -45,6 +45,7 @@ Line（スタジオライン）公司協助下於2005年時成立CUFFS公司，�
   - 2019年2月22日：[我的未來是戀愛與課金 ～Charge To The
     Future～](../Page/我的未來是戀愛與課金_～Charge_To_The_Future～.md "wikilink")（～Charge
     To The Future～）
+  - 2019年9月27日：
 
 ## 參考資料
 

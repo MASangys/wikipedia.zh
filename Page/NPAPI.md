@@ -30,8 +30,7 @@
     Player](https://zh.wikipedia.org/wiki/Windows_Media_Player "wikilink")
 
 正是由于其跨浏览器的特性，插件库的内容更新及管理一般不是由浏览器而是由各个插件提供商自行维护的。这个特点引发了一些安全性上的疑虑\[2\]，[Google
-Chrome提出了名为](../Page/Google_Chrome.md "wikilink")[PPAPI](https://zh.wikipedia.org/wiki/PPAPI "wikilink")（Pepper
-Plugin
+Chrome提出了名为](../Page/Google_Chrome.md "wikilink")（Pepper Plugin
 API）的解决方案\[3\]，但没有得到其它厂商，特别是[Mozilla基金會的普遍支持](../Page/Mozilla基金會.md "wikilink")\[4\]。
 
 2014年11月，Google宣布[Chrome将于](https://zh.wikipedia.org/wiki/Chrome "wikilink")2015年1月默认屏蔽NPAPI插件，9月份會完全移除支持，以鼓励开发者和用户转用[HTML5](../Page/HTML5.md "wikilink")、Chrome

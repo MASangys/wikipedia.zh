@@ -1,5 +1,4 @@
-"**Fuck You**" (前稱 "**Guess Who Batman**"，中譯：去你的)
-是英國歌手[莉莉·艾倫](../Page/莉莉·艾倫.md "wikilink")
+"**Fuck You**" (中譯：去你的) 是英國歌手[莉莉·艾倫](../Page/莉莉·艾倫.md "wikilink")
 發行的第二張個人專輯*[It's Not Me, It's
 You](https://zh.wikipedia.org/wiki/It's_Not_Me,_It's_You "wikilink")*所收錄之單曲；亦為其全球發行之第三首單曲。\[1\]
 
@@ -18,7 +17,7 @@ Party，BNP）的影響寫成，並加註「後來發現歌曲內容範圍涵蓋
 這首歌由艾倫本人和[Greg
 Kurstin寫成](https://zh.wikipedia.org/wiki/Greg_Kurstin "wikilink")。
 
-## 市場票房
+## 成績
 
 該曲發行後即位居加拿大百大榜37名，雖然當時並未正式發售該曲。 同週，該曲進入告示牌百大榜第68名。\[7\]
 

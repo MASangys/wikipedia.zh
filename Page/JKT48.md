@@ -189,7 +189,7 @@ Team J在2012年12月23日成立。
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>Cinvia / Yupi</p></td>
+<td><p>Cinvia／Yupi</p></td>
 <td></td>
 <td><p>2期</p></td>
 <td><p>2013年6月25日</p></td>
@@ -333,7 +333,7 @@ Team KIII在2013年6月25日成立。
 <td></td>
 <td><p>2期</p></td>
 <td><p>2013年6月25日</p></td>
-<td><p>-</p></td>
+<td><p>預定畢業</p></td>
 <td><p>29</p></td>
 </tr>
 <tr class="even">
@@ -745,7 +745,7 @@ Kyla</p></td>
 <td><p>Aurel Mayori</p></td>
 <td><p>Yori</p></td>
 <td></td>
-<td><p>JKT48最年少</p></td>
+<td></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>
@@ -878,6 +878,177 @@ Kyla</p></td>
 </tr>
 <tr class="odd">
 <td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Class B
+
+<table>
+<thead>
+<tr class="header">
+<th><p>姓名</p></th>
+<th><p>暱稱</p></th>
+<th><p>出生日期</p></th>
+<th><p>加入<br />
+期別</p></th>
+<th><p>備註</p></th>
+<th><p>總選舉<br />
+最高排名</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>Amanina Afiqah</p></td>
+<td><p>Afiqah</p></td>
+<td></td>
+<td><p>8期</p></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>Amirah Fatin</p></td>
+<td><p>Mira</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Cindy Nugroho</p></td>
+<td><p>Nunu</p></td>
+<td></td>
+<td><p>AKB48集團最年少</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Cornelia Vanisa</p></td>
+<td><p>Onil</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Devytha Maharani</p></td>
+<td><p>Devytha</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Eriena Kartika</p></td>
+<td><p>Erichan</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Fiony Alveria</p></td>
+<td><p>Fiony</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Flora Shafiq</p></td>
+<td><p>Flora</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Gabriela Stefany</p></td>
+<td><p>Vany</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Keisya Ramadhani</p></td>
+<td><p>Keisya</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Lulu Salsabila</p></td>
+<td><p>Lulu</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Nyimas Ratu Rafa</p></td>
+<td><p>Ratu</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Pamela Krysanthe</p></td>
+<td><p>Pamela</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Reva Adriana</p></td>
+<td><p>Reva</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Reva Fidela</p></td>
+<td><p>Adel</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Salma Annisa</p></td>
+<td><p>Alma</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Umega Maulana</p></td>
+<td><p>Ume</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Zahra Nur</p></td>
+<td><p>Ara</p></td>
+<td></td>
+<td><p>-</p></td>
+<td><p>-</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

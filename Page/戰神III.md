@@ -339,7 +339,6 @@ Collection）裡所附加DEMO下載小卡）、2010年2月25日（PSN免費下�
 [Category:2010年电子游戏](https://zh.wikipedia.org/wiki/Category:2010年电子游戏 "wikilink")
 [Category:战神系列](https://zh.wikipedia.org/wiki/Category:战神系列 "wikilink")
 [Category:動作冒險遊戲](https://zh.wikipedia.org/wiki/Category:動作冒險遊戲 "wikilink")
-[Category:索尼互動娛樂遊戲](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂遊戲 "wikilink")
 [Category:PlayStation_3游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_3游戏 "wikilink")
 [Category:PlayStation_4游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_4游戏 "wikilink")
 [Category:后传电子游戏](https://zh.wikipedia.org/wiki/Category:后传电子游戏 "wikilink")

@@ -38,7 +38,7 @@ Mozilla在JägerMonkey中實做了一個臨界值的最佳化，重要的還有�
 caching）及[类型推论](../Page/类型推论.md "wikilink")\[13\]，Kraken和[V8测试分数显示](../Page/V8_\(JavaScript引擎\).md "wikilink")，[类型推论可以分别带来](../Page/类型推论.md "wikilink")44%与30%的分数提升。\[14\]
 
 TraceMonkey及JägerMonkey的JIT技術的異同在[一篇hacks.mozilla.org的文章](http://hacks.mozilla.org/2010/03/improving-javascript-performance-with-jagermonkey/)中有做解釋，深入的技術細節可在一篇由SpiderMonkey的開發者Chris
-Leary的[文章](http://blog.cdleary.com/2010/09/picing-on-javascript-for-fun-and-profit/)中取得，更多技術資訊还可在其他開發者的部落格中找到：[dvander](http://www.bailopan.net/blog/)、[dmandelin](https://web.archive.org/web/20101211124954/http://blog.mozilla.com/dmandelin/)。
+Leary的[文章](https://archive.is/20121209102341/http://blog.cdleary.com/2010/09/picing-on-javascript-for-fun-and-profit/)中取得，更多技術資訊还可在其他開發者的部落格中找到：[dvander](http://www.bailopan.net/blog/)、[dmandelin](https://web.archive.org/web/20101211124954/http://blog.mozilla.com/dmandelin/)。
 
 ## 標準
 
@@ -101,7 +101,7 @@ SpiderMonkey可被嵌入於應用程式中，並为應用程式提供執行JavaS
   - ，BBS、電子郵件和伺服器軟體
 
 SpiderMonkey亦提供了JavaScript
-Shell，它是一個互動式開發環境，可讓開發者使用[命令列來執行JavaScript程式](https://zh.wikipedia.org/wiki/命令列 "wikilink")\[22\]。
+Shell，它是一個互動式開發環境，可讓開發者使用[命令列來執行](https://zh.wikipedia.org/wiki/命令列 "wikilink")[JavaScript程式](../Page/JavaScript.md "wikilink")\[22\]。
 許多大型組織使用SpiderMonkey來管理他們前端應用程式的JavaScript。
 
 ## 參考資料

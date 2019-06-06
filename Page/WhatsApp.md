@@ -91,17 +91,21 @@ WhatsApp的付費使用曾引起爭議，很多人認為伺服器運作成本「
 2013年1月，加拿大隱私權委員會辦公室（The Office of the Privacy Commissioner of
 Canada，OPC）與荷蘭資料保護機構（Dutch Data Protection
 Authority，CBP）共同針對知名行動程式WhatsApp的隱私作法展開調查，並指控WhatsApp違反國際隱私權準則，未能遵循國際間對於個人資料的保留、維護與揭露原則。
-\[27\]
+\[27\] 2019年5月，WhatsApp和以色列開發商NSO
+Group確認他們在Android和iOS版本WhatsApp的通話功能發現漏洞，而且成功置放NSO的Pegasus間諜軟體。這工具即使使用者沒有應答電話，也可以對目標進行攻擊，而且不會留下通話記錄。Pegasus還可以開啟相機和麥克風功能，以及存取位置和訊息內容。\[28\]
+
+2019年5月，WhatsApp和以色列開發商NSO
+Group確認他們在Android和iOS版本WhatsApp的通話功能發現漏洞，而且成功置放NSO的Pegasus間諜軟體。這工具即使使用者沒有應答電話，也可以對目標進行攻擊，而且不會留下通話記錄。Pegasus還可以開啟相機和麥克風功能，以及存取位置和訊息內容。\[29\]
 
 ## 地區限制
 
 ###
 
-2017年7月起，根據[法國國際廣播電台的報導](https://zh.wikipedia.org/wiki/法國國際廣播電台 "wikilink")，在[中国大陆訪問或使用WhatsApp的服務](../Page/中国大陆.md "wikilink")，可能受到[防火長城的限制而無法正常使用](https://zh.wikipedia.org/wiki/防火長城 "wikilink")\[28\]，當時只有視訊通話、圖片和檔案收發功能被封鎖。同年9月24日起，WhatsApp的收發文字訊息功能亦被封鎖，\[29\]目前WhatsApp需要通過[翻牆才能使用](https://zh.wikipedia.org/wiki/突破網絡審查 "wikilink")。
+2017年7月起，根據[法國國際廣播電台的報導](https://zh.wikipedia.org/wiki/法國國際廣播電台 "wikilink")，在[中国大陆訪問或使用WhatsApp的服務](../Page/中国大陆.md "wikilink")，可能受到[防火長城的限制而無法正常使用](https://zh.wikipedia.org/wiki/防火長城 "wikilink")\[30\]，當時只有視訊通話、圖片和檔案收發功能被封鎖。同年9月24日起，WhatsApp的收發文字訊息功能亦被封鎖，\[31\]目前WhatsApp需要通過[翻牆才能使用](https://zh.wikipedia.org/wiki/突破網絡審查 "wikilink")。
 
 ###
 
-2016年11月，在逮捕了11名亲[库尔德族政党人民民主党议员后](../Page/库尔德人.md "wikilink")，土耳其政府封锁了Whatsapp。\[30\]
+2016年11月，在逮捕了11名亲[库尔德族政党人民民主党议员后](../Page/库尔德人.md "wikilink")，土耳其政府封锁了Whatsapp。\[32\]
 
 ###
 
@@ -190,3 +194,7 @@ Authority，CBP）共同針對知名行動程式WhatsApp的隱私作法展開調
 29.
 
 30.
+
+31.
+
+32.

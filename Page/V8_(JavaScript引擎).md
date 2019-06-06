@@ -1,6 +1,6 @@
 **V8**是一個由[Google開發的](../Page/Google.md "wikilink")[開源](https://zh.wikipedia.org/wiki/開源 "wikilink")[JavaScript引擎](../Page/JavaScript引擎.md "wikilink")，用於[Google
 Chrome及](../Page/Google_Chrome.md "wikilink")[Chromium中](../Page/Chromium.md "wikilink")\[1\]。[Lars
-Bak是這個項目的組長](https://zh.wikipedia.org/wiki/Lars_Bak "wikilink")\[2\]。
+Bak是這個項目的組長](https://zh.wikipedia.org/wiki/Lars_Bak "wikilink")，以[V8发动机为其命名](../Page/V8发动机.md "wikilink")\[2\]。
 
 ## 運作方式
 

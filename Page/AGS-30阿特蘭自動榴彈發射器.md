@@ -35,9 +35,9 @@ AGS-30和[AGS-17一樣發射](../Page/AGS-17烈火自動榴彈發射器.md "wiki
   - ：由（簡稱：OFT）在（簡稱：OFB）以下本土生產。\[4\]
 
   -
-  - \[5\]\[6\]
+  - \[5\]
 
-  - \[7\]
+  - \[6\]\[7\]
 
   -
   -
@@ -165,8 +165,8 @@ AGS-30和[AGS-17一樣發射](../Page/AGS-17烈火自動榴彈發射器.md "wiki
 3.  [АГС-30](http://www.kbptula.ru/index.php/ru/razrabotki-kbp/strelkovo-pushechnoe-i-granatometnoe-vooruzhenie/granatomety/ags-30)
 4.  [404 - Материал не
     найден](http://www.kbptula.ru/index.php/ru/novosti/vystavki/314-defexpo-2014-anons)
-5.
+5.  <https://cdn.inquisitr.com/wp-content/uploads/2017/04/North-korean-battle-tanks.jpg>
 6.
-7.  <https://cdn.inquisitr.com/wp-content/uploads/2017/04/North-korean-battle-tanks.jpg>
+7.
 8.  [The rebirth of the Syrian Arab
     Army](http://www.voltairenet.org/article190703.html)

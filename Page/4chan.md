@@ -72,7 +72,8 @@ out of /jp/」（滾出/jp/）。/jp/的社區也发起过很多4chan以外的�
 ### /pol/
 
 [4chan_-pol-_logo.png](https://zh.wikipedia.org/wiki/File:4chan_-pol-_logo.png "fig:4chan_-pol-_logo.png")
-/pol/版（Politics，政治）是討論政治與新聞的貼圖版。\[83\]剛開始這版本來在/n/，名为「News」（新聞版），但因版上大部分討論与種族歧視有關，结果全版被克里斯托弗·普尔刪除。在收到大量的骚扰郵件之後于/new/重建新聞版，并特地声明說若/new/再度成為一個種族歧視發言版，他會再度刪版，结果因此/new/版在2011年1月又被刪除。\[84\]可是在2011年8月21日，moot向当时的/new/版民道歉：他谈到他曾批評过标榜言论自由的一站的創建者，指其毫无预警就關閉網站的行为忽视社群并妨碍了言论自由，但这次却發現自己在/new/的事情上也犯了同樣的錯誤——之後，moot于/pol/重建新闻版。\[85\]\[86\]
+/pol/版（Politics，政治）是討論政治與新聞的貼圖版。\[83\]剛開始這版本來在/n/，名为「News」（新聞版），但因版上大部分討論与種族歧視有關，结果全版被克里斯托弗·普尔刪除。在收到大量的骚扰郵件之後于/new/重建新聞版，并特地声明說若/new/再度成為一個種族歧視發言版，他會再度刪版，结果因此/new/版在2011年1月又被刪除。\[84\]可是在2011年8月21日，moot向当时的/new/版民道歉：他谈到他曾批評过标榜言论自由的[Encyclopedia
+Dramatica一站的創建者](../Page/Encyclopedia_Dramatica.md "wikilink")，指其毫无预警就關閉網站的行为忽视社群并妨碍了言论自由，但这次却發現自己在/new/的事情上也犯了同樣的錯誤——之後，moot于/pol/重建新闻版。\[85\]\[86\]
 
 許多的/pol/版民與當年的/new/版民有共同的特徵，其倾向包括[種族主義](https://zh.wikipedia.org/wiki/種族主義 "wikilink")，[種族歧視](https://zh.wikipedia.org/wiki/種族歧視 "wikilink")，反非洲人主義，[反猶太主義](https://zh.wikipedia.org/wiki/反猶太主義 "wikilink")，[否認納粹大屠殺](https://zh.wikipedia.org/wiki/否认犹太人大屠杀 "wikilink")，[美國民族主義等等](../Page/美國例外論.md "wikilink")，因而/pol/版的許多話題与美國黑人犯罪率與猶太陰謀相关。雖然/pol/版民的政見繁雜，但总体来说[右翼政治内容数量多](https://zh.wikipedia.org/wiki/右翼政治 "wikilink")，克里斯托弗·普尔也曾將/new/跟一個[白人優越主義的網站](../Page/白人優越主義.md "wikilink")——「」相提並論。\[87\]
 

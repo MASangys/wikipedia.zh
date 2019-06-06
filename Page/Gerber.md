@@ -128,15 +128,23 @@ RS-274-D格式已被弃用。\[38\]
   - 2010年2月，Gerber格式规格更新到版本F。
   - 2010年12月，Gerber格式规格更新到版本G。\[41\]
   - 2012年1月，Gerber格式规格更新到版本H。\[42\]
-  - 2013年2月，Gerber格式规格更新到版本I1。\[43\]
-  - 2013年4月，Gerber格式规格更新到版本I2。\[44\]
+  - 2013年2月，Gerber格式规格更新到版本I1。<ref name="rev I1">
+
+</ref>
+
+  - 2013年4月，Gerber格式规格更新到版本I2。<ref name="rev I2">
+
+</ref>
+
   - 2013年6月，Gerber格式规格更新到版本I3。
-  - 2013年6月，关于扩展Gerber格式以增加属性的建议发布。\[45\]
-  - 2013年11月，Gerber格式规格更新到I4版本。\[46\]
+  - 2013年6月，关于扩展Gerber格式以增加属性的建议发布。\[43\]
+  - 2013年11月，Gerber格式规格更新到I4版本。<ref name="rev I4">
+
+</ref>
 
 ## 相关格式
 
-多年来人们多次尝试用其它格式代替Gerber格式，以加入除层图像以外的其它信息，例如网络(netlist)和电子元件信息。\[47\]但可能因为这些格式过于复杂，它们都未被电子制造业所广泛接受。现在Gerber格式仍是应用最广泛的数据转换格式。\[48\]
+多年来人们多次尝试用其它格式代替Gerber格式，以加入除层图像以外的其它信息，例如网络(netlist)和电子元件信息。\[44\]但可能因为这些格式过于复杂，它们都未被电子制造业所广泛接受。现在Gerber格式仍是应用最广泛的数据转换格式。\[45\]
 
   - [IPC](https://zh.wikipedia.org/wiki/IPC_\(electronics\) "wikilink")-D-350
     C 《印刷线路板数字格式描述》发表于1989年。此规格于1992年被标准化成IEC
@@ -149,7 +157,7 @@ RS-274-D格式已被弃用。\[38\]
   - 电子设计交换格式, [EDIF](https://zh.wikipedia.org/wiki/EDIF "wikilink")
     ,很少被使用。
   - [ODB++格式](https://zh.wikipedia.org/wiki/ODB++ "wikilink")，来自Mentor
-    Graphics公司的一种CAM格式。偶尔被使用，是流行的非Gerber格式。\[49\]
+    Graphics公司的一种CAM格式。偶尔被使用，是流行的非Gerber格式。\[46\]
   - GenCAM:
     [IPC](https://zh.wikipedia.org/wiki/IPC_\(electronics\) "wikilink")-2511A《产品制造描述数据实施的通用要求和转换方法论》2000年版本，很少被使用。
   - GenCAM:
@@ -157,11 +165,11 @@ RS-274-D格式已被弃用。\[38\]
     《产品制造描述数据实施的通用要求和XML图表转换方法论》 2002年版本，很少被使用。
   - Offspring:
     [IPC](https://zh.wikipedia.org/wiki/IPC_\(electronics\) "wikilink")-2581《印刷线路板装配产品制造描述数据通用要求和转换方法论》
-    2004版本。很少被使用，但近年来受到更多的关注。\[50\]
+    2004版本。很少被使用，但近年来受到更多的关注。\[47\]
   - STEP AP210: [ISO
     10303](https://zh.wikipedia.org/wiki/ISO_10303 "wikilink")-210,
     《电子装配互连和封装设计 》第一版本2001， 第二版本2008。
-  - Fujiko: JPCA-EB02,\[51\]基于日本福冈大学Tomokage教授的研究的日本新标准，很少被使用。
+  - Fujiko: JPCA-EB02,\[48\]基于日本福冈大学Tomokage教授的研究的日本新标准，很少被使用。
 
 ## 参考文献
 
@@ -246,18 +254,12 @@ RS-274-D格式已被弃用。\[38\]
 42.
 
 43.
-
 44.
-
 45.
 46.
 
-47.
-48.
-49.
-
-50. [IPC-2581 Panel: A Spirited Discussion on PCB Data Transfer
+47. [IPC-2581 Panel: A Spirited Discussion on PCB Data Transfer
     Formats](http://www.cadence.com/Community/blogs/ii/archive/2011/10/02/ipc-2581-panel-a-spirited-discussion-on-pcb-data-transfer-formats.aspx),
     Richard Goering, Cadence Design Systems blog, October 2, 2011
 
-51.
+48.

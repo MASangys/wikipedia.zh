@@ -210,7 +210,9 @@ Plus的](https://zh.wikipedia.org/wiki/PlayStation_Plus "wikilink")30天會員�
 在《俠盜獵車手V》上市後不久，Rockstar
 Games推出了iFruit手機應用程式。玩者可使用該程式自定遊戲中可使用的車輛、設計車牌號碼，此外也可養育遊戲中的小狗「小查」（Chop），訓練牠學會新的技能。\[196\]
 
-在2018年11月，Rockstar宣布《侠盗猎车手V》的出貨數已突破1亿份，成为继《[俄罗斯方块](https://zh.wikipedia.org/wiki/俄罗斯方块 "wikilink")》和《[我的世界](../Page/我的世界.md "wikilink")》之后第三款出貨量达到1亿份的电子游戏。\[197\]
+在2018年11月，Rockstar宣布《侠盗猎车手V》的出貨數已突破1亿份，成为继《[俄罗斯方块](https://zh.wikipedia.org/wiki/俄罗斯方块 "wikilink")》和《[-{zh-cn:我的世界;
+zh-tw:當個創世神;
+zh-hk:當個創世神;}-](../Page/我的世界.md "wikilink")》之后第三款出貨量达到1亿份的电子游戏。\[197\]
 
 ### 奖项
 

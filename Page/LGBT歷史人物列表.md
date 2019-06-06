@@ -336,7 +336,7 @@ Zoticus</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/公为" title="wikilink">公叔務人</a></p></td>
 <td></td>
 <td><p><a href="../Page/春秋时期.md" title="wikilink">春秋</a><a href="https://zh.wikipedia.org/wiki/魯國" title="wikilink">魯國</a><a href="https://zh.wikipedia.org/wiki/公子" title="wikilink">公子</a></p></td>
-<td><p>汪錡</p></td>
+<td><p>嬖童汪錡</p></td>
 <td></td>
 <td><p>齊魯兩國在郊地開戰，務人與<a href="https://zh.wikipedia.org/wiki/孌童" title="wikilink">嬖童汪錡一同騎乘作戰</a>，雙雙身亡。<a href="https://zh.wikipedia.org/wiki/孔子" title="wikilink">孔子說可照成人禮葬汪錡</a><ref></p>
 <ul>
@@ -362,7 +362,7 @@ Zoticus</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/戰國.md" title="wikilink">戰國</a><a href="https://zh.wikipedia.org/wiki/楚國" title="wikilink">楚國</a><a href="https://zh.wikipedia.org/wiki/公子" title="wikilink">公子</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/越人" title="wikilink">越人</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/越人" title="wikilink">越人舟子</a></p></td>
 <td></td>
 <td><p>越人操舟而歌，向鄂君傳情，鄂君聽畢<a href="https://zh.wikipedia.org/wiki/通譯" title="wikilink">通譯所譯</a><a href="../Page/越人歌.md" title="wikilink">越人歌後</a>，向前擁抱，舉繡被而覆之<ref></p>
 <ul>

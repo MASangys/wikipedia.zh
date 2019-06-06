@@ -77,7 +77,7 @@ Crew运营已停止并全面转为DJMAX TECHNIKA 2）
 
   - [S4 League](../Page/S4_League.md "wikilink")（Windows 在线
     [第三人称射击游戏](https://zh.wikipedia.org/wiki/第三人称射击游戏 "wikilink")
-    2007年7月25日公开测试）[3](http://s4.en.alaplaya.net/)
+    2007年7月25日公开测试）[3](https://web.archive.org/web/20101002212136/http://s4.en.alaplaya.net/)
   - DUELGATE（Windows 在线 动作 [即时战略游戏](../Page/即时战略游戏.md "wikilink")
     2007年10月17日公开测试）
 
@@ -86,7 +86,8 @@ Crew运营已停止并全面转为DJMAX TECHNIKA 2）
   - [PENTAVISION官方网站（韩语）](https://web.archive.org/web/20150203054029/http://www.pentavision.co.kr/)
   - [Neowiz
     Corporation官方网站（韩语）](https://web.archive.org/web/20080706130724/http://www.neowiz.com/kor/)
-  - [S4 League面向全球游戏专区官方网站（英语）](http://s4.en.alaplaya.net/)
+  - [S4
+    League面向全球游戏专区官方网站（英语）](https://web.archive.org/web/20101002212136/http://s4.en.alaplaya.net/)
   - [DJMAX
     Hottune官网排名网站（英语）](https://web.archive.org/web/20100615223311/http://www.djmax.co.kr/hottunes/Rank.asp)
 

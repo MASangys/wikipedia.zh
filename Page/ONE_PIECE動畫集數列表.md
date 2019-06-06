@@ -552,7 +552,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 </tr>
 <tr class="odd">
 <td><p>69</p></td>
-<td><p>克比跟貝魯梅伯的決心！格普中將的父母心</p></td>
+<td><p>克比跟貝魯梅伯的決心！卡普中將的父母心</p></td>
 <td><p>コビメッポの決意！ガープ中将の親心</p></td>
 <td><p>境宗久</p></td>
 <td><p>高木雅之</p></td>
@@ -5661,7 +5661,7 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 </tr>
 <tr class="odd">
 <td><p>710</p></td>
-<td><p>愛的決戰 新棟樑蔡VSBABY 5</p></td>
+<td><p>愛的決戰 新棟樑雜菜VSBABY 5</p></td>
 <td><p>中山-{}-智博</p></td>
 <td><p>小牧文</p></td>
 <td><p>川村敦子</p></td>
@@ -7014,14 +7014,14 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 </tr>
 <tr class="odd">
 <td><p>879</p></td>
-<td><p>前往世界會議 草帽小子的盟友們</p></td>
+<td><p>前往世界會議 集合,草帽小子的盟友們</p></td>
 <td></td>
 <td><p>田中仁</p></td>
 <td><p>上田芳裕</p></td>
 </tr>
 <tr class="even">
 <td><p>880</p></td>
-<td><p>薩波出動 革命軍全軍隊長登場</p></td>
+<td><p>薩波出動 革命軍全體軍隊長登場</p></td>
 <td></td>
 <td><p>中山-{}-智博</p></td>
 <td><p>佐藤宏幸</p></td>
@@ -7048,39 +7048,39 @@ PIECE](https://zh.wikipedia.org/wiki/ONE_PIECE_\(动画\) "wikilink")》集数�
 <td><p>所勝美</p></td>
 </tr>
 <tr class="even">
-<td><p>885</p></td>
+<td><p>884</p></td>
+<td><p>想見你 薇薇和蕾貝卡的思念</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>中山-{}-智博</p></td>
+<td><p>中島豊</p></td>
 </tr>
 <tr class="odd">
-<td><p>886</p></td>
+<td><p>885</p></td>
+<td><p>聖地的黑暗 神秘的巨大草帽</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>田中仁</p></td>
+<td><p>上田芳裕</p></td>
 </tr>
 <tr class="even">
-<td><p>887</p></td>
+<td><p>886</p></td>
+<td><p>聖地騷動 被盯上的白星公主</p></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>冨岡淳広</p></td>
+<td><p>細田雅弘</p></td>
 </tr>
 <tr class="odd">
+<td><p>887</p></td>
+<td><p>一觸即發 盯上魯夫的兩位四皇</p></td>
+<td></td>
+<td><p>米村正二</p></td>
+<td><p>中島豊</p></td>
+</tr>
+<tr class="even">
 <td><p>888</p></td>
 <td><p>薩波激怒 革命軍幹部大熊的悲劇</p></td>
 <td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>889</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>中山-{}-智博</p></td>
+<td><p>所勝美</p></td>
 </tr>
 <tr class="odd">
 <td><p>890</p></td>

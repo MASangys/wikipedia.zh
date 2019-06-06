@@ -1,7 +1,7 @@
 **DuckDuckGo**是一款[網際網路搜尋引擎](https://zh.wikipedia.org/wiki/搜尋引擎 "wikilink")，其注重用戶私隱，及避免[个性化检索所致的](../Page/个性化检索.md "wikilink")[過濾氣泡](https://zh.wikipedia.org/wiki/過濾氣泡 "wikilink")\[1\]。它與其他搜尋引擎不同的地方在於其不會分析自己的用戶、對所有使用同一組關鍵詞的用戶顯示同樣的結果\[2\]。它也強調返回最佳結果，而不是最多網站連結之結果。它會在搜尋結果中引入其他獨立來源的內容，總數多於400個，其中包括像[維基百科般的](https://zh.wikipedia.org/wiki/維基百科 "wikilink")[众包網站](../Page/众包.md "wikilink")、其他搜尋引擎（如[Bing](../Page/Bing.md "wikilink")、Yandex、[Yahoo\!
 Search](../Page/Yahoo!_Search.md "wikilink")）\[3\]\[4\]。在2019年3月，它平均每日處理的搜尋量達36,203,556宗\[5\]。
 
-其總部位於美國[賓夕法尼亞州佩奧利市](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")，共有59名員工\[6\]。公司名稱源於一款兒童遊戲——「Duck
+其總部位於美國[賓夕法尼亞州佩奧利市](https://zh.wikipedia.org/wiki/賓夕法尼亞州 "wikilink")，共有59名員工\[6\]。公司名稱源於一個兒童遊戲——「Duck
 duck goose」\[7\]\[8\]。
 
 部分DuckDuckGo的[源代码以](../Page/源代码.md "wikilink")[Apache特許條款特許](../Page/Apache许可证.md "wikilink")，由[GitHub負責託管](../Page/GitHub.md "wikilink")\[9\]，不過核心部分仍是[專有的](../Page/专有软件.md "wikilink")。由該公司註冊的域名還包括ddg[.gg](https://zh.wikipedia.org/wiki/.gg "wikilink")、ddg.co、由google轉讓的duck.com，它們皆為DuckDuckGo的短網址。

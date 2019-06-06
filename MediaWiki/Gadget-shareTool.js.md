@@ -122,7 +122,7 @@
 `           }`
 `           url += '?&' + $.param(query);`
 
-`           var portletLink = $(mw.util.addPortletLink('p-share', url, title, 's-share' + id)).find('a').andSelf().filter('a');`
+`           var portletLink = $(mw.util.addPortletLink('p-share', url, title, 's-share' + id)).find('a').addBack().filter('a');`
 `           $(portletLink).click(function (e) {`
 `               e.preventDefault();`
 `               window.open(url, '_blank', 'scrollbars=' + scroll + ',width=' + w + ',height=' + h + ',left=75,top=20,status=no,resizable=yes');`

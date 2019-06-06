@@ -1070,6 +1070,8 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
 
 ### 主題曲
 
+**The Brave Legend**
+
 ### 各話列表
 
 <table>
@@ -1672,8 +1674,6 @@ ASTRAY機體為藍本](../Page/機動戰士GUNDAM_SEED_ASTRAY.md "wikilink")，�
   - [三國傳系列編劇「岸本みゆき」的Twitter](http://twitter.com/miyukivirgo/)
 
   - [My卡通動畫網 - SD鋼-{}-彈三國傳](http://www.my-cartoon.com.tw/sdgundam/)
-
-[ja:BB戦士三国伝](https://zh.wikipedia.org/wiki/ja:BB戦士三国伝 "wikilink")
 
 [Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
 [Category:三國題材漫畫](https://zh.wikipedia.org/wiki/Category:三國題材漫畫 "wikilink")

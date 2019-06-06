@@ -1,5 +1,5 @@
 **NTFS符号链接**（Symbolic
-Link），又稱**符號連結**\[1\]，是[NTFS](../Page/NTFS.md "wikilink")[文件系统中指向文件系统中的另一个对象的一类对象](../Page/文件系统.md "wikilink")。被指向的对象叫做“目标”。它们可以像普通文件一样操作，但所有对符号链接的操作都实际作用于目标对象。[符号链接对用户而言是透明的](../Page/符号链接.md "wikilink")，符号链接看上去和普通的文件和文件夹没有区别，操作方法也一模一样。NTFS符号链接的设计目的是为了和[POSIX标准的](https://zh.wikipedia.org/wiki/POSIX "wikilink")[操作系统兼容](../Page/操作系统.md "wikilink")、並用來增進與舊版作業系統的相容性，它首次出现于[Windows
+Link），又稱**-{zh-cn:符号连结;zh-tw:符號鏈接}-**\[1\]，是[NTFS](../Page/NTFS.md "wikilink")[文件系统中指向文件系统中的另一个对象的一类对象](../Page/文件系统.md "wikilink")。被指向的对象叫做“目标”。它们可以像普通文件一样操作，但所有对符号链接的操作都实际作用于目标对象。[符号链接对用户而言是透明的](../Page/符号链接.md "wikilink")，符号链接看上去和普通的文件和文件夹没有区别，操作方法也一模一样。NTFS符号链接的设计目的是为了和[POSIX标准的](https://zh.wikipedia.org/wiki/POSIX "wikilink")[操作系统兼容](../Page/操作系统.md "wikilink")、並用來增進與舊版作業系統的相容性，它首次出现于[Windows
 Vista](../Page/Windows_Vista.md "wikilink")。
 
 [Windows
@@ -50,17 +50,17 @@ rd directoryname
 
 ## 限制
 
-Windows操作系统启动时不支持符号链接。所以不应该对下列文件夹重定向：
+Windows 操作系統不支援在啟動時使用符號連結，因此不應重新導向以下目錄：
 
-  - 目录包含了hiberfil.sys (如果被配置在根目录以外)
+  - 含有hiberfil.sys的目錄（設定為不在根目錄的時候）
   - \\Windows
   - \\Windows\\system32
   - \\Windows\\system32\\Config
 
-Windows Installer不完整支持符号链接。对\\Windows\\Installer重定向会导致多数基于.msi的Windows
-installers失败报告error 2755 或 error 1632.
+Windows Installer 對符號連結的支援不完整。如 \\Windows\\Installer 目錄被重新導向，將導致多數使用
+.msi 的 Windows Installer 發生 2755 及/或 1632 錯誤。
 
-可以重定向下列目录:
+而下列目錄可以重新導向：
 
   - \\Documents and Settings
   - \\ProgramData
@@ -68,8 +68,9 @@ installers失败报告error 2755 或 error 1632.
   - \\Program Files (x86)
   - \\Users
 
-但是对\\Users与\\ProgramData重定向不被推荐，因为会打破[Windows
-Update与Windows](../Page/Windows_Update.md "wikilink") Store Apps.\[6\]
+但是不建議重新導向 \\Users 及 \\ProgramData，因為這樣做會影響 [Windows
+Update](../Page/Windows_Update.md "wikilink") 及 [Microsoft Store
+應用程式的運作](../Page/通用Windows平台应用.md "wikilink")。\[6\]
 
 ## 內建符號連結的範例
 

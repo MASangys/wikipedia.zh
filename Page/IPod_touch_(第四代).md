@@ -2,7 +2,7 @@
 4**是[蘋果公司設計開發的第四代的](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")[可攜式媒體播放器](../Page/可攜式媒體播放器.md "wikilink")，也是屬於[iPod系列的一部份](https://zh.wikipedia.org/wiki/iPod "wikilink")，2010年9月1日由當時的蘋果的首席執行官[史蒂夫·賈伯斯在舊金山的發佈會中推出](https://zh.wikipedia.org/wiki/史蒂夫·賈伯斯 "wikilink")。蘋果於2011年10月5日的發佈會中推出白色版。蘋果于2012年9月12日的[iPhone
 5發佈會上推出了iPod](https://zh.wikipedia.org/wiki/iPhone_5 "wikilink") touch
 4的16GB版本，與此同時，不再販售8GB與64GB版本，32GB版本降價並繼續販售。2013年5月底，苹果公司将iPod touch
-4G從官網上撤下，換上16GB的第五代iPod touch播放器，從此iPod touch 4結束了它的使命。iPod touch
+4從官網上撤下，換上16GB的第五代iPod touch播放器，從此iPod touch 4結束了它的使命。iPod touch
 4最後支援的操作系統版本為iOS 6.1.6，無法升級[iOS
 7](https://zh.wikipedia.org/wiki/iOS_7 "wikilink")。
 

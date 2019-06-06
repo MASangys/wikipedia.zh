@@ -22,7 +22,7 @@
   - [LHCb的公众网页](http://lhcb-public.web.cern.ch/lhcb-public/)
 
   - [LHCb section from US/LHC
-    Website](http://www.uslhc.us/What_is_the_LHC/Experiments/LHCb)
+    Website](https://web.archive.org/web/20110603104602/http://www.uslhc.us/What_is_the_LHC/Experiments/LHCb)
 
   - (Full design documentation)
 

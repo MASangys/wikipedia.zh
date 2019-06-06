@@ -9,6 +9,8 @@ Sharp。2010年正式上线。「Pinterest」是由「[Pin](https://zh.wikipedia
 
 2017年3月9日，Pinterest在中国大陆被[防火长城屏蔽](../Page/防火长城.md "wikilink")。
 
+随着时间的推进现已变成了用户标签自己商品的平台，并且整体服务器运作经常出现延迟及无响应，已被大部分人弃用了。
+
 ## 引用
 
 <references/>

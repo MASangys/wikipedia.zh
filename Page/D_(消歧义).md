@@ -13,10 +13,9 @@ D，d可以指：
 ## 大寫D
 
   - [D语言](https://zh.wikipedia.org/wiki/D语言 "wikilink")
-  - [Vitamin D](https://zh.wikipedia.org/wiki/Vitamin_D "wikilink")
-  - [D
-    River](https://zh.wikipedia.org/wiki/D_River "wikilink")，“shortest
-    river in the world”
+  - [D介子](../Page/D介子.md "wikilink")
+  - [維他命D](https://zh.wikipedia.org/wiki/維他命D "wikilink")
+  - [D河](../Page/D河.md "wikilink")，曾被金氏世界紀錄大全列為「世界最短河流」。
   - [氘](../Page/氘.md "wikilink")
   - [密度](../Page/密度.md "wikilink")
   - [電位移](../Page/電位移.md "wikilink")
@@ -25,10 +24,9 @@ D，d可以指：
       - [調號中的](https://zh.wikipedia.org/wiki/調號 "wikilink")[D大調及](https://zh.wikipedia.org/wiki/D大調 "wikilink")[D小調](https://zh.wikipedia.org/wiki/D小調 "wikilink")
   - 在[罗马数字中表示](../Page/罗马数字.md "wikilink")[500](https://zh.wikipedia.org/wiki/500 "wikilink")
   - 1.5V[干电池的标准尺寸之一](https://zh.wikipedia.org/wiki/干电池 "wikilink")
-  - [维生素D](../Page/维生素D.md "wikilink")
   - 在[军事术语中](https://zh.wikipedia.org/wiki/军事 "wikilink")，**[D日](../Page/D日.md "wikilink")**经常用作表示一次作战或行动发起的那天，最著名的D日是1944年6月6日－[诺曼底战役打响之日](../Page/诺曼底战役.md "wikilink")。
   - 在[橋牌的叫牌过程中](https://zh.wikipedia.org/wiki/橋牌 "wikilink")，**D**表示[方塊牌](https://zh.wikipedia.org/wiki/方塊牌 "wikilink")（Diamond），如“2方塊”記作“2D”。
-  - 在评核制度中，**D**代表“可”
+  - 在评核制度中，**D**代表“可”。
 
 ## 小寫d
 

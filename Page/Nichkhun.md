@@ -593,7 +593,8 @@ Entertainment\&Media）公司，最后选择進入JYP娛樂旗下當练习生。
 
   - [Nichkhun Twitter](http://twitter.com/#!/Khunnie0624/)
 
-  - [JYP韓國官方網頁](http://www.jype.com/)
+  - [JYP韓國官方網頁](https://web.archive.org/web/20140315075532/http://www.jype.com/)
+
 
   - [泰國觀光局宣傳網頁](https://web.archive.org/web/20160809142050/http://www.nichkhunbreak.com/)
 

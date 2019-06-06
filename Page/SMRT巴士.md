@@ -476,9 +476,9 @@ TIB566S因火警退役</p></td>
 已轉售予Bedok Transport</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/Zhongtong_Bus" title="wikilink">Zhongtong</a> LCK6121G HEV <a href="https://zh.wikipedia.org/wiki/File:Accessibility-directory.svg" title="fig:Accessibility-directory.svg">Accessibility-directory.svg</a></p></td>
+<td><p><a href="../Page/中通客車.md" title="wikilink">中通客車</a> LCK6121G HEV <a href="https://zh.wikipedia.org/wiki/File:Accessibility-directory.svg" title="fig:Accessibility-directory.svg">Accessibility-directory.svg</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:SMRT_Buses_Zhongtong_LCK6121GHEV_demonstrator_on_945.jpg" title="fig:SMRT_Buses_Zhongtong_LCK6121GHEV_demonstrator_on_945.jpg">SMRT_Buses_Zhongtong_LCK6121GHEV_demonstrator_on_945.jpg</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Zhongtong_Bus" title="wikilink">ZhongTong Integral Body</a></p></td>
+<td><p><a href="../Page/中通客車.md" title="wikilink">中通客車</a> Integral Body</p></td>
 <td><p>2011</p></td>
 <td><p>1</p></td>
 <td><p>SMB137A<br />

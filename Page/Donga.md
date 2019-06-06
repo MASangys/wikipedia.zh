@@ -16,9 +16,6 @@ my dude.”（我将吃掉在我伙计身上的芥末。）\[3\]
 ## 外部链接
 
   -
-[te:దొంగ
-(సినిమా)](https://zh.wikipedia.org/wiki/te:దొంగ_\(సినిమా\) "wikilink")
-
 [Category:1985年电影](https://zh.wikipedia.org/wiki/Category:1985年电影 "wikilink")
 [Category:泰卢固语电影](https://zh.wikipedia.org/wiki/Category:泰卢固语电影 "wikilink")
 [Category:网络文化](https://zh.wikipedia.org/wiki/Category:网络文化 "wikilink")

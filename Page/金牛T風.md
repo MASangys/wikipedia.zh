@@ -42,7 +42,7 @@
   - [*Disk Winds From T Tauri Stars* John Kwan and Eugene
     Tademaru](http://www.astro.umass.edu/preprints/starform/kwan/index.html)
   - [HighBeam Research dictionary
-    entry](http://www.highbeam.com/doc/1O80-TTauriwind.html)
+    entry](https://web.archive.org/web/20110516163555/http://www.highbeam.com/doc/1O80-TTauriwind.html)
   - [University of Oregon *Star
     Formation*](https://web.archive.org/web/20070608121819/http://zebu.uoregon.edu/~js/ast122/lectures/lec13.html)
   - [University Corporation for Atmospheric Research *Solar

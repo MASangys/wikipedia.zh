@@ -16,8 +16,5 @@ Junior和](../Page/Super_Junior.md "wikilink")[SHINee的作品](../Page/SHINee.m
 
   - [1](https://web.archive.org/web/20101126140133/http://www.smtown.com/event/smtownlive09/)
 
-[en:2009 Summer SMTown – We Are
-Shining](https://zh.wikipedia.org/wiki/en:2009_Summer_SMTown_–_We_Are_Shining "wikilink")
-
 [Category:SM_Town音樂專輯](https://zh.wikipedia.org/wiki/Category:SM_Town音樂專輯 "wikilink")
 [Category:2009年音樂專輯](https://zh.wikipedia.org/wiki/Category:2009年音樂專輯 "wikilink")

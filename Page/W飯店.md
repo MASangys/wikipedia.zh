@@ -64,8 +64,6 @@ Electrified）為主要設計理念。截至2013年2月止，W在全球24個國�
 
 ## 圖庫
 
-<center>
-
 <File:Washington> Hotel HDR.jpg|[华盛顿特区](../Page/华盛顿哥伦比亚特区.md "wikilink")
 <File:2008-01-05> W New Orleans2.jpg|[新奥尔良](../Page/新奥尔良.md "wikilink")
 <File:W> Hotel Lower
@@ -86,8 +84,6 @@ Lobby.jpg|[香港](../Page/香港.md "wikilink")
 (7070540061).jpg|[峇里島](https://zh.wikipedia.org/wiki/峇里島 "wikilink")
 <File:Territoria>
 3000.jpg|[智利](../Page/智利.md "wikilink")[圣地亚哥](../Page/圣地亚哥_\(智利\).md "wikilink")
-
-</center>
 
 ## 參考資料
 

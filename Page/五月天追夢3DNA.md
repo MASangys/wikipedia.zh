@@ -1,4 +1,4 @@
-\[1\]\[2\]），是台灣樂團[五月天的首部](../Page/五月天.md "wikilink")[3D電影](../Page/3D電影.md "wikilink")，片中除了60－70分鐘是[演唱會內容之外](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，其他20－30分鐘是[戲劇演出](https://zh.wikipedia.org/wiki/戲劇 "wikilink")，分別有3段[故事穿插其中](https://zh.wikipedia.org/wiki/故事 "wikilink")。\[3\]五月天主演的首部3D[爱情电影](https://zh.wikipedia.org/wiki/爱情电影 "wikilink")《追梦3DNA》，讲述五月天以及很多人追[梦的故事](https://zh.wikipedia.org/wiki/梦 "wikilink")，片中穿插着五月天《[變形DNA無限放大版](https://zh.wikipedia.org/wiki/變形DNA無限放大版 "wikilink")》演唱会[3D现场精华](https://zh.wikipedia.org/wiki/3D "wikilink")，以演唱会引领剧情发展。
+\[1\]\[2\]），是台灣樂團[五月天的首部](../Page/五月天.md "wikilink")[3D電影](../Page/3D電影.md "wikilink")，片中除了60－70分鐘是[演唱會內容之外](https://zh.wikipedia.org/wiki/演唱會 "wikilink")，其他20－30分鐘是[戲劇演出](https://zh.wikipedia.org/wiki/戲劇 "wikilink")，分別有3段[故事穿插其中](../Page/故事.md "wikilink")。\[3\]五月天主演的首部3D[爱情电影](https://zh.wikipedia.org/wiki/爱情电影 "wikilink")《追梦3DNA》，讲述五月天以及很多人追[梦的故事](https://zh.wikipedia.org/wiki/梦 "wikilink")，片中穿插着五月天《[變形DNA無限放大版](https://zh.wikipedia.org/wiki/變形DNA無限放大版 "wikilink")》演唱会[3D现场精华](https://zh.wikipedia.org/wiki/3D "wikilink")，以演唱会引领剧情发展。
 
 ## 劇情
 
@@ -24,7 +24,7 @@
 
 | 演員                                                                                   | 角色    | 備註                                                                                                                        |
 | ------------------------------------------------------------------------------------ | ----- | ------------------------------------------------------------------------------------------------------------------------- |
-| [陳信宏](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")、[溫尚翊](../Page/溫尚翊.md "wikilink") | 阿信、怪獸 | 飾 五月天樂團之[主唱阿信](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[吉他手怪獸](https://zh.wikipedia.org/wiki/吉他手 "wikilink")，於台北篇出現。 |
+| [陳信宏](../Page/陳信宏.md "wikilink")、[溫尚翊](../Page/溫尚翊.md "wikilink")                    | 阿信、怪獸 | 飾 五月天樂團之[主唱阿信](https://zh.wikipedia.org/wiki/主唱 "wikilink")、[吉他手怪獸](https://zh.wikipedia.org/wiki/吉他手 "wikilink")，於台北篇出現。 |
 | [石錦航](../Page/石錦航.md "wikilink")                                                     | 石頭    | 飾 五月天樂團之[吉他手石頭](https://zh.wikipedia.org/wiki/吉他手 "wikilink")，於上海篇出現。                                                     |
 | [蔡昇晏](../Page/蔡昇晏.md "wikilink")、[劉諺明](https://zh.wikipedia.org/wiki/劉諺明 "wikilink") | 瑪莎、冠佑 | 飾 五月天樂團之[貝斯手瑪莎](https://zh.wikipedia.org/wiki/貝斯手 "wikilink")、[鼓手冠佑](https://zh.wikipedia.org/wiki/鼓手 "wikilink")，於廣州篇出現。 |
 
@@ -92,13 +92,13 @@ HOME，全台限量5000套，數量有限敬請把握。恕不再版\! 未來上
 
 **DVD**版本（[海樂影業股份有限公司發行](https://zh.wikipedia.org/wiki/海樂影業股份有限公司 "wikilink")）
 
-## 前三名會開演唱會
+## 軼事
 
-而全台首週末票房前三名的城市分別為台北、台中以及新竹，屆時五月天推出新專輯時將會優先前往三地舉辦新歌演唱會，感謝歌迷的支持。
+全台首週末票房前三名的城市分別為台北、台中以及新竹。五月天曾承諾推出新專輯時，會優先前往電影票房前三名的縣市舉辦新歌演唱會，以感謝歌迷的支持。
 
   - 第一[台北市](https://zh.wikipedia.org/wiki/台北市 "wikilink")
   - 第二[台中市](https://zh.wikipedia.org/wiki/台中市 "wikilink")
-  - 第三[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")+[新竹縣](../Page/新竹縣.md "wikilink")
+  - 第三[新竹市](https://zh.wikipedia.org/wiki/新竹市 "wikilink")、[新竹縣](../Page/新竹縣.md "wikilink")
 
 ## 註腳
 

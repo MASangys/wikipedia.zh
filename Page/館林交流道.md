@@ -1,0 +1,48 @@
+**館林IC**（平假名：たてばやしインターチェンジ）是位於[群馬縣](../Page/群馬縣.md "wikilink")[館林市的](../Page/館林市.md "wikilink")[東北自動車道之](https://zh.wikipedia.org/wiki/東北自動車道 "wikilink")[交流道](../Page/交流道.md "wikilink")。為東北自動車道雖一在群馬縣內的出口。
+
+## 連接道路
+
+### 直接連接
+
+  - [國道354號](https://zh.wikipedia.org/wiki/國道354號 "wikilink")
+
+## 历史
+
+  - 1972年11月13日 -
+    [東北自動車道](https://zh.wikipedia.org/wiki/東北自動車道 "wikilink")[岩槻IC至](https://zh.wikipedia.org/wiki/岩槻IC "wikilink")[宇都宮IC開通](https://zh.wikipedia.org/wiki/宇都宮IC "wikilink")，此IC也同時啟用。
+
+## 收費站設施
+
+  - 收費亭數目：6座
+      - 入口
+          - 收費亭數目：2座
+              - [ETC](../Page/電子道路收費系統.md "wikilink")：1座
+              - 一般：1座
+      - 出口
+          - 收費亭數目：4座
+              - [ETC](../Page/電子道路收費系統.md "wikilink")：1座
+              - 一般：3座
+
+## IC周邊
+
+  - [東武鐵道](../Page/東武鐵道.md "wikilink")[館林車站](https://zh.wikipedia.org/wiki/館林車站 "wikilink")
+  - [群馬縣立榴岡公園](https://zh.wikipedia.org/wiki/群馬縣立榴岡公園 "wikilink")
+  - 雷電神社
+
+## 鄰近設施
+
+  - [東北自動車道](https://zh.wikipedia.org/wiki/東北自動車道 "wikilink")
+    (5-1)[羽生IC](https://zh.wikipedia.org/wiki/羽生IC "wikilink") -
+    [羽生PA](https://zh.wikipedia.org/wiki/羽生PA "wikilink") -
+    (6)**館林IC** - (7)[佐野藤岡IC](../Page/佐野藤岡IC.md "wikilink")
+
+## 相關項目
+
+  - [日本交匯處一覽](https://zh.wikipedia.org/wiki/日本交匯處一覽 "wikilink")
+
+## 外部連結
+
+  - [東日本高速道路](http://www.e-nexco.co.jp/)
+
+[Category:日本交流道_Ta](https://zh.wikipedia.org/wiki/Category:日本交流道_Ta "wikilink")
+[Category:群馬縣交流道](https://zh.wikipedia.org/wiki/Category:群馬縣交流道 "wikilink")

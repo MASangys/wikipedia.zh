@@ -24,7 +24,6 @@ PMID使用与[国际标准书号](../Page/国际标准书号.md "wikilink")（IS
   - [ISBN](https://zh.wikipedia.org/wiki/ISBN "wikilink")
 
 [en:PubMed\#PMID](https://zh.wikipedia.org/wiki/en:PubMed#PMID "wikilink")
-[es:PMID](https://zh.wikipedia.org/wiki/es:PMID "wikilink")
 
 [Category:圖書資訊科學](https://zh.wikipedia.org/wiki/Category:圖書資訊科學 "wikilink")
 [Category:出版业](https://zh.wikipedia.org/wiki/Category:出版业 "wikilink")

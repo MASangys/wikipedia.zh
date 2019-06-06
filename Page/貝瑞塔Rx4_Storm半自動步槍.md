@@ -5,7 +5,7 @@ Remington或](../Page/.223_Remington.md "wikilink")[5.56×45毫米](../Page/5.56
 ## 詳情
 
 貝瑞塔Rx4
-Storm是一枝使用了[氣動式操作與](../Page/氣動式_\(槍械\).md "wikilink")[滾轉式槍機的](../Page/滾轉式槍機.md "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，並且採用了原為[伯奈利](../Page/伯奈利.md "wikilink")[专利的](../Page/专利.md "wikilink")「[自動調節氣動式操作](https://zh.wikipedia.org/wiki/自動調節氣動式操作 "wikilink")」（，簡稱：ARGO）系統。這枝步槍使用[STANAG彈匣供彈](../Page/STANAG彈匣.md "wikilink")，並可以選配固定式[槍托或可調節式槍托](../Page/槍托.md "wikilink")。貝瑞塔Rx4
+Storm是一枝使用了[氣動式操作與](../Page/氣動式_\(槍械\).md "wikilink")[轉拴式槍栓的](../Page/轉拴式槍栓.md "wikilink")[半自動步槍](https://zh.wikipedia.org/wiki/半自動步槍 "wikilink")，並且採用了原為[伯奈利](../Page/伯奈利.md "wikilink")[专利的](../Page/专利.md "wikilink")「[自動調節氣動式操作](https://zh.wikipedia.org/wiki/自動調節氣動式操作 "wikilink")」（，簡稱：ARGO）系統。這枝步槍使用[STANAG彈匣供彈](../Page/STANAG彈匣.md "wikilink")，並可以選配固定式[槍托或可調節式槍托](../Page/槍托.md "wikilink")。貝瑞塔Rx4
 Storm與[Px4
 Storm](../Page/貝瑞塔Px4_Storm手槍.md "wikilink")[半自動手槍](../Page/半自動手槍.md "wikilink")、[Cx4
 Storm](../Page/貝瑞塔Cx4_Storm卡賓槍.md "wikilink")[卡賓槍等都是](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")“風暴”（）系列槍族的武器，但與上述槍械並沒有任何可以共用的操作系統或部件。這種武器只有在半自動模式下操作，並沒有[選擇射擊功能或是其他Rx](https://zh.wikipedia.org/wiki/選射槍械 "wikilink")4卡賓槍[全自動型版本的計劃](https://zh.wikipedia.org/wiki/全自動槍械 "wikilink")，因為貝瑞塔方面已經研發了一款完全不同的新世代[突击步枪](../Page/突击步枪.md "wikilink")，並且命名為[貝瑞塔ARX-160](../Page/貝瑞塔ARX-160突擊步槍.md "wikilink")。另一方面，貝瑞塔Rx4
@@ -80,7 +80,7 @@ Storm卡賓槍。裝有可拆卸式[槍口制退器的](../Page/砲口制動器.
     MR223半自動步槍](https://zh.wikipedia.org/wiki/HK_MR223半自動步槍 "wikilink")
   - [HK
     MR556半自動步槍](https://zh.wikipedia.org/wiki/HK_MR556半自動步槍 "wikilink")
-  - [IMI TC-21半自動步槍](../Page/IMI_TAR-21突擊步槍.md "wikilink")
+  - [IMI TC-21、Tavor SAR半自動步槍](../Page/IMI_TAR-21突擊步槍.md "wikilink")
   - [Kel-Tec
     SU-16半自動步槍](https://zh.wikipedia.org/wiki/Kel-Tec_SU-16半自動步槍 "wikilink")
   - [MSAR

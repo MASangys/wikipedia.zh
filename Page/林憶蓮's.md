@@ -4,7 +4,7 @@
 
 ## 曲目
 
-**備註:**
+**備註：**
 
   - 《我坐在這裡》是改編自Lene Marlin主唱的《Sitting Down Here》。
 

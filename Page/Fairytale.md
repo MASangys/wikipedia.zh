@@ -42,9 +42,6 @@ Records發行](../Page/SME_Records.md "wikilink")。\[1\]
 
   - [Kalafina 官方網站](http://www.sonymusic.co.jp/Music/Info/kalafina/)
 
-[pt:Fairytale
-(single)](https://zh.wikipedia.org/wiki/pt:Fairytale_\(single\) "wikilink")
-
 [Category:Kalafina單曲](https://zh.wikipedia.org/wiki/Category:Kalafina單曲 "wikilink")
 [Category:動畫電影主題曲](https://zh.wikipedia.org/wiki/Category:動畫電影主題曲 "wikilink")
 

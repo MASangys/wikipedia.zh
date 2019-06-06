@@ -8,7 +8,7 @@ Art's(以同属于[LC:AZE](https://zh.wikipedia.org/wiki/LC:AZE "wikilink"))为�
 real」变体改写过来的。此外也和[伊斯兰教的天使](../Page/伊斯兰教.md "wikilink")「[Azrael](https://zh.wikipedia.org/wiki/Azrael "wikilink")」有关。
 
 在[Comic
-Market](../Page/Comic_Market.md "wikilink")、[M3等等](https://zh.wikipedia.org/wiki/M3 "wikilink")[活动上发售独立制作的](https://zh.wikipedia.org/wiki/活动 "wikilink")[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")，进行同人音乐的活动。2008年4月，以「Metamorphose」与[メジャー签约](https://zh.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")。独立制作的专辑只要委托大手同人商铺，现在也还可以获得到(除了母盘废弃的以外)。封面图画的1st〜6th由
+Market](../Page/Comic_Market.md "wikilink")、[M3等等](../Page/M3.md "wikilink")[活动上发售独立制作的](https://zh.wikipedia.org/wiki/活动 "wikilink")[专辑](https://zh.wikipedia.org/wiki/专辑 "wikilink")，进行同人音乐的活动。2008年4月，以「Metamorphose」与[メジャー签约](https://zh.wikipedia.org/wiki/レコード会社#メジャーとインディーズ "wikilink")。独立制作的专辑只要委托大手同人商铺，现在也还可以获得到(除了母盘废弃的以外)。封面图画的1st〜6th由
 [シグヒロ](https://web.archive.org/web/20110824191855/http://www.hoshikuzusenpuu.net/)
 负责、7th和8th则是由 [石据カチル](http://www.kachiru.org/)
 担任。独立制作专辑「白い闇に沈む永遠の夜」、合辑「影縫い」「Endless

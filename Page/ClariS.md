@@ -295,6 +295,13 @@ ClariS最初是一個由來自北海道的兩個女中學生Clara和Aris（非�
 <td><p>VVCL-1375/6</p></td>
 <td><p>VVCL-1379</p></td>
 </tr>
+<tr class="odd">
+<td><p>夏之歌集</p></td>
+<td><p>2019年夏</p></td>
+<td><p>SUMMER TRACKS ー夏のうたー</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

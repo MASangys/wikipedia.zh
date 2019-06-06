@@ -13,7 +13,7 @@
 | ZWKM        | [克拉玛依机场](../Page/克拉玛依机场.md "wikilink")                              | [克拉玛依市](../Page/克拉玛依市.md "wikilink")                  | [中国](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink") | 正在运营 |
 | ZWNL        | [那拉提机场](https://zh.wikipedia.org/wiki/那拉提机场 "wikilink")             | [新源县](../Page/新源县.md "wikilink")                      | [中國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink") | 正在运营 |
 | ZWSH        | [喀什机场](../Page/喀什机场.md "wikilink")                                  | [喀什市](../Page/喀什市.md "wikilink")                      | [中國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink") | 正在运营 |
-| ZWTC        | [塔城机场](https://zh.wikipedia.org/wiki/塔城机场 "wikilink")               | [塔城市](../Page/塔城市.md "wikilink")                      | [中國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink") | 正在运营 |
+| ZWTC        | [塔城机场](../Page/塔城机场.md "wikilink")                                  | [塔城市](../Page/塔城市.md "wikilink")                      | [中國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink") | 正在运营 |
 | ZWTN        | [和田机场](../Page/和田机场.md "wikilink")                                  | [和田市](../Page/和田市.md "wikilink")                      | [中国](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink") | 正在运营 |
 | ZWWW        | [烏魯木齊地窩堡國際機場](https://zh.wikipedia.org/wiki/烏魯木齊地窩堡國際機場 "wikilink") | [烏魯木齊](https://zh.wikipedia.org/wiki/烏魯木齊 "wikilink") | [中國](https://zh.wikipedia.org/wiki/中華人民共和國 "wikilink") | 正在运营 |
 | ZWYN        | [伊宁机场](../Page/伊宁机场.md "wikilink")                                  | [伊宁市](../Page/伊宁市.md "wikilink")                      | [中国](https://zh.wikipedia.org/wiki/中国 "wikilink")      | 正在运营 |

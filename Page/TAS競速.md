@@ -1,5 +1,5 @@
 **TAS**（Tool-Assisted
-[Speedrun](https://zh.wikipedia.org/wiki/Speedrun "wikilink")），又稱為“**電腦輔助競速**”。是指在[電腦上利用](https://zh.wikipedia.org/wiki/電腦 "wikilink")[模擬器](../Page/游戏机模拟器.md "wikilink")，配合輔助的[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，在完全不變動遊戲規則（如[程式碼與](https://zh.wikipedia.org/wiki/程式碼 "wikilink")[記憶體狀況](https://zh.wikipedia.org/wiki/記憶體 "wikilink")）的前提之下，達成快速[破關的一種遊戲競速方式](https://zh.wikipedia.org/wiki/破關 "wikilink")。大部分TAS是[競速破關為主](https://zh.wikipedia.org/wiki/競速破關 "wikilink")，但是並不以此為限。
+[Speedrun](https://zh.wikipedia.org/wiki/Speedrun "wikilink")），又稱為“**電腦輔助競速**”。是指在[電腦上利用](https://zh.wikipedia.org/wiki/電腦 "wikilink")[模擬器等辅助](../Page/游戏机模拟器.md "wikilink")[軟體](https://zh.wikipedia.org/wiki/軟體 "wikilink")，在仅使用游戏程序的合法输入前提之下，達成快速[破關的一種遊戲競速方式](https://zh.wikipedia.org/wiki/破關 "wikilink")。大部分TAS是[競速破關為主](https://zh.wikipedia.org/wiki/競速破關 "wikilink")，但是並不以此為限。TAS通常是以游戏视频的形式发布。
 
 ## 起源
 
@@ -12,30 +12,40 @@ High Level Challenge\!
 
 廣義來說，這是一種利用[遊戲外掛來增進遊戲趣味的方式](https://zh.wikipedia.org/wiki/遊戲外掛 "wikilink")。但TAS與[金手指不同](https://zh.wikipedia.org/wiki/遊戲作弊 "wikilink")。
 
-金手指是直接去修改遊戲的原始資料，達成不可能發生的現象，例如主角的生命力永遠是100％，[金錢與](https://zh.wikipedia.org/wiki/金錢 "wikilink")[彈藥無限等](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。TAS的精神則是不變動遊戲的資料，僅僅藉模擬器將遊戲的按鍵忠實記錄下來，再利用模擬器的播放功能來重現遊戲過程。理論上在極限的狀況下，這些過程是可以在實機上達成的。
+金手指是直接去修改遊戲的原始資料，達成不可能發生的現象，因此就破坏了游戏规则。但是TAS的原则是仅使用游戏的合法输入，不可以修改游戏中的原始数据。例如，金手指可以将主角的生命力固定在100%上，即使被攻击也不受伤。而TAS里则可以让主角以极度灵巧的行动躲开所有敌人的攻击，从而不会受伤。理論上说，所有TAS视频上的结果，都是可以在相应游戏中合法达成的。
 
-人們喜歡TAS是因為TAS在令人驚奇與不可思議之外，尚存着一種真實感。因為即使[機率趨近於零](https://zh.wikipedia.org/wiki/機率 "wikilink")，在億萬分之一的可能性中，這些高超的遊戲技巧確實是有可能發生，將奇幻與現實完美結合，正是TAS的迷人之處。因此TAS比較着重在於娛樂性而非競速，很多TAS作家投入創作，將自己的TAS錄影如藝術品般放在網路上提供給TAS愛好者欣賞。
+一个良好的TAS视频通常有着不可思议的通关效率或游戏技巧，也因此有着很好的观赏价值。不过，由于TAS只要求游戏输入必须合法，因此大多数时候，TAS的效率和技巧都只是理论上的，玩家们在实际游戏时不能达到。
 
 與 TAS
 競速相反的就是「[競速破關](https://zh.wikipedia.org/wiki/競速破關 "wikilink")（Speedrun）」，或稱「RTA
 競速（Real Time Attack）」，著重在以實時、實力完成遊戲為目標。
 
-## 方式
+## 制作技巧
 
 TAS主要透過下列幾種方式來達成。
 
-  - 錄影與重播功能
-    一點一點地紀錄遊戲進度，中途如果有失敗或不完美的地方，則中斷並修正，然後再重複錄影，最後只留下完美的部分。通常作品公諸於世的時候，作者都會註明重複錄影的次數。一個TAS錄影次數通常都在幾千或幾萬次，有時候甚至百萬次都有可能。
+  - 存档、回退与拼接
+    这是TAS的最主要的技巧。利用模拟器一點一點地紀錄遊戲進度，中途如果发生失误或不完美的操作，則回退並修正操作，最後只留下所有完美操作拼接而成的视频。通常作品公諸於世的時候，作者都會註明回退并重複錄影的次數。一個TAS錄影次數通常都在幾千或幾萬次，有時候甚至百萬次都有可能。
+
+<!-- end list -->
+
+  - 慢動作
+    利用辅助工具提供的相应的功能，将游戏速度大幅度降低，甚至降到逐帧操作，一點一滴正確無誤地輸入按鍵。这不仅可以保证完美的输入，还可以做到许多正常游戏时不能达成的极限输入。
 
 <!-- end list -->
 
   - 記憶體瀏覽
-    利用工具將畫面上無法看見但是實際存在於記憶體中的特定數據顯示出來。例如[寶箱的內容](https://zh.wikipedia.org/wiki/寶箱 "wikilink")，敵人的動作，[陷阱的時機](https://zh.wikipedia.org/wiki/陷阱 "wikilink")，角色的[座標等等](https://zh.wikipedia.org/wiki/座標 "wikilink")。可以看到數據的話，換言之就可以控制遊戲中的運氣（[亂數產生的項目](https://zh.wikipedia.org/wiki/亂數 "wikilink")），或是將遊戲的操作更進一步[優化](https://zh.wikipedia.org/wiki/優化 "wikilink")。
+    利用辅助工具，將畫面上無法看見但是實際存在於記憶體中的特定數據顯示出來。例如[寶箱的內容](https://zh.wikipedia.org/wiki/寶箱 "wikilink")，敵人的動作，[陷阱的時機](https://zh.wikipedia.org/wiki/陷阱 "wikilink")，角色的[座標等等](https://zh.wikipedia.org/wiki/座標 "wikilink")。以此来计算最佳的游戏策略。
 
 <!-- end list -->
 
-  - 慢動作[格放](https://zh.wikipedia.org/wiki/格放 "wikilink")
-    利用慢動作甚至是格放功能，將遊戲的時間分解為1/60秒或更小的單位，一點一滴正確無誤地輸入按鍵。正常人難以做到的境界，透過此方式都可以一再重複達成。
+  - 挖掘[BUG](https://zh.wikipedia.org/wiki/BUG "wikilink")
+    许多游戏中都遗留了一些有可能影响破关效率的BUG。这些BUG往往只有在极限情况下才会触发，因此没有被开发者修复，甚至不为其所知。但是在TAS中，可以精确地规划每一步的操作，并且指令的输入也有着几乎无限的效率，因此挖掘BUG，利用BUG快速破关，也是TAS的常用技巧。
+
+<!-- end list -->
+
+  - 操纵随机数
+    许多游戏中的随机事件，是由受玩家输入影响的伪随机数所决定。因此TAS可以结合内存浏览与回退拼接的技巧，反复地调整输入，进而操纵随机数列，使得游戏中的所有随机事件都有利于自己。
 
 ## 目的
 

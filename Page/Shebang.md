@@ -60,10 +60,9 @@ guide](http://tldp.org/LDP/abs/html/)（revision 6.2）中，shebang 被称为
     [Python](../Page/Python.md "wikilink") 执行
   - `#!/usr/bin/php`—使用 [PHP](../Page/PHP.md "wikilink") 的命令行解释器执行
 
-在许多系统上，`/bin/sh` 是[链接到](https://zh.wikipedia.org/wiki/链接 "wikilink")
-[Bash](../Page/Bash.md "wikilink") 的，而 `/bin/csh` 则是链接到
-[tcsh](https://zh.wikipedia.org/wiki/tcsh "wikilink")
-的，因此设定前面的解释器实际上是运行的与之兼容的，或改进的版本。
+在许多系统上，`/bin/sh` [软链接或](https://zh.wikipedia.org/wiki/软链接 "wikilink")到
+[Bash](../Page/Bash.md "wikilink")，而 `/bin/csh` 则链接到
+[tcsh](https://zh.wikipedia.org/wiki/tcsh "wikilink")，因此设定前面的解释器实际上是运行的与之兼容的，或改进的版本。
 
 Shebang 行也可以包含需要传递到解释器的特定选项（见下文的 Perl 例子）。然而，选项传递的方式随实现的不同而不同。
 

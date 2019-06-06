@@ -19,8 +19,8 @@ R\&B結合的感覺。
 ### 2011年：迷你二輯《Pink Rocket》、迷你三輯《Bling Bling》
 
 2011年4月5日公開了第二張迷你專輯《Pink Rocket》的專輯照，4月11日發佈此專輯主打歌《Pink
-Rocket》的MV預告，4月14日正式發售迷你專輯《Pink
-Rocket》並在此日於《[Mcountdown](https://zh.wikipedia.org/wiki/Mcountdown "wikilink")》表演正式回歸，主打歌題材為粉色浪漫[愛情乘坐](../Page/愛情.md "wikilink")[火箭飛翔](../Page/火箭.md "wikilink")\[5\]，此專輯仍為E-TRIBE製做。
+Rocket》的MV預告，4月14日正式發售迷你專輯《Pink Rocket》並在此日於《[M
+Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》表演正式回歸，主打歌題材為粉色浪漫[愛情乘坐](../Page/愛情.md "wikilink")[火箭飛翔](../Page/火箭.md "wikilink")\[5\]，此專輯仍為E-TRIBE製做。
 在同年的8月3日，Dal★Shabet公開了新專輯《Bling
 Bling》專輯概念照，這次她們將以70年代和80年代的龐克和Disco兩種混合的風格為主。\[6\]。8月8日，公開了同名主打曲《Bling
 Bling》的MV預告\[7\]，在8月10日公開完整版MV。\[8\]

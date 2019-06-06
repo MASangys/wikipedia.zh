@@ -1,4 +1,4 @@
-**AMUSE**（；又譯為**雅慕斯**）是[日本一間以從事](../Page/日本.md "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[經紀為主的大型](https://zh.wikipedia.org/wiki/經紀 "wikilink")[演藝事業](../Page/演藝界.md "wikilink")[公司](../Page/公司.md "wikilink")，由創立於1978年。旗下藝人涵蓋的領域相當廣泛，其中又以培育[音樂人和](https://zh.wikipedia.org/wiki/音樂人 "wikilink")[演員為主](https://zh.wikipedia.org/wiki/演員 "wikilink")。
+**AMUSE**（；又譯為**雅慕斯**）是[日本一間以從事](../Page/日本.md "wikilink")[藝人](https://zh.wikipedia.org/wiki/藝人 "wikilink")[經紀為主的大型](https://zh.wikipedia.org/wiki/經紀 "wikilink")[演藝事業](../Page/演藝界.md "wikilink")[公司](../Page/公司.md "wikilink")，由創立於1978年。旗下藝人涵蓋的領域相當廣泛，其中又以培育[音樂人和](https://zh.wikipedia.org/wiki/音樂人 "wikilink")[演員為主](../Page/演員.md "wikilink")。
 
 ## 簡介
 

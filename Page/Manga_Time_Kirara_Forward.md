@@ -1,5 +1,4 @@
-《**Manga Time Kirara
-Forward**》（）是[芳文社發行的](../Page/芳文社.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。在每個月的24日發售（但因不同地域發售日有所不同）。版式是B5尺寸。雜誌口號為「視覺故事漫畫雜誌」。
+是[芳文社發行的](../Page/芳文社.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。在每個月的24日發售（但因不同地域發售日有所不同）。版式是B5尺寸。雜誌口號為「視覺故事漫畫雜誌」。
 
 ## 特征・内容的傾向
 
@@ -129,6 +128,8 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
 
   - （、2019年6月號 - ）
 
+  - （、2019年7月號 - ）
+
 ## 休載中的作品
 
   - （原作：/作画：、2017年12月號 - ，2019年4月號刊載後处于休載状态）
@@ -194,7 +195,8 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
 
   - （ 2008年8月-2010年5月號，曾中途休載 ）
 
-  - [天秤は花と遊ぶ](https://zh.wikipedia.org/wiki/天秤は花と遊ぶ "wikilink") （
+  - [天秤は花と遊ぶ](https://zh.wikipedia.org/wiki/天秤は花と遊ぶ "wikilink")
+    （[卯花つかさ](../Page/卯花つかさ.md "wikilink")
     2008年11月號-2009年10月號）
 
   - （ 2009年1月號-2010年1月號）
@@ -279,7 +281,8 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
     malice〜](https://zh.wikipedia.org/wiki/魔法少女小圓漫畫作品#魔法少女和美_〜The_innocent_malice〜 "wikilink")（原案：Magica
     Quartet/原作：/漫画：、2011年3月號 - 2013年1月號）
 
-  - （、2011年6月號 - 2013年11月號）
+  - （[みやびあきの](https://zh.wikipedia.org/wiki/みやびあきの "wikilink")、2011年6月號
+    - 2013年11月號）
 
   - [花舞少女](../Page/花舞少女.md "wikilink")（[濱弓場雙](../Page/濱弓場雙.md "wikilink")、2011年6月號
     - 2018年4月號）
@@ -356,7 +359,7 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
     健やかなるときも](https://zh.wikipedia.org/wiki/病めるときも_健やかなるときも "wikilink")（[崎由けぇき](https://zh.wikipedia.org/wiki/崎由けぇき "wikilink")、2014年6月號
     - 2015年9月號）
 
-  - [おにまん〜おにとまんじゅう〜](https://zh.wikipedia.org/wiki/おにまん〜おにとまんじゅう〜 "wikilink")（、2014年6月號
+  - [おにまん〜おにとまんじゅう〜](https://zh.wikipedia.org/wiki/おにまん〜おにとまんじゅう〜 "wikilink")（[みやびあきの](https://zh.wikipedia.org/wiki/みやびあきの "wikilink")、2014年6月號
     - 2016年3月號）
 
   - [スモーキーゴッドエクスプレス](https://zh.wikipedia.org/wiki/スモーキーゴッドエクスプレス "wikilink")（、2014年6月號
@@ -392,13 +395,14 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
   - [ほおばれ\!草食女子](https://zh.wikipedia.org/wiki/ほおばれ!草食女子 "wikilink")（[あらたまい](https://zh.wikipedia.org/wiki/あらたまい "wikilink")、2015年8月號
     - 2017年12月號）※自2017年4月號起隔月連載（偶數月號掲載）
 
-  - [双角カンケイ。](https://zh.wikipedia.org/wiki/双角カンケイ。 "wikilink")（、2015年9月號
+  - [双角カンケイ。](https://zh.wikipedia.org/wiki/双角カンケイ。 "wikilink")（[Tachi](https://zh.wikipedia.org/wiki/Tachi "wikilink")、2015年9月號
     - 2017年2月號）
 
   - [メイデンス・オーダー](https://zh.wikipedia.org/wiki/メイデンス・オーダー "wikilink")（、2016年4月號
     - 2017年5月號）
 
-  - （、2016年5月號 - 2018年12月號）
+  - （[雅秋乃](https://zh.wikipedia.org/wiki/雅秋乃 "wikilink")、2016年5月號 -
+    2018年12月號）
 
 <!-- end list -->
 
@@ -425,21 +429,23 @@ Kirara](../Page/Manga_Time_Kirara.md "wikilink")》的內容。
 
   - （、2016年12月号刊载短篇、2017年9月號 - 2018年8月號）
 
-## 相關項目
+## 參考文獻
 
-  - [日本漫畫雜誌](../Page/日本漫畫雜誌.md "wikilink")
+## 參見
+
   - [Manga Time Kirara](../Page/Manga_Time_Kirara.md "wikilink")
   - [Manga Time Kirara
     Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")
+  - [Manga Time Kirara MAX](../Page/Manga_Time_Kirara_MAX.md "wikilink")
+  - [Manga Time Kirara
+    Miracle\!](../Page/Manga_Time_Kirara_Miracle!.md "wikilink")
 
 ## 外部連結
 
-  - [Manga Time Kirara Web](http://www.dokidokivisual.com/index.php)
-  - [NicoNico静图 |
-    Kirara基地](http://seiga.nicovideo.jp/manga/official/kirara)
+  - [Manga Time Kirara
+    Forward](http://www.dokidokivisual.com/magazine/forward/)
 
-## 参考来源
-
+  -
 [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
 [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
 [Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink")

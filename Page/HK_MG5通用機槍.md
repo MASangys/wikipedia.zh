@@ -16,7 +16,7 @@ MG4輕機槍](../Page/HK_MG4輕機槍.md "wikilink")
 ## 設計細節
 
 HK121（MG5）在外形上是以[HK
-MG4](../Page/HK_MG4輕機槍.md "wikilink")（MG43）為藍本，均採用[氣動式操作自動原理](../Page/氣動式_\(槍械\).md "wikilink")，槍機為[滾轉式閉鎖閉鎖方式](../Page/滾轉式槍機.md "wikilink")，[開膛待擊](../Page/開放式槍機.md "wikilink")，以及只能全自动射击。其重量和長度比德國[莱茵金属](../Page/莱茵金属.md "wikilink")[MG3和比利時](../Page/MG3通用機槍.md "wikilink")[FN](https://zh.wikipedia.org/wiki/Fabrique_Nationale "wikilink")
+MG4](../Page/HK_MG4輕機槍.md "wikilink")（MG43）為藍本，均採用[氣動式操作自動原理](../Page/氣動式_\(槍械\).md "wikilink")，槍機為[轉拴式槍栓閉鎖方式](../Page/轉拴式槍栓.md "wikilink")，[開膛待擊](https://zh.wikipedia.org/wiki/開放式槍栓 "wikilink")，以及只能全自动射击。其重量和長度比德國[莱茵金属](../Page/莱茵金属.md "wikilink")[MG3和比利時](../Page/MG3通用機槍.md "wikilink")[FN](https://zh.wikipedia.org/wiki/Fabrique_Nationale "wikilink")
 [MAG](../Page/FN_MAG通用機槍.md "wikilink")（[M240](../Page/M240通用機槍.md "wikilink")）兩款通用機槍稍小。而且總體設計佈局方式採用絕大多數彈鏈供彈的經典型機槍佈局方案，導氣機構置於槍管軸線下方，而從正上方進彈以便於裝填。
 
 HK121採用模組化設計，其擁有不同長度槍管，不同型式[槍托](../Page/槍托.md "wikilink")、護木、握把，不同容彈量彈鏈箱以及多種附件。通過以上不同組件、附件的組合，可以組合出通HK121
@@ -53,7 +53,7 @@ HK121的氣體調節器通過插入彈殼底緣擰動進行調節。通過調節
 ### 槍機組件
 
 HK121與[FN Minimi 7.62](../Page/FN_Minimi_7.62通用機槍.md "wikilink")（[Mk
-48](../Page/Mk_48輕量化機槍.md "wikilink")）相似，採用[滾轉式槍機頭閉鎖方式](../Page/滾轉式槍機.md "wikilink")，但HK121採取的是雙排式鎖耳（）設計，這樣可以在保證閉鎖支撐面積的前提下減小機頭尺寸、節套直徑，進而減小機匣外形尺寸。這個設計對加工精度要求極高，但相對於德國人的機械加工水平而言不算難事。
+48](../Page/Mk_48輕量化機槍.md "wikilink")）相似，採用[轉拴式槍栓頭閉鎖方式](../Page/轉拴式槍栓.md "wikilink")，但HK121採取的是雙排式鎖耳（）設計，這樣可以在保證閉鎖支撐面積的前提下減小機頭尺寸、節套直徑，進而減小機匣外形尺寸。這個設計對加工精度要求極高，但相對於德國人的機械加工水平而言不算難事。
 
 HK121槍機機框結構與MG4大致相當，由於採取下拋殼，需在機框上下方設置通孔作為拋殼通道。值得一提的是，HK121槍機機框的結構為上小下大，重心偏下，重心位置與活塞作用軸線基本重合，當活塞作用在槍機機框上時能減小翻轉力矩，射擊時使後座平穩。
 

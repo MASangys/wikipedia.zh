@@ -20,6 +20,8 @@
 
 2015年4月1日開始，為配合[福島縣](https://zh.wikipedia.org/wiki/福島縣 "wikilink")[郡山市的宣傳活動及促進地域活化](../Page/郡山市.md "wikilink")，本曲被設定為[JR東日本](../Page/東日本旅客鐵道.md "wikilink")[東北新幹線](../Page/東北新幹線.md "wikilink")[郡山站的](https://zh.wikipedia.org/wiki/郡山站_\(福島縣\) "wikilink")[發車音樂](../Page/發車音樂.md "wikilink")，取代原有的首都圈型音樂（五感工房製作的JR-SH-2）。
 
+2019年4月，[RecoChoku统计的](../Page/RecoChoku.md "wikilink")[平成年间](../Page/平成.md "wikilink")（1989年－2019年）累计下载总榜，《奇迹》成为冠军\[13\]\[14\]。
+
 ## 收錄曲目
 
 1.  **奇蹟**（）
@@ -27,7 +29,7 @@
 
 <!-- end list -->
 
-  - 作詞、作曲、編曲：[GReeeeN](../Page/GReeeeN.md "wikilink")\[13\]
+  - 作詞、作曲、編曲：[GReeeeN](../Page/GReeeeN.md "wikilink")\[15\]
 
 ## 參考資料
 
@@ -60,4 +62,8 @@
 10. [](https://web.archive.org/web/20090705082546/http://mainichi.jp/enta/music/news/20090701mog00m200049000c.html)
 11. [](http://blog.livedoor.jp/ustan777/archives/51311408.html)
 12.
-13. [](http://www.oricon.co.jp/music/release/d/763313/1/)
+13.  ニュース
+    |url=<https://recochoku.jp/corporate/news/20190426-heisei-ranking/>
+    |website=株式会社レコチョク |accessdate=2019-05-10 |language=ja}}
+14.
+15. [](http://www.oricon.co.jp/music/release/d/763313/1/)

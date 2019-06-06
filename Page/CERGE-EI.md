@@ -45,7 +45,8 @@ Foundation U.S.A.）以及Nadace CERGE-EI。部分资金也来自学生的学费
 
 ## 外部链接
 
-  - [CERGE-EI's official website](http://www.cerge-ei.cz)
+  - [CERGE-EI's official
+    website](https://web.archive.org/web/20070316135642/http://www.cerge-ei.cz/)
   - [Official website for the Ph.D.
     program](http://www.cerge-ei.cz/phd-program/the-phd-program)
   - [Official website for the MAE program](http://www.cerge-ei.cz/mae)

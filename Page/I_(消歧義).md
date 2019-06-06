@@ -1,7 +1,7 @@
 I或i在[語言方面可以指](../Page/語言.md "wikilink")：
 
   - **I**，是[拉丁字母的第九個字母](../Page/拉丁字母.md "wikilink")。
-  - **I**，[國際音標及其他很多拉丁語系正寫法的](https://zh.wikipedia.org/wiki/國際音標 "wikilink")[閉前不圓唇元音](../Page/閉前不圓唇元音.md "wikilink")
+  - **I**，[國際音標及其他很多拉丁語系正寫法的](../Page/國際音標.md "wikilink")[閉前不圓唇元音](../Page/閉前不圓唇元音.md "wikilink")
   - **[我](https://zh.wikipedia.org/wiki/我 "wikilink")**，[第一人稱](https://zh.wikipedia.org/wiki/第一人稱 "wikilink")，[漢語的人稱](https://zh.wikipedia.org/wiki/漢語 "wikilink")[代詞](../Page/代詞.md "wikilink")
   - **[我](../Page/我_\(佛教\).md "wikilink")**，佛教術語，分為真我、假我、神我
   - **[我](https://zh.wikipedia.org/wiki/我_\(心理學\) "wikilink")**，[心理學家](https://zh.wikipedia.org/wiki/心理學家 "wikilink")[佛洛依德提出的理論](https://zh.wikipedia.org/wiki/佛洛依德 "wikilink")，分為本我、自我、超我

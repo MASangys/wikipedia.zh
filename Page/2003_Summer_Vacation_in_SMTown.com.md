@@ -32,7 +32,8 @@ Pray 4 U*是在之前已經完成錄製，因此並不受影響。
 
 ## 外部連結
 
-  - [SMTown's Official Site](http://star.ilikepop.com/starhome/smtown/)
+  - [SMTown's Official
+    Site](https://web.archive.org/web/20110416074618/http://star.ilikepop.com/starhome/smtown/)
 
   - [SM Entertainment's Official Page](http://www.smtown.com/)
 

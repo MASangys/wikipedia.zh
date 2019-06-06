@@ -128,87 +128,89 @@ TKIV 2000）。\]\]
 [Findot_reticle_2.png](https://zh.wikipedia.org/wiki/File:Findot_reticle_2.png "fig:Findot_reticle_2.png")
 [8.6mm_Scharfschützengewehr_04.jpg](https://zh.wikipedia.org/wiki/File:8.6mm_Scharfschützengewehr_04.jpg "fig:8.6mm_Scharfschützengewehr_04.jpg")[子彈](../Page/子彈.md "wikilink")[口徑版本的TRG](https://zh.wikipedia.org/wiki/口徑 "wikilink")-42）。\]\]
 
-  - ：TRG-42步槍被[阿爾巴尼亞特警隊](https://zh.wikipedia.org/wiki/阿爾巴尼亞特警隊 "wikilink")（，簡稱：RENEA）所採用。\[33\]
+  -   - 阿爾巴尼亞警察\[33\]
 
-  - ：TRG
-    M10被[澳洲國防軍特種作戰司令部所採用](https://zh.wikipedia.org/wiki/澳大利亞國防軍 "wikilink")\[34\]。
+  -   - [澳洲國防軍](https://zh.wikipedia.org/wiki/澳大利亞國防軍 "wikilink")（TRG
+        M10）\[34\]。
 
   -
-  - ：TRG-42被[白羅斯共和國內務部](https://zh.wikipedia.org/wiki/白羅斯共和國內務部 "wikilink")（，簡稱：МУС）的[鑽石反恐特別單位所採用](../Page/鑽石反恐特別單位.md "wikilink")。\[35\]
+  -   - 白羅斯共和國內務部[鑽石反恐特別單位](../Page/鑽石反恐特別單位.md "wikilink")（TRG-42）\[35\]
+      - [白羅斯共和國國家安全委員會](../Page/白羅斯共和國國家安全委員會.md "wikilink")[阿爾法小組](../Page/阿爾法小組_\(白羅斯\).md "wikilink")
 
   - \[36\]
 
-  - ：TRG-22步槍被[捷克武裝部隊所採用](https://zh.wikipedia.org/wiki/捷克軍隊 "wikilink")。捷克的TRG-22狙擊步槍更裝上了
-    VX-3
-    6.5—20×50毫米或是[施密特-本德爾](https://zh.wikipedia.org/wiki/施密特-本德爾 "wikilink")（，簡稱：S\&B）警用神槍手二型（，簡稱：PM
-    II）[光學狙擊鏡](../Page/瞄准镜.md "wikilink")。\[37\]
+  -   - ：為TRG-22。會裝上Leupold & Stevens公司生產的VX-3
+        6.5—20×50毫米或警用神槍手二型（，簡稱：PM
+        II）[光學狙擊鏡](../Page/瞄准镜.md "wikilink")）\[37\]
 
-  - ：[.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")[口徑型TRG](https://zh.wikipedia.org/wiki/口徑 "wikilink")-42被[克羅地亞軍隊以及其](../Page/克羅埃西亞軍事.md "wikilink")[特種部隊所採用](../Page/特種部隊.md "wikilink")。\[38\]
+  - ：
 
-  - ：裝上了折疊式[槍托的TRG](../Page/槍托.md "wikilink")-42步槍是[積克兵團](https://zh.wikipedia.org/wiki/積克兵團 "wikilink")（）、[丹麥蛙人部隊](https://zh.wikipedia.org/wiki/丹麥蛙人部隊 "wikilink")（）和正規軍訓練神槍手的步槍，並且命名為**Finskyttegevær
-    M/04**（意為：04型狙擊步槍）。\[39\]\[40\]\[41\]
+      - [克羅地亞軍隊](../Page/克羅埃西亞軍事.md "wikilink")（TRG-42
+        [.300溫徹斯特麥格農](../Page/.300溫徹斯特麥格農.md "wikilink")[口徑型](https://zh.wikipedia.org/wiki/口徑 "wikilink")）\[38\]
 
-  - ：TRG-42被[特種部隊和](../Page/特種部隊.md "wikilink")[愛沙尼亞軍隊的偵察部隊所採用](https://zh.wikipedia.org/wiki/愛沙尼亞軍隊 "wikilink")。\[42\]\[43\]
+  -   - [丹麥國防軍](../Page/丹麥國防軍.md "wikilink")（TRG-42折疊式[槍托型](../Page/槍托.md "wikilink")；命名為**Finskyttegevær
+        M/04**，意為：04型狙擊步槍）\[39\]\[40\]\[41\]
 
-  - ：[芬蘭軍隊購買了](../Page/芬蘭國防軍.md "wikilink")490枝TRG-42狙擊步槍，並且命名為**8.6
-    TKIV 2000**。\[44\][芬蘭國防軍的](../Page/芬蘭國防軍.md "wikilink")8.6 TKIV
-    2000步槍更要求裝上特別定制的[蔡司](../Page/蔡司公司.md "wikilink")3—12×56 Diavari
-    VM/V T\*
-    30毫米[光學狙擊鏡連眼部安全雷射過濾器](../Page/瞄准镜.md "wikilink")。\[45\]這個光學狙擊鏡的第一焦平面更配備了“翅型點”十字分劃線（一種每隔一段就增加高度的毫弧度點分劃，內部更設有一個緩繳[（外基線）測距用途快速距離換算表在](https://zh.wikipedia.org/wiki/外基線測距 "wikilink")400，600，800，1,000和1,200公尺（437.45，656.17，874.89，1,093.61，1,312.34[码](https://zh.wikipedia.org/wiki/码 "wikilink")）以內的1公尺（1.09[码](https://zh.wikipedia.org/wiki/码 "wikilink")）高或0.5公尺（0.55[码](https://zh.wikipedia.org/wiki/码 "wikilink")）寬的目標）。照明內還內置了一個鑲嵌在高低調整鈕的[氚瓶](../Page/氚.md "wikilink")，作為在低光度時提供對瞄準線的照明光源。高低調整鈕當中還具有一個100—1,400公尺（109.36—1,531.06[码](https://zh.wikipedia.org/wiki/码 "wikilink")）的彈著補助（，簡稱：BDC）的旋鈕校準設計，這是因應專為芬蘭國防軍的神槍手使用的TKIV
-    2000所發配使用的由原廠製造的Lapua Lock Base
-    B408[彈藥所特別要求的功能](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。芬蘭國防軍的[狙擊手狙擊手都要進行相關訓練](../Page/狙擊手.md "wikilink")，以彌補因彈著補助而引起的錯誤，尤其是因環境和氣象的問題令彈著補助的校準出現偏離而導致彈著偏離的情況是不可避免地發生時。分劃高低調整有0.25
-    [密耳](https://zh.wikipedia.org/wiki/角密耳 "wikilink")（0.25[毫弧度](../Page/毫弧度.md "wikilink")）的調整間隔（總海拔範圍=18.6
-    [密耳](https://zh.wikipedia.org/wiki/密耳 "wikilink")），而風阻則有0.1
-    [密耳的調整間隔](https://zh.wikipedia.org/wiki/密耳 "wikilink")。芬蘭國防軍相信，0.25
-    [密耳的高低間隔在戴上在](https://zh.wikipedia.org/wiki/密耳 "wikilink")[北極使用的](../Page/北极点.md "wikilink")[手套以下仍然能夠更容易](../Page/手套.md "wikilink")、更快捷地使用，而且在0.1
-    [密耳和](https://zh.wikipedia.org/wiki/密耳 "wikilink")0.25
-    [密耳之間的差距可在間隔上調節和在殺傷人員的狙擊方面的影響是微不足道的](https://zh.wikipedia.org/wiki/密耳 "wikilink")（0.1
-    [密耳在](https://zh.wikipedia.org/wiki/密耳 "wikilink")1,400公尺等於14厘米（0.3437747
-    [角分](https://zh.wikipedia.org/wiki/角分 "wikilink")）；而0.25
-    [密耳在](https://zh.wikipedia.org/wiki/密耳 "wikilink")1,400公尺則等於35厘米（0.8594367
-    [角分](https://zh.wikipedia.org/wiki/角分 "wikilink")））。所有重要的[螺絲溝槽都被設計成可以一發](../Page/螺絲.md "wikilink")[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[子彈操作以進行分解或重新組裝](../Page/子彈.md "wikilink")，而無需使用[螺丝起子](https://zh.wikipedia.org/wiki/螺丝起子 "wikilink")。
+  -   - （TRG-42）\[42\]\[43\]
 
-  - ：發射[.300溫徹斯特麥格農的TRG](../Page/.300溫徹斯特麥格農.md "wikilink")-42步槍被[法國陸軍](https://zh.wikipedia.org/wiki/法國陸軍 "wikilink")[特種部隊大隊所採用](../Page/特種部隊.md "wikilink")。
+  -   - [芬蘭國防軍](../Page/芬蘭國防軍.md "wikilink")：購買了490枝TRG-42，並命名為**8.6
+        TKIV 2000**。它們被要求裝上特別定制的[蔡司](../Page/蔡司公司.md "wikilink")3—12×56
+        Diavari VM/V T\*
+        30毫米[光學狙擊鏡連眼部安全雷射過濾器](../Page/瞄准镜.md "wikilink")。\[44\]這個光學狙擊鏡的第一焦平面更配備了“翅型點”十字分劃線（一種每隔一段就增加高度的毫弧度點分劃，內部更設有一個緩繳[（外基線）測距用途快速距離換算表在](https://zh.wikipedia.org/wiki/外基線測距 "wikilink")400，600，800，1,000和1,200[公尺](../Page/米_\(单位\).md "wikilink")（437.45，656.17，874.89，1,093.61，1,312.34[码](https://zh.wikipedia.org/wiki/码 "wikilink")）以內的1公尺（1.09码）高或0.5公尺（0.55码）寬的目標）。照明內還內置了一個鑲嵌在高低調整鈕的[氚瓶](../Page/氚.md "wikilink")，作為在低光度時提供對瞄準線的照明光源。高低調整鈕當中還具有一個100—1,400公尺（109.36—1,531.06码）的彈墜補助（，簡稱：BDC）的旋鈕校準設計，這是因應專為芬蘭國防軍的神槍手使用的TKIV
+        2000所發配使用的由原廠製造的Lapua Lock Base
+        B408[彈藥所特別要求的功能](https://zh.wikipedia.org/wiki/彈藥 "wikilink")。芬蘭國防軍的[狙擊手狙擊手都要進行相關訓練](../Page/狙擊手.md "wikilink")，以彌補因彈墜補助而引起的錯誤，尤其是因環境和氣象的問題令彈墜補助的校準出現偏離而導致彈著偏離的情況是不可避免地發生時。分劃高低調整有0.25[密耳](https://zh.wikipedia.org/wiki/密耳 "wikilink")（0.25[毫弧度](../Page/毫弧度.md "wikilink")）的調整間隔（總海拔範圍=18.6密耳），而風阻則有0.1密耳的調整間隔。芬蘭國防軍相信，0.25密耳的高低間隔在戴上在[北極使用的](../Page/北极点.md "wikilink")[手套以下仍然能夠更容易](../Page/手套.md "wikilink")、更快捷地使用，而且在0.1密耳和0.25密耳之間的差距可在間隔上調節和在殺傷人員的狙擊方面的影響微不足道（0.1密耳在1,400公尺等於14厘米（0.3437747[角分](https://zh.wikipedia.org/wiki/角分 "wikilink")）；而0.25密耳在1,400公尺則等於35厘米（0.8594367[角分](https://zh.wikipedia.org/wiki/角分 "wikilink")））。所有重要的[螺絲溝槽都被設計成可以一發](../Page/螺絲.md "wikilink")[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")[子彈操作以進行分解或重新組裝](../Page/子彈.md "wikilink")，而無需使用[螺丝起子](https://zh.wikipedia.org/wiki/螺丝起子 "wikilink")。\[45\]
 
-  - ：TRG-22和TRG-42都被[格魯吉亞軍隊和](https://zh.wikipedia.org/wiki/格魯吉亞軍隊 "wikilink")[格魯吉亞特種部隊旅所採用](https://zh.wikipedia.org/wiki/格魯吉亞特種部隊旅 "wikilink")。\[46\]
+  -   - [法國陸軍](https://zh.wikipedia.org/wiki/法國陸軍 "wikilink")[特種部隊旅](../Page/特種部隊.md "wikilink")（TRG-42
+        [.300溫徹斯特麥格農口徑型](../Page/.300溫徹斯特麥格農.md "wikilink")）
 
-  - ：\[47\]
+  -   - [格魯吉亞武裝部隊](https://zh.wikipedia.org/wiki/格魯吉亞軍 "wikilink")（TRG-22、TRG-42）\[46\]
 
-  - ：一小批的TRG-22步槍被[米佐拉姆武裝警察](https://zh.wikipedia.org/wiki/米佐拉姆武裝警察 "wikilink")（，簡稱：MAP）所採用。\[48\]
+  - \[47\]
 
-  - ：TRG-42步槍被[第9傘兵突擊團“莫斯基山”](https://zh.wikipedia.org/wiki/第9傘兵突擊團 "wikilink")（；）和[特別干預組所採用](../Page/特別干預組_\(意大利\).md "wikilink")。\[49\]\[50\]
+  -   - （TRG-22）\[48\]
 
-  - ：TRG-22和TRG-42都被[約旦聯合特種作戰司令部](https://zh.wikipedia.org/wiki/約旦聯合特種作戰司令部 "wikilink")（）SRR-61（特種偵察團）所採用。\[51\]
+  -   - [義大利陸軍](https://zh.wikipedia.org/wiki/義大利陸軍 "wikilink")（TRG-42）
+      - [卡賓槍騎兵](../Page/卡賓槍騎兵.md "wikilink")[特別干預組](../Page/特別干預組_\(意大利\).md "wikilink")（TRG-42）\[49\]\[50\]
 
-  - ：裝上了折疊式槍托的TRG-42和TRG M10被獅子部隊（）所採用。\[52\]
+  -   - SRR-61團（TRG-22、TRG-42）\[51\]
+
+  -   - [A特別任務部隊](../Page/獅子特種部隊.md "wikilink")（TRG-42折疊式槍托型、TRG
+        M10）\[52\]
 
   - \[53\]
 
-  - ：TRG-22步槍被所採用。\[54\]
+  -   - （TRG-22）\[54\]
 
   - \[55\]
 
   - \[56\]
 
-  - ：一小批TRG-42步槍被[陸軍遊騎兵司令部](https://zh.wikipedia.org/wiki/陸軍遊騎兵司令部 "wikilink")（）、[傘兵遊騎兵突擊隊](https://zh.wikipedia.org/wiki/傘兵遊騎兵突擊隊 "wikilink")（）和[海軍陸戰隊遊騎兵司令部](https://zh.wikipedia.org/wiki/海軍陸戰隊遊騎兵司令部 "wikilink")（）、所採用。\[57\]
+  -   - [挪威國防軍](../Page/挪威國防軍.md "wikilink")（TRG-42）\[57\]
 
-  - ：[波蘭武裝部隊總共裝備了](https://zh.wikipedia.org/wiki/波蘭武裝部隊 "wikilink")40枝TRG-21步槍和206枝TRG-22步槍。首批的TRG-21步槍被交付給位於[盧布利涅茨](https://zh.wikipedia.org/wiki/盧布利涅茨 "wikilink")（）的[波蘭警察](https://zh.wikipedia.org/wiki/波蘭警察 "wikilink")（）、[特種部隊](../Page/特種部隊.md "wikilink")[行動應變及機動組和](../Page/行動應變及機動組.md "wikilink")[第1特戰突擊旅](https://zh.wikipedia.org/wiki/第1特戰突擊旅 "wikilink")（，）等單位使用。其餘的30枝TRG-21步槍則主要是交付給[第6空降旅](https://zh.wikipedia.org/wiki/第6空降旅 "wikilink")（）以及[第25空中突擊大隊](https://zh.wikipedia.org/wiki/第25空中突擊大隊 "wikilink")（）。後來因為伊拉克的作戰需求，在2004年再採購了130枝TRG-22步槍。在2006年，TRG-22步槍亦被[軍事憲兵](https://zh.wikipedia.org/wiki/軍事憲兵 "wikilink")（，，簡稱：ZW）所採用\[58\]\[59\]
+  -   - [波蘭武裝部隊](https://zh.wikipedia.org/wiki/波蘭武裝部隊 "wikilink")：總共裝備了40枝TRG-21步槍和206枝TRG-22步槍。首批的TRG-21步槍被交付給位於[盧布利涅茨的](https://zh.wikipedia.org/wiki/盧布利涅茨 "wikilink")、[特種部隊](../Page/特種部隊.md "wikilink")[行動應變及機動組和](../Page/行動應變及機動組.md "wikilink")等單位使用。其餘的30枝TRG-21步槍則主要是交付給第6空降旅以及第25空中突擊大隊。後來因為伊拉克的作戰需求，在2004年再採購了130枝TRG-22步槍。在2006年，TRG-22步槍亦被[憲兵部隊所採用](https://zh.wikipedia.org/wiki/憲兵 "wikilink")\[58\]\[59\]。
 
-  - ：被俄羅斯[特警隊](https://zh.wikipedia.org/wiki/特種警察 "wikilink")[特別即時反應單位](https://zh.wikipedia.org/wiki/特別即時反應單位 "wikilink")、[俄羅斯聯邦安全局](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")\[60\]以及[俄羅斯聯邦武裝力量特種作戰部隊](../Page/俄羅斯聯邦武裝力量特種作戰部隊.md "wikilink")\[61\]所採用。
+  -   - [俄羅斯國家近衛軍](https://zh.wikipedia.org/wiki/俄羅斯國家近衛軍 "wikilink")[特別迅速應變分隊](../Page/特別迅速應變分隊.md "wikilink")（TRG-22）
+      - [俄羅斯聯邦安全局](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")\[60\]（TRG-42）
+      - [俄羅斯聯邦武裝力量特種作戰部隊](../Page/俄羅斯聯邦武裝力量特種作戰部隊.md "wikilink")\[61\]
 
-  - ：被反恐部門（，簡稱：ПTJ）和特別旅所採用。\[62\]
+  -   - \[62\]
 
-  - ：TRG-22和TRG-42都被[西班牙武装部隊所採用](https://zh.wikipedia.org/wiki/西班牙武装力量 "wikilink")。\[63\]TRG-21和TRG-41都被[西班牙國家警察部隊](https://zh.wikipedia.org/wiki/西班牙國家警察部隊 "wikilink")（）以下的[特別行動小組](https://zh.wikipedia.org/wiki/西班牙國家警察部隊特別行動小組 "wikilink")（，簡稱：GEO）所採用。\[64\]
+      -
+  -   - [西班牙武裝部隊](https://zh.wikipedia.org/wiki/西班牙武装力量 "wikilink")（TRG-22、TRG-42）\[63\]
 
-  - ：TRG-42被[艾爾貝斯遊騎兵部隊](https://zh.wikipedia.org/wiki/瑞典艾爾貝斯遊騎兵部隊 "wikilink")（，為瑞典空軍的遊騎兵部隊）、[傘兵部隊](https://zh.wikipedia.org/wiki/瑞典傘兵部隊 "wikilink")（，簡稱：FJS）、[海岸遊騎兵部隊](https://zh.wikipedia.org/wiki/瑞典海岸遊騎兵部隊 "wikilink")（，簡稱：KJ）和[特別保護組](https://zh.wikipedia.org/wiki/瑞典特別保護組 "wikilink")（，簡稱：SSG）所採用，並且命名為**Prickskyttegevär
-    08**。\[65\]
+      - [特別行動組](../Page/西班牙反恐特別行動小組.md "wikilink")（TRG-21、TRG-41）\[64\]
 
-  - ：採購了196枝TRG-42狙擊步槍，並且命名為**SSGw 04**（全稱：**Scharfschützengewehr**
-    04，意為：04式狙擊步槍）。\[66\]\[67\]
+  -   - [瑞典國防軍](../Page/瑞典國防軍.md "wikilink")：TRG-42由空軍艾爾貝斯遊騎兵部隊、傘兵部隊、海岸遊騎兵部隊和所採用，並且命名為**Prickskyttegevär
+        08**。\[65\]
 
-  - ：採購了350枝TRG-42狙擊步槍。\[68\]\[69\]
+  -   - [瑞士武裝部隊](../Page/瑞士軍事.md "wikilink")：採購了196枝TRG-42狙擊步槍，並且命名為**SSGw
+        04**（全稱：**Scharfschützengewehr** 04，意為：04式狙擊步槍）。\[66\]\[67\]
 
-  - ：裝上了折疊式槍托的TRG-42被[烏克蘭內務部](https://zh.wikipedia.org/wiki/烏克蘭內務部 "wikilink")（）的“歐米茄”特種部隊（）\[70\]和[烏克蘭安全局所屬的特種部隊所採用](https://zh.wikipedia.org/wiki/烏克蘭安全局 "wikilink")。
+  -   - [土耳其武裝部隊](https://zh.wikipedia.org/wiki/土耳其軍事 "wikilink")：採購了350枝TRG-42狙擊步槍。\[68\]\[69\]
+
+  -   - \[70\]（TRG-42折疊式槍托型）
+
+      - [烏克蘭安全局](https://zh.wikipedia.org/wiki/烏克蘭安全局 "wikilink")
 
   -
 ## 流行文化
@@ -571,14 +573,14 @@ TRG-42 2007-w24 18-1f.jpg|沙科TRG-42狙擊步槍（左右兩視圖） <File:Sa
 
 32.
 
-33. [Sako TRG-42 The quest for cold-bore accuracy stops here. By Eric R.
-    Poole,
+33. （TRG-42）[Sako TRG-42 The quest for cold-bore accuracy stops here. By
+    Eric R. Poole,
     Posted: 2010-04](http://www.gunsandammo.com/content/sako-trg42)
 
 34. [photograph of a Special Operations Command (Australia) with a TRG
     M10](https://fbcdn-sphotos-c-a.akamaihd.net/hphotos-ak-frc3/t31.0-8/1523043_630235750398657_2790027554675569355_o.jpg)
 
-35. <http://www.youtube.com/watch?v=1VEykPjHWp8&feature=related>
+35. [1](http://www.youtube.com/watch?v=1VEykPjHWp8&feature=related)
 
 36.
 
@@ -594,11 +596,11 @@ TRG-42 2007-w24 18-1f.jpg|沙科TRG-42狙擊步槍（左右兩視圖） <File:Sa
 43. [Estonia to buy sniper rifles from
     Finland](http://shaan.typepad.com/shaanou/2007/07/estonia-to-buy-.html)
 
-44. [Finnish Army webpage on the 8.6
-    TKIV 2000](http://www.mil.fi/maavoimat/kalustoesittely/index.dsp?level=64&equipment=48)
-
-45. [Image collection of a 8.6 TKIV 2000/TRG-42 with a FDF Zeiss FinDot
+44. [Image collection of a 8.6 TKIV 2000/TRG-42 with a FDF Zeiss FinDot
     telescopic sight](http://jarno.fotopic.net/c1302332.html)
+
+45. [Finnish Army webpage on the 8.6
+    TKIV 2000](http://www.mil.fi/maavoimat/kalustoesittely/index.dsp?level=64&equipment=48)
 
 46.
 
@@ -614,16 +616,16 @@ TRG-42 2007-w24 18-1f.jpg|沙科TRG-42狙擊步槍（左右兩視圖） <File:Sa
 51. Shea, Dan (Spring 2009). "SOFEX 2008". *Small Arms Defense Journal*,
     p. 29.
 
-52. <http://www.youtube.com/watch?v=x02LH4veX0k>
+52. [2](http://www.youtube.com/watch?v=x02LH4veX0k)
 
 53.
 54. [Lietuvos kariuomenė :: Ginkluotė ir karinė technika » Snaiperiniai
     šautuvai » Snaiperinis šautuvas "SAKO
     TRG 22"](http://kariuomene.kam.lt/lt/ginkluote_ir_karine_technika/snaiperiniai_sautuvai/snaiperinis_sautuvas_bdquosako_trg_22rdquo.html)
 
-55. <http://www.militaryphotos.net/forums/showthread.php?178198-Macedonian-Special-Forces>
+55.
+56. [3](http://www.militaryphotos.net/forums/showthread.php?178198-Macedonian-Special-Forces)
 
-56.
 57.
 58. [Snajper a sprawa polska
     (Polish)](http://www.militech.sownet.pl/snajper/index.html)
@@ -651,4 +653,4 @@ TRG-42 2007-w24 18-1f.jpg|沙科TRG-42狙擊步槍（左右兩視圖） <File:Sa
 69. [YLE
     Uutiset 6.12.2007](http://www.yle.fi/uutiset/ulkomaat/oikea/id76863.html)
 
-70. <http://www.youtube.com/watch?v=-UBcVIFLzhU&feature=related>
+70. [4](http://www.youtube.com/watch?v=-UBcVIFLzhU&feature=related)

@@ -91,10 +91,8 @@ SPACE的简称。
   - Section 8.2–8.3 (The Class PSPACE, PSPACE-completeness),
     pp. 281–294.
 
-  - Chapter 19: Polynomial space, pp. 455–490.
-
-  - Chapter 8: Space Complexity
-
+  -
+  -
   -
   - Section 8.2–8.3 (The Class PSPACE, PSPACE-completeness),
     pp. 281–294.

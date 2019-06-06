@@ -65,7 +65,6 @@ Canopis”中找到了一个被遗弃的军事基地，所以在游戏中所有�
 
 7.
 8.
-9.  [European Games Award 2011
-    winners](http://www.european-games-award.com/index.php/winners/2011)
+9.
 
-10. [UNITY: Unity Awards 2011](http://unity3d.com/awards/)
+10.

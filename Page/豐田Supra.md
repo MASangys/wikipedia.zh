@@ -9,9 +9,7 @@ Supra雖已停產多年，但其出色的性能和前衛化的造型使其在業
 hp，當前已有不少例子，在[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")，Supra還被封上「[牛魔王](../Page/牛魔王.md "wikilink")」這稱號\[1\]，與[日產](../Page/日產汽車.md "wikilink")
 [GT-R的](../Page/日產GT-R.md "wikilink")[東瀛](../Page/东洋.md "wikilink")[戰神齊名](https://zh.wikipedia.org/wiki/戰神 "wikilink")。由於近日以[86為首](../Page/豐田86.md "wikilink")，豐田汽車再度投產[跑車市場](https://zh.wikipedia.org/wiki/跑車 "wikilink")，使Supra非常有復產的可能。
 
-## 歷史
-
-### 第一代（1978-1981）
+## 第一代 (1978-1981)
 
 [1979_Toyota_Celica_XX_2000G.jpg](https://zh.wikipedia.org/wiki/File:1979_Toyota_Celica_XX_2000G.jpg "fig:1979_Toyota_Celica_XX_2000G.jpg")
 第一代Supra基于Celica斜背版但稍长129.5毫米，车门和后半部分与Celica一致。丰田公司设计Supra的初衷是与当时大受欢迎的[達特桑](../Page/達特桑.md "wikilink")（现[日产汽車](https://zh.wikipedia.org/wiki/日产汽車 "wikilink")）公司的Z系列车型竞争。
@@ -32,7 +30,7 @@ Supra使用了W50型5前速[手动变速器和A](https://zh.wikipedia.org/wiki/�
 
 同年丰田公司为Supra提供了新的运动选装包，包括运动取向的悬挂调校、升级的轮胎，前后扰流器等。
 
-### 第二代（1982-1986）
+## 第二代 (1982-1986)
 
 [Toyota_Supra_A60_2759cc_registered_September_1982.JPG](https://zh.wikipedia.org/wiki/File:Toyota_Supra_A60_2759cc_registered_September_1982.JPG "fig:Toyota_Supra_A60_2759cc_registered_September_1982.JPG")
 1981年末，丰田公司为充实其1982年产品线，将包括Supra在内的Celica车族进行了重新设计。其称为Celica
@@ -62,15 +60,16 @@ mph)。第一代车型上选装的自动天气控制改为标配。天窗、双�
 
 丰田公司原本定于1985年停产第二代Supra，但因为第三代产品延迟，1985年款性能版仍然发售至1986年上半年，根据法规规定，在车尾加装了第三刹车灯。
 
-### 第三代
+## 第三代 (1986-1993)
 
 [Toyota_Supra_front_20071102.jpg](https://zh.wikipedia.org/wiki/File:Toyota_Supra_front_20071102.jpg "fig:Toyota_Supra_front_20071102.jpg")
 1986年5月，丰田公司准备发售新一代Supra。保持了后驱设计的Supra和改为前驱的Celica完全无关，与日本国内市场的丰田Soarer更相似。第二代和第三代Supra设计很相似，发动机升级至3.0升200马力（149千瓦）直列6缸机，1987年还推出了涡轮增压版。
 
 新Supra使用了丰田公司的旗舰级发动机7M-GE，该发动机为每缸4气门配置，其涡轮增压版7M-GTE使用了CT26涡轮，是丰田公司在美国市场推出的第一款带有曲轴位置传感器的涡轮机。7M-GE在6000转时功率为200马力（149千瓦），7M-GTE在5600转时功率为230马力（172千瓦）。1989年的涡轮增压版使用了重新设计的排气泄压阀，功率提升至232马力（173千瓦）和344牛·米。
 
-### 第四代
+## 第四代 (1993-2002)
 
+[<File:White_Supra.JPG>](https://zh.wikipedia.org/wiki/File:White_Supra.JPG "fig:File:White_Supra.JPG")
 原廠代號為**JZA80**，生產年份為1993至2002，美規左駕自1998年停止生產及出口販售。區分為自然進氣及渦輪增壓兩版本搭載3.0L直列六缸引擎，自排變速箱為Aisin打造，手排變速箱則由GETRAG來提供。最高時速Top
 speed(electronically limited) 250 kph (155 mph)
 自然進氣搭載引擎代號2JZ-GE，
@@ -92,9 +91,10 @@ GZ版本出現，雙渦輪引擎搭配4速自排，主要增加了許多如較�
 美規左駕於1998年停產，
 日規一直生產到2002年停產，TARGA車型則於99年停產。
 
-### 第五代Toyota Supra
+## 第五代 (2019年3月至今)
 
-Toyota
+[<File:Supra_(46373214984).jpg>](https://zh.wikipedia.org/wiki/File:Supra_\(46373214984\).jpg "fig:File:Supra_(46373214984).jpg")
+全新的Supra在2019年三月开始销售。Toyota
 Supra跟BMW新Z4共用引擎、變速箱和底盤，於奧地利製造，全車系搭載**8**速自排變速箱，50：50前後車身重量比、前置**後驅**、電子循跡與穩態系統、連續可變阻尼式懸吊。車長/寬/高分別為4,380x1,865x1295mm，軸距則為2,470mm、原廠電子限速(electronically
 limited)Top speed 時速250 kph (155 mph) 。
 

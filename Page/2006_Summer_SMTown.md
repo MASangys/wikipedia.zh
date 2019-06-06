@@ -20,8 +20,5 @@ Junior首次參與家族合輯的錄製](../Page/Super_Junior.md "wikilink")。
 
   - [SM Entertainment's Official Page](http://www.smtown.com/)
 
-[en:2006 Summer
-SMTown](https://zh.wikipedia.org/wiki/en:2006_Summer_SMTown "wikilink")
-
 [Category:SM_Town音樂專輯](https://zh.wikipedia.org/wiki/Category:SM_Town音樂專輯 "wikilink")
 [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")

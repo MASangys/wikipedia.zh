@@ -169,6 +169,8 @@ Pichai）所想的：「令我們驚訝的是許多人十分喜愛Hexxeh所開�
 
 [Category:Google軟體](https://zh.wikipedia.org/wiki/Category:Google軟體 "wikilink")
 [Category:Linux發行版](https://zh.wikipedia.org/wiki/Category:Linux發行版 "wikilink")
+[Category:Chrome_OS](https://zh.wikipedia.org/wiki/Category:Chrome_OS "wikilink")
+[Category:Chromium](https://zh.wikipedia.org/wiki/Category:Chromium "wikilink")
 
 1.
 

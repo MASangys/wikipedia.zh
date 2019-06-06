@@ -1461,7 +1461,7 @@ CANVAS」上的「星之時鐘」的指針走過一圈時，「LOST CANVAS」就
 
 <!-- end list -->
 
-  - 天損星 [刻托](https://zh.wikipedia.org/wiki/刻托 "wikilink") 克麗絲・瓦爾登
+  - 天損星 [刻托](../Page/刻托.md "wikilink") 克麗絲・瓦爾登
 
 :\*黃金外傳阿斯普洛斯編登場
 

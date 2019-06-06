@@ -328,8 +328,7 @@ colspan="2"|**首張專輯**
 
 1.  [年度唱片銷量 小豬15.5萬張 首度踹下雙J
     登基唱銷王](http://tw.nextmedia.com/applenews/article/art_id/33025619/IssueID/20101210)
-2.  [十大專輯
-    周杰倫3度獲選-中央社](http://www.cna.com.tw/news/FirstNews/201102080049-1.aspx)
+2.
 3.  Love？(官方動畫版MV)
 4.  [寂寞寂寞就好(HQ 官方版MV)](http://www.youtube.com/watch?v=DyFIzKYQQYE)
 5.  [田馥甄 - To Hebe (HQ

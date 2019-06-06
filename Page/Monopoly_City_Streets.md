@@ -38,7 +38,7 @@ DDB開發](https://zh.wikipedia.org/wiki/Tribal_DDB "wikilink")。
 [Category:2009年電子遊戲](https://zh.wikipedia.org/wiki/Category:2009年電子遊戲 "wikilink")
 [Category:战略游戏](https://zh.wikipedia.org/wiki/Category:战略游戏 "wikilink")
 [Category:即時戰略遊戲](https://zh.wikipedia.org/wiki/Category:即時戰略遊戲 "wikilink")
-[Category:多人遊戲](https://zh.wikipedia.org/wiki/Category:多人遊戲 "wikilink")
+[Category:多人电子游戏](https://zh.wikipedia.org/wiki/Category:多人电子游戏 "wikilink")
 [Category:網頁遊戲](https://zh.wikipedia.org/wiki/Category:網頁遊戲 "wikilink")
 
 1.

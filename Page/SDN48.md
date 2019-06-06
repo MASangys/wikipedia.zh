@@ -1460,18 +1460,16 @@ A・B**是單曲中c/w曲的組合。單曲的選拔成員外的正式成員和�
 
 ### 雜誌
 
-  - [週刊プレイボーイ](https://zh.wikipedia.org/wiki/週刊プレイボーイ "wikilink")（2009年10月19日・11月21日、[集英社](../Page/集英社.md "wikilink")）
+  - [週刊Playboy](../Page/週刊Playboy.md "wikilink")（2009年10月19日・11月21日、[集英社](../Page/集英社.md "wikilink")）
   - [スコラ](https://zh.wikipedia.org/wiki/スコラ "wikilink")（2009年10月25日、[スコラマガジン](https://zh.wikipedia.org/wiki/スコラ#株式会社スコラマガジン "wikilink")）
+
+## 備注
 
 ## 相關條目
 
   - [秋元康](../Page/秋元康.md "wikilink")
   - [AKB48](../Page/AKB48.md "wikilink")
-  - [SKE48](../Page/SKE48.md "wikilink")
-  - [NMB48](../Page/NMB48.md "wikilink")
-  - [HKT48](../Page/HKT48.md "wikilink")
-  - [JKT48](../Page/JKT48.md "wikilink")
-  - [SNH48](https://zh.wikipedia.org/wiki/SNH48 "wikilink")
+  - [AKB48集團](../Page/AKB48集團.md "wikilink")
   - [乃木坂46](https://zh.wikipedia.org/wiki/乃木坂46 "wikilink")
   - [在地偶像](../Page/在地偶像.md "wikilink")
   - [月刊AKB48團體新聞](../Page/月刊AKB48團體新聞.md "wikilink")
@@ -1482,8 +1480,6 @@ A・B**是單曲中c/w曲的組合。單曲的選拔成員外的正式成員和�
   - [SDN48官方部落格：說起目標這回事，還沒有餘暇來考慮～](http://ameblo.jp/sdn48official/)
   - [AKB48官方網站內的SDN48專頁](https://web.archive.org/web/20120502135003/http://www.akb48.co.jp/sdn48/)
 
-## 備注
-
 [Category:SDN48](https://zh.wikipedia.org/wiki/Category:SDN48 "wikilink")
 [Category:日本女子偶像團體](https://zh.wikipedia.org/wiki/Category:日本女子偶像團體 "wikilink")
 [Category:日本女子演唱團體](https://zh.wikipedia.org/wiki/Category:日本女子演唱團體 "wikilink")
@@ -1492,7 +1488,7 @@ A・B**是單曲中c/w曲的組合。單曲的選拔成員外的正式成員和�
 [Category:2009年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2009年成立的音樂團體 "wikilink")
 [Category:2012年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2012年解散的音樂團體 "wikilink")
 
-1.  平日則為19時，週末及國定假日亦為20時30分開演。
+1.  平日則為晩上7時，週末及國定假日亦為晩上8時30分開演。
 2.  [【お知らせ】](http://ameblo.jp/sdn48official/entry-11048955915.html) -
     SDN48公式ブログ 2011年10月15日
 3.  [SDN48

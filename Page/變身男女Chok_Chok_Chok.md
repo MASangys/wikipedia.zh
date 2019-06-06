@@ -33,7 +33,7 @@ Chok**》（）是[香港](../Page/香港.md "wikilink")[電視廣播有限公�
 <td><p><a href="../Page/袁詠儀.md" title="wikilink">靚蔡組</a>：<a href="../Page/袁詠儀.md" title="wikilink">袁詠儀</a>、<a href="../Page/蔡一智.md" title="wikilink">蔡一智</a>、<a href="../Page/蔡一傑.md" title="wikilink">蔡一傑</a><br />
 <a href="../Page/蘇志威.md" title="wikilink">蘇周組</a>：<a href="../Page/蘇志威.md" title="wikilink">蘇志威</a>、<a href="../Page/周汶錡.md" title="wikilink">周汶錡</a>、<a href="https://zh.wikipedia.org/wiki/周麗淇" title="wikilink">周麗淇</a></p></td>
 <td><p>女／女、3<br />
-<small>A.Pat　B.<a href="../Page/張彥博.md" title="wikilink">Bob</a>　C.Christina</small></p></td>
+<small>A.Pat　B.Bob　C.Christina</small></p></td>
 <td><p>C</p></td>
 </tr>
 <tr class="odd">

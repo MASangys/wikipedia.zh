@@ -203,8 +203,6 @@ Haswell處理器。
 
 ## 註釋
 
-[sv:Ultrabook](https://zh.wikipedia.org/wiki/sv:Ultrabook "wikilink")
-
 [Category:英特爾產品](https://zh.wikipedia.org/wiki/Category:英特爾產品 "wikilink")
 [Category:筆記型電腦](https://zh.wikipedia.org/wiki/Category:筆記型電腦 "wikilink")
 

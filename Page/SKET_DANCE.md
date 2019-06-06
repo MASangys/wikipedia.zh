@@ -14,7 +14,8 @@ DANCE**》是由[日本](../Page/日本.md "wikilink")[漫畫家](https://zh.wik
 私立開盟學園，通稱「SKET團」，以幫助學生適應學園生活、解決委託人的煩惱為宗旨。雖然有著很漂亮的口號，但實際上只是大家口中的雜傭團，不論是尋找失物、打掃清潔，SKET團都是最好的幫手。
 
 社團由無所事事的團長藤崎佑助（Bossun）、曾經是不良少女的鬼塚一愛（姬子）以及情報高手笛吹和義（Switch）三人組成。每回都會接受不同的委託，並且因而接觸幫助了更多人，故事就此展開下去。
-因為故事和JUMP上的《[銀魂](https://zh.wikipedia.org/wiki/銀魂 "wikilink")》相近，而作者[篠原健太曾擔任](https://zh.wikipedia.org/wiki/篠原健太 "wikilink")[空知英秋](../Page/空知英秋.md "wikilink")（《銀魂》作者）的助手，常被戲稱為「校園版《銀魂》」，動畫第26集[神樂稱其為](../Page/神樂.md "wikilink")"劣質版的《銀魂》"。
+
+因為故事和JUMP上的《[銀魂](https://zh.wikipedia.org/wiki/銀魂 "wikilink")》相近，而作者[篠原健太曾擔任](https://zh.wikipedia.org/wiki/篠原健太 "wikilink")[空知英秋](../Page/空知英秋.md "wikilink")（《銀魂》作者）的助手，常被戲稱為「校園版《銀魂》」，《銀魂》動畫第26集[神樂稱其為](../Page/神樂.md "wikilink")"劣質版的《銀魂》"。
 
 ### 長篇
 

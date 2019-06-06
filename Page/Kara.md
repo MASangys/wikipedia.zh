@@ -1,4 +1,4 @@
-**Kara**（；），為韓國的[DSP
+**KARA**（；），為韓國的[DSP
 Media公司在](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")2007年所推出的女子團體，最终成員包括[奎利](../Page/朴奎利.md "wikilink")、[昇延](../Page/韓昇延.md "wikilink")、[荷拉](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")及[齡智](../Page/許齡智.md "wikilink")。原為四人團體，經過成員變動後，最后仍保持為四人團體。
 
 2007年3月29日以歌曲《Break
@@ -9,7 +9,7 @@ PROJECT-KARA The
 Beginning》成為KARA新成員，團體人數增至四人。8月18日，KARA加入新成員[齡智後](../Page/許齡智.md "wikilink")，帶著第六張迷你專輯《Day
 & Night》回歸。2015年5月26日，KARA睽違九個月帶著第七張迷你專輯《IN LOVE》回歸。
 
-2016年1月15日，[荷拉](https://zh.wikipedia.org/wiki/荷拉 "wikilink")、[奎利](https://zh.wikipedia.org/wiki/奎利 "wikilink")、[昇延在本月尾的合約到期後決定不再續約](https://zh.wikipedia.org/wiki/昇延 "wikilink")，而[齡智則會繼續留在公司發展個人活動](https://zh.wikipedia.org/wiki/齡智 "wikilink")。
+2016年1月15日，[奎利](../Page/朴奎利.md "wikilink")、[昇延](../Page/韓昇延.md "wikilink")、[荷拉在本月尾的合約到期後決定不再續約](https://zh.wikipedia.org/wiki/具荷拉 "wikilink")，而[齡智則會繼續留在公司發展個人活動](../Page/許齡智.md "wikilink")。
 
 ## 團名由來
 

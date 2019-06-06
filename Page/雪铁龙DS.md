@@ -92,11 +92,11 @@ Day of the Jackal*中。
 
 现今的DS系列轿车价值持续增长--一辆1973年款的 DS 23 Injection Electronique 'Decapotable'
 (Chapron
-Convertible)在2006年2月的[佳士得Retromobile上以](../Page/佳士得.md "wikilink")176,250[欧元](../Page/欧元.md "wikilink")（当时汇价约合[人民币](../Page/人民币.md "wikilink")1,762,500元）的价格拍出\[16\]。一辆类似的车子在2009年2月由Bonhams卖出了343，497欧元的价格。\[[https://web.archive.org/web/20090213133905/http://www.bonhams.com/cgi-bin/public.sh/pubweb/publicSite.r?sContinent=EUR\&screen=ResultsXML\&iSaleNo=17043\]2009年9月18日一辆1966年款的DS21](https://web.archive.org/web/20090213133905/http://www.bonhams.com/cgi-bin/public.sh/pubweb/publicSite.r?sContinent=EUR&screen=ResultsXML&iSaleNo=17043%5D2009年9月18日一辆1966年款的DS21)
+Convertible)在2006年2月的[佳士得Retromobile上以](../Page/佳士得.md "wikilink")176,250[欧元](../Page/欧元.md "wikilink")（当时汇价约合[人民币](../Page/人民币.md "wikilink")1,762,500元）的价格拍出\[16\]。一辆类似的车子在2009年2月由Bonhams卖出了343，497欧元的价格。\[<https://web.archive.org/web/20090213133905/http://www.bonhams.com/cgi-bin/public.sh/pubweb/publicSite.r?sContinent=EUR&screen=ResultsXML&iSaleNo=17043%5D2009%E5%B9%B49%E6%9C%8818%E6%97%A5%E4%B8%80%E8%BE%861966%E5%B9%B4%E6%AC%BE%E7%9A%84DS21>
 Decapotable
 Usine由Bonhams以131,300[英镑的价格卖给了一位私人买家](../Page/英镑.md "wikilink")。而在2010年1月23日，Bonhams将另一辆DS21
 Decapotable
-(1973)卖出了189,000欧元的价格。[1](http://www.motorbase.com/vehicle/by-id/514/finance.ehtml)
+(1973)卖出了189,000欧元的价格。[1](https://web.archive.org/web/20100417142051/http://www.motorbase.com/vehicle/by-id/514/finance.ehtml)
 
 [Citroen_DS_002.jpg](https://zh.wikipedia.org/wiki/File:Citroen_DS_002.jpg "fig:Citroen_DS_002.jpg")
 

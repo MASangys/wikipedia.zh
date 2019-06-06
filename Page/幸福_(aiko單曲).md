@@ -25,7 +25,7 @@
 
 ## 外部連結
 
-  - [唱片介紹](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200700000799&DSP_SKHKETSEQ=001)
+  - [唱片介紹](https://web.archive.org/web/20110908014903/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200700000799&DSP_SKHKETSEQ=001)
 
 [分類:NHK紅白歌合戰演唱歌曲](https://zh.wikipedia.org/wiki/分類:NHK紅白歌合戰演唱歌曲 "wikilink")
 

@@ -101,7 +101,7 @@ TS分组包括头部和载荷两部分。头部包括固定长度部分和可选
 <td><p>载荷单元开始指示位</p></td>
 <td><p>Payload Unit Start Indicator</p></td>
 <td><p>1</p></td>
-<td><p>值1表示载荷部分为数据或<a href="https://zh.wikipedia.org/wiki/节目专用信息" title="wikilink">PSI数据</a>，否则为零。</p></td>
+<td><p>负载单元起始标示符，一个完整的数据包开始时标记为1, 表示携带的是<a href="https://zh.wikipedia.org/wiki/节目专用信息" title="wikilink">PSI或</a>第一个包</p></td>
 </tr>
 <tr class="even">
 <td><p>传输优先级</p></td>

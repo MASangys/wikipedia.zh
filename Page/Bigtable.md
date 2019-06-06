@@ -45,7 +45,7 @@ tablets保儲所有的META1的tablets的資料記錄。
 [Category:数据库](https://zh.wikipedia.org/wiki/Category:数据库 "wikilink")
 
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
-[Category:NoSQL](https://zh.wikipedia.org/wiki/Category:NoSQL "wikilink")
+[Category:键-值数据库](https://zh.wikipedia.org/wiki/Category:键-值数据库 "wikilink")
 
 1.  "First an overview. BigTable has been in development since early
     2004 and has been in active use for about eight months (about

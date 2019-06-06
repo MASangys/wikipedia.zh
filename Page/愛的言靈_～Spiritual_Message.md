@@ -35,4 +35,6 @@ Hop等元素](https://zh.wikipedia.org/wiki/Hip_Hop "wikilink")，非常輕快�
 [Category:1996年Oricon單曲週榜冠軍作品](https://zh.wikipedia.org/wiki/Category:1996年Oricon單曲週榜冠軍作品 "wikilink")
 
 1.
-2.  [](http://www.geocities.jp/fujiskre/ka92.html)
+2.  BS20世紀日本のうた}} |access-date=2010-05-08
+    |archive-url=<https://web.archive.org/web/20090828234527/http://www.geocities.jp/fujiskre/ka92.html>
+    |archive-date=2009-08-28 |dead-url=yes }}

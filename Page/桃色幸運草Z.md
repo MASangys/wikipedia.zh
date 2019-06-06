@@ -1864,7 +1864,7 @@ CD（通常盤）</p></td>
 《<strong>MOMOIRO CLOVER Z</strong>》</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=uyf5-UHWtUQ">音樂影片</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1898,7 +1898,7 @@ CD（通常盤）</p></td>
 <tr class="even">
 <td></td>
 <td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=SNIlvxhlBs0">音樂影片</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1916,7 +1916,7 @@ CD（通常盤）</p></td>
 <tr class="even">
 <td></td>
 <td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=AEMSrJ7o_QU">音樂影片</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1925,7 +1925,7 @@ CD（通常盤）</p></td>
 <tr class="odd">
 <td></td>
 <td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=pj6Po8AHy5w">音樂影片</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1934,7 +1934,7 @@ CD（通常盤）</p></td>
 <tr class="even">
 <td></td>
 <td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=qMf_rfFS9dA">音樂影片</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1943,7 +1943,7 @@ CD（通常盤）</p></td>
 <tr class="odd">
 <td></td>
 <td></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=YcGyHRcBqnQ&amp;feature=youtu.be&amp;fbclid=IwAR2v7Tsayq1QRc8PLwGxSv3eCQ4fyji-9EAtcgPWaP5MuWJDO0kIE8KcCdc">音樂影片</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1970,7 +1970,7 @@ CD（通常盤）</p></td>
 <tr class="even">
 <td></td>
 <td><p>翻唱曲</p></td>
-<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=g-iWHomwoB8">音樂影片</a></p></td>
 <td></td>
 <td></td>
 <td></td>

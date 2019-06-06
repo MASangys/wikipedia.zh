@@ -24,9 +24,9 @@
 
 **AFC溫布頓**（）是一間[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[職業](../Page/職業.md "wikilink")[足球會](https://zh.wikipedia.org/wiki/足球會 "wikilink")，同時隸屬「倫敦足球總會」（London
 Football Association）及「薩里郡足球總會」（Surrey County Football
-Association），以[泰晤士河畔京士頓區的京士美度球場](../Page/泰晤士河畔京士頓區.md "wikilink")（Kingsmeadow）為基地，其名稱及根源可追溯自[默頓區的温布尔登](https://zh.wikipedia.org/wiki/默頓區 "wikilink")（Wimbledon）。
+Association），以[泰晤士河畔京士頓區的京士美度球場](../Page/泰晤士河畔京士頓區.md "wikilink")（Kingsmeadow）為基地，其名稱及根源可追溯自[默頓區的](https://zh.wikipedia.org/wiki/默頓區 "wikilink")[温布尔登](../Page/温布尔登_\(伦敦\).md "wikilink")（Wimbledon）。
 
-球隊於2002年當[英格蘭足球總會批准](https://zh.wikipedia.org/wiki/英格蘭足球總會 "wikilink")[溫布頓足球會搬遷到](../Page/溫布頓足球會.md "wikilink")[白金汉郡](../Page/白金汉郡.md "wikilink")[新市鎮](../Page/新市鎮.md "wikilink")[米尔顿凯恩斯後建立](../Page/米尔顿凯恩斯.md "wikilink")，溫布頓的支持者為反對搬遷而創立屬於自己的AFC溫布頓。對於將溫布頓移植到米尔顿凯恩斯，大部分的溫布頓球迷感到球會不再代表温布尔登社區的傳統及遺產\[1\]，因此轉而支持新建立的球隊。
+2002年，當[英格蘭足球總會批准](https://zh.wikipedia.org/wiki/英格蘭足球總會 "wikilink")[溫布頓足球會搬遷到](../Page/溫布頓足球會.md "wikilink")[白金汉郡](../Page/白金汉郡.md "wikilink")[新市鎮](../Page/新市鎮.md "wikilink")[米尔顿凯恩斯後建立](../Page/米尔顿凯恩斯.md "wikilink")，溫布頓的支持者為反對搬遷而創立屬於自己的AFC溫布頓。對於將溫布頓移植到米尔顿凯恩斯，大部分的溫布頓球迷感到球會不再代表温布尔登社區的傳統及遺產\[1\]，因此轉而建立的新球隊AFC溫布頓。
 
 當AFC溫布頓成立時，球隊參加「聯合郡制足球聯賽超聯組」（United Counties Football League Premier
 Division），其後於7個球季內取得4次升班，期間連續78場聯賽取得不敗，是[英格蘭高級足球賽事至今的一項紀錄](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")。球隊於2008/09年球季贏得[英格蘭足球議會南部聯賽冠軍](https://zh.wikipedia.org/wiki/英格蘭足球議會南部聯賽 "wikilink")，而升班至非聯賽最高級別的[議會全國聯賽](https://zh.wikipedia.org/wiki/英格蘭足球議會全國聯賽 "wikilink")。其後球會於2011年透過附加賽於[加時賽後憑](https://zh.wikipedia.org/wiki/加時賽 "wikilink")[互射十二碼擊敗](../Page/互射十二碼.md "wikilink")[盧頓升班至](../Page/卢顿足球俱乐部.md "wikilink")[英格蘭足球乙級聯賽參賽](../Page/英格蘭足球乙級聯賽.md "wikilink")\[2\]，[五年後再透過勝出附加賽升班至](../Page/2015年至2016年英格蘭足球乙級聯賽.md "wikilink")[英格蘭足球甲級聯賽](../Page/英格蘭足球甲級聯賽.md "wikilink")\[3\]。

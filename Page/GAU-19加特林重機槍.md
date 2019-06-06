@@ -1,6 +1,6 @@
 **GECAL
-50**，被[美國軍隊命名為](../Page/美军.md "wikilink")**GAU-19/A**（），是一挺由[美国武器製造商](../Page/美国.md "wikilink")[通用电气所研發](../Page/通用电气.md "wikilink")、目前由[通用动力所生產的電力](../Page/通用动力.md "wikilink")（外力）驅動式[加特林式](../Page/加特林机枪.md "wikilink")[机枪](../Page/机枪.md "wikilink")，發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50
-BMG）制式[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。
+50**是一挺由[美国武器製造商](../Page/美国.md "wikilink")[通用电气所研發](../Page/通用电气.md "wikilink")、目前由[通用动力所生產的電力](../Page/通用动力.md "wikilink")（外力）驅動式[加特林式](../Page/加特林机枪.md "wikilink")[机枪](../Page/机枪.md "wikilink")，發射[12.7×99毫米](../Page/12.7×99mm_NATO.md "wikilink")[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink")[口徑](https://zh.wikipedia.org/wiki/口徑 "wikilink")（.50
+BMG）制式[步枪](../Page/步枪.md "wikilink")[子彈](../Page/子彈.md "wikilink")。該武器被[美國軍隊命名為](../Page/美军.md "wikilink")**GAU-19/A**（）。
 
 由於其重量和大小的關係，它並非一種款可以輕易地在任何場地中隨身攜帶的武器系統，因此往往是安裝在[直升機](https://zh.wikipedia.org/wiki/直升機 "wikilink")、地面[戰鬥车辆和水上](../Page/裝甲戰鬥車輛.md "wikilink")[船](../Page/船.md "wikilink")[艦以上](../Page/军舰.md "wikilink")。
 
@@ -31,15 +31,16 @@ BMG）[北約](https://zh.wikipedia.org/wiki/北大西洋公约组织 "wikilink"
 
 ## 使用國
 
-  - ：被緝毒部隊所採用
+  -   - 緝毒部隊
 
-  - ：被[海上保安廳所採用](../Page/海上保安廳.md "wikilink")，安裝於[加賀雪型小型巡視船上](https://zh.wikipedia.org/wiki/加賀雪型巡邏艇 "wikilink")（編號PC108以後）
+  -   - [海上保安廳](../Page/海上保安廳.md "wikilink")：安裝於[加賀雪型小型巡視船上](https://zh.wikipedia.org/wiki/加賀雪型巡邏艇 "wikilink")（編號PC108以後）
 
-  - ：被[墨西哥軍隊所採用](https://zh.wikipedia.org/wiki/墨西哥軍隊 "wikilink")
+  -   - [墨西哥武裝部隊](../Page/墨西哥軍事.md "wikilink")
 
-  - ：被[阿曼軍隊的](https://zh.wikipedia.org/wiki/阿曼軍隊 "wikilink")[悍馬所採用](../Page/悍馬_\(軍用汽車\).md "wikilink")
+  -   - （安裝於[悍馬上](../Page/悍馬_\(軍用汽車\).md "wikilink")）
 
-  -
+  -   - [美國武裝部隊](https://zh.wikipedia.org/wiki/美軍 "wikilink")
+
 ## 流行文化
 
 GAU-19登場於多部[电影](../Page/电影.md "wikilink")、[电子游戏和](../Page/电子游戏.md "wikilink")[動画裡](https://zh.wikipedia.org/wiki/動画 "wikilink")，例如：

@@ -149,12 +149,12 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 </tbody>
 </table>
 
-### 個人
+### 練習生
 
 <table>
 <tbody>
 <tr class="odd">
-<td><p>姓名[3]</p></td>
+<td><p>姓名[3][4]</p></td>
 <td><p>相關團體/節目</p></td>
 <td><p>其他</p></td>
 </tr>
@@ -186,6 +186,21 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 <td><p>朴視營</p></td>
 <td><p>Performance隊<br />
 最終排名：</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>李煥</p></td>
+<td><p><a href="../Page/PRODUCE_X_101.md" title="wikilink">PRODUCE X 101</a></p></td>
+<td><p>最終排名：67</p></td>
+</tr>
+<tr class="even">
+<td><p>李埈赫</p></td>
+<td><p>最終排名：75</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>孫東杓</p></td>
+<td><p>最終排名：</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -459,7 +474,7 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 
   - [白承道](../Page/白承道.md "wikilink")
 
-  - 朴鍾燦\[4\]
+  - 朴鍾燦\[5\]
 
   - 朴鍾爀
 
@@ -488,7 +503,8 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 
   - 黃博勁（[A-JAX預備成員](../Page/A-JAX.md "wikilink")）
 
-  - 朴佳真（S the One）
+  - 朴加真（[i-13](https://zh.wikipedia.org/wiki/i-13 "wikilink")、[JQT](../Page/JQT.md "wikilink")、S
+    the One）
 
   - 韓奎萬（[SS501預備成員](../Page/SS501.md "wikilink")）
 
@@ -522,21 +538,21 @@ Media**（）是1991年所成立的[韓國綜合娛樂公司](https://zh.wikiped
 
   - 徐克心（前[Kara預備成員](../Page/Kara.md "wikilink")）
 
-  - [白世熙](https://zh.wikipedia.org/wiki/白世熙 "wikilink")（[七學年一班](../Page/七學年一班.md "wikilink")，前[Rainbow預備成員](../Page/Rainbow_\(音樂團體\).md "wikilink")\[5\]）
+  - [白世熙](https://zh.wikipedia.org/wiki/白世熙 "wikilink")（[七學年一班](../Page/七學年一班.md "wikilink")，前[Rainbow預備成員](../Page/Rainbow_\(音樂團體\).md "wikilink")\[6\]）
 
-  - [李主儐](../Page/李珠彬.md "wikilink")\[6\](前譯李珠彬)（前[Rainbow預備成員](../Page/Rainbow_\(音樂團體\).md "wikilink")）
+  - [李主儐](../Page/李珠彬.md "wikilink")\[7\](前譯李珠彬)（前[Rainbow預備成員](../Page/Rainbow_\(音樂團體\).md "wikilink")）
 
-  - 閔知睿（又譯作閔智慧，前[Rainbow預備成員](../Page/Rainbow_\(音樂團體\).md "wikilink")\[7\]）
+  - 閔知睿（又譯作閔智慧，前[Rainbow預備成員](../Page/Rainbow_\(音樂團體\).md "wikilink")\[8\]）
 
   - 李允智（前成員，前[Kara預備成員](../Page/Kara.md "wikilink")）
 
-  - 依羅（前[Berry Good](../Page/Berry_Good.md "wikilink")）
+  - 依羅（前[Berry Good成員](../Page/Berry_Good.md "wikilink")）
 
   - [連卿](https://zh.wikipedia.org/wiki/連卿 "wikilink")（前[The
     SeeYa](../Page/The_SeeYa.md "wikilink")、[F-VE
     DOLLS成員](../Page/F-VE_DOLLS.md "wikilink")）
 
-  - 劉榮斗（[IN2IT](../Page/IN2IT.md "wikilink")）
+  - 劉持岸（[IN2IT](../Page/IN2IT.md "wikilink")）
 
   - 蔡昊哲（[少年24參賽者](../Page/少年24.md "wikilink")）
 
@@ -640,7 +656,8 @@ Nam和](../Page/Eric_Nam.md "wikilink")[SS501成員](../Page/SS501.md "wikilink"
 2.  [容祖儿李孝利300拍MV港韩天后劲舞过招](http://gd.sohu.com/2004/01/08/87/article218168727.shtml)
 3.
 4.
-5.  [新人資料RainBow(6月出道..不會又騙我吧?-_-)](http://forum.qooza.hk/viewthread.php?tid=386591)
-6.  [李主儐身份證的漢字名稱](https://www.facebook.com/photo.php?fbid=10154767533397537&set=gm.2104807999561383&type=3&ifg=1)
-7.  [盘点09韩国乐坛女子新人组合
+5.
+6.  [新人資料RainBow(6月出道..不會又騙我吧?-_-)](http://forum.qooza.hk/viewthread.php?tid=386591)
+7.  [李主儐身份證的漢字名稱](https://www.facebook.com/photo.php?fbid=10154767533397537&set=gm.2104807999561383&type=3&ifg=1)
+8.  [盘点09韩国乐坛女子新人组合
     谁能笑到最后？](http://korea.sohu.com/20090710/n265119129_6.shtml)

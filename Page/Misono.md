@@ -232,7 +232,7 @@ misono曾就讀以培育出[安室奈美惠](../Page/安室奈美惠.md "wikilin
 
   - [misono OFFICIAL
     WEBSITE](http://www.avexnet.or.jp/misono/index.html)
-  - [](http://misono-net.jp/)
+  - [](https://web.archive.org/web/20091125001823/http://misono-net.jp/)
       - [](http://misono-net.jp/?p=diarylist) - 新網誌
   - [](http://ameblo.jp/blog-misono) -
     舊網誌（架設於[ameblo](https://zh.wikipedia.org/wiki/ameblo "wikilink")）

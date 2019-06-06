@@ -216,7 +216,6 @@ RenderMan 渲染器，当时能够进行光线跟踪的 RenderMan 渲染器是
     发布注记](https://3delight.atlassian.net/wiki/display/3DSP/Release+Notes)
 
 5.
-6.  [3Delight
-    许可证策略](http://www.3delight.com/en/index.php?page=3DSP_pricing)
+6.
 
-7.  [电影和剧集](http://www.3delight.com/en/index.php?page=projects)
+7.

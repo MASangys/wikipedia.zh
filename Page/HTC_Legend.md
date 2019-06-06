@@ -47,7 +47,8 @@ S系列](https://zh.wikipedia.org/wiki/Galaxy_S "wikilink")，引發不少爭議
   - [HTC Legend](http://www.forsejt.dk/anmeldelse/htc-legend-2/)
   - [HTC Legend
     Specifications](https://web.archive.org/web/20101229122604/http://www.htc.com/www/product/legend/overview.html)
-  - [HTC Legend updates](http://www.htclegendforum.com/)
+  - [HTC Legend
+    updates](https://web.archive.org/web/20100723014023/http://www.htclegendforum.com/)
 
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
 [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")

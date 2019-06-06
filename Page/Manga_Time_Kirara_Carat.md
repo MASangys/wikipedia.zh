@@ -1,7 +1,6 @@
-《**Manga Time Kirara
-Carat**》（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫畫雜誌](../Page/四格漫畫.md "wikilink")。每月28日發售，B5尺寸。
+是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫畫雜誌](../Page/四格漫畫.md "wikilink")。每月28日發售，B5尺寸。
 
-## 特徵・内容的傾向
+## 簡介
 
 與《[Manga Time Kirara](../Page/Manga_Time_Kirara.md "wikilink")》、《[Manga
 Time Kirara MAX](../Page/Manga_Time_Kirara_MAX.md "wikilink")》和《[Manga
@@ -9,7 +8,9 @@ Time Kirara
 Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》是姊妹誌的關係，並有增刊誌《》。官方網站上註記的標語為「可愛新潮流♪（）」。
 
 作為《Manga Time
-Kirara》的姊妹誌，內容也與其相似。特別是連載初期的「[三者三葉](../Page/三者三葉.md "wikilink")」（[荒井切利](../Page/荒井切利.md "wikilink")）、「」（）、「[K-ON！輕音部](../Page/K-ON！輕音部.md "wikilink")」（[kakifly](https://zh.wikipedia.org/wiki/kakifly "wikilink")）等作品也在《Manga
+Kirara》的姊妹誌，內容也與其相似。特別是連載初期的「[三者三葉](../Page/三者三葉.md "wikilink")」（[荒井切利](../Page/荒井切利.md "wikilink")）、「」（）、「[-{zh-cn:轻音少女;
+zh-tw:K-ON！輕音部; zh-hk:K-ON！輕音少女;
+zh-sg:K-ON\!}-](../Page/K-ON！輕音部.md "wikilink")」（[kakifly](https://zh.wikipedia.org/wiki/kakifly "wikilink")）等作品也在《Manga
 Time Kirara》等姐妹誌並行連載。
 
 初期作品有許多出現不少男性角色的[奇幻作品以女性核心讀者群為目標](../Page/奇幻作品.md "wikilink")，也為了吸引一般誌的客群而找了、等大牌作家，及、、等在一般誌有實際表現的作家群進行連載。在雙月刊化後連載作品則變得幾乎與《Manga
@@ -69,7 +70,8 @@ Time Kirara Carat》的讀者男女比為8:2，女性讀者相對較多。
 
   - [造夢同人誌](../Page/造夢同人誌.md "wikilink") - 2007年7月 - 9月播放
 
-  - [K-ON！輕音部](../Page/K-ON！輕音部.md "wikilink") （最初連載於《Manga Time
+  - [-{zh-cn:轻音少女; zh-tw:K-ON！輕音部; zh-hk:K-ON！輕音少女;
+    zh-sg:K-ON\!}-](../Page/K-ON！輕音部.md "wikilink") （最初連載於《Manga Time
     Kirara》，並在《Manga Time Kirara Carat》上隔月並行連載）
 
       - 第1期 - 2009年4月 - 6月播放
@@ -104,10 +106,10 @@ Time Kirara Carat》的讀者男女比為8:2，女性讀者相對較多。
     （[蒼樹梅](../Page/蒼樹梅.md "wikilink")、VOL.4～VOL.15（増刊最終号）、2005年11月号（独立創刊号）
     - ）
 
-  - [春美领域](../Page/春美领域.md "wikilink") （、2008年2月号 - ）
+  - [春美领域](../Page/春美领域.md "wikilink") （、2008年2月号 - 2019年8月号）
 
   - [愛殺寶貝](../Page/愛殺寶貝.md "wikilink")
-    （[カヅホ](../Page/Kaduho.md "wikilink")、2008年7月号 - ）
+    （[Kaduho](../Page/Kaduho.md "wikilink")、2008年7月号 - ）
 
   - [A頻道](../Page/A頻道.md "wikilink")
     （[黑田bb](../Page/黑田bb.md "wikilink")、2008年12月号 - ）
@@ -127,7 +129,9 @@ Time Kirara Carat》的讀者男女比為8:2，女性讀者相對較多。
   - [满溢的水果-{zh-hans:挞;zh-hk:撻;zh-tw:塔}-](../Page/滿溢的水果塔.md "wikilink")
     （[濱弓場雙](../Page/濱弓場雙.md "wikilink")、2015年1月号 - 3月号客串連載、7月号 - ）
 
-  - [Anima Yell\!](../Page/Anima_Yell!.md "wikilink") （、2016年4月号 - ）
+  - [Anima Yell\!](../Page/Anima_Yell!.md "wikilink")
+    （[卯花司](https://zh.wikipedia.org/wiki/卯花司 "wikilink")、2016年4月号
+    - ）
 
   - （Quro、2017年3月号 - ）
 
@@ -144,7 +148,9 @@ Time Kirara Carat》的讀者男女比為8:2，女性讀者相對較多。
 
   - （、2018年6月号 - 2018年8月号客串連載、9月号 - ）
 
-  - （あひる、2019年1月号 - 2月号客串連載、5月号 - ）
+  - （、2019年1月号 - 2月号客串連載、5月号 - ）
+
+  - （、2019年7月号 - ）
 
 ## 休載中的作品
 
@@ -328,7 +334,8 @@ Time Kirara Carat》的讀者男女比為8:2，女性讀者相對較多。
     （[もんちぃ](https://zh.wikipedia.org/wiki/もんちぃ "wikilink")、2008年3月号
     - 2009年9月号）
 
-  - [K-ON！輕音部](../Page/K-ON！輕音部.md "wikilink")（[kakifly](https://zh.wikipedia.org/wiki/kakifly "wikilink")、2008年4月号、8月号客串連載、10月号
+  - [-{zh-cn:轻音少女; zh-tw:K-ON！輕音部; zh-hk:K-ON！輕音少女;
+    zh-sg:K-ON\!}-](../Page/K-ON！輕音部.md "wikilink")（[kakifly](https://zh.wikipedia.org/wiki/kakifly "wikilink")、2008年4月号、8月号客串連載、10月号
     - 2009年10月号(隔月掲載)、2011年6月号 - 2012年8月号）※與『Manga Time Kirara』平行連載。
 
   - （[なんにゃか](https://zh.wikipedia.org/wiki/なんにゃか "wikilink")、2008年6月号 -
@@ -521,16 +528,25 @@ Time Kirara Carat》的讀者男女比為8:2，女性讀者相對較多。
 
   - （、2017年7月号 - 8月号客串連載、2018年3月号 - 2018年12月号）
 
-## 备注
+## 註解
 
-## 參考來源
+## 參考文獻
+
+## 參見
+
+  - [Manga Time Kirara](../Page/Manga_Time_Kirara.md "wikilink")
+  - [Manga Time Kirara MAX](../Page/Manga_Time_Kirara_MAX.md "wikilink")
+  - [Manga Time Kirara
+    Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")
+  - [Manga Time Kirara
+    Miracle\!](../Page/Manga_Time_Kirara_Miracle!.md "wikilink")
 
 ## 外部連結
 
-  - [Manga Time Kirara Web](http://www.dokidokivisual.com/index.php)
-  - [NicoNico静图 |
-    Kirara基地](http://seiga.nicovideo.jp/manga/official/kirara)
+  - [Manga Time Kirara
+    Carat](http://www.dokidokivisual.com/magazine/carat/)
 
+  -
 [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
 [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
 [Category:Manga_Time_Kirara](https://zh.wikipedia.org/wiki/Category:Manga_Time_Kirara "wikilink")

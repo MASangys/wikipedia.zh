@@ -1271,7 +1271,7 @@
 
 54.
 
-55. [GeoWebCache a€“ Trac](http://geowebcache.org)
+55.
 
 56. [1](http://mapproxy.org)
 

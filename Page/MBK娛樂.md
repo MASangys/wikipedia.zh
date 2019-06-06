@@ -99,12 +99,12 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 
 ### 組合
 
-| 出道日期       | 組合名稱                                                | 性別 | 成員                                                                                                                                               | 隊長                              | 官方粉絲名 | 官方應援色 | 官方應援物 |
-| ---------- | --------------------------------------------------- | -- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------- | ----- | ----- | ----- |
-| 2013年10月8日 | Nutaz                                               | 男  | Naino（劉炳吉）、Venimun（孫京民）                                                                                                                          | —                               | —     | －     | －     |
-| 2015年7月6日  | [High Brow](../Page/High_Brow.md "wikilink")        | 男  | 李周憲、金形桂                                                                                                                                          | 李周憲                             |       |       |       |
-| 2015年9月14日 | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink") | 女  | Eunice、主恩、[熙賢](../Page/奇熙賢.md "wikilink")、Jenny、[豫彬](../Page/白豫彬.md "wikilink")、[彩娟](../Page/彩娟.md "wikilink")、[恩彩](../Page/恩彩.md "wikilink")、順伊 | [熙賢](../Page/奇熙賢.md "wikilink") | AID   |       |       |
-| 未知         | [IM66](../Page/IM66.md "wikilink")                  | 男  | 志鎬、盛採、KI-O、俊赫、允亨、尚禹、棋釋、翰潔、太垠、基重                                                                                                                  | —                               | —     |       |       |
+| 出道日期       | 組合名稱                                                          | 性別 | 成員                                                                                                                                               | 隊長                              | 官方粉絲名 | 官方應援色 | 官方應援物 |
+| ---------- | ------------------------------------------------------------- | -- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------- | ----- | ----- | ----- |
+| 2013年10月8日 | Nutaz                                                         | 男  | Naino（劉炳吉）、Venimun（孫京民）                                                                                                                          | —                               | —     | －     | －     |
+| 2015年7月6日  | [High Brow](../Page/High_Brow.md "wikilink")                  | 男  | 李周憲、金形桂                                                                                                                                          | 李周憲                             |       |       |       |
+| 2015年9月14日 | [DIA](https://zh.wikipedia.org/wiki/DIA "wikilink")           | 女  | Eunice、主恩、[熙賢](../Page/奇熙賢.md "wikilink")、Jenny、[豫彬](../Page/白豫彬.md "wikilink")、[彩娟](../Page/彩娟.md "wikilink")、[恩彩](../Page/恩彩.md "wikilink")、順伊 | [熙賢](../Page/奇熙賢.md "wikilink") | AID   |       |       |
+| 未知         | [MBK BOYS](https://zh.wikipedia.org/wiki/MBK_BOYS "wikilink") | 男  | 基重、俊玗、在億                                                                                                                                         | —                               | —     |       |       |
 
 ### Solo
 
@@ -257,7 +257,7 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 <td><p><a href="../Page/金岱妮.md" title="wikilink">Danielle Kim</a></p></td>
 <td><p><a href="../Page/T-ara_N4.md" title="wikilink">T-ara N4</a></p></td>
 <td><p>女</p></td>
-<td><p>曾出演<a href="../Page/PRODUCE_101.md" title="wikilink">PRODUCE 101</a>，為第24名</p></td>
+<td><p>《<a href="../Page/PRODUCE_101.md" title="wikilink">PRODUCE 101</a>》</p></td>
 </tr>
 <tr class="even">
 <td><p>KI-O</p></td>
@@ -288,31 +288,31 @@ MBK 成立的契機統合成了一個大家庭。現任代表為工人仲介公�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>志鎬</p></td>
-<td><p>金永尚</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>Raphael</p></td>
 <td><p>Raphael Jolly</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>志鎬</p></td>
+<td><p>金永尚</p></td>
+<td></td>
+<td><p>《<a href="../Page/PRODUCE_X_101.md" title="wikilink">PRODUCE X 101</a>》</p></td>
+<td></td>
+</tr>
 <tr class="even">
 <td><p>允亨</p></td>
 <td><p>趙允亨</p></td>
 <td></td>
-<td><p>曾參加《<a href="../Page/少年24.md" title="wikilink">少年24</a>》</p></td>
+<td><p>《<a href="../Page/少年24.md" title="wikilink">少年24</a>》</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>道賢</p></td>
 <td><p>南道賢</p></td>
-<td><p>남도현</p></td>
 <td></td>
-<td><p>曾參加《<a href="https://zh.wikipedia.org/wiki/UNDER_NINETEEN" title="wikilink">UNDER NINETEEN</a>》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Under_Nineteen" title="wikilink">Under Nineteen</a>》、《<a href="../Page/PRODUCE_X_101.md" title="wikilink">PRODUCE X 101</a>》</p></td>
 <td></td>
 </tr>
 </tbody>

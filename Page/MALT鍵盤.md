@@ -17,15 +17,15 @@ Malt）設計，。
 
   - [PCD Maltron web site](http://www.maltron.com/), including:
       - [Single hand
-        keyboards](http://maltron.com/keyboard-info/single-hand-keyboards)
+        keyboards](https://web.archive.org/web/20140114193531/http://maltron.com/keyboard-info/single-hand-keyboards)
       - [Fully ergonomic 3D
-        keyboards](http://maltron.com/keyboard-info/dual-hand-fully-ergonomic-3d-keyboards)
+        keyboards](https://web.archive.org/web/20140114194332/http://maltron.com/keyboard-info/dual-hand-fully-ergonomic-3d-keyboards)
       - [Single-finger or mouth/head-stick
-        keyboard](http://maltron.com/keyboard-info/maltron-mouth--head-stick-keyboard)
+        keyboard](https://web.archive.org/web/20140114194237/http://maltron.com/keyboard-info/maltron-mouth--head-stick-keyboard)
       - [Ergonomic flat
-        keyboard](http://maltron.com/keyboard-info/maltron-dual-hand-flat-2d-keyboard)
+        keyboard](https://web.archive.org/web/20140114194255/http://maltron.com/keyboard-info/maltron-dual-hand-flat-2d-keyboard)
       - [Expanded
-        keyboard](http://maltron.com/keyboard-info/maltron-expanded-keyboard)
+        keyboard](https://web.archive.org/web/20140114193611/http://maltron.com/keyboard-info/maltron-expanded-keyboard)
   - [Maltron Keyboard
     Layout](http://www.red-bean.com/kfogel/maltron-layout.html) — Karl
     Fogel's diagram of the Maltron layout

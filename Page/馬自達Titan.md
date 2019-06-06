@@ -20,7 +20,7 @@ Dash則於同年起委託位於[神奈川縣](../Page/神奈川縣.md "wikilink"
 [XB型](https://zh.wikipedia.org/wiki/馬自達柴油引擎#直列四缸 "wikilink")、3.0L
 [HA型與](https://zh.wikipedia.org/wiki/馬自達柴油引擎#柏金斯引擎 "wikilink")4.1L
 [ZB型](https://zh.wikipedia.org/wiki/馬自達柴油引擎#V型六缸 "wikilink")，而外銷版則稱為**馬自達E2700**、**馬自達E3000**和**馬自達E4100**。另外也有2.0L
-[VA型汽油引擎](https://zh.wikipedia.org/wiki/馬自達OHV引擎列表#VA型 "wikilink")，海外版稱為**馬自達E2000**。1977年進行小改款，最大的差別在於車頭進氣壩自中間移往左右二側，並與方向燈組合併，同時頭燈組的方框取消，並將車頭「m」字商標改成「mazda」字樣。電視廣告的主角跟[Bongo一樣是當時的](../Page/馬自達Bongo.md "wikilink")[演員山城新伍](https://zh.wikipedia.org/wiki/演員 "wikilink")\[4\]。[南韓的](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[起亞汽車曾經在馬自達的授權下以第一代Titan為藍本](https://zh.wikipedia.org/wiki/起亞汽車 "wikilink")，在其國內生產製造同樣名為「Titan」的小型卡車。
+[VA型汽油引擎](https://zh.wikipedia.org/wiki/馬自達OHV引擎列表#VA型 "wikilink")，海外版稱為**馬自達E2000**。1977年進行小改款，最大的差別在於車頭進氣壩自中間移往左右二側，並與方向燈組合併，同時頭燈組的方框取消，並將車頭「m」字商標改成「mazda」字樣。電視廣告的主角跟[Bongo一樣是當時的](../Page/馬自達Bongo.md "wikilink")[演員山城新伍](../Page/演員.md "wikilink")\[4\]。[南韓的](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[起亞汽車曾經在馬自達的授權下以第一代Titan為藍本](https://zh.wikipedia.org/wiki/起亞汽車 "wikilink")，在其國內生產製造同樣名為「Titan」的小型卡車。
 
 Image:MitiTitanOld11.jpg|後期型車頭 Image:Mazda TITAN I at night front.JPG
 Image:Mazda E 3000 1982

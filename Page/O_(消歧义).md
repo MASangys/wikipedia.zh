@@ -44,7 +44,7 @@
   - O，[日语](../Page/日语.md "wikilink")[平假名](../Page/平假名.md "wikilink")「[お](../Page/お.md "wikilink")」和[片假名](../Page/片假名.md "wikilink")「[オ](https://zh.wikipedia.org/wiki/オ "wikilink")」的[罗马字](../Page/日语罗马字.md "wikilink")。
   - [O级战列巡洋舰](https://zh.wikipedia.org/wiki/O级战列巡洋舰 "wikilink")，[纳粹德国海军计划在](https://zh.wikipedia.org/wiki/纳粹德国海军 "wikilink")[第二次世界大战期间服役的一级战列巡洋舰](../Page/第二次世界大战.md "wikilink")。
   - O類型，在[恒星光谱中表示最熱的星](../Page/恒星光谱.md "wikilink")。
-  - /o/，[國際音標中用以表示](https://zh.wikipedia.org/wiki/國際音標 "wikilink")[半閉後圓唇元音的符號](../Page/半閉後圓唇元音.md "wikilink")。
+  - /o/，[國際音標中用以表示](../Page/國際音標.md "wikilink")[半閉後圓唇元音的符號](../Page/半閉後圓唇元音.md "wikilink")。
   - [«O»](https://zh.wikipedia.org/wiki/«O» "wikilink")，一份在[德国出版的國際](../Page/德国.md "wikilink")[戀物杂志](../Page/戀物.md "wikilink")。
   - [O
     (政治團體)](https://zh.wikipedia.org/wiki/O_\(政治團體\) "wikilink")，[美国](../Page/美国.md "wikilink")1970年代的一個政治團體。

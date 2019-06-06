@@ -56,4 +56,4 @@ You》推出第二版，於6月29日推出\[2\]，第二版中多加一片CD，�
     DVD)](http://www.yesasia.com/global/p-s-i-love-you-%E6%96%B0%E6%AD%8C%E5%8A%A0%E7%B2%BE%E9%81%B8-2nd-edition-2cd-dvd/1024590084-0-0-0-zh_TW/info.html)，2011年6月24日
     (五) 08:25 (UTC+8)查閱
 
-4.  張敬軒於2010年10月6日在[叱咤903節目](https://zh.wikipedia.org/wiki/叱咤903 "wikilink")《[叱吒樂壇](https://zh.wikipedia.org/wiki/叱吒樂壇 "wikilink")》訪問時談及。
+4.  張敬軒於2010年10月6日在[叱咤903節目](../Page/叱咤903.md "wikilink")《[叱吒樂壇](https://zh.wikipedia.org/wiki/叱吒樂壇 "wikilink")》訪問時談及。

@@ -24,8 +24,7 @@ Visa金融卡在全世界所有接受Visa信用卡的商店（包括一般實體
 
 持卡人也可以在全球有Visa標誌的[自動櫃員機提領當地貨幣](../Page/自動櫃員機.md "wikilink")，款項會從存款帳戶中扣除。
 
-加载EMV芯片的Visa金融卡可选择性支持[{{\<ref\>\[\[ \*
-\#](https://zh.wikipedia.org/wiki/{{\<ref\>[[_*_# "wikilink")</ref>}}\]\]。
+加载EMV芯片的Visa金融卡可选择性支持[payWave](https://zh.wikipedia.org/wiki/payWave "wikilink")。
 
 ## 發卡機構
 

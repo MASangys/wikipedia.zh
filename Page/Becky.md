@@ -1,4 +1,4 @@
-**Becky**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：****，）是[日本知名](../Page/日本.md "wikilink")[女藝人](https://zh.wikipedia.org/wiki/女藝人 "wikilink")、[歌手](../Page/歌手.md "wikilink")、[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")、[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")，出生於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")\[1\]。父親是[英國人](https://zh.wikipedia.org/wiki/英國 "wikilink")，母親是日本人，本名蕾貝卡·英里·雷朋（Rebecca
+**Becky**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：****，）是[日本知名](../Page/日本.md "wikilink")[女藝人](https://zh.wikipedia.org/wiki/女藝人 "wikilink")、[歌手](../Page/歌手.md "wikilink")、[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")、[演員](../Page/演員.md "wikilink")，出生於[日本](../Page/日本.md "wikilink")[神奈川縣](../Page/神奈川縣.md "wikilink")\[1\]。父親是[英國人](https://zh.wikipedia.org/wiki/英國 "wikilink")，母親是日本人，本名蕾貝卡·英里·雷朋（Rebecca
 Eri
 Rabone；レベッカ・英里・レイボーン）\[2\]。畢業於[亞細亞大學](../Page/亞細亞大學.md "wikilink")（）經營學部。身高157cm，血型AB型。
 

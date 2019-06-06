@@ -782,6 +782,7 @@ Unicode4.0之后的为线形文字B提供了编码码位，其中音节符号码
 [Category:青銅時代文字](https://zh.wikipedia.org/wiki/Category:青銅時代文字 "wikilink")
 [Category:古希臘](https://zh.wikipedia.org/wiki/Category:古希臘 "wikilink")
 [Category:音節文字](https://zh.wikipedia.org/wiki/Category:音節文字 "wikilink")
+[Category:已廢棄的書寫系統](https://zh.wikipedia.org/wiki/Category:已廢棄的書寫系統 "wikilink")
 
 1.  Ventris and Chadwick (1973) page 391: "100 MAN is now used for all
     forms of the ideogram, so that 101 and 103 are now suppressed."

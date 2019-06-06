@@ -47,6 +47,9 @@ SIMON槍榴彈還有一種衍生型號也可以人手將其直接貼在門上使
 
   - [M234防暴彈發射器](../Page/M234防暴彈發射器.md "wikilink")
 
+  - [BT/AT
+    52反坦克槍榴彈](https://zh.wikipedia.org/wiki/BT/AT_52反坦克槍榴彈 "wikilink")
+
   - [22毫米槍榴彈](../Page/22毫米槍榴彈.md "wikilink")
 
 ## 資料來源

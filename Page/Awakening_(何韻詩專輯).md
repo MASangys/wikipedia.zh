@@ -22,7 +22,7 @@
 ## 外部連結
 
   - [何韻詩 (Denise)
-    【Awakening】專輯介紹](http://hk.kkbox.com/album/fEaW0kGuju2AhQ0F190p0091-index.html#album-description)
+    【Awakening】專輯介紹](https://web.archive.org/web/20111214005947/http://hk.kkbox.com/album/fEaW0kGuju2AhQ0F190p0091-index.html#album-description)
 
 ## 參考文獻
 

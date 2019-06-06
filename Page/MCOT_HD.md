@@ -35,4 +35,4 @@ HD的各节新闻由[泰国通讯社提供](https://zh.wikipedia.org/wiki/:th:�
 [Category:泰國電視台](https://zh.wikipedia.org/wiki/Category:泰國電視台 "wikilink")
 
 1.  [CCTV](http://news.cctv.com/news_2007/20090430/107844.shtml)
-2.  [คิดถึง ช่อง4 บางขุนพรม](http://www.vcharkarn.com/vcafe/42390)
+2.

@@ -191,7 +191,8 @@ Cube娛樂，常用外號為**United Cube**。
     Woo，作曲家，2011 - 2018，現為[Tenten Producing
     Team成員](https://zh.wikipedia.org/wiki/Tenten_Producing_Team "wikilink")。\[89\]
   - [徐龍裴](https://zh.wikipedia.org/wiki/徐龍裴 "wikilink")，Seo Yong
-    Bae，서용배，Tenten Producing Team成員。
+    Bae，서용배，[Tenten](https://zh.wikipedia.org/wiki/Tenten "wikilink")
+    Producing Team成員。
   - [BreadBeat](https://zh.wikipedia.org/wiki/BreadBeat "wikilink")
     ，[Tenten](https://zh.wikipedia.org/wiki/Tenten "wikilink")
     Producing Team成員。
@@ -199,19 +200,25 @@ Cube娛樂，常用外號為**United Cube**。
     Tae Ho，作曲家，2014 - 2018，現為[Yummy Tone Producing
     Team成員](https://zh.wikipedia.org/wiki/Yummy_Tone_Producing_Team "wikilink")。\[90\]\[91\]
     \[92\]
-  - [朴海日](../Page/朴海日.md "wikilink")，박해일，Park Hae Il，作曲家，現為Yummy Tone
-    Producing Team成員。\[93\]
+  - [朴海日](../Page/朴海日.md "wikilink")，박해일，Park Hae Il，作曲家，現為[Yummy
+    ToneProducing](https://zh.wikipedia.org/wiki/Yummy_Tone "wikilink")
+    Team成員。\[93\]
   - [Fredy](https://zh.wikipedia.org/wiki/Fredy "wikilink")，Choi Min
     Soo，作曲家，現為[MosPick Music Producing
     Group모스픽](https://zh.wikipedia.org/wiki/MosPick_Music_Producing_Group "wikilink")
     成員。\[94\]\[95\]
   - [Zerozine](https://zh.wikipedia.org/wiki/Zerozine "wikilink")，[孫英鎮](https://zh.wikipedia.org/wiki/孫英鎮 "wikilink")，손영진，Son
-    Young Jin，作曲家，2012 - 2018，現為MosPick Music Producing Group 成員。\[96\]
+    Young Jin，作曲家，2012 -
+    2018，現為[MosPickMusic](https://zh.wikipedia.org/wiki/MosPick "wikilink")
+    Producing Group 成員。\[96\]
   - [Yeahnice](https://zh.wikipedia.org/wiki/Yeahnice "wikilink")，예아나이스，
     [趙成昊](https://zh.wikipedia.org/wiki/趙成昊 "wikilink")， 조성호，Jo Sung
-    Ho，作曲家，現為MosPick Music Producing Group 成員。\[97\]
+    Ho，作曲家，現為[MosPick](https://zh.wikipedia.org/wiki/MosPick "wikilink")
+    Music Producing Group 成員。\[97\]
   - [Jayjay](https://zh.wikipedia.org/wiki/Jayjay "wikilink")，[姜東河](https://zh.wikipedia.org/wiki/姜東河 "wikilink")，강동하，Kang
-    Dong Ha，作曲家，現為MosPick Music Producing Group 成員。\[98\]
+    Dong
+    Ha，作曲家，現為[MosPick](https://zh.wikipedia.org/wiki/MosPick "wikilink")
+    Music Producing Group 成員。\[98\]
 
 ## 所屬藝人
 
@@ -350,7 +357,7 @@ Cube娛樂，常用外號為**United Cube**。
     LEGEND](../Page/THE_LEGEND.md "wikilink")）
   - [李昌宣](../Page/THE_LEGEND.md "wikilink")（[THE
     LEGEND](../Page/THE_LEGEND.md "wikilink")）
-  - [金昇勳](../Page/金昇勳.md "wikilink")（《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》、[C9BOYZ](../Page/C9BOYZ.md "wikilink")）
+  - [金昇勳](../Page/金昇勳.md "wikilink")（《[YG寶石盒](../Page/YG寶石盒.md "wikilink")》、[CIX](https://zh.wikipedia.org/wiki/CIX "wikilink")）
   - [崔連準](../Page/崔延俊.md "wikilink")（[TXT](../Page/TXT_\(組合\).md "wikilink")）
   - [李希侃](../Page/李希侃.md "wikilink")（公開練習生、《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[126\]
   - \-{余}-明君（《[偶像練習生](https://zh.wikipedia.org/wiki/偶像練習生 "wikilink")》）\[127\]\[128\]

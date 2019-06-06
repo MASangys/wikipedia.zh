@@ -569,7 +569,8 @@ Android 5.1<br />
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/Android_9" title="wikilink">Android 9</a></p></td>
-<td><p>2018年3月7日，Google發布Android P的開發者預覽版本，並開放下載。 2018年5月8日，Google I/O大會公布許多Android P功能。 2018年8月6日，Google正式發布Android 9 Pie的正式版本。 (以下為新增功能)<a href="https://zh.wikipedia.org/wiki/File:Android_P.JPG" title="fig:Android_P.JPG">Android_P.JPG</a></p>
+<td><p>2018年3月7日，Google發布Android P的開發者預覽版本，並開放下載。 2018年5月8日，Google I/O大會公布許多Android P功能。 2018年8月6日，Google正式發布Android 9 Pie的正式版本。 (以下為新增功能)<a href="https://zh.wikipedia.org/wiki/File:Android_P.JPG" title="fig:Android_P.JPG">Android_P.JPG</a><br />
+<a href="https://zh.wikipedia.org/wiki/File:Android_Pie.png" title="fig:Android_Pie.png">Android_Pie.png</a></p>
 <ul>
 <li>为快速设置菜单设计的新用户界面[72]</li>
 <li>时钟移动到通知栏的左侧[73]</li>

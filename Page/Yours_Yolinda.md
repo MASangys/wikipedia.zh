@@ -1,5 +1,5 @@
 《**Yours
-Yolinda**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[甄楚倩的第九張大碟](../Page/甄楚倩.md "wikilink")，第七張粵語專輯，在1992年2月推出，這專輯以《戀愛傷身》為主打，受到[叱咤903的支持而熱播](https://zh.wikipedia.org/wiki/叱咤903 "wikilink")，成為無線電視勁歌推介，更加登上新城勁爆榜冠軍。《笑一笑》在近年被網友remix加上[楊千嬅獨白後網上爆紅](../Page/楊千嬅.md "wikilink")，也成為電台DJ鼓勵失落者的熱播歌曲之一。
+Yolinda**》是[香港](../Page/香港.md "wikilink")[歌手](../Page/歌手.md "wikilink")[甄楚倩的第九張大碟](../Page/甄楚倩.md "wikilink")，第七張粵語專輯，在1992年2月推出，這專輯以《戀愛傷身》為主打，受到[叱咤903的支持而熱播](../Page/叱咤903.md "wikilink")，成為無線電視勁歌推介，更加登上新城勁爆榜冠軍。《笑一笑》在近年被網友remix加上[楊千嬅獨白後網上爆紅](../Page/楊千嬅.md "wikilink")，也成為電台DJ鼓勵失落者的熱播歌曲之一。
 
 ## 曲目
 

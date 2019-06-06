@@ -1,5 +1,4 @@
-**Manga Time
-Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫畫雜誌](../Page/四格漫畫.md "wikilink")，是第一本專門連載「萌四格漫畫」（）的雜誌，於2002年5月創刊。每月9日發售，B5尺寸。[廣告標語是](../Page/廣告標語.md "wikilink")「Dokidoki☆Visual四格漫画杂志（）」，簡稱「D☆V」。
+是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫畫雜誌](../Page/四格漫畫.md "wikilink")，是第一本專門連載「萌四格漫畫」（）的雜誌，於2002年5月創刊。每月9日發售，B5尺寸。[廣告標語是](../Page/廣告標語.md "wikilink")「Dokidoki☆Visual四格漫画杂志（）」，簡稱「D☆V」。
 
 ## 歷史
 
@@ -22,8 +21,9 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
   - 2007年12月8日 - **2008年1月号**发售。总期号为**No. 50**。
   - 2008年11月8日 - **2008年12月号**发售，独立创刊5周年。随刊附赠纪念册《Petit☆Kira〜Happy 5th
     Birthday for KIRARA〜》 \[1\]。
-  - 2009年8月8日 -
-    **2009年9月号**发售。随刊附赠《[K-ON！輕音部同人漫畫選集](../Page/K-ON！輕音部.md "wikilink")
+  - 2009年8月8日 - **2009年9月号**发售。随刊附赠《[-{zh-cn:轻音少女; zh-tw:K-ON！輕音部;
+    zh-hk:K-ON！輕音少女;
+    zh-sg:K-ON\!}-同人漫畫選集](../Page/K-ON！輕音部.md "wikilink")
     大家的歌☆声》 \[2\]。
   - 2010年4月9日 - **2010年5月号**发售。随刊附赠“K-ON！輕音部 透明文件夹”\[3\]。
   - 2010年8月9日 - **2010年9月号**发售。三期連續附赠之一「K-ON\! 追逐 」 \[4\]\[5\]。
@@ -53,16 +53,16 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 ### 姐妹杂志
 
   - 《[Manga Time Kirara
-    MAX](../Page/Manga_Time_Kirara_MAX.md "wikilink")》 - Vol. 1由《Manga
+    MAX](../Page/Manga_Time_Kirara_MAX.md "wikilink")》：Vol. 1由《Manga
     Time Kirara》作为增刊发行，之后独立创刊。
   - 《[Manga Time Kirara
-    Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》 - Vol. 4-Vol.
+    Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")》：Vol. 4-Vol.
     15由《Manga Time Kirara》作为增刊发行，之后独立创刊。
   - 《[Manga Time Kirara
-    Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》 - Vol.
+    Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")》：Vol.
     1-Vol.10由《Manga Time Kirara》作为增刊发行，之后独立创刊。
   - 《[Manga Time Kirara
-    Miracle\!](../Page/Manga_Time_Kirara_Miracle!.md "wikilink")》 - Vol.
+    Miracle\!](../Page/Manga_Time_Kirara_Miracle!.md "wikilink")》：Vol.
     1-Vol. 5由《Manga Time Kirara》作为增刊发行，之后独立创刊。
 
 ### 网络连载
@@ -183,14 +183,6 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>曾长期休载</p></td>
 </tr>
 <tr class="even">
-<td><p>我想待在你身边撒娇的日子</p></td>
-<td></td>
-<td><p><a href="../Page/川井真琴.md" title="wikilink">川井真琴</a></p></td>
-<td></td>
-<td><p>2017年4月号</p></td>
-<td><p>2019年5月号完结</p></td>
-</tr>
-<tr class="odd">
 <td><p>美夜子老师</p></td>
 <td></td>
 <td><p>阿部</p></td>
@@ -198,7 +190,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2017年8月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/城下町的蒲公英.md" title="wikilink">城下町的蒲公英</a></p></td>
 <td></td>
 <td><p><a href="../Page/春日步.md" title="wikilink">春日步</a></p></td>
@@ -206,15 +198,16 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2018年1月号</p></td>
 <td><p>迁移自姐妹杂志</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>鸿巢觉</p></td>
-<td></td>
+<td><p>迁移自姐妹杂志<br />
+2019年7月号完结</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>若鸡</p></td>
@@ -222,15 +215,16 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/乌菈菈迷路帖" title="wikilink">乌菈菈迷路帖</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td><p>2018年2月号</p></td>
-<td><p>迁移自姐妹杂志</p></td>
+<td><p>迁移自姐妹杂志<br />
+2019年7月号完结</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -238,7 +232,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>娇妻新上任</p></td>
 <td></td>
 <td></td>
@@ -246,15 +240,15 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2018年3月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><a href="../Page/K-ON！輕音部.md" title="wikilink">K-ON！輕音部 Shuffle</a></p></td>
+<tr class="odd">
+<td><p><a href="../Page/K-ON！輕音部.md" title="wikilink">-{zh-cn:轻音少女; zh-tw:K-ON！輕音部; zh-hk:K-ON！輕音少女; zh-sg:K-ON!}- Shuffle</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/kakifly" title="wikilink">kakifly</a></p></td>
 <td></td>
 <td><p>2018年8月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>柴崎</p></td>
@@ -262,7 +256,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2018年9月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -270,7 +264,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2018年9月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>MIGCHIP</p></td>
@@ -278,7 +272,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2018年11月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -286,7 +280,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2018年12月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -294,7 +288,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2019年1月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>春日沙生</p></td>
@@ -302,7 +296,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2019年2月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>幻想文艺复兴</p></td>
 <td></td>
 <td><p>海老川</p></td>
@@ -310,13 +304,13 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2019年2月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>猫月</p></td>
 <td><p>2019年2月号-4月号</p></td>
 <td><p>2019年6月号</p></td>
-<td></td>
+<td><p>&lt;!--|-</p></td>
 </tr>
 </tbody>
 </table>
@@ -404,9 +398,6 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
   - [てんしの末裔](https://zh.wikipedia.org/wiki/てんしの末裔 "wikilink")
     （[藤島じゅん](https://zh.wikipedia.org/wiki/藤島じゅん "wikilink")、2002年10月号
     - 2006年1月号）
-  - [1年777組](../Page/1年777組.md "wikilink")
-    （[愁☆一樹](https://zh.wikipedia.org/wiki/愁☆一樹 "wikilink")、2002年10月号
-    - 2008年6月号）
   - [ちょこパフェ](https://zh.wikipedia.org/wiki/ちょこパフェ "wikilink")
     （[いずみ](https://zh.wikipedia.org/wiki/かずといずみ "wikilink")、2002年12月号
     - 2005年4月号。『まんがタイム』と並行連載）
@@ -416,36 +407,9 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
   - [悪魔様へるぷ☆](https://zh.wikipedia.org/wiki/悪魔様へるぷ☆ "wikilink")
     （[岬下部せすな](https://zh.wikipedia.org/wiki/岬下部せすな "wikilink")、2003年7月号
     - 2006年5月号）
-  - [きつねさんに化かされたい\!](https://zh.wikipedia.org/wiki/きつねさんに化かされたい! "wikilink")
-    （[桑原ひひひ](https://zh.wikipedia.org/wiki/桑原ひひひ "wikilink")、2003年10月号 -
-    2009年6月号）
-  - [あねちっくセンセーション](https://zh.wikipedia.org/wiki/あねちっくセンセーション "wikilink")
-    （[吉谷やしよ](https://zh.wikipedia.org/wiki/吉谷やしよ "wikilink")、2005年2月号 -
-    2008年6月号）
   - [となりのカワンチャさん](https://zh.wikipedia.org/wiki/となりのカワンチャさん "wikilink")
     （[月見里中](https://zh.wikipedia.org/wiki/月見里中 "wikilink")、2005年6月号 -
     2007年7月号）
-  - [猫耳のミコ譚](https://zh.wikipedia.org/wiki/猫耳のミコ譚 "wikilink")
-    （[音木らく](https://zh.wikipedia.org/wiki/音木らく "wikilink")、2006年1月号
-    - 2007年12月号）
-  - [天獄パラダイス](https://zh.wikipedia.org/wiki/天獄パラダイス "wikilink")
-    （[凪庵](https://zh.wikipedia.org/wiki/凪庵 "wikilink")、2006年1月号 -
-    2008年3月号）
-  - [五日性滅亡シンドローム](https://zh.wikipedia.org/wiki/五日性滅亡シンドローム "wikilink")
-    （[ヤス](https://zh.wikipedia.org/wiki/ヤス_\(イラストレーター\) "wikilink")、2006年3月号
-    - 2008年7月号）
-  - [ふーすてっぷ](https://zh.wikipedia.org/wiki/ふーすてっぷ "wikilink")
-    （[岬下部せすな](https://zh.wikipedia.org/wiki/岬下部せすな "wikilink")、2006年8月号
-    - 2008年4月号）
-  - [- そら -](https://zh.wikipedia.org/wiki/-_そら_- "wikilink")
-    （[白雪しおん](https://zh.wikipedia.org/wiki/白雪しおん "wikilink")、2007年4月号
-    - 2009年5月号）
-  - [からめるマフィン](https://zh.wikipedia.org/wiki/からめるマフィン "wikilink")
-    （[便弁また郎](https://zh.wikipedia.org/wiki/便弁また郎 "wikilink")、2007年6月号
-    - 2008年2月号・2008年9月号 - 2009年11月号）
-  - [さくらりちぇっと](https://zh.wikipedia.org/wiki/さくらりちぇっと "wikilink")
-    （[月見里中](https://zh.wikipedia.org/wiki/月見里中 "wikilink")、2007年6月号
-    - 2009年10月号）
 
 <div class="notice metadata"  id="spoiler">
 
@@ -468,7 +432,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <th><p>中文标题</p></th>
 <th><p>日文标题</p></th>
 <th><p>作者</p></th>
-<th><p>客串</p></th>
+<th><p>连载前客串</p></th>
 <th><p>连载开始</p></th>
 <th><p>连载结束</p></th>
 <th><p>备注</p></th>
@@ -498,12 +462,21 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>rowspan=2 </p></td>
 <td><p>Vol. 3</p></td>
 <td><p>2011年6月号</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/1年777組.md" title="wikilink">1年777組</a></p></td>
+<td></td>
+<td></td>
+<td><p>2008年6月号</p></td>
+<td><p>曾同时连载于姐妹杂志</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/三者三葉.md" title="wikilink">三者三葉</a></p></td>
 <td></td>
 <td><p><a href="../Page/荒井切利.md" title="wikilink">荒井切利</a></p></td>
@@ -512,13 +485,22 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2019年1月号</p></td>
 <td><p>曾同时连载于姐妹杂志</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/姊妹的方程式.md" title="wikilink">-{zh-cn:姐;zh-hk:姐;zh-tw:姊;zh-sg:姐}-妹的方程式</a></p></td>
 <td></td>
 <td></td>
 <td><p>Vol.10</p></td>
 <td><p>Vol. 12</p></td>
 <td><p>2007年12月号</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>桑原笑笑笑</p></td>
+<td></td>
+<td><p>Vol. 15</p></td>
+<td><p>2009年6月号</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -569,9 +551,18 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2005年1月号</p></td>
 <td><p>2018年6月号</p></td>
 <td><p>曾长期休载<br />
-外传特别刊载于2018年9月号和11月号</p></td>
+外传特别刊载于2018年9月号和11月号以及《<a href="../Page/Manga_Time_Kirara_Forward.md" title="wikilink">Manga Time Kirara Forward</a>》2019年1月号和2月号》</p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>2005年2月号</p></td>
+<td><p>2008年6月号</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>真未</p></td>
@@ -580,7 +571,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2012年9月号</p></td>
 <td><p>曾长期休载</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -589,16 +580,52 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2007年9月号</p></td>
 <td><p>单行本由<a href="../Page/一迅社.md" title="wikilink">一迅社出版</a></p></td>
 </tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>音木</p></td>
+<td><p>rowspan=3 </p></td>
+<td><p>2006年1月号</p></td>
+<td><p>2007年12月号</p></td>
+<td><p>未出版单行本</p></td>
+</tr>
 <tr class="odd">
 <td></td>
 <td></td>
+<td><p>凪庵</p></td>
+<td><p>2008年3月号</p></td>
 <td></td>
 <td></td>
-<td><p>2006年3月号</p></td>
-<td><p>2010年8月号</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2007年1月号</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>世界末日-{zh-tw:症候群;zh-cn:综合征;zh-hk:綜合症}-</p></td>
+<td></td>
+<td></td>
+<td><p>rowspan=2 </p></td>
+<td><p>2006年3月号</p></td>
+<td><p>2008年7月号</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2010年8月号</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/造梦同人志" title="wikilink">造梦同人志</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/自称清纯派" title="wikilink">Hiroyuyi</a></p></td>
@@ -608,7 +635,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>包括本篇与番外篇<br />
 曾同时连载于姐妹杂志</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p><a href="../Page/里好.md" title="wikilink">里好</a></p></td>
@@ -617,6 +644,15 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <a href="../Page/Manga_Time_Kirara_Carat.md" title="wikilink">Carat</a> 2006年4月号、5月号</p></td>
 <td><p>2006年5月号</p></td>
 <td><p>2011年2月号</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td><p>2006年9月号</p></td>
+<td><p>2008年4月号</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -661,6 +697,15 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/白雪诗音" title="wikilink">白雪诗音</a></p></td>
+<td></td>
+<td><p>2007年4月号</p></td>
+<td><p>2009年5月号</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/K-ON!" title="wikilink">K-ON!</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/kakifly" title="wikilink">kakifly</a></p></td>
@@ -668,6 +713,15 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2007年5月号</p></td>
 <td><p>2010年10月号</p></td>
 <td><p>曾同时连载于姐妹杂志</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td><p>便弁郎</p></td>
+<td></td>
+<td><p>2007年6月号</p></td>
+<td><p>2009年11月号</p></td>
+<td><p>曾长期休载</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -677,6 +731,24 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2007年7月号</p></td>
 <td><p>2009年12月号</p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>2007年9月号</p></td>
+<td><p>2009年10月号</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td><p>七松建司</p></td>
+<td></td>
+<td><p>2008年2月号</p></td>
+<td><p>2008年7月号</p></td>
+<td><p>未出版单行本</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/花嫁三次方.md" title="wikilink">花嫁三次方</a></p></td>
@@ -727,12 +799,22 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 <td><p>ms/hirahira.net</p></td>
-<td></td>
+<td><p>rowspan=2 </p></td>
 <td><p>2009年2月号</p></td>
 <td><p>2010年1月号</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/加奈日记" title="wikilink">加奈日记</a></p></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/石见翔子" title="wikilink">石见翔子</a></p></td>
+<td><p>2009年10月号</p></td>
+<td><p>主要连载于姐妹杂志<br />
+短期集中连载</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>源五郎</p></td>
@@ -741,7 +823,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2011年10月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -750,7 +832,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -759,7 +841,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2014年5月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>娘太丸</p></td>
@@ -768,7 +850,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2012年4月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>ms</p></td>
@@ -777,7 +859,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2012年10月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/樱桃花开了.md" title="wikilink">樱桃花开了</a></p></td>
 <td></td>
 <td></td>
@@ -786,7 +868,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2016年7月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>|BeLL</p></td>
 <td></td>
@@ -795,7 +877,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>片吹直理</p></td>
@@ -804,7 +886,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2012年2月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -813,7 +895,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2014年5月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -822,7 +904,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -831,7 +913,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2014年1月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -840,8 +922,8 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/K-ON!" title="wikilink">K-ON! college</a></p></td>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/K-ON!" title="wikilink">-{zh-cn:轻音少女; zh-tw:K-ON！輕音部; zh-hk:K-ON！輕音少女; zh-sg:K-ON!}- college</a></p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/kakifly" title="wikilink">kakifly</a></p></td>
 <td></td>
@@ -849,7 +931,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2012年7月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -858,7 +940,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2017年7月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>伍長</p></td>
@@ -867,7 +949,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -876,7 +958,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2014年3月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -885,7 +967,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2014年4月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -894,7 +976,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>JOB&amp;JOY</p></td>
 <td><p>井上</p></td>
@@ -903,7 +985,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2014年3月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -912,7 +994,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2014年10月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -921,7 +1003,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2013年6月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -930,7 +1012,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2014年9月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>女大学生生活样式</p></td>
 <td></td>
 <td></td>
@@ -939,7 +1021,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2014年8月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -948,7 +1030,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -957,7 +1039,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p><a href="../Page/牛乳乃澪.md" title="wikilink">牛乳乃澪</a></p></td>
@@ -966,7 +1048,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -975,7 +1057,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td><p>ms</p></td>
@@ -984,7 +1066,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -993,7 +1075,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2015年7月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1002,7 +1084,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2016年2月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1011,7 +1093,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1020,7 +1102,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2014年12月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1029,7 +1111,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1038,7 +1120,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2015年9月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1047,7 +1129,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2016年6月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>大正浪漫咖啡谭<br />
 少女们的乐园S</p></td>
 <td></td>
@@ -1057,7 +1139,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>文月</p></td>
@@ -1066,7 +1148,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1075,7 +1157,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2016年12月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td><p>花咲</p></td>
@@ -1084,7 +1166,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2016年11月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1093,7 +1175,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>未出版单行本</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1102,7 +1184,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>微微悸动的心该怎么办才好</p></td>
 <td></td>
 <td><p>悠理</p></td>
@@ -1111,7 +1193,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>邻家</p></td>
 <td></td>
 <td></td>
@@ -1120,7 +1202,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2016年8月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Shiny☆Studȳ ～绝对合格宣言～</p></td>
 <td></td>
 <td></td>
@@ -1129,7 +1211,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>我的S系女王責編</p></td>
 <td></td>
 <td></td>
@@ -1138,7 +1220,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2017年9月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1147,7 +1229,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2017年4月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1156,7 +1238,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2017年3月号</p></td>
 <td><p>未出版单行本</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>爱哭鬼策略</p></td>
 <td></td>
 <td><p>西巳</p></td>
@@ -1165,7 +1247,7 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2017年11月号</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1174,13 +1256,22 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 <td><p>2018年8月号</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>魅魔少女</p></td>
 <td></td>
 <td></td>
 <td><p>2016年10月号-12月号</p></td>
 <td><p>2017年1月号</p></td>
 <td><p>2018年11月号</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>我想待在你身边撒娇的日子</p></td>
+<td></td>
+<td><p><a href="../Page/川井真琴.md" title="wikilink">川井真琴</a></p></td>
+<td></td>
+<td><p>2017年4月号</p></td>
+<td><p>2019年5月号</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1231,32 +1322,25 @@ Kirara**（）是[芳文社發行的](../Page/芳文社.md "wikilink")[四格漫
 </tbody>
 </table>
 
-## 相關項目
+## 註解
 
-  - [日本漫畫雜誌](../Page/日本漫畫雜誌.md "wikilink")
-  - [Manga Time Kirara MAX](../Page/Manga_Time_Kirara_MAX.md "wikilink")
+## 參考文獻
+
+## 參見
+
   - [Manga Time Kirara
     Carat](../Page/Manga_Time_Kirara_Carat.md "wikilink")
-  - [Manga Time Kirara
-    Miracle\!](../Page/Manga_Time_Kirara_Miracle!.md "wikilink")
+  - [Manga Time Kirara MAX](../Page/Manga_Time_Kirara_MAX.md "wikilink")
   - [Manga Time Kirara
     Forward](../Page/Manga_Time_Kirara_Forward.md "wikilink")
-  - [闪耀幻想曲](../Page/闪耀幻想曲.md "wikilink")
+  - [Manga Time Kirara
+    Miracle\!](../Page/Manga_Time_Kirara_Miracle!.md "wikilink")
 
 ## 外部連結
 
-  - [Manga Time Kirara Web](http://www.dokidokivisual.com/index.php)
-  - [NicoNico静图 |
-    Kirara基地](http://seiga.nicovideo.jp/manga/official/kirara)
+  - [Manga Time Kirara](http://www.dokidokivisual.com/magazine/kirara/)
 
-## 备注
-
-<div style="{{column-count|3}}">
-
-</div>
-
-## 参考来源
-
+  -
 [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
 [Category:月刊漫畫雜誌](https://zh.wikipedia.org/wiki/Category:月刊漫畫雜誌 "wikilink")
 [Category:Manga_Time](https://zh.wikipedia.org/wiki/Category:Manga_Time "wikilink")

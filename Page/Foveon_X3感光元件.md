@@ -66,7 +66,7 @@ I的](https://zh.wikipedia.org/wiki/佳能EOS_5D "wikilink")4,368 ×
 2,912大小的Bayer感光元件的感光層數量差不多，這兩台相機有相同的畫數以及相同的檔案大小，不過Canon
 5D可以透過混色來得到較大的照片。
 
-不過實際情況更為複雜，由於去馬賽克的過程中很容易產生摩爾紋，大部分的像機靠加裝低通濾鏡（或作模糊濾鏡）來避免產生過於嚴重的摩爾紋，低通濾鏡的主要的原理就是將感光元件所偵測到的訊號模糊化把摩爾紋降低到可接受的程度，所以會極大的影響輸出畫質。例如[Nikon在](https://zh.wikipedia.org/wiki/Nikon "wikilink")2012年2月推出的Nikon
+不過實際情況更為複雜，由於去馬賽克的過程中很容易產生摩爾紋，大部分的相機靠加裝低通濾鏡（或作模糊濾鏡）來避免產生過於嚴重的摩爾紋，低通濾鏡的主要的原理就是將感光元件所偵測到的訊號模糊化把摩爾紋降低到可接受的程度，所以會極大的影響輸出畫質。例如[Nikon在](https://zh.wikipedia.org/wiki/Nikon "wikilink")2012年2月推出的Nikon
 D800-E版，透過取消低通濾鏡但犧牲摩爾紋產生機率的方式來得到非常高的畫質\[25\]。而採用Foveon
 X3感光元件完全不需要使用這種濾鏡，
 在有些最早期的產品例如SD9會產生輕微的亮度摩爾紋（非色彩摩爾紋）\[26\]
@@ -174,9 +174,8 @@ X3感光元件並不需要去馬賽克的處理過程，理論上應該比傳統
     and DCS Pro SLR/c (*Digital Photography Review* [Kodak DCS Pro SLR/c
     Review](http://www.dpreview.com/reviews/kodakslrc/page2.asp), June
     2004, Retrieved March 3, 2007) using Bayer sensors without such a
-    filter. However, [significant [moiré
-    patterns](https://zh.wikipedia.org/wiki/moiré_pattern "wikilink")
-    were produced when photographing very fine
+    filter. However, [significant moiré patterns were produced when
+    photographing very fine
     detail](http://www.dpreview.com/reviews/kodakdcs14n/page22.asp).
     Retrieved March 3, 2007.
 20. See, *Optical anti-aliasing filter* section of [anti-aliasing

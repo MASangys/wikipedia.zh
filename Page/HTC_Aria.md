@@ -36,7 +36,7 @@ AT\&T 发布的第二款Android手机, 并且它的用户好评度比前者好�
   - <https://web.archive.org/web/20111107082546/http://www.htcphones.net/htc-aria-review-att-the-world-in-your-pocket/>
   - <http://www.intomobile.com/2010/07/15/side-loading-android-apps-on-att-htc-aria-is-a-no-go-again/>
   - <https://web.archive.org/web/20110727181252/http://nexus404.com/Blog/2010/07/15/htc-removes-sync-app-for-htc-aria-htc-takes-down-backup-pc-app-that-allowed-users-to-sneak-around-atts-application-restrictions/>
-  - <http://www.htcariaforum.com/htc-aria-discussion/my-aria-echoes-when-i-talk-over-the-phone>\!\!/
+  - <https://web.archive.org/web/20110712230205/http://www.htcariaforum.com/htc-aria-discussion/my-aria-echoes-when-i-talk-over-the-phone>\!\!/
   - <http://www.engadget.com/2010/07/11/confirmed-htc-sync-lets-atandt-aria-sideload-apps/>
 
 [Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")

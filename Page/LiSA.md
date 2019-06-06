@@ -1,8 +1,8 @@
 **LiSA**（，）是[日本的女](../Page/日本.md "wikilink")[歌手](../Page/歌手.md "wikilink")，[岐阜縣出身](https://zh.wikipedia.org/wiki/岐阜縣 "wikilink")，曾為搖滾樂團「Love
 is Same
-All」的主唱。個人的獨特魅力和搖滾曲風令她倍受矚目。演唱歌曲也被用作許多知名[動畫的主題曲](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，如《[刀劍神域I](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")/II/OVA/III》、《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》《[Angel
-Beats](https://zh.wikipedia.org/wiki/Angel_Beats "wikilink")》以及《[魔法科高中的劣等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")》。現時LiSA唱片公司為[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂.md "wikilink")[SACRA
-MUSIC公司](../Page/SACRA_MUSIC.md "wikilink")。
+All」的主唱。個人的獨特魅力和搖滾曲風令她倍受矚目。演唱歌曲也被用作許多知名[動畫的片頭曲和片尾曲](https://zh.wikipedia.org/wiki/日本動畫 "wikilink")，如《[刀劍神域I](https://zh.wikipedia.org/wiki/刀劍神域 "wikilink")/II/OVA/III》、《[Fate/Zero](https://zh.wikipedia.org/wiki/Fate/Zero "wikilink")》、《[Angel
+Beats](https://zh.wikipedia.org/wiki/Angel_Beats "wikilink")》、《[我的英雄學院](../Page/我的英雄學院.md "wikilink")》、《[魔法科高中的劣等生](https://zh.wikipedia.org/wiki/魔法科高中的劣等生 "wikilink")》以及《[鬼滅之刃](../Page/鬼滅之刃.md "wikilink")》。現時LiSA唱片公司為[日本索尼音樂娛樂旗下的](../Page/日本索尼音樂娛樂.md "wikilink")[SACRA
+MUSIC公司](../Page/SACRA_MUSIC.md "wikilink")。被不少粉絲稱為「搖滾精靈」、「刀劍御用歌姬」、「搖滾女神」等。
 
 ## 事業
 
@@ -209,6 +209,7 @@ MAX和[台中迴響音樂藝文展演空間舉辦](https://zh.wikipedia.org/wiki
 | 13th     | 2017年11月29日 | ****                                                                                                    | VVCL-1133/4  | VVCL-1130/1    | VVCL-1132  |
 | \*       | 2018年1月9日   | ****                                                                                                    | 網路配信無實體光碟    |                |            |
 | 14th     | 2018年12月12日 | **[紅色陷阱(who loves it?)/ADAMAS](https://zh.wikipedia.org/wiki/紅色陷阱\(who_loves_it?\)/ADAMAS "wikilink")** | VVCL-1373/4  | VVCL-1370/1    | VVCL-1372  |
+| 15th     | 2019年7月3日   | ****                                                                                                    | VVCL-1461/2  | VVCL-1458/9    | VVCL-1460  |
 
 ### 專輯
 

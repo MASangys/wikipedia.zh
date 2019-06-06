@@ -26,7 +26,7 @@ Live中以轉盤選出隊內擔當，鎰勳當選Ace擔當、Peniel連任主舞�
 ### Fan Club
 
   - 官方歌迷名稱：「**Melody**（旋律）」（），意為悅耳的聲音、美妙的旋律，與Born To
-    Beat的Beat（節奏）結合成為Music（音樂），也表示成員們在音樂中與歌迷成為一體。\[6\]
+    Beat的Beat（節奏）結合成為Music（音樂），也表示成員們在音樂中與歌迷成為一體。為成員鄭鎰勳起名。\[6\]
   - [應援色](../Page/應援色.md "wikilink")：SLOW BLUE
   - 應援物：喇叭造型手燈（）
 
@@ -344,6 +344,10 @@ WITH MELODY」的特別展覽。\[152\]
 音源公開即空降Bugs 9位、Naver 13位、Melon 24位、Genie 30位、Soribada 51位、Mnet
 91位。
 
+2019年5月4日，成員鎰勳的親姊姊歌手[JOO舉行婚禮](../Page/JOO.md "wikilink")，BTOB為其擔任伴郎並演唱祝歌。\[155\]
+
+2019年5月13日，Peniel發行首張個人數位單曲《B.O.D》，由Peniel的姊夫作曲家KAIROS製作、Peniel參與填詞。\[156\]\[157\]
+
 ## 音樂作品
 
 ### 韓語作品
@@ -491,9 +495,9 @@ RADIO](../Page/IDOL_RADIO.md "wikilink")》的試播DJ，是首位主持廣播�
 Generation獎」。 2016年1月14日，於第30屆韓國金唱片獎獲得「唱片部門最佳歌唱獎（Best Vocal
 Group）」。2016年1月21日，於第25屆[首爾歌謠大賞獲得](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")「最佳抒情歌曲獎（R\&B／Balled）」。
 2017年11月3日，於《[韓國大眾文化藝術獎](../Page/韓國大眾文化藝術獎.md "wikilink")》獲得「文化體育觀光部長官表彰」殊榮
-\[155\]。 2018年1月10日，於第32屆韓國金唱片獎獲得「音源部門最佳男子團體獎（Best Male Group）」。
+\[158\]。 2018年1月10日，於第32屆韓國金唱片獎獲得「音源部門最佳男子團體獎（Best Male Group）」。
 2018年1月25日，於第27屆首爾歌謠大賞獲得「本賞」。
-2018年12月1日，於[甜瓜音樂獎首次獲得](../Page/甜瓜音樂獎.md "wikilink")「TOP10」。\[156\]
+2018年12月1日，於[甜瓜音樂獎首次獲得](../Page/甜瓜音樂獎.md "wikilink")「TOP10」。\[159\]
 2018年12月10日，於第1屆[韓國大眾音樂獎獲得](../Page/韓國大眾音樂獎.md "wikilink")「本賞」及「Ballad獎」。
 
 ### 主要音樂節目榜單排名
@@ -926,7 +930,10 @@ Group）」。2016年1月21日，於第25屆[首爾歌謠大賞獲得](https://z
 152.
 153.
 154.
-155. [EXO、BTOB、朴寶劍等出席《大眾文化藝術賞》，得獎名單公開](https://www.kpopn.com/2017/11/04/exo%e3%80%81btob%e3%80%81%e6%9c%b4%e5%af%b6%e5%8a%8d%e7%ad%89%e5%87%ba%e5%b8%ad%e3%80%8a%e5%a4%a7%e7%9c%be%e6%96%87%e5%8c%96%e8%97%9d%e8%a1%93%e8%b3%9e%e3%80%8b%ef%bc%8c%e5%be%97%e7%8d%8e%e5%90%8d%e5%96%ae%e5%85%ac%e9%96%8b/)
+155.
+156.
+157.
+158. [EXO、BTOB、朴寶劍等出席《大眾文化藝術賞》，得獎名單公開](https://www.kpopn.com/2017/11/04/exo%e3%80%81btob%e3%80%81%e6%9c%b4%e5%af%b6%e5%8a%8d%e7%ad%89%e5%87%ba%e5%b8%ad%e3%80%8a%e5%a4%a7%e7%9c%be%e6%96%87%e5%8c%96%e8%97%9d%e8%a1%93%e8%b3%9e%e3%80%8b%ef%bc%8c%e5%be%97%e7%8d%8e%e5%90%8d%e5%96%ae%e5%85%ac%e9%96%8b/)
       2017-11-07 KPOPN
-156. [MMA／BTOB「把恩光寫在臉上」走紅毯　C位留給隊長逼哭粉](https://star.ettoday.net/news/1320700)
+159. [MMA／BTOB「把恩光寫在臉上」走紅毯　C位留給隊長逼哭粉](https://star.ettoday.net/news/1320700)
      2018-12-02 ETtoday

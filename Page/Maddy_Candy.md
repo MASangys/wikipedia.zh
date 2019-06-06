@@ -31,7 +31,7 @@ CANYON發行](https://zh.wikipedia.org/wiki/PONY_CANYON "wikilink")。
 
 ## 外部連結
 
-  - [ポニーキャニオン](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200900001332&DSP_SKHKETSEQ=001)
+  - [ポニーキャニオン](https://web.archive.org/web/20090624202028/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200900001332&DSP_SKHKETSEQ=001)
   - [TBS動畫官方網站內的CD情報](http://www.tbs.co.jp/anime/k-on/goods/cd.html)
 
 [Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink")

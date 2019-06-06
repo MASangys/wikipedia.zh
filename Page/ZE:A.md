@@ -1,4 +1,4 @@
-{{·}}[光熙](../Page/黃光熙.md "wikilink"){{·}}[時完](../Page/時完.md "wikilink"){{·}}[泰憲](https://zh.wikipedia.org/wiki/ZE:A#成員資料 "wikilink"){{·}}[熹哲](../Page/熹哲.md "wikilink"){{·}}[旼佑](../Page/旼佑.md "wikilink"){{·}}[炯植](https://zh.wikipedia.org/wiki/朴炯植 "wikilink"){{·}}[桐俊](../Page/金桐俊.md "wikilink")
+{{·}}[光熙](../Page/黃光熙.md "wikilink"){{·}}[時完](../Page/時完.md "wikilink"){{·}}[泰憲](https://zh.wikipedia.org/wiki/ZE:A#成員資料 "wikilink"){{·}}[熹哲](../Page/熹哲.md "wikilink"){{·}}[旼佑](../Page/旼佑.md "wikilink"){{·}}[炯植](../Page/朴炯植.md "wikilink"){{·}}[桐俊](../Page/金桐俊.md "wikilink")
 }}
 
 **ZE:A**（；），[韓國男子偶像團體](https://zh.wikipedia.org/wiki/韓國 "wikilink")；於2010年1月15日正式出道，隸屬於[Star
@@ -37,7 +37,7 @@ Tonight》，4月21日Kevin推出Solo單曲《Collection》，4月26日熹哲推
 Love》，5月3日桐俊推出Solo單曲《Healing》，5月28日李厚(文俊英)推出Solo單曲《Too Late》。
 
 2017年2月7日，[黃光熙和BONBOO娛樂簽約](../Page/黃光熙.md "wikilink")\[2\]。同年3月22日，[任時完和Plum](https://zh.wikipedia.org/wiki/任時完 "wikilink")
-Entertainment簽約，採訪中表示ZE:A帝國之子沒有解散，沒有放棄的想法，只是成員專注個人活動和兵役。同年4月11日，[朴炯植和United](https://zh.wikipedia.org/wiki/朴炯植 "wikilink")
+Entertainment簽約，採訪中表示ZE:A帝國之子沒有解散，沒有放棄的想法，只是成員專注個人活動和兵役。同年4月11日，[朴炯植和United](../Page/朴炯植.md "wikilink")
 Artists
 Agency簽約，4月12日公司發表聲明ZE:A帝國之子沒有解散，未來還有完整體可能性\[3\]。同年5月14日，[凱文和Bedford](https://zh.wikipedia.org/wiki/凱文_\(韓國藝人\) "wikilink")
 & Pearce
@@ -85,7 +85,7 @@ Star》節目中更親自證實團體並未解散，只是每個人都換了公�
 <td><p><a href="../Page/旼佑.md" title="wikilink">旼佑</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">炯植</a></p></td>
+<td><p><a href="../Page/朴炯植.md" title="wikilink">炯植</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/金桐俊.md" title="wikilink">桐俊</a></p></td>

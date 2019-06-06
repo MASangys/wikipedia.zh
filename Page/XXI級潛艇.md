@@ -200,7 +200,7 @@ U-Boot-Museum-Sicherlich retouched.jpg|被作為博物館的U-2540
     www.uboataces.com
 
 [Category:德國潛艦](https://zh.wikipedia.org/wiki/Category:德國潛艦 "wikilink")
-[Category:傳統動力潛艦](https://zh.wikipedia.org/wiki/Category:傳統動力潛艦 "wikilink")
+[Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")
 [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
 
 1.

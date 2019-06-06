@@ -14,8 +14,6 @@
     finds](http://www.superwasp.org/press_release2/WASP2007_national_pressV5.pdf)
   - [SuperWASP Homepage](http://www.superwasp.org)
 
-[de:WASP-5 b](https://zh.wikipedia.org/wiki/de:WASP-5_b "wikilink")
-
 [Category:太阳系外行星](https://zh.wikipedia.org/wiki/Category:太阳系外行星 "wikilink")
 [Category:2007年发现的系外行星](https://zh.wikipedia.org/wiki/Category:2007年发现的系外行星 "wikilink")
 [Category:类木行星](https://zh.wikipedia.org/wiki/Category:类木行星 "wikilink")

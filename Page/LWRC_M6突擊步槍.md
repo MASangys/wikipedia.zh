@@ -309,9 +309,9 @@ Equipment，MOE），和LWRCI專有的緊湊型[槍托以及](../Page/槍托.md 
 
 16.
 17.
-18. [GA-NOV-P48-55.pdf](https://www.lwrci.com/articles/GA-NOV-P48-55.pdf)
+18.
 
-19. [STMP-120300-LWR.pdf](https://www.lwrci.com/articles/STMP-120300-LWR.pdf)
+19.
 
 20. <http://www.thefirearmblog.com/blog/2013/03/12/lwrc-six8-uciw-rifle-magpul-6-8mm-spc-pmag/>
 

@@ -208,7 +208,7 @@ Light Up My Live林峯演唱會2011主題曲</p></td>
 
 ## 外部連結
 
-[英皇娛樂官網](http://www.eegmusic.com/artist/album.php/view/215/571)
+[英皇娛樂官網](https://web.archive.org/web/20120508162919/http://www.eegmusic.com/artist/album.php/view/215/571)
 
 [yesasia LF
 (CD+DVD+海報)](http://www.yesasia.com/global/lf-cd-dvd-%E6%B5%B7%E5%A0%B1/1024675724-0-0-0-zh_TW/info.html)

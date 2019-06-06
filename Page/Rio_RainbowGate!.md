@@ -170,7 +170,8 @@ RainbowGate\!**』（）是2011年1月播放的[日本](../Page/日本.md "wikil
 
       -
         歌 -
-        （理欧（[井上麻里奈](../Page/井上麻里奈.md "wikilink")）、敏特（[竹達彩奈](../Page/竹達彩奈.md "wikilink")）、莉娜（[高橋智秋](../Page/高橋智秋.md "wikilink")）、琳达（[日笠陽子](../Page/日笠陽子.md "wikilink")））
+        （理欧（[井上麻里奈](../Page/井上麻里奈.md "wikilink")）、敏特（[竹達彩奈](../Page/竹達彩奈.md "wikilink")）、莉娜（[高橋智秋](../Page/高橋智秋.md "wikilink")）、琳达（[日笠陽子](../Page/日笠陽子.md "wikilink")））/作詞--畑
+        亞貴 / 作曲--OPA /編曲--齋藤悠弥
 
   - 片尾曲
 

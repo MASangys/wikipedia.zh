@@ -1,5 +1,4 @@
-****是一個由[Google公司所研發的鍵](https://zh.wikipedia.org/wiki/Google公司 "wikilink")／值對（Key/Value
-Pair）[嵌入式](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")[數據庫管理系統編程庫](https://zh.wikipedia.org/wiki/數據庫管理系統 "wikilink")，\[1\]
+****是一個由[Google公司所研發的](https://zh.wikipedia.org/wiki/Google公司 "wikilink")[键-值存储](https://zh.wikipedia.org/wiki/键-值存储 "wikilink")[嵌入式](https://zh.wikipedia.org/wiki/嵌入式系統 "wikilink")[數據庫管理系統編程庫](https://zh.wikipedia.org/wiki/數據庫管理系統 "wikilink")，\[1\]
 以[開源的](https://zh.wikipedia.org/wiki/開源軟體 "wikilink")[BSD許可證發佈](https://zh.wikipedia.org/wiki/BSD許可證 "wikilink")。\[2\]
 
 ## 特徵
@@ -83,7 +82,7 @@ int main()
 [Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
 [Category:開源資料庫管理系統](https://zh.wikipedia.org/wiki/Category:開源資料庫管理系統 "wikilink")
 [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
-[Category:NoSQL](https://zh.wikipedia.org/wiki/Category:NoSQL "wikilink")
+[Category:键-值数据库](https://zh.wikipedia.org/wiki/Category:键-值数据库 "wikilink")
 
 1.  [leveldb實現解析](http://rdc.taobao.com/blog/cs/wp-content/plugins/leveldb实现解析.pdf)
 

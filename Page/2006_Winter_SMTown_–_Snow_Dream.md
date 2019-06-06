@@ -24,12 +24,10 @@ The Grace](../Page/天上智喜.md "wikilink")。
 
 ## 外部連結
 
-  - [SMTown's official site](http://star.ilikepop.com/starhome/smtown/)
+  - [SMTown's official
+    site](https://web.archive.org/web/20110416074618/http://star.ilikepop.com/starhome/smtown/)
 
   - [SM Entertainment's official page](http://www.smtown.com/)
-
-[en:2006 Winter SMTown – Snow
-Dream](https://zh.wikipedia.org/wiki/en:2006_Winter_SMTown_–_Snow_Dream "wikilink")
 
 [Category:SM_Town音樂專輯](https://zh.wikipedia.org/wiki/Category:SM_Town音樂專輯 "wikilink")
 [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")

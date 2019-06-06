@@ -176,7 +176,9 @@ Reacher: Never Go Back》的首映會的表演嘉賓。
 
 10月27日，LOVEY DOVEY X INFINITE限定版聯名香水上市。\[40\]
 
-### 2019年：東雨solo出道、成烈與東雨入伍
+### 2019年：數位單曲《CLOCK》、東雨solo出道、成烈與東雨入伍
+
+2月13日，發行數位單曲《CLOCK》。
 
 3月4日，[東雨發行個人迷你專輯](https://zh.wikipedia.org/wiki/東雨 "wikilink")《Bye》以主打歌〈News〉solo出道。\[41\]
 

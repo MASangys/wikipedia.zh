@@ -19,6 +19,7 @@
 ## 注释
 
 [Category:海尔德兰省博物馆](https://zh.wikipedia.org/wiki/Category:海尔德兰省博物馆 "wikilink")
+[Category:1993年建立的博物館](https://zh.wikipedia.org/wiki/Category:1993年建立的博物館 "wikilink")
 
 1.
 2.

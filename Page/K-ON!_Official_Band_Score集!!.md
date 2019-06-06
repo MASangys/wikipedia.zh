@@ -1,15 +1,15 @@
-『**「K-ON\!」 Official Band
-Score集\!\!**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")』的官方音樂集及樂譜集的專輯。
+**「K-ON\!」 Official Band Score集\!\!**
+是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")』的官方音樂集及樂譜集的專輯。
 
-## 「K-ON\!」Official Band Score集\!\!
+## 「K-ON\!」 Official Band Score集\!\!
 
 於2009年9月2日由[波麗佳音發行的原聲音樂專輯](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，在DISC1中加入了中野梓的[Cagayake\!GIRLS和](../Page/Cagayake!GIRLS.md "wikilink")[Don't
 say
 "lazy"的](../Page/Don't_say_"lazy".md "wikilink")5人版，[原聲帶未收錄的音樂](../Page/K-ON!_ORIGINAL_SOUND_TRACK.md "wikilink")；DISC2收錄Cagayake\!GIRLS少了一種樂器instrumental和佐和子老師解説。
 
-### 收錄内容
+  - 收錄内容
 
-#### Disc-1
+:; Disc-1
 
 1.  [Cagayake\!GIRLS](../Page/Cagayake!GIRLS.md "wikilink")［5人Ver．］
 2.  [Don't say "lazy"](../Page/Don't_say_"lazy".md "wikilink")［5人Ver．］
@@ -41,7 +41,7 @@ say
 28. 一週間（\#1『廃部\!』）
 29. 翼をください（\#1『廃部\!』）
 
-#### Disc-2
+:; Disc-2
 
 1.  Cagayake\!GIRLS［5人Ver．］（instrumental Guitar）
 2.  Cagayake\!GIRLS［5人Ver．］（instrumental Keyboard）
@@ -134,7 +134,9 @@ Candy的的純音樂版本](../Page/Maddy_Candy.md "wikilink")。
 
 在DVD裡有〈輕飄飄時間〉的彈奏，收錄各部分錄像。
 
-### 收錄内容
+  - 收錄内容
+
+<!-- end list -->
 
 1.  ふわふわ時間『StudioMix』（Instrumental）
 2.  ふわふわ時間『StudioMix』（Instrumental 【-Guitar1】）
@@ -147,13 +149,15 @@ Candy的的純音樂版本](../Page/Maddy_Candy.md "wikilink")。
 9.  Hell The World（Instrumental）
 10. Hell The World（Instrumental 【-Guitar】）
 
-## 「K-ON\!\!」「 Official Band Score集 〜Let's MUSIC\!\!〜」
+## 「K-ON\!\!」 Official Band Score集 〜Let's MUSIC\!\!〜
 
 於2010年5月26日由[波麗佳音發行的音樂專輯](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，收錄了第二季的主題曲[GO\!
 GO\!
 MANIAC和片尾曲](../Page/GO!_GO!_MANIAC.md "wikilink")[Listen\!\!的純音樂版本](../Page/Listen!!.md "wikilink")。
 
-### 收錄内容
+  - 收錄内容
+
+<!-- end list -->
 
 1.  GO\! GO\! MANIAC（Instrumental）
 2.  GO\! GO\! MANIAC（Instrumental 【-Guitar1】）
@@ -168,12 +172,14 @@ MANIAC和片尾曲](../Page/GO!_GO!_MANIAC.md "wikilink")[Listen\!\!的純音樂
 11. Listen\!\!（Instrumental 【-Bass】）
 12. Listen\!\!（Instrumental 【-Drums】）
 
-## 「K-ON\!\!」「 Official Band Score集 〜Let's MUSIC\!\!2〜」
+## 「K-ON\!\!」 Official Band Score集 〜Let's MUSIC\!\!2〜
 
 於2010年9月15日由[波麗佳音發行的音樂專輯](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")，收錄了第二季的後期主題曲[Utauyo\!\!MIRACLE和](../Page/Utauyo!!MIRACLE.md "wikilink")[NO,Thank
 You\!的純音樂版本](../Page/NO,Thank_You!.md "wikilink")。
 
-### 收錄内容
+  - 收錄内容
+
+<!-- end list -->
 
 1.  Utauyo\!\!MIRACLE（Instrumental）
 2.  Utauyo\!\!MIRACLE（Instrumental【-Guitar1】）
@@ -188,9 +194,9 @@ You\!的純音樂版本](../Page/NO,Thank_You!.md "wikilink")。
 11. NO, Thank You\!（Instrumental【-Bass】）
 12. NO, Thank You\!（Instrumental【-Drums】）
 
-## 「K-ON\!\!」「 Official Band Score集 〜Let's MUSIC\!\!3〜」
+## 「K-ON\!\!」 Official Band Score集 〜Let's MUSIC\!\!3〜
 
-於2010年12月22日由[波麗佳音發行的原聲音樂CD](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。收錄了[放課後ティータイムII的純音樂版本](https://zh.wikipedia.org/wiki/放課後TEA_TIME_II "wikilink")。
+於2010年12月22日由[波麗佳音發行的音樂專輯](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。收錄了[放課後ティータイムII的純音樂版本](https://zh.wikipedia.org/wiki/放課後TEA_TIME_II "wikilink")。
 
   - 收錄内容
 
@@ -329,6 +335,85 @@ Mix』（Instrumental）
 [放課後ティータイム](https://zh.wikipedia.org/wiki/放課後TEA_TIME_II "wikilink")『Studio
 Mix』（Instrumental）
 
+## 「K-ON\!\!」 Official Band Score集 〜Let's MUSIC\!\!4〜
+
+於2011年6月15日由[波麗佳音發行的音樂專輯](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+
+  - 收錄内容
+
+:\# [Cagayake\!GIRLS\[4人Ver.](../Page/Cagayake!GIRLS.md "wikilink")\]
+(TV size Ver.)
+
+:\# [Don't say "lazy"](../Page/Don't_say_"lazy".md "wikilink") (TV size
+Ver.)
+
+:\#
+[Cagayake\!GIRLS\[5人Ver.](https://zh.wikipedia.org/wiki/K-ON!_Official_Band_Score集!!#「K-ON!」Official_Band_Score集!! "wikilink")\]
+(TV size Ver.)
+
+:\# [GO\! GO\! MANIAC](../Page/GO!_GO!_MANIAC.md "wikilink") (TV size
+Ver.)
+
+:\# [Listen\!\!](../Page/Listen!!.md "wikilink") (TV size Ver.)
+
+:\# [Utauyo\!\!MIRACLE](../Page/Utauyo!!MIRACLE.md "wikilink") (TV size
+Ver.)
+
+:\# [NO,Thank You\!](../Page/NO,Thank_You!.md "wikilink") (TV size Ver.)
+
+:\# GO\! GO\! MANIAC (Instrumental)
+
+:\# GO\! GO\! MANIAC (Instrumental 【-Guitar1】)
+
+:\# GO\! GO\! MANIAC (Instrumental 【-Guitar2】)
+
+:\# GO\! GO\! MANIAC (Instrumental 【-Keyboard】)
+
+:\# GO\! GO\! MANIAC (Instrumental 【-Bass】)
+
+:\# GO\! GO\! MANIAC (Instrumental 【-Drums】)
+
+## 「K-ON\!」劇場版 Official Band Score集 K-ON\! MOVIE編
+
+於2012年2月19日由[波麗佳音發行的音樂專輯](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+
+  - 收錄内容
+
+:\# Unmei♪wa♪Endless\!（Instrumental）
+
+:\# Unmei♪wa♪Endless\!（Instrumental【－Guitar1】）
+
+:\# Unmei♪wa♪Endless\!（Instrumental【－Guitar2】）
+
+:\# Unmei♪wa♪Endless\!（Instrumental【－Keyboard】）
+
+:\# Unmei♪wa♪Endless\!（Instrumental【－Drums】）
+
+:\# Singing\!（Instrumental）
+
+:\# Singing\!（Instrumental【－Guitar1】）
+
+:\# Singing\!（Instrumental【－Guitar2】）
+
+:\# Singing\!（Instrumental【－Keyboard】）
+
+:\# Singing\!（Instrumental【－Drums】）
+
+:\# ラブクライシス（ちょっと）
+
+:\# ライブハウスのリハーサル
+
+:\# 天使にふれたよ\! 〜唯の練習ギター
+
+:\#
+[いちばんいっぱい](https://zh.wikipedia.org/wiki/Unmei♪wa♪Endless!#収録曲 "wikilink")（MOVIE
+size Ver.）
+
+:\# [Unmei♪wa♪Endless\!](../Page/Unmei♪wa♪Endless!.md "wikilink")（MOVIE
+size Ver.）
+
+:\# [Singing\!](../Page/Singing!.md "wikilink")（MOVIE size Ver.）
+
 ## 外部連結
 
   -
@@ -338,8 +423,11 @@ Mix』（Instrumental）
   -
   -
   -
-[Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink")
-[Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink")
 [Category:2009年原聲帶](https://zh.wikipedia.org/wiki/Category:2009年原聲帶 "wikilink")
 [Category:2010年原聲帶](https://zh.wikipedia.org/wiki/Category:2010年原聲帶 "wikilink")
+[Category:2011年原聲帶](https://zh.wikipedia.org/wiki/Category:2011年原聲帶 "wikilink")
+[Category:2012年原聲帶](https://zh.wikipedia.org/wiki/Category:2012年原聲帶 "wikilink")
+[Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink")
+[Category:電影原聲帶](https://zh.wikipedia.org/wiki/Category:電影原聲帶 "wikilink")
+[Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink")
 [Category:波麗佳音原聲帶](https://zh.wikipedia.org/wiki/Category:波麗佳音原聲帶 "wikilink")

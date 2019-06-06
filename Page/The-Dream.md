@@ -1,4 +1,4 @@
-**特琉斯·杨戴尔·纳什**（），生于1981年6月14日，因其艺名**The-Dream**出名，是美国的[节奏布鲁斯](../Page/节奏布鲁斯.md "wikilink")、[流行乐创作型歌手](https://zh.wikipedia.org/wiki/流行乐 "wikilink")、唱片制作人。生于[北卡罗来纳州](../Page/北卡罗来纳州.md "wikilink")，由其母雷瓦·纳什（Reva
+**特留斯·杨戴尔·纳什**（），生于1981年6月14日，知名于其艺名**The-Dream**，是美国的[节奏布鲁斯](../Page/节奏布鲁斯.md "wikilink")、[流行乐创作型歌手](https://zh.wikipedia.org/wiki/流行乐 "wikilink")、唱片制作人。生于[北卡罗来纳州](../Page/北卡罗来纳州.md "wikilink")[罗金厄姆](https://zh.wikipedia.org/wiki/羅京安縣_\(北卡羅萊納州\) "wikilink")，由其母雷瓦·纳什（Reva
 Nash）抚养长大，直至她35岁去世。The-Dream搬到[佐治亚州](https://zh.wikipedia.org/wiki/佐治亚州 "wikilink")[亚特兰大](../Page/亚特兰大.md "wikilink")，由外祖父继续抚养。
 
 2001年，The-Dream同拉尼·斯图尔特（Laney

@@ -242,7 +242,7 @@ LM-S兩腳架](https://zh.wikipedia.org/wiki/哈里斯兩腳架 "wikilink")）�
   - —[D Boy Gun World（槍炮世界）—Remington
     MSR狙击步枪](http://firearmsworld.net/usa/remington/msr/rem_msr.htm)
 
-  - —[《现代军事》2011年第5期—美国陆军的新型狙击步枪](http://www.hao1111.cn/plus/view.php?aid=26907)
+  - —[《现代军事》2011年第5期—美国陆军的新型狙击步枪](https://web.archive.org/web/20150213101131/http://www.hao1111.cn/plus/view.php?aid=26907)
 
 [Category:栓動式步槍](https://zh.wikipedia.org/wiki/Category:栓動式步槍 "wikilink")
 [Category:狙擊步槍](https://zh.wikipedia.org/wiki/Category:狙擊步槍 "wikilink")

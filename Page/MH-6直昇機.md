@@ -41,6 +41,8 @@ Egg」（殺手蛋））直昇機和它的攻击型版本**AH-6**，是[美国�
         LAU-68C/A（7發）火箭發射器，可發射[九头蛇70](../Page/火蛇70航空火箭彈.md "wikilink")
         70mm火箭彈
 
+## 參見
+
 ## 外部連結
 
   - [MH/AH-6特戰直升機](https://web.archive.org/web/20160422005243/http://news.gpwb.gov.tw/news.aspx?ydn=026dTHGgTRNpmRFEgxcbfTPjgUgRhyf92RULJg6sM8nhI8CBq%2fpTrCc7sWHUriwibViULakgX4VmRhuSnpYc3jUSA8Wg5u3ChgHKDJvMXhw%3d)

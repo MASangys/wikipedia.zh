@@ -1,6 +1,6 @@
 [LINE_Friend_Store_in_Hysan_Place_201510.jpg](https://zh.wikipedia.org/wiki/File:LINE_Friend_Store_in_Hysan_Place_201510.jpg "fig:LINE_Friend_Store_in_Hysan_Place_201510.jpg")[希慎廣場LINE](../Page/希慎廣場.md "wikilink")
 Friend Store\]\]
-**-{LINE}-**（；[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")：連我、連加、連線、賴），是一個由[Naver集團旗下](https://zh.wikipedia.org/wiki/Naver "wikilink")[LINE株式会社所開發的](../Page/LINE_\(公司\).md "wikilink")[即時通信軟體綜合平台](https://zh.wikipedia.org/wiki/即時通信軟體 "wikilink")\[1\]，於2011年6月發表。用戶間可以通過[互聯網在不額外增加費用情況下與其他用戶傳送信息及觀看直播](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，並可透過LINE使用[購物](../Page/購物.md "wikilink")、[行動支付及獲取](../Page/行動支付.md "wikilink")[新聞資訊等功能](https://zh.wikipedia.org/wiki/新聞 "wikilink")。\[2\]
+**-{LINE}-**（；[中文](https://zh.wikipedia.org/wiki/中文 "wikilink")：連我、連加、連線、賴），是一個由[Naver集團旗下](../Page/Naver_\(公司\).md "wikilink")[LINE株式会社所開發的](../Page/LINE_\(公司\).md "wikilink")[即時通信軟體綜合平台](https://zh.wikipedia.org/wiki/即時通信軟體 "wikilink")\[1\]，於2011年6月發表。用戶間可以通過[互聯網在不額外增加費用情況下](https://zh.wikipedia.org/wiki/互聯網 "wikilink")，與其他用戶傳送信息及觀看直播，並可透過LINE使用[購物](../Page/購物.md "wikilink")、[行動支付及獲取](../Page/行動支付.md "wikilink")[新聞資訊等功能](https://zh.wikipedia.org/wiki/新聞 "wikilink")。\[2\]
 
 LINE服務性質相當於傳統電信商提供的[多媒體短訊或](https://zh.wikipedia.org/wiki/多媒體短訊 "wikilink")[簡訊等服務或](../Page/簡訊.md "wikilink")[即時通訊之演進](../Page/即時通訊.md "wikilink")，並進一步演化爲整合各項生活機能的平台。
 
@@ -11,7 +11,7 @@ Store販賣LINE Friends相關周邊商品。
 
 ## 歷史
 
-2011年6月，由於[Naver公司的](https://zh.wikipedia.org/wiki/Naver "wikilink")[李海珍](https://zh.wikipedia.org/wiki/李海珍 "wikilink")，因[日本大地震而無法即時聯絡家人的想法](https://zh.wikipedia.org/wiki/311地震 "wikilink")，而在[日本推出了LINE即時通訊軟體](../Page/日本.md "wikilink")，而其「讀取回條」功能，也是針對災難發生時，能第一時間確認人員安全而設計的。\[3\]\[4\]
+2011年6月，Naver創辦人[李海珍](https://zh.wikipedia.org/wiki/李海珍 "wikilink")，因[日本大地震而無法即時聯絡家人的想法](https://zh.wikipedia.org/wiki/311地震 "wikilink")，而在[日本推出了LINE即時通訊軟體](../Page/日本.md "wikilink")，而其「讀取回條」功能，也是針對災難發生時，能第一時間確認人員安全而設計的。\[3\]\[4\]
 
 2012年2月，首次於[臺灣推出](../Page/臺灣.md "wikilink")，並以[桂綸鎂為代言人](../Page/桂綸鎂.md "wikilink")\[5\]\[6\]\[7\]\[8\]\[9\]。同年3月，推出[Windows及](https://zh.wikipedia.org/wiki/Windows "wikilink")[Macintosh版本](https://zh.wikipedia.org/wiki/Macintosh "wikilink")\[10\]\[11\]，12月，發佈了「LINE」的中文版本「連我」，並首次於[中国大陸推出](https://zh.wikipedia.org/wiki/中国大陸 "wikilink")。\[12\]
 
@@ -69,14 +69,16 @@ Out服務。
 
 ### Line Shopping
 
-  - Line Shopping 為購物回饋服務，提供消費者在各大購物網站比價功能及提供額外回饋，如消費特定商家即可獲得 Line
-    Points 點數回饋等機制。
+  - [LINE
+    Shopping](https://zh.wikipedia.org/wiki/LINE_Shopping "wikilink")
+    為購物回饋服務，提供消費者在各大購物網站比價功能及提供額外回饋，如消費特定商家即可獲得 LINE POINTS
+    點數回饋等機制。
 
 ### Line Travel
 
-  - LINE 旅遊 (LINE Travel)
-    是一個LINE提供的旅遊電商平台，使用者能在LINE旅遊線上訂房、購買機票、訂購一日遊等，並獲得LINE
-    Points回饋。除此之外，即將出遊的使用者還能閱讀世界各地的旅行資訊、並用行程規劃工具和旅伴一起安排行程。
+  - [LINE旅遊](https://zh.wikipedia.org/wiki/LINE旅遊 "wikilink") (LINE
+    Travel) 是一個LINE提供的旅遊電商平台，使用者能在LINE旅遊線上訂房、購買機票、訂購一日遊等，並獲得LINE
+    POINTS回饋。除此之外，即將出遊的使用者還能閱讀世界各地的旅行資訊、並用行程規劃工具和旅伴一起安排行程。
 
 ### 動畫
 

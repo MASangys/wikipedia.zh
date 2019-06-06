@@ -8,7 +8,7 @@ Mag，8.6×70毫米或8.58×70毫米）[口徑](https://zh.wikipedia.org/wiki/�
 
 自從（簡稱：B\&T或B+T）公司在1991年創立以來，主要就是作為[黑克勒-科赫](../Page/黑克勒&科赫.md "wikilink")（Heckler
 &
-Koch）和[伯奈利等槍械製造公司的分銷商](../Page/伯奈利.md "wikilink")，然後隨著才開始生產如[消聲器的戰術配件](../Page/抑制器.md "wikilink")。該公司後來更作為各種執法機關和軍隊客戶的武器系統集成商，例如武器的步槍狙擊鏡和來自各個廠商的戰術配件組裝可以根據使用者要求，並且輔以消聲器一起使用。這些武器及配件整合工作經常都要對武器作出了一個重大的重組，這樣就令Brügger
+Koch）和[伯奈利等槍械製造公司的分銷商](../Page/伯奈利.md "wikilink")，然後隨著才開始生產如[抑制器的戰術配件](../Page/抑制器.md "wikilink")。該公司後來更作為各種執法機關和軍隊客戶的武器系統集成商，例如武器的步槍狙擊鏡和來自各個廠商的戰術配件組裝可以根據使用者要求，並且輔以消聲器一起使用。這些武器及配件整合工作經常都要對武器作出了一個重大的重組，這樣就令Brügger
 & Thomet公司在一定程度的範圍內可以很容易地自行創建一種新型武器，並使它們能夠設計及生產其狙擊步槍。
 
 Brügger &
@@ -53,7 +53,7 @@ APR具有一個向左側折疊式[槍托](../Page/槍托.md "wikilink")，由[�
 ### 槍管
 
 B\&T
-APR的[自由浮動式](../Page/自由浮動式槍管.md "wikilink")[錘鍛式](https://zh.wikipedia.org/wiki/膛線#錘鍛（Hammer_forge） "wikilink")[槍管具有由原廠提供的](../Page/槍管.md "wikilink")[钢製](../Page/钢.md "wikilink")[槍口制退器附件](../Page/砲口制動器.md "wikilink")，一個不可被移除的附件連裝在上面作緊急瞄準用途的後備[機械瞄具](../Page/機械瞄具.md "wikilink")。[槍口制退器被評估具有減少](../Page/砲口制動器.md "wikilink")40％[後座力的有效性](../Page/後座力.md "wikilink")。它也可作為一個快速裝拆式[消聲器的安裝位置](../Page/抑制器.md "wikilink")，在沒有裝上消聲器的時候，還可以裝上螺紋護套以保護槍口制退器上的連接螺紋。APR308的槍管具有估計大約7,000發的精度壽命。
+APR的[自由浮動式](../Page/自由浮動式槍管.md "wikilink")[錘鍛式](https://zh.wikipedia.org/wiki/膛線#錘鍛（Hammer_forge） "wikilink")[槍管具有由原廠提供的](../Page/槍管.md "wikilink")[钢製](../Page/钢.md "wikilink")[槍口制退器附件](../Page/砲口制動器.md "wikilink")，一個不可被移除的附件連裝在上面作緊急瞄準用途的後備[機械瞄具](../Page/機械瞄具.md "wikilink")。[槍口制退器被評估具有減少](../Page/砲口制動器.md "wikilink")40％[後座力的有效性](../Page/後座力.md "wikilink")。它也可作為一個快速裝拆式[抑制器的安裝位置](../Page/抑制器.md "wikilink")，在沒有裝上消聲器的時候，還可以裝上螺紋護套以保護槍口制退器上的連接螺紋。APR308的槍管具有估計大約7,000發的精度壽命。
 
 在其[膛室末端](../Page/膛室.md "wikilink")，槍管已經擰入到上機匣內並且壓入上機匣的鎖緊環。[.308
 Winchester](../Page/.308_Winchester.md "wikilink")[口徑的膛線纏距是](https://zh.wikipedia.org/wiki/口徑 "wikilink")280毫米（1：11英吋）右旋膛線連四條陰膛線，其膛線密度超過了一般而言的.308
@@ -97,7 +97,7 @@ APR是由一個可拆卸的10發[不銹鋼製雙排式](https://zh.wikipedia.org
 
 ### 附件
 
-作為以研製及生產槍械[消聲器開始的製造商](../Page/抑制器.md "wikilink")，（簡稱：B\&T或B+T）公司還提供了快速可拆卸的APR系列消聲器，給整體槍管式消聲器的APR308S以外的型號（即是APR308和APR308P）亦能夠通過[槍口制退器安裝快速裝拆式消聲器](../Page/砲口制動器.md "wikilink")。根據武器聲學報告的數據，APR308
+作為以研製及生產槍械[抑制器開始的製造商](../Page/抑制器.md "wikilink")，（簡稱：B\&T或B+T）公司還提供了快速可拆卸的APR系列消聲器，給整體槍管式消聲器的APR308S以外的型號（即是APR308和APR308P）亦能夠通過[槍口制退器安裝快速裝拆式消聲器](../Page/砲口制動器.md "wikilink")。根據武器聲學報告的數據，APR308
 GRS消聲器能夠降低36
 [分貝](https://zh.wikipedia.org/wiki/分貝 "wikilink")（A）[槍口](https://zh.wikipedia.org/wiki/槍口 "wikilink")[噪音](https://zh.wikipedia.org/wiki/噪声 "wikilink")，並​​同時也降低了。
 
@@ -111,7 +111,7 @@ B\&T APR308狙擊步槍具有多種專門用途衍生型。
 
 **APR308P**是為了戰術警察應用而設計，並具有一根裝上了不同的槍口裝置的500毫米（19.69英吋）短槍管。APR308P步槍完全是依賴[MIL-STD-1913戰術導軌上安裝的](../Page/皮卡汀尼導軌.md "wikilink")[光學狙擊鏡作為瞄準手段](../Page/瞄准镜.md "wikilink")，因為原來的後備機械瞄具（[照門及](https://zh.wikipedia.org/wiki/照門 "wikilink")[準星](../Page/照準器.md "wikilink")）都為了減輕重量而被移除了。APR308P也被移除了原來的軍用版本的[防跌落保險](https://zh.wikipedia.org/wiki/防跌落保險 "wikilink")（），並因為槍管縮短而令其有效射程減少至600公尺（656.17码，1,968.5英尺）。
 
-另一個版本是消聲版本的APR308，裝上一根400毫米（15.75英吋）槍管和不可從槍管上拆除的[消聲器的](../Page/抑制器.md "wikilink")**APR308S**。這種型號也是沒有安裝後備機械瞄具或是防跌落保險，而且只能使用[亞音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")（200—240克[彈丸](https://zh.wikipedia.org/wiki/彈丸 "wikilink")）。APR308S射擊時產生的瞬間最大音量低於45[分貝](https://zh.wikipedia.org/wiki/分貝 "wikilink")（A），只要距離5公尺以上就難以察覺。
+另一個版本是消聲版本的APR308，裝上一根400毫米（15.75英吋）槍管和不可從槍管上拆除的[抑制器的](../Page/抑制器.md "wikilink")**APR308S**。這種型號也是沒有安裝後備機械瞄具或是防跌落保險，而且只能使用[亞音速](https://zh.wikipedia.org/wiki/空气动力学#亚音速空气动力学 "wikilink")[彈藥](https://zh.wikipedia.org/wiki/彈藥 "wikilink")（200—240克[彈丸](https://zh.wikipedia.org/wiki/彈丸 "wikilink")）。APR308S射擊時產生的瞬間最大音量低於45[分貝](https://zh.wikipedia.org/wiki/分貝 "wikilink")（A），只要距離5公尺以上就難以察覺。
 
 APR308狙擊步槍也被用來開發更大[口徑的衍生型以延長有效射程](https://zh.wikipedia.org/wiki/口徑 "wikilink")。發射[.338拉普麥格農](../Page/.338拉普麥格農.md "wikilink")（.338
 Lapua
@@ -277,7 +277,7 @@ TS.M.338</p></td>
 
 ## 外部連結
 
-  - —[Brügger & Thomet company website](http://www.brugger-thomet.ch/)
+  - —[Brügger & Thomet官方網站](http://www.brugger-thomet.ch/)
 
   - —Modern Firearms—
 

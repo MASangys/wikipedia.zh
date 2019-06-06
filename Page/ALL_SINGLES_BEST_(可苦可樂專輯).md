@@ -5,7 +5,7 @@ BEST**》，是[日本](../Page/日本.md "wikilink")[樂團](https://zh.wikiped
 
 在[可苦可樂人氣急升的](../Page/可苦可樂.md "wikilink")2006年9月發行他們的首張[精選輯](https://zh.wikipedia.org/wiki/精選輯 "wikilink")。收錄了從出道單曲《[YELL/Bell](https://zh.wikipedia.org/wiki/YELL/Bell "wikilink")》到2005年的單曲《[只在這裡盛開的花](../Page/只在這裡盛開的花.md "wikilink")》的所有A面曲和部分B面曲，以及當時最新的單曲《呼喊你名字的翅膀》。重新錄製了《轍》和《[DOOR](../Page/DOOR_\(可苦可樂單曲\).md "wikilink")》兩首歌，以及新歌《通往未來的歸路》。
 
-專輯發售前邀請了著名女[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")[菅野美穗作為](../Page/菅野美穗.md "wikilink")[電視廣告宣傳女主角](../Page/電視廣告.md "wikilink")。分初回限定盤和通常盤兩個版本，初回盤附送DVD。
+專輯發售前邀請了著名女[演員](../Page/演員.md "wikilink")[菅野美穗作為](../Page/菅野美穗.md "wikilink")[電視廣告宣傳女主角](../Page/電視廣告.md "wikilink")。分初回限定盤和通常盤兩個版本，初回盤附送DVD。
 
 連續四個星期佔據[Oricon公信榜冠軍](../Page/Oricon公信榜.md "wikilink")。後勁驚人，發售後第三週銷量即突破100萬張。2007年3月銷量突破200萬張，並取得第21回[日本金唱片大賞的](https://zh.wikipedia.org/wiki/日本金唱片大賞 "wikilink")「年度專輯賞」。2006年度和2007年度連續兩年成為Oricon公信榜專輯年榜第三位。2007年10月出貨量突破300萬張。\[1\]\[2\]
 到2010年5月，正式突破300萬銷量。\[3\]

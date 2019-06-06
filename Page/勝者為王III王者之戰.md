@@ -9,11 +9,9 @@
 ### 主要演員
 
   - [任達華](../Page/任達華.md "wikilink") 飾 程逸風
-
-<!-- end list -->
-
   - [伍詠薇](../Page/伍詠薇.md "wikilink") 飾 凌　莉
   - [江　華](https://zh.wikipedia.org/wiki/江華_\(香港演員\) "wikilink") 飾 方　俊
+  - [湯鎮業](../Page/湯鎮業.md "wikilink") 飾 易天揚
   - [萬綺雯](../Page/萬綺雯.md "wikilink") 飾 郭靜蓉
   - [歐錦棠](../Page/歐錦棠.md "wikilink") 飾 小　江
   - [劉錦玲](../Page/劉錦玲.md "wikilink") 飾 阮少芬

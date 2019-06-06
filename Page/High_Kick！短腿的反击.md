@@ -102,10 +102,10 @@
 </tr>
 <tr class="even">
 <td><center>
-<p><a href="../Page/徐芝釋.md" title="wikilink">徐智錫</a></p>
+<p><a href="../Page/徐芝釋.md" title="wikilink">徐芝釋</a></p>
 </center></td>
 <td><center>
-<p>尹智錫</p>
+<p>尹芝釋</p>
 </center></td>
 <td><center>
 <p><a href="../Page/李世揚.md" title="wikilink">李世揚</a></p>
@@ -370,6 +370,15 @@
 </tr>
 <tr class="odd">
 <td><center>
+<p><a href="../Page/尹瑞賢.md" title="wikilink">尹瑞賢</a></p>
+</center></td>
+<td><center>
+<p>徐仁宇</p>
+</center></td>
+<td><p>|第83集客串，內相的後輩。</p></td>
+</tr>
+<tr class="even">
+<td><center>
 <p><a href="../Page/鄭普碩.md" title="wikilink">鄭普碩</a></p>
 </center></td>
 <td><center>
@@ -377,7 +386,7 @@
 </center></td>
 <td><p>第84集客串，代替出國的金部長工作，是個數理能力非常差的人。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p><a href="../Page/尹施允.md" title="wikilink">尹施允</a></p>
 </center></td>
@@ -386,7 +395,7 @@
 </center></td>
 <td><p>第88集客串，朴河宣的初戀大學登山社的學長。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/崔丹尼爾" title="wikilink">崔丹尼爾</a></p>
 </center></td>
@@ -395,7 +404,7 @@
 </center></td>
 <td><p>第95集客串，與尹繼相為死對頭。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/黃正音" title="wikilink">黃正音</a></p>
 </center></td>
@@ -404,7 +413,7 @@
 </center></td>
 <td><p>第106集客串，理事長的女兒，為了補學分畢業而到學校實習。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><center>
 <p><a href="../Page/金汎.md" title="wikilink">金汎</a></p>
 </center></td>
@@ -413,7 +422,7 @@
 </center></td>
 <td><p>第108集客串，有107種恐懼症的百貨公司社長。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><center>
 <p><a href="../Page/陳智熙.md" title="wikilink">陳智熙</a></p>
 </center></td>

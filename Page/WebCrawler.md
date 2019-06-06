@@ -29,8 +29,6 @@ WebCrawler在2008年初改变了它的徽标，将原来的蜘蛛吉祥物移除
   - [WebCrawler](http://www.webcrawler.com/)
   - [WebCrawler历史](http://www.thinkpink.com/bp/WebCrawler/History.html)
 
-[pl:WebCrawler](https://zh.wikipedia.org/wiki/pl:WebCrawler "wikilink")
-
 [Category:搜索引擎](https://zh.wikipedia.org/wiki/Category:搜索引擎 "wikilink")
 
 1.  ["Webcrawler.com Site

@@ -8,7 +8,7 @@ dienes），是[吡啶盐与两分子仲胺发生作用然后水解得到的产�
 W. König 分别报道。\[4\]
 
 
-[ZinckeAldehyde.png](https://zh.wikipedia.org/wiki/File:ZinckeAldehyde.png "fig:ZinckeAldehyde.png")
+[Zincke-Aldehyde.svg](https://zh.wikipedia.org/wiki/File:Zincke-Aldehyde.svg "fig:Zincke-Aldehyde.svg")
 相关综述：\[5\]\[6\]\[7\]
 
 [Zincke 反应的一个变体最近](../Page/Zincke反应.md "wikilink")（Vanderwal

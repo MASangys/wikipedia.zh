@@ -1998,8 +1998,8 @@ II里的真蔷薇I](https://zh.wikipedia.org/wiki/APG_II "wikilink")）及[锦�
     Group](https://zh.wikipedia.org/wiki/APG "wikilink")（2009）. [An
     update of the Angiosperm Phylogeny Group classification for the
     orders and families of flowering plants: APG
-    III](http://www3.interscience.wiley.com/journal/122630309/abstract).
-    *[Botanical Journal of the Linnean
+    III](http://www3.interscience.wiley.com/journal/122630309/abstract)
+    . *[Botanical Journal of the Linnean
     Society](https://zh.wikipedia.org/wiki/林奈学会植物学报 "wikilink")*
     **161**（2）: 105-121.
 2.  Filipowicz, N., and S. S. Renner. 2010. "The worldwide holoparasitic

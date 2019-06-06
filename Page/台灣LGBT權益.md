@@ -2,9 +2,9 @@
 
 **[中華民國](../Page/中華民國.md "wikilink")（[臺灣](../Page/臺灣.md "wikilink")）**通常被認為是[東亞](https://zh.wikipedia.org/wiki/東亞 "wikilink")、乃至[亞洲地區之中](https://zh.wikipedia.org/wiki/亞洲 "wikilink")，少數[LGBT權益相對友善之地區](https://zh.wikipedia.org/wiki/LGBT權益 "wikilink")\[1\]。每年十月最後一週星期六在[臺北市舉辦的](../Page/臺北市.md "wikilink")[臺灣同志遊行吸引數萬人參與](https://zh.wikipedia.org/wiki/臺灣同志遊行 "wikilink")，為亞洲僅次於[以色列](../Page/以色列.md "wikilink")[特拉維夫第二大的](https://zh.wikipedia.org/wiki/特拉維夫 "wikilink")[LGBT活動](../Page/LGBT.md "wikilink")\[2\]。
 
-[同性性行為在臺灣是合法的](https://zh.wikipedia.org/wiki/同性性行為 "wikilink")，針對[同志的](../Page/LGBT.md "wikilink")[暴力事件相當少見](../Page/暴力.md "wikilink")，[警方對同志友善空間施壓的情況逐漸減少](https://zh.wikipedia.org/wiki/警方 "wikilink")\[3\]\[4\]。同性伴侶目前未享有與異性伴侶同等的法律權益，僅部份地方政府開放受理「同性伴侶」的戶政註記\[5\]。2015年臺北市聯合婚禮開全國先例，首度開放同性伴侶參加\[6\]。
+[同性性行為及](https://zh.wikipedia.org/wiki/同性性行為 "wikilink")[同性婚姻在臺灣是合法的](https://zh.wikipedia.org/wiki/同性婚姻 "wikilink")，針對[同志的](../Page/LGBT.md "wikilink")[暴力事件相當少見](../Page/暴力.md "wikilink")，[警方對同志友善空間施壓的情況逐漸減少](https://zh.wikipedia.org/wiki/警方 "wikilink")\[3\]\[4\]。部分地方政府（除雲林縣、花蓮縣、台東縣、澎湖縣外）開放受理「同性伴侶」的戶政註記\[5\]。2015年臺北市聯合婚禮開全國先例，首度開放同性伴侶參加\[6\]。2019年5月17日，《**司法院釋字第七四八號解釋施行法**》三讀通過，5月22日經總統公布，於5月24日生效，使中華民國成為亞洲第一個全國性承認同性婚姻的國家。
 
-在反歧視法方面，分別在2003年和2007年制定了《[性別平等教育法](../Page/性別平等教育法.md "wikilink")》和《[性別工作平等法](../Page/性別工作平等法.md "wikilink")》，保障教育和工作領域不得有性別、性傾向之差別待遇。在2011年《[性別平等教育法](../Page/性別平等教育法.md "wikilink")》修正條文中，實施「性別平等教育」，以教育方式教導尊重[多元性別](../Page/多元性別.md "wikilink")（指性別除[生理性別外](https://zh.wikipedia.org/wiki/生理性別 "wikilink")，還包括[性傾向](https://zh.wikipedia.org/wiki/性傾向 "wikilink")、[性別特質](https://zh.wikipedia.org/wiki/性別_\(文化\) "wikilink")、[性別認同](../Page/性別認同.md "wikilink")）差異，消除[性別歧視](https://zh.wikipedia.org/wiki/性別歧視 "wikilink")，促進性別地位實質平等。2015年通過「長期照顧服務法」，將[長期照護納入反性傾向歧視範疇](../Page/長期照護.md "wikilink")。2016年[民進黨為立法院多數後](https://zh.wikipedia.org/wiki/民進黨 "wikilink")，涉婚姻平權的民法修正案，在[立法院被提上議程](../Page/立法院.md "wikilink")，獲多數立委主持。臺灣[司法院大法官於](../Page/司法院大法官.md "wikilink")2017年5月24日釋憲，[中華民國民法第](https://zh.wikipedia.org/wiki/中華民國民法 "wikilink")4編親屬第2章婚姻規定違憲，要求兩年內修正或制定相關保障同性婚姻法律，使臺灣有機會成為亞洲第一個承認同性婚姻的地区。
+在反歧視法方面，分別在2003年和2007年制定了《[性別平等教育法](../Page/性別平等教育法.md "wikilink")》和《[性別工作平等法](../Page/性別工作平等法.md "wikilink")》，保障教育和工作領域不得有性別、性傾向之差別待遇。在2011年《[性別平等教育法](../Page/性別平等教育法.md "wikilink")》修正條文中，實施「性別平等教育」，以教育方式教導尊重[多元性別](../Page/多元性別.md "wikilink")（指性別除[生理性別外](https://zh.wikipedia.org/wiki/生理性別 "wikilink")，還包括[性傾向](https://zh.wikipedia.org/wiki/性傾向 "wikilink")、[性別特質](https://zh.wikipedia.org/wiki/性別_\(文化\) "wikilink")、[性別認同](../Page/性別認同.md "wikilink")）差異，消除[性別歧視](https://zh.wikipedia.org/wiki/性別歧視 "wikilink")，促進性別地位實質平等。2015年通過「長期照顧服務法」，將[長期照護納入反性傾向歧視範疇](../Page/長期照護.md "wikilink")。2016年[民進黨為立法院多數後](https://zh.wikipedia.org/wiki/民進黨 "wikilink")，涉婚姻平權的民法修正案，在[立法院被提上議程](../Page/立法院.md "wikilink")，獲多數立委主持。臺灣[司法院大法官於](../Page/司法院大法官.md "wikilink")2017年5月24日釋憲，[中華民國民法第](https://zh.wikipedia.org/wiki/中華民國民法 "wikilink")4編親屬第2章婚姻規定違憲，要求兩年內修正或制定相關保障同性婚姻法律。
 
 根據一份2014年的研究，臺灣社會普遍接納同志，不會因其性別而拒絕他們交友、求職等權利，多數反對對同志的種種[刻板印象](../Page/刻板印象.md "wikilink")。然而問及若自己子女是同志時，其意見則明顯保留\[7\]。2012年《臺灣社會變遷基本調查計畫》指出55%受訪者贊成應立法保障同志合法結婚權，37%反對\[8\]，其中以年輕族群對於[婚姻平權特別支持](../Page/臺灣同性婚姻.md "wikilink")。\[9\]\[10\]
 
@@ -30,8 +30,8 @@
 | 反歧視法適用於商品及服務法規                                                               | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                                    |
 | 反歧視法適用於所有其他領域（包括：間接歧視、[仇恨言論](https://zh.wikipedia.org/wiki/仇恨言論 "wikilink")） | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                                    |
 | 家庭暴力適用同居關係                                                                   | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")                                                                                                           |
-| 同性婚姻                                                                         | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") （已進入立法程序）                                                                                                 |
-| 承認同性間的伴侶關係                                                                   | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")/[Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") 部分縣市接受同性伴侶在戶籍系統中以註記方式載明伴侶關係 |
+| 同性婚姻                                                                         | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")                                                                                                           |
+| 承認同性間的伴侶關係                                                                   | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg")/[X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg") 部分縣市接受同性伴侶在戶籍系統中以註記方式載明伴侶關係 |
 | 同性伴侶可共同撫養                                                                    | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                                    |
 | LGBT群體可公開從軍服役                                                                | [Yes_check.svg](https://zh.wikipedia.org/wiki/File:Yes_check.svg "fig:Yes_check.svg") (自1994年)                                                                                                  |
 | 女同性戀進行體外受精之合法管道                                                              | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                                    |
@@ -71,6 +71,9 @@
     校方不服提出上訴。\[31\]
   - 2016年10月29日，臺灣的同志遊行當天，臺北市政府高調掛起[彩虹旗](../Page/彩虹旗.md "wikilink")，桃園市政府亦於遊行前一晚把外牆亮起彩虹色支示支持。\[32\]
   - 2017年，司法院憲法法庭舉辦公開言詞辯論；第748號解釋文，裁定民法無法保障同性婚姻為違憲。\[33\]\[34\]\[35\]\[36\]
+  - 2018年，反同的下一代幸福聯盟所提出的公投第10案【婚姻定義公投】、第11案【適齡性平教育公投】、第12案【同性專法公投】均通過，挺同的平權前夕，彩虹起義所提出的公投第14案【民法保障同性婚姻】、公投第15案【國中小性別平等教育明定入法】均不通過。
+  - 2019年2月21日，行政院依據司法院釋字第748號解釋以及公投第12案【同性專法公投】之公投結果，提出《**司法院釋字第七四八號解釋施行法草案**》以特別法形式保障同性別二人婚姻自由，同年5月17日，立法院通過民進黨團對行政院版草案之修正動議，以66票贊成，27票反對將《**司法院釋字第七四八號解釋施行法**》三讀通過，同年5月22日經總統公布，並自同年5月24日生效。
+  - 2019年4月2日，教育部將性別平等教育法施行細則第13條之同志教育課程修正為認識及尊重不同性別、性別特徵、性別特質、性別認同、性傾向教育，及性侵害、性騷擾、性霸凌防治教育，以回應公投第11案【適齡性平教育公投】之公投結果。
 
 ## 同性性行為合法性
 
@@ -90,7 +93,9 @@
 
 2016年10月，第14屆[臺灣同志遊行前夕](https://zh.wikipedia.org/wiki/臺灣同志遊行 "wikilink")，婚姻平權議題再度受到討論，立法院包含民進黨、國民黨、時代力量在內部分立委宣告將再次推動婚姻平權法案\[45\]，[總統](../Page/中華民國總統.md "wikilink")[蔡英文亦在個人臉書首度以總統身分表達支持態度](../Page/蔡英文.md "wikilink")，並尊重立法院的決議\[46\]。同時在民進黨內部，已通過中央黨部黨務工作人員服務辦法，若黨工和其伴侶為縣市戶政註記中「同性伴侶」關係，可適用服務辦法「配偶」、「婚姻」及「家庭成員」權利條文\[47\]。
 
-2017年3月24日，[司法院大法官召開憲法法庭](../Page/司法院大法官.md "wikilink")，就聲請人[祁家威及](../Page/祁家威.md "wikilink")[臺北市政府所提之釋憲案](../Page/臺北市政府.md "wikilink")，進行言詞辯論。\[48\][司法院大法官於](../Page/司法院大法官.md "wikilink")2017年5月24日釋憲，[民法](https://zh.wikipedia.org/wiki/中華民國民法 "wikilink")972條違憲，要求兩年內修正或制定相關保障同性婚姻法律，使臺灣有機會成為亞洲第一個承認同性婚姻的國家。
+2017年3月24日，[司法院大法官召開憲法法庭](../Page/司法院大法官.md "wikilink")，就聲請人[祁家威及](../Page/祁家威.md "wikilink")[臺北市政府所提之釋憲案](../Page/臺北市政府.md "wikilink")，進行言詞辯論。\[48\][司法院大法官於](../Page/司法院大法官.md "wikilink")2017年5月24日釋憲，[民法](https://zh.wikipedia.org/wiki/中華民國民法 "wikilink")972條違憲，要求兩年內修正或制定相關保障同性婚姻法律。
+
+2019年5月17日，《**司法院釋字第七四八號解釋施行法**》三讀通過，同年5月22日經總統公布，並自同年5月24日生效，使中華民國成為亞洲第一個全國性承認同性婚姻的國家。
 
 各縣市開放受理同性伴侶註記時程：
 
@@ -228,10 +233,6 @@ NCC於2012年通過《廣電媒體製播涉及性別相關內容指導原則》�
   - [臺灣同志遊行](https://zh.wikipedia.org/wiki/臺灣同志遊行 "wikilink")
   - [校園同志甦醒日](../Page/校園同志甦醒日.md "wikilink")
 
-## 外部連結
-
-  - [臺灣LGBT組織官方網站](http://itaiwan.lgbt)
-
 ## 註釋
 
 ## 參考文獻
@@ -239,6 +240,10 @@ NCC於2012年通過《廣電媒體製播涉及性別相關內容指導原則》�
 <div style="height:250px; overflow:auto;">
 
 </div>
+
+## 外部連結
+
+  - [臺灣LGBT組織官方網站](https://web.archive.org/web/20181230141257/http://itaiwan.lgbt/)
 
 [分類:台灣LGBT權益](https://zh.wikipedia.org/wiki/分類:台灣LGBT權益 "wikilink")
 [分類:台灣人權](https://zh.wikipedia.org/wiki/分類:台灣人權 "wikilink")

@@ -36,7 +36,7 @@ Explorer 9及](../Page/Internet_Explorer_9.md "wikilink")[Mozilla Firefox
 ## 外部連結
 
   - [Blog of Direct2D Lead Developer Thomas
-    Olsen](http://blogs.technet.com/thomasolsen/default.aspx)
+    Olsen](https://web.archive.org/web/20090216192618/http://blogs.technet.com/thomasolsen/default.aspx)
   - [Blog of Direct2D Developer Tom
     Mulcahy](http://blogs.msdn.com/tmulcahy/)
   - [Direct2D White

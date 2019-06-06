@@ -1,5 +1,5 @@
 **崔勝鉉**（，，），韓國Rapper 、男歌手、演員、詞曲創作者
-，[藝名](../Page/藝名.md "wikilink")**T.O.P**，是[YG娛樂旗下男子團體](../Page/YG娛樂.md "wikilink")[BIGBANG成員之一](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，在組合中擔任的職務是主Rapper及低音副主唱。2017年2月9日入伍，並於2019年6月27日退伍
+，[藝名](../Page/藝名.md "wikilink")**T.O.P**，是[YG娛樂旗下男子團體](../Page/YG娛樂.md "wikilink")[BIGBANG成員之一](https://zh.wikipedia.org/wiki/BIGBANG "wikilink")，在組合中擔任的職務是主Rapper及低音副主唱。2017年2月9日入伍，並於2019年7月8日退伍
 
 ## 音樂
 

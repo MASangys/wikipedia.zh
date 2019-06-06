@@ -130,8 +130,7 @@ HD2**的前導系統，功能類似於電腦的[BIOS](../Page/BIOS.md "wikilink"
 1.  [PDAdb.net - HTC HD2
     specifications](http://www.pdadb.net/index.php?m=specs&id=1783)
 
-2.  [HTC Unveils First Windows Phone with HTC Sense, the HTC
-    HD2](http://www.htc.com/www/press.aspx?id=112668&lang=1033)
+2.
 
 3.  [HTC's Peter Chou Promises an HTC HD2 to America by
     Q1 2010](http://htcpedia.com/news/htc-peter-chou-promises-htc-hd2-america-2010-q1.html)
@@ -146,7 +145,7 @@ HD2**的前導系統，功能類似於電腦的[BIOS](../Page/BIOS.md "wikilink"
 6.
 
 7.
-8.  <http://www.intomobile.com/2010/03/01/windows-phone-7-series-not-coming-to-windows-mobile-phones-not-even-htc-hd2/>
+8.
 
 9.  <http://www.ubergizmo.com/2015/01/htc-hd2-get-android-5-0-lollipop-port/>
 

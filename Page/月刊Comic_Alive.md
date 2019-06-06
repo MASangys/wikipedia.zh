@@ -1,12 +1,12 @@
-《**月刊Comic Alive**》（）是[Media
-Factory的](../Page/Media_Factory.md "wikilink")[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。2006年6月27日創刊。毎月27日發售。
+是[KADOKAWA](../Page/KADOKAWA.md "wikilink")（[ASCII Media
+Works](../Page/ASCII_Media_Works.md "wikilink")）發行的[漫畫雜誌](../Page/漫畫雜誌.md "wikilink")。2006年6月27日創刊。毎月27日發售。
 除了漫畫原創作品外，亦有刊載「[MF文庫J](../Page/MF文庫J.md "wikilink")」上所刊載的小說之漫畫版。原創作品「[瑪莉亞狂熱](../Page/瑪莉亞狂熱.md "wikilink")」（[遠藤海成](../Page/遠藤海成.md "wikilink")）、「[輕聲密語](../Page/輕聲密語.md "wikilink")」（[池田學志](https://zh.wikipedia.org/wiki/池田學志 "wikilink")）已經電視動畫化。
 
 該雜誌的連載漫畫中文版幾乎都是授權給[尖端出版](../Page/尖端出版.md "wikilink")\[1\]，授權區域：台灣、[港澳](https://zh.wikipedia.org/wiki/港澳 "wikilink")、[新加坡與](../Page/新加坡.md "wikilink")[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")\[2\]。
 
 ## 連載中作品
 
-作品名以五十音順序排序。 *更新至2012年7月27日*
+作品名以五十音順序排序。（*更新至2012年7月27日*）
 
 ### 漫畫原創作品
 
@@ -16,8 +16,7 @@ Factory的](../Page/Media_Factory.md "wikilink")[漫畫雜誌](../Page/漫畫雜
   - [授業到天明chu\!](https://zh.wikipedia.org/wiki/授業到天明chu! "wikilink")（×）
 
   - [Sai Taker
-    -二人的阿蒂米斯-](https://zh.wikipedia.org/wiki/Sai_Taker_-二人的阿蒂米斯- "wikilink")（原作：[林達永](https://zh.wikipedia.org/wiki/林達永 "wikilink")
-    作画：[李秀顯](https://zh.wikipedia.org/wiki/李秀顯 "wikilink")）
+    -二人的阿蒂米斯-](https://zh.wikipedia.org/wiki/Sai_Taker_-二人的阿蒂米斯- "wikilink")（原作：[林達永](https://zh.wikipedia.org/wiki/林達永 "wikilink")，作画：[李秀顯](https://zh.wikipedia.org/wiki/李秀顯 "wikilink")）
 
   - [セブンシスターズ](https://zh.wikipedia.org/wiki/セブンシスターズ_\(漫画\) "wikilink")（[藤岡とき](https://zh.wikipedia.org/wiki/藤岡とき "wikilink")）
 
@@ -41,7 +40,8 @@ Factory的](../Page/Media_Factory.md "wikilink")[漫畫雜誌](../Page/漫畫雜
 
   - [溫泉物語](https://zh.wikipedia.org/wiki/ゆめくり "wikilink")（[博](../Page/博.md "wikilink")）
 
-  - [你的名字。](../Page/你的名字。.md "wikilink") (原作: 新海诚, 作画: 琴音兰丸)
+  - [你的名字。](../Page/你的名字。.md "wikilink")
+    （原作：[新海誠](../Page/新海誠.md "wikilink")，作画：琴音兰丸）
 
 ### 多媒體跨平台作品
 
@@ -231,7 +231,7 @@ Factory的](../Page/Media_Factory.md "wikilink")[漫畫雜誌](../Page/漫畫雜
 
   - [月刊Comic
     Alive官方網站](http://www.mediafactory.co.jp/comic-alive/index.php)
-  - [Comic Alive編輯部　部落格](http://medimo.tv/blog/comicalive/)
+  - [Comic Alive編輯部部落格](http://medimo.tv/blog/comicalive/)
 
 [Category:日本漫畫雜誌](https://zh.wikipedia.org/wiki/Category:日本漫畫雜誌 "wikilink")
 [Category:青年漫畫雜誌](https://zh.wikipedia.org/wiki/Category:青年漫畫雜誌 "wikilink")

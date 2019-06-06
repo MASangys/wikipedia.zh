@@ -99,8 +99,7 @@ Phobic共同開發的遊戲](https://zh.wikipedia.org/wiki/Team_Phobic "wikilink
     profile](http://www.linkedin.com/companies/backflip-studios)
 2.  [Touch Arcade Backflip Studios Success and Upcoming
     Games](http://toucharcade.com/2010/06/10/wwdc-2010-backflip-studios-success-and-upcoming-games)
-3.  [game backflip raises
-    money](http://moconews.net/article/419-iphone-game-developer-backflip-studios-raises-145000-/moconews)
+3.
 4.  [Pocket Gamer Backflip builds on Paper Toss'
     success](http://www.pocketgamer.biz/r/PG.Biz/Backflip+Studios+news/news.asp?c=22754)
 5.  [Pocket Gamer Ragdoll Blaster

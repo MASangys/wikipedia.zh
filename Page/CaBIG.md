@@ -27,7 +27,7 @@ Grid，癌症生物医学信息网格）是一个[开放源码](https://zh.wikip
 
 ## 相关条目
 
-  - [caCORE](https://cabig.nci.nih.gov/tools/concepts/caCORE_overview)\[2\]
+  - [caCORE](https://web.archive.org/web/20110721012253/https://cabig.nci.nih.gov/tools/concepts/caCORE_overview)\[2\]
   - [caGrid](https://zh.wikipedia.org/wiki/caGrid "wikilink")
 
 ## 参考资料

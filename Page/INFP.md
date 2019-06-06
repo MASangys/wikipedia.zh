@@ -28,7 +28,7 @@ INFP大概占人口的1%-5%。\[2\]\[3\]
 
 ### 其他描述
 
-INFP们有礼貌且有所保留的外在，可能在一开始让他们难以了解。他们喜欢谈话，尤其是在话题不寻常的时候。当INFP们想参与社交的时候，他们的幽默感和魅力自始至终都会闪耀。倾向于喜欢别人且尽量避免冲突，INFP们倾向于是令人感到轻松的同伴。
+INFP们有礼貌且有所保留的外在，可能在一开始让他们难以被了解。他们喜欢谈话，尤其是在话题不寻常的时候。当INFP们想参与社交的时候，他们的幽默感和魅力自始至终都会闪耀。倾向于喜欢别人且尽量避免冲突，INFP们是令人感到轻松的同伴。
 
 深爱于那些能进入他们内心圈子的人，INFP们保护着他人的感情安宁，抚慰那些处于压力下的人。被他们渴望和谐的天性指引着，INFP们倾向于通情达理，除非他们的道德观受到了违犯。然后，他们将会充满激情地为他们的信念辩护。通过机智、策略以及看到问题不止一面的能力，他们可以改变他人所持的观点。
 
@@ -83,7 +83,7 @@ Te组织、安排环境和想法，好成功达成目标。Te寻求行动、事�
 ## 外部链接
 
   - [The Myers & Briggs Foundation: The 16 MBTI
-    Types](http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
+    Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
   - [豆瓣INFP小组](http://www.douban.com/group/INFP/)
   - [PersonalityDesk: INFP
     Profile](https://web.archive.org/web/20100316151949/http://www.personalitydesk.com/infp-type-description.php)
@@ -108,8 +108,7 @@ Te组织、安排环境和想法，好成功达成目标。Te寻求行动、事�
 
 9.
 
-10. [Myers-Briggs
-    INFP](http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp#INFP)
+10.
 
 11.
 12.

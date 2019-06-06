@@ -581,7 +581,7 @@ Storm和其衍生型亦登場於多隻[电影](../Page/电影.md "wikilink")、[
 4.  <http://www.noticiasjudiciales.info/Noticias_del_Dia/Compraran_1500_pistolas_Beretta_para_la_Policia_Metropolitana>
 5.
 6.  <http://tinypic.com/view.php?pic=t56k3k&s=6#.Vrhae_l96M8>
-7.  <http://www.geo-army.ge/index.php?option=com_content&view=article&id=819%3A-26052014-&catid=46%3A2&lang=en>
+7.
 8.  <http://www.unimondo.org/Notizie/L-Italia-ha-inviato-11mila-Beretta-semiautomatici-al-regime-di-Gheddafi-129476>
 9.
 10. <http://www.cmjornal.xl.pt/noticia.aspx?channelid=00000010-0000-0000-0000-000000000010&contentid=00247628-3333-3333-3333-000000247628>

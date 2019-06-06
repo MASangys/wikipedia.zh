@@ -3,7 +3,7 @@ Blues**》（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：），[
 
 ## 簡介
 
-[演員出道演出](https://zh.wikipedia.org/wiki/演員 "wikilink")[TBS系](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《[3年B組金八先生](../Page/3年B組金八先生.md "wikilink")》一炮而紅的[近藤真彥](https://zh.wikipedia.org/wiki/近藤真彥 "wikilink")，在1980年12月作為歌手出道發行這張單曲，《Sneaker
+[演員出道演出](../Page/演員.md "wikilink")[TBS系](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《[3年B組金八先生](../Page/3年B組金八先生.md "wikilink")》一炮而紅的[近藤真彥](https://zh.wikipedia.org/wiki/近藤真彥 "wikilink")，在1980年12月作為歌手出道發行這張單曲，《Sneaker
 Blues》同時被用作近藤主演的[電影](https://zh.wikipedia.org/wiki/電影 "wikilink")《[青春塗鴉
 Sneaker
 Blues](https://zh.wikipedia.org/wiki/青春塗鴉_Sneaker_Blues "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。\[1\]

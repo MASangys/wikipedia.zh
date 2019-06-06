@@ -5,12 +5,14 @@
 
 ## 外部連結
 
-  - [官方主页](http://jmule.org/)
+  - [官方主页](https://web.archive.org/web/20090206155220/http://jmule.org/)
   - [Sourceforge项目页](http://sourceforge.net/projects/jmule/)
-  - [官方论坛](http://forum.jmule.org/)
-  - [JMule截图](http://jmule.org/?page=screenshots)
-  - [JMule nightly build](http://jmule.org/?page=nightlybuild)
-  - [JMule on eMule Fans](http://emulefans.com/tag/jmule/)
+  - [官方论坛](https://web.archive.org/web/20110726205443/http://forum.jmule.org/)
+  - [JMule截图](https://web.archive.org/web/20110128080812/http://jmule.org/?page=screenshots)
+  - [JMule nightly
+    build](https://web.archive.org/web/20110726205917/http://jmule.org/?page=nightlybuild)
+  - [JMule on eMule
+    Fans](https://web.archive.org/web/20101122060608/http://emulefans.com/tag/jmule/)
 
 [Category:自由檔案分享軟體](https://zh.wikipedia.org/wiki/Category:自由檔案分享軟體 "wikilink")
 [Category:用Java編程的自由軟體](https://zh.wikipedia.org/wiki/Category:用Java編程的自由軟體 "wikilink")

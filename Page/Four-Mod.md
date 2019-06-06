@@ -295,4 +295,4 @@ Four-Mod (โฟร์-มด)
 </tbody>
 </table>
 
-[Category:泰國歌手](https://zh.wikipedia.org/wiki/Category:泰國歌手 "wikilink")
+[Category:泰國女子演唱團體](https://zh.wikipedia.org/wiki/Category:泰國女子演唱團體 "wikilink")

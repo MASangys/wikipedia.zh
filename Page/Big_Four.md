@@ -129,7 +129,6 @@ The **Big Four**
 <li>Big One （梁漢文）</li>
 <li>勁抽 （蘇永康）</li>
 <li>冰山一對 （許志安）</li>
-<li>騎士道 （鄭曉健）</li>
 </ol>
 <p>DVD</p>
 <ol>
@@ -450,7 +449,7 @@ Big Four第一次在<a href="https://zh.wikipedia.org/wiki/台灣" title="wikili
 | ----------- | --------------------------------------------------------------------------------------------- | --------------- |
 | 2010年6月27日  | [TVB](../Page/電視廣播有限公司.md "wikilink") - [超級遊戲獎門人](../Page/超級遊戲獎門人.md "wikilink")              | 第10集嘉賓          |
 | 2011年3月6日   | [TVB](../Page/電視廣播有限公司.md "wikilink") - [華麗明星賽](../Page/華麗明星賽.md "wikilink")                  | 第2集《Big 4大挑戰》嘉賓 |
-| 2010年6月26日  | [無線生活台](../Page/TVB_Good_Show台.md "wikilink") - [Big 4大四喜](../Page/Big_4大四喜.md "wikilink")    | 節目主持            |
+| 2010年6月26日  | [無綫生活台](../Page/TVB_Good_Show台.md "wikilink") - [Big 4大四喜](../Page/Big_4大四喜.md "wikilink")    | 節目主持            |
 | 2015年10月24日 | [TVB](../Page/電視廣播有限公司.md "wikilink") - [閨密教煮](../Page/閨密教煮.md "wikilink")                    | 第1集嘉賓           |
 | 2016年12月11日 | [TVB](../Page/電視廣播有限公司.md "wikilink") - [我愛香港](https://zh.wikipedia.org/wiki/我愛香港 "wikilink") | 第17集嘉賓          |
 

@@ -377,8 +377,8 @@ Gruppe）進行印度洋和太平洋的攻擊；而另外兩艘的[U-1060與](ht
     (USA): Naval Institute Press. ISBN 1-55750-828-3.
 
 [Category:德國潛艦](https://zh.wikipedia.org/wiki/Category:德國潛艦 "wikilink")
-[Category:傳統動力潛艦](https://zh.wikipedia.org/wiki/Category:傳統動力潛艦 "wikilink")
 [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
+[Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")
 
 1.
 

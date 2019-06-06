@@ -140,7 +140,8 @@ If You're Crazy》被提前洩漏。
 
 ## 站外連結
 
-  - [Official website](http://thisisdrugs.com/)
+  - [Official
+    website](https://web.archive.org/web/20111123213823/http://thisisdrugs.com/)
 
 [Category:美國搖滾樂團](https://zh.wikipedia.org/wiki/Category:美國搖滾樂團 "wikilink")
 [Category:後硬蕊樂團](https://zh.wikipedia.org/wiki/Category:後硬蕊樂團 "wikilink")

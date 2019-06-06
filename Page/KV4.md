@@ -49,15 +49,12 @@ KV4
 ## 外部連結
 
   - [Theban Mapping Project:
-    KV4](http://www.thebanmappingproject.com/sites/browse_tomb_818.html)
+    KV4](https://web.archive.org/web/20090410042848/http://www.thebanmappingproject.com/sites/browse_tomb_818.html)
     - Includes description, images and plans of the tomb.
 
 [Category:帝王谷](https://zh.wikipedia.org/wiki/Category:帝王谷 "wikilink")
 [Category:古埃及墓葬](https://zh.wikipedia.org/wiki/Category:古埃及墓葬 "wikilink")
 
-1.  [Theban Mapping Project,
-    KV4](http://www.thebanmappingproject.com/sites/browse_tomb_818.html)
-2.  [Theban Mapping Project,
-    KV4](http://www.thebanmappingproject.com/sites/browse_tomb_818.html)
-3.  [Theban Mapping Project,
-    KV4](http://www.thebanmappingproject.com/sites/browse_tomb_818.html)
+1.
+2.
+3.

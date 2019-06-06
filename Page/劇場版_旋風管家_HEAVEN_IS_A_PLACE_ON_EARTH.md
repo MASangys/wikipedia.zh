@@ -83,7 +83,7 @@ FINAL](../Page/魔法老師_\(動畫\).md "wikilink")》一同放映。\[2\]\[3\
 ## 外部連結
 
   - [劇場版 旋風管家 HEAVEN IS A PLACE ON EARTH
-    官方網站](http://www.hayate-project.com/movie/index.html)
+    官方網站](https://web.archive.org/web/20130129083320/http://www.hayate-project.com/movie/index.html)
 
   -
 <!-- end list -->

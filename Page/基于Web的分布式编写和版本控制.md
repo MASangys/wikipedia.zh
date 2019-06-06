@@ -53,17 +53,13 @@ WebDAV扩展了[request方法所允许的标准HTTP谓词和HTTP头](https://zh.
 ### 客户端支持
 
   - [Git支持写入HTTP远端](../Page/Git.md "wikilink")，尽管需要特殊服务器支持的HTTP的“智能”Git协议已经成为WebDAV的首选协议
-
   - [Linux通过](../Page/Linux.md "wikilink")[GVfs](https://zh.wikipedia.org/wiki/GVfs "wikilink")（包括[GNOME文件](../Page/Nautilus檔案瀏覽器.md "wikilink")）或通过[KIO](https://zh.wikipedia.org/wiki/KIO "wikilink")（包括[Konqueror和](../Page/Konqueror.md "wikilink")[Dolphin](../Page/Dolphin_\(軟體\).md "wikilink")）支持WebDAV
-
   - [macOS对](https://zh.wikipedia.org/wiki/macOS "wikilink")[CalDAV和](https://zh.wikipedia.org/wiki/CalDAV "wikilink")[CardDAV有原生支持](https://zh.wikipedia.org/wiki/CardDAV "wikilink")，其设计基于WebDAV
-
   - [Microsoft
     Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，其[Explorer有原生支持](../Page/檔案總管.md "wikilink")
-
   - [Microsoft Office](../Page/Microsoft_Office.md "wikilink")
+  - [WebDAV软件比较](../Page/WebDAV软件比较.md "wikilink")
 
-  -
 ## 参见
 
   - [內容管理](https://zh.wikipedia.org/wiki/內容管理 "wikilink")

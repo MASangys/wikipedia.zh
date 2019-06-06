@@ -36,6 +36,6 @@ Visual**是[澳大利亞一家娛樂影視](https://zh.wikipedia.org/wiki/澳大
 
   - [Siren Visual 官方網頁](http://www.sirenvisual.com.au/)
   - [Siren Visual
-    公司簡介](http://www.animenewsnetwork.com.au/press-release/2009-05-01/siren-visual-breathes-new-life-into-anime-in-australia)
+    公司簡介](https://web.archive.org/web/20100815063032/http://www.animenewsnetwork.com.au/press-release/2009-05-01/siren-visual-breathes-new-life-into-anime-in-australia)
 
 [Category:澳大利亚公司](https://zh.wikipedia.org/wiki/Category:澳大利亚公司 "wikilink")

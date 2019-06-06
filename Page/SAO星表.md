@@ -21,8 +21,7 @@
     D.C., no. 4652, 4 vols., 1966 (reprinted 1971.)
 2.  [Webpage on the SAO star
     catalog](http://tdc-www.harvard.edu/catalogs/sao.html)
-3.  [More on the SAO star
-    catalog](http://www.to.astro.it/astrometry/Astrometry/DIRA2/DIRA2_doc/SAO/SAO.HTML)
+3.
 4.  Detection of rings around Uranus, R. L. Millis, L. H. Wasserman, and
     P. V. Birch,
     *[Nature](https://zh.wikipedia.org/wiki/Nature_\(journal\) "wikilink")*

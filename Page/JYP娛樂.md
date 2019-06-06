@@ -537,7 +537,7 @@ Music合作](https://zh.wikipedia.org/wiki/Sony_Music "wikilink")，展開「Niz
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/金東希.md" title="wikilink">金東希</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><strong>女演員</strong></p></td>
@@ -613,8 +613,8 @@ Cho Hye Won</p></td>
 Ok Jim Wook</p></td>
 <td><p>韓頤穎<br />
 Han Shin Young</p></td>
-<td><p>尹瑞彬<br />
-Yun Seo Bin</p></td>
+<td><p><br />
+</p></td>
 <td><p><br />
 </p></td>
 <td><p><br />
@@ -760,7 +760,7 @@ Yun Seo Bin</p></td>
       - [朴佑鎮](../Page/朴佑鎮.md "wikilink")
       - [李大輝](../Page/李大輝.md "wikilink")
       - [金東賢](../Page/金東賢.md "wikilink")
-      - [全雄](../Page/全雄.md "wikilink")
+      - [田雄](https://zh.wikipedia.org/wiki/田雄 "wikilink")
   - [A.C.E](https://zh.wikipedia.org/wiki/A.C.E "wikilink")
       - 金柄官
       - 康裕瓚
@@ -782,7 +782,7 @@ Yun Seo Bin</p></td>
       - 禹眞榮
   - [Golden Child](../Page/Golden_Child.md "wikilink")
       - 裴勝民
-  - [Highlight](https://zh.wikipedia.org/wiki/Highlight_\(韓國組合\) "wikilink")
+  - [Highlight](../Page/Highlight_\(韓國組合\).md "wikilink")
       - [尹斗俊](../Page/尹斗俊.md "wikilink")
       - [梁耀燮](../Page/梁耀燮.md "wikilink")
       - [李起光](../Page/李起光.md "wikilink")
@@ -977,6 +977,10 @@ Yun Seo Bin</p></td>
       - 林代憲
   - 《[PRODUCE X 101](../Page/PRODUCE_X_101.md "wikilink")》
       - 黃金率
+      - 尹瑞彬
+      - 李美談
+      - 姜碩華
+      - Steven Kim
   - 《[SIXTEEN](https://zh.wikipedia.org/wiki/SIXTEEN "wikilink")》
       - 宋敏英
       - 金恩序（《[偶像學校](https://zh.wikipedia.org/wiki/偶像學校 "wikilink")》）

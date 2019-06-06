@@ -94,7 +94,7 @@ Netflix在2014年11月19日宣佈，《[西鎮警魂](https://zh.wikipedia.org/w
 
 ##### 香港
 
-2016年1月7日，Netflix正式在香港上線。2019年4月5日，[無綫電視宣布劇集](https://zh.wikipedia.org/wiki/無綫電視 "wikilink")《[鐵探](https://zh.wikipedia.org/wiki/鐵探 "wikilink")》在香港播映完畢後在Netflix上架，成為首套香港及無綫電視劇集於Netflix上架。
+2016年1月7日，Netflix正式在香港上線。2018年2月2日，網絡劇集《[反黑](https://zh.wikipedia.org/wiki/反黑 "wikilink")》在香港播映完畢後在Netflix上架，成為首套香港網絡劇集於Netflix上架；同年12月22日，由[Astro投資的原創恐怖懸疑推理電視劇](../Page/Astro集團.md "wikilink")《》，在同年8月11日起於[馬來西亞](https://zh.wikipedia.org/wiki/馬來西亞 "wikilink")[Astro華麗台播映完畢後在Netflix上架](../Page/Astro華麗台.md "wikilink")；2019年4月30日，[HMV數碼中國集團原創網絡劇集](../Page/HMV數碼中國集團.md "wikilink")《》在同年4月18日於[hmvod推出後在Netflix上架](../Page/HMV數碼中國集團.md "wikilink")，成為首套[hmvod網絡劇集於Netflix上架](../Page/HMV數碼中國集團.md "wikilink")；同年5月10日，[電視廣播有限公司於同年](../Page/電視廣播有限公司.md "wikilink")4月8日宣布與[企鵝影視合拍劇集](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")《[鐵探](https://zh.wikipedia.org/wiki/鐵探 "wikilink")》在香港播映完畢後在Netflix上架，成為首套無綫電視劇集於Netflix上架。
 
 ##### 臺灣
 

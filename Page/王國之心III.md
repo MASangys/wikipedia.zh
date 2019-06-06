@@ -2,7 +2,7 @@
 4與](../Page/PlayStation_4.md "wikilink")[Xbox
 One](../Page/Xbox_One.md "wikilink")。
 
-## 發展
+## 開發
 
 製作團隊於2013年6月11日的E3發布展中發布了有關《王國之心III》的預告片，在預告片末，有「正在製作中」的字眼，卻未有任何與發售日期的消息，但可知《王國之心III》確實在製作中，平台為[PlayStation
 4和](../Page/PlayStation_4.md "wikilink")[Xbox
@@ -17,8 +17,6 @@ Hero 6）将首次在《王國之心III》中出场\[3\]。
 
 2017年則在D23
 EXPO上宣布將會加入《[玩具總動員](https://zh.wikipedia.org/wiki/玩具總動員 "wikilink")》的世界\[4\]。
-
-## 開發
 
 ### 音樂
 

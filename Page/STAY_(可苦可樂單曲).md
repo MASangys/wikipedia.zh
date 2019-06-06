@@ -4,7 +4,7 @@
 
 前作《[彩虹](../Page/彩虹_\(可苦可樂單曲\).md "wikilink")》約3個月之後發行。作為[專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")《[CALLING](../Page/CALLING_\(可苦可樂專輯\).md "wikilink")》的先行單曲。
 
-[PV在](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[上田市拍攝](../Page/上田市.md "wikilink")。女[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")[石川紗彩出演了PV](https://zh.wikipedia.org/wiki/石川紗彩 "wikilink")。
+[PV在](https://zh.wikipedia.org/wiki/音樂錄像帶 "wikilink")[長野縣](https://zh.wikipedia.org/wiki/長野縣 "wikilink")[上田市拍攝](../Page/上田市.md "wikilink")。女[演員](../Page/演員.md "wikilink")[石川紗彩出演了PV](https://zh.wikipedia.org/wiki/石川紗彩 "wikilink")。
 
 被用作[佐藤浩市主演的](../Page/佐藤浩市.md "wikilink")[TBS](https://zh.wikipedia.org/wiki/TBS電視 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/日本電視劇 "wikilink")《[官僚們的夏天](https://zh.wikipedia.org/wiki/官僚們的夏天 "wikilink")》的[主題曲](../Page/主題曲.md "wikilink")。\[1\]
 

@@ -53,7 +53,7 @@ X級潛艇原先被設計用以佈署新式的Schachtmine（SMA）[錨雷](../Pa
   - [uboat.net: U-boat types: XB](http://uboat.net/types/xb.htm)
 
 [Category:德國潛艦](https://zh.wikipedia.org/wiki/Category:德國潛艦 "wikilink")
-[Category:傳統動力潛艦](https://zh.wikipedia.org/wiki/Category:傳統動力潛艦 "wikilink")
 [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
+[Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")
 
 1.  Williamson，第53頁。

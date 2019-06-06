@@ -1,6 +1,5 @@
-在[类Unix系统中](../Page/类Unix系统.md "wikilink")，**/dev/loop**（或称**vnd**
-(vnode
-disk)、**lofi**（循环文件接口））是一种[伪设备](../Page/设备文件系统.md "wikilink")，这种设备使得[文件可以如同](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")[块设备一般被访问](../Page/设备文件系统.md "wikilink")。
+**/dev/loop**（或称**vnd** (vnode
+disk)、**lofi**（循环文件接口））在[类Unix系统中是一种](../Page/类Unix系统.md "wikilink")[伪设备](../Page/设备文件系统.md "wikilink")，这种设备使得[文件可以如同](https://zh.wikipedia.org/wiki/计算机文件 "wikilink")[块设备一般被访问](../Page/设备文件系统.md "wikilink")。
 
 在使用之前，循环设备必须与现存文件系统上的文件相关联。这种关联将提供给用户一个[应用程序接口](../Page/应用程序接口.md "wikilink")，接口将允许文件视为块特殊文件（参见[设备文件系统](../Page/设备文件系统.md "wikilink")）使用。因此，如果文件中包含一个完整的[文件系统](../Page/文件系统.md "wikilink")，那么这个文件就能如同磁盘设备一般被[挂载](https://zh.wikipedia.org/wiki/挂载 "wikilink")。
 

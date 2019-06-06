@@ -1,5 +1,5 @@
 **TMS娛樂有限公司**（[日語](https://zh.wikipedia.org/wiki/日語 "wikilink")：；[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")：TMS
-Entertainment），為[日本一家動畫製作發行公司](../Page/日本.md "wikilink")。前身為株式會社旭一編織（），以生產[人造纖維為主要業務](../Page/人造纖維.md "wikilink")；1995年併購[東京電影新社有限公司](https://zh.wikipedia.org/wiki/東京電影新社 "wikilink")（）股權，2000年改名營運至今。
+Entertainment），為[日本一家動畫製作發行公司](../Page/日本.md "wikilink")。前身為旭一編織（），以生產[人造纖維為主要業務](../Page/人造纖維.md "wikilink")；1995年併購[東京電影新社](https://zh.wikipedia.org/wiki/東京電影新社 "wikilink")（）[股權](https://zh.wikipedia.org/wiki/股權 "wikilink")，2000年改名營運至今。
 
 ## 歷史沿革
 

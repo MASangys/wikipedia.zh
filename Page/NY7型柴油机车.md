@@ -55,7 +55,7 @@ NY7型机车设有两套彼此独立的冷却水系统，两套V型结构的[散
 
 NY7型柴油机车装用两台由[MTU公司制造的](../Page/MTU腓德烈斯哈芬有限公司.md "wikilink")[MTU MA 12V
 956
-SB10型柴油机](../Page/MTU_956系列柴油机.md "wikilink")，该型柴油机是一款[四冲程](https://zh.wikipedia.org/wiki/四冲程循环 "wikilink")、[12气缸](../Page/V12发动机.md "wikilink")、[V型结构](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")、[直接喷射](https://zh.wikipedia.org/wiki/直接喷射 "wikilink")、[废气涡轮增压](../Page/渦輪增壓器.md "wikilink")、[中间冷却的高速柴油机](../Page/中冷器.md "wikilink")，气缸内径为230毫米，[活塞行程为](https://zh.wikipedia.org/wiki/冲程 "wikilink")230毫米，单缸排量为9.56升，气缸夹角为50°，[UIC标定功率为](../Page/國際鐵路聯盟.md "wikilink")2,700马力，装车功率为2,500马力，标定转速为每分钟1,500转。在输出端V型夹角上面布置着两台AGL-340型涡轮增压器，而另一端设有用于冷却增压空气的中冷器，其排气管与柴油机进气管相连。柴油机采用整体铸铁机体、特种铸铁湿式气缸套、钢顶铝裙组合式油冷[活塞](https://zh.wikipedia.org/wiki/活塞 "wikilink")、合金钢整体锻造[曲轴](https://zh.wikipedia.org/wiki/曲轴 "wikilink")、单体式铸铁[气缸盖](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")、合金钢模锻并列式连杆组、博世合成式高压喷油泵、圆片弹簧式减震器\[12\]。
+SB10型柴油机](../Page/MTU_956系列柴油机.md "wikilink")，该型柴油机是一款[四冲程](../Page/四冲程循环.md "wikilink")、[12气缸](../Page/V12发动机.md "wikilink")、[V型结构](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")、[直接喷射](https://zh.wikipedia.org/wiki/直接喷射 "wikilink")、[废气涡轮增压](../Page/渦輪增壓器.md "wikilink")、[中间冷却的高速柴油机](../Page/中冷器.md "wikilink")，气缸内径为230毫米，[活塞行程为](https://zh.wikipedia.org/wiki/冲程 "wikilink")230毫米，单缸排量为9.56升，气缸夹角为50°，[UIC标定功率为](../Page/國際鐵路聯盟.md "wikilink")2,700马力，装车功率为2,500马力，标定转速为每分钟1,500转。在输出端V型夹角上面布置着两台AGL-340型涡轮增压器，而另一端设有用于冷却增压空气的中冷器，其排气管与柴油机进气管相连。柴油机采用整体铸铁机体、特种铸铁湿式气缸套、钢顶铝裙组合式油冷[活塞](https://zh.wikipedia.org/wiki/活塞 "wikilink")、合金钢整体锻造[曲轴](https://zh.wikipedia.org/wiki/曲轴 "wikilink")、单体式铸铁[气缸盖](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")、合金钢模锻并列式连杆组、博世合成式高压喷油泵、圆片弹簧式减震器\[12\]。
 
 ### 传动系统
 

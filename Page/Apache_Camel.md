@@ -49,13 +49,11 @@ Router](http://fusesource.com/products/enterprise-camel/)。
     Refcard](http://refcardz.dzone.com/refcardz/enterprise-integration)
   - [Apache Camel JBI Service
     Engine](https://web.archive.org/web/20080915035805/http://wiki.open-esb.java.net/Wiki.jsp?page=CamelSE)
-  - [Apache
-    [Apache_Qpid](../Page/Apache_Qpid.md "wikilink")](http://cwiki.apache.org/qpid/)
+  - [Apache Apache Qpid](http://cwiki.apache.org/qpid/)
   - [Talend ESB based on Apache Camel](http://talend.com/)
-
-[分类:Java企业平台](https://zh.wikipedia.org/wiki/分类:Java企业平台 "wikilink")
 
 [Category:Apache软件基金会](https://zh.wikipedia.org/wiki/Category:Apache软件基金会 "wikilink")
 [Category:企业应用集成](https://zh.wikipedia.org/wiki/Category:企业应用集成 "wikilink")
 [Category:面向消息的中间件](https://zh.wikipedia.org/wiki/Category:面向消息的中间件 "wikilink")
 [Category:面向服务的架构](https://zh.wikipedia.org/wiki/Category:面向服务的架构 "wikilink")
+[Category:Java企业平台](https://zh.wikipedia.org/wiki/Category:Java企业平台 "wikilink")

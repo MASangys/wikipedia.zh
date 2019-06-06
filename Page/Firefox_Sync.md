@@ -18,7 +18,7 @@ Firefox](https://zh.wikipedia.org/wiki/Mozilla_Firefox "wikilink")
   - [Firefox Sync](https://www.mozilla.com/mobile/sync/)
   - [Firefox Mobile](https://www.mozilla.com/mobile/home/)
   - [Run your own Sync
-    Server](http://docs.services.mozilla.com/howtos/run-sync.html)
+    Server](https://web.archive.org/web/20150104090204/http://docs.services.mozilla.com/howtos/run-sync.html)
   - [Github page of iOS
     client](https://github.com/mozilla-services/ios-sync-client)
 

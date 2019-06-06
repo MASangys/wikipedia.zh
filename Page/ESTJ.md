@@ -75,7 +75,7 @@ Fe寻找社会上的联系，并用礼貌、体贴、得体的举止营造和谐
   - [TypeLogic ESTJ](http://typelogic.com/estj.html)
   - [Personality Page ESTJ](http://www.personalitypage.com/ESTJ.html)
   - [The Myers & Briggs Foundation: The 16 MBTI
-    Types](http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
+    Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
   - [PersonalityDesk: ESTJ
     Profile](https://web.archive.org/web/20090827111015/http://www.personalitydesk.com/estj-type-description.php)
 

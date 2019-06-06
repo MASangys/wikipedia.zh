@@ -349,7 +349,7 @@
 
 **[窩闊臺汗國](https://zh.wikipedia.org/wiki/窩闊臺汗國 "wikilink")**
 
-  - [海渡](https://zh.wikipedia.org/wiki/海都 "wikilink")
+  - [海渡](../Page/海都.md "wikilink")
   - [真金](../Page/昔里吉.md "wikilink")
   - [八剌](https://zh.wikipedia.org/wiki/察八兒 "wikilink")
 

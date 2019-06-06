@@ -115,7 +115,7 @@
   - 亞洲區最具號召力香港女藝人
       - [蔡卓妍](../Page/蔡卓妍.md "wikilink")
   - 亞洲區最具號召力台灣男藝人
-      - [鄭元暢](https://zh.wikipedia.org/wiki/鄭元暢 "wikilink")
+      - [鄭元暢](../Page/鄭元暢.md "wikilink")
   - 亞洲區最具號召力台灣女藝人
       - [楊丞琳](../Page/楊丞琳.md "wikilink")
   - 亞洲區最具號召力韓國男藝人

@@ -55,7 +55,7 @@ NY6型柴油机车装用两台由[MTU公司制造的](../Page/MTU腓德烈斯哈
 652
 TB10型柴油机](../Page/梅赛德斯-奔驰MB_835型柴油机.md "wikilink")，该型柴油机是在[戴姆勒-奔驰](https://zh.wikipedia.org/wiki/戴姆勒-奔驰 "wikilink")[MB
 839
-Bb型柴油机基础上经过强化和改进而成的](../Page/梅赛德斯-奔驰MB_835型柴油机.md "wikilink")[四冲程](https://zh.wikipedia.org/wiki/四冲程循环 "wikilink")、[16气缸](https://zh.wikipedia.org/wiki/V16发动机 "wikilink")、[V型结构](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")、[预燃室式](https://zh.wikipedia.org/wiki/预燃室 "wikilink")、[废气涡轮增压](../Page/渦輪增壓器.md "wikilink")、[中间冷却的高速柴油机](../Page/中冷器.md "wikilink")，气缸内径为190毫米，[活塞行程为](https://zh.wikipedia.org/wiki/冲程 "wikilink")230毫米，气缸夹角为45°，[UIC标定功率为](../Page/國際鐵路聯盟.md "wikilink")2,300马力，装车功率为2,150马力，标定转速为每分钟1,400转。在V型夹角上面布置着两台[勃朗-包维利公司](https://zh.wikipedia.org/wiki/勃朗-包维利股份公司 "wikilink")（BBC）制造的VTR
+Bb型柴油机基础上经过强化和改进而成的](../Page/梅赛德斯-奔驰MB_835型柴油机.md "wikilink")[四冲程](../Page/四冲程循环.md "wikilink")、[16气缸](https://zh.wikipedia.org/wiki/V16发动机 "wikilink")、[V型结构](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")、[预燃室式](https://zh.wikipedia.org/wiki/预燃室 "wikilink")、[废气涡轮增压](../Page/渦輪增壓器.md "wikilink")、[中间冷却的高速柴油机](../Page/中冷器.md "wikilink")，气缸内径为190毫米，[活塞行程为](https://zh.wikipedia.org/wiki/冲程 "wikilink")230毫米，气缸夹角为45°，[UIC标定功率为](../Page/國際鐵路聯盟.md "wikilink")2,300马力，装车功率为2,150马力，标定转速为每分钟1,400转。在V型夹角上面布置着两台[勃朗-包维利公司](https://zh.wikipedia.org/wiki/勃朗-包维利股份公司 "wikilink")（BBC）制造的VTR
 250型涡轮增压器，每台增压器旁边还设有用于冷却增压空气的中冷器，其排气管与柴油机进气管相连。柴油机采用整体铸铁机体、特种铸铁湿式气缸套、钢顶铝裙组合式油冷[活塞](https://zh.wikipedia.org/wiki/活塞 "wikilink")、合金钢整体锻造[曲轴](https://zh.wikipedia.org/wiki/曲轴 "wikilink")、单体式铸铁[气缸盖](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")、叉形连杆组、硅油减震器\[10\]。
 
 ### 传动系统

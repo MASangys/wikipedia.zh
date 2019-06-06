@@ -21,6 +21,7 @@
 <td><p><strong>興叔</strong><br />
 跌打師傅<br />
 钟博史之亲家<br />
+钟志邦、馮曉靜之亲家<br />
 布國棟之父<br />
 周奕霏之前家翁<br />
 钟学心之家翁<br />
@@ -34,8 +35,8 @@
 <td><p><strong>阿棟</strong>、<strong>Jack</strong>、<strong>Pro Sir</strong><br />
 高級化驗師<br />
 布順興之子<br />
-周奕霏之夫，后因理念不同而离婚<br />
-於第14集和周奕霏離婚于结局成鍾學心之丈夫<br />
+周奕霏之夫，後於第14集因理念不同而離婚<br />
+鍾學心之多年拍檔兼好友，後為其男友，最後為丈夫<br />
 布家雯之父<br />
 钟博史之孙女婿<br />
 钟志邦、冯晓静之女婿<br />
@@ -47,7 +48,7 @@
 <td><p><strong>Eva、長勝將軍</strong><br />
 大律師<br />
 布順興之前媳婦<br />
-布國棟之妻，后因理念不同而离婚<br />
+布國棟之妻，后於第14集因理念不同而离婚<br />
 布家雯之母<br />
 鍾學心之好友<br />
 余中健、華龍生之代表律師<br />
@@ -64,8 +65,10 @@
 <td><p>布家雯</p></td>
 <td><p><strong>雯雯</strong><br />
 布國棟、周奕霏之女<br />
-钟学心之继女<br />
-布順興之孫女<br />
+钟学心之继女，曾反對其與父親交往，後接受<br />
+布順興之孙女<br />
+钟博史之继外孙女<br />
+钟志邦、馮曉靜之继孙女<br />
 方小鈴之好友</p></td>
 </tr>
 </tbody>
@@ -82,30 +85,36 @@
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/周骢" title="wikilink">周　驄</a></strong></p></td>
-<td><p><strong>鍾博史</strong></p></td>
+<td><p><strong>钟博史</strong></p></td>
 <td><p><strong>博士</strong><br />
-鍾學心之爺爺<br />
+钟学心之爺爺<br />
 钟志邦之父<br />
-馮曉靜之家翁</p></td>
+冯曉静之家翁<br />
+布顺兴之亲家<br />
+布家雯之继太爺爺</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/楊瑞麟.md" title="wikilink">楊瑞麟</a></p></td>
-<td><p>鍾志邦</p></td>
+<td><p>钟志邦</p></td>
 <td><p>（1944-1981）<br />
 钟博史之亡子<br />
-馮曉靜之亡夫<br />
-鍾學心之亡父<br />
+冯曉静之亡夫<br />
+钟学心之亡父<br />
 布国栋之亡岳父<br />
+布顺兴之亡亲家公<br />
+布家雯之亡继外公<br />
 於30年前到元朗度假時被趙大龍刺傷，後被譚成勇殺死</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/陳念君.md" title="wikilink">陳念君</a></p></td>
-<td><p>馮曉靜</p></td>
+<td><p>冯曉静</p></td>
 <td><p>（1941-1981）<br />
-鍾博史之亡媳<br />
+钟博史之亡媳<br />
 钟志邦之亡妻<br />
 钟學心之亡母<br />
 布国栋之亡岳母<br />
+布顺兴之亡亲家母<br />
+布家雯之亡继外婆<br />
 特征：搽白色指甲油<br />
 於30年前到元朗度假時被趙大龍殺死<br />
 死前曾罵趙國智亂玩蛇嚇人，使趙大龍動殺機</p></td>
@@ -113,17 +122,18 @@
 <tr class="odd">
 <td><p><a href="../Page/余之之.md" title="wikilink">余之之</a><br />
 （童年）</p></td>
-<td><p><strong>鍾學心</strong></p></td>
+<td><p><strong>钟學心</strong></p></td>
 <td><p><strong>Mandy</strong>、<strong>Dr.Chung</strong>、Mandy姐姐（布家雯专用）<br />
-法醫科高級法醫<br />
+法醫科高級醫生<br />
 PTSD创伤压力后遗症患者<br />
 生于1976年<br />
 钟博史之孫女<br />
-钟志邦、馮曉靜之女<br />
-方世友之前女友，於20集因了解而分手<br />
-布國棟之第二任妻子<br />
+钟志邦、冯曉静之女<br />
+方世友之女友，於20集因了解而分手<br />
+布國棟多年拍檔兼好友，後為其女友，最後為第二任妻子<br />
+布家雯之继母<br />
 孫嘉軒之上司<br />
-凌倩兒、周奕霏之好友<br />
+凌倩兒之好友兼包租婆<br />
 於第15集幫助險被打劫的游健保而大力撞擊匪徒的肝俞穴</p></td>
 </tr>
 <tr class="even">
@@ -147,7 +157,7 @@ PTSD创伤压力后遗症患者<br />
 <td><p><a href="../Page/鄭恕峰.md" title="wikilink">鄭恕峰</a></p></td>
 <td><p>Raymond</p></td>
 <td><p>張鳳萍之第二任丈夫<br />
-凌倩兒之繼父</p></td>
+凌倩兒之继父</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/韓馬利.md" title="wikilink">韓馬利</a></strong></p></td>
@@ -161,12 +171,13 @@ Raymond之妻<br />
 <td><p><strong>凌倩兒</strong></p></td>
 <td><p><strong>Ada、Madam Ling</strong><br />
 高級督察（WSIP14752）<br />
+總是穿著黑色長靴<br />
 張鳳萍之女<br />
-Raymond之繼女<br />
+Raymond之继女<br />
 李展風、林康贊、黎明偉、胡善行、李嘉露之上司<br />
-高偉雄之下屬<br />
-與李展風相戀，後為其女友<br />
-鍾學心之好友兼同居住客</p></td>
+高偉雄之下屬兼追求對象<br />
+與李展風相恋，后於第18集为其女友，並宣布訂婚<br />
+鍾學心之好友兼租客</p></td>
 </tr>
 </tbody>
 </table>
@@ -190,14 +201,14 @@ Raymond之繼女<br />
 參見<a href="https://zh.wikipedia.org/wiki/#布家" title="wikilink"><strong>布家</strong></a></p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/陳茵媺.md" title="wikilink">陳茵媺</a></strong></p></td>
-<td><p><strong>蔣卓君</strong></p></td>
-<td><p><strong>Angel</strong><br />
-法證部技術員<br />
-被其母親違傳乙型肝炎<br />
+<td><p><strong><a href="../Page/蔣志光.md" title="wikilink">蔣志光</a></strong></p></td>
+<td><p><strong>游健保</strong></p></td>
+<td><p><strong>Paul、百寶哥、寶哥、超哥（何正民專稱）</strong><br />
+科學鑑證主任<br />
+游俊傑之父<br />
 布國棟之下屬<br />
-何正民之鬥氣冤家，後為女友<br />
-於第29集為救何正民被趙大龍槍傷，後於第30集死亡</p></td>
+陳華強之中學同學<br />
+於第15集被打劫為保「家傳之筆」擦傷手背最後被打劫不成</p></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="../Page/蕭正楠.md" title="wikilink">蕭正楠</a></strong></p></td>
@@ -209,14 +220,14 @@ Raymond之繼女<br />
 患有<a href="https://zh.wikipedia.org/wiki/酒精" title="wikilink">酒精</a><a href="https://zh.wikipedia.org/wiki/敏感" title="wikilink">敏感</a>，飲有酒精成份飲品後，會胡亂吻人</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="../Page/蔣志光.md" title="wikilink">蔣志光</a></strong></p></td>
-<td><p><strong>游健保</strong></p></td>
-<td><p><strong>Paul、百寶哥、寶哥、超哥（何正民專稱）</strong><br />
-科學鑑證主任<br />
-游俊傑之父<br />
+<td><p><strong><a href="../Page/陳茵媺.md" title="wikilink">陳茵媺</a></strong></p></td>
+<td><p><strong>蔣卓君</strong></p></td>
+<td><p><strong>Angel</strong><br />
+法證部技術員<br />
+被其母親違傳乙型肝炎<br />
 布國棟之下屬<br />
-陳華強之中學同學<br />
-於第15集被打劫為保「家傳之筆」擦傷手背最後被打劫不成</p></td>
+何正民之鬥氣冤家，後為女友<br />
+於第29集為救何正民被趙大龍槍傷，後於第30集死亡</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/楊潮凱.md" title="wikilink">楊潮凱</a></p></td>
@@ -246,6 +257,12 @@ Raymond之繼女<br />
 法證部文員<br />
 布國棟之下屬</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="../Page/李偉健.md" title="wikilink">李偉健</a></p></td>
+<td><p>張俊諾</p></td>
+<td><p>法證部文員<br />
+布國棟之下屬</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -262,7 +279,7 @@ Raymond之繼女<br />
 <td><p><strong><a href="https://zh.wikipedia.org/wiki/張可頤" title="wikilink">張可頤</a></strong></p></td>
 <td><p><strong>鍾學心</strong></p></td>
 <td><p><strong>Mandy</strong>、<strong>Dr.Chung</strong><br />
-法醫科高級法醫<br />
+法醫科高級醫生<br />
 孫嘉軒之上司<br />
 參見<a href="https://zh.wikipedia.org/wiki/#鍾家" title="wikilink"><strong>鍾家</strong></a></p></td>
 </tr>
@@ -270,7 +287,7 @@ Raymond之繼女<br />
 <td><p><a href="../Page/羅鈞滿.md" title="wikilink">羅鈞滿</a></p></td>
 <td><p>孫嘉軒</p></td>
 <td><p>|<strong>Sunny</strong><br />
-法醫科法医<br />
+法醫科醫生<br />
 鍾學心之助手</p></td>
 </tr>
 </tbody>
@@ -300,8 +317,8 @@ Raymond之繼女<br />
 <td><p><strong>Ada、Madam Ling</strong><br />
 高級督察（WSIP14752）<br />
 李展風、林康贊、黎明偉、胡善行、李嘉露之上司兼朋友<br />
-高偉雄之下屬<br />
-與李展風相戀，後為其女友<br />
+高偉雄之下屬兼追求對象<br />
+與李展風相戀，後於第18集為其女友，並宣布訂婚<br />
 參見<a href="https://zh.wikipedia.org/wiki/#凌家" title="wikilink"><strong>凌家</strong></a></p></td>
 </tr>
 <tr class="even">
@@ -309,7 +326,7 @@ Raymond之繼女<br />
 <td><p><strong>李展風</strong></p></td>
 <td><p><strong>Wind、NG47</strong><br />
 警長（SGT63251）<br />
-與凌倩兒相戀，後為其男友<br />
+與凌倩兒相戀，後與第18集為其男友，並宣布訂婚<br />
 凌倩兒之下屬<br />
 林康贊、黎明偉、胡善行、李嘉露之上司兼好友</p></td>
 </tr>
@@ -419,7 +436,7 @@ Raymond之繼女<br />
 蔡俊之男友（同性戀者）<br />
 曹麗美之未婚夫，實欺騙其感情<br />
 強拍曹麗美裸照，勒索曹景添<br />
-於第2集被曹景添刺傷，並被嫁禍推其落樓<br />
+於第2集被曹景添刺傷，並推其落樓<br />
 於第3集不慎墮樓梯并被玻璃割傷致毁容</p></td>
 </tr>
 <tr class="odd">
@@ -431,7 +448,7 @@ Raymond之繼女<br />
 麥永富之未来岳父，後反目<br />
 被麥永富以曹麗美裸照勒索<br />
 於第1集原想杀死麥永富，但反倒誤殺曹麗美<br />
-於第2集刺傷麥永富，並跳樓嫁禍他<br />
+於第2集刺傷麥永富<br />
 於第3集被捕</p></td>
 </tr>
 <tr class="even">
@@ -611,9 +628,8 @@ Raymond之繼女<br />
 <tr class="even">
 <td><p><a href="../Page/張國強_(香港演員).md" title="wikilink">張國強</a></p></td>
 <td><p>金大任</p></td>
-<td><p><strong>Eddie</strong><br />
-玄學師傅<br />
-張美芬之情夫<br />
+<td><p>玄學師傅<br />
+張美芬之情夫，後反目<br />
 於第4集被張美芬指示殺害郭富華<br />
 於第4集被警方拘捕</p></td>
 </tr>
@@ -622,7 +638,7 @@ Raymond之繼女<br />
 <td><p>張美芬</p></td>
 <td><p><strong>Amanda</strong><br />
 郭富華之妻，後反目<br />
-金大任之情婦<br />
+金大任之情婦，後反目<br />
 余中健之好友<br />
 於第4集指使金大任殺害郭富華<br />
 於第5集被警方拘捕</p></td>
@@ -630,13 +646,12 @@ Raymond之繼女<br />
 <tr class="even">
 <td><p><a href="../Page/鄧英敏.md" title="wikilink">鄧英敏</a></p></td>
 <td><p>郭富華</p></td>
-<td><p><strong>Adrian</strong><br />
-富商<br />
+<td><p>富商<br />
 「宏昊天企業集團」總裁<br />
 張美芬之夫，後反目<br />
 林圓圓之上司兼情夫<br />
 「死亡判詞」為：大禍臨頭，不得善終，死於非命<br />
-於第4集被金大任殺害</p></td>
+於第4集被張美芬指使的金大任殺害</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/高海寧.md" title="wikilink">高海寧</a></p></td>
@@ -778,7 +793,7 @@ Raymond之繼女<br />
 </tr>
 <tr class="odd">
 <td><p><strong><a href="../Page/李成昌.md" title="wikilink">李成昌</a></strong></p></td>
-<td><p><strong>古瀚友</strong></p></td>
+<td><p><strong>古永強</strong></p></td>
 <td><p><strong>孤寒友</strong><br />
 徐世達之租客<br />
 布順興之舊街坊，後反目<br />
@@ -1297,7 +1312,7 @@ Oscar之孿生弟弟，後反目<br />
 姚麗冰之繼女，後反目<br />
 錢茂林、錢茂森之姐<br />
 李展風之母<br />
-李俊成之亡妻</p></td>
+李俊成之妻</p></td>
 </tr>
 <tr class="odd">
 <td><p>|李俊成</p></td>
@@ -1587,6 +1602,16 @@ Oscar之孿生弟弟，後反目<br />
 <td><p>朱先生</p></td>
 <td><p>梁翠嫻之夫</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/顏桂洲" title="wikilink">顏桂洲</a></p></td>
+<td><p>石油氣公司職員</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1732,41 +1757,46 @@ Oscar之孿生弟弟，後反目<br />
 <td><p>趁妹妹不留神時，偷取妹妹朱古力</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/林芷諾" title="wikilink">林芷諾</a></p></td>
+<td><p>妹　妹</p></td>
+<td><p>被哥哥偷朱古力</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/陳佩思.md" title="wikilink">陳佩思</a></p></td>
 <td><p>Miss Lee</p></td>
 <td><p>布家雯、方小鈴之畫班導師</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/張頴康.md" title="wikilink">張頴康</a></p></td>
 <td><p>張詠糠</p></td>
 <td><p>《<a href="../Page/警訊.md" title="wikilink">警訊</a>》導演</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/江梓瑋" title="wikilink">江梓瑋</a></p></td>
 <td></td>
 <td><p>《警訊》助導</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/趙樂賢.md" title="wikilink">趙樂賢</a></p></td>
 <td></td>
 <td><p>《警訊》攝影師</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/白健恩.md" title="wikilink">白健恩</a></p></td>
 <td><p>齊</p></td>
 <td><p>钱根海味铺之伙計</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>女店員</p></td>
 <td><p>兒童書店店員</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/張韋怡.md" title="wikilink">張韋怡</a></p></td>
 <td><p>店　員</p></td>
 <td><p>珠寶店店員</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/郭田葰.md" title="wikilink">郭田葰</a></p></td>
 <td><p>醫　生</p></td>
 <td><p>王家松（第28集）、蒋卓君（第29集）之主诊医生</p></td>

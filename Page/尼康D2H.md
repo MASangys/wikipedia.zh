@@ -13,4 +13,5 @@
   - [Nikon D2h Review,
     dpreview.com](http://www.dpreview.com/reviews/nikond2h/)
 
-[Category:尼康相机](https://zh.wikipedia.org/wiki/Category:尼康相机 "wikilink")
+[Category:數碼單反相機](https://zh.wikipedia.org/wiki/Category:數碼單反相機 "wikilink")
+[Category:尼康相機](https://zh.wikipedia.org/wiki/Category:尼康相機 "wikilink")

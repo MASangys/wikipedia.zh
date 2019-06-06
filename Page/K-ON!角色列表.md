@@ -111,7 +111,7 @@ Pillows的成員](../Page/The_Pillows.md "wikilink")。
 #### 秋山澪
 
   -
-    輕音部的[電貝斯手及合唱](../Page/電貝斯.md "wikilink")（有時也會擔任主唱）。是一个[左撇子](https://zh.wikipedia.org/wiki/左撇子 "wikilink")(K-ON舉辦演唱會時，配音員陽子把自己硬是練成左撇子)，眼角稍稍挑起，有着到腰長度的黑髮。是輕音部中唯一有[後援會的部員](https://zh.wikipedia.org/wiki/後援會 "wikilink")\[27\]。
+    輕音部的[電貝斯手及合唱](../Page/電貝斯.md "wikilink")（有時也會擔任主唱）。是一个[左撇子](https://zh.wikipedia.org/wiki/左撇子 "wikilink")（K-ON舉辦演唱會時，配音員陽子把自己硬是練成左撇子），眼角稍稍挑起，有着到腰長度的黑髮。是輕音部中唯一有[後援會的部員](https://zh.wikipedia.org/wiki/後援會 "wikilink")\[27\]。
       - 使用樂器
         低音電吉他（貝斯）：[Fender Japan Vintage Jazz Bass
         JB62/LH/3-Tone-Sunburst](../Page/芬達樂器公司.md "wikilink")

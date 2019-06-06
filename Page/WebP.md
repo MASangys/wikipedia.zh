@@ -44,17 +44,17 @@ Chrome自12版開始支援WebP的漸進式解碼功能\[22\]。此外所有可�
 Moon 26+瀏覽器僅支援靜態的WebP圖像。Firefox瀏覽器亦在65.0版本支援WebP圖像。\[25\]
 
 網頁瀏覽器[GNOME
-Web和](../Page/GNOME_Web.md "wikilink")[KDE圖片瀏覽器](../Page/KDE.md "wikilink")[Gwenview也支援Webp](../Page/Gwenview.md "wikilink")。
+Web和](../Page/GNOME_Web.md "wikilink")[KDE圖片瀏覽器](../Page/KDE.md "wikilink")[Gwenview也支援WebP](../Page/Gwenview.md "wikilink")。
 
-圖像軟體當中，[Picasa](../Page/Picasa.md "wikilink")（從3.9版本起）、[PhotoLine](https://zh.wikipedia.org/wiki/PhotoLine "wikilink")、[Pixelmator](https://zh.wikipedia.org/wiki/Pixelmator "wikilink")、[ImageMagick](../Page/ImageMagick.md "wikilink")、[XnView](../Page/XnView.md "wikilink")、[IrfanView](../Page/IrfanView.md "wikilink")、[GDAL](https://zh.wikipedia.org/wiki/GDAL "wikilink")、Aseprite和[GIMP](../Page/GIMP.md "wikilink")（2.10起）皆原生支援WebP格式。
+圖像軟體當中，[Picasa](../Page/Picasa.md "wikilink")（從3.9版本起）、\[26\]、\[27\]、[ImageMagick](../Page/ImageMagick.md "wikilink")、[XnView](../Page/XnView.md "wikilink")、[IrfanView](../Page/IrfanView.md "wikilink")、\[28\]、Aseprite和[GIMP](../Page/GIMP.md "wikilink")（2.10起）皆原生支援WebP格式。
 
-蘋果在macOS Sierra及iOS 10的早期beta版本中加入了WebP支援。\[26\]而在2016年9月7日釋出的iOS
+蘋果在macOS Sierra及iOS 10的早期beta版本中加入了WebP支援。\[29\]而在2016年9月7日釋出的iOS
 10和macOS Sierra GM種子版本中卻移除了WebP的支援。
 
 ## 評論
 
 [x264的開發者之一](https://zh.wikipedia.org/wiki/x264 "wikilink")：Jason
-Garrett-Glaser，針對WebP做出了幾點評論\[27\]，根據和其他編碼器（JPEG、x264、[Theora](../Page/Theora.md "wikilink")）測試的結果，他認為WebP的影像品質是最差的，多數是在模糊度方面。他也評論Google應該等到WebP可以超越JPEG之後再發佈。不過在2011年4月20日，他提到新的WebP編碼器表現的非常好，超越JPEG指日可待。
+Garrett-Glaser，針對WebP做出了幾點評論\[30\]，根據和其他編碼器（JPEG、x264、[Theora](../Page/Theora.md "wikilink")）測試的結果，他認為WebP的影像品質是最差的，多數是在模糊度方面。他也評論Google應該等到WebP可以超越JPEG之後再發佈。不過在2011年4月20日，他提到新的WebP編碼器表現的非常好，超越JPEG指日可待。
 
 ## 相關條目
 
@@ -131,3 +131,9 @@ Garrett-Glaser，針對WebP做出了幾點評論\[27\]，根據和其他編碼�
 26.
 
 27.
+
+28.
+
+29.
+
+30.

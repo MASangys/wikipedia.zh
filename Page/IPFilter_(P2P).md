@@ -31,8 +31,8 @@ IPFilter通常的格式包括**ipfilter.dat**格式和**guarding.p2p**格式。�
 ## 外部链接
 
   - [eMule
-    IPFilter（IP过滤库）详解](http://emulefans.com/emule-ipfilter-intro/)
-  - [eMule的IP过滤数据库（IPFilter.dat）](http://emulefans.com/news/plugin/ipfilter/)
+    IPFilter（IP过滤库）详解](https://web.archive.org/web/20100712095052/http://emulefans.com/emule-ipfilter-intro/)
+  - [eMule的IP过滤数据库（IPFilter.dat）](https://web.archive.org/web/20101104212949/http://emulefans.com/news/plugin/ipfilter/)
   - [eMule IPFilter](http://www.emule-mods.de/?mods=ipfilter)
   - [ipfilter
     updater](https://web.archive.org/web/20100829045348/http://ipfilterupdater.sourceforge.net/)

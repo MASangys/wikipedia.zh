@@ -529,7 +529,7 @@ Peter Peters <small>(Season 1)</small></p></td>
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/The_X_Factor_Philippines" title="wikilink">The X Factor Philippines</a></em></p></td>
 <td><p><a href="../Page/ABS-CBN.md" title="wikilink">ABS-CBN</a></p></td>
-<td><p>Season 1, 2012: 即將播出</p></td>
+<td><p>Season 1, 2012: <a href="../Page/KZ·谭定安.md" title="wikilink">KZ·谭定安</a></p></td>
 <td><p>TBA</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/KC_Concepcion" title="wikilink">KC Concepcion</a></p></td>
 </tr>
@@ -552,7 +552,7 @@ One other to be announced<br />
 <td></td>
 <td><p><em><a href="https://zh.wikipedia.org/wiki/X_Factor_(Romania)" title="wikilink">X Factor</a></em></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Antena_1_(Romania)" title="wikilink">Antena 1</a><br />
-<a href="http://xfactor.a1.ro/">節目官方網站</a></p></td>
+<a href="https://web.archive.org/web/20111231113452/http://xfactor.a1.ro/">節目官方網站</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/X_Factor_(Romania_season_1)" title="wikilink">Season 1, 2011-2012</a>: 現任 season<br />
 Season 2, 2012: 即將播出</p></td>
 <td><p>Mihai Morar<br />

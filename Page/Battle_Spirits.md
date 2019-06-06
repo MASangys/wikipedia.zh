@@ -1,7 +1,7 @@
 [Battle_Spirits_SD03C.jpg](https://zh.wikipedia.org/wiki/File:Battle_Spirits_SD03C.jpg "fig:Battle_Spirits_SD03C.jpg")
 
 《**Battle
-Spirits**》為[萬代出品的CARDASS系列](../Page/萬代.md "wikilink")31周年紀念的[卡片遊戲](../Page/卡片遊戲.md "wikilink")，自2008年推出以來，已經推出了45代(加上BSC系列31代，一共76代)的擴充卡包和41副的基本卡組。遊戲總設計師是Mike
+Spirits**》為[萬代出品的CARDDASS系列](../Page/萬代.md "wikilink")31周年紀念的[卡片遊戲](../Page/卡片遊戲.md "wikilink")，自2008年推出以來，已經推出了48代(加上BSC系列32代，一共80代)的擴充卡包和48副的基本卡組。遊戲總設計師是Mike
 Elliott。
 
 ## 基本規則

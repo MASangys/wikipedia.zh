@@ -68,7 +68,7 @@
 ## 外部連結
 
   - [英文官方網站](http://www.mazdamotorsports.com/)
-  - [日文官方網站](http://www.mazda.co.jp/accessories/mazdaspeed/)
+  - [日文官方網站](https://web.archive.org/web/20101121115708/http://www.mazda.co.jp/accessories/mazdaspeed/)
 
 ## 參考資料
 

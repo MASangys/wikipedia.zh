@@ -18,10 +18,10 @@ SLR](https://zh.wikipedia.org/wiki/FN_FAL自動步槍#使用國 "wikilink")（�
 FAL）、[L7通用機槍](../Page/L7通用機槍.md "wikilink")（英軍的[FN
 MAG](../Page/FN_MAG通用機槍.md "wikilink")）以上。
 
-## 分劃標記
+## 標線
 
-SUSAT光學瞄準鏡的分劃標記的設計相比起其他光學瞄準鏡而言並不尋常。SUSAT並非採用傳統十字交會準星的分化（即是要目標和十字交會準星的相交），SUSAT光學瞄準鏡內部的底部邊緣裝有一個[方尖碑形的瞄準分劃](../Page/方尖碑.md "wikilink")。這款分劃的種類，有時被稱為“德國杆”（German
-Post）。這設計可以捕捉遠距離和前景上的目標。在低光度條件以下，該分劃是以[氚光照明以協助瞄準目標的](../Page/氚.md "wikilink")。由於[放射性](../Page/放射性.md "wikilink")[衰變](https://zh.wikipedia.org/wiki/放射性#衰变 "wikilink")，因此它會逐漸地失去了它原來的亮度，亦因此放射性氚光源要每隔8—12年更換一次。另外，SUSAT光學瞄準鏡在頂部裝上了整合式[機械瞄具](../Page/機械瞄具.md "wikilink")，當瞄具損壞時仍然可作為緊急備用的瞄具。
+SUSAT光學瞄準鏡的的設計相比起其他光學瞄準鏡而言並不尋常。SUSAT並非採用傳統十字交會準星的分化（即是要目標和十字交會準星的標線相交），SUSAT光學瞄準鏡內部的底部邊緣裝有一個[方尖碑形的瞄準標線](../Page/方尖碑.md "wikilink")。這款標線的種類，有時被稱為“德國杆”（German
+Post）。這設計可以捕捉遠距離和前景上的目標。在低光度條件以下，該標線是以[氚光照明以協助瞄準目標](../Page/氚.md "wikilink")。由於[放射性](../Page/放射性.md "wikilink")[衰變](https://zh.wikipedia.org/wiki/放射性#衰变 "wikilink")，因此它會逐漸地失去了它原來的亮度，亦因此放射性氚光源要每隔8—12年更換一次。另外，SUSAT光學瞄準鏡在頂部裝上了整合式[機械瞄具](../Page/機械瞄具.md "wikilink")，當瞄具損壞時仍然可作為緊急備用的瞄具。
 
 ## 生產
 

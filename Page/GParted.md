@@ -12,8 +12,7 @@ CD](../Page/Live_CD.md "wikilink")，也可以制作成[Live
 USB或使用其他介质](https://zh.wikipedia.org/wiki/Live_USB "wikilink")。这个Live
 CD系统基于[Debian](../Page/Debian.md "wikilink")
 [GNU/Linux](https://zh.wikipedia.org/wiki/GNU/Linux "wikilink")。其它Linux
-Live
-CD版本也大多包含GParted，如[Knoppix等](https://zh.wikipedia.org/wiki/Knoppix "wikilink")。
+Live CD版本也大多包含GParted，如[Knoppix等](../Page/Knoppix.md "wikilink")。
 
 ## 功能
 

@@ -26,14 +26,14 @@ Spirit》新曲《成為魔女的理由》中，NS允智為了這首新曲的感
 
 ## 廣告
 
-| 年份   | 類型   | 名稱         | 合作對象                                                | 備註                                                                                           |
-| ---- | ---- | ---------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| 2011 | 化妆品  | Heat Jewel |                                                     |                                                                                              |
-| 2012 | 線上遊戲 | 龍OL        |                                                     |                                                                                              |
-| 2013 | 內衣品牌 | SOLB       |                                                     |                                                                                              |
-| 2013 | 線上遊戲 | 美劍         |                                                     |                                                                                              |
-| 2014 | 手機   | LG U+ Lte  | [Defconn](../Page/Defconn.md "wikilink")            | [1](http://kpopn.com/2014/05/23/224550/),[2](https://www.youtube.com/watch?v=R_yafTuGUXU)    |
-| 2015 | 飲品   | McCOL      | [朴炯植](https://zh.wikipedia.org/wiki/朴炯植 "wikilink") | [1](https://web.archive.org/web/20160105072137/http://www.hanjumi.net/hanliushishang/17865/) |
+| 年份   | 類型   | 名稱         | 合作對象                                     | 備註                                                                                           |
+| ---- | ---- | ---------- | ---------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 2011 | 化妆品  | Heat Jewel |                                          |                                                                                              |
+| 2012 | 線上遊戲 | 龍OL        |                                          |                                                                                              |
+| 2013 | 內衣品牌 | SOLB       |                                          |                                                                                              |
+| 2013 | 線上遊戲 | 美劍         |                                          |                                                                                              |
+| 2014 | 手機   | LG U+ Lte  | [Defconn](../Page/Defconn.md "wikilink") | [1](http://kpopn.com/2014/05/23/224550/),[2](https://www.youtube.com/watch?v=R_yafTuGUXU)    |
+| 2015 | 飲品   | McCOL      | [朴炯植](../Page/朴炯植.md "wikilink")         | [1](https://web.archive.org/web/20160105072137/http://www.hanjumi.net/hanliushishang/17865/) |
 
 ## 音樂
 
@@ -255,7 +255,6 @@ Spirit》新曲《成為魔女的理由》中，NS允智為了這首新曲的感
   - [NS允智官方網站](https://web.archive.org/web/20140717154320/http://jtmhub.com/nsyoong/)
   - [NS允智Twitter](https://twitter.com/#!/ns_yoonji)
   - [NS允智instagram](https://web.archive.org/web/20150402104245/https://instagram.com/ns_yoong96/)
-  - [NS允智官方Facebook](https://www.facebook.com/NSYoonG.Story?fref=ts)
   - [NS允智1theK時期Youtube](https://www.youtube.com/channel/UCTWXz-nSDBNUJa8yEjOQGFw)
   - [NS允智Sony時期Youtube](https://www.youtube.com/user/NSYoonGVEVO)
 

@@ -33,7 +33,7 @@ DJ音标初期可能是为了节省印刷模具数量，只有11个符号不同�
 ## 參見
 
   - [音標](https://zh.wikipedia.org/wiki/音標 "wikilink")
-      - [國際音標](https://zh.wikipedia.org/wiki/國際音標 "wikilink")
+      - [國際音標](../Page/國際音標.md "wikilink")
       - [KK音標](../Page/KK音標.md "wikilink")
       - [韋氏音標](https://zh.wikipedia.org/wiki/韋氏音標 "wikilink")
 

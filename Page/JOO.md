@@ -16,12 +16,13 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")�
   - 2011年
     在[KBS2電視劇](https://zh.wikipedia.org/wiki/KBS "wikilink")《[Dream
     High](https://zh.wikipedia.org/wiki/Dream_High "wikilink")》中飾演「鄭雅京」
-  - 2014年 10月31日、11月1日
-    在[BTOB演唱會HelloMelody中作為嘉賓](../Page/BTOB.md "wikilink")
+  - 2014年 10月31日、11月1日 在[BTOB演唱會](../Page/BTOB.md "wikilink")《[Hello,
+    Melody](../Page/Hello,_Melody.md "wikilink")》中作為嘉賓
   - 2015年 加入Woollim Entertainment
   - 2017年 參加KBS選秀節目「[The
     Unit](../Page/The_Unit.md "wikilink")」，於第11集被淘汰，最終排名33名。
-  - 2019年 5月與同齡的圈外男友步入婚姻，並舉行非公開婚禮。
+  - 2019年 5月4日
+    與同齡的圈外男友步入婚姻，並舉行非公開婚禮。[BTOB擔任伴郎並為其演唱祝歌](../Page/BTOB.md "wikilink")。\[2\]
 
 ## 音樂
 
@@ -175,3 +176,4 @@ Entertainment](https://zh.wikipedia.org/wiki/Woollim_Entertainment "wikilink")�
 1.  [JOO結束七年合約
     將退出JYP](http://cn.allthatstar.com/zh-hant/joo%E7%B5%90%E6%9D%9F%E4%B8%83%E5%B9%B4%E5%90%88%E7%B4%84-%E5%B0%87%E9%80%80%E5%87%BAjyp/)全星網.
     2015-01-20
+2.

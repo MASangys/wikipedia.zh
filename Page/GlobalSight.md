@@ -25,7 +25,8 @@ Welocalize于2009年1月发布了开源的7.1版。\[8\]
     Roland
   - [IBM的](../Page/IBM.md "wikilink") Frank Rojas
   - [Novell的](../Page/Novell.md "wikilink") Daniel McGowan
-  - 的 [Martin Wunderlich](http://www.MartinWunderlich.com)
+  - 的 [Martin
+    Wunderlich](https://web.archive.org/web/20181025170410/http://www.martinwunderlich.com/)
   - [太阳微系统的](https://zh.wikipedia.org/wiki/太阳微系统 "wikilink") Melissa
     Biggs
   - XenCraft的 Tex Texin\[9\]

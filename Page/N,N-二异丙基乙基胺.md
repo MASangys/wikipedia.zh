@@ -23,7 +23,7 @@ Hünig碱可形成复杂的[杂环化合物](../Page/杂环化合物.md "wikilin
 
 ## 参考文献
 
-[Category:胺](https://zh.wikipedia.org/wiki/Category:胺 "wikilink")
+[Category:烷基胺](https://zh.wikipedia.org/wiki/Category:烷基胺 "wikilink")
 [Category:碱](https://zh.wikipedia.org/wiki/Category:碱 "wikilink")
 
 1.
@@ -34,6 +34,7 @@ Hünig碱可形成复杂的[杂环化合物](../Page/杂环化合物.md "wikilin
     [Arkivoc](https://zh.wikipedia.org/wiki/Arkivoc "wikilink")
     (EJ-1549C) pp 287-292 **2005** [Online
     Article](http://www.arkat-usa.org/home.aspx?VIEW=MANUSCRIPT&MSID=1549)
+
 3.  *From Hünig's Base to Bis(\[1,2\]dithiolo)-\[1,4\]thiazines in One
     Pot: The Fast Route to Highly Sulfurated Heterocycles* W. Rees,
     Carlos F. Marcos,Cecilia Polo, Tomás Torroba,Oleg A. Rakitin

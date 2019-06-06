@@ -38,7 +38,7 @@ iNEWS**、**新聞夜現場**、假日0700/0800**早安新鮮聞**、假日1200*
   - 2018年5月12日，週末21:00-23:00時段異動，停播《iStar全球新勢力》、《台灣亮起來》、《新聞深一度》、《360大世界》，改播《[鄭知道了](../Page/鄭知道了.md "wikilink")》。
   - 2018年12月24日，平日17:00-18:00時段異動，停播《iNEWS錢進大頭條》，改播《[iNEWS17NOW新聞](https://zh.wikipedia.org/wiki/iNEWS17NOW新聞 "wikilink")》
   - 2019年1月21日，平日21:00-22:00時段異動，停播《[iNEWS最政新聞](https://zh.wikipedia.org/wiki/iNEWS最政新聞 "wikilink")》，改播《[iNEWS21知識線](https://zh.wikipedia.org/wiki/iNEWS21知識線 "wikilink")》
-  - 2019年1月25日起，每週五晚間九點半至十點推出『全民金融通』。
+  - 2019年1月25日起，每週五晚間九點半至十點推出『全民金融通』（目前已停播）。
 
 ## 三立iNEWS主播群
 
@@ -48,7 +48,6 @@ iNEWS**、**新聞夜現場**、假日0700/0800**早安新鮮聞**、假日1200*
 | --------------------------------------------------- |
 | [高毓璘](https://zh.wikipedia.org/wiki/高毓璘 "wikilink") |
 | [范益華](https://zh.wikipedia.org/wiki/范益華 "wikilink") |
-| [廖婕妤](https://zh.wikipedia.org/wiki/廖婕妤 "wikilink") |
 |                                                     |
 
 ### 現任節目主持人
@@ -65,8 +64,8 @@ iNEWS**、**新聞夜現場**、假日0700/0800**早安新鮮聞**、假日1200*
 (<a href="https://zh.wikipedia.org/wiki/我們一家人" title="wikilink">我們一家人</a>)</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/王志郁.md" title="wikilink">王志郁</a><br />
-(<a href="https://zh.wikipedia.org/wiki/全民金融通" title="wikilink">全民金融通</a>)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/苑曉琬" title="wikilink">苑曉琬</a><br />
+(<a href="https://zh.wikipedia.org/wiki/薪動大未來" title="wikilink">薪動大未來</a>)</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -82,7 +81,7 @@ iNEWS**、**新聞夜現場**、假日0700/0800**早安新鮮聞**、假日1200*
   - [李秀利](https://zh.wikipedia.org/wiki/李秀利 "wikilink")
   - [謝培瑜](https://zh.wikipedia.org/wiki/謝培瑜 "wikilink")
   - [呂怡萱](https://zh.wikipedia.org/wiki/呂怡萱_\(主播\) "wikilink")（現任[寰宇財經台主播](../Page/寰宇財經台.md "wikilink")）
-  - [李昕芸](https://zh.wikipedia.org/wiki/李昕芸 "wikilink")
+  - [李昕芸](https://zh.wikipedia.org/wiki/李昕芸 "wikilink")（現為[三立新聞台主播](../Page/三立新聞台.md "wikilink")）
   - [蔡韋葶](https://zh.wikipedia.org/wiki/蔡韋葶 "wikilink")
   - [陳儀潔](https://zh.wikipedia.org/wiki/陳儀潔 "wikilink")
 
@@ -130,6 +129,7 @@ iNEWS**、**新聞夜現場**、假日0700/0800**早安新鮮聞**、假日1200*
   - 錢滾錢（解盤節目，2017/05/22停播）
   - 未來事件簿（2017/06/30停播）
   - [88理財有方](../Page/88理財有方.md "wikilink")（2017/05/06停播）
+  - [全民金融通](https://zh.wikipedia.org/wiki/全民金融通 "wikilink")（2019/05/03停播）
 
 ### 談話性節目
 

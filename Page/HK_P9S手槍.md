@@ -116,9 +116,6 @@ ACP及](../Page/.45_ACP.md "wikilink")[7.62毫米魯格](https://zh.wikipedia.or
 
   - —[Civilian Gunner—H\&K P9](http://www.wargamehk.com/HKP9.htm)
 
-[en:Heckler & Koch
-P9](https://zh.wikipedia.org/wiki/en:Heckler_&_Koch_P9 "wikilink")
-
 [Category:半自动手枪](https://zh.wikipedia.org/wiki/Category:半自动手枪 "wikilink")
 [Category:黑克勒-科赫](https://zh.wikipedia.org/wiki/Category:黑克勒-科赫 "wikilink")
 [Category:德国半自动手枪](https://zh.wikipedia.org/wiki/Category:德国半自动手枪 "wikilink")

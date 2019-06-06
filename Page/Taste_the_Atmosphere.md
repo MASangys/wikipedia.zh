@@ -114,8 +114,7 @@ Skin](../Page/Stranger_Under_My_Skin.md "wikilink")》依然由[夏永康負責�
 
 1.  [品嘗音樂－－陳奕迅《Taste the Atmosphere》
     (心跡．流影)](http://vestigesoul725.mysinablog.com/index.php?op=ViewArticle&articleId=2673488)
-2.  \[<http://www.photoblog.hk/wordpress/4062/陳奕迅的新cd封面是怎樣拍出來的>？
-    Photoblog 攝影札記：陳奕迅的新CD封面是怎樣拍出來的？\]
+2.
 3.  [Photoblog
     攝影札記：［外攝團］初冬遊大東 2011](http://www.photoblog.hk/wordpress/18054/［外攝團］初冬遊大東-2011)
 4.  [3cmusic.com：2010年度香港HMV十大亞洲流行唱片銷量排行榜](http://3cmusic.com/home/hmv香港2010年銷量榜)

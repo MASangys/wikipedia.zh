@@ -1,5 +1,5 @@
 }}  **PGM Hécate II**是一種由Gilles Payen設計，PGM精密公司（）生產的12.7毫米（[.50
-BMG](https://zh.wikipedia.org/wiki/.50_BMG "wikilink")）口徑[反器材](../Page/反器材步槍.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。Hécate一名取自於[希臘神話中的冥界女神](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")「赫卡忒」（又譯黑卡蒂）。此槍有時也會被稱為FR-12.7（[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")：Fusil
+BMG](https://zh.wikipedia.org/wiki/.50_BMG "wikilink")）口徑[反器材](../Page/反器材步槍.md "wikilink")[狙擊步槍](https://zh.wikipedia.org/wiki/狙擊步槍 "wikilink")。Hécate一名取自於[希臘神話中的冥界女神](https://zh.wikipedia.org/wiki/希臘神話 "wikilink")「[:赫卡忒](https://zh.wikipedia.org/wiki/:赫卡忒 "wikilink")」（又譯黑卡蒂）。此槍有時也會被稱為FR-12.7（[法語](https://zh.wikipedia.org/wiki/法語 "wikilink")：Fusil
 à Répétition de calibre 12,7 mm，意為：12.7毫米連珠步槍）。
 
 ## 歷史
@@ -18,7 +18,7 @@ PGM Hécate II是一種專為軍事用途而設的狙擊步槍，它一般被用
 ## 設計
 
 PGM Hécate
-II是以作基礎放大口徑而成。從一些消息中得知，[法國軍隊中的](https://zh.wikipedia.org/wiki/法國軍隊 "wikilink")（）、中的（簡稱：RAID）和[國家憲兵中的](https://zh.wikipedia.org/wiki/法國國家憲兵 "wikilink")[國家憲兵干預組以及](../Page/國家憲兵干預組.md "wikilink")皆曾參與此槍的設計或多少為此槍的研製作出了貢獻。[法國陸軍亦於](https://zh.wikipedia.org/wiki/法國陸軍 "wikilink")1994年起開始從RAID中「借」來了一些Hécate
+II是以作基礎放大口徑而成。從一些消息中得知，[法國武裝部隊中的](../Page/法國軍事.md "wikilink")[第一海軍陸戰步兵傘降團](../Page/第一海軍陸戰步兵傘降團.md "wikilink")（）、中的（簡稱：RAID）和[國家憲兵中的](https://zh.wikipedia.org/wiki/法國國家憲兵 "wikilink")[國家憲兵干預組以及](../Page/國家憲兵干預組.md "wikilink")皆曾參與此槍的設計或多少為此槍的研製作出了貢獻。[法國陸軍亦於](https://zh.wikipedia.org/wiki/法國陸軍 "wikilink")1994年起開始從RAID中「借」來了一些Hécate
 II，並把它們發配到各個部門。
 
 Hécate II為一款以[旋轉後拉式槍機操作的武器](../Page/手動槍機.md "wikilink")，其結構與Ultima

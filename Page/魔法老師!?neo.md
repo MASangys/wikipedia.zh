@@ -18,7 +18,7 @@ Z](https://zh.wikipedia.org/wiki/月刊Magazine_Z "wikilink")》連載的《[貓
 MAGAZINE](../Page/Megami_MAGAZINE.md "wikilink")》的專訪中說，他畫原創漫畫與改編漫畫，因此容易受到原作影響，甚至經常刻意改變畫風；所以他現在的畫風「應該是很近期才確立下來的」，他現在的畫風差不多就是「《[熱風海陸
 The Rising](../Page/熱風海陸.md "wikilink")》加上《魔法老師\!?neo》，除以2」的感覺\[3\]。
 
-《魔法老師！？neo》單行本全7集，[香港及](../Page/香港.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中文版皆由](https://zh.wikipedia.org/wiki/中文 "wikilink")[東立出版社代理](../Page/東立出版社.md "wikilink")；中文版單行本自2009年9月5日發行第5集之後，2011年5月10日發行第6集，2011年6月10日發行第7集。
+《魔法老師！？neo》單行本全7集，日文版只有第2、3、4、5、7集有限定版，日文限定版與日文通常版唯一差異為封面與封底之人物服裝不同；[香港及](../Page/香港.md "wikilink")[台灣](https://zh.wikipedia.org/wiki/台灣 "wikilink")[中文版皆由](https://zh.wikipedia.org/wiki/中文 "wikilink")[東立出版社代理](../Page/東立出版社.md "wikilink")。
 
 ## 登場角色與事物
 
@@ -103,7 +103,7 @@ The Rising](../Page/熱風海陸.md "wikilink")》加上《魔法老師\!?neo》
 <!-- end list -->
 
   - [菲特是](https://zh.wikipedia.org/wiki/菲特·亞維路克斯 "wikilink")[王子](https://zh.wikipedia.org/wiki/王子 "wikilink")
-    在《魔法老師！？neo》中，菲特是魔法世界奧斯提亞國的王子，親自搭乘奧斯提亞皇家[馬車前來麻帆良學園迎接明日菜並向明日菜](../Page/馬車.md "wikilink")[求婚](../Page/求婚.md "wikilink")\[15\]。校長隨即證實，明日菜是奧斯提亞國的[公主](https://zh.wikipedia.org/wiki/公主 "wikilink")，而且菲特與明日菜是青梅竹馬\[16\]。
+    在《魔法老師！？neo》中，菲特是魔法世界奧斯提亞國的王子，親自搭乘奧斯提亞皇家[馬車前來麻帆良學園迎接明日菜並向明日菜](../Page/馬車.md "wikilink")[求婚](../Page/求婚.md "wikilink")\[15\]。校長隨即證實，明日菜是奧斯提亞國的[公主](../Page/公主.md "wikilink")，而且菲特與明日菜是青梅竹馬\[16\]。
 
 <!-- end list -->
 

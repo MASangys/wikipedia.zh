@@ -28,7 +28,7 @@ Chrome的Inspector](../Page/Google_Chrome.md "wikilink")，以及Firefox
 ## 外部連結
 
   - [Firefox Add-ons上的DOM
-    Inspector](https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-6622/)
+    Inspector](https://web.archive.org/web/20120127122631/https://addons.mozilla.org/en-US/firefox/addon/dom-inspector-6622/)
 
 [Category:Firefox_附加组件](https://zh.wikipedia.org/wiki/Category:Firefox_附加组件 "wikilink")
 

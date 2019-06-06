@@ -1027,12 +1027,12 @@ Performance」。
 
 #### 音樂錄影帶藝人獎
 
-| 屆數             | 年份    | 演員                                                  | 歌曲                                                                          | 女演員                                                 | 歌曲                                                              |
-| -------------- | ----- | --------------------------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- |
-| 7              | 2005年 | Ryu Seung-beom                                      | 《I'm Not Laughing》 M/V by [輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink") | \-                                                  |                                                                 |
-| 8              | 2006年 | [李準基](https://zh.wikipedia.org/wiki/李準基 "wikilink") | 《Grace》 M/V by [李秀英](https://zh.wikipedia.org/wiki/李秀英 "wikilink")          | [金智秀](https://zh.wikipedia.org/wiki/金智秀 "wikilink") | 《That Man That Woman》 M/V by [Vibe](../Page/Vibe.md "wikilink") |
-| 9              | 2007年 | [丁一宇](../Page/丁一宇.md "wikilink")                    | 《오죽했으면》 M/V by Goodbye Sadness 구정현                                          | \-                                                  |                                                                 |
-| Baek Sung Hyun |       |                                                     |                                                                             |                                                     |                                                                 |
+| 屆數             | 年份    | 演員                               | 歌曲                                                                          | 女演員                                                 | 歌曲                                                              |
+| -------------- | ----- | -------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------- | --------------------------------------------------------------- |
+| 7              | 2005年 | Ryu Seung-beom                   | 《I'm Not Laughing》 M/V by [輝星](https://zh.wikipedia.org/wiki/輝星 "wikilink") | \-                                                  |                                                                 |
+| 8              | 2006年 | [李準基](../Page/李準基.md "wikilink") | 《Grace》 M/V by [李秀英](https://zh.wikipedia.org/wiki/李秀英 "wikilink")          | [金智秀](https://zh.wikipedia.org/wiki/金智秀 "wikilink") | 《That Man That Woman》 M/V by [Vibe](../Page/Vibe.md "wikilink") |
+| 9              | 2007年 | [丁一宇](../Page/丁一宇.md "wikilink") | 《오죽했으면》 M/V by Goodbye Sadness 구정현                                          | \-                                                  |                                                                 |
+| Baek Sung Hyun |       |                                  |                                                                             |                                                     |                                                                 |
 
 #### 最佳音樂錄影帶獎
 
@@ -1362,10 +1362,10 @@ Marion Jola<small>（印尼）</small><br />
 
 #### 作曲獎
 
-| 屆數 | 年份    | 作曲家                 | 歌曲                                                     |
-| -- | ----- | ------------------- | ------------------------------------------------------ |
-| 10 | 2008年 | Kim Jong Wan (Nell) | 《기억을 걷는 시간》                                            |
-| 11 | 2009年 | Teddy Park          | 《Fire》、《Don't Care》 [2NE1](../Page/2NE1.md "wikilink") |
+| 屆數 | 年份    | 作曲家                 | 歌曲                                                       |
+| -- | ----- | ------------------- | -------------------------------------------------------- |
+| 10 | 2008年 | Kim Jong Wan (Nell) | 《기억을 걷는 시간》                                              |
+| 11 | 2009年 | Teddy Park          | 《Fire》、《I Don't Care》 [2NE1](../Page/2NE1.md "wikilink") |
 
 #### 佈置獎
 

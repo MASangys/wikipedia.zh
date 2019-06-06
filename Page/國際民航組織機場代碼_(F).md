@@ -198,7 +198,7 @@
 ## FE：[中非共和國](../Page/中非共和國.md "wikilink")
 
   - **FEFA**-[阿林道機場](https://zh.wikipedia.org/wiki/阿林道機場 "wikilink")-[阿林道](https://zh.wikipedia.org/wiki/阿林道 "wikilink")
-  - **FEFB**-[波斯特機場](https://zh.wikipedia.org/wiki/波斯特機場 "wikilink")-[敖包](https://zh.wikipedia.org/wiki/敖包 "wikilink")
+  - **FEFB**-[波斯特機場](https://zh.wikipedia.org/wiki/波斯特機場 "wikilink")-[敖包](../Page/敖包.md "wikilink")
   - **FEFC**-[卡諾機場](https://zh.wikipedia.org/wiki/卡諾機場 "wikilink")-[卡諾](../Page/卡諾.md "wikilink")
   - **FEFE**-[莫巴伊—姆班加機場](https://zh.wikipedia.org/wiki/莫巴伊—姆班加機場 "wikilink")-[莫巴伊](../Page/莫巴伊.md "wikilink")
   - **FEFF**-[班吉－姆波科國際機場](https://zh.wikipedia.org/wiki/班吉－姆波科國際機場 "wikilink")-[班基](../Page/班基.md "wikilink")
@@ -217,7 +217,7 @@
   - **FEFY**-[亞林加機場](https://zh.wikipedia.org/wiki/亞林加機場 "wikilink")-[亞林加](https://zh.wikipedia.org/wiki/亞林加 "wikilink")
   - **FEFZ**-[澤米奧機場](https://zh.wikipedia.org/wiki/澤米奧機場 "wikilink")-[澤米奧](https://zh.wikipedia.org/wiki/澤米奧 "wikilink")
   - **FEGC**-[博卡蘭加機場](https://zh.wikipedia.org/wiki/博卡蘭加機場 "wikilink")-[博卡蘭加](https://zh.wikipedia.org/wiki/博卡蘭加 "wikilink")
-  - **FEGE**-[M'Boki機場](https://zh.wikipedia.org/wiki/M'Boki機場 "wikilink")-[敖包](https://zh.wikipedia.org/wiki/敖包 "wikilink")
+  - **FEGE**-[M'Boki機場](https://zh.wikipedia.org/wiki/M'Boki機場 "wikilink")-[敖包](../Page/敖包.md "wikilink")
   - **FEGF**-[巴坦加福機場](https://zh.wikipedia.org/wiki/巴坦加福機場 "wikilink")-[巴坦加福](https://zh.wikipedia.org/wiki/巴坦加福 "wikilink")
   - **FEGL**-[戈爾迪勒機場](https://zh.wikipedia.org/wiki/戈爾迪勒機場 "wikilink")-[戈爾迪勒](https://zh.wikipedia.org/wiki/戈爾迪勒 "wikilink")
   - **FEGM**-[巴庫馬機場](https://zh.wikipedia.org/wiki/巴庫馬機場 "wikilink")-[巴庫馬](https://zh.wikipedia.org/wiki/巴庫馬 "wikilink")
@@ -229,7 +229,7 @@
 ## FG：[赤道畿內亞](https://zh.wikipedia.org/wiki/赤道畿內亞 "wikilink")
 
   - **FGBT**-[巴塔機場](../Page/巴塔機場.md "wikilink")-[巴塔](https://zh.wikipedia.org/wiki/巴塔 "wikilink")
-  - **FGSL**-[馬拉博機場](../Page/馬拉博機場.md "wikilink")-[馬拉博](https://zh.wikipedia.org/wiki/馬拉博 "wikilink")
+  - **FGSL**-[馬拉博機場](../Page/馬拉博機場.md "wikilink")-[馬拉博](../Page/馬拉博.md "wikilink")
 
 ## FH：[阿森松島](https://zh.wikipedia.org/wiki/阿森松島 "wikilink")
 

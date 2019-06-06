@@ -1015,8 +1015,6 @@ you](https://zh.wikipedia.org/wiki/Faraway/Kiss_you "wikilink")」
   - [週刊少年Sunday介绍](http://websunday.net/rensai/ginsaji/)
   - [原作官網](http://www.shogakukan.co.jp/pr/ginsaji/)
   - [電視動畫官網](http://www.ginsaji-anime.com/)
-  - [乐视网独播专区](https://web.archive.org/web/20130714010315/http://comic.letv.com/zt/ginsaji/index.shtml)
-  - [台灣官網](http://www.my-cartoon.com.tw/ginsaji/)
 
 [Category:日本漫画作品](https://zh.wikipedia.org/wiki/Category:日本漫画作品 "wikilink")
 [Category:高中背景漫画](https://zh.wikipedia.org/wiki/Category:高中背景漫画 "wikilink")

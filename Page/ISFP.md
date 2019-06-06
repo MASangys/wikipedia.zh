@@ -75,7 +75,7 @@ Te组织、安排环境和想法，好成功达成目标。Te寻求行动、事�
   - [TypeLogic ISFP](http://typelogic.com/isfp.html)
   - [Personality Page ISFP](http://www.personalitypage.com/ISFP.html)
   - [The Myers & Briggs Foundation: The 16 MBTI
-    Types](http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
+    Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
 
 [Category:性格分類](https://zh.wikipedia.org/wiki/Category:性格分類 "wikilink")
 

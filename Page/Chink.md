@@ -19,7 +19,7 @@ Chiu 在加州被刀刺死，其身邊的車上有Chink一字刻痕。\[11\]
 
 另，2012年2月中，[NBA](../Page/NBA.md "wikilink")[紐約尼克球員](https://zh.wikipedia.org/wiki/紐約尼克 "wikilink")[林書豪曾打輸一場比賽](https://zh.wikipedia.org/wiki/林書豪 "wikilink")，[ESPN記者在](../Page/ESPN.md "wikilink")2月18日以「chink
 in the
-armor」作[雙關](https://zh.wikipedia.org/wiki/雙關 "wikilink")，隨即被砲轟，撤下網站。\[12\]
+armor」作[雙關](https://zh.wikipedia.org/wiki/雙關 "wikilink")，隨即遭到批評，撤下網站。\[12\]
 
 ## 參見
 

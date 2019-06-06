@@ -886,8 +886,10 @@ RED](https://zh.wikipedia.org/wiki/CHAMPION_RED "wikilink")」2009年6月号連�
 
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
 [Category:2009年東京電視網動畫](https://zh.wikipedia.org/wiki/Category:2009年東京電視網動畫 "wikilink")
+[Category:東京電視台深夜動畫](https://zh.wikipedia.org/wiki/Category:東京電視台深夜動畫 "wikilink")
 [Category:機器人動畫](https://zh.wikipedia.org/wiki/Category:機器人動畫 "wikilink")
 [Category:永井豪](https://zh.wikipedia.org/wiki/Category:永井豪 "wikilink")
+[Category:重製動畫](https://zh.wikipedia.org/wiki/Category:重製動畫 "wikilink")
 [Category:無綫電視外購動畫](https://zh.wikipedia.org/wiki/Category:無綫電視外購動畫 "wikilink")
 [Category:熱海市背景作品](https://zh.wikipedia.org/wiki/Category:熱海市背景作品 "wikilink")
 [Category:魔神](https://zh.wikipedia.org/wiki/Category:魔神 "wikilink")

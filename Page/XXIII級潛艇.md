@@ -144,7 +144,7 @@ Bank）附近因為強風而沉沒，艦上約有20人因此罹難。這2艘XXI�
   - [Type XXIII](http://uboat.net/types/xxiii.htm)
 
 [Category:德國潛艦](https://zh.wikipedia.org/wiki/Category:德國潛艦 "wikilink")
-[Category:傳統動力潛艦](https://zh.wikipedia.org/wiki/Category:傳統動力潛艦 "wikilink")
+[Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")
 [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")
 
 1.  Polmar, p. 322

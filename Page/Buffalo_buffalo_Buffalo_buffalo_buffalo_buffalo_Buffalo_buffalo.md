@@ -1,7 +1,7 @@
 [分析树
 PN = [专有名词](https://zh.wikipedia.org/wiki/专有名词 "wikilink")
 N = [名词](https://zh.wikipedia.org/wiki/名词 "wikilink")
-V = [动词](https://zh.wikipedia.org/wiki/动词 "wikilink")
+V = [动词](../Page/动词.md "wikilink")
 NP =
 RC = [关系从句](https://zh.wikipedia.org/wiki/关系从句 "wikilink")
 VP = [动词短语](https://zh.wikipedia.org/wiki/动词短语 "wikilink")
@@ -25,8 +25,7 @@ List](https://zh.wikipedia.org/wiki/LINGUIST_List "wikilink")》上。\[2\]
     adjunct）；
   - **n.**
     [名词](https://zh.wikipedia.org/wiki/名词 "wikilink")，指[美洲野牛](../Page/美洲野牛.md "wikilink")（，经常被称为），在句中作为复数（与或相同），以避免使用[冠词](../Page/冠词.md "wikilink")；
-  - **v.**
-    [动词](https://zh.wikipedia.org/wiki/动词 "wikilink")，意为威吓、愚弄、使困惑。
+  - **v.** [动词](../Page/动词.md "wikilink")，意为威吓、愚弄、使困惑。
 
 使用上述记号标记此句为：
 

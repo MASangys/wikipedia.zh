@@ -512,6 +512,15 @@ Heart～》，主打曲《Alive or Fallen》。
 </ul></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><strong>3rd</strong></p></td>
+<td><p>世容首張SOLO日文迷你專輯《<strong>Connection</strong>》</p>
+<ul>
+<li>發行日期：2019年5月10日</li>
+<li>語言：日語</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

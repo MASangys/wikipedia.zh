@@ -81,7 +81,7 @@ Firefox工程副總裁Mike Beltzner在網路會議中強調「速度」是Firefo
 
 6.
 
-7.  [firefox4.ogg](http://videos.mozilla.org/serv/air_mozilla/firefox4.ogg)
+7.
 
 8.
 

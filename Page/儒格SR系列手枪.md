@@ -48,7 +48,8 @@ SR9是儒格公司设计并制造的第一款大口径[击针发火](https://zh.
     manual](https://web.archive.org/web/20110717185009/http://ruger.com/products/_manuals/sr9c.pdf)
   - [Ruger SR-Series
     manual](https://web.archive.org/web/20101105153941/http://ruger.com/products/_manuals/srSeries.pdf)
-  - [360° view](http://ruger.com/SR9/360View.html)
+  - [360°
+    view](https://web.archive.org/web/20090202112041/http://ruger.com/SR9/360View.html)
   - [The SR9 at Modern
     Firearms](https://web.archive.org/web/20071028004216/http://world.guns.ru/handguns/hg207-e.htm)
 

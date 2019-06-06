@@ -32,7 +32,7 @@ Alone](../Page/You_Are_Not_Alone.md "wikilink")”在美国单曲排行榜上首
 ## 外部链接
 
   - [HIStory: Past, Present and Future, Book
-    I](http://www.michaeljackson.com/us/music/history-past-present-and-future-book-i)
+    I](https://web.archive.org/web/20100109054511/http://www.michaeljackson.com/us/music/history-past-present-and-future-book-i)
 
 ## 参考文献
 

@@ -1,7 +1,7 @@
 '''GNU TeXmacs
 '''是一个[自由的科学](../Page/自由软件.md "wikilink")[文本编辑器和](../Page/文本编辑器.md "wikilink")
 [GNU](../Page/GNU.md "wikilink")
-项目的[排版组件](../Page/排版.md "wikilink")。它吸收了
+项目的[排版軟體](../Page/排版.md "wikilink")。它吸收了
 [](../Page/TeX.md "wikilink") 和 [Emacs](../Page/Emacs.md "wikilink")
 的特点，尽管未使用这两者的代码。TeXmacs 使用 [](../Page/TeX.md "wikilink")
 [字体](../Page/字体.md "wikilink")。\[1\]它由 Joris van der Hoeven
@@ -11,36 +11,41 @@
 ## 特点
 
 TeXmacs
-能够处理数学[公式](https://zh.wikipedia.org/wiki/公式 "wikilink")，并被用作一系列[计算机代数系统的前端](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")，例如
+可作為一系列[计算机代数系统的前端](https://zh.wikipedia.org/wiki/计算机代数系统 "wikilink")，例如
 [Maxima](../Page/Maxima.md "wikilink") 和
-[Sage](../Page/Sage.md "wikilink")。TeXmacs 同时支持
-[Scheme](../Page/Scheme.md "wikilink") 扩展语言
-[Guile](../Page/GNU_Guile.md "wikilink")，用于定制程序和编写扩展。
+[Sage](../Page/Sage.md "wikilink")。將計算或推導得出的數學公式直接顯示在筆記中，節省無謂的重複輸入和語法翻譯。
 
-如同许多[所见即所得的](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")[文本编辑器](../Page/文本编辑器.md "wikilink")（如[Microsoft
-Word](../Page/Microsoft_Word.md "wikilink")），用户在屏幕上编排的文档与最终[排版效果相仿](../Page/排版.md "wikilink")。TeXmacs
-的目标是提供一个[所见即所得](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")、排版效果美观的编辑器。TeXmacs
-不是 [](https://zh.wikipedia.org/wiki/LaTeX "wikilink") 的前端程序，但 TeXmacs
-文档可以被自由转换成 [](../Page/TeX.md "wikilink") 或
-[](https://zh.wikipedia.org/wiki/LaTeX "wikilink") 格式。对
-[HTML](../Page/HTML.md "wikilink")、[MathML](https://zh.wikipedia.org/wiki/MathML "wikilink")
-和 [XML](../Page/XML.md "wikilink") 的支持正在开发中。
+作為[所见即所得的](https://zh.wikipedia.org/wiki/所见即所得 "wikilink")[文本编辑器](../Page/文本编辑器.md "wikilink")（如[Microsoft
+Word](../Page/Microsoft_Word.md "wikilink")），TeXmacs 提供一套設計良好的 GUI
+界面,不強迫用戶記憶排版引擎的 DSL
+語法和關鍵字，顯著的降低無謂的學習成本，節省用戶大量的時間，不像許多自由軟體，學習成本非常高。
+
+TeXmacs 同时支持 [Scheme](../Page/Scheme.md "wikilink") 扩展语言
+[Guile](../Page/GNU_Guile.md "wikilink")，用于定制程序和编写扩展，提供用戶深度自訂的自由。
+
+TeXmacs 不是 [](https://zh.wikipedia.org/wiki/LaTeX "wikilink") 的前端程序，但
+TeXmacs 文档可以被自由转换成 [](../Page/TeX.md "wikilink") 或
+[](https://zh.wikipedia.org/wiki/LaTeX "wikilink")
+格式，唯目前轉換效果並不完美還需要進行少量的手動修改。同時也可以容易的將文檔轉換為
+[HTML](../Page/HTML.md "wikilink")、[PDF](https://zh.wikipedia.org/wiki/PDF "wikilink")、[MathML](https://zh.wikipedia.org/wiki/MathML "wikilink")
+和 [XML](../Page/XML.md "wikilink") 。
 
 TeXmacs 目前可运行在大部分基于
 [Unix](https://zh.wikipedia.org/wiki/Unix "wikilink") 的系统平台下，包括
 [Linux](../Page/Linux.md "wikilink")、[FreeBSD](../Page/FreeBSD.md "wikilink")、[Cygwin](../Page/Cygwin.md "wikilink")
-和 [Mac OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")。除 Cygwin
-版本以外，一个 [Microsoft
+和 [Mac OS
+X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，不過許多發行版必須自行編譯。可以容易的在
+[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")
-的本地版本已经开放测试。
+下安裝和使用。
 
 TeXmacs
-还包含[演示文稿模式](https://zh.wikipedia.org/wiki/演示文稿 "wikilink")，计划在未来开发成为一个完整的科学工作套装，含有[电子制表功能和科学](https://zh.wikipedia.org/wiki/电子制表 "wikilink")[图像编辑软件](https://zh.wikipedia.org/wiki/图像编辑 "wikilink")。
+还包含[演示文稿模式](https://zh.wikipedia.org/wiki/演示文稿 "wikilink")，可以非常容易的製作幻燈片（PPT）。目前已經含有一定的[图像编辑功能](https://zh.wikipedia.org/wiki/图像编辑 "wikilink")，可以繪製樹圖等。
 
 ### 数学字体排印
 
 使用 TeXmacs，可以迅捷地输入各类数学公式。例如，通过输入 =\>
-可以得到数学符号右箭头，而其他一些符号的变体形式则可以通过点击制表符得到。因此，通过用户快捷键可以轻易完成大量数学符号的输入。
+可以得到数学符号右箭头，而其他一些符号的变体形式则可以通过点击制表符得到。因此，通过用户快捷键可以輕易且以極低的學習成本完成大量数学符号的输入。
 
 在公式環境下，可以利用Tab切換相似的數學符號，更方便輸入常用符號或希臘文。
 

@@ -153,7 +153,7 @@ Men](https://zh.wikipedia.org/wiki/Of_Mice_&_Men "wikilink")、[Texas in
 July和](https://zh.wikipedia.org/wiki/Texas_in_July "wikilink")[Close to
 Home的聲援下](https://zh.wikipedia.org/wiki/Close_to_Home "wikilink")，We
 Came As Romans在九月份展開《I'm Alive巡迴》。\[34\]同時，十月中旬，他們和[Close to
-Home參與位於](https://zh.wikipedia.org/wiki/Close_to_Home "wikilink")[俄亥俄州](../Page/俄亥俄州.md "wikilink")[肯特的音樂祭](https://zh.wikipedia.org/wiki/肯特_\(俄亥俄州\) "wikilink")《The
+Home參與位於](https://zh.wikipedia.org/wiki/Close_to_Home "wikilink")[俄亥俄州](../Page/俄亥俄州.md "wikilink")[肯特的音樂祭](../Page/肯特_\(俄亥俄州\).md "wikilink")《The
 Outpost》，樂團Worth The Wait、Ionia也在該天演出。另外，在樂團[The Devil Wears
 Prada展開](https://zh.wikipedia.org/wiki/The_Devil_Wears_Prada "wikilink")《Dead
 Throne巡迴》之時，We Came as Romans也飛到澳洲為他們支援，其中同台演出的樂團有[Dream On,

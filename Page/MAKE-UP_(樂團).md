@@ -14,7 +14,7 @@ BOX SET《MEMORIES OF BLUE》而得以再版。之后参加了HARD ROCK SUMMIT�
 在2009年1月“”里，MAKE-UP发表重组宣言，成员是山田信夫、河野阳吾、松泽浩明。发表了《（飞马座的幻想）
 (2009)/（永远的蓝）(2009)》，同时在东京会场和大阪会场限量发售。
 
-2010年11月18日，圣斗士星矢主题歌“飞马座的幻想”作曲者之一的吉他手松澤因突发[心肌梗塞逝世](https://zh.wikipedia.org/wiki/心肌梗塞 "wikilink")。享年51岁。
+2010年11月18日，圣斗士星矢主题歌“飞马座的幻想”作曲者之一的吉他手[松澤因突发](https://zh.wikipedia.org/wiki/松澤 "wikilink")[心肌梗塞逝世](https://zh.wikipedia.org/wiki/心肌梗塞 "wikilink")。享年51岁。
 
 ## 成员
 

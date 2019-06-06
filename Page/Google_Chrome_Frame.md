@@ -35,7 +35,8 @@ Frame**，且浏览者的IE浏览器版本为IE8或更低，此代碼會自動�
     Code）](https://web.archive.org/web/20100217063951/http://code.google.com/intl/zh-TW/chrome/chromeframe/)
 
 [Category:Webkit衍生軟體](https://zh.wikipedia.org/wiki/Category:Webkit衍生軟體 "wikilink")
-[Category:Google](https://zh.wikipedia.org/wiki/Category:Google "wikilink")
+[Category:Google_Chrome](https://zh.wikipedia.org/wiki/Category:Google_Chrome "wikilink")
+[Category:Internet_Explorer加载项](https://zh.wikipedia.org/wiki/Category:Internet_Explorer加载项 "wikilink")
 
 1.  [IE8 browser runs faster with Google Chrome
     plug-in](http://www.telegraph.co.uk/technology/6232744/IE8-browser-runs-faster-with-Google-Chrome-plug-in.html)

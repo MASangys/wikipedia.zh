@@ -207,6 +207,7 @@ II加長[機匣頂部戰術導軌型](https://zh.wikipedia.org/wiki/機匣 "wiki
       - SOCOM 16型命名為“SOCOM M1A”為M1A標準型的短管戰術化型號。
   - 2016年—《[決勝時刻：現代戰爭重製版](../Page/決勝時刻4：現代戰爭.md "wikilink")》（Call of
     Duty: Modern Warfare Remastered）：型號SOCOM 16，外觀比前作更為精細。
+  - 2016年—《》（Escape From Tarkov）：型號為SOCOM 16型。
   - 2017年—《[狙擊手：幽靈戰士3](https://zh.wikipedia.org/wiki/狙擊手：幽靈戰士3 "wikilink")》（Sniper:
     Ghost Warrior 3）：命名為“Ballance-S-AR Metal”，使用10發彈匣。
   - 2018年—《[-{zh-hans:孤岛惊魂; zh-hant:極地戰嚎;
@@ -248,7 +249,8 @@ II加長[機匣頂部戰術導軌型](https://zh.wikipedia.org/wiki/機匣 "wiki
     in 1989](http://www.cs.cmu.edu/afs/cs/user/wbardwel/public/nfalist/assault_weapons.txt)
 
   - —Emerson, Lee and contributing editors [Different's M1A/M14
-    Information Archive](http://www.imageseek.com/m1a)
+    Information
+    Archive](https://web.archive.org/web/20180510033930/http://imageseek.com/m1a/)
 
   - —U. S. Department of State Dispatch Bureau of Public Affairs: May
     30, 1994

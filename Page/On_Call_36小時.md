@@ -1,5 +1,5 @@
 《**On Call
-36小時**》（），[香港電視廣播有限公司時裝醫務](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[馬國明及](https://zh.wikipedia.org/wiki/馬國明 "wikilink")[楊怡領銜主演](../Page/楊怡.md "wikilink")，並由[羅仲謙](../Page/羅仲謙.md "wikilink")、[黃智雯及](../Page/黃智雯.md "wikilink")[袁偉豪聯合主演](../Page/袁偉豪.md "wikilink")，監製為[潘嘉德](../Page/潘嘉德.md "wikilink")。本劇為[2012無綫節目巡禮劇集之一](../Page/2012無綫節目巡禮.md "wikilink")，劇名源自香港的公立醫療制度規定：醫生每次當值時間為36小時\[1\]（比照美國每週80小時的）。此劇以25集平均收視30.6點，成為無綫2012年第一季最高收視劇集。劇中慈愛醫院場地為[瑪麗醫院和](../Page/瑪麗醫院.md "wikilink")[北區醫院](../Page/北區醫院.md "wikilink")。2013年拍攝並播映續集《[On
+36小時**》（），[香港電視廣播有限公司時裝醫務](https://zh.wikipedia.org/wiki/香港電視廣播有限公司 "wikilink")[電視劇](https://zh.wikipedia.org/wiki/電視劇 "wikilink")，由[馬國明及](https://zh.wikipedia.org/wiki/馬國明 "wikilink")[楊怡領銜主演](../Page/楊怡.md "wikilink")，並由[羅仲謙](../Page/羅仲謙.md "wikilink")、[黃智雯及](../Page/黃智雯.md "wikilink")[袁偉豪聯合主演](../Page/袁偉豪.md "wikilink")，監製為[潘嘉德](../Page/潘嘉德.md "wikilink")。本劇為[2012無綫節目巡禮劇集之一](../Page/2012無綫節目巡禮.md "wikilink")，劇名源自香港的公立醫療制度規定：醫生每次當值時間為36小時\[1\]（比照美國每週80小時的[莉比·锡安法](../Page/莉比·锡安之死.md "wikilink")）。此劇以25集平均收視30.6點，成為無綫2012年第一季最高收視劇集。劇中慈愛醫院場地為[瑪麗醫院和](../Page/瑪麗醫院.md "wikilink")[北區醫院](../Page/北區醫院.md "wikilink")。2013年拍攝並播映續集《[On
 Call 36小時II](../Page/On_Call_36小時II.md "wikilink")》。
 
 ## 紀錄

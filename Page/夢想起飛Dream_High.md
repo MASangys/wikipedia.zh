@@ -99,7 +99,7 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 <p>17</p></td>
 <td><p>從美國突然歸國，進入麒麟藝校就讀。非常出色一的展示了優美的舞姿在新生選拔上首席合格的海歸派舞蹈家。有著在所有人都緊張的面試中也可以天下太平睡覺的膽色和自信。除了舞蹈實力以外唱歌實力也很不錯。</p>
 <p>但是藝術學校的父親反對韓國的事，偷偷逃亡和學院的面試，堂堂正正應試，首席合格的自由奔放的人物。</p>
-<p>麒麟藝校注目的最高人物。深受女同學愛戴, 但偏偏對碧淑有著白武士般的保護，漸漸地被碧淑內在美所吸引而不自知。</p></td>
+<p>麒麟藝校注目的最高人物。深受女同學愛戴，但偏偏對碧淑有著白武士般的保護，漸漸地被碧淑內在美所吸引而不自知。</p></td>
 <td><center>
 <p><a href="../Page/李景唐.md" title="wikilink">李景唐</a></p></td>
 <td><center>
@@ -112,8 +112,8 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
 <p>金碧淑</p></td>
 <td><center>
 <p>17</p></td>
-<td><p>樂團主唱。本來是200 磅的肥胖的女學生，擁有豐富歌聲及絕對音感，歌唱實力驚人。但她打破所有人的偏見入學麒麟藝校。</p>
-<p>暗戀每次陷入困難情況時都會出現幫助自己的Jason，跟Jason 表白被拒後, 與Jason 約定以200日內減肥為目標, 成功減肥後令Jason感到驚訝。</p></td>
+<td><p>樂團主唱。本來是90公斤的肥胖女學生，但擁有豐富歌聲及絕對音感，歌唱實力驚人，她打破所有人的偏見入學麒麟藝校。</p>
+<p>暗戀每次陷入困難情況時都會出現幫助自己的Jason，跟Jason 表白被拒後，與Jason 約定以200日內減肥為目標，成功減肥後令Jason感到驚訝。</p></td>
 <td><center>
 <p><a href="https://zh.wikipedia.org/wiki/詹雅菁" title="wikilink">詹雅菁</a></p></td>
 <td><center>
@@ -437,9 +437,6 @@ High》故事圍繞一所演藝藝術高中——麒麟藝校，講述一群因�
     金賢重（第一集）（香港配音：[梁偉德](../Page/梁偉德.md "wikilink")）
   - [曹秀美](../Page/曹秀美.md "wikilink")（香港配音：[曾秀清](../Page/曾秀清.md "wikilink")）
   - [宋海](https://zh.wikipedia.org/wiki/宋海 "wikilink")（香港配音：[古明華](../Page/古明華.md "wikilink")）
-  - [善宇](https://zh.wikipedia.org/wiki/權閔際 "wikilink")
-  - [閔慶旭](https://zh.wikipedia.org/wiki/閔慶旭 "wikilink")
-  - [金在成](../Page/金在成.md "wikilink")
   - [Nichkhun](../Page/Nichkhun.md "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）（第八集）
   - [黃燦盛](../Page/黃燦盛.md "wikilink")（[2PM](https://zh.wikipedia.org/wiki/2PM "wikilink")）飾演
     幻想的馬斗植（第十二集）

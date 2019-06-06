@@ -245,7 +245,7 @@ ACP作制式彈藥。其二是這種彈藥被普遍地認為最能配合蠍式�
     manual](https://web.archive.org/web/20071218052908/http://www.czub.cz/navody/cz360_en.pdf)
 
   - [CzechPoint—Škorpion
-    history](http://www.czechpoint-usa.com/history-of-the-sa-vz-61/)
+    history](https://web.archive.org/web/20100201175613/http://www.czechpoint-usa.com/history-of-the-sa-vz-61)
 
   - [Modern
     Firearms](http://world.guns.ru/smg/chex/skorpion-vz61-e.html)
@@ -267,7 +267,7 @@ ACP作制式彈藥。其二是這種彈藥被普遍地認為最能配合蠍式�
 
 1.  <https://it.wikipedia.org/wiki/Vz_61_Skorpion>
 
-2.  <http://www.czechpoint-usa.com/history-of-the-sa-vz-61/>
+2.
 
 3.  <http://www.youtube.com/watch?v=F40nds34MEA&feature=results_video&playnext=1&list=PL509CC3C88790A17D>
 

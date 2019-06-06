@@ -29,8 +29,5 @@
     On](https://archive.is/20070505121239/http://music.mu-mo.net/album/?id=14632&subgenre&filetype=music)
   - [hotexpress](https://web.archive.org/web/20140519053147/http://www.hotexpress.co.jp/news/060301_kodakumi/)
 
-[fr:Get it On](https://zh.wikipedia.org/wiki/fr:Get_it_On "wikilink")
-[ja:Get It On](https://zh.wikipedia.org/wiki/ja:Get_It_On "wikilink")
-
 [Category:2006年歌曲](https://zh.wikipedia.org/wiki/Category:2006年歌曲 "wikilink")
 [Category:倖田來未歌曲](https://zh.wikipedia.org/wiki/Category:倖田來未歌曲 "wikilink")

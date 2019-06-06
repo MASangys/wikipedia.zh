@@ -1,7 +1,7 @@
 《**新仙剑奇侠传Online**》，是游戏公司骏梦游戏（英语：Dream
 Group）所制作的一款大型多人[角色扮演](https://zh.wikipedia.org/wiki/角色扮演 "wikilink")[網頁游戏](https://zh.wikipedia.org/wiki/網頁游戏 "wikilink")\[1\]。此游戏的开发得到了[仙剑奇侠传系列制作公司](https://zh.wikipedia.org/wiki/仙剑奇侠传系列 "wikilink")[大宇资讯的授权](https://zh.wikipedia.org/wiki/大宇资讯 "wikilink")，且由“仙剑之父”[姚壮宪担任监制](https://zh.wikipedia.org/wiki/姚壮宪 "wikilink")。\[2\]
 
-自2013年7月18日起，該作已陸續在中國大陸以及新馬地區開始營運。2013年5月，《新仙劍Online》台港澳地區代理權由[G妹遊戲獲得](https://zh.wikipedia.org/wiki/G妹遊戲 "wikilink")，更名《新仙劍》即將在台上市。
+自2013年7月18日起，該作已陸續在中國大陸以及新馬地區開始營運。2013年5月，《新仙劍Online》台港澳地區代理權由[G妹遊戲獲得](../Page/G妹遊戲.md "wikilink")，更名《新仙劍》即將在台上市。
 
 ## 各地運營情況
 
@@ -17,7 +17,7 @@ Group）所制作的一款大型多人[角色扮演](https://zh.wikipedia.org/wi
 ### 台港澳
 
   - 2013年5月，《新仙劍》重歸台灣，官方臉書粉絲頁率先建立\[8\]。
-  - 2013年5月17日，[G妹遊戲宣佈取得本作台港澳代理權](https://zh.wikipedia.org/wiki/G妹遊戲 "wikilink")\[9\]。
+  - 2013年5月17日，[G妹遊戲宣佈取得本作台港澳代理權](../Page/G妹遊戲.md "wikilink")\[9\]。
   - 2013年5月30日，G妹遊戲《新仙劍》定名與繁體中文版 Logo 亮相\[10\]。
   - 2013年7月4日，G妹遊戲《新仙劍》神秘倒數網站上線\[11\]。
   - 2013年7月12日，G妹遊戲《新仙劍》形象官網正式上線\[12\]。

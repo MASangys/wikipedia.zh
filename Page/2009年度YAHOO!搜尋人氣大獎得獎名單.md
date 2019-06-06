@@ -56,7 +56,7 @@
   - 本地男演員
       - [張家輝](../Page/張家輝.md "wikilink")
   - 國際男演員
-      - [鄭元暢](https://zh.wikipedia.org/wiki/鄭元暢 "wikilink")
+      - [鄭元暢](../Page/鄭元暢.md "wikilink")
   - 本地女演員
       - [鄧麗欣](../Page/鄧麗欣.md "wikilink")
   - 國際女演員
@@ -91,7 +91,7 @@
   - 韓國區最受歡迎韓國藝人
       - [金賢重](../Page/金賢重.md "wikilink")
   - 香港區最受歡迎台灣藝人
-      - [鄭元暢](https://zh.wikipedia.org/wiki/鄭元暢 "wikilink")
+      - [鄭元暢](../Page/鄭元暢.md "wikilink")
   - 香港區最受歡迎韓國藝人
       - [Rain](../Page/Rain.md "wikilink")
   - 亞洲區最具號召力男藝人

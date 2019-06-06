@@ -1,6 +1,6 @@
 [VEVO_logo_(2009-2013).svg](https://zh.wikipedia.org/wiki/File:VEVO_logo_\(2009-2013\).svg "fig:VEVO_logo_(2009-2013).svg")
 [Vevo_logo.svg](https://zh.wikipedia.org/wiki/File:Vevo_logo.svg "fig:Vevo_logo.svg")
-**Vevo**（程式显示作**VEVO**）是一個[音樂影片網站](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，亦是由[环球唱片](../Page/环球唱片.md "wikilink")、[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")、[華納音樂集團和](../Page/華納音樂集團.md "wikilink")[阿布扎比传媒聯合提供免股權分紅的授權內容的](https://zh.wikipedia.org/wiki/阿布扎比传媒 "wikilink")[合資營運企業](../Page/合資公司.md "wikilink")。\[1\]VEVO的網站服務正式推出於2009年12月8日。\[2\]VEVO的影片會在網路上同步播出，\[3\]而廣告收入則與Google公司共享。\[4\]
+**Vevo**（程式显示作**VEVO**）是一個[音樂影片網站](https://zh.wikipedia.org/wiki/音樂影片 "wikilink")，亦是由[環球音樂集團](../Page/环球唱片.md "wikilink")、[索尼音樂娛樂](../Page/索尼音樂娛樂.md "wikilink")、[華納音樂集團和](../Page/華納音樂集團.md "wikilink")[阿布扎比传媒聯合提供免股權分紅的授權內容的](https://zh.wikipedia.org/wiki/阿布扎比传媒 "wikilink")[合資營運企業](../Page/合資公司.md "wikilink")。\[1\]VEVO的網站服務正式推出於2009年12月8日。\[2\]VEVO的影片會在網路上同步播出，\[3\]而廣告收入則與Google公司共享。\[4\]
 
 Vevo提供三家唱片大廠商的音樂影片。\[5\]\[6\]
 
@@ -50,7 +50,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <thead>
 <tr class="header">
 <th><p>排行</p></th>
-<th><p>艺人</p></th>
+<th><p>歌手/團體</p></th>
 <th><p>认证影片数</p></th>
 <th><p>参考来源</p></th>
 </tr>
@@ -58,8 +58,8 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Taylor_Swift" title="wikilink">Taylor Swift</a></p></td>
-<td><p>25</p></td>
+<td><p><a href="../Page/泰勒·斯威夫特.md" title="wikilink">Taylor Swift</a></p></td>
+<td><p>32</p></td>
 <td><p>[33]</p></td>
 </tr>
 <tr class="even">
@@ -118,7 +118,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/邁克爾·傑克遜" title="wikilink">邁克爾·傑克遜</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/邁克爾·傑克遜" title="wikilink">Michael Jackson</a></p></td>
 <td><p>9</p></td>
 <td><p>[43]</p></td>
 </tr>
@@ -621,13 +621,13 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/克莉絲汀·阿奎萊拉.md" title="wikilink">克莉絲汀·阿奎萊拉</a></p></td>
+<td><p><a href="../Page/克莉絲汀·阿奎萊拉.md" title="wikilink">Christina Aguliera</a></p></td>
 <td><p>1</p></td>
 <td><p>[127]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/約翰傳奇" title="wikilink">約翰傳奇</a></p></td>
+<td><p><a href="../Page/約翰·傳奇.md" title="wikilink">John Legend</a></p></td>
 <td><p>1</p></td>
 <td><p>[128]</p></td>
 <td></td>
@@ -708,26 +708,26 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <tbody>
 <tr class="odd">
 <td><p>1</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/wikipedia:Sorry_(Justin_Bieber_song)" title="wikilink">Sorry</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Justin_Bieber" title="wikilink">Justin Bieber</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/Sorry" title="wikilink">Sorry</a>》</p></td>
+<td><p><a href="../Page/贾斯汀·比伯.md" title="wikilink">Justin Bieber</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=fRh_vgS2dFE">2,608,276,026</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Uptown_Funk" title="wikilink">Uptown Funk</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Mark_Ronson" title="wikilink">Mark Ronson</a> ft. <a href="https://zh.wikipedia.org/wiki/Bruno_Mars" title="wikilink">Bruno Mars</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/放克名流" title="wikilink">Uptown Funk</a>》</p></td>
+<td><p><a href="../Page/馬克·朗森.md" title="wikilink">Mark Ronson</a> ft. <a href="../Page/布鲁诺·马尔斯.md" title="wikilink">Bruno Mars</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=OPf0YbXqDm0">2,524,980,655</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/wikipedia:Despacito" title="wikilink">Despacito</a>》</p></td>
+<td><p>《<a href="../Page/慢慢來_(路易斯·方辛歌曲).md" title="wikilink">Despacito</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/wikipedia:Luis_Fonsi" title="wikilink">Luis Fonsi</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=kJQP7kiw5Fk&amp;ab_channel=LuisFonsiVEVO">2,241,303,673</a></p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Shake_It_Off" title="wikilink">Shake It Off</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Taylor_Swift" title="wikilink">Taylor Swift</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/通通甩掉" title="wikilink">Shake It Off</a>》</p></td>
+<td><p><a href="../Page/泰勒·斯威夫特.md" title="wikilink">Taylor Swift</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=nfWlot6h_JM">2,225,591,730</a></p></td>
 </tr>
 <tr class="odd">
@@ -739,31 +739,31 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <tr class="even">
 <td><p>6</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/甜心" title="wikilink">Sugar</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Maroon_5" title="wikilink">Maroon 5</a></p></td>
+<td><p><a href="../Page/魔力紅.md" title="wikilink">Maroon 5</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=09R8_2nJtjg">2,121,048,974</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Roar" title="wikilink">Roar</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Katy_Perry" title="wikilink">Katy Perry</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/怒吼" title="wikilink">Roar</a>》</p></td>
+<td><p><a href="../Page/凱蒂·佩芮.md" title="wikilink">Katy Perry</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=CevxZvSJLk8">2,103,416,678</a></p></td>
 </tr>
 <tr class="even">
 <td><p>8</p></td>
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Blank_Space" title="wikilink">Blank Space</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Taylor_Swift" title="wikilink">Taylor Swift</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/空格_(泰勒·斯威夫特歌曲)" title="wikilink">Blank Space</a>》</p></td>
+<td><p><a href="../Page/泰勒·斯威夫特.md" title="wikilink">Taylor Swift</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=e-ORhEE9VVg">2,091,232,389</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>9</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/All_About_That_Bass" title="wikilink">All About That Bass</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Meghan_Trainor" title="wikilink">Meghan Trainor</a></p></td>
+<td><p><a href="../Page/梅根·崔娜.md" title="wikilink">Meghan Trainor</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=7PCkvCPvDXk">1,996,207,162</a></p></td>
 </tr>
 <tr class="even">
 <td><p>10</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Hello" title="wikilink">Hello</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Adele" title="wikilink">Adele</a></p></td>
+<td><p><a href="../Page/愛黛兒.md" title="wikilink">Adele</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=YQHsXMglC9A">1,995,893,657</a></p></td>
 </tr>
 </tbody>
@@ -792,7 +792,7 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《Look What You Made Me Do》</p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/看是你逼我的" title="wikilink">Look What You Made Me Do</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Taylor_Swift" title="wikilink">Taylor Swift</a></p></td>
 <td><p>2017年8月28日 - 2017年9月1日</p></td>
 <td><p>4天</p></td>
@@ -807,21 +807,21 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 </tr>
 <tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Hello" title="wikilink">Hello</a>》</p></td>
-<td><p><a href="../Page/愛黛兒.md" title="wikilink">愛黛兒</a></p></td>
+<td><p><a href="../Page/愛黛兒.md" title="wikilink">Adele</a></p></td>
 <td><p>2015年10月22日–10月28日</p></td>
 <td><p>5天</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/爱情破坏球" title="wikilink">爱情破坏球</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/麦莉·赛勒斯" title="wikilink">麦莉·赛勒斯</a></p></td>
+<td><p><a href="../Page/麥莉·希拉.md" title="wikilink">麥莉‧希拉</a></p></td>
 <td><p>2013年9月9日–9月15日</p></td>
 <td><p>6天</p></td>
 <td><p>[140]</p></td>
 </tr>
 <tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/:en:We_Can&#39;t_Stop" title="wikilink">青春大暴走</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/麦莉·赛勒斯" title="wikilink">麦莉·赛勒斯</a></p></td>
+<td><p><a href="../Page/麥莉·希拉.md" title="wikilink">麥莉‧希拉</a></p></td>
 <td><p>2013年6月19日–7月26日</p></td>
 <td><p>37天</p></td>
 <td><p>[141]</p></td>
@@ -855,9 +855,9 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <td></td>
 </tr>
 <tr class="even">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Look_What_You_Made_Me_Do" title="wikilink">Look What You Made Me Do</a>》</p></td>
+<td><p>《<a href="../Page/我！_(泰勒絲歌曲).md" title="wikilink">ME!</a>》</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Taylor_Swift" title="wikilink">Taylor Swift</a></p></td>
-<td><p>43.2M</p></td>
+<td><p>65.2M</p></td>
 </tr>
 <tr class="odd">
 <td><p><strong><em>過去記錄</em></strong></p></td>
@@ -865,18 +865,28 @@ VEVO認證獎是一個獎勵制度，以獎勵YouTube上瀏覽次數逾1億次�
 <td></td>
 </tr>
 <tr class="even">
+<td><p>《<a href="../Page/謝謝，下一位.md" title="wikilink">Thank U, Next</a>》</p></td>
+<td><p><a href="../Page/爱莉安娜·格兰德.md" title="wikilink">Ariana Grande</a></p></td>
+<td><p>55.4M</p></td>
+</tr>
+<tr class="odd">
+<td><p>《<a href="https://zh.wikipedia.org/wiki/看是你逼我的" title="wikilink">Look What You Made Me Do</a>》</p></td>
+<td><p><a href="../Page/泰勒·斯威夫特.md" title="wikilink">Taylor Swift</a></p></td>
+<td><p>43.2M</p></td>
+</tr>
+<tr class="even">
 <td><p>《<a href="https://zh.wikipedia.org/wiki/Hello" title="wikilink">Hello</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Adele" title="wikilink">Adele</a></p></td>
+<td><p><a href="../Page/愛黛兒.md" title="wikilink">Adele</a></p></td>
 <td><p>27.7M</p></td>
 </tr>
 <tr class="odd">
-<td><p>《<a href="https://zh.wikipedia.org/wiki/Bad_Blood" title="wikilink">Bad Blood</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Taylor_Swift" title="wikilink">Taylor Swift</a></p></td>
+<td><p>《<a href="https://zh.wikipedia.org/wiki/壞到底_(歌曲)" title="wikilink">Bad Blood</a>》</p></td>
+<td><p><a href="../Page/泰勒·斯威夫特.md" title="wikilink">Taylor Swift</a></p></td>
 <td><p>20.3M</p></td>
 </tr>
 <tr class="even">
 <td><p>《<a href="../Page/Anaconda.md" title="wikilink">Anaconda</a>》</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Nicki_Minaj" title="wikilink">Nicki Minaj</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/妮琪·米娜" title="wikilink">Nicki Minaj</a></p></td>
 <td><p>19.6M</p></td>
 </tr>
 </tbody>

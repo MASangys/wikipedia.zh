@@ -283,6 +283,16 @@ CHORD」（），CHORD是「合音」之意。
 </ul></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>''' 13th '''</p></td>
+<td><p>數位單曲《'''沒能對你說出口的最後一句話 '''》</p>
+<ul>
+<li>發行日期：2019年5月17日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+<li>作詞：李海莉、姜珉炅、한경수 、최한솔</li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -685,19 +695,104 @@ That's my fault</p></td>
 
 ### 創作
 
-| 年份   | 中文歌名     | 韓文歌名        | 演唱者╱收錄專輯                                               | 創作部份       |
-| ---- | -------- | ----------- | ------------------------------------------------------ | ---------- |
-| 2009 | 像傻瓜一樣    | 바보처럼        | [JunJin](../Page/前進_\(藝人\).md "wikilink")《Fascination》 | 姜珉炅－作詞     |
-| 2011 | 秘密       | 비밀          | Davichi第三張迷你專輯《Love Delight》                           | 姜珉炅－作詞、作曲  |
-| 2011 | 相愛的人啊    | 사랑하는사람아     | 電視劇《波塞冬 OST》                                           | 李海莉－作詞、作曲  |
-| 2013 | 我們的時間不一樣 | 우리의 시간은 다르다 | Davichi第二張正規專輯《Mystic Ballad》                          | 姜珉炅－作詞     |
-| 2015 | 兩個女人的房間  | 두 여자의 방     | Davichi第五張迷你專輯《DAVICHI HUG》                            | Davichi－作詞 |
-| 2015 | 給你       | 너에게         | Davichi第五張迷你專輯《DAVICHI HUG》                            | 李海莉－作詞、作曲  |
-| 2015 | 春天       | 봄           | Davichi第五張迷你專輯《DAVICHI HUG》                            | 姜珉炅－作詞、作曲  |
-| 2015 | 你也像我一樣   | 너도 나처럼      | 矮個子們 《Dandelion》                                       | 李海莉－作詞     |
-| 2018 | 那也是我們    | 그래도 우리      | Davichi第三張正規專輯《&10》                                    | 李海莉－作詞、作曲  |
-| 2018 | 不再愛了     | 사랑하지 말아요    | Davichi第三張正規專輯《&10》                                    | 姜珉炅－作詞、作曲  |
-| 2018 | 我更喜歡的是   | 내가 더 사랑하는 일 | Davichi第三張正規專輯《&10》                                    | 姜珉炅－作詞     |
+<table>
+<thead>
+<tr class="header">
+<th><p>年份</p></th>
+<th><p>中文歌名</p></th>
+<th><p>韓文歌名</p></th>
+<th><p>演唱者╱收錄專輯</p></th>
+<th><p>創作部份</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2009</p></td>
+<td><p>像傻瓜一樣</p></td>
+<td><p>바보처럼</p></td>
+<td><p><a href="../Page/前進_(藝人).md" title="wikilink">JunJin</a>《Fascination》</p></td>
+<td><p>姜珉炅－作詞</p></td>
+</tr>
+<tr class="even">
+<td><p>2011</p></td>
+<td><p>秘密</p></td>
+<td><p>비밀</p></td>
+<td><p>Davichi第三張迷你專輯《Love Delight》</p></td>
+<td><p>姜珉炅－作詞、作曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>2011</p></td>
+<td><p>相愛的人啊</p></td>
+<td><p>사랑하는사람아</p></td>
+<td><p>電視劇《波塞冬 OST》</p></td>
+<td><p>李海莉－作詞、作曲</p></td>
+</tr>
+<tr class="even">
+<td><p>2013</p></td>
+<td><p>我們的時間不一樣</p></td>
+<td><p>우리의 시간은 다르다</p></td>
+<td><p>Davichi第二張正規專輯《Mystic Ballad》</p></td>
+<td><p>姜珉炅－作詞</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015</p></td>
+<td><p>兩個女人的房間</p></td>
+<td><p>두 여자의 방</p></td>
+<td><p>Davichi第五張迷你專輯《DAVICHI HUG》</p></td>
+<td><p>Davichi－作詞</p></td>
+</tr>
+<tr class="even">
+<td><p>2015</p></td>
+<td><p>給你</p></td>
+<td><p>너에게</p></td>
+<td><p>Davichi第五張迷你專輯《DAVICHI HUG》</p></td>
+<td><p>李海莉－作詞、作曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>2015</p></td>
+<td><p>春天</p></td>
+<td><p>봄</p></td>
+<td><p>Davichi第五張迷你專輯《DAVICHI HUG》</p></td>
+<td><p>姜珉炅－作詞、作曲</p></td>
+</tr>
+<tr class="even">
+<td><p>2015</p></td>
+<td><p>你也像我一樣</p></td>
+<td><p>너도 나처럼</p></td>
+<td><p>矮個子們 《Dandelion》</p></td>
+<td><p>李海莉－作詞</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018</p></td>
+<td><p>那也是我們</p></td>
+<td><p>그래도 우리</p></td>
+<td><p>Davichi第三張正規專輯《&amp;10》</p></td>
+<td><p>李海莉－作詞、作曲</p></td>
+</tr>
+<tr class="even">
+<td><p>2018</p></td>
+<td><p>不再愛了</p></td>
+<td><p>사랑하지 말아요</p></td>
+<td><p>Davichi第三張正規專輯《&amp;10》</p></td>
+<td><p>姜珉炅－作詞、作曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018</p></td>
+<td><p>我更喜歡的是</p></td>
+<td><p>내가 더 사랑하는 일</p></td>
+<td><p>Davichi第三張正規專輯《&amp;10》</p></td>
+<td><p>姜珉炅－作詞</p></td>
+</tr>
+<tr class="even">
+<td><p>2019</p></td>
+<td><p>沒能對你說出口的最後一句話<br />
+（Unspoken Words）</p></td>
+<td><p>너에게 못했던 내 마지막 말은</p></td>
+<td><p>第十三首單曲</p></td>
+<td><p>李海莉、姜珉炅－作詞（與한경수 、최한솔）</p></td>
+</tr>
+</tbody>
+</table>
 
 ### MV
 
@@ -724,6 +819,10 @@ That's my fault</p></td>
 <!-- end list -->
 
   - 2018年 〈沒有你的時間〉\[45\]
+
+<!-- end list -->
+
+  - 2019年 〈沒能對你說出口的最後一句話〉\[46\]
 
 ## 個人音樂作品
 
@@ -785,6 +884,10 @@ That's my fault</p></td>
 <li>2019年2月20日 MBC 黃金漁場 Radio Star（珉炅）</li>
 <li>2019年3月2日 tvN 驚人的星期六 （珉炅）</li>
 <li>2019年3月20日 JTBC 請給一頓飯 （珉炅）</li>
+<li>2019年5月11日 MBC <a href="../Page/全知干預視角.md" title="wikilink">全知干預視角</a> （珉炅）</li>
+<li>2019年5月18日 MBC <a href="../Page/全知干預視角.md" title="wikilink">全知干預視角</a> （珉炅）</li>
+<li>2019年5月18日 JTBC <a href="../Page/認識的哥哥.md" title="wikilink">認識的哥哥</a></li>
+<li>2019年5月27日 KBS <a href="../Page/屋塔房的問題兒童們.md" title="wikilink">屋塔房的問題兒童們</a></li>
 </ul></td>
 </tr>
 </tbody>
@@ -1194,7 +1297,7 @@ That's my fault</p></td>
   - 2010年 SBS《[微笑，媽媽](../Page/微笑，媽媽.md "wikilink")》姜珉炅 飾 申朵莉
   - 2011年 MBN《[吸血鬼偶像](../Page/吸血鬼偶像.md "wikilink")》姜珉炅 飾 閃電
   - 2012年 KBS《[海雲臺戀人們](../Page/海雲臺戀人們.md "wikilink")》姜珉炅 飾 黃珠熙
-  - 2012年 短片《木蘭花的故事 第三彈 「慶熙的一天篇」\[46\]》（姜珉炅）
+  - 2012年 短片《木蘭花的故事 第三彈 「慶熙的一天篇」\[47\]》（姜珉炅）
   - 2015年 MBC《[最佳戀人](../Page/最佳戀人.md "wikilink")》姜珉炅 飾 韓雅凜
 
 ### 廣播電台
@@ -1310,11 +1413,13 @@ That's my fault</p></td>
 
 ### 海外演唱會
 
-| 日期        | 演唱會名稱                                 | 舉行地點               | 備註                                             |
-| --------- | ------------------------------------- | ------------------ | ---------------------------------------------- |
-| 2017年1月8日 | DAVICHI LIVE IN SINGAPORE             | 新加坡 SHANGHAI DOLLY |                                                |
-| 2018年4月1日 | 1st LIVE in Taipei 2018 DAVICHI Chord | 台灣 臺北 ATT SHOW BOX |                                                |
-| 2019年4月7日 | 2019 DAVICHI CONCERT in Taipei        | 台灣 臺北 Legacy MAX   | 演唱「原來你什麼都不要」（[張惠妹](../Page/張惠妹.md "wikilink")） |
+| 日期         | 演唱會名稱                                 | 舉行地點                     | 備註                                             |
+| ---------- | ------------------------------------- | ------------------------ | ---------------------------------------------- |
+| 2017年1月8日  | DAVICHI LIVE IN SINGAPORE             | 新加坡 SHANGHAI DOLLY       |                                                |
+| 2018年4月1日  | 1st LIVE in Taipei 2018 DAVICHI Chord | 台灣 臺北 ATT SHOW BOX       |                                                |
+| 2019年4月7日  | 2019 DAVICHI CONCERT in Taipei        | 台灣 臺北 Legacy MAX         | 演唱「原來你什麼都不要」（[張惠妹](../Page/張惠妹.md "wikilink")） |
+| 2019年6月28日 | 2019 DAVICHI CONCERT                  | 美國 洛杉磯 Bovard Auditorium |                                                |
+| 2019年6月29日 | 2019 DAVICHI CONCERT                  | 美國 舊金山 Herbst Theatre    |                                                |
 
 ### 共同演唱會
 
@@ -1769,3 +1874,4 @@ Skoollooks校服（與BigBang）、飛利浦刮鬍刀</p></td>
 44.
 45.
 46.
+47.

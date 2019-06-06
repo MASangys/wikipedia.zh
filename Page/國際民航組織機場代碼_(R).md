@@ -136,7 +136,7 @@
 </tr>
 <tr class="even">
 <td><p>RCAY</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/岡山空軍基地" title="wikilink">岡山空軍基地</a></p></td>
+<td><p><a href="../Page/中華民國空軍軍官學校.md" title="wikilink">岡山空軍基地</a></p></td>
 <td></td>
 <td><p>軍用</p></td>
 </tr>

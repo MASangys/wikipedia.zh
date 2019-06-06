@@ -50,7 +50,7 @@ Apple</p></td>
 <td><p>Light Peak</p></td>
 <td></td>
 <td><p>10 Gbit/s</p></td>
-<td><p>與<a href="../Page/USB_3.0.md" title="wikilink">USB 3.0可同時應用在未來的系統中</a>，扮演互補角色。</p></td>
+<td><p>與<a href="../Page/USB_3.0.md" title="wikilink">USB 3.0同時應用在未來的系統中</a>，扮演互補角色。</p></td>
 <td><p>具有这种接口的<a href="../Page/MacBook_Pro.md" title="wikilink">MacBook Pro及一根</a>29<a href="../Page/美元.md" title="wikilink">美元的连接线</a>。<br />
 苹果独享这技术<a href="https://zh.wikipedia.org/wiki/专利权" title="wikilink">专利权一年</a>。</p></td>
 </tr>
@@ -62,7 +62,7 @@ Apple</p></td>
 <td><p>Falcon Ridge</p></td>
 <td></td>
 <td><p>20 Gbit/s</p></td>
-<td><p>對抗USB 3.1速度</p></td>
+<td><p>追上USB 3.1的速度</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -72,7 +72,7 @@ Apple</p></td>
 <td><p>Alpine Ridge</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北国际电脑展览会" title="wikilink">COMPUTEX 2015</a></p></td>
 <td><p>40 Gbit/s</p></td>
-<td><p>連接埠更換為 USB Type-C</p></td>
+<td><p>連接埠更換為<a href="../Page/USB_Type-C.md" title="wikilink">USB Type-C</a></p></td>
 <td></td>
 </tr>
 </tbody>
@@ -80,8 +80,8 @@ Apple</p></td>
 
 ### 第一版（Thunderbolt）
 
-2011年，發表第一版Thunderbolt，訊號線最長可達10[米](https://zh.wikipedia.org/wiki/公尺 "wikilink")，[雙向同步傳輸速度可達](../Page/雙工.md "wikilink")
-10 Gbit/s。
+2011年，發表第一版Thunderbolt，訊號線最長可達10[米](https://zh.wikipedia.org/wiki/公尺 "wikilink")，[雙向同步傳輸速度可達](../Page/雙工.md "wikilink")10
+Gbit/s。
 
 Thunderbolt 技術採用兩種通訊協定 ，包括用在資料傳輸的 [PCI
 Express](../Page/PCI_Express.md "wikilink") ，以及用在顯示的

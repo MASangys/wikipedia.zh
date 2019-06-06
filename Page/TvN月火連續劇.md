@@ -786,14 +786,25 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年5月－<br />
-2019年</p></td>
+<td style="text-align: center;"><p>2019年5月6日－<br />
+2019年6月25日</p></td>
 <td style="text-align: center;"><p><a href="../Page/Abyss.md" title="wikilink">Abyss</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴寶英" title="wikilink">朴寶英</a>、<a href="../Page/安孝燮.md" title="wikilink">安孝燮</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/柳濟元" title="wikilink">柳濟元</a></p></td>
 <td style="text-align: center;"><p>文秀妍</p></td>
+<td style="text-align: center;"></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><p>2019年7月1日－<br />
+2019年8月</p></td>
+<td style="text-align: center;"><p><a href="../Page/60天，指定倖存者.md" title="wikilink">60天，指定倖存者</a><br />
+</p></td>
+<td style="text-align: center;"><p>16</p></td>
+<td style="text-align: center;"><p><a href="../Page/池珍熙.md" title="wikilink">池珍熙</a>、<a href="../Page/裴宗玉.md" title="wikilink">裴宗玉</a>、<a href="../Page/金奎吏.md" title="wikilink">金奎吏</a>、<a href="../Page/李浚赫.md" title="wikilink">李浚赫</a>、<a href="../Page/姜漢娜.md" title="wikilink">姜漢娜</a></p></td>
+<td style="text-align: center;"><p>柳鐘善</p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金泰姬" title="wikilink">金泰姬</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 </tbody>

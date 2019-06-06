@@ -1,4 +1,4 @@
-[第一次世界大战期间的](../Page/第一次世界大战.md "wikilink")**[奥匈帝国](https://zh.wikipedia.org/wiki/奥匈帝国 "wikilink")[U-潜艇](https://zh.wikipedia.org/wiki/U-潜艇 "wikilink")**舰队主要由[德意志帝国建造舰只组成](https://zh.wikipedia.org/wiki/德意志帝国 "wikilink")，从德国北部的船厂通过铁路运输至[亚得里亚海的奥地利港口](../Page/亚得里亚海.md "wikilink")。
+[第一次世界大战期间的](../Page/第一次世界大战.md "wikilink")**[奥匈帝国](../Page/奥匈帝国.md "wikilink")[U-潜艇](https://zh.wikipedia.org/wiki/U-潜艇 "wikilink")**舰队主要由[德意志帝国建造舰只组成](https://zh.wikipedia.org/wiki/德意志帝国 "wikilink")，从德国北部的船厂通过铁路运输至[亚得里亚海的奥地利港口](../Page/亚得里亚海.md "wikilink")。
 
 ## 奥匈帝国U-潜艇一览
 

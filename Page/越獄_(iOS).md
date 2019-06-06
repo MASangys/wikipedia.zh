@@ -453,9 +453,11 @@ Jakeashacks</p></td>
 <td><p>iOS 12 - iOS 12.1.2</p></td>
 <td><p>-</p></td>
 <td><p>RootlessJB<br />
-unc0ver</p></td>
+unc0ver<br />
+Chimera (支援A12機種)</p></td>
 <td><p>Jakeashacks<br />
-pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></td>
+pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom<br />
+CoolStar, nullpixel, tri'angle, ninjaprawn, Brandon Azad, PsychoTea, AppleBetas, aesign</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -739,9 +741,28 @@ pwn20wnd, Sam Bingner, DennisBednarz, Samg_is_a_Ninja, Jakeashacks, notcom</p></
 
 ### 支持中的设备
 
-| 支持的最新版本的iOS系统 | 越狱所用软件  | 可正常越狱的固件版本号         | 最新正常越狱可使用的软件 | 越狱后是否需要引导启动（是否为完美越狱） |
-| ------------- | ------- | ------------------- | ------------ | -------------------- |
-| 12.1.2        | unc0ver | IOS 12 - iOS 12.1.2 | unc0ver      | 需要引导启动（不完美越狱）        |
+<table>
+<thead>
+<tr class="header">
+<th><p>支持的最新版本的iOS系统</p></th>
+<th><p>越狱所用软件</p></th>
+<th><p>可正常越狱的固件版本号</p></th>
+<th><p>最新正常越狱可使用的软件</p></th>
+<th><p>越狱后是否需要引导启动（是否为完美越狱）</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>12.1.2</p></td>
+<td><p>unc0ver<br />
+Chimera</p></td>
+<td><p>IOS 12 - iOS 12.1.2</p></td>
+<td><p>unc0ver<br />
+Chimera</p></td>
+<td><p>需要引导启动（不完美越狱）</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 相关条目
 

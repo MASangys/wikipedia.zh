@@ -178,4 +178,4 @@ IEEE荣誉奖章由[IEEE每年评选颁发](https://zh.wikipedia.org/wiki/IEEE "
 
 1.  [2017 IEEE Medals and recognitions recipients and
     citations](http://www.ieee.org/about/awards/2017_medal_recog_recipients_citationslist.pdf)
-    (PDF, 46 kB); retrieved 30. November 2016.
+     (PDF, 46 kB); retrieved 30. November 2016.

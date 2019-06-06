@@ -121,7 +121,7 @@ Nation**》，參赛資格是16－25歲的亞裔少年男女，而男、女兩�
 <td><p>Sunshine Boyz冠軍</p></td>
 <td><ul>
 <li>2006年前往<a href="https://zh.wikipedia.org/wiki/北京電影學院" title="wikilink">北京電影學院深造至今</a></li>
-<li>同時成為當地平面<a href="../Page/模特兒.md" title="wikilink">模特兒和</a><a href="https://zh.wikipedia.org/wiki/演員" title="wikilink">演員</a></li>
+<li>同時成為當地平面<a href="../Page/模特兒.md" title="wikilink">模特兒和</a><a href="../Page/演員.md" title="wikilink">演員</a></li>
 <li>是<a href="https://zh.wikipedia.org/wiki/饒雪漫" title="wikilink">饒雪漫小說的書模</a>，也在其小說《<a href="../Page/沙漏.md" title="wikilink">沙漏</a>》<a href="https://zh.wikipedia.org/wiki/MTV" title="wikilink">MTV版本主角</a></li>
 </ul></td>
 <td><ul>

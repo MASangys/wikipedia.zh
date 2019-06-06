@@ -171,10 +171,6 @@ float length(vector v) {
     Beginners](http://www.smartcg.com/tech/cg/books/RfB)里用到的
     RIB文件和材质
 
-[en:RenderMan Interface
-Specification](https://zh.wikipedia.org/wiki/en:RenderMan_Interface_Specification "wikilink")
-[sv:RenderMan](https://zh.wikipedia.org/wiki/sv:RenderMan "wikilink")
-
 [Category:计算机图形学](https://zh.wikipedia.org/wiki/Category:计算机图形学 "wikilink")
 [Category:三维图像软件](https://zh.wikipedia.org/wiki/Category:三维图像软件 "wikilink")
 [Category:RenderMan](https://zh.wikipedia.org/wiki/Category:RenderMan "wikilink")

@@ -94,8 +94,8 @@ M27步兵自動步槍。\]\]
 ## 設計細節
 
 M27
-IAR的設計和技術都是由[HK416改進而成](../Page/HK416突擊步槍.md "wikilink")，而HK416本身就是以[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")（[M16步槍的](../Page/M16突擊步槍.md "wikilink")14.5[英吋](https://zh.wikipedia.org/wiki/英吋 "wikilink")[槍管](../Page/槍管.md "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")）作為藍本，保留原來的[滾轉式槍機](../Page/滾轉式槍機.md "wikilink")，但是將其原來的[直接導氣改為](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#直噴式气动操作 "wikilink")[HK
-G36的](../Page/HK_G36突擊步槍.md "wikilink")[短行程導氣活塞傳動系統](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#短行程活塞傳動 "wikilink")。\[31\]整體而言，它是一枝氣動式短行程活塞傳動及滾轉式槍機型自動步槍。
+IAR的設計和技術都是由[HK416改進而成](../Page/HK416突擊步槍.md "wikilink")，而HK416本身就是以[M4卡賓槍](../Page/M4卡賓槍.md "wikilink")（[M16步槍的](../Page/M16突擊步槍.md "wikilink")14.5[英吋](https://zh.wikipedia.org/wiki/英吋 "wikilink")[槍管](../Page/槍管.md "wikilink")[卡賓槍](https://zh.wikipedia.org/wiki/卡賓槍 "wikilink")）作為藍本，保留原來的[轉拴式槍栓](../Page/轉拴式槍栓.md "wikilink")，但是將其原來的[直接導氣改為](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#直噴式气动操作 "wikilink")[HK
+G36的](../Page/HK_G36突擊步槍.md "wikilink")[短行程導氣活塞傳動系統](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#短行程活塞傳動 "wikilink")。\[31\]整體而言，它是一枝氣動式短行程活塞傳動及轉拴式槍栓型自動步槍。
 
 [自由浮動式](../Page/自由浮動式槍管.md "wikilink")[槍管是由具有](../Page/槍管.md "wikilink")4條[MIL-STD-1913戰術導軌的前護木所包覆](../Page/皮卡汀尼導軌.md "wikilink")，而後者可用以安裝戰術及光學配件。採用了簡單的氣體活塞式步槍系統的M27
 IAR所需要的故障解決時間比M249要縮短許多。\[32\]M27

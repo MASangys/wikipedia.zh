@@ -24,8 +24,6 @@ Tolhurst被开除](https://zh.wikipedia.org/wiki/Lol_Tolhurst "wikilink")，没�
 11. "Homesick" – 7:06
 12. "Untitled" – 6:30
 
-[ja:ディスインテグレーション](https://zh.wikipedia.org/wiki/ja:ディスインテグレーション "wikilink")
-
 [Category:治療樂隊音樂專輯](https://zh.wikipedia.org/wiki/Category:治療樂隊音樂專輯 "wikilink")
 [Category:1989年音樂專輯](https://zh.wikipedia.org/wiki/Category:1989年音樂專輯 "wikilink")
 [Category:Elektra_Records音乐专辑](https://zh.wikipedia.org/wiki/Category:Elektra_Records音乐专辑 "wikilink")

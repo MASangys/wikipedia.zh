@@ -46,6 +46,7 @@ A**（[韓語](https://zh.wikipedia.org/wiki/韓語 "wikilink")：****），為�
   - [千萬Holic，Coming Soon](../Page/千萬Holic，Coming_Soon.md "wikilink")
   - [給你宇宙](../Page/給你宇宙.md "wikilink")
   - [都市漁夫](https://zh.wikipedia.org/wiki/都市漁夫 "wikilink")
+  - [新職員誕生記](https://zh.wikipedia.org/wiki/新職員誕生記 "wikilink")
 
 ### 探討節目
 

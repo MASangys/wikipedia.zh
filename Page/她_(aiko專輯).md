@@ -31,7 +31,7 @@ aiko親自出演專輯的宣傳廣告，並且邀請來[大杉漣和](../Page/�
 
 ## 外部連結
 
-  - [唱片介紹](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200600001279&DSP_SKHKETSEQ=001)
+  - [唱片介紹](https://web.archive.org/web/20110908013328/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200600001279&DSP_SKHKETSEQ=001)
 
 [Category:aiko音樂專輯](https://zh.wikipedia.org/wiki/Category:aiko音樂專輯 "wikilink")
 [Category:2006年音樂專輯](https://zh.wikipedia.org/wiki/Category:2006年音樂專輯 "wikilink")

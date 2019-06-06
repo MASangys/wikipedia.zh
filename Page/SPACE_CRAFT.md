@@ -46,9 +46,7 @@
 
   - [宇浦冴香](../Page/宇浦冴香.md "wikilink")
   - [大垣知哉](https://zh.wikipedia.org/wiki/大垣知哉 "wikilink")
-  - [梶浦由記](../Page/梶浦由記.md "wikilink")
   - [かとうあすか](https://zh.wikipedia.org/wiki/かとうあすか "wikilink")
-  - [Kalafina](../Page/Kalafina.md "wikilink")
   - [キャナァーリ倶楽部](https://zh.wikipedia.org/wiki/キャナァーリ倶楽部 "wikilink")
   - [齊藤恒芳](https://zh.wikipedia.org/wiki/齊藤恒芳 "wikilink")
   - [BON-BON
@@ -58,7 +56,6 @@
   - [FictionJunction
     YUUKA](../Page/FictionJunction.md "wikilink")（[南里侑香](../Page/南里侑香.md "wikilink")）
   - [織田かおり](https://zh.wikipedia.org/wiki/織田かおり "wikilink")
-  - [窪田啓子](../Page/窪田啓子.md "wikilink")
   - [結城愛良](../Page/結城愛良.md "wikilink")
   - [尾澤拓實](https://zh.wikipedia.org/wiki/尾澤拓實 "wikilink")
 

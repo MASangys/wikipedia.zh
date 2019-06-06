@@ -1,5 +1,3 @@
-[SMRT.png](https://zh.wikipedia.org/wiki/File:SMRT.png "fig:SMRT.png")
-
 **SMRT集團**（、）是[新加坡的兩大](../Page/新加坡.md "wikilink")[公共運輸機構之一](https://zh.wikipedia.org/wiki/公共運輸 "wikilink")，成立於1987年，並於2000年7月上市\[1\]\[2\]，經營項目包括新加坡的[地鐵](../Page/地鐵.md "wikilink")、[輕軌系統](https://zh.wikipedia.org/wiki/輕軌 "wikilink")、[計程車及](https://zh.wikipedia.org/wiki/計程車 "wikilink")[巴士業務](https://zh.wikipedia.org/wiki/巴士 "wikilink")。
 
 2016年7月20日，[淡馬錫控股全面收購SMRT](https://zh.wikipedia.org/wiki/淡馬錫控股 "wikilink")。

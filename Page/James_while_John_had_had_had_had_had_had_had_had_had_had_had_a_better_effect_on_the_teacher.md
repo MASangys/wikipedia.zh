@@ -1,4 +1,4 @@
-“”是一个表示用词[歧義和](https://zh.wikipedia.org/wiki/歧義性 "wikilink")[标点符号重要性的英文](../Page/标点符号.md "wikilink")[句子](https://zh.wikipedia.org/wiki/句子 "wikilink")；\[1\]然而，句子本有的標點符號被[語調](../Page/聲調語言.md "wikilink")、\[2\][重音和](https://zh.wikipedia.org/wiki/重音 "wikilink")[停頓代替了](https://zh.wikipedia.org/wiki/停頓 "wikilink")，结果它们只能通过对话听出却无法写到纸上。\[3\]在對於人類怎樣處理資訊的研究中，该句經常會被用来說明標點符號的重要性，我們應倚重標點符號來表達句子的意思，而非用語調、重音或停頓。\[4\]
+“”這個英文[句子是用來說明用词](https://zh.wikipedia.org/wiki/句子 "wikilink")[歧義和](https://zh.wikipedia.org/wiki/歧義性 "wikilink")[标点符号的重要性](../Page/标点符号.md "wikilink")；\[1\]標點符號的作用就是代替口語中的[語調](../Page/聲調語言.md "wikilink")、\[2\][重音和](https://zh.wikipedia.org/wiki/重音 "wikilink")[停頓](https://zh.wikipedia.org/wiki/停頓 "wikilink")。\[3\]在探討人類如何處理資訊的研究中，常用這句話来說明讀者會借助標點符號來理解句子的意思，尤其在掃讀多行文字時更是如此。\[4\]
 
 ## 句子的背景和意思
 

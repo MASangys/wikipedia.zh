@@ -1488,7 +1488,7 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/班·西蒙斯" title="wikilink">班·西蒙斯</a>^</p></td>
+<td><p><strong><a href="https://zh.wikipedia.org/wiki/班·西蒙斯" title="wikilink">班·西蒙斯</a>^</strong></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/费城七六人" title="wikilink">费城七六人</a> (18)</p></td>
 </tr>
 <tr class="even">
@@ -1499,17 +1499,42 @@ Award）和[最有价值球员](https://zh.wikipedia.org/wiki/NBA最有价值球
 <tr class="odd">
 <td><p><a href="../Page/傑森·塔圖姆.md" title="wikilink">傑森·塔圖姆</a>^</p></td>
 <td><p><a href="../Page/波士顿凯尔特人.md" title="wikilink">波士顿凯尔特人</a> (21)</p></td>
-<td><p>^</p></td>
+<td><p><a href="../Page/約翰·柯林斯.md" title="wikilink">約翰·柯林斯</a>^</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/凱爾·庫茲馬" title="wikilink">凱爾·庫茲馬</a>^</p></td>
 <td><p><a href="../Page/洛杉矶湖人.md" title="wikilink">洛杉矶湖人</a> (17)</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/波格丹·博格達諾維奇" title="wikilink">波格丹·博格達諾維奇</a>^</p></td>
+<td><p><a href="../Page/波格丹·波格丹諾維奇.md" title="wikilink">波格丹·波格丹諾維奇</a>^</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/勞里·馬爾卡寧" title="wikilink">勞里·馬爾卡寧</a>^</p></td>
 <td><p><a href="../Page/芝加哥公牛.md" title="wikilink">芝加哥公牛</a> (22)</p></td>
 <td><p><a href="../Page/喬許·傑克森.md" title="wikilink">喬許·傑克森</a>^</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/盧卡·唐西奇" title="wikilink">盧卡·唐西奇</a>^</p></td>
+<td><p><a href="../Page/達拉斯獨行俠.md" title="wikilink">達拉斯獨行俠</a> (10)</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/崔·楊" title="wikilink">崔·楊</a>^</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/亞特蘭大老鷹" title="wikilink">亞特蘭大老鷹</a> (14)</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/柯林·塞克斯頓" title="wikilink">柯林·塞克斯頓</a>^</p></td>
+</tr>
+<tr class="even">
+<td><p><em><a href="https://zh.wikipedia.org/wiki/德安德魯·艾頓" title="wikilink">德安德魯·艾頓</a></em>^</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/鳳凰城太陽" title="wikilink">鳳凰城太陽</a> (16)</p></td>
+<td><p>^</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/小杰倫·傑克森" title="wikilink">小杰倫·傑克森</a>^</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/曼菲斯灰熊" title="wikilink">曼菲斯灰熊</a> (12)</p></td>
+<td><p>^</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/馬文·貝格利三世" title="wikilink">馬文·貝格利三世</a>^</p></td>
+<td><p><a href="../Page/沙加緬度國王.md" title="wikilink">沙加緬度國王</a> (19)</p></td>
+<td><p>^</p></td>
 </tr>
 </tbody>
 </table>

@@ -1,4 +1,4 @@
-**Haha**（；），本名**河東勳**（），[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[雷鬼](https://zh.wikipedia.org/wiki/雷鬼 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員及](https://zh.wikipedia.org/wiki/演員 "wikilink")[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")，現多半以節目主持身份活躍於演藝界。Haha為其英文名兼暱稱，因為他的姓氏「河」在韓語中讀作ha，故演藝圈稱其為「河河」，也叫「哈哈」。
+**Haha**（；），本名**河東勳**（），[韓國](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[雷鬼](https://zh.wikipedia.org/wiki/雷鬼 "wikilink")[歌手](../Page/歌手.md "wikilink")、[演員及](../Page/演員.md "wikilink")[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")，現多半以節目主持身份活躍於演藝界。Haha為其英文名兼暱稱，因為他的姓氏「河」在韓語中讀作ha，故演藝圈稱其為「河河」，也叫「哈哈」。
 
 ## 經歷
 
@@ -8,7 +8,7 @@ Haha出身於嘻哈組合，2001年以《A/K/A Check Up》出道。
 成為韓國著名綜藝節目《[X-Man](../Page/X-Man_\(韓國節目\).md "wikilink")》的固定嘉賓，同時也擔任《[無限挑戰](../Page/無限挑戰.md "wikilink")》與《[Running
 Man](../Page/Running_Man.md "wikilink")》的主持人，並在電台擁有自己的節目《》。
 
-戲劇方面，Haha也曾經演出不少劇集及電影，包括《[彩虹羅曼史](../Page/彩虹羅曼史.md "wikilink")》、《》以及《元卓的天使》等，由於同時具有[歌手](../Page/歌手.md "wikilink")、[演員及](https://zh.wikipedia.org/wiki/演員 "wikilink")[主持等身分](https://zh.wikipedia.org/wiki/主持 "wikilink")，因而被人稱為「全能藝人」。於2008年2月入伍服役並於2010年3月回歸。
+戲劇方面，Haha也曾經演出不少劇集及電影，包括《[彩虹羅曼史](../Page/彩虹羅曼史.md "wikilink")》、《》以及《元卓的天使》等，由於同時具有[歌手](../Page/歌手.md "wikilink")、[演員及](../Page/演員.md "wikilink")[主持等身分](https://zh.wikipedia.org/wiki/主持 "wikilink")，因而被人稱為「全能藝人」。於2008年2月入伍服役並於2010年3月回歸。
 
 2006年7月公開與[MBC氣象報導員安惠京的戀情](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")，二人表現甜蜜也曾成為韓國人心目中「最可能馬上結婚的情侶」。可是於2010年當兵期間，戀情無疾而終，曾於《Running
 Man》中表示戀情長達五年，並問候對方。

@@ -1,7 +1,7 @@
 [RDS-1.jpg](https://zh.wikipedia.org/wiki/File:RDS-1.jpg "fig:RDS-1.jpg")的內爆型核武，RDS-1的前方表面上像眼睛的東西是雷達[近接信管](https://zh.wikipedia.org/wiki/近接信管 "wikilink")。\]\]
 
 **RDS-1**（****），是[蘇聯第一個](https://zh.wikipedia.org/wiki/蘇聯 "wikilink")[核試驗武器](https://zh.wikipedia.org/wiki/核試驗 "wikilink")。在西方，它的代號是**Joe-1**，參考自苏联领导人[史太林名字](https://zh.wikipedia.org/wiki/史太林 "wikilink")[約瑟夫的昵称](https://zh.wikipedia.org/wiki/約瑟夫 "wikilink")。
-經過高度機密的[研究開發後](../Page/研究開發.md "wikilink")，RDS-1在1949年8月29日於[哈薩克的](https://zh.wikipedia.org/wiki/哈薩克蘇維埃社會主義共和國 "wikilink")第一次試爆\[1\]。RDS-1是所構思的，當時官方稱其為實驗室第二號，但自1946年4月起內部文件將它定性為與辦公室或基地一樣的事物。1948年，[鈾-235工廠在](../Page/鈾-235.md "wikilink")[車里雅賓斯克附近建成](../Page/車里雅賓斯克.md "wikilink")\[2\]。
+經過高度機密的[研究開發後](../Page/研究開發.md "wikilink")，RDS-1在1949年8月29日於[哈薩克的](https://zh.wikipedia.org/wiki/哈薩克蘇維埃社會主義共和國 "wikilink")[塞米巴拉金斯克試驗場第一次試爆](https://zh.wikipedia.org/wiki/塞米巴拉金斯克基地 "wikilink")\[1\]。RDS-1是所構思的，當時官方稱其為實驗室第二號，但自1946年4月起內部文件將它定性為與辦公室或基地一樣的事物。1948年，[鈾-235工廠在](../Page/鈾-235.md "wikilink")[車里雅賓斯克附近建成](../Page/車里雅賓斯克.md "wikilink")\[2\]。
 
 ## 測試前後
 

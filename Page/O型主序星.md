@@ -71,9 +71,6 @@ O型星都很年輕，年齡都只有數百萬年的歲月。在我們的[銀河
 
 ## 參考資料
 
-[de:Blauer
-Zwerg](https://zh.wikipedia.org/wiki/de:Blauer_Zwerg "wikilink")
-
 [Category:恆星類型](https://zh.wikipedia.org/wiki/Category:恆星類型 "wikilink")
 [Category:O型主序星](https://zh.wikipedia.org/wiki/Category:O型主序星 "wikilink")
 

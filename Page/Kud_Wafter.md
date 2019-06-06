@@ -1,12 +1,10 @@
 Spec|publisher=|accessdate=2013年4月27日|language=Ja}}</ref>
 2013年6月28日（[PC全年龄版](../Page/PC.md "wikilink")）\[1\]\[2\]
-2013年12月19日（[PSV](https://zh.wikipedia.org/wiki/PSV "wikilink")） |啟用時期=
-|售價= |銷售數量= |對象年齡= 18禁（PC/BDPG/Android）
-[CERO](https://zh.wikipedia.org/wiki/CERO "wikilink") C（PSP/PSV） |周邊界面=
-|內容圖片= |名字變更= |結局數= |記錄檔數=100 |記錄檔容量= |快速記錄= |快速讀取= |繼續遊戲= |畫面尺寸=
-800×600 |全螢幕表示模式= 有 |音樂形式= |角色配音= |訊息回顧= 有 |CG模式= 有 |音樂模式= 有 |回憶模式=有
-|訊息略過= 有 |自動模式= 有 |其他= }}  《**Kud
-Wafter**》（[日语](../Page/日语.md "wikilink")：）是[Key于](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")2010年6月25日于[Windows平台发售的日本](https://zh.wikipedia.org/wiki/Windows "wikilink")[成人](https://zh.wikipedia.org/wiki/日本成人游戏 "wikilink")[视觉小说游戏](../Page/视觉小说.md "wikilink")，又称为《**库特wafter**》、《**库特after**》。《Kud
+2013年12月19日（[PSV](https://zh.wikipedia.org/wiki/PSV "wikilink")） |對象年齡=
+18禁（PC/BDPG/Android）
+[CERO](https://zh.wikipedia.org/wiki/CERO "wikilink") C（PSP/PSV） |結局數=
+}}  《**Kud
+Wafter**》（[日语](../Page/日语.md "wikilink")：）是[Key于](https://zh.wikipedia.org/wiki/Key_\(公司\) "wikilink")2010年6月25日于[Windows平台发售的日本](https://zh.wikipedia.org/wiki/Windows "wikilink")[成人](https://zh.wikipedia.org/wiki/日本成人游戏 "wikilink")[戀愛冒險游戏](https://zh.wikipedia.org/wiki/戀愛冒險游戏 "wikilink")，又称为《**库特wafter**》、《**库特after**》。《Kud
 Wafter》是Key开发的第8部游戏，是同公司的游戏《[Little
 Busters\!](../Page/Little_Busters!.md "wikilink")》和《[Little Busters\!
 EX](../Page/Little_Busters!.md "wikilink")》的后日谈。Key于2013年6月18日发售了一个本作品的去掉色情部分的全年龄版本，并已经将本作品移植到[安卓](https://zh.wikipedia.org/wiki/安卓 "wikilink")、BDPG、[PSP](https://zh.wikipedia.org/wiki/PSP "wikilink")、[PSV等平台](https://zh.wikipedia.org/wiki/PSVita "wikilink")。

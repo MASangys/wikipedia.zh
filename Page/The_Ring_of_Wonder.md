@@ -38,6 +38,6 @@ World\[2\]。
 
 [Category:2005年建立的网站](https://zh.wikipedia.org/wiki/Category:2005年建立的网站 "wikilink")
 
-1.  [骷髅柱——更新历史](https://trow.cc/pos/new.htm)
+1.
 2.  [T.R.O.W.四周年](https://trow.cc/forum/index.php?s=&showtopic=16992&view=findpost&p=103073)
 3.  [T.R.O.W.十周年](https://trow.cc/board/index.php?showtopic=28051)

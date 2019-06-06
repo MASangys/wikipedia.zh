@@ -1,4 +1,4 @@
-**nofollow**是[HTML的一个属性](../Page/HTML.md "wikilink")，用于告诉[搜索引擎不要追踪特定的网页链接](../Page/搜索引擎.md "wikilink")。可以用于阻止在[PR值高的网站上以留言等方式添加链接从而提高自身网站排名的行为](../Page/PageRank.md "wikilink")，以改善搜索结果的质量，防止垃圾链接的蔓延。网站站长也可对其网页中的付费链接使用nofollow来防止该链接降低搜索排名。对一些重要度低的网页内容使用nofollow，还可以使搜索引擎以不同的优先级别来抓取网页内容。\[1\]
+**nofollow**是[HTML中的一個屬性](../Page/HTML.md "wikilink")，用于告诉[搜索引擎不要追踪特定的网页链接](../Page/搜索引擎.md "wikilink")。可以用于阻止在[PR值高的网站上以留言等方式添加链接从而提高自身网站排名的行为](../Page/PageRank.md "wikilink")，以改善搜索结果的质量，防止垃圾链接的蔓延。网站站长也可对其网页中的付费链接使用nofollow来防止该链接降低搜索排名。对一些重要度低的网页内容使用nofollow，还可以使搜索引擎以不同的优先级别来抓取网页内容。\[1\]
 
 ## 来源
 
@@ -19,7 +19,13 @@ and/or [W3C](https://zh.wikipedia.org/wiki/W3C "wikilink").\[5\]
 
 [Google早在](../Page/Google.md "wikilink")2005年声明，使用`rel="nofollow"`的超链接不会影响这个链接的排名[PageRank](../Page/PageRank.md "wikilink")。Yahoo和Bing的搜索引擎也遵守这个法则。\[6\]\[7\]
 
+到2006年時，主流外文搜尋引擎已經公開發表聲明支援Nofollow，但百度到2010年才支援這個屬性。
+
 每个搜索引擎对这个属性的解释不同。有一些引擎会字面理解一下，并且不会再去访问这个链接；但是有些还会“follow”这些链接，并且做排名参照。在最近的情况中，`rel="nofollow"`实际上是告诉引擎“不要因此处而影响对这个链接的排名”，而不是“不要访问这个链接”。
+
+Google對Nofollow的說明是：一般情況下，我們不追蹤這些連結。也就是說，在極為特殊的情況下，Nofollow連結依然會傳遞權重。當然，在大部分情況下，搜尋引擎蜘蛛都不追蹤Nofollow連結。
+
+因此Nofollow更像是一種提示，而不是指令。
 
 ### 举例
 

@@ -1,5 +1,5 @@
-**Google Native Client**（縮寫為
-），是一个由[谷歌所發起的](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[開放原始碼計劃](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，採用[BSD许可证](../Page/BSD许可证.md "wikilink")。它採用[沙盒技術](https://zh.wikipedia.org/wiki/沙盒_\(計算機安全\) "wikilink")，讓[Intel
+**Google Native
+Client**（縮寫為****），是一个由[谷歌所發起的](https://zh.wikipedia.org/wiki/谷歌 "wikilink")[開放原始碼計劃](https://zh.wikipedia.org/wiki/開放原始碼 "wikilink")，採用[BSD许可证](../Page/BSD许可证.md "wikilink")。它採用[沙盒技術](https://zh.wikipedia.org/wiki/沙盒_\(計算機安全\) "wikilink")，讓[Intel
 x86](https://zh.wikipedia.org/wiki/Intel_x86 "wikilink")、[ARM或](https://zh.wikipedia.org/wiki/ARM "wikilink")[MIPS子集的](https://zh.wikipedia.org/wiki/MIPS "wikilink")[機器碼直接在沙盒上運行](https://zh.wikipedia.org/wiki/機器碼 "wikilink")。它能夠從[瀏覽器直接運行程式機器碼](https://zh.wikipedia.org/wiki/瀏覽器 "wikilink")，獨立於使用者的作業系統之外，使[Web應用程式可以用接近於機器碼運作的速度來執行](https://zh.wikipedia.org/wiki/Web應用程式 "wikilink")，同時兼顧安全性。其功能類似於[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")
 [ActiveX](../Page/ActiveX.md "wikilink")，但是ActiveX只支援視窗系統。
 

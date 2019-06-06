@@ -140,11 +140,6 @@ v1.0 Core Software平台。
 
 </references>
 
-## 外部連結
-
-  - [MeeGo主頁](http://meego.com/)
-  - [MeeGo FAQ](http://meego.com/about/faq)
-
 [Category:诺基亚](https://zh.wikipedia.org/wiki/Category:诺基亚 "wikilink")
 [Category:英特尔软件](https://zh.wikipedia.org/wiki/Category:英特尔软件 "wikilink")
 [Category:嵌入式Linux發行版](https://zh.wikipedia.org/wiki/Category:嵌入式Linux發行版 "wikilink")

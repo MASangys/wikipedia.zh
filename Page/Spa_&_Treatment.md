@@ -1,5 +1,5 @@
-《**Spa & Treatment**》（，*Spa &
-Treatment*）是[東京事變的第七張](../Page/東京事變.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。起初僅接受林檎班的會員預定，然後在2010年3月26日起開跑的《東京事變
+《**Spa &
+Treatment**》是[東京事變的第七張](../Page/東京事變.md "wikilink")[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")。起初僅接受林檎班的會員預定，然後在2010年3月26日起開跑的《東京事變
 live tour 2010 Ultra C》巡迴演唱會會場上以優惠的價格發售，一般發售則於2010年8月25日與《[Ultra
 C](../Page/Ultra_C.md "wikilink")》一同發售。
 

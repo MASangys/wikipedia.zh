@@ -1,4 +1,4 @@
-**BusyBox**是一個遵循[GPL協議](https://zh.wikipedia.org/wiki/GPL "wikilink")、以[自由軟體形式發行的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。Busybox在单一的[可执行文件中提供了精简的](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")[Unix工具集](https://zh.wikipedia.org/wiki/Unix "wikilink")，可运行于多款[POSIX环境的操作系统](https://zh.wikipedia.org/wiki/POSIX "wikilink")，例如Linux（包括Android\[1\]）、Hurd\[2\]、FreeBSD\[3\]\[4\]等等。由於BusyBox執行檔的檔案大小比較小、並通常使用[Linux內核](https://zh.wikipedia.org/wiki/Linux內核 "wikilink")，這使得它非常適合使用於[嵌入式系统](../Page/嵌入式系统.md "wikilink")。作者将BusyBox稱為「嵌入式Linux的瑞士軍刀」。\[5\]
+**BusyBox**是一個遵循[GPL協議](https://zh.wikipedia.org/wiki/GPL "wikilink")、以[自由軟體形式發行的](https://zh.wikipedia.org/wiki/自由軟體 "wikilink")[應用程式](https://zh.wikipedia.org/wiki/應用程式 "wikilink")。Busybox在单一的[可执行文件中提供了精简的](https://zh.wikipedia.org/wiki/可执行文件 "wikilink")[Unix工具集](https://zh.wikipedia.org/wiki/Unix "wikilink")，可运行于多款[POSIX环境的操作系统](https://zh.wikipedia.org/wiki/POSIX "wikilink")，例如Linux（包括Android\[1\]）、Hurd\[2\]、FreeBSD\[3\]\[4\]等等。由於BusyBox執行檔的檔案大小比較小，使得它非常適合使用於[嵌入式系统](../Page/嵌入式系统.md "wikilink")。作者将BusyBox稱為「嵌入式Linux的瑞士軍刀」。\[5\]
 
 ## 歷史
 
@@ -14,7 +14,7 @@ Andersen在1999年開始正式地接手這個專案繼續維護它到2006年三�
 
 ## 功能
 
-BusyBox可以被自訂化以提供一個超過兩百種功能的子集。它可以提供多數詳列在[單一UNIX規範裡的功能](../Page/單一UNIX規範.md "wikilink")，以及許多使用者會想在Linux系統上看到的功能。BusyBox使用[ash](https://zh.wikipedia.org/wiki/ash "wikilink")。\[6\]\[7\]在
+BusyBox可以被自訂化以提供一個超過兩百種功能的子集。它可以提供多數詳列在[單一UNIX規範裡的功能](../Page/單一UNIX規範.md "wikilink")，以及許多使用者會想在Linux系統上看到的功能。BusyBox使用[ash](../Page/Almquist_shell.md "wikilink")。\[6\]\[7\]在
 BusyBox的網站上可以找到所有功能的列表。\[8\]
 
 ### 單一可執行檔
@@ -91,7 +91,7 @@ BusyBox所包含的程式只需要簡單的將名稱附加在第一個參數即�
   - [sleep](https://zh.wikipedia.org/wiki/sleep_\(Unix\) "wikilink")
   - [sync](https://zh.wikipedia.org/wiki/sync_\(Unix\) "wikilink") -
     将缓存写入到硬盘中
-  - [tar](https://zh.wikipedia.org/wiki/Archiver "wikilink")
+  - [tar](../Page/Tar.md "wikilink")
   - [touch](https://zh.wikipedia.org/wiki/touch_\(Unix\) "wikilink")
   - [umount](https://zh.wikipedia.org/wiki/umount "wikilink") 移除掛載的儲存裝置
   - [uname](https://zh.wikipedia.org/wiki/uname "wikilink") - 查看系统信息

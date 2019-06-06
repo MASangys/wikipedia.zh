@@ -197,9 +197,9 @@ CRH380B型动车组设有一等座、二等座、观光座、VIP座等座席等�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>20</p></td>
+<td><p>19</p></td>
 <td><p>3609、3705、3713、3722、3724、3727、3728、3745、<br />
-5737、5743、5754、5755、5798、5829、5834、5841、5844、5845、5848、5849</p></td>
+5737、5743、5754、5755、5798、5829、5834、5844、5845、5848、5849</p></td>
 <td><p>徐州东</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/沪昆高铁" title="wikilink">沪昆高铁</a>、<a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深鐵路</a>、<a href="https://zh.wikipedia.org/wiki/京廣高鐵" title="wikilink">京廣高鐵</a>、<a href="https://zh.wikipedia.org/wiki/沪汉蓉铁路" title="wikilink">沪汉蓉铁路</a>、<a href="https://zh.wikipedia.org/wiki/宁杭高铁" title="wikilink">宁杭高铁</a>、<a href="https://zh.wikipedia.org/wiki/金丽温铁路" title="wikilink">金丽温铁路</a>、<a href="https://zh.wikipedia.org/wiki/合福高铁" title="wikilink">合福高铁</a>、<a href="https://zh.wikipedia.org/wiki/合蚌高铁" title="wikilink">合蚌高铁</a>、<a href="https://zh.wikipedia.org/wiki/郑西高铁" title="wikilink">郑西</a>-<a href="https://zh.wikipedia.org/wiki/郑徐高铁" title="wikilink">郑徐高铁</a></p></td>
 <td><p>部分长客版列车即将转配<a href="https://zh.wikipedia.org/wiki/兰州局集团" title="wikilink">兰州局集团</a>。</p></td>
@@ -207,16 +207,16 @@ CRH380B型动车组设有一等座、二等座、观光座、VIP座等座席等�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/广州局集团" title="wikilink">广州局集团</a></p></td>
-<td><p>13</p></td>
-<td><p>3599、3651、3656、3657、3675、3687、3700、3707、3708、3725、3746、3747、3749</p></td>
+<td><p>19</p></td>
+<td><p>3577、3578、3599、3610、3637、3651、3656、3657、3675、3687、3699、3700、3707、3708、3725、3746～3749</p></td>
 <td><p>广州南</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/京广高铁" title="wikilink">京广</a>-<a href="https://zh.wikipedia.org/wiki/广深港高铁" title="wikilink">广深港高铁</a>、<a href="../Page/广珠城际铁路.md" title="wikilink">广珠城际铁路</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>39</p></td>
-<td><p>3577、3578、3582、3584、3596、3597、3610、3617、3621、3622、3625、3627、3628、3630～3632、3636～3638、3646～3648、3650、3658～3661、3680、3681、3683～3686、3688、3689、3698、3699、3701、3748</p></td>
-<td><p>长沙</p></td>
+<td><p>33</p></td>
+<td><p>3582、3584、3596、3597、3617、3621、3622、3625、3627、3628、3630～3632、3636、3638、3646～3648、3650、3658～3661、3680、3681、3683～3686、3688、3689、3698、3701</p></td>
+<td><p>长沙南</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/京广高铁" title="wikilink">京广</a>-<a href="https://zh.wikipedia.org/wiki/广深港高铁" title="wikilink">广深港高铁</a>、<a href="../Page/沪昆客运专线.md" title="wikilink">沪昆客运专线</a>、<a href="../Page/宁杭客运专线.md" title="wikilink">宁杭客运专线</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="../Page/合福客运专线.md" title="wikilink">合福客运专线</a>、<a href="../Page/娄邵铁路.md" title="wikilink">娄邵铁路</a>、<a href="../Page/衡柳铁路.md" title="wikilink">衡柳铁路</a>、<a href="https://zh.wikipedia.org/wiki/怀衡铁路" title="wikilink">怀衡铁路</a></p></td>
 <td></td>
 <td></td>
@@ -256,8 +256,8 @@ CRH380B型动车组设有一等座、二等座、观光座、VIP座等座席等�
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/郑州局集团" title="wikilink">郑州局集团</a></p></td>
-<td><p>45</p></td>
-<td><p>5649、5653、5654、5676、5680、5733、5735、5736、5756、5757、5787、5788、5790、5791、5795、5801、5802、5835、5837～5840、5842、5850、5851、5856、5861～5866、5872～5880、5885～5888</p></td>
+<td><p>46</p></td>
+<td><p>5649、5653、5654、5676、5680、5733、5735、5736、5756、5757、5787、5788、5790、5791、5795、5801、5802、5835、5837～5842、5850、5851、5856、5861～5866、5872～5880、5885～5888</p></td>
 <td><p>郑州东</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/郑西高铁" title="wikilink">郑西</a>-<a href="https://zh.wikipedia.org/wiki/郑徐高铁" title="wikilink">郑徐高铁</a>、<a href="https://zh.wikipedia.org/wiki/京广高铁" title="wikilink">京广高铁</a>、<a href="../Page/津保铁路.md" title="wikilink">津保铁路</a>、<a href="https://zh.wikipedia.org/wiki/津秦客运专线" title="wikilink">津秦客运专线</a>、<a href="../Page/京哈铁路.md" title="wikilink">京哈铁路</a>、<a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁</a>、<a href="https://zh.wikipedia.org/wiki/合蚌高铁" title="wikilink">合蚌</a>-<a href="https://zh.wikipedia.org/wiki/合福高铁" title="wikilink">合福高铁</a>、<a href="https://zh.wikipedia.org/wiki/宁杭高铁" title="wikilink">宁杭高铁</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a>、<a href="../Page/胶济客运专线.md" title="wikilink">胶济客运专线</a></p></td>
 <td></td>
@@ -311,8 +311,8 @@ CRH380B型动车组设有一等座、二等座、观光座、VIP座等座席等�
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>20</p></td>
-<td><p>3549～3554、3556、3559、3570、3733、3777～3786</p></td>
+<td><p>17</p></td>
+<td><p>3550、3551、3553、3554、3556、3570、3733、3777～3786</p></td>
 <td><p>南京南</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/京沪高铁" title="wikilink">京沪高铁</a>、<a href="https://zh.wikipedia.org/wiki/沪昆高铁" title="wikilink">沪昆高铁</a>、<a href="https://zh.wikipedia.org/wiki/合福高铁" title="wikilink">合福高铁</a>、<a href="https://zh.wikipedia.org/wiki/杭福深客运专线" title="wikilink">杭福深铁路</a></p></td>
 <td></td>
@@ -360,8 +360,8 @@ CRH380B型动车组设有一等座、二等座、观光座、VIP座等座席等�
 </tr>
 <tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/西安局集團" title="wikilink">西安局集團</a></p></td>
-<td><p>5</p></td>
-<td><p>3543、3544、3548、3557、3558</p></td>
+<td><p>8</p></td>
+<td><p>3543、3544、3548、3549、3552、3557～3559</p></td>
 <td><p>西安北</p></td>
 <td></td>
 <td></td>

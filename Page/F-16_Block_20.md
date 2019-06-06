@@ -152,6 +152,7 @@ Defense）的數位化地形系統，資料顯示則是由[漢威公司的彩色
     Block 20](http://www.f-16.net/f-16_users_article19.html)
 
 [en:General_Dynamics_F-16_Fighting_Falcon_variants\#F-16A.2FB_Block_20](https://zh.wikipedia.org/wiki/en:General_Dynamics_F-16_Fighting_Falcon_variants#F-16A.2FB_Block_20 "wikilink")
+[分類:美國售台軍事裝備](https://zh.wikipedia.org/wiki/分類:美國售台軍事裝備 "wikilink")
 
 [Category:中華民國空軍戰鬥機](https://zh.wikipedia.org/wiki/Category:中華民國空軍戰鬥機 "wikilink")
 [Category:洛克希德飞机](https://zh.wikipedia.org/wiki/Category:洛克希德飞机 "wikilink")

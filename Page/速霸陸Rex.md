@@ -13,7 +13,7 @@ shape）」設計理念，主打年輕的消費客群。運動化的造型受到
 [EK34型引擎](https://zh.wikipedia.org/wiki/速霸陸EK族引擎#EK34型 "wikilink")，這種[二衝程引擎在](../Page/两冲程循环.md "wikilink")[怠速時會發出啪啦啪啦的](https://zh.wikipedia.org/wiki/怠速 "wikilink")[噪音](../Page/噪音.md "wikilink")，富士重工業加裝「速霸陸ISV」（アイドリング・サイレンス・バルブ）裝置以解決此問題\[2\]。
 
 1973年 -
-3月推出四門轎車車型。10月針對日本汽車廢氣排放標準而小改款（原廠代號K22），動力改成[四衝程的](https://zh.wikipedia.org/wiki/四冲程循环 "wikilink")358c.c.直列二缸SOHC
+3月推出四門轎車車型。10月針對日本汽車廢氣排放標準而小改款（原廠代號K22），動力改成[四衝程的](../Page/四冲程循环.md "wikilink")358c.c.直列二缸SOHC
 [EK21型引擎](https://zh.wikipedia.org/wiki/速霸陸EK族引擎#EK21型 "wikilink")；頂級車型改配備前輪碟煞及四輪碟形輪圈蓋。
 
 1974年 -
@@ -102,9 +102,9 @@ Subaru Rex 2.jpg|車尾 Image:3rd Subaru Rex 1.jpg|車頭
 
   - [GAZOO.com名車館：1972年スバルレックス](http://gazoo.com/car/newcar/vehicle_info/Pages/detail.aspx?MAKER_CD=G&CARTYPE_CD=974&GENERATION=-3&NEWS_ID=G974-3990001387)
 
-  - [GAZOO.com名車館：1981年スバルレックス](http://gazoo.com/car/newcar/vehicle_info/Pages/detail.aspx?MAKER_CD=G&CARTYPE_CD=974&GENERATION=-2&NEWS_ID=G974-2990003239)
+  - [GAZOO.com名車館：1981年スバルレックス](https://web.archive.org/web/20160304113525/http://gazoo.com/car/newcar/vehicle_info/Pages/detail.aspx?MAKER_CD=G&CARTYPE_CD=974&GENERATION=-2&NEWS_ID=G974-2990003239)
 
-  - [GAZOO.com名車館：1986年スバルレックス](http://gazoo.com/car/newcar/vehicle_info/Pages/detail.aspx?MAKER_CD=G&CARTYPE_CD=974&GENERATION=-1&NEWS_ID=G974-1990003240)
+  - [GAZOO.com名車館：1986年スバルレックス](https://web.archive.org/web/20160304213642/http://gazoo.com/car/newcar/vehicle_info/Pages/detail.aspx?MAKER_CD=G&CARTYPE_CD=974&GENERATION=-1&NEWS_ID=G974-1990003240)
 
 ## 參考資料
 

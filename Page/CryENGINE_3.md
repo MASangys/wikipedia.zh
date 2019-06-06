@@ -161,7 +161,7 @@ multiprocessing）和超執行緒（Hyper-threading，HT）。CryENGINE
   - [MyCryengine官方網站](http://mycryengine.com/)
 
 [en:CryEngine\#Development](https://zh.wikipedia.org/wiki/en:CryEngine#Development "wikilink")
-[it:CryENGINE](https://zh.wikipedia.org/wiki/it:CryENGINE "wikilink")
+
 [ja:CryENGINE\#CryENGINE
 3](https://zh.wikipedia.org/wiki/ja:CryENGINE#CryENGINE_3 "wikilink")
 [sv:Cry

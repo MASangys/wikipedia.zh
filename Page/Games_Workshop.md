@@ -1,5 +1,5 @@
 **Games
-Workshop集團股份有限公司**（通常縮寫為**GW**，有時中譯為**遊戲工作室**或**遊戲車間**）是一間英國[遊戲製造和零售公司](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。Games
+Workshop集團股份有限公司**（通常縮寫為**GW**，有時中譯為**遊戲工作室**、**遊戲車間**、**遊戲工坊**）是一間英國[遊戲製造和零售公司](https://zh.wikipedia.org/wiki/遊戲 "wikilink")。Games
 Workshop至今發行了多款[戰爭遊戲](https://zh.wikipedia.org/wiki/戰爭遊戲 "wikilink")，如《[戰鎚幻想戰役](https://zh.wikipedia.org/wiki/戰鎚幻想戰役 "wikilink")》和《[戰鎚40000](https://zh.wikipedia.org/wiki/戰鎚40000 "wikilink")》。該公司以
 GAW.L.
 的名稱在[倫敦證券交易所上市](https://zh.wikipedia.org/wiki/倫敦證券交易所 "wikilink")。\[1\]

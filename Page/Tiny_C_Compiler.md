@@ -47,7 +47,7 @@ TCC與其他C語言編譯器的不同處在於：
     Python 代码中调用。
   - 被安装在 JSLinux\[6\] ，一个能在浏览器中运行 Linux 和其它操作系统的虚拟机（也是由 Bellard 开发的）。
   - 被用于编译超微型国际象棋引擎。\[7\]
-  - TCC 曾被內建於 [Google Andriod 系統](../Page/Android.md "wikilink")，於
+  - TCC 曾被內建於 [Google Android 系統](../Page/Android.md "wikilink")，於
     Andriod 2.0 版本中。\<\!--
 
 \--\>\[8\] \[9\]

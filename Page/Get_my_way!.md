@@ -21,7 +21,8 @@
 
 ## 外部連結
 
-  - [GENEON UNIVERSAL ENTERTAINMENT](http://www.geneonuniversal.jp/)
+  - [GENEON UNIVERSAL
+    ENTERTAINMENT](https://www.webcitation.org/6H77jHbJm?url=http://www.geneonuniversal.jp/)
   - [川田真美 Official
     Website](https://web.archive.org/web/20110511203250/http://www.mami-kawada.jp/)
   - [川田まみ GENEON OFFICIAL WEB

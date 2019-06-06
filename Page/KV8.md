@@ -119,7 +119,7 @@ KV8恰巧位在[帝王谷東谷的中心地區](../Page/帝王谷.md "wikilink")
 
 ## 外部連結
 
-  - [KV8的相關簡介](http://www.thebanmappingproject.com/sites/browse_tomb_822.html)
+  - [KV8的相關簡介](https://web.archive.org/web/20160124015332/http://www.thebanmappingproject.com/sites/browse_tomb_822.html)
 
 [Category:帝王谷](https://zh.wikipedia.org/wiki/Category:帝王谷 "wikilink")
 [Category:古埃及墓葬](https://zh.wikipedia.org/wiki/Category:古埃及墓葬 "wikilink")

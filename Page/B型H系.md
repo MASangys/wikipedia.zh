@@ -1,5 +1,5 @@
-《**B型H系**》是日本漫畫家[山-{}-里陽子在](https://zh.wikipedia.org/wiki/山里陽子 "wikilink")《[週刊YOUNG
-JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品](https://zh.wikipedia.org/wiki/四格漫画 "wikilink")，自2004年20號起連載至2011年10號為止，單行本全九集。改編电视动画于2010年4月开始播放至同年7月，共12回。
+《**B型H系**》是[日本漫畫家](https://zh.wikipedia.org/wiki/日本漫畫家 "wikilink")[山-{}-里陽子所創作的](https://zh.wikipedia.org/wiki/山里陽子 "wikilink")[日本漫画作品](../Page/日本漫画.md "wikilink")。於《[週刊YOUNG
+JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》2004年20號至2011年10號期間進行連載，單行本全九集。[廣播劇CD版於](https://zh.wikipedia.org/wiki/廣播劇CD "wikilink")2007年9月14日發售（集英社）。改編电视动画于2010年4月至同年7月期間放送，全12回。
 
 ## 剧情简介
 
@@ -93,100 +93,77 @@ JUMP](../Page/週刊YOUNG_JUMP.md "wikilink")》上连载的[四格漫画作品]
       - 片瀨葵
       - 金城圭一
 
-## 出版品
-
-### 漫畫
+## 出版書籍
 
 <table>
 <thead>
 <tr class="header">
 <th><p>卷數</p></th>
-<th></th>
-<th></th>
+<th><p><a href="../Page/集英社.md" title="wikilink">集英社</a></p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/尖端出版社" title="wikilink">尖端出版社</a></p></th>
 <th><p>備註</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>初版發售日期</p></td>
+<td><p>發售日期</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
-<td><p>初版發售日期</p></td>
+<td><p>發售日期</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/EAN" title="wikilink">EAN</a></p></td>
 </tr>
 <tr class="even">
-<td><p>B型H系 1</p></td>
+<td><p>1</p></td>
 <td><p>2005年2月18日</p></td>
 <td><p>ISBN 4-08-876756-X</p></td>
 <td><p>2006年6月1日</p></td>
 </tr>
 <tr class="odd">
-<td><p>B型H系 2</p></td>
+<td><p>2</p></td>
 <td><p>2006年1月19日</p></td>
 <td><p>ISBN 4-08-877021-8</p></td>
 <td><p>2006年9月4日</p></td>
 </tr>
 <tr class="even">
-<td><p>B型H系 3</p></td>
+<td><p>3</p></td>
 <td><p>2006年10月19日</p></td>
 <td><p>ISBN 4-08-877154-0</p></td>
 <td><p>2007年2月15日</p></td>
 </tr>
 <tr class="odd">
-<td><p>B型H系 4</p></td>
+<td><p>4</p></td>
 <td><p>2007年6月19日</p></td>
 <td><p>ISBN 978-4-08-877278-3</p></td>
 <td><p>2010年1月22日</p></td>
 </tr>
 <tr class="even">
-<td><p>B型H系 5</p></td>
+<td><p>5</p></td>
 <td><p>2008年4月18日</p></td>
 <td><p>ISBN 978-4-08-877411-4</p></td>
 <td><p>2010年5月20日</p></td>
 </tr>
 <tr class="odd">
-<td><p>B型H系 6</p></td>
+<td><p>6</p></td>
 <td><p>2009年4月17日</p></td>
 <td><p>ISBN 978-4-08-877613-2</p></td>
 <td><p>2012年2月7日</p></td>
 </tr>
 <tr class="even">
-<td><p>B型H系 7</p></td>
+<td><p>7</p></td>
 <td><p>2010年3月17日</p></td>
 <td><p>ISBN 978-4-08-877742-9</p></td>
 <td><p>2012年3月8日</p></td>
 </tr>
 <tr class="odd">
-<td><p>B型H系 8</p></td>
+<td><p>8</p></td>
 <td><p>2010年7月16日</p></td>
 <td><p>ISBN 978-4-7973-6644-0</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>B型H系 9</p></td>
+<td><p>9</p></td>
 <td><p>2011年3月18日</p></td>
 <td><p>ISBN 978-4-08-879114-2</p></td>
 <td></td>
-</tr>
-</tbody>
-</table>
-
-### 廣播劇CD
-
-<table>
-<thead>
-<tr class="header">
-<th><p>名稱</p></th>
-<th></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>初版發售日期</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
-</tr>
-<tr class="even">
-<td><p>B型H系</p></td>
-<td><p>2007年9月14日</p></td>
 </tr>
 </tbody>
 </table>

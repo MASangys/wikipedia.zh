@@ -284,7 +284,7 @@ Real**  首張全創作新歌演唱會》，而11/27高雄場，因病長期�
 <td><p>MP魔幻力量 廷廷</p></td>
 <td><p>MP魔幻力量 廷廷</p></td>
 <td><p>4:16</p></td>
-<td><p>與<a href="https://zh.wikipedia.org/wiki/郭采潔" title="wikilink">郭采潔合唱</a><br />
+<td><p>與<a href="../Page/郭采潔.md" title="wikilink">郭采潔合唱</a><br />
 收錄於MP魔幻力量《<a href="../Page/魔幻力量_(專輯).md" title="wikilink">魔幻力量</a>》專輯</p></td>
 </tr>
 <tr class="even">
@@ -298,7 +298,7 @@ Real**  首張全創作新歌演唱會》，而11/27高雄場，因病長期�
 <tr class="odd">
 <td><p>2010離開地球表面 花漾嘉年華版</p></td>
 <td><p>MP魔幻力量 廷廷（Rap部分）<br />
-<a href="../Page/五月天.md" title="wikilink">五月天</a><a href="https://zh.wikipedia.org/wiki/陳信宏" title="wikilink">阿信</a></p></td>
+<a href="../Page/五月天.md" title="wikilink">五月天</a><a href="../Page/陳信宏.md" title="wikilink">阿信</a></p></td>
 <td><p>五月天阿信</p></td>
 <td></td>
 <td><p><a href="../Page/2010年臺北國際花卉博覽會.md" title="wikilink">2010年臺北國際花卉博覽會花博推廣曲</a><br />
@@ -317,7 +317,7 @@ Real**  首張全創作新歌演唱會》，而11/27高雄場，因病長期�
 <tr class="odd">
 <td><p>天機</p></td>
 <td><p>MP魔幻力量 廷廷<br />
-<a href="../Page/五月天.md" title="wikilink">五月天</a><a href="https://zh.wikipedia.org/wiki/陳信宏" title="wikilink">阿信</a></p></td>
+<a href="../Page/五月天.md" title="wikilink">五月天</a><a href="../Page/陳信宏.md" title="wikilink">阿信</a></p></td>
 <td><p>MP魔幻力量 鼓鼓</p></td>
 <td><p>4:35</p></td>
 <td><p>電影「<a href="../Page/天機：富春山居圖.md" title="wikilink">天機。富春山居圖</a>」主題曲<br />
@@ -390,7 +390,7 @@ Rap詞：MP魔幻力量 嘎嘎</p></td>
   - [家家](https://zh.wikipedia.org/wiki/家家 "wikilink")〈我沒資格〉：廷廷 詞曲 2014
   - 嚴爵、[郭雪芙](../Page/郭雪芙.md "wikilink")〈結巴〉：廷廷 作詞 2014
   - 丁噹〈我就是喜歡這樣〉：廷廷 詞曲
-    (詞:廷廷+[五月天](../Page/五月天.md "wikilink")[阿信](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")
+    (詞:廷廷+[五月天](../Page/五月天.md "wikilink")[阿信](../Page/陳信宏.md "wikilink")
     改編詞:廷廷+陳沒) 2014
   - [陳大天](../Page/陳大天.md "wikilink")〈南丁格爾〉：廷廷 詞曲 2014
   - [Popu Lady](../Page/Popu_Lady.md "wikilink")〈POPU OK繃〉：鼓鼓 詞曲 + 凱開 混音
@@ -432,8 +432,8 @@ Rap詞：MP魔幻力量 嘎嘎</p></td>
 | :---------------------------------------- | :---------- | :----- | :-------------------------------------------------- | :-------------------------------------------------------------------------------------------------------- |
 | [魔幻力量](../Page/魔幻力量_\(專輯\).md "wikilink") | GET OUT     | 全體     |                                                     | [比爾賈](https://zh.wikipedia.org/wiki/比爾賈 "wikilink")                                                       |
 | 魔幻力量                                      | 我是誰我是誰我是誰   | 全體     | [林辰唏](../Page/林辰唏.md "wikilink")                    | [Papaya](https://zh.wikipedia.org/wiki/Papaya "wikilink")                                                 |
-| 魔幻力量                                      | 專屬魔力        | 全體     | [郭采潔](https://zh.wikipedia.org/wiki/郭采潔 "wikilink") | [皮特](../Page/劉名峯.md "wikilink")                                                                           |
-| 魔幻力量                                      | 時間倒轉        | 全體     | [蒼井空](../Page/蒼井空.md "wikilink")                    | 皮特/[阿信](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")                                                     |
+| 魔幻力量                                      | 專屬魔力        | 全體     | [郭采潔](../Page/郭采潔.md "wikilink")                    | [皮特](../Page/劉名峯.md "wikilink")                                                                           |
+| 魔幻力量                                      | 時間倒轉        | 全體     | [蒼井空](../Page/蒼井空.md "wikilink")                    | 皮特/[阿信](../Page/陳信宏.md "wikilink")                                                                        |
 | [不按牌理出牌](../Page/不按牌理出牌.md "wikilink")    | 黑白切         | 全體     |                                                     | [KATS☆MOR](https://zh.wikipedia.org/wiki/KATS☆MOR "wikilink")                                             |
 | 不按牌理出牌                                    | 如果明天世界末日    | **嘎嘎** | [小藤井](https://zh.wikipedia.org/wiki/小藤井 "wikilink") | [KATS☆MOR](https://zh.wikipedia.org/wiki/KATS☆MOR "wikilink")                                             |
 | 不按牌理出牌                                    | 放了自己        |        | 演唱會片段                                               |                                                                                                           |
@@ -595,7 +595,7 @@ Rap詞：MP魔幻力量 嘎嘎</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣</a> <a href="https://zh.wikipedia.org/wiki/台北市" title="wikilink">台北市</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台北小巨蛋" title="wikilink">台北小巨蛋</a></p></td>
 <td><p>{{unbulleted list|MP首場萬人小巨蛋售票演唱會<br />
-特別來賓:<a href="../Page/嚴爵.md" title="wikilink">嚴爵</a>、<a href="../Page/任賢齊.md" title="wikilink">任賢齊</a>、<a href="../Page/五月天.md" title="wikilink">五月天</a><a href="https://zh.wikipedia.org/wiki/陳信宏" title="wikilink">阿信</a></p></td>
+特別來賓:<a href="../Page/嚴爵.md" title="wikilink">嚴爵</a>、<a href="../Page/任賢齊.md" title="wikilink">任賢齊</a>、<a href="../Page/五月天.md" title="wikilink">五月天</a><a href="../Page/陳信宏.md" title="wikilink">阿信</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年7月18日</p></td>
@@ -668,7 +668,7 @@ The Centre in Vancouver for Performing Arts</p></td>
 
 ## 電影代言
 
-  - 2013年，〈天機〉（合唱：[五月天](../Page/五月天.md "wikilink")[阿信](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")）
+  - 2013年，〈天機〉（合唱：[五月天](../Page/五月天.md "wikilink")[阿信](../Page/陳信宏.md "wikilink")）
 
 （電影《[天機。富春山居圖](../Page/天機：富春山居圖.md "wikilink") 》主題曲）
 
@@ -801,7 +801,7 @@ The Centre in Vancouver for Performing Arts</p></td>
 [Category:相信音樂人](https://zh.wikipedia.org/wiki/Category:相信音樂人 "wikilink")
 [Category:2017年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2017年解散的音樂團體 "wikilink")
 
-1.  改編自[五月天](../Page/五月天.md "wikilink")[阿信和](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")[陳綺貞演唱的](../Page/陳綺貞.md "wikilink")〈私奔到月球〉。
+1.  改編自[五月天](../Page/五月天.md "wikilink")[阿信和](../Page/陳信宏.md "wikilink")[陳綺貞演唱的](../Page/陳綺貞.md "wikilink")〈私奔到月球〉。
 2.  亦為首張[專輯的名稱](https://zh.wikipedia.org/wiki/專輯 "wikilink")。
 3.  ‧
 4.  ‧

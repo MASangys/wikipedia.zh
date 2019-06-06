@@ -481,7 +481,7 @@
   - **EGXG**：[丘奇芬皇家空軍基地](https://zh.wikipedia.org/wiki/丘奇芬皇家空軍基地 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[丘奇芬](https://zh.wikipedia.org/wiki/丘奇芬 "wikilink")）
   - **EGXH**：[霍寧皇家空軍基地](https://zh.wikipedia.org/wiki/霍寧皇家空軍基地 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[塞特福德](../Page/塞特福德.md "wikilink")）
   - **EGXP**：[斯坎普頓皇家空軍基地](https://zh.wikipedia.org/wiki/斯坎普頓皇家空軍基地 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[斯坎普頓](https://zh.wikipedia.org/wiki/斯坎普頓 "wikilink")）
-  - **EGXT**：[威特靈皇家空軍基地](https://zh.wikipedia.org/wiki/威特靈皇家空軍基地 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[斯坦福](https://zh.wikipedia.org/wiki/斯坦福 "wikilink")）
+  - **EGXT**：[威特靈皇家空軍基地](https://zh.wikipedia.org/wiki/威特靈皇家空軍基地 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[斯坦福](../Page/斯坦福.md "wikilink")）
   - **EGXU**：[林頓發表烏斯皇家空軍基地](https://zh.wikipedia.org/wiki/林頓發表烏斯皇家空軍基地 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[林頓發表烏斯](https://zh.wikipedia.org/wiki/林頓發表烏斯 "wikilink")）
   - **EGXW**：[沃丁頓皇家空軍基地](https://zh.wikipedia.org/wiki/沃丁頓皇家空軍基地 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[沃丁頓](https://zh.wikipedia.org/wiki/沃丁頓 "wikilink")）
   - **EGXY**：[斯耶斯頓皇家空軍基地](https://zh.wikipedia.org/wiki/斯耶斯頓皇家空軍基地 "wikilink")（[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[紐瓦克河畔斯托克](https://zh.wikipedia.org/wiki/紐瓦克河畔斯托克 "wikilink")）
@@ -895,9 +895,9 @@
   - **EYND**：[奈達機場](https://zh.wikipedia.org/wiki/奈達機場 "wikilink")（[奈達](https://zh.wikipedia.org/wiki/奈達 "wikilink")）
   - **EYNE**：[Nemirseta機場](https://zh.wikipedia.org/wiki/Nemirseta機場 "wikilink")（[Nemirseta](https://zh.wikipedia.org/wiki/Nemirseta "wikilink")）
   - **EYPA**：[帕蘭加國際機場](https://zh.wikipedia.org/wiki/帕蘭加國際機場 "wikilink")（[帕蘭加](https://zh.wikipedia.org/wiki/帕蘭加 "wikilink")）
-  - **EYPI**：[帕內韋日斯/伊斯特拉機場](https://zh.wikipedia.org/wiki/帕內韋日斯/伊斯特拉機場 "wikilink")（[帕內韋日斯](https://zh.wikipedia.org/wiki/帕內韋日斯 "wikilink")）
+  - **EYPI**：[帕內韋日斯/伊斯特拉機場](https://zh.wikipedia.org/wiki/帕內韋日斯/伊斯特拉機場 "wikilink")（[帕內韋日斯](../Page/帕內韋日斯.md "wikilink")）
   - **EYPK**：[Pikeliškės機場](https://zh.wikipedia.org/wiki/Pikeliškės機場 "wikilink")（[Pikeliškės](https://zh.wikipedia.org/wiki/Pikeliškės "wikilink")）
-  - **EYPN**：[帕內韋日斯機場](https://zh.wikipedia.org/wiki/帕內韋日斯機場 "wikilink")（[帕內韋日斯](https://zh.wikipedia.org/wiki/帕內韋日斯 "wikilink")）
+  - **EYPN**：[帕內韋日斯機場](https://zh.wikipedia.org/wiki/帕內韋日斯機場 "wikilink")（[帕內韋日斯](../Page/帕內韋日斯.md "wikilink")）
   - **EYPP**：[Pajuostis機場](https://zh.wikipedia.org/wiki/Pajuostis機場 "wikilink")（[Pajuostis](https://zh.wikipedia.org/wiki/Pajuostis "wikilink")）-軍用機場
   - **EYPR**：[波秋奈機場](https://zh.wikipedia.org/wiki/波秋奈機場 "wikilink")（[波秋奈](https://zh.wikipedia.org/wiki/波秋奈 "wikilink")）
   - **EYRK**：[羅基什基斯機場](https://zh.wikipedia.org/wiki/羅基什基斯機場 "wikilink")（[羅基什基斯](https://zh.wikipedia.org/wiki/羅基什基斯 "wikilink")）

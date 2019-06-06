@@ -27,7 +27,7 @@ Yahoo\!拍賣在香港仍然有不少本地人使用，面對中國大陸淘寶�
     Site](https://web.archive.org/web/20110615073304/http://www.auctionbytes.com/cab/abn/y03/m08/i07/s03)（2003）.
     From AuctionBytes.com.
   - *Tan Weizhen* [No Yahoo\! Auctions site? No
-    problem\!](http://www.asiaone.com/Business/SME%2BCentral/eBiz%2BHub/Story/A1Story20080925-89901.html)（2008）.
+    problem\!](https://web.archive.org/web/20110605104403/http://www.asiaone.com/Business/SME+Central/eBiz+Hub/Story/A1Story20080925-89901.html)（2008）.
     From AsiaOne Business.
   - *Yahoo\! Inc.* [Yahoo\! Auctions Unveils Premier Auction
     Area](https://web.archive.org/web/20070813081344/http://yhoo.client.shareholder.com/ReleaseDetail.cfm?ReleaseID=173651)（1999）.

@@ -42,101 +42,143 @@ MultiCam使用七種色調，因應不同環境、季節、海拔和亮度變化
 
 ## 使用國家和地區
 
-  - －[阿富汗國家警察](https://zh.wikipedia.org/wiki/阿富汗國家警察 "wikilink")、[阿富汗國家軍隊特種部隊](https://zh.wikipedia.org/wiki/阿富汗軍事 "wikilink")
+  -   - 阿富汗國家警察
+      - [阿富汗國民軍特種部隊單位](https://zh.wikipedia.org/wiki/阿富汗軍事 "wikilink")
 
-  - －阿爾巴尼亞特種部隊
+  -   - 阿爾巴尼亞地面部隊特種部隊旅
 
-  - \- 陸軍特種部隊
+  -   - 陸軍特種部隊
 
-  - －特種部隊
+  -   - 特種部隊單位
 
-  - \- 特種部隊
+  -   - 特種部隊單位
 
-  - －[澳洲陸軍](../Page/澳大利亞陸軍.md "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")、警察戰術小組
+  -   - [澳洲國防軍特種作戰指揮部](https://zh.wikipedia.org/wiki/澳大利亞國防軍 "wikilink")
+      - [澳洲聯邦警察警察戰術小組](https://zh.wikipedia.org/wiki/澳洲聯邦警察 "wikilink")
+      - 維多利亞警察局特別行動組
 
-  - －[奧地利陸軍](https://zh.wikipedia.org/wiki/奧地利陸軍 "wikilink")[狩獵突擊隊](https://zh.wikipedia.org/wiki/狩獵突擊隊 "wikilink")
+  -   - 奧地利陸軍狩獵突擊隊
 
-  - －[特種部隊](../Page/特種部隊.md "wikilink")
+  -   - 特種部隊單位
 
-  - \- 內務部特種部隊
+  -   - 內務部特種部隊
 
-  - －[特種部隊群](../Page/特種部隊群.md "wikilink")
+  -   - [比利時國防軍](../Page/比利時國防軍.md "wikilink")[特種部隊群](../Page/特種部隊群.md "wikilink")
 
-  - \-
-    [特種部隊](../Page/特種部隊.md "wikilink")、[巴西聯邦警察](https://zh.wikipedia.org/wiki/巴西聯邦警察 "wikilink")
+  -   - [巴西武裝部隊特種部隊單位](https://zh.wikipedia.org/wiki/巴西軍事 "wikilink")
+      - [巴西聯邦警察](https://zh.wikipedia.org/wiki/巴西聯邦警察 "wikilink")
 
-  - －[加拿大特種部隊司令部](https://zh.wikipedia.org/wiki/加拿大特種部隊司令部 "wikilink")
+  -   - 加拿大特種部隊司令部
 
-  - －智利海軍陸戰隊、海軍特戰部、空軍突擊隊
+  -   - 智利海軍陸戰隊
+      - 海軍特戰部
+      - 空軍突擊隊
 
-  - －[捷克陸軍第](https://zh.wikipedia.org/wiki/捷克陸軍 "wikilink")601特種部隊團
+  -   - 捷克陸軍第601特種部隊團
 
-  - －[丹麥軍隊](https://zh.wikipedia.org/wiki/丹麥軍隊 "wikilink")
+  -   - [丹麥國防軍](../Page/丹麥國防軍.md "wikilink")
 
-  - －[特種部隊](../Page/特種部隊.md "wikilink")
+  -   - 特種部隊單位
 
-  - －特種部隊
+  -   - 愛沙尼亞國防軍特種作戰部隊
+      - 愛沙尼亞刑事警察K突擊隊
 
-  - －特種行動司令部
+  -   - 法國特種作戰指揮部
 
-  - －[格魯吉亞軍隊](https://zh.wikipedia.org/wiki/格魯吉亞軍 "wikilink")、[特警隊](https://zh.wikipedia.org/wiki/特警隊 "wikilink")
+  -   - [格魯吉亞武裝部隊](https://zh.wikipedia.org/wiki/格魯吉亞軍 "wikilink")
+      - 特警單位
 
-  - －[德國聯邦國防軍所屬的特種部隊](../Page/德國聯邦國防軍.md "wikilink")（例：[特種部隊指令部](https://zh.wikipedia.org/wiki/特種部隊指令部 "wikilink")）、[德國聯邦警察第九國境守備隊](../Page/德國聯邦警察第九國境守備隊.md "wikilink")
+  -   - [德國聯邦國防軍特種部隊單位](../Page/德國聯邦國防軍.md "wikilink")
+      - [德國聯邦警察第九國境守備隊](../Page/德國聯邦警察第九國境守備隊.md "wikilink")
 
-  - －[特種部隊](../Page/特種部隊.md "wikilink")
+  -   - [希臘武裝部隊特種部隊單位](https://zh.wikipedia.org/wiki/希臘軍事 "wikilink")
 
-  - －[香港警務處](../Page/香港警務處.md "wikilink")[特別任務連](../Page/特別任務連.md "wikilink")、[反恐特勤隊](../Page/反恐特勤隊.md "wikilink")
+  -   - [香港警務處](../Page/香港警務處.md "wikilink")
+          - [特別任務連](../Page/特別任務連.md "wikilink")
+          - [反恐特勤隊](../Page/反恐特勤隊.md "wikilink")
+          - 海事緊急應變小組
 
-  - －特種部隊
+  -   - 匈牙利武裝部隊特種部隊單位
 
-  - －伊拉克內務部危機應變小組
+  -   - [印尼武裝部隊特種部隊單位](https://zh.wikipedia.org/wiki/印尼軍事 "wikilink")
 
-  - －特種部隊
+  -   - 伊拉克內務部危機應變小組
 
-  - －約丹陸軍特種部隊
+  -   - [義大利武裝部隊特種部隊單位](https://zh.wikipedia.org/wiki/義大利軍事 "wikilink")
 
-  - －特種部隊
+  -   - 約丹聯合特種作戰指揮部
 
-  - －馬爾代夫國防軍特種部隊
+  -   - 立陶宛武裝部隊特種部隊單位
 
-  - —馬耳他武裝部隊
+  -   - 馬爾代夫國防軍特種部隊單位
 
-  - －黑山軍隊
+  -   - 馬耳他武裝部隊
 
-  - －[荷蘭皇家陸軍突擊隊軍團](../Page/荷蘭皇家陸軍.md "wikilink")、[荷蘭皇家海軍陸戰隊](../Page/荷蘭皇家海軍陸戰隊.md "wikilink")
+  -   - 黑山軍隊
 
-  - －[紐西蘭國防軍](../Page/紐西蘭國防軍.md "wikilink")、[特種空勤團](https://zh.wikipedia.org/wiki/紐西蘭特種空勤團 "wikilink")
+  -   - [荷蘭皇家陸軍突擊隊軍團](../Page/荷蘭皇家陸軍.md "wikilink")
+      - [荷蘭皇家海軍陸戰隊](../Page/荷蘭皇家海軍陸戰隊.md "wikilink")
 
-  - －[挪威國防軍特戰司令部](../Page/挪威國防軍.md "wikilink")（FSK）
+  -   - [紐西蘭國防軍](../Page/紐西蘭國防軍.md "wikilink")
+      - 紐西蘭特種空勤團
 
-  - －[巴基斯坦軍隊](https://zh.wikipedia.org/wiki/巴基斯坦軍隊 "wikilink")
+  -   - 特警單位
 
-  - －巴拿馬國家航空海軍服務
+  -   - [挪威國防軍特戰司令部](../Page/挪威國防軍.md "wikilink")
 
-  - －[中國人民解放軍陸軍特種部隊](https://zh.wikipedia.org/wiki/中國人民解放軍陸軍 "wikilink")、特警
+  -   - [巴基斯坦武裝部隊](https://zh.wikipedia.org/wiki/巴基斯坦軍事 "wikilink")
 
-  - －波蘭軍隊[行動應變及機動組](../Page/行動應變及機動組.md "wikilink")
+  -   - 巴拿馬國家航空海軍服務
 
-  - －特種部隊
+  -   - [中國人民解放軍陸軍特種部隊](https://zh.wikipedia.org/wiki/中國人民解放軍陸軍 "wikilink")
+      - 公安特警單位
 
-  - －[俄羅斯聯邦安全局特種作戰中心](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")[阿爾法小組](../Page/阿爾法小組.md "wikilink")、[温佩爾小組](https://zh.wikipedia.org/wiki/信號旗特種部隊 "wikilink")、區域特別用途部隊、[特別迅速應變分隊](../Page/特別迅速應變分隊.md "wikilink")、特戰單位、[俄羅斯聯邦武裝力量特種作戰部隊](../Page/俄羅斯聯邦武裝力量特種作戰部隊.md "wikilink")
+  -   - 波蘭特種部隊
 
-  - －[中華民國陸軍](../Page/中華民國陸軍.md "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")
-    、[刑事局](https://zh.wikipedia.org/wiki/刑事局 "wikilink")[除暴特勤隊](https://zh.wikipedia.org/wiki/除暴特勤隊 "wikilink")
+  -   - [葡萄牙武裝部隊特種部隊單位](https://zh.wikipedia.org/wiki/葡萄牙軍事 "wikilink")
 
-  - －海軍特種作戰大隊
+  -   - [俄羅斯聯邦安全局](https://zh.wikipedia.org/wiki/俄羅斯聯邦安全局 "wikilink")
 
-  - －[瑞典軍隊](https://zh.wikipedia.org/wiki/瑞典軍隊 "wikilink")[特種保護小組](https://zh.wikipedia.org/wiki/特種保護小組 "wikilink")
+      -
+      - [格魯烏特種部隊](../Page/格魯烏特種部隊.md "wikilink")
 
-  - －軍事警察
+      - [俄羅斯聯邦武裝力量特種作戰部隊](../Page/俄羅斯聯邦武裝力量特種作戰部隊.md "wikilink")
+
+  -   - [中華民國陸軍特種部隊單位](../Page/中華民國陸軍.md "wikilink")
+      - [刑事局除暴特勤隊](https://zh.wikipedia.org/wiki/刑事局 "wikilink")
+
+  -   - 斯洛文尼亞武裝部隊特種部隊單位
+
+  -   - [大韓民國海軍特戰戰團](../Page/大韓民國海軍特戰戰團.md "wikilink")
+
+  -   - [西班牙武裝部隊特種部隊單位](https://zh.wikipedia.org/wiki/西班牙軍事 "wikilink")
+
+  -   - [瑞典國防軍](../Page/瑞典國防軍.md "wikilink")[特別行動任務組](../Page/特別行動任務組.md "wikilink")
+
+  -   - 憲兵單位
 
   -
-  -
-  - －[烏克蘭安全局](https://zh.wikipedia.org/wiki/烏克蘭安全局 "wikilink")[阿爾法小組](../Page/阿爾法小組_\(烏克蘭\).md "wikilink")
+  -   - [土耳其武裝部隊特種部隊單位](https://zh.wikipedia.org/wiki/土耳其軍事 "wikilink")
 
-  - －[英國軍隊](../Page/英國軍隊.md "wikilink")、[英國特種部隊](https://zh.wikipedia.org/wiki/英國特種部隊 "wikilink")
+  -   - [烏克蘭武裝力量特種部隊單位](https://zh.wikipedia.org/wiki/烏克蘭軍事 "wikilink")
+      - 烏克蘭內務部
+      - [烏克蘭安全局](https://zh.wikipedia.org/wiki/烏克蘭安全局 "wikilink")[阿爾法小組](../Page/阿爾法小組_\(烏克蘭\).md "wikilink")
 
-  - －[美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")、[美國特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")、[美國國土安全部](../Page/美國國土安全部.md "wikilink")、[美國空軍](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")、[美國海岸警衛隊](https://zh.wikipedia.org/wiki/美國海岸警衛隊 "wikilink")、[聯邦調查局](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")、[美國緝毒局](https://zh.wikipedia.org/wiki/美國緝毒局 "wikilink")、[美國菸酒槍炮及爆裂物管理局](../Page/美國菸酒槍炮及爆裂物管理局.md "wikilink")、[美國法警局](https://zh.wikipedia.org/wiki/美國法警局 "wikilink")、部份地方警察局及執法單位
+  -   - [英國武裝部隊](https://zh.wikipedia.org/wiki/英國軍事 "wikilink")（採用MTP）
+      - [英國特種部隊](https://zh.wikipedia.org/wiki/英國特種部隊 "wikilink")
+
+  -   - [美國陸軍](https://zh.wikipedia.org/wiki/美國陸軍 "wikilink")（採用OCP）
+      - [美國空軍](https://zh.wikipedia.org/wiki/美國空軍 "wikilink")
+      - [美國特種作戰司令部](https://zh.wikipedia.org/wiki/美國特種作戰司令部 "wikilink")
+      - [美國國土安全部](../Page/美國國土安全部.md "wikilink")
+          - [美國海岸警衛隊](https://zh.wikipedia.org/wiki/美國海岸警衛隊 "wikilink")
+          - [美國邊境巡邏隊](https://zh.wikipedia.org/wiki/美國邊境巡邏隊 "wikilink")
+      - [美國司法部](https://zh.wikipedia.org/wiki/美國司法部 "wikilink")
+          - [聯邦調查局](https://zh.wikipedia.org/wiki/聯邦調查局 "wikilink")
+          - [美國緝毒局](https://zh.wikipedia.org/wiki/美國緝毒局 "wikilink")
+          - [美國菸酒槍炮及爆裂物管理局](../Page/美國菸酒槍炮及爆裂物管理局.md "wikilink")
+          - [美國法警局](https://zh.wikipedia.org/wiki/美國法警局 "wikilink")
+      - 部份地方警察局及執法單位
 
 [File:Multicam标签.JPG|Multicam标签](File:Multicam标签.JPG%7CMulticam标签)
 [File:MultiCam-trans.jpg|配發駐阿富汗美国陆军的OCP](File:MultiCam-trans.jpg%7C配發駐阿富汗美国陆军的OCP)

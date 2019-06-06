@@ -35,8 +35,5 @@ SdKfz 4/1，但只有大約300輛 SdKfz 4/1 被生產出來。不過這些攜帶
 
 ## 外部链接
 
-[bg:Panzerwerfer](https://zh.wikipedia.org/wiki/bg:Panzerwerfer "wikilink")
-[hu:Panzerwerfer](https://zh.wikipedia.org/wiki/hu:Panzerwerfer "wikilink")
-
 [Category:多管火箭炮](https://zh.wikipedia.org/wiki/Category:多管火箭炮 "wikilink")
 [Category:二戰德國裝甲戰鬥車輛](https://zh.wikipedia.org/wiki/Category:二戰德國裝甲戰鬥車輛 "wikilink")

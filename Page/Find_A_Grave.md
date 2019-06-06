@@ -42,6 +42,9 @@ Grave网站包含了一个来自世界各地的墓葬信息列表。其中美国
 ## 外部链接
 
   -
+  - [一位台灣使用者在Find A
+    Grave的個人網頁](https://www.findagrave.com/user/profile/47030367)
+
 [Category:在线个人信息数据库](https://zh.wikipedia.org/wiki/Category:在线个人信息数据库 "wikilink")
 [Category:1995年建立的網站](https://zh.wikipedia.org/wiki/Category:1995年建立的網站 "wikilink")
 [Category:系譜學網站](https://zh.wikipedia.org/wiki/Category:系譜學網站 "wikilink")

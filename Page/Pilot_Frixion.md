@@ -1,14 +1,12 @@
 [Frixion.jpg](https://zh.wikipedia.org/wiki/File:Frixion.jpg "fig:Frixion.jpg")
 
-**Pilot Frixion**（-{zh-cn:台湾销售时称之为魔擦钢珠笔，香港则称之为擦擦隐形笔;zh-tw:Pilot
+**魔擦鋼珠筆**（-{zh-cn:Pilot Frixion，在香港称之为“擦擦隱形筆”，台湾称之为“魔擦鋼珠筆”;zh-tw:Pilot
 Frixion，香港銷售時稱之為擦擦隱形筆;zh-hk:Pilot
 Frixion，台灣銷售時稱之為魔擦鋼珠筆}-）是由[百樂](../Page/百樂文具.md "wikilink")（Pilot）所生產的[中性筆](https://zh.wikipedia.org/wiki/中性筆 "wikilink")。其特點為用其所寫的字跡能透過筆桿末端的膠粒擦拭。
 
-**Pilot Frixion**能透過筆桿末端的膠粒擦拭，是由於Pilot
-Frixion的墨水採用**Metamocolor技術**，會在65[°C或以上發生物理變化](https://zh.wikipedia.org/wiki/°C "wikilink")，變成透明，而以膠粒擦拭是利用[摩擦生熱來令紙張加熱至](https://zh.wikipedia.org/wiki/摩擦 "wikilink")65°C以上。另外，Pilot
-Frixion的墨水會於零下10°C或以下重現。\[1\]
+**魔擦鋼珠筆**能透過筆桿末端的膠粒擦拭，是由於魔擦鋼珠筆的墨水採用**Metamocolor技術**，會在65[°C或以上發生物理變化](https://zh.wikipedia.org/wiki/°C "wikilink")，變成透明，而以膠粒擦拭是利用[摩擦生熱來令紙張加熱至](https://zh.wikipedia.org/wiki/摩擦 "wikilink")65°C以上。另外，魔擦鋼珠筆的墨水會於零下10°C或以下重現。\[1\]
 
-由於**Pilot Frixion**所寫的字能擦拭的關係，又怕有人拿來犯罪，因此筆上寫著「用途不適用於考試及簽署任何文件」的警告字句。
+由於**魔擦鋼珠筆**所寫的字能擦拭的關係，又怕有人拿來犯罪，因此筆上寫著「用途不適用於考試及簽署任何文件」的警告字句。
 
 ## 類似產品
 
@@ -26,6 +24,8 @@ Frixion的墨水會於零下10°C或以下重現。\[1\]
     World——商品情報（鋼珠筆）](https://web.archive.org/web/20081208043843/http://www.pilot-pen.com.tw/ProductList.aspx?CategoryID=2)
   - [癮科技——筆科技：Pilot Fri-{}-xion
     百樂魔擦-{}-鋼珠筆](http://chinese.engadget.com/2007/12/01/pilot-frixion/)
+  - [百乐贸易(深圳)有限公司——关于可擦笔
+    (百乐摩磨擦)](http://www.pilotpen.com.cn/guanyukecabi.html)
 
 [Category:筆](https://zh.wikipedia.org/wiki/Category:筆 "wikilink")
 

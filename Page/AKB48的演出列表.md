@@ -664,7 +664,7 @@
 7.  [我々はなぜこの日AKBを2曲収録したのか。](http://www.nhk.or.jp/mj-blog/300/55792.html)
      MUSIC JAPAN BLOG 2010年8月3日付記事
 
-8.  [AKB48紀錄片電影公式網站](http://www.2010-akb48.jp/index.html)
+8.
 
 9.  [AKB48的紀錄片在8日的夜晚播放。](http://www.nhk.or.jp/mj-blog/400/69140.html)
     MUSIC JAPAN BLOG 2011年1月6日記事

@@ -161,7 +161,7 @@ Defender有可能成為惡意軟體攻擊Vista的跳板。因為微軟的[惡意
 
 [64位元版本的](../Page/64位元.md "wikilink")[Windows
 Vista只允許有登記的](../Page/Windows_Vista.md "wikilink")[驅動程序安裝在](https://zh.wikipedia.org/wiki/驅動程序 "wikilink")[用戶態模式上](https://zh.wikipedia.org/wiki/用戶態 "wikilink")，且這功能並不能輕易的以[系統管理員身分取消](https://zh.wikipedia.org/wiki/系統管理員 "wikilink")。\[63\]\[64\]
-為了要獲得登記，逼使開發人員不得不向微軟支付金費，才能藉由[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[WHQL测试為其驅動程式取得認證](../Page/WHQL测试.md "wikilink")；\[65\]
+為了要獲得登記，逼使開發人員不得不向微軟支付费用，才能藉由[微軟的](https://zh.wikipedia.org/wiki/微軟 "wikilink")[WHQL测试為其驅動程式取得認證](../Page/WHQL测试.md "wikilink")；\[65\]
 或者如果WHQL測試並不是必要的，則得為需簽署的驅動程序購買「軟體發行者[證書](https://zh.wikipedia.org/wiki/電子證書 "wikilink")」。\[66\]
 
 也因此微軟招來許多批評和索賠：

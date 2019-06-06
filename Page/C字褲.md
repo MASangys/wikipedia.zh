@@ -6,7 +6,7 @@
 
 由於沒有固定用的帶子，C字褲無法像一般內褲一樣只使用布料。C字褲的本體中有塑料強化的彈性支架作為固定，穿戴時放在[陰部及](https://zh.wikipedia.org/wiki/陰部 "wikilink")[股溝的位置](https://zh.wikipedia.org/wiki/股溝 "wikilink")，用兩腿夾緊固定。由於腰部沒有任何布料，不會有穿低腰褲時部份內褲露出（）的困擾。C字褲也可設計為[海灘裝的一部份](https://zh.wikipedia.org/wiki/海灘裝 "wikilink")，由於側面沒有布料，不會出現因部份皮膚沒晒到太陽以致膚色深淺不一的情形。
 
-C字褲的發明者是美國的[保險](../Page/保險.md "wikilink")[經紀人](https://zh.wikipedia.org/wiki/經紀人 "wikilink")[大衛·布拉德肖](https://zh.wikipedia.org/wiki/大衛·布拉德肖 "wikilink")（David
+C字褲的發明者是美國的[保險](../Page/保險.md "wikilink")[經紀人](https://zh.wikipedia.org/wiki/仲介 "wikilink")[大衛·布拉德肖](https://zh.wikipedia.org/wiki/大衛·布拉德肖 "wikilink")（David
 Bradshaw），他在大學時代就發明了C字褲；不過因為當時民風保守，可能無法接受這樣的衣著，因此未公開販售。等待了約20年，一直到人們開始接受丁字褲後，David才在2006年成立網站開始販售C字褲。
 
 ## 相關條目

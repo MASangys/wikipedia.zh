@@ -91,7 +91,7 @@
 ## 外部链接
 
   - [中国大陆官方网站](http://www.sanguosha.com/)
-  - [台湾官方网站](http://www.3platform.com/3gs/)
+  - [台湾官方网站](https://web.archive.org/web/20130605040322/http://www.3platform.com/3gs/)
 
 ## 注释
 
@@ -105,7 +105,7 @@
 [Category:基于浏览器的多人在线游戏](https://zh.wikipedia.org/wiki/Category:基于浏览器的多人在线游戏 "wikilink")
 [Category:中国大陆开发电子游戏](https://zh.wikipedia.org/wiki/Category:中国大陆开发电子游戏 "wikilink")
 [Category:原生中文游戏](https://zh.wikipedia.org/wiki/Category:原生中文游戏 "wikilink")
-[Category:盛大游戏](https://zh.wikipedia.org/wiki/Category:盛大游戏 "wikilink")
+[Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink")
 [Category:遊戲新幹線遊戲](https://zh.wikipedia.org/wiki/Category:遊戲新幹線遊戲 "wikilink")
 
 1.

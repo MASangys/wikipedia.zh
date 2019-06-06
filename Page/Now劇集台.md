@@ -5,7 +5,7 @@ SUPER的](https://zh.wikipedia.org/wiki/myTV_SUPER "wikilink")[日劇台](../Pag
 
 ## 內容
 
-now劇集台主要播放中、日、韓、台、泰等地劇集。
+now劇集台主要播放日、韓、泰等地劇集。
 
 ### 外購劇集
 

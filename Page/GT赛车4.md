@@ -35,7 +35,6 @@ GT賽車4，是首個DVD9容量的賽車遊戲，包含超過50條的賽道，�
 [Category:跑車浪漫旅系列](https://zh.wikipedia.org/wiki/Category:跑車浪漫旅系列 "wikilink")
 [Category:竞速模拟游戏](https://zh.wikipedia.org/wiki/Category:竞速模拟游戏 "wikilink")
 [Category:拉力赛电子游戏](https://zh.wikipedia.org/wiki/Category:拉力赛电子游戏 "wikilink")
-[Category:索尼互動娛樂遊戲](https://zh.wikipedia.org/wiki/Category:索尼互動娛樂遊戲 "wikilink")
 [Category:香港背景電子遊戲](https://zh.wikipedia.org/wiki/Category:香港背景電子遊戲 "wikilink")
 [Category:上海背景电子游戏](https://zh.wikipedia.org/wiki/Category:上海背景电子游戏 "wikilink")
 [Category:PlayStation_2游戏](https://zh.wikipedia.org/wiki/Category:PlayStation_2游戏 "wikilink")

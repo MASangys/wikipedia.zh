@@ -40,8 +40,6 @@ SIGSEGV通常由[操作系统](../Page/操作系统.md "wikilink")
   - [The Open Group Base Specifications Issue 6
     signal.h](http://www.opengroup.org/onlinepubs/009695399/basedefs/signal.h.html)
 
-[en:SIGSEGV](https://zh.wikipedia.org/wiki/en:SIGSEGV "wikilink")
-
 [Category:计算机错误](https://zh.wikipedia.org/wiki/Category:计算机错误 "wikilink")
 
 1.  {{ cite web | url =

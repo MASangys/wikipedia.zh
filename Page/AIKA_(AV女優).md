@@ -6,7 +6,7 @@
 
 <!-- end list -->
 
-  - 全身透過[日曬沙龍將自己的身體曬成黑色](https://zh.wikipedia.org/wiki/日曬床 "wikilink")，是「肉食系女優」的代表人物\[4\]。
+  - 全身透過[日曬沙龍將自己的身體曬成古銅色](https://zh.wikipedia.org/wiki/日曬床 "wikilink")，是「肉食系女優」的代表人物\[4\]。
 
 ## 簡歷
 

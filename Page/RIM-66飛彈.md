@@ -5,7 +5,7 @@ RIM-66亦是首批[標準家族](https://zh.wikipedia.org/wiki/标准导弹_\(�
 family）的飛彈，其增程版本為安裝了火箭助推器的[RIM-67飛彈](../Page/RIM-67飛彈.md "wikilink")（SM-1
 ER/SM-2 ER，Standard Missile-1/2 Extended range），1981年開始服役。
 
-標準飛彈是美國海軍最主要的中長程防空飛彈，大小船艦皆有配備。與[海麻雀飛彈](https://zh.wikipedia.org/wiki/海麻雀飛彈 "wikilink")、[公羊飛彈為防空飛彈主力](https://zh.wikipedia.org/wiki/公羊飛彈 "wikilink")，與[欉樹飛彈的功能相同](https://zh.wikipedia.org/wiki/欉樹飛彈 "wikilink")。
+標準飛彈是美國海軍最主要的中長程防空飛彈，普遍地配備於巡防艦以上的主戰艦艇。短程與近接目標則由[海麻雀飛彈](https://zh.wikipedia.org/wiki/海麻雀飛彈 "wikilink")、[公羊飛彈](https://zh.wikipedia.org/wiki/公羊飛彈 "wikilink")、或[欉樹飛彈予以攔截](https://zh.wikipedia.org/wiki/欉樹飛彈 "wikilink")。
 
 ## 簡介
 
@@ -180,6 +180,8 @@ RIM-66M標準二型飛彈是[美國海軍](../Page/美國海軍.md "wikilink")[�
   - [波蘭海軍](../Page/波蘭海軍.md "wikilink")[派里級巡防艦](https://zh.wikipedia.org/wiki/派里級巡防艦 "wikilink")
   - [法國海軍的](../Page/法國海軍.md "wikilink")（Cassard class
     frigate）採用了標準飛彈，但未使用美製的火器管制系統。
+  - [加拿大皇家海軍的](https://zh.wikipedia.org/wiki/加拿大皇家海軍 "wikilink")(roquois
+    class destroyer)(STIR-240照明雷達\*2)
 
 ## 使用者
 
@@ -297,6 +299,8 @@ RIM-66M標準二型飛彈是[美國海軍](../Page/美國海軍.md "wikilink")[�
 ## 註腳
 
 ## 參考資料
+
+[分類:美國售台軍事裝備](https://zh.wikipedia.org/wiki/分類:美國售台軍事裝備 "wikilink")
 
 [Category:美國飛彈](https://zh.wikipedia.org/wiki/Category:美國飛彈 "wikilink")
 [Category:舰载防空导弹](https://zh.wikipedia.org/wiki/Category:舰载防空导弹 "wikilink")

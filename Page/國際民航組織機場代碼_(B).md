@@ -98,7 +98,7 @@
   - **BIPA**-[Patreksfjörður機場](https://zh.wikipedia.org/wiki/Patreksfjörður機場 "wikilink")-[Patreksfjörður](https://zh.wikipedia.org/wiki/Patreksfjörður "wikilink")
   - **BIRF**-[里夫機場](https://zh.wikipedia.org/wiki/里夫機場 "wikilink")-[歐拉夫斯維克](https://zh.wikipedia.org/wiki/歐拉夫斯維克 "wikilink")
   - **BIRG**-[勒伊法赫本機場](https://zh.wikipedia.org/wiki/勒伊法赫本機場 "wikilink")-[勒伊法赫本](https://zh.wikipedia.org/wiki/勒伊法赫本 "wikilink")
-  - **BIRK**-[雷克雅未克機場](https://zh.wikipedia.org/wiki/雷克雅未克機場 "wikilink")-[雷克雅未克](https://zh.wikipedia.org/wiki/雷克雅未克 "wikilink")
+  - **BIRK**-[雷克雅未克機場](../Page/雷克雅未克機場.md "wikilink")-[雷克雅未克](https://zh.wikipedia.org/wiki/雷克雅未克 "wikilink")
   - **BISF**-[塞爾福士機場](https://zh.wikipedia.org/wiki/塞爾福士機場 "wikilink")-[塞爾福士](https://zh.wikipedia.org/wiki/塞爾福士 "wikilink")
   - **BISI**-[Siglufjörður機場](https://zh.wikipedia.org/wiki/Siglufjörður機場 "wikilink")-[Siglufjörður](https://zh.wikipedia.org/wiki/Siglufjörður "wikilink")
   - **BIST**-[Stykkishólmur機場](https://zh.wikipedia.org/wiki/Stykkishólmur機場 "wikilink")-[Stykkishólmur](https://zh.wikipedia.org/wiki/Stykkishólmur "wikilink")

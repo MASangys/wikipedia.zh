@@ -86,7 +86,8 @@ Poon）接手經營，而同時與槍鋪有關的該個亦不復存在\[27\]。�
 
   - [Uwants**成人色情**區](https://www.uwants.com/index2.php?gid=356)
   - [Uwants**資源交流**區](https://www.uwants.com/index2.php?gid=6)
-  - [Uwants 網上電台](http://netradio.uwants.com/)
+  - [Uwants
+    網上電台](https://web.archive.org/web/20060903034147/http://netradio.uwants.com/)
 
 ## 注釋
 

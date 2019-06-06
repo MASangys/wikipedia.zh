@@ -86,9 +86,6 @@ app default ARG                 set default application policy
 
 deny 與 reject 的區別在於：使用 deny 時，對方不會得到任何通知，而使用 reject 時則明確告訴對方被靜止了。
 
-[ast:Uncomplicated
-Firewall](https://zh.wikipedia.org/wiki/ast:Uncomplicated_Firewall "wikilink")
-
 [Category:防火墙软件](https://zh.wikipedia.org/wiki/Category:防火墙软件 "wikilink")
 [Category:Ubuntu](https://zh.wikipedia.org/wiki/Category:Ubuntu "wikilink")
 

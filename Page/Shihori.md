@@ -325,7 +325,7 @@ HOLIC分開活動\[10\]。
 <!-- end list -->
 
   - SOUND HOLIC MEETS TOHO ～東方的幽々舞踏劇～（[SOUND
-    HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2007年4月29日，[M3](https://zh.wikipedia.org/wiki/M3 "wikilink")-2007春）
+    HOLIC](../Page/SOUND_HOLIC.md "wikilink")，2007年4月29日，[M3](../Page/M3.md "wikilink")-2007春）
 
 <!-- end list -->
 

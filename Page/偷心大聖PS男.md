@@ -662,7 +662,7 @@ preceded_by = | followed_by = | related = | website =
   - 插曲：〈時間倒轉〉作詞：廷廷
     作曲：廷廷、[雷堡](https://zh.wikipedia.org/wiki/雷堡 "wikilink")
     (Magic Power)演唱：Magic Power
-  - 插曲：〈我不想念〉作詞：[五月天](../Page/五月天.md "wikilink")[阿信](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")/陳沒
+  - 插曲：〈我不想念〉作詞：[五月天](../Page/五月天.md "wikilink")[阿信](../Page/陳信宏.md "wikilink")/陳沒
     作曲：鴉片丹 　演唱：[劉若英](https://zh.wikipedia.org/wiki/劉若英 "wikilink")
 
 ## 收視率

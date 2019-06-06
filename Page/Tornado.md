@@ -31,7 +31,8 @@ Tornado有着优异的性能。它试图解决[C10k问题](https://zh.wikipedia.
 
   - [Tornado 主页](http://www.tornadoweb.org/)
   - [Tornado 中国镜像站点](http://www.tornadoweb.cn/)
-  - [GitHub Project Page](http://wiki.github.com/facebook/tornado)
+  - [GitHub Project
+    Page](https://www.webcitation.org/66mePajXS?url=https://github.com/facebook/tornado/wiki)
   - [Tornado Google
     Group](http://groups.google.com/group/python-tornado)
 

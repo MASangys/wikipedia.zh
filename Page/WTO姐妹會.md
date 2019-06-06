@@ -1,13 +1,3 @@
-| 國家 =  | 語言 =
-[漢語](https://zh.wikipedia.org/wiki/漢語 "wikilink")、[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")
-| 字幕 = [繁體中文](https://zh.wikipedia.org/wiki/繁體中文 "wikilink") | 製片人 = |
-每集長 = 60分鐘（含廣告） | 播出國家 =  | 頻道 =
-[八大第一台](../Page/八大第一台.md "wikilink") | 開始 =
-2009年3月2日 | 結束 = 2016年4月8日 | 播出國家1 =  | 頻道1 =
-[八大綜合台](../Page/八大綜合台.md "wikilink") | 開始1 =
-2016年4月11日 | 結束1 = 至今 | 播出時間1 = 每週一到週四23:00 - 24:00 | 官方網站 =
-<https://www.gtv.com.tw/Program/P2009030201/index.html> WTO姐妹會
-
 《**WTO姐妹會**》（）[臺灣](../Page/臺灣.md "wikilink")[八大電視旗下](../Page/八大電視.md "wikilink")[八大綜合台所製作播出的訪談性節目](../Page/八大綜合台.md "wikilink")，自2009年3月2日起播出至今。除了每集邀請的藝人以及專家之外，該節目的來賓皆為來自[世界各國且長期定居台灣的外籍人士](../Page/世界.md "wikilink")，故藉[世界貿易組織英文縮寫](https://zh.wikipedia.org/wiki/世界貿易組織 "wikilink")「WTO」作為命名。而開播時僅有女性來賓，故稱「姐妹會」。節目當中「台灣新住民」一詞經常被使用，反映出台灣新生代族群的多元與開放。
 
 每集節目皆定有主題，主要以來賓訪談的方式進行，但是有時也穿插特別活動，例如棚外錄影。常見的主題包括有世界各國文化差異、[文化衝擊](https://zh.wikipedia.org/wiki/文化衝擊 "wikilink")、異國風俗、語言學習經驗、婚姻生活等。
@@ -301,14 +291,16 @@
 <td><p>女</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海人</a>。2017-12-19 WTO姐妹會（YouTube 約24:15）這集，小萍在節目上提到Mini老公原是在台灣月薪10萬台幣的工程師，因上海有公司願給月薪10萬人民幣挖角，因此夫妻兩人已一同移居上海。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/上海" title="wikilink">上海人</a>。</p>
+<p>2017-12-19，約24:15，小萍在節目上提到Mini老公原是在台灣月薪10萬台幣的工程師，因上海有公司願給月薪10萬人民幣挖角，因此夫妻兩人已一同移居上海。</p></td>
 </tr>
 <tr class="odd">
 <td><p>小萍</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/profile.php?id=100002994630832">Facebook</a></p></td>
-<td><p>籍貫<a href="https://zh.wikipedia.org/wiki/瀋陽" title="wikilink">瀋陽</a>，本名杜麗萍，性格嗆辣，有東北女子之豪氣。據可靠人士爆料已全家移民國外並註銷了所有的社交媒體帳號。小萍移民國外前的最後一場在，2018-09-11 WTO姐妹會 台灣這樣吃這樣玩 新住民的"制縣傳說"</p></td>
+<td><p>籍貫<a href="https://zh.wikipedia.org/wiki/瀋陽" title="wikilink">瀋陽</a>，本名杜麗萍，性格嗆辣，有東北女子之豪氣。據可靠人士爆料已全家移民國外並註銷了所有的社交媒體帳號。</p>
+<p>小萍移民國外前的最後一場在，2018-09-11。</p></td>
 </tr>
 <tr class="even">
 <td><p>熙靜</p></td>
@@ -733,7 +725,7 @@
 <td><p><a href="https://www.youtube.com/c/AVINTAIWAN">YouTube</a><br />
 <a href="https://www.instagram.com/avintaiwan">Instagram</a><br />
 <a href="https://www.facebook.com/avintaiwan">Facebook</a></p></td>
-<td><p>2019-01-09、2019-03-26</p></td>
+<td><p>2019-01-09、2019-03-26、2019-05-20</p></td>
 </tr>
 <tr class="odd">
 <td><p>Yanny</p></td>
@@ -1063,7 +1055,8 @@
 <td><p><a href="https://www.facebook.com/amimilovetaiwan/">Facebook</a><br />
 <a href="https://Instagram.com/amimi_taiwan">Instagram</a><br />
 <a href="https://www.youtube.com/channel/UC3miNzm5Vu_-n5oVnqH7FgQ">YouTube</a></p></td>
-<td><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a><a href="../Page/一宮市.md" title="wikilink">一宮市人</a>，就讀台大中文系，曾是《不要鬧工作室》的常客，已回日本結婚。 亞實回日本定居前的最後一場在，2018-12-05 WTO姐妹會 全都你的毛 超難逗陣的國家?!</p></td>
+<td><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a><a href="../Page/一宮市.md" title="wikilink">一宮市人</a>，就讀台大中文系，曾是《不要鬧工作室》的常客，已回日本結婚。</p>
+<p>亞實回日本定居前的最後一場在，2018-12-05。</p></td>
 </tr>
 <tr class="odd">
 <td><p>五十嵐幸子</p></td>
@@ -1207,13 +1200,16 @@
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都人</a>。2018-09-18</p></td>
 </tr>
 <tr class="even">
-<td><p>Yuki</p></td>
+<td><p>Yuki（北島由貴）</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://zh-tw.facebook.com/pages/%E5%8C%97%E5%B3%B6%E7%94%B1%E8%B2%B4Yuki/237809196404947">Facebook</a><br />
 <a href="https://instagram.com/yuki_kitajima_?utm_source=ig_profile_share&amp;igshid=1evzyka8tkrq1">Instagram</a></p></td>
-<td><p><a href="../Page/東京都.md" title="wikilink">東京都人</a>，本名北島由貴。出身<a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/世田谷區.md" title="wikilink">世田谷區</a>，畢業自女子高中，赴<a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京就讀大學</a>。2010年來台，曾任職<a href="https://zh.wikipedia.org/wiki/青山外語" title="wikilink">青山外語等各大補習班</a>。落落大方、聒噪多話，國、台語間雜，並非典型的日本女孩。為節目常客，不吝分享個人私事，更常脫口說出驚人之語。 Yuki回日本定居前的最後一場在，2017-11-28 WTO姐妹會 日本人眼中的"大阪國"什麼都要不一樣?!</p>
-<p>2018-04-09 WTO姐妹會 外國來的就是好貨?! 各國人就愛這個...(YouTube 約38:03)，Yuki在節目上說:「我男朋友（台灣人）現在到日本工作」。所以Yuki現在與男朋友一同移居日本。</p></td>
+<td><p>出生<a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/世田谷區.md" title="wikilink">世田谷區</a>，畢業自女子高中，赴<a href="https://zh.wikipedia.org/wiki/北京" title="wikilink">北京就讀大學</a>。2010年來台，曾任職<a href="https://zh.wikipedia.org/wiki/青山外語" title="wikilink">青山外語等各大補習班</a>。落落大方、聒噪多話，國、台語間雜，並非典型的日本女孩。為節目常客，不吝分享個人私事，更常脫口說出驚人之語。</p>
+<p>Yuki回日本定居前的最後一場在，2017-11-28。</p>
+<p>之後有再回台灣上節目：</p>
+<p>2018-04-09，約38:03，Yuki在節目上說:「我男朋友（台灣人）現在到日本工作」。所以Yuki現在與男朋友一同移居日本。</p>
+<p>2018-04-10、2018-04-12、2018-04-16、2018-04-19、2019-05-30</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/西田惠里奈.md" title="wikilink">西田惠里奈</a>（曾改名︰曉金鳳）</p></td>
@@ -1423,14 +1419,14 @@
 <td><p>女</p></td>
 <td></td>
 <td></td>
-<td><p>嫁到<a href="https://zh.wikipedia.org/wiki/彰化" title="wikilink">彰化</a>。</p></td>
+<td><p>嫁到<a href="https://zh.wikipedia.org/wiki/彰化" title="wikilink">彰化</a>。2018-04-10</p></td>
 </tr>
 <tr class="even">
 <td><p>珍熙</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>2018-04-10</p></td>
 </tr>
 <tr class="odd">
 <td><p>允禎</p></td>
@@ -1743,7 +1739,7 @@
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/%E6%9B%89%E8%A9%A9-1239899716021865/">Facebook</a></p></td>
-<td><p>全名游曉出生泰國的東北地區，母親是小學老師。育有三子女，活潑開朗、手藝精湛，常分享閨房情事與生活逸聞，是大家公認的節目開心果。也常在節目上說將來要回泰國養老，如：2019-02-21，28:55。</p></td>
+<td><p>全名游曉詩出生泰國的東北地區，母親是小學老師。育有三子女，活潑開朗、手藝精湛，常分享閨房情事與生活逸聞，是大家公認的節目開心果。也常在節目上說將來要回泰國養老，如：2019-02-21，28:55。</p></td>
 </tr>
 <tr class="even">
 <td><p>藍星</p></td>
@@ -1782,11 +1778,13 @@
 <td><p>2018-05-15</p></td>
 </tr>
 <tr class="odd">
-<td><p>Gen</p></td>
+<td><p>Gen 黃琦妮</p></td>
 <td><p>女</p></td>
 <td></td>
-<td></td>
-<td><p>2018-08-13</p></td>
+<td><p><a href="https://www.youtube.com/channel/UCrT5WYyCNjnQnNzRvEm_E5w?view_as=subscriber">Youtube</a><br />
+<a href="https://www.facebook.com/hellophiltai/">Facebook Page</a><br />
+<a href="https://www.instagram.com/hellophiltai/">Instagram</a></p></td>
+<td><p>2018-08-13 First WTO Appearance. Gen is a host, speaker, blogger, youtuber, language teacher, actress and a model. She has PhilTai as her way to bridge the gap between Taiwan and Philippines Culture. 2013, She had appeared in two Tv shows namely, Light Up 點燈的是節目 and Golden Tv 美體小金兵. 2016 She was featured in TVBS, Big Love Tv大愛電視節目在台灣站起 and famous host Paul Lee for World Youth Talk or 世界這樣說. The most recent TV appearance this year is again with popular host Paul Lee for DaWin Tv. Search "PhilTai 黃琦妮" for more articles and news about Gen.</p></td>
 </tr>
 <tr class="even">
 <td><p>美美</p></td>
@@ -1998,8 +1996,8 @@
 <td><p>Lana</p></td>
 <td><p>女</p></td>
 <td></td>
-<td><p><a href="https://www.facebook.com/Lana-%E6%B2%88%E6%8B%89%E5%A8%9C-510771162589893/">1</a><br />
-<a href="https://www.instagram.com/svetlana_m/?hl=en">2</a></p></td>
+<td><p><a href="https://www.facebook.com/Lana-%E6%B2%88%E6%8B%89%E5%A8%9C-510771162589893/">Facebook</a><br />
+<a href="https://www.instagram.com/svetlana_m/?hl=en">Instagram</a></p></td>
 <td><p>2019-04-09、2019-04-11</p></td>
 </tr>
 <tr class="even">
@@ -2017,26 +2015,26 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>安娜</p></td>
+<td><p>佳娜</p></td>
 <td><p>女</p></td>
 <td></td>
-<td><p><a href="https://www.facebook.com/anastasiia.gorova">Facebook</a></p></td>
-<td></td>
+<td><p><a href="https://www.instagram.com/_tatiana_lin/">Instagram</a></p></td>
+<td><p>2019-04-15、17、23、2019-05-02、21、22</p></td>
 </tr>
 <tr class="odd">
-<td><p>Slesh</p></td>
-<td><p>女</p></td>
-<td></td>
-<td></td>
-<td><p>2017-10-12</p></td>
-</tr>
-<tr class="even">
 <td><p>貝娜</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://instagram.com/natasha_b_?utm_source=ig_profile_share&amp;igshid=rhh0i7yv6f05">Instagram</a><br />
 <a href="https://www.facebook.com/profile.php?id=100009280631815">Facebook</a></p></td>
 <td><p>2019-01-08、2019-04-01、2019-04-03</p></td>
+</tr>
+<tr class="even">
+<td><p>安娜</p></td>
+<td><p>女</p></td>
+<td></td>
+<td><p><a href="https://www.facebook.com/anastasiia.gorova">Facebook</a></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>莎莎</p></td>
@@ -2047,27 +2045,34 @@
 <td><p>2019-03-04、2019-04-04</p></td>
 </tr>
 <tr class="even">
-<td><p>佳娜</p></td>
+<td><p>Slesh</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
-<td><p>2019-04-15、2019-04-23</p></td>
+<td><p>2017-10-12</p></td>
 </tr>
 <tr class="odd">
+<td><p>舒舒</p></td>
+<td><p>女</p></td>
+<td></td>
+<td></td>
+<td><p>2019-05-29</p></td>
+</tr>
+<tr class="even">
 <td><p>Ewa</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/ewa.lewinska.12">Facebook</a></p></td>
 <td><p>節目始祖，已移民<a href="../Page/加拿大.md" title="wikilink">加拿大</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Kasia</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/kasiaintaipei/">Facebook</a></p></td>
 <td><p>已回到波蘭</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Anna</p></td>
 <td><p>女</p></td>
 <td></td>
@@ -2075,7 +2080,7 @@
 <a href="https://www.facebook.com/%E6%84%9B%E8%98%AD-%E6%B3%A2%E8%98%ADAnna-1155888647851689/">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>妙雅</p></td>
 <td><p>女</p></td>
 <td></td>
@@ -2083,77 +2088,77 @@
 <a href="https://www.facebook.com/MiaoyaInTaiwan">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>派翠夏</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/paicuixia/">Facebook</a></p></td>
 <td><p>2018-03-14</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>凱瑟琳</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>2018-04-24</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Christina</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/christina.ke.585">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Eileen</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://zh-tw.facebook.com/EileenCarlsOfficial">Facebook</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台師大" title="wikilink">台師大留學生</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>安德里亞</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>2019-03-26、2019-05-01</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>夢璇</p></td>
 <td><p>女</p></td>
 <td></td>
-<td><p><a href="https://www.facebook.com/wtomengxuan/">Facebook</a></p></td>
+<td><p><a href="https://www.facebook.com/ahamengxuan/">Facebook</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/台師大" title="wikilink">台師大留學生</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Elena</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>2019-02-26</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Laura</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Stella</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>2018-06-20</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>柔姿</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>2019-05-02</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Tatyana</p></td>
 <td><p>女</p></td>
 <td></td>
@@ -2162,35 +2167,35 @@
 <a href="https://zh-tw.facebook.com/OfficialTatyanaB">Facebook</a></p></td>
 <td><p>模特兒。2017-10-12</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Tyna</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/雷堤娜-Tyna-433109680090872">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>李霽霞</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/laetitia.lijixia">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>白笛</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Anna</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/anna.WTO">Facebook</a></p></td>
 <td><p>挑食、有主見，丈夫為知名的體育選手。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>茱莉花</p></td>
 <td><p>女</p></td>
 <td></td>
@@ -2198,35 +2203,35 @@
 <a href="https://www.instagram.com/julielaflower">Instagram</a></p></td>
 <td><p>已回法國，預計2019年9月要到中國念書。2017-07-19</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>李美</p></td>
 <td><p>女</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://www.instagram.com/limeishu/">Instagram</a></p></td>
 <td><p>2018-09-20、2019-04-23</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Lily</p></td>
 <td><p>女</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://www.instagram.com/mayliss_lily/">Instagram</a></p></td>
 <td><p>2019-02-20、2019-03-26</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Sandra</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="http://sandra-taiwan.blogspot.com/">Blogger</a></p></td>
 <td><p>爸爸是英國人、媽媽是巴西人，已回英國。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>宜玲</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/yilingfp">Facebook</a></p></td>
 <td><p>專業的英、日、中翻譯，以前於台南駐唱，已移民<a href="https://zh.wikipedia.org/wiki/馬爾他" title="wikilink">馬爾他島國</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Amy</p></td>
 <td><p>女</p></td>
 <td></td>
@@ -2234,84 +2239,84 @@
 <a href="https://www.youtube.com/watch?v=AgLoWyrLp7c">YouTube</a></p></td>
 <td><p>著有《不只是炸魚薯條》的英式料理一書。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Kim（歐陽姍）</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://zh-tw.facebook.com/SlowBoat2Taiwan">Facebook</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/紐約州" title="wikilink">紐約州人</a>。美國出生的英語老師，曾經與丈夫<a href="https://zh.wikipedia.org/wiki/潮州鎮" title="wikilink">黃崇校得過吉他彈唱</a><a href="../Page/五燈獎.md" title="wikilink">五燈獎五度五關的英文民歌歌手</a>[3]。<a href="https://zh.wikipedia.org/wiki/愛爾蘭" title="wikilink">愛爾蘭和</a><a href="https://zh.wikipedia.org/wiki/波蘭" title="wikilink">波蘭的混血</a>，家族有很多都是混血人，多在<a href="https://zh.wikipedia.org/wiki/英國" title="wikilink">英國長大</a>，擅長模仿各地口音。女兒Christina亦為八大《同學！搞什麼鬼》的來賓。</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/紐約州" title="wikilink">紐約州人</a>。美國出生的英語老師，曾經與丈夫<a href="https://zh.wikipedia.org/wiki/潮州鎮" title="wikilink">黃崇校得過吉他彈唱</a><a href="../Page/五燈獎.md" title="wikilink">五燈獎五度五關的英文民歌歌手</a>[3]，大學城第九屆創作歌謠優勝歌手（台大歷史）。<a href="https://zh.wikipedia.org/wiki/愛爾蘭" title="wikilink">愛爾蘭和</a><a href="https://zh.wikipedia.org/wiki/波蘭" title="wikilink">波蘭的混血</a>，家族有很多都是混血人，多在<a href="https://zh.wikipedia.org/wiki/英國" title="wikilink">英國長大</a>，擅長模仿各地口音。女兒Christina亦為八大《同學！搞什麼鬼》的來賓。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>可莉</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>美玲</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>柯念萱</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://zh-tw.facebook.com/kekepig">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Sarah</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Kelly</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>父親是<a href="../Page/墨西哥.md" title="wikilink">墨西哥人</a>，有一半墨西哥的血統。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Terri</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>安蓉</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/gingerlon">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>凱蒂</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.youtube.com/watch?v=kh8IXAfKzn8">YouTube</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/華盛頓州" title="wikilink">華盛頓州</a><a href="../Page/西雅圖.md" title="wikilink">西雅圖人</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>荷麗</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.youtube.com/watch?v=xohpTG9PJ1c">YouTube</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬里蘭州" title="wikilink">馬里蘭州人</a>。2014-12-16</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>瑞秋</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/田納西州" title="wikilink">田納西州人</a>。2014-12-16</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>愛蓮</p></td>
 <td><p>女</p></td>
 <td></td>
@@ -2319,35 +2324,35 @@
 <a href="https://www.facebook.com/AriannaChuc/?ref=br_rs">Facebook</a></p></td>
 <td><p><a href="../Page/西維吉尼亞州.md" title="wikilink">西維吉尼亞州人</a>。2018-04-23</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>蕊根</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/密西西比州.md" title="wikilink">密西西比州人</a>。2018-05-14</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Mary-b</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/亞利桑那州.md" title="wikilink">亞利桑那州人</a>。2018-05-14</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>彩曦</p></td>
 <td><p>女</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://www.instagram.com/hailey_jane/">Instagram</a></p></td>
 <td><p>2018-09-27</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>雷可樂</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>凱西</p></td>
 <td><p>女</p></td>
 <td></td>
@@ -2355,119 +2360,119 @@
 <a href="https://www.instagram.com/kaiximay">Instagram</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Lupita</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>後改名柔柔 。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Teresa</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>樊琳</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>2017-12-05</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>蕾妮絲（可樂）</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>婭妮</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>梅麗莎</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>陸奧拉</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/AuraCRusso">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Rosa</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Mili</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Tina</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>貝素華</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>麗陽</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/sol.segovia.100">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>香妮</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td><p>丈夫熊哥，兩人常常語出驚人，被調侃自備「熊哥語錄」。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>芭蒂</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/patty.rodriguez.395">Facebook</a></p></td>
 <td><p><a href="https://www.facebook.com/pages/Alina-%E8%94%A1%E6%80%9D%E9%80%B8/386280958179242">芭蒂女兒</a>為台灣的知名網紅。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Olivania</p></td>
 <td><p>女</p></td>
 <td></td>
 <td><p><a href="https://zh-tw.facebook.com/olivania">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>小凡</p></td>
 <td><p>女</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -2569,72 +2574,79 @@
 <td><p>男</p></td>
 <td></td>
 <td></td>
-<td><p>2018-10-01</p></td>
+<td><p>2018-10-01、2019-05-20</p></td>
 </tr>
 <tr class="odd">
+<td><p>陳獻</p></td>
+<td><p>男</p></td>
+<td></td>
+<td></td>
+<td><p>2019-05-20</p></td>
+</tr>
+<tr class="even">
 <td><p>Lawrence</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Jeff</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2015-05-25</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>阿Fi</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2018-08-27</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Eddie</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2018-11-22</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Ted</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/廣東省" title="wikilink">廣東省人</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>大寶</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2018-11-15、2019-04-04</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>敬錄</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/馬山市" title="wikilink">馬山市人</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>PANCHO</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>黃OPPA</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="http://www.facebook.com/oppa.huang/">Facebook</a></p></td>
 <td><p>韓星<a href="../Page/張根碩.md" title="wikilink">張根碩的同學</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Honey</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -2642,42 +2654,42 @@
 <a href="https://www.facebook.com/honeykim1986/">Facebook粉絲專頁</a></p></td>
 <td><p>前韓國經紀公司<a href="https://zh.wikipedia.org/wiki/JYP" title="wikilink">JYP練習生</a>。在台北東區開設韓式雞肉料理專賣店。<a href="https://www.facebook.com/Check-In-Taipei-302173456813590/?hc_ref=PAGES_TIMELINE">Check In Taipei</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>STEVEN</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>愛德華</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>李昌浩</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>龍勳</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>宰成</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.youtube.com/channel/UCndOgjP7zx-4zSwi80tFA-w">YouTube</a></p></td>
 <td><p>已到中國發展。2017-07-19</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>開朗</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -2686,7 +2698,7 @@
 <a href="https://www.facebook.com/HappinessInTawan?fref=ts">Facebook粉絲專頁</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大邱" title="wikilink">大邱人</a>、韓語老師。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>台北歐巴</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -2695,49 +2707,49 @@
 <td><p>2016-07-14<br />
 職業導遊，2019-02-27(YouTube約8:57)。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>昶琪</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Nick</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>BODAM</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2017-10-16</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Harry</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2017-10-16</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>榮埈</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2017-10-16、2018-03-14</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>趙培鈞</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>| 台、韓混血。2018-05-02</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>金炳秀</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -2745,28 +2757,28 @@
 <a href="https://www.facebook.com/profile.php?id=100003502880675">Facebook</a></p></td>
 <td><p>2018-08-02</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Jackson</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2018-09-12</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>範哥</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2019-02-27</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>由利正忠</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Atsushi</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -2774,7 +2786,7 @@
 <a href="https://www.facebook.com/atsushi.oki.7">Facebook</a></p></td>
 <td><p><a href="../Page/岡山縣.md" title="wikilink">岡山縣人</a>、本名大木淳史，經營《Club Q10》及《Rodeo Crown》等餐酒館。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>葛西健二</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -2782,28 +2794,28 @@
 <a href="https://www.facebook.com/profile.php?id=100004592081196">Facebook</a></p></td>
 <td><p>京都人，來台發展藝人，曾參予多部電影演出，包括<a href="../Page/大稻埕_(電影).md" title="wikilink">大稻埕 (電影)和</a><a href="../Page/KANO.md" title="wikilink">KANO等</a>。演藝事業之餘，於台北通化臨江夜市開設《<a href="http://www.ettoday.net/news/20140221/327251.htm">富士山溶岩燒</a>》經營日式串燒生意。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>阿松</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>本名松田直彌，自由播報員、體育播報員、美食記者。曾為美食節目《大口吃遍台灣（台湾大口食べ歩き）》主持人。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>大谷主水（Mondo）</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://zh-tw.facebook.com/mondo0718">Facebook</a></p></td>
 <td><p>日本男模，出生於日本宮崎市，曾為日本跆拳道國手。現轉投友台節目《<a href="../Page/二分之一強.md" title="wikilink">二分之一強</a>》。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>田中宏呂美</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/people/Hiromi-Tanaka/100006464881890">Facebook</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣人</a>，餐廳老闆。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Makoto</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -2811,7 +2823,7 @@
 <a href="https://zh-tw.facebook.com/MakotoWTO">Facebook</a></p></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都人</a>、本名矢崎誠，喜歡鐵人三項運動。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>大西由希也（Yukiya）</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -2819,21 +2831,21 @@
 <a href="https://www.facebook.com/yukiyaoonishi.grp/?fref=ts">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Ryu</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>志甫一成</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/富山縣.md" title="wikilink">富山縣人</a>。2017-07-19</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/風田.md" title="wikilink">風田</a></p></td>
 <td><p>男</p></td>
 <td></td>
@@ -2842,21 +2854,21 @@
 <a href="https://www.weibo.com/spexialwin">微博</a></p></td>
 <td><p><a href="../Page/青森縣.md" title="wikilink">青森縣人</a>。粉絲名為「小風車」。模特兒出身，曾走過不少國際時裝秀。後為台灣男子團體<a href="../Page/SpeXial.md" title="wikilink">SpeXial第三期成員</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Hiroto</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/靜岡縣.md" title="wikilink">靜岡縣人</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Masa</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/三重縣" title="wikilink">三重縣人</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>kyoda</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -2864,28 +2876,28 @@
 <a href="https://www.facebook.com/Kyoda-wto%E5%A7%90%E5%A6%B9%E6%9C%83-164980814211124/">Facebook</a></p></td>
 <td><p><a href="../Page/沖繩縣.md" title="wikilink">沖繩縣人</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>馬克</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Daiki</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>哈魯</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>IKU</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -2894,56 +2906,56 @@
 <a href="https://www.facebook.com/ikulaoshi">Facebook</a></p></td>
 <td><p>本名佐藤生（さとう　いく），知名插畫家。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Haru</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/鳥取縣.md" title="wikilink">鳥取縣人</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>強尼</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>貴妃</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都人</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Massa</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣人</a>。2018-03-13</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>中田</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府人</a>。2019-03-25</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>大樹</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府人</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>龜山雄太</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣人</a>，從事產品叫賣。2018-05-08</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>稻村壤治(George)</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -2952,7 +2964,7 @@
 <a href="https://instagram.com/george_inamura?utm_source=ig_profile_share&amp;igshid=1se7lh29kr4bo">Instagram</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/福島縣" title="wikilink">福島縣人</a>，歌手。2018-05-08</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>小林賢伍</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -2960,42 +2972,42 @@
 <a href="https://www.instagram.com/iamnotkengo">Instagram</a></p></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都人</a>，攝影師。2018-05-08</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>木川</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/沖繩縣.md" title="wikilink">沖繩縣人</a>。2018-07-30</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>折田</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/名古屋市.md" title="wikilink">名古屋市人</a>。2018-12-11、2019-03-25</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>廖非凡</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>荷台混血。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>麥克溫德</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>可樂</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/kyrill.knips?fref=pb&amp;hc_location=friends_tab&amp;pnref=friends">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>阿福</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -3003,140 +3015,140 @@
 <a href="https://instagram.com/afu_tv?utm_source=ig_profile_share&amp;igshid=davmn63tireu">Instagram</a></p></td>
 <td><p>年輕時曾旅居各國，學識淵博、擅於模仿，為節目固定班底。女兒棠棠亦為八大《同學！搞什麼鬼》的來賓。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>賀少俠</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/Sascha.Shaoxia">Facebook</a></p></td>
 <td><p>素有德國版<a href="https://zh.wikipedia.org/wiki/Justin_Timberlake" title="wikilink">賈斯丁之稱</a>，亦為《<a href="https://zh.wikipedia.org/wiki/國光幫幫忙" title="wikilink">國光幫幫忙</a>》、《<a href="https://zh.wikipedia.org/wiki/萬秀大勝利" title="wikilink">萬秀大勝利</a>》、《2分之一強》、《<a href="../Page/康熙來了.md" title="wikilink">康熙來了</a>》等的固定嘉賓。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>何瑞元</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://zh-tw.facebook.com/usatcg3">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Ron</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>MATT</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Justin</p></td>
 <td><p>男</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/南卡羅來納州" title="wikilink">南卡羅來納州</a></p></td>
 <td><p><a href="https://www.facebook.com/pages/Justin-Caleb-Cooper-%E8%B3%88%E6%96%AF%E6%B1%80/108311212571056">Facebook</a></p></td>
 <td><p><a href="https://www.youtube.com/watch?v=d2XhxXDS6zY&amp;app=desktop">參與電影演出(痞子英雄2)。</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Brian</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/Brian4TW/">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>StevieG</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/DJStevieG">Facebook</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/ICRT" title="wikilink">ICRTDJ</a>。2016-09-13</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>帥老外</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://zh-tw.facebook.com/pages/Chinese-Rapper-DOM-%E5%B8%A5%E8%80%81%E5%A4%96/113316065346630?sk=wall&amp;filter=12">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Mike</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>亨泰</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2016-07-27</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Steve</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/steve.iglehart.54">Facebook</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/加州" title="wikilink">加州</a><a href="https://zh.wikipedia.org/wiki/舊金山" title="wikilink">舊金山人</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>包德偉</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>喬納森</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Nial</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/heynial">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Trevor</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/加州" title="wikilink">加州人</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Chris</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>那三牛</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/pages/%E9%82%A3%E4%B8%89%E7%89%9B/393920960774714">Facebook</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/北卡" title="wikilink">北卡人</a>，亦是節目頂梁柱之一，承包冷笑話。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>海明威</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/rewritingrules">Facebook</a></p></td>
 <td><p><a href="https://www.youtube.com/user/rewritingrules">YouTube</a>本名是Jake Hemmingway。2006年在<a href="https://zh.wikipedia.org/wiki/台中" title="wikilink">台中當傳道士</a>，也曾是《不要鬧工作室》常客。曾經連續以滑板、騎腳踏車和步行跟弟弟們環島四次。已於2015年回美。[4]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Cody</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/印第安納" title="wikilink">印第安納人</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>小貝</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -3145,49 +3157,49 @@
 <a href="https://www.youtube.com/LoganDBeck">YouTube</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/猶他" title="wikilink">猶他人</a>。 2017-07-19</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Keoni</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/夏威夷" title="wikilink">夏威夷人</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>楊文心</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/明尼蘇達" title="wikilink">明尼蘇達人</a>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>Henry</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2018-03-14</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Ryan</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/ryanklos.official?hc_location=ufi">Facebook</a></p></td>
 <td><p>2015-12-17</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>古狄安</p></td>
 <td><p>男</p></td>
 <td></td>
 <td><p><a href="https://www.facebook.com/AntonioBriman">Facebook</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>Alex</p></td>
 <td><p>男</p></td>
 <td></td>
 <td></td>
 <td><p>2016-03-28</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>亞聖</p></td>
 <td><p>男</p></td>
 <td></td>
@@ -3195,6 +3207,13 @@
 <a href="https://r.search.yahoo.com/_ylt=AwrtSzzpNUlcnvAAvB5xOSY5;_ylu=X3oDMTByYzhha3F2BGNvbG8DdHcxBHBvcwMxBHZ0aWQDBHNlYwNzcg--/RV=2/RE=1548330602/RO=10/RU=https%3a%2f%2ftw.news.yahoo.com%2f%25E9%2581%25A0%25E5%25AB%2581%25E4%25BF%2584%25E7%25BE%2585%25E6%2596%25AF-%25E5%25A5%25B9%25E9%2581%25AD%25E5%25A4%2596%25E9%2581%2587%25E5%25A4%25AB%25E9%2580%2581%25E7%25B2%25BE%25E7%25A5%259E%25E7%2597%2585%25E9%2599%25A2-2%25E5%25AD%25A9%25E8%25AA%258D-%25E5%25B0%258F%25E4%25B8%2589-%25E7%2595%25B6%25E5%25AA%25BD-132100388.html/RK=2/RS=v8K3PnLlOV3nOUp0jrsl94bIoPk-">Yahoo奇摩新聞</a><br />
 <a href="https://m.facebook.com/story.php?story_fbid=2486554491379627&amp;id=124616330906800">東森新聞</a></p></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>Victor</p></td>
+<td><p>男</p></td>
+<td></td>
+<td></td>
+<td><p>2019-05-16</p></td>
 </tr>
 <tr class="odd">
 <td><p>David</p></td>
@@ -3245,7 +3264,7 @@
 <td><p>男</p></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>2017-11-08</p></td>
 </tr>
 <tr class="even">
 <td><p>Caesar</p></td>
@@ -3563,7 +3582,7 @@
 <td><p>男</p></td>
 <td></td>
 <td></td>
-<td><p>2019-03-05</p></td>
+<td><p>2019-03-05、2019-05-08</p></td>
 </tr>
 <tr class="odd">
 <td><p>阿實</p></td>

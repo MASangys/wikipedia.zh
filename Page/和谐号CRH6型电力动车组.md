@@ -17,7 +17,7 @@ CRH6A车型定员载客量557人（座席）\[6\]（双门中间车厢，一说5
 
 值得一提的是，CRH6A-4002和CRH6A-4502以及上海[金山铁路](https://zh.wikipedia.org/wiki/金山铁路 "wikilink")、北京[副中心线用车的中间车厢为三门车厢](../Page/北京市郊铁路城市副中心线.md "wikilink")，而其他的CRH6A车型均为双门车厢。
 
-由[广深铁路股份有限公司向四方厂定制的CRH](https://zh.wikipedia.org/wiki/广深铁路股份有限公司 "wikilink")6A-4132\~4137采用与[统型CRH2型动车组相同的布局](../Page/和谐号CRH2型电力动车组.md "wikilink")，头尾车厢不设驾驶室门，并设置一等座车（ZY），二等座车改为3+2布局，其中二等座中部空间位置设有茶桌采用2+2布局，所有座椅均可旋转。在5号车厢（ZEC）还设置[吧台](https://zh.wikipedia.org/wiki/餐车 "wikilink")，亦设有残疾人士卫生间，车厢內部装潢与[复兴号动车组相似](https://zh.wikipedia.org/wiki/复兴号动车组 "wikilink")。这一部分的CRH6A全部配属[广深铁路股份有限公司广州东](https://zh.wikipedia.org/wiki/广深铁路股份有限公司 "wikilink")（石牌）动车所，担当[广深动车组列车](../Page/广深动车组列车.md "wikilink")。
+由[广深铁路股份有限公司向四方厂定制的CRH](https://zh.wikipedia.org/wiki/广深铁路股份有限公司 "wikilink")6A-4132\~4137采用与[统型CRH2型动车组相同的布局](../Page/和谐号CRH2型电力动车组.md "wikilink")，头尾车厢不设驾驶室门，并设置一等座车（ZY），二等座车改为3+2布局，其中二等座中部空间位置设有茶桌采用2+2布局，所有座椅均可旋转。在5号车厢（ZEC）还设置[吧台](https://zh.wikipedia.org/wiki/餐车 "wikilink")，亦设有残疾人士卫生间，车厢內部装潢与[复兴号CR400AF型电力动车组相似](../Page/复兴号CR400AF型电力动车组.md "wikilink")。这一部分的CRH6A全部配属[广深铁路股份有限公司广州东](https://zh.wikipedia.org/wiki/广深铁路股份有限公司 "wikilink")（石牌）动车所，担当[广深动车组列车](../Page/广深动车组列车.md "wikilink")。
 
 <File:Car> 7 interior of CRH6A-0438 (20180106182533).jpg|CRH6A车厢全景（三门版）
 <File:201901> Second Class Interior of CRH6A-4133.jpg|广深版CRH6A二等座车全景
@@ -573,6 +573,8 @@ CRH6F-A车型为CRH6F的4辆小编组版本，最大载客量达875人\[11\]。
 
 2016年8月9日，湖南城际铁路有限公司为[长株潭城际铁路招标](../Page/长株潭城际铁路.md "wikilink")5组8节的CRH6F型列车，后来成为CRH6F-0409～CRH6F-0413。
 
+2017年6月10日，2列“阳明号”CRH6F列车投入[宁波至余姚城际铁路运营](https://zh.wikipedia.org/wiki/宁波至余姚城际铁路 "wikilink")。
+
 2017年9月28日，新采购的两列CRH6A在上海[金山铁路运行](https://zh.wikipedia.org/wiki/金山铁路 "wikilink")\[26\]。
 
 2017年11月3日，[北京市郊铁路城市副中心线的首列CRH](../Page/北京市郊铁路城市副中心线.md "wikilink")6A（车组编号0438）在青岛下线。\[27\]除上述线路外，CRH6A、CRH6F还获得了河南城际铁路等订单\[28\]。
@@ -637,7 +639,7 @@ Station.jpg|[成灌铁路使用CRH](../Page/成灌铁路.md "wikilink")6A-A停�
 </tr>
 <tr class="odd">
 <td><p>10</p></td>
-<td><p>0401、0403～0408、0601、0603、0604</p></td>
+<td><p>0401、0403、0405～0408、0601～0604</p></td>
 <td><p>佛山西（城际所）</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/广佛肇城轨" title="wikilink">广佛肇城轨</a></p></td>
 <td><p>0406曾在<a href="https://zh.wikipedia.org/wiki/北京环形铁路" title="wikilink">北京环形铁路测试</a>[33]</p></td>
@@ -645,7 +647,7 @@ Station.jpg|[成灌铁路使用CRH](../Page/成灌铁路.md "wikilink")6A-A停�
 </tr>
 <tr class="even">
 <td><p>7</p></td>
-<td><p>0402、0602、0605、0606、0608～0610</p></td>
+<td><p>0402、0404、0605、0606、0608～0610</p></td>
 <td><p>惠州客运北</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/莞惠城轨" title="wikilink">莞惠城轨</a></p></td>
 <td><p>车身为橙色色带</p></td>
@@ -839,6 +841,10 @@ CRH6仅在1、3、5、7号车厢设置卫生间，卫生间比其他系列的CRH
 ### 多用途空间的问题
 
 CRH6在车门靠两车厢接驳位的一侧设有3个折叠座椅，既可当临时座位使用，亦可作为轮椅人士的停泊位。在实际运营中，不少乘客会坐满这三个座位，令轮椅无法停泊，而CRH6的走道比其他CRH动车组的要狭窄一些，轮椅无处安放，令残疾人士甚为不便。
+
+### 超载警报问题
+
+CRH6采用了和中国铁路其余长途动车组相同的车轴设计和超载阈值警报系统。因而虽然其宣称适合大客流的市域、城际铁路，但在客流过大时会出现即使车内仍有空间，却因列车超员而无法行驶的情况。
 
 ## 參考資料
 

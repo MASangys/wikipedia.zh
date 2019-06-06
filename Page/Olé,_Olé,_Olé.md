@@ -4,7 +4,7 @@ Olé**”（，[中文有时会音译为](https://zh.wikipedia.org/wiki/中文 "
 
 ## 起源及使用
 
-“Olé”是一个源于[阿拉伯语](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")（有人认为其源于“”（Wa
+“Olé”是源于[阿拉伯语](https://zh.wikipedia.org/wiki/阿拉伯语 "wikilink")（有人认为其源于“”（Wa
 Allah），意为“誓以[真主](https://zh.wikipedia.org/wiki/真主 "wikilink")！”，不过仍有异议\[2\]\[3\]）的[西班牙语中的感叹词](../Page/西班牙语.md "wikilink")，意为鼓励或肯定，这个口号往往会在斗牛比赛中听到，不过现在也常见于体育比赛中\[4\]。
 
 在1958年巴西[博塔弗戈和阿根廷](https://zh.wikipedia.org/wiki/博塔弗戈足球竞赛会 "wikilink")[河床在墨西哥的一场比赛中](https://zh.wikipedia.org/wiki/河床竞技俱乐部 "wikilink")，这个口号首次出现在足球场中。当博塔弗戈的[加林查带球时](../Page/加林查.md "wikilink")，场中的球迷就会高喊“Olé”，就如同斗牛场一样\[5\]。

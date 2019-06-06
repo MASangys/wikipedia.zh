@@ -10,8 +10,8 @@ NoSQL一词最早出现于1998年，是Carlo Strozzi开发的一个轻量、开�
 Evans再次提出了NoSQL的概念，这时的NoSQL主要指非关系型、分布式、不提供[ACID的数据库设计模式](../Page/ACID.md "wikilink")。
 
 2009年在亚特兰大举行的"no:sql(east)"讨论会是一个里程碑，其口号是"select fun, profit from
-real_world where relational=false;"。因此，对NoSQL最普遍的解释是“非关聯型的”，强调Key-Value
-Stores和文档数据库的优点，而不是单纯的反对RDBMS。
+real_world where
+relational=false;"。因此，对NoSQL最普遍的解释是“非关聯型的”，强调[键-值存储和](https://zh.wikipedia.org/wiki/键-值存储 "wikilink")[面向文档数据库的优点](https://zh.wikipedia.org/wiki/面向文档数据库 "wikilink")，而不是单纯的反对RDBMS。
 
 基于2014年的收入，NoSQL市场领先企业是[MarkLogic](https://zh.wikipedia.org/wiki/MarkLogic "wikilink")，[MongoDB和](../Page/MongoDB.md "wikilink")[Datastax](https://zh.wikipedia.org/wiki/Datastax "wikilink")\[3\]。基于2015年的人气排名，最受欢迎的NoSQL数据库是[MongoDB](../Page/MongoDB.md "wikilink")，[Apache
 Cassandra和](https://zh.wikipedia.org/wiki/Apache_Cassandra "wikilink")[Redis](../Page/Redis.md "wikilink")\[4\]。
@@ -58,7 +58,7 @@ isolation）保證為基礎列儲存，無需額外的資料管理開銷，中�
 
 ### 鍵-值（key‐value）儲存
 
-#### 最終一致性的鍵-值儲存
+#### 最終一致性的[鍵-值儲存](https://zh.wikipedia.org/wiki/鍵-值儲存 "wikilink")
 
   - [Cassandra](../Page/Cassandra.md "wikilink")
 

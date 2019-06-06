@@ -8,7 +8,7 @@ I](../Page/HIStory:_Past,_Present_and_Future,_Book_I.md "wikilink")》。因内�
 在1996年至1997年的[HIStory World
 Tour](https://zh.wikipedia.org/wiki/HIStory_World_Tour "wikilink")（历史世界巡回演唱会）中，这首歌与同专辑的[Scream和](https://zh.wikipedia.org/wiki/Scream "wikilink")[In
 The
-Closet组合在了一起](https://zh.wikipedia.org/wiki/In_The_Closet "wikilink")。之后从2009年7月至2010年3月在[伦敦O2体育场的](https://zh.wikipedia.org/wiki/伦敦O2体育场 "wikilink")50场[This
+Closet组合在了一起](https://zh.wikipedia.org/wiki/In_The_Closet "wikilink")。之后从2009年7月至2010年3月在[伦敦O2体育场的](../Page/O2體育館.md "wikilink")50场[This
 Is
 It演唱会也计划演出](../Page/This_Is_It_\(迈克尔·杰克逊演唱会\).md "wikilink")，但最终杰克逊在[美国时间](https://zh.wikipedia.org/wiki/美国时间 "wikilink")2009年6月25日死亡，导致该演唱会取消。
 

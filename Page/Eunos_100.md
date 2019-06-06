@@ -30,9 +30,6 @@ green rear 20080301.jpg|馬自達323F車尾（歐規）
   - [Gazoo.com - 1990年
     ユーノス 100](https://web.archive.org/web/20090716153831/http://gazoo.com/Meishakan/meisha/shousai.asp?R_ID=8393)
 
-[en:Mazda Familia
-Astina](https://zh.wikipedia.org/wiki/en:Mazda_Familia_Astina "wikilink")
-
 [Category:1989年面世的汽車](https://zh.wikipedia.org/wiki/Category:1989年面世的汽車 "wikilink")
 [Category:馬自達車輛](https://zh.wikipedia.org/wiki/Category:馬自達車輛 "wikilink")
 [Category:次緊湊型車](https://zh.wikipedia.org/wiki/Category:次緊湊型車 "wikilink")

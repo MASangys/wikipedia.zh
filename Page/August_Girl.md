@@ -135,7 +135,7 @@ Girl》，其中，《不要愛我》是改編自其廣東歌，亦收錄歌曲�
   - [薛凱琪 \~ August
     Girl](http://www.like4various.com/music/2011/07/10/2011-07-08-%e8%96%9b%e5%87%b1%e7%90%aa-august-girl/)
   - [KKBOX 薛凱琪 (Fiona Sit) 【AUGUST
-    GIRL】專輯介紹](http://hk.kkbox.com/album/T.5yOTTHIKCboQE0F.Cz008l-index.html#album-description)
+    GIRL】專輯介紹](https://web.archive.org/web/20101229211230/http://hk.kkbox.com/album/T.5yOTTHIKCboQE0F.Cz008l-index.html#album-description)
 
 ## 參考文獻
 

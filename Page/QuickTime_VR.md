@@ -58,7 +58,8 @@ VR影片被称为场景。
   - [\[1\]历史的Quicktime
     VR，张贴：汉斯尼伯格](https://web.archive.org/web/20090924034151/http://lists.apple.com/archives/quicktime-vr/2005/Nov/msg00037.html)
   - [早期范例：亚洲社会的虚拟画廊](http://sites.asiasociety.org/arts/japan/)
-  - [FreePV开源与观众的QuickTime虚拟现实支持全景](http://fhttp://freepv.sourceforge.net/)
+  - \[<http://fhttp>://freepv.sourceforge.net/
+    FreePV开源与观众的QuickTime虚拟现实支持全景\]
   - [龙卷风 -虚拟现实对象轻松单列对象为Flash制作软件输出](http://www.workflow3d.com/)
 
 [Category:虚拟现实](https://zh.wikipedia.org/wiki/Category:虚拟现实 "wikilink")

@@ -18,7 +18,7 @@ yet自出道以來的5張單曲之首周銷量皆突破10萬大關，並且拿�
 <tr class="odd">
 <td><p><a href="../Page/大島優子.md" title="wikilink">大島優子</a><br />
 （）</p></td>
-<td></td>
+<td><p>（原<a href="../Page/AKB48.md" title="wikilink">AKB48</a>）</p></td>
 <td></td>
 <td><p>B型</p></td>
 <td><p><a href="../Page/栃木縣.md" title="wikilink">栃木縣</a><a href="https://zh.wikipedia.org/wiki/下都賀郡" title="wikilink">下都賀郡</a><a href="https://zh.wikipedia.org/wiki/壬生町" title="wikilink">壬生町</a></p></td>
@@ -26,7 +26,7 @@ yet自出道以來的5張單曲之首周銷量皆突破10萬大關，並且拿�
 <tr class="even">
 <td><p><a href="../Page/北原里英.md" title="wikilink">北原里英</a><br />
 （）</p></td>
-<td></td>
+<td><p>（原AKB48{{→}}<a href="../Page/NGT48.md" title="wikilink">NGT48</a>）</p></td>
 <td></td>
 <td><p>A型</p></td>
 <td><p><a href="../Page/愛知縣.md" title="wikilink">愛知縣</a><a href="../Page/一宮市.md" title="wikilink">一宮市</a></p></td>
@@ -34,7 +34,7 @@ yet自出道以來的5張單曲之首周銷量皆突破10萬大關，並且拿�
 <tr class="odd">
 <td><p><a href="../Page/指原莉乃.md" title="wikilink">指原莉乃</a><br />
 （）</p></td>
-<td><p><a href="../Page/HKT48.md" title="wikilink">HKT48</a></p></td>
+<td><p>（原AKB48{{→}}<a href="../Page/HKT48.md" title="wikilink">HKT48</a>）</p></td>
 <td></td>
 <td><p>O型</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/大分縣" title="wikilink">大分縣</a><a href="../Page/大分市.md" title="wikilink">大分市</a></p></td>
@@ -42,7 +42,7 @@ yet自出道以來的5張單曲之首周銷量皆突破10萬大關，並且拿�
 <tr class="even">
 <td><p><a href="../Page/橫山由依.md" title="wikilink">橫山由依</a><br />
 （）</p></td>
-<td><p><a href="../Page/AKB48.md" title="wikilink">AKB48</a></p></td>
+<td><p>AKB48</p></td>
 <td></td>
 <td><p>B型</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都府</a><a href="../Page/木津川市.md" title="wikilink">木津川市</a></p></td>
@@ -50,14 +50,13 @@ yet自出道以來的5張單曲之首周銷量皆突破10萬大關，並且拿�
 </tbody>
 </table>
 
-註：最初4人均為AKB48成員，目前指原莉乃已於2012年6月16日移籍至HKT48\[1\]，為HKT48 Team
-H成員並兼任劇場經理\[2\]，而大島優子於2014年6月9日正式從AKB48畢業\[3\]\[4\]。北原里英亦於2018年4月18日從NGT48畢業。\[5\]
+註：最初4人均為AKB48成員。目前大島優子\[1\]\[2\]、北原里英\[3\]、指原莉乃\[4\]3人已從[AKB48集團畢業](../Page/AKB48集團.md "wikilink")。
 
 ## 概要
 
 ### 組合理念
 
-「無論是唱歌還是跳舞『都還不成熟，』解釋爲『正因爲不成熟才會成長』並爲此拼命努力的4人\[6\]。」
+「無論是唱歌還是跳舞『都還不成熟，』解釋爲『正因爲不成熟才會成長』並爲此拼命努力的4人\[5\]。」
 
 ### 結成背景
 
@@ -68,7 +67,7 @@ H成員並兼任劇場經理\[2\]，而大島優子於2014年6月9日正式從AK
   - 「Not yet」結成之初並非一路平坦，當工作人員告知「Not
     yet」的組成計畫時，大島優子對此團抱著消極心態，因當時大島已和[梅田彩佳](../Page/梅田彩佳.md "wikilink")、[松原夏海](../Page/松原夏海.md "wikilink")、[野呂佳代自組了](../Page/野呂佳代.md "wikilink")「梅島夏代」舞蹈子團，自行編舞並張羅服裝等，亦已有秋元康量身製作的歌曲，雖未正式發行專輯，但在路線相似的情形下，大島表示「我一個人又要另外以全新的四個人組成子團出道，好像背叛了『梅島夏代』......。當時甚至自暴自棄不敢和『Not
     yet』預定成員北原、指原及橫山說話」。之後於「AKB48 重溫時間 最佳曲目100 2011」初次舞台表演後，大島先去找了「Not
-    yet」的北原、指原與橫山三人道歉，並表示今後會好好努力，亦會取得「梅島夏代」其他人的諒解，其他三人聽完後希望能和大島一起加油；而大島當面告知「梅島夏代」成員時，成員表示雖然很落寞，但對於新發展衷心祝福\[7\]\[8\]。
+    yet」的北原、指原與橫山三人道歉，並表示今後會好好努力，亦會取得「梅島夏代」其他人的諒解，其他三人聽完後希望能和大島一起加油；而大島當面告知「梅島夏代」成員時，成員表示雖然很落寞，但對於新發展衷心祝福\[6\]\[7\]。
 
 ## 經歷
 
@@ -79,10 +78,10 @@ H成員並兼任劇場經理\[2\]，而大島優子於2014年6月9日正式從AK
   - 1月21日，在「[AKB48 重溫時間 最佳曲目100
     2011](../Page/AKB48_重溫時間_最佳曲目100_2011.md "wikilink")」上，宣布組合誕生。
   - 3月16日，以單曲CD《[週末Not
-    yet](../Page/週末Not_yet.md "wikilink")》出道。另外，預訂同日在舉辦的針對單曲預約者的抽選活動受[東日本大震災影響而中止](../Page/東日本大震災.md "wikilink")\[9\]。
+    yet](../Page/週末Not_yet.md "wikilink")》出道。另外，預訂同日在舉辦的針對單曲預約者的抽選活動受[東日本大震災影響而中止](../Page/東日本大震災.md "wikilink")\[8\]。
   - 3月28日，第1張單曲《週末Not
-    yet》獲得[Oricon週榜第](../Page/Oricon.md "wikilink")1位，銷售額爲AKB48衍生組合首週單曲銷量中的最高記錄（16萬張）\[10\]。
-  - 5月14日，於[有明競技場舉行Not](../Page/有明競技場.md "wikilink") yet的首次活動「」\[11\]。
+    yet》獲得[Oricon週榜第](../Page/Oricon.md "wikilink")1位，銷售額爲AKB48衍生組合首週單曲銷量中的最高記錄（16萬張）\[9\]。
+  - 5月14日，於[有明競技場舉行Not](../Page/有明競技場.md "wikilink") yet的首次活動「」\[10\]。
   - 7月6日，第2張單曲《[破浪刨冰](../Page/破浪刨冰.md "wikilink")》發售。
   - 10月9日，組合首個固定節目《》開始播映，主持為[劇團一人](../Page/劇團一人.md "wikilink")。
   - 11月16日，第3張單曲《[愛說愛說愛說的男人](../Page/愛說愛說愛說的男人.md "wikilink")》發售，並在首周獲得17萬張的銷量，再次刷新自身所保持的AKB48衍生組合首週單曲銷量的最高記錄。
@@ -109,11 +108,11 @@ H成員並兼任劇場經理\[2\]，而大島優子於2014年6月9日正式從AK
 
 <!-- end list -->
 
-  - 4月23日，發行出道以來的第一張專輯《[already](https://zh.wikipedia.org/wiki/already "wikilink")》\[12\]，並且成功奪得Oricon專輯週榜冠軍。包含單曲在內，Not
-    yet目前共有5部作品得到首周冠軍，與過去女子團體衍生組合的冠軍數目紀錄持平，而之前的紀錄是同樣由秋元康擔任監督的[小貓俱樂部衍生組合](../Page/小貓俱樂部.md "wikilink")[指指點點組所保持](https://zh.wikipedia.org/wiki/指指點點組 "wikilink")，是繼1987年3月2日以來、相隔27年又2個月後，再次有衍生組合達成此項紀錄\[13\]。
+  - 4月23日，發行出道以來的第一張專輯《[already](https://zh.wikipedia.org/wiki/already "wikilink")》\[11\]，並且成功奪得Oricon專輯週榜冠軍。包含單曲在內，Not
+    yet目前共有5部作品得到首周冠軍，與過去女子團體衍生組合的冠軍數目紀錄持平，而之前的紀錄是同樣由秋元康擔任監督的[小貓俱樂部衍生組合](../Page/小貓俱樂部.md "wikilink")[指指點點組所保持](https://zh.wikipedia.org/wiki/指指點點組 "wikilink")，是繼1987年3月2日以來、相隔27年又2個月後，再次有衍生組合達成此項紀錄\[12\]。
   - 5月10日，於有明競技場舉行「Not yet 1st Album《already》發售紀念SPECIAL LIVE。」
   - 10月15日，發行「Not yet "already" 2014.5.10 1st
-    LIVE」演唱會影音作品，其中[藍光版本在首週拿下](https://zh.wikipedia.org/wiki/藍光 "wikilink")1.1萬的銷售佳績，創下由2008年7月藍光榜發布後，首次有偶像衍生團體拿下銷量冠軍的紀錄，也打破過去由[走廊奔跑隊所創下的藍光影音作品銷量紀錄](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")，而DVD版本銷量也拿下首週DVD榜第2名的佳績\[14\]。
+    LIVE」演唱會影音作品，其中[藍光版本在首週拿下](https://zh.wikipedia.org/wiki/藍光 "wikilink")1.1萬的銷售佳績，創下由2008年7月藍光榜發布後，首次有偶像衍生團體拿下銷量冠軍的紀錄，也打破過去由[走廊奔跑隊所創下的藍光影音作品銷量紀錄](https://zh.wikipedia.org/wiki/走廊奔跑隊 "wikilink")，而DVD版本銷量也拿下首週DVD榜第2名的佳績\[13\]。
 
 ## 音樂作品
 
@@ -471,13 +470,12 @@ TBS《》結尾曲<br />
 3.
 4.
 5.
-6.
-7.  《優子》大島優子個人寫真集.[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")
+6.  《優子》大島優子個人寫真集.[講談社](https://zh.wikipedia.org/wiki/講談社 "wikilink")
     發行日期：2011年6月17日
-8.  《[有吉AKB共和國](../Page/有吉AKB共和國.md "wikilink")》 播出日期：2011年10月27日
+7.  《[有吉AKB共和國](../Page/有吉AKB共和國.md "wikilink")》 播出日期：2011年10月27日
+8.
 9.
 10.
 11.
 12.
 13.
-14.

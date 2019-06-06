@@ -117,8 +117,8 @@ Retrieved 2011-01-20.
 <http://gear.ign.com/articles/825/825043p1.html>. Retrieved
 2009-11-07.
 19.^ "Nerf N-Strike Elite Review". IGN. 2009-11-03.
-<http://wii.ign.com/articles/104/1041646p1.html>. Retrieved
-2011-01-06.
+<https://web.archive.org/web/20120111072424/http://wii.ign.com/articles/104/1041646p1.html>.
+Retrieved 2011-01-06.
 20.^ Per-Lee, Myra. "The 11 Best Toys of 2011". InventorSpot.
 <http://inventorspot.com/articles/11_best_toys_2011_toy_industry_awards>.
 Retrieved 2011-02-15.

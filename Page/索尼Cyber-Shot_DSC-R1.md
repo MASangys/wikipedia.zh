@@ -11,7 +11,7 @@ DSC-R1**是一台高端数码相机，由[索尼于](../Page/索尼.md "wikilink
 R系列的唯一一款相机，并未有续作的计划；在DSC-R1发布的一年后（2006年），索尼接受了[柯尼卡美能达的影像实业部门](https://zh.wikipedia.org/wiki/柯尼卡美能达 "wikilink")，并且当年即发表了其单反领域的品牌——[Sony
 α](https://zh.wikipedia.org/wiki/Sony_α "wikilink")。
 
-**索尼R1**是[Cyber-Shot系列中唯一一款使用APS](https://zh.wikipedia.org/wiki/Cyber-Shot "wikilink")-C规格传感器的数码相机（纵观数码相机领域，使用该规格的产品也是不多的），由此向业界与消费者展现了自己数码相机开发方面的实力，而更为重要的是，索尼藉由R1的开发，在其上进行了技术的验证，积攒了小型数码相机以外的大幅面感光元件相机开发经验；2010年，索尼发表了新的无反光镜的E卡口系统，代表产品为[NEX
+**索尼R1**是[Cyber-Shot系列中唯一一款使用APS](https://zh.wikipedia.org/wiki/Cyber-Shot "wikilink")-C规格传感器的数码相机，由此向业界与消费者展现了自己数码相机开发方面的实力，而更为重要的是，索尼藉由R1的开发，在其上进行了技术的验证，积攒了小型数码相机以外的大幅面感光元件相机开发经验；2010年，索尼发表了新的无反光镜的E卡口系统，代表产品为[NEX
 5](https://zh.wikipedia.org/wiki/NEX_5 "wikilink")，[NEX
 3及](https://zh.wikipedia.org/wiki/NEX_3 "wikilink")[VG10](https://zh.wikipedia.org/wiki/VG10 "wikilink")。
 

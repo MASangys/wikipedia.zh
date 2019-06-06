@@ -55,9 +55,5 @@
 
   - [Linux库函数手册：字符串操作](http://linux.die.net/man/3/string)
 
-[en:C string
-handling](https://zh.wikipedia.org/wiki/en:C_string_handling "wikilink")
-[th:การจัดการสายอักขระในภาษาซี](https://zh.wikipedia.org/wiki/th:การจัดการสายอักขระในภาษาซี "wikilink")
-
 [Category:字符串](https://zh.wikipedia.org/wiki/Category:字符串 "wikilink")
 [Category:C标准库头文件](https://zh.wikipedia.org/wiki/Category:C标准库头文件 "wikilink")

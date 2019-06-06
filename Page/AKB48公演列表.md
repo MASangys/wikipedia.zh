@@ -720,6 +720,17 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>AKB48集團 重溫時間 最佳曲目100 2019</p></td>
+<td><p>去47個美麗城市</p></td>
+<td><p><a href="../Page/接吻真的只能慢慢來嗎？.md" title="wikilink">浪漫的疾病</a></p></td>
+<td><p><a href="../Page/感傷列車.md" title="wikilink">感傷列車</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

@@ -37,6 +37,10 @@ SG每年都会在新加坡的](../Page/Pink_Dot_SG.md "wikilink")[芳林公园�
 | 男同性戀者進行商業代孕                                       | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                        |
 | 允許[男男性行为者](../Page/男男性行为者.md "wikilink")（MSM）進行捐血 | [X_mark.svg](https://zh.wikipedia.org/wiki/File:X_mark.svg "fig:X_mark.svg")                                                                                                        |
 
+## 相关事件
+
+2019年5月24日，已故前总理[李光耀之孙](../Page/李光耀.md "wikilink")、[李显扬次子李桓武宣布他与一位职业为兽医的同性恋男友在同性婚姻合法化的](../Page/李显扬.md "wikilink")[南非开普敦注册结婚](../Page/南非同性婚姻.md "wikilink")。而他早在2017年7月就在“LGBT照片运动”中将自己和男友的照片公开。而李光耀生前接受访问时被问到“如果孙子是同性恋者，他有何感想”，李回答“那就是人生。他们生来就有那种基因，有什么办法？”，并表示还是爱他。\[5\]
+
 ## 参见
 
   - [亚洲LGBT权益](../Page/亚洲LGBT权益.md "wikilink")
@@ -61,3 +65,4 @@ SG每年都会在新加坡的](../Page/Pink_Dot_SG.md "wikilink")[芳林公园�
     The Straits Times, 19 September 2016.
 4.  \[<http://statutes.agc.gov.sg/aol/search/display/view.w3p;ident=e84195b9-a923-4c69-86de-36b316699b17;page=0;query=DocId%3A%22f0897dd7-1f3a-45a9-b1e7-ba30fef2dbba%22%20Status%3Ainforce%20Depth%3A0;rec=0#pr9-he->.
     《妇女宪章》第9条\]
+5.

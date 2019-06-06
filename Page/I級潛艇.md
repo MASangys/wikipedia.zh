@@ -15,5 +15,5 @@ I型潛艇由[不來梅的](https://zh.wikipedia.org/wiki/不來梅 "wikilink")[
     II*, Osprey Publishing Limited, 2005.
 
 [Category:德國潛艦](https://zh.wikipedia.org/wiki/Category:德國潛艦 "wikilink")
-[Category:傳統動力潛艦](https://zh.wikipedia.org/wiki/Category:傳統動力潛艦 "wikilink")
+[Category:柴電潛艇](https://zh.wikipedia.org/wiki/Category:柴電潛艇 "wikilink")
 [Category:潛艇級別](https://zh.wikipedia.org/wiki/Category:潛艇級別 "wikilink")

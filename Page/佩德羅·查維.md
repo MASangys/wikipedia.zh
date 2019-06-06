@@ -1,0 +1,32 @@
+**查維P.C**（**Pedro
+Chavez**，），[委內瑞拉](../Page/委內瑞拉.md "wikilink")[棒球](../Page/棒球.md "wikilink")[選手](https://zh.wikipedia.org/wiki/選手 "wikilink")，曾效力於[兄弟象](https://zh.wikipedia.org/wiki/兄弟象 "wikilink")，守備位置為[游擊手](https://zh.wikipedia.org/wiki/游擊手 "wikilink")，因為守備方面有非常優異的表現，因此有「蜘蛛人」的稱號，但[職棒3年球季開打後僅一個月](https://zh.wikipedia.org/wiki/中華職棒3年 "wikilink")，查維便在一次守備中遭到[三商虎隊](https://zh.wikipedia.org/wiki/三商虎 "wikilink")[鄭幸生踢斷左手手臂](../Page/鄭幸生.md "wikilink")，無法繼續出賽的查維只好黯然離開球隊。
+
+## 經歷
+
+  - 委內瑞拉聯盟Leones del Caracas（1980年10月～1984年12月）
+  - [美國職棒](../Page/美國職業棒球大聯盟.md "wikilink")[底特律老虎隊](../Page/底特律老虎.md "wikilink")（小聯盟，1981年～1988年）
+  - 美國職棒[巴爾的摩金鶯隊](../Page/巴尔的摩金莺.md "wikilink")（小聯盟，1983年）
+  - 委內瑞拉聯盟Navegantes del Magallanes（1985年10月～1990年1月）
+  - 委內瑞拉聯盟Leones del Caracas（1990年10月～1991年1月）
+  - [中華職棒](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")[兄弟象隊](https://zh.wikipedia.org/wiki/兄弟象 "wikilink")（1991年2月15日～1992年4月30日）
+  - 委內瑞拉聯盟Caribes de Anzoategui（1992年10月～1994年12月）
+
+## 職棒生涯成績
+
+| 年度    | 球隊                                                  | 出賽 | 打數  | 安打 | 二壘打 | 三壘打 | 全壘打 | 打點 | 盜壘 | 四死 | 三振 | 打擊率   |
+| ----- | --------------------------------------------------- | -- | --- | -- | --- | --- | --- | -- | -- | -- | -- | ----- |
+| 1991年 | [兄弟象](https://zh.wikipedia.org/wiki/兄弟象 "wikilink") | 47 | 162 | 50 | 12  | 2   | 2   | 20 | 3  | 11 | 13 | 0.309 |
+| 1992年 | [兄弟象](https://zh.wikipedia.org/wiki/兄弟象 "wikilink") | 9  | 32  | 15 | 2   | 0   | 0   | 5  | 2  | 2  | 3  | 0.469 |
+| 合計    | 2年                                                  | 56 | 194 | 65 | 14  | 2   | 2   | 25 | 5  | 13 | 16 | 0.335 |
+
+## 特殊事蹟
+
+  - [中華職棒第一位](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")[委內瑞拉籍球員](../Page/委內瑞拉.md "wikilink")。
+  - 1991年9月15日，對[統一獅擊出](../Page/統一獅.md "wikilink")[委內瑞拉籍球員在](../Page/委內瑞拉.md "wikilink")[中華職棒的第一支全壘打](https://zh.wikipedia.org/wiki/中華職業棒球大聯盟 "wikilink")。
+  - 1992年4月14日遭到[三商虎隊](https://zh.wikipedia.org/wiki/三商虎 "wikilink")[鄭幸生踢斷左手手臂](../Page/鄭幸生.md "wikilink")，骨折離開球場。
+
+## 外部連結
+
+[Category:中華職棒外籍球員](https://zh.wikipedia.org/wiki/Category:中華職棒外籍球員 "wikilink")
+[Category:委內瑞拉棒球選手](https://zh.wikipedia.org/wiki/Category:委內瑞拉棒球選手 "wikilink")
+[Category:兄弟象隊球員](https://zh.wikipedia.org/wiki/Category:兄弟象隊球員 "wikilink")

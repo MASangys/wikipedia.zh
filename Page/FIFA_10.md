@@ -2,12 +2,12 @@
 Canada小組負責開發](https://zh.wikipedia.org/wiki/EA_Canada "wikilink")。這是2009年10月2日公佈在歐洲，9月30日在澳洲和20日在北美發行。它可用於遊戲機在[PlayStation
 3](../Page/PlayStation_3.md "wikilink")、[Xbox
 360](../Page/Xbox_360.md "wikilink")、[PlayStation
-2](../Page/PlayStation_2.md "wikilink")、[Wii和](../Page/Wii.md "wikilink")[PC的](../Page/PC.md "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。手提版本的遊戲還支持了[IOS](../Page/IOS.md "wikilink")、[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")、[PlayStation
+2](../Page/PlayStation_2.md "wikilink")、[Wii和](../Page/Wii.md "wikilink")[PC的](../Page/个人电脑.md "wikilink")[Windows](https://zh.wikipedia.org/wiki/Windows "wikilink")。手提版本的遊戲還支持了[IOS](../Page/IOS.md "wikilink")、[NDS](https://zh.wikipedia.org/wiki/NDS "wikilink")、[PlayStation
 Portable和](../Page/PlayStation_Portable.md "wikilink")[Mobile
 phone](https://zh.wikipedia.org/wiki/Mobile_phone "wikilink")。
 
 試玩版的FIFA 10出現在Xbox 360、PlayStation
-3和PC版本9月10日在歐洲推出，9月11日在澳洲推出，並於9月17日在北美推出。可試玩[切尔西](https://zh.wikipedia.org/wiki/切尔西 "wikilink")，[巴塞羅那](https://zh.wikipedia.org/wiki/巴塞羅那 "wikilink")，[祖雲達斯](https://zh.wikipedia.org/wiki/祖雲達斯 "wikilink")，[拜仁慕尼黑](https://zh.wikipedia.org/wiki/拜仁慕尼黑 "wikilink")，[馬賽和](https://zh.wikipedia.org/wiki/馬賽 "wikilink")[芝加哥火焰六隊球隊](https://zh.wikipedia.org/wiki/芝加哥火焰 "wikilink")。該場館採用了[溫布萊球場的演示](https://zh.wikipedia.org/wiki/溫布萊球場 "wikilink")（Xbox
+3和PC版本9月10日在歐洲推出，9月11日在澳洲推出，並於9月17日在北美推出。可試玩[切尔西](https://zh.wikipedia.org/wiki/切尔西足球俱乐部 "wikilink")，[巴塞羅那](https://zh.wikipedia.org/wiki/巴塞羅那 "wikilink")，[祖雲達斯](https://zh.wikipedia.org/wiki/祖雲達斯 "wikilink")，[拜仁慕尼黑](https://zh.wikipedia.org/wiki/拜仁慕尼黑 "wikilink")，[馬賽和](https://zh.wikipedia.org/wiki/馬賽 "wikilink")[芝加哥火焰六隊球隊](https://zh.wikipedia.org/wiki/芝加哥火焰 "wikilink")。該場館採用了[溫布萊球場的演示](https://zh.wikipedia.org/wiki/溫布萊球場 "wikilink")（Xbox
 360版本），FIWC體育場（PlayStation
 3的版本）。該演示提供友誼賽的一半長度的3實時分鐘。除了打一場友誼賽，演示允許用戶上傳創建遊戲中的視頻和畫面和EA足球世界。遊戲的標語是“How
 big can football get？”和“Let's -{FIFA 10}-”。
@@ -49,7 +49,7 @@ big can football get？”和“Let's -{FIFA 10}-”。
 
 ## 球場
 
-2009年8月27日，該名單的球場和天氣條件的每一個分別公佈了。遊戲特色50個足球場館，包括大部分的大型球場由歐洲最著名的聯賽，如[安聯球場](https://zh.wikipedia.org/wiki/安聯球場 "wikilink")、[諾坎普球場](https://zh.wikipedia.org/wiki/諾坎普球場 "wikilink")、[酋長球場](https://zh.wikipedia.org/wiki/酋長球場 "wikilink")、[安菲爾德球場](https://zh.wikipedia.org/wiki/安菲爾德球場 "wikilink")、[奧脫福球場](https://zh.wikipedia.org/wiki/奧脫福球場 "wikilink")、[史丹福橋球場和](../Page/史丹福橋球場.md "wikilink")[聖西路球場](../Page/聖西路球場.md "wikilink")，並作為以及一系列通用場館和實踐領域。[皇家馬德里的伯納烏了可以免費下載推出的日子](https://zh.wikipedia.org/wiki/皇家馬德里 "wikilink")。天氣條件可能在每個場館範圍從白天和黑夜的版本明確多雲，雨，或雪。
+2009年8月27日，該名單的球場和天氣條件的每一個分別公佈了。遊戲特色50個足球場館，包括大部分的大型球場由歐洲最著名的聯賽，如[安聯球場](https://zh.wikipedia.org/wiki/安联球场_\(慕尼黑\) "wikilink")、[諾坎普球場](https://zh.wikipedia.org/wiki/諾坎普球場 "wikilink")、[酋長球場](https://zh.wikipedia.org/wiki/酋長球場 "wikilink")、[安菲爾德球場](https://zh.wikipedia.org/wiki/安菲爾德球場 "wikilink")、[奧脫福球場](https://zh.wikipedia.org/wiki/奧脫福球場 "wikilink")、[史丹福橋球場和](../Page/史丹福橋球場.md "wikilink")[聖西路球場](../Page/聖西路球場.md "wikilink")，並作為以及一系列通用場館和實踐領域。[皇家馬德里的伯納烏了可以免費下載推出的日子](https://zh.wikipedia.org/wiki/皇家馬德里 "wikilink")。天氣條件可能在每個場館範圍從白天和黑夜的版本明確多雲，雨，或雪。
 
 該球場場館的通用名稱可以改變，但是在一個特殊的主菜單條的規定，以反映用戶的名稱俱樂部的大本營，如果用戶選擇這樣做。每個地面的能力也是上市公司，這樣一個能力類似球會的實際球場容量可供選擇，使遊戲體驗更加真實。
 

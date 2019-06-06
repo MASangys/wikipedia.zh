@@ -122,9 +122,6 @@ Records、gr8\!records、MASTERSIX FOUNDATION、N46Div.、K46Div等5個唱片品
   - [会社案内](https://web.archive.org/web/20101018014708/http://www.sme.co.jp/sme/corporate/smr.html)
   - [Sony Music Online Japan](http://www.sonymusic.co.jp/)
 
-[en:Sony Music
-Records](https://zh.wikipedia.org/wiki/en:Sony_Music_Records "wikilink")
-
 [Category:日本索尼音樂娛樂](https://zh.wikipedia.org/wiki/Category:日本索尼音樂娛樂 "wikilink")
 [Category:日本媒體公司](https://zh.wikipedia.org/wiki/Category:日本媒體公司 "wikilink")
 [Category:千代田區公司](https://zh.wikipedia.org/wiki/Category:千代田區公司 "wikilink")

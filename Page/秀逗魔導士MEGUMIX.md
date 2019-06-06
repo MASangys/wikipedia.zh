@@ -85,7 +85,7 @@ Records發售](https://zh.wikipedia.org/wiki/King_Records "wikilink")。（KICA9
 2.  **[KUJIKENAIKARA\!](../Page/Get_along.md "wikilink")** \[4:31\]
       - 歌：林原めぐみ・奥井雅美
       - 作詞：有森聰美、作曲：奥井雅美、編曲：[矢吹俊郎](../Page/矢吹俊郎.md "wikilink")
-      - 『[秀逗魔導士（無印）](../Page/秀逗魔導士_\(動畫\).md "wikilink")』
+      - 『[秀逗魔導士（無印）](../Page/秀逗魔導士_\(動畫\).md "wikilink")』片尾曲
 3.  **眠れない夜は…** \[4:56\]
       - 歌：林原めぐみ・奥井雅美
       - 作詞：有森聰美、作曲：佐藤英敏、編曲：大平勉

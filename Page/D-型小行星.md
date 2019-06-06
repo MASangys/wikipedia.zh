@@ -9,7 +9,7 @@
 [尼斯模型認為D](../Page/尼斯模型.md "wikilink")-型小行星是被捕獲的[古柏帶天體](https://zh.wikipedia.org/wiki/古柏帶 "wikilink")\[1\]。
 
 在1992年，Larry A.
-Lebofsky和同事發表一篇文章，他們發現主帶的D-型小行星[Irmintraud的光譜在](https://zh.wikipedia.org/wiki/小行星773 "wikilink")3[微米的特徵](../Page/微米.md "wikilink")\[2\]。此一特徵被認為是表面有水存在的暗示，並表明D-型小行星更有可能是經過改變的狀態，而不是不變的，原始的或原始的狀態\[3\]。
+Lebofsky和同事發表一篇文章，他們發現主帶的D-型小行星[Irmintraud的光譜在](../Page/小行星773.md "wikilink")3[微米的特徵](../Page/微米.md "wikilink")\[2\]。此一特徵被認為是表面有水存在的暗示，並表明D-型小行星更有可能是經過改變的狀態，而不是不變的，原始的或原始的狀態\[3\]。
 
 ## 相關條目
 

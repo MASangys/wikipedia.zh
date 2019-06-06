@@ -9,7 +9,7 @@ Up》。
 
 ### 《半張飛》
 
-這是[Jerald在](https://zh.wikipedia.org/wiki/Jerald "wikilink")[Snowman時期後第一首個人寫的歌](https://zh.wikipedia.org/wiki/Swing "wikilink")，由[Eric編曲及監製](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")，講述一對情侶分手後，其中一人只能憑半張飛自己去看電影，孤身隻影的落魄生活。
+這是[Jerald在](https://zh.wikipedia.org/wiki/Jerald "wikilink")[Snowman時期後第一首個人寫的歌](https://zh.wikipedia.org/wiki/Swing "wikilink")，由[Eric編曲及監製](https://zh.wikipedia.org/wiki/Eric_Kwok "wikilink")，講述一對情侶分手後，男主角再次路過常與前度看戲的戲院。不服氣的男主只能自己獨自一人去看電影，卻意想不到地投入於電影世界中，發現生命中還有很多的美好。雖然歌曲好像是講一個失戀男子的心情，不過男主在看完電影後的心情是自由的，對於失去一段感情的眷戀也頓時放下，最後豁然開朗。有別於主流死去活來的流行情歌。類似的曲風在同一張專輯還有"煙花"這首歌。
 
 ## 曲目
 

@@ -1,6 +1,6 @@
 **ND1型柴油机车**是[中国铁路使用的](../Page/中華人民共和國鐵路運輸.md "wikilink")[柴油机车车型之一](https://zh.wikipedia.org/wiki/柴油机车 "wikilink")，也是中国铁路[牵引动力内燃化的起点](../Page/中国柴油机车列表.md "wikilink")。该型机车于1958年至1959年从[匈牙利进口](../Page/匈牙利.md "wikilink")，由[冈茨车辆厂](../Page/冈茨公司.md "wikilink")（Ganz）和[马瓦格机车厂](../Page/马瓦格机车厂.md "wikilink")（MÁVAG）制造，是一款[Bo-Bo](https://zh.wikipedia.org/wiki/Bo-Bo "wikilink")[轴式的](../Page/机车轴式.md "wikilink")600马力电力传动柴油机车，主要用于[调车以及小运转作业](../Page/调车机车.md "wikilink")，机车装用一台[XVI
 Jv
-170/240型](../Page/冈茨-詹德拉西克柴油机.md "wikilink")[四冲程](https://zh.wikipedia.org/wiki/四冲程循环 "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油機 "wikilink")\[1\]。
+170/240型](../Page/冈茨-詹德拉西克柴油机.md "wikilink")[四冲程](../Page/四冲程循环.md "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油機 "wikilink")\[1\]。
 
 ## 运用历史
 
@@ -14,7 +14,7 @@ Jv
 
 ## 技术特点
 
-ND1型柴油机车是直流电力传动的四轴柴油机车，既可以用于[编组站的调车作业](../Page/編組站.md "wikilink")，也可以担当干线小运转牵引任务。机车采用单司机室、外走廊式布置的全钢[电焊结构罩式车体](../Page/焊接.md "wikilink")，车体从前端至后端分为冷却室、机械室和司机室三个部分。动力室内安装了一套柴油发电机组，柴油机[曲轴自由端与牵引发电机相连](https://zh.wikipedia.org/wiki/曲轴 "wikilink")，曲轴的[飞轮端经](../Page/飛輪.md "wikilink")[万向轴和](../Page/万向接头.md "wikilink")[齿轮箱与辅助发电机和励磁机相连](../Page/齿轮.md "wikilink")。冷却室内装有冷却系统以及[空气压缩机等辅助设备](https://zh.wikipedia.org/wiki/压缩机 "wikilink")，冷却系统由[散热器组和](../Page/散热器.md "wikilink")[冷却风扇组成](../Page/风扇.md "wikilink")，薄片状散热器安装在冷却室两侧的通风[百叶窗内](https://zh.wikipedia.org/wiki/百葉窗 "wikilink")。主车架下方有两台可互换使用的[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")，之间悬挂着一个可载1000公斤[柴油的燃油箱](../Page/柴油.md "wikilink")。机车装用一台[四冲程](https://zh.wikipedia.org/wiki/四冲程循环 "wikilink")、[V型结构](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")、[16气缸](https://zh.wikipedia.org/wiki/V16发动机 "wikilink")、无增压、预燃室式、[顶置凸轮轴的](../Page/顶置凸轮轴.md "wikilink")[XVI
+ND1型柴油机车是直流电力传动的四轴柴油机车，既可以用于[编组站的调车作业](../Page/編組站.md "wikilink")，也可以担当干线小运转牵引任务。机车采用单司机室、外走廊式布置的全钢[电焊结构罩式车体](../Page/焊接.md "wikilink")，车体从前端至后端分为冷却室、机械室和司机室三个部分。动力室内安装了一套柴油发电机组，柴油机[曲轴自由端与牵引发电机相连](https://zh.wikipedia.org/wiki/曲轴 "wikilink")，曲轴的[飞轮端经](../Page/飛輪.md "wikilink")[万向轴和](../Page/万向接头.md "wikilink")[齿轮箱与辅助发电机和励磁机相连](../Page/齿轮.md "wikilink")。冷却室内装有冷却系统以及[空气压缩机等辅助设备](https://zh.wikipedia.org/wiki/压缩机 "wikilink")，冷却系统由[散热器组和](../Page/散热器.md "wikilink")[冷却风扇组成](../Page/风扇.md "wikilink")，薄片状散热器安装在冷却室两侧的通风[百叶窗内](https://zh.wikipedia.org/wiki/百葉窗 "wikilink")。主车架下方有两台可互换使用的[转向架](https://zh.wikipedia.org/wiki/转向架 "wikilink")，之间悬挂着一个可载1000公斤[柴油的燃油箱](../Page/柴油.md "wikilink")。机车装用一台[四冲程](../Page/四冲程循环.md "wikilink")、[V型结构](https://zh.wikipedia.org/wiki/V型引擎 "wikilink")、[16气缸](https://zh.wikipedia.org/wiki/V16发动机 "wikilink")、无增压、预燃室式、[顶置凸轮轴的](../Page/顶置凸轮轴.md "wikilink")[XVI
 Jv
 170/240型](../Page/冈茨-詹德拉西克柴油机.md "wikilink")[柴油机](https://zh.wikipedia.org/wiki/柴油機 "wikilink")，气缸内径为170毫米，活塞行程为240毫米，装车功率为600马力（442千瓦），标定转速为每分钟1100转，单位燃油消耗率为175克/有效马力·小时\[7\]。
 

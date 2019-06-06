@@ -28,7 +28,7 @@ Val型可拆卸式底部折疊式[槍托](../Page/槍托.md "wikilink")（折疊
 ## 設計細節
 
 由於SR-3是由[AS
-Val改進而成](../Page/AS_Val微聲自動步槍.md "wikilink")，因此自動原理和擊發結構都一樣。SR-3採用了[氣動式操作原理](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")，位於槍管上方的長行程氣動活塞與槍機機框以剛性連接，[滾轉式槍機機頭具有六個鎖耳](../Page/滾轉式槍機.md "wikilink")（）。其[機匣採用鍛壓](https://zh.wikipedia.org/wiki/機匣 "wikilink")[钢加工](../Page/钢.md "wikilink")，以提高強度和耐用性。
+Val改進而成](../Page/AS_Val微聲自動步槍.md "wikilink")，因此自動原理和擊發結構都一樣。SR-3採用了[氣動式操作原理](https://zh.wikipedia.org/wiki/氣動式_\(槍械\)#長行程活塞傳動 "wikilink")，位於槍管上方的長行程氣動活塞與槍機機框以剛性連接，[轉拴式槍栓機頭具有六個鎖耳](../Page/轉拴式槍栓.md "wikilink")（）。其[機匣採用鍛壓](https://zh.wikipedia.org/wiki/機匣 "wikilink")[钢加工](../Page/钢.md "wikilink")，以提高強度和耐用性。
 
 SR-3在耐衝擊的[聚合物](../Page/聚合物.md "wikilink")[护木前上方設有一對左右對稱的滑塊狀](https://zh.wikipedia.org/wiki/护木 "wikilink")，讓握護木的手的拇指和食指抓住拉機柄兩側並向後拉動至後方就能拉動槍機，然後鬆開拉機柄即可以完成推彈上膛的動作。拉機柄在發射時不會跟隨著槍機一起運動。在槍機機框右側具有一個水滴形狀的凹坑，內部具有鋸齒型防滑紋。如果發生閉鎖不完全或是需要手動閉膛時，使用者可以把用手指藉由水滴狀凹坑強行推槍機向前以完成閉鎖。
 

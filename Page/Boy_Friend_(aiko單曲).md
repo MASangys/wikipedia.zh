@@ -23,7 +23,7 @@ Friend**》（），[日本女性](../Page/日本.md "wikilink")[創作歌手](.
 
 ## 外部連結
 
-  - [唱片介紹](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200000001141&DSP_SKHKETSEQ=001)
+  - [唱片介紹](https://web.archive.org/web/20110908013110/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=200000001141&DSP_SKHKETSEQ=001)
 
 [Category:Aiko歌曲](https://zh.wikipedia.org/wiki/Category:Aiko歌曲 "wikilink")
 [Category:2000年單曲](https://zh.wikipedia.org/wiki/Category:2000年單曲 "wikilink")

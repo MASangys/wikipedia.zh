@@ -45,7 +45,7 @@ COMET製作進行部的](../Page/STUDIO_COMET.md "wikilink")[關山晃弘加入]
   - [沒有心跳的少女 BEATLESS](../Page/沒有心跳的少女_BEATLESS.md "wikilink")（）（2018年）
   - [千緒的通學路](../Page/千緒的通學路.md "wikilink")（）（2018年）
   - [家有女友](../Page/家有女友.md "wikilink")（）（2019年）
-  - [籃球少年王](../Page/籃球少年王.md "wikilink")（）（未定）
+  - [籃球少年王](../Page/籃球少年王.md "wikilink")（）（2019年）
 
 #### 動畫電影
 

@@ -14,7 +14,7 @@ ProLiant以ML、DL、BL、SL四種型號作為不同產品規格的分類，其�
 
 於2014年，HP發布第9代ProLiant伺服器，最大的特色之一是開始採用UEFI BIOS。
 
-隨後，惠普被分拆為[惠普](../Page/惠普.md "wikilink")（HP）和[慧與科技](https://zh.wikipedia.org/wiki/慧與科技 "wikilink")（HPE）2家公司，ProLiant業務由HPE負責，名稱改名為「HPE
+隨後，惠普被分拆為[惠普](../Page/惠普.md "wikilink")（HP）和[慧與科技](../Page/慧與科技.md "wikilink")（HPE）2家公司，ProLiant業務由HPE負責，名稱改名為「HPE
 ProLiant」。
 
 2017年，HPE發布第10代ProLiant伺服器。

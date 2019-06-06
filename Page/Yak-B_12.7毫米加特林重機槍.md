@@ -8,8 +8,8 @@ Borsow所設計](https://zh.wikipedia.org/wiki/B.A._Borsow "wikilink")、[KBP儀
 Yak-B
 12.7是為了安裝在[Mi-24“雌鹿”](../Page/Mi-24雌鹿直升機.md "wikilink")[攻击直升机的機鼻前端和低搭載量的軍用](../Page/攻击直升机.md "wikilink")[運輸機使用](../Page/運輸機.md "wikilink")（備彈量為1,470發）；這也可以安裝在[GUV-8700](https://zh.wikipedia.org/wiki/GUV-8700 "wikilink")（備彈量為750發，連2具[7.62×54毫米俄羅斯](https://zh.wikipedia.org/wiki/7.62×54R子彈 "wikilink")[口徑的](https://zh.wikipedia.org/wiki/口徑 "wikilink")[GShG-7.62](../Page/GShG-7.62加特林機槍.md "wikilink")[加特林機槍或是](https://zh.wikipedia.org/wiki/加特林機槍 "wikilink")1具[30×29毫米無彈殼榴彈的](https://zh.wikipedia.org/wiki/30×29mm "wikilink")[AGS-17“烈火”](../Page/AGS-17烈火自動榴彈發射器.md "wikilink")[自動榴彈發射器](https://zh.wikipedia.org/wiki/榴彈發射器 "wikilink")）。
 
-Yak-B 12.7是一挺4
-[槍管的高轉速](../Page/槍管.md "wikilink")[加特林式](../Page/加特林机枪.md "wikilink")[机枪](../Page/机枪.md "wikilink")，採用[氣動式自動方式](../Page/氣動式_\(槍械\).md "wikilink")，[滾轉式槍機閉鎖方式](../Page/滾轉式槍機.md "wikilink")。[彈鏈供彈](../Page/彈鏈.md "wikilink")，火藥彈首發起動。理論[射速為](https://zh.wikipedia.org/wiki/射速 "wikilink")4,000—5,000發／分鐘。
+Yak-B
+12.7是一挺4[槍管的高轉速](../Page/槍管.md "wikilink")[加特林式](../Page/加特林机枪.md "wikilink")[机枪](../Page/机枪.md "wikilink")，採用[氣動式自動方式](../Page/氣動式_\(槍械\).md "wikilink")，[轉拴式槍栓閉鎖方式](../Page/轉拴式槍栓.md "wikilink")。[彈鏈供彈](../Page/彈鏈.md "wikilink")，火藥彈首發起動。理論[射速為](https://zh.wikipedia.org/wiki/射速 "wikilink")4,000—5,000發／分鐘。
 
 ### 首發起動裝置
 

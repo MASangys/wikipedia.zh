@@ -610,7 +610,7 @@ Code](https://zh.wikipedia.org/wiki/Friend_Code "wikilink")」（好友代碼）
 
 1.  [瑪利歐款](https://zh.wikipedia.org/wiki/瑪利歐 "wikilink")
 2.  [碧琪公主款](https://zh.wikipedia.org/wiki/碧琪公主 "wikilink")
-3.  [奇諾比奧款](https://zh.wikipedia.org/wiki/奇諾比奧 "wikilink")
+3.  [奇諾比奧款](../Page/奇諾比奧.md "wikilink")
 
 <!-- end list -->
 
@@ -1028,7 +1028,8 @@ Association）則指出遊玩適量的3D遊戲並不會造成兒童視力的損�
 43. [ニンテンドー3DSの国内累計販売台数が400万台を突破](http://www.famitsu.com/news/201112/26007752.html)ファミ通
 
 44. [Nintendo enhances expected loss; 15 million 3DS units sold since
-    launch](http://www.joystiq.com/2012/01/26/nintendo-enhances-expected-loss-15-million-3ds-units-sold-since/)Joystiq
+    launch](http://www.joystiq.com/2012/01/26/nintendo-enhances-expected-loss-15-million-3ds-units-sold-since/)
+    Joystiq
 
 45. [ゲーム機で月間最多販売に　任天堂の「３ＤＳ」　昨年１２月１４９万台](http://sankei.jp.msn.com/economy/news/120106/biz12010619580027-n1.htm)
     MSN産経ニュース
@@ -1168,7 +1169,8 @@ Association）則指出遊玩適量的3D遊戲並不會造成兒童視力的損�
 96. [ニンテンドー3DS LL](http://www.nintendo.co.jp/3ds/hardware/3dsLL/#page3)
 
 97. [3DS XL comes to Europe on
-    July 28](http://www.joystiq.com/2012/06/22/3ds-xl-comes-to-europe-july-28/)joystip
+    July 28](http://www.joystiq.com/2012/06/22/3ds-xl-comes-to-europe-july-28/)
+    joystip
 
 98. [ニンテンドー3DS
     LLの新色「ブラック」本日（11月1日）発売です。](http://www.nintendo.co.jp/3ds/hardware/color/img/3dsll_black_big.jpg)

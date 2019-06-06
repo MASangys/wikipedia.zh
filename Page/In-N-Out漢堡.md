@@ -1,6 +1,6 @@
 [AnimalFries.JPG](https://zh.wikipedia.org/wiki/File:AnimalFries.JPG "fig:AnimalFries.JPG")
 [In-N-Out_Burger_20-patty_cheeseburger.jpg](https://zh.wikipedia.org/wiki/File:In-N-Out_Burger_20-patty_cheeseburger.jpg "fig:In-N-Out_Burger_20-patty_cheeseburger.jpg")
-**In-N-Out漢堡**是[美國西海岸一家地方性的](https://zh.wikipedia.org/wiki/美國西海岸 "wikilink")[連鎖](https://zh.wikipedia.org/wiki/連鎖 "wikilink")[快餐店](../Page/快餐店.md "wikilink")，於1948年由Harry與Esther
+**In-N-Out漢堡**（**出入汉堡**）是[美國西海岸一家地方性的](https://zh.wikipedia.org/wiki/美國西海岸 "wikilink")[連鎖](https://zh.wikipedia.org/wiki/連鎖 "wikilink")[快餐店](../Page/快餐店.md "wikilink")，於1948年由Harry與Esther
 Snyder夫婦在[加州Baldwin](https://zh.wikipedia.org/wiki/加州 "wikilink")
 Park市首次創建。現在的In-N-Out總部位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")[爾灣市](https://zh.wikipedia.org/wiki/爾灣 "wikilink")，而連鎖店則分布到了[加州](https://zh.wikipedia.org/wiki/加州 "wikilink")、[亞利桑那州](../Page/亞利桑那州.md "wikilink")、[內華達州](https://zh.wikipedia.org/wiki/內華達州 "wikilink")、[猶他州](https://zh.wikipedia.org/wiki/猶他州 "wikilink")、[奧勒岡州與](https://zh.wikipedia.org/wiki/奧勒岡州 "wikilink")[德州](https://zh.wikipedia.org/wiki/德州 "wikilink")。至2011年3月止，這家連鎖餐廳已有258家分店。一些媒體對In-N-Out與其他快餐店不同的員工政策已經作出報導，例如其他快餐店通常會支付其員工接近[最低工資的薪水](../Page/最低工資.md "wikilink")，而In-N-Out的加州分店於2008年左右支付的每小時10[美元大大超出加州的最低工資](../Page/美元.md "wikilink")\[1\]。
 

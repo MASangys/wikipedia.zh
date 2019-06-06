@@ -1,4 +1,4 @@
-**Boom**（，本名：**李民浩**（），）是[韓國著名電視節目](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")、男[歌手](../Page/歌手.md "wikilink")、電台[DJ和](https://zh.wikipedia.org/wiki/DJ "wikilink")[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")，曾出演多部著名綜藝節目及喜劇節目。
+**Boom**（，本名：**李民浩**（），）是[韓國著名電視節目](https://zh.wikipedia.org/wiki/大韓民國 "wikilink")[主持人](https://zh.wikipedia.org/wiki/主持人 "wikilink")、男[歌手](../Page/歌手.md "wikilink")、電台[DJ和](https://zh.wikipedia.org/wiki/DJ "wikilink")[演員](../Page/演員.md "wikilink")，曾出演多部著名綜藝節目及喜劇節目。
 
 ## 職業生涯
 

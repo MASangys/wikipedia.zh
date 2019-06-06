@@ -42,7 +42,7 @@
   - V，[萬代蘭屬](../Page/萬代蘭屬.md "wikilink")（）的缩写
   - V，[Visa公司的](https://zh.wikipedia.org/wiki/Visa "wikilink")[纽约证券交易所](../Page/纽约证券交易所.md "wikilink")[股票代號](../Page/股票代號.md "wikilink")
   - V，[维旺迪公司曾使用的纽约证券交易所股票代号](../Page/维旺迪.md "wikilink")
-  - v，[动词的语法代号](https://zh.wikipedia.org/wiki/动词 "wikilink")
+  - v，[动词的语法代号](../Page/动词.md "wikilink")
   - V，[挪威自由党](https://zh.wikipedia.org/wiki/挪威自由党 "wikilink")（）的缩写
   - Ⓥ，[挪威國家酒局的符号](../Page/挪威國家酒局.md "wikilink")
   - [VVVVVV](../Page/VVVVVV.md "wikilink")，特里·卡瓦纳设计的益智游戏

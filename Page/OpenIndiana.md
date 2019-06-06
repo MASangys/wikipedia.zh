@@ -16,4 +16,4 @@
 2.
 3.  [Frequently Asked
     Questions](http://wiki.openindiana.org:8080/display/oi/Frequently+Asked+Questions)
-    OpenIndiana Wiki（英文）
+     OpenIndiana Wiki（英文）

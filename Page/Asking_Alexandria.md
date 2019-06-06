@@ -75,7 +75,7 @@ MV《Closure》則是在七月釋出，十天後另一支MV《To the Stage》也
 Worsnop在他的Youtube上公開個人活動的的展開，風格將會偏於[搖滾風格](https://zh.wikipedia.org/wiki/搖滾樂 "wikilink")，而非Asking
 Alexandria的[金屬味](https://zh.wikipedia.org/wiki/金屬樂 "wikilink")，接著他公開了個人曲目《Photograph》。\[8\]
 
-緊接著十月Sumerain唱片公司，在Youtube的頁面上發表樂團頗具爭議性歌曲影帶《Not The Ameracan
+緊接著十月Sumerain唱片公司，在Youtube的頁面上發表樂團頗具爭議性歌曲影帶《Not The American
 Average》\[9\]24日，首張專輯的重發盤《[Stepped Up and
 Scratched](https://zh.wikipedia.org/wiki/Stepped_Up_and_Scratched "wikilink")》以Tomba混音版的《Another
 Bottle
@@ -173,7 +173,8 @@ Stoff合作的，Denis於10月21日離開了樂團，而Danny則是重新加入�
 
 ## 其他連結
 
-  - [Official website](http://www.askingalexandriaofficial.com)
+  - [Official
+    website](https://web.archive.org/web/20131101112431/http://askingalexandriaofficial.com/)
 
   -
 [Category:英國重金屬樂團](https://zh.wikipedia.org/wiki/Category:英國重金屬樂團 "wikilink")

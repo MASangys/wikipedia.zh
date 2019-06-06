@@ -719,7 +719,7 @@ WT**），是已故流行乐天王[迈克尔·杰克逊的第二次](../Page/迈
 
 所有演出都是由[夜曲制作公司专业](https://zh.wikipedia.org/wiki/夜曲制作公司 "wikilink")[拍摄的](https://zh.wikipedia.org/wiki/拍摄 "wikilink")，这些拍摄的内容都是杰克逊的私人档案。只有一场演唱会给[电视转播](../Page/电视.md "wikilink")，那就是1992年10月1日的[布加勒斯特站的演出](../Page/布加勒斯特.md "wikilink")。该场演唱会的直播权杰克逊以1200万[英镑](../Page/英镑.md "wikilink")
 (现约合[人民币](../Page/人民币.md "wikilink")1.3亿元)的价格卖给了[HBO](../Page/HBO.md "wikilink")[电视台](../Page/电视台.md "wikilink")，创下了现场演唱会直播费的最高记录，这场演唱会的特辑也为HBO创下了[有线电视网史上最高收视记录](https://zh.wikipedia.org/wiki/有线电视网 "wikilink")：21.4%的收视率，34%户率。杰克逊因此获得“[有线电视杰出奖](https://zh.wikipedia.org/wiki/有线电视杰出奖 "wikilink")”。\[3\]由于电视播出后收视率极高，而且场面十分壮观，晕倒人数极多，所以在2005年，官方发行了该演唱会的[DVD](https://zh.wikipedia.org/wiki/DVD "wikilink")：[布加勒斯特现场：危险之旅巡回演唱会](../Page/布加勒斯特现场：危险之旅巡回演唱会.md "wikilink")
-(*[布加勒斯特现场：危险之旅巡回演唱会](../Page/布加勒斯特现场：危险之旅巡回演唱会.md "wikilink")*)。近期，在[阿根廷](../Page/阿根廷.md "wikilink")[布宜诺斯艾利斯站的演出视频被泄漏](https://zh.wikipedia.org/wiki/布宜诺斯艾利斯 "wikilink")，让人们看到了当晚高畫質的[蒙太奇的影片画面](https://zh.wikipedia.org/wiki/蒙太奇 "wikilink")。
+(*[布加勒斯特现场：危险之旅巡回演唱会](../Page/布加勒斯特现场：危险之旅巡回演唱会.md "wikilink")*)。近期，在[阿根廷](../Page/阿根廷.md "wikilink")[布宜诺斯艾利斯站的演出视频被泄漏](https://zh.wikipedia.org/wiki/布宜诺斯艾利斯 "wikilink")，让人们看到了当晚高畫質的[蒙太奇的影片画面](../Page/蒙太奇.md "wikilink")。
 
 ## 参见
 

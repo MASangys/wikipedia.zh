@@ -5,7 +5,7 @@ Records旗下公司](../Page/國王唱片.md "wikilink")）發行。
 ## 解說
 
 同名標題曲「Give a
-reason」是聲優林原惠主演1996年4月至9月在[東京電視台播出的](../Page/東京電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[秀逗魔導士NEXT](https://zh.wikipedia.org/wiki/秀逗魔導士_\(動畫\)#秀逗魔導士NEXT "wikilink")》選用的片尾主題曲。同時還收錄了[奧井雅美主唱的同名動畫的片尾主題曲](../Page/奧井雅美.md "wikilink")「我不會讓你插手」。
+reason」是聲優林原惠主演1996年4月至9月在[東京電視台播出的](../Page/東京電視台.md "wikilink")[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")《[秀逗魔導士NEXT](https://zh.wikipedia.org/wiki/秀逗魔導士_\(動畫\)#秀逗魔導士NEXT "wikilink")》選用的片頭主題曲。同時還收錄了[奧井雅美主唱的同名動畫的片尾主題曲](../Page/奧井雅美.md "wikilink")「我不會讓你插手」。
 
 2009年在日本[AT-X頻道播放的電視動畫](../Page/AT-X.md "wikilink")《[秀逗魔導士EVOLUTION-R](https://zh.wikipedia.org/wiki/秀逗魔導士_\(動畫\)#秀逗魔導士EVOLUTION-R "wikilink")》第13集（最終回）劇中，以插入曲的形式使用。讓過去的主題曲作為插入曲使用，是《[秀逗魔導士](../Page/秀逗魔導士.md "wikilink")》系列中首次的嘗試，也是久違約13年的再現。
 

@@ -289,7 +289,8 @@ Magazine）的測試，在0-60mph加速花費6.9秒\[11\]。車型：
 9.  請見[マツダ,
     FS-ZE型エンジン](http://greeco-channel.com/car/engine/mazda_eg/fs-ze/)。
 
-10. 參考[【MAZDA】新型カペラを発売](http://www.mazda.co.jp/corporate/publicity/release/1997/9708/970820.html)，「エンジン」之段落。
+10. 參考[【MAZDA】新型カペラを発売](http://www.mazda.co.jp/corporate/publicity/release/1997/9708/970820.html)
+    ，「エンジン」之段落。
 
 11. 請看[Mazdaspeed Protegé - It's a
     Looker](http://www.caranddriver.com/reviews/car/02q3/mazdaspeed_protege-road_test/it_27s_a_looker_page_3)，第二段。

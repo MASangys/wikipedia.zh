@@ -327,7 +327,10 @@ Shapeshifter）為GUNDAM系列動畫作品中首次出現的[外星生命體](..
 3.  名字資料從官方推特[量子型演算処理システム　
     ヴェーダ](http://twitter.com/#!/veda2314/status/1422987437805568)中可得知，配音則是西墻由香自己寫在網誌上的。
 
-4.  date=2010-09-25 }} Gundam |access-date=2010-09-23
+4.  date=2010-09-25 |access-date=2010-09-23
+    |archive-url=<https://web.archive.org/web/20100925065252/http://www.aemedia.org/2010/09/tbs-1-3597.html>
+    |archive-date=2010-09-25 |dead-url=yes }}date=2010-09-25 }} Gundam
+    |access-date=2010-09-23
     |archive-url=<https://web.archive.org/web/20100925065252/http://www.aemedia.org/2010/09/tbs-1-3597.html>
     |archive-date=2010-09-25 |dead-url=yes }}
 

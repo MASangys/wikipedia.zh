@@ -457,9 +457,6 @@ Friedman　歌：霧野蘭丸(cv.[小林ゆう](https://zh.wikipedia.org/wiki/�
 
 ## 劇場版
 
-  -
-  -
-  -
 ## 漫畫
 
 <table>
@@ -584,7 +581,7 @@ Friedman　歌：霧野蘭丸(cv.[小林ゆう](https://zh.wikipedia.org/wiki/�
 <tr class="odd">
 <td><p>特別編</p></td>
 <td></td>
-<td><p>夢想對峙 圈堂VS天馬</p></td>
+<td><p>夢想對峙 圓堂VS天馬</p></td>
 <td></td>
 </tr>
 <tr class="even">

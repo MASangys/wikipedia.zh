@@ -16,7 +16,7 @@ Lee）所創立，其標誌為呈現數位化，所以標誌中的Digital的[英
   - 2011年2月 - 與Kaikai Kiki Gallery
     Taipei藝廊合作，獨家報導日本藝術家[村上隆來台開展的版畫展](../Page/村上隆.md "wikilink")。
   - 2011年3月 -
-    專訪[Levi's首席設計師以及](../Page/Levi's.md "wikilink")[五月天](../Page/五月天.md "wikilink")[阿信旗下品牌STAYREAL主理人](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")[不二良](../Page/不二良.md "wikilink")。\[5\]
+    專訪[Levi's首席設計師以及](../Page/Levi's.md "wikilink")[五月天](../Page/五月天.md "wikilink")[阿信旗下品牌STAYREAL主理人](../Page/陳信宏.md "wikilink")[不二良](../Page/不二良.md "wikilink")。\[5\]
   - 2011年4月 -
     受運動品牌[愛迪達邀請合作影音報導於](../Page/愛迪達.md "wikilink")[台北](https://zh.wikipedia.org/wiki/台北 "wikilink")[統一阪急百貨舉辦的](https://zh.wikipedia.org/wiki/統一阪急百貨 "wikilink")「adidas
     is all in」[派對](../Page/派對.md "wikilink")。
@@ -53,7 +53,7 @@ Lee）所創立，其標誌為呈現數位化，所以標誌中的Digital的[英
 ## 發音
 
 由於CROWNinc來自於[英文之Crown](https://zh.wikipedia.org/wiki/英文 "wikilink")（[皇冠](../Page/皇冠.md "wikilink")）以及Incorporation（[股份有限公司](../Page/股份有限公司.md "wikilink")）的英文縮寫Inc.合併而成。所以許多人以Crown
-Inc或Crown來稱呼CROWNinc，但其實本意為特殊的商標註冊字，正確發音以[國際音標標音發音為](https://zh.wikipedia.org/wiki/國際音標 "wikilink")
+Inc或Crown來稱呼CROWNinc，但其實本意為特殊的商標註冊字，正確發音以[國際音標標音發音為](../Page/國際音標.md "wikilink")
 /krou-ningk/ 。
 
 ## 參考文獻

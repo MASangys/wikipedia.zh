@@ -110,26 +110,6 @@ Kaffa義式咖啡店、糖圓園糖水店
 
 到2014年起商場進行租戶重組後，多間時裝、食肆、家居、精品及童裝店已結業。新租戶以2、3線租客，主要以健康產品及中下檔的生活用品店為主，精品店比例大幅減少，而童裝店已經消失。
 
-<table>
-<tbody>
-<tr class="odd">
-<td><table>
-<tbody>
-<tr class="odd">
-<td></td>
-</tr>
-<tr class="even">
-<td><p>東南九龍全新地標Mikiki，位於新蒲崗太子道東638號，為新鴻基地產2011年重點商場項目。Mikiki 總面積21萬平方呎，樓高三層。商場以嶄新「購物＋體驗」消閑模式為營運概念，打破固有傳統，與近100家特色創意商戶及食肆，帶給你非一般的購物遊樂體驗，讓你又玩又shop一整天。</p>
-<p><strong>Mikiki 創意玩樂新體驗</strong></p>
-<p>Mikiki，日語解作"見聞"，也就是Mikiki的主題：Shopperience --- Shop + Experience。</p>
-<p>率先體驗以啟德機場為主題的coffee shop、寵物做主角的pet café、任何形式crossover的潮服專賣店、前所未有的全新日式超市等。任你創造屬於你個人的Shopperience，親歷前所未有的購物玩樂體驗，由Mikiki開始。</p></td>
-</tr>
-</tbody>
-</table></td>
-</tr>
-</tbody>
-</table>
-
 ## 鄰近
 
   - [啟德發展區](../Page/啟德發展計劃.md "wikilink")

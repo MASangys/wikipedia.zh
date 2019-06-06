@@ -1042,7 +1042,7 @@ TV）於[星期六和](../Page/星期六.md "wikilink")[星期天晚間播出的
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/黃金庭院" title="wikilink">黃金庭院</a><br />
 </p></td>
 <td style="text-align: center;"></td>
-<td style="text-align: center;"></td>
+<td style="text-align: center;"><p><a href="../Page/韓智慧.md" title="wikilink">韓智慧</a>、<a href="../Page/李尚禹.md" title="wikilink">李尚禹</a>、<a href="../Page/吳知恩.md" title="wikilink">吳知恩</a>、<a href="../Page/李太成.md" title="wikilink">李太成</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/李台英.md" title="wikilink">李台英</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/朴賢珠.md" title="wikilink">朴賢珠</a></p></td>
 <td style="text-align: center;"></td>

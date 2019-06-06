@@ -1,5 +1,5 @@
 《**Last
-Christmas**》（[中文译名](https://zh.wikipedia.org/wiki/中文 "wikilink")：去年聖誕）是[英國雙人流行音樂組合](https://zh.wikipedia.org/wiki/英國 "wikilink")[威猛樂隊在](../Page/威猛樂隊.md "wikilink")1984年發表的一首[聖誕歌曲](https://zh.wikipedia.org/wiki/聖誕歌曲 "wikilink")，這首歌除了在發行當時曾拿到英國流行音樂榜亞軍的銷售成績外，也因為應景的緣故經常在聖誕節時份被播放而成為經典曲，包括[比莉·派佩](../Page/比莉·派佩.md "wikilink")、[艾希莉·緹絲黛爾](https://zh.wikipedia.org/wiki/艾希莉·緹絲黛爾 "wikilink")、[泰勒·史薇芙特](https://zh.wikipedia.org/wiki/泰勒·史薇芙特 "wikilink")、[喬·麥艾德瑞乃至於](https://zh.wikipedia.org/wiki/喬·麥艾德瑞 "wikilink")[日本的](../Page/日本.md "wikilink")[放浪兄弟都曾翻唱過這首歌曲](../Page/放浪兄弟.md "wikilink")。
+Christmas**》（[中文译名](https://zh.wikipedia.org/wiki/中文 "wikilink")：去年聖誕）是[英國雙人流行音樂組合](https://zh.wikipedia.org/wiki/英國 "wikilink")[威猛樂隊在](../Page/威猛樂隊.md "wikilink")1984年發表的一首[聖誕歌曲](https://zh.wikipedia.org/wiki/聖誕歌曲 "wikilink")，這首歌除了在發行當時曾拿到英國流行音樂榜亞軍的銷售成績外，也因為應景的緣故經常在聖誕節時份被播放而成為經典曲，包括[比莉·派佩](../Page/比莉·派佩.md "wikilink")、[艾希莉·緹絲黛爾](https://zh.wikipedia.org/wiki/艾希莉·緹絲黛爾 "wikilink")、[泰勒絲](../Page/泰勒·斯威夫特.md "wikilink")、[喬·麥艾德瑞乃至於](https://zh.wikipedia.org/wiki/喬·麥艾德瑞 "wikilink")[日本的](../Page/日本.md "wikilink")[放浪兄弟都曾翻唱過這首歌曲](../Page/放浪兄弟.md "wikilink")。
 
 ## 歌詞
 

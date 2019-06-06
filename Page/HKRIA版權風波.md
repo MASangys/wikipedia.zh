@@ -33,7 +33,7 @@ Music**是全球四大唱片公司之一——日本[索尼公司](https://zh.wi
 #### 華納唱片 Warner Music
 
 **華納唱片**全球四大唱片公司之一，在香港也是主要唱片公司之一，成立於1982年，旗下歌手主要包括：[蔡依林](../Page/蔡依林.md "wikilink")、[林俊傑](https://zh.wikipedia.org/wiki/林俊傑 "wikilink")、[周柏豪](../Page/周柏豪.md "wikilink")、[連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")、[Dear
-Jane](../Page/Dear_Jane.md "wikilink")、[蕭敬騰](../Page/蕭敬騰.md "wikilink")、[中國娃娃](https://zh.wikipedia.org/wiki/中國娃娃 "wikilink")、[FIR](https://zh.wikipedia.org/wiki/FIR "wikilink")、[郭采潔](https://zh.wikipedia.org/wiki/郭采潔 "wikilink")、[阿沁](https://zh.wikipedia.org/wiki/阿沁 "wikilink")、[歐得洋](../Page/歐得洋.md "wikilink")、[張菲](../Page/張菲.md "wikilink")、[楊蒨時](../Page/楊蒨時.md "wikilink")、[蕭煌奇](../Page/蕭煌奇.md "wikilink")、[東城衞](https://zh.wikipedia.org/wiki/東城衞 "wikilink")、[黃小琥](../Page/黃小琥.md "wikilink")、[官恩娜等](../Page/官恩娜.md "wikilink")。
+Jane](../Page/Dear_Jane.md "wikilink")、[蕭敬騰](../Page/蕭敬騰.md "wikilink")、[中國娃娃](https://zh.wikipedia.org/wiki/中國娃娃 "wikilink")、[FIR](https://zh.wikipedia.org/wiki/FIR "wikilink")、[郭采潔](../Page/郭采潔.md "wikilink")、[阿沁](https://zh.wikipedia.org/wiki/阿沁 "wikilink")、[歐得洋](../Page/歐得洋.md "wikilink")、[張菲](../Page/張菲.md "wikilink")、[楊蒨時](../Page/楊蒨時.md "wikilink")、[蕭煌奇](../Page/蕭煌奇.md "wikilink")、[東城衞](https://zh.wikipedia.org/wiki/東城衞 "wikilink")、[黃小琥](../Page/黃小琥.md "wikilink")、[官恩娜等](../Page/官恩娜.md "wikilink")。
 
 #### 百代唱片 EMI
 
@@ -77,7 +77,7 @@ Jane](../Page/Dear_Jane.md "wikilink")、[蕭敬騰](../Page/蕭敬騰.md "wikil
           - [上華唱片](../Page/上華唱片.md "wikilink")：\#[張學友](https://zh.wikipedia.org/wiki/張學友 "wikilink")
           - [新藝寶唱片](../Page/新藝寶唱片.md "wikilink")：\#[謝安琪](../Page/謝安琪.md "wikilink")、\#[陳奕迅](../Page/陳奕迅.md "wikilink")、\#[Swing](https://zh.wikipedia.org/wiki/Swing "wikilink")、\#[Mr.](../Page/Mr..md "wikilink")、\#[吳雨霏](../Page/吳雨霏.md "wikilink")
           - [正東唱片](../Page/正東唱片.md "wikilink")：\#[陳慧琳](../Page/陳慧琳.md "wikilink")、\#[關楚耀](../Page/關楚耀.md "wikilink")、\#[孫耀威](../Page/孫耀威.md "wikilink")、\#[韋禮安](../Page/韋禮安.md "wikilink")
-      - [華納唱片](https://zh.wikipedia.org/wiki/華納唱片_\(香港\) "wikilink")：\#[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")、\#[周柏豪](../Page/周柏豪.md "wikilink")、\#[周子揚](../Page/周子揚.md "wikilink")、\#[連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")、\#[任賢齊](../Page/任賢齊.md "wikilink")、\#[蕭敬騰](../Page/蕭敬騰.md "wikilink")、\#[FIR飛兒樂團](https://zh.wikipedia.org/wiki/FIR飛兒樂團 "wikilink")、\#[郭采潔](https://zh.wikipedia.org/wiki/郭采潔 "wikilink")、\#[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、\#[Dear
+      - [華納唱片](https://zh.wikipedia.org/wiki/華納唱片_\(香港\) "wikilink")：\#[薛凱琪](https://zh.wikipedia.org/wiki/薛凱琪 "wikilink")、\#[周柏豪](../Page/周柏豪.md "wikilink")、\#[周子揚](../Page/周子揚.md "wikilink")、\#[連詩雅](https://zh.wikipedia.org/wiki/連詩雅 "wikilink")、\#[任賢齊](../Page/任賢齊.md "wikilink")、\#[蕭敬騰](../Page/蕭敬騰.md "wikilink")、\#[FIR飛兒樂團](https://zh.wikipedia.org/wiki/FIR飛兒樂團 "wikilink")、\#[郭采潔](../Page/郭采潔.md "wikilink")、\#[方大同](https://zh.wikipedia.org/wiki/方大同 "wikilink")、\#[Dear
         Jane](../Page/Dear_Jane.md "wikilink")、\#[黃小琥](../Page/黃小琥.md "wikilink")
       - [Sony
         Music](https://zh.wikipedia.org/wiki/索尼音樂娛樂_\(香港\) "wikilink")：\#[巫啟賢](../Page/巫啟賢.md "wikilink")、\#[周杰倫](../Page/周杰倫.md "wikilink")、\#[楊丞琳](../Page/楊丞琳.md "wikilink")、\#[袁詠琳](../Page/袁詠琳.md "wikilink")、\#[林育羣](https://zh.wikipedia.org/wiki/林育羣 "wikilink")、\#[馮曦妤](../Page/馮曦妤.md "wikilink")、\#[陳柏宇](../Page/陳柏宇.md "wikilink")、\#[方珈悠](../Page/方珈悠.md "wikilink")、\#[林奕匡](../Page/林奕匡.md "wikilink")、\#[JPM](../Page/JPM.md "wikilink")、\#[浪花兄弟](https://zh.wikipedia.org/wiki/浪花兄弟 "wikilink")、\#[蘇醒](https://zh.wikipedia.org/wiki/蘇醒 "wikilink")、\#[王若琳](../Page/王若琳.md "wikilink")、\*[陳芳語](https://zh.wikipedia.org/wiki/陳芳語 "wikilink")
@@ -324,31 +324,29 @@ Mega Live》。
 [Category:Now_TV](https://zh.wikipedia.org/wiki/Category:Now_TV "wikilink")
 
 1.  [無綫與五大唱片商版權爭議解決
-    [商業電台](https://zh.wikipedia.org/wiki/商業電台 "wikilink")11月19日](http://hk.news.yahoo.com/%E7%84%A1%E7%B6%AB%E8%88%87%E4%BA%94%E5%A4%A7%E5%94%B1%E7%89%87%E5%95%86%E7%89%88%E6%AC%8A%E7%88%AD%E8%AD%B0%E8%A7%A3%E6%B1%BA-015600958.html)
-2.  [[明報報導](../Page/明報.md "wikilink")](http://hk.news.yahoo.com/article/091221/4/frd6.html)
-
-3.  \[<http://music.sina.com.hk/cgi-bin/nw/show.cgi/10/1/1/395430/1.html>[明報](../Page/明報.md "wikilink")12月24日報導\]
+    商業電台11月19日](http://hk.news.yahoo.com/%E7%84%A1%E7%B6%AB%E8%88%87%E4%BA%94%E5%A4%A7%E5%94%B1%E7%89%87%E5%95%86%E7%89%88%E6%AC%8A%E7%88%AD%E8%AD%B0%E8%A7%A3%E6%B1%BA-015600958.html)
+2.  [明報報導](http://hk.news.yahoo.com/article/091221/4/frd6.html)
+3.  [明報12月24日報導](http://music.sina.com.hk/cgi-bin/nw/show.cgi/10/1/1/395430/1.html)
 
 4.  [2010年1月13日
-    [東方日報報導](https://zh.wikipedia.org/wiki/東方日報 "wikilink")](http://orientaldaily.on.cc/cnt/entertainment/20100113/00282_014.html)
+    東方日報報導](http://orientaldaily.on.cc/cnt/entertainment/20100113/00282_014.html)
 5.  <http://ent.qq.com/a/20100129/000083.htm>
 6.  [郑伊健获TVB访问
     成首个四大唱片公司破冰艺人](http://ent.sina.com.cn/y/2010-04-29/09562944533.shtml)
 
 7.  [無綫僵持 拒播港台叱吒 2010年12月31日
-    [新報報導](https://zh.wikipedia.org/wiki/新報 "wikilink")](http://www.hkdailynews.com.hk/enews.php?id=140483)
-
+    新報報導](http://www.hkdailynews.com.hk/enews.php?id=140483)
 8.  [鄭伊健亮相無線拍外景
     欲邀好友古巨基任嘉賓](http://dailynews.sina.com/bg/ent/hktwstar/sinacn/20110110/17462149627.html)
 
 9.  [2011年1月28日
-    [新浪香港報導](https://zh.wikipedia.org/wiki/新浪香港 "wikilink")](http://news.sina.com.hk/news/15/1/1/1998427/1.html)
+    新浪香港報導](http://news.sina.com.hk/news/15/1/1/1998427/1.html)
 
 10. <http://orientaldaily.on.cc/cnt/entertainment/20110727/00282_017.html>
 11. <http://paper.wenweipo.com/2011/09/10/EN1109100018.htm>
 12. <http://hk.apple.nextmedia.com/realtime/art_main.php?&iss_id=20110911&sec_id=7018882&art_id=50037788>
-13. [[商業電台](https://zh.wikipedia.org/wiki/商業電台 "wikilink")11月19日](http://hk.news.yahoo.com/%E7%84%A1%E7%B6%AB%E8%88%87%E4%BA%94%E5%A4%A7%E5%94%B1%E7%89%87%E5%95%86%E7%89%88%E6%AC%8A%E7%88%AD%E8%AD%B0%E8%A7%A3%E6%B1%BA-015600958.html)
-14. [[蘋果日報即時新聞報導](https://zh.wikipedia.org/wiki/蘋果日報 "wikilink")](http://hk.apple.nextmedia.com/realtime/art_main.php?iss_id=20120224&sec_id=7018882&art_id=50067632)
+13. [商業電台11月19日](http://hk.news.yahoo.com/%E7%84%A1%E7%B6%AB%E8%88%87%E4%BA%94%E5%A4%A7%E5%94%B1%E7%89%87%E5%95%86%E7%89%88%E6%AC%8A%E7%88%AD%E8%AD%B0%E8%A7%A3%E6%B1%BA-015600958.html)
+14. [蘋果日報即時新聞報導](http://hk.apple.nextmedia.com/realtime/art_main.php?iss_id=20120224&sec_id=7018882&art_id=50067632)
 15.
 16.
 17. [合約 辣招 迫 四大 TVB 破冰騷 爛尾 Face

@@ -1,11 +1,13 @@
 『**K-ON\! ORIGINAL SOUND
 TRACK**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")『[K-ON\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")』的[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")。
 
-## 概要
+## K-ON\! ORIGINAL SOUND TRACK
 
 於2009年6月3日由[波麗佳音發行的](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")[原聲音樂](https://zh.wikipedia.org/wiki/原聲音樂 "wikilink")，音樂是[百石元由](https://zh.wikipedia.org/wiki/百石元 "wikilink")[融合爵士樂](https://zh.wikipedia.org/wiki/融合爵士樂 "wikilink")、[鐵克諾](https://zh.wikipedia.org/wiki/鐵克諾 "wikilink")、[Pop創作出來的](https://zh.wikipedia.org/wiki/Pop_\(音樂類型\) "wikilink")。在初回限定版中用了4人來作封面。
 
-## 收錄曲
+  - 收錄曲
+
+<!-- end list -->
 
 1.  Have some tea?
 2.  Morning dew
@@ -47,10 +49,14 @@ TRACK**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink
 ## K-ON\!\! ORIGINAL SOUND TRACK Vol.1
 
 電視動畫第2期『[K-ON\!\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")』的原聲音樂。於2010年7月21日由波麗佳音發行。
+
 收錄了第6話「梅雨\!」的劇中歌童謠「[あめふり](../Page/雨降.md "wikilink")」和第8話「進路\!」的劇中歌童謠「うさぎとかめ」。
+
 於初回限定版中用了4人來作封面。
 
-### 收錄曲
+  - 收錄曲
+
+<!-- end list -->
 
 1.  One more tea?
 2.  朝日を浴びて
@@ -83,7 +89,9 @@ TRACK**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink
 
 [電視動畫第](https://zh.wikipedia.org/wiki/電視動畫 "wikilink")2期『[K-ON\!\!](https://zh.wikipedia.org/wiki/K-ON! "wikilink")』的第2張原聲音樂。於2010年10月6日由[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
 
-### 收錄曲
+  - 收錄曲
+
+<!-- end list -->
 
 1.  Early tea
 2.  My dearest Baumkuchen
@@ -111,6 +119,100 @@ TRACK**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink
       -
         第1話「高3\!」的開學禮伴奏是櫻丘女子櫻丘高中學校的校歌。
 
+## K-ON\! MOVIE ORIGINAL SOUND TRACK
+
+『[K-ON\!
+劇場版](../Page/K-ON!_\(電影\).md "wikilink")』的原聲音樂。於2011年12月21日由[波麗佳音發行](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")。
+
+  - 收錄曲
+
+:\# Have some tea?（MOVIE Mix）
+
+:\#: 原曲收錄於『K-ON\! ORIGINAL SOUND TRACK』
+
+:\# 白銀の朝
+
+:\# 干し芋の季節
+
+:\# こなゆき
+
+:\# ごり押しの理由（わけ）
+
+:\# 茶箪笥のかほり
+
+:\# 二人の世界（MOVIE Mix）
+
+:\#: 原曲收錄於『K-ON\!\! ORIGINAL SOUND TRACK Vol.1』
+
+:\# 茶柱運勢研究会
+
+:\# Bossaでコーヒーを
+
+:\# お化けの同窓会
+
+:\# ガラスの向こう側
+
+:\# 正直者が考えた嘘
+
+:\# その笑顔が好き
+
+:\# 海に行こうよ\!
+
+:\# 水浴び大好きあひるちゃん
+
+:\# 地中海楽団
+
+:\# Spilled tea
+
+:\# Traditional tea
+
+:\# Air of northern countries
+
+:\# London E
+
+:\#: 基於[綠洲樂隊](https://zh.wikipedia.org/wiki/綠洲樂隊 "wikilink")（Oasis）的「Put
+Yer Money Where Yer Mouth Is」，原曲收錄於專輯「」中。
+
+:\# Yearning for the Far East
+
+:\# Pleasant despair
+
+:\# Train-D
+
+:\# 私のきもち
+
+:\# かりんとう男爵の一週間
+
+:\# Fairies' Party
+
+:\# 退屈な時間
+
+:\# 結局今日も遅刻じゃないですか\!
+
+:\# そんな訳でタクシーで…、
+
+:\# げげっ\!大渋滞\!\!
+
+:\# お日様キラキラ散歩道
+
+:\# Artificial Candy
+
+:\# ごり押しの言い訳
+
+:\# 女子の集中力
+
+:\# Red jacket
+
+:\# Stylish mistake
+
+:\# Winter night in a warm room
+
+:\# 一等賞
+
+:\# Far distant past
+
+:\# しあわせのかけら
+
 ## 外部連結
 
   -
@@ -119,7 +221,12 @@ TRACK**』是[電視動畫](https://zh.wikipedia.org/wiki/電視動畫 "wikilink
   -
   -
   -
+  -
+  -
 [Category:2009年原聲帶](https://zh.wikipedia.org/wiki/Category:2009年原聲帶 "wikilink")
+[Category:2010年原聲帶](https://zh.wikipedia.org/wiki/Category:2010年原聲帶 "wikilink")
+[Category:2011年原聲帶](https://zh.wikipedia.org/wiki/Category:2011年原聲帶 "wikilink")
 [Category:電視動畫原聲帶](https://zh.wikipedia.org/wiki/Category:電視動畫原聲帶 "wikilink")
+[Category:電影原聲帶](https://zh.wikipedia.org/wiki/Category:電影原聲帶 "wikilink")
 [Category:K-ON\!的音樂](https://zh.wikipedia.org/wiki/Category:K-ON!的音樂 "wikilink")
 [Category:波麗佳音原聲帶](https://zh.wikipedia.org/wiki/Category:波麗佳音原聲帶 "wikilink")

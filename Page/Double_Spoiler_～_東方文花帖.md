@@ -5,13 +5,13 @@
 
 本作发布于第七次[博丽神社例大祭](https://zh.wikipedia.org/wiki/東方Project#博丽神社例大祭 "wikilink")（2010年3月14日），为《[東方文花帖
 ～ Shoot the
-Bullet.](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")》的续作，增加自[9.5作以来新增加的人物](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")。除外，自机除了原有的[射命丸文外](https://zh.wikipedia.org/wiki/射命丸文 "wikilink")，达到某些条件\[1\]还可以使用新自机姬海棠极。而且关卡内容得到了丰富，实现了[ZUN在前一部文花帖中提到增加更多的关卡的承诺](../Page/ZUN.md "wikilink")。
+Bullet.](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")》的续作，增加自[9.5作以来新增加的人物](../Page/東方文花帖_～_Shoot_the_Bullet..md "wikilink")。除外，自机除了原有的[射命丸文外](https://zh.wikipedia.org/wiki/射命丸文 "wikilink")，达到某些条件\[1\]还可以使用新自机姬海棠果。而且关卡内容得到了丰富，实现了[ZUN在前一部文花帖中提到增加更多的关卡的承诺](../Page/ZUN.md "wikilink")。
 
 ## 故事
 
 天狗**射命丸文**又一次为了编写《文文。新闻》新的新闻报道，游走于幻想乡各处，记录人类和妖怪们的生活……
 
-除外，**姬海棠极**为能做好其自己所创办的新闻报，试图跟踪文的采访，却发现了文的秘密……
+除外，**姬海棠果**为能做好其自己所创办的新闻报，试图跟踪文的采访，却发现了文的秘密……
 
 ## 系統
 

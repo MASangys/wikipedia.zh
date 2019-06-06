@@ -198,6 +198,43 @@ Crush）概念\[7\]。
 </tbody>
 </table>
 
+### 廣告代言
+
+| 年份                         | 廣告名稱                 | 參與成員 | 備註                               |
+| -------------------------- | -------------------- | ---- | -------------------------------- |
+| 2009                       | TBJ LOVE ACTUALLY 春裝 | 全體   | [2AM](../Page/2AM.md "wikilink") |
+| GorGotago                  |                      |      |                                  |
+| Vegemi 飲料                  |                      |      |                                  |
+| DASARANG Chicken           |                      |      |                                  |
+| 服裝品牌BANC                   |                      |      |                                  |
+| SONY Walkman               |                      |      |                                  |
+| 高端品牌 Pucca                 |                      |      |                                  |
+| 鞋類品牌 shoemarker            |                      |      |                                  |
+| 1677 Collect Call          |                      |      |                                  |
+| 2010                       | Metacone冰淇淋          | 全體   |                                  |
+| Ariul化妝品                   |                      |      |                                  |
+| Scotch Puree飲品             |                      |      |                                  |
+| 鞋類品牌 shoemarker            |                      |      |                                  |
+| 2011                       | 鞋類品牌 shoemarker      | 全體   |                                  |
+| 2012                       | 鞋類品牌 shoemarker      | 全體   |                                  |
+| SAMSUNG“GALAXY SⅢ”奧運限量版    |                      |      |                                  |
+| 2013                       | 鞋類品牌 shoemarker      | 全體   |                                  |
+| Crystal Dia                |                      |      |                                  |
+| SAMSUNG LaFleur collection |                      |      |                                  |
+| 化妝品 TALENT COSMETIC        |                      |      |                                  |
+| Shakking 牛奶                |                      |      |                                  |
+| 首爾希望宣傳大使                   |                      |      |                                  |
+| 服飾品牌 G by GUESS            | 金泫雅                  |      |                                  |
+| 服飾品牌 HAZZYS                |                      |      |                                  |
+| Toyota Corolla 豐田汽車        |                      |      |                                  |
+| BBQ炸雞                      |                      |      |                                  |
+| FIFA Online 3              |                      |      |                                  |
+| 沙宣                         | 許嘉允                  |      |                                  |
+| 2014                       | 鞋類品牌 shoemarker      | 全體   | BTOB                             |
+| Korando Turismo            |                      |      |                                  |
+| 2016                       | Soul Slash SAGA      | 全體   |                                  |
+|                            |                      |      |                                  |
+
 ## 音樂作品
 
 ### 韓文數位單曲
@@ -1129,8 +1166,8 @@ Crush）概念\[7\]。
 [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
 [Category:Cube娛樂旗下團體](https://zh.wikipedia.org/wiki/Category:Cube娛樂旗下團體 "wikilink")
 
-1.  [4Minute
-    確定解散，泫雅以外四人不續約](http://kpopn.niusnews.com/=K1crxdx4)，《KPOPN》
+1.  [4Minute 確定解散，泫雅以外四人不續約](http://kpopn.niusnews.com/=K1crxdx4)
+    ，《KPOPN》
 2.  [4Minute停止活動！Cube娛樂正式公佈：南智賢、許嘉允、田祉潤及權昭賢不再續約](http://www.vlovekpop.com/20160617-4min/)
     vlovekpop
 3.

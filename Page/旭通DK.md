@@ -1,4 +1,4 @@
-**旭通DK**（、），[商業名稱](../Page/商業名稱.md "wikilink")**ADK**\[1\]，在中國大陸曾譯為**旭通一企**\[2\]。該公司是[日本第三大](../Page/日本.md "wikilink")[廣告](../Page/廣告.md "wikilink")[公司](../Page/公司.md "wikilink")，業務規模僅次於[電通和](https://zh.wikipedia.org/wiki/電通 "wikilink")[博報堂](../Page/博報堂.md "wikilink")，亦參與製作了眾多日本動漫作品。總部設於[東京都](../Page/東京都.md "wikilink")[港区](https://zh.wikipedia.org/wiki/港区 "wikilink")[虎之門](../Page/虎之門.md "wikilink")，並在海外設置多處分支機構。
+**旭通DK**（、），[商業名稱](../Page/商業名稱.md "wikilink")**ADK**\[1\]，在中國大陸曾譯為**旭通一企**\[2\]。該公司是[日本第三大](../Page/日本.md "wikilink")[廣告](../Page/廣告.md "wikilink")[公司](../Page/公司.md "wikilink")，業務規模僅次於[電通和](https://zh.wikipedia.org/wiki/電通 "wikilink")[博報堂](../Page/博報堂.md "wikilink")，亦參與製作眾多[日本電視動畫作品](../Page/日本電視動畫.md "wikilink")。總部設於[東京都](../Page/東京都.md "wikilink")，並在海外設置多處分支機構。
 
 ## 沿革
 

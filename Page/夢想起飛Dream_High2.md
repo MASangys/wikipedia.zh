@@ -1,6 +1,6 @@
 《**Dream High
 2**》（），為[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[KBS自](../Page/韓國放送公社.md "wikilink")2012年1月30日起播出的[月火迷你連續劇](https://zh.wikipedia.org/wiki/KBS月火迷你連續劇 "wikilink")，2011年大熱作品《-{[Dream
-High](https://zh.wikipedia.org/wiki/Dream_High "wikilink")}-》的第二部。由[姜素拉](../Page/姜素拉.md "wikilink")、[朴敘俊](../Page/朴敘俊.md "wikilink")、[珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（[2AM](../Page/2AM.md "wikilink")）、[JB](../Page/林在範.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）、[芝妍](https://zh.wikipedia.org/wiki/朴芝妍 "wikilink")（[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")）、[珍榮](../Page/朴珍榮.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）、[孝琳](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")（[SISTAR](../Page/SISTAR.md "wikilink")）、[Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink")、[朴軫永](../Page/朴軫永.md "wikilink")\[1\]、[朴嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")（[After
+High](https://zh.wikipedia.org/wiki/Dream_High "wikilink")}-》的第二部。由[姜素拉](../Page/姜素拉.md "wikilink")、[朴敘俊](../Page/朴敘俊.md "wikilink")、[珍雲](https://zh.wikipedia.org/wiki/鄭珍雲 "wikilink")（[2AM](../Page/2AM.md "wikilink")）、[JB](../Page/林在範.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）、[芝妍](../Page/朴芝妍.md "wikilink")（[T-ara](https://zh.wikipedia.org/wiki/T-ara "wikilink")）、[珍榮](../Page/朴珍榮.md "wikilink")（[GOT7](../Page/GOT7.md "wikilink")）、[孝琳](https://zh.wikipedia.org/wiki/金孝靜 "wikilink")（[SISTAR](../Page/SISTAR.md "wikilink")）、[Ailee](https://zh.wikipedia.org/wiki/Ailee "wikilink")、[朴軫永](../Page/朴軫永.md "wikilink")\[1\]、[朴嘉熙](https://zh.wikipedia.org/wiki/朴嘉熙 "wikilink")（[After
 School](../Page/After_School.md "wikilink")）\[2\] 主演。\[3\] \[4\]
 
 ## 演員陣容
@@ -50,7 +50,7 @@ School](../Page/After_School.md "wikilink")）\[2\] 主演。\[3\] \[4\]
 <td><p><a href="../Page/梁興昌.md" title="wikilink">梁興昌</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/朴芝妍" title="wikilink">芝妍</a></p></td>
+<td><p><a href="../Page/朴芝妍.md" title="wikilink">芝妍</a></p></td>
 <td><p>Lyan</p></td>
 <td><p>19歲。原名李智京。在HershE中擔當舞蹈和Rap。如果正確點說，就是外貌擔當。雖然現在毫無演技的她只是配角，麗安卻認為主業是演員，當偶像只是副業而已。唱功和跳舞即使努力也沒有發展，比自己做得好的人到處都是。但她到底有什麼自信感會覺得自己努力在演技上的話，一定會成為最棒的呢？</p>
 <p>因為繁忙的日程，總會在拍攝現場發生幾次感到抱歉的事情，卻只能拍出與自己內心完全不同的毫無演技的內容。人氣方面有些敏感，並且總是很脆弱。別人會怎麼看自己呢，對於自己做的事情極其關注。平時也有誇張的行動和表現，費心維持自己高傲的公主形象。和JB原本是情侶，分手後對JB還默默喜歡著。</p></td>

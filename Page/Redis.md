@@ -157,7 +157,7 @@ Redis支持主从同步。数据可以从主服务器向任意数量的从服务
 [Category:非关系型数据库](https://zh.wikipedia.org/wiki/Category:非关系型数据库 "wikilink")
 [Category:自由软件](https://zh.wikipedia.org/wiki/Category:自由软件 "wikilink")
 [Category:跨平台软件](https://zh.wikipedia.org/wiki/Category:跨平台软件 "wikilink")
-[Category:NoSQL](https://zh.wikipedia.org/wiki/Category:NoSQL "wikilink")
+[Category:键-值数据库](https://zh.wikipedia.org/wiki/Category:键-值数据库 "wikilink")
 
 1.  [Redis Sponsors – Redis](http://redis.io/topics/sponsors)
 2.  [VMware: the new Redis

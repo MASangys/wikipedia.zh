@@ -5,7 +5,7 @@ Music·Live)，娛樂公司經營範圍廣泛，包括[電視頻道與](https://
 Good Entertainment、1877 Entertainment、Music Works、Stone Music、MMO
 Entertainment、SWING娛樂、Off The
 Record娛樂等。許多知名藝人如[李孝利](../Page/李孝利.md "wikilink")、[SG
-Wannabe](../Page/SG_Wannabe.md "wikilink")、[SeeYa](../Page/SeeYa.md "wikilink")、[Fromis_9等都曾是](https://zh.wikipedia.org/wiki/Fromis_9 "wikilink")
+Wannabe](../Page/SG_Wannabe.md "wikilink")、[SeeYa等都曾是](../Page/SeeYa.md "wikilink")
 Mnet Media 的一員。
 
 ## 業務

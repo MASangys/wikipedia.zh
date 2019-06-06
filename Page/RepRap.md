@@ -220,7 +220,7 @@ RepRap自我复制的性质也有利于它像病毒一般的传播，和可能�
     on RepRap
   - [RepRap的官方介绍视频@优酷](http://v.youku.com/v_show/id_XNDU1MjM1NzQ0.html)
   - [Make magazine: How to make a Reprap Robot
-    Part 1](http://blog.makezine.com/2007/11/23/make-a-reprap-robot-part-1/)
+    Part 1](https://web.archive.org/web/20121004170428/http://blog.makezine.com/2007/11/23/make-a-reprap-robot-part-1/)
   - [介绍'Mendel'的视频](http://vimeo.com/6865848)
   - [Reprap-Austria - Reprap Supplies for
     Austria/Europe](http://www.reprap.cc)

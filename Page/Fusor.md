@@ -145,7 +145,7 @@ megakelvin。只要有15,000伏特的電壓，就可以使帶著正電的離子�
 
   - ["The Advent of Clean Nuclear Fusion: Super-performance Space Power
     and
-    Propulsion"](http://www.askmar.com/ConferenceNotes/2006-9%20IAC%20Paper.pdf),
+    Propulsion"](https://web.archive.org/web/20110929075949/http://www.askmar.com/ConferenceNotes/2006-9%20IAC%20Paper.pdf),
     Robert W. Bussard, Ph.D., 57th International Astronautical Congress,
     2–6 October 2006.
 

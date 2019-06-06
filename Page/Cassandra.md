@@ -117,7 +117,7 @@ BigTable的一个克隆，与Cassandra一样，它们都使用了BigTable的列�
 ## 相关阅读
 
 [Category:開源資料庫管理系統](https://zh.wikipedia.org/wiki/Category:開源資料庫管理系統 "wikilink")
-[Category:NoSQL](https://zh.wikipedia.org/wiki/Category:NoSQL "wikilink")
+[Category:键-值数据库](https://zh.wikipedia.org/wiki/Category:键-值数据库 "wikilink")
 
 1.
 

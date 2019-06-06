@@ -74,9 +74,6 @@ Sense用户界面](../Page/HTC_Sense.md "wikilink")，后更升级至第三代�
   - \*
 
   -
-[de:HTC Incredible
-S](https://zh.wikipedia.org/wiki/de:HTC_Incredible_S "wikilink")
-
 [Category:智能手機](https://zh.wikipedia.org/wiki/Category:智能手機 "wikilink")
 [Category:觸控手機](https://zh.wikipedia.org/wiki/Category:觸控手機 "wikilink")
 [Category:宏達電手機](https://zh.wikipedia.org/wiki/Category:宏達電手機 "wikilink")

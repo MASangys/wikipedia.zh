@@ -7,7 +7,7 @@ opentheme = [超有種](https://zh.wikipedia.org/wiki/超有種 "wikilink")《�
 endtheme = [范逸臣](../Page/范逸臣.md "wikilink")《我是誰》 | country =  | language
 = [國語](../Page/臺灣國語.md "wikilink") | num_seasons = | num_episodes =
 13集 | list_episodes = | slogan = **只要音樂不停...我們的夢就會一直繼續** |
-executive_producer = 陳邵愷、吳展聿 | supervising_producer =
+executive_producer = 陳劭愷、吳展聿 | supervising_producer =
 [王偉忠](../Page/王偉忠.md "wikilink")、車慶餘、謝育秀 | producer =
 劉紀綱{{、w}}[陳建寧](../Page/陳建寧.md "wikilink") | editor = 陳博文、翁玉鴻 |
 location =  | cinematography = 陳國隆{{、w}}陳惠生 | story_editor = 王千賀 |

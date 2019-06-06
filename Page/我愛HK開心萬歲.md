@@ -481,7 +481,7 @@
 <td><p>街坊</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/謝東閔" title="wikilink">謝東閔</a></p></td>
+<td><p><a href="../Page/謝東閔_(香港).md" title="wikilink">謝東閔</a></p></td>
 <td></td>
 <td><p>街坊</p></td>
 </tr>
@@ -891,3 +891,4 @@
 [Category:曾志伟电影](https://zh.wikipedia.org/wiki/Category:曾志伟电影 "wikilink")
 [Category:香港賀歲片](https://zh.wikipedia.org/wiki/Category:香港賀歲片 "wikilink")
 [Category:邵氏電影](https://zh.wikipedia.org/wiki/Category:邵氏電影 "wikilink")
+[Category:2011年香港電影](https://zh.wikipedia.org/wiki/Category:2011年香港電影 "wikilink")

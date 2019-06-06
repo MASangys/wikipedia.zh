@@ -1,5 +1,5 @@
 **SUPER☆GiRLS**，簡稱**S☆G**、**SuPaGa**（，來自「Super
-Girls」的縮寫），是[日本](../Page/日本.md "wikilink")[愛貝克思旗下第一組女子](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，於2010年結成，目前有13名成員。所屬經紀公司為，所屬音樂品牌為[iDOL
+Girls」的縮寫），是[日本](../Page/日本.md "wikilink")[愛貝克思旗下第一組女子](https://zh.wikipedia.org/wiki/愛貝克思 "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，於2010年結成，目前有13名成員。所屬經紀公司為[爱贝克思管理](https://zh.wikipedia.org/wiki/爱贝克思管理 "wikilink")，所屬音樂品牌為[iDOL
 Street](https://zh.wikipedia.org/wiki/iDOL_Street "wikilink")。
 
 ## 概要
@@ -26,63 +26,15 @@ SUPER☆GiRLS於2009年12月組成，最初成員均來自愛貝克思首次舉�
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>溝手琉花</p></td>
-<td><p>溝手るか</p></td>
-<td><p>みぞて るか</p></td>
-<td><p>るか</p></td>
-<td><p>1997年1月25日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/A型" title="wikilink">A型</a></p></td>
-<td><p>165cm</p></td>
-<td><p>紅</p></td>
-<td><p>「背はおっきいけど気はちっちゃい。<br />
-ピュアなハートと歌声で<br />
-笑顔の花を咲かせます。」</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>渡邉光</p></td>
-<td><p>渡邉ひかる</p></td>
-<td><p>わたなべ ひかる</p></td>
-<td><p>ぴかるん</p></td>
-<td><p>1994年2月15日</p></td>
-<td><p><a href="../Page/北海道.md" title="wikilink">北海道</a>[4]</p></td>
-<td><p>A型</p></td>
-<td><p>157cm</p></td>
-<td><p>金</p></td>
-<td><p>「時間の流れがみんなと別次元！<br />
-普段はゆる〜い<br />
-GAP激熱パフォーマー」</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>內村莉彩</p></td>
-<td><p>內村莉彩</p></td>
-<td><p>うちむら りさ</p></td>
-<td><p>りさ</p></td>
-<td><p>2000年6月20日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宮崎県" title="wikilink">宮崎県</a></p></td>
-<td><p>A型</p></td>
-<td><p>156cm</p></td>
-<td><p>水藍</p></td>
-<td><p>「アイドル界をどげんかせんといかん、<br />
-常夏マンゴーの国から<br />
-スパガにやってきました」</p></td>
-<td><p>於2014年2月23日<br />
-演唱會公演後加入、<br />
-前Street生3期生<br />
-（TOKYO TORiTSU これで委員會）</p></td>
-</tr>
-<tr class="even">
-<td><p>渡邉幸愛</p></td>
+<td><p>渡边幸愛</p></td>
 <td><p>渡邉幸愛</p></td>
 <td><p>わたなべ こうめ</p></td>
 <td><p>コウメ</p></td>
 <td><p>1998年3月17日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宮城县" title="wikilink">宮城县</a></p></td>
 <td><p>A型</p></td>
-<td><p>158cm</p></td>
-<td><p>銀</p></td>
+<td><p>160cm</p></td>
+<td><p>红&lt;ref group="注&gt;2019年1月11日前为银色</ref></p></td>
 <td><p>「私の名前は〜？（コウメ）<br />
 ちょっぴりすっぱい〜？（コウメ）<br />
 幸せと愛満タンはっぴーらぶ」</p></td>
@@ -90,7 +42,139 @@ GAP激熱パフォーマー」</p></td>
 演唱會公演後加入、<br />
 前Party Rockets初代隊長。</p></td>
 </tr>
+<tr class="even">
+<td><p>石桥萤</p></td>
+<td><p>石橋蛍</p></td>
+<td><p>いしばし ほたる</p></td>
+<td><p>ほたる</p></td>
+<td><p>2002年4月7日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/京都府" title="wikilink">京都府</a></p></td>
+<td><p>O型</p></td>
+<td><p>149cm</p></td>
+<td><p>绿</p></td>
+<td><p>「みなさんスパガへおこしやす 蛍のように輝いてあなたに光を届けます」</p></td>
+<td></td>
+</tr>
 <tr class="odd">
+<td><p>阿部梦梨</p></td>
+<td><p>阿部夢梨</p></td>
+<td><p>あべ ゆめり</p></td>
+<td><p>ゆめりん</p></td>
+<td><p>2002年7月29日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/石川县" title="wikilink">石川县</a></p></td>
+<td><p>A型</p></td>
+<td><p>152cm</p></td>
+<td><p>粉&lt;ref group="注&gt;2017年10月10日前为蓝色</ref></p></td>
+<td><p>「石川県からやってきたスパガ1の食いしん坊」</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>长尾诗织</p></td>
+<td><p>長尾しおり</p></td>
+<td><p>ながお しおり</p></td>
+<td><p>しおりん</p></td>
+<td><p>2003年11月9日</p></td>
+<td><p><a href="../Page/岐阜县.md" title="wikilink">岐阜县</a></p></td>
+<td><p>B型</p></td>
+<td><p>165cm</p></td>
+<td><p>紫</p></td>
+<td><p>「天然ふわふわ ちょっぴり泣き虫 大人っぽいけど最年少 みんなにHappyをお届けしたい いつも笑顔のしおりんです」</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>金泽有希</p></td>
+<td><p>金澤有希</p></td>
+<td><p>かなざわ ゆうき</p></td>
+<td><p>ゆうきりん</p></td>
+<td><p>1993年5月1日</p></td>
+<td><p><a href="../Page/北海道.md" title="wikilink">北海道</a></p></td>
+<td><p>AB型</p></td>
+<td><p>163cm</p></td>
+<td><p>黄</p></td>
+<td></td>
+<td><p>最年長的成員<br />
+<a href="https://zh.wikipedia.org/wiki/GEM_(女子团体)" title="wikilink">GEM前队长</a>[4]<br />
+前<a href="../Page/AKB48.md" title="wikilink">AKB48</a> 10期研究生</p></td>
+</tr>
+<tr class="even">
+<td><p>石丸千贺</p></td>
+<td><p>石丸千賀</p></td>
+<td><p>いしまる ちか</p></td>
+<td><p>ちかぴ</p></td>
+<td><p>1996年3月29日</p></td>
+<td><p><a href="../Page/福冈县.md" title="wikilink">福冈县</a></p></td>
+<td><p>A型</p></td>
+<td></td>
+<td><p>蓝</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>坂林佳奈</p></td>
+<td><p>坂林佳奈</p></td>
+<td><p>さかばやし かな</p></td>
+<td><p>かなぽん</p></td>
+<td><p>1997年1月26日</p></td>
+<td><p><a href="../Page/兵库县.md" title="wikilink">兵库县</a></p></td>
+<td><p>A型</p></td>
+<td></td>
+<td><p>浅绿</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>井上真由子</p></td>
+<td><p>井上真由子</p></td>
+<td><p>いのうえ まゆこ</p></td>
+<td><p>まゆちゃん</p></td>
+<td><p>1997年5月26日</p></td>
+<td><p>兵库县</p></td>
+<td><p>O型</p></td>
+<td></td>
+<td><p>海洋蓝</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>门林有羽</p></td>
+<td><p>門林有羽</p></td>
+<td><p>かどばやし ゆう</p></td>
+<td><p>ゆうちゃん</p></td>
+<td><p>1998年10月28日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/大阪府" title="wikilink">大阪府</a></p></td>
+<td><p>B型</p></td>
+<td></td>
+<td><p>水蓝</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>樋口奈津菜</p></td>
+<td><p>樋口なづな</p></td>
+<td><p>ひぐち なづな</p></td>
+<td><p>なづち</p></td>
+<td><p>2001年8月28日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/静冈县" title="wikilink">静冈县</a></p></td>
+<td><p>B型</p></td>
+<td></td>
+<td><p>白</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>松本爱花</p></td>
+<td><p>松本愛花</p></td>
+<td><p>まつもと あいか</p></td>
+<td><p>あいか</p></td>
+<td><p>2002年5月3日</p></td>
+<td><p>大阪府</p></td>
+<td><p>B型</p></td>
+<td></td>
+<td><p>橙</p></td>
+<td></td>
+<td><p>姐姐是<a href="../Page/HKT48.md" title="wikilink">HKT48的松本日向</a>[5]</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -146,12 +230,12 @@ GAP激熱パフォーマー」</p></td>
 <td><p>かのう かえで</p></td>
 <td><p>かえぴょん</p></td>
 <td><p>1992年10月6日</p></td>
-<td><p>埼玉縣</p></td>
+<td><p><a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a></p></td>
 <td><p>A型</p></td>
 <td><p>162cm</p></td>
 <td><p>藍</p></td>
 <td><p>「不可能を稼農(可能)にする<br />
-無敵アイドル!」[5]{{#tag:ref|プロデューサーの樋口竜雄曰く、珍しい名字であった為、それをキャッチコピーとしてそのまま織り込んだ[6]。|group="注"}}。</p></td>
+無敵アイドル!」[6]{{#tag:ref|プロデューサーの樋口竜雄曰く、珍しい名字であった為、それをキャッチコピーとしてそのまま織り込んだ[7]。|group="注"}}。</p></td>
 <td><p>於2013年1月16日宣布退出，<br />
 2015年以藝名「藤本かえで」<br />
 再次開始演藝活動。</p></td>
@@ -162,12 +246,12 @@ GAP激熱パフォーマー」</p></td>
 <td><p>やさか さおり</p></td>
 <td><p>さおりーぬ</p></td>
 <td><p>1989年2月16日</p></td>
-<td><p>東京都<a href="../Page/文京區.md" title="wikilink">文京區</a></p></td>
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a><a href="../Page/文京區.md" title="wikilink">文京區</a></p></td>
 <td><p>A型</p></td>
 <td><p>160cm</p></td>
 <td><p>水藍</p></td>
 <td><p>「日本の未来にゆるさと萌え〜<br />
-を届けるまである」[7]{{#tag:ref|プロデューサーの樋口竜雄曰く、八坂が秋葉原で働いていた経験があることから、オタク的な用語である「まである」をキャッチコピーに使用した[8]。|group="注"}}</p></td>
+を届けるまである」[8]{{#tag:ref|プロデューサーの樋口竜雄曰く、八坂が秋葉原で働いていた経験があることから、オタク的な用語である「まである」をキャッチコピーに使用した[9]。|group="注"}}</p></td>
 <td><p>於2014年2月23日<br />
 演唱會公演後畢業離隊<br />
 目前為個人活動。</p></td>
@@ -178,7 +262,7 @@ GAP激熱パフォーマー」</p></td>
 <td><p>ごとう あや</p></td>
 <td><p>ごっちゃん</p></td>
 <td><p>1997年3月5日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/兵庫県" title="wikilink">兵庫県</a></p></td>
+<td><p>兵庫県</p></td>
 <td><p>AB型</p></td>
 <td><p>163 cm</p></td>
 <td><p>橘</p></td>
@@ -190,11 +274,11 @@ GAP激熱パフォーマー」</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/宮崎理奈.md" title="wikilink">宮崎理奈</a></p></td>
-<td><p>宮﨑理奈[9]</p></td>
+<td><p>宮﨑理奈[10]</p></td>
 <td><p>みやざき りな</p></td>
 <td><p>みやり</p></td>
 <td><p>1994年2月21日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/福岡縣" title="wikilink">福岡縣</a>[10]</p></td>
+<td><p>福岡縣[11]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/AB型" title="wikilink">AB型</a></p></td>
 <td><p>153cm</p></td>
 <td><p>黃</p></td>
@@ -209,7 +293,7 @@ GAP激熱パフォーマー」</p></td>
 <td><p>あさかわ なな</p></td>
 <td><p>なぁぽん</p></td>
 <td><p>1999年4月3日</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/埼玉県" title="wikilink">埼玉県</a></p></td>
+<td><p>埼玉県</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/B型" title="wikilink">B型</a></p></td>
 <td><p>158.9cm</p></td>
 <td><p>綠</p></td>
@@ -258,7 +342,7 @@ world wide目指します！」</p></td>
 <td><p>あらい れいら</p></td>
 <td><p>れいちぇる</p></td>
 <td><p>1994年9月25日</p></td>
-<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
+<td><p>東京都</p></td>
 <td><p>AB型</p></td>
 <td><p>163.5cm</p></td>
 <td><p>紫</p></td>
@@ -279,7 +363,7 @@ world wide目指します！」</p></td>
 <td><p>「志村と言ったら？（アイーン）…<br />
 じゃなくて、<br />
 おバカでキュートな腹筋番長」</p></td>
-<td><p>最年長的成員及第二代隊長。</p></td>
+<td><p>第二代隊長。</p></td>
 </tr>
 <tr class="odd">
 <td><p>田中美麗</p></td>
@@ -298,6 +382,54 @@ world wide目指します！」</p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>溝手琉花</p></td>
+<td><p>溝手るか</p></td>
+<td><p>みぞて るか</p></td>
+<td><p>るか</p></td>
+<td><p>1997年1月25日</p></td>
+<td><p>大阪府</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/A型" title="wikilink">A型</a></p></td>
+<td><p>165cm</p></td>
+<td><p>紅</p></td>
+<td><p>「背はおっきいけど気はちっちゃい。<br />
+ピュアなハートと歌声で<br />
+笑顔の花を咲かせます。」</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>渡邉光</p></td>
+<td><p>渡邉ひかる</p></td>
+<td><p>わたなべ ひかる</p></td>
+<td><p>ぴかるん</p></td>
+<td><p>1994年2月15日</p></td>
+<td><p>北海道[12]</p></td>
+<td><p>A型</p></td>
+<td><p>157cm</p></td>
+<td><p>金</p></td>
+<td><p>「時間の流れがみんなと別次元！<br />
+普段はゆる〜い<br />
+GAP激熱パフォーマー」</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>內村莉彩</p></td>
+<td><p>內村莉彩</p></td>
+<td><p>うちむら りさ</p></td>
+<td><p>りさ</p></td>
+<td><p>2000年6月20日</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/宮崎県" title="wikilink">宮崎県</a></p></td>
+<td><p>A型</p></td>
+<td><p>156cm</p></td>
+<td><p>水藍</p></td>
+<td><p>「アイドル界をどげんかせんといかん、<br />
+常夏マンゴーの国から<br />
+スパガにやってきました」</p></td>
+<td><p>於2014年2月23日<br />
+演唱會公演後加入、<br />
+前Street生3期生<br />
+（TOKYO TORiTSU これで委員會）</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -455,22 +587,22 @@ THE☆熱唱權</p></td>
   - 2010年
       - 7月8日、首個正式廣播節目開始。
       - 8月4日、樂曲配信開始。
-      - 8月7日、在[a-nation'10初之披露](https://zh.wikipedia.org/wiki/a-nation "wikilink")\[11\]。
+      - 8月7日、在[a-nation'10初之披露](https://zh.wikipedia.org/wiki/a-nation "wikilink")\[13\]。
       - 10月2日、[汐留AXで舉行現場活動](../Page/日本電視台.md "wikilink")，同年12月22日發表以專輯『超絶少女』出道。
       - 10月23日、在原宿アストロホール舉行首個單獨迷你Live。
-      - 12月21日、[SHIBUYA-AX舉行首個單獨全程直播](../Page/SHIBUYA-AX.md "wikilink")\\\[12\]。
+      - 12月21日、[SHIBUYA-AX舉行首個單獨全程直播](../Page/SHIBUYA-AX.md "wikilink")\\\[14\]。
       - 12月22日、1st專輯『[超絶少女](https://zh.wikipedia.org/wiki/超絶少女 "wikilink")』發售。
   - 2011年
       - 4月20日、1st單曲「[加油
-        青春](https://zh.wikipedia.org/wiki/加油_青春 "wikilink")」發售\[13\]。
-      - 6月12日、[品川ステラボールにて結成一周年記念ライブを開催](https://zh.wikipedia.org/wiki/エプソン品川アクアスタジアム#Stellar_Ball（ステラボール） "wikilink")\[14\]。
+        青春](https://zh.wikipedia.org/wiki/加油_青春 "wikilink")」發售\[15\]。
+      - 6月12日、[品川ステラボールにて結成一周年記念ライブを開催](https://zh.wikipedia.org/wiki/エプソン品川アクアスタジアム#Stellar_Ball（ステラボール） "wikilink")\[16\]。
       - 6月15日、2nd單曲「[MAX\!乙女心/Happy GO
         Lucky\!〜ハピ☆ラキでゴー\!〜](https://zh.wikipedia.org/wiki/MAX!乙女心/Happy_GO_Lucky!〜ハピ☆ラキでゴー!〜 "wikilink")」發售。
       - 9月28日、1st Live DVD『ファーストコンサート〜超絶少女が止まンないっ\!〜』發售。
       - 10月5日、3rd單曲「[女子力←天堂](../Page/女子力←天堂.md "wikilink")」發售。
-      - 11月18日、獲得[第53回日本唱片大獎新人獎決定](https://zh.wikipedia.org/wiki/第53回日本唱片大獎 "wikilink")\[15\]。
+      - 11月18日、獲得[第53回日本唱片大獎新人獎決定](https://zh.wikipedia.org/wiki/第53回日本唱片大獎 "wikilink")\[17\]。
   - 2012年
-      - 1月19日、秋田恵里在2月5日[日本青年館舉行公演發表從團體中畢業](../Page/日本青年館.md "wikilink")\[16\]\[17\]。
+      - 1月19日、秋田恵里在2月5日[日本青年館舉行公演發表從團體中畢業](../Page/日本青年館.md "wikilink")\[18\]\[19\]。
       - 2月1日、2nd專輯『[EveryBody
         JUMP\!\!](../Page/EveryBody_JUMP!!.md "wikilink")』發售。
       - 2月5日、這日的公演秋田恵里畢業。開始11人体制。
@@ -478,7 +610,7 @@ THE☆熱唱權</p></td>
       - 4月3日 - 、[Pigoo
         HD首個冠名節目](https://zh.wikipedia.org/wiki/エンタ!371#Pigoo_HD "wikilink")『SUPER☆GiRLSの超絶アドベンチャー\!』開始播放。
       - 4月4日 - 29日、在東京、名古屋、大阪的3個都市舉行首次巡迴演出。
-      - 4月18日、4th單曲「1,000,000☆スマイル」發售\[18\]。
+      - 4月18日、4th單曲「1,000,000☆スマイル」發售\[20\]。
       - 7月4日、5th單曲「[彈彈♥SUMMER
         Kiss](https://zh.wikipedia.org/wiki/彈彈_SUMMER_Kiss "wikilink")」發售。
       - 10月24日、6th單曲「[紅色熱情](../Page/紅色熱情.md "wikilink")」發售。
@@ -490,10 +622,10 @@ THE☆熱唱權</p></td>
       - 6月12日、7th單曲「常夏High Touch」發售。
       - 12月4日、8th單曲「年輕男孩」、「感傷旅程」・「聖誕鈴鈴鈴」3張同時發售。
       - 12月12日、八坂沙織在「iDOL Street Carnival 2013 WINTER X'mas Special
-        〜これが私のアイドル道〜」上宣佈將會於2014年2月23日的演唱會公演後從團體中畢業。並公佈同日將加入浅川梨奈、内村莉彩2名新成員。\[19\]\[20\]
+        〜これが私のアイドル道〜」上宣佈將會於2014年2月23日的演唱會公演後從團體中畢業。並公佈同日將加入浅川梨奈、内村莉彩2名新成員。\[21\]\[22\]
   - 2014年
       - 2月12日、9th單曲「天空色的奇蹟」發售。
-      - 2月5日、這日的公演八坂沙織畢業，3名新成員浅川梨奈、内村莉彩、渡邉幸愛加入。開始12人体制。\[21\]
+      - 2月5日、這日的公演八坂沙織畢業，3名新成員浅川梨奈、内村莉彩、渡邉幸愛加入。開始12人体制。\[23\]
 
 ## 作品
 
@@ -1272,34 +1404,39 @@ AVBF-74461X</p></td>
 
 3.
 
-4.  出生在東京都、年幼時家族搬到北海道長大。
+4.  [元AKB金澤がスパガ転身 ！
+    新加入7人お披露目](https://www.nikkansports.com/entertainment/news/201812190000635.html)
+    - 日刊スポーツ 2018年12月19日
 
 5.
 6.
 7.
-
 8.
-9.  崎の字は山偏に「立」「可」が正式
 
-10. 出生在大分縣。過去に自身のブログにおいて大分県出身と書いているが、SUPER☆GiRLSの公式サイトでは福岡県出身となっている。
+9.
+10. 崎の字は山偏に「立」「可」が正式
 
-11.
+11. 出生在大分縣。過去に自身のブログにおいて大分県出身と書いているが、SUPER☆GiRLSの公式サイトでは福岡県出身となっている。
 
-12.
+12. 出生在東京都、年幼時家族搬到北海道長大。
 
-13. 当初在同年3月23日發售預定，因[東日本大震災影響而延期](../Page/東日本大震災.md "wikilink")。
+13.
 
 14.
 
-15.
+15. 当初在同年3月23日發售預定，因[東日本大震災影響而延期](../Page/東日本大震災.md "wikilink")。
 
 16.
 
 17.
 
-18. 名稱的讀音是「ミリオンスマイル」。当初在2012年4月25日發售預定。
+18.
 
 19.
-20.
+
+20. 名稱的讀音是「ミリオンスマイル」。当初在2012年4月25日發售預定。
 
 21.
+22.
+
+23.

@@ -93,8 +93,9 @@ driver對之後的Microsoft Windows版本Deus Ex更新起重要作用。
 
 ## 外部連結
 
-  - [Loki Entertainment Software, Inc.](http://lokigames.com/) — The
-    Official homepage
+  - [Loki Entertainment Software,
+    Inc.](https://web.archive.org/web/20070127061138/http://www.lokigames.com/)
+    — The Official homepage
   - [Loki Setup](http://icculus.org/loki_setup/) The Loki installer's
     new homepage
   - [Icculus.org](http://icculus.org/) Ryan Gordon's site, hosting many

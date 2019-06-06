@@ -1,6 +1,6 @@
-**SUGIZO**（）是一位[日本的音樂製作人兼創作歌手](../Page/日本.md "wikilink")。目前擔任[LUNA
-SEA和](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")[X
-JAPAN的](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[吉他及](../Page/吉他.md "wikilink")[弦樂演奏](https://zh.wikipedia.org/wiki/弦樂 "wikilink")。本名杉原康弘，曾二度改名；第一次改為杉原悠，現在為杉原有音（）。出生於日本[神奈川縣](../Page/神奈川縣.md "wikilink")[秦野市](../Page/秦野市.md "wikilink")，神奈川縣立伊勢原高中畢業。身高175cm、血型O型。在歌迷間暱稱為「」（意為「小SUGI」）。出生音樂世家，3歲開始學習[小提琴及其他樂器](../Page/小提琴.md "wikilink")。根據本人描述，「剛開始迷上搖滾樂的時候，曾和家人起了很大爭執。」，而在月之海休團期間，創設自己的唱片會社，也在自傳中提到因友人的欺騙而倒閉，而後對人生體驗更多，進而因[YOSHIKI的提議](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")，再度他後半的音樂人生，音樂創作常涉獵多種音樂風格及類型，包括搖滾樂，電子音樂，古典樂等。曾與台灣女藝人[徐若瑄及](../Page/徐若瑄.md "wikilink")[丁小芹交往過](../Page/丁小芹.md "wikilink")。
+**SUGIZO**（）是[日本男性音樂製作人兼創作歌手](../Page/日本.md "wikilink")，目前擔任[LUNA
+SEA](https://zh.wikipedia.org/wiki/LUNA_SEA "wikilink")、[X
+JAPAN兩個樂團的](https://zh.wikipedia.org/wiki/X_JAPAN "wikilink")[吉他及](../Page/吉他.md "wikilink")[弦樂演奏](https://zh.wikipedia.org/wiki/弦樂 "wikilink")。本名杉原康弘，曾二度改名；第一次改為杉原悠，現在為杉原有音（）。出生於日本[神奈川縣](../Page/神奈川縣.md "wikilink")[秦野市](../Page/秦野市.md "wikilink")，神奈川縣立伊勢原高中畢業。身高175cm、血型O型。在歌迷間暱稱為「」（意為「小SUGI」）。出生音樂世家，3歲開始學習[小提琴及其他樂器](../Page/小提琴.md "wikilink")。根據本人描述，「剛開始迷上搖滾樂的時候，曾和家人起了很大爭執。」，而在月之海休團期間，創設自己的唱片會社，也在自傳中提到因友人的欺騙而倒閉，而後對人生體驗更多，進而因[YOSHIKI的提議](https://zh.wikipedia.org/wiki/YOSHIKI "wikilink")，再度他後半的音樂人生，音樂創作常涉獵多種音樂風格及類型，包括搖滾樂，電子音樂，古典樂等。曾與台灣女藝人[徐若瑄及](../Page/徐若瑄.md "wikilink")[丁小芹交往過](../Page/丁小芹.md "wikilink")。
 
 SUGIZO亦以社會、政治及環境的理念而聞名，曾於表演及創作中融入反戰、反核理念。2011年日本東北發生大地震後，SUGIZO前往宮城縣石卷市參於救災活動，並積極呼籲民眾加入救災義工行列，其後發表反核作品《No
 More Nukes Play The Guitar》\[1\]。曾於2016年隨聯合國難民署前往約旦探訪敍利亞難民\[2\]\[3\]。
@@ -25,7 +25,7 @@ More Nukes Play The Guitar》\[1\]。曾於2016年隨聯合國難民署前往約
   - 1997年　11月，第一張個人原創專輯『TRUTH?』發行。邀請了[坂本龍一](../Page/坂本龍一.md "wikilink")、[Mick
     Karn等資深音樂家參與製作](https://zh.wikipedia.org/wiki/Mick_Karn "wikilink")。
   - 1998年　LUNA SEA的團體活動再度展開。
-  - 1998年　3月，廣播節目*ΕΛΕΥΘΕΡΙΑ*在[BayFM電台的節目改組中宣告結束](https://zh.wikipedia.org/wiki/BayFM "wikilink")。隔月在另一家電台[J-WAVE展開新節目](../Page/J-WAVE.md "wikilink")「EIN
+  - 1998年　3月，廣播節目*ΕΛΕΥΘΕΡΙΑ*在的節目改組中宣告結束。隔月在另一家電台[J-WAVE展開新節目](../Page/J-WAVE.md "wikilink")「EIN
     SOF」。
   - 1999年　發行專輯『GRAND CROSS 1999』。參與的製作團隊有土屋昌巳、JBK等人。
   - 2000年　在亞洲巡迴和東京巨蛋的終幕表演之後，LUNA SEA宣告解散。
@@ -161,7 +161,7 @@ More Nukes Play The Guitar》\[1\]。曾於2016年隨聯合國難民署前往約
 
 ## 使用吉他
 
-Sugizo Model
+### Sugizo Model
 
   - Esp Horizon Sugizo-Custom-II
   - Esp Horizon-I Sugizo Custom
@@ -216,12 +216,12 @@ Sugizo Model
   - Seymour Duncan Ds-280m-Rv
   - Seymour Duncan Dg-300R Ctm
 
-Sugizo Violin Model
+### Sugizo Violin Model
 
   - Kranz Electric Violin
   - Kranz Electric Violin Brilliant -Mixedmedia-
 
-其他吉他
+### 其他吉他
 
   - C.F.Martin 12Strings
   - C.F.Martin D-18E
@@ -252,6 +252,10 @@ Sugizo Violin Model
   - Tueffel Birdfish
   - Tueffel Tesla
   - Wul Bass
+
+## 参考资料
+
+<references />
 
 [Category:日本男歌手](https://zh.wikipedia.org/wiki/Category:日本男歌手 "wikilink")
 [Category:日本創作歌手](https://zh.wikipedia.org/wiki/Category:日本創作歌手 "wikilink")

@@ -13,7 +13,7 @@ car）都委託[鈴木汽車代工製造](https://zh.wikipedia.org/wiki/鈴木�
 
 ## DA型
 
-358c.c.水冷式OHV四行程[直列四缸](../Page/直列四缸引擎.md "wikilink")**DA型**引擎的缸徑46mm、衝程54mm，引擎壓縮比10.0:1。該具引擎曾是世界上最小的量產[四行程汽車引擎](https://zh.wikipedia.org/wiki/四冲程循环 "wikilink")，此紀錄後來被[本田汽車的](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")356c.c.直列四缸AK250E型引擎改寫。馬力輸出可分成：
+358c.c.水冷式OHV四行程[直列四缸](../Page/直列四缸引擎.md "wikilink")**DA型**引擎的缸徑46mm、衝程54mm，引擎壓縮比10.0:1。該具引擎曾是世界上最小的量產[四行程汽車引擎](../Page/四冲程循环.md "wikilink")，此紀錄後來被[本田汽車的](https://zh.wikipedia.org/wiki/本田技研工業 "wikilink")356c.c.直列四缸AK250E型引擎改寫。馬力輸出可分成：
 
 1.  最大馬力18ps / 6,800rpm，峰值扭力2.1kg·m / 5,000rpm\[1\]。
 2.  最大馬力20ps / 7,000rpm，峰值扭力2.4kg·m / 5,000rpm\[2\]。

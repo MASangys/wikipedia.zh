@@ -1,10 +1,10 @@
 [**歐洲各國的同性伴侶承認情況**
 ](https://zh.wikipedia.org/wiki/File:Same-sex_marriage_map_Europe_detailed.svg "fig:歐洲各國的同性伴侶承認情況      ")
-**女同性戀者、男同性戀者、雙性戀者與跨性別者（LGBT）在歐洲的權益**受到[歐洲聯盟與多國法律的保障](https://zh.wikipedia.org/wiki/歐洲聯盟 "wikilink")。全球23個承認同性婚姻的國家中，有14個在[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，同時英國的英格蘭、威爾斯、蘇格蘭與丹麥屬地[格陵蘭也已經先後通過同性婚姻法](https://zh.wikipedia.org/wiki/格陵蘭 "wikilink")，另有12個歐洲國家已承認[民事結合或透過其它形式承認同性結合](../Page/民事結合.md "wikilink")。儘管歐洲自[羅馬帝國後期開始有一段很長的同性戀迫害歷史](../Page/羅馬帝國.md "wikilink")，但自20世紀中葉以來，歐洲各國陸續保障LGBT權益，是各大洲中對LGBT人士最友善的一洲。
+**女同性戀者、男同性戀者、雙性戀者與跨性別者（LGBT）在歐洲的權益**受到[歐洲聯盟與多國法律的保障](https://zh.wikipedia.org/wiki/歐洲聯盟 "wikilink")。全球25個承認同性婚姻的國家中，有15個在[歐洲](https://zh.wikipedia.org/wiki/歐洲 "wikilink")，同時英國的英格蘭、威爾斯、蘇格蘭與丹麥屬地[格陵蘭也已經先後通過同性婚姻法](https://zh.wikipedia.org/wiki/格陵蘭 "wikilink")，另有12個歐洲國家和部份地區承認[民事結合或透過其它形式承認同性結合](../Page/民事結合.md "wikilink")。儘管歐洲自[羅馬帝國後期開始有一段很長的同性戀迫害歷史](../Page/羅馬帝國.md "wikilink")，但自20世紀中葉以來，歐洲各國陸續保障LGBT權益，是各大洲中對LGBT人士最友善的一洲。
 
 ## 概述
 
-即便歐洲是對待LGBT人士相對友善的一洲，不少地區對於同性戀的看法依舊很保守，包括[東歐](https://zh.wikipedia.org/wiki/東歐 "wikilink")、[巴爾幹部分國家](https://zh.wikipedia.org/wiki/巴爾幹 "wikilink")；[教廷](../Page/教廷.md "wikilink")、[俄羅斯和一些從前蘇聯獨立出來的共和國等地無法像西歐或北歐民眾那樣相對開放的對待同性戀人士](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")，[捷克](../Page/捷克.md "wikilink")、[匈牙利](../Page/匈牙利.md "wikilink")、[克羅埃西亞](https://zh.wikipedia.org/wiki/克羅埃西亞 "wikilink")、[愛沙尼亞](https://zh.wikipedia.org/wiki/愛沙尼亞 "wikilink")、[賽普勒斯](../Page/賽普勒斯.md "wikilink")、[斯洛維尼亞和](https://zh.wikipedia.org/wiki/斯洛維尼亞 "wikilink")[希臘是少數有制定法律保障同性戀權利的](https://zh.wikipedia.org/wiki/希臘 "wikilink")[巴爾幹和](https://zh.wikipedia.org/wiki/巴爾幹 "wikilink")[東歐國家](https://zh.wikipedia.org/wiki/東歐 "wikilink")，不過除希臘外，東歐國家不少是在[共產党统治時期立法](https://zh.wikipedia.org/wiki/共產党 "wikilink")，而在共產党统治结束后，新的民主政府趨向保守，東歐各國對於同性戀權利並不如[西歐或](https://zh.wikipedia.org/wiki/西歐 "wikilink")[北歐那般重視](../Page/北歐.md "wikilink")，同時近年來部分東歐國家對於LGBT的權益出現了衰退的現象，[匈牙利和](../Page/匈牙利.md "wikilink")[克羅埃西亞近期都通過修憲不承認同性婚姻](https://zh.wikipedia.org/wiki/克羅埃西亞 "wikilink")，[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")、[俄羅斯和](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[立陶宛也通過法律禁止向未成年人宣導有關同性戀的任何訊息等同壓縮該國LGBT的權益](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")。但也有例外，[阿爾巴尼亞昔日共產時期進行](https://zh.wikipedia.org/wiki/阿爾巴尼亞 "wikilink")、捍衛各種同性戀行為是屬於違法且需要監禁，不過民主化後新政府逐漸為LGBT權利制定多項法律保障，而現任[阿爾巴尼亞總理](https://zh.wikipedia.org/wiki/阿爾巴尼亞總理 "wikilink")[埃迪·拉馬更表示支持LGBT權利](https://zh.wikipedia.org/wiki/埃迪·拉馬 "wikilink")，該國的年青人較其他年齡層為接納同性戀者。另一方面，在歐洲各國人數日漸眾多的[穆斯林及](../Page/穆斯林.md "wikilink")[移民社群也幾乎非常排斥同性戀人士](../Page/移民.md "wikilink")，成為另一問題。
+即便歐洲是對待LGBT人士相對友善的一洲，不少地區對於同性戀的看法依舊很保守，包括[東歐](https://zh.wikipedia.org/wiki/東歐 "wikilink")、[巴爾幹部分國家](https://zh.wikipedia.org/wiki/巴爾幹 "wikilink")；[教廷](../Page/教廷.md "wikilink")、[俄羅斯和一些從前蘇聯獨立出來的共和國等地無法像西歐或北歐民眾那樣相對開放的對待同性戀人士](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")，[捷克](../Page/捷克.md "wikilink")、[匈牙利](../Page/匈牙利.md "wikilink")、[克羅埃西亞](https://zh.wikipedia.org/wiki/克羅埃西亞 "wikilink")、[愛沙尼亞](https://zh.wikipedia.org/wiki/愛沙尼亞 "wikilink")、[賽普勒斯](../Page/賽普勒斯.md "wikilink")、[斯洛維尼亞和](https://zh.wikipedia.org/wiki/斯洛維尼亞 "wikilink")[希臘是少數有制定法律保障同性戀權利的](https://zh.wikipedia.org/wiki/希臘 "wikilink")[巴爾幹和](https://zh.wikipedia.org/wiki/巴爾幹 "wikilink")[東歐國家](https://zh.wikipedia.org/wiki/東歐 "wikilink")，不過除希臘和賽普勒斯外，東歐國家不少是在[共產党统治時期立法](https://zh.wikipedia.org/wiki/共產党 "wikilink")，而在共產党统治结束后，新的民主政府趨向保守，東歐各國對於同性戀權利並不如[西歐或](https://zh.wikipedia.org/wiki/西歐 "wikilink")[北歐那般重視](../Page/北歐.md "wikilink")，同時近年來部分東歐國家對於LGBT的權益出現了衰退的現象，[匈牙利和](../Page/匈牙利.md "wikilink")[克羅埃西亞近期都通過修憲不承認同性婚姻](https://zh.wikipedia.org/wiki/克羅埃西亞 "wikilink")，[波蘭](https://zh.wikipedia.org/wiki/波蘭 "wikilink")、[俄羅斯和](https://zh.wikipedia.org/wiki/俄羅斯 "wikilink")[立陶宛也通過法律禁止向未成年人宣導有關同性戀的任何訊息等同壓縮該國LGBT的權益](https://zh.wikipedia.org/wiki/立陶宛 "wikilink")。但也有例外，[阿爾巴尼亞昔日共產時期進行](https://zh.wikipedia.org/wiki/阿爾巴尼亞 "wikilink")、捍衛各種同性戀行為是屬於違法且需要監禁，不過民主化後新政府逐漸為LGBT權利制定多項法律保障，而現任[阿爾巴尼亞總理](https://zh.wikipedia.org/wiki/阿爾巴尼亞總理 "wikilink")[埃迪·拉馬更表示支持LGBT權利](https://zh.wikipedia.org/wiki/埃迪·拉馬 "wikilink")，該國的年青人較其他年齡層為接納同性戀者。另一方面，在歐洲各國人數日漸眾多的[穆斯林及](../Page/穆斯林.md "wikilink")[移民社群也幾乎非常排斥同性戀人士](../Page/移民.md "wikilink")，成為另一問題。
 
 ## 歷史
 
@@ -24,9 +24,9 @@
 
 ## 近代發展
 
-[愛爾蘭上下議院已在](https://zh.wikipedia.org/wiki/愛爾蘭共和國 "wikilink")[2010年7月通過](../Page/2010年7月.md "wikilink")《2009年公民伴侶與相關權利及義務條例草案》\[4\]；[英國的兩個海外屬地](https://zh.wikipedia.org/wiki/英國 "wikilink")[澤西島與](https://zh.wikipedia.org/wiki/澤西島 "wikilink")[曼島也正考慮要在](../Page/曼島.md "wikilink")2010年通過民事結合法案\[5\]\[6\]；[賽普勒斯和](../Page/賽普勒斯.md "wikilink")[希臘已於在](https://zh.wikipedia.org/wiki/希臘 "wikilink")2015年底先後通過同性伴侶登記法。[愛沙尼亞則於在](https://zh.wikipedia.org/wiki/愛沙尼亞 "wikilink")2016年通過同性伴侶登記法。
+[奧地利和](https://zh.wikipedia.org/wiki/奧地利 "wikilink")[瑞士正在延擬是否讓同性婚姻在該國合法化](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，外媒預料受德國同婚的影響，這兩國日後出現同婚合法的機率將大大提高。其中[奧地利憲法法院](https://zh.wikipedia.org/wiki/奧地利 "wikilink")2017年12月4日公布的裁決指出，阻止這類伴侶結婚的法律無效，若政府未盡速修改法律，同性婚姻的限制將在2018年底解除，目前奧地利的同性婚姻自[2019年1月](../Page/2019年1月.md "wikilink")1日起正式生效。
 
-[奧地利和](https://zh.wikipedia.org/wiki/奧地利 "wikilink")[瑞士正在延擬是否讓同性婚姻在該國合法化](https://zh.wikipedia.org/wiki/瑞士 "wikilink")，外媒預料受德國同婚的影響，這兩國日後出現同婚合法的機率將大大提高。其中[奧地利憲法法院](https://zh.wikipedia.org/wiki/奧地利 "wikilink")2017年12月4日公布的裁決指出，阻止這類伴侶結婚的法律無效，若政府未盡速修改法律，同性婚姻的限制將在2018年底解除，奧地利的同性婚姻自[2019年1月](../Page/2019年1月.md "wikilink")1日起生效。
+[聖馬利諾也於](https://zh.wikipedia.org/wiki/聖馬利諾 "wikilink")2019年正式通過同性伴侶法。
 
 除了[白俄羅斯](https://zh.wikipedia.org/wiki/白俄羅斯 "wikilink")、[賽普勒斯](../Page/賽普勒斯.md "wikilink")、[拉脫維亞](../Page/拉脫維亞.md "wikilink")、[塞爾維亞](https://zh.wikipedia.org/wiki/塞爾維亞 "wikilink")、[希臘與](https://zh.wikipedia.org/wiki/希臘 "wikilink")[土耳其外](../Page/土耳其.md "wikilink")，其它歐洲國家都允許同性戀者在軍中公開身份服役。希臘和[直布羅陀是歐洲目前唯二對同性戀者有較高同意年齡的地區](https://zh.wikipedia.org/wiki/直布羅陀 "wikilink")，其它歐洲諸國皆給予同性戀者平等的同意年齡。
 
@@ -38,7 +38,7 @@
 <tbody>
 <tr class="odd">
 <td><center>
-<p>2015年欧洲调查：每个国家“完全同意”或“倾向于同意”“LGB人群应该拥有与异性恋者相同的权利。”的人数百分比 [7]</p>
+<p>2015年欧洲调查：每个国家“完全同意”或“倾向于同意”“LGB人群应该拥有与异性恋者相同的权利。”的人数百分比 [4]</p>
 </center></td>
 </tr>
 <tr class="even">
@@ -133,9 +133,9 @@
 
 [歐洲各國的同性領養合法性地圖
 ](https://zh.wikipedia.org/wiki/File:Gay_Adoption_Map_Europe.svg "fig:歐洲各國的同性領養合法性地圖    ")
-2002年，[皮尤研究中心做的一項全球態度統計表示](../Page/皮尤研究中心.md "wikilink")，多數西歐國家認為同性戀應被社會接納，而多數[俄羅斯人](../Page/俄羅斯人.md "wikilink")、烏克蘭人與波蘭人則表示反對\[8\]。在2006年的歐盟民意調查中，歐盟對當時的27個成員國進行同性婚姻的輿論調查，包括荷蘭（82%）、瑞典（71%）、丹麥（69%）、比利時（62%）、盧森堡（58%）、西班牙（56%）、德國（52%）、捷克（52%）均表示支持，而支持率低於50%的則有馬耳他（18%）、匈牙利（18%）、波蘭（17%）、立陶宛（17%）、希臘（15%）、保加利亞（15%）、賽普勒斯（14%）、拉脫維亞（11%）與羅馬尼亞（11%）等國\[9\]。而在[同性領養議題上](https://zh.wikipedia.org/wiki/同性領養 "wikilink")，荷蘭和瑞典各有69%、51%的支持率，最不支持的波蘭與馬耳他則只有7%\[10\]。
+2002年，[皮尤研究中心做的一項全球態度統計表示](../Page/皮尤研究中心.md "wikilink")，多數西歐國家認為同性戀應被社會接納，而多數[俄羅斯人](../Page/俄羅斯人.md "wikilink")、烏克蘭人與波蘭人則表示反對\[5\]。在2006年的歐盟民意調查中，歐盟對當時的27個成員國進行同性婚姻的輿論調查，包括荷蘭（82%）、瑞典（71%）、丹麥（69%）、比利時（62%）、盧森堡（58%）、西班牙（56%）、德國（52%）、捷克（52%）均表示支持，而支持率低於50%的則有馬耳他（18%）、匈牙利（18%）、波蘭（17%）、立陶宛（17%）、希臘（15%）、保加利亞（15%）、賽普勒斯（14%）、拉脫維亞（11%）與羅馬尼亞（11%）等國\[6\]。而在[同性領養議題上](https://zh.wikipedia.org/wiki/同性領養 "wikilink")，荷蘭和瑞典各有69%、51%的支持率，最不支持的波蘭與馬耳他則只有7%\[7\]。
 
-[2008年10月的另一項調查顯示](../Page/2008年10月.md "wikilink")，55%的英國人支持同性婚姻，其它民意調查也顯示愛爾蘭民眾與民間團體對同性收養的支持率為51%與50%\[11\]\[12\]；法國對同性婚姻有61%的支持率，但俄羅斯則只有14%\[13\]\[14\]；義大利民眾對《民事同性伴侶法》有45%與47%的支持率和反對率，2009年對義大利民間團體做的調查中，有40.4%支持同性婚姻\[15\]。據歐洲蓋洛普民意測驗分析：婦女、年輕族群與受過高等教育者支持同性婚姻與同性領養的比例均較高。
+[2008年10月的另一項調查顯示](../Page/2008年10月.md "wikilink")，55%的英國人支持同性婚姻，其它民意調查也顯示愛爾蘭民眾與民間團體對同性收養的支持率為51%與50%\[8\]\[9\]；法國對同性婚姻有61%的支持率，但俄羅斯則只有14%\[10\]\[11\]；義大利民眾對《民事同性伴侶法》有45%與47%的支持率和反對率，2009年對義大利民間團體做的調查中，有40.4%支持同性婚姻\[12\]。據歐洲蓋洛普民意測驗分析：婦女、年輕族群與受過高等教育者支持同性婚姻與同性領養的比例均較高。
 
 <table>
 <caption>关于同性收养的民意调查</caption>
@@ -154,19 +154,27 @@
 <td></td>
 <td><p>IMAS</p></td>
 <td><p>2015</p></td>
-<td><p>%[16]</p></td>
-<td><p><strong><span style="color:red;">%</span></strong>[17]</p></td>
+<td><p>%[13]</p></td>
+<td><p><strong><span style="color:red;">%</span></strong>[14]</p></td>
 <td><p>%</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>Ipsos</p></td>
 <td><p>2013</p></td>
-<td><p><strong><span style="color:green;">%</span></strong>[18]</p></td>
-<td><p>%[19]</p></td>
-<td><p>%[20]</p></td>
+<td><p><strong><span style="color:green;">%</span></strong>[15]</p></td>
+<td><p>%[16]</p></td>
+<td><p>%[17]</p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>Eurobarometer</p></td>
+<td><p>2006</p></td>
+<td><p>%[18]</p></td>
+<td><p><strong><span style="color:red;">%</span></strong>[19]</p></td>
+<td><p>%[20]</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td><p>Eurobarometer</p></td>
 <td><p>2006</p></td>
@@ -174,27 +182,19 @@
 <td><p><strong><span style="color:red;">%</span></strong>[22]</p></td>
 <td><p>%[23]</p></td>
 </tr>
-<tr class="even">
-<td></td>
-<td><p>Eurobarometer</p></td>
-<td><p>2006</p></td>
-<td><p>%[24]</p></td>
-<td><p><strong><span style="color:red;">%</span></strong>[25]</p></td>
-<td><p>%[26]</p></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td><p>Median</p></td>
 <td><p>2018</p></td>
-<td><p><strong><span style="color:green;">%</span></strong>[27]</p></td>
-<td><p>%[28]</p></td>
-<td><p>%[29]</p></td>
+<td><p><strong><span style="color:green;">%</span></strong>[24]</p></td>
+<td><p>%[25]</p></td>
+<td><p>%[26]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>Pew Research Center</p></td>
 <td><p>2017</p></td>
-<td><p><strong><span style="color:green;">%</span></strong>[30]</p></td>
+<td><p><strong><span style="color:green;">%</span></strong>[27]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -202,23 +202,23 @@
 <td></td>
 <td><p>ASi</p></td>
 <td><p>2012</p></td>
-<td><p>%[31]</p></td>
-<td><p><strong><span style="color:red;">%</span></strong>[32]</p></td>
-<td><p>%[33]</p></td>
+<td><p>%[28]</p></td>
+<td><p><strong><span style="color:red;">%</span></strong>[29]</p></td>
+<td><p>%[30]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>Taloustutkimus</p></td>
 <td><p>2013</p></td>
-<td><p><strong><span style="color:green;">%</span></strong>[34]</p></td>
-<td><p>%[35]</p></td>
-<td><p>%[36]</p></td>
+<td><p><strong><span style="color:green;">%</span></strong>[31]</p></td>
+<td><p>%[32]</p></td>
+<td><p>%[33]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>Pew Research Center</p></td>
 <td><p>2017</p></td>
-<td><p><strong><span style="color:green;">%</span></strong>[37]</p></td>
+<td><p><strong><span style="color:green;">%</span></strong>[34]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -226,7 +226,7 @@
 <td></td>
 <td><p>Pew Research Center</p></td>
 <td><p>2017</p></td>
-<td><p><strong><span style="color:green;">%</span></strong>[38]</p></td>
+<td><p><strong><span style="color:green;">%</span></strong>[35]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -234,23 +234,23 @@
 <td></td>
 <td><p>DiaNeosis</p></td>
 <td><p>2017</p></td>
-<td><p>%[39]</p></td>
-<td><p><strong><span style="color:red;">%</span></strong>[40]</p></td>
-<td><p>%[41]</p></td>
+<td><p>%[36]</p></td>
+<td><p><strong><span style="color:red;">%</span></strong>[37]</p></td>
+<td><p>%[38]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>Eurobarometer</p></td>
 <td><p>2006</p></td>
-<td><p>%[42]</p></td>
-<td><p><strong><span style="color:red;">%</span></strong>[43]</p></td>
-<td><p>%[44]</p></td>
+<td><p>%[39]</p></td>
+<td><p><strong><span style="color:red;">%</span></strong>[40]</p></td>
+<td><p>%[41]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>Red C Poll</p></td>
 <td><p>2011</p></td>
-<td><p><strong><span style="color:green;">%</span></strong>[45]</p></td>
+<td><p><strong><span style="color:green;">%</span></strong>[42]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -258,11 +258,19 @@
 <td></td>
 <td><p>Pew Research Center</p></td>
 <td><p>2017</p></td>
-<td><p>%[46]</p></td>
+<td><p>%[43]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="odd">
+<td></td>
+<td><p>Eurobarometer</p></td>
+<td><p>2006</p></td>
+<td><p>%[44]</p></td>
+<td><p><strong><span style="color:red;">%</span></strong>[45]</p></td>
+<td><p>%[46]</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td><p>Eurobarometer</p></td>
 <td><p>2006</p></td>
@@ -270,27 +278,19 @@
 <td><p><strong><span style="color:red;">%</span></strong>[48]</p></td>
 <td><p>%[49]</p></td>
 </tr>
-<tr class="even">
-<td></td>
-<td><p>Eurobarometer</p></td>
-<td><p>2006</p></td>
-<td><p>%[50]</p></td>
-<td><p><strong><span style="color:red;">%</span></strong>[51]</p></td>
-<td><p>%[52]</p></td>
-</tr>
 <tr class="odd">
 <td></td>
 <td><p>Politmonitor</p></td>
 <td><p>2013</p></td>
-<td><p><strong><span style="color:green;">%</span></strong>[53]</p></td>
-<td><p>%[54]</p></td>
-<td><p>%[55]</p></td>
+<td><p><strong><span style="color:green;">%</span></strong>[50]</p></td>
+<td><p>%[51]</p></td>
+<td><p>%[52]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>Misco</p></td>
 <td><p>2014</p></td>
-<td><p>%[56]</p></td>
+<td><p>%[53]</p></td>
 <td><p><strong><span style="color:red;">%</span></strong></p></td>
 <td><p>-</p></td>
 </tr>
@@ -298,7 +298,7 @@
 <td></td>
 <td><p>Pew Research Center</p></td>
 <td><p>2017</p></td>
-<td><p><strong><span style="color:green;">%</span></strong>[57]</p></td>
+<td><p><strong><span style="color:green;">%</span></strong>[54]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -314,31 +314,31 @@
 <td></td>
 <td><p>Ipsos</p></td>
 <td><p>2017</p></td>
-<td><p>%[58]</p></td>
-<td><p><strong><span style="color:red;">%[59]</span></strong></p></td>
-<td><p>%[60]</p></td>
+<td><p>%[55]</p></td>
+<td><p><strong><span style="color:red;">%[56]</span></strong></p></td>
+<td><p>%[57]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>Pew Research Center</p></td>
 <td><p>2017</p></td>
-<td><p><strong><span style="color:green;">%</span></strong>[61]</p></td>
-<td><p>%[62]</p></td>
-<td><p>%[63]</p></td>
+<td><p><strong><span style="color:green;">%</span></strong>[58]</p></td>
+<td><p>%[59]</p></td>
+<td><p>%[60]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>Eurobarometer</p></td>
 <td><p>2006</p></td>
-<td><p>%[64]</p></td>
-<td><p><strong><span style="color:red;">%</span></strong>[65]</p></td>
-<td><p>%[66]</p></td>
+<td><p>%[61]</p></td>
+<td><p><strong><span style="color:red;">%</span></strong>[62]</p></td>
+<td><p>%[63]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>VTsIOM</p></td>
 <td><p>2015</p></td>
-<td><p>%[67]</p></td>
+<td><p>%[64]</p></td>
 <td><p><strong><span style="color:red;">%</span></strong></p></td>
 <td><p>%</p></td>
 </tr>
@@ -346,7 +346,7 @@
 <td></td>
 <td><p>GSA</p></td>
 <td><p>2010</p></td>
-<td><p>%[68]</p></td>
+<td><p>%[65]</p></td>
 <td><p><strong><span style="color:red;">%</span></strong></p></td>
 <td><p>%</p></td>
 </tr>
@@ -354,23 +354,23 @@
 <td></td>
 <td><p>Eurobarometer</p></td>
 <td><p>2006</p></td>
-<td><p>%[69]</p></td>
-<td><p><strong><span style="color:red;">%</span></strong>[70]</p></td>
-<td><p>%[71]</p></td>
+<td><p>%[66]</p></td>
+<td><p><strong><span style="color:red;">%</span></strong>[67]</p></td>
+<td><p>%[68]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>Delo Stik</p></td>
 <td><p>2015</p></td>
-<td><p>%[72]</p></td>
-<td><p><strong><span style="color:red;">%</span></strong>[73]</p></td>
-<td><p>%[74]</p></td>
+<td><p>%[69]</p></td>
+<td><p><strong><span style="color:red;">%</span></strong>[70]</p></td>
+<td><p>%[71]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>Pew Research Center</p></td>
 <td><p>2017</p></td>
-<td><p><strong><span style="color:green;">%</span></strong>[75]</p></td>
+<td><p><strong><span style="color:green;">%</span></strong>[72]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -378,7 +378,7 @@
 <td></td>
 <td><p>Pew Research Center</p></td>
 <td><p>2017</p></td>
-<td><p><strong><span style="color:green;">%</span></strong>[76]</p></td>
+<td><p><strong><span style="color:green;">%</span></strong>[73]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -386,24 +386,24 @@
 <td></td>
 <td><p>Pink Cross</p></td>
 <td><p>2016</p></td>
-<td><p><strong><span style="color:green;">%</span></strong>[77]</p></td>
-<td><p>%[78]</p></td>
-<td><p>%[79]</p></td>
+<td><p><strong><span style="color:green;">%</span></strong>[74]</p></td>
+<td><p>%[75]</p></td>
+<td><p>%[76]</p></td>
 </tr>
 <tr class="odd">
 <td></td>
 <td><p>Gay Alliance of Ukraine</p></td>
 <td><p>2013</p></td>
-<td><p>%[80]</p></td>
-<td><p><strong><span style="color:red;">%</span></strong>[81]</p></td>
+<td><p>%[77]</p></td>
+<td><p><strong><span style="color:red;">%</span></strong>[78]</p></td>
 <td><p>%<br />
-%允许一些例外[82]</p></td>
+%允许一些例外[79]</p></td>
 </tr>
 <tr class="even">
 <td></td>
 <td><p>Pew Research Center</p></td>
 <td><p>2017</p></td>
-<td><p><strong><span style="color:green;">%</span></strong>[83]</p></td>
+<td><p><strong><span style="color:green;">%</span></strong>[80]</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
@@ -451,12 +451,12 @@
 6.
 
 7.
-
 8.
 
 9.
 
 10.
+
 11.
 
 12.
@@ -464,84 +464,82 @@
 13.
 
 14.
-
 15.
 
 16.
-
 17.
 18.
 
 19.
 20.
 21.
-
 22.
 23.
 24.
+
 25.
 26.
 27.
 
 28.
+
 29.
 30.
-
 31.
 
 32.
 33.
 34.
-
 35.
 36.
+
 37.
 38.
 39.
-
 40.
 41.
 42.
+
 43.
 44.
 45.
-
 46.
 47.
 48.
 49.
 50.
+
 51.
 52.
 53.
 
 54.
 55.
-56.
 
+56.
 57.
 58.
 
 59.
 60.
 61.
-
 62.
 63.
 64.
+
 65.
+
 66.
 67.
-
 68.
-
 69.
+
 70.
 71.
 72.
-
 73.
 74.
+
 75.
 76.
 77.
@@ -549,7 +547,3 @@
 78.
 79.
 80.
-
-81.
-82.
-83.

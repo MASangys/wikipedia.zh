@@ -33,7 +33,7 @@ Mod有每个文件使用一个队列、记录最后请求时间等自己独有�
 
   - [emule-mods.de上的X-Ray页面](http://www.emule-mods.de/?mods=X-Ray)
 
-  - [emulefans.com（电骡爱好者）blog上的X-Ray页面](http://emulefans.com/news/emule/xray/)
+  - [emulefans.com（电骡爱好者）blog上的X-Ray页面](https://web.archive.org/web/20100705124844/http://emulefans.com/news/emule/xray/)
 
   - [德语emule-web.de论坛](http://www.emule-web.de/board/)
 

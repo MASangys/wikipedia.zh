@@ -185,7 +185,7 @@ Jr.展示了一個AKS的變體](https://zh.wikipedia.org/wiki/endrik_Lenstra "wi
     by Anton Stiglic
 
   - [2006 Gödel Prize
-    Citation](http://www.sigact.org/Prizes/Godel/2006.html)
+    Citation](https://web.archive.org/web/20150327071905/http://www.sigact.org/Prizes/Godel/2006.html)
 
   - [2006 Fulkerson Prize
     Citation](http://www.ams.org/notices/200611/comm-fulkerson.pdf)

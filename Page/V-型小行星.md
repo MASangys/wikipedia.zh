@@ -23,7 +23,7 @@ Nyx](../Page/小行星3908.md "wikilink")。
 V-型小行星也有一些離散型的集團，散佈在灶神星族的鄰近地區，但不是灶神星族的成員。它們包括\[3\]:
 
   - [809
-    Lundia](https://zh.wikipedia.org/wiki/小行星809 "wikilink")：軌道在[花神星族的區域內](../Page/花神星族.md "wikilink")。
+    Lundia](../Page/小行星809.md "wikilink")：軌道在[花神星族的區域內](../Page/花神星族.md "wikilink")。
   - [956 Elisa](../Page/小行星956.md "wikilink")
   - [1459
     Magnya](../Page/小行星1459.md "wikilink")：軌道在[主帶之外](https://zh.wikipedia.org/wiki/小行星帶 "wikilink")，距離一般認為有關聯的灶神星太遠，可能是在很早之前就被擊碎的，不同的古老天體的殘餘物。

@@ -4,8 +4,11 @@ Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》正式出道
 
 Boyfriend的韓國歌迷名稱為Best friend（）。
 Best就是指無論何時何地都在Boyfriend的身邊，成為一個堅不可摧、最棒的支持者；而Friend是隨著Boyfriend的「Friend」所決定的，有著永遠成為Boyfriend的好朋友的意思。同時，這亦意味著Best
-Friend無論在何時都會守護在Boyfriend的身邊，成為他們最好的朋友。**而Boyfriend的日本歌迷名稱為Dear
+Friend無論在何時都會守護在Boyfriend的身邊，成為他們最好的朋友。**Boyfriend的日本歌迷名稱為Dear
 friend，但不常使用。**
+
+2019年5月17日，
+[STARSHIP娛樂宣布合約到期](../Page/STARSHIP娛樂.md "wikilink")，6位成員皆不續約，團體解散\[2\]。
 
 ## 经历
 
@@ -23,7 +26,7 @@ touch my girl》。12月8日，發行第三張單曲《I'll be there》。
 ### 2012年：榮獲新人獎、日本出道、發行首張迷你專輯及首張正規專輯
 
 4月19日，官方宣布Boyfriend已經簽約旗下有[ZARD](../Page/ZARD.md "wikilink")、[倉木麻衣等日本國民歌手的](../Page/倉木麻衣.md "wikilink")[日本知名娛樂公司](../Page/日本.md "wikilink")[Being](../Page/Being_\(公司\).md "wikilink")，並將於6月30日在可容納1萬名觀眾的[日本武道館舉辦大型出道Showcase](../Page/日本武道館.md "wikilink")。從6月6日在日本發行特輯專輯《We
-are BOYFRIEND》開始，在日本全面展開活動。\[2\]6月19日，發行首張迷你專輯《Love
+are BOYFRIEND》開始，在日本全面展開活動。\[3\]6月19日，發行首張迷你專輯《Love
 Style》。11月13日，發行首張正規專輯《Janus》。
 
 ### 2013年：首張改版正規專輯
@@ -33,7 +36,7 @@ Style》。11月13日，發行首張正規專輯《Janus》。
 ### 2014年：第二張及第三張迷你專輯，舉辦韓國首場單獨演唱會
 
 6月8日，時隔1年6個月發行第二張迷你專輯《OBSESSION》。10月13日，發行第三張迷你專輯《WITCH》。11月11日，BOYFRIEND在《THE
-SHOW》以歌曲<WITCH>獲出道以来首個一位。\[3\]11月23日，於首爾奧林匹克公園奧林匹克大廳舉辦韓國首場單獨演唱會《2014
+SHOW》以歌曲<WITCH>獲出道以来首個一位。\[4\]11月23日，於首爾奧林匹克公園奧林匹克大廳舉辦韓國首場單獨演唱會《2014
 Boyfriend The First Chapter in Seoul "BEWITCH"》。
 
 ### 2015年：第四張迷你專輯、签约新日本唱片公司
@@ -49,22 +52,26 @@ day等歌手的](https://zh.wikipedia.org/wiki/Girl's_day "wikilink")[日本娛�
 ### 2017年：第五張迷你專輯《Never End》、成员参加選秀節目《The Unit》
 
 8月9日，发行第五張迷你專輯《Never End》**。**8月27日，消息透露BOYFRIEND將出演KBS選秀節目《[The
-Unit](../Page/The_Unit.md "wikilink")》，並正在調整日程。\[4\]9月19日，官方推特發佈新聞網址，出演KBS選秀節目《[The
-Unit](../Page/The_Unit.md "wikilink")》的成員名單：東玄、正珉、光旻、珉玗。\[5\]
+Unit](../Page/The_Unit.md "wikilink")》，並正在調整日程。\[5\]9月19日，官方推特發佈新聞網址，出演KBS選秀節目《[The
+Unit](../Page/The_Unit.md "wikilink")》的成員名單：東玄、正珉、光旻、珉玗。\[6\]
 结果只有队长[東玄成功入选選秀節目](https://zh.wikipedia.org/wiki/東玄 "wikilink")《The
 Unit》。
 
 ### 2018年：選秀節目《The Unit》结束、出道七年
 
 2月10日，《The
-Unit》最後一集，東玄最終以第12名落敗，未能進入限定組合。5月25日，發行由成員正珉所創作的出道7周年紀念單曲《狐狸雨》。5月26日，Boyfriend出道七周年，並於同日在首爾同德女子大學百周年紀念館舉行《BOYFRIEND
+Unit》最後一集，東玄最終以第12名落敗，未能進入限定組合。5月25日，發行由成員正珉所創作的出道7周年紀念單曲《太陽雨》。5月26日，Boyfriend出道七周年，並於同日在首爾同德女子大學百周年紀念館舉行《BOYFRIEND
 Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡》。
+
+### 2019年：團體解散
+
+5月17日， [STARSHIP娛樂宣布合約結束](../Page/STARSHIP娛樂.md "wikilink")，團體解散。
 
 ## 成員資料
 
 ### 现任成员
 
-| 成員列表                                               |
+| 已離開成員                                              |
 | -------------------------------------------------- |
 | 藝名                                                 |
 | 漢字                                                 |
@@ -77,9 +84,10 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 
 ### 出道前预备成员
 
-  - [Ten](../Page/Ten_\(歌手\).md "wikilink")（现为[SM娱乐旗下](../Page/SM娛樂.md "wikilink")[NCT组合成员](../Page/NCT.md "wikilink")）
   - 允浩（现为[A
     team娱乐旗下](https://zh.wikipedia.org/wiki/A_team娱乐 "wikilink")[VAV组合成员Ayno](../Page/VAV.md "wikilink")）
+  - TNT（現為[SM
+    娛樂旗下](https://zh.wikipedia.org/wiki/SM_娛樂 "wikilink")[NCT成員](../Page/NCT.md "wikilink")）
 
 ## 影视作品
 
@@ -359,7 +367,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 | 2015年4月10日 | 《韩ON\! ファイティン                                      | 》     | 全體成員 |
 | 2015年4月16日 | 《我愛偶像》                                             | 全體成員  |      |
 | 2015年4月20日 | 《安妞韓流》                                             | 全體成員  |      |
-| 2015年5月19日 | 《IDOL星地標》\[6\]                                     | 全體成員  |      |
+| 2015年5月19日 | 《IDOL星地標》\[7\]                                     | 全體成員  |      |
 |            |                                                    |       |      |
 
 |             |                             |       |    |
@@ -379,7 +387,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 | 2016年3月29日  | 《Beauty Station》            | 東玄    | MC |
 | 2016年4月5日   | 《Beauty Station》            | 東玄    | MC |
 | 2016年4月12日  | 《Beauty Station》            | 東玄    | MC |
-| 2016年4月14日  | 《KCON 2016 JAPAN 特輯放送》\[7\] | 全體成員  |    |
+| 2016年4月14日  | 《KCON 2016 JAPAN 特輯放送》\[8\] | 全體成員  |    |
 | 2016年4月19日  | 《Beauty Station》            | 東玄    | MC |
 | 2016年4月26日  | 《Beauty Station》            | 東玄    | MC |
 | 2016年5月10日  | 《Beauty Station》            | 東玄    | MC |
@@ -649,7 +657,7 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 </tr>
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
-<td><p>《<strong>瞳のメロディ</strong>》[8]</p>
+<td><p>《<strong>瞳のメロディ</strong>》[9]</p>
 <ul>
 <li>發行日期：2013年3月27日</li>
 <li>語言：日語</li>
@@ -909,34 +917,34 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 |                                                |                                           |                                                                                               |                                                                                                                                                        |
 | ---------------------------------------------- | ----------------------------------------- | --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 年份                                             | 歌曲                                        | 片長                                                                                            | MV                                                                                                                                                     |
-| 2011                                           | Let's Get It Started                      | 1:00                                                                                          | Water floor Teaser\[9\]                                                                                                                                |
-| Boyfriend                                      | 3:07                                      | Boyfriend\[10\]                                                                               |                                                                                                                                                        |
-| 내 여자 손대지마 <small>(Don't touch my girl)</small> | 3:46                                      | Don't touch my girl\[11\]                                                                     |                                                                                                                                                        |
-| 3:34                                           | Don't touch my girl (Dance Version)\[12\] |                                                                                               |                                                                                                                                                        |
-| 내가 갈게 <small>(I'll be there)</small>           | 3:54                                      | I'll be there\[13\]                                                                           |                                                                                                                                                        |
-| 2012                                           | Love Style                                | 3:12                                                                                          | Love Style\[14\]                                                                                                                                       |
-| Be my shine ～君を離さない～                           | 3:50                                      | Be my shine ～君を離さない～\[15\]                                                                    |                                                                                                                                                        |
-| 야누스 <small>(Janus)</small>                     | 3:31                                      | Janus\[16\]                                                                                   |                                                                                                                                                        |
-| キミとDance Dance Dance                           | 4:43                                      | キミとDance Dance Dance\[17\]                                                                    |                                                                                                                                                        |
-| MY LADY ～冬の恋人～                                 | 3:48                                      | MY LADY ～冬の恋人～\[18\]                                                                          |                                                                                                                                                        |
-| 2013                                           | 아이야 <small>(I Yah)</small>                | 3:40                                                                                          | I Yah\[19\]                                                                                                                                            |
-| 瞳のメロディ                                         | 5:08                                      | 瞳のメロディ\[20\]                                                                                  |                                                                                                                                                        |
-| ON\&ON(온앤온)                                    | 3:21                                      | ON\&ON\[21\]                                                                                  |                                                                                                                                                        |
-| 2014                                           | My Avatar                                 | 4:39                                                                                          | My Avatar\[22\]                                                                                                                                        |
-| スタートアップ！(Start up\!)                           | 4:27                                      | Start up\!\[23\]                                                                              |                                                                                                                                                        |
-| OBSESSION(너란 여자)                               | 3:30                                      | OBSESSION\[24\]                                                                               |                                                                                                                                                        |
-| ALARM(알람)                                      | 3:17                                      | ALARM\[25\]                                                                                   |                                                                                                                                                        |
-| Here\!                                         | 3:14                                      | Here\!\[26\]                                                                                  |                                                                                                                                                        |
-| WITCH                                          | 3:56                                      | WITCH\[27\]                                                                                   |                                                                                                                                                        |
-| WHITE OUT                                      | 3:59                                      | WHITE OUT\[28\]                                                                               |                                                                                                                                                        |
-| 2015                                           | BOUNCE                                    | 3:35                                                                                          | BOUNCE\[29\]                                                                                                                                           |
-| 2016                                           | GLIDER                                    | 4:27                                                                                          | GLIDER\[30\]                                                                                                                                           |
-| 역속할개<small>(To My Bestfriend)</small>          | 3:42                                      | To My Bestfriend\[31\]                                                                        |                                                                                                                                                        |
-| Jackpot                                        | 3:53                                      | Jackpot\[32\]                                                                                 |                                                                                                                                                        |
-| 2017                                           | I Miss You                                | 3:47                                                                                          | I Miss You\[33\]                                                                                                                                       |
-| Summer                                         | 4:06                                      | Summer\[34\]                                                                                  |                                                                                                                                                        |
-| Star                                           | 3:58                                      | Star\[35\]                                                                                    |                                                                                                                                                        |
-| 2018                                           | Try my wings                              | 4:05                                                                                          | Try my wings\[36\]                                                                                                                                     |
+| 2011                                           | Let's Get It Started                      | 1:00                                                                                          | Water floor Teaser\[10\]                                                                                                                               |
+| Boyfriend                                      | 3:07                                      | Boyfriend\[11\]                                                                               |                                                                                                                                                        |
+| 내 여자 손대지마 <small>(Don't touch my girl)</small> | 3:46                                      | Don't touch my girl\[12\]                                                                     |                                                                                                                                                        |
+| 3:34                                           | Don't touch my girl (Dance Version)\[13\] |                                                                                               |                                                                                                                                                        |
+| 내가 갈게 <small>(I'll be there)</small>           | 3:54                                      | I'll be there\[14\]                                                                           |                                                                                                                                                        |
+| 2012                                           | Love Style                                | 3:12                                                                                          | Love Style\[15\]                                                                                                                                       |
+| Be my shine ～君を離さない～                           | 3:50                                      | Be my shine ～君を離さない～\[16\]                                                                    |                                                                                                                                                        |
+| 야누스 <small>(Janus)</small>                     | 3:31                                      | Janus\[17\]                                                                                   |                                                                                                                                                        |
+| キミとDance Dance Dance                           | 4:43                                      | キミとDance Dance Dance\[18\]                                                                    |                                                                                                                                                        |
+| MY LADY ～冬の恋人～                                 | 3:48                                      | MY LADY ～冬の恋人～\[19\]                                                                          |                                                                                                                                                        |
+| 2013                                           | 아이야 <small>(I Yah)</small>                | 3:40                                                                                          | I Yah\[20\]                                                                                                                                            |
+| 瞳のメロディ                                         | 5:08                                      | 瞳のメロディ\[21\]                                                                                  |                                                                                                                                                        |
+| ON\&ON(온앤온)                                    | 3:21                                      | ON\&ON\[22\]                                                                                  |                                                                                                                                                        |
+| 2014                                           | My Avatar                                 | 4:39                                                                                          | My Avatar\[23\]                                                                                                                                        |
+| スタートアップ！(Start up\!)                           | 4:27                                      | Start up\!\[24\]                                                                              |                                                                                                                                                        |
+| OBSESSION(너란 여자)                               | 3:30                                      | OBSESSION\[25\]                                                                               |                                                                                                                                                        |
+| ALARM(알람)                                      | 3:17                                      | ALARM\[26\]                                                                                   |                                                                                                                                                        |
+| Here\!                                         | 3:14                                      | Here\!\[27\]                                                                                  |                                                                                                                                                        |
+| WITCH                                          | 3:56                                      | WITCH\[28\]                                                                                   |                                                                                                                                                        |
+| WHITE OUT                                      | 3:59                                      | WHITE OUT\[29\]                                                                               |                                                                                                                                                        |
+| 2015                                           | BOUNCE                                    | 3:35                                                                                          | BOUNCE\[30\]                                                                                                                                           |
+| 2016                                           | GLIDER                                    | 4:27                                                                                          | GLIDER\[31\]                                                                                                                                           |
+| 역속할개<small>(To My Bestfriend)</small>          | 3:42                                      | To My Bestfriend\[32\]                                                                        |                                                                                                                                                        |
+| Jackpot                                        | 3:53                                      | Jackpot\[33\]                                                                                 |                                                                                                                                                        |
+| 2017                                           | I Miss You                                | 3:47                                                                                          | I Miss You\[34\]                                                                                                                                       |
+| Summer                                         | 4:06                                      | Summer\[35\]                                                                                  |                                                                                                                                                        |
+| Star                                           | 3:58                                      | Star\[36\]                                                                                    |                                                                                                                                                        |
+| 2018                                           | Try my wings                              | 4:05                                                                                          | Try my wings\[37\]                                                                                                                                     |
 | 여우비(Sunshower)                                 | 4:24                                      | 여우비(Sunshower)<ref>{{Citation|last=kissent2010|title=\[MV\] 보이프렌드(BOYFRIEND) - 여우비(Sunshower) | url=[https://www.youtube.com/watch?v=94iYe9-eyHI|accessdate=2018-05-253](https://www.youtube.com/watch?v=94iYe9-eyHI%7Caccessdate=2018-05-253)}}</ref> |
 
 ### MV演出
@@ -944,18 +952,18 @@ Debut 7th Anniversary Fan Meeting \[Time Capsule\] - 並肩走來的七枚足跡
 |                                                    |                                                           |                                                                                                                                                               |                                                                                                                                                       |        |     |
 | -------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | --- |
 | 年份                                                 | 歌曲                                                        | 歌手                                                                                                                                                            | 演出成員                                                                                                                                                  | MV     | 备注  |
-| 2010                                               | 푸시푸시 <small>(Push Push)</small>                           | [Sistar](https://zh.wikipedia.org/wiki/Sistar "wikilink")                                                                                                     | [東玄](https://zh.wikipedia.org/wiki/東玄 "wikilink")、[榮旻](https://zh.wikipedia.org/wiki/榮旻 "wikilink")、[光旻](https://zh.wikipedia.org/wiki/光旻 "wikilink") | \[37\] | 出道前 |
-| 2011                                               | 가슴이 뛴다 <small>(My heart beating)</small>                  | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")                                                                                                     | [珉玗](https://zh.wikipedia.org/wiki/珉玗 "wikilink")                                                                                                     | \[38\] |     |
-| 입이 떨어지지 않아서 <small>(Can't open up my lips)</small> | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink") | [珉玗](https://zh.wikipedia.org/wiki/珉玗 "wikilink")                                                                                                             | \[39\]                                                                                                                                                |        |     |
-| 핑크빛로맨스 <small>(Pink Romance)</small>               | Starship Planet                                           | 全體成員                                                                                                                                                          | \[40\]                                                                                                                                                |        |     |
-| 2012                                               | 하얀설레임 <small>(White Love)</small>                         | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")、[昭宥](https://zh.wikipedia.org/wiki/昭宥 "wikilink")、[正珉](https://zh.wikipedia.org/wiki/正珉 "wikilink") | [正珉](https://zh.wikipedia.org/wiki/正珉 "wikilink")                                                                                                     | \[41\] |     |
-| 2013                                               | Snow Candy(눈사탕)</small>                                   | Starship Planet                                                                                                                                               | 全體成員                                                                                                                                                  | \[42\] |     |
-| 2014                                               | \[OMG MV-번외편\] The Space Between(틈) </small>              | [昭宥](https://zh.wikipedia.org/wiki/昭宥 "wikilink")、Kwon Soonil                                                                                                 | [東玄](https://zh.wikipedia.org/wiki/東玄 "wikilink")                                                                                                     | \[43\] |     |
-| Love Is You</small>                                | Starship Planet                                           | 全體成員                                                                                                                                                          | \[44\]                                                                                                                                                |        |     |
-| 2015                                               | You're beautiful</small>                                  | [柳昇佑](https://zh.wikipedia.org/wiki/柳昇佑 "wikilink")                                                                                                           | [正珉](https://zh.wikipedia.org/wiki/正珉 "wikilink")                                                                                                     | \[45\] |     |
-| 사르르 <small>(Softly)</small>                        | Starship Planet                                           | 全體成員                                                                                                                                                          | \[46\]                                                                                                                                                |        |     |
-| 2016                                               | 뭐어때 (Whatever)                                            | [柳昇佑](https://zh.wikipedia.org/wiki/柳昇佑 "wikilink")                                                                                                           | [正珉](https://zh.wikipedia.org/wiki/正珉 "wikilink")                                                                                                     | \[47\] |     |
-| 누가 그래 <small>(Love wishes)</small>                 | Starship Planet                                           | [賢星](https://zh.wikipedia.org/wiki/賢星 "wikilink")                                                                                                             | \[48\]                                                                                                                                                |        |     |
+| 2010                                               | 푸시푸시 <small>(Push Push)</small>                           | [Sistar](https://zh.wikipedia.org/wiki/Sistar "wikilink")                                                                                                     | [東玄](https://zh.wikipedia.org/wiki/東玄 "wikilink")、[榮旻](https://zh.wikipedia.org/wiki/榮旻 "wikilink")、[光旻](https://zh.wikipedia.org/wiki/光旻 "wikilink") | \[38\] | 出道前 |
+| 2011                                               | 가슴이 뛴다 <small>(My heart beating)</small>                  | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")                                                                                                     | [珉玗](https://zh.wikipedia.org/wiki/珉玗 "wikilink")                                                                                                     | \[39\] |     |
+| 입이 떨어지지 않아서 <small>(Can't open up my lips)</small> | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink") | [珉玗](https://zh.wikipedia.org/wiki/珉玗 "wikilink")                                                                                                             | \[40\]                                                                                                                                                |        |     |
+| 핑크빛로맨스 <small>(Pink Romance)</small>               | Starship Planet                                           | 全體成員                                                                                                                                                          | \[41\]                                                                                                                                                |        |     |
+| 2012                                               | 하얀설레임 <small>(White Love)</small>                         | [K.Will](https://zh.wikipedia.org/wiki/K.Will "wikilink")、[昭宥](https://zh.wikipedia.org/wiki/昭宥 "wikilink")、[正珉](https://zh.wikipedia.org/wiki/正珉 "wikilink") | [正珉](https://zh.wikipedia.org/wiki/正珉 "wikilink")                                                                                                     | \[42\] |     |
+| 2013                                               | Snow Candy(눈사탕)</small>                                   | Starship Planet                                                                                                                                               | 全體成員                                                                                                                                                  | \[43\] |     |
+| 2014                                               | \[OMG MV-번외편\] The Space Between(틈) </small>              | [昭宥](https://zh.wikipedia.org/wiki/昭宥 "wikilink")、Kwon Soonil                                                                                                 | [東玄](https://zh.wikipedia.org/wiki/東玄 "wikilink")                                                                                                     | \[44\] |     |
+| Love Is You</small>                                | Starship Planet                                           | 全體成員                                                                                                                                                          | \[45\]                                                                                                                                                |        |     |
+| 2015                                               | You're beautiful</small>                                  | [柳昇佑](https://zh.wikipedia.org/wiki/柳昇佑 "wikilink")                                                                                                           | [正珉](https://zh.wikipedia.org/wiki/正珉 "wikilink")                                                                                                     | \[46\] |     |
+| 사르르 <small>(Softly)</small>                        | Starship Planet                                           | 全體成員                                                                                                                                                          | \[47\]                                                                                                                                                |        |     |
+| 2016                                               | 뭐어때 (Whatever)                                            | [柳昇佑](https://zh.wikipedia.org/wiki/柳昇佑 "wikilink")                                                                                                           | [正珉](https://zh.wikipedia.org/wiki/正珉 "wikilink")                                                                                                     | \[48\] |     |
+| 누가 그래 <small>(Love wishes)</small>                 | Starship Planet                                           | [賢星](https://zh.wikipedia.org/wiki/賢星 "wikilink")                                                                                                             | \[49\]                                                                                                                                                |        |     |
 
 ## 演唱會 / 粉絲見面會
 
@@ -1352,23 +1360,25 @@ Boyfriend其他大型演唱會
   - [盧珉玗 新浪微博](http://www.weibo.com/u/5518447367)
 
 [Category:STARSHIP娛樂](https://zh.wikipedia.org/wiki/Category:STARSHIP娛樂 "wikilink")
-[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
+[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 [Category:韓國男子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國男子演唱團體 "wikilink")
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")
 [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
-[Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
+[Category:2011年成立的音樂團體](https://zh.wikipedia.org/wiki/Category:2011年成立的音樂團體 "wikilink")
+[Category:已解散的男子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的男子演唱團體 "wikilink")
+[Category:2019年解散的音樂團體](https://zh.wikipedia.org/wiki/Category:2019年解散的音樂團體 "wikilink")
 
 1.  [2011閃亮新星 ─ Boyfriend](http://kpopn.com/2011/12/14/96696/)
     2011.12.14 Kpopn
-2.  [Boy Friend 將在日出道](http://kpopn.com/2012/04/19/118333/) 2012.04.19
+2.
+3.  [Boy Friend 將在日出道](http://kpopn.com/2012/04/19/118333/) 2012.04.19
     Kpopn
-3.  [BF 獲出道後首個一位](http://kpopn.com/2014/11/12/248845/)
-4.  <https://www.koreastardaily.com/tc/news/97566>
-5.  <https://twitter.com/G_BoyFriend/status/909939589099356160>
-6.
+4.  [BF 獲出道後首個一位](http://kpopn.com/2014/11/12/248845/)
+5.  <https://www.koreastardaily.com/tc/news/97566>
+6.  <https://twitter.com/G_BoyFriend/status/909939589099356160>
 7.
-8.  本曲将作为[名侦探柯南的ED](https://zh.wikipedia.org/wiki/名侦探柯南（动画） "wikilink")44播出。
-9.
+8.
+9.  本曲将作为[名侦探柯南的ED](https://zh.wikipedia.org/wiki/名侦探柯南（动画） "wikilink")44播出。
 10.
 11.
 12.
@@ -1408,3 +1418,4 @@ Boyfriend其他大型演唱會
 46.
 47.
 48.
+49.

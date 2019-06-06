@@ -57,8 +57,7 @@ Engine](https://zh.wikipedia.org/wiki/Creation_Engine "wikilink")\[22\]\[23\]。
 
   -
   -
-  - [上古卷轴中文维基](http://skyrim.deepku.com/Game:Skyrim)
-
+  -
 [Category:2011年电子游戏](https://zh.wikipedia.org/wiki/Category:2011年电子游戏 "wikilink")
 [Category:上古卷轴系列](https://zh.wikipedia.org/wiki/Category:上古卷轴系列 "wikilink")
 [Category:電子角色扮演遊戲](https://zh.wikipedia.org/wiki/Category:電子角色扮演遊戲 "wikilink")

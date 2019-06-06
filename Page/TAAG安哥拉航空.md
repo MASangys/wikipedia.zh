@@ -1,8 +1,4 @@
-[TAAGBeijingOffice.JPG](https://zh.wikipedia.org/wiki/File:TAAGBeijingOffice.JPG "fig:TAAGBeijingOffice.JPG")办事处\]\]
-
 **TAAG安哥拉航空**（[葡萄牙語](https://zh.wikipedia.org/wiki/葡萄牙語 "wikilink")：****，IATA：DT，ICAO：DTA）是[非洲](../Page/非洲.md "wikilink")[安哥拉的國營航空公司](../Page/安哥拉.md "wikilink")，總部設於首都[罗安达](../Page/罗安达.md "wikilink")，由政府全資擁有。公司擁有強大的國內航線網絡規模，也有飛往非洲其他國家和[南美洲](../Page/南美洲.md "wikilink")。TAAG安哥拉航空是繼[南非航空](../Page/南非航空.md "wikilink")、[肯尼亚航空及](../Page/肯尼亚航空.md "wikilink")[埃塞俄比亞航空外](../Page/埃塞俄比亞航空.md "wikilink")，少數盈利的非洲航空公司，也是少數有能力購買新機而非二手舊機營運的非洲航空公司。
-
-TAAG有[北京办事处](https://zh.wikipedia.org/wiki/北京 "wikilink")，该办事处于2010年开始营业\[1\]。
 
 ## 歷史
 
@@ -31,15 +27,15 @@ Angola經營國內航線，以[波音727和波音](../Page/波音727.md "wikilin
 ### 被歐盟列入黑名單
 
 [TAAG_777-200ER.JPG](https://zh.wikipedia.org/wiki/File:TAAG_777-200ER.JPG "fig:TAAG_777-200ER.JPG")
-2007年6月28日，歐盟基於安全理由，把TAAG列入[黑名單](../Page/被禁止進入歐盟成員國之航空公司列表.md "wikilink")，同年7月4日起生效\[2\]。此措施令TAAG的波音777客機無法執飛長途航線。
+2007年6月28日，歐盟基於安全理由，把TAAG列入[黑名單](../Page/被禁止進入歐盟成員國之航空公司列表.md "wikilink")，同年7月4日起生效\[1\]。此措施令TAAG的波音777客機無法執飛長途航線。
 
 為提升新飛機使用量及減少損失，TAAG決定開辦[杜拜和](../Page/杜拜.md "wikilink")[北京航線](../Page/北京市.md "wikilink")。另為能繼續飛往歐洲，便向南非航空[濕租一架波音](https://zh.wikipedia.org/wiki/濕租 "wikilink")747-400客機，飛行員由南非航空提供，而空服員則由南非航空和TAAG一同提供。2008年8月，接收第3架波音777（編號D2-TEF）。
 
-2009年7月3日，TAAG獲准復飛歐洲，但只准以旗下的3架波音777客機飛往[里斯本](../Page/里斯本.md "wikilink")，而每周的班次上限為10班，里斯本航線於同年8月1日復航；旗下的4架波音737-700客機也於同年11月獲准飛往歐洲。而該濕租的波音747-400，也因此退還予南非航空。2010年3月30日，歐盟獲准TAAG的波音777和737-300於歐洲所有機場起降\[3\]。
+2009年7月3日，TAAG獲准復飛歐洲，但只准以旗下的3架波音777客機飛往[里斯本](../Page/里斯本.md "wikilink")，而每周的班次上限為10班，里斯本航線於同年8月1日復航；旗下的4架波音737-700客機也於同年11月獲准飛往歐洲。而該濕租的波音747-400，也因此退還予南非航空。2010年3月30日，歐盟獲准TAAG的波音777和737-300於歐洲所有機場起降\[2\]。
 
 ### 重組
 
-2008年11月，TAAG舊管理層解散，成立新的管理局，為解除歐盟禁制令而鋪路。2009年5月29日，TAAG宣佈通過[國際航空運輸協會](../Page/國際航空運輸協會.md "wikilink")（IATA）的核證\[4\]。同年10月，TAAG替旗下的波音777取得ETOPS證明後，開始以777執飛羅安達至[里约热内卢航線](../Page/里约热内卢.md "wikilink")。
+2008年11月，TAAG舊管理層解散，成立新的管理局，為解除歐盟禁制令而鋪路。2009年5月29日，TAAG宣佈通過[國際航空運輸協會](../Page/國際航空運輸協會.md "wikilink")（IATA）的核證\[3\]。同年10月，TAAG替旗下的波音777取得ETOPS證明後，開始以777執飛羅安達至[里约热内卢航線](../Page/里约热内卢.md "wikilink")。
 
 2010年4月29日，TAAG訂購了2架波音777-300ER客機，另擁有2架選購權。
 
@@ -58,7 +54,7 @@ TAAG安哥拉航空與下列航空公司實施代碼共享：
 
 ## 機隊
 
-截至2015年4月，TAAG安哥拉航空的機隊平均机龄为12.7年，详情如下\[5\]\[6\]：
+截至2015年4月，TAAG安哥拉航空的機隊平均机龄为12.7年，详情如下\[4\]\[5\]：
 
 <center>
 
@@ -111,8 +107,8 @@ TAAG安哥拉航空與下列航空公司實施代碼共享：
 <tr class="odd">
 <td><p>波音777-3M2ER</p></td>
 <td><p>4</p></td>
-<td><p>0[7]</p></td>
-<td><p>3[8][9]</p></td>
+<td><p>0[6]</p></td>
+<td><p>3[7][8]</p></td>
 <td><p>12</p></td>
 <td><p>56</p></td>
 </tr>
@@ -131,7 +127,7 @@ TAAG安哥拉航空與下列航空公司實施代碼共享：
 
 ### 已退役机型
 
-安哥拉航空曾运营以下机型：\[10\]
+安哥拉航空曾运营以下机型：\[9\]
 
   - [空中客车A340-300](../Page/空中客车A340.md "wikilink")
   - [安托诺夫An-26](https://zh.wikipedia.org/wiki/安托诺夫An-26 "wikilink")
@@ -159,19 +155,19 @@ TAAG安哥拉航空與下列航空公司實施代碼共享：
 
 ## 意外及事故
 
-  - 1983年11月8日，一架波音737-200客機在[盧班戈機場附近墜毀](https://zh.wikipedia.org/wiki/盧班戈機場 "wikilink")，機上126名乘客及4名機員全部死亡，[安哥拉獨立聯盟承認擊落客機](https://zh.wikipedia.org/wiki/安哥拉獨立聯盟 "wikilink")\[11\]。
+  - 1983年11月8日，一架波音737-200客機在[盧班戈機場附近墜毀](https://zh.wikipedia.org/wiki/盧班戈機場 "wikilink")，機上126名乘客及4名機員全部死亡，[安哥拉獨立聯盟承認擊落客機](https://zh.wikipedia.org/wiki/安哥拉獨立聯盟 "wikilink")\[10\]。
 
 <!-- end list -->
 
-  - 2007年6月28日，一架載有78名乘客的波音737-200客機在[蒙班扎剛果嘗試降落時墜毀](https://zh.wikipedia.org/wiki/蒙班扎剛果 "wikilink")，5死66傷\[12\]\[13\]。
+  - 2007年6月28日，一架載有78名乘客的波音737-200客機在[蒙班扎剛果嘗試降落時墜毀](https://zh.wikipedia.org/wiki/蒙班扎剛果 "wikilink")，5死66傷\[11\]\[12\]。
 
 <!-- end list -->
 
-  - 2010年12月6日，一架波音777-2M2（注册編號D2-TEF）因機械故障，在[里斯本緊急降落](../Page/里斯本.md "wikilink")，部分零件散落在里斯本以南鄰近地區\[14\]。
+  - 2010年12月6日，一架波音777-2M2（注册編號D2-TEF）因機械故障，在[里斯本緊急降落](../Page/里斯本.md "wikilink")，部分零件散落在里斯本以南鄰近地區\[13\]。
 
 <!-- end list -->
 
-  - 2010年12月23日，注册編號D2-TEE的波音777-2M2，載名32名乘客及13名機員，執行DT550航班由羅安達往杜拜，起飛後爬升至2,500呎時，其中一台[GE90](https://zh.wikipedia.org/wiki/通用电气GE90发动机 "wikilink")[发动机傳出巨響](https://zh.wikipedia.org/wiki/涡轮风扇发动机 "wikilink")，並發出火警警報。飛行員把肇事發動機關掉及折返羅安達，安全著陸\[15\]。
+  - 2010年12月23日，注册編號D2-TEE的波音777-2M2，載名32名乘客及13名機員，執行DT550航班由羅安達往杜拜，起飛後爬升至2,500呎時，其中一台[GE90](https://zh.wikipedia.org/wiki/通用电气GE90发动机 "wikilink")[发动机傳出巨響](https://zh.wikipedia.org/wiki/涡轮风扇发动机 "wikilink")，並發出火警警報。飛行員把肇事發動機關掉及折返羅安達，安全著陸\[14\]。
 
 ## 參考資料
 
@@ -186,32 +182,30 @@ TAAG安哥拉航空與下列航空公司實施代碼共享：
 [Category:安哥拉航空公司](https://zh.wikipedia.org/wiki/Category:安哥拉航空公司 "wikilink")
 [Category:1938年成立的航空公司](https://zh.wikipedia.org/wiki/Category:1938年成立的航空公司 "wikilink")
 
-1.  "[安哥拉航空公司北京代表处正式落成](http://travel.sohu.com/20100803/n273954329.shtml)."
-    *Sohu.com*. 2010年8月3日.
-2.  [EU bans TAAG Angola's
+1.  [EU bans TAAG Angola's
     fleet](http://news.bbc.co.uk/2/hi/europe/6248490.stm)
-3.  [EUROPA – Press Releases – Commission updates the list of airlines
+2.  [EUROPA – Press Releases – Commission updates the list of airlines
     banned from the European
     airspace](http://europa.eu/rapid/pressReleasesAction.do?reference=IP/10/388&format=HTML&aged=0&language=EN&guiLanguage=en).
     Europa.eu (2010-03-30). Retrieved on 2010-12-16.
-4.  [TAAG Angola Airlines passes IATA
+3.  [TAAG Angola Airlines passes IATA
     inspection](http://www.portalangop.co.ao/motix/en_us/noticias/transporte/TAAG-passes-IATA-test,0b2303c4-c4b5-411a-a51c-bfb7c5139548.html)
-5.  [TAAG Angola Airlines
+4.  [TAAG Angola Airlines
     Fleet](http://ch-aviation.ch/aircraft.php?search=set&airline=DT&al_op=1)
 
-6.  [TAAG Fleet – Official Website](http://www.taag.com/en/fleet.aspx)
+5.  [TAAG Fleet – Official Website](http://www.taag.com/en/fleet.aspx)
+6.
 7.
 8.
 9.
-10.
-11. [1983 TAAG crash at Aviation Safety
+10. [1983 TAAG crash at Aviation Safety
     Network](http://aviation-safety.net/database/record.php?id=19831108-0)
-12. [TAAG crash at
+11. [TAAG crash at
     news.com.au](http://www.news.com.au/story/0,10117,21987911-401,00.html)
 
-13. [2007 TAAG crash at Aviation Safety
+12. [2007 TAAG crash at Aviation Safety
     Network](http://aviation-safety.net/database/record.php?id=20070628-0)
-14. [Angolan Boeing 777 plane loses metal parts over Lisbon
+13. [Angolan Boeing 777 plane loses metal parts over Lisbon
     suburb](http://www.asdnews.com/news/32277/)
-15. [Air Crash Observer:
+14. [Air Crash Observer:
     News](http://www.aircrashobserver.com/e107/news.php?item.2696)

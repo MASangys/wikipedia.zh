@@ -59,7 +59,9 @@ Gabriel Lester（荷兰）
 
 Leo Xu
 Projects自创办以来，参与了多场国际艺术博览会，包括[上海艺术博览会国际当代艺术展](https://web.archive.org/web/20120107162551/http://www.shcontemporary.info/cn/)、[弗里兹纽约艺博会（Frieze
-New York)](http://friezenewyork.com/)以及[香港巴塞尔艺博会（Art Basel
+New
+York)](https://web.archive.org/web/20130627144159/http://friezenewyork.com/)以及[香港巴塞尔艺博会（Art
+Basel
 HK）](https://www.artbasel.com/en/Hong-Kong)。其中，于2013年在纽约举办的弗里兹艺博会上，画廊推出了刘窗的系列新作，这批作品关注了深广地区打工者的精神和生活状态，检视了当代中国的视觉文化，尤其是山寨文化在当地人口中的影响和渗入。\[7\]
 2013年的香港巴塞尔艺博会上，画廊展出了艺术家陈维的最新摄影系列，此系列着重关注中国当代年轻人的流行文化以及生活状态，特别是他们所崇尚的音乐和生活风格。这批在舞池和夜店中摆拍的作品旨在扑捉年轻人生活中出神的瞬间，这批人成长在89后的中国，并受到盗版和外来文化的深厚影响。\[8\]
 
@@ -85,7 +87,8 @@ Press)（美联社）, *New York Times*（《纽约时报》）, *Huffington Pos
 ## 更多链接
 
 <http://www.artslant.com/cn/venues/show/26276-leo-xu-projects>
-<https://web.archive.org/web/20120325161343/http://map.the-smart-class.cn/marks/382.html>
+<https://web.archive.org/web/20120325161343/http://map.the-smart-class.cn/marks/382.html%3Cbr>
+/\>
 <http://www.artinfo.com/news/story/38610/the-best-and-worst-of-the-shcontemporary-art-fair/>
 <http://www.chinadaily.com.cn/cndy/2011-12/30/content_14354199.htm>
 <http://www.globaltimes.cn/NEWS/tabid/99/ID/689802/Whats-on.aspx>

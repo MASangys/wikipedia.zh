@@ -238,7 +238,7 @@ if __name__ == '__main__':
 ## 外部連結
 
   - [支援OpenCL的產品](https://www.khronos.org/conformance/adopters/conformant-products/opencl)
-  - [开源GPU社区](http://www.opengpu.org/)
+  - [开源GPU社区](https://web.archive.org/web/20190122085224/http://www.opengpu.org/)
 
 ## 参见
 

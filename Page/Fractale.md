@@ -263,6 +263,11 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 | [中京地区](https://zh.wikipedia.org/wiki/中京地区 "wikilink") | [東海电视台](https://zh.wikipedia.org/wiki/東海电视台 "wikilink")                     | 2011年1月20日 -       | 星期四 26:05 - 26:35                                                                                             |                                      |
 | 日本全域                                                  | [BS富士](../Page/BS富士.md "wikilink")                                          | 2011年2月26日 -       | 星期六 25:00 - 25:30                                                                                             | [卫星电视](../Page/卫星电视.md "wikilink")   |
 
+## 逸闻
+
+山本寬在Fractale播出之前接受報刊採訪時表示，如果本部動畫不成功便隱退。\[3\]不久，山本寬關閉其博客並收回隱退宣言。\[4\]結果該片收視冷淡，故事原案[東浩紀表示山本寬應對此負責](https://zh.wikipedia.org/wiki/東浩紀 "wikilink")。\[5\]而由于山本宽收回隐退宣言的行为，导致之后他所监督的作品在中国有了“遗作”之称
+\[6\]。而该作品第一卷销量883卷也被爱好者将作品和其名字定为销量单位量（单位名称取作品名称缩写为“frt”，读作“宽”），用于和其他作品销量的对比来调侃。\[7\]
+
 ## 參註
 
 ## 外部連結
@@ -278,3 +283,8 @@ ONLINE](../Page/GANGAN_ONLINE.md "wikilink")》上連載。
 
 1.  [山本寬的聲明](http://fractale-anime.com/special.html#content_message)
 2.
+3.
+4.
+5.
+6.
+7.

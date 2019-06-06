@@ -121,7 +121,7 @@ AKB48總共舉行了3次正式成員選秀會及13次的研究生選秀會。除
 </tr>
 <tr class="odd">
 <td><p>12月19日</p></td>
-<td><p>Team B候補生礒怜奈、大塚亜季、坂田涼、藤島マリアチカ、堀江聖夏退出</p></td>
+<td><p>Team B候補生磯怜奈、大塚亜季、坂田涼、藤島マリアチカ、堀江聖夏退出</p></td>
 <td><p>|-5</p></td>
 <td><p>49</p></td>
 <td><p>20</p></td>
@@ -1207,7 +1207,7 @@ Team B 小森美果畢業<br />
 </tr>
 <tr class="odd">
 <td><p>1月15日</p></td>
-<td><p>Team K <a href="../Page/佐藤亞美菜.md" title="wikilink">佐藤亞美菜畢業</a></p></td>
+<td><p>Team K<a href="../Page/佐藤亞美菜.md" title="wikilink">佐藤亞美菜畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>86</p></td>
 <td><p>76</p></td>
@@ -1248,7 +1248,7 @@ Team B 小森美果畢業<br />
 </tr>
 <tr class="even">
 <td><p>4月6日</p></td>
-<td><p>Team 8 成員名單正式公布</p></td>
+<td><p>Team 8成員名單正式公布</p></td>
 <td><p>+47</p></td>
 <td><p>139</p></td>
 <td><p>139</p></td>
@@ -1389,7 +1389,7 @@ Team K近野莉菜移籍JKT48</p></td>
 </tr>
 <tr class="even">
 <td><p>1月26日</p></td>
-<td><p>Team 8 森脇由衣 畢業</p></td>
+<td><p>Team 8森脇由衣 畢業</p></td>
 <td><p>-1</p></td>
 <td><p>186</p></td>
 <td><p>136</p></td>
@@ -1405,7 +1405,7 @@ Team K近野莉菜移籍JKT48</p></td>
 </tr>
 <tr class="even">
 <td><p>4月3日</p></td>
-<td><p>Team 8 福岡県新代表吉田華恋到任</p></td>
+<td><p>Team 8福岡県新代表吉田華恋到任</p></td>
 <td><p>+1</p></td>
 <td><p>137</p></td>
 <td><p>137</p></td>
@@ -1454,7 +1454,7 @@ Team K 鈴木紫帆里畢業</p></td>
 </tr>
 <tr class="even">
 <td><p>8月4日</p></td>
-<td><p>Team A <a href="../Page/川榮李奈.md" title="wikilink">川榮李奈畢業</a></p></td>
+<td><p>Team A<a href="../Page/川榮李奈.md" title="wikilink">川榮李奈畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>137</p></td>
 <td><p>130</p></td>
@@ -1462,8 +1462,8 @@ Team K 鈴木紫帆里畢業</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月9日</p></td>
-<td><p>Team A <a href="../Page/松井咲子.md" title="wikilink">松井咲子畢業</a><br />
-Team B <a href="../Page/橋本耀.md" title="wikilink">橋本耀畢業</a><br />
+<td><p>Team A<a href="../Page/松井咲子.md" title="wikilink">松井咲子畢業</a><br />
+Team B<a href="../Page/橋本耀.md" title="wikilink">橋本耀畢業</a><br />
 Team 4 前田美月、<a href="../Page/土保瑞希.md" title="wikilink">土保瑞希</a>、<a href="../Page/小林茉里奈.md" title="wikilink">小林茉里奈畢業</a></p></td>
 <td><p>-5</p></td>
 <td><p>132</p></td>
@@ -1472,7 +1472,7 @@ Team 4 前田美月、<a href="../Page/土保瑞希.md" title="wikilink">土保�
 </tr>
 <tr class="even">
 <td><p>8月17日</p></td>
-<td><p>Team B <a href="../Page/倉持明日香.md" title="wikilink">倉持明日香畢業</a></p></td>
+<td><p>Team B<a href="../Page/倉持明日香.md" title="wikilink">倉持明日香畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>131</p></td>
 <td><p>124</p></td>
@@ -1480,7 +1480,7 @@ Team 4 前田美月、<a href="../Page/土保瑞希.md" title="wikilink">土保�
 </tr>
 <tr class="odd">
 <td><p>8月26日</p></td>
-<td><p>Team K <a href="../Page/北原里英.md" title="wikilink">北原里英移籍NGT</a>48</p></td>
+<td><p>Team K<a href="../Page/北原里英.md" title="wikilink">北原里英移籍NGT</a>48</p></td>
 <td><p>-1</p></td>
 <td><p>130</p></td>
 <td><p>123</p></td>
@@ -1493,9 +1493,9 @@ NMB48 Team M <a href="../Page/白間美瑠.md" title="wikilink">白間美瑠開�
 HKT48 Team H <a href="../Page/矢吹奈子.md" title="wikilink">矢吹奈子開始兼任Team</a> B<br />
 SKE48 Team S <a href="../Page/北川綾巴.md" title="wikilink">北川綾巴開始兼任Team</a> 4<br />
 NMB48 Team BII <a href="../Page/渡邊美優紀.md" title="wikilink">渡邊美優紀再次兼任</a><br />
-Team 8 <a href="../Page/山田菜菜美.md" title="wikilink">山田菜菜美開始兼任Team</a> A<br />
-Team 8 <a href="../Page/中野郁海.md" title="wikilink">中野郁海開始兼任Team</a> K<br />
-Team 8 <a href="../Page/坂口渚沙.md" title="wikilink">坂口渚沙開始兼任Team</a> B</p></td>
+Team 8<a href="../Page/山田菜菜美.md" title="wikilink">山田菜菜美開始兼任Team</a> A<br />
+Team 8<a href="../Page/中野郁海.md" title="wikilink">中野郁海開始兼任Team</a> K<br />
+Team 8<a href="../Page/坂口渚沙.md" title="wikilink">坂口渚沙開始兼任Team</a> B</p></td>
 <td><p>+4</p></td>
 <td><p>134</p></td>
 <td><p>127</p></td>
@@ -1504,7 +1504,7 @@ Team 8 <a href="../Page/坂口渚沙.md" title="wikilink">坂口渚沙開始兼�
 </tr>
 <tr class="odd">
 <td><p>10月25日</p></td>
-<td><p>Team B <a href="../Page/內田真由美.md" title="wikilink">內田真由美畢業</a></p></td>
+<td><p>Team B<a href="../Page/內田真由美.md" title="wikilink">內田真由美畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>133</p></td>
 <td><p>126</p></td>
@@ -1522,7 +1522,7 @@ Team 8 <a href="../Page/坂口渚沙.md" title="wikilink">坂口渚沙開始兼�
 </tr>
 <tr class="odd">
 <td><p>12月23日</p></td>
-<td><p>Team A <a href="https://zh.wikipedia.org/wiki/西山怜那" title="wikilink">西山怜那畢業</a></p></td>
+<td><p>Team A<a href="https://zh.wikipedia.org/wiki/西山怜那" title="wikilink">西山怜那畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>133</p></td>
 <td><p>125</p></td>
@@ -1557,7 +1557,7 @@ Team 8 <a href="../Page/坂口渚沙.md" title="wikilink">坂口渚沙開始兼�
 </tr>
 <tr class="odd">
 <td><p>2月14日</p></td>
-<td><p>Team 4 <a href="../Page/名取稚菜.md" title="wikilink">名取稚菜畢業</a></p></td>
+<td><p>Team 4<a href="../Page/名取稚菜.md" title="wikilink">名取稚菜畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>131</p></td>
 <td><p>124</p></td>
@@ -1567,7 +1567,7 @@ Team 8 <a href="../Page/坂口渚沙.md" title="wikilink">坂口渚沙開始兼�
 <tr class="even">
 <td><p>2月21日</p></td>
 <td><p>台灣徵選研究生馬嘉伶升格 Team B<br />
-Team B <a href="https://zh.wikipedia.org/wiki/內山奈月" title="wikilink">內山奈月畢業</a></p></td>
+Team B<a href="https://zh.wikipedia.org/wiki/內山奈月" title="wikilink">內山奈月畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>130</p></td>
 <td><p>124</p></td>
@@ -1585,7 +1585,7 @@ Team B <a href="https://zh.wikipedia.org/wiki/內山奈月" title="wikilink">內
 </tr>
 <tr class="even">
 <td><p>3月31日</p></td>
-<td><p>Team B <a href="../Page/小林香菜.md" title="wikilink">小林香菜畢業</a></p></td>
+<td><p>Team B<a href="../Page/小林香菜.md" title="wikilink">小林香菜畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>131</p></td>
 <td><p>123</p></td>
@@ -1594,7 +1594,7 @@ Team B <a href="https://zh.wikipedia.org/wiki/內山奈月" title="wikilink">內
 </tr>
 <tr class="odd">
 <td><p>4月3日</p></td>
-<td><p>Team 8 岩崎萌花、藤村菜月畢業</p></td>
+<td><p>Team 8岩崎萌花、藤村菜月畢業</p></td>
 <td><p>-2</p></td>
 <td><p>129</p></td>
 <td><p>121</p></td>
@@ -1603,7 +1603,7 @@ Team B <a href="https://zh.wikipedia.org/wiki/內山奈月" title="wikilink">內
 </tr>
 <tr class="even">
 <td><p>4月8日</p></td>
-<td><p>Team A <a href="../Page/高橋南.md" title="wikilink">高橋南畢業</a></p></td>
+<td><p>Team A<a href="../Page/高橋南.md" title="wikilink">高橋南畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>128</p></td>
 <td><p>120</p></td>
@@ -1612,7 +1612,7 @@ Team B <a href="https://zh.wikipedia.org/wiki/內山奈月" title="wikilink">內
 </tr>
 <tr class="odd">
 <td><p>5月1日</p></td>
-<td><p>Team K <a href="https://zh.wikipedia.org/wiki/高城亚树" title="wikilink">高城亚树</a>、<a href="https://zh.wikipedia.org/wiki/永尾玛利亚" title="wikilink">永尾玛利亚畢業</a></p></td>
+<td><p>Team K<a href="https://zh.wikipedia.org/wiki/高城亚树" title="wikilink">高城亚树</a>、<a href="https://zh.wikipedia.org/wiki/永尾玛利亚" title="wikilink">永尾玛利亚畢業</a></p></td>
 <td><p>-2</p></td>
 <td><p>126</p></td>
 <td><p>118</p></td>
@@ -1621,7 +1621,7 @@ Team B <a href="https://zh.wikipedia.org/wiki/內山奈月" title="wikilink">內
 </tr>
 <tr class="even">
 <td><p>5月7日</p></td>
-<td><p>Team 8 山本亞依畢業</p></td>
+<td><p>Team 8山本亞依畢業</p></td>
 <td><p>-1</p></td>
 <td><p>125</p></td>
 <td><p>117</p></td>
@@ -1630,8 +1630,8 @@ Team B <a href="https://zh.wikipedia.org/wiki/內山奈月" title="wikilink">內
 </tr>
 <tr class="odd">
 <td><p>5月21日</p></td>
-<td><p>Team A <a href="../Page/岩田華怜.md" title="wikilink">岩田華怜畢業</a><br />
-Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a></p></td>
+<td><p>Team A<a href="../Page/岩田華怜.md" title="wikilink">岩田華怜畢業</a><br />
+Team B<a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a></p></td>
 <td><p>-2</p></td>
 <td><p>123</p></td>
 <td><p>115</p></td>
@@ -1640,7 +1640,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="even">
 <td><p>5月26日</p></td>
-<td><p>Team K <a href="../Page/山本彩.md" title="wikilink">山本彩解除兼任</a></p></td>
+<td><p>Team K<a href="../Page/山本彩.md" title="wikilink">山本彩解除兼任</a></p></td>
 <td><p>-1</p></td>
 <td><p>122</p></td>
 <td><p>114</p></td>
@@ -1649,7 +1649,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="odd">
 <td><p>6月5日</p></td>
-<td><p>Team K <a href="../Page/石田晴香.md" title="wikilink">石田晴香畢業</a></p></td>
+<td><p>Team K<a href="../Page/石田晴香.md" title="wikilink">石田晴香畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>121</p></td>
 <td><p>113</p></td>
@@ -1685,7 +1685,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="odd">
 <td><p>8月24日</p></td>
-<td><p>Team A <a href="../Page/平田梨奈.md" title="wikilink">平田梨奈畢業</a></p></td>
+<td><p>Team A<a href="../Page/平田梨奈.md" title="wikilink">平田梨奈畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>120</p></td>
 <td><p>114</p></td>
@@ -1694,7 +1694,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="even">
 <td><p>8月29日</p></td>
-<td><p>Team A <a href="../Page/前田亞美.md" title="wikilink">前田亞美畢業</a></p></td>
+<td><p>Team A<a href="../Page/前田亞美.md" title="wikilink">前田亞美畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>119</p></td>
 <td><p>113</p></td>
@@ -1730,7 +1730,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="even">
 <td><p>12月24日</p></td>
-<td><p>Team A <a href="../Page/小笠原茉由.md" title="wikilink">小笠原茉由畢業</a></p></td>
+<td><p>Team A<a href="../Page/小笠原茉由.md" title="wikilink">小笠原茉由畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>137</p></td>
 <td><p>112</p></td>
@@ -1739,7 +1739,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="odd">
 <td><p>12月31日</p></td>
-<td><p>Team A <a href="../Page/島崎遙香.md" title="wikilink">島崎遙香畢業</a></p></td>
+<td><p>Team A<a href="../Page/島崎遙香.md" title="wikilink">島崎遙香畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>136</p></td>
 <td><p>111</p></td>
@@ -1756,7 +1756,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="odd">
 <td><p>1月29日</p></td>
-<td><p>Team 8 吉野未優畢業</p></td>
+<td><p>Team 8吉野未優畢業</p></td>
 <td><p>-1</p></td>
 <td><p>135</p></td>
 <td><p>110</p></td>
@@ -1765,7 +1765,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="even">
 <td><p>3月18日</p></td>
-<td><p>Team A <a href="../Page/大和田南那.md" title="wikilink">大和田南那畢業</a></p></td>
+<td><p>Team A<a href="../Page/大和田南那.md" title="wikilink">大和田南那畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>134</p></td>
 <td><p>109</p></td>
@@ -1774,7 +1774,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="odd">
 <td><p>3月20日</p></td>
-<td><p>Team 8 山田杏華初次披露</p></td>
+<td><p>Team 8山田杏華初次披露</p></td>
 <td><p>+1</p></td>
 <td><p>135</p></td>
 <td><p>110</p></td>
@@ -1783,7 +1783,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="even">
 <td><p>3月21日</p></td>
-<td><p>Team K <a href="../Page/相笠萌.md" title="wikilink">相笠萌畢業</a></p></td>
+<td><p>Team K<a href="../Page/相笠萌.md" title="wikilink">相笠萌畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>134</p></td>
 <td><p>109</p></td>
@@ -1792,7 +1792,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="odd">
 <td><p>3月22日</p></td>
-<td><p>Team B <a href="../Page/梅田綾乃.md" title="wikilink">梅田綾乃畢業</a></p></td>
+<td><p>Team B<a href="../Page/梅田綾乃.md" title="wikilink">梅田綾乃畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>133</p></td>
 <td><p>108</p></td>
@@ -1801,7 +1801,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="even">
 <td><p>3月27日</p></td>
-<td><p>Team 4 <a href="../Page/西野未姬.md" title="wikilink">西野未姬畢業</a></p></td>
+<td><p>Team 4<a href="../Page/西野未姬.md" title="wikilink">西野未姬畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>132</p></td>
 <td><p>107</p></td>
@@ -1810,7 +1810,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="odd">
 <td><p>3月30日</p></td>
-<td><p>Team A <a href="../Page/中村麻里子.md" title="wikilink">中村麻里子畢業</a></p></td>
+<td><p>Team A<a href="../Page/中村麻里子.md" title="wikilink">中村麻里子畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>131</p></td>
 <td><p>106</p></td>
@@ -1837,7 +1837,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="even">
 <td><p>4月19日</p></td>
-<td><p>Team A <a href="../Page/小嶋陽菜.md" title="wikilink">小嶋陽菜畢業</a></p></td>
+<td><p>Team A<a href="../Page/小嶋陽菜.md" title="wikilink">小嶋陽菜畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>128</p></td>
 <td><p>105</p></td>
@@ -1846,7 +1846,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="odd">
 <td><p>4月24日</p></td>
-<td><p>Team K <a href="../Page/中田千智.md" title="wikilink">中田千智畢業</a></p></td>
+<td><p>Team K<a href="../Page/中田千智.md" title="wikilink">中田千智畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>127</p></td>
 <td><p>104</p></td>
@@ -1855,7 +1855,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="even">
 <td><p>5月13日</p></td>
-<td><p>Team 8 福地礼奈畢業</p></td>
+<td><p>Team 8福地礼奈畢業</p></td>
 <td><p>-1</p></td>
 <td><p>126</p></td>
 <td><p>103</p></td>
@@ -1873,7 +1873,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="even">
 <td><p>6月8日</p></td>
-<td><p>Team B <a href="../Page/大島涼花.md" title="wikilink">大島涼花畢業</a></p></td>
+<td><p>Team B<a href="../Page/大島涼花.md" title="wikilink">大島涼花畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>124</p></td>
 <td><p>101</p></td>
@@ -1882,7 +1882,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="odd">
 <td><p>6月10日</p></td>
-<td><p>Team K <a href="../Page/鈴木瑪莉亞.md" title="wikilink">鈴木瑪莉亞畢業</a></p></td>
+<td><p>Team K<a href="../Page/鈴木瑪莉亞.md" title="wikilink">鈴木瑪莉亞畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>123</p></td>
 <td><p>100</p></td>
@@ -1900,7 +1900,7 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="odd">
 <td><p>6月24日</p></td>
-<td><p>Team 8 谷優里畢業</p></td>
+<td><p>Team 8谷優里畢業</p></td>
 <td><p>-1</p></td>
 <td><p>121</p></td>
 <td><p>98</p></td>
@@ -1909,8 +1909,8 @@ Team B <a href="../Page/岩佐美咲.md" title="wikilink">岩佐美咲畢業</a>
 </tr>
 <tr class="even">
 <td><p>7月2日</p></td>
-<td><p>Team 4 <a href="../Page/伊豆田莉奈.md" title="wikilink">伊豆田莉奈移籍BNK</a>48<br />
-Team 8 濱松里緒菜畢業</p></td>
+<td><p>Team 4<a href="../Page/伊豆田莉奈.md" title="wikilink">伊豆田莉奈移籍BNK</a>48<br />
+Team 8濱松里緒菜畢業</p></td>
 <td><p>-2</p></td>
 <td><p>119</p></td>
 <td><p>96</p></td>
@@ -1919,7 +1919,7 @@ Team 8 濱松里緒菜畢業</p></td>
 </tr>
 <tr class="odd">
 <td><p>7月23日</p></td>
-<td><p>Team B <a href="https://zh.wikipedia.org/wiki/田名部生來" title="wikilink">田名部生來畢業</a></p></td>
+<td><p>Team B<a href="https://zh.wikipedia.org/wiki/田名部生來" title="wikilink">田名部生來畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>118</p></td>
 <td><p>95</p></td>
@@ -1928,7 +1928,7 @@ Team 8 濱松里緒菜畢業</p></td>
 </tr>
 <tr class="even">
 <td><p>8月8日</p></td>
-<td><p>Team 8 川原美咲初次披露</p></td>
+<td><p>Team 8川原美咲初次披露</p></td>
 <td><p>+1</p></td>
 <td><p>119</p></td>
 <td><p>96</p></td>
@@ -1946,7 +1946,7 @@ Team 8 濱松里緒菜畢業</p></td>
 </tr>
 <tr class="even">
 <td><p>8月20日</p></td>
-<td><p>Team 8 阿部芽唯畢業</p></td>
+<td><p>Team 8阿部芽唯畢業</p></td>
 <td><p>-1</p></td>
 <td><p>117</p></td>
 <td><p>95</p></td>
@@ -1955,7 +1955,7 @@ Team 8 濱松里緒菜畢業</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月2日</p></td>
-<td><p>Team 8 奥本陽菜初次披露</p></td>
+<td><p>Team 8奥本陽菜初次披露</p></td>
 <td><p>+1</p></td>
 <td><p>118</p></td>
 <td><p>96</p></td>
@@ -1964,7 +1964,7 @@ Team 8 濱松里緒菜畢業</p></td>
 </tr>
 <tr class="even">
 <td><p>9月10日</p></td>
-<td><p>Team 8 春本由紀初次披露</p></td>
+<td><p>Team 8春本由紀初次披露</p></td>
 <td><p>+1</p></td>
 <td><p>119</p></td>
 <td><p>97</p></td>
@@ -1982,7 +1982,7 @@ Team 8 濱松里緒菜畢業</p></td>
 </tr>
 <tr class="even">
 <td><p>9月30日</p></td>
-<td><p>Team B <a href="../Page/木崎由里亞.md" title="wikilink">木崎由里亞畢業</a></p></td>
+<td><p>Team B<a href="../Page/木崎由里亞.md" title="wikilink">木崎由里亞畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>118</p></td>
 <td><p>100</p></td>
@@ -1991,7 +1991,7 @@ Team 8 濱松里緒菜畢業</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月13日</p></td>
-<td><p>Team K <a href="../Page/島田晴香.md" title="wikilink">島田晴香畢業</a></p></td>
+<td><p>Team K<a href="../Page/島田晴香.md" title="wikilink">島田晴香畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>117</p></td>
 <td><p>99</p></td>
@@ -2000,7 +2000,7 @@ Team 8 濱松里緒菜畢業</p></td>
 </tr>
 <tr class="even">
 <td><p>11月19日</p></td>
-<td><p>Team 8 奧原妃奈子初次披露</p></td>
+<td><p>Team 8奧原妃奈子初次披露</p></td>
 <td><p>+1</p></td>
 <td><p>118</p></td>
 <td><p>100</p></td>
@@ -2009,7 +2009,7 @@ Team 8 濱松里緒菜畢業</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月1日</p></td>
-<td><p>Team K <a href="https://zh.wikipedia.org/wiki/阿部瑪利亞" title="wikilink">阿部瑪利亞移籍TPE</a>48</p></td>
+<td><p>Team K<a href="https://zh.wikipedia.org/wiki/阿部瑪利亞" title="wikilink">阿部瑪利亞移籍TPE</a>48</p></td>
 <td><p>-1</p></td>
 <td><p>117</p></td>
 <td><p>99</p></td>
@@ -2018,7 +2018,7 @@ Team 8 濱松里緒菜畢業</p></td>
 </tr>
 <tr class="even">
 <td><p>12月31日</p></td>
-<td><p>Team B <a href="../Page/渡邊麻友.md" title="wikilink">渡邊麻友畢業</a></p></td>
+<td><p>Team B<a href="../Page/渡邊麻友.md" title="wikilink">渡邊麻友畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>116</p></td>
 <td><p>98</p></td>
@@ -2035,7 +2035,7 @@ Team 8 濱松里緒菜畢業</p></td>
 </tr>
 <tr class="even">
 <td><p>1月22日</p></td>
-<td><p>Team 4 <a href="../Page/飯野雅.md" title="wikilink">飯野雅畢業</a></p></td>
+<td><p>Team 4<a href="../Page/飯野雅.md" title="wikilink">飯野雅畢業</a></p></td>
 <td><p>-1</p></td>
 <td><p>115</p></td>
 <td><p>97</p></td>
@@ -2044,7 +2044,7 @@ Team 8 濱松里緒菜畢業</p></td>
 </tr>
 <tr class="odd">
 <td><p>2月18日</p></td>
-<td><p>Team 8 舞木香純畢業</p></td>
+<td><p>Team 8舞木香純畢業</p></td>
 <td><p>-1</p></td>
 <td><p>114</p></td>
 <td><p>96</p></td>
@@ -2062,7 +2062,7 @@ Team 8 濱松里緒菜畢業</p></td>
 </tr>
 <tr class="odd">
 <td><p>3月4日</p></td>
-<td><p>Team 8 廣瀨夏樹畢業</p></td>
+<td><p>Team 8廣瀨夏樹畢業</p></td>
 <td><p>-1</p></td>
 <td><p>131</p></td>
 <td><p>95</p></td>
@@ -2093,7 +2093,7 @@ Team 8全體成員開始在團內其他分隊兼任</p></td>
 </tr>
 <tr class="even">
 <td><p>4月20日</p></td>
-<td><p>Team 8 早坂紬畢業</p></td>
+<td><p>Team 8早坂紬畢業</p></td>
 <td><p>-1</p></td>
 <td><p>123</p></td>
 <td><p>96</p></td>
@@ -2102,7 +2102,7 @@ Team 8全體成員開始在團內其他分隊兼任</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月29日</p></td>
-<td><p>Team 8 伊藤星彩、立仙愛理初次披露</p></td>
+<td><p>Team 8伊藤星彩、立仙愛理初次披露</p></td>
 <td><p>+2</p></td>
 <td><p>125</p></td>
 <td><p>98</p></td>
@@ -2111,7 +2111,7 @@ Team 8全體成員開始在團內其他分隊兼任</p></td>
 </tr>
 <tr class="even">
 <td><p>8月8日</p></td>
-<td><p>Team 8 御供茉白初次披露</p></td>
+<td><p>Team 8御供茉白初次披露</p></td>
 <td><p>+1</p></td>
 <td><p>126</p></td>
 <td><p>99</p></td>
@@ -2120,7 +2120,7 @@ Team 8全體成員開始在團內其他分隊兼任</p></td>
 </tr>
 <tr class="odd">
 <td><p>8月10日</p></td>
-<td><p>Team 8 下青木香鈴畢業</p></td>
+<td><p>Team 8下青木香鈴畢業</p></td>
 <td><p>-1</p></td>
 <td><p>125</p></td>
 <td><p>98</p></td>
@@ -2129,8 +2129,8 @@ Team 8全體成員開始在團內其他分隊兼任</p></td>
 </tr>
 <tr class="even">
 <td><p>8月12日</p></td>
-<td><p>Team K <a href="../Page/田野優花.md" title="wikilink">田野優花畢業</a><br />
-Team B <a href="../Page/小嶋菜月.md" title="wikilink">小嶋菜月畢業</a></p></td>
+<td><p>Team K<a href="../Page/田野優花.md" title="wikilink">田野優花畢業</a><br />
+Team B<a href="../Page/小嶋菜月.md" title="wikilink">小嶋菜月畢業</a></p></td>
 <td><p>-2</p></td>
 <td><p>123</p></td>
 <td><p>96</p></td>
@@ -2148,7 +2148,7 @@ Team B <a href="../Page/小嶋菜月.md" title="wikilink">小嶋菜月畢業</a>
 </tr>
 <tr class="even">
 <td><p>9月18日</p></td>
-<td><p>JKT48 留學生Stefi、BNK48 留學生Mobile加入</p></td>
+<td><p>JKT48留學生Stefi、BNK48留學生Mobile加入</p></td>
 <td><p>+2</p></td>
 <td><p>124</p></td>
 <td><p>98</p></td>
@@ -2157,7 +2157,7 @@ Team B <a href="../Page/小嶋菜月.md" title="wikilink">小嶋菜月畢業</a>
 </tr>
 <tr class="odd">
 <td><p>10月15日</p></td>
-<td><p>JKT48 留學生Stefi、BNK48 留學生Mobile留學結束</p></td>
+<td><p>JKT48留學生Stefi、BNK48留學生Mobile留學結束</p></td>
 <td><p>-2</p></td>
 <td><p>122</p></td>
 <td><p>96</p></td>
@@ -2167,7 +2167,7 @@ Team B <a href="../Page/小嶋菜月.md" title="wikilink">小嶋菜月畢業</a>
 <tr class="even">
 <td><p>10月20日</p></td>
 <td><p>Team B選秀研究生 神山莉穂辭退<br />
-Team 8 藤園麗初次披露</p></td>
+Team 8藤園麗初次披露</p></td>
 <td></td>
 <td><p>122</p></td>
 <td><p>97</p></td>
@@ -2176,7 +2176,7 @@ Team 8 藤園麗初次披露</p></td>
 </tr>
 <tr class="odd">
 <td><p>10月29日</p></td>
-<td><p>Team 8 本田仁美 因IZ*ONE专任而活動休止，停止兼任Team B兼任終了</p></td>
+<td><p>Team 8本田仁美 因IZ*ONE专任而活動休止，停止兼任Team B兼任終了</p></td>
 <td></td>
 <td><p>122</p></td>
 <td><p>97</p></td>
@@ -2194,7 +2194,7 @@ Team 8 藤園麗初次披露</p></td>
 </tr>
 <tr class="odd">
 <td><p>11月25日</p></td>
-<td><p>Team B 研究生 梅本和泉辭退</p></td>
+<td><p>Team B研究生 梅本和泉辭退</p></td>
 <td><p>-1</p></td>
 <td><p>119</p></td>
 <td><p>96</p></td>
@@ -2203,7 +2203,7 @@ Team 8 藤園麗初次披露</p></td>
 </tr>
 <tr class="even">
 <td><p>12月3日</p></td>
-<td><p>Team 4 大川莉央畢業</p></td>
+<td><p>Team 4大川莉央畢業</p></td>
 <td><p>-1</p></td>
 <td><p>118</p></td>
 <td><p>95</p></td>
@@ -2231,7 +2231,7 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 </tr>
 <tr class="odd">
 <td><p>1月7日</p></td>
-<td><p>Team K 藤田奈那畢業</p></td>
+<td><p>Team K藤田奈那畢業</p></td>
 <td><p>-1</p></td>
 <td><p>117</p></td>
 <td><p>99</p></td>
@@ -2240,7 +2240,7 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 </tr>
 <tr class="even">
 <td><p>2月2日</p></td>
-<td><p>Team 8・A 長久玲奈畢業</p></td>
+<td><p>Team 8・A長久玲奈畢業</p></td>
 <td><p>-1</p></td>
 <td><p>116</p></td>
 <td><p>98</p></td>
@@ -2249,12 +2249,75 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月7日</p></td>
-<td><p>Team 4 田屋美咲畢業</p></td>
+<td><p>Team 4田屋美咲畢業</p></td>
 <td><p>-1</p></td>
 <td><p>115</p></td>
 <td><p>97</p></td>
 <td><p>25<br />
 (7/2/3)</p></td>
+</tr>
+<tr class="even">
+<td><p>5月5日</p></td>
+<td><p>Team 8・4 野田陽菜乃畢業</p></td>
+<td><p>-1</p></td>
+<td><p>114</p></td>
+<td><p>96</p></td>
+<td><p>25<br />
+(7/2/3)</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月6日</p></td>
+<td><p>Team K野澤玲奈、Team B高橋朱里、竹内美宥畢業</p></td>
+<td><p>-3</p></td>
+<td><p>111</p></td>
+<td><p>93</p></td>
+<td><p>25<br />
+(7/2/3)</p></td>
+</tr>
+<tr class="even">
+<td><p>5月11日</p></td>
+<td><p>Team B研究生播磨七海活动辞退</p></td>
+<td><p>-1</p></td>
+<td><p>110</p></td>
+<td><p>93</p></td>
+<td><p>25<br />
+(7/2/3)</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月12日</p></td>
+<td><p>Team K小嶋真子畢業</p></td>
+<td><p>-1</p></td>
+<td><p>109</p></td>
+<td><p>92</p></td>
+<td><p>25<br />
+(7/2/3)</p></td>
+</tr>
+<tr class="even">
+<td><p>5月13日</p></td>
+<td><p>Team 4研究生 黒須遥香昇格为正式成员</p></td>
+<td></td>
+<td><p>109</p></td>
+<td><p>93</p></td>
+<td><p>25<br />
+(7/2/3)</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月18日</p></td>
+<td><p>Team 8・K 横道侑里畢業</p></td>
+<td><p>-1</p></td>
+<td><p>108</p></td>
+<td><p>92</p></td>
+<td><p>25<br />
+(7/2/3)</p></td>
+</tr>
+<tr class="even">
+<td><p>5月20日</p></td>
+<td><p>Team 8・A 人見古都音畢業</p></td>
+<td><p>-1</p></td>
+<td><p>107</p></td>
+<td><p>91</p></td>
+<td><p>24<br />
+(6/2/3)</p></td>
 </tr>
 </tbody>
 </table>
@@ -3110,6 +3173,20 @@ Team 4选秀研究生 多田京加昇格至所属队伍</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月13日</p></td>
+<td><p>黒須遥香</p></td>
+<td><p>16期</p></td>
+<td><p>4</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -3276,8 +3353,8 @@ Girls**，是AKB48的單曲中演唱B面曲的組合，是由單曲選拔成員�
 
 ## 中心位置
 
-除了少數的歌曲外，AKB48集團大部分的歌曲都是採輪唱或合唱方式錄製與演出，原本並沒有主唱與合音的設定，但在進行歌曲的MV拍攝或舞台表演時，經常會有固定的舞蹈隊形，而負責站在前排正中央、最引人注目位置處的成員就被稱為該曲的「center」（；可譯為「[中心位置](https://zh.wikipedia.org/wiki/中心 "wikilink")」、「中央位置」或「中心站位」）。另外，在AKB48劇場的舞台上由於要讓演出成員們進行站位的校正，在舞台的地面上貼有寫上數字的標誌，其中中央站位的編號是「0」，因此center又常被稱為「0號位」（Zero
-position），而其左右兩邊輔佐位置則是標示著數字「1」，依此往外遞增。
+除了少數的歌曲外，AKB48集團大部分的歌曲都是採輪唱或合唱方式錄製與演出，原本並沒有主唱與合音的設定，但在進行歌曲的MV拍攝或舞台表演時，經常會有固定的舞蹈隊形，而負責站在前排正中央、最引人注目位置處的成員就被稱為該曲的「center」（），可譯為「[中心位置](https://zh.wikipedia.org/wiki/中心 "wikilink")」、「中央位置」或「中心站位」。另外，在AKB48劇場的舞台上由於要讓演出成員們進行站位的校正，在舞台的地面上貼有寫上數字的標誌，其中中央站位的編號是「0」，因此center又常被稱為「0號位」（Zero
+position），而其左右兩邊輔佐位置則是分別標示著數字「1」、「2」，依此往外遞增。
 
 擔任歌曲center的成員，等同是表演時全團的[主唱](https://zh.wikipedia.org/wiki/主唱 "wikilink")，除了錄製歌曲時独唱部分也比其他成员多之外，通常在進行歌曲的MV拍攝時，經常會同時擔任MV劇情的主角、或擁有比例較多的鏡頭，其他站在第一排的成員次之，之後才是站在第二、第三排的成員。在參與音樂節目的演出或舞台表演的錄影時，以center為主的前排成員被鏡頭拍到的機率也相對較高，若有進行主持人的採訪，除了總監督或隊長等有特殊職務的成員外，也通常是由當時擔任center的成員代表其他成員受訪，或负责介紹歌曲。也因為獲得的媒體資源較其他成員高有較多的機會拓展自己的知名度，想要成為center或想要擁有更前排的站位往往成為許多AKB48成員們的夢想或努力目標。
 
@@ -3285,9 +3362,9 @@ position），而其左右兩邊輔佐位置則是標示著數字「1」，依�
 
 大部分AKB48單曲的center都是由綜合製作人秋元康與經營團隊指派，此概念最早可以回溯至2006年4月Team A的第二部公演「[Team
 A 2nd
-Stage「好想見你」](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「好想見你」 "wikilink")」（）中一首4人小組曲《沙灘的櫻桃》（），當時秋元指定前田敦子擔任歌曲的主唱，穿著不同顏色的演出服，並由其他3名成員擔任和聲，而形成「center」的概念，之後前田也陸續擔任了大部分AKB48單曲的center直到畢業離團為止。但在眾多的單曲中，有少數幾張的center人選並非由製作團隊決定，如2010年8月推出的單曲《[無限重播](../Page/無限重播.md "wikilink")》，是由在當年稍早所舉辦的AKB48[第二屆單曲選拔總選舉勝出的](../Page/AKB48第17張單曲選拔總選舉「向母親發誓，這是真的」.md "wikilink")[大島優子擔任center](../Page/大島優子.md "wikilink")；而AKB48的「選拔總選舉」，也成為每年舉辦一次、極受歌迷與日本國內外媒體矚目的定期活動。同年9月，[內田真由美在](../Page/內田真由美.md "wikilink")[第一屆單曲選拔猜拳大會中獲得最後的優勝](https://zh.wikipedia.org/wiki/AKB48第19張單曲選拔猜拳大會 "wikilink")，而成為12月推出的《[機會的順序](../Page/機會的順序.md "wikilink")》一曲的center，之後此活動也固定每年舉辦一次，但在2014年及2015年改為冠軍發行個人單曲，2016年改為優勝的前七名成員組團發行單曲、並由冠軍擔任center。
+Stage「好想見你」](https://zh.wikipedia.org/wiki/Team_A_2nd_Stage「好想見你」 "wikilink")」（）中一首4人小組曲《沙灘的櫻桃》（），當時秋元指定前田敦子擔任歌曲的主唱，穿著不同顏色的演出服，並由其他3名成員擔任和聲，而形成「center」的概念，之後前田也陸續擔任了大部分AKB48單曲的center直到畢業離團為止。但在眾多的單曲中，有少數幾張的center人選並非由製作團隊決定，如2010年8月推出的單曲《[無限重播](../Page/無限重播.md "wikilink")》，是由在當年稍早所舉辦的AKB48[第二屆單曲選拔總選舉勝出的](../Page/AKB48第17張單曲選拔總選舉「向母親發誓，這是真的」.md "wikilink")[大島優子擔任center](../Page/大島優子.md "wikilink")；而AKB48的「[選拔總選舉](../Page/AKB48選拔總選舉.md "wikilink")」，也成為每年固定舉辦、極受歌迷與日本國內外媒體矚目的定期活動。同年9月，[內田真由美在](../Page/內田真由美.md "wikilink")[第一屆單曲選拔猜拳大會中獲得最後的優勝](https://zh.wikipedia.org/wiki/AKB48第19張單曲選拔猜拳大會 "wikilink")，而成為12月推出的《[機會的順序](../Page/機會的順序.md "wikilink")》一曲的center；之後也固定每年舉辦一次，但在2014年及2015年改為冠軍發行個人單曲，2016年改為優勝的前七名成員組團發行單曲、並由冠軍擔任center。
 
-  - 各单曲A面曲擔任center者
+下方臚列各單曲（[標題曲](../Page/A面與B面.md "wikilink")）擔任center者。
 
 ### 独立制作單曲
 

@@ -282,7 +282,7 @@ Microsoft.ServiceBus.dll)，以供開發人員使用\[6\]。
 ## 外部連結
 
 1.  [MSDN Windows Azure AppFabric Developer
-    Center](http://msdn.microsoft.com/en-us/azure/netservices.aspx)
+    Center](https://web.archive.org/web/20100614055207/http://msdn.microsoft.com/en-us/azure/netservices.aspx)
 2.  [Windows Azure AppFabric Team
     Blog](http://blogs.msdn.com/b/netservices/)
 3.  [Windows Azure AppFabric Announcement
@@ -293,8 +293,6 @@ Microsoft.ServiceBus.dll)，以供開發人員使用\[6\]。
     Enviroment](https://portal.appfabriclabs.com/)
 6.  [Windows Azure AppFabric Management
     Portal](https://appfabric.azure.com)
-
-[en:AppFabric](https://zh.wikipedia.org/wiki/en:AppFabric "wikilink")
 
 [Category:微軟](https://zh.wikipedia.org/wiki/Category:微軟 "wikilink")
 [Category:Microsoft_Windows](https://zh.wikipedia.org/wiki/Category:Microsoft_Windows "wikilink")

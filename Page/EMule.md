@@ -26,8 +26,7 @@ eMule
 2007年开始，一些ISP对一些P2P端口使用了[带宽限制](https://zh.wikipedia.org/wiki/带宽限制 "wikilink")\[4\]。于是eMule
 0.47b相应地加入了[模糊协议](https://zh.wikipedia.org/wiki/模糊协议 "wikilink")，它能够在eMule第一次运行时自动地随机选择两个端口\[5\]。
 
-现在的eMule较为稳定，不再像以前那样频繁更新。现在的更新间隔约为6个月以上甚至一年。目前eMule的最新版本为2015年3月20日发布的0.50b
-Beta1。
+现在的eMule较为稳定，不再像以前那样频繁更新。现在的更新间隔约为6个月以上甚至一年。目前eMule的最新版本为2019年2月27日发布的0.51c-community。
 
 ## 主要功能
 
@@ -225,7 +224,7 @@ Mods的作者为其Mod增加了反吸血驴功能，其中使用最广的是Xman
 20. 根据权威Mod站点[emule-mods.de的Mod页面](http://www.emule-mods.de/?mods=start)以及[eMule官方论坛Mod区](http://forum.emule-project.net/index.php?showforum=15)的讨论列举。另台湾程序员开发的[EastShare也包含在内](https://zh.wikipedia.org/wiki/eMule_EastShare_Mod "wikilink")。
 
 21. \[<http://emulefans.com/easymule-remove-ed2k-kad-search/comment-page-5/#comment-8983>,
-    VeryCD easyMule徹底去除eD2k伺服器和Kad網路搜尋\]。
+    VeryCD easyMule徹底去除eD2k伺服器和Kad網路搜尋\] 。
 
 22. \[<http://blog.sdlpc.org/sdlpc-sdc-auto-update-url/>, SDC更新主頁\] 。
 

@@ -17,7 +17,7 @@ AT\&T體育場現已成為達拉斯地區舉辦重大活動的主要場館之一
 
 ## 外部連結
 
-  - [AT\&T體育場官方網站](http://stadium.dallascowboys.com/)
+  - [AT\&T體育場官方網站](https://web.archive.org/web/20120118103714/http://stadium.dallascowboys.com/)
 
 ## 參考資料
 

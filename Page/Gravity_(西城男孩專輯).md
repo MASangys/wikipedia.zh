@@ -158,7 +158,7 @@ Star*訪問時承認與[JLS在專輯排名上的爭奪會落敗](../Page/JLS.md 
 
 20. <https://archive.is/20120703040150/sonymusicphil.wordpress.com/2010/11/04/sony-music-november-2010-album-releases/>
 
-21. <http://www.hmv.com.hk/product/rockpop.asp?sku=168988>
+21.
 
 22. <http://muzyka.onet.pl/0,2227842,newsy.html>
 

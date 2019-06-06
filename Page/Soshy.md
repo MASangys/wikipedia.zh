@@ -70,6 +70,9 @@ Dark](https://zh.wikipedia.org/wiki/Morning_After_Dark "wikilink")"。\[3\]
 [Category:1982年出生](https://zh.wikipedia.org/wiki/Category:1982年出生 "wikilink")
 [Category:在世人物](https://zh.wikipedia.org/wiki/Category:在世人物 "wikilink")
 [Category:法國歌手](https://zh.wikipedia.org/wiki/Category:法國歌手 "wikilink")
+[Category:俄羅斯猶太裔法國人](https://zh.wikipedia.org/wiki/Category:俄羅斯猶太裔法國人 "wikilink")
+[Category:義大利裔法國人](https://zh.wikipedia.org/wiki/Category:義大利裔法國人 "wikilink")
+[Category:阿根廷裔法國人](https://zh.wikipedia.org/wiki/Category:阿根廷裔法國人 "wikilink")
 
 1.
 

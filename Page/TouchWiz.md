@@ -29,7 +29,7 @@ Mobile的三星手机用戶界面](../Page/Windows_Mobile.md "wikilink")。
     2，Note 3，Note 4，Note 5，Note 7，Note Edge
 
   - [三星Galaxy C系列C](../Page/三星Galaxy_C系列.md "wikilink")5 Pro，C7 Pro，C9
-    Pro，C8，C5，C7，C9
+    Pro，C8，C5，C7
 
   - [三星Galaxy
     A系列A](../Page/三星Galaxy_A系列.md "wikilink")5(2015)，A9(2016)，A9

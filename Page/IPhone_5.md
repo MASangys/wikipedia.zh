@@ -65,8 +65,8 @@ iPhone 5于9月14日起正式开始接受预订。
 ## 品质問題
 
 蘋果公司重新設計了iPhone
-5的外框倒角，先用金剛石切削并抛光，再做陽極氧化上漆。iPhone5反應普遍良好，惟有用户發現，黑色版iPhone
-5的倒角漆面易脱落，甚至从未使用過的新機的倒角區域已有缺口。\[6\]網絡上流傳，[蘋果的SVP](https://zh.wikipedia.org/wiki/蘋果 "wikilink")[菲利普·席勒以電子郵件形式回應該名用戶](https://zh.wikipedia.org/wiki/菲利普·席勒 "wikilink")，指经过使用的手机出现掉漆现象是正常，但這不代表官方回應。\[7\]而白色版则有用户发现其前屏幕漏光。\[8\][CNN網站刊登署名為Doug](https://zh.wikipedia.org/wiki/CNN "wikilink")
+5的外框倒角，先用[金剛石切削并抛光](https://zh.wikipedia.org/wiki/金剛石 "wikilink")，再做[陽極氧化上漆](https://zh.wikipedia.org/wiki/陽極氧化 "wikilink")。iPhone5反應普遍良好，惟有用户發現，黑色版iPhone
+5的倒角漆面易脱落，甚至从未使用過的新機的倒角區域已有缺口。\[6\]網絡上流傳，蘋果的SVP[菲利普·席勒以電子郵件形式回應該名用戶](https://zh.wikipedia.org/wiki/菲利普·席勒 "wikilink")，指经过使用的手机出现掉漆现象是正常，但這不代表官方回應。\[7\]而白色版则有用户发现其前屏幕漏光。\[8\][CNN網站刊登署名為Doug](https://zh.wikipedia.org/wiki/CNN "wikilink")
 Gross的文章，列舉了包括黑色版掉漆、白色版漏光在内的iPhone 5用户的五大怨言。
 
 ## 相关条目

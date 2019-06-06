@@ -1,30 +1,32 @@
 《**假面骑士 THE
 FIRST**》（）是《[假面骑士](https://zh.wikipedia.org/wiki/假面骑士 "wikilink")》诞生35周年纪念作。作品回归原点，以1971年首部《假面骑士》的故事为蓝本展开，讲述了本乡猛与一文字隼人对抗修卡组织的故事。作品展现给观众一种写实的风格，是一部具有现代风格、[成人向的特摄作品](https://zh.wikipedia.org/wiki/成人向 "wikilink")。
 
-## 人物介绍
+## 登場人物
 
-### 本乡猛
+**本乡猛（）**（[黄川田将也飾](../Page/黄川田将也.md "wikilink")）
 
-[黄川田将也](../Page/黄川田将也.md "wikilink") 饰：
-东京城南大学的高才生。某日在回家的途中被修卡掳走改造成了蝗虫怪人。起初沉溺于自己所获得的强大力量，最后在一次行动中看到正巧下起的雪花，恢复了理智。开始作为假面骑士对抗修卡。
+  -
+    **假面騎士1號**的變身者，东京城南大学的高才生。某日在回家的途中被修卡掳走改造成了蝗虫怪人。起初沉溺于自己所获得的强大力量，最后在一次行动中看到正巧下起的雪花，恢复了理智。开始作为假面骑士对抗修卡。
 
-### 一文字隼人
+**一文字隼人（）**（飾\[1\]）
 
-[高野八誠](https://zh.wikipedia.org/wiki/高野八誠 "wikilink")
-饰：(曾出演《[假面骑士龙骑](https://zh.wikipedia.org/wiki/假面骑士龙骑 "wikilink")》中假面骑士Raia
-手冢海之)
-按照死神博士的想法“要打倒HOPPER就要使用HOPPER的力量”被改造成蝗虫怪人，接受了消灭叛徒本乡猛的使命。最后为了心爱的女人背叛修卡，成为假面骑士2号。
+  -
+    **假面騎士2號**的變身者，按照死神博士的想法“要打倒HOPPER就要使用HOPPER的力量”被改造成蝗虫怪人，接受了消灭叛徒本乡猛的使命。最后为了心爱的女人背叛修卡，成为假面骑士2号。
 
-### 立花藤兵卫
+**矢野克彦（）**（飾）
 
-[宫内洋](https://zh.wikipedia.org/wiki/宫内洋 "wikilink")
-饰：（曾主演《[假面骑士V3](https://zh.wikipedia.org/wiki/假面骑士V3 "wikilink")》主角风见志郎）
-本乡的机车师傅。
+  -
+    明日香未婚夫。
 
-### 绿川明日香
+**绿川明日香（）**（飾）
 
-[小嶺麗奈](https://zh.wikipedia.org/wiki/小嶺麗奈 "wikilink") 饰：
-记者
+  -
+    记者。
+
+**立花藤兵卫（）**（飾）\[2\]
+
+  -
+    本乡的机车师傅。
 
 ## 假面骑士
 
@@ -106,3 +108,6 @@ FIRST**》（）是《[假面骑士](https://zh.wikipedia.org/wiki/假面骑士 
 [Category:2005年日本電影](https://zh.wikipedia.org/wiki/Category:2005年日本電影 "wikilink")
 [Category:日本漫畫作品](https://zh.wikipedia.org/wiki/Category:日本漫畫作品 "wikilink")
 [Category:重製特攝電影](https://zh.wikipedia.org/wiki/Category:重製特攝電影 "wikilink")
+
+1.  高野八誠曾出演《[假面骑士龙骑](https://zh.wikipedia.org/wiki/假面骑士龙骑 "wikilink")》中的手冢海之
+2.  宮内洋曾主演《[假面骑士V3](https://zh.wikipedia.org/wiki/假面骑士V3 "wikilink")》主角风见志郎

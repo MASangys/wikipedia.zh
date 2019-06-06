@@ -113,8 +113,6 @@ Code Jam已经举办了3期\[17\]。
 
 <references/>
 
-[en:Hack Day](https://zh.wikipedia.org/wiki/en:Hack_Day "wikilink")
-
 [Category:電腦文化](https://zh.wikipedia.org/wiki/Category:電腦文化 "wikilink")
 [Category:Web_2.0](https://zh.wikipedia.org/wiki/Category:Web_2.0 "wikilink")
 [Category:研討會](https://zh.wikipedia.org/wiki/Category:研討會 "wikilink")

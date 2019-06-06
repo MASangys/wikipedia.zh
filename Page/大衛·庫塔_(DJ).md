@@ -1,4 +1,4 @@
-**皮埃爾·「大卫」·詹姆斯·库塔**（，），出生於[巴黎](../Page/巴黎.md "wikilink")，是[法國一位](https://zh.wikipedia.org/wiki/法國 "wikilink")[浩室](https://zh.wikipedia.org/wiki/浩室 "wikilink")[唱片騎師及](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")。
+**皮埃爾·「大卫」·雅姆·庫塔**（，），出生於[巴黎](../Page/巴黎.md "wikilink")，是[法國一位](https://zh.wikipedia.org/wiki/法國 "wikilink")[浩室](https://zh.wikipedia.org/wiki/浩室 "wikilink")[唱片騎師及](https://zh.wikipedia.org/wiki/唱片騎師 "wikilink")[音樂製作人](../Page/音樂製作人.md "wikilink")。
 
 庫塔在1980年至1990年代原於[夜店擔任DJ](../Page/夜總會.md "wikilink")，2001年創立Gum
 Productions唱片公司並於隔年發行首張專輯《[再愛多一點](https://zh.wikipedia.org/wiki/再愛多一點 "wikilink")》，之後又分別於2004年與2007年發行《[轟狂趴踢](https://zh.wikipedia.org/wiki/轟狂趴踢 "wikilink")》與《[獨領風騷](https://zh.wikipedia.org/wiki/獨領風騷_\(專輯\) "wikilink")》兩張專輯，其中還收錄了庫塔的暢銷單曲《Delirious》。庫塔在2009年發行的專輯《[舞動真愛](https://zh.wikipedia.org/wiki/舞動真愛 "wikilink")》為他打入了主流市場，收錄的三首歌《[真愛奇襲](https://zh.wikipedia.org/wiki/真愛奇襲 "wikilink")》、《[Gettin'

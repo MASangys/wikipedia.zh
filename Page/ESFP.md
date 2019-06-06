@@ -88,7 +88,7 @@ Ni将看起来矛盾的事物合成出先前无法想象的成果，同时它也
   - [TypeLogic ESFP](http://typelogic.com/esfp.html)
   - [Personality Page ESFP](http://www.personalitypage.com/ESFP.html)
   - [The Myers & Briggs Foundation: The 16 MBTI
-    Types](http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
+    Types](https://web.archive.org/web/20090513191631/http://www.myersbriggs.org/my-mbti-personality-type/mbti-basics/the-16-mbti-types.asp)
   - [PersonalityDesk: ESFP
     Profile](https://web.archive.org/web/20100315081448/http://www.personalitydesk.com/esfp-type-description.php)
 

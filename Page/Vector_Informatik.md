@@ -88,9 +88,7 @@ CANopen。汽車电子控制单元是Vector关注的焦点。 然而不僅如此
 5.  [News from Vector
     website](http://www.vector.com/vi_news_detail_en,,,914185,detail.html)
 
-6.  [Press release "Holders transfer ownership of Vector Informatik GmbH
-    to two
-    foundations"](http://www.vector.com/portal/medien/cmc/press/Vector/Vector_Foundation_PressRelease_201110_EN.pdf)
+6.
 
 7.
 8.  [Diagnostic Validation with
@@ -109,8 +107,7 @@ CANopen。汽車电子控制单元是Vector关注的焦点。 然而不僅如此
     ZF](http://www.vector.com/portal/medien/cmc/press/PPT/eASEE_ZF_AutomobilElektronik_200805_PressArticle_EN.pdf)
 
 
-13. [Wireless interfacing of development and analysis tools at Bomag
-    AG](http://www.vector.com/portal/medien/cmc/press/PON/BOMAG_CAN_Newsletter_200806_PressArticle_EN.pdf)
+13.
 
 14. [Integrated diagnostic and flash solution for LuK
     GmbH](http://www.vector.com/portal/medien/cmc/press/Vector/Flashing_LuK_AutomobilElektronik_200802_PressArticle_EN.pdf)

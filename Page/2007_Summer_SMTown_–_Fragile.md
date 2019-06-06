@@ -45,8 +45,5 @@ Entertainment簽約後第一次參與合輯的錄製](https://zh.wikipedia.org/w
 
   - [SM Entertainment's Official Page](http://www.smtown.com/)
 
-[en:2007 Summer SMTown –
-Fragile](https://zh.wikipedia.org/wiki/en:2007_Summer_SMTown_–_Fragile "wikilink")
-
 [Category:SM_Town音樂專輯](https://zh.wikipedia.org/wiki/Category:SM_Town音樂專輯 "wikilink")
 [Category:2007年音樂專輯](https://zh.wikipedia.org/wiki/Category:2007年音樂專輯 "wikilink")

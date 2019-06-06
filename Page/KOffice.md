@@ -45,7 +45,8 @@ KOffice
 
 ## 外部連結
 
-  - [KOffice website](http://www.koffice.org)
+  - [KOffice
+    website](https://web.archive.org/web/20051231231712/http://www.koffice.org/)
   - [KOffice
     Wiki](https://web.archive.org/web/20121102155223/http://wiki.koffice.org/)
   - [KOffice Forum](http://forum.kde.org/viewforum.php?f=96)

@@ -28,7 +28,7 @@ Candy](../Page/Maddy_Candy.md "wikilink")」相同，解說文由[重金屬音�
 
   - [TBS電視台・K-ON\!\!官方網頁/唱片情報](http://www.tbs.co.jp/anime/k-on/disc/cd_3.html)
 
-  - [波麗佳音](http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201000000902&DSP_SKHKETSEQ=001)
+  - [波麗佳音](https://web.archive.org/web/20100615040944/http://hp.ponycanyon.co.jp/pchp/cgi-bin/PCHPM.pl?TRGID=PCHP_SKH_1010&CMD=DSP&DSP_SKHBNG=201000000902&DSP_SKHKETSEQ=001)
 
 
 [Category:2010年單曲](https://zh.wikipedia.org/wiki/Category:2010年單曲 "wikilink")

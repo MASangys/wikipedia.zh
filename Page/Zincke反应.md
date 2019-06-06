@@ -40,7 +40,7 @@ resin）上\[8\]
 醛](../Page/Zincke醛.md "wikilink")。\[10\]
 
 
-[ZinckeAldehyde.png](https://zh.wikipedia.org/wiki/File:ZinckeAldehyde.png "fig:ZinckeAldehyde.png")
+[Zincke-Aldehyde.svg](https://zh.wikipedia.org/wiki/File:Zincke-Aldehyde.svg "fig:Zincke-Aldehyde.svg")
 
 ## 2007年“重新发现”
 

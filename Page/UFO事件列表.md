@@ -567,7 +567,7 @@
 <tr class="odd">
 <td><p>2008-01-01</p></td>
 <td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/圣地亚哥" title="wikilink">圣地亚哥</a>，<a href="../Page/加利福尼亚州.md" title="wikilink">加利福尼亚州</a></p></td>
+<td><p><a href="../Page/聖地牙哥_(加利福尼亞州).md" title="wikilink">圣地亚哥</a>，<a href="../Page/加利福尼亚州.md" title="wikilink">加利福尼亚州</a></p></td>
 <td><p>美国</p></td>
 <td><p>在除夕夜，有人目击了9个不同的亮点在夜空中移动。在全世界范围内，都有人据称看到了相似的亮点。在随后的一则FOX新闻中，主持人Jim Patten解释说这些其实是中国春节的孔明灯。2008年2月16日，有2人在米拉玛空军基地看到了一个大型球状物体。</p></td>
 <td><p>1</p></td>
@@ -720,7 +720,7 @@
 <tr class="even">
 <td><p>2010-10-13</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/2010年10月13日纽约市UFO目击事件" title="wikilink">2010年10月13日纽约市UFO目击事件</a></p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/切尔西" title="wikilink">切尔西</a>，<a href="https://zh.wikipedia.org/wiki/纽约市" title="wikilink">纽约市</a></p></td>
+<td><p><a href="../Page/雀兒喜_(紐約).md" title="wikilink">切尔西</a>，<a href="https://zh.wikipedia.org/wiki/纽约市" title="wikilink">纽约市</a></p></td>
 <td><p>美国</p></td>
 <td><p>数百人聚集在街道上目击了一个圆柱形型白色物体在城市上空飞行。其中一位目击者称起初只有一个圆柱形物体，但随后分裂成了数千个小圆柱形物体。当地Channel 7的记者Jeff Pegues随后报道说联邦航空局方面表示“我们的飞机并没有受到这些亮点的影响”</p></td>
 <td><p>1</p></td>

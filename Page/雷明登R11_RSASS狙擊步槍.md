@@ -75,7 +75,7 @@ RSASS的主要市場是[執法機關和](../Page/警察.md "wikilink")[軍隊的
 
 ## 使用國
 
-  - ：被[馬來西亞海軍](https://zh.wikipedia.org/wiki/馬來西亞海軍 "wikilink")[特種部隊](../Page/特種部隊.md "wikilink")（[馬來語](https://zh.wikipedia.org/wiki/馬來語 "wikilink")：Pasukan Khas Laut，簡稱：PASKAL）所採用。
+  -   - [馬來西亞海軍特種作戰部隊](https://zh.wikipedia.org/wiki/海軍特種作戰部隊 "wikilink")
 
 ## 流行文化
 
@@ -90,6 +90,7 @@ RSASS的主要市場是[執法機關和](../Page/警察.md "wikilink")[軍隊的
   - 2012年—《[战争前线](../Page/战争前线.md "wikilink")》（Warface）：命名為「Remington
     R11 RSASS」，20
     發[彈匣](../Page/彈匣.md "wikilink")，银灰色枪身，枪口装有类似于反器材步枪的横柱型枪口制动器，为狙击手专用武器。只能通过抽奖获得，可以改装枪口配件（[通用消音器](../Page/抑制器.md "wikilink")、狙击枪消音器、[狙击枪制退器](https://zh.wikipedia.org/wiki/炮口制动器 "wikilink")）、战术导轨配件（[狙击枪双脚架](https://zh.wikipedia.org/wiki/两脚架 "wikilink")、特殊狙击枪双脚架）以及瞄准镜（[狙击枪5.5x瞄准镜](../Page/瞄准镜.md "wikilink")、狙击枪4.5x中程瞄准镜、[狙击枪4x短程瞄准镜](https://zh.wikipedia.org/wiki/Trijicon_TR20瞄准镜 "wikilink")、狙击槍5x快速瞄准镜）。拥有黄金版本，强化射程，威力和载弹量
+  - 2016年—《》（Escape From Tarkov）
 
 ## 參見
 
@@ -143,7 +144,7 @@ RSASS的主要市場是[執法機關和](../Page/警察.md "wikilink")[軍隊的
 ## 外部連結
 
   - —[Remington Defense—R11
-    RSASS](http://www.remingtonmilitary.com/Firearms/Sniper%20Rifles/RSASS.aspx)
+    RSASS](https://web.archive.org/web/20170719074417/http://www.remingtonmilitary.com/firearms/sniper%20rifles/rsass.aspx)
 
   - —[Modern Firearms—Remington R11 RSASS rifle / Semi-Automatic Sniper
     System](http://world.guns.ru/sniper/sniper-rifles/usa/rsass-e.html)

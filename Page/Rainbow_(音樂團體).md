@@ -481,7 +481,6 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
 | 2015年 | [TVN](../Page/TVN.md "wikilink")                                                | [沒禮貌的英愛小姐第14季](../Page/沒禮貌的英愛小姐.md "wikilink")                            | [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink") | 趙賢榮             | 全集          |                                |
 | 2015年 | [MBC](https://zh.wikipedia.org/wiki/MBC "wikilink")                             | [偉大的糟糠之妻](../Page/偉大的糟糠之妻.md "wikilink")                                  | [允慧](https://zh.wikipedia.org/wiki/鄭允惠 "wikilink") | 韓公主             | 配角          | 全集                             |
 | 2015年 | [NAVER](../Page/NAVER.md "wikilink")                                            | [高貴的你](../Page/高貴的你.md "wikilink")                                        | [栽經](../Page/金栽經.md "wikilink")                    | 車允序             | 主角          | 全集                             |
-| 2015年 | [TVN](../Page/TVN.md "wikilink")                                                | [前女友俱樂部](../Page/前女友俱樂部.md "wikilink")                                    | 全體                                                 | 方明秀家中屏風\[88\]   |             |                                |
 | 2016年 | [TVN](../Page/TVN.md "wikilink")                                                | [沒禮貌的英愛小姐第15季](../Page/沒禮貌的英愛小姐.md "wikilink")                            | [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink") | 趙賢榮             | 全集          |                                |
 | 2016年 | [JTBC](../Page/JTBC.md "wikilink")                                              | [Madame Antoine](https://zh.wikipedia.org/wiki/Madame_Antoine "wikilink") | [栽經](../Page/金栽經.md "wikilink")                    | 朱妮              | 客串          | 全集                             |
 | 2016年 | [FNC Entertainment](https://zh.wikipedia.org/wiki/FNC_Entertainment "wikilink") | [88號街](https://zh.wikipedia.org/wiki/88號街 "wikilink")                     | [丞芽](../Page/吳丞芽.md "wikilink")                    | 素美              | 主角          | 全集                             |
@@ -530,11 +529,11 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
 ### 遊戲聯動
 
   - 2012年10月
-    日本桌面遊戲[世界之樹](https://zh.wikipedia.org/wiki/Yggdrasil "wikilink")\[89\]
+    日本桌面遊戲[世界之樹](https://zh.wikipedia.org/wiki/Yggdrasil "wikilink")\[88\]
   - 2014年12月 韓國手機遊戲
     [偶像夢想﹕女孩](https://zh.wikipedia.org/wiki/Idol_Dream:Girls "wikilink")(아이돌드림:걸즈)
   - 2015年5月
-    台灣桌面遊戲[Mstar](https://zh.wikipedia.org/wiki/Mstar "wikilink")\[90\]
+    台灣桌面遊戲[Mstar](https://zh.wikipedia.org/wiki/Mstar "wikilink")\[89\]
 
 ### 雜誌
 
@@ -543,8 +542,8 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
   - 2010年4月
     “Mickey”服飾平面拍攝（[栽經](../Page/金栽經.md "wikilink")、[佑麗](https://zh.wikipedia.org/wiki/高佑麗 "wikilink")）
   - 2010年10月 “CK”服飾拍攝（[栽經](../Page/金栽經.md "wikilink") +
-    [MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")）\[91\]
-  - 2011年12月 “SURE”雜誌平面拍攝\[92\]
+    [MBLAQ](https://zh.wikipedia.org/wiki/MBLAQ "wikilink")）\[90\]
+  - 2011年12月 “SURE”雜誌平面拍攝\[91\]
   - 2014年3月 “MAXIM
     KOREA”雜誌平面拍攝（[賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")）
   - 2014年3月 “SURE”雜誌平面拍攝（[栽經](../Page/金栽經.md "wikilink")）
@@ -586,7 +585,7 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
 | 2014年4月8日至7月1日        | XTM        | HOMME 6.0         | [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink")                                         |
 | 2014年7月30日至10月8日      | KBS        | 早間廣場              | [智淑](../Page/金智淑_\(藝人\).md "wikilink")                                                     |
 | 2014年11月17日至12月29日    | MBC Every1 | 最高的拉面             |                                                                                            |
-| 2014年12月26日至今         | InsiteTV   | Girl's Wiki\[93\] | [智淑](../Page/金智淑_\(藝人\).md "wikilink")、 [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink") |
+| 2014年12月26日至今         | InsiteTV   | Girl's Wiki\[92\] | [智淑](../Page/金智淑_\(藝人\).md "wikilink")、 [賢榮](https://zh.wikipedia.org/wiki/趙賢榮 "wikilink") |
 
 ### 綜藝節目
 
@@ -1786,6 +1785,7 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
 |       |        |                                                     |                                                                   |                 |          |
 | ----- | ------ | --------------------------------------------------- | ----------------------------------------------------------------- | --------------- | -------- |
 | 年份    | 日期     | 電視台                                                 | 節目名稱                                                              | 獲獎歌曲            | 排名       |
+| 2011年 | 12月23日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink") | ...To Me        | 年終結算:42位 |
 | 2013年 | 12月26日 | [KBS](https://zh.wikipedia.org/wiki/KBS "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink") | Tell Me Tell me | 年終結算:40位 |
 
 ### 偶像運動會獎項
@@ -1873,7 +1873,7 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
 15. [레인보우, 'MACH' 음원 공개 '섹시 여전사
     변신'](http://tvdaily.asiae.co.kr/read.php3?aid=128744420095469002)
 
-16. [被禁播的Rainbow肚臍舞，“《大物》中能播放，《人氣歌謠》中不行？”](http://china.joins.com/big5/article.do?method=detail&art_id=53425)
+16.
 
 17. [‘음중’ 굿바이 레인보우, 도도하게\! 깜찍하게\! A부터
     Mach까지\!](http://tvdaily.asiae.co.kr/read.php3?aid=1289632143102796010)
@@ -1999,7 +1999,7 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
 68. [Rainbow確定下月回歸
     新專輯收錄成員作品](http://eladies.sina.com.tw/getnews.php?newsid=144115)
 
-69. [智淑變身攝影師為 I.B.I 拍個人資料照片](http://kpopn.niusnews.com/=K0nnhol9)
+69.
 
 70.
 
@@ -2037,18 +2037,15 @@ Media宣布Rainbow於](https://zh.wikipedia.org/wiki/DSP_Media "wikilink")11月1
 
 87.
 
-88. <https://twitter.com/no_eul/status/597010271824007168>
-    盧乙在Twitter的相關劇集截圖
+88. [「世界之樹」Rainbow限定角色活動](http://www.onlinegamer.jp/news/201210120022/)
 
-89. [「世界之樹」Rainbow限定角色活動](http://www.onlinegamer.jp/news/201210120022/)
-
-90. [「Mstar」
+89. [「Mstar」
     Rainbow主題頁面](https://event.mstar.garena.tw/event/20150506-Rainbow/)
 
-91. [MBLAQ-Rainbow金栽經
+90. [MBLAQ-Rainbow金栽經
     拍攝海報演繹黑色誘惑](http://www.koreastardaily.com/tc/photo/5168)
 
-92. [Rainbow身穿魅惑華麗服飾，變身派對女郎](http://kpoppark.com/201111/1913480528453.html)
+91. [Rainbow身穿魅惑華麗服飾，變身派對女郎](http://kpoppark.com/201111/1913480528453.html)
 
 
-93.
+92.

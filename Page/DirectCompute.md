@@ -24,7 +24,7 @@ API中得以实现](https://zh.wikipedia.org/wiki/DirectX#DirectX_11 "wikilink")
 
 ## 外部連結
 
-  - [开源计算机图形学社区](http://www.opengpu.org)（非官方）
+  - [开源计算机图形学社区](https://web.archive.org/web/20190122085224/http://www.opengpu.org/)（非官方）
   - [Compute Shader
     Overview](http://msdn.microsoft.com/en-us/library/ff476331%28v=VS.85%29.aspx)
   - [DirectCompute Lecture

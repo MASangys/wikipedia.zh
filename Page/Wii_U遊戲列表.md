@@ -402,7 +402,7 @@ U電玩主機遊戲軟體](../Page/Wii_U.md "wikilink")。
 [Category:Wii_U遊戲](https://zh.wikipedia.org/wiki/Category:Wii_U遊戲 "wikilink")
 
 1.
-2.  <http://www.joystiq.com/2011/06/07/nintendo-wii-u-games-montage-darksiders-2-aliens-colonial-mar/>
+2.
 3.  <http://www.eurogamer.net/articles/2011-09-05-dragon-quest-x-confirmed-for-wii-u>
 4.  <http://e3.nintendo.com/games/#/wiiu/lego-city-undercover>
 5.

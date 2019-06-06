@@ -27,7 +27,7 @@ FAN)，與有「電飯煲大王」之稱的已故信興集團創辦人蒙民偉�
 ## 物業名字
 
 Lexington Hill的名字類似Lexington
-Hills，後者位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[聖塔克拉拉縣](https://zh.wikipedia.org/wiki/聖塔克拉拉縣 "wikilink")，人稱[矽谷](https://zh.wikipedia.org/wiki/矽谷 "wikilink")。
+Hills，後者位於[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[聖塔克拉拉縣](../Page/聖塔克拉拉縣.md "wikilink")，人稱[矽谷](https://zh.wikipedia.org/wiki/矽谷 "wikilink")。
 
 ## 交通
 

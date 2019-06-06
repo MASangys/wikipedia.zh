@@ -107,7 +107,7 @@ Union**，amero）是一理论上在未来的[北美联盟中使用的货币](..
   - [“阴谋观察：Amero”](http://www.motherjones.com/news/outfront/2007/05/conspiracy_watch_amero.html),
   - Pastor, Dr. Robert A.,
     [牧师，博士罗伯特A，西半球的小组委员会邀请美国参议院外交关系委员会证词](http://www.senate.gov/~foreign/testimony/2005/PastorTestimony050609.pdf)2005年6月9日
-  - [在CNBC的史蒂夫·Previs](http://www.deepjournal.com/p/7/a/en/606.html)
+  - [在CNBC的史蒂夫·Previs](https://web.archive.org/web/20090228164720/http://www.deepjournal.com/p/7/a/en/606.html)
 
 [Category:北美洲货币](https://zh.wikipedia.org/wiki/Category:北美洲货币 "wikilink")
 [Category:货币联盟](https://zh.wikipedia.org/wiki/Category:货币联盟 "wikilink")

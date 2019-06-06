@@ -350,8 +350,7 @@ Mode中，即使玩家只玩一種樂器，他仍可設定其他6種樂器供系
 7.  [1年半のご無沙汰でした――「Wii
     Music（仮）」を実演で紹介](http://gamez.itmedia.co.jp/games/articles/0710/11/news069.html)
 8.  [atwiki Wii Music](http://www40.atwiki.jp/wii_music/)
-9.  [Second Hand Hands On from Japan - Wii News at
-    IGN](http://wii.ign.com/articles/826/826640p1.html)
+9.
 10. [Review: Wii Music Puts Improv Before Gameplay -
     wierd](http://www.wired.com/gamelife/2008/10/wii-music-revie/)
 11. ["Wii Music review" Nintendo World Report

@@ -188,6 +188,7 @@ VII》尚未發表時，由史克威尔使用《最终幻想VI》角色与设定
 [Category:官方简体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方简体中文化游戏 "wikilink")
 [Category:官方繁体中文化游戏](https://zh.wikipedia.org/wiki/Category:官方繁体中文化游戏 "wikilink")
 [Category:Wii_U_Virtual_Console游戏](https://zh.wikipedia.org/wiki/Category:Wii_U_Virtual_Console游戏 "wikilink")
+[Category:硅谷图形公司](https://zh.wikipedia.org/wiki/Category:硅谷图形公司 "wikilink")
 
 1.  <http://www.vgchartz.com/game/3320/final-fantasy-iii/>
 

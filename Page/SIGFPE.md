@@ -57,8 +57,6 @@ C程序的例子](../Page/ANSI_C.md "wikilink")。
   - [除以零](../Page/除以零.md "wikilink")
   - [浮点](../Page/浮点数.md "wikilink")
 
-[en:SIGFPE](https://zh.wikipedia.org/wiki/en:SIGFPE "wikilink")
-
 [Category:計算機算術](https://zh.wikipedia.org/wiki/Category:計算機算術 "wikilink")
 [Category:计算机错误](https://zh.wikipedia.org/wiki/Category:计算机错误 "wikilink")
 

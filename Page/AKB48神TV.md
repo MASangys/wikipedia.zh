@@ -1830,7 +1830,7 @@ Season11
     [騷沙音樂](../Page/騷沙音樂.md "wikilink")[舞者](https://zh.wikipedia.org/wiki/舞者 "wikilink")
   - 中川武士（9） - AKB48ネ申テレビオフィシャルカメラマン
   - [今井雅之](https://zh.wikipedia.org/wiki/今井雅之 "wikilink")（10 - 11） -
-    [演員](https://zh.wikipedia.org/wiki/演員 "wikilink")
+    [演員](../Page/演員.md "wikilink")
 
 ### 播放日・企劃・出演成員（Season12）
 
@@ -1992,7 +1992,7 @@ Season12
   - 實川欣伸（5 - 6） -
     [富士山](../Page/富士山.md "wikilink")[登山ガイド](https://zh.wikipedia.org/wiki/登山家 "wikilink")\[7\]
   - [西岡徳馬](https://zh.wikipedia.org/wiki/西岡徳馬 "wikilink")（8） -
-    役者コース講師（[演員](https://zh.wikipedia.org/wiki/演員 "wikilink")）
+    役者コース講師（[演員](../Page/演員.md "wikilink")）
   - 坂本正秀（9） - 日本テニス協会公認S級エリートコーチ\[8\]
   - 加藤季温（9） - 2007年全日本テニス選手権混合ダブルス優勝
   - 川畑奈桜子（9） - 2011年東京都春季小学生テニス大会4年生以下の部・優勝、グリーンカップ埼玉オープンサマージュニア2013

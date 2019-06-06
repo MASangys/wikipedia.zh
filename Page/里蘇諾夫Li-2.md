@@ -61,6 +61,8 @@
 
 ## 性能諸元
 
+[Liszunov_Li-2.svg](https://zh.wikipedia.org/wiki/File:Liszunov_Li-2.svg "fig:Liszunov_Li-2.svg")
+
   - 翼展28.813ｍ
   - 機長19.647ｍ
   - 機高7.093ｍ

@@ -30,7 +30,7 @@ AKS是AKB48、HKT48、NGT48的營運者及經紀公司，但並非個別成員�
 
 **2010年**
 
-  - 10月、首間海外官方專門店「[AKB48官方店舗香港](http://www.akb48.com.hk/)」於[香港](../Page/香港.md "wikilink")[西九龍中心開業](../Page/西九龍中心.md "wikilink")。
+  - 10月、首間海外官方專門店「[AKB48官方店舗香港](https://web.archive.org/web/20141015043727/http://www.akb48.com.hk/)」於[香港](../Page/香港.md "wikilink")[西九龍中心開業](../Page/西九龍中心.md "wikilink")。
   - 12月、位於香港的「[AKB48博物館香港](http://www.akb48.com.hk/hk/)」開業。
 
 **2011年**

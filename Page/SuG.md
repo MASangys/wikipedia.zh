@@ -523,7 +523,7 @@
 
   - [SuG官方網站](https://sug-web.jp/contents/biography)
   - [SuG官方推特](https://twitter.com/SuG_Official_39)
-  - [SuG官方LINE](http://lineblog.me/sug_line/)
+  - [SuG官方LINE](https://web.archive.org/web/20150317010401/http://lineblog.me/sug_line/)
   - [武瑠AMEBA](http://ameblo.jp/takeru-officialblog/)
   - [武瑠官方推特](https://twitter.com/sug_takeru)
   - [masato官方推特](https://twitter.com/SuG_masato/)

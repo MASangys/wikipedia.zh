@@ -38,6 +38,5 @@
 [Category:櫻花題材歌曲](https://zh.wikipedia.org/wiki/Category:櫻花題材歌曲 "wikilink")
 
 1.  [エキサイトミュージックによるインタビュー](http://ent2.excite.co.jp/music/interview/2008/nakashima/interview01.html)
-2.  [中島美嘉 (Mika Nakashima) 【櫻花霧海(Sakura
-    Hanagasumi)】專輯介紹](http://tw.kkbox.com/album/58DfaCg5te.EZLV0FPHu008l-index.html#album-description)
+2.
 3.  [エキサイトミュージックによるインタビュー](http://ent2.excite.co.jp/music/interview/2008/nakashima/interview01.html)

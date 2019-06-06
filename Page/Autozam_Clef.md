@@ -1,5 +1,5 @@
 **Autozam
-Clef**（オートザム・クレフ）是1990年代由[日本](../Page/日本.md "wikilink")[馬自達汽車公司製造](https://zh.wikipedia.org/wiki/馬自達 "wikilink")、冠上[Autozam副品牌的中型四門](../Page/Autozam.md "wikilink")[轎車](https://zh.wikipedia.org/wiki/轎車 "wikilink")。因為當時[日本泡沫經濟時期景氣大好](https://zh.wikipedia.org/wiki/日本泡沫經濟 "wikilink")，[馬自達公司採](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[多品牌策略](https://zh.wikipedia.org/wiki/多品牌策略 "wikilink")，以同樣的車用平台一口氣推出六款車（見底下「參見」之詳述，若加上[福特的雙生車款Probe和Telstar則共有八款車](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")），但是後來銷售成績證明這種策略是錯誤的\[1\]。
+Clef**（）是1990年代由[日本](../Page/日本.md "wikilink")[馬自達汽車公司製造](https://zh.wikipedia.org/wiki/馬自達 "wikilink")、冠上[Autozam副品牌的中型四門](../Page/Autozam.md "wikilink")[轎車](https://zh.wikipedia.org/wiki/轎車 "wikilink")。因為當時[日本泡沫經濟時期景氣大好](https://zh.wikipedia.org/wiki/日本泡沫經濟 "wikilink")，[馬自達公司採](https://zh.wikipedia.org/wiki/馬自達 "wikilink")[多品牌策略](https://zh.wikipedia.org/wiki/多品牌策略 "wikilink")，以同樣的車用平台一口氣推出六款車（見底下「參見」之詳述，若加上[福特的雙生車款Probe和Telstar則共有八款車](https://zh.wikipedia.org/wiki/福特汽車 "wikilink")），但是後來銷售成績證明這種策略是錯誤的\[1\]。
 
 車名「Clef」源自[英語](https://zh.wikipedia.org/wiki/英語 "wikilink")，意為[音樂的](https://zh.wikipedia.org/wiki/音樂 "wikilink")[譜號](../Page/譜號.md "wikilink")。
 

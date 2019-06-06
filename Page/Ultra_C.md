@@ -523,7 +523,7 @@ You」，千葉的浮雲則是表演「Release Me」，而大阪的龜田則是�
   - [excite 5/25起＜LIVE
     REPORT＞](http://www.excite.co.jp/music/report/1005_tokyojihen)\[28\]
   - [MSN 5/27起＜LIVE
-    REPORT＞](http://music.jp.msn.com/events/report/article.aspx?articleid=293620)\[29\]
+    REPORT＞](https://web.archive.org/web/20100607115607/http://music.jp.msn.com/events/report/article.aspx?articleid=293620)\[29\]
 
 <!-- end list -->
 

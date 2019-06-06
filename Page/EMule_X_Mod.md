@@ -43,6 +43,6 @@ Mod主要增强了以下方面的功能：
   - [eMule X
     Mod在Sourceforge上的项目主页](http://sourceforge.net/projects/emulex/)
   - [emulefans.com（电骡爱好者）上的X
-    Mod与Lite页面](http://emulefans.com/news/emule/x-mod-lite/)
+    Mod与Lite页面](https://web.archive.org/web/20100703091237/http://emulefans.com/news/emule/x-mod-lite)
 
 [Category:eMule](https://zh.wikipedia.org/wiki/Category:eMule "wikilink")

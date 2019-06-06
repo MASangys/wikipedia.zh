@@ -45,7 +45,8 @@ Town首次以雙CD的形式推出家族合輯](../Page/SM_Town.md "wikilink")。
 
 ## 外部連結
 
-  - [SMTown's Official Site](http://star.ilikepop.com/starhome/smtown/)
+  - [SMTown's Official
+    Site](https://web.archive.org/web/20110416074618/http://star.ilikepop.com/starhome/smtown/)
 
   - [SM Entertainment's Official Page](http://www.smtown.com/)
 

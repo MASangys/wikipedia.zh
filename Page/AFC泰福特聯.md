@@ -1,4 +1,4 @@
-**AFC泰福特聯**（）是位於[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[西米德蘭茲](https://zh.wikipedia.org/wiki/西米德蘭茲 "wikilink")[單一管理區](../Page/單一管理區.md "wikilink")[特爾福德和雷金](../Page/特爾福德和雷金.md "wikilink")（Telford
+**AFC特爾福德**（）是位於[英格蘭](https://zh.wikipedia.org/wiki/英格蘭 "wikilink")[西米德蘭茲](https://zh.wikipedia.org/wiki/西米德蘭茲 "wikilink")[單一管理區](../Page/單一管理區.md "wikilink")[特爾福德和雷金](../Page/特爾福德和雷金.md "wikilink")（Telford
 and
 Wrekin）新市鎮[特尔福德](https://zh.wikipedia.org/wiki/特尔福德 "wikilink")（Telford）的[足球俱乐部](https://zh.wikipedia.org/wiki/足球俱乐部 "wikilink")，現時在[英格蘭足球聯賽系統第六級的](../Page/英格蘭足球聯賽系統.md "wikilink")[英格蘭足球議會北部聯賽參賽](https://zh.wikipedia.org/wiki/英格蘭足球議會北部聯賽 "wikilink")。
 

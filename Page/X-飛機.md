@@ -280,7 +280,7 @@ DARPA, USAF, <a href="../Page/德國聯邦國防部.md" title="wikilink">BdV</a>
 <a href="https://zh.wikipedia.org/wiki/ESTOL" title="wikilink">ESTOL測試</a>。[32]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/X-32試驗機" title="wikilink">X-32</a></p></td>
+<td><p><a href="../Page/X-32验证机.md" title="wikilink">X-32</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波音公司" title="wikilink">波音公司</a><br />
 USAF, USN, <a href="../Page/英國皇家空軍.md" title="wikilink">RAF</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:USAF_X32B_250.jpg" title="fig:USAF_X32B_250.jpg">USAF_X32B_250.jpg</a></p></td>
@@ -378,7 +378,7 @@ NASA</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/超音速燃燒衝壓發動機" title="wikilink">超音速燃燒衝壓發動機超高音速測試</a>。[45]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/X-44試驗機" title="wikilink">X-44</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/X-44鬼蝠魟試驗機" title="wikilink">X-44</a></p></td>
 <td><p><a href="../Page/洛克希德·马丁.md" title="wikilink">洛克希德·马丁</a><br />
 USAF, NASA</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:X-44_Manta_artistic_impression.JPG" title="fig:X-44_Manta_artistic_impression.JPG">X-44_Manta_artistic_impression.JPG</a></p></td>
@@ -394,7 +394,7 @@ DARPA, USAF</p></td>
 <td><p><a href="../Page/無人戰鬥航空載具.md" title="wikilink">無人戰鬥航空載具</a>。[47]</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/X-46試驗機" title="wikilink">X-46</a></p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/X-46無人機" title="wikilink">X-46</a></p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/波音公司" title="wikilink">波音公司</a><br />
 DARPA, USN</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:X46.jpg" title="fig:X46.jpg">X46.jpg</a></p></td>
@@ -490,20 +490,27 @@ NASA</p></td>
 <td><p>纯电动飞机。[59]</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/克拉托斯XQ-58女武神.md" title="wikilink">XQ-58</a></p></td>
+<td><p>克拉托斯Kratos</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/File:XQ-58A_Valkyrie_demonstrator_first_flight.jpg" title="fig:XQ-58A_Valkyrie_demonstrator_first_flight.jpg">XQ-58A_Valkyrie_demonstrator_first_flight.jpg</a></p></td>
+<td><p>2019年3月5日</p></td>
+<td><p>低成本可用飛機技術驗證[60]</p></td>
+</tr>
+<tr class="odd">
 <td><p>X-59 QueSST</p></td>
 <td><p>洛克希德·马丁 臭鼬工厂<br />
 NASA</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/File:Low-Boom_Flight_Demonstrator.jpg" title="fig:Low-Boom_Flight_Demonstrator.jpg">Low-Boom_Flight_Demonstrator.jpg</a></p></td>
 <td></td>
-<td><p>验证安静超声速飞行器技术。[60]</p></td>
+<td><p>验证安静超声速飞行器技术。[61]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>X-60A</p></td>
 <td><p>时代轨道发射服务公司<br />
 美国空军</p></td>
 <td></td>
 <td></td>
-<td><p>空射高超声速飞行器试验台[61]</p></td>
+<td><p>空射高超声速飞行器试验台[62]</p></td>
 </tr>
 </tbody>
 </table>
@@ -591,3 +598,5 @@ NASA</p></td>
 60.
 
 61.
+
+62.

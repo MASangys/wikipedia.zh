@@ -1,4 +1,4 @@
-**MBC水木迷你連續劇**（）於[MBC在](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[韓國時間星期三](https://zh.wikipedia.org/wiki/韓國時間 "wikilink")、四22:00至23:10播出。
+**MBC水木迷你連續劇**（）於[MBC在](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")[韓國時間星期三](https://zh.wikipedia.org/wiki/韓國時間 "wikilink")、四22:00至23:10播出。MBC於2019年5月22日起播出的《[春夜](../Page/春夜.md "wikilink")》開始將此時段前移1小時(21:00)播出，試圖打破持續收視率低迷的局面。
 
 ## 電視劇列表
 
@@ -642,7 +642,7 @@
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/玲玲_(電視劇)" title="wikilink">玲玲</a><br />
 </p></td>
 <td style="text-align: center;"><p>2</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韩晓" title="wikilink">韩晓</a>、<a href="../Page/李東健.md" title="wikilink">李東健</a>、<a href="https://zh.wikipedia.org/wiki/鄭泰宇" title="wikilink">鄭泰宇</a>、<a href="../Page/李多海.md" title="wikilink">李多海</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/韩晓.md" title="wikilink">韩晓</a>、<a href="../Page/李東健.md" title="wikilink">李東健</a>、<a href="https://zh.wikipedia.org/wiki/鄭泰宇" title="wikilink">鄭泰宇</a>、<a href="../Page/李多海.md" title="wikilink">李多海</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓哲秀" title="wikilink">韓哲秀</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陶順雅" title="wikilink">陶順雅</a>、<a href="https://zh.wikipedia.org/wiki/朴美慶" title="wikilink">朴美慶</a></p></td>
 <td style="text-align: center;"></td>
@@ -1145,7 +1145,7 @@
 <td style="text-align: center;"><p><a href="../Page/狗和狼的時間.md" title="wikilink">狗和狼的時間</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/鄭敬淏.md" title="wikilink">鄭敬淏</a>、<a href="../Page/南相美.md" title="wikilink">南相美</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="../Page/鄭敬淏.md" title="wikilink">鄭敬淏</a>、<a href="../Page/南相美.md" title="wikilink">南相美</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金鎮民.md" title="wikilink">金鎮民</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/韓智勳" title="wikilink">韓智勳</a>、<a href="https://zh.wikipedia.org/wiki/劉勇在" title="wikilink">劉勇在</a></p></td>
 <td style="text-align: center;"></td>
@@ -1355,7 +1355,7 @@
 <td style="text-align: center;"><p><a href="../Page/HERO_(韓國電視劇).md" title="wikilink">HERO</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/尹素怡.md" title="wikilink">尹素怡</a>、<a href="../Page/嚴基俊.md" title="wikilink">嚴基俊</a>、<a href="../Page/申珠雅.md" title="wikilink">申珠雅</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="../Page/尹素怡.md" title="wikilink">尹素怡</a>、<a href="../Page/嚴基俊.md" title="wikilink">嚴基俊</a>、<a href="../Page/申珠雅.md" title="wikilink">申珠雅</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金慶熙" title="wikilink">金慶熙</a>、<a href="https://zh.wikipedia.org/wiki/李東允" title="wikilink">李東允</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴智淑" title="wikilink">朴智淑</a></p></td>
 <td style="text-align: center;"></td>
@@ -1626,7 +1626,7 @@
 <td style="text-align: center;"><p><a href="../Page/阿娘使道傳.md" title="wikilink">阿娘使道傳</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/新慜娥.md" title="wikilink">新慜娥</a>、<a href="../Page/延宇振.md" title="wikilink">延宇振</a>、<a href="https://zh.wikipedia.org/wiki/權五中" title="wikilink">權五中</a>、<a href="../Page/黃寶羅.md" title="wikilink">黃寶羅</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="../Page/新慜娥.md" title="wikilink">新慜娥</a>、<a href="../Page/延宇振.md" title="wikilink">延宇振</a>、<a href="https://zh.wikipedia.org/wiki/權五中" title="wikilink">權五中</a>、<a href="../Page/黃寶羅.md" title="wikilink">黃寶羅</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/金尚昊.md" title="wikilink">金尚昊</a>、<a href="https://zh.wikipedia.org/wiki/鄭大胤" title="wikilink">鄭大胤</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭允晶" title="wikilink">鄭允晶</a></p></td>
 <td style="text-align: center;"></td>
@@ -1720,7 +1720,7 @@
 <td style="text-align: center;"><p><a href="../Page/Two_Weeks.md" title="wikilink">Two Weeks</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/金素妍.md" title="wikilink">金素妍</a>、<a href="../Page/柳秀榮.md" title="wikilink">柳秀榮</a>、<a href="../Page/朴河宣.md" title="wikilink">朴河宣</a>、<a href="../Page/趙敏基.md" title="wikilink">趙敏基</a>、<a href="../Page/金惠鈺.md" title="wikilink">金惠鈺</a>、<a href="https://zh.wikipedia.org/wiki/李彩美" title="wikilink">李彩美</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="../Page/金素妍.md" title="wikilink">金素妍</a>、<a href="../Page/柳秀榮.md" title="wikilink">柳秀榮</a>、<a href="../Page/朴河宣.md" title="wikilink">朴河宣</a>、<a href="../Page/趙敏基.md" title="wikilink">趙敏基</a>、<a href="../Page/金惠鈺.md" title="wikilink">金惠鈺</a>、<a href="https://zh.wikipedia.org/wiki/李彩美" title="wikilink">李彩美</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/孫亨錫.md" title="wikilink">孫亨錫</a>、<a href="https://zh.wikipedia.org/wiki/崔政奎" title="wikilink">崔政奎</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/蘇賢京.md" title="wikilink">蘇賢京</a></p></td>
 <td style="text-align: center;"></td>
@@ -1897,7 +1897,7 @@
 <td style="text-align: center;"><p><a href="../Page/夜行書生.md" title="wikilink">夜行書生</a><br />
 </p></td>
 <td style="text-align: center;"><p>20</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李準基" title="wikilink">李準基</a>、<a href="../Page/李侑菲.md" title="wikilink">李侑菲</a>、<a href="../Page/沈昌珉.md" title="wikilink">沈昌珉</a>、<a href="https://zh.wikipedia.org/wiki/金昭誾" title="wikilink">金昭誾</a>、<a href="https://zh.wikipedia.org/wiki/李秀赫" title="wikilink">李秀赫</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李準基.md" title="wikilink">李準基</a>、<a href="../Page/李侑菲.md" title="wikilink">李侑菲</a>、<a href="../Page/沈昌珉.md" title="wikilink">沈昌珉</a>、<a href="https://zh.wikipedia.org/wiki/金昭誾" title="wikilink">金昭誾</a>、<a href="https://zh.wikipedia.org/wiki/李秀赫" title="wikilink">李秀赫</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李成俊_(導演)" title="wikilink">李成俊</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/張賢珠" title="wikilink">張賢珠</a></p></td>
 <td style="text-align: center;"><p>原作：《夜行書生》</p></td>
@@ -2109,7 +2109,7 @@
 <td style="text-align: center;"><p><a href="../Page/不是機器人啊.md" title="wikilink">不是機器人啊</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
-<td style="text-align: center;"><p><a href="../Page/俞承豪.md" title="wikilink">俞承豪</a>、<a href="../Page/蔡秀彬.md" title="wikilink">蔡秀彬</a>、<a href="../Page/嚴基俊.md" title="wikilink">嚴基俊</a>、</p></td>
+<td style="text-align: center;"><p><a href="../Page/俞承豪.md" title="wikilink">俞承豪</a>、<a href="../Page/蔡秀彬.md" title="wikilink">蔡秀彬</a>、<a href="../Page/嚴基俊.md" title="wikilink">嚴基俊</a>、<a href="https://zh.wikipedia.org/wiki/黃承言" title="wikilink">黃承言</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/鄭大胤" title="wikilink">鄭大胤</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/金善美" title="wikilink">金善美</a>、<a href="https://zh.wikipedia.org/wiki/李碩俊" title="wikilink">李碩俊</a></p></td>
 <td style="text-align: center;"></td>
@@ -2237,8 +2237,8 @@
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
-<td style="text-align: center;"><p>2019年3月－<br />
-2019年5月</p></td>
+<td style="text-align: center;"><p>2019年3月27日－<br />
+2019年5月16日</p></td>
 <td style="text-align: center;"><p><a href="../Page/The_Banker_(電視劇).md" title="wikilink">The Banker</a><br />
 </p></td>
 <td style="text-align: center;"><p>32</p></td>
@@ -2248,7 +2248,7 @@
 <td style="text-align: center;"><p>周良貨《》</p></td>
 </tr>
 <tr class="odd">
-<td style="text-align: center;"><p>2019年5月－<br />
+<td style="text-align: center;"><p>2019年5月22日－<br />
 2019年</p></td>
 <td style="text-align: center;"><p><a href="../Page/春夜.md" title="wikilink">春夜</a><br />
 </p></td>

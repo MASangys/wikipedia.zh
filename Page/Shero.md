@@ -1,4 +1,4 @@
-《**SHERO**》是[台灣女子組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")[S.H.E的第十張](../Page/S.H.E.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")、第十二張演唱專輯，在於2010年3月10日星期三預購\[1\]，2010年3月26日星期五發行。專輯首波同名主打歌曲〈[SHERO](https://zh.wikipedia.org/wiki/SHERO_\(歌曲\) "wikilink")〉，是由[五月天](../Page/五月天.md "wikilink")[阿信填詞](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")，歌名的由來是[阿信以](https://zh.wikipedia.org/wiki/陳信宏 "wikilink")「SHE她」＋「HERO英雄」的組成所發想而來的名稱，而〈SHERO〉是一首[英爵搖滾的曲風](https://zh.wikipedia.org/wiki/英爵搖滾 "wikilink")，也是S.H.E首次嘗試[英爵搖滾曲風的歌曲](https://zh.wikipedia.org/wiki/英爵搖滾 "wikilink")，亦是「[2010年臺北國際花卉博覽會](../Page/2010年臺北國際花卉博覽會.md "wikilink")」**熱力花博**指定主題曲，也是繼第五張專輯《[Super
+《**SHERO**》是[台灣女子組合](https://zh.wikipedia.org/wiki/台灣 "wikilink")[S.H.E的第十張](../Page/S.H.E.md "wikilink")[錄音室專輯](https://zh.wikipedia.org/wiki/錄音室專輯 "wikilink")、第十二張演唱專輯，在於2010年3月10日星期三預購\[1\]，2010年3月26日星期五發行。專輯首波同名主打歌曲〈[SHERO](https://zh.wikipedia.org/wiki/SHERO_\(歌曲\) "wikilink")〉，是由[五月天](../Page/五月天.md "wikilink")[阿信填詞](../Page/陳信宏.md "wikilink")，歌名的由來是[阿信以](../Page/陳信宏.md "wikilink")「SHE她」＋「HERO英雄」的組成所發想而來的名稱，而〈SHERO〉是一首[英爵搖滾的曲風](https://zh.wikipedia.org/wiki/英爵搖滾 "wikilink")，也是S.H.E首次嘗試[英爵搖滾曲風的歌曲](https://zh.wikipedia.org/wiki/英爵搖滾 "wikilink")，亦是「[2010年臺北國際花卉博覽會](../Page/2010年臺北國際花卉博覽會.md "wikilink")」**熱力花博**指定主題曲，也是繼第五張專輯《[Super
 Star](https://zh.wikipedia.org/wiki/Super_Star_\(S.H.E\) "wikilink")》中的首波同名主打歌曲〈Super
 Star〉之後久違的首波搖滾主打歌曲，而這張專輯名稱取為「SHERO」是以專輯同名主打歌曲〈SHERO〉的名稱作為命名，所以專輯和歌曲的主要音樂概念皆是回歸到[S.H.E這個組合名稱為英文裡的](../Page/S.H.E.md "wikilink")“SHE”的初衷，決定以女性的「理性自省」和「感性抒發」為出發點，作一張討論「女人」的專輯，並鼓勵女性經過人生淬煉，成長為**智慧、能力、成熟**的女人，並且鼓舞每個人讓人生的體悟與心得可以分享\[2\]。〈[我愛雨夜花](../Page/我愛雨夜花.md "wikilink")〉是S.H.E出道以來第一首台語歌，此首歌是拼貼了傳統台語老歌「[雨夜花](../Page/雨夜花.md "wikilink")」，並加上[嘻哈元素](../Page/嘻哈.md "wikilink")、[Rap](https://zh.wikipedia.org/wiki/Rap "wikilink")，以及豐富的[合音](https://zh.wikipedia.org/wiki/合音 "wikilink")。
 
@@ -51,10 +51,10 @@ GIRL女王密令資料夾一個；[7-11預購通路加贈](https://zh.wikipedia.
 <td style="text-align: center;"><p>01</p></td>
 <td style="text-align: center;"><p><a href="../Page/Shero_(歌曲).md" title="wikilink">SHERO</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/八三夭.md" title="wikilink">八三夭</a><a href="https://zh.wikipedia.org/wiki/阿璞" title="wikilink">阿璞</a></p></td>
-<td style="text-align: center;"><p><a href="../Page/五月天.md" title="wikilink">五月天</a><a href="https://zh.wikipedia.org/wiki/陳信宏" title="wikilink">阿信</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/五月天.md" title="wikilink">五月天</a><a href="../Page/陳信宏.md" title="wikilink">阿信</a></p></td>
 <td style="text-align: center;"><p>梯依恩<br />
 阿璞</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/陳信宏" title="wikilink">阿信</a><br />
+<td style="text-align: center;"><p><a href="../Page/陳信宏.md" title="wikilink">阿信</a><br />
 阿璞</p></td>
 <td style="text-align: center;"><p><strong><a href="https://zh.wikipedia.org/wiki/台灣" title="wikilink">台灣第一主打歌</a></strong><br />
 <strong><a href="../Page/香港.md" title="wikilink">香港第二主打歌</a></strong><br />

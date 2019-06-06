@@ -75,7 +75,7 @@ S.COUPS, 施妍 出演 LOVE LETTER
 1月，Pledis公開團名NU'EST、團體預告照片和個人照，尚未正式出道就開始舉辦活動\[6\]\[7\]，更登上所屬公司發行的PLEDIS
 BOYS MAGAZINE創刊號封面\[8\]。
 
-3月，出道曲〈FACE〉的團體及個人音樂影像預告陸續公開\[9\]。15日，於Mnet音樂節目《[M
+3月，出道曲〈FACE〉的團體及個人音樂影像預告陸續公開\[9\]。15日，於[Mnet音樂節目](../Page/Mnet媒體.md "wikilink")《[M
 Countdown](https://zh.wikipedia.org/wiki/M_Countdown "wikilink")》正式出道，首張單曲《[FACE](../Page/FACE_\(NU'EST單曲\).md "wikilink")》正式發售\[10\]。主打歌〈FACE〉在歌詞和MV均把視線集中在學校暴力和孤立等社會問題上\[11\]
 。出道作在眾多新人組合中脫穎而出
 ，銷量是[Gaon音樂榜月榜中的](https://zh.wikipedia.org/wiki/Gaon音樂榜 "wikilink")11位\[12\]。主打曲更在MelOn音源網站排行榜最高達到十五名，MV迄至2019年5月累積觀看次數已超過一億。\[13\]，在2018年12月24日前為韓國男子團體出道曲於Youtube觀看次數最高紀錄保持者，於[觀看次數最多的YouTube韓國音樂影片列表也榜上有名](https://zh.wikipedia.org/wiki/觀看次數最多的YouTube韓國音樂影片列表 "wikilink")。
@@ -135,7 +135,7 @@ is](../Page/Q_is.md "wikilink").》回歸，主打歌〈Overcome（女王的騎�
 Paint（Every
 Afternoon）〉適合在每天下午欣賞，歌詞描述男人遇見真命天女後的心情，彷彿是在黑白的畫布上注入了多樣的色彩，並漸漸形成一幅協調的畫作
 \[44\]。回歸後在SBS MTV 音樂節目[THE
-SHOW首次成為一位侯補](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")，最終遺憾地得第二名\[45\]。此張專輯的整體市場反應卻是所有專輯中最差
+SHOW首次成為一位候補](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")，最終遺憾地得第二名\[45\]。此張專輯的整體市場反應卻是所有專輯中最差
 ，僅售出6,359張，NU'EST整體陷入低迷。
 
 ### 2017上半年：JR、白虎、旼炫、Ren參加《PRODUCE 101 第二季》
@@ -147,7 +147,7 @@ SHOW首次成為一位侯補](../Page/THE_SHOW_\(SBS_MTV節目\).md "wikilink")�
 節目初期，四人因為受到外界過大批評及壓力，表現並不突出，但節目持續進行後，重新把握機會回到舞台上的四人出色表現讓觀眾眼睛一亮\[50\]，使NU'EST所有發行過的專輯在韓國HANTEO榜、Aladdin和Yes24等多個銷量排行榜持續逆行，在緊急加印後所有過往專輯及單曲仍然銷售一空，《[CANVAS](https://zh.wikipedia.org/wiki/Canvas_\(NU'EST專輯\) "wikilink")》專輯於五月及六月間的銷售量甚至超越了發行當年的總年銷售量\[51\]\[52\]，限量發行五千張的三周年紀念單曲專輯也突然身價爆衝奇貨可居。
 
 於最後一集，旼炫以第九名成績進入期間限定團體[Wanna
-One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")，其他三人遭淘汰。在節目中深受練習生與導師信任、且已被暱稱為「國民隊長」的JR僅得到十四名，而白虎和Ren分別取得十三名和二十名，跌破眾人眼鏡同時，NU'EST不僅成為熱搜關鍵字，舊歌開始逆襲各大音源排行榜，尤其〈Hello〉最高更攻佔Genie第一名的寶座\[53\]。節目結束當天，NU'EST官方粉絲俱樂部會員數量由二萬五千名暴增至五萬名\[54\]。個人的Instagram粉絲數量也急速上升，JR的第一篇感謝粉絲發文於兩日內湧入25萬讚數與近7萬則留言\[55\]。
+One](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")，其他三人遭淘汰。在節目中深受練習生與導師信任、且已被暱稱為「國民隊長」的JR得到十四名，而白虎和Ren分別取得十三名和二十名，跌破眾人眼鏡同時，NU'EST不僅成為熱搜關鍵字，舊歌開始逆襲各大音源排行榜，尤其〈Hello〉最高更攻佔Genie第一名的寶座\[53\]。節目結束當天，NU'EST官方粉絲俱樂部會員數量由二萬五千名暴增至五萬名\[54\]。個人的Instagram粉絲數量也急速上升，JR的第一篇感謝粉絲發文於兩日內湧入25萬讚數與近7萬則留言\[55\]。
 
 由於《PRODUCE 101 第二季》合約限制，成為[Wanna
 One成員的旼炫需暫時停止NU](https://zh.wikipedia.org/wiki/Wanna_One "wikilink")'EST的活動直至2018年12月31日。於6月19日Pledis娛樂表示預計於下半年以四人組合回歸\[56\]。
@@ -180,8 +180,8 @@ Music、genie、Bugs同登一位的好成績\[77\]。NU'EST W憑藉《W, HERE》
 CHART首周销量超過20萬\[78\]。在四組團體中，NU'EST W是唯一的分隊，也是人數最少的團體\[79\]。NU'EST
 W分別登上41週[Gaon
 Chart專輯榜](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")、[單曲榜及音源下載排行榜的首位](https://zh.wikipedia.org/wiki/Gaon單曲榜 "wikilink")，成為三冠王。此外，新專輯《W,
-HERE》所有收錄曲皆進入了單曲榜TOP40\[80\] 。10月19日，憑〈WHERE YOU AT〉在《M
-Countdown》奪得出道六年以來第一個在音樂節目上的一位\[81\]，其後亦在《音樂銀行》獲得無線台首個一位排名\[82\]。
+HERE》所有收錄曲皆進入了單曲榜TOP40\[80\] 。10月19日，憑〈WHERE YOU AT〉在Mnet《M
+Countdown》奪得出道六年以來第一個在音樂節目上的一位\[81\]，其後亦在KBS《音樂銀行》獲得無線台首個一位排名\[82\]。
 
 10月，NU'EST W成為全球性戶外品牌《BLACKYAK》Art of the Youth項目的代言人。Art of the
 Youth活動始於2016年，目的在於發揚勇於挑戰的精神。NU'EST W通過出演Produce
@@ -209,7 +209,7 @@ YOU〉，三場門票全數售完\[90\]，並且於4月及5月於曼谷、台灣
 6月7日凌晨，成員在官方粉絲俱樂部透過親筆信告知粉絲NU'EST W將於6月25日帶著新專輯《[WHO,
 YOU](https://zh.wikipedia.org/wiki/WHO,_YOU "wikilink")》回歸\[94\]，當天晚上JR穿著[精靈寶可夢的](../Page/精靈寶可夢系列_\(動畫\).md "wikilink")[傑尼龜人偶裝](../Page/杰尼龟.md "wikilink")，到首爾各處突襲觀看由粉絲所刊登的慶生燈箱與螢幕看板，以感謝粉絲對他的生日祝賀\[95\]。
 
-6月25日下午6點新專輯正式上市，在世界盃足球賽熱潮中仍取得優秀的成績，主打曲〈Dejavu〉於7月6日的音樂銀行節目中取得一位\[96\]，以及第26週Gaon
+6月25日下午6點新專輯正式上市，在世界盃足球賽熱潮中仍取得優秀的成績，主打曲〈Dejavu〉於7月6日的KBS《音樂銀行》節目中取得一位\[96\]，以及第26週Gaon
 Chart專輯榜、音源下載榜及BGM榜首位\[97\]。
 
 以《WHO,
@@ -241,22 +241,42 @@ W，正積極展現出大勢偶像的不凡魅力。
 W於11月26日迎來最後一張專輯\[112\]\[113\]。11月12日韓國時間零時，PLEDIS娛樂透過官方Youtube頻道和SNS公開前導預告片及專輯名稱《[WAKE,N](https://zh.wikipedia.org/wiki/WAKE,N "wikilink")》，影片延續前張專輯《WHO,
 YOU》的神秘風格，引發強烈的好奇心，最後的文字「2018.11.26.6PM」預示音源發布時間\[114\]。《WAKE,N》於韓國時間11月26日18時正式公開，主打歌〈HELP
 ME〉在Mnet、NAVER
-MUSIC、Soribada等音源榜單長時間排名第一，收錄歌曲音源亦全部進入各大榜單的上位圈\[115\]。首周實體專輯銷售量突破18萬張，音樂品質廣受國內外高度肯定\[116\]\[117\]。
+MUSIC、Soribada等音源榜單長時間排名第一，收錄歌曲音源亦全部進入各大榜單的上位圈\[115\]。首周實體專輯銷售量突破18萬張，音樂品質廣受國內外高度肯定\[116\]\[117\]。12月7日，主打曲〈Help
+Me〉於KBS《音樂銀行》取得一位的佳績\[118\]。
 
 此外NU'EST W也以在12月15、16日於首爾蠶室室內體育館舉辦的〈DOUBLE YOU〉系列最後的演唱會〈DOUBLE YOU FINAL
-IN SEOUL〉，回報歌迷們的愛與支持\[118\]，並以《WHO,
+IN SEOUL〉，回報歌迷們的愛與支持\[119\]，並以《WHO,
 YOU》專輯250,810張及《WAKE,N》專輯191,461張的2018年度銷量，為NU'EST
-W分隊活動完美地劃下句點\[119\]\[120\]。
+W分隊活動完美地劃下句點\[120\]\[121\]。
 
 ### 2019年：七週年特別單曲〈A Song For You〉、第六張迷你專輯《Happily Ever After》
 
 1月27日至31日，官方twitter帳號上以「NU'EST WEEK」的文字依序發了JR、白虎、ARON
 、REN、旼炫的照片，這也是旼炫結束Wanna
-One團體後第一次於NU'EST官方SNS上發布旼炫的照片\[121\]。1月31日，隊長JR先行於NU'EST官方粉絲團向粉絲宣佈續約消息，翌日Pledis娛樂宣布基於七年來的信任與五名成員全員完成續約\[122\]。3月1日正式公布將於4月12至14號連續三天在[首爾奧林匹克體操競技場舉行](../Page/首尔奥林匹克体操竞技场.md "wikilink")〈Segno〉演唱會，為NU'EST第一次在韓國的完全體五人單獨演唱會，出道七年後終於踏入韓國偶像指標性演唱會場地。三場演唱會共動員3萬6千名粉絲，同時於末場演唱會中正式公布4月29日NU'EST將以第六張迷你專輯《[Happily
+One團體後第一次於NU'EST官方SNS上發布旼炫的照片\[122\]。1月31日，隊長JR先行於NU'EST官方粉絲團向粉絲宣佈續約消息，翌日Pledis娛樂宣布基於七年來的信任與五名成員全員完成續約\[123\]。3月15日18時公開七周年特別單曲〈歌名（A
+Song For You）〉，打響NU'EST即將正式回歸韓語樂壇的第一步。
+
+作為完整體回歸專輯的先行曲，4月3日18時發行旼炫的SOLO單曲〈Universe〉。4月12至14日在[首爾奧林匹克體操競技場舉行](../Page/首尔奥林匹克体操竞技场.md "wikilink")〈Segno〉演唱會，為NU'EST第一次在韓國的完全體五人單獨演唱會，出道七年後終於踏入韓國偶像指標性演唱會場地，三場演唱會共動員3萬6千名粉絲，同時於末場演唱會中正式公布4月29日NU'EST將以第六張迷你專輯《[Happily
 Ever
-After](../Page/Happily_Ever_After.md "wikilink")》正式回歸韓國樂壇。3月15日18時公開七周年特別單曲〈歌名（A
-Song For
-You）〉。4月3日18時發行成員旼炫的SOLO單曲〈Universe〉，作為完整體回歸專輯的先行曲。4月28日韓國時間17時09分，出道曲〈FACE〉MV在Youtube的觀看次數突破一億點擊，為韓國現存男團出道曲YouTube觀看數記錄達一億次首位者\[123\]。
+After](../Page/Happily_Ever_After.md "wikilink")》正式回歸韓國樂壇。4月28日17時09分，出道曲〈FACE〉MV在Youtube的觀看次數突破一億點擊，為韓國現存男團出道曲YouTube觀看數記錄達一億次首位者\[124\]。5月5日為韓國兒童節，NU'EST於官方YouTube頻道上驚喜公開〈BLESSING〉全曲音源，作為送給粉絲的兒童節禮物，該曲為2011年錄製的出道候選曲，在〈Segno〉首爾演唱會中場橋段時曾表演片段\[125\]。
+
+第六張迷你專輯《Happily Ever After》主打歌〈BET BET〉音源於4月29日18時公開後，在Mnet、NAVER
+MUSIC、Soribada、Bugs取得四榜實時一位的佳績。並在十三個海外國家iTunes
+Top專輯排行榜獲得一位，發行後僅一天便登上全世界iTunes專輯排行榜四位，成為前五名當中唯一的韓國專輯\[126\]。同時，美國權威音樂雜誌[Billboard](https://zh.wikipedia.org/wiki/Billboard "wikilink")
+News以「NU'EST以'BET
+BET'王者回歸」為題，詳細介紹此次專輯的音樂風格與音樂錄影帶\[127\]。首週實體專輯銷售成績於HANTEO銷量榜為221,364張，打破分隊銷量最高紀錄並且成為韓國2019年第三組首週實體專輯銷量超過20萬張的藝人\[128\]。第二周（2019.05.06\~2019.05.12）實體專輯銷售成績於HANTEO銷量榜為21,215張，首度登上實體專輯銷售兩周冠軍<sup>[\[37](https://zh.wikipedia.org/wiki/Happily_Ever_After#cite%20note-37 "wikilink")\]</sup>。因此次實體專輯銷售量創下自身新高，Billboard
+News特別報導截至5月11日，《Happily Ever
+After》為世界專輯榜第8名，這是NU'EST首次進入前10名，也是至今在美國一周銷售量最高的紀錄\[129\]。並在Billboard
+Korea K-Pop 100中，成為二位\[130\]。此外，《Happily Ever
+After》分別登上2019年第18週（2019.04.28\~2019.05.04）Gaon
+Chart專輯榜、單曲榜及音源下載排行榜的首位，成為三冠王\[131\]。
+
+5月8日NU'EST於MBC《SHOW CHAMPION》憑 〈BET
+BET〉奪得出道八年來第一個完整體音樂節目一位，以2611天成為出道最長時間獲得一位的韓國團體\[132\]\[133\]。5月9日，於Mnet《M
+Countdown》藉滿分11,000分成為該節目第五組以滿分獲得一位的藝人\[134\]。5月10日，在KBS《Music
+Bank》取得本次回歸第三個一位，也是完整體的第一個無線台一位，使得此獎項意義更加重大\[135\]。宣傳期結束後，〈BET
+BET〉再度於5月22日的MBC《SHOW
+CHAMPION》榮膺一位，成為NU'EST第一首三台冠軍歌曲與雙周冠軍歌曲，以四個一位在競爭激烈的韓國樂壇中展現亮眼的優異成績\[136\]。
 
 ## 音樂作品
 
@@ -280,6 +300,7 @@ You）〉。4月3日18時發行成員旼炫的SOLO單曲〈Universe〉，作為�
   - 2012年：[FACE](../Page/FACE_\(NU'EST單曲\).md "wikilink")
   - 2015年：[I'm Bad](https://zh.wikipedia.org/wiki/I'm_Bad "wikilink")
   - 2019年：A Song For You
+  - 2019年：I Don't Care (with Spoonz)
 
 #### 綜藝節目
 
@@ -651,12 +672,17 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 
 ### 音樂節目獎項
 
-| 年份     | 日期                                                    | 電視台                                                         | 節目名稱                                                                   | 獲獎歌曲         | 排名 | 備註                      |
-| ------ | ----------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------- | ------------ | -- | ----------------------- |
-| 2017年  | 10月19日                                                | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | WHERE YOU AT | 1位 | <small>NU'EST W</small> |
-| 10月20日 | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink") |                                                                        |              |    |                         |
-| 2018年  | 7月6日                                                  | Dejavu                                                      |                                                                        |              |    |                         |
-| 12月7日  | HELP ME                                               |                                                             |                                                                        |              |    |                         |
+| 年份     | 日期                                                    | 電視台                                                         | 節目名稱                                                                   | 獲獎歌曲         | 排名            | 備註              |
+| ------ | ----------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------- | ------------ | ------------- | --------------- |
+| 2017年  | 10月19日                                                | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")       | [M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink") | WHERE YOU AT | 1位            | NU'EST W第一首冠軍歌曲 |
+| 10月20日 | [KBS2](https://zh.wikipedia.org/wiki/KBS2 "wikilink") | [Music Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink") |                                                                        |              |               |                 |
+| 2018年  | 7月6日                                                  | Dejavu                                                      | NU'EST W                                                               |              |               |                 |
+| 12月7日  | HELP ME                                               |                                                             |                                                                        |              |               |                 |
+| 2019年  | 5月8日                                                  | [MBC Music](../Page/MBC_Plus_Media.md "wikilink")           | [Show Champion](../Page/Show_Champion.md "wikilink")                   | BET BET      | NU'EST第一首冠軍歌曲 |                 |
+| 5月9日   | Mnet                                                  | M\! Countdown                                               |                                                                        |              |               |                 |
+| 5月10日  | KBS2                                                  | Music Bank                                                  |                                                                        |              |               |                 |
+| 5月22日  | MBC Music                                             | Show Champion                                               |                                                                        |              |               |                 |
+|        |                                                       |                                                             |                                                                        |              |               |                 |
 
 #### 主要音樂節目榜單排名
 
@@ -725,7 +751,7 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 <td><p>2019年</p></td>
 </tr>
 <tr class="even">
-<td><p>無</p></td>
+<td><p>A Song For You</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/Happily_Ever_After.md" title="wikilink">Happily Ever After</a></p></td>
@@ -751,8 +777,8 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 | 各台冠軍歌曲獎座統計                           |
 | ------------------------------------ |
 | [Mnet](../Page/Mnet媒體.md "wikilink") |
-| **1**                                |
-| 一位總數 ：4                              |
+| **2**                                |
+| 一位總數 ：8 **三台冠軍歌總數：1**                |
 |                                      |
 
 ## 參考資料
@@ -765,7 +791,6 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
   - [JR Instagram](https://www.instagram.com/pockyjr/)
   - [旼炫 Instagram](https://www.instagram.com/optimushwang/)
   - [Aron Instagram](https://www.instagram.com/nuestaron/)
-  - [白虎 Instagram](https://www.instagram.com/realbaekho/)
 
 <!-- end list -->
 
@@ -836,14 +861,14 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 39.
 40.
 41.
-42. [Baekho 參與 NU'EST 新輯製作](http://kpopn.niusnews.com/=K1ybocd7)
+42.
 43.
 44.
 45.
 46. [傻眼！NU'EST成軍5年後
     將加入選秀節目重拚出道](http://ent.ltn.com.tw/news/breakingnews/1986010)
 47. [他們是SEVENTEEN師兄團卻要參加《Produce101》粉絲：傷自尊](http://www.koreastardaily.com/tc/news/91526)
-48. [NU'EST 將暫停活動，參加《101》第二季](http://kpopn.niusnews.com/=K2ey6sy1)
+48.
 49.
 50.
 51.
@@ -916,9 +941,22 @@ One\#廣告代言](https://zh.wikipedia.org/wiki/Wanna_One#.E5.BB.A3.E5.91.8A.E4
 115.
 116.
 117.
-118.  뉴스는 팩트다\!|accessdate=2018-11-01|language=ko}}
-119.
+118.
+119.  뉴스는 팩트다\!|accessdate=2018-11-01|language=ko}}
 120.
 121.
 122.
 123.
+124.
+125.
+126.
+127.
+128.
+129.
+130.
+131.
+132.
+133.
+134.
+135.
+136.
