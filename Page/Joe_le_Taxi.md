@@ -20,7 +20,7 @@ Taxi》是改編自的同名歌曲，由[陳少琪填詞](https://zh.wikipedia.o
 
 ## 参考資料
 
-[Category:中文流行歌曲](https://zh.wikipedia.org/wiki/Category:中文流行歌曲 "wikilink")
+[Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink")
 [Category:1988年歌曲](https://zh.wikipedia.org/wiki/Category:1988年歌曲 "wikilink")
 [Category:陳慧嫻歌曲](https://zh.wikipedia.org/wiki/Category:陳慧嫻歌曲 "wikilink")
 [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink")

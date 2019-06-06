@@ -119,8 +119,7 @@ Contents Media於](../Page/MBK娛樂.md "wikilink")2014年9月11日發佈。\[1\
 [Category:T-ara音樂專輯](https://zh.wikipedia.org/wiki/Category:T-ara音樂專輯 "wikilink")
 [Category:2014年迷你專輯](https://zh.wikipedia.org/wiki/Category:2014年迷你專輯 "wikilink")
 
-1.  [Album Review:T-ara - 'And &
-    End'](http://www.allkpop.com/review/2014/09/album-review-t-ara-and-end)
+1.
 
 2.  [Review: T-ara Abandon Their Classic Sound In Favor Of Big Room EDM
     On The New Single 'Sugar

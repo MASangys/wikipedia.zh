@@ -287,7 +287,7 @@
 <td style="text-align: center;"><p><a href="../Page/大力女子都奉順.md" title="wikilink">大力女子都奉順</a><br />
 </p></td>
 <td style="text-align: center;"><p>16</p></td>
-<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴寶英" title="wikilink">朴寶英</a>、<a href="https://zh.wikipedia.org/wiki/朴炯植" title="wikilink">朴炯植</a>、<a href="../Page/金志洙.md" title="wikilink">金志洙</a></p></td>
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/朴寶英" title="wikilink">朴寶英</a>、<a href="../Page/朴炯植.md" title="wikilink">朴炯植</a>、<a href="../Page/金志洙.md" title="wikilink">金志洙</a></p></td>
 <td style="text-align: center;"><p><a href="../Page/李亨民.md" title="wikilink">李亨民</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/白美瓊" title="wikilink">白美瓊</a></p></td>
 <td style="text-align: center;"></td>
@@ -494,10 +494,10 @@
 <tr class="odd">
 <td style="text-align: center;"><p>2019年5月31日-<br />
 2019年6月29日</p></td>
-<td style="text-align: center;"><p><a href="../Page/輔佐官.md" title="wikilink">輔佐官</a><br />
+<td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/輔佐官–改變世界的人們" title="wikilink">輔佐官–改變世界的人們</a><br />
 </p></td>
 <td style="text-align: center;"><p>10</p></td>
-<td style="text-align: center;"><p><a href="../Page/李政宰.md" title="wikilink">李政宰</a>、<a href="../Page/新慜娥.md" title="wikilink">新慜娥</a>、<a href="../Page/金明洙.md" title="wikilink">金明洙</a>、<a href="../Page/李伊利雅.md" title="wikilink">李伊利雅</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/李政宰.md" title="wikilink">李政宰</a>、<a href="../Page/新慜娥.md" title="wikilink">新慜娥</a>、<a href="../Page/金桐俊.md" title="wikilink">金桐俊</a>、<a href="../Page/李伊利雅.md" title="wikilink">李伊利雅</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/郭正煥" title="wikilink">郭正煥</a></p></td>
 <td style="text-align: center;"><p><a href="https://zh.wikipedia.org/wiki/李大日" title="wikilink">李大日</a></p></td>
 <td style="text-align: center;"></td>

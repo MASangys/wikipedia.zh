@@ -1,6 +1,6 @@
 **安孝珍**\[1\]（，，1991年12月10日－），藝名**LE**\[2\]（），原藝名為Elly（），在韓國[忠清南道](../Page/忠清南道.md "wikilink")[天安市](../Page/天安市.md "wikilink")[雙龍洞出生](../Page/雙龍洞_\(韓國\).md "wikilink")，[韓國女](https://zh.wikipedia.org/wiki/韓國 "wikilink")[饒舌歌手和](https://zh.wikipedia.org/wiki/饒舌歌手 "wikilink")[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[EXID成員之一](https://zh.wikipedia.org/wiki/EXID "wikilink")，2012年2月16日加入女子演唱組合[EXID後](https://zh.wikipedia.org/wiki/EXID "wikilink")，以成員**LE**身份正式出道，於組合內擔任主Rapper。\[3\]
 
-除了歌手的身份外，LE同時以[填詞人](https://zh.wikipedia.org/wiki/填詞人 "wikilink")、[作曲家和](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[音樂製作人的身份活躍於樂壇](../Page/音樂製作人.md "wikilink")，至今她創作了46首作品，她以音樂製作人身份登記於韓國音樂著作權家協會，登記編號為[10002393](https://archive.is/20150408120621/http://www.komca.or.kr/wos/wos_popup_select_member_right.jsp?S_MB_CD=10002393)。
+除了歌手的身份外，LE同時以[填詞人](https://zh.wikipedia.org/wiki/填詞人 "wikilink")、[作曲家和](https://zh.wikipedia.org/wiki/作曲家 "wikilink")[音樂製作人的身份活躍於樂壇](../Page/音樂製作人.md "wikilink")，至今她創作了58首作品，她以音樂製作人身份登記於韓國音樂著作權家協會，登記編號為[10002393](https://archive.is/20150408120621/http://www.komca.or.kr/wos/wos_popup_select_member_right.jsp?S_MB_CD=10002393)。
 
 ## 演藝經歷
 
@@ -169,7 +169,7 @@ Summer Nights」的演出\[5\]。
 
 ### 創作作品
 
-**韓國音樂著作權協會之登記編號：LE（10002393），60首。**\[7\]
+**韓國音樂著作權協會之登記編號：LE（10002393），66首。**\[7\]
 
 <table>
 <tbody>
@@ -780,6 +780,66 @@ Summer Nights」的演出\[5\]。
 <td><p>XIE XIE REMIX (FT. SWAYD, LIQUOR, LE)</p></td>
 <td></td>
 <td><p>100002466201</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月15日</p></td>
+<td><p>EXID</p></td>
+<td><p>ME AND YOU</p></td>
+<td></td>
+<td><p>100002522074</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月15日</p></td>
+<td><p>EXID</p></td>
+<td><p>WE ARE</p></td>
+<td><p>100002522077</p></td>
+<td><p>EXID全員參與作詞</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月15日</p></td>
+<td><p>EXID</p></td>
+<td><p>아끼지마</p></td>
+<td><p>100002522079</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月15日</p></td>
+<td><p>EXID</p></td>
+<td><p>어떻게지내</p></td>
+<td><p>100002522080</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月15日</p></td>
+<td><p>EXID</p></td>
+<td><p>내일해(LADY)(URBAN MIX)</p></td>
+<td><p>100002522086</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月15日</p></td>
+<td><p>EXID</p></td>
+<td><p>나의밤</p></td>
+<td><p>100002522092</p></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>

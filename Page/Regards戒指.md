@@ -29,6 +29,6 @@ lazuli）、[蛋白石](../Page/蛋白石.md "wikilink")（**o**pal）、（**v*
 
 [Category:戒指](https://zh.wikipedia.org/wiki/Category:戒指 "wikilink")
 [Category:訂婚](https://zh.wikipedia.org/wiki/Category:訂婚 "wikilink")
-[Category:維多利亞時代](https://zh.wikipedia.org/wiki/Category:維多利亞時代 "wikilink")
+[Category:维多利亚时代文化](https://zh.wikipedia.org/wiki/Category:维多利亚时代文化 "wikilink")
 
 1.

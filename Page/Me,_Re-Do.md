@@ -97,5 +97,4 @@ Blue有唱片封套的藍色背景。\[1\]
 [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")
 [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 
-1.  [容祖兒 Me, re-do
-    介紹](http://www.eegmusic.com/artist/album.php/list/146/865/Me%2C+re-do)
+1.

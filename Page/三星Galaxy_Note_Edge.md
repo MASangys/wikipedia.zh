@@ -39,7 +39,7 @@ Display](https://zh.wikipedia.org/wiki/Always_on_Display "wikilink")。由於AMO
 
 ## 参考文献
 
-## 外部鏈接
+## 外部連結
 
 [官方網站](http://www.samsung.com/global/galaxy/)
 

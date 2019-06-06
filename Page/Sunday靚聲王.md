@@ -293,7 +293,7 @@
 <td><p>柔柔古韻 盡在小調</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/劉鳳屏" title="wikilink">劉鳳屏</a>、<a href="../Page/柳影虹.md" title="wikilink">柳影虹</a>、<br />
 <a href="../Page/陳浩德.md" title="wikilink">陳浩德</a>、<a href="../Page/李龍基.md" title="wikilink">李龍基</a>、<br />
-<a href="../Page/麗莎_(歌手).md" title="wikilink">麗　莎</a></p></td>
+<a href="https://zh.wikipedia.org/wiki/麗莎_(新加坡歌手)" title="wikilink">麗莎</a></p></td>
 <td><ul>
 <li>熊熊聖火—鄭少秋（1978年無綫電視劇《<a href="../Page/倚天屠龍記_(1978年電視劇).md" title="wikilink">倚天屠龍記</a>》插曲）</li>
 <li>紅豆相思—劉鳳屏（原唱：鮑翠薇）</li>
@@ -672,7 +672,7 @@
 <td><p>29</p></td>
 <td><p>10月11日</p></td>
 <td><p>懷舊國粵 裊裊餘音</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/鄭錦昌" title="wikilink">鄭錦昌</a>、<a href="../Page/麗莎_(歌手).md" title="wikilink">麗莎</a>、<br />
+<td><p><a href="https://zh.wikipedia.org/wiki/鄭錦昌" title="wikilink">鄭錦昌</a>、<a href="https://zh.wikipedia.org/wiki/麗莎_(新加坡歌手)" title="wikilink">麗莎</a>、<br />
 <a href="../Page/華娃.md" title="wikilink">華娃</a>、<a href="../Page/李龍基.md" title="wikilink">李龍基</a>、<br />
 <a href="../Page/姚兵.md" title="wikilink">姚兵</a></p></td>
 <td><ul>

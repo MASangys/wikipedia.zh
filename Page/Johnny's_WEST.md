@@ -188,16 +188,16 @@ WEST**（）是[日本](../Page/日本.md "wikilink")[傑尼斯事務所旗下�
 <td><p>2019年1月30日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ホメチギリスト/傷だらけの愛">ホメチギリスト/傷だらけの愛</a></strong></p></td>
 <td><p>褒揚清單/充滿傷痕的愛</p></td>
-<td></td>
-<td></td>
+<td><p>1</p></td>
+<td><p>尚不適用</p></td>
 </tr>
 <tr class="odd">
 <td><p>12th</p></td>
 <td><p>2019年4月24日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/アメノチハレ">アメノチハレ</a></strong></p></td>
 <td><p>雨後天晴</p></td>
-<td></td>
-<td></td>
+<td><p>1</p></td>
+<td><p>尚不適用</p></td>
 </tr>
 <tr class="even">
 <td></td>

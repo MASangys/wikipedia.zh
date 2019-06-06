@@ -20,7 +20,7 @@ Pro在之后发布](../Page/Surface_Pro.md "wikilink")。\[2\]
 ## 软件
 
 第一代Surface平板电脑运行[Windows
-RT](../Page/Windows_RT.md "wikilink")，预先装有一系列应用程序如[OneDrive](../Page/OneDrive.md "wikilink"),[Microsoft
+RT](../Page/Windows_RT.md "wikilink")，预先装有一系列应用程序如[OneDrive](../Page/OneDrive.md "wikilink")，[Microsoft
 Office](../Page/Microsoft_Office.md "wikilink") 2013
 RT版（包括Word、PowerPoint、Excel和Onenote）。Windows RT只能运行从[Windows
 Store上下载的为](https://zh.wikipedia.org/wiki/Windows_Store "wikilink")[ARM架构设计的应用程序](https://zh.wikipedia.org/wiki/ARM架构 "wikilink")。

@@ -576,7 +576,7 @@ Michelle Fabio之專屬時裝設計師<br />
 車行維修工／羅信記貨運司機／“泰味坊”餐廳老闆（第28-38集）<br />
 泰國華僑<br />
 喬天生之獄友<br />
-羅威信之親信<br />
+羅威信之親信兼好友<br />
 Yuki之前男友，被其利用感情<br />
 Noon之男友<br />
 鮑家偉、姚浩男、肥仔強之好友<br />
@@ -989,7 +989,8 @@ Noon之男友<br />
 <td><p>楊曼芝</p></td>
 <td><p><strong>Mandy、Man姐</strong><br />
 東九龍<a href="https://zh.wikipedia.org/wiki/重案组" title="wikilink">重案组</a><a href="../Page/總督察.md" title="wikilink">總督察</a><br />
-喬天生之好友<br />
+喬天生之好友兼前上司<br />
+羅威信之好友<br />
 於第3集調查高天鷲非法賭博<br />
 於第21集接獲羅威信報警，阻止鍾國寶之手下破壞贊祥大廈<br />
 與羅威信及陳家威合作搜查高天鷲的犯罪證據<br />
@@ -1009,11 +1010,11 @@ Noon之男友<br />
 <td><p>陳家威</p></td>
 <td><p><strong>阿威</strong>、<strong>威Sir</strong><br />
 <a href="https://zh.wikipedia.org/wiki/香港警察" title="wikilink">香港警察</a>，後辭職<br />
-喬天生之前同事<br />
-羅威信之私家偵探<br />
+喬天生之前同事兼好友<br />
+羅威信之私家偵探兼好友<br />
 與羅威信及楊曼芝合作搜查高天鷲的犯罪證據<br />
 參見上集《<strong><a href="../Page/巨輪.md" title="wikilink">巨輪</a></strong>》</p></td>
-<td><p>9、33-39</p></td>
+<td><p>9、33-3</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/鄭世豪.md" title="wikilink">鄭世豪</a></p></td>
@@ -2771,7 +2772,7 @@ Noon之表哥<br />
 
 ### 主題曲
 
-前作《[巨輪](../Page/巨輪.md "wikilink")》的主題曲《巨輪》由[蕭正楠](../Page/蕭正楠.md "wikilink")、[陳展鵬合唱](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")（[葉肇中](../Page/葉肇中.md "wikilink")、[鄧智偉作曲](../Page/鄧智偉.md "wikilink")，[林日曦填詞](../Page/林日曦.md "wikilink")）在前作首播時深受歡迎。在續集播前廣告和第1集，亦以前作主題曲作序。但自第1集片尾後則使用前作男主角[陳展鵬主唱的](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")《誰可改變》（[張家誠作曲](../Page/張家誠.md "wikilink")，[楊熙填詞](https://zh.wikipedia.org/wiki/楊熙 "wikilink")）作全劇主題曲，卻被指“新不如舊”\[6\]。及後前作主題曲在第9集羅威信回憶羅信記十七年的經歷時再次播出。
+前作《[巨輪](../Page/巨輪.md "wikilink")》的主題曲《巨輪》由[蕭正楠](../Page/蕭正楠.md "wikilink")、[陳展鵬合唱](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")（[葉肇中](../Page/葉肇中.md "wikilink")、[鄧智偉作曲](../Page/鄧智偉.md "wikilink")，[林日曦填詞](../Page/林日曦.md "wikilink")）在前作首播時深受歡迎。在續集播前廣告和第1集，亦以前作主題曲作序。但自第1集片尾後則使用前作男主角[陳展鵬主唱的](https://zh.wikipedia.org/wiki/陳展鵬 "wikilink")《誰可改變》（[張家誠作曲](../Page/張家誠.md "wikilink")，[楊熙填詞](../Page/楊熙_\(填詞人\).md "wikilink")）作全劇主題曲，卻被指“新不如舊”\[6\]。及後前作主題曲在第9集羅威信回憶羅信記十七年的經歷時再次播出。
 
 ### 劇情
 

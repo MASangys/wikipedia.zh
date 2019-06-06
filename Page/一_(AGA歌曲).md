@@ -38,7 +38,7 @@ Lee合唱的](https://zh.wikipedia.org/wiki/Gin_Lee "wikilink")《一加一》�
 
 ## 参考資料
 
-[Category:中文流行歌曲](https://zh.wikipedia.org/wiki/Category:中文流行歌曲 "wikilink")
+[Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink")
 [Category:2014年歌曲](https://zh.wikipedia.org/wiki/Category:2014年歌曲 "wikilink")
 [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink")
 

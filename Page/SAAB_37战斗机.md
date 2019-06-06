@@ -1,15 +1,9 @@
-[Saab_37_Viggen_klargöring_1982_001.jpg](https://zh.wikipedia.org/wiki/File:Saab_37_Viggen_klargöring_1982_001.jpg "fig:Saab_37_Viggen_klargöring_1982_001.jpg")
-[SE-DXN_SAAB_Viggen_"Gustav_52"_(21366952562).jpg](https://zh.wikipedia.org/wiki/File:SE-DXN_SAAB_Viggen_"Gustav_52"_\(21366952562\).jpg "fig:SE-DXN_SAAB_Viggen_\"Gustav_52\"_(21366952562).jpg")
-[Viggen.svg](https://zh.wikipedia.org/wiki/File:Viggen.svg "fig:Viggen.svg")
-[Viggen_2008-03-01-35.jpg](https://zh.wikipedia.org/wiki/File:Viggen_2008-03-01-35.jpg "fig:Viggen_2008-03-01-35.jpg")
-
-**SAAB-37雷式战斗机**（[瑞典](https://zh.wikipedia.org/wiki/瑞典语 "wikilink")/[英语](../Page/英语.md "wikilink")：**Saab
+**SAAB-37雷式戰鬥機**（[瑞典](https://zh.wikipedia.org/wiki/瑞典语 "wikilink")/[英语](../Page/英语.md "wikilink")：**Saab
 37 Viggen**）{{\#tag:ref |The names of Swedish combat aircraft are always
 in the definite form, like Lansen or Gripen. | group = Nb |name=
 "Naming"}}\[1\]
-，是[瑞典产的一种单發單座战鬥机](../Page/瑞典.md "wikilink")，稱為Viggen，瑞典語中是「雷」的意思。SAAB-37在瑞典空軍中服役，配套的作戰系統被稱為第37武器系統，1967年首飛成功。隔年年，SAAB-37通過瑞典空軍的驗收，初步訂購了超過800架，但後來只完成了329架。。SAAB-37的的衍生型包括SF
-37、SH
-37，同时还可作为[双座教练机](https://zh.wikipedia.org/wiki/教练机 "wikilink")。在1970年代末增加了全天候战斗机兼战斗截击机型的JA
+，是[瑞典研製的單發單座戰鬥機](../Page/瑞典.md "wikilink")，稱為Viggen，瑞典語中是「雷」的意思。SAAB-37在瑞典空軍中服役，配套的作戰系統被稱為第37武器系統，1967年首飛成功。隔年年，SAAB-37通過瑞典空軍的驗收，初步訂購了超過800架，但後來只生產329架。SAAB-37的的衍生型包括SF
+37、SH 37，同时擔任[雙座教練機](../Page/教練機.md "wikilink")。1970年代末增加了全天候戰鬥機兼攔截機的JA
 37。
 
 ## 发展型
@@ -31,9 +25,16 @@ in the definite form, like Lansen or Gripen. | group = Nb |name=
 
   - [瑞典空军](https://zh.wikipedia.org/wiki/瑞典空军 "wikilink")
 
-## 技术数据
+## 設計數據
 
-## 另请参阅
+[Viggen.svg](https://zh.wikipedia.org/wiki/File:Viggen.svg "fig:Viggen.svg")
+
+## 圖庫
+
+<File:Saab> 37 Viggen klargöring 1982 001.jpg <File:SE-DXN> SAAB Viggen
+"Gustav 52" (21366952562).jpg <File:Viggen> 2008-03-01-35.jpg
+
+## 參見
 
   - [瑞典空军](https://zh.wikipedia.org/wiki/瑞典空军 "wikilink")
   - [幻象F-1](https://zh.wikipedia.org/wiki/幻象F1型战斗机 "wikilink")

@@ -1,5 +1,5 @@
 **Berry Good**
-（）是JTG娛樂於2014年5月成立的六人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，初始成員有邰賀、高雲、秀彬、Iera、娜妍。經成員變動後，現任成員有邰賀、祚弦、徐律、多藝、世馨、高雲。
+（）是JTG娛樂於2014年5月成立的五人[女子音樂組合](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")，初始成員有邰賀、高雲、秀彬、Iera、娜妍。經成員變動後，現任成員有祚弦、徐律、多藝、世馨、高雲。
 
 团名"Berry Good"寓意著成員將竭尽全力结成最好的果实，粉絲名為Very Berry。
 
@@ -7,27 +7,27 @@
 
 ### 2014年－出道、單曲一輯《Love Letter》
 
-Berry Good的首張單曲《Love Letter》及同名歌曲《Love
-Letter》MV\[1\]於2014年5月22日公開及宣告出道，5月18日公開MV預告\[2\]。5月22日於Mnet音樂節目《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中正式公開演出。6月21日於KBS2音樂節目《[Music
+5月18日，公開出道曲《Love Letter》MV預告\[1\]。
+
+5月22日，正式出道及公開《Love Letter》MV\[2\]，並於Mnet音樂節目《[M\!
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中正式公開演出。
+
+6月21日於KBS2音樂節目《[Music
 Bank](https://zh.wikipedia.org/wiki/Music_Bank "wikilink")》的表演舞台結束宣傳。
 
 ### 2015年－成員變遷、單曲二輯《Because Of you》、單曲三輯《My first love》
 
-2015年2月16日，公司宣布成員秀彬、Iera、娜妍退出。為了替補空缺，公司加入了新成員徐律、多藝、世馨以維持Berry
-Good的五人形式，而新成員徐律親姐姐是另一女子團體[AOA的成員](../Page/AOA.md "wikilink")[酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")，所以得到關注。\[3\]此外，公司亦宣佈Berry
+2月9日，公開歌曲《Because of you(요즘 너 때문에 난)》MV。
+
+2月16日，公司宣布成員秀彬、Iera、娜妍退出。為了替補空缺，加入新成員徐律、多藝、世馨以維持五人組合形式，而新成員徐律親姐姐是女子團體[AOA的成員](../Page/AOA.md "wikilink")[酉奈](https://zh.wikipedia.org/wiki/徐酉奈 "wikilink")，所以得到關注。\[3\]此外，公司亦宣佈Berry
 Good會在二月進行回歸。\[4\]
 
-2015年2月9日，公開歌曲《Because of you(요즘 너 때문에 난)》MV。
-
-2015年9月23日，Berry good 公開歌曲《My first love(내 첫사랑)》MV。
+9月23日，公開歌曲《My first love(내 첫사랑)》MV。
 
 ### 2016年：迷你一輯《Very Berry》、迷你二輯《GLORY》、新成員祚弦加入
 
-睽違大約七個月的時間，Berry Good在4月20日發行迷你一輯《Very Berry》回歸，專輯除了收錄舊曲《Love
-Letter》、《因為你(요즘 너 때문에 난)》和《我的初戀(내
-첫사랑)》外，更有新曲《一起(함께했음)》和主打曲《Angel》。
-\[5\]
+4月20日發行迷你一輯《Very Berry》回歸，專輯除了收錄舊曲《Love Letter》、《因為你(요즘 너 때문에
+난)》和《我的初戀(내 첫사랑)》外，更有新曲《一起(함께했음)》和主打曲《Angel》。 \[5\]
 
 加入一名新成員祚弦成為六人女團的Berry Good，將在11月1日推出全新迷你專輯《GLORY》回歸，宣傳照與主打歌《不會說謊 (안
 믿을래)》預告公開。
@@ -36,42 +36,56 @@ Letter》、《因為你(요즘 너 때문에 난)》和《我的初戀(내
 
 ### 2017年：單曲四輯《BibbidiBobbidiBoo》、部分成員參加[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")
 
-4月15日，Berry Good舉行出道以來首次Busking，演出了新曲《Bibbidibobbidiboo》。
+4月15日，舉行出道以來首次Busking，演出了新曲《Bibbidibobbidiboo》。
 
-睽違大約六個月，Berry
-Good在4月17日發行單曲四輯《BibbidiBobbidiBoo》回歸，公開同名主打歌《BibbidiBobbidiBoo》MV。
+4月17日，發行單曲四輯《BibbidiBobbidiBoo》回歸，公開同名主打歌《BibbidiBobbidiBoo》MV。
 
 10月29日，全員參加[YG娛樂製作的選秀節目](../Page/YG娛樂.md "wikilink")[MIXNINE](https://zh.wikipedia.org/wiki/MIXNINE "wikilink")，成員祚弦、徐律、多藝入選，徐律第7集淘汰，最終排名139名；多藝第10集淘汰，最終在少女組排名37名；祚弦第13集淘汰，最終在少女組排名24名。
 
 ### 2018年：子團體Berry Good HEARTHEART出道、正規一輯回歸、日本第一次演唱会、圣诞单曲
 
-睽違大約1年，邰賀、世馨及高雲三位成員以子團體「Berry Good
-HEARTHEART」身分在4月27日發行數位單曲出道，公開主打歌《Crazy,
+4月27日，邰賀、世馨及高雲三位成員以子團體「Berry Good HEARTHEART」身分發行數位單曲出道，公開主打歌《Crazy,
 gone crazy (난리가 난리가 났네)》MV。
 
-睽違大約1年4個月，以完全體攜首張正規專輯《FREE TRAVEL》回歸，主打歌為Green Apple(풋사과)。\[6\]
+8月16日，以完全體攜首張正規專輯《FREE TRAVEL》回歸，主打歌為《Green
+Apple(풋사과)》\[6\]，並公開主打歌《Green
+Apple(풋사과)》及收錄曲《Mellow Mellow》MV。
 
-2018年10月18日，Berry Good在日本东京的新宿Blaze举办了他们的第一场演唱会，并于12月15日发行了他们的单曲《This
-Winter》。
+10月18日，在日本东京的新宿Blaze举办了他们的第一场演唱会。
+
+12月15日，发行单曲《This Winter》。
+
+### 2019年：日本春季演唱会、迷你三輯《FANTASTIC》、成員變動
+
+4月16日至17日，在日本大阪舉辦了春季演唱會\[7\]。5月15日宣布推出迷你三輯《FANTASTIC》，但成員多藝因健康因素無法參加本次演唱會以及回歸活動<ref>官方Instagram公告
+
+  -
+  -
+</ref>。
+
+5月25日，Berry Good以五人形式攜迷你三輯《FANTASTIC》回歸，主打歌為《Oh\! Oh\!》，並公開主打歌《Oh\!
+Oh\!》MV。
+
+5月27日，成員邰賀與公司合約到期，退出組合\[8\]。
 
 ## 成員資料
 
 ### 現任成員
 
-| 成員列表        |
-| ----------- |
-| 藝名          |
-| 漢字          |
-| **邰賀**\[7\] |
-| **祚弦**\[8\] |
-| **徐律**      |
-| **多藝**      |
-| **世馨**      |
-| **高雲**      |
-| 退出成員        |
-| **秀彬**      |
-| **Iera**    |
-| **娜妍**      |
+| 成員列表         |
+| ------------ |
+| 藝名           |
+| 漢字           |
+| **祚弦**\[9\]  |
+| **徐律**       |
+| **多藝**       |
+| **世馨**       |
+| **高雲**       |
+| 退出成員         |
+| **秀彬**       |
+| **Iera**     |
+| **邰賀**\[10\] |
+| **娜妍**       |
 
 <timeline> ImageSize = width:650 height:300 PlotArea = width:500
 height:250 left:75 bottom:35 Alignbars = justify DateFormat = mm/dd/yyyy
@@ -106,7 +120,7 @@ PlotData =
 ` bar:Subin   from:start till:01/23/2015 `
 ` bar:Iera    from:start till:01/23/2015 `
 ` bar:Nayeon  from:start till:01/23/2015 `
-` bar:Taeha   from:start till:end `
+` bar:Taeha   from:start till:end`
 ` bar:Gowoon  from:start till:end `
 `color:purple width:10 textcolor:black align:left anchor:from`
 ` bar:Seoyul  from:01/23/2015 till:end `
@@ -225,6 +239,15 @@ PlotData =
 </ul></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><strong>3rd</strong></p></td>
+<td><p>《<strong>FANTASTIC</strong>》</p>
+<ul>
+<li>發行日期：2019年5月25日</li>
+<li>語言：<a href="https://zh.wikipedia.org/wiki/韓語" title="wikilink">韓語</a></li>
+</ul></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -323,21 +346,151 @@ PlotData =
 
 ### 音樂錄影帶
 
-|                  |                     |                  |                  |
-| ---------------- | ------------------- | ---------------- | ---------------- |
-| 年份               | 發佈日期                | 歌曲名稱             | 官方視頻             |
-| 2014             | 5月21日               | Love Letter      | kt music\[9\]    |
-| Berry Good\[10\] |                     |                  |                  |
-| 5月22日            | Acoustic ver.\[11\] |                  |                  |
-| 2015             | 2月8日                | Because of you   | 1theK\[12\]      |
-| Berry Good\[13\] |                     |                  |                  |
-| 9月22日            | My First Love       | kt music\[14\]   |                  |
-| Berry Good\[15\] |                     |                  |                  |
-| 김보라 ver.\[16\]   |                     |                  |                  |
-| 2016             | 4月19日               | Angel            | CJENMMUSIC\[17\] |
-| Berry Good\[18\] |                     |                  |                  |
-| 11月1日            | 不會說謊 (안 믿을래)        | CJENMMUSIC\[19\] |                  |
-| Berry Good\[20\] |                     |                  |                  |
+#### Berry Good
+
+<table>
+<tbody>
+<tr class="odd">
+<td><p>年份</p></td>
+<td><p>發佈日期</p></td>
+<td><p>歌曲名稱</p></td>
+<td><p>官方視頻</p></td>
+</tr>
+<tr class="even">
+<td><p>2014</p></td>
+<td><p>5月21日</p></td>
+<td><p>Love Letter</p></td>
+<td><p>kt music[11]</p></td>
+</tr>
+<tr class="odd">
+<td><p>Berry Good[12]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5月22日</p></td>
+<td><p>Acoustic ver.[13]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015</p></td>
+<td><p>2月8日</p></td>
+<td><p>Because of you</p></td>
+<td><p>1theK[14]</p></td>
+</tr>
+<tr class="even">
+<td><p>Berry Good[15]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月22日</p></td>
+<td><p>My First Love</p></td>
+<td><p>kt music[16]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Berry Good[17]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>김보라 ver.[18]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016</p></td>
+<td><p>4月19日</p></td>
+<td><p>Angel</p></td>
+<td><p>CJENMMUSIC[19]</p></td>
+</tr>
+<tr class="odd">
+<td><p>Berry Good[20]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月1日</p></td>
+<td><p>不會說謊 (안 믿을래)</p></td>
+<td><p>CJENMMUSIC[21]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Berry Good[22]</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017</p></td>
+<td><p>4月16日</p></td>
+<td><p>BibbidiBobbidiBoo(비비디바비디부)</p></td>
+<td><p>1theK (원더케이)[23]</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018</p></td>
+<td><p>8月16日</p></td>
+<td><p>Green Apple(풋사과)</p></td>
+<td><p>1theK (원더케이)<ref>{{Citation|last=1theK (원더케이)</p></td>
+</tr>
+<tr class="even">
+<td><p>Mellow Mellow</p></td>
+<td><p>1theK (원더케이)[24]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>9月9日</p></td>
+<td><p>Berry Good[25]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>12月15日</p></td>
+<td><p>이 겨울에 (This Winter)</p></td>
+<td><p>Berry Good<ref>普通版MV與特別版MV</p>
+<ul>
+<li><p>(普通版)</p></li>
+<li><p>(特別版)</ref></p></li>
+</ul></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019</p></td>
+<td><p>5月25日</p></td>
+<td><p>Oh! Oh!</p></td>
+<td><p>1theK (원더케이)[26]</p></td>
+</tr>
+<tr class="even">
+<td><p>5月26日</p></td>
+<td><p>Berry Good[27]</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+#### Berry Good HEARTHEART
+
+|       |                  |                               |                  |
+| ----- | ---------------- | ----------------------------- | ---------------- |
+| 年份    | 發佈日期             | 歌曲名稱                          | 官方視頻             |
+| 2018  | 4月27日            | 난리가 난리가 났네(Crazy, gone crazy) | Berry Good\[28\] |
+| 5月29日 | Berry Good\[29\] |                               |                  |
+|       |                  |                               |                  |
 
 ## 綜藝節目
 
@@ -356,7 +509,7 @@ PlotData =
 |      |                                                                  |                            |      |      |                                                                |
 | ---- | ---------------------------------------------------------------- | -------------------------- | ---- | ---- | -------------------------------------------------------------- |
 | 年份   | 电台                                                               | 節目名稱                       | 參與成員 | 性質   | 備註                                                             |
-| 2015 | [Arirang Radio](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink") | K-poppin' Ugly Truth\[21\] | 高雲   | 助理DJ | 與、[亞歷山大](https://zh.wikipedia.org/wiki/亞歷山大·李·尤西比奧 "wikilink") |
+| 2015 | [Arirang Radio](https://zh.wikipedia.org/wiki/阿里郎電視台 "wikilink") | K-poppin' Ugly Truth\[30\] | 高雲   | 助理DJ | 與、[亞歷山大](https://zh.wikipedia.org/wiki/亞歷山大·李·尤西比奧 "wikilink") |
 |      |                                                                  |                            |      |      |                                                                |
 
 ### 非固定綜藝節目
@@ -373,27 +526,78 @@ PlotData =
 |      |          |               |      |        |
 | ---- | -------- | ------------- | ---- | ------ |
 | 年份   | 電視台      | 節目名稱          | 參與成員 | 備註     |
-| 2017 | TV10plus | Berry Good TV | 全員   | \[22\] |
+| 2017 | TV10plus | Berry Good TV | 全員   | \[31\] |
 
 ## 主要音樂節目榜單排名
 
-| 主打歌曲排名成績          |
-| ----------------- |
-| 專輯                |
-| 2014年             |
-| Love Letter       |
-| 2015年             |
-| Because of You    |
-| My First Love     |
-| 2016年             |
-| Very Berry        |
-| GLORY             |
-| 2017年             |
-| BibbidiBobbidiBoo |
-| 2018年             |
-| Crazy, gone crazy |
-| Free Travel       |
-| This Winter       |
+<table>
+<thead>
+<tr class="header">
+<th><p>主打歌曲排名成績</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>專輯</p></td>
+</tr>
+<tr class="even">
+<td><p>2014年</p></td>
+</tr>
+<tr class="odd">
+<td><p>Love Letter</p></td>
+</tr>
+<tr class="even">
+<td><p>2015年</p></td>
+</tr>
+<tr class="odd">
+<td><p>Because of You</p></td>
+</tr>
+<tr class="even">
+<td><p>My First Love</p></td>
+</tr>
+<tr class="odd">
+<td><p>2016年</p></td>
+</tr>
+<tr class="even">
+<td><p>Very Berry</p></td>
+</tr>
+<tr class="odd">
+<td><p>GLORY</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年</p></td>
+</tr>
+<tr class="odd">
+<td><p>BibbidiBobbidiBoo</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+</tr>
+<tr class="odd">
+<td><p>Crazy, gone crazy</p></td>
+</tr>
+<tr class="even">
+<td><p>Free Travel</p></td>
+</tr>
+<tr class="odd">
+<td><p>This Winter</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年</p></td>
+</tr>
+<tr class="odd">
+<td><p>FANTASTIC</p></td>
+</tr>
+<tr class="even">
+<td><ul>
+<li>「/」表示未有相關資料</li>
+<li>「<span style="background:#808080">　</span>」：該段時期未設立排行榜</li>
+<li>「*」：打榜中</li>
+<li>取得《Show Champion》、《M! Countdown》及《人氣歌謠》三週一位後，排名自動除外</li>
+</ul></td>
+</tr>
+</tbody>
+</table>
 
 ## 參考資料
 
@@ -435,10 +639,10 @@ PlotData =
     vlovekpop
 6.  [Berry Good 首張正規專輯《FREE
     TRAVEL》個人概念照公開](https://www.kpopn.com/2018/08/13/berry-good)
-7.  [邰賀在2019年2月9日的IG限時動態中親自回答有關藝名漢字的問題](https://wx2.sinaimg.cn/large/63504f86ly1g00fdmewz4j20ku112760.jpg)
-8.  [祚弦在IG限時動態中親自回答有關藝名漢字的問題](https://wx2.sinaimg.cn/large/63504f86ly1g00fdsy0pzj20ku11242h.jpg)
-9.
-10.
+7.
+8.
+9.  [祚弦在IG限時動態中親自回答有關藝名漢字的問題](https://wx2.sinaimg.cn/large/63504f86ly1g00fdsy0pzj20ku11242h.jpg)
+10. [邰賀在2019年2月9日的IG限時動態中親自回答有關藝名漢字的問題](https://wx2.sinaimg.cn/large/63504f86ly1g00fdmewz4j20ku112760.jpg)
 11.
 12.
 13.
@@ -451,3 +655,12 @@ PlotData =
 20.
 21.
 22.
+23.
+24.
+25.
+26.
+27.
+28. (普通版)
+29. (舞蹈版)
+30.
+31.

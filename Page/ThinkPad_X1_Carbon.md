@@ -44,8 +44,7 @@ Carbon的[防滚架由重量轻的](https://zh.wikipedia.org/wiki/防滚架 "wik
 
 ## 参考资料
 
-[Category:聯想集團](https://zh.wikipedia.org/wiki/Category:聯想集團 "wikilink")
-[Category:筆記型電腦](https://zh.wikipedia.org/wiki/Category:筆記型電腦 "wikilink")
+[Category:联想笔记本电脑](https://zh.wikipedia.org/wiki/Category:联想笔记本电脑 "wikilink")
 
 1.
 2.  <http://www.washingtonpost.com/business/technology/lenovo-unveils-lighter-quicker-thinkpad-inspired-by-convenience-of-tablets-smart-phones/2012/08/06/gJQAzyogaX_story.html>

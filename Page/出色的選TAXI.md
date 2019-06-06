@@ -1,6 +1,6 @@
 ，是2014年10月至同年12月於[日本](../Page/日本.md "wikilink")[關西電視台每週二](../Page/關西電視台.md "wikilink")[火十時段](https://zh.wikipedia.org/wiki/關西電視台、富士電視台週二晚間十點連續劇 "wikilink")（22:00
 -
-22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，由[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")升野英知初次編寫[連續劇的劇本](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，[竹野內豐主演](../Page/竹野內豐.md "wikilink")\[1\]\[2\]。
+22:54，[JST](https://zh.wikipedia.org/wiki/日本標準時 "wikilink")）播出的[電視連續劇](https://zh.wikipedia.org/wiki/電視連續劇 "wikilink")，由[搞笑藝人](https://zh.wikipedia.org/wiki/搞笑藝人 "wikilink")[笨蛋主義升野英知初次編寫](https://zh.wikipedia.org/wiki/笨蛋主義 "wikilink")[連續劇的劇本](https://zh.wikipedia.org/wiki/連續劇 "wikilink")，[竹野內豐主演](../Page/竹野內豐.md "wikilink")\[1\]\[2\]。
 
 2016年4月5日播出2小時特別篇\[3\]。
 
@@ -30,7 +30,7 @@
 </tr>
 <tr class="even">
 <td><p>迫田宏</p></td>
-<td><p>[6]</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/笨蛋主義" title="wikilink">笨蛋主義</a>[6]</p></td>
 <td><p><a href="../Page/蕭徽勇.md" title="wikilink">蕭徽勇</a></p></td>
 <td><p>咖啡店店長。</p></td>
 </tr>
@@ -261,7 +261,7 @@
 
 ## 製作人員
 
-  - 劇本：\[22\]、大倉
+  - 劇本：[笨蛋主義](https://zh.wikipedia.org/wiki/笨蛋主義 "wikilink")\[22\]、大倉
   - 配樂：
   - 導演：、星野和成、今井和久
   - 主題曲：《[我的對面](../Page/我的對面.md "wikilink")》[aiko](https://zh.wikipedia.org/wiki/aiko "wikilink")（[波麗佳音](https://zh.wikipedia.org/wiki/波麗佳音 "wikilink")）\[23\]\[24\]
@@ -323,7 +323,7 @@
 <td><p>男女的選項<br />
 <small>後悔莫及的你，要搭上修正人生的計程車嗎？</small></p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/笨蛋主義" title="wikilink">笨蛋主義</a></p></td>
 <td><p>筧昌也[26][27]</p></td>
 <td><p>10.7%[28]</p></td>
 </tr>

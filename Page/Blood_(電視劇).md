@@ -35,7 +35,7 @@ Doctor](https://zh.wikipedia.org/wiki/Good_Doctor "wikilink")》編劇[朴才範
 一出生就是感染者，成年後一直維持25歲左右的樣子生活著。堅持不用吸血鬼的力量危害無辜，少年時誤殺一隻梅花鹿後便再無殺生過，也堅持不吸取人類的血液，靠著母親開發出的藥物克制對血的慾望，身為血緣純種的感染者(感染者與感染者生的後代)有著比一般感染者強大的抗體。<br />
 麗塔少時的救命恩人。在東歐內戰時也曾順手救了一位小女孩，並取名為小英。<br />
 十分希望自己能夠成為人類，所以致力研究VBT-01並尋找能夠治療病毒的解藥。</p></td>
-<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/陳啟熾" title="wikilink">陳啟熾</a></p></td>
 <td><p><a href="../Page/何志威.md" title="wikilink">何志威</a></p></td>
 </tr>
 <tr class="odd">
@@ -66,7 +66,7 @@ Doctor](https://zh.wikipedia.org/wiki/Good_Doctor "wikilink")》編劇[朴才範
 宰旭視她為自己最大的弱點，後來漸漸無法認同宰旭的行為<br />
 雖為宰旭身邊的感染者，但總是帶著一顆善良的心想救治病人，且非常喜歡小孩，對於罹病的娜靜更是百般照顧。<br />
 於第20集為救志尚而死。</p></td>
-<td></td>
+<td><p><a href="../Page/劉曉樺.md" title="wikilink">劉曉樺</a></p></td>
 <td></td>
 </tr>
 </tbody>

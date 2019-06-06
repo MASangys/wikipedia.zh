@@ -147,7 +147,9 @@
 ### 2019年
 
   -
+    3月，日文版開始舉辦6週年相關活動。
     3月底，官方發出訊息，海外版突破2200萬名使用者。
+    5月，國際版開始舉辦5週年相關活動。
 
 ## 遊戲內容
 
@@ -482,7 +484,7 @@ ID。
 [Category:2013年電子遊戲](https://zh.wikipedia.org/wiki/Category:2013年電子遊戲 "wikilink")
 [Category:Love_Live\!](https://zh.wikipedia.org/wiki/Category:Love_Live! "wikilink")
 [Category:音樂遊戲](https://zh.wikipedia.org/wiki/Category:音樂遊戲 "wikilink")
-[Category:盛大游戏](https://zh.wikipedia.org/wiki/Category:盛大游戏 "wikilink")
+[Category:盛趣遊戲](https://zh.wikipedia.org/wiki/Category:盛趣遊戲 "wikilink")
 [Category:IOS遊戲](https://zh.wikipedia.org/wiki/Category:IOS遊戲 "wikilink")
 [Category:Android遊戲](https://zh.wikipedia.org/wiki/Category:Android遊戲 "wikilink")
 [Category:含付费内容的免费游戏](https://zh.wikipedia.org/wiki/Category:含付费内容的免费游戏 "wikilink")

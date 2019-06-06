@@ -1,4 +1,4 @@
-**EXO PLANET ＃2 - The EXO'luXion
+**EXO PLANET \#2 - The EXO'luXion
 -**是[韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[男子組合](https://zh.wikipedia.org/wiki/男子組合 "wikilink")[EXO於](../Page/EXO.md "wikilink")2015年舉辦的第二次巡迴演唱會。這次演唱會標題The
 EXO'luXion是由“[EXO](../Page/EXO.md "wikilink")”、“Revolution”和意味組合10名成員羅馬數字“X”的組成，代表EXO的10名成員以這此巡演開始重新出發。\[1\]
 

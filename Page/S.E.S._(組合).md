@@ -17,27 +17,14 @@
 
 ## 歷史
 
-### 組合時期
+2002年，S.E.S.的團體活動休止。2003年，成員[Bada和](../Page/Bada_\(歌手\).md "wikilink")[柳真與](../Page/柳真.md "wikilink")[SM娛樂的合約到期後](../Page/SM娛樂.md "wikilink")，兩人皆決定不再續約，團體也隨之解散。解散後的三人分別以個人名義進行音樂和演戲活動。[Shoo在](../Page/Shoo.md "wikilink")2006年也離開了SM娛樂。
 
-1997年，SES組成並推出第一張專輯I'm Your
-Girl，雖然初期組合的歌曲走青春路線，但仍在一些場合表現出各人的才能，在李素羅的節目「Propose
-Show」，Eugene表演鋼琴，Bada表演唱歌，Shoo則參與和音。「I'm Your Girl」和 「Oh, My
-Love\!」廣受注目，SES成為當時最受歡迎的[K-Pop女子組合](https://zh.wikipedia.org/wiki/K-Pop "wikilink")。
+2007年，為慶祝成軍十週年，三人進行了短暫的重聚，並在2008年以團體身分參加韓國電視節目《Happy
+Sunday》。2009年又以團體身分出演《Come To
+Play》。2014年，Bada與Shoo再次以團體身分重聚，參加了《[無限挑戰](../Page/無限挑戰.md "wikilink")》的演出，當時柳真因懷孕無法參加，由[少女时代成員](../Page/少女时代.md "wikilink")[徐玄代替其身分出場](https://zh.wikipedia.org/wiki/徐玄 "wikilink")。\[2\]\[3\]
 
-組合第二張專輯「Sea & Eugene & Shoo」在1998年推出，第一主打歌是「Dreams Come
-True」，三人試圖表現出童話的形象，第二主打歌是「I Love
-You」，三人回復可愛的形象。專輯錄得65萬張的銷量。
-
-1999年尾，組合的第三張專輯Love推出，錄得76萬2千張銷量，是組合銷量最高的專輯，更是韓國女子組合歷來銷量最高的專輯。在專輯中，三位成員都染了金髮，改變以往青春的形象，展現出較為成熟的形象。專輯的第一主打歌「Love」的[音樂錄像在](https://zh.wikipedia.org/wiki/音樂錄像 "wikilink")[美國](https://zh.wikipedia.org/wiki/美國 "wikilink")[紐約拍攝](https://zh.wikipedia.org/wiki/紐約 "wikilink")，耗資超過一百萬美元，在當時十分罕見，第二主打歌「Twilight
-Zone」是[R\&B風格歌曲](https://zh.wikipedia.org/wiki/R&B "wikilink")，這首歌延續本碟的主題，但三人回復較簡單的形象，舞步亦有改變。本專輯的宣傳活動在2000年1月完結。
-
-### 個人發展時期
-
-2007年，組合因紀念成立10周年重聚，在2008年，組合在綜藝節目「[快樂星期天](../Page/快樂星期天.md "wikilink")」亮相，在2014年，[Bada和](../Page/Bada_\(歌手\).md "wikilink")[Shoo在綜藝節目](../Page/Shoo.md "wikilink")「[無限挑戰](../Page/無限挑戰.md "wikilink")」演出I'm
-Your
-Girl，當時因為[柳真懷孕](../Page/柳真.md "wikilink")，所以由[少女時代的](https://zh.wikipedia.org/wiki/少女時代 "wikilink")[徐玄代替](https://zh.wikipedia.org/wiki/徐玄 "wikilink")。
-
-為紀念組合成立20周年，三人將會在2017年重聚演出。
+2016年5月28日，S.E.S.參加了慈善活動Green Heart
+Bazaar。\[4\]\[5\]\[6\]\[7\]同年10月，S.E.S.正式宣布將會以音樂活動正式回歸。11月23日，SM娛樂正式宣布將會為S.E.S.發行二十週年紀念專輯。\[8\]\[9\]
 
 ## 作品
 
@@ -338,3 +325,11 @@ Girl，當時因為[柳真懷孕](../Page/柳真.md "wikilink")，所以由[少�
 
 1.  [스이에스(S.E.S) 바다, ‘우아한
     손이사’](http://www.topstarnews.net/detail.php?number=294010)
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.

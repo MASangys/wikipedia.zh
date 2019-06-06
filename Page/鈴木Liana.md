@@ -85,7 +85,7 @@ Car）〉，邀請[明星在](https://zh.wikipedia.org/wiki/明星 "wikilink")[�
 ## 外部連結
 
   - [GAZOO.com：スズキ
-    エリオ](http://gazoo.com/car/newcar/vehicle_info/Pages/detail.aspx?MAKER_CD=I&CARTYPE_CD=12&GENERATION=01&CARNAME=%E3%82%A8%E3%83%AA%E3%82%AA)
+    エリオ](https://web.archive.org/web/20150120064502/http://gazoo.com/car/newcar/vehicle_info/Pages/detail.aspx?MAKER_CD=I&CARTYPE_CD=12&GENERATION=01&CARNAME=%E3%82%A8%E3%83%AA%E3%82%AA)
 
 [Category:鈴木車輛](https://zh.wikipedia.org/wiki/Category:鈴木車輛 "wikilink")
 [Category:轎車](https://zh.wikipedia.org/wiki/Category:轎車 "wikilink")

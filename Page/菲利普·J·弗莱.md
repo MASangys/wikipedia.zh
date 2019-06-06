@@ -63,7 +63,7 @@ Ndndifferences](https://zh.wikipedia.org/wiki/Lrrreconcilable_Ndndifferences "wi
 ## 外部連結
 
   - [Philip J. Fry Futurama
-    Wiki](http://theinfosphere.org/Philip_J._Fry)
+    Wiki](https://web.archive.org/web/20120621104429/http://theinfosphere.org/Philip_J._Fry)
 
 [cs:Seznam hlavních postav ve Futuramě\#Philip J.
 Fry](https://zh.wikipedia.org/wiki/cs:Seznam_hlavních_postav_ve_Futuramě#Philip_J._Fry "wikilink")

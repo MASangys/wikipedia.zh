@@ -35,7 +35,7 @@ function p._main(args)
 
 `   if args[1] then`
 `       if args[2] then table.insert(bracketArr, label(args, '日语', ja(args[2]))) end`
-`       if args['romaji'] then table.insert(bracketArr, label(args, '`[`罗马字`](https://zh.wikipedia.org/wiki/平文式罗马字 "wikilink")`', romaji(args['romaji']))) end`
+`       if args['romaji'] then table.insert(bracketArr, label(args, '`[`罗马字`](../Page/平文式罗马字.md "wikilink")`', romaji(args['romaji']))) end`
 `       if args[3] then table.insert(bracketArr, args[3]) end`
 `       if args[4] then table.insert(bracketArr, args[4]) end`
 `       if #bracketArr > 0 then temp = '（' .. table.concat(bracketArr, '，') .. '）' end`

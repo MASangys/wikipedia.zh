@@ -15,9 +15,11 @@ array，多維陣列)数据結構。這是一個表示多維度、同質並且�
 
 ## 語法
 
-**建立陣列**
+  - 建立陣列
 
-``` python
+<!-- end list -->
+
+``` numpy
 >>> import numpy as np
 >>> x = np.array([1, 2, 3])
 >>> x
@@ -27,9 +29,11 @@ array([1, 2, 3])
 array([0, 1, 2, 3, 4, 5, 6, 7, 8, 9])
 ```
 
-**基本運算**
+  - 基本運算
 
-``` python
+<!-- end list -->
+
+``` numpy
 >>> a = np.array([1, 2, 3, 6])
 >>> b = np.linspace(0, 2, 4)  # 建立一個array, 在0與2的範圍之間讓4個點等分
 >>> c = a - b
@@ -39,17 +43,21 @@ array([ 1.        ,  1.33333333,  1.66666667,  4.        ])
 array([ 1,  4,  9, 36])
 ```
 
-**全域方法**
+  - 全域方法
 
-``` python
+<!-- end list -->
+
+``` numpy
 >>> a = np.linspace(-np.pi, np.pi, 100)
 >>> b = np.sin(a)
 >>> c = np.cos(a)
 ```
 
-**線性代數**
+  - 線性代數
 
-``` python
+<!-- end list -->
+
+``` numpy
 >>> from numpy.random import rand
 >>> from numpy.linalg import solve, inv
 >>> a = np.array([[1,_2,_3],_[3,_4,_6.7],_[5,_9.0,_5|1, 2, 3], [3, 4, 6.7], [5, 9.0, 5]])

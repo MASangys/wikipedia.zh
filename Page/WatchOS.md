@@ -1,15 +1,3 @@
-16R382) | latest release date =  | latest preview version = watchOS 5.1
-beta 2 (16R5568d) | latest preview date =  | marketing target = |
-programmed in = [Objective-C](../Page/Objective-C.md "wikilink") |
-language = | update model = 在[iOS
-12](https://zh.wikipedia.org/wiki/iOS_12 "wikilink") 及以上版本的
-[iPhone](https://zh.wikipedia.org/wiki/iPhone "wikilink") 上以
-[OTA](https://zh.wikipedia.org/wiki/OTA "wikilink") 更新 | package manager
-= | supported platforms = | kernel type = | userland = | ui = | license
-=
-[專有軟體](https://zh.wikipedia.org/wiki/專有軟體 "wikilink")[最終用戶許可協議](https://zh.wikipedia.org/wiki/最終用戶許可協議 "wikilink")
-| preceded by = | succeeded by = | website =  | support status = 支援中 }}
-
 **watchOS**是[Apple
 Watch的](https://zh.wikipedia.org/wiki/Apple_Watch "wikilink")[作業系統](https://zh.wikipedia.org/wiki/作業系統 "wikilink")，由[蘋果公司開發](https://zh.wikipedia.org/wiki/蘋果公司 "wikilink")，衍生自[iOS作業系統](https://zh.wikipedia.org/wiki/iOS "wikilink")，兩者之間有許多相似的功能。watchOS在2015年4月24日與蘋果手錶同時推出。蘋果手錶是唯一運行watchOS的裝置。[API稱爲](https://zh.wikipedia.org/wiki/API "wikilink")[WatchKit](https://zh.wikipedia.org/wiki/WatchKit "wikilink")。在[WWDC
 2017](https://zh.wikipedia.org/wiki/WWDC "wikilink")，發布了帶有重大改良的watchOS

@@ -1,5 +1,5 @@
-SILENT
-SIREN是一支[日本女子](../Page/日本.md "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")，在2010年組成。所屬經紀公司為PLATINUM
+**SILENT
+SIREN**是一支[日本女子](../Page/日本.md "wikilink")[搖滾樂隊](https://zh.wikipedia.org/wiki/搖滾樂隊 "wikilink")，在2010年組成。所屬經紀公司為PLATINUM
 PRODUCTION\[1\]，唱片公司為[EMI Records](../Page/環球音樂_\(日本\).md "wikilink")。
 
 ## 概要

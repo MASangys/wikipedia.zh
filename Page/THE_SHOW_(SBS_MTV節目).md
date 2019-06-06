@@ -62,7 +62,7 @@ SHOW;zh-cn:韩秀榜}-**》（；）是[韓國](https://zh.wikipedia.org/wiki/�
 | 2017年5月16日－8月29日       | | [正花](../Page/正花.md "wikilink")、[P.O](../Page/P.O.md "wikilink")、[妍雨](../Page/MOMOLAND.md "wikilink")                                      |                                                       |                                                                        |
 | 2017年10月17日－2018年5月8日  | | [永才](https://zh.wikipedia.org/wiki/永才 "wikilink")、[珠伊](../Page/MOMOLAND.md "wikilink")、[浩賢](../Page/TRCNG.md "wikilink")                  |                                                       |                                                                        |
 | 2018年5月22日－2018年10月23日 | | [張睿恩](https://zh.wikipedia.org/wiki/張睿恩 "wikilink")、[Jeno](../Page/NCT.md "wikilink")、[金龍國](https://zh.wikipedia.org/wiki/金龍國 "wikilink") |                                                       |                                                                        |
-| 2018年10月30日－至今         | | 張睿恩、Jeno                                                                                                                                  |                                                       |                                                                        |
+| 2018年10月30日－至今         | | [張睿恩](https://zh.wikipedia.org/wiki/張睿恩 "wikilink")、[Jeno](../Page/NCT.md "wikilink")                                                     |                                                       |                                                                        |
 
 ### 代班MC
 
@@ -1312,6 +1312,22 @@ SHOW;zh-cn:韩秀榜}-**》（；）是[韓國](https://zh.wikipedia.org/wiki/�
     - Danger<sup>1st</sup> \[9,250分\]
   - 04.30 - 停播
 
+<!-- end list -->
+
+  - 五月
+
+<!-- end list -->
+
+  - 05.07 - [THE
+    BOYZ](https://zh.wikipedia.org/wiki/THE_BOYZ "wikilink")<sup>1st</sup>
+    - Bloom Bloom<sup>1st</sup> \[7,032分\]
+  - 05.14 - [Oh My
+    Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")<sup>3rd</sup>
+    - The Fifth Season<sup>1st</sup> \[8,205分\]
+  - 05.21 - 停播
+  - 05.28 - [金在奐](../Page/金在奐.md "wikilink")<sup>1st</sup> - Begin
+    Again<sup>1st</sup> \[9,376分\]
+
 ## 藝人成就
 
 ### 獲獎最多的歌手
@@ -1341,6 +1357,7 @@ SHOW;zh-cn:韩秀榜}-**》（；）是[韓國](https://zh.wikipedia.org/wiki/�
 | [(G)I-DLE](../Page/\(G\)I-DLE.md "wikilink")                             | 2018                                                              |     |      |
 | [NCT 127](https://zh.wikipedia.org/wiki/NCT_127 "wikilink")              | 2016                                                              |     |      |
 | [MOMOLAND](../Page/MOMOLAND.md "wikilink")                               | 2016                                                              |     |      |
+| [Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")        | 2015                                                              |     |      |
 | 9th                                                                      | [INFINITE H](https://zh.wikipedia.org/wiki/INFINITE_H "wikilink") | 2次  | 2013 |
 | [BOYFRIEND](../Page/Boyfriend_\(男子团体\).md "wikilink")                    | 2011                                                              |     |      |
 | [EXO](../Page/EXO.md "wikilink")                                         | 2012                                                              |     |      |
@@ -1353,7 +1370,6 @@ SHOW;zh-cn:韩秀榜}-**》（；）是[韓國](https://zh.wikipedia.org/wiki/�
 | [Seventeen](../Page/Seventeen_\(組合\).md "wikilink")                      | 2015                                                              |     |      |
 | [Highlight](https://zh.wikipedia.org/wiki/Highlight_\(韓國組合\) "wikilink") | 2017                                                              |     |      |
 | [金聖圭](../Page/金聖圭.md "wikilink")                                         | 2012                                                              |     |      |
-| [Oh My Girl](https://zh.wikipedia.org/wiki/Oh_My_Girl "wikilink")        | 2015                                                              |     |      |
 | [CLC](../Page/CLC.md "wikilink")                                         | 2015                                                              |     |      |
 
 ### 獲得最高分數的歌曲

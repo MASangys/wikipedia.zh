@@ -215,7 +215,7 @@ AA樹的性能和紅黑樹是很類似的(其實很慢)。因為AA樹比紅黑�
     tree
     structures](https://web.archive.org/web/20071022052324/http://www.softpedia.com/get/Others/Home-Education/AA-Visual-2007.shtml)
   - [Thorough
-    tutorial](http://www.eternallyconfuzzled.com/tuts/datastructures/jsw_tut_andersson.aspx)
+    tutorial](https://web.archive.org/web/20160303175254/http://www.eternallyconfuzzled.com/tuts/datastructures/jsw_tut_andersson.aspx)
     Julienne Walker with lots of code, including a practical
     implementation
   - [Object Oriented implementation with

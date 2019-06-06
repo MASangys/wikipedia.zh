@@ -9,8 +9,6 @@ support，LTS）版本，在20000雇员中有近一半使用它\[1\]。它增加
 
 Google使用[Puppet以管理其安装了Goobuntu的机器](https://zh.wikipedia.org/wiki/Puppet "wikilink")。\[9\]
 
-2018年，Google宣佈使用基於[Debian的](../Page/Debian.md "wikilink")[gLinux取代Goobuntu](https://zh.wikipedia.org/wiki/:en:gLinux "wikilink")。
-
 ## 参见
 
   - [Google](../Page/Google.md "wikilink")

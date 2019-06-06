@@ -204,6 +204,37 @@
 <td><p>2018年9月7日</p></td>
 <td><p>ISBN 978-4-06-512232-7</p></td>
 </tr>
+<tr class="odd">
+<td><p>22</p></td>
+<td><p>2019年1月9日</p></td>
+<td><p>ISBN 978-4-06-513868-7</p></td>
+</tr>
+<tr class="even">
+<td><p>23</p></td>
+<td><p>2019年6月7日</p></td>
+<td><p>ISBN 978-4-06-515301-7</p></td>
+</tr>
+</tbody>
+</table>
+
+### 小說
+
+<table>
+<thead>
+<tr class="header">
+<th><p>卷數</p></th>
+<th><p><a href="https://zh.wikipedia.org/wiki/講談社" title="wikilink">講談社</a></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>發售日期</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/ISBN" title="wikilink">ISBN</a></p></td>
+</tr>
+<tr class="even">
+<td><p>0</p></td>
+<td><p>2019年6月7日</p></td>
+</tr>
 </tbody>
 </table>
 

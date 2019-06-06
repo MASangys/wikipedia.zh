@@ -6,28 +6,102 @@ E\&M旗下的](../Page/CJ集团.md "wikilink")[大韓民國](https://zh.wikipedi
 **N**etwork），於1999年因大宇傳媒倒閉而由[好麗友製菓旗下的](https://zh.wikipedia.org/wiki/好麗友 "wikilink")接手，2010年時[CJ集团收購了On](../Page/CJ集团.md "wikilink")-Media，因此OCN正式成為CJ
 E\&M旗下的一個有線電視頻道。
 
-2009年時，On-Media創立了OCN的姊妹頻道，以播放美國影集為主或是重播OCN自製電視影集。
+## 原創戲劇作品
 
-## 原創電視電影／電視影集
+### 電視電影
 
-  - [OCN Original Series](../Page/OCN_Original_Series.md "wikilink")
-  - [OCN Pick](../Page/OCN_Pick.md "wikilink")
+<table style="width:37%;">
+<colgroup>
+<col style="width: 9%" />
+<col style="width: 2%" />
+<col style="width: 5%" />
+<col style="width: 3%" />
+<col style="width: 8%" />
+<col style="width: 8%" />
+<col style="width: 2%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>播放日期</strong></p></td>
+<td><p><strong>劇集名稱</strong></p></td>
+<td><p><strong>集數</strong></p></td>
+<td><p><strong>主演</strong></p></td>
+<td><p><strong>編劇</strong></p></td>
+<td><p><strong>導演</strong></p></td>
+<td><p><strong>備註</strong></p></td>
+</tr>
+<tr class="even">
+<td><p>2004年11月28日－<br />
+2004年12月31日</p></td>
+<td><p><br />
+</p></td>
+<td><p>6</p></td>
+<td><p><a href="../Page/林晶恩.md" title="wikilink">林晶恩</a>、許英真、 、朴梅麗</p></td>
+<td></td>
+<td><p>奉萬大</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2007年8月24日－<br />
+2007年9月14日</p></td>
+<td><p><br />
+</p></td>
+<td><p>4</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2008年11月14日－<br />
+2008年11月21日</p></td>
+<td><p>色情演員殺人事件<br />
+</p></td>
+<td><p>2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2008年12月18日</p></td>
+<td><p><br />
+</p></td>
+<td><p>1</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-### 最高收視率排行
+### 電視劇
 
-  - 以下記載《**戲劇作品**》排名10位的最高**全國平均**收視率（非首都區、非瞬間最高收視）、相關最高收視的集數和日期。
+#### 最高收視率排行
+
+  - 以下記載《**戲劇作品**》排名前10位的最高**全國平均**收視率（非首都區、非瞬間最高收視）、相關**最高收視的集數和日期**（非總集數和大結局日期）。
 
 <table>
 <thead>
 <tr class="header">
 <th><p>排行</p></th>
 <th><p>作品</p></th>
-<th><p>集數</p></th>
+<th><p>最高集數</p></th>
 <th><p><a href="https://zh.wikipedia.org/wiki/AC尼爾森" title="wikilink">AGB</a><br />
 全國平均</p></th>
-<th><p>有線電視<br />
-收視排名</p></th>
+<th><p>收視排名</p></th>
 <th><p>日期</p></th>
+<th><p>檔期</p></th>
 </tr>
 </thead>
 <tbody>
@@ -38,146 +112,103 @@ E\&M旗下的一個有線電視頻道。
 <td></td>
 <td></td>
 <td><p>2018/09/16</p></td>
+<td><p>週末</p></td>
 </tr>
 <tr class="even">
 <td><p>2</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/隧道_(电视剧)" title="wikilink">隧道</a></p></td>
+<td><p><a href="../Page/隧道_(電視劇).md" title="wikilink">隧道</a></p></td>
 <td><p>16</p></td>
 <td><p><strong>6.490%</strong></p></td>
 <td></td>
 <td><p>2017/05/21</p></td>
+<td><p>週末</p></td>
 </tr>
 <tr class="odd">
 <td><p>3</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/火星生活_(韩国电视剧)" title="wikilink">火星生活</a></p></td>
+<td><p><a href="../Page/火星生活_(韓國電視劇).md" title="wikilink">火星生活</a></p></td>
 <td><p>16</p></td>
 <td><p><strong>5.851%</strong></p></td>
 <td></td>
 <td><p>2018/08/05</p></td>
+<td><p>週末</p></td>
 </tr>
 <tr class="even">
 <td><p>4</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Player_(韩国电视剧)" title="wikilink">Player</a></p></td>
+<td><p><a href="../Page/Player_(韓國電視劇).md" title="wikilink">Player</a></p></td>
 <td><p>14</p></td>
 <td><p>5.803%</p></td>
 <td></td>
 <td><p>2018/11/11</p></td>
+<td><p>週末</p></td>
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Voice_(韩国电视剧)" title="wikilink">Voice</a></p></td>
+<td><p><a href="../Page/Voice_(韓國電視劇).md" title="wikilink">Voice</a></p></td>
 <td><p>3</p></td>
 <td><p>5.406%</p></td>
 <td></td>
 <td><p>2017/01/21</p></td>
+<td><p>週末</p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/坏家伙们：恶的都市" title="wikilink">坏家伙们：恶的都市</a></p></td>
+<td><p><a href="../Page/Voice3.md" title="wikilink">Voice3</a></p></td>
+<td><p>6</p></td>
+<td><p>5.357%</p></td>
+<td></td>
+<td><p>2019/05/26</p></td>
+<td><p>週末</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p><a href="../Page/壞傢伙們：惡的都市.md" title="wikilink">壞傢伙們：惡的都市</a></p></td>
 <td><p>16</p></td>
 <td><p>4.797%</p></td>
 <td></td>
 <td><p>2018/02/04</p></td>
+<td><p>週末</p></td>
 </tr>
-<tr class="odd">
-<td><p>6</p></td>
+<tr class="even">
+<td><p>7</p></td>
 <td><p><a href="../Page/救救我.md" title="wikilink">救救我</a></p></td>
 <td><p>16</p></td>
 <td><p>4.797%</p></td>
 <td></td>
 <td><p>2017/09/24</p></td>
+<td><p>週末</p></td>
 </tr>
-<tr class="even">
-<td><p>8</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/38师机动队" title="wikilink">38师机动队</a></p></td>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p><a href="../Page/38師機動隊.md" title="wikilink">38師機動隊</a></p></td>
 <td><p>16</p></td>
 <td><p>4.559%</p></td>
 <td></td>
 <td><p>2016/08/06</p></td>
+<td><p>金土</p></td>
 </tr>
-<tr class="odd">
-<td><p>9</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/Black_(韩国电视剧)" title="wikilink">Black</a></p></td>
+<tr class="even">
+<td><p>10</p></td>
+<td><p><a href="../Page/Black_(韓國電視劇).md" title="wikilink">Black</a></p></td>
 <td><p>4</p></td>
 <td><p>4.318%</p></td>
 <td></td>
 <td><p>2017/10/22</p></td>
+<td><p>週末</p></td>
 </tr>
-<tr class="even">
-<td><p>10</p></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/坏家伙们" title="wikilink">坏家伙们</a></p></td>
-<td><p>11</p></td>
-<td><p>4.128%</p></td>
+<tr class="odd">
 <td></td>
-<td><p>2014/12/13</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
 
-  - <small>「**收視率**」數據摘自[**AGB**有線電視全國平均收視率](https://zh.wikipedia.org/wiki/AC尼爾森 "wikilink")，包括節目播放間中廣告，播放前後廣告除外</small>
-
-### 電視電影
-
-  - 《同床異夢》（）：2004年11月26日
-  - 《夏娃的誘惑》（）：2007年8月13日
-  - 《愛情的滋味》（）：2008年12月18日
-  - 《困難演員殺人事件》（）
-
-### 電視劇
-
-  - 《COMA昏謎》（）：2006年7月（5集）
-  - 《家庭戀愛史》（）：2005年－2007年1月26日（共2季）
-  - 《愛系列》（）
-  - 《有一天》（）：2006年11月10日－2006年12月29日
-  - 《黑道奶爸》（）：2007年5月18日－2007年8月9日
-  - 《職場戀愛史》（）：2007年11月9日－2007年11月30日
-  - 《醫療妓房映畫館》（）：2007年11月20日－2008年1月22日
-  - 《千一夜話》（）：2007年12月14日－2008年11月4日（共2季）
-  - 《三人三色》（）：2008年1月17日－2008年1月31日
-  - 《誘惑的技術》（）：2008年3月28日－2008年4月18日
-  - 《京城妓房映畫館》（）：2008年5月17日－2008年6月14日
-  - 《不要追問過去》（）：2008年5月17日－2008年6月8日
-  - 《女師父一體》（）：2008年9月19日－2008年11月7日
-  - 《》（）：2009年11月27日－2010年1月15日
-  - 《[神的測驗](../Page/神的測驗.md "wikilink")》（）：2010年10月8日－2014年8月3日（共4季）
-  - 《》（）：2010年12月10日－2011年2月25日
-  - 《[吸血鬼檢察官](../Page/吸血鬼檢察官.md "wikilink")》（）：2011年10月2日－2012年11月18日（共2季）
-  - 《[特殊案件專案組TEN](../Page/特殊案件專案組TEN.md "wikilink")》（）：2011年11月18日－2013年6月30日（共2季）
-  - 《[英雄](../Page/英雄_\(OCN\).md "wikilink")》（）：2012年3月18日－2012年5月13日
-  - 《[病毒](../Page/病毒_\(電視劇\).md "wikilink")》（）：2013年3月1日－2013年5月3日
-  - 《[能看見鬼的警察處容](../Page/能看見鬼的警察處容.md "wikilink")》（）：2014年2月9日－至今（共2季）
-  - 《[Reset](../Page/Reset.md "wikilink")》（）：2014年8月17日－2014年11月17日
-  - 《[壞小子們](https://zh.wikipedia.org/wiki/壞小子們 "wikilink")》（）：2014年10月4日－至今（預計2季）
-  - 《[Frost醫生](../Page/Frost醫生.md "wikilink")》（）：2014年11月23日－2015年2月1日
-  - 《[失蹤的黑色M](../Page/失蹤的黑色M.md "wikilink")》（）：2015年3月28日－2015年5月30日
-  - 《[我的美麗新娘](../Page/我的美麗新娘.md "wikilink")》（）：2015年6月20日－2015年8月9日
-  - 《[鄰家英雄](../Page/鄰家英雄.md "wikilink")》（）：2016年1月23日－2016年3月20日
-  - 《[吸血鬼偵探](../Page/吸血鬼偵探.md "wikilink")》（）：2016年3月27日－2016年6月12日
-  - 《[38師機動隊](../Page/38師機動隊.md "wikilink")》（）：2016年6月17日－2016年8月6日
-  - 《[Voice](../Page/Voice_\(韓國電視劇\).md "wikilink")》（）：2017年1月14日－2017年3月12日
-  - 《[隧道](../Page/隧道_\(電視劇\).md "wikilink")》（）：2017年3月25日－2017年5月28日
-  - 《[焦急的罗曼史](https://zh.wikipedia.org/wiki/焦急的罗曼史 "wikilink")》(
-    ）：2017年4月17日－2017年5月30日
-  - 《[Duel](../Page/Duel.md "wikilink")》（）：2017年6月3日－2017年7月23日
-  - 《[救救我](../Page/救救我.md "wikilink")》（）：2017年8月5日－2017年9月24日
-  - 《[Black](../Page/Black_\(韓國電視劇\).md "wikilink")》（）：2017年10月14日－2017年12月10日
-  - 《[Melo
-    Holic](https://zh.wikipedia.org/wiki/Melo_Holic "wikilink")》（）：2017年11月6日－2017年12月5日
-  - 《[坏家伙们：恶的都市](https://zh.wikipedia.org/wiki/坏家伙们：恶的都市 "wikilink")》（）：2017年12月16日－2018年2月4日
-  - 《[操心](../Page/操心.md "wikilink")》（애간장/My First
-    Love）：2018年1月28日－2018年2月6日
-  - 《[小神的孩子們](../Page/小神的孩子們.md "wikilink")》（작은 신의
-    아이들）：2018年3月3日－2018年4月22日
-  - 《[那個男人 歐樹](../Page/那個男人_吳秀.md "wikilink")》（）：2018年3月5日－2018年4月24日
-  - 《[火星生活Life on Mars](../Page/火星生活_\(韓國電視劇\).md "wikilink")》（**라이프 온
-    마스**）：2018年6月9日－2018年8月5日
-  - 《[Voice2](../Page/Voice2.md "wikilink")》（）：2018年8月11日－2018年9月16日
-  - 《[客：The Guest](../Page/客：The_Guest.md "wikilink")》(손: The
-    Guest)：2018年9月12日－2018年11月1日
-  - 《[Priest](../Page/Priest.md "wikilink")》(프리스트)：2018年11月24日－2019年1月20日
-  - 《[圈套](../Page/圈套_\(韓國電視劇\).md "wikilink")》(트랩)：2019年2月9日－2019年3月2日
-  - 《[附身](../Page/附身_\(電視劇\).md "wikilink")》(빙의)：2019年3月6日－2019年
-  - 《[Kill It](../Page/Kill_It.md "wikilink")》（킬잇）：2019年3月16日－2019年
+  - <small>資料來源：</small>
+  - <small>「**收視率**」數據摘自[**AGB**有線電視全國平均收視率](https://zh.wikipedia.org/wiki/AC尼爾森 "wikilink")，包括節目播放間中廣告，播放前後廣告除外。</small>
 
 ## 美國／英國影集
 
@@ -236,6 +267,10 @@ E\&M旗下的一個有線電視頻道。
   - 《[House](https://zh.wikipedia.org/wiki/豪斯醫生 "wikilink")》（）
   - 《》（）
   - 《[White Collar](https://zh.wikipedia.org/wiki/妙警賊探 "wikilink")》（）
+
+## 相關頁面
+
+  - （2009年增設的另一頻道，以播放美國影集或是重播OCN自製電視影集為主）
 
 ## 外部連結
 

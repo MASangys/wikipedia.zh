@@ -40,10 +40,12 @@
       - [鍊金術士安妮～賽拉島的鍊金術士～](https://zh.wikipedia.org/wiki/鍊金術士安妮～賽拉島的鍊金術士～ "wikilink")
       - [鍊金術士莉娜～修特萊爾的鍊金術士～](https://zh.wikipedia.org/wiki/鍊金術士莉娜～修特萊爾的鍊金術士～ "wikilink")
   - 亞蘭德系列
-      - [鍊金術士蘿樂娜～亞蘭德的鍊金術士～](https://zh.wikipedia.org/wiki/鍊金術士蘿樂娜～亞蘭德的鍊金術士～ "wikilink")
-      - [鍊金術士托托莉～亞蘭德的鍊金術士2～](https://zh.wikipedia.org/wiki/鍊金術士托托莉～亞蘭德的鍊金術士2～ "wikilink")
-      - [鍊金術士梅露露～亞蘭德的鍊金術士3～](https://zh.wikipedia.org/wiki/鍊金術士梅露露～亞蘭德的鍊金術士3～ "wikilink")
-      - [鍊金術士露露亞～亞蘭德的鍊金術士4～](https://zh.wikipedia.org/wiki/鍊金術士露露亞～亞蘭德的鍊金術士4～ "wikilink")
+      - [蘿樂娜的鍊金工房 ～亞蘭德之鍊金術士～](../Page/蘿樂娜的鍊金工房_～亞蘭德之鍊金術士～.md "wikilink")
+      - [托托莉的鍊金工房
+        ～亞蘭德之鍊金術士2～](../Page/托托莉的鍊金工房_～亞蘭德之鍊金術士2～.md "wikilink")
+      - [梅露露的鍊金工房～亞蘭德之鍊金術士3～](../Page/梅露露的鍊金工房～亞蘭德之鍊金術士3～.md "wikilink")
+      - [露露亞的鍊金工房
+        ～亞蘭德之鍊金術士4～](https://zh.wikipedia.org/wiki/露露亞的鍊金工房_～亞蘭德之鍊金術士4～ "wikilink")
   - 黃昏大地系列
       - [愛夏的鍊金工房～黃昏大地之鍊金術士～](../Page/愛夏的鍊金工房～黃昏大地之鍊金術士～.md "wikilink")
       - [愛絲卡&羅吉的鍊金工房～黃昏天空之鍊金術士～](../Page/愛絲卡&羅吉的鍊金工房～黃昏天空之鍊金術士～.md "wikilink")

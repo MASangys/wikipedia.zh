@@ -58,10 +58,6 @@ Entertainment於2014年6月推出的四人女子團體。成員由Dahye、Yujeon
 
 ## 參考資料
 
-## 外部連結
-
-m.appledaily.com.tw/appledaily/article/headline/20111109/33802595/
-
 [Category:韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:韓國女子演唱團體 "wikilink")
 [Category:韓語流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓語流行音樂團體 "wikilink")
 [Category:韓國流行音樂團體](https://zh.wikipedia.org/wiki/Category:韓國流行音樂團體 "wikilink")

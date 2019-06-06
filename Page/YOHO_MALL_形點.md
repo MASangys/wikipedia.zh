@@ -78,7 +78,7 @@ Brown咖啡室。「安南」、[Pizza
 Express及Holly](https://zh.wikipedia.org/wiki/Pizza_Express "wikilink")
 Brown咖啡室外設有戶外平台，唯目前處於空置狀態。
 
-1樓戶外亦設花園平台，目前擺放LAAB設計的巨型迴轉滑梯，唯花園不設閒座區供遊人休憩。
+1樓戶外亦設花園平台，在2015年曾擺放LAAB設計的巨型迴轉滑梯，唯花園不設閒座區供遊人休憩。
 
 2樓原規劃作[美食廣場](../Page/美食廣場.md "wikilink")，但最終改為1.8萬方呎複式舖[H\&M及全港最大的Homeless家居店](../Page/H&M.md "wikilink")，內設北歐主題餐廳Salt
 Recipes。其餘部份為停車場及[YOHO
@@ -181,10 +181,10 @@ Chandon推出商場特別版香檳，亦展示水墨畫家[廖永雄](http://www
 
 商場閒座區偏少，唯一閒座區位置是是1樓升降機大堂設木造硬座椅供遊人休息，及後已在通往Yoho Town一期的通道加裝坐椅。
 
-### 外牆造成嚴重光污染
+### 外牆造成光污染
 
 YOHO
-MALL外牆多個部份採用[發光二極管設計](../Page/發光二極管.md "wikilink")，並於晚上時段開啟。唯有元朗居民投訴造成滋擾。\[14\]
+MALL外牆多個部份採用[發光二極管設計](../Page/發光二極管.md "wikilink")，並於晚上時段開啟。唯有元朗居民投訴造成滋擾。商場管理處其後馬上降低光度，並在晚上關閉燈光。\[14\]
 
 ### 疑違公契將行人天橋天花作廣告用途
 
@@ -221,7 +221,7 @@ MALL之列，計劃興建行人天橋接駁YOHO MALL及交通廣場。\[19\]
 </dl>
 <ul>
 <li><font color="{{西鐵綫色彩}}">█</font><a href="../Page/西鐵綫.md" title="wikilink">西鐵綫</a>：<a href="../Page/元朗站_(西鐵綫).md" title="wikilink">元朗站</a> (F出口、K出口)</li>
-<li><a href="https://zh.wikipedia.org/wiki/輕鐵" title="wikilink">輕鐵</a>：<a href="../Page/元朗站_(輕鐵).md" title="wikilink">元朗站</a>(610、615往屯門碼頭；761P往天逸)</li>
+<li><a href="https://zh.wikipedia.org/wiki/輕鐵" title="wikilink">輕鐵</a>：<a href="../Page/元朗站_(輕鐵).md" title="wikilink">元朗站</a>(610、614、615往屯門碼頭；761P往天逸)</li>
 </ul>
 <dl>
 <dt>新元朗中心居民巴士總站</dt>

@@ -340,6 +340,11 @@ beauty](../Page/Get_it_beauty.md "wikilink")》固定主持之一。
 <td><p>Fitz Beer</p></td>
 <td><p><a href="../Page/陸星材.md" title="wikilink">陸星材</a>（<a href="../Page/BTOB.md" title="wikilink">BTOB</a>）</p></td>
 </tr>
+<tr class="even">
+<td><p>2019年</p></td>
+<td><p>Espoir</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -396,6 +401,13 @@ beauty](../Page/Get_it_beauty.md "wikilink")》固定主持之一。
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>2019</p></td>
+<td><p>2019 年度品牌大獎</p></td>
+<td></td>
+<td><p>Beauty Icon</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

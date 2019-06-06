@@ -1,4 +1,4 @@
-《**I型起源**》（）是一部2014年的美国科幻电影，由编剧和导演。独立上映日期为在上的2014年1月18日。
+《**I型起源**》（）是一部2014年的美国科幻电影，由编剧和导演。2014年1月18日在[圣丹斯电影节首映](../Page/圣丹斯电影节.md "wikilink")。
 
 ## 劇情介绍
 
@@ -8,7 +8,7 @@
 
   - [米高·彼特](https://zh.wikipedia.org/wiki/米高·彼特 "wikilink") 飾演 Ian Gray
 
-  - 飾演 Karen
+  - [布里特·马灵](../Page/布里特·马灵.md "wikilink") 飾演 Karen
 
   - [阿斯特丽德·伯格斯-弗瑞斯贝](https://zh.wikipedia.org/wiki/阿斯特丽德·伯格斯-弗瑞斯贝 "wikilink")
     飾演 Sofi Elizondo

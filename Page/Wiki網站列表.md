@@ -443,7 +443,7 @@
     usage
 
   - [A complete list of Wikia community
-    sites](http://www.wikia.com/wiki/Wikia)
+    sites](https://web.archive.org/web/20070406182918/http://www.wikia.com/wiki/Wikia)
 
   - [A wiki search engine.](http://www.wiki.com/)
 

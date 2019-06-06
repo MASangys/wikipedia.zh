@@ -11,7 +11,8 @@
     Statistics](http://www.lpfp.pt/liga_orangina/pages/estatisticas.aspx)
 
   - [Resultados Ao Vivo, proximos jogos ao vivo, posicoes de Liga de
-    Honra](http://www.aovivo.pt/futebol/portugal/liga-de-honra/)
+    Honra](https://web.archive.org/web/20150518085833/http://www.aovivo.pt/futebol/portugal/liga-de-honra/)
+
   - [Portuguese Futebol.com » Your Source for Portuguese
     Soccer](https://web.archive.org/web/20150416063412/http://www.pfutebol.com/)
 

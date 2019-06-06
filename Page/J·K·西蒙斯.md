@@ -132,8 +132,10 @@ Simmons\[1\]\[2\]\[3\]。他成长于[俄亥俄州的](../Page/俄亥俄州.md "
   - 2017：《[正義聯盟](https://zh.wikipedia.org/wiki/正義聯盟_\(電影\) "wikilink")》-[詹姆斯·高登](https://zh.wikipedia.org/wiki/詹姆斯·高登_\(漫畫\) "wikilink")
   - 2017：《[追爸大行動](https://zh.wikipedia.org/wiki/追爸大行動 "wikilink")》-Roland
     Hunt
-  - 2017:《單身漢》-Bill
-  - 2018:《[爆料世代](../Page/爆料世代.md "wikilink")》-比爾·迪克森
+  - 2018：《A Boy Called Sailboat》-Ernest
+  - 2018：《The Boxcar Children: Surprise Island》-Dr. Moore（配音）
+  - 2018：《[爆料世代](../Page/爆料世代.md "wikilink")》-Bill Dixon
+  - 2019：《[暴走曼哈頓](https://zh.wikipedia.org/wiki/暴走曼哈頓 "wikilink")》
 
 ### 電視劇
 

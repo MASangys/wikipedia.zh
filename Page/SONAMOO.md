@@ -562,8 +562,8 @@ Miracle Girls 成員們</p></td>
 3.  [SONAMOO《Deja
     Vu》預告片：嘻哈刀群舞反響熱烈](http://www.koreastardaily.com/tc/video/53557).韓星網.2014.12.26
 4.  [걸 그룹 소나무, 오늘 '데자뷰' 뮤비+음원 공개 및 데뷔 쇼케이스
-    개최\!](http://thestar.chosun.com/site/data/html_dir/2014/12/29/2014122900780.html).
-    The star 2014.12.29
+    개최\!](http://thestar.chosun.com/site/data/html_dir/2014/12/29/2014122900780.html)
+    . The star 2014.12.29
 5.  [소나무, 25일 후속곡 활동 돌입 '가는 거야'\!](http://news1.kr/articles/?2109694).
     OSEN 2015.02.25
 6.  [소나무(SONAMOO), 데뷔 첫 리얼리트 ‘소나무의 펫하우스’ 공개… ‘깜찍한 예능감
@@ -575,15 +575,13 @@ Miracle Girls 成員們</p></td>
     Matters」](http://www.allthatstar.com/tw/view.php?action=&postID=64223)
     .全星網.2015.04.08
 9.  [SONAMOO7月回歸加盟女團大戰](http://www.koreastardaily.com/tc/news/64343).韓星網.2015.07.01
-10. [SONAMOO
-    新曲預告公開](http://kpopn.com/2015/07/15/285546/).Kpopn.2015.07.15
-11. [SONAMOO 公開迷你三輯回歸預告照](http://kpopn.niusnews.com/=K318f2w3)
-12. [SONAMOO《I LIKE U TOO
-    MUCH‬》行程表](http://kpopn.niusnews.com/=K03ghtw3)
-13. [SONAMOO 回歸概念照：娜賢、宜珍](http://kpopn.niusnews.com/=K0k2k0g0)
-14. [SONAMOO 回歸概念照：D.ana、旼宰](http://kpopn.niusnews.com/=K3fp8qs0)
-15. [SONAMOO 回歸概念照：High.D、受玟、New
-    Sun](http://kpopn.niusnews.com/=K1z97cd8)
+10. [SONAMOO 新曲預告公開](http://kpopn.com/2015/07/15/285546/)
+    .Kpopn.2015.07.15
+11.
+12.
+13.
+14.
+15.
 16.
 17.
 18.

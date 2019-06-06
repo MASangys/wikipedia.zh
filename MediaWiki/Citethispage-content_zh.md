@@ -68,7 +68,7 @@ Wikipedia contributors, '', *维基百科, ,*
 {{\#switch:{{\#time:m}}|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}}
 {{\#time:Y}}\]
 
-### [芝加哥格式手册](https://zh.wikipedia.org/wiki/芝加哥格式手册 "wikilink")（Chicago）
+### [芝加哥格式手册](../Page/芝加哥格式手册.md "wikilink")（Chicago）
 
 *维基百科, ,* s.v. "" (by Wikipedia contributors),  (accessed
 {{\#switch:{{\#time:m}}|01=January|02=February|03=March|04=April|05=May|06=June|07=July|08=August|09=September|10=October|11=November|12=December}}

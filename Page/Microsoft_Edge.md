@@ -99,6 +99,8 @@ Edge使用白名单策略允许部分网站绕过Edge安全功能运行Flash内�
 [Category:Windows组件](https://zh.wikipedia.org/wiki/Category:Windows组件 "wikilink")
 [Category:微软软件](https://zh.wikipedia.org/wiki/Category:微软软件 "wikilink")
 [Category:網頁瀏覽器](https://zh.wikipedia.org/wiki/Category:網頁瀏覽器 "wikilink")
+[Category:Microsoft_Edge](https://zh.wikipedia.org/wiki/Category:Microsoft_Edge "wikilink")
+[Category:Android网页浏览器](https://zh.wikipedia.org/wiki/Category:Android网页浏览器 "wikilink")
 
 1.
 

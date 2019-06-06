@@ -49,7 +49,7 @@ Phabricator的部分用户有：\[8\]
 
   -
   -
-  - [在线版本](https://phab.io/)
+  - [在线版本](https://web.archive.org/web/20160119012139/https://phab.io/)
 
   -
 [Category:軟體審查](https://zh.wikipedia.org/wiki/Category:軟體審查 "wikilink")

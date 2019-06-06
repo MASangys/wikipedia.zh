@@ -40,7 +40,8 @@ DREAM和](../Page/NCT.md "wikilink")[SMTOWN以及公司内其他企划](https://
 BALLAD](../Page/S.M.THE_BALLAD.md "wikilink")）的歌曲也包含在內。所有曲目必須解鎖三個關卡難度：易、中、難。
 
   - 游戏内歌曲多为[韩语](https://zh.wikipedia.org/wiki/韩语 "wikilink")，但[EXO-M](../Page/EXO-M.md "wikilink")，[Super
-    Junior-M](../Page/Super_Junior-M.md "wikilink")，[周觅](https://zh.wikipedia.org/wiki/周觅 "wikilink")，[LAY的部分歌曲为中文](https://zh.wikipedia.org/wiki/张艺兴 "wikilink")
+    Junior-M](../Page/Super_Junior-M.md "wikilink")，[周觅](https://zh.wikipedia.org/wiki/周觅 "wikilink")，[LAY](https://zh.wikipedia.org/wiki/张艺兴 "wikilink")，[NCT
+    Dream的部分歌曲为中文](https://zh.wikipedia.org/wiki/NCT_Dream "wikilink")
 
 ## 參考文獻
 

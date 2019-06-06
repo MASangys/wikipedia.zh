@@ -1,4 +1,4 @@
-**NGT48**是[日本大型](../Page/日本.md "wikilink")[女子](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，為[AKB48第](../Page/AKB48.md "wikilink")7個姊妹團體、以及第5個國內姊妹團體，於2015年8月21日[出道](https://zh.wikipedia.org/wiki/出道 "wikilink")，活動根據地是日本[北陸地方的主要城市](../Page/北陸地方.md "wikilink")[新潟市](../Page/新潟市.md "wikilink")，總[製作人則與其他AKB](https://zh.wikipedia.org/wiki/製作人 "wikilink")48姊妹團體同樣由作詞家[秋元康擔任](../Page/秋元康.md "wikilink")。其團名來自[新潟的](https://zh.wikipedia.org/wiki/新潟 "wikilink")[羅馬字](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")「」。
+**NGT48**是[日本大型](../Page/日本.md "wikilink")[女子](https://zh.wikipedia.org/wiki/女子音樂組合 "wikilink")[偶像團體](https://zh.wikipedia.org/wiki/日本偶像 "wikilink")，為[AKB48第](../Page/AKB48.md "wikilink")7個姊妹團體、以及第5個國內姊妹團體，於2015年8月21日[出道](https://zh.wikipedia.org/wiki/出道 "wikilink")，活動根據地是日本[北陸地方的主要城市](../Page/北陸地方.md "wikilink")[新潟市](../Page/新潟市.md "wikilink")，總[製作人則與其他AKB](https://zh.wikipedia.org/wiki/製作人 "wikilink")48姊妹團體同樣由作詞家[秋元康擔任](../Page/秋元康.md "wikilink")。其團名來自[新潟的](../Page/新潟市.md "wikilink")[羅馬字](https://zh.wikipedia.org/wiki/日語羅馬字 "wikilink")「」。
 
 ## 简介
 
@@ -93,12 +93,15 @@ NGT48的營運者、以及大部分成員所屬的經紀公司為[AKS](../Page/A
     G將結束現有的劇場公演劇目，同時將取消分隊制度，將現有團員分為1期生、研究生以重啟活動\[45\]\[46\]。
   - 4月21日，Team NIII於午場舉行「榮耀之丘」千秋樂公演，Team G則於晚場舉行「引體後翻」千秋樂公演。柏木由紀於Team
     NIII公演後解除在NGT48的兼任\[47\]，長谷川玲奈、菅原里子、山口真帆三人則在Team G公演上宣布畢業\[48\]。
+  - 4月27日，參與「AKB48集團 春季音樂節 in
+    橫濱棒球場」演出，此場演出為NGT48取消分隊制度後的首次公開演出。先前宣布畢業的山口真帆、菅原里子、長谷川玲奈皆未參與演出\[49\]。
+  - 5月21日，成員[加藤美南因在社群網站發表的貼文內容不當](../Page/加藤美南.md "wikilink")，營運單位做出懲處，即日起降格為研究生，另宣布NGT48全體成員的社群網站暫時停止更新\[50\]。
 
 ## 成員
 
-與[AKB48](../Page/AKB48.md "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[NMB48及](../Page/NMB48.md "wikilink")[HKT48類似](../Page/HKT48.md "wikilink")，NGT48將會發展為3個分隊，分別為Team
-NIII、Team G、Team
-TIII，以及具有預備成員功能的研究生隊伍。成員徵選合格者、以及透過兩次「AKB48集團選秀會議」選中的選秀生，會先以「研究生」的身分加入组合，再進一步昇格成為正式成員。
+與[AKB48](../Page/AKB48.md "wikilink")、[SKE48](../Page/SKE48.md "wikilink")、[NMB48及](../Page/NMB48.md "wikilink")[HKT48類似](../Page/HKT48.md "wikilink")，NGT48曾划分為2個分隊，分別為Team
+NIII及Team
+G，但目前分队制度暂时取消，另有具有預備成員功能的研究生隊伍。成員徵選合格者、以及透過兩次「AKB48集團選秀會議」選中的選秀生，會先以「研究生」的身分加入组合，再進一步昇格成為正式成員。
 
 ### 一期生
 
@@ -115,7 +118,7 @@ TIII，以及具有預備成員功能的研究生隊伍。成員徵選合格者�
 <th><p>升格<br />
 正式成員<br />
 日期</p></th>
-<th><p>附註／原屬分隊</p></th>
+<th><p>附註</p></th>
 <th><p>總選舉<br />
 最佳<br />
 名次</p></th>
@@ -127,12 +130,12 @@ TIII，以及具有預備成員功能的研究生隊伍。成員徵選合格者�
 <td></td>
 <td></td>
 <td><p><a href="../Page/埼玉縣.md" title="wikilink">埼玉縣</a><br />
-<a href="../Page/越谷市.md" title="wikilink">越谷市</a>[49]</p></td>
+<a href="../Page/越谷市.md" title="wikilink">越谷市</a>[51]</p></td>
 <td><p>選秀<br />
 2期</p></td>
 <td><p><a href="../Page/Horipro.md" title="wikilink">Horipro</a></p></td>
 <td><p>-</p></td>
-<td><p>Team NIII副隊長<br />
+<td><p>前Team NIII副隊長<br />
 前AKB48暫定研究生（15期）<br />
 前打工AKB<br />
 經由第二屆選秀會議加入</p></td>
@@ -143,75 +146,48 @@ TIII，以及具有預備成員功能的研究生隊伍。成員徵選合格者�
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[50]</p></td>
+新潟市[52]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
-<td><p>初代Team NIII<br />
-1期生最年少</p></td>
+<td><p>1期生最年少</p></td>
 <td><p>69</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/加藤美南.md" title="wikilink">加藤美南</a></p></td>
-<td></td>
-<td></td>
-<td><p><a href="https://zh.wikipedia.org/wiki/新潟縣" title="wikilink">新潟縣</a><br />
-<a href="../Page/新潟市.md" title="wikilink">新潟市</a>[51]</p></td>
-<td><p>1期</p></td>
-<td><p>AKS</p></td>
-<td><p>-</p></td>
-<td><p>前Team NIII隊長</p></td>
-<td><p>30</p></td>
-</tr>
-<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/角尤利婭" title="wikilink">角尤利婭</a><br />
 （）</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/石川縣.md" title="wikilink">石川縣</a><br />
-<a href="https://zh.wikipedia.org/wiki/川北町" title="wikilink">川北町</a>[52]</p></td>
+<a href="https://zh.wikipedia.org/wiki/川北町" title="wikilink">川北町</a>[53]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>2018年7月1日</p></td>
 <td><p>-</p></td>
 <td><p>77</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/日下部愛菜" title="wikilink">日下部愛菜</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/神奈川縣.md" title="wikilink">神奈川縣</a><br />
-<a href="https://zh.wikipedia.org/wiki/橫濱市" title="wikilink">橫濱市</a>[53]</p></td>
+<a href="https://zh.wikipedia.org/wiki/橫濱市" title="wikilink">橫濱市</a>[54]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>2018年7月1日</p></td>
 <td><p>前打工AKB</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/佐藤杏樹" title="wikilink">佐藤杏樹</a></p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="https://zh.wikipedia.org/wiki/魚沼市" title="wikilink">魚沼市</a>[54]</p></td>
+<a href="https://zh.wikipedia.org/wiki/魚沼市" title="wikilink">魚沼市</a>[55]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/菅原里子" title="wikilink">菅原里子</a><br />
-（）</p></td>
-<td></td>
-<td></td>
-<td><p>新潟縣<br />
-<a href="https://zh.wikipedia.org/wiki/聖籠町" title="wikilink">聖籠町</a>[55]</p></td>
-<td><p>1期</p></td>
-<td><p>AKS</p></td>
-<td><p>-</p></td>
-<td><p>預定於2019年5月18日畢業<br />
-當日畢業公演[56]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -219,7 +195,7 @@ TIII，以及具有預備成員功能的研究生隊伍。成員徵選合格者�
 <td></td>
 <td></td>
 <td><p>埼玉縣<br />
-<a href="https://zh.wikipedia.org/wiki/桶川市" title="wikilink">桶川市</a>[57]</p></td>
+<a href="https://zh.wikipedia.org/wiki/桶川市" title="wikilink">桶川市</a>[56]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>2018年6月30日</p></td>
@@ -231,7 +207,7 @@ TIII，以及具有預備成員功能的研究生隊伍。成員徵選合格者�
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="../Page/上越市.md" title="wikilink">上越市</a>[58]</p></td>
+<a href="../Page/上越市.md" title="wikilink">上越市</a>[57]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
@@ -243,7 +219,7 @@ TIII，以及具有預備成員功能的研究生隊伍。成員徵選合格者�
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/兵庫縣" title="wikilink">兵庫縣</a><br />
-<a href="../Page/伊丹市.md" title="wikilink">伊丹市</a>[59]</p></td>
+<a href="../Page/伊丹市.md" title="wikilink">伊丹市</a>[58]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
@@ -256,11 +232,11 @@ TIII，以及具有預備成員功能的研究生隊伍。成員徵選合格者�
 <td></td>
 <td></td>
 <td><p><a href="../Page/富山縣.md" title="wikilink">富山縣</a><br />
-<a href="../Page/富山市.md" title="wikilink">富山市</a>[60]</p></td>
+<a href="../Page/富山市.md" title="wikilink">富山市</a>[59]</p></td>
 <td><p>1期</p></td>
 <td><p><a href="../Page/太田製作.md" title="wikilink">太田製作</a></p></td>
 <td><p>-</p></td>
-<td><p>初代Team NIII</p></td>
+<td></td>
 <td><p>23</p></td>
 </tr>
 <tr class="even">
@@ -268,12 +244,11 @@ TIII，以及具有預備成員功能的研究生隊伍。成員徵選合格者�
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[61]</p></td>
+新潟市[60]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>2018年7月1日</p></td>
-<td><p>前所屬事務所為旗下的[62]<br />
-初代Team NIII</p></td>
+<td><p>前所屬事務所為旗下的[61]</p></td>
 <td><p>64</p></td>
 </tr>
 <tr class="odd">
@@ -281,7 +256,7 @@ TIII，以及具有預備成員功能的研究生隊伍。成員徵選合格者�
 <td></td>
 <td></td>
 <td><p><a href="../Page/青森縣.md" title="wikilink">青森縣</a><br />
-<a href="../Page/弘前市.md" title="wikilink">弘前市</a>[63]</p></td>
+<a href="../Page/弘前市.md" title="wikilink">弘前市</a>[62]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>2018年7月1日</p></td>
@@ -298,7 +273,8 @@ TIII，以及具有預備成員功能的研究生隊伍。成員徵選合格者�
 <td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>前打工AKB<br />
-經由第二屆選秀會議加入</p></td>
+經由第二屆選秀會議加入<br />
+NGT48最年長</p></td>
 <td><p>24</p></td>
 </tr>
 <tr class="odd">
@@ -306,7 +282,7 @@ TIII，以及具有預備成員功能的研究生隊伍。成員徵選合格者�
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/長野縣" title="wikilink">長野縣</a><br />
-<a href="../Page/長野市.md" title="wikilink">長野市</a>[64]</p></td>
+<a href="../Page/長野市.md" title="wikilink">長野市</a>[63]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>2018年6月30日</p></td>
@@ -314,60 +290,28 @@ TIII，以及具有預備成員功能的研究生隊伍。成員徵選合格者�
 <td><p>43</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/長谷川玲奈" title="wikilink">長谷川玲奈</a></p></td>
-<td></td>
-<td></td>
-<td><p>新潟縣<br />
-<a href="../Page/胎內市.md" title="wikilink">胎內市</a>[65]</p></td>
-<td><p>1期</p></td>
-<td><p>AKS</p></td>
-<td><p>-</p></td>
-<td><p>NGT48首位以現役身分參與電影演出的原生成員[66]<br />
-初代Team NIII<br />
-預定於2019年5月18日畢業<br />
-當日畢業公演[67]</p></td>
-<td><p>77</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/本間日陽.md" title="wikilink">本間日陽</a></p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="../Page/村上市.md" title="wikilink">村上市</a>[68]</p></td>
+<a href="../Page/村上市.md" title="wikilink">村上市</a>[64]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
-<td><p>初代Team NIII<br />
-前Team G隊長</p></td>
+<td><p>前Team G隊長</p></td>
 <td><p>13</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://zh.wikipedia.org/wiki/村雲颯香" title="wikilink">村雲颯香</a></p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/秋田縣" title="wikilink">秋田縣</a><br />
-<a href="../Page/秋田市.md" title="wikilink">秋田市</a>[69]</p></td>
+<a href="../Page/秋田市.md" title="wikilink">秋田市</a>[65]</p></td>
 <td><p>1期</p></td>
 <td><p>AKS</p></td>
 <td><p>-</p></td>
-<td><p>初代Team NIII</p></td>
+<td></td>
 <td><p>-</p></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td><p>青森縣<br />
-<a href="../Page/八戶市.md" title="wikilink">八戶市</a></p></td>
-<td><p>1期</p></td>
-<td><p>AKS</p></td>
-<td><p>-</p></td>
-<td><p>初代Team NIII<br />
-NGT48最年長<br />
-預定於2019年5月18日畢業<br />
-當日畢業公演[70]<br />
-前Team G副隊長</p></td>
-<td><p>53</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/山田野繪" title="wikilink">山田野繪</a></p></td>
@@ -422,212 +366,223 @@ NGT48最年長<br />
 <td><p>選秀<br />
 3期</p></td>
 <td><p>AKS</p></td>
-<td><p>Team NIII選秀研究生<br />
-第三屆選秀會議Team NIII第四輪指名</p></td>
+<td><p>第三屆選秀會議Team NIII第四輪指名</p></td>
 <td><p>-</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/佐藤海里" title="wikilink">佐藤海里</a></p></td>
-<td></td>
-<td></td>
-<td><p>新潟縣<br />
-新潟市[71]</p></td>
-<td><p>Team NIII選秀研究生<br />
-第三屆選秀會議Team NIII第二輪指名</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/高橋七實" title="wikilink">高橋七實</a></p></td>
-<td></td>
-<td></td>
-<td><p><a href="../Page/宮城縣.md" title="wikilink">宮城縣</a></p></td>
-<td><p>Team NIII選秀研究生<br />
-第三屆選秀會議Team NIII第三輪指名</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://zh.wikipedia.org/wiki/對馬優菜子" title="wikilink">對馬優菜子</a></p></td>
-<td></td>
-<td></td>
-<td><p>青森縣</p></td>
-<td><p>Team NIII選秀研究生<br />
-第三屆選秀會議Team NIII第一輪指名</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://zh.wikipedia.org/wiki/藤崎未夢" title="wikilink">藤崎未夢</a></p></td>
-<td></td>
-<td></td>
-<td><p>新潟縣<br />
-新潟市[72]</p></td>
-<td><p>Team NIII選秀研究生<br />
-第三屆選秀會議Team NIII第五輪指名</p></td>
-<td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>大塚七海</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[73]</p></td>
+新潟市[66]</p></td>
 <td><p>2期</p></td>
+<td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>小越春花</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[74]</p></td>
+新潟市[67]</p></td>
+<td><p>2期</p></td>
+<td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/加藤美南.md" title="wikilink">加藤美南</a></p></td>
+<td></td>
+<td></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/新潟縣" title="wikilink">新潟縣</a><br />
+<a href="../Page/新潟市.md" title="wikilink">新潟市</a>[68]</p></td>
+<td><p>1期</p></td>
+<td><p>AKS</p></td>
+<td><p>前Team NIII隊長<br />
+2019年5月21日起降格為研究生[69]</p></td>
+<td><p>30</p></td>
+</tr>
+<tr class="odd">
 <td><p>川越紗彩</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/茨城縣.md" title="wikilink">茨城縣</a></p></td>
+<td><p>2期</p></td>
+<td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>小見山沙空</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="https://zh.wikipedia.org/wiki/小千谷市" title="wikilink">小千谷市</a>[75]</p></td>
+<a href="https://zh.wikipedia.org/wiki/小千谷市" title="wikilink">小千谷市</a>[70]</p></td>
+<td><p>2期</p></td>
+<td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/佐藤海里" title="wikilink">佐藤海里</a></p></td>
 <td></td>
 <td></td>
+<td><p>新潟縣<br />
+新潟市[71]</p></td>
+<td><p>選秀<br />
+3期</p></td>
+<td><p>AKS</p></td>
+<td><p>第三屆選秀會議Team NIII第二輪指名</p></td>
+<td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>曾我部優芽</p></td>
 <td></td>
 <td></td>
 <td><p>長野縣</p></td>
+<td><p>2期</p></td>
+<td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>高澤朋花</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[76]</p></td>
+新潟市[72]</p></td>
+<td><p>2期</p></td>
+<td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/高橋七實" title="wikilink">高橋七實</a></p></td>
 <td></td>
 <td></td>
+<td><p><a href="../Page/宮城縣.md" title="wikilink">宮城縣</a></p></td>
+<td><p>選秀<br />
+3期</p></td>
+<td><p>AKS</p></td>
+<td><p>第三屆選秀會議Team NIII第三輪指名</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/對馬優菜子" title="wikilink">對馬優菜子</a></p></td>
+<td></td>
+<td></td>
+<td><p>青森縣</p></td>
+<td><p>選秀<br />
+3期</p></td>
+<td><p>AKS</p></td>
+<td><p>第三屆選秀會議Team NIII第一輪指名</p></td>
+<td><p>-</p></td>
 </tr>
 <tr class="even">
 <td><p>寺田陽菜</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[77]</p></td>
+新潟市[73]</p></td>
+<td><p>2期</p></td>
+<td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>富永夢有</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="../Page/長岡市.md" title="wikilink">長岡市</a>[78]</p></td>
+<a href="../Page/長岡市.md" title="wikilink">長岡市</a>[74]</p></td>
+<td><p>2期</p></td>
+<td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://zh.wikipedia.org/wiki/藤崎未夢" title="wikilink">藤崎未夢</a></p></td>
+<td></td>
+<td></td>
+<td><p>新潟縣<br />
+新潟市[75]</p></td>
+<td><p>選秀<br />
+3期</p></td>
+<td><p>AKS</p></td>
+<td><p>第三屆選秀會議Team NIII第五輪指名</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
 <td><p>古澤愛</p></td>
 <td></td>
 <td></td>
 <td><p>茨城縣</p></td>
+<td><p>2期</p></td>
+<td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>古館葵</p></td>
 <td></td>
 <td></td>
 <td><p>東京都</p></td>
+<td><p>2期</p></td>
+<td><p>AKS</p></td>
 <td><p>2期生暨NGT48最年少</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>真下華穗</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/靜岡縣.md" title="wikilink">靜岡縣</a></p></td>
+<td><p>2期</p></td>
+<td><p>AKS</p></td>
 <td><p>2期生最年長</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>三村妃乃</p></td>
 <td></td>
 <td></td>
 <td><p>埼玉縣</p></td>
+<td><p>2期</p></td>
+<td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>諸橋姫向</p></td>
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="../Page/彌彥村.md" title="wikilink">彌彥村</a>[79]</p></td>
+<a href="../Page/彌彥村.md" title="wikilink">彌彥村</a>[76]</p></td>
+<td><p>2期</p></td>
+<td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>山崎美里衣</p></td>
 <td></td>
 <td></td>
 <td><p><a href="../Page/北海道.md" title="wikilink">北海道</a></p></td>
+<td><p>2期</p></td>
+<td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>渡邉步咲</p></td>
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/山形縣" title="wikilink">山形縣</a></p></td>
+<td><p>2期</p></td>
+<td><p>AKS</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
@@ -663,14 +618,14 @@ NGT48最年長<br />
 <td><p>AKB48<br />
 5期</p></td>
 <td><p>NIII</p></td>
-<td><p>2018年4月30日[80]</p></td>
+<td><p>2018年4月30日[77]</p></td>
 <td><p><a href="../Page/太田製作.md" title="wikilink">太田製作</a></p></td>
 <td><p>前Team NIII隊長暨NGT48總隊長<br />
 初代Team A<br />
 柏木Team B<br />
 曾兼任SKE48 Team S<br />
 大島、橫山Team K<br />
-4月18日畢業公演[81][82]</p></td>
+4月18日畢業公演[78][79]</p></td>
 <td><p>10</p></td>
 </tr>
 <tr class="even">
@@ -678,10 +633,10 @@ NGT48最年長<br />
 <td></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/新潟縣" title="wikilink">新潟縣</a><br />
-<a href="../Page/長岡市.md" title="wikilink">長岡市</a>[83]</p></td>
+<a href="../Page/長岡市.md" title="wikilink">長岡市</a>[80]</p></td>
 <td><p>1期</p></td>
 <td><p>NIII</p></td>
-<td><p>2018年8月7日[84][85]</p></td>
+<td><p>2018年8月7日[81][82]</p></td>
 <td><p>-</p></td>
 <td><p>8月6日畢業公演</p></td>
 <td><p>70</p></td>
@@ -691,10 +646,10 @@ NGT48最年長<br />
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="https://zh.wikipedia.org/wiki/小千谷市" title="wikilink">小千谷市</a>[86]</p></td>
+<a href="https://zh.wikipedia.org/wiki/小千谷市" title="wikilink">小千谷市</a>[83]</p></td>
 <td><p>1期</p></td>
 <td><p>NIII</p></td>
-<td><p>2018年10月6日[87][88]</p></td>
+<td><p>2018年10月6日[84][85]</p></td>
 <td><p>-</p></td>
 <td><p>10月5日畢業公演</p></td>
 <td><p>-</p></td>
@@ -713,6 +668,59 @@ NGT48最年長<br />
 <td><p>結束兼任<br />
 现AKB48 Team B</p></td>
 <td><p>2</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://zh.wikipedia.org/wiki/菅原里子" title="wikilink">菅原里子</a><br />
+（）</p></td>
+<td></td>
+<td></td>
+<td><p>新潟縣<br />
+<a href="https://zh.wikipedia.org/wiki/聖籠町" title="wikilink">聖籠町</a>[86]</p></td>
+<td><p>1期</p></td>
+<td><p>1期生</p></td>
+<td><p>2019年5月19日</p></td>
+<td><p>-</p></td>
+<td><p>5月18日畢業公演[87]</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td><p>新潟縣<br />
+<a href="../Page/胎內市.md" title="wikilink">胎內市</a>[88]</p></td>
+<td><p>1期</p></td>
+<td><p>1期生</p></td>
+<td><p>-</p></td>
+<td><p>5月18日畢業公演[89]</p></td>
+<td><p>77</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td><p>青森縣<br />
+<a href="../Page/八戶市.md" title="wikilink">八戶市</a></p></td>
+<td><p>1期</p></td>
+<td><p>1期生</p></td>
+<td><p><a href="../Page/研音.md" title="wikilink">研音</a></p></td>
+<td><p>5月18日畢業公演[90]<br />
+前Team G副隊長</p></td>
+<td><p>53</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -740,13 +748,13 @@ NGT48最年長<br />
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-<a href="../Page/新潟市.md" title="wikilink">新潟市</a>[89]</p></td>
+<a href="../Page/新潟市.md" title="wikilink">新潟市</a>[91]</p></td>
 <td><p>1期</p></td>
 <td><p>2017年3月31日</p></td>
 <td><p>-</p></td>
 <td><p>1期生最年長<br />
 擁有保姆及幼兒園教師資格證書<br />
-3月25日畢業公演[90]</p></td>
+3月25日畢業公演[92]</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
@@ -754,11 +762,11 @@ NGT48最年長<br />
 <td></td>
 <td></td>
 <td><p>新潟縣<br />
-新潟市[91]</p></td>
+新潟市[93]</p></td>
 <td><p>2017年10月31日</p></td>
 <td><p>NEW BRiGHT PRODUCTION</p></td>
 <td><p>10月22日最終握手會<br />
-10月29日畢業公演[92][93]</p></td>
+10月29日畢業公演[94][95]</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
@@ -770,8 +778,8 @@ NGT48最年長<br />
 <td><p>2期</p></td>
 <td><p>2019年3月10日</p></td>
 <td><p>-</p></td>
-<td><p>2018年12月26日起因違規暫停活動[94]<br />
-請辭[95]</p></td>
+<td><p>2018年12月26日起因違規暫停活動[96]<br />
+請辭[97]</p></td>
 <td><p>-</p></td>
 </tr>
 </tbody>
@@ -909,7 +917,7 @@ AKB48 Team B柏木由紀兼任發表</p></td>
 <td><p>16</p></td>
 </tr>
 <tr class="odd">
-<td><p>4月30日[96]</p></td>
+<td><p>4月30日[98]</p></td>
 <td><p>Team NIII北原里英畢業</p></td>
 <td><p>-1</p></td>
 <td><p>28</p></td>
@@ -979,6 +987,22 @@ AKB48 Team B柏木由紀兼任發表</p></td>
 <td><p>-</p></td>
 <td><p>40</p></td>
 <td><p>20</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="even">
+<td><p>5月19日</p></td>
+<td><p>1期生菅原里子、長谷川玲奈、山口真帆畢業</p></td>
+<td><p>-</p></td>
+<td><p>37</p></td>
+<td><p>17</p></td>
+<td><p>-</p></td>
+</tr>
+<tr class="odd">
+<td><p>5月21日</p></td>
+<td><p>1期生加藤美南降格為研究生</p></td>
+<td><p>-</p></td>
+<td><p>37</p></td>
+<td><p>16</p></td>
 <td><p>-</p></td>
 </tr>
 </tbody>
@@ -1117,7 +1141,7 @@ AKB48 Team B柏木由紀兼任發表</p></td>
 
 <!-- end list -->
 
-  - 徵選期間：2015年4月10日至5月18日接受報名（5850人报名）\[97\]
+  - 徵選期間：2015年4月10日至5月18日接受報名（5850人报名）\[99\]
   - 徵選過程：
 
 <!-- end list -->
@@ -1132,18 +1156,18 @@ AKB48 Team B柏木由紀兼任發表</p></td>
 **最終合格者**（粗體字者為在籍成員）
 
   -
-    大瀧友梨亞、**小熊伦实**、**加藤美南**、**角尤利娅**、**日下部愛菜**、**佐藤杏樹**、**菅原里子**、**清司麗菜**、**高倉萌香**、髙橋真生、**太野彩香**、**中井莉加**、**中村步加**、**奈良未遥**、**西村菜那子**、**長谷川玲奈**、**本間日陽**、水澤彩佳、宮島亞彌、**村雲颯香**、**山口真帆**、**山田野繪**
+    大瀧友梨亞、**小熊伦实**、**加藤美南**、**角尤利娅**、**日下部愛菜**、**佐藤杏樹**、菅原里子、**清司麗菜**、**高倉萌香**、高橋真生、**太野彩香**、**中井莉加**、**中村步加**、**奈良未遥**、**西村菜那子**、長谷川玲奈、**本間日陽**、水澤彩佳、宮島亞彌、**村雲颯香**、山口真帆、**山田野繪**
 
 主要不合格者
 
   -
-    土路生優里（現STU48）\[98\]、**藤崎未夢**\[99\]（後成為選秀3期生）
+    土路生優里（現STU48）\[100\]、**藤崎未夢**\[101\]（後成為選秀3期生）
 
 ### 二期生
 
   -
     徵選與新潟市的I
-    Turn企劃「移居新潟市宣導活動」合作，由新潟市政府提供支援。此次徵選為地方城市與AKB48家族共同合作的首例\[100\]。
+    Turn企劃「移居新潟市宣導活動」合作，由新潟市政府提供支援。此次徵選為地方城市與AKB48家族共同合作的首例\[102\]。
 
   - 招募事項
 
@@ -1165,10 +1189,10 @@ AKB48 Team B柏木由紀兼任發表</p></td>
 <!-- end list -->
 
   -
-    一次審査－書面審查：報名人數4100名\[101\]
-    二次審査－面試（2018年4月28日）：參加者131名\[102\]
-    [SHOWROOM直播](../Page/SHOWROOM.md "wikilink")（2018年4月16日17時00分－4月25日19時59分）\[103\]
-    三次最終審査－舞蹈、歌唱（2018年4月28日）：參加者53名→合格者19名\[104\]（加入者16名）
+    一次審査－書面審查：報名人數4100名\[103\]
+    二次審査－面試（2018年4月28日）：參加者131名\[104\]
+    [SHOWROOM直播](../Page/SHOWROOM.md "wikilink")（2018年4月16日17時00分－4月25日19時59分）\[105\]
+    三次最終審査－舞蹈、歌唱（2018年4月28日）：參加者53名→合格者19名\[106\]（加入者16名）
 
 **最終合格者**（粗體字者為在籍成員）
 
@@ -1179,14 +1203,14 @@ AKB48 Team B柏木由紀兼任發表</p></td>
 
 #### 第二屆
 
-原先NGT48不參加選秀會議，但在第1期生徵選期間臨時決定參加\[105\]。選秀會議於2015年5月10日舉行\[106\]。47位候選者之中有24位由各姐妹團指名，其中的2位由NGT48指名\[107\]。2位入選者於2015年5月24日加入NGT48\[108\]。
+原先NGT48不參加選秀會議，但在第1期生徵選期間臨時決定參加\[107\]。選秀會議於2015年5月10日舉行\[108\]。47位候選者之中有24位由各姐妹團指名，其中的2位由NGT48指名\[109\]。2位入選者於2015年5月24日加入NGT48\[110\]。
 
   - 受指名的候選者（數字為指名順位）
     NGT48：**西潟茉莉奈**（1）、**荻野由佳**（2）
 
 #### 第三屆
 
-選秀會議於2018年1月21日舉行，68位候選者之中有55位由各姐妹團指名，其中的5位由Team NIII指名\[109\]。
+選秀會議於2018年1月21日舉行，68位候選者之中有55位由各姐妹團指名，其中的5位由Team NIII指名\[111\]。
 
   - 受指名的候選者（數字為指名順位）
     Team
@@ -1290,7 +1314,7 @@ JAPAN<br />
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2017年5月5日（台灣）[110]</p></td>
+<td><p>2017年5月5日（台灣）[112]</p></td>
 <td><p>不適用</p></td>
 <td><p>88985444132<br />
 88985444142<br />
@@ -1416,12 +1440,12 @@ CD</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2018年10月3日[111]</p></td>
+<td><p>2018年10月3日[113]</p></td>
 <td><p>2</p></td>
 <td><p>12</p></td>
-<td><p>143,303張[112]</p></td>
+<td><p>143,303張[114]</p></td>
 <td><p>175,607張</p></td>
-<td><p>207,269張[113]</p></td>
+<td><p>207,269張[115]</p></td>
 <td><p>BVCL-907/8</p></td>
 <td><p>Type-A</p></td>
 </tr>
@@ -1456,7 +1480,7 @@ CD</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2018年10月19日[114][115]</p></td>
+<td><p>2018年10月19日[116][117]</p></td>
 <td><p>不適用</p></td>
 <td><p>海外數位發行版</p></td>
 <td><p>數位下載</p></td>
@@ -1503,7 +1527,7 @@ CD</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
-<td><p>2017年7月7日[116]</p></td>
+<td><p>2017年7月7日[118]</p></td>
 <td><p>NGT48 1st Anniversary</p></td>
 <td><p>NGT-D0005<br />
 NGT-D0006</p></td>
@@ -1512,7 +1536,7 @@ Blu-ray</p></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>2018年4月13日[117]</p></td>
+<td><p>2018年4月13日[119]</p></td>
 <td><p>NGT48 2nd Anniversary</p></td>
 <td><p>NGT-D0007<br />
 NGT-D0008</p></td>
@@ -1521,7 +1545,7 @@ Blu-ray</p></td>
 </tr>
 <tr class="even">
 <td><p>3</p></td>
-<td><p>2018年7月30日[118]</p></td>
+<td><p>2018年7月30日[120]</p></td>
 <td><p>北原里英畢業演唱會 ～夢之1115日 新潟之女大功告成！～</p></td>
 <td><p>NGT-D0009<br />
 NGT-D0010</p></td>
@@ -1597,7 +1621,7 @@ Blu-ray BOX</p></td>
 
 ## NGT48劇場
 
-NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新潟市.md "wikilink")[中央區](https://zh.wikipedia.org/wiki/中央區_\(新潟市\) "wikilink")一丁目4番8號的「」購物中心四樓。\[119\]
+NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新潟市.md "wikilink")[中央區](https://zh.wikipedia.org/wiki/中央區_\(新潟市\) "wikilink")一丁目4番8號的「」購物中心四樓。\[121\]
 
 ### NGT48劇場公演
 
@@ -1606,73 +1630,73 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
 #### Team NIII
 
 1.  [PARTY开始了](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#NGT48_Team_NIII_1st_Stage“PARTY开始了”公演 "wikilink")（）：2016年1月10日
-    - 5月15日\[120\]（62公演）
+    - 5月15日\[122\]（62公演）
 
-2.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#NGT48_Team_NIII_2nd_Stage「睡衣兜风」公演 "wikilink")（）：2016年5月28日\[121\]
-    - 2017年6月5日\[122\]
+2.  [睡衣兜风](https://zh.wikipedia.org/wiki/Team_B_3rd_Stage「睡衣兜风」#NGT48_Team_NIII_2nd_Stage「睡衣兜风」公演 "wikilink")（）：2016年5月28日\[123\]
+    - 2017年6月5日\[124\]
 
-3.  （）：2017年7月2日\[123\] - 2018年6月23日\[124\]
+3.  （）：2017年7月2日\[125\] - 2018年6月23日\[126\]
 
-      - 2018年組閣體制：2018年6月30日\[125\] - 2019年4月21日\[126\]
+      - 2018年組閣體制：2018年6月30日\[127\] - 2019年4月21日\[128\]
 
 #### Team G
 
-1.  [引體後翻](https://zh.wikipedia.org/wiki/Team_K_5th_Stage“引体后翻”#NGT48_Team_G_1st_Stage「引體後翻」公演 "wikilink")（）：2018年7月1日\[127\]
-    - 2019年4月21日\[128\]
+1.  [引體後翻](https://zh.wikipedia.org/wiki/Team_K_5th_Stage“引体后翻”#NGT48_Team_G_1st_Stage「引體後翻」公演 "wikilink")（）：2018年7月1日\[129\]
+    - 2019年4月21日\[130\]
 
 #### 研究生
 
-1.  [夏之二次会PARTY](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#NGT48_研究生「夏之二次会PARTY」公演 "wikilink")（）：2016年8月9日\[129\]\[130\]
+1.  [夏之二次会PARTY](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#NGT48_研究生「夏之二次会PARTY」公演 "wikilink")（）：2016年8月9日\[131\]\[132\]
     - 10月6日
-      - [PARTY开始了・加爾維斯敦通](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#NGT48_研究生「PARTY开始了・加尔维斯顿街旁」公演 "wikilink")（）：2016年10月13日\[131\]
+      - [PARTY开始了・加爾維斯敦通](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#NGT48_研究生「PARTY开始了・加尔维斯顿街旁」公演 "wikilink")（）：2016年10月13日\[133\]
         - 2017年10月29日
-      - [PARTY开始了・越后雪椿](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#NGT48_研究生「PARTY开始了・越后雪椿」公演 "wikilink")（）：2017年11月12日\[132\]
-        - 2018年6月24日\[133\]\[134\]
+      - [PARTY开始了・越后雪椿](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#NGT48_研究生「PARTY开始了・越后雪椿」公演 "wikilink")（）：2017年11月12日\[134\]
+        - 2018年6月24日\[135\]\[136\]
 2.  [PARTY開始了～感受研究生的氣息！～](https://zh.wikipedia.org/wiki/Team_A_1st_Stage「PARTY开始了」#NGT48_研究生「PARTY開始了～感受研究生的氣息！～」公演 "wikilink")（）：2018年12月24日
-    - \[135\]
+    - \[137\]
 
 #### 特別公演
 
-  - 東日本大震灾复兴支援特别公演〜为了谁计划2016〜：2016年3月11日\[136\]
-  - 新潟县内女性学生限定特别公演（Team NIII“PARTY开始了”公演）：2016年5月22日\[137\]
-  - NGT48劇場100回記念公演：2016年8月21日\[138\]
-  - NGT48初披露1周年記念特別公演：2016年8月21日\[139\]
-  - NGT48「圣诞」公演：2016年12月25日\[140\]\[141\]
-  - NGT48「劇場新春公演」：2017年1月2日\[142\]
+  - 東日本大震灾复兴支援特别公演〜为了谁计划2016〜：2016年3月11日\[138\]
+  - 新潟县内女性学生限定特别公演（Team NIII“PARTY开始了”公演）：2016年5月22日\[139\]
+  - NGT48劇場100回記念公演：2016年8月21日\[140\]
+  - NGT48初披露1周年記念特別公演：2016年8月21日\[141\]
+  - NGT48「圣诞」公演：2016年12月25日\[142\]\[143\]
+  - NGT48「劇場新春公演」：2017年1月2日\[144\]
   - NGT48劇場开业1周年特别記念公演：2017年1月10日 -
-    特别活动『NGT48劇場1周年記念・令49000人感到魅力的NGT48之魂\!』\[143\]\[144\]
-  - Team NIII「睡衣兜风」東日本大震灾复兴支援公演〜为了谁计划2017〜：2017年3月11日\[145\]
-  - NGT48研究生「亲密的称呼\! 研究生Special」公演：2017年6月12日\[146\]
-  - NGT48「2017总选举感谢」公演：2017年6月20日\[147\]
-  - NGT48「2nd单曲发售・披露特别公演」〜蓝天会延续到这世界上的哪里去呢？〜：2017年12月3日\[148\]
-  - NGT48劇場2周年・前夜祭特别公演：2018年1月9日\[149\]
-  - NGT48劇場2周年特别記念公演：2018年1月10日\[150\]
-  - 北原里英 NGT48劇場 畢業公演 ～為了大家，直到最後～：2018年4月18日\[151\]
+    特别活动『NGT48劇場1周年記念・令49000人感到魅力的NGT48之魂\!』\[145\]\[146\]
+  - Team NIII「睡衣兜风」東日本大震灾复兴支援公演〜为了谁计划2017〜：2017年3月11日\[147\]
+  - NGT48研究生「亲密的称呼\! 研究生Special」公演：2017年6月12日\[148\]
+  - NGT48「2017总选举感谢」公演：2017年6月20日\[149\]
+  - NGT48「2nd单曲发售・披露特别公演」〜蓝天会延续到这世界上的哪里去呢？〜：2017年12月3日\[150\]
+  - NGT48劇場2周年・前夜祭特别公演：2018年1月9日\[151\]
+  - NGT48劇場2周年特别記念公演：2018年1月10日\[152\]
+  - 北原里英 NGT48劇場 畢業公演 ～為了大家，直到最後～：2018年4月18日\[153\]
 
 ### 出張公演
 
   - Team NIII「睡衣兜风」
       - 2016年11月5日 -
-        11月6日，[SKE48劇場](https://zh.wikipedia.org/wiki/SKE48劇場 "wikilink")\[152\]\[153\]
+        11月6日，[SKE48劇場](https://zh.wikipedia.org/wiki/SKE48劇場 "wikilink")\[154\]\[155\]
       - 2016年11月19日 -
-        11月20日，[AKB48劇場](../Page/AKB48劇場.md "wikilink")\[154\]\[155\]
-      - 2017年2月26日，[NMB48劇場](../Page/NMB48劇場.md "wikilink")\[156\]
+        11月20日，[AKB48劇場](../Page/AKB48劇場.md "wikilink")\[156\]\[157\]
+      - 2017年2月26日，[NMB48劇場](../Page/NMB48劇場.md "wikilink")\[158\]
   - 研究生「PARTY开始了・加爾維斯敦通」
-      - 2017年2月25日，NMB48劇場\[157\]
+      - 2017年2月25日，NMB48劇場\[159\]
   - Team G「引體後翻」
-      - 2018年10月13日，NMB48劇場\[158\]
+      - 2018年10月13日，NMB48劇場\[160\]
   - Team NIII「榮耀之丘」
-      - 2018年10月14日，NMB48劇場\[159\]
+      - 2018年10月14日，NMB48劇場\[161\]
 
 ## 演出作品
 
 ### 電視劇
 
   - （2016年4月21日 - 9月29日；[朝日電視台](../Page/朝日電視台.md "wikilink")、、） -
-    參與成員：柏木由紀、北原里英、高倉萌香\[160\]
+    參與成員：柏木由紀、北原里英、高倉萌香\[162\]
 
   - [暮蟬悲鳴時](https://zh.wikipedia.org/wiki/暮蟬悲鳴時#電視劇 "wikilink")（2016年5月20日
-    - 6月24日；） - 參與成員：加藤美南、中井莉加、清司麗菜、本間日陽、北原里英、高倉萌香\[161\]
+    - 6月24日；） - 參與成員：加藤美南、中井莉加、清司麗菜、本間日陽、北原里英、高倉萌香\[163\]
 
       - 暮蟬悲鳴時 解答篇（2016年11月25日 - 12月16日） -
         參與成員：加藤美南、中井莉加、清司麗菜、本間日陽、北原里英、高倉萌香
@@ -1690,17 +1714,17 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
 
   - [AKB48 SHOW\!](../Page/AKB48_SHOW!.md "wikilink")（2015年9月5日 -
     ，不定期演出；[NHK BS
-    Premium](../Page/NHK_BS_Premium.md "wikilink")）\[162\]\[163\]
+    Premium](../Page/NHK_BS_Premium.md "wikilink")）\[164\]\[165\]
 
-  - （2015年11月7日 - ；[新潟綜合電視台](../Page/新潟綜合電視台.md "wikilink")）\[164\]
+  - （2015年11月7日 - ；[新潟綜合電視台](../Page/新潟綜合電視台.md "wikilink")）\[166\]
 
-  - 只有這裡NGT48 （2015年12月1日 - ；）\[165\]
+  - 只有這裡NGT48 （2015年12月1日 - ；）\[167\]
 
   - [AKBINGO\!](https://zh.wikipedia.org/wiki/AKBINGO! "wikilink")（2016年1月13日
-    - ，不定期演出；[日本電視台](../Page/日本電視台.md "wikilink")）\[166\]
+    - ，不定期演出；[日本電視台](../Page/日本電視台.md "wikilink")）\[168\]
 
   - [AKB48神TV](../Page/AKB48神TV.md "wikilink")（2016年5月22日 -
-    ，不定期演出；）\[167\]
+    ，不定期演出；）\[169\]
 
   - [NGT48的新潟朋友\!](https://zh.wikipedia.org/wiki/NGT48的新潟朋友! "wikilink")（2017年1月17日
     - ；[新潟電視台](https://zh.wikipedia.org/wiki/TV新潟放送網 "wikilink")）
@@ -1708,35 +1732,35 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
 **已播畢**
 
   - [AKB48的今夜來外宿](../Page/AKB48的今夜來外宿.md "wikilink")（2015年10月6日 -
-    12月22日；日本電視台）\[168\]
+    12月22日；日本電視台）\[170\]
   - [AKB和××\!](../Page/AKB和××!.md "wikilink")（2015年11月25日 -
-    2016年3月23日，不定期演出；[讀賣電視台](../Page/讀賣電視台.md "wikilink")）\[169\]
+    2016年3月23日，不定期演出；[讀賣電視台](../Page/讀賣電視台.md "wikilink")）\[171\]
   - [HKT48 vs
     NGT48指北合戰](https://zh.wikipedia.org/wiki/HKT48_vs_NGT48指北合戰 "wikilink")（2016年1月12日
-    - 3月29日；日本電視台）\[170\]
+    - 3月29日；日本電視台）\[172\]
   - NGT48 Bakauke開發計劃TV （2016年6月14日 -
-    7月16日；[新潟電視台21](https://zh.wikipedia.org/wiki/新潟電視台21 "wikilink")）\[171\]
+    7月16日；[新潟電視台21](https://zh.wikipedia.org/wiki/新潟電視台21 "wikilink")）\[173\]
   - [PRODUCE 48](../Page/PRODUCE_48.md "wikilink")（2018年6月15日 -
     8月31日；韩国[Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink")）
 
 ### 广播节目
 
   - NGT48的大家神对应\!\! Radio握手会\!\!（2015年10月2日 -
-    、[FM-NIIGATA](../Page/新潟广播电台.md "wikilink")）\[172\]
+    、[FM-NIIGATA](../Page/新潟广播电台.md "wikilink")）\[174\]
 
-  - PORT DE NGT（2015年10月3日 - 、）\[173\]
+  - PORT DE NGT（2015年10月3日 - 、）\[175\]
 
   - [AKB48的「我們的故事」](../Page/AKB48的「我們的故事」.md "wikilink")（2015年11月6日 -
-    不定期出演、[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM频率 "wikilink")）\[174\]
+    不定期出演、[NHK-FM](https://zh.wikipedia.org/wiki/NHK-FM频率 "wikilink")）\[176\]
 
-  - （2016年1月7日 - 不定期出演、[日本放送](../Page/日本放送.md "wikilink")）\[175\]
+  - （2016年1月7日 - 不定期出演、[日本放送](../Page/日本放送.md "wikilink")）\[177\]
 
-  - NGT48的SWEET HOMEROOM（2016年1月14日 - 、FM）\[176\]
+  - NGT48的SWEET HOMEROOM（2016年1月14日 - 、FM）\[178\]
 
   - NGT48的认真\!认真?总选举（2016年2月1日 - 3月21日、[BSN
-    Radio](https://zh.wikipedia.org/wiki/新潟放送 "wikilink")）\[177\]\[178\]
+    Radio](https://zh.wikipedia.org/wiki/新潟放送 "wikilink")）\[179\]\[180\]
 
-  - NGT48的认真\!认真?Countdown\!（2016年3月28日 - 、BSN Radio）\[179\]
+  - NGT48的认真\!认真?Countdown\!（2016年3月28日 - 、BSN Radio）\[181\]
 
       - NGT48的认真\!认真?Talk（2016年2月1日 - 、BSN Radio）
 
@@ -1862,51 +1886,53 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
 49.
 
 50.
-51. }
 
-52.  - 《》 2016年11月5日
+51.
 
-53.
+52.
+53.  - 《》 2016年11月5日
+
 54.
 55.
-56.
-
-57. 《[NGT48的新潟朋友\!](https://zh.wikipedia.org/wiki/NGT48的新潟朋友! "wikilink")》第1集
+56. 《[NGT48的新潟朋友\!](https://zh.wikipedia.org/wiki/NGT48的新潟朋友! "wikilink")》第1集
     - 2017年1月17日播出
 
+57.
 58.
 59.
+
 60.
-
 61.
-62.
 
-63.
-64. [信州電視台](https://zh.wikipedia.org/wiki/信州電視台 "wikilink")《》 -
+62.
+63. [信州電視台](https://zh.wikipedia.org/wiki/信州電視台 "wikilink")《》 -
     2017年4月10日播出內容
 
+64.
 65.
-66.
+66. }
 
 67.
-68.
-69.
-70.
+68. }
 
+69.
+
+70.
 71.
 
 72.
-73. }
-
+73.
 74.
 75.
 76.
 77.
+
 78.
 79.
-80.
 
+80.
 81.
+
 82.
 
 83.
@@ -1918,7 +1944,6 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
 87.
 
 88.
-
 89.
 90.
 
@@ -1926,34 +1951,33 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
 92.
 
 93.
-
 94.
 
 95.
 
 96.
+
 97.
+
 98.
-
 99.
-
 100.
 
 101.
 
 102.
+
 103.
 
 104.
 105.
 
 106.
-
 107.
+
 108.
 
 109.
-
 110.
 
 111.
@@ -1966,17 +1990,18 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
 
 115.
 
-116. [](https://ngt48.jp/music/77520)
+116.
 
-117. [](https://ngt48.jp/news/94880)
+117.
 
-118. [](https://shopping.akb48-group.com/lp/ngt48_kitarie_tandokucon/)
+118. [](https://ngt48.jp/music/77520)
 
-119.
+119. [](https://ngt48.jp/news/94880)
 
-120.
+120. [](https://shopping.akb48-group.com/lp/ngt48_kitarie_tandokucon/)
 
 121.
+
 122.
 
 123.
@@ -1984,31 +2009,30 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
 
 125.
 126.
+
 127.
 128.
 129.
 130.
-
 131.
-
 132.
 
 133.
 
 134.
+
 135.
 
 136.
-
 137.
 
 138.
 
 139.
+
 140.
 
 141.
-
 142.
 
 143.
@@ -2017,36 +2041,36 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
 
 145.
 
-
 146.
 
 147.
+
 
 148.
 
 149.
 
 150.
+
 151.
 
 152.
-
 153.
 
 154.
+
 155.
 
 156.
-
-
 157.
+
 158.
+
 
 159.
 160.
 
 161.
-
 162.
 
 163.
@@ -2082,3 +2106,7 @@ NGT48劇場是NGT48劇場公演的專用場地，位於[新潟市](../Page/新�
 178.
 
 179.
+
+180.
+
+181.

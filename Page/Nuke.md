@@ -1,7 +1,5 @@
 **NUKE**
-是由位于[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[伦敦的](../Page/伦敦.md "wikilink")
-
-公司开发和销售的一款“基于节点”的数字影视合成软件，广泛应用于[电影和](../Page/电影.md "wikilink")[电视的后期合成](../Page/电视.md "wikilink")。NUKE
+是由位于[英国](https://zh.wikipedia.org/wiki/英国 "wikilink")[伦敦的](../Page/伦敦.md "wikilink")公司开发和销售的一款“基于节点”的数字影视合成软件，广泛应用于[电影和](../Page/电影.md "wikilink")[电视的后期合成](../Page/电视.md "wikilink")。NUKE
 当前支持的操作系统为：[Microsoft
 Windows](https://zh.wikipedia.org/wiki/Microsoft_Windows "wikilink")，[Mac
 OS X](https://zh.wikipedia.org/wiki/Mac_OS_X "wikilink")，以及
@@ -16,3 +14,5 @@ NUKE
 
   - [官方产品页面](http://www.thefoundry.co.uk/products/nuke/)
   - [位于 Sourceforge 网站的 OpenFX 效果插件标准](http://openfx.sourceforge.net/)
+
+[Category:視覺特效](https://zh.wikipedia.org/wiki/Category:視覺特效 "wikilink")

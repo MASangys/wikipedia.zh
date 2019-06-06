@@ -1,6 +1,6 @@
 **Bootstrap**是一组用于[网站和](https://zh.wikipedia.org/wiki/网站 "wikilink")[网络应用程序开发的](../Page/网络应用程序.md "wikilink")[开源](../Page/自由及开放源代码软件.md "wikilink")[前端](https://zh.wikipedia.org/wiki/前端和后端 "wikilink")（所谓“前端”，指的是展现给最终用户的界面。与之对应的“后端”是在[服务器上面运行的代码](../Page/服务器.md "wikilink")）[框架](../Page/Web应用框架.md "wikilink")，包括[HTML](../Page/HTML.md "wikilink")、[CSS及](../Page/层叠样式表.md "wikilink")[JavaScript的框架](../Page/JavaScript.md "wikilink")，提供[字體排印](../Page/字体排印学.md "wikilink")、表單、按鈕、導航及其他各種元件及Javascript擴充套件，旨在使[动态网页和](https://zh.wikipedia.org/wiki/動態網頁 "wikilink")[Web应用的开发更加容易](../Page/网络应用程序.md "wikilink")。
 
-Bootstrap是[GitHub上面被标记为](../Page/GitHub.md "wikilink")“Starred”次数排名第二最多的项目。Starred次数超过124,000，而[分支次数超过了](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")47,000次。\[1\]
+Bootstrap是[GitHub上面被标记为](../Page/GitHub.md "wikilink")“Starred”次数排名第四多的项目。Starred次数超过133,000，而[分支次数超过了](https://zh.wikipedia.org/wiki/复刻_\(软件工程\) "wikilink")65,000次。\[1\]
 
 ## 起源
 

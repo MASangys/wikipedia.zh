@@ -30,7 +30,7 @@
   - [fdisk](https://zh.wikipedia.org/wiki/fdisk "wikilink")
   - findfs
   - findmnt
-  - [flock](https://zh.wikipedia.org/wiki/文件锁定 "wikilink")
+  - [flock](../Page/文件锁定.md "wikilink")
   - [fsck](https://zh.wikipedia.org/wiki/fsck "wikilink")
   - [fsck](https://zh.wikipedia.org/wiki/fsck "wikilink").[cramfs](https://zh.wikipedia.org/wiki/cramfs "wikilink")
   - [fsck](https://zh.wikipedia.org/wiki/fsck "wikilink").[minix](https://zh.wikipedia.org/wiki/MINIX檔案系統 "wikilink")

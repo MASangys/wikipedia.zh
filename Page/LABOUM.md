@@ -96,8 +96,9 @@ Tune》；發行後登上日本公信榜第9名。
 
 2月8日，日本媒體發布消息指出官方確定於4月24日發行日本第一張專輯，同時也公開於2月16至2月24日期間舉行發售活動。\[10\]
 
-4月1日，日本官方公開第一張日本專輯《Love Pop
-Wow\!\!》發行詳細內容，並於4月24日至5月6日期間舉行發售活動；也公開4月27日見面會詳細資訊。\[11\]27日，正式发布专辑。
+4月1日，日本官方公開首張日本專輯《Love Pop Wow\!\!》發行詳細內容，也公開4月27日見面會詳細資訊。\[11\]
+
+4月24日，首張日本專輯《Love Pop Wow\!\!》正式发布，並於4月24日至5月6日期間舉行發售活動。
 
 ## 成員資料
 
@@ -913,7 +914,7 @@ PlotData =
 | 2016年12月15日           | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | ZN   | Special MC |
 | 2017年5月11日－2017年6月8日  | 동아TV                                                  | 《BEAUTY & LOVELY》                                                        | 海仁   | 固定MC       |
 | 2018年8月9日             | [Mnet](https://zh.wikipedia.org/wiki/Mnet "wikilink") | 《[M\! Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》 | 率濱   | Special MC |
-| 2019年4月2日－            | Olive                                                 | 《One Pick Road》                                                          | 固定MC |            |
+| 2019年4月2日－2019年4月23日  | Olive                                                 | 《One Pick Road》                                                          | 固定MC |            |
 | 2019年4月8日－            | JTBC4                                                 | 《Beauty Room》                                                            |      |            |
 
 ## 代言
@@ -1261,6 +1262,9 @@ PlotData =
 | 3月21日       |
 | 4月4日        |
 | 4月20日       |
+| 5月11日       |
+| 5月16日       |
+| 5月25日       |
 
 ## 大型拼盤演唱會
 

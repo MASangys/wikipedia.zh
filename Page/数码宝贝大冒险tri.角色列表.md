@@ -921,7 +921,7 @@ characters）是[日本](../Page/日本.md "wikilink")[东映动画于](../Page/
   - [东映动画 Digimon Adventure tri. 官网](http://digimon-adventure.net/tri/)
 
   - [东映动画 Digimon Adventure 15th Anniversary Project
-    官网](http://15th.digimon-adventure.net/)
+    官网](https://web.archive.org/web/20181226232740/http://15th.digimon-adventure.net/)
 
   - [超进化舞台 Digimon Adventure tri. \~Adventure of August 1\~
     官网](http://digimon-stage.com/)

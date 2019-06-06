@@ -350,8 +350,8 @@ Pro研修生](../Page/Hello!_Pro研修生.md "wikilink")）。
 <td><p>2018年8月8日</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/我一定可以_/_有志者事竟成" title="wikilink">我一定可以 / 有志者事竟成</a></p></td>
-<td></td>
-<td></td>
+<td><p>5</p></td>
+<td><p>23,117</p></td>
 <td><p>24,422</p></td>
 <td><p>第三張2A單曲</p></td>
 <td></td>

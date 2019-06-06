@@ -34,9 +34,10 @@ Street）和布靈頓北岸大道（Northshore Boulevard）的路段拓闊至來
 [Category:荷頓區交通](https://zh.wikipedia.org/wiki/Category:荷頓區交通 "wikilink")
 [Category:1958年完工橋梁](https://zh.wikipedia.org/wiki/Category:1958年完工橋梁 "wikilink")
 [Category:1985年完工橋梁](https://zh.wikipedia.org/wiki/Category:1985年完工橋梁 "wikilink")
-[Category:公路橋](https://zh.wikipedia.org/wiki/Category:公路橋 "wikilink")
+[Category:加拿大公路橋](https://zh.wikipedia.org/wiki/Category:加拿大公路橋 "wikilink")
 [Category:拱橋](https://zh.wikipedia.org/wiki/Category:拱橋 "wikilink")
 [Category:梁橋](https://zh.wikipedia.org/wiki/Category:梁橋 "wikilink")
+[Category:安大略湖](https://zh.wikipedia.org/wiki/Category:安大略湖 "wikilink")
 
 1.
 

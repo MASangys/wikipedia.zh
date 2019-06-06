@@ -16,136 +16,134 @@ Music公司宣佈將於11月推出一個6人女團。同日介紹其中4位成�
 公司通過官網公佈GFRIEND的出道日為2015年1月15日，並公開其餘兩位成員Yuju和Eunha\[7\]。原先Source
 Music計-{zh:劃;zh-hans:划;zh-hant:劃;}-GFRIEND為7人組合，但由於2位成員選擇離開公司，而後追加了1人，因此以6人女團形式出道。
 
-MBK娛樂旗下組合[DIA成員Jenny曾是GFRIEND預備成員](https://zh.wikipedia.org/wiki/DIA "wikilink")\[8\]。
-
 ### 2015年：《Season of Glass》出道、《Flower Bud》
 
 [여자친구(GFRIEND)_러시아_문화_페스티벌_인천_연안부두_해양광장_23.jpg](https://zh.wikipedia.org/wiki/File:여자친구\(GFRIEND\)_러시아_문화_페스티벌_인천_연안부두_해양광장_23.jpg "fig:여자친구(GFRIEND)_러시아_문화_페스티벌_인천_연안부두_해양광장_23.jpg")
 
-1月15日正式發佈首張迷你專輯《Season of Glass》\[9\]\[10\]，出道曲玻璃珠《Glass Bead》。《Glass
+1月15日正式發佈首張迷你專輯《Season of Glass》\[8\]\[9\]，出道曲玻璃珠《Glass Bead》。《Glass
 Bead》MV由創作過[Ailee](../Page/李艺真.md "wikilink")《Heaven》和[Orange
 Caramel](../Page/橙子焦糖.md "wikilink")《Catallena》的Lee
-Giyongbae作曲\[11\]，於Gaon
-Chart網站的每週歌曲榜排名第12\[12\]\[13\]。1月16日，於[KBS2音樂節目](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[Music
+Giyongbae作曲\[10\]，於Gaon
+Chart網站的每週歌曲榜排名第12\[11\]\[12\]。1月16日，於[KBS2音樂節目](https://zh.wikipedia.org/wiki/KBS第2頻道 "wikilink")《[Music
 Bank](https://zh.wikipedia.org/wiki/音乐银行 "wikilink")》中出道表演《Glass
-Bead》\[14\]。1月18日，於《人氣歌謠》中首次表演第二主打歌《White》。1月28日，GFRIEND被美國[Billboard選為其中一組](../Page/告示牌_\(雜誌\).md "wikilink")「2015年最值得留意的K-POP新人」\[15\]。3月12日，公司宣佈延長宣傳的活動，繼續於音樂節目演出。3月21日，於[MBC音樂節目](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[Show\!
+Bead》\[13\]。1月18日，於《人氣歌謠》中首次表演第二主打歌《White》。1月28日，GFRIEND被美國[Billboard選為其中一組](../Page/告示牌_\(雜誌\).md "wikilink")「2015年最值得留意的K-POP新人」\[14\]。3月12日，公司宣佈延長宣傳的活動，繼續於音樂節目演出。3月21日，於[MBC音樂節目](https://zh.wikipedia.org/wiki/文化廣播_\(韓國\) "wikilink")《[Show\!
 音樂中心](https://zh.wikipedia.org/wiki/Show!_音樂中心 "wikilink")》的表演舞台結束首張迷你專輯宣傳。
 
 7月9日，公司更新官咖首頁的圖片，圖片有著「Flower Bud」與「Me Gustas
 Tu」的字樣，意思為「含苞待放的花蕾」和「我喜歡你」，並預告即將回歸。公司接連釋出三波專輯概念照，並於7月15日公開MV預告。7月23日推出第二張迷你專輯《[Flower
 Bud](../Page/Flower_Bud.md "wikilink")》，主打曲為《Me Gustas
-Tu》。全專輯的音源與主打歌MV於韓國時間同日12時公開\[16\]。同日，於[Mnet音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
-Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中展開專輯的宣傳活動\[17\]。
+Tu》。全專輯的音源與主打歌MV於韓國時間同日12時公開\[15\]。同日，於[Mnet音樂節目](https://zh.wikipedia.org/wiki/Mnet "wikilink")《[M\!
+Countdown](https://zh.wikipedia.org/wiki/M!_Countdown "wikilink")》中展開專輯的宣傳活動\[16\]。
 
-9月5日，GFRIEND在江原道的公演時，舞台因下雨導致濕滑。成員雖共發生八次摔倒，主唱Yuju更扭傷手指，但仍堅持至表演結束\[18\]。摔倒的影片在網路上傳播後觀看次數超過1200萬次，並得到了世界各地網友稱讚成員敬業\[19\]。事件亦受到全球媒體關注，英國《[每日郵報](../Page/每日郵報.md "wikilink")》和美國的《[時代雜誌](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》皆有報導事件\[20\]\[21\]\[22\]。9月6日，參加第9屆SGC
+9月5日，GFRIEND在江原道的公演時，舞台因下雨導致濕滑。成員雖共發生八次摔倒，主唱Yuju更扭傷手指，但仍堅持至表演結束\[17\]。摔倒的影片在網路上傳播後觀看次數超過1200萬次，並得到了世界各地網友稱讚成員敬業\[18\]。事件亦受到全球媒體關注，英國《[每日郵報](../Page/每日郵報.md "wikilink")》和美國的《[時代雜誌](https://zh.wikipedia.org/wiki/時代_\(雜誌\) "wikilink")》皆有報導事件\[19\]\[20\]\[21\]。9月6日，參加第9屆SGC
 SUPER LIVE首爾女團特輯，首次表演《Flower
-Bud》專輯第二主打歌《ONE》的舞蹈。9月17日，GFRIEND與[B1A4](../Page/B1A4.md "wikilink")、[防彈少年團](../Page/防彈少年團.md "wikilink")、[GOT7和](../Page/GOT7.md "wikilink")[VIXX獲提名為](../Page/VIXX.md "wikilink")[MTV歐洲音樂大獎的最佳韓國藝人獎](../Page/MTV歐洲音樂大獎.md "wikilink")，成為唯一獲提名的女團\[23\]。《Me
+Bud》專輯第二主打歌《ONE》的舞蹈。9月17日，GFRIEND與[B1A4](../Page/B1A4.md "wikilink")、[防彈少年團](../Page/防彈少年團.md "wikilink")、[GOT7和](../Page/GOT7.md "wikilink")[VIXX獲提名為](../Page/VIXX.md "wikilink")[MTV歐洲音樂大獎的最佳韓國藝人獎](../Page/MTV歐洲音樂大獎.md "wikilink")，成為唯一獲提名的女團\[22\]。《Me
 Gustas
 Tu》一曲連續63週登上[Melon](https://zh.wikipedia.org/wiki/LOEN娛樂#Melon "wikilink")
-Top 100排行榜，成為各個女團中上榜時間最長的歌曲\[24\]。其後被刷新紀錄，現為上榜時間第二長的歌曲。《Glass Bead》和《Me
-Gustas Tu》於韓國音源網站「Bugs」的Top 100年終排行榜分別排名第44名和第8名\[25\]。
+Top 100排行榜，成為各個女團中上榜時間最長的歌曲\[23\]。其後被刷新紀錄，現為上榜時間第二長的歌曲。《Glass Bead》和《Me
+Gustas Tu》於韓國音源網站「Bugs」的Top 100年終排行榜分別排名第44名和第8名\[24\]。
 
 ### 2016年：《Snowflake》、首張正規專輯《L.O.L》
 
 [16.03.13_롯데몰_김포공항_여자친구_By.Holic_01.jpg](https://zh.wikipedia.org/wiki/File:16.03.13_롯데몰_김포공항_여자친구_By.Holic_01.jpg "fig:16.03.13_롯데몰_김포공항_여자친구_By.Holic_01.jpg")
 1月19日，GFRIEND預告即將回歸，並於19日、21日和22日公開MV和專輯預告。1月25日，推出第三張迷你專輯《Snowflake》。主打歌為《Rough》，為「校園系列三部曲」的最後一部。同日舉行的Showcase中，官方把GFRIEND歌迷命名為Buddy。1月26日在
  的《[-{zh-hans:THE SHOW;zh-hant:THE
-SHOW;zh-cn:韓秀榜}-](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》展現回歸舞台宣傳活動。《Snowflake》專輯發表時，登上了美國Billboard全球專輯榜第10名\[26\]；
+SHOW;zh-cn:韓秀榜}-](https://zh.wikipedia.org/wiki/THE_SHOW "wikilink")》展現回歸舞台宣傳活動。《Snowflake》專輯發表時，登上了美國Billboard全球專輯榜第10名\[25\]；
 
 2月2日，GFRIEND於 SBS MTV 的《THE SHOW》中，拿下出道以來首個冠軍。《Rough》MV亦成為2016年上半年[Gaon
-Chart的首位](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")\[27\]\[28\]。2月7日，《Rough》在韓國八大音源榜單達成「Perfect
-All-Kill」\[29\]，成為韓國史上第五組達成的團體\[30\]\[31\]。2月24日，公司公佈延長宣傳活動，繼續於音樂節目演出直到三月中旬。3月13日，於《人氣歌謠》進行表演舞台後，結束迷你專輯的宣傳。截至4月3日，《Rough》蟬聯韓國音源榜單首位共488小時。GFRIEND於《M\!
+Chart的首位](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")\[26\]\[27\]。2月7日，《Rough》在韓國八大音源榜單達成「Perfect
+All-Kill」\[28\]，成為韓國史上第五組達成的團體\[29\]\[30\]。2月24日，公司公佈延長宣傳活動，繼續於音樂節目演出直到三月中旬。3月13日，於《人氣歌謠》進行表演舞台後，結束迷你專輯的宣傳。截至4月3日，《Rough》蟬聯韓國音源榜單首位共488小時。GFRIEND於《M\!
 Countdown》、《[Show
 Champion](../Page/Show_Champion.md "wikilink")》、《人氣歌謠》分別奪得三冠王，於《Music
 Bank》中更拿下四冠王，加上《THE
-SHOW》連續兩週冠軍，共拿下15個冠軍，僅次於拿下17個冠軍的[Apink](../Page/Apink.md "wikilink")《[LUV](../Page/Pink_LUV.md "wikilink")》\[32\]\[33\]。
+SHOW》連續兩週冠軍，共拿下15個冠軍，僅次於拿下17個冠軍的[Apink](../Page/Apink.md "wikilink")《[LUV](../Page/Pink_LUV.md "wikilink")》\[31\]\[32\]。
 
-官方粉絲俱樂部於2014年9月開創，於開創後1年5個月，粉絲數突破3萬人數，成為最短時間內到達該人數的女團\[34\]。6月15日，GFRIEND與另一女子組合[MAMAMOO將一同出演](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")《[Showtime
+官方粉絲俱樂部於2014年9月開創，於開創後1年5個月，粉絲數突破3萬人數，成為最短時間內到達該人數的女團\[33\]。6月15日，GFRIEND與另一女子組合[MAMAMOO將一同出演](https://zh.wikipedia.org/wiki/MAMAMOO "wikilink")《[Showtime
 Mamamoo X
 GFriend](../Page/Showtime_Mamamoo_X_GFriend.md "wikilink")》的節目。
 
 [20160730-P1000885_(28352591423).jpg](https://zh.wikipedia.org/wiki/File:20160730-P1000885_\(28352591423\).jpg "fig:20160730-P1000885_(28352591423).jpg")
 6月29日，公司預告即將推出首張正規專輯《[L.O.L](../Page/L.O.L.md "wikilink")》，主打歌《NAVILLERA》。專輯名稱具有「Lots
 of Love」和「Laughing Out Loud」兩層意義。同日，公司公開第一波概念照，展現「Laughing Out
-Loud」的概念\[35\]。7月4日，公司公開第二波概念照，展現「Lots of
-Love」的概念\[36\]。7月7日和8日公開MV和正規專輯預告。《L.O.L》在全球各地的預購量超過6萬\[37\]。7月11日，全專輯的音源與主打歌MV公開，並舉辦Showcase。7月12日於
+Loud」的概念\[34\]。7月4日，公司公開第二波概念照，展現「Lots of
+Love」的概念\[35\]。7月7日和8日公開MV和正規專輯預告。《L.O.L》在全球各地的預購量超過6萬\[36\]。7月11日，全專輯的音源與主打歌MV公開，並舉辦Showcase。7月12日於
 SBS MTV 的《THE SHOW》中的回歸舞台正式展開宣傳活動。7月19日，GFRIEND於 SBS MTV 的《THE
-SHOW》中，拿下《NAVILLERA》的首個冠軍\[38\]。7月20日，《L.O.L》進入美國Billboard世界專輯排行榜，排名第七\[39\]。8月14日，在《人氣歌謠》的表演舞台後，結束首張正規專輯宣傳。此次回歸，GFRIEND在《THE
+SHOW》中，拿下《NAVILLERA》的首個冠軍\[37\]。7月20日，《L.O.L》進入美國Billboard世界專輯排行榜，排名第七\[38\]。8月14日，在《人氣歌謠》的表演舞台後，結束首張正規專輯宣傳。此次回歸，GFRIEND在《THE
 SHOW》、《M Countdown》、《人氣歌謠》和《Music Bank》皆成為三冠王，於《Show
-Champion》則連續兩週冠軍，共拿下14個冠軍。2016年，GFRIEND累計獲得29個音樂節目冠軍，單年度獲得的音樂節目冠軍數僅次於[EXO](../Page/EXO.md "wikilink")，在韓國樂壇排行第二位\[40\]；而在韓國所有女團當中，GFRIEND獲得的音樂節目冠軍數目排名第六位\[41\]。
+Champion》則連續兩週冠軍，共拿下14個冠軍。2016年，GFRIEND累計獲得29個音樂節目冠軍，單年度獲得的音樂節目冠軍數僅次於[EXO](../Page/EXO.md "wikilink")，在韓國樂壇排行第二位\[39\]；而在韓國所有女團當中，GFRIEND獲得的音樂節目冠軍數目排名第六位\[40\]。
 
 [20161119_여자친구_멜론뮤직어워드_(2).jpg](https://zh.wikipedia.org/wiki/File:20161119_여자친구_멜론뮤직어워드_\(2\).jpg "fig:20161119_여자친구_멜론뮤직어워드_(2).jpg")
 10月5日，成員Umji因左大腿股骨「縫匠肌」受傷，GFRIEND官方宣佈暫時以5人出席活動。2016年末，Youtube公開2016年南韓民眾最喜愛的K-POP
-MV，《Rough》和《NAVILLERA》分別排名第2名和第10名\[42\]\[43\]。韓國音源網站「Bugs」的Top
-100年終排行榜中，《Rough》和《NAVILLERA》分別排名第2名和第11名\[44\]。另外美國Billboard
-2016年20大最佳K-POP歌曲榜中，《Rough》排行第11名\[45\]。
+MV，《Rough》和《NAVILLERA》分別排名第2名和第10名\[41\]\[42\]。韓國音源網站「Bugs」的Top
+100年終排行榜中，《Rough》和《NAVILLERA》分別排名第2名和第11名\[43\]。另外美國Billboard
+2016年20大最佳K-POP歌曲榜中，《Rough》排行第11名\[44\]。
 
 ### 2017年：《The Awakening》、《PARALLEL》、《Rainbow》
 
 2月23日，公司預告將於3月6日，以第四張迷你專輯《[The
-Awakening](../Page/The_Awakening.md "wikilink")》正式回歸\[46\]。2月27日公開MV預告，主打歌為《FINGERTIP》\[47\]。另外《The
+Awakening](../Page/The_Awakening.md "wikilink")》正式回歸\[45\]。2月27日公開MV預告，主打歌為《FINGERTIP》\[46\]。另外《The
 Awakening》專輯在全球的預購量超過10萬。3月6日，官方於下午12時公開主打歌《FINGERTIP》MV和《The
 Awakening》全輯音源，《FINGERTIP》亦登上韓國音源網站Bugs、Soribada、olleh、genie第一位，Melon、Mnet、Naver則登上第五位。3月9日，GFRIEND於《M\!
-Countdown》中正式回歸\[48\]。在SBS MTV的《THE SHOW》表演中，拿下《FINGERTIP》2個冠軍。《The
-Awakening》發表時，登上了美國Billboard全球專輯榜第5名\[49\]。4月16日，GFRIEND於《人氣歌謠》進行表演舞台後，結束迷你專輯的宣傳。
+Countdown》中正式回歸\[47\]。在SBS MTV的《THE SHOW》表演中，拿下《FINGERTIP》2個冠軍。《The
+Awakening》發表時，登上了美國Billboard全球專輯榜第5名\[48\]。4月16日，GFRIEND於《人氣歌謠》進行表演舞台後，結束迷你專輯的宣傳。
 
 3月15日，官方於上午9時公佈GFRIEND的官方應援棒「GLASS MARBLE
 STICK」。4月2日，GFRIEND在韓國舉行出道以來的首次見面會「Dear
-Buddy」\[50\]，6日後也在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷舉行見面會](../Page/曼谷.md "wikilink")。7月9日和7月16日，GFRIEND分別於台北和香港舉行出道以來首次迷你演唱會\[51\]\[52\]。
+Buddy」\[49\]，6日後也在[泰國](https://zh.wikipedia.org/wiki/泰國 "wikilink")[曼谷舉行見面會](../Page/曼谷.md "wikilink")。7月9日和7月16日，GFRIEND分別於台北和香港舉行出道以來首次迷你演唱會\[50\]\[51\]。
 
 [(TV10)_여자친구·트와이스·블랙핑크,_레드카펫_각양각색_패션_열전_(2017_골든디스크_레드카펫)_1m6s.jpg](https://zh.wikipedia.org/wiki/File:\(TV10\)_여자친구·트와이스·블랙핑크,_레드카펫_각양각색_패션_열전_\(2017_골든디스크_레드카펫\)_1m6s.jpg "fig:(TV10)_여자친구·트와이스·블랙핑크,_레드카펫_각양각색_패션_열전_(2017_골든디스크_레드카펫)_1m6s.jpg")的紅地毯上\]\]
 7月20日，公司預告GFRIEND將於8月1日以第五張迷你專輯《[PARALLEL](https://zh.wikipedia.org/wiki/PARALLEL "wikilink")》正式回歸，專輯的主打歌為《LOVE
-WHISPER》\[53\]。專輯名字意味著「平行」，描寫就像平行線而無法觸碰到的愛情，相信總有一天能相遇的內心\[54\]。GFRIEND於7月26日、30日和31日公開MV和專輯預告\[55\]\[56\]\[57\]。8月1日，專輯的音源與主打歌MV公開，並舉辦Showcase表演新歌，Showcase門票於開始發售後30秒全部售出\[58\]\[59\]。美國
-Billboard世界專輯榜公開8月19日的週榜單中，《PARALLEL》獲得第10名\[60\]。GFRIEND分別先後在《THE
+WHISPER》\[52\]。專輯名字意味著「平行」，描寫就像平行線而無法觸碰到的愛情，相信總有一天能相遇的內心\[53\]。GFRIEND於7月26日、30日和31日公開MV和專輯預告\[54\]\[55\]\[56\]。8月1日，專輯的音源與主打歌MV公開，並舉辦Showcase表演新歌，Showcase門票於開始發售後30秒全部售出\[57\]\[58\]。美國
+Billboard世界專輯榜公開8月19日的週榜單中，《PARALLEL》獲得第10名\[59\]。GFRIEND分別先後在《THE
 SHOW》、《Show Champion》、《Music
 Bank》和《人氣歌謠》合共獲得4個冠軍。8月27日，於《人氣歌謠》進行表演舞台後，結束迷你專輯的宣傳。
 
 8月31日，GFRIEND預告即將回歸，於9月13日發行第五張迷你專輯的改版專輯《Rainbow》，主打歌為《Summer
-Rain》\[61\]。9月1日，透過官方 Facebook
-公開專輯曲目表\[62\]。9月4日至6日，官方公開各成員的個人概念照，並於9月7日、11日和12日發佈了MV和專輯預告\[63\]\[64\]\[65\]。9月15日，專輯的音源與主打歌MV公開，並舉辦Showcase表演新歌。GFRIEND在《THE
+Rain》\[60\]。9月1日，透過官方 Facebook
+公開專輯曲目表\[61\]。9月4日至6日，官方公開各成員的個人概念照，並於9月7日、11日和12日發佈了MV和專輯預告\[62\]\[63\]\[64\]。9月15日，專輯的音源與主打歌MV公開，並舉辦Showcase表演新歌。GFRIEND在《THE
 SHOW》、《M Countdown》共獲得2個《SUMMER RAIN》的冠軍。9月24日，於《人氣歌謠》進行表演舞台後，結束宣傳。
 
 11月12日，GFRIEND獲得MTV歐洲音樂大獎（MTV Europe Music Awards）最佳韓國藝人獎（Best Korea
 Act），為2013年設立此項以來首次得獎之女團。12月6日和8日，GFRIEND首次演唱會《[GFRIEND 1st CONCERT -
 Season of
-GFRIEND](../Page/GFRIEND_1st_CONCERT_-_Season_of_GFRIEND.md "wikilink")》的門票，在3分鐘內全數售罄\[66\]。
+GFRIEND](../Page/GFRIEND_1st_CONCERT_-_Season_of_GFRIEND.md "wikilink")》的門票，在3分鐘內全數售罄\[65\]。
 
 ### 2018年：首次單獨演唱會、日本出道、《Time For The Moon Night》、《Sunny Summer》
 
 1月6日和7日，GFRIEND於首爾奧林匹克公園奧林匹克大廳舉行首次單獨演唱會。2月23日，GFRIEND的經理公司宣布「即將在日本正式出道，目前已經和知名唱片製作公司
 KING RECORD CO.
-LTD.簽訂合約，預定於今年5月在日本發行出道專輯。」\[67\]\[68\]\[69\]。3月16日，日本時尚娛樂網站Modelpress報導，GFRIEND將於5月23日以推出《[今天開始的我們～GFRIEND
+LTD.簽訂合約，預定於今年5月在日本發行出道專輯。」\[66\]\[67\]\[68\]。3月16日，日本時尚娛樂網站Modelpress報導，GFRIEND將於5月23日以推出《[今天開始的我們～GFRIEND
 1st
 BEST](../Page/今天開始的我們～GFRIEND_1st_BEST.md "wikilink")》，並在日本出道。該專輯收錄了以主題曲「Me
-Gustas Tu」為首的6首GFRIEND人氣歌曲的日文版本和韓語原創歌曲\[70\]。
+Gustas Tu」為首的6首GFRIEND人氣歌曲的日文版本和韓語原創歌曲\[69\]。
 
 4月17日，GFRIEND透過官方Facebook宣布將於4月30日發行第六張迷你專輯《[Time For The Moon
-Night](../Page/Time_For_The_Moon_Night.md "wikilink")》\[71\]\[72\]，並於17日、18日和20日公開預告照以及個人概念照\[73\]\[74\]。4月30日，專輯的音源與主打歌MV公開\[75\]，並舉辦Showcase表演新歌。美國
+Night](../Page/Time_For_The_Moon_Night.md "wikilink")》\[70\]\[71\]，並於17日、18日和20日公開預告照以及個人概念照\[72\]\[73\]。4月30日，專輯的音源與主打歌MV公開\[74\]，並舉辦Showcase表演新歌。美國
 Billboard (告示牌) 世界專輯榜公開5月9日的週榜單 ，《Time For The Moon Night
-》獲得第6名。\[76\]5月8日於《THE
+》獲得第6名。\[75\]5月8日於《THE
 SHOW》取得一位後，迷你六輯共獲得10個一位。4月26日，GFRIEND公開官方應援色為「彩通11-4201
 雲白色」、「彩通16-4725 水藍色」和「彩通18-3838
-紫外光」\[77\]\[78\]。6月20日，GFRIEND被選為了日本動畫電影《于離別之朝束起約定之花》在韓國的形象宣傳大使，並于7月3日在首爾出席該片的宣傳活動\[79\]。
+紫外光」\[76\]\[77\]。6月20日，GFRIEND被選為了日本動畫電影《于離別之朝束起約定之花》在韓國的形象宣傳大使，並于7月3日在首爾出席該片的宣傳活動\[78\]。
 
-7月5日，GFRIEND透過官方Facebook及Instagram宣布將於7月19日發行夏日迷你專輯，並同時公開兩張預告畫報。7月9日，在官方Facebook上公開了回歸行程表\[80\]，並宣布夏日迷你專輯名為《[Sunny
+7月5日，GFRIEND透過官方Facebook及Instagram宣布將於7月19日發行夏日迷你專輯，並同時公開兩張預告畫報。7月9日，在官方Facebook上公開了回歸行程表\[79\]，並宣布夏日迷你專輯名為《[Sunny
 Summer](../Page/Sunny_Summer.md "wikilink")》。7月10日，在官方 Facebook
 上公開了專輯曲目表，包含同名主打歌《Sunny Summer
-(여름여름해)》在內，共收錄五首歌曲。由知名製作人二段橫踢創作，首次與二段橫踢合作\[81\]。陸續於11日、13日、15日及16日，在官方
+(여름여름해)》在內，共收錄五首歌曲。由知名製作人二段橫踢創作，首次與二段橫踢合作\[80\]。陸續於11日、13日、15日及16日，在官方
 Facebook
-上公開了多波團體及個人概念照\[82\]，並於7月12日、17日和18日發布了MV和專輯預告\[83\]。7月29日，於《人氣歌謠》進行表演舞台後，結束宣傳。
+上公開了多波團體及個人概念照\[81\]，並於7月12日、17日和18日發布了MV和專輯預告\[82\]。7月29日，於《人氣歌謠》進行表演舞台後，結束宣傳。
 
 10月10日，GFRIEND發行首張日本單曲《[Memoria/夜(Time for the moon
 night)](https://zh.wikipedia.org/wiki/Memoria/夜\(Time_for_the_moon_night\) "wikilink")》的雙A面單曲。12月7日，日本官方发出消息，明年二月和三月将在日本发行双月单曲。12月17日，官方宣布，目標明年1月以正規專輯回歸。12月23日，GFRIEND透過官方Facebook及Instagram宣布將於明年1月14日發行第二張正規專輯《[Time
 for us](../Page/Time_for_us.md "wikilink")》，並宣布主打歌名為《해야
-(Sunrise)》\[84\]。25日，在官方 Facebook
-公開專輯曲目表，包含主打歌與其純伴奏版，總共收錄13首歌曲\[85\]。12月29日，Source
-Music 宣布 GFRIEND 的官方 Fan cafe 已經有超過十萬人加入，並於30日發布了慶祝影片\[86\]\[87\]。
+(Sunrise)》\[83\]。25日，在官方 Facebook
+公開專輯曲目表，包含主打歌與其純伴奏版，總共收錄13首歌曲\[84\]。12月29日，Source
+Music 宣布 GFRIEND 的官方 Fan cafe 已經有超過十萬人加入，並於30日發布了慶祝影片\[85\]\[86\]。
 
 ### 2019年：《Time For Us》、首次日本巡迴演唱會、第二次亞洲巡迴演唱會
 
 1月5日，GFRIEND獲得第33屆金唱片最佳女子團體獎。1月1-11日，GFRIEND在官方 Facebook 上公開了主打歌《Sunrise
 (해야)》的動態海報，並繼續公開多波團體及個人概念照。5日、12日及13日，在官方 Facebook 及 Youtube 上公開主打歌的 MV
-預告和專輯預告\[88\]\[89\]。
+預告和專輯預告\[87\]\[88\]。
 
 1月12日，日本官方發出消息，2月13日將發行第二張日本單曲《[SUNRISE](../Page/SUNRISE_\(GFRIEND單曲\).md "wikilink")》。收錄第二张正规专辑《[Time
 for
@@ -154,9 +152,9 @@ pam pam」。1月14日，第二张正规专辑《[Time for
 us](../Page/Time_for_us.md "wikilink")》正式发布，專輯的音源與主打歌MV公開，並舉辦Showcase表演新歌。《Time
 for
 us》在台灣、香港、印尼、馬來西亞、菲律賓、泰國等9個國家的iTunes綜合專輯榜摘下冠軍。此外，主打歌《Sunrise》也在韓國的Soribada、Bugs、Naver音源榜中摘冠，在Genie也拿下亞軍，在Mnet則獲得第三名。該曲還打入了香港、馬來西亞等10個國家的iTunes綜合歌曲榜Top
-10\[90\]。22日，在The Show成功拿下《Sunrise (해야)》第一個一位。23日，在Show
+10\[89\]。22日，在The Show成功拿下《Sunrise (해야)》第一個一位。23日，在Show
 Champion拿下《Sunrise (해야)》第二個一位，並以正規二輯《Time for us》打入告示牌 World Album
-Chart 第 12 名，也挟著網路社群間直線飆升的人氣，而在 Social 50 榜上位居第 29 名\[91\]。24日，在M
+Chart 第 12 名，也挟著網路社群間直線飆升的人氣，而在 Social 50 榜上位居第 29 名\[90\]。24日，在M
 Countdown拿下《Sunrise (해야)》第三個一位，GFRIEND在M
 Countdown拿到出道以來的第50個一位。25日，在Music
 Bank拿下《Sunrise (해야)》第四個一位。26日，在Show\! Music Core拿下《Sunrise
@@ -170,11 +168,18 @@ ver.)](../Page/SUNRISE_\(GFRIEND單曲\).md "wikilink")》正式版MV。2月16�
 
 4月25日，發行GFRIEND FIRST PHOTOBOOK
 
+5月19日及5月20日，在首爾舉行第二次亞洲巡迴演唱會《GO GO GFRIEND\!》的首個場次，演唱從2015出道到2019《Time
+for us》中許多歌曲，也首次表演多首歌曲，隊長Sowon更透露，原本出道曲原是演唱會上小分隊的表演曲目，會來才改成以《[Glass
+Bead](../Page/Season_of_Glass.md "wikilink")》出作為出道曲。為此所屬公司[Source
+Music特別於](https://zh.wikipedia.org/wiki/Source_Music "wikilink")19年3月1日公開〈GFRIEND
+: Back To The
+Past〉企劃，特別在企劃中播出GFRIEND以前的各表演花絮。企劃最終回於5月23日公開，整個系列以演唱會上小分隊的表演作結尾。
+
 ## 成員資料
 
   - 名字**粗體**為隊長
 
-| 成員資料 \[92\]                              |
+| 成員資料 \[91\]                              |
 | ---------------------------------------- |
 | 藝名                                       |
 | 藝名                                       |
@@ -251,6 +256,7 @@ ver.)](../Page/SUNRISE_\(GFRIEND單曲\).md "wikilink")》正式版MV。2月16�
   - 2016：《GFRIEND所愛的歐洲》
   - 2017：《[The Friends in
     亞得里亞海](../Page/The_Friends_in_亞得里亞海.md "wikilink")》
+  - 2019：《[G-LOG](https://zh.wikipedia.org/wiki/G-LOG "wikilink")》
 
 ## 出版物
 
@@ -312,7 +318,7 @@ ver.)](../Page/SUNRISE_\(GFRIEND單曲\).md "wikilink")》正式版MV。2月16�
 
 | 日期                                       | 種類                                                                        | 商品名稱                                 | 合作藝人         | 來源           |
 | ---------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------ | ------------ | ------------ |
-| 2015年                                    | 休閒服飾                                                                      | 「Akiii Classic 運動鞋」                  | rowspan="17" | \[93\]\[94\] |
+| 2015年                                    | 休閒服飾                                                                      | 「Akiii Classic 運動鞋」                  | rowspan="17" | \[92\]\[93\] |
 | 食品                                       | 「Hosigi Chicken 炸雞」                                                       |                                      |              |              |
 | 手機遊戲                                     | 「[艾爾之光線上遊戲](../Page/艾爾之光.md "wikilink")」                                  |                                      |              |              |
 | 「[王牌對決線上遊戲](../Page/王牌對決.md "wikilink")」 |                                                                           |                                      |              |              |
@@ -321,7 +327,7 @@ ver.)](../Page/SUNRISE_\(GFRIEND單曲\).md "wikilink")》正式版MV。2月16�
 | 休閒服飾                                     | 「American Tourister 旅行箱」                                                  |                                      |              |              |
 | 化妝產品                                     | 「Etude House 化妝品」                                                         |                                      |              |              |
 | 手機遊戲                                     | 「棒球經理 手機遊戲」                                                               |                                      |              |              |
-| 線上遊戲                                     | 「[突擊風暴線上遊戲](https://zh.wikipedia.org/wiki/突擊風暴 "wikilink")」               | \[95\]                               |              |              |
+| 線上遊戲                                     | 「[突擊風暴線上遊戲](https://zh.wikipedia.org/wiki/突擊風暴 "wikilink")」               | \[94\]                               |              |              |
 | 食品                                       | 「Hosigi Chicken炸雞」                                                        |                                      |              |              |
 | 手錶品牌                                     | 「Swatch 手錶」                                                               |                                      |              |              |
 | 眼鏡品牌                                     | 「Red Bull Eyewear 眼鏡」                                                     |                                      |              |              |
@@ -329,14 +335,14 @@ ver.)](../Page/SUNRISE_\(GFRIEND單曲\).md "wikilink")》正式版MV。2月16�
 | 休閒服飾                                     | 「樂天世界水上樂園」                                                                |                                      |              |              |
 | 化妝產品                                     | 「CLINIQUE」                                                                |                                      |              |              |
 | 應用程式                                     | 「Poolus APP移動應用程式」                                                        |                                      |              |              |
-| 休閒服飾                                     | 「Smart 服飾」                                                                | [防彈少年團](../Page/防彈少年團.md "wikilink") | \[96\]       |              |
+| 休閒服飾                                     | 「Smart 服飾」                                                                | [防彈少年團](../Page/防彈少年團.md "wikilink") | \[95\]       |              |
 | 2017年                                    | 電訊品牌                                                                      | 「SKtelecom T world」                  | rowspan="2"  |              |
-| 隱形眼鏡品牌                                   | 「LENS NINE」                                                               | \[97\]                               |              |              |
+| 隱形眼鏡品牌                                   | 「LENS NINE」                                                               | \[96\]                               |              |              |
 | 2018年                                    | 電訊品牌                                                                      | 「Celebon」                            | rowspan="3"  |              |
 | 空氣清淨機品牌                                  | 「DK 空氣清淨機」                                                                |                                      |              |              |
-| 運動鞋品牌                                    | 「Reebok 運動鞋」                                                              | \[98\]                               |              |              |
-| 2019年                                    | 化妝產品                                                                      | 「Innisfree 化妝品」                      | rowspan="3"  |              |
-|                                          |                                                                           |                                      |              |              |
+| 運動鞋品牌                                    | 「Reebok 運動鞋」                                                              | \[97\]                               |              |              |
+| 2019年                                    | 化妝產品                                                                      | 「Innisfree 化妝品」                      | rowspan="2"  |              |
+| 汽車品牌                                     | 「Hyundai 汽車」                                                              | \[98\]                               |              |              |
 
 ## 演唱會
 
@@ -594,7 +600,7 @@ ver.)](../Page/SUNRISE_\(GFRIEND單曲\).md "wikilink")》正式版MV。2月16�
 </tbody>
 </table>
 
-  - 《GFRIEND 2019 ASIA TOUR "GOGO GFRIEND"》
+  - 《GFRIEND 2019 ASIA TOUR "GO GO GFRIEND"》
 
 <table>
 <thead>
@@ -613,7 +619,7 @@ ver.)](../Page/SUNRISE_\(GFRIEND單曲\).md "wikilink")》正式版MV。2月16�
 <tr class="even">
 <td><p>2019年6月29日</p></td>
 <td><p>吉隆坡站</p></td>
-<td><p>馬拉瓦蒂室內體育場</p></td>
+<td><p><a href="../Page/美拉华蒂体育馆.md" title="wikilink">美拉华蒂体育馆</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2019年7月20日</p></td>
@@ -628,7 +634,7 @@ ver.)](../Page/SUNRISE_\(GFRIEND單曲\).md "wikilink")》正式版MV。2月16�
 <tr class="odd">
 <td><p>2019年8月3日</p></td>
 <td><p>站</p></td>
-<td><p>亞洲國際博覽館 Hall 10</p></td>
+<td><p><a href="../Page/亞洲國際博覽館.md" title="wikilink">亞洲國際博覽館</a> Hall 10</p></td>
 </tr>
 <tr class="even">
 <td><p>2019年8月23日</p></td>

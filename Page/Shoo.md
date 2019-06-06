@@ -382,7 +382,7 @@ Shoo與職業籃球運動員經過一年多的交往，於2010年4月11日結婚
 
   - [S.E.S.](https://sesalways.wordpress.com)的[WordPress](../Page/WordPress.com.md "wikilink")
 
-  - [S.E.S.](http://club.chol.com/fanses)的歌迷會專頁
+  - [S.E.S.](https://web.archive.org/web/20050425001332/http://club.chol.com/fanses/)的歌迷會專頁
 
 [Category:韓語流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓語流行音樂歌手 "wikilink")
 [Category:韓國流行音樂歌手](https://zh.wikipedia.org/wiki/Category:韓國流行音樂歌手 "wikilink")

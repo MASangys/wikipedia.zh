@@ -75,10 +75,10 @@ production**是日本一家以執行動畫的企畫和製作為主要事業內�
 <tr class="odd">
 <td><p>2012年</p></td>
 <td><p><a href="../Page/妖狐×僕SS.md" title="wikilink">妖狐×僕SS</a></p></td>
+<td></td>
 <td><p>1月－3月</p></td>
 <td><p>津田尚克</p></td>
 <td><p>漫畫</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">

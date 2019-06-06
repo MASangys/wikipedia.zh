@@ -84,6 +84,8 @@ Launcher）”，並能直接安裝[Chrome線上應用程式商店的應用程�
 | 2.1             |
 | 2.2             |
 | 2.3             |
+| 2.4             |
+| 2.5             |
 
 ## 相關
 
@@ -115,6 +117,7 @@ Launcher）”，並能直接安裝[Chrome線上應用程式商店的應用程�
 [Category:跨平台軟體](https://zh.wikipedia.org/wiki/Category:跨平台軟體 "wikilink")
 [Category:2015年軟體](https://zh.wikipedia.org/wiki/Category:2015年軟體 "wikilink")
 [Category:2016年软件](https://zh.wikipedia.org/wiki/Category:2016年软件 "wikilink")
+[Category:基于Chromium的浏览器](https://zh.wikipedia.org/wiki/Category:基于Chromium的浏览器 "wikilink")
 
 1.
 

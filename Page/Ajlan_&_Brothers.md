@@ -82,8 +82,8 @@ Right Fax软件、SCOM软件、SMS软件用于公司信息的管理来保证所�
 [Category:沙地阿拉伯公司](https://zh.wikipedia.org/wiki/Category:沙地阿拉伯公司 "wikilink")
 [Category:服裝公司](https://zh.wikipedia.org/wiki/Category:服裝公司 "wikilink")
 
-1.  [伊斯兰头巾市场的领导者，沙特阿基兰兄弟公司成功发展的故事](http://www.alriyadhtrading.com/show_content_sub.php?CUV=42&Model=M&SubModel=31&ID=1170&ShowAll=On),
-    利雅得商业。
+1.  [伊斯兰头巾市场的领导者，沙特阿基兰兄弟公司成功发展的故事](http://www.alriyadhtrading.com/show_content_sub.php?CUV=42&Model=M&SubModel=31&ID=1170&ShowAll=On)
+    , 利雅得商业。
 
 2.  [沙特阿基兰兄弟公司借助最好的设计与制造顾问来满足客户的需求](http://www.alraseef.net/more.php?thisid=16590&thiscat=18)
     , AlRaseef.net.

@@ -91,7 +91,7 @@
   - [K歌之王- Eason Chan Music Wiki
     迅音樂：陳奕迅音樂維基](http://www.easonmusic.com/wiki/K%E6%AD%8C%E4%B9%8B%E7%8E%8B)
 
-[Category:中文流行歌曲](https://zh.wikipedia.org/wiki/Category:中文流行歌曲 "wikilink")
+[Category:華語流行歌曲](https://zh.wikipedia.org/wiki/Category:華語流行歌曲 "wikilink")
 [Category:2000年歌曲](https://zh.wikipedia.org/wiki/Category:2000年歌曲 "wikilink")
 [Category:陳奕迅歌曲](https://zh.wikipedia.org/wiki/Category:陳奕迅歌曲 "wikilink")
 [Category:香港歌曲](https://zh.wikipedia.org/wiki/Category:香港歌曲 "wikilink")

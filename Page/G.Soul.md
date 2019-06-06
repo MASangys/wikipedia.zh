@@ -60,6 +60,8 @@ A成員](https://zh.wikipedia.org/wiki/miss_A "wikilink")[Min正在交往中](ht
   - [Junoflo](../Page/Junoflo.md "wikilink") ([Show Me The Money
     6](../Page/Show_Me_The_Money_6.md "wikilink")) － Eyes on me（Feat.
     G.Soul, [Dok2](../Page/Dok2.md "wikilink")）（2017年8月19日）
+  - [LEE HI(이하이)](../Page/李遐怡.md "wikilink")－NO WAY (Feat.
+    G.Soul)（2019年5月30日）
 
 ### 原聲帶
 

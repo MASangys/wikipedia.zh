@@ -3794,18 +3794,25 @@ JoJo的奇妙冒險：星塵遠征軍</a></p></td>
 <tr class="even">
 <td><p><a href="https://zh.wikipedia.org/wiki/三次元女友" title="wikilink">三次元女友</a></p></td>
 <td><p>9月18日</p></td>
-<td></td>
+<td><p>第一季</p></td>
 <td><p>12</p></td>
 <td><p>星期一及二 20:00－21:00</p></td>
 </tr>
 <tr class="odd">
+<td><p>2019年5月22日</p></td>
+<td><p>第二季</p></td>
+<td><p>12</p></td>
+<td><p>星期三 20:00－21:00</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/銀河英雄傳說.md" title="wikilink">銀河英雄傳說Die</a> Neue These</p></td>
 <td><p>11月21日</p></td>
 <td></td>
 <td><p>12</p></td>
 <td><p>星期一及二 20:00－21:00</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>註釋:</strong></p>
 <references group="註" /></td>
 <td></td>
@@ -3855,7 +3862,7 @@ JoJo的奇妙冒險：星塵遠征軍</a></p></td>
 <td><p>4月11日</p></td>
 <td></td>
 <td><p>預定12</p></td>
-<td><p>星期二 20:30－21:00</p></td>
+<td><p>星期四 20:30－21:00</p></td>
 </tr>
 <tr class="even">
 <td><p><strong>註釋:</strong></p>

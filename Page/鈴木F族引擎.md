@@ -2,7 +2,7 @@
 
 ## 沿革與概要
 
-此族引擎源起第二代鈴木Jimny外銷專用（LJ80系），1972年開發之際乃鈴木第一具[汽車](https://zh.wikipedia.org/wiki/汽車 "wikilink")[四衝程循環引擎](https://zh.wikipedia.org/wiki/四冲程循环 "wikilink")。後來該公司惟恐搭載[二衝程循環引擎的第四代鈴木Fronte無法通過新制的](../Page/两冲程循环.md "wikilink")[昭和](../Page/昭和.md "wikilink")50年度汽車廢氣排放標準\[1\]，遂以[直列四缸](../Page/直列四缸引擎.md "wikilink")、四衝程循環的F8A型為基礎，修改成直列三缸、排氣量543c.c.的F5A型，於是F5A型逐漸廣泛搭載於其他車種。
+此族引擎源起第二代鈴木Jimny外銷專用（LJ80系），1972年開發之際乃鈴木第一具[汽車](https://zh.wikipedia.org/wiki/汽車 "wikilink")[四衝程循環引擎](../Page/四冲程循环.md "wikilink")。後來該公司惟恐搭載[二衝程循環引擎的第四代鈴木Fronte無法通過新制的](../Page/两冲程循环.md "wikilink")[昭和](../Page/昭和.md "wikilink")50年度汽車廢氣排放標準\[1\]，遂以[直列四缸](../Page/直列四缸引擎.md "wikilink")、四衝程循環的F8A型為基礎，修改成直列三缸、排氣量543c.c.的F5A型，於是F5A型逐漸廣泛搭載於其他車種。
 
 F族引擎的特徵在於上死點附近，[汽缸蓋和](https://zh.wikipedia.org/wiki/汽缸蓋 "wikilink")[活塞皆有心形凹陷](https://zh.wikipedia.org/wiki/活塞 "wikilink")（即），油氣燃燒時形成渦漩狀而加快燃燒速度。但是這個特殊的構造並未使用於多汽門結構的型式。此族引擎的共同點為：直列型四衝程循環，[凸輪軸以正時皮帶驅動](https://zh.wikipedia.org/wiki/凸輪軸 "wikilink")，以及冷卻方式皆為水冷。
 
@@ -274,7 +274,7 @@ F6A型經歷過不同程度的調校，最大馬力及扭力分別如下所示�
 
 ## F8A型（SOHC）
 
-排氣量797c.c.的**F8A型**乃是該公司第一具[四衝程引擎](https://zh.wikipedia.org/wiki/四冲程循环 "wikilink")，缸徑62.0mm、行程66.0mm、壓縮比8.7：1，採取[直列四缸](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")、[SOHC的設計](https://zh.wikipedia.org/wiki/顶置凸轮轴#单顶置凸轮轴（SOHC） "wikilink")。最大馬力22kW
+排氣量797c.c.的**F8A型**乃是該公司第一具[四衝程引擎](../Page/四冲程循环.md "wikilink")，缸徑62.0mm、行程66.0mm、壓縮比8.7：1，採取[直列四缸](https://zh.wikipedia.org/wiki/直列四缸 "wikilink")、[SOHC的設計](https://zh.wikipedia.org/wiki/顶置凸轮轴#单顶置凸轮轴（SOHC） "wikilink")。最大馬力22kW
 / 5,000rpm，扭力峰值55N·m / 3,000rpm-3500rpm。車型：
 
   - 1977年-1982年：[第一代鈴木Jimny

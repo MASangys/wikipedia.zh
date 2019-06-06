@@ -207,7 +207,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <tr class="even">
 <td><p><a href="../Page/雷頓的神秘之旅_卡翠愛兒與大富翁的陰謀.md" title="wikilink">雷頓神秘偵探社 ～卡特莉的解謎事件簿～</a></p></td>
 <td></td>
-<td><p>4月－<strong>播出中</strong></p></td>
+<td><p>4月－2019年3月</p></td>
 <td><p><a href="../Page/滿仲勸.md" title="wikilink">滿仲勸</a></p></td>
 <td><p>遊戲</p></td>
 <td></td>
@@ -253,15 +253,15 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <td><p>2019年</p></td>
 <td><p><a href="../Page/魔法少女特殊戰明日香.md" title="wikilink">魔法少女特殊戰明日香</a></p></td>
 <td></td>
-<td><p>1月－<strong>播出中</strong></p></td>
+<td><p>1月－3月</p></td>
 <td><p>山本秀世</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/深夜的超自然公務員.md" title="wikilink">深夜的超自然公務員</a></p></td>
 <td></td>
-<td></td>
-<td><p>4月－未定</p></td>
+<td><p>4月－<strong>播出中</strong></p></td>
 <td><p>渡邊哲哉</p></td>
 <td></td>
 <td></td>
@@ -270,7 +270,7 @@ SHOOTER](../Page/BLACK★ROCK_SHOOTER.md "wikilink")》建立人脈基礎（全�
 <tr class="odd">
 <td></td>
 <td></td>
-<td><p>未定</p></td>
+<td><p>7月－未定</p></td>
 <td><p>臼井文明</p></td>
 <td></td>
 <td></td>

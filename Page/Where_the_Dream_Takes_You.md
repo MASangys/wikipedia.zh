@@ -23,41 +23,47 @@ Warren共同創作](https://zh.wikipedia.org/wiki/Diane_Warren "wikilink")\[1\]�
 </tr>
 <tr class="even">
 <td></td>
+<td><p>طريق النور (Taree' En-Noor)</p></td>
+<td><p>光之路</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/Adel_Hakki" title="wikilink">Adel Hakki</a></p></td>
+</tr>
+<tr class="odd">
+<td></td>
 <td><p>Aussi Loin Que Tes Reves</p></td>
 <td><p>你遙遠的夢</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Lena_Ka" title="wikilink">Lena Ka</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>隨夢而行</p></td>
 <td></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/容祖兒" title="wikilink">容祖兒</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>Segui I Sogni</p></td>
 <td><p>跟隨你的夢</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Gazosa" title="wikilink">Gazosa</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>Donde Va Tu Sueño</p></td>
 <td><p>你的夢去哪裡</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/Chayanne" title="wikilink">Chayanne</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>너의꿈찾아（Neouikkumchaja）</p></td>
 <td><p>尋找你的夢</p></td>
 <td><p><a href="../Page/安七炫.md" title="wikilink">安七炫</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p>情不自禁</p></td>
 <td></td>
 <td><p><a href="../Page/蔡依林.md" title="wikilink">蔡依林</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>（Tām thī̀ cı ṭhex f̄ạn）</p></td>
 <td><p>觸碰心靈的夢</p></td>

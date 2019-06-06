@@ -47,6 +47,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <ul>
 <li>發行日期：2019年4月1日</li>
 <li>語言：韓語</li>
+<li>專輯銷量:210,189+[5]</li>
 </ul></td>
 <td></td>
 </tr>
@@ -75,6 +76,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 | 2016年10月7日                   | 《[SM STATION](../Page/SM_STATION.md "wikilink")》                                   | Years                              | 名DJ [Alesso](https://zh.wikipedia.org/wiki/Alesso "wikilink") |
 | 2017年1月23日                   | 《Mixxxture Project Vol.1》                                                          | 기다렸다 가（nosedive）                   | [Dynamic Duo](../Page/Dynamic_Duo.md "wikilink")              |
 | 2017年11月3日                   | 《[SM STATION S2](https://zh.wikipedia.org/wiki/SM_STATION_2 "wikilink")》           | Bye Babe                           | [10cm](../Page/10cm.md "wikilink")                            |
+| 2019年5月13日                   |                                                                                    | May We Bye                         | 林韓星                                                           |
 
 ### OST
 
@@ -106,7 +108,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 </tr>
 <tr class="odd">
 <td><p>2016年7月6日</p></td>
-<td><p>《美好的意外》</p></td>
+<td><p>《<a href="../Page/美好的意外.md" title="wikilink">美好的意外</a>》</p></td>
 <td><p>美好的意外</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/金俊勉" title="wikilink">Suho</a></p></td>
 </tr>
@@ -130,7 +132,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 </tr>
 <tr class="odd">
 <td><p>2018年10月16日</p></td>
-<td><p>《<a href="../Page/百日的郎君.md" title="wikilink">百日的郎君</a>》[5]</p></td>
+<td><p>《<a href="../Page/百日的郎君.md" title="wikilink">百日的郎君</a>》[6]</p></td>
 <td><p>櫻花戀歌（Cherry Blossom Love Song）</p></td>
 <td></td>
 </tr>
@@ -417,7 +419,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <td><p>4月10日</p></td>
 <td><p>MBC</p></td>
 <td><p>《<a href="https://zh.wikipedia.org/wiki/黃金漁場_Radio_Star" title="wikilink">黃金漁場 Radio Star</a>》</p></td>
-<td><p>[6]</p></td>
+<td><p>[7]</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月13日</p></td>
@@ -460,6 +462,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 | 2017年11月3日  | Bye Babe                           | Chen & [10cm](../Page/10cm.md "wikilink")                               | [SM STATION第二季](../Page/SM_STATION.md "wikilink")       |
 | 2017年12月29日 | Dear My Family (Live Concert Ver.) | SMTOWN                                                                  |                                                         |
 | 2019年4月1日   | Beautiful goodbye                  | Chen                                                                    | 《April, and a flower》                                   |
+| 2019年5月13日  | May We Bye                         | Chen & 林韓星                                                              |                                                         |
 
 ## 影音作品
 
@@ -469,10 +472,10 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 | --------- | ------- | -------------------------------------------------------------------------------------------------------------- |
 | 期數        | 雜誌名稱    | 備注                                                                                                             |
 | 2014年9月刊  | Nylon   |                                                                                                                |
-| 2015年8月刊  | star1   | 與[Baekhyun](../Page/伯賢.md "wikilink")、Suho\[7\]                                                                |
-| 2015年12月刊 | Vogue   | 與[Suho](../Page/Suho.md "wikilink")、[Kai](../Page/Kai.md "wikilink")、[Sehun](../Page/Sehun.md "wikilink")\[8\] |
-| 2016年10月刊 | Vivi    | 日本雜誌\[9\]                                                                                                      |
-| 2017年3月刊  | Singles | 封面\[10\]                                                                                                       |
+| 2015年8月刊  | star1   | 與[Baekhyun](../Page/伯賢.md "wikilink")、Suho\[8\]                                                                |
+| 2015年12月刊 | Vogue   | 與[Suho](../Page/Suho.md "wikilink")、[Kai](../Page/Kai.md "wikilink")、[Sehun](../Page/Sehun.md "wikilink")\[9\] |
+| 2016年10月刊 | Vivi    | 日本雜誌\[10\]                                                                                                     |
+| 2017年3月刊  | Singles | 封面\[11\]                                                                                                       |
 
 ## 其他演出
 
@@ -547,7 +550,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <td><p>Annual Soompi Awards</p></td>
 <td><p>最佳OST</p></td>
 <td><p>《For You》</p></td>
-<td><p>[11]</p></td>
+<td><p>[12]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -578,7 +581,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 <tr class="even">
 <td><p>2016</p></td>
 <td><ul>
-<li>K-Pop一百張最帥面孔 第63名[12]</li>
+<li>K-Pop一百張最帥面孔 第63名[13]</li>
 </ul></td>
 </tr>
 </tbody>
@@ -699,7 +702,7 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 2.
 3.
 4.
-5.
+5.  [2019.04](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=04&hitYear=2019&termGbn=month)
 6.
 7.
 8.
@@ -707,3 +710,4 @@ The Heights》。Chen在音樂劇中飾演主角Benny\[3\]。
 10.
 11.
 12.
+13.

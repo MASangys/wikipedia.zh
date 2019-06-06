@@ -5,8 +5,7 @@ Song**〉（可译为**地球之歌**）是[迈克尔·杰克逊在](../Page/迈
 
 迈克尔的父亲[约瑟夫·杰克逊在一次采访中透露这首歌是迈克尔生前最喜欢的一首歌](https://zh.wikipedia.org/wiki/约瑟夫·杰克逊 "wikilink")。值得一提的是，迈克尔过世的前一天的最后排练曲就是它。
 
-这首歌也被收录进了[This Is It (迈克尔·杰克逊专辑)This Is
-It中](https://zh.wikipedia.org/wiki/This_Is_It_\(迈克尔·杰克逊专辑\)This_Is_It "wikilink")。\[2\]
+这首歌也被收录进了[This Is It中](../Page/迈克尔·杰克逊：就是这样.md "wikilink")。\[2\]
 
 ## 组成
 

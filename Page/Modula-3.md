@@ -29,11 +29,13 @@ IDE已经开源几年后才发布，新的名称是CM3-IDE。2002年3月，elego
 
 语言语法的一个常见示例是Hello world程序。
 
-`MODULE  Main ;  `
-`IMPORT  IO ; `
-`开始`
-`  IO 。Put （“Hello World \ n” ）`
-`END  Main 。`
+``` modula3 numberLines
+ MODULE Main;
+ IMPORT IO;
+ BEGIN
+   IO.Put("Hello World\n")
+ END Main.
+```
 
 Modula-3中的所有程序至少具有一个模块文件，而大多数程序还包括一个接口文件，客户端使用该文件来访问模块中的数据。与其他语言一样，Modula-3程序必须导出Main模块，该模块可以是名为Main.m3的文件，也可以是可以调用EXPORT以导出Main模块的文件。
 
@@ -47,20 +49,24 @@ MODULE Foo 出口 主要 建议模块文件名与实际模块名称相同，但�
 
 首先，所有的编译单元要么INTERFACE或实施MODULE的一个味或其它S，。从关键字开始的接口编译单元INTERFACE定义常量，类型，变量，异常和过程。实现模块以关键字开头MODULE，提供实际代码以及实现接口所需的任何其他常量，类型或变量。默认情况下，实现模块将实现相同名称的接口，但模块可以显式EXPORT指向不同名称的模块。例如，主程序导出Main接口的实现模块。
 
-`MODULE  HelloWorld  EXPORTS  Main ;  `
-`IMPORT  IO ; `
-`开始`
-`  IO 。Put （“Hello World \ n” ）`
-`END  HelloWorld 。`
+``` modula3 numberLines
+ MODULE HelloWorld EXPORTS Main;
+ IMPORT IO;
+ BEGIN
+   IO.Put("Hello World\n")
+ END HelloWorld.
+```
 
 任何编译单元都可以使用IMPORT其他接口，但禁止使用循环导入。这可以通过从实现MODULE导入来解决。可以使用以下FROM Module
 IMPORT Item \[, Item\]\*语法导入导入模块中的实体，而不仅仅是模块名称：
 
-`MODULE  HelloWorld  EXPORTS  Main ;  `
-`来自 IO  IMPORT  Put ; `
-`BEGIN `
-`  Put （“Hello World \ n” ）`
-`END  HelloWorld 。`
+``` modula3 numberLines
+ MODULE HelloWorld EXPORTS Main;
+ FROM IO IMPORT Put;
+ BEGIN
+   Put("Hello World\n")
+ END HelloWorld.
+```
 
 通常，只导入接口，并使用“点”表示法访问接口中的项目（类似于访问记录中的字段）。典型用法是为每个接口定义一个数据结构（记录或对象）以及任何支持过程。这里的主要类型将获得名称“T”，其中一个使用如下MyModule.T。
 

@@ -49,7 +49,7 @@ grand22.JPG <File:Shinjuku> grand24.JPG <File:Shinjuku> grand25.JPG
 
 ## 外部連結
 
-  - [住友不動産新宿グランドタワー](http://office.sumitomo-rd.co.jp/shinjuku_grand/)
+  - [住友不動産新宿グランドタワー](https://web.archive.org/web/20150222004842/http://office.sumitomo-rd.co.jp/shinjuku_grand/)
 
 [Category:東京都摩天大樓](https://zh.wikipedia.org/wiki/Category:東京都摩天大樓 "wikilink")
 

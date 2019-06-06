@@ -128,6 +128,7 @@
 | 5月26日 - 6月30日     | [tvN](../Page/TVN.md "wikilink")                               | [心酸旅行](https://zh.wikipedia.org/wiki/窮遊 "wikilink")\[43\]          | Chanyeol                                                        | 25-30                                            |            |
 | 12月1日 - 2019年2月9日 | [騰訊視頻](https://zh.wikipedia.org/wiki/騰訊視頻 "wikilink")          | [即刻電音](https://zh.wikipedia.org/wiki/即刻電音 "wikilink")\[44\]        | Lay                                                             | 全輯                                               |            |
 | 2019              | 1月21日 - 4月6日                                                   | [愛奇藝](https://zh.wikipedia.org/wiki/愛奇藝 "wikilink")                | [青春有你](../Page/青春有你.md "wikilink")                              | 全輯／青春製作人代表                                       |            |
+| 5月12日 -           | 東方衛視                                                           | [極限挑戰第五季](https://zh.wikipedia.org/wiki/極限挑戰 "wikilink")           |                                                                 |                                                  |            |
 
 ## 綜藝節目
 
@@ -610,56 +611,60 @@
 <td><p>3月23日</p></td>
 </tr>
 <tr class="odd">
+<td><p>4月30日<br />
+5月06日</p></td>
+</tr>
+<tr class="even">
 <td><p>5月1日<br />
 5月8日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>5月11日<br />
 5月12日<br />
 5月18日<br />
 5月19日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月24日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月10日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月15日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月18日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7月7日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7月17日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月10日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月14日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月17日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月18日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月19日<br />
 9月26日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>10月29日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月5日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月11日<br />
 11月15日<br />
 11月22日<br />
@@ -668,19 +673,19 @@
 12月16日<br />
 12月23日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>11月14日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>11月27日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月2日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月10日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月23日</p></td>
 </tr>
 </tbody>

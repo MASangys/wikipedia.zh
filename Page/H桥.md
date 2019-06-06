@@ -82,7 +82,7 @@ inverter，采用级联H桥的方式，使得在同等开关频率下谐波失�
 <!-- end list -->
 
   - [H-Bridges on the BEAM Robotics
-    Wiki](http://www.beam-wiki.org/wiki/H-bridge)
+    Wiki](https://web.archive.org/web/20090514025559/http://www.beam-wiki.org/wiki/H-bridge)
   - [Derivation of formulas to estimate H-bridge controller current
     (Vex, JAGUAR,Victor). Discusses why some H-bridges used in robotics
     have non-linear current and speed

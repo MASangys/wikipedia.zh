@@ -58,7 +58,7 @@
 
 ## 外部連結
 
-  - [官方消息](http://www.eegmusic.com/news/content.php/view/1366)
+  - [官方消息](https://web.archive.org/web/20150205142122/http://www.eegmusic.com/news/content.php/view/1366)
 
 [Category:流行音樂專輯](https://zh.wikipedia.org/wiki/Category:流行音樂專輯 "wikilink")
 [Category:香港音樂專輯](https://zh.wikipedia.org/wiki/Category:香港音樂專輯 "wikilink")

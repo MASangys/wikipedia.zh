@@ -195,66 +195,75 @@ TV》最後一集，發佈送給粉絲的新歌《JUST FOR YOU》（） \[141\]\
 #### MV破億
 
 《LOVE
-SCENARIO》歷經127天，YouTube觀看次數於6月1日突破1億次\[143\]\[144\]，10月31日超過兩億次\[145\]，為iKON第一首破億MV；7月17日[韓國傍晚播出的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")[深夜正式演藝報導](../Page/深夜正式演藝.md "wikilink")7月在韓國門戶網站搜索《LOVE
+SCENARIO》歷經127天，YouTube觀看次數於6月1日突破1億次\[143\]\[144\]，10月31日超過兩億次\[145\]，隔年5月19日破三億次\[146\]，為iKON第一首破億MV；7月17日[韓國傍晚播出的](https://zh.wikipedia.org/wiki/韓國 "wikilink")[SBS](https://zh.wikipedia.org/wiki/SBS "wikilink")[深夜正式演藝報導](../Page/深夜正式演藝.md "wikilink")7月在韓國門戶網站搜索《LOVE
 SCENARIO》出現地不是iKON
-MV，而是小學生或幼稚園小朋友錄唱視頻，顯示該曲在幼稚園和小學生間吹起逆襲風\[146\]，記者訪問小朋友們大多不了解歌詞意思，報導中分別訪問童謠專家和大學教授，童謠專家이민숙(音譯：李敏淑)表示：「是四分之四簡單的拍子，和孩子們容易跟唱的簡單旋律的反覆，所以對孩子們來說很有人氣。」電子工程學教授장준혁(音譯：張俊相)表示：「相同的位置以相同的時間差，節奏快地周期性放入特定的擊打音，人們會有中毒性現象，形成一種洗腦效果」\[147\]。成員[具俊會演出](../Page/具俊會.md "wikilink")[MBC電視台綜藝節目](https://zh.wikipedia.org/wiki/MBC "wikilink")[意外的Q時](../Page/意外的Q.md "wikilink")，主持人劉世允問：「《Love
-Scenario》怎麼會在小學生那麼流行？」具俊會答覆：「因為跟童謠有點像」\[148\]\[149\]。
+MV，而是小學生或幼稚園小朋友錄唱視頻，顯示該曲在幼稚園和小學生間吹起逆襲風\[147\]，記者訪問小朋友們大多不了解歌詞意思，報導中分別訪問童謠專家和大學教授，童謠專家이민숙(音譯：李敏淑)表示：「是四分之四簡單的拍子，和孩子們容易跟唱的簡單旋律的反覆，所以對孩子們來說很有人氣。」電子工程學教授장준혁(音譯：張俊相)表示：「相同的位置以相同的時間差，節奏快地周期性放入特定的擊打音，人們會有中毒性現象，形成一種洗腦效果」\[148\]。成員[具俊會演出](../Page/具俊會.md "wikilink")[MBC電視台綜藝節目](https://zh.wikipedia.org/wiki/MBC "wikilink")[意外的Q時](../Page/意外的Q.md "wikilink")，主持人劉世允問：「《Love
+Scenario》怎麼會在小學生那麼流行？」具俊會答覆：「因為跟童謠有點像」\[149\]\[150\]。
 
-成為新一代「小學生統領」（或「幼稚園統領」\[150\]）的iKON為報答孩子們的喜愛，8月4日下午在漢江公園的藝島舉行《PiKONIC
-DAY》，讓家長帶著孩子們免費入場，且能自由拍照、錄影\[151\]\[152\]。多組小朋友們上台演唱不同版本的《LOVE
-SCENARIO》並和成員們拍照錄影，最後的安可曲是小朋友們大合唱《LOVE SCENARIO》\[153\]\[154\]。
+成為新一代「小學生統領」（或「幼稚園統領」\[151\]）的iKON為報答孩子們的喜愛，8月4日下午在漢江公園的藝島舉行《PiKONIC
+DAY》，讓家長帶著孩子們免費入場，且能自由拍照、錄影\[152\]\[153\]。多組小朋友們上台演唱不同版本的《LOVE
+SCENARIO》並和成員們拍照錄影，最後的安可曲是小朋友們大合唱《LOVE SCENARIO》\[154\]\[155\]。
 
 #### 第二次回歸：迷你一輯《New Kids:Continue》
 
 7月17日，官方宣布iKON將於8月2日發行首張迷你專輯《NEW
-KIDS：CONTINUE》回歸歌壇\[155\]\[156\]\[157\]。7月29、30日在官方YouTube頻道上公開了主打歌《Killing
-Me\[158\]\[159\]》的MV預告，8月2日下午6時通過各大數位音樂網站公開線上音源及主打歌《Killing
-Me\[160\]》MV。8月3日以[Tablo的影片在Instagram發起](https://zh.wikipedia.org/wiki/李善雄 "wikilink")「＃죽겠다챌린지
-\#killing_me_challenge」的hashtag活動\[161\]，以主要歌詞「죽겠다」在韓文中與形容詞連用時，有「...（形容詞）得快死了」的含義，發揮創意，PO出有趣的影片\[162\]。接著在8月18日舉辦《iKON
-2018 CONTINUE TOUR》首場演唱會\[163\]。
+KIDS：CONTINUE》回歸歌壇\[156\]\[157\]\[158\]。7月29、30日在官方YouTube頻道上公開了主打歌《Killing
+Me\[159\]\[160\]》的MV預告，8月2日下午6時通過各大數位音樂網站公開線上音源及主打歌《Killing
+Me\[161\]》MV；同日，美國[Billboard對iKON最新迷你專輯](../Page/告示牌_\(雜誌\).md "wikilink")《NEW
+KIDS:CONTINUE》給予好評，指「iKON再度回歸，尤其是主打曲《Killing
+Me》與普通KPOP歌曲不同，旋律會一直腦海縈繞」\[162\]\[163\]。8月3日以[Tablo的影片在Instagram發起](https://zh.wikipedia.org/wiki/李善雄 "wikilink")「＃죽겠다챌린지
+\#killing_me_challenge」的hashtag活動\[164\]，以主要歌詞「죽겠다」在韓文中與形容詞連用時，有「...（形容詞）得快死了」的含義，發揮創意，PO出有趣的影片\[165\]。接著在8月18日舉辦《iKON
+2018 CONTINUE
+TOUR》首場演唱會\[166\]。同月19日[YG娛樂宣布舉行iKON的](../Page/YG娛樂.md "wikilink")《Killing
+Me》cover舞蹈大賽，同年9月30日前，將錄好的舞蹈影片上傳到
+YouTube，然後在iKON官方SNS公告裡提供的Google表單上報名\[167\]\[168\]\[169\]，10月4日公布三組優勝者\[170\]，冠軍「ST.319」\[171\]，亞軍「
+OOPS\! CREW」\[172\]、季軍「K-BOY」\[173\]。
+
+隔年2月8日經由官方YouTube頻道發佈的《Killing Me》MV觀看次數破一億大關，是出道以來最快破億的作品，也是繼《Love
+Scenario》以後，第二首破億MV\[174\]。
 
 #### 亞運閉幕式韓國代表
 
 2018年在印尼雅加達巨港舉行的亞洲運動會（簡稱亞運），於9月2日晚間舉行閉幕儀式中，[Super
-Junior和](../Page/Super_Junior.md "wikilink")[iKON作為韓國藝人代表參與演出](https://zh.wikipedia.org/wiki/iKON "wikilink")\[164\]，讓體育館秒變演唱會！\[165\]當日iKON表演《LOVE
-SCENARIO》和《RHYTHM TA》台下觀眾大合唱應援\[166\]\[167\]。
+Junior和](../Page/Super_Junior.md "wikilink")[iKON作為韓國藝人代表參與演出](https://zh.wikipedia.org/wiki/iKON "wikilink")\[175\]，讓體育館秒變演唱會！\[176\]當日iKON表演《LOVE
+SCENARIO》和《RHYTHM TA》台下觀眾大合唱應援\[177\]\[178\]。
 
 #### 第三次回歸：迷你二輯《New Kids:The Final》
 
 11日[YG娛樂突然公開iKON的回歸預告海報](../Page/YG娛樂.md "wikilink")，宣布他們將於10月1日發行新迷你專輯《NEW
 KIDS: THE FINAL》，一年回歸三次的罕見計畫甚至讓韓國媒體也對 YG
-大感意外\[168\]\[169\]\[170\]！主打曲《Goodbye
-Road》(；)是2015年[B.I尚未出道前](../Page/B.I.md "wikilink")，第一次見到「花路」()一詞，覺得這個詞彙很美好，在思索它的反義詞過程中寫出「離別路」，描述和愛人離別後獨自走的路\[171\]。2017年底錄音及MV拍攝完畢，然而在2018年初決定主打歌時敗給《Love
+大感意外\[179\]\[180\]\[181\]！主打曲《Goodbye
+Road》(；)是2015年[B.I尚未出道前](../Page/B.I.md "wikilink")，第一次見到「花路」()一詞，覺得這個詞彙很美好，在思索它的反義詞過程中寫出「離別路」，描述和愛人離別後獨自走的路\[182\]。2017年底錄音及MV拍攝完畢，然而在2018年初決定主打歌時敗給《Love
 Scenario》。社長[梁鉉錫認為](../Page/梁鉉錫.md "wikilink")《Goodbye
-Road》比較有秋天的氛圍，因此選在10月1日發行\[172\]。發行隔日上午，《Goodbye
+Road》比較有秋天的氛圍，因此選在10月1日發行\[183\]。發行隔日上午，《Goodbye
 Road》在Bugs、MelOn、Mnet、Olleh、Genie 和
 Soribada等六座音源網站的即時榜上拿下冠軍。並在[智利](../Page/智利.md "wikilink")、[印尼](https://zh.wikipedia.org/wiki/印尼 "wikilink")、[哥倫比亞](https://zh.wikipedia.org/wiki/哥倫比亞 "wikilink")、[巴西到](../Page/巴西.md "wikilink")[希臘](https://zh.wikipedia.org/wiki/希臘 "wikilink")⋯⋯等25個國家的[iTunes專輯榜拿下第一名](https://zh.wikipedia.org/wiki/iTunes "wikilink")，刷新了上一首作品《Killing
-Me》第一時間征服24國[iTunes的自我紀錄](https://zh.wikipedia.org/wiki/iTunes "wikilink")\[173\]；並在日本iTunes的K-POP專輯榜摘下冠軍，也在中國QQ音樂的K-POP
+Me》第一時間征服24國[iTunes的自我紀錄](https://zh.wikipedia.org/wiki/iTunes "wikilink")\[184\]；並在日本iTunes的K-POP專輯榜摘下冠軍，也在中國QQ音樂的K-POP
 MV榜奪冠。
 
 #### 得獎
 
 《LOVE
-SCENARIO》以863,888,733下載量拿下[Gaon音樂榜在](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")2018年第1\~50週的數位榜的第一名\[174\]\[175\]，2018年[MMA頒獎典禮](../Page/甜瓜音樂獎.md "wikilink")「最佳作曲人獎」\[176\]和「年度最佳歌曲」獎。[mnet電視台的](../Page/Mnet媒體.md "wikilink")[MAMA頒獎典禮](../Page/Mnet亞洲音樂大獎.md "wikilink")「Best
+SCENARIO》以863,888,733下載量拿下[Gaon音樂榜在](https://zh.wikipedia.org/wiki/Gaon_Chart "wikilink")2018年第1\~50週的數位榜的第一名\[185\]\[186\]，2018年[MMA頒獎典禮](../Page/甜瓜音樂獎.md "wikilink")「最佳作曲人獎」\[187\]和「年度最佳歌曲」獎。[mnet電視台的](../Page/Mnet媒體.md "wikilink")[MAMA頒獎典禮](../Page/Mnet亞洲音樂大獎.md "wikilink")「Best
 Vocal Performance
-Group」獎\[177\]、第33屆[金唱片獎的](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")「數位音源本賞（最佳音源獎）」和「音源大獎」\[178\]\[179\]\[180\]。《第28屆[首爾歌謠大賞](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")》中得「本賞」\[181\]。《[GAON
+Group」獎\[188\]、第33屆[金唱片獎的](https://zh.wikipedia.org/wiki/金唱片獎 "wikilink")「數位音源本賞（最佳音源獎）」和「音源大獎」\[189\]\[190\]\[191\]。《第28屆[首爾歌謠大賞](https://zh.wikipedia.org/wiki/首爾歌謠大賞 "wikilink")》中得「本賞」\[192\]。《[GAON
 Chart Music
-Award](../Page/Gaon_Chart_K-POP大獎.md "wikilink")》連掃三個大獎：「年度專輯製作獎」、音源部門「本年度歌手獎」，以及「年度Long-Run音源獎」\[182\]。
+Award](../Page/Gaon_Chart_K-POP大獎.md "wikilink")》連掃三個大獎：「年度專輯製作獎」、音源部門「本年度歌手獎」，以及「年度Long-Run音源獎」\[193\]。
 
 ### 2019年：改版專輯《New Kids Repackage : The New Kids》、出席《SXSW》音樂祭
 
 2018年12月23日[YG娛樂社長](../Page/YG娛樂.md "wikilink")[梁鉉錫在自己的Instagram上透露](../Page/梁鉉錫.md "wikilink")：「We
 expect the release date for iKON’s New Kids Repackage Album to be around
 early January Will soon announce the official
-timeline.」並公開了iKON新專輯的預告照\[183\]\[184\]。6日在[首爾奧林匹克體操競技場舉行](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")《iKON
+timeline.」並公開了iKON新專輯的預告照\[194\]\[195\]。1月6日在[首爾奧林匹克體操競技場舉行](https://zh.wikipedia.org/wiki/首爾奧林匹克體操競技場 "wikilink")《iKON
 CONTINUE TOUR ENCORE TOUR IN SEOUL》，率先公開新歌《I'M
-OK》的MV和舞台表演\[185\]。7日透過各大音源網站發行「New
+OK》的MV和舞台表演\[196\]。7日透過各大音源網站發行「New
 Kids」系列改版專輯《New Kids Repackage : The New Kids》，並公開主打歌《I'M
-OK》\[186\]的MV；此張專輯共收錄23首歌曲（韓國專輯罕見的曲目數）。iKON改版專輯主打歌《I'M
+OK》\[197\]的MV；此張專輯共收錄23首歌曲（韓國專輯罕見的曲目數）。iKON改版專輯主打歌《I'M
 OK》一推出，截至8日上午，橫掃了馬來西亞、菲律賓、沙烏地阿拉伯、新加坡、越南…等12個國家的
-iTunes 排行榜冠軍\[187\]\[188\]。
+iTunes 排行榜冠軍\[198\]\[199\]。
 
-1月28日與英國《TGE》（）和法國《[MIDEM](../Page/MIDEM.md "wikilink")》稱之為世界三大音樂盛典的《[SXSW](../Page/西南偏南.md "wikilink")》\[189\]，其官方網站宣佈2019年《[SXSW](../Page/西南偏南.md "wikilink")》音樂祭的韓國焦點舞台（），將由iKON壓軸演出\[190\]；這也是iKON第一次在美國演出\[191\]\[192\]。
+1月28日與英國《TGE》（）和法國《[MIDEM](../Page/MIDEM.md "wikilink")》稱之為世界三大音樂盛典的《[SXSW](../Page/西南偏南.md "wikilink")》\[200\]，其官方網站宣佈2019年《[SXSW](../Page/西南偏南.md "wikilink")》音樂祭的韓國焦點舞台（），將由iKON壓軸演出\[201\]；這也是iKON第一次在美國演出\[202\]\[203\]。
 
 ## 成員列表
 
@@ -267,7 +276,7 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 | [BOBBY](https://zh.wikipedia.org/wiki/金知元_\(饶舌者\) "wikilink") |
 | [B.I](../Page/B.I.md "wikilink")                              |
 | [金東赫](../Page/金東赫.md "wikilink")                              |
-| [具俊會](../Page/具俊會.md "wikilink") \[193\]                      |
+| [具俊會](../Page/具俊會.md "wikilink") \[204\]                      |
 | [鄭粲右](../Page/鄭粲右.md "wikilink")                              |
 
 ## 音樂作品
@@ -350,13 +359,13 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 </tr>
 <tr class="even">
 <td><p>2014年</p></td>
-<td><p>「NONAGON」 服飾[194]</p></td>
+<td><p>「NONAGON」 服飾[205]</p></td>
 <td><p><a href="../Page/B.I.md" title="wikilink">B.I</a>&amp; <a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a></p></td>
 <td><p><a href="../Page/Lisa_(泰國歌手).md" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015年</p></td>
-<td><p>「NONAGON」 服飾[195]</p></td>
+<td><p>「NONAGON」 服飾[206]</p></td>
 <td><p><a href="../Page/B.I.md" title="wikilink">B.I</a>&amp; <a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a></p></td>
 <td><p><a href="../Page/Lisa_(泰國歌手).md" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
 </tr>
@@ -367,13 +376,13 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>「SMART」校服[196]</p></td>
+<td><p>「SMART」校服[207]</p></td>
 <td><p>全體</p></td>
 <td><p><a href="../Page/金智秀_(歌手).md" title="wikilink">Jisoo</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a> )</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>「NEPA」運動品牌[197] [198]</p></td>
+<td><p>「NEPA」運動品牌[208] [209]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -386,43 +395,43 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 </tr>
 <tr class="even">
 <td><p>2016年</p></td>
-<td><p>「NONAGON」 服飾[199]</p></td>
+<td><p>「NONAGON」 服飾[210]</p></td>
 <td><p><a href="../Page/B.I.md" title="wikilink">B.I</a>&amp; <a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a></p></td>
 <td><p><a href="../Page/Lisa_(泰國歌手).md" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
 </tr>
 <tr class="odd">
-<td><p>「NIVEA」(妮維雅)極淨刮鬍泡[200]<br />
-「NIVEA」(妮維雅)護脣膏系列[201]</p></td>
+<td><p>「NIVEA」(妮維雅)極淨刮鬍泡[211]<br />
+「NIVEA」(妮維雅)護脣膏系列[212]</p></td>
 <td><p><a href="../Page/宋允亨.md" title="wikilink">宋允亨</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>「LG」 X series[202][203]</p></td>
+<td><p>「LG」 X series[213][214]</p></td>
 <td><p>全體</p></td>
 <td><p><a href="../Page/金智秀_(歌手).md" title="wikilink">Jisoo</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a> )</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>「Pepsi」 百事[204][205]</p></td>
+<td><p>「Pepsi」 百事[215][216]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>「新世界」免稅店[206]</p></td>
+<td><p>「新世界」免稅店[217]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
-<td><p>「NONAGON」服飾[207]</p></td>
+<td><p>「NONAGON」服飾[218]</p></td>
 <td><p><a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a></p></td>
 <td><p><a href="../Page/Lisa_(泰國歌手).md" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
 </tr>
 <tr class="even">
-<td><p>「Reebok Classic」 復古鞋 Club C[208]</p></td>
+<td><p>「Reebok Classic」 復古鞋 Club C[219]</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/宋旻浩" title="wikilink">宋旻浩</a>（<a href="../Page/WINNER.md" title="wikilink">WINNER</a>）</p></td>
 <td></td>
 <td></td>
@@ -434,38 +443,38 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 <td></td>
 </tr>
 <tr class="even">
-<td><p>「NIVEA」(妮維雅)果漾潤彩蜜唇膏[209]<br />
-「 NIVEA」(妮維雅)水漾護唇膏[210]</p></td>
+<td><p>「NIVEA」(妮維雅)果漾潤彩蜜唇膏[220]<br />
+「 NIVEA」(妮維雅)水漾護唇膏[221]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>「新世界」免稅店[211]</p></td>
+<td><p>「新世界」免稅店[222]</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>「109百貨」[212]</p></td>
+<td><p>「109百貨」[223]</p></td>
 <td><p><a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2018年</p></td>
-<td><p>「NONAGON」服飾[213]</p></td>
+<td><p>「NONAGON」服飾[224]</p></td>
 <td><p>|<a href="../Page/金知元_(饒舌者).md" title="wikilink">BOBBY</a></p></td>
 <td><p><a href="../Page/Lisa_(泰國歌手).md" title="wikilink">Lisa</a>（<a href="../Page/BLACKPINK.md" title="wikilink">BLACKPINK</a>）</p></td>
 </tr>
 <tr class="even">
-<td><p>「NIVEA」(妮維雅)Pop Ball潤唇膏[214][215]</p></td>
+<td><p>「NIVEA」(妮維雅)Pop Ball潤唇膏[225][226]</p></td>
 <td><p>全體</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>「GREGORY」[216][217][218]</p></td>
+<td><p>「GREGORY」[227][228][229]</p></td>
 <td><p>韓國首次官方模特</p></td>
 <td></td>
 <td></td>
@@ -477,7 +486,7 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>「Mexicana」 Chicken[219]</p></td>
+<td><p>「Mexicana」 Chicken[230]</p></td>
 <td><p>獨家模特</p></td>
 <td></td>
 <td></td>
@@ -496,20 +505,20 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 | 年份期數       | 雜誌名稱              | 備註                                                                                                                                                                                              |
 | ---------- | ----------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2016年4月特別版 | 《NYLON JAPAN》     | <ref>{{Cite news|url=[http://www.nylon.jp/other093.html|title=BIGBANGの系譜を継ぐ次世代グループiKONが初表紙に](http://www.nylon.jp/other093.html%7Ctitle=BIGBANGの系譜を継ぐ次世代グループiKONが初表紙に)！ NYLON JAPAN限定の超レアプレゼント付き |
-| 2016年5月    | 《DAZED》韓國版        | \[220\]                                                                                                                                                                                         |
-| 2018年2月號   | 《Arena Homme+》韓國版 | \[221\]                                                                                                                                                                                         |
-| 2018年9月號   | 《GLITTER》日本版      | \[222\]                                                                                                                                                                                         |
-| 2018年9月號   | 《W KOREA》         | \[223\]                                                                                                                                                                                         |
-| 2018年9月號   | 《JJ》              | \[224\]\[225\]\[226\]\[227\]\[228\]\[229\]\[230\]                                                                                                                                               |
+| 2016年5月    | 《DAZED》韓國版        | \[231\]                                                                                                                                                                                         |
+| 2018年2月號   | 《Arena Homme+》韓國版 | \[232\]                                                                                                                                                                                         |
+| 2018年9月號   | 《GLITTER》日本版      | \[233\]                                                                                                                                                                                         |
+| 2018年9月號   | 《W KOREA》         | \[234\]                                                                                                                                                                                         |
+| 2018年9月號   | 《JJ》              | \[235\]\[236\]\[237\]\[238\]\[239\]\[240\]\[241\]                                                                                                                                               |
 
 ## 宣傳大使
 
 |            |                     |                                                            |         |
 | ---------- | ------------------- | ---------------------------------------------------------- | ------- |
 | 委任日期       | 活動名稱                | 參與成員                                                       | 合作藝人    |
-| 2015年3月19日 | 水原 JS 盃足球大會宣傳大使     | 全體                                                         | \[231\] |
-| 2015年9月    | NEPA户外品牌温暖的世界宣传大使   | [南柱赫](https://zh.wikipedia.org/wiki/南柱赫 "wikilink")\[232\] |         |
-| 2017年10月   | 「2017韩流博览会」胡志明站宣传大使 | Krunk（克朗熊）\[233\]                                          |         |
+| 2015年3月19日 | 水原 JS 盃足球大會宣傳大使     | 全體                                                         | \[242\] |
+| 2015年9月    | NEPA户外品牌温暖的世界宣传大使   | [南柱赫](https://zh.wikipedia.org/wiki/南柱赫 "wikilink")\[243\] |         |
+| 2017年10月   | 「2017韩流博览会」胡志明站宣传大使 | Krunk（克朗熊）\[244\]                                          |         |
 |            |                     |                                                            |         |
 
 ## 奖项
@@ -953,9 +962,9 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 
 148.
 
-149. [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台於](https://zh.wikipedia.org/wiki/MBC "wikilink")2018年8月4日播出的綜藝節目《意外的Q》第14集節目內容
+149.
 
-150.
+150. [韓國](https://zh.wikipedia.org/wiki/韓國 "wikilink")[MBC電視台於](https://zh.wikipedia.org/wiki/MBC "wikilink")2018年8月4日播出的綜藝節目《意外的Q》第14集節目內容
 
 151.
 
@@ -997,7 +1006,7 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 
 170.
 
-171. [B.I在](../Page/B.I.md "wikilink")電視台的綜藝節目[一週的偶像中提到](https://zh.wikipedia.org/wiki/一週的偶像 "wikilink")。
+171.
 
 172.
 
@@ -1019,7 +1028,7 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 
 181.
 
-182.
+182. [B.I在](../Page/B.I.md "wikilink")電視台的綜藝節目[一週的偶像中提到](https://zh.wikipedia.org/wiki/一週的偶像 "wikilink")。
 
 183.
 
@@ -1042,6 +1051,7 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 192.
 
 193.
+
 194.
 
 195.
@@ -1063,7 +1073,6 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 203.
 
 204.
-
 205.
 
 206.
@@ -1121,3 +1130,25 @@ iTunes 排行榜冠軍\[187\]\[188\]。
 232.
 
 233.
+
+234.
+
+235.
+
+236.
+
+237.
+
+238.
+
+239.
+
+240.
+
+241.
+
+242.
+
+243.
+
+244.

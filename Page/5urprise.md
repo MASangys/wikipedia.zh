@@ -373,6 +373,24 @@ My Heart》以團體歌手正式出道。
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
+<td><p><a href="../Page/因為初戀是第一次.md" title="wikilink">因為初戀是第一次</a></p></td>
+<td><p><a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a></p></td>
+<td><p>崔勳</p></td>
+<td><p>第二男主角</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>KBS</p></td>
+<td><p><a href="https://zh.wikipedia.org/wiki/朝鮮浪漫喜劇-綠豆傳" title="wikilink">朝鮮浪漫喜劇-綠豆傳</a></p></td>
+<td><p><a href="../Page/姜泰伍.md" title="wikilink">姜泰伍</a></p></td>
+<td></td>
+<td><p>第二男主角</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>待定</strong></p></td>
 <td><p>待定</p></td>
 <td><p><a href="https://zh.wikipedia.org/wiki/我們的關係" title="wikilink">我們的關係</a></p></td>

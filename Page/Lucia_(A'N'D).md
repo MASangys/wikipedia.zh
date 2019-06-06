@@ -25,8 +25,8 @@ Chen**，），藝名**Lucia**，[可米製作旗下的團體](https://zh.wikipe
 | 2014年11月 | [終極惡女](https://zh.wikipedia.org/wiki/終極惡女 "wikilink")   | 嚴炎   | 主要角色(全劇)                                                                          |
 | 2017年6月  | [終極三國2017](../Page/終極三國_\(2017年\).md "wikilink")        | 夏侯芝  | 主要角色(第3-11,14-15,18-24,26-29,32-33,37-39,41-45,47,49-51,53-54,56-58,61-65,67-69集) |
 | 2018年1月  | [終極一班5](../Page/終極一班5.md "wikilink")                    | 小八   | 主要角色 (第7-8、15-18、20、26-29、31-33集)                                                 |
-| 2018年    | 天理男容                                                    |      |                                                                                   |
-| 開拍中      | [國民老公2](https://zh.wikipedia.org/wiki/國民老公2 "wikilink") |      |                                                                                   |
+| 2018年    | [天理男容](https://zh.wikipedia.org/wiki/天理男容 "wikilink")   | 哈尼   |                                                                                   |
+| 拍攝中      | [國民老公2](https://zh.wikipedia.org/wiki/國民老公2 "wikilink") |      |                                                                                   |
 
 ### 综艺节目
 

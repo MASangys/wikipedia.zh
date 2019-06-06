@@ -43,7 +43,7 @@ ana9导弹的服役也让B](https://zh.wikipedia.org/wiki/AGM-6subrine_ana9导�
     Missile*](http://www.strategic-air-command.com/missiles/Aircraft-Launched_Missiles/adm-20_quail_missile.htm),
     Strategic-Air-Command.com Website, retrieved October 1, 2007
   - [*McDonnell GAM-72/ADM-20 Quail Missile
-    Data*](http://www.ammsalumni.org/html/adm-20_history_data.html),
+    Data*](https://web.archive.org/web/20150121045034/http://www.ammsalumni.org/html/adm-20_history_data.html),
     AMMS ALUMNI Website, retrieved October 2, 2007
   - [*AMMS History*](http://www.ammsalumni.org/html/amms_history.html),
     AMMS ALUMNI Website, retrieved October 6, 2007

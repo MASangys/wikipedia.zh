@@ -1,4 +1,4 @@
-</ref> }}
+</ref> | sg_name = X战警：天启灭世战 }}
 《**X战警：天启**》（）是一部由[布莱恩·辛格执导的](https://zh.wikipedia.org/wiki/布莱恩·辛格 "wikilink")2016年[美国](../Page/美国.md "wikilink")[超级英雄电影](https://zh.wikipedia.org/wiki/超级英雄电影 "wikilink")，改編自[漫威漫畫出版的漫畫書](../Page/漫威漫畫.md "wikilink")《[X戰警](https://zh.wikipedia.org/wiki/X戰警 "wikilink")》。本片為2014年電影《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》的續集和「[X戰警系列電影](https://zh.wikipedia.org/wiki/X戰警系列電影 "wikilink")」的第九部作品，故事的時間點設定於《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》中1973年的10年後。[賽門·金柏格負責編劇並與](../Page/賽門·金柏格.md "wikilink")、[麥可·道格堤和辛格提供故事](../Page/麥可·道格堤.md "wikilink")。由[詹姆斯·麦卡沃伊](https://zh.wikipedia.org/wiki/詹姆斯·麦卡沃伊 "wikilink")、
 [麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[詹妮弗·劳伦斯](https://zh.wikipedia.org/wiki/詹妮弗·劳伦斯 "wikilink")、[尼古拉斯·霍尔特](../Page/尼古拉斯·霍尔特.md "wikilink")、[蘿絲·拜恩](../Page/蘿絲·拜恩.md "wikilink")、[奧斯卡·伊薩克](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")、[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")、[蘇菲·特納](../Page/蘇菲·特納.md "wikilink")、[奧莉薇亞·孟恩以及](https://zh.wikipedia.org/wiki/奧莉薇亞·孟恩 "wikilink")[盧卡斯·提爾主演](../Page/盧卡斯·提爾.md "wikilink")。
 
@@ -6,7 +6,7 @@
 
 ## 劇情
 
-[西元前](https://zh.wikipedia.org/wiki/西元前 "wikilink")3600年，世界首位變種人「[天啟](../Page/天啟_\(漫威漫畫\).md "wikilink")」恩·沙巴·奴爾統治[古埃及](https://zh.wikipedia.org/wiki/古埃及 "wikilink")，被人民集體膜拜為「神」，長久以來靠轉移意識至年輕軀體而長生不老，由此累積許多其他變種人力量。但一群受盡他統治的，在他進行意識轉移的儀式當天發動[起義](https://zh.wikipedia.org/wiki/起義 "wikilink")，破壞金字塔[地基而將其活埋入地底](../Page/地基.md "wikilink")。天啟身邊的死前用能力守護他的新軀體，使他倖免於難且陷入沉睡，其歷史從此被抹除。
+[西元前](https://zh.wikipedia.org/wiki/西元前 "wikilink")3600年，人類世界首位變種人「[天啟](../Page/天啟_\(漫威漫畫\).md "wikilink")」恩·沙巴·奴爾統治[古埃及](https://zh.wikipedia.org/wiki/古埃及 "wikilink")，被人民集體膜拜為「神」，長久以來靠轉移[意識至年輕軀體而長生不老](https://zh.wikipedia.org/wiki/意識 "wikilink")，由此累積許多其他變種人力量。但一群受盡他統治的，在他進行意識轉移的儀式當天發動[起義](https://zh.wikipedia.org/wiki/起義 "wikilink")，破壞金字塔[地基而將其活埋入地底](../Page/地基.md "wikilink")。天啟身邊的死前用能力守護他的新軀體，使他倖免於難且陷入沉睡，其歷史從此被抹除。
 
 1983年，人類和變種人和平共處十年，在[埃及](../Page/埃及.md "wikilink")[開羅仍存有一小部分膜拜天啟的](https://zh.wikipedia.org/wiki/開羅 "wikilink")[狂熱份子](https://zh.wikipedia.org/wiki/宗教狂熱 "wikilink")，他們挖出其墓穴帶入大量陽光，天啟因此從地底甦醒，走出去後遇到以偷竊為生的變種人[奧洛羅·夢洛](../Page/暴風女.md "wikilink")，其能夠控制[氣象](https://zh.wikipedia.org/wiki/氣象 "wikilink")。天啟透過她的電視瞭解現今社會的歷史，靠觸碰來提升奧洛羅的能力，將她作為自己的第一位騎士。[瑞雯·達克霍自從在](../Page/魔形女.md "wikilink")[華盛頓的壯舉後成為變種人的模範](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")，她於[柏林的地下格鬥場救出一名能](../Page/柏林.md "wikilink")[瞬間移動的男孩](../Page/瞬間移動.md "wikilink")[寇特·華格納](../Page/夜行者_\(漫畫\).md "wikilink")，通過黑市經營者的偽造身份而將他偷渡至美國，安頓在[查爾斯·賽維爾的變種人學院](../Page/X教授.md "wikilink")。而查爾斯的前戰友[亞歷克斯·桑瑪斯將他同是變種人的弟弟](../Page/衝擊波_\(漫畫\).md "wikilink")[史考特也送到學校](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")，其眼睛會失控性地發射強大激光，查爾斯便給他一副深色墨鏡抑制住，他跟一位有強大心電感應能力的女孩[琴·葛雷成為朋友](../Page/琴·葛雷.md "wikilink")。
 
@@ -96,7 +96,7 @@ Cyclops / Scott Summers</p></td>
 Sophie Turner</p></td>
 <td><p>|「<strong><a href="https://zh.wikipedia.org/wiki/火鳳凰_(漫威漫畫)" title="wikilink">火鳳凰</a></strong>」琴·葛雷<br />
 Phoenix / Jean Grey</p></td>
-<td><p>擁有心靈感應和念力能力的變種人，也是X教授最珍惜的學生之一。隱藏着鳳凰之力，足以和天啟匹敵。<br />
+<td><p>擁有心靈感應和念力能力的變種人，也是X教授最強大的學生。隱藏着鳳凰之力，足以和天啟匹敵。<br />
 能力：擁有心靈、精神傳動力 / 念力移物。</p></td>
 </tr>
 <tr class="odd">
@@ -149,7 +149,7 @@ Angel / Warren Worthington III</p></td>
 <tr class="odd">
 <td><p><a href="../Page/拉娜·康多.md" title="wikilink">拉娜·康多</a><br />
 Lana Condor</p></td>
-<td><p>「<strong><a href="https://zh.wikipedia.org/wiki/歡歡_(漫畫)" title="wikilink">歡歡</a></strong>」李千歡<br />
+<td><p>「<strong><a href="../Page/歡歡_(漫畫).md" title="wikilink">歡歡</a></strong>」李千歡<br />
 Jubilee / Jubilation Lee</p></td>
 <td><p>華裔變種人,能夠根據自己的意志從指尖製造、操控和爆破具有殺傷力的煙火和吸收它們；可抵擋心電感應，和獨眼龍、琴和藍魔鬼很要好。</p></td>
 </tr>
@@ -182,7 +182,7 @@ Stan Lee</p></td>
 
 ### 發展
 
-2013年12月，[布莱恩·辛格宣布](../Page/布萊恩·辛格.md "wikilink")，《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》的續集名為《X戰警：天啟》，並由[賽門·金柏格](../Page/賽門·金柏格.md "wikilink")、和麥可·多爾蒂編劇\[1\]。據辛格所述，本集的重點都將放於變種人的起源\[2\]。辛格表示，這將背景1983年代的《[X戰警：第一戰](https://zh.wikipedia.org/wiki/X戰警：第一戰 "wikilink")》完成一三部曲\[3\]\[4\]。演員[詹姆斯·麥艾維](../Page/詹姆斯·麥艾維.md "wikilink")、[麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[尼可拉斯·霍特](https://zh.wikipedia.org/wiki/尼可拉斯·霍特 "wikilink")、[珍妮佛·勞倫斯](../Page/珍妮佛·勞倫斯.md "wikilink")、[伊凡·彼得斯](https://zh.wikipedia.org/wiki/伊凡·彼得斯 "wikilink")、[盧卡斯·提爾以及](../Page/盧卡斯·提爾.md "wikilink")[蘿絲·拜恩和系列部分的原班人馬都將回歸演出](../Page/蘿絲·拜恩.md "wikilink")\[5\]\[6\]\[7\]。而[獨眼龍](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")、[火鳳凰和](https://zh.wikipedia.org/wiki/火鳳凰_\(漫威漫畫\) "wikilink")[暴風女也將現身於電影中](../Page/暴風女.md "wikilink")\[8\]。2014年11月24日，宣布[奧斯卡·伊薩克將於電影中飾演反派](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")"[天啟](../Page/天啟_\(漫威漫畫\).md "wikilink")"\[9\]。2015年1月17日，宣布原版X教授演員[派崔克·史都華](https://zh.wikipedia.org/wiki/派崔克·史都華 "wikilink")、萬磁王演員[伊恩·麥克連將不會現身於電影中](https://zh.wikipedia.org/wiki/伊恩·麥克連 "wikilink")\[10\]。2015年1月22日，辛格於自己的推特上宣布，[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")、[蘇菲·特納和](../Page/蘇菲·特納.md "wikilink")[雅莉珊卓·希普將分別飾演年輕版的](../Page/雅莉珊卓·希普.md "wikilink")[獨眼龍](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")、[火鳳凰和](https://zh.wikipedia.org/wiki/火鳳凰_\(漫威漫畫\) "wikilink")[暴風女](../Page/暴風女.md "wikilink")\[11\]\[12\]。2015年2月19日辛格宣布[寇帝·史密-麥菲演出年輕版藍魔鬼](../Page/寇帝·史密-麥菲.md "wikilink")。同年3月，[珍妮佛·勞倫斯表示本片將會是自己飾演](../Page/珍妮佛·勞倫斯.md "wikilink")[魔形女的最後一部](../Page/魔形女.md "wikilink")\[13\]。此外，[拉娜·康多飾演](../Page/拉娜·康多.md "wikilink")[歡歡](https://zh.wikipedia.org/wiki/歡歡_\(漫畫\) "wikilink")，[班·哈迪則飾演](https://zh.wikipedia.org/wiki/班·哈迪 "wikilink")[天使](../Page/天使_\(漫威漫畫\).md "wikilink")，[靈蝶由](../Page/靈蝶.md "wikilink")[奥利维亚·穆恩飾演](../Page/奥利维亚·穆恩.md "wikilink")。\[14\]\[15\]\[16\]。
+2013年12月，[布莱恩·辛格宣布](../Page/布萊恩·辛格.md "wikilink")，《[X戰警：未來昔日](https://zh.wikipedia.org/wiki/X戰警：未來昔日 "wikilink")》的續集名為《X戰警：天啟》，並由[賽門·金柏格](../Page/賽門·金柏格.md "wikilink")、和麥可·多爾蒂編劇\[1\]。據辛格所述，本集的重點都將放於變種人的起源\[2\]。辛格表示，這將背景1983年代的《[X戰警：第一戰](https://zh.wikipedia.org/wiki/X戰警：第一戰 "wikilink")》完成一三部曲\[3\]\[4\]。演員[詹姆斯·麥艾維](../Page/詹姆斯·麥艾維.md "wikilink")、[麥可·法斯賓達](../Page/麥可·法斯賓達.md "wikilink")、[尼可拉斯·霍特](https://zh.wikipedia.org/wiki/尼可拉斯·霍特 "wikilink")、[珍妮佛·勞倫斯](../Page/珍妮佛·勞倫斯.md "wikilink")、[伊凡·彼得斯](https://zh.wikipedia.org/wiki/伊凡·彼得斯 "wikilink")、[盧卡斯·提爾以及](../Page/盧卡斯·提爾.md "wikilink")[蘿絲·拜恩和系列部分的原班人馬都將回歸演出](../Page/蘿絲·拜恩.md "wikilink")\[5\]\[6\]\[7\]。而[獨眼龍](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")、[火鳳凰和](https://zh.wikipedia.org/wiki/火鳳凰_\(漫威漫畫\) "wikilink")[暴風女也將現身於電影中](../Page/暴風女.md "wikilink")\[8\]。2014年11月24日，宣布[奧斯卡·伊薩克將於電影中飾演反派](https://zh.wikipedia.org/wiki/奧斯卡·伊薩克 "wikilink")"[天啟](../Page/天啟_\(漫威漫畫\).md "wikilink")"\[9\]。2015年1月17日，宣布原版X教授演員[派崔克·史都華](https://zh.wikipedia.org/wiki/派崔克·史都華 "wikilink")、萬磁王演員[伊恩·麥克連將不會現身於電影中](https://zh.wikipedia.org/wiki/伊恩·麥克連 "wikilink")\[10\]。2015年1月22日，辛格於自己的推特上宣布，[泰·謝里丹](../Page/泰·謝里丹.md "wikilink")、[蘇菲·特納和](../Page/蘇菲·特納.md "wikilink")[雅莉珊卓·希普將分別飾演年輕版的](../Page/雅莉珊卓·希普.md "wikilink")[獨眼龍](../Page/獨眼龍_\(漫威漫畫\).md "wikilink")、[火鳳凰和](https://zh.wikipedia.org/wiki/火鳳凰_\(漫威漫畫\) "wikilink")[暴風女](../Page/暴風女.md "wikilink")\[11\]\[12\]。2015年2月19日辛格宣布[寇帝·史密-麥菲演出年輕版藍魔鬼](../Page/寇帝·史密-麥菲.md "wikilink")。同年3月，[珍妮佛·勞倫斯表示本片將會是自己飾演](../Page/珍妮佛·勞倫斯.md "wikilink")[魔形女的最後一部](../Page/魔形女.md "wikilink")\[13\]。此外，[拉娜·康多飾演](../Page/拉娜·康多.md "wikilink")[歡歡](../Page/歡歡_\(漫畫\).md "wikilink")，[班·哈迪則飾演](https://zh.wikipedia.org/wiki/班·哈迪 "wikilink")[天使](../Page/天使_\(漫威漫畫\).md "wikilink")，[靈蝶由](../Page/靈蝶.md "wikilink")[奥利维亚·穆恩飾演](../Page/奥利维亚·穆恩.md "wikilink")。\[14\]\[15\]\[16\]。
 
 ### 拍攝
 

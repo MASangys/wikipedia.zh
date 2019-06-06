@@ -370,8 +370,8 @@ KMTV Asia</p></td>
 [Category:已解散的韓國女子演唱團體](https://zh.wikipedia.org/wiki/Category:已解散的韓國女子演唱團體 "wikilink")
 [Category:The_Unit](https://zh.wikipedia.org/wiki/Category:The_Unit "wikilink")
 
-1.  [YUNA KIM、全珉柱退出 THE
-    ARK！](http://kpopn.niusnews.com/=K321tf84).Kpopn.2016-07-13.
+1.  [YUNA KIM、全珉柱退出 THE ARK！](http://kpopn.niusnews.com/=K321tf84)
+    .Kpopn.2016-07-13.
 2.  [Euna Kim Opens Up About Why The Ark Disbanded And Her Experience On
     “Unpretty
     Rapstar 3”](https://www.soompi.com/2017/01/20/yuna-kim-opens-ark-disbanded-experience-unpretty-rapstar-3/).Soompi.January
@@ -386,7 +386,7 @@ KMTV Asia</p></td>
 8.  [我的名字,The Ark](http://tenasia.hankyung.com/archives/508816)
 9.  ["대략 8월 중으로 공개될 것으로 예상하고
     있어요"](http://star.mbn.co.kr/view.php?no=548820&year=2015&refer=portal)
-10. [全珉柱、Lee Su Hyun 將以五人女團出道](http://kpopn.niusnews.com/=K38pp000)
+10.
 11. ['K-Pop Star 6' contestant Jeon Minju to debut in a girl group with
     Lee Soo
     Hyun](http://www.allkpop.com/article/2017/04/k-pop-star-6-contestant-jeon-minju-to-debut-in-a-girl-group-with-lee-soo-hyun)
